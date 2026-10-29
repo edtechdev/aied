@@ -30,7 +30,6 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-reviewed_by: [editor]
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*

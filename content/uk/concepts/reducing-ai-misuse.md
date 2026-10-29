@@ -8,7 +8,6 @@ pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/reducing-ai-misuse
 source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -120,7 +119,7 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## Пов’язані статті
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Утримання рекомендації значною мірою запобігло надмірній опорі, не будуючи судження, яке воно захищає
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Утримання рекомендації значною мірою запобігло надмірній опорі, не будуючи судження, яке воно захищає
 - [[ivory-psychology-assessment-integrity-2026]] — Version-control evidence trails and reproducible analysis documents as misuse deterrents (Ivory et al. 2026)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning

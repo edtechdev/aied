@@ -10,7 +10,6 @@ level: [higher ed, k 12]
 audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/retrieval-spacing-interleaving
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

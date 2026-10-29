@@ -1,5 +1,5 @@
 ---
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: 접근성
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-09-30T09:59:35-04:00"

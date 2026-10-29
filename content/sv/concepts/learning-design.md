@@ -138,14 +138,14 @@ Fowlin m.fl. (2026) tillför ett operativt drag för att avgöra var AI ska komm
 
 ## Anslutna artiklar
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - En uppmätt besparing i planeringstid vid sidan av fyndet att lärare bara planerar 21% till 40% av lektionerna från grunden
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Lärandeanalys och GenAI i beslut om lärandedesign
-- [[tang-chatbots-learning-design-2026]] - Chattbotanvändning i lärandedesign: designers dröjer vid mål och pedagogik snarare än innehållsgenerering (Tang m.fl. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Mönster i lärar-AI-interaktion vid lektionsdesign över erfarenhet och AI-skicklighet (Choi m.fl. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - AI i högre utbildning: engagemang och undervisningsmetoders förmedlande roll
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — En uppmätt besparing i planeringstid vid sidan av fyndet att lärare bara planerar 21% till 40% av lektionerna från grunden
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Lärandeanalys och GenAI i beslut om lärandedesign
+- [[tang-chatbots-learning-design-2026]] — Chattbotanvändning i lärandedesign: designers dröjer vid mål och pedagogik snarare än innehållsgenerering (Tang m.fl. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mönster i lärar-AI-interaktion vid lektionsdesign över erfarenhet och AI-skicklighet (Choi m.fl. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI i högre utbildning: engagemang och undervisningsmetoders förmedlande roll
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taxonomi (gränsobjekt) för att klassificera GenAI-lärandeaktiviteter
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomi (gränsobjekt) för att klassificera GenAI-lärandeaktiviteter
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -156,19 +156,19 @@ Fowlin m.fl. (2026) tillför ett operativt drag för att avgöra var AI ska komm
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - AI-webbagenter: en autonom webbagent utvärderar lektionsdesigner och förutsäger elevavhopp innan eleverna engagerar sig (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: ett ramverk för kognitivt aktiverad AI-förstärkning i fysik
+- [[ai-web-agents-lesson-design-2025]] — AI-webbagenter: en autonom webbagent utvärderar lektionsdesigner och förutsäger elevavhopp innan eleverna engagerar sig (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: ett ramverk för kognitivt aktiverad AI-förstärkning i fysik
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Designing for Reach: sju hävstänger och eleven ensam med AI
+- [[halani-designing-for-reach-2026]] — Designing for Reach: sju hävstänger och eleven ensam med AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - När ett nej ger bättre videor: dubbel grindvakt för pedagogiskt förankrat AI-innehållsskapande
-- [[rhaimi-productivemath-2025]] - ProductiveMath: AI som stöd för design av produktiva misslyckanden
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI och praktiken för instruktionsdesign: en systematisk genomgång (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Grafbaserad intelligent handledning för dynamiska domäner (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Att göra AI irriterande med avsikt: begränsning i AI-stött skrivande (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Smartklassrumsmodell och D-T-E-loop som förbättrar instruktionsdesignfärdighet på avancerad nivå i matematik (Zhu m.fl. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - AI-driven plattform som genererar matematiska modelleringsproblem (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Lärar-AI-samdesign av lärandeuppgifter: trender och perspektiv (Wang m.fl. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Rollarkitektur i AI-designade differentierade gruppaktiviteter (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM:er som agenter för iterativ pedagogisk design
+- [[ai-video-dual-gatekeeping-2026]] — När ett nej ger bättre videor: dubbel grindvakt för pedagogiskt förankrat AI-innehållsskapande
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI som stöd för design av produktiva misslyckanden
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI och praktiken för instruktionsdesign: en systematisk genomgång (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Grafbaserad intelligent handledning för dynamiska domäner (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Att göra AI irriterande med avsikt: begränsning i AI-stött skrivande (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smartklassrumsmodell och D-T-E-loop som förbättrar instruktionsdesignfärdighet på avancerad nivå i matematik (Zhu m.fl. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — AI-driven plattform som genererar matematiska modelleringsproblem (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Lärar-AI-samdesign av lärandeuppgifter: trender och perspektiv (Wang m.fl. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Rollarkitektur i AI-designade differentierade gruppaktiviteter (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM:er som agenter för iterativ pedagogisk design

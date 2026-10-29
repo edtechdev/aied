@@ -201,7 +201,7 @@ AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*
 - [[stakeholders]] — AI 교육에서의 사람과 독자층의 포괄 개념(학습자, 교사, 설계자, 관리자, 정책 입안자)
 
 ## 연결된 문서
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - 비정규 학술인은 권한 없이 진실성 업무를 짊어진다
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — 비정규 학술인은 권한 없이 진실성 업무를 짊어진다
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — 더 인간다운 역설: 전문가의 2030년 시나리오는 AI 포화가 인간의 교수학적 일을 대체하기보다 강화함을 발견한다 (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — 관찰된 여섯 차시의 고등학교 수학 수업이 기기 오케스트레이션을 세 가지 새로운 유형으로 확장한다 (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI가 생성한 감정 알림에 대응하기: 수학 교실에서의 교사 개입과 학생 참여
@@ -247,4 +247,4 @@ AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 정보 제공자에서 학습 설계자로: AI가 강화된 교육에서의 휴다고지 교수 실천
 - [[falhs-teacher-expertise-reflection-2025]] — 숙련 수준이 선호와 성찰 요구를 어떻게 바꾸는가: 교사 역량 강화를 위한 AI 성찰 시스템을 향하여 (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — 증거에 기반한 대화로 교수 오해를 다루는 대화형 AI 진단 도구(Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - AI 사용은 교사 성과에 직접 효과가 없었고, 시민적 행동이 그것을 매개했다(Sherly 등 2027)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — AI 사용은 교사 성과에 직접 효과가 없었고, 시민적 행동이 그것을 매개했다(Sherly 등 2027)

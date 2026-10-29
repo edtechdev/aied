@@ -5,7 +5,6 @@ type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/knowledge-graph
 source_updated: "2026-10-09T09:25:11-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

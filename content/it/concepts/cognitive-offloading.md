@@ -10,7 +10,6 @@ audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -193,9 +192,9 @@ La stessa logica trasforma la modellazione della ricompensa in uno strumento pro
 - [[cognitive-surrender]]
 
 ## Articoli collegati
-- [[ai-proof-learning-cognitive-offloading-2026]] - Sostenere o sostituire il ragionamento degli studenti? L'offloading cognitivo nell'apprendimento assistito dall'IA delle dimostrazioni (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Che cosa la consegna non mostra: complessificare l'offloading cognitivo nel lavoro matematico degli studenti con gli LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
+- [[ai-proof-learning-cognitive-offloading-2026]] — Sostenere o sostituire il ragionamento degli studenti? L'offloading cognitivo nell'apprendimento assistito dall'IA delle dimostrazioni (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Che cosa la consegna non mostra: complessificare l'offloading cognitivo nel lavoro matematico degli studenti con gli LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
 - [[rented-self-decoupling-performance-becoming-2026]] — The rented self: offloading that costs the learner's domain self, not only the skill
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
@@ -233,5 +232,5 @@ La stessa logica trasforma la modellazione della ricompensa in uno strumento pro
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloading tendency and verification literacy predicting higher-order outcomes through metacognitive self-regulation (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)

@@ -136,14 +136,14 @@ Fowlin et al. (2026) добавят оперативен ход за решав�
 
 ## Свързани статии
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Измерено спестяване на време за планиране наред с находката, че учителите планират само 21% до 40% от уроците от нулата
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Анализ на обучението и GenAI при вземането на решения за дизайн на обучение
-- [[tang-chatbots-learning-design-2026]] - Използване на чатбот в дизайна на обучение: дизайнерите се спират на резултатите и педагогиката, а не на генерирането на съдържание (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Модели на взаимодействие учител-AI при дизайна на уроци според опита и владеенето на AI (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - AI във висшето образование: ангажираност и медиираща роля на методите на преподаване
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Измерено спестяване на време за планиране наред с находката, че учителите планират само 21% до 40% от уроците от нулата
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Анализ на обучението и GenAI при вземането на решения за дизайн на обучение
+- [[tang-chatbots-learning-design-2026]] — Използване на чатбот в дизайна на обучение: дизайнерите се спират на резултатите и педагогиката, а не на генерирането на съдържание (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Модели на взаимодействие учител-AI при дизайна на уроци според опита и владеенето на AI (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI във висшето образование: ангажираност и медиираща роля на методите на преподаване
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Таксономия (граничен обект) за класифициране на учебни дейности с GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Таксономия (граничен обект) за класифициране на учебни дейности с GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin et al. (2026) добавят оперативен ход за решав�
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - AI уеб агенти: автономен уеб агент оценява дизайни на уроци и предсказва отпадането на студенти, преди те да се ангажират (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: рамка за когнитивно активирано AI усилване във физиката
+- [[ai-web-agents-lesson-design-2025]] — AI уеб агенти: автономен уеб агент оценява дизайни на уроци и предсказва отпадането на студенти, преди те да се ангажират (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: рамка за когнитивно активирано AI усилване във физиката
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Дизайн за обхват: седем лоста и студентът сам с AI
+- [[halani-designing-for-reach-2026]] — Дизайн за обхват: седем лоста и студентът сам с AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Когато да кажеш „не“ прави по-добри видеа: двойно филтриране за педагогически обосновано създаване на съдържание с AI
-- [[rhaimi-productivemath-2025]] - ProductiveMath: AI за подкрепа на дизайна на задачи за продуктивен неуспех
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI и практиката на инструкционния дизайн: систематичен преглед (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Базирано на графи интелигентно обучение за динамични области (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Правене на AI досаден нарочно: ограничението в подпомогнатото от AI писане (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Модел за интелигентна класна стая и цикъл D-T-E, подобряващи умението за инструкционен дизайн в магистърска програма по математика (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - AI платформа за генериране на задачи за математическо моделиране (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Съвместен дизайн на учебни задачи от учител и AI: тенденции и перспективи (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Архитектура на ролите в диференцирани групови дейности, проектирани с AI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM като агенти на итеративен педагогически дизайн
+- [[ai-video-dual-gatekeeping-2026]] — Когато да кажеш „не“ прави по-добри видеа: двойно филтриране за педагогически обосновано създаване на съдържание с AI
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI за подкрепа на дизайна на задачи за продуктивен неуспех
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI и практиката на инструкционния дизайн: систематичен преглед (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Базирано на графи интелигентно обучение за динамични области (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Правене на AI досаден нарочно: ограничението в подпомогнатото от AI писане (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Модел за интелигентна класна стая и цикъл D-T-E, подобряващи умението за инструкционен дизайн в магистърска програма по математика (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — AI платформа за генериране на задачи за математическо моделиране (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Съвместен дизайн на учебни задачи от учител и AI: тенденции и перспективи (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Архитектура на ролите в диференцирани групови дейности, проектирани с AI (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM като агенти на итеративен педагогически дизайн

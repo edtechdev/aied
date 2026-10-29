@@ -9,7 +9,6 @@ connected_faqs: [ai-guidance-children-under-13]
 discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/educational-robotics
 source_updated: "2026-10-01T09:59:02-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

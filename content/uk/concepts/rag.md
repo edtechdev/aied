@@ -7,7 +7,6 @@ technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-trai
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
-reviewed_by: [editor]
 translation_of: concepts/rag
 source_updated: "2026-10-05T11:00:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

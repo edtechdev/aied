@@ -14,7 +14,6 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
 source_updated: "2026-10-22T09:11:45-04:00"

@@ -7,7 +7,6 @@ technology: [educational-robotics]
 discipline: [language learning]
 level: [k 12]
 confidence: high
-reviewed_by: [editor]
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_of: concepts/storytelling-in-education
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

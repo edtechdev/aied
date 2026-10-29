@@ -28,7 +28,6 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/mglearn
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

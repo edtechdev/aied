@@ -8,7 +8,6 @@ technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, promp
 audience: [learners]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/student-ai-interaction
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

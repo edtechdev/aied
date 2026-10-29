@@ -9,7 +9,6 @@ discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/physics-education
 source_updated: "2026-10-06T18:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

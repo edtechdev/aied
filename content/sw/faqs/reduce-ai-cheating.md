@@ -5,7 +5,6 @@ connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, address
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-reviewed_by: [editor]
 translation_of: faqs/reduce-ai-cheating
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

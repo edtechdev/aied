@@ -8,7 +8,6 @@ assessment: [assessment-validity, feedback, formative-assessment]
 audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/evaluative-judgment
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

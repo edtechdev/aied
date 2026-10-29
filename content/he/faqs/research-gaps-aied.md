@@ -12,7 +12,6 @@ research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-reviewed_by: [editor]
 translation_of: faqs/research-gaps-aied
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

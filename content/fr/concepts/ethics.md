@@ -116,7 +116,7 @@ L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducat
 - [[biology-education]] — L'enseignement de la biologie et l'IA : assistants de laboratoire pour l'enseignement, littératie en IA en biologie, pensée critique, outils spécialisés
 
 ## Articles liés
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - La conscience éthique a amplifié l'anxiété liée à l'IA là où aucun cadre d'adaptation n'était enseigné : médiation indirecte uniquement parmi 584 étudiants
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La conscience éthique a amplifié l'anxiété liée à l'IA là où aucun cadre d'adaptation n'était enseigné : médiation indirecte uniquement parmi 584 étudiants
 - [[learning-analytics-to-educational-interventions-2026]] — De l'analytique de l'apprentissage aux interventions éducatives : les facilitateurs d'interventions dignes de confiance fondées sur l'analytique de l'apprentissage (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Comment les étudiants utilisent et cachent l'IA dans les évaluations en ligne
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgation de l'IA par les étudiants, stigmatisation et apprentissage autorégulé

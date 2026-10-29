@@ -198,43 +198,43 @@ A GAIT-alapú kötelességszegési szándék első tervezett viselkedés elméle
 
 ## Kapcsolódó cikkek
 
-- [[ivory-psychology-assessment-integrity-2026]] - Egy teljes pszichológiai program minimális erőfeszítéssel átmenővé téve, és az osztályozási kritériumok, amelyek ezt átengedték (Ivory és mtsai 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - A tanárjelöltek visszautasították a GenAI-t egy megengedő szabályzat mellett; a „csapda” keretezés és a felmérés-nyilatkozat rés
-- [[ai-agents-joyful-assessment-third-space-2026]] - MI-ágensek, örömteli értékelés és harmadik tér
-- [[kumar-genai-computing-education-systematic-review-2026]] - A detektálási bizonyíték vékony (3 kutatás a 72-ből); az újratervezés viseli a terhet
-- [[mccorkle-aligned-genai-course-policy-2025]] - Összehangolt GenAI kurzus-szabályzat: értékelésből levezetett engedélyek, átlátható indoklás (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Konstruktumequivalens értékelési variánsgenerálás (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Hogyan szabályozzák az oktatók az MI-t 31 000 kurzustematikán át; az integritási keretezés hanyatlik (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Végig lehet-e csalni magát valaki egy biológia diplomáig? Esettanulmány a biológiai kurzusjegyek sebezhetőségéről a generatív MI korában
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - A diákok nem-megfelelése az MI-használati nyilatkozatoknak
-- [[detecting-llm-generated-text-latent-prompt]] - LLM-generált szöveg detektálása
-- [[beyond-detection-authentic-assessment-ai-2025]] - A detektáláson túl: autentikus értékelés egy MI-közvetített világban
-- [[ai-assessment-scale-reform]] - Az MI-értékelési skála és az értékelési reform
-- [[authentic-products-authenticated-processes-2026]] - Az autentikus produktumoktól a hitelesített folyamatokig
-- [[student-rationalization-ai-writing]] - „Rendben van, mert…” A diákok racionalizálják az MI-használatot
-- [[ethical-ai-higher-ed-game-theory]] - Koordinációs játék keretrendszer az etikus MI-használathoz
-- [[shame-guilt-ai-regulation-computing-education]] - A szégyen és a bűntudat mint az MI-használat társas szabályozói
-- [[cross-cultural-student-perceptions-genai-computing]] - Vétkezett-e Alice? Az MI-használat kultúrák közötti észlelése
-- [[luo-dawson-value-judgments-grading-2026]] - Értékítéletek a GenAI-támogatott munka osztályozásában: őszinteség, bizalom, érvényesség és kétirányú átláthatóság (Luo és Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Társak elszámoltathatósága és eredetiség a GenAI-közvetített csoportértékelésben
-- [[teichmann-detecting-undetectable-misconduct-2026]] - A detektálás bizonyítékalapjának összeomlása és az eljárási igazságosság, az arányosság és a tervezés melletti érv
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Elrettentés, közzététel és újratervezés mint értékeléstervezési probléma tökéletlen információ mellett
-- [[munoz-misconduct-allegation-evidence-2026]] - Mire is nyugodott valójában 1 162 GenAI-kötelességszegési ügy bizonyítéka, és a hiányzó bizonyítási küszöb
-- [[wright-transcription-not-generation-2026]] - Túl széles MI-tilalmak és az átírás kontra generálás megkülönböztetése
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - MI-alapú digitális csalás és megelőzésalapú etikai pedagógiák: a 183-ról 27-re csökkenő kötelességszegési eset és öt tudományterületspecifikus újratervezés (Leaton Gray, Edsall és Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Az integritás mint irányítási probléma: 130 tételes mutatókeretrendszer akadémiai irányítók számára (Coates, Croucher és Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - 38 kutatás áttekintő vizsgálata a felsőoktatási diákhangokról az akadémiai integritás és a GenAI kapcsán (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - A támogatás és a helyettesítés közötti határvonal meghúzása az EAL-írók számára, és a nyelvi hátteret figyelmen kívül hagyó szabályok egyenlőtlensége (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Promptinjektálás az MI-közvetített osztályozás ellen: rejtett utasítások, amelyek észrevétlenül változtatják meg a jegyet (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - Az MI-használati etikai mátrix: szorongó megfelelés, és hogy a puszta tisztázás miért tolonthatja a diákokat eredményes megkerülésbe (Petricini és Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Az érvelési nyom osztályozása, amikor az MI-ágensek teljesíteni tudják a feladatot (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Az MI-vel írt felvételi esszék elterjedtek, de büntetettek
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Ki cselekszik, ki tud, ki felel? Korpuszalapú diskurzuselemzés a cselekvőképességről, episztemikus felelősségről és elszámoltathatóságról a generatív MI felsőoktatási kutatásában
+- [[ivory-psychology-assessment-integrity-2026]] — Egy teljes pszichológiai program minimális erőfeszítéssel átmenővé téve, és az osztályozási kritériumok, amelyek ezt átengedték (Ivory és mtsai 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — A tanárjelöltek visszautasították a GenAI-t egy megengedő szabályzat mellett; a „csapda” keretezés és a felmérés-nyilatkozat rés
+- [[ai-agents-joyful-assessment-third-space-2026]] — MI-ágensek, örömteli értékelés és harmadik tér
+- [[kumar-genai-computing-education-systematic-review-2026]] — A detektálási bizonyíték vékony (3 kutatás a 72-ből); az újratervezés viseli a terhet
+- [[mccorkle-aligned-genai-course-policy-2025]] — Összehangolt GenAI kurzus-szabályzat: értékelésből levezetett engedélyek, átlátható indoklás (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Konstruktumequivalens értékelési variánsgenerálás (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Hogyan szabályozzák az oktatók az MI-t 31 000 kurzustematikán át; az integritási keretezés hanyatlik (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Végig lehet-e csalni magát valaki egy biológia diplomáig? Esettanulmány a biológiai kurzusjegyek sebezhetőségéről a generatív MI korában
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — A diákok nem-megfelelése az MI-használati nyilatkozatoknak
+- [[detecting-llm-generated-text-latent-prompt]] — LLM-generált szöveg detektálása
+- [[beyond-detection-authentic-assessment-ai-2025]] — A detektáláson túl: autentikus értékelés egy MI-közvetített világban
+- [[ai-assessment-scale-reform]] — Az MI-értékelési skála és az értékelési reform
+- [[authentic-products-authenticated-processes-2026]] — Az autentikus produktumoktól a hitelesített folyamatokig
+- [[student-rationalization-ai-writing]] — „Rendben van, mert…” A diákok racionalizálják az MI-használatot
+- [[ethical-ai-higher-ed-game-theory]] — Koordinációs játék keretrendszer az etikus MI-használathoz
+- [[shame-guilt-ai-regulation-computing-education]] — A szégyen és a bűntudat mint az MI-használat társas szabályozói
+- [[cross-cultural-student-perceptions-genai-computing]] — Vétkezett-e Alice? Az MI-használat kultúrák közötti észlelése
+- [[luo-dawson-value-judgments-grading-2026]] — Értékítéletek a GenAI-támogatott munka osztályozásában: őszinteség, bizalom, érvényesség és kétirányú átláthatóság (Luo és Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Társak elszámoltathatósága és eredetiség a GenAI-közvetített csoportértékelésben
+- [[teichmann-detecting-undetectable-misconduct-2026]] — A detektálás bizonyítékalapjának összeomlása és az eljárási igazságosság, az arányosság és a tervezés melletti érv
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Elrettentés, közzététel és újratervezés mint értékeléstervezési probléma tökéletlen információ mellett
+- [[munoz-misconduct-allegation-evidence-2026]] — Mire is nyugodott valójában 1 162 GenAI-kötelességszegési ügy bizonyítéka, és a hiányzó bizonyítási küszöb
+- [[wright-transcription-not-generation-2026]] — Túl széles MI-tilalmak és az átírás kontra generálás megkülönböztetése
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — MI-alapú digitális csalás és megelőzésalapú etikai pedagógiák: a 183-ról 27-re csökkenő kötelességszegési eset és öt tudományterületspecifikus újratervezés (Leaton Gray, Edsall és Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Az integritás mint irányítási probléma: 130 tételes mutatókeretrendszer akadémiai irányítók számára (Coates, Croucher és Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — 38 kutatás áttekintő vizsgálata a felsőoktatási diákhangokról az akadémiai integritás és a GenAI kapcsán (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — A támogatás és a helyettesítés közötti határvonal meghúzása az EAL-írók számára, és a nyelvi hátteret figyelmen kívül hagyó szabályok egyenlőtlensége (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Promptinjektálás az MI-közvetített osztályozás ellen: rejtett utasítások, amelyek észrevétlenül változtatják meg a jegyet (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Az MI-használati etikai mátrix: szorongó megfelelés, és hogy a puszta tisztázás miért tolonthatja a diákokat eredményes megkerülésbe (Petricini és Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Az érvelési nyom osztályozása, amikor az MI-ágensek teljesíteni tudják a feladatot (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Az MI-vel írt felvételi esszék elterjedtek, de büntetettek
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ki cselekszik, ki tud, ki felel? Korpuszalapú diskurzuselemzés a cselekvőképességről, episztemikus felelősségről és elszámoltathatóságról a generatív MI felsőoktatási kutatásában
 
-- [[genai-governance-australian-higher-ed-2026]] - A felhatalmazott határ feltérképezése: összehasonlító szabályzat-vignetta vizsgálat a generatív MI irányításáról az ausztrál felsőoktatásban
-- [[argus-academic-integrity-genai-2026]] - Argus: akadémiai integritás a generatív MI korában
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Ágazati audit eredmény: a mandátummal és a keretrendszerrel rendelkező egyetemek nem mutatnak különbséget az értékelési kitettségben, a koordinációs probléma empirikus megfelelője
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026): az MI-támogatott csalási kockázat korai előrejelzése LMS-nyomokból, akadémiai útmutatásként keretezve, nem kötelességszegési bizonyítékként
-- [[reddit-genai-education-discourse-analysis-2026]] - Három és fél év oktatási Reddit: a kikényszerítés dominál, és az integritási viták a fő oktató-diák színtér (Yüce és mtsai 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Felmérési kísérlet: a diákok MI-használatának helyettesítő keretezése bünteti a magas tanulmányi átlagú jelentkezőket a felvételnél és a fizetésnél; a személyes teszt az egyetlen megoldás, amelyet mindkét csoport választott
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: egy ember számára olvasható, gép számára ellenálló olvasási felület felé
+- [[genai-governance-australian-higher-ed-2026]] — A felhatalmazott határ feltérképezése: összehasonlító szabályzat-vignetta vizsgálat a generatív MI irányításáról az ausztrál felsőoktatásban
+- [[argus-academic-integrity-genai-2026]] — Argus: akadémiai integritás a generatív MI korában
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Ágazati audit eredmény: a mandátummal és a keretrendszerrel rendelkező egyetemek nem mutatnak különbséget az értékelési kitettségben, a koordinációs probléma empirikus megfelelője
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026): az MI-támogatott csalási kockázat korai előrejelzése LMS-nyomokból, akadémiai útmutatásként keretezve, nem kötelességszegési bizonyítékként
+- [[reddit-genai-education-discourse-analysis-2026]] — Három és fél év oktatási Reddit: a kikényszerítés dominál, és az integritási viták a fő oktató-diák színtér (Yüce és mtsai 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Felmérési kísérlet: a diákok MI-használatának helyettesítő keretezése bünteti a magas tanulmányi átlagú jelentkezőket a felvételnél és a fizetésnél; a személyes teszt az egyetlen megoldás, amelyet mindkét csoport választott
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: egy ember számára olvasható, gép számára ellenálló olvasási felület felé

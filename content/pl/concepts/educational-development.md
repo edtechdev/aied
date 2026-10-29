@@ -142,13 +142,13 @@ Pewność siebie i kompetencje nie są wymiennymi celami: w SEM na 502 responden
 - [[stakeholders]] - parasol: ludzie i odbiorcy w edukacji z SI (uczący się, nauczyciele, projektanci, administratorzy, decydenci)
 
 ## Połączone artykuły
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Krytyczna analiza dyskursu porad o dopasowaniu GenAI: developerzy przeformułowani jako trenerzy technologii
-- [[crompton-faculty-technology-integration-standards-2026]] - Standardy integracji technologii dla wykładowców (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Etyczne wymiary SI: poglądy wykładowców i studentów
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Krytyczna analiza dyskursu porad o dopasowaniu GenAI: developerzy przeformułowani jako trenerzy technologii
+- [[crompton-faculty-technology-integration-standards-2026]] — Standardy integracji technologii dla wykładowców (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etyczne wymiary SI: poglądy wykładowców i studentów
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Jak metafory wykładowców inżynierii konstruują (i ograniczają) rozumienie SI
-- [[fear-awe-genai-metaphor-workshops-2025]] - Lęk i zachwyt: rozumienie generatywnej SI przez metaforę (warsztat metafor dla wykładowców, personelu i studentów)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Zarządzanie tym, co niewidoczne: kompetencje w zakresie SI wśród nauczycieli języków
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Jak metafory wykładowców inżynierii konstruują (i ograniczają) rozumienie SI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Lęk i zachwyt: rozumienie generatywnej SI przez metaforę (warsztat metafor dla wykładowców, personelu i studentów)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Zarządzanie tym, co niewidoczne: kompetencje w zakresie SI wśród nauczycieli języków
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Pewność siebie i kompetencje nie są wymiennymi celami: w SEM na 502 responden
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI jako kryzys tożsamości, a nie luka kompetencyjna
-- [[zuo-instructor-power-genai-writing-2026]] - Relacje władzy postrzegane przez instruktorów akademickich zmagających się z GenAI w pisaniu (Zuo, Xu i Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Model Trójkąta Refleksyjnego: SI jako mediator poznawczy
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Samoocena wiedzy TPACK-21 wykładowców do GenAI (Sutedjo, Chowdhury i Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - PD Intelligent-TPACK: frekwencja przewiduje przyrosty, samoocena uczestnictwa nie
-- [[instructional-design-proficiency-masters-math-2026]] - Model inteligentnej klasy i pętla D-T-E poprawiające biegłość w projektowaniu nauczania na studiach magisterskich z matematyki (Zhu i wsp. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Doświadczenia i postrzeganie GAI przez nauczycieli akademickich: podatność, przemyślenie oceniania, uczenie się studentów zagrożone (Farazouli i wsp. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Od lęku do innowacji: sześciotygodniowy instytut dla kadry, pedagogika symbiotyczna i warunki instytucjonalne, których nie mógł zapewnić
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Kompleks winy SI: wina antycypacyjna, ukrywanie i różnice na etapie kariery wśród personelu akademickiego (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Ankieta AAC&U/Elon na 1 057 wykładowcach z USA: nieprzygotowanie instytucji, cienkie zarządzanie i luka polityczna 87%/48% (Watson i Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Developerzy akademiccy jako cyfrowi mediatorzy w szkolnictwie wyższym Globalnego Południa: rozwój jako praxis socjotechniczna
-- [[physics-faculty-learning-community-ai-2026]] - Seria warsztatów o skutecznym użyciu SI w niepewnych czasach: budowanie wspólnoty uczącej się kadry fizyki
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI jako kryzys tożsamości, a nie luka kompetencyjna
+- [[zuo-instructor-power-genai-writing-2026]] — Relacje władzy postrzegane przez instruktorów akademickich zmagających się z GenAI w pisaniu (Zuo, Xu i Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Model Trójkąta Refleksyjnego: SI jako mediator poznawczy
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Samoocena wiedzy TPACK-21 wykładowców do GenAI (Sutedjo, Chowdhury i Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — PD Intelligent-TPACK: frekwencja przewiduje przyrosty, samoocena uczestnictwa nie
+- [[instructional-design-proficiency-masters-math-2026]] — Model inteligentnej klasy i pętla D-T-E poprawiające biegłość w projektowaniu nauczania na studiach magisterskich z matematyki (Zhu i wsp. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Doświadczenia i postrzeganie GAI przez nauczycieli akademickich: podatność, przemyślenie oceniania, uczenie się studentów zagrożone (Farazouli i wsp. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Od lęku do innowacji: sześciotygodniowy instytut dla kadry, pedagogika symbiotyczna i warunki instytucjonalne, których nie mógł zapewnić
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks winy SI: wina antycypacyjna, ukrywanie i różnice na etapie kariery wśród personelu akademickiego (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Ankieta AAC&U/Elon na 1 057 wykładowcach z USA: nieprzygotowanie instytucji, cienkie zarządzanie i luka polityczna 87%/48% (Watson i Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Developerzy akademiccy jako cyfrowi mediatorzy w szkolnictwie wyższym Globalnego Południa: rozwój jako praxis socjotechniczna
+- [[physics-faculty-learning-community-ai-2026]] — Seria warsztatów o skutecznym użyciu SI w niepewnych czasach: budowanie wspólnoty uczącej się kadry fizyki
 
-- [[faculty-ai-well-being-social-supports-2026]] - Dobrostan wykładowców związany z SI podąża za kompetencjami w zakresie SI, a nie za samooceną skuteczności technologicznej
-- [[ai-competence-framework-landscape-2026]] - Sprawdź, co opisują poziomy ramy, zanim ją przyjmiesz
+- [[faculty-ai-well-being-social-supports-2026]] — Dobrostan wykładowców związany z SI podąża za kompetencjami w zakresie SI, a nie za samooceną skuteczności technologicznej
+- [[ai-competence-framework-landscape-2026]] — Sprawdź, co opisują poziomy ramy, zanim ją przyjmiesz

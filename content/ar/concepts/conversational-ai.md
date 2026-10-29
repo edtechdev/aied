@@ -5,7 +5,6 @@ type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/conversational-ai
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

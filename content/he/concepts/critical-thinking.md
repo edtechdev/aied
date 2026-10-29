@@ -9,7 +9,6 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/critical-thinking
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -100,7 +99,7 @@ ai_assist:
 
 ## מאמרים מחוברים
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - קונצנזוס של 30 מומחים: חשיבה ביקורתית נושאת את דירוג השיבוש הגבוה ביותר של הדו"ח (ממוצע 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — קונצנזוס של 30 מומחים: חשיבה ביקורתית נושאת את דירוג השיבוש הגבוה ביותר של הדו"ח (ממוצע 4.00)
 - [[pearls-epistemic-verification-2026]] — מסגרת PEARLS לסוכנות אפיסטמית ואימות פלט AI (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — פריקת-עומס קוגניטיבי רגישה-שכבה בכתיבה בסיוע-GenAI (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — פרדוקס החשיבה הביקורתית בלמידה משולבת-GenAI

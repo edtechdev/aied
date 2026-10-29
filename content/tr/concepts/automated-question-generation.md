@@ -8,7 +8,6 @@ assessment: [assessment, automated-assessment, automated-question-generation, ed
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: concepts/automated-question-generation
 source_updated: "2026-09-30T11:35:26-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

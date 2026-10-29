@@ -16,7 +16,6 @@ level: [higher ed]
 audience: [instructional designers, curriculum designers, software developers, educational technology developers]
 confidence: high
 connected_resources: [id-toolbox, liascript]
-reviewed_by: [editor]
 translation_of: "resources/lesson-md"
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

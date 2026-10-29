@@ -17,7 +17,6 @@ level: [higher ed, k 12]
 audience: [instructors, curriculum designers, instructional designers, learners, educational technology developers]
 confidence: high
 connected_resources: [deeptutor, lesson-md]
-reviewed_by: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation

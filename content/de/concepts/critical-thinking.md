@@ -111,7 +111,7 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 - [[cognitive-surrender]]
 
 ## Verbundene Artikel
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen und Experten: Kritisches Denken trägt die höchste Disruptionsbewertung des Berichts (Mittelwert 4,00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten: Kritisches Denken trägt die höchste Disruptionsbewertung des Berichts (Mittelwert 4,00)
 - [[pearls-epistemic-verification-2026]] — PEARLS-Rahmenwerk für epistemische Handlungsfähigkeit und die Verifikation von KI-Ausgabe (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtsensitives kognitives Offloading im GenAI-unterstützten Schreiben (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — Das Paradox des kritischen Denkens im GenAI-integrierten Lernen

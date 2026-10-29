@@ -6,7 +6,6 @@ foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/trust
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

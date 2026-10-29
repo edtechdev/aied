@@ -11,7 +11,6 @@ connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-re
 translation_of: concepts/trust-calibration
 source_updated: "2026-10-09T01:55:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
-reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision

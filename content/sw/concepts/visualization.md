@@ -5,7 +5,6 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-10-13T05:45:00-04:00"
-reviewed_by: [editor]
 translation_of: concepts/visualization
 source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

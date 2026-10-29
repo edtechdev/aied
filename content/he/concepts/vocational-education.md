@@ -9,7 +9,6 @@ discipline: [vocational education]
 audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/vocational-education
 source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

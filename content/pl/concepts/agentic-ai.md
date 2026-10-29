@@ -206,29 +206,29 @@ SI agentowa nie jest ani panaceum, ani nieuniknioną szkodą: jej wartość zale
 
 ## Połączone artykuły
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] - Autonomia, kompetencja, więź i obecność społeczna jako ścieżki od SI agentowej do zaangażowania (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] - Agenci SI, radosne ocenianie i trzecia przestrzeń
-- [[ilieva-agentic-genai-higher-education-2026]] - Ramy AGAI-HE: ograniczona, nadzorowana przez człowieka generatywna SI agentowa w szkolnictwie wyższym (Ilieva i wsp. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] - Krytyczny przegląd integracyjny wprowadzający ramy dowodów i nadzoru AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] - Perspektywa na inkluzywne wieloagentowe ekosystemy SI w szkolnictwie wyższym
-- [[baradziej-agentic-ai-higher-education-2026]] - Przegląd systematyczny ról SI agentowej w szkolnictwie wyższym (48 badań; sześć ról; trójdzielne ramy odpowiedzialnej integracji)
-- [[kostopoulos-agentic-ai-education-2025]] - SI agentowa w edukacji: stan wiedzy i kierunki przyszłości (przegląd w IEEE Access; definicja operacyjna + taksonomia)
-- [[agentic-ai-education-scoping-review]] - Przegląd zakresowy SI agentowej w edukacji (474 badania)
-- [[agentic-ai-pedagogical-best-practice-2026]] - Napięcie między automatyzacją a uczeniem się
-- [[tool-invariant-framework-agentic-ai]] - Nauczanie i ocenianie metod obliczeniowych w erze SI agentowej
-- [[jeon-isd-agent-bench-2026]] - ISD-Agent-Bench: benchmarkowanie agentów projektowania nauczania
-- [[adversarial-stress-testing-role-playing-agents]] - Testowanie obciążeniowe adwersaryjne agentów odgrywających role
-- [[ai-agents-constructive-conflict-design-education-2026]] - Agenci SI konstruktywnego konfliktu w edukacji projektowej
-- [[ai-tpack-teacher-multi-agent-workflow]] - TPACK nauczycieli i wieloagentowe przepływy pracy
-- [[code-gen]] - Agenci generowania kodu
-- [[educlaw-bench-pedagogical-llm-agents-2026]] - Benchmark pedagogicznych agentów LLM
-- [[guided-llm-scaffolding-independent-learning]] - Kierowane rusztowanie LLM dla samodzielnego uczenia się
-- [[learnmate2-llm-adaptive-learning]] - Agenci uczenia adaptacyjnego LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] - Agenty gamifikowanego uczenia się cyberbezpieczeństwa
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] - SI agentowa w symulacji klinicznej
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Studenci-duchy i luka weryfikacyjna SI agentowej (Bozkurt i wsp. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] - Agenci SI ukończający zadania w LMS; porażka trafności przez założenie o ludzkim wytworzeniu (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] - Agenci webowi SI: agent opisujący jako ewaluator doświadczenia uczenia się (przewiduje rezygnację, daje informacje zwrotne projektowe przed zaangażowaniem studentów)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD z agentami SI w PBL z oprogramowania; automatyzacja kontra rozumienie
-- [[ai-standardized-patient-scaffolding-medical-2026]] - Ocena zorientowanego na rusztowanie wieloagentowego systemu dużych modeli językowych w szkoleniu wywiadu klinicznego
-- [[ethics-training-agents-group-ethics-discussion-2026]] - Agenci szkolenia etycznego: facylitacja grupowej edukacji etycznej przez odgrywanie ról i dyskusję na rzecz refleksji i eksploracji etycznej
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomia, kompetencja, więź i obecność społeczna jako ścieżki od SI agentowej do zaangażowania (Pramod & Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agenci SI, radosne ocenianie i trzecia przestrzeń
+- [[ilieva-agentic-genai-higher-education-2026]] — Ramy AGAI-HE: ograniczona, nadzorowana przez człowieka generatywna SI agentowa w szkolnictwie wyższym (Ilieva i wsp. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — Krytyczny przegląd integracyjny wprowadzający ramy dowodów i nadzoru AOE
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspektywa na inkluzywne wieloagentowe ekosystemy SI w szkolnictwie wyższym
+- [[baradziej-agentic-ai-higher-education-2026]] — Przegląd systematyczny ról SI agentowej w szkolnictwie wyższym (48 badań; sześć ról; trójdzielne ramy odpowiedzialnej integracji)
+- [[kostopoulos-agentic-ai-education-2025]] — SI agentowa w edukacji: stan wiedzy i kierunki przyszłości (przegląd w IEEE Access; definicja operacyjna + taksonomia)
+- [[agentic-ai-education-scoping-review]] — Przegląd zakresowy SI agentowej w edukacji (474 badania)
+- [[agentic-ai-pedagogical-best-practice-2026]] — Napięcie między automatyzacją a uczeniem się
+- [[tool-invariant-framework-agentic-ai]] — Nauczanie i ocenianie metod obliczeniowych w erze SI agentowej
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarkowanie agentów projektowania nauczania
+- [[adversarial-stress-testing-role-playing-agents]] — Testowanie obciążeniowe adwersaryjne agentów odgrywających role
+- [[ai-agents-constructive-conflict-design-education-2026]] — Agenci SI konstruktywnego konfliktu w edukacji projektowej
+- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK nauczycieli i wieloagentowe przepływy pracy
+- [[code-gen]] — Agenci generowania kodu
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Benchmark pedagogicznych agentów LLM
+- [[guided-llm-scaffolding-independent-learning]] — Kierowane rusztowanie LLM dla samodzielnego uczenia się
+- [[learnmate2-llm-adaptive-learning]] — Agenci uczenia adaptacyjnego LearnMate-2
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agenty gamifikowanego uczenia się cyberbezpieczeństwa
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — SI agentowa w symulacji klinicznej
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Studenci-duchy i luka weryfikacyjna SI agentowej (Bozkurt i wsp. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — Agenci SI ukończający zadania w LMS; porażka trafności przez założenie o ludzkim wytworzeniu (Hadjisolomou & El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — Agenci webowi SI: agent opisujący jako ewaluator doświadczenia uczenia się (przewiduje rezygnację, daje informacje zwrotne projektowe przed zaangażowaniem studentów)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD z agentami SI w PBL z oprogramowania; automatyzacja kontra rozumienie
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Ocena zorientowanego na rusztowanie wieloagentowego systemu dużych modeli językowych w szkoleniu wywiadu klinicznego
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenci szkolenia etycznego: facylitacja grupowej edukacji etycznej przez odgrywanie ról i dyskusję na rzecz refleksji i eksploracji etycznej

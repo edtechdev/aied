@@ -114,20 +114,20 @@ Elevii sunt încadrați și de mass-media și de discursul public mai larg despr
 - [[misconceptions]]
 
 ## Articole conexe
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consens a 30 de experți despre succesiune: dobândește fără IA generativă, consolidează cu ea, apoi gândește singur
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consens a 30 de experți despre succesiune: dobândește fără IA generativă, consolidează cu ea, apoi gândește singur
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Justificare transparentă pentru fiecare folosire permisă și nepermisă a IA generative, sarcină cu sarcină (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - Încurajarea folosirii adecvate a IA generative în locul condamnării ei ca perturbare
-- [[student-rationalization-ai-writing]] - Cele „cinci situri” în care elevii raționalizează folosirea IA în scrierea academică
-- [[student-regulatory-awareness-genai]] - A cunoaște regulile nu este suficient: conștientizarea reglementării și folosirea efectivă
-- [[ai-anxiety-strategic-regulation-writing-2026]] - De la anxietatea legată de IA la reglarea strategică
-- [[chatgpt-inoculation-training-verification-2026]] - Mesajele de inoculare și comportamentul de verificare
-- [[ai-fallibility-warning-help-seeking]] - Avertizarea despre falibilitatea IA crește căutarea de ajutor
-- [[shame-guilt-ai-regulation-computing-education]] - Rușinea și vinovăția ca regulatori sociali ai folosirii IA
-- [[access-not-enough-ai-tutoring-2026]] - Sprijinul uman îmbunătățește implicarea cu tutoriatul AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - Implicarea cu IA generativă bazată pe SDT
-- [[ai-availability-student-motivation]] - Cum modelează disponibilitatea IA motivația elevilor
-- [[youtube-frames-chatgpt-education]] - Cum încadrează YouTube folosirea ChatGPT în educație
-- [[ai-ethics-education-public-discourse]] - Discursul public despre etica IA în educație
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Instructorii enunță IA ca folosire critică/responsabilă; angajatorii o enunță ca productivitate
-- [[ssaho-ai-academic-integrity-review-2025]] - Construirea unei culturi a integrității academice prin așteptări clare
+- [[mccorkle-aligned-genai-course-policy-2025]] — Justificare transparentă pentru fiecare folosire permisă și nepermisă a IA generative, sarcină cu sarcină (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Încurajarea folosirii adecvate a IA generative în locul condamnării ei ca perturbare
+- [[student-rationalization-ai-writing]] — Cele „cinci situri” în care elevii raționalizează folosirea IA în scrierea academică
+- [[student-regulatory-awareness-genai]] — A cunoaște regulile nu este suficient: conștientizarea reglementării și folosirea efectivă
+- [[ai-anxiety-strategic-regulation-writing-2026]] — De la anxietatea legată de IA la reglarea strategică
+- [[chatgpt-inoculation-training-verification-2026]] — Mesajele de inoculare și comportamentul de verificare
+- [[ai-fallibility-warning-help-seeking]] — Avertizarea despre falibilitatea IA crește căutarea de ajutor
+- [[shame-guilt-ai-regulation-computing-education]] — Rușinea și vinovăția ca regulatori sociali ai folosirii IA
+- [[access-not-enough-ai-tutoring-2026]] — Sprijinul uman îmbunătățește implicarea cu tutoriatul AI
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Implicarea cu IA generativă bazată pe SDT
+- [[ai-availability-student-motivation]] — Cum modelează disponibilitatea IA motivația elevilor
+- [[youtube-frames-chatgpt-education]] — Cum încadrează YouTube folosirea ChatGPT în educație
+- [[ai-ethics-education-public-discourse]] — Discursul public despre etica IA în educație
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructorii enunță IA ca folosire critică/responsabilă; angajatorii o enunță ca productivitate
+- [[ssaho-ai-academic-integrity-review-2025]] — Construirea unei culturi a integrității academice prin așteptări clare

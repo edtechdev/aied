@@ -163,57 +163,57 @@ Mittaristoa itsessään on sittemmin arvioitu katsauksessa. [[assessing-teachers
 
 ## Liittyvät artikkelit
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Mitkä opettajat hyötyivät suunnitteluajasta: matalampi luottamus aineosaamiseen, matalampi pedagoginen tieto, uudempi ammatissa tai korkea teknologialuottamus
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Opettajat hyväksyvät tekoälyn mutta ymmärtävät väärin, miten se toimii (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Opettajan valmius ja teknologispedagoginen integraatio useimmin raportoituina haasteina 54 matematiikan opetuksen tutkimuksessa (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Multimodaalinen arviointilukutaito: vuoden ohjelma, jossa tieto ja osaaminen liikkuivat mutta arvot eivät
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Mitkä opettajat hyötyivät suunnitteluajasta: matalampi luottamus aineosaamiseen, matalampi pedagoginen tieto, uudempi ammatissa tai korkea teknologialuottamus
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Opettajat hyväksyvät tekoälyn mutta ymmärtävät väärin, miten se toimii (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Opettajan valmius ja teknologispedagoginen integraatio useimmin raportoituina haasteina 54 matematiikan opetuksen tutkimuksessa (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodaalinen arviointilukutaito: vuoden ohjelma, jossa tieto ja osaaminen liikkuivat mutta arvot eivät
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-PD: puoli keskihajontaa voittoa, ja negatiiviset voitot uudelleenkalibrointina - Ammatillisen kehittämisohjelmien vaikutus K-12-opettajien tekoälylukutaitoon: systemaattinen katsaus ja meta-analyysi
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-PD: puoli keskihajontaa voittoa, ja negatiiviset voitot uudelleenkalibrointina - Ammatillisen kehittämisohjelmien vaikutus K-12-opettajien tekoälylukutaitoon: systemaattinen katsaus ja meta-analyysi
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - Opettajat merkitsivät omat luokkahuoneen tekoälytapauksensa ja ylsivät helposti käytännön osaamisiin mutta harvoin yhteiskunnallisiin ja eettisiin (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] - Työkalun valinta kasvattajan toimijuuden harjoituksena
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - Systemaattinen katsaus generatiivisesta tekoälystä K-12-opetuksessa ja -oppimisessa (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - Opettajan ammatillinen tieto K-12:n tekoälykoulutuksessa: TAIK vs. TPAIK ja opiskelijoiden oppiminen (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Opettajan ja tekoälyn vuorovaikutuskuviot oppituntisuunnittelussa kokemuksen ja tekoälytaituruuden mukaan (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] - Opettajaopiskelijoiden vastuullinen GenAI-käyttö: opetussuunnitelmalliset seuraukset (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - LLM-pohjainen luokkahuonehavainnointi opettajien ammatilliseen kehittämiseen (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - Generatiivinen tekoäly esitystapojen, pilkkomisten ja approksimaatioiden yli: harjoittelu, jäsennelty palaute ja tarkkuusvaroitukset
-- [[genai-pd-ai-pck-learning-gain-2026]] - Intensiivisen GenAI-ammatillisen kehittämisohjelman vaikuttavuus
-- [[ai-tpack-teacher-multi-agent-workflow]] - AI-TPACK:n mallintaminen opettajan moniagenttityönkulkujen kautta
-- [[teacher-ai-teaming-five-levels]] - Kohti synergistisiä opettaja-tekoäly-vuorovaikutuksia
-- [[teacher-education-ai-literacy-sdt-2026]] - Opettajankoulutus tekoälylukutaitoon itsemääräämisteorian kautta
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Suunnittelututkimuksellinen GenAI-lukutaidon koulutus
-- [[rail-ed-genai-literacy-teacher-education]] - GenAI-lukutaidon uudelleenajatteleminen opettajankoulutuksessa
-- [[sec-ai-literacy-narrative-review-2026]] - Sosioemotionaalisten kompetenssien integrointi tekoälylukutaitoon
-- [[teacher-ai-adoption-confidence]] - Tekoälyn omaksuminen opettajilla: luottamus ja tuki
-- [[ai-pedagogical-orientation]] - Tiedekunnan orientaatiot muovaavat tekoälyn omaksumista
-- [[ai-literacy-assessment-misalignment]] - Itse raportoidun ja suoriutumispohjaisen tekoälyosaamisen yhteensopimattomuus
-- [[quest-ai-inquiry-preservice-teachers]] - Tekoälyä tukeva tutkiva oppiminen opettajaopiskelijoille
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - EPIQ-AI-tiedekunnan valmiuskehys
-- [[llm-cultural-relevance-k12]] - LLM:t kulttuurisesti relevantissa K-12-pedagogiikassa
-- [[institutional-change-framework-ai]] - Institutionaalisen muutoksen kehys tekoälylle
-- [[teachingcoach-chatbot-instructor-guidance]] - TeachingCoach-chatbot opettajien ohjaukseen
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI identiteettikriisinä, ei taitokuiluna
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Opettajat merkitsivät omat luokkahuoneen tekoälytapauksensa ja ylsivät helposti käytännön osaamisiin mutta harvoin yhteiskunnallisiin ja eettisiin (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Työkalun valinta kasvattajan toimijuuden harjoituksena
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systemaattinen katsaus generatiivisesta tekoälystä K-12-opetuksessa ja -oppimisessa (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Opettajan ammatillinen tieto K-12:n tekoälykoulutuksessa: TAIK vs. TPAIK ja opiskelijoiden oppiminen (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Opettajan ja tekoälyn vuorovaikutuskuviot oppituntisuunnittelussa kokemuksen ja tekoälytaituruuden mukaan (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Opettajaopiskelijoiden vastuullinen GenAI-käyttö: opetussuunnitelmalliset seuraukset (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — LLM-pohjainen luokkahuonehavainnointi opettajien ammatilliseen kehittämiseen (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generatiivinen tekoäly esitystapojen, pilkkomisten ja approksimaatioiden yli: harjoittelu, jäsennelty palaute ja tarkkuusvaroitukset
+- [[genai-pd-ai-pck-learning-gain-2026]] — Intensiivisen GenAI-ammatillisen kehittämisohjelman vaikuttavuus
+- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK:n mallintaminen opettajan moniagenttityönkulkujen kautta
+- [[teacher-ai-teaming-five-levels]] — Kohti synergistisiä opettaja-tekoäly-vuorovaikutuksia
+- [[teacher-education-ai-literacy-sdt-2026]] — Opettajankoulutus tekoälylukutaitoon itsemääräämisteorian kautta
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Suunnittelututkimuksellinen GenAI-lukutaidon koulutus
+- [[rail-ed-genai-literacy-teacher-education]] — GenAI-lukutaidon uudelleenajatteleminen opettajankoulutuksessa
+- [[sec-ai-literacy-narrative-review-2026]] — Sosioemotionaalisten kompetenssien integrointi tekoälylukutaitoon
+- [[teacher-ai-adoption-confidence]] — Tekoälyn omaksuminen opettajilla: luottamus ja tuki
+- [[ai-pedagogical-orientation]] — Tiedekunnan orientaatiot muovaavat tekoälyn omaksumista
+- [[ai-literacy-assessment-misalignment]] — Itse raportoidun ja suoriutumispohjaisen tekoälyosaamisen yhteensopimattomuus
+- [[quest-ai-inquiry-preservice-teachers]] — Tekoälyä tukeva tutkiva oppiminen opettajaopiskelijoille
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI-tiedekunnan valmiuskehys
+- [[llm-cultural-relevance-k12]] — LLM:t kulttuurisesti relevantissa K-12-pedagogiikassa
+- [[institutional-change-framework-ai]] — Institutionaalisen muutoksen kehys tekoälylle
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach-chatbot opettajien ohjaukseen
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI identiteettikriisinä, ei taitokuiluna
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - Opettajan digitaalisen kompetenssin arviointi GenAI:n opetussuunnittelussa (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - Fenomenografinen tutkimus yliopisto-opettajien tekoälykäsityksistä
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Viisitasoinen tekoälylukutaidon kehys ja PD ukrainalaisille toisen asteen kasvattajille (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - Opettajan ja tekoälyn yhteissuunnittelu oppimistehtävissä: trendit ja näkymät (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytetyissä ryhmätoiminnoissa (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Opettajan digitaalisen kompetenssin arviointi GenAI:n opetussuunnittelussa (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — Fenomenografinen tutkimus yliopisto-opettajien tekoälykäsityksistä
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Viisitasoinen tekoälylukutaidon kehys ja PD ukrainalaisille toisen asteen kasvattajille (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Opettajan ja tekoälyn yhteissuunnittelu oppimistehtävissä: trendit ja näkymät (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytetyissä ryhmätoiminnoissa (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - Kehoitetekniikka ja mallin valinta tekoälypalautteen laadun ennustajina (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - AI Guilt Complex: ennakoiva syyllisyys ja neljä moraalivasteprofiilia akateemisessa henkilökunnassa (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - Kolmen tunnin opettajien PD-istunto nosti koettua hyödyllisyyttä ja käytön helppoutta mutta ei ilmoitettua aikomusta omaksua (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - Systemaattinen katsaus tekoälystä luokanopettajaksi koulutettavien matematiikan opettajien peruskoulutuksessa: etiikka käsiteltiin vain kolmessa yhdestätoista tutkimuksesta (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U:n ja Elonin kysely 1 057 yhdysvaltalaiselle tiedekunnan jäsenelle: valmius, käyttämättömyys ja yksilöllisen ja institutionaalisen politiikan kuilu (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Poikkilaitoksellinen tiedekuntakollaboratorio: tekoälyintegraatio oppimissuunnitteluna opettajankoulutuksessa
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - Systemaattinen katsaus 33 välineeseen opettajien tekoälylukutaidon mittaamiseksi: 31 itsearviointia, kaksi objektiivista tietotestiä, ei suoriutumistehtäviä (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Suunnittelupohjainen adaptiivinen tekoälylukutaidon malli ja 20 kohdan reflektoiva kysely, jotka suunniteltiin yhdessä 22 opettajakouluttajan kanssa (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - Työpajasarja tekoälyn tehokkaasta käytöstä epävarmoina aikoina: fysiikan tiedekunnan oppimisyhteisön rakentaminen
-- [[authentic-assessments-generative-ai-pilot-2026]] - Autenttisten arviointien suunnittelu generatiivisella tekoälyllä: pilottitutkimus Assessment Authentifiresta korkeakoulutuksessa
-- [[teachers-configure-educational-chatbots-2026]] - Opettaako se tarkoitetulla tavalla? Miten opettajat konfiguroivat koulutuksellisia tekoälychatbotteja
-- [[capability-decision-model-teacher-readiness-2026]] - Järjestetty, kyvykkyys edellä -opettajan valmiusmalli, jossa on suoriutumispohjaiset kyvykkyysindikaattorit
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Valtioiden välinen kysely 1 405 K-12-opettajalle: valmius ennustaa myönteisiä uskomuksia mutta ei huolta
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Neljä TALIS 2024 -opettajien uskomusprofiilia yhdistävät ammatillisen oppimisen ja profiilikohtaiset esteet tekoälyn käytölle
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - Mikro-oppimismoduulien suunnittelu tekoälystä ammatillisen opettajankoulutuksen yliopisto-opettajille: suunnittelututkimuksellinen tutkimus
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: Miten opettajien konfiguroimat chatbotit epäonnistuvat tosielämän käytössä ja miten ne korjataan
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Kehoitetekniikka ja mallin valinta tekoälypalautteen laadun ennustajina (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI Guilt Complex: ennakoiva syyllisyys ja neljä moraalivasteprofiilia akateemisessa henkilökunnassa (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Kolmen tunnin opettajien PD-istunto nosti koettua hyödyllisyyttä ja käytön helppoutta mutta ei ilmoitettua aikomusta omaksua (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systemaattinen katsaus tekoälystä luokanopettajaksi koulutettavien matematiikan opettajien peruskoulutuksessa: etiikka käsiteltiin vain kolmessa yhdestätoista tutkimuksesta (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U:n ja Elonin kysely 1 057 yhdysvaltalaiselle tiedekunnan jäsenelle: valmius, käyttämättömyys ja yksilöllisen ja institutionaalisen politiikan kuilu (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Poikkilaitoksellinen tiedekuntakollaboratorio: tekoälyintegraatio oppimissuunnitteluna opettajankoulutuksessa
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systemaattinen katsaus 33 välineeseen opettajien tekoälylukutaidon mittaamiseksi: 31 itsearviointia, kaksi objektiivista tietotestiä, ei suoriutumistehtäviä (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Suunnittelupohjainen adaptiivinen tekoälylukutaidon malli ja 20 kohdan reflektoiva kysely, jotka suunniteltiin yhdessä 22 opettajakouluttajan kanssa (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — Työpajasarja tekoälyn tehokkaasta käytöstä epävarmoina aikoina: fysiikan tiedekunnan oppimisyhteisön rakentaminen
+- [[authentic-assessments-generative-ai-pilot-2026]] — Autenttisten arviointien suunnittelu generatiivisella tekoälyllä: pilottitutkimus Assessment Authentifiresta korkeakoulutuksessa
+- [[teachers-configure-educational-chatbots-2026]] — Opettaako se tarkoitetulla tavalla? Miten opettajat konfiguroivat koulutuksellisia tekoälychatbotteja
+- [[capability-decision-model-teacher-readiness-2026]] — Järjestetty, kyvykkyys edellä -opettajan valmiusmalli, jossa on suoriutumispohjaiset kyvykkyysindikaattorit
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Valtioiden välinen kysely 1 405 K-12-opettajalle: valmius ennustaa myönteisiä uskomuksia mutta ei huolta
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Neljä TALIS 2024 -opettajien uskomusprofiilia yhdistävät ammatillisen oppimisen ja profiilikohtaiset esteet tekoälyn käytölle
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Mikro-oppimismoduulien suunnittelu tekoälystä ammatillisen opettajankoulutuksen yliopisto-opettajille: suunnittelututkimuksellinen tutkimus
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Miten opettajien konfiguroimat chatbotit epäonnistuvat tosielämän käytössä ja miten ne korjataan

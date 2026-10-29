@@ -207,52 +207,52 @@ Het bewijs ondersteunt een specifieke volgorde van handelen voor een docent die 
 
 ## Verbonden artikelen
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Tijdelijke academici dragen het integriteitswerk zonder de bevoegdheid
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] - De meer-mens-paradox: expertscenario's voor 2030 vinden dat AI-verzadiging het menselijke pedagogische werk intensiveert in plaats van verdringt (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] - Zes geobserveerde wiskundelessen in het secundair onderwijs breiden instrumentele orkestratie uit met drie nieuwe types (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] - Reageren op door AI gegenereerde emotionele meldingen: interventies van docenten en betrokkenheid van studenten in de wiskundeklas
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Tijdelijke academici dragen het integriteitswerk zonder de bevoegdheid
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — De meer-mens-paradox: expertscenario's voor 2030 vinden dat AI-verzadiging het menselijke pedagogische werk intensiveert in plaats van verdringt (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Zes geobserveerde wiskundelessen in het secundair onderwijs breiden instrumentele orkestratie uit met drie nieuwe types (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Reageren op door AI gegenereerde emotionele meldingen: interventies van docenten en betrokkenheid van studenten in de wiskundeklas
 
-- [[edustories-classroom-case-studies-2026]] - Edustories: een verzameling casestudies uit de klaspraktijk in de echte wereld
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] - Docenten ontwerpen klaschatbots als begrensde experts en behouden autoriteit
-- [[dai-genai-frenemy-teaching-autonomy-2026]] - GenAI als 'frenemy': docenten verkiezen semi-autonomie, bruikbaarheid stuurt adoptie, risicomijding richt zich op het gebruik door studenten (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] - Door AI ondersteunde besluitvorming van docenten in het hoger onderwijs
-- [[chirikov-regulate-ai-syllabi-2026]] - Hoe docenten AI reguleren in 31.000 cursusgidsen; regulering op taakniveau (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] - Innovatiegedrag in AI-onderwijs bij universiteitsdocenten (AI-TPACK SEM; Bai & Hsieh 2026)
+- [[edustories-classroom-case-studies-2026]] — Edustories: een verzameling casestudies uit de klaspraktijk in de echte wereld
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Docenten ontwerpen klaschatbots als begrensde experts en behouden autoriteit
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI als 'frenemy': docenten verkiezen semi-autonomie, bruikbaarheid stuurt adoptie, risicomijding richt zich op het gebruik door studenten (Dai et al. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — Door AI ondersteunde besluitvorming van docenten in het hoger onderwijs
+- [[chirikov-regulate-ai-syllabi-2026]] — Hoe docenten AI reguleren in 31.000 cursusgidsen; regulering op taakniveau (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — Innovatiegedrag in AI-onderwijs bij universiteitsdocenten (AI-TPACK SEM; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI als identiteitscrisis, niet als vaardigheidstekort
-- [[lodge-loble-cognitive-offloading-2026]] - AI, cognitieve offloading en implicaties voor het onderwijs (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI en de praktijk van instructieontwerp: een systematische review (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] - Kan AI passende ondersteuning bieden voor diverse studentprofielen? Een grootschalige evaluatie
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Spookstudenten en agentieke AI bij beoordeling
-- [[wang-teacher-ai-co-design-review-2026]] - Co-ontwerp van leertaken door docenten en AI: trends en perspectieven (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Ervaringen en percepties van universiteitsdocenten met GAI: kwetsbaarheid, herbezinning op beoordeling, leren van studenten in gevaar (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] - Waardeoordelen bij het beoordelen van GenAI-ondersteund werk: eerlijkheid, vertrouwen, validiteit en tweerichtingstransparantie (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] - ML-bevindingen toegankelijk maken voor docenten in blended klassen
-- [[li-language-educators-genai-review-2026]] - Praktijken en ontwikkeling van taalonderwijzers met GenAI
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als identiteitscrisis, niet als vaardigheidstekort
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitieve offloading en implicaties voor het onderwijs (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI en de praktijk van instructieontwerp: een systematische review (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Kan AI passende ondersteuning bieden voor diverse studentprofielen? Een grootschalige evaluatie
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Spookstudenten en agentieke AI bij beoordeling
+- [[wang-teacher-ai-co-design-review-2026]] — Co-ontwerp van leertaken door docenten en AI: trends en perspectieven (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Ervaringen en percepties van universiteitsdocenten met GAI: kwetsbaarheid, herbezinning op beoordeling, leren van studenten in gevaar (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Waardeoordelen bij het beoordelen van GenAI-ondersteund werk: eerlijkheid, vertrouwen, validiteit en tweerichtingstransparantie (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ML-bevindingen toegankelijk maken voor docenten in blended klassen
+- [[li-language-educators-genai-review-2026]] — Praktijken en ontwikkeling van taalonderwijzers met GenAI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] - Identiteitsspanningen en principiële selectiviteit in AI-geïntegreerd lesgeven (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] - Interventies van docenten in K-12 AI-gebaseerd onderwijs: een systematische review
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Academische ontwikkelaars als digitale bemiddelaars: rolherconfiguratie, affectieve arbeid en oordeel bij Zuid-Afrikaanse HDI's
-- [[where-ai-enters-teacher-work-2026]] - Waar kunstmatige intelligentie het werk van docenten binnenkomt
-- [[rodrigues-aied-unplugged-numeracy-2026]] - AIED unplugged: de docent als tussenpersoon tussen leerlingen en de AI, een quasi-experiment in 19 klassen waarin training en indirecte inspanningsvermindering de winst drijven (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] - Instructiebestuur door ontwerp: een kader voor AI in informaticaonderwijs
+- [[ai-integrated-teaching-identity-tensions]] — Identiteitsspanningen en principiële selectiviteit in AI-geïntegreerd lesgeven (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Interventies van docenten in K-12 AI-gebaseerd onderwijs: een systematische review
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academische ontwikkelaars als digitale bemiddelaars: rolherconfiguratie, affectieve arbeid en oordeel bij Zuid-Afrikaanse HDI's
+- [[where-ai-enters-teacher-work-2026]] — Waar kunstmatige intelligentie het werk van docenten binnenkomt
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: de docent als tussenpersoon tussen leerlingen en de AI, een quasi-experiment in 19 klassen waarin training en indirecte inspanningsvermindering de winst drijven (Rodrigues et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instructiebestuur door ontwerp: een kader voor AI in informaticaonderwijs
 
-- [[teachers-configure-educational-chatbots-2026]] - Zal het onderwijzen zoals bedoeld? Hoe docenten educatieve AI-chatbots configureren
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] - Bemiddeling door docenten in wiskunde: vijf praktijken van kritische bemiddeling, verschuivende autoriteit en de kloof tussen gratis en premium algoritmen
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] - Gereedheid van docenten door ontwerp: gereedheid als ontwerpvermogen, niet als adoptie of vertrouwen (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] - ChatGPT-ondersteunde feedback van docenten: docenten cureren AI-schetsen in plaats van ze door te geven
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] - Van competentie naar agency: opvattingen van docenten over de doelen van AI-onderwijs
-- [[kuhail-great-debaters-ai-facilitators-2026]] - Menselijke versus AI-moderatoren in debat: gelijkwaardige beoordelingen, verschillende routes naar hergebruik
-- [[yalcin-genai-programming-education-systematic-review-2026]] - GenAI in programmeeronderwijs: een systematische review waarin docentrollen het minst zijn bestudeerd
-- [[heutagogical-teaching-ai-enhanced-education-2026]] - Van informatieverstrekkers naar leerontwerpers: heutagogische onderwijspraktijken in AI-versterkt onderwijs
-- [[falhs-teacher-expertise-reflection-2025]] - Hoe expertiseniveaus voorkeuren en reflectiebehoeften vormen: naar AI-reflectiesystemen die docenten versterken (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] - Conversationele AI-diagnose voor misvattingen in het lesgeven met bewijsgebaseerde dialoog (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - AI-gebruik had geen direct effect op de prestaties van docenten; citizenship-gedrag medieerde het (Sherly et al. 2027)
+- [[teachers-configure-educational-chatbots-2026]] — Zal het onderwijzen zoals bedoeld? Hoe docenten educatieve AI-chatbots configureren
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Bemiddeling door docenten in wiskunde: vijf praktijken van kritische bemiddeling, verschuivende autoriteit en de kloof tussen gratis en premium algoritmen
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Gereedheid van docenten door ontwerp: gereedheid als ontwerpvermogen, niet als adoptie of vertrouwen (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT-ondersteunde feedback van docenten: docenten cureren AI-schetsen in plaats van ze door te geven
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Van competentie naar agency: opvattingen van docenten over de doelen van AI-onderwijs
+- [[kuhail-great-debaters-ai-facilitators-2026]] — Menselijke versus AI-moderatoren in debat: gelijkwaardige beoordelingen, verschillende routes naar hergebruik
+- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programmeeronderwijs: een systematische review waarin docentrollen het minst zijn bestudeerd
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Van informatieverstrekkers naar leerontwerpers: heutagogische onderwijspraktijken in AI-versterkt onderwijs
+- [[falhs-teacher-expertise-reflection-2025]] — Hoe expertiseniveaus voorkeuren en reflectiebehoeften vormen: naar AI-reflectiesystemen die docenten versterken (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Conversationele AI-diagnose voor misvattingen in het lesgeven met bewijsgebaseerde dialoog (Miranda & Calvani 2026)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — AI-gebruik had geen direct effect op de prestaties van docenten; citizenship-gedrag medieerde het (Sherly et al. 2027)

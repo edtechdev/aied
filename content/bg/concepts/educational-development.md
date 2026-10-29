@@ -143,13 +143,13 @@ ai_assist:
 - [[stakeholders]] - Чадър: хората и аудиториите в AI образованието (обучаеми, учители, дизайнери, администратори, политици)
 
 ## Свързани статии
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Критичен дискурсен анализ на съветите за съответствие с GenAI: разработчиците, преформулирани като обучители по технологии
-- [[crompton-faculty-technology-integration-standards-2026]] - Стандарти за преподаватели за интеграция на технологии (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Етични измерения на AI: възгледите на преподаватели и студенти
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Критичен дискурсен анализ на съветите за съответствие с GenAI: разработчиците, преформулирани като обучители по технологии
+- [[crompton-faculty-technology-integration-standards-2026]] — Стандарти за преподаватели за интеграция на технологии (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Етични измерения на AI: възгледите на преподаватели и студенти
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Как метафорите на преподавателите по инженерство конструират (и ограничават) разбирането за AI
-- [[fear-awe-genai-metaphor-workshops-2025]] - Страх и благоговение: осмисляне на генеративния AI чрез метафора (семинар за метафори с преподаватели, служители и студенти)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Управление на невидимото: AI грамотността сред учителите по езици
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Как метафорите на преподавателите по инженерство конструират (и ограничават) разбирането за AI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Страх и благоговение: осмисляне на генеративния AI чрез метафора (семинар за метафори с преподаватели, служители и студенти)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Управление на невидимото: AI грамотността сред учителите по езици
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -160,19 +160,19 @@ ai_assist:
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI като криза на идентичността, а не дефицит на умения
-- [[zuo-instructor-power-genai-writing-2026]] - Властови отношения, възприемани от университетски преподаватели, борещи се с GenAI в писането (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Модел на рефлексивния триъгълник: AI като когнитивен медиатор
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Самовъзприемано знание по TPACK-21 на преподаватели за GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK професионално развитие: присъствието предсказва печалбите, самовъзприеманото участие не
-- [[instructional-design-proficiency-masters-math-2026]] - Модел за интелигентна класна стая и цикъл D-T-E, подобряващи умението за инструкционен дизайн в магистърска програма по математика (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Архитектура на ролите в диференцирани групови дейности, проектирани с AI (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Опитът и възприятията на университетските преподаватели за GAI: уязвимост, преосмисляне на оценяването, застрашено студентско учене (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - От страх към иновация: шестседмичен институт за преподаватели, симбиотична педагогика и институционалните условия, които той не можа да осигури
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Комплексът за AI вина: предварителна вина, прикриване и различия по етап на кариерата сред академичния персонал (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Анкета на AAC&U/Elon с 1057 преподаватели в САЩ: институционална неподготвеност, тънко управление и пропастта в политиката 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Академичните разработчици като цифрови медиатори във висшето образование в глобалния юг: развитието като социотехническа праксис
-- [[physics-faculty-learning-community-ai-2026]] - Серия от семинари за ефективно използване на AI в несигурни времена: изграждане на учебна общност на физическия факултет
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI като криза на идентичността, а не дефицит на умения
+- [[zuo-instructor-power-genai-writing-2026]] — Властови отношения, възприемани от университетски преподаватели, борещи се с GenAI в писането (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Модел на рефлексивния триъгълник: AI като когнитивен медиатор
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Самовъзприемано знание по TPACK-21 на преподаватели за GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK професионално развитие: присъствието предсказва печалбите, самовъзприеманото участие не
+- [[instructional-design-proficiency-masters-math-2026]] — Модел за интелигентна класна стая и цикъл D-T-E, подобряващи умението за инструкционен дизайн в магистърска програма по математика (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Архитектура на ролите в диференцирани групови дейности, проектирани с AI (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Опитът и възприятията на университетските преподаватели за GAI: уязвимост, преосмисляне на оценяването, застрашено студентско учене (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — От страх към иновация: шестседмичен институт за преподаватели, симбиотична педагогика и институционалните условия, които той не можа да осигури
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Комплексът за AI вина: предварителна вина, прикриване и различия по етап на кариерата сред академичния персонал (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Анкета на AAC&U/Elon с 1057 преподаватели в САЩ: институционална неподготвеност, тънко управление и пропастта в политиката 87%/48% (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Академичните разработчици като цифрови медиатори във висшето образование в глобалния юг: развитието като социотехническа праксис
+- [[physics-faculty-learning-community-ai-2026]] — Серия от семинари за ефективно използване на AI в несигурни времена: изграждане на учебна общност на физическия факултет
 
-- [[faculty-ai-well-being-social-supports-2026]] - Благополучието с AI при преподавателите следва AI грамотността, а не технологичната самоефективност
-- [[ai-competence-framework-landscape-2026]] - Проверете какво описват нивата на една рамка, преди да я приемете
+- [[faculty-ai-well-being-social-supports-2026]] — Благополучието с AI при преподавателите следва AI грамотността, а не технологичната самоефективност
+- [[ai-competence-framework-landscape-2026]] — Проверете какво описват нивата на една рамка, преди да я приемете

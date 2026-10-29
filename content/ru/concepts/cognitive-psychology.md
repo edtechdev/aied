@@ -5,7 +5,6 @@ type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cognitive-psychology
 source_updated: "2026-09-26T01:51:49-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

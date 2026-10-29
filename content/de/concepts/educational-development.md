@@ -161,8 +161,8 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als Identitätskrise, nicht als Fähigkeitslücke
 - [[zuo-instructor-power-genai-writing-2026]] — Machtverhältnisse, wie sie von Hochschullehrenden im Umgang mit GenAI im Schreiben wahrgenommen werden (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: KI als kognitiver Mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Selbstwahrgenommenes TPACK-21-Wissen von Lehrenden für GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-PD: Anwesenheit sagt Zuwächse voraus, selbstwahrgenommene Teilnahme nicht
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Selbstwahrgenommenes TPACK-21-Wissen von Lehrenden für GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-PD: Anwesenheit sagt Zuwächse voraus, selbstwahrgenommene Teilnahme nicht
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-Classroom-Modell und D-T-E-Schleife zur Verbesserung der M.Ed.-Kompetenz für das Entwerfen von Unterricht in Mathematik (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Rollenarchitektur in KI-entworfenen differenzierten Gruppenaktivitäten (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Erfahrungen und Wahrnehmungen von Universitätslehrenden gegenüber GAI: Verletzlichkeit, Neudenken der Bewertung, Lernen der Studierenden gefährdet (Farazouli et al. 2026)

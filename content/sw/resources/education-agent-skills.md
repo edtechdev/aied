@@ -27,7 +27,6 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/education-agent-skills
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

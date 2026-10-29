@@ -9,7 +9,6 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-reviewed_by: [editor]
 translation_of: concepts/arts-design-and-media-education
 source_updated: "2026-09-28T21:41:14-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

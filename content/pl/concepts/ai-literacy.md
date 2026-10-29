@@ -2,56 +2,23 @@
 title: "Kompetencje w zakresie SI (AI literacy)"
 created: "2026-10-15T15:05:00-04:00"
 updated: "2026-10-27T04:15:26-04:00"
-type: "concept"
-foundations:
-  - "academic-integrity"
-  - "ai-education"
-  - "ai-literacy"
-  - "educational-development"
-technology:
-  - "generative-ai"
-  - "llm"
-audience:
-  - "faculty developers"
-  - "instructors"
-  - "learners"
-level:
-  - "higher ed"
-  - "k 12"
-connected_faqs:
-  - "incorporating-ai-literacy"
-  - "ai-literacy-evidence"
-  - "faculty-ai-competencies"
-  - "addressing-common-misconceptions-ai-education"
-  - "ai-guidance-children-under-13"
-  - "verify-ai-output"
-confidence: "high"
-connected_resources:
-  - "education-agent-skills"
-  - "edugems"
-  - "mglearn"
-  - "onmicro-ai"
-  - "playlab"
-  - "pressing-prompts"
-  - "student-guide-to-ai"
-  - "vibes-diy"
-  - "fpds-apps-and-resources"
-reviewed_by:
-  - "editor"
-translation_of: "concepts/ai-literacy"
+type: concept
+technology: [generative-ai, llm]
+foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
+audience: [faculty developers, instructors, learners]
+level: [higher ed, k 12]
+confidence: high
+connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
+translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
-contributors:
-  - "editor"
+contributors: [editor]
 ai_assist:
-  - model: "stepfun/step-5-preview:free"
-    role: "translation"
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
     date: "2026-10-15"
-    agent: "hermes-agent"
-  - model: "deepseek/deepseek-v4.1-flash-1017"
-    role: "translation"
-    date: "2026-10-27"
-    agent: "hermes-agent"
+    agent: hermes-agent
 ---
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
@@ -279,7 +246,7 @@ W przypadku kompetencji krytycznych w zakresie SI [[solyst-youth-systematic-eval
 ## Połączone artykuły
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Kształtowanie wczesnego dzieciństwa w erze SI: kompetencje, pedagogika i wsparcie ekologiczne (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Bezpieczeństwo w zakresie SI jako kompetencja: ekosystemowe ramy kompetencji i platforma edukacyjna K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Podnoszenie etycznego wymiaru kompetencji bez ramy radzenia sobie może zostawić studentów bardziej lękliwych
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Podnoszenie etycznego wymiaru kompetencji bez ramy radzenia sobie może zostawić studentów bardziej lękliwych
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 zwalidowanych ram pokazuje SI rozszerzającą kompetencje cyfrowe w stronę etyki, podczas gdy współpraca człowiek–SI u pedagogów pozostaje mało sprecyzowana (Guo i wsp. 2026)
 - [[ai-literacies-young-adults-2025]] — Sześć obszarów kompetencji, pięć wartości i trzy poziomy progresji dla mediów służby publicznej
 - [[ai-literacy-heptagon-2026]] — Heptagon Kompetencji w zakresie SI

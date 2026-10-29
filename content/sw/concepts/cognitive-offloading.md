@@ -10,7 +10,6 @@ audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -198,9 +197,9 @@ Mantiki ile ile inageuza kuunda thawabu kuwa zana ya kubuni: [[assistance-dilemm
 - [[cognitive-surrender]]
 
 ## Makala Zilizounganishwa
-- [[ai-proof-learning-cognitive-offloading-2026]] - Kuunga mkono au kuchukua nafasi ya ufikiri wa wanafunzi? Kupunguza mzigo wa kiakili katika kujifunza uthibitisho kunakosaidiwa na AI (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Kile kuwasilisha hakuonyeshi: kuchanganua kupunguza mzigo wa kiakili katika kazi za hisabati za wanafunzi na LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Makubaliano ya wataalam 30 juu ya michakato 65 ya kujifunza: kupunguza mzigo katika mwisho wote wa mfululizo wa kujifunza
+- [[ai-proof-learning-cognitive-offloading-2026]] — Kuunga mkono au kuchukua nafasi ya ufikiri wa wanafunzi? Kupunguza mzigo wa kiakili katika kujifunza uthibitisho kunakosaidiwa na AI (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Kile kuwasilisha hakuonyeshi: kuchanganua kupunguza mzigo wa kiakili katika kazi za hisabati za wanafunzi na LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Makubaliano ya wataalam 30 juu ya michakato 65 ya kujifunza: kupunguza mzigo katika mwisho wote wa mfululizo wa kujifunza
 - [[rented-self-decoupling-performance-becoming-2026]] — Nafsi ya kupanga: kupunguza mzigo unaogharimu nafsi ya taaluma ya mwanafunzi, si ujuzi tu
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Vikundi vilivyoanza sawa viligawanyika: kupokea mfano 74.1% katika wasifu mmoja dhidi ya kupunguza mzigo 80.8% na kushindwa katika mwingine (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — Msaada wa AI ulipunguza ustahimilivu na utendaji bila msaada katika majaribio matatu ya RCT (Liu et al. 2026)
@@ -238,5 +237,5 @@ Mantiki ile ile inageuza kuunda thawabu kuwa zana ya kubuni: [[assistance-dilemm
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Mwelekeo wa kupunguza mzigo na ujuzi wa uthibitisho unavitabiri matokeo ya kiwango cha juu kupitia udhibiti wa kibinafsi wa metaji (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Ilani ya tafakari inapunguza kukubali ushauri wa AI usio sahihi na kuboresha usawa wa ufahamu (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Utegemezi wa GenAI kama hali ya mpaka kwenye mwelekeo wa ufikiri mahususi na uwezo wa kazi unaohisiwa na wenyewe (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Watoto walionesha muunganisho dhaifu wa frontoparietal, salience na umakini wa dorsal kuliko watu wazima wakati wakizungumza na ChatGPT, kwa alama za ubunifu zilizolingana
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Watoto walionesha muunganisho dhaifu wa frontoparietal, salience na umakini wa dorsal kuliko watu wazima wakati wakizungumza na ChatGPT, kwa alama za ubunifu zilizolingana
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI na ufikiri wa kibunifu wa watoto: kutegemea kupita kiasi na utegemezi wa ilani katika mapitio ya upekuzi (Niu et al. 2026)

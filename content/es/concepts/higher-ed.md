@@ -13,7 +13,6 @@ translation_of: concepts/higher-ed
 source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, teacherserver]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

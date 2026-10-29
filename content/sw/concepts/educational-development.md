@@ -9,7 +9,6 @@ audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/educational-development
 source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -161,8 +160,8 @@ Kujiamini na ujuzi si malengo yanayoweza kubadilishwa: katika SEM ya wanafunzi 5
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI kama mgogoro wa utambulisho, si pengo la ujuzi
 - [[zuo-instructor-power-genai-writing-2026]] — Mahusiano ya nguvu yanayohisiwa na wakufunzi wa chuo kikuu wanaopambana na GenAI katika uandishi (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Mfano wa Pembetatu wa Kutafakari: AI kama mpatanishi wa kiakili
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Maarifa ya TPACK-21 ya GenAI yanayohisiwa na wenyewe kwa wataalam (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - PD ya Intelligent-TPACK: mahudhurio yanatabiri faida, ushirikiano unaojisikia na mwenyewe haufanyi
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Maarifa ya TPACK-21 ya GenAI yanayohisiwa na wenyewe kwa wataalam (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — PD ya Intelligent-TPACK: mahudhurio yanatabiri faida, ushirikiano unaojisikia na mwenyewe haufanyi
 - [[instructional-design-proficiency-masters-math-2026]] — Mfano wa darasa mahiri na kitanzi cha D-T-E kinaboresha uwezo wa ubini wa ufundishaji wa M.Ed. katika hisabati (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Usanifu wa majukumu katika shughuli za vikundi zilizotofautishwa zilizobuniwa na AI (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Uzoefu na mitazamo ya walimu wa chuo kikuu ya GAI: udhaifu, kufikiria upya tathmini, kujifunza kwa wanafunzi kwa hatari (Farazouli et al. 2026)

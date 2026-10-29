@@ -164,57 +164,57 @@ Krajobraz instrumentów został od tego czasu poddany przeglądowi. [[assessing-
 
 ## Połączone artykuły
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Którzy nauczyciele zyskali czas na planowanie: niższa pewność wiedzy przedmiotowej, niższa wiedza pedagogiczna, krótszy staż w zawodzie lub wysoka pewność w technologii
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Nauczyciele akceptują SI, błędnie rozumiejąc, jak działa (Aji i wsp. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Gotowość nauczycieli i integracja technologiczno-pedagogiczna jako najczęściej zgłaszane wyzwanie w 54 badaniach nad edukacją matematyczną (Manto i wsp. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Kompetencje w ocenianiu multimodalnym: roczny program, w którym wiedza i kompetencje się zmieniły, a wartości nie
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Którzy nauczyciele zyskali czas na planowanie: niższa pewność wiedzy przedmiotowej, niższa wiedza pedagogiczna, krótszy staż w zawodzie lub wysoka pewność w technologii
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Nauczyciele akceptują SI, błędnie rozumiejąc, jak działa (Aji i wsp. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Gotowość nauczycieli i integracja technologiczno-pedagogiczna jako najczęściej zgłaszane wyzwanie w 54 badaniach nad edukacją matematyczną (Manto i wsp. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Kompetencje w ocenianiu multimodalnym: roczny program, w którym wiedza i kompetencje się zmieniły, a wartości nie
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Doskonalenie Intelligent-TPACK: pół odchylenia standardowego przyrostu i negatywne przyrosty, które czytają się jako rekallibracja - The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Doskonalenie Intelligent-TPACK: pół odchylenia standardowego przyrostu i negatywne przyrosty, które czytają się jako rekallibracja - The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - Nauczyciele oznaczali własne przypadki SI z klasy i łatwo sięgali po kompetencje praktyczne, rzadko po społeczne i etyczne (Wang i wsp. 2026)
-- [[typology-generative-ai-tools-education-2026]] - Wybór narzędzia jako ćwiczenie sprawczości edukatora
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - Przegląd systematyczny generatywnej SI w nauczaniu i uczeniu się w K-12 (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - Wiedza zawodowa nauczycieli w edukacji o SI w K-12: TAIK wobec TPAIK i uczenie się uczniów (Shen i wsp. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Wzorce interakcji nauczyciel-SI przy projektowaniu lekcji według doświadczenia i biegłości w SI (Choi i wsp. 2026)
-- [[preservice-teachers-responsible-genai-2026]] - Odpowiedzialne korzystanie z generatywnej SI przez przyszłych nauczycieli: implikacje programowe (Kohnke i wsp. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - Obserwacja lekcji przez LLM w doskonaleniu zawodowym nauczycieli (Melo i wsp. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - Generatywna SI w reprezentacjach, dekompozycjach i aproksymacjach: próba, ustrukturyzowana informacja zwrotna i ostrzeżenia o dokładności
-- [[genai-pd-ai-pck-learning-gain-2026]] - Skuteczność intensywnego programu doskonalenia z generatywnej SI
-- [[ai-tpack-teacher-multi-agent-workflow]] - Modelowanie AI-TPACK przez przepływy pracy nauczycieli z wieloma agentami
-- [[teacher-ai-teaming-five-levels]] - Ku synergicznej interakcji nauczyciel-SI
-- [[teacher-education-ai-literacy-sdt-2026]] - Kształcenie nauczycieli na rzecz kompetencji w zakresie SI przez teorię samostanowienia
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Szkolenie z kompetencji w zakresie generatywnej SI oparte na badaniach projektowych
-- [[rail-ed-genai-literacy-teacher-education]] - Przemysłenie kompetencji w zakresie generatywnej SI w kształceniu nauczycieli
-- [[sec-ai-literacy-narrative-review-2026]] - Integrowanie kompetencji społeczno-emocjonalnych z kompetencjami w zakresie SI
-- [[teacher-ai-adoption-confidence]] - Przyjęcie SI wśród nauczycieli: pewność siebie i wsparcie
-- [[ai-pedagogical-orientation]] - Orientacje kadry kształtują przyjęcie SI
-- [[ai-literacy-assessment-misalignment]] - Niedopasowanie między deklarowanymi a wykonaniowymi kompetencjami w zakresie SI
-- [[quest-ai-inquiry-preservice-teachers]] - Dociekanie wspomagane SI dla przyszłych nauczycieli
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - Rama gotowości kadry EPIQ-AI
-- [[llm-cultural-relevance-k12]] - LLM-y w kulturowo istotnej pedagogice K-12
-- [[institutional-change-framework-ai]] - Rama zmiany instytucjonalnej dla SI
-- [[teachingcoach-chatbot-instructor-guidance]] - Chatbot TeachingCoach do wsparcia nauczycieli
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - Generatywna SI jako kryzys tożsamości, a nie luka w umiejętnościach
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Nauczyciele oznaczali własne przypadki SI z klasy i łatwo sięgali po kompetencje praktyczne, rzadko po społeczne i etyczne (Wang i wsp. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Wybór narzędzia jako ćwiczenie sprawczości edukatora
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Przegląd systematyczny generatywnej SI w nauczaniu i uczeniu się w K-12 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Wiedza zawodowa nauczycieli w edukacji o SI w K-12: TAIK wobec TPAIK i uczenie się uczniów (Shen i wsp. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Wzorce interakcji nauczyciel-SI przy projektowaniu lekcji według doświadczenia i biegłości w SI (Choi i wsp. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Odpowiedzialne korzystanie z generatywnej SI przez przyszłych nauczycieli: implikacje programowe (Kohnke i wsp. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — Obserwacja lekcji przez LLM w doskonaleniu zawodowym nauczycieli (Melo i wsp. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generatywna SI w reprezentacjach, dekompozycjach i aproksymacjach: próba, ustrukturyzowana informacja zwrotna i ostrzeżenia o dokładności
+- [[genai-pd-ai-pck-learning-gain-2026]] — Skuteczność intensywnego programu doskonalenia z generatywnej SI
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modelowanie AI-TPACK przez przepływy pracy nauczycieli z wieloma agentami
+- [[teacher-ai-teaming-five-levels]] — Ku synergicznej interakcji nauczyciel-SI
+- [[teacher-education-ai-literacy-sdt-2026]] — Kształcenie nauczycieli na rzecz kompetencji w zakresie SI przez teorię samostanowienia
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Szkolenie z kompetencji w zakresie generatywnej SI oparte na badaniach projektowych
+- [[rail-ed-genai-literacy-teacher-education]] — Przemysłenie kompetencji w zakresie generatywnej SI w kształceniu nauczycieli
+- [[sec-ai-literacy-narrative-review-2026]] — Integrowanie kompetencji społeczno-emocjonalnych z kompetencjami w zakresie SI
+- [[teacher-ai-adoption-confidence]] — Przyjęcie SI wśród nauczycieli: pewność siebie i wsparcie
+- [[ai-pedagogical-orientation]] — Orientacje kadry kształtują przyjęcie SI
+- [[ai-literacy-assessment-misalignment]] — Niedopasowanie między deklarowanymi a wykonaniowymi kompetencjami w zakresie SI
+- [[quest-ai-inquiry-preservice-teachers]] — Dociekanie wspomagane SI dla przyszłych nauczycieli
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — Rama gotowości kadry EPIQ-AI
+- [[llm-cultural-relevance-k12]] — LLM-y w kulturowo istotnej pedagogice K-12
+- [[institutional-change-framework-ai]] — Rama zmiany instytucjonalnej dla SI
+- [[teachingcoach-chatbot-instructor-guidance]] — Chatbot TeachingCoach do wsparcia nauczycieli
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generatywna SI jako kryzys tożsamości, a nie luka w umiejętnościach
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - Ocena kompetencji cyfrowych nauczycieli w projektowaniu programu z generatywną SI (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - badanie fenomenograficzne koncepcji SI nauczycieli akademickich
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Pięciopoziomowa rama kompetencji w zakresie SI + doskonalenie dla ukraińskich nauczycieli szkół średnich (Marienko i wsp. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - Współprojektowanie zadań uczenia się przez nauczycieli i SI: trendy i perspektywy (Wang i wsp. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Ocena kompetencji cyfrowych nauczycieli w projektowaniu programu z generatywną SI (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — badanie fenomenograficzne koncepcji SI nauczycieli akademickich
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Pięciopoziomowa rama kompetencji w zakresie SI + doskonalenie dla ukraińskich nauczycieli szkół średnich (Marienko i wsp. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Współprojektowanie zadań uczenia się przez nauczycieli i SI: trendy i perspektywy (Wang i wsp. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - Inżynieria promptów i wybór modelu jako predyktory jakości informacji zwrotnej od SI (Jacobsen i wsp. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Kompleks winy z SI: wina antycypacyjna i cztery profile odpowiedzi moralnych wśród kadry akademickiej (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - Trzygodzinna sesja doskonalenia nauczycieli podniosła postrzeganą użyteczność i łatwość użycia, ale nie deklarowaną intencję przyjęcia (Mesenhöller i Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - Przegląd systematyczny SI w kształceniu nauczycieli matematyki na etapie wstępnym: etyka podjęta tylko w trzech z jedenastu badań (Pinto i wsp. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Ankieta AAC&U/Elon wśród 1057 amerykańskich nauczycieli akademickich: przygotowanie, niekorzystanie i luka między poziomem indywidualnym a instytucjonalnym (Watson i Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Międzyinstytucjonalne laboratorium kadry: integracja SI jako projektowanie nauczania w kształceniu nauczycieli
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - Przegląd systematyczny 33 instrumentów pomiaru kompetencji nauczycieli w zakresie SI: 31 samoopisowych, dwa obiektywne testy wiedzy, żadne zadania wykonaniowe (Zainal, Mohd Matore i Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Oparty na projektowaniu adaptacyjny model kompetencji w zakresie SI i 20-pozycyjny refleksyjny kwestionariusz współprojektowany z 22 nauczycielami akademickimi (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
-- [[authentic-assessments-generative-ai-pilot-2026]] - Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
-- [[teachers-configure-educational-chatbots-2026]] - Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
-- [[capability-decision-model-teacher-readiness-2026]] - Uporządkowany, zdolnościowy model gotowości nauczycieli ze wskaźnikami zdolności opartymi na wykonaniu
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Międzynarodowa ankieta 1405 nauczycieli K-12: gotowość przewiduje pozytywne przekonania, ale nie troskę
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Cztery profile przekonań nauczycieli z TALIS 2024 łączą doskonalenie zawodowe i bariery swoiste dla profilu z korzystaniem z SI
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Inżynieria promptów i wybór modelu jako predyktory jakości informacji zwrotnej od SI (Jacobsen i wsp. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks winy z SI: wina antycypacyjna i cztery profile odpowiedzi moralnych wśród kadry akademickiej (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Trzygodzinna sesja doskonalenia nauczycieli podniosła postrzeganą użyteczność i łatwość użycia, ale nie deklarowaną intencję przyjęcia (Mesenhöller i Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Przegląd systematyczny SI w kształceniu nauczycieli matematyki na etapie wstępnym: etyka podjęta tylko w trzech z jedenastu badań (Pinto i wsp. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Ankieta AAC&U/Elon wśród 1057 amerykańskich nauczycieli akademickich: przygotowanie, niekorzystanie i luka między poziomem indywidualnym a instytucjonalnym (Watson i Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Międzyinstytucjonalne laboratorium kadry: integracja SI jako projektowanie nauczania w kształceniu nauczycieli
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Przegląd systematyczny 33 instrumentów pomiaru kompetencji nauczycieli w zakresie SI: 31 samoopisowych, dwa obiektywne testy wiedzy, żadne zadania wykonaniowe (Zainal, Mohd Matore i Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Oparty na projektowaniu adaptacyjny model kompetencji w zakresie SI i 20-pozycyjny refleksyjny kwestionariusz współprojektowany z 22 nauczycielami akademickimi (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
+- [[capability-decision-model-teacher-readiness-2026]] — Uporządkowany, zdolnościowy model gotowości nauczycieli ze wskaźnikami zdolności opartymi na wykonaniu
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Międzynarodowa ankieta 1405 nauczycieli K-12: gotowość przewiduje pozytywne przekonania, ale nie troskę
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Cztery profile przekonań nauczycieli z TALIS 2024 łączą doskonalenie zawodowe i bariery swoiste dla profilu z korzystaniem z SI
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them

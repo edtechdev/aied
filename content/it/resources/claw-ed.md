@@ -28,7 +28,6 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: "resources/claw-ed"
 source_updated: "2026-09-23T21:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

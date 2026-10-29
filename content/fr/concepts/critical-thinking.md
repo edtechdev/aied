@@ -99,7 +99,7 @@ La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qu
 - [[cognitive-surrender]]
 
 ## Articles liés
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Consensus de 30 experts : la pensée critique porte la note de perturbation la plus élevée du rapport (moyenne 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Consensus de 30 experts : la pensée critique porte la note de perturbation la plus élevée du rapport (moyenne 4.00)
 - [[pearls-epistemic-verification-2026]] — Le cadre PEARLS pour l'agentivité épistémique et la vérification des productions de l'IA (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — Le paradoxe de la pensée critique dans l'apprentissage intégrant l'IA générative

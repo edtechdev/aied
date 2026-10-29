@@ -6,7 +6,6 @@ foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/generative-ai
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

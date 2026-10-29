@@ -173,7 +173,7 @@ Dieselbe Logik macht Belohnungsgestaltung zu einem Designwerkzeug: [[assistance-
 ## Verbundene Artikel
 - [[ai-proof-learning-cognitive-offloading-2026]] — Unterstützen oder ersetzen sie das Schlussfolgern von Studierenden? Kognitive Auslagerung in KI-assistiertem Beweislernen (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Was die Abgabe nicht zeigt: die Komplexifizierung kognitiver Auslagerung in der mathematischen Arbeit von Studierenden mit LLMs (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen und Experten über 65 Lernprozesse: Auslagerung an beiden Enden der Lernsequenz
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten über 65 Lernprozesse: Auslagerung an beiden Enden der Lernsequenz
 - [[rented-self-decoupling-performance-becoming-2026]] — Das geliehene Selbst: Auslagerung, die das Fächer-Selbst der lernenden Person kostet, nicht nur die Fähigkeit
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Gruppen, die gleich starteten, divergierten: 74,1% Modellübernahme in einem Profil gegen 80,8% Auslagerung und Sackgasse in einem anderen (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — KI-Unterstützung reduzierte Persistenz und unassistierte Leistung über drei RCTs (Liu et al. 2026)
@@ -211,5 +211,5 @@ Dieselbe Logik macht Belohnungsgestaltung zu einem Designwerkzeug: [[assistance-
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Auslagerungstendenz und Verifikationskompetenz als Prädiktoren höherstufiger Ergebnisse durch metakognitive Selbstregulation (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Ein Reflexionsprompt reduziert die Akzeptanz falscher KI-Ratschläge und verbessert die Bewusstseinskalibrierung (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-Abhängigkeit als Randbedingung für kritische Denkdisposition und selbstwahrgenommene Beschäftigungsfähigkeit (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Kinder zeigten schwächere frontoparietale, Salienz- und dorsale Aufmerksamkeits-Konnektivität als Erwachsene, während sie mit ChatGPT sprachen, bei übereinstimmenden Kreativitätswerten
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kinder zeigten schwächere frontoparietale, Salienz- und dorsale Aufmerksamkeits-Konnektivität als Erwachsene, während sie mit ChatGPT sprachen, bei übereinstimmenden Kreativitätswerten
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI und kreatives Denken von Kindern: Überabhängigkeit und Prompt-Abhängigkeit in einem Scoping-Review (Niu et al. 2026)

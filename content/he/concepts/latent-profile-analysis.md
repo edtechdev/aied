@@ -4,7 +4,6 @@ created: "2026-10-12T21:25:00-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/latent-profile-analysis
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

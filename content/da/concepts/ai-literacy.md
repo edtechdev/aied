@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
@@ -248,7 +247,7 @@ For kritisk AI-kompetence specifikt viser [[solyst-youth-systematic-evaluation-g
 ## Forbundne artikler
 - [[early-childhood-ai-holistic-competencies-review-2026]] — At forme den tidlige barndom i AI-tidsalderen: kompetencer, pædagogik og økologisk støtte (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-sikkerhedskompetence: økosystembaseret kompetenceramme og læringsplatform til K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - At hæve den etiske dimension af kompetence uden en mestringsramme kan efterlade de studerende mere ængstelige
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — At hæve den etiske dimension af kompetence uden en mestringsramme kan efterlade de studerende mere ængstelige
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validerede rammer viser AI udvider digital kompetence mod etik, mens underviseres menneske-AI-samarbejde forbliver underspecificeret (Guo m.fl. 2026)
 - [[ai-literacies-young-adults-2025]] — Seks kompetenceområder, fem værdier og tre progressionsniveauer for public service-medier
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

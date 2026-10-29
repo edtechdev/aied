@@ -10,7 +10,6 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: concepts/anxiety-and-stress
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -143,7 +142,7 @@ ai_assist:
 - [[social-norms-ai-use]] — העלות האפקטיבית של נראות
 
 ## מאמרים מחוברים
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Competence raises ethical awareness, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
 - [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
 - [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being

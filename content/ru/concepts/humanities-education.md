@@ -6,7 +6,6 @@ foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
-reviewed_by: [editor]
 translation_of: concepts/humanities-education
 source_updated: "2026-10-02T14:30:18-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

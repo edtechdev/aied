@@ -173,4 +173,4 @@ Confiança e letramento não são alvos intercambiáveis: em um MEE de 502 respo
 - [[physics-faculty-learning-community-ai-2026]] — Uma série de oficinas para o uso eficaz da IA em tempos incertos: construindo uma comunidade de aprendizagem docente de física
 
 - [[faculty-ai-well-being-social-supports-2026]] — O bem-estar docente com IA acompanha o letramento em IA, e não a autoeficácia tecnológica
-- [[ai-competence-framework-landscape-2026]] - Verifique o que os níveis de um framework descrevem antes de adotá-lo
+- [[ai-competence-framework-landscape-2026]] — Verifique o que os níveis de um framework descrevem antes de adotá-lo

@@ -10,7 +10,6 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-reviewed_by: [editor]
 translation_of: faqs/ai-feedback-at-scale
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

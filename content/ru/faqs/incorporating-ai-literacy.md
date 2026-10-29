@@ -6,7 +6,6 @@ weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
-reviewed_by: [editor]
 translation_of: faqs/incorporating-ai-literacy
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -17,6 +16,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
+
+*Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
 # Как включить ИИ-грамотность в мой курс?
 

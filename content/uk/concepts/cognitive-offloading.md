@@ -10,7 +10,6 @@ audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -170,9 +169,9 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## Пов’язані статті
-- [[ai-proof-learning-cognitive-offloading-2026]] - Підтримка чи заміна міркування студентів? Розвантаження когніції в навчанні доведень зі ШІ (Chen та співавт. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Що не показує подання: ускладнення розвантаження когніції в математичній роботі студентів із ВММ (Kontorovich і Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Консенсус 30 експертів над 65 навчальними процесами: розвантаження на обох кінцях навчальної послідовності
+- [[ai-proof-learning-cognitive-offloading-2026]] — Підтримка чи заміна міркування студентів? Розвантаження когніції в навчанні доведень зі ШІ (Chen та співавт. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Що не показує подання: ускладнення розвантаження когніції в математичній роботі студентів із ВММ (Kontorovich і Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 експертів над 65 навчальними процесами: розвантаження на обох кінцях навчальної послідовності
 - [[rented-self-decoupling-performance-becoming-2026]] — Наймане себе: розвантаження, яке коштує доменного себе здобувача, а не лише навички
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Групи, що починали однаково, розійшлися: 74.1% освоєння моделі в одному профілі проти 80.8% розвантаження та тупику в іншому (Kilinc та співавт. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — Допомога ШІ зменшила наполегливість і недопоміжну результативність у трьох РКВ (Liu та співавт. 2026)
@@ -210,5 +209,5 @@ ai_assist:
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Тенденція до розвантаження та грамотність перевірки, що прогнозують результати вищого порядку через метакогнітивну саморегуляцію (Davor та співавт. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Підказка до рефлексії зменшує прийняття хибної поради ШІ та покращує калібровку обізнаності (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Залежність від GenAI як гранична умова для диспозиції критичного мислення та самоусприйнятої працевлаштовності (Shojaei та співавт. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Діти показували слабший фронтопарієтальний, салієнсний та дорсальний уважний зв’язок, ніж дорослі, розмовляючи з ChatGPT, за узгоджених оцінок креативності
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Діти показували слабший фронтопарієтальний, салієнсний та дорсальний уважний зв’язок, ніж дорослі, розмовляючи з ChatGPT, за узгоджених оцінок креативності
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI і творче мислення дітей: надмірна опора та залежність від підказок в огляді обсягу (Niu та співавт. 2026)

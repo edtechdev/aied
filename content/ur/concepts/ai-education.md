@@ -13,7 +13,6 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: "concepts/ai-education"
 source_updated: "2026-10-26T02:30:00-04:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"

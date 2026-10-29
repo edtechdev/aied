@@ -173,4 +173,4 @@ ai_assist:
 - [[physics-faculty-learning-community-ai-2026]] — 불확실한 시대에 AI를 효과적으로 활용하기 위한 워크숍 시리즈: 물리학 교수 학습 공동체 구축
 
 - [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙은 기술적 자기효능감이 아닌 AI 리터러시를 따름
-- [[ai-competence-framework-landscape-2026]] - 채택하기 전에 프레임워크의 수준이 무엇을 설명하는지 확인하기
+- [[ai-competence-framework-landscape-2026]] — 채택하기 전에 프레임워크의 수준이 무엇을 설명하는지 확인하기

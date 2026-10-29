@@ -119,31 +119,31 @@ Kasvatukselliset vivut näyttävät jälleen erilaisilta, kun rehellisyyttä koh
 - [[cognitive-surrender]]
 
 ## Liittyvät artikkelit
-- [[ivory-psychology-assessment-integrity-2026]] - Versiohallinnan näyttöpolut ja toistettavat analyysiasiakirjat väärinkäytön pelotteina (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Suosituksen pidättäminen esti pitkälti liiallisen riippuvuuden rakentamatta sitä harkintaa, jota se suojaa
-- [[generative-ai-guardrails-harm-learning]] - GenAI ilman suojakaiteita voi vahingoittaa oppimista
-- [[genai-performance-vs-learning]] - Suoriutumisvoittojen erottaminen oppimisesta
-- [[ai-assessment-scale-reform]] - AI Assessment Scale ja arviointiuudistus
-- [[critical-thinking-genai-scaffolding]] - Kriittisen ajattelun tukeminen generatiivisella tekoälyllä
-- [[aaai2026-prompting-literacy-k12]] - Tekoälyn käytön oppiminen oppimista varten (K-12-tekoälylukutaitomoduuli)
-- [[genai-declaration-frameworks-higher-education]] - Läpinäkyvyyden jäsentäminen: GenAI-ilmoituskehykset
-- [[absent-cognitive-baseline-2026]] - Puuttuva kognitiivinen perustaso
-- [[ai-literacy-power-knowledge]] - Tekoälylukutaito valta-tieto-harjoituksena
-- [[contextual-sycophancy-ai-literacy]] - Kontekstuaalisen mielistelevyyden piilevä hinta: tekoälylukutaitointerventio
-- [[sycophantic-ai-social-interaction-2026]] - Mielistelevä tekoäly tekee ihmisten välisestä vuorovaikutuksesta ajan myötä raskaampaa ja vähemmän tyydyttävää
-- [[ssaho-ai-academic-integrity-review-2025]] - Kulttuurin rakentaminen ja arvioinnin uudelleensuunnittelu havaitsemisen valvonnan sijaan
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kognitiivinen antautuminen, tuottava kitka ja metakognitiivinen eriarvoisuus
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] - Suullisten tenttien harkitseminen uudelleen autenttisena, tekoälyä kestävänä arviointina
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Generatiivisen tekoälyn oppimisrangaistus: kotitehtävien ulkoistaminen vahingoittaa oppimista
-- [[ai-overreliance-complex-adaptive-system-2026]] - Tekoälyriippuvuus kompleksisena adaptiivisena järjestelmänä mallinnettuna
-- [[burneo-can-edtech-close-learning-gaps-2026]] - Suojakaiteet poistivat haitan parantamatta tenttipisteitä
-- [[munoz-misconduct-allegation-evidence-2026]] - Mitä väärinkäytösväitteiden tiedostot itse asiassa sisältävät näyttönä
-- [[wright-transcription-not-generation-2026]] - Liian kattavat tekoälysäännöt ja opiskelijat, joihin ne osuvat
-- [[sharma-judgment-visible-genai-assessment-2026]] - Rehellisyys arvioivana harkintana vaatimustenmukaisuuden sijaan
-- [[mulisa-students-genai-integrity-perspectives-2026]] - Opiskelijat siitä, onko GenAI huijaustyökalu vai oppimiskumppani
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] - Mitä etävalvonta tekee opiskelijoille ja tasa-arvolle
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Tilannekohtainen rikosten ehkäisy tekoälyn helpottamaa huijaamista vastaan: 183:sta 27:ään tapausta, ja viisi alakohtaista uudelleensuunnittelua (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Mitä 38 opiskelijoiden ääniä koskevaa tutkimusta suosittaa: yhdessä luotu selkeys ja kasvatuksellinen päättely havaitsemisen sijaan (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Missä kielellinen tuki päättyy ja korvaaminen alkaa EAL-kirjoittajilla (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Kehoteinjektio väärinkäytön vektorina tekoälyarvostelua vastaan (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] - Hallinto rehellisyyden sitovana rajoitteena: 130 kohdan indikaattorikehys (Coates, Croucher & Calderon 2025)
+- [[ivory-psychology-assessment-integrity-2026]] — Versiohallinnan näyttöpolut ja toistettavat analyysiasiakirjat väärinkäytön pelotteina (Ivory et al. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Suosituksen pidättäminen esti pitkälti liiallisen riippuvuuden rakentamatta sitä harkintaa, jota se suojaa
+- [[generative-ai-guardrails-harm-learning]] — GenAI ilman suojakaiteita voi vahingoittaa oppimista
+- [[genai-performance-vs-learning]] — Suoriutumisvoittojen erottaminen oppimisesta
+- [[ai-assessment-scale-reform]] — AI Assessment Scale ja arviointiuudistus
+- [[critical-thinking-genai-scaffolding]] — Kriittisen ajattelun tukeminen generatiivisella tekoälyllä
+- [[aaai2026-prompting-literacy-k12]] — Tekoälyn käytön oppiminen oppimista varten (K-12-tekoälylukutaitomoduuli)
+- [[genai-declaration-frameworks-higher-education]] — Läpinäkyvyyden jäsentäminen: GenAI-ilmoituskehykset
+- [[absent-cognitive-baseline-2026]] — Puuttuva kognitiivinen perustaso
+- [[ai-literacy-power-knowledge]] — Tekoälylukutaito valta-tieto-harjoituksena
+- [[contextual-sycophancy-ai-literacy]] — Kontekstuaalisen mielistelevyyden piilevä hinta: tekoälylukutaitointerventio
+- [[sycophantic-ai-social-interaction-2026]] — Mielistelevä tekoäly tekee ihmisten välisestä vuorovaikutuksesta ajan myötä raskaampaa ja vähemmän tyydyttävää
+- [[ssaho-ai-academic-integrity-review-2025]] — Kulttuurin rakentaminen ja arvioinnin uudelleensuunnittelu havaitsemisen valvonnan sijaan
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kognitiivinen antautuminen, tuottava kitka ja metakognitiivinen eriarvoisuus
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Suullisten tenttien harkitseminen uudelleen autenttisena, tekoälyä kestävänä arviointina
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generatiivisen tekoälyn oppimisrangaistus: kotitehtävien ulkoistaminen vahingoittaa oppimista
+- [[ai-overreliance-complex-adaptive-system-2026]] — Tekoälyriippuvuus kompleksisena adaptiivisena järjestelmänä mallinnettuna
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Suojakaiteet poistivat haitan parantamatta tenttipisteitä
+- [[munoz-misconduct-allegation-evidence-2026]] — Mitä väärinkäytösväitteiden tiedostot itse asiassa sisältävät näyttönä
+- [[wright-transcription-not-generation-2026]] — Liian kattavat tekoälysäännöt ja opiskelijat, joihin ne osuvat
+- [[sharma-judgment-visible-genai-assessment-2026]] — Rehellisyys arvioivana harkintana vaatimustenmukaisuuden sijaan
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Opiskelijat siitä, onko GenAI huijaustyökalu vai oppimiskumppani
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Mitä etävalvonta tekee opiskelijoille ja tasa-arvolle
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Tilannekohtainen rikosten ehkäisy tekoälyn helpottamaa huijaamista vastaan: 183:sta 27:ään tapausta, ja viisi alakohtaista uudelleensuunnittelua (Leaton Gray, Edsall & Parapadakis 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Mitä 38 opiskelijoiden ääniä koskevaa tutkimusta suosittaa: yhdessä luotu selkeys ja kasvatuksellinen päättely havaitsemisen sijaan (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Missä kielellinen tuki päättyy ja korvaaminen alkaa EAL-kirjoittajilla (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Kehoteinjektio väärinkäytön vektorina tekoälyarvostelua vastaan (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — Hallinto rehellisyyden sitovana rajoitteena: 130 kohdan indikaattorikehys (Coates, Croucher & Calderon 2025)

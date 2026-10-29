@@ -193,43 +193,43 @@ Primul studiu bazat pe teoria comportamentului planificat asupra intenției de a
 
 ## Articole conectate
 
-- [[ivory-psychology-assessment-integrity-2026]] - Un întreg program de psihologie promovabil cu efort minim, și criteriile de notare care au permis asta (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Viitori profesori au refuzat GenAI sub o politică permisivă; încadrarea drept „capcană” și decalajul dintre sondaj și declarare
-- [[ai-agents-joyful-assessment-third-space-2026]] - Agenți de IA, evaluare bucuroasă și al treilea spațiu
-- [[kumar-genai-computing-education-systematic-review-2026]] - Dovezile despre detecție sunt subțiri (3 studii din 72); reconceperea duce greutatea
-- [[mccorkle-aligned-genai-course-policy-2025]] - Politică de curs aliniată privind GenAI: permisiuni derivate din evaluare, raționament transparent (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Generarea de variante de evaluare echivalente în construct (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Cum reglementează instructorii IA în peste 31.000 de fișe de disciplină; încadrarea prin integritate în scădere (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Pot studenții să trișeze până la o diplomă în biologie? Un studiu de caz al vulnerabilității notelor la cursurile de biologie față de neonestitatea academică în era IA generative
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Neconformarea studenților cu declarațiile de folosire a IA
-- [[detecting-llm-generated-text-latent-prompt]] - Detectarea textului generat de LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] - Dincolo de detecție: evaluarea autentică într-o lume mediată de IA
-- [[ai-assessment-scale-reform]] - Scala de evaluare cu IA și reforma evaluării
-- [[authentic-products-authenticated-processes-2026]] - De la produse autentice la procese autentificate
-- [[student-rationalization-ai-writing]] - E în regulă pentru că... Raționalizarea folosirii IA de către studenți
-- [[ethical-ai-higher-ed-game-theory]] - Cadru de joc de coordonare pentru folosirea etică a IA
-- [[shame-guilt-ai-regulation-computing-education]] - Rușinea și vinovăția ca reglementatori sociali ai folosirii IA
-- [[cross-cultural-student-perceptions-genai-computing]] - A greșit Alice? Percepții transculturale asupra folosirii IA
-- [[luo-dawson-value-judgments-grading-2026]] - Judecăți de valoare în notarea muncii asistate de GenAI: onestitate, încredere, validitate și transparență bidirecțională (Luo și Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Responsabilitate între colegi și originalitate în evaluarea de grup mediată de GenAI
-- [[teichmann-detecting-undetectable-misconduct-2026]] - Colapsul probatoriu al detecției și argumentul pentru justiție procedurală, proporționalitate și proiectare
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Descurajare, declarare și reconcepere ca problemă de proiectare a evaluării în condiții de informație imperfectă
-- [[munoz-misconduct-allegation-evidence-2026]] - Pe ce s-au sprijinit de fapt 1.162 de dosare de abatere cu GenAI, și pragul probatoriu lipsă
-- [[wright-transcription-not-generation-2026]] - Reguli prea cuprinzătoare privind IA și distincția dintre transcriere și generare
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Trișarea digitală cu IA și pedagogii etice bazate pe prevenire: cazul de la 183 la 27 de abateri și cinci reconceperi specifice disciplinelor (Leaton Gray, Edsall și Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Integritatea ca problemă de guvernanță: un cadru de 130 de indicatori pentru guvernanții academici (Coates, Croucher și Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Revizuire de tip scoping a 38 de studii despre vocile studenților din învățământul superior privind integritatea academică și GenAI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Trasarea liniei dintre sprijin și substituire pentru cei care scriu în engleză ca limbă suplimentară, și inechitatea regulilor care ignoră originea lingvistică (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Injectarea de prompturi împotriva notării mediate de IA: instrucțiuni ascunse care schimbă nota fără a fi detectate (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - Matricea etică a folosirii IA: conformarea anxioasă și de ce claritatea singură îi poate împinge pe studenți spre eludare eficientă (Petricini și Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Notarea traseului de raționament atunci când agenții de IA pot completa tema (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Eseurile de admitere scrise de IA sunt larg răspândite, dar penalizate
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Cine acționează, cine știe, cine răspunde? O analiză de discurs asistată de corpus despre agenție, responsabilitate epistemică și responsabilizare în cercetarea despre IA generativă în învățământul superior
+- [[ivory-psychology-assessment-integrity-2026]] — Un întreg program de psihologie promovabil cu efort minim, și criteriile de notare care au permis asta (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Viitori profesori au refuzat GenAI sub o politică permisivă; încadrarea drept „capcană” și decalajul dintre sondaj și declarare
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agenți de IA, evaluare bucuroasă și al treilea spațiu
+- [[kumar-genai-computing-education-systematic-review-2026]] — Dovezile despre detecție sunt subțiri (3 studii din 72); reconceperea duce greutatea
+- [[mccorkle-aligned-genai-course-policy-2025]] — Politică de curs aliniată privind GenAI: permisiuni derivate din evaluare, raționament transparent (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generarea de variante de evaluare echivalente în construct (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Cum reglementează instructorii IA în peste 31.000 de fișe de disciplină; încadrarea prin integritate în scădere (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Pot studenții să trișeze până la o diplomă în biologie? Un studiu de caz al vulnerabilității notelor la cursurile de biologie față de neonestitatea academică în era IA generative
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Neconformarea studenților cu declarațiile de folosire a IA
+- [[detecting-llm-generated-text-latent-prompt]] — Detectarea textului generat de LLM
+- [[beyond-detection-authentic-assessment-ai-2025]] — Dincolo de detecție: evaluarea autentică într-o lume mediată de IA
+- [[ai-assessment-scale-reform]] — Scala de evaluare cu IA și reforma evaluării
+- [[authentic-products-authenticated-processes-2026]] — De la produse autentice la procese autentificate
+- [[student-rationalization-ai-writing]] — E în regulă pentru că... Raționalizarea folosirii IA de către studenți
+- [[ethical-ai-higher-ed-game-theory]] — Cadru de joc de coordonare pentru folosirea etică a IA
+- [[shame-guilt-ai-regulation-computing-education]] — Rușinea și vinovăția ca reglementatori sociali ai folosirii IA
+- [[cross-cultural-student-perceptions-genai-computing]] — A greșit Alice? Percepții transculturale asupra folosirii IA
+- [[luo-dawson-value-judgments-grading-2026]] — Judecăți de valoare în notarea muncii asistate de GenAI: onestitate, încredere, validitate și transparență bidirecțională (Luo și Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Responsabilitate între colegi și originalitate în evaluarea de grup mediată de GenAI
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Colapsul probatoriu al detecției și argumentul pentru justiție procedurală, proporționalitate și proiectare
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Descurajare, declarare și reconcepere ca problemă de proiectare a evaluării în condiții de informație imperfectă
+- [[munoz-misconduct-allegation-evidence-2026]] — Pe ce s-au sprijinit de fapt 1.162 de dosare de abatere cu GenAI, și pragul probatoriu lipsă
+- [[wright-transcription-not-generation-2026]] — Reguli prea cuprinzătoare privind IA și distincția dintre transcriere și generare
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Trișarea digitală cu IA și pedagogii etice bazate pe prevenire: cazul de la 183 la 27 de abateri și cinci reconceperi specifice disciplinelor (Leaton Gray, Edsall și Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Integritatea ca problemă de guvernanță: un cadru de 130 de indicatori pentru guvernanții academici (Coates, Croucher și Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Revizuire de tip scoping a 38 de studii despre vocile studenților din învățământul superior privind integritatea academică și GenAI (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Trasarea liniei dintre sprijin și substituire pentru cei care scriu în engleză ca limbă suplimentară, și inechitatea regulilor care ignoră originea lingvistică (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injectarea de prompturi împotriva notării mediate de IA: instrucțiuni ascunse care schimbă nota fără a fi detectate (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Matricea etică a folosirii IA: conformarea anxioasă și de ce claritatea singură îi poate împinge pe studenți spre eludare eficientă (Petricini și Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Notarea traseului de raționament atunci când agenții de IA pot completa tema (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Eseurile de admitere scrise de IA sunt larg răspândite, dar penalizate
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Cine acționează, cine știe, cine răspunde? O analiză de discurs asistată de corpus despre agenție, responsabilitate epistemică și responsabilizare în cercetarea despre IA generativă în învățământul superior
 
-- [[genai-governance-australian-higher-ed-2026]] - Cartografierea limitei autorizate: un studiu comparativ de viniete de politică privind guvernanța IA generative în învățământul superior australian
-- [[argus-academic-integrity-genai-2026]] - Argus: integritatea academică în era IA generative
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Constatare de audit sectorial: universitățile cu mandat și cele cu cadru nu arată nicio diferență în expunerea evaluării, omologul empiric al problemei coordonării
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - Predicția timpurie a riscului de trișare asistată de IA din urmele LMS, încadrată ca îndrumare academică, nu ca dovadă de abatere
-- [[reddit-genai-education-discourse-analysis-2026]] - Trei ani și jumătate de Reddit educațional: aplicarea domină, iar disputele de integritate sunt principalul loc de întâlnire dintre corpul didactic și studenți (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Experiment de sondaj: încadrarea substituirii în folosirea IA de către studenți îi penalizează pe solicitanții cu medii mari la angajare și salariu; testarea față în față este singurul remediu pe care l-au ales ambele grupuri
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
+- [[genai-governance-australian-higher-ed-2026]] — Cartografierea limitei autorizate: un studiu comparativ de viniete de politică privind guvernanța IA generative în învățământul superior australian
+- [[argus-academic-integrity-genai-2026]] — Argus: integritatea academică în era IA generative
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Constatare de audit sectorial: universitățile cu mandat și cele cu cadru nu arată nicio diferență în expunerea evaluării, omologul empiric al problemei coordonării
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - Predicția timpurie a riscului de trișare asistată de IA din urmele LMS, încadrată ca îndrumare academică, nu ca dovadă de abatere
+- [[reddit-genai-education-discourse-analysis-2026]] — Trei ani și jumătate de Reddit educațional: aplicarea domină, iar disputele de integritate sunt principalul loc de întâlnire dintre corpul didactic și studenți (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Experiment de sondaj: încadrarea substituirii în folosirea IA de către studenți îi penalizează pe solicitanții cu medii mari la angajare și salariu; testarea față în față este singurul remediu pe care l-au ales ambele grupuri
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

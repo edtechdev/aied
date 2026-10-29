@@ -192,45 +192,45 @@ Dezelfde logica maakt het vormgeven van beloningen tot een ontwerpgereedschap: [
 - [[cognitive-surrender]]
 
 ## Verbonden artikelen
-- [[ai-proof-learning-cognitive-offloading-2026]] - Het redeneren van studenten ondersteunen of vervangen? Cognitieve offloading in AI-ondersteund leren van bewijzen (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Wat de inzending niet laat zien: cognitieve offloading complexer maken in het wiskundewerk van studenten met LLM's (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Een consensus van 30 experts over 65 leerprocessen: offloading aan beide uiteinden van de leersequentie
-- [[rented-self-decoupling-performance-becoming-2026]] - Het gehuurde zelf: offloading die het domeingebonden zelf van de leerling kost, niet alleen de vaardigheid
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Groepen die gelijk begonnen, divergeerden: 74,1% modelovername in het ene profiel tegen 80,8% offloading en impasse in het andere (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - AI-ondersteuning verlaagde volharding en onondersteunde prestaties in drie RCT's (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT als cognitieve kruk: een gerandomiseerde gecontroleerde trial naar kennisbehoud 45 dagen later (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Van cognitieve uitbesteding naar herverdeling: 3P-analyse van de betrokkenheid van studenten met GenAI bij onbegeleide beoordelingen (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Autonomieondersteuning vanuit gezin en school voor verantwoord gebruik van generatieve AI door kinderen
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Overtollige versus nuttige frictie: waarom offloading door AI verschilt van eerdere hulpmiddelen
-- [[thermomix-genai-education-analogy-2026]] - Met een Thermomix verlies je het vermogen om te koken: een keukenmachine-analogie voor generatieve AI in het onderwijs (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - cognitieve uitspoeling: dynamiek na intrekking van AI-geïnduceerd vaardigheidsverval
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Een kritische narratieve synthese van betrokkenheid bij en afhankelijkheid van conversationele AI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Laagsensitieve cognitieve offloading in GenAI-ondersteund schrijven (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Epistemische afhankelijkheid in AI-bemiddeld leren: zes diagnostische criteria die productieve afhankelijkheid van schadelijke scheiden (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Cognitieve offloading van GenAI bij studenten met leerstoornissen
-- [[lodge-loble-cognitive-offloading-2026]] - AI, cognitieve offloading en implicaties voor het onderwijs
-- [[cognitive-offloading-metacognitive-review-2026]] - Metacognitieve inzichten in cognitieve offloading (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Metacognitieve training bevordert optimale cognitieve offloading (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - De kritisch-denkparadox in GenAI-geïntegreerd leren
-- [[cognitive-offloading-speedup-illusion]] - De versnellingsillusie van AI-ondersteund werk
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Co-occurrence-netwerkanalyse van promptpatronen
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory en cognitieve overgave: hoe AI het menselijk redeneren hervormt (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Continuüm van overgave, offloading en agency voor GenAI
-- [[ai-making-us-stupid]] - Onderzoek naar de cognitieve effecten van AI en verdringing van leren
-- [[brcic-effortless-trap-productive-struggle-2026]] - The Effortless Trap: AI die cognitief werk vervangt (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Gedachteloos AI-gebruik erodeert zelfgestuurd leren
-- [[generative-ai-guardrails-harm-learning]] - RCT's in middelbare-schoolwiskunde naar onbegeleide GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - De leerpenalty van generatieve AI: uitbesteding van huiswerk schaadt leren
-- [[coach-not-crutch-ai-writing]] - AI kan minder werken en meer leren opleveren (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - AI-tutoring productief maken: mastery-gebaseerd wiskundeoefenen
-- [[cognitive-commons-ai-expertise-regeneration]] - De tragedie van de cognitieve commons: AI en de regeneratie van expertise
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: een privacyvriendelijke zelfreflectietool voor cognitieve offloading door AI
-- [[chatgpt-writing-cognitive-impact-2026]] - een schrijven-om-te-leren-experiment waarin ChatGPT-ondersteund schrijven minder kenniswinst opleverde dan een onondersteunde controle
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Patronen van cognitieve offloading van studenten naar AI in het hoger onderwijs: naturalistische evidentie op ChatGPT-berichtniveau (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Ontwerpen tegen deskilling: metacognitieve feedback vermindert cognitieve offloading naar LLM-assistenten
-- [[chatgpt-programming-performance-retention-ownership-2026]] - De cognitie van je programmeerstudenten met ChatGPT: hogere prestatie, minder behoud en minder eigenaarschap
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Offloadingneiging en verificatiegeletterdheid als voorspellers van uitkomsten van hogere orde via metacognitieve zelfregulatie (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Een reflectieprompt vermindert de acceptatie van onjuist AI-advies en verbetert de kalibratie van bewustzijn (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - GenAI-afhankelijkheid als grensconditie voor kritisch-denkdispositie en zelf ervaren inzetbaarheid (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Kinderen vertoonden zwakkere frontopariëtale, salience- en dorsale aandachtsconnectiviteit dan volwassenen tijdens gesprekken met ChatGPT, bij gelijke creativiteitsscores
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI en creatief denken bij kinderen: overafhankelijkheid en promptafhankelijkheid in een scoping review (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Het redeneren van studenten ondersteunen of vervangen? Cognitieve offloading in AI-ondersteund leren van bewijzen (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Wat de inzending niet laat zien: cognitieve offloading complexer maken in het wiskundewerk van studenten met LLM's (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Een consensus van 30 experts over 65 leerprocessen: offloading aan beide uiteinden van de leersequentie
+- [[rented-self-decoupling-performance-becoming-2026]] — Het gehuurde zelf: offloading die het domeingebonden zelf van de leerling kost, niet alleen de vaardigheid
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groepen die gelijk begonnen, divergeerden: 74,1% modelovername in het ene profiel tegen 80,8% offloading en impasse in het andere (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI-ondersteuning verlaagde volharding en onondersteunde prestaties in drie RCT's (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT als cognitieve kruk: een gerandomiseerde gecontroleerde trial naar kennisbehoud 45 dagen later (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Van cognitieve uitbesteding naar herverdeling: 3P-analyse van de betrokkenheid van studenten met GenAI bij onbegeleide beoordelingen (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Autonomieondersteuning vanuit gezin en school voor verantwoord gebruik van generatieve AI door kinderen
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Overtollige versus nuttige frictie: waarom offloading door AI verschilt van eerdere hulpmiddelen
+- [[thermomix-genai-education-analogy-2026]] — Met een Thermomix verlies je het vermogen om te koken: een keukenmachine-analogie voor generatieve AI in het onderwijs (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — cognitieve uitspoeling: dynamiek na intrekking van AI-geïnduceerd vaardigheidsverval
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Een kritische narratieve synthese van betrokkenheid bij en afhankelijkheid van conversationele AI
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Laagsensitieve cognitieve offloading in GenAI-ondersteund schrijven (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Epistemische afhankelijkheid in AI-bemiddeld leren: zes diagnostische criteria die productieve afhankelijkheid van schadelijke scheiden (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitieve offloading van GenAI bij studenten met leerstoornissen
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitieve offloading en implicaties voor het onderwijs
+- [[cognitive-offloading-metacognitive-review-2026]] — Metacognitieve inzichten in cognitieve offloading (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitieve training bevordert optimale cognitieve offloading (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — De kritisch-denkparadox in GenAI-geïntegreerd leren
+- [[cognitive-offloading-speedup-illusion]] — De versnellingsillusie van AI-ondersteund werk
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-occurrence-netwerkanalyse van promptpatronen
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory en cognitieve overgave: hoe AI het menselijk redeneren hervormt (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Continuüm van overgave, offloading en agency voor GenAI
+- [[ai-making-us-stupid]] — Onderzoek naar de cognitieve effecten van AI en verdringing van leren
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI die cognitief werk vervangt (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Gedachteloos AI-gebruik erodeert zelfgestuurd leren
+- [[generative-ai-guardrails-harm-learning]] — RCT's in middelbare-schoolwiskunde naar onbegeleide GenAI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — De leerpenalty van generatieve AI: uitbesteding van huiswerk schaadt leren
+- [[coach-not-crutch-ai-writing]] — AI kan minder werken en meer leren opleveren (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — AI-tutoring productief maken: mastery-gebaseerd wiskundeoefenen
+- [[cognitive-commons-ai-expertise-regeneration]] — De tragedie van de cognitieve commons: AI en de regeneratie van expertise
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: een privacyvriendelijke zelfreflectietool voor cognitieve offloading door AI
+- [[chatgpt-writing-cognitive-impact-2026]] — een schrijven-om-te-leren-experiment waarin ChatGPT-ondersteund schrijven minder kenniswinst opleverde dan een onondersteunde controle
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patronen van cognitieve offloading van studenten naar AI in het hoger onderwijs: naturalistische evidentie op ChatGPT-berichtniveau (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Ontwerpen tegen deskilling: metacognitieve feedback vermindert cognitieve offloading naar LLM-assistenten
+- [[chatgpt-programming-performance-retention-ownership-2026]] — De cognitie van je programmeerstudenten met ChatGPT: hogere prestatie, minder behoud en minder eigenaarschap
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Offloadingneiging en verificatiegeletterdheid als voorspellers van uitkomsten van hogere orde via metacognitieve zelfregulatie (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Een reflectieprompt vermindert de acceptatie van onjuist AI-advies en verbetert de kalibratie van bewustzijn (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-afhankelijkheid als grensconditie voor kritisch-denkdispositie en zelf ervaren inzetbaarheid (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Kinderen vertoonden zwakkere frontopariëtale, salience- en dorsale aandachtsconnectiviteit dan volwassenen tijdens gesprekken met ChatGPT, bij gelijke creativiteitsscores
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI en creatief denken bij kinderen: overafhankelijkheid en promptafhankelijkheid in een scoping review (Niu et al. 2026)

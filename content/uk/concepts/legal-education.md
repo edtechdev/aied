@@ -13,7 +13,6 @@ level: [higher ed]
 audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/legal-education
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

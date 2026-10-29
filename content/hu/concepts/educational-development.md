@@ -142,13 +142,13 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 - [[stakeholders]] - Gyűjtőfogalom: emberek és közönségek a MI-oktatásban (tanulók, tanárok, tervezők, adminisztrátorok, döntéshozók)
 
 ## Kapcsolódó cikkek
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - A generatív MI összehangolási tanácsainak kritikai diskurzuselemzése: a fejlesztők technológiaképzőkként újraértelmezve
-- [[crompton-faculty-technology-integration-standards-2026]] - Oktatói standardok a technológiaintegrációhoz (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - A MI etikai dimenziói: oktatói és diáknézetek
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — A generatív MI összehangolási tanácsainak kritikai diskurzuselemzése: a fejlesztők technológiaképzőkként újraértelmezve
+- [[crompton-faculty-technology-integration-standards-2026]] — Oktatói standardok a technológiaintegrációhoz (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — A MI etikai dimenziói: oktatói és diáknézetek
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Hogyan építik (és korlátozzák) a mérnökkari metaforák a MI megértését
-- [[fear-awe-genai-metaphor-workshops-2025]] - Félelem és áhítat: a generatív MI értelmezése metaforákon keresztül (oktatói, munkatársi és diákmetafora-műhely)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - A láthatatlan irányítása: MI-írástudatosság a nyelvtanárok körében
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hogyan építik (és korlátozzák) a mérnökkari metaforák a MI megértését
+- [[fear-awe-genai-metaphor-workshops-2025]] — Félelem és áhítat: a generatív MI értelmezése metaforákon keresztül (oktatói, munkatársi és diákmetafora-műhely)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — A láthatatlan irányítása: MI-írástudatosság a nyelvtanárok körében
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - A generatív MI mint identitásválság, nem készséghiány
-- [[zuo-instructor-power-genai-writing-2026]] - Az írás oktatói által észlelt hatalmi viszonyok a generatív MI-vel küzdve (Zuo, Xu és Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflektív háromszög modell: a MI mint kognitív közvetítő
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Oktatók önészlelt TPACK-21 tudása a generatív MI-re (Sutedjo, Chowdhury és Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK szakmai fejlesztés: a részvétel jelzi előre a nyereséget, az önészlelt részvétel nem
-- [[instructional-design-proficiency-masters-math-2026]] - Okosterem-modell és D-T-E hurok a matematika M.Ed. oktatástervezési jártasságának javítására (Zhu és mtsai. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - A szerepek architektúrája a MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Egyetemi tanárok tapasztalatai és képzetei a generatív MI-ről: sebezhetőség, az értékelés újragondolása, veszélyben a tanulói tanulás (Farazouli és mtsai. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - A félelemtől az innovációig: hathetes oktatói intézet, szimbiótikus pedagógia és az intézményi feltételek, amelyeket nem tudott biztosítani
-- [[vassallo-ai-guilt-complex-faculty-2026]] - A MI-bűntudat komplexus: előrevetített bűntudat, leplezés és karrierszakaszbeli különbségek az oktatói munkatársak körében (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon felmérés 1 057 amerikai oktató körében: intézményi felkészületlenség, vékony irányítás és a 87%/48%-os politikai szakadék (Watson és Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Tudományos fejlesztők mint digitális közvetítők a globális dél felsőoktatásában: a fejlesztés mint szociotechnikai praxis
-- [[physics-faculty-learning-community-ai-2026]] - Műhelysorozat a MI hatékony használatáért bizonytalan időkben: fizikaoktatói tanulóközösség építése
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — A generatív MI mint identitásválság, nem készséghiány
+- [[zuo-instructor-power-genai-writing-2026]] — Az írás oktatói által észlelt hatalmi viszonyok a generatív MI-vel küzdve (Zuo, Xu és Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflektív háromszög modell: a MI mint kognitív közvetítő
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Oktatók önészlelt TPACK-21 tudása a generatív MI-re (Sutedjo, Chowdhury és Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK szakmai fejlesztés: a részvétel jelzi előre a nyereséget, az önészlelt részvétel nem
+- [[instructional-design-proficiency-masters-math-2026]] — Okosterem-modell és D-T-E hurok a matematika M.Ed. oktatástervezési jártasságának javítására (Zhu és mtsai. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — A szerepek architektúrája a MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Egyetemi tanárok tapasztalatai és képzetei a generatív MI-ről: sebezhetőség, az értékelés újragondolása, veszélyben a tanulói tanulás (Farazouli és mtsai. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — A félelemtől az innovációig: hathetes oktatói intézet, szimbiótikus pedagógia és az intézményi feltételek, amelyeket nem tudott biztosítani
+- [[vassallo-ai-guilt-complex-faculty-2026]] — A MI-bűntudat komplexus: előrevetített bűntudat, leplezés és karrierszakaszbeli különbségek az oktatói munkatársak körében (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon felmérés 1 057 amerikai oktató körében: intézményi felkészületlenség, vékony irányítás és a 87%/48%-os politikai szakadék (Watson és Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Tudományos fejlesztők mint digitális közvetítők a globális dél felsőoktatásában: a fejlesztés mint szociotechnikai praxis
+- [[physics-faculty-learning-community-ai-2026]] — Műhelysorozat a MI hatékony használatáért bizonytalan időkben: fizikaoktatói tanulóközösség építése
 
-- [[faculty-ai-well-being-social-supports-2026]] - Az oktatók MI-jólléte a MI-írástudatosságot követi, nem a technológiai önhatékonyságot
-- [[ai-competence-framework-landscape-2026]] - Ellenőrizze, mit írnak le egy keretrendszer szintjei, mielőtt átveszi
+- [[faculty-ai-well-being-social-supports-2026]] — Az oktatók MI-jólléte a MI-írástudatosságot követi, nem a technológiai önhatékonyságot
+- [[ai-competence-framework-landscape-2026]] — Ellenőrizze, mit írnak le egy keretrendszer szintjei, mielőtt átveszi

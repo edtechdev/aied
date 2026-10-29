@@ -7,7 +7,6 @@ technology: [generative-ai, intelligent-tutoring]
 assessment: [feedback]
 discipline: [cs education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/learning-by-teaching
 source_updated: "2026-10-01T18:49:55-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

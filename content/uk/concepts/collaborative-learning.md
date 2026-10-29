@@ -9,7 +9,6 @@ connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/collaborative-learning
 source_updated: "2026-10-07T15:40:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -120,7 +119,7 @@ ai_assist:
 - [[pedagogy]] — Парасолька: педагогіки та стратегії викладання в освіті зі ШІ
 
 ## Пов’язані статті
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Консенсус 30 експертів виявляє однобічний соціальний ризик: процеси співпраці вразливі без шляху посилення
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 експертів виявляє однобічний соціальний ризик: процеси співпраці вразливі без шляху посилення
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Проблемно- та проєктно-орієнтоване навчання як багатообіцяючі рамки для освіти з підтримкою генеративного ШІ: нові свідчення з систематичного огляду та трирівневого метааналізу
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Емерджентна аґентність здобувача в неявній людсько-ШІ-співпраці: підтримувальні проти контрарних персон
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

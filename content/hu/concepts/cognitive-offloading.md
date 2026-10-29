@@ -192,45 +192,45 @@ Ugyanez a logika a jutalomformálást tervezési eszközzé teszi: [[assistance-
 - [[cognitive-surrender]]
 
 ## Kapcsolódó cikkek
-- [[ai-proof-learning-cognitive-offloading-2026]] - A diákok érvelésének támogatása vagy helyettesítése? Kognitív tehermentesítés a MI-támogatott bizonyítástanulásban (Chen és mtsai. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Amit a beadandó nem mutat meg: a kognitív tehermentesítés árnyalása a diákok LLM-ekkel végzett matematikai munkájában (Kontorovich és Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Egy 30 szakértőből álló konszenzus 65 tanulási folyamatról: tehermentesítés a tanulási szekvencia mindkét végén
-- [[rented-self-decoupling-performance-becoming-2026]] - A bérelt én: tehermentesítés, amely a tanuló szakterületi énjébe kerül, nem csak a készségébe
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Hasonlóan induló csoportok váltak szét: 74,1% modellhasználat az egyik profilban, szemben 80,8% tehermentesítéssel és holtponttal a másikban (Kilinc és mtsai. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - A MI-támogatás csökkentette a kitartást és a segítség nélküli teljesítményt három RCT-ben (Liu és mtsai. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - A ChatGPT mint kognitív mankó: randomizált kontrollált vizsgálat a tudásmegőrzésről 45 nappal később (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - A kognitív kiszervezéstől az újraelosztásig: a diák-generatív MI elköteleződés 3P-elemzése felügyelet nélküli értékelésekben (Yan és mtsai. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Család és iskola autonómiatámogatása a gyerekek felelős generatív MI-használatához
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Felesleges és hasznos súrlódás: miért különbözik a MI-tehermentesítés a korábbi eszközöktől
-- [[thermomix-genai-education-analogy-2026]] - A Thermomixszel elveszíti a főzés képességét: konyhai gép analógia a generatív MI-re az oktatásban (Rummel, Nachtigall és Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - kognitív kioldódás: a MI által kiváltott készségleépülés megvonás utáni dinamikája
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - A beszélgető MI iránti elköteleződés és a függőség kritikai narratív szintézise
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Rétegérzékeny kognitív tehermentesítés a generatív MI-támogatott írásban (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Episztemikus függés a MI által közvetített tanulásban: hat diagnosztikai kritérium a produktív támaszkodás és a káros függőség megkülönböztetésére (Du és Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Generatív MI kognitív tehermentesítés tanulási nehézségekkel élő diákoknál
-- [[lodge-loble-cognitive-offloading-2026]] - MI, kognitív tehermentesítés és az oktatásra vonatkozó következmények
-- [[cognitive-offloading-metacognitive-review-2026]] - Metakognitív meglátások a kognitív tehermentesítésről (Guo és Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - A metakognitív tréning elősegíti az optimális kognitív tehermentesítést (Ngai és Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - A kritikaigondolkodás-paradoxon a generatív MI-vel integrált tanulásban
-- [[cognitive-offloading-speedup-illusion]] - A MI-támogatott munka felgyorsulás-illúziója
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Promptminták együtt-előfordulási hálózatelemzése
-- [[shaw-nave-cognitive-surrender-2026]] - Háromrendszer-elmélet és kognitív megadás: hogyan alakítja át a MI az emberi érvelést (Shaw és Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - A megadás, tehermentesítés és önállóság kontinuuma a generatív MI-re
-- [[ai-making-us-stupid]] - Kutatás a MI kognitív hatásairól és a tanulás kiszorulásáról
-- [[brcic-effortless-trap-productive-struggle-2026]] - Az erőfeszítés nélküli csapda: a MI átveszi a kognitív munkát (Brcic és Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - A gondtalan MI-használat erodálja az önálló tanulást
-- [[generative-ai-guardrails-harm-learning]] - Középiskolai matematikai RCT-k az őrizetlen generatív MI-ről
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - A generatív MI tanulási büntetése: a házi feladat kiszervezése árt a tanulásnak
-- [[coach-not-crutch-ai-writing]] - A MI kevesebb munkával több tanulást hozhat (Lira és mtsai. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - A MI-tutorálás produktívvá tétele: elsajátításalapú matematikagyakorlás
-- [[cognitive-commons-ai-expertise-regeneration]] - A kognitív közkincs tragédiája: a MI és a szakértelem regenerálása
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: adatvédelem-barát önreflexiós eszköz a MI-hez kapcsolódó kognitív tehermentesítéshez
-- [[chatgpt-writing-cognitive-impact-2026]] - egy írással tanulás kísérlet, amelyben a ChatGPT-támogatott írás kevesebb tudásnyereséget hozott, mint a segítség nélküli kontroll
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - A diákok kognitív tehermentesítésének mintái a MI felé a felsőoktatásban: naturalisztikus, ChatGPT-üzenetszintű bizonyíték (Piatnitckaia és mtsai. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Tervezés az elszegényedés ellen: a metakognitív visszajelzés csökkenti a kognitív tehermentesítést az LLM-asszisztensek felé
-- [[chatgpt-programming-performance-retention-ownership-2026]] - A programozástanulók gondolkodása a ChatGPT-vel: magasabb teljesítmény, alacsonyabb megőrzés és csökkent tulajdonítás
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - A tehermentesítési hajlam és az ellenőrzési írástudás a magasabb rendű kimeneteket metakognitív önszabályozáson keresztül jelzik előre (Davor és mtsai. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - A reflexiós felhívás csökkenti a hibás MI-tanács elfogadását és javítja a tudatosság kalibrációját (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - A generatív MI-függés mint határfeltétel a kritikaigondolkodás-diszpozícióra és az önészlelt foglalkoztathatóságra (Shojaei és mtsai. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - A gyerekek gyengébb frontoparietális, szaliencia- és háti figyelmi konnektivitást mutattak, mint a felnőttek, miközben a ChatGPT-vel beszélgettek, azonos kreativitáspontszámok mellett
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - A generatív MI és a gyerekek kreatív gondolkodása: túlzott támaszkodás és promptfüggőség egy áttekintő vizsgálatban (Niu és mtsai. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — A diákok érvelésének támogatása vagy helyettesítése? Kognitív tehermentesítés a MI-támogatott bizonyítástanulásban (Chen és mtsai. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Amit a beadandó nem mutat meg: a kognitív tehermentesítés árnyalása a diákok LLM-ekkel végzett matematikai munkájában (Kontorovich és Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Egy 30 szakértőből álló konszenzus 65 tanulási folyamatról: tehermentesítés a tanulási szekvencia mindkét végén
+- [[rented-self-decoupling-performance-becoming-2026]] — A bérelt én: tehermentesítés, amely a tanuló szakterületi énjébe kerül, nem csak a készségébe
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Hasonlóan induló csoportok váltak szét: 74,1% modellhasználat az egyik profilban, szemben 80,8% tehermentesítéssel és holtponttal a másikban (Kilinc és mtsai. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — A MI-támogatás csökkentette a kitartást és a segítség nélküli teljesítményt három RCT-ben (Liu és mtsai. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — A ChatGPT mint kognitív mankó: randomizált kontrollált vizsgálat a tudásmegőrzésről 45 nappal később (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — A kognitív kiszervezéstől az újraelosztásig: a diák-generatív MI elköteleződés 3P-elemzése felügyelet nélküli értékelésekben (Yan és mtsai. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Család és iskola autonómiatámogatása a gyerekek felelős generatív MI-használatához
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Felesleges és hasznos súrlódás: miért különbözik a MI-tehermentesítés a korábbi eszközöktől
+- [[thermomix-genai-education-analogy-2026]] — A Thermomixszel elveszíti a főzés képességét: konyhai gép analógia a generatív MI-re az oktatásban (Rummel, Nachtigall és Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — kognitív kioldódás: a MI által kiváltott készségleépülés megvonás utáni dinamikája
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A beszélgető MI iránti elköteleződés és a függőség kritikai narratív szintézise
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Rétegérzékeny kognitív tehermentesítés a generatív MI-támogatott írásban (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Episztemikus függés a MI által közvetített tanulásban: hat diagnosztikai kritérium a produktív támaszkodás és a káros függőség megkülönböztetésére (Du és Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Generatív MI kognitív tehermentesítés tanulási nehézségekkel élő diákoknál
+- [[lodge-loble-cognitive-offloading-2026]] — MI, kognitív tehermentesítés és az oktatásra vonatkozó következmények
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitív meglátások a kognitív tehermentesítésről (Guo és Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — A metakognitív tréning elősegíti az optimális kognitív tehermentesítést (Ngai és Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — A kritikaigondolkodás-paradoxon a generatív MI-vel integrált tanulásban
+- [[cognitive-offloading-speedup-illusion]] — A MI-támogatott munka felgyorsulás-illúziója
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Promptminták együtt-előfordulási hálózatelemzése
+- [[shaw-nave-cognitive-surrender-2026]] — Háromrendszer-elmélet és kognitív megadás: hogyan alakítja át a MI az emberi érvelést (Shaw és Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — A megadás, tehermentesítés és önállóság kontinuuma a generatív MI-re
+- [[ai-making-us-stupid]] — Kutatás a MI kognitív hatásairól és a tanulás kiszorulásáról
+- [[brcic-effortless-trap-productive-struggle-2026]] — Az erőfeszítés nélküli csapda: a MI átveszi a kognitív munkát (Brcic és Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — A gondtalan MI-használat erodálja az önálló tanulást
+- [[generative-ai-guardrails-harm-learning]] — Középiskolai matematikai RCT-k az őrizetlen generatív MI-ről
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — A generatív MI tanulási büntetése: a házi feladat kiszervezése árt a tanulásnak
+- [[coach-not-crutch-ai-writing]] — A MI kevesebb munkával több tanulást hozhat (Lira és mtsai. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — A MI-tutorálás produktívvá tétele: elsajátításalapú matematikagyakorlás
+- [[cognitive-commons-ai-expertise-regeneration]] — A kognitív közkincs tragédiája: a MI és a szakértelem regenerálása
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: adatvédelem-barát önreflexiós eszköz a MI-hez kapcsolódó kognitív tehermentesítéshez
+- [[chatgpt-writing-cognitive-impact-2026]] — egy írással tanulás kísérlet, amelyben a ChatGPT-támogatott írás kevesebb tudásnyereséget hozott, mint a segítség nélküli kontroll
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — A diákok kognitív tehermentesítésének mintái a MI felé a felsőoktatásban: naturalisztikus, ChatGPT-üzenetszintű bizonyíték (Piatnitckaia és mtsai. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Tervezés az elszegényedés ellen: a metakognitív visszajelzés csökkenti a kognitív tehermentesítést az LLM-asszisztensek felé
+- [[chatgpt-programming-performance-retention-ownership-2026]] — A programozástanulók gondolkodása a ChatGPT-vel: magasabb teljesítmény, alacsonyabb megőrzés és csökkent tulajdonítás
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — A tehermentesítési hajlam és az ellenőrzési írástudás a magasabb rendű kimeneteket metakognitív önszabályozáson keresztül jelzik előre (Davor és mtsai. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflexiós felhívás csökkenti a hibás MI-tanács elfogadását és javítja a tudatosság kalibrációját (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — A generatív MI-függés mint határfeltétel a kritikaigondolkodás-diszpozícióra és az önészlelt foglalkoztathatóságra (Shojaei és mtsai. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — A gyerekek gyengébb frontoparietális, szaliencia- és háti figyelmi konnektivitást mutattak, mint a felnőttek, miközben a ChatGPT-vel beszélgettek, azonos kreativitáspontszámok mellett
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — A generatív MI és a gyerekek kreatív gondolkodása: túlzott támaszkodás és promptfüggőség egy áttekintő vizsgálatban (Niu és mtsai. 2026)

@@ -10,7 +10,6 @@ assessment: [feedback]
 discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/intelligent-tutoring
 source_updated: "2026-10-14T11:15:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

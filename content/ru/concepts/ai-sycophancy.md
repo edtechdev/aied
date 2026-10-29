@@ -8,7 +8,6 @@ technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/ai-sycophancy
 source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

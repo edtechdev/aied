@@ -17,7 +17,6 @@ level: [higher ed]
 audience: [instructors, learners, researchers, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [openmaic]
-reviewed_by: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation

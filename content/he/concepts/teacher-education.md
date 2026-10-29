@@ -7,7 +7,6 @@ connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/teacher-education
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

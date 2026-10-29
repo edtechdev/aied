@@ -1,5 +1,5 @@
 ---
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: एडटेक प्लेटफ़ॉर्म
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-15T06:00:00-04:00"

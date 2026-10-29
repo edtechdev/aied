@@ -114,7 +114,7 @@ ai_assist:
 
 ## 关联文章
 
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 在没有应对框架可教之处，伦理觉察放大了人工智能焦虑：584 名学生中的纯间接中介
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 在没有应对框架可教之处，伦理觉察放大了人工智能焦虑：584 名学生中的纯间接中介
 - [[learning-analytics-to-educational-interventions-2026]] — 从学习分析到教育干预：可信的基于学习分析的干预的使能者（Svetec, Divjak & Kadoić 2026）
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 学生如何在在线评估中使用与隐藏人工智能
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 学生的人工智能披露、污名与自我调节学习

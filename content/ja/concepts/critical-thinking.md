@@ -98,7 +98,7 @@ GenAI利用と自己申告された批判的思考の結びつきは、ほぼ完
 - [[cognitive-surrender]]
 
 ## 関連する記事
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30人の専門家による合意:批判的思考が報告書で最も高い混乱評価を受ける(平均4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30人の専門家による合意:批判的思考が報告書で最も高い混乱評価を受ける(平均4.00)
 - [[pearls-epistemic-verification-2026]] — 認識論的エージェンシーとAI出力の検証のためのPEARLS枠組み(Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI支援の執筆における層感受性の認知的オフローディング(Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — GenAI統合学習における批判的思考のパラドックス

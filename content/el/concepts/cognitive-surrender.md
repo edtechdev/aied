@@ -127,16 +127,16 @@ ai_assist:
 
 ## Συνδεδεμένα άρθρα
 
-- [[shaw-nave-cognitive-surrender-2026]] - Η Θεωρία των Τριών Συστημάτων και η πειραματική υπογραφή της συνθηκολόγησης
-- [[generative-ai-reduced-study-time-math]] - Μετατόπιση σε επίπεδο πληθυσμού στο ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Το πλαίσιο συνθηκολόγησης/αποφόρτισης/δράσης στην προσχολική και σχολική εκπαίδευση
-- [[du-yuan-epistemic-dependence-2026]] - Εργαλειακή βοήθεια έναντι βοήθειας που φέρει κρίση
-- [[ai-advice-suppresses-ikt-suspension-2026]] - Η κατάρρευση του «δεν ξέρω»
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - Νευρωνική εμπλοκή και πατρότητα
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Αλόγιστη χρήση και αυτοκατευθυνόμενη μάθηση
-- [[stamatoulis-genai-use-patterns-2026]] - Υιοθέτηση με χαμηλή επαλήθευση έναντι αξιολογικής ενσωμάτωσης
-- [[cognitive-washout-ai-skill-decay-2026]] - Τι συμβαίνει μετά την απόσυρση
-- [[ai-overreliance-complex-adaptive-system-2026]] - Η εξάρτηση ως διαδικασία πληθυσμού
-- [[brcic-effortless-trap-productive-struggle-2026]] - Τοποθέτηση της ΤΝ ώστε το έργο να παραμένει επίπονο
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Εκπαίδευση βαθμονόμησης
-- [[family-school-autonomy-support-genai-2026]] - Εξαρτημένη έναντι αυτόνομης αποφόρτισης
+- [[shaw-nave-cognitive-surrender-2026]] — Η Θεωρία των Τριών Συστημάτων και η πειραματική υπογραφή της συνθηκολόγησης
+- [[generative-ai-reduced-study-time-math]] — Μετατόπιση σε επίπεδο πληθυσμού στο ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Το πλαίσιο συνθηκολόγησης/αποφόρτισης/δράσης στην προσχολική και σχολική εκπαίδευση
+- [[du-yuan-epistemic-dependence-2026]] — Εργαλειακή βοήθεια έναντι βοήθειας που φέρει κρίση
+- [[ai-advice-suppresses-ikt-suspension-2026]] — Η κατάρρευση του «δεν ξέρω»
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Νευρωνική εμπλοκή και πατρότητα
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Αλόγιστη χρήση και αυτοκατευθυνόμενη μάθηση
+- [[stamatoulis-genai-use-patterns-2026]] — Υιοθέτηση με χαμηλή επαλήθευση έναντι αξιολογικής ενσωμάτωσης
+- [[cognitive-washout-ai-skill-decay-2026]] — Τι συμβαίνει μετά την απόσυρση
+- [[ai-overreliance-complex-adaptive-system-2026]] — Η εξάρτηση ως διαδικασία πληθυσμού
+- [[brcic-effortless-trap-productive-struggle-2026]] — Τοποθέτηση της ΤΝ ώστε το έργο να παραμένει επίπονο
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Εκπαίδευση βαθμονόμησης
+- [[family-school-autonomy-support-genai-2026]] — Εξαρτημένη έναντι αυτόνομης αποφόρτισης

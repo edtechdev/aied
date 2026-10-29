@@ -6,7 +6,6 @@ weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-reviewed_by: [editor]
 translation_of: faqs/evaluating-ai-interventions-methods
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

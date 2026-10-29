@@ -206,52 +206,52 @@ Evidenssi tukee tiettyä toimintajärjestystä opettajalle, joka ottaa tekoälyn
 
 ## Liittyvät artikkelit
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Tuntiopettajat kantavat eheystyön ilman valtuutusta
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] - Inhimillisemmän paradoksi: asiantuntijoiden 2030-skenaariot osoittavat, että tekoälyn kyllästymä voimistaa inhimillistä pedagogista työtä sen syrjäyttämisen sijaan (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] - Kuusi havainnoitua lukion matematiikan oppituntia laajentavat instrumentaalista orkestrointia kolmella uudella tyypillä (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] - Tekoälyn tuottamiin emotionaalisiin hälytyksiin vastaaminen: opettajien interventio ja opiskelijoiden sitoutuminen matematiikan luokkahuoneessa
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Tuntiopettajat kantavat eheystyön ilman valtuutusta
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Inhimillisemmän paradoksi: asiantuntijoiden 2030-skenaariot osoittavat, että tekoälyn kyllästymä voimistaa inhimillistä pedagogista työtä sen syrjäyttämisen sijaan (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Kuusi havainnoitua lukion matematiikan oppituntia laajentavat instrumentaalista orkestrointia kolmella uudella tyypillä (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Tekoälyn tuottamiin emotionaalisiin hälytyksiin vastaaminen: opettajien interventio ja opiskelijoiden sitoutuminen matematiikan luokkahuoneessa
 
-- [[edustories-classroom-case-studies-2026]] - Edustories: kokoelma todellisia tapaustutkimuksia luokkahuonekäytännöistä
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] - Opettajat suunnittelevat luokkahuonechatbotit rajattuina asiantuntijoina ja säilyttävät auktoriteetin
-- [[dai-genai-frenemy-teaching-autonomy-2026]] - GenAI "frenemynä": opettajat suosivat osittaisautonomiaa, hyödyllisyys ajaa käyttöönottoa, riskin karttaminen kohdistuu opiskelijoiden käyttöön (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] - Tekoälyn tukema luennoitsijoiden päätöksenteko korkeakoulutuksessa
-- [[chirikov-regulate-ai-syllabi-2026]] - Miten opettajat säätelevät tekoälyä 31 000 kurssin opetussuunnitelmassa; tehtävätason sääntely (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] - Tekoälyn opetusinnovaatiokäyttäytyminen korkeakouluopettajilla (AI-TPACK SEM; Bai & Hsieh 2026)
+- [[edustories-classroom-case-studies-2026]] — Edustories: kokoelma todellisia tapaustutkimuksia luokkahuonekäytännöistä
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Opettajat suunnittelevat luokkahuonechatbotit rajattuina asiantuntijoina ja säilyttävät auktoriteetin
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI "frenemynä": opettajat suosivat osittaisautonomiaa, hyödyllisyys ajaa käyttöönottoa, riskin karttaminen kohdistuu opiskelijoiden käyttöön (Dai et al. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — Tekoälyn tukema luennoitsijoiden päätöksenteko korkeakoulutuksessa
+- [[chirikov-regulate-ai-syllabi-2026]] — Miten opettajat säätelevät tekoälyä 31 000 kurssin opetussuunnitelmassa; tehtävätason sääntely (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — Tekoälyn opetusinnovaatiokäyttäytyminen korkeakouluopettajilla (AI-TPACK SEM; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI identiteettikriisinä, ei taitokuiluna
-- [[lodge-loble-cognitive-offloading-2026]] - Tekoäly, kognitiivinen siirtokuormitus ja vaikutukset koulutukseen (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - Tekoäly ja opetussuunnittelukäytäntö: systemaattinen katsaus (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] - Voiko tekoäly tarjota asianmukaista tukea moninaisille opiskelijaprofiileille? Laajamittainen arviointi
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Kummitusopiskelijat ja agenttinen tekoäly arvioinnissa
-- [[wang-teacher-ai-co-design-review-2026]] - Oppimistehtävien opettaja-tekoäly-yhteissuunnittelu: trendit ja näkökulmat (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Yliopisto-opettajien kokemukset ja käsitykset GAI:sta: haavoittuvuus, arvioinnin uudelleenajattelu, opiskelijoiden oppiminen vaarassa (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] - Arvoharkinnat GenAI-avusteisen työn arvioinnissa: rehellisyys, luottamus, validiteetti ja kaksisuuntainen läpinäkyvyys (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] - Koneoppimistulosten tekeminen opettajille saavutettaviksi sulautuvissa luokkahuoneissa
-- [[li-language-educators-genai-review-2026]] - Kieltenopettajien käytännöt ja kehitys GenAI:n kanssa
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI identiteettikriisinä, ei taitokuiluna
+- [[lodge-loble-cognitive-offloading-2026]] — Tekoäly, kognitiivinen siirtokuormitus ja vaikutukset koulutukseen (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — Tekoäly ja opetussuunnittelukäytäntö: systemaattinen katsaus (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Voiko tekoäly tarjota asianmukaista tukea moninaisille opiskelijaprofiileille? Laajamittainen arviointi
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Kummitusopiskelijat ja agenttinen tekoäly arvioinnissa
+- [[wang-teacher-ai-co-design-review-2026]] — Oppimistehtävien opettaja-tekoäly-yhteissuunnittelu: trendit ja näkökulmat (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Yliopisto-opettajien kokemukset ja käsitykset GAI:sta: haavoittuvuus, arvioinnin uudelleenajattelu, opiskelijoiden oppiminen vaarassa (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Arvoharkinnat GenAI-avusteisen työn arvioinnissa: rehellisyys, luottamus, validiteetti ja kaksisuuntainen läpinäkyvyys (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Koneoppimistulosten tekeminen opettajille saavutettaviksi sulautuvissa luokkahuoneissa
+- [[li-language-educators-genai-review-2026]] — Kieltenopettajien käytännöt ja kehitys GenAI:n kanssa
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] - Identiteettijännitteet ja periaatteellinen valikoivuus tekoälyintegroidussa opetuksessa (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] - Opettajan interventio K-12-tason tekoälypohjaisessa opetuksessa: systemaattinen katsaus
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akateemiset kehittäjät digitaalisina välittäjinä: roolin uudelleenkonfigurointi, affektiivinen työ ja harkinta eteläafrikkalaisissa HDI-instituutioissa
-- [[where-ai-enters-teacher-work-2026]] - Missä tekoäly astuu opettajan työhön
-- [[rodrigues-aied-unplugged-numeracy-2026]] - AIED unplugged: opettaja välittäjänä oppijoiden ja tekoälyn välissä, 19 luokan kvasikoe, jossa koulutus ja epäsuora vaivannäön väheneminen ajavat hyötyjä (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] - Opetuksellinen hallinto suunnittelun kautta: viitekehys tekoälylle tietojenkäsittelyn opetuksessa
+- [[ai-integrated-teaching-identity-tensions]] — Identiteettijännitteet ja periaatteellinen valikoivuus tekoälyintegroidussa opetuksessa (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Opettajan interventio K-12-tason tekoälypohjaisessa opetuksessa: systemaattinen katsaus
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akateemiset kehittäjät digitaalisina välittäjinä: roolin uudelleenkonfigurointi, affektiivinen työ ja harkinta eteläafrikkalaisissa HDI-instituutioissa
+- [[where-ai-enters-teacher-work-2026]] — Missä tekoäly astuu opettajan työhön
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: opettaja välittäjänä oppijoiden ja tekoälyn välissä, 19 luokan kvasikoe, jossa koulutus ja epäsuora vaivannäön väheneminen ajavat hyötyjä (Rodrigues et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Opetuksellinen hallinto suunnittelun kautta: viitekehys tekoälylle tietojenkäsittelyn opetuksessa
 
-- [[teachers-configure-educational-chatbots-2026]] - Opettaako se niin kuin on tarkoitettu? Miten opettajat konfiguroivat koulutuksellisia tekoälychatbotteja
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] - Opettajan välitys matematiikassa: viisi kriittisen välityksen käytäntöä, siirtyvä auktoriteetti ja ilmaisen ja premium-tason algoritminen kuilu
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] - Opettajan suunnitteluvalmius: valmius suunnittelukykynä, ei käyttöönottona tai itseluottamuksena (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] - ChatGPT-avusteinen opettajapalaute: opettajat kuratoivat tekoälyluonnoksia niiden välittämisen sijaan
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] - Kompetenssista toimijuuteen: opettajien näkemykset tekoälykasvatuksen tarkoituksista
-- [[kuhail-great-debaters-ai-facilitators-2026]] - Ihminen vastaan tekoäly väittelyn moderaattorina: vastaavat arviot, eri reitit uudelleenkäyttöön
-- [[yalcin-genai-programming-education-systematic-review-2026]] - GenAI ohjelmoinnin opetuksessa: systemaattinen katsaus, jossa opettajien roolit ovat vähiten tutkittuja
-- [[heutagogical-teaching-ai-enhanced-education-2026]] - Tiedon tarjoajista oppimissuunnittelijoiksi: heutagogiset opetuskäytännöt tekoälyllä tehostetussa koulutuksessa
-- [[falhs-teacher-expertise-reflection-2025]] - Miten asiantuntemuksen taso muovaa mieltymyksiä ja reflektiotarpeita: kohti opettajien voimaannuttamiseen tarkoitettuja tekoälyreflektiojärjestelmiä (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] - Keskusteleva tekoälydiagnostiikka opetuksen väärinkäsityksistä evidenssiin perustuvalla dialogilla (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - Tekoälyn käytöllä ei ollut suoraa vaikutusta opettajan suoriutumiseen; kansalaiskäyttäytyminen välitti sen (Sherly et al. 2027)
+- [[teachers-configure-educational-chatbots-2026]] — Opettaako se niin kuin on tarkoitettu? Miten opettajat konfiguroivat koulutuksellisia tekoälychatbotteja
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Opettajan välitys matematiikassa: viisi kriittisen välityksen käytäntöä, siirtyvä auktoriteetti ja ilmaisen ja premium-tason algoritminen kuilu
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Opettajan suunnitteluvalmius: valmius suunnittelukykynä, ei käyttöönottona tai itseluottamuksena (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT-avusteinen opettajapalaute: opettajat kuratoivat tekoälyluonnoksia niiden välittämisen sijaan
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Kompetenssista toimijuuteen: opettajien näkemykset tekoälykasvatuksen tarkoituksista
+- [[kuhail-great-debaters-ai-facilitators-2026]] — Ihminen vastaan tekoäly väittelyn moderaattorina: vastaavat arviot, eri reitit uudelleenkäyttöön
+- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI ohjelmoinnin opetuksessa: systemaattinen katsaus, jossa opettajien roolit ovat vähiten tutkittuja
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Tiedon tarjoajista oppimissuunnittelijoiksi: heutagogiset opetuskäytännöt tekoälyllä tehostetussa koulutuksessa
+- [[falhs-teacher-expertise-reflection-2025]] — Miten asiantuntemuksen taso muovaa mieltymyksiä ja reflektiotarpeita: kohti opettajien voimaannuttamiseen tarkoitettuja tekoälyreflektiojärjestelmiä (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Keskusteleva tekoälydiagnostiikka opetuksen väärinkäsityksistä evidenssiin perustuvalla dialogilla (Miranda & Calvani 2026)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — Tekoälyn käytöllä ei ollut suoraa vaikutusta opettajan suoriutumiseen; kansalaiskäyttäytyminen välitti sen (Sherly et al. 2027)

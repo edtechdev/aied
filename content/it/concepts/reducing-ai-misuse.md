@@ -8,7 +8,6 @@ pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/reducing-ai-misuse
 source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -121,7 +120,7 @@ Le leve educative appaiono diverse ancora una volta che l'integrità è trattata
 
 ## Articoli collegati
 - [[ivory-psychology-assessment-integrity-2026]] — Version-control evidence trails and reproducible analysis documents as misuse deterrents (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Trattenere una raccomandazione ha in gran parte prevenuto l'eccessiva dipendenza senza costruire il giudizio che protegge
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Trattenere una raccomandazione ha in gran parte prevenuto l'eccessiva dipendenza senza costruire il giudizio che protegge
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
 - [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform

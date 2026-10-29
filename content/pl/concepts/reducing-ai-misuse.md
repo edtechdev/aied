@@ -118,31 +118,31 @@ Dźwignie edukacyjne wyglądają inaczej, gdy uczciwość traktuje się jako pra
 - [[cognitive-surrender]]
 
 ## Połączone artykuły
-- [[ivory-psychology-assessment-integrity-2026]] - Ślady dowodowe z kontroli wersji i odtwarzalne dokumenty analizy jako środki odstraszające nadużycia (Ivory i wsp. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Wstrzymanie rekomendacji w dużej mierze zapobiegło nadmiernemu poleganiu, nie budując osądu, który chroni
-- [[generative-ai-guardrails-harm-learning]] - Generatywna SI bez barier ochronnych może szkodzić uczeniu się
-- [[genai-performance-vs-learning]] - Odróżnianie przyrostów wyników od uczenia się
-- [[ai-assessment-scale-reform]] - Skala Oceny z SI i reforma oceniania
-- [[critical-thinking-genai-scaffolding]] - Rusztowanie myślenia krytycznego z generatywną SI
-- [[aaai2026-prompting-literacy-k12]] - Uczenie się korzystania z SI w uczeniu się (moduł kompetencji SI dla K-12)
-- [[genai-declaration-frameworks-higher-education]] - Strukturyzowanie przejrzystości: ramy deklaracji generatywnej SI
-- [[absent-cognitive-baseline-2026]] - Nieobecna baza poznawcza
-- [[ai-literacy-power-knowledge]] - Kompetencje w zakresie SI: ćwiczenie z wiedzy-władzy
-- [[contextual-sycophancy-ai-literacy]] - Ukryty koszt sycophancy kontekstowej: interwencja z zakresu kompetencji w SI
-- [[sycophantic-ai-social-interaction-2026]] - Sycophantyczna SI sprawia, że interakcje międzyludzkie stają się z czasem bardziej męczące i mniej satysfakcjonujące
-- [[ssaho-ai-academic-integrity-review-2025]] - Budowanie kultury i przeprojektowanie oceniania zamiast pilnowania przez wykrywanie
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Poddanie poznawcze, produktywne tarcie i nierówność metapoznawcza
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] - Ponowne rozważenie egzaminów ustnych jako autentycznego oceniania odpornego na SI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Kara w uczeniu się związana z generatywną SI: zlecanie zadań domowych szkodzi uczeniu się
-- [[ai-overreliance-complex-adaptive-system-2026]] - Nadmierne poleganie na SI modelowane jako złożony system adaptacyjny
-- [[burneo-can-edtech-close-learning-gaps-2026]] - Bariery ochronne usunęły szkodę bez poprawy wyników egzaminów
-- [[munoz-misconduct-allegation-evidence-2026]] - Co akta zarzutów o przewinienie rzeczywiście zawierają jako dowody
-- [[wright-transcription-not-generation-2026]] - Zbyt szerokie reguły wobec SI i uczniowie, których obejmują
-- [[sharma-judgment-visible-genai-assessment-2026]] - Uczciwość jako osąd oceniający, a nie zgodność
-- [[mulisa-students-genai-integrity-perspectives-2026]] - Uczniowie o tym, czy generatywna SI jest narzędziem do ściągania, czy partnerem w uczeniu się
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] - Co zdalny nadzór egzaminacyjny robi z uczniami i z równością
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Sytuacyjne zapobieganie przestępczości wobec ściągania wspomaganego SI: z 183 do 27 przypadków i pięć przeprojektowań swoistych dla dyscypliny (Leaton Gray, Edsall i Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Co zaleca 38 badań nad głosami uczniów: współtworzona jasność i edukacyjne rozumowanie zamiast wykrywania (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Gdzie kończy się wsparcie językowe, a zaczyna substytucja u piszących w języku angielskim jako dodatkowym (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Wstrzykiwanie promptów jako wektor nadużycia wobec oceniania przez SI (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] - Zarządzanie jako wiążące ograniczenie uczciwości: rama 130 wskaźników (Coates, Croucher i Calderon 2025)
+- [[ivory-psychology-assessment-integrity-2026]] — Ślady dowodowe z kontroli wersji i odtwarzalne dokumenty analizy jako środki odstraszające nadużycia (Ivory i wsp. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Wstrzymanie rekomendacji w dużej mierze zapobiegło nadmiernemu poleganiu, nie budując osądu, który chroni
+- [[generative-ai-guardrails-harm-learning]] — Generatywna SI bez barier ochronnych może szkodzić uczeniu się
+- [[genai-performance-vs-learning]] — Odróżnianie przyrostów wyników od uczenia się
+- [[ai-assessment-scale-reform]] — Skala Oceny z SI i reforma oceniania
+- [[critical-thinking-genai-scaffolding]] — Rusztowanie myślenia krytycznego z generatywną SI
+- [[aaai2026-prompting-literacy-k12]] — Uczenie się korzystania z SI w uczeniu się (moduł kompetencji SI dla K-12)
+- [[genai-declaration-frameworks-higher-education]] — Strukturyzowanie przejrzystości: ramy deklaracji generatywnej SI
+- [[absent-cognitive-baseline-2026]] — Nieobecna baza poznawcza
+- [[ai-literacy-power-knowledge]] — Kompetencje w zakresie SI: ćwiczenie z wiedzy-władzy
+- [[contextual-sycophancy-ai-literacy]] — Ukryty koszt sycophancy kontekstowej: interwencja z zakresu kompetencji w SI
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantyczna SI sprawia, że interakcje międzyludzkie stają się z czasem bardziej męczące i mniej satysfakcjonujące
+- [[ssaho-ai-academic-integrity-review-2025]] — Budowanie kultury i przeprojektowanie oceniania zamiast pilnowania przez wykrywanie
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Poddanie poznawcze, produktywne tarcie i nierówność metapoznawcza
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Ponowne rozważenie egzaminów ustnych jako autentycznego oceniania odpornego na SI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Kara w uczeniu się związana z generatywną SI: zlecanie zadań domowych szkodzi uczeniu się
+- [[ai-overreliance-complex-adaptive-system-2026]] — Nadmierne poleganie na SI modelowane jako złożony system adaptacyjny
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Bariery ochronne usunęły szkodę bez poprawy wyników egzaminów
+- [[munoz-misconduct-allegation-evidence-2026]] — Co akta zarzutów o przewinienie rzeczywiście zawierają jako dowody
+- [[wright-transcription-not-generation-2026]] — Zbyt szerokie reguły wobec SI i uczniowie, których obejmują
+- [[sharma-judgment-visible-genai-assessment-2026]] — Uczciwość jako osąd oceniający, a nie zgodność
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Uczniowie o tym, czy generatywna SI jest narzędziem do ściągania, czy partnerem w uczeniu się
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Co zdalny nadzór egzaminacyjny robi z uczniami i z równością
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Sytuacyjne zapobieganie przestępczości wobec ściągania wspomaganego SI: z 183 do 27 przypadków i pięć przeprojektowań swoistych dla dyscypliny (Leaton Gray, Edsall i Parapadakis 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Co zaleca 38 badań nad głosami uczniów: współtworzona jasność i edukacyjne rozumowanie zamiast wykrywania (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Gdzie kończy się wsparcie językowe, a zaczyna substytucja u piszących w języku angielskim jako dodatkowym (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Wstrzykiwanie promptów jako wektor nadużycia wobec oceniania przez SI (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — Zarządzanie jako wiążące ograniczenie uczciwości: rama 130 wskaźników (Coates, Croucher i Calderon 2025)

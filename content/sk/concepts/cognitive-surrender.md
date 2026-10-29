@@ -127,16 +127,16 @@ Dôkazy pre kapituláciu ako pomenovaný konštrukt stoja silne na jednom progra
 
 ## Prepojené články
 
-- [[shaw-nave-cognitive-surrender-2026]] - teória troch systémov a experimentálny podpis kapitulácie
-- [[generative-ai-reduced-study-time-math]] - posun na úrovni populácie v ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - rámec kapitulácia/odľahčenie/agentúra v PreK-12
-- [[du-yuan-epistemic-dependence-2026]] - inštrumentálna pomoc oproti pomoci nesúcej úsudok
-- [[ai-advice-suppresses-ikt-suspension-2026]] - zrútenie „neviem"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - neurálne zapojenie a autorstvo
-- [[genai-thoughtless-use-self-directed-learning-2026]] - bezmyšlienkové používanie a sebariadené učenie
-- [[stamatoulis-genai-use-patterns-2026]] - prevzatie s nízkym overovaním oproti hodnotiacej integrácii
-- [[cognitive-washout-ai-skill-decay-2026]] - čo sa deje po odňatí nástroja
-- [[ai-overreliance-complex-adaptive-system-2026]] - závislosť ako populačný proces
-- [[brcic-effortless-trap-productive-struggle-2026]] - umiestnenie AI tak, aby úloha zostala namáhavá
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - kalibračný tréning
-- [[family-school-autonomy-support-genai-2026]] - závislé oproti autonómnemu odľahčeniu
+- [[shaw-nave-cognitive-surrender-2026]] — teória troch systémov a experimentálny podpis kapitulácie
+- [[generative-ai-reduced-study-time-math]] — posun na úrovni populácie v ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — rámec kapitulácia/odľahčenie/agentúra v PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — inštrumentálna pomoc oproti pomoci nesúcej úsudok
+- [[ai-advice-suppresses-ikt-suspension-2026]] — zrútenie „neviem"
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurálne zapojenie a autorstvo
+- [[genai-thoughtless-use-self-directed-learning-2026]] — bezmyšlienkové používanie a sebariadené učenie
+- [[stamatoulis-genai-use-patterns-2026]] — prevzatie s nízkym overovaním oproti hodnotiacej integrácii
+- [[cognitive-washout-ai-skill-decay-2026]] — čo sa deje po odňatí nástroja
+- [[ai-overreliance-complex-adaptive-system-2026]] — závislosť ako populačný proces
+- [[brcic-effortless-trap-productive-struggle-2026]] — umiestnenie AI tak, aby úloha zostala namáhavá
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibračný tréning
+- [[family-school-autonomy-support-genai-2026]] — závislé oproti autonómnemu odľahčeniu

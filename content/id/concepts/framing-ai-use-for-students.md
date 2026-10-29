@@ -114,20 +114,20 @@ Siswa juga dibingkai oleh media dan wacana publik yang lebih luas tentang [[ai-e
 - [[misconceptions]]
 
 ## Artikel Terkait
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 pakar tentang urutannya: peroleh tanpa GenAI, konsolidasikan dengannya, lalu berpikir sendiri
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 pakar tentang urutannya: peroleh tanpa GenAI, konsolidasikan dengannya, lalu berpikir sendiri
 
-- [[mccorkle-aligned-genai-course-policy-2025]]: rasional transparan untuk setiap penggunaan GenAI yang diizinkan dan tidak diizinkan, tugas demi tugas (McCorkle 2025)
-- [[moral-panic-genai-classroom]]: mendorong penggunaan GenAI yang tepat alih-alih mengecamnya sebagai gangguan
-- [[student-rationalization-ai-writing]]: "lima situs" tempat siswa merasionalisasi penggunaan AI dalam penulisan akademik
-- [[student-regulatory-awareness-genai]]: mengetahui aturan tidak cukup: kesadaran regulasi dan penggunaan yang sebenarnya
-- [[ai-anxiety-strategic-regulation-writing-2026]]: dari kecemasan AI ke regulasi strategis
-- [[chatgpt-inoculation-training-verification-2026]]: pesan inokulasi dan perilaku verifikasi
-- [[ai-fallibility-warning-help-seeking]]: peringatan tentang kerentanan AI meningkatkan pencarian bantuan
-- [[shame-guilt-ai-regulation-computing-education]]: rasa malu dan rasa bersalah sebagai pengatur sosial penggunaan AI
-- [[access-not-enough-ai-tutoring-2026]]: dukungan manusia memperbaiki keterlibatan dengan tutoring AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]: keterlibatan dengan GenAI berbasis SDT
-- [[ai-availability-student-motivation]]: bagaimana ketersediaan AI membentuk motivasi siswa
-- [[youtube-frames-chatgpt-education]]: bagaimana YouTube membingkai penggunaan ChatGPT dalam pendidikan
-- [[ai-ethics-education-public-discourse]]: wacana publik tentang etika AI dalam pendidikan
-- [[ithaka-sr-ai-skills-college-graduates-2026]]: instruktur membingkai AI sebagai penggunaan kritis/bertanggung jawab; pemberi kerja membingkainya sebagai produktivitas
-- [[ssaho-ai-academic-integrity-review-2025]]: membangun budaya integritas akademik melalui ekspektasi yang jelas
+- [[mccorkle-aligned-genai-course-policy-2025]] — rasional transparan untuk setiap penggunaan GenAI yang diizinkan dan tidak diizinkan, tugas demi tugas (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — mendorong penggunaan GenAI yang tepat alih-alih mengecamnya sebagai gangguan
+- [[student-rationalization-ai-writing]] — "lima situs" tempat siswa merasionalisasi penggunaan AI dalam penulisan akademik
+- [[student-regulatory-awareness-genai]] — mengetahui aturan tidak cukup: kesadaran regulasi dan penggunaan yang sebenarnya
+- [[ai-anxiety-strategic-regulation-writing-2026]] — dari kecemasan AI ke regulasi strategis
+- [[chatgpt-inoculation-training-verification-2026]] — pesan inokulasi dan perilaku verifikasi
+- [[ai-fallibility-warning-help-seeking]] — peringatan tentang kerentanan AI meningkatkan pencarian bantuan
+- [[shame-guilt-ai-regulation-computing-education]] — rasa malu dan rasa bersalah sebagai pengatur sosial penggunaan AI
+- [[access-not-enough-ai-tutoring-2026]] — dukungan manusia memperbaiki keterlibatan dengan tutoring AI
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — keterlibatan dengan GenAI berbasis SDT
+- [[ai-availability-student-motivation]] — bagaimana ketersediaan AI membentuk motivasi siswa
+- [[youtube-frames-chatgpt-education]] — bagaimana YouTube membingkai penggunaan ChatGPT dalam pendidikan
+- [[ai-ethics-education-public-discourse]] — wacana publik tentang etika AI dalam pendidikan
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — instruktur membingkai AI sebagai penggunaan kritis/bertanggung jawab; pemberi kerja membingkainya sebagai produktivitas
+- [[ssaho-ai-academic-integrity-review-2025]] — membangun budaya integritas akademik melalui ekspektasi yang jelas

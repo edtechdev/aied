@@ -8,7 +8,6 @@ ethics: [ethics]
 connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/agency
 source_updated: "2026-10-04T02:59:54-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

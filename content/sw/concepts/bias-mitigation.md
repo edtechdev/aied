@@ -9,7 +9,6 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/bias-mitigation
 source_updated: "2026-10-01T09:59:06-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

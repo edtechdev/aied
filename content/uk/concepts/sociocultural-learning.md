@@ -6,7 +6,6 @@ foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/sociocultural-learning
 source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

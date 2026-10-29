@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
-connected_resources: [institutional-ai-readiness-pack, campus-ai-framework]
+connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
 source_updated: "2026-10-10T14:22:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."

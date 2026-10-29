@@ -6,7 +6,6 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-10-12T19:05:00-04:00"
-reviewed_by: [editor]
 translation_of: concepts/science-education
 source_updated: "2026-10-05T10:25:44-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

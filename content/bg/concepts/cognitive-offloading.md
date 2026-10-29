@@ -192,45 +192,45 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## Свързани статии
-- [[ai-proof-learning-cognitive-offloading-2026]] - Подкрепа или заместване на разсъждението на учениците? Когнитивно изнасяне при подпомогнато от AI учене на доказателства (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Какво не показва предадената работа: усложняване на когнитивното изнасяне в математическата работа на учениците с LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Консенсус на 30 експерти върху 65 учебни процеса: изнасяне в двата края на учебната последователност
-- [[rented-self-decoupling-performance-becoming-2026]] - Наетото аз: изнасяне, което струва на предметното аз на обучаемия, не само на умението
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Групи, започнали еднакво, се разделиха: 74,1% възприемане на модела в един профил срещу 80,8% изнасяне и безизходица в друг (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Подкрепата от AI намали упоритостта и представянето без помощ в три рандомизирани контролирани проучвания (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT като когнитивна патерица: рандомизирано контролирано проучване за задържането на знания 45 дни по-късно (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - От когнитивно възлагане навън към преразпределение: 3P анализ на ангажираността ученик-GenAI при оценяване без надзор (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Подкрепа за самостоятелност от семейството и училището за отговорно използване на генеративен AI от деца
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Излишно срещу полезно триене: защо изнасянето към AI се различава от по-ранните инструменти
-- [[thermomix-genai-education-analogy-2026]] - С Thermomix губите способността да готвите: аналогия с кухненска машина за генеративния AI в образованието (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - когнитивно измиване: динамика след оттеглянето на предизвикан от AI разпад на умения
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Критичен наративен синтез на ангажираността и зависимостта при разговорния AI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Чувствително към слоя когнитивно изнасяне при писане с GenAI (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Епистемична зависимост в ученето чрез AI: шест диагностични критерия, отделящи продуктивната зависимост от вредната (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Когнитивно изнасяне към GenAI при ученици с обучителни трудности
-- [[lodge-loble-cognitive-offloading-2026]] - AI, когнитивно изнасяне и последствия за образованието
-- [[cognitive-offloading-metacognitive-review-2026]] - Метакогнитивни прозрения за когнитивното изнасяне (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Метакогнитивното обучение улеснява оптималното когнитивно изнасяне (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Парадоксът на критическото мислене в обучението, интегрирано с GenAI
-- [[cognitive-offloading-speedup-illusion]] - Илюзията за ускорение при работата с AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Анализ на мрежи за съвместна среща на модели на подканване
-- [[shaw-nave-cognitive-surrender-2026]] - Трисистемна теория и когнитивна капитулация: как AI преобразява човешкото разсъждение (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Континуум предаване-изнасяне-самостоятелност за GenAI
-- [[ai-making-us-stupid]] - Изследване на когнитивните ефекти на AI и изместването на ученето
-- [[brcic-effortless-trap-productive-struggle-2026]] - Капанът на без усилие: AI заменя когнитивната работа (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Безмислената употреба на AI ерозира самонасоченото обучение
-- [[generative-ai-guardrails-harm-learning]] - Рандомизирани контролирани проучвания по математика в гимназия за GenAI без предпазители
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Наказанието за учене от генеративния AI: възлагането на домашното навън вреди на ученето
-- [[coach-not-crutch-ai-writing]] - AI може да работи по-малко и да се учи повече (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Правене на AI обучението продуктивно: практика по математика, базирана на майсторство
-- [[cognitive-commons-ai-expertise-regeneration]] - Трагедията на когнитивната общност: AI и регенерацията на експертиза
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: инструмент за саморефлексия, запазващ поверителността, за свързано с AI когнитивно изнасяне
-- [[chatgpt-writing-cognitive-impact-2026]] - експеримент по писане за учене, в който писането с ChatGPT даде по-малка печалба в знания от контрола без помощ
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Модели на когнитивно изнасяне на студентите към AI във висшето образование: натуралистични доказателства на ниво съобщения в ChatGPT (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Проектиране срещу обезумяването: метакогнитивната обратна връзка намалява когнитивното изнасяне към LLM асистенти
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Когницията на вашите студенти по програмиране с ChatGPT: по-високо представяне, по-слабо задържане и намалено авторство
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Склонност към изнасяне и грамотност за проверка като предиктори за резултати от по-висок ред чрез метакогнитивна саморегулация (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Подкана за размисъл намалява приемането на грешен AI съвет и подобрява калибрацията на осъзнаването (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Зависимостта от GenAI като гранично условие за нагласата за критическо мислене и самовъзприеманата пригодност за заетост (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Децата показаха по-слаба свързаност на фронтопариеталните, значимостните и дорзалните внимателни мрежи от възрастните, докато говореха с ChatGPT, при изравнени резултати по креативност
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI и творческото мислене на децата: прекомерна зависимост и зависимост от prompt в обхватен преглед (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Подкрепа или заместване на разсъждението на учениците? Когнитивно изнасяне при подпомогнато от AI учене на доказателства (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Какво не показва предадената работа: усложняване на когнитивното изнасяне в математическата работа на учениците с LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус на 30 експерти върху 65 учебни процеса: изнасяне в двата края на учебната последователност
+- [[rented-self-decoupling-performance-becoming-2026]] — Наетото аз: изнасяне, което струва на предметното аз на обучаемия, не само на умението
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Групи, започнали еднакво, се разделиха: 74,1% възприемане на модела в един профил срещу 80,8% изнасяне и безизходица в друг (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Подкрепата от AI намали упоритостта и представянето без помощ в три рандомизирани контролирани проучвания (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT като когнитивна патерица: рандомизирано контролирано проучване за задържането на знания 45 дни по-късно (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — От когнитивно възлагане навън към преразпределение: 3P анализ на ангажираността ученик-GenAI при оценяване без надзор (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Подкрепа за самостоятелност от семейството и училището за отговорно използване на генеративен AI от деца
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Излишно срещу полезно триене: защо изнасянето към AI се различава от по-ранните инструменти
+- [[thermomix-genai-education-analogy-2026]] — С Thermomix губите способността да готвите: аналогия с кухненска машина за генеративния AI в образованието (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — когнитивно измиване: динамика след оттеглянето на предизвикан от AI разпад на умения
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Критичен наративен синтез на ангажираността и зависимостта при разговорния AI
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Чувствително към слоя когнитивно изнасяне при писане с GenAI (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Епистемична зависимост в ученето чрез AI: шест диагностични критерия, отделящи продуктивната зависимост от вредната (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Когнитивно изнасяне към GenAI при ученици с обучителни трудности
+- [[lodge-loble-cognitive-offloading-2026]] — AI, когнитивно изнасяне и последствия за образованието
+- [[cognitive-offloading-metacognitive-review-2026]] — Метакогнитивни прозрения за когнитивното изнасяне (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Метакогнитивното обучение улеснява оптималното когнитивно изнасяне (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Парадоксът на критическото мислене в обучението, интегрирано с GenAI
+- [[cognitive-offloading-speedup-illusion]] — Илюзията за ускорение при работата с AI
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Анализ на мрежи за съвместна среща на модели на подканване
+- [[shaw-nave-cognitive-surrender-2026]] — Трисистемна теория и когнитивна капитулация: как AI преобразява човешкото разсъждение (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Континуум предаване-изнасяне-самостоятелност за GenAI
+- [[ai-making-us-stupid]] — Изследване на когнитивните ефекти на AI и изместването на ученето
+- [[brcic-effortless-trap-productive-struggle-2026]] — Капанът на без усилие: AI заменя когнитивната работа (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Безмислената употреба на AI ерозира самонасоченото обучение
+- [[generative-ai-guardrails-harm-learning]] — Рандомизирани контролирани проучвания по математика в гимназия за GenAI без предпазители
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Наказанието за учене от генеративния AI: възлагането на домашното навън вреди на ученето
+- [[coach-not-crutch-ai-writing]] — AI може да работи по-малко и да се учи повече (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Правене на AI обучението продуктивно: практика по математика, базирана на майсторство
+- [[cognitive-commons-ai-expertise-regeneration]] — Трагедията на когнитивната общност: AI и регенерацията на експертиза
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: инструмент за саморефлексия, запазващ поверителността, за свързано с AI когнитивно изнасяне
+- [[chatgpt-writing-cognitive-impact-2026]] — експеримент по писане за учене, в който писането с ChatGPT даде по-малка печалба в знания от контрола без помощ
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Модели на когнитивно изнасяне на студентите към AI във висшето образование: натуралистични доказателства на ниво съобщения в ChatGPT (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Проектиране срещу обезумяването: метакогнитивната обратна връзка намалява когнитивното изнасяне към LLM асистенти
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Когницията на вашите студенти по програмиране с ChatGPT: по-високо представяне, по-слабо задържане и намалено авторство
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Склонност към изнасяне и грамотност за проверка като предиктори за резултати от по-висок ред чрез метакогнитивна саморегулация (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Подкана за размисъл намалява приемането на грешен AI съвет и подобрява калибрацията на осъзнаването (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Зависимостта от GenAI като гранично условие за нагласата за критическо мислене и самовъзприеманата пригодност за заетост (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Децата показаха по-слаба свързаност на фронтопариеталните, значимостните и дорзалните внимателни мрежи от възрастните, докато говореха с ChatGPT, при изравнени резултати по креативност
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI и творческото мислене на децата: прекомерна зависимост и зависимост от prompt в обхватен преглед (Niu et al. 2026)

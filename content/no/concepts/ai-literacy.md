@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
@@ -253,7 +252,7 @@ For kritisk AI-kompetanse spesielt viser [[solyst-youth-systematic-evaluation-ge
 ## Tilknyttede artikler
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Å forme tidlig barndom i AI-tidsalderen: kompetanser, pedagogikk og økologisk støtte (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-sikkerhetskompetanse: økosystembasert kompetanserammeverk og læringsplattform for K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Å heve den etiske dimensjonen ved kompetanse uten et mestringsrammeverk kan etterlate elevene mer engstelige
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Å heve den etiske dimensjonen ved kompetanse uten et mestringsrammeverk kan etterlate elevene mer engstelige
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validerte rammeverk viser at AI utvider digital kompetanse mot etikk, mens pedagogers menneske–AI-samarbeid forblir under-spesifisert (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Seks kompetanseområder, fem verdier og tre progresjonsnivåer for allmennkringkasting
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

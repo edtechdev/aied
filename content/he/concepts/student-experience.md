@@ -9,7 +9,6 @@ ethics: [equity-in-ai-education]
 level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/student-experience
 source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

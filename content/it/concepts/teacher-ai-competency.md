@@ -11,7 +11,6 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
-reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -165,9 +164,9 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 
 ## Articoli collegati
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Quali docenti hanno guadagnato tempo di pianificazione: minore fiducia nella conoscenza disciplinare, minore conoscenza pedagogica, più recenti nella professione o alta fiducia nella tecnologia
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - I docenti accettano l'IA fraintendendone il funzionamento (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - La preparazione dei docenti e l'integrazione tecnologico-pedagogica come sfida più frequentemente riportata in 54 studi sull'educazione matematica (Manto et al. 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Quali docenti hanno guadagnato tempo di pianificazione: minore fiducia nella conoscenza disciplinare, minore conoscenza pedagogica, più recenti nella professione o alta fiducia nella tecnologia
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — I docenti accettano l'IA fraintendendone il funzionamento (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — La preparazione dei docenti e l'integrazione tecnologico-pedagogica come sfida più frequentemente riportata in 54 studi sull'educazione matematica (Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
@@ -218,4 +217,4 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Progettazione di moduli di microlearning sull'IA per i docenti universitari nella formazione professionale: uno studio di design-based research
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: come i chatbot configurati dai docenti falliscono nell'uso reale e come ripararli
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: come i chatbot configurati dai docenti falliscono nell'uso reale e come ripararli

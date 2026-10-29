@@ -9,7 +9,6 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/critical-thinking
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -99,7 +98,7 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## Связанные статьи
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Консенсус 30 экспертов: критическое мышление несёт наивысшую оценку нарушения в отчёте (среднее 4,00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 экспертов: критическое мышление несёт наивысшую оценку нарушения в отчёте (среднее 4,00)
 - [[pearls-epistemic-verification-2026]] — Рамка PEARLS для эпистемической субъектности и верификации результата ИИ (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Чувствительное к слоям когнитивное разгружение в письме с помощью GenAI (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — Парадокс критического мышления в обучении, интегрированном с GenAI

@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -251,7 +250,7 @@ ai_assist:
 ## Связанные статьи
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Формирование раннего детства в эпоху ИИ: компетенции, педагогика и экологическая поддержка (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Грамотность в области безопасности ИИ: экосистемная рамка компетенций и образовательная платформа K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Повышение этического измерения грамотности без рамки совладания может оставить студентов более тревожными
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Повышение этического измерения грамотности без рамки совладания может оставить студентов более тревожными
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 валидизированных фреймворков показывают, что ИИ расширяет цифровую грамотность к этике, тогда как сотрудничество преподавателя с ИИ остаётся недостаточно специфицированным (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Шесть областей компетентностей, пять ценностей и три уровня прогрессии для общественных СМИ
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

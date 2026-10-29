@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: Educazione informatica
 created: "2026-10-14T21:55:00-04:00"
 type: concept
@@ -9,7 +9,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cs-education
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -190,7 +189,7 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in a software PBL course; throughput vs. comprehension
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking models' capacity to generate strategic misconceptions across the CS curriculum
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection red-team of AI-mediated grading: hidden instructions that move the mark undetected

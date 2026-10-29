@@ -9,7 +9,6 @@ assessment: [automated-assessment]
 ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/explainable-ai
 source_updated: "2026-09-30T14:23:52-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

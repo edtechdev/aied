@@ -7,7 +7,6 @@ technology: [generative-ai]
 discipline: [business education]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/business-education
 source_updated: "2026-10-07T09:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

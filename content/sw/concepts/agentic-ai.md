@@ -10,7 +10,6 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 translation_of: concepts/agentic-ai
 source_updated: "2026-10-25T17:35:00-04:00"

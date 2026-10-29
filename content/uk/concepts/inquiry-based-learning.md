@@ -7,7 +7,6 @@ pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based
 technology: [generative-ai]
 discipline: [stem education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/inquiry-based-learning
 source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

@@ -127,16 +127,16 @@ ai_assist:
 
 ## Свързани статии
 
-- [[shaw-nave-cognitive-surrender-2026]] - Теорията с три системи и експерименталният отпечатък на капитулацията
-- [[generative-ai-reduced-study-time-math]] - изместване на популационно ниво в ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - рамката капитулация/изнасяне/самостоятелност в PreK-12
-- [[du-yuan-epistemic-dependence-2026]] - инструментална помощ срещу помощ, носеща преценка
-- [[ai-advice-suppresses-ikt-suspension-2026]] - сривът на „не знам“
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - невронна ангажираност и собственост
-- [[genai-thoughtless-use-self-directed-learning-2026]] - безмислено използване и самонасочено обучение
-- [[stamatoulis-genai-use-patterns-2026]] - възприемане с ниска проверка срещу оценъчна интеграция
-- [[cognitive-washout-ai-skill-decay-2026]] - какво се случва след оттеглянето
-- [[ai-overreliance-complex-adaptive-system-2026]] - разчитането като популационен процес
-- [[brcic-effortless-trap-productive-struggle-2026]] - разполагане на AI така, че задачата да остане усилие
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - обучение за калибриране
-- [[family-school-autonomy-support-genai-2026]] - зависимо срещу самостоятелно изнасяне
+- [[shaw-nave-cognitive-surrender-2026]] — Теорията с три системи и експерименталният отпечатък на капитулацията
+- [[generative-ai-reduced-study-time-math]] — изместване на популационно ниво в ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — рамката капитулация/изнасяне/самостоятелност в PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — инструментална помощ срещу помощ, носеща преценка
+- [[ai-advice-suppresses-ikt-suspension-2026]] — сривът на „не знам“
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — невронна ангажираност и собственост
+- [[genai-thoughtless-use-self-directed-learning-2026]] — безмислено използване и самонасочено обучение
+- [[stamatoulis-genai-use-patterns-2026]] — възприемане с ниска проверка срещу оценъчна интеграция
+- [[cognitive-washout-ai-skill-decay-2026]] — какво се случва след оттеглянето
+- [[ai-overreliance-complex-adaptive-system-2026]] — разчитането като популационен процес
+- [[brcic-effortless-trap-productive-struggle-2026]] — разполагане на AI така, че задачата да остане усилие
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — обучение за калибриране
+- [[family-school-autonomy-support-genai-2026]] — зависимо срещу самостоятелно изнасяне

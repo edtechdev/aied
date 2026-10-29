@@ -17,7 +17,6 @@ last_verified: "2026-09-20"
 level: [higher ed, graduate]
 audience: [administrators, researchers, policymakers]
 confidence: high
-reviewed_by: [editor]
 translation_of: resources/institutional-ai-readiness-pack
 source_updated: "2026-09-20T13:49:11-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

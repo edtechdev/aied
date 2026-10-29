@@ -8,7 +8,6 @@ ethics: [hallucination-risk, trust-calibration]
 audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
-reviewed_by: [editor]
 translation_of: concepts/trust-calibration
 source_updated: "2026-10-09T01:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

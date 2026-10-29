@@ -127,16 +127,16 @@ Het bewijs voor overgave als benoemd construct leunt zwaar op één programma va
 
 ## Verbonden artikelen
 
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory en de experimentele signatuur van overgave
-- [[generative-ai-reduced-study-time-math]] - verdringing op populatieniveau in ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - het kader overgave/offloading/agency in het voorschoolse tot middelbare onderwijs
-- [[du-yuan-epistemic-dependence-2026]] - instrumentele versus oordeeldragende ondersteuning
-- [[ai-advice-suppresses-ikt-suspension-2026]] - het ineenstorten van 'ik weet het niet'
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - neurale betrokkenheid en eigenaarschap
-- [[genai-thoughtless-use-self-directed-learning-2026]] - gedachteloos gebruik en zelfgestuurd leren
-- [[stamatoulis-genai-use-patterns-2026]] - gebruik met weinig verificatie versus evaluerende integratie
-- [[cognitive-washout-ai-skill-decay-2026]] - wat er gebeurt na terugtrekking
-- [[ai-overreliance-complex-adaptive-system-2026]] - afhankelijkheid als populatieproces
-- [[brcic-effortless-trap-productive-struggle-2026]] - AI zo plaatsen dat de taak inspannend blijft
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - kalibratietraining
-- [[family-school-autonomy-support-genai-2026]] - afhankelijke versus autonome offloading
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory en de experimentele signatuur van overgave
+- [[generative-ai-reduced-study-time-math]] — verdringing op populatieniveau in ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — het kader overgave/offloading/agency in het voorschoolse tot middelbare onderwijs
+- [[du-yuan-epistemic-dependence-2026]] — instrumentele versus oordeeldragende ondersteuning
+- [[ai-advice-suppresses-ikt-suspension-2026]] — het ineenstorten van 'ik weet het niet'
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurale betrokkenheid en eigenaarschap
+- [[genai-thoughtless-use-self-directed-learning-2026]] — gedachteloos gebruik en zelfgestuurd leren
+- [[stamatoulis-genai-use-patterns-2026]] — gebruik met weinig verificatie versus evaluerende integratie
+- [[cognitive-washout-ai-skill-decay-2026]] — wat er gebeurt na terugtrekking
+- [[ai-overreliance-complex-adaptive-system-2026]] — afhankelijkheid als populatieproces
+- [[brcic-effortless-trap-productive-struggle-2026]] — AI zo plaatsen dat de taak inspannend blijft
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibratietraining
+- [[family-school-autonomy-support-genai-2026]] — afhankelijke versus autonome offloading

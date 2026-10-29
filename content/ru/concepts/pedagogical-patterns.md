@@ -9,7 +9,6 @@ audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

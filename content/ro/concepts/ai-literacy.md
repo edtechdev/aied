@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
@@ -254,7 +253,7 @@ Pentru alfabetizarea critică în IA în special, [[solyst-youth-systematic-eval
 ## Articole conectate
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Modelarea copilăriei timpurii în era IA: competențe, pedagogie și sprijin ecologic (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Alfabetizare în securitatea IA: cadru de competențe bazat pe ecosistem și platformă de învățare K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ridicarea dimensiunii etice a alfabetizării fără un cadru de înfruntare poate lăsa studenții mai anxioși
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Ridicarea dimensiunii etice a alfabetizării fără un cadru de înfruntare poate lăsa studenții mai anxioși
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 de cadre validate arată că IA extinde alfabetizarea digitală spre etică, în timp ce colaborarea om–IA a educatorilor rămâne sub-specificată (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Șase arii de competență, cinci valori și trei niveluri de progresie pentru media de serviciu public
 - [[ai-literacy-heptagon-2026]] — Heptagonul Alfabetizării IA

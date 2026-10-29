@@ -127,16 +127,16 @@ Evidensen for overgivelse som et navngitt konstrukt hviler tungt på ett program
 
 ## Tilknyttede artikler
 
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory og den eksperimentelle signaturen på overgivelse
-- [[generative-ai-reduced-study-time-math]] - fortrengning på befolkningsnivå i ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - rammeverket overgivelse/avlasting/medvirkning i PreK-12
-- [[du-yuan-epistemic-dependence-2026]] - instrumentell kontra dømmekraftsbærende assistanse
-- [[ai-advice-suppresses-ikt-suspension-2026]] - kollapsen av «jeg vet ikke»
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - nevralt engasjement og eierskap
-- [[genai-thoughtless-use-self-directed-learning-2026]] - tankeløs bruk og selvstyrt læring
-- [[stamatoulis-genai-use-patterns-2026]] - opptak med lav verifisering kontra evaluerende integrering
-- [[cognitive-washout-ai-skill-decay-2026]] - hva som skjer etter tilbaketrekning
-- [[ai-overreliance-complex-adaptive-system-2026]] - avhengighet som en befolkningsprosess
-- [[brcic-effortless-trap-productive-struggle-2026]] - å plassere AI slik at oppgaven forblir krevende
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - kalibreringstrening
-- [[family-school-autonomy-support-genai-2026]] - avhengig kontra autonom avlasting
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory og den eksperimentelle signaturen på overgivelse
+- [[generative-ai-reduced-study-time-math]] — fortrengning på befolkningsnivå i ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — rammeverket overgivelse/avlasting/medvirkning i PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — instrumentell kontra dømmekraftsbærende assistanse
+- [[ai-advice-suppresses-ikt-suspension-2026]] — kollapsen av «jeg vet ikke»
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — nevralt engasjement og eierskap
+- [[genai-thoughtless-use-self-directed-learning-2026]] — tankeløs bruk og selvstyrt læring
+- [[stamatoulis-genai-use-patterns-2026]] — opptak med lav verifisering kontra evaluerende integrering
+- [[cognitive-washout-ai-skill-decay-2026]] — hva som skjer etter tilbaketrekning
+- [[ai-overreliance-complex-adaptive-system-2026]] — avhengighet som en befolkningsprosess
+- [[brcic-effortless-trap-productive-struggle-2026]] — å plassere AI slik at oppgaven forblir krevende
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibreringstrening
+- [[family-school-autonomy-support-genai-2026]] — avhengig kontra autonom avlasting

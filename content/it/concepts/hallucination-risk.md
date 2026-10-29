@@ -9,7 +9,6 @@ connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: concepts/hallucination-risk
 source_updated: "2026-10-11T09:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

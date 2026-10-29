@@ -9,8 +9,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
-reviewed_by: [editor]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision
@@ -140,7 +139,7 @@ contributors: [editor]
 
 ## المقالات المتصلة
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - توفير مقيس في زمن التخطيط إلى جانب نتيجة أن المعلّمين يخطّطون 21% إلى 40% فقط من الدروس من الصفر
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — توفير مقيس في زمن التخطيط إلى جانب نتيجة أن المعلّمين يخطّطون 21% إلى 40% فقط من الدروس من الصفر
 - [[powerful-learning-with-emerging-technology-2025]] — التعلّم القوي بالتقنية الناشئة
 - [[claassen-learning-analytics-genai-learning-design-2026]] — تحليلات التعلّم والذكاء الاصطناعي التوليدي في صناعة قرارات تصميم التعلّم
 - [[tang-chatbots-learning-design-2026]] — استخدام روبوت المحادثة في تصميم التعلّم: يتوقّف المصمّمون عند النواتج والتربية لا عند توليد المحتوى (Tang et al. 2026)

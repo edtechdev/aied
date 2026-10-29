@@ -5,7 +5,6 @@ connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruc
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-reviewed_by: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation

@@ -139,16 +139,16 @@ Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 uni
 - [[teacher-education]]
 - [[learning-sciences]]
 - [[educational-technology-developers]]
-- [[stakeholders]]: Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
+- [[stakeholders]] — Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
 
 ## Forbundne artikler
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]]: Kritisk diskursanalyse af rådgivning om GenAI-sammenhæng: udviklere omdefineret som teknologioplærere
-- [[crompton-faculty-technology-integration-standards-2026]]: Standarder for underviseres teknologiintegration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]]: Etiske dimensioner ved AI: underviseres og studerendes syn
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalyse af rådgivning om GenAI-sammenhæng: udviklere omdefineret som teknologioplærere
+- [[crompton-faculty-technology-integration-standards-2026]] — Standarder for underviseres teknologiintegration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etiske dimensioner ved AI: underviseres og studerendes syn
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]]: Hvordan ingeniørfaglige metaforer konstruerer (og begrænser) forståelsen af AI
-- [[fear-awe-genai-metaphor-workshops-2025]]: Frygt og ærefrygt: at forstå generativ AI gennem metaforer (metaforværksted for undervisere, personale og studerende)
-- [[governing-unseen-ai-literacy-language-teachers-2026]]: At styre det usynlige: AI-kompetence blandt sproglærere
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hvordan ingeniørfaglige metaforer konstruerer (og begrænser) forståelsen af AI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Frygt og ærefrygt: at forstå generativ AI gennem metaforer (metaforværksted for undervisere, personale og studerende)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — At styre det usynlige: AI-kompetence blandt sproglærere
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 uni
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]]: GenAI som identitetskrise, ikke kompetencegab
-- [[zuo-instructor-power-genai-writing-2026]]: Magtforhold oplevet af universitetsundervisere, der kæmper med GenAI i skrivning (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]]: Reflective Triangle-modellen: AI som kognitiv mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]]: Underviseres selvopfattede TPACK-21-viden om GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]]: Intelligent-TPACK-professionel udvikling: fremmøde forudsiger gevinster, selvopfattet deltagelse gør ikke
-- [[instructional-design-proficiency-masters-math-2026]]: Smartklasserumsmodel og D-T-E-loop, der forbedrer instruktionsdesignkompetence på kandidatniveau i matematik (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]]: Arkitektur af roller i AI-designede differentierede gruppeaktiviteter (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]]: Universitetslæreres erfaringer med og opfattelser af generativ AI: sårbarhed, gentænkning af evaluering, studerendes læring i fare (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]]: Fra frygt til innovation: et seks uger langt underviserinstitut, symbiotisk pædagogik og de institutionelle betingelser, det ikke kunne levere
-- [[vassallo-ai-guilt-complex-faculty-2026]]: AI-skyldkomplekset: forventet skyld, skjul og forskelle mellem karrieretrin blandt akademisk personale (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]]: AAC&U/Elon-undersøgelse af 1 057 amerikanske undervisere: institutionel uforberedthed, tynd styring og politikkløften på 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]]: Akademiske udviklere som digitale mediatorer i videregående uddannelse i det globale syd: udvikling som socioteknisk praksis
-- [[physics-faculty-learning-community-ai-2026]]: En workshoppserie om effektiv brug af AI i usikre tider: at bygge et fysikfagligt læringsfællesskab
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskrise, ikke kompetencegab
+- [[zuo-instructor-power-genai-writing-2026]] — Magtforhold oplevet af universitetsundervisere, der kæmper med GenAI i skrivning (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle-modellen: AI som kognitiv mediator
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Underviseres selvopfattede TPACK-21-viden om GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-professionel udvikling: fremmøde forudsiger gevinster, selvopfattet deltagelse gør ikke
+- [[instructional-design-proficiency-masters-math-2026]] — Smartklasserumsmodel og D-T-E-loop, der forbedrer instruktionsdesignkompetence på kandidatniveau i matematik (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arkitektur af roller i AI-designede differentierede gruppeaktiviteter (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Universitetslæreres erfaringer med og opfattelser af generativ AI: sårbarhed, gentænkning af evaluering, studerendes læring i fare (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Fra frygt til innovation: et seks uger langt underviserinstitut, symbiotisk pædagogik og de institutionelle betingelser, det ikke kunne levere
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI-skyldkomplekset: forventet skyld, skjul og forskelle mellem karrieretrin blandt akademisk personale (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-undersøgelse af 1 057 amerikanske undervisere: institutionel uforberedthed, tynd styring og politikkløften på 87%/48% (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademiske udviklere som digitale mediatorer i videregående uddannelse i det globale syd: udvikling som socioteknisk praksis
+- [[physics-faculty-learning-community-ai-2026]] — En workshoppserie om effektiv brug af AI i usikre tider: at bygge et fysikfagligt læringsfællesskab
 
-- [[faculty-ai-well-being-social-supports-2026]]: Underviseres AI-relaterede trivsel følger AI-kompetence snarere end teknologisk self-efficacy
-- [[ai-competence-framework-landscape-2026]]: Undersøg, hvad en rammes niveauer beskriver, før du tager den i brug
+- [[faculty-ai-well-being-social-supports-2026]] — Underviseres AI-relaterede trivsel følger AI-kompetence snarere end teknologisk self-efficacy
+- [[ai-competence-framework-landscape-2026]] — Undersøg, hvad en rammes niveauer beskriver, før du tager den i brug

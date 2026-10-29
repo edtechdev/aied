@@ -5,7 +5,6 @@ type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/item-response-theory
 source_updated: "2026-10-05T08:24:47-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

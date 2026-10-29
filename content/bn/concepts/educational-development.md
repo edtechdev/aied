@@ -142,13 +142,13 @@ ai_assist:
 - [[stakeholders]] - ছাতা: শিক্ষায় AI-এর মানুষ ও দর্শক (শিক্ষার্থী, শিক্ষক, নকশাকারী, প্রশাসক, নীতিনির্ধারক)
 
 ## সংযুক্ত নিবন্ধ
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - GenAI সামঞ্জস্য-পরামর্শের সমালোচনামূলক বয়ান-বিশ্লেষণ: ডেভেলপাররা প্রযুক্তি-প্রশিক্ষক হিসেবে পুনর্গঠিত
-- [[crompton-faculty-technology-integration-standards-2026]] - প্রযুক্তি-সংযোজনের শিক্ষক-মান (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - AI-এর নৈতিক মাত্রা: শিক্ষক ও শিক্ষার্থীর দৃষ্টিভঙ্গি
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI সামঞ্জস্য-পরামর্শের সমালোচনামূলক বয়ান-বিশ্লেষণ: ডেভেলপাররা প্রযুক্তি-প্রশিক্ষক হিসেবে পুনর্গঠিত
+- [[crompton-faculty-technology-integration-standards-2026]] — প্রযুক্তি-সংযোজনের শিক্ষক-মান (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI-এর নৈতিক মাত্রা: শিক্ষক ও শিক্ষার্থীর দৃষ্টিভঙ্গি
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - কীভাবে প্রকৌশল শিক্ষকদের রূপক AI-বোঝাপড়া গড়ে তোলে (এবং সীমাবদ্ধ করে)
-- [[fear-awe-genai-metaphor-workshops-2025]] - Fear and Awe: রূপকের মাধ্যমে জেনারেটিভ AI বোঝা (শিক্ষক/কর্মী/শিক্ষার্থী রূপক কর্মশালা)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - অদৃশ্যের শাসন: ভাষা-শিক্ষকদের মধ্যে AI সাক্ষরতা
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — কীভাবে প্রকৌশল শিক্ষকদের রূপক AI-বোঝাপড়া গড়ে তোলে (এবং সীমাবদ্ধ করে)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: রূপকের মাধ্যমে জেনারেটিভ AI বোঝা (শিক্ষক/কর্মী/শিক্ষার্থী রূপক কর্মশালা)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — অদৃশ্যের শাসন: ভাষা-শিক্ষকদের মধ্যে AI সাক্ষরতা
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ ai_assist:
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - দক্ষতা-ঘাটতি নয়, পরিচয়-সংকট হিসেবে GenAI
-- [[zuo-instructor-power-genai-writing-2026]] - লেখনে GenAI নিয়ে grappling করা কলেজ প্রশিক্ষকদের অনুভূত ক্ষমতা-সম্পর্ক (Zuo, Xu ও Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflective Triangle Model: সংজ্ঞানাত্মক মধ্যস্থতাকারী হিসেবে AI
-- [[sutedjo-faculty-genai-tpack-21-2026]] - GenAI-এর জন্য শিক্ষকদের স্ব-অনুভূত TPACK-21 জ্ঞান (Sutedjo, Chowdhury ও Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK PD: উপস্থিতি লাভ পূর্বানুমান করে, স্ব-অনুভূত অংশগ্রহণ করে না
-- [[instructional-design-proficiency-masters-math-2026]] - স্মার্ট-শ্রেণিকক্ষ মডেল ও D-T-E লুপ গণিতে M.Ed. ইনস্ট্রাকশনাল ডিজাইন দক্ষতা উন্নত করে (Zhu প্রমুখ 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - AI-নকশাকৃত ভিন্নতামূলক দলগত কার্যক্রমে ভূমিকার স্থাপত্য (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - বিশ্ববিদ্যালয় শিক্ষকদের GAI অভিজ্ঞতা ও ধারণা: অসহায়তা, মূল্যায়ন পুনর্বিবেচনা, শিক্ষার্থীর শিখন ঝুঁকিতে (Farazouli প্রমুখ 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - ভয় থেকে উদ্ভাবন: ছয়-সপ্তাহের শিক্ষক ইনস্টিটিউট, সিম্বিওটিক পেডাগজি, এবং যে প্রাতিষ্ঠানিক শর্ত এটি দিতে পারেনি
-- [[vassallo-ai-guilt-complex-faculty-2026]] - The AI Guilt Complex: একাডেমিক কর্মীদের মধ্যে প্রত্যাশিত অপরাধবোধ, গোপন করা ও ক্যারিয়ার-পর্যায়ের পার্থক্য (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon-এর 1,057 জন মার্কিন শিক্ষকের সমীক্ষা: প্রাতিষ্ঠানিক অপ্রস্তুতি, পাতলা শাসন এবং 87%/48% নীতি-ফাঁক (Watson ও Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - গ্লোবাল সাউথ উচ্চ শিক্ষায় ডিজিটাল মধ্যস্থতাকারী হিসেবে একাডেমিক ডেভেলপার: সামাজিক-প্রযুক্তিগত প্র্যাক্সিস হিসেবে উন্নয়ন
-- [[physics-faculty-learning-community-ai-2026]] - অনিশ্চিত সময়ে AI-এর কার্যকর ব্যবহারের জন্য একটি কর্মশালা সিরিজ: একটি পদার্থবিদ্যা শিক্ষক শিখন-সম্প্রদায় গড়ে তোলা
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — দক্ষতা-ঘাটতি নয়, পরিচয়-সংকট হিসেবে GenAI
+- [[zuo-instructor-power-genai-writing-2026]] — লেখনে GenAI নিয়ে grappling করা কলেজ প্রশিক্ষকদের অনুভূত ক্ষমতা-সম্পর্ক (Zuo, Xu ও Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: সংজ্ঞানাত্মক মধ্যস্থতাকারী হিসেবে AI
+- [[sutedjo-faculty-genai-tpack-21-2026]] — GenAI-এর জন্য শিক্ষকদের স্ব-অনুভূত TPACK-21 জ্ঞান (Sutedjo, Chowdhury ও Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: উপস্থিতি লাভ পূর্বানুমান করে, স্ব-অনুভূত অংশগ্রহণ করে না
+- [[instructional-design-proficiency-masters-math-2026]] — স্মার্ট-শ্রেণিকক্ষ মডেল ও D-T-E লুপ গণিতে M.Ed. ইনস্ট্রাকশনাল ডিজাইন দক্ষতা উন্নত করে (Zhu প্রমুখ 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI-নকশাকৃত ভিন্নতামূলক দলগত কার্যক্রমে ভূমিকার স্থাপত্য (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — বিশ্ববিদ্যালয় শিক্ষকদের GAI অভিজ্ঞতা ও ধারণা: অসহায়তা, মূল্যায়ন পুনর্বিবেচনা, শিক্ষার্থীর শিখন ঝুঁকিতে (Farazouli প্রমুখ 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — ভয় থেকে উদ্ভাবন: ছয়-সপ্তাহের শিক্ষক ইনস্টিটিউট, সিম্বিওটিক পেডাগজি, এবং যে প্রাতিষ্ঠানিক শর্ত এটি দিতে পারেনি
+- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: একাডেমিক কর্মীদের মধ্যে প্রত্যাশিত অপরাধবোধ, গোপন করা ও ক্যারিয়ার-পর্যায়ের পার্থক্য (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-এর 1,057 জন মার্কিন শিক্ষকের সমীক্ষা: প্রাতিষ্ঠানিক অপ্রস্তুতি, পাতলা শাসন এবং 87%/48% নীতি-ফাঁক (Watson ও Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — গ্লোবাল সাউথ উচ্চ শিক্ষায় ডিজিটাল মধ্যস্থতাকারী হিসেবে একাডেমিক ডেভেলপার: সামাজিক-প্রযুক্তিগত প্র্যাক্সিস হিসেবে উন্নয়ন
+- [[physics-faculty-learning-community-ai-2026]] — অনিশ্চিত সময়ে AI-এর কার্যকর ব্যবহারের জন্য একটি কর্মশালা সিরিজ: একটি পদার্থবিদ্যা শিক্ষক শিখন-সম্প্রদায় গড়ে তোলা
 
-- [[faculty-ai-well-being-social-supports-2026]] - শিক্ষকদের AI-মঙ্গল প্রযুক্তিগত স্ব-দক্ষতার বদলে AI সাক্ষরতা অনুসরণ করে
-- [[ai-competence-framework-landscape-2026]] - কোনো কাঠামো গ্রহণের আগে দেখুন তার স্তরগুলো কী বর্ণনা করে
+- [[faculty-ai-well-being-social-supports-2026]] — শিক্ষকদের AI-মঙ্গল প্রযুক্তিগত স্ব-দক্ষতার বদলে AI সাক্ষরতা অনুসরণ করে
+- [[ai-competence-framework-landscape-2026]] — কোনো কাঠামো গ্রহণের আগে দেখুন তার স্তরগুলো কী বর্ণনা করে

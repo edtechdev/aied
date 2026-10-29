@@ -123,7 +123,7 @@ Kollaboratives Lernen besetzt die Spitze des [[icap-framework|ICAP-Frameworks]] 
 
 ## Verbundene Artikel
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen findet einseitiges soziales Risiko: Kollaborationsprozesse verwundbar ohne Verbesserungspfad
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen findet einseitiges soziales Risiko: Kollaborationsprozesse verwundbar ohne Verbesserungspfad
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problembasiertes und projektbasiertes Lernen als vielversprechende Frameworks für generative KI-unterstützte Bildung: Aufkommende Evidenz aus einem systematischen Review und einer Metaanalyse auf drei Ebenen
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Aufkommende Handlungsfähigkeit von Lernenden in impliziter Mensch-KI-Kollaboration: unterstützende versus konträre Personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

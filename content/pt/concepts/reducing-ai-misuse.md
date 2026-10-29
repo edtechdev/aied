@@ -121,7 +121,7 @@ As alavancas educativas voltam a parecer diferentes uma vez que a integridade é
 
 ## Artigos conectados
 - [[ivory-psychology-assessment-integrity-2026]] — Trilhas de evidência de controle de versão e documentos de análise reproduzíveis como dissuasores de uso indevido (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Reter uma recomendação preveniu em grande parte a dependência excessiva sem construir o julgamento que ela protege
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Reter uma recomendação preveniu em grande parte a dependência excessiva sem construir o julgamento que ela protege
 - [[generative-ai-guardrails-harm-learning]] — A IA generativa sem salvaguardas pode prejudicar a aprendizagem
 - [[genai-performance-vs-learning]] — Distinguindo ganhos de desempenho de aprendizagem
 - [[ai-assessment-scale-reform]] — A Escala de Avaliação de IA e a reforma da avaliação

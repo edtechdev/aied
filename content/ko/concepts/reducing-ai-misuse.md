@@ -122,7 +122,7 @@ ai_assist:
 ## 연결된 문서
 
 - [[ivory-psychology-assessment-integrity-2026]] — 오용 억제책으로서의 버전 관리 증거 흔적과 재현 가능한 분석 문서(Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - 권고를 보류하는 것이 과잉 의존을 크게 막았지만 그것이 보호하는 판단을 구축하지는 못했다
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 권고를 보류하는 것이 과잉 의존을 크게 막았지만 그것이 보호하는 판단을 구축하지는 못했다
 - [[generative-ai-guardrails-harm-learning]] — 안전장치 없는 생성형 AI는 학습을 해칠 수 있음
 - [[genai-performance-vs-learning]] — 성과 향상과 학습을 구분하기
 - [[ai-assessment-scale-reform]] — AI 평가 척도와 평가 개혁

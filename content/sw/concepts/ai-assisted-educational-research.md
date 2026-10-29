@@ -12,7 +12,6 @@ level: [higher ed]
 page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

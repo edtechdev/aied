@@ -9,7 +9,6 @@ audience: [instructional designers, software developers, learning analytics desi
 page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
-reviewed_by: [editor]
 translation_of: concepts/educational-technology-developers
 source_updated: "2026-09-17T15:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

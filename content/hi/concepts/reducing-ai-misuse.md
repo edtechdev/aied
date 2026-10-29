@@ -121,7 +121,7 @@ ai_assist:
 ## संबंधित लेख
 
 - [[ivory-psychology-assessment-integrity-2026]] — दुरुपयोग रोकने वाले के रूप में संस्करण-नियंत्रण साक्ष्य-पगडंडियाँ और पुनरुत्पादक विश्लेषण दस्तावेज़ (आइवरी सहित 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - सिफ़ारिश रोकने ने अति-निर्भरता को बड़े भाग में रोका बिना उस निर्णय को बनाए जिसकी वह रक्षा करती है
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — सिफ़ारिश रोकने ने अति-निर्भरता को बड़े भाग में रोका बिना उस निर्णय को बनाए जिसकी वह रक्षा करती है
 - [[generative-ai-guardrails-harm-learning]] — बिना गार्डरेल जनरेटिव AI सीखने को नुकसान पहुँचा सकता है
 - [[genai-performance-vs-learning]] — प्रदर्शन लाभ को सीखने से अलग करना
 - [[ai-assessment-scale-reform]] — AI मूल्यांकन स्केल और मूल्यांकन सुधार

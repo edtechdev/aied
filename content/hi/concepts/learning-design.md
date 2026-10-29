@@ -10,7 +10,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
 source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
@@ -140,7 +140,7 @@ AI-सहायित सीखने के अनुभव बना रहे
 
 ## संबंधित लेख
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - एक मापा नियोजन-समय बचत, साथ में यह निष्कर्ष कि शिक्षक केवल 21% से 40% पाठ शून्य से योजना बनाते हैं
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — एक मापा नियोजन-समय बचत, साथ में यह निष्कर्ष कि शिक्षक केवल 21% से 40% पाठ शून्य से योजना बनाते हैं
 - [[powerful-learning-with-emerging-technology-2025]] — उभरती प्रौद्योगिकी के साथ शक्तिशाली सीखना
 - [[claassen-learning-analytics-genai-learning-design-2026]] — सीखने के डिज़ाइन निर्णय लेने में LA और जनरेटिव-AI
 - [[tang-chatbots-learning-design-2026]] — सीखने के डिज़ाइन में चैटबॉट उपयोग: डिज़ाइनर सामग्री निर्माण के बजाय परिणामों और शिक्षाशास्त्र पर रहते हैं (तांग सहित 2026)

@@ -9,7 +9,6 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-reviewed_by: [editor]
 translation_of: faqs/verify-ai-output
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

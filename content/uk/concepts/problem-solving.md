@@ -6,7 +6,6 @@ foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/problem-solving
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

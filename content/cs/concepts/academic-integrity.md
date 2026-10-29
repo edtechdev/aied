@@ -170,8 +170,8 @@ První studie teorie plánovaného chování o záměru pochybení založeném n
 - **„Problém je okrajový."** Objem zdaleka není: **šestiletá analýza kurzu CS2 s vysokou zápisovou kapacitou** zjistila, že **45,7 % studentů na jaře 2026 bylo označeno**. Téměř polovina kohorty, což z toho činí mainstreamový problém návrhu, nikoli okrajový případ.
 - **„Vyučující vědí, která hodnocení jsou zranitelná."** V katedře [[biology-education|biologie]] vyučující **vnímali jako minimálně zranitelné pouze prezenční zkoušky pod dohledem**, zatímco úkoly mimo výuku viděli jako vystavené. Vnímání odpovídalo zřejmému případu a všechno ostatní považovalo za bezpečné.
 ## Související koncepty
-- [[pedagogical-patterns]]: Sekvence ověřování přijaté v reakci na generativní AI
-- [[ai-use-disclosure]]: Deklarace používání a zveřejňování AI
+- [[pedagogical-patterns]] — Sekvence ověřování přijaté v reakci na generativní AI
+- [[ai-use-disclosure]] — Deklarace používání a zveřejňování AI
 - [[assessment-validity]]
 - [[ai-literacy]]
 - [[ai-detection]]
@@ -190,47 +190,47 @@ První studie teorie plánovaného chování o záměru pochybení založeném n
 - [[k-12]]
 - [[ai-education]]
 - [[legal-issues-and-risks]]
-- [[social-norms-ai-use]]: neformální pravidla, která leží pod formální politikou
+- [[social-norms-ai-use]] — neformální pravidla, která leží pod formální politikou
 
 ## Související články
 
-- [[ivory-psychology-assessment-integrity-2026]]: Celý program psychologie procházející při minimálním úsilí a hodnoticí kritéria, která to umožnila (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]]: Budoucí učitelé odmítli GenAI pod permisivní politikou; rámování „pasti" a mezera mezi průzkumem a deklarací
-- [[ai-agents-joyful-assessment-third-space-2026]]: Agenti AI, radostné hodnocení a třetí prostor
-- [[kumar-genai-computing-education-systematic-review-2026]]: Důkazy o detekci jsou tenké (3 studie ze 72); váhu nese přepracování
-- [[mccorkle-aligned-genai-course-policy-2025]]: Sladěná kurzová politika GenAI: povolení odvozená z hodnocení, transparentní zdůvodnění (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]]: Generování variant hodnocení ekvivalentních v konstruktu (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]]: Jak vyučující regulují AI ve 31 000 sylabech kurzů; rámování integrity klesá (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]]: Mohou se studenti podváděním dopracovat k titulu z biologie? Případová studie zranitelnosti známek v biologických kurzech vůči akademické nepoctivosti v éře generativní AI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]]: Nedodržování deklarací používání AI studenty
-- [[detecting-llm-generated-text-latent-prompt]]: Detekce textu generovaného LLM
-- [[beyond-detection-authentic-assessment-ai-2025]]: Za hranicemi detekce: autentické hodnocení ve světě zprostředkovaném AI
-- [[ai-assessment-scale-reform]]: Škála hodnocení s AI a reforma hodnocení
-- [[authentic-products-authenticated-processes-2026]]: Od autentických produktů k autentizovaným procesům
-- [[student-rationalization-ai-writing]]: „Je to v pořádku, protože…" Racionalizace používání AI studenty
-- [[ethical-ai-higher-ed-game-theory]]: Rámec koordinační hry pro etické používání AI
-- [[shame-guilt-ai-regulation-computing-education]]: Stud a vina jako sociální regulátory používání AI
-- [[cross-cultural-student-perceptions-genai-computing]]: Udělala Alice něco špatného? Mezikulturní vnímání používání AI
-- [[luo-dawson-value-judgments-grading-2026]]: Hodnotové soudy při známkování práce s pomocí GenAI: poctivost, důvěra, validita a obousměrná transparentnost (Luo a Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]]: Odpovědnost mezi vrstevníky a originalita ve skupinovém hodnocení zprostředkovaném GenAI
-- [[teichmann-detecting-undetectable-misconduct-2026]]: Důkazní kolaps detekce a argument pro procesní spravedlnost, proporcionalitu a návrh
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]]: Odstrašení, deklarace a přepracování jako problém návrhu hodnocení při nedokonalých informacích
-- [[munoz-misconduct-allegation-evidence-2026]]: O co se skutečně opíralo 1 162 spisů pochybení s GenAI a chybějící důkazní práh
-- [[wright-transcription-not-generation-2026]]: Příliš široká pravidla o AI a rozdíl mezi přepisem a generováním
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]: Digitální podvádění s AI a preventivně založené etické pedagogiky: případ 183 až 27 pochybení a pět přepracování specifických pro obor (Leaton Gray, Edsall a Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]]: Integrita jako problém řízení: rámec 130 indikátorů pro akademické správní orgány (Coates, Croucher a Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]]: Scoping review 38 studií hlasů studentů vysokých škol o akademické integritě a GenAI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]]: Kde leží hranice mezi podporou a substitucí pro pisatele angličtiny jako dalšího jazyka a nerovnost pravidel, která ignorují jazykové zázemí (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]]: Prompt injection proti známkování zprostředkovanému AI: skryté instrukce, které neodhaleně mění známku (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]]: Matice etiky používání AI: úzkostná poslušnost a proč sama srozumitelnost může studenty tlačit k efektivnímu obcházení (Petricini a Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]]: Známkování stopy uvažování, když agenti AI dokážou úlohu dokončit (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]]: Přijímací eseje psané AI jsou rozšířené, ale penalizované
-- [[genai-higher-ed-agency-responsibility-discourse-2026]]: Kdo jedná, kdo ví, kdo odpovídá? Korpusem podpořená analýza diskurzu o agenturnosti, epistemické odpovědnosti a odpovědnosti ve výzkumu GenAI ve vysokoškolském vzdělávání
+- [[ivory-psychology-assessment-integrity-2026]] — Celý program psychologie procházející při minimálním úsilí a hodnoticí kritéria, která to umožnila (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Budoucí učitelé odmítli GenAI pod permisivní politikou; rámování „pasti" a mezera mezi průzkumem a deklarací
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agenti AI, radostné hodnocení a třetí prostor
+- [[kumar-genai-computing-education-systematic-review-2026]] — Důkazy o detekci jsou tenké (3 studie ze 72); váhu nese přepracování
+- [[mccorkle-aligned-genai-course-policy-2025]] — Sladěná kurzová politika GenAI: povolení odvozená z hodnocení, transparentní zdůvodnění (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generování variant hodnocení ekvivalentních v konstruktu (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Jak vyučující regulují AI ve 31 000 sylabech kurzů; rámování integrity klesá (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Mohou se studenti podváděním dopracovat k titulu z biologie? Případová studie zranitelnosti známek v biologických kurzech vůči akademické nepoctivosti v éře generativní AI
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Nedodržování deklarací používání AI studenty
+- [[detecting-llm-generated-text-latent-prompt]] — Detekce textu generovaného LLM
+- [[beyond-detection-authentic-assessment-ai-2025]] — Za hranicemi detekce: autentické hodnocení ve světě zprostředkovaném AI
+- [[ai-assessment-scale-reform]] — Škála hodnocení s AI a reforma hodnocení
+- [[authentic-products-authenticated-processes-2026]] — Od autentických produktů k autentizovaným procesům
+- [[student-rationalization-ai-writing]] — „Je to v pořádku, protože…" Racionalizace používání AI studenty
+- [[ethical-ai-higher-ed-game-theory]] — Rámec koordinační hry pro etické používání AI
+- [[shame-guilt-ai-regulation-computing-education]] — Stud a vina jako sociální regulátory používání AI
+- [[cross-cultural-student-perceptions-genai-computing]] — Udělala Alice něco špatného? Mezikulturní vnímání používání AI
+- [[luo-dawson-value-judgments-grading-2026]] — Hodnotové soudy při známkování práce s pomocí GenAI: poctivost, důvěra, validita a obousměrná transparentnost (Luo a Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Odpovědnost mezi vrstevníky a originalita ve skupinovém hodnocení zprostředkovaném GenAI
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Důkazní kolaps detekce a argument pro procesní spravedlnost, proporcionalitu a návrh
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Odstrašení, deklarace a přepracování jako problém návrhu hodnocení při nedokonalých informacích
+- [[munoz-misconduct-allegation-evidence-2026]] — O co se skutečně opíralo 1 162 spisů pochybení s GenAI a chybějící důkazní práh
+- [[wright-transcription-not-generation-2026]] — Příliš široká pravidla o AI a rozdíl mezi přepisem a generováním
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Digitální podvádění s AI a preventivně založené etické pedagogiky: případ 183 až 27 pochybení a pět přepracování specifických pro obor (Leaton Gray, Edsall a Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Integrita jako problém řízení: rámec 130 indikátorů pro akademické správní orgány (Coates, Croucher a Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Scoping review 38 studií hlasů studentů vysokých škol o akademické integritě a GenAI (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Kde leží hranice mezi podporou a substitucí pro pisatele angličtiny jako dalšího jazyka a nerovnost pravidel, která ignorují jazykové zázemí (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection proti známkování zprostředkovanému AI: skryté instrukce, které neodhaleně mění známku (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Matice etiky používání AI: úzkostná poslušnost a proč sama srozumitelnost může studenty tlačit k efektivnímu obcházení (Petricini a Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Známkování stopy uvažování, když agenti AI dokážou úlohu dokončit (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Přijímací eseje psané AI jsou rozšířené, ale penalizované
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kdo jedná, kdo ví, kdo odpovídá? Korpusem podpořená analýza diskurzu o agenturnosti, epistemické odpovědnosti a odpovědnosti ve výzkumu GenAI ve vysokoškolském vzdělávání
 
-- [[genai-governance-australian-higher-ed-2026]]: Mapování povolené hranice: srovnávací studie politických vinět o řízení generativní AI v australském vysokoškolském vzdělávání
-- [[argus-academic-integrity-genai-2026]]: Argus: akademická integrita v éře generativní AI
-- [[villanueva-ai-vulnerability-assessment-audit-2026]]: Zjištění sektorového auditu: univerzity s mandátem a univerzity s rámcem se neliší ve vystavení hodnocení, což je empirický protějšek koordinačního problému
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]]: Akçapınar (2026): Raná predikce rizika podvádění s pomocí AI ze stop LMS, rámovaná jako akademické vedení, nikoli jako důkaz pochybení
-- [[reddit-genai-education-discourse-analysis-2026]]: Tři a půl roku vzdělávacího Redditu: dominuje vymáhání a spory o integritu jsou hlavním místem setkávání vyučujících a studentů (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]]: Experiment s průzkumem: rámování používání AI studenty jako substituce penalizuje uchazeče s vysokým studijním průměrem při náboru i v platu; prezenční testování je jediná náprava, kterou zvolily obě skupiny
-- [[airri-machine-resistant-reading-interface-2026]]: AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
+- [[genai-governance-australian-higher-ed-2026]] — Mapování povolené hranice: srovnávací studie politických vinět o řízení generativní AI v australském vysokoškolském vzdělávání
+- [[argus-academic-integrity-genai-2026]] — Argus: akademická integrita v éře generativní AI
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Zjištění sektorového auditu: univerzity s mandátem a univerzity s rámcem se neliší ve vystavení hodnocení, což je empirický protějšek koordinačního problému
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026): Raná predikce rizika podvádění s pomocí AI ze stop LMS, rámovaná jako akademické vedení, nikoli jako důkaz pochybení
+- [[reddit-genai-education-discourse-analysis-2026]] — Tři a půl roku vzdělávacího Redditu: dominuje vymáhání a spory o integritu jsou hlavním místem setkávání vyučujících a studentů (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Experiment s průzkumem: rámování používání AI studenty jako substituce penalizuje uchazeče s vysokým studijním průměrem při náboru i v platu; prezenční testování je jediná náprava, kterou zvolily obě skupiny
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -115,7 +114,7 @@ Gli studenti sono inquadrati anche dal discorso mediatico e pubblico più ampio 
 
 ## Articoli collegati
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus on the sequence: acquire without GenAI, consolidate with it, then think for yourself
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert consensus on the sequence: acquire without GenAI, consolidate with it, then think for yourself
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Transparent rationale for each allowed and unallowed GenAI use, task by task (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Encouraging appropriate use of GenAI rather than condemning it as disruption

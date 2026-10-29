@@ -2,47 +2,24 @@
 title: "AI w edukacji"
 created: "2026-10-15T14:22:00-04:00"
 updated: "2026-10-27T04:16:20-04:00"
-type: "concept"
-foundations:
-  - "ai-education"
-  - "ai-literacy"
-  - "teacher-role"
-technology:
-  - "generative-ai"
-  - "intelligent-tutoring"
-  - "llm"
-assessment:
-  - "assessment"
-ethics:
-  - "equity-in-ai-education"
-audience:
-  - "instructors"
-  - "learners"
-  - "faculty developers"
-  - "administrators"
-level:
-  - "higher ed"
-  - "k 12"
-connected_faqs:
-  - "top-10-findings-ai-education-instructors"
-confidence: "high"
-institutions:
-  - "educational-policy-ai"
-reviewed_by:
-  - "editor"
-translation_of: "concepts/ai-education"
-source_updated: "2026-10-26T02:30:00-04:00"
+type: concept
+technology: [generative-ai, intelligent-tutoring, llm]
+foundations: [ai-education, ai-literacy, teacher-role]
+institutions: [educational-policy-ai]
+ethics: [equity-in-ai-education]
+assessment: [assessment]
+audience: [instructors, learners, faculty developers, administrators]
+level: [higher ed, k 12]
+confidence: high
+connected_faqs: [top-10-findings-ai-education-instructors]
+translation_of: concepts/ai-education
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
-contributors:
-  - "editor"
+contributors: [editor]
 ai_assist:
-  - model: "stepfun/step-5-preview:free"
-    role: "translation"
-    date: "2026-10-15"
-    agent: "hermes-agent"
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: deepseek/deepseek-v4.1-flash
     role: translation
-    date: "2026-10-27"
+    date: "2026-10-15"
     agent: hermes-agent
 ---
 

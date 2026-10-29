@@ -8,7 +8,6 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/theory-development-aied
 source_updated: "2026-09-30T12:20:22-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

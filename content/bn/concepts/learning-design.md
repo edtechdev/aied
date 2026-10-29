@@ -139,14 +139,14 @@ Fowlin প্রমুখ (2026) AI কোথায় প্রবেশ কর
 
 ## সংযুক্ত নিবন্ধ
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - একটি মাপা পরিকল্পনা-সময়ের সাশ্রয়ের পাশাপাশি এই ফলাফল যে শিক্ষকরা কেবল 21% থেকে 40% পাঠ শূন্য থেকে পরিকল্পনা করেন
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - লার্নিং ডিজাইন সিদ্ধান্ত গ্রহণে LA ও GenAI
-- [[tang-chatbots-learning-design-2026]] - লার্নিং ডিজাইনে চ্যাটবট ব্যবহার: নকশাকারীরা কনটেন্ট সৃষ্টির বদলে ফলাফল ও পেডাগজিতে সময় দেন (Tang প্রমুখ 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - পাঠ-নকশায় অভিজ্ঞতা ও AI-দক্ষতা জুড়ে শিক্ষক-AI মিথস্ক্রিয়ার ধরন (Choi প্রমুখ 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - উচ্চ শিক্ষায় AI: সম্পৃক্ততা + শিক্ষাদান পদ্ধতির মধ্যস্থতাকারী ভূমিকা
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — একটি মাপা পরিকল্পনা-সময়ের সাশ্রয়ের পাশাপাশি এই ফলাফল যে শিক্ষকরা কেবল 21% থেকে 40% পাঠ শূন্য থেকে পরিকল্পনা করেন
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — লার্নিং ডিজাইন সিদ্ধান্ত গ্রহণে LA ও GenAI
+- [[tang-chatbots-learning-design-2026]] — লার্নিং ডিজাইনে চ্যাটবট ব্যবহার: নকশাকারীরা কনটেন্ট সৃষ্টির বদলে ফলাফল ও পেডাগজিতে সময় দেন (Tang প্রমুখ 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — পাঠ-নকশায় অভিজ্ঞতা ও AI-দক্ষতা জুড়ে শিক্ষক-AI মিথস্ক্রিয়ার ধরন (Choi প্রমুখ 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — উচ্চ শিক্ষায় AI: সম্পৃক্ততা + শিক্ষাদান পদ্ধতির মধ্যস্থতাকারী ভূমিকা
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - GenAI শিখন-কার্যক্রম শ্রেণিবদ্ধ করার জন্য শ্রেণিবিন্যাস (সীমানা-বস্তু)
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — GenAI শিখন-কার্যক্রম শ্রেণিবদ্ধ করার জন্য শ্রেণিবিন্যাস (সীমানা-বস্তু)
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -157,19 +157,19 @@ Fowlin প্রমুখ (2026) AI কোথায় প্রবেশ কর
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - AI Web Agents: স্বায়ত্তশাসিত ওয়েব এজেন্ট পাঠ-নকশা মূল্যায়ন করে এবং শিক্ষার্থীদের সম্পৃক্ত হওয়ার আগেই ঝরে পড়া পূর্বানুমান করে (Wang, Mitchell ও Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: পদার্থবিদ্যায় সংজ্ঞানাত্মকভাবে সক্রিয় AI বর্ধনের একটি কাঠামো
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: স্বায়ত্তশাসিত ওয়েব এজেন্ট পাঠ-নকশা মূল্যায়ন করে এবং শিক্ষার্থীদের সম্পৃক্ত হওয়ার আগেই ঝরে পড়া পূর্বানুমান করে (Wang, Mitchell ও Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: পদার্থবিদ্যায় সংজ্ঞানাত্মকভাবে সক্রিয় AI বর্ধনের একটি কাঠামো
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Designing for Reach: সাতটি লিভার এবং AI নিয়ে একা শিক্ষার্থী
+- [[halani-designing-for-reach-2026]] — Designing for Reach: সাতটি লিভার এবং AI নিয়ে একা শিক্ষার্থী
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - When Saying No Makes Better Videos: পেডাগজিক্যালভাবে ভিত্তিক AI কনটেন্ট সৃষ্টির জন্য দ্বৈত গেটকিপিং
-- [[rhaimi-productivemath-2025]] - ProductiveMath: উৎপাদনশীল ব্যর্থতা সমস্যা নকশায় সহায়তার জন্য AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI ও ইনস্ট্রাকশনাল ডিজাইন অনুশীলন: একটি পদ্ধতিগত পর্যালোচনা (Kibar ও Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - গতিশীল ক্ষেত্রের জন্য গ্রাফ-ভিত্তিক ইন্টেলিজেন্ট টিউটরিং (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - AI-কে ইচ্ছাকৃতভাবে বিরক্তিকর করা: AI-সমর্থিত লেখনে সীমাবদ্ধতা (Konradt, Boote ও Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - স্মার্ট-শ্রেণিকক্ষ মডেল ও D-T-E লুপ গণিতে M.Ed. ইনস্ট্রাকশনাল ডিজাইন দক্ষতা উন্নত করে (Zhu প্রমুখ 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - গাণিতিক মডেলিং সমস্যা তৈরির AI-চালিত প্ল্যাটফর্ম (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - শিখন-কাজের শিক্ষক-AI সহ-নকশা: প্রবণতা ও দৃষ্টিভঙ্গি (Wang প্রমুখ 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - AI-নকশাকৃত ভিন্নতামূলক দলগত কার্যক্রমে ভূমিকার স্থাপত্য (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - পুনরাবৃত্তিমূলক পেডাগজিক্যাল নকশার এজেন্ট হিসেবে LLM
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: পেডাগজিক্যালভাবে ভিত্তিক AI কনটেন্ট সৃষ্টির জন্য দ্বৈত গেটকিপিং
+- [[rhaimi-productivemath-2025]] — ProductiveMath: উৎপাদনশীল ব্যর্থতা সমস্যা নকশায় সহায়তার জন্য AI
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI ও ইনস্ট্রাকশনাল ডিজাইন অনুশীলন: একটি পদ্ধতিগত পর্যালোচনা (Kibar ও Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — গতিশীল ক্ষেত্রের জন্য গ্রাফ-ভিত্তিক ইন্টেলিজেন্ট টিউটরিং (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — AI-কে ইচ্ছাকৃতভাবে বিরক্তিকর করা: AI-সমর্থিত লেখনে সীমাবদ্ধতা (Konradt, Boote ও Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — স্মার্ট-শ্রেণিকক্ষ মডেল ও D-T-E লুপ গণিতে M.Ed. ইনস্ট্রাকশনাল ডিজাইন দক্ষতা উন্নত করে (Zhu প্রমুখ 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — গাণিতিক মডেলিং সমস্যা তৈরির AI-চালিত প্ল্যাটফর্ম (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — শিখন-কাজের শিক্ষক-AI সহ-নকশা: প্রবণতা ও দৃষ্টিভঙ্গি (Wang প্রমুখ 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI-নকশাকৃত ভিন্নতামূলক দলগত কার্যক্রমে ভূমিকার স্থাপত্য (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — পুনরাবৃত্তিমূলক পেডাগজিক্যাল নকশার এজেন্ট হিসেবে LLM

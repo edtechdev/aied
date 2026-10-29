@@ -127,16 +127,16 @@ Dovezile pentru capitulare ca construct numit se sprijină în mare măsură pe 
 
 ## Articole conexe
 
-- [[shaw-nave-cognitive-surrender-2026]] - Teoria celor trei sisteme și semnătura experimentală a capitulării
-- [[generative-ai-reduced-study-time-math]] - deplasare la nivel de populație în ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - cadrul capitulare/descărcare/autonomie în PreK-12
-- [[du-yuan-epistemic-dependence-2026]] - asistență instrumentală versus asistență purtătoare de judecată
-- [[ai-advice-suppresses-ikt-suspension-2026]] - prăbușirea lui „nu știu”
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - angajament neural și autorie
-- [[genai-thoughtless-use-self-directed-learning-2026]] - folosirea fără gândire și învățarea autodirijată
-- [[stamatoulis-genai-use-patterns-2026]] - adoptare cu verificare scăzută versus integrare evaluativă
-- [[cognitive-washout-ai-skill-decay-2026]] - ce se întâmplă după retragere
-- [[ai-overreliance-complex-adaptive-system-2026]] - dependența ca proces populațional
-- [[brcic-effortless-trap-productive-struggle-2026]] - plasarea IA astfel încât sarcina să rămână efortuoasă
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - antrenamentul de calibrare
-- [[family-school-autonomy-support-genai-2026]] - descărcare dependentă versus autonomă
+- [[shaw-nave-cognitive-surrender-2026]] — Teoria celor trei sisteme și semnătura experimentală a capitulării
+- [[generative-ai-reduced-study-time-math]] — deplasare la nivel de populație în ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — cadrul capitulare/descărcare/autonomie în PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — asistență instrumentală versus asistență purtătoare de judecată
+- [[ai-advice-suppresses-ikt-suspension-2026]] — prăbușirea lui „nu știu”
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — angajament neural și autorie
+- [[genai-thoughtless-use-self-directed-learning-2026]] — folosirea fără gândire și învățarea autodirijată
+- [[stamatoulis-genai-use-patterns-2026]] — adoptare cu verificare scăzută versus integrare evaluativă
+- [[cognitive-washout-ai-skill-decay-2026]] — ce se întâmplă după retragere
+- [[ai-overreliance-complex-adaptive-system-2026]] — dependența ca proces populațional
+- [[brcic-effortless-trap-productive-struggle-2026]] — plasarea IA astfel încât sarcina să rămână efortuoasă
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — antrenamentul de calibrare
+- [[family-school-autonomy-support-genai-2026]] — descărcare dependentă versus autonomă

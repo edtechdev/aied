@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/ethics
 source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -111,7 +110,7 @@ Etik [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]
 
 ## Bağlı Makaleler
 
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Etik farkındalığın baş etme çerçevesi öğretilmediği yerde YZ kaygısını yükseltmesi: 584 öğrenci arasında yalnızca dolaylı aracılık
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Etik farkındalığın baş etme çerçevesi öğretilmediği yerde YZ kaygısını yükseltmesi: 584 öğrenci arasında yalnızca dolaylı aracılık
 - [[learning-analytics-to-educational-interventions-2026]] — Öğrenme analitiğinden eğitim müdahalelerine: güvenilir LA temelli müdahalelerin etkinleştiricileri (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Öğrenciler çevrim içi değerlendirmelerde YZ’yi nasıl kullanır ve gizler
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Öğrenci YZ açıklaması, damgalanma ve öz-düzenlemeli öğrenme

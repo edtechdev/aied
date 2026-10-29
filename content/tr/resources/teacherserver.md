@@ -17,7 +17,6 @@ level: [k 12, higher ed]
 audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
-reviewed_by: [editor]
 translation_of: resources/teacherserver
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

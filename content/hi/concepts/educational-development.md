@@ -159,8 +159,8 @@ AI [[professional-training|पेशेवर विकास]] की योज
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — कौशल अंतराल नहीं, पहचान संकट के रूप में जनरेटिव-AI
 - [[zuo-instructor-power-genai-writing-2026]] — लेखन में जनरेटिव-AI से जूझ रहे महाविद्यालय निर्देशकों द्वारा अनुभूति शक्ति संबंध (ज़ुओ, सू और डनिंग 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — चिंतनात्मक त्रिभुज मॉडल: संज्ञानात्मक मध्यस्थ के रूप में AI
-- [[sutedjo-faculty-genai-tpack-21-2026]] - जनरेटिव-AI के लिए संकाय स्व-अनुभूति TPACK-21 ज्ञान (सुतेद्जो, चौधरी और लियू 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - बुद्धिमान-TPACK PD: उपस्थिति लाभ की भविष्यवाणी करती है, स्व-अनुभूति भागीदारी नहीं
+- [[sutedjo-faculty-genai-tpack-21-2026]] — जनरेटिव-AI के लिए संकाय स्व-अनुभूति TPACK-21 ज्ञान (सुतेद्जो, चौधरी और लियू 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — बुद्धिमान-TPACK PD: उपस्थिति लाभ की भविष्यवाणी करती है, स्व-अनुभूति भागीदारी नहीं
 - [[instructional-design-proficiency-masters-math-2026]] — स्मार्ट-कक्षा मॉडल और D-T-E लूप गणित में M.Ed. निर्देशात्मक डिज़ाइन प्रवीणता में सुधार (झू सहित 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — AI-डिज़ाइन विभेदित समूह गतिविधियों में भूमिकाओं की वास्तुकला (तालेब्ज़ादे 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — विश्वविद्यालय शिक्षकों के अनुभव और अनुभूति GAI: असुरक्षा, मूल्यांकन पर पुनर्विचार, जोखिम में छात्र सीखना (फ़राज़ुली सहित 2026)
@@ -170,4 +170,4 @@ AI [[professional-training|पेशेवर विकास]] की योज
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — ग्लोबल साउथ उच्च शिक्षा में डिजिटल मध्यस्थ के रूप में शैक्षिक डेवलपर: सामाजिक-तकनीकी प्रक्रिया के रूप में विकास
 - [[physics-faculty-learning-community-ai-2026]] — अनिश्चित समय में AI के प्रभावी उपयोग के लिए एक कार्यशाला शृंखला: एक भौतिकी संकाय सीखने के समुदाय का निर्माण
 - [[faculty-ai-well-being-social-supports-2026]] — संकाय AI कल्याण तकनीकी आत्म-प्रभावकारिता के बजाय AI साक्षरता को ट्रैक करता है
-- [[ai-competence-framework-landscape-2026]] - किसी ढाँचे के स्तर क्या बताते हैं, यह अपनाने से पहले जाँचें
+- [[ai-competence-framework-landscape-2026]] — किसी ढाँचे के स्तर क्या बताते हैं, यह अपनाने से पहले जाँचें

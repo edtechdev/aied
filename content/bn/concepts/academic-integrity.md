@@ -197,43 +197,43 @@ GAIT-ভিত্তিক অসদাচরণ-অভিপ্রায়ে�
 
 ## সংযুক্ত নিবন্ধ
 
-- [[ivory-psychology-assessment-integrity-2026]] - ন্যূনতম শ্রমে পাসযোগ্য একটি পূর্ণ মনোবিজ্ঞান কর্মসূচি, এবং যে মার্কিং-মানদণ্ড তা ছেড়ে দিল (Ivory প্রমুখ 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - অনুমতিমূলক নীতির অধীনেও শিক্ষার্থী-শিক্ষকেরা GenAI এড়িয়ে গেলেন; "ফাঁদ" ফ্রেমিং ও জরিপ-ঘোষণা ব্যবধান
-- [[ai-agents-joyful-assessment-third-space-2026]] - এআই এজেন্ট, আনন্দময় মূল্যায়ন ও তৃতীয় স্থান
-- [[kumar-genai-computing-education-systematic-review-2026]] - শনাক্তকরণের প্রমাণ পাতলা (72-এর মধ্যে 3টি গবেষণা); ভার বহন করে পুনর্নকশা
-- [[mccorkle-aligned-genai-course-policy-2025]] - সামঞ্জস্যপূর্ণ GenAI কোর্স-নীতি: মূল্যায়ন-উদ্ভূত অনুমতি, স্বচ্ছ যুক্তি (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - গঠন-সমান মূল্যায়ন-ভিন্নতা উৎপাদন (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - 31,000 কোর্স সিলেবাস জুড়ে প্রশিক্ষকেরা কীভাবে এআই নিয়ন্ত্রণ করেন; সততা-ফ্রেমিং কমছে (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - শিক্ষার্থীরা কি প্রতারণা করে জীববিজ্ঞানের ডিগ্রি নিতে পারে? জেনারেটিভ এআই-এর যুগে জীববিজ্ঞান কোর্সের গ্রেডের একাডেমিক অসততার প্রতি দুর্বলতার কেস স্টাডি
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - এআই-ব্যবহার ঘোষণায় শিক্ষার্থীদের অ-অনুপালন
-- [[detecting-llm-generated-text-latent-prompt]] - LLM-উৎপন্ন লেখা শনাক্তকরণ
-- [[beyond-detection-authentic-assessment-ai-2025]] - শনাক্তকরণের বাইরে: এআই-মাধ্যমিক পৃথিবীতে খাঁটি মূল্যায়ন
-- [[ai-assessment-scale-reform]] - এআই মূল্যায়ন স্কেল ও মূল্যায়ন সংস্কার
-- [[authentic-products-authenticated-processes-2026]] - খাঁটি পণ্য থেকে প্রমাণীকৃত প্রক্রিয়ায়
-- [[student-rationalization-ai-writing]] - এটা ঠিক আছে কারণ... এআই-ব্যবহার নিয়ে শিক্ষার্থীদের যুক্তিসঙ্গতকরণ
-- [[ethical-ai-higher-ed-game-theory]] - নৈতিক এআই-ব্যবহারের জন্য সমন্বয়-খেলা কাঠামো
-- [[shame-guilt-ai-regulation-computing-education]] - এআই-ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
-- [[cross-cultural-student-perceptions-genai-computing]] - অ্যালিস কি ভুল করল? এআই-ব্যবহারের আন্তঃসাংস্কৃতিক ধারণা
-- [[luo-dawson-value-judgments-grading-2026]] - GenAI-সহায়িত কাজের গ্রেডিংয়ে মূল্যবোধগত বিচার: সততা, বিশ্বাস, বৈধতা ও দ্বিমুখী স্বচ্ছতা (Luo ও Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - GenAI-মাধ্যমিক দলগত মূল্যায়নে সহকর্মী-জবাবদিহি ও মৌলিকত্ব
-- [[teichmann-detecting-undetectable-misconduct-2026]] - শনাক্তকরণের প্রমাণগত ধস এবং প্রক্রিয়াগত ন্যায়বিচার, আনুপাতিকতা ও নকশার পক্ষে যুক্তি
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - অসম্পূর্ণ তথ্যের অধীনে নিরুৎসাহ, ঘোষণা ও পুনর্নকশা একটি মূল্যায়ন-নকশা সমস্যা হিসেবে
-- [[munoz-misconduct-allegation-evidence-2026]] - 1,162টি GenAI অসদাচরণ-ফাইল আসলে কী প্রমাণের উপর দাঁড়িয়েছিল, এবং অনুপস্থিত প্রমাণ-সীমা
-- [[wright-transcription-not-generation-2026]] - অতিরিক্ত-অন্তর্ভুক্ত এআই নিয়ম এবং প্রতিলিপি-বনাম-উৎপাদন পার্থক্য
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - এআই-ভিত্তিক ডিজিটাল প্রতারণা ও প্রতিরোধ-ভিত্তিক নৈতিক শিক্ষাদানপদ্ধতি: 183 থেকে 27 হওয়ার অসদাচরণ কেস এবং পাঁচটি বিষয়ভিত্তিক পুনর্নকশা (Leaton Gray, Edsall ও Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - শাসন-সমস্যা হিসেবে সততা: একাডেমিক শাসকদের জন্য 130-আইটেম সূচক কাঠামো (Coates, Croucher ও Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - একাডেমিক সততা ও GenAI নিয়ে উচ্চ-শিক্ষা শিক্ষার্থীদের কণ্ঠের 38টি গবেষণার স্কোপিং পর্যালোচনা (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - EAL লেখকদের জন্য সহায়তা-বনাম-প্রতিস্থাপন রেখা টানা, এবং ভাষা-পটভূমি উপেক্ষা করা নিয়মের অন্যায্যতা (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - এআই-মাধ্যমিক মূল্যায়নের বিরুদ্ধে প্রম্পট ইনজেকশন: লুকানো নির্দেশনা যা অলক্ষিতভাবে গ্রেড বদলায় (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - AI-Use Ethics Matrix: উদ্বিগ্ন অনুপালন, এবং কেন কেবল স্পষ্টতাই শিক্ষার্থীদের দক্ষ পাশ কাটানোয় ঠেলে দিতে পারে (Petricini ও Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - এআই এজেন্ট অ্যাসাইনমেন্ট সম্পন্ন করতে পারলে যুক্তিপথ গ্রেড করা (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - এআই-লিখিত ভর্তি-প্রবন্ধ বহুল প্রচলিত কিন্তু শাস্তিযোগ্য
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - কে কাজ করে, কে জানে, কে উত্তর দেয়? জেনারেটিভ এআই উচ্চ-শিক্ষা গবেষণায় এজেন্সি, জ্ঞানতাত্ত্বিক দায় ও জবাবদিহি নিয়ে কর্পাস-সহায়িত আলোচনা-বিশ্লেষণ
+- [[ivory-psychology-assessment-integrity-2026]] — ন্যূনতম শ্রমে পাসযোগ্য একটি পূর্ণ মনোবিজ্ঞান কর্মসূচি, এবং যে মার্কিং-মানদণ্ড তা ছেড়ে দিল (Ivory প্রমুখ 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — অনুমতিমূলক নীতির অধীনেও শিক্ষার্থী-শিক্ষকেরা GenAI এড়িয়ে গেলেন; "ফাঁদ" ফ্রেমিং ও জরিপ-ঘোষণা ব্যবধান
+- [[ai-agents-joyful-assessment-third-space-2026]] — এআই এজেন্ট, আনন্দময় মূল্যায়ন ও তৃতীয় স্থান
+- [[kumar-genai-computing-education-systematic-review-2026]] — শনাক্তকরণের প্রমাণ পাতলা (72-এর মধ্যে 3টি গবেষণা); ভার বহন করে পুনর্নকশা
+- [[mccorkle-aligned-genai-course-policy-2025]] — সামঞ্জস্যপূর্ণ GenAI কোর্স-নীতি: মূল্যায়ন-উদ্ভূত অনুমতি, স্বচ্ছ যুক্তি (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — গঠন-সমান মূল্যায়ন-ভিন্নতা উৎপাদন (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — 31,000 কোর্স সিলেবাস জুড়ে প্রশিক্ষকেরা কীভাবে এআই নিয়ন্ত্রণ করেন; সততা-ফ্রেমিং কমছে (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — শিক্ষার্থীরা কি প্রতারণা করে জীববিজ্ঞানের ডিগ্রি নিতে পারে? জেনারেটিভ এআই-এর যুগে জীববিজ্ঞান কোর্সের গ্রেডের একাডেমিক অসততার প্রতি দুর্বলতার কেস স্টাডি
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — এআই-ব্যবহার ঘোষণায় শিক্ষার্থীদের অ-অনুপালন
+- [[detecting-llm-generated-text-latent-prompt]] — LLM-উৎপন্ন লেখা শনাক্তকরণ
+- [[beyond-detection-authentic-assessment-ai-2025]] — শনাক্তকরণের বাইরে: এআই-মাধ্যমিক পৃথিবীতে খাঁটি মূল্যায়ন
+- [[ai-assessment-scale-reform]] — এআই মূল্যায়ন স্কেল ও মূল্যায়ন সংস্কার
+- [[authentic-products-authenticated-processes-2026]] — খাঁটি পণ্য থেকে প্রমাণীকৃত প্রক্রিয়ায়
+- [[student-rationalization-ai-writing]] — এটা ঠিক আছে কারণ... এআই-ব্যবহার নিয়ে শিক্ষার্থীদের যুক্তিসঙ্গতকরণ
+- [[ethical-ai-higher-ed-game-theory]] — নৈতিক এআই-ব্যবহারের জন্য সমন্বয়-খেলা কাঠামো
+- [[shame-guilt-ai-regulation-computing-education]] — এআই-ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
+- [[cross-cultural-student-perceptions-genai-computing]] — অ্যালিস কি ভুল করল? এআই-ব্যবহারের আন্তঃসাংস্কৃতিক ধারণা
+- [[luo-dawson-value-judgments-grading-2026]] — GenAI-সহায়িত কাজের গ্রেডিংয়ে মূল্যবোধগত বিচার: সততা, বিশ্বাস, বৈধতা ও দ্বিমুখী স্বচ্ছতা (Luo ও Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI-মাধ্যমিক দলগত মূল্যায়নে সহকর্মী-জবাবদিহি ও মৌলিকত্ব
+- [[teichmann-detecting-undetectable-misconduct-2026]] — শনাক্তকরণের প্রমাণগত ধস এবং প্রক্রিয়াগত ন্যায়বিচার, আনুপাতিকতা ও নকশার পক্ষে যুক্তি
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — অসম্পূর্ণ তথ্যের অধীনে নিরুৎসাহ, ঘোষণা ও পুনর্নকশা একটি মূল্যায়ন-নকশা সমস্যা হিসেবে
+- [[munoz-misconduct-allegation-evidence-2026]] — 1,162টি GenAI অসদাচরণ-ফাইল আসলে কী প্রমাণের উপর দাঁড়িয়েছিল, এবং অনুপস্থিত প্রমাণ-সীমা
+- [[wright-transcription-not-generation-2026]] — অতিরিক্ত-অন্তর্ভুক্ত এআই নিয়ম এবং প্রতিলিপি-বনাম-উৎপাদন পার্থক্য
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — এআই-ভিত্তিক ডিজিটাল প্রতারণা ও প্রতিরোধ-ভিত্তিক নৈতিক শিক্ষাদানপদ্ধতি: 183 থেকে 27 হওয়ার অসদাচরণ কেস এবং পাঁচটি বিষয়ভিত্তিক পুনর্নকশা (Leaton Gray, Edsall ও Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — শাসন-সমস্যা হিসেবে সততা: একাডেমিক শাসকদের জন্য 130-আইটেম সূচক কাঠামো (Coates, Croucher ও Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — একাডেমিক সততা ও GenAI নিয়ে উচ্চ-শিক্ষা শিক্ষার্থীদের কণ্ঠের 38টি গবেষণার স্কোপিং পর্যালোচনা (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — EAL লেখকদের জন্য সহায়তা-বনাম-প্রতিস্থাপন রেখা টানা, এবং ভাষা-পটভূমি উপেক্ষা করা নিয়মের অন্যায্যতা (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — এআই-মাধ্যমিক মূল্যায়নের বিরুদ্ধে প্রম্পট ইনজেকশন: লুকানো নির্দেশনা যা অলক্ষিতভাবে গ্রেড বদলায় (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — AI-Use Ethics Matrix: উদ্বিগ্ন অনুপালন, এবং কেন কেবল স্পষ্টতাই শিক্ষার্থীদের দক্ষ পাশ কাটানোয় ঠেলে দিতে পারে (Petricini ও Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — এআই এজেন্ট অ্যাসাইনমেন্ট সম্পন্ন করতে পারলে যুক্তিপথ গ্রেড করা (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — এআই-লিখিত ভর্তি-প্রবন্ধ বহুল প্রচলিত কিন্তু শাস্তিযোগ্য
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — কে কাজ করে, কে জানে, কে উত্তর দেয়? জেনারেটিভ এআই উচ্চ-শিক্ষা গবেষণায় এজেন্সি, জ্ঞানতাত্ত্বিক দায় ও জবাবদিহি নিয়ে কর্পাস-সহায়িত আলোচনা-বিশ্লেষণ
 
-- [[genai-governance-australian-higher-ed-2026]] - অনুমোদিত সীমারেখা ম্যাপ করা: অস্ট্রেলীয় উচ্চ শিক্ষায় জেনারেটিভ এআই শাসন নিয়ে তুলনামূলক নীতি-ভিনিয়েট গবেষণা
-- [[argus-academic-integrity-genai-2026]] - Argus: জেনারেটিভ এআই-এর যুগে একাডেমিক সততা
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - খাত-নিরীক্ষার ফল: আদেশপ্রাপ্ত ও কাঠামোযুক্ত বিশ্ববিদ্যালয়ের মূল্যায়ন-উন্মুক্ততায় কোনো পার্থক্য নেই, সমন্বয়-সমস্যার অভিজ্ঞতাভিত্তিক প্রতিরূপ
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - LMS চিহ্ন থেকে এআই-সহায়িত প্রতারণার ঝুঁকির প্রাথমিক পূর্বাভাস, অসদাচরণের প্রমাণ নয়, একাডেমিক পথনির্দেশনা হিসেবে ফ্রেমকৃত
-- [[reddit-genai-education-discourse-analysis-2026]] - সাড়ে তিন বছরের শিক্ষা-রেডিট: প্রয়োগের প্রাধান্য, এবং সততা-বিরোধই অনুষদ-শিক্ষার্থীর প্রধান মিলনক্ষেত্র (Yüce প্রমুখ 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - জরিপ-পরীক্ষা: শিক্ষার্থীর এআই-ব্যবহারের প্রতিস্থাপন-ফ্রেমিং উচ্চ-GPA আবেদনকারীদের নিয়োগ ও বেতনে শাস্তি দেয়; সশরীরে পরীক্ষাই একমাত্র প্রতিকার যা দুই দলই বেছে নিয়েছে
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: একটি মানব-পাঠযোগ্য, যন্ত্র-প্রতিরোধী পাঠ-ইন্টারফেসের দিকে
+- [[genai-governance-australian-higher-ed-2026]] — অনুমোদিত সীমারেখা ম্যাপ করা: অস্ট্রেলীয় উচ্চ শিক্ষায় জেনারেটিভ এআই শাসন নিয়ে তুলনামূলক নীতি-ভিনিয়েট গবেষণা
+- [[argus-academic-integrity-genai-2026]] — Argus: জেনারেটিভ এআই-এর যুগে একাডেমিক সততা
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — খাত-নিরীক্ষার ফল: আদেশপ্রাপ্ত ও কাঠামোযুক্ত বিশ্ববিদ্যালয়ের মূল্যায়ন-উন্মুক্ততায় কোনো পার্থক্য নেই, সমন্বয়-সমস্যার অভিজ্ঞতাভিত্তিক প্রতিরূপ
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - LMS চিহ্ন থেকে এআই-সহায়িত প্রতারণার ঝুঁকির প্রাথমিক পূর্বাভাস, অসদাচরণের প্রমাণ নয়, একাডেমিক পথনির্দেশনা হিসেবে ফ্রেমকৃত
+- [[reddit-genai-education-discourse-analysis-2026]] — সাড়ে তিন বছরের শিক্ষা-রেডিট: প্রয়োগের প্রাধান্য, এবং সততা-বিরোধই অনুষদ-শিক্ষার্থীর প্রধান মিলনক্ষেত্র (Yüce প্রমুখ 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — জরিপ-পরীক্ষা: শিক্ষার্থীর এআই-ব্যবহারের প্রতিস্থাপন-ফ্রেমিং উচ্চ-GPA আবেদনকারীদের নিয়োগ ও বেতনে শাস্তি দেয়; সশরীরে পরীক্ষাই একমাত্র প্রতিকার যা দুই দলই বেছে নিয়েছে
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: একটি মানব-পাঠযোগ্য, যন্ত্র-প্রতিরোধী পাঠ-ইন্টারফেসের দিকে

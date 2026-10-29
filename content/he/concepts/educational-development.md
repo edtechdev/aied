@@ -9,7 +9,6 @@ audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/educational-development
 source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -173,4 +172,4 @@ ai_assist:
 - [[physics-faculty-learning-community-ai-2026]] — סדרת סדנות לשימוש יעיל בבינה מלאכותית בעיתות אי-ודאות: בניית קהילת למידה של סגל פיזיקה
 
 - [[faculty-ai-well-being-social-supports-2026]] — רווחת בינה מלאכותית של סגל עוקבת אוריינות בינה מלאכותית ולא יעילות עצמית טכנולוגית
-- [[ai-competence-framework-landscape-2026]] - בדקו מה מתארים שלבי המסגרת לפני אימוצה
+- [[ai-competence-framework-landscape-2026]] — בדקו מה מתארים שלבי המסגרת לפני אימוצה

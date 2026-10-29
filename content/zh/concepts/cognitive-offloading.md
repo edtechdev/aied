@@ -234,7 +234,7 @@ AI 在教育中最重大的风险：
 
 - [[ai-proof-learning-cognitive-offloading-2026]] — 支持还是替代学生的推理？AI 辅助证明学习中的认知外包（Chen 等 2026）
 - [[llm-math-homework-offloading-traces-2026]] — 提交所不能显示的：学生用大语言模型做数学作业时认知外包的复杂化（Kontorovich 与 Wallach 2026）
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 位专家就 65 个学习过程达成共识：学习序列两端的外包
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 位专家就 65 个学习过程达成共识：学习序列两端的外包
 - [[rented-self-decoupling-performance-becoming-2026]] — 租借的自我：付出学习者领域自我（而不只是技能）的外包
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — 起点相同的小组走向分化：一个剖面中 74.1% 的模型采纳对另一个剖面中 80.8% 的外包与僵局（Kilinc 等，2026）
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI 辅助在三个随机对照试验中降低了坚持性与无辅助表现（Liu 等，2026）
@@ -272,5 +272,5 @@ AI 在教育中最重大的风险：
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — 外包倾向与核验素养经元认知自我调节预测高阶结果（Davor 等，2026）
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — 一则反思提示降低了对错误 AI 建议的接受度并改善了意识校准（Ren 2026）
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI 依赖作为批判性思维倾向与自感就业力的边界条件（Shojaei 等，2026）
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - 儿童在与 ChatGPT 交谈时额顶、显著性与背侧注意网络的连接弱于成人，而创造力得分相当
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童在与 ChatGPT 交谈时额顶、显著性与背侧注意网络的连接弱于成人，而创造力得分相当
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI 与儿童创造力：范围综述中的过度依赖与提示依赖（Niu 等，2026）

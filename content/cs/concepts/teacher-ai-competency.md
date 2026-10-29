@@ -156,61 +156,61 @@ Krajina nástrojů byla od té doby přezkoumána. [[assessing-teachers-ai-liter
 - [[ai-education]]
 - [[tpack]]
 - [[teacher-education]]
-- [[pedagogy]]: zastřešující pojem: pedagogiky a strategie výuky v AI ve vzdělávání
+- [[pedagogy]] — zastřešující pojem: pedagogiky a strategie výuky v AI ve vzdělávání
 
 ## Související články
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]]: Kteří učitelé získali čas na plánování: nižší jistota v obsahových znalostech, nižší pedagogické znalosti, kratší praxe nebo vysoká jistota v technologiích
-- [[ai-misconceptions-indonesian-k12-teachers-2026]]: Učitelé AI přijímají, a přitom nerozumějí tomu, jak funguje (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]]: Připravenost učitelů a technologicko-pedagogická integrace jako nejčastěji uváděná výzva v 54 studiích matematického vzdělávání (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]]: Gramotnost v multimodálním hodnocení: roční program, v němž se znalosti a kompetence posunuly a hodnoty nikoli
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Kteří učitelé získali čas na plánování: nižší jistota v obsahových znalostech, nižší pedagogické znalosti, kratší praxe nebo vysoká jistota v technologiích
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Učitelé AI přijímají, a přitom nerozumějí tomu, jak funguje (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Připravenost učitelů a technologicko-pedagogická integrace jako nejčastěji uváděná výzva v 54 studiích matematického vzdělávání (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Gramotnost v multimodálním hodnocení: roční program, v němž se znalosti a kompetence posunuly a hodnoty nikoli
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]]: Profesní rozvoj v Intelligent-TPACK: půl směrodatné odchylky zisku a negativní zisky, které se čtou jako rekalibrace. The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Profesní rozvoj v Intelligent-TPACK: půl směrodatné odchylky zisku a negativní zisky, které se čtou jako rekalibrace. The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]]: Učitelé označili své vlastní výukové případy AI a snadno dosáhli praktických kompetencí, zatímco společenských a etických jen zřídka (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]]: Volba nástroje jako projev agenturnosti vzdělavatele
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]]: Systematický přehled generativní AI ve výuce a učení K-12 (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]]: Profesní znalosti učitelů v AI vzdělávání K-12: TAIK versus TPAIK a učení studentů (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]]: Vzorce interakce učitele a AI při návrhu výuky napříč zkušeností a zdatností v AI (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]]: Odpovědné používání GenAI budoucími učiteli: důsledky pro kurikulum (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]]: Pozorování výuky pomocí LLM pro profesní rozvoj učitelů (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]]: Generativní AI napříč reprezentacemi, dekompozicemi a aproximacemi: nácvik, strukturovaná zpětná vazba a varování ohledně přesnosti
-- [[genai-pd-ai-pck-learning-gain-2026]]: Účinnost intenzivního programu profesního rozvoje v GenAI
-- [[ai-tpack-teacher-multi-agent-workflow]]: Modelování AI-TPACK prostřednictvím pracovních postupů učitele s více agenty
-- [[teacher-ai-teaming-five-levels]]: K synergickým interakcím učitele a AI
-- [[teacher-education-ai-literacy-sdt-2026]]: Vzdělávání učitelů pro gramotnost v oblasti AI prostřednictvím teorie sebeurčení
-- [[genai-literacy-training-teacher-education-dbr-2026]]: Školení gramotnosti v GenAI založené na designovém výzkumu
-- [[rail-ed-genai-literacy-teacher-education]]: Nové pojetí gramotnosti v GenAI ve vzdělávání učitelů
-- [[sec-ai-literacy-narrative-review-2026]]: Integrace sociálně-emocionálních kompetencí s gramotností v oblasti AI
-- [[teacher-ai-adoption-confidence]]: Přijetí AI učiteli: jistota a podpora
-- [[ai-pedagogical-orientation]]: Orientace akademických pracovníků utvářejí přijetí AI
-- [[ai-literacy-assessment-misalignment]]: Nesoulad mezi sebevýpovědí a kompetencí v oblasti AI založenou na výkonu
-- [[quest-ai-inquiry-preservice-teachers]]: Zkoumání podporované AI pro budoucí učitele
-- [[sangwa-epiq-ai-faculty-readiness-2026]]: Rámec připravenosti akademických pracovníků EPIQ-AI
-- [[llm-cultural-relevance-k12]]: LLM pro kulturně relevantní pedagogiku K-12
-- [[institutional-change-framework-ai]]: Rámec institucionální změny pro AI
-- [[teachingcoach-chatbot-instructor-guidance]]: Chatbot TeachingCoach pro vedení vyučujících
-- [[laidlaw-genai-identity-crisis-faculty-2026]]: GenAI jako krize identity, nikoli mezera v dovednostech
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Učitelé označili své vlastní výukové případy AI a snadno dosáhli praktických kompetencí, zatímco společenských a etických jen zřídka (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Volba nástroje jako projev agenturnosti vzdělavatele
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematický přehled generativní AI ve výuce a učení K-12 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Profesní znalosti učitelů v AI vzdělávání K-12: TAIK versus TPAIK a učení studentů (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Vzorce interakce učitele a AI při návrhu výuky napříč zkušeností a zdatností v AI (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Odpovědné používání GenAI budoucími učiteli: důsledky pro kurikulum (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — Pozorování výuky pomocí LLM pro profesní rozvoj učitelů (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generativní AI napříč reprezentacemi, dekompozicemi a aproximacemi: nácvik, strukturovaná zpětná vazba a varování ohledně přesnosti
+- [[genai-pd-ai-pck-learning-gain-2026]] — Účinnost intenzivního programu profesního rozvoje v GenAI
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modelování AI-TPACK prostřednictvím pracovních postupů učitele s více agenty
+- [[teacher-ai-teaming-five-levels]] — K synergickým interakcím učitele a AI
+- [[teacher-education-ai-literacy-sdt-2026]] — Vzdělávání učitelů pro gramotnost v oblasti AI prostřednictvím teorie sebeurčení
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Školení gramotnosti v GenAI založené na designovém výzkumu
+- [[rail-ed-genai-literacy-teacher-education]] — Nové pojetí gramotnosti v GenAI ve vzdělávání učitelů
+- [[sec-ai-literacy-narrative-review-2026]] — Integrace sociálně-emocionálních kompetencí s gramotností v oblasti AI
+- [[teacher-ai-adoption-confidence]] — Přijetí AI učiteli: jistota a podpora
+- [[ai-pedagogical-orientation]] — Orientace akademických pracovníků utvářejí přijetí AI
+- [[ai-literacy-assessment-misalignment]] — Nesoulad mezi sebevýpovědí a kompetencí v oblasti AI založenou na výkonu
+- [[quest-ai-inquiry-preservice-teachers]] — Zkoumání podporované AI pro budoucí učitele
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — Rámec připravenosti akademických pracovníků EPIQ-AI
+- [[llm-cultural-relevance-k12]] — LLM pro kulturně relevantní pedagogiku K-12
+- [[institutional-change-framework-ai]] — Rámec institucionální změny pro AI
+- [[teachingcoach-chatbot-instructor-guidance]] — Chatbot TeachingCoach pro vedení vyučujících
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI jako krize identity, nikoli mezera v dovednostech
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]]: Hodnocení digitální kompetence učitelů pro návrh kurikula s GenAI (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]]: fenomenografická studie pojetí AI u vysokoškolských učitelů
-- [[ukraine-ai-literacy-secondary-framework-2026]]: Pětistupňový rámec gramotnosti v oblasti AI a profesní rozvoj pro ukrajinské pedagogy středních škol (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]]: Kodesign výukových úloh učitelem a AI: trendy a perspektivy (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]]: Architektura rolí v diferencovaných skupinových aktivitách navržených AI (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Hodnocení digitální kompetence učitelů pro návrh kurikula s GenAI (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — fenomenografická studie pojetí AI u vysokoškolských učitelů
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Pětistupňový rámec gramotnosti v oblasti AI a profesní rozvoj pro ukrajinské pedagogy středních škol (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Kodesign výukových úloh učitelem a AI: trendy a perspektivy (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura rolí v diferencovaných skupinových aktivitách navržených AI (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]]: Prompt engineering a volba modelu jako prediktory kvality zpětné vazby od AI (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]]: Komplex viny z AI: anticipační vina a čtyři profily morální reakce u akademických pracovníků (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]]: Tříhodinové sezení profesního rozvoje zvýšilo vnímanou užitečnost a snadnost použití, ale nikoli deklarovaný záměr přijmout (Mesenhöller a Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]]: Systematický přehled AI v prezenčním vzdělávání učitelů matematiky na prvním stupni: etika řešena jen ve třech z jedenácti studií (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]]: Průzkum AAC&U/Elon mezi 1 057 americkými pedagogy: připravenost, nepoužívání a mezera mezi individuální a institucionální politikou (Watson a Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]]: Mezinstitucionální kolaboratoř akademických pracovníků: integrace AI jako návrh výuky v přípravě učitelů
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]]: Systematický přehled 33 nástrojů pro měření gramotnosti učitelů v oblasti AI: 31 sebevýpovědí, dva objektivní testy znalostí, žádné výkonové úlohy (Zainal, Mohd Matore a Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]]: Designový adaptivní model gramotnosti v oblasti AI a dvacetipoložkový reflektivní dotazník spolunavržený s 22 vzdělavateli učitelů (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]]: Série workshopů pro účinné používání AI v nejistých časech: budování komunity učení fyzikálních kateder
-- [[authentic-assessments-generative-ai-pilot-2026]]: Navrhování autentických hodnocení s generativní AI: pilotní studie Assessment Authentifire ve vysokoškolském vzdělávání
-- [[teachers-configure-educational-chatbots-2026]]: Bude učit tak, jak bylo zamýšleno? Jak učitelé konfigurují vzdělávací chatboty AI
-- [[capability-decision-model-teacher-readiness-2026]]: Uspořádaný model připravenosti učitelů s prioritou schopnosti a ukazateli schopnosti založenými na výkonu
-- [[k12-teachers-genai-beliefs-five-countries-2026]]: Mezinárodní průzkum mezi 1 405 učiteli K-12: připravenost předpovídá pozitivní přesvědčení, ale ne obavy
-- [[teachers-ai-belief-profiles-talis-2024-2026]]: Čtyři profily přesvědčení učitelů z TALIS 2024 spojují profesní učení a překážky používání AI specifické pro profil
-- [[microlearning-ai-modules-vocational-teacher-education-2026]]: Navrhování mikroučebních modulů o AI pro vysokoškolské učitele v odborném vzdělávání učitelů: studie designového výzkumu
-- [[eduwild-teacher-configured-chatbots-failures-2026]]: EduWild: Jak chatboty konfigurované učiteli selhávají v reálném používání a jak je opravit
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering a volba modelu jako prediktory kvality zpětné vazby od AI (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Komplex viny z AI: anticipační vina a čtyři profily morální reakce u akademických pracovníků (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Tříhodinové sezení profesního rozvoje zvýšilo vnímanou užitečnost a snadnost použití, ale nikoli deklarovaný záměr přijmout (Mesenhöller a Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematický přehled AI v prezenčním vzdělávání učitelů matematiky na prvním stupni: etika řešena jen ve třech z jedenácti studií (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Průzkum AAC&U/Elon mezi 1 057 americkými pedagogy: připravenost, nepoužívání a mezera mezi individuální a institucionální politikou (Watson a Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Mezinstitucionální kolaboratoř akademických pracovníků: integrace AI jako návrh výuky v přípravě učitelů
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematický přehled 33 nástrojů pro měření gramotnosti učitelů v oblasti AI: 31 sebevýpovědí, dva objektivní testy znalostí, žádné výkonové úlohy (Zainal, Mohd Matore a Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Designový adaptivní model gramotnosti v oblasti AI a dvacetipoložkový reflektivní dotazník spolunavržený s 22 vzdělavateli učitelů (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — Série workshopů pro účinné používání AI v nejistých časech: budování komunity učení fyzikálních kateder
+- [[authentic-assessments-generative-ai-pilot-2026]] — Navrhování autentických hodnocení s generativní AI: pilotní studie Assessment Authentifire ve vysokoškolském vzdělávání
+- [[teachers-configure-educational-chatbots-2026]] — Bude učit tak, jak bylo zamýšleno? Jak učitelé konfigurují vzdělávací chatboty AI
+- [[capability-decision-model-teacher-readiness-2026]] — Uspořádaný model připravenosti učitelů s prioritou schopnosti a ukazateli schopnosti založenými na výkonu
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Mezinárodní průzkum mezi 1 405 učiteli K-12: připravenost předpovídá pozitivní přesvědčení, ale ne obavy
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Čtyři profily přesvědčení učitelů z TALIS 2024 spojují profesní učení a překážky používání AI specifické pro profil
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Navrhování mikroučebních modulů o AI pro vysokoškolské učitele v odborném vzdělávání učitelů: studie designového výzkumu
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Jak chatboty konfigurované učiteli selhávají v reálném používání a jak je opravit

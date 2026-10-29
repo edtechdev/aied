@@ -194,45 +194,45 @@ Aceeași logică transformă modelarea recompensei într-un instrument de design
 - [[cognitive-surrender]]
 
 ## Articole conexe
-- [[ai-proof-learning-cognitive-offloading-2026]] - Sprijinirea sau înlocuirea raționamentului studenților? Descărcarea cognitivă în învățarea demonstrațiilor asistate de IA (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Ce nu arată predarea: complexificarea descărcării cognitive în munca matematică a studenților cu LLM-uri (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consens al 30 de experți pe 65 de procese de învățare: descărcarea la ambele capete ale secvenței de învățare
-- [[rented-self-decoupling-performance-becoming-2026]] - Sinele închiriat: descărcarea care costă sinele de domeniu al învățăcelului, nu doar deprinderea
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Grupuri pornite la fel au divergat: 74,1% preluare a modelului într-un profil, față de 80,8% descărcare și impas în altul (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Asistența IA a redus persistența și performanța neasistată în trei RCT-uri (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT ca cârjă cognitivă: un studiu randomizat controlat despre reținerea cunoștințelor după 45 de zile (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - De la externalizarea cognitivă la realocare: analiză 3P a angajamentului student-GenAI în evaluări nesupravegheate (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Sprijinul pentru autonomie al familiei și școlii în folosirea responsabilă a IA generative de către copii
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Frecțiune în exces față de frecțiune benefică: de ce descărcarea prin IA diferă de instrumentele anterioare
-- [[thermomix-genai-education-analogy-2026]] - Cu un Thermomix îți pierzi capacitatea de a găti: o analogie cu mașina de bucătărie pentru IA generativă în educație (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - spălarea cognitivă: dinamica post-retragere a decăderii deprinderilor induse de IA
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - O sinteză narativă critică a angajamentului și dependenței în IA conversațională
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Descărcare cognitivă sensibilă la straturi în scrierea asistată de GenAI (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Dependența epistemică în învățarea mediată de IA: șase criterii diagnostice care separă dependența productivă de cea dăunătoare (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Descărcarea cognitivă către GenAI la studenții cu dificultăți de învățare
-- [[lodge-loble-cognitive-offloading-2026]] - IA, descărcarea cognitivă și implicațiile pentru educație
-- [[cognitive-offloading-metacognitive-review-2026]] - Perspective metacognitive asupra descărcării cognitive (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Antrenamentul metacognitiv facilitează descărcarea cognitivă optimă (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Paradoxul gândirii critice în învățarea integrată cu GenAI
-- [[cognitive-offloading-speedup-illusion]] - Iluzia accelerării în munca asistată de IA
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Analiză de rețea prin co-ocurență a tiparelor de prompturi
-- [[shaw-nave-cognitive-surrender-2026]] - Teoria celor trei sisteme și predarea responsabilității cognitive: cum remodelează IA raționamentul uman (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Continuumul predare-descărcare-agentivitate pentru GenAI
-- [[ai-making-us-stupid]] - Cercetarea despre efectele cognitive ale IA și deplasarea învățării
-- [[brcic-effortless-trap-productive-struggle-2026]] - Capcana fără efort: IA care înlocuiește munca cognitivă (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Folosirea necugetată a IA erodează învățarea autodirijată
-- [[generative-ai-guardrails-harm-learning]] - RCT-uri la matematică în liceu despre GenAI fără îngrădiri
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Penalitatea de învățare a IA generative: externalizarea temelor dăunează învățării
-- [[coach-not-crutch-ai-writing]] - IA poate însemna muncă mai puțină și învățare mai multă (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - A face tutoriatul cu IA productiv: exersare matematică bazată pe stăpânire
-- [[cognitive-commons-ai-expertise-regeneration]] - Tragedia bunurilor cognitive comune: IA și regenerarea expertizei
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: un instrument de autoreflecție care protejează confidențialitatea pentru descărcarea cognitivă asociată IA
-- [[chatgpt-writing-cognitive-impact-2026]] - un experiment de scriere pentru învățare în care scrierea asistată de ChatGPT a produs un câștig de cunoștințe mai mic decât un grup de control neasistat
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Tipare ale descărcării cognitive a studenților către IA în învățământul superior: dovezi naturaliste la nivel de mesaj ChatGPT (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Design împotriva deskilling-ului: feedbackul metacognitiv reduce descărcarea cognitivă către asistenții LLM
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Cogniția studenților tăi la programare cu ChatGPT: performanță mai mare, reținere mai mică și paternitate redusă
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Tendința de descărcare și alfabetizarea în verificare ca predictori ai rezultatelor de ordin superior prin autoreglare metacognitivă (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Un prompt de reflecție reduce acceptarea sfatului IA incorect și îmbunătățește calibrarea conștiinței (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Dependența de GenAI ca condiție-limită a dispoziției spre gândire critică și a angajabilității autopercepute (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Copiii au arătat o conectivitate frontoparietală, de saliență și de atenție dorsală mai slabă decât adulții în timp ce vorbeau cu ChatGPT, la scoruri de creativitate echivalente
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI și gândirea creativă a copiilor: supra-dependența și dependența de prompturi într-o revizuire de scop (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Sprijinirea sau înlocuirea raționamentului studenților? Descărcarea cognitivă în învățarea demonstrațiilor asistate de IA (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Ce nu arată predarea: complexificarea descărcării cognitive în munca matematică a studenților cu LLM-uri (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consens al 30 de experți pe 65 de procese de învățare: descărcarea la ambele capete ale secvenței de învățare
+- [[rented-self-decoupling-performance-becoming-2026]] — Sinele închiriat: descărcarea care costă sinele de domeniu al învățăcelului, nu doar deprinderea
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupuri pornite la fel au divergat: 74,1% preluare a modelului într-un profil, față de 80,8% descărcare și impas în altul (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Asistența IA a redus persistența și performanța neasistată în trei RCT-uri (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT ca cârjă cognitivă: un studiu randomizat controlat despre reținerea cunoștințelor după 45 de zile (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — De la externalizarea cognitivă la realocare: analiză 3P a angajamentului student-GenAI în evaluări nesupravegheate (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Sprijinul pentru autonomie al familiei și școlii în folosirea responsabilă a IA generative de către copii
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Frecțiune în exces față de frecțiune benefică: de ce descărcarea prin IA diferă de instrumentele anterioare
+- [[thermomix-genai-education-analogy-2026]] — Cu un Thermomix îți pierzi capacitatea de a găti: o analogie cu mașina de bucătărie pentru IA generativă în educație (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — spălarea cognitivă: dinamica post-retragere a decăderii deprinderilor induse de IA
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — O sinteză narativă critică a angajamentului și dependenței în IA conversațională
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Descărcare cognitivă sensibilă la straturi în scrierea asistată de GenAI (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Dependența epistemică în învățarea mediată de IA: șase criterii diagnostice care separă dependența productivă de cea dăunătoare (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Descărcarea cognitivă către GenAI la studenții cu dificultăți de învățare
+- [[lodge-loble-cognitive-offloading-2026]] — IA, descărcarea cognitivă și implicațiile pentru educație
+- [[cognitive-offloading-metacognitive-review-2026]] — Perspective metacognitive asupra descărcării cognitive (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Antrenamentul metacognitiv facilitează descărcarea cognitivă optimă (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Paradoxul gândirii critice în învățarea integrată cu GenAI
+- [[cognitive-offloading-speedup-illusion]] — Iluzia accelerării în munca asistată de IA
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Analiză de rețea prin co-ocurență a tiparelor de prompturi
+- [[shaw-nave-cognitive-surrender-2026]] — Teoria celor trei sisteme și predarea responsabilității cognitive: cum remodelează IA raționamentul uman (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Continuumul predare-descărcare-agentivitate pentru GenAI
+- [[ai-making-us-stupid]] — Cercetarea despre efectele cognitive ale IA și deplasarea învățării
+- [[brcic-effortless-trap-productive-struggle-2026]] — Capcana fără efort: IA care înlocuiește munca cognitivă (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Folosirea necugetată a IA erodează învățarea autodirijată
+- [[generative-ai-guardrails-harm-learning]] — RCT-uri la matematică în liceu despre GenAI fără îngrădiri
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalitatea de învățare a IA generative: externalizarea temelor dăunează învățării
+- [[coach-not-crutch-ai-writing]] — IA poate însemna muncă mai puțină și învățare mai multă (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — A face tutoriatul cu IA productiv: exersare matematică bazată pe stăpânire
+- [[cognitive-commons-ai-expertise-regeneration]] — Tragedia bunurilor cognitive comune: IA și regenerarea expertizei
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: un instrument de autoreflecție care protejează confidențialitatea pentru descărcarea cognitivă asociată IA
+- [[chatgpt-writing-cognitive-impact-2026]] — un experiment de scriere pentru învățare în care scrierea asistată de ChatGPT a produs un câștig de cunoștințe mai mic decât un grup de control neasistat
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Tipare ale descărcării cognitive a studenților către IA în învățământul superior: dovezi naturaliste la nivel de mesaj ChatGPT (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Design împotriva deskilling-ului: feedbackul metacognitiv reduce descărcarea cognitivă către asistenții LLM
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Cogniția studenților tăi la programare cu ChatGPT: performanță mai mare, reținere mai mică și paternitate redusă
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Tendința de descărcare și alfabetizarea în verificare ca predictori ai rezultatelor de ordin superior prin autoreglare metacognitivă (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Un prompt de reflecție reduce acceptarea sfatului IA incorect și îmbunătățește calibrarea conștiinței (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Dependența de GenAI ca condiție-limită a dispoziției spre gândire critică și a angajabilității autopercepute (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Copiii au arătat o conectivitate frontoparietală, de saliență și de atenție dorsală mai slabă decât adulții în timp ce vorbeau cu ChatGPT, la scoruri de creativitate echivalente
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI și gândirea creativă a copiilor: supra-dependența și dependența de prompturi într-o revizuire de scop (Niu et al. 2026)

@@ -1,5 +1,5 @@
 ---
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Jukwaa la Elimu ya Kidijitali
 created: "2026-10-13T05:52:00-04:00"
 connected_faqs: [designing-educational-ai-software]
@@ -10,7 +10,6 @@ technology: [adaptive-learning, generative-ai, llm, personalized-learning, edtec
 ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/edtech-platform
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

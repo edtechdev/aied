@@ -10,7 +10,6 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/limitations-in-aied-research
 source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

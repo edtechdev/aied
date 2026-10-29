@@ -166,57 +166,57 @@ Bản thân bối cảnh công cụ đo từ đó đã được tổng quan. [[a
 
 ## Bài viết liên quan
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Những giáo viên nào được lợi về thời gian lập kế hoạch: tự tin về tri thức chuyên ngành thấp hơn, tri thức sư phạm thấp hơn, mới vào nghề hoặc tự tin với công nghệ cao
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Giáo viên chấp nhận AI trong khi hiểu sai cách nó hoạt động (Aji và cộng sự 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Sự sẵn sàng của giáo viên và tích hợp công nghệ-sư phạm là thách thức được báo cáo thường xuyên nhất trên 54 nghiên cứu giáo dục toán học (Manto và cộng sự 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Năng lực đánh giá đa phương thức: một chương trình kéo dài một năm nơi kiến thức và năng lực dịch chuyển còn giá trị thì không
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Những giáo viên nào được lợi về thời gian lập kế hoạch: tự tin về tri thức chuyên ngành thấp hơn, tri thức sư phạm thấp hơn, mới vào nghề hoặc tự tin với công nghệ cao
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Giáo viên chấp nhận AI trong khi hiểu sai cách nó hoạt động (Aji và cộng sự 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Sự sẵn sàng của giáo viên và tích hợp công nghệ-sư phạm là thách thức được báo cáo thường xuyên nhất trên 54 nghiên cứu giáo dục toán học (Manto và cộng sự 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Năng lực đánh giá đa phương thức: một chương trình kéo dài một năm nơi kiến thức và năng lực dịch chuyển còn giá trị thì không
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Phát triển chuyên môn Intelligent-TPACK: nửa độ lệch chuẩn mức tăng, và những mức tăng âm được đọc như sự hiệu chỉnh lại - Tác động của các chương trình phát triển chuyên môn đối với năng lực AI của giáo viên K-12: một tổng quan hệ thống và phân tích tổng hợp
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Phát triển chuyên môn Intelligent-TPACK: nửa độ lệch chuẩn mức tăng, và những mức tăng âm được đọc như sự hiệu chỉnh lại - Tác động của các chương trình phát triển chuyên môn đối với năng lực AI của giáo viên K-12: một tổng quan hệ thống và phân tích tổng hợp
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - Giáo viên gắn nhãn các trường hợp AI trong lớp học của chính mình và đạt tới các năng lực thực tiễn một cách dễ dàng nhưng hiếm khi chạm tới các năng lực xã hội và đạo đức (Wang và cộng sự 2026)
-- [[typology-generative-ai-tools-education-2026]] - Chọn công cụ như một cách thực hiện quyền chủ động của nhà giáo dục
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - Tổng quan hệ thống về AI sinh tạo trong dạy và học K-12 (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - Tri thức nghề nghiệp của giáo viên trong giáo dục AI ở K-12: TAIK so với TPAIK và việc học của học sinh (Shen và cộng sự 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Các mẫu tương tác giữa giáo viên và AI trong thiết kế bài học theo kinh nghiệm và sự thành thạo AI (Choi và cộng sự 2026)
-- [[preservice-teachers-responsible-genai-2026]] - Việc sử dụng GenAI có trách nhiệm của giáo viên dự bị: hàm ý cho chương trình học (Kohnke và cộng sự 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - Quan sát lớp học bằng LLM cho phát triển chuyên môn của giáo viên (Melo và cộng sự 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - AI sinh tạo qua các biểu diễn, phân rã và xấp xỉ: tập dượt, phản hồi có cấu trúc và những cảnh báo về độ chính xác
-- [[genai-pd-ai-pck-learning-gain-2026]] - Hiệu lực của một chương trình phát triển chuyên môn GenAI chuyên sâu
-- [[ai-tpack-teacher-multi-agent-workflow]] - Mô hình hóa AI-TPACK qua các quy trình làm việc đa tác tử của giáo viên
-- [[teacher-ai-teaming-five-levels]] - Hướng tới những tương tác cộng hưởng giữa giáo viên và AI
-- [[teacher-education-ai-literacy-sdt-2026]] - Đào tạo giáo viên cho năng lực AI qua lý thuyết tự quyết
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Đào tạo năng lực GenAI theo nghiên cứu dựa trên thiết kế
-- [[rail-ed-genai-literacy-teacher-education]] - Suy nghĩ lại về năng lực GenAI trong đào tạo giáo viên
-- [[sec-ai-literacy-narrative-review-2026]] - Tích hợp năng lực xã hội-cảm xúc với năng lực AI
-- [[teacher-ai-adoption-confidence]] - Việc tiếp nhận AI ở giáo viên: sự tự tin và sự hỗ trợ
-- [[ai-pedagogical-orientation]] - Định hướng của giảng viên định hình việc tiếp nhận AI
-- [[ai-literacy-assessment-misalignment]] - Sự lệch pha giữa năng lực AI tự báo cáo và năng lực AI dựa trên hiệu năng
-- [[quest-ai-inquiry-preservice-teachers]] - Điều tra có AI hỗ trợ cho giáo viên dự bị
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - Khung sẵn sàng EPIQ-AI cho giảng viên
-- [[llm-cultural-relevance-k12]] - LLM cho sư phạm K-12 phù hợp văn hóa
-- [[institutional-change-framework-ai]] - Khung thay đổi thể chế cho AI
-- [[teachingcoach-chatbot-instructor-guidance]] - Chatbot TeachingCoach cho việc hướng dẫn giảng viên
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI như một khủng hoảng bản sắc, không phải một khoảng trống kỹ năng
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Giáo viên gắn nhãn các trường hợp AI trong lớp học của chính mình và đạt tới các năng lực thực tiễn một cách dễ dàng nhưng hiếm khi chạm tới các năng lực xã hội và đạo đức (Wang và cộng sự 2026)
+- [[typology-generative-ai-tools-education-2026]] — Chọn công cụ như một cách thực hiện quyền chủ động của nhà giáo dục
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Tổng quan hệ thống về AI sinh tạo trong dạy và học K-12 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Tri thức nghề nghiệp của giáo viên trong giáo dục AI ở K-12: TAIK so với TPAIK và việc học của học sinh (Shen và cộng sự 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Các mẫu tương tác giữa giáo viên và AI trong thiết kế bài học theo kinh nghiệm và sự thành thạo AI (Choi và cộng sự 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Việc sử dụng GenAI có trách nhiệm của giáo viên dự bị: hàm ý cho chương trình học (Kohnke và cộng sự 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — Quan sát lớp học bằng LLM cho phát triển chuyên môn của giáo viên (Melo và cộng sự 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI sinh tạo qua các biểu diễn, phân rã và xấp xỉ: tập dượt, phản hồi có cấu trúc và những cảnh báo về độ chính xác
+- [[genai-pd-ai-pck-learning-gain-2026]] — Hiệu lực của một chương trình phát triển chuyên môn GenAI chuyên sâu
+- [[ai-tpack-teacher-multi-agent-workflow]] — Mô hình hóa AI-TPACK qua các quy trình làm việc đa tác tử của giáo viên
+- [[teacher-ai-teaming-five-levels]] — Hướng tới những tương tác cộng hưởng giữa giáo viên và AI
+- [[teacher-education-ai-literacy-sdt-2026]] — Đào tạo giáo viên cho năng lực AI qua lý thuyết tự quyết
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Đào tạo năng lực GenAI theo nghiên cứu dựa trên thiết kế
+- [[rail-ed-genai-literacy-teacher-education]] — Suy nghĩ lại về năng lực GenAI trong đào tạo giáo viên
+- [[sec-ai-literacy-narrative-review-2026]] — Tích hợp năng lực xã hội-cảm xúc với năng lực AI
+- [[teacher-ai-adoption-confidence]] — Việc tiếp nhận AI ở giáo viên: sự tự tin và sự hỗ trợ
+- [[ai-pedagogical-orientation]] — Định hướng của giảng viên định hình việc tiếp nhận AI
+- [[ai-literacy-assessment-misalignment]] — Sự lệch pha giữa năng lực AI tự báo cáo và năng lực AI dựa trên hiệu năng
+- [[quest-ai-inquiry-preservice-teachers]] — Điều tra có AI hỗ trợ cho giáo viên dự bị
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — Khung sẵn sàng EPIQ-AI cho giảng viên
+- [[llm-cultural-relevance-k12]] — LLM cho sư phạm K-12 phù hợp văn hóa
+- [[institutional-change-framework-ai]] — Khung thay đổi thể chế cho AI
+- [[teachingcoach-chatbot-instructor-guidance]] — Chatbot TeachingCoach cho việc hướng dẫn giảng viên
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI như một khủng hoảng bản sắc, không phải một khoảng trống kỹ năng
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - Đánh giá năng lực số của giáo viên cho thiết kế chương trình GenAI (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - nghiên cứu hiện tượng học về quan niệm của giảng viên đại học về AI
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Khung năng lực AI năm cấp + phát triển chuyên môn cho nhà giáo dục trung học Ukraine (Marienko và cộng sự 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - Đồng thiết kế nhiệm vụ học tập giữa giáo viên và AI: xu hướng và triển vọng (Wang và cộng sự 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Đánh giá năng lực số của giáo viên cho thiết kế chương trình GenAI (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — nghiên cứu hiện tượng học về quan niệm của giảng viên đại học về AI
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Khung năng lực AI năm cấp + phát triển chuyên môn cho nhà giáo dục trung học Ukraine (Marienko và cộng sự 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Đồng thiết kế nhiệm vụ học tập giữa giáo viên và AI: xu hướng và triển vọng (Wang và cộng sự 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - Viết prompt và chọn mô hình như những yếu tố dự báo chất lượng phản hồi AI (Jacobsen và cộng sự 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Phức cảm Tội lỗi AI: tội lỗi dự báo trước và bốn hồ sơ phản ứng đạo đức ở đội ngũ học thuật (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - Một buổi phát triển chuyên môn ba giờ nâng tính hữu ích và tính dễ sử dụng được nhận thức nhưng không thay đổi ý định tiếp nhận được nêu ra (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - Tổng quan hệ thống về AI trong đào tạo giáo viên tiểu học dự bị dạy toán: đạo đức chỉ được đề cập trong ba trên mười một nghiên cứu (Pinto và cộng sự 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Khảo sát AAC&U/Elon với 1,057 giảng viên Hoa Kỳ: sự chuẩn bị, việc không sử dụng và khoảng cách chính sách giữa cá nhân và thể chế (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Phòng cộng tác giảng viên liên thể chế: tích hợp AI như thiết kế giảng dạy trong đào tạo giáo viên
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - Tổng quan hệ thống 33 công cụ đo năng lực AI của giáo viên: 31 thang tự báo cáo, hai bài kiểm tra kiến thức khách quan, không nhiệm vụ hiệu năng nào (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Một mô hình năng lực AI thích ứng dựa trên thiết kế và bảng hỏi phản tư 20 mục được đồng thiết kế với 22 nhà đào tạo giáo viên (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - Một chuỗi workshop về sử dụng AI hiệu quả trong thời đại bất định: xây dựng một cộng đồng học tập giảng viên vật lý
-- [[authentic-assessments-generative-ai-pilot-2026]] - Thiết kế đánh giá thực chất với AI sinh tạo: một nghiên cứu thí điểm về Assessment Authentifire trong giáo dục đại học
-- [[teachers-configure-educational-chatbots-2026]] - Liệu nó có dạy như dự định? Cách giáo viên cấu hình các chatbot AI giáo dục
-- [[capability-decision-model-teacher-readiness-2026]] - Mô hình sẵn sàng của giáo viên ưu tiên năng lực theo thứ tự, với các chỉ báo năng lực dựa trên hiệu năng
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Khảo sát xuyên quốc gia với 1,405 giáo viên K-12: sự sẵn sàng dự báo niềm tin tích cực nhưng không dự báo mối quan ngại
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Bốn hồ sơ niềm tin của giáo viên trong TALIS 2024 nối việc học nghề nghiệp và những trở ngại đặc thù theo hồ sơ đối với việc dùng AI
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - Thiết kế các mô-đun học tập vi mô về AI cho giáo viên đại học trong đào tạo giáo viên nghề: một nghiên cứu dựa trên thiết kế
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: các chatbot do giáo viên cấu hình thất bại thế nào trong sử dụng thực tế và cách sửa
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Viết prompt và chọn mô hình như những yếu tố dự báo chất lượng phản hồi AI (Jacobsen và cộng sự 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Phức cảm Tội lỗi AI: tội lỗi dự báo trước và bốn hồ sơ phản ứng đạo đức ở đội ngũ học thuật (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Một buổi phát triển chuyên môn ba giờ nâng tính hữu ích và tính dễ sử dụng được nhận thức nhưng không thay đổi ý định tiếp nhận được nêu ra (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Tổng quan hệ thống về AI trong đào tạo giáo viên tiểu học dự bị dạy toán: đạo đức chỉ được đề cập trong ba trên mười một nghiên cứu (Pinto và cộng sự 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Khảo sát AAC&U/Elon với 1,057 giảng viên Hoa Kỳ: sự chuẩn bị, việc không sử dụng và khoảng cách chính sách giữa cá nhân và thể chế (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Phòng cộng tác giảng viên liên thể chế: tích hợp AI như thiết kế giảng dạy trong đào tạo giáo viên
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Tổng quan hệ thống 33 công cụ đo năng lực AI của giáo viên: 31 thang tự báo cáo, hai bài kiểm tra kiến thức khách quan, không nhiệm vụ hiệu năng nào (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Một mô hình năng lực AI thích ứng dựa trên thiết kế và bảng hỏi phản tư 20 mục được đồng thiết kế với 22 nhà đào tạo giáo viên (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — Một chuỗi workshop về sử dụng AI hiệu quả trong thời đại bất định: xây dựng một cộng đồng học tập giảng viên vật lý
+- [[authentic-assessments-generative-ai-pilot-2026]] — Thiết kế đánh giá thực chất với AI sinh tạo: một nghiên cứu thí điểm về Assessment Authentifire trong giáo dục đại học
+- [[teachers-configure-educational-chatbots-2026]] — Liệu nó có dạy như dự định? Cách giáo viên cấu hình các chatbot AI giáo dục
+- [[capability-decision-model-teacher-readiness-2026]] — Mô hình sẵn sàng của giáo viên ưu tiên năng lực theo thứ tự, với các chỉ báo năng lực dựa trên hiệu năng
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Khảo sát xuyên quốc gia với 1,405 giáo viên K-12: sự sẵn sàng dự báo niềm tin tích cực nhưng không dự báo mối quan ngại
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Bốn hồ sơ niềm tin của giáo viên trong TALIS 2024 nối việc học nghề nghiệp và những trở ngại đặc thù theo hồ sơ đối với việc dùng AI
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Thiết kế các mô-đun học tập vi mô về AI cho giáo viên đại học trong đào tạo giáo viên nghề: một nghiên cứu dựa trên thiết kế
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: các chatbot do giáo viên cấu hình thất bại thế nào trong sử dụng thực tế và cách sửa

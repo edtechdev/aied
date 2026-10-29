@@ -10,7 +10,6 @@ discipline: [language learning, writing education]
 level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/writing-education
 source_updated: "2026-10-06T02:05:50-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

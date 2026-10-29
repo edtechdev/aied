@@ -7,7 +7,6 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-reviewed_by: [editor]
 translation_of: faqs/how-ai-impacts-students
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -18,6 +17,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
+
+*Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
 # Как ИИ влияет на студентов?
 

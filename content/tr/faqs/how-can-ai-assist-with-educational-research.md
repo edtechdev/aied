@@ -14,7 +14,6 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

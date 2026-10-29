@@ -198,43 +198,43 @@ Nghiên cứu đầu tiên về Lý thuyết Hành vi Có kế hoạch đối v�
 
 ## Bài viết liên quan
 
-- [[ivory-psychology-assessment-integrity-2026]] - Cả một chương trình tâm lý học có thể đạt với nỗ lực tối thiểu, và các tiêu chí chấm đã để nó lọt qua (Ivory và cộng sự 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Giáo viên tập sự từ chối GenAI dưới một chính sách dễ dãi; định khung "cái bẫy" và khoảng cách giữa khảo sát và khai báo
-- [[ai-agents-joyful-assessment-third-space-2026]] - AI tác tử, đánh giá vui vẻ, và không gian thứ ba
-- [[kumar-genai-computing-education-systematic-review-2026]] - Bằng chứng về phát hiện rất mỏng (3 nghiên cứu trong 72); thiết kế lại mới là phần gánh nặng
-- [[mccorkle-aligned-genai-course-policy-2025]] - Chính sách khóa học GenAI căn chỉnh: quyền được phép suy ra từ đánh giá, lý lẽ minh bạch (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Tạo biến thể đánh giá tương đương về cấu trúc (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Cách giảng viên quy định AI trên 31,000 đề cương khóa học; khung liêm chính đang giảm (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Sinh viên có thể gian lận để lấy bằng sinh học không? Một nghiên cứu trường hợp về tính dễ tổn thương của điểm số khóa học sinh học trước hành vi không trung thực học thuật trong thời đại AI sinh tạo
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Sinh viên không tuân thủ các bản khai báo sử dụng AI
-- [[detecting-llm-generated-text-latent-prompt]] - Phát hiện văn bản do LLM tạo
-- [[beyond-detection-authentic-assessment-ai-2025]] - Vượt qua phát hiện: đánh giá thực chất trong một thế giới có AI làm trung gian
-- [[ai-assessment-scale-reform]] - Thang đánh giá AI và cải cách đánh giá
-- [[authentic-products-authenticated-processes-2026]] - Từ sản phẩm thực chất đến quy trình được xác thực
-- [[student-rationalization-ai-writing]] - Không sao vì... Sự hợp lý hóa việc dùng AI của sinh viên
-- [[ethical-ai-higher-ed-game-theory]] - Khuôn khổ trò chơi phối hợp cho việc sử dụng AI có đạo đức
-- [[shame-guilt-ai-regulation-computing-education]] - Xấu hổ và tội lỗi như những bộ điều tiết xã hội của việc dùng AI
-- [[cross-cultural-student-perceptions-genai-computing]] - Alice có làm sai không? Nhận thức xuyên văn hóa về việc dùng AI
-- [[luo-dawson-value-judgments-grading-2026]] - Các phán đoán giá trị trong việc chấm công việc có GenAI hỗ trợ: trung thực, tin cậy, tính hợp lệ và minh bạch hai chiều (Luo & Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Trách nhiệm giải trình bạn học và tính nguyên bản trong đánh giá nhóm có GenAI làm trung gian
-- [[teichmann-detecting-undetectable-misconduct-2026]] - Sự sụp đổ chứng cứ của phát hiện và lập luận cho công lý thủ tục, tính tương xứng và thiết kế
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Răn đe, khai báo và thiết kế lại như một vấn đề thiết kế đánh giá dưới thông tin không hoàn hảo
-- [[munoz-misconduct-allegation-evidence-2026]] - 1,162 hồ sơ vi phạm GenAI thực sự dựa trên chứng cứ gì, và ngưỡng chứng cứ còn thiếu
-- [[wright-transcription-not-generation-2026]] - Các quy tắc AI bao trùm quá mức và sự phân biệt chép lời so với tạo sinh
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Gian lận kỹ thuật số dựa trên AI và các sư phạm đạo đức hướng phòng ngừa: vụ vi phạm từ 183 xuống 27 và năm thiết kế lại đặc thù ngành học (Leaton Gray, Edsall & Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Liêm chính như một vấn đề quản trị: một khuôn khổ 130 chỉ báo cho các nhà quản trị học thuật (Coates, Croucher & Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Tổng quan phạm vi 38 nghiên cứu về tiếng nói sinh viên giáo dục đại học về liêm chính học thuật và GenAI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Vẽ ranh giới giữa hỗ trợ và thay thế cho người viết EAL, và sự bất công của các quy tắc bỏ qua nền tảng ngôn ngữ (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Prompt injection nhắm vào việc chấm điểm có AI làm trung gian: các chỉ dẫn ẩn làm thay đổi điểm mà không bị phát hiện (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - Ma trận Đạo đức Sử dụng AI: tuân thủ lo âu, và vì sao chỉ sự rõ ràng có thể đẩy sinh viên vào né tránh hiệu quả (Petricini & Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Chấm dấu vết lập luận khi AI tác tử có thể hoàn thành bài tập (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Bài luận tuyển sinh do AI viết phổ biến nhưng bị trừng phạt
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Ai hành động, ai biết, ai trả lời? Một phân tích diễn ngôn có hỗ trợ ngữ liệu về quyền chủ động, trách nhiệm nhận thức luận và trách nhiệm giải trình trong nghiên cứu giáo dục đại học về AI sinh tạo
+- [[ivory-psychology-assessment-integrity-2026]] — Cả một chương trình tâm lý học có thể đạt với nỗ lực tối thiểu, và các tiêu chí chấm đã để nó lọt qua (Ivory và cộng sự 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Giáo viên tập sự từ chối GenAI dưới một chính sách dễ dãi; định khung "cái bẫy" và khoảng cách giữa khảo sát và khai báo
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI tác tử, đánh giá vui vẻ, và không gian thứ ba
+- [[kumar-genai-computing-education-systematic-review-2026]] — Bằng chứng về phát hiện rất mỏng (3 nghiên cứu trong 72); thiết kế lại mới là phần gánh nặng
+- [[mccorkle-aligned-genai-course-policy-2025]] — Chính sách khóa học GenAI căn chỉnh: quyền được phép suy ra từ đánh giá, lý lẽ minh bạch (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Tạo biến thể đánh giá tương đương về cấu trúc (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Cách giảng viên quy định AI trên 31,000 đề cương khóa học; khung liêm chính đang giảm (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Sinh viên có thể gian lận để lấy bằng sinh học không? Một nghiên cứu trường hợp về tính dễ tổn thương của điểm số khóa học sinh học trước hành vi không trung thực học thuật trong thời đại AI sinh tạo
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Sinh viên không tuân thủ các bản khai báo sử dụng AI
+- [[detecting-llm-generated-text-latent-prompt]] — Phát hiện văn bản do LLM tạo
+- [[beyond-detection-authentic-assessment-ai-2025]] — Vượt qua phát hiện: đánh giá thực chất trong một thế giới có AI làm trung gian
+- [[ai-assessment-scale-reform]] — Thang đánh giá AI và cải cách đánh giá
+- [[authentic-products-authenticated-processes-2026]] — Từ sản phẩm thực chất đến quy trình được xác thực
+- [[student-rationalization-ai-writing]] — Không sao vì... Sự hợp lý hóa việc dùng AI của sinh viên
+- [[ethical-ai-higher-ed-game-theory]] — Khuôn khổ trò chơi phối hợp cho việc sử dụng AI có đạo đức
+- [[shame-guilt-ai-regulation-computing-education]] — Xấu hổ và tội lỗi như những bộ điều tiết xã hội của việc dùng AI
+- [[cross-cultural-student-perceptions-genai-computing]] — Alice có làm sai không? Nhận thức xuyên văn hóa về việc dùng AI
+- [[luo-dawson-value-judgments-grading-2026]] — Các phán đoán giá trị trong việc chấm công việc có GenAI hỗ trợ: trung thực, tin cậy, tính hợp lệ và minh bạch hai chiều (Luo & Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Trách nhiệm giải trình bạn học và tính nguyên bản trong đánh giá nhóm có GenAI làm trung gian
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Sự sụp đổ chứng cứ của phát hiện và lập luận cho công lý thủ tục, tính tương xứng và thiết kế
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Răn đe, khai báo và thiết kế lại như một vấn đề thiết kế đánh giá dưới thông tin không hoàn hảo
+- [[munoz-misconduct-allegation-evidence-2026]] — 1,162 hồ sơ vi phạm GenAI thực sự dựa trên chứng cứ gì, và ngưỡng chứng cứ còn thiếu
+- [[wright-transcription-not-generation-2026]] — Các quy tắc AI bao trùm quá mức và sự phân biệt chép lời so với tạo sinh
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Gian lận kỹ thuật số dựa trên AI và các sư phạm đạo đức hướng phòng ngừa: vụ vi phạm từ 183 xuống 27 và năm thiết kế lại đặc thù ngành học (Leaton Gray, Edsall & Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Liêm chính như một vấn đề quản trị: một khuôn khổ 130 chỉ báo cho các nhà quản trị học thuật (Coates, Croucher & Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Tổng quan phạm vi 38 nghiên cứu về tiếng nói sinh viên giáo dục đại học về liêm chính học thuật và GenAI (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Vẽ ranh giới giữa hỗ trợ và thay thế cho người viết EAL, và sự bất công của các quy tắc bỏ qua nền tảng ngôn ngữ (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection nhắm vào việc chấm điểm có AI làm trung gian: các chỉ dẫn ẩn làm thay đổi điểm mà không bị phát hiện (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Ma trận Đạo đức Sử dụng AI: tuân thủ lo âu, và vì sao chỉ sự rõ ràng có thể đẩy sinh viên vào né tránh hiệu quả (Petricini & Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Chấm dấu vết lập luận khi AI tác tử có thể hoàn thành bài tập (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Bài luận tuyển sinh do AI viết phổ biến nhưng bị trừng phạt
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Ai hành động, ai biết, ai trả lời? Một phân tích diễn ngôn có hỗ trợ ngữ liệu về quyền chủ động, trách nhiệm nhận thức luận và trách nhiệm giải trình trong nghiên cứu giáo dục đại học về AI sinh tạo
 
-- [[genai-governance-australian-higher-ed-2026]] - Lập bản đồ ranh giới được phép: một nghiên cứu so sánh chính sách và tình huống về quản trị AI sinh tạo trong giáo dục đại học Úc
-- [[argus-academic-integrity-genai-2026]] - Argus: Liêm chính học thuật trong thời đại AI sinh tạo
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Kiểm toán ngành: các trường có lệnh cải cách và các trường có khuôn khổ không khác nhau về mức phơi bày của đánh giá, đối tác thực nghiệm cho vấn đề phối hợp
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - Dự báo sớm rủi ro gian lận có AI hỗ trợ từ dấu vết LMS, được định khung như hướng dẫn học thuật chứ không phải bằng chứng vi phạm
-- [[reddit-genai-education-discourse-analysis-2026]] - Ba năm rưỡi Reddit giáo dục: thực thi chiếm ưu thế, và các tranh chấp liêm chính là diễn đàn chính giữa giảng viên và sinh viên (Yüce và cộng sự 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Thí nghiệm khảo sát: cách định khung "thay thế" đối với việc dùng AI của sinh viên phạt các ứng viên GPA cao trong tuyển dụng và lương; kiểm tra trực tiếp là biện pháp duy nhất cả hai nhóm chọn
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: Hướng tới một giao diện đọc dễ đọc với con người và kháng máy
+- [[genai-governance-australian-higher-ed-2026]] — Lập bản đồ ranh giới được phép: một nghiên cứu so sánh chính sách và tình huống về quản trị AI sinh tạo trong giáo dục đại học Úc
+- [[argus-academic-integrity-genai-2026]] — Argus: Liêm chính học thuật trong thời đại AI sinh tạo
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Kiểm toán ngành: các trường có lệnh cải cách và các trường có khuôn khổ không khác nhau về mức phơi bày của đánh giá, đối tác thực nghiệm cho vấn đề phối hợp
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - Dự báo sớm rủi ro gian lận có AI hỗ trợ từ dấu vết LMS, được định khung như hướng dẫn học thuật chứ không phải bằng chứng vi phạm
+- [[reddit-genai-education-discourse-analysis-2026]] — Ba năm rưỡi Reddit giáo dục: thực thi chiếm ưu thế, và các tranh chấp liêm chính là diễn đàn chính giữa giảng viên và sinh viên (Yüce và cộng sự 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Thí nghiệm khảo sát: cách định khung "thay thế" đối với việc dùng AI của sinh viên phạt các ứng viên GPA cao trong tuyển dụng và lương; kiểm tra trực tiếp là biện pháp duy nhất cả hai nhóm chọn
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Hướng tới một giao diện đọc dễ đọc với con người và kháng máy

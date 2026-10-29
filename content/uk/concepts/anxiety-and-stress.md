@@ -10,7 +10,6 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: concepts/anxiety-and-stress
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -129,7 +128,7 @@ ai_assist:
 - [[social-norms-ai-use]] — афективна ціна видимості
 
 ## Пов’язані статті
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Компетентність підвищує етичну свідомість, етична свідомість підвищує тривожність через ШІ: опосередкування лише непряме серед 584 студентів
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Компетентність підвищує етичну свідомість, етична свідомість підвищує тривожність через ШІ: опосередкування лише непряме серед 584 студентів
 - [[ai-anxiety-strategic-regulation-writing-2026]] — Тривожність через ШІ як продуктивний сигнал стратегічної регуляції
 - [[aivaluate-anxiety-assessment-2026]] — Тривожність студентів в оцінюванні на основі виконання, опосередкованому ШІ
 - [[ai-campus-wellbeing-tools]] — Інструменти на основі ШІ для кампусного добробуту

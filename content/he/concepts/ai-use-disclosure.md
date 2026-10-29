@@ -10,7 +10,6 @@ connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-unde
 level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/ai-use-disclosure
 source_updated: "2026-10-04T16:22:53-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

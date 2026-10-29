@@ -252,4 +252,4 @@ ai_assist:
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — 从信息提供者到学习设计者：人工智能增强教育中的自导式（heutagogical）教学实践
 - [[falhs-teacher-expertise-reflection-2025]] — 专长水平如何塑造偏好与反思需求：迈向赋能教师的 AI 反思系统（Falhs 等 2025）
 - [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
-- [[ai-use-teacher-performance-north-sumatra-2026]] - AI 使用对教师绩效没有直接效应；公民行为中介了它（Sherly 等，2027）
+- [[ai-use-teacher-performance-north-sumatra-2026]] — AI 使用对教师绩效没有直接效应；公民行为中介了它（Sherly 等，2027）

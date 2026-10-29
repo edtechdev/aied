@@ -131,7 +131,7 @@ AI는 안심이 아니라 학습 목표를 진전시킴으로써 학업 불안�
 
 ## 연결된 문서
 
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 역량이 윤리 인식을 높이고, 윤리 인식이 AI 불안을 높인다: 584명의 학생들 사이의 간접 전용 매개
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 역량이 윤리 인식을 높이고, 윤리 인식이 AI 불안을 높인다: 584명의 학생들 사이의 간접 전용 매개
 - [[ai-anxiety-strategic-regulation-writing-2026]] — 생산적 전략적 조절 신호로서의 AI 불안
 - [[aivaluate-anxiety-assessment-2026]] — AI 매개 성과 기반 평가에서의 학생 불안
 - [[ai-campus-wellbeing-tools]] — 캠퍼스 웰니스를 위한 AI 기반 도구

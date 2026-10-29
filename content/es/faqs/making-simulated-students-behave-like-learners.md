@@ -16,7 +16,6 @@ ethics: [pedagogical-safety, trust-calibration]
 source_updated: "2026-10-28T11:26:02-04:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

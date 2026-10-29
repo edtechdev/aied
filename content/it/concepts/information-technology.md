@@ -10,7 +10,6 @@ audience: [administrators, curriculum designers, instructional designers, instru
 level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
-reviewed_by: [editor]
 translation_of: concepts/information-technology
 source_updated: "2026-09-17T14:06:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

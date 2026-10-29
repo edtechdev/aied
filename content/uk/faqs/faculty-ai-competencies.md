@@ -6,7 +6,6 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: faqs/faculty-ai-competencies
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -17,6 +16,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
+
+*Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
 # What Competencies Do Faculty Need in Regard to AI?
 

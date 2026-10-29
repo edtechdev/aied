@@ -11,7 +11,6 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: "concepts/agentic-ai"
 source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

@@ -114,20 +114,20 @@ Studenci są też ramowani przez szersze media i dyskurs publiczny wokół [[ai-
 - [[misconceptions]]
 
 ## Połączone artykuły
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 ekspertów co do sekwencji: przyswajaj bez generatywnej SI, utrwalaj z nią, potem myśl samodzielnie
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 ekspertów co do sekwencji: przyswajaj bez generatywnej SI, utrwalaj z nią, potem myśl samodzielnie
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Przejrzyste uzasadnienie każdego dozwolonego i niedozwolonego użycia generatywnej SI, zadanie po zadaniu (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - Zachęcanie do odpowiedniego używania generatywnej SI, a nie potępianie jej jako zakłócenia
-- [[student-rationalization-ai-writing]] - „Pięć miejsc", w których studenci racjonalizują użycie SI w pisaniu akademickim
-- [[student-regulatory-awareness-genai]] - Znajomość zasad nie wystarcza: świadomość regulacyjna a faktyczne użycie
-- [[ai-anxiety-strategic-regulation-writing-2026]] - Od lęku wobec SI do strategicznej regulacji
-- [[chatgpt-inoculation-training-verification-2026]] - Komunikaty uodparniające a zachowania weryfikacyjne
-- [[ai-fallibility-warning-help-seeking]] - Ostrzeżenie o omylności SI zwiększa poszukiwanie pomocy
-- [[shame-guilt-ai-regulation-computing-education]] - Wstyd i poczucie winy jako społeczne regulatory korzystania z SI
-- [[access-not-enough-ai-tutoring-2026]] - Ludzkie wsparcie poprawia zaangażowanie w korepetycje SI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - Zaangażowanie w generatywną SI oparte na teorii samostanowienia
-- [[ai-availability-student-motivation]] - Jak dostępność SI kształtuje motywację studentów
-- [[youtube-frames-chatgpt-education]] - Jak YouTube ramuje użycie ChatGPT w edukacji
-- [[ai-ethics-education-public-discourse]] - Dyskurs publiczny o etyce SI w edukacji
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Nauczyciele ramują SI jako krytyczne/odpowiedzialne użycie; pracodawcy jako produktywność
-- [[ssaho-ai-academic-integrity-review-2025]] - Budowanie kultury uczciwości akademickiej przez jasne oczekiwania
+- [[mccorkle-aligned-genai-course-policy-2025]] — Przejrzyste uzasadnienie każdego dozwolonego i niedozwolonego użycia generatywnej SI, zadanie po zadaniu (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Zachęcanie do odpowiedniego używania generatywnej SI, a nie potępianie jej jako zakłócenia
+- [[student-rationalization-ai-writing]] — „Pięć miejsc", w których studenci racjonalizują użycie SI w pisaniu akademickim
+- [[student-regulatory-awareness-genai]] — Znajomość zasad nie wystarcza: świadomość regulacyjna a faktyczne użycie
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Od lęku wobec SI do strategicznej regulacji
+- [[chatgpt-inoculation-training-verification-2026]] — Komunikaty uodparniające a zachowania weryfikacyjne
+- [[ai-fallibility-warning-help-seeking]] — Ostrzeżenie o omylności SI zwiększa poszukiwanie pomocy
+- [[shame-guilt-ai-regulation-computing-education]] — Wstyd i poczucie winy jako społeczne regulatory korzystania z SI
+- [[access-not-enough-ai-tutoring-2026]] — Ludzkie wsparcie poprawia zaangażowanie w korepetycje SI
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Zaangażowanie w generatywną SI oparte na teorii samostanowienia
+- [[ai-availability-student-motivation]] — Jak dostępność SI kształtuje motywację studentów
+- [[youtube-frames-chatgpt-education]] — Jak YouTube ramuje użycie ChatGPT w edukacji
+- [[ai-ethics-education-public-discourse]] — Dyskurs publiczny o etyce SI w edukacji
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Nauczyciele ramują SI jako krytyczne/odpowiedzialne użycie; pracodawcy jako produktywność
+- [[ssaho-ai-academic-integrity-review-2025]] — Budowanie kultury uczciwości akademickiej przez jasne oczekiwania

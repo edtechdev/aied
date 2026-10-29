@@ -142,13 +142,13 @@ Itseluottamus ja lukutaito eivät ole keskenään vaihdettavia tavoitteita: 502 
 - [[stakeholders]] - katto: ihmiset ja yleisöt tekoälykoulutuksessa (oppijat, opettajat, suunnittelijat, hallinnoijat, päättäjät)
 
 ## Liittyvät artikkelit
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Kriittinen diskurssianalyysi generatiivisen tekoälyn linjausohjeista: kehittäjät uudelleenkehystettyinä teknologiakouluttajiksi
-- [[crompton-faculty-technology-integration-standards-2026]] - Opettajastandardit teknologian integroinnille (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Tekoälyn eettiset ulottuvuudet: opettajien ja opiskelijoiden näkemykset
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kriittinen diskurssianalyysi generatiivisen tekoälyn linjausohjeista: kehittäjät uudelleenkehystettyinä teknologiakouluttajiksi
+- [[crompton-faculty-technology-integration-standards-2026]] — Opettajastandardit teknologian integroinnille (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Tekoälyn eettiset ulottuvuudet: opettajien ja opiskelijoiden näkemykset
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Miten insinöörialan opettajien metaforat rakentavat (ja rajoittavat) tekoälyn ymmärtämistä
-- [[fear-awe-genai-metaphor-workshops-2025]] - Pelko ja kunnioitus: generatiivisen tekoälyn ymmärtäminen metaforien kautta (opettajien, henkilökunnan ja opiskelijoiden metaforatyöpaja)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Näkymättömän hallinta: kieltenopettajien tekoälylukutaito
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Miten insinöörialan opettajien metaforat rakentavat (ja rajoittavat) tekoälyn ymmärtämistä
+- [[fear-awe-genai-metaphor-workshops-2025]] — Pelko ja kunnioitus: generatiivisen tekoälyn ymmärtäminen metaforien kautta (opettajien, henkilökunnan ja opiskelijoiden metaforatyöpaja)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Näkymättömän hallinta: kieltenopettajien tekoälylukutaito
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Itseluottamus ja lukutaito eivät ole keskenään vaihdettavia tavoitteita: 502 
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - Generatiivinen tekoäly identiteettikriisinä, ei taitoaukkona
-- [[zuo-instructor-power-genai-writing-2026]] - Yliopisto-opettajien kokemat valtasuhteet heidän painiskellessaan generatiivisen tekoälyn kanssa kirjoittamisessa (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflective Triangle -malli: tekoäly kognitiivisena välittäjänä
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Opettajien itse koettu TPACK-21-tietämys generatiivisesta tekoälystä (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-ammatillinen kehittäminen: osallistuminen ennustaa kehitystä, itse koettu osallistuminen ei
-- [[instructional-design-proficiency-masters-math-2026]] - Älyluokkamalli ja D-T-E-silmukka matematiikan maisterikurssin opetussuunnittelun osaamisen parantamisessa (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytyneissä ryhmätoiminnoissa (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Yliopisto-opettajien kokemukset ja käsitykset generatiivisesta tekoälystä: haavoittuvuus, arvioinnin uudelleenajattelu, uhattu opiskelijoiden oppiminen (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Pelosta innovaatioon: kuuden viikon opettajainstituutti, symbioottinen pedagogiikka ja institutionaaliset edellytykset, joita se ei voinut tarjota
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Tekoälysyyllisyyden kompleksi: ennakoiva syyllisyys, salaaminen ja uravaiheiden erot akateemisessa henkilöstössä (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U:n ja Elonin kysely 1 057 yhdysvaltalaiselle opettajalle: institutionaalinen valmistautumattomuus, ohut hallinto ja 87 %:n ja 48 %:n politiikkakuilu (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akateemiset kehittäjät digitaalisina välittäjinä eteläisen pallonpuoliskon korkeakoulutuksessa: kehittäminen sosioteknisenä praxiksena
-- [[physics-faculty-learning-community-ai-2026]] - Työpajasarja tekoälyn tehokkaasta käytöstä epävarmoina aikoina: fysiikan opettajien oppimisyhteisön rakentaminen
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generatiivinen tekoäly identiteettikriisinä, ei taitoaukkona
+- [[zuo-instructor-power-genai-writing-2026]] — Yliopisto-opettajien kokemat valtasuhteet heidän painiskellessaan generatiivisen tekoälyn kanssa kirjoittamisessa (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle -malli: tekoäly kognitiivisena välittäjänä
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Opettajien itse koettu TPACK-21-tietämys generatiivisesta tekoälystä (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-ammatillinen kehittäminen: osallistuminen ennustaa kehitystä, itse koettu osallistuminen ei
+- [[instructional-design-proficiency-masters-math-2026]] — Älyluokkamalli ja D-T-E-silmukka matematiikan maisterikurssin opetussuunnittelun osaamisen parantamisessa (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytyneissä ryhmätoiminnoissa (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Yliopisto-opettajien kokemukset ja käsitykset generatiivisesta tekoälystä: haavoittuvuus, arvioinnin uudelleenajattelu, uhattu opiskelijoiden oppiminen (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Pelosta innovaatioon: kuuden viikon opettajainstituutti, symbioottinen pedagogiikka ja institutionaaliset edellytykset, joita se ei voinut tarjota
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Tekoälysyyllisyyden kompleksi: ennakoiva syyllisyys, salaaminen ja uravaiheiden erot akateemisessa henkilöstössä (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U:n ja Elonin kysely 1 057 yhdysvaltalaiselle opettajalle: institutionaalinen valmistautumattomuus, ohut hallinto ja 87 %:n ja 48 %:n politiikkakuilu (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akateemiset kehittäjät digitaalisina välittäjinä eteläisen pallonpuoliskon korkeakoulutuksessa: kehittäminen sosioteknisenä praxiksena
+- [[physics-faculty-learning-community-ai-2026]] — Työpajasarja tekoälyn tehokkaasta käytöstä epävarmoina aikoina: fysiikan opettajien oppimisyhteisön rakentaminen
 
-- [[faculty-ai-well-being-social-supports-2026]] - Opettajien tekoälyhyvinvointi seuraa tekoälylukutaitoa eikä teknologista itsetehokkuutta
-- [[ai-competence-framework-landscape-2026]] - Tarkista, mitä viitekehyksen tasot kuvaavat, ennen kuin otat sen käyttöön
+- [[faculty-ai-well-being-social-supports-2026]] — Opettajien tekoälyhyvinvointi seuraa tekoälylukutaitoa eikä teknologista itsetehokkuutta
+- [[ai-competence-framework-landscape-2026]] — Tarkista, mitä viitekehyksen tasot kuvaavat, ennen kuin otat sen käyttöön

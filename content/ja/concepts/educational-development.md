@@ -171,4 +171,4 @@ AI の[[professional-training|専門職的な開発]]を計画する教員開発
 - [[physics-faculty-learning-community-ai-2026]] — 不確実な時代における AI の効果的な利用のためのワークショップ連続講義:物理学の教員学習共同体を築く
 
 - [[faculty-ai-well-being-social-supports-2026]] — 教員の AI の安寧は技術的な自己効力感ではなく AI リテラシーを追う
-- [[ai-competence-framework-landscape-2026]] - 採用する前に、フレームワークの水準が何を説明しているかを確認する
+- [[ai-competence-framework-landscape-2026]] — 採用する前に、フレームワークの水準が何を説明しているかを確認する

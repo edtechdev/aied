@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -114,7 +113,7 @@ ai_assist:
 - [[misconceptions]]
 
 ## المقالات المرتبطة
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - إجماع ثلاثين خبيرًا على التسلسل: اقتنع بلا الجيل التوليدي، ودعّمه به، ثم فكّر بنفسك
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — إجماع ثلاثين خبيرًا على التسلسل: اقتنع بلا الجيل التوليدي، ودعّمه به، ثم فكّر بنفسك
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — تبرير شفاف لكل استخدام مسموح وغير مسموح للجيل التوليدي، مهمة بمهمة (ماكوركل 2025)
 - [[moral-panic-genai-classroom]] — تشجيع الاستخدام الملائم للجيل التوليدي بدلًا من إدانته كاضطراب

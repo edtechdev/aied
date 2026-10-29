@@ -11,7 +11,6 @@ ethics: [ai-use-disclosure, trust, equity-in-ai-education, privacy, ai-misuse-le
 audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: concepts/social-norms-ai-use
 source_updated: "2026-10-07T08:00:00-04:00"

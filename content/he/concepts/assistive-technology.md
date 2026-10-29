@@ -7,7 +7,6 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/assistive-technology
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

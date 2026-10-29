@@ -157,9 +157,9 @@ A paisagem de instrumentos foi, desde então, revisada. A [[assessing-teachers-a
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
 
 ## Artigos conectados
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Quais professores ganharam tempo de planejamento: menor confiança no conhecimento da disciplina, menor conhecimento pedagógico, mais novos na profissão ou alta confiança com tecnologia
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Professores aceitam a IA e compreendem mal como ela funciona (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Prontidão docente e integração tecnológico-pedagógica como o desafio mais relatado em 54 estudos de educação matemática (Manto et al. 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Quais professores ganharam tempo de planejamento: menor confiança no conhecimento da disciplina, menor conhecimento pedagógico, mais novos na profissão ou alta confiança com tecnologia
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Professores aceitam a IA e compreendem mal como ela funciona (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Prontidão docente e integração tecnológico-pedagógica como o desafio mais relatado em 54 estudos de educação matemática (Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Letramento em avaliação multimodal: um programa de um ano em que conhecimento e competência se moveram e valores não
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — DP de Intelligent-TPACK: meio desvio-padrão de ganho, e ganhos negativos que leem como recalibração — O impacto dos programas de desenvolvimento profissional sobre o letramento em IA de professores do K-12: uma revisão sistemática e meta-análise
@@ -213,4 +213,4 @@ A paisagem de instrumentos foi, desde então, revisada. A [[assessing-teachers-a
 - **O microlearning pode desenvolver a competência em IA de professores universitários.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] refinou dois módulos de [[vocational-education|educação profissional]] ao longo de duas discussões de grupo on-line em cinco princípios de desenho: estrutura e orientação claras, apoio à orientação e à navegação, segmentação e modularização, apresentação multimodal e ativação de quem aprende; ele constatou que a navegação na plataforma e a localização dos módulos eram as principais barreiras práticas.
 - [[educational-development]]
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: como chatbots configurados por professores falham no uso real e como corrigi-los
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: como chatbots configurados por professores falham no uso real e como corrigi-los

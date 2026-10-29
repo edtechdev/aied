@@ -6,7 +6,6 @@ type: faq
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

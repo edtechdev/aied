@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/ethics
 source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -110,7 +109,7 @@ ai_assist:
 - [[biology-education]] — Освіта з біології та ШІ: лабораторні асистенти викладача, ШІ-грамотність у біології, критичне мислення, спеціалізовані інструменти
 
 ## Пов’язані статті
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Етична усвідомленість посилювала тривожність щодо ШІ там, де не викладалися рамка подолання: посередництво лише непряме серед 584 студентів
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Етична усвідомленість посилювала тривожність щодо ШІ там, де не викладалися рамка подолання: посередництво лише непряме серед 584 студентів
 - [[learning-analytics-to-educational-interventions-2026]] — Від аналітики навчання до освітніх втручань: умовники заслуговуючих довіри втручань на основі LA (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Як студенти використовують і приховують ШІ в онлайн-оцінюванні
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Розкриття використання ШІ студентами, стигма і саморегульоване навчання

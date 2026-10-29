@@ -10,7 +10,6 @@ institutions: [governance, educational-policy-ai]
 audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/librarians
 source_updated: "2026-09-20T12:40:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

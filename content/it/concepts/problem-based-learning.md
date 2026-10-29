@@ -8,7 +8,6 @@ technology: [generative-ai]
 discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/problem-based-learning
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

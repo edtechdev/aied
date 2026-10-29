@@ -117,31 +117,31 @@ Pârghiile educative arată din nou diferit odată ce integritatea este tratată
 - [[cognitive-surrender]]
 
 ## Articole conectate
-- [[ivory-psychology-assessment-integrity-2026]] - Trasee de dovezi prin controlul versiunilor și documente de analiză reproductibile ca descurajare a utilizării greșite (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Reținerea unei recomandări a prevenit în mare măsură supra-dependența fără a construi judecata pe care o protejează
-- [[generative-ai-guardrails-harm-learning]] - GenAI fără garduri de siguranță poate dăuna învățării
-- [[genai-performance-vs-learning]] - Distincția dintre câștigurile de performanță și învățare
-- [[ai-assessment-scale-reform]] - Scala de evaluare cu IA și reforma evaluării
-- [[critical-thinking-genai-scaffolding]] - Sprijin de tip schelă pentru gândirea critică cu IA generativă
-- [[aaai2026-prompting-literacy-k12]] - Învățarea folosirii IA pentru învățare (modul de alfabetizare în IA pentru K-12)
-- [[genai-declaration-frameworks-higher-education]] - Structurarea transparenței: cadre de declarare GenAI
-- [[absent-cognitive-baseline-2026]] - Linia de bază cognitivă absentă
-- [[ai-literacy-power-knowledge]] - Alfabetizarea în IA: un exercițiu de putere-cunoaștere
-- [[contextual-sycophancy-ai-literacy]] - Costul ascuns al servilității contextuale: o intervenție de alfabetizare în IA
-- [[sycophantic-ai-social-interaction-2026]] - IA servilă face interacțiunea umană mai solicitantă și mai puțin satisfăcătoare în timp
-- [[ssaho-ai-academic-integrity-review-2025]] - Construirea culturii și reconceperea evaluării, în locul supravegherii prin detecție
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Predarea cognitivă, frecarea productivă și inechitatea metacognitivă
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] - Reconsiderarea examenelor orale ca evaluare autentică, rezistentă la IA
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Pedeapsa de învățare a IA generative: externalizarea temelor dăunează învățării
-- [[ai-overreliance-complex-adaptive-system-2026]] - Supra-dependența de IA modelată ca sistem adaptiv complex
-- [[burneo-can-edtech-close-learning-gaps-2026]] - Gardurile de siguranță au eliminat prejudiciul fără a îmbunătăți scorurile la examen
-- [[munoz-misconduct-allegation-evidence-2026]] - Ce conțin de fapt ca probe dosarele de acuzare a abaterilor
-- [[wright-transcription-not-generation-2026]] - Reguli prea cuprinzătoare privind IA și studenții pe care îi prind
-- [[sharma-judgment-visible-genai-assessment-2026]] - Integritatea ca judecată evaluativă, nu ca conformare
-- [[mulisa-students-genai-integrity-perspectives-2026]] - Studenții despre GenAI ca instrument de trișare sau partener de învățare
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] - Ce face supravegherea la distanță studenților și echității
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Prevenirea situațională a crimei împotriva trișării facilitate de IA: de la 183 la 27 de cazuri și cinci reconceperi specifice disciplinelor (Leaton Gray, Edsall și Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Ce recomandă 38 de studii ale vocilor studenților: claritate co-creată și raționament educativ, în locul detecției (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Unde se termină sprijinul lingvistic și începe substituirea pentru cei care scriu în engleză ca limbă suplimentară (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Injectarea de prompturi ca vector de utilizare greșită împotriva notării cu IA (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] - Guvernanța ca constrângere determinantă a integrității: un cadru de 130 de indicatori (Coates, Croucher și Calderon 2025)
+- [[ivory-psychology-assessment-integrity-2026]] — Trasee de dovezi prin controlul versiunilor și documente de analiză reproductibile ca descurajare a utilizării greșite (Ivory et al. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Reținerea unei recomandări a prevenit în mare măsură supra-dependența fără a construi judecata pe care o protejează
+- [[generative-ai-guardrails-harm-learning]] — GenAI fără garduri de siguranță poate dăuna învățării
+- [[genai-performance-vs-learning]] — Distincția dintre câștigurile de performanță și învățare
+- [[ai-assessment-scale-reform]] — Scala de evaluare cu IA și reforma evaluării
+- [[critical-thinking-genai-scaffolding]] — Sprijin de tip schelă pentru gândirea critică cu IA generativă
+- [[aaai2026-prompting-literacy-k12]] — Învățarea folosirii IA pentru învățare (modul de alfabetizare în IA pentru K-12)
+- [[genai-declaration-frameworks-higher-education]] — Structurarea transparenței: cadre de declarare GenAI
+- [[absent-cognitive-baseline-2026]] — Linia de bază cognitivă absentă
+- [[ai-literacy-power-knowledge]] — Alfabetizarea în IA: un exercițiu de putere-cunoaștere
+- [[contextual-sycophancy-ai-literacy]] — Costul ascuns al servilității contextuale: o intervenție de alfabetizare în IA
+- [[sycophantic-ai-social-interaction-2026]] — IA servilă face interacțiunea umană mai solicitantă și mai puțin satisfăcătoare în timp
+- [[ssaho-ai-academic-integrity-review-2025]] — Construirea culturii și reconceperea evaluării, în locul supravegherii prin detecție
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Predarea cognitivă, frecarea productivă și inechitatea metacognitivă
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsiderarea examenelor orale ca evaluare autentică, rezistentă la IA
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Pedeapsa de învățare a IA generative: externalizarea temelor dăunează învățării
+- [[ai-overreliance-complex-adaptive-system-2026]] — Supra-dependența de IA modelată ca sistem adaptiv complex
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Gardurile de siguranță au eliminat prejudiciul fără a îmbunătăți scorurile la examen
+- [[munoz-misconduct-allegation-evidence-2026]] — Ce conțin de fapt ca probe dosarele de acuzare a abaterilor
+- [[wright-transcription-not-generation-2026]] — Reguli prea cuprinzătoare privind IA și studenții pe care îi prind
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integritatea ca judecată evaluativă, nu ca conformare
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Studenții despre GenAI ca instrument de trișare sau partener de învățare
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Ce face supravegherea la distanță studenților și echității
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Prevenirea situațională a crimei împotriva trișării facilitate de IA: de la 183 la 27 de cazuri și cinci reconceperi specifice disciplinelor (Leaton Gray, Edsall și Parapadakis 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Ce recomandă 38 de studii ale vocilor studenților: claritate co-creată și raționament educativ, în locul detecției (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Unde se termină sprijinul lingvistic și începe substituirea pentru cei care scriu în engleză ca limbă suplimentară (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injectarea de prompturi ca vector de utilizare greșită împotriva notării cu IA (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — Guvernanța ca constrângere determinantă a integrității: un cadru de 130 de indicatori (Coates, Croucher și Calderon 2025)

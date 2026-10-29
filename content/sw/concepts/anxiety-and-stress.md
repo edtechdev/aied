@@ -10,7 +10,6 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: concepts/anxiety-and-stress
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -137,7 +136,7 @@ Upande mzuri: mifumo ya AI inazidi kugundua na kusaidia kupunguza mkazo na wasiw
 
 ## Makala Zilizounganishwa
 
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Uwezo huongeza ufahamu wa maadili, ufahamu wa maadili huongeza wasiwasi wa AI: upatanishi wa ishara tu miongoni mwa wanafunzi 584
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Uwezo huongeza ufahamu wa maadili, ufahamu wa maadili huongeza wasiwasi wa AI: upatanishi wa ishara tu miongoni mwa wanafunzi 584
 - [[ai-anxiety-strategic-regulation-writing-2026]] — Wasiwasi wa AI kama ishara ya udhibiti wa kimkakati yenye tija
 - [[aivaluate-anxiety-assessment-2026]] — Wasiwasi wa wanafunzi katika tathmini inayotegemea utendaji inayosimamiwa na AI
 - [[ai-campus-wellbeing-tools]] — Zana zinazoendeshwa na AI kwa ustawi wa chuo

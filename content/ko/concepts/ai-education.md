@@ -179,31 +179,31 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 
 ## 연결된 개념
 
-- [[ai-literacy]]: AI를 이해하고, 사용하고, 평가하기 위한 상위 개념
-- [[human-ai-collaboration]]: 사람과 AI가 함께 일하는 방식에 대한 상위 개념
-- [[pedagogy]]: 교수 방법과 전략에 대한 상위 개념
-- [[learning-theories]]: 학습이 이루어지는 방식에 대한 상위 개념
-- [[ai-technologies]]: 모델, 기법, 시스템에 대한 상위 개념
-- [[discipline-specific-aied]]: 여러 교과 영역과 수준을 아우르는 AI에 대한 상위 개념
-- [[assessment]]: AI가 학습자를 평가하고 타당성을 재편하는 방식에 대한 상위 개념
-- [[feedback]]: 피드백이 생성되고 전달되고 활용되는 방식에 대한 상위 개념
-- [[stakeholders]]: 행위자가 누구인지에 대한 상위 개념
-- [[learners]]: 학습자 측 개념(경험, 정체성, 주체성, 상호작용, 학습자 모델)에 대한 상위 개념
-- [[ai-ed-evaluation]]: AI가 효과가 있는지 우리가 어떻게 아는지에 대한 상위 개념
-- [[research-methods-aied]]: 효과 연구 방법에 대한 상위 개념
-- [[governance]]: 제도와 규제 층위에 대한 상위 개념
-- [[educational-policy-ai]]: 정책, 지침, 실행에 대한 상위 개념
-- [[equity-in-ai-education]]: 공정성, 접근성, 포용에 대한 상위 개념
-- [[learning-sciences]]: AIED의 바탕이 되는 경험적 분야
-- [[ethics]]: 교육에서의 인공지능의 윤리적 차원
-- [[misconceptions]]: 사람들이 AI에 대해 품는 심적 모형
-- [[interpreting-and-applying-aied-research]]: 연구 한 편을 읽고 그 결과를 실천으로 옮기기
-- [[limitations-in-aied-research]]: 근거 기반의 교차적 한계
-- [[meta-analysis-systematic-review]]: 리뷰와 메타분석이 확립하는 것
-- [[history-of-aied]]: 이 분야가 진화해 온 방식
-- [[philosophy-of-ai-in-education]]: 철학적 토대
-- [[theories-and-frameworks]]: 이론과 프레임워크 노드의 지도
-- [[theory-development-aied]]: 이론을 세우고 수정하기
+- [[ai-literacy]] — AI를 이해하고, 사용하고, 평가하기 위한 상위 개념
+- [[human-ai-collaboration]] — 사람과 AI가 함께 일하는 방식에 대한 상위 개념
+- [[pedagogy]] — 교수 방법과 전략에 대한 상위 개념
+- [[learning-theories]] — 학습이 이루어지는 방식에 대한 상위 개념
+- [[ai-technologies]] — 모델, 기법, 시스템에 대한 상위 개념
+- [[discipline-specific-aied]] — 여러 교과 영역과 수준을 아우르는 AI에 대한 상위 개념
+- [[assessment]] — AI가 학습자를 평가하고 타당성을 재편하는 방식에 대한 상위 개념
+- [[feedback]] — 피드백이 생성되고 전달되고 활용되는 방식에 대한 상위 개념
+- [[stakeholders]] — 행위자가 누구인지에 대한 상위 개념
+- [[learners]] — 학습자 측 개념(경험, 정체성, 주체성, 상호작용, 학습자 모델)에 대한 상위 개념
+- [[ai-ed-evaluation]] — AI가 효과가 있는지 우리가 어떻게 아는지에 대한 상위 개념
+- [[research-methods-aied]] — 효과 연구 방법에 대한 상위 개념
+- [[governance]] — 제도와 규제 층위에 대한 상위 개념
+- [[educational-policy-ai]] — 정책, 지침, 실행에 대한 상위 개념
+- [[equity-in-ai-education]] — 공정성, 접근성, 포용에 대한 상위 개념
+- [[learning-sciences]] — AIED의 바탕이 되는 경험적 분야
+- [[ethics]] — 교육에서의 인공지능의 윤리적 차원
+- [[misconceptions]] — 사람들이 AI에 대해 품는 심적 모형
+- [[interpreting-and-applying-aied-research]] — 연구 한 편을 읽고 그 결과를 실천으로 옮기기
+- [[limitations-in-aied-research]] — 근거 기반의 교차적 한계
+- [[meta-analysis-systematic-review]] — 리뷰와 메타분석이 확립하는 것
+- [[history-of-aied]] — 이 분야가 진화해 온 방식
+- [[philosophy-of-ai-in-education]] — 철학적 토대
+- [[theories-and-frameworks]] — 이론과 프레임워크 노드의 지도
+- [[theory-development-aied]] — 이론을 세우고 수정하기
 - [[pedagogical-patterns]] — 교육학적 패턴: 해당 분야 교수법을 구현하는 검증된 순차
 - [[ai-assisted-educational-research]] — AI 지원 교육 연구
 
@@ -211,8 +211,8 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 
 교육에서의 인공지능을 분야 전체 차원에서 검토한 연구들입니다. 하나의 주제가 아니라 분야 전체나 하나의 교육 수준을 훑는 연구입니다.
 
-- [[rismanchian-ai-education-four-decades-aixed-2026]]: The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]]: Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]]: Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]]: The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
+- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
+- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis

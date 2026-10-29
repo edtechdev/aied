@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
@@ -251,7 +250,7 @@ Konkrétně pro kritickou gramotnost v oblasti AI ukazují [[solyst-youth-system
 ## Související články
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Utváření raného dětství v éře AI: kompetence, pedagogika a ekologická podpora (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Bezpečnostní gramotnost v oblasti AI: ekosystémový rámec kompetencí a výuková platforma pro K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Zvyšování etické dimenze gramotnosti bez rámce zvládání může zanechat studenty úzkostnější
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Zvyšování etické dimenze gramotnosti bez rámce zvládání může zanechat studenty úzkostnější
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validovaných rámců ukazuje, že AI rozšiřuje digitální gramotnost směrem k etice, zatímco spolupráce člověka a AI specifická pro pedagogy zůstává nedostatečně specifikována (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Šest oblastí kompetencí, pět hodnot a tři úrovně progrese pro veřejnoprávní média
 - [[ai-literacy-heptagon-2026]] — AI Literacy Heptagon

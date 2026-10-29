@@ -10,7 +10,7 @@ audience: [administrators, instructors, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]
-connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development]
+connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
 source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"

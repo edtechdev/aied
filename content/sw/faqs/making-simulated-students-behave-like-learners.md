@@ -12,7 +12,6 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
 source_updated: "2026-10-22T09:11:45-04:00"

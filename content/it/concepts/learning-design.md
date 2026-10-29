@@ -9,8 +9,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
-reviewed_by: [editor]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision
@@ -142,7 +141,7 @@ Fowlin et al. (2026) aggiungono una mossa operativa per decidere dove entra l'IA
 
 ## Articoli collegati
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Un risparmio misurato di tempo di pianificazione accanto al risultato che i docenti pianificano da zero solo dal 21% al 40% delle lezioni
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un risparmio misurato di tempo di pianificazione accanto al risultato che i docenti pianificano da zero solo dal 21% al 40% delle lezioni
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)

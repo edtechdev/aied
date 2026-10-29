@@ -17,7 +17,6 @@ level: [k 12, higher ed]
 audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -25,6 +24,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: resources/teacherserver
+source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 ---
 

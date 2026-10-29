@@ -8,7 +8,6 @@ connected_faqs: [reporting-interpreting-aied-research, checking-whether-educatio
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
-reviewed_by: [editor]
 translation_of: concepts/benchmark
 source_updated: "2026-10-09T09:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

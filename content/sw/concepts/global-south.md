@@ -7,7 +7,6 @@ technology: [generative-ai]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/global-south
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

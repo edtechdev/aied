@@ -32,7 +32,6 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-reviewed_by: [editor]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

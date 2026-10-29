@@ -5,7 +5,6 @@ type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
-reviewed_by: [editor]
 translation_of: "concepts/qualitative-research"
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

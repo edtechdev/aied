@@ -8,7 +8,6 @@ pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/reducing-ai-misuse
 source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

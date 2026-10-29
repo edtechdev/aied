@@ -205,52 +205,52 @@ Důkazy podporují konkrétní pořadí kroků pro vyučujícího, který AI zav
 
 ## Související články
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Externí akademičtí pracovníci nesou práci pro integritu bez pravomoci
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] - Paradox více lidství: expertní scénáře pro rok 2030 zjišťují, že nasycení AI lidskou pedagogickou práci zesiluje, a ne vytlačuje (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] - Šest pozorovaných hodin středoškolské matematiky rozšiřuje instrumentální orchestraci o tři nové typy (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] - Reakce na emoční upozornění generovaná AI: intervence učitele a angažovanost studentů v hodině matematiky
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Externí akademičtí pracovníci nesou práci pro integritu bez pravomoci
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradox více lidství: expertní scénáře pro rok 2030 zjišťují, že nasycení AI lidskou pedagogickou práci zesiluje, a ne vytlačuje (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Šest pozorovaných hodin středoškolské matematiky rozšiřuje instrumentální orchestraci o tři nové typy (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Reakce na emoční upozornění generovaná AI: intervence učitele a angažovanost studentů v hodině matematiky
 
-- [[edustories-classroom-case-studies-2026]] - Edustories: sbírka případových studií z reálné praxe ve třídách
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] - Učitelé navrhují třídní chatboty jako ohraničené experty a zachovávají si autoritu
-- [[dai-genai-frenemy-teaching-autonomy-2026]] - Generativní AI jako „frenemy": učitelé preferují semautonomii, užitečnost řídí přijetí, averze k riziku se týká používání studenty (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] - Rozhodování přednášejících podporované AI ve vysokoškolském vzdělávání
-- [[chirikov-regulate-ai-syllabi-2026]] - Jak vyučující regulují AI ve více než 31 000 sylabech kurzů; regulace na úrovni úkolů (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] - Chování inovace výuky s AI u vysokoškolských učitelů (SEM AI-TPACK; Bai & Hsieh 2026)
+- [[edustories-classroom-case-studies-2026]] — Edustories: sbírka případových studií z reálné praxe ve třídách
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Učitelé navrhují třídní chatboty jako ohraničené experty a zachovávají si autoritu
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — Generativní AI jako „frenemy": učitelé preferují semautonomii, užitečnost řídí přijetí, averze k riziku se týká používání studenty (Dai et al. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — Rozhodování přednášejících podporované AI ve vysokoškolském vzdělávání
+- [[chirikov-regulate-ai-syllabi-2026]] — Jak vyučující regulují AI ve více než 31 000 sylabech kurzů; regulace na úrovni úkolů (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — Chování inovace výuky s AI u vysokoškolských učitelů (SEM AI-TPACK; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - Generativní AI jako identitní krize, ne mezera v dovednostech
-- [[lodge-loble-cognitive-offloading-2026]] - AI, kognitivní odklánění a důsledky pro vzdělávání (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI a praxe návrhu výuky: systematický přehled (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] - Dokáže AI poskytnout přiměřenou podporu různým profilům studentů? Hodnocení ve velkém měřítku
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Studenti duchové a agentní AI v hodnocení
-- [[wang-teacher-ai-co-design-review-2026]] - Spolunávrh výukových úkolů učitelem a AI: trendy a perspektivy (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Zkušenosti a vnímání generativní AI u vysokoškolských učitelů: zranitelnost, přehodnocování hodnocení, ohrožené učení studentů (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] - Hodnotové úsudky při známkování práce s asistencí generativní AI: poctivost, důvěra, validita a obousměrná transparentnost (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] - Zpřístupnění zjištění strojového učení učitelům ve smíšených třídách
-- [[li-language-educators-genai-review-2026]] - Praxe a rozvoj učitelů jazyků s generativní AI
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generativní AI jako identitní krize, ne mezera v dovednostech
+- [[lodge-loble-cognitive-offloading-2026]] — AI, kognitivní odklánění a důsledky pro vzdělávání (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI a praxe návrhu výuky: systematický přehled (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Dokáže AI poskytnout přiměřenou podporu různým profilům studentů? Hodnocení ve velkém měřítku
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Studenti duchové a agentní AI v hodnocení
+- [[wang-teacher-ai-co-design-review-2026]] — Spolunávrh výukových úkolů učitelem a AI: trendy a perspektivy (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Zkušenosti a vnímání generativní AI u vysokoškolských učitelů: zranitelnost, přehodnocování hodnocení, ohrožené učení studentů (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Hodnotové úsudky při známkování práce s asistencí generativní AI: poctivost, důvěra, validita a obousměrná transparentnost (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Zpřístupnění zjištění strojového učení učitelům ve smíšených třídách
+- [[li-language-educators-genai-review-2026]] — Praxe a rozvoj učitelů jazyků s generativní AI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] - Identitní napětí a zásadová selektivita ve výuce integrované s AI (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] - Intervence učitele ve výuce K-12 založené na AI: systematický přehled
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akademičtí rozvojoví pracovníci jako digitální mediátoři: rekonfigurace role, afektivní práce a úsudek na jihoafrických HDI
-- [[where-ai-enters-teacher-work-2026]] - Kde umělá inteligence vstupuje do práce učitele
-- [[rodrigues-aied-unplugged-numeracy-2026]] - AIED unplugged: učitel jako zástupce mezi studenty a AI, kvaziexperiment v 19 třídách, kde zisky řídí školení a nepřímé snížení úsilí (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] - Instruktážní řízení skrze design: rámec pro AI ve vzdělávání v informatice
+- [[ai-integrated-teaching-identity-tensions]] — Identitní napětí a zásadová selektivita ve výuce integrované s AI (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Intervence učitele ve výuce K-12 založené na AI: systematický přehled
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademičtí rozvojoví pracovníci jako digitální mediátoři: rekonfigurace role, afektivní práce a úsudek na jihoafrických HDI
+- [[where-ai-enters-teacher-work-2026]] — Kde umělá inteligence vstupuje do práce učitele
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: učitel jako zástupce mezi studenty a AI, kvaziexperiment v 19 třídách, kde zisky řídí školení a nepřímé snížení úsilí (Rodrigues et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instruktážní řízení skrze design: rámec pro AI ve vzdělávání v informatice
 
-- [[teachers-configure-educational-chatbots-2026]] - Bude učit, jak bylo zamýšleno? Jak učitelé konfigurují vzdělávací AI chatboty
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] - Zprostředkování učitelem v matematice: pět praktik kritického zprostředkování, posouvající se autorita a propast mezi bezplatným a placeným algoritmem
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] - Připravenost učitele skrze design: připravenost jako designová schopnost, ne přijetí nebo sebedůvěra (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] - Zpětná vazba učitele s asistencí ChatGPT: učitelé kurátorují návrhy AI, místo aby je předávali
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] - Od kompetence k agenturnosti: pohledy učitelů na účely vzdělávání v AI
-- [[kuhail-great-debaters-ai-facilitators-2026]] - Lidský versus AI moderátor debaty: ekvivalentní hodnocení, různé cesty k opětovnému použití
-- [[yalcin-genai-programming-education-systematic-review-2026]] - Generativní AI ve vzdělávání v programování: systematický přehled, v němž jsou role vyučujících nejméně zkoumané
-- [[heutagogical-teaching-ai-enhanced-education-2026]] - Od poskytovatelů informací k designérům učení: heutagogické výukové praktiky ve vzdělávání rozšířeném o AI
-- [[falhs-teacher-expertise-reflection-2025]] - Jak úroveň expertizy utváří preference a potřeby reflexe: k systémům reflexe AI pro posílení učitelů (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] - Konverzační AI diagnostika pro výukové mylné představy s dialogem zakotveným v důkazech (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - Používání AI nemělo přímý efekt na výkon učitele; zprostředkovalo jej občanské chování (Sherly et al. 2027)
+- [[teachers-configure-educational-chatbots-2026]] — Bude učit, jak bylo zamýšleno? Jak učitelé konfigurují vzdělávací AI chatboty
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Zprostředkování učitelem v matematice: pět praktik kritického zprostředkování, posouvající se autorita a propast mezi bezplatným a placeným algoritmem
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Připravenost učitele skrze design: připravenost jako designová schopnost, ne přijetí nebo sebedůvěra (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Zpětná vazba učitele s asistencí ChatGPT: učitelé kurátorují návrhy AI, místo aby je předávali
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Od kompetence k agenturnosti: pohledy učitelů na účely vzdělávání v AI
+- [[kuhail-great-debaters-ai-facilitators-2026]] — Lidský versus AI moderátor debaty: ekvivalentní hodnocení, různé cesty k opětovnému použití
+- [[yalcin-genai-programming-education-systematic-review-2026]] — Generativní AI ve vzdělávání v programování: systematický přehled, v němž jsou role vyučujících nejméně zkoumané
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Od poskytovatelů informací k designérům učení: heutagogické výukové praktiky ve vzdělávání rozšířeném o AI
+- [[falhs-teacher-expertise-reflection-2025]] — Jak úroveň expertizy utváří preference a potřeby reflexe: k systémům reflexe AI pro posílení učitelů (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Konverzační AI diagnostika pro výukové mylné představy s dialogem zakotveným v důkazech (Miranda & Calvani 2026)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — Používání AI nemělo přímý efekt na výkon učitele; zprostředkovalo jej občanské chování (Sherly et al. 2027)

@@ -136,14 +136,14 @@ Fowlin và cộng sự (2026) bổ sung một động thái vận hành để qu
 
 ## Bài viết liên quan
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Một khoản tiết kiệm thời gian lập kế hoạch được đo lường, đi kèm phát hiện rằng giáo viên chỉ lập kế hoạch từ đầu cho 21% đến 40% số bài học
-- [[powerful-learning-with-emerging-technology-2025]] - Học tập mạnh mẽ với công nghệ mới nổi
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Phân tích học tập và GenAI trong việc ra quyết định thiết kế học tập
-- [[tang-chatbots-learning-design-2026]] - Sử dụng chatbot trong thiết kế học tập: nhà thiết kế dừng lại ở kết quả học tập và sư phạm thay vì tạo nội dung (Tang và cộng sự 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Các mô thức tương tác giữa giáo viên và AI trong thiết kế bài học theo kinh nghiệm và mức thành thạo AI (Choi và cộng sự 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - AI trong giáo dục đại học: sự tham gia và vai trò trung gian của các phương pháp giảng dạy
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Một khoản tiết kiệm thời gian lập kế hoạch được đo lường, đi kèm phát hiện rằng giáo viên chỉ lập kế hoạch từ đầu cho 21% đến 40% số bài học
+- [[powerful-learning-with-emerging-technology-2025]] — Học tập mạnh mẽ với công nghệ mới nổi
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Phân tích học tập và GenAI trong việc ra quyết định thiết kế học tập
+- [[tang-chatbots-learning-design-2026]] — Sử dụng chatbot trong thiết kế học tập: nhà thiết kế dừng lại ở kết quả học tập và sư phạm thay vì tạo nội dung (Tang và cộng sự 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Các mô thức tương tác giữa giáo viên và AI trong thiết kế bài học theo kinh nghiệm và mức thành thạo AI (Choi và cộng sự 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI trong giáo dục đại học: sự tham gia và vai trò trung gian của các phương pháp giảng dạy
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Phân loại (đối tượng biên) để phân loại các hoạt động học tập với GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Phân loại (đối tượng biên) để phân loại các hoạt động học tập với GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin và cộng sự (2026) bổ sung một động thái vận hành để qu
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Tác tử web AI: tác tử web tự trị đánh giá các thiết kế bài học và dự báo việc sinh viên bỏ học trước khi sinh viên tham gia (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: một khuôn khổ cho việc tăng cường AI được kích hoạt về mặt nhận thức trong vật lý
+- [[ai-web-agents-lesson-design-2025]] — Tác tử web AI: tác tử web tự trị đánh giá các thiết kế bài học và dự báo việc sinh viên bỏ học trước khi sinh viên tham gia (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: một khuôn khổ cho việc tăng cường AI được kích hoạt về mặt nhận thức trong vật lý
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Thiết kế để với tới: bảy đòn bẩy và sinh viên một mình với AI
+- [[halani-designing-for-reach-2026]] — Thiết kế để với tới: bảy đòn bẩy và sinh viên một mình với AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Khi nói không tạo ra video tốt hơn: kiểm soát kép cho việc tạo nội dung AI có nền tảng sư phạm
-- [[rhaimi-productivemath-2025]] - ProductiveMath: AI hỗ trợ thiết kế bài toán thất bại sinh lợi
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI và thực tiễn thiết kế giảng dạy: một tổng quan hệ thống (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Gia sư thông minh dựa trên đồ thị cho các lĩnh vực động (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Làm cho AI trở nên khó chịu có chủ đích: sự ràng buộc trong viết có hỗ trợ AI (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Mô hình lớp học thông minh và vòng lặp D-T-E cải thiện năng lực thiết kế giảng dạy trong chương trình thạc sĩ giáo dục toán (Zhu và cộng sự 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Nền tảng được hỗ trợ bởi AI tạo các bài toán mô hình hóa (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Giáo viên và AI cùng thiết kế các nhiệm vụ học tập: xu hướng và góc nhìn (Wang và cộng sự 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM như những tác tử của thiết kế sư phạm lặp lại
+- [[ai-video-dual-gatekeeping-2026]] — Khi nói không tạo ra video tốt hơn: kiểm soát kép cho việc tạo nội dung AI có nền tảng sư phạm
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI hỗ trợ thiết kế bài toán thất bại sinh lợi
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI và thực tiễn thiết kế giảng dạy: một tổng quan hệ thống (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Gia sư thông minh dựa trên đồ thị cho các lĩnh vực động (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Làm cho AI trở nên khó chịu có chủ đích: sự ràng buộc trong viết có hỗ trợ AI (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Mô hình lớp học thông minh và vòng lặp D-T-E cải thiện năng lực thiết kế giảng dạy trong chương trình thạc sĩ giáo dục toán (Zhu và cộng sự 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Nền tảng được hỗ trợ bởi AI tạo các bài toán mô hình hóa (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Giáo viên và AI cùng thiết kế các nhiệm vụ học tập: xu hướng và góc nhìn (Wang và cộng sự 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM như những tác tử của thiết kế sư phạm lặp lại

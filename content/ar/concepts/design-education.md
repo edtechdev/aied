@@ -11,7 +11,6 @@ discipline: [design education]
 audience: [instructors, instructional designers, curriculum designers, faculty developers]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/design-education
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]

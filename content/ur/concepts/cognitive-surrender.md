@@ -127,16 +127,16 @@ ai_assist:
 
 ## منسلک مضامین
 
-- [[shaw-nave-cognitive-surrender-2026]] - سہ نظام نظریہ اور سپردگی کا تجرباتی دستخط
-- [[generative-ai-reduced-study-time-math]] - ALEKS میں آبادی کی سطح پر منقطعی
-- [[young-people-learning-generative-ai-rapid-review-2026]] - PreK-12 میں سپردگی/بوجھ اتارنا/خودآگہی کا فریم ورک
-- [[du-yuan-epistemic-dependence-2026]] - اوزاری بمقابلہ فیصلہ رکھنے والی معاونت
-- [[ai-advice-suppresses-ikt-suspension-2026]] - "مجھے نہیں معلوم" کا خاتمہ
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - عصبی مشغولیت اور ملکیت
-- [[genai-thoughtless-use-self-directed-learning-2026]] - بے سوچے استعمال اور خود ہدایت شدہ سیکھنا
-- [[stamatoulis-genai-use-patterns-2026]] - کم تصدیق والا اپنانا بمقابلہ جانچ پڑتال والا انضمام
-- [[cognitive-washout-ai-skill-decay-2026]] - واپسی کے بعد کیا ہوتا ہے
-- [[ai-overreliance-complex-adaptive-system-2026]] - انحصار بطور آبادیاتی عمل
-- [[brcic-effortless-trap-productive-struggle-2026]] - AI کو ایسے رکھنا کہ کام محنت طلب رہے
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - کیلبریشن تربیت
-- [[family-school-autonomy-support-genai-2026]] - منحصر بمقابلہ خود مختار بوجھ اتارنا
+- [[shaw-nave-cognitive-surrender-2026]] — سہ نظام نظریہ اور سپردگی کا تجرباتی دستخط
+- [[generative-ai-reduced-study-time-math]] — ALEKS میں آبادی کی سطح پر منقطعی
+- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12 میں سپردگی/بوجھ اتارنا/خودآگہی کا فریم ورک
+- [[du-yuan-epistemic-dependence-2026]] — اوزاری بمقابلہ فیصلہ رکھنے والی معاونت
+- [[ai-advice-suppresses-ikt-suspension-2026]] — "مجھے نہیں معلوم" کا خاتمہ
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — عصبی مشغولیت اور ملکیت
+- [[genai-thoughtless-use-self-directed-learning-2026]] — بے سوچے استعمال اور خود ہدایت شدہ سیکھنا
+- [[stamatoulis-genai-use-patterns-2026]] — کم تصدیق والا اپنانا بمقابلہ جانچ پڑتال والا انضمام
+- [[cognitive-washout-ai-skill-decay-2026]] — واپسی کے بعد کیا ہوتا ہے
+- [[ai-overreliance-complex-adaptive-system-2026]] — انحصار بطور آبادیاتی عمل
+- [[brcic-effortless-trap-productive-struggle-2026]] — AI کو ایسے رکھنا کہ کام محنت طلب رہے
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — کیلبریشن تربیت
+- [[family-school-autonomy-support-genai-2026]] — منحصر بمقابلہ خود مختار بوجھ اتارنا

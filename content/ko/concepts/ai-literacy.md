@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
@@ -250,7 +250,7 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 ## 연결된 문서
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI 시대의 유아기 형성: 역량, 교수법, 생태학적 지원 (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI 보안 리터러시: 생태계 기반 역량 프레임워크와 K-12 학습 플랫폼
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 대처 프레임워크 없이 리터러시의 윤리적 차원을 높이면 학생을 더 불안하게 남길 수 있습니다
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 대처 프레임워크 없이 리터러시의 윤리적 차원을 높이면 학생을 더 불안하게 남길 수 있습니다
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80개의 검증된 프레임워크가 보여주는 AI의 디지털 리터러시 확장, 그리고 덜 명시된 채 남는 교육자의 인간–AI 협업 (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — 공영 미디어를 위한 여섯 역량 영역, 다섯 가치, 세 진행 수준
 - [[ai-literacy-heptagon-2026]] — AI 리터러시 헵타곤

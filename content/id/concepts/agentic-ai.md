@@ -206,29 +206,29 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 
 ## Artikel Terkait
 
-- [[pramod-agentic-ai-motivational-pathways-2026]]: otonomi, kompetensi, keterhubungan, dan kehadiran sosial sebagai jalur dari AI agensik ke keterlibatan (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]]: agen AI, penilaian yang menyenangkan, dan ruang ketiga
-- [[ilieva-agentic-genai-higher-education-2026]]: kerangka AGAI-HE: GAI agensik yang terbatas dan tersupervisi manusia di pendidikan tinggi (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]]: tinjauan integratif kritis yang memperkenalkan kerangka bukti dan pengawasan AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]]: Perspektif tentang ekosistem AI multiagen agensik yang inklusif di pendidikan tinggi
-- [[baradziej-agentic-ai-higher-education-2026]]: Tinjauan sistematis atas peran AI agensik di pendidikan tinggi (48 studi; enam peran; kerangka integrasi bertanggung jawab tiga bagian)
-- [[kostopoulos-agentic-ai-education-2025]]: AI agensik dalam pendidikan: keadaan seni dan arah masa depan (survei IEEE Access; definisi operasional + taksonomi)
-- [[agentic-ai-education-scoping-review]]: Tinjauan cakupan AI agensik dalam pendidikan (474 studi)
-- [[agentic-ai-pedagogical-best-practice-2026]]: Ketegangan antara otomatisasi dan pembelajaran
-- [[tool-invariant-framework-agentic-ai]]: Mengajarkan dan menilai metode komputasional di era AI agensik
-- [[jeon-isd-agent-bench-2026]]: ISD-Agent-Bench: tolok ukur agen desain instruksional
-- [[adversarial-stress-testing-role-playing-agents]]: Pengujian stres adversarial atas agen bermain peran
-- [[ai-agents-constructive-conflict-design-education-2026]]: Agen AI konflik konstruktif dalam pendidikan desain
-- [[ai-tpack-teacher-multi-agent-workflow]]: TPACK guru dan alur kerja multiagen
-- [[code-gen]]: Agen generasi kode
-- [[educlaw-bench-pedagogical-llm-agents-2026]]: Tolok ukur agen LLM pedagogis
-- [[guided-llm-scaffolding-independent-learning]]: Perancah LLM terpandu untuk pembelajaran mandiri
-- [[learnmate2-llm-adaptive-learning]]: Agen pembelajaran adaptif LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]]: Agen pembelajaran keamanan siber bergamifikasi
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]]: AI agensik dalam simulasi klinis
-- [[bozkurt-ghost-students-agentic-ai-2026]]: Siswa hantu dan celah verifikasi AI agensik (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]]: Agen AI menyelesaikan tugas LMS; kegagalan validitas melalui asumsi produksi manusia (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]]: AI Web Agents: agen pendeskripsi sebagai evaluator pengalaman belajar (memprediksi putus kuliah, memberi umpan balik desain sebelum siswa terlibat)
-- [[spec-driven-development-ai-agents-sdpbl-2026]]: SDD dengan agen AI dalam PBL perangkat lunak; otomatisasi versus pemahaman
-- [[ai-standardized-patient-scaffolding-medical-2026]]: Mengevaluasi Sistem Model Bahasa Besar Multiagen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
-- [[ethics-training-agents-group-ethics-discussion-2026]]: Ethics Training Agents: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Bermain Peran dan Diskusi untuk Refleksi dan Eksplorasi Etis
+- [[pramod-agentic-ai-motivational-pathways-2026]] — otonomi, kompetensi, keterhubungan, dan kehadiran sosial sebagai jalur dari AI agensik ke keterlibatan (Pramod & Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — agen AI, penilaian yang menyenangkan, dan ruang ketiga
+- [[ilieva-agentic-genai-higher-education-2026]] — kerangka AGAI-HE: GAI agensik yang terbatas dan tersupervisi manusia di pendidikan tinggi (Ilieva et al. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — tinjauan integratif kritis yang memperkenalkan kerangka bukti dan pengawasan AOE
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspektif tentang ekosistem AI multiagen agensik yang inklusif di pendidikan tinggi
+- [[baradziej-agentic-ai-higher-education-2026]] — Tinjauan sistematis atas peran AI agensik di pendidikan tinggi (48 studi; enam peran; kerangka integrasi bertanggung jawab tiga bagian)
+- [[kostopoulos-agentic-ai-education-2025]] — AI agensik dalam pendidikan: keadaan seni dan arah masa depan (survei IEEE Access; definisi operasional + taksonomi)
+- [[agentic-ai-education-scoping-review]] — Tinjauan cakupan AI agensik dalam pendidikan (474 studi)
+- [[agentic-ai-pedagogical-best-practice-2026]] — Ketegangan antara otomatisasi dan pembelajaran
+- [[tool-invariant-framework-agentic-ai]] — Mengajarkan dan menilai metode komputasional di era AI agensik
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: tolok ukur agen desain instruksional
+- [[adversarial-stress-testing-role-playing-agents]] — Pengujian stres adversarial atas agen bermain peran
+- [[ai-agents-constructive-conflict-design-education-2026]] — Agen AI konflik konstruktif dalam pendidikan desain
+- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK guru dan alur kerja multiagen
+- [[code-gen]] — Agen generasi kode
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Tolok ukur agen LLM pedagogis
+- [[guided-llm-scaffolding-independent-learning]] — Perancah LLM terpandu untuk pembelajaran mandiri
+- [[learnmate2-llm-adaptive-learning]] — Agen pembelajaran adaptif LearnMate-2
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agen pembelajaran keamanan siber bergamifikasi
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — AI agensik dalam simulasi klinis
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Siswa hantu dan celah verifikasi AI agensik (Bozkurt et al. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — Agen AI menyelesaikan tugas LMS; kegagalan validitas melalui asumsi produksi manusia (Hadjisolomou & El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: agen pendeskripsi sebagai evaluator pengalaman belajar (memprediksi putus kuliah, memberi umpan balik desain sebelum siswa terlibat)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD dengan agen AI dalam PBL perangkat lunak; otomatisasi versus pemahaman
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Model Bahasa Besar Multiagen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Bermain Peran dan Diskusi untuk Refleksi dan Eksplorasi Etis

@@ -112,7 +112,7 @@ A ética conecta-se a [[equity-in-ai-education]], [[privacy|privacidade]], [[bia
 - [[biology-education]] — Educação em biologia e IA: assistentes de laboratório, letramento em IA em biologia, pensamento crítico, ferramentas especializadas
 
 ## Artigos conectados
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - A consciência ética amplificou a ansiedade em relação à IA onde nenhum framework de enfrentamento foi ensinado: mediação apenas indireta entre 584 estudantes
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — A consciência ética amplificou a ansiedade em relação à IA onde nenhum framework de enfrentamento foi ensinado: mediação apenas indireta entre 584 estudantes
 - [[learning-analytics-to-educational-interventions-2026]] — Da analítica de aprendizagem às intervenções educacionais: habilitadores de intervenções confiáveis baseadas em LA (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Como os estudantes usam e escondem a IA em avaliações online
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Revelação de IA pelo estudante, estigma e aprendizagem autorregulada

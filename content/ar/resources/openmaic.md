@@ -17,7 +17,6 @@ level: [higher ed, k 12]
 audience: [instructors, curriculum designers, instructional designers, learners, educational technology developers]
 confidence: high
 connected_resources: [deeptutor, lesson-md]
-reviewed_by: [editor]
 translation_of: resources/openmaic
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

@@ -7,7 +7,6 @@ pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, meta
 connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/desirable-difficulties
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

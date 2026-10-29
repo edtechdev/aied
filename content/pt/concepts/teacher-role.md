@@ -202,7 +202,7 @@ A evidência sustenta uma ordem específica de operações para um instrutor que
 - [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (quem aprende, professores, desenhistas, administradores, formuladores de política)
 
 ## Artigos conectados
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Acadêmicos casuais carregam o trabalho de integridade sem a autoridade
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Acadêmicos casuais carregam o trabalho de integridade sem a autoridade
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — O paradoxo do mais-humano: cenários de 2030 de especialistas concluem que a saturação da IA intensifica, em vez de deslocar, o trabalho pedagógico humano (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Seis aulas observadas de matemática do ensino médio estendem a orquestração instrumental com três novos tipos (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Respondendo a alertas emocionais gerados por IA: a intervenção dos professores e o engajamento dos estudantes na sala de aula de matemática
@@ -250,5 +250,5 @@ A evidência sustenta uma ordem específica de operações para um instrutor que
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — De provedores de informação a desenhistas da aprendizagem: práticas de ensino heutagógico na educação aprimorada por IA
 
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] - Diagnóstico conversacional de IA para ensinar equívocos com diálogo fundamentado em evidências (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - O uso de IA não teve efeito direto sobre o desempenho docente; o comportamento de cidadania o mediou (Sherly et al. 2027)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para ensinar equívocos com diálogo fundamentado em evidências (Miranda & Calvani 2026)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — O uso de IA não teve efeito direto sobre o desempenho docente; o comportamento de cidadania o mediou (Sherly et al. 2027)

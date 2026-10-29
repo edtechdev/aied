@@ -7,7 +7,6 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-reviewed_by: [editor]
 translation_of: faqs/ai-literacy-evidence
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

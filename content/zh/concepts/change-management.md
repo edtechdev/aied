@@ -100,4 +100,4 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 - [[instruction-partners-ai-in-action-learning-tour-2026]] —— 跨系统实地工作：实施与教师行动如何决定一个 AI 产品是否有帮助
 - [[dot-framework-survey-2026]] —— 专业发展必须覆盖完整设计周期而不仅是工具使用的调查证据
 - [[flipped-classroom-ai-assessment-math-2026]] —— 本科数学中从个人倡议到中心资助的十年扩散弧线（Law 2026）
-- [[packard-thinking-partner-framework-adult-learners-2026]] - 在持续调整之前，为每一门 AI 整合课程预算 15 至 20 小时的重设计时间
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 在持续调整之前，为每一门 AI 整合课程预算 15 至 20 小时的重设计时间

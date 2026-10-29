@@ -137,14 +137,14 @@ Fowlin et al. (2026) adaugă o mișcare operațională pentru a decide unde intr
 
 ## Articole conexe
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - O economie măsurată de timp de planificare, alături de constatarea că profesorii planifică de la zero doar 21% până la 40% dintre lecții
-- [[powerful-learning-with-emerging-technology-2025]] - Învățare puternică cu tehnologii emergente
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Analitica învățării și GenAI în deciziile de design al învățării
-- [[tang-chatbots-learning-design-2026]] - Folosirea chatbotului în designul învățării: designerii insistă asupra rezultatelor și a pedagogiei, nu asupra generării de conținut (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Tipare de interacțiune profesor-IA în designul lecțiilor, în funcție de experiență și de competența în IA (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - IA în învățământul superior: angajament și rolul mediator al metodelor de predare
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — O economie măsurată de timp de planificare, alături de constatarea că profesorii planifică de la zero doar 21% până la 40% dintre lecții
+- [[powerful-learning-with-emerging-technology-2025]] — Învățare puternică cu tehnologii emergente
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analitica învățării și GenAI în deciziile de design al învățării
+- [[tang-chatbots-learning-design-2026]] — Folosirea chatbotului în designul învățării: designerii insistă asupra rezultatelor și a pedagogiei, nu asupra generării de conținut (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tipare de interacțiune profesor-IA în designul lecțiilor, în funcție de experiență și de competența în IA (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — IA în învățământul superior: angajament și rolul mediator al metodelor de predare
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taxonomie (obiect de graniță) pentru clasificarea activităților de învățare cu GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomie (obiect de graniță) pentru clasificarea activităților de învățare cu GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -155,19 +155,19 @@ Fowlin et al. (2026) adaugă o mișcare operațională pentru a decide unde intr
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Agenți web de IA: un agent web autonom evaluează designuri de lecții și prezice abandonul studenților înainte ca aceștia să se angajeze (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: un cadru pentru augmentarea cognitiv activă cu IA în fizică
+- [[ai-web-agents-lesson-design-2025]] — Agenți web de IA: un agent web autonom evaluează designuri de lecții și prezice abandonul studenților înainte ca aceștia să se angajeze (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: un cadru pentru augmentarea cognitiv activă cu IA în fizică
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Design pentru acoperire: șapte pârghii și studentul singur cu IA
+- [[halani-designing-for-reach-2026]] — Design pentru acoperire: șapte pârghii și studentul singur cu IA
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Când refuzul produce videoclipuri mai bune: dublă validare pentru crearea de conținut cu IA fundamentat pedagogic
-- [[rhaimi-productivemath-2025]] - ProductiveMath: IA pentru sprijinirea designului problemelor de eșec productiv
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - IA și practica designului instrucțional: o revizuire sistematică (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Tutoriat inteligent bazat pe grafuri pentru domenii dinamice (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - A face IA enervantă în mod deliberat: constrângerea în scrierea asistată de IA (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Modelul sălii de clasă inteligente și bucla D-T-E care îmbunătățesc competența de design instrucțional la masteratul în matematică (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Platformă bazată pe IA care generează probleme de modelare matematică (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Co-designul profesor-IA al sarcinilor de învățare: tendințe și perspective (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arhitectura rolurilor în activitățile de grup diferențiate proiectate cu IA (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM-uri ca agenți ai designului pedagogic iterativ
+- [[ai-video-dual-gatekeeping-2026]] — Când refuzul produce videoclipuri mai bune: dublă validare pentru crearea de conținut cu IA fundamentat pedagogic
+- [[rhaimi-productivemath-2025]] — ProductiveMath: IA pentru sprijinirea designului problemelor de eșec productiv
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — IA și practica designului instrucțional: o revizuire sistematică (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Tutoriat inteligent bazat pe grafuri pentru domenii dinamice (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — A face IA enervantă în mod deliberat: constrângerea în scrierea asistată de IA (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Modelul sălii de clasă inteligente și bucla D-T-E care îmbunătățesc competența de design instrucțional la masteratul în matematică (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Platformă bazată pe IA care generează probleme de modelare matematică (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Co-designul profesor-IA al sarcinilor de învățare: tendințe și perspective (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitectura rolurilor în activitățile de grup diferențiate proiectate cu IA (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM-uri ca agenți ai designului pedagogic iterativ

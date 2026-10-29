@@ -136,14 +136,14 @@ ai_assist:
 
 ## Συνδεδεμένα άρθρα
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Μια μετρημένη εξοικονόμηση χρόνου σχεδιασμού δίπλα στο εύρημα ότι οι εκπαιδευτικοί σχεδιάζουν από το μηδέν μόνο το 21% έως 40% των μαθημάτων
-- [[powerful-learning-with-emerging-technology-2025]] - Ισχυρή μάθηση με αναδυόμενη τεχνολογία
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Αναλυτικά μάθησης και γενετική ΤΝ στη λήψη σχεδιαστικών αποφάσεων για τη μάθηση
-- [[tang-chatbots-learning-design-2026]] - Χρήση chatbot στον σχεδιασμό μάθησης: οι σχεδιαστές εμμένουν στα αποτελέσματα και στην παιδαγωγική και όχι στην παραγωγή περιεχομένου (Tang και συν. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Μοτίβα αλληλεπίδρασης εκπαιδευτικού και ΤΝ στον σχεδιασμό μαθημάτων ανά εμπειρία και επάρκεια στην ΤΝ (Choi και συν. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - ΤΝ στην τριτοβάθμια εκπαίδευση: ενασχόληση και διαμεσολαβητικός ρόλος των διδακτικών μεθόδων
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Μια μετρημένη εξοικονόμηση χρόνου σχεδιασμού δίπλα στο εύρημα ότι οι εκπαιδευτικοί σχεδιάζουν από το μηδέν μόνο το 21% έως 40% των μαθημάτων
+- [[powerful-learning-with-emerging-technology-2025]] — Ισχυρή μάθηση με αναδυόμενη τεχνολογία
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Αναλυτικά μάθησης και γενετική ΤΝ στη λήψη σχεδιαστικών αποφάσεων για τη μάθηση
+- [[tang-chatbots-learning-design-2026]] — Χρήση chatbot στον σχεδιασμό μάθησης: οι σχεδιαστές εμμένουν στα αποτελέσματα και στην παιδαγωγική και όχι στην παραγωγή περιεχομένου (Tang και συν. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Μοτίβα αλληλεπίδρασης εκπαιδευτικού και ΤΝ στον σχεδιασμό μαθημάτων ανά εμπειρία και επάρκεια στην ΤΝ (Choi και συν. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — ΤΝ στην τριτοβάθμια εκπαίδευση: ενασχόληση και διαμεσολαβητικός ρόλος των διδακτικών μεθόδων
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Ταξονομία (οριακό αντικείμενο) για την ταξινόμηση μαθησιακών δραστηριοτήτων με γενετική ΤΝ
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Ταξονομία (οριακό αντικείμενο) για την ταξινόμηση μαθησιακών δραστηριοτήτων με γενετική ΤΝ
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ ai_assist:
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Πράκτορες ιστού με ΤΝ: ένας αυτόνομος πράκτορας αξιολογεί σχέδια μαθημάτων και προβλέπει την εγκατάλειψη των μαθητών πριν εμπλακούν (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: ένα πλαίσιο για γνωστικά ενεργοποιημένη ενίσχυση με ΤΝ στη φυσική
+- [[ai-web-agents-lesson-design-2025]] — Πράκτορες ιστού με ΤΝ: ένας αυτόνομος πράκτορας αξιολογεί σχέδια μαθημάτων και προβλέπει την εγκατάλειψη των μαθητών πριν εμπλακούν (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: ένα πλαίσιο για γνωστικά ενεργοποιημένη ενίσχυση με ΤΝ στη φυσική
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Σχεδιασμός για εμβέλεια: επτά μοχλοί και ο μαθητής μόνος με την ΤΝ
+- [[halani-designing-for-reach-2026]] — Σχεδιασμός για εμβέλεια: επτά μοχλοί και ο μαθητής μόνος με την ΤΝ
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Όταν το «όχι» φτιάχνει καλύτερα βίντεο: διπλή πύλη για παιδαγωγικά θεμελιωμένη παραγωγή περιεχομένου με ΤΝ
-- [[rhaimi-productivemath-2025]] - ProductiveMath: ΤΝ για την υποστήριξη του σχεδιασμού προβλημάτων παραγωγικής αποτυχίας
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - ΤΝ και πρακτική σχεδιασμού διδασκαλίας: μια συστηματική ανασκόπηση (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Έξυπνη διδασκαλία βασισμένη σε γράφημα για δυναμικούς τομείς (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Κάνοντας την ΤΝ ενοχλητική επίτηδες: ο περιορισμός στη γραφή με υποστήριξη ΤΝ (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Μοντέλο έξυπνης τάξης και βρόχος D-T-E για τη βελτίωση της επάρκειας σχεδιασμού διδασκαλίας σε μεταπτυχιακό μαθηματικών (Zhu και συν. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Πλατφόρμα με ΤΝ που παράγει προβλήματα μαθηματικής μοντελοποίησης (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Συν-σχεδίαση μαθησιακών εργασιών από εκπαιδευτικούς και ΤΝ: τάσεις και προοπτικές (Wang και συν. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Αρχιτεκτονική ρόλων σε διαφοροποιημένες ομαδικές δραστηριότητες σχεδιασμένες με ΤΝ (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - Τα LLM ως πράκτορες επαναληπτικού παιδαγωγικού σχεδιασμού
+- [[ai-video-dual-gatekeeping-2026]] — Όταν το «όχι» φτιάχνει καλύτερα βίντεο: διπλή πύλη για παιδαγωγικά θεμελιωμένη παραγωγή περιεχομένου με ΤΝ
+- [[rhaimi-productivemath-2025]] — ProductiveMath: ΤΝ για την υποστήριξη του σχεδιασμού προβλημάτων παραγωγικής αποτυχίας
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — ΤΝ και πρακτική σχεδιασμού διδασκαλίας: μια συστηματική ανασκόπηση (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Έξυπνη διδασκαλία βασισμένη σε γράφημα για δυναμικούς τομείς (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Κάνοντας την ΤΝ ενοχλητική επίτηδες: ο περιορισμός στη γραφή με υποστήριξη ΤΝ (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Μοντέλο έξυπνης τάξης και βρόχος D-T-E για τη βελτίωση της επάρκειας σχεδιασμού διδασκαλίας σε μεταπτυχιακό μαθηματικών (Zhu και συν. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Πλατφόρμα με ΤΝ που παράγει προβλήματα μαθηματικής μοντελοποίησης (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Συν-σχεδίαση μαθησιακών εργασιών από εκπαιδευτικούς και ΤΝ: τάσεις και προοπτικές (Wang και συν. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Αρχιτεκτονική ρόλων σε διαφοροποιημένες ομαδικές δραστηριότητες σχεδιασμένες με ΤΝ (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — Τα LLM ως πράκτορες επαναληπτικού παιδαγωγικού σχεδιασμού

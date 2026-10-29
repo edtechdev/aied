@@ -11,7 +11,6 @@ level: [higher ed, adult learning]
 connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students-learn, how-ai-impacts-students]
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

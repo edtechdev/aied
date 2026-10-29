@@ -134,7 +134,7 @@ ai_assist:
 
 ## 关联文章
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 人专家共识发现单侧的社会风险：协作过程脆弱而无增强路径
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 人专家共识发现单侧的社会风险：协作过程脆弱而无增强路径
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题式与项目式学习作为生成式 AI 支持教育的有前景框架：来自一项系统综述与三层元分析的新证据
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — 内隐人机协作中涌现的学习者能动性：支持型对唱反调型人设
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

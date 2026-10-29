@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
@@ -249,7 +248,7 @@ AI لیٹریسی overreliance کے لیے **دو دھاری والی** ہے: [[
 ## منسلک مضامین
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI کے دور میں ابتدائی بچپن کی تشکیل: قابلیتیں، تدریس اور ماحولیاتی سہارا (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI سیکیورٹی لیٹریسی: ماحولیاتی نظام پر مبنی قابلیتی فریم ورک اور K-12 لرننگ پلیٹ فارم
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - لیٹریسی کا اخلاقی جہت بغیر نمٹنے والے فریم ورک کے بڑھانا طلبہ کو زیادہ بے چین چھوڑ سکتا ہے
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — لیٹریسی کا اخلاقی جہت بغیر نمٹنے والے فریم ورک کے بڑھانا طلبہ کو زیادہ بے چین چھوڑ سکتا ہے
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 توثیق شدہ فریم ورک دکھاتے ہیں کہ AI ڈیجیٹل لیٹریسی کو اخلاقیات کی طرف پھیلا رہا ہے جب کہ معلم کا انسان–AI تعاون کم متعین رہتا ہے (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — عوامی خدمت میڈیا کے لیے چھ قابلیت کے شعبے، پانچ اقدار اور تین ترقی کی سطحیں
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

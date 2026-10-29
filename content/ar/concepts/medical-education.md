@@ -9,7 +9,6 @@ discipline: [medical education]
 audience: [learners, instructors]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/medical-education
 source_updated: "2026-09-30T11:35:26-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

@@ -7,7 +7,6 @@ pedagogy: [behaviorism, learning-theories]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/behaviorism
 source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

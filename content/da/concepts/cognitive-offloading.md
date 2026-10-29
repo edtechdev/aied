@@ -173,65 +173,65 @@ Samme logik gør belønningsformning til et designværktøj: [[assistance-dilemm
 - **"Promptspor afslører, om der er udliciteret."** Det, promptspor ikke kan levere, kommer fra et **deludvalg på 16 studerende med koblede karakterer, hvis 1 140 beskeder blev håndkodet**: **49,6% af 125 dialoger viste slet ingen udlicitering**. Spormønstre overdriver udlicitering i forhold til håndkodet dialog.
 ## Forbundne begreber
 
-- [[pedagogical-patterns]]: Den risiko, enhver indsats-først-sekvens er designet til at undgå
-- [[learners]]: Elever: paraplyen for de elevvendte begreber
-- [[ai-literacy]]: At vide hvornår man skal udlicitere, og genkende afhængighedsmønstre
-- [[agency]]: Svækket når AI erstatter den lærendes kognition
-- [[critical-thinking]]: Forringet af ukalibreret udlicitering
-- [[creativity]]: Undermineret når AI erstatter den lærendes generative handling
-- [[distributed-cognition]]: Effektivitets- og reguleringsafvejningen ved delegering
-- [[embodied-learning]]: Situeret kognition som alternativ til outsourcing
-- [[generative-ai]]: Værktøjskonteksten for AI-formidlet udlicitering
-- [[metacognition]]: At kalibrere hvornår man udliciterer, og hvornår man engagerer sig
-- [[online-teaching-and-learning]]: Et medie, der er sårbart over for "spørg om svaret"-genvejen
-- [[prompt-engineering]]: Den primære mekanisme for udlicitering i LLM-brug
-- [[scaffolding]]: At reducere belastning uden at eliminere kognitivt krav
-- [[self-directed-learning]]: Eroderet af tankeløs AI-brug
-- [[self-regulated-learning]]: At regulere udliciteringsbeslutninger
-- [[trust-calibration]]: At vide hvornår man skal stole på AI, og hvornår man skal stille spørgsmål
-- [[retrieval-spacing-interleaving]]: Modøvelsen til at lade en model genkalde på den lærendes vegne
+- [[pedagogical-patterns]] — Den risiko, enhver indsats-først-sekvens er designet til at undgå
+- [[learners]] — Elever: paraplyen for de elevvendte begreber
+- [[ai-literacy]] — At vide hvornår man skal udlicitere, og genkende afhængighedsmønstre
+- [[agency]] — Svækket når AI erstatter den lærendes kognition
+- [[critical-thinking]] — Forringet af ukalibreret udlicitering
+- [[creativity]] — Undermineret når AI erstatter den lærendes generative handling
+- [[distributed-cognition]] — Effektivitets- og reguleringsafvejningen ved delegering
+- [[embodied-learning]] — Situeret kognition som alternativ til outsourcing
+- [[generative-ai]] — Værktøjskonteksten for AI-formidlet udlicitering
+- [[metacognition]] — At kalibrere hvornår man udliciterer, og hvornår man engagerer sig
+- [[online-teaching-and-learning]] — Et medie, der er sårbart over for "spørg om svaret"-genvejen
+- [[prompt-engineering]] — Den primære mekanisme for udlicitering i LLM-brug
+- [[scaffolding]] — At reducere belastning uden at eliminere kognitivt krav
+- [[self-directed-learning]] — Eroderet af tankeløs AI-brug
+- [[self-regulated-learning]] — At regulere udliciteringsbeslutninger
+- [[trust-calibration]] — At vide hvornår man skal stole på AI, og hvornår man skal stille spørgsmål
+- [[retrieval-spacing-interleaving]] — Modøvelsen til at lade en model genkalde på den lærendes vegne
 - [[cognitive-surrender]]
 
 ## Forbundne artikler
-- [[ai-proof-learning-cognitive-offloading-2026]]: At understøtte eller erstatte studerendes ræsonnement? Kognitiv udlicitering i AI-assisteret bevislæring (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]]: Hvad afleveringen ikke viser: kompleksgørelse af kognitiv udlicitering i studerendes matematiske arbejde med LLM'er (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - En konsensus blandt 30 eksperter over 65 læringsprocesser: udlicitering i begge ender af læringssekvensen
-- [[rented-self-decoupling-performance-becoming-2026]]: Det lejede selv: udlicitering der koster den lærendes domæneselv, ikke kun færdigheden
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]]: Grupper der startede ens, skiltes: 74,1% modeloptag i én profil mod 80,8% udlicitering og fastlåsning i en anden (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]]: AI-assistance reducerede vedholdenhed og uassisteret præstation i tre RCT'er (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]]: ChatGPT som kognitiv krykke: et randomiseret kontrolleret forsøg om vidensfastholdelse 45 dage senere (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]]: Fra kognitiv outsourcing til omfordeling: 3P-analyse af elev-GenAI-engagement i evalueringer uden tilsyn (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]]: Familie-skole-autonomistøtte for børns ansvarlige brug af generativ AI
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]]: Overskydende kontra gavnlig friktion: hvorfor AI-udlicitering adskiller sig fra tidligere værktøjer
-- [[thermomix-genai-education-analogy-2026]]: Med en Thermomix mister du evnen til at lave mad: en køkkenmaskineanalogi for generativ AI i uddannelse (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]]: kognitiv washout: dynamikken efter tilbagetrækning af AI-induceret færdighedsforfald
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]]: En kritisk narrativ syntese af engagement og afhængighed i konverserende AI
-- [[layer-sensitive-cognitive-offloading-writing-2026]]: Lagfølsom kognitiv udlicitering i GenAI-assisteret skrivning (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]]: Epistemisk afhængighed i AI-formidlet læring: seks diagnostiske kriterier der adskiller produktiv afhængighed fra skadelig afhængighed (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]]: GenAI-kognitiv udlicitering for studerende med læringsvanskeligheder
-- [[lodge-loble-cognitive-offloading-2026]]: AI, kognitiv udlicitering og konsekvenser for uddannelse
-- [[cognitive-offloading-metacognitive-review-2026]]: Metakognitive indsigter i kognitiv udlicitering (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]]: Metakognitiv træning fremmer optimal kognitiv udlicitering (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]]: Det kritiske tænknings-paradoks i GenAI-integreret læring
-- [[cognitive-offloading-speedup-illusion]]: Speedup-illusionen i AI-assisteret arbejde
-- [[misiejuk-cognitive-offloading-prompting-2026]]: Co-occurrence-netværksanalyse af promptmønstre
-- [[shaw-nave-cognitive-surrender-2026]]: Tri-System-teori og kognitiv overgivelse: hvordan AI omformer menneskeligt ræsonnement (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]]: Kontinuummet overgivelse, udlicitering og handlingsrum for GenAI
-- [[ai-making-us-stupid]]: Forskning i AI's kognitive effekter og fortrængning af læring
-- [[brcic-effortless-trap-productive-struggle-2026]]: The Effortless Trap: AI der erstatter kognitivt arbejde (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]]: Tankeløs AI-brug eroderer selvstyret læring
-- [[generative-ai-guardrails-harm-learning]]: RCT'er i gymnasiet matematik om ubevogtet generativ AI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]]: Generativ AI's læringsstraf: outsourcing af lektier skader læring
-- [[coach-not-crutch-ai-writing]]: AI kan arbejde mindre og lære mere (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]]: At gøre AI-vejledning produktiv: mestringsbaseret matematikøvelse
-- [[cognitive-commons-ai-expertise-regeneration]]: Tragedien om de kognitive fællesgoder: AI og regenerering af ekspertise
-- [[pause-ai-cognitive-offloading-self-reflection-2026]]: PAUSE: et privatlivsbevarende selvrefleksionsværktøj til AI-relateret kognitiv udlicitering
-- [[chatgpt-writing-cognitive-impact-2026]]: et writing-to-learn-eksperiment, hvor ChatGPT-assisteret skrivning gav mindre vidensgevinst end en uassisteret kontrolgruppe
-- [[student-cognitive-offloading-ai-higher-ed-2026]]: Mønstre i studerendes kognitive udlicitering til AI i højere uddannelse: naturalistisk evidens på ChatGPT-beskedniveau (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]]: Design mod deskilling: metakognitiv feedback reducerer kognitiv udlicitering til LLM-assistenter
-- [[chatgpt-programming-performance-retention-ownership-2026]]: Dine programmeringsstuderendes kognition med ChatGPT: højere præstation, lavere fastholdelse og reduceret ejerskab
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]]: Udliciteringstendens og verifikationskompetence som prædiktorer for udfald på højere niveau gennem metakognitiv selvregulering (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]]: En refleksionsprompt reducerer accept af forkert AI-råd og forbedrer bevidsthedskalibreringen (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]]: GenAI-afhængighed som grænsebetingelse for kritisk tænkningsdisposition og selvopfattet beskæftigelsesegnethed (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Børn viste svagere frontoparietal, salience- og dorsal opmærksomhedskonnektivitet end voksne, mens de talte med ChatGPT, ved matchede kreativitetsscore
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]]: GenAI og børns kreative tænkning: overafhængighed og promptafhængighed i en scoping-gennemgang (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — At understøtte eller erstatte studerendes ræsonnement? Kognitiv udlicitering i AI-assisteret bevislæring (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Hvad afleveringen ikke viser: kompleksgørelse af kognitiv udlicitering i studerendes matematiske arbejde med LLM'er (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — En konsensus blandt 30 eksperter over 65 læringsprocesser: udlicitering i begge ender af læringssekvensen
+- [[rented-self-decoupling-performance-becoming-2026]] — Det lejede selv: udlicitering der koster den lærendes domæneselv, ikke kun færdigheden
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupper der startede ens, skiltes: 74,1% modeloptag i én profil mod 80,8% udlicitering og fastlåsning i en anden (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI-assistance reducerede vedholdenhed og uassisteret præstation i tre RCT'er (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT som kognitiv krykke: et randomiseret kontrolleret forsøg om vidensfastholdelse 45 dage senere (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Fra kognitiv outsourcing til omfordeling: 3P-analyse af elev-GenAI-engagement i evalueringer uden tilsyn (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Familie-skole-autonomistøtte for børns ansvarlige brug af generativ AI
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Overskydende kontra gavnlig friktion: hvorfor AI-udlicitering adskiller sig fra tidligere værktøjer
+- [[thermomix-genai-education-analogy-2026]] — Med en Thermomix mister du evnen til at lave mad: en køkkenmaskineanalogi for generativ AI i uddannelse (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — kognitiv washout: dynamikken efter tilbagetrækning af AI-induceret færdighedsforfald
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — En kritisk narrativ syntese af engagement og afhængighed i konverserende AI
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Lagfølsom kognitiv udlicitering i GenAI-assisteret skrivning (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Epistemisk afhængighed i AI-formidlet læring: seks diagnostiske kriterier der adskiller produktiv afhængighed fra skadelig afhængighed (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI-kognitiv udlicitering for studerende med læringsvanskeligheder
+- [[lodge-loble-cognitive-offloading-2026]] — AI, kognitiv udlicitering og konsekvenser for uddannelse
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitive indsigter i kognitiv udlicitering (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitiv træning fremmer optimal kognitiv udlicitering (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Det kritiske tænknings-paradoks i GenAI-integreret læring
+- [[cognitive-offloading-speedup-illusion]] — Speedup-illusionen i AI-assisteret arbejde
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-occurrence-netværksanalyse af promptmønstre
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teori og kognitiv overgivelse: hvordan AI omformer menneskeligt ræsonnement (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuummet overgivelse, udlicitering og handlingsrum for GenAI
+- [[ai-making-us-stupid]] — Forskning i AI's kognitive effekter og fortrængning af læring
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI der erstatter kognitivt arbejde (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Tankeløs AI-brug eroderer selvstyret læring
+- [[generative-ai-guardrails-harm-learning]] — RCT'er i gymnasiet matematik om ubevogtet generativ AI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generativ AI's læringsstraf: outsourcing af lektier skader læring
+- [[coach-not-crutch-ai-writing]] — AI kan arbejde mindre og lære mere (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — At gøre AI-vejledning produktiv: mestringsbaseret matematikøvelse
+- [[cognitive-commons-ai-expertise-regeneration]] — Tragedien om de kognitive fællesgoder: AI og regenerering af ekspertise
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: et privatlivsbevarende selvrefleksionsværktøj til AI-relateret kognitiv udlicitering
+- [[chatgpt-writing-cognitive-impact-2026]] — et writing-to-learn-eksperiment, hvor ChatGPT-assisteret skrivning gav mindre vidensgevinst end en uassisteret kontrolgruppe
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Mønstre i studerendes kognitive udlicitering til AI i højere uddannelse: naturalistisk evidens på ChatGPT-beskedniveau (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Design mod deskilling: metakognitiv feedback reducerer kognitiv udlicitering til LLM-assistenter
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Dine programmeringsstuderendes kognition med ChatGPT: højere præstation, lavere fastholdelse og reduceret ejerskab
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Udliciteringstendens og verifikationskompetence som prædiktorer for udfald på højere niveau gennem metakognitiv selvregulering (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — En refleksionsprompt reducerer accept af forkert AI-råd og forbedrer bevidsthedskalibreringen (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-afhængighed som grænsebetingelse for kritisk tænkningsdisposition og selvopfattet beskæftigelsesegnethed (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Børn viste svagere frontoparietal, salience- og dorsal opmærksomhedskonnektivitet end voksne, mens de talte med ChatGPT, ved matchede kreativitetsscore
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI og børns kreative tænkning: overafhængighed og promptafhængighed i en scoping-gennemgang (Niu et al. 2026)

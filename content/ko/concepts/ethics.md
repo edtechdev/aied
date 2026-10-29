@@ -108,7 +108,7 @@ ai_assist:
 - [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 특수 도구
 
 ## 연결된 문서
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 대처 틀이 가르쳐지지 않은 곳에서 윤리 인식이 AI 불안을 증폭했다: 584명의 학생 사이에서 간접 전용 매개
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 대처 틀이 가르쳐지지 않은 곳에서 윤리 인식이 AI 불안을 증폭했다: 584명의 학생 사이에서 간접 전용 매개
 - [[learning-analytics-to-educational-interventions-2026]] — 학습 분석에서 교육 개입으로: 신뢰할 만한 LA 기반 개입의 가능 조건(Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 학생이 온라인 평가에서 AI를 사용하고 숨기는 방식
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 학생의 AI 공개, 낙인, 자기조절 학습

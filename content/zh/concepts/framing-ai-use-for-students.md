@@ -114,7 +114,7 @@ ai_assist:
 
 ## 关联文章
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 一份 30 位专家的共识，关于顺序：不用 GenAI 获取，用它巩固，然后自己思考
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 一份 30 位专家的共识，关于顺序：不用 GenAI 获取，用它巩固，然后自己思考
 - [[mccorkle-aligned-genai-course-policy-2025]] — 逐任务地、对每项允许与不允许的 GenAI 使用给出透明理由（McCorkle 2025）
 - [[moral-panic-genai-classroom]] — 鼓励恰当使用 GenAI，而非把它当作干扰来谴责
 - [[student-rationalization-ai-writing]] — 学生在学术写作中合理化 AI 使用的"五个场所"

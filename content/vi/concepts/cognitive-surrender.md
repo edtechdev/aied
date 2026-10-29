@@ -127,16 +127,16 @@ Bằng chứng cho việc đầu hàng nhận thức như một khái niệm đ�
 
 ## Bài viết liên quan
 
-- [[shaw-nave-cognitive-surrender-2026]] - Lý thuyết Ba Hệ và dấu hiệu thực nghiệm của việc đầu hàng nhận thức
-- [[generative-ai-reduced-study-time-math]] - dịch chuyển ở cấp dân số trong ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - khuôn khổ đầu hàng/giảm tải/quyền chủ động ở PreK-12
-- [[du-yuan-epistemic-dependence-2026]] - hỗ trợ công cụ so với hỗ trợ mang tính phán đoán
-- [[ai-advice-suppresses-ikt-suspension-2026]] - sự sụp đổ của "tôi không biết"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - sự tham gia thần kinh và quyền tác giả
-- [[genai-thoughtless-use-self-directed-learning-2026]] - sử dụng thiếu suy nghĩ và học tập tự định hướng
-- [[stamatoulis-genai-use-patterns-2026]] - tiếp nhận ít kiểm chứng so với tích hợp có đánh giá
-- [[cognitive-washout-ai-skill-decay-2026]] - điều gì xảy ra sau khi rút lui
-- [[ai-overreliance-complex-adaptive-system-2026]] - sự phụ thuộc như một quá trình dân số
-- [[brcic-effortless-trap-productive-struggle-2026]] - bố trí AI để nhiệm vụ vẫn đòi hỏi nỗ lực
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - huấn luyện hiệu chỉnh
-- [[family-school-autonomy-support-genai-2026]] - giảm tải phụ thuộc so với giảm tải tự chủ
+- [[shaw-nave-cognitive-surrender-2026]] — Lý thuyết Ba Hệ và dấu hiệu thực nghiệm của việc đầu hàng nhận thức
+- [[generative-ai-reduced-study-time-math]] — dịch chuyển ở cấp dân số trong ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — khuôn khổ đầu hàng/giảm tải/quyền chủ động ở PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — hỗ trợ công cụ so với hỗ trợ mang tính phán đoán
+- [[ai-advice-suppresses-ikt-suspension-2026]] — sự sụp đổ của "tôi không biết"
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — sự tham gia thần kinh và quyền tác giả
+- [[genai-thoughtless-use-self-directed-learning-2026]] — sử dụng thiếu suy nghĩ và học tập tự định hướng
+- [[stamatoulis-genai-use-patterns-2026]] — tiếp nhận ít kiểm chứng so với tích hợp có đánh giá
+- [[cognitive-washout-ai-skill-decay-2026]] — điều gì xảy ra sau khi rút lui
+- [[ai-overreliance-complex-adaptive-system-2026]] — sự phụ thuộc như một quá trình dân số
+- [[brcic-effortless-trap-productive-struggle-2026]] — bố trí AI để nhiệm vụ vẫn đòi hỏi nỗ lực
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — huấn luyện hiệu chỉnh
+- [[family-school-autonomy-support-genai-2026]] — giảm tải phụ thuộc so với giảm tải tự chủ

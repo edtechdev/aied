@@ -5,7 +5,6 @@ connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: "faqs/designing-ai-into-learning"
 source_updated: "2026-10-02T08:21:34-04:00"

@@ -114,20 +114,20 @@ Studenti jsou rámcováni také širším mediálním a veřejným diskurzem o [
 - [[misconceptions]]
 
 ## Související články
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsenzus 30 odborníků o pořadí: osvojit si bez generativní AI, upevnit s ní, pak myslet vlastní hlavou
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsenzus 30 odborníků o pořadí: osvojit si bez generativní AI, upevnit s ní, pak myslet vlastní hlavou
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Transparentní odůvodnění každého povoleného a nepovoleného použití generativní AI, úkol po úkolu (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - Povzbuzovat vhodné používání generativní AI, místo aby bylo odsuzováno jako narušení
-- [[student-rationalization-ai-writing]] - „Pět míst", kde studenti v akademickém psaní racionalizují používání AI
-- [[student-regulatory-awareness-genai]] - Znát pravidla nestačí: povědomí o regulaci a skutečné používání
-- [[ai-anxiety-strategic-regulation-writing-2026]] - Od úzkosti z AI ke strategické regulaci
-- [[chatgpt-inoculation-training-verification-2026]] - Inokulační sdělení a ověřovací chování
-- [[ai-fallibility-warning-help-seeking]] - Varování před omylností AI zvyšuje hledání pomoci
-- [[shame-guilt-ai-regulation-computing-education]] - Stud a vina jako sociální regulátory používání AI
-- [[access-not-enough-ai-tutoring-2026]] - Lidská podpora zlepšuje angažovanost s AI doučováním
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - Angažovanost s generativní AI založená na teorii sebeurčení
-- [[ai-availability-student-motivation]] - Jak dostupnost AI utváří motivaci studentů
-- [[youtube-frames-chatgpt-education]] - Jak YouTube rámcuje používání ChatGPT ve vzdělávání
-- [[ai-ethics-education-public-discourse]] - Veřejný diskurz o etice AI ve vzdělávání
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Vyučující rámcují AI jako kritické a odpovědné používání; zaměstnavatelé jako produktivitu
-- [[ssaho-ai-academic-integrity-review-2025]] - Budování kultury akademické integrity prostřednictvím jasných očekávání
+- [[mccorkle-aligned-genai-course-policy-2025]] — Transparentní odůvodnění každého povoleného a nepovoleného použití generativní AI, úkol po úkolu (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Povzbuzovat vhodné používání generativní AI, místo aby bylo odsuzováno jako narušení
+- [[student-rationalization-ai-writing]] — „Pět míst", kde studenti v akademickém psaní racionalizují používání AI
+- [[student-regulatory-awareness-genai]] — Znát pravidla nestačí: povědomí o regulaci a skutečné používání
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Od úzkosti z AI ke strategické regulaci
+- [[chatgpt-inoculation-training-verification-2026]] — Inokulační sdělení a ověřovací chování
+- [[ai-fallibility-warning-help-seeking]] — Varování před omylností AI zvyšuje hledání pomoci
+- [[shame-guilt-ai-regulation-computing-education]] — Stud a vina jako sociální regulátory používání AI
+- [[access-not-enough-ai-tutoring-2026]] — Lidská podpora zlepšuje angažovanost s AI doučováním
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Angažovanost s generativní AI založená na teorii sebeurčení
+- [[ai-availability-student-motivation]] — Jak dostupnost AI utváří motivaci studentů
+- [[youtube-frames-chatgpt-education]] — Jak YouTube rámcuje používání ChatGPT ve vzdělávání
+- [[ai-ethics-education-public-discourse]] — Veřejný diskurz o etice AI ve vzdělávání
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Vyučující rámcují AI jako kritické a odpovědné používání; zaměstnavatelé jako produktivitu
+- [[ssaho-ai-academic-integrity-review-2025]] — Budování kultury akademické integrity prostřednictvím jasných očekávání

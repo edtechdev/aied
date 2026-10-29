@@ -127,16 +127,16 @@ Dowody na kapitulację jako nazwany konstrukt opierają się w dużej mierze na 
 
 ## Połączone artykuły
 
-- [[shaw-nave-cognitive-surrender-2026]] - Teoria Trzech Systemów i eksperymentalna sygnatura kapitulacji
-- [[generative-ai-reduced-study-time-math]] - przemieszczenie na poziomie populacji w ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - ramy kapitulacja/odciążanie/sprawczość w PreK-12
-- [[du-yuan-epistemic-dependence-2026]] - pomoc instrumentalna wobec pomocy niosącej osąd
-- [[ai-advice-suppresses-ikt-suspension-2026]] - załamanie „nie wiem"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - zaangażowanie neuronowe i autorstwo
-- [[genai-thoughtless-use-self-directed-learning-2026]] - bezmyślne użycie a uczenie samokierowane
-- [[stamatoulis-genai-use-patterns-2026]] - przyswajanie o niskiej weryfikacji wobec integracji oceniającej
-- [[cognitive-washout-ai-skill-decay-2026]] - co dzieje się po wycofaniu
-- [[ai-overreliance-complex-adaptive-system-2026]] - poleganie jako proces populacyjny
-- [[brcic-effortless-trap-productive-struggle-2026]] - rozmieszczenie SI tak, by zadanie pozostało wysiłkowe
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - trening kalibracji
-- [[family-school-autonomy-support-genai-2026]] - odciążanie zależne wobec autonomicznego
+- [[shaw-nave-cognitive-surrender-2026]] — Teoria Trzech Systemów i eksperymentalna sygnatura kapitulacji
+- [[generative-ai-reduced-study-time-math]] — przemieszczenie na poziomie populacji w ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — ramy kapitulacja/odciążanie/sprawczość w PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — pomoc instrumentalna wobec pomocy niosącej osąd
+- [[ai-advice-suppresses-ikt-suspension-2026]] — załamanie „nie wiem"
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — zaangażowanie neuronowe i autorstwo
+- [[genai-thoughtless-use-self-directed-learning-2026]] — bezmyślne użycie a uczenie samokierowane
+- [[stamatoulis-genai-use-patterns-2026]] — przyswajanie o niskiej weryfikacji wobec integracji oceniającej
+- [[cognitive-washout-ai-skill-decay-2026]] — co dzieje się po wycofaniu
+- [[ai-overreliance-complex-adaptive-system-2026]] — poleganie jako proces populacyjny
+- [[brcic-effortless-trap-productive-struggle-2026]] — rozmieszczenie SI tak, by zadanie pozostało wysiłkowe
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — trening kalibracji
+- [[family-school-autonomy-support-genai-2026]] — odciążanie zależne wobec autonomicznego

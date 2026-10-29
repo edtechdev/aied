@@ -21,10 +21,9 @@ connected_resources: [clarity, education-agent-skills]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
-    role: drafting
+    role: translation
     date: "2026-09-24"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-09-27T03:31:33-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

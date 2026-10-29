@@ -142,13 +142,13 @@ Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi 
 - [[stakeholders]] - Zastrešujúci rámec: ľudia a publikum vo vzdelávaní s AI (študenti, učitelia, návrhári, administrátori, tvorcovia politiky)
 
 ## Prepojené články
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Kritická diskurzívna analýza rád o zladení s GenAI: rozvojári prerámovaní na školiteľov technológií
-- [[crompton-faculty-technology-integration-standards-2026]] - Štandardy pre pedagógov v oblasti integrácie technológií (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Etické dimenzie AI: pohľady pedagógov a študentov
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritická diskurzívna analýza rád o zladení s GenAI: rozvojári prerámovaní na školiteľov technológií
+- [[crompton-faculty-technology-integration-standards-2026]] — Štandardy pre pedagógov v oblasti integrácie technológií (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etické dimenzie AI: pohľady pedagógov a študentov
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Ako metafory pedagógov inžinierstva konštruujú (a obmedzujú) porozumenie AI
-- [[fear-awe-genai-metaphor-workshops-2025]] - Strach a úžas: porozumenie generatívnej AI cez metaforu (metaforická dielňa pre pedagógov, personál a študentov)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Riadenie neviditeľného: AI gramotnosť učiteľov jazykov
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Ako metafory pedagógov inžinierstva konštruujú (a obmedzujú) porozumenie AI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Strach a úžas: porozumenie generatívnej AI cez metaforu (metaforická dielňa pre pedagógov, personál a študentov)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Riadenie neviditeľného: AI gramotnosť učiteľov jazykov
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Sebadôvera a gramotnosť nie sú zameniteľné ciele: v SEM s 502 respondentmi 
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI ako kríza identity, nie medzera v zručnostiach
-- [[zuo-instructor-power-genai-writing-2026]] - Mocenské vzťahy, ako ich vnímajú vysokoškolskí inštruktori zápasiaci s GenAI v písaní (Zuo, Xu a Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Model reflektívneho trojuholníka: AI ako kognitívny mediátor
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Sebahodnotené vedomosti pedagógov v TPACK-21 pre GenAI (Sutedjo, Chowdhury a Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Profesijný rozvoj Intelligent-TPACK: účasť predpovedá zisky, samovyhodnotená participácia nie
-- [[instructional-design-proficiency-masters-math-2026]] - Model inteligentnej triedy a slučka D-T-E zlepšujúce zručnosť inštrukčného dizajnu v magisterskom štúdiu matematiky (Zhu a spol. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architektúra rolí v diferencovaných skupinových aktivitách navrhnutých AI (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Skúsenosti a vnímanie GAI u univerzitných učiteľov: zraniteľnosť, prehodnocovanie hodnotenia, učenie študentov v ohrození (Farazouli a spol. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Od strachu k inovácii: šesťtýždňový inštitút pre pedagógov, symbiotická pedagogika a inštitucionálne podmienky, ktoré nedokázal poskytnúť
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Komplex viny z AI: anticipačná vina, skrývanie a rozdiely podľa kariérnej fázy medzi akademickým personálom (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Prieskum AAC&U/Elon medzi 1 057 americkými pedagógmi: inštitucionálna nepripravenosť, tenké riadenie a medzera v politikách 87 %/48 % (Watson a Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akademickí rozvojári ako digitálni mediátori v globálnom juhu vysokého školstva: rozvoj ako sociotechnická praxa
-- [[physics-faculty-learning-community-ai-2026]] - Séria dielní pre efektívne používanie AI v neistých časoch: budovanie učebnej komunity fyzikálnych pedagógov
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI ako kríza identity, nie medzera v zručnostiach
+- [[zuo-instructor-power-genai-writing-2026]] — Mocenské vzťahy, ako ich vnímajú vysokoškolskí inštruktori zápasiaci s GenAI v písaní (Zuo, Xu a Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Model reflektívneho trojuholníka: AI ako kognitívny mediátor
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Sebahodnotené vedomosti pedagógov v TPACK-21 pre GenAI (Sutedjo, Chowdhury a Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Profesijný rozvoj Intelligent-TPACK: účasť predpovedá zisky, samovyhodnotená participácia nie
+- [[instructional-design-proficiency-masters-math-2026]] — Model inteligentnej triedy a slučka D-T-E zlepšujúce zručnosť inštrukčného dizajnu v magisterskom štúdiu matematiky (Zhu a spol. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektúra rolí v diferencovaných skupinových aktivitách navrhnutých AI (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Skúsenosti a vnímanie GAI u univerzitných učiteľov: zraniteľnosť, prehodnocovanie hodnotenia, učenie študentov v ohrození (Farazouli a spol. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Od strachu k inovácii: šesťtýždňový inštitút pre pedagógov, symbiotická pedagogika a inštitucionálne podmienky, ktoré nedokázal poskytnúť
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Komplex viny z AI: anticipačná vina, skrývanie a rozdiely podľa kariérnej fázy medzi akademickým personálom (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Prieskum AAC&U/Elon medzi 1 057 americkými pedagógmi: inštitucionálna nepripravenosť, tenké riadenie a medzera v politikách 87 %/48 % (Watson a Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademickí rozvojári ako digitálni mediátori v globálnom juhu vysokého školstva: rozvoj ako sociotechnická praxa
+- [[physics-faculty-learning-community-ai-2026]] — Séria dielní pre efektívne používanie AI v neistých časoch: budovanie učebnej komunity fyzikálnych pedagógov
 
-- [[faculty-ai-well-being-social-supports-2026]] - Blahobyt pedagógov v súvislosti s AI sleduje AI gramotnosť, a nie technologickú sebaúčinnosť
-- [[ai-competence-framework-landscape-2026]] - Pred prijatím rámca si overte, čo opisujú jeho úrovne
+- [[faculty-ai-well-being-social-supports-2026]] — Blahobyt pedagógov v súvislosti s AI sleduje AI gramotnosť, a nie technologickú sebaúčinnosť
+- [[ai-competence-framework-landscape-2026]] — Pred prijatím rámca si overte, čo opisujú jeho úrovne

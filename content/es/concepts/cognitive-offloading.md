@@ -209,7 +209,7 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[akcaoglu-offloading-ladder-experience-2026]] — La escalera de la externalización: cómo la experiencia cambia lo que estudiantes y profesionales deberían entregar a la IA (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento de los estudiantes? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: complejizar la descarga cognitiva en el trabajo matemático de los estudiantes con LLM (Kontorovich y Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consenso de 30 expertos sobre 65 procesos de aprendizaje: la externalización en ambos extremos de la secuencia de aprendizaje
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 expertos sobre 65 procesos de aprendizaje: la externalización en ambos extremos de la secuencia de aprendizaje
 - [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la externalización que cuesta el yo de dominio del estudiante y no solo la habilidad
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupos que empezaron iguales divergieron: 74,1% de adopción del modelo en un perfil frente a 80,8% de externalización y bloqueo en otro (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — La asistencia de IA redujo la persistencia y el rendimiento sin ayuda en tres ECA (Liu et al. 2026)
@@ -247,5 +247,5 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — La tendencia a externalizar y la alfabetización de verificación prediciendo resultados de orden superior a través de la autorregulación metacognitiva (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Un prompt de reflexión reduce la aceptación de consejos incorrectos de la IA y mejora la calibración de la conciencia (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — La dependencia de la IA generativa como condición límite de la disposición al pensamiento crítico y la empleabilidad autopercibida (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Los niños mostraron una conectividad frontoparietal, de saliencia y de atención dorsal más débil que los adultos mientras hablaban con ChatGPT, con puntuaciones de creatividad equivalentes
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Los niños mostraron una conectividad frontoparietal, de saliencia y de atención dorsal más débil que los adultos mientras hablaban con ChatGPT, con puntuaciones de creatividad equivalentes
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — La IA generativa y el pensamiento creativo infantil: dependencia excesiva y dependencia del prompt en una revisión de alcance (Niu et al. 2026)

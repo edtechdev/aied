@@ -7,7 +7,6 @@ foundations: [ai-literacy]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/ai-feedback-quality
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

@@ -12,7 +12,6 @@ page_kind: [evaluation]
 connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-learn, reporting-interpreting-aied-research]
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
-reviewed_by: [editor]
 translation_of: concepts/self-report-measures
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

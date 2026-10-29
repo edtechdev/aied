@@ -11,7 +11,6 @@ audience: [medical educators, curriculum designers, instructors, researchers]
 level: [higher ed]
 page_kind: [synthesis]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/nursing-education
 source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

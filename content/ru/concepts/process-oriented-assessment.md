@@ -9,7 +9,7 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback]
+connected_resources: [process-feedback, code-viva]
 contributors: [editor]
 translation_of: concepts/process-oriented-assessment
 source_updated: "2026-10-14T11:15:00-04:00"

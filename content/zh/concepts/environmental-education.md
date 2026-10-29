@@ -10,7 +10,6 @@ ethics: [sustainability, ethics, global-south]
 institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/environmental-education
 source_updated: "2026-10-21T21:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"

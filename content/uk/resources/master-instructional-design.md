@@ -30,7 +30,6 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/master-instructional-design
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

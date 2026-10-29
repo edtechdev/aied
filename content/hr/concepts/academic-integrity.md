@@ -197,43 +197,43 @@ Prva studija teorije planiranog ponašanja o namjeri nedoličnog ponašanja utem
 
 ## Povezani članci
 
-- [[ivory-psychology-assessment-integrity-2026]] - Cijeli program psihologije prolazan uz najmanji trud, i kriteriji ocjenjivanja koji su to propustili (Ivory i sur. 2026.)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Budući nastavnici odbili su generativnu umjetnu inteligenciju pod permisivnom politikom; uokvirivanje „zamke“ i jaz između ankete i izjava
-- [[ai-agents-joyful-assessment-third-space-2026]] - Agenti umjetne inteligencije, radosna procjena i treći prostor
-- [[kumar-genai-computing-education-systematic-review-2026]] - Dokazi o otkrivanju su tanki (3 studije od 72); preoblikovanje nosi težinu
-- [[mccorkle-aligned-genai-course-policy-2025]] - Usklađena politika kolegija o generativnoj umjetnoj inteligenciji: dopuštenja izvedena iz procjene, transparentno obrazloženje (McCorkle 2025.)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Generiranje varijanti procjene ekvivalentnih po konstruktu (Lee 2026.)
-- [[chirikov-regulate-ai-syllabi-2026]] - Kako nastavnici reguliraju umjetnu inteligenciju u 31.000 kolegijskih programa; uokvirivanje neporočnosti u padu (Chirikov 2026.)
-- [[biology-degree-integrity-genai-cheating-2026]] - Mogu li se učenici varanjem dokopati diplome iz biologije? Studija slučaja ranjivosti ocjena na kolegijima biologije na akademsko nepoštenje u doba generativne umjetne inteligencije
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Nepoštivanje izjava o upotrebi umjetne inteligencije među učenicima
-- [[detecting-llm-generated-text-latent-prompt]] - Otkrivanje teksta koji generira LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] - Dalje od otkrivanja: autentična procjena u svijetu posredovanom umjetnom inteligencijom
-- [[ai-assessment-scale-reform]] - Skala procjene s umjetnom inteligencijom i reforma procjene
-- [[authentic-products-authenticated-processes-2026]] - Od autentičnih proizvoda do potvrđenih procesa
-- [[student-rationalization-ai-writing]] - U redu je jer… racionalizacija upotrebe umjetne inteligencije među učenicima
-- [[ethical-ai-higher-ed-game-theory]] - Okvir koordinacijske igre za etičku upotrebu umjetne inteligencije
-- [[shame-guilt-ai-regulation-computing-education]] - Sram i krivnja kao socijalni regulatori upotrebe umjetne inteligencije
-- [[cross-cultural-student-perceptions-genai-computing]] - Je li Alice postupila pogrešno? Međukulturalne percepcije upotrebe umjetne inteligencije
-- [[luo-dawson-value-judgments-grading-2026]] - Vrijednosne prosudbe u ocjenjivanju rada uz pomoć generativne umjetne inteligencije: poštenje, povjerenje, valjanost i dvosmjerna transparentnost (Luo i Dawson 2026.)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Odgovornost među vršnjacima i originalnost u grupnoj procjeni posredovanoj generativnom umjetnom inteligencijom
-- [[teichmann-detecting-undetectable-misconduct-2026]] - Dokazni slom otkrivanja i argument za postupovnu pravdu, proporcionalnost i oblikovanje
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Odvraćanje, objavljivanje i preoblikovanje kao problem oblikovanja procjene pod nesavršenim informacijama
-- [[munoz-misconduct-allegation-evidence-2026]] - Na čemu je doista počivalo 1.162 spisa o nedoličnom ponašanju s generativnom umjetnom inteligencijom, i nedostajući dokazni prag
-- [[wright-transcription-not-generation-2026]] - Preširoka pravila o umjetnoj inteligenciji i razlika između transkripcije i generiranja
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Digitalno varanje uz umjetnu inteligenciju i etičke pedagogije utemeljene na prevenciji: slučaj pada s 183 na 27 i pet disciplinski specifičnih preoblikovanja (Leaton Gray, Edsall i Parapadakis 2025.)
-- [[coates-governing-academic-integrity-indicators-2025]] - Neporočnost kao problem upravljanja: okvir od 130 pokazatelja za akademske upravljačke strukture (Coates, Croucher i Calderon 2025.)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Pregled opsega 38 studija o glasovima studenata visokog obrazovanja o akademskoj neporočnosti i generativnoj umjetnoj inteligenciji (Ji 2026.)
-- [[li-genai-assessment-language-equity-2026]] - Povlačenje granice između potpore i zamjene za pisce koji engleski uče kao dodatni jezik, i nepravednost pravila koja zanemaruju jezično podrijetlo (Li 2026.)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Ubacivanje poticaja protiv ocjenjivanja posredovanog umjetnom inteligencijom: skrivene upute koje mijenjaju ocjenu neotkriveno (Humble 2026.)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - Matrica etike upotrebe umjetne inteligencije: anksiozna usklađenost i zašto sama jasnoća može gurnuti učenike u učinkovito zaobilaženje (Petricini i Zipf 2026.)
-- [[austin-ai-agents-assignment-redesign-2026]] - Ocjenjivanje traga rasuđivanja kada agenti umjetne inteligencije mogu dovršiti zadatak (Austin 2026.)
-- [[ai-written-admissions-essays-penalized-2026]] - Eseji za upis koje je napisala umjetna inteligencija rašireni su, ali se kažnjavaju
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Tko djeluje, tko zna, tko odgovara? Analiza diskursa uz pomoć korpusa o djelotvornosti, epistemičkoj odgovornosti i odgovornosti u istraživanju generativne umjetne inteligencije u visokom obrazovanju
+- [[ivory-psychology-assessment-integrity-2026]] — Cijeli program psihologije prolazan uz najmanji trud, i kriteriji ocjenjivanja koji su to propustili (Ivory i sur. 2026.)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Budući nastavnici odbili su generativnu umjetnu inteligenciju pod permisivnom politikom; uokvirivanje „zamke“ i jaz između ankete i izjava
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agenti umjetne inteligencije, radosna procjena i treći prostor
+- [[kumar-genai-computing-education-systematic-review-2026]] — Dokazi o otkrivanju su tanki (3 studije od 72); preoblikovanje nosi težinu
+- [[mccorkle-aligned-genai-course-policy-2025]] — Usklađena politika kolegija o generativnoj umjetnoj inteligenciji: dopuštenja izvedena iz procjene, transparentno obrazloženje (McCorkle 2025.)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generiranje varijanti procjene ekvivalentnih po konstruktu (Lee 2026.)
+- [[chirikov-regulate-ai-syllabi-2026]] — Kako nastavnici reguliraju umjetnu inteligenciju u 31.000 kolegijskih programa; uokvirivanje neporočnosti u padu (Chirikov 2026.)
+- [[biology-degree-integrity-genai-cheating-2026]] — Mogu li se učenici varanjem dokopati diplome iz biologije? Studija slučaja ranjivosti ocjena na kolegijima biologije na akademsko nepoštenje u doba generativne umjetne inteligencije
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Nepoštivanje izjava o upotrebi umjetne inteligencije među učenicima
+- [[detecting-llm-generated-text-latent-prompt]] — Otkrivanje teksta koji generira LLM
+- [[beyond-detection-authentic-assessment-ai-2025]] — Dalje od otkrivanja: autentična procjena u svijetu posredovanom umjetnom inteligencijom
+- [[ai-assessment-scale-reform]] — Skala procjene s umjetnom inteligencijom i reforma procjene
+- [[authentic-products-authenticated-processes-2026]] — Od autentičnih proizvoda do potvrđenih procesa
+- [[student-rationalization-ai-writing]] — U redu je jer… racionalizacija upotrebe umjetne inteligencije među učenicima
+- [[ethical-ai-higher-ed-game-theory]] — Okvir koordinacijske igre za etičku upotrebu umjetne inteligencije
+- [[shame-guilt-ai-regulation-computing-education]] — Sram i krivnja kao socijalni regulatori upotrebe umjetne inteligencije
+- [[cross-cultural-student-perceptions-genai-computing]] — Je li Alice postupila pogrešno? Međukulturalne percepcije upotrebe umjetne inteligencije
+- [[luo-dawson-value-judgments-grading-2026]] — Vrijednosne prosudbe u ocjenjivanju rada uz pomoć generativne umjetne inteligencije: poštenje, povjerenje, valjanost i dvosmjerna transparentnost (Luo i Dawson 2026.)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Odgovornost među vršnjacima i originalnost u grupnoj procjeni posredovanoj generativnom umjetnom inteligencijom
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Dokazni slom otkrivanja i argument za postupovnu pravdu, proporcionalnost i oblikovanje
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Odvraćanje, objavljivanje i preoblikovanje kao problem oblikovanja procjene pod nesavršenim informacijama
+- [[munoz-misconduct-allegation-evidence-2026]] — Na čemu je doista počivalo 1.162 spisa o nedoličnom ponašanju s generativnom umjetnom inteligencijom, i nedostajući dokazni prag
+- [[wright-transcription-not-generation-2026]] — Preširoka pravila o umjetnoj inteligenciji i razlika između transkripcije i generiranja
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Digitalno varanje uz umjetnu inteligenciju i etičke pedagogije utemeljene na prevenciji: slučaj pada s 183 na 27 i pet disciplinski specifičnih preoblikovanja (Leaton Gray, Edsall i Parapadakis 2025.)
+- [[coates-governing-academic-integrity-indicators-2025]] — Neporočnost kao problem upravljanja: okvir od 130 pokazatelja za akademske upravljačke strukture (Coates, Croucher i Calderon 2025.)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Pregled opsega 38 studija o glasovima studenata visokog obrazovanja o akademskoj neporočnosti i generativnoj umjetnoj inteligenciji (Ji 2026.)
+- [[li-genai-assessment-language-equity-2026]] — Povlačenje granice između potpore i zamjene za pisce koji engleski uče kao dodatni jezik, i nepravednost pravila koja zanemaruju jezično podrijetlo (Li 2026.)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Ubacivanje poticaja protiv ocjenjivanja posredovanog umjetnom inteligencijom: skrivene upute koje mijenjaju ocjenu neotkriveno (Humble 2026.)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Matrica etike upotrebe umjetne inteligencije: anksiozna usklađenost i zašto sama jasnoća može gurnuti učenike u učinkovito zaobilaženje (Petricini i Zipf 2026.)
+- [[austin-ai-agents-assignment-redesign-2026]] — Ocjenjivanje traga rasuđivanja kada agenti umjetne inteligencije mogu dovršiti zadatak (Austin 2026.)
+- [[ai-written-admissions-essays-penalized-2026]] — Eseji za upis koje je napisala umjetna inteligencija rašireni su, ali se kažnjavaju
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Tko djeluje, tko zna, tko odgovara? Analiza diskursa uz pomoć korpusa o djelotvornosti, epistemičkoj odgovornosti i odgovornosti u istraživanju generativne umjetne inteligencije u visokom obrazovanju
 
-- [[genai-governance-australian-higher-ed-2026]] - Mapiranje ovlaštene granice: komparativna studija političkih vinjeta o upravljanju generativnom umjetnom inteligencijom u australskom visokom obrazovanju
-- [[argus-academic-integrity-genai-2026]] - Argus: akademska neporočnost u doba generativne umjetne inteligencije
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Nalaz revizije sektora: sveučilišta s mandatom i ona s okvirom ne pokazuju razliku u izloženosti procjene, empirijska protuteža problemu koordinacije
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026.) - Rano predviđanje rizika varanja uz pomoć umjetne inteligencije iz tragova u LMS-u, uokvireno kao akademsko usmjeravanje, a ne kao dokaz nedoličnog ponašanja
-- [[reddit-genai-education-discourse-analysis-2026]] - Tri i pol godine obrazovnog Reddita: provedba dominira, a sporovi o neporočnosti glavno su mjesto susreta nastavnika i učenika (Yüce i sur. 2026.)
-- [[boyd-swan-employer-responses-genai-2026]] - Eksperiment ankete: uokvirivanje upotrebe umjetne inteligencije među učenicima kao zamjene kažnjava kandidate s visokim prosjekom ocjena pri zapošljavanju i plaći; test uživo jedini je lijek koji su obje skupine odabrale
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
+- [[genai-governance-australian-higher-ed-2026]] — Mapiranje ovlaštene granice: komparativna studija političkih vinjeta o upravljanju generativnom umjetnom inteligencijom u australskom visokom obrazovanju
+- [[argus-academic-integrity-genai-2026]] — Argus: akademska neporočnost u doba generativne umjetne inteligencije
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Nalaz revizije sektora: sveučilišta s mandatom i ona s okvirom ne pokazuju razliku u izloženosti procjene, empirijska protuteža problemu koordinacije
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026.) - Rano predviđanje rizika varanja uz pomoć umjetne inteligencije iz tragova u LMS-u, uokvireno kao akademsko usmjeravanje, a ne kao dokaz nedoličnog ponašanja
+- [[reddit-genai-education-discourse-analysis-2026]] — Tri i pol godine obrazovnog Reddita: provedba dominira, a sporovi o neporočnosti glavno su mjesto susreta nastavnika i učenika (Yüce i sur. 2026.)
+- [[boyd-swan-employer-responses-genai-2026]] — Eksperiment ankete: uokvirivanje upotrebe umjetne inteligencije među učenicima kao zamjene kažnjava kandidate s visokim prosjekom ocjena pri zapošljavanju i plaći; test uživo jedini je lijek koji su obje skupine odabrale
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
@@ -249,7 +248,7 @@ Khusus untuk literasi AI kritis, [[solyst-youth-systematic-evaluation-genai-2026
 ## Artikel Terkait
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Membentuk anak usia dini di era AI: kompetensi, pedagogi, dan dukungan ekologis (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Literasi Keamanan AI: Kerangka Kompetensi berbasis Ekosistem dan Platform Pembelajaran K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Menaikkan dimensi etis literasi tanpa kerangka penanganan dapat meninggalkan siswa lebih cemas
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Menaikkan dimensi etis literasi tanpa kerangka penanganan dapat meninggalkan siswa lebih cemas
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 kerangka tervalidasi menunjukkan AI memperluas literasi digital ke arah etika sementara kolaborasi manusia–AI pendidik tetap kurang ditetapkan (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Enam area kompetensi, lima nilai, dan tiga tingkat progresi untuk media layanan publik
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

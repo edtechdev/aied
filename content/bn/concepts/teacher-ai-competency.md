@@ -166,57 +166,57 @@ ai_assist:
 
 ## সংযুক্ত নিবন্ধ
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - কোন শিক্ষকেরা পরিকল্পনার সময় পেয়েছেন: কম বিষয়-জ্ঞানের আত্মবিশ্বাস, কম শিক্ষাদানগত জ্ঞান, পেশায় নতুনত্ব বা প্রযুক্তিতে উচ্চ আত্মবিশ্বাস
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - শিক্ষকেরা এআই গ্রহণ করেন, অথচ তা কীভাবে কাজ করে তা ভুল বোঝেন (Aji প্রমুখ 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - 54টি গণিত-শিক্ষা গবেষণা জুড়ে শিক্ষক-প্রস্তুতি ও প্রযুক্তিগত-শিক্ষাদানগত সংযুক্তি সবচেয়ে বেশি প্রতিবেদিত চ্যালেঞ্জ (Manto প্রমুখ 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - মাল্টিমোডাল মূল্যায়ন সাক্ষরতা: এক বছরের কর্মসূচি যেখানে জ্ঞান ও সক্ষমতা এগিয়েছে, মূল্যবোধ নয়
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — কোন শিক্ষকেরা পরিকল্পনার সময় পেয়েছেন: কম বিষয়-জ্ঞানের আত্মবিশ্বাস, কম শিক্ষাদানগত জ্ঞান, পেশায় নতুনত্ব বা প্রযুক্তিতে উচ্চ আত্মবিশ্বাস
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — শিক্ষকেরা এআই গ্রহণ করেন, অথচ তা কীভাবে কাজ করে তা ভুল বোঝেন (Aji প্রমুখ 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — 54টি গণিত-শিক্ষা গবেষণা জুড়ে শিক্ষক-প্রস্তুতি ও প্রযুক্তিগত-শিক্ষাদানগত সংযুক্তি সবচেয়ে বেশি প্রতিবেদিত চ্যালেঞ্জ (Manto প্রমুখ 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — মাল্টিমোডাল মূল্যায়ন সাক্ষরতা: এক বছরের কর্মসূচি যেখানে জ্ঞান ও সক্ষমতা এগিয়েছে, মূল্যবোধ নয়
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK পেশাদার উন্নয়ন: অর্ধেক মানক বিচ্যুতির লাভ, এবং পুনঃক্রমাঙ্কন হিসেবে পড়া ঋণাত্মক লাভ - K-12 শিক্ষকদের এআই সাক্ষরতায় পেশাদার-উন্নয়ন কর্মসূচির প্রভাব: একটি পদ্ধতিগত পর্যালোচনা ও মেটা-বিশ্লেষণ
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK পেশাদার উন্নয়ন: অর্ধেক মানক বিচ্যুতির লাভ, এবং পুনঃক্রমাঙ্কন হিসেবে পড়া ঋণাত্মক লাভ - K-12 শিক্ষকদের এআই সাক্ষরতায় পেশাদার-উন্নয়ন কর্মসূচির প্রভাব: একটি পদ্ধতিগত পর্যালোচনা ও মেটা-বিশ্লেষণ
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - শিক্ষকেরা নিজেদের শ্রেণিকক্ষের এআই কেস ট্যাগ করেন এবং ব্যবহারিক সক্ষমতায় সহজেই পৌঁছান, কিন্তু সামাজিক ও নৈতিক সক্ষমতায় বিরলভাবে (Wang প্রমুখ 2026)
-- [[typology-generative-ai-tools-education-2026]] - শিক্ষক-এজেন্সির অনুশীলন হিসেবে সরঞ্জাম-নির্বাচন
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - K-12 শিক্ষাদান ও শিখনে জেনারেটিভ এআই-এর পদ্ধতিগত পর্যালোচনা (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - K-12 এআই শিক্ষায় শিক্ষকের পেশাদার জ্ঞান: TAIK বনাম TPAIK এবং শিক্ষার্থীর শিখন (Shen প্রমুখ 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - অভিজ্ঞতা ও এআই-দক্ষতা জুড়ে পাঠ-নকশায় শিক্ষক-এআই মিথস্ক্রিয়ার ধরন (Choi প্রমুখ 2026)
-- [[preservice-teachers-responsible-genai-2026]] - প্রাক-সেবা শিক্ষকদের দায়িত্বশীল GenAI ব্যবহার: পাঠ্যক্রমিক তাৎপর্য (Kohnke প্রমুখ 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - শিক্ষকের পেশাদার উন্নয়নে LLM শ্রেণিকক্ষ-পর্যবেক্ষণ (Melo প্রমুখ 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - উপস্থাপনা, বিভাজন ও আনুমানিকতার মধ্য দিয়ে জেনারেটিভ এআই: রিহার্সাল, কাঠামোবদ্ধ প্রতিক্রিয়া ও নির্ভুলতা-সতর্কতা
-- [[genai-pd-ai-pck-learning-gain-2026]] - একটি নিবিড় GenAI পেশাদার-উন্নয়ন কর্মসূচির কার্যকারিতা
-- [[ai-tpack-teacher-multi-agent-workflow]] - শিক্ষকের বহু-এজেন্ট কর্মপ্রবাহের মাধ্যমে AI-TPACK মডেল করা
-- [[teacher-ai-teaming-five-levels]] - সমন্বিত শিক্ষক-এআই মিথস্ক্রিয়ার দিকে
-- [[teacher-education-ai-literacy-sdt-2026]] - স্ব-নিয়ন্ত্রণ তত্ত্বের মাধ্যমে এআই সাক্ষরতার শিক্ষক-প্রশিক্ষণ
-- [[genai-literacy-training-teacher-education-dbr-2026]] - নকশা-ভিত্তিক গবেষণা GenAI সাক্ষরতা প্রশিক্ষণ
-- [[rail-ed-genai-literacy-teacher-education]] - শিক্ষক-প্রশিক্ষণে GenAI সাক্ষরতা পুনর্বিবেচনা
-- [[sec-ai-literacy-narrative-review-2026]] - সামাজিক-আবেগিক সক্ষমতার সঙ্গে এআই সাক্ষরতার সমন্বয়
-- [[teacher-ai-adoption-confidence]] - শিক্ষকদের মধ্যে এআই গ্রহণ: আত্মবিশ্বাস ও সমর্থন
-- [[ai-pedagogical-orientation]] - শিক্ষকমণ্ডলীর অভিমুখ এআই গ্রহণকে আকার দেয়
-- [[ai-literacy-assessment-misalignment]] - স্ব-প্রতিবেদিত ও কর্মদক্ষতাভিত্তিক এআই সক্ষমতার মধ্যে অসামঞ্জস্য
-- [[quest-ai-inquiry-preservice-teachers]] - প্রাক-সেবা শিক্ষকদের জন্য এআই-সমর্থিত অনুসন্ধান
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - EPIQ-AI শিক্ষকমণ্ডলী-প্রস্তুতি কাঠামো
-- [[llm-cultural-relevance-k12]] - সাংস্কৃতিকভাবে প্রাসঙ্গিক K-12 শিক্ষাদানে LLM
-- [[institutional-change-framework-ai]] - এআই-এর জন্য প্রাতিষ্ঠানিক পরিবর্তন কাঠামো
-- [[teachingcoach-chatbot-instructor-guidance]] - প্রশিক্ষক-পথনির্দেশে TeachingCoach চ্যাটবট
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - দক্ষতার ফাঁক নয়, পরিচয়-সংকট হিসেবে GenAI
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — শিক্ষকেরা নিজেদের শ্রেণিকক্ষের এআই কেস ট্যাগ করেন এবং ব্যবহারিক সক্ষমতায় সহজেই পৌঁছান, কিন্তু সামাজিক ও নৈতিক সক্ষমতায় বিরলভাবে (Wang প্রমুখ 2026)
+- [[typology-generative-ai-tools-education-2026]] — শিক্ষক-এজেন্সির অনুশীলন হিসেবে সরঞ্জাম-নির্বাচন
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — K-12 শিক্ষাদান ও শিখনে জেনারেটিভ এআই-এর পদ্ধতিগত পর্যালোচনা (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — K-12 এআই শিক্ষায় শিক্ষকের পেশাদার জ্ঞান: TAIK বনাম TPAIK এবং শিক্ষার্থীর শিখন (Shen প্রমুখ 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — অভিজ্ঞতা ও এআই-দক্ষতা জুড়ে পাঠ-নকশায় শিক্ষক-এআই মিথস্ক্রিয়ার ধরন (Choi প্রমুখ 2026)
+- [[preservice-teachers-responsible-genai-2026]] — প্রাক-সেবা শিক্ষকদের দায়িত্বশীল GenAI ব্যবহার: পাঠ্যক্রমিক তাৎপর্য (Kohnke প্রমুখ 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — শিক্ষকের পেশাদার উন্নয়নে LLM শ্রেণিকক্ষ-পর্যবেক্ষণ (Melo প্রমুখ 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — উপস্থাপনা, বিভাজন ও আনুমানিকতার মধ্য দিয়ে জেনারেটিভ এআই: রিহার্সাল, কাঠামোবদ্ধ প্রতিক্রিয়া ও নির্ভুলতা-সতর্কতা
+- [[genai-pd-ai-pck-learning-gain-2026]] — একটি নিবিড় GenAI পেশাদার-উন্নয়ন কর্মসূচির কার্যকারিতা
+- [[ai-tpack-teacher-multi-agent-workflow]] — শিক্ষকের বহু-এজেন্ট কর্মপ্রবাহের মাধ্যমে AI-TPACK মডেল করা
+- [[teacher-ai-teaming-five-levels]] — সমন্বিত শিক্ষক-এআই মিথস্ক্রিয়ার দিকে
+- [[teacher-education-ai-literacy-sdt-2026]] — স্ব-নিয়ন্ত্রণ তত্ত্বের মাধ্যমে এআই সাক্ষরতার শিক্ষক-প্রশিক্ষণ
+- [[genai-literacy-training-teacher-education-dbr-2026]] — নকশা-ভিত্তিক গবেষণা GenAI সাক্ষরতা প্রশিক্ষণ
+- [[rail-ed-genai-literacy-teacher-education]] — শিক্ষক-প্রশিক্ষণে GenAI সাক্ষরতা পুনর্বিবেচনা
+- [[sec-ai-literacy-narrative-review-2026]] — সামাজিক-আবেগিক সক্ষমতার সঙ্গে এআই সাক্ষরতার সমন্বয়
+- [[teacher-ai-adoption-confidence]] — শিক্ষকদের মধ্যে এআই গ্রহণ: আত্মবিশ্বাস ও সমর্থন
+- [[ai-pedagogical-orientation]] — শিক্ষকমণ্ডলীর অভিমুখ এআই গ্রহণকে আকার দেয়
+- [[ai-literacy-assessment-misalignment]] — স্ব-প্রতিবেদিত ও কর্মদক্ষতাভিত্তিক এআই সক্ষমতার মধ্যে অসামঞ্জস্য
+- [[quest-ai-inquiry-preservice-teachers]] — প্রাক-সেবা শিক্ষকদের জন্য এআই-সমর্থিত অনুসন্ধান
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI শিক্ষকমণ্ডলী-প্রস্তুতি কাঠামো
+- [[llm-cultural-relevance-k12]] — সাংস্কৃতিকভাবে প্রাসঙ্গিক K-12 শিক্ষাদানে LLM
+- [[institutional-change-framework-ai]] — এআই-এর জন্য প্রাতিষ্ঠানিক পরিবর্তন কাঠামো
+- [[teachingcoach-chatbot-instructor-guidance]] — প্রশিক্ষক-পথনির্দেশে TeachingCoach চ্যাটবট
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — দক্ষতার ফাঁক নয়, পরিচয়-সংকট হিসেবে GenAI
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - GenAI পাঠ্যক্রম নকশায় শিক্ষকের ডিজিটাল সক্ষমতা মূল্যায়ন (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - বিশ্ববিদ্যালয় শিক্ষকদের এআই-ধারণার ফেনোমেনোগ্রাফিক গবেষণা
-- [[ukraine-ai-literacy-secondary-framework-2026]] - পাঁচ-স্তরের এআই সাক্ষরতা কাঠামো + ইউক্রেনীয় মাধ্যমিক শিক্ষকদের পেশাদার উন্নয়ন (Marienko প্রমুখ 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - শিখন-কাজের শিক্ষক-এআই সহ-নকশা: প্রবণতা ও দৃষ্টিভঙ্গি (Wang প্রমুখ 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - এআই-নকশাকৃত বিভেদকৃত দলগত কার্যক্রমে ভূমিকার স্থাপত্য (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI পাঠ্যক্রম নকশায় শিক্ষকের ডিজিটাল সক্ষমতা মূল্যায়ন (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — বিশ্ববিদ্যালয় শিক্ষকদের এআই-ধারণার ফেনোমেনোগ্রাফিক গবেষণা
+- [[ukraine-ai-literacy-secondary-framework-2026]] — পাঁচ-স্তরের এআই সাক্ষরতা কাঠামো + ইউক্রেনীয় মাধ্যমিক শিক্ষকদের পেশাদার উন্নয়ন (Marienko প্রমুখ 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — শিখন-কাজের শিক্ষক-এআই সহ-নকশা: প্রবণতা ও দৃষ্টিভঙ্গি (Wang প্রমুখ 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — এআই-নকশাকৃত বিভেদকৃত দলগত কার্যক্রমে ভূমিকার স্থাপত্য (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - এআই-প্রতিক্রিয়ার গুণমানের পূর্বাভাসক হিসেবে প্রম্পট ইঞ্জিনিয়ারিং ও মডেল-নির্বাচন (Jacobsen প্রমুখ 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - AI Guilt Complex: একাডেমিক কর্মীদের মধ্যে প্রত্যাশিত অপরাধবোধ ও চারটি নৈতিক প্রতিক্রিয়া-প্রোফাইল (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - তিন ঘণ্টার শিক্ষক পেশাদার-উন্নয়ন সেশন উপলব্ধ উপযোগিতা ও ব্যবহার-সহজতা বাড়ায়, কিন্তু গ্রহণের ঘোষিত অভিপ্রায় নয় (Mesenhöller ও Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - প্রাক-সেবা প্রাথমিক গণিত শিক্ষক-প্রশিক্ষণে এআই: এগারোটির মধ্যে কেবল তিনটি গবেষণায় নীতিশাস্ত্র সম্বোধন (Pinto প্রমুখ 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - 1,057 মার্কিন শিক্ষকমণ্ডলীর AAC&U/Elon জরিপ: প্রস্তুতি, অ-ব্যবহার এবং ব্যক্তিগত-বনাম-প্রাতিষ্ঠানিক নীতির ফাঁক (Watson ও Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - আন্তঃপ্রাতিষ্ঠানিক শিক্ষকমণ্ডলী সহযোগিতা-কেন্দ্র: শিক্ষক-প্রস্তুতিতে শিক্ষাদান-নকশা হিসেবে এআই সংযুক্তি
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - শিক্ষকের এআই সাক্ষরতা মাপার 33টি যন্ত্রের পদ্ধতিগত পর্যালোচনা: 31টি স্ব-প্রতিবেদন, দুটি বস্তুনিষ্ঠ জ্ঞান-পরীক্ষা, কোনো কর্মদক্ষতা-কাজ নেই (Zainal, Mohd Matore ও Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - একটি নকশা-ভিত্তিক অভিযোজিত এআই সাক্ষরতা মডেল ও 22 জন শিক্ষক-শিক্ষকের সঙ্গে সহ-নকশাকৃত 20-আইটেম প্রতিফলনমূলক প্রশ্নমালা (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - অনিশ্চিত সময়ে এআই-এর কার্যকর ব্যবহারের জন্য ওয়ার্কশপ সিরিজ: একটি পদার্থবিদ্যা শিক্ষকমণ্ডলী শিখন-সম্প্রদায় গড়া
-- [[authentic-assessments-generative-ai-pilot-2026]] - জেনারেটিভ এআই দিয়ে খাঁটি মূল্যায়ন নকশা: উচ্চ শিক্ষায় Assessment Authentifire-এর পাইলট গবেষণা
-- [[teachers-configure-educational-chatbots-2026]] - শিক্ষকেরা কীভাবে শিক্ষামূলক এআই চ্যাটবট কনফিগার করেন: উদ্দেশ্য অনুযায়ী কি শেখাবে?
-- [[capability-decision-model-teacher-readiness-2026]] - কর্মদক্ষতাভিত্তিক সূচকসহ ক্রমবদ্ধ, সক্ষমতা-প্রথম শিক্ষক-প্রস্তুতি মডেল
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - 1,405 জন K-12 শিক্ষকের আন্তঃদেশীয় জরিপ: প্রস্তুতি ইতিবাচক বিশ্বাসের পূর্বাভাস দেয়, উদ্বেগের নয়
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - TALIS 2024-এর চারটি শিক্ষক-বিশ্বাস প্রোফাইল পেশাদার শিখন ও প্রোফাইল-নির্দিষ্ট বাধাকে এআই-ব্যবহারের সঙ্গে যুক্ত করে
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - বৃত্তিমূলক শিক্ষক-প্রশিক্ষণে বিশ্ববিদ্যালয় শিক্ষকদের জন্য এআই নিয়ে মাইক্রোলার্নিং মডিউল নকশা: একটি নকশা-ভিত্তিক গবেষণা
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: শিক্ষক-কনফিগার করা চ্যাটবট বাস্তব ব্যবহারে কীভাবে ব্যর্থ হয় এবং তা কীভাবে ঠিক করা যায়
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — এআই-প্রতিক্রিয়ার গুণমানের পূর্বাভাসক হিসেবে প্রম্পট ইঞ্জিনিয়ারিং ও মডেল-নির্বাচন (Jacobsen প্রমুখ 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI Guilt Complex: একাডেমিক কর্মীদের মধ্যে প্রত্যাশিত অপরাধবোধ ও চারটি নৈতিক প্রতিক্রিয়া-প্রোফাইল (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — তিন ঘণ্টার শিক্ষক পেশাদার-উন্নয়ন সেশন উপলব্ধ উপযোগিতা ও ব্যবহার-সহজতা বাড়ায়, কিন্তু গ্রহণের ঘোষিত অভিপ্রায় নয় (Mesenhöller ও Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — প্রাক-সেবা প্রাথমিক গণিত শিক্ষক-প্রশিক্ষণে এআই: এগারোটির মধ্যে কেবল তিনটি গবেষণায় নীতিশাস্ত্র সম্বোধন (Pinto প্রমুখ 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 মার্কিন শিক্ষকমণ্ডলীর AAC&U/Elon জরিপ: প্রস্তুতি, অ-ব্যবহার এবং ব্যক্তিগত-বনাম-প্রাতিষ্ঠানিক নীতির ফাঁক (Watson ও Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — আন্তঃপ্রাতিষ্ঠানিক শিক্ষকমণ্ডলী সহযোগিতা-কেন্দ্র: শিক্ষক-প্রস্তুতিতে শিক্ষাদান-নকশা হিসেবে এআই সংযুক্তি
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — শিক্ষকের এআই সাক্ষরতা মাপার 33টি যন্ত্রের পদ্ধতিগত পর্যালোচনা: 31টি স্ব-প্রতিবেদন, দুটি বস্তুনিষ্ঠ জ্ঞান-পরীক্ষা, কোনো কর্মদক্ষতা-কাজ নেই (Zainal, Mohd Matore ও Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — একটি নকশা-ভিত্তিক অভিযোজিত এআই সাক্ষরতা মডেল ও 22 জন শিক্ষক-শিক্ষকের সঙ্গে সহ-নকশাকৃত 20-আইটেম প্রতিফলনমূলক প্রশ্নমালা (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — অনিশ্চিত সময়ে এআই-এর কার্যকর ব্যবহারের জন্য ওয়ার্কশপ সিরিজ: একটি পদার্থবিদ্যা শিক্ষকমণ্ডলী শিখন-সম্প্রদায় গড়া
+- [[authentic-assessments-generative-ai-pilot-2026]] — জেনারেটিভ এআই দিয়ে খাঁটি মূল্যায়ন নকশা: উচ্চ শিক্ষায় Assessment Authentifire-এর পাইলট গবেষণা
+- [[teachers-configure-educational-chatbots-2026]] — শিক্ষকেরা কীভাবে শিক্ষামূলক এআই চ্যাটবট কনফিগার করেন: উদ্দেশ্য অনুযায়ী কি শেখাবে?
+- [[capability-decision-model-teacher-readiness-2026]] — কর্মদক্ষতাভিত্তিক সূচকসহ ক্রমবদ্ধ, সক্ষমতা-প্রথম শিক্ষক-প্রস্তুতি মডেল
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — 1,405 জন K-12 শিক্ষকের আন্তঃদেশীয় জরিপ: প্রস্তুতি ইতিবাচক বিশ্বাসের পূর্বাভাস দেয়, উদ্বেগের নয়
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024-এর চারটি শিক্ষক-বিশ্বাস প্রোফাইল পেশাদার শিখন ও প্রোফাইল-নির্দিষ্ট বাধাকে এআই-ব্যবহারের সঙ্গে যুক্ত করে
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — বৃত্তিমূলক শিক্ষক-প্রশিক্ষণে বিশ্ববিদ্যালয় শিক্ষকদের জন্য এআই নিয়ে মাইক্রোলার্নিং মডিউল নকশা: একটি নকশা-ভিত্তিক গবেষণা
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: শিক্ষক-কনফিগার করা চ্যাটবট বাস্তব ব্যবহারে কীভাবে ব্যর্থ হয় এবং তা কীভাবে ঠিক করা যায়

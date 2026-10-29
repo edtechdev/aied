@@ -10,7 +10,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
 source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
@@ -143,7 +143,7 @@ Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방�
 
 ## 연결된 문서
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - 측정된 계획 시간 절약과 함께, 교사들이 수업의 21%에서 40%만을 처음부터 계획한다는 발견
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — 측정된 계획 시간 절약과 함께, 교사들이 수업의 21%에서 40%만을 처음부터 계획한다는 발견
 - [[powerful-learning-with-emerging-technology-2025]] — 신기술을 활용한 강력한 학습
 - [[claassen-learning-analytics-genai-learning-design-2026]] — 학습 설계 의사결정에서의 학습 분석과 생성형 AI
 - [[tang-chatbots-learning-design-2026]] — 학습 설계에서의 챗봇 활용: 설계자들은 콘텐츠 생성보다 결과와 교수법에 집중함 (Tang et al. 2026)

@@ -114,20 +114,20 @@ ai_assist:
 - [[misconceptions]]
 
 ## Συνδεδεμένα άρθρα
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Συναίνεση 30 ειδικών για τη σειρά: απόκτηση χωρίς γενετική ΤΝ, εμπέδωση με αυτήν, και μετά σκέψη με το δικό σας κεφάλι
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Συναίνεση 30 ειδικών για τη σειρά: απόκτηση χωρίς γενετική ΤΝ, εμπέδωση με αυτήν, και μετά σκέψη με το δικό σας κεφάλι
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Διαφανές σκεπτικό για κάθε επιτρεπόμενη και μη επιτρεπόμενη χρήση γενετικής ΤΝ, εργασία προς εργασία (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - Ενθάρρυνση της κατάλληλης χρήσης γενετικής ΤΝ αντί καταδίκης της ως αναστάτωσης
-- [[student-rationalization-ai-writing]] - Οι «πέντε τόποι» όπου οι μαθητές εκλογικεύουν τη χρήση ΤΝ στην ακαδημαϊκή γραφή
-- [[student-regulatory-awareness-genai]] - Η γνώση των κανόνων δεν αρκεί: κανονιστική ενημέρωση και πραγματική χρήση
-- [[ai-anxiety-strategic-regulation-writing-2026]] - Από το άγχος για την ΤΝ στη στρατηγική ρύθμιση
-- [[chatgpt-inoculation-training-verification-2026]] - Μηνύματα εμβολιασμού και συμπεριφορά επαλήθευσης
-- [[ai-fallibility-warning-help-seeking]] - Η προειδοποίηση για την αναξιοπιστία της ΤΝ αυξάνει την αναζήτηση βοήθειας
-- [[shame-guilt-ai-regulation-computing-education]] - Η ντροπή και η ενοχή ως κοινωνικοί ρυθμιστές της χρήσης ΤΝ
-- [[access-not-enough-ai-tutoring-2026]] - Η ανθρώπινη υποστήριξη βελτιώνει την εμπλοκή με τη διδασκαλία μέσω ΤΝ
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - Εμπλοκή με τη γενετική ΤΝ με βάση τη θεωρία του αυτοπροσδιορισμού
-- [[ai-availability-student-motivation]] - Πώς η διαθεσιμότητα της ΤΝ διαμορφώνει τα κίνητρα των μαθητών
-- [[youtube-frames-chatgpt-education]] - Πώς το YouTube πλαισιώνει τη χρήση του ChatGPT στην εκπαίδευση
-- [[ai-ethics-education-public-discourse]] - Ο δημόσιος λόγος για την ηθική της ΤΝ στην εκπαίδευση
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Οι διδάσκοντες πλαισιώνουν την ΤΝ ως κριτική/υπεύθυνη χρήση, οι εργοδότες ως παραγωγικότητα
-- [[ssaho-ai-academic-integrity-review-2025]] - Οικοδόμηση κουλτούρας ακαδημαϊκής ακεραιότητας μέσω σαφών προσδοκιών
+- [[mccorkle-aligned-genai-course-policy-2025]] — Διαφανές σκεπτικό για κάθε επιτρεπόμενη και μη επιτρεπόμενη χρήση γενετικής ΤΝ, εργασία προς εργασία (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Ενθάρρυνση της κατάλληλης χρήσης γενετικής ΤΝ αντί καταδίκης της ως αναστάτωσης
+- [[student-rationalization-ai-writing]] — Οι «πέντε τόποι» όπου οι μαθητές εκλογικεύουν τη χρήση ΤΝ στην ακαδημαϊκή γραφή
+- [[student-regulatory-awareness-genai]] — Η γνώση των κανόνων δεν αρκεί: κανονιστική ενημέρωση και πραγματική χρήση
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Από το άγχος για την ΤΝ στη στρατηγική ρύθμιση
+- [[chatgpt-inoculation-training-verification-2026]] — Μηνύματα εμβολιασμού και συμπεριφορά επαλήθευσης
+- [[ai-fallibility-warning-help-seeking]] — Η προειδοποίηση για την αναξιοπιστία της ΤΝ αυξάνει την αναζήτηση βοήθειας
+- [[shame-guilt-ai-regulation-computing-education]] — Η ντροπή και η ενοχή ως κοινωνικοί ρυθμιστές της χρήσης ΤΝ
+- [[access-not-enough-ai-tutoring-2026]] — Η ανθρώπινη υποστήριξη βελτιώνει την εμπλοκή με τη διδασκαλία μέσω ΤΝ
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Εμπλοκή με τη γενετική ΤΝ με βάση τη θεωρία του αυτοπροσδιορισμού
+- [[ai-availability-student-motivation]] — Πώς η διαθεσιμότητα της ΤΝ διαμορφώνει τα κίνητρα των μαθητών
+- [[youtube-frames-chatgpt-education]] — Πώς το YouTube πλαισιώνει τη χρήση του ChatGPT στην εκπαίδευση
+- [[ai-ethics-education-public-discourse]] — Ο δημόσιος λόγος για την ηθική της ΤΝ στην εκπαίδευση
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Οι διδάσκοντες πλαισιώνουν την ΤΝ ως κριτική/υπεύθυνη χρήση, οι εργοδότες ως παραγωγικότητα
+- [[ssaho-ai-academic-integrity-review-2025]] — Οικοδόμηση κουλτούρας ακαδημαϊκής ακεραιότητας μέσω σαφών προσδοκιών

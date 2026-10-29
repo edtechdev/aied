@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
@@ -249,7 +248,7 @@ Konkrétne pre kritickú AI gramotnosť [[solyst-youth-systematic-evaluation-gen
 ## Prepojené články
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Formovanie raného detstva vo veku AI: kompetencie, pedagogika a ekologická podpora (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Bezpečnostná AI gramotnosť: ekosystémový rámec kompetencií a vzdelávacia platforma pre K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Zvyšovanie etickej dimenzie gramotnosti bez rámca zvládania môže zanechať študentov úzkostlivejších
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Zvyšovanie etickej dimenzie gramotnosti bez rámca zvládania môže zanechať študentov úzkostlivejších
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validovaných rámcov ukazuje, že AI rozširuje digitálnu gramotnosť smerom k etike, zatiaľ čo spolupráca pedagógov človeka a AI zostáva nedostatočne špecifikovaná (Guo a spol. 2026)
 - [[ai-literacies-young-adults-2025]] — Šesť oblastí kompetencií, päť hodnôt a tri úrovne progresie pre médiá verejných služieb
 - [[ai-literacy-heptagon-2026]] — Heptagon AI gramotnosti

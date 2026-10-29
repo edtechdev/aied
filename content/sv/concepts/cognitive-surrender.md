@@ -127,16 +127,16 @@ Evidensen för kapitulation som ett namngivet konstrukt vilar tungt på ett enda
 
 ## Anslutna artiklar
 
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-systemteori och kapituationens experimentella signatur
-- [[generative-ai-reduced-study-time-math]] - Förskjutning på befolkningsnivå i ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - ramverket kapitulation/avlastning/handlingsutrymme i förskola till gymnasium
-- [[du-yuan-epistemic-dependence-2026]] - instrumentellt kontra omdömesbärande stöd
-- [[ai-advice-suppresses-ikt-suspension-2026]] - kollapsen av "jag vet inte"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - neuralt engagemang och ägarskap
-- [[genai-thoughtless-use-self-directed-learning-2026]] - tanklös användning och självstyrt lärande
-- [[stamatoulis-genai-use-patterns-2026]] - upptag med låg verifiering kontra värderande integration
-- [[cognitive-washout-ai-skill-decay-2026]] - vad som händer efter tillbakadragandet
-- [[ai-overreliance-complex-adaptive-system-2026]] - överlitan som en befolkningsprocess
-- [[brcic-effortless-trap-productive-struggle-2026]] - att placera AI så att uppgiften förblir ansträngande
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - kalibreringsträning
-- [[family-school-autonomy-support-genai-2026]] - beroende kontra autonom avlastning
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-systemteori och kapituationens experimentella signatur
+- [[generative-ai-reduced-study-time-math]] — Förskjutning på befolkningsnivå i ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — ramverket kapitulation/avlastning/handlingsutrymme i förskola till gymnasium
+- [[du-yuan-epistemic-dependence-2026]] — instrumentellt kontra omdömesbärande stöd
+- [[ai-advice-suppresses-ikt-suspension-2026]] — kollapsen av "jag vet inte"
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuralt engagemang och ägarskap
+- [[genai-thoughtless-use-self-directed-learning-2026]] — tanklös användning och självstyrt lärande
+- [[stamatoulis-genai-use-patterns-2026]] — upptag med låg verifiering kontra värderande integration
+- [[cognitive-washout-ai-skill-decay-2026]] — vad som händer efter tillbakadragandet
+- [[ai-overreliance-complex-adaptive-system-2026]] — överlitan som en befolkningsprocess
+- [[brcic-effortless-trap-productive-struggle-2026]] — att placera AI så att uppgiften förblir ansträngande
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibreringsträning
+- [[family-school-autonomy-support-genai-2026]] — beroende kontra autonom avlastning

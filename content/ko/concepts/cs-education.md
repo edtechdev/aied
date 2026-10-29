@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: 컴퓨터 과학 교육
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-02T12:40:11-04:00"
@@ -189,7 +189,7 @@ ai_assist:
 - [[llm-adaptive-programming-error-explanations-2026]] — 프로그래밍 오류에 대한 LLM 적응형 설명
 - [[soft-barriers-copying-ai-programming-2026]] — AI 지원 프로그래밍에서의 복사-붙여넣기 저항
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - 소프트웨어 PBL 과목에서 AI 에이전트와 함께하는 SDD; 처리량 대 이해
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — 소프트웨어 PBL 과목에서 AI 에이전트와 함께하는 SDD; 처리량 대 이해
 - [[student-reception-genai-analogies-computing-2026]] — 결함 있으나 기억에 남는: 컴퓨팅 교육에서 관심 개인화 생성형 AI 비유에 대한 학생의 비판적 수용
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: 컴퓨터 과학 교육과정 전반에 걸쳐 전략적 오개념 생성 능력 벤치마킹
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 매개 채점의 프롬프트 인젝션 레드팀: 발각되지 않고 점수를 움직이는 숨겨진 지시

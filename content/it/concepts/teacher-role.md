@@ -10,7 +10,6 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/teacher-role
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -207,7 +206,7 @@ L'evidenza sostiene un ordine specifico delle operazioni per un docente che adot
 
 ## Articoli collegati
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Gli accademici a contratto portano il lavoro sull'integrità senza l'autorità
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Gli accademici a contratto portano il lavoro sull'integrità senza l'autorità
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — The more-human paradox: expert 2030 scenarios find AI saturation intensifies rather than displaces human pedagogical work (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
@@ -255,5 +254,5 @@ L'evidenza sostiene un ordine specifico delle operazioni per un docente che adot
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - L'uso dell'IA non ha avuto alcun effetto diretto sulla prestazione dei docenti; il comportamento di cittadinanza organizzativa la mediava (Sherly et al. 2027)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — L'uso dell'IA non ha avuto alcun effetto diretto sulla prestazione dei docenti; il comportamento di cittadinanza organizzativa la mediava (Sherly et al. 2027)
 

@@ -25,7 +25,6 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/snorkl
 source_updated: "2026-10-07T09:15:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

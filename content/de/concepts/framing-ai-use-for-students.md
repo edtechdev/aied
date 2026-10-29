@@ -115,7 +115,7 @@ Studierende werden auch durch den weiteren Mediendiskurs und den öffentlichen D
 
 ## Verbundene Artikel
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Ein Konsens von 30 Expertinnen und Experten zur Sequenz: ohne GenAI erwerben, mit ihr konsolidieren, dann selbst denken
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten zur Sequenz: ohne GenAI erwerben, mit ihr konsolidieren, dann selbst denken
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Transparente Begründung für jede erlaubte und jede unerlaubte GenAI-Nutzung, Aufgabe für Aufgabe (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Angemessene Nutzung von GenAI ermutigen statt sie als Störung zu verurteilen

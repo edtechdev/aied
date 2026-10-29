@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: CS教育
 created: "2026-10-10T22:31:16-04:00"
 updated: "2026-10-10T22:31:16-04:00"

@@ -10,7 +10,6 @@ audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -189,9 +188,9 @@ ai_assist:
 
 ## المقالات المتصلة
 
-- [[ai-proof-learning-cognitive-offloading-2026]] - دعم استدلال الطلاب أم استبداله؟ التفريغ المعرفي في تعلّم البراهين المدعوم بالذكاء الاصطناعي (Chen وآخرون 2026)
-- [[llm-math-homework-offloading-traces-2026]] - ما لا يُظهره التسليم: تعقيد التفريغ المعرفي في العمل الرياضي للطلاب مع النماذج اللغوية الكبيرة (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - إجماع 30 خبيرًا على 65 عملية تعلّم: التفريغ عند طرفَي سلسلة التعلّم
+- [[ai-proof-learning-cognitive-offloading-2026]] — دعم استدلال الطلاب أم استبداله؟ التفريغ المعرفي في تعلّم البراهين المدعوم بالذكاء الاصطناعي (Chen وآخرون 2026)
+- [[llm-math-homework-offloading-traces-2026]] — ما لا يُظهره التسليم: تعقيد التفريغ المعرفي في العمل الرياضي للطلاب مع النماذج اللغوية الكبيرة (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — إجماع 30 خبيرًا على 65 عملية تعلّم: التفريغ عند طرفَي سلسلة التعلّم
 - [[rented-self-decoupling-performance-becoming-2026]] — الذات المستأجرة: التفريغ الذي يكلّف ذات المتعلّم في المجال الدراسي لا مهارته وحدها
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — مجموعات بدت متماثلة فتباعدت: 74.1% تبنّيًا للنموذج في ملف مقابل 80.8% تفريغًا ومأزقًا في آخر (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — قلّلت مساعدة الذكاء الاصطناعي المثابرة والأداء دون مساعدة عبر ثلاث تجارب عشوائية مضبوطة (Liu et al. 2026)

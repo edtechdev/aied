@@ -9,7 +9,6 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/help-seeking
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

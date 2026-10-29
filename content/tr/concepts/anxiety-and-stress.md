@@ -10,7 +10,6 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: concepts/anxiety-and-stress
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -130,7 +129,7 @@ Olumlu taraf: YZ sistemleri giderek daha fazla stresi ve kaygıyı tespit etmekt
 - [[social-norms-ai-use]] — görünürlüğün duygusal bedeli
 
 ## Bağlı makaleler
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Yetkinlik etik farkındalığı artırır, etik farkındalık YZ kaygısını artırır: 584 öğrenci arasında dolaylı aracılık
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Yetkinlik etik farkındalığı artırır, etik farkındalık YZ kaygısını artırır: 584 öğrenci arasında dolaylı aracılık
 - [[ai-anxiety-strategic-regulation-writing-2026]] — Verimli bir stratejik düzenleme sinyali olarak YZ kaygısı
 - [[aivaluate-anxiety-assessment-2026]] — YZ aracılı performansa dayalı değerlendirmede öğrenci kaygısı
 - [[ai-campus-wellbeing-tools]] — Kampüs refahı için YZ kaynaklı araçlar

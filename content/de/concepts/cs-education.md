@@ -194,7 +194,7 @@ Informatikbildung verbindet sich mit [[computational-thinking|Computational Thin
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM-adaptive Erklärungen zu Programmierfehlern
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-Paste-Widerstand bei KI-unterstützter Programmierung
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD mit KI-Agenten in einem Software-PBL-Kurs; Durchsatz vs. Verstehen
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD mit KI-Agenten in einem Software-PBL-Kurs; Durchsatz vs. Verstehen
 - [[student-reception-genai-analogies-computing-2026]] — Fehlerhaft, aber einprägsam: Die kritische Rezeption von interessenpersonalisierten GenAI-Analogien in der Informatikbildung durch Studierende
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: Benchmarking der Fähigkeit von Modellen, strategische Missverständnisse über das Informatikcurriculum hinweg zu erzeugen
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injection-Red-Team an KI-vermittelter Benotung: versteckte Instruktionen, die die Note unbemerkt verändern

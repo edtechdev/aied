@@ -11,7 +11,6 @@ ethics: [trust]
 audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

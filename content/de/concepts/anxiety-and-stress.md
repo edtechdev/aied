@@ -147,7 +147,7 @@ Die positive Seite: KI-Systeme erkennen und helfen zunehmend, Stress und Angst z
 ## Verbundene Artikel
 
 - [[chatbots-oral-proficiency-efl-systematic-review]] — Ein prüferähnlicher Agent erhöhte gemessenes Sprechen und Angst zugleich
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Kompetenz erhöht ethisches Bewusstsein, ethisches Bewusstsein erhöht KI-Angst: reine indirekte Mediation unter 584 Studierenden, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Kompetenz erhöht ethisches Bewusstsein, ethisches Bewusstsein erhöht KI-Angst: reine indirekte Mediation unter 584 Studierenden, ethical awareness raises AI anxiety: indirect-only mediation among 584 students
 - [[ai-anxiety-strategic-regulation-writing-2026]] — KI-Angst als produktives Signal strategischer Regulation
 - [[aivaluate-anxiety-assessment-2026]] — Angst der Studierenden bei KI-vermitteltem performanzbasiertem Assessment
 - [[ai-campus-wellbeing-tools]] — KI-gestützte Werkzeuge für das Wohlbefinden auf dem Campus

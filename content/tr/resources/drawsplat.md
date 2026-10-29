@@ -17,7 +17,6 @@ level: [k 12]
 audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
-reviewed_by: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation

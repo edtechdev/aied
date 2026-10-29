@@ -10,7 +10,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cs-education
 source_updated: "2026-10-24T08:54:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
@@ -198,7 +197,7 @@ ai_assist:
 - [[llm-adaptive-programming-error-explanations-2026]] — 编程错误的大语言模型自适应解释
 - [[soft-barriers-copying-ai-programming-2026]] — AI 辅助编程中的复制粘贴阻力
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - 软件项目式学习课程中与 AI 智能体的规范驱动开发；吞吐量对理解
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — 软件项目式学习课程中与 AI 智能体的规范驱动开发；吞吐量对理解
 - [[student-reception-genai-analogies-computing-2026]] — 有缺陷但难忘：学生对计算教育中兴趣个性化生成式 AI 类比的批判性接受
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS：基准测试模型跨 CS 课程生成策略性误解的能力
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 中介评分的提示注入红队测试：不被察觉地移动分数的隐藏指令

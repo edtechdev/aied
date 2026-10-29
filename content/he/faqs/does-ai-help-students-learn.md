@@ -8,7 +8,6 @@ pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: faqs/does-ai-help-students-learn
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

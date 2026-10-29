@@ -205,29 +205,29 @@ Agenttinen tekoäly ei ole yleislääke eikä väistämätön haitta: sen arvo r
 
 ## Liittyvät artikkelit
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] - Autonomia, kyvykkyys, yhteenkuuluvuus ja sosiaalinen läsnäolo polkuina agenttisesta tekoälystä sitoutumiseen (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] - Tekoälyagentit, iloinen arviointi ja kolmas tila
-- [[ilieva-agentic-genai-higher-education-2026]] - AGAI-HE-viitekehys: rajattu, ihmisen valvoma agenttinen GAI korkeakoulutuksessa (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] - Kriittinen integratiivinen katsaus, joka esittelee AOE-evidenssi- ja valvontaviitekehyksen
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] - Näkökulma osallistaviin agenttisiin moniagenttisiin tekoälyekosysteemeihin korkeakoulutuksessa
-- [[baradziej-agentic-ai-higher-education-2026]] - Systemaattinen katsaus agenttisen tekoälyn rooleihin korkeakoulutuksessa (48 tutkimusta; kuusi roolia; kolmiosainen vastuullisen integraation viitekehys)
-- [[kostopoulos-agentic-ai-education-2025]] - Agenttinen tekoäly koulutuksessa: nykytila ja tulevat suunnat (IEEE Access -katsaus; toiminnallinen määritelmä + taksonomia)
-- [[agentic-ai-education-scoping-review]] - Kartoittava katsaus agenttisesta tekoälystä koulutuksessa (474 tutkimusta)
-- [[agentic-ai-pedagogical-best-practice-2026]] - Automaation ja oppimisen välinen jännite
-- [[tool-invariant-framework-agentic-ai]] - Laskennallisten menetelmien opettaminen ja arviointi agenttisen tekoälyn aikakaudella
-- [[jeon-isd-agent-bench-2026]] - ISD-Agent-Bench: opetussuunnitteluagenttien vertailuanalyysi
-- [[adversarial-stress-testing-role-playing-agents]] - Roolileikkiagenttien adversariaalinen stressitestaus
-- [[ai-agents-constructive-conflict-design-education-2026]] - Rakentavan konfliktin tekoälyagentit muotoilukoulutuksessa
-- [[ai-tpack-teacher-multi-agent-workflow]] - Opettajan TPACK ja moniagenttityönkulut
-- [[code-gen]] - Koodingenerointiagentit
-- [[educlaw-bench-pedagogical-llm-agents-2026]] - Pedagogisten LLM-agenttien vertailuanalyysi
-- [[guided-llm-scaffolding-independent-learning]] - Ohjattu LLM-tukeminen itsenäiseen oppimiseen
-- [[learnmate2-llm-adaptive-learning]] - LearnMate-2-mukautuvan oppimisen agentit
-- [[cyberagents-gamified-cybersecurity-learning-2026]] - Pellillistetyt kyberturvallisuusoppimisen agentit
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] - Agenttinen tekoäly kliinisessä simulaatiossa
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Kummitusopiskelijat ja agenttisen tekoälyn tarkistamisen aukko (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] - Tekoälyagentit suorittavat LMS-tehtäviä; validiteetin epäonnistuminen ihmistuotanto-oletuksen kautta (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] - AI Web Agents: kuvaileva agentti oppimiskokemuksen arvioijana (ennustaa keskeyttämisen, antaa suunnittelupalautetta ennen kuin opiskelijat sitoutuvat)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD tekoälyagenttien kanssa ohjelmistoprojektipohjaisessa oppimisessa; automaatio vastaan ymmärtäminen
-- [[ai-standardized-patient-scaffolding-medical-2026]] - Tukemiseen suuntautuvan moniagenttisen suuren kielimallin järjestelmän arviointi kliinisen haastattelun koulutuksessa
-- [[ethics-training-agents-group-ethics-discussion-2026]] - Ethics Training Agents: ryhmäpohjaisen etiikkakasvatuksen fasilitointi roolileikin ja keskustelun avulla eettiseen reflektioon ja tutkimiseen
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomia, kyvykkyys, yhteenkuuluvuus ja sosiaalinen läsnäolo polkuina agenttisesta tekoälystä sitoutumiseen (Pramod & Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — Tekoälyagentit, iloinen arviointi ja kolmas tila
+- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE-viitekehys: rajattu, ihmisen valvoma agenttinen GAI korkeakoulutuksessa (Ilieva et al. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — Kriittinen integratiivinen katsaus, joka esittelee AOE-evidenssi- ja valvontaviitekehyksen
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Näkökulma osallistaviin agenttisiin moniagenttisiin tekoälyekosysteemeihin korkeakoulutuksessa
+- [[baradziej-agentic-ai-higher-education-2026]] — Systemaattinen katsaus agenttisen tekoälyn rooleihin korkeakoulutuksessa (48 tutkimusta; kuusi roolia; kolmiosainen vastuullisen integraation viitekehys)
+- [[kostopoulos-agentic-ai-education-2025]] — Agenttinen tekoäly koulutuksessa: nykytila ja tulevat suunnat (IEEE Access -katsaus; toiminnallinen määritelmä + taksonomia)
+- [[agentic-ai-education-scoping-review]] — Kartoittava katsaus agenttisesta tekoälystä koulutuksessa (474 tutkimusta)
+- [[agentic-ai-pedagogical-best-practice-2026]] — Automaation ja oppimisen välinen jännite
+- [[tool-invariant-framework-agentic-ai]] — Laskennallisten menetelmien opettaminen ja arviointi agenttisen tekoälyn aikakaudella
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: opetussuunnitteluagenttien vertailuanalyysi
+- [[adversarial-stress-testing-role-playing-agents]] — Roolileikkiagenttien adversariaalinen stressitestaus
+- [[ai-agents-constructive-conflict-design-education-2026]] — Rakentavan konfliktin tekoälyagentit muotoilukoulutuksessa
+- [[ai-tpack-teacher-multi-agent-workflow]] — Opettajan TPACK ja moniagenttityönkulut
+- [[code-gen]] — Koodingenerointiagentit
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogisten LLM-agenttien vertailuanalyysi
+- [[guided-llm-scaffolding-independent-learning]] — Ohjattu LLM-tukeminen itsenäiseen oppimiseen
+- [[learnmate2-llm-adaptive-learning]] — LearnMate-2-mukautuvan oppimisen agentit
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — Pellillistetyt kyberturvallisuusoppimisen agentit
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agenttinen tekoäly kliinisessä simulaatiossa
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Kummitusopiskelijat ja agenttisen tekoälyn tarkistamisen aukko (Bozkurt et al. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — Tekoälyagentit suorittavat LMS-tehtäviä; validiteetin epäonnistuminen ihmistuotanto-oletuksen kautta (Hadjisolomou & El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: kuvaileva agentti oppimiskokemuksen arvioijana (ennustaa keskeyttämisen, antaa suunnittelupalautetta ennen kuin opiskelijat sitoutuvat)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD tekoälyagenttien kanssa ohjelmistoprojektipohjaisessa oppimisessa; automaatio vastaan ymmärtäminen
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Tukemiseen suuntautuvan moniagenttisen suuren kielimallin järjestelmän arviointi kliinisen haastattelun koulutuksessa
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: ryhmäpohjaisen etiikkakasvatuksen fasilitointi roolileikin ja keskustelun avulla eettiseen reflektioon ja tutkimiseen

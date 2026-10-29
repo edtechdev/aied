@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/ethics
 source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -107,7 +106,7 @@ Maadili yanaungana na [[equity-in-ai-education]], [[privacy]], [[bias-mitigation
 - [[biology-education]] — Elimu ya biolojia na AI: wasaidizi wa wataalam wa maabara, ujuzi wa AI katika biolojia, ufikiri wa kukosoa, zana maalum
 
 ## Makala Zilizounganishwa
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ufahamu wa maadili uliongeza wasiwasi wa AI ambapo hakuna mfumo wa kukabiliana uliofundishwa: utangulizi wa isiyo ya moja kwa moja tu miongoni mwa wanafunzi 584
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Ufahamu wa maadili uliongeza wasiwasi wa AI ambapo hakuna mfumo wa kukabiliana uliofundishwa: utangulizi wa isiyo ya moja kwa moja tu miongoni mwa wanafunzi 584
 - [[learning-analytics-to-educational-interventions-2026]] — Kutoka uchanganuzi wa kujifunza hadi uingiliaji wa elimu: viwezeshaji vya uingiliaji wa kuaminika unaotegemea LA (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Jinsi wanafunzi wanavyotumia na kuficha AI katika tathmini za mtandaoni
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Ufichuzi wa AI wa mwanafunzi, unyonyaji, na kujifunza kwa kujidhibiti

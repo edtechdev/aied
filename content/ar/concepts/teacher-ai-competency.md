@@ -11,7 +11,6 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
-reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -162,9 +161,9 @@ ai_assist:
 
 ## المقالات المرتبطة
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - أي المعلّمين كسبوا وقت التخطيط: الثقة الأدنى بمعرفة المادة، أو المعرفة البيداغوجية الأدنى، أو الأحدث في المهنة، أو الثقة العالية بالتقنية
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - المعلّمون يقبلون الذكاء الاصطناعي مع سوء فهم كيف يعمل (Aji وآخرون 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - استعداد المعلّم والتكامل التقني البيداغوجي كأكثر التحديات تكرارًا عبر 54 دراسة في تعليم الرياضيات (Manto وآخرون 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — أي المعلّمين كسبوا وقت التخطيط: الثقة الأدنى بمعرفة المادة، أو المعرفة البيداغوجية الأدنى، أو الأحدث في المهنة، أو الثقة العالية بالتقنية
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — المعلّمون يقبلون الذكاء الاصطناعي مع سوء فهم كيف يعمل (Aji وآخرون 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — استعداد المعلّم والتكامل التقني البيداغوجي كأكثر التحديات تكرارًا عبر 54 دراسة في تعليم الرياضيات (Manto وآخرون 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — ثقافة التقويم متعدد الوسائط: برنامج دام سنة تحرّكت فيه المعرفة والكفاءة ولم تتحرك القيم
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — التطوير المهني Intelligent-TPACK: نصف انحراف معياري من المكسب، ومكاسب سالبة تُقرأ كإعادة معايرة — أثر برامج التطوير المهني على ثقافة معلمي k-12 في الذكاء الاصطناعي: مراجعة منهجية وتحليل تجميعي
@@ -215,4 +214,4 @@ ai_assist:
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — مسح عبر الأوطان لـ1,405 معلّماً في k-12: الاستعداد يتنبّأ بالمعتقدات الإيجابية لا بالاهتمام
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — أربعة أنماط معتقدات لمعلمي TALIS 2024 تربط التعلّم المهني والعوائق الخاصة بكل نمط باستخدام الذكاء الاصطناعي
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — تصميم وحدات تعلّم جزئية حول الذكاء الاصطناعي لمعلّمي الجامعات في تعليم المعلّمين المهنيّين: دراسة بحث تصميمي
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: كيف تفشل روبوتات الحوار التي يهيّئها المعلّمون في الاستخدام الواقعي وكيف تُصلَح
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: كيف تفشل روبوتات الحوار التي يهيّئها المعلّمون في الاستخدام الواقعي وكيف تُصلَح

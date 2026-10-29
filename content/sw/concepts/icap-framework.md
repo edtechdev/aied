@@ -7,7 +7,6 @@ foundations: [learning-design]
 pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
 technology: [educational-nlp, learning-analytics]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/icap-framework
 source_updated: "2026-09-30T08:05:25-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

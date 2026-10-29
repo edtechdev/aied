@@ -194,46 +194,46 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## সংযুক্ত নিবন্ধ
-- [[ai-proof-learning-cognitive-offloading-2026]] - শিক্ষার্থীর যুক্তি সমর্থন না প্রতিস্থাপন? AI-সহায়তাপ্রাপ্ত প্রমাণ-শিখনে সংজ্ঞানাত্মক অফলোডিং (Chen প্রমুখ 2026)
-- [[llm-math-homework-offloading-traces-2026]] - জমা যা দেখায় না: LLM দিয়ে শিক্ষার্থীদের গাণিতিক কাজে সংজ্ঞানাত্মক অফলোডিং জটিল করা (Kontorovich ও Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 65টি শিখন-প্রক্রিয়ার ওপর 30-বিশেষজ্ঞের ঐকমত্য: শিখন-ক্রমের দুই প্রান্তে অফলোডিং
-- [[rented-self-decoupling-performance-becoming-2026]] - ভাড়া করা আত্ম: অফলোডিং যা কেবল দক্ষতা নয়, শিক্ষার্থীর ক্ষেত্র-আত্মাও খরচ করে
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - একইভাবে শুরু করা দলগুলো আলাদা হয়েছে: একটি প্রোফাইলে 74.1% মডেল-গ্রহণ, অন্যটিতে 80.8% অফলোডিং ও অচলাবস্থা (Kilinc প্রমুখ 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - AI সহায়তা তিনটি RCT জুড়ে অধ্যবসায় ও সহায়তাহীন কর্মক্ষমতা কমিয়েছে (Liu প্রমুখ 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - সংজ্ঞানাত্মক ভরসার লাঠি হিসেবে ChatGPT: 45 দিন পরে জ্ঞান-ধারণ নিয়ে একটি র‍্যান্ডমাইজড নিয়ন্ত্রিত পরীক্ষা (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - সংজ্ঞানাত্মক বহির্ভুক্তিকরণ থেকে পুনর্বণ্টনে: তত্ত্বাবধানহীন মূল্যায়নে শিক্ষার্থী-GenAI সম্পৃক্ততার 3P বিশ্লেষণ (Yan প্রমুখ 2026)
-- [[family-school-autonomy-support-genai-2026]] - শিশুদের জেনারেটিভ AI দায়িত্বশীল ব্যবহারে পরিবার-বিদ্যালয় স্বায়ত্তশাসন সমর্থন
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - অতিরিক্ত বনাম উপকারী ঘর্ষণ: কেন AI-অফলোডিং আগের সরঞ্জাম থেকে ভিন্ন
-- [[thermomix-genai-education-analogy-2026]] - With a Thermomix You Lose the Ability to Cook: শিক্ষায় জেনারেটিভ AI-এর জন্য একটি রান্নাঘর-যন্ত্রের উপমা (Rummel, Nachtigall ও Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - সংজ্ঞানাত্মক ধোয়া: AI-প্ররোচিত দক্ষতা-ক্ষয়ের প্রত্যাহার-পরবর্তী গতিশীলতা
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - কথোপকথনমূলক AI সম্পৃক্ততা ও নির্ভরতার একটি সমালোচনামূলক বয়ান-সংশ্লেষণ
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - GenAI-সহায়তাপ্রাপ্ত লেখনে স্তর-সংবেদনশীল সংজ্ঞানাত্মক অফলোডিং (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - AI-মধ্যস্থিত শিখনে জ্ঞানতাত্ত্বিক নির্ভরতা: উৎপাদনশীল নির্ভরতাকে ক্ষতিকর নির্ভরতা থেকে আলাদা করা ছয়টি রোগনির্ণয় মানদণ্ড (Du ও Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - শিখন-প্রতিবন্ধকতাসম্পন্ন শিক্ষার্থীদের জন্য GenAI সংজ্ঞানাত্মক অফলোডিং
-- [[lodge-loble-cognitive-offloading-2026]] - AI, সংজ্ঞানাত্মক অফলোডিং এবং শিক্ষার জন্য এর প্রভাব
-- [[cognitive-offloading-metacognitive-review-2026]] - সংজ্ঞানাত্মক অফলোডিং নিয়ে মেটা-কগনিটিভ অন্তর্দৃষ্টি (Guo ও Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - মেটাকগনিটিভ প্রশিক্ষণ সর্বোত্তম সংজ্ঞানাত্মক অফলোডিং সহজ করে (Ngai ও Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - GenAI-সংযোজিত শিখনে সমালোচনামূলক-চিন্তা বিরোধাভাস
-- [[cognitive-offloading-speedup-illusion]] - AI-সহায়তাপ্রাপ্ত কাজের গতিবর্ধনের মায়া
-- [[misiejuk-cognitive-offloading-prompting-2026]] - প্রম্পট-ধরনের সহ-ঘটনা নেটওয়ার্ক বিশ্লেষণ
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory ও সংজ্ঞানাত্মক আত্মসমর্পণ: AI কীভাবে মানব যুক্তি নতুন রূপ দেয় (Shaw ও Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - GenAI-এর জন্য আত্মসমর্পণ-অফলোডিং-এজেন্সি ধারাবাহিকতা
-- [[ai-making-us-stupid]] - AI-এর সংজ্ঞানাত্মক প্রভাব ও শিখন-স্থানচ্যুতি নিয়ে গবেষণা
-- [[brcic-effortless-trap-productive-struggle-2026]] - The Effortless Trap: সংজ্ঞানাত্মক কাজ প্রতিস্থাপনকারী AI (Brcic ও Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - চিন্তাহীন AI-ব্যবহার স্ব-নির্দেশিত শিখন ক্ষয় করে
-- [[generative-ai-guardrails-harm-learning]] - অরক্ষিত GenAI নিয়ে উচ্চ-বিদ্যালয় গণিতের RCT
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - জেনারেটিভ AI শিখন-জরিমানা: হোমওয়ার্ক বহির্ভুক্তিকরণ শিখনের ক্ষতি করে
-- [[coach-not-crutch-ai-writing]] - AI কম কাজ করে বেশি শিখতে পারে (Lira প্রমুখ 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - AI টিউটরিং উৎপাদনশীল করা: দক্ষতা-ভিত্তিক গণিত অনুশীলন
-- [[cognitive-commons-ai-expertise-regeneration]] - সংজ্ঞানাত্মক কমন্সের ট্র্যাজেডি: AI ও দক্ষতা-পুনরুৎপাদন
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: AI-সংযুক্ত সংজ্ঞানাত্মক অফলোডিংয়ের জন্য একটি গোপনীয়তা-সংরক্ষক স্ব-প্রতিফলন সরঞ্জাম
-- [[chatgpt-writing-cognitive-impact-2026]] - একটি লিখে-শেখার পরীক্ষা যেখানে ChatGPT-সহায়তাপ্রাপ্ত লেখন সহায়তাহীন নিয়ন্ত্রণের চেয়ে কম জ্ঞান-লাভ দিয়েছে
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - উচ্চ শিক্ষায় শিক্ষার্থীদের AI-তে সংজ্ঞানাত্মক অফলোডিংয়ের ধরন: প্রাকৃতিক ChatGPT বার্তা-স্তরের প্রমাণ (Piatnitckaia প্রমুখ 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Designing Against Deskilling: মেটাকগনিটিভ ফিডব্যাক LLM সহায়কে সংজ্ঞানাত্মক অফলোডিং কমায়
-- [[chatgpt-programming-performance-retention-ownership-2026]] - ChatGPT দিয়ে আপনার প্রোগ্রামিং শিক্ষার্থীদের সংজ্ঞানাত্মকতা: উচ্চতর কর্মক্ষমতা, কম ধারণ, এবং কম মালিকানা
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - মেটাকগনিটিভ স্ব-নিয়ন্ত্রণের মাধ্যমে উচ্চতর-ক্রমের ফলাফল পূর্বানুমানকারী অফলোডিং-প্রবণতা ও যাচাই-সাক্ষরতা (Davor প্রমুখ 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - একটি প্রতিফলন-প্রম্পট ভুল AI-পরামর্শ গ্রহণ কমায় এবং সচেতনতা-মান-নির্ধারণ উন্নত করে (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - সমালোচনামূলক-চিন্তা প্রবণতা ও স্ব-অনুভূত নিয়োগযোগ্যতার ওপর সীমানা-শর্ত হিসেবে GenAI নির্ভরতা (Shojaei প্রমুখ 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - সমান সৃজনশীলতা-স্কোরে ChatGPT-এর সঙ্গে কথা বলার সময় শিশুরা প্রাপ্তবয়স্কদের চেয়ে দুর্বল ফ্রন্টোপারিয়েটাল, স্যালিয়েন্স ও ডর্সাল মনোযোগ সংযোগ দেখিয়েছে
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI ও শিশুদের সৃজনশীল চিন্তা: একটি স্কোপিং পর্যালোচনায় অতিরিক্ত নির্ভরতা ও প্রম্পট-নির্ভরতা (Niu প্রমুখ 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — শিক্ষার্থীর যুক্তি সমর্থন না প্রতিস্থাপন? AI-সহায়তাপ্রাপ্ত প্রমাণ-শিখনে সংজ্ঞানাত্মক অফলোডিং (Chen প্রমুখ 2026)
+- [[llm-math-homework-offloading-traces-2026]] — জমা যা দেখায় না: LLM দিয়ে শিক্ষার্থীদের গাণিতিক কাজে সংজ্ঞানাত্মক অফলোডিং জটিল করা (Kontorovich ও Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 65টি শিখন-প্রক্রিয়ার ওপর 30-বিশেষজ্ঞের ঐকমত্য: শিখন-ক্রমের দুই প্রান্তে অফলোডিং
+- [[rented-self-decoupling-performance-becoming-2026]] — ভাড়া করা আত্ম: অফলোডিং যা কেবল দক্ষতা নয়, শিক্ষার্থীর ক্ষেত্র-আত্মাও খরচ করে
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — একইভাবে শুরু করা দলগুলো আলাদা হয়েছে: একটি প্রোফাইলে 74.1% মডেল-গ্রহণ, অন্যটিতে 80.8% অফলোডিং ও অচলাবস্থা (Kilinc প্রমুখ 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI সহায়তা তিনটি RCT জুড়ে অধ্যবসায় ও সহায়তাহীন কর্মক্ষমতা কমিয়েছে (Liu প্রমুখ 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — সংজ্ঞানাত্মক ভরসার লাঠি হিসেবে ChatGPT: 45 দিন পরে জ্ঞান-ধারণ নিয়ে একটি র‍্যান্ডমাইজড নিয়ন্ত্রিত পরীক্ষা (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — সংজ্ঞানাত্মক বহির্ভুক্তিকরণ থেকে পুনর্বণ্টনে: তত্ত্বাবধানহীন মূল্যায়নে শিক্ষার্থী-GenAI সম্পৃক্ততার 3P বিশ্লেষণ (Yan প্রমুখ 2026)
+- [[family-school-autonomy-support-genai-2026]] — শিশুদের জেনারেটিভ AI দায়িত্বশীল ব্যবহারে পরিবার-বিদ্যালয় স্বায়ত্তশাসন সমর্থন
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — অতিরিক্ত বনাম উপকারী ঘর্ষণ: কেন AI-অফলোডিং আগের সরঞ্জাম থেকে ভিন্ন
+- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: শিক্ষায় জেনারেটিভ AI-এর জন্য একটি রান্নাঘর-যন্ত্রের উপমা (Rummel, Nachtigall ও Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — সংজ্ঞানাত্মক ধোয়া: AI-প্ররোচিত দক্ষতা-ক্ষয়ের প্রত্যাহার-পরবর্তী গতিশীলতা
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — কথোপকথনমূলক AI সম্পৃক্ততা ও নির্ভরতার একটি সমালোচনামূলক বয়ান-সংশ্লেষণ
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI-সহায়তাপ্রাপ্ত লেখনে স্তর-সংবেদনশীল সংজ্ঞানাত্মক অফলোডিং (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — AI-মধ্যস্থিত শিখনে জ্ঞানতাত্ত্বিক নির্ভরতা: উৎপাদনশীল নির্ভরতাকে ক্ষতিকর নির্ভরতা থেকে আলাদা করা ছয়টি রোগনির্ণয় মানদণ্ড (Du ও Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — শিখন-প্রতিবন্ধকতাসম্পন্ন শিক্ষার্থীদের জন্য GenAI সংজ্ঞানাত্মক অফলোডিং
+- [[lodge-loble-cognitive-offloading-2026]] — AI, সংজ্ঞানাত্মক অফলোডিং এবং শিক্ষার জন্য এর প্রভাব
+- [[cognitive-offloading-metacognitive-review-2026]] — সংজ্ঞানাত্মক অফলোডিং নিয়ে মেটা-কগনিটিভ অন্তর্দৃষ্টি (Guo ও Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — মেটাকগনিটিভ প্রশিক্ষণ সর্বোত্তম সংজ্ঞানাত্মক অফলোডিং সহজ করে (Ngai ও Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — GenAI-সংযোজিত শিখনে সমালোচনামূলক-চিন্তা বিরোধাভাস
+- [[cognitive-offloading-speedup-illusion]] — AI-সহায়তাপ্রাপ্ত কাজের গতিবর্ধনের মায়া
+- [[misiejuk-cognitive-offloading-prompting-2026]] — প্রম্পট-ধরনের সহ-ঘটনা নেটওয়ার্ক বিশ্লেষণ
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory ও সংজ্ঞানাত্মক আত্মসমর্পণ: AI কীভাবে মানব যুক্তি নতুন রূপ দেয় (Shaw ও Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI-এর জন্য আত্মসমর্পণ-অফলোডিং-এজেন্সি ধারাবাহিকতা
+- [[ai-making-us-stupid]] — AI-এর সংজ্ঞানাত্মক প্রভাব ও শিখন-স্থানচ্যুতি নিয়ে গবেষণা
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: সংজ্ঞানাত্মক কাজ প্রতিস্থাপনকারী AI (Brcic ও Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — চিন্তাহীন AI-ব্যবহার স্ব-নির্দেশিত শিখন ক্ষয় করে
+- [[generative-ai-guardrails-harm-learning]] — অরক্ষিত GenAI নিয়ে উচ্চ-বিদ্যালয় গণিতের RCT
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — জেনারেটিভ AI শিখন-জরিমানা: হোমওয়ার্ক বহির্ভুক্তিকরণ শিখনের ক্ষতি করে
+- [[coach-not-crutch-ai-writing]] — AI কম কাজ করে বেশি শিখতে পারে (Lira প্রমুখ 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — AI টিউটরিং উৎপাদনশীল করা: দক্ষতা-ভিত্তিক গণিত অনুশীলন
+- [[cognitive-commons-ai-expertise-regeneration]] — সংজ্ঞানাত্মক কমন্সের ট্র্যাজেডি: AI ও দক্ষতা-পুনরুৎপাদন
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: AI-সংযুক্ত সংজ্ঞানাত্মক অফলোডিংয়ের জন্য একটি গোপনীয়তা-সংরক্ষক স্ব-প্রতিফলন সরঞ্জাম
+- [[chatgpt-writing-cognitive-impact-2026]] — একটি লিখে-শেখার পরীক্ষা যেখানে ChatGPT-সহায়তাপ্রাপ্ত লেখন সহায়তাহীন নিয়ন্ত্রণের চেয়ে কম জ্ঞান-লাভ দিয়েছে
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — উচ্চ শিক্ষায় শিক্ষার্থীদের AI-তে সংজ্ঞানাত্মক অফলোডিংয়ের ধরন: প্রাকৃতিক ChatGPT বার্তা-স্তরের প্রমাণ (Piatnitckaia প্রমুখ 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: মেটাকগনিটিভ ফিডব্যাক LLM সহায়কে সংজ্ঞানাত্মক অফলোডিং কমায়
+- [[chatgpt-programming-performance-retention-ownership-2026]] — ChatGPT দিয়ে আপনার প্রোগ্রামিং শিক্ষার্থীদের সংজ্ঞানাত্মকতা: উচ্চতর কর্মক্ষমতা, কম ধারণ, এবং কম মালিকানা
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — মেটাকগনিটিভ স্ব-নিয়ন্ত্রণের মাধ্যমে উচ্চতর-ক্রমের ফলাফল পূর্বানুমানকারী অফলোডিং-প্রবণতা ও যাচাই-সাক্ষরতা (Davor প্রমুখ 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — একটি প্রতিফলন-প্রম্পট ভুল AI-পরামর্শ গ্রহণ কমায় এবং সচেতনতা-মান-নির্ধারণ উন্নত করে (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — সমালোচনামূলক-চিন্তা প্রবণতা ও স্ব-অনুভূত নিয়োগযোগ্যতার ওপর সীমানা-শর্ত হিসেবে GenAI নির্ভরতা (Shojaei প্রমুখ 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — সমান সৃজনশীলতা-স্কোরে ChatGPT-এর সঙ্গে কথা বলার সময় শিশুরা প্রাপ্তবয়স্কদের চেয়ে দুর্বল ফ্রন্টোপারিয়েটাল, স্যালিয়েন্স ও ডর্সাল মনোযোগ সংযোগ দেখিয়েছে
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI ও শিশুদের সৃজনশীল চিন্তা: একটি স্কোপিং পর্যালোচনায় অতিরিক্ত নির্ভরতা ও প্রম্পট-নির্ভরতা (Niu প্রমুখ 2026)
 

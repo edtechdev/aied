@@ -142,13 +142,13 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 - [[stakeholders]] - Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
 
 ## Artikel Terkait
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Analisis wacana kritis atas nasihat keselarasan GenAI: pengembang diubah menjadi pelatih teknologi
-- [[crompton-faculty-technology-integration-standards-2026]] - Standar fakultas untuk integrasi teknologi (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Dimensi etis AI: pandangan fakultas dan mahasiswa
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisis wacana kritis atas nasihat keselarasan GenAI: pengembang diubah menjadi pelatih teknologi
+- [[crompton-faculty-technology-integration-standards-2026]] — Standar fakultas untuk integrasi teknologi (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensi etis AI: pandangan fakultas dan mahasiswa
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Bagaimana Metafora Fakultas Teknik Membangun (dan Membatasi) Pemahaman tentang AI
-- [[fear-awe-genai-metaphor-workshops-2025]] - Takut dan Kagum: Memaknai AI Generatif Melalui Metafora (lokakarya metafora fakultas/staf/mahasiswa)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Mengelola yang tak terlihat: literasi AI di kalangan guru bahasa
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Bagaimana Metafora Fakultas Teknik Membangun (dan Membatasi) Pemahaman tentang AI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Takut dan Kagum: Memaknai AI Generatif Melalui Metafora (lokakarya metafora fakultas/staf/mahasiswa)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Mengelola yang tak terlihat: literasi AI di kalangan guru bahasa
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI sebagai krisis identitas, bukan kesenjangan keterampilan
-- [[zuo-instructor-power-genai-writing-2026]] - Relasi kuasa yang dipersepsikan dosen perguruan tinggi yang bergulat dengan GenAI dalam penulisan (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflective Triangle Model: AI sebagai mediator kognitif
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Pengetahuan TPACK-21 yang dipersepsikan sendiri oleh fakultas untuk GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - PD Intelligent-TPACK: kehadiran memprediksi perolehan, partisipasi yang dipersepsikan sendiri tidak
-- [[instructional-design-proficiency-masters-math-2026]] - Model ruang kelas pintar dan lingkar D-T-E yang meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Pengalaman dan persepsi dosen universitas tentang GAI: kerentanan, memikirkan ulang penilaian, pembelajaran mahasiswa yang berisiko (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Dari takut ke inovasi: institut fakultas enam minggu, pedagogi simbiotik, dan kondisi institusional yang tidak dapat disediakannya
-- [[vassallo-ai-guilt-complex-faculty-2026]] - The AI Guilt Complex: rasa bersalah antisipatif, penyembunyian dan perbedaan tahap karier di kalangan staf akademik (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Survei AAC&U/Elon terhadap 1.057 dosen AS: ketidaksiapan institusional, tata kelola yang tipis dan jurang kebijakan 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Pengembang akademik sebagai mediator digital di pendidikan tinggi Global South: pengembangan sebagai praksis sosioteksnis
-- [[physics-faculty-learning-community-ai-2026]] - Rangkaian Lokakarya untuk Penggunaan AI yang Efektif di Masa yang Tidak Pasti: Membangun Komunitas Pembelajaran Fakultas Fisika
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI sebagai krisis identitas, bukan kesenjangan keterampilan
+- [[zuo-instructor-power-genai-writing-2026]] — Relasi kuasa yang dipersepsikan dosen perguruan tinggi yang bergulat dengan GenAI dalam penulisan (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI sebagai mediator kognitif
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Pengetahuan TPACK-21 yang dipersepsikan sendiri oleh fakultas untuk GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — PD Intelligent-TPACK: kehadiran memprediksi perolehan, partisipasi yang dipersepsikan sendiri tidak
+- [[instructional-design-proficiency-masters-math-2026]] — Model ruang kelas pintar dan lingkar D-T-E yang meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Pengalaman dan persepsi dosen universitas tentang GAI: kerentanan, memikirkan ulang penilaian, pembelajaran mahasiswa yang berisiko (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Dari takut ke inovasi: institut fakultas enam minggu, pedagogi simbiotik, dan kondisi institusional yang tidak dapat disediakannya
+- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: rasa bersalah antisipatif, penyembunyian dan perbedaan tahap karier di kalangan staf akademik (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Survei AAC&U/Elon terhadap 1.057 dosen AS: ketidaksiapan institusional, tata kelola yang tipis dan jurang kebijakan 87%/48% (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pengembang akademik sebagai mediator digital di pendidikan tinggi Global South: pengembangan sebagai praksis sosioteksnis
+- [[physics-faculty-learning-community-ai-2026]] — Rangkaian Lokakarya untuk Penggunaan AI yang Efektif di Masa yang Tidak Pasti: Membangun Komunitas Pembelajaran Fakultas Fisika
 
-- [[faculty-ai-well-being-social-supports-2026]] - Kesejahteraan AI fakultas mengikuti literasi AI alih-alih efikasi diri teknologis
-- [[ai-competence-framework-landscape-2026]] - Periksa apa yang digambarkan oleh tingkat-tingkat sebuah kerangka sebelum mengadopsinya
+- [[faculty-ai-well-being-social-supports-2026]] — Kesejahteraan AI fakultas mengikuti literasi AI alih-alih efikasi diri teknologis
+- [[ai-competence-framework-landscape-2026]] — Periksa apa yang digambarkan oleh tingkat-tingkat sebuah kerangka sebelum mengadopsinya

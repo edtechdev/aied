@@ -6,7 +6,6 @@ foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/prior-knowledge
 source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

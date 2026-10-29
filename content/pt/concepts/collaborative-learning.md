@@ -121,7 +121,7 @@ A aprendizagem colaborativa ocupa o topo do [[icap-framework|framework ICAP]] (I
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação em IA
 
 ## Artigos conectados
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Um consenso de 30 especialistas encontra risco social unilateral: processos de colaboração vulneráveis, sem caminho de aprimoramento
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um consenso de 30 especialistas encontra risco social unilateral: processos de colaboração vulneráveis, sem caminho de aprimoramento
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Aprendizagem baseada em problemas e em projetos como frameworks promissores para a educação apoiada por IA generativa: evidência emergente de uma revisão sistemática e metanálise de três níveis
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Agência emergente de quem aprende na colaboração implícita humano–IA: personas de apoio vs. contrárias
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

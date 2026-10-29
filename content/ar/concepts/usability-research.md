@@ -7,7 +7,6 @@ research_method: [system development, user study, interviews]
 page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
-reviewed_by: [editor]
 translation_of: concepts/usability-research
 source_updated: "2026-09-30T07:37:28-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

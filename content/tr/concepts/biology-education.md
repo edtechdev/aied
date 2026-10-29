@@ -7,7 +7,6 @@ technology: [generative-ai]
 discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/biology-education
 source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

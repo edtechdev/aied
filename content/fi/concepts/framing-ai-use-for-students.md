@@ -114,20 +114,20 @@ Opiskelijoita kehystävät myös laajempi media ja julkinen keskustelu [[ai-educ
 - [[misconceptions]]
 
 ## Liittyvät artikkelit
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 asiantuntijan konsensus järjestyksestä: omaksu ilman GenAI:ta, kokoamme sen kanssa, ajattele sitten itse
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 asiantuntijan konsensus järjestyksestä: omaksu ilman GenAI:ta, kokoamme sen kanssa, ajattele sitten itse
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Läpinäkyvä perustelu jokaiselle sallitulle ja kielletylle GenAI-käytölle, tehtävä tehtävältä (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - GenAI:n asianmukaisen käytön kannustaminen sen häiriöksi tuomitsemisen sijaan
-- [[student-rationalization-ai-writing]] - "Viisi paikkaa", joissa opiskelijat rationalisoivat tekoälyn käyttöä akateemisessa kirjoittamisessa
-- [[student-regulatory-awareness-genai]] - Sääntöjen tunteminen ei riitä: sääntelytietoisuus ja todellinen käyttö
-- [[ai-anxiety-strategic-regulation-writing-2026]] - Tekoälyahdistuksesta strategiseen sääntelyyn
-- [[chatgpt-inoculation-training-verification-2026]] - Inokulaatioviestintä ja tarkistuskäyttäytyminen
-- [[ai-fallibility-warning-help-seeking]] - Varoitus tekoälyn virhealttiudesta lisää avun hakemista
-- [[shame-guilt-ai-regulation-computing-education]] - Häpeä ja syyllisyys tekoälyn käytön sosiaalisina sääntelijöinä
-- [[access-not-enough-ai-tutoring-2026]] - Inhimillinen tuki parantaa sitoutumista tekoälyopastukseen
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - Itsemääräämisteoriaan perustuva sitoutuminen GenAI:hin
-- [[ai-availability-student-motivation]] - Miten tekoälyn saatavuus muovaa opiskelijoiden motivaatiota
-- [[youtube-frames-chatgpt-education]] - Miten YouTube kehystää ChatGPT:n käyttöä koulutuksessa
-- [[ai-ethics-education-public-discourse]] - Julkinen keskustelu tekoälyn etiikasta koulutuksessa
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Opettajat kehystävät tekoälyn kriittiseksi ja vastuulliseksi käytöksi; työnantajat kehystävät sen tuottavuudeksi
-- [[ssaho-ai-academic-integrity-review-2025]] - Akateemisen rehellisyyden kulttuurin rakentaminen selkeiden odotusten kautta
+- [[mccorkle-aligned-genai-course-policy-2025]] — Läpinäkyvä perustelu jokaiselle sallitulle ja kielletylle GenAI-käytölle, tehtävä tehtävältä (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — GenAI:n asianmukaisen käytön kannustaminen sen häiriöksi tuomitsemisen sijaan
+- [[student-rationalization-ai-writing]] — "Viisi paikkaa", joissa opiskelijat rationalisoivat tekoälyn käyttöä akateemisessa kirjoittamisessa
+- [[student-regulatory-awareness-genai]] — Sääntöjen tunteminen ei riitä: sääntelytietoisuus ja todellinen käyttö
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Tekoälyahdistuksesta strategiseen sääntelyyn
+- [[chatgpt-inoculation-training-verification-2026]] — Inokulaatioviestintä ja tarkistuskäyttäytyminen
+- [[ai-fallibility-warning-help-seeking]] — Varoitus tekoälyn virhealttiudesta lisää avun hakemista
+- [[shame-guilt-ai-regulation-computing-education]] — Häpeä ja syyllisyys tekoälyn käytön sosiaalisina sääntelijöinä
+- [[access-not-enough-ai-tutoring-2026]] — Inhimillinen tuki parantaa sitoutumista tekoälyopastukseen
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Itsemääräämisteoriaan perustuva sitoutuminen GenAI:hin
+- [[ai-availability-student-motivation]] — Miten tekoälyn saatavuus muovaa opiskelijoiden motivaatiota
+- [[youtube-frames-chatgpt-education]] — Miten YouTube kehystää ChatGPT:n käyttöä koulutuksessa
+- [[ai-ethics-education-public-discourse]] — Julkinen keskustelu tekoälyn etiikasta koulutuksessa
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Opettajat kehystävät tekoälyn kriittiseksi ja vastuulliseksi käytöksi; työnantajat kehystävät sen tuottavuudeksi
+- [[ssaho-ai-academic-integrity-review-2025]] — Akateemisen rehellisyyden kulttuurin rakentaminen selkeiden odotusten kautta

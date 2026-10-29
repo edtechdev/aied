@@ -5,7 +5,6 @@ connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-an
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-reviewed_by: [editor]
 translation_of: faqs/ai-agents-support-students-instructors
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

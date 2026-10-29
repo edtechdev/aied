@@ -142,13 +142,13 @@ Sự tự tin và năng lực không phải những mục tiêu có thể hoán 
 - [[stakeholders]] - Trang ôm trùm: con người và các đối tượng trong giáo dục AI (người học, giáo viên, nhà thiết kế, nhà quản lý, nhà hoạch định chính sách)
 
 ## Bài viết liên quan
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Phân tích diễn ngôn phản biện về các lời khuyên thẳng hàng GenAI: nhà phát triển bị tái định vị thành người đào tạo công nghệ
-- [[crompton-faculty-technology-integration-standards-2026]] - Các chuẩn dành cho giảng viên về tích hợp công nghệ (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Các chiều đạo đức của AI: quan điểm của giảng viên và sinh viên
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Phân tích diễn ngôn phản biện về các lời khuyên thẳng hàng GenAI: nhà phát triển bị tái định vị thành người đào tạo công nghệ
+- [[crompton-faculty-technology-integration-standards-2026]] — Các chuẩn dành cho giảng viên về tích hợp công nghệ (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Các chiều đạo đức của AI: quan điểm của giảng viên và sinh viên
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Các ẩn dụ của giảng viên kỹ thuật kiến tạo (và giới hạn) sự hiểu biết về AI như thế nào
-- [[fear-awe-genai-metaphor-workshops-2025]] - Sợ hãi và kinh ngạc: hiểu AI sinh tạo qua ẩn dụ (workshop ẩn dụ cho giảng viên, nhân viên và sinh viên)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Quản trị cái vô hình: năng lực AI của giáo viên ngôn ngữ
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Các ẩn dụ của giảng viên kỹ thuật kiến tạo (và giới hạn) sự hiểu biết về AI như thế nào
+- [[fear-awe-genai-metaphor-workshops-2025]] — Sợ hãi và kinh ngạc: hiểu AI sinh tạo qua ẩn dụ (workshop ẩn dụ cho giảng viên, nhân viên và sinh viên)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Quản trị cái vô hình: năng lực AI của giáo viên ngôn ngữ
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Sự tự tin và năng lực không phải những mục tiêu có thể hoán 
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI như một cuộc khủng hoảng bản sắc, không phải một khoảng trống kỹ năng
-- [[zuo-instructor-power-genai-writing-2026]] - Các quan hệ quyền lực mà giảng viên đại học nhận thấy khi vật lộn với GenAI trong viết (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Mô hình Tam giác Phản tư: AI như một trung gian nhận thức
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Kiến thức TPACK-21 tự nhận thức của giảng viên về GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Phát triển nghề nghiệp Intelligent-TPACK: việc tham dự dự báo tiến bộ, sự tham gia tự cảm nhận thì không
-- [[instructional-design-proficiency-masters-math-2026]] - Mô hình lớp học thông minh và vòng lặp D-T-E cải thiện năng lực thiết kế giảng dạy trong chương trình thạc sĩ giáo dục toán (Zhu và cộng sự 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Trải nghiệm và nhận thức của giảng viên đại học về GAI: dễ bị tổn thương, suy nghĩ lại về đánh giá, học tập của sinh viên bị đe dọa (Farazouli và cộng sự 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Từ sợ hãi đến đổi mới: một học viện giảng viên sáu tuần, sư phạm cộng sinh, và những điều kiện thể chế mà nó không thể cung cấp
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Phức cảm Tội lỗi AI: cảm giác tội lỗi trước sự kiện, việc che giấu và những khác biệt theo giai đoạn sự nghiệp ở nhân viên học thuật (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Khảo sát AAC&U/Elon trên 1,057 giảng viên Hoa Kỳ: thể chế chưa được chuẩn bị, quản trị mỏng và khoảng cách chính sách 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Những người làm phát triển học thuật như trung gian số trong giáo dục đại học ở Toàn cầu phía Nam: phát triển như thực hành xã hội-kỹ thuật
-- [[physics-faculty-learning-community-ai-2026]] - Một chuỗi workshop để sử dụng AI hiệu quả trong những thời điểm bất định: xây dựng một cộng đồng học tập giảng viên vật lý
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI như một cuộc khủng hoảng bản sắc, không phải một khoảng trống kỹ năng
+- [[zuo-instructor-power-genai-writing-2026]] — Các quan hệ quyền lực mà giảng viên đại học nhận thấy khi vật lộn với GenAI trong viết (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Mô hình Tam giác Phản tư: AI như một trung gian nhận thức
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Kiến thức TPACK-21 tự nhận thức của giảng viên về GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Phát triển nghề nghiệp Intelligent-TPACK: việc tham dự dự báo tiến bộ, sự tham gia tự cảm nhận thì không
+- [[instructional-design-proficiency-masters-math-2026]] — Mô hình lớp học thông minh và vòng lặp D-T-E cải thiện năng lực thiết kế giảng dạy trong chương trình thạc sĩ giáo dục toán (Zhu và cộng sự 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Kiến trúc các vai trò trong các hoạt động nhóm phân hóa do AI thiết kế (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Trải nghiệm và nhận thức của giảng viên đại học về GAI: dễ bị tổn thương, suy nghĩ lại về đánh giá, học tập của sinh viên bị đe dọa (Farazouli và cộng sự 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Từ sợ hãi đến đổi mới: một học viện giảng viên sáu tuần, sư phạm cộng sinh, và những điều kiện thể chế mà nó không thể cung cấp
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Phức cảm Tội lỗi AI: cảm giác tội lỗi trước sự kiện, việc che giấu và những khác biệt theo giai đoạn sự nghiệp ở nhân viên học thuật (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Khảo sát AAC&U/Elon trên 1,057 giảng viên Hoa Kỳ: thể chế chưa được chuẩn bị, quản trị mỏng và khoảng cách chính sách 87%/48% (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Những người làm phát triển học thuật như trung gian số trong giáo dục đại học ở Toàn cầu phía Nam: phát triển như thực hành xã hội-kỹ thuật
+- [[physics-faculty-learning-community-ai-2026]] — Một chuỗi workshop để sử dụng AI hiệu quả trong những thời điểm bất định: xây dựng một cộng đồng học tập giảng viên vật lý
 
-- [[faculty-ai-well-being-social-supports-2026]] - Sự hạnh phúc liên quan đến AI của giảng viên đi theo năng lực AI chứ không theo tự hiệu quả công nghệ
-- [[ai-competence-framework-landscape-2026]] - Hãy kiểm tra xem các cấp độ của một khuôn khổ mô tả điều gì trước khi áp dụng nó
+- [[faculty-ai-well-being-social-supports-2026]] — Sự hạnh phúc liên quan đến AI của giảng viên đi theo năng lực AI chứ không theo tự hiệu quả công nghệ
+- [[ai-competence-framework-landscape-2026]] — Hãy kiểm tra xem các cấp độ của một khuôn khổ mô tả điều gì trước khi áp dụng nó

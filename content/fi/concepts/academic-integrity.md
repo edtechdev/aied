@@ -199,43 +199,43 @@ Ensimmäinen suunnitellun käyttäytymisen teorian tutkimus GAIT-pohjaisen vää
 
 ## Liittyvät artikkelit
 
-- [[ivory-psychology-assessment-integrity-2026]] - Kokonainen psykologian ohjelma läpäistävissä vähimmäisvaivalla, ja ne arvostelukriteerit, jotka päästivät sen läpi (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Opettajaopiskelijat kieltäytyivät GenAI:sta sallivassa politiikassa; "ansa"-kehystys ja kyselyn ja ilmoitusten välinen kuilu
-- [[ai-agents-joyful-assessment-third-space-2026]] - Tekoälyagentit, iloinen arviointi ja kolmas tila
-- [[kumar-genai-computing-education-systematic-review-2026]] - Havaitsemisnäyttö on ohutta (3 tutkimusta 72:sta); uudelleensuunnittelu kantaa painon
-- [[mccorkle-aligned-genai-course-policy-2025]] - Linjassa oleva GenAI-kurssipolitiikka: arvioinnista johdetut luvat, läpinäkyvä perustelu (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Konstruktiltaan vastaavien arviointivarianttien tuottaminen (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Miten opettajat säätelevät tekoälyä 31 000 kurssin opetussuunnitelmassa; rehellisyyskehystys vähenee (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Voivatko opiskelijat huijata tiensä biologian tutkintoon? Tapaustutkimus biologian kurssiarvosanojen haavoittuvuudesta akateemiselle epärehellisyydelle generatiivisen tekoälyn aikakaudella
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Opiskelijoiden noudattamatta jättäminen tekoälyn käytön ilmoituksissa
-- [[detecting-llm-generated-text-latent-prompt]] - LLM:n tuottaman tekstin havaitseminen
-- [[beyond-detection-authentic-assessment-ai-2025]] - Havaitsemisen tuolla puolen: autenttinen arviointi tekoälyn välittämässä maailmassa
-- [[ai-assessment-scale-reform]] - AI Assessment Scale ja arviointiuudistus
-- [[authentic-products-authenticated-processes-2026]] - Autenttisista tuotoksista autentikoituihin prosesseihin
-- [[student-rationalization-ai-writing]] - "Se on okei, koska..." Opiskelijoiden tekoälyn käytön rationalisointi
-- [[ethical-ai-higher-ed-game-theory]] - Koordinaatiopelien viitekehys eettiselle tekoälyn käytölle
-- [[shame-guilt-ai-regulation-computing-education]] - Häpeä ja syyllisyys tekoälyn käytön sosiaalisina säätelijöinä
-- [[cross-cultural-student-perceptions-genai-computing]] - Tekikö Alice väärin? Tekoälyn käytön kulttuurienväliset käsitykset
-- [[luo-dawson-value-judgments-grading-2026]] - Arvopäätökset GenAI-avusteisen työn arvostelussa: rehellisyys, luottamus, validiteetti ja kaksisuuntainen läpinäkyvyys (Luo & Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Vertaisvastuu ja omaperäisyys GenAI:n välittämässä ryhmäarvioinnissa
-- [[teichmann-detecting-undetectable-misconduct-2026]] - Havaitsemisen näytöllinen romahdus ja perustelu menettelylliselle oikeudenmukaisuudelle, suhteellisuudelle ja suunnittelulle
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Pelote, ilmoittaminen ja uudelleensuunnittelu arviointisuunnitteluongelmana epätäydellisen informaation vallitessa
-- [[munoz-misconduct-allegation-evidence-2026]] - Mihin näyttöön 1 162 GenAI-väärinkäytöstiedostoa itse asiassa nojasivat, ja puuttuva näyttökynnys
-- [[wright-transcription-not-generation-2026]] - Liian kattavat tekoälysäännöt ja transkription ja generoinnin ero
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Tekoälypohjainen digitaalinen huijaaminen ja ennaltaehkäisyyn perustuvat eettiset pedagogiikat: 183:sta 27:ään tapaus ja viisi alakohtaista uudelleensuunnittelua (Leaton Gray, Edsall & Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Rehellisyys hallinto-ongelmana: 130 kohdan indikaattorikehys akateemisille hallintojohtajille (Coates, Croucher & Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Katsaus 38 tutkimuksesta korkeakouluopiskelijoiden äänistä akateemisesta rehellisyydestä ja GenAI:sta (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Tuetun ja korvaamisen rajan vetäminen EAL-kirjoittajille, ja sääntöjen epäoikeudenmukaisuus, jotka sivuuttavat kielitaustan (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Kehoteinjektio tekoälyn välittämää arvostelua vastaan: piilotetut ohjeet, jotka muuttavat arvosanaa havaitsematta (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - AI-Use Ethics Matrix: ahdistunut vaatimustenmukaisuus, ja miksi pelkkä selkeys voi työntää opiskelijat tehokkaaseen kiertämiseen (Petricini & Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Päättelypolun arvosteleminen, kun tekoälyagentit pystyvät suorittamaan tehtävän (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Tekoälyn kirjoittamat valintakokeiden esseet ovat yleisiä mutta rangaistavia
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Kuka toimii, kuka tietää, kuka vastaa? Korpusavusteinen diskurssianalyysi toimijuudesta, episteemisestä vastuusta ja tilivelvollisuudesta generatiivisen tekoälyn korkeakoulututkimuksessa
+- [[ivory-psychology-assessment-integrity-2026]] — Kokonainen psykologian ohjelma läpäistävissä vähimmäisvaivalla, ja ne arvostelukriteerit, jotka päästivät sen läpi (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Opettajaopiskelijat kieltäytyivät GenAI:sta sallivassa politiikassa; "ansa"-kehystys ja kyselyn ja ilmoitusten välinen kuilu
+- [[ai-agents-joyful-assessment-third-space-2026]] — Tekoälyagentit, iloinen arviointi ja kolmas tila
+- [[kumar-genai-computing-education-systematic-review-2026]] — Havaitsemisnäyttö on ohutta (3 tutkimusta 72:sta); uudelleensuunnittelu kantaa painon
+- [[mccorkle-aligned-genai-course-policy-2025]] — Linjassa oleva GenAI-kurssipolitiikka: arvioinnista johdetut luvat, läpinäkyvä perustelu (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Konstruktiltaan vastaavien arviointivarianttien tuottaminen (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Miten opettajat säätelevät tekoälyä 31 000 kurssin opetussuunnitelmassa; rehellisyyskehystys vähenee (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Voivatko opiskelijat huijata tiensä biologian tutkintoon? Tapaustutkimus biologian kurssiarvosanojen haavoittuvuudesta akateemiselle epärehellisyydelle generatiivisen tekoälyn aikakaudella
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Opiskelijoiden noudattamatta jättäminen tekoälyn käytön ilmoituksissa
+- [[detecting-llm-generated-text-latent-prompt]] — LLM:n tuottaman tekstin havaitseminen
+- [[beyond-detection-authentic-assessment-ai-2025]] — Havaitsemisen tuolla puolen: autenttinen arviointi tekoälyn välittämässä maailmassa
+- [[ai-assessment-scale-reform]] — AI Assessment Scale ja arviointiuudistus
+- [[authentic-products-authenticated-processes-2026]] — Autenttisista tuotoksista autentikoituihin prosesseihin
+- [[student-rationalization-ai-writing]] — "Se on okei, koska..." Opiskelijoiden tekoälyn käytön rationalisointi
+- [[ethical-ai-higher-ed-game-theory]] — Koordinaatiopelien viitekehys eettiselle tekoälyn käytölle
+- [[shame-guilt-ai-regulation-computing-education]] — Häpeä ja syyllisyys tekoälyn käytön sosiaalisina säätelijöinä
+- [[cross-cultural-student-perceptions-genai-computing]] — Tekikö Alice väärin? Tekoälyn käytön kulttuurienväliset käsitykset
+- [[luo-dawson-value-judgments-grading-2026]] — Arvopäätökset GenAI-avusteisen työn arvostelussa: rehellisyys, luottamus, validiteetti ja kaksisuuntainen läpinäkyvyys (Luo & Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Vertaisvastuu ja omaperäisyys GenAI:n välittämässä ryhmäarvioinnissa
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Havaitsemisen näytöllinen romahdus ja perustelu menettelylliselle oikeudenmukaisuudelle, suhteellisuudelle ja suunnittelulle
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Pelote, ilmoittaminen ja uudelleensuunnittelu arviointisuunnitteluongelmana epätäydellisen informaation vallitessa
+- [[munoz-misconduct-allegation-evidence-2026]] — Mihin näyttöön 1 162 GenAI-väärinkäytöstiedostoa itse asiassa nojasivat, ja puuttuva näyttökynnys
+- [[wright-transcription-not-generation-2026]] — Liian kattavat tekoälysäännöt ja transkription ja generoinnin ero
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Tekoälypohjainen digitaalinen huijaaminen ja ennaltaehkäisyyn perustuvat eettiset pedagogiikat: 183:sta 27:ään tapaus ja viisi alakohtaista uudelleensuunnittelua (Leaton Gray, Edsall & Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Rehellisyys hallinto-ongelmana: 130 kohdan indikaattorikehys akateemisille hallintojohtajille (Coates, Croucher & Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Katsaus 38 tutkimuksesta korkeakouluopiskelijoiden äänistä akateemisesta rehellisyydestä ja GenAI:sta (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Tuetun ja korvaamisen rajan vetäminen EAL-kirjoittajille, ja sääntöjen epäoikeudenmukaisuus, jotka sivuuttavat kielitaustan (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Kehoteinjektio tekoälyn välittämää arvostelua vastaan: piilotetut ohjeet, jotka muuttavat arvosanaa havaitsematta (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — AI-Use Ethics Matrix: ahdistunut vaatimustenmukaisuus, ja miksi pelkkä selkeys voi työntää opiskelijat tehokkaaseen kiertämiseen (Petricini & Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Päättelypolun arvosteleminen, kun tekoälyagentit pystyvät suorittamaan tehtävän (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Tekoälyn kirjoittamat valintakokeiden esseet ovat yleisiä mutta rangaistavia
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kuka toimii, kuka tietää, kuka vastaa? Korpusavusteinen diskurssianalyysi toimijuudesta, episteemisestä vastuusta ja tilivelvollisuudesta generatiivisen tekoälyn korkeakoulututkimuksessa
 
-- [[genai-governance-australian-higher-ed-2026]] - Valtuutetun rajan kartoittaminen: vertaileva politiikkavinjettitutkimus generatiivisen tekoälyn hallinnosta australialaisessa korkeakoulutuksessa
-- [[argus-academic-integrity-genai-2026]] - Argus: akateeminen rehellisyys generatiivisen tekoälyn aikakaudella
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Sektorin auditointihavainto: mandaatti- ja kehysyliopistojen välillä ei ole eroa arvioinnin altistuksessa, koordinaatio-ongelman empiirinen vastine
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026): tekoälyavusteisen huijausriskin varhainen ennustaminen LMS-jäljistä, kehystettynä akateemisena ohjauksena eikä näyttönä väärinkäytöksestä
-- [[reddit-genai-education-discourse-analysis-2026]] - Kolme ja puoli vuotta koulutusaiheista Redditiä: täytäntöönpano hallitsee, ja rehellisyyskiistat ovat tärkein tiedekunnan ja opiskelijoiden foorumi (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Kyselykoe: opiskelijan tekoälyn käytön korvaamiskehystys rankaisee korkean GPA:n hakijoita rekrytoinnissa ja palkassa; läsnäolotestaus on ainoa lääke, jonka molemmat ryhmät valitsivat
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: kohti ihmisluettavaa, koneita kestävää lukukäyttöliittymää
+- [[genai-governance-australian-higher-ed-2026]] — Valtuutetun rajan kartoittaminen: vertaileva politiikkavinjettitutkimus generatiivisen tekoälyn hallinnosta australialaisessa korkeakoulutuksessa
+- [[argus-academic-integrity-genai-2026]] — Argus: akateeminen rehellisyys generatiivisen tekoälyn aikakaudella
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Sektorin auditointihavainto: mandaatti- ja kehysyliopistojen välillä ei ole eroa arvioinnin altistuksessa, koordinaatio-ongelman empiirinen vastine
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026): tekoälyavusteisen huijausriskin varhainen ennustaminen LMS-jäljistä, kehystettynä akateemisena ohjauksena eikä näyttönä väärinkäytöksestä
+- [[reddit-genai-education-discourse-analysis-2026]] — Kolme ja puoli vuotta koulutusaiheista Redditiä: täytäntöönpano hallitsee, ja rehellisyyskiistat ovat tärkein tiedekunnan ja opiskelijoiden foorumi (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Kyselykoe: opiskelijan tekoälyn käytön korvaamiskehystys rankaisee korkean GPA:n hakijoita rekrytoinnissa ja palkassa; läsnäolotestaus on ainoa lääke, jonka molemmat ryhmät valitsivat
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: kohti ihmisluettavaa, koneita kestävää lukukäyttöliittymää

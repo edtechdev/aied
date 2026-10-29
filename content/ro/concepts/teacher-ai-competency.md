@@ -164,57 +164,57 @@ Peisajul instrumentelor a fost între timp revizuit. [[assessing-teachers-ai-lit
 
 ## Articole conectate
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Ce profesori au câștigat timp de planificare: cei cu încredere mai scăzută în cunoașterea disciplinei, cu cunoaștere pedagogică mai scăzută, mai noi în profesie sau cu încredere înaltă în tehnologie
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Profesorii acceptă IA în timp ce înțeleg greșit cum funcționează (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Pregătirea profesorilor și integrarea tehnologico-pedagogică drept provocarea raportată cel mai frecvent în 54 de studii de educație matematică (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Alfabetizarea în evaluare multimodală: un program de un an în care cunoașterea și competența s-au mișcat, iar valorile nu
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Ce profesori au câștigat timp de planificare: cei cu încredere mai scăzută în cunoașterea disciplinei, cu cunoaștere pedagogică mai scăzută, mai noi în profesie sau cu încredere înaltă în tehnologie
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Profesorii acceptă IA în timp ce înțeleg greșit cum funcționează (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Pregătirea profesorilor și integrarea tehnologico-pedagogică drept provocarea raportată cel mai frecvent în 54 de studii de educație matematică (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Alfabetizarea în evaluare multimodală: un program de un an în care cunoașterea și competența s-au mișcat, iar valorile nu
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Dezvoltare profesională Intelligent-TPACK: o jumătate de abatere standard de câștig și câștiguri negative care se citesc ca recalibrare - Impactul programelor de dezvoltare profesională asupra alfabetizării în IA a profesorilor K-12: o revizuire sistematică și meta-analiză
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Dezvoltare profesională Intelligent-TPACK: o jumătate de abatere standard de câștig și câștiguri negative care se citesc ca recalibrare - Impactul programelor de dezvoltare profesională asupra alfabetizării în IA a profesorilor K-12: o revizuire sistematică și meta-analiză
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - Profesorii și-au etichetat propriile cazuri de IA din clasă și au ajuns ușor la competențe practice, dar rar la cele societale și etice (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] - Selectarea instrumentelor ca exercițiu al agenției educatorului
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - Revizuire sistematică a IA generative în predarea și învățarea K-12 (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - Cunoașterea profesională a profesorilor în educația K-12 cu IA: TAIK versus TPAIK și învățarea elevilor (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Tipare de interacțiune profesor-IA în proiectarea lecțiilor, după experiență și competență în IA (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] - Folosirea responsabilă a GenAI de către profesorii în formare: implicații curriculare (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - Observarea la clasă cu LLM pentru dezvoltarea profesională a profesorilor (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - IA generativă prin reprezentări, descompuneri și aproximări: repetiție, feedback structurat și avertismentele privind acuratețea
-- [[genai-pd-ai-pck-learning-gain-2026]] - Eficacitatea unui program intensiv de dezvoltare profesională în GenAI
-- [[ai-tpack-teacher-multi-agent-workflow]] - Modelarea AI-TPACK prin fluxuri de lucru cu mai mulți agenți pentru profesori
-- [[teacher-ai-teaming-five-levels]] - Spre interacțiuni sinergice profesor-IA
-- [[teacher-education-ai-literacy-sdt-2026]] - Formarea profesorilor pentru alfabetizarea în IA prin teoria autodeterminării
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Formare în alfabetizare GenAI bazată pe cercetarea prin proiectare
-- [[rail-ed-genai-literacy-teacher-education]] - Regândirea alfabetizării GenAI în formarea profesorilor
-- [[sec-ai-literacy-narrative-review-2026]] - Integrarea competențelor socio-emoționale cu alfabetizarea în IA
-- [[teacher-ai-adoption-confidence]] - Adoptarea IA între profesori: încredere și sprijin
-- [[ai-pedagogical-orientation]] - Orientările corpului didactic modelează adoptarea IA
-- [[ai-literacy-assessment-misalignment]] - Nealinierea între competența în IA auto-raportată și cea bazată pe performanță
-- [[quest-ai-inquiry-preservice-teachers]] - Cercetare sprijinită de IA pentru profesorii în formare
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - Cadrul de pregătire EPIQ-AI pentru corpul didactic
-- [[llm-cultural-relevance-k12]] - LLM-uri pentru o pedagogie K-12 cultural relevantă
-- [[institutional-change-framework-ai]] - Cadru de schimbare instituțională pentru IA
-- [[teachingcoach-chatbot-instructor-guidance]] - Chatbotul TeachingCoach pentru îndrumarea instructorilor
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI ca criză de identitate, nu ca decalaj de competențe
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Profesorii și-au etichetat propriile cazuri de IA din clasă și au ajuns ușor la competențe practice, dar rar la cele societale și etice (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Selectarea instrumentelor ca exercițiu al agenției educatorului
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Revizuire sistematică a IA generative în predarea și învățarea K-12 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Cunoașterea profesională a profesorilor în educația K-12 cu IA: TAIK versus TPAIK și învățarea elevilor (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tipare de interacțiune profesor-IA în proiectarea lecțiilor, după experiență și competență în IA (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Folosirea responsabilă a GenAI de către profesorii în formare: implicații curriculare (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — Observarea la clasă cu LLM pentru dezvoltarea profesională a profesorilor (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — IA generativă prin reprezentări, descompuneri și aproximări: repetiție, feedback structurat și avertismentele privind acuratețea
+- [[genai-pd-ai-pck-learning-gain-2026]] — Eficacitatea unui program intensiv de dezvoltare profesională în GenAI
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modelarea AI-TPACK prin fluxuri de lucru cu mai mulți agenți pentru profesori
+- [[teacher-ai-teaming-five-levels]] — Spre interacțiuni sinergice profesor-IA
+- [[teacher-education-ai-literacy-sdt-2026]] — Formarea profesorilor pentru alfabetizarea în IA prin teoria autodeterminării
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Formare în alfabetizare GenAI bazată pe cercetarea prin proiectare
+- [[rail-ed-genai-literacy-teacher-education]] — Regândirea alfabetizării GenAI în formarea profesorilor
+- [[sec-ai-literacy-narrative-review-2026]] — Integrarea competențelor socio-emoționale cu alfabetizarea în IA
+- [[teacher-ai-adoption-confidence]] — Adoptarea IA între profesori: încredere și sprijin
+- [[ai-pedagogical-orientation]] — Orientările corpului didactic modelează adoptarea IA
+- [[ai-literacy-assessment-misalignment]] — Nealinierea între competența în IA auto-raportată și cea bazată pe performanță
+- [[quest-ai-inquiry-preservice-teachers]] — Cercetare sprijinită de IA pentru profesorii în formare
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — Cadrul de pregătire EPIQ-AI pentru corpul didactic
+- [[llm-cultural-relevance-k12]] — LLM-uri pentru o pedagogie K-12 cultural relevantă
+- [[institutional-change-framework-ai]] — Cadru de schimbare instituțională pentru IA
+- [[teachingcoach-chatbot-instructor-guidance]] — Chatbotul TeachingCoach pentru îndrumarea instructorilor
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI ca criză de identitate, nu ca decalaj de competențe
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - Evaluarea competenței digitale a profesorilor pentru proiectarea curriculară cu GenAI (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - studiu fenomenografic asupra concepțiilor profesorilor universitari despre IA
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Cadru de alfabetizare în IA cu cinci niveluri și dezvoltare profesională pentru educatorii de liceu din Ucraina (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - Co-proiectarea sarcinilor de învățare de către profesor și IA: tendințe și perspective (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arhitectura rolurilor în activitățile de grup diferențiate proiectate de IA (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Evaluarea competenței digitale a profesorilor pentru proiectarea curriculară cu GenAI (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — studiu fenomenografic asupra concepțiilor profesorilor universitari despre IA
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Cadru de alfabetizare în IA cu cinci niveluri și dezvoltare profesională pentru educatorii de liceu din Ucraina (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Co-proiectarea sarcinilor de învățare de către profesor și IA: tendințe și perspective (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitectura rolurilor în activitățile de grup diferențiate proiectate de IA (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - Prompt engineering și selectarea modelului ca predictori ai calității feedbackului oferit de IA (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Complexul vinovăției legate de IA: vinovăția anticipativă și patru profiluri de răspuns moral în rândul personalului academic (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - O sesiune de dezvoltare profesională de trei ore a ridicat utilitatea percepută și ușurința de utilizare, dar nu intenția declarată de adoptare (Mesenhöller și Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - Revizuire sistematică a IA în formarea inițială a profesorilor de matematică din primar: etica abordată în doar trei din unsprezece studii (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Sondajul AAC&U/Elon pe 1.057 cadre didactice din SUA: pregătire, nefolosire și decalajul de politică dintre individual și instituțional (Watson și Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Colaborator interinstituțional de cadre didactice: integrarea IA ca proiectare instrucțională în formarea profesorilor
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - Revizuire sistematică a 33 de instrumente de măsurare a alfabetizării în IA a profesorilor: 31 de auto-raportare, două teste obiective de cunoaștere, nicio sarcină de performanță (Zainal, Mohd Matore și Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Un model adaptiv de alfabetizare în IA bazat pe proiectare și un chestionar reflexiv de 20 de itemi co-proiectat cu 22 de formatori de profesori (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - O serie de ateliere pentru folosirea eficientă a IA în vremuri incerte: construirea unei comunități de învățare a corpului didactic de fizică
-- [[authentic-assessments-generative-ai-pilot-2026]] - Proiectarea evaluărilor autentice cu IA generativă: un studiu pilot asupra Assessment Authentifire în învățământul superior
-- [[teachers-configure-educational-chatbots-2026]] - Va preda așa cum s-a intenționat? Cum configurează profesorii chatboții educaționali cu IA
-- [[capability-decision-model-teacher-readiness-2026]] - Model ordonat de pregătire a profesorilor, centrat pe capacitate, cu indicatori de capacitate bazați pe performanță
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Sondaj transnațional pe 1.405 profesori K-12: pregătirea prezice convingeri pozitive, dar nu îngrijorarea
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Patru profiluri de convingeri ale profesorilor din TALIS 2024 leagă învățarea profesională și barierele specifice profilului de folosirea IA
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - Proiectarea unor module de microînvățare despre IA pentru profesorii universitari din formarea profesională: un studiu de cercetare prin proiectare
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: cum eșuează chatboții configurați de profesori în utilizarea reală și cum se pot repara
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering și selectarea modelului ca predictori ai calității feedbackului oferit de IA (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Complexul vinovăției legate de IA: vinovăția anticipativă și patru profiluri de răspuns moral în rândul personalului academic (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — O sesiune de dezvoltare profesională de trei ore a ridicat utilitatea percepută și ușurința de utilizare, dar nu intenția declarată de adoptare (Mesenhöller și Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Revizuire sistematică a IA în formarea inițială a profesorilor de matematică din primar: etica abordată în doar trei din unsprezece studii (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Sondajul AAC&U/Elon pe 1.057 cadre didactice din SUA: pregătire, nefolosire și decalajul de politică dintre individual și instituțional (Watson și Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Colaborator interinstituțional de cadre didactice: integrarea IA ca proiectare instrucțională în formarea profesorilor
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revizuire sistematică a 33 de instrumente de măsurare a alfabetizării în IA a profesorilor: 31 de auto-raportare, două teste obiective de cunoaștere, nicio sarcină de performanță (Zainal, Mohd Matore și Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Un model adaptiv de alfabetizare în IA bazat pe proiectare și un chestionar reflexiv de 20 de itemi co-proiectat cu 22 de formatori de profesori (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — O serie de ateliere pentru folosirea eficientă a IA în vremuri incerte: construirea unei comunități de învățare a corpului didactic de fizică
+- [[authentic-assessments-generative-ai-pilot-2026]] — Proiectarea evaluărilor autentice cu IA generativă: un studiu pilot asupra Assessment Authentifire în învățământul superior
+- [[teachers-configure-educational-chatbots-2026]] — Va preda așa cum s-a intenționat? Cum configurează profesorii chatboții educaționali cu IA
+- [[capability-decision-model-teacher-readiness-2026]] — Model ordonat de pregătire a profesorilor, centrat pe capacitate, cu indicatori de capacitate bazați pe performanță
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Sondaj transnațional pe 1.405 profesori K-12: pregătirea prezice convingeri pozitive, dar nu îngrijorarea
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Patru profiluri de convingeri ale profesorilor din TALIS 2024 leagă învățarea profesională și barierele specifice profilului de folosirea IA
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Proiectarea unor module de microînvățare despre IA pentru profesorii universitari din formarea profesională: un studiu de cercetare prin proiectare
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: cum eșuează chatboții configurați de profesori în utilizarea reală și cum se pot repara

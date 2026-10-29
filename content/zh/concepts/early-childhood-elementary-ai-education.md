@@ -8,7 +8,6 @@ pedagogy: [well-being]
 connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/early-childhood-elementary-ai-education
 source_updated: "2026-10-23T09:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"

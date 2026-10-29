@@ -17,7 +17,6 @@ level: [higher ed]
 audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
-reviewed_by: [editor]
 translation_of: resources/pressing-prompts
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

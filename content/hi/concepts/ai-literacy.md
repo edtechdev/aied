@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
@@ -252,7 +252,7 @@ AI साक्षरता अति-निर्भरता के लिए 
 
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI के युग में प्रारंभिक बाल्यावस्था को आकार देना: क्षमताएँ, शिक्षाशास्त्र और पारिस्थितिक सहायता (पेई 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI सुरक्षा साक्षरता: पारिस्थितिकी-आधारित क्षमता ढाँचा और K-12 शिक्षण मंच
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - बिना सामना ढाँचे साक्षरता की नैतिक आयाम उठाना छात्रों को अधिक चिंतित छोड़ सकता है
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — बिना सामना ढाँचे साक्षरता की नैतिक आयाम उठाना छात्रों को अधिक चिंतित छोड़ सकता है
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 सत्यापित ढाँचे दिखाते हैं कि AI डिजिटल साक्षरता को नैतिकता की ओर बढ़ा रहा है जबकि शिक्षक मानव–AI सहयोग कम-निर्दिष्ट रहता है (गुओ सहित 2026)
 - [[ai-literacies-young-adults-2025]] — सार्वजनिक सेवा मीडिया के लिए छह क्षमता क्षेत्र, पाँच मूल्य और तीन प्रगति स्तर
 - [[ai-literacy-heptagon-2026]] — AI साक्षरता सप्तकोण

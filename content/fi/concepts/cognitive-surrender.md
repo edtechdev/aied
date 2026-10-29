@@ -127,16 +127,16 @@ Evidenssi antautumisesta nimettynä konstruktiona nojaa vahvasti yhteen laborato
 
 ## Liittyvät artikkelit
 
-- [[shaw-nave-cognitive-surrender-2026]] - Kolmijärjestelmäteoria ja antautumisen kokeellinen allekirjoitus
-- [[generative-ai-reduced-study-time-math]] - väestötason syrjäyttäminen ALEKSissa
-- [[young-people-learning-generative-ai-rapid-review-2026]] - antautumisen, siirtokuormituksen ja toimijuuden viitekehys esiopetuksessa ja perusopetuksessa
-- [[du-yuan-epistemic-dependence-2026]] - välineellinen apu vastaan harkintaa kantava apu
-- [[ai-advice-suppresses-ikt-suspension-2026]] - "en tiedä" -vastauksen romahdus
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - neuraalinen sitoutuminen ja omistajuus
-- [[genai-thoughtless-use-self-directed-learning-2026]] - ajattelematon käyttö ja itseohjautuva oppiminen
-- [[stamatoulis-genai-use-patterns-2026]] - vähäisen tarkistamisen omaksuminen vastaan arvioiva integrointi
-- [[cognitive-washout-ai-skill-decay-2026]] - mitä tapahtuu vieroituksen jälkeen
-- [[ai-overreliance-complex-adaptive-system-2026]] - nojautuminen väestöprosessina
-- [[brcic-effortless-trap-productive-struggle-2026]] - tekoälyn sijoittaminen niin, että tehtävä pysyy vaativana
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - kalibrointiharjoittelu
-- [[family-school-autonomy-support-genai-2026]] - riippuvainen vastaan autonominen siirtokuormitus
+- [[shaw-nave-cognitive-surrender-2026]] — Kolmijärjestelmäteoria ja antautumisen kokeellinen allekirjoitus
+- [[generative-ai-reduced-study-time-math]] — väestötason syrjäyttäminen ALEKSissa
+- [[young-people-learning-generative-ai-rapid-review-2026]] — antautumisen, siirtokuormituksen ja toimijuuden viitekehys esiopetuksessa ja perusopetuksessa
+- [[du-yuan-epistemic-dependence-2026]] — välineellinen apu vastaan harkintaa kantava apu
+- [[ai-advice-suppresses-ikt-suspension-2026]] — "en tiedä" -vastauksen romahdus
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuraalinen sitoutuminen ja omistajuus
+- [[genai-thoughtless-use-self-directed-learning-2026]] — ajattelematon käyttö ja itseohjautuva oppiminen
+- [[stamatoulis-genai-use-patterns-2026]] — vähäisen tarkistamisen omaksuminen vastaan arvioiva integrointi
+- [[cognitive-washout-ai-skill-decay-2026]] — mitä tapahtuu vieroituksen jälkeen
+- [[ai-overreliance-complex-adaptive-system-2026]] — nojautuminen väestöprosessina
+- [[brcic-effortless-trap-productive-struggle-2026]] — tekoälyn sijoittaminen niin, että tehtävä pysyy vaativana
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibrointiharjoittelu
+- [[family-school-autonomy-support-genai-2026]] — riippuvainen vastaan autonominen siirtokuormitus

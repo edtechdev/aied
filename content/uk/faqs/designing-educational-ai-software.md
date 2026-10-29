@@ -6,7 +6,6 @@ weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-reviewed_by: [editor]
 translation_of: faqs/designing-educational-ai-software
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -17,6 +16,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
+
+*Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
 # What Are Best Practices and Tips for Designing Effective Educational AI Software?
 

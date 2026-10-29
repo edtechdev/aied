@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/ethics
 source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -111,7 +110,7 @@ ai_assist:
 - [[biology-education]] — Биологическое образование и ИИ: лабораторные ассистенты, ИИ-грамотность в биологии, критическое мышление, специализированные инструменты
 
 ## Связанные статьи
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Этическая осведомлённость усилила тревожность об ИИ там, где не преподавалась рамка совладания: косвенно-только опосредование среди 584 студентов
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Этическая осведомлённость усилила тревожность об ИИ там, где не преподавалась рамка совладания: косвенно-только опосредование среди 584 студентов
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

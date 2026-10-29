@@ -192,45 +192,45 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - [[cognitive-surrender]]
 
 ## Artikel Terkait
-- [[ai-proof-learning-cognitive-offloading-2026]] - Mendukung atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Apa yang tidak ditunjukkan oleh pengumpulan tugas: mengomplekskan offloading kognitif dalam kerja matematika siswa dengan LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 pakar atas 65 proses belajar: offloading di kedua ujung urutan pembelajaran
-- [[rented-self-decoupling-performance-becoming-2026]] - Diri yang disewa: offloading yang merugikan diri-domain pembelajar, bukan hanya keterampilannya
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Kelompok yang mulai sama lalu menyimpang: 74,1% penggunaan model pada satu profil berbanding 80,8% offloading dan jalan buntu pada profil lain (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Bantuan AI mengurangi kegigihan dan kinerja tanpa bantuan pada tiga RCT (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT sebagai kruk kognitif: uji acak terkontrol atas retensi pengetahuan 45 hari kemudian (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Dari outsourcing kognitif ke realokasi: analisis 3P atas keterlibatan siswa-GenAI dalam penilaian tanpa pengawasan (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Dukungan Otonomi Keluarga-Sekolah untuk Penggunaan AI Generatif yang Bertanggung Jawab oleh Anak
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Gesekan berlebih vs. bermanfaat: mengapa offloading AI berbeda dari alat sebelumnya
-- [[thermomix-genai-education-analogy-2026]] - Dengan Thermomix Anda Kehilangan Kemampuan Memasak: analogi mesin dapur untuk AI generatif dalam pendidikan (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - cognitive washout: dinamika pasca-penarikan dari kemunduran keterampilan yang diinduksi AI
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Sintesis Naratif Kritis atas Keterlibatan dan Ketergantungan AI Konversasional
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Offloading kognitif sensitif-lapisan dalam penulisan berbantuan GenAI (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Ketergantungan epistemik dalam pembelajaran yang dimediasi AI: enam kriteria diagnostik yang memisahkan ketergantungan produktif dari ketergantungan yang merugikan (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Offloading kognitif GenAI untuk siswa dengan disabilitas belajar
-- [[lodge-loble-cognitive-offloading-2026]] - AI, offloading kognitif dan implikasinya bagi pendidikan
-- [[cognitive-offloading-metacognitive-review-2026]] - Wawasan metakognitif tentang offloading kognitif (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Pelatihan metakognitif memfasilitasi offloading kognitif yang optimal (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Paradoks berpikir kritis dalam pembelajaran terintegrasi GenAI
-- [[cognitive-offloading-speedup-illusion]] - Ilusi percepatan dari pekerjaan berbantuan AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Analisis jaringan ko-okurensi atas pola prompt
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory dan menyerah kognitif: bagaimana AI membentuk ulang penalaran manusia (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kontinum menyerah-offloading-agensi untuk GenAI
-- [[ai-making-us-stupid]] - Penelitian tentang efek kognitif AI dan penggusuran pembelajaran
-- [[brcic-effortless-trap-productive-struggle-2026]] - The Effortless Trap: AI yang menggantikan kerja kognitif (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Penggunaan AI tanpa pikir mengikis pembelajaran mandiri
-- [[generative-ai-guardrails-harm-learning]] - RCT matematika sekolah menengah tentang GenAI tanpa penjagaan
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Penalti pembelajaran AI generatif: outsourcing pekerjaan rumah merugikan pembelajaran
-- [[coach-not-crutch-ai-writing]] - AI dapat bekerja lebih sedikit dan belajar lebih banyak (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
-- [[cognitive-commons-ai-expertise-regeneration]] - Tragedi milik bersama kognitif: AI dan regenerasi keahlian
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: Alat Refleksi Diri yang Menjaga Privasi untuk Offloading Kognitif Terkait AI
-- [[chatgpt-writing-cognitive-impact-2026]] - eksperimen menulis-untuk-belajar ketika penulisan berbantuan ChatGPT menghasilkan perolehan pengetahuan lebih sedikit daripada kontrol tanpa bantuan
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Pola offloading kognitif siswa ke AI di pendidikan tinggi: bukti naturalistik tingkat pesan ChatGPT (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Merancang Melawan Deskilling: Umpan Balik Metakognitif Mengurangi Offloading Kognitif ke Asisten LLM
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Kognisi Mahasiswa Pemrograman Anda dengan ChatGPT: Kinerja Lebih Tinggi, Retensi Lebih Rendah, dan Kepemilikan Berkurang
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Kecenderungan offloading dan literasi verifikasi memprediksi hasil tingkat tinggi melalui regulasi diri metakognitif (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Prompt refleksi mengurangi penerimaan saran AI yang salah dan memperbaiki kalibrasi kesadaran (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Ketergantungan GenAI sebagai syarat batas bagi disposisi berpikir kritis dan employabilitas yang dipersepsikan sendiri (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Anak-anak menunjukkan konektivitas frontoparietal, salience dan atensi dorsal yang lebih lemah daripada orang dewasa saat berbicara dengan ChatGPT, pada skor kreativitas yang setara
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI dan berpikir kreatif anak: ketergantungan berlebih dan ketergantungan pada prompt dalam tinjauan cakupan (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Mendukung atau menggantikan penalaran siswa? Offloading kognitif dalam pembelajaran pembuktian berbantuan AI (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Apa yang tidak ditunjukkan oleh pengumpulan tugas: mengomplekskan offloading kognitif dalam kerja matematika siswa dengan LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 pakar atas 65 proses belajar: offloading di kedua ujung urutan pembelajaran
+- [[rented-self-decoupling-performance-becoming-2026]] — Diri yang disewa: offloading yang merugikan diri-domain pembelajar, bukan hanya keterampilannya
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Kelompok yang mulai sama lalu menyimpang: 74,1% penggunaan model pada satu profil berbanding 80,8% offloading dan jalan buntu pada profil lain (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Bantuan AI mengurangi kegigihan dan kinerja tanpa bantuan pada tiga RCT (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT sebagai kruk kognitif: uji acak terkontrol atas retensi pengetahuan 45 hari kemudian (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Dari outsourcing kognitif ke realokasi: analisis 3P atas keterlibatan siswa-GenAI dalam penilaian tanpa pengawasan (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Dukungan Otonomi Keluarga-Sekolah untuk Penggunaan AI Generatif yang Bertanggung Jawab oleh Anak
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Gesekan berlebih vs. bermanfaat: mengapa offloading AI berbeda dari alat sebelumnya
+- [[thermomix-genai-education-analogy-2026]] — Dengan Thermomix Anda Kehilangan Kemampuan Memasak: analogi mesin dapur untuk AI generatif dalam pendidikan (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — cognitive washout: dinamika pasca-penarikan dari kemunduran keterampilan yang diinduksi AI
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Sintesis Naratif Kritis atas Keterlibatan dan Ketergantungan AI Konversasional
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Offloading kognitif sensitif-lapisan dalam penulisan berbantuan GenAI (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Ketergantungan epistemik dalam pembelajaran yang dimediasi AI: enam kriteria diagnostik yang memisahkan ketergantungan produktif dari ketergantungan yang merugikan (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Offloading kognitif GenAI untuk siswa dengan disabilitas belajar
+- [[lodge-loble-cognitive-offloading-2026]] — AI, offloading kognitif dan implikasinya bagi pendidikan
+- [[cognitive-offloading-metacognitive-review-2026]] — Wawasan metakognitif tentang offloading kognitif (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Pelatihan metakognitif memfasilitasi offloading kognitif yang optimal (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Paradoks berpikir kritis dalam pembelajaran terintegrasi GenAI
+- [[cognitive-offloading-speedup-illusion]] — Ilusi percepatan dari pekerjaan berbantuan AI
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Analisis jaringan ko-okurensi atas pola prompt
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory dan menyerah kognitif: bagaimana AI membentuk ulang penalaran manusia (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinum menyerah-offloading-agensi untuk GenAI
+- [[ai-making-us-stupid]] — Penelitian tentang efek kognitif AI dan penggusuran pembelajaran
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI yang menggantikan kerja kognitif (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Penggunaan AI tanpa pikir mengikis pembelajaran mandiri
+- [[generative-ai-guardrails-harm-learning]] — RCT matematika sekolah menengah tentang GenAI tanpa penjagaan
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti pembelajaran AI generatif: outsourcing pekerjaan rumah merugikan pembelajaran
+- [[coach-not-crutch-ai-writing]] — AI dapat bekerja lebih sedikit dan belajar lebih banyak (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Membuat tutoring AI produktif: latihan matematika berbasis penguasaan
+- [[cognitive-commons-ai-expertise-regeneration]] — Tragedi milik bersama kognitif: AI dan regenerasi keahlian
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: Alat Refleksi Diri yang Menjaga Privasi untuk Offloading Kognitif Terkait AI
+- [[chatgpt-writing-cognitive-impact-2026]] — eksperimen menulis-untuk-belajar ketika penulisan berbantuan ChatGPT menghasilkan perolehan pengetahuan lebih sedikit daripada kontrol tanpa bantuan
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Pola offloading kognitif siswa ke AI di pendidikan tinggi: bukti naturalistik tingkat pesan ChatGPT (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Merancang Melawan Deskilling: Umpan Balik Metakognitif Mengurangi Offloading Kognitif ke Asisten LLM
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Kognisi Mahasiswa Pemrograman Anda dengan ChatGPT: Kinerja Lebih Tinggi, Retensi Lebih Rendah, dan Kepemilikan Berkurang
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Kecenderungan offloading dan literasi verifikasi memprediksi hasil tingkat tinggi melalui regulasi diri metakognitif (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Prompt refleksi mengurangi penerimaan saran AI yang salah dan memperbaiki kalibrasi kesadaran (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Ketergantungan GenAI sebagai syarat batas bagi disposisi berpikir kritis dan employabilitas yang dipersepsikan sendiri (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Anak-anak menunjukkan konektivitas frontoparietal, salience dan atensi dorsal yang lebih lemah daripada orang dewasa saat berbicara dengan ChatGPT, pada skor kreativitas yang setara
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI dan berpikir kreatif anak: ketergantungan berlebih dan ketergantungan pada prompt dalam tinjauan cakupan (Niu et al. 2026)

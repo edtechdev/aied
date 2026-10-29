@@ -10,7 +10,6 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: "concepts/anxiety-and-stress"
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -141,7 +140,7 @@ Il [[well-being|benessere]] è l'ampio stato positivo (salute emotiva, psicologi
 - [[social-norms-ai-use]] — il costo affettivo della visibilità
 
 ## Articoli collegati
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - La competenza alza la consapevolezza etica, la consapevolezza etica alza l'ansia da IA: mediazione solo indiretta tra 584 studenti
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competenza alza la consapevolezza etica, la consapevolezza etica alza l'ansia da IA: mediazione solo indiretta tra 584 studenti
 - [[ai-anxiety-strategic-regulation-writing-2026]] — L'ansia da IA come segnale produttivo di regolazione strategica
 - [[aivaluate-anxiety-assessment-2026]] — Ansia degli studenti nella valutazione basata sulla performance mediata dall'IA
 - [[ai-campus-wellbeing-tools]] — Strumenti basati sull'IA per il benessere del campus

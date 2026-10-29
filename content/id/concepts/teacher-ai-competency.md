@@ -166,57 +166,57 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 
 ## Artikel Terhubung
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Guru mana yang memperoleh waktu perencanaan: keyakinan pengetahuan subjek lebih rendah, pengetahuan pedagogis lebih rendah, lebih baru di profesi, atau keyakinan teknologi tinggi
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Guru menerima AI sambil salah memahami cara kerjanya (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Kesiapan guru dan integrasi teknologis-pedagogis sebagai tantangan yang paling sering dilaporkan di seluruh 54 studi pendidikan matematika (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Literasi penilaian multimodal: program satu tahun di mana pengetahuan dan kompetensi bergerak tetapi nilai tidak
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Guru mana yang memperoleh waktu perencanaan: keyakinan pengetahuan subjek lebih rendah, pengetahuan pedagogis lebih rendah, lebih baru di profesi, atau keyakinan teknologi tinggi
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Guru menerima AI sambil salah memahami cara kerjanya (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Kesiapan guru dan integrasi teknologis-pedagogis sebagai tantangan yang paling sering dilaporkan di seluruh 54 studi pendidikan matematika (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Literasi penilaian multimodal: program satu tahun di mana pengetahuan dan kompetensi bergerak tetapi nilai tidak
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - PD Intelligent-TPACK: keuntungan setengah simpangan baku, dan keuntungan negatif yang terbaca sebagai rekalibrasi - Dampak program pengembangan profesional terhadap literasi AI guru K-12: Tinjauan sistematis dan meta-analisis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — PD Intelligent-TPACK: keuntungan setengah simpangan baku, dan keuntungan negatif yang terbaca sebagai rekalibrasi - Dampak program pengembangan profesional terhadap literasi AI guru K-12: Tinjauan sistematis dan meta-analisis
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - Guru menandai kasus AI kelas mereka sendiri dan dengan mudah mencapai kompetensi praktis tetapi jarang mencapai yang sosial dan etis (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] - Pemilihan alat sebagai latihan agensi pendidik
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - Tinjauan sistematis AI generatif dalam pengajaran dan pembelajaran K-12 (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - Pengetahuan profesional guru dalam pendidikan AI K-12: TAIK versus TPAIK dan pembelajaran siswa (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Pola interaksi guru-AI dalam desain pelajaran di seluruh pengalaman dan kecakapan AI (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] - Penggunaan GenAI yang bertanggung jawab oleh guru prajabatan: implikasi kurikulum (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - Observasi kelas oleh LLM untuk pengembangan profesional guru (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - AI generatif di seluruh representasi, dekomposisi, dan aproksimasi: gladi, umpan balik terstruktur, dan peringatan akurasi
-- [[genai-pd-ai-pck-learning-gain-2026]] - Efikasi program pengembangan profesional GenAI intensif
-- [[ai-tpack-teacher-multi-agent-workflow]] - Memodelkan AI-TPACK melalui alur kerja multi-agen guru
-- [[teacher-ai-teaming-five-levels]] - Menuju interaksi guru-AI yang sinergis
-- [[teacher-education-ai-literacy-sdt-2026]] - Pendidikan guru untuk literasi AI melalui teori penentuan diri
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Pelatihan literasi GenAI berbasis penelitian desain
-- [[rail-ed-genai-literacy-teacher-education]] - Memikirkan ulang literasi GenAI dalam pendidikan guru
-- [[sec-ai-literacy-narrative-review-2026]] - Mengintegrasikan kompetensi sosial-emosional dengan literasi AI
-- [[teacher-ai-adoption-confidence]] - Adopsi AI di antara guru: keyakinan dan dukungan
-- [[ai-pedagogical-orientation]] - Orientasi fakultas membentuk adopsi AI
-- [[ai-literacy-assessment-misalignment]] - Ketidakselarasan antara kompetensi AI yang dilaporkan sendiri dan yang berbasis kinerja
-- [[quest-ai-inquiry-preservice-teachers]] - Inkuiri berbantuan AI untuk guru prajabatan
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - Kerangka kesiapan fakultas EPIQ-AI
-- [[llm-cultural-relevance-k12]] - LLM untuk pedagogi K-12 yang relevan secara budaya
-- [[institutional-change-framework-ai]] - Kerangka perubahan institusional untuk AI
-- [[teachingcoach-chatbot-instructor-guidance]] - Chatbot TeachingCoach untuk panduan pengajar
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI sebagai krisis identitas, bukan kesenjangan keterampilan
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Guru menandai kasus AI kelas mereka sendiri dan dengan mudah mencapai kompetensi praktis tetapi jarang mencapai yang sosial dan etis (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Pemilihan alat sebagai latihan agensi pendidik
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Tinjauan sistematis AI generatif dalam pengajaran dan pembelajaran K-12 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pengetahuan profesional guru dalam pendidikan AI K-12: TAIK versus TPAIK dan pembelajaran siswa (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Pola interaksi guru-AI dalam desain pelajaran di seluruh pengalaman dan kecakapan AI (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Penggunaan GenAI yang bertanggung jawab oleh guru prajabatan: implikasi kurikulum (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — Observasi kelas oleh LLM untuk pengembangan profesional guru (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI generatif di seluruh representasi, dekomposisi, dan aproksimasi: gladi, umpan balik terstruktur, dan peringatan akurasi
+- [[genai-pd-ai-pck-learning-gain-2026]] — Efikasi program pengembangan profesional GenAI intensif
+- [[ai-tpack-teacher-multi-agent-workflow]] — Memodelkan AI-TPACK melalui alur kerja multi-agen guru
+- [[teacher-ai-teaming-five-levels]] — Menuju interaksi guru-AI yang sinergis
+- [[teacher-education-ai-literacy-sdt-2026]] — Pendidikan guru untuk literasi AI melalui teori penentuan diri
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Pelatihan literasi GenAI berbasis penelitian desain
+- [[rail-ed-genai-literacy-teacher-education]] — Memikirkan ulang literasi GenAI dalam pendidikan guru
+- [[sec-ai-literacy-narrative-review-2026]] — Mengintegrasikan kompetensi sosial-emosional dengan literasi AI
+- [[teacher-ai-adoption-confidence]] — Adopsi AI di antara guru: keyakinan dan dukungan
+- [[ai-pedagogical-orientation]] — Orientasi fakultas membentuk adopsi AI
+- [[ai-literacy-assessment-misalignment]] — Ketidakselarasan antara kompetensi AI yang dilaporkan sendiri dan yang berbasis kinerja
+- [[quest-ai-inquiry-preservice-teachers]] — Inkuiri berbantuan AI untuk guru prajabatan
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — Kerangka kesiapan fakultas EPIQ-AI
+- [[llm-cultural-relevance-k12]] — LLM untuk pedagogi K-12 yang relevan secara budaya
+- [[institutional-change-framework-ai]] — Kerangka perubahan institusional untuk AI
+- [[teachingcoach-chatbot-instructor-guidance]] — Chatbot TeachingCoach untuk panduan pengajar
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI sebagai krisis identitas, bukan kesenjangan keterampilan
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - Menilai Kompetensi Digital Guru untuk Desain Kurikulum GenAI (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - studi fenomenografis tentang konsepsi guru universitas mengenai AI
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Kerangka literasi AI lima tingkat + PD untuk pendidik sekolah menengah Ukraina (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - Kodesain tugas belajar antara guru dan AI: tren dan perspektif (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arsitektur peran dalam kegiatan kelompok berdiferensiasi yang dirancang AI (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Menilai Kompetensi Digital Guru untuk Desain Kurikulum GenAI (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — studi fenomenografis tentang konsepsi guru universitas mengenai AI
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Kerangka literasi AI lima tingkat + PD untuk pendidik sekolah menengah Ukraina (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Kodesain tugas belajar antara guru dan AI: tren dan perspektif (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arsitektur peran dalam kegiatan kelompok berdiferensiasi yang dirancang AI (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - Prompt engineering dan pemilihan model sebagai prediktor kualitas umpan balik AI (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Kompleks Rasa Bersalah AI: rasa bersalah antisipatif dan empat profil respons moral di antara staf akademik (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - Sesi PD guru tiga jam menaikkan kegunaan dan kemudahan penggunaan yang dipersepsikan tetapi tidak niat yang dinyatakan untuk mengadopsi (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - Tinjauan sistematis AI dalam pelatihan guru matematika sekolah dasar prajabatan: etika dibahas hanya dalam tiga dari sebelas studi (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Survei AAC&U/Elon atas 1.057 fakultas Amerika Serikat: kesiapan, non-penggunaan, dan kesenjangan kebijakan individual versus institusional (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Kolaboratorium fakultas lintas institusi: integrasi AI sebagai desain instruksional dalam penyiapan guru
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - Tinjauan sistematis atas 33 instrumen untuk mengukur literasi AI guru: 31 laporan diri, dua tes pengetahuan objektif, tanpa tugas kinerja (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Model literasi AI adaptif berbasis desain dan kuesioner reflektif 20 butir yang didesain bersama 22 pendidik guru (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - Rangkaian Lokakarya untuk Penggunaan AI yang Efektif di Masa yang Tidak Pasti: Membangun Komunitas Belajar Fakultas Fisika
-- [[authentic-assessments-generative-ai-pilot-2026]] - Merancang Penilaian Autentik dengan AI Generatif: Studi Pilot Assessment Authentifire di Pendidikan Tinggi
-- [[teachers-configure-educational-chatbots-2026]] - Apakah Akan Mengajar Sesuai Maksud? Bagaimana Guru Mengonfigurasi Chatbot AI Pendidikan
-- [[capability-decision-model-teacher-readiness-2026]] - Model kesiapan guru berurutan yang mengutamakan kapabilitas dengan indikator kapabilitas berbasis kinerja
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Survei lintas negara atas 1.405 guru K-12: kesiapan memprediksi keyakinan positif tetapi bukan kekhawatiran
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Empat profil keyakinan guru TALIS 2024 menghubungkan pembelajaran profesional dan hambatan spesifik profil terhadap penggunaan AI
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - Merancang Modul Microlearning tentang AI untuk Guru Universitas dalam Pendidikan Guru Vokasional: Studi Penelitian Berbasis Desain
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: Bagaimana Chatbot yang Dikonfigurasi Guru Gagal dalam Penggunaan Dunia Nyata dan Cara Memperbaikinya
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering dan pemilihan model sebagai prediktor kualitas umpan balik AI (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks Rasa Bersalah AI: rasa bersalah antisipatif dan empat profil respons moral di antara staf akademik (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Sesi PD guru tiga jam menaikkan kegunaan dan kemudahan penggunaan yang dipersepsikan tetapi tidak niat yang dinyatakan untuk mengadopsi (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Tinjauan sistematis AI dalam pelatihan guru matematika sekolah dasar prajabatan: etika dibahas hanya dalam tiga dari sebelas studi (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Survei AAC&U/Elon atas 1.057 fakultas Amerika Serikat: kesiapan, non-penggunaan, dan kesenjangan kebijakan individual versus institusional (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Kolaboratorium fakultas lintas institusi: integrasi AI sebagai desain instruksional dalam penyiapan guru
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Tinjauan sistematis atas 33 instrumen untuk mengukur literasi AI guru: 31 laporan diri, dua tes pengetahuan objektif, tanpa tugas kinerja (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Model literasi AI adaptif berbasis desain dan kuesioner reflektif 20 butir yang didesain bersama 22 pendidik guru (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — Rangkaian Lokakarya untuk Penggunaan AI yang Efektif di Masa yang Tidak Pasti: Membangun Komunitas Belajar Fakultas Fisika
+- [[authentic-assessments-generative-ai-pilot-2026]] — Merancang Penilaian Autentik dengan AI Generatif: Studi Pilot Assessment Authentifire di Pendidikan Tinggi
+- [[teachers-configure-educational-chatbots-2026]] — Apakah Akan Mengajar Sesuai Maksud? Bagaimana Guru Mengonfigurasi Chatbot AI Pendidikan
+- [[capability-decision-model-teacher-readiness-2026]] — Model kesiapan guru berurutan yang mengutamakan kapabilitas dengan indikator kapabilitas berbasis kinerja
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Survei lintas negara atas 1.405 guru K-12: kesiapan memprediksi keyakinan positif tetapi bukan kekhawatiran
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Empat profil keyakinan guru TALIS 2024 menghubungkan pembelajaran profesional dan hambatan spesifik profil terhadap penggunaan AI
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Merancang Modul Microlearning tentang AI untuk Guru Universitas dalam Pendidikan Guru Vokasional: Studi Penelitian Berbasis Desain
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Bagaimana Chatbot yang Dikonfigurasi Guru Gagal dalam Penggunaan Dunia Nyata dan Cara Memperbaikinya

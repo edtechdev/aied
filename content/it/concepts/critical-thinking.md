@@ -9,7 +9,6 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/critical-thinking
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -111,7 +110,7 @@ Il pensiero critico si interseca con [[scaffolding|lo scaffolding]] (progettare 
 - [[cognitive-surrender]]
 
 ## Articoli collegati
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus: critical thinking carries the report's highest disruption rating (mean 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert consensus: critical thinking carries the report's highest disruption rating (mean 4.00)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning

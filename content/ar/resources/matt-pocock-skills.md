@@ -28,7 +28,6 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/matt-pocock-skills
 source_updated: "2026-09-27T03:31:33-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

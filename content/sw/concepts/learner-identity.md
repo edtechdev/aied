@@ -8,7 +8,6 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-reviewed_by: [editor]
 translation_of: concepts/learner-identity
 source_updated: "2026-10-01T14:02:49-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

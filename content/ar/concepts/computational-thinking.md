@@ -7,7 +7,6 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/computational-thinking
 source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

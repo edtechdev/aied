@@ -8,7 +8,6 @@ technology: [affective-computing]
 connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/motivation
 source_updated: "2026-10-03T12:32:09-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

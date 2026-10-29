@@ -8,7 +8,6 @@ assessment: [assessment, automated-assessment]
 discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/automated-essay-scoring
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

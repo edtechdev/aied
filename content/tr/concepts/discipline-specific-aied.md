@@ -5,7 +5,6 @@ type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/discipline-specific-aied
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

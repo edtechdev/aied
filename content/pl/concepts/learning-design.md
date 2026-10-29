@@ -136,14 +136,14 @@ Fowlin i wsp. (2026) dodają ruch operacyjny do decyzji, gdzie wchodzi SI: rozł
 
 ## Połączone artykuły
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Zmierzone oszczędności czasu planowania obok ustalenia, że nauczyciele planują tylko 21% do 40% lekcji od zera
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Analityka uczenia się i GenAI w podejmowaniu decyzji projektowych
-- [[tang-chatbots-learning-design-2026]] - Użycie chatbota w projektowaniu uczenia się: projektanci zatrzymują się na efektach i pedagogice, a nie na generowaniu treści (Tang i wsp. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Wzorce interakcji nauczyciel-SI w projektowaniu lekcji według doświadczenia i biegłości w SI (Choi i wsp. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - SI w szkolnictwie wyższym: zaangażowanie i pośrednicząca rola metod nauczania
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Zmierzone oszczędności czasu planowania obok ustalenia, że nauczyciele planują tylko 21% do 40% lekcji od zera
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analityka uczenia się i GenAI w podejmowaniu decyzji projektowych
+- [[tang-chatbots-learning-design-2026]] — Użycie chatbota w projektowaniu uczenia się: projektanci zatrzymują się na efektach i pedagogice, a nie na generowaniu treści (Tang i wsp. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Wzorce interakcji nauczyciel-SI w projektowaniu lekcji według doświadczenia i biegłości w SI (Choi i wsp. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — SI w szkolnictwie wyższym: zaangażowanie i pośrednicząca rola metod nauczania
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taksonomia (obiekt graniczny) do klasyfikowania działań edukacyjnych z GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomia (obiekt graniczny) do klasyfikowania działań edukacyjnych z GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin i wsp. (2026) dodają ruch operacyjny do decyzji, gdzie wchodzi SI: rozł
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Agenci webowi SI: autonomiczny agent webowy ocenia projekty lekcji i przewiduje rezygnację studentów przed ich zaangażowaniem (Wang, Mitchell i Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: rama poznawczo aktywowanego wzmocnienia SI w fizyce
+- [[ai-web-agents-lesson-design-2025]] — Agenci webowi SI: autonomiczny agent webowy ocenia projekty lekcji i przewiduje rezygnację studentów przed ich zaangażowaniem (Wang, Mitchell i Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: rama poznawczo aktywowanego wzmocnienia SI w fizyce
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Projektowanie dla zasięgu: siedem dźwigni i student sam z SI
+- [[halani-designing-for-reach-2026]] — Projektowanie dla zasięgu: siedem dźwigni i student sam z SI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Kiedy odmowa daje lepsze wideo: podwójna kontrola dostępu dla pedagogicznie ugruntowanego tworzenia treści SI
-- [[rhaimi-productivemath-2025]] - ProductiveMath: SI we wspieraniu projektowania zadań produktywnego niepowodzenia
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - SI i praktyka projektowania nauczania: przegląd systematyczny (Kibar i Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Oparty na grafach tutoring inteligentny dla domen dynamicznych (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Celowe czynienie SI irytującą: ograniczenie w pisaniu wspieranym przez SI (Konradt, Boote i Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Model inteligentnej klasy i pętla D-T-E poprawiające biegłość w projektowaniu nauczania na studiach magisterskich z matematyki (Zhu i wsp. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Platforma oparta na SI generująca zadania modelowania matematycznego (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Współprojektowanie zadań edukacyjnych przez nauczyciela i SI: trendy i perspektywy (Wang i wsp. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM-y jako agenci iteracyjnego projektowania pedagogicznego
+- [[ai-video-dual-gatekeeping-2026]] — Kiedy odmowa daje lepsze wideo: podwójna kontrola dostępu dla pedagogicznie ugruntowanego tworzenia treści SI
+- [[rhaimi-productivemath-2025]] — ProductiveMath: SI we wspieraniu projektowania zadań produktywnego niepowodzenia
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — SI i praktyka projektowania nauczania: przegląd systematyczny (Kibar i Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Oparty na grafach tutoring inteligentny dla domen dynamicznych (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Celowe czynienie SI irytującą: ograniczenie w pisaniu wspieranym przez SI (Konradt, Boote i Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Model inteligentnej klasy i pętla D-T-E poprawiające biegłość w projektowaniu nauczania na studiach magisterskich z matematyki (Zhu i wsp. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Platforma oparta na SI generująca zadania modelowania matematycznego (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Współprojektowanie zadań edukacyjnych przez nauczyciela i SI: trendy i perspektywy (Wang i wsp. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektura ról w zróżnicowanych działaniach grupowych projektowanych przez SI (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM-y jako agenci iteracyjnego projektowania pedagogicznego

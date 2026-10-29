@@ -16,7 +16,6 @@ methods: [ai-assisted-educational-research]
 audience: [instructional designers, instructors, researchers]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 created: "2026-10-26T21:38:51-04:00"
 updated: "2026-10-26T21:38:51-04:00"
 translation_of: resources/learning-design-wiki

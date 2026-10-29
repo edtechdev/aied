@@ -8,7 +8,6 @@ pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/reducing-ai-misuse
 source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -121,7 +120,7 @@ Vileo vya kielimu vinaonekana tofauti tena mara uadilifu unapotendewa kama mazoe
 
 ## Makala Zilizounganishwa
 - [[ivory-psychology-assessment-integrity-2026]] — Njia za ushahidi za vidhibiti vya matoleo na nyaraka za uchanganuzi zinazoweza kurudiwa kama vizuri vya kuzuia matumizi mabaya (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Kuzuia pendekezo kulipunguza kwa kiasi kikubwa kutegemea kupita kiasi bila kujenga hukumu inayoiunga mkono
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kuzuia pendekezo kulipunguza kwa kiasi kikubwa kutegemea kupita kiasi bila kujenga hukumu inayoiunga mkono
 - [[generative-ai-guardrails-harm-learning]] — GenAI Bila Vizazi Inaweza Kudhuru Kujifunza
 - [[genai-performance-vs-learning]] — Kutofautisha Faida za Utendaji na Kujifunza
 - [[ai-assessment-scale-reform]] — Skela ya Tathmini ya AI na Maboresho ya Tathmini

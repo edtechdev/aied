@@ -8,7 +8,6 @@ technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
-reviewed_by: [editor]
 translation_of: concepts/community-of-inquiry
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

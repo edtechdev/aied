@@ -9,7 +9,6 @@ level: [adult learning, higher ed]
 confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
-reviewed_by: [editor]
 translation_of: concepts/adult-learning
 source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

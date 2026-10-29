@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -120,7 +119,7 @@ ai_assist:
 
 ## Пов’язані статті
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Консенсус 30 експертів щодо послідовності: спочатку породжуй без генеративного ШІ, закріплюй з ним, потім мисли самостійно
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 експертів щодо послідовності: спочатку породжуй без генеративного ШІ, закріплюй з ним, потім мисли самостійно
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Прозоре обґрунтування кожного дозволеного та забороненого використання генеративного ШІ, завдання за завданням (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Заохочення належного використання генеративного ШІ, а не засудження його як завади

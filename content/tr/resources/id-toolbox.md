@@ -16,7 +16,6 @@ level: [higher ed]
 audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
-reviewed_by: [editor]
 translation_of: resources/id-toolbox
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

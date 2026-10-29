@@ -142,13 +142,13 @@ Vertrouwen en geletterdheid zijn geen uitwisselbare doelen: in een SEM met 502 r
 - [[stakeholders]] - Overkoepeling: mensen en doelgroepen in AI-onderwijs (leerlingen, leraren, ontwerpers, beheerders, beleidsmakers)
 
 ## Verbonden artikelen
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Kritische discoursanalyse van advies over GenAI en alignment: ontwikkelaars herkaderd als technologietrainers
-- [[crompton-faculty-technology-integration-standards-2026]] - Standaarden voor docenten op het gebied van technologie-integratie (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Ethische dimensies van AI: visies van docenten en studenten
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritische discoursanalyse van advies over GenAI en alignment: ontwikkelaars herkaderd als technologietrainers
+- [[crompton-faculty-technology-integration-standards-2026]] — Standaarden voor docenten op het gebied van technologie-integratie (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethische dimensies van AI: visies van docenten en studenten
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Hoe metaforen van engineeringdocenten het begrip van AI construeren (en beperken)
-- [[fear-awe-genai-metaphor-workshops-2025]] - Angst en ontzag: generatieve AI begrijpen via metafoor (metafoorworkshop voor docenten, medewerkers en studenten)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Het onzichtbare besturen: AI-geletterdheid onder taalleraren
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hoe metaforen van engineeringdocenten het begrip van AI construeren (en beperken)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Angst en ontzag: generatieve AI begrijpen via metafoor (metafoorworkshop voor docenten, medewerkers en studenten)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Het onzichtbare besturen: AI-geletterdheid onder taalleraren
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Vertrouwen en geletterdheid zijn geen uitwisselbare doelen: in een SEM met 502 r
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI als identiteitscrisis, niet als vaardigheidskloof
-- [[zuo-instructor-power-genai-writing-2026]] - Machtsverhoudingen zoals ervaren door docenten die worstelen met GenAI in schrijfonderwijs (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflective Triangle Model: AI als cognitieve bemiddelaar
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Zelfgerapporteerde TPACK-21-kennis van docenten voor GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-professionalisering: aanwezigheid voorspelt winst, zelf ervaren deelname niet
-- [[instructional-design-proficiency-masters-math-2026]] - Model voor slimme klaslokalen en D-T-E-lus die de instructional-designvaardigheid van M.Ed.-studenten in wiskunde verbetert (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architectuur van rollen in door AI ontworpen gedifferentieerde groepsactiviteiten (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Ervaringen en percepties van universitaire docenten over GAI: kwetsbaarheid, herdenken van beoordeling, leren van studenten in gevaar (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Van angst naar innovatie: een docenteninstituut van zes weken, symbiotische pedagogie en de institutionele voorwaarden die het niet kon leveren
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Het AI-schuldcomplex: anticiperend schuldgevoel, verberging en verschillen naar loopbaanfase onder academisch personeel (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon-enquête onder 1.057 Amerikaanse docenten: institutionele onvoorbereidheid, dunne governance en de kloof van 87%/48% in beleid (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Academische ontwikkelaars als digitale bemiddelaars in Global South-hoger onderwijs: ontwikkeling als sociotechnische praxis
-- [[physics-faculty-learning-community-ai-2026]] - Een workshopreeks voor effectief AI-gebruik in onzekere tijden: een leergemeenschap van natuurkundedocenten opbouwen
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als identiteitscrisis, niet als vaardigheidskloof
+- [[zuo-instructor-power-genai-writing-2026]] — Machtsverhoudingen zoals ervaren door docenten die worstelen met GenAI in schrijfonderwijs (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI als cognitieve bemiddelaar
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Zelfgerapporteerde TPACK-21-kennis van docenten voor GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-professionalisering: aanwezigheid voorspelt winst, zelf ervaren deelname niet
+- [[instructional-design-proficiency-masters-math-2026]] — Model voor slimme klaslokalen en D-T-E-lus die de instructional-designvaardigheid van M.Ed.-studenten in wiskunde verbetert (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architectuur van rollen in door AI ontworpen gedifferentieerde groepsactiviteiten (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Ervaringen en percepties van universitaire docenten over GAI: kwetsbaarheid, herdenken van beoordeling, leren van studenten in gevaar (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Van angst naar innovatie: een docenteninstituut van zes weken, symbiotische pedagogie en de institutionele voorwaarden die het niet kon leveren
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Het AI-schuldcomplex: anticiperend schuldgevoel, verberging en verschillen naar loopbaanfase onder academisch personeel (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-enquête onder 1.057 Amerikaanse docenten: institutionele onvoorbereidheid, dunne governance en de kloof van 87%/48% in beleid (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academische ontwikkelaars als digitale bemiddelaars in Global South-hoger onderwijs: ontwikkeling als sociotechnische praxis
+- [[physics-faculty-learning-community-ai-2026]] — Een workshopreeks voor effectief AI-gebruik in onzekere tijden: een leergemeenschap van natuurkundedocenten opbouwen
 
-- [[faculty-ai-well-being-social-supports-2026]] - AI-welzijn van docenten loopt gelijk op met AI-geletterdheid en niet met technologische zelfeffectiviteit
-- [[ai-competence-framework-landscape-2026]] - Controleer wat de niveaus van een raamwerk beschrijven voordat u het overneemt
+- [[faculty-ai-well-being-social-supports-2026]] — AI-welzijn van docenten loopt gelijk op met AI-geletterdheid en niet met technologische zelfeffectiviteit
+- [[ai-competence-framework-landscape-2026]] — Controleer wat de niveaus van een raamwerk beschrijven voordat u het overneemt

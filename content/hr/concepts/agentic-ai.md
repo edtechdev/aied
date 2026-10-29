@@ -203,30 +203,30 @@ Agentska umjetna inteligencija nije ni univerzalni lijek ni neizbježna šteta: 
 
 ## Povezani članci
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] - Autonomija, kompetencija, povezanost i društvena prisutnost kao putovi od agentske umjetne inteligencije do angažmana (Pramod i Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] - AI agenti, radosna procjena i treći prostor
-- [[ilieva-agentic-genai-higher-education-2026]] - Okvir AGAI-HE: ograničena, ljudski nadzirana agentska generativna umjetna inteligencija u visokom obrazovanju (Ilieva i sur. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] - kritički integrativni pregled koji uvodi okvir dokaza i nadzora AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] - Perspektiva uključivih agentskih višeagentskih ekosustava umjetne inteligencije u visokom obrazovanju
-- [[baradziej-agentic-ai-higher-education-2026]] - Sistematski pregled uloga agentske umjetne inteligencije u visokom obrazovanju (48 studija; šest uloga; trodijelni okvir odgovorne integracije)
-- [[kostopoulos-agentic-ai-education-2025]] - Agentska umjetna inteligencija u obrazovanju: stanje područja i budući smjerovi (pregled u IEEE Access; operativna definicija i taksonomija)
-- [[agentic-ai-education-scoping-review]] - Pregled opsega agentske umjetne inteligencije u obrazovanju (474 studije)
-- [[agentic-ai-pedagogical-best-practice-2026]] - Napetost između automatizacije i učenja
-- [[tool-invariant-framework-agentic-ai]] - Poučavanje i procjenjivanje računalnih metoda u eri agentske umjetne inteligencije
-- [[jeon-isd-agent-bench-2026]] - ISD-Agent-Bench: mjerno ogledalo za agente nastavnog dizajna
-- [[adversarial-stress-testing-role-playing-agents]] - Protivničko testiranje pod stresom agenata koji igraju uloge
-- [[ai-agents-constructive-conflict-design-education-2026]] - AI agenti konstruktivnog sukoba u obrazovanju za dizajn
-- [[ai-tpack-teacher-multi-agent-workflow]] - TPACK nastavnika i višeagentski tijekovi rada
-- [[code-gen]] - Agenti za generiranje koda
-- [[educlaw-bench-pedagogical-llm-agents-2026]] - Mjerno ogledalo pedagoških LLM agenata
-- [[guided-llm-scaffolding-independent-learning]] - Vođena LLM potpora za samostalno učenje
-- [[learnmate2-llm-adaptive-learning]] - Agenti prilagodljivog učenja LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] - Agenti za igrificirano učenje kibersigurnosti
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] - Agentska umjetna inteligencija u kliničkoj simulaciji
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Duhovi studenti i praznina u provjeri kod agentske umjetne inteligencije (Bozkurt i sur. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] - AI agenti dovršavaju zadatke u sustavu za upravljanje učenjem; propust valjanosti kroz pretpostavku ljudske proizvodnje (Hadjisolomou i El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] - AI web agenti: opisujući agent kao evaluator iskustva učenja (predviđa odustajanje, daje povratne informacije o dizajnu prije nego se studenti uključe)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - Razvoj vođen specifikacijom s AI agentima u softverskom PBL-u; automatizacija nasuprot razumijevanju
-- [[ai-standardized-patient-scaffolding-medical-2026]] - Evaluacija višeagentskog sustava velikih jezičnih modela usmjerenog na postupnu potporu za obuku kliničkog intervjua
-- [[ethics-training-agents-group-ethics-discussion-2026]] - Agenti za etičku obuku: olakšavanje grupne etičke edukacije igranjem uloga i raspravom za etičku refleksiju i istraživanje
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomija, kompetencija, povezanost i društvena prisutnost kao putovi od agentske umjetne inteligencije do angažmana (Pramod i Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agenti, radosna procjena i treći prostor
+- [[ilieva-agentic-genai-higher-education-2026]] — Okvir AGAI-HE: ograničena, ljudski nadzirana agentska generativna umjetna inteligencija u visokom obrazovanju (Ilieva i sur. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — kritički integrativni pregled koji uvodi okvir dokaza i nadzora AOE
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspektiva uključivih agentskih višeagentskih ekosustava umjetne inteligencije u visokom obrazovanju
+- [[baradziej-agentic-ai-higher-education-2026]] — Sistematski pregled uloga agentske umjetne inteligencije u visokom obrazovanju (48 studija; šest uloga; trodijelni okvir odgovorne integracije)
+- [[kostopoulos-agentic-ai-education-2025]] — Agentska umjetna inteligencija u obrazovanju: stanje područja i budući smjerovi (pregled u IEEE Access; operativna definicija i taksonomija)
+- [[agentic-ai-education-scoping-review]] — Pregled opsega agentske umjetne inteligencije u obrazovanju (474 studije)
+- [[agentic-ai-pedagogical-best-practice-2026]] — Napetost između automatizacije i učenja
+- [[tool-invariant-framework-agentic-ai]] — Poučavanje i procjenjivanje računalnih metoda u eri agentske umjetne inteligencije
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: mjerno ogledalo za agente nastavnog dizajna
+- [[adversarial-stress-testing-role-playing-agents]] — Protivničko testiranje pod stresom agenata koji igraju uloge
+- [[ai-agents-constructive-conflict-design-education-2026]] — AI agenti konstruktivnog sukoba u obrazovanju za dizajn
+- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK nastavnika i višeagentski tijekovi rada
+- [[code-gen]] — Agenti za generiranje koda
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Mjerno ogledalo pedagoških LLM agenata
+- [[guided-llm-scaffolding-independent-learning]] — Vođena LLM potpora za samostalno učenje
+- [[learnmate2-llm-adaptive-learning]] — Agenti prilagodljivog učenja LearnMate-2
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agenti za igrificirano učenje kibersigurnosti
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentska umjetna inteligencija u kliničkoj simulaciji
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Duhovi studenti i praznina u provjeri kod agentske umjetne inteligencije (Bozkurt i sur. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agenti dovršavaju zadatke u sustavu za upravljanje učenjem; propust valjanosti kroz pretpostavku ljudske proizvodnje (Hadjisolomou i El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — AI web agenti: opisujući agent kao evaluator iskustva učenja (predviđa odustajanje, daje povratne informacije o dizajnu prije nego se studenti uključe)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — Razvoj vođen specifikacijom s AI agentima u softverskom PBL-u; automatizacija nasuprot razumijevanju
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluacija višeagentskog sustava velikih jezičnih modela usmjerenog na postupnu potporu za obuku kliničkog intervjua
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti za etičku obuku: olakšavanje grupne etičke edukacije igranjem uloga i raspravom za etičku refleksiju i istraživanje
 

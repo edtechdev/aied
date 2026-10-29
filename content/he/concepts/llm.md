@@ -8,7 +8,6 @@ technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
 assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/llm
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

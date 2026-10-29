@@ -7,7 +7,6 @@ foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
 audience: [instructors]
-reviewed_by: [editor]
 translation_of: faqs/top-10-findings-ai-education-instructors
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -18,6 +17,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
+
+*Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
 # What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?
 

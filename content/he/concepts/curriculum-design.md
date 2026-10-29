@@ -11,7 +11,6 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
-reviewed_by: [editor]
 translation_of: concepts/curriculum-design
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -252,7 +251,7 @@ Kwa ujuzi mahususi wa AI hasa, [[solyst-youth-systematic-evaluation-genai-2026|S
 ## Makala Zilizounganishwa
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Kuunda utotoni katika enzi ya AI: uwezo, mbinu za kufundisha na msaada wa ikolojia (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Ujuzi wa Usalama wa AI: mfumo wa uwezo unaotegemea ikolojia na jukwaa la kujifunzia la K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Kupandisha kipimo cha maadili cha ujuzi bila mfumo wa kukabiliana kunaweza kuwaacha wanafunzi na wasiwasi zaidi
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Kupandisha kipimo cha maadili cha ujuzi bila mfumo wa kukabiliana kunaweza kuwaacha wanafunzi na wasiwasi zaidi
 - [[caeai-digital-literacy-frameworks-review-2026]] — Miundo 80 iliyothibitishwa inaonyesha AI inapanua ujuzi wa kidijitali kuelekea maadili huku ushirikiano wa binadamu–AI wa waelimishaji ukibaki bila kubainishwa (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Maeneo sita ya uwezo, thamani tano na viwango vitatu vya maendeleo kwa vyombo vya huduma ya umma
 - [[ai-literacy-heptagon-2026]] — Heptagon ya Ujuzi wa AI

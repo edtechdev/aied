@@ -10,7 +10,6 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: concepts/learning-analytics
 source_updated: "2026-10-27T10:05:00-04:00"
 updated: "2026-10-28T13:12:16-04:00"

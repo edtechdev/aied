@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
-reviewed_by: [editor]
 translation_of: concepts/well-being
 source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

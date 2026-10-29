@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*"
@@ -249,7 +248,7 @@ Riêng với năng lực AI phản biện, [[solyst-youth-systematic-evaluation-
 ## Bài viết liên quan
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Định hình tuổi thơ trong kỷ nguyên AI: năng lực, phương pháp sư phạm và hỗ trợ sinh thái (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Năng lực Bảo mật AI: khuôn khổ năng lực dựa trên hệ sinh thái và nền tảng học tập K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Nâng chiều đạo đức của năng lực mà không có khuôn khổ đối phó có thể để lại học sinh lo âu hơn
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Nâng chiều đạo đức của năng lực mà không có khuôn khổ đối phó có thể để lại học sinh lo âu hơn
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 khuôn khổ đã kiểm chứng cho thấy AI mở rộng năng lực số về phía đạo đức trong khi hợp tác người–AI của nhà giáo dục vẫn chưa được đặc tả (Guo và cộng sự 2026)
 - [[ai-literacies-young-adults-2025]] — Sáu lĩnh vực năng lực, năm giá trị và ba cấp tiến trình cho phương tiện phục vụ công
 - [[ai-literacy-heptagon-2026]] — AI Literacy Heptagon

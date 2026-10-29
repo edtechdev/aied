@@ -8,7 +8,6 @@ assessment: [process-oriented-assessment, remote-proctoring, summative-assessmen
 ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: "concepts/remote-proctoring"
 source_updated: "2026-10-03T01:40:50-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

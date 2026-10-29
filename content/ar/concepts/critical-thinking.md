@@ -9,7 +9,6 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/critical-thinking
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -101,7 +100,7 @@ ai_assist:
 
 ## المقالات المتصلة
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - إجماع 30 خبيرًا: التفكير النقدي يحمل أعلى تقييم للاضطراب في التقرير (بمتوسط 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — إجماع 30 خبيرًا: التفكير النقدي يحمل أعلى تقييم للاضطراب في التقرير (بمتوسط 4.00)
 - [[pearls-epistemic-verification-2026]] — إطار PEARLS للفاعلية المعرفية والتحقّق من مخرَج الذكاء الاصطناعي (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — التفريغ المعرفي الحسّاس للطبقات في الكتابة المُعانة بالذكاء الاصطناعي التوليدي (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — مفارقة التفكير النقدي في التعلّم المُدمَج مع الذكاء الاصطناعي التوليدي

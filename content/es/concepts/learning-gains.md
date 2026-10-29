@@ -10,7 +10,6 @@ page_kind: [evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: concepts/learning-gains
 source_updated: "2026-10-28T00:51:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."

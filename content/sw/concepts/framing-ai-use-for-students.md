@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -114,7 +113,7 @@ Wanafunzi pia huelezewa na vyombo vya habari vya kijamii na mazungumzo ya umma y
 - [[misconceptions]]
 
 ## Makala Zilizounganishwa
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Makubaliano ya wataalam 30 juu ya mpangilio: pata bila GenAI, dumisha nayo, kisha fikiria wewe mwenyewe
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Makubaliano ya wataalam 30 juu ya mpangilio: pata bila GenAI, dumisha nayo, kisha fikiria wewe mwenyewe
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Mantiki ya wazi kwa kila matumizi yanayoruhusiwa na yasiyoruhusiwa ya GenAI, kazi kwa kazi (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Kuhimiza matumizi yanayofaa ya GenAI badala ya kuyahukumu kama mzunguko

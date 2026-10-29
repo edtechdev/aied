@@ -5,7 +5,6 @@ connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruc
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-reviewed_by: [editor]
 translation_of: faqs/redesign-assessment-ai-era
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

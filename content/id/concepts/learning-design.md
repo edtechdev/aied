@@ -136,14 +136,14 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 
 ## Artikel Terkait
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Penghematan waktu perencanaan yang terukur bersamaan dengan temuan bahwa guru hanya merencanakan 21% hingga 40% pelajaran dari nol
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - LA dan GenAI dalam pengambilan keputusan desain pembelajaran
-- [[tang-chatbots-learning-design-2026]] - Penggunaan chatbot dalam desain pembelajaran: perancang berhenti pada hasil dan pedagogi alih-alih pembuatan konten (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Pola interaksi guru-AI dalam desain pelajaran lintas pengalaman dan kemahiran AI (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - AI di pendidikan tinggi: keterlibatan + peran mediasi metode pengajaran
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Penghematan waktu perencanaan yang terukur bersamaan dengan temuan bahwa guru hanya merencanakan 21% hingga 40% pelajaran dari nol
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA dan GenAI dalam pengambilan keputusan desain pembelajaran
+- [[tang-chatbots-learning-design-2026]] — Penggunaan chatbot dalam desain pembelajaran: perancang berhenti pada hasil dan pedagogi alih-alih pembuatan konten (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Pola interaksi guru-AI dalam desain pelajaran lintas pengalaman dan kemahiran AI (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI di pendidikan tinggi: keterlibatan + peran mediasi metode pengajaran
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taksonomi (objek batas) untuk mengklasifikasikan aktivitas pembelajaran GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomi (objek batas) untuk mengklasifikasikan aktivitas pembelajaran GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - AI Web Agents: agen web otonom mengevaluasi desain pelajaran dan memprediksi putus sekolah siswa sebelum siswa terlibat (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: Kerangka untuk Augmentasi AI yang Diaktifkan Secara Kognitif dalam Fisika
+- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: agen web otonom mengevaluasi desain pelajaran dan memprediksi putus sekolah siswa sebelum siswa terlibat (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: Kerangka untuk Augmentasi AI yang Diaktifkan Secara Kognitif dalam Fisika
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Designing for Reach: Tujuh Tuas dan Siswa yang Sendirian dengan AI
+- [[halani-designing-for-reach-2026]] — Designing for Reach: Tujuh Tuas dan Siswa yang Sendirian dengan AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Ketika Mengatakan Tidak Menghasilkan Video Lebih Baik: Gatekeeping Ganda untuk Pembuatan Konten AI yang Berdasar Pedagogis
-- [[rhaimi-productivemath-2025]] - ProductiveMath: AI untuk Mendukung Desain Masalah Productive Failure
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI dan Praktik Desain Instruksional: Tinjauan Sistematis (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Tutoring Cerdas Berbasis Graf untuk Domain Dinamis (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Membuat AI sengaja menjengkelkan: batasan dalam penulisan berbantuan AI (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Model ruang kelas pintar dan lingkar D-T-E yang meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Platform bertenaga AI yang menghasilkan masalah pemodelan matematika (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Ko-desain tugas belajar oleh guru-AI: tren dan perspektif (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM sebagai agen desain pedagogis iteratif
+- [[ai-video-dual-gatekeeping-2026]] — Ketika Mengatakan Tidak Menghasilkan Video Lebih Baik: Gatekeeping Ganda untuk Pembuatan Konten AI yang Berdasar Pedagogis
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah Productive Failure
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI dan Praktik Desain Instruksional: Tinjauan Sistematis (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Tutoring Cerdas Berbasis Graf untuk Domain Dinamis (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Membuat AI sengaja menjengkelkan: batasan dalam penulisan berbantuan AI (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Model ruang kelas pintar dan lingkar D-T-E yang meningkatkan kemahiran desain instruksional M.Ed. dalam matematika (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Platform bertenaga AI yang menghasilkan masalah pemodelan matematika (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Ko-desain tugas belajar oleh guru-AI: tren dan perspektif (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif

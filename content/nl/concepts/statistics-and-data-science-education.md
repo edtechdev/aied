@@ -9,7 +9,6 @@ technology: [generative-ai, llm, intelligent-tutoring, simulation]
 assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/statistics-and-data-science-education
 source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."

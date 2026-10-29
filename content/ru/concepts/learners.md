@@ -10,7 +10,6 @@ level: [higher ed, k 12, adult learning]
 audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/learners
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

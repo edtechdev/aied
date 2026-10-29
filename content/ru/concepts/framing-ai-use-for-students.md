@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

@@ -160,7 +160,7 @@ ai_assist:
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — 生成式人工智能作为身份危机，而非技能差距
 - [[zuo-instructor-power-genai-writing-2026]] — 应对写作中生成式人工智能的大学教师所感知的权力关系（Zuo、Xu 与 Dunning，2026）
 - [[reflective-triangle-model-teacher-ai-2026]] — 反思三角模型：人工智能作为认知中介
-- [[sutedjo-faculty-genai-tpack-21-2026]] - 教师对生成式人工智能的自我感知 TPACK-21 知识（Sutedjo、Chowdhury 与 Liu，2026）
+- [[sutedjo-faculty-genai-tpack-21-2026]] — 教师对生成式人工智能的自我感知 TPACK-21 知识（Sutedjo、Chowdhury 与 Liu，2026）
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK 专业发展：出勤预测增益，而自我感知的参与不预测
 - [[instructional-design-proficiency-masters-math-2026]] — 智慧课堂模型与 D-T-E 循环改善数学教育硕士的教学设计能力（Zhu 等，2026）
 - [[talebzadeh-ai-group-activity-roles-2026]] — 人工智能设计的分组活动中角色的架构（Talebzadeh，2026）

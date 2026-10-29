@@ -199,43 +199,43 @@ De eerste Theory of Planned Behavior-studie naar wangedragintentie via GAIT brei
 
 ## Verbonden artikelen
 
-- [[ivory-psychology-assessment-integrity-2026]] - Een heel psychologieprogramma haalbaar met minimale inspanning, en de beoordelingscriteria die dat doorlieten (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Student-leraren weigerden GenAI onder een permissief beleid; "val"-framing en de kloof tussen enquête en verklaring
-- [[ai-agents-joyful-assessment-third-space-2026]] - AI-agenten, vreugdevolle beoordeling en de derde ruimte
-- [[kumar-genai-computing-education-systematic-review-2026]] - Bewijs over detectie is dun (3 studies van 72); herontwerp draagt het gewicht
-- [[mccorkle-aligned-genai-course-policy-2025]] - Afgestemd GenAI-vakbeleid: toestemmingen afgeleid van beoordeling, transparante rationale (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Generatie van constructequivalente beoordelingsvarianten (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Hoe docenten AI reguleren over 31.000 cursusbeschrijvingen; integriteitsframing neemt af (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Kun je je met fraude een biologiediploma verschaffen? Een casestudy naar de kwetsbaarheid van cijfers voor biologievakken voor academische oneerlijkheid in het tijdperk van generatieve AI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Niet-naleving door studenten van verklaringen over AI-gebruik
-- [[detecting-llm-generated-text-latent-prompt]] - Door LLM's gegenereerde tekst detecteren
-- [[beyond-detection-authentic-assessment-ai-2025]] - Voorbij detectie: authentieke beoordeling in een AI-gemedieerde wereld
-- [[ai-assessment-scale-reform]] - De AI Assessment Scale en hervorming van beoordeling
-- [[authentic-products-authenticated-processes-2026]] - Van authentieke producten naar geauthenticeerde processen
-- [[student-rationalization-ai-writing]] - Het is oké omdat... Rationalisering van AI-gebruik door studenten
-- [[ethical-ai-higher-ed-game-theory]] - Een coördinatiespelkader voor ethisch AI-gebruik
-- [[shame-guilt-ai-regulation-computing-education]] - Schaamte en schuld als sociale regulatoren van AI-gebruik
-- [[cross-cultural-student-perceptions-genai-computing]] - Deed Alice iets verkeerd? Crossculturele percepties van AI-gebruik
-- [[luo-dawson-value-judgments-grading-2026]] - Waardeoordelen bij het beoordelen van GenAI-ondersteund werk: eerlijkheid, vertrouwen, validiteit en tweerichtingstransparantie (Luo & Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Verantwoording onder medestudenten en originaliteit in GenAI-gemedieerde groepsbeoordeling
-- [[teichmann-detecting-undetectable-misconduct-2026]] - De bewijskundige instorting van detectie en het pleidooi voor procedurele rechtvaardigheid, proportionaliteit en ontwerp
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Afschrikking, openbaarmaking en herontwerp als een beoordelingsontwerpprobleem onder onvolkomen informatie
-- [[munoz-misconduct-allegation-evidence-2026]] - Waarop 1.162 GenAI-wangedragdossiers werkelijk rustten, en de ontbrekende bewijsdrempel
-- [[wright-transcription-not-generation-2026]] - Te ruime AI-regels en het onderscheid tussen transcriptie en generatie
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - AI-gebaseerde digitale fraude en preventiegerichte ethische pedagogieën: de zaak met 183 tegen 27 wangedraggevallen en vijf disciplinespecifieke herontwerpen (Leaton Gray, Edsall & Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Integriteit als governanceprobleem: een kader van 130 indicatoren voor academische bestuurders (Coates, Croucher & Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Scopingreview van 38 studies naar de stem van studenten in het hoger onderwijs over academische integriteit en GenAI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - De grens tussen ondersteuning en substitutie trekken voor EAL-schrijvers, en de ongelijkwaardigheid van regels die taalachtergrond negeren (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Promptinjectie tegen AI-gemedieerde beoordeling: verborgen instructies die het cijfer ongedetecteerd veranderen (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - De AI-Use Ethics Matrix: angstige compliance, en waarom duidelijkheid alleen studenten in efficiënte omzeiling kan duwen (Petricini & Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Het redeneertraject beoordelen wanneer AI-agenten de opdracht kunnen voltooien (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Door AI geschreven toelatingsessays komen veel voor maar worden bestraft
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Wie handelt, wie weet, wie antwoordt? Een corpusondersteunde discoursanalyse van agency, epistemische verantwoordelijkheid en aansprakelijkheid in onderzoek naar generatieve AI in het hoger onderwijs
+- [[ivory-psychology-assessment-integrity-2026]] — Een heel psychologieprogramma haalbaar met minimale inspanning, en de beoordelingscriteria die dat doorlieten (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student-leraren weigerden GenAI onder een permissief beleid; "val"-framing en de kloof tussen enquête en verklaring
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI-agenten, vreugdevolle beoordeling en de derde ruimte
+- [[kumar-genai-computing-education-systematic-review-2026]] — Bewijs over detectie is dun (3 studies van 72); herontwerp draagt het gewicht
+- [[mccorkle-aligned-genai-course-policy-2025]] — Afgestemd GenAI-vakbeleid: toestemmingen afgeleid van beoordeling, transparante rationale (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generatie van constructequivalente beoordelingsvarianten (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Hoe docenten AI reguleren over 31.000 cursusbeschrijvingen; integriteitsframing neemt af (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Kun je je met fraude een biologiediploma verschaffen? Een casestudy naar de kwetsbaarheid van cijfers voor biologievakken voor academische oneerlijkheid in het tijdperk van generatieve AI
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Niet-naleving door studenten van verklaringen over AI-gebruik
+- [[detecting-llm-generated-text-latent-prompt]] — Door LLM's gegenereerde tekst detecteren
+- [[beyond-detection-authentic-assessment-ai-2025]] — Voorbij detectie: authentieke beoordeling in een AI-gemedieerde wereld
+- [[ai-assessment-scale-reform]] — De AI Assessment Scale en hervorming van beoordeling
+- [[authentic-products-authenticated-processes-2026]] — Van authentieke producten naar geauthenticeerde processen
+- [[student-rationalization-ai-writing]] — Het is oké omdat... Rationalisering van AI-gebruik door studenten
+- [[ethical-ai-higher-ed-game-theory]] — Een coördinatiespelkader voor ethisch AI-gebruik
+- [[shame-guilt-ai-regulation-computing-education]] — Schaamte en schuld als sociale regulatoren van AI-gebruik
+- [[cross-cultural-student-perceptions-genai-computing]] — Deed Alice iets verkeerd? Crossculturele percepties van AI-gebruik
+- [[luo-dawson-value-judgments-grading-2026]] — Waardeoordelen bij het beoordelen van GenAI-ondersteund werk: eerlijkheid, vertrouwen, validiteit en tweerichtingstransparantie (Luo & Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Verantwoording onder medestudenten en originaliteit in GenAI-gemedieerde groepsbeoordeling
+- [[teichmann-detecting-undetectable-misconduct-2026]] — De bewijskundige instorting van detectie en het pleidooi voor procedurele rechtvaardigheid, proportionaliteit en ontwerp
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Afschrikking, openbaarmaking en herontwerp als een beoordelingsontwerpprobleem onder onvolkomen informatie
+- [[munoz-misconduct-allegation-evidence-2026]] — Waarop 1.162 GenAI-wangedragdossiers werkelijk rustten, en de ontbrekende bewijsdrempel
+- [[wright-transcription-not-generation-2026]] — Te ruime AI-regels en het onderscheid tussen transcriptie en generatie
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI-gebaseerde digitale fraude en preventiegerichte ethische pedagogieën: de zaak met 183 tegen 27 wangedraggevallen en vijf disciplinespecifieke herontwerpen (Leaton Gray, Edsall & Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Integriteit als governanceprobleem: een kader van 130 indicatoren voor academische bestuurders (Coates, Croucher & Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Scopingreview van 38 studies naar de stem van studenten in het hoger onderwijs over academische integriteit en GenAI (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — De grens tussen ondersteuning en substitutie trekken voor EAL-schrijvers, en de ongelijkwaardigheid van regels die taalachtergrond negeren (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Promptinjectie tegen AI-gemedieerde beoordeling: verborgen instructies die het cijfer ongedetecteerd veranderen (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — De AI-Use Ethics Matrix: angstige compliance, en waarom duidelijkheid alleen studenten in efficiënte omzeiling kan duwen (Petricini & Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Het redeneertraject beoordelen wanneer AI-agenten de opdracht kunnen voltooien (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Door AI geschreven toelatingsessays komen veel voor maar worden bestraft
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Wie handelt, wie weet, wie antwoordt? Een corpusondersteunde discoursanalyse van agency, epistemische verantwoordelijkheid en aansprakelijkheid in onderzoek naar generatieve AI in het hoger onderwijs
 
-- [[genai-governance-australian-higher-ed-2026]] - De geautoriseerde grens in kaart brengen: een vergelijkende beleidsvignettenstudie naar governance van generatieve AI in het Australische hoger onderwijs
-- [[argus-academic-integrity-genai-2026]] - Argus: academische integriteit in het tijdperk van generatieve AI
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Sectoraudit: universiteiten met een mandaat en met een kader verschillen niet in beoordelingsblootstelling, de empirische tegenhanger van het coördinatieprobleem
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - vroege voorspelling van het risico op AI-ondersteunde fraude uit LMS-sporen, geframed als academische begeleiding in plaats van als bewijs van wangedrag
-- [[reddit-genai-education-discourse-analysis-2026]] - Drieënhalf jaar onderwijs-Reddit: handhaving domineert, en integriteitsgeschillen zijn het belangrijkste podium tussen docenten en studenten (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Enquête-experiment: de substitutieframing van AI-gebruik door studenten benadeelt aanvragers met een hoog GPA bij werving en salaris; testen ter plaatse is de enige remedie die beide groepen kozen
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: naar een voor mensen leesbare, machinebestendige leesinterface
+- [[genai-governance-australian-higher-ed-2026]] — De geautoriseerde grens in kaart brengen: een vergelijkende beleidsvignettenstudie naar governance van generatieve AI in het Australische hoger onderwijs
+- [[argus-academic-integrity-genai-2026]] — Argus: academische integriteit in het tijdperk van generatieve AI
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Sectoraudit: universiteiten met een mandaat en met een kader verschillen niet in beoordelingsblootstelling, de empirische tegenhanger van het coördinatieprobleem
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - vroege voorspelling van het risico op AI-ondersteunde fraude uit LMS-sporen, geframed als academische begeleiding in plaats van als bewijs van wangedrag
+- [[reddit-genai-education-discourse-analysis-2026]] — Drieënhalf jaar onderwijs-Reddit: handhaving domineert, en integriteitsgeschillen zijn het belangrijkste podium tussen docenten en studenten (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Enquête-experiment: de substitutieframing van AI-gebruik door studenten benadeelt aanvragers met een hoog GPA bij werving en salaris; testen ter plaatse is de enige remedie die beide groepen kozen
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: naar een voor mensen leesbare, machinebestendige leesinterface

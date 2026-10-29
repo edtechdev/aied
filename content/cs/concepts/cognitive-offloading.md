@@ -191,45 +191,45 @@ Stejná logika mění tvarování odměny v návrhový nástroj: [[assistance-di
 - [[cognitive-surrender]]
 
 ## Související články
-- [[ai-proof-learning-cognitive-offloading-2026]] - Podporovat, nebo nahrazovat uvažování studentů? Kognitivní odklánění v učení s podporou AI při dokazování (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Co odevzdání neukazuje: komplexifikace kognitivního odklánění v matematické práci studentů s LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 expertů nad 65 procesy učení: odklánění na obou koncích učební sekvence
-- [[rented-self-decoupling-performance-becoming-2026]] - Pronajaté self: odklánění, které stojí oborové self žáka, ne jen dovednost
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Skupiny, které začínaly stejně, se rozešly: 74,1 % převzetí modelu v jednom profilu proti 80,8 % odklánění a patu v jiném (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Podpora AI snížila vytrvalost a výkon bez pomoci ve třech RCT (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT jako kognitivní berla: randomizovaná kontrolovaná studie uchování znalostí po 45 dnech (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Od kognitivního outsourcingu k realokaci: analýza 3P angažovanosti studentů s GenAI v hodnocení bez dohledu (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Rodinná a školní podpora autonomie pro zodpovědné používání generativní AI dětmi
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Přebytečné versus prospěšné tření: proč se odklánění na AI liší od dřívějších nástrojů
-- [[thermomix-genai-education-analogy-2026]] - With a Thermomix You Lose the Ability to Cook: analogie kuchyňského stroje pro generativní AI ve vzdělávání (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - Kognitivní vyplavení: dynamika úpadku dovedností vyvolaného AI po odebrání
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Kritická narativní syntéza angažovanosti a závislosti u konverzační AI
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Kognitivní odklánění citlivé na vrstvu v psaní s podporou GenAI (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Epistemická závislost v učení zprostředkovaném AI: šest diagnostických kritérií oddělujících produktivní spoléhání od škodlivé závislosti (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Kognitivní odklánění na GenAI u studentů se specifickými poruchami učení
-- [[lodge-loble-cognitive-offloading-2026]] - AI, kognitivní odklánění a důsledky pro vzdělávání
-- [[cognitive-offloading-metacognitive-review-2026]] - Metakognitivní vhledy do kognitivního odklánění (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Metakognitivní trénink usnadňuje optimální kognitivní odklánění (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Paradox kritického myšlení v učení integrovaném s GenAI
-- [[cognitive-offloading-speedup-illusion]] - Iluze zrychlení práce s podporou AI
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Analýza sítě spoluvýskytu promptových vzorců
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory a kognitivní kapitulace: jak AI přetváří lidské uvažování (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kontinuum kapitulace, odklánění a agenturnosti u GenAI
-- [[ai-making-us-stupid]] - Výzkum kognitivních účinků AI a vytěsnění učení
-- [[brcic-effortless-trap-productive-struggle-2026]] - Past bez námahy: AI nahrazující kognitivní práci (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Bezmyšlenkovité používání AI eroduje sebeřízené učení
-- [[generative-ai-guardrails-harm-learning]] - Randomizované studie ve středoškolské matematice o nehlídané GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Penalta učení s generativní AI: outsourcing domácích úloh škodí učení
-- [[coach-not-crutch-ai-writing]] - AI může pracovat méně a naučit více (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Jak učinit AI doučování produktivním: praxe matematiky založená na mistrovství
-- [[cognitive-commons-ai-expertise-regeneration]] - Tragédie kognitivního společenství: AI a regenerace odbornosti
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: nástroj sebereflexe chránící soukromí pro kognitivní odklánění spojené s AI
-- [[chatgpt-writing-cognitive-impact-2026]] - experiment s psaním pro učení, v němž psaní s podporou ChatGPT přineslo menší zisk znalostí než kontrolní skupina bez pomoci
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Vzorce kognitivního odklánění studentů na AI ve vysokoškolském vzdělávání: naturalistické důkazy na úrovni zpráv ChatGPT (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Designing Against Deskilling: metakognitivní zpětná vazba snižuje kognitivní odklánění na asistenty LLM
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Kognice vašich studentů programování s ChatGPT: vyšší výkon, nižší uchování a omezené vlastnictví
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Tendence k odklánění a gramotnost v ověřování predikující výsledky vyššího řádu prostřednictvím metakognitivní seberegulace (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Reflexní prompt snižuje přijímání nesprávné rady AI a zlepšuje kalibraci uvědomění (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Závislost na GenAI jako hraniční podmínka dispozice ke kritickému myšlení a sebevnímané zaměstnatelnosti (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Děti vykazovaly slabší frontoparietální, salienční a dorzální pozornostní konektivitu než dospělí při rozhovoru s ChatGPT, při shodných skóre kreativity
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI a tvůrčí myšlení dětí: nadměrná závislost a závislost na promptech ve scopingovém přehledu (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Podporovat, nebo nahrazovat uvažování studentů? Kognitivní odklánění v učení s podporou AI při dokazování (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Co odevzdání neukazuje: komplexifikace kognitivního odklánění v matematické práci studentů s LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 expertů nad 65 procesy učení: odklánění na obou koncích učební sekvence
+- [[rented-self-decoupling-performance-becoming-2026]] — Pronajaté self: odklánění, které stojí oborové self žáka, ne jen dovednost
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Skupiny, které začínaly stejně, se rozešly: 74,1 % převzetí modelu v jednom profilu proti 80,8 % odklánění a patu v jiném (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Podpora AI snížila vytrvalost a výkon bez pomoci ve třech RCT (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT jako kognitivní berla: randomizovaná kontrolovaná studie uchování znalostí po 45 dnech (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Od kognitivního outsourcingu k realokaci: analýza 3P angažovanosti studentů s GenAI v hodnocení bez dohledu (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Rodinná a školní podpora autonomie pro zodpovědné používání generativní AI dětmi
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Přebytečné versus prospěšné tření: proč se odklánění na AI liší od dřívějších nástrojů
+- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: analogie kuchyňského stroje pro generativní AI ve vzdělávání (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — Kognitivní vyplavení: dynamika úpadku dovedností vyvolaného AI po odebrání
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Kritická narativní syntéza angažovanosti a závislosti u konverzační AI
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kognitivní odklánění citlivé na vrstvu v psaní s podporou GenAI (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Epistemická závislost v učení zprostředkovaném AI: šest diagnostických kritérií oddělujících produktivní spoléhání od škodlivé závislosti (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitivní odklánění na GenAI u studentů se specifickými poruchami učení
+- [[lodge-loble-cognitive-offloading-2026]] — AI, kognitivní odklánění a důsledky pro vzdělávání
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitivní vhledy do kognitivního odklánění (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitivní trénink usnadňuje optimální kognitivní odklánění (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Paradox kritického myšlení v učení integrovaném s GenAI
+- [[cognitive-offloading-speedup-illusion]] — Iluze zrychlení práce s podporou AI
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Analýza sítě spoluvýskytu promptových vzorců
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory a kognitivní kapitulace: jak AI přetváří lidské uvažování (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuum kapitulace, odklánění a agenturnosti u GenAI
+- [[ai-making-us-stupid]] — Výzkum kognitivních účinků AI a vytěsnění učení
+- [[brcic-effortless-trap-productive-struggle-2026]] — Past bez námahy: AI nahrazující kognitivní práci (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Bezmyšlenkovité používání AI eroduje sebeřízené učení
+- [[generative-ai-guardrails-harm-learning]] — Randomizované studie ve středoškolské matematice o nehlídané GenAI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalta učení s generativní AI: outsourcing domácích úloh škodí učení
+- [[coach-not-crutch-ai-writing]] — AI může pracovat méně a naučit více (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Jak učinit AI doučování produktivním: praxe matematiky založená na mistrovství
+- [[cognitive-commons-ai-expertise-regeneration]] — Tragédie kognitivního společenství: AI a regenerace odbornosti
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: nástroj sebereflexe chránící soukromí pro kognitivní odklánění spojené s AI
+- [[chatgpt-writing-cognitive-impact-2026]] — experiment s psaním pro učení, v němž psaní s podporou ChatGPT přineslo menší zisk znalostí než kontrolní skupina bez pomoci
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Vzorce kognitivního odklánění studentů na AI ve vysokoškolském vzdělávání: naturalistické důkazy na úrovni zpráv ChatGPT (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: metakognitivní zpětná vazba snižuje kognitivní odklánění na asistenty LLM
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Kognice vašich studentů programování s ChatGPT: vyšší výkon, nižší uchování a omezené vlastnictví
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Tendence k odklánění a gramotnost v ověřování predikující výsledky vyššího řádu prostřednictvím metakognitivní seberegulace (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflexní prompt snižuje přijímání nesprávné rady AI a zlepšuje kalibraci uvědomění (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Závislost na GenAI jako hraniční podmínka dispozice ke kritickému myšlení a sebevnímané zaměstnatelnosti (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Děti vykazovaly slabší frontoparietální, salienční a dorzální pozornostní konektivitu než dospělí při rozhovoru s ChatGPT, při shodných skóre kreativity
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI a tvůrčí myšlení dětí: nadměrná závislost a závislost na promptech ve scopingovém přehledu (Niu et al. 2026)

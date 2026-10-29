@@ -88,5 +88,5 @@ PBL verbindet sich mit [[active-learning|aktivem Lernen]], [[experiential-learni
 - [[educational-robotics-pathways-2026]] — Pfade zum Lernen mit KI-gestützter Bildungsrobotik (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL ist eine dominante CT-Lernstrategie
 - [[creative-project-approach-ai-early-childhood-2025]] — Der Creative Project Approach: KI-Agenten und Robotik innerhalb des Project Approach in der frühen Kindheit (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD mit KI-Agenten in teambasiertem Software-PBL
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD mit KI-Agenten in teambasiertem Software-PBL
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: ein immersives VR-Designstudio mit eingebettetem Teaching Agent, evaluiert gegenüber traditionellem PBL (Jin et al. 2026)

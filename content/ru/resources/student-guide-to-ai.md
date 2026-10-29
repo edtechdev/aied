@@ -26,7 +26,6 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

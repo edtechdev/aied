@@ -8,7 +8,6 @@ ethics: [ethics, sustainability]
 level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/sustainability
 source_updated: "2026-09-19T05:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

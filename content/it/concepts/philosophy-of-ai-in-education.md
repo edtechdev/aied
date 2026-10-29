@@ -6,7 +6,6 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/philosophy-of-ai-in-education
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

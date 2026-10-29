@@ -84,5 +84,5 @@ PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learn
 - [[educational-robotics-pathways-2026]] — AIを活用した教育ロボティクスへの学びのパスウェイ(2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBLは支配的なCT学習の戦略である
 - [[creative-project-approach-ai-early-childhood-2025]] — 創造的プロジェクト・アプローチ:幼児期のプロジェクト・アプローチにおけるAIエージェントとロボティクス(Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - チームでのソフトウェアPBLにおけるAIエージェントを用いたSDD
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — チームでのソフトウェアPBLにおけるAIエージェントを用いたSDD
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL:教育エージェントを埋め込んだ没入型のVRデザインスタジオ、伝統的なPBLに対して評価された(Jin et al. 2026)

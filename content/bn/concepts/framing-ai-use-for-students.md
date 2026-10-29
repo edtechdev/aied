@@ -114,20 +114,20 @@ ai_assist:
 - [[misconceptions]]
 
 ## সংযুক্ত নিবন্ধ
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - ক্রম নিয়ে 30-বিশেষজ্ঞের ঐকমত্য: GenAI ছাড়া অর্জন, এটি দিয়ে সংহতকরণ, তারপর নিজে চিন্তা
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — ক্রম নিয়ে 30-বিশেষজ্ঞের ঐকমত্য: GenAI ছাড়া অর্জন, এটি দিয়ে সংহতকরণ, তারপর নিজে চিন্তা
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - প্রতিটি অনুমোদিত ও অননুমোদিত GenAI ব্যবহারের স্বচ্ছ যুক্তি, কাজে কাজে (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - GenAI-কে বিঘ্ন হিসেবে নিন্দা করার বদলে যথাযথ ব্যবহারে উত্সাহ দেওয়া
-- [[student-rationalization-ai-writing]] - একাডেমিক লেখায় শিক্ষার্থীরা AI ব্যবহার যুক্তিসঙ্গত প্রমাণ করার "পাঁচ সাইট"
-- [[student-regulatory-awareness-genai]] - নিয়ম জানাই যথেষ্ট নয়: নিয়ন্ত্রক সচেতনতা ও প্রকৃত ব্যবহার
-- [[ai-anxiety-strategic-regulation-writing-2026]] - AI উদ্বেগ থেকে কৌশলগত নিয়ন্ত্রণে
-- [[chatgpt-inoculation-training-verification-2026]] - ইনোকুলেশন বার্তা ও যাচাই-আচরণ
-- [[ai-fallibility-warning-help-seeking]] - AI-এর ভুলপ্রবণতা নিয়ে সতর্কতা সহায়তা-সন্ধান বাড়ায়
-- [[shame-guilt-ai-regulation-computing-education]] - AI ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
-- [[access-not-enough-ai-tutoring-2026]] - মানব সহায়তা AI টিউটরিংয়ে সম্পৃক্তি উন্নত করে
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - SDT-ভিত্তিক GenAI সম্পৃক্তি
-- [[ai-availability-student-motivation]] - AI-এর উপলব্ধতা শিক্ষার্থী-প্রেরণাকে কীভাবে গড়ে
-- [[youtube-frames-chatgpt-education]] - YouTube শিক্ষায় ChatGPT ব্যবহার কীভাবে ফ্রেম করে
-- [[ai-ethics-education-public-discourse]] - শিক্ষায় AI নৈতিকতা নিয়ে জনসাধারণের বক্তৃতা
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - শিক্ষকেরা AI-কে সমালোচনামূলক/দায়িত্বশীল ব্যবহার হিসেবে ফ্রেম করেন; নিয়োগকর্তারা উৎপাদনশীলতা হিসেবে
-- [[ssaho-ai-academic-integrity-review-2025]] - স্পষ্ট প্রত্যাশার মাধ্যমে শিক্ষাগত সততার সংস্কৃতি গড়া
+- [[mccorkle-aligned-genai-course-policy-2025]] — প্রতিটি অনুমোদিত ও অননুমোদিত GenAI ব্যবহারের স্বচ্ছ যুক্তি, কাজে কাজে (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — GenAI-কে বিঘ্ন হিসেবে নিন্দা করার বদলে যথাযথ ব্যবহারে উত্সাহ দেওয়া
+- [[student-rationalization-ai-writing]] — একাডেমিক লেখায় শিক্ষার্থীরা AI ব্যবহার যুক্তিসঙ্গত প্রমাণ করার "পাঁচ সাইট"
+- [[student-regulatory-awareness-genai]] — নিয়ম জানাই যথেষ্ট নয়: নিয়ন্ত্রক সচেতনতা ও প্রকৃত ব্যবহার
+- [[ai-anxiety-strategic-regulation-writing-2026]] — AI উদ্বেগ থেকে কৌশলগত নিয়ন্ত্রণে
+- [[chatgpt-inoculation-training-verification-2026]] — ইনোকুলেশন বার্তা ও যাচাই-আচরণ
+- [[ai-fallibility-warning-help-seeking]] — AI-এর ভুলপ্রবণতা নিয়ে সতর্কতা সহায়তা-সন্ধান বাড়ায়
+- [[shame-guilt-ai-regulation-computing-education]] — AI ব্যবহারের সামাজিক নিয়ন্ত্রক হিসেবে লজ্জা ও অপরাধবোধ
+- [[access-not-enough-ai-tutoring-2026]] — মানব সহায়তা AI টিউটরিংয়ে সম্পৃক্তি উন্নত করে
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-ভিত্তিক GenAI সম্পৃক্তি
+- [[ai-availability-student-motivation]] — AI-এর উপলব্ধতা শিক্ষার্থী-প্রেরণাকে কীভাবে গড়ে
+- [[youtube-frames-chatgpt-education]] — YouTube শিক্ষায় ChatGPT ব্যবহার কীভাবে ফ্রেম করে
+- [[ai-ethics-education-public-discourse]] — শিক্ষায় AI নৈতিকতা নিয়ে জনসাধারণের বক্তৃতা
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — শিক্ষকেরা AI-কে সমালোচনামূলক/দায়িত্বশীল ব্যবহার হিসেবে ফ্রেম করেন; নিয়োগকর্তারা উৎপাদনশীলতা হিসেবে
+- [[ssaho-ai-academic-integrity-review-2025]] — স্পষ্ট প্রত্যাশার মাধ্যমে শিক্ষাগত সততার সংস্কৃতি গড়া

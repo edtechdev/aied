@@ -206,29 +206,29 @@ IA agentică nu este nici panaceu, nici prejudiciu inevitabil: valoarea ei depin
 
 ## Articole conexe
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] - Autonomie, competență, relaționare și prezență socială ca trasee de la IA agentică la implicare (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] - Agenții de IA, evaluarea plină de bucurie și al treilea spațiu
-- [[ilieva-agentic-genai-higher-education-2026]] - Cadrul AGAI-HE: IA generativă agentică limitată și supravegheată uman în învățământul superior (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] - Revizuire critică integrativă care introduce cadrul AOE de dovezi și supraveghere
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] - Perspectivă asupra ecosistemelor multi-agent agentice incluzive în învățământul superior
-- [[baradziej-agentic-ai-higher-education-2026]] - Revizuire sistematică a rolurilor IA agentice în învățământul superior (48 de studii; șase roluri; cadru tripartit de integrare responsabilă)
-- [[kostopoulos-agentic-ai-education-2025]] - IA agentică în educație: stadiul artei și direcții viitoare (sondaj IEEE Access; definiție operațională plus taxonomie)
-- [[agentic-ai-education-scoping-review]] - Revizuire de amploare a IA agentice în educație (474 de studii)
-- [[agentic-ai-pedagogical-best-practice-2026]] - Tensiunea dintre automatizare și învățare
-- [[tool-invariant-framework-agentic-ai]] - Predarea și evaluarea metodelor computaționale în era IA agentice
-- [[jeon-isd-agent-bench-2026]] - ISD-Agent-Bench: standard de referință pentru agenții de design instrucțional
-- [[adversarial-stress-testing-role-playing-agents]] - Testarea de stres adversarială a agenților cu joc de rol
-- [[ai-agents-constructive-conflict-design-education-2026]] - Agenți de IA cu conflict constructiv în educația de design
-- [[ai-tpack-teacher-multi-agent-workflow]] - TPACK al profesorilor și fluxuri de lucru multi-agent
-- [[code-gen]] - Agenți de generare de cod
-- [[educlaw-bench-pedagogical-llm-agents-2026]] - Standard de referință pentru agenți LLM pedagogici
-- [[guided-llm-scaffolding-independent-learning]] - Sprijin LLM ghidat de tip schelă pentru învățarea independentă
-- [[learnmate2-llm-adaptive-learning]] - Agenți de învățare adaptivă LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] - Agenți de învățare gamificată a securității cibernetice
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] - IA agentică în simularea clinică
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Studenții fantomă și lacuna de verificare a IA agentice (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] - Agenți de IA care finalizează sarcini în LMS; eșec de validitate prin presupunerea producției umane (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] - Agenți web de IA: un agent descriitor ca evaluator al experienței de învățare (prezice abandonul, dă feedback de design înainte ca studenții să se angajeze)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD cu agenți de IA în PBL software; automatizare versus comprehensiune
-- [[ai-standardized-patient-scaffolding-medical-2026]] - Evaluarea unui sistem multi-agent cu modele mari de limbaj orientat spre sprijin de tip schelă pentru instruirea în interviul clinic
-- [[ethics-training-agents-group-ethics-discussion-2026]] - Agenți de formare etică: facilitarea educației etice de grup prin joc de rol și discuție pentru reflecție și explorare etică
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, competență, relaționare și prezență socială ca trasee de la IA agentică la implicare (Pramod & Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agenții de IA, evaluarea plină de bucurie și al treilea spațiu
+- [[ilieva-agentic-genai-higher-education-2026]] — Cadrul AGAI-HE: IA generativă agentică limitată și supravegheată uman în învățământul superior (Ilieva et al. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — Revizuire critică integrativă care introduce cadrul AOE de dovezi și supraveghere
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspectivă asupra ecosistemelor multi-agent agentice incluzive în învățământul superior
+- [[baradziej-agentic-ai-higher-education-2026]] — Revizuire sistematică a rolurilor IA agentice în învățământul superior (48 de studii; șase roluri; cadru tripartit de integrare responsabilă)
+- [[kostopoulos-agentic-ai-education-2025]] — IA agentică în educație: stadiul artei și direcții viitoare (sondaj IEEE Access; definiție operațională plus taxonomie)
+- [[agentic-ai-education-scoping-review]] — Revizuire de amploare a IA agentice în educație (474 de studii)
+- [[agentic-ai-pedagogical-best-practice-2026]] — Tensiunea dintre automatizare și învățare
+- [[tool-invariant-framework-agentic-ai]] — Predarea și evaluarea metodelor computaționale în era IA agentice
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: standard de referință pentru agenții de design instrucțional
+- [[adversarial-stress-testing-role-playing-agents]] — Testarea de stres adversarială a agenților cu joc de rol
+- [[ai-agents-constructive-conflict-design-education-2026]] — Agenți de IA cu conflict constructiv în educația de design
+- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK al profesorilor și fluxuri de lucru multi-agent
+- [[code-gen]] — Agenți de generare de cod
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Standard de referință pentru agenți LLM pedagogici
+- [[guided-llm-scaffolding-independent-learning]] — Sprijin LLM ghidat de tip schelă pentru învățarea independentă
+- [[learnmate2-llm-adaptive-learning]] — Agenți de învățare adaptivă LearnMate-2
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agenți de învățare gamificată a securității cibernetice
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — IA agentică în simularea clinică
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Studenții fantomă și lacuna de verificare a IA agentice (Bozkurt et al. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — Agenți de IA care finalizează sarcini în LMS; eșec de validitate prin presupunerea producției umane (Hadjisolomou & El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — Agenți web de IA: un agent descriitor ca evaluator al experienței de învățare (prezice abandonul, dă feedback de design înainte ca studenții să se angajeze)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD cu agenți de IA în PBL software; automatizare versus comprehensiune
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluarea unui sistem multi-agent cu modele mari de limbaj orientat spre sprijin de tip schelă pentru instruirea în interviul clinic
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenți de formare etică: facilitarea educației etice de grup prin joc de rol și discuție pentru reflecție și explorare etică

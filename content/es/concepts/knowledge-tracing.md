@@ -7,7 +7,6 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/knowledge-tracing
 source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."

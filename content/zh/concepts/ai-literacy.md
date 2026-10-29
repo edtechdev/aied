@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
@@ -248,7 +248,7 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 ## 关联文章
 - [[early-childhood-ai-holistic-competencies-review-2026]] — 在 AI 时代塑造幼儿：能力、教学法与生态支持（Pei 2026）
 - [[ai-security-literacy-k12-framework-2026]] — AI 安全素养：基于生态系统的能力框架与 K-12 学习平台
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 抬高素养的伦理维度而缺乏应对框架，可能让学生更焦虑
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 抬高素养的伦理维度而缺乏应对框架，可能让学生更焦虑
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 个经验证的框架显示 AI 正把数字素养推向伦理，而教育者的人—AI 协作仍被规定不足（Guo 等人 2026）
 - [[ai-literacies-young-adults-2025]] — 面向公共服务媒体的六个能力领域、五个价值观与三个进阶层级
 - [[ai-literacy-heptagon-2026]] — AI 素养七边形

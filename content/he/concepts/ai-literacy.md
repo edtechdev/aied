@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -254,7 +253,7 @@ ai_assist:
 ## מאמרים מקושרים
 - [[early-childhood-ai-holistic-competencies-review-2026]] — עיצוב הילדות המוקדמת בעידן ה‑AI: כשירויות, פדגוגיה ותמיכה אקולוגית (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — אוריינות אבטחת AI: מסגרת כשירות מבוססת-אקוסיסטם ופלטפורמת למידה ל‑K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - העלאת הממד האתי של האורייות ללא מסגרת התמודדות עלולה להשאיר סטודנטים חרידים יותר
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — העלאת הממד האתי של האורייות ללא מסגרת התמודדות עלולה להשאיר סטודנטים חרידים יותר
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 מסגרות מאומטות מראות AI מרחיב אורייות דיגיטלית אל אתיקה בעוד שיתוף פעולה אנוש–AI מחנכי נשאר לא-מצוין (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — שישה תחומי כשירות, חמישה ערכים ושלושת רמות התקדמות לתקשור שירות ציבורי
 - [[ai-literacy-heptagon-2026]] — ה‑AI Literacy Heptagon

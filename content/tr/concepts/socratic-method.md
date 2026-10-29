@@ -10,7 +10,6 @@ assessment: [formative-assessment]
 audience: [learners]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/socratic-method
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

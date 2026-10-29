@@ -17,7 +17,6 @@ level: [higher ed]
 audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
-reviewed_by: [editor]
 translation_of: resources/pause-ai-use-self-examination
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

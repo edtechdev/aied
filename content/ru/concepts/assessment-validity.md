@@ -8,7 +8,6 @@ assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
-reviewed_by: [editor]
 translation_of: concepts/assessment-validity
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

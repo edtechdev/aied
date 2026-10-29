@@ -12,7 +12,6 @@ level: [k 12, higher ed, adult learning]
 page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/learning-sciences
 source_updated: "2026-10-16T08:47:09-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"

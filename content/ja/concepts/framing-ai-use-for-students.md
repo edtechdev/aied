@@ -114,7 +114,7 @@ ai_assist:
 - [[misconceptions]]
 
 ## 関連記事
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30人の専門家による順序についての総意：生成AIなしで獲得し、それで統合し、そして自分で考える
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30人の専門家による順序についての総意：生成AIなしで獲得し、それで統合し、そして自分で考える
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — 許可された利用と許可されない利用のそれぞれに対する、課題ごとの透明な根拠（McCorkle 2025）
 - [[moral-panic-genai-classroom]] — 生成AIを混乱として断罪するのではなく、その適切な利用を奨励する

@@ -9,7 +9,6 @@ assessment: [assessment, educational-measurement]
 discipline: [stem education]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/multimodal
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

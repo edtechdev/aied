@@ -9,7 +9,6 @@ audience: [learners, instructors, faculty developers, administrators]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
-reviewed_by: [editor]
 translation_of: "concepts/higher-ed"
 source_updated: "2026-10-13T11:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

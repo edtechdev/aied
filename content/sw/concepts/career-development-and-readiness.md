@@ -6,7 +6,6 @@ foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/career-development-and-readiness
 source_updated: "2026-10-04T05:34:36-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

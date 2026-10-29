@@ -199,43 +199,43 @@ Studi Teori Perilaku Terencana pertama tentang niat pelanggaran berbasis GAIT me
 
 ## Artikel Terhubung
 
-- [[ivory-psychology-assessment-integrity-2026]] - Seluruh program psikologi dapat dilalui dengan usaha minimal, dan kriteria penilaian yang membiarkannya lolos (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Guru siswa menolak GenAI di bawah kebijakan yang permisif; pembingkaian "jebakan" dan kesenjangan survei-deklarasi
-- [[ai-agents-joyful-assessment-third-space-2026]] - Agen AI, penilaian yang menyenangkan, dan ruang ketiga
-- [[kumar-genai-computing-education-systematic-review-2026]] - Bukti deteksi tipis (3 studi dari 72); desain ulang yang menanggung beban
-- [[mccorkle-aligned-genai-course-policy-2025]] - Kebijakan mata kuliah GenAI yang selaras: izin yang diturunkan dari penilaian, alasan yang transparan (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Pembuatan varian penilaian yang ekuivalen secara konstruk (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Bagaimana pengajar mengatur AI di 31.000 silabus mata kuliah; pembingkaian integritas menurun (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Dapatkah siswa menyontek sampai mendapat gelar biologi? Studi kasus kerentanan nilai mata kuliah biologi terhadap ketidakjujuran akademik di era AI generatif
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Ketidakpatuhan siswa terhadap deklarasi penggunaan AI
-- [[detecting-llm-generated-text-latent-prompt]] - Mendeteksi Teks yang Dihasilkan LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] - Melampaui Deteksi: Penilaian Autentik dalam Dunia yang Dimediasi AI
-- [[ai-assessment-scale-reform]] - Skala Penilaian AI dan Reformasi Penilaian
-- [[authentic-products-authenticated-processes-2026]] - Dari Produk Autentik ke Proses yang Terautentikasi
-- [[student-rationalization-ai-writing]] - Tidak Apa-Apa Karena... Rasionalisasi Siswa atas Penggunaan AI
-- [[ethical-ai-higher-ed-game-theory]] - Kerangka Permainan Koordinasi untuk Penggunaan AI yang Etis
-- [[shame-guilt-ai-regulation-computing-education]] - Rasa Malu dan Rasa Bersalah sebagai Pengatur Sosial Penggunaan AI
-- [[cross-cultural-student-perceptions-genai-computing]] - Apakah Alice Berbuat Salah? Persepsi Lintas Budaya atas Penggunaan AI
-- [[luo-dawson-value-judgments-grading-2026]] - Pertimbangan nilai dalam menilai karya berbantuan GenAI: kejujuran, kepercayaan, validitas, dan transparansi dua arah (Luo & Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Akuntabilitas sebaya dan orisinalitas dalam penilaian kelompok yang dimediasi GenAI
-- [[teichmann-detecting-undetectable-misconduct-2026]] - Keruntuhan pembuktian deteksi dan argumen untuk keadilan prosedural, proporsionalitas, dan desain
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Pencegahan, pengungkapan, dan desain ulang sebagai masalah desain penilaian di bawah informasi yang tidak sempurna
-- [[munoz-misconduct-allegation-evidence-2026]] - Apa yang sebenarnya menjadi dasar 1.162 berkas pelanggaran GenAI, dan ambang pembuktian yang hilang
-- [[wright-transcription-not-generation-2026]] - Aturan AI yang terlalu inklusif dan perbedaan antara transkripsi dan generasi
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Kecurangan digital berbasis AI dan pedagogi etis berbasis pencegahan: kasus pelanggaran dari 183 menjadi 27 dan lima desain ulang spesifik disiplin (Leaton Gray, Edsall & Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Integritas sebagai masalah tata kelola: kerangka indikator 130 butir untuk pengelola akademik (Coates, Croucher & Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Tinjauan pelingkupan atas 38 studi tentang suara mahasiswa pendidikan tinggi mengenai integritas akademik dan GenAI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Menetapkan garis antara dukungan dan substitusi bagi penulis EAL, dan ketidakadilan aturan yang mengabaikan latar bahasa (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Injeksi prompt terhadap penilaian nilai yang dimediasi AI: instruksi tersembunyi yang mengubah nilai tanpa terdeteksi (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - Matriks Etika Penggunaan AI: kepatuhan cemas, dan mengapa kejelasan saja dapat mendorong siswa ke pengelakan efisien (Petricini & Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Menilai jejak penalaran ketika agen AI dapat menyelesaikan tugas (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Esai penerimaan yang ditulis AI tersebar luas tetapi dihukum
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Siapa yang Bertindak, Siapa yang Tahu, Siapa yang Bertanggung Jawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Penelitian Pendidikan Tinggi AI Generatif
+- [[ivory-psychology-assessment-integrity-2026]] — Seluruh program psikologi dapat dilalui dengan usaha minimal, dan kriteria penilaian yang membiarkannya lolos (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Guru siswa menolak GenAI di bawah kebijakan yang permisif; pembingkaian "jebakan" dan kesenjangan survei-deklarasi
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agen AI, penilaian yang menyenangkan, dan ruang ketiga
+- [[kumar-genai-computing-education-systematic-review-2026]] — Bukti deteksi tipis (3 studi dari 72); desain ulang yang menanggung beban
+- [[mccorkle-aligned-genai-course-policy-2025]] — Kebijakan mata kuliah GenAI yang selaras: izin yang diturunkan dari penilaian, alasan yang transparan (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Pembuatan varian penilaian yang ekuivalen secara konstruk (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Bagaimana pengajar mengatur AI di 31.000 silabus mata kuliah; pembingkaian integritas menurun (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Dapatkah siswa menyontek sampai mendapat gelar biologi? Studi kasus kerentanan nilai mata kuliah biologi terhadap ketidakjujuran akademik di era AI generatif
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Ketidakpatuhan siswa terhadap deklarasi penggunaan AI
+- [[detecting-llm-generated-text-latent-prompt]] — Mendeteksi Teks yang Dihasilkan LLM
+- [[beyond-detection-authentic-assessment-ai-2025]] — Melampaui Deteksi: Penilaian Autentik dalam Dunia yang Dimediasi AI
+- [[ai-assessment-scale-reform]] — Skala Penilaian AI dan Reformasi Penilaian
+- [[authentic-products-authenticated-processes-2026]] — Dari Produk Autentik ke Proses yang Terautentikasi
+- [[student-rationalization-ai-writing]] — Tidak Apa-Apa Karena... Rasionalisasi Siswa atas Penggunaan AI
+- [[ethical-ai-higher-ed-game-theory]] — Kerangka Permainan Koordinasi untuk Penggunaan AI yang Etis
+- [[shame-guilt-ai-regulation-computing-education]] — Rasa Malu dan Rasa Bersalah sebagai Pengatur Sosial Penggunaan AI
+- [[cross-cultural-student-perceptions-genai-computing]] — Apakah Alice Berbuat Salah? Persepsi Lintas Budaya atas Penggunaan AI
+- [[luo-dawson-value-judgments-grading-2026]] — Pertimbangan nilai dalam menilai karya berbantuan GenAI: kejujuran, kepercayaan, validitas, dan transparansi dua arah (Luo & Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Akuntabilitas sebaya dan orisinalitas dalam penilaian kelompok yang dimediasi GenAI
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Keruntuhan pembuktian deteksi dan argumen untuk keadilan prosedural, proporsionalitas, dan desain
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Pencegahan, pengungkapan, dan desain ulang sebagai masalah desain penilaian di bawah informasi yang tidak sempurna
+- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya menjadi dasar 1.162 berkas pelanggaran GenAI, dan ambang pembuktian yang hilang
+- [[wright-transcription-not-generation-2026]] — Aturan AI yang terlalu inklusif dan perbedaan antara transkripsi dan generasi
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Kecurangan digital berbasis AI dan pedagogi etis berbasis pencegahan: kasus pelanggaran dari 183 menjadi 27 dan lima desain ulang spesifik disiplin (Leaton Gray, Edsall & Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Integritas sebagai masalah tata kelola: kerangka indikator 130 butir untuk pengelola akademik (Coates, Croucher & Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Tinjauan pelingkupan atas 38 studi tentang suara mahasiswa pendidikan tinggi mengenai integritas akademik dan GenAI (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Menetapkan garis antara dukungan dan substitusi bagi penulis EAL, dan ketidakadilan aturan yang mengabaikan latar bahasa (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeksi prompt terhadap penilaian nilai yang dimediasi AI: instruksi tersembunyi yang mengubah nilai tanpa terdeteksi (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Matriks Etika Penggunaan AI: kepatuhan cemas, dan mengapa kejelasan saja dapat mendorong siswa ke pengelakan efisien (Petricini & Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Menilai jejak penalaran ketika agen AI dapat menyelesaikan tugas (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Esai penerimaan yang ditulis AI tersebar luas tetapi dihukum
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Siapa yang Bertindak, Siapa yang Tahu, Siapa yang Bertanggung Jawab? Analisis Wacana Berbantuan Korpus atas Agensi, Tanggung Jawab Epistemik, dan Akuntabilitas dalam Penelitian Pendidikan Tinggi AI Generatif
 
-- [[genai-governance-australian-higher-ed-2026]] - Memetakan Batas yang Diotorisasi: Studi Vignette Kebijakan Komparatif tentang Tata Kelola AI Generatif di Pendidikan Tinggi Australia
-- [[argus-academic-integrity-genai-2026]] - Argus: Integritas Akademik di Era AI Generatif
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Temuan audit sektor: universitas dengan mandat dan universitas dengan kerangka tidak menunjukkan perbedaan dalam eksposur penilaian, padanan empiris dari masalah koordinasi
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - Prediksi awal risiko kecurangan berbantuan AI dari jejak LMS, dibingkai sebagai panduan akademik alih-alih bukti pelanggaran
-- [[reddit-genai-education-discourse-analysis-2026]] - Tiga setengah tahun Reddit pendidikan: penegakan mendominasi, dan perselisihan integritas adalah forum utama fakultas-siswa (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Eksperimen survei: pembingkaian substitusi atas penggunaan AI oleh siswa menghukum pelamar dengan IPK tinggi dalam perekrutan dan gaji; tes tatap muka adalah satu-satunya solusi yang dipilih kedua kelompok
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: Menuju Antarmuka Bacaan yang Terbaca Manusia dan Tahan Mesin
+- [[genai-governance-australian-higher-ed-2026]] — Memetakan Batas yang Diotorisasi: Studi Vignette Kebijakan Komparatif tentang Tata Kelola AI Generatif di Pendidikan Tinggi Australia
+- [[argus-academic-integrity-genai-2026]] — Argus: Integritas Akademik di Era AI Generatif
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Temuan audit sektor: universitas dengan mandat dan universitas dengan kerangka tidak menunjukkan perbedaan dalam eksposur penilaian, padanan empiris dari masalah koordinasi
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - Prediksi awal risiko kecurangan berbantuan AI dari jejak LMS, dibingkai sebagai panduan akademik alih-alih bukti pelanggaran
+- [[reddit-genai-education-discourse-analysis-2026]] — Tiga setengah tahun Reddit pendidikan: penegakan mendominasi, dan perselisihan integritas adalah forum utama fakultas-siswa (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Eksperimen survei: pembingkaian substitusi atas penggunaan AI oleh siswa menghukum pelamar dengan IPK tinggi dalam perekrutan dan gaji; tes tatap muka adalah satu-satunya solusi yang dipilih kedua kelompok
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Menuju Antarmuka Bacaan yang Terbaca Manusia dan Tahan Mesin

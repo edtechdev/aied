@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: BS Eğitimi
 created: "2026-10-14T22:40:00-04:00"
 type: concept
@@ -9,7 +9,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cs-education
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -193,7 +192,7 @@ BS eğitimi; [[computational-thinking]], [[stem-education]], [[automated-assessm
 - [[llm-adaptive-programming-error-explanations-2026]] — Programlama hatalarının LLM uyarlanabilir açıklamaları
 - [[soft-barriers-copying-ai-programming-2026]] — YZ destekli programlamada kopyala–yapıştır direnci
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - Yazılım PBL dersinde YZ ajanlarıyla ÖDD; verim ve kavrayış
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — Yazılım PBL dersinde YZ ajanlarıyla ÖDD; verim ve kavrayış
 - [[student-reception-genai-analogies-computing-2026]] — Kusurlu ama Akılda Kalıcı: Bilişim Eğitiminde İlgiye Göre Kişiselleştirilmiş Üretken YZ Benzetmelerinin Öğrenciler Tarafından Eleştirel Karşılanması
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: modellerin BS müfredatı boyunca stratejik yanlış kanı üretme kapasitesinin kıyaslanması
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ aracılı notlandırmanın istek metni enjeksiyonu kırmızı takım testi: fark edilmeden notu değiştiren gizli talimatlar

@@ -7,7 +7,6 @@ audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development

@@ -8,7 +8,6 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/bias-mitigation
 source_updated: "2026-10-01T09:59:06-04:00"

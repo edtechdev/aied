@@ -205,52 +205,52 @@ AI грамотността не е отделен модул - тя е вгра
 
 ## Свързани статии
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Преподавателите на срочни договори носят работата по почтеност без авторитета
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] - Парадоксът на повечето човешко: експертните сценарии за 2030 г. установяват, че насищането с AI засилва, а не измества човешката педагогическа работа (Malyn-Smith et al. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] - Шест наблюдавани урока по математика в гимназия разширяват инструменталната оркестрация с три нови типа (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] - Реагиране на генерирани от AI емоционални сигнали: интервенцията на учителя и ангажираността на учениците в часа по математика
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Преподавателите на срочни договори носят работата по почтеност без авторитета
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Парадоксът на повечето човешко: експертните сценарии за 2030 г. установяват, че насищането с AI засилва, а не измества човешката педагогическа работа (Malyn-Smith et al. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Шест наблюдавани урока по математика в гимназия разширяват инструменталната оркестрация с три нови типа (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Реагиране на генерирани от AI емоционални сигнали: интервенцията на учителя и ангажираността на учениците в часа по математика
 
-- [[edustories-classroom-case-studies-2026]] - Edustories: сборник с казуси от реалната практика на класната стая
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] - Учителите проектират класни чатботове като ограничени експерти и запазват авторитета
-- [[dai-genai-frenemy-teaching-autonomy-2026]] - GenAI като „frenemy“: учителите предпочитат полуавтономия, полезността движи приемането, избягването на риска е насочено към употребата от студентите (Dai et al. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] - Подкрепяно от AI вземане на решения от преподаватели във висшето образование
-- [[chirikov-regulate-ai-syllabi-2026]] - Как преподавателите регулират AI в 31 000 учебни програми; регулиране на ниво задача (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] - Поведение за иновация в преподаването с AI сред университетските преподаватели (AI-TPACK SEM; Bai & Hsieh 2026)
+- [[edustories-classroom-case-studies-2026]] — Edustories: сборник с казуси от реалната практика на класната стая
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Учителите проектират класни чатботове като ограничени експерти и запазват авторитета
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI като „frenemy“: учителите предпочитат полуавтономия, полезността движи приемането, избягването на риска е насочено към употребата от студентите (Dai et al. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — Подкрепяно от AI вземане на решения от преподаватели във висшето образование
+- [[chirikov-regulate-ai-syllabi-2026]] — Как преподавателите регулират AI в 31 000 учебни програми; регулиране на ниво задача (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — Поведение за иновация в преподаването с AI сред университетските преподаватели (AI-TPACK SEM; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI като криза на идентичността, а не пропуск в умения
-- [[lodge-loble-cognitive-offloading-2026]] - AI, когнитивното изнасяне и последиците за образованието (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI и практиката на инструкционния дизайн: систематичен преглед (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] - Може ли AI да предостави подходяща подкрепа за разнообразни профили на студентите? Оценка в голям мащаб
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Студенти фантоми и агентният AI в оценяването
-- [[wang-teacher-ai-co-design-review-2026]] - Съвместен дизайн на учебни задачи от учител и AI: тенденции и перспективи (Wang et al. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Опитът и възприятията на университетските преподаватели за GAI: уязвимост, преосмисляне на оценяването, застрашено обучение на студентите (Farazouli et al. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] - Ценностни преценки при оценяване на работа с помощта на GenAI: честност, доверие, валидност и двупосочна прозрачност (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] - Правене на резултатите от машинното обучение достъпни за учителите в смесени класни стаи
-- [[li-language-educators-genai-review-2026]] - Практики и развитие на преподавателите по езици с GenAI
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI като криза на идентичността, а не пропуск в умения
+- [[lodge-loble-cognitive-offloading-2026]] — AI, когнитивното изнасяне и последиците за образованието (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI и практиката на инструкционния дизайн: систематичен преглед (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Може ли AI да предостави подходяща подкрепа за разнообразни профили на студентите? Оценка в голям мащаб
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Студенти фантоми и агентният AI в оценяването
+- [[wang-teacher-ai-co-design-review-2026]] — Съвместен дизайн на учебни задачи от учител и AI: тенденции и перспективи (Wang et al. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Опитът и възприятията на университетските преподаватели за GAI: уязвимост, преосмисляне на оценяването, застрашено обучение на студентите (Farazouli et al. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Ценностни преценки при оценяване на работа с помощта на GenAI: честност, доверие, валидност и двупосочна прозрачност (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Правене на резултатите от машинното обучение достъпни за учителите в смесени класни стаи
+- [[li-language-educators-genai-review-2026]] — Практики и развитие на преподавателите по езици с GenAI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] - Напрежения на идентичността и принципна избирателност в преподаването с интегриран AI (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] - Учителска интервенция в K-12 обучение, основано на AI: систематичен преглед
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Академичните разработчици като дигитални медиатори: преконфигуриране на ролята, афективен труд и преценка в южноафрикански исторически неравностойни институции
-- [[where-ai-enters-teacher-work-2026]] - Къде изкуственият интелект влиза в работата на учителя
-- [[rodrigues-aied-unplugged-numeracy-2026]] - AIED unplugged: учителят като посредник между обучаемите и AI, квазиексперимент в 19 класа, където обучението и непрякото намаляване на усилието движат придобивките (Rodrigues et al. 2026)
-- [[instructional-governance-design-computing-education-2026]] - Инструкционно управление чрез дизайн: рамка за AI в обучението по информатика
+- [[ai-integrated-teaching-identity-tensions]] — Напрежения на идентичността и принципна избирателност в преподаването с интегриран AI (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Учителска интервенция в K-12 обучение, основано на AI: систематичен преглед
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Академичните разработчици като дигитални медиатори: преконфигуриране на ролята, афективен труд и преценка в южноафрикански исторически неравностойни институции
+- [[where-ai-enters-teacher-work-2026]] — Къде изкуственият интелект влиза в работата на учителя
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: учителят като посредник между обучаемите и AI, квазиексперимент в 19 класа, където обучението и непрякото намаляване на усилието движат придобивките (Rodrigues et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Инструкционно управление чрез дизайн: рамка за AI в обучението по информатика
 
-- [[teachers-configure-educational-chatbots-2026]] - Ще преподава ли според замисъла? Как учителите конфигурират образователни AI чатботове
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] - Учителска медиация по математика: пет практики на критична медиация, изместващ се авторитет и алгоритмичното разделение между безплатно и премиум
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] - Готовност на учителя чрез дизайн: готовността като дизайнерска способност, а не като приемане или увереност (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] - Обратна връзка от учител с помощта на ChatGPT: учителите подбират чернови на AI, вместо да ги препращат
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] - От компетентност към самостоятелност: възгледите на учителите за целите на AI образованието
-- [[kuhail-great-debaters-ai-facilitators-2026]] - Човешки срещу AI модератори на дебат: еквивалентни оценки, различни пътища към повторна употреба
-- [[yalcin-genai-programming-education-systematic-review-2026]] - GenAI в обучението по програмиране: систематичен преглед, в който ролите на преподавателите са най-слабо изучени
-- [[heutagogical-teaching-ai-enhanced-education-2026]] - От доставчици на информация към дизайнери на обучение: хеутагогични преподавателски практики в обучението с AI
-- [[falhs-teacher-expertise-reflection-2025]] - Как нивото на експертиза оформя предпочитанията и нуждите от рефлексия: към системи за AI рефлексия за учители (Falhs et al. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] - Разговорен AI диагностичен инструмент за преподаване на заблуди чрез диалог, обоснован с доказателства (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - Използването на AI няма пряк ефект върху представянето на учителите; гражданското поведение го медиира (Sherly et al. 2027)
+- [[teachers-configure-educational-chatbots-2026]] — Ще преподава ли според замисъла? Как учителите конфигурират образователни AI чатботове
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Учителска медиация по математика: пет практики на критична медиация, изместващ се авторитет и алгоритмичното разделение между безплатно и премиум
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Готовност на учителя чрез дизайн: готовността като дизайнерска способност, а не като приемане или увереност (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Обратна връзка от учител с помощта на ChatGPT: учителите подбират чернови на AI, вместо да ги препращат
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — От компетентност към самостоятелност: възгледите на учителите за целите на AI образованието
+- [[kuhail-great-debaters-ai-facilitators-2026]] — Човешки срещу AI модератори на дебат: еквивалентни оценки, различни пътища към повторна употреба
+- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI в обучението по програмиране: систематичен преглед, в който ролите на преподавателите са най-слабо изучени
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — От доставчици на информация към дизайнери на обучение: хеутагогични преподавателски практики в обучението с AI
+- [[falhs-teacher-expertise-reflection-2025]] — Как нивото на експертиза оформя предпочитанията и нуждите от рефлексия: към системи за AI рефлексия за учители (Falhs et al. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Разговорен AI диагностичен инструмент за преподаване на заблуди чрез диалог, обоснован с доказателства (Miranda & Calvani 2026)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — Използването на AI няма пряк ефект върху представянето на учителите; гражданското поведение го медиира (Sherly et al. 2027)

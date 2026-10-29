@@ -8,7 +8,6 @@ assessment: [ai-feedback-quality, formative-assessment, group-work]
 confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
-reviewed_by: [editor]
 translation_of: concepts/peer-assessment
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

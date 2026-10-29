@@ -10,7 +10,6 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/research-methods-aied
 source_updated: "2026-10-05T10:25:44-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

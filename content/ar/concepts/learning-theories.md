@@ -8,7 +8,6 @@ technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
-reviewed_by: [editor]
 translation_of: concepts/learning-theories
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

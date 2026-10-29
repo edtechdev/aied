@@ -196,45 +196,45 @@ Samma logik gör belöningsformning till ett designverktyg: [[assistance-dilemma
 - [[cognitive-surrender]]
 
 ## Anslutna artiklar
-- [[ai-proof-learning-cognitive-offloading-2026]] - Att stödja eller ersätta elevers resonemang? Kognitiv avlastning i AI-assisterat bevislärande (Chen m.fl. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Vad inlämningen inte visar: komplexifiering av kognitiv avlastning i elevers matematikarbete med LLM:er (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - En expertkonsensus med 30 experter över 65 lärandeprocesser: avlastning i båda ändar av lärandesekvensen
-- [[rented-self-decoupling-performance-becoming-2026]] - Det hyrsatta jaget: avlastning som kostar elevens domänjag, inte bara färdigheten
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Grupper som började lika divergerade: 74,1% modellantagande i en profil mot 80,8% avlastning och stiltje i en annan (Kilinc m.fl. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - AI-hjälp minskade uthållighet och oassisterad prestation i tre RCT:er (Liu m.fl. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT som kognitiv krycka: en randomiserad kontrollerad studie om kunskapsbehållning 45 dagar senare (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Från kognitiv utkontraktering till omfördelning: 3P-analys av elev-GenAI-engagemang i oövervakade bedömningar (Yan m.fl. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Familj-skola-autonomistöd för barns ansvarsfulla användning av generativ AI
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Överflödig kontra nyttig friktion: varför AI-avlastning skiljer sig från tidigare verktyg
-- [[thermomix-genai-education-analogy-2026]] - Med en Thermomix förlorar du förmågan att laga mat: en köksmaskinsanalogi för generativ AI i utbildningen (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - kognitiv uttvättning: dynamiken efter tillbakadragandet i AI-inducerat färdighetsförfall
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - En kritisk narrativ syntes av konversations-AI-engagemang och beroende
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Lagersensitiv kognitiv avlastning i GenAI-assisterat skrivande (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Epistemiskt beroende i AI-förmedlat lärande: sex diagnostiska kriterier som skiljer produktivt förlitande från skadligt beroende (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - GenAI-kognitiv avlastning för elever med inlärningssvårigheter
-- [[lodge-loble-cognitive-offloading-2026]] - AI, kognitiv avlastning och konsekvenser för utbildningen
-- [[cognitive-offloading-metacognitive-review-2026]] - Metakognitiva insikter om kognitiv avlastning (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Metakognitiv träning främjar optimal kognitiv avlastning (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Det kritiska tänkandets paradox i GenAI-integrerat lärande
-- [[cognitive-offloading-speedup-illusion]] - Snabbhetseffekten i AI-assisterat arbete
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Ko-förekomstnätverksanalys av promptmönster
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System-teori och kognitiv överlämning: hur AI omformar mänskligt resonemang (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kontinuumet överlämning-avlastning-handlingsutrymme för GenAI
-- [[ai-making-us-stupid]] - Forskning om AI:s kognitiva effekter och undanträngt lärande
-- [[brcic-effortless-trap-productive-struggle-2026]] - Den ansträngningsfria fällan: AI som ersätter kognitivt arbete (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Tanklöst AI-bruk urholkar självstyrt lärande
-- [[generative-ai-guardrails-harm-learning]] - RCT:er i gymnasiematematik om otyglad GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Generativ AI:s lärandestraff: utkontraktering av hemuppgifter skadar lärandet
-- [[coach-not-crutch-ai-writing]] - AI kan innebära att arbeta mindre och lära sig mer (Lira m.fl. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Att göra AI-handledning produktiv: mästerskapsbaserad matematikövning
-- [[cognitive-commons-ai-expertise-regeneration]] - Den kognitiva allmänningens tragedi: AI och expertisregenerering
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: ett integritetsbevarande självreflektionsverktyg för AI-relaterad kognitiv avlastning
-- [[chatgpt-writing-cognitive-impact-2026]] - ett skrivande-för-att-lära-experiment där ChatGPT-assisterat skrivande gav mindre kunskapsvinst än en oassisterad kontroll
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Mönster i elevers kognitiva avlastning till AI i högre utbildning: naturalistisk evidens på ChatGPT-meddelandenivå (Piatnitckaia m.fl. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Att designa mot färdighetsförlust: metakognitiv feedback minskar kognitiv avlastning till LLM-assistenter
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Dina programmeringsstudenters kognition med ChatGPT: högre prestation, lägre behållning och minskat ägandeskap
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Avlastningstendens och verifieringskompetens som prediktorer för högre ordningens utfall genom metakognitiv självreglering (Davor m.fl. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - En reflektionsprompt minskar acceptansen av felaktiga AI-råd och förbättrar medvetenhetskalibreringen (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - GenAI-beroende som gränsvillkor för kritisk-tänkande-disposition och självupplevd anställbarhet (Shojaei m.fl. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Barn visade svagare frontoparietal, salience- och dorsal uppmärksamhetskonnektivitet än vuxna när de talade med ChatGPT, vid matchade kreativitetspoäng
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI och barns kreativa tänkande: överberoende och promptberoende i en scoping-genomgång (Niu m.fl. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Att stödja eller ersätta elevers resonemang? Kognitiv avlastning i AI-assisterat bevislärande (Chen m.fl. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Vad inlämningen inte visar: komplexifiering av kognitiv avlastning i elevers matematikarbete med LLM:er (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — En expertkonsensus med 30 experter över 65 lärandeprocesser: avlastning i båda ändar av lärandesekvensen
+- [[rented-self-decoupling-performance-becoming-2026]] — Det hyrsatta jaget: avlastning som kostar elevens domänjag, inte bara färdigheten
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupper som började lika divergerade: 74,1% modellantagande i en profil mot 80,8% avlastning och stiltje i en annan (Kilinc m.fl. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI-hjälp minskade uthållighet och oassisterad prestation i tre RCT:er (Liu m.fl. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT som kognitiv krycka: en randomiserad kontrollerad studie om kunskapsbehållning 45 dagar senare (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Från kognitiv utkontraktering till omfördelning: 3P-analys av elev-GenAI-engagemang i oövervakade bedömningar (Yan m.fl. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Familj-skola-autonomistöd för barns ansvarsfulla användning av generativ AI
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Överflödig kontra nyttig friktion: varför AI-avlastning skiljer sig från tidigare verktyg
+- [[thermomix-genai-education-analogy-2026]] — Med en Thermomix förlorar du förmågan att laga mat: en köksmaskinsanalogi för generativ AI i utbildningen (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — kognitiv uttvättning: dynamiken efter tillbakadragandet i AI-inducerat färdighetsförfall
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — En kritisk narrativ syntes av konversations-AI-engagemang och beroende
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Lagersensitiv kognitiv avlastning i GenAI-assisterat skrivande (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Epistemiskt beroende i AI-förmedlat lärande: sex diagnostiska kriterier som skiljer produktivt förlitande från skadligt beroende (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI-kognitiv avlastning för elever med inlärningssvårigheter
+- [[lodge-loble-cognitive-offloading-2026]] — AI, kognitiv avlastning och konsekvenser för utbildningen
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitiva insikter om kognitiv avlastning (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitiv träning främjar optimal kognitiv avlastning (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Det kritiska tänkandets paradox i GenAI-integrerat lärande
+- [[cognitive-offloading-speedup-illusion]] — Snabbhetseffekten i AI-assisterat arbete
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Ko-förekomstnätverksanalys av promptmönster
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teori och kognitiv överlämning: hur AI omformar mänskligt resonemang (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuumet överlämning-avlastning-handlingsutrymme för GenAI
+- [[ai-making-us-stupid]] — Forskning om AI:s kognitiva effekter och undanträngt lärande
+- [[brcic-effortless-trap-productive-struggle-2026]] — Den ansträngningsfria fällan: AI som ersätter kognitivt arbete (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Tanklöst AI-bruk urholkar självstyrt lärande
+- [[generative-ai-guardrails-harm-learning]] — RCT:er i gymnasiematematik om otyglad GenAI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generativ AI:s lärandestraff: utkontraktering av hemuppgifter skadar lärandet
+- [[coach-not-crutch-ai-writing]] — AI kan innebära att arbeta mindre och lära sig mer (Lira m.fl. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Att göra AI-handledning produktiv: mästerskapsbaserad matematikövning
+- [[cognitive-commons-ai-expertise-regeneration]] — Den kognitiva allmänningens tragedi: AI och expertisregenerering
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: ett integritetsbevarande självreflektionsverktyg för AI-relaterad kognitiv avlastning
+- [[chatgpt-writing-cognitive-impact-2026]] — ett skrivande-för-att-lära-experiment där ChatGPT-assisterat skrivande gav mindre kunskapsvinst än en oassisterad kontroll
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Mönster i elevers kognitiva avlastning till AI i högre utbildning: naturalistisk evidens på ChatGPT-meddelandenivå (Piatnitckaia m.fl. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Att designa mot färdighetsförlust: metakognitiv feedback minskar kognitiv avlastning till LLM-assistenter
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Dina programmeringsstudenters kognition med ChatGPT: högre prestation, lägre behållning och minskat ägandeskap
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Avlastningstendens och verifieringskompetens som prediktorer för högre ordningens utfall genom metakognitiv självreglering (Davor m.fl. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — En reflektionsprompt minskar acceptansen av felaktiga AI-råd och förbättrar medvetenhetskalibreringen (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI-beroende som gränsvillkor för kritisk-tänkande-disposition och självupplevd anställbarhet (Shojaei m.fl. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Barn visade svagare frontoparietal, salience- och dorsal uppmärksamhetskonnektivitet än vuxna när de talade med ChatGPT, vid matchade kreativitetspoäng
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI och barns kreativa tänkande: överberoende och promptberoende i en scoping-genomgång (Niu m.fl. 2026)

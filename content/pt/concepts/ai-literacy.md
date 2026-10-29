@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
@@ -249,7 +249,7 @@ Especificamente para o letramento crítico em IA, [[solyst-youth-systematic-eval
 ## Artigos conectados
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Moldando a primeira infância na era da IA: competências, pedagogia e apoio ecológico (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Letramento em segurança de IA: framework de competências baseado em ecossistema e plataforma de aprendizagem K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Elevar a dimensão ética do letramento sem um framework de enfrentamento pode deixar os estudantes mais ansiosos
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Elevar a dimensão ética do letramento sem um framework de enfrentamento pode deixar os estudantes mais ansiosos
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 frameworks validados mostram a IA expandindo o letramento digital para a ética, enquanto a colaboração humano–IA do educador segue subespecificada (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Seis áreas de competência, cinco valores e três níveis de progressão para mídia de serviço público
 - [[ai-literacy-heptagon-2026]] — O AI Literacy Heptagon

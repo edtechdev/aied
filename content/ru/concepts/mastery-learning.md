@@ -6,7 +6,6 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-10-13T20:20:00-04:00"
-reviewed_by: [editor]
 translation_of: concepts/mastery-learning
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

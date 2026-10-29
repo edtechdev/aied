@@ -11,7 +11,6 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
-reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -162,9 +161,9 @@ ai_assist:
 - [[pedagogy]] — Зонтична категорія: педагогіки та стратегії викладання в освіті зі ШІ
 
 ## Пов’язані статті
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Які викладачі виграли час на планування: нижча впевненість у предметному знанні, нижче педагогічне знання, менший стаж або висока впевненість з технологіями
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Викладачі приймають ШІ, розуміючи його неправильно (Aji та співавт. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Готовність викладачів і технологічно-педагогічна інтеграція як найчастіше повідомлювана проблема в 54 дослідженнях математичної освіти (Manto та співавт. 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Які викладачі виграли час на планування: нижча впевненість у предметному знанні, нижче педагогічне знання, менший стаж або висока впевненість з технологіями
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Викладачі приймають ШІ, розуміючи його неправильно (Aji та співавт. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Готовність викладачів і технологічно-педагогічна інтеграція як найчастіше повідомлювана проблема в 54 дослідженнях математичної освіти (Manto та співавт. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Грамотність у мультимодальному оцінюванні: річна програма, в якій знання та компетентність змінилися, а цінності — ні
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Професійний розвиток Intelligent-TPACK: пів стандартного відхилення приросту та негативні прирости, що читаються як перекалібрування — «The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis»
@@ -215,4 +214,4 @@ ai_assist:
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Міжнаціональне опитування 1 405 викладачів K-12: готовність прогнозує позитивні переконання, але не занепокоєння
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Чотири профілі переконань викладачів TALIS 2024 пов’язують професійне навчання та бар’єри, специфічні для профілю, з використанням ШІ
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Проєктування модулів мікронавчання зі ШІ для університетських викладачів у галузі професійно-технічної вищої освіти: дослідження на основі проєктування
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: як налаштовані викладачами чатботи зазнають невдачі в реальному використанні та як це виправити
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: як налаштовані викладачами чатботи зазнають невдачі в реальному використанні та як це виправити

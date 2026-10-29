@@ -9,7 +9,6 @@ assessment: [assessment, automated-assessment, automated-question-generation, ed
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: concepts/automated-question-generation
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]

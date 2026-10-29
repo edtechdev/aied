@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: Ensino de ciência da computação
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-02T12:40:11-04:00"

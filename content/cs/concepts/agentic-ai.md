@@ -204,29 +204,29 @@ Agentní AI není ani všelék, ani nevyhnutelná újma: její hodnota závisí 
 
 ## Související články
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] - Autonomie, kompetence, sounáležitost a sociální přítomnost jako cesty od agentní AI k angažovanosti (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] - AI agenti, radostné hodnocení a třetí prostor
-- [[ilieva-agentic-genai-higher-education-2026]] - Rámec AGAI-HE: ohraničená, lidsky dohlížená agentní generativní AI ve vysokoškolském vzdělávání (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] - kritický integrativní přehled představující rámec důkazů a dohledu AOE
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] - Perspektiva inkluzivních agentních víceagentních ekosystémů AI ve vysokoškolském vzdělávání
-- [[baradziej-agentic-ai-higher-education-2026]] - Systematický přehled rolí agentní AI ve vysokoškolském vzdělávání (48 studií; šest rolí; trojdílný rámec odpovědné integrace)
-- [[kostopoulos-agentic-ai-education-2025]] - Agentní AI ve vzdělávání: stav umění a budoucí směry (přehled IEEE Access; operační definice a taxonomie)
-- [[agentic-ai-education-scoping-review]] - Scoping review agentní AI ve vzdělávání (474 studií)
-- [[agentic-ai-pedagogical-best-practice-2026]] - Napětí mezi automatizací a učením
-- [[tool-invariant-framework-agentic-ai]] - Výuka a hodnocení výpočetních metod v éře agentní AI
-- [[jeon-isd-agent-bench-2026]] - ISD-Agent-Bench: benchmarkování agentů pro návrh výuky
-- [[adversarial-stress-testing-role-playing-agents]] - Adversariální stresové testování agentů hrajících role
-- [[ai-agents-constructive-conflict-design-education-2026]] - Agenti AI konstruktivního konfliktu ve vzdělávání designu
-- [[ai-tpack-teacher-multi-agent-workflow]] - TPACK učitelů a pracovní postupy s více agenty
-- [[code-gen]] - Agenti pro generování kódu
-- [[educlaw-bench-pedagogical-llm-agents-2026]] - Benchmark pedagogických LLM agentů
-- [[guided-llm-scaffolding-independent-learning]] - Řízený LLM scaffolding pro samostatné učení
-- [[learnmate2-llm-adaptive-learning]] - Adaptivní učební agenti LearnMate-2
-- [[cyberagents-gamified-cybersecurity-learning-2026]] - Agenti pro gamifikované učení kyberbezpečnosti
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] - Agentní AI v klinické simulaci
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Studenti duchové a mezera v ověřování u agentní AI (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] - AI agenti dokončující úkoly v LMS; selhání validity skrze předpoklad lidské produkce (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] - AI weboví agenti: popisující agent jako hodnotitel učební zkušenosti (předpovídá předčasné ukončení, dává zpětnou vazbu k návrhu dřív, než se studenti zapojí)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD s AI agenty v softwarovém PBL; automatizace versus porozumění
-- [[ai-standardized-patient-scaffolding-medical-2026]] - Hodnocení víceagentního LLM systému orientovaného na scaffolding pro výuku klinického rozhovoru
-- [[ethics-training-agents-group-ethics-discussion-2026]] - Agenti pro etický trénink: podpora skupinového etického vzdělávání s hraním rolí a diskusí pro etickou reflexi a zkoumání
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, kompetence, sounáležitost a sociální přítomnost jako cesty od agentní AI k angažovanosti (Pramod & Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI agenti, radostné hodnocení a třetí prostor
+- [[ilieva-agentic-genai-higher-education-2026]] — Rámec AGAI-HE: ohraničená, lidsky dohlížená agentní generativní AI ve vysokoškolském vzdělávání (Ilieva et al. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — kritický integrativní přehled představující rámec důkazů a dohledu AOE
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspektiva inkluzivních agentních víceagentních ekosystémů AI ve vysokoškolském vzdělávání
+- [[baradziej-agentic-ai-higher-education-2026]] — Systematický přehled rolí agentní AI ve vysokoškolském vzdělávání (48 studií; šest rolí; trojdílný rámec odpovědné integrace)
+- [[kostopoulos-agentic-ai-education-2025]] — Agentní AI ve vzdělávání: stav umění a budoucí směry (přehled IEEE Access; operační definice a taxonomie)
+- [[agentic-ai-education-scoping-review]] — Scoping review agentní AI ve vzdělávání (474 studií)
+- [[agentic-ai-pedagogical-best-practice-2026]] — Napětí mezi automatizací a učením
+- [[tool-invariant-framework-agentic-ai]] — Výuka a hodnocení výpočetních metod v éře agentní AI
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarkování agentů pro návrh výuky
+- [[adversarial-stress-testing-role-playing-agents]] — Adversariální stresové testování agentů hrajících role
+- [[ai-agents-constructive-conflict-design-education-2026]] — Agenti AI konstruktivního konfliktu ve vzdělávání designu
+- [[ai-tpack-teacher-multi-agent-workflow]] — TPACK učitelů a pracovní postupy s více agenty
+- [[code-gen]] — Agenti pro generování kódu
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Benchmark pedagogických LLM agentů
+- [[guided-llm-scaffolding-independent-learning]] — Řízený LLM scaffolding pro samostatné učení
+- [[learnmate2-llm-adaptive-learning]] — Adaptivní učební agenti LearnMate-2
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — Agenti pro gamifikované učení kyberbezpečnosti
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentní AI v klinické simulaci
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Studenti duchové a mezera v ověřování u agentní AI (Bozkurt et al. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agenti dokončující úkoly v LMS; selhání validity skrze předpoklad lidské produkce (Hadjisolomou & El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — AI weboví agenti: popisující agent jako hodnotitel učební zkušenosti (předpovídá předčasné ukončení, dává zpětnou vazbu k návrhu dřív, než se studenti zapojí)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD s AI agenty v softwarovém PBL; automatizace versus porozumění
+- [[ai-standardized-patient-scaffolding-medical-2026]] — Hodnocení víceagentního LLM systému orientovaného na scaffolding pro výuku klinického rozhovoru
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti pro etický trénink: podpora skupinového etického vzdělávání s hraním rolí a diskusí pro etickou reflexi a zkoumání

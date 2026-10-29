@@ -6,7 +6,6 @@ type: faq
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

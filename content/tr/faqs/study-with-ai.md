@@ -11,7 +11,6 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-reviewed_by: [editor]
 translation_of: faqs/study-with-ai
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

@@ -8,7 +8,6 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/ethics
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -109,7 +108,7 @@ ai_assist:
 - [[biology-education]] — تعليم الأحياء والذكاء الاصطناعي: مساعدو المختبر التعليميون، وثقافة الذكاء الاصطناعي في الأحياء، والتفكير النقدي، والأدوات المتخصصة
 
 ## المقالات المرتبطة
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - الوعي الأخلاقي ضخّم قلق الذكاء الاصطناعي حيث لم يُدرّس إطار للتكيّف: وساطة غير مباشرة فقط بين 584 طالباً
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — الوعي الأخلاقي ضخّم قلق الذكاء الاصطناعي حيث لم يُدرّس إطار للتكيّف: وساطة غير مباشرة فقط بين 584 طالباً
 - [[learning-analytics-to-educational-interventions-2026]] — من تحليلات التعلّم إلى التدخلات التعليمية: مُمكّنات التدخلات القائمة على تحليلات التعلّم الجديرة بالثقة (سفيتك وديجاك وكادويتش 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — كيف يستخدم الطلاب الذكاء الاصطناعي ويخفونه في التقويم عبر الإنترنت
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — كشف الطلاب عن الذكاء الاصطناعي، والوصم، والتعلّم الذاتي التنظيم

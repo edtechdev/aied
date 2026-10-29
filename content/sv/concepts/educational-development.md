@@ -144,13 +144,13 @@ Tilltro och kompetens är inte utbytbara mål: i en SEM-studie med 502 universit
 - [[stakeholders]] - Paraply: människor och målgrupper inom AI-utbildning (elever, lärare, designers, administratörer, beslutsfattare)
 
 ## Anslutna artiklar
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Kritisk diskursanalys av råd om GenAI-länkning: utvecklare omramas som teknikutbildare
-- [[crompton-faculty-technology-integration-standards-2026]] - Lärarstandarder för teknikintegration (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Etiska dimensioner av AI: lärares och elevers syn
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalys av råd om GenAI-länkning: utvecklare omramas som teknikutbildare
+- [[crompton-faculty-technology-integration-standards-2026]] — Lärarstandarder för teknikintegration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etiska dimensioner av AI: lärares och elevers syn
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Hur ingenjörslärares metaforer konstruerar (och begränsar) förståelsen av AI
-- [[fear-awe-genai-metaphor-workshops-2025]] - Rädsla och vördnad: att förstå generativ AI genom metaforer (metaforworkshop för lärare/personal/elever)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Att styra det osedda: AI-kompetens bland språklärare
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hur ingenjörslärares metaforer konstruerar (och begränsar) förståelsen av AI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Rädsla och vördnad: att förstå generativ AI genom metaforer (metaforworkshop för lärare/personal/elever)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Att styra det osedda: AI-kompetens bland språklärare
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -161,19 +161,19 @@ Tilltro och kompetens är inte utbytbara mål: i en SEM-studie med 502 universit
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI som identitetskris, inte kompetenslucka
-- [[zuo-instructor-power-genai-writing-2026]] - Maktrelationer som universitetslärare uppfattar när de brottas med GenAI i skrivande (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflective Triangle-modellen: AI som kognitiv förmedlare
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Lärarnas självuppfattade TPACK-21-kunskap om GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-kompetensutveckling: närvaro förutsäger vinster, självupplevt deltagande gör det inte
-- [[instructional-design-proficiency-masters-math-2026]] - Smartklassrumsmodell och D-T-E-loop som förbättrar instruktionsdesignfärdighet på avancerad nivå i matematik (Zhu m.fl. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Rollarkitektur i AI-designade differentierade gruppaktiviteter (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Universitetslärares erfarenheter och uppfattningar av GAI: sårbarhet, omtänkande av bedömning, elevers lärande i riskzonen (Farazouli m.fl. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Från rädsla till innovation: ett sex veckor långt lärarinstitut, symbiotisk pedagogik och de institutionella villkor det inte kunde tillhandahålla
-- [[vassallo-ai-guilt-complex-faculty-2026]] - AI-skuldkomplexet: förväntansskuld, döljande och skillnader mellan karriärstadier bland akademisk personal (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon-enkät bland 1 057 amerikanska lärare: institutionell oförbereddhet, tunn styrning och policyluckan på 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akademiska utvecklare som digitala förmedlare i högre utbildning i det globala Syden: utveckling som socioteknisk praxis
-- [[physics-faculty-learning-community-ai-2026]] - En workshopserie för effektiv AI-användning i osäkra tider: att bygga en fysiklärarnas lärandegemenskap
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskris, inte kompetenslucka
+- [[zuo-instructor-power-genai-writing-2026]] — Maktrelationer som universitetslärare uppfattar när de brottas med GenAI i skrivande (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle-modellen: AI som kognitiv förmedlare
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Lärarnas självuppfattade TPACK-21-kunskap om GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-kompetensutveckling: närvaro förutsäger vinster, självupplevt deltagande gör det inte
+- [[instructional-design-proficiency-masters-math-2026]] — Smartklassrumsmodell och D-T-E-loop som förbättrar instruktionsdesignfärdighet på avancerad nivå i matematik (Zhu m.fl. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Rollarkitektur i AI-designade differentierade gruppaktiviteter (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Universitetslärares erfarenheter och uppfattningar av GAI: sårbarhet, omtänkande av bedömning, elevers lärande i riskzonen (Farazouli m.fl. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Från rädsla till innovation: ett sex veckor långt lärarinstitut, symbiotisk pedagogik och de institutionella villkor det inte kunde tillhandahålla
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI-skuldkomplexet: förväntansskuld, döljande och skillnader mellan karriärstadier bland akademisk personal (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-enkät bland 1 057 amerikanska lärare: institutionell oförbereddhet, tunn styrning och policyluckan på 87%/48% (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademiska utvecklare som digitala förmedlare i högre utbildning i det globala Syden: utveckling som socioteknisk praxis
+- [[physics-faculty-learning-community-ai-2026]] — En workshopserie för effektiv AI-användning i osäkra tider: att bygga en fysiklärarnas lärandegemenskap
 
-- [[faculty-ai-well-being-social-supports-2026]] - Lärarnas AI-välbefinnande följer AI-kompetens snarare än teknisk självtillit
-- [[ai-competence-framework-landscape-2026]] - Kontrollera vad ett ramverks nivåer beskriver innan du antar det
+- [[faculty-ai-well-being-social-supports-2026]] — Lärarnas AI-välbefinnande följer AI-kompetens snarare än teknisk självtillit
+- [[ai-competence-framework-landscape-2026]] — Kontrollera vad ett ramverks nivåer beskriver innan du antar det

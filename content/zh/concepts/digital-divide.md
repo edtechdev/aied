@@ -7,7 +7,6 @@ type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/digital-divide
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"

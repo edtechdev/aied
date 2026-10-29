@@ -11,7 +11,6 @@ audience: [administrators, instructors]
 level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/administrator
 source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

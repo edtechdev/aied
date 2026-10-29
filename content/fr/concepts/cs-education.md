@@ -198,7 +198,7 @@ L'enseignement de l'informatique se relie à la [[computational-thinking|pensée
 - [[llm-adaptive-programming-error-explanations-2026]] — Explications adaptatives par LLM des erreurs de programmation
 - [[soft-barriers-copying-ai-programming-2026]] — Résistance au copier-coller en programmation assistée par IA
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - Développement piloté par les spécifications avec des agents d'IA dans un cours de projet logiciel ; débit contre compréhension
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — Développement piloté par les spécifications avec des agents d'IA dans un cours de projet logiciel ; débit contre compréhension
 - [[student-reception-genai-analogies-computing-2026]] — Défectueuses mais mémorables : réception critique par les étudiants des analogies générées par l'IA personnalisées selon les intérêts en enseignement de l'informatique
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS : évaluer la capacité des modèles à générer des idées fausses stratégiques à travers le programme d'informatique
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Exercice d'équipe rouge sur l'injection d'invites dans la notation assistée par IA : des instructions cachées qui déplacent la note sans être détectées

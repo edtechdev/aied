@@ -137,14 +137,14 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 
 ## Povezani članci
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Izmjereno skraćenje vremena planiranja uz nalaz da nastavnici od početka planiraju samo 21% do 40% lekcija
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Analitika učenja i generativna umjetna inteligencija u odlučivanju o oblikovanju učenja
-- [[tang-chatbots-learning-design-2026]] - Upotreba chatbota u oblikovanju učenja: dizajneri se zadržavaju na ishodima i pedagogiji, a ne na stvaranju sadržaja (Tang i sur. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Obrasci interakcije nastavnika i umjetne inteligencije u oblikovanju lekcija prema iskustvu i osposobljenosti za umjetnu inteligenciju (Choi i sur. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - Umjetna inteligencija u visokom obrazovanju: angažman i posredujuća uloga metoda poučavanja
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Izmjereno skraćenje vremena planiranja uz nalaz da nastavnici od početka planiraju samo 21% do 40% lekcija
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analitika učenja i generativna umjetna inteligencija u odlučivanju o oblikovanju učenja
+- [[tang-chatbots-learning-design-2026]] — Upotreba chatbota u oblikovanju učenja: dizajneri se zadržavaju na ishodima i pedagogiji, a ne na stvaranju sadržaja (Tang i sur. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Obrasci interakcije nastavnika i umjetne inteligencije u oblikovanju lekcija prema iskustvu i osposobljenosti za umjetnu inteligenciju (Choi i sur. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Umjetna inteligencija u visokom obrazovanju: angažman i posredujuća uloga metoda poučavanja
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taksonomija (granični objekt) za klasificiranje aktivnosti učenja s generativnom umjetnom inteligencijom
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomija (granični objekt) za klasificiranje aktivnosti učenja s generativnom umjetnom inteligencijom
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -155,19 +155,19 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Web-agenti s umjetnom inteligencijom: autonomni web-agent ocjenjuje dizajne lekcija i predviđa odustajanje studenata prije nego se uključe (Wang, Mitchell i Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: okvir za kognitivno aktiviranu nadgradnju umjetnom inteligencijom u fizici
+- [[ai-web-agents-lesson-design-2025]] — Web-agenti s umjetnom inteligencijom: autonomni web-agent ocjenjuje dizajne lekcija i predviđa odustajanje studenata prije nego se uključe (Wang, Mitchell i Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: okvir za kognitivno aktiviranu nadgradnju umjetnom inteligencijom u fizici
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Oblikovanje za doseg: sedam poluga i student sam s umjetnom inteligencijom
+- [[halani-designing-for-reach-2026]] — Oblikovanje za doseg: sedam poluga i student sam s umjetnom inteligencijom
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Kad „ne“ daje bolje videozapise: dvostruka kontrola za pedagoški utemeljeno stvaranje sadržaja umjetnom inteligencijom
-- [[rhaimi-productivemath-2025]] - ProductiveMath: umjetna inteligencija za potporu oblikovanju problema produktivnog neuspjeha
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - Umjetna inteligencija i praksa instruktivnog dizajna: sustavni pregled (Kibar i Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Inteligentno podučavanje utemeljeno na grafovima za dinamične domene (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Namjerno dosadna umjetna inteligencija: ograničenje u pisanju potpomognutom umjetnom inteligencijom (Konradt, Boote i Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Model pametne učionice i D-T-E petlja koji poboljšavaju osposobljenost za instruktivni dizajn u diplomskom studiju matematike (Zhu i sur. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Platforma potpomognuta umjetnom inteligencijom za stvaranje problema matematičkog modeliranja (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Suoblikovanje zadataka učenja od strane nastavnika i umjetne inteligencije: trendovi i perspektive (Wang i sur. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arhitektura uloga u diferenciranim grupnim aktivnostima koje je osmislila umjetna inteligencija (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM-ovi kao nositelji iterativnog pedagoškog oblikovanja
+- [[ai-video-dual-gatekeeping-2026]] — Kad „ne“ daje bolje videozapise: dvostruka kontrola za pedagoški utemeljeno stvaranje sadržaja umjetnom inteligencijom
+- [[rhaimi-productivemath-2025]] — ProductiveMath: umjetna inteligencija za potporu oblikovanju problema produktivnog neuspjeha
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — Umjetna inteligencija i praksa instruktivnog dizajna: sustavni pregled (Kibar i Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Inteligentno podučavanje utemeljeno na grafovima za dinamične domene (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Namjerno dosadna umjetna inteligencija: ograničenje u pisanju potpomognutom umjetnom inteligencijom (Konradt, Boote i Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Model pametne učionice i D-T-E petlja koji poboljšavaju osposobljenost za instruktivni dizajn u diplomskom studiju matematike (Zhu i sur. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Platforma potpomognuta umjetnom inteligencijom za stvaranje problema matematičkog modeliranja (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Suoblikovanje zadataka učenja od strane nastavnika i umjetne inteligencije: trendovi i perspektive (Wang i sur. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitektura uloga u diferenciranim grupnim aktivnostima koje je osmislila umjetna inteligencija (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM-ovi kao nositelji iterativnog pedagoškog oblikovanja

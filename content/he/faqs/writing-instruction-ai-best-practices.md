@@ -6,7 +6,6 @@ assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feed
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
-reviewed_by: [editor]
 created: "2026-10-12T19:27:00-04:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 source_updated: "2026-10-02T08:21:34-04:00"

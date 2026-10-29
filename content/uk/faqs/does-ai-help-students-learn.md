@@ -8,7 +8,6 @@ pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
-reviewed_by: [editor]
 translation_of: faqs/does-ai-help-students-learn
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -19,6 +18,8 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 ---
+
+*Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
 
 # Does Using AI Actually Help My Students Learn?
 

@@ -165,9 +165,9 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 
 ## 연결된 문서
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - 어떤 교사가 계획 시간을 얻었는가: 교과 지식 자신감이 낮거나, 교수법적 지식이 낮거나, 직업 경력이 짧거나, 기술 자신감이 높은 교사
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - 교사들은 AI를 받아들이면서도 그것이 작동하는 방식을 오해한다(Aji 등 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - 수학 교육 연구 54편에서 가장 자주 보고된 도전으로서의 교사 준비도와 기술적-교수법적 통합(Manto 등 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — 어떤 교사가 계획 시간을 얻었는가: 교과 지식 자신감이 낮거나, 교수법적 지식이 낮거나, 직업 경력이 짧거나, 기술 자신감이 높은 교사
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — 교사들은 AI를 받아들이면서도 그것이 작동하는 방식을 오해한다(Aji 등 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — 수학 교육 연구 54편에서 가장 자주 보고된 도전으로서의 교사 준비도와 기술적-교수법적 통합(Manto 등 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 다중 양태 평가 리터러시: 1년 프로그램에서 지식과 수행 역량은 향상되었으나 가치는 그렇지 않았다
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK 전문적 개발: 반 표준편차의 향상, 그리고 재보정으로 읽히는 음의 향상 — K-12 교사의 AI 리터러시에 대한 전문적 개발 프로그램의 영향: 체계적 고찰 및 메타분석
@@ -218,4 +218,4 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — K-12 교사 1,405명의 다국 설문: 준비도는 긍정적 믿음을 예측하나 우려는 예측하지 못한다
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024의 네 가지 교사 믿음 프로파일이 전문적 학습과 프로파일 고유의 장벽을 AI 사용에 연결한다
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — 직업 교사 교육에서 대학 교사를 위한 AI 마이크로러닝 모듈 설계: 설계 기반 연구
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: 교사가 구성한 챗봇이 실제 사용에서 실패하는 방식과 그것을 고치는 방법
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: 교사가 구성한 챗봇이 실제 사용에서 실패하는 방식과 그것을 고치는 방법

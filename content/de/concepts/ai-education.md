@@ -211,11 +211,11 @@ Feldweite Reviews zu KI in der Bildung, also Studien, die das gesamte Feld oder 
 
 - typology-generative-ai-tools-education-2026 – Typology of Generative AI Tools for Education
 - raza-farooq-aied-review-2020-2025 – Review of Artificial Intelligence in Education from 2020 to 2025
-- [[rismanchian-ai-education-four-decades-aixed-2026]] – Die Entwicklung der KI-und-Bildung-Forschung über vier Jahrzehnte (AIxEd-Rahmenwerk)
-- [[mishra-control-vs-agency-history-2025]] – Kontrolle vs. Handlungsfähigkeit: eine Geschichte von KI in der Bildung
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — Die Entwicklung der KI-und-Bildung-Forschung über vier Jahrzehnte (AIxEd-Rahmenwerk)
+- [[mishra-control-vs-agency-history-2025]] — Kontrolle vs. Handlungsfähigkeit: eine Geschichte von KI in der Bildung
 - liang-genai-systematic-review-human-ai-2026 – Generative AI in education: systematic review of 56 empirical studies
-- [[genai-higher-education-systematic-review-2026]] – Generative KI in der Hochschulbildung: systematischer Review von 125 Studien
-- [[stanford-evidence-base-ai-k12-2026]] – Die Evidenzbasis zu KI in K-12: ein Review von 818 Papieren
+- [[genai-higher-education-systematic-review-2026]] — Generative KI in der Hochschulbildung: systematischer Review von 125 Studien
+- [[stanford-evidence-base-ai-k12-2026]] — Die Evidenzbasis zu KI in K-12: ein Review von 818 Papieren
 - caruana-pre-university-ai-education-slr-2026 – Pre-university AI education: systematic literature review of 42 studies
-- [[genai-educational-outcomes-meta-analysis]] – Generative KI und Bildungsergebnisse: umfassende Metaanalyse
+- [[genai-educational-outcomes-meta-analysis]] — Generative KI und Bildungsergebnisse: umfassende Metaanalyse
 - caeai-ai-companions-learning-over-performance-2026 – a research agenda for AI companions built around learning rather than performance

@@ -127,16 +127,16 @@ Dokazi za predaju kao imenovani konstrukt uvelike se oslanjaju na jedan program 
 
 ## Povezani članci
 
-- [[shaw-nave-cognitive-surrender-2026]] - Teorija triju sustava i eksperimentalni potpis predaje
-- [[generative-ai-reduced-study-time-math]] - premještanje na razini populacije u platformi ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]] - okvir predaje, rasterećenja i djelotvornosti u predškolskom i osnovnoškolskom obrazovanju
-- [[du-yuan-epistemic-dependence-2026]] - instrumentalna pomoć nasuprot pomoći koja nosi prosudbu
-- [[ai-advice-suppresses-ikt-suspension-2026]] - slom odgovora „ne znam“
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - neuralni angažman i vlasništvo
-- [[genai-thoughtless-use-self-directed-learning-2026]] - nepromišljena upotreba i samousmjereno učenje
-- [[stamatoulis-genai-use-patterns-2026]] - prihvaćanje s malo provjere nasuprot procjenjivačkoj integraciji
-- [[cognitive-washout-ai-skill-decay-2026]] - što se događa nakon povlačenja
-- [[ai-overreliance-complex-adaptive-system-2026]] - oslanjanje kao populacijski proces
-- [[brcic-effortless-trap-productive-struggle-2026]] - smještanje umjetne inteligencije tako da zadatak ostane zahtjevan
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - obuka u kalibraciji
-- [[family-school-autonomy-support-genai-2026]] - zavisno nasuprot autonomnom rasterećenju
+- [[shaw-nave-cognitive-surrender-2026]] — Teorija triju sustava i eksperimentalni potpis predaje
+- [[generative-ai-reduced-study-time-math]] — premještanje na razini populacije u platformi ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — okvir predaje, rasterećenja i djelotvornosti u predškolskom i osnovnoškolskom obrazovanju
+- [[du-yuan-epistemic-dependence-2026]] — instrumentalna pomoć nasuprot pomoći koja nosi prosudbu
+- [[ai-advice-suppresses-ikt-suspension-2026]] — slom odgovora „ne znam“
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neuralni angažman i vlasništvo
+- [[genai-thoughtless-use-self-directed-learning-2026]] — nepromišljena upotreba i samousmjereno učenje
+- [[stamatoulis-genai-use-patterns-2026]] — prihvaćanje s malo provjere nasuprot procjenjivačkoj integraciji
+- [[cognitive-washout-ai-skill-decay-2026]] — što se događa nakon povlačenja
+- [[ai-overreliance-complex-adaptive-system-2026]] — oslanjanje kao populacijski proces
+- [[brcic-effortless-trap-productive-struggle-2026]] — smještanje umjetne inteligencije tako da zadatak ostane zahtjevan
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — obuka u kalibraciji
+- [[family-school-autonomy-support-genai-2026]] — zavisno nasuprot autonomnom rasterećenju

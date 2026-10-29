@@ -9,7 +9,6 @@ audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
 source_updated: "2026-10-22T09:11:45-04:00"

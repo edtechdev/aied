@@ -5,7 +5,6 @@ type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/ai-technologies
 source_updated: "2026-10-02T07:32:07-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

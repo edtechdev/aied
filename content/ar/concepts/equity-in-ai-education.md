@@ -10,7 +10,6 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
-reviewed_by: [editor]
 translation_of: concepts/equity-in-ai-education
 source_updated: "2026-10-09T08:42:12-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

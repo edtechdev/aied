@@ -7,7 +7,6 @@ pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, me
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/productive-failure
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

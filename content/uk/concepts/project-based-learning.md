@@ -6,7 +6,6 @@ pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/project-based-learning
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -87,5 +86,5 @@ PBL пов’язаний з [[active-learning]], [[experiential-learning]], [[c
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in team software PBL
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in team software PBL
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: an immersive VR design studio with an embedded teaching agent, evaluated against traditional PBL (Jin et al. 2026)

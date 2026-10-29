@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
@@ -251,7 +250,7 @@ STEM শিক্ষা থেকে এআই সাক্ষরতার স�
 ## যুক্ত নিবন্ধ
 - [[early-childhood-ai-holistic-competencies-review-2026]] — এআই যুগে শৈশব গঠন: যোগ্যতা, শিক্ষাবিজ্ঞান ও পরিবেশগত সহায়তা (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — এআই নিরাপত্তা সাক্ষরতা: বাস্তুতন্ত্রভিত্তিক যোগ্যতা কাঠামো ও K-12 শিখন প্ল্যাটফর্ম
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - মোচ্চন ফ্রেমওয়ার্ক ছাড়াই সাক্ষরতার নৈতিক মাত্রা বাড়ানো শিক্ষার্থীদের বেশি উদ্বিগ্ন রেখে যেতে পারে
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — মোচ্চন ফ্রেমওয়ার্ক ছাড়াই সাক্ষরতার নৈতিক মাত্রা বাড়ানো শিক্ষার্থীদের বেশি উদ্বিগ্ন রেখে যেতে পারে
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80টি বৈধতা প্রাপ্ত ফ্রেমওয়ার্ক দেখায় যে নৈতিকতার দিকে ডিজিটাল সাক্ষরতা বিস্তৃত করছে এআই যখন শিক্ষক মানব–এআই সহযোগিতা কম নির্দিষ্ট থাকে (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — পাবলিক সার্ভিস মিডিয়ার জন্য ছয়টি দক্ষতা ক্ষেত্র, পাঁচটি মূল্যবোধ ও তিনটি অগ্রগতি স্তর
 - [[ai-literacy-heptagon-2026]] — এআই সাক্ষরতা হেপ্টাগন

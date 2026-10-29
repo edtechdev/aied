@@ -6,7 +6,6 @@ connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/digital-divide
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

@@ -9,7 +9,6 @@ pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning
 technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/self-directed-learning
 source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

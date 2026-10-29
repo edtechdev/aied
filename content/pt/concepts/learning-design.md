@@ -10,7 +10,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
 source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
@@ -135,7 +135,7 @@ Fowlin et al. (2026) acrescentam um movimento operacional para decidir onde a IA
 - [[stakeholders]] — Guarda-chuva: pessoas e audiências na educação em IA (estudantes, professores, desenhistas, administradores, formuladores de políticas)
 
 ## Artigos conectados
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Uma economia de tempo de planejamento medida ao lado do achado de que os professores planejam do zero apenas 21% a 40% das aulas
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Uma economia de tempo de planejamento medida ao lado do achado de que os professores planejam do zero apenas 21% a 40% das aulas
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA e GenAI na tomada de decisão de desenho de aprendizagem
 - [[tang-chatbots-learning-design-2026]] — Uso de chatbot no desenho de aprendizagem: desenhistas se detêm em resultados e pedagogia em vez de geração de conteúdo (Tang et al. 2026)

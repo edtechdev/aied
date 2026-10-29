@@ -142,13 +142,13 @@ Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|des
 - [[stakeholders]] - Umbrelă: oameni și publicuri în educația cu IA (învățăcei, profesori, designeri, administratori, factori de decizie)
 
 ## Articole conexe
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Analiză critică a discursului asupra sfaturilor de aliniere cu GenAI: dezvoltatorii reîncadrați ca formatori de tehnologie
-- [[crompton-faculty-technology-integration-standards-2026]] - Standarde pentru corpul didactic privind integrarea tehnologiei (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Dimensiuni etice ale IA: viziunile corpului didactic și ale studenților
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analiză critică a discursului asupra sfaturilor de aliniere cu GenAI: dezvoltatorii reîncadrați ca formatori de tehnologie
+- [[crompton-faculty-technology-integration-standards-2026]] — Standarde pentru corpul didactic privind integrarea tehnologiei (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensiuni etice ale IA: viziunile corpului didactic și ale studenților
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Cum construiesc (și limitează) metaforele profesorilor de inginerie înțelegerea IA
-- [[fear-awe-genai-metaphor-workshops-2025]] - Teama și uimirea: înțelegerea IA generative prin metaforă (atelier de metafore pentru profesori, personal și studenți)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Guvernarea nevăzutului: alfabetizarea în IA în rândul profesorilor de limbi
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Cum construiesc (și limitează) metaforele profesorilor de inginerie înțelegerea IA
+- [[fear-awe-genai-metaphor-workshops-2025]] — Teama și uimirea: înțelegerea IA generative prin metaforă (atelier de metafore pentru profesori, personal și studenți)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Guvernarea nevăzutului: alfabetizarea în IA în rândul profesorilor de limbi
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,18 +159,18 @@ Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|des
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI ca criză de identitate, nu ca decalaj de competențe
-- [[zuo-instructor-power-genai-writing-2026]] - Relații de putere percepute de instructorii universitari care se confruntă cu GenAI în scriere (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Modelul triunghiului reflexiv: IA ca mediator cognitiv
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Cunoașterea TPACK-21 autopercepută de corpul didactic pentru GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Dezvoltare profesională Intelligent-TPACK: prezența prezice câștigurile, participarea autopercepută nu
-- [[instructional-design-proficiency-masters-math-2026]] - Modelul sălii de clasă inteligente și bucla D-T-E care îmbunătățesc competența de design instrucțional la masteratul în matematică (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arhitectura rolurilor în activitățile de grup diferențiate proiectate cu IA (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Experiențele și percepțiile profesorilor universitari despre GAI: vulnerabilitate, regândirea evaluării, învățarea studenților în pericol (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - De la teamă la inovație: un institut de șase săptămâni pentru corpul didactic, pedagogia simbiotică și condițiile instituționale pe care nu le-a putut oferi
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Complexul vinovăției legate de IA: vinovăție anticipatorie, ascundere și diferențe după etapa de carieră în rândul personalului academic (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Sondajul AAC&U/Elon pe 1.057 membri ai corpului didactic din SUA: nepregătire instituțională, guvernanță subțire și decalajul de politică de 87%/48% (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Dezvoltatorii academici ca mediatori digitali în învățământul superior din Sudul global: dezvoltarea ca praxis sociotehnic
-- [[physics-faculty-learning-community-ai-2026]] - O serie de ateliere pentru folosirea eficace a IA în vremuri incerte: construirea unei comunități de învățare a corpului didactic de fizică
-- [[faculty-ai-well-being-social-supports-2026]] - Starea de bine a corpului didactic legată de IA urmează alfabetizarea în IA, nu autoeficacitatea tehnologică
-- [[ai-competence-framework-landscape-2026]] - Verificați ce descriu nivelurile unui cadru înainte de a-l adopta
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI ca criză de identitate, nu ca decalaj de competențe
+- [[zuo-instructor-power-genai-writing-2026]] — Relații de putere percepute de instructorii universitari care se confruntă cu GenAI în scriere (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Modelul triunghiului reflexiv: IA ca mediator cognitiv
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Cunoașterea TPACK-21 autopercepută de corpul didactic pentru GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Dezvoltare profesională Intelligent-TPACK: prezența prezice câștigurile, participarea autopercepută nu
+- [[instructional-design-proficiency-masters-math-2026]] — Modelul sălii de clasă inteligente și bucla D-T-E care îmbunătățesc competența de design instrucțional la masteratul în matematică (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitectura rolurilor în activitățile de grup diferențiate proiectate cu IA (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Experiențele și percepțiile profesorilor universitari despre GAI: vulnerabilitate, regândirea evaluării, învățarea studenților în pericol (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — De la teamă la inovație: un institut de șase săptămâni pentru corpul didactic, pedagogia simbiotică și condițiile instituționale pe care nu le-a putut oferi
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Complexul vinovăției legate de IA: vinovăție anticipatorie, ascundere și diferențe după etapa de carieră în rândul personalului academic (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Sondajul AAC&U/Elon pe 1.057 membri ai corpului didactic din SUA: nepregătire instituțională, guvernanță subțire și decalajul de politică de 87%/48% (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Dezvoltatorii academici ca mediatori digitali în învățământul superior din Sudul global: dezvoltarea ca praxis sociotehnic
+- [[physics-faculty-learning-community-ai-2026]] — O serie de ateliere pentru folosirea eficace a IA în vremuri incerte: construirea unei comunități de învățare a corpului didactic de fizică
+- [[faculty-ai-well-being-social-supports-2026]] — Starea de bine a corpului didactic legată de IA urmează alfabetizarea în IA, nu autoeficacitatea tehnologică
+- [[ai-competence-framework-landscape-2026]] — Verificați ce descriu nivelurile unui cadru înainte de a-l adopta

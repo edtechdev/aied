@@ -198,43 +198,43 @@ GAIT پر مبنی بدانتظامی کے ارادے کا Theory of Planned Beh
 
 ## منسلک مضامین
 
-- [[ivory-psychology-assessment-integrity-2026]] - پورا نفسیات کا پروگرام جو کم سے کم محنت پر پاس ہو جاتا ہے، اور وہ نمبر بندی کے معیار جو اُسے گزرنے دیتے ہیں (Ivory et al. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - طالب علم اساتذہ نے اجازت دینے والی پالیسی کے تحت GenAI سے انکار کیا؛ "جال" کی فریمنگ اور سروے اور اعلان کا فرق
-- [[ai-agents-joyful-assessment-third-space-2026]] - AI ایجنٹس، خوشی بھرا جائزہ، اور تیسرا فاصلہ
-- [[kumar-genai-computing-education-systematic-review-2026]] - پکڑ کا ثبوت پتلا ہے (72 میں سے 3 مطالعات)؛ وزن دوبارہ ڈیزائن اٹھاتا ہے
-- [[mccorkle-aligned-genai-course-policy-2025]] - ہم آہنگ GenAI کورس پالیسی: جائزے سے ماخوذ اجازتیں، شفاف دلیل (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - construct کے لحاظ سے مساوی جائزے کے متغیرات کی تخلیق (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - اساتذہ 31,000 کورس سلیبی میں AI کو کیسے کنٹرول کرتے ہیں؛ سالمیت کی فریمنگ کم ہو رہی ہے (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - کیا طلبہ نقل کر کے حیاتیات کی ڈگری لے سکتے ہیں؟ جنریٹو AI کے دور میں حیاتیات کے کورس نمبروں کی علمی بددیانتی کے سامنے کمزوری کا کیس اسٹڈی
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - طلبہ کا AI استعمال کے اعلانات کی عدم تعمیل
-- [[detecting-llm-generated-text-latent-prompt]] - LLM کے پیدا کردہ متن کی پکڑ
-- [[beyond-detection-authentic-assessment-ai-2025]] - پکڑ سے آگے: AI کے ثالثی والی دنیا میں مستند جائزہ
-- [[ai-assessment-scale-reform]] - AI جائزہ اسکیل اور جائزے کی اصلاح
-- [[authentic-products-authenticated-processes-2026]] - مستند مصنوعات سے تصدیق شدہ عمل تک
-- [[student-rationalization-ai-writing]] - یہ ٹھیک ہے کیونکہ… طلبہ کا AI استعمال کو جائز قرار دینا
-- [[ethical-ai-higher-ed-game-theory]] - اخلاقی AI استعمال کے لیے ہم آہنگی کے کھیل کا فریم ورک
-- [[shame-guilt-ai-regulation-computing-education]] - شرم اور جرم بطور AI استعمال کے سماجی ضابطے
-- [[cross-cultural-student-perceptions-genai-computing]] - کیا ایلس نے غلط کیا؟ AI استعمال کے بین الثقافتی تصورات
-- [[luo-dawson-value-judgments-grading-2026]] - GenAI کی معاونت والے کام کی نمبر بندی میں قدروں کے فیصلے: ایمانداری، بھروسہ، صداقت اور دو طرفہ شفافیت (Luo & Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - GenAI کے ثالثی والے گروپ جائزے میں ساتھیوں کی جوابدہی اور اصلت
-- [[teichmann-detecting-undetectable-misconduct-2026]] - پکڑ کا ثبوتی انہدام اور طریقہ کار کے انصاف، تناسب اور ڈیزائن کی دلیل
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - ناقص معلومات کے تحت روک تھام، انکشاف اور دوبارہ ڈیزائن بطور جائزے کے ڈیزائن کا مسئلہ
-- [[munoz-misconduct-allegation-evidence-2026]] - 1,162 GenAI بدانتظامی کی فائلیں واقعی کس ثبوت پر کھڑی تھیں، اور غائب ثبوتی حد
-- [[wright-transcription-not-generation-2026]] - حد سے زیادہ شامل AI اصول اور نقل نویسی بمقابلہ تخلیق کا فرق
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - AI پر مبنی ڈیجیٹل نقل اور روک تھام پر مبنی اخلاقی پيدگوجیز: 183 سے 27 کیسز کا واقعہ اور پانچ موضوعاتی دوبارہ ڈیزائن (Leaton Gray, Edsall & Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - سالمیت بطور گورننس کا مسئلہ: تعلیمی گورنروں کے لیے 130 آئٹموں والا اشاروں کا فریم ورک (Coates, Croucher & Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - علمی سالمیت اور GenAI پر اعلیٰ تعلیم کے طلبہ کی آوازوں کے 38 مطالعات کا اسکوپنگ جائزہ (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - EAL لکھنے والوں کے لیے معاونت بمقابلہ متبادل کی لکیر کھینچنا، اور اُن اصولوں کی عدم مساوات جو لسانی پس منظر نظرانداز کرتے ہیں (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - AI کے ثالثی والی جانچ کے خلاف پرامپٹ انجیکشن: چھپی ہوئی ہدایات جو بغیر پکڑے نمبر بدل دیتی ہیں (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - AI استعمال کی اخلاقیات کا میٹرکس: بے چین تعمیل، اور صرف وضاحت طلبہ کو مؤثر بچاؤ کی طرف کیوں دھکیل سکتی ہے (Petricini & Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - جب AI ایجنٹ اسائنمنٹ مکمل کر سکتے ہوں تو استدلال کے نشان کو نمبر دینا (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - AI کے لکھے داخلے کے مضامین وسیع ہیں مگر جرمانہ پاتے ہیں
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - کون عمل کرتا ہے، کون جانتا ہے، کون جواب دیتا ہے؟ جنریٹو AI اعلیٰ تعلیمی تحقیق میں خودآگہی، علمی ذمہ داری اور جوابدہی کا کارپس کی معاونت والا بیانیہ تجزیہ
+- [[ivory-psychology-assessment-integrity-2026]] — پورا نفسیات کا پروگرام جو کم سے کم محنت پر پاس ہو جاتا ہے، اور وہ نمبر بندی کے معیار جو اُسے گزرنے دیتے ہیں (Ivory et al. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — طالب علم اساتذہ نے اجازت دینے والی پالیسی کے تحت GenAI سے انکار کیا؛ "جال" کی فریمنگ اور سروے اور اعلان کا فرق
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI ایجنٹس، خوشی بھرا جائزہ، اور تیسرا فاصلہ
+- [[kumar-genai-computing-education-systematic-review-2026]] — پکڑ کا ثبوت پتلا ہے (72 میں سے 3 مطالعات)؛ وزن دوبارہ ڈیزائن اٹھاتا ہے
+- [[mccorkle-aligned-genai-course-policy-2025]] — ہم آہنگ GenAI کورس پالیسی: جائزے سے ماخوذ اجازتیں، شفاف دلیل (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — construct کے لحاظ سے مساوی جائزے کے متغیرات کی تخلیق (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — اساتذہ 31,000 کورس سلیبی میں AI کو کیسے کنٹرول کرتے ہیں؛ سالمیت کی فریمنگ کم ہو رہی ہے (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — کیا طلبہ نقل کر کے حیاتیات کی ڈگری لے سکتے ہیں؟ جنریٹو AI کے دور میں حیاتیات کے کورس نمبروں کی علمی بددیانتی کے سامنے کمزوری کا کیس اسٹڈی
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — طلبہ کا AI استعمال کے اعلانات کی عدم تعمیل
+- [[detecting-llm-generated-text-latent-prompt]] — LLM کے پیدا کردہ متن کی پکڑ
+- [[beyond-detection-authentic-assessment-ai-2025]] — پکڑ سے آگے: AI کے ثالثی والی دنیا میں مستند جائزہ
+- [[ai-assessment-scale-reform]] — AI جائزہ اسکیل اور جائزے کی اصلاح
+- [[authentic-products-authenticated-processes-2026]] — مستند مصنوعات سے تصدیق شدہ عمل تک
+- [[student-rationalization-ai-writing]] — یہ ٹھیک ہے کیونکہ… طلبہ کا AI استعمال کو جائز قرار دینا
+- [[ethical-ai-higher-ed-game-theory]] — اخلاقی AI استعمال کے لیے ہم آہنگی کے کھیل کا فریم ورک
+- [[shame-guilt-ai-regulation-computing-education]] — شرم اور جرم بطور AI استعمال کے سماجی ضابطے
+- [[cross-cultural-student-perceptions-genai-computing]] — کیا ایلس نے غلط کیا؟ AI استعمال کے بین الثقافتی تصورات
+- [[luo-dawson-value-judgments-grading-2026]] — GenAI کی معاونت والے کام کی نمبر بندی میں قدروں کے فیصلے: ایمانداری، بھروسہ، صداقت اور دو طرفہ شفافیت (Luo & Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — GenAI کے ثالثی والے گروپ جائزے میں ساتھیوں کی جوابدہی اور اصلت
+- [[teichmann-detecting-undetectable-misconduct-2026]] — پکڑ کا ثبوتی انہدام اور طریقہ کار کے انصاف، تناسب اور ڈیزائن کی دلیل
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — ناقص معلومات کے تحت روک تھام، انکشاف اور دوبارہ ڈیزائن بطور جائزے کے ڈیزائن کا مسئلہ
+- [[munoz-misconduct-allegation-evidence-2026]] — 1,162 GenAI بدانتظامی کی فائلیں واقعی کس ثبوت پر کھڑی تھیں، اور غائب ثبوتی حد
+- [[wright-transcription-not-generation-2026]] — حد سے زیادہ شامل AI اصول اور نقل نویسی بمقابلہ تخلیق کا فرق
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI پر مبنی ڈیجیٹل نقل اور روک تھام پر مبنی اخلاقی پيدگوجیز: 183 سے 27 کیسز کا واقعہ اور پانچ موضوعاتی دوبارہ ڈیزائن (Leaton Gray, Edsall & Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — سالمیت بطور گورننس کا مسئلہ: تعلیمی گورنروں کے لیے 130 آئٹموں والا اشاروں کا فریم ورک (Coates, Croucher & Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — علمی سالمیت اور GenAI پر اعلیٰ تعلیم کے طلبہ کی آوازوں کے 38 مطالعات کا اسکوپنگ جائزہ (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — EAL لکھنے والوں کے لیے معاونت بمقابلہ متبادل کی لکیر کھینچنا، اور اُن اصولوں کی عدم مساوات جو لسانی پس منظر نظرانداز کرتے ہیں (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — AI کے ثالثی والی جانچ کے خلاف پرامپٹ انجیکشن: چھپی ہوئی ہدایات جو بغیر پکڑے نمبر بدل دیتی ہیں (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — AI استعمال کی اخلاقیات کا میٹرکس: بے چین تعمیل، اور صرف وضاحت طلبہ کو مؤثر بچاؤ کی طرف کیوں دھکیل سکتی ہے (Petricini & Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — جب AI ایجنٹ اسائنمنٹ مکمل کر سکتے ہوں تو استدلال کے نشان کو نمبر دینا (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — AI کے لکھے داخلے کے مضامین وسیع ہیں مگر جرمانہ پاتے ہیں
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — کون عمل کرتا ہے، کون جانتا ہے، کون جواب دیتا ہے؟ جنریٹو AI اعلیٰ تعلیمی تحقیق میں خودآگہی، علمی ذمہ داری اور جوابدہی کا کارپس کی معاونت والا بیانیہ تجزیہ
 
-- [[genai-governance-australian-higher-ed-2026]] - مجاز حد کا نقشہ: آسٹریلوی اعلیٰ تعلیم میں جنریٹو AI گورننس کا تقابلی پالیسی ونیٹ مطالعہ
-- [[argus-academic-integrity-genai-2026]] - Argus: جنریٹو AI کے دور میں علمی سالمیت
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - شعبے کی جانچ کی تلاش: مینڈیٹ والی اور فریم ورک والی یونیورسٹیوں میں جائزے کی نمائش کا کوئی فرق نہیں، ہم آہنگی کے مسئلے کا تجرباتی ہم منصب
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - LMS نشانات سے AI کی معاونت والی نقل کے خطرے کی ابتدائی پیش گوئی، بطور تعلیمی رہنمائی اور بدانتظامی کے ثبوت کے طور پر نہیں
-- [[reddit-genai-education-discourse-analysis-2026]] - تعلیمی Reddit کے ساڑھے تین سال: نفاذ کا غلبہ، اور سالمیت کے تنازعات اساتذہ اور طلبہ کے درمیان ملاقات کی اصل جگہ (Yüce et al. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - سروے تجربہ: طالب علم کے AI استعمال کی متبادل فریمنگ زیادہ GPA والے درخواست دہندگان کو بھرتی اور تنخواہ پر جرمانہ دیتی ہے؛ روبرو امتحان واحد علاج جسے دونوں گروہوں نے چنا
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: Toward a Human-Readable, Machine-Resistant Reading Interface
+- [[genai-governance-australian-higher-ed-2026]] — مجاز حد کا نقشہ: آسٹریلوی اعلیٰ تعلیم میں جنریٹو AI گورننس کا تقابلی پالیسی ونیٹ مطالعہ
+- [[argus-academic-integrity-genai-2026]] — Argus: جنریٹو AI کے دور میں علمی سالمیت
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — شعبے کی جانچ کی تلاش: مینڈیٹ والی اور فریم ورک والی یونیورسٹیوں میں جائزے کی نمائش کا کوئی فرق نہیں، ہم آہنگی کے مسئلے کا تجرباتی ہم منصب
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - LMS نشانات سے AI کی معاونت والی نقل کے خطرے کی ابتدائی پیش گوئی، بطور تعلیمی رہنمائی اور بدانتظامی کے ثبوت کے طور پر نہیں
+- [[reddit-genai-education-discourse-analysis-2026]] — تعلیمی Reddit کے ساڑھے تین سال: نفاذ کا غلبہ، اور سالمیت کے تنازعات اساتذہ اور طلبہ کے درمیان ملاقات کی اصل جگہ (Yüce et al. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — سروے تجربہ: طالب علم کے AI استعمال کی متبادل فریمنگ زیادہ GPA والے درخواست دہندگان کو بھرتی اور تنخواہ پر جرمانہ دیتی ہے؛ روبرو امتحان واحد علاج جسے دونوں گروہوں نے چنا
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Toward a Human-Readable, Machine-Resistant Reading Interface

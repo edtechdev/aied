@@ -11,7 +11,6 @@ ethics: [trust]
 audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: concepts/oral-assessment
 source_updated: "2026-09-30T16:25:27-04:00"

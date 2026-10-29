@@ -5,7 +5,6 @@ type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/distributed-cognition
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

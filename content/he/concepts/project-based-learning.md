@@ -6,7 +6,6 @@ pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/project-based-learning
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -87,5 +86,5 @@ PBL מתחברת ל[[active-learning]], ל[[experiential-learning]], ל[[collabo
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL היא אסטרטגיית למידה דומיננטית ב-CT
 - [[creative-project-approach-ai-early-childhood-2025]] — גישת הפרויקט היצירתית: סוכני בינה מלאכותית ורובוטיקה בתוך גישת הפרויקט בגיל הרך (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD עם סוכני בינה מלאכותית ב-PBL תוכנה קבוצתי
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD עם סוכני בינה מלאכותית ב-PBL תוכנה קבוצתי
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: סטודיו עיצוב VR סוחף עם סוכן הוראה מוטמע, מוערך מול PBL מסורתי (Jin et al. 2026)

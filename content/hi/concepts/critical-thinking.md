@@ -111,7 +111,7 @@ GenAI उपयोग और स्व-रिपोर्ट की गई आ�
 
 ## संबंधित लेख
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 विशेषज्ञों की सहमति: आलोचनात्मक सोच पर रिपोर्ट का सर्वाधिक व्यवधान रेटिंग (माध्य 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 विशेषज्ञों की सहमति: आलोचनात्मक सोच पर रिपोर्ट का सर्वाधिक व्यवधान रेटिंग (माध्य 4.00)
 - [[pearls-epistemic-verification-2026]] — बोधगत स्वायत्तता और AI आउटपुट के सत्यापन के लिए PEARLS ढाँचा (वांग 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI-सहायित लेखन में विमान-संवेदनशील संज्ञानात्मक ऑफलोडिंग (चेन 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — GenAI-एकीकृत अधिगम में आलोचनात्मक सोच का विरोधाभास

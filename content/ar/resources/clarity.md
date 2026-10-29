@@ -19,7 +19,6 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [higher ed, adult learning]
 confidence: high
 connected_resources: [education-agent-skills, id-toolbox]
-reviewed_by: [editor]
 translation_of: resources/clarity
 source_updated: "2026-09-24T05:29:55-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
@@ -252,7 +251,7 @@ AI грамотността е **двуостра** за прекомернат�
 ## Свързани статии
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Оформяне на ранното детство в ерата на AI: компетентности, педагогика и екологична подкрепа (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI грамотност за сигурност: екосистемна рамка за компетентности и платформа за обучение K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Повишаването на етичното измерение на грамотността без рамка за справяне може да остави студентите по-тревожни
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Повишаването на етичното измерение на грамотността без рамка за справяне може да остави студентите по-тревожни
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 валидирани рамки показват AI, разширяваща дигиталната грамотност към етиката, докато човешко-AI сътрудничеството на преподавателите остава недоспецифицирано (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Шест области на компетентност, пет ценности и три нива на прогресия за медиите с обществена услуга
 - [[ai-literacy-heptagon-2026]] — AI Literacy Heptagon

@@ -7,7 +7,6 @@ weight: 60
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
-reviewed_by: [editor]
 translation_of: faqs/equity-ethics-pedagogical-safety-research
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

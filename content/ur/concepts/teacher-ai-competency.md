@@ -166,57 +166,57 @@ ai_assist:
 
 ## منسلک مضامین
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - کون سے اساتذہ کو منصوبہ بندی کا وقت ملا: کم موضوعاتی علم کا اعتماد، کم پيدگوجیکل علم، پیشے میں نئے، یا ٹیکنالوجی میں زیادہ اعتماد
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - اساتذہ AI قبول کرتے ہیں جبکہ یہ نہیں سمجھتے کہ وہ کیسے کام کرتا ہے (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - ریاضی کی تعلیم کے 54 مطالعات میں استاد کی تیاری اور تکنیکی و پيدگوجیکل انضمام سب سے زیادہ رپورٹ شدہ چیلنج کے طور پر (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - ملٹی موڈل جائزے کی لیٹریسی: ایک سالانہ پروگرام جہاں علم اور صلاحیت بڑھے مگر قدریں نہیں
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — کون سے اساتذہ کو منصوبہ بندی کا وقت ملا: کم موضوعاتی علم کا اعتماد، کم پيدگوجیکل علم، پیشے میں نئے، یا ٹیکنالوجی میں زیادہ اعتماد
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — اساتذہ AI قبول کرتے ہیں جبکہ یہ نہیں سمجھتے کہ وہ کیسے کام کرتا ہے (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — ریاضی کی تعلیم کے 54 مطالعات میں استاد کی تیاری اور تکنیکی و پيدگوجیکل انضمام سب سے زیادہ رپورٹ شدہ چیلنج کے طور پر (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — ملٹی موڈل جائزے کی لیٹریسی: ایک سالانہ پروگرام جہاں علم اور صلاحیت بڑھے مگر قدریں نہیں
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK PD: نصف معیاری انحراف کا فائدہ، اور منفی بہتریں جو دوبارہ کیلیبریشن لگتی ہیں - پیشہ ورانہ ترقی کے پروگراموں کا K-12 اساتذہ کی AI literacy پر اثر: ایک منظم جائزہ اور میٹا تجزیہ
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: نصف معیاری انحراف کا فائدہ، اور منفی بہتریں جو دوبارہ کیلیبریشن لگتی ہیں - پیشہ ورانہ ترقی کے پروگراموں کا K-12 اساتذہ کی AI literacy پر اثر: ایک منظم جائزہ اور میٹا تجزیہ
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - اساتذہ نے اپنے کلاس روم کے AI کیسز ٹیگ کیے اور عملی صلاحیتوں تک آسانی سے پہنچے مگر سماجی اور اخلاقی صلاحیتوں تک شاذ و نادر ہی (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] - ٹول کا انتخاب بطور معلم کی خودآگہی کی مشق
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - K-12 تدریس اور سیکھنے میں جنریٹو AI کا منظم جائزہ (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - K-12 AI تعلیم میں استاد کا پیشہ ورانہ علم: TAIK بمقابلہ TPAIK اور طلبہ کی سیکھنا (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - سبق کے ڈیزائن میں تجربے اور AI مہارت کے لحاظ سے استاد اور AI کے تعامل کے نمونے (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] - پری سروس اساتذہ کا ذمہ دار GenAI استعمال: نصابی مضمرات (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - استاد کی پیشہ ورانہ ترقی کے لیے LLM کلاس روم کا مشاہدہ (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - نمائندگیوں، تجزیوں اور تخمینوں میں جنریٹو AI: مشق، منظم فیڈ بیک اور درستگی کی احتیاطیں
-- [[genai-pd-ai-pck-learning-gain-2026]] - ایک شدید GenAI پیشہ ورانہ ترقی پروگرام کی افادیت
-- [[ai-tpack-teacher-multi-agent-workflow]] - استاد کے ملٹی ایجنٹ کام کے بہاؤ کے ذریعے AI-TPACK کی ماڈلنگ
-- [[teacher-ai-teaming-five-levels]] - ہم آہنگ استاد اور AI تعاملات کی طرف
-- [[teacher-education-ai-literacy-sdt-2026]] - خود ارادیت کے نظریے کے ذریعے AI literacy کے لیے استاد کی تعلیم
-- [[genai-literacy-training-teacher-education-dbr-2026]] - ڈیزائن پر مبنی تحقیق والی GenAI literacy تربیت
-- [[rail-ed-genai-literacy-teacher-education]] - استاد کی تعلیم میں GenAI literacy کا نئے سرے سے تصور
-- [[sec-ai-literacy-narrative-review-2026]] - سماجی جذباتی صلاحیتوں کا AI literacy کے ساتھ انضمام
-- [[teacher-ai-adoption-confidence]] - اساتذہ میں AI کا اپنانا: اعتماد اور حمایت
-- [[ai-pedagogical-orientation]] - اساتذہ کے رجحانات AI اپنانے کو شکل دیتے ہیں
-- [[ai-literacy-assessment-misalignment]] - خود رپورٹ شدہ اور کارکردگی پر مبنی AI صلاحیت کے درمیان عدم توازن
-- [[quest-ai-inquiry-preservice-teachers]] - پری سروس اساتذہ کے لیے AI کی معاونت والا استفسار
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - EPIQ-AI اساتذہ کی تیاری کا فریم ورک
-- [[llm-cultural-relevance-k12]] - ثقافتی لحاظ سے متعلقہ K-12 پيدگوجی کے لیے LLMs
-- [[institutional-change-framework-ai]] - AI کے لیے اداراتی تبدیلی کا فریم ورک
-- [[teachingcoach-chatbot-instructor-guidance]] - استاد کی رہنمائی کے لیے TeachingCoach چیٹ بوٹ
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI بحیثیت شناختی بحران، مہارت کے خلا کے طور پر نہیں
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — اساتذہ نے اپنے کلاس روم کے AI کیسز ٹیگ کیے اور عملی صلاحیتوں تک آسانی سے پہنچے مگر سماجی اور اخلاقی صلاحیتوں تک شاذ و نادر ہی (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — ٹول کا انتخاب بطور معلم کی خودآگہی کی مشق
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — K-12 تدریس اور سیکھنے میں جنریٹو AI کا منظم جائزہ (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — K-12 AI تعلیم میں استاد کا پیشہ ورانہ علم: TAIK بمقابلہ TPAIK اور طلبہ کی سیکھنا (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — سبق کے ڈیزائن میں تجربے اور AI مہارت کے لحاظ سے استاد اور AI کے تعامل کے نمونے (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — پری سروس اساتذہ کا ذمہ دار GenAI استعمال: نصابی مضمرات (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — استاد کی پیشہ ورانہ ترقی کے لیے LLM کلاس روم کا مشاہدہ (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — نمائندگیوں، تجزیوں اور تخمینوں میں جنریٹو AI: مشق، منظم فیڈ بیک اور درستگی کی احتیاطیں
+- [[genai-pd-ai-pck-learning-gain-2026]] — ایک شدید GenAI پیشہ ورانہ ترقی پروگرام کی افادیت
+- [[ai-tpack-teacher-multi-agent-workflow]] — استاد کے ملٹی ایجنٹ کام کے بہاؤ کے ذریعے AI-TPACK کی ماڈلنگ
+- [[teacher-ai-teaming-five-levels]] — ہم آہنگ استاد اور AI تعاملات کی طرف
+- [[teacher-education-ai-literacy-sdt-2026]] — خود ارادیت کے نظریے کے ذریعے AI literacy کے لیے استاد کی تعلیم
+- [[genai-literacy-training-teacher-education-dbr-2026]] — ڈیزائن پر مبنی تحقیق والی GenAI literacy تربیت
+- [[rail-ed-genai-literacy-teacher-education]] — استاد کی تعلیم میں GenAI literacy کا نئے سرے سے تصور
+- [[sec-ai-literacy-narrative-review-2026]] — سماجی جذباتی صلاحیتوں کا AI literacy کے ساتھ انضمام
+- [[teacher-ai-adoption-confidence]] — اساتذہ میں AI کا اپنانا: اعتماد اور حمایت
+- [[ai-pedagogical-orientation]] — اساتذہ کے رجحانات AI اپنانے کو شکل دیتے ہیں
+- [[ai-literacy-assessment-misalignment]] — خود رپورٹ شدہ اور کارکردگی پر مبنی AI صلاحیت کے درمیان عدم توازن
+- [[quest-ai-inquiry-preservice-teachers]] — پری سروس اساتذہ کے لیے AI کی معاونت والا استفسار
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI اساتذہ کی تیاری کا فریم ورک
+- [[llm-cultural-relevance-k12]] — ثقافتی لحاظ سے متعلقہ K-12 پيدگوجی کے لیے LLMs
+- [[institutional-change-framework-ai]] — AI کے لیے اداراتی تبدیلی کا فریم ورک
+- [[teachingcoach-chatbot-instructor-guidance]] — استاد کی رہنمائی کے لیے TeachingCoach چیٹ بوٹ
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI بحیثیت شناختی بحران، مہارت کے خلا کے طور پر نہیں
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - GenAI نصابی ڈیزائن کے لیے استاد کی ڈیجیٹل صلاحیت کا جائزہ (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - یونیورسٹی اساتذہ کے AI کے تصورات کا فینومینوگرافک مطالعہ
-- [[ukraine-ai-literacy-secondary-framework-2026]] - پانچ سطحوں والا AI literacy فریم ورک اور یوکرینی ثانوی معلمین کے لیے PD (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - سیکھنے کے کاموں کے اساتذہ اور AI کے مشترکہ ڈیزائن: رجحانات اور نقطہ نظر (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - AI سے ڈیزائن کردہ تفریق شدہ گروپ سرگرمیوں میں کرداروں کا ڈھانچہ (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — GenAI نصابی ڈیزائن کے لیے استاد کی ڈیجیٹل صلاحیت کا جائزہ (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — یونیورسٹی اساتذہ کے AI کے تصورات کا فینومینوگرافک مطالعہ
+- [[ukraine-ai-literacy-secondary-framework-2026]] — پانچ سطحوں والا AI literacy فریم ورک اور یوکرینی ثانوی معلمین کے لیے PD (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — سیکھنے کے کاموں کے اساتذہ اور AI کے مشترکہ ڈیزائن: رجحانات اور نقطہ نظر (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI سے ڈیزائن کردہ تفریق شدہ گروپ سرگرمیوں میں کرداروں کا ڈھانچہ (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - پرامپٹ انجینئرنگ اور ماڈل کا انتخاب بطور AI فیڈ بیک کے معیار کے پیش گو (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - AI جرم کا احاطہ: تعلیمی عملے میں پیشگی جرم کا احساس اور چار اخلاقی ردعمل کے پروفائل (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - تین گھنٹے کے استاد PD سیشن نے سمجھی جانے والی افادیت اور آسانی بڑھائی مگر اپنانے کا اظہار شدہ ارادہ نہیں (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - پری سروس پرائمری ریاضی کے استاد کی تربیت میں AI کا منظم جائزہ: اخلاقیات کا ذکر گیارہ میں سے صرف تین مطالعات میں (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon کا 1,057 امریکی اساتذہ کا سروے: تیاری، عدم استعمال اور انفرادی بمقابلہ اداراتی پالیسی کا خلا (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - بین الادارتی اساتذہ کی مشترکہ تجربہ گاہ: استاد کی تیاری میں AI انضمام بطور تدریسی ڈیزائن
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - استاد کی AI literacy کی پیمائش کے 33 آلات کا منظم جائزہ: 31 خود اطلاعی، دو معروضی علم کے امتحانات، کوئی کارکردگی کا کام نہیں (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - ڈیزائن پر مبنی موافق AI literacy ماڈل اور 22 استاد کے معلمین کے ساتھ مشترکہ ڈیزائن کردہ 20 آئٹموں والا عکاسی پرچہ (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - غیر یقینی وقت میں AI کے مؤثر استعمال کے لیے ورکشاپ سلسلہ: فزکس اساتذہ کی تعلمی برادری بنانا
-- [[authentic-assessments-generative-ai-pilot-2026]] - جنریٹو AI کے ساتھ مستند جائزے ڈیزائن کرنا: اعلیٰ تعلیم میں Assessment Authentifire کا پائلٹ مطالعہ
-- [[teachers-configure-educational-chatbots-2026]] - کیا یہ ارادے کے مطابق سکھائے گا؟ اساتذہ تعلیمی AI چیٹ بوٹس کیسے ترتیب دیتے ہیں
-- [[capability-decision-model-teacher-readiness-2026]] - صلاحیت کو اولیت دینے والا ترتیب وار استاد کی تیاری کا ماڈل، کارکردگی پر مبنی صلاحیت کے اشاروں کے ساتھ
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - 1,405 K-12 اساتذہ کا بین الاقوامی سروے: تیاری مثبت عقائد کی پیش گوئی کرتی ہے مگر تشویش کی نہیں
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - TALIS 2024 کے چار استاد عقیدہ پروفائل پیشہ ورانہ تعلم اور AI استعمال کی پروفائل مخصوص رکاوٹوں کو جوڑتے ہیں
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - ووکیشنل استاد کی تعلیم میں یونیورسٹی اساتذہ کے لیے AI پر مائیکرو لرننگ ماڈیولز کا ڈیزائن: ایک ڈیزائن پر مبنی تحقیقی مطالعہ
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: استاد کی ترتیب دیے گئے چیٹ بوٹس حقیقی استعمال میں کیسے ناکام ہوتے ہیں اور اُنہیں کیسے درست کیا جائے
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — پرامپٹ انجینئرنگ اور ماڈل کا انتخاب بطور AI فیڈ بیک کے معیار کے پیش گو (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI جرم کا احاطہ: تعلیمی عملے میں پیشگی جرم کا احساس اور چار اخلاقی ردعمل کے پروفائل (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — تین گھنٹے کے استاد PD سیشن نے سمجھی جانے والی افادیت اور آسانی بڑھائی مگر اپنانے کا اظہار شدہ ارادہ نہیں (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — پری سروس پرائمری ریاضی کے استاد کی تربیت میں AI کا منظم جائزہ: اخلاقیات کا ذکر گیارہ میں سے صرف تین مطالعات میں (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon کا 1,057 امریکی اساتذہ کا سروے: تیاری، عدم استعمال اور انفرادی بمقابلہ اداراتی پالیسی کا خلا (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — بین الادارتی اساتذہ کی مشترکہ تجربہ گاہ: استاد کی تیاری میں AI انضمام بطور تدریسی ڈیزائن
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — استاد کی AI literacy کی پیمائش کے 33 آلات کا منظم جائزہ: 31 خود اطلاعی، دو معروضی علم کے امتحانات، کوئی کارکردگی کا کام نہیں (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — ڈیزائن پر مبنی موافق AI literacy ماڈل اور 22 استاد کے معلمین کے ساتھ مشترکہ ڈیزائن کردہ 20 آئٹموں والا عکاسی پرچہ (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — غیر یقینی وقت میں AI کے مؤثر استعمال کے لیے ورکشاپ سلسلہ: فزکس اساتذہ کی تعلمی برادری بنانا
+- [[authentic-assessments-generative-ai-pilot-2026]] — جنریٹو AI کے ساتھ مستند جائزے ڈیزائن کرنا: اعلیٰ تعلیم میں Assessment Authentifire کا پائلٹ مطالعہ
+- [[teachers-configure-educational-chatbots-2026]] — کیا یہ ارادے کے مطابق سکھائے گا؟ اساتذہ تعلیمی AI چیٹ بوٹس کیسے ترتیب دیتے ہیں
+- [[capability-decision-model-teacher-readiness-2026]] — صلاحیت کو اولیت دینے والا ترتیب وار استاد کی تیاری کا ماڈل، کارکردگی پر مبنی صلاحیت کے اشاروں کے ساتھ
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — 1,405 K-12 اساتذہ کا بین الاقوامی سروے: تیاری مثبت عقائد کی پیش گوئی کرتی ہے مگر تشویش کی نہیں
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024 کے چار استاد عقیدہ پروفائل پیشہ ورانہ تعلم اور AI استعمال کی پروفائل مخصوص رکاوٹوں کو جوڑتے ہیں
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — ووکیشنل استاد کی تعلیم میں یونیورسٹی اساتذہ کے لیے AI پر مائیکرو لرننگ ماڈیولز کا ڈیزائن: ایک ڈیزائن پر مبنی تحقیقی مطالعہ
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: استاد کی ترتیب دیے گئے چیٹ بوٹس حقیقی استعمال میں کیسے ناکام ہوتے ہیں اور اُنہیں کیسے درست کیا جائے

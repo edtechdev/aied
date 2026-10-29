@@ -12,7 +12,6 @@ institutions: [educational-policy-ai, governance]
 ethics: [differential-effects-across-learner-groups, equity-in-ai-education, privacy, pedagogical-safety]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/education-levels
 source_updated: "2026-09-28T21:44:10-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

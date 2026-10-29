@@ -17,7 +17,6 @@ level: [higher ed]
 audience: [instructors, learners, researchers, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [openmaic]
-reviewed_by: [editor]
 translation_of: resources/deeptutor
 source_updated: "2026-09-20T17:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

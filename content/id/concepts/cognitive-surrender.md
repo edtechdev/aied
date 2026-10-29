@@ -127,16 +127,16 @@ Bukti bagi penyerahan sebagai konstruk bernama sangat bergantung pada satu progr
 
 ## Artikel Terkait
 
-- [[shaw-nave-cognitive-surrender-2026]]: Tri-System Theory dan jejak eksperimental penyerahan
-- [[generative-ai-reduced-study-time-math]]: pergeseran pada tingkat populasi di ALEKS
-- [[young-people-learning-generative-ai-rapid-review-2026]]: kerangka penyerahan/offloading/agensi di PreK-12
-- [[du-yuan-epistemic-dependence-2026]]: bantuan instrumental versus bantuan yang mengandung penilaian
-- [[ai-advice-suppresses-ikt-suspension-2026]]: runtuhnya "saya tidak tahu"
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]: keterlibatan neural dan kepengarangan
-- [[genai-thoughtless-use-self-directed-learning-2026]]: penggunaan tanpa pikir dan pembelajaran terarah mandiri
-- [[stamatoulis-genai-use-patterns-2026]]: penggunaan dengan verifikasi rendah versus integrasi evaluatif
-- [[cognitive-washout-ai-skill-decay-2026]]: apa yang terjadi setelah penarikan
-- [[ai-overreliance-complex-adaptive-system-2026]]: ketergantungan sebagai proses populasi
-- [[brcic-effortless-trap-productive-struggle-2026]]: menempatkan AI agar tugas tetap menuntut usaha
-- [[metacognitive-training-optimal-cognitive-offloading-2026]]: pelatihan kalibrasi
-- [[family-school-autonomy-support-genai-2026]]: offloading dependen versus otonom
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory dan jejak eksperimental penyerahan
+- [[generative-ai-reduced-study-time-math]] — pergeseran pada tingkat populasi di ALEKS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — kerangka penyerahan/offloading/agensi di PreK-12
+- [[du-yuan-epistemic-dependence-2026]] — bantuan instrumental versus bantuan yang mengandung penilaian
+- [[ai-advice-suppresses-ikt-suspension-2026]] — runtuhnya "saya tidak tahu"
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — keterlibatan neural dan kepengarangan
+- [[genai-thoughtless-use-self-directed-learning-2026]] — penggunaan tanpa pikir dan pembelajaran terarah mandiri
+- [[stamatoulis-genai-use-patterns-2026]] — penggunaan dengan verifikasi rendah versus integrasi evaluatif
+- [[cognitive-washout-ai-skill-decay-2026]] — apa yang terjadi setelah penarikan
+- [[ai-overreliance-complex-adaptive-system-2026]] — ketergantungan sebagai proses populasi
+- [[brcic-effortless-trap-productive-struggle-2026]] — menempatkan AI agar tugas tetap menuntut usaha
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — pelatihan kalibrasi
+- [[family-school-autonomy-support-genai-2026]] — offloading dependen versus otonom

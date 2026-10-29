@@ -10,7 +10,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
-reviewed_by: [editor]
 translation_of: concepts/active-learning
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."

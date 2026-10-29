@@ -9,7 +9,6 @@ audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/teacher-role
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -204,7 +203,7 @@ ai_assist:
 
 ## المقالات المتصلة
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - الأكاديميون غير المتفرّغين يحملون عمل النزاهة دون السلطة
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — الأكاديميون غير المتفرّغين يحملون عمل النزاهة دون السلطة
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — مفارقة الأكثر إنسانية: سيناريوهات خبراء لعام 2030 تجد إشباع الذكاء الاصطناعي يشتدّ بدل أن يزيح العمل التربوي البشري (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — ست دروس مُراقَبة في رياضيات المرحلة الثانوية تُوسّع التنسيق الأداتي بثلاثة أنواع جديدة (Noh & Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — الاستجابة لتنبيهات انفعالية مولَّدة بالذكاء الاصطناعي: تدخّل المعلّمين وانخراط الطلاب في صف الرياضيات

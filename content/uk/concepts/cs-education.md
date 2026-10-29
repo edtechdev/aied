@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: Освіта з комп’ютерних наук (CS Education)
 created: "2026-10-13T21:15:00-04:00"
 type: concept
@@ -9,7 +9,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cs-education
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -188,7 +187,7 @@ ai_assist:
 - [[llm-adaptive-programming-error-explanations-2026]] — адаптивні до великих мовних моделей пояснення помилок програмування
 - [[soft-barriers-copying-ai-programming-2026]] — опір копіюванню-вставленню в програмуванні з підтримкою ШІ
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - розробка на основі специфікацій із агентами ШІ в проєктному курсі з розробки ПЗ; пропускна здатність проти розуміння
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — розробка на основі специфікацій із агентами ШІ в проєктному курсі з розробки ПЗ; пропускна здатність проти розуміння
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: benchmarking models' capacity to generate strategic misconceptions across the CS curriculum
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — ред-тимінг ін’єкції підказок в оцінюванні з опосередкуванням ШІ: приховані інструкції, що непомітно зсувають оцінку

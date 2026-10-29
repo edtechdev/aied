@@ -149,7 +149,7 @@ Le [[well-being|bien-être]] est l'état positif large (santé émotionnelle, ps
 ## Articles liés
 
 - [[chatbots-oral-proficiency-efl-systematic-review]] — Un agent ressemblant à un examinateur a élevé en même temps la performance à l'oral et l'anxiété
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - La compétence élève la conscience éthique, la conscience éthique élève l'anxiété face à l'IA : médiation exclusivement indirecte parmi 584 étudiants
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La compétence élève la conscience éthique, la conscience éthique élève l'anxiété face à l'IA : médiation exclusivement indirecte parmi 584 étudiants
 - [[ai-anxiety-strategic-regulation-writing-2026]] — L'anxiété face à l'IA comme signal productif de régulation stratégique
 - [[aivaluate-anxiety-assessment-2026]] — L'anxiété des étudiants dans l'évaluation de performance médiée par l'IA
 - [[ai-campus-wellbeing-tools]] — Outils de bien-être sur le campus pilotés par l'IA

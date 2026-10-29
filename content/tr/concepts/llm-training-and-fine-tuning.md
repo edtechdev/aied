@@ -11,7 +11,6 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-reviewed_by: [editor]
 translation_of: concepts/llm-training-and-fine-tuning
 source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

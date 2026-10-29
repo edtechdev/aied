@@ -9,7 +9,6 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/critical-thinking
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -108,7 +107,7 @@ Ufikiri mahususi unakutana na [[scaffolding]] (kubuni msaada wa AI unaohifadhi m
 - [[cognitive-surrender]]
 
 ## Makala Zilizounganishwa
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Makubaliano ya wataalam 30: ufikiri mahususi hubeba ratingi ya juu zaidi ya kuvuruga ya ripoti (wastani 4.00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Makubaliano ya wataalam 30: ufikiri mahususi hubeba ratingi ya juu zaidi ya kuvuruga ya ripoti (wastani 4.00)
 - [[pearls-epistemic-verification-2026]] — Mfumo wa PEARLS kwa wakala wa maarifa na kuthibitisha matokeo ya AI (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Upunguzaji wa mzigo wa kiakili unaotambua safu katika uandishi unaosaidiwa na GenAI (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — Dhana potofu ya ufikiri mahususi katika kujifunza kuliounganishwa na GenAI

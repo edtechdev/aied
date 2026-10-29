@@ -17,7 +17,6 @@ level: [higher ed]
 audience: [learners, instructors, researchers]
 confidence: high
 connected_resources: [pressing-prompts]
-reviewed_by: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation

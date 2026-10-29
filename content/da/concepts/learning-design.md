@@ -109,8 +109,8 @@ Fowlin et al. (2026) tilføjer et operationelt greb til at afgøre, hvor AI komm
 ## Forbundne begreber
 
 - [[interpreting-and-applying-aied-research]]
-- [[pedagogical-partnerships]]: Pædagogiske partnerskaber
-- [[online-teaching-and-learning]]: Online undervisning og læring
+- [[pedagogical-partnerships]] — Pædagogiske partnerskaber
+- [[online-teaching-and-learning]] — Online undervisning og læring
 - [[curriculum-design]]
 - [[scaffolding]]
 - [[educational-development]]
@@ -131,19 +131,19 @@ Fowlin et al. (2026) tilføjer et operationelt greb til at afgøre, hvor AI komm
 - [[learning-gains]]
 - [[behaviorism]]
 - [[educational-technology-developers]]
-- [[pedagogy]]: Paraply: pædagogikker og undervisningsstrategier i AI-uddannelse
-- [[stakeholders]]: Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
+- [[pedagogy]] — Paraply: pædagogikker og undervisningsstrategier i AI-uddannelse
+- [[stakeholders]] — Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
 
 ## Forbundne artikler
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]]: En målt besparelse i planlægningstid side om side med fundet, at lærere kun planlægger 21% til 40% af lektionerne fra bunden
-- [[powerful-learning-with-emerging-technology-2025]]: Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]]: Læringsanalyser og GenAI i beslutningstagning om læringsdesign
-- [[tang-chatbots-learning-design-2026]]: Chatbotbrug i læringsdesign: designere dvæler ved mål og pædagogik frem for indholdsgenerering (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]]: Mønstre i lærer-AI-interaktion i lektionsdesign på tværs af erfaring og AI-færdighed (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]]: AI i videregående uddannelse: engagement og undervisningsmetodernes medierende rolle
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — En målt besparelse i planlægningstid side om side med fundet, at lærere kun planlægger 21% til 40% af lektionerne fra bunden
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Læringsanalyser og GenAI i beslutningstagning om læringsdesign
+- [[tang-chatbots-learning-design-2026]] — Chatbotbrug i læringsdesign: designere dvæler ved mål og pædagogik frem for indholdsgenerering (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mønstre i lærer-AI-interaktion i lektionsdesign på tværs af erfaring og AI-færdighed (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI i videregående uddannelse: engagement og undervisningsmetodernes medierende rolle
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]]: Taksonomi (grænseobjekt) til klassifikation af GenAI-læringsaktiviteter
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomi (grænseobjekt) til klassifikation af GenAI-læringsaktiviteter
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin et al. (2026) tilføjer et operationelt greb til at afgøre, hvor AI komm
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]]: AI-webagenter: en autonom webagent evaluerer lektionsdesigns og forudsiger studerendes frafald, før de engagerer sig (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]]: AIRIS: en ramme for kognitivt aktiveret AI-forstærkning i fysik
+- [[ai-web-agents-lesson-design-2025]] — AI-webagenter: en autonom webagent evaluerer lektionsdesigns og forudsiger studerendes frafald, før de engagerer sig (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: en ramme for kognitivt aktiveret AI-forstærkning i fysik
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]]: Design for rækkevidde: syv greb og den studerende alene med AI
+- [[halani-designing-for-reach-2026]] — Design for rækkevidde: syv greb og den studerende alene med AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]]: Når et nej giver bedre videoer: dobbelt gatekeeping for pædagogisk forankret AI-indholdsskabelse
-- [[rhaimi-productivemath-2025]]: ProductiveMath: AI til at understøtte design af produktivt-nederlag-opgaver
-- [[kibar-ilgaz-ai-instructional-design-review-2026]]: AI og instruktionsdesignpraksis: en systematisk gennemgang (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]]: Grafbaseret intelligent vejledning i dynamiske domæner (2026)
-- [[making-ai-annoying-constrained-writing-2026]]: At gøre AI irriterende med vilje: begrænsning i AI-understøttet skrivning (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]]: Smartklasserumsmodel og D-T-E-loop, der forbedrer instruktionsdesignkompetence på kandidatniveau i matematik (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]]: AI-drevet platform, der genererer matematiske modelleringsopgaver (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]]: Lærer-AI-samdesign af læringsopgaver: tendenser og perspektiver (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]]: Arkitektur af roller i AI-designede differentierede gruppeaktiviteter (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]]: LLM'er som agenter for iterativt pædagogisk design
+- [[ai-video-dual-gatekeeping-2026]] — Når et nej giver bedre videoer: dobbelt gatekeeping for pædagogisk forankret AI-indholdsskabelse
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI til at understøtte design af produktivt-nederlag-opgaver
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI og instruktionsdesignpraksis: en systematisk gennemgang (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Grafbaseret intelligent vejledning i dynamiske domæner (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — At gøre AI irriterende med vilje: begrænsning i AI-understøttet skrivning (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Smartklasserumsmodel og D-T-E-loop, der forbedrer instruktionsdesignkompetence på kandidatniveau i matematik (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — AI-drevet platform, der genererer matematiske modelleringsopgaver (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Lærer-AI-samdesign af læringsopgaver: tendenser og perspektiver (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arkitektur af roller i AI-designede differentierede gruppeaktiviteter (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM'er som agenter for iterativt pædagogisk design

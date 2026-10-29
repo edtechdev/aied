@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -249,7 +248,7 @@ ai_assist:
 
 - [[early-childhood-ai-holistic-competencies-review-2026]] — تشكيل الطفولة المبكرة في عصر الذكاء الاصطناعي: الكفاءات وطرائق التدريس والدعم البيئي (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — ثقافة الأمن في الذكاء الاصطناعي: إطار كفاءات قائم على المنظومة ومنصة تعلّم لمرحلة K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - الرفع بالبعد الأخلاقي للثقافة دون إطار مواجهة قد يترك الطلاب أكثر قلقًا
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — الرفع بالبعد الأخلاقي للثقافة دون إطار مواجهة قد يترك الطلاب أكثر قلقًا
 - [[caeai-digital-literacy-frameworks-review-2026]] — ثمانون إطارًا مُوثَّقًا تُظهر الذكاء الاصطناعي وهو يوسّع الثقافة الرقمية نحو الأخلاقيات بينما يبقى تعاون المعلمين مع الذكاء الاصطناعي محدَّدًا محدوديةً (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — ستة مجالات كفاءة، وخمس قيم، وثلاثة مستويات تدرّج لإعلام الخدمة العامة
 - [[ai-literacy-heptagon-2026]] — إطار ثقافة الذكاء الاصطناعي السُّباعي

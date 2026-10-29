@@ -1,5 +1,5 @@
 ---
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: सुगम्यता
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-10-14T22:00:00-04:00"

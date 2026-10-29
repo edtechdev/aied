@@ -10,7 +10,7 @@ resource_type: [collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-26"
-foundations: [academic-integrity, learning-design, educational-development]
+foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
 ethics: [accessibility, universal-design-for-learning]
@@ -31,7 +31,6 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-reviewed_by: [editor]
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

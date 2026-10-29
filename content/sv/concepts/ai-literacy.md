@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
@@ -247,7 +246,7 @@ Specifikt för kritisk AI-kompetens visar [[solyst-youth-systematic-evaluation-g
 ## Anslutna artiklar
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Att forma tidig barndom i AI-eran: kompetenser, pedagogik och ekologiskt stöd (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-säkerhetskompetens: ekosystembaserat kompetensramverk och lärplattform för K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Att höja kompetensens etiska dimension utan ett hanteringsramverk kan lämna elever mer oroliga
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Att höja kompetensens etiska dimension utan ett hanteringsramverk kan lämna elever mer oroliga
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validerade ramverk visar att AI expanderar digital kompetens mot etik medan pedagogers människa–AI-samarbete förblir underspecificerat (Guo m.fl. 2026)
 - [[ai-literacies-young-adults-2025]] — Sex kompetensområden, fem värden och tre progressionsnivåer för public service-media
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

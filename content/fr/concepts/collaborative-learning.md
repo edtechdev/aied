@@ -124,7 +124,7 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 
 ## Articles liés
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consensus de 30 experts constate un risque social unilatéral : les processus de collaboration vulnérables sans voie d'amélioration
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consensus de 30 experts constate un risque social unilatéral : les processus de collaboration vulnérables sans voie d'amélioration
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données probantes émergentes d'une revue systématique et d'une méta-analyse à trois niveaux
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

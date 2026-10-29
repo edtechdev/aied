@@ -8,7 +8,6 @@ technology: [generative-ai]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
-reviewed_by: [editor]
 translation_of: concepts/creativity
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

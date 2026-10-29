@@ -176,7 +176,7 @@ La même logique transforme le façonnement de la récompense en outil de concep
 
 - [[ai-proof-learning-cognitive-offloading-2026]] — Soutenir ou remplacer le raisonnement des étudiants ? Le délestage cognitif dans l'apprentissage des démonstrations assisté par l'IA (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Ce que la soumission ne montre pas : complexifier le délestage cognitif dans le travail mathématique des étudiants avec les LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Un consensus de 30 experts sur 65 processus d'apprentissage : le délestage aux deux extrémités de la séquence d'apprentissage
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consensus de 30 experts sur 65 processus d'apprentissage : le délestage aux deux extrémités de la séquence d'apprentissage
 - [[rented-self-decoupling-performance-becoming-2026]] — Le soi loué : un délestage qui coûte le soi disciplinaire de l'apprenant, et pas seulement la compétence
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Des groupes partis pareils ont divergé : 74.1% d'appropriation du modèle dans un profil contre 80.8% de délestage et d'impasse dans un autre (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — L'assistance de l'IA a réduit la persévérance et la performance sans aide sur trois ECR (Liu et al. 2026)
@@ -214,5 +214,5 @@ La même logique transforme le façonnement de la récompense en outil de concep
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Tendance au délestage et littératie de vérification prédisant les résultats de haut niveau par l'autorégulation métacognitive (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Une invite de réflexion réduit l'acceptation de conseils d'IA incorrects et améliore le calibrage de la conscience (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — La dépendance à l'IA générative comme condition limite de la disposition à la pensée critique et de l'employabilité perçue de soi (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Les enfants ont montré une connectivité frontopariétale, de saillance et d'attention dorsale plus faible que les adultes en conversationnant avec ChatGPT, à scores de créativité égaux
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Les enfants ont montré une connectivité frontopariétale, de saillance et d'attention dorsale plus faible que les adultes en conversationnant avec ChatGPT, à scores de créativité égaux
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — L'IA générative et la pensée créative des enfants : dépendance excessive et dépendance aux invites dans une revue de cadrage (Niu et al. 2026)

@@ -114,20 +114,20 @@ Học sinh còn bị định khung bởi truyền thông rộng hơn và diễn 
 - [[misconceptions]]
 
 ## Bài viết liên quan
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Đồng thuận của 30 chuyên gia về trình tự: tiếp thu không có GenAI, củng cố với nó, rồi tự mình suy nghĩ
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Đồng thuận của 30 chuyên gia về trình tự: tiếp thu không có GenAI, củng cố với nó, rồi tự mình suy nghĩ
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Lý lẽ minh bạch cho từng việc sử dụng GenAI được phép và không được phép, theo từng nhiệm vụ (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - Khuyến khích sử dụng GenAI phù hợp thay vì lên án nó như một sự phá vỡ
-- [[student-rationalization-ai-writing]] - "Năm điểm" nơi học sinh duy lý hóa việc dùng AI trong viết học thuật
-- [[student-regulatory-awareness-genai]] - Biết quy tắc là chưa đủ: nhận thức quy định và việc sử dụng thực tế
-- [[ai-anxiety-strategic-regulation-writing-2026]] - Từ lo âu về AI đến điều chỉnh có chiến lược
-- [[chatgpt-inoculation-training-verification-2026]] - Thông điệp tiêm nhiễm và hành vi kiểm chứng
-- [[ai-fallibility-warning-help-seeking]] - Cảnh báo về khả năng sai của AI làm tăng việc tìm kiếm sự giúp đỡ
-- [[shame-guilt-ai-regulation-computing-education]] - Xấu hổ và tội lỗi như những yếu tố điều chỉnh xã hội việc dùng AI
-- [[access-not-enough-ai-tutoring-2026]] - Hỗ trợ con người cải thiện sự tham gia với gia sư AI
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - Sự tham gia với GenAI dựa trên SDT
-- [[ai-availability-student-motivation]] - Việc có sẵn AI định hình động lực của học sinh như thế nào
-- [[youtube-frames-chatgpt-education]] - YouTube định khung việc dùng ChatGPT trong giáo dục như thế nào
-- [[ai-ethics-education-public-discourse]] - Diễn ngôn công chúng về đạo đức AI trong giáo dục
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Giảng viên định khung AI như việc sử dụng phê phán/có trách nhiệm; nhà tuyển dụng định khung nó như năng suất
-- [[ssaho-ai-academic-integrity-review-2025]] - Xây dựng văn hóa liêm chính học thuật qua kỳ vọng rõ ràng
+- [[mccorkle-aligned-genai-course-policy-2025]] — Lý lẽ minh bạch cho từng việc sử dụng GenAI được phép và không được phép, theo từng nhiệm vụ (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Khuyến khích sử dụng GenAI phù hợp thay vì lên án nó như một sự phá vỡ
+- [[student-rationalization-ai-writing]] — "Năm điểm" nơi học sinh duy lý hóa việc dùng AI trong viết học thuật
+- [[student-regulatory-awareness-genai]] — Biết quy tắc là chưa đủ: nhận thức quy định và việc sử dụng thực tế
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Từ lo âu về AI đến điều chỉnh có chiến lược
+- [[chatgpt-inoculation-training-verification-2026]] — Thông điệp tiêm nhiễm và hành vi kiểm chứng
+- [[ai-fallibility-warning-help-seeking]] — Cảnh báo về khả năng sai của AI làm tăng việc tìm kiếm sự giúp đỡ
+- [[shame-guilt-ai-regulation-computing-education]] — Xấu hổ và tội lỗi như những yếu tố điều chỉnh xã hội việc dùng AI
+- [[access-not-enough-ai-tutoring-2026]] — Hỗ trợ con người cải thiện sự tham gia với gia sư AI
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Sự tham gia với GenAI dựa trên SDT
+- [[ai-availability-student-motivation]] — Việc có sẵn AI định hình động lực của học sinh như thế nào
+- [[youtube-frames-chatgpt-education]] — YouTube định khung việc dùng ChatGPT trong giáo dục như thế nào
+- [[ai-ethics-education-public-discourse]] — Diễn ngôn công chúng về đạo đức AI trong giáo dục
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Giảng viên định khung AI như việc sử dụng phê phán/có trách nhiệm; nhà tuyển dụng định khung nó như năng suất
+- [[ssaho-ai-academic-integrity-review-2025]] — Xây dựng văn hóa liêm chính học thuật qua kỳ vọng rõ ràng

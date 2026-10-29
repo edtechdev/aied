@@ -29,7 +29,6 @@ ai_assist:
     role: drafting
     date: "2026-09-24"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/writing-rhetoric-studies-in-the-loop
 source_updated: "2026-09-24T05:36:18-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

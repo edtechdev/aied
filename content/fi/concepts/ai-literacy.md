@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
@@ -255,7 +254,7 @@ Erityisesti kriittisen tekoälylukutaidon osalta [[solyst-youth-systematic-evalu
 ## Liittyvät artikkelit
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Varhaislapsuuden muovaaminen tekoälyn aikakaudella: kompetenssit, pedagogiikka ja ekologinen tuki (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Tekoälyturvallisuuden lukutaito: ekosysteemipohjainen kompetenssikehys ja K-12-oppimisalusta
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Lukutaidon eettisen ulottuvuuden korottaminen ilman selviytymiskehystä voi jättää opiskelijat ahdistuneemmiksi
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Lukutaidon eettisen ulottuvuuden korottaminen ilman selviytymiskehystä voi jättää opiskelijat ahdistuneemmiksi
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validoitua viitekehystä osoittavat tekoälyn laajentavan digitaalista lukutaitoa kohti etiikkaa samalla kun kouluttajien ihmisen ja tekoälyn yhteistyö jää vähän määritellyksi (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Kuusi kompetenssialuetta, viisi arvoa ja kolme etenemistasoa julkisen palvelun medialle
 - [[ai-literacy-heptagon-2026]] — Tekoälylukutaidon heptagoni

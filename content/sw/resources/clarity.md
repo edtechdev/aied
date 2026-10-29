@@ -32,7 +32,6 @@ ai_assist:
 translation_of: resources/clarity
 source_updated: "2026-09-24T05:29:55-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
-reviewed_by: [editor]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*

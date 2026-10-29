@@ -89,5 +89,5 @@ Le PjBL se relie à l'[[active-learning|apprentissage actif]], à l'[[experienti
 - [[educational-robotics-pathways-2026]] — Chemins vers l'apprentissage de la robotique éducative assistée par IA (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Le PjBL est une stratégie dominante d'apprentissage de la pensée computationnelle
 - [[creative-project-approach-ai-early-childhood-2025]] — La Creative Project Approach : agents d'IA et robotique au sein de l'Approche par projet dans la petite enfance (Yang, Li et Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD avec agents d'IA dans le PjBL logiciel en équipe
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD avec agents d'IA dans le PjBL logiciel en équipe
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL : un studio de design VR immersif doté d'un agent d'enseignement intégré, évalué par rapport au PjBL traditionnel (Jin et coll. 2026)

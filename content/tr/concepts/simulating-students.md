@@ -7,7 +7,6 @@ foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
 audience: [instructors]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/simulating-students
 source_updated: "2026-10-10T14:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

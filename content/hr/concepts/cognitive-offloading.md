@@ -192,45 +192,45 @@ Ista logika pretvara oblikovanje nagrada u dizajnerski alat: [[assistance-dilemm
 - [[cognitive-surrender]]
 
 ## Povezani članci
-- [[ai-proof-learning-cognitive-offloading-2026]] - Podržava ili zamjenjuje studentsko rezoniranje? Kognitivno rasterećenje u učenju dokazivanja uz pomoć umjetne inteligencije (Chen i sur. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Što predaja ne pokazuje: kompleksifikacija kognitivnog rasterećenja u studentskom matematičkom radu s LLM-ovima (Kontorovich i Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsenzus 30 stručnjaka o 65 procesa učenja: rasterećenje na oba kraja slijeda učenja
-- [[rented-self-decoupling-performance-becoming-2026]] - Iznajmljeni self: rasterećenje koje stoji domenski self učenika, a ne samo vještinu
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Skupine koje su počele jednako su se razišle: 74,1 % prihvaćanja modela u jednom profilu nasuprot 80,8 % rasterećenja i blokade u drugom (Kilinc i sur. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Podrška umjetne inteligencije smanjila je istrajnost i izvedbu bez pomoći u tri RCT-a (Liu i sur. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT kao kognitivna štaka: randomizirano kontrolirano ispitivanje zadržavanja znanja 45 dana kasnije (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Od kognitivnog preuzimanja do preraspodjele: 3P analiza studentskog angažiranja s generativnom umjetnom inteligencijom u nenadziranim procjenama (Yan i sur. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Obiteljska i školska podrška autonomiji za odgovornu dječju upotrebu generativne umjetne inteligencije
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Suvišno nasuprot korisnom trenju: zašto se rasterećenje umjetnom inteligencijom razlikuje od ranijih alata
-- [[thermomix-genai-education-analogy-2026]] - S Thermomixom gubite sposobnost kuhanja: analogija kuhinjskog stroja za generativnu umjetnu inteligenciju u obrazovanju (Rummel, Nachtigall i Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - Kognitivno ispiranje: dinamika propadanja vještina izazvanog umjetnom inteligencijom nakon povlačenja
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Kritička narativna sinteza angažiranja i ovisnosti o konverzacijskoj umjetnoj inteligenciji
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Slojevito osjetljivo kognitivno rasterećenje u pisanju uz pomoć generativne umjetne inteligencije (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Epistemička ovisnost u učenju posredovanom umjetnom inteligencijom: šest dijagnostičkih kriterija koji odvajaju produktivno oslanjanje od štetne ovisnosti (Du i Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Kognitivno rasterećenje generativnom umjetnom inteligencijom kod učenika s teškoćama u učenju
-- [[lodge-loble-cognitive-offloading-2026]] - Umjetna inteligencija, kognitivno rasterećenje i implikacije za obrazovanje
-- [[cognitive-offloading-metacognitive-review-2026]] - Metakognitivni uvidi u kognitivno rasterećenje (Guo i Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Metakognitivna obuka potiče optimalno kognitivno rasterećenje (Ngai i Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Paradoks kritičkog mišljenja u učenju integriranom s generativnom umjetnom inteligencijom
-- [[cognitive-offloading-speedup-illusion]] - Iluzija ubrzanja rada uz pomoć umjetne inteligencije
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Analiza mreže supojavljivanja obrazaca poticaja
-- [[shaw-nave-cognitive-surrender-2026]] - Teorija triju sustava i kognitivna predaja: kako umjetna inteligencija preoblikuje ljudsko rezoniranje (Shaw i Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kontinuum predaje, rasterećenja i djelotvornosti za generativnu umjetnu inteligenciju
-- [[ai-making-us-stupid]] - Istraživanje kognitivnih učinaka umjetne inteligencije i potiskivanja učenja
-- [[brcic-effortless-trap-productive-struggle-2026]] - Zamka bez napora: umjetna inteligencija zamjenjuje kognitivni rad (Brcic i Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Nepromišljena upotreba umjetne inteligencije erodira samousmjereno učenje
-- [[generative-ai-guardrails-harm-learning]] - RCT-ovi iz srednjoškolske matematike o nezaštićenoj generativnoj umjetnoj inteligenciji
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Kazna za učenje generativne umjetne inteligencije: preuzimanje domaće zadaće šteti učenju
-- [[coach-not-crutch-ai-writing]] - Umjetna inteligencija može raditi manje, a naučiti više (Lira i sur. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Produktivno podučavanje umjetnom inteligencijom: matematička vježba utemeljena na ovladavanju
-- [[cognitive-commons-ai-expertise-regeneration]] - Tragedija kognitivnog zajedničkog dobra: umjetna inteligencija i regeneracija stručnosti
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: alat za samorefleksiju koji čuva privatnost kod kognitivnog rasterećenja povezanog s umjetnom inteligencijom
-- [[chatgpt-writing-cognitive-impact-2026]] - eksperiment pisanja za učenje u kojem je pisanje uz pomoć ChatGPT-a dalo manji dobitak znanja od kontrolne skupine bez pomoći
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Obrasci kognitivnog rasterećenja studenata na umjetnu inteligenciju u visokom obrazovanju: naturalistički dokazi na razini poruka ChatGPT-a (Piatnitckaia i sur. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Oblikovanje protiv gubitka vještina: metakognitivne povratne informacije smanjuju kognitivno rasterećenje na asistente LLM-a
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Kognicija vaših studenata programiranja s ChatGPT-om: viša izvedba, slabije zadržavanje i smanjeno vlasništvo
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Sklonost rasterećenju i pismenost u provjeri kao prediktori ishoda višeg reda kroz metakognitivnu samoregulaciju (Davor i sur. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Refleksijski poticaj smanjuje prihvaćanje netočnih savjeta umjetne inteligencije i poboljšava kalibraciju svijesti (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Ovisnost o generativnoj umjetnoj inteligenciji kao rubni uvjet dispozicije kritičkog mišljenja i samoopažene zapošljivosti (Shojaei i sur. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Djeca su pokazala slabiju frontoparijetalnu povezanost, povezanost mreže značajnosti i dorzalne pažnje od odraslih tijekom razgovora s ChatGPT-om, uz izjednačene ocjene kreativnosti
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - Generativna umjetna inteligencija i dječje kreativno mišljenje: pretjerano oslanjanje i ovisnost o poticajima u pregledu opsega (Niu i sur. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Podržava ili zamjenjuje studentsko rezoniranje? Kognitivno rasterećenje u učenju dokazivanja uz pomoć umjetne inteligencije (Chen i sur. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Što predaja ne pokazuje: kompleksifikacija kognitivnog rasterećenja u studentskom matematičkom radu s LLM-ovima (Kontorovich i Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsenzus 30 stručnjaka o 65 procesa učenja: rasterećenje na oba kraja slijeda učenja
+- [[rented-self-decoupling-performance-becoming-2026]] — Iznajmljeni self: rasterećenje koje stoji domenski self učenika, a ne samo vještinu
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Skupine koje su počele jednako su se razišle: 74,1 % prihvaćanja modela u jednom profilu nasuprot 80,8 % rasterećenja i blokade u drugom (Kilinc i sur. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Podrška umjetne inteligencije smanjila je istrajnost i izvedbu bez pomoći u tri RCT-a (Liu i sur. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT kao kognitivna štaka: randomizirano kontrolirano ispitivanje zadržavanja znanja 45 dana kasnije (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Od kognitivnog preuzimanja do preraspodjele: 3P analiza studentskog angažiranja s generativnom umjetnom inteligencijom u nenadziranim procjenama (Yan i sur. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Obiteljska i školska podrška autonomiji za odgovornu dječju upotrebu generativne umjetne inteligencije
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Suvišno nasuprot korisnom trenju: zašto se rasterećenje umjetnom inteligencijom razlikuje od ranijih alata
+- [[thermomix-genai-education-analogy-2026]] — S Thermomixom gubite sposobnost kuhanja: analogija kuhinjskog stroja za generativnu umjetnu inteligenciju u obrazovanju (Rummel, Nachtigall i Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — Kognitivno ispiranje: dinamika propadanja vještina izazvanog umjetnom inteligencijom nakon povlačenja
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Kritička narativna sinteza angažiranja i ovisnosti o konverzacijskoj umjetnoj inteligenciji
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Slojevito osjetljivo kognitivno rasterećenje u pisanju uz pomoć generativne umjetne inteligencije (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Epistemička ovisnost u učenju posredovanom umjetnom inteligencijom: šest dijagnostičkih kriterija koji odvajaju produktivno oslanjanje od štetne ovisnosti (Du i Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Kognitivno rasterećenje generativnom umjetnom inteligencijom kod učenika s teškoćama u učenju
+- [[lodge-loble-cognitive-offloading-2026]] — Umjetna inteligencija, kognitivno rasterećenje i implikacije za obrazovanje
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitivni uvidi u kognitivno rasterećenje (Guo i Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitivna obuka potiče optimalno kognitivno rasterećenje (Ngai i Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Paradoks kritičkog mišljenja u učenju integriranom s generativnom umjetnom inteligencijom
+- [[cognitive-offloading-speedup-illusion]] — Iluzija ubrzanja rada uz pomoć umjetne inteligencije
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Analiza mreže supojavljivanja obrazaca poticaja
+- [[shaw-nave-cognitive-surrender-2026]] — Teorija triju sustava i kognitivna predaja: kako umjetna inteligencija preoblikuje ljudsko rezoniranje (Shaw i Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuum predaje, rasterećenja i djelotvornosti za generativnu umjetnu inteligenciju
+- [[ai-making-us-stupid]] — Istraživanje kognitivnih učinaka umjetne inteligencije i potiskivanja učenja
+- [[brcic-effortless-trap-productive-struggle-2026]] — Zamka bez napora: umjetna inteligencija zamjenjuje kognitivni rad (Brcic i Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Nepromišljena upotreba umjetne inteligencije erodira samousmjereno učenje
+- [[generative-ai-guardrails-harm-learning]] — RCT-ovi iz srednjoškolske matematike o nezaštićenoj generativnoj umjetnoj inteligenciji
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Kazna za učenje generativne umjetne inteligencije: preuzimanje domaće zadaće šteti učenju
+- [[coach-not-crutch-ai-writing]] — Umjetna inteligencija može raditi manje, a naučiti više (Lira i sur. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Produktivno podučavanje umjetnom inteligencijom: matematička vježba utemeljena na ovladavanju
+- [[cognitive-commons-ai-expertise-regeneration]] — Tragedija kognitivnog zajedničkog dobra: umjetna inteligencija i regeneracija stručnosti
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: alat za samorefleksiju koji čuva privatnost kod kognitivnog rasterećenja povezanog s umjetnom inteligencijom
+- [[chatgpt-writing-cognitive-impact-2026]] — eksperiment pisanja za učenje u kojem je pisanje uz pomoć ChatGPT-a dalo manji dobitak znanja od kontrolne skupine bez pomoći
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Obrasci kognitivnog rasterećenja studenata na umjetnu inteligenciju u visokom obrazovanju: naturalistički dokazi na razini poruka ChatGPT-a (Piatnitckaia i sur. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Oblikovanje protiv gubitka vještina: metakognitivne povratne informacije smanjuju kognitivno rasterećenje na asistente LLM-a
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Kognicija vaših studenata programiranja s ChatGPT-om: viša izvedba, slabije zadržavanje i smanjeno vlasništvo
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Sklonost rasterećenju i pismenost u provjeri kao prediktori ishoda višeg reda kroz metakognitivnu samoregulaciju (Davor i sur. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Refleksijski poticaj smanjuje prihvaćanje netočnih savjeta umjetne inteligencije i poboljšava kalibraciju svijesti (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Ovisnost o generativnoj umjetnoj inteligenciji kao rubni uvjet dispozicije kritičkog mišljenja i samoopažene zapošljivosti (Shojaei i sur. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Djeca su pokazala slabiju frontoparijetalnu povezanost, povezanost mreže značajnosti i dorzalne pažnje od odraslih tijekom razgovora s ChatGPT-om, uz izjednačene ocjene kreativnosti
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Generativna umjetna inteligencija i dječje kreativno mišljenje: pretjerano oslanjanje i ovisnost o poticajima u pregledu opsega (Niu i sur. 2026)

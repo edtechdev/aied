@@ -250,4 +250,4 @@ Die Evidenz stützt eine bestimmte Reihenfolge der Arbeitsschritte für eine Leh
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Von Informationsanbietenden zu Lerndesignern: heutagogische Lehrpraktiken in KI-verbesserter Bildung
 - [[falhs-teacher-expertise-reflection-2025]] — Wie Expertisestufen Präferenzen und Reflexionsbedürfnisse prägen: Hin zu KI-Reflexionssystemen für die Ermächtigung von Lehrkräften (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Konversationelle KI-Diagnostik für unterrichtete Missverständnisse mit evidenzverankertem Dialog (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - KI-Nutzung hatte keinen direkten Effekt auf die Leistung von Lehrkräften; Bürgerschaftsverhalten vermittelte sie (Sherly et al. 2027)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — KI-Nutzung hatte keinen direkten Effekt auf die Leistung von Lehrkräften; Bürgerschaftsverhalten vermittelte sie (Sherly et al. 2027)

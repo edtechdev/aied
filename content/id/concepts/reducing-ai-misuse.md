@@ -119,31 +119,31 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 - [[cognitive-surrender]]
 
 ## Artikel Terhubung
-- [[ivory-psychology-assessment-integrity-2026]] - Jejak bukti kendali versi dan dokumen analisis yang dapat direproduksi sebagai pencegah penyalahgunaan (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - Menahan rekomendasi sebagian besar mencegah ketergantungan berlebih tanpa membangun pertimbangan yang dilindunginya
-- [[generative-ai-guardrails-harm-learning]] - GenAI Tanpa Pagar Pengaman Dapat Merugikan Pembelajaran
-- [[genai-performance-vs-learning]] - Membedakan Keuntungan Kinerja dari Pembelajaran
-- [[ai-assessment-scale-reform]] - Skala Penilaian AI dan Reformasi Penilaian
-- [[critical-thinking-genai-scaffolding]] - Merancah Berpikir Kritis dengan AI Generatif
-- [[aaai2026-prompting-literacy-k12]] - Belajar Menggunakan AI untuk Belajar (Modul Literasi AI K-12)
-- [[genai-declaration-frameworks-higher-education]] - Menstrukturkan Transparansi: Kerangka Deklarasi GenAI
-- [[absent-cognitive-baseline-2026]] - Dasar Kognitif yang Absen
-- [[ai-literacy-power-knowledge]] - Literasi AI: Sebuah Latihan Pengetahuan-Kekuasaan
-- [[contextual-sycophancy-ai-literacy]] - Biaya Tersembunyi Sikofansi Kontekstual: Sebuah Intervensi Literasi AI
-- [[sycophantic-ai-social-interaction-2026]] - AI yang sikofantik membuat interaksi manusia terasa lebih melelahkan dan kurang memuaskan seiring waktu
-- [[ssaho-ai-academic-integrity-review-2025]] - Pembangunan budaya dan desain ulang penilaian di atas pengawasan deteksi
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Penyerahan kognitif, gesekan produktif, dan ketidakadilan metakognitif
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] - Meninjau ulang ujian lisan sebagai penilaian autentik yang tahan AI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Penalti pembelajaran AI generatif: pengalihdayaan pekerjaan rumah merugikan pembelajaran
-- [[ai-overreliance-complex-adaptive-system-2026]] - Ketergantungan berlebih pada AI dimodelkan sebagai sistem adaptif kompleks
-- [[burneo-can-edtech-close-learning-gaps-2026]] - Pagar pengaman menghilangkan kerugian tanpa meningkatkan skor ujian
-- [[munoz-misconduct-allegation-evidence-2026]] - Apa yang sebenarnya terkandung sebagai bukti dalam berkas tuduhan pelanggaran
-- [[wright-transcription-not-generation-2026]] - Aturan AI yang terlalu inklusif dan siswa yang tertangkap olehnya
-- [[sharma-judgment-visible-genai-assessment-2026]] - Integritas sebagai pertimbangan evaluatif alih-alih kepatuhan
-- [[mulisa-students-genai-integrity-perspectives-2026]] - Pandangan siswa tentang apakah GenAI adalah alat menyontek atau mitra belajar
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] - Apa yang dilakukan pengawasan jarak jauh pada siswa, dan pada ekuitas
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Pencegahan kejahatan situasional terhadap kecurangan berbantuan AI: dari 183 menjadi 27 kasus, dan lima desain ulang spesifik disiplin (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Apa yang direkomendasikan 38 studi tentang suara siswa: kejelasan yang diciptakan bersama dan penalaran edukatif di atas deteksi (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Di mana dukungan bahasa berakhir dan substitusi dimulai bagi penulis EAL (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Injeksi prompt sebagai vektor penyalahgunaan terhadap penilaian AI (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] - Tata kelola sebagai kendala pengikat integritas: kerangka indikator 130 butir (Coates, Croucher & Calderon 2025)
+- [[ivory-psychology-assessment-integrity-2026]] — Jejak bukti kendali versi dan dokumen analisis yang dapat direproduksi sebagai pencegah penyalahgunaan (Ivory et al. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Menahan rekomendasi sebagian besar mencegah ketergantungan berlebih tanpa membangun pertimbangan yang dilindunginya
+- [[generative-ai-guardrails-harm-learning]] — GenAI Tanpa Pagar Pengaman Dapat Merugikan Pembelajaran
+- [[genai-performance-vs-learning]] — Membedakan Keuntungan Kinerja dari Pembelajaran
+- [[ai-assessment-scale-reform]] — Skala Penilaian AI dan Reformasi Penilaian
+- [[critical-thinking-genai-scaffolding]] — Merancah Berpikir Kritis dengan AI Generatif
+- [[aaai2026-prompting-literacy-k12]] — Belajar Menggunakan AI untuk Belajar (Modul Literasi AI K-12)
+- [[genai-declaration-frameworks-higher-education]] — Menstrukturkan Transparansi: Kerangka Deklarasi GenAI
+- [[absent-cognitive-baseline-2026]] — Dasar Kognitif yang Absen
+- [[ai-literacy-power-knowledge]] — Literasi AI: Sebuah Latihan Pengetahuan-Kekuasaan
+- [[contextual-sycophancy-ai-literacy]] — Biaya Tersembunyi Sikofansi Kontekstual: Sebuah Intervensi Literasi AI
+- [[sycophantic-ai-social-interaction-2026]] — AI yang sikofantik membuat interaksi manusia terasa lebih melelahkan dan kurang memuaskan seiring waktu
+- [[ssaho-ai-academic-integrity-review-2025]] — Pembangunan budaya dan desain ulang penilaian di atas pengawasan deteksi
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Penyerahan kognitif, gesekan produktif, dan ketidakadilan metakognitif
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Meninjau ulang ujian lisan sebagai penilaian autentik yang tahan AI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Penalti pembelajaran AI generatif: pengalihdayaan pekerjaan rumah merugikan pembelajaran
+- [[ai-overreliance-complex-adaptive-system-2026]] — Ketergantungan berlebih pada AI dimodelkan sebagai sistem adaptif kompleks
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Pagar pengaman menghilangkan kerugian tanpa meningkatkan skor ujian
+- [[munoz-misconduct-allegation-evidence-2026]] — Apa yang sebenarnya terkandung sebagai bukti dalam berkas tuduhan pelanggaran
+- [[wright-transcription-not-generation-2026]] — Aturan AI yang terlalu inklusif dan siswa yang tertangkap olehnya
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integritas sebagai pertimbangan evaluatif alih-alih kepatuhan
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Pandangan siswa tentang apakah GenAI adalah alat menyontek atau mitra belajar
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Apa yang dilakukan pengawasan jarak jauh pada siswa, dan pada ekuitas
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Pencegahan kejahatan situasional terhadap kecurangan berbantuan AI: dari 183 menjadi 27 kasus, dan lima desain ulang spesifik disiplin (Leaton Gray, Edsall & Parapadakis 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Apa yang direkomendasikan 38 studi tentang suara siswa: kejelasan yang diciptakan bersama dan penalaran edukatif di atas deteksi (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Di mana dukungan bahasa berakhir dan substitusi dimulai bagi penulis EAL (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeksi prompt sebagai vektor penyalahgunaan terhadap penilaian AI (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — Tata kelola sebagai kendala pengikat integritas: kerangka indikator 130 butir (Coates, Croucher & Calderon 2025)

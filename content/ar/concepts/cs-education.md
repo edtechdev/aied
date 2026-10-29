@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: تعليم الحاسوب
 created: "2026-10-12T19:05:00-04:00"
 type: concept
@@ -9,7 +9,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_of: concepts/cs-education
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

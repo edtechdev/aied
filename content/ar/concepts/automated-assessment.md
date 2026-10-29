@@ -9,7 +9,6 @@ assessment: [assessment, assessment-validity, automated-assessment, automated-es
 ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
-reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision

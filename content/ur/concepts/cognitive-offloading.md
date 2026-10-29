@@ -188,45 +188,45 @@ Cognitive Load Theory (Sweller) [[cognitive-psychology|کام کرنے کی یا
 - [[cognitive-surrender]]
 
 ## منسلک مضامین
-- [[ai-proof-learning-cognitive-offloading-2026]] - طلبہ کی استدلال کی معاونت یا اس کی جگہ لینا؟ AI کی معاونت والی پروف سیکھائی میں علمی بوجھ اتارنا (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - جو جمع کرانا ظاہر نہیں کرتا: LLMs کے ساتھ طلبہ کے ریاضیاتی کام میں علمی بوجھ اتارنے کی پیچیدگی (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 65 سیکھنے کے عمل پر 30 ماہرین کا اتفاق: سیکھنے کی ترتیب کے دونوں سروں پر بوجھ اتارنا
-- [[rented-self-decoupling-performance-becoming-2026]] - کرائے کا خود: بوجھ اتارنا جو مہارت کے ساتھ ساتھ سیکھنے والے کے شعبہ جاتی خود کو بھی لاگت پہنچاتا ہے
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - یکساں شروع ہونے والے گروپ الگ ہو گئے: ایک پروفائل میں 74.1% ماڈل قبولیت بمقابلہ دوسرے میں 80.8% بوجھ اتارنا اور تعطل (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - AI معاونت نے تین RCTs میں استقامت اور بغیر مدد کارکردگی کم کی (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT بطور علمی crutch: 45 دن بعد علم کی یادداشت پر بے ترتیب کنٹرول شدہ آزمائش (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - علمی بیرونی سونپنے سے دوبارہ تقسیم تک: بغیر نگرانی جائزوں میں طلبہ اور GenAI کی مشغولیت کا 3P تجزیہ (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - بچوں کے جنریٹو AI کے ذمہ دارانہ استعمال کے لیے خاندان اور اسکول کی خودمختاری معاونت
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - فالتو بمقابلہ فائدہ مند رگڑ: AI کا بوجھ اتارنا پچھلے آلات سے کیوں مختلف ہے
-- [[thermomix-genai-education-analogy-2026]] - Thermomix کے ساتھ آپ کھانا پکانے کی صلاحیت کھو دیتے ہیں: تعلیم میں جنریٹو AI کے لیے کچن مشین کی تشبیہ (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - علمی washout: AI سے پیدا شدہ مہارت کے زوال کی واپسی کے بعد کی حرکیات
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - conversational AI کی مشغولیت اور انحصار کا تنقیدی بیانی ترکیب
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - GenAI کی معاونت والی تحریر میں پرت کے لحاظ سے حساس علمی بوجھ اتارنا (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - AI کے واسطے سے سیکھنے میں علمی انحصار: پیداواری انحصار کو نقصان دہ انحصار سے الگ کرنے والے چھ تشخیصی معیار (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - سیکھنے کی معذوری والے طلبہ کے لیے GenAI کا علمی بوجھ اتارنا
-- [[lodge-loble-cognitive-offloading-2026]] - AI، علمی بوجھ اتارنا اور تعلیم کے لیے مضمرات
-- [[cognitive-offloading-metacognitive-review-2026]] - علمی بوجھ اتارنے میں میٹا کوگنیشنل بصیرتیں (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - میٹا کوگنیشنل تربیت بہترین علمی بوجھ اتارنے میں سہولت دیتی ہے (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - GenAI سے منسلک سیکھائی میں تنقیدی سوچ کا تضاد
-- [[cognitive-offloading-speedup-illusion]] - AI کی معاونت والے کام کا تیزی کا وہم
-- [[misiejuk-cognitive-offloading-prompting-2026]] - پرامپٹ کے انداز کا co-occurrence نیٹ ورک تجزیہ
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory اور علمی سپرنڈر: AI انسانی استدلال کو کیسے نئے سرے سے تشکیل دیتا ہے (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - GenAI کے لیے سپرنڈر، بوجھ اتارنے اور عاملیت کا تسلسل
-- [[ai-making-us-stupid]] - AI کے علمی اثرات اور سیکھنے کے بے دخل ہونے پر تحقیق
-- [[brcic-effortless-trap-productive-struggle-2026]] - The Effortless Trap: AI کا علمی کام کی جگہ لینا (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - بے سوچا AI استعمال خود ہدایت شدہ سیکھنے کو کھا جاتا ہے
-- [[generative-ai-guardrails-harm-learning]] - بے قید GenAI پر ہائی اسکول ریاضی کے RCTs
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - جنریٹو AI کا سیکھنے کا جرمانہ: ہوم ورک بیرونی سونپنا سیکھنے کو نقصان پہنچاتا ہے
-- [[coach-not-crutch-ai-writing]] - AI کم کام اور زیادہ سیکھائی دے سکتا ہے (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - AI ٹیوٹرنگ کو پیداواری بنانا: مہارت پر مبنی ریاضی کی مشق
-- [[cognitive-commons-ai-expertise-regeneration]] - علمی مشترکات کا المیہ: AI اور مہارت کی دوبارہ پیدائش
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: AI سے منسلک علمی بوجھ اتارنے کے لیے رازداری بچانے والا خود عکاسی کا آلہ
-- [[chatgpt-writing-cognitive-impact-2026]] - لکھ کر سیکھنے کا ایک تجربہ جس میں ChatGPT کی معاونت والی تحریر نے بغیر مدد کنٹرول سے کم علم پیدا کیا
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - اعلیٰ تعلیم میں طلبہ کے AI کی طرف علمی بوجھ اتارنے کے نمونے: فطری ChatGPT پیغام کی سطح کا ثبوت (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - deskilling کے خلاف ڈیزائن: میٹا کوگنیشنل فیڈ بیک LLM معاونین کی طرف علمی بوجھ اتارنا کم کرتا ہے
-- [[chatgpt-programming-performance-retention-ownership-2026]] - ChatGPT کے ساتھ آپ کے پروگرامنگ طلبہ کا علم: زیادہ کارکردگی، کم یادداشت، اور کم ملکیت
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - بوجھ اتارنے کا رجحان اور تصدیق کی literacy میٹا کوگنیشنل خود ریگولیشن کے ذریعے اعلیٰ درجے کے نتائج کی پیش گوئی کرتے ہیں (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - عکاسی کا پرامپٹ غلط AI مشورے کی قبولیت کم کرتا ہے اور آگاہی کی کیلبریشن بہتر بناتا ہے (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - GenAI انحصار بطور حدی شرط برائے تنقیدی سوچ کے مزاج اور خود محسوس کردہ ملازمت پذیری (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - ChatGPT سے بولتے ہوئے بچوں نے بالغوں کے مقابلے کمزور frontoparietal، salience اور dorsal attention رابطہ دکھایا، تخلیقیت کے برابر اسکور پر
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI اور بچوں کی تخلیقی سوچ: دائرہ کار جائزے میں حد سے زیادہ انحصار اور پرامپٹ پر انحصار (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — طلبہ کی استدلال کی معاونت یا اس کی جگہ لینا؟ AI کی معاونت والی پروف سیکھائی میں علمی بوجھ اتارنا (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — جو جمع کرانا ظاہر نہیں کرتا: LLMs کے ساتھ طلبہ کے ریاضیاتی کام میں علمی بوجھ اتارنے کی پیچیدگی (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 65 سیکھنے کے عمل پر 30 ماہرین کا اتفاق: سیکھنے کی ترتیب کے دونوں سروں پر بوجھ اتارنا
+- [[rented-self-decoupling-performance-becoming-2026]] — کرائے کا خود: بوجھ اتارنا جو مہارت کے ساتھ ساتھ سیکھنے والے کے شعبہ جاتی خود کو بھی لاگت پہنچاتا ہے
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — یکساں شروع ہونے والے گروپ الگ ہو گئے: ایک پروفائل میں 74.1% ماڈل قبولیت بمقابلہ دوسرے میں 80.8% بوجھ اتارنا اور تعطل (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — AI معاونت نے تین RCTs میں استقامت اور بغیر مدد کارکردگی کم کی (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT بطور علمی crutch: 45 دن بعد علم کی یادداشت پر بے ترتیب کنٹرول شدہ آزمائش (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — علمی بیرونی سونپنے سے دوبارہ تقسیم تک: بغیر نگرانی جائزوں میں طلبہ اور GenAI کی مشغولیت کا 3P تجزیہ (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — بچوں کے جنریٹو AI کے ذمہ دارانہ استعمال کے لیے خاندان اور اسکول کی خودمختاری معاونت
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — فالتو بمقابلہ فائدہ مند رگڑ: AI کا بوجھ اتارنا پچھلے آلات سے کیوں مختلف ہے
+- [[thermomix-genai-education-analogy-2026]] — Thermomix کے ساتھ آپ کھانا پکانے کی صلاحیت کھو دیتے ہیں: تعلیم میں جنریٹو AI کے لیے کچن مشین کی تشبیہ (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — علمی washout: AI سے پیدا شدہ مہارت کے زوال کی واپسی کے بعد کی حرکیات
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — conversational AI کی مشغولیت اور انحصار کا تنقیدی بیانی ترکیب
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — GenAI کی معاونت والی تحریر میں پرت کے لحاظ سے حساس علمی بوجھ اتارنا (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — AI کے واسطے سے سیکھنے میں علمی انحصار: پیداواری انحصار کو نقصان دہ انحصار سے الگ کرنے والے چھ تشخیصی معیار (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — سیکھنے کی معذوری والے طلبہ کے لیے GenAI کا علمی بوجھ اتارنا
+- [[lodge-loble-cognitive-offloading-2026]] — AI، علمی بوجھ اتارنا اور تعلیم کے لیے مضمرات
+- [[cognitive-offloading-metacognitive-review-2026]] — علمی بوجھ اتارنے میں میٹا کوگنیشنل بصیرتیں (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — میٹا کوگنیشنل تربیت بہترین علمی بوجھ اتارنے میں سہولت دیتی ہے (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — GenAI سے منسلک سیکھائی میں تنقیدی سوچ کا تضاد
+- [[cognitive-offloading-speedup-illusion]] — AI کی معاونت والے کام کا تیزی کا وہم
+- [[misiejuk-cognitive-offloading-prompting-2026]] — پرامپٹ کے انداز کا co-occurrence نیٹ ورک تجزیہ
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory اور علمی سپرنڈر: AI انسانی استدلال کو کیسے نئے سرے سے تشکیل دیتا ہے (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI کے لیے سپرنڈر، بوجھ اتارنے اور عاملیت کا تسلسل
+- [[ai-making-us-stupid]] — AI کے علمی اثرات اور سیکھنے کے بے دخل ہونے پر تحقیق
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI کا علمی کام کی جگہ لینا (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — بے سوچا AI استعمال خود ہدایت شدہ سیکھنے کو کھا جاتا ہے
+- [[generative-ai-guardrails-harm-learning]] — بے قید GenAI پر ہائی اسکول ریاضی کے RCTs
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — جنریٹو AI کا سیکھنے کا جرمانہ: ہوم ورک بیرونی سونپنا سیکھنے کو نقصان پہنچاتا ہے
+- [[coach-not-crutch-ai-writing]] — AI کم کام اور زیادہ سیکھائی دے سکتا ہے (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — AI ٹیوٹرنگ کو پیداواری بنانا: مہارت پر مبنی ریاضی کی مشق
+- [[cognitive-commons-ai-expertise-regeneration]] — علمی مشترکات کا المیہ: AI اور مہارت کی دوبارہ پیدائش
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: AI سے منسلک علمی بوجھ اتارنے کے لیے رازداری بچانے والا خود عکاسی کا آلہ
+- [[chatgpt-writing-cognitive-impact-2026]] — لکھ کر سیکھنے کا ایک تجربہ جس میں ChatGPT کی معاونت والی تحریر نے بغیر مدد کنٹرول سے کم علم پیدا کیا
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — اعلیٰ تعلیم میں طلبہ کے AI کی طرف علمی بوجھ اتارنے کے نمونے: فطری ChatGPT پیغام کی سطح کا ثبوت (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — deskilling کے خلاف ڈیزائن: میٹا کوگنیشنل فیڈ بیک LLM معاونین کی طرف علمی بوجھ اتارنا کم کرتا ہے
+- [[chatgpt-programming-performance-retention-ownership-2026]] — ChatGPT کے ساتھ آپ کے پروگرامنگ طلبہ کا علم: زیادہ کارکردگی، کم یادداشت، اور کم ملکیت
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — بوجھ اتارنے کا رجحان اور تصدیق کی literacy میٹا کوگنیشنل خود ریگولیشن کے ذریعے اعلیٰ درجے کے نتائج کی پیش گوئی کرتے ہیں (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — عکاسی کا پرامپٹ غلط AI مشورے کی قبولیت کم کرتا ہے اور آگاہی کی کیلبریشن بہتر بناتا ہے (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI انحصار بطور حدی شرط برائے تنقیدی سوچ کے مزاج اور خود محسوس کردہ ملازمت پذیری (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPT سے بولتے ہوئے بچوں نے بالغوں کے مقابلے کمزور frontoparietal، salience اور dorsal attention رابطہ دکھایا، تخلیقیت کے برابر اسکور پر
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI اور بچوں کی تخلیقی سوچ: دائرہ کار جائزے میں حد سے زیادہ انحصار اور پرامپٹ پر انحصار (Niu et al. 2026)

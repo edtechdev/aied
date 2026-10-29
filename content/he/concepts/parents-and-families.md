@@ -9,7 +9,6 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
-reviewed_by: [editor]
 translation_of: concepts/parents-and-families
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

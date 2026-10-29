@@ -5,7 +5,6 @@ type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/network-analysis
 source_updated: "2026-10-04T10:50:04-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

@@ -8,7 +8,6 @@ page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 source_updated: "2026-10-06T18:35:00-04:00"
 translation_of: concepts/samr-model
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

@@ -10,7 +10,6 @@ audience: [learners, instructors]
 level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/self-assessment
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

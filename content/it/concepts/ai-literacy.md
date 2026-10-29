@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -251,7 +250,7 @@ Nello specifico dell'alfabetizzazione critica sull'IA, [[solyst-youth-systematic
 ## Articoli collegati
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Plasmare la prima infanzia nell'era dell'IA: competenze, pedagogia e supporto ecologico (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Alfabetizzazione alla sicurezza dell'IA: framework di competenza basato sull'ecosistema e piattaforma di apprendimento K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Innalzare la dimensione etica dell'alfabetizzazione senza un framework di coping può lasciare gli studenti più ansiosi
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Innalzare la dimensione etica dell'alfabetizzazione senza un framework di coping può lasciare gli studenti più ansiosi
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validated frameworks show AI expanding digital literacy toward ethics while educator human–AI collaboration stays under-specified (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Six competency areas, five values and three progression levels for public service media
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon

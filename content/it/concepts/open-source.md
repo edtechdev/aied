@@ -12,7 +12,6 @@ discipline: [stem education, writing education]
 confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
-reviewed_by: [editor]
 translation_of: concepts/open-source
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

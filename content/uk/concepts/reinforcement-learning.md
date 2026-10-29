@@ -8,7 +8,6 @@ technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning
 ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/reinforcement-learning
 source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

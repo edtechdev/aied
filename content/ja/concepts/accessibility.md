@@ -2,7 +2,7 @@
 title: アクセシビリティ
 created: "2026-10-10T21:52:23-04:00"
 updated: "2026-10-10T21:52:23-04:00"
-connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack]
+connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]

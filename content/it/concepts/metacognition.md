@@ -11,7 +11,6 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: "concepts/metacognition"
 source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

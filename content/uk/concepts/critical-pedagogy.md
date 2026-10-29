@@ -7,7 +7,6 @@ pedagogy: [critical-pedagogy]
 ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
-reviewed_by: [editor]
 translation_of: concepts/critical-pedagogy
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

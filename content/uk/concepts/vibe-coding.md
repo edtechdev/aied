@@ -9,7 +9,6 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
-reviewed_by: [editor]
 translation_of: concepts/vibe-coding
 source_updated: "2026-10-04T16:17:27-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

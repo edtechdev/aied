@@ -127,16 +127,16 @@ A megadás mint nevesített konstruktum bizonyítéka nagyrészt egyetlen labora
 
 ## Kapcsolódó cikkek
 
-- [[shaw-nave-cognitive-surrender-2026]] - A Tri-System Theory és a megadás kísérleti jelzése
-- [[generative-ai-reduced-study-time-math]] - népességszintű eltolódás az ALEKS-ben
-- [[young-people-learning-generative-ai-rapid-review-2026]] - a megadás/leterhelés/önállóság keretrendszer a PreK-12-ben
-- [[du-yuan-epistemic-dependence-2026]] - instrumentális versus ítélethordozó segítség
-- [[ai-advice-suppresses-ikt-suspension-2026]] - a „nem tudom” összeomlása
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - neurális elköteleződés és szerzőség
-- [[genai-thoughtless-use-self-directed-learning-2026]] - gondtalan használat és önirányított tanulás
-- [[stamatoulis-genai-use-patterns-2026]] - alacsony ellenőrzésű átvétel versus értékelő integráció
-- [[cognitive-washout-ai-skill-decay-2026]] - mi történik a visszavonás után
-- [[ai-overreliance-complex-adaptive-system-2026]] - a támaszkodás mint népességi folyamat
-- [[brcic-effortless-trap-productive-struggle-2026]] - az MI elhelyezése, hogy a feladat erőfeszítéses maradjon
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - kalibrációs tréning
-- [[family-school-autonomy-support-genai-2026]] - függő versus autonóm leterhelés
+- [[shaw-nave-cognitive-surrender-2026]] — A Tri-System Theory és a megadás kísérleti jelzése
+- [[generative-ai-reduced-study-time-math]] — népességszintű eltolódás az ALEKS-ben
+- [[young-people-learning-generative-ai-rapid-review-2026]] — a megadás/leterhelés/önállóság keretrendszer a PreK-12-ben
+- [[du-yuan-epistemic-dependence-2026]] — instrumentális versus ítélethordozó segítség
+- [[ai-advice-suppresses-ikt-suspension-2026]] — a „nem tudom” összeomlása
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — neurális elköteleződés és szerzőség
+- [[genai-thoughtless-use-self-directed-learning-2026]] — gondtalan használat és önirányított tanulás
+- [[stamatoulis-genai-use-patterns-2026]] — alacsony ellenőrzésű átvétel versus értékelő integráció
+- [[cognitive-washout-ai-skill-decay-2026]] — mi történik a visszavonás után
+- [[ai-overreliance-complex-adaptive-system-2026]] — a támaszkodás mint népességi folyamat
+- [[brcic-effortless-trap-productive-struggle-2026]] — az MI elhelyezése, hogy a feladat erőfeszítéses maradjon
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — kalibrációs tréning
+- [[family-school-autonomy-support-genai-2026]] — függő versus autonóm leterhelés

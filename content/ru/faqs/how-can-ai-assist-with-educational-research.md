@@ -14,7 +14,6 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -29,6 +28,8 @@ translation_of: faqs/how-can-ai-assist-with-educational-research
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 ---
+
+*Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
 # Как ИИ может помочь в исследовании в сфере образования?
 

@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: Информатика (CS) в образовании
 created: "2026-10-13T21:25:00-04:00"
 type: concept
@@ -9,7 +9,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cs-education
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -190,7 +189,7 @@ ai_assist:
 - [[llm-adaptive-programming-error-explanations-2026]] — адаптивные объяснения LLM ошибок программирования
 - [[soft-barriers-copying-ai-programming-2026]] — сопротивление копипасту в программировании с ИИ
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD с ИИ-агентами в проектном курсе разработки ПО; пропускная способность против понимания
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD с ИИ-агентами в проектном курсе разработки ПО; пропускная способность против понимания
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: бенчмарк способности моделей генерировать стратегические заблуждения по учебному плану CS
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team инъекции промпта при оценивании с ИИ: скрытые инструкции, меняющие оценку незамеченно

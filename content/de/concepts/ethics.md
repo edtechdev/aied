@@ -115,7 +115,7 @@ Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Dat
 - [[biology-education]] — Biologiebildung und KI: Labor-Lehrassistenten, KI-Kompetenz in der Biologie, kritisches Denken, spezialisierte Werkzeuge
 
 ## Verbundene Artikel
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Ethisches Bewusstsein verstärkte KI-Angst, wo kein Bewältigungsrahmen gelehrt wurde: ausschließlich indirekte Mediation unter 584 Studierenden
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Ethisches Bewusstsein verstärkte KI-Angst, wo kein Bewältigungsrahmen gelehrt wurde: ausschließlich indirekte Mediation unter 584 Studierenden
 - [[learning-analytics-to-educational-interventions-2026]] — Von Learning Analytics zu Bildungsinterventionen: Ermöglicher vertrauenswürdiger LA-basierter Interventionen (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Wie Studierende KI in Online-Prüfungen nutzen und verbergen
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Offenlegung von KI-Nutzung durch Studierende, Stigma und selbstreguliertes Lernen

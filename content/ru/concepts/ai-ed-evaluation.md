@@ -10,7 +10,6 @@ level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods, reporting-interpreting-aied-research]
 confidence: high
 methods: [benchmark]
-reviewed_by: [editor]
 translation_of: concepts/ai-ed-evaluation
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

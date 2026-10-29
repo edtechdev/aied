@@ -172,9 +172,9 @@ A mesma lógica transforma a modelagem de recompensas numa ferramenta de desenho
 - [[cognitive-surrender]]
 
 ## Artigos conectados
-- [[ai-proof-learning-cognitive-offloading-2026]] - Apoiar ou substituir o raciocínio dos estudantes? Descarregamento cognitivo na aprendizagem de demonstrações assistida por IA (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - O que a entrega não mostra: complexificar o descarregamento cognitivo no trabalho matemático de estudantes com LLMs (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Um consenso de 30 especialistas sobre 65 processos de aprendizagem: descarregamento nas duas pontas da sequência de aprendizagem
+- [[ai-proof-learning-cognitive-offloading-2026]] — Apoiar ou substituir o raciocínio dos estudantes? Descarregamento cognitivo na aprendizagem de demonstrações assistida por IA (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — O que a entrega não mostra: complexificar o descarregamento cognitivo no trabalho matemático de estudantes com LLMs (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um consenso de 30 especialistas sobre 65 processos de aprendizagem: descarregamento nas duas pontas da sequência de aprendizagem
 - [[rented-self-decoupling-performance-becoming-2026]] — O self alugado: descarregamento que custa o self de domínio de quem aprende, e não apenas a habilidade
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupos que começavam iguais divergiram: 74,1% de adoção do modelo num perfil contra 80,8% de descarregamento e impasse em outro (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — A assistência de IA reduziu a persistência e o desempenho sem auxílio ao longo de três RCTs (Liu et al. 2026)
@@ -212,5 +212,5 @@ A mesma lógica transforma a modelagem de recompensas numa ferramenta de desenho
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Tendência ao descarregamento e letramento em verificação predizendo resultados de ordem superior por meio da autorregulação metacognitiva (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Um prompt de reflexão reduz a aceitação de conselhos incorretos da IA e melhora a calibração de consciência (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — A dependência de GenAI como condição de fronteira da disposição ao pensamento crítico e da empregabilidade autopercebida (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Crianças mostraram conectividade frontoparietal, de saliência e de atenção dorsal mais fraca que a de adultos enquanto conversavam com o ChatGPT, com escores de criatividade equivalentes
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Crianças mostraram conectividade frontoparietal, de saliência e de atenção dorsal mais fraca que a de adultos enquanto conversavam com o ChatGPT, com escores de criatividade equivalentes
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI e pensamento criativo infantil: dependência excessiva e dependência de prompt numa revisão de escopo (Niu et al. 2026)

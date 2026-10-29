@@ -10,7 +10,6 @@ connected_faqs: [group-work-ai]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/group-work
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

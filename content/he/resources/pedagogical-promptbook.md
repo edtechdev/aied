@@ -27,7 +27,6 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

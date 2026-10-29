@@ -137,14 +137,14 @@ Fowlin a spol. (2026) pridávajú operatívny krok na rozhodnutie, kde AI vstúp
 
 ## Prepojené články
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Merateľná úspora času na plánovanie popri zistení, že učitelia plánujú len 21 % až 40 % hodín od nuly
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Analytika učenia a GenAI v rozhodovaní o návrhu učenia
-- [[tang-chatbots-learning-design-2026]] - Používanie chatbota v návrhu učenia: návrhári sa zdržiavajú pri výsledkoch a pedagogike, a nie pri tvorbe obsahu (Tang a spol. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Vzorce interakcie učiteľa s AI pri návrhu hodín naprieč skúsenosťou a znalosťou AI (Choi a spol. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - AI vo vysokom školstve: angažovanosť a sprostredkujúca úloha vyučovacích metód
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Merateľná úspora času na plánovanie popri zistení, že učitelia plánujú len 21 % až 40 % hodín od nuly
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Analytika učenia a GenAI v rozhodovaní o návrhu učenia
+- [[tang-chatbots-learning-design-2026]] — Používanie chatbota v návrhu učenia: návrhári sa zdržiavajú pri výsledkoch a pedagogike, a nie pri tvorbe obsahu (Tang a spol. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Vzorce interakcie učiteľa s AI pri návrhu hodín naprieč skúsenosťou a znalosťou AI (Choi a spol. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI vo vysokom školstve: angažovanosť a sprostredkujúca úloha vyučovacích metód
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taxonómia (hraničný objekt) na klasifikáciu učebných aktivít s GenAI
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonómia (hraničný objekt) na klasifikáciu učebných aktivít s GenAI
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -155,19 +155,19 @@ Fowlin a spol. (2026) pridávajú operatívny krok na rozhodnutie, kde AI vstúp
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Agenti AI na webe: autonómny webový agent hodnotí návrhy hodín a predpovedá vypadnutie študentov ešte pred ich zapojením (Wang, Mitchell a Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: rámec kognitívne aktivovaného rozšírenia AI vo fyzike
+- [[ai-web-agents-lesson-design-2025]] — Agenti AI na webe: autonómny webový agent hodnotí návrhy hodín a predpovedá vypadnutie študentov ešte pred ich zapojením (Wang, Mitchell a Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: rámec kognitívne aktivovaného rozšírenia AI vo fyzike
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Designing for Reach: sedem pák a študent sám s AI
+- [[halani-designing-for-reach-2026]] — Designing for Reach: sedem pák a študent sám s AI
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Keď "nie" robí videá lepšími: dvojité hradlovanie pre pedagogicky ukotvenú tvorbu obsahu s AI
-- [[rhaimi-productivemath-2025]] - ProductiveMath: AI na podporu návrhu úloh produktívneho zlyhania
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI a prax inštrukčného dizajnu: systematický prehľad (Kibar a Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Grafové inteligentné tutorstvo pre dynamické domény (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Úmyselne otravovať AI: obmedzenie v písaní podporovanom AI (Konradt, Boote a Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Model inteligentnej triedy a slučka D-T-E zlepšujúce zručnosť inštrukčného dizajnu v magisterskom štúdiu matematiky (Zhu a spol. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Platforma s podporou AI na generovanie úloh matematického modelovania (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Spolunávrh učebných úloh učiteľom a AI: trendy a perspektívy (Wang a spol. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architektúra rolí v diferencovaných skupinových aktivitách navrhnutých AI (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM ako agenti iteratívneho pedagogického návrhu
+- [[ai-video-dual-gatekeeping-2026]] — Keď "nie" robí videá lepšími: dvojité hradlovanie pre pedagogicky ukotvenú tvorbu obsahu s AI
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI na podporu návrhu úloh produktívneho zlyhania
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI a prax inštrukčného dizajnu: systematický prehľad (Kibar a Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Grafové inteligentné tutorstvo pre dynamické domény (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Úmyselne otravovať AI: obmedzenie v písaní podporovanom AI (Konradt, Boote a Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Model inteligentnej triedy a slučka D-T-E zlepšujúce zručnosť inštrukčného dizajnu v magisterskom štúdiu matematiky (Zhu a spol. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Platforma s podporou AI na generovanie úloh matematického modelovania (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Spolunávrh učebných úloh učiteľom a AI: trendy a perspektívy (Wang a spol. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architektúra rolí v diferencovaných skupinových aktivitách navrhnutých AI (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM ako agenti iteratívneho pedagogického návrhu

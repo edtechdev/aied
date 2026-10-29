@@ -9,7 +9,6 @@ audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: "concepts/educational-development"
 source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
@@ -162,8 +161,8 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Conoscenza TPACK-21 auto-percepita dal corpo docente per la GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK PD: la presenza predice i guadagni, la partecipazione auto-percepita no
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Conoscenza TPACK-21 auto-percepita dal corpo docente per la GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: la presenza predice i guadagni, la partecipazione auto-percepita no
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
@@ -174,4 +173,4 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 - [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
 
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
-- [[ai-competence-framework-landscape-2026]] - Verificate cosa descrivono i livelli di un quadro prima di adottarlo
+- [[ai-competence-framework-landscape-2026]] — Verificate cosa descrivono i livelli di un quadro prima di adottarlo

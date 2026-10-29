@@ -87,5 +87,5 @@ PBL [[active-learning]], [[experiential-learning]], [[collaborative-learning]], 
 - [[educational-robotics-pathways-2026]] — AI-संचालित शैक्षणिक रोबोटिक्स सीखने के मार्ग (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL एक प्रमुख CT सीखने की रणनीति है
 - [[creative-project-approach-ai-early-childhood-2025]] — क्रिएटिव प्रोजेक्ट अप्रोच: प्रारंभिक शैशवावस्था में प्रोजेक्ट अप्रोच के भीतर AI एजेंट और रोबोटिक्स (यांग, ली और ली 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - टीम सॉफ़्टवेयर PBL में AI एजेंट के साथ SDD
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — टीम सॉफ़्टवेयर PBL में AI एजेंट के साथ SDD
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: एक इमर्सिव VR डिज़ाइन स्टूडियो जिसमें एक एम्बेडेड टीचिंग एजेंट है, पारंपरिक PBL के मुकाबले मूल्यांकित (जिन एट अल. 2026)

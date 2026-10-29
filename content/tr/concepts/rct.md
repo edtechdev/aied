@@ -8,7 +8,6 @@ research_method: [experiment]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/rct
 source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

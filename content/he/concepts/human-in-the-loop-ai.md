@@ -10,7 +10,6 @@ level: [higher ed, k 12]
 confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
-reviewed_by: [editor]
 translation_of: concepts/human-in-the-loop-ai
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

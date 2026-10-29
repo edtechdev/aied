@@ -7,7 +7,6 @@ ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
 level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
-reviewed_by: [editor]
 translation_of: concepts/guardrails
 source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

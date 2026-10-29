@@ -29,7 +29,6 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/ai-infused-assignment-playbook
 source_updated: "2026-10-10T10:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

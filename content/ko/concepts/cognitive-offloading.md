@@ -196,9 +196,9 @@ AI 교육에서 AI의 가장 중대한 위험들:
 - [[cognitive-surrender]]
 
 ## 연결된 문서
-- [[ai-proof-learning-cognitive-offloading-2026]] - 추론을 지원하는가 대체하는가? AI 지원 증명 학습에서의 인지 부하 외주화 (Chen 등 2026)
-- [[llm-math-homework-offloading-traces-2026]] - 제출물이 보여주지 않는 것: LLM과 함께하는 학생의 수학 작업에서 인지 부하 외주화를 복잡화하기 (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 학습 과정 65개에 대한 30명 전문가 합의: 학습 순서의 양끝에서의 외주화
+- [[ai-proof-learning-cognitive-offloading-2026]] — 추론을 지원하는가 대체하는가? AI 지원 증명 학습에서의 인지 부하 외주화 (Chen 등 2026)
+- [[llm-math-homework-offloading-traces-2026]] — 제출물이 보여주지 않는 것: LLM과 함께하는 학생의 수학 작업에서 인지 부하 외주화를 복잡화하기 (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 학습 과정 65개에 대한 30명 전문가 합의: 학습 순서의 양끝에서의 외주화
 - [[rented-self-decoupling-performance-becoming-2026]] — 임대된 자아: 기술뿐만 아니라 학습자의 영역 자아를 잃게 하는 외주화
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — 비슷하게 시작한 집단들이 갈라졌다: 한 프로파일의 74.1% 모델 활용 대 다른 프로파일의 80.8% 외주화와 교착(Kilinc 등 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI 지원이 세 RCT에 걸쳐 끈기와 무보조 수행을 줄였다(Liu 등 2026)

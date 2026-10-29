@@ -9,7 +9,6 @@ ethics: [equity-in-ai-education, ethics]
 level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
-reviewed_by: [editor]
 translation_of: "concepts/privacy"
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

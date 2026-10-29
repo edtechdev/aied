@@ -8,7 +8,6 @@ technology: [adaptive-learning, affective-computing, generative-ai, intelligent-
 audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: "concepts/affective-tutoring"
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

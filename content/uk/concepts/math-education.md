@@ -8,7 +8,6 @@ discipline: [math education, stem education]
 audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/math-education
 source_updated: "2026-10-28T00:58:16-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

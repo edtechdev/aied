@@ -163,61 +163,61 @@ Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-litera
 - [[ai-education]]
 - [[tpack]]
 - [[teacher-education]]
-- [[pedagogy]]: paraply for pedagogikker og undervisningsstrategier i AI-undervisning
+- [[pedagogy]] — paraply for pedagogikker og undervisningsstrategier i AI-undervisning
 
 ## Beslektede artikler
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]]: Hvilke lærere fikk mer planleggingstid: lavere trygghet på fagkunnskap, lavere pedagogisk kunnskap, nyere i yrket eller høy trygghet på teknologi
-- [[ai-misconceptions-indonesian-k12-teachers-2026]]: Lærere aksepterer AI mens de misforstår hvordan den virker (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]]: Lærerberedskap og teknologisk-pedagogisk integrasjon som den hyppigst rapporterte utfordringen på tvers av 54 studier i matematikkdidaktikk (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]]: Multimodal vurderingskompetanse: et ettårig program der kunnskap og kompetanse beveget seg og verdiene ikke
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Hvilke lærere fikk mer planleggingstid: lavere trygghet på fagkunnskap, lavere pedagogisk kunnskap, nyere i yrket eller høy trygghet på teknologi
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Lærere aksepterer AI mens de misforstår hvordan den virker (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Lærerberedskap og teknologisk-pedagogisk integrasjon som den hyppigst rapporterte utfordringen på tvers av 54 studier i matematikkdidaktikk (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal vurderingskompetanse: et ettårig program der kunnskap og kompetanse beveget seg og verdiene ikke
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]]: Intelligent-TPACK-PD: en halv standardavvik i gevinst, og negative gevinster som leses som rekalibrering. Påvirkningen av programmer for profesjonell utvikling på K-12-læreres AI-kompetanse: en systematisk oversikt og metaanalyse
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-PD: en halv standardavvik i gevinst, og negative gevinster som leses som rekalibrering. Påvirkningen av programmer for profesjonell utvikling på K-12-læreres AI-kompetanse: en systematisk oversikt og metaanalyse
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]]: Lærere merket egne AI-caser fra klasserommet og nådde praktiske kompetanser lett, men samfunnsmessige og etiske sjelden (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]]: Verktøyvalg som utøvelse av utdannerens agens
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]]: Systematisk oversikt over generativ AI i K-12-undervisning og -læring (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]]: Læreres profesjonskunnskap i K-12-AI-undervisning: TAIK mot TPAIK og elevenes læring (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]]: Mønstre for lærer-AI-samhandling i undervisningsdesign på tvers av erfaring og AI-dyktighet (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]]: Lærerstudenters ansvarlige GenAI-bruk: læreplanskonsekvenser (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]]: LLM-basert klasseromsobservasjon for læreres profesjonelle utvikling (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]]: Generativ AI på tvers av representasjoner, dekomponeringer og tilnærminger: prøving, strukturert tilbakemelding og presisjonsadvarslene
-- [[genai-pd-ai-pck-learning-gain-2026]]: Effekten av et intensivt GenAI-program for profesjonell utvikling
-- [[ai-tpack-teacher-multi-agent-workflow]]: Å modellere AI-TPACK gjennom læreres multiagent-arbeidsflyter
-- [[teacher-ai-teaming-five-levels]]: Mot synergistiske lærer-AI-interaksjoner
-- [[teacher-education-ai-literacy-sdt-2026]]: Lærerutdanning for AI-kompetanse gjennom selvbestemmelsesteori
-- [[genai-literacy-training-teacher-education-dbr-2026]]: Designbasert forskning på GenAI-kompetansetrening
-- [[rail-ed-genai-literacy-teacher-education]]: Å tenke nytt om GenAI-kompetanse i lærerutdanningen
-- [[sec-ai-literacy-narrative-review-2026]]: Å integrere sosioemosjonelle kompetanser med AI-kompetanse
-- [[teacher-ai-adoption-confidence]]: AI-adopsjon blant lærere: trygghet og støtte
-- [[ai-pedagogical-orientation]]: Faglærerorienteringer former AI-adopsjon
-- [[ai-literacy-assessment-misalignment]]: Manglende samsvar mellom selvrapportert og prestasjonsbasert AI-kompetanse
-- [[quest-ai-inquiry-preservice-teachers]]: AI-støttet undersøkelse for lærerstudenter
-- [[sangwa-epiq-ai-faculty-readiness-2026]]: EPIQ-AI-rammeverket for faglærerberedskap
-- [[llm-cultural-relevance-k12]]: LLM-er for kulturrelevant K-12-pedagogikk
-- [[institutional-change-framework-ai]]: Rammeverk for institusjonell endring for AI
-- [[teachingcoach-chatbot-instructor-guidance]]: TeachingCoach-chatbot for veiledning av undervisere
-- [[laidlaw-genai-identity-crisis-faculty-2026]]: GenAI som identitetskrise, ikke ferdighetsgap
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Lærere merket egne AI-caser fra klasserommet og nådde praktiske kompetanser lett, men samfunnsmessige og etiske sjelden (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Verktøyvalg som utøvelse av utdannerens agens
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematisk oversikt over generativ AI i K-12-undervisning og -læring (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Læreres profesjonskunnskap i K-12-AI-undervisning: TAIK mot TPAIK og elevenes læring (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Mønstre for lærer-AI-samhandling i undervisningsdesign på tvers av erfaring og AI-dyktighet (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Lærerstudenters ansvarlige GenAI-bruk: læreplanskonsekvenser (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — LLM-basert klasseromsobservasjon for læreres profesjonelle utvikling (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generativ AI på tvers av representasjoner, dekomponeringer og tilnærminger: prøving, strukturert tilbakemelding og presisjonsadvarslene
+- [[genai-pd-ai-pck-learning-gain-2026]] — Effekten av et intensivt GenAI-program for profesjonell utvikling
+- [[ai-tpack-teacher-multi-agent-workflow]] — Å modellere AI-TPACK gjennom læreres multiagent-arbeidsflyter
+- [[teacher-ai-teaming-five-levels]] — Mot synergistiske lærer-AI-interaksjoner
+- [[teacher-education-ai-literacy-sdt-2026]] — Lærerutdanning for AI-kompetanse gjennom selvbestemmelsesteori
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Designbasert forskning på GenAI-kompetansetrening
+- [[rail-ed-genai-literacy-teacher-education]] — Å tenke nytt om GenAI-kompetanse i lærerutdanningen
+- [[sec-ai-literacy-narrative-review-2026]] — Å integrere sosioemosjonelle kompetanser med AI-kompetanse
+- [[teacher-ai-adoption-confidence]] — AI-adopsjon blant lærere: trygghet og støtte
+- [[ai-pedagogical-orientation]] — Faglærerorienteringer former AI-adopsjon
+- [[ai-literacy-assessment-misalignment]] — Manglende samsvar mellom selvrapportert og prestasjonsbasert AI-kompetanse
+- [[quest-ai-inquiry-preservice-teachers]] — AI-støttet undersøkelse for lærerstudenter
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI-rammeverket for faglærerberedskap
+- [[llm-cultural-relevance-k12]] — LLM-er for kulturrelevant K-12-pedagogikk
+- [[institutional-change-framework-ai]] — Rammeverk for institusjonell endring for AI
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach-chatbot for veiledning av undervisere
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskrise, ikke ferdighetsgap
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]]: Å vurdere læreres digitale kompetanse for GenAI-læreplansdesign (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]]: fenomenografisk studie av universitetslæreres oppfatninger av AI
-- [[ukraine-ai-literacy-secondary-framework-2026]]: Femnivårammeverk for AI-kompetanse og PD for ukrainske lærere i videregående skole (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]]: Læreres og AI-samdesign av læringsoppgaver: trender og perspektiver (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]]: Rollarkitektur i AI-designede differensierte gruppeaktiviteter (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Å vurdere læreres digitale kompetanse for GenAI-læreplansdesign (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — fenomenografisk studie av universitetslæreres oppfatninger av AI
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Femnivårammeverk for AI-kompetanse og PD for ukrainske lærere i videregående skole (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Læreres og AI-samdesign av læringsoppgaver: trender og perspektiver (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Rollarkitektur i AI-designede differensierte gruppeaktiviteter (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]]: Prompt engineering og modellvalg som prediktorer for AI-tilbakemeldingens kvalitet (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]]: AI-skyldkomplekset: forventet skyld og fire moralske responsprofiler blant akademisk personale (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]]: En tre timers PD-økt for lærere hevet opplevd nytte og brukervennlighet, men ikke uttalt intensjon om å ta verktøyet i bruk (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]]: Systematisk oversikt over AI i lærerutdanningen i matematikk for barnetrinnet: etikk behandlet i bare tre av elleve studier (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]]: AAC&U/Elon-undersøkelse blant 1 057 amerikanske faglærere: forberedthet, ikke-bruk og gapet mellom individ og institusjon i policy (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]]: Tverrinstitusjonelt faglærerkollektiv: AI-integrasjon som undervisningsdesign i lærerutdanningen
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]]: Systematisk oversikt over 33 instrumenter for å måle læreres AI-kompetanse: 31 selvrapportering, to objektive kunnskapstester, ingen prestasjonsoppgaver (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]]: En designbasert adaptiv AI-kompetansemodell og et refleksivt skjema med 20 elementer samdesignet med 22 lærerutdannere (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]]: En workshopserie for effektiv bruk av AI i usikre tider: å bygge et faglærerlæringsfellesskap i fysikk
-- [[authentic-assessments-generative-ai-pilot-2026]]: Å designe autentiske vurderinger med generativ AI: en pilotstudie av Assessment Authentifire i høyere utdanning
-- [[teachers-configure-educational-chatbots-2026]]: Vil den undervise som tiltenkt? Hvordan lærere konfigurerer pedagogiske AI-chatboter
-- [[capability-decision-model-teacher-readiness-2026]]: Ordnet kapabilitetsførst-modell for lærerberedskap med prestasjonsbaserte kapabilitetsindikatorer
-- [[k12-teachers-genai-beliefs-five-countries-2026]]: Tverrnasjonal undersøkelse blant 1 405 K-12-lærere: beredskap forutsier positive oppfatninger, men ikke bekymring
-- [[teachers-ai-belief-profiles-talis-2024-2026]]: Fire lærerprofiler fra TALIS 2024 knytter profesjonell læring og profilspesifikke hindringer til AI-bruk
-- [[microlearning-ai-modules-vocational-teacher-education-2026]]: Å designe mikrolæringsmoduler om AI for universitetslærere i yrkesfaglærerutdanningen: en designbasert forskningsstudie
-- [[eduwild-teacher-configured-chatbots-failures-2026]]: EduWild: hvordan lærerkonfigurerte chatboter svikter i virkelig bruk, og hvordan det kan rettes
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering og modellvalg som prediktorer for AI-tilbakemeldingens kvalitet (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI-skyldkomplekset: forventet skyld og fire moralske responsprofiler blant akademisk personale (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — En tre timers PD-økt for lærere hevet opplevd nytte og brukervennlighet, men ikke uttalt intensjon om å ta verktøyet i bruk (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematisk oversikt over AI i lærerutdanningen i matematikk for barnetrinnet: etikk behandlet i bare tre av elleve studier (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-undersøkelse blant 1 057 amerikanske faglærere: forberedthet, ikke-bruk og gapet mellom individ og institusjon i policy (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Tverrinstitusjonelt faglærerkollektiv: AI-integrasjon som undervisningsdesign i lærerutdanningen
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematisk oversikt over 33 instrumenter for å måle læreres AI-kompetanse: 31 selvrapportering, to objektive kunnskapstester, ingen prestasjonsoppgaver (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — En designbasert adaptiv AI-kompetansemodell og et refleksivt skjema med 20 elementer samdesignet med 22 lærerutdannere (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — En workshopserie for effektiv bruk av AI i usikre tider: å bygge et faglærerlæringsfellesskap i fysikk
+- [[authentic-assessments-generative-ai-pilot-2026]] — Å designe autentiske vurderinger med generativ AI: en pilotstudie av Assessment Authentifire i høyere utdanning
+- [[teachers-configure-educational-chatbots-2026]] — Vil den undervise som tiltenkt? Hvordan lærere konfigurerer pedagogiske AI-chatboter
+- [[capability-decision-model-teacher-readiness-2026]] — Ordnet kapabilitetsførst-modell for lærerberedskap med prestasjonsbaserte kapabilitetsindikatorer
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Tverrnasjonal undersøkelse blant 1 405 K-12-lærere: beredskap forutsier positive oppfatninger, men ikke bekymring
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Fire lærerprofiler fra TALIS 2024 knytter profesjonell læring og profilspesifikke hindringer til AI-bruk
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Å designe mikrolæringsmoduler om AI for universitetslærere i yrkesfaglærerutdanningen: en designbasert forskningsstudie
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: hvordan lærerkonfigurerte chatboter svikter i virkelig bruk, og hvordan det kan rettes

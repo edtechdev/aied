@@ -178,31 +178,31 @@ A IA na educação se conecta a todos os conceitos da base de conhecimento: é o
 **"A maturidade do campo pode ser lida no seu volume de publicações."** Volume e maturidade divergem; a vertente de métodos de pesquisa documenta fragilidades recorrentes de desenho que o volume não corrige, e os frameworks se multiplicam mais rápido do que são testados.
 
 ## Conceitos conectados
-- [[ai-literacy]]: guarda-chuva, compreender, usar e avaliar a IA
-- [[human-ai-collaboration]]: guarda-chuva, como pessoas e IA trabalham juntas
-- [[pedagogy]]: guarda-chuva, métodos e estratégias de ensino
-- [[learning-theories]]: guarda-chuva, como a aprendizagem acontece
-- [[ai-technologies]]: guarda-chuva, modelos, técnicas e sistemas
-- [[discipline-specific-aied]]: guarda-chuva, a IA nas áreas do conhecimento e nos níveis de ensino
-- [[assessment]]: guarda-chuva, como a IA avalia os estudantes e reformula a validade
-- [[feedback]]: guarda-chuva, como o feedback é gerado, entregue e usado
-- [[stakeholders]]: guarda-chuva, quem são os atores
-- [[learners]]: guarda-chuva, os conceitos do lado do estudante (experiência, identidade, autonomia, interação, modelos de estudante)
-- [[ai-ed-evaluation]]: guarda-chuva, como sabemos se a IA funciona
-- [[research-methods-aied]]: guarda-chuva, métodos de pesquisa de eficácia
-- [[governance]]: guarda-chuva, a camada institucional e regulatória
-- [[educational-policy-ai]]: guarda-chuva, política, orientações e implementação
-- [[equity-in-ai-education]]: guarda-chuva, justiça, acesso e inclusão
-- [[learning-sciences]]: o campo empírico por trás da AIED
-- [[ethics]]: as dimensões éticas da IA na educação
-- [[misconceptions]]: os modelos mentais que as pessoas trazem sobre a IA
-- [[interpreting-and-applying-aied-research]]: ler um estudo e levar um achado para a prática
-- [[limitations-in-aied-research]]: limites transversais da base de evidências
-- [[meta-analysis-systematic-review]]: o que as revisões e meta-análises estabelecem
-- [[history-of-aied]]: como o campo evoluiu
-- [[philosophy-of-ai-in-education]]: os fundamentos filosóficos
-- [[theories-and-frameworks]]: o mapa dos nós de teoria e framework
-- [[theory-development-aied]]: construir e revisar teoria
+- [[ai-literacy]] — guarda-chuva, compreender, usar e avaliar a IA
+- [[human-ai-collaboration]] — guarda-chuva, como pessoas e IA trabalham juntas
+- [[pedagogy]] — guarda-chuva, métodos e estratégias de ensino
+- [[learning-theories]] — guarda-chuva, como a aprendizagem acontece
+- [[ai-technologies]] — guarda-chuva, modelos, técnicas e sistemas
+- [[discipline-specific-aied]] — guarda-chuva, a IA nas áreas do conhecimento e nos níveis de ensino
+- [[assessment]] — guarda-chuva, como a IA avalia os estudantes e reformula a validade
+- [[feedback]] — guarda-chuva, como o feedback é gerado, entregue e usado
+- [[stakeholders]] — guarda-chuva, quem são os atores
+- [[learners]] — guarda-chuva, os conceitos do lado do estudante (experiência, identidade, autonomia, interação, modelos de estudante)
+- [[ai-ed-evaluation]] — guarda-chuva, como sabemos se a IA funciona
+- [[research-methods-aied]] — guarda-chuva, métodos de pesquisa de eficácia
+- [[governance]] — guarda-chuva, a camada institucional e regulatória
+- [[educational-policy-ai]] — guarda-chuva, política, orientações e implementação
+- [[equity-in-ai-education]] — guarda-chuva, justiça, acesso e inclusão
+- [[learning-sciences]] — o campo empírico por trás da AIED
+- [[ethics]] — as dimensões éticas da IA na educação
+- [[misconceptions]] — os modelos mentais que as pessoas trazem sobre a IA
+- [[interpreting-and-applying-aied-research]] — ler um estudo e levar um achado para a prática
+- [[limitations-in-aied-research]] — limites transversais da base de evidências
+- [[meta-analysis-systematic-review]] — o que as revisões e meta-análises estabelecem
+- [[history-of-aied]] — como o campo evoluiu
+- [[philosophy-of-ai-in-education]] — os fundamentos filosóficos
+- [[theories-and-frameworks]] — o mapa dos nós de teoria e framework
+- [[theory-development-aied]] — construir e revisar teoria
 - [[pedagogical-patterns]] — Padrões pedagógicos: as sequências testadas que operacionalizam as pedagogias do campo
 - [[ai-assisted-educational-research]] — Investigação educacional assistida por IA
 
@@ -210,8 +210,8 @@ A IA na educação se conecta a todos os conceitos da base de conhecimento: é o
 
 Revisões de campo sobre a IA na educação, os estudos que examinam todo o campo ou todo um nível de ensino em vez de um único tópico:
 
-- [[rismanchian-ai-education-four-decades-aixed-2026]]: The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]]: Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]]: Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]]: The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
+- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
+- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis

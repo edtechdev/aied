@@ -8,7 +8,6 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
-reviewed_by: [editor]
 translation_of: concepts/reducing-ai-misuse
 source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -119,7 +118,7 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## المقالات المرتبطة
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - حجب توصية منع الاعتماد المفرط إلى حدّ كبير دون بناء الحكم الذي يحميه
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — حجب توصية منع الاعتماد المفرط إلى حدّ كبير دون بناء الحكم الذي يحميه
 - [[ivory-psychology-assessment-integrity-2026]] — مسارات أدلة ضبط الإصدارات ومستندات التحليل القابلة لإعادة الإنتاج كرادعات لإساءة الاستخدام (Ivory et al. 2026)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning

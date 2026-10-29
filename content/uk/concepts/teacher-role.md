@@ -10,7 +10,6 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/teacher-role
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
@@ -205,7 +204,7 @@ ai_assist:
 - [[stakeholders]] — Зонтична категорія: люди та аудиторії в освіті зі ШІ (здобувачі, викладачі, проєктувальники, адміністратори, політики)
 
 ## Пов’язані статті
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Погодинні викладачі несуть роботу з доброчесності без повноважень
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Погодинні викладачі несуть роботу з доброчесності без повноважень
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — Парадокс більшої людяності: експертні сценарії на 2030 рік встановлюють, що насиченість ШІ посилює, а не витісняє людську педагогічну роботу (Malyn-Smith та співавт. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Шість спостережуваних уроків математики в старшій школі розширюють інструментальне оркестрування трьома новими типами (Noh та Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Реагування на згенеровані ШІ сповіщення про емоції: втручання викладачів і залученість студентів на занятті з математики
@@ -253,4 +252,4 @@ ai_assist:
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — Від постачальників інформації до проєктувальників навчання: heutagogічні практики викладання в освіті з розширенням від ШІ
 - [[falhs-teacher-expertise-reflection-2025]] — «How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment» (Falhs та співавт. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — конверсаційний ШІ-діагностикум для виявлення педагогічних місконцепцій із діалогом, що спирається на докази (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - Використання ШІ не мало прямого ефекту на результативність викладача; громадянська поведінка опосередковувала його (Sherly та співавт. 2027)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — Використання ШІ не мало прямого ефекту на результативність викладача; громадянська поведінка опосередковувала його (Sherly та співавт. 2027)

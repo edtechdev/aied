@@ -7,7 +7,6 @@ discipline: [science education, stem education]
 confidence: medium
 created: "2026-10-14T21:45:00-04:00"
 source_updated: "2026-10-05T10:25:44-04:00"
-reviewed_by: [editor]
 translation_of: concepts/science-education
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]

@@ -8,7 +8,6 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/cs-education
 source_updated: "2026-10-14T14:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -186,7 +185,7 @@ Elimu ya CS inaungana na [[computational-thinking]], [[stem-education]], [[autom
 - [[llm-adaptive-programming-error-explanations-2026]] — Maelezo ya makosa ya programu yanayobadilika ya LLM
 - [[soft-barriers-copying-ai-programming-2026]] — Upinzani wa kunakili-nywele katika programu inayosaidiwa na AI
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD na mawakala wa AI katika kozi ya PBL ya programu; uwezo dhidi ya uelewa
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD na mawakala wa AI katika kozi ya PBL ya programu; uwezo dhidi ya uelewa
 - [[student-reception-genai-analogies-computing-2026]] — Yenye Dosari lakini Inayokumbukika: Mapokezi Mahususi ya Wanafunzi ya Mifano ya GenAI Yenye Uchezaji Mahususi katika Elimu ya Kompyuta
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: kupima uwezo wa mifano wa kuzalisha dhana potofu za kimkakati katika mtaala wote wa CS
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Timu nyekundu ya kuingiza ilani katika uwiano unaoendeshwa na AI: maagizo yaliyofichwa yanayosogeza alama bila kugunduliwa

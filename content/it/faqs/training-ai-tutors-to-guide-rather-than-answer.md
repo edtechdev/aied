@@ -14,7 +14,6 @@ discipline: [math education, language learning]
 confidence: high
 methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
-reviewed_by: [editor]
 contributors: [editor]
 translation_of: "faqs/training-ai-tutors-to-guide-rather-than-answer"
 source_updated: "2026-10-22T09:11:45-04:00"

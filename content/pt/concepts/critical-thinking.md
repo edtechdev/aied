@@ -110,7 +110,7 @@ O pensamento crítico se cruza com [[scaffolding]] (desenhar apoio de IA que man
 - [[cognitive-surrender]]
 
 ## Artigos conectados
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Um consenso de 30 especialistas: o pensamento crítico carrega a maior nota de disrupção do relatório (média 4,00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um consenso de 30 especialistas: o pensamento crítico carrega a maior nota de disrupção do relatório (média 4,00)
 - [[pearls-epistemic-verification-2026]] — framework PEARLS para agência epistêmica e verificação da saída de IA (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — offloading cognitivo sensível a camadas na escrita assistida por GenAI (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — O paradoxo do pensamento crítico na aprendizagem integrada com GenAI

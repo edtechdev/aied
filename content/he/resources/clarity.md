@@ -32,7 +32,6 @@ ai_assist:
 translation_of: resources/clarity
 source_updated: "2026-09-24T05:29:55-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
-reviewed_by: [editor]
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*

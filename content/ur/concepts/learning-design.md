@@ -136,14 +136,14 @@ Fowlin et al. (2026) یہ فیصلہ کرنے کا ایک عملی طریقہ ب
 
 ## منسلک مضامین
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - منصوبہ بندی کے وقت کی ایک پیمودہ بچت، اور ساتھ یہ دریافت کہ اساتذہ صرف 21% سے 40% اسباق شروع سے تیار کرتے ہیں
-- [[powerful-learning-with-emerging-technology-2025]] - Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] - سیکھنے کے ڈیزائن کے فیصلوں میں سیکھنے کے تجزیات اور GenAI
-- [[tang-chatbots-learning-design-2026]] - سیکھنے کے ڈیزائن میں چیٹ بوٹ کا استعمال: ڈیزائنرز مواد کی تخلیق کے بجائے نتائج اور پيدگوجی پر ٹھہرتے ہیں (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - سبق کے ڈیزائن میں استاد اور AI کے تعامل کے انداز، تجربے اور AI کی مہارت کے لحاظ سے (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - اعلیٰ تعلیم میں AI: مشغولیت اور تدریسی طریقوں کا واسطہ کردار
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — منصوبہ بندی کے وقت کی ایک پیمودہ بچت، اور ساتھ یہ دریافت کہ اساتذہ صرف 21% سے 40% اسباق شروع سے تیار کرتے ہیں
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- [[claassen-learning-analytics-genai-learning-design-2026]] — سیکھنے کے ڈیزائن کے فیصلوں میں سیکھنے کے تجزیات اور GenAI
+- [[tang-chatbots-learning-design-2026]] — سیکھنے کے ڈیزائن میں چیٹ بوٹ کا استعمال: ڈیزائنرز مواد کی تخلیق کے بجائے نتائج اور پيدگوجی پر ٹھہرتے ہیں (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — سبق کے ڈیزائن میں استاد اور AI کے تعامل کے انداز، تجربے اور AI کی مہارت کے لحاظ سے (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — اعلیٰ تعلیم میں AI: مشغولیت اور تدریسی طریقوں کا واسطہ کردار
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - GenAI سیکھنے کی سرگرمیوں کی درجہ بندی کے لیے ٹیکسونومی (boundary object)
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — GenAI سیکھنے کی سرگرمیوں کی درجہ بندی کے لیے ٹیکسونومی (boundary object)
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin et al. (2026) یہ فیصلہ کرنے کا ایک عملی طریقہ ب
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - AI ویب ایجنٹس: خودمختار ویب ایجنٹ سبق کے ڈیزائن کا جائزہ لیتا ہے اور طلبہ کے شامل ہونے سے پہلے ان کے رک جانے کی پیش گوئی کرتا ہے (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: فزکس میں علمی طور پر فعال AI افزودگی کا فریم ورک
+- [[ai-web-agents-lesson-design-2025]] — AI ویب ایجنٹس: خودمختار ویب ایجنٹ سبق کے ڈیزائن کا جائزہ لیتا ہے اور طلبہ کے شامل ہونے سے پہلے ان کے رک جانے کی پیش گوئی کرتا ہے (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: فزکس میں علمی طور پر فعال AI افزودگی کا فریم ورک
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Designing for Reach: سات لیور اور AI کے ساتھ تنہا طالب علم
+- [[halani-designing-for-reach-2026]] — Designing for Reach: سات لیور اور AI کے ساتھ تنہا طالب علم
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - جب نہ کہنا بہتر ویڈیوز بناتا ہے: پيدگوجی پر استوار AI مواد کی تخلیق کے لیے دوہری دروازہ بندی
-- [[rhaimi-productivemath-2025]] - ProductiveMath: پیداواری ناکامی کے مسئلے کے ڈیزائن کی معاونت کے لیے AI
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - AI اور انسٹرکشنل ڈیزائن کی مشق: ایک منظم جائزہ (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - متحرک شعبوں کے لیے گراف پر مبنی انٹیلی جینٹ ٹیوٹرنگ (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - AI کو جان بوجھ کر پریشان کن بنانا: AI کی معاونت والی تحریر میں محدودیت (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - سمارٹ کلاس روم ماڈل اور D-T-E لوپ جو ریاضی میں M.Ed. انسٹرکشنل ڈیزائن کی مہارت بہتر بناتے ہیں (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - ریاضیاتی ماڈلنگ کے مسائل پیدا کرنے والا AI پلیٹ فارم (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - اساتذہ اور AI کا سیکھنے کے کاموں میں مشترکہ ڈیزائن: رجحانات اور نقطہ نظر (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - AI کے ڈیزائن کردہ تفریقی گروپ سرگرمیوں میں کرداروں کا ڈھانچہ (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLMs بطور عامل تکراری پيدگوجیکل ڈیزائن
+- [[ai-video-dual-gatekeeping-2026]] — جب نہ کہنا بہتر ویڈیوز بناتا ہے: پيدگوجی پر استوار AI مواد کی تخلیق کے لیے دوہری دروازہ بندی
+- [[rhaimi-productivemath-2025]] — ProductiveMath: پیداواری ناکامی کے مسئلے کے ڈیزائن کی معاونت کے لیے AI
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI اور انسٹرکشنل ڈیزائن کی مشق: ایک منظم جائزہ (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — متحرک شعبوں کے لیے گراف پر مبنی انٹیلی جینٹ ٹیوٹرنگ (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — AI کو جان بوجھ کر پریشان کن بنانا: AI کی معاونت والی تحریر میں محدودیت (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — سمارٹ کلاس روم ماڈل اور D-T-E لوپ جو ریاضی میں M.Ed. انسٹرکشنل ڈیزائن کی مہارت بہتر بناتے ہیں (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — ریاضیاتی ماڈلنگ کے مسائل پیدا کرنے والا AI پلیٹ فارم (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — اساتذہ اور AI کا سیکھنے کے کاموں میں مشترکہ ڈیزائن: رجحانات اور نقطہ نظر (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AI کے ڈیزائن کردہ تفریقی گروپ سرگرمیوں میں کرداروں کا ڈھانچہ (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs بطور عامل تکراری پيدگوجیکل ڈیزائن

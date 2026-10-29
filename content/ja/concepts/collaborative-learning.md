@@ -121,7 +121,7 @@ AI が支える協働作業について利用可能な唯一のメタ分析の�
 - [[pedagogy]] — 傘: AI 教育における教授法と教授方略
 
 ## 関連する記事
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 人の専門家の合意が一面的な社会的リスクを見出す——向上の道のない協働過程の脆弱性
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 人の専門家の合意が一面的な社会的リスクを見出す——向上の道のない協働過程の脆弱性
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 生成 AI が支える教育の有望な枠組みとしての課題基盤型・プロジェクト基盤型学習——システマティック・レビューと三段階メタ分析から浮かぶ新しい証拠
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — 暗黙の人間と AI の協働における創発的な学習者の主体性——支援的ペルソナと逆張りペルソナ
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

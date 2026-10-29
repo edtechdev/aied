@@ -10,7 +10,6 @@ confidence: medium
 audience: [instructors, learners, researchers, instructional designers, software developers]
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
-reviewed_by: [editor]
 translation_of: concepts/recommender-systems-and-learning-paths
 source_updated: "2026-10-01T20:35:10-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
@@ -251,7 +250,7 @@ Kifejezetten a kritikai MI-írástudás esetében [[solyst-youth-systematic-eval
 ## Összefüggő cikkek
 - [[early-childhood-ai-holistic-competencies-review-2026]] — A kisgyermekkor formálása az MI korában: kompetenciák, pedagógia és ökológiai támogatás (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — MI-biztonsági írástudás: ökoszisztéma-alapú kompetenciakeret és K-12 tanulási platform
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Az írástudás etikai dimenziójának emelése megfelelési keretrendszer nélkül szorongóbban hagyhatja a diákokat
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Az írástudás etikai dimenziójának emelése megfelelési keretrendszer nélkül szorongóbban hagyhatja a diákokat
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validált keretrendszer mutatja, hogy az AI a digitális írástudást az etika felé terjeszti, míg a nevelői ember–AI együttműködés továbbra is alul specifikált (Guo és mtsai. 2026)
 - [[ai-literacies-young-adults-2025]] — Hat kompetenciaterület, öt érték és három fejlődési szint a közszolgálati média számára
 - [[ai-literacy-heptagon-2026]] — Az AI Literacy Heptagon

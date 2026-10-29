@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
@@ -249,7 +249,7 @@ Für kritische KI-Kompetenz im Besonderen zeigen [[solyst-youth-systematic-evalu
 
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Frühe Kindheit im Zeitalter der KI gestalten: Kompetenzen, Pädagogik und ökologische Unterstützung (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — KI-Sicherheitskompetenz: ökosystembasierter Kompetenzrahmen und K-12-Lernplattform
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Die ethische Dimension von Kompetenz ohne einen Bewältigungsrahmen anzuheben kann Studierende ängstlicher zurücklassen
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Die ethische Dimension von Kompetenz ohne einen Bewältigungsrahmen anzuheben kann Studierende ängstlicher zurücklassen
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 validierte Rahmenwerke zeigen, dass KI die digitale Kompetenz in Richtung Ethik ausweitet, während Mensch–KI-Zusammenarbeit des Bildungspersonals unterbestimmt bleibt (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Sechs Kompetenzbereiche, fünf Werte und drei Progressionsstufen für Public-Service-Medien
 - [[ai-literacy-heptagon-2026]] — Das AI-Literacy-Heptagon

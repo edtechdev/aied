@@ -9,7 +9,6 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-reviewed_by: [editor]
 translation_of: concepts/misconceptions
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

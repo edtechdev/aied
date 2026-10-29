@@ -18,10 +18,9 @@ level: [higher ed]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
-    role: drafting
+    role: translation
     date: "2026-09-28"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/campus-ai-framework
 source_updated: "2026-09-28T04:05:42-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

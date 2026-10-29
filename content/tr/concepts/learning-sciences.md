@@ -11,7 +11,6 @@ level: [k 12, higher ed, adult learning]
 page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/learning-sciences
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

@@ -191,45 +191,45 @@ Ta sama logika zamienia kształtowanie nagród w narzędzie projektowe: [[assist
 - [[cognitive-surrender]]
 
 ## Połączone artykuły
-- [[ai-proof-learning-cognitive-offloading-2026]] - Wspierać czy zastępować rozumowanie studentów? Odciążanie poznawcze w uczeniu się dowodów wspieranym przez SI (Chen i wsp. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Czego nie pokazuje złożona praca: komplikowanie odciążania poznawczego w matematycznej pracy studentów z LLM-ami (Kontorovich i Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Konsensus 30 ekspertów na 65 procesach uczenia się: odciążanie na obu końcach sekwencji uczenia się
-- [[rented-self-decoupling-performance-becoming-2026]] - Wynajęta jaźń: odciążanie, które kosztuje dziedzinową jaźń uczącego się, a nie tylko umiejętność
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Grupy startujące podobnie rozeszły się: 74,1% przejęcia modelu w jednym profilu wobec 80,8% odciążania i impasu w innym (Kilinc i wsp. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Wsparcie SI zmniejszyło wytrwałość i wyniki bez wsparcia w trzech RCT (Liu i wsp. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT jako kula poznawcza: randomizowane badanie kontrolowane nad zatrzymaniem wiedzy po 45 dniach (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Od outsourcowania poznawczego do realokacji: analiza 3P zaangażowania student-GenAI w ocenianiu nadzorowanym (Yan i wsp. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Wsparcie autonomii rodziny i szkoły dla odpowiedzialnego korzystania dzieci z generatywnej SI
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Tarcie nadmiarowe versus korzystne: dlaczego odciążanie przez SI różni się od wcześniejszych narzędzi
-- [[thermomix-genai-education-analogy-2026]] - Z Thermomixem tracisz umiejętność gotowania: analogia maszyny kuchennej do generatywnej SI w edukacji (Rummel, Nachtigall i Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - wymywanie poznawcze: dynamika zaniku umiejętności wywołanego przez SI po wycofaniu
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Krytyczna synteza narracyjna zaangażowania i zależności w SI konwersacyjnej
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Odciążanie poznawcze wrażliwe na warstwy w pisaniu wspieranym przez GenAI (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Zależność epistemiczna w uczeniu się zapośredniczonym przez SI: sześć kryteriów diagnostycznych oddzielających produktywne poleganie od szkodliwej zależności (Du i Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Odciążanie poznawcze GenAI u uczniów z trudnościami w uczeniu się
-- [[lodge-loble-cognitive-offloading-2026]] - SI, odciążanie poznawcze i implikacje dla edukacji
-- [[cognitive-offloading-metacognitive-review-2026]] - Metapoznawcze spojrzenie na odciążanie poznawcze (Guo i Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Trening metapoznawczy ułatwia optymalne odciążanie poznawcze (Ngai i Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Paradoks myślenia krytycznego w uczeniu się zintegrowanym z GenAI
-- [[cognitive-offloading-speedup-illusion]] - Iluzja przyspieszenia pracy wspieranej przez SI
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Analiza sieci współwystępowania wzorców promptów
-- [[shaw-nave-cognitive-surrender-2026]] - Teoria trzech systemów i poddanie poznawcze: jak SI przekształca ludzkie rozumowanie (Shaw i Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kontinuum poddanie-odciążanie-sprawczość dla GenAI
-- [[ai-making-us-stupid]] - Badania nad efektami poznawczymi SI i wypieraniem uczenia się
-- [[brcic-effortless-trap-productive-struggle-2026]] - Pułapka bez wysiłku: SI zastępująca pracę poznawczą (Brcic i Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Bezrefleksyjne użycie SI eroduje uczenie się kierowane przez uczącego się
-- [[generative-ai-guardrails-harm-learning]] - RCT z matematyki w szkołach średnich nad niechronioną GenAI
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Kara za uczenie się z generatywnej SI: outsourcowanie zadań domowych szkodzi uczeniu się
-- [[coach-not-crutch-ai-writing]] - SI może pozwolić pracować mniej i uczyć się więcej (Lira i wsp. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Czynienie tutoringu SI produktywnym: ćwiczenie matematyki oparte na mistrzostwie
-- [[cognitive-commons-ai-expertise-regeneration]] - Tragedia wspólnego dobra poznawczego: SI i regeneracja ekspertyzy
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: narzędzie autorefleksji chroniące prywatność wobec odciążania poznawczego związanego z SI
-- [[chatgpt-writing-cognitive-impact-2026]] - eksperyment pisania-dla-uczenia-się, w którym pisanie wspierane przez ChatGPT dało mniejszy przyrost wiedzy niż grupa kontrolna bez wsparcia
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Wzorce odciążania poznawczego studentów na SI w szkolnictwie wyższym: naturalistyczne dowody na poziomie wiadomości ChatGPT (Piatnitckaia i wsp. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Projektowanie przeciw odsuwaniu od umiejętności: metapoznawcze sprzężenie zwrotne zmniejsza odciążanie poznawcze na asystentów LLM
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Poznanie Twoich studentów programowania z ChatGPT: wyższe wyniki, niższe zatrzymanie wiedzy i zmniejszone autorstwo
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Tendencja do odciążania i kompetencje weryfikacji przewidujące wyniki wyższego rzędu przez metapoznawczą samoregulację (Davor i wsp. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Prompt refleksyjny zmniejsza akceptację błędnej porady SI i poprawia kalibrację świadomości (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Zależność od GenAI jako warunek brzegowy dyspozycji do myślenia krytycznego i samooceny zatrudnialności (Shojaei i wsp. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Dzieci wykazywały słabszą łączność czołowo-ciemieniową, istotności i uwagi grzbietowej niż dorośli podczas rozmowy z ChatGPT, przy wyrównanych wynikach kreatywności
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI i myślenie twórcze dzieci: nadmierne poleganie i zależność od promptów w przeglądzie zakresu (Niu i wsp. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Wspierać czy zastępować rozumowanie studentów? Odciążanie poznawcze w uczeniu się dowodów wspieranym przez SI (Chen i wsp. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Czego nie pokazuje złożona praca: komplikowanie odciążania poznawczego w matematycznej pracy studentów z LLM-ami (Kontorovich i Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsensus 30 ekspertów na 65 procesach uczenia się: odciążanie na obu końcach sekwencji uczenia się
+- [[rented-self-decoupling-performance-becoming-2026]] — Wynajęta jaźń: odciążanie, które kosztuje dziedzinową jaźń uczącego się, a nie tylko umiejętność
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupy startujące podobnie rozeszły się: 74,1% przejęcia modelu w jednym profilu wobec 80,8% odciążania i impasu w innym (Kilinc i wsp. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Wsparcie SI zmniejszyło wytrwałość i wyniki bez wsparcia w trzech RCT (Liu i wsp. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT jako kula poznawcza: randomizowane badanie kontrolowane nad zatrzymaniem wiedzy po 45 dniach (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Od outsourcowania poznawczego do realokacji: analiza 3P zaangażowania student-GenAI w ocenianiu nadzorowanym (Yan i wsp. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Wsparcie autonomii rodziny i szkoły dla odpowiedzialnego korzystania dzieci z generatywnej SI
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Tarcie nadmiarowe versus korzystne: dlaczego odciążanie przez SI różni się od wcześniejszych narzędzi
+- [[thermomix-genai-education-analogy-2026]] — Z Thermomixem tracisz umiejętność gotowania: analogia maszyny kuchennej do generatywnej SI w edukacji (Rummel, Nachtigall i Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — wymywanie poznawcze: dynamika zaniku umiejętności wywołanego przez SI po wycofaniu
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Krytyczna synteza narracyjna zaangażowania i zależności w SI konwersacyjnej
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Odciążanie poznawcze wrażliwe na warstwy w pisaniu wspieranym przez GenAI (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Zależność epistemiczna w uczeniu się zapośredniczonym przez SI: sześć kryteriów diagnostycznych oddzielających produktywne poleganie od szkodliwej zależności (Du i Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Odciążanie poznawcze GenAI u uczniów z trudnościami w uczeniu się
+- [[lodge-loble-cognitive-offloading-2026]] — SI, odciążanie poznawcze i implikacje dla edukacji
+- [[cognitive-offloading-metacognitive-review-2026]] — Metapoznawcze spojrzenie na odciążanie poznawcze (Guo i Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Trening metapoznawczy ułatwia optymalne odciążanie poznawcze (Ngai i Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Paradoks myślenia krytycznego w uczeniu się zintegrowanym z GenAI
+- [[cognitive-offloading-speedup-illusion]] — Iluzja przyspieszenia pracy wspieranej przez SI
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Analiza sieci współwystępowania wzorców promptów
+- [[shaw-nave-cognitive-surrender-2026]] — Teoria trzech systemów i poddanie poznawcze: jak SI przekształca ludzkie rozumowanie (Shaw i Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kontinuum poddanie-odciążanie-sprawczość dla GenAI
+- [[ai-making-us-stupid]] — Badania nad efektami poznawczymi SI i wypieraniem uczenia się
+- [[brcic-effortless-trap-productive-struggle-2026]] — Pułapka bez wysiłku: SI zastępująca pracę poznawczą (Brcic i Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Bezrefleksyjne użycie SI eroduje uczenie się kierowane przez uczącego się
+- [[generative-ai-guardrails-harm-learning]] — RCT z matematyki w szkołach średnich nad niechronioną GenAI
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Kara za uczenie się z generatywnej SI: outsourcowanie zadań domowych szkodzi uczeniu się
+- [[coach-not-crutch-ai-writing]] — SI może pozwolić pracować mniej i uczyć się więcej (Lira i wsp. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Czynienie tutoringu SI produktywnym: ćwiczenie matematyki oparte na mistrzostwie
+- [[cognitive-commons-ai-expertise-regeneration]] — Tragedia wspólnego dobra poznawczego: SI i regeneracja ekspertyzy
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: narzędzie autorefleksji chroniące prywatność wobec odciążania poznawczego związanego z SI
+- [[chatgpt-writing-cognitive-impact-2026]] — eksperyment pisania-dla-uczenia-się, w którym pisanie wspierane przez ChatGPT dało mniejszy przyrost wiedzy niż grupa kontrolna bez wsparcia
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Wzorce odciążania poznawczego studentów na SI w szkolnictwie wyższym: naturalistyczne dowody na poziomie wiadomości ChatGPT (Piatnitckaia i wsp. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Projektowanie przeciw odsuwaniu od umiejętności: metapoznawcze sprzężenie zwrotne zmniejsza odciążanie poznawcze na asystentów LLM
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Poznanie Twoich studentów programowania z ChatGPT: wyższe wyniki, niższe zatrzymanie wiedzy i zmniejszone autorstwo
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Tendencja do odciążania i kompetencje weryfikacji przewidujące wyniki wyższego rzędu przez metapoznawczą samoregulację (Davor i wsp. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Prompt refleksyjny zmniejsza akceptację błędnej porady SI i poprawia kalibrację świadomości (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Zależność od GenAI jako warunek brzegowy dyspozycji do myślenia krytycznego i samooceny zatrudnialności (Shojaei i wsp. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Dzieci wykazywały słabszą łączność czołowo-ciemieniową, istotności i uwagi grzbietowej niż dorośli podczas rozmowy z ChatGPT, przy wyrównanych wynikach kreatywności
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI i myślenie twórcze dzieci: nadmierne poleganie i zależność od promptów w przeglądzie zakresu (Niu i wsp. 2026)

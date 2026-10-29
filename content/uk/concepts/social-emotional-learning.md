@@ -10,7 +10,6 @@ connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
 audience: [learners]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/social-emotional-learning
 source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

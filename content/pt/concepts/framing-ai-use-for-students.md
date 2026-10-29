@@ -114,7 +114,7 @@ Os estudantes também são enquadrados pela mídia e pelo discurso público mais
 - [[misconceptions]]
 
 ## Artigos conectados
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Um consenso de 30 especialistas sobre a sequência: adquira sem GenAI, consolide com ela, depois pense por si mesmo
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um consenso de 30 especialistas sobre a sequência: adquira sem GenAI, consolide com ela, depois pense por si mesmo
 
 - [[mccorkle-aligned-genai-course-policy-2025]] — Justificativa transparente para cada uso permitido e não permitido de GenAI, tarefa por tarefa (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — Encorajar o uso apropriado de GenAI em vez de condená-la como disrupção

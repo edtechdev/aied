@@ -9,7 +9,6 @@ pedagogy: [metacognition, sociocultural-learning, socratic-method]
 technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/scaffolding
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

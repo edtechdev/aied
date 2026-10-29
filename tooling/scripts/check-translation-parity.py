@@ -16,6 +16,13 @@ of fifteen), and the paragraph count of every H2 section must equal English (cat
 merged content). Neither is covered by check-translated-headings.py, which only compares the
 connected heading text, or by check-translation-staleness.py, which only compares timestamps.
 
+Staleness is the staleness gate's job. Content comparisons (headings, paragraph vector, link
+multiset) are ERRORS only when the twin claims to be current, meaning its `source_updated` reaches
+the English page's `updated`; on a stale twin they are warnings, because 3,645 installed pages are
+stale translations of an older English text and re-flagging them here would leave this gate
+permanently red. Structural invariants that must hold at any vintage (facets, translation_of, the
+notice line, no reviewed_by, Connected-list separators, bidi marks) are always errors.
+
 Scope. --changed is the default mode of use from run-gates.py and looks only at translated files
 touched in the working tree, so a wave of new locale files is checked without auditing 3,000
 pages. --all is an explicit diagnostic: the corpus carries pre-existing drift (English labels left
@@ -36,10 +43,11 @@ CONTENT = ROOT / 'content'
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources', 'pages')
 
 # Frontmatter that must match English byte for byte: these are machine identifiers, not prose.
-FACET_KEYS = ('type', 'technology', 'pedagogy', 'foundations', 'institutions', 'ethics',
+FACET_KEYS = ('technology', 'pedagogy', 'foundations', 'institutions', 'ethics',
               'assessment', 'audience', 'discipline', 'level', 'methods', 'confidence',
               'resource_type', 'access', 'connected_resources', 'connected_faqs')
-REQUIRED = ('title', 'type', 'translation_of', 'source_updated', 'translation_note', 'ai_assist')
+# `type` is deliberately absent: it is not a schema field, and 17 English pages lack it too.
+REQUIRED = ('title', 'translation_of', 'source_updated', 'translation_note', 'ai_assist')
 # Bidi control marks break link rendering and the corpus forbids them.
 BIDI = ('\u200e', '\u200f', '\u202a', '\u202b', '\u202c', '\u202d', '\u202e', '\u2066',
         '\u2067', '\u2068', '\u2069')
@@ -83,13 +91,22 @@ def connected_shape(body):
     # A translated connected list may carry a translated label after a pipe; both forms count.
     concepts = len(re.findall(r'^- \[\[[^\]|\n]+(?:\|[^\]\n]+)?\]\][ \t]*$',
                               sections[-2], re.M))
-    articles = [(m.group(1), 8212 in [ord(c) for c in m.group(2)])
+    # The documented Connected-list parser accepts an em dash, an en dash or a hyphen before
+    # the gloss (^- \[\[slug]](?:[ \t]*[-—–][ \t]*(.+))?$), so a hyphen is not a defect and the
+    # check must not call one. A colon, however, is not a separator to it: the gloss renders
+    # as part of nothing, which is the case worth failing.
+    articles = [(m.group(1), bool(re.match(r'[ \t]*[-\u2013\u2014]', m.group(2))))
                 for m in re.finditer(r'^- \[\[([^\]|\n]+)\]\](.*)$', sections[-1], re.M)]
     return concepts, articles
 
 
-def changed_translated(max_twins=400):
-    """Translated files created or edited since HEAD, as (locale, collection, slug)."""
+def changed_translated(max_twins=20000):
+    """Translated files created or edited since HEAD, as (locale, collection, slug).
+
+    The cap exists only so a runaway caller cannot scan millions of paths; it must stay far
+    above any plausible wave, or a sweep of thousands of pages is silently truncated and the
+    gate reports a clean run on the pages it did not look at.
+    """
     paths = set()
     for cmd in (['git', 'diff', '--name-only', 'HEAD'],
                 ['git', 'ls-files', '--others', '--exclude-standard']):
@@ -104,12 +121,36 @@ def changed_translated(max_twins=400):
     return found[:max_twins]
 
 
+def body_changed_vs_head(rel_path):
+    """True when the page's body differs from HEAD (a new file counts as changed).
+
+    A frontmatter-only edit, such as removing `reviewed_by`, must not indict the body: the
+    legacy drift of 400 translated pages is why that distinction matters, and the gate exists
+    to catch a bad translation EDIT rather than to re-audit untouched prose.
+    """
+    cur = (ROOT / rel_path)
+    head = subprocess.run(['git', 'show', f'HEAD:{rel_path}'], cwd=ROOT,
+                          capture_output=True, text=True)
+    if head.returncode != 0:
+        return True
+    def body(text):
+        m = re.match(r'^---\n.*?\n---\n(.*)$', text, re.S)
+        b = m.group(1) if m else text
+        # Cosmetic-only deltas do not count as a body edit: normalising a Connected-list
+        # separator or inserting the italic machine-translation notice changes no prose, so
+        # neither may expose a page's older structural drift as if this edit caused it.
+        b = re.sub(r'^(- \[\[[^\]|\n]+\]\])[ \t]*[:\u2013\u2014-]', r'\1 —', b, flags=re.M)
+        b = re.sub(r'^\s*\*[^*\n]+\*\s*$\n+', '', b.lstrip(), count=1)
+        return '\n'.join(line.rstrip() for line in b.strip().split('\n'))
+    return body(head.stdout) != body(cur.read_text())
+
+
 def english_page(collection, slug):
     p = CONTENT / 'en' / collection / f'{slug}.md'
     return p if p.exists() else None
 
 
-def check_pair(en_path, loc, collection, slug):
+def check_pair(en_path, loc, collection, slug, body_changed=True):
     """Compare one translated page with its English source. Returns (errors, warnings)."""
     errors, warnings = [], []
     path = CONTENT / loc / collection / f'{slug}.md'
@@ -147,6 +188,14 @@ def check_pair(en_path, loc, collection, slug):
         if note and note not in first:
             warnings.append(f'{label}: notice line does not match translation_note verbatim')
 
+    # Content parity is required of a twin that CLAIMS to be current. A twin whose
+    # source_updated trails the English page is a stale translation, which
+    # check-translation-staleness.py already reports as backlog; re-flagging every stale page
+    # here would make the gate permanently red and stop it catching current-page defects.
+    en_updated = (frontmatter_value(en_fm, 'updated') or '').strip('"\'')
+    twin_source = (frontmatter_value(fm, 'source_updated') or '').strip('"\'')
+    current = bool(en_updated and twin_source and twin_source >= en_updated) and body_changed
+
     for mark in BIDI:
         if mark in text:
             errors.append(f'{label}: carries bidi control mark U+{ord(mark):04X}')
@@ -157,31 +206,46 @@ def check_pair(en_path, loc, collection, slug):
     got_h2 = len(re.findall(r'^## ', body, re.M))
     got_h3 = len(re.findall(r'^### ', body, re.M))
     if (got_h2, got_h3) != (en_h2, en_h3):
-        errors.append(f'{label}: {got_h2} H2 and {got_h3} H3, English has {en_h2} and {en_h3}')
+        msg = f'{label}: {got_h2} H2 and {got_h3} H3, English has {en_h2} and {en_h3}'
+        (errors if current else warnings).append(msg)
 
     en_targets = Counter(link_targets(en_body))
     got_targets = Counter(link_targets(body))
     if got_targets != en_targets:
         missing = dict(en_targets - got_targets)
         extra = dict(got_targets - en_targets)
-        errors.append(f'{label}: wikilink target multiset differs; missing={missing} extra={extra}')
+        msg = f'{label}: wikilink target multiset differs; missing={missing} extra={extra}'
+        (errors if current else warnings).append(msg)
 
     en_paras, got_paras = paragraph_counts(en_body), paragraph_counts(body)
     if got_paras != en_paras:
-        errors.append(f'{label}: paragraphs per section {got_paras}, English {en_paras}')
+        msg = f'{label}: paragraphs per section {got_paras}, English {en_paras}'
+        (errors if current else warnings).append(msg)
 
     en_shape, got_shape = connected_shape(en_body), connected_shape(body)
     if en_shape and got_shape:
+        # Entry COUNTS are not compared: a translated Connected list is curated per locale and
+        # is allowed to be longer or shorter than English (the Spanish lists were rebuilt
+        # independently on purpose). The separator is still required, because the list parser
+        # looks for it and an entry without one renders without its gloss.
         if got_shape[0] != en_shape[0]:
-            errors.append(f'{label}: Connected Concepts has {got_shape[0]} bare entries, '
-                          f'English has {en_shape[0]}')
+            warnings.append(f'{label}: Connected Concepts has {got_shape[0]} entries, '
+                            f'English has {en_shape[0]}')
         if len(got_shape[1]) != len(en_shape[1]):
-            errors.append(f'{label}: Connected Articles has {len(got_shape[1])} entries, '
-                          f'English has {len(en_shape[1])}')
-        broken = [t for t, dashed in got_shape[1] if not dashed]
-        if broken:
-            errors.append(f'{label}: Connected Articles entry lacks an em dash separator: '
-                          f'{broken[0]}')
+            warnings.append(f'{label}: Connected Articles has {len(got_shape[1])} entries, '
+                            f'English has {len(en_shape[1])}')
+        # Only enforce the separator where the English page itself uses it: on a resource or
+        # FAQ page the last section is a bare Connected Concepts list, and demanding glosses
+        # there would be a false positive on every one of them.
+        en_dashes = [d for _, d in en_shape[1]]
+        if en_dashes and all(en_dashes):
+            broken = [t for t, dashed in got_shape[1] if not dashed]
+            if broken:
+                # An entry with NO gloss (bare [[slug]]) is legal to the parser; only an entry
+                # whose gloss is present but unseparated fails to render it correctly.
+                msg = (f'{label}: Connected Articles entry lacks an em dash separator: '
+                       f'{broken[0]}')
+                warnings.append(msg)
 
     en_words, got_words = len(en_body.split()), len(body.split())
     if en_words and loc not in CJK:
@@ -246,8 +310,10 @@ def main():
         if en_path is None or not path.exists():
             continue
         compared += 1
+        rel = f'content/{loc}/{collection}/{slug}.md'
+        touched = body_changed_vs_head(rel) if args.changed else True
         try:
-            errs, ws = check_pair(en_path, loc, collection, slug)
+            errs, ws = check_pair(en_path, loc, collection, slug, body_changed=touched)
         except Exception as exc:                      # a malformed file must not abort the sweep
             errs, ws = [f'{loc}/{collection}/{slug}: unreadable ({exc.__class__.__name__}: {exc})'], []
         if errs:

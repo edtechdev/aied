@@ -6,7 +6,6 @@ pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/project-based-learning
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -85,5 +84,5 @@ PBL inaunganisha na [[active-learning]], [[experiential-learning]], [[collaborat
 - [[educational-robotics-pathways-2026]] — Njia za Kujifunza Robotiki ya Kielimu Inayoendeshwa na AI (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL ni mbinu ya kufundisha ya CT inayotawala
 - [[creative-project-approach-ai-early-childhood-2025]] — Mbinu ya Mradi ya Ubunifu: mawakala wa AI na robotiki ndani ya Mbinu ya Mradi katika utotoni (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD na mawakala wa AI katika PBL ya programu ya timu
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD na mawakala wa AI katika PBL ya programu ya timu
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: studio ya kubuni ya VR ya kuvizia yenye wakala wa kufundisha wa kuingizwa, iliyotathminiwa dhidi ya PBL ya jadi (Jin na wenzake 2026)

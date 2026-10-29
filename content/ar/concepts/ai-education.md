@@ -211,8 +211,8 @@ ai_assist:
 
 مراجعات على مستوى المجال للذكاء الاصطناعي في التعليم، أي الدراسات التي تستقصي المجال كله أو مستوى تعليميًا كاملًا لا موضوعًا واحدًا:
 
-- [[rismanchian-ai-education-four-decades-aixed-2026]]: The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]]: Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]]: Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]]: The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]]: Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
+- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
+- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis

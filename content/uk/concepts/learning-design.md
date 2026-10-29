@@ -9,8 +9,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
-reviewed_by: [editor]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision
@@ -143,7 +142,7 @@ Fowlin та ін. (2026) додають операційний крок для �
 
 ## Пов’язані статті
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Виміряна економія часу на планування поряд із висновком, що викладачі планують лише від 21% до 40% уроків з нуля
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Виміряна економія часу на планування поряд із висновком, що викладачі планують лише від 21% до 40% уроків з нуля
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Навчальна аналітика та GenAI в прийнятті рішень щодо проєктування навчання
 - [[tang-chatbots-learning-design-2026]] — Використання чат-бота в проєктуванні навчання: дизайнери концентруються на результатах і педагогіці, а не на генерації контенту (Tang та ін. 2026)

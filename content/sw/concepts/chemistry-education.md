@@ -8,7 +8,6 @@ assessment: [assessment]
 discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/chemistry-education
 source_updated: "2026-09-03T15:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

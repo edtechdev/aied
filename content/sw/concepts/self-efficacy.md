@@ -8,7 +8,6 @@ assessment: [assessment]
 connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/self-efficacy
 source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

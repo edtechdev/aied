@@ -9,7 +9,6 @@ connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/collaborative-learning
 source_updated: "2026-10-07T15:40:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -122,7 +121,7 @@ ai_assist:
 - [[pedagogy]] — المظلة: البيداغوجيات واستراتيجيات التعليم في تعليم الذكاء الاصطناعي
 
 ## المقالات المترابطة
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - توافق 30 خبيرًا يجد خطرًا اجتماعيًا أحادي الجانب: عمليات التعاون معرّضة للخطر بلا مسار للتحسين
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — توافق 30 خبيرًا يجد خطرًا اجتماعيًا أحادي الجانب: عمليات التعاون معرّضة للخطر بلا مسار للتحسين
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — التعلّم القائم على المسائل والقائم على المشاريع كإطارين واعدين للتعليم المدعوم بالذكاء الاصطناعي التوليدي: أدلة ناشئة من مراجعة منهجية وتحليل فوقي من ثلاثة مستويات
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — وكالة المتعلّم الناشئة في التعاون الضمني بين الإنسان والذكاء الاصطناعي: شخصيات داعمة مقابل شخصيات مخالفة
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

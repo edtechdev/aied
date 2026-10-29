@@ -11,7 +11,6 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
-reviewed_by: [editor]
 translation_of: concepts/teacher-ai-competency
 source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -164,9 +163,9 @@ ai_assist:
 
 ## Связанные статьи
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Какие преподаватели выиграли время на планирование: более низкая уверенность в предметном знании, более низкое педагогическое знание, меньший стаж или высокая уверенность в технологии
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Преподаватели принимают ИИ, не понимая, как он работает (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Готовность преподавателей и технологическо-педагогическая интеграция как наиболее часто сообщаемая проблема в 54 исследованиях математического образования (Manto et al. 2026)
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Какие преподаватели выиграли время на планирование: более низкая уверенность в предметном знании, более низкое педагогическое знание, меньший стаж или высокая уверенность в технологии
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Преподаватели принимают ИИ, не понимая, как он работает (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Готовность преподавателей и технологическо-педагогическая интеграция как наиболее часто сообщаемая проблема в 54 исследованиях математического образования (Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
@@ -217,4 +216,4 @@ ai_assist:
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Проектирование микромодулей по ИИ для преподавателей университетов в профессионально-техническом педагогическом образовании: исследование на основе дизайн-исследований
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: как настроенные преподавателями чат-боты отказывают в реальном использовании и как это исправить
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: как настроенные преподавателями чат-боты отказывают в реальном использовании и как это исправить

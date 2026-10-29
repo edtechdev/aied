@@ -7,7 +7,6 @@ pedagogy: [motivation, self-determination-theory]
 technology: [affective-computing]
 audience: [learners]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/self-determination-theory
 source_updated: "2026-09-30T12:53:22-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

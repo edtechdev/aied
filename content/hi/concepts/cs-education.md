@@ -1,5 +1,5 @@
 ---
-connected_resources: [liascript]
+connected_resources: [liascript, code-viva]
 title: "CS शिक्षा"
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-14T18:00:00-04:00"
@@ -188,7 +188,7 @@ CS शिक्षा [[computational-thinking]], [[stem-education]], [[automate
 - [[llm-adaptive-programming-error-explanations-2026]] — प्रोग्रामिंग त्रुटियों की LLM अनुकूली व्याख्याएँ
 - [[soft-barriers-copying-ai-programming-2026]] — AI-सहायित प्रोग्रामिंग में कॉपी-पेस्ट प्रतिरोध
 - [[zhang-ml-student-progress-programming-2026]]
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - AI एजेंटों के साथ SDD एक सॉफ़्टवेयर PBL पाठ्यक्रम में; थ्रूपुट बनाम समझ
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — AI एजेंटों के साथ SDD एक सॉफ़्टवेयर PBL पाठ्यक्रम में; थ्रूपुट बनाम समझ
 - [[student-reception-genai-analogies-computing-2026]] — दोषपूर्ण लेकिन यादगार: कंप्यूटिंग शिक्षा में रुचि-व्यक्तिगत GenAI सादृश्यताओं की छात्र महत्वपूर्ण प्रतिक्रिया
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: CS पाठ्यक्रम में रणनीतिक भ्रांतियों को उत्पन्न करने की मॉडल क्षमता का बेंचमार्किंग
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — AI-मध्यस्थ ग्रेडिंग का प्रॉम्प्ट इंजेक्शन रेड-टीम: ऐसे छिपे निर्देश जो अंक को बिना पहचाने हटा देते हैं

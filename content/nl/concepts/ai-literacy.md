@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*"
@@ -249,7 +248,7 @@ Voor kritieke AI-geletterdheid in het bijzonder laten [[solyst-youth-systematic-
 ## Verbonden artikelen
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Vormgeving van de vroege kinderjaren in het AI-tijdperk: competenties, pedagogiek en ecologische ondersteuning (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-veiligheidsgeletterdheid: ecosysteemgebaseerd competentiekader en K-12-leerplatform
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Het verhogen van de ethische dimensie van geletterdheid zonder een copingkader kan studenten angstiger achterlaten
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Het verhogen van de ethische dimensie van geletterdheid zonder een copingkader kan studenten angstiger achterlaten
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 gevalideerde kaders tonen aan dat AI digitale geletterdheid naar ethiek toe uitbreidt terwijl mens–AI-samenwerking voor onderwijsgevenden ondergespecificeerd blijft (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Zes competentiegebieden, vijf waarden en drie progressieniveaus voor publieke media
 - [[ai-literacy-heptagon-2026]] — De AI Literacy Heptagon

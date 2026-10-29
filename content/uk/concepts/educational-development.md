@@ -9,7 +9,6 @@ audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/educational-development
 source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

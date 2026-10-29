@@ -9,7 +9,6 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/critical-thinking
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -101,7 +100,7 @@ Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[
 
 ## Bağlı makaleler
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 uzmanlık bir fikir birliği: eleştirel düşünme raporun en yüksek bozulma derecesini taşır (ortalama 4,00)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 uzmanlık bir fikir birliği: eleştirel düşünme raporun en yüksek bozulma derecesini taşır (ortalama 4,00)
 - [[pearls-epistemic-verification-2026]] — Epistemik özerklik ve YZ çıktısının doğrulanması için PEARLS çerçevesi (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Üretken YZ destekli yazımda katmana duyarlı bilişsel yük boşaltma (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — Üretken YZ ile bütünleşik öğrenmede eleştirel düşünme paradoksu

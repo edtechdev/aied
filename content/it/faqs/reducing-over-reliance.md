@@ -11,7 +11,6 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

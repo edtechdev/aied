@@ -11,7 +11,6 @@ connected_faqs: [reducing-over-reliance, study-with-ai, asynchronous-online-cour
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/metacognition
 source_updated: "2026-10-15T10:00:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

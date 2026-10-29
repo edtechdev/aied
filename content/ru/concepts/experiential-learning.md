@@ -5,7 +5,6 @@ type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/experiential-learning
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."

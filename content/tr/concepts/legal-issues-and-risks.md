@@ -12,7 +12,6 @@ level: [higher ed]
 audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
-reviewed_by: [editor]
 translation_of: concepts/legal-issues-and-risks
 source_updated: "2026-09-30T07:29:37-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

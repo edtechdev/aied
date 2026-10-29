@@ -9,8 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
-reviewed_by: [editor]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: "concepts/ai-literacy"
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "*Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*"
@@ -250,7 +249,7 @@ ai_assist:
 ## Συνδεδεμένα Άρθρα
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Διαμορφώνοντας την πρώιμη παιδική ηλικία στην εποχή της ΤΝ: ικανότητες, παιδαγωγική και οικολογική υποστήριξη (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Επάρκεια ασφάλειας στην ΤΝ: οικοσυστημικό πλαίσιο ικανοτήτων και πλατφόρμα μάθησης K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Η ανύψωση της ηθικής διάστασης του γραμματισμού χωρίς πλαίσιο αντιμετώπισης μπορεί να αφήσει τους μαθητές πιο ανήσυχους
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Η ανύψωση της ηθικής διάστασης του γραμματισμού χωρίς πλαίσιο αντιμετώπισης μπορεί να αφήσει τους μαθητές πιο ανήσυχους
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 επικυρωμένα πλαίσια δείχνουν ότι η ΤΝ διευρύνει τον ψηφιακό γραμματισμό προς την ηθική ενώ η συνεργασία ανθρώπου–ΤΝ των εκπαιδευτικών παραμένει υπο-προσδιορισμένη (Guo και συν. 2026)
 - [[ai-literacies-young-adults-2025]] — Έξι τομείς ικανοτήτων, πέντε αξίες και τρία επίπεδα προόδου για τα μέσα δημόσιας υπηρεσίας
 - [[ai-literacy-heptagon-2026]] — Το Επτάγωνο Επάρκειας σε ΤΝ

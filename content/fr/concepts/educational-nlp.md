@@ -6,7 +6,6 @@ type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
-reviewed_by: [editor]
 translation_of: concepts/educational-nlp
 source_updated: "2026-10-23T08:05:20-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."

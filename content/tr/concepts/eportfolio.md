@@ -8,7 +8,6 @@ assessment: [assessment, authentic-assessment, automated-assessment, feedback, f
 discipline: [language learning]
 level: [higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/eportfolio
 source_updated: "2026-09-26T07:13:32-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

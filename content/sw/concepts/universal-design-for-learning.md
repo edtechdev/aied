@@ -8,7 +8,6 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/universal-design-for-learning
 source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

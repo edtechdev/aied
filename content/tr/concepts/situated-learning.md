@@ -5,7 +5,6 @@ type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/situated-learning
 source_updated: "2026-09-30T09:53:03-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

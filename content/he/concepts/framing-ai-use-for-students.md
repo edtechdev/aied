@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -115,7 +114,7 @@ ai_assist:
 
 ## מאמרים מקושרים
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - קונצנזוס של 30 מומחים על הרצף: רכשו ללא GenAI, גבבו איתו, ואז חשבו בעצמכם
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — קונצנזוס של 30 מומחים על הרצף: רכשו ללא GenAI, גבבו איתו, ואז חשבו בעצמכם
 - [[mccorkle-aligned-genai-course-policy-2025]] — רציונל שקוף לכל שימוש מותר ואסור של GenAI, משימה-אחר-משימה (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — עידוד שימוש הולם ב-GenAI במקום גינוי בו כשיבוש
 - [[student-rationalization-ai-writing]] — "חמשת האתרים" שבהם סטודנטים מצדיקים שימוש בבינה מלאכותית בכתיבה אקדמית

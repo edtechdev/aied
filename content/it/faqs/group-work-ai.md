@@ -11,7 +11,6 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-reviewed_by: [editor]
 translation_of: faqs/group-work-ai
 source_updated: "2026-10-02T08:21:34-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

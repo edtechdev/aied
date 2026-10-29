@@ -207,52 +207,52 @@ Dowody wspierają konkretny porządek działań dla wykładowcy adoptującego SI
 
 ## Połączone artykuły
 
-- [[sessional-academics-contract-cheating-digital-misconduct-2026]] - Nauczyciele na umowach zlecenie noszą pracę nad uczciwością bez mandatu
-- [[caeo-navigating-ai-educational-future-scenarios-2026]] - Paradoks większej ludzkości: eksperckie scenariusze na 2030 r. wskazują, że nasycenie SI wzmacnia, a nie wypiera ludzką pracę pedagogiczną (Malyn-Smith i wsp. 2026)
-- [[teachers-instrumental-orchestration-ai-math-2026]] - Sześć obserwowanych lekcji matematyki w szkole średniej rozszerza orkiestrację instrumentalną o trzy nowe typy (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] - Reagowanie na generowane przez SI alerty emocjonalne: interwencja nauczyciela i zaangażowanie uczniów na lekcji matematyki
+- [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Nauczyciele na umowach zlecenie noszą pracę nad uczciwością bez mandatu
+- [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradoks większej ludzkości: eksperckie scenariusze na 2030 r. wskazują, że nasycenie SI wzmacnia, a nie wypiera ludzką pracę pedagogiczną (Malyn-Smith i wsp. 2026)
+- [[teachers-instrumental-orchestration-ai-math-2026]] — Sześć obserwowanych lekcji matematyki w szkole średniej rozszerza orkiestrację instrumentalną o trzy nowe typy (Noh & Kim 2026)
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Reagowanie na generowane przez SI alerty emocjonalne: interwencja nauczyciela i zaangażowanie uczniów na lekcji matematyki
 
-- [[edustories-classroom-case-studies-2026]] - Edustories: zbiór studiów przypadków z realnych praktyk klasowych
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] - Nauczyciele projektują klasowe chatboty jako ograniczonych ekspertów i zachowują autorytet
-- [[dai-genai-frenemy-teaching-autonomy-2026]] - Generatywna SI jako „frenemy": nauczyciele wolą semi-autonomię, użyteczność napędza adopcję, awersja do ryzyka dotyczy użycia przez studentów (Dai i wsp. 2026)
-- [[ai-supported-lecturer-decision-making-2026]] - Wspierane przez SI podejmowanie decyzji przez wykładowców w szkolnictwie wyższym
-- [[chirikov-regulate-ai-syllabi-2026]] - Jak wykładowcy regulują SI w 31 000 sylabusów kursów; regulacja na poziomie zadania (Chirikov 2026)
-- [[ai-teaching-innovation-ai-tpack-2026]] - Zachowania innowacyjne w nauczaniu z SI wśród nauczycieli akademickich (SEM AI-TPACK; Bai & Hsieh 2026)
+- [[edustories-classroom-case-studies-2026]] — Edustories: zbiór studiów przypadków z realnych praktyk klasowych
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Nauczyciele projektują klasowe chatboty jako ograniczonych ekspertów i zachowują autorytet
+- [[dai-genai-frenemy-teaching-autonomy-2026]] — Generatywna SI jako „frenemy": nauczyciele wolą semi-autonomię, użyteczność napędza adopcję, awersja do ryzyka dotyczy użycia przez studentów (Dai i wsp. 2026)
+- [[ai-supported-lecturer-decision-making-2026]] — Wspierane przez SI podejmowanie decyzji przez wykładowców w szkolnictwie wyższym
+- [[chirikov-regulate-ai-syllabi-2026]] — Jak wykładowcy regulują SI w 31 000 sylabusów kursów; regulacja na poziomie zadania (Chirikov 2026)
+- [[ai-teaching-innovation-ai-tpack-2026]] — Zachowania innowacyjne w nauczaniu z SI wśród nauczycieli akademickich (SEM AI-TPACK; Bai & Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - Generatywna SI jako kryzys tożsamości, a nie luka kompetencyjna
-- [[lodge-loble-cognitive-offloading-2026]] - SI, odciążanie poznawcze i implikacje dla edukacji (Lodge & Loble 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - SI a praktyka projektowania dydaktycznego: przegląd systematyczny (Kibar & Ilgaz 2026)
-- [[lopez-pernas-llm-appropriate-student-support-2026]] - Czy SI potrafi zapewnić odpowiednie wsparcie różnym profilom studentów? Ewaluacja na dużą skalę
-- [[bozkurt-ghost-students-agentic-ai-2026]] - Studenci-duchy i SI agentowa w ocenianiu
-- [[wang-teacher-ai-co-design-review-2026]] - Współprojektowanie zadań uczenia się przez nauczyciela i SI: trendy i perspektywy (Wang i wsp. 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Doświadczenia i percepcje generatywnej SI u nauczycieli akademickich: wrażliwość, przemyślenie oceniania, uczenie się studentów zagrożone (Farazouli i wsp. 2026)
-- [[luo-dawson-value-judgments-grading-2026]] - Osądy wartości przy ocenianiu pracy wspieranej generatywną SI: uczciwość, zaufanie, trafność i dwustronna przejrzystość (Luo & Dawson 2026)
-- [[mejia-domenzain-ml-findings-teachers-blended-2026]] - Udostępnianie wyników uczenia maszynowego nauczycielom w klasach blended
-- [[li-language-educators-genai-review-2026]] - Praktyki i rozwój nauczycieli języków w pracy z generatywną SI
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generatywna SI jako kryzys tożsamości, a nie luka kompetencyjna
+- [[lodge-loble-cognitive-offloading-2026]] — SI, odciążanie poznawcze i implikacje dla edukacji (Lodge & Loble 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — SI a praktyka projektowania dydaktycznego: przegląd systematyczny (Kibar & Ilgaz 2026)
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Czy SI potrafi zapewnić odpowiednie wsparcie różnym profilom studentów? Ewaluacja na dużą skalę
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Studenci-duchy i SI agentowa w ocenianiu
+- [[wang-teacher-ai-co-design-review-2026]] — Współprojektowanie zadań uczenia się przez nauczyciela i SI: trendy i perspektywy (Wang i wsp. 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Doświadczenia i percepcje generatywnej SI u nauczycieli akademickich: wrażliwość, przemyślenie oceniania, uczenie się studentów zagrożone (Farazouli i wsp. 2026)
+- [[luo-dawson-value-judgments-grading-2026]] — Osądy wartości przy ocenianiu pracy wspieranej generatywną SI: uczciwość, zaufanie, trafność i dwustronna przejrzystość (Luo & Dawson 2026)
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Udostępnianie wyników uczenia maszynowego nauczycielom w klasach blended
+- [[li-language-educators-genai-review-2026]] — Praktyki i rozwój nauczycieli języków w pracy z generatywną SI
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[breideband-community-builder-cobi-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[ai-integrated-teaching-identity-tensions]] - Napięcia tożsamościowe i zasadnicza wybiórczość w nauczaniu zintegrowanym z SI (Adiozaman & Segar 2026)
-- [[teacher-intervention-k12-ai-based-instruction-2026]] - Interwencja nauczyciela w nauczaniu opartym na SI w K-12: przegląd systematyczny
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Deweloperzy akademicy jako mediatorzy cyfrowi: rekonfiguracja roli, praca afektywna i osąd w południowoafrykańskich instytucjach historycznie upośledzonych
-- [[where-ai-enters-teacher-work-2026]] - Gdzie sztuczna inteligencja wchodzi w pracę nauczyciela
-- [[rodrigues-aied-unplugged-numeracy-2026]] - AIED bez prądu: nauczyciel jako pośrednik między uczniami a SI, quasi-eksperyment w 19 klasach, w którym zyski napędza szkolenie i pośrednie obniżenie wysiłku (Rodrigues i wsp. 2026)
-- [[instructional-governance-design-computing-education-2026]] - Zarządzanie dydaktyczne przez projekt: ramy dla SI w edukacji informatycznej
+- [[ai-integrated-teaching-identity-tensions]] — Napięcia tożsamościowe i zasadnicza wybiórczość w nauczaniu zintegrowanym z SI (Adiozaman & Segar 2026)
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Interwencja nauczyciela w nauczaniu opartym na SI w K-12: przegląd systematyczny
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Deweloperzy akademicy jako mediatorzy cyfrowi: rekonfiguracja roli, praca afektywna i osąd w południowoafrykańskich instytucjach historycznie upośledzonych
+- [[where-ai-enters-teacher-work-2026]] — Gdzie sztuczna inteligencja wchodzi w pracę nauczyciela
+- [[rodrigues-aied-unplugged-numeracy-2026]] — AIED bez prądu: nauczyciel jako pośrednik między uczniami a SI, quasi-eksperyment w 19 klasach, w którym zyski napędza szkolenie i pośrednie obniżenie wysiłku (Rodrigues i wsp. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Zarządzanie dydaktyczne przez projekt: ramy dla SI w edukacji informatycznej
 
-- [[teachers-configure-educational-chatbots-2026]] - Czy będzie uczył zgodnie z zamiarem? Jak nauczyciele konfigurują edukacyjne chatboty SI
-- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] - Mediacja nauczyciela w matematyce: pięć praktyk mediacji krytycznej, przesuwający się autorytet i podział algorytmiczny między planem darmowym a premium
-- [[charles-teacher-readiness-by-design-ai-rich-2026]] - Gotowość nauczyciela przez projekt: gotowość jako zdolność projektowa, a nie adopcja czy pewność siebie (Charles 2026)
-- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] - Informacja zwrotna nauczyciela wspierana ChatGPT: nauczyciele kuratorują szkice SI, a nie je przekazują
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] - Od kompetencji do sprawczości: poglądy nauczycieli na cele edukacji o SI
-- [[kuhail-great-debaters-ai-facilitators-2026]] - Ludzcy i SI moderatorzy debaty: równoważne oceny, różne drogi do ponownego użycia
-- [[yalcin-genai-programming-education-systematic-review-2026]] - Generatywna SI w edukacji programistycznej: przegląd systematyczny, w którym role nauczycieli są najsłabiej zbadane
-- [[heutagogical-teaching-ai-enhanced-education-2026]] - Od dostarczycieli informacji do projektantów uczenia się: praktyki heutagogiczne w edukacji wzmocnionej SI
-- [[falhs-teacher-expertise-reflection-2025]] - Jak poziom ekspertyzy kształtuje preferencje i potrzeby refleksji: ku systemom refleksji SI wspierającym nauczycieli (Falhs i wsp. 2025)
-- [[etq-ai-conversational-teacher-training-2026]] - Konwersacyjna diagnostyka SI do szkolenia nauczycieli w zakresie błędnych wyobrażeń, z dialogiem opartym na dowodach (Miranda & Calvani 2026)
-- [[ai-use-teacher-performance-north-sumatra-2026]] - Użycie SI nie miało bezpośredniego wpływu na wyniki pracy nauczyciela; mediowały je zachowania obywatelskie (Sherly i wsp. 2027)
+- [[teachers-configure-educational-chatbots-2026]] — Czy będzie uczył zgodnie z zamiarem? Jak nauczyciele konfigurują edukacyjne chatboty SI
+- [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Mediacja nauczyciela w matematyce: pięć praktyk mediacji krytycznej, przesuwający się autorytet i podział algorytmiczny między planem darmowym a premium
+- [[charles-teacher-readiness-by-design-ai-rich-2026]] — Gotowość nauczyciela przez projekt: gotowość jako zdolność projektowa, a nie adopcja czy pewność siebie (Charles 2026)
+- [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — Informacja zwrotna nauczyciela wspierana ChatGPT: nauczyciele kuratorują szkice SI, a nie je przekazują
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Od kompetencji do sprawczości: poglądy nauczycieli na cele edukacji o SI
+- [[kuhail-great-debaters-ai-facilitators-2026]] — Ludzcy i SI moderatorzy debaty: równoważne oceny, różne drogi do ponownego użycia
+- [[yalcin-genai-programming-education-systematic-review-2026]] — Generatywna SI w edukacji programistycznej: przegląd systematyczny, w którym role nauczycieli są najsłabiej zbadane
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Od dostarczycieli informacji do projektantów uczenia się: praktyki heutagogiczne w edukacji wzmocnionej SI
+- [[falhs-teacher-expertise-reflection-2025]] — Jak poziom ekspertyzy kształtuje preferencje i potrzeby refleksji: ku systemom refleksji SI wspierającym nauczycieli (Falhs i wsp. 2025)
+- [[etq-ai-conversational-teacher-training-2026]] — Konwersacyjna diagnostyka SI do szkolenia nauczycieli w zakresie błędnych wyobrażeń, z dialogiem opartym na dowodach (Miranda & Calvani 2026)
+- [[ai-use-teacher-performance-north-sumatra-2026]] — Użycie SI nie miało bezpośredniego wpływu na wyniki pracy nauczyciela; mediowały je zachowania obywatelskie (Sherly i wsp. 2027)

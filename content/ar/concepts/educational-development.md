@@ -9,7 +9,6 @@ audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/educational-development
 source_updated: "2026-10-26T04:35:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
@@ -173,4 +172,4 @@ ai_assist:
 - [[physics-faculty-learning-community-ai-2026]] — سلسلة ورش للاستخدام الفعّال للذكاء الاصطناعي في أوقات اللايقين: بناء مجتمع تعلّم لأعضاء هيئة التدريس في الفيزياء
 
 - [[faculty-ai-well-being-social-supports-2026]] — الرفاه الذهني لأعضاء هيئة التدريس مع الذكاء الاصطناعي يتتبّع ثقافة الذكاء الاصطناعي لا الكفاءة الذاتية التقنية
-- [[ai-competence-framework-landscape-2026]] - تحقّق مما تصفه مستويات الإطار قبل تبنّيه
+- [[ai-competence-framework-landscape-2026]] — تحقّق مما تصفه مستويات الإطار قبل تبنّيه

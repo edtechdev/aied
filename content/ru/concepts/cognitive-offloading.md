@@ -10,7 +10,6 @@ audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
@@ -205,9 +204,9 @@ ai_assist:
 
 ## Связанные статьи
 
-- [[ai-proof-learning-cognitive-offloading-2026]] - Поддержка или замена рассуждения студентов? Когнитивный оффлоадинг в обучении доказательствам с ИИ (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Чего не показывает сданная работа: усложнение когнитивного оффлоадинга в математической работе студентов с LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Консенсус 30 экспертов по 65 учебным процессам: оффлоадинг на обоих концах учебной последовательности
+- [[ai-proof-learning-cognitive-offloading-2026]] — Поддержка или замена рассуждения студентов? Когнитивный оффлоадинг в обучении доказательствам с ИИ (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Чего не показывает сданная работа: усложнение когнитивного оффлоадинга в математической работе студентов с LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Консенсус 30 экспертов по 65 учебным процессам: оффлоадинг на обоих концах учебной последовательности
 - [[rented-self-decoupling-performance-becoming-2026]] — Арендованное я: оффлоадинг, стоящий дисциплинарного «я» учащегося, а не только навыка
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Группы, начинавшие одинаково, разошлись: 74,1% освоения модели в одном профиле против 80,8% оффлоадинга и тупика в другом (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — Помощь ИИ снизила настойчивость и неопосредованную результативность в трёх РКИ (Liu et al. 2026)
@@ -245,5 +244,5 @@ ai_assist:
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Тенденция к оффлоадингу и грамотность проверки, предсказывающие результаты высшего порядка через метакогнитивную саморегуляцию (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Промпт рефлексии снижает принятие неверных советов ИИ и улучшает калибровку осведомлённости (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Зависимость от генеративного ИИ как граничное условие расположенности к критическому мышлению и самооценённой востребованности на рынке труда (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Дети демонстрировали более слабую связность лобно-теменных, значимости и дорсальных сетей внимания, чем взрослые, разговаривая с ChatGPT, при сопоставимых оценках креативности
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Дети демонстрировали более слабую связность лобно-теменных, значимости и дорсальных сетей внимания, чем взрослые, разговаривая с ChatGPT, при сопоставимых оценках креативности
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Генеративный ИИ и детская креативность: избыточная опора и зависимость от промптов в скопинговом обзоре (Niu et al. 2026)

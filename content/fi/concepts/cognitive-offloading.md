@@ -193,45 +193,45 @@ Sama logiikka tekee palkkion muotoilusta suunnittelutyökalun: [[assistance-dile
 - [[cognitive-surrender]]
 
 ## Liittyvät artikkelit
-- [[ai-proof-learning-cognitive-offloading-2026]] - Tukeeko vai korvaako tekoäly opiskelijoiden päättelyä? Kognitiivinen siirtokuormitus tekoälyavusteisessa todistusoppimisessa (Chen et al. 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Mitä palautus ei näytä: kognitiivisen siirtokuormituksen monimutkaistuminen opiskelijoiden matematiikan työssä LLM:ien kanssa (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - 30 asiantuntijan konsensus 65 oppimisprosessista: siirtokuormitus oppimissekvenssin molemmissa päissä
-- [[rented-self-decoupling-performance-becoming-2026]] - Vuokrattu itse: siirtokuormitus, joka maksaa oppijan alakohtaisen itsen eikä vain taidon
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Samankaltaisina alkaneet ryhmät eriytyivät: 74,1 % mallin käyttöönottoa yhdessä profiilissa vastaan 80,8 % siirtokuormitusta ja umpikujaa toisessa (Kilinc et al. 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Tekoälyapu vähensi sinnikkyyttä ja avustamatonta suoriutumista kolmessa satunnaistetussa kokeessa (Liu et al. 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT kognitiivisena kainalosauvana: satunnaistettu kontrolloitu koe tiedon muistamisesta 45 päivää myöhemmin (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Kognitiivisesta ulkoistamisesta uudelleenkohdentamiseen: 3P-analyysi opiskelijan ja generatiivisen tekoälyn vuorovaikutuksesta valvomattomissa arvioinneissa (Yan et al. 2026)
-- [[family-school-autonomy-support-genai-2026]] - Perheen ja koulun autonomiatuki lasten vastuulliselle generatiivisen tekoälyn käytölle
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Ylimääräinen vs. hyödyllinen kitka: miksi tekoälyn siirtokuormitus eroaa aiemmista työkaluista
-- [[thermomix-genai-education-analogy-2026]] - Thermomixin kanssa menetät kyvyn kokata: keittiökoneanalogia generatiiviselle tekoälylle koulutuksessa (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - kognitiivinen huuhtoutuminen: tekoälyn aiheuttaman taidon rappeutumisen vetäytymisen jälkeinen dynamiikka
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Kriittinen narratiivinen synteesi keskustelevan tekoälyn sitoutumisesta ja riippuvuudesta
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Kerrosherkkä kognitiivinen siirtokuormitus generatiivisen tekoälyn tukemassa kirjoittamisessa (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Episteeminen riippuvuus tekoälyn välittämässä oppimisessa: kuusi diagnostista kriteeriä, jotka erottavat tuottavan nojautumisen haitallisesta riippuvuudesta (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Generatiivisen tekoälyn kognitiivinen siirtokuormitus oppimisvaikeuksia omaavilla opiskelijoilla
-- [[lodge-loble-cognitive-offloading-2026]] - Tekoäly, kognitiivinen siirtokuormitus ja koulutuksen seuraukset
-- [[cognitive-offloading-metacognitive-review-2026]] - Metakognitiivisia näkökulmia kognitiiviseen siirtokuormitukseen (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Metakognitiivinen harjoittelu edistää optimaalista kognitiivista siirtokuormitusta (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Kriittisen ajattelun paradoksi generatiivisen tekoälyn integroimassa oppimisessa
-- [[cognitive-offloading-speedup-illusion]] - Tekoälyavusteisen työn nopeutumisen illuusio
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Kehotekuvioiden yhteisesiintymäverkostoanalyysi
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System-teoria ja kognitiivinen antautuminen: miten tekoäly muovaa ihmisen päättelyä uudelleen (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Antautumisen, siirtokuormituksen ja toimijuuden jatkumo generatiiviselle tekoälylle
-- [[ai-making-us-stupid]] - Tutkimus tekoälyn kognitiivisista vaikutuksista ja oppimisen syrjäytymisestä
-- [[brcic-effortless-trap-productive-struggle-2026]] - Vaivattomuuden ansa: tekoäly kognitiivisen työn korvaajana (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Ajattelematon tekoälyn käyttö rapauttaa itseohjautuvaa oppimista
-- [[generative-ai-guardrails-harm-learning]] - Lukion matematiikan satunnaistetut kokeet suojaamattomasta generatiivisesta tekoälystä
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Generatiivisen tekoälyn oppimisrangaistus: kotitehtävien ulkoistaminen vahingoittaa oppimista
-- [[coach-not-crutch-ai-writing]] - Tekoäly voi työskennellä vähemmän ja oppia enemmän (Lira et al. 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Tekoälytuutoroinnin tekeminen tuottavaksi: hallintaan perustuva matematiikan harjoittelu
-- [[cognitive-commons-ai-expertise-regeneration]] - Kognitiivisten yhteisvarojen tragedia: tekoäly ja asiantuntemuksen uudistuminen
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: yksityisyyttä säilyttävä itsearviointityökalu tekoälyyn liittyvälle kognitiiviselle siirtokuormitukselle
-- [[chatgpt-writing-cognitive-impact-2026]] - kirjoittamalla oppimisen koe, jossa ChatGPT-avusteinen kirjoittaminen tuotti vähemmän tiedon karttumista kuin avustamaton kontrolli
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Opiskelijoiden kognitiivisen siirtokuormituksen kuviot tekoälylle korkeakoulutuksessa: naturalistinen ChatGPT-viestitason näyttö (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Suunnittelua taidon rappeutumista vastaan: metakognitiivinen palaute vähentää kognitiivista siirtokuormitusta LLM-avustajiin
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Ohjelmointiopiskelijoidesi kognitio ChatGPT:n kanssa: korkeampi suoritus, heikompi muistaminen ja vähentynyt omistajuus
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Siirtokuormitustaipumus ja vahvistamislukutaito korkeamman tason tulosten ennustajina metakognitiivisen itsesäätelyn kautta (Davor et al. 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Reflektiokehote vähentää virheellisten tekoälyn neuvojen hyväksyntää ja parantaa tietoisuuden kalibrointia (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Generatiivisen tekoälyn riippuvuus kriittisen ajattelun disposition ja itse koetun työllistettävyyden rajaehtona (Shojaei et al. 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Lapset osoittivat heikompaa frontoparietaalista, salienssi- ja dorsaalista tarkkaavuusyhteyttä kuin aikuiset keskustellessaan ChatGPT:n kanssa samansuuruisilla luovuuspisteillä
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - Generatiivinen tekoäly ja lasten luova ajattelu: liiallinen nojautuminen ja kehoteriippuvuus kartoittavassa katsauksessa (Niu et al. 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Tukeeko vai korvaako tekoäly opiskelijoiden päättelyä? Kognitiivinen siirtokuormitus tekoälyavusteisessa todistusoppimisessa (Chen et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Mitä palautus ei näytä: kognitiivisen siirtokuormituksen monimutkaistuminen opiskelijoiden matematiikan työssä LLM:ien kanssa (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 asiantuntijan konsensus 65 oppimisprosessista: siirtokuormitus oppimissekvenssin molemmissa päissä
+- [[rented-self-decoupling-performance-becoming-2026]] — Vuokrattu itse: siirtokuormitus, joka maksaa oppijan alakohtaisen itsen eikä vain taidon
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Samankaltaisina alkaneet ryhmät eriytyivät: 74,1 % mallin käyttöönottoa yhdessä profiilissa vastaan 80,8 % siirtokuormitusta ja umpikujaa toisessa (Kilinc et al. 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Tekoälyapu vähensi sinnikkyyttä ja avustamatonta suoriutumista kolmessa satunnaistetussa kokeessa (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT kognitiivisena kainalosauvana: satunnaistettu kontrolloitu koe tiedon muistamisesta 45 päivää myöhemmin (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Kognitiivisesta ulkoistamisesta uudelleenkohdentamiseen: 3P-analyysi opiskelijan ja generatiivisen tekoälyn vuorovaikutuksesta valvomattomissa arvioinneissa (Yan et al. 2026)
+- [[family-school-autonomy-support-genai-2026]] — Perheen ja koulun autonomiatuki lasten vastuulliselle generatiivisen tekoälyn käytölle
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Ylimääräinen vs. hyödyllinen kitka: miksi tekoälyn siirtokuormitus eroaa aiemmista työkaluista
+- [[thermomix-genai-education-analogy-2026]] — Thermomixin kanssa menetät kyvyn kokata: keittiökoneanalogia generatiiviselle tekoälylle koulutuksessa (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — kognitiivinen huuhtoutuminen: tekoälyn aiheuttaman taidon rappeutumisen vetäytymisen jälkeinen dynamiikka
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Kriittinen narratiivinen synteesi keskustelevan tekoälyn sitoutumisesta ja riippuvuudesta
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Kerrosherkkä kognitiivinen siirtokuormitus generatiivisen tekoälyn tukemassa kirjoittamisessa (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Episteeminen riippuvuus tekoälyn välittämässä oppimisessa: kuusi diagnostista kriteeriä, jotka erottavat tuottavan nojautumisen haitallisesta riippuvuudesta (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Generatiivisen tekoälyn kognitiivinen siirtokuormitus oppimisvaikeuksia omaavilla opiskelijoilla
+- [[lodge-loble-cognitive-offloading-2026]] — Tekoäly, kognitiivinen siirtokuormitus ja koulutuksen seuraukset
+- [[cognitive-offloading-metacognitive-review-2026]] — Metakognitiivisia näkökulmia kognitiiviseen siirtokuormitukseen (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metakognitiivinen harjoittelu edistää optimaalista kognitiivista siirtokuormitusta (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Kriittisen ajattelun paradoksi generatiivisen tekoälyn integroimassa oppimisessa
+- [[cognitive-offloading-speedup-illusion]] — Tekoälyavusteisen työn nopeutumisen illuusio
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Kehotekuvioiden yhteisesiintymäverkostoanalyysi
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System-teoria ja kognitiivinen antautuminen: miten tekoäly muovaa ihmisen päättelyä uudelleen (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Antautumisen, siirtokuormituksen ja toimijuuden jatkumo generatiiviselle tekoälylle
+- [[ai-making-us-stupid]] — Tutkimus tekoälyn kognitiivisista vaikutuksista ja oppimisen syrjäytymisestä
+- [[brcic-effortless-trap-productive-struggle-2026]] — Vaivattomuuden ansa: tekoäly kognitiivisen työn korvaajana (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Ajattelematon tekoälyn käyttö rapauttaa itseohjautuvaa oppimista
+- [[generative-ai-guardrails-harm-learning]] — Lukion matematiikan satunnaistetut kokeet suojaamattomasta generatiivisesta tekoälystä
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generatiivisen tekoälyn oppimisrangaistus: kotitehtävien ulkoistaminen vahingoittaa oppimista
+- [[coach-not-crutch-ai-writing]] — Tekoäly voi työskennellä vähemmän ja oppia enemmän (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Tekoälytuutoroinnin tekeminen tuottavaksi: hallintaan perustuva matematiikan harjoittelu
+- [[cognitive-commons-ai-expertise-regeneration]] — Kognitiivisten yhteisvarojen tragedia: tekoäly ja asiantuntemuksen uudistuminen
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: yksityisyyttä säilyttävä itsearviointityökalu tekoälyyn liittyvälle kognitiiviselle siirtokuormitukselle
+- [[chatgpt-writing-cognitive-impact-2026]] — kirjoittamalla oppimisen koe, jossa ChatGPT-avusteinen kirjoittaminen tuotti vähemmän tiedon karttumista kuin avustamaton kontrolli
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Opiskelijoiden kognitiivisen siirtokuormituksen kuviot tekoälylle korkeakoulutuksessa: naturalistinen ChatGPT-viestitason näyttö (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Suunnittelua taidon rappeutumista vastaan: metakognitiivinen palaute vähentää kognitiivista siirtokuormitusta LLM-avustajiin
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Ohjelmointiopiskelijoidesi kognitio ChatGPT:n kanssa: korkeampi suoritus, heikompi muistaminen ja vähentynyt omistajuus
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Siirtokuormitustaipumus ja vahvistamislukutaito korkeamman tason tulosten ennustajina metakognitiivisen itsesäätelyn kautta (Davor et al. 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflektiokehote vähentää virheellisten tekoälyn neuvojen hyväksyntää ja parantaa tietoisuuden kalibrointia (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Generatiivisen tekoälyn riippuvuus kriittisen ajattelun disposition ja itse koetun työllistettävyyden rajaehtona (Shojaei et al. 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Lapset osoittivat heikompaa frontoparietaalista, salienssi- ja dorsaalista tarkkaavuusyhteyttä kuin aikuiset keskustellessaan ChatGPT:n kanssa samansuuruisilla luovuuspisteillä
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Generatiivinen tekoäly ja lasten luova ajattelu: liiallinen nojautuminen ja kehoteriippuvuus kartoittavassa katsauksessa (Niu et al. 2026)

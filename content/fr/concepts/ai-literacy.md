@@ -9,7 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
-connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources]
+connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
@@ -253,7 +253,7 @@ Pour la littératie critique en IA spécifiquement, [[solyst-youth-systematic-ev
 ## Articles liés
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Façonner la petite enfance à l'ère de l'IA : compétences, pédagogie et soutien écologique (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Littératie de sécurité en IA : cadre de compétence écosystémique et plateforme d'apprentissage pour le K-12
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - Élever la dimension éthique de la littératie sans cadre d'adaptation peut laisser les étudiants plus anxieux
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Élever la dimension éthique de la littératie sans cadre d'adaptation peut laisser les étudiants plus anxieux
 - [[caeai-digital-literacy-frameworks-review-2026]] — 80 cadres validés montrent l'IA étendant la littératie numérique vers l'éthique, tandis que la collaboration humain-IA propre aux éducateurs reste sous-spécifiée (Guo et al. 2026)
 - [[ai-literacies-young-adults-2025]] — Six domaines de compétence, cinq valeurs et trois niveaux de progression pour les médias de service public
 - [[ai-literacy-heptagon-2026]] — L'heptagone de la littératie en IA

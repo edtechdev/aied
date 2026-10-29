@@ -141,13 +141,13 @@ Selvtillit og kompetanse er ikke utskiftbare mål: i en SEM med 502 respondenter
 - [[stakeholders]] - Paraply: mennesker og målgrupper i AI-utdanning (elever, lærere, designere, administratorer, beslutningstakere)
 
 ## Beslektede artikler
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Kritisk diskursanalyse av råd om GenAI-tilpasning: utviklere omgjort til teknologitrenere
-- [[crompton-faculty-technology-integration-standards-2026]] - Standarder for fakultetets teknologintegrasjon (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Etiske dimensjoner ved AI: syn fra fakultet og studenter
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalyse av råd om GenAI-tilpasning: utviklere omgjort til teknologitrenere
+- [[crompton-faculty-technology-integration-standards-2026]] — Standarder for fakultetets teknologintegrasjon (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etiske dimensjoner ved AI: syn fra fakultet og studenter
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Hvordan ingeniørfagets metaforer konstruerer (og begrenser) forståelsen av AI
-- [[fear-awe-genai-metaphor-workshops-2025]] - Frykt og ærefrykt: å forstå generativ AI gjennom metafor (metaforverksted for ansatte og studenter)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Å styre det usynlige: AI-kompetanse blant språklærere
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Hvordan ingeniørfagets metaforer konstruerer (og begrenser) forståelsen av AI
+- [[fear-awe-genai-metaphor-workshops-2025]] — Frykt og ærefrykt: å forstå generativ AI gjennom metafor (metaforverksted for ansatte og studenter)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Å styre det usynlige: AI-kompetanse blant språklærere
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -158,19 +158,19 @@ Selvtillit og kompetanse er ikke utskiftbare mål: i en SEM med 502 respondenter
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI som identitetskrise, ikke kompetansegap
-- [[zuo-instructor-power-genai-writing-2026]] - Maktforhold slik høyskoleundervisere opplever dem når de bryner seg på GenAI i skriving (Zuo, Xu & Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Reflective Triangle-modellen: AI som kognitiv formidler
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Fakultetets selvopplevde TPACK-21-kunnskap om GenAI (Sutedjo, Chowdhury & Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK profesjonell utvikling: oppmøte forutsier gevinster, selv opplevd deltakelse gjør det ikke
-- [[instructional-design-proficiency-masters-math-2026]] - Smartklasseromsmodell og D-T-E-sløyfe som forbedrer instruksjonsdesignkompetanse i matematikk på masternivå (Zhu et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arkitektur av roller i AI-designde differensierte gruppeaktiviteter (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Universitetslæreres erfaringer med og oppfatninger av GAI: sårbarhet, nytenkning om vurdering, elevenes læring i risiko (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Fra frykt til innovasjon: et seks ukers fakultetsinstitutt, symbiotisk pedagogikk og de institusjonelle betingelsene det ikke kunne skaffe
-- [[vassallo-ai-guilt-complex-faculty-2026]] - AI Guilt Complex: forventningsskyld, skjuling og forskjeller etter karrierestadie blant akademisk ansatte (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon-undersøkelsen blant 1 057 amerikanske fakultetsansatte: institusjonell manglende beredskap, tynn styring og politikkgapet på 87 %/48 % (Watson & Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akademiske utviklere som digitale formidlere i høyere utdanning i den globale sør: utvikling som sosioteknisk praksis
-- [[physics-faculty-learning-community-ai-2026]] - En verkstedserie for effektiv bruk av AI i usikre tider: å bygge et faglig læringsfellesskap i fysikk
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskrise, ikke kompetansegap
+- [[zuo-instructor-power-genai-writing-2026]] — Maktforhold slik høyskoleundervisere opplever dem når de bryner seg på GenAI i skriving (Zuo, Xu & Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle-modellen: AI som kognitiv formidler
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Fakultetets selvopplevde TPACK-21-kunnskap om GenAI (Sutedjo, Chowdhury & Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK profesjonell utvikling: oppmøte forutsier gevinster, selv opplevd deltakelse gjør det ikke
+- [[instructional-design-proficiency-masters-math-2026]] — Smartklasseromsmodell og D-T-E-sløyfe som forbedrer instruksjonsdesignkompetanse i matematikk på masternivå (Zhu et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arkitektur av roller i AI-designde differensierte gruppeaktiviteter (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Universitetslæreres erfaringer med og oppfatninger av GAI: sårbarhet, nytenkning om vurdering, elevenes læring i risiko (Farazouli et al. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Fra frykt til innovasjon: et seks ukers fakultetsinstitutt, symbiotisk pedagogikk og de institusjonelle betingelsene det ikke kunne skaffe
+- [[vassallo-ai-guilt-complex-faculty-2026]] — AI Guilt Complex: forventningsskyld, skjuling og forskjeller etter karrierestadie blant akademisk ansatte (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-undersøkelsen blant 1 057 amerikanske fakultetsansatte: institusjonell manglende beredskap, tynn styring og politikkgapet på 87 %/48 % (Watson & Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademiske utviklere som digitale formidlere i høyere utdanning i den globale sør: utvikling som sosioteknisk praksis
+- [[physics-faculty-learning-community-ai-2026]] — En verkstedserie for effektiv bruk av AI i usikre tider: å bygge et faglig læringsfellesskap i fysikk
 
-- [[faculty-ai-well-being-social-supports-2026]] - Fakultetets AI-velvære følger AI-kompetanse snarere enn teknologisk self-efficacy
-- [[ai-competence-framework-landscape-2026]] - Sjekk hva nivåene i et rammeverk beskriver, før du tar det i bruk
+- [[faculty-ai-well-being-social-supports-2026]] — Fakultetets AI-velvære følger AI-kompetanse snarere enn teknologisk self-efficacy
+- [[ai-competence-framework-landscape-2026]] — Sjekk hva nivåene i et rammeverk beskriver, før du tar det i bruk

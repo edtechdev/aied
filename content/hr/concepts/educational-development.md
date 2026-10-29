@@ -142,13 +142,13 @@ Samopouzdanje i pismenost nisu zamjenjivi ciljevi: u SEM-u na 502 ispitanika me�
 - [[stakeholders]] - Krov: ljudi i publike u obrazovanju s umjetnom inteligencijom (učenici, nastavnici, dizajneri, administratori, donositelji politika)
 
 ## Povezani članci
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] - Kritička analiza diskursa savjeta o usklađivanju s generativnom umjetnom inteligencijom: razvijatelji preokvireni u trenere tehnologije
-- [[crompton-faculty-technology-integration-standards-2026]] - Standardi za nastavnike o integraciji tehnologije (DBR)
-- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] - Etičke dimenzije umjetne inteligencije: pogledi nastavnika i studenata
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritička analiza diskursa savjeta o usklađivanju s generativnom umjetnom inteligencijom: razvijatelji preokvireni u trenere tehnologije
+- [[crompton-faculty-technology-integration-standards-2026]] — Standardi za nastavnike o integraciji tehnologije (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etičke dimenzije umjetne inteligencije: pogledi nastavnika i studenata
 - [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[engineering-faculty-metaphors-ai-understanding-2026]] - Kako metafore nastavnika inženjerstva grade (i ograničavaju) razumijevanje umjetne inteligencije
-- [[fear-awe-genai-metaphor-workshops-2025]] - Strah i strahopoštovanje: razumijevanje generativne umjetne inteligencije kroz metaforu (radionica metafora za nastavnike, osoblje i studente)
-- [[governing-unseen-ai-literacy-language-teachers-2026]] - Upravljanje nevidljivim: pismenost o umjetnoj inteligenciji među nastavnicima jezika
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Kako metafore nastavnika inženjerstva grade (i ograničavaju) razumijevanje umjetne inteligencije
+- [[fear-awe-genai-metaphor-workshops-2025]] — Strah i strahopoštovanje: razumijevanje generativne umjetne inteligencije kroz metaforu (radionica metafora za nastavnike, osoblje i studente)
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Upravljanje nevidljivim: pismenost o umjetnoj inteligenciji među nastavnicima jezika
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
 - [[institutional-change-framework-ai]]
@@ -159,19 +159,19 @@ Samopouzdanje i pismenost nisu zamjenjivi ciljevi: u SEM-u na 502 ispitanika me�
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - Generativna umjetna inteligencija kao kriza identiteta, a ne jaz u vještinama
-- [[zuo-instructor-power-genai-writing-2026]] - Odnosi moći koje opažaju sveučilišni nastavnici suočeni s generativnom umjetnom inteligencijom u pisanju (Zuo, Xu i Dunning 2026)
-- [[reflective-triangle-model-teacher-ai-2026]] - Model refleksivnog trokuta: umjetna inteligencija kao kognitivni posrednik
-- [[sutedjo-faculty-genai-tpack-21-2026]] - Samoprocijenjeno TPACK-21 znanje nastavnika za generativnu umjetnu inteligenciju (Sutedjo, Chowdhury i Liu 2026)
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK profesionalni razvoj: pohađanje predviđa dobitke, samoopaženo sudjelovanje ne
-- [[instructional-design-proficiency-masters-math-2026]] - Model pametne učionice i D-T-E petlja koji poboljšavaju osposobljenost za instruktivni dizajn u diplomskom studiju matematike (Zhu i sur. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Arhitektura uloga u diferenciranim grupnim aktivnostima koje je osmislila umjetna inteligencija (Talebzadeh 2026)
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] - Iskustva i percepcije sveučilišnih nastavnika o generativnoj umjetnoj inteligenciji: ranjivost, preispitivanje procjene, učenje studenata u opasnosti (Farazouli i sur. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] - Od straha do inovacije: šestotjedni institut za nastavnike, simbiotska pedagogija i institucionalni uvjeti koje nije mogao osigurati
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Kompleks krivnje zbog umjetne inteligencije: anticipatorna krivnja, prikrivanje i razlike prema stadiju karijere među akademskim osobljem (Vassallo 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - Anketa AAC&U i Elon među 1 057 američkih sveučilišnih nastavnika: institucionalna nespremnost, tanak sustav upravljanja i jaz između 87 % i 48 % u politici (Watson i Rainie 2026)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] - Akademski razvijatelji kao digitalni posrednici u visokom obrazovanju Globalnog juga: razvoj kao sociotehnička praksa
-- [[physics-faculty-learning-community-ai-2026]] - Serija radionica za učinkovitu upotrebu umjetne inteligencije u nesigurnim vremenima: izgradnja fizikalne nastavničke zajednice za učenje
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — Generativna umjetna inteligencija kao kriza identiteta, a ne jaz u vještinama
+- [[zuo-instructor-power-genai-writing-2026]] — Odnosi moći koje opažaju sveučilišni nastavnici suočeni s generativnom umjetnom inteligencijom u pisanju (Zuo, Xu i Dunning 2026)
+- [[reflective-triangle-model-teacher-ai-2026]] — Model refleksivnog trokuta: umjetna inteligencija kao kognitivni posrednik
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Samoprocijenjeno TPACK-21 znanje nastavnika za generativnu umjetnu inteligenciju (Sutedjo, Chowdhury i Liu 2026)
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK profesionalni razvoj: pohađanje predviđa dobitke, samoopaženo sudjelovanje ne
+- [[instructional-design-proficiency-masters-math-2026]] — Model pametne učionice i D-T-E petlja koji poboljšavaju osposobljenost za instruktivni dizajn u diplomskom studiju matematike (Zhu i sur. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Arhitektura uloga u diferenciranim grupnim aktivnostima koje je osmislila umjetna inteligencija (Talebzadeh 2026)
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Iskustva i percepcije sveučilišnih nastavnika o generativnoj umjetnoj inteligenciji: ranjivost, preispitivanje procjene, učenje studenata u opasnosti (Farazouli i sur. 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Od straha do inovacije: šestotjedni institut za nastavnike, simbiotska pedagogija i institucionalni uvjeti koje nije mogao osigurati
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Kompleks krivnje zbog umjetne inteligencije: anticipatorna krivnja, prikrivanje i razlike prema stadiju karijere među akademskim osobljem (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — Anketa AAC&U i Elon među 1 057 američkih sveučilišnih nastavnika: institucionalna nespremnost, tanak sustav upravljanja i jaz između 87 % i 48 % u politici (Watson i Rainie 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademski razvijatelji kao digitalni posrednici u visokom obrazovanju Globalnog juga: razvoj kao sociotehnička praksa
+- [[physics-faculty-learning-community-ai-2026]] — Serija radionica za učinkovitu upotrebu umjetne inteligencije u nesigurnim vremenima: izgradnja fizikalne nastavničke zajednice za učenje
 
-- [[faculty-ai-well-being-social-supports-2026]] - Blagostanje nastavnika u vezi s umjetnom inteligencijom prati pismenost o umjetnoj inteligenciji, a ne tehnološku samodjelotvornost
-- [[ai-competence-framework-landscape-2026]] - Provjerite što razine nekog okvira opisuju prije njegova usvajanja
+- [[faculty-ai-well-being-social-supports-2026]] — Blagostanje nastavnika u vezi s umjetnom inteligencijom prati pismenost o umjetnoj inteligenciji, a ne tehnološku samodjelotvornost
+- [[ai-competence-framework-landscape-2026]] — Provjerite što razine nekog okvira opisuju prije njegova usvajanja

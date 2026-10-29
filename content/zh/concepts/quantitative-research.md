@@ -100,5 +100,5 @@ ai_assist:
 - [[ai-lms-middle-school-longitudinal]] — 一项纵向的 AI 整合学习管理系统研究
 - [[adaptive-pretesting-retention]] — 自适应预测试与保持
 - [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构检验
-- [[liu-course-integrated-ai-tutoring-rct-2026]] - 一项组随机化的可得性试验需要一次采用核查
-- [[sriram-ethical-ai-medical-education-bibliometric-2026]] - 文献计量分析是又一个量化家族：Sriram 等人
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — 一项组随机化的可得性试验需要一次采用核查
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 文献计量分析是又一个量化家族：Sriram 等人

@@ -13,7 +13,6 @@ level: [higher ed]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
-reviewed_by: [editor]
 translation_of: concepts/ai-detection
 source_updated: "2026-10-22T12:02:21-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."

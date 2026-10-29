@@ -163,4 +163,4 @@ ai_assist:
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — 把紧凑的学习者状态与校准过的追踪器作为推荐环境
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn：一个在人机共学循环中学习其学习者的智能体式导师
 - [[ai-game-based-learning-systematic-review-2026]] — 隐性评估达到 0.848–0.913 的 AUC，但 55 项研究中偏差审计近乎缺失
-- [[learning-style-inference-bias-student-ai-dialogues-2026]] - 基于对话的学习风格推断在均衡指标上失效（Zamanifard、Goudarzi 与 Robb 2026）
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 基于对话的学习风格推断在均衡指标上失效（Zamanifard、Goudarzi 与 Robb 2026）

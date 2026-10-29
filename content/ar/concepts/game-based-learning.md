@@ -5,7 +5,6 @@ type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/game-based-learning
 source_updated: "2026-09-30T12:53:22-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

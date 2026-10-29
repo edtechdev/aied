@@ -9,7 +9,6 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-reviewed_by: [editor]
 translation_of: concepts/framing-ai-use-for-students
 source_updated: "2026-10-25T18:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -115,7 +114,7 @@ Küçük, iyi tasarlanmış mesajlar davranışı kaydırabilir. ChatGPT’nin y
 
 ## Bağlı makaleler
 
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Sıraya ilişkin 30 uzmanlık mutabakat: GenAI olmadan edin, onunla pekiştir, sonra kendi başına düşün
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Sıraya ilişkin 30 uzmanlık mutabakat: GenAI olmadan edin, onunla pekiştir, sonra kendi başına düşün
 - [[mccorkle-aligned-genai-course-policy-2025]] — Her izinli ve izinsiz GenAI kullanımı için şeffaf gerekçe, görev görev (McCorkle 2025)
 - [[moral-panic-genai-classroom]] — GenAI’yı aksaklık olarak kınamak yerine uygun kullanımını teşvik etmek
 - [[student-rationalization-ai-writing]] — Öğrencilerin akademik yazımda YZ kullanımını gerekçelendirdiği “beş site”

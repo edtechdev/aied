@@ -10,7 +10,7 @@ resource_type: [collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-26"
-foundations: [academic-integrity, learning-design, educational-development]
+foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
 ethics: [accessibility, universal-design-for-learning]
@@ -28,7 +28,6 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-reviewed_by: [editor]
 translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-09-27T03:31:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

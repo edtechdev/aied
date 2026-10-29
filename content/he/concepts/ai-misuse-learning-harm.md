@@ -8,7 +8,6 @@ pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/ai-misuse-learning-harm
 source_updated: "2026-10-13T09:18:19-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

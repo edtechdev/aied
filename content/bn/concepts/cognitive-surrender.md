@@ -127,16 +127,16 @@ ai_assist:
 
 ## সংযুক্ত নিবন্ধ
 
-- [[shaw-nave-cognitive-surrender-2026]] - Tri-System Theory ও আত্মসমর্পণের পরীক্ষামূলক স্বাক্ষর
-- [[generative-ai-reduced-study-time-math]] - ALEKS-এ জনসংখ্যা-স্তরের স্থানচ্যুতি
-- [[young-people-learning-generative-ai-rapid-review-2026]] - PreK-12-এ আত্মসমর্পণ/অফলোডিং/এজেন্সি কাঠামো
-- [[du-yuan-epistemic-dependence-2026]] - যন্ত্রগত বনাম বিচার-বহনকারী সহায়তা
-- [[ai-advice-suppresses-ikt-suspension-2026]] - "আমি জানি না"-এর ধস
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] - স্নায়বিক সম্পৃক্তি ও মালিকানা
-- [[genai-thoughtless-use-self-directed-learning-2026]] - অবিচিন্তিত ব্যবহার ও স্ব-নির্দেশিত শিখন
-- [[stamatoulis-genai-use-patterns-2026]] - কম-যাচাই গ্রহণ বনাম মূল্যায়নমূলক সংযুক্তি
-- [[cognitive-washout-ai-skill-decay-2026]] - প্রত্যাহারের পর কী ঘটে
-- [[ai-overreliance-complex-adaptive-system-2026]] - জনসংখ্যা-প্রক্রিয়া হিসেবে নির্ভরতা
-- [[brcic-effortless-trap-productive-struggle-2026]] - AI এমনভাবে স্থাপন করা যাতে কাজ শ্রমসাধ্য থাকে
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - ক্যালিব্রেশন প্রশিক্ষণ
-- [[family-school-autonomy-support-genai-2026]] - নির্ভরশীল বনাম স্বায়ত্তশাসিত অফলোডিং
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory ও আত্মসমর্পণের পরীক্ষামূলক স্বাক্ষর
+- [[generative-ai-reduced-study-time-math]] — ALEKS-এ জনসংখ্যা-স্তরের স্থানচ্যুতি
+- [[young-people-learning-generative-ai-rapid-review-2026]] — PreK-12-এ আত্মসমর্পণ/অফলোডিং/এজেন্সি কাঠামো
+- [[du-yuan-epistemic-dependence-2026]] — যন্ত্রগত বনাম বিচার-বহনকারী সহায়তা
+- [[ai-advice-suppresses-ikt-suspension-2026]] — "আমি জানি না"-এর ধস
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — স্নায়বিক সম্পৃক্তি ও মালিকানা
+- [[genai-thoughtless-use-self-directed-learning-2026]] — অবিচিন্তিত ব্যবহার ও স্ব-নির্দেশিত শিখন
+- [[stamatoulis-genai-use-patterns-2026]] — কম-যাচাই গ্রহণ বনাম মূল্যায়নমূলক সংযুক্তি
+- [[cognitive-washout-ai-skill-decay-2026]] — প্রত্যাহারের পর কী ঘটে
+- [[ai-overreliance-complex-adaptive-system-2026]] — জনসংখ্যা-প্রক্রিয়া হিসেবে নির্ভরতা
+- [[brcic-effortless-trap-productive-struggle-2026]] — AI এমনভাবে স্থাপন করা যাতে কাজ শ্রমসাধ্য থাকে
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — ক্যালিব্রেশন প্রশিক্ষণ
+- [[family-school-autonomy-support-genai-2026]] — নির্ভরশীল বনাম স্বায়ত্তশাসিত অফলোডিং

@@ -9,7 +9,6 @@ connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/collaborative-learning
 source_updated: "2026-10-07T15:40:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -120,7 +119,7 @@ ai_assist:
 - [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך בינה מלאכותית
 
 ## מאמרים מקושרים
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - קונסנזוס של 30 מומחים מוצא סיכון חברתי חד-צדדי: תהליכי שיתוף פעולה פגיעים ללא נתיב שיפור
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — קונסנזוס של 30 מומחים מוצא סיכון חברתי חד-צדדי: תהליכי שיתוף פעולה פגיעים ללא נתיב שיפור
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — למידה מבוססת-בעיות ומבוססת-פרויקטים כמסגרות מבטיחות לחינוך נתמך-בינה מלאכותית גנרטיבית: ראיה מתגבשת מסקירה שיטתית ומטא-אנליזה בת שלוש שלבים
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — סוכנות לומד צצה בשיתוף פעולה אנושי-בינה מלאכותית מרומז: פרסונות תומכות מול קונטריאריות
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

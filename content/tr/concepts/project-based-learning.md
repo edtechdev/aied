@@ -6,7 +6,6 @@ pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/project-based-learning
 source_updated: "2026-10-13T11:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
@@ -85,5 +84,5 @@ PBL, [[active-learning]], [[experiential-learning]], [[collaborative-learning]],
 - [[educational-robotics-pathways-2026]] — YZ Destekli Eğitim Robotlarını Öğrenmeye Yollar (2026)
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL, baskın bir HT öğrenme stratejisidir
 - [[creative-project-approach-ai-early-childhood-2025]] — Yaratıcı Proje Yaklaşımı: erken çocuklukta Proje Yaklaşımı içinde YZ ajanları ve robotik (Yang, Li & Lee 2025)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - Ekip yazılım PBL’sinde YZ ajanlarla SDD
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — Ekip yazılım PBL’sinde YZ ajanlarla SDD
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: gömülü öğretim ajanlı sürükleyici bir VR tasarım stüdyosu, geleneksel PBL’ye karşı değerlendirildi (Jin ve ark. 2026)

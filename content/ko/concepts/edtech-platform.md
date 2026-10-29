@@ -1,6 +1,6 @@
 ---
 title: 교육공학 플랫폼
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-10-03T02:57:43-04:00"
 connected_faqs: [designing-educational-ai-software]

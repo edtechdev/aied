@@ -8,7 +8,6 @@ technology: [generative-ai]
 audience: [learners]
 level: [higher ed]
 confidence: low
-reviewed_by: [editor]
 translation_of: concepts/design-thinking
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

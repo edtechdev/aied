@@ -8,7 +8,6 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/special-education
 source_updated: "2026-09-30T08:39:04-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

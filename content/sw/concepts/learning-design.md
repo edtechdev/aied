@@ -9,8 +9,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks]
-reviewed_by: [editor]
+connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
 source_updated: "2026-10-27T08:20:32-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -141,7 +140,7 @@ Fowlin na wenzake (2026) wanaongeza hatua ya kazi ya kuamua mahali AI inaingia: 
 
 ## Makala Zinazohusiana
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Akiba ya muda wa kupanga iliyopimwa pamoja na ugunduzi kuwa walimu hupanga 21% hadi 40% tu ya masomo kutoka mwanzo
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Akiba ya muda wa kupanga iliyopimwa pamoja na ugunduzi kuwa walimu hupanga 21% hadi 40% tu ya masomo kutoka mwanzo
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA na GenAI katika kufanya maamuzi ya muundo wa kujifunza
 - [[tang-chatbots-learning-design-2026]] — Matumizi ya chatbot katika muundo wa kujifunza: wabunifu hukaa juu ya matokeo na kielimu badala ya kuzalisha maudhui (Tang na wenzake 2026)

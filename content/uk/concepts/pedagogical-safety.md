@@ -9,7 +9,6 @@ ethics: [ethics, hallucination-risk]
 level: [k 12]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/pedagogical-safety
 source_updated: "2026-10-02T08:08:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."

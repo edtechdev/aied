@@ -136,14 +136,14 @@ Fowlin et al. (2026) lisäävät operationaalisen liikkeen sen päättämiseen, 
 
 ## Liittyvät artikkelit
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Mitattu suunnitteluajan säästö yhdessä sen havainnon kanssa, että opettajat suunnittelevat vain 21-40 % oppitunneista tyhjästä
-- [[powerful-learning-with-emerging-technology-2025]] - Tehokas oppiminen nousevan teknologian kanssa
-- [[claassen-learning-analytics-genai-learning-design-2026]] - Oppimisanalytiikka ja generatiivinen tekoäly oppimissuunnittelun päätöksenteossa
-- [[tang-chatbots-learning-design-2026]] - Chatbotin käyttö oppimissuunnittelussa: suunnittelijat viipyvät tavoitteissa ja pedagogiikassa sisällöntuotannon sijaan (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Opettajan ja tekoälyn vuorovaikutuskuviot oppituntisuunnittelussa kokemuksen ja tekoälyosaamisen mukaan (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] - Tekoäly korkeakoulutuksessa: sitoutuminen ja opetusmenetelmien välittävä rooli
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Mitattu suunnitteluajan säästö yhdessä sen havainnon kanssa, että opettajat suunnittelevat vain 21-40 % oppitunneista tyhjästä
+- [[powerful-learning-with-emerging-technology-2025]] — Tehokas oppiminen nousevan teknologian kanssa
+- [[claassen-learning-analytics-genai-learning-design-2026]] — Oppimisanalytiikka ja generatiivinen tekoäly oppimissuunnittelun päätöksenteossa
+- [[tang-chatbots-learning-design-2026]] — Chatbotin käyttö oppimissuunnittelussa: suunnittelijat viipyvät tavoitteissa ja pedagogiikassa sisällöntuotannon sijaan (Tang et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Opettajan ja tekoälyn vuorovaikutuskuviot oppituntisuunnittelussa kokemuksen ja tekoälyosaamisen mukaan (Choi et al. 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Tekoäly korkeakoulutuksessa: sitoutuminen ja opetusmenetelmien välittävä rooli
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] - Taksonomia (rajapinta) generatiivisen tekoälyn oppimistoimintojen luokitteluun
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomia (rajapinta) generatiivisen tekoälyn oppimistoimintojen luokitteluun
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -154,19 +154,19 @@ Fowlin et al. (2026) lisäävät operationaalisen liikkeen sen päättämiseen, 
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] - Tekoälyverkkoagentit: autonominen verkkoagentti arvioi oppituntisuunnitelmia ja ennustaa opiskelijoiden keskeyttämisen ennen kuin opiskelijat sitoutuvat (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] - AIRIS: viitekehys kognitiivisesti aktivoivalle tekoälyn vahvistamiselle fysiikassa
+- [[ai-web-agents-lesson-design-2025]] — Tekoälyverkkoagentit: autonominen verkkoagentti arvioi oppituntisuunnitelmia ja ennustaa opiskelijoiden keskeyttämisen ennen kuin opiskelijat sitoutuvat (Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: viitekehys kognitiivisesti aktivoivalle tekoälyn vahvistamiselle fysiikassa
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] - Suunnittelu kantaman mukaan: seitsemän vipua ja yksin tekoälyn kanssa oleva opiskelija
+- [[halani-designing-for-reach-2026]] — Suunnittelu kantaman mukaan: seitsemän vipua ja yksin tekoälyn kanssa oleva opiskelija
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] - Kun ei-sanominen tekee parempia videoita: kaksinkertainen portinvartiointi pedagogisesti perustellussa tekoälysisällön tuotannossa
-- [[rhaimi-productivemath-2025]] - ProductiveMath: tekoäly tuottavan epäonnistumisen tehtävien suunnittelun tukena
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] - Tekoäly ja opetussuunnittelun käytäntö: systemaattinen katsaus (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] - Graafipohjainen älykäs opastus dynaamisilla aloilla (2026)
-- [[making-ai-annoying-constrained-writing-2026]] - Tekoälyn tekeminen tarkoituksella ärsyttäväksi: rajaaminen tekoälytuetussa kirjoittamisessa (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] - Älyluokkamalli ja D-T-E-silmukka matematiikan maisterikurssin opetussuunnittelun osaamisen parantamisessa (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] - Tekoälypohjainen alusta matemaattisten mallinnustehtävien tuottamiseen (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] - Opettajan ja tekoälyn yhteissuunnittelu oppimistehtävissä: trendit ja näkökulmat (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytyneissä ryhmätoiminnoissa (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] - LLM:t iteratiivisen pedagogisen suunnittelun agentteina
+- [[ai-video-dual-gatekeeping-2026]] — Kun ei-sanominen tekee parempia videoita: kaksinkertainen portinvartiointi pedagogisesti perustellussa tekoälysisällön tuotannossa
+- [[rhaimi-productivemath-2025]] — ProductiveMath: tekoäly tuottavan epäonnistumisen tehtävien suunnittelun tukena
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — Tekoäly ja opetussuunnittelun käytäntö: systemaattinen katsaus (Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — Graafipohjainen älykäs opastus dynaamisilla aloilla (2026)
+- [[making-ai-annoying-constrained-writing-2026]] — Tekoälyn tekeminen tarkoituksella ärsyttäväksi: rajaaminen tekoälytuetussa kirjoittamisessa (Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — Älyluokkamalli ja D-T-E-silmukka matematiikan maisterikurssin opetussuunnittelun osaamisen parantamisessa (Zhu et al. 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — Tekoälypohjainen alusta matemaattisten mallinnustehtävien tuottamiseen (ADDIE, RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — Opettajan ja tekoälyn yhteissuunnittelu oppimistehtävissä: trendit ja näkökulmat (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Roolien arkkitehtuuri tekoälyn suunnittelemissa eriytyneissä ryhmätoiminnoissa (Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — LLM:t iteratiivisen pedagogisen suunnittelun agentteina

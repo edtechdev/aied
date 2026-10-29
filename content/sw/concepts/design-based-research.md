@@ -5,7 +5,6 @@ type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
-reviewed_by: [editor]
 translation_of: concepts/design-based-research
 source_updated: "2026-09-30T07:37:28-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-reviewed_by: [editor]
 translation_of: concepts/ethics
 source_updated: "2026-10-08T10:20:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -109,7 +108,7 @@ ai_assist:
 - [[biology-education]] — חינוך ביולוגיה ובינה מלאכותית: עוזרי הוראה במעבדה, אוריינות AI בביולוגיה, חשיבה ביקורתית, כלים מיוחדים
 
 ## מאמרים מקושרים
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - מודעות אתית הגבירה חרדת AI כשאף מסגרת התמודדות לא נלמדה: תיווך עקיף-בלבד בין 584 סטודנטים
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — מודעות אתית הגבירה חרדת AI כשאף מסגרת התמודדות לא נלמדה: תיווך עקיף-בלבד בין 584 סטודנטים
 - [[learning-analytics-to-educational-interventions-2026]] — מלמידה אנליטית להתערבויות חינוכיות: מאפשרים של התערבויות אמינות מבוססות-LA (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — כיצד סטודנטים משתמשים ומסתירים AI בהערכות מקוונות
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — גילוי AI של סטודנטים, סטיגמה, ולמידה מוסדרת-עצמית

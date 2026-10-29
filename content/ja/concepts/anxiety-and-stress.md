@@ -130,7 +130,7 @@ AI はまた、安心ではなく学習目標を進めることによって学�
 - [[social-norms-ai-use|AI 使用の社会的規範]] — 可視性の感情的コスト
 
 ## 関連する記事
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] - 能力が倫理的気づきを高め、倫理的気づきが AI 不安を高める：584 人の学生における間接のみの媒介
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 能力が倫理的気づきを高め、倫理的気づきが AI 不安を高める：584 人の学生における間接のみの媒介
 - [[ai-anxiety-strategic-regulation-writing-2026]] — 生産的な戦略的調整の信号としての AI 不安
 - [[aivaluate-anxiety-assessment-2026]] — AI 媒介の実演に基づく評価における学生の不安
 - [[ai-campus-wellbeing-tools]] — キャンパスのウェルビーイングのための AI 駆動ツール

@@ -8,7 +8,6 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-d
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/inclusive-learning
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

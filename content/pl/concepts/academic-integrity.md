@@ -195,43 +195,43 @@ Pierwsze badanie teorii zachowań planowanych nad intencją przewinienia oparteg
 
 ## Połączone artykuły
 
-- [[ivory-psychology-assessment-integrity-2026]] - Cały program psychologii do zaliczenia minimalnym wysiłkiem i kryteria oceniania, które na to pozwoliły (Ivory i wsp. 2026)
-- [[zou-is-this-a-trap-student-teachers-genai-2026]] - Przyszli nauczyciele odmówili generatywnej SI przy permisywnej polityce; ujęcie „pułapki" i luka między ankietą a deklaracją
-- [[ai-agents-joyful-assessment-third-space-2026]] - Agenci SI, radosne ocenianie i trzecia przestrzeń
-- [[kumar-genai-computing-education-systematic-review-2026]] - Dowody na wykrywanie są cienkie (3 badania z 72); ciężar dźwiga przeprojektowanie
-- [[mccorkle-aligned-genai-course-policy-2025]] - Wyrównana polityka kursu wobec generatywnej SI: pozwolenia wyprowadzone z oceniania, przejrzyste uzasadnienie (McCorkle 2025)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] - Generowanie wariantów oceniania równoważnych w konstrukcie (Lee 2026)
-- [[chirikov-regulate-ai-syllabi-2026]] - Jak nauczyciele regulują SI w ponad 31 000 sylabusów; spadek ujęcia uczciwościowego (Chirikov 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] - Czy studenci mogą ściągać aż do dyplomu z biologii? Studium przypadku podatności ocen z kursów biologii na nieuczciwość akademicką w dobie generatywnej SI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] - Niezgodność studentów z deklaracjami korzystania z SI
-- [[detecting-llm-generated-text-latent-prompt]] - Wykrywanie tekstu generowanego przez LLM
-- [[beyond-detection-authentic-assessment-ai-2025]] - Poza wykrywaniem: ocenianie autentyczne w świecie zapośredniczonym przez SI
-- [[ai-assessment-scale-reform]] - Skala Oceny z SI i reforma oceniania
-- [[authentic-products-authenticated-processes-2026]] - Od autentycznych produktów do uwierzytelnionych procesów
-- [[student-rationalization-ai-writing]] - To jest w porządku, bo… racjonalizacja korzystania z SI przez studentów
-- [[ethical-ai-higher-ed-game-theory]] - Rama gry koordynacyjnej dla etycznego korzystania z SI
-- [[shame-guilt-ai-regulation-computing-education]] - Wstyd i poczucie winy jako społeczne regulatory korzystania z SI
-- [[cross-cultural-student-perceptions-genai-computing]] - Czy Alice postąpiła źle? Międzykulturowe postrzeganie korzystania z SI
-- [[luo-dawson-value-judgments-grading-2026]] - Osądy wartościujące przy ocenianiu pracy wspomaganej generatywną SI: uczciwość, zaufanie, wiarygodność i dwukierunkowa przejrzystość (Luo i Dawson 2026)
-- [[chen-zou-genai-group-assessment-agency-2026]] - Odpowiedzialność rówieśnicza i oryginalność w ocenianiu grupowym zapośredniczonym przez generatywną SI
-- [[teichmann-detecting-undetectable-misconduct-2026]] - Załamanie dowodowe wykrywania i argument za sprawiedliwością proceduralną, proporcjonalnością i projektowaniem
-- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] - Odstraszanie, ujawnianie i przeprojektowanie jako problem projektu oceniania przy niepełnej informacji
-- [[munoz-misconduct-allegation-evidence-2026]] - Na czym naprawdę opierało się 1162 aktów przewinienia z generatywną SI i brakujący próg dowodowy
-- [[wright-transcription-not-generation-2026]] - Zbyt szerokie reguły wobec SI a rozróżnienie między transkrypcją i generowaniem
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Cyfrowe ściąganie z SI i pedagogiki etyczne oparte na zapobieganiu: przypadek spadku z 183 do 27 przewinień i pięć przeprojektowań swoistych dla dyscypliny (Leaton Gray, Edsall i Parapadakis 2025)
-- [[coates-governing-academic-integrity-indicators-2025]] - Uczciwość jako problem zarządzania: rama 130 wskaźników dla organów zarządzających akademickich (Coates, Croucher i Calderon 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Przegląd zakresowy 38 badań nad głosami studentów szkolnictwa wyższego o uczciwości akademickiej i generatywnej SI (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Kreślenie granicy między wsparciem a substytucją dla piszących w języku angielskim jako dodatkowym i niesprawiedliwość reguł ignorujących pochodzenie językowe (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Wstrzykiwanie promptów przeciwko ocenianiu zapośredniczonemu przez SI: ukryte instrukcje zmieniające ocenę bez wykrycia (Humble 2026)
-- [[petricini-zipf-ai-use-ethics-matrix-2026]] - Matryca etyki korzystania z SI: lękliwa zgodność i dlaczego sama jasność może pchać studentów ku efektywnemu obchodzeniu (Petricini i Zipf 2026)
-- [[austin-ai-agents-assignment-redesign-2026]] - Ocenianie śladu rozumowania, gdy agenci SI potrafią wykonać zadanie (Austin 2026)
-- [[ai-written-admissions-essays-penalized-2026]] - Eseje rekrutacyjne pisane przez SI są rozpowszechnione, ale karane
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] - Kto działa, kto wie, kto odpowiada? Analiza dyskursu wspomagana korpusem nad sprawczością, odpowiedzialnością epistemiczną i rozliczalnością w badaniach nad generatywną SI w szkolnictwie wyższym
+- [[ivory-psychology-assessment-integrity-2026]] — Cały program psychologii do zaliczenia minimalnym wysiłkiem i kryteria oceniania, które na to pozwoliły (Ivory i wsp. 2026)
+- [[zou-is-this-a-trap-student-teachers-genai-2026]] — Przyszli nauczyciele odmówili generatywnej SI przy permisywnej polityce; ujęcie „pułapki" i luka między ankietą a deklaracją
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agenci SI, radosne ocenianie i trzecia przestrzeń
+- [[kumar-genai-computing-education-systematic-review-2026]] — Dowody na wykrywanie są cienkie (3 badania z 72); ciężar dźwiga przeprojektowanie
+- [[mccorkle-aligned-genai-course-policy-2025]] — Wyrównana polityka kursu wobec generatywnej SI: pozwolenia wyprowadzone z oceniania, przejrzyste uzasadnienie (McCorkle 2025)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generowanie wariantów oceniania równoważnych w konstrukcie (Lee 2026)
+- [[chirikov-regulate-ai-syllabi-2026]] — Jak nauczyciele regulują SI w ponad 31 000 sylabusów; spadek ujęcia uczciwościowego (Chirikov 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Czy studenci mogą ściągać aż do dyplomu z biologii? Studium przypadku podatności ocen z kursów biologii na nieuczciwość akademicką w dobie generatywnej SI
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Niezgodność studentów z deklaracjami korzystania z SI
+- [[detecting-llm-generated-text-latent-prompt]] — Wykrywanie tekstu generowanego przez LLM
+- [[beyond-detection-authentic-assessment-ai-2025]] — Poza wykrywaniem: ocenianie autentyczne w świecie zapośredniczonym przez SI
+- [[ai-assessment-scale-reform]] — Skala Oceny z SI i reforma oceniania
+- [[authentic-products-authenticated-processes-2026]] — Od autentycznych produktów do uwierzytelnionych procesów
+- [[student-rationalization-ai-writing]] — To jest w porządku, bo… racjonalizacja korzystania z SI przez studentów
+- [[ethical-ai-higher-ed-game-theory]] — Rama gry koordynacyjnej dla etycznego korzystania z SI
+- [[shame-guilt-ai-regulation-computing-education]] — Wstyd i poczucie winy jako społeczne regulatory korzystania z SI
+- [[cross-cultural-student-perceptions-genai-computing]] — Czy Alice postąpiła źle? Międzykulturowe postrzeganie korzystania z SI
+- [[luo-dawson-value-judgments-grading-2026]] — Osądy wartościujące przy ocenianiu pracy wspomaganej generatywną SI: uczciwość, zaufanie, wiarygodność i dwukierunkowa przejrzystość (Luo i Dawson 2026)
+- [[chen-zou-genai-group-assessment-agency-2026]] — Odpowiedzialność rówieśnicza i oryginalność w ocenianiu grupowym zapośredniczonym przez generatywną SI
+- [[teichmann-detecting-undetectable-misconduct-2026]] — Załamanie dowodowe wykrywania i argument za sprawiedliwością proceduralną, proporcjonalnością i projektowaniem
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Odstraszanie, ujawnianie i przeprojektowanie jako problem projektu oceniania przy niepełnej informacji
+- [[munoz-misconduct-allegation-evidence-2026]] — Na czym naprawdę opierało się 1162 aktów przewinienia z generatywną SI i brakujący próg dowodowy
+- [[wright-transcription-not-generation-2026]] — Zbyt szerokie reguły wobec SI a rozróżnienie między transkrypcją i generowaniem
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Cyfrowe ściąganie z SI i pedagogiki etyczne oparte na zapobieganiu: przypadek spadku z 183 do 27 przewinień i pięć przeprojektowań swoistych dla dyscypliny (Leaton Gray, Edsall i Parapadakis 2025)
+- [[coates-governing-academic-integrity-indicators-2025]] — Uczciwość jako problem zarządzania: rama 130 wskaźników dla organów zarządzających akademickich (Coates, Croucher i Calderon 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Przegląd zakresowy 38 badań nad głosami studentów szkolnictwa wyższego o uczciwości akademickiej i generatywnej SI (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Kreślenie granicy między wsparciem a substytucją dla piszących w języku angielskim jako dodatkowym i niesprawiedliwość reguł ignorujących pochodzenie językowe (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Wstrzykiwanie promptów przeciwko ocenianiu zapośredniczonemu przez SI: ukryte instrukcje zmieniające ocenę bez wykrycia (Humble 2026)
+- [[petricini-zipf-ai-use-ethics-matrix-2026]] — Matryca etyki korzystania z SI: lękliwa zgodność i dlaczego sama jasność może pchać studentów ku efektywnemu obchodzeniu (Petricini i Zipf 2026)
+- [[austin-ai-agents-assignment-redesign-2026]] — Ocenianie śladu rozumowania, gdy agenci SI potrafią wykonać zadanie (Austin 2026)
+- [[ai-written-admissions-essays-penalized-2026]] — Eseje rekrutacyjne pisane przez SI są rozpowszechnione, ale karane
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Kto działa, kto wie, kto odpowiada? Analiza dyskursu wspomagana korpusem nad sprawczością, odpowiedzialnością epistemiczną i rozliczalnością w badaniach nad generatywną SI w szkolnictwie wyższym
 
-- [[genai-governance-australian-higher-ed-2026]] - Mapowanie dozwolonej granicy: porównawcze badanie scenek politycznych nad zarządzaniem generatywną SI w australijskim szkolnictwie wyższym
-- [[argus-academic-integrity-genai-2026]] - Argus: uczciwość akademicka w dobie generatywnej SI
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] - Ustalenie z audytu sektorowego: uniwersytety z mandatem i te z ramami nie różnią się ekspozycją oceniania - empiryczny odpowiednik problemu koordynacji
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] - Akçapınar (2026) - wczesne przewidywanie ryzyka ściągania wspomaganego SI ze śladów LMS, ujęte jako wskazówki akademickie, a nie dowód przewinienia
-- [[reddit-genai-education-discourse-analysis-2026]] - Trzy i pół roku edukacyjnego Reddita: dominuje egzekwowanie, a spory o uczciwość są głównym miejscem spotkań nauczycieli i studentów (Yüce i wsp. 2026)
-- [[boyd-swan-employer-responses-genai-2026]] - Eksperyment ankietowy: ujęcie substytucyjne korzystania z SI przez studentów karze kandydatów z wysoką średnią przy rekrutacji i wynagrodzeniu; test stacjonarny to jedyne remedium wybrane przez obie grupy
-- [[airri-machine-resistant-reading-interface-2026]] - AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface
+- [[genai-governance-australian-higher-ed-2026]] — Mapowanie dozwolonej granicy: porównawcze badanie scenek politycznych nad zarządzaniem generatywną SI w australijskim szkolnictwie wyższym
+- [[argus-academic-integrity-genai-2026]] — Argus: uczciwość akademicka w dobie generatywnej SI
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Ustalenie z audytu sektorowego: uniwersytety z mandatem i te z ramami nie różnią się ekspozycją oceniania - empiryczny odpowiednik problemu koordynacji
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) - wczesne przewidywanie ryzyka ściągania wspomaganego SI ze śladów LMS, ujęte jako wskazówki akademickie, a nie dowód przewinienia
+- [[reddit-genai-education-discourse-analysis-2026]] — Trzy i pół roku edukacyjnego Reddita: dominuje egzekwowanie, a spory o uczciwość są głównym miejscem spotkań nauczycieli i studentów (Yüce i wsp. 2026)
+- [[boyd-swan-employer-responses-genai-2026]] — Eksperyment ankietowy: ujęcie substytucyjne korzystania z SI przez studentów karze kandydatów z wysoką średnią przy rekrutacji i wynagrodzeniu; test stacjonarny to jedyne remedium wybrane przez obie grupy
+- [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

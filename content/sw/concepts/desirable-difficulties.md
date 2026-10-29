@@ -6,7 +6,6 @@ foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
 connected_faqs: [reducing-over-reliance, study-with-ai]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/desirable-difficulties
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."

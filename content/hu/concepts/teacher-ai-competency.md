@@ -166,57 +166,57 @@ Az eszközök világát azóta áttekintették. [[assessing-teachers-ai-literacy
 
 ## Kapcsolódó cikkek
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Mely tanárok nyertek tervezési időt: alacsonyabb tantárgyi tudás-magabiztosság, alacsonyabb pedagógiai tudás, újabb a szakmában vagy magas technológiai magabiztosság
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - A tanárok elfogadják az MI-t, miközben félreértik a működését (Aji és mtsai 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - A tanári felkészültség és a technológiai-pedagógiai integráció mint a leggyakrabban jelentett kihívás 54 matematikaoktatási kutatásban (Manto és mtsai 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Multimodális értékelési írástudatosság: egy egyéves program, ahol a tudás és a kompetencia mozdult, az értékek nem
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Mely tanárok nyertek tervezési időt: alacsonyabb tantárgyi tudás-magabiztosság, alacsonyabb pedagógiai tudás, újabb a szakmában vagy magas technológiai magabiztosság
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — A tanárok elfogadják az MI-t, miközben félreértik a működését (Aji és mtsai 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — A tanári felkészültség és a technológiai-pedagógiai integráció mint a leggyakrabban jelentett kihívás 54 matematikaoktatási kutatásban (Manto és mtsai 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodális értékelési írástudatosság: egy egyéves program, ahol a tudás és a kompetencia mozdult, az értékek nem
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligens-TPACK szakmai fejlődés: fél szórásnyi nyereség, és negatív nyereségek, amelyek újrakalibrálódásként olvashatók. A szakmai fejlődési programok hatása a K-12 tanárok MI-írástudatosságára: szisztematikus áttekintés és metaanalízis
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligens-TPACK szakmai fejlődés: fél szórásnyi nyereség, és negatív nyereségek, amelyek újrakalibrálódásként olvashatók. A szakmai fejlődési programok hatása a K-12 tanárok MI-írástudatosságára: szisztematikus áttekintés és metaanalízis
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - A tanárok saját osztálytermi MI-eseteiket címkézték, és könnyen elérték a gyakorlati kompetenciákat, a társadalmiakat és etikaiakat viszont ritkán (Wang és mtsai 2026)
-- [[typology-generative-ai-tools-education-2026]] - Az eszközválasztás mint az oktatói cselekvőképesség gyakorlása
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - A generatív MI szisztematikus áttekintése a K-12 tanításban és tanulásban (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - A tanári szaktudás a K-12 MI-oktatásban: TAIK kontra TPAIK és a diákok tanulása (Shen és mtsai 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Tanár-MI interakciós minták az óravázlattervezésben tapasztalat és MI-jártasság szerint (Choi és mtsai 2026)
-- [[preservice-teachers-responsible-genai-2026]] - A tanárjelöltek felelős GenAI-használata: tantervi következmények (Kohnke és mtsai 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - LLM-alapú osztálytermi megfigyelés a tanárok szakmai fejlődéséhez (Melo és mtsai 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - Generatív MI reprezentációkon, dekompozíciókon és közelítéseken át: próba, strukturált visszajelzés és a pontossági figyelmeztetések
-- [[genai-pd-ai-pck-learning-gain-2026]] - Egy intenzív GenAI szakmai fejlődési program hatékonysága
-- [[ai-tpack-teacher-multi-agent-workflow]] - Az AI-TPACK modellezése tanári többágenses munkafolyamatokon keresztül
-- [[teacher-ai-teaming-five-levels]] - A szinergikus tanár-MI interakciók felé
-- [[teacher-education-ai-literacy-sdt-2026]] - Tanárképzés az MI-írástudatosságért az önrendelkezés elméletén keresztül
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Tervezésalapú kutatású GenAI-írástudatossági képzés
-- [[rail-ed-genai-literacy-teacher-education]] - A GenAI-írástudatosság újragondolása a tanárképzésben
-- [[sec-ai-literacy-narrative-review-2026]] - A szocio-emocionális kompetenciák integrálása az MI-írástudatossággal
-- [[teacher-ai-adoption-confidence]] - MI-átvétel a tanárok körében: magabiztosság és támogatás
-- [[ai-pedagogical-orientation]] - Az oktatói orientációk alakítják az MI-átvételt
-- [[ai-literacy-assessment-misalignment]] - Az önbevalláson alapuló és a teljesítményalapú MI-kompetencia közötti eltérés
-- [[quest-ai-inquiry-preservice-teachers]] - MI-támogatott vizsgálódás tanárjelölteknek
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - EPIQ-AI oktatói felkészültségi keretrendszer
-- [[llm-cultural-relevance-k12]] - LLM-ek kulturálisan releváns K-12 pedagógiához
-- [[institutional-change-framework-ai]] - Intézményi változási keretrendszer az MI-hez
-- [[teachingcoach-chatbot-instructor-guidance]] - TeachingCoach chatbot oktatói útmutatáshoz
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - A GenAI mint identitásválság, nem készséghiány
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — A tanárok saját osztálytermi MI-eseteiket címkézték, és könnyen elérték a gyakorlati kompetenciákat, a társadalmiakat és etikaiakat viszont ritkán (Wang és mtsai 2026)
+- [[typology-generative-ai-tools-education-2026]] — Az eszközválasztás mint az oktatói cselekvőképesség gyakorlása
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — A generatív MI szisztematikus áttekintése a K-12 tanításban és tanulásban (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — A tanári szaktudás a K-12 MI-oktatásban: TAIK kontra TPAIK és a diákok tanulása (Shen és mtsai 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Tanár-MI interakciós minták az óravázlattervezésben tapasztalat és MI-jártasság szerint (Choi és mtsai 2026)
+- [[preservice-teachers-responsible-genai-2026]] — A tanárjelöltek felelős GenAI-használata: tantervi következmények (Kohnke és mtsai 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — LLM-alapú osztálytermi megfigyelés a tanárok szakmai fejlődéséhez (Melo és mtsai 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generatív MI reprezentációkon, dekompozíciókon és közelítéseken át: próba, strukturált visszajelzés és a pontossági figyelmeztetések
+- [[genai-pd-ai-pck-learning-gain-2026]] — Egy intenzív GenAI szakmai fejlődési program hatékonysága
+- [[ai-tpack-teacher-multi-agent-workflow]] — Az AI-TPACK modellezése tanári többágenses munkafolyamatokon keresztül
+- [[teacher-ai-teaming-five-levels]] — A szinergikus tanár-MI interakciók felé
+- [[teacher-education-ai-literacy-sdt-2026]] — Tanárképzés az MI-írástudatosságért az önrendelkezés elméletén keresztül
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Tervezésalapú kutatású GenAI-írástudatossági képzés
+- [[rail-ed-genai-literacy-teacher-education]] — A GenAI-írástudatosság újragondolása a tanárképzésben
+- [[sec-ai-literacy-narrative-review-2026]] — A szocio-emocionális kompetenciák integrálása az MI-írástudatossággal
+- [[teacher-ai-adoption-confidence]] — MI-átvétel a tanárok körében: magabiztosság és támogatás
+- [[ai-pedagogical-orientation]] — Az oktatói orientációk alakítják az MI-átvételt
+- [[ai-literacy-assessment-misalignment]] — Az önbevalláson alapuló és a teljesítményalapú MI-kompetencia közötti eltérés
+- [[quest-ai-inquiry-preservice-teachers]] — MI-támogatott vizsgálódás tanárjelölteknek
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI oktatói felkészültségi keretrendszer
+- [[llm-cultural-relevance-k12]] — LLM-ek kulturálisan releváns K-12 pedagógiához
+- [[institutional-change-framework-ai]] — Intézményi változási keretrendszer az MI-hez
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot oktatói útmutatáshoz
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — A GenAI mint identitásválság, nem készséghiány
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - A tanári digitális kompetencia értékelése a GenAI tantervtervezéshez (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - fenomenográfiai vizsgálat az egyetemi tanárok MI-felfogásairól
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Ötszintű MI-írástudatossági keretrendszer és szakmai fejlődés ukrán középiskolai pedagógusoknak (Marienko és mtsai 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - A tanár-MI közös tervezése a tanulási feladatoknak: irányzatok és perspektívák (Wang és mtsai 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - A szerepek architektúrája az MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — A tanári digitális kompetencia értékelése a GenAI tantervtervezéshez (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — fenomenográfiai vizsgálat az egyetemi tanárok MI-felfogásairól
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Ötszintű MI-írástudatossági keretrendszer és szakmai fejlődés ukrán középiskolai pedagógusoknak (Marienko és mtsai 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — A tanár-MI közös tervezése a tanulási feladatoknak: irányzatok és perspektívák (Wang és mtsai 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — A szerepek architektúrája az MI által tervezett differenciált csoporttevékenységekben (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - A prompttervezés és a modellválasztás mint az MI-visszajelzés minőségének prediktorai (Jacobsen és mtsai 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Az MI-bűntudat komplexum: előzetes bűntudat és négy erkölcsi válaszprofil az akadémiai munkatársak körében (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - Egy háromórás tanári szakmai fejlődési alkalom növelte az észlelt hasznosságot és használhatóságot, de nem a kimondott átvételi szándékot (Mesenhöller és Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - A MI szisztematikus áttekintése a leendő általános iskolai matematikatanárok képzésében: az etikával csak tizenegyből három kutatásban foglalkoztak (Pinto és mtsai 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon felmérés 1 057 amerikai oktatóval: felkészültség, nem-használat és az egyéni kontra intézményi szabályzati rés (Watson és Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Intézményközi oktatói kollaboratórium: az MI-integráció mint tanulástervezés a tanárképzésben
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - 33 eszköz szisztematikus áttekintése a tanári MI-írástudatosság mérésére: 31 önbevallás, két objektív tudásteszt, teljesítményfeladat nélkül (Zainal, Mohd Matore és Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Tervezésalapú adaptív MI-írástudatossági modell és 20 tételes reflektív kérdőív 22 tanárképzővel közösen tervezve (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - Műhelysorozat az MI hatékony használatáért bizonytalan időkben: fizikai oktatói tanulóközösség építése
-- [[authentic-assessments-generative-ai-pilot-2026]] - Autentikus értékelések tervezése generatív MI-vel: az Assessment Authentifire kísérleti vizsgálata a felsőoktatásban
-- [[teachers-configure-educational-chatbots-2026]] - Úgy fog tanítani, ahogy szánták? Hogyan konfigurálják a tanárok az oktatási MI-chatbotokat
-- [[capability-decision-model-teacher-readiness-2026]] - Rendezett, képességközpontú tanári felkészültségi modell teljesítményalapú képességmutatókkal
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Öt országot átfogó felmérés 1 405 K-12 tanárral: a felkészültség pozitív hiedelmeket jelez, de nem az aggodalmat
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Négy TALIS 2024-es tanári hiedelemprofil összekapcsolja a szakmai tanulást és a profilspecifikus MI-használati akadályokat
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - MI-mikrotanulási modulok tervezése egyetemi tanároknak a szakképzési tanárképzésben: tervezésalapú kutatás
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: hogyan vallanak kudarcot a tanárok által konfigurált chatbotok a valós használatban, és hogyan lehet javítani őket
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — A prompttervezés és a modellválasztás mint az MI-visszajelzés minőségének prediktorai (Jacobsen és mtsai 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Az MI-bűntudat komplexum: előzetes bűntudat és négy erkölcsi válaszprofil az akadémiai munkatársak körében (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Egy háromórás tanári szakmai fejlődési alkalom növelte az észlelt hasznosságot és használhatóságot, de nem a kimondott átvételi szándékot (Mesenhöller és Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — A MI szisztematikus áttekintése a leendő általános iskolai matematikatanárok képzésében: az etikával csak tizenegyből három kutatásban foglalkoztak (Pinto és mtsai 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon felmérés 1 057 amerikai oktatóval: felkészültség, nem-használat és az egyéni kontra intézményi szabályzati rés (Watson és Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Intézményközi oktatói kollaboratórium: az MI-integráció mint tanulástervezés a tanárképzésben
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 eszköz szisztematikus áttekintése a tanári MI-írástudatosság mérésére: 31 önbevallás, két objektív tudásteszt, teljesítményfeladat nélkül (Zainal, Mohd Matore és Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Tervezésalapú adaptív MI-írástudatossági modell és 20 tételes reflektív kérdőív 22 tanárképzővel közösen tervezve (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — Műhelysorozat az MI hatékony használatáért bizonytalan időkben: fizikai oktatói tanulóközösség építése
+- [[authentic-assessments-generative-ai-pilot-2026]] — Autentikus értékelések tervezése generatív MI-vel: az Assessment Authentifire kísérleti vizsgálata a felsőoktatásban
+- [[teachers-configure-educational-chatbots-2026]] — Úgy fog tanítani, ahogy szánták? Hogyan konfigurálják a tanárok az oktatási MI-chatbotokat
+- [[capability-decision-model-teacher-readiness-2026]] — Rendezett, képességközpontú tanári felkészültségi modell teljesítményalapú képességmutatókkal
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Öt országot átfogó felmérés 1 405 K-12 tanárral: a felkészültség pozitív hiedelmeket jelez, de nem az aggodalmat
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Négy TALIS 2024-es tanári hiedelemprofil összekapcsolja a szakmai tanulást és a profilspecifikus MI-használati akadályokat
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — MI-mikrotanulási modulok tervezése egyetemi tanároknak a szakképzési tanárképzésben: tervezésalapú kutatás
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: hogyan vallanak kudarcot a tanárok által konfigurált chatbotok a valós használatban, és hogyan lehet javítani őket

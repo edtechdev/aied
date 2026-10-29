@@ -9,7 +9,6 @@ confidence: medium
 audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
-reviewed_by: [editor]
 translation_of: concepts/speech-and-voice-technologies
 source_updated: "2026-09-28T21:37:06-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

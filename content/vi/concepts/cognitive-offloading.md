@@ -191,45 +191,45 @@ Cùng logic đó biến việc định hình phần thưởng thành một công
 - [[cognitive-surrender]]
 
 ## Bài viết liên quan
-- [[ai-proof-learning-cognitive-offloading-2026]] - Hỗ trợ hay thay thế lập luận của sinh viên? Việc giảm tải nhận thức trong học tập chứng minh có AI hỗ trợ (Chen và cộng sự 2026)
-- [[llm-math-homework-offloading-traces-2026]] - Điều mà bài nộp không cho thấy: làm phức tạp hóa việc giảm tải nhận thức trong công việc toán học của sinh viên với LLM (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - Một đồng thuận của 30 chuyên gia trên 65 quá trình học tập: việc giảm tải ở cả hai đầu của trình tự học
-- [[rented-self-decoupling-performance-becoming-2026]] - Cái tôi đi thuê: việc giảm tải làm mất cái tôi miền học thuật của người học, không chỉ mất kỹ năng
-- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] - Những nhóm khởi đầu giống nhau đã phân kỳ: 74.1% việc tiếp nhận mô hình ở một hồ sơ so với 80.8% giảm tải và bế tắc ở một hồ sơ khác (Kilinc và cộng sự 2026)
-- [[liu-ai-assistance-reduces-persistence-2026]] - Sự hỗ trợ của AI làm giảm sự bền bỉ và hiệu năng không có trợ giúp qua ba thử nghiệm đối chứng ngẫu nhiên (Liu và cộng sự 2026)
-- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] - ChatGPT như một chiếc nạng nhận thức: một thử nghiệm đối chứng ngẫu nhiên về việc ghi nhớ kiến thức sau 45 ngày (Barcaui 2025)
-- [[yan-cognitive-outsourcing-genai-assessments-2026]] - Từ thuê ngoài nhận thức đến tái phân bổ: phân tích 3P về sự tham gia giữa sinh viên và GenAI trong các đánh giá không có giám sát (Yan và cộng sự 2026)
-- [[family-school-autonomy-support-genai-2026]] - Hỗ trợ tự chủ từ gia đình và nhà trường cho việc sử dụng AI sinh tạo có trách nhiệm của trẻ em
-- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] - Ma sát dư thừa so với ma sát có lợi: vì sao việc giảm tải bằng AI khác với các công cụ trước đây
-- [[thermomix-genai-education-analogy-2026]] - Với một chiếc Thermomix bạn mất khả năng nấu ăn: một phép loại suy cỗ máy nhà bếp cho AI sinh tạo trong giáo dục (Rummel, Nachtigall & Panadero 2026)
-- [[cognitive-washout-ai-skill-decay-2026]] - sự rửa trôi nhận thức: động lực hậu rút hỗ trợ của sự phân rã kỹ năng do AI gây ra
-- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] - Một tổng hợp tường thuật phản biện về sự tham gia và sự phụ thuộc vào AI hội thoại
-- [[layer-sensitive-cognitive-offloading-writing-2026]] - Việc giảm tải nhận thức nhạy cảm với các lớp trong viết có GenAI hỗ trợ (Chen 2026)
-- [[du-yuan-epistemic-dependence-2026]] - Sự phụ thuộc tri thức luận trong học tập qua trung gian AI: sáu tiêu chí chẩn đoán phân tách sự phụ thuộc năng suất khỏi sự phụ thuộc có hại (Du & Yuan 2026)
-- [[seung-basham-cognitive-offloading-swld-2026]] - Việc giảm tải nhận thức với GenAI ở sinh viên có khuyết tật học tập
-- [[lodge-loble-cognitive-offloading-2026]] - AI, việc giảm tải nhận thức và những hàm ý cho giáo dục
-- [[cognitive-offloading-metacognitive-review-2026]] - Những hiểu biết siêu nhận thức về việc giảm tải nhận thức (Guo & Ye 2026)
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] - Việc huấn luyện siêu nhận thức tạo điều kiện cho việc giảm tải nhận thức tối ưu (Ngai & Gilbert 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] - Nghịch lý tư duy phản biện trong học tập tích hợp GenAI
-- [[cognitive-offloading-speedup-illusion]] - Ảo tưởng tăng tốc của công việc có AI hỗ trợ
-- [[misiejuk-cognitive-offloading-prompting-2026]] - Phân tích mạng đồng xuất hiện của các mô thức prompt
-- [[shaw-nave-cognitive-surrender-2026]] - Lý thuyết Ba Hệ thống và sự đầu hàng nhận thức: AI định hình lại lập luận của con người như thế nào (Shaw & Nave 2026)
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Phổ đầu hàng-giảm tải-quyền chủ động đối với GenAI
-- [[ai-making-us-stupid]] - Nghiên cứu về các tác động nhận thức của AI và việc thay thế học tập
-- [[brcic-effortless-trap-productive-struggle-2026]] - Cái bẫy Dễ dàng: AI thay thế công việc nhận thức (Brcic & Frljic 2026)
-- [[genai-thoughtless-use-self-directed-learning-2026]] - Việc sử dụng AI thiếu suy nghĩ làm xói mòn việc học tự định hướng
-- [[generative-ai-guardrails-harm-learning]] - Các thử nghiệm đối chứng ngẫu nhiên về toán trung học với GenAI không có hàng rào an toàn
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Hình phạt học tập của AI sinh tạo: việc thuê ngoài bài tập về nhà gây hại cho việc học
-- [[coach-not-crutch-ai-writing]] - AI có thể làm ít hơn và học nhiều hơn (Lira và cộng sự 2025)
-- [[making-ai-tutoring-productive-mastery-math-2026]] - Làm cho việc gia sư bằng AI trở nên năng suất: luyện tập toán dựa trên thành thạo
-- [[cognitive-commons-ai-expertise-regeneration]] - Bi kịch của tài sản chung nhận thức: AI và việc tái sinh chuyên môn
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] - PAUSE: một công cụ tự phản tư bảo vệ quyền riêng tư cho việc giảm tải nhận thức gắn với AI
-- [[chatgpt-writing-cognitive-impact-2026]] - một thực nghiệm viết-để-học trong đó việc viết có ChatGPT hỗ trợ tạo ra ít tiến bộ kiến thức hơn một nhóm đối chứng không có trợ giúp
-- [[student-cognitive-offloading-ai-higher-ed-2026]] - Các mô thức giảm tải nhận thức của sinh viên sang AI trong giáo dục đại học: bằng chứng tự nhiên ở cấp độ tin nhắn ChatGPT (Piatnitckaia và cộng sự 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] - Thiết kế để chống phân rã kỹ năng: phản hồi siêu nhận thức làm giảm việc giảm tải nhận thức sang các trợ lý LLM
-- [[chatgpt-programming-performance-retention-ownership-2026]] - Nhận thức của sinh viên lập trình với ChatGPT: hiệu năng cao hơn, ghi nhớ thấp hơn, và quyền sở hữu bị giảm
-- [[davor-ai-supported-learning-higher-order-outcomes-2026]] - Xu hướng giảm tải và năng lực kiểm chứng dự báo các kết quả bậc cao qua tự điều chỉnh siêu nhận thức (Davor và cộng sự 2026)
-- [[ren-metacognitive-awareness-genai-reliance-2026]] - Một lời nhắc phản tư làm giảm việc chấp nhận lời khuyên sai của AI và cải thiện việc hiệu chỉnh nhận thức (Ren 2026)
-- [[shojaei-genai-dependence-critical-thinking-employability-2026]] - Sự phụ thuộc GenAI như một điều kiện biên đối với khuynh hướng tư duy phản biện và khả năng được tuyển dụng tự nhận thức (Shojaei và cộng sự 2026)
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Trẻ em cho thấy kết nối trán-đỉnh, mạng nổi bật và chú ý lưng yếu hơn người lớn khi nói chuyện với ChatGPT, ở mức điểm sáng tạo tương đương
-- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] - GenAI và tư duy sáng tạo của trẻ em: sự phụ thuộc quá mức và sự phụ thuộc vào prompt trong một tổng quan theo phạm vi (Niu và cộng sự 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — Hỗ trợ hay thay thế lập luận của sinh viên? Việc giảm tải nhận thức trong học tập chứng minh có AI hỗ trợ (Chen và cộng sự 2026)
+- [[llm-math-homework-offloading-traces-2026]] — Điều mà bài nộp không cho thấy: làm phức tạp hóa việc giảm tải nhận thức trong công việc toán học của sinh viên với LLM (Kontorovich & Wallach 2026)
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Một đồng thuận của 30 chuyên gia trên 65 quá trình học tập: việc giảm tải ở cả hai đầu của trình tự học
+- [[rented-self-decoupling-performance-becoming-2026]] — Cái tôi đi thuê: việc giảm tải làm mất cái tôi miền học thuật của người học, không chỉ mất kỹ năng
+- [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Những nhóm khởi đầu giống nhau đã phân kỳ: 74.1% việc tiếp nhận mô hình ở một hồ sơ so với 80.8% giảm tải và bế tắc ở một hồ sơ khác (Kilinc và cộng sự 2026)
+- [[liu-ai-assistance-reduces-persistence-2026]] — Sự hỗ trợ của AI làm giảm sự bền bỉ và hiệu năng không có trợ giúp qua ba thử nghiệm đối chứng ngẫu nhiên (Liu và cộng sự 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT như một chiếc nạng nhận thức: một thử nghiệm đối chứng ngẫu nhiên về việc ghi nhớ kiến thức sau 45 ngày (Barcaui 2025)
+- [[yan-cognitive-outsourcing-genai-assessments-2026]] — Từ thuê ngoài nhận thức đến tái phân bổ: phân tích 3P về sự tham gia giữa sinh viên và GenAI trong các đánh giá không có giám sát (Yan và cộng sự 2026)
+- [[family-school-autonomy-support-genai-2026]] — Hỗ trợ tự chủ từ gia đình và nhà trường cho việc sử dụng AI sinh tạo có trách nhiệm của trẻ em
+- [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Ma sát dư thừa so với ma sát có lợi: vì sao việc giảm tải bằng AI khác với các công cụ trước đây
+- [[thermomix-genai-education-analogy-2026]] — Với một chiếc Thermomix bạn mất khả năng nấu ăn: một phép loại suy cỗ máy nhà bếp cho AI sinh tạo trong giáo dục (Rummel, Nachtigall & Panadero 2026)
+- [[cognitive-washout-ai-skill-decay-2026]] — sự rửa trôi nhận thức: động lực hậu rút hỗ trợ của sự phân rã kỹ năng do AI gây ra
+- [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — Một tổng hợp tường thuật phản biện về sự tham gia và sự phụ thuộc vào AI hội thoại
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Việc giảm tải nhận thức nhạy cảm với các lớp trong viết có GenAI hỗ trợ (Chen 2026)
+- [[du-yuan-epistemic-dependence-2026]] — Sự phụ thuộc tri thức luận trong học tập qua trung gian AI: sáu tiêu chí chẩn đoán phân tách sự phụ thuộc năng suất khỏi sự phụ thuộc có hại (Du & Yuan 2026)
+- [[seung-basham-cognitive-offloading-swld-2026]] — Việc giảm tải nhận thức với GenAI ở sinh viên có khuyết tật học tập
+- [[lodge-loble-cognitive-offloading-2026]] — AI, việc giảm tải nhận thức và những hàm ý cho giáo dục
+- [[cognitive-offloading-metacognitive-review-2026]] — Những hiểu biết siêu nhận thức về việc giảm tải nhận thức (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Việc huấn luyện siêu nhận thức tạo điều kiện cho việc giảm tải nhận thức tối ưu (Ngai & Gilbert 2026)
+- [[critical-thinking-paradox-genai-learning-2026]] — Nghịch lý tư duy phản biện trong học tập tích hợp GenAI
+- [[cognitive-offloading-speedup-illusion]] — Ảo tưởng tăng tốc của công việc có AI hỗ trợ
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Phân tích mạng đồng xuất hiện của các mô thức prompt
+- [[shaw-nave-cognitive-surrender-2026]] — Lý thuyết Ba Hệ thống và sự đầu hàng nhận thức: AI định hình lại lập luận của con người như thế nào (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Phổ đầu hàng-giảm tải-quyền chủ động đối với GenAI
+- [[ai-making-us-stupid]] — Nghiên cứu về các tác động nhận thức của AI và việc thay thế học tập
+- [[brcic-effortless-trap-productive-struggle-2026]] — Cái bẫy Dễ dàng: AI thay thế công việc nhận thức (Brcic & Frljic 2026)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Việc sử dụng AI thiếu suy nghĩ làm xói mòn việc học tự định hướng
+- [[generative-ai-guardrails-harm-learning]] — Các thử nghiệm đối chứng ngẫu nhiên về toán trung học với GenAI không có hàng rào an toàn
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Hình phạt học tập của AI sinh tạo: việc thuê ngoài bài tập về nhà gây hại cho việc học
+- [[coach-not-crutch-ai-writing]] — AI có thể làm ít hơn và học nhiều hơn (Lira và cộng sự 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Làm cho việc gia sư bằng AI trở nên năng suất: luyện tập toán dựa trên thành thạo
+- [[cognitive-commons-ai-expertise-regeneration]] — Bi kịch của tài sản chung nhận thức: AI và việc tái sinh chuyên môn
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: một công cụ tự phản tư bảo vệ quyền riêng tư cho việc giảm tải nhận thức gắn với AI
+- [[chatgpt-writing-cognitive-impact-2026]] — một thực nghiệm viết-để-học trong đó việc viết có ChatGPT hỗ trợ tạo ra ít tiến bộ kiến thức hơn một nhóm đối chứng không có trợ giúp
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Các mô thức giảm tải nhận thức của sinh viên sang AI trong giáo dục đại học: bằng chứng tự nhiên ở cấp độ tin nhắn ChatGPT (Piatnitckaia và cộng sự 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Thiết kế để chống phân rã kỹ năng: phản hồi siêu nhận thức làm giảm việc giảm tải nhận thức sang các trợ lý LLM
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Nhận thức của sinh viên lập trình với ChatGPT: hiệu năng cao hơn, ghi nhớ thấp hơn, và quyền sở hữu bị giảm
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Xu hướng giảm tải và năng lực kiểm chứng dự báo các kết quả bậc cao qua tự điều chỉnh siêu nhận thức (Davor và cộng sự 2026)
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — Một lời nhắc phản tư làm giảm việc chấp nhận lời khuyên sai của AI và cải thiện việc hiệu chỉnh nhận thức (Ren 2026)
+- [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Sự phụ thuộc GenAI như một điều kiện biên đối với khuynh hướng tư duy phản biện và khả năng được tuyển dụng tự nhận thức (Shojaei và cộng sự 2026)
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Trẻ em cho thấy kết nối trán-đỉnh, mạng nổi bật và chú ý lưng yếu hơn người lớn khi nói chuyện với ChatGPT, ở mức điểm sáng tạo tương đương
+- [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI và tư duy sáng tạo của trẻ em: sự phụ thuộc quá mức và sự phụ thuộc vào prompt trong một tổng quan theo phạm vi (Niu và cộng sự 2026)

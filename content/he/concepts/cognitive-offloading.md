@@ -10,7 +10,6 @@ audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-reviewed_by: [editor]
 translation_of: concepts/cognitive-offloading
 source_updated: "2026-10-26T13:50:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
@@ -166,7 +165,7 @@ ai_assist:
 
 - [[ai-proof-learning-cognitive-offloading-2026]] — תמיכה או החלפה של הסקה של סטודנטים? פריקת עומס קוגניטיבי בלמידת הוכחות בסיוע AI (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — מה שההגשה אינה מראה: פריקת עומס קוגניטיבי מורכבת בעבודת מתמטיקה של סטודנטים עם מודלים לשוניים גדולים (Kontorovich & Wallach 2026)
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - קונצנזוס של 30 מומחים על פני 65 תהליכי למידה: פריקה בשני קצות רצף הלמידה
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — קונצנזוס של 30 מומחים על פני 65 תהליכי למידה: פריקה בשני קצות רצף הלמידה
 - [[rented-self-decoupling-performance-becoming-2026]] — העצם השכורה: פריקה שמייקרת את עצם-התחום של הלומד, לא רק את המיומנות
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — קבוצות שהתחילו באופן דומה התפצלו: 74.1% אימוץ מודל בפרופיל אחד לעומת 80.8% פריקה ותקר באחר (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — סיוע AI הפחית התמדה וביצועים ללא סיוע בשלושה RCTs (Liu et al. 2026)

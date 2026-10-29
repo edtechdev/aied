@@ -14,7 +14,6 @@ discipline: [math education, language learning]
 confidence: high
 methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
-reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

@@ -114,20 +114,20 @@ Elever ramas också in av den bredare medie- och offentliga diskursen om [[ai-ed
 - [[misconceptions]]
 
 ## Anslutna artiklar
-- [[genai-support-threaten-learning-k20-expert-consensus-2026]] - En expertkonsensus med 30 experter om ordningen: tillägna sig utan GenAI, konsolidera med det, tänk sedan själv
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — En expertkonsensus med 30 experter om ordningen: tillägna sig utan GenAI, konsolidera med det, tänk sedan själv
 
-- [[mccorkle-aligned-genai-course-policy-2025]] - Transparent motivering för varje tillåten och otillåten GenAI-användning, uppgift för uppgift (McCorkle 2025)
-- [[moral-panic-genai-classroom]] - Att uppmuntra lämplig användning av GenAI i stället för att fördöma den som störning
-- [[student-rationalization-ai-writing]] - De "fem platserna" där elever rationaliserar AI-användning i akademiskt skrivande
-- [[student-regulatory-awareness-genai]] - Att känna till reglerna är inte nog: regelmedvetenhet och faktisk användning
-- [[ai-anxiety-strategic-regulation-writing-2026]] - Från AI-oro till strategisk reglering
-- [[chatgpt-inoculation-training-verification-2026]] - Inokuleringsbudskap och verifieringsbeteende
-- [[ai-fallibility-warning-help-seeking]] - Varning om AI:s felbarhet ökar hjälpsökandet
-- [[shame-guilt-ai-regulation-computing-education]] - Skam och skuld som sociala reglerare av AI-användning
-- [[access-not-enough-ai-tutoring-2026]] - Mänskligt stöd förbättrar engagemanget i AI-handledning
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] - SDT-baserat engagemang med GenAI
-- [[ai-availability-student-motivation]] - Hur AI-tillgång formar elevers motivation
-- [[youtube-frames-chatgpt-education]] - Hur YouTube ramar in ChatGPT-användning i utbildning
-- [[ai-ethics-education-public-discourse]] - Offentlig diskurs om AI-etik i utbildningen
-- [[ithaka-sr-ai-skills-college-graduates-2026]] - Lärare ramar in AI som kritiskt/ansvarsfullt bruk; arbetsgivare ramar in det som produktivitet
-- [[ssaho-ai-academic-integrity-review-2025]] - Att bygga en kultur av akademisk integritet genom tydliga förväntningar
+- [[mccorkle-aligned-genai-course-policy-2025]] — Transparent motivering för varje tillåten och otillåten GenAI-användning, uppgift för uppgift (McCorkle 2025)
+- [[moral-panic-genai-classroom]] — Att uppmuntra lämplig användning av GenAI i stället för att fördöma den som störning
+- [[student-rationalization-ai-writing]] — De "fem platserna" där elever rationaliserar AI-användning i akademiskt skrivande
+- [[student-regulatory-awareness-genai]] — Att känna till reglerna är inte nog: regelmedvetenhet och faktisk användning
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Från AI-oro till strategisk reglering
+- [[chatgpt-inoculation-training-verification-2026]] — Inokuleringsbudskap och verifieringsbeteende
+- [[ai-fallibility-warning-help-seeking]] — Varning om AI:s felbarhet ökar hjälpsökandet
+- [[shame-guilt-ai-regulation-computing-education]] — Skam och skuld som sociala reglerare av AI-användning
+- [[access-not-enough-ai-tutoring-2026]] — Mänskligt stöd förbättrar engagemanget i AI-handledning
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT-baserat engagemang med GenAI
+- [[ai-availability-student-motivation]] — Hur AI-tillgång formar elevers motivation
+- [[youtube-frames-chatgpt-education]] — Hur YouTube ramar in ChatGPT-användning i utbildning
+- [[ai-ethics-education-public-discourse]] — Offentlig diskurs om AI-etik i utbildningen
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Lärare ramar in AI som kritiskt/ansvarsfullt bruk; arbetsgivare ramar in det som produktivitet
+- [[ssaho-ai-academic-integrity-review-2025]] — Att bygga en kultur av akademisk integritet genom tydliga förväntningar

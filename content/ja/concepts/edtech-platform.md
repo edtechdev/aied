@@ -1,5 +1,5 @@
 ---
-connected_resources: [lesson-md, liascript, onmicro-ai]
+connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: エドテック・プラットフォーム
 created: "2026-10-10T22:31:17-04:00"
 updated: "2026-10-10T22:31:17-04:00"

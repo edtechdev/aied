@@ -166,57 +166,57 @@ Het instrumentarium zelf is sindsdien gereviewd. [[assessing-teachers-ai-literac
 
 ## Verbonden artikelen
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] - Welke docenten planningstijd wonnen: minder vertrouwen in vakinhoud, minder pedagogische kennis, korter in het beroep of veel vertrouwen in technologie
-- [[ai-misconceptions-indonesian-k12-teachers-2026]] - Docenten accepteren AI terwijl zij het werken ervan verkeerd begrijpen (Aji et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] - Docentgereedheid en technologisch-pedagogische integratie als de meest gerapporteerde uitdaging over 54 studies naar wiskundeonderwijs (Manto et al. 2026)
-- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] - Multimodale beoordelingsgeletterdheid: een jaarprogramma waarin kennis en competentie bewogen en waarden niet
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Welke docenten planningstijd wonnen: minder vertrouwen in vakinhoud, minder pedagogische kennis, korter in het beroep of veel vertrouwen in technologie
+- [[ai-misconceptions-indonesian-k12-teachers-2026]] — Docenten accepteren AI terwijl zij het werken ervan verkeerd begrijpen (Aji et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Docentgereedheid en technologisch-pedagogische integratie als de meest gerapporteerde uitdaging over 54 studies naar wiskundeonderwijs (Manto et al. 2026)
+- [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodale beoordelingsgeletterdheid: een jaarprogramma waarin kennis en competentie bewogen en waarden niet
 - [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] - Intelligent-TPACK-professionalisering: een halve standaardafwijking winst, en negatieve winsten die als herkalibratie lezen - De impact van professionaliseringstrajecten op de AI-geletterdheid van K-12-docenten: een systematische review en meta-analyse
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK-professionalisering: een halve standaardafwijking winst, en negatieve winsten die als herkalibratie lezen - De impact van professionaliseringstrajecten op de AI-geletterdheid van K-12-docenten: een systematische review en meta-analyse
 
-- [[ailithub-ai-literacy-case-infrastructure-2026]] - Docenten tagden hun eigen AI-klasgevallen en bereikten praktische competenties gemakkelijk maar maatschappelijke en ethische zelden (Wang et al. 2026)
-- [[typology-generative-ai-tools-education-2026]] - Toolkeuze als uitoefening van de agency van de onderwijsgevende
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] - Systematische review van generatieve AI in lesgeven en leren in K-12 (Marzano 2026)
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] - Professionele kennis van docenten in K-12 AI-onderwijs: TAIK versus TPAIK en leren van studenten (Shen et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] - Interactiepatronen tussen docent en AI in lesontwerp over ervaring en AI-bekwaamheid (Choi et al. 2026)
-- [[preservice-teachers-responsible-genai-2026]] - Verantwoord GenAI-gebruik door aanstaande docenten: implicaties voor het curriculum (Kohnke et al. 2026)
-- [[melo-llm-classroom-observation-teach-2026]] - LLM-klasobservatie voor professionele ontwikkeling van docenten (Melo et al. 2026)
-- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] - Generatieve AI over representaties, decomposities en benaderingen: repetitie, gestructureerde feedback en de nauwkeurigheidswaarschuwingen
-- [[genai-pd-ai-pck-learning-gain-2026]] - Effectiviteit van een intensief GenAI-professionaliseringstraject
-- [[ai-tpack-teacher-multi-agent-workflow]] - AI-TPACK modelleren via multi-agentworkflows van docenten
-- [[teacher-ai-teaming-five-levels]] - Naar synergetische interacties tussen docent en AI
-- [[teacher-education-ai-literacy-sdt-2026]] - Lerarenopleiding voor AI-geletterdheid via zelfdeterminatietheorie
-- [[genai-literacy-training-teacher-education-dbr-2026]] - Ontwerpgericht onderzoek naar GenAI-geletterdheidstraining
-- [[rail-ed-genai-literacy-teacher-education]] - GenAI-geletterdheid in de lerarenopleiding heroverwegen
-- [[sec-ai-literacy-narrative-review-2026]] - Sociaal-emotionele competenties integreren met AI-geletterdheid
-- [[teacher-ai-adoption-confidence]] - AI-adoptie onder docenten: vertrouwen en steun
-- [[ai-pedagogical-orientation]] - Oriëntaties van faculteiten vormen AI-adoptie
-- [[ai-literacy-assessment-misalignment]] - Misalignment tussen zelfgerapporteerde en prestatiegebaseerde AI-competentie
-- [[quest-ai-inquiry-preservice-teachers]] - AI-ondersteund onderzoek voor aanstaande docenten
-- [[sangwa-epiq-ai-faculty-readiness-2026]] - EPIQ-AI-gereedheidskader voor faculteiten
-- [[llm-cultural-relevance-k12]] - LLM's voor cultureel relevante K-12-pedagogie
-- [[institutional-change-framework-ai]] - Kader voor institutionele verandering bij AI
-- [[teachingcoach-chatbot-instructor-guidance]] - TeachingCoach-chatbot voor begeleiding van docenten
-- [[laidlaw-genai-identity-crisis-faculty-2026]] - GenAI als identiteitscrisis, niet als vaardigheidstekort
+- [[ailithub-ai-literacy-case-infrastructure-2026]] — Docenten tagden hun eigen AI-klasgevallen en bereikten praktische competenties gemakkelijk maar maatschappelijke en ethische zelden (Wang et al. 2026)
+- [[typology-generative-ai-tools-education-2026]] — Toolkeuze als uitoefening van de agency van de onderwijsgevende
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematische review van generatieve AI in lesgeven en leren in K-12 (Marzano 2026)
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Professionele kennis van docenten in K-12 AI-onderwijs: TAIK versus TPAIK en leren van studenten (Shen et al. 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — Interactiepatronen tussen docent en AI in lesontwerp over ervaring en AI-bekwaamheid (Choi et al. 2026)
+- [[preservice-teachers-responsible-genai-2026]] — Verantwoord GenAI-gebruik door aanstaande docenten: implicaties voor het curriculum (Kohnke et al. 2026)
+- [[melo-llm-classroom-observation-teach-2026]] — LLM-klasobservatie voor professionele ontwikkeling van docenten (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generatieve AI over representaties, decomposities en benaderingen: repetitie, gestructureerde feedback en de nauwkeurigheidswaarschuwingen
+- [[genai-pd-ai-pck-learning-gain-2026]] — Effectiviteit van een intensief GenAI-professionaliseringstraject
+- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK modelleren via multi-agentworkflows van docenten
+- [[teacher-ai-teaming-five-levels]] — Naar synergetische interacties tussen docent en AI
+- [[teacher-education-ai-literacy-sdt-2026]] — Lerarenopleiding voor AI-geletterdheid via zelfdeterminatietheorie
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Ontwerpgericht onderzoek naar GenAI-geletterdheidstraining
+- [[rail-ed-genai-literacy-teacher-education]] — GenAI-geletterdheid in de lerarenopleiding heroverwegen
+- [[sec-ai-literacy-narrative-review-2026]] — Sociaal-emotionele competenties integreren met AI-geletterdheid
+- [[teacher-ai-adoption-confidence]] — AI-adoptie onder docenten: vertrouwen en steun
+- [[ai-pedagogical-orientation]] — Oriëntaties van faculteiten vormen AI-adoptie
+- [[ai-literacy-assessment-misalignment]] — Misalignment tussen zelfgerapporteerde en prestatiegebaseerde AI-competentie
+- [[quest-ai-inquiry-preservice-teachers]] — AI-ondersteund onderzoek voor aanstaande docenten
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI-gereedheidskader voor faculteiten
+- [[llm-cultural-relevance-k12]] — LLM's voor cultureel relevante K-12-pedagogie
+- [[institutional-change-framework-ai]] — Kader voor institutionele verandering bij AI
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach-chatbot voor begeleiding van docenten
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI als identiteitscrisis, niet als vaardigheidstekort
 - [[raffaghelli-situated-ai-ethics-2026]]
-- [[guillen-curriculum-genai-teacher-competence-2026]] - Digitale competentie van docenten beoordelen voor GenAI-curriculumontwerp (Guillén-Gámez 2026)
-- [[stenalt-good-education-teacher-ai-conceptions-2026]] - fenomenografische studie naar de opvattingen van universitaire docenten over AI
-- [[ukraine-ai-literacy-secondary-framework-2026]] - Vijfledig kader voor AI-geletterdheid + professionalisering voor Oekraïense docenten in het voortgezet onderwijs (Marienko et al. 2026)
-- [[wang-teacher-ai-co-design-review-2026]] - Co-design van leertaken door docenten en AI: trends en perspectieven (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] - Architectuur van rollen in door AI ontworpen gedifferentieerde groepsactiviteiten (Talebzadeh 2026)
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Digitale competentie van docenten beoordelen voor GenAI-curriculumontwerp (Guillén-Gámez 2026)
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — fenomenografische studie naar de opvattingen van universitaire docenten over AI
+- [[ukraine-ai-literacy-secondary-framework-2026]] — Vijfledig kader voor AI-geletterdheid + professionalisering voor Oekraïense docenten in het voortgezet onderwijs (Marienko et al. 2026)
+- [[wang-teacher-ai-co-design-review-2026]] — Co-design van leertaken door docenten en AI: trends en perspectieven (Wang et al. 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — Architectuur van rollen in door AI ontworpen gedifferentieerde groepsactiviteiten (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[teacher-ai-literacy-prompt-feedback-quality-2026]] - Prompt engineering en modelkeuze als voorspellers van AI-feedbackkwaliteit (Jacobsen et al. 2026)
-- [[vassallo-ai-guilt-complex-faculty-2026]] - Het AI-schuldcomplex: anticipatoire schuld en vier morele reactieprofielen onder academisch personeel (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] - Een professionaliseringssessie van drie uur verhoogde waargenomen nut en gebruiksgemak maar niet de uitgesproken intentie tot adoptie (Mesenhöller & Böhme 2026)
-- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] - Systematische review van AI in de initiële opleiding van docenten basisonderwijs wiskunde: ethiek in slechts drie van de elf studies (Pinto et al. 2026)
-- [[watson-rainie-ai-challenge-faculty-survey-2026]] - AAC&U/Elon-enquête onder 1.057 Amerikaanse docenten: voorbereiding, niet-gebruik en de kloof tussen individueel en institutioneel beleid (Watson & Rainie 2026)
-- [[ai-integration-instructional-design-collaboratory-2026]] - Cross-institutionele faculteitssamenwerking: AI-integratie als onderwijsontwerp in de lerarenopleiding
-- [[assessing-teachers-ai-literacy-measurement-tools-2026]] - Systematische review van 33 instrumenten voor het meten van AI-geletterdheid van docenten: 31 zelfrapportage, twee objectieve kennistests, geen prestatietaken (Zainal, Mohd Matore & Maat 2026)
-- [[adaptive-ai-model-teacher-educators-2025]] - Een ontwerpgericht adaptief AI-geletterdheidsmodel en een reflectieve vragenlijst van 20 items, co-ontworpen met 22 lerarenopleiders (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] - Een workshopreeks voor effectief gebruik van AI in onzekere tijden: een leergemeenschap voor natuurkundefaculteiten opbouwen
-- [[authentic-assessments-generative-ai-pilot-2026]] - Authentieke beoordelingen ontwerpen met generatieve AI: een pilotstudie naar Assessment Authentifire in het hoger onderwijs
-- [[teachers-configure-educational-chatbots-2026]] - Zal het lesgeven zoals bedoeld? Hoe docenten educatieve AI-chatbots configureren
-- [[capability-decision-model-teacher-readiness-2026]] - Geordend, capaciteit-eerst model voor docentgereedheid met prestatiegebaseerde capaciteitsindicatoren
-- [[k12-teachers-genai-beliefs-five-countries-2026]] - Crossnationale enquête onder 1.405 K-12-docenten: gereedheid voorspelt positieve overtuigingen maar niet zorg
-- [[teachers-ai-belief-profiles-talis-2024-2026]] - Vier overtuigingsprofielen van docenten uit TALIS 2024 verbinden professioneel leren en profielspecifieke drempels voor AI-gebruik
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] - Microlearning-modules over AI ontwerpen voor universitaire docenten in de beroepslerarenopleiding: een ontwerpgericht onderzoek
-- [[eduwild-teacher-configured-chatbots-failures-2026]] - EduWild: hoe door docenten geconfigureerde chatbots falen in de praktijk en hoe je dat oplost
+- [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering en modelkeuze als voorspellers van AI-feedbackkwaliteit (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — Het AI-schuldcomplex: anticipatoire schuld en vier morele reactieprofielen onder academisch personeel (Vassallo 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Een professionaliseringssessie van drie uur verhoogde waargenomen nut en gebruiksgemak maar niet de uitgesproken intentie tot adoptie (Mesenhöller & Böhme 2026)
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematische review van AI in de initiële opleiding van docenten basisonderwijs wiskunde: ethiek in slechts drie van de elf studies (Pinto et al. 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-enquête onder 1.057 Amerikaanse docenten: voorbereiding, niet-gebruik en de kloof tussen individueel en institutioneel beleid (Watson & Rainie 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutionele faculteitssamenwerking: AI-integratie als onderwijsontwerp in de lerarenopleiding
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematische review van 33 instrumenten voor het meten van AI-geletterdheid van docenten: 31 zelfrapportage, twee objectieve kennistests, geen prestatietaken (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — Een ontwerpgericht adaptief AI-geletterdheidsmodel en een reflectieve vragenlijst van 20 items, co-ontworpen met 22 lerarenopleiders (Eyal 2025)
+- [[physics-faculty-learning-community-ai-2026]] — Een workshopreeks voor effectief gebruik van AI in onzekere tijden: een leergemeenschap voor natuurkundefaculteiten opbouwen
+- [[authentic-assessments-generative-ai-pilot-2026]] — Authentieke beoordelingen ontwerpen met generatieve AI: een pilotstudie naar Assessment Authentifire in het hoger onderwijs
+- [[teachers-configure-educational-chatbots-2026]] — Zal het lesgeven zoals bedoeld? Hoe docenten educatieve AI-chatbots configureren
+- [[capability-decision-model-teacher-readiness-2026]] — Geordend, capaciteit-eerst model voor docentgereedheid met prestatiegebaseerde capaciteitsindicatoren
+- [[k12-teachers-genai-beliefs-five-countries-2026]] — Crossnationale enquête onder 1.405 K-12-docenten: gereedheid voorspelt positieve overtuigingen maar niet zorg
+- [[teachers-ai-belief-profiles-talis-2024-2026]] — Vier overtuigingsprofielen van docenten uit TALIS 2024 verbinden professioneel leren en profielspecifieke drempels voor AI-gebruik
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Microlearning-modules over AI ontwerpen voor universitaire docenten in de beroepslerarenopleiding: een ontwerpgericht onderzoek
+- [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: hoe door docenten geconfigureerde chatbots falen in de praktijk en hoe je dat oplost

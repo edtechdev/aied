@@ -206,29 +206,29 @@ ai_assist:
 
 ## সংযুক্ত নিবন্ধ
 
-- [[pramod-agentic-ai-motivational-pathways-2026]] - এজেন্টিক AI থেকে সম্পৃক্ততার পথ হিসেবে স্বায়ত্তশাসন, দক্ষতা, সম্পর্ক ও সামাজিক উপস্থিতি (Pramod & Patil 2026)
-- [[ai-agents-joyful-assessment-third-space-2026]] - AI এজেন্ট, আনন্দময় মূল্যায়ন এবং তৃতীয় স্থান
-- [[ilieva-agentic-genai-higher-education-2026]] - AGAI-HE কাঠামো: উচ্চ শিক্ষায় সীমিত, মানব-তদারকিকৃত এজেন্টিক GAI (Ilieva et al. 2026)
-- [[beyond-agent-label-agentic-ai-governance-2026]] - AOE প্রমাণ/তদারকি কাঠামো উপস্থাপনকারী সমালোচনামূলক সমন্বিত পর্যালোচনা
-- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] - উচ্চ শিক্ষায় অন্তর্ভুক্তিমূলক এজেন্টিক বহু-এজেন্ট AI ইকোসিস্টেম নিয়ে দৃষ্টিভঙ্গি
-- [[baradziej-agentic-ai-higher-education-2026]] - উচ্চ শিক্ষায় এজেন্টিক AI-এর ভূমিকা নিয়ে পদ্ধতিগত পর্যালোচনা (48 গবেষণা; ছয় ভূমিকা; ত্রিপক্ষীয় দায়িত্বশীল-সংযোগ কাঠামো)
-- [[kostopoulos-agentic-ai-education-2025]] - শিক্ষায় এজেন্টিক AI: বর্তমান অবস্থা ও ভবিষ্যৎ দিক (IEEE Access সমীক্ষা; কার্যকরী সংজ্ঞা + শ্রেণিবিন্যাস)
-- [[agentic-ai-education-scoping-review]] - শিক্ষায় এজেন্টিক AI-এর স্কোপিং রিভিউ (474 গবেষণা)
-- [[agentic-ai-pedagogical-best-practice-2026]] - স্বয়ংক্রিয়করণ ও শিখনের মধ্যকার টানাপোড়েন
-- [[tool-invariant-framework-agentic-ai]] - এজেন্টিক AI-এর যুগে গণনীয় পদ্ধতির শিক্ষাদান ও মূল্যায়ন
-- [[jeon-isd-agent-bench-2026]] - ISD-Agent-Bench: শিক্ষাদান-নকশা এজেন্টের বেঞ্চমার্কিং
-- [[adversarial-stress-testing-role-playing-agents]] - ভূমিকা-অভিনয় এজেন্টদের প্রতিকূল স্ট্রেস টেস্টিং
-- [[ai-agents-constructive-conflict-design-education-2026]] - নকশা শিক্ষায় গঠনমূলক সংঘাত AI এজেন্ট
-- [[ai-tpack-teacher-multi-agent-workflow]] - শিক্ষকের TPACK ও বহু-এজেন্ট কর্মপ্রবাহ
-- [[code-gen]] - কোড উৎপাদন এজেন্ট
-- [[educlaw-bench-pedagogical-llm-agents-2026]] - পেডাগজিক্যাল LLM এজেন্ট বেঞ্চমার্ক
-- [[guided-llm-scaffolding-independent-learning]] - স্বাধীন শিখনের জন্য নির্দেশিত LLM স্ক্যাফোল্ডিং
-- [[learnmate2-llm-adaptive-learning]] - LearnMate-2 অভিযোজনশীল শিখন এজেন্ট
-- [[cyberagents-gamified-cybersecurity-learning-2026]] - গেম-ভিত্তিক সাইবার নিরাপত্তা শিখন এজেন্ট
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] - ক্লিনিক্যাল সিমুলেশনে এজেন্টিক AI
-- [[bozkurt-ghost-students-agentic-ai-2026]] - ভূত শিক্ষার্থী ও এজেন্টিক-AI যাচাইয়ের ফাঁক (Bozkurt et al. 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] - LMS কাজ সম্পন্নকারী AI এজেন্ট; মানব-উৎপাদন অনুমানের মাধ্যমে বৈধতার ব্যর্থতা (Hadjisolomou & El-Haddad 2026)
-- [[ai-web-agents-lesson-design-2025]] - AI ওয়েব এজেন্ট: শিখন-অভিজ্ঞতার মূল্যায়নকারী হিসেবে বর্ণনাকারী এজেন্ট (ঝরে পড়া পূর্বাভাস দেয়, শিক্ষার্থীরা যুক্ত হওয়ার আগেই নকশা-ফিডব্যাক দেয়)
-- [[spec-driven-development-ai-agents-sdpbl-2026]] - সফটওয়্যার PBL-এ AI এজেন্টসহ SDD; স্বয়ংক্রিয়করণ বনাম বোঝাপড়া
-- [[ai-standardized-patient-scaffolding-medical-2026]] - ক্লিনিক্যাল সাক্ষাৎকার প্রশিক্ষণের জন্য স্ক্যাফোল্ডিং-মুখী বহু-এজেন্ট বড় ভাষা মডেল সিস্টেমের মূল্যায়ন
-- [[ethics-training-agents-group-ethics-discussion-2026]] - Ethics Training Agents: নৈতিক প্রতিফলন ও অন্বেষণের জন্য ভূমিকা-অভিনয় ও আলোচনাসহ দলগত নৈতিকতা শিক্ষা সহজতর করা
+- [[pramod-agentic-ai-motivational-pathways-2026]] — এজেন্টিক AI থেকে সম্পৃক্ততার পথ হিসেবে স্বায়ত্তশাসন, দক্ষতা, সম্পর্ক ও সামাজিক উপস্থিতি (Pramod & Patil 2026)
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI এজেন্ট, আনন্দময় মূল্যায়ন এবং তৃতীয় স্থান
+- [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE কাঠামো: উচ্চ শিক্ষায় সীমিত, মানব-তদারকিকৃত এজেন্টিক GAI (Ilieva et al. 2026)
+- [[beyond-agent-label-agentic-ai-governance-2026]] — AOE প্রমাণ/তদারকি কাঠামো উপস্থাপনকারী সমালোচনামূলক সমন্বিত পর্যালোচনা
+- [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — উচ্চ শিক্ষায় অন্তর্ভুক্তিমূলক এজেন্টিক বহু-এজেন্ট AI ইকোসিস্টেম নিয়ে দৃষ্টিভঙ্গি
+- [[baradziej-agentic-ai-higher-education-2026]] — উচ্চ শিক্ষায় এজেন্টিক AI-এর ভূমিকা নিয়ে পদ্ধতিগত পর্যালোচনা (48 গবেষণা; ছয় ভূমিকা; ত্রিপক্ষীয় দায়িত্বশীল-সংযোগ কাঠামো)
+- [[kostopoulos-agentic-ai-education-2025]] — শিক্ষায় এজেন্টিক AI: বর্তমান অবস্থা ও ভবিষ্যৎ দিক (IEEE Access সমীক্ষা; কার্যকরী সংজ্ঞা + শ্রেণিবিন্যাস)
+- [[agentic-ai-education-scoping-review]] — শিক্ষায় এজেন্টিক AI-এর স্কোপিং রিভিউ (474 গবেষণা)
+- [[agentic-ai-pedagogical-best-practice-2026]] — স্বয়ংক্রিয়করণ ও শিখনের মধ্যকার টানাপোড়েন
+- [[tool-invariant-framework-agentic-ai]] — এজেন্টিক AI-এর যুগে গণনীয় পদ্ধতির শিক্ষাদান ও মূল্যায়ন
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: শিক্ষাদান-নকশা এজেন্টের বেঞ্চমার্কিং
+- [[adversarial-stress-testing-role-playing-agents]] — ভূমিকা-অভিনয় এজেন্টদের প্রতিকূল স্ট্রেস টেস্টিং
+- [[ai-agents-constructive-conflict-design-education-2026]] — নকশা শিক্ষায় গঠনমূলক সংঘাত AI এজেন্ট
+- [[ai-tpack-teacher-multi-agent-workflow]] — শিক্ষকের TPACK ও বহু-এজেন্ট কর্মপ্রবাহ
+- [[code-gen]] — কোড উৎপাদন এজেন্ট
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — পেডাগজিক্যাল LLM এজেন্ট বেঞ্চমার্ক
+- [[guided-llm-scaffolding-independent-learning]] — স্বাধীন শিখনের জন্য নির্দেশিত LLM স্ক্যাফোল্ডিং
+- [[learnmate2-llm-adaptive-learning]] — LearnMate-2 অভিযোজনশীল শিখন এজেন্ট
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — গেম-ভিত্তিক সাইবার নিরাপত্তা শিখন এজেন্ট
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — ক্লিনিক্যাল সিমুলেশনে এজেন্টিক AI
+- [[bozkurt-ghost-students-agentic-ai-2026]] — ভূত শিক্ষার্থী ও এজেন্টিক-AI যাচাইয়ের ফাঁক (Bozkurt et al. 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — LMS কাজ সম্পন্নকারী AI এজেন্ট; মানব-উৎপাদন অনুমানের মাধ্যমে বৈধতার ব্যর্থতা (Hadjisolomou & El-Haddad 2026)
+- [[ai-web-agents-lesson-design-2025]] — AI ওয়েব এজেন্ট: শিখন-অভিজ্ঞতার মূল্যায়নকারী হিসেবে বর্ণনাকারী এজেন্ট (ঝরে পড়া পূর্বাভাস দেয়, শিক্ষার্থীরা যুক্ত হওয়ার আগেই নকশা-ফিডব্যাক দেয়)
+- [[spec-driven-development-ai-agents-sdpbl-2026]] — সফটওয়্যার PBL-এ AI এজেন্টসহ SDD; স্বয়ংক্রিয়করণ বনাম বোঝাপড়া
+- [[ai-standardized-patient-scaffolding-medical-2026]] — ক্লিনিক্যাল সাক্ষাৎকার প্রশিক্ষণের জন্য স্ক্যাফোল্ডিং-মুখী বহু-এজেন্ট বড় ভাষা মডেল সিস্টেমের মূল্যায়ন
+- [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: নৈতিক প্রতিফলন ও অন্বেষণের জন্য ভূমিকা-অভিনয় ও আলোচনাসহ দলগত নৈতিকতা শিক্ষা সহজতর করা

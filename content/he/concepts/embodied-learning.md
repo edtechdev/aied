@@ -6,7 +6,6 @@ foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/embodied-learning
 source_updated: "2026-09-30T09:59:35-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."

@@ -8,7 +8,6 @@ pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learn
 technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/transfer-of-learning
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]

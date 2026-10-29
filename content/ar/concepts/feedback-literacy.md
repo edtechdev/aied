@@ -8,7 +8,6 @@ pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessment, peer-assessment]
 discipline: [writing education]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/feedback-literacy
 source_updated: "2026-10-08T09:45:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."

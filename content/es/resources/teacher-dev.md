@@ -18,7 +18,6 @@ level: [k 12]
 discipline: [math education, science education, chemistry education, physics education, stem education, english education]
 confidence: high
 connected_resources: [fpds-apps-and-resources]
-reviewed_by: [editor]
 created: "2026-10-26T21:38:51-04:00"
 updated: "2026-10-26T21:38:51-04:00"
 translation_of: resources/teacher-dev
@@ -31,6 +30,8 @@ ai_assist:
     date: "2026-10-26"
     agent: hermes-agent
 ---
+
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 **teacher.dev** es una organización educativa sin ánimo de lucro acogida al 501(c)(3), antes BX Coding, que publica cada día una aplicación pequeña para el profesorado y muestra el proceso de construcción. A 24 de octubre de 2026 la racha era de 53 días y la galería listaba 34 aplicaciones gratuitas construidas con docentes de aula, la mayoría hechas en un solo día y muchas de ellas de funcionamiento local, sin cuenta y sin que ningún dato del estudiantado salga del dispositivo.
 

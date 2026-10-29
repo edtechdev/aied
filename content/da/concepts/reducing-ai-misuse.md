@@ -121,31 +121,31 @@ Undervisende løftestænger ser igen anderledes ud, når integritet behandles so
 
 ## Forbundne artikler
 
-- [[ivory-psychology-assessment-integrity-2026]] - Versionskontrollerede evidensspor og reproducerbare analysedokumenter som afskrækkelse mod misbrug (Ivory et al. 2026)
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] - At tilbageholde en anbefaling forebyggede i vid udstrækning overafhængighed uden at opbygge den dømmekraft, den beskytter
-- [[generative-ai-guardrails-harm-learning]] - GenAI uden guardrails kan skade læringen
-- [[genai-performance-vs-learning]] - At skelne præstationsgevinster fra læring
-- [[ai-assessment-scale-reform]] - AI Assessment Scale og reform af evaluering
-- [[critical-thinking-genai-scaffolding]] - At stilladsere kritisk tænkning med generativ AI
-- [[aaai2026-prompting-literacy-k12]] - At lære at bruge AI til læring (K-12 AI-kompetencemodul)
-- [[genai-declaration-frameworks-higher-education]] - At strukturere gennemsigtighed: rammer for GenAI-deklaration
-- [[absent-cognitive-baseline-2026]] - Den fraværende kognitive baseline
-- [[ai-literacy-power-knowledge]] - AI-kompetence: en øvelse i magt-viden
-- [[contextual-sycophancy-ai-literacy]] - Den skjulte omkostning ved kontekstuel sycophancy: en AI-kompetenceintervention
-- [[sycophantic-ai-social-interaction-2026]] - Sycophantisk AI gør menneskelig interaktion mere anstrengende og mindre tilfredsstillende over tid
-- [[ssaho-ai-academic-integrity-review-2025]] - Kulturopbygning og redesign af evaluering frem for detektionskontrol
-- [[young-people-learning-generative-ai-rapid-review-2026]] - Kognitiv overgivelse, produktiv friktion og metakognitiv ulighed
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] - At gentænke mundtlige eksamener som autentisk, AI-resistent evaluering
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] - Læringsstraffen ved generativ AI: lektieoutsourcing skader læringen
-- [[ai-overreliance-complex-adaptive-system-2026]] - Overafhængighed af AI modelleret som et komplekst adaptivt system
-- [[burneo-can-edtech-close-learning-gaps-2026]] - Fjernede guardrails skadede uden at forbedre eksamenskarakterer
-- [[munoz-misconduct-allegation-evidence-2026]] - Hvad sagsmapper om forseelse faktisk indeholder af evidens
-- [[wright-transcription-not-generation-2026]] - Overinkluderende AI-regler og de studerende, de rammer
-- [[sharma-judgment-visible-genai-assessment-2026]] - Integritet som evaluerende dømmekraft snarere end efterlevelse
-- [[mulisa-students-genai-integrity-perspectives-2026]] - Studerende om, hvorvidt GenAI er et snyderværktøj eller en læringspartner
-- [[harerimana-remote-proctoring-nursing-scoping-2026]] - Hvad fjernovervågning gør ved studerende og ved ligestilling
-- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] - Situationsbestemt kriminalitetsforebyggelse mod AI-faciliteret snyd: 183 til 27 sager og fem fagligt specifikke redesigns (Leaton Gray, Edsall & Parapadakis 2025)
-- [[ji-student-voices-academic-integrity-scoping-2026]] - Hvad 38 studier af studerendes stemmer anbefaler: samskabt klarhed og undervisende ræsonnement frem for detektion (Ji 2026)
-- [[li-genai-assessment-language-equity-2026]] - Hvor sprogstøtte slutter, og substitution begynder for EAL-skrivere (Li 2026)
-- [[humble-prompt-injection-ai-grading-red-team-2026]] - Prompt-injektion som misbrugsvektor mod AI-bedømmelse (Humble 2026)
-- [[coates-governing-academic-integrity-indicators-2025]] - Styring som den bindende begrænsning for integritet: en ramme med 130 indikatorer (Coates, Croucher & Calderon 2025)
+- [[ivory-psychology-assessment-integrity-2026]] — Versionskontrollerede evidensspor og reproducerbare analysedokumenter som afskrækkelse mod misbrug (Ivory et al. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — At tilbageholde en anbefaling forebyggede i vid udstrækning overafhængighed uden at opbygge den dømmekraft, den beskytter
+- [[generative-ai-guardrails-harm-learning]] — GenAI uden guardrails kan skade læringen
+- [[genai-performance-vs-learning]] — At skelne præstationsgevinster fra læring
+- [[ai-assessment-scale-reform]] — AI Assessment Scale og reform af evaluering
+- [[critical-thinking-genai-scaffolding]] — At stilladsere kritisk tænkning med generativ AI
+- [[aaai2026-prompting-literacy-k12]] — At lære at bruge AI til læring (K-12 AI-kompetencemodul)
+- [[genai-declaration-frameworks-higher-education]] — At strukturere gennemsigtighed: rammer for GenAI-deklaration
+- [[absent-cognitive-baseline-2026]] — Den fraværende kognitive baseline
+- [[ai-literacy-power-knowledge]] — AI-kompetence: en øvelse i magt-viden
+- [[contextual-sycophancy-ai-literacy]] — Den skjulte omkostning ved kontekstuel sycophancy: en AI-kompetenceintervention
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantisk AI gør menneskelig interaktion mere anstrengende og mindre tilfredsstillende over tid
+- [[ssaho-ai-academic-integrity-review-2025]] — Kulturopbygning og redesign af evaluering frem for detektionskontrol
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Kognitiv overgivelse, produktiv friktion og metakognitiv ulighed
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — At gentænke mundtlige eksamener som autentisk, AI-resistent evaluering
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Læringsstraffen ved generativ AI: lektieoutsourcing skader læringen
+- [[ai-overreliance-complex-adaptive-system-2026]] — Overafhængighed af AI modelleret som et komplekst adaptivt system
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Fjernede guardrails skadede uden at forbedre eksamenskarakterer
+- [[munoz-misconduct-allegation-evidence-2026]] — Hvad sagsmapper om forseelse faktisk indeholder af evidens
+- [[wright-transcription-not-generation-2026]] — Overinkluderende AI-regler og de studerende, de rammer
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integritet som evaluerende dømmekraft snarere end efterlevelse
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Studerende om, hvorvidt GenAI er et snyderværktøj eller en læringspartner
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Hvad fjernovervågning gør ved studerende og ved ligestilling
+- [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — Situationsbestemt kriminalitetsforebyggelse mod AI-faciliteret snyd: 183 til 27 sager og fem fagligt specifikke redesigns (Leaton Gray, Edsall & Parapadakis 2025)
+- [[ji-student-voices-academic-integrity-scoping-2026]] — Hvad 38 studier af studerendes stemmer anbefaler: samskabt klarhed og undervisende ræsonnement frem for detektion (Ji 2026)
+- [[li-genai-assessment-language-equity-2026]] — Hvor sprogstøtte slutter, og substitution begynder for EAL-skrivere (Li 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-injektion som misbrugsvektor mod AI-bedømmelse (Humble 2026)
+- [[coates-governing-academic-integrity-indicators-2025]] — Styring som den bindende begrænsning for integritet: en ramme med 130 indikatorer (Coates, Croucher & Calderon 2025)

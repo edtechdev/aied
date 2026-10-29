@@ -9,7 +9,6 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fo
 connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
-reviewed_by: [editor]
 translation_of: concepts/formative-assessment
 source_updated: "2026-10-15T08:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."

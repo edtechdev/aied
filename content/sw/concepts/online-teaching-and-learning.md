@@ -9,7 +9,6 @@ level: [higher ed]
 confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
-reviewed_by: [editor]
 translation_of: concepts/online-teaching-and-learning
 source_updated: "2026-09-30T16:25:27-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
