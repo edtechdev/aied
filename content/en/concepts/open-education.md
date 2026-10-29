@@ -1,7 +1,7 @@
 ---
 title: "Open Education"
 created: "2026-10-28T18:40:00-04:00"
-updated: "2026-10-28T18:40:00-04:00"
+updated: "2026-10-28T21:15:00-04:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -67,7 +67,7 @@ Two further studies show how quickly the practice layer becomes a governance lay
 
 The equity argument for open content is the oldest one: a resource without a price cannot be priced out. It is also the one most easily asserted and least often tested. The AI-era versions are more careful. Atenas and colleagues frame OER as a lever for marginalized communities and for meaningful participation in data collection, while warning that over-reliance on generated resources risks devaluing human creativity and judgment. Tlili and colleagues name the mechanisms by which generation degrades that lever: translation error, training-data bias, and a hallucination loop in which generated content is recycled into the corpora that train the next model.
 
-Sustainability enters twice, as funding and as energy. The digital public goods argument is essentially a sustainability argument: a fragmented commons of grant-funded files does not outlive its grants, whereas publicly governed infrastructure might. The environmental case appears in the wider openness literature and in this knowledge base's [[sustainability|sustainability]] concept, where the reporting of model inference cost is treated as an obligation of open practice rather than an afterthought.
+Sustainability enters twice, as funding and as energy. The digital public goods argument is essentially a sustainability argument: a fragmented commons of grant-funded files does not outlive its grants, whereas publicly governed infrastructure might. The environmental case appears in the wider openness literature and in this knowledge base's [[sustainability]] concept, where the reporting of model inference cost is treated as an obligation of open practice rather than an afterthought.
 
 The [[global-south|Global South]] dimension is where the evidence thins most. The batch's non-Western cases are real but few: a Latin American cooperation residency, Chinese open-university teachers, and a framing of infrastructure as the precondition for participation. Claims that openness automatically redistributes capacity are not supported by these studies, and several of them say so.
 
