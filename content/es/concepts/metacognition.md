@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,11 +12,15 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -29,7 +33,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> La metacognición (pensar sobre el propio pensamiento) es a la vez un objetivo de la [[research-methods-aied|investigación]] en [[ai-education|educación con IA]] (¿pueden las herramientas de IA desarrollar las habilidades metacognitivas del estudiantado?) y un factor de riesgo (que la IA complete las tareas puede suprimir la práctica metacognitiva).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
+> La metacognición (pensar sobre el propio pensamiento) es a la vez un objetivo de la [[ai-education|educación con IA]] [[research-methods-aied|investigación]] (¿pueden las herramientas de IA desarrollar las habilidades metacognitivas del estudiantado?) y un factor de riesgo (que la IA complete las tareas puede suprimir la práctica metacognitiva).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 ## Preguntas para reflexionar
 
@@ -95,6 +99,9 @@ Cuando la IA se diseña para apoyar la reflexión en lugar de sustituirla, la me
 - **El Pensar en Voz Alta apoya la conciencia temprana, pero no la evaluación profunda.** [[karaki-think-aloud-ethical-genai-2026|Karaki y Baroudi (2026)]] llevaron a cabo un estudio de investigación-acción con métodos mixtos con 44 estudiantes de primer curso de emprendimiento que usaron el método Pensar en Voz Alta durante trabajos apoyados en IA. El Pensar en Voz Alta hizo más visibles la construcción de prompts, las prácticas de verificación y la toma de decisiones éticas del estudiantado, pero la evaluación crítica de las salidas de la IA «a menudo se mantuvo en un nivel superficial, particularmente entre el estudiantado que necesitaba apoyo adicional»: detectaban respuestas genéricas o desalineadas y aun así seguían apoyándose mucho en ellas. La conciencia metacognitiva autoinformada fue la más alta de los tres constructos encuestados (M = 3,79), pero la encuesta única posterior a la intervención no permite separar la percepción del cambio. La conclusión de los autores —el Pensar en Voz Alta no es una solución por sí sola y debe combinarse con instrucción explícita en alfabetización en IA, construcción de prompts y estrategias de verificación— extiende la línea de evidencia de proceso anterior desde *lo que los registros capturan* hasta *lo que la vocalización por sí sola cambia*.
 - **La formación metacognitiva previa condiciona el beneficio de un compañero de IA para la reflexión.** En un experimento 2 × 2 con 60 docentes en formación, [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] encontraron una interacción significativa entre metacognición y herramienta: un compañero socrático de IA superó a las herramientas digitales tradicionales en 0,56 puntos solo después de la formación, sin ventaja alguna sin ella (ΔM = −0,03).
 
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] somete el relato de la supresión a una prueba causal prerregistrada (N = 317) frente a hojas de trabajo. La desorganización aumentó 0,84 (intervalo creíble del 95%: 0,47 a 1,21) y fue el efecto más claro del modelo, mientras que el procesamiento profundo cayó a través de una cadena que va de la descarga cognitiva al pensamiento crítico y no de forma directa. El autor denomina a ese estado dormancia cognitiva, en el que la monitorización y la selección de estrategias se apagan mientras el procesamiento continúa, y sitúa su causa en las affordances del entorno y no en quien aprende.
+
 ## La distinción entre implicación y motivación
 
 Scheu et al. (2026) encontraron una división crítica:
@@ -135,7 +142,7 @@ La IA puede alterar el **umbral metacognitivo** para decidir que uno sabe lo suf
 
 La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacognitivo de quien aprende: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] sostienen que, cuando los agentes precargan, inician y se autocorrigen, la planificación, la monitorización y la evaluación del agente sustituyen las de quien aprende, eliminando la [[retrieval-spacing-interleaving|práctica de recuperación]] y la automonitorización de las que dependen las [[desirable-difficulties|dificultades deseables]] y el entrenamiento metacognitivo.
 
-- **La [[pedagogy|pedagogía]] basada en errores como entrenamiento metacognitivo:** [[pedagogy-ai-mistakes|Hosseini (2026)]] muestra que exponer deliberadamente al estudiantado a errores generados por IA en un curso de diseño de bases de datos activa la monitorización metacognitiva: el estudiantado inspeccionó las salidas, identificó errores y revisó diseños en lugar de aceptar la salida de la IA sin más. La [[ai-literacy|alfabetización en IA]] [[self-report-measures|autoinformada]] correlacionó débil y negativamente con la competencia objetiva (*r*=−0,39), una brecha de calibración que el ciclo de crítica y refinamiento está diseñado para reducir.
+- **La [[pedagogy|pedagogía]] basada en errores como entrenamiento metacognitivo:** [[pedagogy-ai-mistakes|Hosseini (2026)]] muestra que exponer deliberadamente al estudiantado a errores generados por IA en un curso de diseño de bases de datos activa la monitorización metacognitiva: el estudiantado inspeccionó las salidas, identificó errores y revisó diseños en lugar de aceptar la salida de la IA sin más. La [[self-report-measures|autoinformada]] [[ai-literacy|alfabetización en IA]] correlacionó débil y negativamente con la competencia objetiva (*r*=−0,39), una brecha de calibración que el ciclo de crítica y refinamiento está diseñado para reducir.
 - **El [[productive-failure|fallo productivo]] activa la monitorización metacognitiva.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] muestran que el aprendizaje basado en el fallo productivo activa la reflexión sobre los propios intentos; las tareas de [[lukesova-clue-before-correction-2026|pista antes de la corrección]] exigen a quien aprende diagnosticar y corregir sus propios errores, una actividad metacognitiva en la que la IA da pistas en lugar de respuestas.
 - **La autorregulación amortigua el daño de la externalización, pero no puede anularlo.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] muestra que la regulación metacognitiva (la escritura autorregulada) atenúa la asociación negativa entre la [[cognitive-offloading|descarga cognitiva]] profunda y los resultados independientes sin IA en la escritura asistida por IA generativa (interacción B = 0,22), pero no la elimina; una condición de apoyo acotado que combinaba límites de delegación con reflexión obligatoria sobre cómo se aceptaron o rechazaron las sugerencias de la IA produjo el mejor rendimiento independiente.
 - **La profundidad de la búsqueda de explicaciones predice la calidad de la tarea, no el recuerdo.** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] muestra que las indicaciones que buscan explicaciones (profundidad) en la interacción con LLM predicen la calidad de la tarea pero no el recuerdo inmediato, e interpreta la disociación mediante la elaboración (comprensión) frente a la práctica de recuperación (consolidación), y sugiere que la búsqueda de explicaciones correlaciona con la monitorización metacognitiva, aunque hay que añadir exigencias de recuperación para una retención duradera.
@@ -169,8 +176,6 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 - [[cognitive-surrender]]
 
 ## Artículos conectados
-- [[karaki-think-aloud-ethical-genai-2026]] — El Pensar en Voz Alta hizo visibles la construcción de prompts, la verificación y el razonamiento ético, pero la evaluación crítica se mantuvo superficial; no es una solución por sí sola
-- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — La formación metacognitiva y el andamiaje socrático basado en IA en la práctica reflexiva de docentes en formación: un diseño experimental de doble estudio
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — un taller de alfabetización en IA de dos horas cambió la regulación de la interacción con el LLM de estudiantes de secundaria, a diferencia de su metacognición autoinformada (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — La dependencia epistémica en el aprendizaje mediado por IA (Du y Yuan 2026)
@@ -208,3 +213,6 @@ La [[agentic-ai|IA agéntica]] proactiva puede desplazar el propio bucle metacog
 
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Los registros y el pensamiento en voz alta capturan procesos metacognitivos distintos en el aprendizaje asistido por IA generativa
 - [[ai-cognitive-partner-reflective-thought-2026]] — cuatro prácticas y once procesos de pensamiento reflexivo cuando el estudiantado trata la IA como socio cognitivo
+- [[karaki-think-aloud-ethical-genai-2026]] — El Pensar en Voz Alta hizo visibles la construcción de prompts, la verificación y el razonamiento ético, pero la evaluación crítica se mantuvo superficial; no es una solución por sí sola
+- [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — La formación metacognitiva y el andamiaje socrático basado en IA en la práctica reflexiva de docentes en formación: un diseño experimental de doble estudio
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormancia cognitiva: una explicación experimental de la implicación metacognitiva suspendida y la creciente desorganización (Braun 2026)

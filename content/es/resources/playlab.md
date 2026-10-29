@@ -3,7 +3,7 @@ title: "Playlab"
 created: "2026-09-22T12:00:00-04:00"
 updated: "2026-10-24T08:38:48-04:00"
 type: resource
-summary: "A nonprofit creator platform where educators build, share and evaluate their own AI apps — grounded in their curriculum, run on the model of their choice, with teacher visibility built in."
+summary: "Una plataforma de creación sin ánimo de lucro en la que el profesorado crea, comparte y evalúa sus propias aplicaciones de IA, fundamentadas en su currículo, ejecutadas con el modelo que elija y con visibilidad para el profesorado integrada."
 url: https://www.playlab.ai/
 author: "Playlab (501(c)(3) nonprofit)"
 author_url: https://www.playlab.ai/about

@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-28T13:12:16-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,10 +9,14 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-28T01:06:31-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -72,7 +76,7 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 - **La paridad de calidad puede ceder con las rondas.** Con una rúbrica compartida, la retroalimentación de los grupos de pares igualó a la de ChatGPT-4o en cinco dimensiones en la primera ronda, pero el modelo se adelantó en constructividad, exactitud y concreción en la segunda, un cambio que los autores atribuyen a la indicación alineada con la rúbrica y a la práctica, no a una propiedad fija del modelo ([[peer-group-vs-ai-feedback-2026|Li et al. (2026)]]).
 - **La ventaja puede venir de un ejemplo resuelto y no de la retroalimentación correctiva.** Practicar cartas de presentación con IA superó a la retroalimentación de editores humanos experimentados en una tarea posterior sin ayuda (d = 0,20), y solo ver una carta revisada por IA igualó a practicar con la herramienta, de modo que la ganancia siguió al ejemplo ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 
-- **La etiqueta de la fuente frente a la calidad de la retroalimentación:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separan la *fuente* de la retroalimentación de su calidad manteniendo constante el contenido: 401 docentes valoraron mensajes de retroalimentación generados todos con GPT-4-turbo pero etiquetados al azar como producidos por el docente o por [[generative-ai|ChatGPT]], y la etiqueta por sí sola desplazó la credibilidad (b = 0,21), la utilidad (b = 0,47) y la justicia (b = 0,48, todos p < 0,001), con un 73% que prefirió el mensaje etiquetado como del docente, t(400) = 15,55, d = 0,78. Los ítems dirigidos al proveedor fueron los que más se movieron, el esfuerzo percibido (b = 1,34) y la disposición a apoyarse en él (b = 1,45), y una explicación escrita de cómo funciona ChatGPT no cambió nada (ps de interacción ≥ 0,399), lo que apunta a la [[trust|confianza]], a la [[teacher-role|identidad profesional]] y al [[bias-mitigation|sesgo de endogrupo]] en el evaluador más que a una deficiencia de la retroalimentación misma. La calidad percibida puede quedar descontada por la procedencia incluso cuando el contenido es idéntico, lo que significa que una herramienta genuinamente buena puede atascarse en el punto de uso.
+- **La etiqueta de la fuente frente a la calidad de la retroalimentación:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separan la *fuente* de la retroalimentación de su calidad manteniendo constante el contenido: 401 docentes valoraron mensajes de retroalimentación generados todos con GPT-4-turbo pero etiquetados al azar como producidos por el docente o por [[generative-ai|ChatGPT]], y la etiqueta por sí sola desplazó la credibilidad (b = 0,21), la utilidad (b = 0,47) y la justicia (b = 0,48, todos p < 0,001), con un 73% que prefirió el mensaje etiquetado como del docente, t(400) = 15,55, d = 0,78. Los ítems dirigidos al proveedor fueron los que más se movieron, el esfuerzo percibido (b = 1,34) y la disposición a apoyarse en él (b = 1,45), y una explicación escrita de cómo funciona ChatGPT no cambió nada (ps de interacción ≥ 0,399), lo que apunta a la [[trust|confianza]], a la [[learner-identity|identidad profesional]] y al [[bias-mitigation|sesgo de endogrupo]] en el evaluador más que a una deficiencia de la retroalimentación misma. La calidad percibida puede quedar descontada por la procedencia incluso cuando el contenido es idéntico, lo que significa que una herramienta genuinamente buena puede atascarse en el punto de uso.
 - La credibilidad no se reduce a la calidad: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] encontraron que la competencia percibida de los estudiantes con ChatGPT y su sentido de la empatía casi humana del sistema predecían la credibilidad de su retroalimentación, mientras que la calidez percibida operaba solo a través de esa empatía.
 
 - **La etiqueta de la fuente frente a la calidad de la retroalimentación, del lado del estudiante:** [[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]] realizaron la contraparte del lado del estudiante, en la que 472 estudiantes de la EPFL de seis cursos valoraron la retroalimentación sobre sus propios trabajos sin saber su fuente y de nuevo tras revelarla, y la mayoría no pudo distinguir las dos variantes (287 de 472 acertaron). Las valoraciones se movieron entonces en direcciones opuestas, de forma significativa para la autenticidad (p < 0,01), con los proveedores humanos valorados como más creíbles (μ = 3,28, σ = 0,77) que la IA (μ = 2,25, σ = 0,85, d de Cohen = 0,57). La atribución errónea corrió sobre todo en una dirección: de 219 casos de retroalimentación humana mal valorada, 205 se leyeron como de IA, así que la calidad percibida y la identidad percibida se remodelan mutuamente en ambas direcciones en lugar de que la etiqueta se limite a descontar un texto idéntico.
@@ -102,6 +106,7 @@ La calidad de la retroalimentación de IA abarca varias dimensiones recogidas en
 - **Recuperabilidad de la evidencia:** ¿puede el sistema alcanzar realmente la evidencia que está juzgando? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari y Martí (2026)]] separan la evidencia presente en una entrega de la evidencia disponible tras el procesamiento: una ecuación, un gráfico o una unidad pueden estar incluidos en un informe y nunca recuperarse, de modo que la retroalimentación sobre ese criterio no se apoya en nada, lo que convierte la recuperación en una dimensión de calidad distinta de la exactitud o la calibración. Su respuesta es exigir que cada puntuación cite evidencia concreta del informe, para que una observación que no pueda rastrearse hasta el texto quede visible como no respaldada.
 - **Utilidad:** ¿guía la retroalimentación la mejora? ([[feedback|bucle de retroalimentación]], [[becerra-aicofe-feedback-2026]])
 - **Puntualidad:** ¿se entrega la retroalimentación cuando el estudiante puede actuar sobre ella? ([[formative-assessment]])
+- **Entrenabilidad:** la calidad está acotada por los datos etiquetados con los que se entrenó el sistema, y la anotación experta es donde va realmente ese presupuesto. [[xu-automated-feedback-tutor-training-2025|Xu, Lin, Wu, Aleven y Koedinger (2025)]] lo abordaron en la formación de tutores, donde el elogio al esfuerzo, al resultado y a la persona debe identificarse en respuestas abiertas. Ajustado con 520 ejemplos aumentados con GPT-4o y generados a partir de 13 anotaciones reales, un modelo pequeño ganó F2 +20,5% en el elogio al esfuerzo y +17,3% en el elogio al resultado. El mecanismo está más cerca de la destilación de un modelo docente que del aumento clásico, y la ganancia se transfirió a una categoría de elogio no vista (F2 +16,5%), que es la evidencia de que generaliza.
 - **Verificabilidad contra una medida objetiva:** cuando el objetivo es medible por máquina, la retroalimentación puede comprobarse contra una medición física en lugar de una rúbrica. [[ai-feedback-violin-intonation-2026|Aksoy (2026)]] extrajo 2.208 desviaciones de afinación a nivel de nota en cents y entregó esas tablas al modelo, de modo que sus afirmaciones tenían un referente medible.
 - **Sesgo:** ¿es la retroalimentación equitativa entre poblaciones de estudiantes? ([[bias-mitigation]], [[equity-in-ai-education]])
 

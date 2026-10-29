@@ -1,7 +1,7 @@
 ---
 title: Enseñanza y aprendizaje en línea
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,10 +11,14 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-10-25T18:35:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
@@ -59,7 +63,7 @@ La enseñanza y el aprendizaje en línea adoptan varias formas relacionadas que 
 - **Apoyo permanente e integrado en el contexto.** En contextos de educación a distancia y de [[adult-learning|aprendizaje adulto]], donde el estudiantado estudia en el trabajo o en casa, el apoyo 24/7 integrado en el curso es un beneficio importante. El [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|asistente AIDA de la Open University]] encontró que el apoyo de IA generativa diseñado a medida y dentro del entorno aumentaba la [[student-engagement|implicación]] (duplicó el tiempo de uso en un ensayo exploratorio), y el 96% del estudiantado lo quería en sus estudios formales.
 - **Tutoría conversacional y dialógica a escala.** Los tutores de [[conversational-ai|IA conversacional]] construidos sobre tecnología probada de [[intelligent-tutoring|tutoría inteligente]] ([[conversational-ai-tutors-framework|marco keep/change/center/study]]) prometen una tutoría dialógica de alta calidad —que implica los pensamientos, las preguntas y las [[misconceptions|ideas erróneas]] del estudiantado— mucho más escalable que la tutoría humana.
 - **Facilitación y analítica.** La IA puede apoyar las [[collaborative-learning|discusiones en línea]] y la [[learning-analytics|analítica del aprendizaje]], pronosticar la implicación y ayudar al profesorado a distribuir su atención. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao y Cukurova (2026)]] añaden que los resúmenes de discusiones generados por LLM pueden actuar como [[scaffolding|andamios]] de navegación en foros asíncronos grandes, ampliando la exposición del estudiantado a sus pares y las condiciones de red para el capital social puente sin cargar al estudiantado ni al profesorado con la tarea de resumir.
-- **Analítica de alerta temprana para estudiantes en riesgo.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] muestran que el [[reinforcement-learning|aprendizaje automático]] interpretable sobre registros de interacción con el contenido predice el progreso a nivel de módulo y señala resultados de abandono («sin entrega») en cursos de [[cs-education|programación]] en línea a gran escala hasta 7–8 días antes de los plazos del módulo, lo que da al profesorado en línea una ventana concreta para [[teacher-role|intervenir]] con el estudiantado desconectado en lugar de descubrir el fracaso solo después de que ocurra.
+- **Analítica de alerta temprana para estudiantes en riesgo.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries y Koprinska (2025)]] muestran que el [[machine-learning|aprendizaje automático]] interpretable sobre registros de interacción con el contenido predice el progreso a nivel de módulo y señala resultados de abandono («sin entrega») en cursos de [[cs-education|programación]] en línea a gran escala hasta 7–8 días antes de los plazos del módulo, lo que da al profesorado en línea una ventana concreta para [[teacher-role|intervenir]] con el estudiantado desconectado en lugar de descubrir el fracaso solo después de que ocurra.
 - **Asequibilidad y rapidez.** La IA puede generar materiales de curso por una fracción del costo tradicional: MAIC redujo la producción de un curso MOOC de ~\$25K/60 horas a menos de \$2/30 minutos.
 
 ## Desafíos de la enseñanza en línea en la era de la IA
@@ -77,7 +81,7 @@ El riesgo más grave es que el estudiantado en línea externalice precisamente e
 - Un ensayo controlado aleatorizado causal (~1.000 estudiantes de matemáticas de secundaria) encontró que la asistencia de IA sin salvaguardas elevó el rendimiento en la práctica un **+48%** pero redujo las calificaciones en exámenes sin asistencia y a libro cerrado un **−17%**: el estudiantado que nunca tuvo acceso a la IA superó a quien sí lo tuvo. Un tutor [[guardrails|con salvaguardas]] que da pistas y no respuestas eliminó el daño.
 - Datos de comportamiento a escala poblacional (3,2M de interacciones en ALEKS) encontraron que el tiempo de estudio en problemas susceptibles a la IA cayó un **−26,9%** tras el lanzamiento de ChatGPT, con una **caída de −25% en la probabilidad de responder correctamente ítems de retención supervisados**, un efecto que desaparecía bajo supervisión, lo que lo atribuye al uso de IA fuera de la plataforma.
 
-El aprendizaje en línea es especialmente vulnerable: el medio ya distancia al estudiantado de la responsabilidad inmediata, y el trabajo a ritmo propio y basado en pantallas invita al atajo de «pedir la respuesta» que la [[research-methods-aied|investigación]] sobre [[cognitive-offloading|descarga cognitiva]] identifica como el mecanismo central del daño. La respuesta no es prohibir la IA, sino aplicar [[guardrails|salvaguardas]] —andamiaje de pistas y no respuestas, anclaje en el conocimiento y [[human-in-the-loop-ai|supervisión humana]]— para que la IA aumente el trabajo cognitivo de quien aprende en lugar de sustituirlo.
+El aprendizaje en línea es especialmente vulnerable: el medio ya distancia al estudiantado de la responsabilidad inmediata, y el trabajo a ritmo propio y basado en pantallas invita al atajo de «pedir la respuesta» que la [[cognitive-offloading|descarga cognitiva]] señala como el mecanismo central del daño según la [[research-methods-aied|investigación]]. La respuesta no es prohibir la IA, sino aplicar [[guardrails|salvaguardas]] —andamiaje de pistas y no respuestas, anclaje en el conocimiento y [[human-in-the-loop-ai|supervisión humana]]— para que la IA aumente el trabajo cognitivo de quien aprende en lugar de sustituirlo.
 
 ### Otros desafíos
 

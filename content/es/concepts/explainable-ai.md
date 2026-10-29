@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-29T04:40:26-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]

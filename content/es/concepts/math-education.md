@@ -1,7 +1,7 @@
 ---
 title: Educación matemática
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-10-28T13:25:03-04:00"
+updated: "2026-10-29T04:55:37-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -138,14 +138,14 @@ La educación matemática se sitúa dentro del dominio más amplio de la [[stem-
 - [[teacher-education]]
 
 ## Artículos conectados
-- [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students' mathematical work with LLMs (Kontorovich & Wallach 2026)
-- [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students' reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
-- [[preservice-math-teachers-genai-communication-2026]] — Analysing Mathematical Communication between Pre-Service Mathematics Teachers and GenAI: A Case Study in Abstract Algebra Course
+- [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: la complejización de la descarga cognitiva en el trabajo matemático del estudiantado con LLM (Kontorovich y Wallach 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento del estudiantado? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
+- [[preservice-math-teachers-genai-communication-2026]] — El análisis de la comunicación matemática entre futuros docentes de matemáticas y la IA generativa: un estudio de caso en un curso de álgebra abstracta
 - [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — Los obstáculos simbólicos en el cálculo universitario son un cuello de botella de representación, con menos errores simbólicos codificados tras el andamiaje de IA (Nursit et al. 2026)
-- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — AI integration in mathematics education: implementation challenges and pedagogical implications (Manto et al. 2026)
-- [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — La integración de la IA en la educación matemática: retos de implementación e implicaciones pedagógicas (Manto et al. 2026)
+- [[ai-mathematics-education-prisma-review-2026]] — Revisión sistemática de la literatura sobre inteligencia artificial en la educación matemática según PRISMA (2021-2025)
+- [[automated-scoring-economics-math-items-nigeria-2026]] — Corrección automática de ítems matemáticos de un examen de secundaria en economía mediante un modelo de similitud contextual en Nigeria
+- [[mindful-llm-math-tutoring-2026]] — Más allá de la resolución de problemas: los grandes modelos de lenguaje como apoyo emocional y reflexivo en el aprendizaje de las matemáticas
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[chudziak-ai-math-tutoring-platform]] — Plataforma de tutoría matemática con IA (Chudziak y Kostka 2025)
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
@@ -158,13 +158,13 @@ La educación matemática se sitúa dentro del dominio más amplio de la [[stem-
 - [[teacher-control-ai-generation-math-visuals]]
 - [[genai-runaway-object-math-higher-ed]]
 - [[generative-ai-reduced-study-time-math]] — Plataforma de dominio ALEKS: los problemas basados en texto son los más susceptibles a la IA
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Orientación pedagógica de los LLM para el fracaso productivo
 - [[instructional-design-proficiency-masters-math-2026]] — Modelo de aula inteligente y bucle D-T-E que mejoran la competencia en diseño instruccional de estudiantes de maestría en educación matemática (Zhu et al. 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Andamiaje guiado por reglas frente a andamiaje ad hoc en un sistema de tutoría con LLM para matemáticas de primaria (Looi et al. 2026)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[razavi-powers-item-difficulty-llm-2026]] — La estimación de la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[genai-practice-platform-maths-feedback-2026]] — Plataforma opcional de práctica con IA generativa en una clase de matemáticas de 157 estudiantes: la retroalimentación inmediata se valora y la adopción se limita a 34 usuarios activos
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy
+- [[ai-generated-responses-achievement-self-efficacy-2026]] — La influencia de las respuestas generadas por IA en el rendimiento académico: una perspectiva ética y de autoeficacia
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Trabajo de orquestación en el aula en matemáticas de secundaria: leer paneles y corregir la retroalimentación de la IA
 - [[decision-making-agent-student-decision-acceptance-2026]] — Los estudiantes siguen prefiriendo la decisión de calificación del docente
 - [[genai-learning-motivation-meta-analysis-2026]] — Las ganancias motivacionales en matemáticas se apoyan en cuatro estudios (g = 0,711)

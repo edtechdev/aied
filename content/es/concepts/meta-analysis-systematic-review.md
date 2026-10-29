@@ -1,7 +1,7 @@
 ---
 title: Metaanálisis y revisión sistemática
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-10-29T04:40:26-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]

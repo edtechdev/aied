@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-28T19:00:37-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,10 +10,14 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-28T19:00:37-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -49,7 +53,7 @@ ai_assist:
 
 ### Retos de validez
 
-- **Validez de constructo:** cuando el estudiantado usa la IA en las evaluaciones, ¿la puntuación refleja el conocimiento del estudiante o la capacidad de la IA? La [[research-methods-aied|investigación]] sobre [[genai-performance-vs-learning|desempeño frente a aprendizaje]] aborda esto directamente. Una medida de reconstrucción puede ser sensible a la corrección sin ser una puntuación de corrección: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] encontraron mayor similitud de reconstrucción EEG en los ítems correctos (M = 71,43; DE = 4,61) que en los incorrectos (M = 62,30; DE = 5,91), aunque la reconstrucción de alta calidad de una persona aprendiente acompañaba a una respuesta incorrecta.
+- **Validez de constructo:** cuando el estudiantado usa la IA en las evaluaciones, ¿la puntuación refleja el conocimiento del estudiante o la capacidad de la IA? La [[genai-performance-vs-learning|investigación sobre el desempeño frente al aprendizaje]] en [[research-methods-aied|métodos de investigación en AIED]] aborda esto directamente. Una medida de reconstrucción puede ser sensible a la corrección sin ser una puntuación de corrección: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] encontraron mayor similitud de reconstrucción EEG en los ítems correctos (M = 71,43; DE = 4,61) que en los incorrectos (M = 62,30; DE = 5,91), aunque la reconstrucción de alta calidad de una persona aprendiente acompañaba a una respuesta incorrecta.
 - **Varianza irrelevante para el constructo entre LLM en la evaluación basada en la conversación:** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] muestra que, incluso para un único turno conversacional, el contenido semántico de las respuestas generadas por [[llm|LLM]] varía entre modelos y condiciones de contexto conversacional. La similitud dentro de un mismo modelo supera de forma consistente a la similitud entre modelos (0,715–0,795 frente a 0,443–0,604), y añadir el historial del chat cambia significativamente el contenido de la respuesta (similitud media entre historiales de ~0,40–0,45). Como una misma entrada de quien aprende puede recibir respuestas semánticamente distintas según el modelo subyacente, el prompt y el contexto por sí solos no pueden preservar la consistencia de la respuesta, lo que introduce una potencial **varianza irrelevante para el constructo** que amenaza la validez, la fiabilidad y la equidad. Mantener condiciones de evaluación consistentes a medida que evolucionan los LLM es por tanto un reto de *infraestructura* (reglas simbólicas, plantillas de respuesta, capas de validación), y no meramente de [[prompt-engineering|diseño de prompts]].
 - **Evidencia que está presente y nunca llega al corrector:** [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari y Martí (2026)]] nombran una amenaza de irrelevancia para el constructo que precede a cualquier razonamiento: en la revisión por IA de informes de laboratorio de [[physics-education|física]] experimental, una ecuación, un gráfico, una tabla o una unidad pueden estar correctamente incluidos en un informe y, sin embargo, no ser recuperados del contenido procesado con el que trabaja el modelo; y como un signo, un valor o una unidad modificados alteran la interpretación física, un desacuerdo con el profesorado no tiene por qué indicar un error de razonamiento. Su remedio es procedimental —PDF de alta resolución en lugar de fotografías escaneadas, ecuaciones escritas en un editor de ecuaciones, ejes y unidades legibles dentro de las figuras, e instrucciones que exijan una cita concreta para cada puntuación— porque la calidad del documento fija el techo de cualquier afirmación de validez que la puntuación resultante pueda sostener.
 - **Validez de la estructura latente entre humanos y LLM:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] añaden una condición de validez más profunda: incluso cuando un LLM puntúa bien, trasladar las interpretaciones humanas de las puntuaciones exige similitud en la *estructura latente* de las respuestas. Al comparar seis LLM [[multimodal|multimodales]] con cohortes humanas en instrumentos de [[chemistry-education|química]] y de razonamiento [[quantitative-research|cuantitativo]], encuentran que las estructuras factoriales LLM–humano divergen de forma consistente (congruencia LLM–humano por debajo de la línea de base humano–humano), de modo que el desempeño en un examen normado sobre humanos es una prueba débil sobre las capacidades de los LLM en los constructos que los ítems fueron diseñados para medir.
@@ -133,7 +137,7 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 - **La exposición es medible, y el remedio es evidencia suficiente y no seguridad máxima.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] puntuó 53.915 ítems de evaluación según su formato publicado, su supervisión y el peso de la nota, y encontró que la mayoría de las notas evaluadas reposan sobre trabajo cuya autoría no puede verificarse tras la entrega; sostiene que los programas necesitan evidencia suficiente de aprendizaje en las etapas clave, y no que cada unidad se vuelva segura.
 - **Un modelo puede preprobar los ítems y exponer defectos que la revisión del profesorado pasa por alto.** Una institución hizo que una plataforma empresarial de IA respondiera los ítems de examen antes de su aplicación y después comparó su razonamiento con el constructo previsto y la respuesta clave ([[aalhe-ai-co-designer-feedback-partner-2026|Ford, Helms y Moseley, 2026]]). El ejercicio sacó a la luz enunciados ambiguos, múltiples respuestas plausibles, pistas no intencionadas e ítems cuya respuesta clave no podía defenderse con claridad. Los autores tratan la respuesta como un acicate para reexaminar un ítem, y no como prueba de que sea defectuoso.
-- **Una medida válida puede seguir siendo insegura de optimizar.** El ajuste fino de un tutor con LLM contra una métrica de adaptatividad de tipo rúbrica elevó la métrica (de +0,05 a +0,42) mientras las valoraciones ciegas de expertos caían (de 4,46 a 3,03), porque una métrica que puntúa las decisiones de forma independiente se maximiza repitiendo la única mejor decisión ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026)]]).
+- **Una medida válida puede seguir siendo insegura de optimizar.** El ajuste fino de un tutor con LLM contra una métrica de adaptatividad de tipo rúbrica elevó la métrica (de +0,05 a +0,42) mientras las valoraciones ciegas de expertos caían (de 4,46 a 3,03), porque una métrica que puntúa las decisiones de forma independiente se maximiza repitiendo la única mejor decisión ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
 - **La geometría de un embedding no son las distinciones de una rúbrica.** Frente a 992 soluciones de física manuscritas bajo cinco representaciones textuales y nueve mecanismos de embedding, [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber y Kortemeyer (2026)]] informan de una mejor correlación de Spearman ponderada con las puntuaciones humanas de 0,198, con los grupos enriquecidos en puntuación en lugar de equivalentes en puntuación.
 
 ## Concepciones erróneas
@@ -144,7 +148,7 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 ## Conceptos conectados
 
-- [[pedagogical-patterns]] — Why process evidence is proposed when output no longer identifies the author
+- [[pedagogical-patterns]] — Por qué se propone evidencia de proceso cuando la salida ya no identifica a su autor
 - [[interpreting-and-applying-aied-research]]
 - [[authentic-assessment]]
 - [[automated-assessment]]
@@ -174,12 +178,12 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 - [[kumar-genai-computing-education-systematic-review-2026]] — Cuando la IA genera el artefacto calificado: el problema de validez de la educación en computación y la evidencia de rediseño
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Exámenes para llevar a casa: evaluar la fase cualitativa y trasladar el recuerdo al aula (Brunnström y Palmqvist 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Calificación asistida por IA con el humano en el circuito en una evaluación nacional de escritura a gran escala (Curi et al. 2026)
-- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
+- [[varia-construct-equivalent-assessment-variant-generation-2026]] — Generación de variantes de evaluación equivalentes al constructo (Lee 2026)
 - [[chirikov-ai-grade-inflation-2026]] — El desplazamiento de tareas por IA como mecanismo de inflación de notas (Chirikov 2026)
-- [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity (Hadjisolomou & El-Haddad 2026)
+- [[ai-agents-complete-lms-assessment-validity-2026]] — Agentes de IA que completan tareas del LMS: el supuesto de producción humana y la validez agéntica (Hadjisolomou y El-Haddad 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
+- [[assessment-latent-structure-human-llm-2026]] — ¿Miden los instrumentos de evaluación lo mismo en humanos y en LLM? (Strugatski et al. 2026)
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Un marco multimodal para la cognición corporeizada en las explicaciones orales
 - [[assessing-quality-ai-generated-exams-field-2025]] — Evaluar la calidad de los exámenes generados por IA: un estudio de campo a gran escala
 - [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]
@@ -187,7 +191,7 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[luo-dawson-value-judgments-grading-2026]] — Juicios de valor al calificar trabajo asistido por IA generativa: honestidad, confianza, validez y transparencia bidireccional (Luo y Dawson 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
-- [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
+- [[teichmann-detecting-undetectable-misconduct-2026]] — El procedimiento por conducta indebida como problema de validez
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — La validez de la evaluación con información imperfecta: un modelo de región de respuesta
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — ¿Qué inferencia está en riesgo? Separar cinco presiones de validez y comprobar qué debilita un rediseño (Weidlich 2026)
 - [[koretsky-genai-stem-assessment-2026]] — La evaluación STEM como problema de validez, diseño y definición de capacidades, no de fraude: evidencia de proceso, exámenes orales y la fidelidad de las tareas generadas por IA (Koretsky et al. 2026)
@@ -207,6 +211,6 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 
 - [[llm-grading-assistants-public-health-2026]] — Cinco días de calificación repetida de entregas idénticas dieron un alfa de Krippendorff de 0,625
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Índice de vulnerabilidad ante la IA: la mayoría de las calificaciones evaluadas se apoya en una autoría no verificable, así que la validez depende de pruebas suficientes en momentos clave y no de la máxima seguridad
-- [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[llm-tutor-pedagogical-metric-degradation-2026]] — Una métrica de adaptatividad pedagógica subió mientras caían las valoraciones ciegas de expertos: la validez de la medición no implica validez de la optimización (Domínguez Figaredo y Fernández De la Cruz 2026)
 - [[genai-english-proficiency-validity-2026]] — ¿Se ha movido otra vez el objetivo? La IA generativa y la validez de las puntuaciones de dominio del inglés
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — El constructo de resultado mueve la estimación: g = 1,958 para el producto conjunto humano–IA

@@ -125,7 +125,10 @@ def section_shape(section):
         lines = [l for l in block.split('\n') if l.strip()]
         is_bullet = lambda l: l.lstrip().startswith(('- ', '* ', '1. ', '+ '))
         bullets += sum(1 for l in lines if is_bullet(l))
-        if not all(is_bullet(l) for l in lines):
+        # A block is a prose block when its FIRST line is prose. Judging it by whether ANY line is
+        # prose made an English bullet that the author hard-wrapped across several lines look like
+        # two blocks, and failed the translation, which writes the same bullet on one long line.
+        if not is_bullet(lines[0]):
             prose += 1
         elif prose == 0:
             prose += 1

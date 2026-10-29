@@ -1,7 +1,7 @@
 ---
 title: Implicación del estudiantado
 created: "2026-09-25T04:03:10-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,10 +11,14 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-25T13:40:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-25"
@@ -49,7 +53,7 @@ La implicación es un constructo multidimensional arraigado en la psicología ed
 
 - **La implicación como resultado del diseño de IA:** la [[genai-motivation-engagement-2026|investigación sobre la motivación con IA generativa]] muestra que la implicación en el aprendizaje apoyado por [[generative-ai|IA generativa]] sigue a la satisfacción de las necesidades psicológicas básicas ([[self-determination-theory|autonomía, competencia y vinculación]]), de modo que la implicación es el resultado posterior al apoyo motivacional y no de la mera disponibilidad de la tecnología. La implicación suele medirse mediante [[self-report-measures|autoinforme]], mientras que la implicación conductual procede de registros de interacción, y ambas cosas no son intercambiables.
 
-- **Ganancia de implicación sin ganancia de aprendizaje, en un ensayo de aula aleatorizado por conglomerados:** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker y Becker-Genschow (2025)]] aleatorizaron 195 clases de noveno grado (grupo experimental de 102 estudiantes) a un chatbot de matemáticas específico del dominio o a materiales de diferenciación convencionales para una sola clase sobre el método de Herón para estimar raíces cuadradas. El interés situacional aumentó notablemente en la condición del chatbot (M = 2,63 frente a 2,43, p = 0,00005, d de Cohen = 0,63) y la aceptación en las cuatro dimensiones del [[technology-acceptance-model|Modelo de Aceptación Tecnológica]] fue alta, pero la comparación de rendimiento antes y después no encontró una interacción grupo por tiempo significativa (F(1194) = 2,84, p = 0,094) y la carga cognitiva extrínseca fue ligeramente mayor. El estudio es una de las pocas pruebas aleatorizadas por conglomerados de un chatbot personalizado en [[math-education|matemáticas]] de [[k-12|secundaria]], y su resultado dividido es lo importante: el interés y el [[learning-gains|rendimiento]] avanzaron a ritmos distintos, así que un hallazgo sobre la implicación no es evidencia de aprendizaje.
+- **Ganancia de implicación sin ganancia de aprendizaje, en un ensayo de aula aleatorizado por conglomerados:** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker y Becker-Genschow (2025)]] aleatorizaron 195 clases de noveno grado (grupo experimental de 102 estudiantes) a un chatbot de matemáticas específico del dominio o a materiales de diferenciación convencionales para una sola clase sobre el método de Herón para estimar raíces cuadradas. El interés situacional aumentó notablemente en la condición del chatbot (M = 2,63 frente a 2,43, p = 0,00005, d de Cohen = 0,63) y la aceptación en las cuatro dimensiones del [[technology-acceptance-model|Modelo de Aceptación Tecnológica]] fue alta, pero la comparación de rendimiento antes y después no encontró una interacción grupo por tiempo significativa (F(1194) = 2,84, p = 0,094) y la carga cognitiva extrínseca fue ligeramente mayor. El estudio es una de las pocas pruebas aleatorizadas por conglomerados de un chatbot personalizado en [[k-12|secundaria]] [[math-education|matemáticas]], y su resultado dividido es lo importante: el interés y el [[learning-gains|rendimiento]] avanzaron a ritmos distintos, así que un hallazgo sobre la implicación no es evidencia de aprendizaje.
 
 - **La calidad por encima de la cantidad:** [[critical-engagement-code-completion|La implicación crítica en el autocompletado de código con IA]], [[icap-cognitive-engagement-llm-agents|el análisis del discurso sobre implicación cognitiva]] y [[scaffolding-critical-engagement-genai-minority-students|el andamiaje de la implicación crítica]] muestran que la implicación *profunda* (cognitiva) con la IA predice el aprendizaje, mientras que la implicación *superficial* (conductual) predice la [[cognitive-offloading|dependencia excesiva]] y el desplazamiento del aprendizaje que dominan la literatura sobre riesgos de la base de conocimiento.
 - **La implicación agéntica y la alfabetización en retroalimentación se desarrollan juntas.** Tres oleadas separadas por seis semanas en 399 estudiantes de grado mostraron rutas intrapersonales en ambas direcciones (β = 0,222 y β = 0,263), de modo que la implicación no es solo un resultado del diseño, sino parte de lo que construye la capacidad de usar la retroalimentación ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
@@ -66,7 +70,7 @@ Ese [[scaffolding|andamiaje]] tiene una contraparte institucional con una doble 
 
 - **La [[ai-feedback-quality|retroalimentación con IA]] sostiene la activación conductual.** El experimento de laboratorio de campo de un semestre de [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] encontró que el estudiantado que recibió retroalimentación individual de GPT-4 sobre tareas abiertas mantuvo la participación más alta a lo largo de ocho tareas semanales (~50% en la última, frente a ~30% en los grupos de retroalimentación del profesorado o entre pares) y escribió ~29 caracteres más por respuesta: la retroalimentación individual con IA activó la implicación tanto en el margen extensivo (participación) como en el intensivo (esfuerzo por respuesta), aunque el estudiantado valoró ligeramente mejor la [[peer-assessment|retroalimentación entre pares]].
 
-- **Predecir el uso académico de la IA a partir de constructos de aprendizaje.** Un marco exploratorio de [[reinforcement-learning|aprendizaje automático]] analizó datos de encuesta de 166 estudiantes universitarios para identificar constructos relacionados con el aprendizaje asociados al uso académico previsto de ChatGPT, usando análisis SHAP para mantener la [[explainable-ai|interpretabilidad]]. Los hallazgos informan de cómo la implicación, el apoyo al aprendizaje y otros constructos dan forma a la incorporación de herramientas de IA al trabajo académico por parte del estudiantado.
+- **Predecir el uso académico de la IA a partir de constructos de aprendizaje.** Un marco exploratorio de [[machine-learning|aprendizaje automático]] analizó datos de encuesta de 166 estudiantes universitarios para identificar constructos relacionados con el aprendizaje asociados al uso académico previsto de ChatGPT, usando análisis SHAP para mantener la [[explainable-ai|interpretabilidad]]. Los hallazgos informan de cómo la implicación, el apoyo al aprendizaje y otros constructos dan forma a la incorporación de herramientas de IA al trabajo académico por parte del estudiantado.
 
 - **El acceso a una herramienta de IA puede *reducir* la implicación medida, y las tasas de finalización no lo mostrarán.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] aleatorizaron el acceso a un tutor en 13 bloques de una gran universidad pública estadounidense y encontraron que la participación registrada en la plataforma cayó 0,90 SD, las vistas de página entre 0,37 y 0,38 SD y los días activos entre 0,51 y 0,61 SD, mientras que la entrega de deberes y la entrega puntual no se vieron afectadas. La disociación es la lección de medición: un curso que solo monitorizara la finalización de tareas no habría visto nada, porque la reducción se situó en la actividad de debate, cuestionarios e interacción con el profesorado que la plataforma registraba. El estudiantado de las secciones tratadas también declaró hacer al profesorado menos preguntas de contenido (alrededor del 57% frente al 44%), de modo que el descenso coincidió con una sustitución del contacto humano y no con una desconexión del curso.
 
@@ -97,7 +101,6 @@ Un tema central en la investigación de la base de conocimiento es que la implic
 
 La distinción no es académica. [[pramod-agentic-ai-motivational-pathways-2026|Pramod y Patil (2026)]] sitúan la implicación en el centro de su modelo PLS-SEM, entre la motivación y la [[community-of-inquiry|presencia social]] por un lado y el rendimiento *percibido* por el otro: el coeficiente más grande de su modelo, y aun así una percepción y no una medida del aprendizaje.
 
-- **La desimplicación como movimiento a nivel de turno, no como estado estable:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] codificaron 5.522 enunciados del estudiantado dirigidos a un enseñante de IA en Math Nation en seis categorías de desimplicación conversacional (respuesta falsa, burla, fantasma, espejado, retención y aleatorio/ruidoso) y encontraron que la tasa de implicación dominaba con el 75,7% de los enunciados. Las asociaciones basadas en la prevalencia de la respuesta falsa y la burla con las puntuaciones del postest no sobrevivieron a una comprobación de sensibilidad con anotación humana. El análisis secuencial es el resultado relevante para la implicación: el grupo de mayor desempeño combinó una desimplicación moderada con transiciones fuertes de recuperación de la implicación (retención → implicación, p = 0,83), mientras que el más bajo mostró bucles de autorreferencia persistentes sin recuperación (bucle de autorreferencia de la implicación, p = 0,96). La retención fue el único tipo de desimplicación que tendió a persistir en lugar de resolverse: la persistencia frente a la reparación, y no la presencia frente a la ausencia, es la distinción que separa las trayectorias de implicación.
 
 ### La pedagogía media en el efecto de la IA sobre la implicación
 
@@ -115,6 +118,9 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 
 - **La alfabetización en IA actúa sobre la implicación a través de recursos psicológicos (2026):** un estudio de mediación moderada con 1.198 estudiantes de grado en Zhengzhou (China) ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeló la implicación como resultado de la [[ai-literacy|alfabetización en IA]] y no como un subproducto del uso de la herramienta. La alfabetización en IA predijo la implicación en el aprendizaje directamente y también indirectamente al construir capital psicológico, con la vía indirecta aportando aproximadamente la mitad del efecto total: mediación parcial, de modo que una competencia tecnológica se convierte en implicación solo en parte a través de los recursos psicológicos que genera. El compromiso profesional, una variable basada en la identidad, moderó el vínculo entre capital psicológico e implicación sin tener ningún efecto directo propio, y la traducción del capital psicológico en implicación fue marcadamente más fuerte en el estudiantado que se veía encaminado a la profesión. El patrón es el caso disponible más claro del punto anterior de que las características de quien aprende condicionan cómo la IA afecta a la implicación.
 - **La práctica previa a clase con IA puede elevar la participación en directo (2026):** un experimento de campo preregistrado con 759 estudiantes de MBA encontró que prepararse con un compañero de discusión basado en la voz con IA elevó las contribuciones voluntarias alrededor de un 31% en sesiones posteriores, pero solo tras un segundo uso; un primer uso precedió a una participación menor ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
+
+
+- **La desimplicación como movimiento a nivel de turno, no como estado estable:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] codificaron 5.522 enunciados del estudiantado dirigidos a un enseñante de IA en Math Nation en seis categorías de desimplicación conversacional (respuesta falsa, burla, fantasma, espejado, retención y aleatorio/ruidoso) y encontraron que la tasa de implicación dominaba con el 75,7% de los enunciados. Las asociaciones basadas en la prevalencia de la respuesta falsa y la burla con las puntuaciones del postest no sobrevivieron a una comprobación de sensibilidad con anotación humana. El análisis secuencial es el resultado relevante para la implicación: el grupo de mayor desempeño combinó una desimplicación moderada con transiciones fuertes de recuperación de la implicación (retención → implicación, p = 0,83), mientras que el más bajo mostró bucles de autorreferencia persistentes sin recuperación (bucle de autorreferencia de la implicación, p = 0,96). La retención fue el único tipo de desimplicación que tendió a persistir en lugar de resolverse: la persistencia frente a la reparación, y no la presencia frente a la ausencia, es la distinción que separa las trayectorias de implicación.
 
 ## Concepciones erróneas
 
@@ -170,9 +176,12 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - [[productive-failure]]
 
 ## Artículos conectados
-
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Alfabetización en retroalimentación e implicación agéntica: un panel de tres oleadas con intercepto aleatorio (Xu 2026)
 
+- [[rho-disengaged-conversational-behaviors-2026]] — Conductas conversacionales de desimplicación y aprendizaje en diálogos entre el estudiantado y la IA (Rho et al. 2026)
+
+- [[assigned-ai-preclass-student-engagement-2026]] — La práctica previa a clase con un compañero de IA basado en la voz elevó las contribuciones voluntarias en clase ~31%, pero solo tras un segundo uso (Wang et al. 2026)
+- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso de la IA fue de la mano del absentismo en clase mientras la autoeficacia no lo predijo, con la influencia de los pares como principal correlato (Franco et al. 2026)
 - [[gai-advocacy-practice-art-education-2026]] — Cuando las universidades defienden la IA generativa pero la práctica se queda corta: valoraciones del estudiantado e implicación en el proceso creativo en la educación artística
 
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — EEG confinado en la cabeza, seguimiento ocular y EDA predicen valoraciones de implicación de cinco niveles, mientras que las definiciones del propio estudiantado desplazan el mapeo (Anupkrishnan et al. 2026)
@@ -203,6 +212,3 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — La alfabetización en IA impulsa la implicación directamente y a través del capital psicológico, amplificado por el compromiso profesional (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: la tutoría con IA y la humana producen ganancias de aprendizaje equivalentes para el GRE
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — El acceso a un tutor de IA redujo la participación registrada en la plataforma en 0,90 SD mientras la entrega de deberes se mantenía (Liu et al. 2026)
-- [[assigned-ai-preclass-student-engagement-2026]] — La práctica previa a clase con un compañero de IA basado en la voz elevó las contribuciones voluntarias en clase ~31%, pero solo tras un segundo uso (Wang et al. 2026)
-- [[confident-but-absent-ai-use-absenteeism-2026]] — El uso de la IA fue de la mano del absentismo en clase mientras la autoeficacia no lo predijo, con la influencia de los pares como principal correlato (Franco et al. 2026)
-- [[rho-disengaged-conversational-behaviors-2026]] — Conductas conversacionales de desimplicación y aprendizaje en diálogos entre el estudiantado y la IA (Rho et al. 2026)

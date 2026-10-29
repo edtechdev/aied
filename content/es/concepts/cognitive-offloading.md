@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-28T13:06:12-04:00"
+updated: "2026-10-29T04:53:20-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,10 +12,14 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-28T09:45:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -58,7 +62,6 @@ La descarga cognitiva no es dañina en sí misma: los humanos siempre han usado 
 ### Cómo se manifiesta la descarga cognitiva en la investigación de AIED
 
 Los artículos de la base de conocimiento documentan la descarga cognitiva en múltiples dimensiones:
-
 - **Instrumentar la autorreflexión en lugar de medir un rasgo:** PAUSE (Patterns of AI Use: Self-Examination) convierte la literatura sobre externalización de 2023 a 2026 en una autoevaluación de cuatro dominios (razonamiento y pensamiento crítico, creatividad y originalidad, investigación y aprendizaje, capacidad social y comunicativa) con ítems conductuales puntuados de forma inversa, anclas de cita en cada ítem, ninguna puntuación compuesta y ninguna pretensión de validez ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]). Su posición de diseño es que la intervención útil sobre la externalización consiste en provocar reflexión y no en producir un diagnóstico, ya que ningún instrumento tiene aún la autoridad para justificar una decisión consecuente sobre una persona.
 
 - **Patrones de prompt como rastros de externalización:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al. (2026)]] usan el [[network-analysis|análisis de redes]] de coocurrencia para mostrar que los prompts reactivos (desacuerdo sin contexto de dominio) indican mayor externalización, mientras que el prompting rico en contexto con instrucción integrada refleja una cognición comprometida. El *cómo* del uso de la IA, y no solo si se usa, determina el grado de externalización.
@@ -118,6 +121,11 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en m�
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] registran la externalización como experiencia propia de los participantes y no como riesgo teórico: uno dijo que la IA generativa "me impidió leer y descubrir por mí mismo qué es importante en el texto, para desarrollar habilidades de lectura", y otro temía "el desarrollo a largo plazo, en el que me vuelvo peor en ciertas habilidades en las que ahora soy muy fuerte".
 - **El efecto está en la división del trabajo, no en la herramienta.** Nakamura (2026) sostiene que la heterogeneidad de los efectos de la IA generativa en el aprendizaje se disuelve cuando la unidad de análisis pasa a ser el reparto del trabajo cognitivo entre estudiante y máquina. La externalización aumenta el aprendizaje cuando descarga operaciones periféricas al objetivo actual, y arriesga la erosión cuando se salta el procesamiento constitutivo de ese objetivo ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Procesar sustantivamente la salida, o reconstruirla después, es lo que rescata una externalización que de otro modo sería constitutiva.
 - **Lo que una persona puede entregar depende de su experiencia con la tarea.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] hace que el orden de las tareas sea relativo a la persona: lo que es de orden superior para un novato es de orden inferior para quien ya domina el procedimiento, así que la externalización permitida debería crecer con la experiencia y detenerse en el núcleo del trabajo.
+
+### Cuando la descarga cognitiva disminuye en lugar de aumentar
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] informa de un experimento preregistrado (N = 317) en el que adultos aprendieron contenido nuevo a partir de hojas de trabajo convencionales o de un asistente de propósito general restringido a esas mismas hojas. La condición con IA redujo la descarga cognitiva medida en lugar de aumentarla (mediana de −0,27, intervalo creíble del 95% de −0,58 a 0,04). El procesamiento profundo cayó aun así, pero por una cadena en la que una menor descarga se asoció con un menor [[critical-thinking|pensamiento crítico]], que a su vez predijo un procesamiento profundo más débil (0,78). La desorganización aumentó en 0,84 sin que ningún mediador canalizara el efecto. El hallazgo es una advertencia para el relato estándar: la descarga no es la única vía por la que un entorno de [[generative-ai|IA]] erosiona el procesamiento, y una condición puede dejar la descarga intacta mientras suprime aquello que se suponía que la descarga protegía.
+
 ## Dependencia excesiva: cuando la externalización se vuelve dañina
 
 La escalera que sigue esta página tiene tres peldaños, y solo los dos primeros pertenecen a este apartado. La **externalización** es delegar trabajo mental, lo que a menudo es productivo; la **dependencia excesiva** es hacerlo de forma crónica y sin calibración, que es el fallo conductual que documenta esta sección; la **[[cognitive-surrender|rendición cognitiva]]** es un fallo distinto: el paso evaluativo nunca ocurre, así que el estudiante adopta la respuesta de la IA sin ningún juicio sobre su calidad. El límite se ve en qué se le pide a la IA que suministre: la asistencia *instrumental* de [[du-yuan-epistemic-dependence-2026|Du y Yuan]] produce salida, mientras que la asistencia *que conlleva juicio* suministra el estándar con el que se juzga la salida, y es la segunda clase la que desplaza el trabajo del que depende la pericia. [[young-people-learning-generative-ai-rapid-review-2026|La revisión rápida de Sídney]] traza la misma división triple en 271 artículos. La rendición tiene, por tanto, su propia firma experimental y su propia página; la dependencia excesiva sigue siendo el problema de frecuencia y calibración, y los dos son resultados separables en una misma tarea: en los ensayos de [[shaw-nave-cognitive-surrender-2026|Shaw y Nave]], el 73,2% de los ensayos con IA incorrecta terminaron en rendición mientras que el 19,7% terminaron en externalización estratégica.
@@ -249,3 +257,4 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — La dependencia de la IA generativa como condición límite de la disposición al pensamiento crítico y la empleabilidad autopercibida (Shojaei et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Los niños mostraron una conectividad frontoparietal, de saliencia y de atención dorsal más débil que los adultos mientras hablaban con ChatGPT, con puntuaciones de creatividad equivalentes
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — La IA generativa y el pensamiento creativo infantil: dependencia excesiva y dependencia del prompt en una revisión de alcance (Niu et al. 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormancia cognitiva: un experimento preregistrado en el que las affordances de la IA redujeron el procesamiento profundo y aumentaron la desorganización sin aumentar la descarga cognitiva (Braun 2026)
