@@ -1,7 +1,7 @@
 ---
 title: "IA explicable"
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -89,6 +91,10 @@ Si la qualité de l'explication décide de l'utilité de la XAI, alors produire 
 
 Pour l'explicabilité spécifiquement, les travaux qui comptent sont ceux qui forcent l'explication à sortir du carnet de notes : des fiches de modèle notées au même titre que les métriques de précision, et des audits d'explication structurés dans lesquels les étudiants appliquent des outils d'interprétabilité à leurs propres modèles, puis en présentent les résultats à un public sans bagage technique partagé. L'application est le pilote le plus souvent absent des cours voisins de l'éthique et celui qui rend le reste plus que symbolique — des grilles qui récompensent la documentation responsable, des projets pouvant être renvoyés en révision pour des motifs [[ethics|éthiques]], et une [[peer-assessment|révision par les pairs]] conduite selon des critères de reddition de comptes et pas seulement techniques. L'article reconnaît honnêtement que les outils diffèrent fortement en coût : les fiches de modèle et les déclarations de positionnement ne requièrent aucun nouveau logiciel et ne risquent qu'une conformité superficielle, tandis que les panels de pairs et la mobilisation des acteurs exigent une coordination et une adhésion institutionnelle — c'est pourquoi il recommande une adoption par étapes plutôt qu'un engagement de type tout ou rien. Voir [[curriculum-design]] pour savoir où ces éléments s'insèrent dans un programme.
 
+## Citation
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Concepts liés
 
 - [[trust-calibration]]
@@ -131,7 +137,3 @@ Pour l'explicabilité spécifiquement, les travaux qui comptent sont ceux qui fo
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Décisions de notation prises par l'enseignant ou par l'IA : une justification écrite a élargi l'écart d'équité
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les citations et les signaux d'autorité ont accru la déférence envers une sortie incorrecte, certaines références étant mal attribuées ou fictives
-
-## Citation
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

@@ -1,7 +1,7 @@
 ---
 title: 可解释 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-24T15:58:16-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -19,6 +19,9 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+
+
+
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -89,6 +92,10 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 具体到可解释性，真正起作用的作业是那些把解释逼出笔记本的：与准确性指标并列计分的模型卡，以及结构化的解释审计——学生把可解释性工具应用于自己的模型，然后把结果呈现给没有共同技术背景的受众。执行性是伦理邻近课程中最常缺失、却让其余部分不止于象征性的那一根支柱：奖励负责任文档的量规、可以因[[ethics|伦理]]理由被打回修改的项目，以及[[peer-assessment|同伴评审]]——依据问责标准而不仅是技术标准进行。论文坦率地指出，这些工具的成本差异极大：模型卡与立场声明不需要新软件，其风险只是流于表面的合规；而同伴小组和利益相关者参与需要协调和机构支持，这正是它建议分阶段采纳、而非全有或全无的原因。见[[curriculum-design]]以了解它们在课程体系中的位置。
 
+## 引用
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## 关联概念
 - [[trust-calibration]]
 - [[trust]]
@@ -128,6 +135,3 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教师评分与 AI 评分的决策：一份书面理由扩大了公平性差距
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用与权威信号提高了对不正确输出的遵从，部分引用被误归属或是虚构的
-## Citation
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

@@ -1,7 +1,7 @@
 ---
 title: "Clarity"
 created: "2026-09-24T05:29:55-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-29T04:19:20-04:00"
 type: resource
 summary: "Ein Open-Source-Agent-Skill und ein privater Browser-Editor, die achtzehn Regeln für klareres Schreiben in Entwurfs-, Überarbeitungs- und Prüfmodi für Prosa überführen."
 url: https://clarity.addy.ie/
@@ -25,6 +25,10 @@ source_updated: "2026-09-24T05:29:55-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -35,7 +39,7 @@ ai_assist:
 
 **Clarity** verbindet einen Agent Skill mit einem Browser-Editor, beide aufgebaut um achtzehn Regeln für Schreiben, das „sich seine Lesenden verdient“. Der Skill installiert sich in Coding-Agents wie Claude Code und Codex mit `npx skills add addyosmani/clarity` und arbeitet dann in drei Modi: Der Prüfmodus kritisiert einen Entwurf und lässt die Datei unberührt, der Überarbeitungsmodus bearbeitet einen Entwurf direkt, und der Interview-Modus stellt der schreibenden Person zunächst Fragen und schreibt aus den Antworten mit. Das [[feedback|Feedback]], das eine schreibende Person erhält, zielt auf Substanz vor Stil. Die Regeln fragen, für wen der Text bestimmt ist und was diese Lesenden bereits wissen, bestehen auf Behauptungen statt Themen und auf Konkretem statt Abstraktem, und behandeln Füllstoff als Problem des Nicht-Wissens, wozu der Text da ist, statt als Vokabelproblem.
 
-Der Browser-Editor läuft lokal auf der Seite und lädt keinen Entwurf hoch. Er meldet die Merkmale maschinengeschriebener Prosa, die Lesbarkeit und Lücken in der Substanz, was ihn nützlich macht, um einen von [[generative-ai|generativer KI]] erzeugten Text zu prüfen, bevor er eine Leserschaft erreicht. Das Projekt stellt ausdrücklich klar, dass das Ziel Schreiben ist, das erkennbar die eigene Handschrift des Autors behält, und nicht Prosa, die konstruiert ist, um [[ai-literacy|KI-Erkennung]] zu passieren – ein Unterschied, den Lehrende erkennen, wenn sie eine Richtlinie zu KI-gestütztem [[writing-education|Schreiben]] festlegen.
+Der Browser-Editor läuft lokal auf der Seite und lädt keinen Entwurf hoch. Er meldet die Merkmale maschinengeschriebener Prosa, die Lesbarkeit und Lücken in der Substanz, was ihn nützlich macht, um einen von [[generative-ai|generativer KI]] erzeugten Text zu prüfen, bevor er eine Leserschaft erreicht. Das Projekt stellt ausdrücklich klar, dass das Ziel Schreiben ist, das erkennbar die eigene Handschrift des Autors behält, und nicht Prosa, die konstruiert ist, um [[ai-detection|KI-Erkennung]] zu passieren – ein Unterschied, den Lehrende erkennen, wenn sie eine Richtlinie zu KI-gestütztem [[writing-education|Schreiben]] festlegen.
 
 ## Was vor der Einführung zu wissen ist
 

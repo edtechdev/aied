@@ -18,6 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+
+
+
+
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
@@ -104,6 +109,10 @@ Açıklanabilirlik için özellikle önemli olan ödevler, açıklamayı not def
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+## Atıf
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Bağlı Makaleler
 - [[lund-socially-accountable-data-science-xai-2026]] — XAI’ı hesap verebilirlik uygulaması olarak öğretmek için dört sütunlu çerçeve (yanıt verebilirlik, sorumluluk, yaptırım, düşünsel duruş) (Lund ve ark. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Öğrenci merkezli ITS’nin değere duyarlı tasarımı (işbirlikçi ve ham açıklamalar karşılaştırması)
@@ -127,3 +136,4 @@ Açıklanabilirlik için özellikle önemli olan ödevler, açıklamayı not def
 ## Kaynak
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+

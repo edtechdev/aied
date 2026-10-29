@@ -1,7 +1,7 @@
 ---
 title: 설명 가능한 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
+
+
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -87,6 +89,10 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 
 설명 가능성을 위해 특별히 중요한 과제는 설명을 노트북 밖으로 끌어내는 것들입니다. 정확도 지표와 나란히 가중치를 부여받는 채점된 모델 카드, 그리고 학생들이 자신의 모델에 해석 가능성 도구를 적용한 뒤 공유된 기술적 배경이 없는 청중에게 결과를 발표하는 구조화된 설명 감사가 그것입니다. 집행은 윤리 인접 강좌에서 가장 흔히 빠지는 기둥이자, 나머지를 상징적인 것을 넘어서게 만드는 기둥입니다. 책임 있는 문서화에 보상을 주는 루브릭, [[ethics|윤리적]] 근거로 반려되어 수정될 수 있는 프로젝트, 그리고 기술적 기준만이 아니라 책임 기준에 맞춰 진행되는 [[peer-assessment|동료 검토]]가 그것입니다. 이 논문은 도구들이 비용에서 뚜렷이 다르다고 솔직히 인정합니다. 모델 카드와 입장 진술서는 새로운 소프트웨어가 필요 없고 피상적 준수의 위험만 있는 반면, 동료 패널과 이해관계자 참여는 조율과 기관의 지지를 요구합니다. 이것이 전부 아니면 전무의 약속이 아니라 단계적 도입을 권하는 이유입니다. 이것들이 프로그램 안에서 어디에 자리하는지는 [[curriculum-design]]을 보십시오.
 
+## 인용
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## 연결된 개념
 
 - [[trust-calibration]]
@@ -127,7 +133,3 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 탐지가 사용자에게 결코 보고되지 않은 AI 매개 채점에서의 프롬프트 인젝션 (Humble 2026)
 - [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 보조 교육 질문의 교수학적 평가를 위한 사전 훈련 모델의 평가
 - [[decision-making-agent-student-decision-acceptance-2026]] — 교사 대 AI가 낸 채점 결정: 서면 근거 제시가 공정성 간극을 넓힘
-
-## 인용
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

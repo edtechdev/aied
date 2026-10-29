@@ -1,7 +1,7 @@
 ---
 title: Erklärbare KI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-24T21:41:34-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -19,6 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -134,4 +135,3 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle für pädagogisches Assessment neuer KI-unterstützter Bildungsfragen
 - [[decision-making-agent-student-decision-acceptance-2026]] — Lehrkraft- versus KI-getroffene Benotungsentscheidungen: eine schriftliche Begründung erweiterte die Fairness-Lücke
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zitate und Autoritätssignale erhöhten die Nachgiebigkeit gegenüber falscher Ausgabe, einige Referenzen waren falsch zugeordnet oder fiktiv
-

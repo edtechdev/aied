@@ -1,7 +1,7 @@
 ---
 title: 説明可能AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-10T22:33:00-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -19,6 +19,9 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
+
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -87,6 +90,10 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 
 説明可能性に関して特に、重要な課題は、説明をノートブックから押し出すものです。正確さの指標と並んで重みづけされたモデル・カード、そして学生が解釈可能性のツールを自分のモデルに適用し、その結果を共有された技術的な背景を持たない受け手に提示する、構造化された説明の監査です。執行は、倫理に隣接したコースから最もよく欠けている柱であり、残りを象徴的なもの以上のものにするものです — 責任ある文書化を報いるルーブリック、[[ethics|倫理的]]な根拠から改訂のために返されうる課題、そして技術的な基準だけでなく説明責任の基準に照らして行われる[[peer-assessment|相互評価]]です。この論文は、ツールのコストが大きく異なることを率直に認めています。モデル・カードと立場表明（positionality statement）は新しいソフトウェアを必要とせず、表面的な順守以上のリスクはありません。一方、専門家のパネルや利害関係者の関与は調整と制度的な支持を要するため、すべてか無かではなく段階的な採用を勧めています。これらがプログラムの中でどこに収まるかは、[[curriculum-design|カリキュラム設計]]を見てください。
 
+## 引用
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## 関連概念
 - [[trust-calibration]]
 - [[trust]]
@@ -125,6 +132,3 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 - [[bloom-classifier-ai-assisted-questions-2026]] — 新規のAI支援の教育上の問いの教育学的な評価のための事前訓練済みモデルの評価
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教員対AIの採点決定：書面の理由づけが公正性の格差を広げた
-## Citation
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

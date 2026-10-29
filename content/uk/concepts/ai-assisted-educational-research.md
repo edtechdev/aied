@@ -25,6 +25,7 @@ ai_assist:
 translation_of: concepts/ai-assisted-educational-research
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
+
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -225,4 +226,3 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - [[beagle-grounded-learner-emulation-2026]] — нейро-символічний симулятор, який відтворює справжню боротьбу новачка (Wang та співавтори, 2026)
 - [[llm-student-simulation-misconception-faithfulness]] — чому симулятори відмовляються від хибного уявлення за будь-якого зворотного зв’язку і як навчання це виправляє (Do, Sonkar та Sachan, 2026)
 - [[llm-judged-helpfulness-pedagogy-signal]] — заздалегідь зареєстрований аудит, який використовує фіксованого симульованого здобувача, щоб перевірити, чи вимірює корисність педагогіку (Fan та співавтори, 2026)
-

@@ -1,7 +1,7 @@
 ---
 title: Selbstwirksamkeit
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-29T04:19:20-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -14,6 +14,10 @@ source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -39,7 +43,7 @@ Selbstwirksamkeit ist unterscheidbar von tatsächlicher Kompetenz: sie ist eine 
 
 ### Wie Selbstwirksamkeit in der Forschung der Wissensbasis erscheint
 
-- **Rückgänge unter GenAI-plus-XR-Studioarbeit:** in einem 27 Studierende umfassenden Architektur-[[arts-design-and-media-education|Designstudio]] zeigten Teams, die eine [[generative-ai|GenAI]]- und Multi-User-XR-Pipeline nutzten, größere relative Prä-Post-Rückgänge im Vertrauen in die Design-Selbstwirksamkeit (β = −1.675, p = 0.021) und in der Ergebniserwartung (β = −2.088, p = 0.002) als Teams, die den normalen Arbeitsablauf fortsetzten, ohne signifikanten Unterschied in den verblindeten Panel-Bewertungen ihrer Präsentationen ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026)]]). Werkzeugreiche Umgebungen können Wirksamkeitsüberzeugungen senken, selbst wenn die Arbeit selbst als gleichwertig beurteilt wird.
+- **Rückgänge unter GenAI-plus-XR-Studioarbeit:** in einem 27 Studierende umfassenden Architektur-[[arts-design-and-media-education|Designstudio]] zeigten Teams, die eine [[generative-ai|GenAI]]- und Multi-User-XR-Pipeline nutzten, größere relative Prä-Post-Rückgänge im Vertrauen in die Design-Selbstwirksamkeit (β = −1.675, p = 0.021) und in der Ergebniserwartung (β = −2.088, p = 0.002) als Teams, die den normalen Arbeitsablauf fortsetzten, ohne signifikanten Unterschied in den verblindeten Panel-Bewertungen ihrer Präsentationen ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Werkzeugreiche Umgebungen können Wirksamkeitsüberzeugungen senken, selbst wenn die Arbeit selbst als gleichwertig beurteilt wird.
 - **KI-Selbstwirksamkeit und Berufsbereitschaft:** [[ai-literacy-career-adaptability-business-2026|Forschung zu KI-Bereitschaft]] zeigt, dass KI-Selbstwirksamkeit die Beziehung zwischen KI-Kompetenz und KI-Bereitschaft moderiert: Kompetenz übersetzt nur in Bereitschaft, wenn Lernende Vertrauen im Umgang mit KI haben, und Selbstwirksamkeit sagt [[career-development-and-readiness|Berufsadaptabilität]] direkt vorher.
 
 
@@ -70,6 +74,14 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - **Offene KI-Designaufgaben sortieren Studierende nach vorher bestehendem Vertrauen.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] fanden, dass Leistungs-Selbstachtung in einem Kurs, in dem 345 Studierende je einen konversationellen Agenten bauen, der eine Peer-Person lehrt, mit Extraversion korrelierte (r = 0.262, p < 0.001), und dass weibliche Studierende signifikant geringere Selbstachtung berichteten als männliche Peers (Kruskal-Wallis H(2) = 9.87, p < .005). Die Designfolgerung, die die Autoren ziehen: Offene, konversationelle kreative Aufgaben begünstigen die bereits Zuversichtlichen, deshalb sollten „offene Designaufgaben ausreichendes Gerüst enthalten, um Leistungsselbstachtung gerecht über alle Persönlichkeitstypen hinweg aufzubauen" —, eine Vorsicht, die besagt, dass von Studierenden geschaffene Artefaktaufgaben Vertrauenslücken weiten statt schließen können, wenn Gerüstbau nicht absichtsvoll ist.
 - **Selbstwirksamkeit interagiert mit Formatpräferenz, nicht nur mit Ergebnissen.** Eine ausgeglichene Within-Subject-Studie (97 Neuntklässlerinnen und Neuntklässler; inhaltsgleiche tutor- gegenüber papierbasierte Übung von Graphinterpretation und -konstruktion) fand, dass tutorbasierte Übung Papier insgesamt besiegte (t(62.30) = 2,38, p = .020), und — kontraintuitiv — geringere Baseline-Selbstwirksamkeit *größere* Zugewinne in beiden Formaten vorhersagte (t(98.40) = −2,14, p = .035). Die interessante Struktur ist eine signifikante Drei-Wege-Interaktion Selbstwirksamkeit × Präferenz × Format (t(99.84) = −2,58, p = .011): Unter Studierenden mit geringer Selbstwirksamkeit sagt Präferenz gegenüber dem Tutor größere Zugewinne *speziell in Tutorübung* vorher. Ein ernüchternder Nullwert für die Annahme, dass Tutorübung sich motivational selbst verstärke: ITS-Übung verbesserte die Selbstwirksamkeit nach dem Training nicht signifikant gegenüber Papier —, zurückgeführt auf die kurze Intervention (zwei ~40-minütige Sitzungen). Das praktische Signal: Baseline-Selbstwirksamkeit und Technologiepräferenz sind günstige, handlungsleitende Eingaben für Formatzuweisung; Tutorübung nutzt bestehende Präferenz, statt sie zu erzeugen. ([[cen-self-efficacy-favorability-2026]])
 
+- **Wissen erreichte Intention über Vertrauen, Angst und Selbstwirksamkeit.** In einem PLS-SEM-Modell mit 526 Designstudierenden war wahrgenommenes AIGC-Wissen positiv mit Vertrauen, Selbstwirksamkeit und Nutzungsintention und negativ mit Angst verbunden, und Vertrauen, Angst und Selbstwirksamkeit trugen jeweils einen signifikanten indirekten Pfad von Wissen zu Intention ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Angst lag auf dem Pfad, statt ihn zu blockieren.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende, denen Vertrauen fehlt, meiden KI.“** Das umgekehrte Muster zeigt sich: In einem **Beweiskurs mit 153 Studierenden** sagte ein Punkt höhere Baseline-Selbstwirksamkeit **39 % weniger Chatbot-Nachrichten** vorher. Geringes Vertrauen führte in **stärkere** KI-Nutzung — die Studierenden, die Übung am dringendsten brauchten, lagerten sie am ehesten aus.
+- **„Mehr KI-Nutzung bei geringem Vertrauen ist eine harmlose Bewältigungsstrategie.“** Derselbe Befund verbindet diese Weichenstellung mit **schlechteren Noten**, sodass das Bewältigungsmuster messbare Kosten trägt, statt eine neutrale Wahl zu sein.
+- **„Kompetenz allein baut Vertrauen auf.“** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] befragte **450 Universitätsstudierende**, die ChatGPT bereits nutzen, und findet **Vertrauen als Angelpunkt zwischen KI-Kompetenz und Selbstvertrauen**. Der Pfad verläuft über Vertrauen, sodass das Erhöhen von Kompetenz ohne Auseinandersetzung mit Vertrauen den Mechanismus unberührt lässt.
+- **„Selbstwirksamkeitsprofile sind in einer Population mit Behinderungen gleichförmig.“** Eine latente Profilanalyse von **102 Universitätsstudierenden mit motorischen Behinderungen** in Spanien fand **drei Profile**, wobei die niedrige Gruppe **29,4 %** ausmacht und sich der Rest auf mittlere und höhere Profile verteilt. Die Gruppe als eine Population zu behandeln mittelt über unterschiedliche motivationale Zustände hinweg.
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
 - [[self-directed-learning]]

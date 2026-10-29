@@ -1,7 +1,7 @@
 ---
 title: 对话式人工智能
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+
+
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -86,6 +88,10 @@ ai_assist:
 
 - **学生实际上如何与对话式智能体交谈——一套六类别的脱离参与方案：** [[rho-disengaged-conversational-behaviors-2026|Rho 等（2026）]]把一个 GPT-4-Turbo 可教智能体（被定位为一个挣扎中的中学生，通过知识图谱上的 [[rag|RAG]] 落地，与一个批评学生解释的导师智能体配对）嵌入 Math Nation 的代数与几何课中，并对 246 名学生的 5,522 次话语做了编码。在参与（75.7% 的话语）之外，他们识别出虚假作答（12.8%）、扣留（8.9%）、随机/噪声（2.1%）、镜像（0.6%）、嘲弄（0.3%）与幽灵化（0.2%）——其中镜像（复制智能体的文本）是从数据中归纳浮现的。该分类是人在回路的：由两名评分者标注的 1,682 次话语（每个类别 κ = 0.704–0.905）训练了一个微调的 LLaMA 3 分类器（在留出对话线程上加权 F1 = 0.910），由其标注余下的 3,840 次话语。一项过程层面的竞争风险分析随后表明，多数脱离参与在几个话轮内得到消解，唯独扣留持续存在——这是一个值得围绕它设计智能体响应的信号。
 
+## 引用
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## 关联概念
 
 - [[intelligent-tutoring]]
@@ -133,7 +139,3 @@ ai_assist:
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生相当的 GRE 学习增益
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：在问题求解过程中为定向的 AI 求助搭建脚手架
-
-## 引用
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

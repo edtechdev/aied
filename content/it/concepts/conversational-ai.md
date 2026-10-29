@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -133,3 +135,4 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
+

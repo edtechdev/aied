@@ -1,7 +1,7 @@
 ---
 title: IA explicável
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-29T04:27:44-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -19,6 +19,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -129,3 +131,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para avaliação pedagógica de novas questões educacionais assistidas por IA
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Decisões de correção feitas pelo professor versus pela IA: uma justificativa escrita ampliou a lacuna de equidade
+

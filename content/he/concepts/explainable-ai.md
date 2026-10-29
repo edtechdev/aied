@@ -18,6 +18,9 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+
+
+
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -87,6 +90,10 @@ ai_assist:
 
 להסבריות ספציפית, המשימות שחשובות הן אלה שמאלצות הסבר לצאת מהמחברת: כרטיסי מודל מדורגים המשוקללים לצד מדדי דיוק, וביקורות הסבר מובנות שבהן סטודנטים מחילים כלי פרשנות על המודלים שלהם ואז מציגים את התוצאות לקהל ללא רקע טכני משותף. אכיפה היא העמוד שנעדר לרוב מקורסים סמוכי-אתיקה וזה שהופך את השאר ליותר מסימבולי — רובריקות שמתגמלות תיעוד אחראי, פרויקטים שיכולים להיות מוחזרים לתיקון על בסיסים [[ethics|אתיים]], ו[[peer-assessment|סקירת עמיתים]] שמנהלת מול קריטריוני אחריות ולא מול קריטריונים טכניים בלבד. המאמר הגון שהכלים נבדלים חדות בעלות: כרטיסי מודל והצהרות מיקום אינם דורשים תוכנה חדשה ומסוכנים רק מתאימות שטחית, בעוד פאנלים של עמיתים ומעורבות בעלי-עניין דורשים תיאום ותמיכה מוסדית, וזו הסבה שהוא ממליץ על התקבלות מדורגת ולא על מחויבות הכול-או-כלום. ראו [[curriculum-design]] להיכן אלה מתאימים בתכנית.
 
+## ציטוט
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## מושגים מקושרים
 - [[trust-calibration]]
 - [[trust]]
@@ -125,6 +132,4 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — הערכת מודלים מאומנים מראש להערכה פדגוגית של שאלות חינוכיות חדשות בסיוע בינה מלאכותית
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — החלטות ציון שנעשו על ידי מורה לעומת בינה מלאכותית: נימוק בכתב הרחיב את פער ההוגנות
-## ציטוט
 
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

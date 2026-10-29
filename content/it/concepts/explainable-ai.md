@@ -18,6 +18,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -128,3 +130,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
+

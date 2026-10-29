@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+
+
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

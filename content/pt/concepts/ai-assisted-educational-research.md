@@ -1,7 +1,7 @@
 ---
 title: Investigação educacional assistida por IA
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-05T14:14:11-04:00"
+updated: "2026-10-29T04:27:44-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -22,6 +22,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*

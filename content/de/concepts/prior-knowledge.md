@@ -1,7 +1,7 @@
 ---
 title: Vorwissen
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-28T01:09:26-04:00"
+updated: "2026-10-29T04:19:20-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -12,6 +12,10 @@ source_updated: "2026-10-28T01:09:26-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -61,6 +65,16 @@ Generative KI hat Vorwissen zu einer zentralen Designbetrachtung statt zu einer 
 2. **Den Vorwissensstand der lernenden Person modellieren.** Lernendenmodellierung und Anpassung auf geschätztes Vorwissen (und seine Missverständnisse) bauen, statt auf angenommener Gleichförmigkeit, um Personalisierung echt responsiv zu machen.
 3. **Missverständnisse aufdecken und adressieren.** Wenn Vorwissen inkorrekt ist, wird es interferieren; Instruktion sollte Missverständnisse herausfordern und korrigieren, statt neue Inhalte auf fehlerhafte Fundamente zu legen.
 4. **Den Reibungstrade-off abwägen.** Vorwissen zu aktivieren fügt wünschenswerte Schwierigkeit (Abruf, Integration) hinzu, die die reibungsentfernenden Defaults von KI tendenziell löschen —, eine Spannung, die bewusst zu managen ist, statt sie Automatisierung per Default auflösen zu lassen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Vorwissen sagt vorher, wer die kognitive Arbeit tut.“** Es sagt Ergebnisse zuverlässiger vorher als Verhalten. In einer fünftägigen Lernen-durch-Lehren-Studie mit **23 Mittelstufentutorinnen und -tutoren** sagten vorherige Testergebnisse **nicht** den Anteil wissensaufbauender Antworten vorher, die eine Tutorin oder ein Tutor produzierte, und Tutorinnen und Tutoren mit geringem Vorwissen arbeiteten am Wissensaufbau, statt weniger zu leisten. Wer sich auf die produktive Anstrengung einlässt, ist nicht einfach, wer mit dem meisten Wissen ankommt.
+
+**„Auslagerung ist ein stabiles Lernendenmerkmal, sodass dieselbe Person überall gleich viel auslagert.“** Sie folgt dem Vorwissen innerhalb der Aufgabe. In einer Synthese-Schreibstudie verfasste der **Cluster mit hohem Wissen und minimaler Auslagerung 80 % seines Aufsatzes, gegenüber 2 % im Cluster mit der stärksten Auslagerung**. Auslagerung ist damit wesentlich eine Reaktion darauf, was die lernende Person bereits hat und was die Aufgabe verlangt, was sie zu einer Designvariable macht statt zu einer Charaktereigenschaft.
+
+**„Studierende mit weniger Vorwissen brauchen mehr KI-Unterstützung.“** Das ist die Richtung, die die Lücke am ehesten verbreitert, da das gemessene Auslagerungsmuster den Verlust von Autorschaft dort konzentriert, wo Vorwissen am dünnsten ist. Unterstützung, die der lernenden Person die Arbeit liefert, die die Substitution am wenigsten erkennen kann, entfernt die Aktivität, die das fehlende Wissen aufbauen würde.
+
+**„Vorwissen ist ein fester Input, den der Kurs nicht bewegen kann.“** Es ist der am stärksten gewichtete Faktor neuen Lernens, was den Aufbau von Vorwissen zur wirksamsten Aufgabe macht statt zu einer Hintergrundbedingung — der Grund, warum Domänenwissen selbst die Intervention ist und nicht bloß die Kovariate.
 
 ## Verbundene Konzepte
 

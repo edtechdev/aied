@@ -14,6 +14,9 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+
+
+
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -83,6 +86,10 @@ Chagua mawakala wa mazungumzo ili kusaidia kufundisha, [[motivation]], na [[meta
 
 - **Jinsi wanafunzi wanavyozungumza na mawakala wa mazungumzo kweli — mpango wa makategoria sita wa kujitoa:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] walijumuisha wakala anayefundishwa wa GPT-4-Turbo (amewekwa kama mwanafunzi wa shule ya kati anayepambana, akitegemea [[rag|RAG]] juu ya grafu ya maarifa, akiwa na wakala wa uongozi aliyekosoa maelezo ya wanafunzi) katika masomo ya Algebra na Jiometria ya Math Nation, na kuweka kodi kauli 5,522 kutoka kwa wanafunzi 246. Zaidi ya mwingiliano (75.7% ya kauli), walitambua Majibu ya Uongo (12.8%), Kuzuia (8.9%), Nasibu/Kelele (2.1%), Kuiga (0.6%), Kudhihaki (0.3%), na Kutowajibika (0.2%) — huku Kuiga (kunakili maandishi ya wakala) yakijitokeza kwa uchanganuzi wa data. Uainishaji ulikuwa wa binadamu-ndani ya mzunguko: kauli 1,682 zilichorwa na wakaguzi wawili (κ = 0.704–0.905 kwa kila kategoria) zilimfunza kigawanyaji cha LLaMA 3 lililoboreshwa (F1 uzito = 0.910 kwenye mijadala iliyotengwa) ambayo ililebo kauli 3,840 zilizobaki. Uchanganuzi wa ubashiri wa ushindani wa kiwango cha mchakato kisha ulionyesha kujitoa kwingi kunatatuliwa ndani ya mizunguko michache isipokuwa Kuzuia, ambayo inadumu — ishara inayostahili kubuniwa majibu ya wakala kuzunguka.
 
+## Nukuu
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Dhana Zilizounganishwa
 
 - [[intelligent-tutoring]]
@@ -128,7 +135,3 @@ Chagua mawakala wa mazungumzo ili kusaidia kufundisha, [[motivation]], na [[meta
 - [[culturally-aware-student-stress-chatbot-2026]] — Chatbot Inayojua Kitamaduni Inayoendeshwa na AI kwa Ugunduzi wa Msongo na Msaada wa Ustawi kati ya Wanafunzi wa Chuo Kikuu wa Pakistan Kutumia NLP na Kujifunza kwa Mashine
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: ufundishaji wa AI na wa binadamu hutoa faida zinazofanana za kujifunza GRE
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Ngazi za Msaada za Utafutaji wa Msaada wa AI Zilizolengwa Wakati wa Kutatua Matatizo
-
-## Nukuu
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

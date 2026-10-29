@@ -1,7 +1,7 @@
 ---
 title: IA conversacional
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -15,6 +15,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

@@ -1,7 +1,7 @@
 ---
 title: 対話型AI
 created: "2026-10-10T22:31:16-04:00"
-updated: "2026-10-10T22:31:16-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -84,6 +86,10 @@ ai_assist:
 
 - **生徒が実際にどう対話エージェントに話しかけるか — 六つのカテゴリーからなる非関与の体系：** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]は、苦労している中学生として位置づけられた（知識グラフ上のRAGで接地され、生徒の説明を批判するメンター・エージェントと対をなした）GPT-4-Turboのティーチャブル・エージェントをMath Nationの代数と幾何の授業に埋め込み、246名の生徒から5,522の発話を符号化しました。関与（発話の75.7%）を超えて、彼らはFalse Answering（虚偽の回答、12.8%）、Withholding（差し控え、8.9%）、Random/Noisy（無作為/雑音、2.1%）、Mirroring（模倣、0.6%）、Mocking（嘲り、0.3%）、Ghosting（消える、0.2%）を同定しました — Mirroring（エージェントのテキストを書き写すこと）はデータから帰納的に浮かび上がったものです。分類はヒューマン・イン・ザ・ループで行われました。二人の評定者によって注釈された1,682の発話（カテゴリーごとにκ = 0.704〜0.905）が、微調整されたLLaMA 3の分類器（保留されたスレッド上で加重F1 = 0.910）を訓練し、それが残り3,840の発話にラベルを付けました。過程水準の競合リスク分析は、その後、非関与の大半が数ターン内に解消する一方、Withholdingだけは持続することを示しました — それはエージェントの応答を設計する上で価値ある合図です。
 
+## 引用
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## 関連する構成概念
 
 - [[intelligent-tutoring]]
@@ -128,7 +134,3 @@ ai_assist:
 - [[rho-disengaged-conversational-behaviors-2026]] — 生徒とAIの対話における非関与的な対話の振る舞い（Rho et al. 2026）
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：問題解決における的を絞ったAI援助要請の足場づけ
-
-## 引用
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

@@ -1,7 +1,7 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -84,6 +86,10 @@ Choisissez des agents conversationnels pour soutenir l'enseignement, la [[motiva
 
 - **Comment les étudiants parlent réellement aux agents conversationnels — un schéma de désengagement en six catégories :** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ont intégré un agent enseignable GPT-4-Turbo (positionné comme un élève de collège en difficulté, ancré par [[rag|RAG]] sur un graphe de connaissances, et associé à un agent mentor qui critiquait les explications des étudiants) dans les leçons d'algèbre et de géométrie de Math Nation, puis ont codé 5 522 énoncés provenant de 246 étudiants. Au-delà de l'engagement (75,7% des énoncés), ils ont identifié False Answering (12,8%), Withholding (8,9%), Random/Noisy (2,1%), Mirroring (0,6%), Mocking (0,3%) et Ghosting (0,2%) — le Mirroring (copie du texte de l'agent) émergeant inductivement des données. La classification se faisait dans la boucle humaine : 1 682 énoncés annotés par deux évaluateurs (κ = 0,704–0,905 par catégorie) ont servi à entraîner un classificateur LLaMA 3 affiné (F1 pondéré = 0,910 sur des fils de discussion réservés) qui a étiqueté les 3 840 énoncés restants. Une analyse des risques compétitifs au niveau du processus a ensuite montré que la plupart des désengagements se résolvent en quelques tours, à l'exception du Withholding, qui persiste — un signal autour duquel il vaut la peine de concevoir les réponses de l'agent.
 
+## Citation
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Concepts liés
 
 - [[intelligent-tutoring]]
@@ -130,7 +136,3 @@ Choisissez des agents conversationnels pour soutenir l'enseignement, la [[motiva
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach : étayer la recherche d'aide ciblée auprès de l'IA pendant la résolution de problèmes
 - [[rho-disengaged-conversational-behaviors-2026]] — Comportements conversationnels de désengagement dans les dialogues étudiant-IA (Rho et al. 2026)
-
-## Citation
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

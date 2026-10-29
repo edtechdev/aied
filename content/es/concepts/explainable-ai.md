@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-28T13:32:35-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -17,12 +17,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-10-28"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+
+
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -102,6 +108,10 @@ Para la explicabilidad en concreto, las tareas que importan son las que obligan 
 - **"La práctica general de XAI se traslada a la educación."** El [[xai-education-framework|marco XAI-ED]] (Khosravi et al., 2022) insiste en que la educación tiene **necesidades de explicabilidad distintivas** más allá de la XAI general, porque la audiencia incluye estudiantes que deben actuar sobre la explicación y no auditores que deben certificarla.
 - **"La fidelidad es una propiedad que se puede afirmar sin sondearla."** La fidelidad medida requiere la **eliminación contrafactual de tramos críticos de la rúbrica** junto con valoraciones humanas. Que la alineación entre atención y rúbrica alcance el **78,0% frente al 41,7% de GPT-4 en zero-shot y el 32,1% de BERT** es un resultado comparativo de ese tipo de sondeo, no de una afirmación sobre interpretabilidad.
 
+## Cita
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Conceptos conectados
 
 - [[trust-calibration]]
@@ -144,4 +154,3 @@ Para la explicabilidad en concreto, las tareas que importan son las que obligan 
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Decisiones de calificación tomadas por docentes frente a las tomadas por la IA: una justificación escrita amplió la brecha de justicia
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las citas y las señales de autoridad elevaron la deferencia hacia salidas incorrectas, con algunas referencias mal atribuidas o ficticias
-

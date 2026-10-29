@@ -14,6 +14,10 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+
+
+
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -104,6 +108,10 @@ ai_assist:
 - [[speech-and-voice-technologies]] — تقنيات الكلام والصوت
 - [[parents-and-families]] — الآباء والعائلات
 
+## الاستشهاد
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## مقالات مرتبطة
 
 - [[rho-disengaged-conversational-behaviors-2026]] — السلوكيات الحوارية المنفصلة في حوارات الطالب مع الذكاء الاصطناعي (Rho et al. 2026)
@@ -132,3 +140,4 @@ ai_assist:
 ## استشهاد
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+

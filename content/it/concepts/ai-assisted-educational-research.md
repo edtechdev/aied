@@ -21,6 +21,8 @@ ai_assist:
 translation_of: "concepts/ai-assisted-educational-research"
 source_updated: "2026-10-22T09:11:45-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
@@ -221,3 +223,4 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - [[beagle-grounded-learner-emulation-2026]] — a neuro-symbolic simulator that reproduces genuine novice struggle (Wang et al., 2026)
 - [[llm-student-simulation-misconception-faithfulness]] — why simulators abandon a misconception under any feedback, and how training fixes it (Do, Sonkar & Sachan, 2026)
 - [[llm-judged-helpfulness-pedagogy-signal]] — a pre-registered audit that uses a fixed simulated learner to test whether helpfulness measures pedagogy (Fan et al., 2026)
+

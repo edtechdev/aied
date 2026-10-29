@@ -18,6 +18,9 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+
+
+
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -86,6 +89,10 @@ Kama ubora wa maelezo unaamua kama XAI ni yenye ufanisi, basi kuzalisha maelezo 
 
 Kwa kuelezekana hasa, kazi zinazomaanisha ni zile zinazolazimisha maelezo kutoka kwenye daftari: kadi za mfano zilizopimwa pamoja na vigezo vya usahihi, na ukaguzi wa maelezo wenye muundo ambao wanafunzi wanatumia zana za uwezekano wa kuelewa kwenye mifano yao wenyewe na kisha wanawasilisha matokeo kwa hadhira bila ushirikiano wa kiufundi. Utekelezaji ni nguzo ambayo mara nyingi hukosekana katika kozi zinazohusiana na maadili na ile inayofanya zilizosalia kuwa zaidi ya kimaandishi — rubriki zinazothawabisha nyenzo za uwajibikisho, miradi ambayo inaweza kurudishwa kwa marekebisho kwa msingi wa [[ethics|maadili]], na [[peer-assessment|mapitio ya marika]] yanayofanywa dhidi ya vigezo vya uwajibikisho badala ya vya kiufundi peke yake. Karatasi ni ya wazi kwamba zana zinatofautiana kwa kiasi kikubwa katika gharama: kadi za mfano na taarifa za nafasi hazihitaji programu mpya na zina hatari ya utii wa juu tu, huku paneli za marika na ushirikiano wa wadau zikihitaji uratibu na uungaji mkono wa taasisi, na hii ni kwa nini inapendekeza kupitisha kwa hatua badala ya kujitoa kwa yote au hakuna. Ona [[curriculum-design]] kwa ajili ya mahali zinapofaa katika mpango.
 
+## Nukuu
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Dhana Zilizounganishwa
 - [[trust-calibration]]
 - [[trust]]
@@ -124,6 +131,3 @@ Kwa kuelezekana hasa, kazi zinazomaanisha ni zile zinazolazimisha maelezo kutoka
 - [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya mifano iliyofunzwa awali kwa tathmini ya kielimu ya maswali mapya ya kielimu yanayosaidiwa na AI
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Maamuzi ya kupima ya mwalimu dhidi ya ya AI: maelezo ya maandishi yalipanua pengo la usawa
-## Nukuu
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

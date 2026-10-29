@@ -14,6 +14,8 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+
+
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*

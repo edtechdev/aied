@@ -1,7 +1,7 @@
 ---
 title: एआई-सहायक शैक्षिक अनुसंधान
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-15T21:00:00-04:00"
+updated: "2026-10-29T04:27:44-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -26,6 +26,10 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+
+
+
+
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -157,7 +161,7 @@ ai_assist:
 - **अभ्यासकर्ता अनुसंधान कम प्रतिनिधित्वित।** यहाँ केवल कुछ ही पेज SoTL या कक्षा अनुसंधान का उल्लेख करते हैं, इसलिए संग्रह शिक्षकों के स्व-अभ्यास अध्ययन के दावों को स्थिर नहीं कर सकता।
 - **एक चलती निशाना।** उपकरण प्रकाशन से तेज़ सुधरते हैं, इसलिए 2025 के कार्यप्रवाह के बारे में कोई निष्कर्ष ऐसी प्रणालियों की एक पीढ़ी का वर्णन करता है जो इस रूप में अब मौजूद नहीं हो सकती।
 
-## संदर्भ
+## उद्धरण
 
 Martin, P. P., Rost, M., Koenen, J., & Graulich, N. (2026). [Amid an Epistemic Iteration: How AI Methodologies May Transform the Nature of Science Education Research](https://doi.org/10.1007/s11191-026-00789-7). *Science & Education*.
 

@@ -1,7 +1,7 @@
 ---
 title: 教育研究におけるAIの支援
 created: "2026-10-10T22:04:20-04:00"
-updated: "2026-10-10T22:04:20-04:00"
+updated: "2026-10-29T04:21:31-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -222,4 +223,3 @@ Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged H
 - [[beagle-grounded-learner-emulation-2026]] — 本物の初心者の苦闘を再現する、ニューロシンボリックなシミュレーター(Wang et al., 2026)
 - [[llm-student-simulation-misconception-faithfulness]] — シミュレーターがあらゆるフィードバックの下で誤概念を放棄する理由と、訓練がそれを修正するしかた(Do, Sonkar & Sachan, 2026)
 - [[llm-judged-helpfulness-pedagogy-signal]] — 固定されたシミュレートされた学習者を用いて、有用性の測定が教育性を測るかどうかをテストする事前登録された監査(Fan et al., 2026)
-

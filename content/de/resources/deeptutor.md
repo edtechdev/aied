@@ -1,7 +1,7 @@
 ---
 title: "DeepTutor"
 created: "2026-09-20T17:30:00-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-10-29T04:19:20-04:00"
 type: resource
 summary: "Die Open-Source-Veröffentlichung des agentischen Tutor-Frameworks DeepTutor: ein Arbeitsbereich für Tutoring, Fragenerzeugung, Meisterschaftsübungen, Forschung und Visualisierung, mit einsehbarem Gedächtnis der Lernenden."
 url: https://github.com/HKUDS/DeepTutor
@@ -23,6 +23,10 @@ source_updated: "2026-09-20T17:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-29"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -35,15 +39,15 @@ ai_assist:
 
 ## Was man damit tun kann
 
-Zehn Modi – Chat, Fragen stellen, Quiz, Forschung, Visualisieren, Lösen, Kursstudium, Meisterschaftspfad, immersives Lesen und immersives Schauen – laufen auf derselben Runtime und greifen auf wiederverwendbare Wissensbasen, Bücher, Entwürfe, Notizbücher, Fragensammlungen und Personas zurück. Die Suche ist bewusst multi-engine: versionierte RAG-Bibliotheken über LlamaIndex, PageIndex, GraphRAG, LightRAG oder einen entfernten LightRAG-Server, dazu eine selbst gehostete WeKnora-Basis, eine Tencent-IMA- oder MarginNote-Bibliothek oder ein verknüpfter Obsidian-Tresor. Das Gedächtnis ist einsehbar statt opak: L1-Spuren, L2-Oberflächenzusammenfassungen und L3-Synthesen sind sichtbar und bearbeitbar, wobei ein Memory Graph jede Zusammenfassung mit der dahinterliegenden Evidenz verknüpft. Eine `deeptutor`-Binärdatei bietet ein Terminal-REPL und streamt NDJSON für jeden Agenten, der das Werkzeug als Werkzeug steuern will, und eine EduHub-Community verteilt installierbare Skills.
+Zehn Modi – Chat, Fragen stellen, Quiz, Forschung, Visualisieren, Lösen, Kursstudium, Meisterschaftspfad, immersives Lesen und immersives Schauen – laufen auf derselben Runtime und greifen auf wiederverwendbare Wissensbasen, Bücher, Entwürfe, Notizbücher, Fragensammlungen und Personas zurück. Die Suche ist bewusst multi-engine: versionierte RAG-Bibliotheken über LlamaIndex, PageIndex, GraphRAG, LightRAG oder einen entfernten LightRAG-Server, dazu eine selbst gehostete WeKnora-Basis, eine Tencent-IMA- oder MarginNote-Bibliothek oder ein verknüpfter Obsidian-Tresor. Das Gedächtnis ist einsehbar statt opak: L1-Spuren, L2-Oberflächenzusammenfassungen und L3-Synthesen sind sichtbar und bearbeitbar, wobei ein Memory Graph jede Zusammenfassung mit der dahinterliegenden Evidenz verknüpft. Eine `deeptutor`-Binärdatei bietet ein Terminal-REPL und streamt NDJSON für jeden Agenten, der es als Werkzeug ansteuern will, und eine EduHub-Community verteilt installierbare Skills.
 
 ## Für wen es gedacht ist
 
-Lehrende und Forschende in der Hochschulbildung, die eine einsetzbare Version des in der Studie beschriebenen Frameworks wollen, Entwickelnde, die auf einer erweiterbaren Runtime aufbauen, und selbstgesteuert Lernende, die bereit sind, eine eigene Instanz zu betreiben. Die Dokumentation liegt auf deeptutor.info.
+Lehrende und Forschende in der Hochschulbildung, die eine einsetzbare Version des in der Studie beschriebenen Frameworks wollen, Entwickelnde, die auf einer erweiterbaren Runtime aufbauen, und selbstgesteuerte Lernende, die bereit sind, eine eigene Instanz zu betreiben. Die Dokumentation liegt auf deeptutor.info.
 
 ## Anmerkungen
 
-Lizenziert unter Apache 2.0, bei Version 1.6.9 ab September 2026 mit etwa 40.000 GitHub-Sternen. Die veröffentlichte Evaluation dahinter – 10.8% durchschnittliche Verbesserung bei personalisierten Metriken gegenüber starken Baselines und 29.4% stärkere allgemeine agentische Schlussfolgerung über fünf Backbone-Modelle hinweg, auf dem TutorBench-Benchmark – ist auf [[deeptutor|der Artikelseite]] zusammengefasst, deren Grenzen auch hier gelten. Wie bei jedem Open-Source-KI-Stack liefern Sie selbst die Zugangsschlüssel der Modellanbieter, und eine Desktop- oder Server-Bereitstellung erwartet Python 3.11 und Node.
+Lizenziert unter Apache 2.0, bei Version 1.6.9 ab September 2026 mit etwa 40.000 GitHub-Sternen. Die veröffentlichte Evaluation dahinter – 10,8% durchschnittliche Verbesserung bei personalisierten Metriken gegenüber starken Baselines und 29,4% stärkeres allgemeines agentisches Schlussfolgern über fünf Backbone-Modelle hinweg, auf dem TutorBench-Benchmark – ist auf [[zhao-deeptutor-agentic-personalized-tutoring-2026|der Artikelseite]] zusammengefasst, deren Grenzen auch hier gelten. Wie bei jedem Open-Source-KI-Stack liefern Sie selbst die Zugangsschlüssel der Modellanbieter, und eine Desktop- oder Server-Bereitstellung erwartet Python 3.11 und Node.
 
 ## Verbundene Konzepte
 

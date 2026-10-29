@@ -1,7 +1,7 @@
 ---
 title: IA conversacional
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-29T04:27:44-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -15,6 +15,8 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+
+
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -85,7 +87,7 @@ Escolha agentes conversacionais para apoiar o ensino, a [[motivation|motivação
 
 ## Citação
 
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Agentes de IA conversacional na educação: uma revisão guarda-chuva*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
 
 ## Conceitos conectados
 

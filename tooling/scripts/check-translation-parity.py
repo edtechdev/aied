@@ -79,8 +79,49 @@ def h2_sections(body):
     return [b.split('\n', 1)[1] if '\n' in b else '' for b in blocks]
 
 
+CITATION_HEADING = re.compile(
+    r'^\s*(?:citation|cita|zitation|citazione|citacao|citação|цитирование|цитування|ציטוט|引用|인용|'
+    r'उद्धरण|الاستشهاد|atıf|atıflar|marejeleo|citace|citiranje|citare|citácia|cytau|тын|nimewo|bron|'
+    r'kaynakça)\s*$', re.I)
+
+
+def is_citation_heading(heading_text):
+    """True for a translated Citation section.
+
+    English puts Citation last; a translated page has to end with its connected lists, which the
+    heading gate enforces, so the twin carries the same section one place earlier. Its POSITION
+    therefore cannot be compared, and it is excluded from the heading count and the shape vectors
+    on both sides rather than being reported as a difference in structure.
+    """
+    return bool(CITATION_HEADING.match(heading_text.strip()))
+
+
+def section_shape(section):
+    """(prose blocks, bullet lines) for one H2 section.
+
+    Counting raw blank-line blocks made the check fragile to typography rather than structure: an
+    English page that runs a bullet straight on from the paragraph above holds both in one block,
+    while a translation that separates them properly counts two, and the translation was failed for
+    being formatted better. So a bullet-only block is folded into the block above it, leaving the
+    number of prose-anchored blocks, and bullet lines are counted separately. A dropped paragraph
+    still shifts the first number; a dropped bullet still shifts the second.
+    """
+    prose, bullets = 0, 0
+    for block in section.split('\n\n'):
+        if not block.strip():
+            continue
+        lines = [l for l in block.split('\n') if l.strip()]
+        is_bullet = lambda l: l.lstrip().startswith(('- ', '* ', '1. ', '+ '))
+        bullets += sum(1 for l in lines if is_bullet(l))
+        if not all(is_bullet(l) for l in lines):
+            prose += 1
+        elif prose == 0:
+            prose += 1
+    return (prose, bullets)
+
+
 def paragraph_counts(body):
-    return [len([p for p in s.split('\n\n') if p.strip()]) for s in h2_sections(body)]
+    return [section_shape(s) for s in h2_sections(body)]
 
 
 def connected_shape(body):
@@ -201,10 +242,21 @@ def check_pair(en_path, loc, collection, slug, body_changed=True):
             errors.append(f'{label}: carries bidi control mark U+{ord(mark):04X}')
             break
 
-    en_h2 = len(re.findall(r'^## ', en_body, re.M))
-    en_h3 = len(re.findall(r'^### ', en_body, re.M))
-    got_h2 = len(re.findall(r'^## ', body, re.M))
-    got_h3 = len(re.findall(r'^### ', body, re.M))
+    # A Citation section is excluded whole, text and heading alike. Removing only the heading line
+    # left its paragraphs inside the neighbouring section, which made a page that carries a
+    # citation look like a page with a merged section.
+    def drop_citation_sections(text):
+        parts = re.split(r'\n(?=## )', text)
+        keep = [x for x in parts
+                if not (x.startswith('## ') and is_citation_heading(x.split('\n', 1)[0][3:]))]
+        return '\n'.join(keep)
+
+    body_counted = drop_citation_sections(body)
+    en_counted = drop_citation_sections(en_body)
+    en_h2 = len(re.findall(r'^## ', en_counted, re.M))
+    en_h3 = len(re.findall(r'^### ', en_counted, re.M))
+    got_h2 = len(re.findall(r'^## ', body_counted, re.M))
+    got_h3 = len(re.findall(r'^### ', body_counted, re.M))
     if (got_h2, got_h3) != (en_h2, en_h3):
         msg = f'{label}: {got_h2} H2 and {got_h3} H3, English has {en_h2} and {en_h3}'
         (errors if current else warnings).append(msg)
@@ -217,7 +269,7 @@ def check_pair(en_path, loc, collection, slug, body_changed=True):
         msg = f'{label}: wikilink target multiset differs; missing={missing} extra={extra}'
         (errors if current else warnings).append(msg)
 
-    en_paras, got_paras = paragraph_counts(en_body), paragraph_counts(body)
+    en_paras, got_paras = paragraph_counts(en_counted), paragraph_counts(body_counted)
     if got_paras != en_paras:
         msg = f'{label}: paragraphs per section {got_paras}, English {en_paras}'
         (errors if current else warnings).append(msg)
