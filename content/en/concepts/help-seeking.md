@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-30T10:12:00-04:00"
+updated: "2026-10-30T10:50:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -100,6 +100,9 @@ In fully online [[english-education|composition]], availability of the tool is n
 
 **The trajectory of help-seeking predicts transfer, not just its level.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] coded 880 turns from 112 secondary students modeling mathematics problems with an LLM and found the static mix uninformative: 81.5% of turns were requests, only 2.2% explicit evaluation, and 54% of requests understanding-oriented against 46% answer-seeking. What predicted performance on a post-test taken without AI was the within-session slope — understanding-oriented help-seeking declined (M = −0.20) across the chat, and that trajectory added ΔR2 = .110 to a model already containing pre-test score (β = .34, p < .001) — while static interaction features added only ΔR2 = .023 (p = .684). Help-seeking quality therefore has to be read as a curve: a session that opens with conceptual questions and settles into answer requests is the pattern associated with weaker unaided performance, and a modest rise in explicit self-regulation (M = +0.103) did not offset it.
 
+
+**A second pipeline asks the same question from the infrastructure side.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] argue that a human-AI exchange is a data class of its own: their representation records the computational state that prompted the request, the request, the response, the user's assessment of it and the execution that followed, as one object. Queries are then classified as error recovery, stuck-next-step, conceptual help or validation from that context. In a 35-student JupyterLab deployment spanning 140 student-assignment pairs, plain interaction counts correlated with successfully executed cells at only r = 0.12, while 37 pairs had access and never used it and 26 used it outside their assigned condition.
+
 ## Implications for design and research
 
 1. **Design help-seeking affordances deliberately.** Persistent, salient help buttons can enable bypass strategies; delay access and structure delivery to support [[desirable-difficulties|productive struggle]].([[lak2026-hint-button-unproductive-use]])
@@ -136,6 +139,8 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
 
 ## Connected Articles
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Interactions as first-class data: classifying a query by the execution state around it
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Help-seeking trajectory, not its level, predicts unassisted math performance
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Hint length measured against next-submission correctness, attempts and time, in a live programming course
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — A helper agent nobody asked for (Humburg et al. 2025)

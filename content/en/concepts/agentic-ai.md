@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-25T17:35:00-04:00"
+updated: "2026-10-30T10:50:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -71,6 +71,9 @@ A step beyond orchestrating a few specialized agents is the **full agentic multi
 - **Participant-specific LLM agents for collaborative problem solving.** Fang (2026) fine-tunes individual LLM agents on real participants' dialogue data to represent each participant in collaborative problem solving simulations, with probabilistic speaker and thematic-code selection and sliding-window plus summarized memory. Validated with [[network-analysis|Epistemic Network Analysis]], the simulated dialogues are statistically indistinguishable from real ones (ENA distance 0.17, permutation p = 0.65) — a demonstration of agentic AI reproducing authentic collaborative discourse.
 - **Socially intelligent multi-agent tutoring.** Socially intelligent multi-agent tutoring prototypes such as ASTRA study how learners coordinate with AI in dyads, using differentiated Tutor and Facilitator agents to prompt coordination and balanced participation. The framework's trace-based evaluation enables reproducible analysis of interaction, participation balance, and verification in introductory programming.
 
+
+
+**An organizational answer: the learner as a participating member rather than a recipient.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instantiate a human-participatory multi-agent organization in which specialized agents maintain a revisable Capability Program linking personal goals, multimodal activities and layered assessment, with a correctable "Human Node" carrying the learner's own evidence and challenges into later revisions. Against the closest multi-agent baseline across 96 simulated learner cases, the advantage concentrated in assessment design: 19.32 points higher on Assessment Validity (95% CI [17.55, 21.04]) and 5.89 on capability coverage, while personalization did not separate (1.35 points, interval crossing zero). In a randomized 32-learner study the knowledge gain on an objective 50-point test was 12.19 against 5.61 points.
 
 ## The central tension: automation vs. learning
 
@@ -195,6 +198,8 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agents organized around a revisable capability program, with the learner as a member
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

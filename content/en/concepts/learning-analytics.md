@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-30T10:50:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -45,6 +45,9 @@ reviewed_by: [editor]
 - **A governance review framework for student data.** LEAGUE proposes six pillars — Lawfulness, Equity, Agency, Governance, Utility, and Ethics by Design — treating FERPA and GDPR compliance as the floor and recommending scheduled reassessment as models drift ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
 
 **Model course concurrency, not just sequence.** TRACE gives every course in a semester the same positional encoding, and jointly predicting courses and grades cut grade-prediction error to 0.1339 MAE — a 46.4% reduction over a grades-only transformer — on ten years of institutional data ([[trace-course-grade-prediction-2026|Savala (2026)]]).
+
+
+**Interaction data is a representation problem before it is a modeling one.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] treat each human-AI exchange as one structured record carrying the computation that motivated the request, the request, the response, the user's feedback and the execution that followed, rather than as an isolated prompt. Across 140 student-assignment pairs in a 35-student deployment, interaction count alone correlated with successfully executed cells at r = 0.12, and the same call could be an error recovery, a next step, a concept check or a validation depending on the state around it. Thirty-seven pairs with access produced no interactions at all, so absence of AI use in a log cannot be read as absence of need.
 
 ### The learning analytics cycle
 
@@ -129,6 +132,8 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[student-support-and-success]] — the support side that prediction feeds: referral, allocation, and the outcomes they do or do not move
 
 ## Connected Articles
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Human-AI exchanges as structured records: prompt counts carry almost no signal about progress
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Noticing and orchestrating AI analyses into collective argumentation (Lee, Park & Lee 2026)
 - [[factria-responsible-institutional-analytics-2026]] — Responsible Institutional Analytics: Interpreting Bias with AI Support
 

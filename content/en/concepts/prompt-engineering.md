@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-10-30T10:50:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -77,6 +77,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - **A usable taxonomy, and which prompt categories actually pay off.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] translate technical strategies into the 3K model (*Kontext, Kernauftrag, Klarheit* — context, core task, clarity): eleven practice-oriented categories, each with a good/average/suboptimal rubric, and each tested as an experimental variation on feedback generated for pre-service teachers' learning goals. Domain-specific technical language was the decisive category — replacing subject terminology with everyday paraphrases significantly reduced feedback quality across three models (β = −0.412) — while adding concrete examples and removing the chain-of-thought instruction produced no significant difference from the baseline in the first study; examples did help once the analysis was rerun with the best-performing model-prompt combinations (β = 0.52). Prompt quality and model choice together explained 42.8% of the variance in rated feedback quality, which is the paper's case that prompt engineering is a measurable and teachable competency rather than a stylistic preference — and that its categories are not interchangeable in effect size.
 - **Better prompts reduced iteration without raising output quality.** Teachers given AI training before a lesson-preparation experiment wrote longer, more detailed prompts that needed less refinement, while untrained teachers used shorter prompts and required more subsequent iterations, yet blinded expert ratings of the resulting materials were equal ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Prompt craft here bought fewer correction rounds, not a stronger first draft.
 
+- **Students name intent alignment as the difficulty, not syntax.** Surveying 234 Chinese university students, [[lei-fan-genai-prompting-strategies-2026|Fan and Liu (2026)]] found refinement after a poor output was the most endorsed capability (72.2%) while setting output constraints was the least (66.2%, with 22.2% neutral). Strategy preferences barely moved between a research assignment and a creative brief: of four matched pairs only output-format specification differed after correction (0.26 points, dz = 0.233, BH-adjusted p = .002). A fixed role-task-format template drew the weakest support of any general strategy at 59.4%. Among the 12.8% who answered an open question, prompt-intent alignment appeared in 40.0% of comments, and adding more detail did not reliably fix a stuck exchange. All of it is self-report from one questionnaire.
+
 ## Common Misconceptions
 
 - **"Prompt quality is a student attribute."** **Prompt cognition tracks the discipline, not the student**: [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified **60,087 prompts from 116 courses** and found the discipline predicted prompt sophistication. Teaching students to prompt better addresses a variation that sits in the subject matter.
@@ -101,6 +103,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+
+- [[lei-fan-genai-prompting-strategies-2026]] — 234 students on what they find hard: intent alignment, not prompt syntax
 - [[wang-teacher-student-centered-agents-physics-2026]] — Agent role and constraint prompts as the design variable in physics learning (Wang et al. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
