@@ -43,7 +43,7 @@ Sinteza [[ai-literacy|pismenosti u području umjetne inteligencije]] u bazi znan
 - **Temeljno razumijevanje** mogućnosti i ograničenja umjetne inteligencije.
 - **Praktična kompetentnost** u upotrebi alata s umjetnom inteligencijom.
 - **[[critical-thinking|Kritičko vrednovanje]]** točnosti, pristranosti, primjerenosti i nesigurnosti.
-- **[[ethics|Etička]] i institucionalna svijest** o pitanjima kao što su neporočnost, privatnost, [[equity-in-ai-education|ravnopravnost]] i [[governance|upravljanje]].
+- **[[ethics|Etička]] i institucionalna svijest** o pitanjima kao što su čestitost, privatnost, [[equity-in-ai-education|ravnopravnost]] i [[governance|upravljanje]].
 
 Za nastavnike te dimenzije trebaju pedagoški sloj na vrhu. Nastavno osoblje treba moći odlučiti koji kognitivni rad studenti moraju zadržati, odabrati upotrebe umjetne inteligencije koje služe ciljevima učenja, oblikovati valjane provjere u doba umjetne inteligencije, poučiti studente da provjeravaju i reguliraju vlastitu upotrebu, prepoznati [[hallucination-risk|halucinacije]], pretjerano oslanjanje i [[ai-sycophancy|ulizivanje]] te znati kada [[human-in-the-loop-ai|ljudska prosudba]] treba nadjačati automatizaciju.
 
@@ -87,7 +87,7 @@ Za osobu koja vodi razvoj osoblja to preokreće zahtjev. Odjel koji traži radio
 
 ## Napravite mjesta za odbijanje
 
-Usvajanje se opire isključivo tehničkom okviru, a otpor je često prosudba, a ne praznina. [[dai-genai-frenemy-teaching-autonomy-2026|Anketa među 287 nastavnika iz 27 zemalja]] dala je profinjeni model koji objašnjava **79,8% varijance** u bihevioralnoj namjeri. Doživljena umjetna [[agency|autonomija]] utjecala je na namjeru samo neizravno, preko korisnosti. **Izbjegavanje rizika bio je značajan negativni prediktor** (−0,163), a nastavnici su mnogo više brinuli o rizicima [[cognitive-offloading|pretjeranog oslanjanja]] i [[academic-integrity|neporočnosti]] kod studenata nego o vlastitoj upotrebi.
+Usvajanje se opire isključivo tehničkom okviru, a otpor je često prosudba, a ne praznina. [[dai-genai-frenemy-teaching-autonomy-2026|Anketa među 287 nastavnika iz 27 zemalja]] dala je profinjeni model koji objašnjava **79,8% varijance** u bihevioralnoj namjeri. Doživljena umjetna [[agency|autonomija]] utjecala je na namjeru samo neizravno, preko korisnosti. **Izbjegavanje rizika bio je značajan negativni prediktor** (−0,163), a nastavnici su mnogo više brinuli o rizicima [[cognitive-offloading|pretjeranog oslanjanja]] i [[academic-integrity|čestitosti]] kod studenata nego o vlastitoj upotrebi.
 
 [[ai-integrated-teaching-identity-tensions|Intervjui s dvoje iskusnih akademskih djelatnika]] opisuju kako ta briga izgleda iznutra: ponavljajuće **napetosti identiteta** između pedagogije i platforme, edukatora i facilitatora, skrbi i usklađenosti, kojima se upravlja načelnom selektivnošću utemeljenom u [[pedagogy|pedagoškim]] vrijednostima.
 

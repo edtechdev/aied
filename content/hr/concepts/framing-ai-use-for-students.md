@@ -130,4 +130,4 @@ Učenike uokviruju i širi mediji i javni diskurs o [[ai-education|umjetnoj inte
 - [[youtube-frames-chatgpt-education]] — Kako YouTube uokviruje upotrebu ChatGPT-a u obrazovanju
 - [[ai-ethics-education-public-discourse]] — Javni diskurs o etici umjetne inteligencije u obrazovanju
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Nastavnici uokviruju umjetnu inteligenciju kao kritičku i odgovornu upotrebu, a poslodavci kao produktivnost
-- [[ssaho-ai-academic-integrity-review-2025]] — Izgradnja kulture akademske neporočnosti kroz jasna očekivanja
+- [[ssaho-ai-academic-integrity-review-2025]] — Izgradnja kulture akademske čestitosti kroz jasna očekivanja

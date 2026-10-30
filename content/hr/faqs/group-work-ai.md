@@ -129,4 +129,4 @@ Otkrivanje vam može reći tko je što napravio. Nijedna od ovih studija ne test
 
 ## Kamo dalje
 
-[[group-work|Grupni rad]] i [[collaborative-learning|suradničko učenje]] nose temeljne dokaze o grupnoj procjeni i o tome što suradnju čini produktivnom. [[course-ai-policy|Politika kolegija o AI-ju]] pokriva formulacije na razini kolegija koje studenti doista čitaju, [[redesign-assessment-ai-era|Redizajn procjene u doba AI-ja]] pokriva redizajn procjene unutar kojeg ovo stoji, a [[academic-integrity|akademska neporočnost]] mjesto je na kojem se obrađuje strana nepoštenja.
+[[group-work|Grupni rad]] i [[collaborative-learning|suradničko učenje]] nose temeljne dokaze o grupnoj procjeni i o tome što suradnju čini produktivnom. [[course-ai-policy|Politika kolegija o AI-ju]] pokriva formulacije na razini kolegija koje studenti doista čitaju, [[redesign-assessment-ai-era|Redizajn procjene u doba AI-ja]] pokriva redizajn procjene unutar kojeg ovo stoji, a [[academic-integrity|akademska čestitost]] mjesto je na kojem se obrađuje strana nepoštenja.

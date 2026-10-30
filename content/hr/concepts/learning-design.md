@@ -93,7 +93,7 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 
 **Oblikujte za [[accessibility]] od početka.** Primijenite načela [[universal-design-for-learning|univerzalnog oblikovanja za učenje]] pri izgradnji alata i materijala koje stvara umjetna inteligencija kako bi služili raznolikim učenicima, umjesto da pristupačnost naknadno dograđujete.([[ludia-udl-ai-thought-partner-2026]])
 
-**Planirajte za medij isporuke.** Instruktivni dizajn za [[online-teaching-and-learning|poučavanje i učenje na mreži]] nije neutralan prijevod oblikovanja za rad uživo: medij mijenja to što je od postupnog skidanja potpore, procjene i interakcije izvedivo, a umjetna inteligencija umnožava i mogućnosti (prilagodljiva [[personalized-learning|personalizacija]], stalna dostupna podrška) i rizike ([[academic-integrity|akademska neporočnost]], [[cognitive-offloading|kognitivno rasterećenje]]) koje dizajneri moraju predvidjeti. Oblikujte pedagoški omotač umjetne inteligencije jednako namjerno na mreži kao i u izravnom kontaktu.
+**Planirajte za medij isporuke.** Instruktivni dizajn za [[online-teaching-and-learning|poučavanje i učenje na mreži]] nije neutralan prijevod oblikovanja za rad uživo: medij mijenja to što je od postupnog skidanja potpore, procjene i interakcije izvedivo, a umjetna inteligencija umnožava i mogućnosti (prilagodljiva [[personalized-learning|personalizacija]], stalna dostupna podrška) i rizike ([[academic-integrity|akademska čestitost]], [[cognitive-offloading|kognitivno rasterećenje]]) koje dizajneri moraju predvidjeti. Oblikujte pedagoški omotač umjetne inteligencije jednako namjerno na mreži kao i u izravnom kontaktu.
 
 **Evaluajte prema mjernom okviru, a ne prema osjećaju.** Ako gradite agenta za instruktivni dizajn, evaluajte ga prema standardiziranom mjernom okviru utemeljenom na teoriji (primjerice [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) kako biste mogli izmjeriti poboljšava li utemeljenje u stvarnom ISD okviru rezultat u odnosu na generički LLM.([[jeon-isd-agent-bench-2026]])
 
@@ -107,6 +107,7 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 - **„Planiranje lekcija s umjetnom inteligencijom vraća nastavnicima vrijeme.“** Vrijeme planiranja doista je palo, s 3,32 sata tjedno na 2,51 s alatom, ali **srednji nastavnik isplanirao je od početka samo 21% do 40% lekcija**. Vrijeme je ušteđeno, a planiranje nije postalo bitno temeljitije: ušteda se nakupljala, a nije se reinvestirala.
 - **„Suoblikovanje s umjetnom inteligencijom dobro je dokazano.“** Sustavni pregled [[wang-teacher-ai-co-design-review-2026|suoblikovanja zadataka učenja od strane nastavnika i umjetne inteligencije]] **potvrđuje obrazac u velikom opsegu kroz 28 studija**, što opisuje dosljednu praksu, ali ne pokazuje bolje ishode.
 - **„Rubrika je fiksni ulaz.“** Rubrika djeluje kao **posredujuće sučelje između ljudske pedagoške namjere i strojnog zaključivanja**: upravo tretiranje kriterija procjene kao **promjenjivih** omogućuje instrumentu da nosi namjeru edukatora. Fiksna rubrika prenosi zadani okvir stroja u procjenu.
+
 ## Povezani koncepti
 
 - [[interpreting-and-applying-aied-research]]
