@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-30T09:15:00-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -29,6 +29,10 @@ connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, camp
 AI in education is governed by a stack of instruments — national legislation, government guidance, institutional policies, departmental rules, and the statements teachers write into individual syllabi. They differ in legal force, in how often they are revised, and in who is expected to interpret them, but they share a problem: they are usually written after the technology they govern has already entered the classroom.
 
 The knowledge base's policy research documents that gap from both sides. Institutional policies lag behind actual AI use, and where rules exist they are often guidance rather than enforceable policy, written at the course level by individual instructors rather than at the institution. The same pattern appears in [[k-12]], where only a minority of schools report having a policy at all, and in professional programs, where advisory documents outnumber binding rules.
+
+The gap has a discursive form as well as an organizational one. [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] reads four UNESCO and OECD publications through Laclau's floating signifiers and finds that the shared governance vocabulary — responsibility, transparency, trust, authenticity, responsible use, augmentation — acquires normative force by repetition while never acquiring an operational definition. The OECD (2026) documents twenty-three countries and jurisdictions converging on that vocabulary while leaving its meaning to contextual interpretation, and the OECD (2023) reports that as of early 2024 none of eighteen surveyed countries had specific generative AI regulation in education, with nine delegating primary responsibility to the school level. The effect is Ahmed's non-performativity: commitments are made in modal language, without a mechanism through which they could be enacted or assessed, and responsibility is distributed across providers, institutions, teachers and learners until no single actor holds it.
+
+Hashem's practical conclusion is a shift from policy implementation to policy enactment, with institutions writing the disclosure, authorship and assessment boundaries the international texts leave open.
 
 This page treats policy as distinct from [[governance]]. A policy answers *what the rules are*; governance answers *who decides, and how the rules actually take effect*. Keeping the two apart matters because the research repeatedly shows policies failing not for want of content but for want of machinery — review cycles, professional development, appeal routes, and monitoring. The sections below set out the levels at which policy is made, the maturity gap that separates written rules from classroom practice, the assessment-policy questions that AI forces, and the governance structures that decide whether any of it holds.
 
@@ -140,6 +144,7 @@ The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-e
 
 ## Connected Articles
 
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — UNESCO and OECD texts share a governance vocabulary and no operational definitions; twenty-three jurisdictions converge without one
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Unit-level rules that students cannot reconcile

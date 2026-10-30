@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-10-30T09:15:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -158,6 +158,10 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] document the regime from inside one faculty: teachers who had changed assessment formats said it was "virtually impossible to say whether a student has used AI in the writing of assignments", while angry students asked for appeals to conscience and "shaming" rather than detection.
 - **Better sensing does not change what the assessment can certify.** A YOLOv11 pose-estimation proctoring system reporting 99.56% classification accuracy illustrates the limit of the detection route: it measures posture against a behavioral label, reports no ground truth on misconduct, and offers no subgroup analysis ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). The remedy Villanueva argues for is sufficient evidence of learning at key stages, not maximum surveillance of every submission.
 
+**Integrity language in international policy does not fix an operational meaning, and that is the finding rather than the gap.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] analyzed four UNESCO and OECD publications from 2023 to 2026 through critical discourse analysis and found eight recurring terms — responsibility, transparency, trust, human agency, originality, authenticity, responsible use and augmentation — carrying normative weight while shifting referent between documents. UNESCO holds providers responsible for core values and educators responsible for pedagogically appropriate interaction; the OECD relocates the same term into teachers' professional judgment.
+
+ The OECD (2023) records that as of early 2024 none of eighteen surveyed countries had specific generative AI regulation for education and nine had delegated governance to the school level. Read through Ahmed's non-performativity, the vocabulary expresses ethical responsiveness without any mechanism to enact it, so responsibility is invoked by every actor at once and located in none. Hashem names the result a changing **cheating habitus**: dispositions toward legitimate participation recalibrated under chronic indeterminacy, stratified by the academic capital students bring, with cheating and being cheated treated as concurrent conditions rather than alternatives. All of it is proposed from policy text, not observed in students.
+
 ## Common Misconceptions
 
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
@@ -188,6 +192,7 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 
 ## Connected Articles
 
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Four UNESCO and OECD documents read as discourse: floating signifiers, non-performativity and a changing cheating habitus
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
