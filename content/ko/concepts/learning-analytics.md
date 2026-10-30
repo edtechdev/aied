@@ -131,6 +131,7 @@ ai_assist:
 - [[self-report-measures]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — 예측이 공급하는 지원 측면: 의뢰, 배분, 그리고 그것이 움직이거나 움직이지 않는 결과
+
 ## 연결된 문서
 - [[factria-responsible-institutional-analytics-2026]] — 책임 있는 기관 분석: AI의 지원으로 편향 해석하기
 

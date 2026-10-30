@@ -69,6 +69,7 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 计算思维是[[ai-literacy]]与[[critical-thinking]]之下共享的认知基础，是[[cs-education]]与[[k-12]]计算课程的课程内核，也是[[educational-robotics]]、[[game-based-learning]]与[[project-based-learning]]最好应服务于的概念目标。当[[llm|大语言模型]]与[[generative-ai]]被用作支架工具时，它会加深CT；而学生迷思分类法与CT感知的评估所瞄准要测量的，正是这项技能。教师通过[[teacher-education]]与[[professional-training]]发展它，而它可在包括[[physics-education]]与广义[[stem-education|STEM]]在内的领域间迁移。
 
 - **计算思维预测与AI助手一同学习的能力。** 在AI编程助手课程中，[[computational-thinking-aica-2026|八年级学生]]中计算思维高的人显著优于低CT的同龄人，他们把助手用于理解而非获取答案。
+
 ## 常见误解
 
 - **"AI 让计算思维变得不再必要。"** [[chat-debugging-human-ai-collaboration-circuits|聊天式调试研究]]发现，当本科生借助 LLM 调试电路时，**限制因素是其基本概念与批判性思维的欠缺，而非工具本身**。计算思维正是让学习者评估产出而非接受产出的能力，也正是让 AI 辅助得以可用的那种能力。

@@ -48,6 +48,7 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 - **"Retrieval quality is the whole problem."** Retrieval is necessary and not sufficient. Grounded answering scored **9.05 of 10 with a bootstrap CI on the difference excluding zero** and was **more often grounded in the material the answerer actually saw (98% vs. 81%)** — so the measured gain is in fidelity to evidence, and the evidence has to be correct for that fidelity to mean anything.
 - **"Single-page retrieval generalises."** Both gaps **roughly tripled on questions requiring material from more than one page** (cross-page scores 9.93 against a lower baseline). Multi-document reasoning is where grounded systems degrade, and it is exactly where courses ask the hardest questions.
 - **"Retrieval removes the need for scrutiny."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single module's approved materials to serve students who hesitate to ask a person — a defensible scope. Narrow, approved corpora are what make the grounding meaningful; the label alone does not.
+
 ## Connected Concepts
 
 - [[llm]]

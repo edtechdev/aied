@@ -82,6 +82,7 @@ ai_assist:
 - [[equity-in-ai-education]]
 - [[digital-divide]]
 - [[parents-and-families]]
+
 ## المقالات المتصلة
 
 - [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism

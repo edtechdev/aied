@@ -88,6 +88,7 @@ El aprendizaje activo es una de las palancas más fuertes sobre las [[learning-g
 - **«La indagación apoyada por IA es automáticamente de orden superior.»** Un cuasiexperimento con **120 estudiantes de 8.º grado** encontró que el [[inquiry-based-learning|aprendizaje basado en la indagación]] apoyado por IA elevó el desempeño matemático creativo **y** una medida más estrecha: el tratamiento movió algunos resultados y no otros. Correlacionar con una etiqueta de orden superior no es lo mismo que una tarea de orden superior.
 - **«Que el estudiantado diseñe la enseñanza es un ejercicio técnico.»** En el estudio de la inversión, **345 estudiantes** de un curso con 700 estudiantes diseñaron cada uno un agente conversacional para enseñar tres patrones de diseño a un compañero. El aprendizaje activo vino del trabajo de diseño, que es razonamiento pedagógico y no ingeniería de prompts.
 - **«Los hallazgos sobre implicación son hallazgos sobre aprendizaje.»** La misma base de evidencia advierte de que un diseño **sin grupo de control y con muestra de voluntarios** solo permite sostener afirmaciones sobre la implicación. El estudiantado valoró la libertad de diseño abierta (**22,3%** como tema positivo principal) y se quejó sobre todo de la falta de claridad de las instrucciones (**23,7%**): ambas cosas son sobre la experiencia.
+
 ## Conceptos conectados
 
 - [[learning-gains]]

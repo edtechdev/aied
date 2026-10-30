@@ -110,6 +110,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - **"Universities have adopted binding AI policy."** Of **48 institutions**, **40 (83%)** had at least one publicly available document, and across those 40 **governance was realized mostly as guidance rather than binding** rule. Published guidance is not enforceable policy.
 - **"Policy is written student-first because students are the risk."** Most documents addressed **faculty and students together (20, 51%) rather than students alone (6, 15%)**, and neither policy type nor audience varied with delivery mode. The framing is joint, which means the obligations are shared.
 - **"Ambiguous policy leaves student experience untouched."** Policy ambiguity shows up in **student experience** directly: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|students' engagement with GenAI]] is shaped by the uncertainty, so ambiguity is an active condition rather than a neutral gap.
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[ai-use-disclosure]] — AI use and disclosure statements

@@ -118,6 +118,7 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — por qué quien aprende elige ocultar en lugar de divulgar
+
 ## Artículos conectados
 - [[fu-ai-label-authenticity-trust-generated-videos-2026] — Etiquetas de divulgación de IA, autenticidad percibida y confianza en vídeos instructivos generados por IA
 - [[wu-lam-genai-writing-assessment-professors-2026]] — La dirección inversa: decir al estudiantado cuándo la IA califica su trabajo y preguntar antes de subirlo

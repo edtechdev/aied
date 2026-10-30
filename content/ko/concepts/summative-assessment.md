@@ -55,6 +55,7 @@ ai_assist:
 - **폐쇄북, 감독 하의, 무보조 측정.** [[generative-ai-reduced-study-time-math|증거]]와 [[stromberg-generative-ai-learning-penalty-secondary-2026|대규모 현장 데이터]]는 학생들이 AI를 사용할 때 부풀려진 과제나 재택 과제가 아니라 감독 하의 폐쇄북 시험이 실제 학습의 신뢰할 만한 신호임을 보여줍니다. [[responsible-assessment-ai-era-stanford-2026|책임 있는 평가]] 틀은 이러한 무보조 측정을 타당도 기반 재설계 안에 내장합니다. 시험이 온라인으로 남는 곳에서는 [[remote-proctoring|원격 감독]]이 그 역할을 떠맡으며, 이 문서고의 자동 감독에 관한 두 편의 고찰은 탐지 성과와 더불어 프라이버시와 [[bias-mitigation|공정성]] 우려를 발견합니다([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
 
 - **취약한 과제를 확인하는 쌍둥이와 짝짓기.** [[roe-assessment-twins-2026|Roe, Perkins & Giray(2026)]]는 학습적 가치를 위해 GenAI에 취약한 과제를 유지하되, 같은 성취를 평가하는 두 번째 과제와 짝지어 확인 임계값이나 가중치를 통해 성적을 상호의존적으로 만들어 쌍둥이가 결과를 인증하게 합니다.
+
 ## 고부담 및 표준화된 총괄평가
 
 고부담 총괄평가 — 입학 시험, 표준화 시험, 자격 인증 — 는 지나치게 큰 결과를 수반하며 AI 시대 우려의 초점입니다. [[stromberg-generative-ai-learning-penalty-secondary-2026|생성형 AI 학습 페널티 연구]]는 고등학교(중카오)와 대학(가오카오) 입학 시험의 성과를 측정하여, 장기간 AI 사용 후 입학 시험 점수가 18–24% 하락했음을 발견했습니다. [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]]과 [[genai-performance-vs-learning|수행 대 학습 연구]]는 AI 지원 과제에서의 이득이 무보조 고부담 측정으로 전이되지 않는다고 경고합니다.

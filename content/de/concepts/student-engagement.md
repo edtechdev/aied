@@ -118,6 +118,7 @@ Studierendenengagement verbindet sich mit [[motivation]] und [[self-determinatio
 - [[stakeholders]] — Dachbegriff: Personen und Zielgruppen in der KI-Bildung (Lernende, Lehrkräfte, Gestaltende, Verwaltende, Politik)
 - [[self-report-measures]]
 - [[productive-failure]]
+
 ## Verbundene Artikel
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — KI-Feedback-Kompetenz und agentisches Engagement: ein Drei-Wellen-Panel mit zufälligem Intercept (Xu 2026)
 - [[rho-disengaged-conversational-behaviors-2026]] — Desengagiertes Konversationsverhalten und Lernen in Studierenden-KI-Dialogen (Rho et al. 2026)

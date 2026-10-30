@@ -72,6 +72,7 @@ PBL связан с [[active-learning]], [[experiential-learning]], [[collaborat
 - [[higher-ed]]
 - [[pedagogy]] — Зонтичное понятие: педагогики и стратегии преподавания в ИИ-образовании
 - [[arts-design-and-media-education]]
+
 ## Связанные статьи
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — проблемное и проектное обучение как многообещающие рамки для образования с поддержкой генеративного ИИ: возникающие свидетельства из систематического обзора и трёхуровневого метаанализа
 - [[pbl-structural-conditions-ai-2026]]

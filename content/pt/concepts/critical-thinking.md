@@ -93,6 +93,7 @@ O pensamento crítico se cruza com [[scaffolding]] (desenhar apoio de IA que man
 - **A verificação como atividade de aprendizagem, não apenas como salvaguarda.** [[pearls-epistemic-verification-2026|Wang (2026)]] organiza a avaliação de artefatos de IA em torno de seis dimensões interdependentes — Processo, Evidência, Acesso, Reprodutibilidade, Legitimidade e Fonte — e trata a montagem dessa garantia, e não a fluência da saída, como o que constrói expertise disciplinar.
 
 **A maior vulnerabilidade avaliada por especialistas na base de conhecimento é o pensamento crítico.** Ao longo de 65 processos de aprendizagem avaliados por 30 especialistas, Pensamento Crítico e Pensamento Crítico-Analítico receberam a maior nota de disrupção do relatório (média 4,00 de 5; 96% dos avaliadores em 3 ou acima), com a melhora abaixo do limiar (2,40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Dez dos dezoito processos de ordem superior alcançaram consenso apenas sobre vulnerabilidade, o que o relatório lê como risco unilateral, e não como trade-off.
+
 ## Conceitos conectados
 
 - [[metacognition]]

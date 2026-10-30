@@ -100,6 +100,7 @@ ai_assist:
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — 社会情動的学習
+
 ## 関連する記事
 - [[liu-ai-assistance-reduces-persistence-2026]] — 短時間のAI使用は、後の無支援問題における粘り強さを低下させた（Liuら、2026年）
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — 論証的ライティングへの自動フィードバック：中等教育の学生のフィードバック受容性とフィードバック知覚の役割

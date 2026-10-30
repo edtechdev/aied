@@ -91,6 +91,7 @@ Thapa ve Lewis’ın anlatısı kavramsaldır: katılımcı yok, veri toplama yo
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Bağlı makaleler
 - [[alam-process-oriented-collaborative-essays-2026]] — Birinci yıl lisans çıraklığında puanlanan, işbirliğiyle yazılmış süreç ödevi: rubrikte yineleme ve iş birliği, belirtilen sınırlar içinde GenAI’ye izin verilir (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performans öğrenme değildir: süreç ölçüleri üzerine kurulu bir araştırma gündemi (Yan ve ark. 2026)

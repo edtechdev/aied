@@ -149,6 +149,7 @@ This page is the *how a model is made* companion to [[llm]], which covers what l
 - **"The model is the main determinant of learning gains."** Model and prompt choice account for only **about 15%** of the gap between an LLM and student learning gains. Optimizing the remaining 85% is where the work is, and it is not in the weights.
 - **"A local model will underperform a hosted one, so retrieval is a lesser lever."** In a three-configuration evaluation, **retrieval, not the model, was the first-order design decision**: the local LLM with **no retrieval reached only 52.3% accuracy, below a TF-IDF baseline**. Adding retrieval moved the same model past a threshold no model swap was going to reach on its own.
 - **"More training data means better teaching behaviour."** The assessment fine-tune that improved formatting while worsening feedback generation is the counterexample in miniature: optimization against a similar-looking target can improve the proxy and degrade the thing you wanted.
+
 ## Connected Concepts
 
 - [[llm]] — what these models are; this page is how they are made

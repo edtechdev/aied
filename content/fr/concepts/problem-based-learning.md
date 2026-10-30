@@ -82,6 +82,7 @@ L'[[productive-failure|échec productif (PF)]] partage le noyau [[constructivist
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — Échec productif
+
 ## Articles liés
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données émergentes d'une revue systématique et d'une méta-analyse à trois niveaux
 

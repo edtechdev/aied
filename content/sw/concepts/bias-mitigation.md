@@ -113,6 +113,7 @@ Kupunguza upendeleo ni mbinu ya kiufundi ambayo [[equity-in-ai-education|Usawa]]
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Makala Zilizounganishwa
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Ulinganifu wa kielimu wa neuro-simboliki (NSPA)

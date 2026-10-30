@@ -101,6 +101,7 @@ ai_assist:
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — מדוע לומדים בוחרים להסתיר במקום לחשוף
+
 ## מאמרים מחוברים
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — מעבר לגילוי: כיצד סטודנטים משתמשים ומסתירים בינה מלאכותית בהערכות מקוונות
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — גילוי בינה מלאכותית של סטודנטים, סטיגמה, ולמידה עצמית מוסדרת

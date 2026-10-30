@@ -119,6 +119,7 @@ Favero et al.(2025)은 학생들이 질문 구조에 의존하게 되어 그것�
 3. 소크라테스식 AI를 [[becerra-aicofe-feedback-2026|동료 피드백]]과 결합해 사회적 증폭을 이룰 수 있는가?
 
 - **추론을 일으키기 위해 답을 삼키기.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]은 [[productive-failure|생산적 실패]] 교수법을 따르도록 LLM 튜터를 설계하여, 해법을 삼기고 여러 시도를 이끌어냅니다 — 꼭 필요할 때를 제외하고는 도움을 주지 않는 소크라테스식 거부입니다; [[wang-safety-gap-productive-struggle-2026|Wang & Shan(2026)]]은 건설적 인지적 마찰을 보존하는 소크라테스식·대립적 AI 구조를 권고합니다.
+
 ## 흔한 오해
 
 - **"소크라테스식 질문은 답이 없는 것일 뿐입니다."** 대규모 등록의 역학 입문 강좌(**1학년 [[stem-education|STEM]] 전공 150명**)에 배치된 맞춤형 소크라테스식 AI 챗봇은 **측정 가능한** 향상을 만들어냈으며, 그 설계는 구조화된 질문입니다. 침묵하는 모형이 아니라 제약된 상호작용입니다.
@@ -147,6 +148,7 @@ Favero et al.(2025)은 학생들이 질문 구조에 의존하게 되어 그것�
 - [[critical-thinking]]
 - [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
 - [[productive-failure]] — 생산적 실패
+
 ## 연결된 문서
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 2 x 2 대학원 설계 연구에서의 소크라테스적 대 지시적 피드백 양식
 

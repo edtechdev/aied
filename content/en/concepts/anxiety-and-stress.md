@@ -123,6 +123,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - **"AI anxiety is purely harmful."** This anxiety is **not purely negative**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**, with higher anxiety associated with more strategic regulation. Anxiety functions as a signal to scrutinize rather than only as a burden.
 - **"All anxious students respond the same way."** Kim's **four regulatory types — Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%** — show anxiety-driven scrutiny producing **four distinct** patterns. An intervention targeting "anxious students" misses that the largest single group is selectively integrating.
 - **"Anxiety always suppresses participation."** That reframing has a **boundary in speaking**: among **708 English learners**, the speaking-anxiety to willingness link ran **-0.371 at low speaking self-efficacy but +0.137 at high**. Anxiety can accompany willingness when self-efficacy is high, so the effect direction depends on confidence.
+
 ## Connected Concepts
 - [[career-development-and-readiness]] — career readiness as a protective factor against AI anxiety
 - [[well-being]] — the broad umbrella this concept develops in depth

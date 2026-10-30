@@ -108,6 +108,7 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 - **"Teachers' misconceptions are correctable by presenting evidence."** In a pilot with **123 Italian educators**, disagreement clustered hardest on **cognitive learning styles (78% of teachers defended visual/auditory matching)**, inclusion and group work (68%) and EdTech overload (54%). The strongest disagreements were the ones most resistant to evidence, which is why [[refutation-text|refutation]] beats assertion.
 - **"Teacher objections to evidence are all resistance."** When the same items were delivered through a conversational AI that **validated the teacher's context before re-introducing the evidence**, **41% of objections concerned real contextual constraints** — class size, special needs, curriculum demands. A substantial share of apparent misconception was accurate objection.
 - **"Misconceptions can be detected reliably from dialogue."** **Of 241 prompted segments, 221 (91.7%) were confirmed as strategic misconceptions by expert majority vote (Fleiss' κ = 0.9487)**, with **no significant differences** between groups. High reliability is achievable under expert adjudication, and that is the condition the claim depends on.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The conceptual-change sequences that confront a specific held belief

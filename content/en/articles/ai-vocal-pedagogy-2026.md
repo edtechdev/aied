@@ -42,6 +42,7 @@ The article organizes AI-assisted vocal pedagogy into three linked levels. *Tech
 - As a Perspective article it offers a conceptual framework rather than empirical data, so its claims rest on argument and synthesis of prior literature rather than tested outcomes.
 - The framework's three levels and three outcome criteria are proposed heuristics, not validated measures.
 - Its applicability across different vocal genres, pedagogical traditions and educational levels is asserted conceptually rather than demonstrated empirically.
+
 ## Citation
 
 Li, Y. (2026). [*Beyond output metrics: Reframing AI-assisted vocal pedagogy through human learning and educational value*](https://doi.org/10.3389/fpsyg.2026.1844841).

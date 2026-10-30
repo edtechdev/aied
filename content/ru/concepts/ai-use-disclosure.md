@@ -101,6 +101,7 @@ ai_assist:
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — почему учащиеся предпочитают скрывать, а не раскрывать
+
 ## Связанные статьи
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

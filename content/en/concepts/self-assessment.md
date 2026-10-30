@@ -70,6 +70,7 @@ The measurement face also shows up in evaluation design, where self-assessment i
 
 
 Measuring agency through post-task questionnaires and task-specific [[self-efficacy]] risks circular reasoning: the learner's estimate is read back as evidence of the capacity it is meant to indicate, and the alternative is dynamic analytics that track how self-assessment is used across successive cycles ([[self-directed-growth-generative-ai-learning-analytics|Mao (2025)]]).
+
 ## What generative AI changes
 
 The two faces converge under generative AI, because the tool attacks the link both of them rely on: that a learner's submitted work is evidence about the learner.

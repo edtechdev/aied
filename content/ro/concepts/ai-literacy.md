@@ -250,6 +250,7 @@ Pentru alfabetizarea critică în IA în special, [[solyst-youth-systematic-eval
 - [[higher-ed]] — alfabetizare la nivel universitar
 - [[career-development-and-readiness]] — câștigul de angajabilitate pe care alfabetizarea în IA este argumentată să-l construiască
 - [[ai-education]] — domeniul mai larg
+
 ## Articole conectate
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Modelarea copilăriei timpurii în era IA: competențe, pedagogie și sprijin ecologic (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Alfabetizare în securitatea IA: cadru de competențe bazat pe ecosistem și platformă de învățare K-12

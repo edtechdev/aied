@@ -124,6 +124,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - **"Students exercise agency when they use AI freely."** A **14-category scheme coding 6,788 ChatGPT-assisted turns** placed **59% of seventh graders' turns** into categories that do not represent agentic use. Usage volume and agency are different measures.
 - **"Current models support learner agency well."** **Benchmarked across ten models, supporting agency is where they do worst after learning**: ImpactBench measured **Agency and Purpose at 56.0%** on positive criteria. Agency is the dimension AI systems handle least well, not a by-product of capability.
 - **"Teacher mediation is a constraint on agency."** [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] followed **ten secondary mathematics teachers across an eight-week ChatGPT-4** intervention and the mediation is the mechanism rather than the obstacle.
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

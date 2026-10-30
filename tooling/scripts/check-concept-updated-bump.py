@@ -27,16 +27,25 @@ CONCEPTS = os.path.join(WIKI, 'content', 'en', 'concepts')
 
 UPDATED = re.compile(r"^updated:\s*['\"]?([^'\"\n]+)['\"]?\s*$", re.M)
 CONNECTED = re.compile(r'^##\s+Connected\s+(Concepts|Articles)\s*$', re.M)
+BLANK_LINES = re.compile(r'\n[ \t]*\n\s*')
 
 
 def narrative(text: str) -> str:
-    """Body above the first Connected section, with the frontmatter stripped."""
+    """Body above the first Connected section, with the frontmatter stripped.
+
+    Blank lines are collapsed first. Separating a heading from the paragraph above it
+    is typography, not narrative: a corpus-wide sweep that inserts the blank line
+    CommonMark expects would otherwise mark every concept page as edited and demand an
+    `updated` bump on all 222 of them, which would publish a false edit date across the
+    whole knowledge base and break the one thing this gate protects.
+    """
     if text.startswith('---'):
         parts = text.split('\n---', 1)
         if len(parts) == 2:
             text = parts[1]
     m = CONNECTED.search(text)
-    return (text[:m.start()] if m else text).strip()
+    body = text[:m.start()] if m else text
+    return BLANK_LINES.sub('\n', body).strip()
 
 
 def stamp(text: str) -> str | None:

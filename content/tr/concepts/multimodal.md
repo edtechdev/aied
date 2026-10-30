@@ -116,6 +116,7 @@ Pratik tasarım çıkarımı, çok kipli öğretimde bir **görsel temellendirme
 - [[virtual-and-augmented-reality]] — jest, ses ve uzamsal girdi öğrenme kanalları olarak
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Bağlı makaleler
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Eleştirel YZ okuryazarlığı pedagojisi olarak YZ etiği üzerine video PSA bestesi (Burriss ve ark. 2026)
 - [[student-attention-estimation-fairness-2026]] — Gerçek Zamanlı Öğrenci Dikkat Tahmini için Adillik Farkında Çok Kipli Transformer Modelleme

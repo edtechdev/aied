@@ -112,6 +112,7 @@ Ushirikiano wa binadamu–AI unahusiana na [[human-in-the-loop-ai]] (usimamizi),
 - [[human-in-the-loop-ai]] — usimamizi
 - [[agentic-ai]] — uhuru
 - [[productive-failure]]
+
 ## Makala Zilizounganishwa
 - [[bjet-many-hands-make-light-work-2026]] — Kazi ya jozi na mfumo wa mawakala wengi wa GenAI ilishinda mradi wa kubuni wakati ufahamu wa ufikiri mahususi ulipanda tu kwa wale waliofanya kazi peke yao (Chu et al. 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — HACC: uwezo wa ushirikiano kama usanidi unaobadilika wa taaluma, uwezo wa AI na uwezo wa metaji, na wakala wa mwanafunzi unaojitokeza (Dang et al. 2026)

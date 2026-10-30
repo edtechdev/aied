@@ -102,6 +102,7 @@ L'apprendimento adattivo è spesso confuso con l'[[personalized-learning|apprend
 - [[behaviorism]]
 - [[ai-technologies]] — Ombrello: tecnologie e tecniche di IA (modelli, addestramento LLM, robotica, RAG, agenticità)
 - [[recommender-systems-and-learning-paths]]
+
 ## Articoli collegati
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)

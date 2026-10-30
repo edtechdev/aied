@@ -95,6 +95,7 @@ ai_assist:
 - [[cognitive-offloading]] — الكمون وعدم الاستقرار كحمل دخيل
 - [[edtech-platform]] — التزامن والكمون والحضور متعدد المواقع
 - [[arts-design-and-media-education]]
+
 ## المقالات المرتبطة
 
 - [[genai-ar-physics-simulation-prompt-2026]] — مثير من أربعة عناصر يولّد محاكاة فيزياء AR يتحكم بها باليد؛ تجربة أولية بـ29 طالبًا، ودليل إدراكي فحسب

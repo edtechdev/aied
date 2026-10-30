@@ -101,6 +101,7 @@ ai_assist:
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — 사회정서 학습
+
 ## 연결된 문서
 - [[liu-ai-assistance-reduces-persistence-2026]] — 짧은 AI 사용이 이후 도움 없는 문제에서의 지속성을 줄였다 (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — 논증적 쓰기에 대한 자동화 피드백: 중등 학생의 피드백 수용성과 피드백 지각의 역할

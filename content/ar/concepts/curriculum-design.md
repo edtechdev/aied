@@ -112,6 +112,7 @@ ai_assist:
 - [[collaborative-learning]]
 - [[pedagogy]] — المظلة: البيداغوجيات واستراتيجيات التدريس في تعليم الذكاء الاصطناعي
 - [[recommender-systems-and-learning-paths]]
+
 ## مقالات مترابطة
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective

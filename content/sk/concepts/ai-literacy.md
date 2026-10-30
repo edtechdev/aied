@@ -245,6 +245,7 @@ Konkrétne pre kritickú AI gramotnosť [[solyst-youth-systematic-evaluation-gen
 - [[higher-ed]] — gramotnosť na univerzitnej úrovni
 - [[career-development-and-readiness]] — výplata zamestnateľnosti, ktorú sa tvrdí, že AI gramotnosť buduje
 - [[ai-education]] — širší odbor
+
 ## Prepojené články
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Formovanie raného detstva vo veku AI: kompetencie, pedagogika a ekologická podpora (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Bezpečnostná AI gramotnosť: ekosystémový rámec kompetencií a vzdelávacia platforma pre K-12

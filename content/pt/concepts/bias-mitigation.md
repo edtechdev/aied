@@ -113,6 +113,7 @@ A mitigação de viés é o mecanismo técnico pelo qual a [[equity-in-ai-educat
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Artigos conectados
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alinhamento pedagógico neuro-simbólico (NSPA)

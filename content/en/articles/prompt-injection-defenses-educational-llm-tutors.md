@@ -45,6 +45,7 @@ The paper highlights that **educational settings have unique requirements**: fal
 - Evaluation used an offline single-turn protocol, so the Layer 4 session-level behavioral heuristics register zero blocks by design and could not be measured directly.
 - It targets one deployment context, a programming tutor in English and Portuguese, leaving transfer to subjects such as math and science unverified.
 - No user-centric outcomes were measured (perceived helpfulness, trust, or learning gains) because no live student or educator study was run, and the robustness sweep covered only 10 seeds.
+
 ## Citation
 
 Maiorano, A. C. (2026). [Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs](https://arxiv.org/abs/2605.06669).

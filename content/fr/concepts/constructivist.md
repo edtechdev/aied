@@ -134,6 +134,7 @@ Le constructivisme façonne aussi la manière dont la littératie en IA elle-mê
 - [[chemistry-education]] — L'enseignement de la chimie et l'IA : travaux pratiques, évaluation formative, limites des LLM, philosophie de l'expérimentation
 - [[theory-development-aied]] — Le développement théorique en IA en éducation
 - [[productive-failure]]
+
 ## Articles liés
 - [[lee-learner-question-types-ai-education-2026]] — Les questions des apprenants classées en trois rôles constructivistes : transmetteur, facilitateur, co-apprenant (Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Positionne le constructionnisme (Papert) face aux tuteurs cognitifs dans l'histoire de l'AIED

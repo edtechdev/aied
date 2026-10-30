@@ -121,6 +121,7 @@ Bağlam koşullu kıyaslamalar gereklidir: [[zhang-tutormoments-2026|Zhang et al
 - [[hallucination-risk]] — Risk of fabricated content in AI outputs
 - [[intelligent-tutoring]] — Evaluating AI tutoring systems
 - [[agentic-ai]] — Evaluating autonomous AI agent behavior
+
 ## Bağlı makaleler
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What platform scores miss: multidimensional evaluation of AI teaching agents
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)

@@ -122,6 +122,7 @@ ai_assist:
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — 有效失败
+
 ## 关联文章
 
 - [[yan-agentivism-learning-theory-ai-2026]] — 一个面向人–AI 互动的中程学习理论，含四项机制与六个可检验命题（Yan 与 Gašević 2026）

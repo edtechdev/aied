@@ -118,6 +118,7 @@ ai_assist:
 - [[feedback]]
 - [[summative-assessment]] — הערכה מסכמת: פורמטים עמידים בבינה מלאכותית (בעל-פה, בפיקוח, בספרים סגורים)
 - [[arts-design-and-media-education]]
+
 ## מאמרים מחוברים
 
 - [[thapa-lewis-process-oriented-assessment-2026]] — הערכה ממוקדת-תהליך ואותנטיות אפיסטמית כמה שמשימה צריכה לאמת

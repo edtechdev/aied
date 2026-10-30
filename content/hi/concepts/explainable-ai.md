@@ -123,6 +123,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## संबंधित लेख
 - [[lund-socially-accountable-data-science-xai-2026]] — एक चार-स्तंभ ढाँचा (उत्तरदेयता, उत्तरदायित्व, प्रवर्तन, प्रतिवर्तन) जवाबदेही-अभ्यास के रूप में XAI पढ़ाने के लिए (लुंड एवं सहयोगी 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — शिक्षार्थी-केंद्रित ITS का संवेदन-संवेदी डिज़ाइन (सहयोगात्मक बनाम कच्ची व्याख्याएँ)

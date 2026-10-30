@@ -89,6 +89,7 @@ translation_note: "ترجمة آلية للصفحة الإنجليزية، لم 
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## مقالات مترابطة
 - [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)

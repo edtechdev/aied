@@ -76,6 +76,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **"Leaderboard position tells you how good a tutor is."** StudentBench **randomizes 2,383 adults across AI tutoring, live expert human tutoring and a video** condition and scores against human tutors rather than against other systems. A benchmark scaled to other models answers a question nobody needed answered.
 - **"Simulated personas are an adequate basis for tutor evaluation."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] grounds evaluation in **documented case literature rather than simulated personas**, using **923 dialogues**. Fabricated student personas let a system pass cases that do not occur.
 - **"Benchmarks can be trusted without checking the judge."** Hallucination was scored as **entailment against the retrieved open-license chunks (κ = 0.76 with expert judgment)** — the judge was validated against experts before its scores were used. An unvalidated automatic judge produces numbers of unknown meaning.
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]

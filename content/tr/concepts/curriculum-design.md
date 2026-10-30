@@ -112,6 +112,7 @@ Müfredat tasarımı [[learning-design]] ile doğrudan bağlantılıdır — mü
 - [[collaborative-learning]]
 - [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
 - [[recommender-systems-and-learning-paths]]
+
 ## Bağlı makaleler
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Üretken YZ ile yapıcı hizalama rehberliğinin eleştirel söylem analizi (McInnes ve ark. 2026)
 - [[icet-ml-education-trust-2026]] — Eğitim yoluyla YZ sistemlerinde güveni ele almak: didaktik bir perspektif

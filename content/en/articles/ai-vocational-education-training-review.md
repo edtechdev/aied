@@ -51,6 +51,7 @@ The review documents a notable paradox: constructivist theories are espoused in 
 - The database-dependent search may underrepresent regions with distinct publication cultures, partly explaining the Asia/Europe concentration.
 - The use of Elicit as an AI-assisted discovery tool constrains full reproducibility, because retrieved outcomes depend on probabilistic ranking mechanisms and database coverage changes.
 - The heterogeneity of included studies and frequent lack of transparency about AI implementations and instructional designs required interpretive judgment in coding, despite double-coding and consensus-based resolution of discrepancies.
+
 ## Citation
 
 Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S., Danek, A. H., Greiff, S., Rausch, A., Seeber, S., Seifried, J., & Winther, E. (2026). [*Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness*](https://doi.org/10.1016/j.caeai.2026.100628).

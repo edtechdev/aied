@@ -79,6 +79,7 @@ A autoeficácia se conecta à [[motivation|motivação]], à [[self-regulated-le
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Aprendizagem socioemocional
+
 ## Artigos conectados
 - [[confident-but-absent-ai-use-absenteeism-2026]] — O uso geral da IA acompanhou maior autoeficácia e maior absenteísmo, mas a autoeficácia não previu a frequência (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbots de IA no ensino superior: comparando expectativas a evidências (Thoeni & Fryer 2026)

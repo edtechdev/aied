@@ -108,6 +108,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - **"The scoring criterion is a technicality."** Strict match scored the same 2,250 tutoring dialogues at **42.1%** where a human-calibrated LLM-as-judge scored **81.3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — the criterion moves the number more than the tutor model, the strategy or the pipeline does.
 - **"Recognition and generation are comparable capabilities."** **Recognition is not generation.** On TutorCaseBench, the best of **11 models** picked a documented strategy on **63.0% of four-option items** but satisfied a documented implementation criterion far less often. Selecting the right answer among four and producing it are different tasks.
 - **"Model scores are meaningful without a validated instrument."** Course-tailored exams were generated for **71 classes** and benchmarked against human-authored AP Statistics items with a **Bayesian hierarchical 2PL** model — the instrument was fitted before the scores were interpreted.
+
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]
@@ -128,6 +129,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[hallucination-risk]] — Risk of fabricated content in AI outputs
 - [[intelligent-tutoring]] — Evaluating AI tutoring systems
 - [[agentic-ai]] — Evaluating autonomous AI agent behavior
+
 ## Connected Articles
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos

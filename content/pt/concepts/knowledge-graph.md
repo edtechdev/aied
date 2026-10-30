@@ -77,6 +77,7 @@ Grafos de conhecimento conectam-se a [[learning-design|desenho de aprendizagem]]
 - [[agentic-ai]]
 - [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentes)
 - [[recommender-systems-and-learning-paths]]
+
 ## Artigos conectados
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Um grafo construído por curador de 1.455 axiomas literários com uma auditoria estrutural e nenhum registro de proveniência (Liu & Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modelo de conhecimento híbrido em camadas baseado em ontologia para e-learning personalizado

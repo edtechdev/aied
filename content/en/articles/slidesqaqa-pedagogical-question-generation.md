@@ -15,6 +15,7 @@ sources: ['raw/papers/slidesqaqa-pedagogical-question-generation.md']
 ---
 
 > **Synthesis:** SlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage [[llm]] pipeline: **window planning** (segment extraction), **deck synthesis** (cross-slide reasoning), **slide annotation** (per-slide question generation), and **reconciliation** (deck-level revision to reduce redundancy and improve coverage). The key innovation is joint reasoning about slide modality and [[pedagogy|pedagogical]] role, with a bounded question budget that forces prioritization of important content.
+
 ## How It Works
 
 Unlike earlier [[automated-question-generation]] systems that generate questions slide-by-slide in isolation, SlidesQAQA reasons across the entire presentation. This enables **deck-level scaffolding** — questions build on each other across the slide sequence, matching the intended instructional flow. The reconciliation stage filters non-instructional slides and revises draft annotations to eliminate redundancy, producing structured JSON output with deck-level goals, section structure, slide summaries, question sets, and evaluation scores.

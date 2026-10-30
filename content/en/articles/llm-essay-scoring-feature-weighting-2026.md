@@ -36,5 +36,6 @@ page_kind: [evaluation]
 - The corpus comprised 505 exam-oriented essays from Grade 11 students in a single Chinese province, restricting generalizability across proficiency levels, genres, and cultural contexts.
 - The writing task was short and narrowly defined by standardized examination purposes, which may amplify task completion and surface linguistic form while limiting observable variation in organization and cohesive device use.
 - The sample size is moderate, which the authors state limits statistical power for finer subgroup analyses and robustness checks, and the linear models used may oversimplify complex judgment.
+
 ## Citation
 Wang, M., Chen, Y., Huang, X., & Lai, Y. (2026). [Opening the blackbox of LLM-based automated essay scoring: Insights into feature weighting patterns and score validity](https://doi.org/10.1016/j.caeai.2026.100568). *Computers and Education: Artificial Intelligence, 10*, 100568.

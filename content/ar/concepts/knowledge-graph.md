@@ -76,6 +76,7 @@ ai_assist:
 - [[agentic-ai]]
 - [[ai-technologies]] — مظلة: تقنيات الذكاء الاصطناعي والأساليب (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتات، والتوليد المعزَّز بالاستدعاء، والأنظمة الوكيلية)
 - [[recommender-systems-and-learning-paths]]
+
 ## المقالات المتصلة
 
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — مخطّط مبني بمشرفين من 1,455 بديهية أدبية مع تدقيق بنيوي وبلا سجل مصدر (Liu & Zhao 2026)

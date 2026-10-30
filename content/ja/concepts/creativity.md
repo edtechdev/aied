@@ -100,6 +100,7 @@ ai_assist:
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## 関連記事
 - [[bicer-genai-pd-math-creativity-2026]] — 生成AI誘導の専門職能開発が教員の数学的創造性、内容知識、教育学的内容知識への関与をどう支援するか
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 文学的創造のための公理基盤型スキャフォールディング：主題とテキストの間の単位としての前提、計画段階でのみ検証（Liu & Zhao 2026）

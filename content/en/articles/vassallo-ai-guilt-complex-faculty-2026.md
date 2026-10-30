@@ -57,12 +57,14 @@ Five reconciliation strategies appeared: tool framing, comparing AI to calculato
 - **Academic development programs.** Treat guilt and identity concern as normal transitional responses rather than faults to correct: a temporal trajectory in which remembered guilt diminished with continued use runs through the open-ended responses.
 - **Mentors and senior colleagues.** Consider mentorship by senior academics who have integrated AI, because guilt fell with career stage (early-career M = 2.71, mid-career M = 2.50, senior M = 2.03; the early-to-senior difference was 0.68, p = .037) and falls hardest on those facing the greatest professional pressure.
 - **Individuals weighing AI use.** Structure low-stakes experimentation as the route through anticipatory anxiety, since the guilt paradox suggests discomfort fades with use rather than before it.
+
 ## Limitations
 
 - The 3.5% response rate (109 of about 3,100 academic staff) means the findings describe a self-selected minority willing to engage with questions about [[anxiety-and-stress|AI and moral emotions]]; the 2,991 non-respondents are discussed as a contextual signal about the state of ethical debate rather than as a comparison group.
 - The cross-sectional design prevents causal inference, so guilt preventing adoption cannot be separated from low adoption sustaining guilt, which is the ambiguity at the center of the guilt paradox.
 - The setting is a single institution in a single country, which limits transferability, although patterns were consistent across disciplines within the sample; longitudinal, multi-institutional and cross-cultural validation are named as priorities.
 - The AI Guilt Index is new, so convergent and discriminant validity remain untested despite its internal consistency (α = 0.88), and the four profiles are heuristic categories rather than stable typologies; all results are framed as hypothesis-generating.
+
 ## Citation
 
 Vassallo, D. (2026). [*The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption*](https://doi.org/10.1007/s10805-026-09726-3). *Journal of Academic Ethics*, 24, 53.

@@ -245,6 +245,7 @@ AI لیٹریسی overreliance کے لیے **دو دھاری والی** ہے: [[
 - [[higher-ed]] — جامعہ سطح کی لیٹریسی
 - [[career-development-and-readiness]] — وہ employability فائدہ جس کی AI لیٹریسی بناتی ہے
 - [[ai-education]] — وسیع میدان
+
 ## منسلک مضامین
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI کے دور میں ابتدائی بچپن کی تشکیل: قابلیتیں، تدریس اور ماحولیاتی سہارا (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI سیکیورٹی لیٹریسی: ماحولیاتی نظام پر مبنی قابلیتی فریم ورک اور K-12 لرننگ پلیٹ فارم

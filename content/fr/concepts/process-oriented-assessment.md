@@ -93,6 +93,7 @@ Le récit de Thapa et Lewis est conceptuel : ni participants, ni collecte de don
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Articles liés
 - [[alam-process-oriented-collaborative-essays-2026]] — Une dissertation de processus collaboratif notée dans un apprentissage en alternance de première année de licence : itération et collaboration dans la grille, IA générative autorisée dans des limites énoncées (Alam et Jackson 2026)
 - [[genai-performance-vs-learning]] — la performance n'est pas l'apprentissage : un agenda de recherche bâti sur des mesures de processus (Yan et coll. 2026)

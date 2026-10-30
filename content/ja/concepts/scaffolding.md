@@ -117,6 +117,7 @@ ai_assist:
 - [[pedagogy]] — 包括的概念。教育におけるAIの教授法と教育の戦略
 - [[agentic-ai]]
 - [[productive-failure]] — 生産的な失敗
+
 ## 関連する記事
 - [[kumar-genai-computing-education-systematic-review-2026]] — 検証を執行する機構としての足場の撤回(VIEの枠組み)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のための足場かけ指向のマルチエージェント大規模言語モデルシステムの評価

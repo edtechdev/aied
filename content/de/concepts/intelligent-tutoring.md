@@ -155,6 +155,7 @@ Wirksames Tutoring erfordert fortlaufende Anpassung: [[zhang-tutormoments-2026|Z
 - **Mit den Werten der lernenden Person gestalten, nicht nur für Lernendenleistung.** [[ko-hughes-vsd-student-centered-its-2026|Value-Sensitive-Design-Arbeit]] mit Studierenden und Dozierenden an Community-College-Entwicklungsmathematik zeigt, dass die [[ethics|ethischen]] Dimensionen von ITS nicht abtrennbare Zusätze sind: die direkte Einbeziehung von Studierenden und Dozierenden produzierte 16 wertausgerichtete Merkmale über [[explainable-ai|Erklärbarkeit]] (Interpretation von Verständnisprüfungen, Verbindung von Lernpfaden, Kommunikation der Konfidenz des Modells), [[human-in-the-loop-ai|Kontrolle durch die lernende Person]] (Kontrolle über Neubewertung, Review, Tempo und KI-Unterstützungsniveau) und [[privacy|Datenschutz]] (Kontrolle über Zweckänderung von Daten, Erlaubnis-Prompts zum Teilen von [[learning-analytics|Learning Analytics]] und [[affective-computing|affektiven]] Zuständen). Die Studie rahmt eine persistente Designspannung – [[agency|Handlungsfähigkeit der Studierenden]] gegenüber systemgeführtem Scaffolding – und hält fest, dass die meisten Einrichtungen adaptives Tutoring vollständig deaktivieren, deshalb hängt wertinformiertes Design auch davon ab, wie (und ob) ITS-KI-Fähigkeiten tatsächlich eingesetzt werden.
 
 - **Lehrbare Agenten und die Klassifikation von desengagiertem Dialog:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] betrieben einen lehrbaren GPT-4-Turbo-Agenten in Math Nation (Algebra und Geometrie), wo Studierende identifizierten, welche von zwei ausgearbeiteten Lösungen ein Missverständnis enthielt, die Korrektur begründeten und den Agenten lehrten — eine [[learning-by-teaching|Lernen durch Lehren]]-Struktur mit einem separaten Mentor-Agenten, der die Qualität der Erklärung bewertete. Über 6.933 geöffnete Aufgaben und 22.143 protokollierte Interaktionen bauten sie einen sechskategorigen Klassifikator für konversationelles Desengagement (Human-in-the-loop: 1.682 annotierte Äußerungen, feinabgestimmtes LLaMA 3, gewichtetes F1 = 0,910, Modell-gegen-Mensch κ = 0,624) und nutzten ihn, um 246 Mittelstufenstudierende zu untersuchen. Der methodische Beitrag ist so wichtig wie der Befund: Wenn ein Klassifikator den größten Teil des Korpus markiert, müssen Prävalenzergebnisse gegen die menschlich annotierte Teilmenge belastungsgeprüft werden —, und hier verflüchtigte sich die Überschriftenassoziation (False Answering und Mocking sagen höhere Post-Test-Werte vorher) unter genau diesem Test.
+
 ## Verbundene Konzepte
 - [[scaffolding]]
 - [[adaptive-learning]]
@@ -176,6 +177,7 @@ Wirksames Tutoring erfordert fortlaufende Anpassung: [[zhang-tutormoments-2026|Z
 - [[guardrails]]
 - [[k-12]]
 - [[speech-and-voice-technologies]]
+
 ## Verbundene Artikel
 - [[ai-proof-learning-cognitive-offloading-2026]] — Das Argumentieren der Studierenden unterstützen oder ersetzen? Kognitive Entlastung im KI-gestützten Beweislernen (Chen et al. 2026)
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: Bewertung von LLM-Tutoren an Studierenden mit herausforderndem Verhalten (Park et al. 2026)

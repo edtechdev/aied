@@ -143,6 +143,7 @@ ai_assist:
 - [[stakeholders]] — 包括概念：AI 教育における人々と受け手（学習者、教師、設計者、管理者、政策立案者）
 - [[self-report-measures]]
 - [[productive-failure]]
+
 ## 関連記事
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI フィードバック・リテラシーとエージェント的な関与：三波のランダム切片パネル（Xu 2026）
 - [[assigned-ai-preclass-student-engagement-2026]] — 音声ベースの AI の授業前の練習は自発的な授業への貢献をおよそ 31% 高めたが、二回目の利用の後に限られる（Wang et al. 2026）

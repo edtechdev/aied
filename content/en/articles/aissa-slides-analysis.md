@@ -15,6 +15,7 @@ page_kind: [evaluation]
 ---
 
 > **Synthesis:** A web-based system that uses [[llm|LLMs]] and [[learning-analytics|Learning Analytics]] dashboards to provide [[automated-assessment|automated, rubric-based feedback]] on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely [[formative-assessment|formative feedback]] in large university courses.
+
 ## Key Findings
 1. AISSA combines [[llm|LLMs]] (ChatGPT 5.2) with [[learning-analytics|Learning Analytics]] dashboards to deliver [[automated-assessment|rubric-based scoring]] and structured [[feedback]] on presentation slides before students present.
 2. In a pilot with 46 final-year undergraduate students, AISSA reliably processed 90 presentations with end-to-end times of roughly 1–3 minutes per submission and no extraction or JSON-output errors.

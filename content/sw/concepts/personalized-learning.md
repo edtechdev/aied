@@ -124,6 +124,7 @@ Tatizo linalojirudia ni kuwa "kujifunza kwa ubinafsi" ni istilahi mpana ya bega 
 - [[higher-ed]] — Muktadha wa elimu ya juu kwa ubinafsishaji
 - [[online-teaching-and-learning]] — Kufundisha na Kujifunza Mtandaoni
 - [[recommender-systems-and-learning-paths]]
+
 ## Makala Zilizounganishwa
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Uzalishaji upya wa video za mhadhara zilizobinafsishwa kwa sekta kutoka kwa nakala ya msingi: kurekebishwa kwa hadhira, kukadiriwa na wataalam wa kikoa (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Ubinafsishaji mdogo kwa uhandisi wa ilani wa msaidizi wa kufundisha wa AI (Basu, Kakar & Goel 2026)

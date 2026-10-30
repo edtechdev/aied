@@ -131,6 +131,7 @@ Ako AI preberá rutinné inštrukčné a hodnotiace úlohy, osobitný prínos u�
 - **Podporte inštitucionálnu vrstvu:** udržateľná kompetencia učiteľa vyžaduje zladenú politiku, riadenie a kapacitu, a nie izolovaný tréning.
 
 - **Digitálna kompetencia učiteľa pre [[curriculum-design|návrh kurikula]] s GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validujú diagnostický nástroj založený na TAM so 434 učiteľmi v praxi; behaviorálny zámer bol hlavným prediktorom digitálnej kompetencie pre používanie GenAI v plánovaní kurikula, so sebaúčinnosťou ako koreňovým hýbateľom.
+
 ### Psychometrický nástroj pre AI kompetenciu učiteľa
 
 - Psychometrická štúdia vyvinula Škálu AI gramotnosti učiteľov (TAILS) na meranie AI gramotnosti špecificky v [[teacher-education|vzdelávaní učiteľov jazykov]], operacionalizujúc šesť dimenzií rámca ED-AI. Vývoj nástroja vypĺňa medzeru v hodnoteniach, ktoré cielia na študentov alebo bežných používateľov, a podporuje meranie AI kompetencie učiteľa.
@@ -142,6 +143,7 @@ Oblasť nástrojov bola odvtedy preskúmaná. [[assessing-teachers-ai-literacy-m
 - **„Tréning promptovania robí materiály učiteľov lepšími."** **Tréning promptovania kupuje čas, nie lepšie materiály**: v **preregistrovanom RCT so 204 učiteľmi** Appel, Fervers a Piepenburg (2026) zistili, že ChatGPT zlepšil **strávený čas**, zatiaľ čo kvalita materiálov nenasledovala. Prínos efektívnosti je skutočný a nie je to prínos kvality.
 - **„Keď učitelia konfigurujú chatbota, zlyhaním je faktická chyba."** **Keď učitelia konfigurujú chatbota v prirodzenom jazyku, dominantným zlyhaním je stratený zámer, a nie nesprávne fakty** - boti **preskočia** krok, ktorý učiteľ zamýšľal. Dodržiavanie inštrukcií zlyháva štrukturálne, a nie fakticky.
 - **„Technická zručnosť je rozhodujúca vrstva."** **Pedagogické vedomosti sú rozhodujúca vrstva**: medziúrovňová štúdia [[ai-education|vzdelávania o AI]] na stredných školách [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen a spol., 2026]]. Kompetencia, ktorá určuje výsledok, je tá, do ktorej väčšina tréningových programov investuje najmenej.
+
 ## Prepojené koncepty
 
 - [[ai-literacy]]

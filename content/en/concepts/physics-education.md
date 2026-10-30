@@ -92,6 +92,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - **"Students trust AI enough to rely on it uncritically."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] found a **50-point trust-utility gap**: **91% use AI for coursework but only 41% trust it**. Widespread use coexists with low trust, so an intervention aimed at building enthusiasm addresses the wrong variable.
 - **"Physics students are one population."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] developed a two-profile typology from **1,189 survey responses**: **70% "Pragmatic Users" and 30% "Skeptical Non-Users"**. A single classroom policy has to serve two groups with opposite stances.
 - **"The gap between use and trust is irrational."** The two figures measure different things — whether the tool helps you finish work, and whether you believe it does so correctly. Students are distinguishing utility from reliability, which is the analytically correct distinction and not a contradiction.
+
 ## Connected Concepts
 
 - [[stem-education]]

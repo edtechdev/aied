@@ -88,6 +88,7 @@ Motisha ni dhana ya mzazi ya [[self-determination-theory]], ambayo inabainisha m
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Kujifunza Kihisia-Kijamii
+
 ## Makala Zilizounganishwa
 - [[liu-ai-assistance-reduces-persistence-2026]] — Matumizi ya AI ya muda mfupi yalipunguza uvumilivu katika matatizo ya baadaye bila msaada (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Maoni otomatiki kwenye uandishi wa hoja: jukumu la upokeaji wa maoni na mtazamo wa maoni wa wanafunzi wa sekondari

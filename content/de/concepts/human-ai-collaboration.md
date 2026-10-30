@@ -116,6 +116,7 @@ Mensch-KI-Zusammenarbeit verbindet sich mit [[human-in-the-loop-ai|Mensch in der
 - [[human-in-the-loop-ai]] — Aufsicht
 - [[agentic-ai]] — Autonomie
 - [[productive-failure]]
+
 ## Verbundene Artikel
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Drei Agentenrollen in einem narrativen naturwissenschaftlichen Lernspiel und das Evaluationskriterium, das jede braucht (Humburg et al. 2025)
 - [[bjet-many-hands-make-light-work-2026]] — Paar-Arbeit mit einem GenAI-Multi-Agenten-System gewann das Designprojekt, während Bewusstsein für kritisches Denken nur bei Alleinarbeitenden stieg (Chu et al. 2026)

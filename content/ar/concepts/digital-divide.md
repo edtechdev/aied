@@ -85,6 +85,7 @@ ai_assist:
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## المقالات المتصلة
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — البنى المؤسسية واللامساواة الرقمية وإدماج الذكاء الاصطناعي في التعليم العالي النيجيري
 - [[ai-divide-ses-personality-primary-education-2026]] — الحالة الاقتصادية والاجتماعية والشخصية وفجوات الذكاء الاصطناعي في التعليم الابتدائي (Wang وآخرون 2026)

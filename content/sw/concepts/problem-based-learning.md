@@ -81,6 +81,7 @@ Kwa sababu PBL inaweka mbele mchakato, ushirikiano, na ufahamu ulioonyeshwa zaid
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — Kushindwa kwa Tija
+
 ## Makala Zilizounganishwa
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Kujifunza kulingana na matatizo na kwa msingi wa mradi kama miundo yenye matumaini kwa elimu inayoungwa na generative AI: ushahidi unaoibuka kutoka mapitio ya kimfumo na meta-analysis ya viwango vitatu
 

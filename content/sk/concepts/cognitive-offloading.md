@@ -170,6 +170,7 @@ Tá istá logika premieňa formovanie odmien na návrhový nástroj: [[assistanc
 - **"Objem promptov meria odľahčenie."** **97 študentov** bolo zhlukovaných podľa objemu promptov a **objemové zhluky sa významne neodlišovali v lokálnom verzus globálnom ani v aktívnom rolovom promptovaní**. Počítanie promptov počítalo aktivitu, a nie rozdelenie kognitívnej práce.
 - **"Študenti používajú AI hlavne na porozumenie."** **Analyzovať viedlo distribúciu s 27,28 % (831 správ) pred Porozumieť s 23,76 %**, čo je prvý jemnozrnný dôkaz, že naturalistická [interakcia študenta s AI] sa prikláňa k analytickému a nie k porozumenie orientovanému používaniu.
 - **"Stopy promptov odhalia, či k odľahčeniu došlo."** To, čo stopy na úrovni promptov nedokážu poskytnúť, prináša **podvzorka 16 študentov s prepojenými známkami, ktorých 1 140 správ bolo kódovaných ručne**: **49,6 % zo 125 dialógov nevykazovalo žiadne odľahčenie**. Vzorce stôp preceňujú odľahčenie v porovnaní s ručne kódovaným dialógom.
+
 ## Prepojené koncepty
 
 - [[pedagogical-patterns]] - Riziko, ktorému sa každá sekvencia s úsilím na prvom mieste snaží vyhnúť

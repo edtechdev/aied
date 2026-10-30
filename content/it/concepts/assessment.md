@@ -90,6 +90,7 @@ Una proposta in questa letteratura spinge oltre la riprogettazione dentro il qua
 - **Le pratiche innovative possono affrontare molteplici problemi allo stesso tempo.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] sostengono che un insieme di cinque pratiche che si rafforzano reciprocamente — [[authentic-assessment|valutazione autentica]], auto- e [[peer-assessment|valutazione tra pari]], rivalutazione, [[mastery-learning|valutazione basata su standard]], e ungrading — allineate con il paradigma della "valutazione per l'apprendimento" può controbilanciare i danni della valutazione tradizionale, pesantemente sommativa e norm-referenziata (apprendimento superficiale, [[motivation|motivazione intrinseca]] erosa, stress e ansia, iniquità, e [[academic-integrity|integrità]] compromessa) nell'era dell'IA generativa. Trovano che l'adozione è diseguale tra i campi — l'auto- e la valutazione tra pari dominano mentre le innovazioni focalizzate sulla valutazione restano marginali — e sollecitano gli educatori a impegnarsi più attivamente e reciprocamente con l'innovazione nella valutazione e nel grading, sostenuta da sperimentazione incrementale e supporto [[governance|istituzionale]].
 
 - **La valutazione mediata dall'IA si sta diversificando.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] mostra che un [[conversational-ai|agente conversazionale]] aumentato con LLM ha ridotto l'ansia degli studenti durante le valutazioni basate sulla performance; [[asynchronous-oral-assessment-2026|Pentland (2026)]] trova che le valutazioni orali asincrone offrivano un impegno più alto ed erano percepite come professionalmente rilevanti; gli [[graph-its-adaptive-algorithms-2026|ITS basati su grafo]] usano il tracciamento adattivo dello stato di conoscenza per informare la valutazione.
+
 ## Concetti collegati
 - [[learners]] — Discenti: l'ombrello per i concetti lato discente
 - [[pedagogical-partnerships]] — Partnership pedagogiche
@@ -113,6 +114,7 @@ Una proposta in questa letteratura spinge oltre la riprogettazione dentro il qua
 - [[eportfolio]] — Valutazione con e-portfolio basata sul processo
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Articoli collegati
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Un programma di un anno che definisce l'alfabetizzazione alla valutazione multimodale e misura che cosa si è mosso, e che cosa no
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agenti di IA, valutazione gioiosa, e terzo spazio

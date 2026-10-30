@@ -98,6 +98,7 @@ La motivation est le construit parent de l'[[self-determination-theory|autodéte
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Apprentissage socio-émotionnel
+
 ## Articles liés
 - [[high-school-genai-acceptance-tam-physics-2026]] — Les croyances d'attente-valeur comme antécédents de l'acceptation de l'IA générative
 - [[liu-ai-assistance-reduces-persistence-2026]] — Un bref usage de l'IA a réduit la persistance sur des problèmes ultérieurs sans assistance (Liu et al. 2026)

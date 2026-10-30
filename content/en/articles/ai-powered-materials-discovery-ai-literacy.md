@@ -15,6 +15,7 @@ confidence: medium
 
 > **Synthesis:** This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **[[human-ai-collaboration|human-AI collaboration]] competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into [[research-methods-aied|research]] workflows.
 > The framework connects [[ai-literacy|AI literacy]] to equity and scientific judgment, emphasizing that students from under-resourced backgrounds may lack exposure to AI-powered research workflows. This intersects with broader [[equity-in-ai-education]] and [[stem-education]] concerns.
+
 ## Connections to AIED
 
 The materials discovery context offers a model for how AI literacy should be taught across STEM disciplines: not as abstract knowledge, but as embedded workflow competence. This connects to [[agentic-workflows-education]] where students learn to use AI tools as part of authentic research practice rather than as separate subjects.

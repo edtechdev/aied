@@ -121,6 +121,7 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 3. 苏格拉底式AI能否与[[becerra-aicofe-feedback-2026|同伴反馈]]结合以获得社会放大效应？
 
 - **为激发推理而不给答案。** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech等人（2025）]]让LLM导师遵循[[productive-failure|有效失败]]教学法，通过扣留解法并引出多次尝试——这是一种苏格拉底式的拒绝，除非确有必要否则不给帮助；[[wang-safety-gap-productive-struggle-2026|Wang 与 Shan（2026）]]建议采用能保留建设性认知摩擦的苏格拉底式与对抗式AI架构。
+
 ## 常见误解
 
 - **"苏格拉底式提问只是不给答案。"** 一个部署在大型入门力学课程（**150 名一年级 [[stem-education|STEM]] 专业学生**）中的定制苏格拉底式 AI 聊天机器人产生了**可测量的**增益，而其设计是结构化提问：一种受约束的交互，而非沉默的模型。
@@ -149,6 +150,7 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 - [[critical-thinking]]
 - [[pedagogy]] — 总括：AI教育中的教学法与教学策略
 - [[productive-failure]] — 有效失败
+
 ## 关联文章
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 一项2×2研究生设计研究中苏格拉底式与指导性反馈风格的对比
 

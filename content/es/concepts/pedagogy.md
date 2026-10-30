@@ -127,6 +127,7 @@ Ese énfasis en preservar el esfuerzo no es absoluto: un diseño [[mixed-methods
 - [[higher-ed]]
 - [[k-12]]
 - [[llm-training-and-fine-tuning]] — Herramientas de IA entrenadas para seguir principios pedagógicos
+
 ## Artículos conectados
 - [[genai-didactic-pedagogical-mediator-2026]] — La IA generativa como mediador didáctico-pedagógico: modelo triádico de instructor, estudiantado e IA generativa (Moganadas et al. 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — «La pedagogía primero, la tecnología después»: el TPAIK pesa más que el TAIK técnico en los resultados del estudiantado (Shen et al. 2026)

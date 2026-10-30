@@ -111,6 +111,7 @@ AI の利用と開示は、[[academic-integrity|学術的インテグリティ]]
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — 学習者が開示せず隠すことを選ぶ理由
+
 ## 関連する記事
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 鏡像の方向: AI が仕事を採点するときを学生に伝え、アップロードの前に同意を求める
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments

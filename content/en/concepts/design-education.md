@@ -64,6 +64,7 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - **"Design students are enthusiastic adopters."** The same cohort shows **71% using GenAI daily or weekly, 65% distrusting it, and 85% modifying its output**. Frequent use and low trust coexist, so a tool whose value proposition assumes trust has misread the users.
 - **"GenAI is generically helpful across the design process."** The GAI-A platform built across a longitudinal studio study found **two productive uses only**: GenAI as visual stimulus in early ideation, and as a **combinatorial expander of the solution space during development**. Usefulness was phase-specific.
 - **"Creativity gains are too diffuse to measure."** In a **31-student subgroup**, creative-thinking scores rose from **77.23 to 94.68 (d = 0.82)**. The gain is measurable and it is bounded to a subgroup, which is the honest form of the claim.
+
 ## Connected Concepts
 
 - [[design-thinking]]

@@ -67,6 +67,7 @@ As a framework rather than a study, [[zhai-science-literacy-generative-ai-cohere
 - **"AI in science education has no causal evidence."** A **four-week randomized evaluation** of an AI revision platform in GCSE science gives a causal estimate of **Hedges' g = 0.33**, with **no evidence the effect differed by subject**. The effect is modest and it is causal.
 - **"Give students access and the gains follow."** **Structured access, not access itself, drives the gain**: team-reported growth averaged **17% under unlimited individual access but 34% and 31% when access was structured**. The structure was the intervention.
 - **"Scientific simulation requires specialised software."** A **four-element natural-language prompt** can generate a **hand-controlled augmented-reality physics simulation**. The barrier to authoring a simulation fell to the prompt design, which shifts the skill required from programming to specifying the phenomenon.
+
 ## Connected Concepts
 
 - [[stem-education]]

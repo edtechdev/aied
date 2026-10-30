@@ -125,6 +125,7 @@ Um problema recorrente é que "aprendizagem personalizada" é um termo guarda-ch
 - [[higher-ed]] — Contexto de ensino superior para personalização
 - [[online-teaching-and-learning]] — Ensino e aprendizagem online
 - [[recommender-systems-and-learning-paths]]
+
 ## Artigos conectados
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Regeneração de vídeo de aula personalizado por indústria a partir de uma transcrição-semente: adequação no nível do público, avaliada por especialistas de domínio (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Micropersonalização por prompt engineering de um assistente de ensino com IA (Basu, Kakar & Goel 2026)

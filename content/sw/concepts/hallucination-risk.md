@@ -69,6 +69,7 @@ Ulinzi dhidi ya uandishi kama huo unabeba mabadilishano yake: mtiririko wa ulinz
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## Makala Zilizounganishwa
 - [[frontiers-gai-hallucination-dependence-2026]] — Kuwapa lebo mazungumzo ya GAI kama yaliyoandaliwa kulipunguza uaminifu na utegemezi pamoja
 - [[ivory-psychology-assessment-integrity-2026]] — Nukuu zilizoandaliwa na matokeo yanayojipinga ndani ya kazi ya mwanafunzi inayosalimisha kupata alama (Ivory et al. 2026)

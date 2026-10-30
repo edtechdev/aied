@@ -105,6 +105,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - **"You can detect constructivist teaching from the questions asked."** A DeBERTa classifier **classified factual knowledge-transmitter questions at 96.67% precision but facilitator questions at only 78.79%**, and **every model confused the two higher-order roles**. The construct that matters most is the one automated detection handles worst.
 - **"Surface features of a lesson reveal its pedagogy."** The classifier's failure is not an implementation detail. Facilitator and constructivist roles are the hard cases precisely because they are defined by what the teacher does with the learner's thinking, and that relation is not recoverable from the question text alone.
 - **"Constructivism means the teacher does not explain."** The theory locates learning in the learner's construction from experience, which is compatible with direct instruction. Treating it as a prohibition on telling misreads both the theory and the evidence on worked examples.
+
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
 - [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
@@ -129,6 +130,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[theory-development-aied]] — Theory Development in AI in Education
 - [[productive-failure]]
+
 ## Connected Articles
 - [[lee-learner-question-types-ai-education-2026]] — Learner questions classified into three constructivist roles: transmitter, facilitator, co-learner (Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history

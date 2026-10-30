@@ -88,6 +88,7 @@ Favero et al. (2025) предупреждают, что эмоциональна
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
 - [[socratic-method]]
+
 ## Связанные статьи
 
 - [[ecnuclaw-k12-personalized-companion]]

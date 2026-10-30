@@ -36,6 +36,7 @@ methods: [ai-ed-evaluation, benchmark]
 - Evaluation used a single dataset, SciEntsBank, and the authors call for diverse domains, model sizes, and annotation schemes before generalizing.
 - Consistency-based confidence came from 5 samples per item at temperatures between 0.2 and 1.0, a narrow sampling budget for estimating instability.
 - No educator study is reported, so how teachers interpret and act on confidence estimates in real grading workflows remains unknown.
+
 ## Citation
 
 Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200).

@@ -42,6 +42,7 @@ A cybersecurity tabletop exercise is a conversation between participants respons
 - The study is a system development and case study paper: feedback came from post-exercise questionnaires and instructor observations, with no comparison against paper-based tabletop exercises and no measured learning outcome.
 - The courses span many local contexts, including one course run over two years, a summer school, and a remote two-country exercise, so the 24 lessons learned are practitioner experience rather than a controlled comparison.
 - The digital format changes the comparison standard, since trainees judge a digital exercise against polished applications rather than against other tabletop exercises.
+
 ## Citation
 
 Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179).

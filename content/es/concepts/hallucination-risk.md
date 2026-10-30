@@ -83,6 +83,7 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## Artículos conectados
 - [[frontiers-gai-hallucination-dependence-2026]] — Etiquetar un diálogo de GAI como fabricado redujo la confianza y la dependencia a la vez
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Las señales de credibilidad aumentaron la deferencia hacia la salida de la IA, con algunos casos citados mal atribuidos o ficticios

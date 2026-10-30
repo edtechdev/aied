@@ -120,6 +120,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - **"LLM grading bias is a reason to abandon it."** In a **large-scale national writing assessment**, an LLM scorer showed a **systematic conservative (under-grading) bias** — problematic as a final mark and potentially **useful as a screening** signal. A bias with a known direction is a different instrument from an unpredictable one.
 - **"Grade inflation after AI is speculation."** In a **difference-in-differences study of 500,000+ grades across 319 courses (2018-2025)**, courses with more AI-exposed tasks (writing, coding) **saw the share of A grades rise**. The effect concentrated where tasks were exposed.
 - **"Faculty have adopted AI broadly."** **62.4% (53)** declined to use generative AI at all, and adopters' use was **confined largely to proofreading (43.8%) and clarity checks (34.4%)**. The adoption pattern is cautious and narrow, which changes what a validity argument needs to cover.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Why process evidence is proposed when output no longer identifies the author

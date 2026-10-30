@@ -103,6 +103,7 @@ La valutazione formativa nell'istruzione sull'IA si collega al processo di appre
 
 - **La valutazione con IA aggiunge una minaccia alla validità.** Poiché un valutatore con IA può premiare feature irrilevanti per il costrutto come la fluidità linguistica anziché il ragionamento scientifico, un white paper di Stanford/ETS distillato da un incontro di circa 100 leader sostiene che la valutazione dovrebbe accumulare evidenze continue e ricche di contesto anziché certificare output una tantum ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 - **Mantenere il compito vulnerabile e aggiungere un gemello.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] sostengono che i saggi a casa e i report di ricerca portano un valore formativo sostanziale e dovrebbero essere mantenuti per l'apprendimento, abbinati a un secondo compito che valuta gli stessi esiti e fornisce evidenza sommativa affidabile.
+
 ## Rischio: la valutazione come sorveglianza
 
 I sistemi di valutazione formativa possono passare da strumenti di supporto all'apprendimento a infrastrutture di monitoraggio del comportamento. Gli stessi flussi di dati che abilitano il tutoring adattivo possono abilitare il tracciamento punitivo se la [[governance|governance]] è debole. Questo si collega alla [[privacy|privacy]] e al [[well-being|benessere degli studenti]], e argomenta a favore di sistemi formativi che sostengano l'apprendimento anziché sorvegliarlo.

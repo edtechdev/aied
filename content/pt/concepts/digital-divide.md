@@ -89,6 +89,7 @@ A divisão digital é uma preocupação central da pesquisa em [[equity-in-ai-ed
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## Artigos conectados
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estruturas institucionais, desigualdade digital e integração da IA no ensino superior nigeriano
 - [[ai-divide-ses-personality-primary-education-2026]] — NSE, personalidade e divisões da IA na educação primária (Wang et al. 2026)

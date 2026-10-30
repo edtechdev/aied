@@ -77,6 +77,7 @@ Evrensel tasarım, bir öğrencinin özel düzenlemeye ihtiyaç duyduğunu beyan
 Parçalama sonucu en açık örnektir. Sabit duraklamalarla tek yönergeli parçalara ayrılmış bir video, çalışmadaki tüm öğrencileri iyileştirdi, yalnızca DEHB'lileri değil, ve DEHB'li katılımcıların hatalarını ve tereddütlerini eşit düzeye getirdi. Bu, bir ürünle değil bir kurgu düzenlemesiyle elde edilmiş evrensel tasarım sonucudur.
 
 Dürüst sınır şu: bu, tek bir çalışmada DEHB'li 17 ve DEHB'siz 10 öğrencidir ve bu literatürde tek bir sınıf sonucundan ne kadar genelleme yapılacağını ya da bir öğrencinin ihtiyacının bireysel bir düzenleme gerektirecek kadar ne zaman farklılaştığını size söyleyen hiçbir şey yok. Bu yargı sizde ve erişilebilirlik ofisinde kalır.
+
 ## Aracı öğretin ve öğretimin karşısına bir ad yazın
 
 Belgelenmiş başarısızlık, eğitim verilmeden sağlanan bir uyarlamadır. *W.A. v. Clarksville/Montgomery County School System* (2024) davasında, uyarlama olarak YZ verilen bir öğrenci okuma bilmeden mezun oldu ve mahkeme ücretsiz ve uygun bir kamu eğitimi sağlanmadığına hükmetti.

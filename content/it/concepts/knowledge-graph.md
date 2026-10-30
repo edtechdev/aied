@@ -76,6 +76,7 @@ I grafi della conoscenza si collegano al [[learning-design|learning design]] (de
 - [[agentic-ai]]
 - [[ai-technologies]] — Ombrello: tecnologie e tecniche di IA (modelli, addestramento di LLM, robotica, RAG, agenti)
 - [[recommender-systems-and-learning-paths]]
+
 ## Articoli collegati
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — A curator-built graph of 1,455 literary axioms with a structural audit and no provenance record (Liu & Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

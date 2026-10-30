@@ -80,6 +80,7 @@ Emotional support and connection can move in opposite directions inside one samp
 - **"Student approval indicates well-being is being supported."** Among **551 first-year students**, **82.76% approved the integration** of digital and intelligent content — and **high approval coexisted with strain, while AI task pressure weakened the benefit**. Approval and strain rise together, so satisfaction surveys mislead here specifically.
 - **"Welfare support is culturally neutral."** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being support tool, as **culturally situated** — and the page's own framing notes its limits. A support design that assumes a universal student misreads the population.
 - **"Task pressure is separate from technology."** The finding is that AI **task pressure** weakened the benefit of the integration, which places workload inside the technology's effects rather than beside them.
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[anxiety-and-stress]]

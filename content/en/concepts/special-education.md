@@ -56,6 +56,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 - **"Usability ratings validate an assistive tool."** Practitioners rated a co-designed Social Story tool **highly usable (SUS 86.8)** yet called its **images generically Western** and its **behavior tracker mismatched to goal-linked clinical judgment**. High usability coexisted with substantive failures, so a SUS score is not an endorsement of fit.
 - **"Generic benchmarks tell you how a tutor handles special-education cases."** Of **923 case-grounded dialogues** drawn from special-education and educational-psychology literature, **the best of 11 models** satisfied a documented criterion — and **challenging behavior is where tutor benchmarks stop**. Standard evaluations do not reach the cases practitioners most need help with.
 - **"Neurodivergent learners need accommodations, not design requirements."** [[neurodivergent-computing-students|Zastudil et al.]] found neurodivergent computing students need **structured assignments, small consistent teams and explicit role definitions** — general design requirements that benefit everyone, not individual adjustments granted after diagnosis.
+
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]

@@ -42,6 +42,7 @@ The headline finding is neither sycophantic deference nor stable disagreement. M
 - Temperature was fixed at 0.7 across all ten models and five thousand responses, so behavior under the lower, consistency-oriented temperatures some deployments use is uncharacterized.
 - The ten frontier-model versions are a snapshot that will be superseded, so the findings describe the publicly accessible flagship surface on the run dates rather than a stable property of these labs.
 - Scorer dependency is mitigated but not eliminated: the three-model panel, the researcher hand-scoring layer, and the five-rater validation provide three distinct validity claims, yet consensus agreement against hand-scoring cleared at only κ = 0.704, and within-family scorer divergence on engagement redirection remained (0.42 and 0.40 against the Gemma comparisons).
+
 ## Citation
 
 Rossmiller, Z. (2026). [Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff](https://doi.org/10.1016/j.caeai.2026.100659). *Computers and Education: Artificial Intelligence*, 11, 100659.

@@ -52,6 +52,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - **"Adoption figures measure readiness."** Declared use and governed use are different quantities, and this page's evidence separates them: institutions report strategic intent at roughly half the population and leadership capacity at under a tenth. A survey showing that staff use AI tells you what individuals have already done without permission, not what the institution can support or supervise.
 - **"Procurement is an administrative step."** Where capability is purchased rather than built, the contractual terms decide what becomes possible later — data ownership, audit access, and whether the tool can be evaluated at all. A vendor decision made as a purchasing task forecloses evaluation questions the institution has not yet asked.
 - **"Governance can follow adoption."** The sequencing claim is common and unsupported here: the evidence documents the opposite pattern, with policy and leadership structures trailing use that is already happening. Governance framed as something to build after rollout is governance built from a position of less leverage.
+
 ## What this means for practice
 
 **For administrators**
@@ -60,6 +61,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - Ask what a tool can be evaluated on before signing. If the contract does not permit access to outcomes, audit data or usage detail, the institution has purchased a capability it cannot assess.
 - Survey actual use rather than sanctioned use, because the two diverge and the unsanctioned number is the one that carries risk you are already exposed to.
 - Sequence policy ahead of rollout where leverage still exists. Once use is widespread, policy becomes negotiation with practice that has already settled.
+
 ## Connected Concepts
 
 - [[educational-policy-ai]]

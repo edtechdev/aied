@@ -76,6 +76,7 @@ Scaffolding quality matters independently of access. An experimental comparison 
 - **"Satisfaction and perceived benefit indicate a data-science AI tool is working."** Students used LLMs heavily for debugging and concept questions and **reported high satisfaction, while their perceived deep-learning benefit declined over the term**. Satisfaction held and the self-assessed learning trajectory fell, so neither figure alone is the outcome.
 - **"An unrestricted model is as good as a guided tutor."** An experimental comparison found that **explicit training in reasoning-focused scaffolding — stepwise hints, verification — produced better independent** performance than unrestricted access. The guidance, and the training in how to use it, carried the effect.
 - **"Guarding against answer-giving is enough."** A purpose-built tutor wrapped around a hosted API, system-prompted to **guide rather than answer**, was deployed in a semester-long R course for psychology undergraduates, where **76% to 84%** of students used it in exam-relevant weeks. That is adoption, not evidence that the guarding produced learning: prompt-level guarding is one lever among several and does not by itself produce learning.
+
 ## Connected Concepts
 
 - [[math-education]]

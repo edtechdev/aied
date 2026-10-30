@@ -114,6 +114,7 @@ Le transfert des apprentissages est lié à la [[metacognition]] (auto-surveilla
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — Échec productif
+
 ## Articles liés
 - [[yan-agentivism-learning-theory-ai-2026]] — Une théorie d'apprentissage de niveau intermédiaire pour l'interaction humain-IA, avec quatre mécanismes et six propositions testables (Yan et Gašević 2026)
 

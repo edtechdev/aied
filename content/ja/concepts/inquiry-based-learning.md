@@ -89,6 +89,7 @@ IBLの問い駆動で過程に焦点を当てた構造は、生産的なAI利用
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — 生産的な失敗
+
 ## 関連記事
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAMにおける探究学習のためのChatGPT(システマティックレビュー)
 - [[dai-chatbots-problem-posing-primary-2026]] — 初等理科における生成AIチャットボットと問題の作成

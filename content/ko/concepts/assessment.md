@@ -93,6 +93,7 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - **정직성은 탐지에서 설계로 옮아갑니다:** 평가에서의 AI에 대한 가장 튼튼한 대응은 AI 사용이 기대되고 선언되고 검토되는 과제를 설계하는 것입니다.
 - **혁신적 실천은 여러 문제를 한꺼번에 다룰 수 있습니다.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 서로를 강화하는 다섯 실천 — [[authentic-assessment]], 자기 평가와 [[peer-assessment]], 재평가, [[mastery-learning|기준 기반 채점]], 그리고 채점 폐지(ungrading) — 이 "학습을 위한 평가" 패러다임에 맞춰질 때, 전통적이고 총괄적이며 규준 참조적인 채점이 초래하는 해(피상적 학습, [[motivation|내적 동기]]의 침식, 스트레스와 불안, 불평등, 훼손된 [[academic-integrity|정직성]])를 생성형 AI 시대에 상쇄할 수 있다고 주장합니다. 이들은 채택이 분야별로 고르지 않음을 발견했습니다. 자기 평가와 동료 평가가 우세한 반면 채점 중심의 혁신은 주변에 머물렀습니다. 그리고 교육자들이 점진적 실험과 [[governance|제도적]] 지원을 바탕으로 평가와 채점 혁신에 더 능동적이고 상호적으로 참여할 것을 촉구합니다.
 - **AI 매개 평가는 다양해지고 있습니다.** [[aivaluate-anxiety-assessment-2026|AIvaluate]]는 LLM이 보강한 [[conversational-ai|대화형 에이전트]]가 수행 기반 평가 중 학생의 불안을 줄였음을 보여 줍니다. [[asynchronous-oral-assessment-2026|Pentland(2026)]]는 비동기 구두 평가가 더 높은 참여를 이끌었고 직업적으로 관련 있다고 인식되었다고 보고합니다. [[graph-its-adaptive-algorithms-2026|그래프 기반 ITS]]는 평가에 정보를 제공하기 위해 적응형 지식 상태 추적을 사용합니다.
+
 ## 흔한 오해
 
 - **"정직성은 주로 탐지의 문제입니다."** **26명의 학생을 대상으로 한 스크롤백 면담**은 학생들이 생성형 AI를 활용한 평가를 **스펙트럼**을 따라 판단하며 통과해 나간다는 것을 보여 주고, **157명의 학생**에 걸쳐 생성형 AI가 *어떻게* 사용되는지, 즉 **이해를 뒷받침하는 평가적 통합 대** 대체가 결과를 예측했습니다. 사용 방식은 사용 여부보다 학생들을 더 선명하게 구분합니다.
@@ -122,6 +123,7 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - [[eportfolio]] — 과정 기반 전자 포트폴리오 평가
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## 연결된 문서
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 다중양식 평가 리터러시를 정의하고 무엇이 움직였으며 움직이지 않았는지를 측정한 1년 프로그램
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI 에이전트, 즐거운 평가, 그리고 제3의 공간

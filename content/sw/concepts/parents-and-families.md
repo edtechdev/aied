@@ -94,6 +94,7 @@ Mapitio ya upeo wa 2026 yanaonyesha umbali ambao uwanja umefika. [[llm-family-ed
 - [[self-determination-theory]] — msaada wa kujitegemea kama fremu ya mwongozo wa familia
 - [[cognitive-offloading]] — upunguzaji wa mzigo unaotegemea dhidi ya unaojitegemea, na kwa nini wazazi hawawezi kuona tofauti
 - [[intelligent-tutoring]] — mfano unaotegemea ufundishaji wa mzazi na mtoto unaosababishwa na AI
+
 ## Makala Zilizounganishwa
 - [[ai-connectedness-adolescent-mental-health-2026]] — Uunganisho wa AI kwa vijana na lini uunganisho wa AI unachukua nafasi ya utambuzi wa mlezi usiotimizwa
 

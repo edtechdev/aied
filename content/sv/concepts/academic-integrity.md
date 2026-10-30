@@ -173,6 +173,7 @@ Den första studien av Theory of Planned Behavior om avsikt till GAIT-baserat ot
 - **"Detekteringsverktyg identifierar AI-skrivande."** AI-genererad text har **passerat som människoskriven i upp till 80 % av fallen**, medan evidensen för detektering placerar **maskindetekteringen på omkring 80 % mot 78,4 % för mänskliga bedömare**. Mänskligt och maskinellt omdöme är nästan lika (o)tillförlitliga, så ett detekteringsutslag är inte bevis för författarskap.
 - **"Problemet är marginellt."** Volymen är långt ifrån det: en **sexårig analys av en CS2-kurs med stort deltagarantal** fann att **45,7 % av eleverna våren 2026 flaggades**. Nästan en halv årskull, vilket gör detta till ett vanligt designproblem snarare än ett gränsfall.
 - **"Lärare vet vilka bedömningar som är sårbara."** På en [[biology-education|biologi]]institution **uppfattade lärarna bara övervakade salstentamina som minimalt sårbara**, medan uppgifter utanför lektionstid sågs som exponerade. Uppfattningen matchade det uppenbara fallet och behandlade allt annat som säkert.
+
 ## Anslutna begrepp
 - [[pedagogical-patterns]] — verifieringssekvenser som antagits som svar på generativ AI
 - [[ai-use-disclosure]] — deklarationer av AI-användning

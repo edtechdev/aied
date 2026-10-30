@@ -64,6 +64,7 @@ ai_assist:
 - [[neurodiversity]]
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
+
 ## Пов’язані статті
 
 - [[shin-ai-policies-sld-2026]] — Політики ШІ та адаптації для студентів із специфічними навчальними труднощами

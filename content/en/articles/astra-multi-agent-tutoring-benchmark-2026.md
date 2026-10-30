@@ -43,6 +43,7 @@ The benchmark is deliberately positioned as **simulated evidence for benchmarkin
 - Trace metrics are proxies, not outcomes: participation balance and verification counts index interaction quality rather than cognitive gain, and the paper provides no causal evidence of learning outcomes.
 - Domain specificity: task artifacts and tutor scaffolding are optimized for Python syntax and logic errors, leaving transfer to more abstract domains (e.g., creative writing) or hardware-level programming untested.
 - Agent performance is tied to the underlying gpt-4o-mini client, and no human-subject data or ethics-approved classroom deployment was collected — empirical validation remains future work.
+
 ## Citation
 
 Oyelere, S. S. (2026). [ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming](https://doi.org/10.1016/j.caeai.2026.100633). *Computers and Education: Artificial Intelligence*, 11, 100633.

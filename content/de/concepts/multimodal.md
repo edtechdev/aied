@@ -116,6 +116,7 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 - [[virtual-and-augmented-reality]] — Gestik, Stimme und räumliche Eingabe als Lernkanäle
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Verbundene Artikel
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video-PSA-Komposition zu KI-Ethik als Pädagogik kritischer KI-Kompetenz (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Gerechtigkeitsbewusste multimodale Transformer-Modellierung zur Echtzeit-Schätzung der Aufmerksamkeit Studierender

@@ -131,6 +131,7 @@ Yapılandırmacılık, YZ okuryazarlığının kendisinin nasıl öğretildiğin
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[theory-development-aied]] — Theory Development in AI in Education
 - [[productive-failure]]
+
 ## Bağlı makaleler
 - [[lee-learner-question-types-ai-education-2026]] — Learner questions classified into three constructivist roles: transmitter, facilitator, co-learner (Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history

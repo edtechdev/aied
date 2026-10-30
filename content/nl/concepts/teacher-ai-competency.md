@@ -131,6 +131,7 @@ Naarmate AI routinetaken in instructie en beoordeling overneemt, verschuift de o
 - **Ondersteun de institutionele laag:** duurzame docentcompetentie vereist afgestemd beleid, governance en capaciteit, geen geïsoleerde training.
 
 - **Digitale competentie van docenten voor GenAI-[[curriculum-design|curriculumontwerp]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] valideren een op TAM gebaseerd diagnostisch instrument met 434 docenten in dienst; gedragsintentie was de belangrijkste voorspeller van digitale competentie voor het gebruik van GenAI in curriculumplanning, met zelfeffectiviteit als worteloorzaak.
+
 ### Een psychometrisch instrument voor AI-competentie van docenten
 
 - Een psychometrische studie ontwikkelde de Teachers' AI Literacy Scale (TAILS) om AI-geletterdheid specifiek binnen [[teacher-education|lerarenopleiding voor talen]] te meten, waarbij de zes dimensies van het ED-AI-kader geoperationaliseerd werden. De ontwikkeling van het instrument vult een leemte in assessments die zich richten op studenten of algemene gebruikers, en ondersteunt de meting van AI-competentie van docenten.
@@ -142,6 +143,7 @@ Het instrumentarium zelf is sindsdien gereviewd. [[assessing-teachers-ai-literac
 - **"Prompttraining maakt het materiaal van docenten beter."** **Prompttraining levert tijd op, geen beter materiaal**: in een **vooraf geregistreerde RCT met 204 docenten** vonden Appel, Fervers en Piepenburg (2026) dat ChatGPT de **besteedde tijd** verbeterde terwijl de kwaliteit van het materiaal niet volgde. De efficiëntiewinst is echt en het is niet de kwaliteitswinst.
 - **"Wanneer docenten een chatbot configureren, is het falen een feitelijke fout."** **Wanneer docenten een chatbot in natuurlijke taal configureren, is het dominante falen verloren bedoeling in plaats van onjuiste feiten** - bots **slaan** de stap over die de docent bedoelde. Instructieopvolging faalt structureel in plaats van feitelijk.
 - **"Technische vaardigheid is de beslissende laag."** **Pedagogische kennis is de beslissende laag**: een cross-levelstudie naar [[ai-education|AI-onderwijs]] in het voortgezet onderwijs van [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. De competentie die de uitkomst bepaalt, is degene waarin de meeste trainingsprogramma's het minst investeren.
+
 ## Verbonden concepten
 
 - [[ai-literacy]]

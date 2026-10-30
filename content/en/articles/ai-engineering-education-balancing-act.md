@@ -42,6 +42,7 @@ The chapter treats assessment as a key lever, reviewing frameworks such as the A
 - The sample is self-selected and international, dominated by engineering fields (52% of respondents), so the use patterns reported are not representative of all students.
 - 19 of the 100 respondents had never used [[llm|LLMs]] for their studies, so the reported use patterns rest on the remaining 81 users, and the questionnaire collected no learning-outcome data.
 - The chapter is a conceptual and literature-based analysis, not a controlled study: it documents perceptions of value and risk and cannot establish an effect of LLM use on learning.
+
 ## Citation
 
 Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven by clear purpose](https://arxiv.org/abs/2606.16626). The Routledge Handbook of the Philosophy of Engineering, 2nd ed.

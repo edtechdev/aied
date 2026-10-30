@@ -69,6 +69,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - **"Accessibility means accommodation."** A scoping review of **40 studies** of digital assistive technologies for neurodivergent students found **28 made a formal diagnosis a condition of participation**. That is a diagnosis-gated model, and it excludes every learner who has needs but no label — the opposite of universal design.
 - **"Medium effects settle the question."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analyze **29 studies** and find a medium positive effect, which is real and also says nothing about which tool for which need. The average across heterogeneous interventions is not a recommendation.
 - **"Speed and immediacy are conveniences."** In a qualitative case study of **21 visually impaired undergraduates** across three Palestinian universities, learners framed immediacy as a **foundational accessibility requirement rather than a convenience**. What looks like a nicety from outside is a precondition for participation.
+
 ## Connected Concepts
 - [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]] — broader umbrella for designing education across learner variability
@@ -88,6 +89,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% of 100 elite universities publish an AI accessibility policy while 93% deploy AI campus services
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities

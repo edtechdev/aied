@@ -39,6 +39,7 @@ This position paper occupies a critical counterpoint in the [[intelligent-tutori
 - Student evidence comes from cited surveys — 1,200 young adults aged 18–24 and an international survey of 4,000 university students across 16 countries — not from data the authors collected.
 - Constructs such as cognitive atrophy and loss of agency are not operationalized into measurable variables, so the paper cannot estimate the size or speed of the effects it warns about.
 - Because it catalogs harms rather than comparing conditions with and without AI tutors, it cannot attribute learning losses to tutor use.
+
 ## Citation
 
 Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878).

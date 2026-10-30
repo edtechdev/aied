@@ -123,6 +123,7 @@ ai_assist:
 - [[higher-ed]] — سياق التعليم العالي للتخصيص
 - [[online-teaching-and-learning]] — التعليم والتعلم عبر الإنترنت
 - [[recommender-systems-and-learning-paths]]
+
 ## المقالات المرتبطة
 - [[bespoke-industry-personalized-lecture-videos-2026]] — إعادة توليد فيديو محاضرة مخصّص بالصناعة من نص أصلي: تكييف على مستوى الجمهور، مُقيَّم بخبراء المجال (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — التخصيص المجهري بهندسة المطالبات لمساعد تعليمي بالذكاء الاصطناعي (Basu, Kakar & Goel 2026)

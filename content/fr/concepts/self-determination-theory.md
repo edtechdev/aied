@@ -78,6 +78,7 @@ La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## Articles liés
 - [[family-school-autonomy-support-genai-2026]] — Soutien à l'autonomie famille-école pour un usage responsable de l'IA générative par les enfants
 - [[dual-ai-learning-pathways-sdt-2026]] — Pression au lycée / soutien à l'autonomie et double cheminement d'apprentissage avec l'IA (Shen & Arunrugstichai 2026)

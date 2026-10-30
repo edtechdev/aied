@@ -90,6 +90,7 @@ ai_assist:
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — социально-эмоциональное обучение
+
 ## Связанные статьи
 - [[liu-ai-assistance-reduces-persistence-2026]] — краткое использование ИИ снизило настойчивость в последующих задачах без помощи (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception

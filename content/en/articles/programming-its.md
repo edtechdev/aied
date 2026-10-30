@@ -70,6 +70,7 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 - Expect guidance anchored to the task's knowledge components rather than to a generic answer key — the system was built because prior programming ITS rarely support Python, and hint content draws on the domain model's task context in an advanced data-science course.
 - Self-host an open-weight model rather than calling commercial LLM APIs: SCRIPT hosts open-weight models through Ollama, which the authors argue satisfies the EU AI Act's high-risk expectations while improving reproducibility through exact model versioning, plus privacy and environmental footprint.
 - Budget for compliance before deploying, especially in the EU: the authors' own semester-long rollout was postponed for a year while GDPR, EU AI Act, and research-ethics procedures were found and approved, and they advise anyone administering AI education systems under those rules to anticipate the effort.
+
 ## Limitations
 
 - The system is at alpha stage and only part of the architecture in the paper's Figures 3 and 4 is implemented; the authors state plainly that it cannot yet be recommended for deployment and is offered for research use.

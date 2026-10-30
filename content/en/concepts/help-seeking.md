@@ -78,6 +78,7 @@ Rather than removing help, research recommends re-engineering how it is delivere
 - **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.([[lak2026-hint-button-unproductive-use]])
 - **Message length is the lever delivery research has actually measured.** In a live programming course, longer LLM hints predicted worse next-submission correctness, more remaining attempts and slower resubmission, per standard deviation of 204.9 characters across 14,809 student-exercise pairs ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Readability barely moved any outcome, so volume mattered more than difficulty.
 - **Prior hints on the same course part tracked lower success on the integrative step.** Students given feedback on earlier steps of a project solved their final step 95.6% of the time against 98.1% for those without, a log-odds coefficient of −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). The authors do not read that as harm, since the students who seek hints are plausibly those who would struggle there anyway, which is the [[self-regulated-learning|monitoring]] question this page raises.
+
 ### The uptake problem in LLM tutors
 
 Real-world students frequently **bypass a [[conversational-ai|chatbot]]'s [[scaffolding]]** — not necessarily harmfully, but often because there is a mismatch between the chatbot's pedagogical framing and the student's own learning goals. Evaluation pipelines must therefore measure not just whether a tutor scaffolds, but whether students *take up* that scaffolding, rather than assuming they will.([[rethinking-scaffolding-llm-tutors]])
@@ -116,6 +117,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - **"Students who need help do not ask for it."** A **pre-registered experiment** in large-enrollment undergraduate courses messaged students through an academic chatbot and found **greater take-up of tutoring and supplemental** support. Nudging moved the behavior, so the barrier was prompting rather than willingness.
 - **"Help-seeking requests are about learning."** **Operational support demand** complicates that assumption: across **4,093 queries**, at least **20.4% asked about the status of a pending submission rather than for knowledge**. A fifth of the demand for help was administrative.
 - **"Using an AI tutor means monitoring your own learning."** In a study of **98 Grade-9 students** using a GenAI tutor, interactions were **dominated by instrumental requests with almost no monitoring or evaluation of their own learning**. Asking for answers is not help-seeking in the sense the construct means.
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

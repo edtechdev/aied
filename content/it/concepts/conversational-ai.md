@@ -87,6 +87,7 @@ L'IA conversazionale è meglio compresa come una **modalità di interazione** ch
 Scegliete agenti conversazionali per supportare insegnamento, [[motivation|motivazione]] e [[metacognition]], anziché meramente per rispondere alle domande, e progettate per un'interazione fondata sull'HCI, partecipativa e centrata sull'utente. Proteggetevi contro il [[cognitive-offloading|eccessivo affidamento]] affiancando la CAI con l'istruzione sull'[[ai-literacy]] e il [[feedback]] che mantiene lo studente cognitivamente produttivo. Occupatevi esplicitamente di alfabetizzazione in materia di IA e usabilità — poiché queste — non l'abilità digitale generale — guidano l'adozione e il non uso ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — e accompagnate l'implementazione con politiche chiare sull'uso dell'IA, etichette di valutazione e formazione. Valutate la CAI su esiti pedagogici — non solo sul completamento dei compiti — e pianificate l'equità e l'[[accessibility|accessibilità]] dall'inizio anziché come ripensamento.
 
 - **Come gli studenti parlano realmente agli agenti conversazionali — uno schema di disimpegno a sei categorie:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] hanno integrato un agente insegnabile GPT-4-Turbo (posizionato come studente di scuola media in difficoltà, fondato con [[rag|RAG]] su un grafo di conoscenza, abbinato a un agente mentore che criticava le spiegazioni degli studenti) nelle lezioni di Algebra e Geometria di Math Nation, e hanno codificato 5.522 enunciati di 246 studenti. Oltre all'impegno (75,7% degli enunciati), hanno identificato False Answering (12,8%), Withholding (8,9%), Random/Noisy (2,1%), Mirroring (0,6%), Mocking (0,3%) e Ghosting (0,2%) — con il Mirroring (copiare il testo dell'agente) emerso induttivamente dai dati. La classificazione era human-in-the-loop: 1.682 enunciati annotati da due valutatori (κ = 0,704–0,905 per categoria) hanno addestrato un classificatore LLaMA 3 fine-tuned (F1 pesato = 0,910 su thread held-out) che ha etichettato i restanti 3.840 enunciati. Un'analisi processuale a rischi concorrenti ha poi mostrato che la maggior parte del disimpegno si risolve in pochi turni tranne il Withholding, che persiste — un segnale su cui vale la pena progettare le risposte dell'agente.
+
 ## Fraintendimenti comuni
 
 - **"La credibilità di un agente conversazionale segue la sua accuratezza."** **Gli utenti leggono la credibilità dell'agente in modo sociale.** La **competenza** percepita di ChatGPT prediceva **direttamente** la credibilità del suo feedback, mentre il **calore** percepito agiva solo **attraverso** quella via. Un agente caldo e competente guadagna fiducia sulla presentazione, che è un asse separato dalla correttezza.
@@ -117,6 +118,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
+
 ## Articoli collegati
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors in student-AI dialogues (Rho et al. 2026)

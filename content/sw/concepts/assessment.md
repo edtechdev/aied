@@ -89,6 +89,7 @@ Mapendekezo katika fasihi hii yanasukuma zaidi ya kubuni-upya-ndani-ya-mfumo-wa-
 - **Uadilifu unahama kutoka ugunduzi hadi ubuni:** jibu imara zaidi kwa AI katika tathmini ni kubuni kazi ambapo matumizi ya AI yanatarajiwa, yanatengenezwa, na yanachunguzwa.
 - **Mazoezi ya ubunifu yanaweza kushughulikia matatizo mengi kwa wakati mmoja.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais na Galy (2026)]] wanadai kuwa seti ya mazoezi matano yanayoimarisha kwa pande zote — [[authentic-assessment]], tathmini binafsi na [[peer-assessment]], tathmini upya, [[mastery-learning|kugawa alama kulingana na viwango]], na kutogawa alama — yanayolingana na falsafa ya "tathmini kwa ajili ya kujifunza" yanaweza kupinga madhara ya kugawa alama ya kawaida, yenye mkazo wa jumla, na inayorejelea viwango (ujifunzaji wa juu wa ngozi, [[motivation|motisha ya ndani]] iliyopungua, msongo na wasiwasi, ukosefu wa usawa, na [[academic-integrity|uadilifu]] uliodhoofishwa) katika zama za AI inayozalisha. Wanagundua kuwa kupitishwa hakuwani sawa katika miktadha tofauti — tathmini binafsi na ya marika zinatawala wakati maboresho yanayozingatia kugawa alama yanabaki ya kando — na wanahimiza waelimishaji kushiriki kikamilifu na kwa njia ya pande mbili na ubunifu wa tathmini na kugawa alama, yakisaidiwa na majaribio ya hatua kwa hatua na msaada wa [[governance|taasisi]].
 - **Tathmini inayoendeshwa na AI inaendelea kupanuka.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] inaonyesha [[conversational-ai|wakala wa mazungumzo]] unaongezwa na LLM ulipunguza wasiwasi wa mwanafunzi katika tathmini zinazotegemea utendaji; [[asynchronous-oral-assessment-2026|Pentland (2026)]] anagundua tathmini za mdomo za asynchronous zilitoa ushiriki mkubwa na zilieleweka kuwa muhimu kitaalamu; [[graph-its-adaptive-algorithms-2026|ITS inayotegemea graf]] inatumia ufuatiliaji wa hali ya maarifa unaobadilika kuongoza tathmini.
+
 ## Dhana Zilizounganishwa
 - [[learners]] — Wanafunzi: muundo mkuu wa dhana za upande wa mwanafunzi
 - [[pedagogical-partnerships]] — Ushirikiano wa mbinu za kufundisha
@@ -112,6 +113,7 @@ Mapendekezo katika fasihi hii yanasukuma zaidi ya kubuni-upya-ndani-ya-mfumo-wa-
 - [[eportfolio]] — Tathmini ya kwingineko ya kielektroniki ya msingi wa mchakato
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Makala Zilizounganishwa
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Programu ya mwaka mmoja inayofafanua ujuzi wa tathmini ya hali nyingi na kupima kile kilichosogea, na kile hakikusogea
 - [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini ya furaha, na nafasi ya tatu

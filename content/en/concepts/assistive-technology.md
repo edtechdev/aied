@@ -50,6 +50,7 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - **"A medium effect size identifies the right tool."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] find AI-based interventions yield a medium positive effect on learning outcomes for students with disabilities (**g = 0.588**) across robots, software and intelligent VR. That is an average over very different technologies serving very different needs, so it supports the category and not a choice within it.
 - **"Diagnosis-gated access is a defensible design."** Requiring a formal diagnosis to participate excludes learners with real needs and no label, which conflicts with [[universal-design-for-learning|universal design]] and pushes the cost of access onto the student's documentation.
 - **"More assistive tools means more inclusion."** A scoping review screened **766 records** across five databases, and volume of output is not the same as coverage of need — the count of studies per barrier is the more informative figure.
+
 ## Connected Concepts
 
 - [[accessibility]] — the design property that assistive technology operationalizes
@@ -61,6 +62,7 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - [[neurodiversity]]
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
+
 ## Connected Articles
 
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities

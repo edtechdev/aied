@@ -33,6 +33,7 @@ The authors administered an online survey to higher education students who use G
 - **Instructors.** Design feedback and [[scaffolding]] that help students form accurate expectations, so that a positive first experience converts into sustained collaboration — a practical complement to [[ai-literacy]] teaching about evaluating AI output.
 - **Designers.** Treat distrust and perceived benefit as separate signals: students acknowledged the tool's usefulness while remaining skeptical of its outputs, so expectation management and transparency are complements to capability, not substitutes for it.
 - **Administrators.** Have responsible-use guidance address plagiarism risk, inaccuracy and flawed referencing directly for [[student-experience]] design, rather than assuming that skepticism about the tool will resolve those problems on its own.
+
 ## Limitations
 
 - **Expectations and first impressions cannot be separated.** The authors note that the rapid evolution of GenAI makes initial expectations and early experiences occur simultaneously, and this study could not measure them apart.

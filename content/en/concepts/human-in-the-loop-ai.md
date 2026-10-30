@@ -112,6 +112,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - **"Showing the system's recommendation helps the human supervise it."** **Withholding a system's preferred answer is protective rather than corrective**: in a multi-agent debate that **never revealed a recommended position**, detrimental switching to the AI's answer **dropped**. Disclosure invited deference; withholding supported judgment.
 - **"Human-in-the-loop must mean one human, one decision."** A multi-agent classroom of [[teacher-role|Teacher]] Agent, TA Agent and classmate archetypes was deployed at Tsinghua University with **more than 500 students and more than 100,000 learning records**. Supervision scales through the arrangement, not by multiplying supervisors.
 - **"Reviewing AI output is intuitive."** In a **within-subject study with 23 educators**, a review-based approach **improved every CTML principle (mean rating 3.07 to 3.86, p < .01)**, with educators rating production efficiency favorably. Review is a skill that improved under a structured method.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
 - [[guardrails]]

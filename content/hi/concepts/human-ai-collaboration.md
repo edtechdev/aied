@@ -96,6 +96,7 @@ ai_assist:
 ### संबंध
 
 मानव-AI सहयोग [[human-in-the-loop-ai]] (निगरानी), [[agentic-ai]] (स्वायत्तता), [[teacher-role]] (शिक्षकों का बदलता काम), [[scaffolding]] और [[metacognition]] (सहयोग सीख का समर्थन कैसे करता है), और [[cognitive-offloading|अति-निर्भरता]] (विफलता मोड जब सहयोग प्रतिस्थापन बन जाता है) से जुड़ता है। यह [[ai-literacy]], [[self-regulated-learning]] और [[student-experience]] में एक मूल विषय है।
+
 ## सामान्य भ्रांतियाँ
 
 - **"सहयोग का अर्थ है कि AI काम का एक हिस्सा करता है।"** **निर्णायक भूमिका शिक्षार्थी के पास रहती है**, और यह लेखन तक विस्तारित होता है: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash और Connell Pensky (2025)]] दिखाते हैं कि यह तब भी टिकता है जब व्यवस्था उसी के लिए डिज़ाइन की गई हो। श्रम-विभाजन सहयोग नहीं है जब तक मनुष्य निर्णय बनाए न रखे।
@@ -124,6 +125,7 @@ ai_assist:
 - [[human-in-the-loop-ai]] — निगरानी
 - [[agentic-ai]] — स्वायत्तता
 - [[productive-failure]]
+
 ## संबंधित लेख
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — एक कथा-आधारित विज्ञान खेल में तीन एजेंट भूमिकाएँ, और प्रत्येक को कौन-सी मूल्यांकन कसौटी चाहिए (Humburg et al. 2025)
 - [[bjet-many-hands-make-light-work-2026]] — GenAI मल्टी-एजेंट सिस्टम के साथ जोड़े में काम करने से डिज़ाइन परियोजना जीती, जबकि आलोचनात्मक सोच की जागरूकता केवल अकेले काम करने वालों में बढ़ी (Chu et al. 2026)

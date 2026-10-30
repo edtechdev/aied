@@ -16,6 +16,7 @@ page_kind: [synthesis]
 ---
 
 > **Synthesis:** A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the [[cognitive-psychology]] principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or [[problem-solving]] to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.
+
 ## Core distinction: skills vs. basic cognitive abilities
 
 The article's organizing framework separates two facets of our cognitive systems:

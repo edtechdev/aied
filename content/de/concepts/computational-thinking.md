@@ -67,6 +67,7 @@ Für Lehrende ist die konsistente Botschaft, dass CT durch *explizites, gescaffo
 Computational Thinking ist das geteilte kognitive Fundament unter [[ai-literacy|KI-Kompetenz]] und [[critical-thinking|kritischem Denken]], der curriculare Kern von [[cs-education|Informatikunterricht]] und Rechnen in der [[k-12|K-12]] und das konzeptuelle Ziel, dem [[educational-robotics|Bildungsrobotik]], [[game-based-learning|spielbasiertes Lernen]] und [[project-based-learning|projektbasiertes Lernen]] am besten dienen sollten. Es wird durch [[llm|große Sprachmodelle]] und [[generative-ai|generative KI]] vertieft, wenn diese als Scaffolding-Werkzeuge genutzt werden, und es ist die Fähigkeit, die Taxonomien von Studierendenmissverständnissen und CT-bewusste Assessments zu messen anstreben. Lehrkräfte entwickeln es durch [[teacher-education|Lehrkräftebildung]] und [[professional-training|berufliche Weiterbildung]], und es transferiert über Domänen hinweg, einschließlich [[physics-education|Physikunterricht]] und [[stem-education|STEM]] insgesamt.
 
 - **Computational Thinking prognostiziert Lernen mit KI-Assistenten.** [[computational-thinking-aica-2026|Achtklässlerinnen und Achtklässler]] mit hohem computational thinking übertrafen Peers mit niedrigem CT in einem Kurs mit KI-Coding-Assistenten signifikant, wobei sie den Assistenten für Verständnis statt für Antwortabruf nutzten.
+
 ## Verbundene Konzepte
 
 - [[cs-education]]

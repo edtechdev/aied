@@ -51,6 +51,7 @@ PRISMA 2020 に準拠したレビューは、959 件の記録を 22 件の高等
 二年間の学区を対象とした RCT では、適応のメカニズムではなく導入率が拘束条件でした。登録の手続きを一段階にまとめるだけで、初回セッションの導入率は設計上の変更のみによっておよそ 45% から 83% に上がり、intent-to-treat の伸びは導入率の上昇とともに大きくなりました（[[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos et al. (2026)]]）。
 
 44 研究の PRISMA 準拠レビューは、関与に関する文献が行動的な関与に偏り、行為主体的な関与については最も薄いことを見出し、また新奇性効果——ALEKS と W-Pal の縦断的研究において、ツールの新奇性が薄れた後に時間の経過とともに関与が低下する現象——を報告しています（[[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]）。
+
 ### AI 時代：LLM ベースの適応とそのリスク
 
 [[generative-ai|生成AI]]は、適応システムにできることを広げました——対話的な[[agentic-ai|エージェント的]]な個別指導、[[rag|RAG]]に基づく内容、そして[[llm]]駆動の[[intelligent-tutoring|個別指導]]は、問題の難易度だけでなく言語や説明の仕方も適応させます（例：[[learnmate2-llm-adaptive-learning|LearnMate-2]]、[[deeptutor]]、[[chudziak-ai-math-tutoring-platform|マルチエージェントの適応的個別指導]]）。しかし、LLM ベースの適応は新たなリスクをもたらします。信頼できる[[student-modeling|学習者モデル]]がなければ、適応は浅い手がかりに基づいてしまうかもしれません。過度の適応は、学生が必要とする生産的な苦闘を減らしてしまうことがあります（[[desirable-difficulties]]、[[cognitive-offloading]]を参照）。そして、パーソナライズと学習者の[[agency|行為主体性]]の保全との間のバランスは開かれた設計上の問いです（[[agentic-ai|エージェント的 AI]]を参照）。学習者が求める形の適応は、まったく[[student-modeling|学習者モデル]]なしに動きます。Sidorkin の（2026年）大学院のコースでは、学生が読み物を問い直し、深め、平易化し、自分の文脈に即してほしいとフォローアップの問いを投げかけたときにだけ読み物が調整され、理解を向いた求めは信頼できる仕方でより密度の高い足場かけを生み出しました（ベースラインのテキストよりも定義的なマーカーが 3.4 倍から 8.7 倍多くなり）、これが、読み物ごとに少なくとも三つのフォローアップの問いを課すことが教材をやり取りに変えた理由です。それはまた、適応の負担を学習者に移し替えます。ここでは、学生が何を求めるべきかを知っている場合にのみ適応が生じます。
@@ -115,6 +116,7 @@ PRISMA 2020 に準拠したレビューは、959 件の記録を 22 件の高等
 - [[behaviorism]]
 - [[ai-technologies]] — 包括概念：AI の技術と手法（モデル、LLM の学習、ロボティクス、RAG、エージェント的 AI）
 - [[recommender-systems-and-learning-paths]]
+
 ## 関連記事
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — 欺的な過度の一般化：適応的な習得は、学習者が行為を控えるべき時を知る前に練習を打ち切ることがある（An, McLaren & Stamper 2026）
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI の個別指導は一枚岩ではない：私たちが実際に知っていること（スタンフォード SCALE/NSSA 報告書）

@@ -114,6 +114,7 @@ A aprendizagem inclusiva está profundamente conectada à [[equity-in-ai-educati
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[speech-and-voice-technologies]]
+
 ## Artigos conectados
 - [[prompt-privilege-equitable-ai-access-2026]] — Privilégio de prompt: mensurando e mitigando disparidades de acessibilidade no acesso a LLM
 - [[adhd-video-segmentation-computing-education]]

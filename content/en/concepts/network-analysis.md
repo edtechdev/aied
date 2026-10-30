@@ -72,6 +72,7 @@ Network methods are used across the knowledge base's evidence base to answer que
 - **"Network analysis is objective because it is computational."** **Coding is the foundation**: all network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes, and automated coding inherits its definitions from whoever set them. The visualization looks like an emergent structure and its nodes are interpretive choices.
 - **"A shift in network structure is automatically a learning gain in itself."** In a case discussion with **twenty mixed-discipline graduate students**, the **size-3 shared-term share rose from 5.2% to 8.0%** while **content tokens fell to roughly 0.65× their post-r**ate. Two structural measures moved in opposite directions, so "the network changed" is not a finding until you say along which measure and why it matters.
 - **"Sharing more terms means better collaboration."** Rising shared-term share alongside falling content-token diversity is consistent with convergence on a smaller vocabulary. Consensus and narrowing are structurally similar, which is why the measure needs the content it was computed from.
+
 ## Connected Concepts
 
 - [[learning-analytics]]

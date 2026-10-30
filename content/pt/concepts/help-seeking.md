@@ -86,6 +86,7 @@ Em vez de remover a ajuda, a pesquisa recomenta reengenhar como ela é entregue:
 
 - **Disponibilidade atrasada de dicas** — exigir tempo mínimo de engajamento ou tentativas de solução antes que as dicas (especialmente as finais) fiquem acessíveis.([[lak2026-hint-button-unproductive-use]])
 - **Mover de *se* para *como*** — a questão-chave de desenho é como estruturar a entrega de dicas alinhada aos princípios da luta produtiva, e não se deve fornecer dicas.([[lak2026-hint-button-unproductive-use]])
+
 ### O problema da adesão nos tutores de LLM
 
 Estudantes do mundo real frequentemente **contornam o [[scaffolding|scaffolding]] de um [[conversational-ai|chatbot]]** — não necessariamente de forma prejudicial, mas frequentemente porque há um descompasso entre o enquadramento pedagógico do chatbot e os próprios objetivos de aprendizagem do estudante. Os pipelines de avaliação devem portanto medir não apenas se um tutor faz scaffolding, mas se os estudantes *aderem* a esse scaffolding, em vez de presumir que o farão.([[rethinking-scaffolding-llm-tutors]])

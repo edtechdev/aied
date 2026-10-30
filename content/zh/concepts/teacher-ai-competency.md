@@ -130,6 +130,7 @@ ai_assist:
 - **支撑制度层面：** 可持续的教师素养需要对齐的政策、治理与能力，而非孤立的培训。
 
 - **面向GenAI[[curriculum-design|课程设计]]的教师数字素养。** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez（2026）]]以434名在职教师验证了一份基于TAM的诊断工具；行为意向是使用GenAI进行课程规划的数字素养的主要预测变量，自我效能则是根本驱动因素。
+
 ### 教师AI素养的心理测量工具
 
 - 一项心理测量研究开发了教师AI素养量表（TAILS），以在[[teacher-education|语言教师教育]]中专门测量AI素养，将ED-AI框架的六个维度操作化。该工具的开发填补了针对学生或一般使用者的评估空白，支持对教师AI素养的测量。

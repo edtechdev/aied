@@ -78,6 +78,7 @@ Eğitimde YZ bağlamında tasarım odaklı düşünme [[human-ai-collaboration]]
 - [[academic-integrity]]
 - [[open-source]]
 - [[arts-design-and-media-education]]
+
 ## Bağlı makaleler
 
 - [[genai-architecture-education]] — Gen-AI-tecture: tasarım görevlerinde mimarlık öğrencilerini desteklemek için üretken yapay zeka kullanımı

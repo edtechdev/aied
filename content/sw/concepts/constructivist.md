@@ -132,6 +132,7 @@ Ujenzi wa maarifa pia unaunda jinsi ujuzi wa AI unavyofundishwa. Ikiwa maarifa h
 - [[chemistry-education]] — Elimu ya kemia na AI: maabara, tathmini ya mchakato, mipaka ya LLM, falsafa ya majaribio
 - [[theory-development-aied]] — Ukuzaji wa Nadhamia katika AI katika Elimu
 - [[productive-failure]]
+
 ## Makala Zilizounganishwa
 - [[lee-learner-question-types-ai-education-2026]] — Maswali ya wanafunzi yamegawanywa katika majukumu matatu ya ujenzi: mhamishaji, mwelekezi, mwanafunzi-mwenza (Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Inaweka constructionism (Papert) dhidi ya kocha za kiakili katika historia ya AIED

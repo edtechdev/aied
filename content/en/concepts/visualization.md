@@ -54,6 +54,7 @@ Across the works discussed here, visualization emerges as a dual-use medium: AI 
 - **"Better visualisations produce better outcomes."** Teachers **systematically preferred simpler, more traditional visualizations** (bar plots, pie charts, legends) **even when complex designs such as heatmaps yielded more detailed insights**. The more informative artifact was not the one that got used, so adoption is a separate problem from design quality.
 - **"Students look where the scaffolding is."** One study found students **spent most of their gaze on code despite elaborate visual scaffolds** — the aids simply did not capture attention. Visual support that is present but unattended changes nothing.
 - **"Engagement and comprehension move together."** Participants found AI-generated data comics **more engaging and comprehensible, yet many also flagged misinformation risk and information overload**. Both reactions came from the same artifact, so a positive reception is not a verified reading.
+
 ## Connected Concepts
 - [[learning-analytics]]
 - [[multimodal]]

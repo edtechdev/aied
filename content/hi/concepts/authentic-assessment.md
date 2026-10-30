@@ -123,6 +123,7 @@ ai_assist:
 - [[feedback]]
 - [[summative-assessment]] — योगात्मक मूल्यांकन: AI-प्रतिरोधी प्रारूप (मौखिक, प्रॉक्टर्ड, क्लोज़्ड-बुक परीक्षाएँ)
 - [[arts-design-and-media-education]]
+
 ## संबंधित लेख
 - [[thapa-lewis-process-oriented-assessment-2026]] — प्रक्रिया-उन्मुख मूल्यांकन और ज्ञान-सिद्धांतगत प्रामाणिकता, जो किसी कार्य को प्रमाणित करना चाहिए
 - [[ivory-psychology-assessment-integrity-2026]] — AI क्या उत्तीर्ण नहीं कर सका: उपस्थिति, दृश्य कलाकृतियाँ, और छात्र का अपना डेटा (Ivory et al. 2026)

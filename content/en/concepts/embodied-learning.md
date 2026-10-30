@@ -48,6 +48,7 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - **"The body is what makes embodied learning work."** A meta-analysis of **11 RALL studies (N = 595, g = 0.83, I² = 84.4%)** found that **robot morphology, modality, autonomy and social role did not moderate** second-language learning outcomes. The embodiment features were not the active ingredient, and heterogeneity was high enough (I² = 84.4%) that the pooled effect describes a very mixed set of interventions.
 - **"A large effect settles the mechanism."** g = 0.83 with 595 participants across 11 studies is a real signal and it does not identify what produced it. Since the design features did not moderate the effect, the plausible mechanism sits in the pedagogical activity rather than the hardware — which changes what to invest in.
 - **"Embodiment cannot be measured, so it stays theoretical."** Body tracking can turn regulation into a **measurable signal**: in a mixed-reality photosynthesis simulation where motion tags moved student agents across a projected model, an LLM pipeline labeled **470 segments** of regulation behavior. The construct is operationalisable even where it is hard to define.
+
 ## Connected Concepts
 - [[educational-robotics]]
 - [[active-learning]]

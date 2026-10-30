@@ -86,6 +86,7 @@ ai_assist:
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Social-Emotional Learning
+
 ## 연결된 문서
 - [[confident-but-absent-ai-use-absenteeism-2026]] — 일반적 AI 사용이 높은 자기효능감과 높은 결석과 함께 움직였으나, 자기효능감은 출석을 예측하지 못함 (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 고등교육에서의 AI 챗봇: 기대와 증거의 비교 (Thoeni & Fryer 2026)

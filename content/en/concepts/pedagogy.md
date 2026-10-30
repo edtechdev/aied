@@ -85,6 +85,7 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - **"Technical AI knowledge is what teachers need most."** Across **46 teachers and 2,832 students**, **teacher pedagogical AI knowledge** predicted students' perceptions of AI for social good. Pedagogical knowledge outperformed technical knowledge, which inverts where most training investment goes.
 - **"AI's main contribution in education is instructional."** A **PRISMA review of 28 studies** found AI most often enhanced **instructional planning and assessment design** — the clearest contribution is **offloading administrative work**, not teaching. A case built around instructional gains is building on the weaker branch of the evidence.
 - **"AI literacy instruction transfers automatically to better teaching."** A three-level meta-analysis of **59 studies (172 effect sizes)** found **knowledge-focused interventions (g ≈ .97)** clearly outperformed other approaches at moving knowledge. Moving knowledge is the measured outcome; whether it reached practice is the next question.
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -111,6 +112,7 @@ That emphasis on preserved effort is not absolute: a four-study [[mixed-methods-
 - [[higher-ed]]
 - [[k-12]]
 - [[llm-training-and-fine-tuning]] — AI tools trained to follow pedagogical principles
+
 ## Connected Articles
 - [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)

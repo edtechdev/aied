@@ -104,6 +104,7 @@ La misma lógica explica por qué la presencia no es automáticamente buena. Los
 - [[cognitive-offloading]] — la latencia y la inestabilidad como carga extrínseca
 - [[edtech-platform]] — sincronización, latencia y presencia en varios sitios
 - [[arts-design-and-media-education]]
+
 ## Artículos conectados
 
 - [[genai-ar-physics-simulation-prompt-2026]] — Un prompt de cuatro elementos que genera simulaciones de física en RA controladas con las manos; piloto con 29 estudiantes y evidencia solo de percepción

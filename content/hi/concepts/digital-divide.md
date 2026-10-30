@@ -113,6 +113,7 @@ ai_assist:
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## संबंधित लेख
 - [[watanabe-genai-education-gap-europe-2026]] — क्या जनरेटिव AI उपयोग में शिक्षा अंतराल इंटरनेट के अंतराल से छोटा है? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — नाइजीरियाई उच्च शिक्षा में संस्थागत संरचनाएँ, डिजिटल असमानता और एआई एकीकरण

@@ -74,6 +74,7 @@ Open systems are part of this picture too: AiAWE scores argumentative essays wit
 - **"Automated scoring results reflect student writing."** The ordinal signal can be **manufactured rather than observed** — synthetic level-1 essays built by template generation, degradation to **20-40% of original length** and keyword removal. A system validated on constructed extremes may never have been tested on the distribution it will meet.
 - **"Aggregate accuracy is the metric to report."** **A skewed rubric distribution can make aggregate scoring metrics mislead**: automated evaluation of a rubric dimension is often a classification task with a lopsided label distribution, where high accuracy and useful discrimination separate.
 - **"Field deployments have not been evaluated."** Field evidence exists from a real high-stakes deployment (**Uruguay's Acredita EB, 2024**), which is the strongest form of evidence in this literature and the one most studies of scoring accuracy never supply.
+
 ## Connected Concepts
 
 - [[bias-mitigation]]
@@ -86,6 +87,7 @@ Open systems are part of this picture too: AiAWE scores argumentative essays wit
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## Connected Articles
 - [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays

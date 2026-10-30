@@ -169,6 +169,7 @@ Cùng logic đó biến việc định hình phần thưởng thành một công
 - **"Khối lượng prompt đo được mức giảm tải."** **97 người học** được phân nhóm theo khối lượng prompt, và **các nhóm khối lượng không khác nhau có ý nghĩa về việc nhắc cục bộ so với toàn cục hay nhắc theo vai trò chủ động**. Đếm prompt là đếm hoạt động, không phải đếm cách phân phối công việc nhận thức.
 - **"Sinh viên dùng AI chủ yếu để hiểu bài."** **Phân tích (Analyze) đứng đầu phân bố ở 27.28% (831 tin nhắn), trên Hiểu (Understand) ở 23.76%**, bằng chứng chi tiết đầu tiên cho thấy tương tác giữa sinh viên và AI trong điều kiện tự nhiên nghiêng về phân tích chứ không hướng đến sự hiểu.
 - **"Dấu vết prompt cho biết việc giảm tải có xảy ra hay không."** Điều mà dấu vết ở cấp prompt không thể cung cấp đến từ một **mẫu con 16 sinh viên có điểm số liên kết, với 1,140 tin nhắn được mã hóa thủ công**: **49.6% trong 125 cuộc đối thoại không cho thấy việc giảm tải** nào cả. Các mô thức dấu vết đánh giá cao mức giảm tải so với đối thoại được mã hóa thủ công.
+
 ## Khái niệm liên quan
 
 - [[pedagogical-patterns]] - Rủi ro mà mọi trình tự ưu tiên nỗ lực được thiết kế để tránh

@@ -111,6 +111,7 @@ O engajamento do estudante se conecta à [[motivation|motivação]] e à [[self-
 - [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (quem aprende, professores, designers, administradores, formuladores de políticas)
 - [[self-report-measures]]
 - [[productive-failure]]
+
 ## Artigos conectados
 - [[assigned-ai-preclass-student-engagement-2026]] — A prática pré-aula com IA baseada em voz elevou as contribuições voluntárias às aulas em ~31%, mas apenas após um segundo uso (Wang et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — O uso de IA se associou a maior absenteísmo às aulas, enquanto a autoeficácia não o previu, com a influência dos pares como correlato dominante (Franco et al. 2026)

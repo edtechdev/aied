@@ -84,6 +84,7 @@ ai_assist:
 교수, [[motivation]], [[metacognition]]를 지원하기 위해 — 단순히 질문에 답하기 위해서가 아니라 — 대화 에이전트를 선택하고, HCI 기반의 참여적이고 사용자 중심의 상호작용을 위해 설계하라. CAI를 [[ai-literacy]] 지도와 학습자의 인지적 생산성을 유지하는 [[feedback]]와 짝지어 [[cognitive-offloading|과의존]]을 경계하라. AI 리터러시와 사용성을 명시적으로 다루라 — 이것들이 — 일반적 디지털 기술이 아니라 — 도입과 비사용을 이끕니다([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — 그리고 배치를 명확한 AI 활용 정책, 평가 라벨, 연수와 짝지어라. CAI를 교수법적 결과 — 과제 완수만이 아니라 — 에서 평가하고, 형평성과 [[accessibility]]를 처음부터 사후 대책이 아니라 계획에 포함하라.
 
 - **학생이 대화 에이전트와 실제로 이야기하는 방식 — 6범주 무관여 체계:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]]는 지식 그래프에 [[rag|RAG]]로 근거를 두고(고군분투하는 중학생으로 자리매김) 학생의 설명을 비평하는 멘토 에이전트와 짝지어진 GPT-4-Turbo 가르칠 수 있는 에이전트를 Math Nation의 Algebra와 Geometry 수업에 내장하고, 246명 학생의 발화 5,522건을 부호화했습니다. 참여(발화의 75.7%) 너머에서 이들은 False Answering(12.8%), Withholding(8.9%), Random/Noisy(2.1%), Mirroring(0.6%), Mocking(0.3%), Ghosting(0.2%)을 밝혀냈으며 — Mirroring(에이전트의 텍스트를 베끼는 것)은 데이터에서 귀납적으로 드러났습니다. 분류는 인간 참여형이었습니다. 두 채점자가 발화 1,682건에 주석을 달아(범주별 κ = 0.704–0.905) 미세 조정된 LLaMA 3 분류기를 훈련시켜(보류 스레드에서 가중 F1 = 0.910) 남은 발화 3,840건에 꼬리표를 붙였습니다. 이어 과정 수준의 경쟁 위험(competing-risks) 분석은 대부분의 무관여가 몇 차례 안에 해소되나 Withholding은 지속됨을 보여 주었습니다 — 이는 에이전트 응답을 설계할 만한 신호입니다.
+
 ## 흔한 오해
 
 - **"대화형 에이전트의 신뢰성은 정확성을 따라간다."** **사용자들은 에이전트의 신뢰성을 사회적으로 읽습니다.** ChatGPT의 지각된 **유능함**은 피드백 신뢰성을 **직접** 예측했지만, 지각된 **따뜻함**은 그 경로를 **통해서만** 작동했습니다. 따뜻하고 유능해 보이는 에이전트는 제시 방식에서 신뢰를 얻으며, 이는 정확성과 별개의 축입니다.
@@ -113,6 +114,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
+
 ## 연결된 문서
 
 - [[rho-disengaged-conversational-behaviors-2026]] — 학생-AI 대화에서 나타나는 비참여적 대화 행동 (Rho et al. 2026)

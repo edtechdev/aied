@@ -91,6 +91,7 @@ Akaunti ya Thapa na Lewis ni ya dhana: hakuna washiriki, hakuna ukusanyaji wa da
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Makala Zilizounganishwa
 - [[alam-process-oriented-collaborative-essays-2026]] — Insha ya mchakato iliyoandikwa kwa ushirikiano, iliyopewa alama, katika mafunzo ya digrii ya mwaka wa kwanza: kurudia na ushirikiano katika rubriki, GenAI inaruhusiwa ndani ya mipaka iliyoainishwa (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — utendaji sio kujifunza: mpango wa utafiti uliojengwa juu ya vipimo vya mchakato (Yan et al. 2026)

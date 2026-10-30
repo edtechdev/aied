@@ -120,6 +120,7 @@ Le repli porte un coût probatoire que les preuves issues des dossiers d'affaire
 - [[feedback]]
 - [[summative-assessment]] — Évaluation sommative : formats résistants à l'IA (examens oraux, surveillés, à livre fermé)
 - [[arts-design-and-media-education]]
+
 ## Articles liés
 - [[thapa-lewis-process-oriented-assessment-2026]] — l'évaluation fondée sur le processus et l'authenticité épistémique comme ce qu'une tâche devrait authentifier
 - [[ivory-psychology-assessment-integrity-2026]] — Ce que l'IA ne pouvait pas passer : la présence, les artefacts visuels et les propres données de l'étudiant (Ivory et al. 2026)

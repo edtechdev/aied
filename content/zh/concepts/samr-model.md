@@ -51,6 +51,7 @@ SAMR 常与[[icap-framework|ICAP 框架]]配对，因为两者对齐：[[thermom
 - **SAMR 是后人本主义批评的目标。** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed（2026）]]批评 TPACK、SAMR 和[[ai-literacy]]模型共享一种人本主义本体论，这种本体论预设了一个有边界的、其认知从根本上不受技术中介改变的学习者，主张这些工具主义框架无法处理 AI 在认知中的构成性角色。
 - **一个整合的框架，而不是一个关于权力的框架。** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal（2026）]]把 SAMR 与 TPACK 及其他整合框架并列评估，发现没有一个处理公平的权力、数据所有权或问责，这促成了一种替代性的生态共能动性框架。
 - **学生的使用也映射到 SAMR，而反馈跨越每一个层级。** 对一个[[physics-education|物理]]单元中 31–36 名学生的生成式 AI 声明作编码，把学习放在替代-增强，格式放在替代，任务执行放在修改-重新定义，而反馈 —— 检查、澄清、核验 —— 出现在全部四个层级（[[genai-use-changing-institutional-policy-physics-2026|Quince 与 Faulconer（2026）]]）。
+
 ## SAMR、TPACK 与技术采纳：它们如何不同
 
 三个框架常被混淆，但回答不同的问题：

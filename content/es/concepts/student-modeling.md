@@ -135,6 +135,7 @@ El modelado del estudiantado y la instrucción adaptativa alimentan la [[learnin
 - [[feedback]]
 - [[recommender-systems-and-learning-paths]]
 - [[student-support-and-success]] — los modelos que subyacen a la predicción de riesgo y a la focalización del apoyo
+
 ## Artículos conectados
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobregeneralización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)
 - [[causal-modeling-competency-assessment-2026]] — Modelado causal de intervenciones de apoyo para la evaluación de competencias del estudiantado

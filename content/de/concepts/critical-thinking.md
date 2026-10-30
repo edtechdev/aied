@@ -95,6 +95,7 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 - **Verifikation als Lernaktivität, nicht nur als Schutz.** [[pearls-epistemic-verification-2026|Wang (2026)]] organisiert die Evaluation von KI-Artefakten um sechs interdependente Dimensionen — Prozess, Belege, Zugang, Reproduzierbarkeit, Legitimität und Quelle — und behandelt das Zusammenstellen dieser Begründung, statt der Flüssigkeit der Ausgabe, als das, was fachliche Expertise aufbaut.
 
 **Die größte von Expertinnen und Experten bewertete Verletzlichkeit in der Wissensbasis ist kritisches Denken.** Über 65 von 30 Expertinnen und Experten bewertete Lernprozesse hinweg zogen Kritisches Denken und kritisch-analytisches Denken die höchste Störungsbewertung des Berichts auf sich (Mittelwert 4.00 von 5; 96% der Bewertenden bei 3 oder darüber), mit Verbesserung unter der Schwelle (2.40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Zehn von achtzehn höherstufigen Prozessen erreichten Konsens nur über Verletzlichkeit, was der Bericht als einseitiges Risiko liest statt als Trade-off.
+
 ## Verbundene Konzepte
 - [[metacognition]]
 - [[cognitive-offloading]]

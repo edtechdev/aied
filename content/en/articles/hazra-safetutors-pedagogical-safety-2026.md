@@ -87,6 +87,7 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest and stud
 - Multi-turn evaluation spans 5–8 turns, a shorter horizon than semester-long tutoring, so longer-term degradation is inferred from a capped window.
 - Pedagogical scoring is automated using DeepSeek-32B and validated by two doctoral students on a stratified sample of 900 single-turn responses and 300 multi-turn conversations (Cohen's κ = 0.76), leaving most of the output set checked only by the model.
 - The 11-dimension, 48-sub-risk taxonomy is derived from learning-science literature and assembled by the authors rather than empirically discovered, so dimension boundaries are analytic choices.
+
 ## Citation
 
 Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373).

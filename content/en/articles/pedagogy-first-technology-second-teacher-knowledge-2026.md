@@ -36,6 +36,7 @@ methods: [quantitative-research]
 - Those 46 teachers taught 2,832 students in 144 classes across 29 schools, so teacher-level estimates rest on a small number of higher-level units.
 - All constructs — teacher knowledge and students' SAIK, SAISG, and SBIAI — were measured with self-report Likert questionnaires, with no observed classroom or achievement data.
 - Data cover a single academic year (September 2023 to May 2024); the authors note longitudinal dynamics were not captured and that students' informal AI exposure may introduce unmeasured mediators.
+
 ## Citation
 
 Shen, W., Chai, C.-S., Chiu, T. K. F., Yau, K. W., Meng, H., King, I., Wong, S., & Yam, Y. (2026). [Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student learning in artificial intelligence (AI) education](https://www.sciencedirect.com/science/article/pii/S2666920X26000263). *Computers and Education: Artificial Intelligence*, 10, 100564.

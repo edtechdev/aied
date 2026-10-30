@@ -96,6 +96,7 @@ A mesma lógica explica por que a presença não é automaticamente boa. A cinet
 - [[cognitive-offloading]] — a latência e a instabilidade como carga extrínseca
 - [[edtech-platform]] — sincronização, latência e presença multissítio
 - [[arts-design-and-media-education]]
+
 ## Artigos conectados
 
 - [[genai-ar-physics-simulation-prompt-2026]] — prompt de quatro elementos gerando simulações de física em RA controladas com as mãos; piloto com 29 estudantes, evidência apenas de percepção

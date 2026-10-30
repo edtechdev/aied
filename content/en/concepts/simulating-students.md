@@ -117,6 +117,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - **"LLM students are good enough proxies."** **Simulations cover the easiest students, and few are validated**: **twelve teachers** who tutored LLM students reported **overly complex language, missing emotion** and other departures from real learners. The proxy models the tractable case.
 - **"A simulated student with a knowledge gap behaves like a learner with that gap."** Suppressing **16 targeted knowledge components in Mistral-7B dropped accuracy from about 0.75 at a 10% forgetting ratio to below 0.5 at 40%**, while the base model held. The degradation was engineered, which is what makes it a controlled manipulation rather than an emulation.
 - **"Persona stability is a model-choice problem."** It is an **interaction-design problem**: crossing **five LLMs with three prompt designs and four ADHD-intensity personas**, scripted differences tracked the prompt design rather than the model. Choosing a better model does not fix an unstable persona.
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

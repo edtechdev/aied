@@ -152,6 +152,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 
 - **Teachable agents and the classification of disengaged dialogue:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] ran a GPT-4-Turbo teachable agent inside Math Nation (Algebra and Geometry), where students identified which of two worked solutions contained a misconception, justified the correction, and taught the agent — a [[learning-by-teaching]] structure with a separate mentor agent scoring explanation quality. Over 6,933 problems opened and 22,143 interactions logged, they built a six-category conversational-disengagement classifier (human-in-the-loop: 1,682 annotated utterances, fine-tuned LLaMA 3, weighted F1 = 0.910, model-vs-human κ = 0.624) and used it to study 246 middle-school students. The methodological contribution is as important as the finding: when a classifier labels most of the corpus, prevalence results must be stress-tested against the human-annotated subset — and here the headline association (False Answering and Mocking predicting higher post-test) evaporated under exactly that test.
+
 ## Common Misconceptions
 
 **"A stronger model makes a better tutor."** Effectiveness hinges on pedagogical design — [[scaffolding]], feedback quality and the balance of autonomy and guidance — rather than on the underlying model. The clearest demonstration is the Apprentice Tutor College Algebra ITS: supplying GPT-4 with the tutor's *interface structure* and Bayesian [[knowledge-tracing]] skill estimates produced gains that the bare model did not, because the knowledge of how to teach lived in the system around the model.
@@ -183,6 +184,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[guardrails]]
 - [[k-12]]
 - [[speech-and-voice-technologies]]
+
 ## Connected Articles
 - [[cen-sonkar-muse-llm-tutors-multi-solution-2026]] — MUSE: revealing responsiveness gaps of LLM tutors on multiple-solution programming problems (Cen & Sonkar 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)

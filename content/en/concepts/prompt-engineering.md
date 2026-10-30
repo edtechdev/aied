@@ -67,6 +67,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 
 - **Role and constraint design as the independent variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] compare two agents built on the same model and platform at temperature 0.3 whose only difference is how the prompt specifies role, skills, and constraints: an expert teacher agent answering from a bounded textbook knowledge source versus an empathic student-centered agent scripted to diagnose [[misconceptions]] and check comprehension. The role difference alone shifted learning performance, cognitive load, flow experience, and perceived empathy, showing that role specification is an instructional-design decision with measurable effects rather than a stylistic flourish ([[pedagogical-agent]]).
 - **Prompting as assessment design.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] map Evidence-Centered Design's student, evidence, and task models onto the parts of a scoring prompt, deriving five principles — intentionality, traceability, accountability, iteration, and equity; their ECD-built prompts scored narrative essays more accurately than zero-shot, few-shot, and chain-of-thought baselines.
+
 ### Connections to broader concepts
 
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
@@ -84,6 +85,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - **"Prompt quality is a student attribute."** **Prompt cognition tracks the discipline, not the student**: [[student-ai-conversations-cognitive-engagement-2026|Chang and Li (2026)]] classified **60,087 prompts from 116 courses** and found the discipline predicted prompt sophistication. Teaching students to prompt better addresses a variation that sits in the subject matter.
 - **"Students develop their own prompting practice."** When the instructor modeled the prompt, **students reused it verbatim** — among **310 recorded prompts from twelve middle-school STEAM groups**, exact copying of the instructor's instruction was common. Modeling produces reproduction, which is why it is a system-design lever rather than a transferable skill.
 - **"Prompting is a learner skill first and a system property second."** This shifts prompting **into an adaptive system-design lever**, with measured effects on **engagement and efficiency (28.1% vs 19.6% exercise conversion)**. The interface's prompting affordances moved behavior more than instruction in prompting did.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — The scaffolding layer inside structured-use sequences
 - [[vibe-coding]]

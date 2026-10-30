@@ -32,6 +32,7 @@ Experiential learning is closely related to [[active-learning]], [[project-based
 - **A virtual laboratory can outperform the physical one when the apparatus is not the point.** Grade 9 students on Ohm's law scored 23.45, 20.51 and 16.57 of 30 in the AI-supported virtual laboratory, the same laboratory without AI, and the physical laboratory, with every pair significant ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]); the authors concede the physical laboratory's disadvantage may shrink where handling apparatus is itself the goal.
 
 - **AI as infrastructure for uncertainty, not efficiency.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] give a generative-AI role the job of generating disruptive events and cascading consequences in a business simulation, so teams revise plans under incomplete information, and warn that protected simulations can leave decision habits that become a liability outside the classroom.
+
 ### Two forms of hands-on learning in an AI-supported curriculum
 
 A thematic review of 32 peer-reviewed studies of hands-on learning in AI-supported design education

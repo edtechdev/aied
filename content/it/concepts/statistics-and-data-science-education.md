@@ -80,6 +80,7 @@ La qualità delle impalcature conta indipendentemente dall'accesso. Un confronto
 - **"Soddisfazione e beneficio percepito indicano che uno strumento IA per la data science funziona."** Gli studenti usavano pesantemente gli LLM per il debugging e le domande concettuali e **dichiaravano un'elevata soddisfazione, mentre il loro beneficio percepito di apprendimento profondo calava nel corso del semestre**. La soddisfazione restava e la traiettoria di apprendimento autovalutata scendeva, quindi nessuna delle due cifre da sola è l'esito.
 - **"Un modello senza restrizioni vale quanto un tutor guidato."** Un confronto sperimentale ha rilevato che **una formazione esplicita allo scaffolding centrato sul ragionamento — suggerimenti a passi, verifica — produceva prestazioni indipendenti migliori** rispetto all'accesso senza restrizioni. La guida, e la formazione su come usarla, portavano l'effetto.
 - **"Proteggersi dal dare risposte basta."** Un tutor costruito appositamente attorno a un'API ospitata, con un system prompt che lo induce a **guidare anziché rispondere**, è stato distribuito in un corso semestrale di R per studenti di laurea in psicologia, **dove dal 76% all'84% degli studenti lo ha usato nelle settimane rilevanti per l'esame. Questa è adozione, non prova che la protezione abbia prodotto apprendimento:** La protezione a livello di prompt è una leva tra diverse e non produce di per sé apprendimento.
+
 ## Concetti collegati
 
 - [[math-education]]

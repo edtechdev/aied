@@ -134,6 +134,7 @@ ai_assist:
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## 関連論文
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching

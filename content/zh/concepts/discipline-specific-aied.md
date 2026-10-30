@@ -132,6 +132,7 @@ ai_assist:
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## 关联文章
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — AI 在跨学科高等教育中的系统综述（59 项研究）
 - [[llms-text-linguistics-teaching-2026]] — 文本语言学教学中的大语言模型

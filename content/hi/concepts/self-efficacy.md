@@ -87,6 +87,7 @@ ai_assist:
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — सामाजिक-भावनात्मक सीखना
+
 ## संबंधित लेख
 - [[confident-but-absent-ai-use-absenteeism-2026]] — सामान्य एआई उपयोग उच्च स्व-प्रभावशीलता और उच्च अनुपस्थिति के साथ चला, फिर भी स्व-प्रभावशीलता ने उपस्थिति की भविष्यवाणी नहीं की (Franco et al. 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — विद्यार्थियों के तर्क का समर्थन या प्रतिस्थापन? AI-सहायित प्रमाण अधिगम में संज्ञानात्मक ऑफलोडिंग (Chen et al. 2026)

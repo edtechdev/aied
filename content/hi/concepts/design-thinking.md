@@ -88,6 +88,7 @@ ai_assist:
 - [[academic-integrity]]
 - [[open-source]]
 - [[arts-design-and-media-education]]
+
 ## संबंधित लेख
 
 - [[genai-architecture-education]] — Gen-AI-tecture: डिज़ाइन कार्यों में वास्तुकला छात्रों का समर्थन करने के लिए जनरेटिव एआई का उपयोग

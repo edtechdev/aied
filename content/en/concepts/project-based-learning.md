@@ -57,6 +57,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - **"Customising the tool improves the outcome."** Tool type moderated the effect significantly (**QM = 14.301, p < .001**), and the direction is counterintuitive: a **general chatbot used directly pooled higher (g = 0.970)** than systems **customised into course platforms, virtual patients or agents (g = 0.455)**. The bare tool outperformed the engineered one, which argues against assuming that purpose-built products are the better purchase.
 - **"Students find open-endedness the hard part."** In the student-perception data, **open-endedness was the top positive theme (22.3%)** while **unclear instructions topped the negatives (23.7%)**. Students welcomed the freedom and objected to the ambiguity — a distinction that matters because the fix is different: clearer task framing, not less open-ended work.
 - **"Students who enjoyed it learned more."** Perceived learning correlated with quiz scores only **modestly (r = 0.161-0.315)**. Satisfaction and measured learning are weakly related here, so a positive PBL evaluation is not by itself evidence the learning objectives were met.
+
 ## What this means for practice
 
 **For instructors**
@@ -70,6 +71,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 - The moderation finding is a product warning: engineering a chatbot into a bespoke environment coincided with a *smaller* pooled effect. Validate that customisation adds learning value rather than assumed convenience.
 - If you ship a PBL module, the instruction layer is the feature that earns the outcome, not the model.
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -82,6 +84,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[higher-ed]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - [[pbl-structural-conditions-ai-2026]]

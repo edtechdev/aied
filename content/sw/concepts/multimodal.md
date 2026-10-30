@@ -115,6 +115,7 @@ Mifumo ya modaliti nyingi pia inapanua upatikanaji na [[personalized-learning|ub
 - [[virtual-and-augmented-reality]] — ishara za kubofya, sauti na nafasi kama njia za kujifunza
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Makala Zilizounganishwa
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Uundaji wa video ya PSA kuhusu maadili ya AI kama mbinu za kufundisha ujuzi mahususi wa AI (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Uundaji wa Transformer ya Modaliti Nyingi Unaoelewa Usawa kwa Ukadiriaji wa Umakini wa Mwanafunzi wa Wakati Halisi

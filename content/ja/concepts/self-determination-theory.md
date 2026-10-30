@@ -84,6 +84,7 @@ SDTは、その上位の構築物として[[motivation]]に、感情を認識す
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## 関連する記事
 - [[family-school-autonomy-support-genai-2026]] — 子どもの生成AIの責任ある使用のための家庭と学校の自律性の支援
 - [[dual-ai-learning-pathways-sdt-2026]] — 高校の圧力と自律性の支援、そして二重のAI学習の経路(Shen & Arunrugstichai 2026)

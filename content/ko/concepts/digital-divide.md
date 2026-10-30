@@ -106,6 +106,7 @@ AI는 기술이 지니는 형평성 함의에 새로운 층위를 더합니다. 
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## 연결된 문서
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 나이지리아 고등교육의 제도 구조, 디지털 불평등, AI 통합
 - [[ai-divide-ses-personality-primary-education-2026]] — 초등교육에서의 사회경제적 지위, 성격, AI 격차(Wang et al. 2026)

@@ -174,6 +174,7 @@ De eerste Theory of Planned Behavior-studie naar wangedragintentie via GAIT brei
 - **"Detectietools identificeren AI-schrijfwerk."** Door AI gegenereerde tekst is **in tot 80% van de gevallen als door mensen geschreven doorgegaan**, terwijl het bewijs voor detectie **machinale detectie op ongeveer 80% plaatst tegen 78,4% voor menselijke beoordelaars**. Menselijk en machinaal oordeel zijn bijna even (on)betrouwbaar, dus een detectieverdict is geen bewijs van auteurschap.
 - **"Het probleem is marginaal."** Het volume is dat allerminst: een **analyse over zes jaar van een CS2-vak met grote inschrijving** vond dat **45,7% van de studenten in het voorjaar van 2026 werd gemarkeerd**. Bijna de helft van een cohort, wat dit een mainstream ontwerpprobleem maakt in plaats van een randgeval.
 - **"Docenten weten welke beoordelingen kwetsbaar zijn."** In een [[biology-education|biologie]]-afdeling **zagen docenten alleen fysieke afgenomen examens onder toezicht als minimaal kwetsbaar**, terwijl opdrachten buiten de les als blootgesteld werden gezien. De perceptie klopte voor het voor de hand liggende geval en behandelde al het overige als veilig.
+
 ## Verbonden concepten
 - [[pedagogical-patterns]] - verificatiesequensen die zijn overgenomen als reactie op generatieve AI
 - [[ai-use-disclosure]] - verklaringen over AI-gebruik en openbaarmaking

@@ -85,6 +85,7 @@ En lugar de tratar las teorías del aprendizaje como filosofía abstracta, la ba
 Las teorías del aprendizaje también aparecen como contenido en los currículos de [[ai-literacy|alfabetización en IA]]: el estudiantado estudia el conductismo, el cognitivismo, el constructivismo y el conectivismo para entender los supuestos [[pedagogy|pedagógicos]] que hay detrás de las herramientas que usa.([[generativism-learning-theory]]) Enseñar esta línea da al estudiantado (y al profesorado) el vocabulario para criticar por qué un producto de IA está construido como está y si sus mecánicas sirven al objetivo de aprendizaje en cuestión.
 
 - **El agente mediacional.** Warschauer, Tate y Ritchie (2026) sostienen que la IA generativa rompe la distinción sociocultural entre medios mediacionales e interacción social, y proponen el *agente mediacional*: un sistema que media la acción y a la vez genera contribuciones contingentes y no atribuibles, y que ocupa un espacio híbrido entre la herramienta y la pareja social. De ahí se derivan cinco hábitos de participación centrados en lo humano (primacía de la cognición humana, [[student-engagement|implicación]] intencionada, agencia supervisora, vigilancia epistémica y autorregulación reflexiva).([[generative-ai-mediational-agent-sociocultural-2026]])
+
 ### Teorías propuestas para la era de la IA
 
 Junto a las familias clásicas, la base de conocimiento documenta teorías escritas específicamente para el aprendizaje con sistemas de IA, y estas aportan las implicaciones de diseño que las teorías más antiguas dejan abiertas. El [[yan-agentivism-learning-theory-ai-2026|agentivismo (Yan y Gašević 2026)]] es un ejemplo de alcance medio: define el aprendizaje como un crecimiento duradero de la capacidad humana y no como la mera finalización exitosa de una tarea, nombra cuatro mecanismos (agencia delegada, supervisión y verificación epistémicas, internalización reconstructiva y transferencia con apoyo reducido) y enuncia seis proposiciones contrastables, entre ellas que el apoyo de IA que preserva la responsabilidad de quien aprende sobre el planteamiento del problema, el establecimiento de criterios y la justificación produce un aprendizaje más sólido que el apoyo que entrega respuestas.
@@ -143,6 +144,7 @@ Junto a las familias clásicas, la base de conocimiento documenta teorías escri
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — General: pedagogías y estrategias didácticas en la educación con IA
+
 ## Artículos conectados
 - [[yan-agentivism-learning-theory-ai-2026]] — Una teoría del aprendizaje de alcance medio para la interacción humano-IA, con cuatro mecanismos y seis proposiciones contrastables (Yan y Gašević 2026)
 

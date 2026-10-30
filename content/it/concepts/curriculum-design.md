@@ -114,6 +114,7 @@ La progettazione curricolare si collega direttamente a [[learning-design|la prog
 - [[collaborative-learning]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[recommender-systems-and-learning-paths]]
+
 ## Articoli collegati
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective

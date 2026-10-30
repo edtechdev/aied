@@ -57,5 +57,6 @@ Rather than treating policy as a generic ethical horizon, the authors argue AI�
 - Only empirical studies, meta-analyses, and systematic reviews were eligible; conceptual papers, commentaries, reports, and working papers were excluded.
 - Coding of implicit policy implications is subjective, as the authors acknowledge — two authors coded individually and resolved disagreement with a third, with no inter-coder reliability statistic reported.
 - No time-frame limit was applied, and each distinct implication statement rather than each paper was the unit of analysis, so papers contribute unequally to the counts.
+
 ## Citation
 Tran, V. C., Liu, Y., & Nguyen, V. T. (2026). [*The Policy Deficit in AI × Social-Emotional Learning Research*](https://arxiv.org/abs/2608.29950). arXiv:2608.29950.

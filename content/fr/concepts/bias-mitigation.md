@@ -113,6 +113,7 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Articles liés
 
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]

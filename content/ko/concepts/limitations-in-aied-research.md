@@ -142,6 +142,7 @@ AI는 끊임없이 변하고 있으며, 어떤 주어진 모형이나 시스템�
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — 교육에서의 인공지능의 이론 개발
+
 ## 연결된 문서
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 고등교육에서의 AI 챗봇: 기대를 증거와 비교하기(Thoeni & Fryer 2026)
 

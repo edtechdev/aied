@@ -115,6 +115,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — жесты, голос и пространственный ввод как каналы обучения
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Связанные статьи
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Видеокомпозиция в формате социальной рекламы по этике ИИ как педагогика критической ИИ-грамотности (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

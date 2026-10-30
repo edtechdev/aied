@@ -51,6 +51,7 @@ ai_assist:
 2년간의 학구 RCT에서 구속적 제약은 적응 메커니즘이 아니라 이용률이었습니다. 수강을 단일 단계로 줄인 것만으로 첫 세션 이용률이 약 45%에서 83%로 올랐고(설계 변경만으로), 이용률이 오르면서 의도-처리 향상도 커졌습니다([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos 외(2026)]]).
 
 44개 연구에 대한 PRISMA 정합 검토는 참여 문헌이 행동적 참여로 치우쳐 있고 에이전트적 참여에서 가장 얇음을 발견하며, ALEKS와 W-Pal의 종단 연구에서 도구의 새로움이 사라지자 시간이 흐르며 참여가 감소하는 신기성 효과를 보고합니다([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng와 Fryer(2026)]]).
+
 ### AI 시대: LLM 기반 적응과 그 위험
 
 [[generative-ai|생성 AI]]는 적응 시스템이 할 수 있는 것을 확장했습니다 — 대화형 [[agentic-ai|에이전트]] 튜터, [[rag]] 기반 내용, [[llm]] 기반 [[intelligent-tutoring|교습]]은 문제 난이도뿐 아니라 언어와 설명 방식도 적응시킵니다(예: [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|다중 에이전트 적응 교습]]). 그러나 LLM 기반 적응은 새로운 위험을 도입합니다: 신뢰할 만한 [[student-modeling|학생 모델]]이 없으면 적응이 피상적 신호에 기반할 수 있으며, 과잉 적응은 학생이 필요로 하는 생산적 투쟁을 줄일 수 있습니다([[desirable-difficulties]], [[cognitive-offloading]] 참조); 그리고 개인화와 학습자 [[agency]] 보존 사이의 균형은 열린 설계 질문입니다([[agentic-ai|에이전트 AI]] 참조). 학습자가 요청한 적응의 변형은 [[student-modeling|학생 모델]] 없이 전혀 작동합니다: Sidorkin(2026)의 대학원 강의에서 읽을거리는 학생들이 재구성하거나, 심화하거나, 단순화하거나, 지역화하는 후속 질문을 할 때만 조정되었고, 이해 지향적 요청은 기준 텍스트보다 3.4배에서 8.7배 더 많은 정의 표지를 꾸준히 만들어 냈으며, 이것이 읽을거리당 최소 세 개의 후속 질문을 요구한 것이 자료를 상호작용으로 만든 이유입니다. 이것은 또한 적응의 부담을 학습자에게 재배치합니다: 여기서 적응은 학생이 무엇을 요청해야 할지 아는 경우에만 일어납니다.

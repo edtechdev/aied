@@ -90,6 +90,7 @@ Ufikiri mahususi unakutana na [[scaffolding]] (kubuni msaada wa AI unaohifadhi m
 - **Uhakiki kama shughuli ya kujifunza, si ulinzi tu.** [[pearls-epistemic-verification-2026|Wang (2026)]] anaandaa tathmini ya vitu vya AI kuzunguka vipimo sita vinavyotegemeana — Mchakato, Ushahidi, Upatikanaji, Kurudia, Uhalali na Chanzo — na anatenda kuikusanya uhakiki huo, badala ya ufasaha wa matokeo, kama kile kinachojenga utaalam wa taaluma.
 
 **Uathirika mkubwa zaidi ulioratingiwa na wataalam katika hifadhi ya maarifa ni ufikiri mahususi.** Katika michakato 65 ya kujifunza iliyoratingiwa na wataalam 30, Ufikiri Mahususi na Ufikiri Mahususi-Kichanganuzi vilipata ratingi ya juu zaidi ya kuvuruga ya ripoti (wastani 4.00 ya 5; 96% ya wanaoratingi wakiwa 3 au juu yake) huku uboreshaji ukiwa chini ya kizingiti (2.40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Kumi ya michakato kumi na nane ya kiwango cha juu ilifikia makubaliano juu ya uathirika tu, ambayo ripoti inasoma kama hatari ya upande mmoja badala ya ubadilishanaji.
+
 ## Dhana Zilizounganishwa
 
 - [[metacognition]]

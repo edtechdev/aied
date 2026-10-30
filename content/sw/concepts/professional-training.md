@@ -86,6 +86,7 @@ Mafunzo ya kitaalamu yanatofautiana na elimu ya kitaaluma katika uzito wake kwa 
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[virtual-and-augmented-reality]] — ambapo mazoezi ya kuvumbulia yameimarishwa zaidi
+
 ## Makala Zilizounganishwa
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI na Mustakabali wa Wafanyakazi wa Uhandisi na Makokotozi
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Mfumo wa Kiwango cha Utayari wa Wafanyakazi kwa viwanda mahiri katika enzi ya AI

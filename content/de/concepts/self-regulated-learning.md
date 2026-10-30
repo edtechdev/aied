@@ -180,6 +180,7 @@ Welche Unterstützung im Spiel ist, entscheidet, welcher Mediator die Assoziatio
 ## Konversationelle Agenten und SRL in Simulationsspielen
 
 - **Konversationelle Agenten, die selbstreguliertes Lernen in Spielen unterstützen.** Wenzel, Geiger und Liening (2026) zeigen, dass ein KI-konversationeller Agent (Lara) in einem Wirtschafts-[[simulation|Simulationsspiel]] selbstreguliertes Lernen durch metrikbasiertes [[formative-assessment|formatives]] Feedback, Anleitung auf Abruf und strukturierte Reflexion unterstützen kann — und damit die gängige Grenze angeht, dass Simulationsspiele begrenztes formatives Feedback und Reflexionsprompts bieten. Evaluationen mit Lehramtsstudierenden und BSG-Teilnehmenden berichteten positive Wahrnehmungen der kognitiven und [[community-of-inquiry|sozialen Präsenz]] des Agenten und seiner Unterstützung für Selbstregulation.
+
 ## Automatisierte SRL-Erkennung: Was transferiert und was nicht
 
 - **Auf Embeddings basierende SRL-Klassifikatoren kreuzen Sprachen innerhalb einer Domäne, aber nicht über Domänen hinweg.** Eine Studie mit 26 Studierenden (Chemie und formale Logik; Think-Aloud-Protokolle kodiert mit dem Winne-und-Hadwin-Modell) fand, dass auf Embeddings basierende Modelle (text-embedding-3-small), die auf Englisch trainiert wurden, deutsches SRL bei ~0,8 AUC mit ~0,1 Degradierung klassifizieren — außer Enactment (~0,7). Domänenübergreifender Transfer scheitert: Chemie-zu-Logik fällt auf ~0,6, Enactment auf Zufallsniveau (~0,5) — die Domänenmauer, nicht die Sprache, bindet.

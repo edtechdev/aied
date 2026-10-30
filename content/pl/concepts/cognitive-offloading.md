@@ -169,6 +169,7 @@ Ta sama logika zamienia kształtowanie nagród w narzędzie projektowe: [[assist
 - **„Wolumen promptów mierzy odciążanie."** **97 uczących się** pogrupowano według wolumenu promptów i **skupienia wolumenu nie różniły się istotnie w promptowaniu lokalnym versus globalnym ani w odgrywaniu aktywnej roli**. Liczenie promptów liczyło aktywność, a nie rozkład pracy poznawczej.
 - **„Studenci używają SI głównie, by rozumieć."** **Kategoria Analyze znalazła się na czele rozkładu z 27,28% (831 wiadomości), przed Understand z 23,76%** - pierwszy drobnoziarnisty dowód, że naturalistyczna [interakcja student-SI] skłania się ku analityce, a nie rozumieniu.
 - **„Ślady promptów ujawniają, czy odciążanie nastąpiło."** To, czego ślady na poziomie promptów dać nie mogą, pochodzi z **podpróbki 16 studentów z powiązanymi ocenami, których 1 140 wiadomości zakodowano ręcznie**: **49,6% ze 125 dialogów nie wykazało odciążania** w ogóle. Wzorce śladów zawyżają odciążanie wobec ręcznie kodowanego dialogu.
+
 ## Połączone koncepcje
 
 - [[pedagogical-patterns]] - ryzyko, którego unika każda sekwencja „najpierw wysiłek"

@@ -106,6 +106,7 @@ Fowlin et al. (2026) voegen een operationele stap toe om te beslissen waar AI bi
 - **"AI-lesplanning geeft leraren tijd terug."** De planningstijd daalde inderdaad, van 3,32 uur per week naar 2,51 met de tool, maar **de mediane leraar plande slechts 21% tot 40% van de lessen vanaf nul**. Er werd tijd bespaard en de planning werd niet wezenlijk grondiger - de besparing werd geoogst in plaats van herinvesteerd.
 - **"Co-design met AI is goed onderbouwd."** Een systematisch review van [[wang-teacher-ai-co-design-review-2026|co-design van leertaken door leraar en AI]] **bevestigt het patroon op schaal over 28 studies**, wat een consistente praktijk beschrijft in plaats van superieure uitkomsten aan te tonen.
 - **"De rubriek is een vaste invoer."** De rubriek functioneert als een **bemiddelende interface tussen menselijke pedagogische intentie en machine-inferentie**: beoordelingscriteria als **herzienbaar** behandelen is wat het instrument de intentie van de onderwijsprofessional laat dragen. Een vaste rubriek draagt de standaardkadrering van de machine over aan de beoordeling.
+
 ## Verbonden concepten
 
 - [[interpreting-and-applying-aied-research]]

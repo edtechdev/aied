@@ -247,6 +247,7 @@ Nello specifico dell'alfabetizzazione critica sull'IA, [[solyst-youth-systematic
 - [[higher-ed]] — alfabetizzazione a livello universitario
 - [[career-development-and-readiness]] — il risultato di impiegabilità che si sostiene l'alfabetizzazione sull'IA costruisca
 - [[ai-education]] — il campo più ampio
+
 ## Articoli collegati
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Plasmare la prima infanzia nell'era dell'IA: competenze, pedagogia e supporto ecologico (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Alfabetizzazione alla sicurezza dell'IA: framework di competenza basato sull'ecosistema e piattaforma di apprendimento K-12

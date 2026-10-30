@@ -65,6 +65,7 @@ The role is also distinct from its neighbours. [[learning-design]] and [[curricu
 - **"Adding citations and provenance makes a system more trustworthy."** In a [[agentic-ai|multi-agent]] debate setting, adding citations and authority signals to the AI's position **raised abandonment of a correct judgment from 15.0% to 31.8%**. Provenance was not neutral information: it made the wrong answer more persuasive. Credibility cues need to be evidence of correctness, not decoration around a claim.
 - **"Co-design with users validates the design."** Co-design answers a different question than efficacy does. When a tool is co-designed with students and **96% say they want it kept**, that is a finding about acceptability. Whether learning improved is a separate measurement, and the two can point in opposite directions without either being wrong.
 - **"Agents are the next capability tier."** The [[instructional-agents-multi-agent-course-gen|Instructional Agents]] ablation is the useful counterexample: the single-agent baseline scored **worst** and the Full Co-Pilot configuration **beat the Autonomous** one. More autonomy was not the better design; the co-pilot arrangement was. Architecture choices have to be evaluated rather than assumed to improve with capability.
+
 ## What this means for practice
 
 **For developers and designers**
@@ -78,6 +79,7 @@ The role is also distinct from its neighbours. [[learning-design]] and [[curricu
 
 - Ask how the tool was evaluated on the task you intend to use it for, and whether the evaluation was co-pilot or autonomous. The two are not interchangeable.
 - Ask when the evaluation happened. Capability claims tied to an unstated model version date quickly and describe a system you will not be running.
+
 ## Connected Concepts
 
 - [[edtech-platform]]

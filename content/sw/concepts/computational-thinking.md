@@ -66,6 +66,7 @@ Kwa waalimu, ujumbe unaofaa ni kuwa CT huendelezwa kupitia kujihusisha *waliowaz
 Fikra za kihesabu ni msingi wa pamoja wa kiakili chini ya [[ai-literacy]] na [[critical-thinking]], kiini cha mtaala cha [[cs-education]] na hesabu za [[k-12]], na lengo la dhana ambalo [[educational-robotics]], [[game-based-learning]], na [[project-based-learning]] zimebuniwa vyuri kutumikia. Zinatiwa moyo na [[llm|miundo mikubwa ya lugha]] na [[generative-ai]] zinapotumika kama zana za ngazi za msaada, na ni ujuzi ambao taksonomia za dhana potofu za wanafunzi na tathmini zinazojua CT zinalenga kupima. Walimu huendeleza kupitia [[teacher-education]] na [[professional-training]], na inahamishika katika nyanja ikiwa ni pamoja na [[physics-education]] na [[stem-education|STEM]] kwa ujumla.
 
 - **Fikra za kihesabu zinatabiri mafunzo ya msaidizi wa AI.** [[computational-thinking-aica-2026|Wanafunzi wa darasa la nane]] wenye fikra za kihesabu za juu walizidi wenzi wao wa CT ya chini kwa kiasi kikubwa katika kozi ya msaidizi wa kuandika kanzi za AI, wakitumia msaidizi kwa uelewao badala ya upatao wa majibu.
+
 ## Dhana Zilizounganishwa
 
 - [[cs-education]]

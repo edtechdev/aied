@@ -173,6 +173,7 @@ Det første Theory of Planned Behavior-studie af forseelsesintention baseret på
 - **"Detektionsværktøjer identificerer AI-skrivning."** AI-genereret tekst er **blevet accepteret som menneskeskrevet i op til 80 % af tilfældene**, mens evidensen for detektion placerer **maskindetektion på ca. 80 % mod 78,4 % for menneskelige bedømmere**. Menneskelig og maskinel dømmekraft er næsten lige (u)pålidelige, så en detektionsdom er ikke bevis for forfatterskab.
 - **"Problemet er marginalt."** Volumen er langt fra det: en **seksårig analyse af et CS2-kursus med stor optagelse** fandt **45,7 % af de studerende foråret 2026 flagget**. Næsten halvdelen af en årgang, hvilket gør dette til et almindeligt designproblem snarere end et særtilfælde.
 - **"Undervisere ved, hvilke evalueringer der er sårbare."** På et [[biology-education|biologi]]institut **opfattede underviserne kun overvågede eksamener på stedet som minimalt sårbare**, mens opgaver uden for undervisningen blev set som eksponerede. Opfattelsen passede til det oplagte tilfælde og behandlede alt andet som sikkert.
+
 ## Forbundne begreber
 - [[pedagogical-patterns]] - Verifikationssekvenser taget i brug som svar på generativ AI
 - [[ai-use-disclosure]] - Erklæringer om AI-brug og deklaration

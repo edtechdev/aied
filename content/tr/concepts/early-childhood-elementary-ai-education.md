@@ -88,6 +88,7 @@ Bu soruya ilişkin ilk nörogörüntüleme penceresi bir ihtiyatla gelmektedir: 
 - [[equity-in-ai-education]]
 - [[digital-divide]]
 - [[parents-and-families]]
+
 ## Bağlı makaleler
 
 - [[preservice-early-childhood-genai-magnetism-2026]] — Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism

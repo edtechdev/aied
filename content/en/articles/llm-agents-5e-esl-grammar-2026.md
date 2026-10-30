@@ -37,6 +37,7 @@ page_kind: [evaluation]
 - The intervention lasted roughly 40 minutes in total, including pre- and post-tests, and no significant between-group difference in grammar acquisition was found — the authors attribute this partly to a ceiling effect and the short duration.
 - Instruction covered a single grammar structure (the present perfect tense) and a single LLM tool (DeepSeek), which occasionally misunderstood the 5E framework.
 - The controlled setting did not account for multitasking interference or emotional fluctuations typical of real classrooms, reducing ecological validity.
+
 ## Citation
 
 Yang, X., Weng, X., & Yang, M. (2026). [Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition](https://www.sciencedirect.com/science/article/pii/S2666920X26000615). *Computers and Education: Artificial Intelligence*, 10, 100604.

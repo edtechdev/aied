@@ -184,6 +184,7 @@ The guide's own cautions apply: recorded video, reflections and logs can themsel
 - **"Any AI-supplied practice is practice."** An adaptive spaced-retrieval condition produced **the highest posttest scores (M = 78.19)** and **significantly outperformed learner-directed AI study (M = 67.28)**. The learner-directed arrangement underperformed a structured one, so autonomy is not automatically the better design.
 - **"Studying with a chatbot is better than studying without."** The **contrast case is decisive**: in a [[rct|randomized trial]] of **120 students**, the group that studied **with** unrestricted ChatGPT retained **less on a surprise test**. The tool was harmful to retention in the arrangement tested.
 - **"The pattern's evidence is a large pooled trial."** The **strongest support is indirect** and comes from a **randomized within-subjects experiment with 26 students**, where immediate-answer [[scaffolding]] performed significantly differently. The evidence supports the pattern and remains thin in scale, and the page should be read that way.
+
 ## Connected Concepts
 
 - [[pedagogy]] — the umbrella of teaching approaches this page operationalizes into sequences

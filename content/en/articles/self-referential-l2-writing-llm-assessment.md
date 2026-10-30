@@ -15,16 +15,19 @@ confidence: medium
 page_kind: [evaluation]
 ---
 > **Synthesis:** Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
+
 ## Key Findings
 Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated with two-facet Rasch modeling:
 - **LLMs outperform single human raters** at identifying relative weaknesses (negative feedback) across proficiency aspects
 - **Human raters remain stronger** at identifying relative strengths (positive feedback)
 - Traditional rank-based correlation metrics **mask diagnostic behavior** — high correlations can hide poor intra-learner discrimination
+
 ## Connections to Knowledge Base
 - Paradigm shift from [[automated-assessment|Automated Grading]] ranking to profiling
 - Aligns with [[sequenced-ai-feedback-learning]] emphasis on [[ai-feedback-quality|feedback quality]] over quantity
 - Extends [[nie-personavlm-long-term-personalization-2026]] to assessment contexts — profiling over time
 - Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
+
 ## What this means for practice
 
 - **Software developers.** Score each learner against their own profile instead of a cohort rank: classify every analytic aspect as a relative strength or weakness against that learner's mean, and report F0.5 for both feedback directions rather than a Spearman correlation against human scores, since high rank correlations can mask poor [[automated-essay-scoring|diagnostic]] behavior through intercorrelation and halo effects.

@@ -124,6 +124,7 @@ AIを使う学生は通常、AIが利用可能な課題で**即座の測定可�
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — 生産的な失敗
+
 ## 関連記事
 - [[yan-agentivism-learning-theory-ai-2026]] — 4つのメカニズムと6つの検証可能な命題を備えた、人間とAIの相互作用のための中範囲学習理論（Yan and Gašević 2026）
 

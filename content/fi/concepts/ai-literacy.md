@@ -251,6 +251,7 @@ Erityisesti kriittisen tekoälylukutaidon osalta [[solyst-youth-systematic-evalu
 - [[higher-ed]] — yliopistotason lukutaito
 - [[career-development-and-readiness]] — työllistettävyyden tuotto, jonka tekoälylukutaidon väitetään rakentavan
 - [[ai-education]] — laajempi ala
+
 ## Liittyvät artikkelit
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Varhaislapsuuden muovaaminen tekoälyn aikakaudella: kompetenssit, pedagogiikka ja ekologinen tuki (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Tekoälyturvallisuuden lukutaito: ekosysteemipohjainen kompetenssikehys ja K-12-oppimisalusta

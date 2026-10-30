@@ -173,6 +173,7 @@ Nghiên cứu đầu tiên về Lý thuyết Hành vi Có kế hoạch đối v�
 - **"Công cụ phát hiện nhận diện được văn bản AI."** Văn bản do AI tạo đã **được chấp nhận như do người viết trong tới 80% trường hợp**, trong khi bằng chứng cho phát hiện đặt **phát hiện bằng máy ở khoảng 80% so với 78.4% của người chấm**. Phán đoán của người và của máy gần như (không) đáng tin ngang nhau, nên một kết luận từ công cụ phát hiện không phải là bằng chứng về quyền tác giả.
 - **"Vấn đề chỉ là thiểu số."** Khối lượng thì không hề như vậy: một **phân tích sáu năm về một khóa CS2 quy mô lớn** phát hiện **45.7% sinh viên học kỳ Xuân 2026 bị gắn cờ**. Gần một nửa một khóa, điều khiến đây thành một vấn đề thiết kế chính dòng chứ không phải một trường hợp biên.
 - **"Giảng viên biết bài đánh giá nào dễ tổn thương."** Trong một khoa [[biology-education|sinh học]], giảng viên **chỉ coi các kỳ thi có giám sát trực tiếp là ít tổn thương nhất**, trong khi các bài tập ngoài giờ lên lớp được coi là bị phơi bày. Nhận thức đó khớp với trường hợp hiển nhiên và coi mọi thứ còn lại là an toàn.
+
 ## Khái niệm liên quan
 - [[pedagogical-patterns]] - Các chuỗi kiểm chứng được áp dụng để đối phó với AI sinh tạo
 - [[ai-use-disclosure]] - Các bản khai báo sử dụng và công bố AI

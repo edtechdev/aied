@@ -77,6 +77,7 @@ Wissensgraphen verbinden sich mit [[learning-design|Lerndesign]] (definieren, wa
 - [[agentic-ai]]
 - [[ai-technologies]] — Dachbegriff: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
 - [[recommender-systems-and-learning-paths]]
+
 ## Verbundene Artikel
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Ein von Kurator:innen erstellter Graph von 1.455 literarischen Axiomen mit einem Struktur-Audit und ohne Provenienz-Datensatz (Liu & Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontologiebasiertes geschichtetes hybrides Wissensmodell für personalisiertes E-Learning

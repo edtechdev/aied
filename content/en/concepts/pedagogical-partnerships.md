@@ -95,6 +95,7 @@ For educators and institutions seeking to adopt pedagogical partnership, the kno
 - **"Partnership means elevating student voice."** A pedagogical partnership is a **bounded, negotiated relation** with defined roles and reciprocal obligation, not consultation. Voice without a role, a remit and a share of the decision changes nothing structural.
 - **"Partnership is a stance one can adopt."** It requires institutional conditions — time, recognition for the student partner, and a change the partners can genuinely affect. Declared partnership without those conditions reproduces the hierarchy it claims to interrupt.
 - **"Power-sharing cannot be faculty development."** The claim of the literature is that partnership is development *because* it changes the educator's understanding through the relation. Framing it as student benefit only discards the mechanism.
+
 ## Connected Concepts
 - [[pedagogy]] — Pedagogies and teaching strategies
 - [[collaborative-learning]]

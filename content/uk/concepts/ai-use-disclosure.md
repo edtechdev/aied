@@ -101,6 +101,7 @@ ai_assist:
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — чому здобувачі обирають приховування, а не розкриття
+
 ## Пов’язані статті
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Поза виявленням: як студенти використовують і приховують ШІ в онлайн-оцінюванні
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Розкриття використання ШІ студентами, стигма та саморегульоване навчання

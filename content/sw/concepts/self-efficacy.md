@@ -76,6 +76,7 @@ Uwezo binafsi unaungana na [[motivation]], [[self-regulated-learning]], [[studen
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Kujifunza Kijamii-Kihisia
+
 ## Makala Zilizounganishwa
 - [[confident-but-absent-ai-use-absenteeism-2026]] — Matumizi ya jumla ya AI yalisafiri na uwezo binafsi wa juu na kutokuhudhuria kwa juu, hata uwezo binafsi haukutabiri kuhudhuria (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot za AI katika elimu ya juu: kulinganisha matarajio na ushahidi (Thoeni & Fryer 2026)

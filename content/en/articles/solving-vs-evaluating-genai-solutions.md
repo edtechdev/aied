@@ -41,6 +41,7 @@ The study was a randomized A/B crossover experiment (N = 220) conducted in a jun
 - Randomization happened at existing group level, so students who routinely collaborated were kept together and cross-group contamination was possible; six assignments in one semester is a short window for transfer to exams.
 - Perceptions came from a post-only Qualtrics survey (208 respondents, 95% response rate) because technical constraints prevented a baseline survey, and study-habit and helpfulness measures are self-report.
 - Students generated their own GenAI artifacts, as the intervention deliberately mirrored real tool use, so the evaluated solutions varied across students.
+
 ## Citation
 
 Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better Than Evaluating GenAI Solutions?](https://arxiv.org/abs/2607.27586).

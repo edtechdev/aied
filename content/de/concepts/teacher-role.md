@@ -152,6 +152,7 @@ Rolle der Lehrkraft und [[learner-identity|Identität der Lernenden]] sind rezip
 ### Lehrkräfte, die KI-Lernressourcen co-designen
 
 - Die Rolle der Lehrkraft erstreckt sich auf das Co-Designen von KI-Lernressourcen: von Lehrkräften und KI co-designte [[simulation|Simulationen]] für Drohnen-STEM-Unterricht hielten GenAI-Ausgabe pädagogisch valide und kontextuell relevant, und Lehrkräfte sind die intendierten Nutznießerinnen und Nutznießer der Teachers' AI Literacy Scale. Wirksame GenAI-Integration hängt zunehmend von Lehrkräftebeteiligung am Design ab.
+
 ### KI-Reflexionssysteme sollten sich an Lehrerfahrung anpassen
 
 - **Lehrkraftgerichtete KI-Reflexionsanalytik sollte expertise-angepasst sein, nicht einheitlich.** Eine Befragung von 100 US-amerikanischen K-12-Lehrkräften (Median-Split bei neun Jahren; Binomialtests; 15% Wahlunterschiede erkennbar bei ~83% Power) fand systematische Präferenz-Splits. Weniger erfahrene Lehrkräfte nennen Mangel an Reflexionszeit als Top-Hindernis mit 3x der Rate der Erfahrenen (37% gegenüber 12%, p < .001) und möchten Analytik zu Studierenden-Desengagement (48% gegenüber 33%, p = .028) und Emotionen (31% gegenüber 18%, p = .036).

@@ -111,6 +111,7 @@ Bu, pedagojik koruyucu raylara sahip öğreticiliğe özgü araçların genel am
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — Üretken Başarısızlık
+
 ## Bağlı makaleler
 - [[yan-agentivism-learning-theory-ai-2026]] — Dört mekanizma ve altı sınanabilir önermiyle insan–YZ etkileşimi için orta düzey bir öğrenme kuramı (Yan ve Gašević 2026)
 

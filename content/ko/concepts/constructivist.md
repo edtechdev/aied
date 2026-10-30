@@ -140,6 +140,7 @@ ai_assist:
 - [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
 - [[theory-development-aied]] — AI 교육에서의 이론 발전
 - [[productive-failure]]
+
 ## 연결된 문서
 - [[lee-learner-question-types-ai-education-2026]] — 세 구성주의적 역할로 분류된 학습자 질문: 전달자, 촉진자, 공동 학습자(Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — AIED 역사에서 구성주의(페퍼트)를 인지 튜터와 대비

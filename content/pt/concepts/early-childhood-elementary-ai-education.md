@@ -86,6 +86,7 @@ Uma primeira janela de neuroimagem sobre essa questão chega com uma ressalva: c
 - [[equity-in-ai-education]]
 - [[digital-divide]]
 - [[parents-and-families]]
+
 ## Artigos conectados
 
 - [[preservice-early-childhood-genai-magnetism-2026]] — Engajamento de educadores de primeira infância em formação com IA generativa no projeto de atividades de ciências: o caso do magnetismo

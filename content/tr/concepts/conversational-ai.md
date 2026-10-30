@@ -87,11 +87,13 @@ Konuşma tabanlı yapay zeka, bilgi tabanındaki — ancak onunla çakışmayan 
 Konuşan ajanları yalnızca soru yanıtlamak için değil, öğretimi, [[motivation]] ve [[metacognition]] desteklemek için seçin ve HCI temelli, katılımcı, kullanıcı merkezli etkileşim için tasarlayın. [[cognitive-offloading|Aşırı bağımlılığa]] karşı CAI’yi [[ai-literacy]] öğretimi ve öğrenciyi bilişsel açından üretken tutan [[feedback]] ile eşleştirerek korunun. YZ okuryazarlığına ve kullanılabilirliğe açıkça dikkat edin — zira benimseme ve kullanmamayı yönlendiren genel dijital beceri değil, bunlardır ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — ve dağıtımı açık YZ kullanım politikaları, değerlendirme etiketleri ve eğitimle eşleştirin. CAI’yi pedagojik sonuçlar üzerinden değerlendirin — yalnızca görev tamamlanması üzerinden değil — ve eşitlik ile [[accessibility]] erişilebilirliği baştan değil, sonradan düşünülen bir ayrıntı olarak planlayın.
 
 - **Öğrencilerin konuşan ajanlarla gerçekte nasıl konuştuğu — altı kategorili bir kopma örüntüsü:** [[rho-disengaged-conversational-behaviors-2026|Rho ve ark. (2026)]], bir bilgi grafiği üzerinde [[rag|RAG]] ile topraklanmış, mücadele eden bir ortaokul öğrencisi olarak konumlandırılmış ve öğrencilerin açıklamalarını eleştiren bir mentor ajanla eşleştirilmiş GPT-4-Turbo öğretilebilir ajanı Math Nation’ın Cebir ve Geometri derslerine yerleştirmiş ve 246 öğrenciden alınan 5.522 ifadeyi kodlamıştır. Etkileşimin (%75,7) ötesinde Yanlış Yanıtlama (%12,8), Geri Tutma (%8,9), Rastgele/Gürültülü (%2,1), Yansıtma (%0,6), Alay Etme (%0,3) ve Hayaletleme (%0,2) tanımlamışlardır — Yansıtma (ajanın metnini kopyalama) veriden tümevarımsal olarak ortaya çıkmıştır. Sınıflandırma döngüde insan vardı: iki değerlendirici tarafından etiketlenen 1.682 ifade (kategori başına κ = 0,704–0,905) ince ayarlı bir LLaMA 3 sınıflandırıcısını eğitmiş (ayrılmış konu dizileri üzerinde ağırlıklı F1 = 0,910) ve bu sınıflandırıcı kalan 3.840 ifadeyi etiketlemiştir. Sonrasında süreç düzeyinde rekabet eden riskler analizi, çoğu kopmanın birkaç tur içinde çözüldüğünü; Geri Tutma dışında bunun sürdüğünü göstermiştür — ajan yanıtlarını tasarlarken dikkate değer bir işaret.
+
 ## Yaygın yanlış anlamalar
 
 - **“Bir konuşan ajanın güvenilirliği doğruluğunu izler.”** **Kullanıcılar ajanın güvenilirliğini toplumsal olarak okur.** ChatGPT’nin algılanan **yetkinliği** geri bildiriminin güvenilirliğini **doğrudan** yordarken, algılanan **sıcaklık** yalnızca **bu yol üzerinden** işlemiştir. Sıcak ve yetkin görünen bir ajan güveni sunumla kazanır; bu, doğruluktan ayrı bir eksendir.
 - **“LLM eleştiri ortakları öğrenenin yargısının yerine geçer.”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash ve Connell Pensky (2025)]] **koruma** tarafını somut biçimde gösterir: değer, eleştiriyi öğrencinin yerine üretmekte değil, öğrenenin düşünmesini bozulmadan korumaktadır.
 - **“Konuşan ajanlara ilişkin şemsiye kanıtlar kesindir.”** [[conversational-ai-agents-umbrella-review-2026|Şemsiye derleme]], CAI ajanlarına ilişkin derlemeleri sentezler ve bir şemsiye derlemenin gücü, topladığı derlemelerin niteliğiyle sınırlıdır.
+
 ## Atıf
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
@@ -116,6 +118,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
+
 ## Bağlı makaleler
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors in student-AI dialogues (Rho et al. 2026)

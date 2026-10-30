@@ -16,6 +16,7 @@ methods: [rct]
 ---
 
 > **Synthesis:** AI saves teachers roughly 30% of lesson preparation time with no measurable quality loss — but whether that *reduces burnout* depends entirely on where the freed-up time goes. The key mechanism is **reallocation, not reduction**: teachers redirect saved hours toward higher-value instructional activities rather than simply pocketing time. This article synthesizes evidence from multiple controlled trials, large-scale conversation analysis, and [[qualitative-research|qualitative]] teacher studies to map the current state of AI in teaching workflows.
+
 ## The Evidence Base
 
 ### EEF Randomized Trial (England)

@@ -101,6 +101,7 @@ Kudhihirisha matumizi ya AI upo katika mwinuko wa [[academic-integrity]] (wasili
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — kwa nini wanafunzi wanachagua kuficha badala ya kudhihirisha
+
 ## Makala Zilizounganishwa
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Zaidi ya kugundua: jinsi wanafunzi wanavyotumia na kuficha AI katika tathmini mtandaoni
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Kudhihirisha AI kwa mwanafunzi, stigma, na kujifunza kwa kujidhibiti

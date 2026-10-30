@@ -139,6 +139,7 @@ ai_assist:
 - [[chemistry-education]] — 化学教育与AI：实验、形成性评估、LLM的局限、实验哲学
 - [[theory-development-aied]] — 教育中AI的理论发展
 - [[productive-failure]]
+
 ## 关联文章
 - [[lee-learner-question-types-ai-education-2026]] — 学习者问题被归入三种建构主义角色：传递者、促进者、共同学习者（Lee、Atif与Kang 2026）
 - [[mishra-control-vs-agency-history-2025]] — 在AIED历史中将建构主义（Papert）与认知导师对置

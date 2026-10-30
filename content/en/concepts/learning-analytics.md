@@ -112,6 +112,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - **"A knowledge-state estimate inherits its validity from the data."** **The Q-matrix linking items to attributes is an assumption, not data**: rejected entries for **14 of 918 analyzed items** means the mapping itself required adjudication. Validating the mapping is a step, not a formality.
 - **"Analytics need clickstream traces."** Knowledge states can be estimated within Outcome-Based Education by **tracing course outcomes directly from LMS interaction and attainment data**, using OBE affinity mappings — the institutional record supplies the signal.
 - **"Prediction without an action window is useful."** Progress prediction is most usable when it is **interpretable and paired with an action window**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] predict module-level outcomes, which is a form an advisor can act on, unlike a raw score.
+
 ## Connected Concepts
 
 - [[explainable-ai]]

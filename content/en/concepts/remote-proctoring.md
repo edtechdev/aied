@@ -68,6 +68,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - **"Proctoring protects academic integrity."** **The integrity rationale did not survive the largest test.** Across **four waves and 1,760 students in 105 courses**, proctoring **raised test anxiety (β = 0.60, p < 0.001) but had no** detectable integrity benefit. The measured effect was on the students, not on cheating.
 - **"Better detection capability means better proctoring."** A decade-long systematic review of **80 peer-reviewed studies (2014-2024)** finds advanced ML/DL proctoring **detects cheating more** accurately and says nothing about whether deploying it changes conduct. Detection performance is a property of the classifier, not of the assessment regime.
 - **"Behavioural signals are reliable indicators of misconduct."** Systems **track seventeen body landmarks per frame** with YOLOv11 to derive **posture-deviation, head-trend and upper-body-motion** features. Those constructs are proxies, and a flagged posture is a classification about a body rather than an observation of a transgression.
+
 ## Connected Concepts
 - [[anxiety-and-stress]]
 - [[academic-integrity]]

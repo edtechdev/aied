@@ -72,6 +72,7 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - **"AI-supported inquiry is automatically higher-order."** A quasi-experiment with **120 Grade 8 students** found AI-supported [[inquiry-based-learning|inquiry-based learning]] raised creative mathematical performance **and** a narrower measure — the treatment moved some outcomes and not others. Correlation with a higher-order label is not the same as a higher-order task.
 - **"Students designing the teaching is a technical exercise."** In the inversion study, **345 students** in a 700-student course each designed a conversational agent to teach three design patterns to a peer. The active learning came from the design work, which is pedagogical reasoning rather than prompt engineering.
 - **"Engagement findings are learning findings."** The same evidence base cautions that a **no-control-group, volunteer-sample** design supports engagement claims only. Students valued open-ended design freedom (**22.3%** top positive theme) and complained most about unclear instructions (**23.7%**) — both are about the experience.
+
 ## Connected Concepts
 
 - [[learning-gains]]

@@ -52,6 +52,7 @@ In einem zweijährigen Distrikt-RCT war die Annahme, nicht der Anpassungsmechani
 
 
 Ein PRISMA-orientierter Review von 44 Studien zeigt, dass die Engagementliteratur hin zu behavioralem Engagement verzerrt und am dünnsten beim agentischen Engagement ist, und berichtet einen Neuheitseffekt – Engagement nimmt in Längsschnittstudien zu ALEKS und W-Pal ab, sobald die Neuheit des Werkzeugs verblasst ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
+
 ### Die KI-Ära: LLM-basierte Anpassung und ihre Risiken
 
 [[generative-ai|Generative KI]] hat erweitert, was adaptive Systeme können – konversationelle [[agentic-ai|agentische]] Tutoren, [[rag]]-verankerte Inhalte und [[llm]]-getriebenes [[intelligent-tutoring|Tutoring]] passen nicht nur die Aufgabenschwierigkeit, sondern auch Sprache und Erklärungsstil an (z. B. [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|adaptives Multi-Agenten-Mathematik-Tutoring]]). LLM-basierte Anpassung bringt jedoch neue Risiken mit sich: ohne verlässliche [[student-modeling|Lernendenmodelle]] kann Anpassung auf flachen Signalen beruhen; Überanpassung kann den produktiven Kampf verringern, den Lernende brauchen (siehe [[desirable-difficulties]], [[cognitive-offloading]]); und das Gleichgewicht zwischen Personalisieren und Bewahren der [[agency|Handlungsfähigkeit]] der Lernenden ist eine offene Designfrage (siehe [[agentic-ai|agentische KI]]). Eine von der lernenden Person angeforderte Variante der Anpassung kommt ganz ohne [[student-modeling|Lernendenmodell]] aus: in Sidorkins (2026) Graduiertenkurs passten sich die Lesetexte nur an, wenn Studierende Anschlussfragen stellten, um sie umzurahmen, zu vertiefen, zu vereinfachen oder zu lokalisieren, und verständnisorientierte Anfragen führten verlässlich zu dichterem Scaffolding (3,4x bis 8,7x mehr Definitionsmarker als im Baseline-Text), weshalb die Anforderung von mindestens drei Anschlussfragen pro Lesetext das Material in eine Interaktion verwandelte. Sie verlagert die adaptive Last außerdem auf die lernende Person: Anpassung geschieht hier nur, wenn die Studierenden wissen, worum sie bitten können.
@@ -94,6 +95,7 @@ Adaptives Lernen wird häufig mit [[personalized-learning|personalisiertem Lerne
 - [[behaviorism]]
 - [[ai-technologies]] — Überblick: KI-Technologien und -Verfahren (Modelle, LLM-Training, Robotik, RAG, agentisch)
 - [[recommender-systems-and-learning-paths]]
+
 ## Verbundene Artikel
 - [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: Ein momentum-bewusstes adaptives Bewertungssystem für personalisiertes Assessment
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Trügerische Übergeneralisierung: Adaptive Beherrschung kann das Üben beenden, bevor Lernende wissen, wann eine Handlung zu unterlassen ist (An, McLaren & Stamper 2026)

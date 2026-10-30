@@ -126,6 +126,7 @@ ai_assist:
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## Пов’язані статті
 
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Систематичний огляд ШІ в міждисциплінарній вищій освіті (59 досліджень)

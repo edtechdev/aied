@@ -80,6 +80,7 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - **"Interaction taxonomies are settled."** **Across 46 categorisations from 33 studies, similar labels name different phenomena**, which is why the review proposes the *interaction episode* as the unit. A coding scheme borrowed from one taxonomy may be measuring a different construct.
 - **"Students use AI as a tutor."** Among **38 undergraduates** completing unsupervised argumentative essays, **76.32% used a single-turn ask-get-answer-stop pattern**, typically pasting the assessment title. The dominant pattern is single-turn retrieval, which is not tutoring.
 - **"Greater AI use indicates greater engagement with the material."** An analysis of **200 co-programming chat sessions** found **78.8% of student-GenAI interactions ran on non-mastery aims and strategies**. Volume of interaction measured something other than learning orientation, so session counts are a misleading engagement proxy.
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[human-ai-collaboration]]

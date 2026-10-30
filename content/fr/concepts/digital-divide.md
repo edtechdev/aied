@@ -92,6 +92,7 @@ La fracture numérique est une préoccupation centrale de la recherche sur l'[[e
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## Articles liés
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)

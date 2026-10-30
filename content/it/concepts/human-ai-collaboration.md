@@ -112,6 +112,7 @@ La collaborazione tra esseri umani e IA si collega a [[human-in-the-loop-ai|pres
 - [[human-in-the-loop-ai]] — supervisione
 - [[agentic-ai]] — autonomia
 - [[productive-failure]]
+
 ## Articoli collegati
 - [[bjet-many-hands-make-light-work-2026]] — Paired work with a GenAI multi-agent system won the design project while critical-thinking awareness rose only for those working alone (Chu et al. 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — HACC: collaboration competency as a dynamic configuration of domain, AI and metacognitive competency, with learner agency emergent (Dang et al. 2026)

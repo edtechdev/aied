@@ -106,6 +106,7 @@ Fowlin i wsp. (2026) dodają ruch operacyjny do decyzji, gdzie wchodzi SI: rozł
 - **„Planowanie lekcji z SI oddaje nauczycielom czas."** Czas planowania faktycznie spadł, z 3,32 godziny tygodniowo do 2,51 z narzędziem, ale **mediana nauczyciela planowała tylko 21% do 40% lekcji od zera**. Czas został zaoszczędzony, a planowanie nie stało się istotnie staranniejsze - oszczędność narastała, zamiast zostać reinwestowana.
 - **„Współprojektowanie z SI jest dobrze udokumentowane."** Przegląd systematyczny [[wang-teacher-ai-co-design-review-2026|współprojektowania zadań edukacyjnych przez nauczyciela i SI]] **potwierdza wzorzec w skali na 28 badaniach**, co opisuje spójną praktykę, a nie wykazuje lepszych wyników.
 - **„Rubryka to stały wkład."** Rubryka działa jako **pośredniczący interfejs między ludzką intencją pedagogiczną a wnioskowaniem maszyny**: traktowanie kryteriów oceniania jako **rewidowalnych** jest tym, co pozwala instrumentowi nieść intencję edukatora. Stała rubryka przenosi domyślne ramowanie maszyny do oceniania.
+
 ## Połączone koncepcje
 
 - [[interpreting-and-applying-aied-research]]

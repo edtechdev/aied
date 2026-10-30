@@ -83,6 +83,7 @@ PBL קשורה מקרוב ל[[project-based-learning|למידה מבוססת פ�
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — כישלון פרודוקטיבי
+
 ## מאמרים מחוברים
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 

@@ -68,6 +68,7 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## Artigos conectados
 - [[ivory-psychology-assessment-integrity-2026]] — Citações fabricadas e saídas autocontraditórias dentro de trabalho estudantil aprovável (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]

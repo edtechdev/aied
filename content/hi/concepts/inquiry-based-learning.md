@@ -89,6 +89,7 @@ IBL की प्रश्न-संचालित, प्रक्रिया
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — उत्पादक विफलता
+
 ## संबंधित लेख
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — STEAM में जिज्ञासु-आधारित शिक्षा के लिए ChatGPT (व्यवस्थित समीक्षा)

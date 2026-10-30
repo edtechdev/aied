@@ -42,6 +42,7 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 - Mastery ground-truth labels were constructed through instructor-reviewed curriculum mappings and convergent assessment evidence rather than direct log-to-label conversion, since behavioral traces such as page-stay time or repeated attempts are ambiguous.
 - Human validation used a small panel of 10 educational psychologists on 100 student cases and 12 instructors on 60 diagnostic reports, and the authors describe it as evidence of practical usability rather than proof of long-term learning improvement.
 - Fairness checks covered only gender and parental education, holding AUC disparities to 2.1% and 2.8%; other learner populations remain unvalidated.
+
 ## Citation
 
 Jia, L., & Dong, K. (2026). [Personalized neural cognitive architecture search](https://doi.org/10.1016/j.caeai.2026.100620). *Computers and Education: Artificial Intelligence*, 11, 100620.

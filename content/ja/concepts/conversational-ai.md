@@ -111,6 +111,7 @@ ai_assist:
 - [[reducing-ai-misuse]]
 - [[speech-and-voice-technologies]]
 - [[parents-and-families]]
+
 ## 関連する記事
 - [[mata-sustaining-ai-enabled-student-support-2026]] — AIによる学生支援の持続：制度的チャットボットの四年間の実施と影響の研究（Mata、Russell & Page 2026年）
 - [[usher-faraon-who-grades-best-2026]] — プロジェクトの質の水準にわたるChatGPT、同業者、教官の評定の比較（Usher & Faraon 2026年）

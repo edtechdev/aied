@@ -59,6 +59,7 @@ A computação afetiva fica na interseção entre a [[affective-tutoring]] (sua 
 - **Agentes de avaliação emocionalmente inteligentes.** O [[aivaluate-anxiety-assessment-2026|AIvaluate]], um [[llm|agente conversacional]] emocionalmente inteligente [[conversational-ai|aumentado por LLM]], reduziu a ansiedade e a pressão social dos estudantes durante avaliações baseadas em desempenho, preservando a [[usability-research|usabilidade]].
 - **Empatia construída pelo desenho do prompt, não pela percepção.** O suporte afetivo não exige detecção de afeto: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtiveram uma grande diferença na *percepção de empatia* (21,27 vs. 18,24; r = 0,53) entre dois agentes de [[physics-education|física]] baseados em LLM que diferiam apenas no papel e nos movimentos conversacionais especificados no prompt — aberturas de tomada de perspectiva ("Você tem esta pergunta porque…"), diagnóstico de [[misconceptions|equívocos]] e uma verificação de compreensão ao final de cada rodada — enquanto modelo, plataforma e temperatura eram mantidos constantes. Isso é um contrapeso útil à computação afetiva guiada por sensores: a qualidade emocional percebida de um [[pedagogical-agent|agente pedagógico]] pode ser desenhada dentro do roteiro de interação, ao mesmo tempo em que lembra os projetistas de que a empatia percebida é um construto de autorrelato, e não evidência de genuína compreensão afetiva ([[student-ai-interaction]]).
 - **Alertas que orientam um professor em vez de adaptar um tutor.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] implantou o Dash4Emotion em uma sala de geometria do ensino médio, onde retângulos com moldura vermelha marcavam estudantes lidos como vivenciando emoção negativa; ao longo de vinte episódios identificados (cinco relatados), o que deslocou o engajamento foi a resposta do professor a um alerta, não o alerta em si. O ponto de desenho é que a percepção de afeto pode alimentar uma decisão humana em vez do próximo movimento de um tutor adaptativo — com a ressalva do próprio estudo anexada: ele não relata validação da detecção de expressão facial, de modo que o sinal é um convite à interpretação do professor, e não evidência sobre o estado interno de um estudante.
+
 ## Conceitos conectados
 - [[anxiety-and-stress]]
 - [[cognitive-offloading]]
@@ -74,6 +75,7 @@ A computação afetiva fica na interseção entre a [[affective-tutoring]] (sua 
 - [[llm-training-and-fine-tuning]]
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — Aprendizagem socioemocional
+
 ## Artigos conectados
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Respondendo a alertas emocionais gerados por IA: intervenção dos professores e engajamento dos estudantes na sala de aula de matemática
 - [[wang-teacher-student-centered-agents-physics-2026]] — Percepção de empatia a partir de papéis de agentes desenhados por prompt na aprendizagem de física (Wang et al. 2026)

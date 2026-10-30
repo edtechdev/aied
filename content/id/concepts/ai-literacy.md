@@ -245,6 +245,7 @@ Khusus untuk literasi AI kritis, [[solyst-youth-systematic-evaluation-genai-2026
 - [[higher-ed]] — literasi tingkat universitas
 - [[career-development-and-readiness]] — pembayaran employability yang diargumentasikan dibangun literasi AI
 - [[ai-education]] — bidang yang lebih luas
+
 ## Artikel Terkait
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Membentuk anak usia dini di era AI: kompetensi, pedagogi, dan dukungan ekologis (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Literasi Keamanan AI: Kerangka Kompetensi berbasis Ekosistem dan Platform Pembelajaran K-12

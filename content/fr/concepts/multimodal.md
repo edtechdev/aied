@@ -118,6 +118,7 @@ Les systèmes multimodaux élargissent aussi l'accès et l'[[personalized-learni
 - [[virtual-and-augmented-reality]] — le geste, la voix et l'entrée spatiale comme canaux d'apprentissage
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Articles liés
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — La composition de messages d'intérêt public vidéo sur l'éthique de l'IA comme pédagogie de littératie critique en IA (Burriss et al. 2026)

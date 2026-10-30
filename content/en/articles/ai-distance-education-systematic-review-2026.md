@@ -42,5 +42,6 @@ The review used a systematic synthesis approach. Initial searches were run in th
 - Searching was confined to two databases (Education Source and ERIC) and to English-language, peer-reviewed, full-text-available articles, excluding computational education, HCI and learning-sciences venues.
 - Of 88 initially identified articles, 27 duplicates and five more items (three out-of-range literature reviews and two conference papers without detailed findings) were removed, and some retained studies were assigned to more than one of the four themes.
 - Most reviewed studies used short-term interventions or cross-sectional data, so the review cannot assess sustained effects on learning, motivation or institutional practice.
+
 ## Citation
 Corry, M. (2026). [*Artificial intelligence in distance education: a systematic review*](https://doi.org/10.1108/QRDE-12-2025-0027). *Quarterly Review of Distance Education*, 27(1).

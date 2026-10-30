@@ -75,6 +75,7 @@ ai_assist:
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## المقالات المرتبطة
 - [[family-school-autonomy-support-genai-2026]] — دعم الاستقلالية بين الأسرة والمدرسة للاستخدام المسؤول للذكاء الاصطناعي التوليدي لدى الأطفال
 - [[dual-ai-learning-pathways-sdt-2026]] — ضغط المدرسة الثانوية/دعم الاستقلالية ومسارات تعلّم الذكاء الاصطناعي المزدوجة (Shen & Arunrugstichai 2026)

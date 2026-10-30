@@ -94,6 +94,7 @@ La creatività si collega al [[critical-thinking|pensiero critico]] e all'appren
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## Articoli collegati
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers' engagement with mathematical creativity, content knowledge, and pedagogical content knowledge

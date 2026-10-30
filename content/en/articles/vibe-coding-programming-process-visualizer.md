@@ -34,6 +34,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - Teacher feedback came from informal reviews and written comments collected during the course, with no control condition and no measured effect on student outcomes.
 - The tool depends on a course workflow that requires Thonny and log-file submission, so it does not transfer to courses without that logging infrastructure.
 - The views are built to prompt follow-up discussion and manual review rather than to serve as automated judgments, and time-window filtering of logs was requested but not yet implemented.
+
 ## Citation
 
 Heidi Taveter, Marina Lepp (2026). [From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs](https://arxiv.org/abs/2607.24757). FIE 2026 (IEEE Frontiers in Education Conference).

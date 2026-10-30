@@ -211,6 +211,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
 - **"AI literacy is one construct."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** and found the construct is not unitary. A program that builds one dimension leaves the others unaddressed.
 - **"A 40% overestimate is a minor calibration issue."** It means the students and teachers most confident about their AI literacy may be the ones least able to evaluate output — which is exactly the population an intervention has to reach first.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — Developed by the critical-appraisal steps in these sequences
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -235,6 +236,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[higher-ed]] — university-level literacy
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
+
 ## Connected Articles
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform

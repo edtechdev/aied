@@ -113,6 +113,7 @@ O desenho curricular se conecta diretamente ao [[learning-design|desenho de apre
 - [[collaborative-learning]]
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
 - [[recommender-systems-and-learning-paths]]
+
 ## Artigos conectados
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análise crítica do discurso da orientação sobre alinhamento construtivo com GenAI (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Abordando a confiança em sistemas de IA por meio da educação: uma perspectiva didática

@@ -140,6 +140,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - **"A significant pooled effect means the intervention works."** [[yu-k12-ai-education-ai-literacy-meta-analysis-2026|Yu and colleagues' meta-analysis of K-12 AI education]] (**16 studies, 57 effect sizes, g = 0.892**) found a large effect, though the authors qualify it. Sixteen studies is a narrow base, and a large effect over that base is a hypothesis with a wide interval.
 - **"Reviewers report the field's quality accurately by default."** A review's job includes **exposing methodological quality**, and reviews **routinely find that the field relies on underpowered, pre-experimental or quasi-experimental designs** with immediate post-tests. The pooled number inherits those weaknesses.
 - **"Pooling always increases evidential weight."** [[chen-digital-ai-foreign-language-skills-meta-analysis-2026|Chen and Wei's meta-analysis]] of **40 studies** for foreign-language skills pools across very different technologies, and the mean describes none of the specific interventions it contains.
+
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

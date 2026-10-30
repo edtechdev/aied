@@ -78,6 +78,7 @@ ai_assist:
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — Productive Failure
+
 ## מאמרים מחוברים
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)

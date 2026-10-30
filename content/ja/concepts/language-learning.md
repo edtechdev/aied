@@ -109,6 +109,7 @@ ai_assist:
 - [[discipline-specific-aied]]
 - [[english-education]]
 - [[speech-and-voice-technologies]]
+
 ## 関連記事
 - [[chatbots-oral-proficiency-efl-systematic-review]] — 口頭の熟達におけるチャットボットの利得は、範囲と言葉の明瞭さに集中している
 - [[student-ai-interaction-consecutive-interpreting-2026]] — コンピュータ支援の逐次通訳における学生と AI のやり取り

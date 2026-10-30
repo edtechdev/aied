@@ -120,6 +120,7 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - **"Group labels capture the variation that matters."** **Group labels hide the variation inside them**: in the disability meta-analysis, students with **specific learning disabilities, intellectual and developmental disabilities** and other categories are pooled, so the group average describes none of them.
 - **"Subgroup analyses answer the differential-effects question."** They are usually **too small to answer it**: the [[ai-tutoring-micro-rct-gcse-science-2026|GCSE science micro-RCT]] is unusually explicit that its **treatment** contrast is powered for the overall effect and not for subgroup differences. An underpowered subgroup finding is a hypothesis, not a result.
 - **"A medium pooled effect tells you whether a given group benefits."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 (quasi-)experimental studies]] pooled to **Hedges' g = 0.588 (95% CI [0.349, 0.826])** across disability categories. The interval describes the average over those categories, and "which group, which need" is a separate analysis.
+
 ## Connected Concepts
 
 - [[equity-in-ai-education]]

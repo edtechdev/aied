@@ -16,6 +16,7 @@ page_kind: [synthesis]
 ---
 
 > **Synthesis:** > Across 69 Scopus-indexed studies on ChatGPT in [[cs-education|programming education]], a text mining analysis of term frequencies, phrase patterns, and LDA topic models reveals a persistent **dual framing**: ChatGPT is cast simultaneously as a learning aid that supports explanation, feedback, and efficiency and as a [[pedagogy|pedagogical]] risk linked to overreliance, unreliable outputs, and [[academic-integrity|academic integrity]] concerns. The literature concentrates overwhelmingly on classroom practice and [[student-engagement|learner engagement]] (nearly half the corpus), while [[assessment]] design, [[prompt-engineering|prompting]], and [[governance|institutional governance]] remain comparatively underexplored. The authors conclude that ChatGPT's benefits—motivation, self-efficacy, computational thinking, faster grading—materialize mainly under structured pedagogy and teacher facilitation, and that responsible integration demands clearer [[educational-policy-ai|policies]], authentic [[assessment|assessment practices]], and [[equity-in-ai-education|equitable]] access.
+
 ## Key Findings
 
 1. Text mining of 229 retrieved documents (69 after deduplication and screening) yields four dominant themes: pedagogical implementation, student-centered learning and engagement, AI infrastructure and [[human-ai-collaboration|human-AI collaboration]], and assessment, prompting, and model evaluation.

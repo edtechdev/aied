@@ -127,6 +127,7 @@ LLMを基盤とするチューターが、グラフ、力の図、模式図、�
 - [[virtual-and-augmented-reality]] — 学習の経路としてのジェスチャー、音声、空間入力
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## 関連記事
 - [[elkington-human-centred-assessment-value-2026]] — 人間中心の評価、アサンブラージュ、生成的な制約（Elkington 2026）
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 批判的なAIリテラシー教育学としてのAI倫理に関するビデオPSA制作（Burriss et al. 2026）

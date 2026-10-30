@@ -112,6 +112,7 @@ ai_assist:
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
+
 ## מאמרים מחוברים
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)

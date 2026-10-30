@@ -106,6 +106,7 @@ Kural yönlendirmeli - sıra dışı ayrımı, eğitmenin ötesine geçip görev
 - [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
 - [[agentic-ai]]
 - [[productive-failure]] — Verimli Başarısızlık
+
 ## Bağlı makaleler
 - [[kumar-genai-computing-education-systematic-review-2026]] — Doğrulamayı uygulayan mekanizma olarak iskele geri çekilmesi (VIE çerçevesi)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Klinik Görüşme Eğitimi İçin İskeleleme Odaklı Çok Aracılı Büyük Dil Modeli Sisteminin Değerlendirilmesi

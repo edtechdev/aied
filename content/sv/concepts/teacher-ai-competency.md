@@ -131,6 +131,7 @@ I takt med att AI tar över rutinmässiga undervisnings- och bedömningsuppgifte
 - **Stöd det institutionella lagret:** hållbar lärarkompetens kräver samstämmig policy, styrning och kapacitet, inte isolerad utbildning.
 
 - **Lärarnas digitala kompetens för GenAI i [[curriculum-design|läroplanearbete]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validerar ett TAM-baserat diagnostiskt instrument med 434 yrkesverksamma lärare; beteendemässig avsikt var den främsta prediktorn för digital kompetens att använda GenAI i lärandeplanering, med self-efficacy som en grundläggande drivkraft.
+
 ### Ett psykometriskt instrument för lärarnas AI-kompetens
 
 - En psykometrisk studie utvecklade Teachers' AI Literacy Scale (TAILS) för att mäta AI-kompetens specifikt inom [[teacher-education|språklärarutbildning]], genom att operationalisera ED-AI-ramverkets sex dimensioner. Instrumentets utveckling fyller ett gap i bedömningar som riktar sig till elever eller allmänna användare, och stöder mätning av lärarnas AI-kompetens.
@@ -142,6 +143,7 @@ Instrumentlandskapet har sedan dess granskats. [[assessing-teachers-ai-literacy-
 - **"Promptträning gör lärarnas material bättre."** **Promptträning köper tid, inte bättre material**: i en **förregistrerad RCT med 204 lärare** fann Appel, Fervers och Piepenburg (2026) att ChatGPT förbättrade **nedlagd tid** medan materialkvaliteten inte följde med. Effektivitetsvinsten är verklig och den är inte kvalitetsvinsten.
 - **"När lärare konfigurerar en chatbot är felet en sakfel."** **När lärare konfigurerar en chatbot i naturligt språk är det dominerande felet förlorad avsikt snarare än felaktiga fakta**: bottar **hoppar över** det steg läraren avsåg. Instruktionsföljning misslyckas strukturellt snarare än faktamässigt.
 - **"Teknisk färdighet är det avgörande lagret."** **Pedagogisk kunskap är det avgörande lagret**: en studie över nivåer i [[ai-education|AI-utbildning]] på gymnasiet [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen m.fl., 2026]]. Den kompetens som avgör utfallet är den som de flesta utbildningsprogram investerar minst i.
+
 ## Anslutna begrepp
 
 - [[ai-literacy]]

@@ -87,6 +87,7 @@ Sistemas abertos também fazem parte desse quadro: o AiAWE pontua redações arg
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## Artigos conectados
 - [[reflection-level-classification-hungarian-essays-2026]] — Classificação automática do nível de reflexão em redações de estudantes húngaros
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: um sistema modularizado de avaliação automatizada de escrita para redações argumentativas

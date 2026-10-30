@@ -136,6 +136,7 @@ ai_assist:
 - [[hallucination-risk]] — AI 산출물에 날조된 내용의 위험
 - [[intelligent-tutoring]] — AI 튜터링 시스템 평가
 - [[agentic-ai]] — 자율적 AI 에이전트 행동 평가
+
 ## 연결된 문서
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — 플랫폼 점수가 놓치는 것: AI 교수 에이전트의 다차원 평가
 - [[assessment-latent-structure-human-llm-2026]] — 평가 기구는 인간과 LLM에게 같은 것을 측정하는가?(Strugatski 외 2026)

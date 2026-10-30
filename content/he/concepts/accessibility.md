@@ -89,6 +89,7 @@ ai_assist:
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — עמוד המטרייה לכללים רחבים-יתר, ראיות פגומות והתאמה סבירה
 - [[arts-design-and-media-education]]
+
 ## מאמרים מחוברים
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% מתוך 100 אוניברסיטאות עילית מפרסמות מדיניות נגישות AI, בעוד 93% מפריסות שירותי קמפוס מבוססי AI
 - [[shin-ai-policies-sld-2026]] — מדיניות AI והתאמות לתלמידים עם מוגבלויות למידה ספציפיות

@@ -106,6 +106,7 @@ Fowlin és mtsai. (2026) egy működési lépést adnak annak eldöntésére, ho
 - **„A MI-alapú óravázlattervezés időt ad vissza a tanároknak.”** A tervezési idő valóban csökkent, heti 3,32 óráról 2,51-re az eszközzel, de **a medián tanár az órák csak 21-40%-át tervezte a nulláról**. Időt takarítottak meg, és a tervezés nem lett lényegesen alaposabb - a megtakarítás felhalmozódott, ahelyett hogy újrabefektették volna.
 - **„A MI-vel való társtervezés jól alátámasztott.”** A [[wang-teacher-ai-co-design-review-2026|tanár-MI együttműködésben történő tanulásifeladat-tervezés]] szisztematikus áttekintése **megerősíti a mintát nagy léptékben, 28 tanulmányon**, ami egy következetes gyakorlatot ír le, nem pedig felülmúló kimeneteket mutat be.
 - **„A rubrika rögzített bemenet.”** A rubrika **közvetítő felületként működik az emberi pedagógiai szándék és a gépi következtetés között**: az értékelési kritériumok **felülvizsgálhatóként** kezelése az, ami lehetővé teszi, hogy az eszköz hordozza az oktató szándékát. Egy rögzített rubrika a gép alapértelmezett keretezését viszi át az értékelésbe.
+
 ## Kapcsolódó fogalmak
 
 - [[interpreting-and-applying-aied-research]]

@@ -114,6 +114,7 @@ Kubuni mtaala unaungana moja kwa moja na [[learning-design]] — mtaala unafafan
 - [[collaborative-learning]]
 - [[pedagogy]] — Mwavuli: mbinu za kufundisha na mikakati ya kufundisha katika elimu ya AI
 - [[recommender-systems-and-learning-paths]]
+
 ## Makala Zilizounganishwa
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Uchanganuzi mahususi wa mazungumzo ya mwongozo wa GenAI-kwa-kulingana-kwa-ujenzi (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Kushughulikia Uaminifu katika Mifumo ya AI kupitia Elimu: Mtazamo wa Kididaktiki

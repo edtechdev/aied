@@ -79,6 +79,7 @@ ai_assist:
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Социально-эмоциональное обучение
+
 ## Связанные статьи
 - [[confident-but-absent-ai-use-absenteeism-2026]] — Общее использование ИИ шло вместе с более высокой самоэффективностью и более высоким абсентеизмом, однако самоэффективность не предсказывала посещаемость (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)

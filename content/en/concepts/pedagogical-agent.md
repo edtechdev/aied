@@ -77,6 +77,7 @@ Better feedback is not the same as better learning: customizing an agent with kn
 - **"Authoring intent determines what a pedagogical agent does."** **Authoring intent does not guarantee enacted pedagogy.** When **27 middle school teachers** configured a teacher-facing chatbot authoring tool, evaluation of 108 bot-level criteria showed the enacted behavior diverged from what teachers intended. The tool mediated the pedagogy.
 - **"A pedagogical agent moderating discussion is a solved role."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] shows what happens when an agent is asked to **moderate rather than** instruct — a qualitatively different demand from answering questions, and one the literature treats as unsettled.
 - **"The evidence base for computer-assisted instruction is thin."** A synthesis (**2025, 34 reviews**) quantifies CAI utilization across teaching and learning support (**97.1% of reviews**), psychological and motivational support (**91.2%**) and **metacognitive** support. Breadth of reviewed application is extensive, which makes the gap one of enacted quality rather than coverage.
+
 ## Connected Concepts
 
 - [[learning-gains]]

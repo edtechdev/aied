@@ -139,6 +139,7 @@ ai_assist:
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## المقالات المتصلة
 
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — مراجعة منهجية للذكاء الاصطناعي في التعليم العالي متعدد التخصصات (59 دراسة)

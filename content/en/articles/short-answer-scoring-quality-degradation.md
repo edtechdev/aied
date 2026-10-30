@@ -14,6 +14,7 @@ methods: [benchmark]
 ---
 
 > **Synthesis:** Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
+
 ## Key Findings
 
 The paper reveals that automated short answer scoring (ASAS) systems show significant **quality degradation in the mid-range** — exactly where teacher judgment is most needed. This connects directly to [[cong-confidence-asag-2026]] [[research-methods-aied|research]] on confidence-aware [[llm]] grading with epistemic uncertainty quantification. The finding that task-specific adaptation can mitigate this degradation provides a practical path forward.

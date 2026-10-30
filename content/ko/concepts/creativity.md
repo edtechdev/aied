@@ -105,6 +105,7 @@ ai_assist:
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## 연결된 문서
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 생성형 AI 이미지 생성은 설계 수행은 그대로 두었으나 일반적 창의적 자기효능감을 낮췄다
 - [[bicer-genai-pd-math-creativity-2026]] — 생성형 AI 안내 전문성 개발이 교사의 수학적 창의성, 내용 지식, 교수법적 내용 지식과의 관계를 어떻게 뒷받침하는가

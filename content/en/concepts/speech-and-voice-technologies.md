@@ -87,6 +87,7 @@ Almost every strong claim here rests on one short study. The two TTS lesson stud
 - **"Paid speech services outperform free ones."** **The two free services returned near-complete transcripts (87.96% and 88.34% coverage, with word error rates of 15.23% and 15.00%)**, while the two paid services exported only previews, at 32% coverage). Price did not predict utility, and the paid tier gated the output rather than improving it.
 - **"Any language-learning chatbot improves pronunciation."** Across **ten studies**, **only chatbots designed for language learning — Andy English bot and Xiaoying — improved accuracy**, with a **14% error decrease in one control group** comparison. Generic conversational agents did not produce the gain.
 - **"Self-efficacy gains mean skill gains."** The association between the technology and outcomes was positive with **self-efficacy partially mediating it: the indirect path accounted for 69.9% of the total effect while a direct effect remained**. Most of the effect ran through confidence, which is a mechanism and also a caution.
+
 ## Connected Concepts
 
 - [[language-learning]]

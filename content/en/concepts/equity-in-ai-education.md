@@ -119,6 +119,7 @@ Equity also has an environmental and computational dimension: unequal access to 
 - **"The equity problem is access to tools."** **Tool quality is part of the divide, not just tool access**: [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]] submitted **50 mathematics tasks** and found quality differences that follow the tool rather than the user.
 - **"Hybrid human-AI tutoring cannot narrow gaps."** **Differentiated human-AI tutoring is evidence that hybrid models can narrow gaps — when allocation follows need.** A difference-in-discontinuities study (**635** participants) found proactive tutoring showed **marginally higher average growth (75%, p = .065) concentrated among students farther below the cutoff**. The gain concentrated where need was greatest.
 - **"An average effect tells you whether equity improved."** The insight is that the **allocation rule** determined the equity outcome: an intervention that helps everyone equally leaves gaps unchanged, and one that helps proportionally to need narrows them.
+
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]

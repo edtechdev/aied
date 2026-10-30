@@ -87,6 +87,7 @@ ai_assist:
 - [[higher-ed|השכלה גבוהה]]
 - [[student-experience|חוויית הסטודנט]]
 - [[parents-and-families|הורים ומשפחות]]
+
 ## מאמרים מחוברים
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)

@@ -123,6 +123,7 @@ ai_assist:
 - [[higher-ed]]
 - [[k-12]]
 - [[llm-training-and-fine-tuning]] — 教授法的な原理に従うよう訓練された AI ツール
+
 ## Connected Articles
 - [[genai-didactic-pedagogical-mediator-2026]] — 教授的・教授法的媒介者としての生成 AI——教師——学生——生成 AI の三項モデル（Moganadas et al. 2026）
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 「まず教授法、次に技術」——TPAIK が学生の成果に対して技術的な TAIK に勝る（Shen et al. 2026）

@@ -106,6 +106,7 @@ Fowlin và cộng sự (2026) bổ sung một động thái vận hành để qu
 - **"Lập kế hoạch bài học bằng AI trả lại thời gian cho giáo viên."** Thời gian lập kế hoạch có giảm, từ 3.32 giờ mỗi tuần xuống 2.51 giờ với công cụ, nhưng **giáo viên ở mức trung vị chỉ lập kế hoạch từ đầu cho 21% đến 40% số bài học**. Thời gian được tiết kiệm và việc lập kế hoạch không trở nên kỹ lưỡng hơn đáng kể; phần tiết kiệm được tích lũy lại thay vì được tái đầu tư.
 - **"Đồng thiết kế với AI đã có bằng chứng vững chắc."** Một tổng quan hệ thống về [[wang-teacher-ai-co-design-review-2026|việc giáo viên và AI cùng thiết kế các nhiệm vụ học tập]] **xác nhận mô thức này ở quy mô 28 nghiên cứu**, điều mô tả một thực hành nhất quán chứ không chứng minh các kết quả vượt trội.
 - **"Rubric là một đầu vào cố định."** Rubric vận hành như một **giao diện trung gian giữa ý định sư phạm của con người và suy luận của máy**: chính việc coi các tiêu chí đánh giá là **có thể sửa đổi** mới cho phép công cụ mang ý định của nhà giáo dục. Một rubric cố định chuyển cách định khung mặc định của máy vào việc đánh giá.
+
 ## Khái niệm liên quan
 
 - [[interpreting-and-applying-aied-research]]

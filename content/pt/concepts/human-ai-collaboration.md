@@ -110,6 +110,7 @@ A colaboração humano-IA se conecta ao [[human-in-the-loop-ai]] (supervisão), 
 - [[human-in-the-loop-ai]] — supervisão
 - [[agentic-ai]] — autonomia
 - [[productive-failure]]
+
 ## Artigos conectados
 - [[bjet-many-hands-make-light-work-2026]] — O trabalho em duplas com um sistema multiagente de IA generativa venceu o projeto de desenho, enquanto a consciência de pensamento crítico subiu apenas para os que trabalharam sozinhos (Chu et al. 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — CCHI: competência de colaboração como configuração dinâmica de competências de domínio, de IA e metacognitiva, com autonomia de quem aprende emergente (Dang et al. 2026)

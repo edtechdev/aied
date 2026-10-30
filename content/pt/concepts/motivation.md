@@ -90,6 +90,7 @@ A motivação é o construto-pai da [[self-determination-theory|teoria da autode
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Aprendizagem socioemocional
+
 ## Artigos conectados
 - [[liu-ai-assistance-reduces-persistence-2026]] — O breve uso de IA reduziu a persistência em problemas posteriores sem assistência (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Feedback automatizado sobre escrita argumentativa: o papel da receptividade ao feedback e da percepção do feedback de estudantes do ensino médio

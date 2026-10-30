@@ -82,6 +82,7 @@ ai_assist:
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — الفشل المنتج
+
 ## المقالات المرتبطة
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 

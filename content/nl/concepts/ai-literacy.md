@@ -245,6 +245,7 @@ Voor kritieke AI-geletterdheid in het bijzonder laten [[solyst-youth-systematic-
 - [[higher-ed]] — geletterdheid op universitair niveau
 - [[career-development-and-readiness]] — de inzetbaarheidsopbrengst die AI-geletterdheid naar bewering oplevert
 - [[ai-education]] — het bredere veld
+
 ## Verbonden artikelen
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Vormgeving van de vroege kinderjaren in het AI-tijdperk: competenties, pedagogiek en ecologische ondersteuning (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-veiligheidsgeletterdheid: ecosysteemgebaseerd competentiekader en K-12-leerplatform

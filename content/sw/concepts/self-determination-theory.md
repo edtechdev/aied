@@ -74,6 +74,7 @@ SDT inahusiana moja kwa moja na [[motivation]] kama dhana yake ya mama, na [[aff
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## Makala Zilizounganishwa
 - [[family-school-autonomy-support-genai-2026]] — Msaada wa Uhuru wa Familia-Shule kwa Matumizi yenye Uwajibikisho ya Watoto ya AI ya Kizalishaji
 - [[dual-ai-learning-pathways-sdt-2026]] — Shinikizo la shule ya juu/msaada wa uhuru na njia mbili za kujifunza kwa AI (Shen & Arunrugstichai 2026)

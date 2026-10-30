@@ -78,6 +78,7 @@ ai_assist:
 - [[academic-integrity]]
 - [[open-source]]
 - [[arts-design-and-media-education]]
+
 ## المقالات المرتبطة
 
 - [[genai-architecture-education]] — Gen-AI-tecture: استخدام الذكاء الاصطناعي التوليدي لدعم طلاب العمارة في مهام التصميم

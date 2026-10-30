@@ -44,6 +44,7 @@ Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68
 - No external validation: despite stratified 10-fold cross-validation with SMOTENC, the models were never tested on an independent population, restricting their applicability beyond this sample.
 - The design is cross-sectional and self-report, predicting intended future use rather than observed behavior, and SHAP explanations describe model behavior rather than causal mechanisms.
 - The sample is skewed — 72.9% male, mean age 21.4 years, 77.1% bachelor's students, and 57.2% educated in Asia — so group contrasts rest on uneven cells.
+
 ## Citation
 
 Verma, C., & Kumar, D. (2026). [An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education](https://doi.org/10.1016/j.caeai.2026.100613). *Computers and Education: Artificial Intelligence*, 10, 100613.

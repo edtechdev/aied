@@ -92,6 +92,7 @@ Une proposition de cette littérature pousse au-delà de la refonte à l'intéri
 - **Des pratiques innovantes peuvent traiter plusieurs problèmes à la fois.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] soutiennent qu'un ensemble de cinq pratiques mutuellement renforçantes — l'[[authentic-assessment|évaluation authentique]], l'auto-évaluation et l'[[peer-assessment|évaluation par les pairs]], la réévaluation, la [[mastery-learning|notation fondée sur les standards]], et la non-notation — alignées sur le paradigme de « l'évaluation au service de l'apprentissage » peut contrer les préjudices de la notation traditionnelle, sommative et référencée à la norme (apprentissage superficiel, [[motivation|motivation intrinsèque]] érodée, stress et anxiété, iniquité, et [[academic-integrity|intégrité]] compromise) à l'ère de l'IA générative. Ils constatent que l'adoption est inégale selon les champs — l'auto-évaluation et l'évaluation par les pairs dominent, tandis que les innovations centrées sur la notation restent marginales — et exhortent les éducateurs à s'engager plus activement et réciproquement dans l'innovation en matière d'évaluation et de notation, appuyés par une expérimentation progressive et un soutien [[governance|institutionnel]].
 
 - **L'évaluation médiée par l'IA se diversifie.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] montre qu'un [[conversational-ai|agent conversationnel]] augmenté par LLM a réduit l'anxiété des étudiants pendant des évaluations fondées sur la performance ; [[asynchronous-oral-assessment-2026|Pentland (2026)]] constate que les évaluations orales asynchrones offraient un engagement plus élevé et étaient perçues comme professionnellement pertinentes ; les [[graph-its-adaptive-algorithms-2026|systèmes de tutorat intelligent fondés sur les graphes]] recourent au suivi adaptatif de l'état de connaissances pour informer l'évaluation.
+
 ## Concepts liés
 - [[learners]] — Apprenants : le parapluie des concepts du côté de l'apprenant
 - [[pedagogical-partnerships]] — Partenariats pédagogiques
@@ -115,6 +116,7 @@ Une proposition de cette littérature pousse au-delà de la refonte à l'intéri
 - [[eportfolio]] — Évaluation par portfolio électronique fondée sur le processus
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Articles liés
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Un programme d'un an qui définit la littératie d'évaluation multimodale et mesure ce qui a bougé, et ce qui n'a pas bougé
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers-espace

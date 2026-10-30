@@ -111,6 +111,7 @@ AI 사용 및 공개는 [[academic-integrity]](그의 근본이 되는 우려), 
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — 학습자가 공개하지 않고 숨기기로 선택하는 이유
+
 ## 연결된 문서
 
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 탐지를 넘어서: 학생이 온라인 평가에서 AI를 쓰고 숨기는 방식

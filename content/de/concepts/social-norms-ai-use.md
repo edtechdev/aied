@@ -82,6 +82,7 @@ Zwei weitere Studien erklären, warum Überwachung ein schlechtes Werkzeug für 
 [[teichmann-detecting-undetectable-misconduct-2026|Das Prozedurale-Gerechtigkeit-Argument]] zieht den Schluss: weil geschickte oder leicht editierte KI-Nutzung im allgemeinen Fall unentdeckbar ist, produziert ein auf Detektion gebautes Fehlverfahren Ungerechtigkeit ohne Effektivität, und die Antwort ist besseres [[assessment|Assessment]], nicht bessere Überwachung.
 
 Die Kosten dieser Substitution zeigen sich darin, wo Lehrende und Studierende tatsächlich reden. Über 253.222 KI-bezogene Einträge aus 26 Bildungs-Subreddits hinweg war ein Drittel aller Fakultäts-Studierenden-Threads Detektions- oder Durchsetzungsstreit, Studierende eröffneten 68,4% davon, und Negativität sagte Engagement vorher (ρ = −0,72) —, adversarieller Konflikt, nicht Beratung, ist die höchstvolumige Form des kontaktrollenübergreifenden Kontakts über [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
+
 ## Was das für die Praxis bedeutet
 
 - **Nutzung sichtbar machen statt sie zu inferieren.** Studierende können einander nicht akkurat beurteilen, und wiederholte Kollaboration behebt das nicht. Leichtgewichtige geteilte Aufzeichnungen KI-gestützter Arbeit, Annotationen oder Prompt-Historien geben einer Gruppe etwas Faktisches, worüber sie schlussfolgern kann.

@@ -173,6 +173,7 @@ A GAIT-alapú kötelességszegési szándék első tervezett viselkedés elméle
 - **„A detektáló eszközök azonosítják az MI-írást.”** Az MI-generált szöveg **az esetek akár 80%-ában emberi szerzőségűnek ment át**, míg a detektálás melletti bizonyítékok a **gépi detektálást mintegy 80%-ra teszik a humán bírálók 78,4%-ával szemben**. Az emberi és a gépi ítélet közel egyformán (meg)bízhatatlan, így a detektálási ítélet nem bizonyíték a szerzőségre.
 - **„A probléma marginális.”** A mennyiség korántsem az: egy **nagy létszámú CS2 kurzus hatéves elemzése** a **2026 tavaszi diákok 45,7%-át találta megjelöltnek**. Majdnem egy fél kohorsz, ami ezt mainstream tervezési problémává teszi, nem szélsőséges esetté.
 - **„Az oktatók tudják, mely értékelések sebezhetők.”** Egy [[biology-education|biológia]] tanszéken az oktatók **csak a személyes felügyelettel tartott vizsgákat érzékelték minimálisan sebezhetőnek**, míg a tanórán kívüli feladatokat kitettnek látták. Az észlelés a nyilvánvaló esetnek felelt meg, és minden mást biztonságosnak tekintett.
+
 ## Kapcsolódó fogalmak
 - [[pedagogical-patterns]] - A generatív MI-re válaszul átvett ellenőrzési szekvenciák
 - [[ai-use-disclosure]] - MI-használati és közzétételi nyilatkozatok

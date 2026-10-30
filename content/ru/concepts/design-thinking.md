@@ -75,6 +75,7 @@ ai_assist:
 - [[academic-integrity]]
 - [[open-source]]
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios

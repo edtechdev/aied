@@ -84,6 +84,7 @@ SDT는 [[motivation]]를 그것의 상위 구인으로 하여 직접 연결되�
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## 연결된 문서
 - [[family-school-autonomy-support-genai-2026]] — 아동의 생성형 AI 책임 있는 사용에 대한 가정-학교 자율성 지지
 - [[dual-ai-learning-pathways-sdt-2026]] — 고등학교 압력/자율성 지지와 이중 AI 학습 경로(Shen & Arunrugstichai 2026)

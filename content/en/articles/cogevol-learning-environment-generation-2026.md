@@ -52,5 +52,6 @@ On quality [[benchmark|benchmarks]], CogEvol-27B scores 83.7 on a slide suite an
 - Corpus composition: the HTML corpus is 69.8% [[simulation|simulations]] and 2.4% code tasks and contains no 3D examples, so quality claims are strongest for the artifact types well represented in training.
 - Measurement gap: every reward term except the executable probes reads a static rendering, so inert pages with well-composed opening frames score well on screenshot-based dimensions — the disclosed reward-hacking checkpoint is the case in point.
 - Evaluation conditions: results come from internally maintained suites scored centrally rather than released (slide-std, HTML-500) and from the authors' own production traffic with one partner; human evaluation was internal manual testing, no classroom learning outcomes were measured, and interactive probing costs about 55 seconds per GRPO step at batch size 64.
+
 ## Citation
 Tu, S., Zhang-Li, D., Wang, Y., Gan, S., Wang, Y., Rong, H., ... Zhang, Y. (2026). [*CogEvol: Towards Efficient and Reliable Learning Environment Generation*](https://arxiv.org/abs/2608.30968). arXiv:2608.30968.

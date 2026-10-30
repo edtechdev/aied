@@ -82,6 +82,7 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - **„Mehr KI-Nutzung bei geringem Vertrauen ist eine harmlose Bewältigungsstrategie.“** Derselbe Befund verbindet diese Weichenstellung mit **schlechteren Noten**, sodass das Bewältigungsmuster messbare Kosten trägt, statt eine neutrale Wahl zu sein.
 - **„Kompetenz allein baut Vertrauen auf.“** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] befragte **450 Universitätsstudierende**, die ChatGPT bereits nutzen, und findet **Vertrauen als Angelpunkt zwischen KI-Kompetenz und Selbstvertrauen**. Der Pfad verläuft über Vertrauen, sodass das Erhöhen von Kompetenz ohne Auseinandersetzung mit Vertrauen den Mechanismus unberührt lässt.
 - **„Selbstwirksamkeitsprofile sind in einer Population mit Behinderungen gleichförmig.“** Eine latente Profilanalyse von **102 Universitätsstudierenden mit motorischen Behinderungen** in Spanien fand **drei Profile**, wobei die niedrige Gruppe **29,4 %** ausmacht und sich der Rest auf mittlere und höhere Profile verteilt. Die Gruppe als eine Population zu behandeln mittelt über unterschiedliche motivationale Zustände hinweg.
+
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
 - [[self-directed-learning]]
@@ -93,6 +94,7 @@ Selbstwirksamkeit verbindet sich mit [[motivation|Motivation]], [[self-regulated
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Sozial-emotionales Lernen
+
 ## Verbundene Artikel
 - [[ai-proof-learning-cognitive-offloading-2026]] — Unterstützen oder ersetzen sie das Schlussfolgern von Studierenden? Kognitive Auslagerung in KI-assistiertem Beweislernen (Chen et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — Allgemeine KI-Nutzung ging mit höherer Selbstwirksamkeit und höherem Absentismus einher, doch Selbstwirksamkeit sagte Anwesenheit nicht vorher (Franco et al. 2026)

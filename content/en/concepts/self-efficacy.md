@@ -67,6 +67,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - **"More AI use with low confidence is a harmless coping strategy."** The same finding links that routing to **lower scores**, so the coping pattern has a measurable cost rather than being neutral choice.
 - **"Literacy alone builds confidence."** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] surveyed **450 university students** who already use ChatGPT and finds **trust as the pivot between literacy and confidence**. The path runs through trust, so raising literacy without addressing trust leaves the mechanism untouched.
 - **"Self-efficacy profiles are uniform in a disabled population."** A latent profile analysis of **102 university students with motor disabilities** in Spain found **three profiles**, with the low group at **29.4%** and the remainder split across moderate and higher profiles. Treating the group as one population averages over distinct motivational states.
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -79,6 +80,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Social-Emotional Learning
+
 ## Connected Articles
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — General AI use tracked with higher self-efficacy and higher absenteeism, yet self-efficacy did not predict attendance (Franco et al. 2026)

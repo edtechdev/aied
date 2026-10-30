@@ -104,6 +104,7 @@ ai_assist:
 - [[agentic-ai]]
 - [[ai-technologies]] — 总括：AI技术与技术手段（模型、LLM训练、机器人、RAG、智能体）
 - [[recommender-systems-and-learning-paths]]
+
 ## 关联文章
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — 一座由策展者构建的1,455条文学公理图谱，有结构审计但无来源记录（Liu & Zhao 2026）
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — 面向个性化e-learning的基于本体的分层混合知识模型

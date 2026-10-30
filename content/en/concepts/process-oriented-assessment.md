@@ -77,6 +77,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - **"A high score implies the student did the work we designed."** Traces can **diverge from scores outright**: across **150 student-AI conversations**, **41% carried an assignment score of exactly 1.00 while observable cognitive participation varied**. The score saturates while the process that was supposed to produce it does not.
 - **"Process data is unmanageable at scale."** Required documentation proved feasible at course scale across **six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers**. Logistics were solvable; the objection overstates the cost.
 - **"Problem solving is too holistic to assess by process."** It can be operationalized as **four stages and eight diagnostic sub-skills**, letting an LLM generate **stage-specific questions and rubrics** — used with **five teachers and 64 students**. Decomposition is what made the process legible and assessable.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — Staged checkpoints and process evidence as sequenced designs
 - [[assessment]]
@@ -94,6 +95,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Connected Articles
 - [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — A critical narrative review arguing the default failure is AI support that never fades paired with product-only assessment (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)

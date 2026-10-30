@@ -65,6 +65,7 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - **"PBL outcomes should be pooled with project-based learning outcomes."** The three-level meta-analysis keeps **product and solution performance in a separate model** precisely because it measures **human-AI collaboration** rather than the learner's own reasoning. Merging them would attribute a jointly-produced artifact to the student.
 - **"Collaborative gains are a side effect of using AI."** A study found higher perceived collaborative problem solving (**M = 3.62 vs. 3.05, d = 0.88**) and shared problem solving (**3.40, d = 1.02**), with **the largest interaction effects on shared knowledge building and social regulation** — the collaborative process dimensions design predicts. The mechanism is the structured collaboration, not the tool.
 - **"PBL with AI mainly saves facilitator time."** The measurable gains sit in process quality on dimensions that only exist when the group structure is designed for them. A PBL implementation that adds AI without structuring shared knowledge building should not expect the same effect.
+
 ## Connected Concepts
 
 - [[project-based-learning]]
@@ -81,6 +82,7 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — Productive Failure
+
 ## Connected Articles
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 

@@ -126,6 +126,7 @@ ai_assist:
 - [[feedback]]
 - [[summative-assessment]] — 総括的評価:AIに抵抗する形式(口頭、監督付き、閉鎖式の試験)
 - [[arts-design-and-media-education]]
+
 ## 関連する記事
 - [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)

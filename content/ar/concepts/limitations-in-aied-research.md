@@ -124,6 +124,7 @@ ai_assist:
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — تطوير النظرية في التعليم بالذكاء الاصطناعي
+
 ## المقالات المرتبطة
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — روبوتات المحادثة بالذكاء الاصطناعي في التعليم العالي: مقارنة التوقعات بالأدلة (ثوني وفراير 2026)
 

@@ -77,6 +77,7 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - **"Intelligent tutoring works across STEM uniformly."** A structured narrative review of **20 publications (2020-April 2026)** found the clearest measured advantage for **real-time diagnostic** tutoring specifically. The evidence is **bounded and conditional**, and generalising it to all mathematics ITS overstates what was reviewed.
 - **"Simulation is a pale substitute for hands-on work."** The simulation group **outgained the hands-on group on curriculum-aligned STEM knowledge (M = 3.00 versus 2.06; t(28) = 2.23, p = .034, d = 0.82)**. The simulation was not a fallback performing below the real thing.
 - **"An AI-assisted literature workflow mainly saves time."** Results from **20 students across 80 documents** showed **over 90% extraction of experimental parameters, roughly 65% reduction in literature-review time, and a 50% increase in students' ability to identify influential** work. The capability gain was the larger result and the time saving was the smaller one.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[business-education]]

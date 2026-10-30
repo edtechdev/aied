@@ -250,6 +250,7 @@ Pour la littératie critique en IA spécifiquement, [[solyst-youth-systematic-ev
 - [[higher-ed]] — littératie au niveau universitaire
 - [[career-development-and-readiness]] — le bénéfice d'employabilité que la littératie en IA est censée bâtir
 - [[ai-education]] — le champ plus large
+
 ## Articles liés
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Façonner la petite enfance à l'ère de l'IA : compétences, pédagogie et soutien écologique (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Littératie de sécurité en IA : cadre de compétence écosystémique et plateforme d'apprentissage pour le K-12

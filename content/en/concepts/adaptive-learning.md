@@ -42,6 +42,7 @@ Take-up, not the adaptation mechanism, was the binding constraint in a two-year 
 
 
 A PRISMA-aligned review of 44 studies finds the engagement literature skewed toward behavioral engagement and thinnest on agentic engagement, and reports a novelty effect — engagement declining over time in longitudinal studies of ALEKS and W-Pal once the tool's novelty faded ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
+
 ### The AI era: LLM-based adaptation and its risks
 
 [[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag]]-grounded content, and [[llm]]-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]). A learner-requested variant of adaptation runs without any [[student-modeling|student model]] at all: in Sidorkin's (2026) graduate course the readings adjusted only when students asked follow-up questions to reframe, deepen, simplify or localize them, and comprehension-oriented requests reliably produced denser scaffolding (3.4x to 8.7x more definitional markers than baseline text), which is why requiring at least three follow-up questions per reading turned the material into an interaction. It also relocates the adaptive burden onto the learner: adaptation here happens only if the student knows what to ask for.
@@ -82,6 +83,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **"Correctness-based adaptivity knows when to stop."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found systems inferring mastery from correctness risk **terminating practice too early** — the system reads a correct run as understanding and withdraws the practice the learner still needed. Adaptivity that stops on success can subtract exactly the trials that produce retention.
 - **"The bottleneck is how good the adaptation is."** In a **two-year district RCT**, the binding constraint was **take-up**: collapsing enrollment to a single step raised first-session take-up from about **45% to 83%** on design changes alone, and intent-to-treat gains grew accordingly. The cleverest adaptation serves nobody who never reaches it.
 - **"Engagement persists once established."** A PRISMA-aligned review of **44 studies** found the engagement literature skewed toward behavioral engagement and thinnest on agentic engagement, and reports a **novelty effect** — engagement declining over time in longitudinal studies of ALEX and similar systems. Early engagement is not a stable property of the design.
+
 ## What this means for practice
 
 **For instructors and designers**
@@ -96,6 +98,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 
 - Report the operational definition of "adaptive" alongside any effect size you cite, because the literature's definitions diverge and pooled numbers inherit that ambiguity.
 - Distinguish your mastery criterion from learning outcomes in your own validation. If your validation measure is the same signal that drives the adaptation, it is not independent evidence.
+
 ## Connected Concepts
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -113,6 +116,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[behaviorism]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[recommender-systems-and-learning-paths]]
+
 ## Connected Articles
 - [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)

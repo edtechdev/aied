@@ -109,6 +109,7 @@ Açıklanabilirlik için özellikle önemli olan ödevler, açıklamayı not def
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Atıf
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
@@ -133,6 +134,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Yeni YZ destekli eğitimsel soruların pedagojik değerlendirmesi için önceden eğitilmiş modellerin değerlendirmesi
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Öğretmen kaynaklı ve YZ kaynaklı not verme kararları karşılaştırması: yazılı bir gerekçe adalet boşluğunu genişletti
+
 ## Kaynak
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

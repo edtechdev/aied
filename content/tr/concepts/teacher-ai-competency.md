@@ -130,6 +130,7 @@ YZ rutin öğretim ve değerlendirme görevlerini devraldıkça, öğretmenin ay
 - **Kurumsal katmanı destekleyin:** sürdürülebilir öğretmen yetkinliği, yalıtılmış eğitim değil hizalanmış politika, yönetişim ve kapasite gerektirir.
 
 - **Üretici YZ [[curriculum-design|müfredat tasarımı]] için öğretmen dijital yetkinliği.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]], 434 çalışan öğretmeyle TAM temelli bir tanı aracını doğrular; davranışsal niyet, üretici YZ'yi müfredat planlamada kullanma dijital yetkinliğinin ana öngörücüsüydü, öz yeterlilik kök güç olarak.
+
 ### Öğretmen YZ Yetkinliği için bir Psikometrik Araç
 
 - Bir psikometrik çalışma, YZ okuryazarlığını özellikle [[teacher-education|dil öğretmeni eğitimi]] kapsamında ölçmek için Öğretmenlerin YZ Okuryazarlığı Ölçeği'ni (TAILS) geliştirdi; ED-AI çerçevesinin altı boyutunu işlevselleştirdi. Aracın geliştirilmesi, öğrencileri veya genel kullanıcıları hedefleyen değerlendirmelerdeki bir boşluğu doldurur ve öğretmen YZ yetkinliğinin ölçümünü destekler.

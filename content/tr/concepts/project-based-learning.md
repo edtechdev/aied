@@ -72,6 +72,7 @@ PBL, [[active-learning]], [[experiential-learning]], [[collaborative-learning]],
 - [[higher-ed]]
 - [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
 - [[arts-design-and-media-education]]
+
 ## Bağlı makaleler
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Üretken yapay zeka destekli eğitim için umut verici çerçeveler olarak probleme dayalı ve proje temelli öğrenme: sistematik bir derleme ve üç düzeyli meta analizden çıkan kanıtlar
 - [[pbl-structural-conditions-ai-2026]]

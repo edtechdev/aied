@@ -174,6 +174,7 @@ Samma logik gör belöningsformning till ett designverktyg: [[assistance-dilemma
 - **"Promptvolym mäter avlastning."** **97 elever** klustrades efter promptvolym, och **volymklustren skilde sig inte signifikant i lokal kontra global eller aktiv-roll-promptning**. Att räkna promptar räknade aktivitet, inte fördelningen av kognitivt arbete.
 - **"Elever använder AI främst för att förstå."** **Analysera toppade fördelningen med 27,28% (831 meddelanden) före Förstå med 23,76%** - den första finkorniga evidensen för att naturalistisk [elev-AI-interaktion] lutar analytiskt snarare än förståelseinriktat.
 - **"Promptspår avslöjar om avlastning skedde."** Det promptnivåspår inte kan leverera kommer från ett **delurval på 16 elever med kopplade betyg, vars 1 140 meddelanden handkodades**: **49,6% av 125 dialoger visade ingen avlastning** alls. Spårmönster överdriver avlastningen jämfört med handkodad dialog.
+
 ## Anslutna begrepp
 
 - [[pedagogical-patterns]] - Risken som varje ansträngning-först-sekvens är designad att undvika

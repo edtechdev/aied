@@ -134,6 +134,7 @@ Des référentiels conditionnés au contexte sont nécessaires : [[zhang-tutormo
 - [[hallucination-risk]] — Risque de contenu fabriqué dans les sorties de l'IA
 - [[intelligent-tutoring]] — Évaluer les systèmes de tutorat par l'IA
 - [[agentic-ai]] — Évaluer le comportement des agents d'IA autonomes
+
 ## Articles liés
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench : évaluer les tuteurs LLM face à des étudiants aux comportements difficiles (Park et al. 2026)
 - [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench : diagnostiquer la compréhension de la contingence pédagogique dans les vidéos de tutorat en ligne

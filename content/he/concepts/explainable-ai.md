@@ -112,6 +112,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## מאמרים מקושרים
 - [[lund-socially-accountable-data-science-xai-2026]] — מסגרת בת ארבעה עמודים (אכיפיות-תשובה, אחריות, אכיפה, רפלקסיביות) להוראת XAI כפרקטיקת אחריות (Lund ואח'. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — עיצוב רגיש-ערך של ITS ממוקד-סטודנט (הסברים שיתופיים מול גלמיים)

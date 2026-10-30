@@ -75,6 +75,7 @@ SDT, ana yapısı olarak [[motivation]], duygu farkında YZ tasarımı için [[a
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## Bağlı makaleler
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[dual-ai-learning-pathways-sdt-2026]] — Lise baskısı/özerklik desteği ve çift YZ öğrenme yolu (Shen & Arunrugstichai 2026)

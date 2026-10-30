@@ -158,6 +158,7 @@ A tutoria eficaz exige adaptação contínua: [[zhang-tutormoments-2026|Zhang et
 - [[guardrails]]
 - [[k-12]]
 - [[speech-and-voice-technologies]]
+
 ## Artigos conectados
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — A tutoria com IA supera a aprendizagem ativa presencial: um RCT que introduz um desenho inovador baseado em pesquisa em um contexto educacional autêntico (Kestin et al. 2025)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliação de um sistema de múltiplos agentes com LLM orientado ao andaimento para treinamento de entrevista clínica

@@ -151,6 +151,7 @@ Un tutoraggio efficace richiede un adattamento continuo: [[zhang-tutormoments-20
 - **Progettare con i valori dello studente, non solo per la sua prestazione.** Il lavoro di [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design]] con studenti e docenti di matematica di recupero in un community college mostra che le dimensioni [[ethics|etiche]] degli ITS non sono aggiunte separabili: coinvolgere direttamente studenti e docenti ha prodotto 16 funzionalità allineate ai valori che abbracciano l'[[explainable-ai|spiegabilità]] (interpretazione del controllo di comprensione, collegamento al percorso di apprendimento, comunicazione della confidenza del modello), il [[human-in-the-loop-ai|controllo dello studente]] (controllo sulla ri-valutazione, il ripasso, il ritmo e il livello di assistenza dell'IA) e la [[privacy]] (controllo sul riutilizzo dei dati, richieste di permesso per la condivisione di [[learning-analytics|learning analytics]] e stati [[affective-computing|affettivi]]). Lo studio inquadra una tensione progettuale persistente — [[agency|agenzia dello studente]] contro scaffolding guidato dal sistema — e nota che la maggior parte delle istituzioni disabilita del tutto il tutoraggio adattivo, quindi la progettazione informata dai valori dipende anche da come (e se) le capacità di IA degli ITS sono effettivamente dispiegate.
 
 - **Agenti insegnabili e classificazione del dialogo disimpegnato:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] hanno eseguito un agente insegnabile GPT-4-Turbo all'interno di Math Nation (Algebra e Geometria), dove gli studenti identificavano quale di due soluzioni svolte conteneva un fraintendimento, giustificavano la correzione e insegnavano all'agente — una struttura di apprendimento attraverso l'insegnamento con un agente mentore separato che valutava la qualità della spiegazione. Su 6.933 problemi aperti e 22.143 interazioni registrate, hanno costruito un classificatore conversazionale di disimpegno a sei categorie (uomo nel ciclo: 1.682 espressioni annotate, LLaMA 3 perfezionato, F1 ponderato = 0,910, κ modello-vs-umano = 0,624) e lo hanno usato per studiare 246 studenti della scuola media. Il contributo metodologico è importante quanto il risultato: quando un classificatore etichetta la maggior parte del corpus, i risultati di prevalenza devono essere messi sotto stress rispetto al sottoinsieme annotato dall'uomo — e qui l'associazione principale (False Answering e Mocking che predicono un post-test più alto) è svanita proprio sotto quel test.
+
 ## Concetti collegati
 - [[scaffolding]]
 - [[adaptive-learning]]
@@ -172,6 +173,7 @@ Un tutoraggio efficace richiede un adattamento continuo: [[zhang-tutormoments-20
 - [[guardrails]]
 - [[k-12]]
 - [[speech-and-voice-technologies]]
+
 ## Articoli collegati
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)

@@ -78,6 +78,7 @@ Two further studies explain why surveillance is a poor tool for norm-setting. [[
 [[teichmann-detecting-undetectable-misconduct-2026|The procedural-justice argument]] draws the conclusion: because skilled or lightly edited AI use is undetectable in the general case, a misconduct procedure built on detection produces unfairness without effectiveness, and the answer is better [[assessment]], not better surveillance.
 
 The cost of that substitution shows up in where faculty and students actually talk. Across 253,222 AI-related records from 26 education subreddits, a third of all faculty–student threads were detection or enforcement disputes, students opened 68.4% of them, and negativity predicted engagement (ρ = −0.72) — adversarial conflict, not deliberation, is the highest-volume form of cross-role contact about [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
+
 ## What this means for practice
 
 - **Make use visible instead of inferring it.** Students cannot judge each other accurately, and repeated collaboration does not fix it. Lightweight shared records of AI-supported work, annotations, or prompt histories give a group something factual to reason about.

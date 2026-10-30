@@ -106,6 +106,7 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 - **"Perencanaan pelajaran dengan AI mengembalikan waktu kepada guru."** Waktu perencanaan memang turun, dari 3,32 jam seminggu menjadi 2,51 dengan alat itu, tetapi **guru median hanya merencanakan 21% hingga 40% pelajaran dari nol**. Waktu dihemat dan perencanaannya tidak menjadi jauh lebih menyeluruh: penghematannya terakumulasi alih-alih diinvestasikan kembali.
 - **"Ko-desain dengan AI berbukti baik."** Tinjauan sistematis atas [[wang-teacher-ai-co-design-review-2026|ko-desain tugas belajar oleh guru-AI]] **menegaskan pola itu dalam skala 28 studi**, yang menggambarkan praktik yang konsisten alih-alih menunjukkan hasil yang lebih unggul.
 - **"Rubrik adalah input yang tetap."** Rubrik berfungsi sebagai **antarmuka mediasi antara niat pedagogis manusia dan inferensi mesin**: memperlakukan kriteria penilaian sebagai **dapat direvisi** itulah yang memungkinkan instrumen itu membawa niat pendidik. Rubrik yang tetap memindahkan pembingkaian default mesin ke dalam penilaian.
+
 ## Konsep Terkait
 
 - [[interpreting-and-applying-aied-research]]

@@ -97,6 +97,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - **"Discipline matters mainly for content examples."** Research across **560 students** found disciplinary affiliation **predicts how often and openly students use** [[generative-ai|generative AI]]. Discipline shapes whether the tool is used at all and whether that use is disclosed, not only what it is asked about.
 - **"Interdisciplinarity is a generic institutional goal."** The **shape of "interdisciplinary" is itself discipline-determined**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] [[meta-analysis-systematic-review|review]] finds the form it takes varies by field. A single institutional definition misreads at least some of the disciplines it covers.
 - **"Vocational education has a research base comparable to the academic disciplines."** The vocational strand is **the thinnest in that evidence**: a systematic review of **26 studies** in vocational education and training found **none conducted in workplace settings** — the settings where the competence is actually exercised. The literature's absence is a gap, not a null result.
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -123,6 +124,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## Connected Articles
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching

@@ -121,6 +121,7 @@ AI를 사용하는 학생들은 AI가 사용 가능한 작업에서 **즉각적�
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — 생산적 실패(Productive Failure)
+
 ## 연결된 문서
 - [[yan-agentivism-learning-theory-ai-2026]] — 네 메커니즘과 여섯 개의 검증 가능한 명제를 가진 인간-AI 상호작용을 위한 중범위 학습 이론 (Yan과 Gašević 2026)
 

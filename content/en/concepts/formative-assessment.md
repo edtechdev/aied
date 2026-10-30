@@ -99,6 +99,7 @@ Formative assessment in AI education connects to the learning process itself:
 
 - **Keep the vulnerable task and add a twin.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argue take-home essays and research reports carry substantial formative value and should be retained for learning, paired with a second task assessing the same outcomes that supplies reliable summative evidence.
 - **Technology-supported formative assessment is a system property, not a tool.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] defines it as the joint product of technological capacity, pedagogical regulation, learner agency, and human judgment, and argues its value lies in sustaining the evidence-feedback-reflection-action cycle rather than in automation.
+
 ## Risk: Assessment as surveillance
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if [[governance]] is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.
@@ -121,6 +122,7 @@ Observability can be designed for without surveillance: it is the evidence an as
 - **"Generated practice items give useful formative signal."** **An easy generated item bank gives no formative signal**: in a **10-week deployment about 70% of AI-generated practice items were answered correctly by every student**. A bank everyone passes carries no information about who needs what.
 - **"Item generation reliability is uniform across formats."** AI systems generate formative items across modalities **with reliability varying by type** — multiple-choice among them. Treating generated items as interchangeable across formats hides where generation is dependable.
 - **"Giving students AI feedback produces enactment."** The **enactment problem** is documented separately from feedback quality: receiving feedback and acting on it are distinct steps, and the second is where formative assessment succeeds or fails.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The sequenced forms formative assessment takes when AI supplies part of the feedback

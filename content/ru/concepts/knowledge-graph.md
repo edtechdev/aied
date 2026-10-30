@@ -76,6 +76,7 @@ ai_assist:
 - [[agentic-ai]]
 - [[ai-technologies]] — Зонтичное понятие: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентные системы)
 - [[recommender-systems-and-learning-paths]]
+
 ## Связанные статьи
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Созданный кураторами граф из 1455 литературных аксиом со структурным аудитом и без записи о происхождении (Liu и Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Слоистая гибридная модель знаний на основе онтологий для персонализированного электронного обучения

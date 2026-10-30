@@ -95,6 +95,7 @@ Yaratıcılık, [[critical-thinking]] ile ve [[constructivist]] öğrenmeyle ba�
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## Bağlı makaleler
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge

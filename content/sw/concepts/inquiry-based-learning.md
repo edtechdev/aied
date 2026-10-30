@@ -78,6 +78,7 @@ Katika miktadha ya shamba ya nje, amri ileile inakuwa ya kijiografia: GenAI inaw
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — Kushindwa kwa Uzalifu
+
 ## Makala Zilizounganishwa
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT kwa kujifunza kwa uchunguzi katika STEAM (mapitio ya kimfumo)

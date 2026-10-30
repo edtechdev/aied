@@ -121,6 +121,7 @@ La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|Saf
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
 - [[socratic-method]]
+
 ## Artículos conectados
 
 - [[ecnuclaw-k12-personalized-companion]]

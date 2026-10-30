@@ -121,6 +121,7 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 - [[collaborative-learning]]
 - [[pedagogy]] — 상위 개념: AI 교육의 교수법과 교수 전략
 - [[recommender-systems-and-learning-paths]]
+
 ## 연결된 문서
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI 기반 구성적 정렬 지침의 비판적 담론 분석(McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — 교육을 통한 AI 시스템의 신뢰 다루기: 교수법적 관점

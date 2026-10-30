@@ -77,6 +77,7 @@ Les graphes de connaissances sont liés au [[learning-design|design pédagogique
 - [[agentic-ai]]
 - [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement des LLM, robotique, RAG, agentique)
 - [[recommender-systems-and-learning-paths]]
+
 ## Articles liés
 
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Un graphe de 1 455 axiomes littéraires construit par un curateur, avec un audit structurel et sans registre de provenance (Liu & Zhao 2026)

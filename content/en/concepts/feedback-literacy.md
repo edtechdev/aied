@@ -85,6 +85,7 @@ Acting on feedback is not the same as improving the artifact. Among 22 pre-servi
 - **"AI feedback improves critical thinking directly."** In **421 Chinese undergraduates**, GenAI use's association with [[self-report-measures|self-reported]] critical thinking **ran through feedback literacy**. The literacy is the mediator, so an intervention that adds AI feedback without building the capacity to read it addresses the wrong term.
 - **"Literacy is a precondition, not an outcome."** A **three-wave random-intercept panel of 399 Chinese undergraduates** found AI feedback literacy predicting **later** agentic engagement (**β = 0.222**), so the loop runs both ways. It is dynamic rather than a gate to pass once.
 - **"Actionability is what makes feedback change writing."** Across three writing-feedback-revision cycles in **two intact classes of 48 students each**, **comprehension was the dimension** that carried the revision payoff. Feedback a student cannot parse is not improved by making it more actionable.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The critical-appraisal steps these sequences build into the workflow

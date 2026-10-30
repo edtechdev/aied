@@ -37,6 +37,7 @@ methods: [design-based-research, qualitative-research]
 - The implementation lasted one month of PL-AI stations during freeplay (20–40 minutes), supported by 32 hours of classroom video, with no control group and no validated outcome measures.
 - Evidence is teacher self-report, researcher field notes, observational rubrics, and participation tallies, which the authors present as formative design evidence rather than effect sizes or causal learning gains.
 - Two of the seven activity prototypes were discontinued mid-study, so the activity sequences are context-dependent exemplars.
+
 ## Citation
 
 Lee, J. (2026). [Play with AI (PL-AI): A play-centered, design-based curriculum for AI literacy in pre-K and kindergarten](https://www.sciencedirect.com/science/article/pii/S2666920X26000317). *Computers and Education: Artificial Intelligence*, 10, 100569.

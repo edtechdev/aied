@@ -62,6 +62,7 @@ La perspectiva del administrador conecta con la [[educational-policy-ai|polític
 - **«Las cifras de adopción miden la preparación.»** El uso declarado y el uso gobernado son cantidades distintas, y la evidencia de esta página las separa: las instituciones declaran intención estratégica en torno a la mitad de la población y capacidad de liderazgo por debajo de una décima parte. Una encuesta que muestra que el personal usa IA le dice lo que las personas ya han hecho sin permiso, no lo que la institución puede apoyar o supervisar.
 - **«Las compras son un trámite administrativo.»** Cuando la capacidad se compra en lugar de construirse, los términos contractuales deciden lo que será posible después: la propiedad de los datos, el acceso a auditorías y si la herramienta puede evaluarse siquiera. Una decisión sobre un proveedor tomada como una tarea de compras cierra preguntas de evaluación que la institución todavía no se ha planteado.
 - **«La gobernanza puede ir detrás de la adopción.»** La afirmación sobre la secuencia es habitual y aquí no está respaldada: la evidencia documenta el patrón contrario, con las estructuras de política y de liderazgo por detrás de un uso que ya está ocurriendo. Una gobernanza planteada como algo que se construye después del despliegue es una gobernanza construida desde una posición con menos margen de maniobra.
+
 ## Qué significa esto para la práctica
 
 **Para quienes administran**
@@ -70,6 +71,7 @@ La perspectiva del administrador conecta con la [[educational-policy-ai|polític
 - Pregunte sobre qué podrá evaluarse una herramienta antes de firmar. Si el contrato no permite acceder a los resultados, a los datos de auditoría o al detalle de uso, la institución ha comprado una capacidad que no puede valorar.
 - Encueste el uso real y no el autorizado, porque ambos divergen y la cifra no autorizada es la que conlleva el riesgo al que ya está expuesta.
 - Secuencie la política por delante del despliegue donde todavía exista margen. Una vez que el uso está extendido, la política se convierte en una negociación con una práctica ya asentada.
+
 ## Conceptos conectados
 
 - [[educational-policy-ai]]

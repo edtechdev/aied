@@ -113,6 +113,7 @@ ai_assist:
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — Productive Failure
+
 ## מאמרים מקושרים
 - [[yan-agentivism-learning-theory-ai-2026]] — תיאוריית למידה בטווח-בינוני לאינטראקציה בין אדם ל-AI, עם ארבעה מנגנונים ושישה טענות ברירות-מבחן (Yan and Gašević 2026)
 

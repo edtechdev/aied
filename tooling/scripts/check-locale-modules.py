@@ -126,6 +126,75 @@ def tokens(value):
     )
 
 
+# Optional localized maps (currently the FAQ index section headings and blurbs). They are
+# translatable copy, but English does not carry them: the English headings live in
+# src/data/faqIndex.ts, so faq.en.ts has no map and a locale that supplies one has more
+# values than English. Counting them here failed every locale that translated them, so the
+# maps are removed before the required-copy comparison and their keys are checked instead
+# against the registry that defines them.
+OPTIONAL_MAPS = ('sectionHeadings', 'sectionBlurbs')
+
+
+def strip_optional_maps(text):
+    """Source text with the optional maps removed, braces matched through strings."""
+    for name in OPTIONAL_MAPS:
+        while True:
+            m = re.search(rf'\b{name}\s*:\s*\{{', text)
+            if m is None:
+                break
+            depth, i = 0, m.end() - 1
+            while i < len(text):
+                ch = text[i]
+                if ch in QUOTES:
+                    _, i = _read_string(text, i)
+                    continue
+                if ch == '{':
+                    depth += 1
+                elif ch == '}':
+                    depth -= 1
+                    if depth == 0:
+                        i += 1
+                        break
+                i += 1
+            # Swallow the trailing comma so the surrounding object stays balanced.
+            while i < len(text) and text[i] in ' \t,':
+                i += 1
+                if text[i - 1] == ',':
+                    break
+            text = text[:m.start()] + text[i:]
+    return text
+
+
+def map_keys(text, name):
+    """Keys supplied by one optional map, or None when the module omits it."""
+    m = re.search(rf'\b{name}\s*:\s*\{{', text)
+    if m is None:
+        return None
+    depth, i, start = 0, m.end() - 1, m.end()
+    while i < len(text):
+        ch = text[i]
+        if ch in QUOTES:
+            _, i = _read_string(text, i)
+            continue
+        if ch == '{':
+            depth += 1
+        elif ch == '}':
+            depth -= 1
+            if depth == 0:
+                return [k for k, _v in values(text[start:i]) if k]
+        i += 1
+    return []
+
+
+def faq_index_headings():
+    """The English section headings from src/data/faqIndex.ts, the registry for these maps."""
+    path = f'{ROOT}/src/data/faqIndex.ts'
+    if not os.path.exists(path):
+        return None
+    return re.findall(r"^\s*heading: '([^']+)',",
+                      open(path, encoding='utf-8').read(), re.M)
+
+
 def main():
     locale = sys.argv[1] if len(sys.argv) > 1 else 'ru'
     only = sys.argv[2:] if len(sys.argv) > 2 else None
@@ -144,6 +213,28 @@ def main():
             continue
         en = open(en_path, encoding='utf-8').read()
         loc = open(loc_path, encoding='utf-8').read()
+
+        # Optional maps are translated copy that English itself keeps in a registry, so they
+        # are outside the required-copy comparison. Their keys are verified against that
+        # registry below instead: a locale that drops one heading would silently fall back to
+        # English for that section, which no count would reveal.
+        if os.path.basename(loc_path).startswith('faq.'):
+            registered = faq_index_headings()
+            heads, blurbs = map_keys(loc, 'sectionHeadings'), map_keys(loc, 'sectionBlurbs')
+            if (heads is None) != (blurbs is None):
+                problems += 1
+                print(f'FAIL {loc_path}: supplies one optional map but not the other')
+            if registered:
+                for name, keys in (('sectionHeadings', heads), ('sectionBlurbs', blurbs)):
+                    if keys is None:
+                        continue
+                    missing = [h for h in registered if h not in keys]
+                    extra = [k for k in keys if k not in registered]
+                    if missing or extra:
+                        problems += 1
+                        print(f'FAIL {loc_path}: {name} keys drift from faqIndex.ts '
+                              f'(missing: {missing[:3]}, unknown: {extra[:3]})')
+        en, loc = strip_optional_maps(en), strip_optional_maps(loc)
         en_vals, loc_vals = values(en), values(loc)
         if len(en_vals) != len(loc_vals):
             problems += 1

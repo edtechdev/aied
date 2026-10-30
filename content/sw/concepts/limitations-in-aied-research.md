@@ -126,6 +126,7 @@ Kusudi la hifadhi hii ya maarifa ni kusaidia kufunga pengo hilo — kufanya iwe 
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — Ukuzi wa Nadharia katika AI katika Elimu
+
 ## Makala Zilizounganishwa
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Chatbot za AI katika elimu ya juu: kulinganisha matarajio na ushahidi (Thoeni & Fryer 2026)
 

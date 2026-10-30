@@ -104,6 +104,7 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 - [[cognitive-offloading]] — 延迟与不稳定作为额外负荷
 - [[edtech-platform]] — 同步、延迟与多地点的临场
 - [[arts-design-and-media-education]]
+
 ## 关联文章
 
 - [[genai-ar-physics-simulation-prompt-2026]] — 四要素提示生成手控 AR 物理模拟；29 名学生试点，仅感知证据

@@ -101,6 +101,7 @@ YZ kullanımı ve açıklama, [[academic-integrity]] (ana kaygısı), [[ethics]]
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — öğrenenlerin neden gizlemeyi seçtiği
+
 ## Bağlı makaleler
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Tespitin ötesinde: öğrenciler çevrimiçi değerlendirmelerde YZ’yi nasıl kullanır ve gizler
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Öğrenci YZ açıklaması, damgalanma ve öz düzenlemeli öğrenme

@@ -113,6 +113,7 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Bağlı makaleler
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Sinir-sembolik pedagojik hizalama (NSPA)

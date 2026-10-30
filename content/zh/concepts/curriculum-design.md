@@ -123,6 +123,7 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 - [[collaborative-learning]]
 - [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
 - [[recommender-systems-and-learning-paths]]
+
 ## 关联文章
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 面向认证的、经专家验证的加权技能映射
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 对"GenAI 用于建构式对齐"指引的批判话语分析（McInnes et al. 2026）

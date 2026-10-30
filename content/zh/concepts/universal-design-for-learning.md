@@ -51,6 +51,7 @@ UDL立足于一个洞见：学习者差异是常态而非例外。UDL不是设�
 一个工具可以服务全部三条 UDL 原则，却仍然收窄一位讲师所能决定的东西。[[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi（2026）]]正因此论证，把工具映射到一条 UDL 原则是必要的但不充分的，并提出在检查项中加入年度去专业化审计与供应商依赖登记。
 
 AI在这份文献中也作为UDL的障碍而非其工具出现。在[[faculty-accessible-course-design-ai-2026|Sidhu、Atif 与 Newland（2026）]]对一所安大略大学69名教授的混合方法研究中，四个关键主题之一是：[[generative-ai|生成式AI]]正在逆转可及性课程设计的进展；标题引语"AI正在减少我曾有的选项"出自他们的访谈，因为那些曾承担了包容工作、以课后提交与起草为基础的作业，正是AI现在能一鼓作气完成的那类。他们的教师层面发现解释了这次倒退为何落在一个本已单薄的基础上：90%的受访者相信自己创造了可及的学习环境，87%表示自己积极考虑可及性，但只有不到一半（46%）认为学校为此提供了足够资源，约五分之一人从未听说过OCR可读PDF或颜色独立链接这类最基础的技术。需求正在跑赢供给——安大略大学注册人数从2013到2022年增长17%，而向可及性服务处注册的人数上升126%——因此该研究的主张是：UDL支持必须获得资源投入，以补偿AI移走的评估选项。
+
 ### 关联
 
 UDL与[[inclusive-learning]]、[[equity-in-ai-education]]、[[special-education]]、[[learning-design]]及[[culturally-relevant-pedagogy]]相连。在评估上，它与[[authentic-assessment]]对表征[[bias-mitigation|公平]]的强调，以及与[[reducing-ai-misuse]]——作为对惩罚特定沟通风格的工具的防线——相交汇。由于UDL是高等教育残障情境中最常被援引的框架（在那里"special education"是一个[[k-12]]术语），它往往是高校与大学残障学习者研究应当链接的正确页面。

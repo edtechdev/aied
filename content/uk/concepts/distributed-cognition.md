@@ -74,6 +74,7 @@ Fowlin та співавт. (2026) операціоналізують цей р�
 - [[constructivist]]
 - [[collaborative-learning]]
 - [[ai-education]]
+
 ## Пов’язані статті
 
 - [[hao-human-ai-collaborative-problem-solving-cognition]] — Емпіричне дослідження колаборативного розв’язування проблем у парі «людина — ШІ» через оптику розподіленої когніції та співрегуляції

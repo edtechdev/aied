@@ -124,6 +124,7 @@ ai_assist:
 学习收益连接到[[assessment-validity]]——如果[[assessment|评估]]未能捕捉更深理解，学习收益测量就有误导性。它们还与[[cognitive-offloading|过度依赖]]和[[cognitive-offloading]]交叉，其中表面表现的改进可能掩盖学习损失，并与[[rct]]（随机试验作为检测因果学习收益的金标准设计）以及[[meta-analysis-systematic-review]]（跨研究合并效应量以建立该领域的效力证据）交叉。
 
 - **来自基于错误的 AI [[pedagogy]]的显著前后收益：**[[pedagogy-ai-mistakes|Hosseini（2026）]]的数据库设计课程（n=13）在相同的前后测题上显示大而显著的学习收益（均值 4.25→6.83/7，Cohen's *d*=1.49，*p*<.001），收益与先前的 AI 或数据库信心不相关——AI 整合的批评—精化设计使各类学生受益，不论其初始感知。
+
 ## 常见误解
 
 **"分数上升了，所以干预产生了学习。"** 这正是本页存在所要防止的定义性错误，而现场数据同时显示出两个方向：使用 AI 提高了在 AI 辅助作业上的分数，却*降低*了在监考、闭卷、无辅助测量上的分数（[[generative-ai-reduced-study-time-math]]；[[stromberg-generative-ai-learning-penalty-secondary-2026]]）。测量方式的选择决定了这种膨胀是否可见，因此在一个允许使用 AI 的任务上的增益，是关于任务表现的主张，而不是关于[[genai-performance-vs-learning|学习]]的主张。

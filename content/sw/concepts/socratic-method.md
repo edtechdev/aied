@@ -114,6 +114,7 @@ Mbinu ya Sokratiki imeunganishwa kwa karibu na [[scaffolding]] (kutoa msaada wa 
 3. Je, AI ya Sokratiki inaweza kuunganishwa na [[becerra-aicofe-feedback-2026|maoni ya marika]] kwa uenezi wa kijamii?
 
 - **Kuzuia majibu ili kuchochea hoja.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] wanabuni walimu wa LLM kufuata mbinu za [[productive-failure|kushindwa kwa tija]] kwa kuzuia suluhisho na kuchochea majaribio mengi — kukataa kwa mtindo wa Sokratiki kutoa msaada isipokuwa inapohitajika kabisa; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] wanapendekeza miundo ya AI ya Sokratiki na ya kupinga inayohifadhi msuguano wa kiakili wa kuunda.
+
 ## Dhana Zilizounganishwa
 
 - [[pedagogical-patterns]] — Mpangilio wa maswali na ushahidi wake wa kupinga wa jaribio
@@ -136,6 +137,7 @@ Mbinu ya Sokratiki imeunganishwa kwa karibu na [[scaffolding]] (kutoa msaada wa 
 - [[critical-thinking]]
 - [[pedagogy]] — Mwanya: mbinu za kufundisha na mikakati ya ualumu katika elimu ya AI
 - [[productive-failure]] — Kushindwa kwa Tija
+
 ## Makala Zilizounganishwa
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Mitindo ya maoni ya Sokratiki dhidi ya moja kwa moja katika somo la ubunifu la wanafunzi wa shaka ya juu ya 2 x 2
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training

@@ -93,6 +93,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - **"A better prompt produces better critical thinking."** **Structured dialogue control, not a better prompt**, separates a fallacy tutor from a debating chatbot: routing each turn through **Toulmin-based intent detection** did the work. The mechanism is the interaction structure rather than the wording.
 - **"GenAI use raises critical thinking directly."** GenAI use's link to **self-reported** critical thinking ran **almost entirely through GenAI [[feedback-literacy|feedback literacy]]** — in **421 Chinese undergraduates**, feedback literacy mediated **71%** of the association. The literacy is the pathway.
 - **"The meta-analytic effect is uniform."** Across **29 experiments**, GenAI raised higher-order thinking moderately (**g = 0.609**) with critical thinking at **ES = 0.691**. Moderate pooled effects over heterogeneous interventions support the category and not a specific design.
+
 ## Connected Concepts
 
 - [[metacognition]]

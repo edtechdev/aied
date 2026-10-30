@@ -140,6 +140,7 @@ El constructivismo también moldea cómo se enseña la propia alfabetización en
 - [[chemistry-education]] — Educación química e IA: laboratorios, evaluación formativa, límites de los LLM, filosofía de la experimentación
 - [[theory-development-aied]] — Desarrollo de teoría en la IA en la educación
 - [[productive-failure]]
+
 ## Artículos conectados
 - [[lee-learner-question-types-ai-education-2026]] — Preguntas de quien aprende clasificadas en tres roles constructivistas: transmisor, facilitador, coprendiz (Lee, Atif y Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Sitúa el construccionismo (Papert) frente a los tutores cognitivos en la historia de la AIED

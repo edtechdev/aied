@@ -82,6 +82,7 @@ Four cautions, each stated in the source pages:
 - **"Latent profile analysis discovers groups that exist."** LPA converts learner diversity from a rhetorical claim into a measurable finding, and the profiles are a **model of a continuum divided at chosen boundaries**, not natural kinds. The number of profiles is an analytic decision.
 - **"Any member of the latent-variable family is fine."** Which one you use **follows the indicators**: **LCA for categorical indicators**, LPA for continuous. Choosing the method first and the indicators second makes the result an artifact of the choice.
 - **"Profiles are comparable across studies."** Chen and colleagues profiled **128 Taiwanese pre-service teachers** on five [[technology-acceptance-model|TAM]]/UTAUT2 constructs, while Acquah and colleagues profiled **509 Ghanaian undergraduates**. Different indicators in different populations do not produce commensurable profile labels.
+
 ## Connected Concepts
 
 - [[quantitative-research]]

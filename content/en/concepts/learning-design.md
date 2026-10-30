@@ -101,6 +101,7 @@ Fowlin et al. (2026) add an operational move for deciding where AI enters: unbun
 - **"AI lesson planning returns time to teachers."** Planning time did fall, from 3.32 hours a week to 2.51 with the tool, but **the median teacher planned only 21% to 40% of lessons from scratch**. Time was saved and the planning did not become substantially more thorough — the saving accrued rather than being reinvested.
 - **"Co-design with AI is well evidenced."** A systematic review of [[wang-teacher-ai-co-design-review-2026|teacher-AI co-design of learning tasks]] **confirms the pattern at scale across 28 studies**, which describes a consistent practice rather than demonstrating superior outcomes.
 - **"The rubric is a fixed input."** The rubric functions as a **mediating interface between human pedagogical intent and machine inference**: treating assessment criteria as **revisable** is what lets the instrument carry the educator's intent. A fixed rubric transfers the machine's default framing into the assessment.
+
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]

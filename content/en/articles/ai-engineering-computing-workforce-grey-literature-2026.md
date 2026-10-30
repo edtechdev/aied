@@ -47,6 +47,7 @@ The review's central conclusion from these projections is that engineering and c
 - Scope is deliberately narrow: only U.S.-based sources published 2020–2025 that contained specific projections for engineering and computer science fields, so the authors caution that findings should be interpreted as representative of those two fields only.
 - The authors state that the recommendations and curricular interventions proposed for institutions have not yet been empirically tested and call for longitudinal work on their feasibility and effectiveness.
 - The analysis is bounded by the scope of the existing reports and their forecasts, which may not project the full extent of AI-driven change in engineering and computing roles.
+
 ## Connections to the knowledge base
 
 The paper extends the knowledge base's coverage of AI and work, complementing empirical frameworks like the [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce Readiness Level]] and connecting to [[professional-training]], [[ai-literacy]], and [[governance]] concepts. It frames [[curriculum-design]] for engineering and computing as a strategic response to labor-market transformation, and positions [[higher-ed]] institutions as key actors in workforce preparation.

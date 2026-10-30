@@ -90,6 +90,7 @@ Dijital uçurum, [[equity-in-ai-education]] araştırmalarının temel bir kayg�
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## Bağlı makaleler
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Nijerya yükseköğretiminde kurumsal yapılar, dijital eşitsizlik ve YZ bütünleştirmesi
 - [[ai-divide-ses-personality-primary-education-2026]] — İlkokul eğitiminde sosyoekonomik durum, kişilik ve YZ uçurumları (Wang ve ark. 2026)

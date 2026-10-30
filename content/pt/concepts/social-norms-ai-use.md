@@ -82,6 +82,7 @@ Dois estudos mais explicam por que a vigilância é uma ferramenta ruim para est
 O [[teichmann-detecting-undetectable-misconduct-2026|argumento de justiça processual]] tira a conclusão: como o uso de IA habilidoso ou levemente editado é indetectável no caso geral, um procedimento de má conduta construído sobre a detecção produz injustiça sem eficácia, e a resposta é melhor [[assessment|avaliação]], e não melhor vigilância.
 
 O custo dessa substituição aparece em onde docentes e estudantes de fato conversam. Ao longo de 253.222 registros relacionados à IA de 26 subreddits de educação, um terço de todas as threads corpo docente–estudante eram disputas de detecção ou aplicação, os estudantes abriram 68,4% delas, e a negatividade previu o engajamento (ρ = −0,72) — conflito adversarial, e não deliberação, é a forma de contato entre papéis de maior volume sobre [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
+
 ## O que isso significa para a prática
 
 - **Torne o uso visível, em vez de inferi-lo.** Os estudantes não conseguem julgar uns aos outros com acurácia, e a colaboração repetida não corrige isso. Registros compartilhados leves do trabalho apoiado por IA, anotações ou históricos de prompt dão ao grupo algo factual sobre o que raciocinar.

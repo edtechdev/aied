@@ -129,6 +129,7 @@ Benchmarks condicionados ao contexto são necessários: [[zhang-tutormoments-202
 - [[hallucination-risk]] — Risco de conteúdo fabricado nas saídas da IA
 - [[intelligent-tutoring]] — Avaliação de sistemas de tutoria com IA
 - [[agentic-ai]] — Avaliação do comportamento de agentes de IA autônomos
+
 ## Artigos conectados
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — O que os escores de plataforma deixam passar: avaliação multidimensional de agentes de ensino com IA
 - [[assessment-latent-structure-human-llm-2026]] — Os instrumentos de avaliação medem a mesma coisa para humanos e para LLMs? (Strugatski et al. 2026)

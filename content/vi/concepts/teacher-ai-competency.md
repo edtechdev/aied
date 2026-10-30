@@ -131,6 +131,7 @@ Khi AI đảm nhận các nhiệm vụ giảng dạy và đánh giá thường n
 - **Hỗ trợ tầng thể chế:** năng lực giáo viên bền vững đòi hỏi chính sách, quản trị và năng lực được căn chỉnh, chứ không phải đào tạo tách rời.
 
 - **Năng lực số của giáo viên cho [[curriculum-design|thiết kế chương trình]] GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] kiểm chứng một công cụ chẩn đoán dựa trên TAM với 434 giáo viên đang công tác; ý định hành vi là yếu tố dự báo chính của năng lực số để dùng GenAI trong lập kế hoạch chương trình, với tự hiệu quả là động lực gốc.
+
 ### Một công cụ trắc nghiệm tâm lý cho năng lực AI của giáo viên
 
 - Một nghiên cứu trắc nghiệm tâm lý đã phát triển Thang Năng lực AI của Giáo viên (TAILS) để đo năng lực AI riêng trong [[teacher-education|đào tạo giáo viên ngôn ngữ]], cụ thể hóa sáu chiều kích của khung ED-AI. Việc phát triển công cụ này lấp một khoảng trống trong các đánh giá nhắm tới sinh viên hoặc người dùng phổ thông, hỗ trợ việc đo lường năng lực AI của giáo viên.
@@ -142,6 +143,7 @@ Bản thân bối cảnh công cụ đo từ đó đã được tổng quan. [[a
 - **"Đào tạo viết prompt làm tài liệu của giáo viên tốt hơn."** **Đào tạo viết prompt mua thời gian, không mua tài liệu tốt hơn**: trong một **thử nghiệm đối chứng ngẫu nhiên đăng ký trước với 204 giáo viên**, Appel, Fervers và Piepenburg (2026) phát hiện ChatGPT cải thiện **thời gian dành ra** trong khi chất lượng tài liệu không đi theo. Mức tăng hiệu quả là thật và nó không phải là mức tăng chất lượng.
 - **"Khi giáo viên cấu hình một chatbot, thất bại là lỗi sự kiện."** **Khi giáo viên cấu hình một chatbot bằng ngôn ngữ tự nhiên, thất bại chi phối là mất ý định chứ không phải sai sự kiện** - các bot **bỏ qua** bước mà giáo viên muốn. Việc tuân thủ chỉ dẫn thất bại về mặt cấu trúc chứ không phải về mặt sự kiện.
 - **"Kỹ năng kỹ thuật là tầng quyết định."** **Tri thức sư phạm là tầng quyết định**: một nghiên cứu xuyên cấp độ về [[ai-education|giáo dục AI]] ở trung học [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen và cộng sự, 2026]]. Năng lực quyết định kết quả là năng lực mà các chương trình đào tạo đầu tư ít nhất.
+
 ## Khái niệm liên quan
 
 - [[ai-literacy]]

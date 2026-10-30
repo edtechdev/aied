@@ -109,6 +109,7 @@ La brecha digital es una preocupación central de la investigación sobre [[equi
 - No dé por hecho que distribuir dispositivos cierra la brecha. Las brechas medibles están en la habilidad de formular, en la lengua de la interfaz y en la conectividad, y ninguna de ellas se arregla con hardware.
 - Publique la infraestructura que presupone una herramienta. Un requisito enunciado con claridad permite que un entorno con pocos recursos juzgue si le encaja antes de invertir.
 - Calcule el despliegue completo, no la licencia del software. La evidencia sobre gemelos digitales muestra que la factura de hardware puede sobrevivir a la virtualización.
+
 ## Conceptos conectados
 
 - [[differential-effects-across-learner-groups]]
@@ -121,6 +122,7 @@ La brecha digital es una preocupación central de la investigación sobre [[equi
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## Artículos conectados
 - [[watanabe-genai-education-gap-europe-2026]] — ¿Es la brecha educativa en el uso de IA generativa menor que la que tuvo internet? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estructuras institucionales, desigualdad digital e integración de la IA en la educación superior nigeriana

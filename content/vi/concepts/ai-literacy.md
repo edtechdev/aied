@@ -245,6 +245,7 @@ Riêng với năng lực AI phản biện, [[solyst-youth-systematic-evaluation-
 - [[higher-ed]] — năng lực cấp đại học
 - [[career-development-and-readiness]] — phần đền đáp khả năng có việc làm mà năng lực AI được lập luận là xây dựng
 - [[ai-education]] — lĩnh vực rộng lớn hơn
+
 ## Bài viết liên quan
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Định hình tuổi thơ trong kỷ nguyên AI: năng lực, phương pháp sư phạm và hỗ trợ sinh thái (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Năng lực Bảo mật AI: khuôn khổ năng lực dựa trên hệ sinh thái và nền tảng học tập K-12

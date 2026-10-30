@@ -114,6 +114,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[speech-and-voice-technologies]]
+
 ## Connected Articles
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[adhd-video-segmentation-computing-education]]

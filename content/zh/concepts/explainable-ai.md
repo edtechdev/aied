@@ -119,6 +119,7 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## 关联文章
 - [[lund-socially-accountable-data-science-xai-2026]] — 把 XAI 作为问责实践来教的四支柱框架（可回答性、责任性、执行性、自反性）（Lund 等人 2026）
 - [[ko-hughes-vsd-student-centered-its-2026]] — 以学生为中心的 ITS 的价值敏感设计（协作式 vs. 原始解释）

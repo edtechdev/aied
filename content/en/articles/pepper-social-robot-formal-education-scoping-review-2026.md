@@ -14,6 +14,7 @@ confidence: high
 page_kind: [synthesis]
 ---
 > **Synthesis:** Martinez-Roig, Aragonés-González, and Cazorla (2026) present a [[meta-analysis-systematic-review|scoping review]] of the use of the Pepper social robot in formal educational contexts, mapping documented forms of implementation, methodological designs, and reported findings. Following PRISMA-ScR guidelines and searching Scopus, Web of Science, ERIC-Proquest, and Dialnet (2014–2026), they selected 13 empirical studies. The review finds a concentration of research in primary education, a predominance of [[qualitative-research|qualitative]] approaches with small samples, and Pepper used mainly for tutoring, [[collaborative-learning]], and mediation in inclusive settings — with benefits in motivation, [[student-engagement|engagement]], and social skills, but also technical constraints, insufficient curricular integration, and a lack of longitudinal research. The evidence indicates effects depend largely on [[learning-design|instructional design]] and teacher mediation.
+
 ## Key Findings
 - **13 empirical studies** were included (published 2018–2026; search covered 2014–2026), following PRISMA-ScR guidelines across Scopus, Web of Science, ERIC-Proquest, and Dialnet.
 - **Concentration in primary education** (38.5%), with 30.8% in higher education, 15.4% in early-years, and 7.7% each in secondary and mixed primary/secondary; 69.2% of studies were European (Italy, Germany, Netherlands, Sweden), 30.8% US.
@@ -22,8 +23,10 @@ page_kind: [synthesis]
 - **Reported benefits:** increased motivation, participation, engagement, and development of social skills, with some studies reporting improvements in [[learning-gains|learning outcomes]] or attitudes.
 - **Main limitations:** technical constraints (voice recognition, software glitches), insufficient curricular integration, cost, reliance on technical support, privacy, and lack of longitudinal research.
 - **The [[pedagogy|pedagogical]] dimension is a determining factor** — Pepper's contribution depends on instructional design, activity purpose, student profile, technical stability, and teacher mediation, not the technology alone.
+
 ## Study Design & Method
 This is a **scoping review** following the **PRISMA-ScR** guidelines. The authors searched Scopus, Web of Science, ERIC-Proquest, and Dialnet for peer-reviewed publications on the Pepper robot in formal education between 2014 and 1 March 2026. After duplicate removal and screening (1,448 references identified, 1,100 after deduplication, 345 full-text assessed), 13 studies met the [[inclusive-learning|inclusion]] criteria. Data extraction used a structured tool (piloted on three articles) covering authorship, country, objective, methodology, robot characteristics, [[curriculum-design|curriculum]] area, student profile, teacher role, implementation issues, and reported benefits. Analysis combined descriptive analysis (frequencies/trends) and thematic categorical analysis (deductive, following Braun & Clarke), organized around themes of robot role, curricular areas, student profile, teacher role, challenges, and benefits.
+
 ## What this means for practice
 
 - **Instructors.** Treat Pepper as a supervised teaching resource, not an autonomous tutor: across the 13 included studies it required planning, supervision, and in-the-moment repair, with constant teacher mediation.
@@ -34,5 +37,6 @@ This is a **scoping review** following the **PRISMA-ScR** guidelines. The author
 
 ## Limitations
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
+
 ## Citation
 Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). [*Exploring the implementation of the Pepper social robot in formal education: A scoping review*](https://doi.org/10.1007/s44322-026-00072-1). *Journal of New Approaches in Educational Research*, 15, 22.

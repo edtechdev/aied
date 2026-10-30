@@ -90,6 +90,7 @@ ai_assist:
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — الصفحة الجامعة للقواعد المفرطة الاتساع والأدلّة المعيوبة والتسهيل المعقول
 - [[arts-design-and-media-education]]
+
 ## المقالات المتصلة
 
 - [[shin-ai-policies-sld-2026]] — سياسات الذكاء الاصطناعي والتسهيلات للطلاب ذوي صعوبات التعلّم المحدَّدة

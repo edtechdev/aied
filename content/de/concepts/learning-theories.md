@@ -80,6 +80,7 @@ Statt Lerntheorien als abstrakte Philosophie zu behandeln, gründet die Wissensb
 Lerntheorien erscheinen auch als Inhalt in Curricula zur [[ai-literacy|KI-Kompetenz]]: Lernende studieren Behaviorismus, Kognitivismus, Konstruktivismus und Konnektivismus, um die [[pedagogy|pädagogischen]] Annahmen hinter den Werkzeugen zu verstehen, die sie nutzen.([[generativism-learning-theory]]) Diesen Strang zu lehren gibt Studierenden (und Lehrenden) das Vokabular, um zu kritisieren, warum ein KI-Produkt so gebaut ist, wie es gebaut ist — und ob seine Mechanik dem Lernziel vor Ort dient.
 
 - **Der vermittelnde Agent.** Warschauer, Tate und Ritchie (2026) argumentieren, generative KI breche die soziokulturelle Unterscheidung zwischen vermittelnden Mitteln und sozialer Interaktion, und schlagen den *vermittelnden Agenten* vor — ein System, das Handlung sowohl vermittelt als auch kontingente, nicht verantwortbare Beiträge erzeugt und einen hybriden Raum zwischen einem Werkzeug und einem sozialen Partner besetzt. Das ergibt fünf menschenzuerst-Habits der Teilhabe (Primat menschlicher Kognition, zweckbestimmtes [[student-engagement|Engagement]], aufsichtsführende Handlungsfähigkeit, erkenntnistheoretische Wachsamkeit, reflexive Selbstregulation).([[generative-ai-mediational-agent-sociocultural-2026]])
+
 ### Theorien, die für das KI-Zeitalter vorgeschlagen wurden
 
 Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigens für das Lernen mit KI-Systemen geschrieben wurden, und diese tragen die Designimplikationen, die die älteren Theorien offen lassen. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan und Gašević 2026)]] ist ein Beispiel mittlerer Reichweite: es definiert Lernen als dauerhaftes Wachstum menschlicher Fähigkeit statt als erfolgreichen Aufgabenabschluss, benennt vier Mechanismen (delegierte Handlungsfähigkeit, erkenntnistheoretische Überwachung und Verifikation, rekonstruktive Internalisierung, und Transfer unter reduzierter Unterstützung), und stellt sechs prüfbare Propositionen auf, darunter dass KI-Unterstützung, die die Verantwortung der Lernenden für Problemrahmung, Kriteriensetzung und Rechtfertigung bewahrt, stärkeres Lernen erzeugt als Unterstützung, die Antworten liefert.
@@ -112,6 +113,7 @@ Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigen
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — Dachbegriff: Pädagogien und Lehrstrategien in der KI-Bildung
+
 ## Verbundene Artikel
 - [[yan-agentivism-learning-theory-ai-2026]] — Eine Lerntheorie mittlerer Reichweite für die Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan and Gašević 2026)
 

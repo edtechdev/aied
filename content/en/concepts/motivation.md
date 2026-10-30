@@ -75,6 +75,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - **"GenAI's motivation effect is a clean, large gain."** A 42-study meta-analysis (56 effect sizes, 6,059 students) found a motivation effect of g = 0.764 (95% CI [0.566, 0.962]) **but with I² = 93.7%**. Heterogeneity that high means the pooled figure describes a set of studies that disagree with each other, so it is an average over inconsistent treatments rather than a reproducible effect.
 - **"Reducing frustration is the same as sustaining motivation."** A three-arm [[rct|RCT]] found a scaffolded tutor and unrestricted ChatGPT **cut frustration equally** (3.21 and 3.13). Two very different designs produced the same affective result, so frustration data cannot distinguish between them.
 - **"A motivating design is a good design."** In **222 first-year high-school students**, a teacher-to-teacher dialogue format **raised ARCS motivation more** than the alternative while **not improving overall evaluation**. Motivation moved and judged quality did not.
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
@@ -90,6 +91,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Social-Emotional Learning
+
 ## Connected Articles
 
 - [[high-school-genai-acceptance-tam-physics-2026]] — Expectancy-value beliefs as antecedents of GenAI acceptance

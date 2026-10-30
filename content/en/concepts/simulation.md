@@ -64,6 +64,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - **"Simulation is cheaper and therefore second-best."** Autonomous [[llm|LLM]] sim-pilots **replace the specialist human role-players who staff air-traffic-control simulations, removing a training-capacity bottleneck** — the constraint was staffing, not fidelity. Where human role-players are scarce, the LLM simulation is not a substitute but the only available option.
 - **"Simulators should behave like average cases."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] pairs a policy agent with **LLM patient simulators built to behave adversarially**. A simulator designed to be cooperative makes the learner's practice easier than the clinic, which is the opposite of what training needs.
 - **"Scripted scenarios teach decision-making under uncertainty."** SupplyNet's contextual multi-agent agents generate **dynamics emergent from learner decisions rather than scripted** sequences. Scripted scenarios rehearse a known path; the emergent ones rehearse the decision.
+
 ## Connected Concepts
 - [[active-learning]]
 - [[adaptive-learning]]

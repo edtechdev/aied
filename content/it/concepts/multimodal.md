@@ -116,6 +116,7 @@ I sistemi multimodali ampliano anche l'accesso e la [[personalized-learning|pers
 - [[virtual-and-augmented-reality]] — gesto, voce e input spaziale come canali di apprendimento
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Articoli collegati
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

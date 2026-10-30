@@ -84,6 +84,7 @@ ai_assist:
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## المقالات المرتبطة
 - [[reflection-level-classification-hungarian-essays-2026]] — تصنيف مستوى التأمل الآلي في مقالات الطلاب الهنغاريين
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: نظام تقييم كتابة آلي معياري للمقالات الحجاجية

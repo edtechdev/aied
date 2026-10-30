@@ -131,6 +131,7 @@ I takt med at AI overtager rutinemæssige undervisnings- og evalueringsopgaver, 
 - **Understøt det institutionelle lag:** holdbar lærerkompetence kræver sammenhængende politik, styring og kapacitet, ikke isoleret træning.
 
 - **Læreres digitale kompetence til GenAI-[[curriculum-design|læseplansdesign]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validerer et TAM-baseret diagnostisk instrument med 434 lærere i tjeneste; adfærdsmæssig intention var den vigtigste prædiktor for digital kompetence til at bruge GenAI i læseplansplanlægning, med self-efficacy som rodårsag.
+
 ### Et psykometrisk instrument til læreres AI-kompetence
 
 - Et psykometrisk studie udviklede Teachers' AI Literacy Scale (TAILS) til at måle AI-kompetence specifikt inden for [[teacher-education|sproglæreruddannelse]] og operationaliserede ED-AI-rammens seks dimensioner. Instrumentets udvikling udfylder et hul i vurderinger, der retter sig mod studerende eller generelle brugere, og understøtter målingen af læreres AI-kompetence.

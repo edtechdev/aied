@@ -65,6 +65,7 @@ Uma revisão de escopo de 2026 das tecnologias assistivas digitais [[ai-technolo
 - [[neurodiversity]]
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
+
 ## Artigos conectados
 
 - [[shin-ai-policies-sld-2026]] — Políticas de IA e acomodações para estudantes com dificuldades específicas de aprendizagem

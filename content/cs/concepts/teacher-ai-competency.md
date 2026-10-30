@@ -83,6 +83,7 @@ Mezera je viditelná v artefaktu stejně jako v sebevýpovědi. [[ai-integration
 
 - **Sedm shluků kompetencí, s etikou jako nejslabším článkem.** Tematická syntéza 78 studií vytváří shluky pro prompt engineering, kritické vyhodnocování výstupů AI, etické povědomí a detekci zaujatosti, sladění s pedagogickým obsahem, konceptuální gramotnost v oblasti AI, lidský dohled a reflexi. Prompt engineering byl nejkonzistentněji dokumentovaný a chová se jako **vývojové spektrum**, nikoli jediná dovednost, což recenzenty vedlo k argumentu, že je nejlépe chápat jako pedagogické uvažování vedené novým médiem: prompt jako externalizované rozhodnutí o návrhu. Etické povědomí bylo **nejslaběji dokumentovanou kompetencí** v prezenčních studiích ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou a Kameas, 2026]]).
 - **Učitelé přeceňují svou vlastní dovednost vyhodnocování.** Vedle zjištění, že pouze **38,3 % cílů učení generovaných AI splnilo všechna kritéria kvality bez revize**, budoucí učitelé **systematicky přeceňují svou schopnost vyhodnocovat výstup chatbota**, což recenzenti čtou jako možný percepční, nikoli deklarativní deficit. Proto argumentují, že kompetence má být hodnocena prostřednictvím výkonových artefaktů (plánů výuky, záznamů rozhodnutí, mikrovýuky), nikoli sebevýpovědi: nespolehlivost sebehodnocení je prokázána právě v literatuře, kterou má školení řešit.
+
 ## Profesní rozvoj, který funguje
 
 Literatura o profesním rozvoji v znalostní bázi identifikuje účinné přístupy:
@@ -113,6 +114,7 @@ Designový protipříklad pojímá kompetenci jako situační, nikoli jako pří
 - **Hodnoty zaostávají za dovednostmi i v programu specifickém pro doménu.** V ročním hongkongském programu s 30 učiteli angličtiny vzrostly znalosti strategií [[multimodal|multimodálního]] hodnocení z 3,13 na 4,15 z 5 (parciální η² = 0,571) a kompetence v podpoře studentů z 3,05 na 3,98 (0,482), obojí významně, zatímco každá subdoména hodnot zůstala statisticky plochá při alfa korigované Bonferronim na 0,006. Učitelé přičítali přírůstky společnému plánování ve škole a meziškolním setkáním klastrů, nikoli samotným dílnám ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
 - **Mikroučení může rozvíjet kompetenci vysokoškolských učitelů v oblasti AI.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] zpřesnil dva moduly [[vocational-education|odborného vzdělávání]] ve dvou online skupinových diskusích do pěti návrhových principů (jasná struktura a orientace, vedení a navigační podpora, segmentace a modularizace, multimodální prezentace a aktivizace studujících) a zjistil, že hlavními praktickými překážkami byly navigace v platformě a hledání modulů.
+
 ## Kompetence pedagogů v oblasti AI a proměňující se role učitele
 
 Jak AI přebírá rutinní výukové a hodnoticí úkoly, osobitý přínos učitele se přesouvá k orchestraci, úsudku a vztahu: rozhodovat, kdy a jak se AI používá, poskytovat scaffolding [[agency|agenturnosti studentů]] a kritickému používání, zajišťovat rovnost a poskytovat sociální a emocionální podporu, kterou AI nedokáže. To přerámovává kompetenci učitele kolem [[human-in-the-loop-ai|dohledu s člověkem v kruhu]], [[ethics|etického úsudku]] a [[self-regulated-learning|podpory seberegulovaného učení]] a souvisí s [[teacher-role|rolí učitele]] a s [[cognitive-offloading|ochranou před nadměrným spoléháním]].
@@ -125,6 +127,7 @@ Jak AI přebírá rutinní výukové a hodnoticí úkoly, osobitý přínos uči
 - **Podporujte institucionální vrstvu:** udržitelná kompetence učitelů vyžaduje sladěnou politiku, řízení a kapacitu, nikoli izolované školení.
 
 - **Digitální kompetence učitelů pro [[curriculum-design|návrh kurikula]] s GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validují diagnostický nástroj založený na TAM se 434 učiteli v praxi; behaviorální záměr byl hlavním prediktorem digitální kompetence pro používání GenAI při plánování kurikula, se sebeúčinností jako kořenovým hybatelem.
+
 ### Psychometrický nástroj pro kompetenci pedagogů v oblasti AI
 
 - Psychometrická studie vyvinula škálu gramotnosti učitelů v oblasti AI (TAILS) k měření gramotnosti v oblasti AI specificky v [[teacher-education|vzdělávání učitelů jazyků]] a operacionalizovala šest dimenzí rámce ED-AI. Vývoj nástroje zaplňuje mezeru v hodnoceních zaměřených na studenty nebo běžné uživatele a podporuje měření kompetence pedagogů v oblasti AI.
@@ -136,6 +139,7 @@ Krajina nástrojů byla od té doby přezkoumána. [[assessing-teachers-ai-liter
 - **„Školení v promptování zlepšuje materiály učitelů."** **Školení v promptování kupuje čas, nikoli lepší materiály**: v **předregistrované RCT se 204 učiteli** zjistili Appel, Fervers a Piepenburg (2026), že ChatGPT zlepšil **strávený čas**, zatímco kvalita materiálů tomu nenásledovala. Zisk v efektivitě je skutečný a není to zisk v kvalitě.
 - **„Když učitelé konfigurují chatbota, selháním je faktická chyba."** **Když učitelé konfigurují chatbota v přirozeném jazyce, dominantním selháním je ztracený záměr, nikoli nesprávná fakta**: boti **přeskakují** krok, který učitel zamýšlel. Dodržování instrukcí selhává strukturálně, nikoli fakticky.
 - **„Technická dovednost je rozhodující vrstvou."** **Rozhodující vrstvou jsou pedagogické znalosti**: studie [[ai-education|AI ve vzdělávání]] na středních školách napříč úrovněmi [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Kompetence, která určuje výsledek, je ta, do níž většina školicích programů investuje nejméně.
+
 ## Související koncepty
 
 - [[ai-literacy]]

@@ -69,6 +69,7 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|Technologies de l
 - [[neurodiversity]]
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
+
 ## Articles liés
 
 - [[shin-ai-policies-sld-2026]] — Politiques d'IA et aménagements pour les élèves présentant des troubles spécifiques de l'apprentissage

@@ -51,6 +51,7 @@ ai_assist:
 在一项为期两年的学区 RCT 中，约束性的瓶颈是采用率而非适应机制：把报名压缩为一步，仅凭设计变更就把首次会话的采用率从约 45% 提到 83%，而意向处理增益随采用率上升而增长（[[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos 等（2026）]]）。
 
 一项遵循 PRISMA 的、覆盖 44 项研究的综述发现，参与度文献偏向行为参与、在智能体参与上最薄，并报告了一种新奇效应——在关于 ALEKS 与 W-Pal 的纵向研究中，一旦工具的新鲜感消退，参与度随时间下降（[[simon-student-engagement-adaptive-learning-2026|Simon、Zeng 与 Fryer（2026）]]）。
+
 ### 人工智能时代：基于 LLM 的适应及其风险
 
 [[generative-ai|生成式人工智能]]扩展了自适应系统能做的事——对话式[[agentic-ai|智能体式]]导学系统、基于[[rag]]锚定的内容，以及由[[llm]]驱动的[[intelligent-tutoring|导学]]——它们适应的不只是题目难度，还有语言与解释风格（如[[learnmate2-llm-adaptive-learning|LearnMate-2]]、[[deeptutor|DeepTutor]]、[[chudziak-ai-math-tutoring-platform|多智能体自适应导学]]）。然而，基于 LLM 的适应引入新的风险：没有可靠的[[student-modeling|学生模型]]，适应可能建立在浅层信号上；过度适应可能减少学生所需的生产性挣扎（见[[desirable-difficulties|合意困难]]、[[cognitive-offloading|认知卸载]]）；而个性化与保全学习者[[agency|能动性]]之间的平衡是一个开放的设计问题（见[[agentic-ai|智能体式人工智能]]）。有一种由学习者请求的适应变体完全不需要任何[[student-modeling|学生模型]]：在 Sidorkin（2026）的研究生课程中，阅读材料只在学生提出追问、要求重构、深化、简化或本地化时才调整，而面向理解的请求可靠地产出更密集的脚手架（比基线文本多 3.4 到 8.7 倍的定义性标记），这就是为什么要求每个阅读至少三个追问，把材料变成了交互。它也把适应的负担移回学习者身上：这里的适应只在学生知道自己该要求什么时才发生。
@@ -127,6 +128,7 @@ ai_assist:
 - [[behaviorism|行为主义]]
 - [[ai-technologies]] — 总括：人工智能技术与方法（模型、LLM 训练、机器人、RAG、智能体）
 - [[recommender-systems-and-learning-paths|推荐系统与学习路径]]
+
 ## 关联文章
 
 - [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS：面向个性化评估的动量感知自适应评分系统

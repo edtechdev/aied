@@ -116,6 +116,7 @@ AI 为技术的公平意涵增添了新的层面。算法偏见可能对来自�
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## 关联文章
 - [[watanabe-genai-education-gap-europe-2026]] — 生成式 AI 使用中的教育差距比互联网当年的更小吗？（Watanabe 2026）
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — 尼日利亚高等教育中的制度结构、数字不平等与 AI 整合

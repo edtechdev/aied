@@ -88,11 +88,13 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - **Design for the viewing/attention that precedes contribution.** Collaborative learning in [[online-teaching-and-learning|online discussion]] forums depends not only on posting but on the reading that precedes it. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] show LLM-generated discussion summaries and example posts can act as navigational [[scaffolding|scaffolds]] that broaden students' exposure to peers' contributions and the network conditions for bridging (weak-tie) social capital — support that should complement, not replace, socio-pedagogical strategies for sustaining engagement under academic workload.
 
 - **The social side shows disruption without a countervailing gain.** Across five collaboration processes a 30-expert consensus reached vulnerability only, with enhancement ratings below threshold: Social Connection (3.80 against enhancement 1.90), Socio-Emotional Development (3.60 against 2.00), Social Learning, Collaborative Learning and Sense of Belonging (all 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). The report treats the asymmetry as a design target, since collaborative problem solving is anchored to a shared product while collaborative learning has no visible referent and can erode undetected.
+
 ## Common Misconceptions
 
 - **"Giving groups AI means more collaboration."** A scoping review of **18 studies** maps a trade-off across group work: GenAI supported **knowledge development, idea generation and communication efficiency** while also carrying a relational cost in the same interventions. The efficiency gain and the relational cost arrive together.
 - **"AI-supported collaborative learning has meta-analytic backing."** The **one** meta-analytic contrast available for AI-supported collaborative work sits **inside** GenAI-supported PBL/PjBL interventions rather than being estimated directly, so it is a component of a broader effect rather than a measurement of collaboration.
 - **"An LLM partner preserves the group's own reasoning."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] tested it at classroom scale with introductory social-science students, precisely because preservation is an open question and not an assumption.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — Scripted shared-AI collaboration and its tested role designs
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

@@ -117,6 +117,7 @@ ai_assist:
 - [[feedback]]
 - [[summative-assessment]] — التقويم الختامي: صيغ مقاومة للذكاء الاصطناعي (شفوية، ومراقَبة، وامتحانات كتب مغلقة)
 - [[arts-design-and-media-education]]
+
 ## مقالات مترابطة
 - [[thapa-lewis-process-oriented-assessment-2026]] — التقويم الموجّه للعملية والأصالة المعرفية كما يجب أن تُوثّقه المهمة
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)

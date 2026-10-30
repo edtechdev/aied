@@ -84,6 +84,7 @@ Le sentiment d'efficacité personnelle se rattache à la [[motivation|motivation
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — L'apprentissage socioémotionnel
+
 ## Articles liés
 - [[ai-proof-learning-cognitive-offloading-2026]] — Soutenir ou remplacer le raisonnement des étudiants ? Le délestage cognitif dans l'apprentissage des démonstrations assisté par l'IA (Chen et coll. 2026)
 - [[confident-but-absent-ai-use-absenteeism-2026]] — L'usage général de l'IA allait de pair avec un sentiment d'efficacité personnelle et un absentéisme plus élevés, pourtant le sentiment d'efficacité personnelle ne prédisait pas l'assiduité (Franco et coll. 2026)

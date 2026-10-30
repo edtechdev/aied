@@ -97,6 +97,7 @@ ai_assist:
 - [[discipline-specific-aied]]
 - [[english-education]]
 - [[speech-and-voice-technologies]]
+
 ## المقالات المتصلة
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning

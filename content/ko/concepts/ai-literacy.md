@@ -248,6 +248,7 @@ AI 리터러시는 과잉 의존에 대해 **양날의 칼**입니다. [[student
 - [[higher-ed]] — 대학 단계의 리터러시
 - [[career-development-and-readiness]] — AI 리터러시가 구축한다고 논의되는 취업 가능성의 결실
 - [[ai-education]] — 더 넓은 분야
+
 ## 연결된 문서
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI 시대의 유아기 형성: 역량, 교수법, 생태학적 지원 (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI 보안 리터러시: 생태계 기반 역량 프레임워크와 K-12 학습 플랫폼

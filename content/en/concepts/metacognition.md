@@ -145,6 +145,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - **"AI assistance leaves the underlying ability intact."** Students who used AI essay assistance were **83% unable to recall quotes from their own essays, against 11% for non-AI users**, indicating **they did not engage with the content during production**. The production process is where the engagement happens, and bypassing it shows up later.
 - **"Offloading degrades everything."** The cost appears **bounded rather than global**: offloading degrades **the specific skill practiced, not the underlying domain-general abilities**, and surfaces on **with**-something transfer tests. The localisation matters, because it says what to protect rather than warning about general decline.
 - **"Ability to produce implies ability to retain."** The 83% versus 11% recall gap is the direct counterexample: output was produced in both conditions and the memory trace differed enormously.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The reflection steps these sequences build in

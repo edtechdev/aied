@@ -95,6 +95,7 @@ Dieselbe Logik erklärt, warum Präsenz nicht automatisch gut ist. Bewegungskran
 - [[cognitive-offloading]] — Latenz und Instabilität als fremde Last
 - [[edtech-platform]] — Synchronisation, Latenz und Präsenz an mehreren Standorten
 - [[arts-design-and-media-education]]
+
 ## Verbundene Artikel
 
 - [[genai-ar-physics-simulation-prompt-2026]] — Vierelement-Prompt zur Erzeugung handgesteuerter AR-Physiksimulationen; 29-Studierenden-Pilot, Evidenz nur aus Wahrnehmung

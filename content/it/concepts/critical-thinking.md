@@ -93,6 +93,7 @@ Il pensiero critico si interseca con [[scaffolding|lo scaffolding]] (progettare 
 - **La verifica come attività di apprendimento, non solo come salvaguardia.** [[pearls-epistemic-verification-2026|Wang (2026)]] organizza la valutazione degli artefatti dell'IA attorno a sei dimensioni interdipendenti — Processo, Evidenza, Accesso, Riproducibilità, Legittimità e Fonte — e tratta l'assemblaggio di quella giustificazione, anziché la scioltezza dell'output, come ciò che costruisce l'expertise disciplinare.
 
 **La vulnerabilità più alta valutata dagli esperti nella knowledge base è il pensiero critico.** Tra 65 processi di apprendimento valutati da 30 esperti, il Pensiero Critico e il Pensiero Critico-Analitico hanno ricevuto il punteggio di perturbazione più alto del report (media 4,00 su 5; il 96% dei valutatori a 3 o sopra) con il potenziamento sotto soglia (2,40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Dieci dei diciotto processi di ordine superiore hanno raggiunto consenso solo sulla vulnerabilità, cosa che il report legge come rischio unilaterale anziché come compromesso.
+
 ## Concetti collegati
 
 - [[metacognition]]

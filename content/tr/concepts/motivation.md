@@ -89,6 +89,7 @@ Motivasyon, [[self-determination-theory]]nin ana yapısıdır; bu teori, içsel 
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Sosyal-Duygusal Öğrenme
+
 ## Bağlı makaleler
 - [[liu-ai-assistance-reduces-persistence-2026]] — Kısa YZ kullanımı, sonraki yardımsız problemlerde azmi azalttı (Liu ve ark. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Savunmacı yazma üzerinde otomatik geri bildirim: ortaöğretim öğrencilerinin geri bildirim alıcılığının ve geri bildirim algısının rolü

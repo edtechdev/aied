@@ -120,6 +120,7 @@ ai_assist:
 - [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
 - [[agentic-ai]]
 - [[productive-failure]] — 생산적 실패
+
 ## 연결된 문서
 - [[kumar-genai-computing-education-systematic-review-2026]] — 검증을 집행하는 메커니즘으로서의 비계 철회(VIE 프레임워크)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 임상 면담 훈련을 위한 스캐폴딩 지향 다중 에이전트 대규모 언어 모델 시스템 평가

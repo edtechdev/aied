@@ -99,6 +99,7 @@ Los sistemas abiertos también forman parte de este panorama: AiAWE puntúa ensa
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## Artículos conectados
 - [[reflection-level-classification-hungarian-essays-2026]] — Clasificación automática del nivel de reflexión en ensayos de estudiantes húngaros
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: un sistema modularizado de evaluación automatizada de la escritura para ensayos argumentativos

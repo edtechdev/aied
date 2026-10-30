@@ -39,6 +39,7 @@ L'apprendimento esperienziale è strettamente connesso all'[[active-learning|app
 - **Simulazione e apprendimento incarnato:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] permette ai principianti di sperimentare con robot simulati, e l'interazione [[embodied-learning|incarnata]] con i robot radica l'apprendimento nell'esperienza diretta.
 
 - **L'IA come infrastruttura per l'incertezza, non per l'efficienza.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] affidano a un ruolo di IA generativa il compito di generare eventi dirompenti e conseguenze a cascata in una simulazione aziendale, così che i team rivedano i piani sotto informazione incompleta, e avvertono che le simulazioni protette possono lasciare abitudini decisionali che diventano un passivo fuori dalla classe.
+
 ### Due forme di apprendimento pratico in un curriculum supportato dall'IA
 
 Una revisione tematica di 32 studi peer-reviewed sull'apprendimento pratico nell'educazione progettuale supportata dall'IA

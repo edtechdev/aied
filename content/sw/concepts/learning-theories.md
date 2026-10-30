@@ -111,6 +111,7 @@ Pamoja na familia za kiklasiki, hifadhi ya maarifa inarekodi nadharia zilizoandi
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — Jiji: mbinu za kufundisha na mikakati ya kufundisha katika elimu ya AI
+
 ## Makala Zilizounganishwa
 
 - [[yan-agentivism-learning-theory-ai-2026]] — Nadharia ya kiwango cha kati kwa mwingiliano wa binadamu-AI, na mienendo manne na mausia sita yanayoweza kupimwa (Yan na Gašević 2026)

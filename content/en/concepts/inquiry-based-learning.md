@@ -79,6 +79,7 @@ In outdoor field settings the same imperative becomes spatial: GenAI can pre-str
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — Productive Failure
+
 ## Connected Articles
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)

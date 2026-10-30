@@ -111,6 +111,7 @@ A distinção entre guiado por regras e ad-hoc alcança além do tutor e chega �
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação em IA
 - [[agentic-ai]]
 - [[productive-failure]] — Falência produtiva
+
 ## Artigos conectados
 - [[kumar-genai-computing-education-systematic-review-2026]] — A retirada do scaffold como mecanismo que aplica a verificação (framework VIE)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Avaliando um sistema multiagente de LLM orientado ao scaffolding para treinamento de entrevista clínica

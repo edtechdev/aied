@@ -173,6 +173,7 @@ Den første Theory of Planned Behavior-studien av intensjon om GAIT-basert urede
 - **«Deteksjonsverktøy identifiserer AI-skriving.»** AI-generert tekst har **passert som menneskeskrevet i opptil 80% av tilfellene**, mens evidensen for deteksjon plasserer **maskinell deteksjon på rundt 80% mot 78,4% for menneskelige vurderere**. Menneskelig og maskinell dømmekraft er nesten like (u)pålitelige, så en deteksjonsdom er ikke bevis på forfatterskap.
 - **«Problemet er marginalt.»** Volumet er langt fra det: en **seksårsanalyse av et CS2-emne med store kull** fant at **45,7% av studentene våren 2026 ble flagget**. Nesten halve kullet, noe som gjør dette til et vanlig designproblem snarere enn et grensetilfelle.
 - **«Undervisere vet hvilke vurderinger som er sårbare.»** I en [[biology-education|biologi]]-avdeling **oppfattet underviserne bare fysisk overvåkede eksamener som minimalt sårbare**, mens oppgaver utenfor klasserommet ble sett på som eksponerte. Oppfatningen traff det åpenbare tilfellet og behandlet alt annet som trygt.
+
 ## Beslektede begreper
 - [[pedagogical-patterns]] — Verifiseringssekvenser tatt i bruk som svar på generativ AI
 - [[ai-use-disclosure]] — Erklæringer om AI-bruk og deklarasjon

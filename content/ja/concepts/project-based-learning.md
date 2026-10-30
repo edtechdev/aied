@@ -93,6 +93,7 @@ PBLは、[[active-learning]]、[[experiential-learning]]、[[collaborative-learn
 - [[higher-ed]]
 - [[pedagogy]] — 包括:AI教育における教授法と教育戦略
 - [[arts-design-and-media-education]]
+
 ## 関連記事
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 生成AIに支援された教育のための有望な枠組みとしての問題基盤型・プロジェクト基盤型学習:系統的レビューと3レベルメタ分析からの新たな証拠
 - [[pbl-structural-conditions-ai-2026]]

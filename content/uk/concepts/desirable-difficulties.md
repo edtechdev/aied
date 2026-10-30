@@ -104,6 +104,7 @@ TutorMoments опрацьовує принципи бажаної труднощ
 - [[learning-theories]]
 - [[productive-failure]] — Productive Failure
 - [[retrieval-spacing-interleaving]] — операційні методи, які втілюють цей принцип: ефект тестування, розподіл у часі, чергування
+
 ## Пов’язані статті
 
 - [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — ChatGPT as a cognitive crutch: a delayed randomized test of removing desirable difficulty (Barcaui 2025)

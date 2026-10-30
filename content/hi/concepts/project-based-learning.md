@@ -95,6 +95,7 @@ PBL [[active-learning]], [[experiential-learning]], [[collaborative-learning]], 
 - [[higher-ed]]
 - [[pedagogy]] — छत्र: AI शिक्षा में पैडागॉजी और शिक्षण रणनीतियाँ
 - [[arts-design-and-media-education]]
+
 ## संबंधित लेख
 
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — जनरेटिव AI-समर्थित शिक्षा के लिए आशाजनक ढाँचे के रूप में समस्या-आधारित और परियोजना-आधारित अधिगम: एक व्यवस्थित समीक्षा और तीन-स्तरीय मेटा-विश्लेषण से उभरते प्रमाण

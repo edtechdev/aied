@@ -169,6 +169,7 @@ Stejná logika mění tvarování odměny v návrhový nástroj: [[assistance-di
 - **„Objem promptů měří odklánění."** **97 žáků** bylo shlukováno podle objemu promptů a **shluky podle objemu se významně nelišily v lokálním versus globálním ani v aktivním rolovém promptování**. Počítání promptů počítalo aktivitu, a ne rozdělení kognitivní práce.
 - **„Studenti používají AI hlavně k porozumění."** **Analyze vedlo rozdělení s 27,28 % (831 zpráv) před Understand s 23,76 %** - první jemnozrnný důkaz, že naturalistická [interakce studenta s AI] tíhne k analytickému, a ne k porozumění orientovanému použití.
 - **„Stopy promptů odhalují, zda k odklánění došlo."** To, co stopy na úrovni promptů poskytnout nemohou, pochází z **podvzorku 16 studentů s propojenými známkami, jehož 1 140 zpráv bylo kódováno ručně**: **49,6 % ze 125 dialogů nevykazovalo žádné odklánění**. Vzorce stop nadhodnocují odklánění ve srovnání s ručně kódovaným dialogem.
+
 ## Související koncepty
 
 - [[pedagogical-patterns]] - Riziko, kterému se každá sekvence stavějící na prvním úsilí snaží vyhnout

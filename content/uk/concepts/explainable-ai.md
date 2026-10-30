@@ -109,6 +109,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Пов’язані статті
 - [[lund-socially-accountable-data-science-xai-2026]] — Рамка з чотирьох опор (answerability, responsibility, enforcement, reflexivity) для викладання XAI як практики підзвітності (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Чутливе до цінностей проєктування зосереджених на студенті ITS (колаборативні проти сирих пояснень)

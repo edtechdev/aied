@@ -47,6 +47,7 @@ The system treats AI as a **draft generator**, not a final deliverer — educato
 - Evaluation evidence is student-perceived coherence and usefulness of the feedback plus system usability scores; effects on feedback quality, reflective learning, or presentation performance are stated as future analyses.
 - Comparison between AI-mediated and traditional manual feedback is also deferred, so the paper cannot yet show that AICoFe improves on existing practice.
 - Presentation recording is opt-in and GDPR-compliant, so only consenting participants' data enter the pipeline.
+
 ## Citation
 
 Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740).

@@ -123,6 +123,7 @@ Faveroら(2025)は、AIチューターとの感情的な[[student-engagement|関
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
 - [[socratic-method]]
+
 ## 関連する記事
 - [[ecnuclaw-k12-personalized-companion]]
 - [[epistemic-emotions-collaborative-problem-solving]]

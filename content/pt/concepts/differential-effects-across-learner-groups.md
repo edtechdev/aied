@@ -104,6 +104,7 @@ Esta vertente é pequena em contagem de artigos e forte em mecanismo, porque a e
 A formação disciplinar é um eixo diferencial que o mapa grupo a grupo desta página ainda não carregava: a mesma ferramenta pode distribuir seu benefício de forma desigual entre os campos do saber, e um corpus que agrega STEM e humanidades pode esconder exatamente essa desigualdade.
 
 - **Uma ferramenta pode engajar uma disciplina e desengajar outra.** Em um quase-experimento de duas semanas com 130 graduandos em equipes de disciplinas mistas, o [[generative-ai|ChatGPT]] elevou o [[student-engagement|engajamento]] dos estudantes de STEM e o reduziu para os estudantes de outras áreas (Q = 9,87, p < .05), e as anotações escritas sem ChatGPT pontuaram mais alto em diversidade e integração de ideias disciplinares ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
+
 ## Onde falta evidência
 
 O achado honesto deste levantamento é quão finos são alguns grupos. Cada um destes é uma lacuna real na base de evidência, não uma lacuna desta página.

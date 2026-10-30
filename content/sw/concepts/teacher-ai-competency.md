@@ -130,6 +130,7 @@ Kadiri AI inavyochukua kazi za kawaida za mafunzo na tathmini, mchango wa kipeke
 - **Unga safu ya taasisi:** uwezo wa mwalimu unaodumu unahitaji sera, utawala na uwezo vilivyolingana, si mafunzo yaliyotengwa.
 
 - **Uwezo wa kidijitali wa mwalimu kwa [[curriculum-design|ubini wa mitaala]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] wanathibitisha chombo cha uchunguzi kinachotegemea TAM na walimu 434 wenye kazi; nia ya tabia ilikuwa mtabiri mkuu wa uwezo wa kidijitali wa kutumia GenAI katika upangaji wa mitaala, huku ujasiri binafsi ukiwa kiendeshaji cha msingi.
+
 ### Kipimo cha Kisaikolojia cha Uwezo wa Mwalimu wa AI
 
 - Utafiti wa kisaikolojia kilizindua Kipimo cha Ujuzi wa AI cha Walimu (TAILS) kupima ujuzi wa AI maalum katika [[teacher-education|elimu ya walimu wa lugha]], ikitekeleza vipimo sita vya mfumo wa ED-AI. Maendeleo ya chombo huja pengo katika tathmini zinazolenga wanafunzi au watumiaji wa jumla, ikisaidia kupima uwezo wa mwalimu wa AI.

@@ -95,6 +95,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - **"Authenticity is about realistic tasks."** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud and Du's (2025)]] scoping review of **37 empirical studies (2000-2024)** proposes a **six-dimensional** design model, and only **3 of 37 studies addressed social authenticity** — whether assessment helps students contribute to societal transformation. Realism is one dimension and the most advanced dimension is barely studied.
 - **"Authentic assessment resists AI."** The exposure is measurable and large: a **three-year psychology degree** proved **90% passable**, with ChatGPT producing **adequate output on 36 of 40 coursework assessments**, with only the remaining assessments surviving. Most of a degree's assessment was AI-satisfiable.
 - **"Redesign is optional if the work is real-world."** The 36-of-40 result was found on coursework whose authenticity was presumably not in question. Task realism did not protect against AI completion; the design of what is assessed did.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[eportfolio]]
@@ -114,6 +115,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[feedback]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 - [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)

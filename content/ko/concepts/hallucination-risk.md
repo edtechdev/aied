@@ -79,6 +79,7 @@ ai_assist:
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## 연결된 문서
 
 - [[frontiers-gai-hallucination-dependence-2026]] — GAI 대화를 날조된 것으로 표시하는 것이 신뢰와 의존을 함께 낮췄다

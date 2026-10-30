@@ -111,6 +111,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Makala Zilizounganishwa
 - [[lund-socially-accountable-data-science-xai-2026]] — Mfumo wa nguzo nne (uwezekano wa kujibu, uwajibikisho, utekelezaji, kujifikiria) kwa kufundisha XAI kama mazoezi ya uwajibikisho (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Ubini unaotambua thamani wa ITS inayozingatia mwanafunzi (maelezo ya ushirikiano dhidi ya ya bila kuchakatwa)

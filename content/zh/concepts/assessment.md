@@ -125,6 +125,7 @@ ai_assist:
 - [[eportfolio]] — 基于过程的电子档案评估
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## 关联文章
 
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 一个为期一年的项目，定义了多模态评估素养，并测量了什么动了、什么没动

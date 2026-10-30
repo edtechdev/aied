@@ -119,6 +119,7 @@ ai_assist:
 - [[human-in-the-loop-ai]] — 감독
 - [[agentic-ai]] — 자율성
 - [[productive-failure]]
+
 ## 연결된 문서
 - [[bjet-many-hands-make-light-work-2026]] — GenAI 다중에이전트 시스템과의 짝 작업이 설계 프로젝트에서 이겼으나, 비판적 사고 인식은 혼자 작업한 사람들에게서만 상승했다(Chu 외 2026)
 - [[dang-human-ai-collaboration-competency-2026]] — HACC: 영역, AI, 메타인지 역량의 동적 구성으로서의 협업 역량, 학습자 행위자성은 창발적(Dang 외 2026)

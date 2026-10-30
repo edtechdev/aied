@@ -67,6 +67,7 @@ The [[agency|student agency]] story has two layers. One is the ownership student
 - The dose is small — 30-minute sessions, conversations typically four exchanges long, and in the survey sample a single encounter — so the authors note that personalization interventions are usually too brief to reliably build durable interest, and that stable perceptions may need sustained engagement.
 - The deployment results come from a pilot of only 71 problems across two domains, with voluntary ratings that 61% of students skipped, a response profile that could bias the thumbs-up proportion in either direction; the earlier error-rate result rests on a small preliminary pilot reported elsewhere.
 - The tool is model-dependent — reported sessions used OpenAI's GPT-4o or GPT-4.1, with o3-mini selecting among candidate problems, and AMPT's panel supports most OpenAI and Anthropic models — so behavior, verbosity, bias and problem quality will vary with the model in use and with ongoing prompt revisions; the authors also leave a scaling tension unresolved, since the features that make a problem meaningful to its author (an unfamiliar local dish, a low-frequency word, a teacher's name) can make it useless or harder to read for the students who later meet it.
+
 ## Citation
 
 Norberg, K., Murphy, A., & Ritter, S. (2026). AMPT: A tool for personalizing math learning with generative AI. In [*GenAI in novel educational applications*](https://osf.io/preprints/psyarxiv/f4mzp_v1). Preprint; the peer-reviewed version is forthcoming.

@@ -115,6 +115,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — الإيماءة والصوت والمدخل المكاني كقنوات تعلّم
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## المقالات المرتبطة
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — تركيب إعلان خدمة عامة مرئي حول أخلاقيات الذكاء الاصطناعي كبيداغوجيا لثقافة الذكاء الاصطناعي النقدية (بوريس وزملاؤه 2026)
 - [[student-attention-estimation-fairness-2026]] — نمذجة محوّل متعدد الوسائط واعية بالإنصاف لتقدير انتباه الطالب في الزمن الحقيقي

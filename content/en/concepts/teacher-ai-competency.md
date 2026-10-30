@@ -122,6 +122,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
 - **Teacher digital competence for GenAI [[curriculum-design|curriculum design]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioral intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
+
 ### A Psychometric Instrument for Teacher AI Competency
 
 - A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalizing the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
@@ -133,6 +134,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - **"Prompting training makes teachers' materials better."** **Prompting training buys time, not better materials**: in a **preregistered RCT with 204 teachers**, Appel, Fervers and Piepenburg (2026) found ChatGPT improved **time spent** while the material quality did not follow. The efficiency gain is real and it is not the quality gain.
 - **"When teachers configure a chatbot, the failure is factual error."** **When teachers configure a chatbot in natural language, the dominant failure is lost intent rather than wrong facts** — bots **skip** the step the teacher meant. Instruction-following fails structurally rather than factually.
 - **"Technical skill is the decisive layer."** **Pedagogical knowledge is the decisive layer**: a cross-level study of secondary [[ai-education|AI education]] [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. The competence that determines the outcome is the one most training programs under-invest in.
+
 ## Connected Concepts
 
 - [[ai-literacy]]

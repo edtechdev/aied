@@ -58,6 +58,7 @@ ai_assist:
 - **情動的に知的な評価エージェント。** [[aivaluate-anxiety-assessment-2026|AIvaluate]]は、[[llm]]で強化された情動的に知的な[[conversational-ai|会話エージェント]]であり、パフォーマンスに基づく評価中の学生の不安と社会的圧力を低減させつつ、[[usability-research|ユーザビリティ]]を保ちました。
 - **感知ではなくプロンプト設計によって作られた共感。** 感情的な支援は情動の検出を必要としません。[[wang-teacher-student-centered-agents-physics-2026|Wangら(2026)]]は、モデル、プラットフォーム、温度を一定に保ったまま、プロンプトで指定された役割と会話の運びだけが異なる2つのLLMの[[physics-education|物理学]]エージェントの間に、*共感の知覚*における大きな差(21.27対18.24; r = 0.53)を得ました。その違いとは、視点取得の開始(「あなたがこの問いを持つのは〜だからです」)、[[misconceptions|誤概念]]の診断、各ラウンドの終わりでの理解度の確認です。これはセンサー駆動の感情計算への有用な対重みです。[[pedagogical-agent|教育エージェント]]の知覚される感情的な質は相互作用の台本に設計し込むことができる一方で、知覚される共感は本物の感情的な理解のエビデンスではなく自己報告の構成概念であることも設計者に思い出させます([[student-ai-interaction]])。
 - **チューターを適応させるのではなく教師に合図を送るアラート。** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan(2026)]]は、高等学校の幾何学の教室にDash4Emotionを展開しました。そこでは、赤い枠の矩形が、否定的な情動を経験していると読まれた学生を示しました。特定された20回の出来事(報告されたものは5回)のうち、関与を変えたのはアラートそのものではなく、教師がアラートに応答したことでした。設計上の要点は、情動の感知が適応的チューターの次の一手ではなく、人間の意思決定に供せられうるということです。ただし、この研究自身の注意が付されています。顔の表情の検出の検証は報告されていないため、この信号は学生の内面的状態についてのエビデンスではなく、教師による解釈のための呼びかけなのです。
+
 ## よくある誤解
 
 - **「関与が増えれば学習も増える。」** 脳計測に基づく研究は、**制約された適応的なインターフェースが認知的関与を高めた（p = .018）一方で、制約のないチャットボットのほうがより高い学習の向上をもたらした**ことを見出しました。より関与させたインターフェースのほうが、より少なく教えていたのです。関与は学習の代理指標ではなく、それを最適化することは成果を逆方向に動かしかねません。
@@ -79,6 +80,7 @@ ai_assist:
 - [[llm-training-and-fine-tuning]]
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — 社会情動的学習
+
 ## 関連する記事
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 - [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)

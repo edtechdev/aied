@@ -106,6 +106,7 @@ Fowlin et al. (2026) tilføjer et operationelt greb til at afgøre, hvor AI komm
 - **"AI-lektionsplanlægning giver lærerne tid tilbage."** Planlægningstiden faldt ganske vist, fra 3,32 timer om ugen til 2,51 med værktøjet, men **medianlæreren planlagde kun 21% til 40% af lektionerne fra bunden**. Der blev sparet tid, og planlægningen blev ikke væsentligt grundigere; besparelsen blev akkumuleret frem for geninvesteret.
 - **"Samdesign med AI er godt underbygget."** En systematisk gennemgang af [[wang-teacher-ai-co-design-review-2026|lærer-AI-samdesign af læringsopgaver]] **bekræfter mønstret i stor skala på tværs af 28 studier**, hvilket beskriver en konsistent praksis frem for at demonstrere bedre udfald.
 - **"Rubrikken er et fast input."** Rubrikken fungerer som **en medierende grænseflade mellem menneskelig pædagogisk intention og maskinel inferens**: at behandle vurderingskriterier som **reviderbare** er det, der lader instrumentet bære underviserens intention. En fast rubrik overfører maskinens standardrammesætning til evalueringen.
+
 ## Forbundne begreber
 
 - [[interpreting-and-applying-aied-research]]

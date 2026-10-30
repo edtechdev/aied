@@ -34,6 +34,7 @@ This [[research-methods-aied|research]] connects to the growing body of work on 
 - No demographic information was provided, so the authors could not quantify bias by gender, ethnicity, or socioeconomic status and instead examined performance across ability levels only.
 - Coverage is secondary-school mathematics mock papers, so nothing here establishes that the single-ability finding holds in higher education or other subjects.
 - Clusters were fitted per exam with a Bernoulli Mixture Model and few departed in shape from the overall score distribution, so the "archetypes" are weakly identified rather than clean profiles.
+
 ## Citation
 
 Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). [Archetypes or ability? Clustering for modelling student mathematical competence](https://arxiv.org/abs/2607.26063). arXiv preprint.

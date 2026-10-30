@@ -39,6 +39,7 @@ audience: [instructional designers, instructors]
 - All five perception dimensions are self-reported, and the beta analysis rests on the 83 of 122 invited students who completed all five questionnaires; attrition across the multi-week study reduced statistical power and constrained model complexity.
 - Adaptive support was driven mainly by group-level performance, so it may not accurately reflect individual knowledge or behavior.
 - The evaluation sits in a single institution and two courses with a relatively homogeneous age range (M = 23.0, SD = 2.59), and the needs analysis drew on n = 100 students in one course, limiting generalizability.
+
 ## Citation
 
 Wenzel, A., Geiger, J.-M., & Liening, A. (2026). [Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X). *Computers and Education: Artificial Intelligence*, 10, 100576.

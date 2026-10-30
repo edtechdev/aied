@@ -185,6 +185,7 @@ El primer estudio de la teoría de la conducta planificada sobre la intención d
 - **«Las herramientas de detección identifican la escritura con IA.»** El texto generado por IA ha **pasado por escrito por una persona en hasta el 80% de los casos**, mientras que la evidencia sobre la detección sitúa la **detección automática en torno al 80% frente al 78,4% de quienes revisan de forma humana**. El juicio humano y el automático son casi igual de (poco) fiables, así que un veredicto de detección no es prueba de autoría.
 - **«El problema es marginal.»** El volumen está muy lejos de serlo: un **análisis de seis años de un curso CS2 de gran matrícula** encontró que el **45,7% del estudiantado de la primavera de 2026 fue señalado**. Casi la mitad de una cohorte, lo que convierte esto en un problema de diseño generalizado y no en un caso límite.
 - **«El profesorado sabe qué evaluaciones son vulnerables.»** En un departamento de [[biology-education|biología]], el profesorado **percibía solo los exámenes presenciales supervisados como mínimamente vulnerables**, mientras que las tareas fuera del aula se veían como expuestas. La percepción coincidía con el caso obvio y trataba todo lo demás como seguro.
+
 ## Conceptos conectados
 - [[pedagogical-patterns]] — Secuencias de verificación adoptadas en respuesta a la IA generativa
 - [[ai-use-disclosure]] — Declaraciones de uso y de divulgación de la IA

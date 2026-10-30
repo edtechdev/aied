@@ -75,6 +75,7 @@ Nell'educazione all'IA il design thinking è profondamente intrecciato con la [[
 - [[academic-integrity]]
 - [[open-source]]
 - [[arts-design-and-media-education]]
+
 ## Articoli collegati
 
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks

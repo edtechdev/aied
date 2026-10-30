@@ -80,6 +80,7 @@ ai_assist:
 学習理論はまた、[[ai-literacy|AIリテラシー]]のカリキュラムにおいて内容としても現れます。学習者は、自分たちが使う道具の背後にある[[pedagogy|教授法的な]]想定を理解するために、行動主義、認知主義、構成主義、コネクティビズムを学びます。([[generativism-learning-theory]])この束を教えることは、学生(と教育者)に、AI製品がなぜそういうふうに構築されているのか——そしてその力学が当面の学習目標に資するかどうか——を批評するための語彙を与えます。
 
 - **媒介するエージェント。** Warschauer, Tate, Ritchie(2026年)は、生成AIが社会文化的な媒介手段と社会的な相互交流の区別を破ると論じ、*媒介するエージェント*——行動を媒介すると同時に、偶発的で説明責任を負わない貢献を生成し、道具と社会的なパートナーの中間的な空間を占めるシステム——を提案しています。これは、人間優先の参加の5つの習慣(人間の認知の優位性、目的のある[[student-engagement|関与]]、監督的な主体性、認識論的な用心、省察的な自己調整)をもたらします。([[generative-ai-mediational-agent-sociocultural-2026]])
+
 ### AI時代のために提案された理論
 
 古典的な系と並んで、このナレッジベースはAIシステムとの学習のために特別に書かれた理論を記録しており、それらは古い理論が開いたままにしている設計上の含意を帯びています。[[yan-agentivism-learning-theory-ai-2026|Agentivism(Yan and Gašević 2026年)]]はその中範囲の例です。それは学習を、課題の成功ではなく人間の能力における持続的な成長として定義し、4つの機構(委譲された主体性、認識論的な監視と検証、再構築的な内面化、支援が減少した下での転移)を名指し、6つの検証可能な命題を述べます。その中には、問題の枠づけ・基準の設定・正当化に対する学習者の責任を保つAI支援が、答えを差し出す支援よりも強い学習を生み出すという命題があります。
@@ -138,6 +139,7 @@ ai_assist:
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## 関連記事
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 

@@ -12,13 +12,16 @@ confidence: medium
 audience: [instructional designers, instructors]
 ---
 > **Synthesis:** Bolla et al. (2025) investigate whether the commercial Pepper social robot can produce intelligible Italian Sign Language (LIS) signs and short signed sentences, addressing the underexplored [[accessibility]] of social robots for Deaf users. With the help of a Deaf student and an expert interpreter, they co-designed and implemented 52 LIS signs on Pepper using either manual animation techniques or a MATLAB-based inverse kinematics solver. An exploratory user study with 12 participants proficient in LIS (both Deaf and hearing) assessed the intelligibility of the robot's signs.
+
 ## Key Findings
 - Social robots are increasingly used in public and assistive settings, but their **accessibility for Deaf users remains underexplored**.
 - Italian Sign Language (LIS) is a fully-fledged natural language with complex **manual and non-manual components**, posing a challenge for robot communication.
 - The team **co-designed and implemented 52 LIS signs on Pepper** using manual animation techniques or a MATLAB-based inverse kinematics solver.
 - An exploratory user study with **12 participants proficient in LIS (Deaf and hearing)** assessed sign intelligibility, with the aim of fostering more inclusive human-robot interaction in social environments (hospitals, airports, educational settings).
+
 ## Study Design & Method
 This is an **exploratory design and user-study** in human-robot interaction. The [[research-methods-aied|researchers]] co-designed 52 Italian Sign Language signs with a Deaf student and an expert interpreter, implementing them on the Pepper platform using two techniques (manual animation and MATLAB-based inverse kinematics). An exploratory user study with 12 LIS-proficient participants (both Deaf and hearing) evaluated the intelligibility of the produced signs and short signed sentences, examining the feasibility of robot-mediated sign-language communication.
+
 ## What this means for practice
 
 - **Designers.** Screen every candidate sign against the platform's kinematics before adding it: Pepper cannot move fingers independently, and constrained wrist and elbow range plus the chest tablet distorted close-body signs in the 52-sign set.
@@ -29,6 +32,7 @@ This is an **exploratory design and user-study** in human-robot interaction. The
 
 ## Limitations
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
+
 ## Citation
 
 Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). [*Using the Pepper robot to support sign language communication*](https://arxiv.org/abs/2509.09889).

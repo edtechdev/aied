@@ -91,6 +91,7 @@ ai_assist:
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] מזהים **אתיקה וממשל נתונים** כאחד משבעה מאפשרים להתערבויות חינוכיות אמינות מבוססות-LA — מדיניות לשימוש אתי ב-LA ובבינה מלאכותית, פרטיות נתונים, אבטחה ואחריותיות — וממקמים את ה[[trust|אמון]] (לרבות הנהגה וממשל שתומכים ביישום) כתנאי המוקדם להתערבויות משמעותיות מודעות-נתונים.
 
 - **ממשל ניתן לתכנון לתוך הכלי.** פרופיל ממשל בשישה ממדים — עיגון פדגוגי, סמכות הוראה, אחריותיות ושליטה אנושית, סוכנות לומד ומעורבות קוגניטיבית, ספציפיות הקשר, ונראות הערכה — ממקם ממשל במודל האינטראקציה של כלי הוראה, בהנחיות, ברובריקות, בשערי אישור ובלוחות מחוונים, ושואל האם המנגנונים מתאימים לפונקציה ההוראית ולא עד כמה הכלי נוקשה או מתיר ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+
 ## מושגים מחוברים
 - [[pedagogical-partnerships]] — שותפויות פדגוגיות
 - [[ai-use-disclosure]] — הצהרות שימוש וגילוי-דעת בבינה מלאכותית
@@ -111,6 +112,7 @@ ai_assist:
 - [[generative-ai]]
 - [[stakeholders]] — מטרייה: אנשים וקהלים בחינוך עם בינה מלאכותית (לומדים, מורים, מעצבים, מנהלים, קובעי מדיניות)
 - [[student-support-and-success]] — פיקוח על מערכות תמיכה מוסדיות בבינה מלאכותית
+
 ## מאמרים מחוברים
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — מסגרת AIGEM לממשל בינה מלאכותית בניהול חינוכי

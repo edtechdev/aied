@@ -116,6 +116,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — жест, голос і просторовий ввід як канали навчання
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Пов’язані статті
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Відеокомпонування оголошень громадської служі на тему етики ШІ як педагогіка критичної ШІ-грамотності (Burriss та співавт. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

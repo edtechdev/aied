@@ -114,6 +114,7 @@ ai_assist:
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — Продуктивный провал
+
 ## Связанные статьи
 - [[yan-agentivism-learning-theory-ai-2026]] — Теория обучения среднего уровня для взаимодействия человека и ИИ, с четырьмя механизмами и шестью проверяемыми положениями (Yan and Gašević 2026)
 

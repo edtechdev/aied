@@ -15,6 +15,7 @@ methods: [benchmark]
 ---
 
 > **Synthesis:** > This ITS 2026 study re-evaluates attention-augmented Programming Knowledge Tracing (PKT) models on the CodeWorkout dataset and argues that many reported performance gains are artifacts of flawed experimental protocols rather than genuine architectural superiority. The authors identify three systemic biases in prior work — a causally invalid Softmax dimension in attention-based code representation, temporal causality violations from ignoring ServerTimestamp during sequence construction, and hyperparameter leakage across cross-validation folds — and show that once these are rectified, the performance gap between attention-enhanced models and the standard DKT baseline narrows dramatically, with architectural complexity failing to translate consistently into better prediction.
+
 ## Key Findings
 
 1. Attention-augmented PKT models (Code-DKT, ECKT) report gains over DKT largely because of causal flaws in their evaluation: the Softmax in attention-based code representation normalizes across the time dimension (dim=1) rather than the path dimension (dim=2), introducing look-ahead leakage.
@@ -59,6 +60,7 @@ Task-specific hyperparameter optimization is a prerequisite for fair comparison.
 - The re-evaluation covers a single dataset — CodeWorkout, 69,627 interactions from 413 students across five assignments — and a subset of PKT models (DKT, Code-DKT, ECKT); the authors state that extending the rectified protocol to broader domains and architectures remains future work, so the corrected rankings are not yet shown to generalize.
 - Model comparisons rest on one 80/20 train/test split with five cross-validation folds, and hyperparameters were chosen by grid search on a single designated fold and then fixed across all folds, so the reported ordering is conditional on that one fold's selection.
 - The sequence-length finding rests on only two settings, Lmax = 50 and Lmax = 100, so intermediate truncations and other architecture families remain untested.
+
 ## Citation
 
 Kim & Kim (2026). [Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols](https://arxiv.org/abs/2605.04727). ITS 2026 (Springer LNCS).

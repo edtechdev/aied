@@ -89,6 +89,7 @@ Favero et al. (2025) מזהירים ש[[student-engagement|מעורבות]] רג
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
 - [[socratic-method]]
+
 ## מאמרים מחוברים
 
 - [[ecnuclaw-k12-personalized-companion]]

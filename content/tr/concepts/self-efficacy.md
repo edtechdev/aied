@@ -77,6 +77,7 @@ YZ destekli alıştırmanın isteklilikle ilişkilendirildiği kaygı yolu, güv
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Sosyal-Duygusal Öğrenme
+
 ## Bağlı makaleler
 - [[confident-but-absent-ai-use-absenteeism-2026]] — Genel YZ kullanımı daha yüksek öz yeterlilik ve daha yüksek devamsızlıkla birlikte izlendi, oysa öz yeterlilik devama ilişkin bir öngördürücü değildi (Franco ve ark. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Yükseköğretimde YZ sohbet robotları: beklentileri kanıtlarla karşılaştırmak (Thoeni & Fryer 2026)

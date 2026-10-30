@@ -101,6 +101,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 
 - **Disengagement as a turn-level move, not a stable state:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] coded 5,522 student utterances to an AI teachable agent in Math Nation into six conversational-disengagement categories (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) and found the engagement rate dominated at 75.7% of utterances. The prevalence-based associations of False Answering and Mocking with post-test scores did not survive a human-annotated sensitivity check. The sequential analysis is the engagement-relevant result: the highest-performing cluster combined moderate disengagement with strong recovery-to-engagement transitions (Withholding → Engagement p = 0.83), while the lowest showed persistent self-loops without recovery (Engagement self-loop p = 0.96). Withholding was the one disengagement type that tended to persist rather than resolve — persistence versus repair, not presence versus absence, is the distinction that separates engagement trajectories.
+
 ## Common Misconceptions
 
 **"If engagement went up, learning went up."** This is the single most costly inference in the AI-engagement literature, and the knowledge base contains a clean counterexample. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker and Becker-Genschow (2025)]] randomized 195 ninth-grade classes to a domain-specific mathematics chatbot or conventional differentiation materials for one lesson on the Heron method. Situational interest rose substantially in the chatbot condition (M = 2.63 vs 2.43, p = 0.00005, Cohen's d = 0.63) and acceptance was high on all four [[technology-acceptance-model|Technology Acceptance Model]] dimensions — yet the pre-post performance comparison found **no significant group-by-time interaction** (F(1194) = 2.84, p = 0.094), and extrinsic cognitive load was slightly higher. Interest and achievement moved on different schedules. An engagement finding is not evidence of [[learning-gains|learning]].
@@ -152,6 +153,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[self-report-measures]]
 - [[productive-failure]]
+
 ## Connected Articles
 - [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI feedback literacy and agentic engagement: a three-wave random-intercept panel (Xu 2026)
 

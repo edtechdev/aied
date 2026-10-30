@@ -143,6 +143,7 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — AI 教育中的理论发展
+
 ## 关联文章
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育中的 AI 聊天机器人：把期望与证据相对照（Thoeni & Fryer 2026）
 

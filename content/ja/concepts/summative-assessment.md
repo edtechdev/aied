@@ -53,6 +53,7 @@ ai_assist:
 - **閉鎖式・監督下・無支援の測定。** [[generative-ai-reduced-study-time-math|証拠]]と[[stromberg-generative-ai-learning-penalty-secondary-2026|大規模なフィールドデータ]]は、学生が AI を使う場合、水増しされた宿題や持ち帰り課題ではなく、監督下の閉鎖式試験が実際の学習の信頼できるシグナルであることを示しています。[[responsible-assessment-ai-era-stanford-2026|責任ある評価]]の枠組みは、これらの無支援の測定を妥当性に基づく再設計の中に組み込んでいます。試験がオンラインのまま行われる場合、[[remote-proctoring|リモート監督]]がその役割を担い、自動監督に関するコーパスの2つのレビューは、検出の成果と並んでプライバシーと[[bias-mitigation|公平性]]の懸念を見出しています（[[automated-online-exam-proctoring-decade-review-2026]]、[[academic-dishonesty-automated-proctoring-ai-2026]]）。
 
 - **脆弱な課題を確認する双子と対にする。** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]]は、学習上の価値のために GenAI に脆弱な課題を残しつつ、同じ成果を評価する第2の課題と対にします。確認的な閾値や重み付けを通じて評点を相互依存にすることで、双子の課題が結果を認定する仕組みです。
+
 ## 高リスクかつ標準化された総括的評価
 
 高リスクな総括的評価——入学試験、標準化されたテスト、資格認定——は並外れた帰結を伴い、AI 時代の懸念の焦点となっています。[[stromberg-generative-ai-learning-penalty-secondary-2026|生成 AI の学習ペナルティに関する研究]]は、高校（中考）と大学（高考）の入学試験での成果を測定し、長期にわたる AI の使用後に入学試験の得点が 18–24% 低下したことを見出しました。[[brcic-effortless-trap-productive-struggle-2026|Effortless Trap]]と[[genai-performance-vs-learning|パフォーマンス対学習の研究]]は、AI 支援を受けた課題での伸びが、無支援の高リスクな測定には移行しないことを警告しています。

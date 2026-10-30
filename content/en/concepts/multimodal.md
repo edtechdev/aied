@@ -118,6 +118,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 - [[elkington-human-centred-assessment-value-2026]] — Human-centred assessment, assemblages and generative constraints (Elkington 2026)
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video PSA composition on AI ethics as critical AI literacy pedagogy (Burriss et al. 2026)

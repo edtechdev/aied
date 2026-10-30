@@ -137,6 +137,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - **"The judge is the source of unreliability."** On 378 fixed-dice rulings, a re-run changed **2.9 to 6.1 per cent** of outcomes under a semi-rigid method and **13.5 to 15.9 per cent** under free adjudication, while swapping the judge AI added only about 3 points ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — the procedure, not the judge, sets reproducibility.
 - **"Confidence reporting is a nicety."** A score that said it was **70% sure** would change how it is used, and the absence of that information forces the reader to treat all scores as equally certain.
 - **"Short-answer auto-marking is a settled area."** A scoping review of short-answer auto-marking in [[science-education|science]] (**2017 to early 2024**) documents the field's history, which is a record of what has been attempted rather than of what has been validated.
+
 ## Connected Concepts
 
 - [[explainable-ai]]

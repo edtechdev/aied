@@ -35,6 +35,7 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 - Interviews asked participants to recall prior AI use instead of completing set tasks during the session, so some usage may have been forgotten and underreported.
 - Only student perspectives were collected; staff at International Student Offices and other support providers were not studied.
 - The domain comparisons rest on self-reported 5-point Likert ratings, and no inter-rater reliability is reported, following Reflexive Thematic Analysis guidelines.
+
 ## Citation
 
 Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). [Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation](https://arxiv.org/abs/2605.15127).

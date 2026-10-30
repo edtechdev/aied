@@ -129,6 +129,7 @@ AI में बहुमाध्यमिता का अर्थ केव�
 - [[virtual-and-augmented-reality]] — सीखने के माध्यमों के रूप में इशारा, आवाज़ और स्थानिक इनपुट
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## संबंधित लेख
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — AI नैतिकता पर महत्वपूर्ण AI साक्षरता शिक्षाशास्त्र के रूप में वीडियो PSA संयोजन (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — रियल-टाइम छात्र ध्यान आकलन के लिए निष्पक्षता-जागरूक बहुमाध्यमी ट्रांसफ़ॉर्मर मॉडलिंग

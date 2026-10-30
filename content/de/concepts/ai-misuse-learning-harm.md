@@ -85,6 +85,7 @@ Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach 
 ### Konversationelles Desengagement im Zeitalter von LLMs
 
 Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) hat ein Pendant im Dialogzeitalter: konversationelles Desengagement — den Agenten verhöhnen, absichtlich falsch antworten, ihn ignorieren, seinen Text spiegeln oder Antworten vorenthalten. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] geben diesem Phänomen in der Dialogforschung zu Studierenden und KI seine erste systematische Behandlung, und seine zentrale Lehre ist interpretativ statt alarmistisch. Eine desengagierte *Wendung* ist ein interaktionaler Zug, kein stabiler Zustand des Desengagements. Die scheinbare Assoziation des False Answering mit Post-Test-Punkten überlebte eine menschlich annotierte Sensitivitätsprüfung nicht, und die Autor:innen lesen sie als Sondierung *innerhalb* von Trajektorien, die oft zum Engagement zurückkehren (das leistungsstärkste Cluster erholte sich bei p = 0.42). Das Verhalten, das die Trajektorien tatsächlich trennte, war Withholding — die Weigerung zu antworten, die eher persistierte, als dass sie sich auflöste. Für Gestaltende kehrt das die übliche Priorität um: lautes, sichtbares Desengagement korrigiert sich oft selbst, während stiller Rückzug signalisiert, dass die Interaktion zusammengebrochen ist.
+
 ## Verbundene Konzepte
 
 - [[self-directed-learning]]

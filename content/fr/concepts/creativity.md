@@ -102,6 +102,7 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## Articles liés
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — La génération d'images par IA générative a laissé la performance de conception inchangée mais a abaissé l'efficacité personnelle créative générale
 - [[bicer-genai-pd-math-creativity-2026]] — Comment le développement professionnel guidé par l'IA générative soutient l'engagement des enseignants avec la créativité mathématique, la connaissance du contenu et la connaissance pédagogique du contenu

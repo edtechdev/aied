@@ -14,6 +14,7 @@ audience: [instructional designers, instructors, software developers]
 ---
 
 > **Synthesis:** Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
+
 ## How It Works
 
 The system operates within Moodle's existing infrastructure, using [[llm]]-based tutoring to:

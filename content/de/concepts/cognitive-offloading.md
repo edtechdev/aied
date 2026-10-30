@@ -149,6 +149,7 @@ Dieselbe Logik macht Belohnungsgestaltung zu einem Designwerkzeug: [[assistance-
 - **„Die Zahl der Prompts misst Auslagerung.“** **97 Lernende** wurden nach Prompt-Volumen geclustert, und **die Volumencluster unterschieden sich nicht signifikant im lokalen-versus-globalen oder im aktiven-Rollen-Prompting**. Prompts zu zählen zählte Aktivität, nicht die Verteilung der kognitiven Arbeit.
 - **„Studierende nutzen KI vor allem zum Verstehen.“** **Analyze stand mit 27,28% (831 Nachrichten) an der Spitze der Verteilung, vor Understand mit 23,76%** - der erste feinkörnige Beleg dafür, dass naturalistische [Studierenden-KI-Interaktion] analytisch statt verstehensorientiert ausgerichtet ist.
 - **„Prompt-Spuren zeigen, ob Auslagerung stattgefunden hat.“** Was Spuren auf Prompt-Ebene nicht liefern können, kommt aus einer **Teilstichprobe von 16 Studierenden mit verknüpften Noten, deren 1.140 Nachrichten händisch kodiert wurden**: **49,6% von 125 Dialogen zeigten überhaupt keine Auslagerung**. Spurenmuster überschätzen Auslagerung im Vergleich zum händisch kodierten Dialog.
+
 ## Verbundene Konzepte
 
 - [[pedagogical-patterns]] — Das Risiko, das jede anstrengungszuerst-Sequenz zu vermeiden beabsichtigt

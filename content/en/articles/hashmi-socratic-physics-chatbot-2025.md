@@ -38,6 +38,7 @@ page_kind: [evaluation]
 - Outcome evidence is self-reported expected course grade and post-activity survey ratings; no post-test, control group, or retention tracking was included.
 - Question specificity was coded with a coarse binary broad/specific distinction that the authors say overlooks conceptual, procedural, and verification nuances.
 - The fixed question progression and GPT-4o hints limit adaptivity, and only fully completed surveys entered the analysis.
+
 ## Citation
 
 Hashmi, A., et al. (2025). [*Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot*](https://arxiv.org/abs/2508.14778v1). v1.

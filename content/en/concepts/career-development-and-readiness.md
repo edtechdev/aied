@@ -53,6 +53,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - **"AI anxiety is a general disposition you can reassure away."** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm with SEM that AI anxiety **impairs career decisions largely through eroded career adaptability (63.35% of the total effect)**. The mechanism is specific: anxiety works by removing the capacity to adapt, so reassurance aimed at feelings misses the mediator that carries the effect.
 - **"Career adaptability is a soft skill secondary to technical competence."** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adaptability **reduces AI anxiety**, which makes it an upstream intervention rather than a downstream outcome. Building adaptability addresses the mechanism; treating it as a nice-to-have leaves the mediator intact.
 - **"Anxiety about AI is evenly distributed."** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] find AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across **1,057 students**, with different patterns for **women and social-science students**. A uniform intervention misallocates support.
+
 ## Connected Concepts
 - [[professional-training]]
 - [[ai-literacy]]

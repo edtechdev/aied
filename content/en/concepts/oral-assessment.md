@@ -83,6 +83,7 @@ The oral's integrity rationale is also time-limited: [[corbin-ai-glasses-wearabl
 - **"Oral assessment cannot scale."** In [[code-review-genai-cs1|the CS1 oral code-review study]], **weekly fifteen-minute interviews carried seventy per cent of each assignment's grade**, and pasted-to-total characters still remained informative. The cost is real and the design is implementable at course scale.
 - **"Oral exams are softer than written ones."** In the reported pilot, scores **exceeded those of in-person multiple-choice tests: midterm median 92.5 against 70 (p < .001) and final median 94.2 against 86.4 (p = .002)**. Oral assessment was not the lenient option.
 - **"A simulated encounter is equivalent to progressive-disclosure cases."** In [[ai-standardized-patient-scaffolding-medical-2026|an RCT with one hundred third-year medical students]] the simulated-patient system was compared **against progressive-disclosure case materials** — a direct test of equivalence rather than an assumption of it.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Oral and viva verification sequences, and what they do and do not demonstrate

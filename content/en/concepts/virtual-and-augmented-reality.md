@@ -70,6 +70,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - **"Feeling the phenomenon means understanding it."** A pilot found students reported **feeling** wavelength and amplitude through a hand gesture more strongly than through a slider — but **it measured perception, not achievement**. The felt sense is the affordance, and whether it produced understanding is a separate test.
 - **"High usability scores validate an educational VR tool."** In a **one-hour session with 10 students** on a Meta Quest 3, the study reported **good usability on the System Usability Scale and minimal simulation sickness**. Usability and comfort are prerequisites and neither is a learning measure.
 - **"Students' agreement is evidence of the affordance."** With **29 second-year medical-imaging students**, all 29 **agreed the gesture helped them "feel" what wavelength is (mean 4.52)**. Unanimous agreement on a feeling is self-report about experience, and the affordance claim needs an outcome that does not depend on the student's judgment of their own understanding.
+
 ## Connected Concepts
 
 - [[simulation]] — what immersive environments usually display; the model, not the modality
@@ -93,6 +94,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[cognitive-offloading]] — latency and instability as extraneous load
 - [[edtech-platform]] — synchronisation, latency and multi-site presence
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 
 - [[genai-ar-physics-simulation-prompt-2026]] — four-element prompt generating hand-controlled AR physics simulations; 29-student pilot, perception-only evidence

@@ -63,6 +63,7 @@ Sustainability and AI in education sits at the intersection of [[ethics]], [[gov
 - **"Abstract AI knowledge predicts teachers' capacity to teach sustainability."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found that teachers' **practical use of AI** in science and green-energy contexts and their **involvement in developing ESD-aligned materials** — **more than abstract AI knowledge or attitudes** — predicted their capacity. Knowing about AI and being able to build with it diverged, and the practical route predicted more.
 - **"AI-assisted instructional design under a sustainability pedagogy produces sustainability pedagogy."** The same work found that AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy **constrained** design in specific ways rather than expanding it. A model trained on conventional materials reproduces conventional framings unless the design work corrects for it.
 - **"Sustainability is a topic, not a cross-cutting theme."** Because both pathways run across levels, sustainability appears in [[higher-ed|higher education]], K-12 and professional contexts — which means it is a foundational theme that has to be addressed inside each discipline rather than taught as a separate subject.
+
 ## Connected Concepts
 - [[ethics]]
 - [[governance]]

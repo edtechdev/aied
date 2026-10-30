@@ -124,6 +124,7 @@ AI मौलिक [[assessment-validity|वैधता]] प्रश्न �
 - [[eportfolio]] — प्रक्रिया-आधारित ई-पोर्टफोलियो मूल्यांकन
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## संबंधित लेख
 - [[rubrics-genai-process-based-assessment-2026]] — रूब्रिक मानदंड जो कलाकृति को नहीं, अंतःक्रिया को ग्रेड करते हैं
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — एक वर्ष-लंबा कार्यक्रम जो बहु-माध्यमीय मूल्यांकन साक्षरता को परिभाषित करता है और मापता है कि क्या बदला और क्या नहीं

@@ -118,6 +118,7 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## 関連記事
 - [[lund-socially-accountable-data-science-xai-2026]] — 説明責任の実践としてXAIを教えるための四本柱の枠組み（答えやすさ、責任、執行、反射性）（Lund et al. 2026）
 - [[ko-hughes-vsd-student-centered-its-2026]] — 学生中心のITSの価値感性設計（協働的な説明対生の説明）

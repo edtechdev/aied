@@ -131,6 +131,7 @@ La gobernanza es distinta de la [[educational-policy-ai|política educativa sobr
 - **"Las universidades han adoptado políticas de IA vinculantes."** De **48 instituciones**, **40 (83%)** tenían al menos un documento disponible públicamente, y en esas 40 **la gobernanza se materializaba sobre todo como orientación y no como norma vinculante**. Una orientación publicada no es una política aplicable.
 - **"La política se escribe pensando primero en el estudiante porque el estudiante es el riesgo."** La mayoría de los documentos se dirigían **conjuntamente a profesorado y estudiantado (20, 51%) y no solo al estudiantado (6, 15%)**, y ni el tipo de política ni el público variaban con la modalidad de impartición. El enfoque es conjunto, lo que significa que las obligaciones son compartidas.
 - **"Una política ambigua deja intacta la experiencia estudiantil."** La ambigüedad de la política se manifiesta directamente en la **experiencia estudiantil**: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|la implicación del estudiantado con la IA generativa]] está moldeada por la incertidumbre, así que la ambigüedad es una condición activa y no una brecha neutra.
+
 ## Conceptos conectados
 - [[pedagogical-partnerships]] — alianzas pedagógicas
 - [[ai-use-disclosure]] — declaraciones de uso y divulgación de IA

@@ -101,6 +101,7 @@ ai_assist:
 - [[ai-detection]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — لماذا يختار المتعلمون الإخفاء بدلاً من الإفصاح
+
 ## المقالات المرتبطة
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — ما بعد الكشف: كيف يستخدم الطلاب الذكاء الاصطناعي ويخفونه في التقويمات عبر الإنترنت
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — إفصاح الطلاب عن الذكاء الاصطناعي والوصم والتعلّم الذاتي التنظيم

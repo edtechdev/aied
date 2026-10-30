@@ -149,6 +149,7 @@ AI वैधता को अनैतिक स्तर पर चुनौत
 - [[prior-knowledge]]
 - [[student-engagement]]
 - [[assessment]]
+
 ## संबंधित लेख
 - [[ivory-psychology-assessment-integrity-2026]] — प्रोग्राम-स्तरीय पास/फेल संवेदनशीलता और वे अंकन मानदंड जो गढ़े मानों को उत्तीर्ण करने देते हैं (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — केवल अनुमति वैधता को कम नहीं करती: संलग्नता GenAI उपयोग से अप्रभावित; प्रतिबिंब सामान्य प्रतिस्थापन का विरोध करता है

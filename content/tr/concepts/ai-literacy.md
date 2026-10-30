@@ -246,6 +246,7 @@ YZ okuryazarlığı aşırı bağımlılık açısından **çift taraflıdır**:
 - [[higher-ed]] — university-level literacy
 - [[career-development-and-readiness]] — the employability payoff AI literacy is argued to build
 - [[ai-education]] — the broader field
+
 ## Bağlı makaleler
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AI çağında erken çocukluğu biçimlendirmek: yetkinlikler, pedagoji ve ekolojik destek (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI Güvenlik Okuryazarlığı: ekosistem temelli yetkinlik çerçevesi ve K-12 öğrenme platformu

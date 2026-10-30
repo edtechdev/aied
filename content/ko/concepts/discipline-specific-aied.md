@@ -130,6 +130,7 @@ AI in education은 분야마다 다르게 나타나는데, 이는 각 분야가 
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## 연결된 문서
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — 학제 간 고등교육의 AI에 관한 체계적 검토 (59개 연구)
 - [[llms-text-linguistics-teaching-2026]] — 텍스트 언어학 교육에서의 LLM

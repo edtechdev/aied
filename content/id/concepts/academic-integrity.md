@@ -174,6 +174,7 @@ Studi Teori Perilaku Terencana pertama tentang niat pelanggaran berbasis GAIT me
 - **"Alat deteksi mengidentifikasi tulisan AI."** Teks yang dihasilkan AI telah **lolos sebagai tulisan manusia dalam hingga 80% kasus**, sementara bukti untuk deteksi menempatkan **deteksi mesin sekitar 80% berbanding 78,4% untuk penilai manusia**. Pertimbangan manusia dan mesin hampir sama (tidak) dapat diandalkannya, sehingga putusan deteksi bukanlah bukti kepengarangan.
 - **"Masalahnya marginal."** Volumenya jauh dari itu: **analisis enam tahun atas kursus CS2 dengan pendaftaran besar** menemukan **45,7% siswa Musim Semi 2026 ditandai**. Hampir setengah kohort, yang menjadikan ini masalah desain arus utama alih-alih kasus pinggiran.
 - **"Pengajar tahu penilaian mana yang rentan."** Di sebuah departemen [[biology-education|biologi]], pengajar **menganggap hanya ujian tatap muka dengan pengawasan yang minim kerentanan**, sementara tugas di luar kelas dianggap terekspos. Persepsi itu cocok dengan kasus yang jelas dan menganggap segala hal lain aman.
+
 ## Konsep Terhubung
 - [[pedagogical-patterns]] - Urutan verifikasi yang diadopsi sebagai respons terhadap AI generatif
 - [[ai-use-disclosure]] - Pernyataan penggunaan dan pengungkapan AI

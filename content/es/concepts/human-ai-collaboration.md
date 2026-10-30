@@ -122,6 +122,7 @@ La colaboración humano-IA conecta con [[human-in-the-loop-ai]] (supervisión), 
 - [[human-in-the-loop-ai]] — supervisión
 - [[agentic-ai]] — autonomía
 - [[productive-failure]]
+
 ## Artículos conectados
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Tres roles de agente en un juego narrativo de ciencias, y qué criterio de evaluación necesita cada uno (Humburg et al. 2025)
 - [[bjet-many-hands-make-light-work-2026]] — El trabajo en parejas con un sistema multiagente de IA generativa ganó el proyecto de diseño mientras la conciencia de pensamiento crítico solo aumentó en quienes trabajaron solos (Chu et al. 2026)

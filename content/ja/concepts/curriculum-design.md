@@ -121,6 +121,7 @@ K-12のML活動デザインは表層にとどまります。ICE-T枠組みの背
 - [[collaborative-learning]]
 - [[pedagogy]] — 包括概念:AI教育における教授法と教授戦略
 - [[recommender-systems-and-learning-paths]]
+
 ## 関連する記事
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 認定のための、重みづけられ専門家に検証された技能の写像
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAIによる構成的整合の助言の批判的言説分析(McInnes他 2026)

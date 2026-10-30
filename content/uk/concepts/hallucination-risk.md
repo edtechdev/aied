@@ -69,6 +69,7 @@ ai_assist:
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## Пов’язані статті
 - [[frontiers-gai-hallucination-dependence-2026]] — Позначення діалогу GAI як вигаданого знизило довіру та залежність разом
 - [[ivory-psychology-assessment-integrity-2026]] — Вигадані цитування та самосуперечливі результати всередині прохідної студентської роботи (Ivory et al. 2026)

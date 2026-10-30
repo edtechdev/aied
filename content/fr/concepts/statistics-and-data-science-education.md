@@ -80,6 +80,7 @@ La qualité de l'étayage compte indépendamment de l'accès. Une comparaison ex
 - **« La satisfaction et le bénéfice perçu indiquent qu'un outil d'IA pour la science des données fonctionne. »** Les étudiants ont massivement utilisé les LLM pour le débogage et les questions de concept et **ont déclaré une satisfaction élevée, tandis que leur bénéfice perçu en matière d'apprentissage profond diminuait au fil du semestre**. La satisfaction s'est maintenue et la trajectoire d'apprentissage auto-évaluée a chuté : aucun des deux chiffres n'est à lui seul le résultat.
 - **« Un modèle non restreint vaut un tuteur guidé. »** Une comparaison expérimentale a constaté qu'un **entraînement explicite à un étayage centré sur le raisonnement — indices par étapes, vérification — produisait une meilleure performance autonome** qu'un accès non restreint. C'est l'accompagnement, et l'entraînement à s'en servir, qui portaient l'effet.
 - **« Se prémunir contre la fourniture de réponses suffit. »** Un tuteur conçu sur mesure autour d'une API hébergée, avec une invite système le portant à **guider plutôt qu'à répondre**, a été déployé dans un cours R d'un semestre destiné à des étudiants de premier cycle en psychologie, **où 76% à 84% des étudiants l'ont utilisé lors des semaines comptant pour l'examen. C'est une adoption, non la preuve que la protection a produit un apprentissage :** La protection au niveau de l'invite est un levier parmi d'autres et ne produit pas à elle seule de l'apprentissage.
+
 ## Concepts liés
 
 - [[math-education]]

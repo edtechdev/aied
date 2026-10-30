@@ -124,6 +124,7 @@ Un problème récurrent est que l'« apprentissage personnalisé » est un terme
 - [[higher-ed]] — Contexte d'enseignement supérieur pour la personnalisation
 - [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
 - [[recommender-systems-and-learning-paths]]
+
 ## Articles liés
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Régénération de vidéos de cours personnalisées par industrie à partir d'une transcription source : adaptation au niveau de l'audience, notée par des experts du domaine (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Micro-personnalisation par ingénierie d'invites d'un assistant d'enseignement IA (Basu, Kakar & Goel 2026)

@@ -186,6 +186,7 @@ Un tutorat efficace exige une adaptation continuelle : [[zhang-tutormoments-2026
 - [[guardrails]]
 - [[k-12]]
 - [[speech-and-voice-technologies]]
+
 ## Articles liés
 
 - [[ai-proof-learning-cognitive-offloading-2026]] — Soutenir ou remplacer le raisonnement des étudiants ? Le délestage cognitif dans l'apprentissage assisté par l'IA des preuves mathématiques (Chen et al. 2026)

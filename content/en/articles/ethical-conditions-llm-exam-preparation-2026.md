@@ -38,5 +38,6 @@ page_kind: [evaluation]
 - Program scope: participants came from social science-related programs, which restricts generalizability to other educational domains such as STEM disciplines.
 - Cultural scope: only Spanish participants were surveyed, which limits applicability to culturally distinct environments where the influence of predictors on intention to use can differ.
 - The study is cross-sectional, measuring perceptions and behavior at a single point in time, and its model includes only ethical antecedents, omitting [[learning-gains|academic performance]], institutional pressure, and digital literacy.
+
 ## Citation
 Pérez-Portabella, A., Arias-Oliva, M., Padilla-Castillo, G., & de Andrés-Sánchez, J. (2026). [Ethical conditions for university students' adoption of large language models in exam preparation contexts](https://doi.org/10.1016/j.caeo.2026.100323). *Computers and Education Open, 10*, 100323.

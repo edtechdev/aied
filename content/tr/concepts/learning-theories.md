@@ -79,6 +79,7 @@ Son kuramsal çalışma, klasik çizgiyi birçok yönde genişletir ve her biri 
 Öğrenme kuramları [[ai-literacy|YZ okuryazarlığı]] öğretim programlarında aynı zamanda içerik olarak görünür: öğrenenler, kullandıkları araçların ardındaki [[pedagogy|pedagojik]] varsayımları anlamak için davranışçılık, bilişselcilik, yapılandırmacılık ve bağlantıcılığı inceler.([[generativism-learning-theory]]) Bu çizgiyi öğretmek, öğrencilere (ve eğitimcilere) bir YZ ürününün neden bu şekilde kurulduğunu eleştirmek için sözlük verir — ve mekaniklerinin elindeki öğrenme hedefine hizmet edip etmediğini.
 
 - **Aracılayıcı etken.** Warschauer, Tate ve Ritchie (2026), üretken YZ’nin aracılayıcı araçlar ile sosyal etkileşim arasındaki sosyokültürel ayrımı bozduğunu savunur ve *aracılayıcı etken*i önerir — hem eylemi aracılandıran hem de koşullu, hesap verilemez katkılar üreten, bir araç ile bir sosyal ortak arasında hibrit bir alan işgal eden bir sistem. Bu, insan öncelikli beş katılım alışkanlığı doğurur (insan bilişinin önceliği, amaçlı [[student-engagement|angajman]], gözetimci etkenlik, epistemik tetikte olma, yansıtıcı öz düzenleme).([[generative-ai-mediational-agent-sociocultural-2026]])
+
 ### YZ çağı için önerilen kuramlar
 
 Klasik ailelerin yanında, bilgi tabanı özellikle YZ sistemleriyle öğrenme için yazılmış kuramları belgeler ve bunlar eski kuramların açık bıraktığı tasarım çıkarımlarını taşır. [[yan-agentivism-learning-theory-ai-2026|Etkencilik (Yan ve Gašević 2026)]] orta erimli bir örnektir: öğrenmeyi başarılı görev tamamlamadan çok insan yeteneğinde kalıcı büyüme olarak tanımlar, dört mekanizma adlandırır (devredilmiş etkenlik, epistemik izleme ve doğrulama, yeniden yapılandırıcı içselleştirme ve azalan destek altında transfer) ve altı sınanabilir önerme belirtir; bunlardan biri, problem çerçeveleme, ölçüt belirleme ve gerekçelendirme konusunda öğrenen sorumluluğunu koruyan YZ desteğinin, cevap sunan destekten daha güçlü öğrenme ürettiğidir.
@@ -111,6 +112,7 @@ Klasik ailelerin yanında, bilgi tabanı özellikle YZ sistemleriyle öğrenme i
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Bağlı makaleler
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 

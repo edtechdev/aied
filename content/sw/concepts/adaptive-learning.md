@@ -94,6 +94,7 @@ Kujifunza kufaa mara nyingi huchanganyika na [[personalized-learning|kujifunza k
 - [[behaviorism]]
 - [[ai-technologies]] — Kiolezo: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, mawakala)
 - [[recommender-systems-and-learning-paths]]
+
 ## Makala Zilizounganishwa
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Kupita kiasi kwa udanganyifu: ustadi unaokufaa unaweza kuacha mazoezi kabla ya wanafunzi kujua lini kuzuia hatua (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — Ufundishaji wa AI si Moja: Tulicho Jua Kweli (hati fupi ya Stanford SCALE/NSSA)

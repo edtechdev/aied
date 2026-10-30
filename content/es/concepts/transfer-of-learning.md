@@ -123,6 +123,7 @@ La transferencia del aprendizaje conecta con la [[metacognition|metacognición]]
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — Fracaso productivo
+
 ## Artículos conectados
 - [[yan-agentivism-learning-theory-ai-2026]] — Una teoría de rango medio del aprendizaje para la interacción humano-IA, con cuatro mecanismos y seis proposiciones contrastables (Yan y Gašević 2026)
 

@@ -85,6 +85,7 @@ AES сидить на перетині [[automated-assessment]], [[writing-educa
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## Пов’язані статті
 
 - [[reflection-level-classification-hungarian-essays-2026]] — Automatic Reflection Level Classification in Hungarian Student Essays

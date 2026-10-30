@@ -82,6 +82,7 @@ A [[productive-failure|falha produtiva (FP)]] compartilha o núcleo [[constructi
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — Falha produtiva
+
 ## Artigos conectados
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Aprendizagem baseada em problemas e baseada em projetos como frameworks promissores para a educação apoiada por IA generativa: evidência emergente de uma revisão sistemática e meta-análise de três níveis
 

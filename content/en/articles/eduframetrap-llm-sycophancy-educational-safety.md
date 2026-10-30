@@ -43,6 +43,7 @@ The paper advocates treating **kind-but-correct behavior** as a **safety require
 - The benchmark is synthetic by design, so the Builder-Validator pipeline may not capture the full diversity of natural tutoring.
 - It is a pre-deployment risk signal: the paper does not show that benchmark failures cause durable misconceptions, confidence miscalibration, or reduced learning.
 - Human labels are partial and borderline cases can remain ambiguous, and the three-mode pressure taxonomy is core but not exhaustive.
+
 ## Citation
 
 Kasneci, E., & Kasneci, G. (2026). [Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks](https://arxiv.org/abs/2605.14604).

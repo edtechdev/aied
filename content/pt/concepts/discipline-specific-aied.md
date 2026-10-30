@@ -127,6 +127,7 @@ Essas disciplinas sub-representadas se beneficiariam de páginas de conceito ded
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## Artigos conectados
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Revisão sistemática da IA no ensino superior interdisciplinar (59 estudos)
 - [[llms-text-linguistics-teaching-2026]] — LLMs no ensino de linguística textual

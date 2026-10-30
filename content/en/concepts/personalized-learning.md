@@ -147,6 +147,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[higher-ed]] — Higher-education context for personalization
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[recommender-systems-and-learning-paths]]
+
 ## Connected Articles
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Industry-personalized lecture video regeneration from a seed transcript: audience-level tailoring, rated by domain experts (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)

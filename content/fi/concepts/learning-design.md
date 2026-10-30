@@ -106,6 +106,7 @@ Fowlin et al. (2026) lisäävät operationaalisen liikkeen sen päättämiseen, 
 - **"Tekoälyn oppituntisuunnittelu palauttaa aikaa opettajille."** Suunnitteluaika laski 3,32 tunnista viikossa 2,51 tuntiin työkalun kanssa, mutta **mediaaniopettaja suunnitteli vain 21-40 % oppitunneista tyhjästä**. Aikaa säästyi eikä suunnittelusta tullut olennaisesti perusteellisempaa: säästö kertyi sen sijaan että se olisi sijoitettu uudelleen.
 - **"Yhteissuunnittelu tekoälyn kanssa on vahvasti näyttöön perustuvaa."** Systemaattinen katsaus [[wang-teacher-ai-co-design-review-2026|opettajan ja tekoälyn yhteissuunnitteluun oppimistehtävissä]] **vahvistaa kuvion laajassa mittakaavassa 28 tutkimuksen yli**, mikä kuvaa johdonmukaista käytäntöä eikä osoita parempia tuloksia.
 - **"Arviointikriteeristö on kiinteä syöte."** Kriteeristö toimii **välittävänä rajapintana inhimillisen pedagogisen aikomuksen ja koneen päättelyn välillä**: juuri kriteerien kohteleminen **muokattavina** antaa instrumentin kantaa kasvattajan aikomuksen. Kiinteä kriteeristö siirtää koneen oletuskehyksen arviointiin.
+
 ## Liittyvät käsitteet
 
 - [[interpreting-and-applying-aied-research]]

@@ -106,6 +106,7 @@ L'évaluation formative en éducation par l'IA rejoint le processus d'apprentiss
 
 - **La notation par l'IA ajoute une menace pesant sur la validité.** Parce qu'un correcteur doté d'IA peut récompenser des caractéristiques indépendantes du construit, telles que la fluidité langagière, plutôt que le raisonnement scientifique, un livre blanc de Stanford/ETS distillé d'une réunion rassemblant environ 100 dirigeants soutient que l'évaluation devrait accumuler des preuves continues et riches de contexte plutôt que de certifier des productions ponctuelles ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 - **Conserver la tâche vulnérable et ajouter un jumeau.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] soutiennent que les dissertations à la maison et les rapports de recherche portent une valeur formative substantielle et devraient être conservés pour l'apprentissage, associés à une seconde tâche évaluant les mêmes résultats et fournissant des preuves sommatives fiables.
+
 ## Risque : l'évaluation comme surveillance
 
 Les systèmes d'évaluation formative peuvent passer d'outils de soutien à l'apprentissage à une infrastructure de surveillance des comportements. Les mêmes flux de données qui permettent le tutorat adaptatif peuvent permettre un suivi punitif si la [[governance|gouvernance]] est faible. Cela rejoint la [[privacy|vie privée]] et le [[well-being|bien-être des étudiants]], et plaide en faveur de systèmes formatives qui soutiennent l'apprentissage plutôt qu'ils ne le surveillent.

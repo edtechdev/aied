@@ -37,6 +37,7 @@ methods: [quantitative-research]
 - High-school learning climate was measured through retrospective reports from university students rather than observed or concurrent measures.
 - Outcomes such as perceived AI-supported learning quality, [[well-being]], and academic performance are self-reported perceptions rather than objective records of use or attainment.
 - Scalar-level measurement invariance supported cross-group comparison, but multi-group differences were concentrated in specific links and the context base is limited to the sampled China and Thailand groupings.
+
 ## Citation
 
 Shen, Q., & Arunrugstichai, W. (2026). [How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis](https://www.sciencedirect.com/science/article/pii/S2666920X26001013). *Computers and Education: Artificial Intelligence*, 10, 100621.

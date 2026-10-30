@@ -128,6 +128,7 @@ Kun tekoäly ottaa haltuunsa rutiininomaisia opetus- ja arviointitehtäviä, ope
 - **Tue institutionaalista kerrosta:** kestävä opettajan osaaminen edellyttää yhdenmukaista politiikkaa, hallintoa ja kapasiteettia, ei erillistä koulutusta.
 
 - **Opettajan digitaalinen kompetenssi GenAI:n [[curriculum-design|opetussuunnittelussa]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validoi TAM-pohjaisen diagnostiikkamittarin 434 työssä olevalla opettajalla; käyttäytymisaikomus oli tärkein digitaalisen kompetenssin ennustaja GenAI:n käytölle opetussuunnitelman suunnittelussa, ja itsetehokkuus oli juuritekijä.
+
 ### Psykometrinen mittari opettajan tekoälyosaamiselle
 
 - Psykometrinen tutkimus kehitti Teachers' AI Literacy Scale (TAILS) -mittarin mittaamaan tekoälylukutaitoa erityisesti [[teacher-education|kieltenopettajien koulutuksessa]] operationalisoiden ED-AI-kehyksen kuusi ulottuvuutta. Mittarin kehittäminen täyttää aukon arvioinneissa, jotka kohdistuvat opiskelijoihin tai yleiskäyttäjiin, ja tukee opettajan tekoälyosaamisen mittaamista.
@@ -139,6 +140,7 @@ Mittaristoa itsessään on sittemmin arvioitu katsauksessa. [[assessing-teachers
 - **"Kehoteharjoittelu parantaa opettajien materiaaleja."** **Kehoteharjoittelu ostaa aikaa, ei parempia materiaaleja**: **esirekisteröidyssä RCT:ssä 204 opettajan kanssa** Appel, Fervers ja Piepenburg (2026) havaitsivat ChatGPT:n parantaneen **käytettyä aikaa**, kun taas materiaalin laatu ei seurannut perässä. Tehokkuusvoitto on todellinen, eikä se ole laatavoitto.
 - **"Kun opettajat konfiguroivat chatbottia, epäonnistuminen on faktavirhe."** **Kun opettajat konfiguroivat chatbottia luonnollisella kielellä, hallitseva epäonnistuminen on kadonnut tarkoitus eikä väärät faktat**: botit **ohittavat** sen vaiheen, jonka opettaja tarkoitti. Ohjeiden noudattaminen epäonnistuu rakenteellisesti eikä faktuaalisesti.
 - **"Tekninen taito on ratkaiseva kerros."** **Pedagoginen tieto on ratkaiseva kerros**: poikkitasoinen tutkimus toisen asteen [[ai-education|tekoälykoulutuksesta]] [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Se osaaminen, joka määrää lopputuloksen, on se, johon useimmat koulutusohjelmat panostavat vähiten.
+
 ## Liittyvät käsitteet
 
 - [[ai-literacy]]

@@ -135,6 +135,7 @@ AI와 함께하는 학문적 진실성은 단속의 문제가 아니라 *설계*
 - **학습 설계자로서의 교사.** [[learnai-just-in-time-ai-cocreation-university-2026|LearnAI]]와 [[teacher-authored-prompts-student-ai-dialogue|교사가 직접 작성한 프롬프트 설계]]는 강사가 설계자로 기능함을 보여줍니다: 활동, AI의 역할, 학습을 구조화하는 비계를 명시하는 사람으로서. 이것이 사용의 지점에서 실행되는 [[learning-design]]입니다.
 - **학습 설계 원칙이 AI 교수학을 관장한다.** 같은 [[learning-design]] 원칙 — 명확한 목표, 정렬된 평가, [[scaffolding]], [[feedback]] — 이 AI가 돕느냐 해치느냐를 결정합니다. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]는 이론 없는 [[prompt-engineering|프롬프팅]]보다 공식적 교수 설계 모델에 토대를 둔 AI 설계가 우월함을 실증적으로 검증합니다.
 - **교사의 조율을 위한 설계.** 효과적인 AI 학습 환경은 *교사를 염두에 두고* 설계됩니다 — [[prezenski-human-centered-ai-aided-learning|인간 중심 AI]]가 제공하는 도구는 교사의 업무량을 줄이고 판단을 보강해야 하며, 또 하나의 불투명한 블랙박스를 더해서는 안 됩니다. 강사들이 AI 학습 활동을 공동 설계할 때([[activity-theory-teachers-adoption-ai-sem-2026|활동 이론 관점]]), 도입과 질이 모두 향상됩니다.
+
 ## 학습자 정체성과의 관계
 
 교사 역할과 [[learner-identity]]는 같은 인간 과정의 상호 보완적인 양면이며, AI는 둘 모두를 재편합니다.

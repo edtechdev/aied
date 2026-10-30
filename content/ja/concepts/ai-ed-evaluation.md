@@ -131,6 +131,7 @@ AI教育の評価の中心的な対象は、**学習の伸び（learning gain）
 - [[hallucination-risk]] — AI出力における捏造コンテンツのリスク
 - [[intelligent-tutoring]] — AIチュータリングシステムの評価
 - [[agentic-ai]] — 自律的AIエージェント行動の評価
+
 ## 関連記事
 - [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：困難な振る舞いをする学生に対してLLMのチューターを評価する（Park et al. 2026）
 - [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench：オンラインのチューリング動画における教授法的な偶発性の理解を診断する

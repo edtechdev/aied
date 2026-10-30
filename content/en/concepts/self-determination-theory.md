@@ -62,6 +62,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - **"Motivation type matters less than motivation amount."** A year-long study found **three motivational profiles — Disengaged, Developing, Self-Determined — stable over time**, and students who reached the **Self-Determined** profile showed the **greatest [[ai-literacy]] gains**. The quality of motivation predicted the learning, and the profiles did not simply drift upward.
 - **"Autonomy support means removing structure."** The SDT mechanism is autonomy, competence and relatedness together, and the longitudinal evidence shows that satisfying them predicted gains rather than merely accompanying them. Autonomy without competence support is permissiveness, and it does not satisfy the theory's conditions.
 - **"A chatbot can supply the three needs automatically."** A study found ChatGPT could support autonomy, relatedness and competence in language learning — a possibility, not a property. Whether a given interaction supports them is an empirical question about how it is used.
+
 ## Connected Concepts
 
 - [[motivation]]
@@ -76,6 +77,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## Connected Articles
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)

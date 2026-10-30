@@ -167,6 +167,7 @@ The first Theory of Planned Behavior study of GAIT-based misconduct intention ex
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
 - **"The problem is marginal."** The volume is far from it: a **six-year analysis of a large-enrollment CS2 course** found **45.7% of Spring 2026 students flagged**. Nearly half a cohort, which makes this a mainstream design problem rather than an edge case.
 - **"Instructors know which assessments are vulnerable."** In a [[biology-education|biology]] department, instructors **perceived only in-person proctored exams as minimally vulnerable**, while outside-of-class assignments were seen as exposed. The perception matched the obvious case and treated everything else as safe.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — Verification sequences adopted in response to generative AI
 - [[ai-use-disclosure]] — AI use and disclosure statements

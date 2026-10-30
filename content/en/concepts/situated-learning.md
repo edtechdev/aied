@@ -47,6 +47,7 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 - **"Authenticity is a property of the task."** Authenticity is a relation between the activity and a real community's legitimate work. A task can be elaborate and still be school-shaped — assessed by a teacher, for a grade, with no consequence in the world it claims to represent.
 - **"Assessment emerging from the task means no assessment."** It means the criterion is the community's, not the classroom's: whether the work is acceptable to people who do the work. That is a different and usually stricter standard than a rubric.
 - **"Apprenticeship requires a physical setting."** The mechanism is legitimate peripheral participation — moving from the edge of a practice toward its center with real responsibility. Online and simulated settings can support it or can simulate the periphery without ever granting participation, and the difference is whether the learner's contribution is actually used.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 - [[learning-theories]]

@@ -136,6 +136,7 @@ Bilgi tabanının yöntem manzarası içinde, meta-analiz ve sistematik derleme 
 ## Sağlık Senaryo Öğrenmesinde Üretken YZ
 
 - **Sağlık senaryo öğrenmesinde üretken YZ’nin PRISMA 2020 derlemesi.** Neto ve meslektaşları (2026), sağlık eğitiminde senaryo, vaka, problem- ve [[simulation]]-temelli akran hakemli üretken YZ çalışmaları için beş veri tabanını (9 Kasım 2025) sistematik olarak aradı; 1.151 kaydı, [[mixed-methods-research|Karma Yöntemler]] Değerlendirme Aracı (MMAT) ile değerlendilen 23 dâhil çalışmaya süzdü. Tematik sentezleri, [[prompt-engineering|istek metni tasarımını]] öğretim belirtimi olarak temel alan altı kesişen tema ortaya çıkardı ve doğrulama standartlaşmasındaki, boylamsal/karşılaştırmalı tasarımlardaki ve verimlilik nicelemendeki boşlukları belgeledi — titiz bir [[medical-education|alana özgü]] üretken YZ sistematik derlemesi için bir şablon.
+
 ## Bağlı Kavramlar
 
 - [[interpreting-and-applying-aied-research]]

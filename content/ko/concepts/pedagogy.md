@@ -124,6 +124,7 @@ ai_assist:
 - [[higher-ed]]
 - [[k-12]]
 - [[llm-training-and-fine-tuning]] — 교수법적 원칙을 따르도록 훈련된 AI 도구
+
 ## 연결된 문서
 - [[genai-didactic-pedagogical-mediator-2026]] — 교수법적-교수적 매개자로서의 GenAI: 교수자–학습자–GenAI 삼원 모델(Moganadas 외 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — '교수법 우선, 기술은 다음' — 교수법적 TPAIK가 기술적 TAIK보다 학생 성과를 앞지른다(Shen 외 2026)

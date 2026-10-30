@@ -33,6 +33,7 @@ The study addresses who is embracing LLMs for [[self-directed-learning|self-dire
 - **Learners.** Calibrate trust rather than switching it on or off: reported reliance came alongside distrust of accuracy and privacy, so check outputs and check what a tool does with what you tell it.
 - **Designers.** Support that calibration directly with source provision and transparency features, and build for varied task-device combinations instead of one interface for everyone — the four learner types the study identifies argue against a single design.
 - **Designers.** Consider multimodal and collaborative features for self-regulated, informal use, since so much AI-mediated learning now happens outside formal curricula and the shape of that learning differs from classroom study.
+
 ## Limitations
 
 - **Single-country, self-selected sample.** Recruited exclusively from Germany via Prolific, the sample may overrepresent tech-savvy, English-fluent individuals (mean [[ai-literacy|AI literacy]] score = 3.06), and cultural attitudes toward AI vary, so findings may not generalize to non-Western or less tech-savvy populations.

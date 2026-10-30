@@ -84,6 +84,7 @@ SDT 直接与 [[motivation]] 相连（作为其母构念），与 [[affective-co
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## 关联文章
 - [[family-school-autonomy-support-genai-2026]] — 面向儿童负责任使用生成式 AI 的家校自主支持
 - [[dual-ai-learning-pathways-sdt-2026]] — 高中压力／自主支持与双 AI 学习路径（Shen & Arunrugstichai 2026）

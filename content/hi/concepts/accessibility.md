@@ -100,6 +100,7 @@ ai_assist:
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — अति-व्यापक नियमों, दोषपूर्ण प्रमाण और उचित समायोजन के लिए छत्र पृष्ठ
 - [[arts-design-and-media-education]]
+
 ## संबंधित लेख
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100 elite विश्वविद्यालयों में से 0% एक एआई-सुगम्यता नीति प्रकाशित करते हैं जबकि 93% एआई कैंपस सेवाएँ तैनात करते हैं
 - [[shin-ai-policies-sld-2026]] — विशिष्ट शिक्षण विकलांगताओं वाले छात्रों के लिए एआई नीतियाँ और सुविधाएँ

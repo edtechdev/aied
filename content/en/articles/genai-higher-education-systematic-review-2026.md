@@ -64,6 +64,7 @@ Three meta-level findings frame the review's interpretation. First, a **curricul
 - **Administrators.** Fund [[educational-development]] at the same priority as tool procurement: 60–70% of instructors felt inadequately prepared to integrate GenAI, and institutional investment correlated only weakly (r = 0.12) with actual pedagogical transformation. The same budget decision applies to integrity: refuse AI-detection tools as the integrity response, since false-positive rates reached 30–50% for certain writing styles and fell disproportionately on non-native English speakers and [[neurodiversity|neurodivergent]] students, while simple prompting strategies drove detection to near zero.
 
 - **Researchers.** Target equity-focused and [[rct|experimental]] designs: only 23 of 125 studies (18.4%) came from [[global-south|Global South]] contexts, and survey research (n = 47, 37.6%) dominated a corpus that needs randomized, validated-outcome studies of whole-institution implementations.
+
 ## Limitations
 
 - Of the 125 included studies, 37.6% (n = 47) were quantitative surveys, so self-report bias and social-desirability effects carry much of the evidence, while experimental designs with randomization, control conditions, and validated outcome measures remained scarce.

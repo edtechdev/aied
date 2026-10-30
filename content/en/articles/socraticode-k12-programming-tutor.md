@@ -15,6 +15,7 @@ confidence: medium
 ---
 
 > **Synthesis:** Socratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.
+
 ## Synthesis
 > SocratiCode demonstrates a [[design-based-research|participatory design]] evolution from a directive AI tutor to a Socratic [[pedagogical-agent|learning companion]] for K-12 [[cs-education|programming]] instruction. Over four weeks with two [[k-12]] Python learners, the system shifted from flexible tutorial generation toward dialogic support: guided questioning instead of answers, reflection prompts, misconception checks, incremental hints, and mandatory pauses requiring learner input. This Socratic shift improved [[learning-gains|explanation clarity]] and [[problem-solving]] [[student-engagement|engagement]]. The findings directly reinforce a [[socratic-method|Socratic]] discovery-based approach over direct answer generation, but extend it to the K-12 context where [[cognitive-offloading|cognitive load]] concerns are particularly acute. The emphasis on mandatory pauses and reflection aligns with [[metacognition]] and [[self-regulated-learning]] [[scaffolding]] strategies. The authors argue that AI tutoring is most effective as a companion within a human-guided framework, not an answer engine — a principle that resonates with the [[human-in-the-loop-ai]] architecture and the findings from [[structured-llm-feedback-programming]] that less guided feedback may be more effective.
 

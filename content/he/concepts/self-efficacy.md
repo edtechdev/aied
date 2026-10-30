@@ -75,6 +75,7 @@ ai_assist:
 - [[educational-robotics|רובוטיקה חינוכית]]
 - [[self-report-measures|אמצעי דיווח עצמי]]
 - [[social-emotional-learning|למידה חברתית-רגשית]] — למידה חברתית-רגשית
+
 ## מאמרים מקושרים
 - [[confident-but-absent-ai-use-absenteeism-2026]] — שימוש כללי ב-AI נודד עם יעילות עצמית גבוהה יותר והיעדרות גבוהה יותר, אך יעילות עצמית לא חזה נוכחות (Franco et al. 2026)
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — צ'אטבוטים של AI בהשכלה גבוהה: השוואה של ציפיות לראיות (Thoeni & Fryer 2026)

@@ -39,6 +39,7 @@ These approaches enhance students' ability to [[ai-literacy|use AI effectively]]
 ## Balancing AI and human mentorship
 
 The conclusion is emphatic: incorporating AI **should not diminish [[teacher-role|the role of educators]]**. [[teacher-role|Educators]] play an irreplaceable role in interpreting AI outputs, contextualizing knowledge, and integrating [[ethics|ethical considerations]] into the [[curriculum-design|curriculum]]. The goal is a learning environment where **AI complements traditional teaching** — preparing students not just to use technology effectively but to develop the [[critical-thinking|critical-thinking skills]] to use it *wisely*, upholding high ethical standards in the [[biology-education|biological sciences]].
+
 ## What this means for practice
 
 - **Instructors.** Make verification the graded task: require students to treat every AI output as a hypothesis and check it against primary literature or their own data before it enters a lab report or assignment.

@@ -112,6 +112,7 @@ Lerntransfer verbindet sich mit [[metacognition|Metakognition]] (Selbstüberwach
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — Produktives Scheitern
+
 ## Verbundene Artikel
 - [[yan-agentivism-learning-theory-ai-2026]] — Eine mittlere Lerntheorie für die Mensch-KI-Interaktion, mit vier Mechanismen und sechs prüfbaren Propositionen (Yan und Gašević 2026)
 

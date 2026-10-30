@@ -158,6 +158,7 @@ Zhao एवं सहयोगी (2026) हर [[zhao-deeptutor-agentic-persona
 - [[higher-ed]] — व्यक्तिगतकरण के लिए उच्च-शिक्षा संदर्भ
 - [[online-teaching-and-learning]] — ऑनलाइन शिक्षण और शिक्षा
 - [[recommender-systems-and-learning-paths]]
+
 ## संबंधित लेख
 - [[bespoke-industry-personalized-lecture-videos-2026]] — बीज प्रतिलेख से उद्योग-व्यक्तिगत व्याख्यान वीडियो का पुनर्निर्माण: दर्शक-स्तर अनुकूलन, डोमेन विशेषज्ञों द्वारा मूल्यांकित (Puech एवं सहयोगी 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — एक AI शिक्षण सहायक का संकेत-अभिकल्प सूक्ष्म-व्यक्तिगतकरण (Basu, Kakar & Goel 2026)

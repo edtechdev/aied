@@ -117,6 +117,7 @@ Two specific reporting practices inflate or distort a synthesis, and both are vi
 - **"Limitations sections are boilerplate."** Methodological limits are **measurable rather than impressionistic**: in a critical review of **80 HCI studies** of critical thinking with AI, **42 (52%) ran no control group**. A precise count is what makes the limit actionable.
 - **"Heterogeneity is a single number you can quote."** The same review shows a reporting hazard: heterogeneity is quoted as **I² = 82.98% under a fixed-effect model and I² = 15.75% under the random-effects model**. The same data yields a nine-point story or a two-point story depending on the model chosen, so a quoted I² without its model is uninterpretable.
 - **"A large reported effect is the number to trust."** A headline like an effect from **30 students in one course at one site** is the common form of a fragile claim, and the count of studies without controls shows how often that fragility goes unreported.
+
 ## Connected Concepts
 
 - [[interpreting-and-applying-aied-research]]
@@ -134,6 +135,7 @@ Two specific reporting practices inflate or distort a synthesis, and both are vi
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — Theory Development in AI in Education
+
 ## Connected Articles
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — AI chatbots in higher education: comparing expectations to evidence (Thoeni & Fryer 2026)
 

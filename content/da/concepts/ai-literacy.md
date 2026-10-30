@@ -250,6 +250,7 @@ For kritisk AI-kompetence specifikt viser [[solyst-youth-systematic-evaluation-g
 - [[higher-ed]] — universitetsniveau-kompetence
 - [[career-development-and-readiness]] — det beskæftigelsesmæssige udbytte, AI-kompetence argumenteres for at opbygge
 - [[ai-education]] — det bredere felt
+
 ## Forbundne artikler
 - [[early-childhood-ai-holistic-competencies-review-2026]] — At forme den tidlige barndom i AI-tidsalderen: kompetencer, pædagogik og økologisk støtte (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-sikkerhedskompetence: økosystembaseret kompetenceramme og læringsplatform til K-12

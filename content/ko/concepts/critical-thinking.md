@@ -102,6 +102,7 @@ ai_assist:
 - [[chemistry-education]] — 화학 교육과 AI: 실험실, 형성평가, LLM의 한계, 실험의 철학
 - [[biology-education]] — 생물 교육과 AI: 실험실 조교, 생물에서의 AI 리터러시, 비판적 사고, 전문 도구
 - [[cognitive-surrender]]
+
 ## 연결된 문서
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30명 전문가 합의: 비판적 사고가 이 보고서에서 가장 높은 교란 평정을 받는다(평균 4.00)
 - [[pearls-epistemic-verification-2026]] — 인식론적 주체성과 AI 산출물 검증을 위한 PEARLS 프레임워크(Wang 2026)

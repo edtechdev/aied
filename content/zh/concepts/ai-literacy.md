@@ -244,6 +244,7 @@ AI 素养对过度依赖是 **双刃的**：[[student-dependency-on-ai-literacy-
 - [[higher-ed]] — 大学层面的素养
 - [[career-development-and-readiness]] — AI 素养被论证要建立的就业回报
 - [[ai-education]] — 更广阔的领域
+
 ## 关联文章
 - [[early-childhood-ai-holistic-competencies-review-2026]] — 在 AI 时代塑造幼儿：能力、教学法与生态支持（Pei 2026）
 - [[ai-security-literacy-k12-framework-2026]] — AI 安全素养：基于生态系统的能力框架与 K-12 学习平台

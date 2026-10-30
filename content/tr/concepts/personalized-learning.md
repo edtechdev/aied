@@ -123,6 +123,7 @@ Kişiselleştirme, bir insan sunucunun önüne geçebilir: geniş çapta bir çe
 - [[higher-ed]] — Kişiselleştirme için yükseköğretim bağlamı
 - [[online-teaching-and-learning]] — Çevrimiçi Öğretim ve Öğrenme
 - [[recommender-systems-and-learning-paths]]
+
 ## Bağlı makaleler
 
 - [[bespoke-industry-personalized-lecture-videos-2026]] — Tohum metninden sektöre özgü ders videosu yeniden üretimi: kitle düzeyinde uyarlama, alan uzmanları tarafından değerlendirildi (Puech ve ark. 2026)

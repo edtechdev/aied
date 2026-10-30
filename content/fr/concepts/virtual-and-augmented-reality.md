@@ -96,6 +96,7 @@ La même logique explique pourquoi la présence n'est pas automatiquement bonne.
 - [[cognitive-offloading]] — la latence et l'instabilité comme charge extrinsèque
 - [[edtech-platform]] — la synchronisation, la latence et la présence multi-sites
 - [[arts-design-and-media-education]]
+
 ## Articles liés
 
 - [[genai-ar-physics-simulation-prompt-2026]] — une invite à quatre éléments générant des simulations de physique AR contrôlées par la main ; pilote à 29 étudiants, données relevant uniquement de la perception

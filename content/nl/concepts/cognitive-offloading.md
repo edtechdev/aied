@@ -170,6 +170,7 @@ Dezelfde logica maakt het vormgeven van beloningen tot een ontwerpgereedschap: [
 - **"Promptvolume meet offloading."** **97 leerlingen** werden geclusterd naar promptvolume, en **de volumeclusters verschilden niet significant in lokaal-versus-globaal of actieve-rolprompting**. Prompts tellen telde activiteit, niet de verdeling van cognitief werk.
 - **"Studenten gebruiken AI vooral om te begrijpen."** **Analyze voerde de verdeling aan met 27,28% (831 berichten) vóór Understand met 23,76%** - het eerste fijnmazige bewijs dat naturalistische [interactie tussen student en AI] analytisch is gericht in plaats van op begrip.
 - **"Promptsporen onthullen of er is geoffload."** Wat promptsporen niet kunnen leveren, komt uit een **subsample van 16 studenten met gekoppelde cijfers, waarvan de 1.140 berichten handmatig werden gecodeerd**: **49,6% van 125 dialogen vertoonde helemaal geen offloading**. Spoorpatronen overschatten offloading ten opzichte van handmatig gecodeerde dialoog.
+
 ## Verbonden concepten
 
 - [[pedagogical-patterns]] - Het risico dat elke inspanning-eerst-sequentie probeert te vermijden

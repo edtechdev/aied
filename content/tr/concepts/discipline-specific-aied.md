@@ -128,6 +128,7 @@ Bu yetersince temsil edilmeyen disiplinler, bilgi tabanı büyüdükçe ayrılm�
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## Bağlı makaleler
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Disiplinler arası yükseköğretimde YZ’ye ilişkin sistematik derleme (59 çalışma)
 - [[llms-text-linguistics-teaching-2026]] — Metin dilbilimi öğretiminde LLM’ler

@@ -111,6 +111,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Artigos conectados
 - [[lund-socially-accountable-data-science-xai-2026]] — Um framework de quatro pilares (responsividade, responsabilidade, aplicação, reflexividade) para ensinar XAI como prática de responsabilização (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Desenho sensível a valores de um ITS centrado no estudante (explicações colaborativas versus brutas)

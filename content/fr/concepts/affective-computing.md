@@ -60,6 +60,7 @@ L'informatique affective se situe à l'intersection du [[affective-tutoring|tuto
 - **Agents d'évaluation émotionnellement intelligents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un [[conversational-ai|agent conversationnel]] émotionnellement intelligent augmenté par [[llm|LLM]], a réduit l'anxiété et la pression sociale des étudiants pendant des évaluations fondées sur la performance, tout en préservant l'[[usability-research|utilisabilité]].
 - **L'empathie conçue par l'invite, et non par la perception.** Le soutien affectif n'exige pas la détection de l'affect : [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] ont obtenu une grande différence de *perception de l'empathie* (21.27 contre 18.24 ; r = 0.53) entre deux agents d'IA de [[physics-education|physique]] qui ne différaient que par le rôle et les mouvements conversationnels spécifiés dans l'invite — des ouvertures par prise de perspective (« Vous posez cette question parce que… »), un diagnostic des [[misconceptions|idées fausses]], et une vérification de la compréhension à la fin de chaque tour — le modèle, la plateforme et la température restant constants. Cela constitue un utile contrepoids à l'informatique affective fondée sur les capteurs : la qualité émotionnelle perçue d'un [[pedagogical-agent|agent pédagogique]] peut être conçue dans le script d'interaction, tout en rappelant aussi aux concepteurs que l'empathie perçue est un construit auto-déclaré plutôt qu'une preuve d'une authentique compréhension affective ([[student-ai-interaction]]).
 - **Des alertes qui signalent un enseignant au lieu d'adapter un tuteur.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] a déployé Dash4Emotion dans une classe de géométrie du lycée, où des rectangles encadrés de rouge marquaient les élèves considérés comme éprouvant une émotion négative ; sur vingt épisodes identifiés (cinq rapportés), ce qui a fait changer l'engagement est la réaction de l'enseignant à une alerte, et non l'alerte elle-même. L'enjeu de conception est que la perception de l'affect peut alimenter une décision humaine au lieu du prochain geste d'un tuteur adaptatif — avec la mise en garde propre à l'étude : elle ne rend compte d'aucune validation de la détection des expressions faciales, si bien que le signal est une invitation à l'interprétation par l'enseignant plutôt qu'une preuve de l'état intérieur d'un élève.
+
 ## Concepts liés
 - [[anxiety-and-stress]]
 - [[cognitive-offloading]]
@@ -75,6 +76,7 @@ L'informatique affective se situe à l'intersection du [[affective-tutoring|tuto
 - [[llm-training-and-fine-tuning]]
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — Apprentissage socioémotionnel
+
 ## Articles liés
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Réagir aux alertes émotionnelles générées par l'IA : l'intervention des enseignants et l'engagement des élèves dans la classe de mathématiques
 - [[wang-teacher-student-centered-agents-physics-2026]] — La perception de l'empathie par les rôles d'agents conçus par l'invite dans l'apprentissage de la physique (Wang et al. 2026)

@@ -126,6 +126,7 @@ Le but de cette base de connaissances est d'aider à combler ce fossé — de re
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — Développement théorique en IA en éducation
+
 ## Articles liés
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Les agents conversationnels d'IA dans l'enseignement supérieur : comparer les attentes aux preuves (Thoeni & Fryer 2026)
 

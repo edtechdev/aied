@@ -143,6 +143,7 @@ AIは継続的に変化しており、あるモデルやシステムから導か
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — 教育におけるAIの理論開発
+
 ## 関連する記事
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育におけるAIチャットボット。期待と証拠の比較（Thoeni & Fryer 2026年）
 

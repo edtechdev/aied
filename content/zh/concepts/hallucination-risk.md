@@ -83,6 +83,7 @@ ai_assist:
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## 关联文章
 - [[frontiers-gai-hallucination-dependence-2026]] — 把GAI对话标注为编造的，同时降低了信任与依赖
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 可信度线索抬高了对 AI 输出的顺从，一些被引案例被错误归因或系虚构

@@ -111,6 +111,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## المقالات المترابطة
 - [[lund-socially-accountable-data-science-xai-2026]] — إطار من أربع ركائز (قابلية المساءلة والمسؤولية والإنفاذ والانعكاسية) لتعليم XAI كممارسة مساءلة (لوند وزملاءه 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — التصميم الحسّاس للقيم لنظام تدريس ذكي متمركز حول الطالب (تفسيرات تعاونية مقابل خام)
@@ -131,6 +132,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — تقييم النماذج المُدرَّبة مسبقًا للتقويم البيداغوجي لأسئلة تعليمية جديدة بمساعدة الذكاء الاصطناعي
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — قرارات التقدير التي اتخذها المعلّم مقابل التي اتخذها الذكاء الاصطناعي: تبرير مكتوب وسّع فجوة الإنصاف
+
 ## الاقتباس
 
 خسروي، H.، باكنغهام شوم، S.، تشن، G.، كوناتي، C.، تساي، Y.-S.، كاي، J.، نايت، S.، مارتينيز-مالدونادو، R.، صادق، S.، وغاسيفيتش، D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

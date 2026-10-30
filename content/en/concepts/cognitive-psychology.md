@@ -70,6 +70,7 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 - **"Mental representations are unobservable, so cognitive claims about learning are assumptions."** Reconstructing images from learners' **EEG** during science videos found **representation fidelity tracked test performance** (regression coefficient **0.8481, R² = 0.79**). The cognitivist premise of internal representation is measurable, and the measurement predicted the outcome.
 - **"A high R² means the representation explains the learning."** R² = 0.79 is a strong association between fidelity and performance on the same material. It does not establish that raising fidelity raises performance, which is the intervention claim.
 - **"Knowledge components are a convenient modelling fiction."** Decomposability is what makes [[knowledge-tracing]] and [[cognitive-diagnosis]] possible, and the methods work to the degree that the assumption holds. Treating it as a fiction discards the reason the methods produce usable estimates — while treating it as fact overstates what a fitted model tells you about a mind.
+
 ## Connected Concepts
 
 - [[behaviorism]]

@@ -69,6 +69,7 @@ ai_assist:
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## المقالات المتصلة
 
 - [[frontiers-gai-hallucination-dependence-2026]] — تعليم حوار GAI على أنه موضوع خفّض الثقة والاعتماد معًا

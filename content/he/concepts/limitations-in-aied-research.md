@@ -126,6 +126,7 @@ ai_assist:
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[theory-development-aied]] — Theory Development in AI in Education
+
 ## מאמרים מקושרים
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — צ'אטבוטים של AI בהשכלה גבוהה: השוואת ציפיות לראיות (Thoeni & Fryer 2026)
 

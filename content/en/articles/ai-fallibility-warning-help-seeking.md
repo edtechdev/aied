@@ -33,6 +33,7 @@ Recent work in Technology-Enhanced Learning and [[human-ai-collaboration|Human-C
 - Exposure was two 50-minute class periods, and the authors state post-test data are not reported because unexpected class cancellations prevented many students from taking the post-test — so no learning claim is possible.
 - The tutor introduced no errors: hints and feedback were rule-based and hard-coded without [[llm|LLMs]], so the study cannot show how learners respond when the system actually makes mistakes.
 - Group sizes were unequal (12 students per class assigned to the warning condition) due to a concurrent data collection, which the authors note reduces statistical power.
+
 ## Citation
 
 Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822).

@@ -173,6 +173,7 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
 - **"Students use AI mainly to understand."** **Analyze topped the distribution at 27.28% (831 messages) ahead of Understand at 23.76%** — the first fine-grained evidence that naturalistic [student-AI interaction] leans analytic rather than comprehension-oriented.
 - **"Prompt traces reveal whether offloading happened."** What prompt-level traces cannot supply comes from a **16-student subsample with linked grades, whose 1,140 messages were hand-coded**: **49.6% of 125 dialogues showed no offloading** at all. Trace patterns overstate offloading relative to hand-coded dialogue.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The risk every effort-first sequence is designed to avoid

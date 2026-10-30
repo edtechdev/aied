@@ -247,6 +247,7 @@ Kifejezetten a kritikai MI-írástudás esetében [[solyst-youth-systematic-eval
 - [[higher-ed]] — egyetemi szintű írástudás
 - [[career-development-and-readiness]] — az a foglalkoztathatósági megtérülés, amelyet az MI-írástudás állítólag felépít
 - [[ai-education]] — a szélesebb szakma
+
 ## Összefüggő cikkek
 - [[early-childhood-ai-holistic-competencies-review-2026]] — A kisgyermekkor formálása az MI korában: kompetenciák, pedagógia és ökológiai támogatás (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — MI-biztonsági írástudás: ökoszisztéma-alapú kompetenciakeret és K-12 tanulási platform

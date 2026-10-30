@@ -82,6 +82,7 @@ La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qu
 - **La vérification comme activité d'apprentissage, et pas seulement comme garde-fou.** [[pearls-epistemic-verification-2026|Wang (2026)]] organise l'évaluation des artéfacts d'IA autour de six dimensions interdépendantes — Process, Evidence, Access, Reproducibility, Legitimacy et Source — et traite l'assemblage de cette garantie, plutôt que la fluidité de la production, comme ce qui construit l'expertise disciplinaire.
 
 **La vulnérabilité la plus fortement évaluée par les experts dans la base de connaissances est la pensée critique.** Sur 65 processus d'apprentissage évalués par 30 experts, la pensée critique et la pensée critique-analytique ont recueilli la note de perturbation la plus élevée du rapport (moyenne de 4.00 sur 5 ; 96 % des évaluateurs à 3 ou plus) avec une amélioration sous le seuil (2.40, 43 %) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Dix des dix-huit processus d'ordre supérieur n'ont atteint de consensus que sur la vulnérabilité, ce que le rapport lit comme un risque unilatéral plutôt que comme un arbitrage.
+
 ## Concepts liés
 
 - [[metacognition]]

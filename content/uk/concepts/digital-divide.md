@@ -86,6 +86,7 @@ ai_assist:
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## Пов’язані статті
 
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Інституційні структури, цифрова нерівність та інтеграція ШІ у вищій освіті Нігерії

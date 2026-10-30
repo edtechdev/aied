@@ -246,6 +246,7 @@ Especificamente para o letramento crítico em IA, [[solyst-youth-systematic-eval
 - [[higher-ed]] — letramento em nível universitário
 - [[career-development-and-readiness]] — o retorno de empregabilidade que se argumenta que o letramento em IA constrói
 - [[ai-education]] — o campo mais amplo
+
 ## Artigos conectados
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Moldando a primeira infância na era da IA: competências, pedagogia e apoio ecológico (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Letramento em segurança de IA: framework de competências baseado em ecossistema e plataforma de aprendizagem K-12

@@ -131,6 +131,7 @@ Ketika AI mengambil alih tugas instruksional dan penilaian rutin, kontribusi kha
 - **Dukung lapisan institusional:** kompetensi guru yang berkelanjutan membutuhkan kebijakan, tata kelola, dan kapasitas yang selaras, bukan pelatihan yang terisolasi.
 
 - **Kompetensi digital guru untuk [[curriculum-design|desain kurikulum]] GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] memvalidasi instrumen diagnostik berbasis TAM dengan 434 guru dalam jabatan; niat berperilaku adalah prediktor utama kompetensi digital untuk menggunakan GenAI dalam perencanaan kurikulum, dengan efikasi diri sebagai pendorong akar.
+
 ### Instrumen Psikometrik untuk Kompetensi AI Guru
 
 - Sebuah studi psikometrik mengembangkan Teachers' AI Literacy Scale (TAILS) untuk mengukur literasi AI secara khusus dalam [[teacher-education|pendidikan guru bahasa]], mengoperasionalkan enam dimensi kerangka ED-AI. Pengembangan instrumen itu mengisi celah dalam penilaian yang menyasar siswa atau pengguna umum, mendukung pengukuran kompetensi AI guru.
@@ -142,6 +143,7 @@ Lanskap instrumen itu sendiri sejak itu telah ditinjau. [[assessing-teachers-ai-
 - **"Pelatihan prompting membuat materi guru lebih baik."** **Pelatihan prompting membeli waktu, bukan materi yang lebih baik**: dalam **RCT terpreregistrasi dengan 204 guru**, Appel, Fervers dan Piepenburg (2026) menemukan ChatGPT meningkatkan **waktu yang dihemat** sementara kualitas materi tidak mengikuti. Keuntungan efisiensi itu nyata dan bukan keuntungan kualitas.
 - **"Ketika guru mengonfigurasi chatbot, kegagalannya adalah kesalahan faktual."** **Ketika guru mengonfigurasi chatbot dalam bahasa alami, kegagalan yang dominan adalah hilangnya maksud alih-alih fakta yang salah** - bot **melewati** langkah yang dimaksudkan guru. Kepatuhan pada instruksi gagal secara struktural alih-alih faktual.
 - **"Keterampilan teknis adalah lapisan penentu."** **Pengetahuan pedagogis adalah lapisan penentu**: sebuah studi lintas jenjang tentang [[ai-education|pendidikan AI]] sekolah menengah [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Kompetensi yang menentukan hasil adalah yang paling kurang diinvestasikan oleh sebagian besar program pelatihan.
+
 ## Konsep Terhubung
 
 - [[ai-literacy]]

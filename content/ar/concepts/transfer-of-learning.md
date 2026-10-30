@@ -112,6 +112,7 @@ ai_assist:
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — الفشل المُنتج
+
 ## المقالات المرتبطة
 - [[yan-agentivism-learning-theory-ai-2026]] — نظرية تعلّم متوسطة المدى للتفاعل بين الإنسان والذكاء الاصطناعي، بأربع آليات وستّ دعاوى قابلة للاختبار (يان وغاسيفيتش 2026)
 

@@ -86,6 +86,7 @@ AI教育におけるデザイン思考は、[[human-ai-collaboration]]と深く�
 - [[academic-integrity]]
 - [[open-source]]
 - [[arts-design-and-media-education]]
+
 ## 関連する記事
 
 - [[genai-architecture-education]] — Gen-AI-tecture:デザイン課題で建築の学生を支えるための生成AIの利用

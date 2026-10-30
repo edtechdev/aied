@@ -16,6 +16,7 @@ institutions: [change-management]
 ---
 
 > **Synthesis:** A [[mixed-methods-research|mixed-methods]] survey of 90 [[stem-education|STEM]] faculty in the RCSA Cottrell community identified a coherent latent construct — **AI [[pedagogy|pedagogical]] orientation** — that strongly predicts AI adoption across [[research-methods-aied|research]], teaching, and professional activities. This orientation reflects deep beliefs about AI's role in disciplinary thinking, learning, and expertise development — not merely positive or negative sentiment.
+
 ## Why This Matters
 
 Current technology-adoption models ([[scaffolding]]-like frameworks such as DoI and [[technology-acceptance-model|UTAUT]]) emphasize external conditions, perceived usefulness, and social influence. This study demonstrates that for [[higher-ed|AI in higher education]], these factors are surprisingly weak predictors. Instead, a faculty member's **epistemic interpretation** of AI — their stance on what AI means for disciplinary knowledge production — is the primary driver.

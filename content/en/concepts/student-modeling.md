@@ -106,6 +106,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - **"A faithful model needs the most complex method."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] illustrate that **faithful representation does not require the most complex** approach. Complexity is not a proxy for fidelity, and a simpler model that captures the relevant structure can be the better instrument.
 - **"Learner models need trace data."** A predictive learner model can rest on **the structure of enrollment** rather than trace data: TRACE encodes each semester as an **unordered basket of courses** and predicts from that. The predictive signal can live in the institution's administrative record.
 - **"Affective state requires physiological sensing."** A math tutor **inferred emotion from conversational text and facial expression** and mapped the aggregated state to tutoring decisions. The affect signal was recoverable from what learners were already producing.
+
 ## Connected Concepts
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts

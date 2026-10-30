@@ -125,6 +125,7 @@ La question constructive passe de « comment empêcher les étudiants d'utiliser
 - **Au-delà de la détection : le dialogue plutôt que la surveillance.** Un récit de praticien portant sur le cadre de vérification de l'apprentissage de la Grand Canyon University ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) soutient que la meilleure réponse à l'[[student-ai-interaction|usage de l'IA par les étudiants]] est le dialogue, non la détection. Parce que les détecteurs sont peu fiables (et biaisés contre les rédacteurs non natifs), GCU a cessé de demander « l'étudiant a-t-il utilisé l'IA ? » et demande plutôt aux étudiants de démontrer leur compréhension dans un bref entretien — une extension de la [[authentic-assessment|refonte de l'évaluation]] qui traite la détection comme une impasse et la vérification comme un bon enseignement.
 
 - **La confiance devance la certitude, au prix de l'enseignement.** Dans une enquête menée auprès de 20 professionnels de l'enseignement supérieur, 15 ont fait état d'une forte dépendance institutionnelle aux logiciels de détection de l'IA, tandis que seulement 4 exprimaient une confiance à leur égard, et les répondants ont décrit un « épuisement pédagogique » lié au contrôle policier, qui déplaçait la conception pédagogique et le mentorat des étudiants ([[evaluation-age-ai-output-evidence-2026|Chowdhury & Khan (2026)]]).
+
 ## Concepts liés
 
 - [[academic-integrity]]

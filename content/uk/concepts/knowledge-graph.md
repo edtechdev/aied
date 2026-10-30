@@ -76,6 +76,7 @@ ai_assist:
 - [[agentic-ai]]
 - [[ai-technologies]] — Зонтичне: технології та методи ШІ (моделі, навчання LLM, робототехніка, RAG, агентність)
 - [[recommender-systems-and-learning-paths]]
+
 ## Пов’язані статті
 
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Побудований куратором граф із 1 455 літературних аксіом зі структурним аудитом і жодного запису походження (Liu та Zhao 2026)

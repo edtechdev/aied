@@ -112,6 +112,7 @@ A **Simbiose Pedagógica** de [[elsayed-pedagogical-symbiosis-posthuman-learner|
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
+
 ## Artigos conectados
 - [[yan-agentivism-learning-theory-ai-2026]] — Uma teoria de aprendizagem de alcance médio para a interação humano-IA, com quatro mecanismos e seis proposições testáveis (Yan e Gašević 2026)
 

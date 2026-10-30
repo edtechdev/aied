@@ -250,6 +250,7 @@ ai_assist:
 - [[higher-ed]] — אורייות ברמת האוניברסיטה
 - [[career-development-and-readiness]] — תשואת התעסוקה שאורייות AI נטען שהיא בונה
 - [[ai-education]] — התחום הרחב
+
 ## מאמרים מקושרים
 - [[early-childhood-ai-holistic-competencies-review-2026]] — עיצוב הילדות המוקדמת בעידן ה‑AI: כשירויות, פדגוגיה ותמיכה אקולוגית (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — אוריינות אבטחת AI: מסגרת כשירות מבוססת-אקוסיסטם ופלטפורמת למידה ל‑K-12

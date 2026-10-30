@@ -36,5 +36,6 @@ institutions: [educational-policy-ai]
 - All measures come from an 11-question self-report survey vulnerable to social desirability bias, and some of the research team also taught the surveyed classes.
 - Of 423 eligible students, 319 completed the survey (about 75%), leaving only 65, 60, 96, and 98 responses across the four waves — small counts for comparing subgroups.
 - Some survey items changed across the four waves, and external factors such as specific course requirements and disciplinary norms were not accounted for.
+
 ## Citation
 Parker, L., Loper, A. J., Carter, C. W., Hayes, J., & Karakas, A. (2026). [Longitudinal insights into AI in education: Usage, ethics, and policy development in higher education](https://doi.org/10.1016/j.caeo.2026.100329). *Computers and Education Open, 10*, 100329.

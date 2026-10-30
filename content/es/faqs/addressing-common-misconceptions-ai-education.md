@@ -95,6 +95,7 @@ La IA elimina trabajo administrativo, confusión de formato y repetición, lo cu
 ### "Una prohibición general es la regla más segura y más justa."
 
 Las condiciones sin IA son correctas cuando el rendimiento independiente es la capacidad evaluada: ciertos exámenes, la práctica fundacional, las pruebas de competencia profesional. Una prohibición universal es un instrumento distinto, y empuja el uso a la clandestinidad, es difícil de aplicar de forma coherente y bloquea la [[ai-literacy|alfabetización en IA]] que los estudiantes necesitan cuando el curso termine. Cuatro condiciones a nivel de tarea cubren más terreno: IA obligatoria, IA permitida con declaración, IA restringida a funciones nombradas, IA prohibida porque la ayuda invalidaría la afirmación de aprendizaje. Los estudiantes siguen los límites que entienden, así que la regla necesita su razón adjunta y tiene que coincidir en el programa, la hoja de la tarea, la retroalimentación y la calificación. [[framing-ai-use-for-students|Enmarcar el uso de la IA para los estudiantes]] y [[educational-policy-ai|Política educativa sobre IA]] son las plantillas.
+
 ## Juzgue un tutor por lo que el estudiante hace después
 
 Un sistema que produce la respuesta y un sistema que produce un estudiante son productos distintos, y la salida solo describe alguna vez al primero.
@@ -182,6 +183,7 @@ La supervisión depende de la pericia que la automatización intensa desanima a 
 ### "Enseñar un uso crítico y ético de la IA cuesta productividad."
 
 La automatización no verificada produce retrabajo, incidentes de seguridad, decisiones discriminatorias, exposición legal, daño reputacional y falsa confianza, y cada uno de esos es un costo que la cifra de productividad no contabilizó. El empleado que vale la pena contratar es el que distribuye el trabajo entre personas y herramientas manteniendo la calidad, la confidencialidad, la responsabilidad y el juicio profesional. Ese es un argumento de productividad, formulado en la dirección que el balance suele pasar por alto ([[human-ai-collaboration|Colaboración humano-IA]], [[governance|Gobernanza de la IA]]).
+
 ## Responda a lo que creen los estudiantes
 
 Los estudiantes llegan con teorías en funcionamiento, y la mayoría se construyeron a partir de algo que la herramienta hizo realmente. Corregir la teoría forma parte de la enseñanza, y exige un modelo mejor en lugar de una advertencia.

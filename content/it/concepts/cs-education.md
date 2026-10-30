@@ -151,6 +151,7 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 - [[prior-knowledge]]
 - [[scaffolding]]
 - [[assessment-validity]]
+
 ## Articoli collegati
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)

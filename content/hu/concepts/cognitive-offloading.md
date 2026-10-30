@@ -170,6 +170,7 @@ Ugyanez a logika a jutalomformálást tervezési eszközzé teszi: [[assistance-
 - **„A promptok mennyisége méri a tehermentesítést.”** **97 tanulót** klasztereztek promptmennyiség szerint, és **a mennyiségi klaszterek nem különböztek szignifikánsan a helyi és globális, illetve az aktív szerepű promptolás arányában**. A promptok számolása az aktivitást számolta, nem a kognitív munka eloszlását.
 - **„A diákok elsősorban azért használják a MI-t, hogy megértsenek dolgokat.”** **Az Analyze vezette az eloszlást 27,28%-kal (831 üzenet), megelőzve az Understand 23,76%-át** - ez az első finom felbontású bizonyíték arra, hogy a naturalisztikus [diák-MI interakció] inkább elemző, mint megértésorientált.
 - **„A promptnyomok felfedik, megtörtént-e a tehermentesítés.”** Amit a promptszintű nyomok nem tudnak megadni, az egy **16 diákot tartalmazó, jegyekkel összekapcsolt részmintából származik, amelynek 1 140 üzenetét kézzel kódolták**: **a 125 párbeszéd 49,6%-a egyáltalán nem mutatott tehermentesítést**. A nyomminták túlbecsülik a tehermentesítést a kézzel kódolt párbeszédekhez képest.
+
 ## Kapcsolódó fogalmak
 
 - [[pedagogical-patterns]] - A kockázat, amelyet minden erőfeszítést előre helyező szekvencia elkerülni igyekszik

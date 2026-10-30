@@ -96,6 +96,7 @@ AES 处于[[automated-assessment]]、[[writing-education]]与[[generative-ai]]�
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## 关联文章
 - [[reflection-level-classification-hungarian-essays-2026]] — 匈牙利学生作文中的反思水平自动分类
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT：面向论辩作文的模块化自动写作评估系统

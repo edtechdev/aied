@@ -65,6 +65,7 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - **"Teachers will use AI to generate whole lessons."** Teachers delegated most often (**60%**) **to fill content gaps in a self-outlined lesson** rather than to generate whole plans. The unit of delegation is the gap, not the lesson.
 - **"Young children gain less from AI-supported media literacy."** The AI-supported group showed **large gains in media reading (+3.50), writing (+1.67) and total media literacy (+5.17, all p < .01)** with between-group effect sizes d = 1.12 or higher. The gains were large in this age band, not marginal.
 - **"Automated observation agrees with human raters across the board."** Agreement was **moderate overall (weighted κ = 0.681) but conditional on the construct**: convergence held for the **Emotional Support** domain and for **Quality of Feedback**, and not elsewhere. Averaging over the domains hides where the instrument fails.
+
 ## Connected Concepts
 
 - [[k-12]]
@@ -84,6 +85,7 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 - [[equity-in-ai-education]]
 - [[digital-divide]]
 - [[parents-and-families]]
+
 ## Connected Articles
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Shaping early childhood in the age of AI: competencies, pedagogy and ecological support (Pei 2026)
 

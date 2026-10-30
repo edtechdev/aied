@@ -123,6 +123,7 @@ La mitigación de sesgos es el mecanismo técnico a través del cual se operacio
 - [[student-experience]]
 - [[ai-education]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Artículos conectados
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Alineamiento pedagógico neuro-simbólico (NSPA)

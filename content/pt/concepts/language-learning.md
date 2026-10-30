@@ -99,6 +99,7 @@ A qualidade do design, e não a frequência de uso, carregou o efeito motivacion
 - [[discipline-specific-aied]]
 - [[english-education]]
 - [[speech-and-voice-technologies]]
+
 ## Artigos conectados
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Interação estudante-IA na interpretação consecutiva assistida por computador
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Perfis e transições da adaptação psicológica na aprendizagem de japonês assistida por IA

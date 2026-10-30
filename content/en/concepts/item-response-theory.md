@@ -64,6 +64,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - **"A benchmark that most models pass is a good benchmark."** A standards-aligned benchmark can **saturate**: on NGSS-aligned middle school and high school science sets, **most open-weight models scored above 90%**, leaving classical item metrics poor. Saturation does not mean the models are excellent; it means the items are no longer discriminating.
 - **"Item difficulty is an intrinsic property of the item."** A causal probe that **edited 50 test questions per dataset** toward or away from a hypothesis found **increase-difficulty edits reduced mean accuracy by 15.27 and 23.88 percentage points** on GSM8K and BBH-structured. Difficulty is a relationship between item and model, and it moves when the item does.
 - **"IRT is only for scoring learners."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a **Bayesian hierarchical 2PL model with pre-test anchor items to place 1,686 students**, which is quality assurance for the assessment itself rather than scoring for the student.
+
 ## Connected Concepts
 
 - [[educational-measurement]]

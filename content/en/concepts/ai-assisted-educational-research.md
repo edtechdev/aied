@@ -155,6 +155,7 @@ What can be carried across is a disposition rather than a result: name the AI's 
 - **"LLM and software papers are evaluated equally well."** Since 2023, **38.0% of software and product papers reported no evaluation at all, against 9.3% of LLM papers**. The gap is large and it runs against the assumption that newer tooling is less rigorously tested.
 - **"Stratifying by task fixes the gap."** **The gap survives stratification**: in screening and selection, software papers averaged **3.2 substantive evaluation items with 39.3% reporting none**, while LLM papers averaged more. The difference is a systematic property of the paper class, not of the task.
 - **"A positive evaluation means the workflow met its intended bar."** Among **118 LLM papers with positive-only evaluations, 52% still reported at least one concern that the workflow fell below the bar required for its role**. Half of the positive evaluations contained their own refutation.
+
 ## Connected Concepts
 
 - [[research-methods-aied]] — the umbrella for the designs used to study AI in education

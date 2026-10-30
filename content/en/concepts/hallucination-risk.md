@@ -54,6 +54,7 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 - **"Errors are obvious when they appear."** An AI diagnosing handwritten math could **fabricate evidence quotes that weren't there while claiming confidence**. The failure was not a plausible-but-wrong answer; it was invented support presented with certainty, which is the hardest kind to catch because it reads as precisely the evidence a careful reader would want.
 - **"Citation-less output is a formatting problem."** In a graduate course that replaced its commercial textbook with AI-generated readings, only **about 0.80% of 4,487 logged pages carried an APA-style in-text citation**. That is a corpus-level absence of provenance, not an occasional omission, and it means verification has no starting point.
 - **"Hallucination is a model-generation problem that newer models solve."** The rate range spans 10-40% across 125 studies, which is a property of the task and the deployment as much as the model. Rate reduction is real progress and does not change that a reader must be able to check.
+
 ## Connected Concepts
 
 - [[cognitive-offloading]]
@@ -68,6 +69,7 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## Connected Articles
 - [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to AI output, with some cited cases misattributed or fictitious

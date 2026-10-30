@@ -48,6 +48,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - **"A model that scores well is measuring the same thing."** On **the same assessment instrument**, human and LLM response structures **diverge** — a model can score well while measuring something different from what the instrument intends. Matching scores is the observation; construct equivalence is a separate claim that requires structure-level evidence.
 - **"Calibration can be read off a single accuracy figure."** **Balanced metrics catch a model that only looks calibrated**: asking GPT-4o and Gemini 2.0 Flash to infer learning-style dimensions from **153 undergraduates'** dialogues produced **moderate accuracy that performed differently under balanced metrics**. Aggregate accuracy hid a differential that balanced metrics exposed.
 - **"Automated scoring pipelines cannot reproduce psychometric procedure."** The authors reproduced an established pipeline in automated form (**a 67% probability of answering at least 7 rubric items correctly for the lower cut and at least 10 for the upper**), letting AI and human item scores be compared on the same footing. The procedure was reproducible; the construct question remains.
+
 ## Connected Concepts
 
 - [[educational-measurement]]

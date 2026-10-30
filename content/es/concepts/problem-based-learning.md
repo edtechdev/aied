@@ -91,6 +91,7 @@ El [[productive-failure|fracaso productivo (FP)]] comparte con el ABP su núcleo
 - [[engineering-education]]
 - [[higher-ed]]
 - [[productive-failure]] — Fracaso productivo
+
 ## Artículos conectados
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — El aprendizaje basado en problemas y en proyectos como marcos prometedores para la educación apoyada en IA generativa: evidencia emergente de una revisión sistemática y un metaanálisis de tres niveles
 

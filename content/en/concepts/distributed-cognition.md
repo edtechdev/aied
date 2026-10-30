@@ -58,6 +58,7 @@ Fowlin et al. (2026) operationalize that apportionment as a two-phase sequence: 
 - **"A shared document means shared cognition."** Volume-based profiles of **97 learners** differed in **prior knowledge and authorship** but **not in active-role or comprehension-level prompting**. Participation volume measured exposure, not the distribution of cognitive work — so usage analytics of a collaborative tool say little about who was thinking.
 - **"Everyone offloads to AI equally."** Novice teachers **delegate a large share of instructional-design cognitive load to the AI system**, arriving at an **AI-dominant distribution** in which they largely accept responses, whereas experienced and AI-knowledgeable teachers distribute differently. Expertise shows up in where the load is placed, not only in how much AI is used.
 - **"More AI involvement means more support."** An AI-dominant distribution is the pattern to watch for, because the human's share of the cognitive work shrinks while the output volume rises. The system can look more capable precisely as the user is doing less.
+
 ## Connected Concepts
 
 - [[learning-theories]]

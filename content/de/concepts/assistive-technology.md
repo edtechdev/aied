@@ -64,6 +64,7 @@ Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven [[ai-technologies|T
 - [[neurodiversity]]
 - [[learning-design]]
 - [[speech-and-voice-technologies]]
+
 ## Verbundene Artikel
 - [[shin-ai-policies-sld-2026]] — KI-Richtlinien und Anpassungen für Studierende mit spezifischen Lernbehinderungen
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Metaanalyse von KI-Interventionen für Studierende mit Behinderungen

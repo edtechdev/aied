@@ -101,6 +101,7 @@ ai_assist:
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — 과도하게 넓은 규칙, 결함 있는 증거, 합리적 조정을 아우르는 상위 페이지
 - [[arts-design-and-media-education]]
+
 ## 연결된 문서
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100개 최상위 대학 중 0%가 AI 접근성 정책을 공표하는 반면 93%는 AI 캠퍼스 서비스를 도입
 - [[shin-ai-policies-sld-2026]] — 특정 학습장애를 지닌 학생들을 위한 AI 정책과 수용 조치

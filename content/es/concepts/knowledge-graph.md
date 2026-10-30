@@ -104,6 +104,7 @@ Los grafos de conocimiento conectan con el [[learning-design|diseño del aprendi
 - [[agentic-ai]]
 - [[ai-technologies]] — Paraguas: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agéntica)
 - [[recommender-systems-and-learning-paths]]
+
 ## Artículos conectados
 - [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Un grafo de 1.455 axiomas literarios construido por curadores, con una auditoría estructural y sin registro de procedencia (Liu y Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modelo de conocimiento híbrido y por capas basado en ontologías para el aprendizaje electrónico personalizado

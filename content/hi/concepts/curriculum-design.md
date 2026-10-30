@@ -121,6 +121,7 @@ K-12 ML गतिविधि डिज़ाइन सतह पर रहत�
 - [[collaborative-learning]]
 - [[pedagogy]] — छत्री: एआई शिक्षा में शिक्षाशास्त्र और शिक्षण रणनीतियाँ
 - [[recommender-systems-and-learning-paths]]
+
 ## संबंधित लेख
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAI-के-लिए-रचनात्मक-संरेखण मार्गदर्शन का समालोचनात्मक विमर्श विश्लेषण (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — शिक्षा के माध्यम से एआई प्रणालियों में विश्वास संबोधित करना: एक शिक्षाशास्त्रीय दृष्टिकोण

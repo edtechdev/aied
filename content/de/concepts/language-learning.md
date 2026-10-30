@@ -100,6 +100,7 @@ Designqualität, nicht Nutzungsfrequenz, trug den Motivationseffekt in einem von
 - [[discipline-specific-aied]]
 - [[english-education]]
 - [[speech-and-voice-technologies]]
+
 ## Verbundene Artikel
 - [[chatbots-oral-proficiency-efl-systematic-review]] — Gewinne durch Chatbots in der mündlichen Sprachkompetenz konzentrieren sich auf Spannweite und Verständlichkeit
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-KI-Interaktion im computergestützten Konsekutivdolmetschen

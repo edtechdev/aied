@@ -91,6 +91,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - Do not treat device distribution as closing the divide. The measurable gaps sit in phrasing skill, interface language and connectivity, and none of them are fixed by hardware.
 - Publish the infrastructure a tool assumes. A requirement stated plainly lets an under-resourced setting judge fit before investing.
 - Cost out the full deployment, not the software license. Digital-twin evidence shows the hardware bill can survive virtualisation.
+
 ## Connected Concepts
 
 - [[differential-effects-across-learner-groups]]
@@ -103,6 +104,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## Connected Articles
 - [[watanabe-genai-education-gap-europe-2026]] — Is the education gap in generative AI use smaller than the internet's was? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education

@@ -71,6 +71,7 @@ Rather than treating learning theories as abstract philosophy, the knowledge bas
 Learning theories also appear as content in [[ai-literacy|AI literacy]] curricula: learners study behaviorism, cognitivism, constructivism, and connectivism to understand the [[pedagogy|pedagogical]] assumptions behind the tools they use.([[generativism-learning-theory]]) Teaching this strand gives students (and educators) the vocabulary to critique why an AI product is built the way it is — and whether its mechanics serve the learning goal at hand.
 
 - **The mediational agent.** Warschauer, Tate, and Ritchie (2026) argue generative AI breaks the sociocultural distinction between mediational means and social interaction, proposing the *mediational agent* — a system that both mediates action and generates contingent, non-accountable contributions, occupying a hybrid space between a tool and a social partner. This yields five human-first habits of participation (primacy of human cognition, purposeful [[student-engagement|engagement]], supervisory agency, epistemic vigilance, reflective self-regulation).([[generative-ai-mediational-agent-sociocultural-2026]])
+
 ### Theories proposed for the AI era
 
 Alongside the classical families, the knowledge base documents theories written specifically for learning with AI systems, and these carry the design implications that the older theories leave open. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan and Gašević 2026)]] is a mid-range example: it defines learning as durable growth in human capability rather than successful task completion, names four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support), and states six testable propositions, among them that AI support preserving learner responsibility for problem framing, criteria setting and justification produces stronger learning than support that delivers answers.
@@ -129,6 +130,7 @@ Alongside the classical families, the knowledge base documents theories written 
 - [[philosophy-of-ai-in-education]]
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 

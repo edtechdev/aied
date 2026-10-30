@@ -132,6 +132,7 @@ Los sistemas multimodales también amplían el acceso y la [[personalized-learni
 - [[virtual-and-augmented-reality]] — gesto, voz y entrada espacial como canales de aprendizaje
 - [[speech-and-voice-technologies]]
 - [[arts-design-and-media-education]]
+
 ## Artículos conectados
 - [[elkington-human-centred-assessment-value-2026]] — Evaluación centrada en la persona, ensamblajes y restricciones generativas (Elkington 2026)
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Composición de anuncios de servicio público en vídeo sobre ética de la IA como pedagogía de alfabetización crítica en IA (Burriss et al. 2026)

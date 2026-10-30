@@ -108,6 +108,7 @@ Fowlin m.fl. (2026) tillför ett operativt drag för att avgöra var AI ska komm
 - **"AI-lektionsplanering ger lärare tid tillbaka."** Planeringstiden föll, från 3,32 timmar i veckan till 2,51 med verktyget, men **medianläraren planerade bara 21% till 40% av lektionerna från grunden**. Tid sparades och planeringen blev inte väsentligt mer grundlig - besparingen ackumulerades i stället för att återinvesteras.
 - **"Samdesign med AI är väl belagd."** En systematisk genomgång av [[wang-teacher-ai-co-design-review-2026|lärar-AI-samdesign av lärandeuppgifter]] **bekräftar mönstret i skala över 28 studier**, vilket beskriver en konsekvent praktik snarare än demonstrerar överlägsna utfall.
 - **"Bedömningsmatrisen är en fast indata."** Bedömningsmatrisen fungerar som ett **förmedlande gränssnitt mellan mänsklig pedagogisk avsikt och maskinell inferens**: att behandla bedömningskriterier som **reviderbara** är det som låter instrumentet bära pedagogens avsikt. En fast matris överför maskinens förvalda inramning till bedömningen.
+
 ## Anslutna begrepp
 
 - [[interpreting-and-applying-aied-research]]

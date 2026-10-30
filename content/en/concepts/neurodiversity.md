@@ -76,6 +76,7 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - **"Neurodiversity research is a niche corner of AIED."** The field has **reorganised around [[generative-ai|generative AI]] — 15 of the 40 studies** — with immersive formats second at 11. The literature moved with the technology rather than accumulating around stable questions.
 - **"More AI for dyslexia means better support."** [[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers **72 studies across 2018-2024** and finds AI used across a wide span of purposes. Breadth of application is not evidence of effectiveness for any one of them.
 - **"Accommodations are the right frame for neurodivergent learners."** [[neurodivergent-computing-students|A survey of 24 neurodivergent computing students and 20 neurotypical peers]] with four in-depth interviews found needs that are **general design requirements** — structured assignments, small consistent teams, explicit roles — rather than individual adjustments granted after a diagnosis.
+
 ## Connected Concepts
 
 - [[special-education]]

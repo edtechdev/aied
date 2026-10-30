@@ -170,6 +170,7 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - **"Volume prompt mengukur offloading."** **97 pembelajar** dikelompokkan berdasarkan volume prompt, dan **klaster volume tidak berbeda secara signifikan dalam prompting lokal-versus-global atau peran aktif**. Menghitung prompt berarti menghitung aktivitas, bukan distribusi kerja kognitif.
 - **"Siswa menggunakan AI terutama untuk memahami."** **Analyze memuncaki distribusi pada 27,28% (831 pesan) mendahului Understand pada 23,76%** - bukti rinci pertama bahwa interaksi siswa-AI yang naturalistik lebih condong analitis daripada berorientasi pemahaman.
 - **"Jejak prompt mengungkap apakah offloading terjadi."** Apa yang tidak dapat disediakan jejak tingkat prompt datang dari **subsampel 16 siswa dengan nilai yang tertaut, yang 1.140 pesannya dikodekan dengan tangan**: **49,6% dari 125 dialog tidak menunjukkan offloading** sama sekali. Pola jejak melebih-lebihkan offloading relatif terhadap dialog yang dikodekan dengan tangan.
+
 ## Konsep Terkait
 
 - [[pedagogical-patterns]] - Risiko yang hendak dihindari setiap urutan usaha-dulu

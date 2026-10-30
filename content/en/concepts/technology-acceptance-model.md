@@ -85,6 +85,7 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - **"TAM's constructs explain adoption."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh and explained **64% of** the variance. Substantial and incomplete at once: roughly a third of what drives adoption sits outside the classic acceptance constructs.
 - **"Acceptance models need no domain modification."** Adding **perceived artificial autonomy** — how independently teachers believe GenAI can carry out an assigned instructional task — and **risk aversion** to the classic constructs changed the model materially. The original constructs were built for tools without agency, and GenAI has perceived agency.
 - **"A meta-analytic adoption estimate describes any population."** The [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students]] is the population-level estimate; the engineering result explaining 64% is a specific population. Importing one onto the other assumes a stability the evidence does not establish.
+
 ## Connected Concepts
 
 - [[business-education]]

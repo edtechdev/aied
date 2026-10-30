@@ -114,6 +114,7 @@ AIは、技術の公平性への含意に新しい層を加えます。アルゴ
 - [[higher-ed]]
 - [[student-experience]]
 - [[parents-and-families]]
+
 ## 関連する記事
 
 - [[watanabe-genai-education-gap-europe-2026]] — 生成的AI利用における教育の隔たりは、インターネットのものより小さいのか（Watanabe 2026）

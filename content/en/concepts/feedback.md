@@ -138,6 +138,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
 - **"Lab approval predicts semester use."** **Lab approval is not semester use**: **all 18 students** reacted positively to the GenAI explanation function in lab sessions, **yet only half used it during the term**. The intention-usage gap is the design problem.
 - **"Immediate corrective feedback is solved with LLMs."** Generating it inside a tutor is **feasible but imperfect**: across **6,926 logged transactions** in the Apprentice Tutor collection, the feedback was good enough to deploy and not good enough to assume correctness.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — Tested feedback sequences, including why higher-quality AI feedback produced no more revision

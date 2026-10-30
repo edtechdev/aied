@@ -76,6 +76,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - **"Simulation benefits are established in medical education, so AI simulation will too."** A mixed-methods systematic review of **19 studies (N = 1,253)** finds AI-driven simulations produce effects in that literature — a modest base, and 1,253 participants across 19 studies is a narrow foundation for a technology being deployed at scale.
 - **"The question is what LLMs can do in clinical training."** A critical integrative review of **489 studies across 47 countries** shifts the question **from what LLMs can do to** what they should be trusted with. The capability question is largely answered; the governance question is not.
 - **"Standardized patients are too costly to scale."** A **randomized controlled trial with 95 analyzed medical students** used **multi-agent AI standardized patients** in clinical interview training. The constraint being addressed is the availability of trained human actors, which is a staffing problem rather than a fidelity one.
+
 ## Connected Concepts
 
 - [[problem-based-learning]]

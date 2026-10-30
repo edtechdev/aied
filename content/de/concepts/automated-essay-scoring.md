@@ -86,6 +86,7 @@ Offene Systeme gehören ebenfalls in dieses Bild: AiAWE bewertet Argumentationsa
 - [[writing-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]
+
 ## Verbundene Artikel
 - [[reflection-level-classification-hungarian-essays-2026]] — Automatische Klassifikation des Reflexionsniveaus in ungarischen Studierendenaufsätzen
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT: ein modularisiertes automatisiertes System zur Bewertung von Argumentationsaufsätzen

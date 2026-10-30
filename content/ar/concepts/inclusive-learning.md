@@ -113,6 +113,7 @@ ai_assist:
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[speech-and-voice-technologies]]
+
 ## المقالات المتصلة
 - [[prompt-privilege-equitable-ai-access-2026]] — امتياز المطالبات: قياس فوارق إمكانية الوصول في الوصول إلى النماذج اللغوية الكبيرة وتخفيفها
 - [[adhd-video-segmentation-computing-education]]

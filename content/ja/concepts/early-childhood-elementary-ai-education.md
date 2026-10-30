@@ -86,6 +86,7 @@ ai_assist:
 - [[equity-in-ai-education]]
 - [[digital-divide]]
 - [[parents-and-families]]
+
 ## 関連する記事
 - [[early-childhood-ai-holistic-competencies-review-2026]] — AIの時代に幼児期を形づくる：コンピテンシー、教育学、生態的な支援（Pei 2026）
 

@@ -55,7 +55,7 @@ The authors draw the equity implication themselves: if reliable pushback resista
 
 The study's least discussed contribution is its error-generation framework. Because each task is a Python template with symbolic definitions, loads, supports and a solution recipe, student solutions can be generated with controlled defects — a corrupted solver operation that mimics a plausible student mistake — and the resulting work has a known, verifiable wrong step. That is what allows a benchmark of diagnosis rather than of answers.
 
-The authors are explicit about what this buys and what it costs. The three models per task were run once each at default temperature, partly because the full sweep cost about $2,000 in API fees, so run-to-run variation is confounded with model differences. And the clean, typeset, single-error solutions are unlike anything a student hands in; the detection rates are an upper bound, not an estimate.
+The authors are explicit about what this buys and what it costs. The three models per task were run once each at default temperature, partly because the full sweep cost about \$2,000 in API fees, so run-to-run variation is confounded with model differences. And the clean, typeset, single-error solutions are unlike anything a student hands in; the detection rates are an upper bound, not an estimate.
 
 ## What this means for practice
 
@@ -70,7 +70,7 @@ The authors are explicit about what this buys and what it costs. The three model
 - Posture 1 uses a single pushback wording with no neutral-question control, so rejection of correct work cannot be separated from deference to the student.
 - Injected errors sit at step 1 in Posture 2 and at step 2 in 49 of 52 Posture 3 tasks, making the localization scores partly guessable and not comparable across postures.
 - Each model was queried once per task at default temperature, and the textbook-derived problems may appear in training data.
-- The sweep cost approximately $2,000 in API fees, which limited the design to a single run per model and no prompt variations.
+- The sweep cost approximately \$2,000 in API fees, which limited the design to a single run per model and no prompt variations.
 
 ## Citation
 

@@ -98,6 +98,7 @@ ai_assist:
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## المقالات المرتبطة
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — أبقت توليد الصور بـ GenAI الأداء التصميمي دون تغيير لكنها خفضت الكفاءة الذاتية الإبداعية العامة
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge

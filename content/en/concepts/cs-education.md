@@ -127,6 +127,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - **"Students pair-programming with AI are learning to program."** In student-AI co-programming, **nearly 80% of interactions relied on non-learning strategies like outsourcing answers**, and only **about 1 in 9 showed deep epistemic** engagement. The dominant pattern is transacting for output.
 - **"Conversational agents for novices are grounded in learning theory."** **Only 4 of 23 studies ground design in [[learning-theories|learning theory]]**, so most of the evidence base documents what a system did without a theory of why it should work.
 - **"The tooling literature reflects the field's global distribution."** **17 of 23 prototypes are English-only despite most research originating outside** English-speaking contexts. The prototypes serve a narrower population than the research does.
+
 ## Connected Concepts
 
 - [[computational-thinking]]

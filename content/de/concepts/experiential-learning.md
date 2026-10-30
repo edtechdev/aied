@@ -40,6 +40,7 @@ Erfahrensorientiertes Lernen ist eng verwandt mit [[active-learning]], [[project
 - **Simulation und verkörpertes Lernen:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lässt Anfängerinnen und Anfänger mit simulierten Robotern experimentieren, und [[embodied-learning|verkörperte]] Roboterinteraktion verankert Lernen in direkter Erfahrung.
 
 - **KI als Infrastruktur für Unsicherheit, nicht für Effizienz.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] geben einer generativen KI-Rolle die Aufgabe, disruptive Ereignisse und kaskadierende Konsequenzen in einer Unternehmenssimulation zu erzeugen, damit Teams Pläne unter unvollständiger Information überarbeiten, und warnen, dass geschützte Simulationen Entscheidungsgewohnheiten hinterlassen können, die außerhalb des Klassenzimmers zur Verbindlichkeit werden.
+
 ### Zwei Formen handlungsnahen Lernens in einem KI-unterstützten Curriculum
 
 Ein thematischer Review von 32 begutachteten Studien zu handlungsnahem Lernen in KI-unterstützter Designbildung

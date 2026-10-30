@@ -35,6 +35,7 @@ technology: [technology-acceptance-model]
 - The 270 valid responses (33 questionnaires excluded) came from a single online survey run in September and October 2025, mostly in the relatively developed regions of Shanghai, Zhejiang, and Guangdong.
 - The sample is heavily female (250 women, 93%; 20 men, 7%) and 81.9% (n = 221) already had experience with AI, so gender and education could not be modeled as moderators.
 - All six constructs — perceived usefulness, ease of use, subjective norm, AI anxiety, AI self-efficacy, and behavioral intention — were self-reported Likert items, leaving the relationships open to common-method effects.
+
 ## Citation
 
 Duan, Z., Shan, Y., & Gong, Y. (2026). [Exploring factors influencing preschool teachers' behavioral intention to use AI technologies in early childhood settings](https://www.sciencedirect.com/science/article/pii/S2666920X26000287). *Computers and Education: Artificial Intelligence*, 10, 100589.

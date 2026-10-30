@@ -99,6 +99,7 @@ ai_assist:
 - [[discipline-specific-aied]]
 - [[english-education]]
 - [[speech-and-voice-technologies]]
+
 ## Связанные статьи
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Взаимодействие студент–ИИ при компьютерном последовательном устном переводе
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Профили и переходы психологической адаптации в изучении японского языка с помощью ИИ

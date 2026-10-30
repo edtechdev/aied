@@ -83,6 +83,7 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - **«Accesibilidad significa adaptación.»** Una revisión de alcance de **40 estudios** sobre tecnologías digitales de asistencia para estudiantes neurodivergentes encontró que **28 exigían un diagnóstico formal como condición de participación**. Es un modelo condicionado por el diagnóstico, y excluye a todo aprendiz que tiene necesidades pero no una etiqueta: lo contrario del diseño universal.
 - **«Los efectos medios zanjan la cuestión.»** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] metaanalizan **29 estudios** y encuentran un efecto positivo medio, que es real y a la vez no dice nada sobre qué herramienta para qué necesidad. La media de intervenciones heterogéneas no es una recomendación.
 - **«La velocidad y la inmediatez son comodidades.»** En un estudio de caso cualitativo con **21 estudiantes universitarios con discapacidad visual** de tres universidades palestinas, quienes aprenden enmarcaron la inmediatez como un **requisito de accesibilidad fundacional y no como una comodidad**. Lo que desde fuera parece un lujo es una condición previa para participar.
+
 ## Conceptos conectados
 - [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]] — paraguas más amplio para diseñar la educación ante toda la variabilidad del estudiantado
@@ -102,6 +103,7 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — la página paraguas sobre reglas demasiado amplias, evidencia defectuosa y ajuste razonable
 - [[arts-design-and-media-education]]
+
 ## Artículos conectados
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): el 0% de 100 universidades de élite publica una política de accesibilidad de la IA, mientras que el 93% despliega servicios de campus con IA
 - [[shin-ai-policies-sld-2026]] — Políticas de IA y adaptaciones para estudiantes con dificultades específicas de aprendizaje

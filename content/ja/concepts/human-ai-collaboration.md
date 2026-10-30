@@ -118,6 +118,7 @@ ai_assist:
 - [[human-in-the-loop-ai]] — 監督
 - [[agentic-ai]] — 自律性
 - [[productive-failure]]
+
 ## 関連する記事
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 物語型の科学ゲームにおける3つのエージェントの役割と、それぞれが必要とする評価基準（Humburgら 2025）
 - [[bjet-many-hands-make-light-work-2026]] — GenAIのマルチエージェントシステムとペアで働くと設計の課題に勝ったが、批判的思考の自覚が上昇したのは一人で働いた人のみ(Chuら 2026)

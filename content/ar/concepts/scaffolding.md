@@ -107,6 +107,7 @@ ai_assist:
 - [[pedagogy]] — المظلة: الأساليب التربوية واستراتيجيات التدريس في تعليم الذكاء الاصطناعي
 - [[agentic-ai]]
 - [[productive-failure]] — الفشل المُثمر
+
 ## المقالات المرتبطة
 - [[kumar-genai-computing-education-systematic-review-2026]] — سحب السقالة كآلية تُنفّذ التحقّق (إطار VIE)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — تقييم نظام متعدد الوكلاء موجّه بالسقالة لتدريب المقابلات السريرية

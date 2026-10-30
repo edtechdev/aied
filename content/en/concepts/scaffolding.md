@@ -90,6 +90,7 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - **"Scaffolding is a constant level of support."** Expert annotation of **207 consultations** showed scaffolding need was **strongly phase-dependent, rising from about 16.1% of student utterances early** in the encounter. A single scaffold level is misallocated at both ends of the same consultation.
 - **"Any structured control condition is a fair comparison for scaffolding."** The scaffolding condition outperformed a **structured progressive-disclosure control** on the final OSCE-aligned [[summative-assessment|examination]] (**71.8% versus 55.6%**), so the gain was measured against a real pedagogical alternative rather than against nothing.
 - **"Scaffolding effects are general."** The gain was **16.4 percentage points (P = 3.30e-4)**, with the largest improvement in **communication (Hedges' g = -0.79)**. The effect concentrated in one outcome, so an average across outcomes understates where it works and overstates where it does not.
+
 ## Connected Concepts
 - [[pedagogical-patterns]] — Where in the sequence support belongs, and why attempt-before-help is the load-bearing rule
 - [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems
@@ -108,6 +109,7 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[agentic-ai]]
 - [[productive-failure]] — Productive Failure
+
 ## Connected Articles
 - [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold withdrawal as the mechanism enforcing verification (VIE framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training

@@ -98,6 +98,7 @@ Four design principles emerge from the deployment:
 - **Instructional designers.** Calibrate tutor prompts to the actual audience — the Guidance Agent was instructed that "these are graduate students. Engage with the mathematics; do not oversimplify" — because graduate QIS learners asked for group-theoretic definitions rather than intuitive simplifications.
 - **EdTech designers.** Specialize agents by task rather than scaling one general agent: the Spoke-and-Wheel design runs three specialists (video, guidance, code) behind a synthesizer because two agents conflated code with concepts while four added coordination overhead without reliability gains.
 - **Instructors.** Instrument self-paced courses for aggregate monitoring and act on it mid-semester: the [[learning-analytics|analytics]] agent surfaced the dead zone and a passive-consumer pattern from video seek, code execution, and checkpoint data without exposing individual students, and the instructor revised the Module 2 exercise set as a result.
+
 ## Limitations
 
 - There is no [[rct|control group]], so outcomes cannot be attributed causally to ITAS rather than to the curriculum or to the instructor — who designed both, introducing a design and interpretation bias.

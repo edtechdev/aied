@@ -78,6 +78,7 @@ In contesti di campo all'aperto lo stesso imperativo diventa spaziale: la GenAI 
 - [[higher-ed]]
 - [[k-12]]
 - [[productive-failure]] — Productive Failure
+
 ## Articoli collegati
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)

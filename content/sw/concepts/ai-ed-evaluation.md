@@ -118,6 +118,7 @@ Viwango vilivyowekwa kwa muktadha vinahitajika: [[zhang-tutormoments-2026|Zhang 
 - [[hallucination-risk]] — Hatari ya maudhui yaliyotungwa katika matokeo ya AI
 - [[intelligent-tutoring]] — Kutathmini mifumo ya kufundisha ya AI
 - [[agentic-ai]] — Kutathmini tabia ya wakala huru ya AI
+
 ## Makala Zilizounganishwa
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — Alama za jukwaa hazipati: tathmini ya vipimo vingi ya mawakala wa kufundisha ya AI
 - [[assessment-latent-structure-human-llm-2026]] — Je, vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)

@@ -92,6 +92,7 @@ Ein Vorschlag in dieser Literatur geht über Neugestaltung innerhalb des gegenw�
 - **Innovative Praktiken können mehrere Probleme gleichzeitig adressieren.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argumentieren, dass eine Reihe von fünf sich gegenseitig verstärkenden Praktiken — [[authentic-assessment|authentisches Assessment]], Selbst- und [[peer-assessment|Peer-Bewertung]], Neubewertung, [[mastery-learning|standardsbasiertes Benoten]] und Ungrading —, abgestimmt auf das Paradigma des „Assessment for Learning“, den Schaden traditionellen, summativlastigen, normbezogenen Benotens (oberflächliches Lernen, erodierte [[motivation|intrinsische Motivation]], Stress und Angst, Ungerechtigkeit und beeinträchtigte [[academic-integrity|Integrität]]) im Zeitalter generativer KI entgegenwirken können. Sie finden, dass die Verbreitung über Fächer hinweg ungleich ist — Selbst- und Peer-Bewertung dominieren, während die benotungsfokussierten Innovationen marginal bleiben — und fordern Lehrende auf, sich aktiver und reziprok mit Assessment- und Benotungsinnovation auseinanderzusetzen, gestützt auf inkrementelles Experimentieren und [[governance|institutionelle]] Unterstützung.
 
 - **KI-vermitteltes Assessment diversifiziert sich.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] zeigt, dass ein LLM-erweiterter [[conversational-ai|konversationeller Agent]] die Angst Studierender während leistungsbasierter Assessments reduzierte; [[asynchronous-oral-assessment-2026|Pentland (2026)]] findet, dass asynchrone mündliche Prüfungen höheres Engagement boten und als beruflich relevant wahrgenommen wurden; [[graph-its-adaptive-algorithms-2026|graphbasiertes ITS]] nutzt adaptive Wissensstandsverfolgung zur Information des Assessments.
+
 ## Verbundene Konzepte
 - [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
 - [[pedagogical-partnerships]] — Pädagogische Partnerschaften
@@ -115,6 +116,7 @@ Ein Vorschlag in dieser Literatur geht über Neugestaltung innerhalb des gegenw�
 - [[eportfolio]] — Prozessbasiertes E-Portfolio-Assessment
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Verbundene Artikel
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Ein einjähriges Programm, das multimodale Assessmentkompetenz definiert und misst, was sich bewegte und was nicht
 - [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudvolles Assessment und dritter Raum

@@ -70,6 +70,7 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 - [[generative-ai]]
 - [[llm]]
 - [[productive-failure]]
+
 ## Verbundene Artikel
 - [[frontiers-gai-hallucination-dependence-2026]] — Das Markieren eines GAI-Dialogs als gefälscht senkte Vertrauen und Abhängigkeit gemeinsam
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Glaubwürdigkeitssignale erhöhten die Gefolgschaft gegenüber KI-Ausgaben, wobei einige zitierte Fälle fehlattributiert oder fiktiv waren

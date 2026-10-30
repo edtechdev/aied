@@ -123,6 +123,7 @@ ai_assist:
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[speech-and-voice-technologies]]
+
 ## 연결된 문서
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: LLM 접근의 격차를 측정하고 완화하기
 - [[adhd-video-segmentation-computing-education]]

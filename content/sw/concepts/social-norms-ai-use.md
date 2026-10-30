@@ -86,6 +86,7 @@ Masudio mawili zaidi yanaeleza kwa nini ufuatiliaji ni zana dhaifu ya kuweka mil
 [[teichmann-detecting-undetectable-misconduct-2026|Hoja ya haki ya taratibu]] inatoa hitimisho: kwa sababu matumizi ya AI yenye ujuzi au yaliyohaririwa kidogo ni yasiyoweza kugunduliwa katika hali ya jumla, taratibu ya uhalifu iliyojengwa juu ya kugundua huzalisha ukosefu wa haki bila ufanisi, na jibu ni [[assessment]] bora zaidi, si ufuatiliaji bora zaidi.
 
 Gharama ya kubadilisha huko inajitokeza katika mahali wataalam na wanafunzi wanazungumza kweli. Katika rekodi 253,222 zinazohusiana na AI kutoka subreddit 26 za elimu, theluthi moja ya nyuzi zote za wataalam–wanafunzi zilikuwa migogoro ya kugundua au kutekeleza, wanafunzi walizindua 68.4% yao, na hasi ilitabiri ushiriki (ρ = −0.72) — mgogoro wa kupingana, si majadiliano, ni umbo wa kiwango cha juu zaidi cha mawasiano ya kati ya majukumu kuhusu [[generative-ai|GenAI]] ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
+
 ## Hii inamaanisha nini kwa mazoezi
 
 - **Fanya matumizi yaonekane badala ya kuyabaini.** Wanafunzi hawawezi kuhukumiana kwa usahihi, na ushirikiano unaojirudia hauurekebishi. Rekodi nyepesi za pamoja za kazi zilizosaidiwa na AI, maelezo, au historia za ilani huwapa kikundi kitu cha kweli cha kufikiri.

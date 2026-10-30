@@ -58,6 +58,7 @@ LLMs also affirm preferentially: across 11 models, AI responses affirmed users 4
 - **"The model's raw capability determines how well it can diagnose errors."** **Grounding** does: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora and MacLellan (2025)]] showed supplying GPT-4 the tutor interface **substantially changed** its error diagnosis. What the model is given about the learner's context does more work than which model it is.
 - **"Any frontier model behaves the same as a learning partner."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] studied **three frontier families** — ChatGPT, Gemini and Claude — in a classroom comparison, precisely because the families are not interchangeable as collaborators.
 - **"Better models mean less scaffolding needed."** GPT-4 **scaffolded with a semantically precise, iteratively co-refined rubric** could approximate human [[evaluative-judgment|evaluative judgment]] in [[design-based-research|design-based research]]. The approximation came from the rubric refined over iterations, not from the model alone.
+
 ## Connected Concepts
 
 - [[generative-ai]]

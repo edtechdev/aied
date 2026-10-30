@@ -87,6 +87,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - **"An explanation that satisfies users has explained the system."** The same failure of legibility appears on the security side of [[automated-assessment|automated assessment]]: [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) red-team]] found an everyday grading workflow could be manipulated by injected instructions. A plausible narrative and an auditable one are different artifacts.
 - **"General XAI practice transfers to education."** The [[xai-education-framework|XAI-ED framework]] (Khosravi et al., 2022) insists education has **distinctive explainability needs** beyond general XAI, because the audience includes learners who must act on the explanation rather than auditors who must certify it.
 - **"Faithfulness is a property you can claim without probing."** Measured faithfulness requires **counterfactual deletion of rubric-critical spans** alongside human ratings. Attention-to-rubric alignment reaching **78.0% against 41.7% for GPT-4 zero-shot and 32.1% for BERT** is a comparative result from that kind of probing, not from a claim about interpretability.
+
 ## Connected Concepts
 - [[trust-calibration]]
 - [[trust]]
@@ -105,6 +106,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[privacy]]
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
+
 ## Connected Articles
 - [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)

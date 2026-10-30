@@ -85,6 +85,7 @@ Badala ya kuondoa msaada, utafiti unapendekeza kubuni upya jinsi unavyotolewa:
 
 - **Upatikanaji wa vidokezo ulioahirishwa** — kuhitaji muda wa chini wa ushirikiano au majaribio ya suluhisho kabla vidokezo (hasa vya mwisho vinavyofichua jibu) kupatikana.([[lak2026-hint-button-unproductive-use]])
 - **Kuhamisha kutoka *kama* hadi *jinsi*** — swali muhimu la kubuni ni jinsi ya kupanga utoaji wa vidokezo unaolingana na kanuni za mapambano yenye tija, si kama vidokezo vitolewe kabisa.([[lak2026-hint-button-unproductive-use]])
+
 ### Tatizo la kupokea katika watahiniwa wa LLM
 
 Wanafunzi wa ulimwengu halisi mara nyingi **wanapita [[conversational-ai|chatbot]] ya [[scaffolding]]** — si lazima kwa njia ya kudhuru, lakini mara nyingi kwa sababu ya kutolingana kati ya muundo wa kieledu wa chatbot na malengo ya mwanafunzi mwenyewe ya kujifunza. Mistari ya tathmini lazima ipime si kama katahini anaweka ngazi za msaada tu, bali kama wanafunzi *wanachukua* ngazi hizo za msaada, badala ya kudhaniwa kuwa watazichukua.([[rethinking-scaffolding-llm-tutors]])

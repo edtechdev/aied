@@ -133,6 +133,7 @@ ai_assist:
 - [[learning-sciences]]
 - [[nursing-education]]
 - [[vocational-education]]
+
 ## संबंधित लेख
 
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — अनुविषयीय उच्च शिक्षा में AI की व्यवस्थित समीक्षा (59 अध्ययन)

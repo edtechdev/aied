@@ -106,6 +106,7 @@ Fowlin et al. (2026) přidávají operační krok pro rozhodování, kam AI vsto
 - **„Plánování lekcí s AI vrací učitelům čas."** Plánovací čas skutečně klesl, z 3,32 hodiny týdně na 2,51 s nástrojem, ale **mediánový učitel plánoval od nuly jen 21 % až 40 % lekcí**. Čas se ušetřil a plánování se výrazněji nedůkladnější nestalo - úspora se akumulovala, místo aby byla reinvestována.
 - **„Společný návrh s AI je dobře doložen."** Systematický přehled [[wang-teacher-ai-co-design-review-2026|společného návrhu učebních úloh učitelem a AI]] **potvrzuje vzorec ve velkém měřítku napříč 28 studiemi**, což popisuje konzistentní praxi, nikoli prokázání lepších výsledků.
 - **„Rubrika je pevný vstup."** Rubrika funguje jako **zprostředkující rozhraní mezi lidským pedagogickým záměrem a strojovou inferencí**: právě pojímání hodnoticích kritérií jako **revidovatelných** umožňuje, aby nástroj nesl záměr pedagoga. Pevná rubrika přenáší do hodnocení výchozí rámování stroje.
+
 ## Související koncepty
 
 - [[interpreting-and-applying-aied-research]]

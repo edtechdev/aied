@@ -56,6 +56,7 @@ La adopción, y no el mecanismo de adaptación, fue la restricción vinculante e
 
 
 Una revisión alineada con PRISMA de 44 estudios encuentra que la literatura sobre implicación está sesgada hacia la implicación conductual y es más delgada en la implicación agéntica, e informa de un efecto de novedad —la implicación decae con el tiempo en estudios longitudinales de ALEKS y W-Pal una vez que se desvanece la novedad de la herramienta ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng y Fryer (2026)]]).
+
 ### La era de la IA: la adaptación basada en LLM y sus riesgos
 
 La [[generative-ai|IA generativa]] ha ampliado lo que pueden hacer los sistemas adaptativos: los tutores conversacionales [[agentic-ai|agénticos]], el contenido fundamentado en [[rag|RAG]] y la tutoría impulsada por [[llm|LLM]] que ofrecen los [[intelligent-tutoring|sistemas de tutoría inteligente]] adaptan no solo la dificultad de los problemas, sino también el lenguaje y el estilo de explicación (por ejemplo, [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|tutoría adaptativa multiagente]]). Sin embargo, la adaptación basada en LLM introduce riesgos nuevos: sin [[student-modeling|modelos del estudiante]] fiables, la adaptación puede apoyarse en señales superficiales; la sobre-adaptación puede reducir el esfuerzo productivo que el estudiantado necesita (véanse [[desirable-difficulties|dificultades deseables]] y [[cognitive-offloading|dependencia excesiva]]); y el equilibrio entre personalizar y preservar la [[agency|agencia]] de quien aprende es una pregunta de diseño abierta (véase [[agentic-ai|IA agéntica]]). Una variante de adaptación solicitada por quien aprende funciona sin [[student-modeling|modelo del estudiante]] alguno: en el curso de posgrado de Sidorkin (2026) las lecturas se ajustaban solo cuando el estudiantado hacía preguntas de seguimiento para reformularlas, profundizarlas, simplificarlas o localizarlas, y las peticiones orientadas a la comprensión producían de forma fiable un andamiaje más denso (entre 3,4 y 8,7 veces más marcadores definicionales que el texto de referencia), razón por la cual exigir al menos tres preguntas de seguimiento por lectura convirtió el material en una interacción. También traslada la carga adaptativa a quien aprende: aquí la adaptación solo ocurre si el estudiante sabe qué pedir.
@@ -95,6 +96,7 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - **«La adaptatividad basada en la corrección sabe cuándo detenerse.»** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren y Stamper (2026)]] encontraron que los sistemas que infieren el dominio a partir de la corrección corren el riesgo de **terminar la práctica demasiado pronto**: el sistema lee una racha correcta como comprensión y retira la práctica que quien aprende todavía necesitaba. Una adaptatividad que se detiene ante el éxito puede restar exactamente los ensayos que producen retención.
 - **«El cuello de botella es lo buena que sea la adaptación.»** En un **ECA de distrito de dos años**, la restricción vinculante fue la **aceptación inicial**: reducir la inscripción a un solo paso elevó la aceptación en la primera sesión de alrededor del **45% al 83%** solo con cambios de diseño, y las ganancias por intención de tratar crecieron en consecuencia. La adaptación más ingeniosa no sirve a nadie que nunca llega a ella.
 - **«La implicación persiste una vez establecida.»** Una revisión alineada con PRISMA de **44 estudios** encontró que la literatura sobre implicación se inclinaba hacia la implicación conductual y era más delgada en la implicación agéntica, e informa de un **efecto de novedad**: la implicación decae con el tiempo en estudios longitudinales de ALEX y sistemas similares. La implicación temprana no es una propiedad estable del diseño.
+
 ## Qué significa esto para la práctica
 
 **Para el profesorado y el diseño**
@@ -127,6 +129,7 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - [[behaviorism]]
 - [[ai-technologies]] — General: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agéntica)
 - [[recommender-systems-and-learning-paths]]
+
 ## Artículos conectados
 - [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: un sistema de puntuación adaptativa sensible al momento para la evaluación personalizada
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Sobre-generalización engañosa: el dominio adaptativo puede detener la práctica antes de que quien aprende sepa cuándo abstenerse de actuar (An, McLaren y Stamper 2026)

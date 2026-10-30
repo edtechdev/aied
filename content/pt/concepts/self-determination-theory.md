@@ -76,6 +76,7 @@ A TAD se conecta diretamente à [[motivation|motivação]] como seu construto-m�
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## Artigos conectados
 - [[family-school-autonomy-support-genai-2026]] — Apoio à autonomia entre família e escola para o uso responsável de IA generativa pelas crianças
 - [[dual-ai-learning-pathways-sdt-2026]] — Pressão/apoio à autonomia no ensino médio e vias duplas de aprendizagem com IA (Shen & Arunrugstichai 2026)

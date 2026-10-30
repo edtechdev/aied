@@ -15,6 +15,7 @@ confidence: high
 
 > **Synthesis:** Adaptive learning systems produce substantial [[learning-gains|learning gains]], yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step [[problem-solving|problem solving]] using response-time propensities.
 > The authors develop models that infer student effort from response-time patterns, finding that common log-based proxies like time-on-task are insufficient. They propose response-time propensity modeling as a more nuanced approach to identifying when students are superficially engaging versus deeply working through problems.
+
 ## Connections to AIED
 
 This work directly connects to [[learning-analytics]] by providing a validated method for inferring effort from interaction logs. It has implications for [[adaptive-learning]] that could use early effort detection to intervene before students disengage.

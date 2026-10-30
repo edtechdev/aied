@@ -90,6 +90,7 @@ ai_assist:
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Связанные статьи
 - [[alam-process-oriented-collaborative-essays-2026]] — оцениваемое, совместно написанное процессное сочинение в первом курсе степени-подобной программы: итерация и сотрудничество в рубрике, GenAI разрешён в заявленных границах (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — результативность не есть обучение: программа исследований, построенная на мерах процесса (Yan et al. 2026)

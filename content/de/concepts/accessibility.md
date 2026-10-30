@@ -93,6 +93,7 @@ Ein Video mit korrekten Untertiteln und einem ordnungsgemäß ausgezeichneten Tr
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — die Überblicksseite für übermäßig weite Regeln, mangelhafte Evidenz und angemessene Anpassungen
 - [[arts-design-and-media-education]]
+
 ## Verbundene Artikel
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% von 100 Eliteuniversitäten veröffentlichen eine KI-Barrierefreiheitsrichtlinie, während 93% KI-Campusdienste einsetzen
 - [[shin-ai-policies-sld-2026]] — KI-Richtlinien und Nachteilsausgleiche für Studierende mit spezifischen Lernbehinderungen

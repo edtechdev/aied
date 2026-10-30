@@ -98,6 +98,7 @@ Kreativität verbindet sich mit [[critical-thinking|kritischem Denken]] und mit 
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## Verbundene Artikel
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI-Bildgenerierung ließ die Designleistung unverändert, senkte aber die allgemeine kreative Selbstwirksamkeit
 - [[bicer-genai-pd-math-creativity-2026]] — Wie von generativer KI geleitete professionelle Entwicklung das Engagement von Lehrkräften für mathematische Kreativität, Inhaltswissen und pädagogisches Inhaltswissen stützt

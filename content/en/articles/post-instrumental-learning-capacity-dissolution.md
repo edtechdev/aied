@@ -44,6 +44,7 @@ The article translates the argument into a deployment-review question: what will
 - The analysis is built on an idealization — a "perfect AI" that executes specified tasks flawlessly once goals, constraints, and roles are given — which is a deliberate analytic device, not an observed system.
 - The five capacities (end-setting, reason-giving, contestability, refusal and revision, participation) are analytic categories rather than validated instruments, so the argument cannot estimate how fast or how far dissolution proceeds in a given program.
 - Illustrative scenes, such as a student who cannot explain the essay they submitted, carry the empirical weight; no comparison of institutions with and without AI delegation is offered.
+
 ## Citation
 
 Kai Yao (2026). [When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution](https://arxiv.org/abs/2607.28041).

@@ -90,6 +90,7 @@ Bu literatürdeki bir öneri, çerçeve içinde yeniden tasarımın ötesine ge�
 - **Yenilikçi uygulamalar birçok soruna birden çözüm olabilir.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais ve Galy (2026)]], beş birbirini güçlendiren uygulamadan oluşan bir setin — [[authentic-assessment]], öz ve [[peer-assessment]], yeniden değerlendirme, [[mastery-learning|standart temelli not verme]] ve not vermeme (ungrading) — “öğrenme için değerlendirme” paradigmayla hizalanarak, geleneksel, topla ağırlıklı, norm referanslı not vermenin zararlarına (yüzeysel öğrenme, aşındırılmış [[motivation|içsel motivasyon]], stres ve kaygı, eşitsizlik ve zedelenmiş [[academic-integrity|dürüstlük]]) üretken YZ çağında karşı koyabileceğini savunur. Benimsemenin alanlar arasında düzensiz olduğunu bulurlar — öz ve akran değerlendirmesi baskınken not verme odaklı yenilikler marjinal kalmaktadır — ve eğitimcileri artan deneysellik ve [[governance|kurumsal]] destekle değerlendirme ve not verme yeniliğiyle daha etkin ve karşılıklı biçimde angajmana girmeye çağırır.
 
 - **YZ aracılı değerlendirme çeşitlenmektedir.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], LLM ile güçlendirilmiş bir [[conversational-ai|konuşma ajanının]] performansa dayalı değerlendirmeler sırasında öğrenci kaygısını azalttığını göstermektedir; [[asynchronous-oral-assessment-2026|Pentland (2026)]], eş zamansız sözlü değerlendirmelerin daha yüksek angajman sunduğunu ve profesyonel olarak ilgili algılandığını bulmaktadır; [[graph-its-adaptive-algorithms-2026|grafik temelli ITS]], değerlendirmeyi beslemek için uyarlanabilir bilgi durumu izleme kullanmaktadır.
+
 ## Bağlı kavramlar
 - [[learners]] — Öğrenenler: öğrenen tarafı kavramların şemsiyesi
 - [[pedagogical-partnerships]] — Pedagojik Ortaklıklar
@@ -113,6 +114,7 @@ Bu literatürdeki bir öneri, çerçeve içinde yeniden tasarımın ötesine ge�
 - [[eportfolio]] — Süreç temelli e-portfolyo değerlendirmesi
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Bağlı makaleler
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Çok kipli değerlendirme okuryazarlığını tanımlayan ve neyin değişip neyin değişmediğini ölçen bir yıllık program
 - [[ai-agents-joyful-assessment-third-space-2026]] — YZ ajanları, neşeli değerlendirme ve üçüncü uzay

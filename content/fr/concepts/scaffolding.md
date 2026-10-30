@@ -117,6 +117,7 @@ La distinction étayage guidé par règles ou étayage ad hoc dépasse le tuteur
 - [[pedagogy]] — Parapluie : pédagogies et stratégies d'enseignement en IA en éducation
 - [[agentic-ai]]
 - [[productive-failure]] — L'échec productif
+
 ## Articles liés
 - [[kumar-genai-computing-education-systematic-review-2026]] — Le retrait de l'étayage comme mécanisme appliquant la vérification (cadre VIE)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Évaluation d'un système multi-agents à grands modèles de langue orienté vers l'étayage pour la formation à l'entretien clinique

@@ -171,6 +171,7 @@ Samme logik gør belønningsformning til et designværktøj: [[assistance-dilemm
 - **"Promptvolumen måler udlicitering."** **97 lærende** blev klynget efter promptvolumen, og **volumenklyngerne adskilte sig ikke signifikant med hensyn til lokal kontra global eller aktiv-rolle-promptning**. At tælle prompts talte aktivitet, ikke fordelingen af kognitivt arbejde.
 - **"Studerende bruger AI mest til at forstå."** **Analyze toppede fordelingen med 27,28% (831 beskeder) foran Understand med 23,76%**, den første finkornede evidens for, at naturalistisk [elev-AI-interaktion] hælder analytisk frem for forståelsesorienteret.
 - **"Promptspor afslører, om der er udliciteret."** Det, promptspor ikke kan levere, kommer fra et **deludvalg på 16 studerende med koblede karakterer, hvis 1 140 beskeder blev håndkodet**: **49,6% af 125 dialoger viste slet ingen udlicitering**. Spormønstre overdriver udlicitering i forhold til håndkodet dialog.
+
 ## Forbundne begreber
 
 - [[pedagogical-patterns]] — Den risiko, enhver indsats-først-sekvens er designet til at undgå

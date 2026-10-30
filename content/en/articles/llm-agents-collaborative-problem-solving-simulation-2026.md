@@ -38,6 +38,7 @@ methods: [benchmark, network-analysis]
 - Linguistic fidelity rests on five purposively selected turns (ROUGE-L 0.34 ± 0.14) rather than the full corpus of 1,423 coded turns, and no semantic evaluation such as BERTScore or human rating has been run.
 - The simulation overrepresented Technical Constraints–Design links and underrepresented Data and Performance Parameters, a directional bias the authors attribute to the dominance of high-frequency codes.
 - It is a secondary analysis of fully de-identified data with the pseudonym mapping key discarded, so no linkage to individual outcomes or to uses beyond the original study is possible.
+
 ## Citation
 
 Fang, Z. (2026). [Modelling individual participants as LLM agents in collaborative problem solving simulations](https://www.sciencedirect.com/science/article/pii/S2666920X2600055X). *Computers and Education: Artificial Intelligence*, 10, 100593.

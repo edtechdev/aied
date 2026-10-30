@@ -243,6 +243,7 @@ W przypadku kompetencji krytycznych w zakresie SI [[solyst-youth-systematic-eval
 - [[higher-ed]] — kompetencje na poziomie uniwersyteckim
 - [[career-development-and-readiness]] — wypłata w postaci możliwości zatrudnienia, którą kompetencje w zakresie SI są argumentowane, by budować
 - [[ai-education]] — szersza dziedzina
+
 ## Połączone artykuły
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Kształtowanie wczesnego dzieciństwa w erze SI: kompetencje, pedagogika i wsparcie ekologiczne (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Bezpieczeństwo w zakresie SI jako kompetencja: ekosystemowe ramy kompetencji i platforma edukacyjna K-12

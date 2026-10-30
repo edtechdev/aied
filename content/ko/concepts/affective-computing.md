@@ -58,6 +58,7 @@ ai_assist:
 - **정서적으로 지능적인 평가 에이전트.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], [[llm]] 증강 정서적으로 지능적인 [[conversational-ai|대화 에이전트]]는 수행 기반 평가 중 학생의 불안과 사회적 압력을 줄이면서 [[usability-research|사용성]]을 보존했습니다.
 - **감지가 아닌 프롬프트 설계를 통해 설계된 공감.** 정서적 지원은 정서 감지를 필요로 하지 않습니다: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]]은 프롬프트로 지정된 역할과 대화적 행동만이 다른 두 LLM [[physics-education|물리학]] 에이전트 사이에서 *공감 지각*에서 큰 차이(21.27 대 18.24; r = 0.53)를 얻었습니다 — 관점 취하기 개방("당신에게 이 질문이 있는 이유는…"), [[misconceptions|오개념]] 진단, 그리고 각 라운드 끝의 이해도 점검 — 모델, 플랫폼, 온도는 일정하게 유지했습니다. 이것은 센서 기반 정서 컴퓨팅에 대한 유용한 균형추입니다: [[pedagogical-agent]]의 지각된 정서적 품질은 상호작용 스크립트에 설계될 수 있으며, 동시에 지각된 공감이 진정한 정서적 이해의 증거가 아니라 자기 보고 구성 개념이라는 점을 설계자들에게 상기시킵니다([[student-ai-interaction]]).
 - **튜터를 적응시키기보다 교사를 촉구하는 알림.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]]은 고등학교 기하학 교실에서 Dash4Emotion을 배포했는데, 부정적 정서를 경험하는 것으로 읽히는 학생들을 빨간색 테두리 사각형으로 표시했습니다. 식별된 20개의 에피소드(5개 보고됨)에 걸쳐, 참여를 변화시킨 것은 알림 자체가 아니라 알림에 대한 교사의 반응이었습니다. 설계 요점은 정서 감지가 적응형 튜터의 다음 행동이 아니라 인간의 의사결정에 공급될 수 있다는 것입니다 — 연구 자체의 주의가 함께합니다: 얼굴 표정 감지의 검증을 보고하지 않으므로, 그 신호는 학생의 내적 상태에 대한 증거라기보다 교사 해석을 위한 촉망입니다.
+
 ## 흔한 오해
 
 - **"참여가 많다는 것이 학습이 많다는 뜻입니다."** 뇌 감지 연구에서 **제약된 적응형 인터페이스는 인지적 참여를 높였지만(p = .018) 제한 없는 챗봇은 더 높은 학습 이득을 냈습니다**. 더 많이 참여시킨 인터페이스가 더 적게 가르친 것입니다. 참여는 학습의 대리 지표가 아니며, 참여를 최적화하면 결과가 반대 방향으로 움직일 수 있습니다.
@@ -79,6 +80,7 @@ ai_assist:
 - [[llm-training-and-fine-tuning]]
 - [[ai-sycophancy]]
 - [[social-emotional-learning]] — 사회정서학습(Social-Emotional Learning)
+
 ## 연결된 문서
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — AI 생성 정서 알림에 대응하기: 수학 교실에서 교사의 개입과 학생의 참여
 - [[wang-teacher-student-centered-agents-physics-2026]] — 물리학 학습에서 프롬프트 설계된 에이전트 역할로부터의 공감 지각 (Wang et al. 2026)

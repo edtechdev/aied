@@ -72,6 +72,7 @@ PBL inaunganisha na [[active-learning]], [[experiential-learning]], [[collaborat
 - [[higher-ed]]
 - [[pedagogy]] — Paa: mbinu za kieledu na mbinu za kufundisha katika elimu ya AI
 - [[arts-design-and-media-education]]
+
 ## Makala Zilizounganishwa
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Kujifunza kwa msingi wa matatizo na kwa msingi wa mradi kama miundo ya matumaini kwa elimu inayosaidiwa na akili bandia ya kizalishaji: Ushahidi unaoibuka kutoka mapitio ya kimfumo na meta-analysis ya viwango vitatu
 - [[pbl-structural-conditions-ai-2026]]

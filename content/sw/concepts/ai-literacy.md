@@ -248,6 +248,7 @@ Kwa ujuzi mahususi wa AI hasa, [[solyst-youth-systematic-evaluation-genai-2026|S
 - [[higher-ed]] — ujuzi wa ngazi ya chuo kikuu
 - [[career-development-and-readiness]] — faida ya uwezo wa kazi ambayo ujuzi wa AI inadaiwa kujenga
 - [[ai-education]] — uwanja mpana zaidi
+
 ## Makala Zilizounganishwa
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Kuunda utotoni katika enzi ya AI: uwezo, mbinu za kufundisha na msaada wa ikolojia (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — Ujuzi wa Usalama wa AI: mfumo wa uwezo unaotegemea ikolojia na jukwaa la kujifunzia la K-12

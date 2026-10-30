@@ -113,6 +113,7 @@ Die Unterscheidung regelgeleitet versus ad-hoc reicht über den Tutor hinaus bis
 - [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in der KI-Bildung
 - [[agentic-ai]]
 - [[productive-failure]] — Produktives Scheitern
+
 ## Verbundene Artikel
 - [[kumar-genai-computing-education-systematic-review-2026]] — Scaffold-Rückzug als der Mechanismus, der Verifikation durchsetzt (VIE-Framework)
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluation eines scaffoldingorientierten Multi-Agenten-Systems auf Basis großer Sprachmodelle für das Training klinischer Interviews

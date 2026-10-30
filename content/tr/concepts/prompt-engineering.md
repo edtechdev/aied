@@ -103,6 +103,7 @@ ai_assist:
 - [[cs-education]]
 - [[higher-ed]]
 - [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, ajan tabanlı)
+
 ## Bağlı makaleler
 - [[wang-teacher-student-centered-agents-physics-2026]] — Fizik öğrenmesinde tasarım değişkeni olarak ajan rolü ve kısıt istek metinleri (Wang ve ark. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — GPT temelli L2 dinleme maddesi üretiminde istek metni yazma ve ince ayar (Aryadoust & Wong 2026)

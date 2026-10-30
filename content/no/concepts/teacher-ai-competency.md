@@ -132,6 +132,7 @@ Etter hvert som AI overtar rutinemessige undervisnings- og vurderingsoppgaver, f
 - **Støtt det institusjonelle laget:** bærekraftig lærerkompetanse krever samordnet policy, styring og kapasitet, ikke isolert opplæring.
 
 - **Læreres digitale kompetanse for GenAI i [[curriculum-design|læreplansdesign]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validerer et TAM-basert diagnostisk instrument med 434 yrkesaktive lærere; atferdsintensjon var den viktigste prediktoren for digital kompetanse i å bruke GenAI i læreplansplanlegging, med self-efficacy som rotårsak.
+
 ### Et psykometrisk instrument for læreres AI-kompetanse
 
 - En psykometrisk studie utviklet Teachers' AI Literacy Scale (TAILS) for å måle AI-kompetanse spesifikt innen [[teacher-education|språklærerutdanning]], ved å operasjonalisere ED-AI-rammeverkets seks dimensjoner. Instrumentets utvikling fyller et gap i vurderinger som retter seg mot studenter eller generelle brukere, og støtter måling av læreres AI-kompetanse.
@@ -143,6 +144,7 @@ Instrumentlandskapet er siden blitt gjennomgått. [[assessing-teachers-ai-litera
 - **«Prompttrening gjør lærernes materiell bedre.»** **Prompttrening kjøper tid, ikke bedre materiell**: i en **forhåndsregistrert RCT med 204 lærere** fant Appel, Fervers og Piepenburg (2026) at ChatGPT forbedret **tiden brukt** mens materialkvaliteten ikke fulgte etter. Effektivitetsgevinsten er reell, og den er ikke kvalitetsgevinsten.
 - **«Når lærere konfigurerer en chatbot, er svikten faktisk feil.»** **Når lærere konfigurerer en chatbot på naturlig språk, er den dominerende svikten tapt intensjon snarere enn gale fakta**: botene **hopper over** trinnet læreren mente. Instruksjonsfølging svikter strukturelt snarere enn faktisk.
 - **«Teknisk ferdighet er det avgjørende laget.»** **Pedagogisk kunnskap er det avgjørende laget**: en tverrnivåstudie av [[ai-education|AI-undervisning]] i videregående skole [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al., 2026]]. Kompetansen som avgjør utfallet, er den de fleste opplæringsprogrammer investerer minst i.
+
 ## Beslektede begreper
 
 - [[ai-literacy]]

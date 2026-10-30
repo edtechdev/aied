@@ -173,6 +173,7 @@ Prvá štúdia teórie plánovaného správania o zámere nekalého konania zalo
 - **„Detekčné nástroje identifikujú písanie AI."** Text generovaný AI **prešiel ako ľudský autorský v až 80 % prípadov**, zatiaľ čo dôkazy pre detekciu stavajú **strojovú detekciu na približne 80 % oproti 78,4 % u ľudských posudzovateľov**. Ľudský a strojový úsudok sú takmer rovnako (ne)spoľahlivé, takže verdikt detektora nie je dôkazom autorstva.
 - **„Problém je marginálny."** Objem zďaleka nie je: **šesťročná analýza kurzu CS2 s veľkou zápisovou základňou** zistila **45,7 % študentov na jar 2026 označených**. Takmer polovica kohorty, čo z toho robí mainstreamový dizajnový problém, a nie okrajový prípad.
 - **„Vyučujúci vedia, ktoré hodnotenia sú zraniteľné."** Na katedre [[biology-education|biológie]] vyučujúci **vnímali ako minimálne zraniteľné len osobné skúšky pod dohľadom**, zatiaľ čo zadania mimo triedy považovali za vystavené. Vnímanie zodpovedalo zjavnému prípadu a všetko ostatné považovalo za bezpečné.
+
 ## Prepojené koncepty
 - [[pedagogical-patterns]] - overovacie sekvencie prijaté v reakcii na generatívnu AI
 - [[ai-use-disclosure]] - vyhlásenia o použití AI a zverejnení

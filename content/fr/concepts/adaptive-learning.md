@@ -52,6 +52,7 @@ C'est l'adoption, et non le mécanisme d'adaptation, qui constituait la contrain
 
 
 Une revue conforme à PRISMA de 44 études constate que la littérature sur l'engagement est biaisée vers l'engagement comportemental et la plus mince sur l'engagement agentique, et rend compte d'un effet de nouveauté — l'engagement déclinant dans le temps dans les études longitudinales portant sur ALEKS et W-Pal, une fois passée la nouveauté de l'outil ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]]).
+
 ### L'ère de l'IA : l'adaptation fondée sur les LLM et ses risques
 
 L'[[generative-ai|IA générative]] a étendu ce que les systèmes adaptatifs peuvent faire — tuteurs conversationnels [[agentic-ai|agentiques]], contenus ancrés dans la [[rag|génération augmentée par la recherche documentaire]], et le [[intelligent-tutoring|tutorat]] piloté par les [[llm]] adaptent non seulement la difficulté des problèmes, mais aussi le langage et le style d'explication (par exemple [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor]], le [[chudziak-ai-math-tutoring-platform|tutorat adaptatif multi-agents]]). Cependant, l'adaptation fondée sur les LLM introduit de nouveaux risques : sans [[student-modeling|modèles de l'apprenant]] fiables, l'adaptation peut reposer sur des signaux superficiels ; la sur-adaptation peut réduire la lutte productive dont les étudiants ont besoin (voir les [[desirable-difficulties|difficultés souhaitables]], le [[cognitive-offloading|délestage cognitif]]) ; et l'équilibre entre personnaliser et préserver l'[[agency|autonomie]] de l'apprenant est une question de conception ouverte (voir l'[[agentic-ai|IA agentique]]). Une variante de l'adaptation demandée par l'apprenant fonctionne sans aucun [[student-modeling|modèle de l'apprenant]] : dans le cours de deuxième cycle de Sidorkin (2026), les lectures ne s'ajustaient que lorsque les étudiants posaient des questions de suivi pour les recadrer, les approfondir, les simplifier ou les contextualiser, et les demandes orientées vers la compréhension produisaient de façon fiable un étayage plus dense (3.4x à 8.7x plus de marqueurs définitionnels que le texte de référence), ce qui explique pourquoi l'exigence d'au moins trois questions de suivi par lecture a transformé le matériel en interaction. Cela reporte aussi le fardeau de l'adaptation sur l'apprenant : l'adaptation n'a lieu ici que si l'étudiant sait quoi demander.
@@ -95,6 +96,7 @@ L'apprentissage adaptatif est fréquemment confondu avec l'[[personalized-learni
 - [[behaviorism]]
 - [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement de LLM, robotique, RAG, agentique)
 - [[recommender-systems-and-learning-paths]]
+
 ## Articles liés
 - [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS : un système de notation adaptative sensible à l'élan pour l'évaluation personnalisée
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Surgénéralisation trompeuse : la maîtrise adaptative peut interrompre l'entraînement avant que les apprenants ne sachent quand retenir une action (An, McLaren & Stamper 2026)

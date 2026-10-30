@@ -133,6 +133,7 @@ Der Konstruktivismus prägt auch, wie KI-Kompetenz selbst gelehrt wird. Wenn Wis
 - [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
 - [[theory-development-aied]] — Theorieentwicklung in KI in der Bildung
 - [[productive-failure]]
+
 ## Verbundene Artikel
 - [[lee-learner-question-types-ai-education-2026]] — Lernendenfragen klassifiziert in drei konstruktivistische Rollen: Übermittler, Facilitator, Mitlernende (Lee, Atif & Kang 2026)
 - [[mishra-control-vs-agency-history-2025]] — Positioniert Konstruktionismus (Papert) gegen kognitive Tutoren in der Geschichte der AIED

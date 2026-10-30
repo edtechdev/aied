@@ -90,6 +90,7 @@ ai_assist:
 - **Инновационные практики могут решать сразу несколько проблем.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] утверждают, что набор из пяти взаимно усиливающих практик — [[authentic-assessment]], самооценивание и [[peer-assessment]], переоценивание, [[mastery-learning|standards-based grading]] и отмена оценок (ungrading), — согласованный с парадигмой «оценивание для обучения», может противодействовать вреду традиционного, перегруженного суммативным, нормо-ориентированного выставления оценок (поверхностное обучение, подорванная [[motivation|intrinsic motivation]], стресс и тревожность, неравенство и скомпрометированная [[academic-integrity|integrity]]) в эпоху генеративного ИИ. Они обнаруживают, что внедрение неровно по областям: самооценивание и взаимное оценивание доминируют, тогда как ориентированные на выставление оценок инновации остаются маргинальными, — и призывают преподавателей активнее и взаимно вовлекаться в инновации в оценивании и выставлении оценок, опираясь на постепенные эксперименты и [[governance|institutional]] поддержку.
 
 - **Опосредованное ИИ оценивание диверсифицируется.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] показывает, что усиленный LLM [[conversational-ai|conversational agent]] снижал тревожность студентов во время оценивания, основанного на выполнении; [[asynchronous-oral-assessment-2026|Pentland (2026)]] обнаруживает, что асинхронные устные оценивания давали большее вовлечение и воспринимались как профессионально значимые; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] используют адаптивное отслеживание состояния знаний для информирования оценивания.
+
 ## Связанные концепции
 - [[learners]] — Учащиеся: зонтичное понятие для понятий со стороны учащегося
 - [[pedagogical-partnerships]] — Педагогические партнёрства
@@ -113,6 +114,7 @@ ai_assist:
 - [[eportfolio]] — Оценивание электронного портфолио, основанное на процессе
 - [[speech-and-voice-technologies]]
 - [[peer-assessment]]
+
 ## Связанные статьи
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — A year-long program that defines multimodal assessment literacy and measures what moved, and what did not
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

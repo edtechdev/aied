@@ -78,6 +78,7 @@ ai_assist:
 - [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
+
 ## Связанные статьи
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[dual-ai-learning-pathways-sdt-2026]] — High-school pressure/autonomy support and dual AI learning pathways (Shen & Arunrugstichai 2026)

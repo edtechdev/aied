@@ -116,6 +116,7 @@ Kurejea hubeba gharama ya ushahidi ambayo ushahidi wa faili unaifanya kuonekana.
 - [[feedback]]
 - [[summative-assessment]] — Tathmini ya jumla: muundo unaostahimili AI (mitihani ya mdomo, iliyosimamiwa, ya kitabu kilichofungwa)
 - [[arts-design-and-media-education]]
+
 ## Makala Zilizounganishwa
 - [[thapa-lewis-process-oriented-assessment-2026]] — tathmini inayoelekea mchakato na uhalisi wa kielimu kama kile ambacho kazi inapaswa kuthibitisha
 - [[ivory-psychology-assessment-integrity-2026]] — Kile AI haikuweza kupita: uwepo, vitu vya kuona, na data ya mwanafunzi mwenyewe (Ivory et al. 2026)

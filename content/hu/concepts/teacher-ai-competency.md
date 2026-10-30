@@ -131,6 +131,7 @@ Ahogy az MI átveszi a rutin oktatási és értékelési feladatokat, a tanár m
 - **Támogassák az intézményi réteget:** a fenntartható tanári kompetencia összehangolt szabályzatot, irányítást és kapacitást igényel, nem elszigetelt képzést.
 
 - **A tanári digitális kompetencia a GenAI [[curriculum-design|tantervtervezésében]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validálnak egy TAM-alapú diagnosztikai eszközt 434 gyakorló tanárral; a viselkedési szándék volt a digitális kompetencia fő prediktora a GenAI tantervtervezésben való használatához, az önhatékonyság gyökérhajtóerővel.
+
 ### Pszichometriai eszköz a tanári MI-kompetencia mérésére
 
 - Egy pszichometriai tanulmány kifejlesztette a Teachers' AI Literacy Scale (TAILS) eszközt, hogy kifejezetten a [[teacher-education|nyelvtanárképzésben]] mérje az MI-írástudatosságot, operacionalizálva az ED-AI keretrendszer hat dimenzióját. Az eszköz kidolgozása pótol egy hiányt azokban az értékelésekben, amelyek diákokat vagy általános felhasználókat céloznak, támogatva a tanári MI-kompetencia mérését.
@@ -142,6 +143,7 @@ Az eszközök világát azóta áttekintették. [[assessing-teachers-ai-literacy
 - **„A promptolási képzés jobb anyagokat ad a tanároknak.”** **A promptolási képzés időt ad, nem jobb anyagokat:** egy **204 tanárral végzett előre regisztrált RCT-ben** Appel, Fervers és Piepenburg (2026) szerint a ChatGPT javította az **eltöltött időt**, míg az anyag minősége nem követte. A hatékonysági nyereség valós, és nem a minőségi nyereség.
 - **„Amikor a tanárok chatbotot konfigurálnak, a hiba ténybeli tévedés.”** **Amikor a tanárok természetes nyelven konfigurálnak chatbotot, a domináns hiba az elveszett szándék, nem a téves tény:** a botok **kihagyják** a lépést, amelyet a tanár szánt. Az utasításkövetés szerkezetileg, nem ténybelileg vall kudarcot.
 - **„A technikai készség a döntő réteg.”** **A pedagógiai tudás a döntő réteg:** egy középiskolai [[ai-education|MI-oktatást]] vizsgáló, szintek közötti kutatás [[pedagogy-first-technology-second-teacher-knowledge-2026|Shen és mtsai, 2026]]. A kimenetet meghatározó kompetencia az, amelybe a legtöbb képzési program a legkevesebbet fektet.
+
 ## Kapcsolódó fogalmak
 
 - [[ai-literacy]]

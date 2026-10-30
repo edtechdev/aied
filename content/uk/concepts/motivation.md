@@ -89,6 +89,7 @@ ai_assist:
 - [[ai-education]]
 - [[framing-ai-use-for-students]]
 - [[social-emotional-learning]] — Соціально-емоційне навчання
+
 ## Пов’язані статті
 - [[liu-ai-assistance-reduces-persistence-2026]] — Коротке використання ШІ зменшило настійливість у подальших задачах без допомоги (Liu та співавт. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Автоматизований зворотний зв’язок за аргументативне письмо: роль сприйнятливості до зворотного зв’язку та його сприйняття в учнів

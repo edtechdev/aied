@@ -122,6 +122,7 @@ AI का उपयोग करने वाले छात्र आमतौ
 - [[self-regulated-learning]]
 - [[learning-theories]]
 - [[productive-failure]] — उत्पादक विफलता
+
 ## संबंधित लेख
 - [[yan-agentivism-learning-theory-ai-2026]] — मानव-AI अंतःक्रिया के लिए एक मध्य-विस्तार का शिक्षण सिद्धांत, चार क्रियाविधियों और छह परीक्षणीय प्रस्तावों के साथ (Yan and Gašević 2026)
 

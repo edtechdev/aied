@@ -88,6 +88,7 @@ AI 支援の実践が意欲と関連する経路である不安の経路は、�
 - [[educational-robotics]]
 - [[self-report-measures]]
 - [[social-emotional-learning]] — 社会的情動学習
+
 ## つながる記事
 - [[confident-but-absent-ai-use-absenteeism-2026]] — 一般的な AI 利用はより高い自己効力感とより高い欠席と連動したが、自己効力感は出席を予測しなかった（Franco et al. 2026）
 - [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — 高等教育における AI チャットボット：期待と証拠の比較（Thoeni & Fryer 2026）

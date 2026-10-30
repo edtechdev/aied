@@ -113,6 +113,7 @@ LearnAI מראה כיצד נראית גרסה מוטמעת: שכבת חשיפה 
 - [[collaborative-learning]]
 - [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך עם בינה מלאכותית
 - [[recommender-systems-and-learning-paths]]
+
 ## מאמרים מחוברים
 
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)

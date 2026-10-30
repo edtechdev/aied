@@ -122,6 +122,7 @@ ai_assist:
 - [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
 - [[agentic-ai]]
 - [[productive-failure]] — 有效失败
+
 ## 关联文章
 
 - [[kumar-genai-computing-education-systematic-review-2026]] — 脚手架撤除作为强制验证的机制（VIE 框架）

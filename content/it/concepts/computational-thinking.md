@@ -66,6 +66,7 @@ Per gli educatori, il messaggio coerente è che il CT si sviluppa attraverso un 
 Il pensiero computazionale è il fondamento cognitivo condiviso sotto [[ai-literacy|l'alfabetizzazione sull'IA]] e [[critical-thinking|il pensiero critico]], il nucleo curricolare della [[cs-education|formazione in informatica]] e dell'informatica nel [[k-12|K-12]], e il bersaglio concettuale che [[educational-robotics|la robotica educativa]], [[game-based-learning|l'apprendimento basato sul gioco]] e [[project-based-learning|l'apprendimento basato su progetti]] sono maggiormente progettati per servire. È approfondito da [[llm|grandi modelli linguistici]] e [[generative-ai|IA generativa]] quando questi sono usati come strumenti di scaffolding, ed è la competenza che le tassonomie delle misconcezioni degli studenti e le valutazioni consapevoli del CT mirano a misurare. Gli insegnanti la sviluppano attraverso [[teacher-education|la formazione degli insegnanti]] e [[professional-training|la formazione professionale]], ed essa si trasferisce tra domini, inclusa [[physics-education|l'educazione fisica]] e [[stem-education|le STEM]] in senso ampio.
 
 - **Il pensiero computazionale predice l'apprendimento con assistenti di IA.** [[computational-thinking-aica-2026|Gli studenti di terza media]] con alto pensiero computazionale hanno significativamente superato i coetanei con basso CT in un corso con assistente di programmazione IA, usando l'assistente per comprendere anziché per recuperare risposte.
+
 ## Concetti collegati
 
 - [[cs-education]]

@@ -88,6 +88,7 @@ A third route hardens the assignment itself: rendering prompts as perturbed imag
 - **"Institutional AI adoption has matured."** The **symbolic layer is saturated while the structural layer is thin**: **100% have an AI task force and a master's AI degree, but only 12% have executive AI leadership** and only 5% require a further institutional step. Announcements have outrun structures by an order of magnitude.
 - **"Prestige predicts institutional AI maturity."** Institutionalization proved **independent of prestige (rank correlation r ≈ 0.04)**, with significant **regional variation (ANOVA F = 5.86, p < .001)**. Reputation is not a proxy for readiness, and geography predicts more than status.
 - **"How AI distributes epistemic work is uniform across institutions."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified **102 empirical higher-education studies** by how epistemic work was distributed, and the variation is the finding rather than a detail.
+
 ## Connected Concepts
 
 - [[pedagogical-patterns]] — The level where most of the tested sequence evidence was generated

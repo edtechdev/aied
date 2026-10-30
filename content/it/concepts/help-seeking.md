@@ -84,6 +84,7 @@ Anziché rimuovere l'aiuto, la ricerca raccomanda di riprogettare il modo in cui
 
 - **Disponibilità ritardata degli indizi** — richiedere un tempo minimo di coinvolgimento o tentativi di soluzione prima che gli indizi (specialmente quelli finali) siano accessibili.([[lak2026-hint-button-unproductive-use]])
 - **Passare dal *se* al *come*** — la domanda progettuale chiave è come strutturare la consegna degli indizi in linea con i principi della lotta produttiva, non se fornire indizi del tutto.([[lak2026-hint-button-unproductive-use]])
+
 ### Il problema della fruizione nei tutor LLM
 
 Gli studenti reali aggirano frequentemente lo [[scaffolding]] di un [[conversational-ai|chatbot]] — non necessariamente in modo dannoso, ma spesso perché c'è un disallineamento tra l'inquadratura pedagogica del chatbot e gli obiettivi di apprendimento propri dello studente. Le pipeline di valutazione devono quindi misurare non solo se un tutor impalca, ma se gli studenti *fruiscono* di quell'impalcatura, anziché assumere che lo faranno.([[rethinking-scaffolding-llm-tutors]])

@@ -115,6 +115,7 @@ La conception de programme se rattache directement à l'[[learning-design]] — 
 - [[collaborative-learning]]
 - [[pedagogy]] — Parapluie : les pédagogies et stratégies d'enseignement en IA éducative
 - [[recommender-systems-and-learning-paths]]
+
 ## Articles liés
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Cartographie des compétences pondérée et validée par des experts pour l'accréditation
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analyse critique du discours des recommandations sur l'alignement constructif avec l'IA générative (McInnes et al. 2026)

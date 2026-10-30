@@ -249,6 +249,7 @@ For kritisk AI-kompetanse spesielt viser [[solyst-youth-systematic-evaluation-ge
 - [[higher-ed]] — kompetanse på universitetsnivå
 - [[career-development-and-readiness]] — gevinsten i ansettbarhet AI-kompetanse hevdes å bygge
 - [[ai-education]] — det bredere feltet
+
 ## Tilknyttede artikler
 - [[early-childhood-ai-holistic-competencies-review-2026]] — Å forme tidlig barndom i AI-tidsalderen: kompetanser, pedagogikk og økologisk støtte (Pei 2026)
 - [[ai-security-literacy-k12-framework-2026]] — AI-sikkerhetskompetanse: økosystembasert kompetanserammeverk og læringsplattform for K-12

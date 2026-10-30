@@ -95,6 +95,7 @@ Matokeo mengine mawili yanachanganya hadithi yoyote rahisi ya zana za kizalishaj
 - [[virtual-and-augmented-reality]]
 - [[discipline-specific-aied]]
 - [[design-education]]
+
 ## Makala Zilizounganishwa
 - [[genai-xr-architectural-design-education-2026]] — GenAI pamoja na XR ya watumiaji wengi katika studio halisi ya usanifu: majukumu yanayojazana, kupungua kwa uwezo binafsi wa ubunifu, hakuna faida ya jalada (Xiao et al. 2026)
 - [[genai-architecture-education]] — Mtiririko wa kazini wa picha unaotekelezwa ndani ya nchi, mahususi ya taaluma, katika studio ya usanifu: nafasi pana zaidi ya utafutaji wa ubunifu na kupungua kwa wasiwasi wa ukosoaji (Kapsalis 2026)

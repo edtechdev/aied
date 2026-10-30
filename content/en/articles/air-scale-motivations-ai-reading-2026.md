@@ -60,6 +60,7 @@ Low-effort is the motive with the clearest risk profile. Its negative associatio
 - Divergent validity came only from preference for task switching and from self-reported ADHD and learning-disability status — both unrelated to any subscale — which rules out AIR as a proxy for general digital multitasking or attentional and learning difficulties but leaves the instrument's discriminant evidence on a narrow base.
 - The samples were primarily younger higher-education students recruited through Prolific, so because age and education shape GenAI adoption the [[educational-measurement|psychometrics]] may not transfer to older adults or other educational backgrounds; ADHD and learning-disability status were single binary self-report items rather than clinically validated or dimensional measures.
 - Most importantly, the scale measures [[motivation]], not outcome: comprehension and knowledge transfer also depend on planning, monitoring and evaluation, processes that confident-sounding GenAI responses may undermine by encouraging [[cognitive-offloading|offloading]] and overestimation; AIR cannot say whether a stated motive translates into a particular interaction pattern — only prompt logs, verification behavior and time on text can do that, which is the combination the authors propose for future work.
+
 ## Citation
 
 Brann, A., Etgar, S., & Sidi, Y. (2026). [*The AIR Scale: Development and validation of a measure of motivations for using AI during reading*](https://osf.io/preprints/psyarxiv/djexs_v1). *PsyArXiv Preprints*.

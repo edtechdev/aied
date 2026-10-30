@@ -118,6 +118,7 @@ Der Rückzug trägt einen evidentiellen Preis, den die Aktenbelege sichtbar mach
 - [[feedback]]
 - [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, geschlossen)
 - [[arts-design-and-media-education]]
+
 ## Verbundene Artikel
 - [[thapa-lewis-process-oriented-assessment-2026]] — prozessbasiertes Assessment und epistemische Authentizität als das, was eine Aufgabe authentifizieren sollte
 - [[ivory-psychology-assessment-integrity-2026]] — Was KI nicht bestehen konnte: Präsenz, visuelle Artefakte und die eigenen Daten der Studierenden (Ivory et al. 2026)

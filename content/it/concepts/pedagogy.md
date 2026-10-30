@@ -114,6 +114,7 @@ Quell'enfasi sullo sforzo preservato non è assoluta: un disegno [[mixed-methods
 - [[higher-ed]]
 - [[k-12]]
 - [[llm-training-and-fine-tuning]] — Strumenti di IA addestrati a seguire principi pedagogici
+
 ## Articoli collegati
 - [[genai-didactic-pedagogical-mediator-2026]] — GenAI as didactic-pedagogical mediator: instructor–student–GenAI triadic model (Moganadas et al. 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)

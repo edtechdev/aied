@@ -79,6 +79,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - **"Disrupting students produces creative gains."** **Friction is not creative gain.** Contrarian AI personas drove challenge-and-reflection discourse in **38.2% of groups** yet produced **no measurable creative-performance improvement**. The discourse changed and the measured outcome did not.
 - **"The K-12 literature establishes that GenAI improves creativity."** A PRISMA-guided scoping review of **45 studies (2017-2025)** shows GenAI mostly **enhances** creativity and **rarely measures** it. The field's dominant finding is an inference from perceived enhancement, which is not an outcome measurement.
 - **"More dependence on GenAI means more creative output."** Among **1,157 Chinese graduate students**, GenAI dependence was **positively associated with self-reported research creativity** — and the association is with **self-report**, which is the weakest available measure of the construct.
+
 ## Connected Concepts
 
 - [[critical-thinking]]
@@ -95,6 +96,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
+
 ## Connected Articles
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — GenAI image generation left design performance unchanged but lowered general creative self-efficacy
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge

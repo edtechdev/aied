@@ -90,6 +90,7 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - [[self-regulated-learning]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+
 ## Artigos conectados
 - [[alam-process-oriented-collaborative-essays-2026]] — Uma redação de processo colaborativa e pontuada em uma aprendizagem de graduação de primeiro ano: iteração e colaboração na rubrica, GenAI permitida dentro de limites declarados (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — o desempenho não é aprendizagem: uma agenda de pesquisa construída sobre medidas de processo (Yan et al. 2026)

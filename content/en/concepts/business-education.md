@@ -63,6 +63,7 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - **"Students want AI because they want shortcuts."** A student-informed framework found students **highly engaged and aware they need GenAI skills for careers**, while also wanting **to use AI without unintentionally committing academic misconduct**. The demand is for competence with clear boundaries, not for permission to avoid work.
 - **"Adding AI modules to a business curriculum captures the benefit."** Research on constructive alignment found that whether **benefits or risks dominated was shaped by the degree of curriculum integration** — the operative distinction is **integrate, don't append**. A bolted-on module leaves the assessment design unchanged.
 - **"Tool sophistication beats conventional e-learning."** A **130-student** perception study found **both chatbot and agent support rated above traditional e-learning** on enhancement, personalization and decision-making. Worth noting what this measures: student *perception* against a conventional baseline, not learning against it.
+
 ## Connected Concepts
 
 - [[ai-education]]
