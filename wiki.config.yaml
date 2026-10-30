@@ -164,6 +164,11 @@ build:
     # generator and compares, so a rebuild that forgets to regenerate fails here
     # instead of publishing a wrong number and a dead path.
     - python3 tooling/scripts/check-offline-manifest.py
+    # The FAQ index renders its sections from src/data/faqIndex.ts, so an FAQ nobody
+    # adds to that registry builds fine, has its own working URL, and is invisible to
+    # every reader who arrives through /faq. Astro cannot see the omission, and neither
+    # can a link check. This asserts that all 42 pages appear exactly once.
+    - python3 tooling/scripts/check-faq-index.py
     # A translation can mirror its English page's headings and links and still be wrong: a
     # model that ran out of context pasted a section copied from a neighbouring page, which
     # keeps every heading and every link, so the heading count and the link scan both pass.

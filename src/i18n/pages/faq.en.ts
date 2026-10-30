@@ -13,6 +13,14 @@ export interface FaqStrings {
   assistantHtml: string;
   /** Shown when the collection is empty. */
   empty: string;
+  /**
+   * Optional localized labels for the FAQ index sections, keyed by the English
+   * heading from src/data/faqIndex.ts. A locale without an entry falls back to the
+   * English heading, which is the site's usual rule for an untranslated heading.
+   */
+  sectionHeadings?: Record<string, string>;
+  /** Optional localized section blurbs, keyed the same way. */
+  sectionBlurbs?: Record<string, string>;
 }
 
 const en: FaqStrings = {

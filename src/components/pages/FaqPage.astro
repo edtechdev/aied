@@ -2,8 +2,13 @@
 // FAQ index, rendered for any locale from src/i18n/pages/faq.<locale>.ts. The
 // questions come from the `faqs` collection; each title is shown in the locale
 // being rendered when the page has a translation there, and falls back to English
-// when it does not. The links were always localized — the translated pages exist —
-// so an English title next to a working Spanish link is a bug, not a fallback.
+// when it does not. The links were always localized — the translated pages exist — so
+// an English title next to a working Spanish link is a bug, not a fallback.
+//
+// The grouping comes from src/data/faqIndex.ts, the same arrangement the concepts
+// index uses: sections by the job the reader is trying to do, a slug with no page
+// dropped rather than linked, and any FAQ the registry failed to list collected
+// into a trailing section instead of disappearing from the index.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../PageTypeIcon.astro';
@@ -11,6 +16,7 @@ import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHref, localizeHtml } from '../../i18n/config';
 import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
+import { faqIndex } from '../../data/faqIndex';
 
 const { locale } = Astro.props;
 const s = strings(locale).faq;
@@ -18,13 +24,39 @@ const ui = strings(locale).ui;
 
 const faqs = await getCollection('faqs');
 const titles = await localizedTitles(locale);
-const sorted = faqs.slice().sort((a, b) => {
+const byWeight = faqs.slice().sort((a, b) => {
   const w = (b.data.weight ?? 0) - (a.data.weight ?? 0);
   return w !== 0 ? w : (a.data.created || '').localeCompare(b.data.created || '');
 });
+const slugOf = (id: string) => id.replace(/\.md$/, '');
+const pageBySlug = new Map(byWeight.map((f) => [slugOf(f.id), f]));
+
+// Heading ids come from the English heading, so the anchor a reader copies stays
+// stable when they switch language.
+const anchor = (text: string) => text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const label = (heading: string) => s.sectionHeadings?.[heading] ?? heading;
+const blurb = (section: { heading: string; blurb: string }) =>
+  s.sectionBlurbs?.[section.heading] ?? section.blurb;
+
+const listed = new Set(faqIndex.flatMap((section) => section.items));
+const sections = faqIndex
+  .map((section) => ({
+    heading: section.heading,
+    blurb: section.blurb,
+    items: section.items.filter((slug) => pageBySlug.has(slug)),
+  }))
+  .filter((section) => section.items.length > 0);
+
+const unlisted = byWeight.map((f) => slugOf(f.id)).filter((slug) => !listed.has(slug));
+if (unlisted.length > 0) {
+  sections.push({ heading: 'More questions', blurb: 'Questions not yet filed into a section.', items: unlisted });
+}
+
+const total = new Set(sections.flatMap((section) => section.items)).size;
+const toc = sections.map((section) => ({ text: label(section.heading), slug: anchor(section.heading), depth: 2 }));
 ---
 
-<BaseLayout title={s.title} locale={locale}>
+<BaseLayout title={s.title} locale={locale} toc={toc}>
   <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
   <h1><PageTypeIcon kind="faq" size={32} />{s.h1}</h1>
 
@@ -33,15 +65,21 @@ const sorted = faqs.slice().sort((a, b) => {
     <p set:html={localizeHtml(s.assistantHtml, locale)} />
   </div>
 
-  {sorted.length === 0 && <p>{s.empty}</p>}
+  {total === 0 && <p>{s.empty}</p>}
 
-  <div class="faq-list">
-    {sorted.map(f => {
-      const slug = f.id.replace('.md', '');
-      const href = localizeHref(`/aied/faqs/${slug}/`, locale);
-      return <a href={href} class="faq-item">{localizedTitle(titles, 'faqs', slug, f.data.title)}</a>;
-    })}
-  </div>
+  {sections.map((section) => (
+    <section class="faq-section">
+      <h2 id={anchor(section.heading)}>{label(section.heading)}</h2>
+      <p class="faq-section-blurb">{blurb(section)}</p>
+      <div class="faq-list">
+        {section.items.map((slug) => {
+          const f = pageBySlug.get(slug)!;
+          const href = localizeHref(`/aied/faqs/${slug}/`, locale);
+          return <a href={href} class="faq-item">{localizedTitle(titles, 'faqs', slug, f.data.title)}</a>;
+        })}
+      </div>
+    </section>
+  ))}
 </BaseLayout>
 
 <style>
@@ -53,11 +91,21 @@ const sorted = faqs.slice().sort((a, b) => {
   .page-intro p {
     margin-bottom: 0.75rem;
   }
+  .faq-section {
+    margin-top: 2rem;
+  }
+  .faq-section-blurb {
+    color: var(--muted-color, var(--color));
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0.25rem 0 0.9rem;
+    max-width: 62ch;
+  }
   .faq-list {
     display: flex;
     flex-direction: column;
     gap: 0.6rem;
-    margin-top: 1rem;
+    margin-top: 0.75rem;
   }
   .faq-item {
     display: block;
