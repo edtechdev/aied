@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-30T10:20:00-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -58,6 +58,8 @@ CogEvolution models cognitive dynamics rather than a static persona — an ICAP 
 Validity is the central concern: a simulated student is only useful if its behavior is **epistemically faithful** — reflecting the intended learner's knowledge state — not merely linguistically plausible. Research warns against [[ai-sycophancy|sycophancy]], where a "simulated student" simply agrees with the tutor rather than exhibiting the misconceptions it was meant to embody. This connects to [[trust-calibration]] and to the broader problem of evaluating whether an agent genuinely models a construct rather than reproducing surface behavior.
 
 The failure is quantified: across seven models from 4B to 120B parameters, simulators flipped to the correct answer at near-uniform rates whatever the feedback, so output similarity says nothing about the belief state behind it, while training against the Selective Flip Score lifted faithfulness by up to +0.56 ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar & Sachan (2026)]]).
+
+**Simulated clients remove the clarification phase, and the trainee's behavior follows.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] compared 64 human-human chat counselling role-plays with 74 human-LLM conversations (Mixtral 8x7B, 4-bit) under the GeCCo category system and found that LLM clients disclosed the problem embedded in their prompt rather than circling it. Counsellors consequently reached Problem-Solving in 17.63% of coded behavior against 10.67% with human clients, relied more on factual reflection than facilitative moderation, and closed sessions with formalities more often (11.95% vs 5.95%). The design consequence is that a curriculum built mainly on simulated clients trains the second half of a session: eliciting a reluctant account is exactly what the simulated client skips, so a prompt that makes the client withhold restores it.
 
 ### Connection to the knowledge base
 
@@ -134,6 +136,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - [[teacher-role]]
 
 ## Connected Articles
+- [[rudolph-llm-simulated-counselling-clients-2026]] — Simulated counselling clients disclose faster, so trainees skip facilitative moderation
 - [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: From Role-Play to Learner Behavior Modeling for Faithful Student Simulation
 - [[tutorloop-sensor-cognitive-feedback-2026]] — A simulator-trained reinforcement-learning tutor transferred offline to a new real task (Xu & Zhang 2026)
 

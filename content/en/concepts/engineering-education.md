@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-26T08:45:00-04:00"
+updated: "2026-10-30T10:14:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -44,6 +44,8 @@ Engineering education research is distinctive because it sits at the intersectio
 
 - **AI for sustainability, integrated rather than modular.** The four-pillar AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated) distributes AI across engineering coursework; in a 144-student transportation-engineering case, students reported engagement across personal, academic, professional, and social levels, with sustainability reasoning carried into families and peer networks ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **A tool-rich studio can depress efficacy without improving the product.** In a 27-student architectural design studio, teams using a generative-AI plus [[virtual-and-augmented-reality|XR]] pipeline showed larger pre–post declines in design [[self-efficacy]] (β = −1.675) and outcome expectancy (β = −2.088) than controls, while one headset per student produced no coordinated collaboration ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
+
+- **Model choice, not prompting, sets feedback reliability under pushback.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] built 200 verified two-dimensional truss problems and put thirteen models through three postures: solve, confirm a correct solution the student insists is wrong, and locate an injected error. Solving accuracy ran from 64.5% to 97.0% and every model caught at least 90.4% of injected errors, so neither separated the field; resistance to pushback did, ranging from 46.5% to 98.5%. For a statics course the tutoring risk is not a wrong final answer but a model that agrees when a student wrongly doubts correct work, and the authors note that if reliability tracks paid tiers, the feedback students receive will vary with what their institution can license.
 
 ## Signature concerns
 
@@ -91,6 +93,7 @@ That gap is no longer empty in one area: a three-year biomedical engineering pro
 - [[generative-ai]]
 
 ## Connected Articles
+- [[apostolakis-trusstutor-bench-statics-2026]] — Statics benchmark: solving and error detection saturate, pushback resistance does not
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding

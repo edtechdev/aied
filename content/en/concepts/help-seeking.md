@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-26T10:50:00-04:00"
+updated: "2026-10-30T10:12:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -98,6 +98,8 @@ In fully online [[english-education|composition]], availability of the tool is n
 
 [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] tackle the behavioral precursor to help-seeking in [[cs-education|AI-assisted programming education]]: human tutors adapt to learners' observable behavior, not just their explicit requests, but AI tutors lack that context. **TutorTrace** is a dataset and pipeline that makes learners' behavioral context computable in real time from low-level IDE telemetry (four deployments, N=480; ~180K events, 13,633 behavioral segments, 27 metrics), deriving a taxonomy of learner activity *before* the first AI query, *between* consecutive queries, and *across* the session. This enables systems to classify whether a query reflects **guided** help-seeking (preceded by independent work) or **dependent** help-seeking (no independent work) — AUROC=.717 on held-out prediction — and to predict imminent queries (AUROC=.726). A preliminary classroom evaluation found that behavior-aware prompts reduced intervals between queries with no independent work from 50.0% to 20.7%. This connects [[learning-analytics]] telemetry to [[intelligent-tutoring|adaptive tutoring]], showing that behavioral context can be operationalized at scale to scaffold *how* students seek help rather than merely respond to their explicit questions.
 
+**The trajectory of help-seeking predicts transfer, not just its level.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] coded 880 turns from 112 secondary students modeling mathematics problems with an LLM and found the static mix uninformative: 81.5% of turns were requests, only 2.2% explicit evaluation, and 54% of requests understanding-oriented against 46% answer-seeking. What predicted performance on a post-test taken without AI was the within-session slope — understanding-oriented help-seeking declined (M = −0.20) across the chat, and that trajectory added ΔR2 = .110 to a model already containing pre-test score (β = .34, p < .001) — while static interaction features added only ΔR2 = .023 (p = .684). Help-seeking quality therefore has to be read as a curve: a session that opens with conceptual questions and settles into answer requests is the pattern associated with weaker unaided performance, and a modest rise in explicit self-regulation (M = +0.103) did not offset it.
+
 ## Implications for design and research
 
 1. **Design help-seeking affordances deliberately.** Persistent, salient help buttons can enable bypass strategies; delay access and structure delivery to support [[desirable-difficulties|productive struggle]].([[lak2026-hint-button-unproductive-use]])
@@ -134,6 +136,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[student-support-and-success]] — institutional outreach and support allocation, beyond in-course help-seeking
 
 ## Connected Articles
+- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Help-seeking trajectory, not its level, predicts unassisted math performance
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Hint length measured against next-submission correctness, attempts and time, in a live programming course
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — A helper agent nobody asked for (Humburg et al. 2025)
 

@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-10-30T10:20:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -65,6 +65,8 @@ A scoping review of 18 studies maps the same trade-off across group work: GenAI 
 
 **Collaborative structures for AI education.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes AI education through democratic student [[governance]] and project teams, embedding [[active-learning]] and [[project-based-learning]] in a collaborative, community-connected structure.
 
+**What makes an AI recognizable as a peer rather than a tutor.** [[lin-ai-peer-collaborative-mathematics-2026|Lin et al. (2026)]] had seven domain experts work with a Big Five-persona agent whose motivational stance shifted across forethought, performance and self-reflection while solving quadratic equations. Participants judged the agent by its social behavior rather than its mathematics: a non-judgmental space, tentative reasoning, appropriate imperfection and respect for the learner's pace read as peer-like, while blind agreement and over-instruction pushed it back toward tutor. The authors also report a tension worth keeping — peer-likeness and peer-usefulness did not always align — which is the long-standing risk of peer collaboration itself, that peers can confirm each other's errors.
+
 ### The ICAP framework: collaboration as the highest engagement mode
 
 Collaborative learning occupies the top of the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive): the *interactive* mode — co-constructing meaning through dialogue, defending a position, or solving jointly — produces the deepest knowledge change in Chi's taxonomy. This makes ICAP both a justification for collaborative pedagogies and a design constraint on AI. An AI that mediates discussion (as [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] or [[golrang-propact-pair-programming-2026|ProPACT]] do) is valuable precisely when it sustains *interactive* engagement; an AI that answers for the group or smooths over cognitive conflict can downgrade collaboration to a mere *active* or *passive* mode. ICAP-based annotation (see [[icap-cognitive-engagement-llm-agents|extended ICAP measurement of collaborative dialogue]]) and facilitation-timing research both treat the quality of interactive discourse as the outcome of interest, grounding collaborative learning in [[student-engagement]] and the ICAP hierarchy.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
@@ -119,6 +121,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[lin-ai-peer-collaborative-mathematics-2026]] — What makes an LLM agent read as a peer: safety, tentative reasoning, appropriate imperfection
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] - A 30-expert consensus finds one-sided social risk: collaboration processes vulnerable with no enhancement pathway
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas

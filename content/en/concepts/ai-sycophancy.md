@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-30T10:13:00-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -52,6 +52,8 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 
 - **An educator-facing design tool that defers.** In [[authentic-assessments-generative-ai-pilot-2026|Paula et al.'s (2026)]] pilot, eight course coordinators found the GPT-4.1 assessment-drafting tool would reinforce an incorrect pedagogical premise rather than challenge it, and fabricated references survived repeated prompting — sycophancy arriving as flawed [[assessment|assessment design]] rather than flattery.
 
+- **Resistance to pushback is a separate capability, and it varies by 52 points.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] ran the complementary test in statics: present a verified correct student solution and have the student insist it is wrong. Confirming correct work under that pushback ranged from 46.5% (GLM-5.3-Flash) to 98.5% (Gemini 4 Argon), a 52.0-point spread wider than the 32.5-point spread in problem-solving accuracy across 200 tasks. Two models that both solve nearly everything can therefore differ by tens of points in whether they will call a student's correct work wrong, and accuracy predicted only part of that difference — sycophancy here is deference to a false doubt rather than flattery, and it is invisible in any benchmark that scores final answers.
+
 ## Connections to related concepts
 
 Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misattribution]] (students may misattribute a sycophantic AI's affirmation to their own competence), to [[feedback]] and [[ai-feedback-quality]] (feedback must sometimes challenge, not merely support), and to [[trust]] and [[trust-calibration]] (uncritical trust enables the error loop). It also connects to [[bias-mitigation]] and [[hallucination-risk]], and to [[ai-literacy]] (learners must be taught to recognize and resist sycophantic agreement). Its mitigation — kind-but-correct tutoring, epistemic independence, benchmark-based evaluation — is a central design goal of [[pedagogical-safety]], [[llm-training-and-fine-tuning]], and [[educational-llm-alignment]].
@@ -98,6 +100,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[benchmark]]
 
 ## Connected Articles
+- [[apostolakis-trusstutor-bench-statics-2026]] — Pushback resistance ranges 52 points across models, independent of solving accuracy
 - [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy quantified: LLM replies affirm 49% more than humans and shift responsibility away from users
 
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial

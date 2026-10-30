@@ -6,8 +6,17 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-10-29
-**Total backlog:** 0 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-10-30
+**Total backlog:** 4 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-10-30)
+
+Nine articles were ingested this run (eight arXiv, one PsyArXiv), each with its full text saved under `raw/papers/`. The four below ranked as worth ingesting but fell outside the run's working budget of nine, and all are open access with retrievable full text.
+
+- [Agentic University: Collaborative Agents for Personalized Learning](https://arxiv.org/abs/2610.40492) — arXiv:2610.40492. Three studies of a human-participatory multi-agent learning organization; study 3 has 32 learners aged 18-30. Held back because studies 1 and 2 are LLM-evaluated rather than human-subject.
+- [Human--AI Interactions as First-Class Data: A Formal Interaction Model and Runtime for Explainable AI Collaboration](https://arxiv.org/abs/2610.40006) — arXiv:2610.40006. HAIDL, a formal model for treating human-AI interactions as durable, replayable data products; relevant to learning-analytics infrastructure.
+- [Generative artificial intelligence prompting strategies among Chinese university students across academic tasks](https://arxiv.org/abs/2610.39571) — arXiv:2610.39571. Questionnaire study of 234 students; all self-report, which is why it ranked below the measured-outcome papers.
+- [The Effect of the Process-Genre Approach on AI-assisted and Multimodal Writing](https://doi.org/10.16916/aded.1990331) — [DOI: 10.16916/aded.1990331](https://doi.org/10.16916/aded.1990331). Quasi-experimental, 7th-grade, 5-week writing study; full text at the publisher is open.
 
 ## Daily arXiv + OpenAlex scan (2026-10-27)
 

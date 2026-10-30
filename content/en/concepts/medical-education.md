@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-10-30T10:20:00-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -62,6 +62,8 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 
 [[wang-safety-gap-productive-struggle-2026|Wang and Shan (2026)]] name the resulting "safety gap" — the divergence between a student's AI-assisted performance and their unassisted ability to verify it — and prescribe withholding solutions, constructive cognitive friction, and Socratic or Adversarial AI architectures for high-stakes clinical training.
 
+- **What the curricula teach about data provenance.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] coded the publicly advertised curricula of 36 U.S. health AI programs and found ethics covered in 29 (80.6%) but data provenance at a structural or dataset-limitation level in only 8 (22.2%), with no program addressing the environmental cost of computation and none of the seven master's degrees meeting the provenance threshold. Of 92 named instructors, 76.1% came from computational disciplines and 3.3% from the social sciences or humanities. The gap is clinically consequential: the deployment failures the paper opens with were introduced upstream, in how training data were generated or labeled, which is a teachable competency the curriculum appears not to carry.
+
 ## Implications for health-professions educators
 
 - **Use AI to operationalize learning principles, not replace the educator.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] argue AI should operationalize experiential, situated, and distributed-cognition learning while the teacher remains central to engagement and outcomes.
@@ -94,6 +96,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[virtual-and-augmented-reality]] — immersive and AR clinical training
 
 ## Connected Articles
+- [[giancotti-data-provenance-health-ai-curricula-2026]] — Health AI curricula teach ethics (80.6%) but rarely data provenance (22.2%)
 - [[virtual-standardized-patients-osce-evaluation-2026]] — A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform
 - [[genai-medical-education-transformation-review-2026]] — Scoping review of 153 medical-education GenAI reports: simulation leads, durability and patient outcomes unmeasured
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
