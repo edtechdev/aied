@@ -1,7 +1,7 @@
 ---
 title: 총괄평가
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-30T05:04:45-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ ai_assist:
 - **회피 수단으로서의 AI.** 생성형 AI가 서면 질문에 답을 만들어낼 수 있으므로, 감독이 없고 과제형인 총괄평가 과제는 타당도를 잃습니다. [[generative-ai-reduced-study-time-math|감독 하의 무보조 측정이 필수적]]인데, 비감독 수행은 AI에 의해 부풀려지며, [[generative-ai-guardrails-harm-learning|가드레일이 있는(정답이 아닌 힌트를 주는) 도구]]는 방치된 AI가 일으키는 시험 페널티를 없앨 수 있습니다. [[chirikov-ai-grade-inflation-2026|Chirikov(2026)]]의 500,000개 이상의 성적에 대한 준실험은 그 메커니즘을 구체적으로 보여줍니다. ChatGPT 출시 이후 AI 노출 과제가 더 많은 강좌에서 A 학점의 비중이 13퍼센트 포인트 상승했고, 효과는 **과제 중심 강좌**에 집중되었습니다(삼중차분 추정에서 추가 16 pp) — 이는 감독 없는 과제가 진정한 [[learning-gains|학습 성과]]가 아니라 AI가 총괄 결과를 부풀리는 곳이라는 직접적 증거입니다.
 - **AI가 생성한 시험.** [[assessing-quality-ai-generated-exams-field-2025|대규모 현장 연구]]와 [[ai-vs-human-assessment-efl-tpck-2026|EFL 평가 연구]]는 AI가 고품질 시험과 평가 과제를 *생성*할 수 있는지를 살핍니다 — 이것은 AI의 새로운 총괄 설계 용도입니다.
 
+- **학생은 AI가 만든 문항을 신뢰성 있게 알아채지 못합니다.** 학점이 부여되는 가정의학 시험에서 [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 외(2026)]]는 AI 생성 30문항과 면허 시험 30문항 사이에 출처 귀인의 유의미한 차이가 없음을 발견했고, 평균 정답 인식률은 68.6~77.5퍼센트였으며, 생성된 문항의 18.2퍼센트가 [[human-in-the-loop-ai|인간 검토]]에서 제거되었습니다.
+
 ## AI에 저항하는 총괄평가 형식
 
 이 문서고의 핵심 주제는 **총괄평가 형식이 AI 저항성을 결정한다**는 것입니다 — 과제가 살아 있고, 대면이며, 개별적으로 추궁되는 수행을 요구할수록, 학생들이 자신의 학습을 AI로 대체하기가 더 어려워집니다.
@@ -66,9 +68,15 @@ ai_assist:
 - **총괄 형식은 타당도와 진실성의 지렛대다:** AI에 저항하는 총괄 형식(구술, 감독, 폐쇄북, 대면)은 평가된 수행과 실제 학습 사이의 연결을 보존합니다.
 - **감독하/무보조 측정이 신뢰할 만한 신호다:** 학생들이 AI를 사용할 때, 과제가 아니라 무보조 총괄 시험이 진정한 학습을 드러냅니다.
 - **자동 채점은 심리측정학적 검토가 필요하다:** 고부담 시험에 LLM을 채점에 쓰는 것은 정확도뿐 아니라 신뢰성, 공정성, 타당도의 평가를 요구합니다.
- 채점 오류는 또한 학점에 따라 다릅니다. 32건의 공중보건 시험 응답에서 LLM은 척도의 양 끝을 피했습니다(빠른 모드에서는 E나 F가 나타나지 않음), 최고 모델은 인간 학점과 50.0%에서 정확히 일치하고 90.6%에서 ±1 학점 이내였습니다([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- 채점 오류는 또한 학점에 따라 다릅니다. 32건의 공중보건 시험 응답에서 LLM은 척도의 양 끝을 피했습니다(빠른 모드에서는 E나 F가 나타나지 않음), 최고 모델은 인간 학점과 50.0%에서 정확히 일치하고 90.6%에서 ±1 학점 이내였습니다([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **AI는 시험을 생성할 수도 있다:** AI 지원 시험 및 과제 생성은 그 자체로 품질 평가가 필요한 새로운 총괄 설계 응용입니다.
 - **형식뿐 아니라 채점의 목적을 재고하라.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 피상적이고 파편화된 학습을 부추기고, 학생에게 통제나 투명성을 거의 주지 않으며, 내재적 [[motivation]]을 해치고, 스트레스와 [[well-being|불안]]을 부추르며, 실제 응용보다 회상을 주로 평가하면서 불평등을 영속화하는 전통적 총괄·규준참조 채점을 비판합니다. 이들은 재평가, [[mastery-learning|기준 기반 채점]], ungrading을 총괄 중심 관행을 누그러뜨릴 수 있는 채점 중심 혁신으로 자리매김하되, 이것들이 규범적 장벽 — 성적 곡선 그레이딩, 외적 신호(순위, 인턴십, 인증), 학생들의 도구적 태도 — 때문에 경영 교육에서는 여전히 주변에 머물러 있음을 인정하며, 제도적 지원 아래 점진적 실험을 권고합니다.
+
+## 흔한 오해
+
+- **"LLM은 공식 기준으로 채점할 수 없다."** **조정된 공식 점수**에 견주어, **손글씨 10,364쪽**의 물리 올림피아드 및 대학 답안을 채점한 다중양식 LLM은 강한 상관을 보였습니다. 결과 일치는 정밀하지 않은 문항 수준 채점에서도 유지될 수 있으며, 이는 유용한 질문이 문항 수준 정밀성이 실제로 요구되는 곳이 어디인가임을 뜻합니다.
+- **"AI 성적 인플레이션은 추측이다."** **50만 건 이상의 성적**에 대한 [[chirikov-ai-grade-inflation-2026|Chirikov(2026)]]의 준실험은 그 메커니즘을 구체화합니다. ChatGPT 공개 이후 **AI 노출 과제가 많은 강좌에서 높은 성적의 비중이 올랐습니다**. 효과는 노출된 과제에 집중되었고, 그것이 메커니즘이 예측할 패턴입니다.
+- **"AI를 쓰는 학생은 쓰지 않는 학생과 구별할 수 없으므로 출처 확인은 희망이 없다."** AI 생성 문항과 면허 시험 문항 사이에 **출처 귀인의 유의미한 차이가 없었다**는 발견, 정답 인식 **68.6~77.5퍼센트**, **18.2퍼센트**의 오귀인율은 인식이 실패한다는 것에 관한 것이지 출처 확인이 불필요하다는 것이 아닙니다. 오히려 검증된 출처 확인에 대한 요구를 높입니다.
 
 ## 연결된 개념
 
@@ -109,3 +117,4 @@ ai_assist:
 - [[ai-grading-handwritten-physics-2026]] — 손으로 쓴 물리 평가의 AI 채점(올림피아드)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 학생은 AI가 만든 문항을 신뢰성 있게 알아채지 못한다

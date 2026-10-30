@@ -1,7 +1,7 @@
 ---
 title: 벤치마크
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 - **[[teaching-feedback-classification-benchmark|교수 피드백 벤치마크]]**는 [[ai-feedback-quality|피드백 품질]] 분류의 언어 간 전이를 평가합니다.
 - **[[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark(CDPK + SEND)]]**는 내용 지식이 아니라 교수법적 지식 — 교수 전략, [[assessment|평가 방법]], [[special-education|특수 교육 교수법]] — 을 검사하며, 97개 모형에 걸친 비용 대비 정확도의 "가치 전선"을 보고합니다(대부분의 범용 벤치마크는 내용 지식을 검사하며, 교수법은 구분되면서 교육에 결정적인 차원입니다).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**는 [[llm]] 기반 [[learning-design|교수 설계]] 에이전트를 25,795개의 교수 설계 시나리오에 걸쳐 벤치마크로 삼으며, 고전 ISD 틀(ADDIE, Dick & Carey, Rapid Prototyping)에 근거를 둔 하이브리드 에이전트가 순수 이론이나 순수 기법을 능가함을 보여 줍니다. 이는 교육에서의 [[agentic-ai|에이전트형 AI]] 설계에 직접 함의를 주는 벤치마크 결과입니다.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]**는 튜터 평가를 시뮬레이션된 인격이 아니라 문서화된 사례 문헌에 근거를 둡니다. 특수교육 및 교육심리 사례에서 나온 923개 대화이며, 11개 모형 중 가장 강한 모형이 개방형 사례의 55.8%에서 문서화된 개입에 도달했습니다.
 
 - **명시적 벤치마크 기준으로서의 학습자 적응.** Teaching Monster Challenge는 지정된 학습자 인격에 대한 적응에 점수를 매기지만, 그 자동화된 LLM 심사자는 약한 꼬리만 분리했습니다. 상위 시스템은 그 심사자의 천장 근처에서 점수를 받았고, 그 순위는 군중 선호와 어긋났습니다(Spearman ρ = −0.17)([[teaching-monster-pck-benchmark-2026|Lin 외(2026)]]).
 
@@ -76,6 +77,12 @@ ai_assist:
 
 - **채점 규칙은 그것이 훈련하는 모형에 의해 속을 수 있다.** 최선의 결정 하나를 반복하여 극대화되는 적응성 지표는, 벤치마크 설계가 argmax를 공개하고, 적응성을 차이로 채점하며, 무작위를 넘는 기준선을 보고해야 함을 보여 줍니다([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
+## 흔한 오해
+
+- **"순위표 위치가 튜터의 품질을 알려 줍니다."** StudentBench는 **성인 2,383명을 AI 튜터링, 실시간 전문가 인간 튜터링, 영상 조건에 무작위 배정**하고 다른 시스템이 아니라 인간 튜터를 기준으로 채점합니다. 다른 모형에 맞춰 확장된 벤치마크는 아무도 필요로 하지 않았던 질문에 답합니다.
+- **"시뮬레이션된 인격은 튜터 평가의 충분한 근거입니다."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]는 평가를 **시뮬레이션된 인격이 아니라 문서화된 사례 문헌**에 근거를 두고 **923개 대화**를 사용합니다. 조작된 학생 인격은 실제로 일어나지 않는 사례를 시스템이 통과하게 만듭니다.
+- **"심사자를 점검하지 않고도 벤치마크를 신뢰할 수 있습니다."** 환각은 **검색된 오픈 라이선스 청크에 대한 함의로 채점되었고(전문가 판단과 κ = 0.76)**, 심사자는 그 점수가 사용되기 전에 전문가와 비교해 검증되었습니다. 검증되지 않은 자동 심사자는 의미를 알 수 없는 숫자를 만들어 냅니다.
+
 ## 연결된 개념
 
 - [[ai-ed-evaluation]]
@@ -109,3 +116,4 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — 새로운 AI 지원 교육 문항의 교수법적 평가를 위한 사전 훈련 모형 평가
 - [[llm-benchmark-secondary-science-topics-2026]] — LLM의 중학교 및 고등학교 과학 주제 이해를 위한 벤치마크
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 반복으로 최적화된 지표에서 도출된 AI 튜터 벤치마크를 위한 여덟 가지 설계 원리(Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: 도전적 행동을 보이는 학생에 대한 LLM 튜터 평가(Park 외 2026)

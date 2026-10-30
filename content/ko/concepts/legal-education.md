@@ -1,7 +1,7 @@
 ---
 title: 법학 교육
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -73,11 +73,19 @@ Gutowski와 Hurley는 0–5 루브릭으로 정책을 다섯 차원에서 평가
 
 **전문가 윤리는 졸업생과 함께 이동합니다.** ABA의 기술 역량에 대한 의무와 비밀 유지, 감독, 법정에 대한 정직(candour)에 관한 지침은 이 도구들을 사용하는 실무 변호사에게 적용되며, 로스쿨은 그것을 가르치는 일을 물려받습니다. 이 때문에 이 학문은 지식 기반의 [[ai-use-disclosure|AI 사용 공개]] 작업과 기관이 AI를 잘못 지배할 때 발생하는 [[legal-issues-and-risks|법적 문제와 위험]] 작업에 직접 연결됩니다.
 
+법 맥락 실험에서 재판부 민사 사건의 비전문 의사결정자 186명은 시스템이 자기 입장을 보류했을 때 잘못된 AI 입장에 훨씬 덜 따랐습니다(5.7%에서 8.2%, 42.0%에서 60.5%). 그러나 측정 가능한 판단을 형성하지는 못했습니다. 이는 교정적이라기보다 보호적이며, 법학 학생이 아니라 비전문 의사결정자에게서 측정된 것입니다([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 ## 열린 질문들
 
 - AI 지원 법률 문서 작성 수업은 여전히 면허가 전제하는 분석을 발전시키는가, 아니면 변호사 시험조차 탐지할 수 없는 유창함을 훈련하는가?
 - 예비 독서가 일상적으로 위임된다면 소크라테스식 교수에는 무슨 일이 벌어지며, 교실이 그것에 대해 침묵하는 것은 측정의 문제인가 설계의 문제인가?
 - 법학 교육은 [[ai-education|교육에서의 AI]]를 소송하고 규제할 사람들을 길러 냅니다. 이것이 지식 기반의 법적 위험 작업이 시험될 자연스러운 장소가 되는 것입니까, 아니면 주의가 정책이 가장 시끄러운 로스쿨들로 왜곡되는 것입니까?
+
+## 흔한 오해
+
+- **"로스쿨은 이미 입장을 정했다."** 대부분은 **대체로 금지적인 입장**을 채택했고, 종종 **기술을 연구할 시간을 벌기 위한 것**으로 설명했으며, **거의 모든 정책이 개별 교수자에게 재량을 유보**했습니다. 교수자 재정의 조항이 붙은 금지는 정해진 입장이 아니라 기본값이 있는 유예입니다.
+- **"설문 증거가 이 분야를 기술한다."** **ABA의 2024년 설문은 ABA 인증 로스쿨의 약 15%에 해당하는 29개 교만 응답**했고, **800명**의 실무자를 대상으로 한 LexisNexis 설문은 다른 모집단을 측정합니다. 어느 것도 법학 교육을 대표한다고 다룰 수 없으나, 둘 다 그런 것처럼 인용됩니다.
+- **"AI 권고를 보류하는 것은 중립적이다."** 법 맥락 실험에서 **재판부 민사 사건의 비전문 의사결정자 186명**은 시스템이 자기 입장을 보류했을 때 잘못된 AI 입장에 훨씬 덜 따랐습니다(**5.7%에서 8.2%, 42.0%에서 60.5%**). 보류는 중립성을 낳지 않았고 따름의 큰 감소를 낳았으며, 그것 자체가 하나의 효과입니다.
 
 ## 연결된 개념
 
@@ -97,6 +105,8 @@ Gutowski와 Hurley는 0–5 루브릭으로 정책을 다섯 차원에서 평가
 - [[legal-issues-and-risks]] — 거버넌스가 실패할 때 기관이 마주하는 것
 
 ## 연결된 문서
+
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 시스템 입장의 보류는 법 맥락 결정에서 과잉 의존을 억제하지만 판단을 기르지는 않는다 (법학 학생이 아닌 비전문 의사결정자)
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — 로스쿨 생성 AI 정책의 다섯 요인 비교와 거버넌스 틀
 - [[llm-turing-test-italian-legal-exams-2026]] — 이탈리아 변호사·판사·공증인 시험에 대한 블라인드 튜링 테스트, 전문가 채점과 비교

@@ -1,7 +1,7 @@
 ---
 title: 강화 학습
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -11,7 +11,7 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,16 @@ Riedmann, Schaper, Lugrin (2025)의 PRISMA 표준 [[riedmann-reinforcement-learn
 ### 지식베이스와의 연결
 
 RL은 에이전트가 단일 정답이 아니라 장기적 학습을 최적화해야 하는 현대 [[agentic-ai]]와 [[intelligent-tutoring]] 설계의 기반이 됩니다. RL은 [[llm-training-and-fine-tuning]](훈련 방법으로서의 RL), [[scaffolding]](생산적 고군분투를 보존하는 보상 설계), [[self-regulated-learning]](학습자가 자신의 전략을 조절하도록 돕는 에이전트)에 연결됩니다. 보상 설계가 교육적 가치를 내장하기 때문에, AIED의 RL 연구는 [[pedagogical-safety]]와 [[equity-in-ai-education|공정한]] 튜터 행동의 형평성 고려와 밀접하게 묶여 있습니다.
+
+## 흔한 오해
+
+**"기준선에 맞먹는다는 것은 그 RL 정책이 가질 만한 무엇인가를 배웠다는 뜻이다."** 그것은 보상이 충족되었다는 뜻입니다. 시험 점수와 시간 효율로 보상받은 심층 RL 튜터는 **사후 시험에서 BKT 휴리스틱과 동등했으며(A = .58 대 .58)**, **훈련 문제의 4%만을 건설적 오류 예시 교정에** 배정하고 더 값싼 상호작용을 우대했습니다. 정책은 보상을 받은 것을 최적화했고, 보상을 받은 것에는 그 생산적 활동이 빠져 있었습니다.
+
+**"보상 함수는 기술적 세부 사항이다."** 그것은 교수법적 명세입니다. 보상이 무엇에 가중치를 두든 정책은 그것을 하게 되므로, 점수, 시간 효율, 참여, 교정 사이의 선택은 학습이 무엇인가에 대한 명시적 입장을 요구합니다. 숫자로 부호화된 교육과정 결정입니다.
+
+**"지평이 길수록 그냥 더 좋다."** 그것은 짧은 지평이 할 수 없는 것을 가능하게 하며, 보상이 전체 시퀀스에 걸쳐 옳아야 함을 요구합니다. [[residencyrl-clinical-rl-training-2026|ResidencyRL]]은 동시대 대화 시스템의 ≤12턴 지평을 훨씬 넘어서는 **60턴 전체 임상 대면**을 최적화하는데, 이는 잘못 규정된 목표의 비용을 낮추는 것이 아니라 높입니다.
+
+**"교수가 순차적이므로 RL은 교습에 알맞은 형식주의다."** 순차성은 필요 조건이지 충분 조건이 아닙니다. 구속하는 제약은 보상의 타당성입니다. 목표가 잘 규정되고 정책이 약한 편이, 목표가 틀린 상태에서 정책이 강한 편을 이깁니다.
 
 ## 연결된 개념
 

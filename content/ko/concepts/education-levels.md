@@ -1,7 +1,7 @@
 ---
 title: 교육의 수준
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-09-28T21:44:10-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ ai_assist:
 - **AI에 활동별로 게이트를 두고, 사생활 보호 의무를 연령에 따라 규모를 늘려라**([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **그 구간의 매개 어른 — 학부모, 교사, 사서, 또는 지도자 — 을 위해 설계하고, 그들의 준비도를 기관의 준비도와 별도로 측정하라**([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **어떤 구간에 증거가 없을 때는 분명히 말하고, 의도를 성취로 착각하지 마라.** 여러 수준별 연구는 학습이 아니라 태도나 [[self-report-measures|자기보고]] 결과를 보고합니다.
+
+## 흔한 오해
+
+**"구간 라벨은 학습자가 무엇을 할 수 있는지 알려 준다."** 구간과 지식 수준은 상관하지만 같지 않습니다. 2학년 튜터링 시험에서 [[prior-knowledge|사전 지식]]이 사후 검사 수행을 지배했으며(**F(1, 124) = 206.99, p < .001, η²p = .63**), 학년 라벨을 학습자의 실제 사전 지식 옆에서 약한 예측 변수로 만드는 큰 효과였습니다. 구간에 맞추어 설계하면서 구간 내 분포를 무시하는 것은 넓은 분포의 평균에 맞추어 설계하는 것입니다.
+
+**"가르치는 교과가 교육 수준보다 중요하다."** 학교와 대학의 경계가 더 중요합니다. 그 경계를 넘어 달라지는 것은 내용이 아니라 자기 조절의 역량, 평가 계약의 성격, 학습에 대한 책임 소재이며, 그래서 대학원 세미나에 도움이 되는 도구가 비슷한 내용의 2학년 수업에는 해가 될 수 있습니다.
+
+**"적응적 튜터는 모든 수준에 똑같이 도움이 된다."** 변수를 분리하는 비교는 시사하는 바가 큽니다. 같은 2학년 수학 튜터의 두 버전, 즉 내용, 인터페이스, 피드백, 음성 힌트가 동일하고 **과제 선택이 베이지안 [[knowledge-tracing]] 모형을 따랐는지만 다른** 두 버전이 있었습니다. 적응적 과제 선택은 수준에 민감한 개입이며, 그 이득은 그 수준의 학습자가 적응에 따라 행동할 수 있는지에 달려 있습니다.
+
+**"고등 교육에 집중된 증거는 아래로 일반화된다."** 그렇지 않으며, 문헌의 분포는 편의가 아니라 경고입니다. 증거가 밀집한 곳과 빈약한 곳은 연구 경제의 속성이지 AI가 가장 많이 쓰이는 곳의 속성이 아니므로, 대학 표본에서 끌어낸 K-12에 관한 주장은 가장 중요한 경계를 넘는 외삽입니다.
 
 ## 연결된 개념
 

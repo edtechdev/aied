@@ -1,7 +1,7 @@
 ---
 title: 인지 부하 외주화
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T14:20:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -99,6 +99,15 @@ ai_assist:
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 등(2026)]]은 외주화를 이론적 위험이 아니라 참가자 자신의 경험으로 기록합니다. 한 참가자는 genAI가 "내가 텍스트에서 무엇이 중요한지 직접 읽고 찾아내어 읽기 기술을 기르는 것을 막았다"고 말했고, 다른 참가자는 "내가 지금 매우 강한 특정 기술에서 내가 더 나빠지는 장기적 발달"을 두려워했습니다.
 - **효과는 도구가 아니라 노동 분업에 있다.** Nakamura (2026)는 분석 단위가 학습자와 기계 사이의 인지적 노동 분할이 되면 GenAI 학습 효과의 이질성이 해소된다고 주장합니다. 외주화는 현재 목표에 주변적인 조작을 처리할 때 학습을 증강하고, 그 목표를 구성하는 처리를 우회할 때 침식을 초래할 위험이 있습니다([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). 산출물을 실질적으로 처리하거나 나중에 그것을 재구성하는 것이, 그렇지 않으면 구성적인 외주화를 구제하는 것입니다.
+- **사람이 무엇을 넘길 수 있는지는 그 과제에 대한 경험에 달려 있다.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]]는 과제 순서를 개인 상대적으로 만듭니다. 초심자에게 고차원인 것이 이미 절차를 지닌 사람에게는 저차원이므로, 허용되는 외주화는 경험과 함께 늘어나야 하고 작업의 핵심에서 멈춰야 합니다.
+
+### 외주화가 늘어나기보다 줄어드는 경우
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]]은 사전등록 실험(N = 317)에서 성인이 기존 학습지나 그 학습지로 제한된 범용 조수로 새 내용을 학습하는 것을 보고합니다. AI 조건은 측정된 인지 부하 외주화를 높이기보다 낮췄습니다(중앙값 −0.27, 95% 신용 구간 −0.58에서 0.04). 심층 처리는 여전히 떨어졌지만, 낮은 외주화가 더 낮은 [[critical-thinking|비판적 사고]]를 좇고 그것이 다시 약한 심층 처리를 예측하는 연쇄를 통해서였습니다(0.78). 무질서는 0.84 올랐고 그 효과를 매개하는 것은 없었습니다. 이 발견은 표준 설명에 대한 경계입니다. 외주화는 [[generative-ai|AI]] 환경이 처리를 침식하는 유일한 경로가 아니며, 어떤 조건은 외주화를 건드리지 않은 채 외주화가 보호하려 했던 것을 억제할 수 있습니다.
+
+### 인지가 아니라 공감을 외주화하기
+
+같은 거래는 정서적 노동에도 적용되며, 그곳의 증거는 더 최근입니다. [[shastry-gray-empathy-offloading-2026|Shastry와 Gray(2026)]]는 공감 외주화에 이름을 붙입니다. 시스템이 정서적 지원을 공급할 수 있을 때 사람들은 스스로 덜 줍니다(네 연구에 걸쳐 N = 2,223). 공감을 모형에 넘길 의지는 그 모형의 공감 능력에 대한 믿음을 좇았고(b = 0.44), 평범한 뉴스 보도로 그 믿음을 높인 실험은 그것을 통해 외주화를 움직였습니다(간접 0.73, 직접은 신뢰할 수 없음). 교훈적인 부분은 자기보고와 행동이 갈라지는 곳입니다. 한 학생이 챗봇에서 지원을 받았다고 들었을 때, 참가자들은 친구나 치료사에 대한 경우보다 자신의 외주화를 낮게 평가한 뒤 그 학생에 대해 더 적은 공감 단어와 더 많은 무관심 단어를 골랐습니다.
 
 ## 과잉 의존: 외주화가 유해해질 때
 
@@ -110,7 +119,6 @@ ai_assist:
 - **효율성의 역설: 숙달 목표가 "기본적으로" 외주화로 붕괴하는 것.** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan 등(2026)]]은 숙달 지향 목표를 표명하면서도 표면적 과정을 실행한 학습자들, 즉 "의도가 아니라 기본적으로" 외주화한 학습자들을 확인합니다. 이들의 세 의도 집단(외주화 도구 n = 16, 학습 조력자 n = 31, 인지 동반자 n = 8)은 전형적 경우가 의도적 부정행위도 의도적 학습도 아님을 보여줍니다. 외주화 집단 학생들은 자신의 무관여를 인식했습니다(문단별 복사-붙여넣기는 "그게 내 뇌를 완전히 대체했다"고 묘사됨) 그리고 빠른 망각을 보고했으며, 38명의 인터뷰 대상자 모두 GenAI를 효과적으로 사용하는 데 자신감이 낮다고 보고했습니다. 이것은 과잉 의존이 일을 회피하려는 동기가 아니라 누락된 선행 조건([[ai-literacy]], 프롬프트 역량, 과제 특수적 지도)에 의해 추동될 수 있다는 증거입니다.
 
 - **현장의 에이전틱 코딩은 이해를 외주화한다:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka 등(2026)]]은 소프트웨어 프로젝트 수업에서 [[agentic-ai|AI 에이전트]]를 사용한 학부생들이 전년 대비 더 많은 코드를 작성했지만, 사용이 심할 때 이해 저하를 보였음을 보고합니다. 이는 AI 생성 코드에 대한 일대일 교수 검증으로 회복 가능합니다.
-AI 교육에서 AI의 가장 중대한 위험들:
 
 - **학습 대체:** [[ai-making-us-stupid|AI의 인지 효과에 관한 연구]]는 AI의 가용성이 노력적인 처리를 어떻게 줄이는지를 기록합니다. "추론으로 확장된 구글 효과"입니다. [[stamatoulis-genai-use-patterns-2026|Stamatoulis 등(2026)]]은 이것을 별개의 사용 *패턴*으로 분리합니다. **저검증 수용**(AI 산출물을 비판 없이 받아들임)은 더 나쁜 [[learning-gains|학업 성과]]를 예측한 반면, **평가적 통합**(AI를 이해 지원에 사용)은 더 나은 성과를 예측했으며, 사용 **빈도**만으로는 어느 쪽도 예측하지 못했습니다. 따라서 과잉 의존은 학생들이 AI를 얼마나 사용하는지와 분리될 수 있는 *사용 방식*입니다.
 - **행위성 문제:** [[aied-unfinished-mission-bypass|AIED의 완수되지 않은 사명]]은 과잉 의존을 행위성과 동기의 위기로 규정합니다. 학생들이 AI가 과제를 손쉽게 완수할 수 있을 때 학습 과제가 무의미하게 느껴지기 때문에 학습을 우회한다는 것입니다.
@@ -228,6 +236,9 @@ AI 교육에서 AI의 가장 중대한 위험들:
 - [[coach-not-crutch-ai-writing]] — AI는 덜 일하고 더 배우게 할 수 있다(Lira 등 2025)
 - [[making-ai-tutoring-productive-mastery-math-2026]] — AI 튜터링을 생산적으로 만들기: 숙달 기반 수학 연습
 - [[cognitive-commons-ai-expertise-regeneration]] — 인지 공유지의 비극: AI와 전문성 재생
+- [[akcaoglu-offloading-ladder-experience-2026]] — 외주화 사다리: 경험이 학습자와 실천가가 AI에 무엇을 넘겨야 하는지를 어떻게 바꾸는가(Akcaoglu 2026)
+- [[shastry-gray-empathy-offloading-2026]] — 사람들은 AI가 대신 공감해 줄 수 있다고 생각할 때 공감을 외주화한다(Shastry & Gray 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — 인지 휴면: AI 어포던스가 외주화를 높이지 않고 심층 처리를 낮추고 무질서를 높인 사전등록 실험(Braun 2026)
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: AI 관련 인지 부하 외주화를 위한 프라이버시 보존 자기 성찰 도구
 - [[chatgpt-writing-cognitive-impact-2026]] — ChatGPT 지원 글쓰기가 무보조 대조 집단보다 적은 지식 이득을 낳은 쓰기를 통한 학습 실험
 - [[student-cognitive-offloading-ai-higher-ed-2026]] — 고등교육에서 AI로의 학생 인지 부하 외주화 패턴: 자연주의적 ChatGPT 메시지 단위 증거(Piatnitckaia 등 2026)

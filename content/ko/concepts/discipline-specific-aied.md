@@ -1,13 +1,13 @@
 ---
 title: "학문 분야별 AI 교육"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,7 @@ AI in education은 분야마다 다르게 나타나는데, 이는 각 분야가 
 
 ## 지식 베이스에 표현된 분야들
 
-지식 베이스의 가장 강한 분야별 보도는 넓게 **[[stem-education|STEM]]**, 특히 **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, 그리고 **[[cs-education]]**에 있으며, 다음으로 **[[writing-education]]**, **[[language-learning]]**(EAP/EFL/ESL을 위한 별개의 **[[english-education]]** 줄기를 가짐), 그리고 더 최근에는 **[[engineering-education]]**, **[[teacher-education]]**(예비 및 재직 AI 훈련 연구의 상당한 축적을 가짐), **[[medical-education]]**, 그리고 **[[humanities-education]]**이 따릅니다. 공학과 디자인 역시 성장하는 문서 축적을 가지고 있습니다. 이러한 집중은 더 넓은 문헌을 추적합니다: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.의 (2026)]] 검토는 STEM이 AI 지원 고등교육에서 가장 흔한 학제 간 형태(n = 26)임을 발견했으며, 비-STEM 분야(n = 10)와 STEAM(n = 2)을 훨씬 앞섭니다 — AI-in-education 증거가 계산 도구가 내장하기 가장 쉬운 곳에서 가장 빠르게 축적된다는 분야 수준의 주의이며, 반드시 AI의 교수법적 가치가 가장 큰 곳은 아닙니다. 가장 최근의 추가들은 학문 과목을 넘어 전문 및 응용 교육으로 줄기를 넓힙니다 — [[nursing-education|간호]], [[information-technology|정보 기술]], 그리고 [[vocational-education|직업 교육 훈련]] — 그곳에서 학습자는 정확성이 아니라 입증된 실천에 따라 평가되며, 능력이 무엇으로 간주되는지를 정의하는 것은 아카데미만이 아니라 고용주와 인가 기관입니다.
+지식 베이스의 가장 강한 분야별 보도는 넓게 **[[stem-education|STEM]]**, 특히 **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, 그리고 **[[cs-education]]**에 있으며, 다음으로 **[[statistics-and-data-science-education]]**이 따릅니다. 이 줄기는 수학과 구분되는데, 그 특징적 교수법이 정해진 답을 향한 추론이 아니라 데이터 탐구이기 때문입니다. 이 줄기 자체의 설계 문제를 보여 주는 예로, [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]]는 에이전트 파이프라인으로 맥락에 맞는 합성 데이터셋을 생성하여 통계 강좌가 필요로 하는 자료를 다루지만, 저자들 스스로 인정하듯 데이터 수집, 측정, 연구 설계는 가르칠 수 없습니다. 그 다음으로 **[[writing-education]]**, **[[language-learning]]**(EAP/EFL/ESL을 위한 별개의 **[[english-education]]** 줄기를 가짐), 그리고 더 최근에는 **[[engineering-education]]**, **[[teacher-education]]**(예비 및 재직 AI 훈련 연구의 상당한 축적을 가짐), **[[medical-education]]**, 그리고 **[[humanities-education]]**이 따릅니다. 공학과 디자인 역시 성장하는 문서 축적을 가지고 있습니다. 이러한 집중은 더 넓은 문헌을 추적합니다: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.의 (2026)]] 검토는 STEM이 AI 지원 고등교육에서 가장 흔한 학제 간 형태(n = 26)임을 발견했으며, 비-STEM 분야(n = 10)와 STEAM(n = 2)을 훨씬 앞섭니다 — AI-in-education 증거가 계산 도구가 내장하기 가장 쉬운 곳에서 가장 빠르게 축적된다는 분야 수준의 주의이며, 반드시 AI의 교수법적 가치가 가장 큰 곳은 아닙니다. 가장 최근의 추가들은 학문 과목을 넘어 전문 및 응용 교육으로 줄기를 넓힙니다 — [[nursing-education|간호]], [[information-technology|정보 기술]], 그리고 [[vocational-education|직업 교육 훈련]] — 그곳에서 학습자는 정확성이 아니라 입증된 실천에 따라 평가되며, 능력이 무엇으로 간주되는지를 정의하는 것은 아카데미만이 아니라 고용주와 인가 기관입니다.
 
 직업 줄기는 그 증거에서 가장 빈약합니다: 직업 교육 훈련의 26개 연구에 관한 체계적 검토는 VET의 작업 기반 성격에도 불구하고 작업장 환경에서 수행된 연구가 하나도 없음을, 다섯 개의 무작위 실험만이 있음을, 그리고 학습자에게 능동적 역할을 부여한 설계가 세 개뿐임을 발견했습니다([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
 
@@ -98,6 +98,12 @@ AI in education은 분야마다 다르게 나타나는데, 이는 각 분야가 
 - **예술 (시각 예술, 디자인, 음악)** — 떠오르는 보도: [[ai-interior-design-malaysia-2026|실내 디자인 교육의 AI]], [[genai-architectural-design-studios|건축 디자인 스튜디오의 GenAI]], [[ai-vocal-pedagogy-2026|AI 성악 교수법]], [[musical-education-ai-digital-transformation-2026|음악 교육의 AI]], [[t2i-competence-paradox-2026|텍스트-이미지 역량 역설]]. 이 목록의 디자인 측 연구들은 이제 자신만의 집을 가집니다: [[design-education]]는 건축, 실내 디자인, 텍스트-이미지 스튜디오 작업을 전문 디자인 형성에 관한 페이지로 끌어들이며, 시각 예술, 음악, 공연을 빈약한 나머지로 남깁니다.
 
 이 과소 대표된 분야들은 지식 베이스가 성장함에 따라 전용 개념 페이지와 추가 문서 수집으로부터 이익을 얻을 것입니다.
+
+## 흔한 오해
+
+- **"분야는 주로 내용 예시에만 중요하다."** **560명의 학생**을 대상으로 한 연구는 분야 소속이 **학생들이 [[generative-ai|생성형 AI]]를 얼마나 자주 그리고 공개적으로 사용하는지**를 예측함을 발견했습니다. 분야는 도구가 아예 사용되는지, 그리고 그 사용이 공개되는지를 형성하며, 무엇을 질문받는지만을 형성하지 않습니다.
+- **"학제성은 일반적인 제도적 목표다."** **"학제 간"의 형태 자체가 분야에 의해 결정됩니다**. [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.(2026)]]의 [[meta-analysis-systematic-review|검토]]는 그것이 취하는 형태가 분야마다 다르다고 발견합니다. 단일한 제도적 정의는 그것이 포괄하는 분야 가운데 적어도 일부를 잘못 읽습니다.
+- **"직업 교육은 학문 분야에 견줄 만한 연구 기반을 갖는다."** 직업 교육 줄기는 **그 증거에서 가장 얇습니다**. 직업 교육 훈련의 **26개 연구**에 대한 체계적 검토는 **직장 환경에서 수행된 연구가 하나도 없음**을 발견했습니다. 역량이 실제로 발휘되는 곳이 바로 그 환경입니다. 문헌의 부재는 격차이지 영 결과가 아닙니다.
 
 ## 연결된 개념
 - [[business-education]]

@@ -1,7 +1,7 @@
 ---
 title: AIEd 연구의 해석과 적용
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-05T11:23:36-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ ai_assist:
 - **이 분야 자신의 고찰들은 감사를 견디지 못한다.** AI가 교육을 개선한다고 주장하는 **14편의 동료 검토된 메타분석**에 대한 [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] 감사는 **어느 것도** 그것이 제시한 주장에 타당한 기반을 제공하지 않음을 발견했고, 무작위로 선택된 1차 연구 46편 가운데 **61%**가 타당성 우려를 제시했습니다. 문제는 나쁜 논문 하나가 아니라 보고의 문화입니다.
 - **자기보고는 모두에게 아첨한다.** 사람들은 자신의 [[ai-literacy|AI 기술]]을 수행 측정이 보여 주는 것보다 약 **40%** 더 높게 평가하므로, 이것이 만족도와 확신 설문이 여러분이 행동할 수 있는 가장 약한 증거인 이유입니다([[self-report-measures|자기보고 측정]], [[educational-measurement|교육 측정]]).
 - **이미 교실에 있는 대부분의 제품은 독립적 증거를 전혀 지니지 않는다.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]]는 학생 대상 AI 제품 20개를 소개하며, 완전한 프로필을 지닌 16개 가운데 일곱만이 미국의 학생 집단에 걸친 학생 성취를 검사하는 독립적 고찰을 지님을 발견했습니다. 둘은 해외에서만 연구되었고, 넷은 연구가 진행 중이며, 셋은 내부 자료에만 의존했습니다. 저자들은 우선 집단을 포괄하는 독립적 인과 연구가 모든 학생 대상 제품에 대한 기대가 되어야 한다고 주장합니다. 즉 학교가 이미 쓰고 있는 도구들에게는 아직 규범이 아닙니다.
+
+- **고찰은 자기 말뭉치의 보고 편향을 정량화할 수 있습니다.** 고등교육 연구 155편에 대한 체계적 검토는 117편(75.5%)이 성공적 구현을 보고했고, 124편(80.0%)이 단기 영향만을 다루었으며, [[ethics|윤리]]·형평성·거버넌스 실패를 보고한 것은 23편(14.8%)뿐임을 발견했습니다. 이는 위의 점검들이 서술하는 불균형을 그 검토 자신의 증거 기반에서 측정한 것입니다([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 
 ## 발견을 결정으로 바꾸기
 
@@ -146,6 +148,16 @@ ai_assist:
 8. 지원 없는 측정으로 작게 파일럿한 뒤 결정하기.
 9. 일 년 뒤의 검토 날짜를 일지에 적고, 주장을 은퇴시킬 준비를 하기.
 
+## 흔한 오해
+
+**"출판된 메타분석은 AI 교육에 관한 확정된 증거다."** 이 분야의 종합들은 감사를 견디지 못했습니다. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]]이 AI가 교육을 개선한다고 주장하는 **동료 검토 메타분석 14편**을 감사한 결과, **어느 것도** 그 결론에 대한 타당한 근거를 제공하지 못했습니다. 통합된 효과 크기는 통합된 연구들만큼만 좋으며, 이 문헌에서 통합은 일상적으로 결과를 AI에 귀속시킬 수 없는 설계를 포함해 왔습니다. 메타분석 수치를 인용하기 전에, 그것이 무엇을 통합했는지 물으십시오.
+
+**"더 큰 효과 크기는 더 나은 개입의 것이다."** 종종 그 반대입니다. 이 페이지가 기록하는 검토 맥락에서, 잘 정의된 처치, 대조군, 타당한 학습 측정을 갖춘 연구는 **21%**뿐이었고, "ChatGPT 사용"에 보고된 이점은 목적에 맞게 만든 [[intelligent-tutoring|지능형 튜터링 시스템]]보다 *더 크게* 나왔습니다. 약하게 규정된 처치는 비교가 더 모호하고 결과 측정이 더 느슨하기 때문에 부풀려진 효과를 낳는 경향이 있습니다. 더 큰 숫자는 개입을 선호할 이유가 아니라 설계를 들여다볼 이유입니다.
+
+**"도구를 쓰는 동안 성적이 높으면 그 도구가 더 많이 가르친 것이다."** 한 [[k-12|K-12]] 수학 연구에서, 범용 [[conversational-ai|챗봇]]으로 연습한 학생들은 더 나은 연습 성적을 얻은 뒤 보조 없는 평가에서 **약 17% 더 나쁜** 점수를 받았습니다. 도구가 있는 상태에서 측정한 연습 수행이 부풀려진 측정이며, 보조 없는 수행이 결과입니다. 그리고 오르고 있던 것은 둘 중 하나뿐입니다.
+
+**"효과가 실재한다면 구현 세부는 그리 중요하지 않다."** 세부가 곧 효과입니다. 한 기관의 한 강좌에서 학생 30명을 따라간 연구가, 지금은 아무도 쓰지 않는 도구 버전에 관해 수행되었다면, 그것은 더 이상 존재하지 않는 구성에 관한 발견을 낳은 것입니다. 처치 명세, 버전, 설정은 주변 맥락이 아니라 주장의 일부입니다.
+
 ## 연결된 개념
 
 - [[limitations-in-aied-research]]
@@ -182,3 +194,5 @@ ai_assist:
 - [[ai-tutoring-quality-k12-methodologies-2026]] — 보정과 실험 횟수가 공개된 공급업체 지표들
 - [[ai-assisted-assessment-instruction-higher-ed-2026]] — 모형 버전에 묶인 발견들, 그리고 분야의 격변
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — 이미 사용 중인 학생 대상 AI 제품 16개에 대한 독립적 증거 수
+
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — 고찰은 자기 말뭉치의 보고 편향을 정량화할 수 있다

@@ -1,7 +1,7 @@
 ---
 title: 교수법적 안전
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,17 @@ ai_assist:
 ### 관련 개념들과의 연결
 
 교수법적 안전은 [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], [[llm]]을 [[trust]], [[scaffolding]], [[metacognition]], [[self-regulated-learning]]의 상호작용 수준 문제들과 연결하는 보호 계층입니다. 그것은 [[llm-training-and-fine-tuning|학습]]과 [[reinforcement-learning]]을 통해 작동하고, [[bias-mitigation]]과 [[equity-in-ai-education]]에 의존하며, [[ai-misuse-learning-harm]]에 목록화된 해악들과 [[hazra-safetutors-pedagogical-safety-2026|튜터 해양 분류체계]]에 의해 동기화됩니다.
+- **아동 해악은 좀처럼 모델을 통해 들어오지 않습니다.** 아동 관련 AI 사건 1,331건을 코딩한 결과, 해악은 표상적, 존엄 관련, 심리적 범주에 집중되었고 모델 결함보다는 배포와 거버넌스, 오용의 실패와 함께 발생했습니다. 따라서 출력 단위 필터는 지배적인 경로를 놓칩니다([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
+
+## 흔한 오해
+
+**"유해성 필터와 탈옥 저항이 튜터를 안전하게 만든다."** 기존의 [[llm]] 안전은 교육에 필요하지만 충분하지는 않습니다. 그것은 모델이 무엇을 *말하는지*를 다룹니다. 교수법적 안전은 상호작용이 학습자에게 무엇을 하는지를 다루며, 어떤 콘텐츠 분류기도 볼 수 없는 실패를 포함합니다. 튜터는 모든 콘텐츠 검사를 통과하면서도 체계적으로 학습을 침식하거나 불평등을 고착시킬 수 있습니다.
+
+**"시스템이 한 번의 교환에서 잘 작동하면 사용 중에도 안전하다."** 위험은 턴을 거치며 누적됩니다. 해악 비율은 **단일 턴 평가에서 약 18%였던 것이 다중 턴에서는 약 78%**로 상승했습니다. 따라서 단일 턴 벤치마크는 학생들이 실제로 겪는 상호작용에 비해 네 배나 안심되는 수치를 보고하며, 고립된 프롬프트로 구성된 레드팀 모음은 10분짜리 세션에서 실패하는 시스템을 합격시킬 것입니다.
+
+**"가장 안전한 튜터는 가장 많이 거부하는 튜터다."** "고르게 거부하는" 시스템도 불평등을 고착시킬 수 있으며, 이것이 이 페이지가 말하는 조용한 실패의 후반부입니다. 실패 양상은 정답을 주면서 학습을 침식하는 튜터만이 아닙니다. 거부가 학습자들 사이에 지원을 불균등하게 배분하는 튜터도 여기에 해당하며, 일괄 거부 정책은 가시적인 위험을 비가시적인 위험과 맞바꿉니다.
+
+**"어떤 모델 수준 안전 작업이든 홍보용 조치에 불과하다."** 그중 일부는 측정 가능합니다. [[llm-unlearning-math-privacy|수학 언러닝]] 연구는 그래디언트 기반 언러닝으로 식별 정보와 유해 콘텐츠를 제거하여, 개인 식별 정보 출력을 **0.1%**까지, 유해성 비율을 **0.0%**까지 낮추면서 역량을 보존합니다. 모델 수준 통제는 계층적 방어의 한 층이며, 단독으로는 불충분하지만 아무것도 아닌 것은 아닙니다.
 
 ## 연결된 개념
 

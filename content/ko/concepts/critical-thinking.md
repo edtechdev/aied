@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 비판적 사고
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T15:40:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,13 @@ ai_assist:
 - **안전장치만이 아니라 학습 활동으로서의 검증.** [[pearls-epistemic-verification-2026|Wang(2026)]]은 AI 산출물 평가를 여섯 개의 상호의존적 차원 — Process, Evidence, Access, Reproducibility, Legitimacy, Source — 으로 조직하고, 산출물의 유창함이 아니라 그 보증을 조립하는 것을 학문적 전문성을 쌓는 것으로 다룹니다.
 
 **이 지식베이스에서 가장 큰 전문가 평정 취약성은 비판적 사고입니다.** 30명의 전문가가 평정한 65개 학습 과정에 걸쳐, 비판적 사고와 비판적 분석적 사고는 이 보고서에서 가장 높은 교란 평정을 받았습니다(5점 중 평균 4.00. 평정자의 96%가 3 이상). 향상은 문턱 아래였습니다(2.40, 43%)([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon 외, 2026]]). 18개 고차원 과정 중 10개는 취약성에만 합의에 이르렀으며, 보고서는 이것을 절충이 아니라 일방적 위험으로 읽습니다.
+
+## 흔한 오해
+
+- **"더 나은 프롬프트가 더 나은 비판적 사고를 만든다."** 오류 논증 튜터와 토론 챗봇을 가르는 것은 **더 나은 프롬프트가 아니라 구조화된 대화 제어**입니다. 각 차례를 **툴민 기반 의도 탐지**로 라우팅하는 일이 그 일을 해냈습니다. 메커니즘은 문구가 아니라 상호작용 구조입니다.
+- **"생성형 AI 사용은 비판적 사고를 직접 높인다."** 생성형 AI 사용과 **자기보고한** 비판적 사고의 연결은 **거의 전적으로 생성형 AI [[feedback-literacy|피드백 리터러시]]를 통해** 이루어졌습니다. **중국 학부생 421명**에서 피드백 리터러시가 그 연관의 **71%**를 매개했습니다. 경로는 리터러시입니다.
+- **"메타분석 효과는 일률적이다."** **29개 실험**에 걸쳐 생성형 AI는 고차원적 사고를 중간 정도로 높였고(**g = 0.609**), 비판적 사고는 **ES = 0.691**이었습니다. 이질적인 개입들에 걸친 중간 정도의 통합 효과는 그 범주를 지지할 뿐 특정 설계를 지지하지 않습니다.
+
 ## 연결된 개념
 - [[metacognition]]
 - [[cognitive-offloading]]
@@ -125,4 +132,4 @@ ai_assist:
 
 - [[genai-dependence-research-creativity-2026]] — 대학원생 1,157명에서 비판적 사고와 양으로 연관된 생성형 AI 의존
 - [[genai-use-critical-thinking-moderation-2026]] — 피드백 리터러시를 통한 생성형 AI 사용에서 비판적 사고로, 덜 성찰적인 학생에게만 직접 경로
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM 교육에서 AI 리터러시에 관한 가장 많이 인용된 열 편의 연구 종합(Hallström et al. 2026)
+

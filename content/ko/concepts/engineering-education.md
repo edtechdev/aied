@@ -1,7 +1,7 @@
 ---
 title: 공학 교육
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ ai_assist:
 
 이 지식 베이스의 공학 교육 내용은 아직 발전하는 중입니다. 추가 문서의 혜택을 볼 하위 영역에는 **[[discipline-specific-aied|학문 특정적]] 공학 [[pedagogy|교수법들]]**(기계, 토목, 화학, 전기, 소프트웨어, 생명공학 교육), **[[design-education|설계]]와 메이커 교육**, **캡스톤과 [[project-based-learning|프로젝트 기반 학습]]**, 그리고 **공학 윤리 교육** — AI의 역할이 특히 중대할 가능성이 있는 곳 — 이 포함됩니다.
 
+그 격차는 한 영역에서는 더 이상 비어 있지 않습니다. 3년제 생명공학 공학 프로그램이 4개 모듈의 PBL 연속 안에서 생성형 AI를 통제된 지식 요약 및 코딩 비계로 운영했고(승인된 도구, 환자 데이터 없음, 공개 로그), AI 이전 집단의 39.1%에 대해 66.4%의 A 비율을 보고했습니다([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## 공학 교수자를 위한 함의
 
 - **AI에 관해 공유된 정확한 언어를 구축하십시오.** [[engineering-faculty-metaphors-ai-understanding-2026|교수자 비유 연구]]는 교수자들이 근본적으로 다른 심성 모형(에이전트 대 도구)을 가짐을 발견합니다. 정책을 세우기 전에 학과의 이해를 정렬하십시오.
@@ -72,6 +74,12 @@ ai_assist:
 - **학생을 강좌가 아닌 노동력을 위해 준비시키십시오.** [[ai-engineering-computing-workforce-grey-literature-2026|Dual Train Problem]]은 부상하는 역할들과 정렬된 내구적인 AI 역량, 윤리/거버넌스, 기술 기반 자격증을 촉구합니다.
 - **비판적 사용과 적절한 의존을 모형화하십시오.** [[tam-critical-use-genai-engineering-2026|비판적 사용 TAM 연구]]는 학생들이 이해 과제에서는 AI를 많이 의존하지만 평가에서는 덜 의존함을 보여줍니다 — 과업 유형에 걸쳐 적절하고 검증 가능한 의존으로 안내하십시오.
 - **AI 사용을 수업 시간 안에서의 기술로 가르치십시오.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]]은 각각 강의 말미에 10–15분씩, 도구 리터러시에서 전략적 위임을 거쳐 모형 평가까지 순서가 매겨진 아홉 차례의 교수 주도 시연을 실행했으나, 평가와의 연결을 보지 못한 학생들은 이를 중복된다고 보고했습니다 — 따라서 채점되는 작업에 묶으십시오.
+
+## 흔한 오해
+
+- **"공학 학생들의 AI 수용은 기술 수용 문제다."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]]는 TAM을 [[technology-acceptance-model|UTAUT]]와 통합하여 방글라데시 공학 학생들의 수용을 모형화했고 **분산의 64%를 설명**했습니다. 따라서 상당 부분은 수용 구성개념 밖에, 모델이 다루지 않는 사회적·인지적 요인에 놓입니다.
+- **"학생들은 AI를 가장 잘하는 일에 사용한다."** [[ai-engineering-education-balancing-act|Kudina (2026)]]는 **공학 학생 100명**이 LLM을 **글쓰기 지원**에서 가장 가치 있게 여겼으며 공학적 추론에서는 그렇지 않았음을 발견했습니다. 도구에 대한 그들의 은유는 도구가 실제로 제공한 것보다 컸고, 실제 사용은 역량이 아니라 편의를 따랐습니다.
+- **"더 풍부한 도구 스택이 설계 결과를 개선한다."** **학생 27명**의 건축 설계 스튜디오에서 생성형 AI와 [[virtual-and-augmented-reality|XR]] 파이프라인을 사용한 팀은 **개선된 산출물 없이 효능감이 낮아진** 모습을 보였습니다. 도구의 풍부함은 산출물을 그대로 둔 채 자신감을 앗아갈 수 있습니다.
 
 ## 연결된 개념
 
@@ -99,7 +107,6 @@ ai_assist:
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — 구술 설명에서 구현된 인지를 위한 다중양식 프레임워크
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI와 공학 및 전산 노동력의 미래
 - [[ai-engineering-education-balancing-act]] — 공학 교육에서 AI 사용하기: 균형 잡기
-- [[ai-learning-tools-engineering-education-needs]] — 공학 교육을 위한 요구와 주의를 인식하는 AI 학습 도구의 설계
 - [[structured-ai-demonstrations-engineering-mechanics]] — 공학 역학에서의 구조화된 AI 시연
 - [[isaza-chatgpt-engineering-prompting-2026]] — 공학 교육에서의 ChatGPT
 - [[liu-ai-sustainable-engineering-education-2026]] — 지속가능한 공학 교육을 위한 AI-SEE 프레임워크 (Liu et al. 2026)

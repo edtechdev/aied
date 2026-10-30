@@ -1,13 +1,13 @@
 ---
 title: 경험 학습
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ ai_assist:
 - **사이버보안 랩:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM 지원 사이버보안 교수]]는 직접 손대는 경험적 기술 형성을 뒷받침하기 위해 가상 랩 플랫폼에 [[generative-ai]] 교수 보조자를 통합합니다.
 - **로봇공학 프로젝트:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]]는 고전 프로그램에 실천적 경험의 부재를 다루며 프로젝트 기반의 직접 손대는 방식으로 로봇공학을 가르칩니다.
 - **모의와 체화 학습:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]]은 초보자가 모의 로봇으로 실험하게 하고, [[embodied-learning|체화]] 로봇 상호작용은 학습을 직접 경험에 뿌리내립니다.
+- **장치가 요점이 아닐 때 가상 실험실은 물리 실험실을 능가할 수 있습니다.** 옴의 법칙을 배우는 9학년 학생은 AI 지원 가상 실험실, AI 없는 같은 실험실, 물리 실험실에서 30점 만점에 23.45, 20.51, 16.57점을 받았고 모든 쌍이 유의미했습니다([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]). 저자들은 장치를 다루는 것 자체가 목표인 곳에서는 물리 실험실의 불리함이 줄어들 수 있음을 인정합니다.
 
 - **불확실성을 위한 인프라로서의 AI, 효율성이 아니라.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]]는 생성형 AI에게 경영 모의에서 파괴적 사건과 연쇄 결과를 생성하는 일을 맡겨, 팀들이 불완전한 정보 아래에서 계획을 수정하게 하며, 보호된 모의가 교실 밖에서는 부담이 되는 의사결정 습관을 남길 수 있음을 경고합니다.
 ### AI 지원 교육과정에서의 직접 손대는 학습의 두 형태
@@ -48,6 +49,33 @@ AI 지원 설계 교육에서의 직접 손대는 학습에 관한 동료 검토
 경험 학습은 [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], 그리고 [[higher-ed]] 전문가 준비에 연결됩니다.
 
 업무 통합 경험이 고급 역량의 구속 조건이 될 수 있습니다: 스마트 제조 랩의 후원 캡스톤 프로젝트 89건에 걸쳐, Workforce Readiness Level 6에서 7로의 발전은 추가 강좌가 아니라 산업에 내장된 배치에 의해 관문이었습니다([[workforce-readiness-smart-manufacturing-wrl-2026|Smith 등(2026)]]).
+
+## 흔한 오해
+
+**"경험 학습은 직접 해 보는 활동을 뜻한다."** 활동은 표면이며, 학습 기제는 하기, 성찰하기, 개념화하기, 시험하기의 순환입니다. 구조화된 성찰이 없는 실험 세션은 개념 변화가 아니라 친숙함을 만들어 냅니다. 그래서 "실습 구성요소를 더했다"는 경험 학습의 증거가 아닙니다.
+
+**"AI는 경험 학습에서 경험을 대체할 수 있다."** 그것은 일부 시스템을 시뮬레이션할 수 있으나, AI, 사이버보안, 로보틱스 같은 응용 영역에서 역량을 형성하는 경험을 제공할 수는 없습니다. 그곳에서 학생은 실제 도구와 시스템을 다루며 기술을 발달시킵니다. 시뮬레이션된 보안 환경은 절차를 가르치고, 작동하는 시스템은 잘못된 설정의 결과를 가르칩니다.
+
+**"더 진정성 있는 과제가 곧 더 낫다."** 진정성은 전이 가치와 평가 문제를 함께 높입니다. 실제 시스템은 변동이 크고 채점하기 어려운 증거를 낳으며, 과제가 진정성 있을수록 결과는 점수와 덜 닮습니다. 설계는 둘을 함께 붙들어야 하며, 그래서 성찰 구조가 과제만큼의 무게를 지닙니다.
+
+**"AI 튜터링은 강의 콘텐츠에 맞는 만큼 경험 학습에도 맞는다."** 그 적합성은 더 약합니다. 튜터는 설명을 제공할 수 있으나 시스템과의 만남을 제공할 수는 없습니다. 이 교수법에서 그것의 자연스러운 자리는 학습자가 일어난 일을 이해하는 성찰과 개념화 단계 근처이지, 하기를 대신하는 곳이 아닙니다. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]]는 만남을 각본으로 쓰지 않고 생성합니다. 학습자의 목표에서 출발해 GELLI는 실행 시점에 인물, 지원, 성찰을 갖춘 상황 장면을 구축하며, 일본인 학습자 40명을 대상으로 한 피험자 내 연구에서 어휘 회상(d = 0.45)과 자신감에서 전문가가 만든 영상보다 나았습니다.
+
+## 실천을 위한 함의
+
+**교수자를 위해**
+
+- 활동이 아니라 순환을 구조화하십시오: 하기, 그다음 성찰하기, 그다음 개념화하기, 그다음 새로운 상황에서 시험하기. 하기에서 멈춘 세션은 학습이 아니라 친숙함을 만들어 냈습니다.
+- 개념이 추상적인 곳에는 실천 구성요소를 더하고, 실천이 강좌 전체가 된 곳에서는 빼십시오. 직접 해 보기는 시간을 비용으로, 전이를 이득으로 지니는 수단이며, 그 비율은 설계 결정입니다.
+- AI는 학습자가 일어난 일을 이해하는 성찰 단계에 남겨 두십시오.
+
+**개발자를 위해**
+
+- 성찰 프롬프트와 학습자가 무엇을 했는지에 대한 기록을 만들어, 의미 구성 단계에 재료가 있고 증거가 감사 가능하게 하십시오.
+- 오류의 결과가 교육과정 그 자체인 분야에서 시뮬레이션을 실제 시스템 운영의 대체물로 제시하지 마십시오.
+
+**프로그램 설계자를 위해**
+
+- 응용 프로그램이 랩 대리물이 아니라 실제 응용 작업을 담고 있는지 확인하십시오. 전이 주장은 만남의 진정성에 달려 있습니다.
 
 ## 연결된 개념
 - [[active-learning]]
@@ -61,6 +89,9 @@ AI 지원 설계 교육에서의 직접 손대는 학습에 관한 동료 검토
 - [[virtual-and-augmented-reality]] — 의도된 경험으로서의 몰입적 연습
 
 ## 연결된 문서
+
+- [[gelli-experiential-language-learning-2026]] — GELLI: 경험적 언어 학습 상호작용을 위한 생성기 (Symonette et al. 2026)
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — 플립드 물리 학습을 위한 AI 지원 가상 실험실: 중학생 성취, 동기, 인지 부하에 미치는 효과
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — AI 시대의 스마트 제조를 위한 Workforce Readiness Level 틀
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 체화 지능을 통한 지속 가능한 학습 기르기(E3-HOT)

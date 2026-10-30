@@ -1,7 +1,7 @@
 ---
 title: 학습 설계
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-27T08:20:32-04:00"
+source_updated: "2026-10-28T00:58:16-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ ai_assist:
 
 ### 주요 연구 주제
 
-**AI 지원 콘텐츠 제작**은 가장 직접적으로 전환적인 적용입니다. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**는 생성형 AI를 LaTeX와 Python과 결합하여 [[stem-education|STEM]] 자료 제작을 자동화하는 6단계 구조를 제시하며, 8개 모듈과 28개의 프로젝트 맥락에 걸쳐 검증되었고 학습자의 품질 평점은 10점 만점에 8.5~9.9점이었습니다. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**는 ADDIE 모형을 축으로 구성된 다중 에이전트 프레임워크를 사용하여, 역할 기반 에이전트(담당 교수, 수업 설계자, 강좌 코디네이터)가 협력하여 완결된 강좌 자료를 생성합니다. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**는 강좌 말뭉치에 기반한 적응형 [[pedagogy|교수법적]] [[video-education|영상 생성]]을 위한 구조화된 파이프라인을 제공하며, 교육 콘텐츠 생성에 AI 활용 능력이 아니라 명시적인 교수법적 구조가 필수적임을 보여 줍니다. [[generative-ai|생성형 AI]] 플랫폼은 자신이 만들어 내는 콘텐츠에 학습 설계 원칙을 구현할 수도 있습니다. [[ai-modeling-problem-generation-platform-2026|수학적 모델링 문제를 생성하는 AI 기반 플랫폼]]은 확립된 설계 원칙과 [[prompt-engineering|검색 증강 생성]]을 결합하고, ADDIE 접근을 거쳐 기존의 콘텐츠 생성기가 만들어 내지 못하는 교수법에 기반한 과제와 권고를 산출했습니다. 그러나 이러한 AI 지원 콘텐츠와 수업 생성의 효과는 교수자 자신의 전문성에 따라 좌우됩니다. [[choi-teacher-ai-interaction-lesson-design-2026|Choi 등(2026)]]은 경험이 많은 교수자가 AI가 생성한 수업 아이디어를 학생과 맥락에 맞추어 비판적으로 변용하는 반면(재프롬프트와 산출물 보완), 신규 교수자는 AI의 제안을 그대로 받아들이는 경향이 있음을 발견했습니다. 즉 AI 콘텐츠 도구의 교수법적 가치는 도구가 아니라 교수자의 경험과 AI 활용 능력에 달려 있습니다. 학습 과제의 교수-AI 공동 설계에 대한 [[wang-teacher-ai-co-design-review-2026|체계적 고찰]](Wang, Liu & Islam 2026)은 28개 연구(2015–2025)에 걸쳐 이 양상을 큰 규모에서 확인합니다. GenAI는 주로 수업 계획, 프롬프트 생성, 창조적 아이디어 산출에 쓰이며, 지배적인 협업 양상은 더 완전한 공동 설계자가 아니라 조력자이자 콘텐츠 생성자로서의 AI입니다. 효율성, 응답성, [[creativity]], [[equity-in-ai-education|형평성]]이 되풀이되는 이점으로 나타납니다. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]는 모둠 활동 설계에 대한 교수자 전문성의 발견을 더 분명히 합니다. 경험이 많은 교수자는 AI에 익숙한 정도와 무관하게 신규 교수자보다 더 풍부하고 더 시너지적이며 ZPD에 더 잘 맞춘 역할 구성을 AI가 설계한 협력 활동에서 만들어 내며, AI 산출물을 효과적인 [[collaborative-learning|차별화된 모둠 학습]]으로 바꾸는 지렛대가 '교수법적 프롬프트 리터러시'임을 드러냅니다.
+**AI 지원 콘텐츠 제작**은 가장 직접적으로 전환적인 적용입니다. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**는 생성형 AI를 LaTeX와 Python과 결합하여 [[stem-education|STEM]] 자료 제작을 자동화하는 6단계 구조를 제시하며, 8개 모듈과 28개의 프로젝트 맥락에 걸쳐 검증되었고 학습자의 품질 평점은 10점 만점에 8.5~9.9점이었습니다. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**는 ADDIE 모형을 축으로 구성된 다중 에이전트 프레임워크를 사용하여, 역할 기반 에이전트(담당 교수, 수업 설계자, 강좌 코디네이터)가 협력하여 완결된 강좌 자료를 생성합니다. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**는 강좌 말뭉치에 기반한 적응형 [[pedagogy|교수법적]] [[video-education|영상 생성]]을 위한 구조화된 파이프라인을 제공하며, 교육 콘텐츠 생성에 AI 활용 능력이 아니라 명시적인 교수법적 구조가 필수적임을 보여 줍니다. [[generative-ai|생성형 AI]] 플랫폼은 자신이 만들어 내는 콘텐츠에 학습 설계 원칙을 구현할 수도 있습니다. [[ai-modeling-problem-generation-platform-2026|수학적 모델링 문제를 생성하는 AI 기반 플랫폼]]은 확립된 설계 원칙과 [[rag|검색 증강 생성]]을 결합하고, ADDIE 접근을 거쳐 기존의 콘텐츠 생성기가 만들어 내지 못하는 교수법에 기반한 과제와 권고를 산출했습니다. 그러나 이러한 AI 지원 콘텐츠와 수업 생성의 효과는 교수자 자신의 전문성에 따라 좌우됩니다. [[choi-teacher-ai-interaction-lesson-design-2026|Choi 등(2026)]]은 경험이 많은 교수자가 AI가 생성한 수업 아이디어를 학생과 맥락에 맞추어 비판적으로 변용하는 반면(재프롬프트와 산출물 보완), 신규 교수자는 AI의 제안을 그대로 받아들이는 경향이 있음을 발견했습니다. 즉 AI 콘텐츠 도구의 교수법적 가치는 도구가 아니라 교수자의 경험과 AI 활용 능력에 달려 있습니다. 학습 과제의 교수-AI 공동 설계에 대한 [[wang-teacher-ai-co-design-review-2026|체계적 고찰]](Wang, Liu & Islam 2026)은 28개 연구(2015–2025)에 걸쳐 이 양상을 큰 규모에서 확인합니다. GenAI는 주로 수업 계획, 프롬프트 생성, 창조적 아이디어 산출에 쓰이며, 지배적인 협업 양상은 더 완전한 공동 설계자가 아니라 조력자이자 콘텐츠 생성자로서의 AI입니다. 효율성, 응답성, [[creativity]], [[equity-in-ai-education|형평성]]이 되풀이되는 이점으로 나타납니다. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]]는 모둠 활동 설계에 대한 교수자 전문성의 발견을 더 분명히 합니다. 경험이 많은 교수자는 AI에 익숙한 정도와 무관하게 신규 교수자보다 더 풍부하고 더 시너지적이며 ZPD에 더 잘 맞춘 역할 구성을 AI가 설계한 협력 활동에서 만들어 내며, AI 산출물을 효과적인 [[collaborative-learning|차별화된 모둠 학습]]으로 바꾸는 지렛대가 '교수법적 프롬프트 리터러시'임을 드러냅니다.
 
 Aila 시험은 그 양상에 계획 시간 수치를 붙입니다. 무작위 배정된 초등학교의 교사들은 이 도구로 주당 2.51시간을 수업 준비에 썼고 도구 없이는 3.32시간을 썼지만, 중앙값 교사는 수업의 21%에서 40%만을 처음부터 계획했으며, 이는 처음부터 설계하는 도구가 다루는 사례입니다([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
@@ -81,7 +81,6 @@ AI 지원 학습 경험을 만드는 수업 설계자, 강좌 개발자, 엔지�
 **AI 생성을 구조화된 수업 설계 모형에 닻을 댑니다.** AI 콘텐츠는 그 뒤에 놓인 교수법적 구조만큼 좋을 뿐이며, 품질을 결정하는 것은 AI 활용 능력이 아니라 명시적인 구조입니다. 인정된 모형(ADDIE, Dick & Carey, 신속 프로토타이핑)을 중심으로 설계하고, 모형이 교수법적 결정을 스스로 추론하기보다 그것을 명시적으로 부호화하십시오.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
 
 **수업 설계 모형 외에 원칙 수준의 프레임워크도 도입합니다.** 강좌 차원의 모형은 하나의 설계를 구조화하지만, 공개된 프레임워크는 많은 설계가 충족해야 할 기준을 설정합니다. 전문을 읽어 볼 만한 예로 Digital Promise의 *Powerful Learning with Emerging Technology*는 근거 기반, 학습자 중심, 역량 구축이라는 세 가지 원칙 아래 지침을 조직하고, 각 원칙을 실천과 전략으로 확장하며, [[privacy]], [[explainable-ai|설명 가능성]], 공정성을 선택적 부가물이 아니라 특정 실천에 부수되는 안전 의무로 붙입니다.([[powerful-learning-with-emerging-technology-2025]])
-
 **AI 설정을 과제에 맞추고 정교함에 맞추지 않습니다.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]]는 프롬프트, 맥락, 하네스, 검증된 순환이라는 네 개의 층위를 구분하고, 검증 가능한 결과를 낼 수 있는 가장 덜 복잡한 설정을 쓰는 최소 충분 층위 원칙을 적용합니다. 오케스트레이션을 더할수록 조율, 검증, 프라이버시, 이해의 비용이 따르기 때문입니다.
 
 **콘텐츠 제작에는 역할 기반 다중 에이전트 작업 흐름을 사용합니다.** 하나의 일반적인 프롬프트 대신, 정의된 파이프라인을 통해 협력하는 서로 다른 에이전트와 역할(담당 교수, 수업 설계자, 강좌 코디네이터)을 조율하십시오. 이는 실제 강좌 팀이 일하는 방식을 그대로 반영하며 단일 프롬프트보다 더 완결된 자료를 산출합니다.([[instructional-agents-multi-agent-course-gen]])([[wang-multi-agent-systems-learning-designers-2025]])
@@ -93,7 +92,6 @@ AI 지원 학습 경험을 만드는 수업 설계자, 강좌 개발자, 엔지�
 Fowlin 등(2026)은 AI가 어디에 들어갈지를 결정하는 실행적 방법을 더합니다. 활동을 독립적으로 하는 편이 나은 부분과 AI와 결합하는 편이 나은 부분으로 풀어 헤치고, 그 분할에서 교육자의 판단을 중심에 남겨 두는 것입니다([[fowlin-operationalizing-learning-principles-ai|Fowlin 등(2026)]]).
 
 **콘텐츠를 추적 가능하고 검토 가능하게 만듭니다.** AI의 산출물이 학습자에게 닿기 전에 인간 설계자가 검토하고 바로잡을 수 있게 하고, 왜 이 콘텐츠를 이 순서에 두는지라는 교수법적 근거를 살펴볼 수 있도록 AI 생성을 구조화하십시오. 이는 품질과 [[trust]]를 잠식하는 생성식 교수의 불투명성 우려를 함께 다룹니다.([[bridging-instructional-design-framework-math]])([[cotal-formative-assessment-scoring-2026]])
-
 - **AI가 생성한 미디어는 합성 후가 아니라 대본 단계에서 검토합니다.** PedaCo는 렌더링 이전에 교수법적 오류를 고치기 쉬운 대본에 교육자의 검토를 놓습니다. 수업적 타당성 평점은 3.07에서 3.86으로 높아졌고, 자동화된 합성 후 층위는 다섯 가지 차원 중 두 가지만 개선했습니다([[ai-video-dual-gatekeeping-2026|Kim, Baek & Kwak (2026)]]).
 
 **처음부터 [[accessibility]]를 염두에 두고 설계합니다.** 다양한 학습자를 섬기도록 AI 도구와 AI가 생성한 자료를 만들 때 [[universal-design-for-learning|UDL]] 원칙을 적용하고, 접근성을 사후에 덧붙이지 마십시오.([[ludia-udl-ai-thought-partner-2026]])

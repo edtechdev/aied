@@ -1,7 +1,7 @@
 ---
 title: 컴퓨팅 사고
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 새로운 메타 분석적 증거는 이 그림을 날카롭게 합니다. [[astor-computational-thinking-meta-review-2026|128개의 CT 체계적 검토에 대한 메타 검토]]는 계산적 단계와 알고리즘을 써서 문제를 푸는 추상 모형에 의한 추론이라는 CT의 통일된 정의로 분야가 수렴하고 있음을 발견합니다 — 생산 지향 학습이 요구하는 바로 그 종류의 모형 만들기(답 소비가 아니라) 사고입니다. [[tsingidou-ct-robotics-kindergarten-2026|CT-유치원 로보틱스 연구]]는 초기 아동기 학습자조차도 로봇과의 놀이 중심 구축을 통해 문제 기반 학습, 이야기 만들기, 비계를 써서 생산자가 됨을 보여 줍니다 — 기술을 단지 조작하는 것이 아니라 자신이 구성하는 것으로 보게 되는 발달 단계의 첫걸음입니다. 그리고 [[solving-vs-evaluating-genai-solutions|평가와 비평 연구]]는 CT가 결함 있는 AI 해법을 판단하고 디버깅함으로써 행해질 수 있음을 입증합니다 — 수동적 소비의 덫에 저항하는 AI 산출물에 대한 생산자적 태도입니다.
 
 실천적 귀결은 CT 교수가 학습자가 AI로 *무언가를 만들도록* 설계되어야 한다는 것입니다 — 모형을 저작하고, 에이전트를 만들고, 산출물을 구성하고, AI 산출물을 비평하도록 — 완성된 해법을 받는 대신에. 이것은 CT를 깊게 하면서 [[ai-literacy]]를 단지 개념적인 것이 아니라 참여적이고 창조적인 것으로 쌓게 합니다. 교사는 그에 따라 AI 도구를 쓰는 데서 AI 강화 학습 활동을 설계하는 쪽으로 움직이는 지원이 필요합니다([[teacher-role]]과 [[professional-training]] 참조).
+
 타인의 모형을 재사용하는 것은 생산자 태도에 속합니다. 출판된 AI 모형을 구현하는 것 — 선택하고, 설치하고, 실행하고, 검증하는 것 — 은 예상되는 각 실패에 대한 대안 경로와 함께 배울 수 있는 구조화된 기술로 가르쳐질 수 있으며, 프로그래밍 배경이 없는 세 명의 화학 BSc 학생이 4개월 안에 효소-기질 예측 모형을 재현하고 확장했습니다([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
 
@@ -68,6 +69,13 @@ AI 시대 CT의 중심 목표는 학생과 교수를 AI 산출물의 *수동적 
 컴퓨팅 사고는 [[ai-literacy]]와 [[critical-thinking]] 아래에 놓인 공유된 인지적 기반이며, [[cs-education]]과 [[k-12]] 컴퓨팅의 교육과정 핵심이며, [[educational-robotics]], [[game-based-learning]], [[project-based-learning]]이 가장 잘 봉사하도록 설계되어야 하는 개념적 표적입니다. 그것은 [[llm|대형 언어 모형]]과 [[generative-ai]]가 비계 도구로 쓰일 때 깊어지며, 학생 오해 분류와 CT 인식 평가가 측정하고자 하는 기술입니다. 교사는 [[teacher-education]]과 [[professional-training]]을 통해 그것을 기르며, 그것은 [[physics-education]]와 [[stem-education|STEM]] 전반을 포함한 여러 영역에 걸쳐 전이됩니다.
 
 - **컴퓨팅 사고는 AI 보조 학습을 예측합니다.** [[computational-thinking-aica-2026|8학년 학생]] 가운데 컴퓨팅 사고가 높은 학생은 AI 코딩 보조 강좌에서 낮은 CT 동료를 유의미하게 능가했으며, 보조 도구를 답 검색이 아니라 이해를 위해 사용했습니다.
+
+## 흔한 오해
+
+- **"AI는 컴퓨팅 사고의 필요성을 없앤다."** [[chat-debugging-human-ai-collaboration-circuits|채팅 디버깅 연구]]는 학부생이 LLM의 도움으로 회로를 디버깅할 때 **도구가 아니라 기초 개념과 비판적 사고의 결여가 제약 요인**이었음을 발견했습니다. CT는 학습자가 산출물을 받아들이기보다 평가하게 하는 것이며, 바로 그 역량이 AI 지원을 사용 가능하게 만듭니다.
+- **"AI 지원은 자원이 부족한 환경의 격차를 해소한다."** 조건이 갖춰지면 그럴 수 있습니다. **나이지리아 1학년 학부생 103명을 대상으로 한 14주 준실험**은 AI 지원 문제 기반 학습(ChatGPT와 Teachable Machine)이 성과를 냈음을 발견했고, "더 유능한 동료"로서의 AI는 다른 지원이 없는 곳에서 CT를 나릅니다. 그러나 그것은 구조화된 개입에 관한 발견이지, 학생에게 챗봇을 주는 것의 속성이 아닙니다.
+- **"LLM은 CT를 신뢰성 있게 평가할 수 없다."** [[llm-computational-thinking-physics-2026|물리 CT 평가 연구]]는 LLM이 대규모 수강 과목에서 데이터 수행과 계산적 문제 해결 수행의 성장을 채점할 때 **인간 평가자를 그대로 비출 수 있음**을 발견했습니다. CT 평가 확장의 장애물은 평가자 역량이었고 그 제약은 완화되고 있습니다. 이는 설계 문제를, 도구가 준수 여부가 아니라 CT를 측정하는지의 문제로 옮깁니다.
+- **"CT는 로보틱스가 우연히 가르치는 코딩 기술이다."** **95개 연구의 체계적 검토**는 로보틱스가 CT, 창의성, 문제 해결을 기르지만 **환경이 결과를 조절한다**는 점도 확인합니다. [[game-based-learning|게임 기반]] 전달은 비형식적 환경에 맞고 게임화는 형식적 환경에서 다릅니다. CT는 고르지 않게 전이되는 실천의 집합이므로, 전이 주장에는 실제로 사용한 과제 설계가 함께 제시되어야 합니다.
 
 ## 연결된 개념
 

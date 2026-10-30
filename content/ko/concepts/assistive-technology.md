@@ -1,7 +1,7 @@
 ---
 title: 보조 기술
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,13 @@ ai_assist:
 - **AI를 활용해 보조 적응의 비용을 낮추세요.** AI는 자동 자막 생성, 텍스트 단순화, 대안 생성을 할 수 있지만, 출력 품질을 교수학적 정확성 차원에서 평가하세요.
 - **제공을 정책에 기반을 두게 하세요.** AI 도구를 도입하거나 구축할 때 Assistive Technology Act, IDEA, WCAG를 참고하세요.
 - **지원이 어떤 기능을 수행하는지를 밝히고, 그 기능에 대해 평가하라.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]]는 보상(접근과 참여로 평가됨)과 비계(지원을 받은 의사결정)와 발달(소거나 전이 이후의 전략 사용)을 구분합니다. 그들은 이 페이지의 주의를 겨냥한 규칙을 더합니다. 접근성 지원은 교정 수단이 아닙니다 — 어떤 도구가 수용 조치인지, 전략 지시인지, 아니면 임시적 연습 지원인지는 "학습 계획에 명시되어야 합니다."
+
+## 흔한 오해
+
+- **"보조 기술은 장벽이 있는 곳을 겨냥한다."** 신경다양성 학생을 위한 디지털 보조 기술에 관한 2026년 범위 검토는 지난 10년의 성과를 조망하고, **도구가 겨냥하는 대상과 장벽이 실제로 있는 곳 사이의 불일치**를 발견합니다. **27개 연구가 학습을 직접 지원**했고 13개가 읽기와 쓰기를, 12개가 학습 관리를 다루었지만, **주의력(n = 4)**과 다른 핵심 장벽은 거의 다루어지지 않았습니다. 가장 많이 연구된 대상이 가장 제약이 큰 장벽은 아닙니다.
+- **"중간 정도의 효과 크기가 옳은 도구를 알려 준다."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]은 AI 기반 개입이 로봇과 소프트웨어, 지능형 VR 전반에서 장애 학생의 학습 결과에 중간 정도의 긍정적 효과(**g = 0.588**)를 보인다고 밝힙니다. 이는 매우 다른 필요를 위해 기능하는 매우 다른 기술들에 대한 평균이므로, 그 범주를 뒷받침할 뿐 그 안에서의 선택을 뒷받침하지는 않습니다.
+- **"진단을 전제로 한 접근은 정당한 설계다."** 참여에 공식 진단을 요구하는 것은 실제 필요가 있지만 진단명이 없는 학습자를 배제하며, 이는 [[universal-design-for-learning|보편적 설계]]와 충돌하고 접근의 비용을 학습자의 서류 부담으로 떠넘깁니다.
+- **"보조 도구가 많아질수록 포용도 커진다."** 한 범위 검토는 5개 데이터베이스에서 **766건의 기록**을 선별했는데, 산출물의 양은 필요를 포괄하는 범위와 같지 않습니다. 장벽별 연구 수가 더 유용한 지표입니다.
 
 ## 연결된 개념
 

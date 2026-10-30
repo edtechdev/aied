@@ -1,7 +1,7 @@
 ---
 title: ICAP 틀
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ ICAP의 생성적이고 과정 수준인 참여에 대한 강조는 생성형 AI
 2. **양식에 걸쳐 학습자를 참여시키십시오.** 효과적인 [[ai-literacy|AI 리터러시]] 교수는 학습자를 여러 ICAP 수준 — 수동적 노출, 능동적 조작, 구성적 생성, 상호작용적 대화 — 에서 참여시키며, 학습 목표에 맞는 양식을 선택합니다.([[hingle-collaborative-ai-literacy-2025]])
 3. **참여를 정직하게 측정하십시오.** ICAP은 연구자와 설계자에게 진정한 인지적 참여와 단순한 활동을 구별하는 공통 어휘를 제공합니다 — 얕은 [[student-engagement]]에 대한 교정입니다.([[icap-cognitive-engagement-llm-agents]])
 4. **인간–LLM 주석 격차를 살피십시오.** 참여를 부호화하는 데 자동화된 시스템을 쓴다면, 훈련된 인간에 대한 그것의 체계적 부족분을 고려해야 합니다.([[icap-cognitive-engagement-llm-agents]])
+
+## 흔한 오해
+
+**"ICAP은 활동에 표지를 붙이는 분류법이다."** 그것은 순서에 관한 주장을 담은 설계 및 평가 렌즈입니다. 수동적, 능동적, 구성적, 상호작용적 참여는 산출하는 학습에서 다르므로, "수동적 소비가 아니라 구성적이고 상호작용적인 참여를 이끌어 내는 도구를 만들라"는 것은 분류 작업이 아니라 설계 목표입니다. 학생이 하는 일을 바꾸지 않은 채 수업에 양식 표지만 붙이는 것은 이 틀을 적용한 것이 아닙니다.
+
+**"과제에 쓴 시간이나 상호작용량이 참여 수준을 나타낸다."** 양은 활동을 세지 양식을 세지 않습니다. 스크롤은 동시에 다른 의미에서 능동적이고 수동적이며, 클릭을 많이 만드는 학생도 여전히 구성하는 대신 받고 있을 수 있습니다. 이 틀의 가치는 활동 지표가 한데 묶는 참여의 종류를 구분한다는 바로 그 점에 있습니다.
+
+**"AI 튜터는 대화하기 때문에 자동으로 상호작용적 참여를 만든다."** 대화는 양식이 아니라 매체입니다. 시스템이 실질적 기여를 모두 공급하는 대화는 상호작용적 인터페이스를 쓴 학습자에게 수동적이며, 이는 [[student-engagement|참여 문헌]]이 행동적 활동과 인지적 투자 사이에서 기록하는 것과 같은 혼동입니다.
+
+**"더 높은 ICAP 양식이 항상 더 좋다."** 그것은 더 많은 비용을 치르며, 이 순서는 수업이 항상 겨냥해야 할 것에 관한 것이 아니라 관련 처리 단위당 학습에 관한 것입니다. 기초적 유창성은 구성적 작업이 가능해지기 전에 능동적 반복을 요구할 수 있으며, 오류는 거기에 머무는 것이지 거쳐 가는 것이 아닙니다.
 
 ## 연결된 개념
 

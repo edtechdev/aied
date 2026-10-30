@@ -1,7 +1,7 @@
 ---
 title: 이론과 틀
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ ai_assist:
 - **[[community-of-inquiry|탐구 공동체]]** — 온라인 경험이 작동하게 만드는 사회적·인지적·교수적 존재이며, 경험의 이론이자 동시에 설계 틀입니다.
 - **[[self-determination-theory|자기결정 이론]]** — 동기의 선행 조건으로서의 자율성, 유능감, 관계성. AI 사용이 학습을 높이지 않으면서 참여를 높일 때 흔히 제시되는 설명입니다.
 - **[[cognitive-psychology|인지주의]]** — 정보처리, 작업 기억, 그리고 학습의 느낌과 실제 학습 사이의 괴리.
+- **사회적 지각 이론(따뜻함과 유능함)** — 사회 인지와 서비스 로봇 연구에서 들여온 이론으로, 사용자가 AI 에이전트의 신빙성을 어떻게 판단하는지를 틀 짓습니다. 지각된 유능함은 ChatGPT 피드백의 신빙성을 직접 예측한 반면, 따뜻함은 인간다운 공감을 통해서만 작동했습니다(구조방정식, 학생 230명; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **네 번째 어포던스 범주는 시험된 것이 아니라 제안되었습니다.** 세 갈래 어포던스 체계에 24편의 연구를 코딩한 검토자들은 참여, 안전, 자기효능감이 기술적, 교수법적, 사회적 범주에 들어맞지 않는다는 것을 발견하고, Bandura의 상호 결정론에 근거한 정서적 어포던스를 제안했습니다([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## 학습자와 학습 과정의 모형
 
@@ -116,6 +118,16 @@ ai_assist:
 
 메커니즘-이론 정렬은 그럼에도 결정적일 수 있습니다. 즉 AI 지원 게임 기반 학습 연구 55편에 대한 주제적 종합은 효과가 알고리즘의 정교함이 아니라 AI 메커니즘이 그것이 섬기기로 된 교수법을 실행했는지에 달려 있음을 발견했습니다([[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt (2026)]]).
 
+## 흔한 오해
+
+**"빌려온 이론을 AI 도구에 적용하는 것이 이론을 쓰는 것입니다."** 이 분야의 많은 부분은 이론을 시험하기보다 적용하며, 차이는 그 틀이 실패할 수 있었던 예측을 했는지에 있습니다. 한 연구가 틀의 깃발 아래 이득을 보고하면서 반증 가능한 예측에 아무것도 걸지 않았다면, 그 틀에 관해 배운 것은 없습니다. 목록의 모든 이론과 일관된 결과는 그중 어느 것의 증거도 아닙니다.
+
+**"틀의 가치는 이미 만든 체계를 얼마나 잘 기술하는가입니다."** 그것은 사후적 이름 붙이기입니다. 어떤 설계든 수용하는 분류 체계는 변별력이 없으며, 그래서 서술적 틀은 무엇을 배제하는지로 판정해야 합니다. 평가 질문은 "내 체계가 이것에 맞는가"가 아니라 "이 틀은 어떤 체계를 틀렸다고 말할 것인가"입니다.
+
+**"학습 이론, 학습자 모형, 도입 틀은 서로 바꿔 쓸 수 있는 렌즈입니다."** 그것들은 서로 다른 질문에 답합니다. 학습이 어떻게 일어나는가, 학습자의 상태가 무엇인가, 그리고 실천이 왜 확산되는가이며, 그에 따라 증거의 유형도 다릅니다. 잘못된 층을 고르면 옳은 변인을 틀린 예측에 대고 측정하는 연구가 되고, 그것은 범주 오류인데도 영 결과로 읽힙니다.
+
+**"틀이 많다는 것은 분야가 더 성숙했다는 뜻입니다."** AI 시대를 위해 만들어진 틀은 시험되는 속도보다 빠르게 축적되며, 반증 없는 축적은 진전이 아니라 증상입니다. 성숙은 어휘의 증가가 아니라 경쟁하는 예측들이 해소되는 모습으로 나타납니다.
+
 ## 연결된 개념
 
 - [[theory-development-aied]] — 이 분야에서 이론을 세우고 개정하기
@@ -141,3 +153,4 @@ ai_assist:
 - [[yan-agentivism-learning-theory-ai-2026]] — 인간-AI 상호작용을 위한 중범위 학습 이론
 - [[ai-literacy-instrument-development-systematic-review-2026]] — 젊은 구성 개념에 걸친 기구 개발
 - [[mishra-control-vs-agency-history-2025]] — 이 분야의 기초적 통제 대 자율 긴장
+- [[genai-chatbots-language-learning-affordances-review-2026]] — 어포던스 분류 체계의 네 번째 범주로 제안된 정서적 어포던스

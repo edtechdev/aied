@@ -1,14 +1,14 @@
 ---
 title: 구현된 학습
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ ai_assist:
 - **기반이 된 프로그래밍:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]는 [[cs-education|블록 프로그래밍]]을 구현된 로봇 실행에 뿌리내리게 하여, 학습자가 자신의 코드가 행동이 되는 것을 보도록 저작, 실행, 관찰, 수정의 긴밀한 순환을 만듭니다.
 - **사회적 로봇 상호작용:** [[storytelling-in-education|스토리텔링]]([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), 역할 놀이([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), 수화([[pepper-robot-sign-language-lis-2025|Pepper]])에 쓰이는 [[educational-robotics|사회적 로봇]]은 관계적이고 [[social-emotional-learning|정서적인 학습]]을 뒷받침하는 구현된 사회적 상호작용을 제공합니다.
 - **결과를 이끄는 것은 구현 특징이 아니다.** 11개 RALL 연구(N = 595, g = 0.83, I² = 84.4%)에 대한 메타분석은 로봇 형태, 양상, 자율성, 사회적 역할이 제2언어 학습을 조절하지 않는다는 것을 발견했습니다 — 집단 기반 형식이 일대일을 이겼으므로, 효과를 낸 것은 구현이 아니라 로봇의 위치였습니다([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
+- **신체 추적은 조절을 측정 가능한 신호로 바꿉니다.** 움직임 태그가 학생 에이전트를 투사된 모형 위에서 이동시키는 혼합 현실 광합성 시뮬레이션에서, LLM 파이프라인이 40분 분량의 영상에서 자기조절 행동 470개 구간에 표지를 달았고, 지배하기가 66.4%를 차지했습니다([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 외, 2026]]).
 - **구현과 창의적 글쓰기:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|창의적 글쓰기에서의 로봇-LLM 통합에 관한 연구]]는 구현이 학습자의 상호작용과 결과에 어떻게 영향을 미치는지 살핍니다.
 - **인간-로봇 상호작용:** [[educational-robotics|HRI]] 연구([[task-context-trust-educational-hri-2026|신뢰]], [[human-autonomy-agency-hri-review-2025|행위성]])는 물리적 구현이 신뢰, [[student-engagement|참여]], 그리고 [[agency|자율성]]을 어떻게 형성하는지 살핍니다.
 - **이해의 증거로서의 제스처:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]]는 컴퓨터 비전 제스처 추적을 [[llm]] 음성 분석과 통합하여, 공학 학생들의 통계 개념 이해가 말과 제스처를 모두 통해 표현된다는 것을 보여줍니다. 높은 신뢰도의 설명적 제스처는 특정 개념(특히 평균) 주변에 모이며, 제스처–말의 긴밀한 결합은 정합적인 개념적 담론을 신호하고, 그 괴리는 발전 중인 아이디어를 표시합니다 — 이는 구현된 행동을 학습 메커니즘으로서뿐 아니라 [[multimodal|멀티모달 학습 분석]]을 통한 [[assessment-validity|평가]]의 증거로 자리매김합니다.
@@ -51,6 +52,12 @@ ai_assist:
 - **구현, 상황성, 사회적 구성.** [[science-education|과학 학습]]에서 AI 도구는 디지털 실천 공동체와 경계 횡단을 가능하게 하는 "매개 산물"로 기능하며, 구현된 실제적 탐구를 실세계 및 학제간 맥락에 연결합니다.([[li-ai-science-situated-learning-teachers-2025]]) 이것은 구현을 [[situated-learning]]과 [[distributed-cognition]]에 묶습니다.
 
 구현된 학습은 [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], 그리고 [[social-emotional-learning]]과 연결됩니다.
+
+## 흔한 오해
+
+- **"신체가 구현된 학습을 작동하게 만드는 것이다."** **11편의 RALL 연구(N = 595, g = 0.83, I² = 84.4%)** 메타분석은 **로봇의 형태, 양식, 자율성, 사회적 역할이 제2언어 학습 결과를 조절하지 않았다**고 보고했습니다. 구현 특징은 활성 성분이 아니었고, 이질성은 충분히 높아(I² = 84.4%) 통합 효과가 매우 혼합된 개입 집합을 서술합니다.
+- **"큰 효과가 기제를 확정한다."** 11편의 연구에 걸친 595명 참가자의 g = 0.83은 실제 신호이며, 그것이 무엇을 만들어 냈는지를 밝혀 주지는 않습니다. 설계 특징이 효과를 조절하지 않았으므로 그럴듯한 기제는 하드웨어가 아니라 교수 활동에 있으며, 이는 무엇에 투자할지를 바꿉니다.
+- **"구현은 측정할 수 없으므로 이론에 머문다."** 신체 추적은 조절을 **측정 가능한 신호**로 바꿀 수 있습니다. 움직임 태그가 학생 에이전트를 투사된 모형 위에서 이동시키는 혼합 현실 광합성 시뮬레이션에서 LLM 파이프라인이 조절 행동 **470개 구간**에 표지를 달았습니다. 이 구성개념은 정의하기 어려운 곳에서도 운영화할 수 있습니다.
 
 ## 연결된 개념
 
@@ -80,3 +87,4 @@ ai_assist:
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 움직임 추적 광합성 시뮬레이션을 LLM 파이프라인으로 분석

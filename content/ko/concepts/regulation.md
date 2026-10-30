@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 AI 규제
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ ai_assist:
 
 지식베이스는 AI 배치 속도와 규제 성숙도 사이의 지속적인 격차를 기록합니다. [[institutional-change-framework-ai|기관 변화 체계]]와 규제 연구는 사후 대응적 정책이 아니라 사전 대응적인 [[governance]]를 주장합니다.  에 대한 연구와 [[raza-farooq-aied-review-2020-2025|종합적 AIED 고찰]]은 규제가 관할권과 교육 단계에 따라 고르지 않아 교사, 학생, 개발자에게 일관되지 않은 운영 환경을 만들어 낸다고 강조합니다.
 
+[[agentic-ai|에이전트형]] 시스템은 추가적인 간극을 엽니다. 12개 대학의 문서 분석에서 [[wong-sun-agentic-ai-assessment-governance-2026|Wong과 Sun(2026)]]는 어떤 비교 대상도 학습관리시스템에 로그인하거나 학생 자격 증명을 보유하거나 학생을 대신해 행동하는 에이전트를 다루지 않았음을 발견했고, 에이전트를 인식한 여러 사례는 명시적 위임과 접근 경계를 설정했습니다.
+
 **격차는 시기의 문제일 뿐만 아니라 증거의 문제이기도 합니다.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski와 Hurley(2025)]]는 한 전문직 분야를 증거 기반 없이 시간 압박 아래에서 정책을 만드는 곳으로 특징짓습니다. ABA 공인 미국 [[legal-education|법학전문대학원]] 대부분은 전반적으로 금지적 입장을 취하면서 개별 교원에게 재량권을 유보했으며, 저자들은 공개나 인용 실천에 관한 합의가 없고 ABA의 2024년 정책 조사 응답률이 약 15%에 불과했다고 보고합니다. 그들의 규범적 대응 — 입장이 무엇이든 명확한 지침, 작성 단계에서의 [[stakeholders|이해관계자]] 참여, 유연하고 주기적으로 검토되도록 설계된 거버넌스 — 는 [[crompton-governing-genai-higher-ed-delphi-2026|글로벌 델파이 합의]]와 일치하며, 이 역시 정책의 유지를 일회성 과제가 아니라 반복되는 기관 메커니즘으로 다룹니다. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher와 Calderon(2025)]]은 그 반대 방향의 의존관계를 더합니다. 그들의 거버넌스 개혁 프로그램은 규제, 벤치마킹, 기관 간 경쟁으로부터의 외부적 조력 없이는 기관의 발전이 성과로 이어지기 어렵다고 결론 내리며, 품질 및 규제 기관과 그것이 기관들 사이에서 강제하는 비교가 내부 거버넌스 개혁이 자리 잡는 조건이 된다고 봅니다.
 
 에듀테크 플랫폼 프라이버시 정책에 대한 감사는 그 의존관계에 구체적인 사례를 제공합니다. 플랫폼 48곳에 걸쳐 데이터 수집은 비교적 잘 공개된 반면(평균 2점 만점에 1.81), AI 공개(0.90)와 책임성(1.07)은 뒤처졌으며, 33%는 눈에 띄는 AI 기능이 있음에도 의미 있는 AI 공개를 전혀 하지 않았습니다. 미국 [[k-12]] 플랫폼은 전반적으로 가장 높은 점수를 받았으나(M = 7.47, 미국 [[higher-ed|고등교육]]의 5.50에 대해) AI 공개나 책임성에서는 아무것도 얻지 못했습니다 — 규제는 저자들의 결론대로 자기가 지명하는 것만을 끌어올리므로, 집행 가능한 규칙과 조달 기준이 자발적 약속이 아니라 [[privacy]]를 배치의 조건으로 만들어야 합니다([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
@@ -57,6 +59,12 @@ ai_assist:
 ### 연결
 
 규제는 [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], [[academic-integrity]]와 연결됩니다. 이는 다른 모든 AI 교육 실천이 작동하는 방식을 형성하는 기관적 층위입니다. 규제는 제약하는 동시에 가능하게 합니다. 허용되는 AI 사용의 경계를 설정하면서, [[ai-literacy]]와 책임 있는 사용에 대한 기대를 통해 [[equity-in-ai-education|공평한]] 안전한 통합의 조건을 만들어 냅니다.
+
+## 흔한 오해
+
+- **"기관 AI 정책이 규칙이 사는 곳이다."** **미국 교수진 1,057명**을 대상으로 한 [[watson-rainie-ai-challenge-faculty-survey-2026|Watson과 Rainie(2026)]]의 조사는 실효 규칙이 제도 층위보다 얼마나 아래에 있는지 측정합니다. **응답자의 87%가 자신의 지침을 직접 작성**했습니다. 작동하는 정책은 대체로 교수진이 쓴 것이며, 이는 문서화된 제도 층위가 보이는 것보다 적게 기술한다는 뜻입니다.
+- **"정책을 쓰면 위험한 표면이 덮인다."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble(2026)]]은 평가 도구가 규제 대상에 속해야 하는 이유를 보여 줍니다. 레드팀 시험에서 제출물 안에 숨긴 **다섯 개의 간접 프롬프트 주입 가운데 두 개**가 성공했습니다. 도구는 지명하지만 주입 표면은 지명하지 않는 규칙은 그 취약점을 그대로 둡니다.
+- **"에이전트형 시스템은 기존 규칙을 확장하면 덮인다."** **12개 대학**의 문서 분석에서 [[wong-sun-agentic-ai-assessment-governance-2026|Wong과 Sun(2026)]]은 **학습관리시스템에 로그인하는 에이전트를 다룬 비교 대상이 없음**을 발견했습니다. 거버넌스 간극은 구조적입니다. 기존 범주에는 자격 증명을 지닌 자율 행위자를 넣을 자리가 없습니다.
 
 ## 연결된 개념
 
@@ -95,3 +103,4 @@ ai_assist:
 - [[coates-governing-academic-integrity-indicators-2025]] — 거버넌스 개혁의 조건이 되는 외부 규제 압력(Coates, Croucher & Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 빈약한 기관 정책 층위에 맞서 자신의 규칙을 작성하는 교수진의 87%(Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "나중에 고치겠습니다": 교육, AI, 그리고 에듀테크에서 학생 프라이버시의 유예
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — 어떤 비교 정책도 AI 에이전트가 LMS에 로그인하거나 학생 자격 증명을 보유하는 경우를 다루지 않았다(Wong과 Sun 2026)

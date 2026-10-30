@@ -2,14 +2,14 @@
 title: 다중언어 학습
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ ai_assist:
 
 다중언어 AI는 번역을 넘어 [[culturally-relevant-pedagogy|문화적으로 관련된 교수법]] — 언어적으로 그리고 맥락적으로 적절한 콘텐츠를 생성하는 것 — 을 반영해야 합니다. [[llm-cultural-relevance-k12|K-12에서의 LLM 문화적 관련성]]과 [[scaffolding-critical-engagement-genai-minority-students|소수 학생들의 생성형 AI에 대한 비판적 참여]]에 대한 연구는 언어적, 문화적 정렬이 학생들이 실제로 혜택을 받는지를 규제한다는 것을 보여줍니다. 미해결된 채로 두면, AI의 단일언어 편향은 [[digital-divide]]를 심화하고 [[global-south|남반구]] 전반에 걸쳐 [[equity-in-ai-education|형평성]]을 훼손합니다.
 
+언어 간 넘나듦(translanguaging)은 생성형 챗봇이 더한 편의성으로, 이전의 언어 도구에는 없던 것입니다. 24편 연구의 체계적 검토에서 학습자들은 목표 언어로 건너가기 위한 다리로서 자기 언어로 맥락화된 표현과 설명을 요청했고, 검토자들은 이 사용을 재포장된 것이 아니라 새로운 하위 편의성으로 분류합니다([[genai-chatbots-language-learning-affordances-review-2026|Lopez와 Arabadzhy(2026)]]).
+
 ## 평가 편향
 
 다중언어 문제는 [[automated-assessment|자동화된 평가]]에도 영향을 미칩니다: [[ai-scoring-language-bias-physics|AI 채점은 언어 편향]]을 보일 수 있어(예: [[physics-education|물리]]에서), 비원어민 화자에게 불리하게 작용합니다. 평가 도구가 여러 언어에 걸쳐 공정한지를 보장하는 것은 [[assessment-validity]]의 일부입니다.
@@ -62,6 +64,12 @@ LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 �
 - **번역뿐 아니라 문화와 맥락을 반영하십시오.** 다중언어 AI는 번역을 넘어 [[culturally-relevant-pedagogy|문화적으로 관련된 교수법]]에 이르러야 합니다 — 언어적으로 그리고 맥락적으로 적절한 콘텐츠를 생성하십시오([[llm-cultural-relevance-k12|K-12 문화적 관련성]]).
 - **AI를 다중언어 지원 구조와 결합하십시오.** 텍스트 기반 AI가 실패하는 곳에서 음성 우선 및 구술 방식을([[kutti-ai-voice-first-learning-companion|음성 우선 동반자]]) 사용하고, 이중언어 맥락에서 [[self-regulated-learning|자기조절]]을 지원하십시오([[bilingual-llm-lecture-companion-srl-2026|이중언어 강의 동반자]]).
 - **디지털 격차를 주시하십시오.** AI의 단일언어 편향은 [[digital-divide]]를 심화하고 [[global-south]] 전반에 걸친 접근을 훼손합니다 — 도구 선택과 나란히 형평성 있는 인프라와 접근을 계획하십시오.
+
+## 흔한 오해
+
+- **"목표 언어가 첫날부터 지배적이어야 한다."** **24편 연구의 체계적 검토**에서 학습자들은 **목표 언어로 건너가는 다리로서 자기 언어로 맥락화된 표현과 설명**을 요청했고, 검토자들은 이 사용을 우회가 아니라 진정으로 새로운 하위 편의성으로 분류합니다. 모국어 지원은 회피가 아니라 비계로 기능했습니다.
+- **"AI 언어 평가는 다중언어 작가에게 편향되어 있다."** 여기서 편향은 모델이 아니라 **인간 기준선**을 따랐습니다. **3~6학년 정보성 글쓰기**에 대한 LLM 기반 비교 판단은 **연구자 루브릭과 수렴했고(r = .59~.73)**, 인간 채점자가 보인 것과 같은 패턴을 보였습니다. 그것은 절대적 의미의 공정성 증거가 아니라, 모델이 이미 존재하는 왜곡 위에 새로운 왜곡을 더하지 않았다는 증거입니다.
+- **"번역 품질의 출력이 유용한 부분이다."** 다리로 쓰는 사용은 대체가 아니라 설명적이고 상황적입니다. 학습자 자신의 산출을 대체하는 도구는 다리가 가능하게 하려던 연습을 제거합니다.
 
 ## 연결된 개념
 
@@ -86,3 +94,4 @@ LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 �
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: 인도 지식 체계 데이터셋
 - [[kutti-ai-voice-first-learning-companion]] — 음성 우선 학습 동반자
 - [[ai-scoring-language-bias-physics]] — 물리에서의 AI 채점 언어 편향
+- [[genai-chatbots-language-learning-affordances-review-2026]] — 생성형 AI 챗봇이 가능하게 하는 언어 간 넘나듦: 이전 언어 도구가 지원하지 못한 사용

@@ -1,7 +1,7 @@
 ---
 title: 인간 개입
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-03T03:00:33-04:00"
+updated: "2026-10-30T05:04:45-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,8 +38,11 @@ ai_assist:
 ## 들어가며
 
 HITL은 완전히 자율적인 [[ai-education|AI 교육]]의 한계와 위험에 대한 응답입니다. 자동화된 시스템은 규모 있게 생성할 수 있지만, 교수자와 전문가가 가져오는 맥락적이고 [[ethics|윤리]]적이며 교수법적인 판단이 부족합니다. 최근의 구현 두 가지가 서로 다른 구조를 보여 줍니다.
+- **인간이 승인만 한다면 인간 개입은 불충분합니다.** [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]]는 의미 있는 주체성이 다른 곳에서 형성된 결정을 단지 승인하는 것이 아니라 AI 지원 권고를 이해하고, 이의를 제기하고, 재설계하며, 때로는 거부할 수 있는 역량을 요구한다고 주장합니다.
 
 처방적 지원은 인간 감독이 점점 필수적이라고 주장되는 영역입니다. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 외(2026)]]는 세 LLM이 [[learning-analytics]] 지표로부터 학생 지원 계획을 권고할 수 있는지를 시험하여, 필요에 대한 둔감한 민감성과 날카로운 모델 간 비일관성을 발견하고, [[llm]] 처방적 조언이 안전하고 윤리적으로 배치되기 전에 인간 개입 판단이 여전히 필요하다고 결론 내렸습니다.
+
+시스템이 선호하는 답을 감추는 것은 교정적이라기보다 보호적입니다. 권고된 입장을 결코 드러내지 않은 다중 에이전트 토론에서 잘못된 AI 답으로의 해로운 전환은 42.0–60.5%에서 5.7–8.2%로 줄었지만, 올바른 조언의 수용도 함께 줄었습니다([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 세 번째 구조는 인간의 판단을 모형의 산출이 아니라 그 *상류*에 둡니다. [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang(2026)]]의 학습자 질문 분류 연구에서, 박사급 전문가 세 명이 전체 파이프라인을 관장했습니다. 그들은 각 [[constructivist]] 역할에 대한 조작적 정의를 정제하고, 불일치 해소 후 Fleiss' kappa가 0.60에서 0.83으로 오를 때까지 독립적으로 라벨을 붙였으며, 훈련 집합의 균형을 맞추는 데 쓰인 역번역되고 의역된 항목들을 검증했습니다.
 
@@ -72,13 +75,14 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 
 ## AI 시대에 HITL이 중요한 이유
 
-인간 개입 설계는 여러 가지가 수렴하는 이유로 지식베이스의 [[agentic-ai|에이전트 AI]]와 [[reducing-ai-misuse|책임 있는 AI 사용]] 논의의 중심이 되었습니다.
+인간 개입 설계는 여러 가지가 수렴하는 이유로 지식베이스의 [[agentic-ai|에이전트 AI]]와 [[ai-literacy|책임 있는 AI 사용]] 논의의 중심이 되었습니다.
 - **교수법적 안전.** [[pedagogical-safety]]은 실제 교수적 권위를 지닌 AI가 오류, 편향, 유해한 산출이 학습자에게 닿기 전에 잡히도록 인간 감독을 유지할 것을 요구합니다. 이것은 목표를 [[agentic-ai|능동적으로 추구하는]] 자율 에이전트에 특히 중요합니다.
 - **감독은 이론만이 아니라 실제에서 드물다.** [[agentic-ai-education-scoping-review|Wang 외(2026)]]는 474개의 교육용 에이전트 AI 시스템에 걸쳐 견고하게 내장된 거버넌스와 인간 개입 감독이 드물게 나타난다는 것을 발견했습니다 — 단일 과제 자율성과 다중 에이전트 협동은 커지는 가운데서도 말입니다. 이것은 설계 원리와 실제 배치 사이의 간극입니다.
 - **핵심 질문은 인간이 얼마나 참여하는가가 아니라 고리를 어떻게 실행 가능하게 만드는가이다.** 학습과학의 관점은 학습을 데이터 포착, 전산적 해석, 그리고 개연적 응답을 중심으로 조직하는 것이 교수적 행동을 시스템이 탐지하고 행동할 수 있는 것에 의존하게 만들고, 알림과 참여 분류가 어떤 교사나 학생도 행동하기 전에 학습자를 해석한다고 주장합니다([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **타당성과 품질 관리.** HITL은 [[automated-assessment|자동화된 평가]]와 생성의 품질 검문입니다 — 자동 채점이 신뢰할 수 없는 곳에서 인간이 판정하고([[llms-do-not-grade-essays-like-humans-2026|LLM 에세이 채점]] [[research-methods-aied|연구]] 참고) 생성된 문항을 검증합니다. 채점과 피드백 연구 42건(2023–2025)에 대한 PRISMA 지침 [[meta-analysis-systematic-review|체계적 문헌고찰]]은 같은 결론을 명시적으로 이릅니다. LLM은 짧고 잘 구조화된 과제에서는 인간 평가자와 맞먹지만, 복잡하고 개방적이며 주관적인 작업에서 인간의 판단을 완전히 대체할 수 없으며, 가장 높은 채점 효과는 AI 주도 채점을 교사의 감독과 검증과 결합한 하이브리드 시스템에서 달성됩니다([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 외(2026)]]는 그 경계가 어디에 놓이는지를 구체적으로 보여 줍니다. ChatGPT-5는 객관적 약학 시험 문항에서는 교수진과 일치했으나(CCC 0.935–1.000), 루브릭이 주어져도 서술형과 에세이 문항에서는 신뢰할 수 없어, 저자들은 복잡하고 주관적이며 고위험 평가에 대해 인간 검토를 포함한 하이브리드 채점을 권고합니다.
- 반복은 그 감독의 대용물이 아닙니다. 동일한 제출물을 다섯 다른 날에 재채점한 결과, 같은 모형은 자신의 결과를 Krippendorff's alpha 0.625로만 재현했으며, 변동은 중간 성적에 집중되고 다섯 회차의 계수에서 A와 F는 나타나지 않았습니다([[llm-grading-assistants-public-health-2026|Brevik 외(2026)]]).
+- 반복은 그 감독의 대용물이 아닙니다. 동일한 제출물을 다섯 다른 날에 재채점한 결과, 같은 모형은 자신의 결과를 Krippendorff's alpha 0.625로만 재현했으며, 변동은 중간 성적에 집중되고 다섯 회차의 계수에서 A와 F는 나타나지 않았습니다([[llm-grading-assistants-public-health-2026|Brevik 외(2026)]]).
 - **학습자 주체성.** 인간을 고리에 남겨 두는 것은 [[agency]]를 보존하고 [[self-regulated-learning]]을 뒷받침하여, 완전히 자율적인 지원이 유발할 수 있는 [[cognitive-offloading|과의존]]에 맞섭니다.
+
 
 - **학생들 자신이 인간을 고위험 쪽에 둡니다.** 학부생 93명 가운데, 81.7%는 총점의 40%를 차지하는 기말 논문에 인간 채점을 선호했고, 93명 중 75명은 AI가 채점자를 대체하지 않고 보조하기를 원했으며, 69명은 AI 채점이 항상 인간의 검토를 받기를 원했습니다([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli 외(2026)]]).
 - **신뢰와 보정.** 투명한 인간 감독은 [[trust-calibration]]을 뒷받침합니다 — 학습자와 교수자가 자격 있는 인간이 시스템 뒤에 서 있다는 것을 알기 때문입니다.
@@ -100,6 +104,9 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **문항과 내용 생성:** CODE-GEN 너머에서, HITL은 평가와 [[scaffolding]]을 위한 문항 생성을 안내합니다([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **에이전트와 다중 에이전트 시스템:** AI가 더 자율적이 됨에 따라, HITL 감독은 핵심 [[agentic-ai|설계 장치]]입니다([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **모형 불확실성이 아니라 의사결정 결과로 배정하기(2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|2026년 운영 연구]]는 모형 불확실성이 아니라 의사결정 결과에 의해 움직일 때 인간 개입 설계가 어떤 모습인지를 보여 줍니다. 우루과이의 Acredita EB 국가 인증 시험(두 회차, 각각 후보자 약 5,000–6,000명)에서 GPT-5 채점기는 15개 루브릭 문항에 대해 전문 평가자와 60–80% 일치했지만 체계적으로 보수적이어서, 합격/불합격 비교의 15.3%(2024년)와 16.5%(2025년)에서 인간 합격/AI 불합격의 불일치를 산출하고 그 반대는 거의 없었습니다. 따라서 그 틀은 AI 합격 결과를 얼굴 값 그대로 수용하고, 후보자의 결과를 바꿀 수 있는 모든 AI 불합격 결과를 전문가 검토로 배정합니다 — 먼저 합격/불합격이 Writing 영역에 의존할 수 없는 후보자를 건너뛰어 전체 인간 채점이 필요한 응답을 50% 이상 줄입니다. 두 번째 2026년 설계는 다른 쪽에서 경계를 끌어냅니다. 다중 에이전트 AI 표준화 환자 플랫폼([[ai-standardized-patient-scaffolding-medical-2026|Yang 외]])에서, 인간 감독은 AI가 판단하기에 부적합하다고 여겨지는 것에만 배치되고, 교수와 인간 표준화 환자가 맥락적 해석, 교정, 준비 판단을 제공하며, 시스템은 [[medical-education|임상]] 역량을 자율적으로 결정하는 것이 명시적으로 허용되지 않습니다.
+- **연구 도구화: 인간은 점수가 아니라 레이블을 검증합니다.** 학습과학과 컴퓨터과학 코더들은 동기화된 시간선 위에서 LLM이 생성한 행동 구획을 κ = 0.703으로 판정했고, 그들의 불일치는 연구 자체의 오류 분석이 되었습니다([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **모형은 요약하고 연구자는 레이블을 붙입니다.** 한 협력 모델링 연구는 GPT-3.5-Turbo로 394개 담화 구획 각각에 과제 맥락을 아는 요약을 작성하게 하고, 연구자들이 모든 요약을 검증하여 κ ≥ 0.7로 코딩하게 한 뒤 그 레이블로 탐지기를 훈련했습니다. 따라서 모형은 판단을 직접 내리지 않았습니다. 감독은 그다음 바깥으로 이동했습니다. 경력이 있는 교사 네 명이 레이블된 구획을 검토했고 세 명은 그 행동을 알아보았으며, 한 명은 한 구획에 붙은 두 레이블이 학생들이 무엇을 하는지 가린다고 주장했습니다. 저자들이 해결하지 않고 기록한 사용성 이의입니다([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **하나의 워크플로가 아니라 한 학문 분야 전체를 위한 구조로서의 HITL.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]]은 데이터 기반시설, 모형 개발, 교수법적 인터페이스, 인간 거버넌스라는 네 개의 맞물린 층을 명시하고, 그것을 인간 감독과 주체성, 공적응 지능, 맥락적 응답성이라는 세 원칙으로 묶습니다.
 
 ## 종합
 
@@ -109,6 +116,12 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - **자신의 튜터링에서 인간 개입인 학습자.** [[ko-hughes-vsd-student-centered-its-2026|가치 민감 설계]]를 지역 대학 학생들과 수행한 결과, ITS를 위한 학습자 대면 HITL 기능의 온전한 집합(재평가와 검토에 대한 통제, 개인화된 목표·속도, 검토를 위한 북마크, 숙달에 대한 확신 확인, 그리고 AI 지원 참여 수준 통제)이 산출되어, 학생을 적응적 결정의 수동적 소비자가 아니라 튜터링 고리의 능동적 통제자로 위치시킵니다. 이 연구는 또한 그러한 학습자 통제가 시스템이 안내하는 학습 경로의 온전성을 훼손할 수 있는지에 대해 교수자들이 의견이 갈렸다는 것을 발견했습니다 — 이것은 인간(학습자 대 교사)의 판단이 어디서 가장 가치를 더하는지에 관한 더 넓은 자원 배분 질문의 한 사례입니다.
 - **AI에서 전문가로의 상향 처리는 인간 개입의 움직임이다.** SCAN 틀은 학습자의 거리에 따라 과제를 생성형 AI의 네 모드에 배정하고, 올바르게 배정된 AI 과제 안에서의 수동적 [[student-engagement|참여]]를 학습자를 AI에서 전문가 지원으로 옮기는 잘못된 기술화 신호로 읽으며, 인간을 인식론적 감사자로 둡니다([[ai-teammate-task-distribution-medical-training-2026|Tsim 외(2026)]]).
 - **AI 도입 조언에 대한 감독.** 회의적인 사용자가 상담하는 [[conversational-ai|대화형 AI]] 시스템은 도입을 권장하도록 기울어져 있을 수 있으므로, 인간 감독과 독립적 평가가 필수적입니다. 대부분의 최전선 모형이 회의적인 [[k-12]] 직원을 [[student-engagement|참여]] 쪽으로 돌린다는 것을 보여 주는 감사는, 비판적 의존이 아니라 투명하고 감사 가능한 AI 조언의 필요성을 강조합니다.
+
+## 흔한 오해
+
+- **"시스템의 권고를 보여 주면 인간이 그것을 더 잘 감독합니다."** **시스템이 선호하는 답을 감추는 것은 교정적이라기보다 보호적입니다**. **권고된 입장을 결코 드러내지 않은** 다중 에이전트 토론에서 AI 답으로의 해로운 전환이 **줄었습니다**. 공개는 순응을 초대했고, 감춤은 판단을 뒷받침했습니다.
+- **"인간 개입은 사람 하나, 결정 하나를 뜻해야 합니다."** [[teacher-role|교사]] 에이전트, 조교 에이전트, 동급생 원형으로 이루어진 다중 에이전트 교실이 칭화대학교에서 **500명이 넘는 학생과 10만 건이 넘는 학습 기록**으로 배치되었습니다. 감독은 감독자 수를 늘리는 것이 아니라 배치 자체를 통해 확장됩니다.
+- **"AI 산출물을 검토하는 일은 직관적입니다."** **23명의 교육자를 대상으로 한 피험자 내 연구**에서 검토 기반 접근은 **모든 CTML 원칙을 개선했고(평균 평점 3.07에서 3.86, p < .01)**, 교육자들은 생산 효율성도 호의적으로 평가했습니다. 검토는 구조화된 방법 아래에서 향상되는 기술입니다.
 
 ## 연결된 개념
 - [[pedagogical-patterns]] — Where human review sits in tested sequences, and what has never been tested in isolation
@@ -165,3 +178,6 @@ Kim, Baek, Kwak(2026)는 HITL을 Mayer의 멀티미디어 학습 인지 이론(C
 - [[when-students-prefer-ai-scoring-feedback-2026]] — 학부생은 중요한 과업에서는 인간 채점을 선호하고, AI는 대체재가 아니라 보조 수단으로 여김
 - [[student-query-demand-hybrid-ai-support-2026]] — 학생이 실제로 묻는 것: 하이브리드 지원 체계에서의 질의 수요 구조와 자동화 가능성
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — 교육 AI에서 "인간 개입" 접근의 재구상: 학습과학적 관점
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — 과학 교육에서 생성형 AI를 위한 네 층 HITL 구조 (Zhai et al. 2026)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 연구 도구로서 LLM 행동 구획을 검증하는 코더들 (Fonteles et al. 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 시스템이 선호하는 답을 감춘 것이 잘못된 AI 조언에 대한 순응을 교정적이 아니라 보호적으로 줄였다

@@ -1,7 +1,7 @@
 ---
 title: "교사 교육"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-28T19:12:31-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -37,18 +37,22 @@ ai_assist:
 
 교차 수준의 증거는 설계 우선순위를 날카롭게 만듭니다. [[pedagogy-first-technology-second-teacher-knowledge-2026|46명의 교사와 2,832명의 중학생을 대상으로 한 다층 연구]]는 기술적 AI 지식이 아니라 교수법적 AI 지식(TPAIK)이 학생들의 사회적 선을 위한 AI에 대한 인식과 AI 학습 의도를 이끌었다고 밝혔습니다. 따라서 교사 교육은 도구 활용 능력보다 *AI를 통해, 그리고 AI에 대해 가르치는 방법*을 전면에 내세워야 하며, 이는 "교수법 우선, 기술은 그다음"이라는 지침과 일치합니다.
 
+이 설계 우선순위와 나란히 학습자 주도 학습의 줄기가 흐릅니다. [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]]은 이스라엘 교사 93명을 8주간의 AI 전문성 개발 프로그램에 걸쳐 추적하고, 교사 자신의 성찰적 [[regulation|조절]]과 비판적 AI 리터러시가 교사가 [[learners|학습자]]를 위해 만드는 [[agency|주체성]] 및 역량 지향 설계를 매개하는 이중 층위의 관계를 제안했습니다.
+
 ### 예비 교사 교육
 
 예비(초기) 교사 교육은 자격증 프로그램 기간 중 미래의 교사를 준비시킵니다. 이 영역의 AI 연구는 다음과 같습니다.
 
 - **AI-TPACK과 지능형 TPACK 준비도.** 여러 검사 도구와 프레임워크가 AI/윤리 차원을 더하여 [[tpack]] 프레임워크를 확장함으로써 예비 교사의 AI 통합 준비도를 측정하고 구축합니다.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
 - **수용 양상, 그리고 사용 용이성/의도 역설.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen 등(2026)]]은 128명의 예비 교사를 네 개의 ChatGPT 수용 집단으로 분류했습니다. 저항적 회의론자(14.06%)는 인지된 사용 용이성은 높지만 행동 의도는 매우 낮게 보고하여, 조작 기술 훈련만으로는 이들을 전환시키지 못함을 보여 주었습니다.
+- **설계 입력으로서의 지역 맥락.** 스위스의 예비 교사들은 사회적 효용과 내재적 동기를 중국 동료들보다 높게 평가했고, 중국 교사들은 더 높은 디지털 교수 역량과 AI 열의를 보고했습니다([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). 준비 과정은 각 환경의 [[motivation|동기]] 프로파일에 진입점을 맞추어야 합니다.
 - **적용과 효과.** 55개 연구에 대한 범위 검토는 AI가 예비 교사의 수업 설계, 교과 지도, 실습 교수 기술, 평가, 성찰적 실천, [[critical-thinking|비판적 사고]], 기술 통합, 교수법적 혁신을 향상시킨다고 보여 줍니다.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
 - **비계 없이 제공된 생성형 AI는 생성형 AI를 전혀 쓰지 않은 경우보다 낮은 점수를 받았습니다.** 52명의 예비 교사를 대상으로 한 11주 준실험에서, 비계 없이 생성형 AI를 사용한 수업은 생성형 AI를 쓰지 않은 수업보다 루브릭으로 평가한 수업지도안 점수가 낮았습니다(조정 평균 86.54 대 81.87, F = 8.348, p = 0.006, η² = 0.146). [[self-regulated-learning]]이나 비판적 사고에서는 집단 간 차이가 없었습니다([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang 등(2026)]]).
+- **구조화된 맞춤형 GPT 순환이 네 가지 인지적 파트너 역할을 낳았습니다.** 한 학기의 설계 기반 연구에서 예비 디지털 기술 교사 14명이 LMS에 통합된 맞춤형 GPT 에이전트를 프롬프트-성찰-정교화 순환으로 활용하여, 전문성이 자라면서 개념 튜터, 공동 설계자, 성찰적 거울, 인지적 도전자 역할을 수행했습니다([[zagami-generative-ai-cognitive-partner-2026|Zagami]]). 최종 산출물의 82%가 내용 기술자, 평가 과제, 성공 기준을 대응시켰습니다.
 - **[[educational-robotics|교육용 로봇공학]]과 머신러닝.** 초기 교사 양성 과정에 코딩, 로봇공학, [[machine-learning]] 활동(예: micro:bit)이 포함되어 미래 교사의 [[computational-thinking|컴퓨팅 사고력]]을 길러 줍니다.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **진정성 평가와 메타인지.** AI 매개 평가 모델(예: AAIWA)은 [[authentic-assessment|진정성 있는 루브릭 기반 평가]], 상황 반응형 [[ai-feedback-quality|AI 피드백]], [[metacognition|메타인지적 성찰]]을 예비 교사 프로그램에 통합합니다.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
-- **[[stem-education|과학교육]]에서 AI 지원 탐구.** 튀르키예의 예비 과학교사 48명을 대상으로 한 준실험([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]])은 광합성과 호흡을 주제로 한 8주 AI 지원 안내 탐구 프로그램에 문제 중심 및 설계 중심 학습을 통합했습니다. 이 프로그램은 두 [[biology-education|생물학적]] 과정에 대한 개념 이해에서 유의미한 향상을 낳았지만, AI 리터러시나 자기 인식 [[computational-thinking|컴퓨팅 사고력]]에서는 *유의미한* 효과가 없었습니다. 이는 AI-IBL이 교사 후보생의 교과 이해를 깊게 할 수 있으면서도 그들의 AI/CT 역량을 자동으로 쌓아 주지는 않는다는 점을 일깨워 주며, 해당 역량에는 명시적이고 표적화된 설계가 필요합니다.
+- **[[science-education|과학교육]]에서 AI 지원 탐구.** 튀르키예의 예비 과학교사 48명을 대상으로 한 준실험([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]])은 광합성과 호흡을 주제로 한 8주 AI 지원 안내 탐구 프로그램에 문제 중심 및 설계 중심 학습을 통합했습니다. 이 프로그램은 두 [[biology-education|생물학적]] 과정에 대한 개념 이해에서 유의미한 향상을 낳았지만, AI 리터러시나 자기 인식 [[computational-thinking|컴퓨팅 사고력]]에서는 *유의미한* 효과가 없었습니다. 이는 AI-IBL이 교사 후보생의 교과 이해를 깊게 할 수 있으면서도 그들의 AI/CT 역량을 자동으로 쌓아 주지는 않는다는 점을 일깨워 주며, 해당 역량에는 명시적이고 표적화된 설계가 필요합니다.
 
 - **구성주의 수업 설계를 위한 [[generative-ai|생성형 AI]].** [[sahab-model-genai-constructivist-id-2026|SAHAB 모델]]은 생성형 AI가 교사로 하여금 [[constructivist]] 구성을 설계할 수 있게 하는 준실험적 전문성 개발 개입으로, 큰 효과를 보였습니다(d = 1.18). 이는 생성형 AI가 교사 후보생과 현직 교사 모두에게 콘텐츠를 전달하는 것을 넘어, 학생 중심 학습 활동의 *설계*를 지원하는 방식으로 [[learning-design|수업 설계]]의 [[scaffolding|비계]] 역할을 할 수 있음을 보여 줍니다.
 - **대학원 [[math-education|수학]] 교육학 석사 학생을 위한 스마트 교실 훈련.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, Wang(2026)]]는 지능형 교육 [[ai-technologies|기술]]([[automated-assessment|자동 채점]], 개인화 추천, 다중 AI 피드백)을 수업 전·중·후 단계에 걸쳐 도입하여 수학 교육학 석사 과정을 강화하는 방법을 보여 주었고, 수업 목표 설계 능력에서 통계적으로 유의미한 향상을 얻었습니다. 전이 가능한 D-T-E 모델(학문적 요구–기술적 역량 강화–평가 순환)은 스마트 교육을 대학원 교사 양성에 통합하기 위한 [[discipline-specific-aied|교과 특화]] 프레임워크를 교사 교육자에게 제공합니다.
@@ -56,6 +60,7 @@ ai_assist:
 - **교실 AI 정책 수립은 예비 교사의 사고를 드러내는 렌즈가 됩니다.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss(2026)]]는 주(state) 차원의 AI 지침이 없는 곳에서, 중등 영어 교사 양성 프로그램의 캡스톤 학년에 있는 27명의 예비 중등 영어 교사에게 자신이 6~12학년 교실에서 사용할 [[educational-policy-ai|AI 정책]]을 작성하게 했습니다. 27명 중 26명은 일부 AI 사용을 허용했고, 거의 항상 교사가 지정한 과제·시간·장소로 제한했으며, 노동 관행과 저작권에 대한 윤리적 근거를 들어 전면 금지한 경우는 한 명뿐이었습니다. 22명은 아이디어 생성에 AI를 허용한 반면, 22명은 문장·단락·논문 작성에 AI를 사용하는 것을 금지하거나 불명확하게 두었고, 이에 따른 성찰은 교수법적 신념과 [[generative-ai|AI]]를 통합해야 한다는 느껴지는 의무 사이의 협상으로 읽혔습니다. 추상적으로 AI를 토론하게 하는 대신 예비 교사에게 정책을 직접 작성하게 하는 것은 그들의 철학, 신념, 교육과정 가정을 드러내어, 교수법 수업에서 가치가 높은 활동이 됩니다.
 
 - **정책이 실제 수행을 규율하지는 못합니다.** 미국의 한 교사 교육 프로그램에서 네 학기에 걸친 설문조사 자료는 AI 탐지 소프트웨어를 검토하는 상황 속에서도 평가 준비를 위한 생성형 AI 사용이 57%에서 83%로, 학습을 위한 사용이 44%에서 76%로 증가했음을 보여 주며, 조사 물결을 거치며 윤리적 불확실성도 함께 높아졌습니다([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker 등(2026)]]).
+- **예비 교사 연구 중 학생의 학습을 측정한 것은 없었습니다.** 일곱 개의 출처만 포함할 수 있었던 한 검토는 윤리가 인정되지만 가르쳐지거나 평가되는 일은 드물며, 예비 교사들이 AI를 비판하는 데 과신하고 있음을 발견했습니다([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
 
 ### 현직 전문성 개발
 
@@ -84,6 +89,7 @@ ai_assist:
 ## 교사 교육자를 위한 시사점
 
 - **AI 리터러시와 비판적 AI-TPACK을 모두 구축하십시오.** 예비 및 현직 교사는 AI 통합 준비도가 필요합니다. 여러 검사 도구가 TPACK에 AI/윤리 차원을 더해 확장합니다([[ai-tpack-mathematics-teacher-education-2026|AI-TPACK]], [[designing-ai-professional-development-itpack-2026|i-TPACK 전문성 개발]]). 도구 사용과 더불어 윤리적 추론, 투명성, 공정성을 함께 가르치십시오.
+- **확신이 아니라 역량을 측정하십시오.** [[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]은 자기보고된 TPACK과 지각된 행동 통제가 모두 일반적 확신을 지시할 수 있다고 논하며, 준비도를 자기보고만이 아니라 수업 설계 과제와 프롬프트 평가 과제로 채점할 것을 제안하고, AI-TPACK 역량을 태도와 의도보다 상류에 둡니다.
 - **말하는 것과 실행하는 것의 간극을 좁히십시오.** 교사들은 흔히 조작적 AI 기술을 갖추었다고 말하지만 교수법적으로 적용하는 데 어려움을 겪습니다. 지식에서 실제 수행으로 나아가는 전문성 개발을 설계하십시오([[teachers-ai-knowledge-genai-lesson-planning-2026|수업 설계]]).
 - **모의 실습으로 준비 과정의 규모를 확보하십시오.** [[educasim-cs1-instructional-practice|EducaSim]] 방식의 모의 교실은 훈련 중인 교사에게 피드백을 받는 저비용·고빈도의 실습을 제공하여, 제한된 실시간 코칭을 보완합니다.
 - **신념과 신뢰를 다루십시오.** [[self-efficacy]]는 AI-TPACK을 예측하는 반면 강한 전통적 교수 신념은 장벽이 될 수 있고, [[trust]]는 투명성/공정성에 의해 형성됩니다. 기술만이 아니라 이런 심리적 요인에 주의를 기울이십시오.
@@ -93,6 +99,13 @@ ai_assist:
 - **생성형 AI [[assessment|평가 설계]]를 전문 교육과정의 일부로 만드십시오.** [[zou-is-this-a-trap-student-teachers-genai-2026|Zou 등(2026)]]의 교사 후보생들은 생성형 AI에 대응하여 자신의 미래 학교 평가를 재설계할 의도가 거의 없었고, [[early-childhood-elementary-ai-education|유치원]] 및 중등 참가자들은 대체로 이 기술이 자신의 교수 맥락과 무관하다고 판단했습니다. 이는 지식 공백이라기보다 평가 리터러시의 미발달 차원입니다. 따라서 교사 교육 프로그램은 윤리적 생성형 AI 사용을 전문 [[curriculum-design|교육과정]]의 일부로 자리 잡게 해야 하며, [[educational-policy-ai|프로그램 차원의 정책]] 일관성과 수용 가능한 사용·수용 불가한 사용의 구체적 사례, 그리고 학생의 실제 AI 사용에 대한 적시의 [[feedback]]를 함께 제공해야 합니다.
 - **위임 가능한 일과 위임 불가능한 일을 구분하십시오.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne(2026)]]은 예비 교사가 다수 포함된 학부생 23명이 경계 작업을 지속하든 초기에 위임하든 비슷한 수준의 산출물을 만들었음을 발견했고, 저자 귀속에 관한 "부정 행위의 긴장"은 가장 많은 경계 작업을 한 이들 사이에서 가장 강했습니다. 따라서 교수 목표는 어떤 해석 작업을 넘기지 말아야 하는지를 판단하는 것입니다.
 - **교실 정책 작성 활동을 교사 교육의 핵심 활동으로 만들고, 모호함을 정책의 결함으로 다루십시오.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss(2026)]]은 예비 교사에게 자신의 교실 AI 정책을 작성하게 하는 것이 글쓰기의 목적이 무엇인지에 관한 수사학적 세계 구축으로 기능하며, 추상적 토론이 열어 주지 않는 신념의 창이 됨을 발견했습니다. AI가 글쓰기-산출물과 글쓰기-과정을 분리하기 때문에, 프로그램은 교사들이 브레인스토밍, 초안 작성, 수정, 교열 전반에 걸쳐 사고와 학습과 가치가 실제로 어디에 있는지 — 최종 텍스트에만 사고를 두지 않고 — 파악하도록 돕고, 신념을 실행 가능하고 모호하지 않은 규칙으로 옮기도록 지원해야 합니다. 이때 [[ai-literacy]] 교육이 함께 제공되어야 합니다. AI가 생성한 텍스트를 금지하면서도 학생이 제출하는 AI 생성 콘텐츠에 책임을 묻는 것과 같은 모순은 학생이 준수할 수 없는 상태를 만듭니다.
+- **AI 정책 뒤의 1차 연구를 읽도록 교사를 가르치십시오.** 생산이 아니라 연구 소비를 겨냥한 6주 대학원 연구 방법 강좌에서 한 교사는 비판적 평가 틀을 학군이 요구한 교육과정에 적용해 그 분석을 교장에게 발표했고, 여러 교사는 자신의 학생들과 소크라테스식 질문법을 도입했습니다([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
+## 흔한 오해
+
+- **"예비 교사의 AI 수용은 하나의 태도다."** **예비 교사 128명**이 네 개의 ChatGPT 수용 집단으로 분류되었고, 그중 **저항적 회의론자(14.06%)는 지각된 사용 용이성이 높으면서도 행동 의도는 매우 낮았습니다**. 그 집단에서 용이성과 의도가 갈라졌으므로, 사용성 중심의 개입은 그들을 바꾸지 못합니다.
+- **"AI는 주로 내용 지식에서 예비 교사를 돕는다."** **55개 연구에 대한 범위 검토**는 AI가 **수업 설계, 교과 지도, 실습 교수**를 향상시킨다고 보고합니다. 즉 설계와 실천의 역량이지 내용 전문성이 아닙니다.
+- **"55개 연구의 범위 검토는 이득을 확립한다."** 그것은 분야 전반에서 보고된 것을 기록합니다. 보고된 향상의 폭은 문헌의 합의에 관한 주장이며, 범위 검토의 55개 연구는 통합된 효과 크기가 아닙니다.
 
 ## 연결된 개념
 
@@ -126,10 +139,9 @@ ai_assist:
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — 초기 교사 양성에서의 Micro:bit 로봇공학
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — 예비 교사 교육에서의 AI 매개 진정성 평가
 - [[science-educators-ai-literacy-postqualification-2026]] — 과학교육자의 AI 리터러시와 자격 취득 이후 프로그램
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — 교수진이 보고하는 기관 차원의 AI 역량 합의와 평가 공백
-- [[young-people-learning-generative-ai-rapid-review-2026]] — 혼합 구성에서 관계적·고차원적 업무에 필수적인 교사
+
 - [[context-based-ai-secondary-chemistry-2026]] — 중등 화학에서의 맥락 기반 7E + AI 수업
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT 강화 형성 평가에서의 교수자와 AI의 역할
+
 - [[educasim-cs1-instructional-practice]] — EducaSim: CS1 수업 실천을 위한 상호작용 시뮬라크라
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — 예비 교사의 ChatGPT 수용 양상
 - [[motivation-shape-future-education-ai-switzerland-china]] — AI로 교육의 미래를 만들고자 하는 동기
@@ -137,8 +149,7 @@ ai_assist:
 - [[reflective-triangle-model-teacher-ai-2026]] — 성찰 삼각형 모형: 인지적 매개자로서의 AI
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB 모델: 생성형 AI 구성주의 수업 설계
 - [[riandi-teacher-ai-green-energy-education-2026]] — 녹색 에너지 교육을 위한 AI 통합에서의 교사 참여 (Riandi 등 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — 생성형 AI로 책임 있게 가르치기를 배우는 데서의 효용-가치 개입 효과 (Boos, Eder & Lachner 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — 학습 설계에서의 생성형 AI 상호작용 중 예비 교사의 주도성 (Krushinskaia, Elen & Raes 2026)
+
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — 교사 교육에서의 생성형 AI 사용, 윤리, 정책의 종단 분석 (Parker 등 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — 수학 교육학 석사의 수업 설계 능력을 향상하는 스마트 교실 모형과 D-T-E 순환 (Zhu 등 2026)
 - [[li-language-educators-genai-review-2026]] — 언어 교육자의 실천과 생성형 AI를 활용한 발전
@@ -148,3 +159,7 @@ ai_assist:
 - [[ai-training-science-teacher-tpack-distance-2026]] — 과학교사 후보생 186명의 AI 관련 TPACK과 훈련 수준의 캠퍼스 대 원격 비교
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — 한 학기 길이의 리터러시 민족지 속에서 AI 경계를 설정하는 예비 교사를 추적함
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — 비계 없는 생성형 AI가 예비 교사의 수업지도안 질을 생성형 AI 미사용 집단 아래로 떨어뜨림
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — 교사 교육에서의 AI: 교수학적 틀, 경험적 증거, 윤리 2020-2026(Shukla 2026)
+- [[capability-decision-model-teacher-readiness-2026]] — 확신이 아니라 역량을 측정하십시오
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — 교사 자신의 성찰적 조절을 학습자 주체성에 잇는 학습자 주도 학습의 이중 층위 모형
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 1차 AI 연구를 읽고 학군의 요구를 문제 삼는 K-12 교사들

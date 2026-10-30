@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: 평가
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T08:42:20-04:00"
+updated: "2026-10-30T05:04:45-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,12 +38,12 @@ ai_assist:
 
 ## 들어가며
 
-평가는 두 가지 이유로 교육에서의 AI에 핵심적입니다. 첫째, AI 자체가 학생을 평가하는 데 쓰입니다. 에세이, 코드, 단답형, 시험을 대규모로 채점합니다. 둘째, 교실의 AI는 학생들이 [[generative-ai]]를 사용해 작업물을 만들어 낼 수 있게 되었기 때문에 평가가 타당하게 측정할 수 있는 것이 달라집니다. 따라서 이 분야는 평가를 자동화하는 *도구*와 AI가 제기하는 *타당성과 정직성* 질문을 함께 아우릅니다.
+평가는 두 가지 이유로 교육에서의 AI에 핵심적입니다. 첫째, AI 자체가 학생을 평가하는 데 쓰입니다. 에세이, 코드, 단답형, 시험을 대규모로 채점합니다. 둘째, 교실의 AI는 학생들이 [[generative-ai]]를 사용해 작업물을 만들어 낼 수 있게 되었기 때문에 평가가 타당하게 측정할 수 있는 것이 달라집니다. 따라서 이 분야는 평가를 자동화하는 *도구*와 AI가 제기하는 *타당성과 정직성* 질문을 함께 아우릅니다. 72편의 고등교육 평가 연구에 대한 PRISMA 고찰은 교육자들이 평가 주기 전반, 즉 평가 만들기, 연습, 채점, 학습과 피드백의 투명성에 걸쳐 생성형 AI를 사용했으며, 평가 만들기와 피드백이 가장 자주 확인된 활용 가능성이었다는 것을 발견했습니다([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).
 
 ## 평가에서 AI가 쓰이는 방식
 
 - **자동화 평가:** [[automated-assessment|AI 기반 평가]]는 [[automated-assessment|자동 채점]], [[automated-essay-scoring]], [[automated-question-generation]]을 통해 여러 양식에 걸쳐 이어집니다. 선다형, 단답형, 에세이, 코드, 그리고 수행 기반 평가입니다.
-- **형성평가:** [[formative-assessment|AI 시스템]]은 형성평가 문항을 대규모로 생성하고 검증하고 적응시키며, [[summative-assessment|총괄적]] 평가뿐 아니라 계속되는 교수에 정보를 제공합니다.
+- **형성평가:** [[ai-technologies|AI 시스템]]은 형성평가 문항을 대규모로 생성하고 검증하고 적응시키며, [[summative-assessment|총괄적]] 평가뿐 아니라 계속되는 교수에 정보를 제공합니다.
 - **학습 분석과 측정:** [[learning-analytics]]와 [[educational-measurement]]는 [[item-response-theory]], [[knowledge-tracing]], [[student-modeling]]을 사용하여 수행을 해석함으로써 평가 데이터를 학습 과정에 연결합니다. [[razavi-powers-item-difficulty-llm-2026|Razavi와 Powers(2026)]]는 LLM 기반 문항 난도 추정을 측정 투입물로 보여 줍니다. Rasch IRT 모형 하에 보정된 K-5 수학·읽기 문항 5,170개를 대상으로, GPT-4o의 제로샷 평정은 실제 난도와 중간에서 강한 상관을 보였으며(r = 0.83 수학, r = 0.81 읽기), 학년에 따라 달랐습니다. 한편 특징 기반 접근(LLM이 추출한 특징을 트리 기반 모형에 투입)은 최대 r = 0.87의 상관에 도달했습니다. 이 연구는 평가 전문가를 위한 실제적인 일곱 단계 작업 흐름을 제시하면서도, K-5 수학·읽기를 넘어서는 일반화 가능성은 불분명하다고 경계합니다.
 - **피드백 루프:** AI 평가는 점점 더 평가에서 학습으로 고리를 닫는 [[feedback|피드백 루프]]로 이어집니다.
 - **전자 포트폴리오 평가:** [[eportfolio|전자 포트폴리오]]는 학생의 작업과 성찰을 시간에 걸쳐 모아 과정 기반의 AI에 강한 평가 형식을 이룹니다. 생성형 AI는 포트폴리오 *과정*을 도울 수 있습니다. 피드백 생성, [[scaffolding]] 성찰 지원, 그리고 (적절한 루브릭 설계와 함께) 평가 지원이 그것이며, 포트폴리오가 추론의 흔적과 초안을 앞세우는 점이 AI 조작에 저항합니다. [[ni-lam-multiliteracies-ai-portfolio-2026|AI 지원 포트폴리오 평가]]와 [[sutama-chatgpt-eportfolio-speaking-2026|EFL 말하기를 위한 ChatGPT + 전자 포트폴리오]]는 AI가 포트폴리오 경험과 학습자의 [[feedback-literacy]]를 함께 높일 수 있음을 보여 줍니다.
@@ -55,6 +55,7 @@ ai_assist:
 AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI가 채점한 평가는 학생의 학습을 측정하는 것입니까, [[prompt-engineering|AI 프롬프트 기술]]을 측정하는 것입니까? 학생의 AI 사용이 전통적 평가를 무효화합니까? 주요 난제는 다음과 같습니다.
 
 - **구인 타당성:** [[competency-based-education-genai-production-2026|역량 기반 교육에 관한 연구]]는 생성형 AI가 수행과 기저 역량 사이의 추론을 끊었다고 보여 줍니다. 학습자가 도구 없이는 재현하지 못하는 전문가 수준의 작업물을 제출할 수 있기 때문입니다. 이는 무엇이 역량으로 평가되는지를 재개념화할 동기를 줍니다.
+- **평가를 재정렬하기 위한 세 꼭짓점 프레임.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]]는 편재하는 생성형 AI를 부정행위의 문제가 아니라 타당성과 역량 정의의 문제로 다루며, 평가 삼각형의 세 꼭짓점인 인지, 관찰, 해석이 하나씩 덧대어지는 것이 아니라 함께 재정렬되어야 한다고 주장합니다.
 - **공동 저작과 정직성:** [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|공동 저작 정직성]]은 학생이 이해하지 못하는 AI 생성물을 제출할 때 위반되는 새로운 원천의 타당성 증거를 제안하고, 그 대응으로 대화형 "AI 비바(viva)"를 탐구합니다.
 - **심리측정적 품질:** [[psychometrically-aware-ai]]와 [[automated-assessment|자신감을 아는 평가]]는 AI 채점이 신뢰할 수 있고 편향되지 않으며 해석 가능하게 유지되도록 합니다.
 - **AI 평가자의 평가:** [[ai-ed-evaluation]]는 자동화된 평가자가 실제로 작동하는지 — 두목 정확도가 아니라 신뢰성, [[pedagogy]], [[equity-in-ai-education]]의 측면에서 — 를 판단하는 방법과 [[benchmark|벤치마크]]를 제공합니다.
@@ -64,7 +65,8 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 ## 정직성과 탐지 논쟁
 
 평가에서의 AI는 [[academic-integrity|정직성]] 논의를 강화했습니다. 한 흐름은 [[ai-detection|AI 생성 텍스트를 탐지하는 것]]에 초점을 맞추는 반면, [[research-methods-aied|연구]]의 늘어나는 흐름은 탐지가 제한적이고 상황에 따른 도구이며 첫 번째 수단이 되는 전략이 아니라고 주장합니다. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]]와 [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]]는 진정성을 단속으로 만들 수는 없으며, 재설계를 통해서만 만들 수 있고, AI를 선언된 협력자로 자리매김하며 [[authentic-assessment|실제적]]이고 [[process-oriented-assessment|과정 기반]]인 평가를 감시보다 우선에 둔다고 주장합니다. **[[walton-bearman-assessment-judgment-2025|Walton 외(2025)]]**는 학생이 생성형 AI와 함께 평가를 헤쳐 나가는 **판단의 실제 모습**에 대한 증거로 이를 뒷받침합니다. 학생 26명과의 스크롤 회고 면접은 여섯 가지 판단 사건의 스펙트럼을 드러냈습니다. AI 지식을 비판적으로 평가하고 AI의 한계를 통해 배우는 것에서부터, 아이디어를 비판 없이 받아들이고 AI의 기여를 자신의 것으로 오판하는 데까지 이릅니다. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis 외(2026)]]**는 여기에 [[quantitative-research|양적]] 짝을 더합니다. 학생 157명을 대상으로, 생성형 AI를 *어떻게* 사용하는지(이해를 뒷받침하는 비판적 통합 대 검증이 적은 지름길 수용)가 수행을 예측한 반면, 단순한 사용 **빈도는 수행과 학문적 [[self-efficacy]]를 어느 쪽도 예측하지 못했습니다**. 이 연구들은 함께 평가의 질문을 학생이 AI를 *쓰는지*에서 *어떻게 판단하고 그 사용에 패턴을 짓는지*로 다시 세웁니다.
- [[bassett-ai-detectors-education-2026|Bassett 외(2026)]]는 더 나아가 탐지를 아예 사용하지 말아야 한다고 주장합니다. 그 확률적 산출물은 실제 텍스트의 출처를 알 수 없기에 독립적으로 검증될 수 없고, 탐지기 점수는 — 언어 표지, 문체 비교, LLM의 주장, 학생의 침묵과 함께 쓰이거나 단독으로 쓰이거나 — 정직성 조사가 요구하는 개연성의 우세 기준을 충족하지 못한다는 것입니다.
+
+[[bassett-ai-detectors-education-2026|Bassett 외(2026)]]는 더 나아가 탐지를 아예 사용하지 말아야 한다고 주장합니다. 그 확률적 산출물은 실제 텍스트의 출처를 알 수 없기에 독립적으로 검증될 수 없고, 탐지기 점수는 — 언어 표지, 문체 비교, LLM의 주장, 학생의 침묵과 함께 쓰이거나 단독으로 쓰이거나 — 정직성 조사가 요구하는 개연성의 우세 기준을 충족하지 못한다는 것입니다.
 
 25편의 연구에 대한 PRISMA 고찰은 탐지 논쟁이 빠뜨린 위험 요인을 하나 더합니다. 비원어민 영어 화자는 영어로 글을 쓰는 데 어려움을 겪을 때 정직성을 해칠 가능성이 높았으므로, 정직성에 대한 기대는 단속만이 아니라 구체적인 학문적 글쓰기 지원과 짝을 이루어야 합니다([[ssaho-ai-academic-integrity-review-2025|Balalle and Pannilage (2025)]]).
 
@@ -77,6 +79,7 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - **평가 목표에서 도출된 과제 수준의 AI 허용 범위:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle(2025)]]는 [[educational-policy-ai|AI 정책]]에 앞서 이루어지는 평가 설계 작업을 보여 줍니다. 프로젝트의 모든 과제를 목록화하고, 무엇이 어느 목표에 비추어 평가되는지를 명시하며, 그에 근거해 과제별로 AI를 허용하거나 금지하는 것(브레인스토밍과 이미지 큐레이션은 허용, 학습 목표 작성과 슬라이드 설계는 금지)입니다. 이 같은 정렬 작업은 평가가 뒷받침하는 추론에 대한 점검이기도 합니다. 성적이 보증하도록 의도된 수행을 교수자 스스로 이름 붙이게 하기 때문입니다([[assessment-validity]]).
 - **언어적 양식을 넘어서는 평가:** Jiang 외(2026)는 제2언어 교사를 위한 다중양식 평가 리터러시를, 언어적·시각적·청각적·몸짓적·공간적 양식에 걸쳐 응답을 끌어내는 과제를 위한 지식, 가치, 역량으로 정의합니다. 홍콩 영어 교사 30명을 대상으로 한 1년 프로그램은 평가 전략에 대한 지식을 5점 만점에 3.13에서 4.15로(부분 η² = 0.571), 학생 지원 역량을 3.05에서 3.98로(0.482) 높였으며, 세 가치 하위 영역은 모두 그대로였습니다. 교사들 자신의 경험은 프레임워크에 두 차원을 더했습니다. 경쟁하는 교육과정 우선순위 속에서 실천을 지속하는 것, 그리고 생성형 AI를 비판적으로 동원하는 것입니다([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 외(2026)]]).
 - **평가 계약의 일부로서의 공동 저작과 선언**
+- **산출물이 아니라 상호작용을 채점하는 과정 기반 루브릭 기준.** [[rubrics-genai-process-based-assessment-2026|Oviedo and Díaz (2026)]]는 Biggs의 3P 모델을 세 가지 핵심 채점 차원으로 읽습니다. 인간의 행위성과 비판적 감독, [[prompt-engineering|프롬프트 엔지니어링]]과 결부된 대화적 스캐폴딩, 그리고 [[academic-integrity|정직성]]과 투명성에 뿌리내린 인지적 주권입니다. 완성된 파일은 더 이상 누구의 추론이 그것을 만들어 냈는지에 대한 정보를 담지 않는다는 것입니다.
 - **하나의 역량으로서의 생산** — 도구를 지휘하고 전문가 수준의 작업물을 만들어 내는 학습자의 능력을 평가하는 것([[competency-based-education-genai-production-2026]])
 - **산출물만이 아니라 상호작용 과정을 평가하는 것** — [[assessing-student-drive-framework-2025|DRIVE 프레임워크]](Directive Reasoning Interaction + Visible Expertise)는 학생이 생성형 AI와 맺는 *참여*의 질을 평가되는 구인으로 다룹니다. 이는 학생이 프롬프트를 전략적으로 조종하는지(DRI), 교환 속에서 자신의 학문적 아이디어를 통합하고 발전시키는지(VE)를 봄으로써 피상적 소비와 깊이 있고 성찰적인 상호작용을 구분하며, 과정 중심의 기준을 [[self-directed-learning]] 이론과 [[icap-framework|ICAP]] 위계의 선상에 있는 인지적 참여 이론에 뿌리내립니다. 이로써 DRIVE는 *AI 매개 실제적 평가*의 한 사례가 됩니다. 탐지 도구가 아니라 학습자가 생성형 AI와 짝을 이루는 방식을 평가하기 위한 루브릭입니다.
 
@@ -90,6 +93,12 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - **정직성은 탐지에서 설계로 옮아갑니다:** 평가에서의 AI에 대한 가장 튼튼한 대응은 AI 사용이 기대되고 선언되고 검토되는 과제를 설계하는 것입니다.
 - **혁신적 실천은 여러 문제를 한꺼번에 다룰 수 있습니다.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]는 서로를 강화하는 다섯 실천 — [[authentic-assessment]], 자기 평가와 [[peer-assessment]], 재평가, [[mastery-learning|기준 기반 채점]], 그리고 채점 폐지(ungrading) — 이 "학습을 위한 평가" 패러다임에 맞춰질 때, 전통적이고 총괄적이며 규준 참조적인 채점이 초래하는 해(피상적 학습, [[motivation|내적 동기]]의 침식, 스트레스와 불안, 불평등, 훼손된 [[academic-integrity|정직성]])를 생성형 AI 시대에 상쇄할 수 있다고 주장합니다. 이들은 채택이 분야별로 고르지 않음을 발견했습니다. 자기 평가와 동료 평가가 우세한 반면 채점 중심의 혁신은 주변에 머물렀습니다. 그리고 교육자들이 점진적 실험과 [[governance|제도적]] 지원을 바탕으로 평가와 채점 혁신에 더 능동적이고 상호적으로 참여할 것을 촉구합니다.
 - **AI 매개 평가는 다양해지고 있습니다.** [[aivaluate-anxiety-assessment-2026|AIvaluate]]는 LLM이 보강한 [[conversational-ai|대화형 에이전트]]가 수행 기반 평가 중 학생의 불안을 줄였음을 보여 줍니다. [[asynchronous-oral-assessment-2026|Pentland(2026)]]는 비동기 구두 평가가 더 높은 참여를 이끌었고 직업적으로 관련 있다고 인식되었다고 보고합니다. [[graph-its-adaptive-algorithms-2026|그래프 기반 ITS]]는 평가에 정보를 제공하기 위해 적응형 지식 상태 추적을 사용합니다.
+## 흔한 오해
+
+- **"정직성은 주로 탐지의 문제입니다."** **26명의 학생을 대상으로 한 스크롤백 면담**은 학생들이 생성형 AI를 활용한 평가를 **스펙트럼**을 따라 판단하며 통과해 나간다는 것을 보여 주고, **157명의 학생**에 걸쳐 생성형 AI가 *어떻게* 사용되는지, 즉 **이해를 뒷받침하는 평가적 통합 대** 대체가 결과를 예측했습니다. 사용 방식은 사용 여부보다 학생들을 더 선명하게 구분합니다.
+- **"비원어민 영어 화자가 부정행위 위험입니다."** **25편의 연구에 대한 PRISMA 고찰**은 탐지 논쟁이 빠뜨린 위험 요인을 하나 더합니다. 비원어민 화자는 언어 요구로 어려움을 겪을 때 **정직성을 해칠 경향이 높았습니다**. 그것은 정직성의 문제로 잘못 읽힌 언어 지원의 문제입니다.
+- **"생성형 AI를 금지하는 정책이면 문제가 해결됩니다."** 학생들은 규칙 준수 패턴이 아니라 판단의 스펙트럼을 보고하므로, 학생들이 이미 하고 있는 평가적 추론에 닿지 않는 규칙은 일관되게 지켜지지 않습니다.
+
 ## 연결된 개념
 - [[learners]] — 학습자: 학습자 측 개념을 아우르는 상위 개념
 - [[pedagogical-partnerships]] — 교수 파트너십
@@ -138,3 +147,5 @@ AI는 근본적인 [[assessment-validity|타당성]] 질문을 던집니다. AI�
 - [[olvet-genai-scoring-open-ended-medical-2026]] — 생성형 AI가 학부 의학 교육의 개방형 문항 평가를 신뢰롭게 채점할 수 있는가
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — ChatGPT가 평가에서 교사를 대체할 수 있는가: LLM의 채점과 피드백 제공 활용 연구 고찰
 - [[computing-assessment-genai-workshop-report-2026]] — AI가 여러분의 숙제를 해 줄 수 있습니다. 이제 무엇을 할까요? 생성형 AI 시대의 컴퓨팅 평가에 관한 온라인 워크숍 보고서
+- [[koretsky-genai-stem-assessment-2026]] — 평가를 재정렬하기 위한 세 꼭짓점 프레임
+- [[rubrics-genai-process-based-assessment-2026]] — 산출물이 아니라 상호작용을 채점하는 루브릭 기준

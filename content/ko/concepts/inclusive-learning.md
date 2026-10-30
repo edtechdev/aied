@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: 포용적 학습
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,16 @@ ai_assist:
 - **보안/접근성의 타협을 명시적으로 다루어라.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]는 부정행위 방지 조치가 어떻게 시각 처리에 어려움을 지닌 학습자를 뜻밖에 배제할 수 있는지를 모형화합니다. 정직성과 접근성을 저울질하십시오.
 - **접근은 형식이 아니라 표현에 따라 좌우될 수 있다.** 근본 과제를 고정한 채로, 모델의 정확도는 리터러시가 낮은 문장으로는 82.4%에서 전문가 수준의 표현으로는 83.4%로 올랐습니다. 따라서 학생에게 더 나은 프롬프트를 요구하는 것은 새로운 배제를 더합니다. 요청을 표준화하는 시스템 측 재작성기는 내용을 바꾸지 않으면서도 유의한 격차를 없앴습니다([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **AI가 배제를 재현하는 것을 경계하라.** [[genai-minoritized-knowledges-disability|장애 중심 비판]]은 영어권이고 서구 중심인 훈련 데이터가 장애의 존재 방식들을 소외한다고 경고합니다. [[equity-in-ai-education]]와 나란히 AI 도구를 인식론적 정의를 위해 검증하십시오.
+
+## 흔한 오해
+
+**"접근 가능한 도구가 곧 포용적인 강좌다."** 접근성은 한 가지 질문에 답합니다. 모두가 그 형식을 인지하고 조작할 수 있는가입니다. 이는 필요하지만 결코 충분하지 않습니다. 포용적 학습은 또한 어떤 도구가 개인의 [[digital-divide|접근 격차]]를 메우는지, 그리고 설계가 변이를 사후에 보정하는 대신 어떻게 미리 예상해야 하는지를 묻습니다. 평가 구조가 조용한 방, 안정적인 광대역, 중단 없는 시간을 전제하는 강좌에서 화면 낭독기 호환 인터페이스는 표시 문제만 해결하고 참여 문제는 그대로 남겨 둡니다.
+
+**"보조 기술을 제공하면 주도성도 제공된다."** 둘은 별개이며, 이 페이지의 틀 자체가 그렇게 말합니다. 보조 기술은 의미 있는 주도성을 보장하지 않습니다. 학습자가 요구된 과제를 완수하게 해 주는 도구는 또한 그를 그 과제의 가장 좁은 버전으로 유도할 수 있으며, 비계와 천장의 차이는 도입 지표에서는 보이지 않습니다.
+
+**"어려움을 겪는 학생은 프롬프트를 더 잘 쓰는 법을 배우면 된다."** 그것은 시스템의 결함을 학습자의 결핍으로 바꾸는 일입니다. 과제 자체를 고정한 상태에서 모델 정확도는 **낮은 문해력 표현에서 82.4%였던 것이 전문가 표현에서는 83.4%**로 겨우 1포인트 상승했을 뿐이며, 더 나은 프롬프트를 요구하는 것은 기존의 배제 위에 새로운 배제를 더합니다. 지렛대는 언어 변이를 시스템 쪽에서 처리하는 데 있지, 교정적 프롬프트 훈련에 있지 않습니다.
+
+**"자원이 풍부한 교실을 위해 만든 도구는 번역만 하면 저자원 맥락에서도 작동한다."** 맥락이 설계의 제약을 바꿉니다. [[suacode-african-students-motivations|SuaCode]]는 **코딩 능력을 갖춘 사람이 1% 미만**인 저자원 아프리카 맥락의 학생들에게 도달했는데, 데스크톱 실습실 기계가 아니라 스마트폰을 위해 설계했기 때문입니다. 그것은 같은 설계의 축소판이 아니라 다른 설계입니다.
 
 ## 연결된 개념
 - [[differential-effects-across-learner-groups]]

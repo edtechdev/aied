@@ -1,7 +1,7 @@
 ---
 title: 교수자의 AI 역량
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T08:42:12-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ ai_assist:
 - **평가 리터러시:** AI가 생성한 콘텐츠와 학생의 AI 산출물을 평가하고, 학생이 AI를 사용할 때 [[assessment-validity|타당성]]이 어떻게 달라지는지를 이해하는 것. 이는 [[automated-assessment]], [[ai-detection]], 더 넓은 [[assessment]] 재설계 과제에 연결됩니다. 추천 시스템의 경우 이것은 AI의 설명이 진정으로 이해 가능하고 교수법적으로 의미 있는지를 판단하는 것으로 확장됩니다. [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor 등(2025)]]은 설명이 원시 모형 특성을 드러낼 때보다 도메인(교육과정) 언어로 틀 지어질 때 교수자들이 AI 집단화 권고를 더 신뢰했음을 발견했습니다. 이는 불투명한 산출물을 그대로 받아들이기보다 [[explainable-ai|설명의 질]]을 요구하고 평가하는 기술입니다.
 - **실증 가능한 기술로서의 모형 선택과 프롬프트 설계:** 도구적 [[ai-literacy]]에는 어떤 모형을 쓸지와 과제를 어떻게 표현할지를 아는 것이 포함됩니다. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen 등(2026)]]은 예비 교사 153명의 수업 계획 목표를 체계적으로 달리한 네 가지 프롬프트 아래 ChatGPT-4, Claude 3, Gemini Advanced가 비평하게 하여(N = 240개의 피드백, 연구 2는 345개), [[feedback]]를 아홉 가지 품질 범주로 평가하게 했습니다. 모형 선택만으로 평가된 품질의 분산 중 26.9%(연구 2에서는 18.4%)를 설명했고, 프롬프트 설계가 그 위에 유의미한 15.9%(5.7%)를 더했습니다. 단 하나의 결정적 프롬프트 특성은 도메인 특정 기술 용어였으며, 이를 제거하면 품질이 유의미하게 낮아졌습니다(β = −0.412). 반면 예시를 더하고 사슬형 사고 지시를 빼는 것은 연구 1에서 유의미한 차이를 만들지 않았습니다. 저자들의 해석, 즉 교과 용어가 관련 있는 훈련 데이터 내용의 자물쇠를 열고 역할 프롬프트처럼 요청을 전문적으로 틀 짓는다는 해석과, 현재 사용 가능한 최전선 모형 중 가장 역량이 큰 것을 쓰라는 경험 법칙은 모형 선택을 기술적 결정이 아니라 교수법적 결정으로 만듭니다.
 - **윤리적이고 비판적인 사용:** AI 산출물의 [[bias-mitigation|편향]]을 알아차리고, 학생 데이터를 보호하며([[privacy]]), 공정한 결과를 보장하는 것([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|문화적으로 적합한 AI 사용]]은 교수자가 LLM을 지배적 규범을 강화하기보다 자료를 다양화하는 데 사용할 수 있는지를 살핍니다.
+- **시각적 표상은 그 자체로 측정 가능한 차원입니다.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]]는 중국 서부 5개 성의 교사 566명을 대상으로 시각적 표상을 생성하고 판단하고 그것에 따라 행동하는 다섯 차원 척도를 타당화했으며, 하위 척도 알파는 0.911에서 0.934였습니다. 이는 보고된 역량을 측정하며, 재검사 신뢰도도 실천 관찰도 없습니다.
 - **윤리적 책임은 개인이 아니라 분산되어 있습니다.** 일곱 개 국가의 사례에 걸쳐 교수자는 AI 사용의 도덕적 문지기로 위치 지어지면서도 기관적·인식론적 지원을 결여하고 있으므로, 윤리적 AI 리터러시는 기술적 기술이 아니라 비판적이고 정치적 행위성으로 확장되어야 합니다([[raffaghelli-situated-ai-ethics-2026|Raffaghelli 등(2026)]]).
 - **자신감과 태도:** 교수자의 [[self-efficacy|자신감]]은 도입을 규정합니다. [[teacher-ai-adoption-confidence|도입 연구]]는 자신감, 지원, 지각된 유용성이 교수자가 실제로 AI를 사용하는지를 이끈다는 것을 발견하고, [[ai-pedagogical-orientation|교수진의 지향]]은 연구와 교수에서의 도입을 규정합니다.
 
@@ -108,7 +109,6 @@ ai_assist:
 - **저작 도구가 교수법적 충실성을 보장하지는 않습니다.** [[teachers-configure-educational-chatbots-2026|Riahi 등(2026)]]은 전문적 개발 워크숍에서 교육용 [[conversational-ai|챗봇]]을 설정한 중학교 교사 27명을 연구하며 포커스 그룹과 설정 및 상호작용 기록을 함께 분석했습니다. 교사들은 챗봇을 교수자가 정의한 규칙에 의해 제한되는 수업용 스캐폴드로 다루었으나, 기록에 기반한 의도와 행동의 정렬은 응답성(88.9%)과 페르소나(81.5%)에서는 규칙(70.4%)과 목적(59.3%)보다 강했습니다. 설정 가능한 제어 장치만으로는 교수법적 의도가 행동으로 옮겨가지 않으므로, 챗봇의 교수법을 표현하고, 시험하고, 다듬는 것 자체가 저작 도구가 지원해야 할 역량입니다.
 
 역할의 사다리 위 한 단계가 아니라 상황적인 것으로 역량을 다루는 설계 기반 반례가 있습니다. 22명의 고등교육 교사 교육자와 함께 한 [[adaptive-ai-model-teacher-educators-2025|Eyal(2025)의 설계 기반 연구]]에서 참가자들은 공개된 평가 프레임워크 다섯 개를 살피고 세 개의 상호 관련된 축을 중심으로 대안을 공동 설계했습니다. 맥락 적합성(인프라, 사회문화적 요인, 지역의 요구, 발달 단계), 전문적 요구(학문 분야, 교수법, 리더십, 지원), 역동적 발달이 그것입니다. 이 모형은 고정된 역량 수준을 거부하고 비선형적 진행을 허용하며, 1에서 5로 평정하는 20문항의 반성적 자기평가 설문지를 함께 제공합니다. 다만 그 검증은 [[qualitative-research|질적]]일 뿐 [[quantitative-research|정량적]] 신뢰도 검증은 없어, 이는 검증된 도구가 아니라 설계적 기여로 서 있습니다.
-
 - **메타분석적 추정.** [[teacher-ai-literacy-professional-development-meta-2026|Guo 등(2026)]]은 34개 연구의 효과 크기 212개를 통합하여, 교수자의 AI 리터러시 전문적 개발을 g = 0.76(95% CI [0.50, 1.02])으로 추정했습니다. 기술에서 가장 강하고(g = 0.91), 태도와 가치에서 가장 약했습니다(g = 0.61). 명백한 출판 선택을 보정하면 추정치는 약 g = 0.49로 낮아집니다.
 
 - **참여하는 느낌이 아니라 출석이 향상을 예측합니다.** 같은 6개월 프로그램에서 출석률이 역량 향상을 예측했고(β = .407, p = .001), 스스로 인식한 참여는 그렇지 않았습니다(β = .049, p = .692). 학문 분야, 교수 경험, 직함은 거의 설명하지 못했으며, 저자들은 출석을 행동적 투자로, 인식된 참여를 피상적 참여로 읽습니다([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
@@ -128,7 +128,6 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 - **기관 층위를 지원하기:** 지속 가능한 교수자 역량은 고립된 교육이 아니라 정렬된 정책, 거버넌스, 역량을 요구합니다.
 
 - **GenAI [[curriculum-design|교육과정 설계]]를 위한 교수자의 디지털 역량.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]]은 재직 교사 434명으로 TAM 기반 진단 도구를 검증했습니다. 교육과정 계획에서 GenAI를 사용하는 디지털 역량의 주요 예측 요인은 행동 의도였으며, 자기효능감이 근원적 동인이었습니다.
-
 ### 교수자의 AI 역량을 위한 심리측정 도구
 
 - 한 심리측정 연구는 교사자의 AI 역량을 측정하기 위해 특히 [[teacher-education|언어 교사 교육]] 안에서 AI 리터러시를 측정하는 교수자 AI 리터러시 척도(TAILS)를 개발하여, ED-AI 프레임워크의 여섯 차원을 실행에 옮겼습니다. 이 도구의 개발은 학생이나 일반 사용자를 대상으로 하는 평가의 공백을 메우고, 교수자의 AI 역량의 측정을 뒷받침합니다.
@@ -164,6 +163,8 @@ AI가 일상적인 교수와 평가 과제를 떠맡을수록, 교수자의 고�
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## 연결된 문서
+
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — AI 역량 기반 교사 시각화 교수 역량 척도의 개발과 타당화
 
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — 어떤 교사가 계획 시간을 얻었는가: 교과 지식 자신감이 낮거나, 교수법적 지식이 낮거나, 직업 경력이 짧거나, 기술 자신감이 높은 교사
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — 교사들은 AI를 받아들이면서도 그것이 작동하는 방식을 오해한다(Aji 등 2026)

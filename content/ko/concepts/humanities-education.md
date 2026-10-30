@@ -1,14 +1,14 @@
 ---
 title: 인문·사회과학 교육
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-02T14:30:18-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,18 @@ SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력�
 - **자료 작업에서 AI를 의도적으로 사용하십시오.** [[paternalistic-filter-llm-history-education|History research]]는 AI가 추론과 자료 해석을 형성할 수 있음을 보여줍니다. AI가 매개하는 역사적 주장과 그것이 적용하는 필터를 학생들이 심문하도록 가르치십시오.
 - **학생 대면 영향을 고려하십시오.** [[genai-impact-chinese-students-hss|Student experience studies]]는 GenAI가 SSH 학습자들에게 어떤 영향을 미치는지를 기록합니다. 가정이 아니라 실제 사용에 맞춰 지원과 진실성 틀을 조정하십시오.
 
+## 흔한 오해
+
+**"인문학은 교육과정에서 AI 노출이 가장 적은 부분이다."** 노출은 측정되었고, 넓게 퍼지기보다 집중되어 있습니다. [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]는 **예술·인문학 단위 기록 15,587건**을 감사하여 노출이 어디에 있는지를 확립했습니다. 그것은 단위들에 고르지 않게 분포하며 얇게 퍼지지 않으므로, 평가 재설계를 부문 전체의 문제가 아니라 표적화된 문제로 만듭니다.
+
+**"인문학 교육에서의 AI는 기술 중심의 증강이다."** 이 페이지가 근거하는 입장 논문은 그 전환이 증강이 아니라 *지적 변형*이라고 주장하며, [[ai-literacy|디지털 유창성]]을 핵심 교양 역량으로 위치시킵니다. 변하지 않은 강좌에 도구를 더하는 것은 변형을 그 도구로 착각하는 것입니다.
+
+**"가치 교육은 모델에 콘텐츠로 넘길 수 있다."** [[genai-values-education-affordances-risks-2026|Chen (2026)]]는 가치 교육을 세 조건(응답 가능성, 예시성, 호명)을 지닌 관계적 실천으로 재구성하고, 생성형 AI의 다섯 가지 어포던스 각각이 하나의 관계를 대체하는 것으로 읽습니다. 시뮬레이션된 관점은 잘못될 수 있는 이해관계자를 대체합니다.
+
+**"비판적 분석이 AI가 가장 위협하는 것이므로 제한해야 한다."** 비판적 분석은 또한 의도적 사용이 가장 많이 발달시키는 것이며, 과제가 그것을 평평하게 만드는 대신 깊게 하도록 설계될 때 그렇습니다. [[human-in-the-loop-ai|인간 개입형]] 모델은 이 학문의 기여를 도구의 산출물이 아니라 학습자의 판단에 둡니다.
+
+**"범용 모델은 요약만큼 텍스트 학술 연구에도 유용하다."** 해석은 독자의 위치를 요구하며, 읽기를 대신 제공하는 지원 층은 이 학문이 가르치기 위해 존재하는 해석적 행위를 이미 수행한 것입니다.
+
 ## 연결된 개념
 
 - [[higher-ed]]
@@ -69,6 +81,8 @@ SSH 교육은 생성 AI가 가장 큰 도전을 제기하는 바로 그 능력�
 - [[discipline-specific-aied]]
 
 ## 연결된 문서
+
+- [[genai-values-education-affordances-risks-2026]] — 가치 교육에서의 생성형 AI: 어포던스, 윤리적 위험, 교수를 위한 함의 (Chen 2026)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — SSH 교육을 위한 해석적 인지의 발달-비판적 모형
 - [[paternalistic-filter-llm-history-education]] — 역사 교육에서의 LLM 사용과 역사적 추론

@@ -1,7 +1,7 @@
 ---
 title: 창의성
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-11T09:05:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,12 @@ ai_assist:
 ### 연결
 
 창의성은 [[critical-thinking]]과 [[constructivist]] 학습에 연결됩니다. 그것은 학습을 보존하는 것과 같은 [[reducing-ai-misuse]] [[scaffolding|비계]]와, 정제된 산출물보다 독창적 추론에 보상하는 [[authentic-assessment]] 설계에 의해 보호됩니다.
+
+## 흔한 오해
+
+- **"학생을 교란하면 창의적 이득이 생깁니다."** **마찰은 창의적 이득이 아닙니다.** 반대형 AI 인격은 **집단의 38.2%에서** 도전과 성찰 담론을 이끌었지만 **측정 가능한 창의적 수행 향상은 없었습니다**. 담론은 바뀌었고 측정된 결과는 바뀌지 않았습니다.
+- **"K-12 문헌은 생성형 AI가 창의성을 향상시킨다는 것을 확립합니다."** **45개 연구(2017-2025)**에 대한 PRISMA 지침 범위 검토는 생성형 AI가 창의성을 대부분 **향상**시키고 **거의 측정하지 않는다**는 것을 보여 줍니다. 이 분야의 지배적 발견은 지각된 향상에서 나온 추론이며, 그것은 결과 측정이 아닙니다.
+- **"생성형 AI에 더 의존할수록 창의적 산출이 늘어납니다."** **중국 대학원생 1,157명** 사이에서 생성형 AI 의존은 **자기 보고 연구 창의성과 정적으로 연관**되었습니다. 그리고 그 연관은 **자기 보고**와의 연관이며, 이는 그 구인에 대해 이용 가능한 가장 약한 측정입니다.
 
 ## 연결된 개념
 

@@ -1,7 +1,7 @@
 ---
 title: 교육과정 설계
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ ai_assist:
 변화를 가산적이지 않은 체계적 변화로 검토하며, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]]는 범위 검토, 209개 기록의 서지학적 매핑, 36개 논문, 10명의 학술 리더 인터뷰를 삼각검증하여 다섯 가지 전환을 도출합니다. 지식 전달이 역량 개발에 자리를 내주는 것과, 국지적 실험이 기관 거버넌스로 옮겨가는 것이 그중 하나입니다.
 
 **교육과정 매핑과 분석**은 AI를 활용해 기존 교육과정을 이해합니다. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]**는 AI 지원 소프트웨어 공학 과정의 강의계획서 23개를 분석해 공통 주제 — [[prompt-engineering|프롬프트 엔지니어링]], AI를 활용한 코드 리뷰, [[ethics|윤리적 고려사항]] — 를 찾아내고, 도구 활용 능력과 기초 지식의 균형을 강조하는 설계 지침을 도출했습니다. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]**는 계산적 방법을 적용해 여러 기관의 컴퓨터 과학 강좌 구조를 비교합니다.
+
+가중치는 교육과정 분석이 보고하는 것을 바꿉니다. [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]]은 GPT-o3-mini가 48개 평가 각각에 대해 일곱 가지 기업 역량 전반에 100%를 배분하도록 하여 전문가 가중치에 대해 Krippendorff's alpha 0.81에 이르렀으나, 기술 설명이 명시적으로 언급하지 않는 역량에서는 일치도가 음수(-0.19)로 돌아섰습니다.
 
 **AI 리터러시 통합**은 여러 학문에 걸쳐 AI 역량을 내장합니다. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]**은 모든 연령과 교육 단계에 적용 가능한 단계적 AI 리터러시 프레임워크를 제공하며 2·3차 [[digital-divide|디지털 격차]]를 다룹니다. **[[tracing-genai-literacy-interaction-patterns]]**는 AI 리터러시가 상호작용 양식을 통해 어떻게 발달하는지를 검토합니다. **[[hingle-collaborative-ai-literacy-2025]]**는 AI 리터러시 교육과정 개발의 협력적 접근을 탐구하며 [[collaborative-learning]]과 연결됩니다.
 
@@ -94,6 +96,12 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 
 교육과정 설계는 [[learning-design]]과 직접 연결됩니다. 교육과정은 무엇을, 수업은 어떻게를 규정하기 때문입니다. AI 역량의 내장이 교육과정의 주요 과제이므로 [[ai-literacy]], 교육과정 변경이 교육자 준비를 요구하므로 [[teacher-role]]과 [[educational-development]], 잘 설계된 교육과정이 강좌와 여러 해에 걸쳐 기술 발달을 뒷받침하므로 [[scaffolding]]과 연결됩니다. [[higher-ed]]와 [[k-12]] 연결은 교육과정 설계가 여러 교육 수준에 걸쳐 관련됨을 반영합니다.
 
+## 흔한 오해
+
+- **"LLM은 높은 신뢰도로 타당화되면 교육과정을 매핑할 수 있다."** GPT-o3-mini는 **48개 평가 각각에 대해 일곱 기업 역량 전반에 100%를 배분**하여 전문가 가중치에 대해 **Krippendorff's alpha 0.81**에 이르렀고, **일치도**는 특정 역량에서 무너졌습니다. 전체 신뢰도가 높으면서 일치도가 고르지 않은 것이 매핑을 신뢰하기 전에 점검해야 할 양상입니다.
+- **"AI 리터러시를 내장한다는 것은 강좌를 추가한다는 뜻이다."** LearnAI는 내장형을 보여 줍니다. **다섯 학문의 기존 강좌 18개 안에 짧은 발표로 이루어진 폭넓은 노출 층위(학생 293명)** 입니다. 노출은 한 단원에 모인 것이 아니라 교육과정 전반에 분산되었습니다.
+- **"학생들은 이미 미디어를 비판적으로 평가할 수 있는 상태로 온다."** 응답한 교육·저널리즘 학생 중 **13.8%만이** 수강 과목에서 비판적 미디어 분석을 다루었다고 답한 반면, **97.8%가 그것을 중요하다고 평가**했습니다. 기술을 가치 있게 여기는 것과 그것을 배우는 것 사이의 격차가 교육과정의 기회입니다.
+
 ## 연결된 개념
 - [[pedagogical-partnerships]] — 교수 파트너십
 - [[business-education]]
@@ -138,6 +146,7 @@ K-12 머신러닝 활동 설계는 표면에 머물러 있습니다. ICE-T 프�
 - [[niri-steam-ai-literacy-review-2026]] — AI 리터러시를 위한 STEAM 교육: 체계적 문헌고찰
 - [[caruana-pre-university-ai-education-slr-2026]] — AI로 이끄는 미래를 위한 학습자와 교사 준비하기: 대학 전 AI 교육에 관한 체계적 문헌고찰(Caruana et al. 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — 수학적 모델링 문제를 생성하는 AI 기반 플랫폼(ADDIE, RAG)
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 인증을 위한 가중치 기반의 전문가 검증 역량 매핑
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]] — 아동 STEAM 미술 교육을 위한 ChatGPT 지원 수업 계획: 이점, 도전, 방법, 그리고 프롬프트 틀에 관한 실험 연구
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — 과학 교육 전문가의 관점에서 본 AI 지원 수업 계획의 적합성
 - [[ai-particle-physics-education-redesign-2026]] — 입자 물리 교육에서의 AI: 연구 문제와 기초 역량

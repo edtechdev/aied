@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 자동 문항 생성
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,16 @@ AQG는 [[adaptive-learning|적응형]] 및 [[personalized-learning|개인화된]
 - **인지 깊이를 위해 설계:** 프롬프트와 파이프라인은 단순 회상이 아닌 고차원 사고를 겨냥하여 진정한 학습을 뒷받침해야 합니다.
 - **난이도 보정:** 적절히 도전적인 문항을 선별하기 위해 AI 난이도 추정을 사용하되, 고위험 사용 전에는 강한 검증을 거치세요.
 - **학습자 모델을 통한 개인화:** AQG를 지식 추적과 흥미 모델에 결합하여 적응형이고 개별화된 문항을 생성하세요.
+
+## 흔한 오해
+
+**"생성된 문항은 생산할 수 있는 규모에서 사용 가능하다."** 제약은 양이 아니라 보정입니다. 품질은 문항 유형에 따라 크게 달라지며, 환각되거나 형편없이 보정된 문항을 피하려면 검증이 필요합니다. 그래서 작동하는 파이프라인은 생성보다 검증에 노력을 씁니다. 한 사례는 생성-검증-정제 순환을 더해 환각을 **62%** 줄였습니다.
+
+**"정제 순환이 생성 문항을 신뢰할 만하게 만든다."** 그것은 문항을 덜 틀리게 만들 뿐입니다. 환각의 62% 감소는 상당한 잔여분을 남기며, 어떤 순환도 문항의 진술된 난이도가 학생들이 실제로 하는 것과 맞는지라는 더 어려운 문제를 해결하지 못합니다. 이는 난이도 레이블 증거가 생성 메타데이터의 실패를 보여 주는 [[assessment-validity|타당성]] 문제입니다. 검증은 조작된 내용을 줄이고, 보정은 학생 응답 자료를 필요로 합니다.
+
+**"문항 생성은 자연히 연습을 개인화한다."** 그것은 공급을 생성하며, 개인화는 매칭 문제입니다. 문항을 더 많이 만드는 것은 주어진 학습자가 다음에 어떤 문항을 보아야 하는지를 알려 주지 않으며, 적응적 선택 문제는 자체 증거를 지닌 별개의 기제입니다.
+
+**"생성은 평가가 측정하는 것을 바꾸지 않으면서 평가를 확장한다."** 그것은 측정되는 것의 구성을 바꿉니다. 잘 생성되는 문항은 잘 평가하는 문항의 대표 표본이 아니기 때문입니다. 생성하기 쉬운 형식이 생성하기 어려운 형식을 점차 밀어내며, 이는 구성개념을 조용히 재편합니다.
 
 ## 연결된 개념
 

@@ -1,14 +1,14 @@
 ---
 title: 양적 연구
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,9 @@ ai_assist:
 
 - **강점:** 큰 표본; 폭넓고 저비용의 포괄성; 복잡한 매개 모형의 검정; 관찰하기 어려운 태도에도 실천 가능함.
 - **한계:** 횡단면 자료는 인과를 확립할 수 없음; 자기보고 편향; 편의 표집이 일반화 가능성을 제한함; 매개 변수는 조작이 아닌 공분산으로부터 추론됨. 이런 한계의 검사 도구 측 다룸은 [[self-report-measures]]를 참조하십시오.
+- **포화된 매개 모형은 자신의 순서를 검증할 수 없습니다.** 1,020명 간호대학생에 대한 단일 시점 설문은 총효과 1.36을 직접효과 0.92와 자기조절 학습을 통한 간접효과 0.44로 나누었고, 간접효과는 총효과의 32.35%였습니다. 이 모형은 자유 모수가 관측 공분산 수와 같아 자료를 구성상 재현합니다([[li-nursing-genai-interaction-self-regulated-learning-2026|Li 외(2026)]]).
+
+**총 간접효과가 거의 0이어도 두 개의 살아 있는 경로를 가릴 수 있습니다.** 디자인 전공 학생 568명의 자기보고 한 시점에서 간접 연관은 향상 초점을 통해 0.0929, 예방 초점을 통해 -0.0884였고, 합은 0.0045인 반면 직접 경로가 총효과의 98.7%를 지녔습니다([[wang-ai-disruption-design-innovation-competence-2026|Wang 외(2026)]]).
 
 ### 실험 및 준실험 연구
 실험은 학습자를 조건(예: AI 튜터 대 인간 튜터, 또는 AI 비계 대 무지원)에 무작위로 배정하여 결과에 대한 인과 효과를 추정합니다. **무선배정 대조 시험([[rct]])**은 내적 타당도의 황금 기준입니다. [[access-not-enough-ai-tutoring-2026|인간 지원과 AI 튜터링을 더한 무작위 현장 연구]]와 [[genai-can-harm-teaching-rct-2026|교수에서의 생성형 AI에 관한 한 RCT]]는 인과 효과를 분리하기 위해 배정을 사용합니다. **준실험** 설계(전후 설계, 무작위화 없는 매칭 집단)는 그대로의 교실에서 더 실천 가능하지만 인과 주장은 더 약합니다.
@@ -49,6 +52,8 @@ ai_assist:
 
 - **강점:** 가장 강한 인과 추론; 깔끔한 결과 측정; 효과 크기 추정과 효능 주장을 뒷받침함.
 - **한계:** 비용이 많이 들고 느림; 인위적 조건이 생태 타당도를 떨어뜨림; 빠르게 변하는 AI 도구가 실험을 빠르게 노화시킴; 작은 표본은 효과를 탐지할 검정력이 부족함; 도움이 되는 도구를 박탈하는 데 대한 윤리적 제약.
+
+- **집단 무선 배정 접근 시험에는 사용 점검이 필요합니다.** 처치된 학급 학생의 약 15%만이 튜터를 사용한 연구에서 의도-처치(ITT) 추정치는 도구를 사용한 효과가 아니라 도구를 도입한 효과를 반영합니다. 낮은 사용률은 ITT 수치를 실행에 관한 진술로 만들며, 그것을 도구 효과로 보고하는 것은 측정된 것을 과장합니다([[liu-course-integrated-ai-tutoring-rct-2026|Liu 외(2026)]])).
 
 ### 종단 연구
 종단 설계는 동일한 학습자를 시간의 흐름에 따라 추적하여, 단일 시점 측정이 놓치는 변화, 성장, 지속되는 학습을 포착합니다. [[ai-lms-middle-school-longitudinal|한 종단 LMS 연구]]는 한 학년에 걸쳐 학생들을 추적합니다. 종단 설계는 AI에 의해 부풀려진 수행과 [[genai-performance-vs-learning|지속되는 학습]]을 구분하는 데 필수적입니다.
@@ -58,6 +63,8 @@ ai_assist:
 
 ### 계산적 및 심리측정적 정량화
 양적 방법은 검사 도구를 통한 구인의 직접 측정도 포함합니다. 이것이 [[educational-measurement]]와 [[item-response-theory]]의 영역입니다. 이 지식 기반의 [[jin-glat-genai-literacy-assessment|GLAT]]은 IRT로 타당화된 20문항 양적 검사 도구이며, [[ai-literacy|AI 리터러시]], 수용, 자기효능감 전반의 [[educational-measurement|측정 검사 도구]]는 설문조사와 실험 연구가 의존하는 타당화된 척도를 제공합니다.
+
+서지 분석은 또 다른 양적 계열입니다. [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram 외(2026)]]는 1,403편의 [[medical-education]] 출판물을 국가, 기관, 키워드 공동 출현 네트워크로 지도화하여, 연구를 평가하는 대신 문헌의 형태를 읽습니다. 그래서 [[governance]] 연구가 역량 검증의 속도를 따라가지 못했다는 그들의 결론은 학습이 아니라 분야에 관한 주장이 됩니다.
 
 ## 양적 연구가 지식 기반에서 어떻게 나타나는가
 
@@ -77,6 +84,12 @@ ai_assist:
 - **한계:** 측정 가능한 것만을 포착하여 과정, 의미, 맥락을 흔히 놓침([[qualitative-research]] 참조); 자기보고 편향; 검사 도구가 잘못된 구인을 측정할 수 있음([[educational-measurement|측정의 문제들]] 참조); 인과 없는 상관; AI 변화에 비해 인위적이고 느릴 수 있음.
 
 양적 방법과 [[qualitative-research|질적]] 방법은 상호 보완적입니다. 양적 연구는 폭과 인과력을, 질적 연구는 깊이와 의미를 제공합니다. [[mixed-methods-research|혼합 방법 설계]]는 둘을 결합합니다. 전체 방법 비교와 실험, 설문, 질적 및 기타 설계 간의 대비는 [[research-methods-aied]]를 참조하십시오.
+
+## 흔한 오해
+
+- **"의도-처치 추정치는 도구가 하는 일을 서술한다."** 처치된 학급 학생의 **약 15%만이 튜터를 사용한** 집단 무선 배정 접근 시험에서 ITT 추정치는 **도구를 도입한 효과**를 반영하며, 도구를 사용한 효과가 아닙니다. 낮은 사용률은 ITT 수치를 실행에 관한 진술로 만들고, 그것을 도구 효과로 보고하면 측정된 것을 과장합니다.
+- **"과제 수행이 결과다."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui(2025)]]는 **120명의 학생**을 AI 지원 또는 전통 학습에 무작위 배정하고 **기억 유지**를 측정합니다. 즉각적 수행과 지속되는 학습을 분리하는 설계입니다. 과제에서 멈춘 연구는 더 쉬운 양을 측정한 것입니다.
+- **"데이터셋 간 비교는 간단하다."** 합성 교육 자료에 대한 구조적 점검은 **각 데이터셋을 자체 임계값으로 분석하면 공유 작업 지점에서 성립한 대비가 뒤집힘**을 발견했습니다. 비교의 부호가 분석적 선택에 달려 있었고, 이는 사전 등록된 작업 지점이 막으려는 취약성입니다.
 
 ## 연결된 개념
 
@@ -103,3 +116,7 @@ ai_assist:
 - [[ai-lms-middle-school-longitudinal]] — 한 종단 AI 통합 LMS 연구
 - [[adaptive-pretesting-retention]] — 적응형 사전 검사와 유지
 - [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표가 놓치는 것: 합성 교육 자료에 대한 구조적 점검
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 간호대학생의 생성형 AI 사용과 대인적 교육 상호작용: 통계적 매개변인으로서의 자기조절 학습
+- [[wang-ai-disruption-design-innovation-competence-2026]] — 디자인 전공 학생의 AI 기술 파괴 인식, 디자인 사고 마인드셋, 디자인 혁신 역량
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — 집단 무선 배정 접근 시험과 사용 점검
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 의학교육에서 윤리적 AI의 서지 분석

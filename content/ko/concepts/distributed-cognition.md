@@ -1,13 +1,13 @@
 ---
 title: 분산 인지
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ ai_assist:
 생성형이면서 상호작용적인 AI 시스템은 이전의 도구들이 하지 못한 방식으로 인지적 작업을 재분배합니다. 지식 기반은 이 이동의 여러 차원을 기록합니다.
 
 - **인지적 동료이자 공동 조절자로서의 AI.** AI는 사고와 학습의 공동 [[regulation]]에서 [[scaffolding|비계]], 초인지적 지원, 외부 기억 시스템, 그리고 의사결정 동료로 기능할 수 있습니다.([[ai-cognitive-partner-co-regulation-learning]]) 이것은 인지를 개별적으로 관리되는 것이 아니라 학습자와 시스템 사이에서 공동 조절되는 것으로 위치 짓습니다.
+- **AI 사용의 양은 어떤 형태의 분산 작업이 일어나는지를 드러내지 않습니다:** [[cognitive-offloading-llm-synthesis-writing|Poquet 외(2026)]]는 97명 학습자의 사용량 기반 프로파일이 사전 지식과 저자십에서는 달랐지만 능동적 역할이나 이해 수준의 프롬프팅에서는 다르지 않았다는 것을 발견했습니다. 따라서 공유된 활동과 노동 분업은 같은 양의 사용과 함께 나타날 수 있습니다.
 - **행위성과 책임의 재분배.** **앙상블 인지(ensemble cognition)**와 같은 프레임워크는 사고를 동적인 인간-[[student-ai-interaction|AI 상호작용]]에서 생겨나는 것으로 재개념화하며, AI의 *기능적 행위성*(의식 없이 결과에 영향을 미치는 능력)을 *도덕적 책임*(인간에게 남는다는 것)과 구별합니다.([[ensemble-cognition-philosophy-ai-education]]) 분산 인지는 이렇게 학습에 대해 누가 책임을 지는가를 다시 틀 짓습니다.
 - **효율성-조절의 긴장.** 경험적 연구는 하나의 상충 관계를 보여 줍니다. 추론을 가장 효율적으로 분산하는 인간-AI 시스템(예: 위임된 추론을 통해)은 더 높은 과업 수행을 달성하지만 학습자의 자기 조절적 [[student-engagement|참여]]를 줄일 수 있습니다.([[hao-human-ai-collaborative-problem-solving-cognition]]) 이것이 지식 기반이 기록하는 [[cognitive-offloading]]와 [[cognitive-offloading|과잉 의존]] 위험의 경험적 얼굴입니다.
 - **협업에서의 매개.** AI는 [[collaborative-learning|협업 학습]]에서 상호작용, 인식론적 의미 만들기, 규제 과정을 조율하는 *[[pedagogy|교수법적]] 매개자*로 기능할 수 있으며, 행위성, 권위, 책임을 인간과 비인간 행위자에 걸쳐 재분배합니다.([[niari-ai-pedagogical-mediator-collaborative-learning]])
@@ -61,6 +62,12 @@ ai_assist:
 Fowlin et al. (2026)은 그 배분을 2단계 서열로 구현합니다. 먼저 AI 없이 핵심 역량을 쌓고, 이어서 AI를 학생이 비판적으로 평가하는 제안을 하는 인지적 동료로 도입하여, 자동화와 관련된 기술 퇴화(deskilling)를 막는 것입니다([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **내면화된 숙달 대 분산된 숙달.** Cognitive Commons 프레임워크([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]])는 개별 마음에 깊은 영역 지식을 둔 내면화된 숙달(Internalized Mastery)과 인간-AI 시스템을 조율하는 분산된 숙달(Distributed Mastery)을 구별하고, 후자가 "Validation Tether"을 통해 전자에 의존한다고 주장합니다. 분산/AI 시스템의 효과적인 감독은 그러한 시스템이 약화시킬 수 있는 내면화된 전문성을 전제한다는 것입니다. 이것은 DCog 설계 질문을 예리하게 합니다. 인지의 분배는 그것을 검증하는 전문성의 대가를 치러서는 안 됩니다.
+
+## 흔한 오해
+
+- **"공유 문서는 공유 인지를 의미합니다."** **97명 학습자**의 사용량 기반 프로파일은 **사전 지식과 저자십**에서 달랐지만 **능동적 역할이나 이해 수준의 프롬프팅**에서는 다르지 않았습니다. 참여량은 노출을 측정했을 뿐 인지적 작업의 분배를 측정하지 않았으므로, 협업 도구의 사용 분석은 누가 사고하고 있었는지에 관해 거의 말해 주지 않습니다.
+- **"모든 사람이 AI에 똑같이 부담을 전가합니다."** 초임 교사는 **교수 설계의 인지 부하 상당 부분을 AI 시스템에 위임**하여 응답을 대체로 받아들이는 **AI 지배적 분배**에 이르는 반면, 경험이 많고 AI에 대한 지식이 있는 교사는 다르게 분배합니다. 전문성은 AI를 얼마나 쓰는가뿐 아니라 부하가 어디에 놓이는가에 나타납니다.
+- **"AI 개입이 많을수록 지원이 많습니다."** AI 지배적 분배는 주의해야 할 유형입니다. 산출량이 늘어나는 동안 인간이 맡는 인지 작업의 몫은 줄어들기 때문입니다. 사용자가 덜 할수록 시스템은 더 유능해 보일 수 있습니다.
 
 ## 연결된 개념
 

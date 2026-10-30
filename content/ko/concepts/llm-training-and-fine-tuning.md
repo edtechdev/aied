@@ -1,7 +1,7 @@
 ---
 title: LLM 훈련과 미세 조정
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ ai_assist:
 - **값싸게 얻는 평가 신뢰성.** 대략 **3,900**개의 모아진 채점 예시에 훈련된 단일 LoRA 어댑터는 다섯 개의 작은 공개 모델(4B–30B)을 두 개의 컴퓨터 과학 시험에 걸쳐 인간 채점자와 동등 이상으로 끌어올렸고, 페르소나 민감도를 거의 지웠습니다(드리프트 ≤ 0.32 MAE)([[llm-graders-computer-science-exams-2026]]). 하나의 어댑터, 하나의 데이터셋, 여러 기반 모델 — 이것이 실천적 배포의 형태입니다.
 - **선택적 자동화.** 자신감은 채점 오차의 신뢰할 만한 예측 변수였습니다(β = −0.602, p < .001). 가장 자신감 없는 응답의 하위 **20%**를 인간 검토로 라우팅하는 것이 미세 조정된 GPT-3.5 모델을 r = 0.781에서 **r = 0.822**(RMSE 0.5990 → 0.5544)로 옮기면서 수동 채점 작업을 약 **80%** 줄였습니다([[know-when-to-trust-ai-scoring-reliability-2026]]). 여기서 미세 조정은 인간을 대체하는 것이 아닙니다. 인간의 주의를 감당 가능하게 만드는 것입니다.
 - **손으로 채점하지 않아도 될 구성개념의 측정.** 미세 조정된 헝가리 트랜스포머(hubert-base-cc, PULI-BERT-Large)는 [[teacher-education|교사 훈련]]에서 성찰 서술 채점을 위해 TF-IDF 특징과 Qwen3 임베딩과 비교 벤치마킹되었고([[reflection-level-classification-hungarian-essays-2026]]), 미세 조정된 다중 모달 모델(Qwen3.5 기반)이 객관식 문항의 문항 특성 곡선을 재구성함이 보여졌습니다. 3PL과 MCM 곡선에 인코딩된 응답 패턴을 알려지지 않고 학습한 것입니다([[multimodal-item-parameter-estimation-2026]]).
+- **[[curriculum-design|교육과정]] 구조화 자료는 표본 효율적입니다.** 약 2,300개 표본의 동일 예산 아래에서 인민교육출판사 교과서의 K-12 [[knowledge-graph|지식 그래프]]에서 도출한 질의응답 쌍으로 미세 조정한 모형이 여덟 개 주류 지시 문장 말뭉치의 같은 크기 조각을 앞섰고, 그 이득은 훈련된 교과 밖으로도 전이되었습니다. 교육과정 구조가 교육용 훈련 자료를 구별 짓는 요소라는 증거입니다([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang 외(2026)]]).
 
 ## 실천에서의 파라미터 효율적 적응
 
@@ -152,6 +153,13 @@ LoRA와 그 친척들은 대부분의 교육 팀이 실제로 일할 곳이며, 
 
 이 페이지는 [[llm]]의 *모델이 어떻게 만들어지는가* 동반 페이지입니다. 이것은 [[ai-technologies]] 아래 훈련-적응 노드에 놓이며, [[rag]](대개 먼저 오는 검색의 대안), [[prompt-engineering]](가장 값싼 지렛대), [[reinforcement-learning]](사후 훈련의 RL 절반)과 나란히 있습니다. 그것의 출력은 [[intelligent-tutoring]]과 [[adaptive-learning]]에 공급되며, 그것의 가장 흔한 교육 응용은 [[automated-assessment]], [[automated-essay-scoring]], [[ai-feedback-quality]]입니다. 그리고 그것의 가장 가까운 개념적 친척은 [[educational-nlp]], [[simulating-students]], [[open-source]], [[student-modeling]]입니다. 그것이 만들어내는 위험은 [[pedagogical-safety]], [[ai-sycophancy]], [[hallucination-risk]], [[privacy]]가 짊어집니다.
 
+## 흔한 오해
+
+- **"미세 조정은 모형을 여러분의 과제에 능하게 만드는 방법이다."** 검색과 프롬프트는 **결정 순서에서 더 앞에** 있으며, 지식베이스의 가장 분명한 결과는 사후 훈련이 **첫 번째가 아니라 세 번째 선택**이라는 것입니다. 평가 자료로 모형을 미세 조정하자 **형식과 유사성**은 개선되었지만 별도의 미세 조정은 **피드백 생성에서 완전히 실패**했습니다. 방법이 표면을 바꾸고 역량은 바꾸지 못한 것입니다.
+- **"모형이 학습 이득의 주요 결정 요인이다."** 모형과 프롬프트 선택은 LLM과 학생 학습 이득 사이 격차의 **약 15%**만 설명합니다. 남은 85%를 최적화하는 것이 일이며, 그것은 가중치 안에 있지 않습니다.
+- **"로컬 모형은 호스팅 모형보다 성능이 낮으므로 검색은 부차적 지렛대다."** 세 가지 구성 평가에서 **검색이 모형이 아니라 일차적 설계 결정**이었습니다. **검색이 없는 로컬 LLM은 정확도 52.3%에 그쳐 TF-IDF 기준선보다 낮았습니다.** 검색을 더하자 같은 모형이 모형 교체로는 도달하지 못했을 임계값을 넘어섰습니다.
+- **"훈련 자료가 많을수록 교수 행동이 좋아진다."** 형식을 개선하면서 피드백 생성을 악화시킨 평가 미세 조정이 축소판 반례입니다. 비슷해 보이는 목표에 대한 최적화는 대리 지표를 개선하면서 원하던 것을 훼손할 수 있습니다.
+
 ## 연결된 개념
 
 - [[llm]] — 이 모델들이 무엇인가; 이 페이지는 그것들이 어떻게 만들어지는가이다
@@ -220,3 +228,4 @@ LoRA와 그 친척들은 대부분의 교육 팀이 실제로 일할 곳이며, 
 - [[simulated-students-tutoring-dialogues-2026]] — 시뮬레이션된 학생이 학생처럼 행동하는가
 - [[inside-llm-student-simulator-reasoning-2026]] — 학생처럼 행동하고 생각하도록 모델을 미세 조정하기
 - [[history-aware-student-simulation]] — 학습자의 궤적에 조건화된 시뮬레이션
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — 교육과정 구조화 자료는 표본 효율적입니다

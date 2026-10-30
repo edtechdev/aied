@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: 구성주의
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -109,6 +109,12 @@ ai_assist:
 2. **[[icap-framework|ICAP]] 렌즈를 사용하라.** ICAP는 참여를 구성적, 상호작용적, 능동적, 수동적 양식으로 분류합니다 — AI 상호작용이 실제로 구성적이고 상호작용적 양식을 이끌어내는지 아니면 수동적 소비인지를 평가하는 데 사용하십시오. 설계자는 학습 목표가 요구하는 곳에서 더 깊은(구성적이고 상호작용적) 양식을 선호해야 합니다.([[hingle-collaborative-ai-literacy-2025]])
 3. **이론과 구현을 정렬하라.** 연구자는 AI가 '작동하는지'를 넘어 그것이 학습 이론을 *어떻게* 구현하는지를 살피며, 명목상 구성주의, 실제 행동주의 격차를 확인해야 합니다.([[ai-vocational-education-training-review]])
 4. **학습자 주체성과 전이를 연구하라.** 구성주의적 약속은 즉각적 시험 향상뿐 아니라 학습자들이 구성한 이해를 전이하고 독립적으로 적용할 수 있는지를 평가함을 함의합니다.([[research-methods-aied]])
+
+## 흔한 오해
+
+- **"구성주의 수업은 던지는 질문으로 탐지할 수 있다."** DeBERTa 분류기는 **사실적 지식 전달자 질문을 96.67%의 정밀도로 분류했지만 촉진자 질문은 78.79%에 그쳤고**, **모든 모형이 두 고차원 역할을 혼동했습니다**. 가장 중요한 구성개념이 자동 탐지가 가장 잘 다루지 못하는 것입니다.
+- **"수업의 표면적 특징이 그 교수법을 드러낸다."** 분류기의 실패는 구현상의 세부 사항이 아닙니다. 촉진자 역할과 구성주의 역할이 어려운 사례인 이유는 그것이 교사가 학습자의 사고로 무엇을 하는지로 정의되며, 그 관계는 질문 텍스트만으로는 복원되지 않기 때문입니다.
+- **"구성주의란 교사가 설명하지 않는 것이다."** 이 이론은 학습을 학습자가 경험으로부터 구성하는 데 위치시키며, 이는 직접 교수와 양립합니다. 그것을 설명 금지로 다루는 것은 이론과 worked examples에 관한 증거를 모두 잘못 읽는 것입니다.
 
 ## 연결된 개념
 - [[community-of-inquiry]] — Community of Inquiry(구성주의적/듀이적 실용주의에 기반)

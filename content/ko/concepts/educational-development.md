@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: 교육 개발
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T13:40:00-04:00"
+updated: "2026-10-30T05:04:45-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ ai_assist:
 
 ### 프로그램 설계자를 위한 실천적 지침
 
-교수진 개발자, 학술 리더, AI [[professional-training|전문적 개발]]을 계획하는 [[stakeholders|수업 설계자]]에게 이 지식베이스의 근거가 시사하는 바는 다음과 같습니다.
+교수진 개발자, 학술 리더, AI [[educational-development|전문적 개발]]을 계획하는 [[stakeholders|수업 설계자]]에게 이 지식베이스의 근거가 시사하는 바는 다음과 같습니다.
 
 **지식만이 아니라 네 가지 도입 동인을 다룹니다.** 자신감, 태도, 지원, 우려가 교수진이 실제로 AI를 도입하는지를 예측합니다. 이를 무시하는 지식 전용 워크숍이 실천을 바꾸기는 어렵습니다. 직접 사용을 통해 자신감을 쌓고, 일회성 교육이 아니라 지속적인 지원을 제공하며, 교수진의 우려를 적극적으로 표면화하고 대응하도록 개발을 설계하십시오.([[teacher-ai-adoption-confidence]])
 
@@ -85,6 +85,7 @@ ai_assist:
 **준비도를 사회기술적 정렬의 문제로 다룹니다.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 프레임워크]]는 교수진의 준비도가 인식론적, 교수법적, 기관적, 품질과 규정 준수의 영역에 걸친다는 것을 보여 줍니다. 개인만 훈련하는 프로그램은 변화를 가능하게도 막기도 하는 기관의 지렛대(정책, 업무량, 인센티브, 품질 기준)를 놓칩니다. 교육과 함께 그것들을 정렬하십시오.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **인프라 투자를 전환과 동일시하지 마십시오.** 125개 연구에 걸쳐, GenAI 인프라와 교육 개발에 대한 기관 투자는 실제 교수법적 변화와 약하게만 상관되었고(r = 0.12), 60~70%의 강사는 GenAI를 통합할 준비가 되어 있지 않다고 느꼈습니다. 이로 인해 조달이 아니라 개발이 제약 요인이 됩니다.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**효과 크기만이 아니라 실패 양식을 명명하십시오.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe and Martínez-Pérez (2026)]]은 그것을 시뮬레이션된 혁신이라고 부릅니다. 도구의 존재가 진보를 신호하고, 교수와 평가 형식은 그대로 남으며, 도입률과 대시보드가 학습을 대신하고, 기술 출시 주기가 방향을 정합니다. 그들의 진단은 개발 프로그램이 도입 전에 각 도구를 명명된 학습 문제에 비추어 정당화할 것을 요구합니다.
 
 **도구 도입이 아니라 교육과정 재설계를 향해 쌓습니다.** 목표는 AI 도구를 덧붙이는 것이 아니라 교수진이 강좌와 평가를 재설계하는 것입니다. 전문적 개발을 강좌 차원의 재설계 작업과 평가 개혁에 닻을 댑니다([[institutional-change-framework-ai|기관 변화 프레임워크]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform|평가 척도]])([[ai-assessment-scale-reform]])
 
@@ -174,3 +175,5 @@ ai_assist:
 
 - [[faculty-ai-well-being-social-supports-2026]] — 교수의 AI 웰빙은 기술적 자기효능감이 아닌 AI 리터러시를 따름
 - [[ai-competence-framework-landscape-2026]] — 채택하기 전에 프레임워크의 수준이 무엇을 설명하는지 확인하기
+
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 교육이 AI 의제를 정할 수 있는가? 교사 교육에서의 시뮬레이션된 혁신과 교수법적 방향 설정

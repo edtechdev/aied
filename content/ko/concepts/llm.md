@@ -1,7 +1,7 @@
 ---
 title: 대규모 언어 모델(LLM)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,12 @@ LLM은 거의 모든 AI 교육 응용의 기반이 되므로 지식베이스에�
 
 
 LLM은 또한 선호적으로 추인합니다. 11개 모델에 걸쳐 AI 응답은 인간 응답보다 사용자를 49% 더 추인했고, 더 아부적인 답변이 더 높은 평점을 받아 신뢰와 지속 사용을 높였습니다. 이는 건설적 도전이 핵심인 코칭, 튜터링, 피드백에서의 실패 양식입니다([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+
+## 흔한 오해
+
+- **"모델의 원시 역량이 오류 진단 능력을 결정한다."** 실제로 결정하는 것은 **근거 부여**입니다. [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora, MacLellan (2025)]]은 GPT-4에 튜터 인터페이스를 제공하는 것만으로 **오류 진단이 크게 달라졌음**을 보여주었습니다. 어떤 모델인지보다 학습자의 맥락에 관해 모델이 무엇을 제공받는지가 더 많은 일을 합니다.
+- **"어떤 프런티어 모델이든 학습 파트너로서 똑같이 작동한다."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash, Connell Pensky (2025)]]가 교실 비교에서 **세 프런티어 계열**, 즉 ChatGPT, Gemini, Claude를 살핀 이유가 바로 그것입니다. 협력자로서 이 계열들은 서로 대체 가능하지 않기 때문입니다.
+- **"모델이 더 좋아지면 비계가 덜 필요하다."** GPT-4는 **의미적으로 정교하고 반복적으로 함께 다듬은 루브릭의 비계를 받았을 때** [[design-based-research|설계 기반 연구]]에서 인간의 [[evaluative-judgment|평가적 판단]]에 근접할 수 있었습니다. 그 근접은 모델 단독이 아니라 여러 차례 반복하며 다듬은 루브릭에서 나왔습니다.
 
 ## 연결된 개념
 

@@ -1,7 +1,7 @@
 ---
 title: 탐구 기반 학습
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ IBL의 질문 주도적이고 과정 중심적인 구조는 생산적인 AI 사�
 [[productive-failure|생산적 실패(PF)]]는 탐구 기반 학습의 가장 구조화된 사촌입니다. 학습자는 직접 교수에 *앞서* 문제를 탐구하고 해결책을 생성한 뒤 정착합니다. 둘은 학습자가 생성한 시도(실패한 것까지)가 [[prior-knowledge|선행 지식을 활성화하고]] 교수로부터 배울 준비를 시킨다는 전제를 공유합니다. AI 시대의 PF [[research-methods-aied|연구]]는 AI가 탐구를 단락시키지 않으면서 어떻게 비계를 떠받쳐야 하는지를 예리하게 합니다. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]는 문제 탐구와 해결책 생성을 통해 고군분투를 보존하는 AI 설계 원칙을 도출합니다. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]는 LLM 튜터가 답을 주지 않고 여러 번의 시도를 이끌어내도록 조종될 수 있음을 보여 줍니다. [[lukesova-clue-before-correction-2026|clue-before-correction]] 과업은 학습자가 추론을 계속하게 하는 단서 기반(대 직접적인) 비계를 예시합니다. 이것들은 탐구와 PF를 AI가 지속 가능한 학습이 형성되는 [[desirable-difficulties|생산적 고군분투]]를 제거해서는 안 된다는 더 넓은 명제와 연결합니다.
 
 야외 현장 환경에서 그 같은 명제는 공간적으로 변합니다. GenAI는 학습자가 근거를 만나기 전에 무엇을 알아차릴지를 미리 구조화할 수 있으므로, 관찰과 초기 해석이 기록될 때까지 생성된 설명을 주지 않는 현장 우선 서열이 탐구를 보호합니다([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## 흔한 오해
+
+**"탐구 기반 학습과 AI는 둘 다 탐색적이므로 자연스럽게 맞는다."** 그 적합성은 전적으로 설계에 달려 있습니다. [[generative-ai|생성형 AI]]와 [[llm|LLM]] 도구는 **학생이 질문의 소유권을 지키도록 설계될 때에만** 질문과 탐구를 지원하는 상호작용적 공동 탐구자가 될 수 있습니다. 그렇지 않으면 탐색적으로 보이는 학생은 탐구를 수행하는 것이 아니라 답을 따라가는 것이며, 둘은 밖에서 보면 비슷합니다.
+
+**"탐구 단원에 어떤 AI를 더하든 그것을 개선한다."** AI의 기여는 탐구 자체와 분리되어야 합니다. [[ai-assisted-inquiry-ssi-climate|Gousopoulos(2026)]]는 기후 연구에서 세 집단 설계로 이를 수행했습니다. AI 지원 탐구는 탐구만 한 동료들보다 **의사결정(d = 0.69)**에서 더 많이 향상되었고, 증거는 접근법의 일반적 우월성이 아니라 특정 결과에 자리했습니다.
+
+**"탐구는 정의상 비구조적이다."** 교수자는 스캐폴딩하며, 구조는 내용 전달이 아니라 질문 설계와 성찰 주기에 있습니다. 스캐폴드를 제거한다고 탐구가 더 실제적이 되지는 않습니다. 스캐폴드가 없는 것이 될 뿐입니다.
+
+**"학생이 흥미를 가지면 학생 주도 질문은 잘 형성될 것이다."** 다룰 수 있는 질문을 생성하는 것이 바로 개발 중인 기술이며, 그래서 좋은 질문을 제공하는 시스템은 그 활동이 가르치고자 존재하는 탐구 기술을 대신 수행한 것입니다.
 
 ## 연결된 개념
 

@@ -1,7 +1,7 @@
 ---
 title: 학생 시뮬레이션
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-10T14:20:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,7 @@ AI 매개 근사는 이 페이지가 신경 쓰는 질문을 날카롭게 합니
 반대의 실패도 일어납니다: 눈을 가린 연구에서 전문가 주석자들은 196개 중 164개(83.7%)의 LLM 생성 Java 제출물을 인간이 쓴 것으로 잘못 분류하여, 시뮬레이터의 오류가 정품의 것과 기능적으로 구별되지 않을 수 있음 — 그러나 실제 오류와의 정렬은 문제 난이도가 오르면서 떨어졌습니다([[simulating-students-java-programming-errors-llms|Keramati 외(2026)]]).
 
 생성을 예측된 행동 모형에 조건화하는 것은 미세 조정 없이도 작동합니다: 훈련 없는 프레임워크가 [[knowledge-graph]]로부터 각 학생의 인지 원형을 구축하고 빔 탐색 후보를 그것에 대해 점수화하여, 시뮬레이션 정확도의 100% 향상을 보고합니다([[simulating-students-diverse-cognitive-levels-2025|Wu 외(2025)]]). 그 품질은 학생의 인지 수준과 함께 오르므로, 더 약한 학습자는 시뮬레이션하기 어려운 경우로 남습니다.
+- **하나처럼 행동하는 대신 학습자를 예측하기.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]]는 시뮬레이션을 3인칭 예측으로 재구성했습니다. 학습자의 이력으로 구축한 학생 모형이 사전 분포를 제공하고, 추론된 학습자 상태가 다음 행동을 제한하며, 시뮬레이션된 능력 분포는 Wasserstein-1 거리에서 실제 분포보다 2.4배에서 8.4배 더 가깝습니다.
 
 CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링합니다 — ICAP 깊이 퍼셉트론이 각 상태 갱신의 크기를 정하고 진화적 갱신이 최근접 발달 영역 반경 안에 머물러, 정적 에이전트가 0.45에 도달하는 곳에서 R²LC = 0.92에 도달하고 ICAP 모듈 없이는 0.58로 붕괴합니다([[cogevolution-student-cognitive-evolution-agent-2026|Zhang 외(2026)]]).
 
@@ -104,6 +105,8 @@ CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링�
 
 교수법을 평가하는 것 너머로, 시뮬레이션된 학생은 **AI 시스템 자체를 감사하는 시험 장치**로 기능합니다 — AI가 실제 학생을 만지기 전에 다양한 학습자 프로파일에 걸쳐 어떻게 행동하는지 탐색하는 통제된 방식. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 외(2026)]]가 이것을 설명합니다: 세 개의 LLM으로 4,500개의 합성 학생 비녜트를 생성하여 현재 [[llm|대규모 언어 모형]]이 처방적 [[learning-analytics]] 추천자로 기능할 수 있는지 감사하고, 학생 필요에 대한 제한된 민감성과 날카로운 모형 간 비일관성을 발견했습니다. 시뮬레이션된 집단을 사용해 AI의 권고를 스트레스 시험하는 것은(튜터를 훈련하거나 평가하는 것만이 아니라) 이 패러다임의 커지는 역할이며, 감사가 학습자 유형에 걸친 차등 대우를 표면화하려는 것일 때 [[ai-ed-evaluation|AI 교육 평가]]와 [[equity-in-ai-education]]과 밀접하게 묶여 있습니다.
 
+더 날카로운 타당성 검사는 모형이 애초에 인간의 *선택*을 재현하는지를 묻습니다. 적응된 자기주도 학습 게임에서 다섯 개의 최전선 모형은 단일 해법을 활용한 반면 인간 참가자 175명은 여러 목표에 걸쳐 탐색했으므로, 학습자를 대신하는 모형은 시뮬레이션이 재현하려고 존재하는 행동을 포기했습니다([[llm-goal-selection-self-directed-learning-2026|Molinaro et al. (2026)]]).
+
 시뮬레이션은 학습자의 선택을 사전 시험할 수도 있습니다: [[simulating-learner-task-selection|Noh 외(2026)]]는 두 개의 실제 교습 데이터셋에 Additive Factors Model과 베이지안 [[knowledge-tracing]]을 적합하고 1,000명의 시뮬레이션된 학습자가 여덟 가지 전략 아래 기능을 선택하게 하여, 위험 회피 규칙이 다른 것들의 약 서른 배의 과잉 연습을 만들어 내고 숙달 바로 아래 제약이 그것을 1.8×로 줄였습니다.
 
 두 번째 감사 기록은 [[metacognition|메타인지]]적이고 정의적입니다. [[meds-math-education-digital-shadows-2026|MEDS(Esposito 외, 2026)]]는 28,000개 기록의 데이터셋입니다 — 14개 [[llm|모형]] 각각에 2,000개의 합성 페르소나, 모두가 인간 페르소나와 기반 조수 둘 다로 실행됨 — 이 18개의 고등학교 [[problem-solving|수학 문제]]에서의 정확도를 학습자가 대신 서는 자들이 보고할 [[self-report-measures|자기 보고]] 신뢰와 [[self-efficacy]] 및 [[anxiety-and-stress|수학 불안]] 점수와 나란히 기록합니다. 그 감사 신호는 보정 간극입니다: Qwen 계열과 Ministral 3B는 정확도가 0.55 근처에 머무는 동안 0.90을 넘는 신뢰를 주장했고, Grok 4.1 Fast, DeepSeek Chat, 여러 Mistral Small 변형은 과소 신뢰였으며, Ministral 14B와 Anita 24B는 합리적으로 정렬된 채 남았습니다. 동일한 실행은 충실도의 더 조용한 실패를 노출합니다: 인간 모드 페르소나는 넓고 그럴듯한 점수 분포를 산출했지만, 기반 조수들은 거의 동일하고 자신만만하며 불안이 낮은 답을 반환했습니다 — 시뮬레이션된 학습자가 아니라 기본적 자화상. 이것은 위의 추천자 감사를 모형이 자신의 능력과 정서에 대해 무엇을 주장하는지를 탐구함으로써 확장하고, 예상 밖의 방향에서 이 페이지의 타당성 경고를 날카롭게 합니다: MEDS 페르소나가 구성상 가중치가 부여되어 실제 인구에서 표집되지 않으므로, 저자들은 이 데이터셋을 프롬프트 조건화된 [[generative-ai|GenAI]] 행동을 감사하기 위한 관찰 자원으로 제시하고 실제 [[student-experience|학생 데이터]]의 대용물이 아닌 것을 명시합니다.
@@ -115,6 +118,12 @@ CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링�
 2026년 내구 기술 작업은 시뮬레이션의 평소 방향을 뒤집습니다. 학생을 시뮬레이션하여 시스템을 감사하는 대신, 시스템이 학생을 평가하기 위해 *동료들*을 시뮬레이션합니다: Executive LLM이 30분 집단 과제에서 모든 AI 동료의 발화를 생성하고, 채점 루브릭을 쥐며, 표적 기능이 나타날 기회를 만들도록 대화를 조종합니다([[durable-skills-measurement-ai-teammates-2026|Globerson 외, 2026)]]). 188명 참가자의 373개 대화에 걸쳐, 기능 일치 조종은 프로젝트 관리에 92.4%, 갈등 해결에 85%로 평가 가능한 증거를 높여 제약 없는 독립 에이전트보다 유의하게 높았고, AI 평가자는 자신들의 평가자 간 카파가 0.45–0.64에 불과한 두 명의 인간 평가자에 대해 보정되었습니다 — 이는 시뮬레이터의 상한이 인간이 그 구인에 대해 도달할 수 있는 합의에 의해 정해진다는 유용한 상기입니다.
 
 시뮬레이터에 대해 훈련하는 것은 또한 이동할 수 있습니다: 시뮬레이션된 학생에 대해 오프라인으로 훈련된 TutorLoop의 강화학습 에이전트는 재훈련 없이 새로운 실제 학습 과제로 변경되지 않은 채 전이되어(N = 187), 더 희소하지만 더 잘 타이밍 맞춘 되먹임이 더 밀집한 되먹임을 능가했습니다([[tutorloop-sensor-cognitive-feedback-2026|Xu와 Zhang, 2026)]]).
+
+## 흔한 오해
+
+- **"LLM 학생은 충분히 좋은 대리물이다."** **시뮬레이션은 가장 쉬운 학생들을 덮으며 검증된 것은 거의 없습니다**. LLM 학생을 지도한 **교사 열두 명**은 **지나치게 복잡한 언어, 결여된 정서**와 실제 학습자와의 다른 이탈을 보고했습니다. 대리 모델은 다루기 쉬운 사례를 모형화합니다.
+- **"지식 결손을 가진 시뮬레이션된 학생은 그 결손을 가진 학습자처럼 행동한다."** Mistral-7B에서 **겨냥한 지식 구성요소 16개를 억제하자 정확도가 10% 망각 비율의 약 0.75에서 40%에서 0.5 아래로** 떨어졌고, 기저 모델은 유지되었습니다. 그 저하는 설계된 것이며, 그것이 이를 모방이 아니라 통제된 조작으로 만듭니다.
+- **"페르소나 안정성은 모델 선택의 문제다."** 그것은 **상호작용 설계의 문제**입니다. **다섯 개의 LLM과 세 가지 프롬프트 설계, 네 가지 ADHD 강도 페르소나를 교차**했을 때, 스크립트된 차이는 모델이 아니라 프롬프트 설계를 따랐습니다. 더 나은 모델을 고르는 것은 불안정한 페르소나를 고치지 못합니다.
 
 ## 연결된 개념
 
@@ -135,6 +144,9 @@ CogEvolution은 정적 페르소나가 아니라 인지 역동성을 모델링�
 - [[teacher-role]]
 
 ## 연결된 문서
+
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: 충실한 학생 시뮬레이션을 위한 역할극에서 학습자 행동 모형화로
+- [[llm-goal-selection-self-directed-learning-2026]] — 자기주도 학습 과제에서 언어 모형의 목표 선택은 인간과 다르다
 
 - [[tutorloop-sensor-cognitive-feedback-2026]] — 시뮬레이터 훈련 강화학습 튜터가 새로운 실제 과제로 오프라인 전이되었다(Xu와 Zhang 2026)
 

@@ -1,7 +1,7 @@
 ---
 title: 신경다양성
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 - **도구는 잘못되어서가 아니라 인식론적으로 배제할 수 있습니다.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]]은 영어권이고 서구 중심인 훈련 데이터가 비패권적 존재 방식들을 소외한다고 주장하며, 그 비판의 중심에 장애 학습자들의 상황을 놓습니다. 이는 "포용적인" AI가 여전히 누구의 지식이 인정되는지를 부호화할 수 있다는 경고입니다.
 - **행동 신호는 학습자를 모르는 시스템에 의해 읽힙니다.** [[learning-analytics]]과 [[student-modeling]]에서 [[student-engagement|참여]], 어려움, 주의의 해석은 규범적인 반응 패턴을 전제합니다. 그 가정에 대한 공정성 증거는 [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]]를 보십시오.
 - **의존은 학습자의 실패가 아니라 설계의 산출물입니다.** 위의 의존 경로를 감안하면, 어떤 AI 기능에 대해 던져야 할 질문은 그것이 그 과제가 이루어지게 하려는 바로 그 고차원 과정을 대체하는지 여부입니다. 이것이 Seung and Basham이 학습장애에 대해 짚는 요점입니다.
+- **탐지기 기반 절차는 정당한 수용 조치 사용을 억제할 수 있습니다.** 언어 기술이 신경다양성 학습자에게 효과적인 수용 조치로 기능하는 곳에서, 전면적 금지나 정당한 사용을 억제하는 탐지기 기반 절차는 평등 고려를 제기합니다. [[ai-detection|탐지]] 문헌이 기록한 무효화된 위법 사례는 자폐 스펙트럼 지원 프로그램의 학생과 관련되어 있었습니다([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 
 ## 증거가 얇은 곳
 
@@ -79,6 +80,12 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 ## 연결
 
 신경다양성은 [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], [[equity-in-ai-education]]와 연결됩니다. 이는 AI가 [[student-experience]]을 위해 어떻게 배치되는지와 평가와 리터러시 프로그램이 인지적 변이에 걸쳐 공정하도록 어떻게 설계되는지 양쪽에 정보를 줍니다. 이 발견들이 다른 학습자 집단, 즉 언어, 성별, 사회경제적 지위, 지리와 나란히 어떻게 놓이는지는 [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]]를 보십시오.
+
+## 흔한 오해
+
+- **"신경다양성 연구는 AIED의 변두리다."** 이 분야는 [[generative-ai|생성형 AI]]를 중심으로 **재편되었습니다. 40개 연구 가운데 15개**가 그것이며, 몰입형 형식이 11개로 두 번째입니다. 문헌은 안정된 질문을 중심으로 축적되기보다 기술을 따라 움직였습니다.
+- **"난독증을 위한 AI가 많을수록 더 나은 지원이다."** [[dabaghi-ai-dyslexia-education-review-2026|난독증을 위한 AI에 관한 학제 간 검토(Dabaghi, D'Urso and Sciarrone, 2026)]]는 **2018년부터 2024년까지 72개 연구**를 다루며 AI가 매우 넓은 목적 범위에서 사용됨을 발견합니다. 적용의 폭은 그 가운데 어느 하나에 대한 효과의 증거가 아닙니다.
+- **"수용 조치는 신경다양성 학습자에게 맞는 틀이다."** [[neurodivergent-computing-students|신경다양성 컴퓨팅 학생 24명과 신경전형 또래 20명을 대상으로 한 설문]]과 네 건의 심층 인터뷰는, 필요가 진단 이후 부여되는 개별 조정이 아니라 **일반적 설계 요구사항**(구조화된 과제, 작고 일관된 팀, 명시적 역할)임을 발견했습니다.
 
 ## 연결된 개념
 
@@ -95,6 +102,8 @@ AI 시대에 이 규정은 슬로건이 아니라 하나의 설계 시험이 됩
 - [[student-modeling]]
 
 ## 연결된 문서
+
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 탐지기 기반 절차는 정당한 수용 조치 사용을 억제할 수 있다
 
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: 고등교육의 신경다양 학생들을 위한 디지털 보조 기술에 관한 범위 고찰
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 장애를 지닌 학생들을 위한 AI에 관한 연구 29편, 그리고 범주에 따라 달라지는 효과

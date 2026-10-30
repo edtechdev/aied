@@ -1,7 +1,7 @@
 ---
 title: 자기결정이론
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ SDT는 점점 더 학습자 대상 및 교수자 대상 AI 시스템 모두에 �
 
 대비되는 교실 결과는 그 필요들이 함께 움직이지 않는다는 것을 보여 줍니다. 2,464명의 중학교 1학년 학생들 사이에서, ChatGPT가 지원하는 역량 기반 학습은 자율성 지지와 유능감 충족을 높였으면서도 저품질 동기 프로파일의 비중을 더 크게 늘렸고, 관계성 충족은 AI가 아닌 역량 기반 학습보다 약했습니다([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
+자율성이, 용이함이 아니라, 여기서 동기 향상을 떠맡았습니다. 세 갈래 [[rct|RCT]]는 학습자가 자기 해결책을 만들어 가도록 유지한 힌트 보류 튜터만이 내재적 동기를 높였으며(2.82 대 2.42), 답을 제공하는 무제한 ChatGPT는 그렇지 않았다는 것을(2.64, p = .076) 발견했습니다([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+
 구성적(배열적) 검증이 그 논점을 날카롭게 합니다. 498명의 의학 학부생 사이에서, GAI 사용은 필요 충족과 약하게만 연관되었고(β = 0.155) 높은 참여에 불필요한 것으로 드러났으며, 유능감 필요 충족이 가장 강한 배열에서의 핵심 조건이었습니다([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
 **학습 분위기에서 AI 사용으로 향하는 이중 경로.** [[dual-ai-learning-pathways-sdt-2026|Shen and Arunrugstichai (2026)]]는 SDT를 행동적 참여의 훅 모형과 통합하여, GenAI 사용이 건설적 지원에서 강박적 의존에 이르기까지 하는 이유를 설명합니다. 서로 다른 고등학교 배경과 현재 맥락(중국과 태국)을 가진 **대학생 508명**의 횡단적 설문 자료에서, **고등학교 압력 대 자율성 지지**에 대한 회고적 보고는 학생들이 대학에 들어와 따랐던 두 경로 가운데 어느 쪽인지를 차별적으로 예측했습니다 — 하나는 건설적이고 자율적인 GenAI 사용으로 향하고, 다른 하나는 강박적 의존으로 향합니다. 결과는 횡단적 다집단 분석에 걸쳐 일관되었습니다. 이 모형은 SDT 동기 과정을 AI가 지원하는 학습의 지각된 질에 연결하여, 자율성 지지를 학생을 의존적이 아니라 생산적인 AI 사용으로 이끄는 수단으로 틀짓습니다.
@@ -61,6 +63,12 @@ SDT는 점점 더 학습자 대상 및 교수자 대상 AI 시스템 모두에 �
 ## 관련 개념과의 연결
 
 SDT는 [[motivation]]를 그것의 상위 구인으로 하여 직접 연결되며, 감정을 인식하는 AI 설계를 위해 [[affective-computing]]과 [[affective-tutoring]]에, 그리고 학습자가 AI가 매개하는 환경을 어떻게 경험하는지에 대해 [[student-experience]]에 연결됩니다. 이론의 자율성에 대한 강조는 [[self-regulated-learning]]에 연결되며, 그것의 유능감 차원은 [[self-efficacy-tutoring-learning]]과 [[teacher-ai-competency]]에 연결됩니다. SDT는 필요 지지적 설계가 AI를 사용하도록 교육자들을 준비시키는 데 전이 가능한 원칙이기 때문에 [[professional-training]]과 [[educational-development]]에 특히 관련됩니다.
+
+## 흔한 오해
+
+- **"동기의 유형은 동기의 양보다 덜 중요하다."** 1년간의 연구는 **시간에 걸쳐 안정적인 세 가지 동기 프로파일(무관심, 발달 중, 자기결정)** 을 발견했으며, **자기결정** 프로파일에 도달한 학생들이 **가장 큰 [[ai-literacy]] 향상**을 보였습니다. 동기의 질이 학습을 예측했으며, 프로파일들은 단순히 위쪽으로 표류하지 않았습니다.
+- **"자율성 지지는 구조를 없애는 것이다."** SDT의 메커니즘은 자율성, 유능감, 관계성이 함께 있는 것이며, 종단적 증거는 그것들을 충족하는 것이 향상을 단지 동반한 것이 아니라 예측했음을 보여 줍니다. 유능감 지지 없는 자율성은 허용이며, 이론의 조건을 충족하지 못합니다.
+- **"챗봇이 세 가지 필요를 자동으로 제공할 수 있다."** 한 연구는 ChatGPT가 언어 학습에서 자율성, 관계성, 유능감을 지원할 수 있다는 것을 발견했습니다. 그것은 속성이 아니라 가능성입니다. 주어진 상호작용이 그 필요들을 지지하는지는 그것이 어떻게 사용되는지에 관한 경험적 질문입니다.
 
 ## 연결된 개념
 
@@ -91,3 +99,4 @@ SDT는 [[motivation]]를 그것의 상위 구인으로 하여 직접 연결되�
 
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAI 사용은 필요 충족과 약하게만 연결되며 높은 참여에 불필요하다(He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — 교수자–AI 협업에서 업무 참여로의 이중 경로, 디지털 역량에 의해 조절됨
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 힌트 보류가 답 제공이 하지 못한 자율성을 보존했다

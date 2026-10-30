@@ -1,7 +1,7 @@
 ---
 title: 문제 기반 학습
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,9 @@ ai_assist:
 
 PBL은 의학 교육(McMaster University, 1960년대)에서 비롯하여 이후 [[medical-education|보건 전문직]], 공학, 그리고 [[k-12]]로 퍼졌습니다. 학습자는 학습 욕구를 진단하고, 자원을 파악하며, 해결책을 구성할 책임을 지는 반면, 촉진자는 그 과정에 비계를 떠받칩니다. PBL의 독특한 주장은 *문제*가 교과 과정의 동력이라는 것 — 다른 곳에서 가르친 내용의 예시가 아니라 내용이 학습되는 맥락이라는 것 — 입니다.
 
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi and van der Merwe (2026)]]는 직접적인 비교를 제시합니다. 문제 기반 대화 열 개는 대화를 지속하며 더 깊은 설명에 이르렀고, 구조화된 절차적 대화 서른 개는 묻고 답하고 고맙다고 말하는 형태로 무너져 끝났습니다.
+
 ## AI 시대의 PBL
 
 지식 기반의 [[research-methods-aied|연구]]는 PBL이 생산적인 AI 통합에 대한 사유의 초점이 되었음을 보여 줍니다.
@@ -53,6 +56,7 @@ GenAI 지원 PBL을 프로젝트 기반 학습과 함께 묶는 3수준 메타 �
 - **영역별 구현.** [[engineering-education|생체공학]]을 위한 PBL 프레임워크는 복제 패키지와 함께 요약과 코딩 지원을 위해 GenAI를 사용합니다([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]). AI 지원 PBL은 [[educational-robotics|로보틱스]]에서 [[computational-thinking|계산적 사고]]를 향상시킵니다([[ai-pbl-computational-thinking-2026|계산적 사고를 위한 AI 지원 PBL]]). genAI 기반 가상 환자는 병력 청취 지도 학습을 지원합니다([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **근거 종합.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]]는 [[human-ai-collaboration|인간-컴퓨터 상호작용]] 프레임워크 안에서 PBL에서의 AI에 관한 교수자의 참여에 대한 50개 연구(2015–2024)를 [[meta-analysis-systematic-review|체계적으로 검토]]합니다.
 - **시나리오 기반 PBL에서의 GenAI.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]]는 보건의료 교육에서 GenAI에 관한 체계적 검토에서 시나리오 기반 접근법들 가운데 문제 기반 학습을 포함하며, [[prompt-engineering|프롬프트 설계]]가 교수 명세로 기능하고 하이브리드 인간-AI 협업이 완전 자동화된 접근보다 우수하다는 것을 발견합니다. 이 검토는 생성된 내용이 교수 프레임워크와 더 강하게 조화해야 하고, PBL 맥락에서 더 재현 가능한 프롬프트 관행이 필요함을 부각합니다.
+
 - **AI는 튜터의 지식 전달은 수행할 수 있지만 집단 학습의 사회적 조절은 하지 못합니다.** 4주간의 약리학 준실험에서, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]]는 AI 매개 PBL이 촉진자 주도 집단의 학업 성취 이득과 맞먹었으며(집단 간 p = 0.474), 촉진자 주도 집단은 집단 역학(26.51 대 24.74, p = 0.035)과 비판적 사고(14.75 대 13.09, p < 0.001)에서 이점을 유지했습니다.
 
 ## PBL과 관련 교수법
@@ -66,6 +70,12 @@ PBL은 산출물 생산보다 과정, 협업, 드러난 이해를 전면에 내�
 ### 생산적 실패와 PBL
 
 [[productive-failure|생산적 실패(PF)]]는 PBL의 [[constructivist]] 핵심 — [[learners]]가 교수에 앞서 문제에 참여한다는 것 — 을 공유하지만 구조는 다릅니다. PF는 교수를 의도적으로 주지 않고, 학습자가 해결책을 생성하도록 고군분투한 *이후*까지 비계를 떠받치지 않는 반면, PBL은 촉진을 내내 내장합니다. AI 시대의 PF 문헌은 AI가 문제 기반 환경 안에서 어떻게 행동해야 하는지를 직접 알려 줍니다. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]는 AI가 PF의 여러 단계에 걸쳐 비지시적 지원과 함께 [[desirable-difficulties|생산적 고군분투]]를 보존해야 한다고 보여 줍니다. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]는 [[llm]] [[intelligent-tutoring|튜터]]가 답을 주지 않고 여러 해결 시도를 이끌어내도록 조종될 수 있음을 보여 줍니다. [[rhaimi-productivemath-2025|ProductiveMath]]는 AI를 사용하여 고품질의 PF/PBL식 문제를 설계하는 것을 돕습니다. AI가 언제 문제를 주고, 힌트를 주고, 답을 주어야 하는가라는 설계 질문은 두 [[pedagogy|교수법]]에 공통됩니다.
+
+## 흔한 오해
+
+- **"PBL 성과는 프로젝트 기반 학습 성과와 함께 통합되어야 한다."** 3수준 메타분석이 **산출물과 해결책 수행을 별도의 모형**에 두는 이유는 그것이 학습자 자신의 추론이 아니라 **인간-AI 협업**을 측정하기 때문입니다. 둘을 합치면 공동으로 생산된 산물을 학생의 공으로 돌리게 됩니다.
+- **"협업 이득은 AI 사용의 부작용이다."** 한 연구는 더 높은 지각된 협업적 문제 해결(**M = 3.62 대 3.05, d = 0.88**)과 공유된 문제 해결(**3.40, d = 1.02**)을 발견했으며, **가장 큰 상호작용 효과는 공유된 지식 구성과 사회적 규제**에 나타났습니다. 이는 설계가 예측하는 협업 과정 차원입니다. 메커니즘은 도구가 아니라 구조화된 협업입니다.
+- **"AI를 활용한 PBL은 주로 촉진자의 시간을 절약한다."** 측정 가능한 이득은 집단 구조가 그것을 위해 설계될 때만 존재하는 차원의 과정 품질에 있습니다. 공유된 지식 구성을 구조화하지 않고 AI를 더하는 PBL 구현은 같은 효과를 기대해서는 안 됩니다.
 
 ## 연결된 개념
 

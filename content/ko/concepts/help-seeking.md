@@ -1,7 +1,7 @@
 ---
 title: 도움 요청
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -86,9 +86,13 @@ ai_assist:
 
 - **지연된 힌트 이용 가능성** — 힌트(특히 바닥 힌트)에 접근하기 전에 최소 참여 시간이나 해결 시도를 요구하는 것.([[lak2026-hint-button-unproductive-use]])
 - **'것인지 아닌지'에서 *어떻게*로** — 핵심 설계 질문은 힌트를 전혀 제공할 것인지가 아니라, 생산적 투쟁 원리에 부합하는 방식으로 힌트 전달을 어떻게 구조화할 것인가입니다.([[lak2026-hint-button-unproductive-use]])
+- **메시지 길이는 전달 연구가 실제로 측정한 지렛대입니다.** 실제 프로그래밍 강좌에서 더 긴 LLM 힌트는 다음 제출의 정답 가능성을 낮추고 남은 시도와 재제출까지의 시간을 늘렸으며, 이는 204.9자의 표준편차당, 14,809개의 학생-연습 쌍에 걸친 결과입니다([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). 가독성은 어떤 결과도 거의 움직이지 못했습니다.
+- **같은 강좌 부분의 이전 힌트는 통합 단계에서 더 낮은 성공과 연관되었습니다.** 프로젝트의 이전 단계에 피드백을 받은 학생은 마지막 단계를 95.6% 해결했고, 받지 않은 학생은 98.1%였으며, 로그 오즈 계수는 −1.096이었습니다([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). 저자들은 힌트를 찾는 학생이 어차피 그 지점에서 어려움을 겪을 학생일 가능성이 크다고 보아 이를 해악으로 읽지 않으며, 이는 이 페이지가 제기하는 [[self-regulated-learning|모니터링]] 질문입니다.
 ### LLM 튜터에서의 수용 문제
 
 실제 학생들은 빈번히 [[conversational-ai|챗봇]]의 [[scaffolding|비계]]를 우회합니다 — 반드시 해롭게는 아니지만, 종종 챗봇의 교수법적 틀과 학생 자신의 학습 목표 사이에 불일치가 있기 때문입니다. 따라서 평가 파이프라인은 튜터가 비계를 세우는지뿐 아니라 학생들이 그 비계를 실제로 *수용*하는지를 측정해야 하며, 학생들이 그러리라고 가정해서는 안 됩니다.([[rethinking-scaffolding-llm-tutors]])
+
+- **선택적 도움 버튼은 눌리지 않습니다.** 세 개의 5학년 교실에서 학생들은 자율성을 보호하려고 설계가 일부러 선택적으로 둔 도우미 에이전트를 거의 부르지 않았고, 대신 교사를 불렀으며 그것이 겨냥한 혼란은 지속되었습니다([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ## 도움 요청과 자기조절 학습
 
@@ -111,6 +115,12 @@ ai_assist:
 3. **신뢰를 보정하기 위해 투명성을 사용하라.** AI의 오류 가능성에 대해 경고하는 것은 적절한 도움 요청과 참여를 높일 수 있습니다.([[ai-fallibility-warning-help-seeking]])
 4. **비계가 아니라 수용을 측정하라.** 튜터가 그것을 제공하는지뿐 아니라, 학생들이 실제로 교수법적 틀과 참여하는지를 평가하십시오.([[rethinking-scaffolding-llm-tutors]])
 5. **모니터링과 주체성을 뒷받침하라.** 도움 요청 비계는 [[metacognition]]과 [[self-regulated-learning]]을 강화하여 [[cognitive-offloading|과잉 의존]]을 막아야 합니다.
+
+## 흔한 오해
+
+- **"도움이 필요한 학생은 요청하지 않는다."** 대규모 학부 과목에서 **사전 등록된 실험**이 학업 챗봇을 통해 학생들에게 메시지를 보냈고 **튜터링 및 보충 지원의 수용이 더 높았습니다**. 넛지가 행동을 움직였으므로, 장벽은 의향이 아니라 촉구였습니다.
+- **"도움 요청은 학습에 관한 것이다."** **운영 지원 수요**가 그 가정을 복잡하게 만듭니다. **4,093건의 질의**에서 적어도 **20.4%는 지식이 아니라 제출 대기 상태를 물었습니다**. 도움 수요의 5분의 1이 행정적이었습니다.
+- **"AI 튜터를 사용한다는 것은 자신의 학습을 모니터링한다는 뜻이다."** 생성형 AI 튜터를 사용한 **9학년 학생 98명** 연구에서 상호작용은 **자신의 학습을 모니터링하거나 평가함이 거의 없는 도구적 요청에 지배**되었습니다. 답을 요구하는 것은 이 구인이 뜻하는 도움 요청이 아닙니다.
 
 ## 연결된 개념
 
@@ -135,6 +145,9 @@ ai_assist:
 - [[student-support-and-success]] — 강좌 내 도움 요청을 넘어선 제도적 외부 연락과 지원 배분
 
 ## 연결된 문서
+
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — 실제 프로그래밍 강좌에서 힌트 길이를 다음 제출 정답, 시도 수, 시간에 대해 측정했다
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 아무도 요청하지 않은 도우미 에이전트 (Humburg et al. 2025)
 
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry: LLM을 활용한 펜 기반 상호작용적 제자리 질의응답 시스템
 - [[tutortrace-learner-behavioral-states-2026]]

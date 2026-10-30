@@ -1,7 +1,7 @@
 ---
 title: 온라인 교수와 학습
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ ai_assist:
 - **상시 가용한, 맥락 내장 지원.** 학습자가 직장이나 집에서 공부하는 원격 및 [[adult-learning|성인 학습]] 맥락에서, 강좌에 내장된 24/7 지원은 주요 이익입니다. [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Open University의 AIDA 보조 도구]]는 목적에 맞춰지고 환경 내에 있는 GenAI 지원이 [[student-engagement|참여]]를 높임을(탐색적 시행에서 사용 시간 두 배) 발견했으며, 학생의 96%가 그것을 정식 학습에 원했습니다.
 - **규모 있는 대화형, 대화적 교습.** 검증된 [[intelligent-tutoring]] 기술 위에 세워진 [[conversational-ai]] 교사([[conversational-ai-tutors-framework|유지/변경/중심/연구 프레임워크]])는 인간 교습보다 훨씬 더 규모 있는, 고품질 대화 기반 교습 — 학생의 생각, 질문, [[misconceptions]]를 끌어들이는 — 을 약속합니다.
 - **촉진과 분석.** AI는 [[collaborative-learning|온라인 토론]]과 [[learning-analytics]], 참여 예측, 교사의 주의 배분 지원을 도울 수 있습니다. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova(2026)]]는 LLM 생성 토론 요약이 큰 비동기 포럼에서 항해용 [[scaffolding|비계]]로 기능할 수 있음을 더합니다 — 학생이나 교사에게 요약 업무를 부담시키지 않으면서 학생의 동료 노출과 가교적 사회자본의 네트워크 조건을 넓히는.
-- **위험에 처한 온라인 학습자를 위한 조기 경보 분석.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska(2025)]]는 내용 상호작용 기록에 대한 해석 가능한 [[reinforcement-learning|기계 학습]]이 모듈 수준 진행을 예측하고 대규모 온라인 [[cs-education|프로그래밍]] 강좌에서 중도 이탈("미제출") 결과를 모듈 마감 최대 7–8일 전에 표시함을 보여 줍니다. 온라인 교사에게 참여하지 않는 학생에게 [[teacher-role|개입]]할 구체적 창을 주며, 실패를 사후에야 발견하지 않게 합니다.
+- **위험에 처한 온라인 학습자를 위한 조기 경보 분석.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska(2025)]]는 내용 상호작용 기록에 대한 해석 가능한 [[machine-learning|기계 학습]]이 모듈 수준 진행을 예측하고 대규모 온라인 [[cs-education|프로그래밍]] 강좌에서 중도 이탈("미제출") 결과를 모듈 마감 최대 7–8일 전에 표시함을 보여 줍니다. 온라인 교사에게 참여하지 않는 학생에게 [[teacher-role|개입]]할 구체적 창을 주며, 실패를 사후에야 발견하지 않게 합니다.
 - **접근성과 속도.** AI는 전통적 비용의 일부로 강좌 자료를 생성할 수 있습니다 — MAIC은 MOOC 강좌 제작을 ~\\$25K/60시간에서 \\$2/30분 미만으로 줄였습니다.
 
 ## AI 시대 온라인 교수의 도전
@@ -106,6 +106,7 @@ ai_assist:
 - **능동적이고 상호작용적인 학습.** 학생이 수동적으로 받기보다 계속 하고 생각하게 하는 전략을 선호하십시오 — [[active-learning]], 상호작용적 연습, [[socratic-method|소크라테스식]] 대화. 답을 공급하는 대신 추론을 프롬프트하는 AI는 내구적 학습을 쌓는 생산적 투쟁과 [[desirable-difficulties]]을 보존합니다.
 - **비계가 놓인, 안내된 지원.** 학습자가 진행함에 따라 사라지는 [[scaffolding]]를 쓰고, 학습자가 도구에 의존하기보다 자신의 학습을 직접하도록 [[self-regulated-learning]] 지원을 설계하십시오.
 - **협력적이고 토론 기반인 학습.** 온라인 토론과 집단 작업을 의도적으로 구조화하십시오; [[collaborative-learning]] 활동을 쓰고, AI가 참여할 때는 그 촉진과 또래로서의 역할을 보정하십시오.
+- **역할 설계가 개입이며, 도구가 아닙니다.** 온라인 대학원 강좌에서 [[learners]]와 생성형 AI 파트너에게 순환하는 진행자, 분석가, 논증자 역할을 배정한 결과, 집단 마인드맵 내용 점수가 1-5 SOLO 척도에서 M = 3.65에서 M = 4.59로 올랐고(z = 3.771, p < 0.001), 노드와 가지 수는 통계적으로 평평하게 유지되었습니다([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng 등(2026)]]).
 - **진정한, 과정을 드러내는 평가.** 초안, 구두 변호, 자기 설명, 성찰적 [[eportfolio|포트폴리오]] — 과정을 포착하는 [[authentic-assessment]] 쪽으로 옮기십시오 — 더 AI에 저항하고 진정한 이해를 드러냅니다.
 - **개인화되고 적응적인 경로.** AI 가능 [[personalized-learning|개인화]]와 [[adaptive-learning|적응적]] 활동을 써서 속도와 난이도를 맞추되, 개인화를 표면적(맞춤 예시)이 아니라 깊게(과업 순서 배열, 난이도 보정) 유지하십시오.
 - **사회적 현존과 공동체 형성.** 사회적 현존과 [[collaborative-learning|공동체]] — [[community-of-inquiry]] 프레임워크의 핵심 — 를 동반 AI, 동기 점검, 또래 상호작용을 통해 의도적으로 기르십시오. 온라인 고립이 [[student-engagement|참여]]와 소속의 핵심 장벽이기 때문입니다. AI 시대에 이것은 기계 생성 담화가 누가 "현존"하는지를 복잡하게 만드는 가운데 세 가지 현존(인지적, 사회적, 교수적)을 큐레이함을 의미합니다([[community-of-inquiry]]).
@@ -122,10 +123,21 @@ ai_assist:
 - **AI를 외부 부착물이 아니라 학습 환경에 내장하십시오.** 강좌에 내장된 목적에 맞춰지고 맥락에 맞춰진 보조 도구([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]처럼)는 범용 외부 챗봇을 능가하고 수용도를 높입니다.
 - **AI 촉진을 인간의 신중함 쪽으로 보정하십시오.** 토론을 중재하는 데 AI를 쓸 때는 드물게 개입하는 설정을 선호하십시오([[llm-facilitation-timing-online-discussions|Tsirmpas 등]]).
 - **성인의 삶의 제약에 맞춰 설계하십시오.** 성인과 원격 학습자에게는 모바일 접근, 오프라인 역량, 비동기 가용성을 우선하십시오([[ai-adult-learning-guidelines-dis2026|AI-ALOE 지침]]).
+- **압축 형식은 압축이 아니라 재설계를 필요로 합니다.** 일하는 교사를 위한 6주 비동기 대학원 강좌는 15주 강좌를 압축한 것이 아니라 목적 있는 재설계를 요구하는 제도적 제약이며, AI 대화는 교수자가 인력을 배치할 수 없는 늦은 시간까지 교수적 현존을 나릅니다[[packard-thinking-partner-framework-adult-learners-2026|Packard 등(2026)]].
 - **학생과 교직원과 공동 설계하고, 거버넌스를 쌓으십시오.** 참여적 개발, 고위 후원, 단위 간 협력, 강건한 [[governance]]가 책임 있는 GenAI 채택의 가능 요인입니다.
 - **에이전트가 모든 감독되지 않은 활동을 시도할 것이라 가정하고, 그 가정에서 설계하십시오.** 세 질문 시험은 빠르고 약한 활동을 드러냅니다: AI 시스템이 학생이 자료를 이해하지 않고도 이것을 완수할 수 있는가; 학습을 산출하도록 되어 있는 인지 활동은 무엇인가; 학생이 그것을 수행했음을 보여 줄 증거는 무엇인가. 첫 답이 예이고 나머지 둘이 답하기 어려우면, 문제는 AI 정책이 아니라 학습 설계입니다.
 - **검증을 위험에 비례하게 유지하십시오.** 역량을 인증해야 하는 곳에서는 포괄적 감시보다 쌍둥이 과업, 비동기 구두 변호, 또는 간략한 이해 점검을 선호하고, 그 유연성에 의존하는 학습자를 위해 강좌의 나머지는 유연하게 유지하십시오.
 - **분석을 지원에 쓰고 교수를 대체하지 마십시오.** [[learning-analytics]]을 활용하여 참여를 예측하고 지원을 표적으로 삼되, [[human-in-the-loop-ai|인간 감시]]를 중심에 유지하십시오.
+
+## 흔한 오해
+
+**"온라인 교수는 화면을 통해 전달되는 교실 교수다."** 그것은 별개의 교수법적 장면이며, AI는 그 안에서 다르게 작동합니다. AI 통합 과학교수에 대한 자기보고 TPACK는 캠퍼스 기반 대학교의 최종 학년 학생 교사(**64.0%**)가 원격 교육 대학교(**47.4%**)보다 높았고, 두 환경 모두에서 가장 약한 영역은 교수법이었습니다. 원격 환경은 같은 지원을 받는 것이 아니라 이미 존재하는 준비 격차를 더합니다.
+
+**"강좌에 AI 조수를 더하면 참여가 늘어난다."** 참여는 그 조수가 목적에 맞게 만들어지고 환경 안에 있을 것에 달려 있습니다. Open University의 AIDA 조수는 참여를 높였고(탐색적 시행에서 사용 시간 두 배), 그 설계 조건이 바로 발견입니다. 같은 역량을 외부 도구로 덧붙이면 같은 행동을 끌어내지 못합니다. 강좌 셸에 붙은 범용 챗봇 링크는 연구된 개입이 아닙니다.
+
+**"AI가 수행을 높이므로 학습도 높인다."** 온라인 환경에서도 발산은 교실과 같습니다. [[rct]]는 방어 장치 없는 AI 지원이 연습 수행을 높였지만 지원받지 않는 시험 점수는 *낮췄고*, "답 대신 힌트" 교사는 그 해를 제거했습니다. 온라인 강좌는 비동기 평가에 더 크게 의존하므로, 지원 수행과 비지원 수행 사이의 격차가 타당성이 갈리는 지점입니다.
+
+**"평가 타당성은 채점 정책의 문제다."** 그것은 매체가 만들어 내는 설계 문제입니다. 학습자가 없이도 산출물이 생산될 수 있을 때, 타당성은 그 과업이 학습자가 일을 했다는 증거를 산출하는지에 달려 있습니다. 과업을 재설계하는 것이 이 문제를 다루고, 비행에 대한 처벌을 강화하는 것은 다루지 못합니다.
 
 ## 연결된 개념
 
@@ -176,9 +188,11 @@ ai_assist:
 - [[conversational-ai-tutors-framework]] — 대화형 AI 교사로 가는 길
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Open University에서 AIDA 구현하기
 - [[ai-adult-learning-guidelines-dis2026]] — 성인 학습을 지원하는 AI 기술 설계를 위한 지침
-- [[deeptutor]] — DeepTutor: 에이전트형 개인화 교습을 향해
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: 에이전트형 개인화 교습을 향해
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 혼합 교실의 교사에게 ML 결과를 접근 가능하게 만들기
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — 학생이 개인화되지 않은 인간 녹음 영상보다 개인화된 AI 생성 영상을 선호(Tomlinson 등 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — 온라인 토론 포럼에서의 AI 생성 요약 추동 학습 설계
 - [[ai-training-science-teacher-tpack-distance-2026]] — 캠퍼스 기반 학생 교사가 원격 교육 동료보다 AI 통합 과학교수를 위한 TPACK를 더 높게 보고(64.0% 대 47.4%)
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — 역할 설계가 개입이며, 도구가 아니다
+- [[packard-thinking-partner-framework-adult-learners-2026]] — 일하는 교사를 위한 6주 비동기 대학원 강좌: 압축이 아니라 형식을 재설계하기

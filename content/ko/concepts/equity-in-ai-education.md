@@ -1,7 +1,7 @@
 ---
 title: 형평성
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T08:42:12-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-10-09T08:42:12-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,7 @@ ai_assist:
 - **장애 학습자를 위한 격차 연결:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif 외(2026)]]는 GenAI가 세 대학에 걸친 시각 장애 학부생에게 디지털적, 지리적, 사회경제적 격차를 평평하게 만든다는 것을 발견하며, 포용을 기반시설적 문제이자 문화적 문제로 틀짓합니다. 즉 디지털 형평성 담론을 접근을 넘어 소속, 목소리, 표현으로 확장하는 것입니다.
 
 준비는 선호보다 중요하며, 거부할 권리는 고르지 않게 분배되어 있습니다. 학업적 자신감이 강한 학생은 불이익 없이 AI를 거부할 수 있는 반면, 언어 지원, 접근성 지원, 신속한 피드백이 필요한 학생은 거부를 기회의 상실로 경험하며, 캐주얼 직원은 준비 시간을 줄이되 책임은 줄이지 않는 도구를 채택하라는 압력을 느낄 수 있습니다. 이해할 의무가 훈련, 안전한 기반시설, 명확한 정책 없이 부과되는 곳에서는 그것이 숨겨진 업무량이 되고, 거부는 기술에 대한 저항이 아니라 기관의 준비 부족에 대한 예측 가능한 반응이 됩니다([[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]).
+394편의 생성형 AI 고등교육 연구에 대한 범위 검토에서 형평성과 접근은 메타인지, 윤리, 창의성과 함께 가장 적게 겨냥된 결과에 속했습니다([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 **임대료는 세 가지 통화로 지불되며, 소유한 역량은 졸업생과 함께 간다.** [[rented-self-decoupling-performance-becoming-2026|de Barba(2026)]]는 상업적 도구에 있는 역량이 제공자의 조건에서만 이용 가능하므로, 기관 라이선스가 임대인을 없애기보다 옮긴다고 주장합니다. 접근은 일반적으로 등록과 함께 끝나고, 임대된 역량은 계속 지불할 수 있는 졸업생에게만 남습니다. 그녀는 접근 논쟁이 대체로 놓치는 두 가지 추가 분포를 덧붙입니다. 자기 비용은 적응에 집중되며, 사전 영역 지식이 적은 학습자가 가장 오래 씁니다. 그리고 임대된 기준은 모형의 참조점을 지니므로, 문화적·언어적 참조점이 모형과 다른 학습자의 기준을 더 많이 대체할 것으로 예상됩니다. 같은 도구가 접근을 넓히고 기준을 밀어내는 것을 동시에 하므로, 그녀는 한 과정이 스스로 쌓아야 할 역량을 명명하는 것을 형평성 조치이자 교수법적 조치로 다룹니다.
 
@@ -63,6 +64,7 @@ ai_assist:
 - **[[curriculum-design|교육과정]] 다양화:** 교사는 점점 LLM을 활용해 교육과정 자료를 다양화합니다(Wang 외 2025는 78%가 그렇다고 발견). 그러나 AI가 큐레이션한 독서 목록은 여전히 BIPOC 저자를 과소 대표하며, [[stem-education|STEM]] [[intelligent-tutoring|AI 튜터]]는 서구 중심적 문제 맥락으로 기본 설정됩니다.
 
 - **생성된 이미지는 지배적 시각 규범을 반복하므로, 비판적 사용은 덧붙임이 아니라 하나의 역량이다.** Jiang 외(2026)는 GenAI 이미지 생성이 시각 편향과 같은 지배적 멀티모달 규범을 재현한다고 관찰하고, 이것을 무시하는 멀티모달 평가가 불평등을 자동화하고 재생산할 위험이 있다고 경고합니다. 따라서 제2언어 교사를 위한 그들의 틀은 학생이 편향된 모형 산출물을 탐지하고 평가하고 반론 서사를 만드는 것을 돕는 역량을 요구합니다([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 외, 2026]]).
+- **표상은 학습자에게만이 아니라 증거에도 적용됩니다.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]]는 기술 지원 평가에서의 형평성이 설계를 뒷받침하는 지식의 맥락적 전이 가능성까지 포괄하므로, 자원이 풍부한 환경에서 검증된 체계는 다른 곳에서 검증되지 않은 가정을 지닌다고 주장합니다.
 
 ## 결과 형평성
 
@@ -90,17 +92,20 @@ ai_assist:
 ## 언어적, 문화적, 장애 포용
 
 - **언어:** 대부분의 AI 도구는 영어를 우선하여 [[multilingual-learning|다언어]] 학습자를 주변화합니다. [[genai-linguistic-diversity-academic-writing|학술 글쓰기의 언어적 다양성]], [[structural-silence-underrepresented-language-ai-2026|대표되지 않는 언어]], [[language-learning]] 연구가 이것을 다룹니다.
+- **탐지는 다언어 필기자에게 가장 세게 작동합니다.** 탐지기는 출처가 아니라 텍스트의 예측 가능성으로 분류하므로, 그것이 표시하는 낮은 혼란도(perplexity)와 정형적 밀도는 추가 언어 [[writing-education|글쓰기]]의 특징이기도 합니다. 문서화된 연구들은 GPT 탐지기가 비원어민 영어 화자의 실제 TOEFL 에세이 상당 부분을 오분류했다는 것을 발견했습니다. 기술적 문제이기 전에 차별적 효과의 위험입니다([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
+- **기제는 저자성이 아니라 언어적 세련도입니다.** 비원어민 저작 원고 한 편을 편집하자 탐지기 판정이 양방향으로 움직였습니다. MAGE는 텍스트를 AI로 표시할 가능성이 10.7퍼센트포인트 낮아졌고 LastDE+는 5.8포인트 높아졌으며, 그 이동은 편집자가 얼마나 많이 고쳤는지에 따라 커졌습니다([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong and Kim (2026)]]). 저자성은 변하지 않았으므로, 그 도구들이 읽는 것은 기계의 개입이 아니라 다듬기입니다.
 - **인정이지 단순한 접근이 아닌 것: 형평성 발견으로서의 AI의 문화적 평평함:** 9개월에 걸친 유색인종 중등 학교 도제 다섯 명과의 내러티브 탐구에서, [[gyekye-selves-apprenticeship-2026|Gyekye (2026)]]는 학생들이 공정성을 눈에 보이는 편향의 *부재*와 동일시했음을 발견했습니다 — 정체성 특유의 경험과 문화적 표지가 AI 응답에 표상되지 않는 "문화적 평평함". 그리고 거부(비사용을 제도적 정렬로 읽기)와 협상(AI 산출을 제도적으로 읽히게 만들기)을 통해 주체성을 구성했습니다. 이 연구의 인식 대역폭(Recognition Bandwidth) 개념은 학습자들이 AI 산출 속에서 자신을 볼 수 있는 여유를 명명하고, 기관적 AI 리터러시(Institutional AI Literacy)는 제도적 기대 안에서 AI를 항해하는 능력을 명명합니다. 다섯 명의 학생, 단일 프로그램에 대한 질적 연구입니다. 이 연구의 형평성 기여는 중립성-즉-공정성이 그 자체로 배제의 메커니즘이 될 수 있음을 보여준다는 데 있습니다.
 - **AI 튜터에서 누가 이득을 얻는가 — 탐색적 현장 증거:** 교사가 매개하는 AI 수학 플랫폼의 전 구역 도입에서, [[alam-goblins-math-platform-2026|Goblins (Alam et al. 2026)]]는 IEP를 지닌 학생(+0.122 SD), 영어 학습자(+0.191 SD), 히스패닉 학생(+0.084 SD)에게 비교 집단보다 더 큰 성취 연관성을 발견했으며, 이는 다중 양식 입력과 7개 언어 음성 지원이 참여 장벽을 낮추는 것과 일치합니다. 저자들은 탐색적이고 검정력이 부족한 하위 집단이 접근성 기능이 그 차이를 일으켰음을 확립할 수 없음을 분명히 합니다 — 초기의 가설 생성 신호이지 형평성 발견이 아닙니다.
 - **문화:** [[culturally-relevant-pedagogy|문화적으로 적합한 교수법]]과 [[culturally-aware-aied-community-learning|공동체 중심 AIED]]는 지배적 규범을 부과하기보다 학습자의 문화적 맥락을 반영하는 AI를 요구합니다.
-- **장애와 신경다양성:** [[inclusive-learning|접근 가능한 학습]], [[universal-design-for-learning|보편적 설계]], [[neurodiversity]], [[special-education|특수 교육]] 연구는 AI가 장애가 있는 학습자를 지원하거나 배제하는 방식을 검토합니다. [[neurodivergent-computing-students|신경다양성 컴퓨팅 학생]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[inclusive-learning|접근 가능한 교육 자료]]가 그것을 보여 줍니다.
+- **장애와 신경다양성:** [[accessibility|접근 가능한 학습]], [[universal-design-for-learning|보편적 설계]], [[neurodiversity]], [[special-education|특수 교육]] 연구는 AI가 장애가 있는 학습자를 지원하거나 배제하는 방식을 검토합니다. [[neurodivergent-computing-students|신경다양성 컴퓨팅 학생]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[inclusive-learning|접근 가능한 교육 자료]]가 그것을 보여 줍니다.
 - **언어, 문화, 비용을 함께:** Bashir와 Afzal(2026)은 [[well-being]] AI에서의 공평한 설계를 언어, 문화, 비용이라는 하나의 질문으로 틀짓습니다. 영어 전용 도구는 우르두어나 로마자 우르두어로 고통을 표현하는 학생을 실패시키고, 서구 자료 집합은 지역적으로 두드러진 스트레스 요인을 포착하지 못하며, 값비싼 상업 시스템은 장비가 덜 갖추어진 대학을 더 많이 실패시킵니다([[culturally-aware-student-stress-chatbot-2026|Sukoon]]). 이들의 대응은 낮은 자원 요건으로 호스팅된 API를 통해 접근한 [[open-source]] 다언어 LLM, 이중언어 평가 인터페이스, 검증된 20개 특징 기구로 훈련된 분류기를 결합했습니다. 동시에 훈련 자료가 목표 집단을 대표하지 않으며, "어떤 지역에서는 도구가 있지만 종종 비싸다"고 인정하고, 그 적응이 학생과 함께 검정된 것이 아니라 프롬프트 수준이라는 것을 솔직히 밝혀, 공평한 의도와 입증된 형평성 사이의 간극을 정직하게 서술합니다.
 
 ## 특수 집단과 글로벌 형평성
 
-- **특수 집단:** [[special-education]], [[neurodivergent-computing-students|신경다양성 학습자]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[inclusive-learning|장애가 있는 학습자]]는 AI 시스템 설계에서 필요가 자주 간과되는 집단을 이룹니다.
+- **특수 집단:** [[special-education]], [[neurodivergent-computing-students|신경다양성 학습자]], [[dyslexlens-dyslexic-learners-ai|난독증 학습자]], [[special-education|장애가 있는 학습자]]는 AI 시스템 설계에서 필요가 자주 간과되는 집단을 이룹니다.
 - **글로벌 사우스 관점:** [[suacode-african-students-motivations|아프리카 학생 동기]], [[connected-ai-lesson-planning-vietnam|베트남 AI 수업 계획]], [[pre-service-science-teachers-ai-perceptions-2026|가나 교사 수용]]은 서구 중심적 AIED 연구에 종종 부재하는 글로벌 사우스 관점을 제공합니다. 기관 수준에서는 [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 외(2026)]]가 나이지리아 대학 45곳에 걸친 AI 통합이 거버넌스 유형이 아니라 기관 연령과 지리에 의해 추동되며, 연결이 강한 기관이 이점을 복리로 쌓게 하는 네트워크 유대를 보여 준다는 것을 발견합니다. 즉 형평성 간극이 개인의 접근뿐 아니라 구조적으로 재생산된다는 증거입니다.
 - **글로벌 역량:** 증거는 생성형 AI의 혜택이 국가와 기관에 걸쳐 고르지 않게 분배되는 방식을 문서화하며, [[ai-lifelong-learning-policy|AI와 평생학습 정책]]은 구조적 사회경제적 경사를 다룹니다.
+- 72편의 고등교육 평가 연구에 대한 PRISMA 고찰은 증거 기반이 지리적으로 집중되어 있음을 발견했습니다. 호주와 영국이 72편 가운데 31편을 함께 제공했고, 남아메리카에서 확인된 연구는 없었습니다([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).
 - **장애와 글로벌 사우스의 교차:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif 외(2026)]] — 팔레스타인 대학 세 곳에 걸친 시각 장애 학부생 21명에 대한 [[qualitative-research|질적]] 사례 연구 — 는 GenAI가 디지털적, 지리적, 사회경제적 격차를 연결하는 동시에 [[technology-acceptance-model|기술 수용 모형]]을 장애 맥락으로 확장하며, 그곳에서 [[usability-research|사용성]], 경제성, 접근성이 상호 강화된다는 것을 보여 줍니다.
 - **컴퓨팅에서의 성별 형평성:** 형평성 지향적인 [[generative-ai|GenAI]] 활용은 여전히 탐구되지 않은 채 남아 있습니다. [[all-girls-genai-makerspace-gender-equity-2026|유럽의 여학생 전용 GenAI 메이커스페이스 이니셔티브]]는 두 개의 GenAI 도구를 여성주의 교수법과 결합하여, 여아의 컴퓨팅 참여에 나타나는 지속적인 성별 불평등을 다루었으며, 실무자들은 여아의 참여와 몰입을 지원하는 구체적 단계들을 실행했습니다. 이것이 형평성 중심 GenAI 설계의 한 사례입니다. 의도적으로 성별을 부여한 AI는 *개입 그 자체*로 기능할 수도 있습니다. [[ada-female-coded-chatbot-gender-stereotypes-2026|Rücker와 Becker-Genschow(2026)]]는 Ada Lovelace의 인물에 기반한 여성으로 부호화된 [[discipline-specific-aied|영역 특정]] 수학 [[conversational-ai|챗봇]](역할 모형이자 [[intelligent-tutoring|학습 조력자]]로 배치)이 9학년 사이에서 수학 능력과 [[math-education|수학]]을 남성적 영역으로 보는 성별 고정관념적 믿음을 유의미하게 줄였다는 것을 보여 주었습니다. *양쪽* 성별에서, 높고 성별 중립적인 기술 수용과 함께 말입니다. 이것은 표현을 감사해야 할 편향이 아니라 설계의 지렛대로 재규정합니다. 체계적으로 설계된 AI 인물이 [[gender-bias-transfer-llm-writing|성 편향]]을 재생산하는 것을 피하는 데 그치지 않고 반격할 수 있다는 것입니다.
 
@@ -108,10 +113,19 @@ ai_assist:
 
 - **공정성은 덧붙임이 아니라 설계이다:** [[bias-mitigation|편향 완화]]와 공정성을 의식하는 알고리즘은 AI 튜터, 채점자, 추천 시스템에 내장되어야 하며, 정확성과 나란히 형평성에 관해 평가되어야 합니다.
 - **기반시설은 형평성이다:** [[digital-divide|디지털 격차]]와 대표되지 않는 언어 기반시설을 다루는 것은 공평한 AI의 전제이며, 부차적 관심이 아닙니다.
+- **교사 매개 전달은 AI가 닿지 않는 학생에게도 도달합니다.** [[digital-divide|디지털 격차]]가 학생 한 명당 기기 하나를 불가능하게 만드는 곳에서, [[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]는 학생들이 종이와 펜으로 작업하는 동안 교사가 그 풀이를 촬영하고 AI가 개인화된 연습 목록과 오류별 [[feedback]]을 돌려주게 했습니다. 브라질 공립학교 19개 학급에 걸친 군집 준실험입니다.
 - **내용과 평가에서의 표현이 중요하다:** AI가 큐레이션한 자료와 [[automated-assessment|자동화된 평가]]는 다양한 학습자, 문화, 언어, 지식 체계를 반영해야 하며 불이익을 주어서는 안 됩니다.
 - **접근에 지원을 짝지으십시오:** 도구를 제공하는 것은 불충분합니다. 학습자는 혜택을 얻기 위해 기술, 조건, 문화적으로 적합한 [[scaffolding]]이 필요합니다.
 - **형식 교육이 놓치는 독자에게 도달하십시오:** [[ai-literacies-young-adults-2025|공공 서비스 미디어를 위한 AI 리터러시 틀]]은 그렇지 않게 설계하지 않는 한 제공이 계속해서 이미 유리한 사람들에게 도달할 것이라고 주장하며, 형식 교육을 통해 기회가 가장 적은 사람들로 디지털 또는 그 외의 방식으로 주변화된 젊은이들을 지목하고, 보편적 공표가 아니라 표적화된 파트너십과 국가적 도달 범위의 제공을 해결책으로 제안합니다.
 - **정책과 거버넌스:** 기관 AI 정책([[educational-policy-ai]], [[governance]])은 형평성을 지도 원리로 내장해야 합니다.
+
+형평성은 환경적, 계산적 차원도 지닙니다. 계산 집약적 모형에 대한 불평등한 접근은 학생 사이, 그리고 자원이 풍부한 기관과 부족한 기관 사이의 격차를 넓힐 수 있으며, 대형 모형 배치의 상당한 에너지 소비와 탄소 발자국은 고등교육의 지속가능성 목표와 긴장 관계에 놓입니다([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
+
+## 흔한 오해
+
+- **"형평성 문제는 도구에 대한 접근입니다."** **도구의 질도 격차의 일부이며, 접근만이 아닙니다**. [[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo (2026)]]는 **50개의 수학 과제**를 제출하고 사용자보다 도구를 따라가는 질 차이를 발견했습니다.
+- **"하이브리드 인간-AI 튜터링은 격차를 좁히지 못합니다."** **차별화된 인간-AI 튜터링은 배분이 필요를 따를 때 하이브리드 모형이 격차를 좁힐 수 있다는 증거입니다**. 불연속성 차이 연구(**635명** 참가자)는 사전적 튜터링이 **경계값 아래 멀리 있는 학생들에게 집중된, 한계적으로 더 높은 평균 성장(75%, p = .065)**을 보였다는 것을 발견했습니다. 이득은 필요가 가장 큰 곳에 집중되었습니다.
+- **"평균 효과가 형평성 개선 여부를 알려 줍니다."** 요점은 **배분 규칙**이 형평성 결과를 결정했다는 것입니다. 모두에게 똑같이 도움이 되는 개입은 격차를 그대로 두고, 필요에 비례해 돕는 개입은 격차를 좁힙니다.
 
 ## 연결된 개념
 - [[differential-effects-across-learner-groups]]
@@ -179,3 +193,5 @@ ai_assist:
 - [[gurung-hybrid-human-ai-tutoring-2026]] — 학생 필요에 기초해 인간 튜터 역할을 차별화하여 하이브리드 인간-AI 튜터링 개선하기(Gurung 외 2026)
 - [[alam-goblins-math-platform-2026]] — IEP, 영어 학습자, 히스패닉 학생에게 더 큰 탐색적 연관성을 보인 구역 AI 수학 도입(다중 양식·다국어 지원; 인과성은 미검증)
 - [[gyekye-selves-apprenticeship-2026]] — 유색인종 도제들은 공정성을 문화적 평평함과 동일시했습니다. 거부와 협상을 통해 구성된 주체성; 인식 대역폭과 기관적 AI 리터러시
+- [[rodrigues-aied-unplugged-numeracy-2026]] — 교사 매개 전달은 AI가 닿지 않는 학생에게도 도달한다
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 탐지는 다언어 필기자에게 가장 세게 작동한다

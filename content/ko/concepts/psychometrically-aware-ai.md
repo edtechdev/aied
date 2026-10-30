@@ -1,13 +1,13 @@
 ---
 title: 측정심리를 고려한 AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,19 @@ AI 시스템이 점점 더 많이 반응에 점수를 매기고, 난이도를 �
 - **측정 타당도:** 이 개념은 타당하고 신뢰할 수 있는 AI 평가가 어떤 모습인지 정의하는 틀인 [[assessment-validity]]와 [[educational-measurement]]에 연결됩니다.
 - **잠재 구조 타당도:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]]는 측정심리를 고려한 입장이 평가가 LLM에서도 인간과 *동일한 잠재 구성개념*을 측정하는지 확인해야 한다고 보여줍니다. 동일한 도구에서 LLM과 인간의 반응 요인 구조가 다르기 때문에, 높은 점수를 받은 모델조차도 시험이 측정한다고 밝힌 구성개념을 측정하지 않을 수 있습니다. 이는 인간 타당도 증거를 차용하는 모든 AI 평가에 대한 주의 사항입니다.
 - **라벨은 그 이름이 뜻하는 것보다 더 많거나 적게 측정할 수 있다.** AI 리터러시 도구 12개의 구성개념 55개와 문항 272개를 임베딩한 결과, jangle 쌍(같은 라벨, 다른 측정)과 jingle 쌍(다른 라벨, 거의 동일한 문장)이 드러났고, 구성개념 구분이 문항 문장까지 살아남는지 확인하는 사전 수집 점검으로서 r = 0.49의 신뢰도를 복원했습니다([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **결과물에 닻을 내리기를 거부하는 의존 척도.** 반성적, 신중한, 사려 없는, 협력적 사용이라는 네 요인이 800개 응답에서 나왔고 형태가 다른 과제에서도 유지되었으며(CFI = .91), 사용을 좋다 나쁘다로 라벨링하는 대신 과제 국면별 행동을 측정합니다([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **잠재 능력 파이프라인과 표준 설정:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]]는 국가 시험에서 측정심리를 고려한 채점의 구체적인 템플릿을 제공합니다: 루브릭 문항 점수는 결코 직접 합산되지 않고, [[item-response-theory|IRT]] 모델에 입력되어 잠재 능력 추정치를 산출한 뒤 Bookmark 표준 설정 방법으로 숙달 / 숙달에 근접 / 미흡으로 절단하며, 합격은 최소 두 개 문항에서 숙달이고 나머지 하나는 최소한 숙달에 근접해야 합니다. 저자들은 이 파이프라인을 자동 형태로 재현하여(하위 절단점은 7개 이상 루브릭 문항을 맞힐 확률 67%, 상위 절단점은 10개 이상), AI와 인간의 문항 점수를 원시 일치율이 아니라 동일한 의사결정 기준에 대해 비교할 수 있게 했습니다.
+- **균형 지표는 보정된 것처럼 보이기만 하는 모형을 잡아냅니다.** GPT-4o와 Gemini 2.0 Flash에게 학부생 153명의 대화에서 학습 양식 차원을 추론하게 했을 때 중간 정도의 정확도가 나왔으나, 범주별 재현율은 그것이 다수 라벨 예측임을 보여 주었고, 직관형과 총체형 학습자는 과소 식별되었으며, 소수 예시 프롬프팅은 편향을 제거하기보다 때로 증폭했습니다([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi와 Robb (2026)]]).
 
 ### 연결
 
 측정심리를 고려한 AI는 [[educational-measurement]], [[assessment-validity]], [[item-response-theory]], 그리고 [[automated-assessment|Confidence Aware AI Assessment]]의 교차점에 놓여 있습니다. 이것은 [[ai-ed-evaluation]](AI 평가가 신뢰할 수 있는지)에 핵심적이며, [[llm]] 기반 [[automated-assessment]]와 [[automated-assessment|Automated Grading]]에 연결됩니다. 타당성에 대한 강조는 [[limitations-in-aied-research|측정상 한계]]인 [[ai-education|AIED]] 연구에도 해당합니다.
+
+## 흔한 오해
+
+- **"좋은 점수를 내는 모형은 같은 것을 측정하고 있습니다."** **동일한 평가 도구**에서 인간과 LLM의 반응 구조는 **어긋납니다.** 모형은 좋은 점수를 내면서도 그 도구가 의도하는 것과 다른 것을 측정할 수 있습니다. 점수가 일치한다는 것은 관찰이고, 구인 동등성은 구조 수준의 증거를 요구하는 별개의 주장입니다.
+- **"보정은 정확도 수치 하나로 읽어 낼 수 있습니다."** **균형 지표는 보정된 것처럼 보이기만 하는 모형을 잡아냅니다.** GPT-4o와 Gemini 2.0 Flash에게 **학부생 153명**의 대화에서 학습 양식 차원을 추론하게 했을 때 **중간 정도의 정확도**가 나왔고, 그것은 균형 지표 아래에서 다르게 수행되었습니다. 총체적 정확도는 균형 지표가 드러낸 차이를 감췄습니다.
+- **"자동 채점 파이프라인은 심리측정 절차를 재현할 수 없습니다."** 저자들은 확립된 파이프라인을 자동 형태로 재현했고(**하위 절단점은 루브릭 문항 7개 이상, 상위 절단점은 10개 이상을 맞힐 확률 67%**), AI와 인간의 문항 점수를 같은 기준 위에서 비교할 수 있게 했습니다. 절차는 재현 가능했습니다. 구인 질문은 남아 있습니다.
 
 ## 연결된 개념
 
@@ -73,3 +81,5 @@ AI 시스템이 점점 더 많이 반응에 점수를 매기고, 난이도를 �
 - [[razavi-powers-item-difficulty-llm-2026]] — LLM과 트리 기반 기계학습을 활용한 문항 난도 추정
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — AI 리터러시 도구 비교: 55개 구성개념에 걸친 jangle·jingle 짝
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — 데이터 과학 강의에서 학생의 LLM 사용과 AI 생성 문항 난도의 한계
+- [[genai-reliance-scale-problem-solving-2026]] — 문제 해결 중 생성형 AI 의존을 측정하는 검증된 척도(Hou et al. 2025)
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — 범주별 재현율을 확인하니 중간 정확도는 다수 범주 예측이었다(Zamanifard, Goudarzi & Robb 2026)

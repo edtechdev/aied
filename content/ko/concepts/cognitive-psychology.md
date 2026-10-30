@@ -1,13 +1,13 @@
 ---
 title: 인지 심리학
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-09-26T01:51:49-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,8 @@ ai_assist:
 
 인지 심리학은 학습을 내면의 정신적 표상 — 기억에 담긴 개념, 도식, 절차 — 의 변화로 다루는 학습 이론 전통이며, 관찰 가능한 행동의 변화로 다루지 않습니다. 그것의 정보 처리 어휘(주의, 부호화, 인출, 제한된 작업 기억)는 학습 곤란의 진단 언어와 [[intelligent-tutoring]]과 [[knowledge-tracing]]의 토대가 되는 구조를 모두 제공했습니다. 학습자의 내면 상태를 추론하고 그에 적응하는 체계들입니다. 이것은 이 지식 기반 전반에 걸친 [[metacognition]], [[desirable-difficulties]], [[self-regulated-learning]]의 참조 틀로 남아 있습니다.
 
+과학 영상 시청 중 학습자의 EEG에서 이미지를 재구성한 [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]]는 표상 충실도가 검사 수행을 추적한다는 것을 발견했습니다(회귀 계수 0.8481, R² = 0.79). 내적 표상의 측정치가 부호화를 지표화할 수 있다는 직접적인 증거입니다.
+
 ## 핵심 관념들
 
 - **학습은 내면의 정신적 표상의 변화이다.** 인지주의는 학습이 기억 속 지식의 습득, 저장, 재구성 — 개념, 도식, 절차 — 을 수반하며, 관찰 가능한 반응의 변화만이 아니라고 주장합니다. 학습자가 *무엇을 아는가와 인출할 수 있는가*가 중요한 것이지, 그가 단지 무엇을 하는가만이 아닙니다.
@@ -50,6 +52,8 @@ ai_assist:
 ### 인지 부하와 수업 설계
 
 인지 부하 이론(CLT)은 [[learning-design|instructional design]]에서 가장 널리 적용되는 인지주의적 틀입니다. 내재 부하(과제 복잡성), 외재 부하(제시 마찰), 본래적 부하(도식 구축 노력)를 구분합니다. 잘 설계된 AI는 외재 부하를 줄이면서 본래적 처리를 보존해야 하며, 불충분하게 통합된 AI는 셋 모두를 줄여 완성된 과제와 빈 학습을 남깁니다. CLT의 작업 기억 틀짓기는 [[cognitive-offloading]]에 관한 논쟁에서도 중심적입니다. AI가 해로운 외재 부하를 줄이는지, 아니면 학습을 낳는 본래적 처리를 단락시키는지가 그것입니다.
+
+부하는 얼마나 들였는지가 아니라 노력이 어떻게 조직되었는지를 추적했습니다. 생성형 AI로 수업 계획을 설계한 67명의 예비 교사 가운데 질이 높은 집단은 보고된 노력에서 차이가 없었지만(2.85 대 3.26) 정신적 요구(3.09 대 4.03)와 좌절(2.12 대 3.82)은 더 낮다고 보고했습니다([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가정을 재료 자체에 적용하며, 그 처방은 이례적으로 구체적입니다. 학습자는 말과 그림을 함께 볼 때 말만 볼 때보다 더 잘하고, 외재적 재료가 제외될 때, 수업이 하나의 연속된 단위로 제시되기보다 분절되고 학습자가 속도를 정할 때, 대응하는 말과 그림이 가까이 동시에 나타날 때, 해설이 형식적이거나 기계 생성된 것이 아니라 대화체의 친근한 인간 음성일 때 더 잘합니다.
 
@@ -69,6 +73,12 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 2. **학습자를 표상하되 단순히 반응하지는 마십시오.** 구조화된 [[student-modeling]]와 [[knowledge-tracing]]을 AI 대화에 부착하여, 체계가 유창하지만 맹목적으로 반응하기보다 추론된 지식에 적응하게 하십시오.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **작업 기억의 한계를 존중하십시오.** AI UX에 인지 부하 이론을 적용하십시오. 외재 부하(마찰, 과부하된 인터페이스)를 줄이는 한편 모든 인지적 요구를 최소화하기보다 본래적 처리([[desirable-difficulties|productive struggle]], 인출 연습)를 보존하십시오.
 4. **메타인지를 보정하십시오.** 학습자가 언제 외주화할지를 [[metacognition]]가 지배하기 때문에, 보정을 가르치는 것(자신이 보조 없이 실제로 할 수 있는 것을 아는 것)은 과잉 의존에 대한 인지주의적 답입니다([[cognitive-offloading]] 참조).
+
+## 흔한 오해
+
+- **"정신적 표상은 관찰할 수 없으므로 학습에 관한 인지적 주장은 가정일 뿐입니다."** 과학 영상 시청 중 학습자의 **EEG**에서 이미지를 재구성한 연구는 **표상 충실도가 검사 수행을 추적한다**는 것을 발견했습니다(회귀 계수 **0.8481, R² = 0.79**). 내적 표상이라는 인지주의적 전제는 측정 가능하며, 그 측정은 결과를 예측했습니다.
+- **"높은 R²는 표상이 학습을 설명한다는 뜻입니다."** R² = 0.79는 같은 자료에서의 충실도와 수행 사이의 강한 연관입니다. 충실도를 높이면 수행이 높아진다는 개입 주장을 확립하지는 않습니다.
+- **"지식 구성 요소는 편의상의 모형화 허구입니다."** 분해 가능성은 [[knowledge-tracing]]과 [[cognitive-diagnosis]]를 가능하게 하는 것이며, 그 방법들은 이 가정이 성립하는 정도까지 작동합니다. 그것을 허구로 다루면 방법들이 쓸 만한 추정치를 내는 이유를 버리게 되고, 사실로 다루면 적합된 모형이 마음에 대해 말해 주는 것을 과장하게 됩니다.
 
 ## 연결된 개념
 
@@ -100,3 +110,4 @@ Mayer의 멀티미디어 학습 인지 이론(CTML)은 같은 작업 기억 가�
 - [[nie-personavlm-long-term-personalization-2026]] — LLM 학습자 모형화와 기억
 - [[ai-cognitive-partner-co-regulation-learning]] — 공동 규제된 학습에서의 인지적 동반자로서의 AI
 - [[ensemble-cognition-philosophy-ai-education]] — 앙상블 인지: 인간–AI 상호작용으로서의 사고
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 노력의 양이 아니라 노력의 조직이 부하와 좌절을 추적했다

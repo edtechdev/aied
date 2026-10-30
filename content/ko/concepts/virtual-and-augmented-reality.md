@@ -1,7 +1,7 @@
 ---
 title: 가상현실과 증강현실
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 가상현실과 증강현실은 모형이 아니라 **양태**입니다. 학습 환경이 학습자에게 도달하는 계층입니다. 이것이 처음에 모형화되는 것인 [[simulation]]과는 다른 축입니다. 둘은 종종 혼동됩니다. 몰입형 환경이 모의 훈련의 흔한 전달 수단이기 때문입니다. 그러나 둘은 독립적으로 변합니다. 데스크톱 환자 모의 훈련기는 VR 없는 모의 훈련이며, 실제 기기 위의 AR 오버레이는 모의 훈련 없는 VR입니다. 축을 분리해 두는 것이 설계에서 중요합니다. 연습을 위험 없게 만드는 결정과 구현되게 만드는 결정은 다른 결정이며, 둘은 다른 비용, 다른 실패 양상, 다른 증거를 지닙니다. VR/AR은 모의 훈련의 **전달 계층**이며 [[game-based-learning|game-based learning]]의 가까운 친척입니다. 학습의 [[embodied-learning|embodied]] 및 [[situated-learning|situated]] 설명을 작동화하며, [[experiential-learning|experiential]] 및 [[active-learning]] 실천 안에 놓입니다.
 
 AI는 이제 이 양태를 양끝에서 형성합니다. 그것은 몰입형 콘텐츠를 **저작**합니다. [[generative-ai|generative AI]]가 구조화된 자연어 프롬프트를 실행 가능한 AR 또는 VR 산출물로 변환하여, 생산을 제한하던 전문적 프로그래밍 기술을 붕괴시키기 때문입니다. 그리고 그것은 환경에 **거주**합니다. [[agentic-ai|agents]], [[pedagogical-agent|pedagogical agents]], [[rag|retrieved domain knowledge]]이 그 안에서 안내를 제공합니다. 헤드셋을 쓴 동안 학습자가 참고할 수 없는 자료에 뿌리를 두고, 손을 자유롭게 한 채, 실시간으로 제공됩니다.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang and Ju (2026)]]는 어린 EFL 학습자들과 함께 AI-VR 강화 플립드 러닝을 시험하고, 영어 성취, 메타인지적 자기조절, 동기에서 이득을 보고하며, 기술 리터러시가 학습자가 몰입형 요소에서 얻는 이득의 정도를 조절한다고 보고합니다.
 
 ## 이 양태가 더하는 것
 
@@ -71,6 +73,12 @@ VR/AR에 대한 가장 강한 증거는 비교적이고 [[discipline-specific-ai
 몰입형 연습이 대인 및 절차 기술에 쓰이는 곳에서, 제한 요인은 시각적 충실도가 아니라 느껴지는 진정성입니다. AI 기반 간호 모의 훈련에 관한 [[mixed-methods-research|mixed-methods]] 검토(연구 19편, N = 1,253)는 AI가 인지적 지식과 정서적 결과에 효과적이나 복잡한 정신운동 기술에는 일관되지 않음을 발견하고, 그 이유를 명명했습니다. 정서적 공명, 비언어적 단서 인식, 촉각적·물리적 [[summative-assessment|examination]] 차원을 아우르는 **진정성의 격차**입니다. 그것의 실천적 권고는 **단계적 모의 훈련 연속체**입니다. AI는 기초적 의사소통과 병력 청취와 같은 고도로 구조화된 목표에 잘 맞으며, 고급 정신운동과 정서적으로 복잡한 시나리오는 인간 표준화 환자와 임상 실습에 속합니다. 기술적 불안정이 문제를 가중합니다. 음성 인식 지연이 외재적 [[cognitive-offloading|cognitive load]]와 불안을 주입하여, 안정성과 지연을 구현 세부사항이 아니라 설계 레버로 만듭니다.
 
 같은 논리는 현장감이 자동적으로 좋은 것은 아닌 이유를 설명합니다. 멀미, UI 비일관성, 하드웨어 비용, 고르지 않은 기기 접근이 누가 몰입형 환경을 애초에 사용할 수 있는지를 결정합니다. 이것이 이 양태의 [[equity-in-ai-education|equity]] 질문들이 [[accessibility]]과 [[inclusive-learning]]에 분리되어 있지 않고 연결되는 이유입니다.
+
+## 흔한 오해
+
+- **"현상을 느끼는 것이 그것을 이해하는 것입니다."** 한 파일럿에서 학생들은 손 제스처를 통해 파장과 진폭을 슬라이더보다 더 강하게 **느꼈다**고 보고했지만, **그것은 성취가 아니라 지각을 측정했습니다**. 느껴진 감각이 제공물이며, 그것이 이해를 낳았는지는 별개의 시험입니다.
+- **"높은 사용성 점수가 교육용 VR 도구를 검증합니다."** Meta Quest 3로 학생 10명과의 **한 시간 세션**에서 그 연구는 **시스템 사용성 척도상 좋은 사용성과 최소의 모의 훈련 멀미**를 보고했습니다. 사용성과 편안함은 전제 조건이며 둘 다 학습 측정치가 아닙니다.
+- **"학생들의 동의가 제공물의 증거입니다."** **2학년 의료 영상 학생 29명**과 함께, 29명 전원이 **그 제스처가 파장이 무엇인지 "느끼게" 도왔다고 동의했습니다(평균 4.52)**. 느낌에 대한 만장일치의 동의는 경험에 관한 자기보고이며, 제공물 주장에는 학생 자신의 이해에 대한 판단에 의존하지 않는 결과가 필요합니다.
 
 ## 연결된 개념
 

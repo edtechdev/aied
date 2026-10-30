@@ -1,13 +1,13 @@
 ---
 title: 문항반응이론
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-05T08:24:47-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -55,10 +55,19 @@ IRT는 능력(θ)과 문항 모수(난이도, 변별도, 때로 추측)를 반�
 - **계속 진화하는 은행을 위한 분할 정복 보정:** [[bayesian-consensus-irt-item-banks-2026|Jewsbury et al. (2026)]]는 IRT 재보정을 피팅 문제가 아니라 척도(scaling) 문제로 다룹니다. AI 기반 문항 생성과 특성 기반 모수 예측이 은행을 더 크고, 희박하고, 지속적으로 갱신되게 할 때, 갱신마다 전체 반응 이력을 다시 피팅하는 것은 비용이 점점 커집니다; 그들의 *합의 보정(consensus calibration)*은 대신 각 시기를 한 번 보정하고 새로운 시기를 이미 계산된 이전 사후분포들과 결합합니다. 두 가지 특성이 그것을 기존 IRT 분할 정복 작업과 구분합니다: 시기들이 잠재 척도를 공유하지 않으므로 각 시기는 Haebara 기준에 의해(연결 오류를 연결된 사후분포에 담아) *모든 사후분포 추출치에 대해 별도로* 해결하여 기준 척도에 연결되며, 각 시기는 추정된 사전분포를 기여하는 자체적인 계층적 피팅이므로, 사후분포의 단순 곱에서는 그 사전분포를 나누어내고 합의 사전분포를 재설치해야 합니다 — 사전분포가 고정될 때 베이지안 위원회 기계 규칙으로 환원됩니다. Duolingo 영어 시험의 네 분기 시기에 대한 종합 기준에 대해, 사후분포 평균은 r = .998(난이도)과 .991(로그 변별도)에서 일치했고 사후분포 표준편차는 r = .970과 .920에서, 시기별 노출 최하위 3분위에서 가장 큰 약한 과소산포(SD 비율 0.91–0.98)를 남겼습니다. 이것은 AI가 생성한 문항 은행이 만들어내는 제공 조건을 위해 재설계된 IRT 보정입니다.
 - **IRT가 도구 검증에 얼마나 드물게 기반을 대는지:** 교사 AI 리터러시 도구에 대한 평가는 IRT의 사용이 아니라 그것의 부재를 정량화합니다. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]]는 COSMIN과 Terwee et al. (2007)에서 개작된 의사결정 행렬에 대해 33개의 도구를 채점했습니다; 구조 타당성은 강했으며, CFA, PLS-SEM 또는 IRT 모델링을 통해 24개(72.7%)가 A 등급이었으나, 어느 것도 IRT나 Rasch를 주된 증거로 사용하지 않았고, 측정 불변성이나 문항 기능 차이(DIF) 증거를 보고한 도구는 5개(15.2%)뿐이었습니다. 저자들은 검증된 역량을 보고된 자신감과 분리하기 위해 자기평가와 나란히 IRT와 수행 과제를 주장합니다.
 - **연합적 IRT의 인과적 대안.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]]는 IRT와 베이지안 네트워크 학습자 모델이 개입이나 반사실을 표현할 수 없다고 주장하고, 대신 전문가로부터 구조 방정식을 이끌어냅니다; 109명 학생의 적응형 검사 배터리에서 이끌어낸 모델은 예측력이 약간 낮았으나(−277에 대해 −287 시험 로그 우도) 도움에 관한 반사실 질의를 지원했습니다.
+- **같은 척도 위의 대화 하위 과제.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan 외(2026)]]는 튜터가 대화 도중에 던지는 하위 과제를 독립 문항으로 다시 쓰고, 난이도가 문항 텍스트에서 나오는 하나의 공유 1PL IRT 척도 위에 배치하며, 고전 후 비계 제공과 엄밀성 요구라는 이동을 난이도 순서의 감독으로 사용합니다.
+- **기준 정렬 [[benchmark]]는 포화될 수 있습니다.** NGSS 정렬 [[k-12|중학교]] 및 고등학교 과학 세트에서 대부분의 오픈 가중치 모형이 90% 이상을 기록해 고전적 문항 지표가 빈약해졌습니다. 난이도는 높고 변별도는 낮으며 90%를 넘는 사소한 칸이 생겨, 저자들은 약한 문항과 다루기 쉬워진 영역을 구분할 수 없습니다([[llm-benchmark-secondary-science-topics-2026|Schroeder 외(2026)]]).
 
 ### 연결
 
 IRT는 [[educational-measurement]]와 [[assessment-validity]]의 기반이며, [[adaptive-learning]](적응형 문항 선택)과 [[student-modeling]]을 떠받치며, [[psychometrically-aware-ai]](측정 이론에 맞춘 AI 평가)와 [[knowledge-tracing]]에 연결됩니다. 이것은 프로그래밍 평가를 위한 [[llm-difficulty-calibration-programming-exams-2026|LLM 난이도 보정]]에 등장합니다.
+
+## 흔한 오해
+
+- **"IRT는 전통적인 검사 실시를 요구한다."** 능력과 난이도는 **다음 토큰 로짓**에서 복원될 수 있습니다. **학생 능력 θ = z^GOOD − z^BAD**와 **튜터 발화 난이도 d = z^HARD − z^EASY**를 추출해 1PL Rasch 예측기에 결합하면 대화 기반 지식 추적이 IRT 용어로 해석 가능해집니다. 심리측정 틀은 문항 반응뿐 아니라 상호작용 자료에도 적용됩니다.
+- **"대부분의 모형이 통과하는 벤치마크는 좋은 벤치마크다."** 기준 정렬 벤치마크는 **포화**될 수 있습니다. NGSS 정렬 중학교 및 고등학교 과학 세트에서 **대부분의 오픈 가중치 모형이 90% 이상**을 기록해 고전적 문항 지표가 빈약해졌습니다. 포화는 모형이 뛰어나다는 뜻이 아니라 문항이 더는 변별하지 못한다는 뜻입니다.
+- **"문항 난이도는 문항의 내재적 속성이다."** 데이터셋마다 **시험 문항 50개를** 가설 쪽으로 또는 반대로 편집한 인과적 탐침은 **난이도를 높이는 편집이 GSM8K와 BBH-structured에서 평균 정확도를 15.27과 23.88 퍼센트포인트 낮췄다**고 발견했습니다. 난이도는 문항과 모형 사이의 관계이며, 문항이 바뀌면 함께 움직입니다.
+- **"IRT는 학습자 채점에만 쓰인다."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]]는 **사전 검사 고정 문항이 있는 베이지안 계층적 2PL 모형으로 1,686명의 학생을 배치**하는데, 이는 학생을 위한 채점이 아니라 평가 자체를 위한 품질 보증입니다.
 
 ## 연결된 개념
 
@@ -91,3 +100,5 @@ IRT는 [[educational-measurement]]와 [[assessment-validity]]의 기반이며, [
 - [[bayesian-consensus-irt-item-banks-2026]] — 계속 진화하는 IRT 문항 은행의 베이지안 합의 보정 (Jewsbury et al. 2026)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 교사 AI 리터러시 도구에서 IRT/Rasch가 주된 검증 증거로 드물게 사용됨을 보여주는 현장 감사
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI와 인간 튜터링이 동등한 GRE 학습 향상을 낳는다
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — 질문과 튜터링 대화를 위한 통합 반응 프레임워크
+- [[llm-benchmark-secondary-science-topics-2026]] — 기준 정렬 벤치마크는 포화될 수 있습니다

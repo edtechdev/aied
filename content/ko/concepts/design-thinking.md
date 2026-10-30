@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: 디자인 씽킹
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,16 @@ ai_assist:
 ## 관련 개념들과의 연결
 
 AI 교육에서 디자인 씽킹은 [[human-ai-collaboration]]과 깊이 얽혀 있습니다. 생성 도구는 관념화를 넓히는 반면 인간은 인식론적 권위와 [[agency]]을 유지합니다. 효과적이려면 [[scaffolding]]와 단계에 적합한 [[feedback]]에 의존하며, 종종 [[higher-ed]]과 [[k-12]]에서 [[socratic-method|Socratic]] 및 적대적 상호작용을 통해 전달되며, 그 성공은 [[creativity]]을 보존하고 [[human-in-the-loop-ai]] 거버넌스 아래 [[ai-literacy]]를 촉진하는 것으로 자주 틀지어집니다.
+
+## 흔한 오해
+
+**"생성형 AI는 디자인 씽킹의 모든 단계를 가속합니다."** 그것은 관념화를 가속하지만 이후 단계가 의존하는 판단을 저하시킬 수 있습니다. 즉 **초기 관념화에 뛰어나지만 비판 없이 사용하면 설계 고착이나 미적 고정을 일으킬 수 있습니다**. 고착은 빠른 관념화 도구의 특유한 위험입니다. 첫 번째 그럴듯한 방향이 틀이 되고, 하나의 개념에 대한 많은 변형은 더 넓은 탐색 공간이 아닙니다.
+
+**"더 많은 생성된 선택지가 더 넓은 탐색을 의미합니다."** 산출의 폭과 고려의 폭은 다른 양입니다. 서른 개의 방향을 생성하고 첫 번째 설득력 있는 것을 채택한 학생은 한 방향을 탐색한 것입니다. 높은 수용률은 바로 그러한 일의 특징입니다.
+
+**"디자인 씽킹은 단계별로 자동화할 과정입니다."** 그것은 문제를 틀짓고 다시 틀짓는 규율이며, 고착이 바로 그것을 봉쇄합니다. 틀을 검토하지 않은 채 단계를 자동화하면 잘못된 문제에 대해 유능한 산출을 만듭니다.
+
+**"학생에게 동의하는 AI 에이전트는 그들의 설계 추론을 뒷받침합니다."** 여기 문서화된 생산적 사용은 반대 방향으로 갑니다. [[ai-agents-constructive-conflict-design-education-2026|AI 에이전트와의 건설적 갈등]]은 재고를 강제하는 적대적 프롬프팅을 시험합니다. 순응적인 에이전트는 고착을 강화하고, 반대 지향적인 에이전트가 교육적 주장을 지닌 설계입니다.
 
 ## 연결된 개념
 

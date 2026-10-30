@@ -1,7 +1,7 @@
 ---
 title: 동기
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-03T12:32:09-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,12 +45,16 @@ ai_assist:
 
 42개 연구 메타분석(효과 크기 56개, 학생 6,059명)에서 GenAI 지원 학습은 동기를 Hedges' g = 0.764(95% CI [0.566, 0.962])만큼 높였습니다 — 그러나 I² = 93.7%이고 95% 예측 구간이 [−0.689, 2.217]이므로, 그 평균은 효과가 거의 영이거나 부정적인 상황들을 가립니다([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **성찰 없는 사용은 동기를 침식하며 — 남성에게 더 그렇습니다.** 숙고 없는 GenAI 사용(답을 검토 없이 받아들이는 것)은 학부생 487명 가운데 더 낮은 동기(β = −0.54)와 더 낮은 [[self-efficacy]](β = −0.37)를 예측했으며, 동기 효과는 남학생에게 유의미하게 더 강한 반면 자기효능감 효과는 여학생에게 더 강했습니다([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
+- **좌절을 줄이는 것은 동기를 유지하는 것과 같지 않습니다.** 세 집단 [[rct|RCT]]에서 비계화된 튜터와 제한 없는 ChatGPT는 좌절을 똑같이 줄였지만(3.21과 3.13 대 4.09), 내재적 동기를 높인 것은 비계화된 튜터뿐이었습니다(2.82 대 2.42, p < .001). ChatGPT는 그렇지 못했습니다(2.64, p = .076)([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner 외(2026)]]).
 
 독자가 AI에 손을 뻗는 이유 자체가 측정 가능한 변수입니다. AIR 척도는 GenAI 지원 독서에 대한 네 가지 동기를 구별합니다 — 과제 지향, 기분 전환, 번역, 그리고 저노력 — 그리고 지치거나 무관심할 때 AI를 쓰는 저노력 동기만이 인지 욕구와 부적으로 관련되었습니다(r = −.18)([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
 **AI 매개 참여 속의 동기**는 동기의 질(양만이 아니라)이 AI와 함께 어떻게 달라지는지를 살핍니다. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]**는 자기결정이론을 [[network-analysis|epistemic network analysis]]와 결합하여 [[generative-ai|generative AI]]와의 참여를 연구했습니다. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]**는 1년간의 AI 교육 과정에서 **2,086명의 [[k-12|secondary]] 학생**을 잠재 전이 분석으로 추적하여 세 개의 안정된 프로파일(무관심, 발달 중, 자기결정)과 자기결정 프로파일에 도달하는 것이 가장 큰 [[ai-literacy]] 향상을 예측함을 발견했습니다. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]**는 **758명의 [[higher-ed|university]] 영어 학습자**를 대상으로 목표 설정 이론을 사용하여, **교수자의 지지**가 주로 숙달 접근 목표와 수행 접근 목표(회피가 아닌 접근 목표 지향)를 통해 AI 지원 참여를 이끎을 보였습니다. 이 연구들을 함께 보면 AI 맥락에서의 동기가 발달적이면서 사회적으로 조력된다는 것 — 즉, 도구 설계만이 아니라 시간이 흐르며 변화하고 교수자의 지지와 목표 틀 짓기에 반응한다는 것을 보여줍니다.
 
-목표 지향은 또한 도구가 사용되는 방향을 정합니다. 숙달과 규범적 수행 목표는 정교화와 다듬기를 떠받치는 경향이 있는 반면, 겉치레 수행 목표는 노력 최소화와 지각된 유능감 보호를 더 가능하게 만듭니다 — 따라서 같은 조력자라도 동기적 분위기에 따라 사고를 조력하기도, 대신하기도 합니다([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+목표 지향은 또한 도구가 사용되는 방향을 정합니다. 숙달과 규범적 수행 목표는 정교화와 다듬기를 떠받치는 경향이 있는 반면, 겉치레 수행 목표는 노력 최소화와 지각된 유능감 보호를 더 가능하게 만듭니다 — 따라서 같은 조력자라도 동기적 분위기에 따라 사고를 조력하기도, 대신하기도 합니다([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). 동기 보상은 AI 피드백의 도달 범위를 무디게 할 수 있습니다. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López 외(2026)]]에서 신뢰성과 지각된 학습의 연결은 성적 기반 보상 민감성이 높아질수록 약해졌습니다(낮음, 평균, 높음에서 단순 기울기 b = 0.733, 0.607, 0.483).
+
+기관의 생성형 [[educational-policy-ai|AI 정책]] 자체가 [[learners|학습자]]가 평가하는 스트레스 요인입니다. [[gai-advocacy-practice-art-education-2026|Chen(2026)]]은 대학의 생성형 AI 옹호와 교실 실천 사이의 간극이 중국 예술·디자인 학생들 사이에서 도전 평가와 방해 평가를 모두 높였고, [[creativity|창작]] 과정 참여에 상반되는 간접 효과를 낳았으며, 경로 사고는 도전 경로만 증폭시켰다는 것을 발견했습니다.
+
 
 대화 형식은 전반적인 평가를 개선하지 않고도 동기를 높일 수 있습니다. 고등학교 1학년 학생 222명 가운데, 교사–교사 대화가 구체적 경험이 높은 학습자에게는 교사–학생 형식보다 ARCS 동기를 더 높였으나(b = 0.162, p < .001), 전반적인 평가에서는 유의미하게 더 낮은 점수를 받았습니다(b = -0.126, p = .005)([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
@@ -70,9 +74,17 @@ ai_assist:
 
 **이 문헌은 동기를 동기에 관한 이론 없이 측정합니다.** 2003년부터 2025년까지의 156개 연구에 대한 범위 고찰은 133개(85.3%)가 특정한 동기 이론의 안내를 받지 않았고, 가장 흔한 변수는 일반화된 학업 동기(n = 89)였으며, 88개 연구(56.4%)가 하나의 국가적 맥락에서 나왔음을 발견했습니다([[ai-student-motivation-scoping-review-2026|Li et al. (2026)]].
 
+동기는 기술 지각과 나란히 작동할 뿐 아니라 그 상류에서도 작동합니다. 물리학 학생 340명 표본에서 효용 가치는 지각된 유용성을 예측했고(β = 0.43), 내재적 가치는 태도를 예측했으며(β = 0.20), 지각된 비용은 사용 용이성을 낮추고(β = -0.16) 태도도 낮췄지만(β = -0.27) 의도로 가는 직접 경로는 없었습니다([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi와 Lu(2026)]]).
+
 ## 관련 개념과의 연결
 
 동기는 [[self-determination-theory]]의 상위 구성 개념이며, 이 이론은 내재적 동기를 지탱하는 심리적 욕구(자율성, 유능감, 관계성)를 명시합니다. 동기는 동기 부여된 참여의 경험적 층위로서 [[student-experience]]와, 그것의 측정 가능한 차원으로서 [[student-engagement]]와, 그리고 동기를 형성하는 정서적 기제로서 [[affective-computing]]과 연결됩니다. 동기는 또한 [[cognitive-offloading|Over-Reliance]](AI가 [[desirable-difficulties|productive struggle]]를 줄이는 것), [[self-regulated-learning]](동기 부여된 학습자는 자기 조절을 합니다), [[teacher-role]](동기가 학생뿐 아니라 교육자에게도 적용됩니다)과 연결됩니다.
+
+## 흔한 오해
+
+- **"생성형 AI의 동기 효과는 깔끔하고 큰 이득입니다."** 42개 연구 메타분석(효과 크기 56개, 학생 6,059명)은 동기 효과를 g = 0.764(95% CI [0.566, 0.962])로 발견했지만 **I² = 93.7%**입니다. 그렇게 높은 이질성은 통합 수치가 서로 어긋나는 연구들의 집합을 서술한다는 뜻이므로, 그것은 일관된 처치에 대한 재현 가능한 효과가 아니라 일치하지 않는 처치들에 걸친 평균입니다.
+- **"좌절을 줄이는 것은 동기를 유지하는 것과 같습니다."** 세 집단 [[rct|RCT]]에서 비계화된 튜터와 제한 없는 ChatGPT는 **좌절을 똑같이 줄였습니다**(3.21과 3.13). 매우 다른 두 설계가 같은 정서적 결과를 낳았으므로, 좌절 자료로는 둘을 구별할 수 없습니다.
+- **"동기를 부여하는 설계는 좋은 설계입니다."** **고등학교 1학년 학생 222명**에서 교사-교사 대화 형식은 대안보다 **ARCS 동기를 더 높였지만 전반적 평가는 개선하지 않았습니다**. 동기는 움직였고 판정된 품질은 그대로였습니다.
 
 ## 연결된 개념
 
@@ -118,3 +130,6 @@ ai_assist:
 - [[genai-math-relevance-intervention-2026]] — GenAI 관련성 대화는 동일시로서의 관련성을 높였지만 수업 흥미는 그대로였다
 - [[genai-learning-motivation-meta-analysis-2026]] — GenAI가 학습 동기에 미치는 영향의 무선 효과 메타분석 (효과 크기 56개, 학생 6,059명)
 - [[ai-student-motivation-scoping-review-2026]] — AI와 학생 동기에 관한 156개 연구: 85.3%가 동기 이론을 쓰지 않았고, 구성 개념·수준·국가를 막론한 논의 범위가 좁다
+- [[high-school-genai-acceptance-tam-physics-2026]] — 생성형 AI 수용의 선행 요인으로서의 기대-가치 신념
+- [[gai-advocacy-practice-art-education-2026]] — 생성형 AI 옹호의 정책-실천 간극이 학생이 평가하는 스트레스 요인으로 작용한다
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 비계화된 튜터는 제한 없는 ChatGPT가 하지 못한 내재적 동기 상승을 이끌었다

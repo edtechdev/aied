@@ -1,7 +1,7 @@
 ---
 title: 학생 지원과 성공
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -92,6 +92,16 @@ ai_assist:
 ## 관련 개념들과의 연결
 
 학생 지원은 [[student-experience]]에 학생 대면 대응물로서 연결됩니다. 같은 기술을 제도가 아닌 학생의 측면에서 본 것입니다. 그리고 지원이 필요한 학생들이 실제로 지원을 얻는 메커니즘인 [[help-seeking]]에 연결됩니다. 외부 연락과 강좌 특정 조수는 모두 묻는 비용을 낮추려는 시도입니다. [[learning-analytics]]는 배분에 공급되는 예측을 소유하고, [[student-modeling]]과 [[knowledge-tracing]]은 그 아래의 모델을, [[recommender-systems-and-learning-paths]]는 권고 계층을 소유합니다. 이것은 캠퍼스 정신 건강과 예방 시스템을 통해 [[well-being]]에, 완수 뒤에 오는 결과로서 [[career-development-and-readiness]]에, 점수에 따라 행동하는 위험을 통해 [[equity-in-ai-education]]와 [[privacy]]에, 그리고 그것이 지속되는지를 결정하는 역할과 과정으로서 [[administrator]], [[stakeholders]], [[change-management]]에 연결됩니다. [[learning-gains]]은 인접한 측정 노드입니다: 이 페이지의 결과는 수업이 아닌 행정적이며, 둘은 함께 움직이지 않습니다.
+
+## 흔한 오해
+
+**"어려움을 겪을 학생을 예측하는 것이 곧 개입이다."** 예측은 지원의 입력이며 지원 자체가 아닙니다. 코퍼스는 이 둘을 의도적으로 분리합니다. 수강 등록 알림과 잔존 프로그램은 증거가 다른 서로 다른 개입이며, 연구는 하나가 다른 하나를 사들이지 못한다고 시사합니다. 점수로 끝나는 조기 경보 대시보드는 도움을 더하지 않은 채 측정만 더한 것입니다.
+
+**"잔존율을 끌어올린 프로그램은 AI가 효과가 있었음을 입증한다."** 그것은 프로그램이 효과가 있었음을 입증할 뿐이며, AI 계층은 그것이 촉발하는 아웃리치와 별도로 평가되어야 합니다. California State University, Northridge의 비생성형 문자 메시지 챗봇 CSUNny에 대한 4년 무작위 연구는 **학부생 두 집단(N = 8,708)**을 **8개 학기** 동안 추적했고 **연간 수신 거부율은 4%를 넘지 않았습니다**. 이는 *메시징*에 관한 강력한 수용성 결과이며, 생성형 또는 예측 시스템이 같은 결과를 얻는다는 증거는 아닙니다.
+
+**"결과의 사다리는 하나로 붕괴한다. 참여가 곧 잔존이다."** 각 단은 서로 다른 것을 측정합니다. 참여 신청, 응답, 지속, 수료입니다. 그리고 프로그램은 아래쪽 단을 움직이면서 위쪽 단을 평평하게 남겨 둘 수 있습니다. 응답한 비율을 성공으로 보고하는 것은 정확히 그 대체를 저지르는 일입니다.
+
+**"형평성 우려는 데이터 사용을 중단할 이유다."** 그것은 점수에 따라 신중하게 행동할 이유입니다. 예측기에 따라 행동하면 지원을 분배할 수도 있고 의심을 분배할 수도 있으며, 위험은 모델이 가장 불리하게 분류한 학생에게 집중됩니다. 따라서 해결책은 측정의 포기가 아니라 그 사용에 대한 거버넌스입니다.
 
 ## 연결된 개념
 

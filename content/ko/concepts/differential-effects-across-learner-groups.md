@@ -1,7 +1,7 @@
 ---
 title: 학습자 집단에 따른 차등적 효과
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-11T09:05:00-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -124,6 +124,12 @@ ai_assist:
 - **증거가 허락하는 곳에서는 평등하게 만드는 설계를 선호하기.** ADHD 영상 분할 결과 — 모두가 향상되고 격차가 메워짐 — 은 집단 표적 애드온보다 일반 교실에 더 잘 맞는 목표입니다.
 - **인구통계 속성을 소비하는 개인화에 주의하기.** [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]] 발견은 바로 그 메커니즘에 관한 것이며, 학습자를 프로파일링하는 [[well-being|웰빙]] 체크인, [[affective-computing|정서적 튜터]], [[recommender-systems-and-learning-paths|추천 시스템]]에도 적용됩니다.
 - **여러분이 관심 갖는 집단에서, 도구 없이 측정된 결과로 지역적으로 검증하기.** 평가 습관은 [[interpreting-and-applying-aied-research|Interpreting and Applying AIEd Research]]를, 지역 검증을 방어 가능하게 만드는 설계는 [[research-methods-aied|Research Methods in AI in Education]]를 보십시오.
+
+## 흔한 오해
+
+- **"집단 라벨은 중요한 변이를 담아냅니다."** **집단 라벨은 그 안의 변이를 감춥니다.** 장애 메타분석에서는 **특정 학습장애, 지적 및 발달 장애** 학생과 다른 범주가 함께 모아지므로, 집단 평균은 그들 중 누구도 설명하지 못합니다.
+- **"하위 집단 분석이 차별적 효과 질문에 답합니다."** 그것들은 보통 **그 질문에 답하기에 너무 작습니다.** [[ai-tutoring-micro-rct-gcse-science-2026|GCSE 과학 소규모 RCT]]는 그 **처치** 대비가 전체 효과를 위해 검정력이 설계되었고 하위 집단 차이를 위해서는 아니라고 이례적으로 분명히 밝힙니다. 검정력이 부족한 하위 집단 발견은 결과가 아니라 가설입니다.
+- **"중간 크기의 통합 효과가 특정 집단의 이득 여부를 알려 줍니다."** [[zhang-ai-students-disabilities-meta-analysis-2024|29편의 (준)실험 연구]]가 장애 범주에 걸쳐 **Hedges의 g = 0.588(95% CI [0.349, 0.826])**로 통합되었습니다. 그 구간은 그 범주들에 걸친 평균을 서술하며, "어느 집단, 어느 필요"는 별개의 분석입니다.
 
 ## 연결된 개념
 

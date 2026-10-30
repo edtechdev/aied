@@ -1,7 +1,7 @@
 ---
 title: 설명 가능한 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,7 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 - **글래스박스** 접근법은 정확도와 투명성의 균형을 꾀합니다.
 
 구체적인 AIED 증거 기반은 이 모든 것에 걸칩니다. **해석 가능한 [[knowledge-tracing|지식 추적]]**은 학습자 지식 모델을 직접 검사 가능하게 만듭니다([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). **자기 설명 대리 모델**은 블랙박스 모델을 [[learning-analytics]]를 위해 작고 해석 가능한 [[llm|언어 모델]]로 증류합니다([[distilling-self-explaining-lm-learning-analytics-2026]]). **대안적 상정 설명** — "다른 결과를 위해 무엇이 바뀌어야 하는가" — 은 교육적 의사결정 지원과 구제를 뒷받침합니다([[sc2r-counterfactual-recourse-educational-2026]]). **연합 + 설명 가능 학습 분석**은 순위 안정성이 유지될 때도 설명의 품질이 흔들릴(보정이 저하될) 수 있음을 보여주며, 설명이 고정된 속성이 아니라 측정해야 할 시스템 출력임을 강조합니다([[villegas-ch-federated-explainable-learning-analytics-2026]]). 그리고 **해석 가능한 [[affective-computing|정서]] ITS**는 [[affective-tutoring|감정 인지]] 튜터링에서의 설명을 보여줍니다([[multimodal-affective-its-presentation]]).
+- **외부 측정은 불충실한 설명 문제를 우회합니다.** Filtered Decision Logs는 도구 추적을 출처 트리로 재구성하고 네 가지 결정적 신호로 증거의 순위를 매기므로, 영향 점수가 권고와 독립적으로 검증 가능하며 반사실적 도구 제거가 그 순위가 의존을 추적했음을 확인했습니다([[filtered-decision-logs-transparency-genai-2026|Anbalagan et al. (2026)]]).
 
 ## 설명의 품질이지 가용성이 아니다
 
@@ -83,6 +84,8 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 
 **설명 가능성을 설계에 내장하는 것**은 사후 충실성 문제에 대한 하나의 답입니다. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]]는 설명 디코더를 [[assessment]]를 결정하는 것과 같은 융합 표현과 예측 점수로 매개변수화하여, [[formative-assessment|형성적]] 질문에 대한 낮은 점수가 불충분한 탐색 질문을 지명하는 근거 제시를 산출하게 하고, 여기에 교육과정 기준과 학문 특정 루브릭 조치에 대한 이중 렌즈 주의를 짝지었습니다. 루브릭에 대한 주의 정렬은 GPT-4 제로샷의 41.7%, BERT의 32.1% 대비 78.0%에 도달하며, 충실성은 루브릭 핵심 구간의 대안적 삭제와 루브릭 고정 체크리스트에 대한 인간 평정을 함께 사용해 검증되어 0.78의 설명 신빙성 점수를 줍니다. 이는 BERT-base 대비 0.31의 증가입니다. 감사는 또한 그 구조적 주장이 얇아지는 지점을 보여줍니다. 정서 단서에서 모델은 주의 가중치의 28.4%를 배정하는 반면 전문가는 15.2%를 배분하며(정렬 0.53), 한 실패 사례는 "frustrated" 토큰에 28%를 할당했는데, 저자들은 이것을 교수학이 아니라 정서에 대한 과적합으로 읽고 개선이 필요한 영역으로 지명합니다. 설명을 결정 경로에 내장하면 그것들을 사후적 정당화보다 더 충실하게 만듭니다. 그것이 옳게 만들지는 못합니다.
 
+인용은 정확성의 증거가 아니라 신뢰성 단서로 작동합니다. 토론 인터페이스에 인용과 권위 신호를 붙이자 올바른 판단을 버리고 AI 입장을 채택하는 비율이 15.0%에서 31.8%로 올랐고, 인용된 사례는 때때로 잘못 귀인되거나 허구였습니다([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 ## 설명 가능성을 책임의 실천으로 가르치기
 
 설명의 품질이 XAI가 유용한지를 결정한다면, 설명을 만들어내는 것은 능력을 시연하는 것이 아니라 전문적 습관으로 가르쳐져야 합니다. [[lund-socially-accountable-data-science-xai-2026|Lund and colleagues (2026)]]는 네 기둥에 걸쳐 이것을 제안합니다. **답변 책임**(영향받는 이들에게 이유를 줄 의무), **책임**(사후 방어가 아니라 생애주기 전반에 걸쳐 예상되는 해악), **집행**(강좌 내부의 결과), **반성**(자기 가정에 대한 기록된 검토)입니다. 각각 고유한 과제와 고유한 교실 비용을 가집니다.
@@ -92,6 +95,13 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 ## 인용
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
+## 흔한 오해
+
+- **"인용은 설명을 신뢰할 만하게 만든다."** 인용은 **정확성의 증거가 아니라 신뢰성 단서**로 작동합니다. 토론 인터페이스에 인용과 권위 신호를 붙이자 올바른 판단을 버리고 AI 입장을 채택하는 비율이 **15.0%에서 31.8%로** 올랐습니다. 출처 제시는 틀린 답을 더 설득력 있게 만들었으며, 이는 의도한 효과의 정반대입니다.
+- **"사용자를 만족시키는 설명은 시스템을 설명한 것이다."** 같은 가독성 실패가 [[automated-assessment|자동화 평가]]의 보안 측면에도 나타납니다. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]]의 레드팀 연구는 일상적인 채점 워크플로가 주입된 지시로 조작될 수 있음을 발견했습니다. 그럴듯한 서사와 감사 가능한 서사는 다른 산출물입니다.
+- **"일반 XAI 실천은 교육으로 전이된다."** [[xai-education-framework|XAI-ED 프레임워크]](Khosravi et al., 2022)는 교육이 범용 XAI를 넘어서는 **특유의 설명 가능성 수요**를 가진다고 주장합니다. 청중에 설명을 인증해야 하는 감사자가 아니라 설명에 따라 행동해야 하는 학습자가 포함되기 때문입니다.
+- **"충실성은 탐침 없이 주장할 수 있는 속성이다."** 측정된 충실성은 인간 평정과 함께 **루브릭 결정적 구간의 반사실적 삭제**를 요구합니다. 루브릭 정렬에 대한 주의가 **78.0%에 도달한 것은 GPT-4 제로샷의 41.7%, BERT의 32.1%와 비교한 결과**이며, 이는 해석 가능성에 관한 주장이 아니라 그런 탐침에서 나온 비교 결과입니다.
 
 ## 연결된 개념
 
@@ -114,6 +124,8 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[recommender-systems-and-learning-paths]]
 
 ## 연결된 문서
+
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 인용과 권위 신호가 잘못된 산출물에 대한 따름을 높였고, 일부 참조는 잘못 귀인되거나 허구였다
 
 - [[lund-socially-accountable-data-science-xai-2026]] — XAI를 책임의 실천으로 가르치기 위한 네 기둥 프레임워크(답변 책임, 책임, 집행, 반성) (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — 학생 중심 ITS의 가치 민감 설계(협력적 설명 대 원시 설명)

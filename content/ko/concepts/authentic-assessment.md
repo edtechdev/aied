@@ -1,7 +1,7 @@
 ---
 title: 실제적 평가
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -93,6 +93,12 @@ ai_assist:
 - **과정 중심 측정은 이제 타당성 증거를 지닙니다.** [[assessing-student-drive-framework-2025|Oliveira 외(2025)]]는 학생이 GenAI와의 대화를 어떻게 이끌고 학업 지식을 가시적으로 만들었는지에 따라 채점된 에세이 70편에 점수를 매겼습니다. 그 과정 점수는 전통적인 에세이 점수와 r = 0.54로 상관되면서도, 구조화된 과제 명세보다 개념적 작업에 보상을 주었습니다.
 - **실제적 평가는 실천 지향 학문에 적합합니다.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais와 Galy(2026)]]는 실제적 평가가 [[business-education|경영 교육]]에 특히 잘 맞는다고 합니다. 실제 전문 문제를 반영하는 과제(현장 컨설팅 프로젝트, 임원 브리핑이 딸린 [[visualization|대시보드]])가 그 분야의 실천 지향적이고 [[career-development-and-readiness|고용가능성]]에 초점을 둔 성격과 맞닿아 있으며, 생성형 AI 시대에 시험 중심 평가에 대한 포용적이고 정직성을 보존하는 대안을 뒷받침할 수 있습니다. 그러나 네 개의 경영 교육 학술지에서 나온 논문 58편의 검토에서 실제적 평가는 주로 기술을 매개로 한 [[simulation|시뮬레이션]]을 통해 나타났고 [[experiential-learning|경험 학습]]과 혼동되는 경우가 잦았습니다. 이 용어상 격차는 실제적 평가의 더 넓은 가치와 수용을 흐리게 할 수 있습니다.
 - **실제성은 보안이 아니며, 그 격차는 부문 규모에서 보입니다.** 위의 단일 학위 감사에서 학업 평가의 90%가 통과 가능한 것으로 드러난 반면, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva(2026)]]는 녹화된 발표, 원격 조별 프로젝트, 감독 없는 디지털 산출물을 53,915개 항목에 걸쳐 고노출 영역으로 평가합니다. 생산이 어떻게 감독되었는지에 대해 공적 기록이 아무것도 보여 주지 않기 때문입니다.
+
+## 흔한 오해
+
+- **"실제성은 현실적인 과제에 관한 것이다."** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud, Du(2025)]]의 **37편의 실증 연구(2000-2024)** 범위 검토는 **여섯 차원**의 설계 모형을 제안하며, **37편 중 단 3편만이 사회적 실제성**, 즉 평가가 학생의 사회 변혁 기여를 돕는지를 다루었습니다. 현실성은 하나의 차원일 뿐이며, 가장 발전된 차원은 거의 연구되지 않았습니다.
+- **"실제적 평가는 AI에 저항한다."** 노출은 측정 가능하며 큽니다. **3년제 심리학 학위**가 **90% 통과 가능**한 것으로 드러났고, ChatGPT는 **40개의 학업 평가 중 36개에서 적절한 출력**을 만들어 냈으며, 남은 평가들만이 살아남았습니다. 학위 평가의 대부분이 AI로 충족될 수 있었습니다.
+- **"과제가 현실 세계의 것이면 재설계는 선택 사항이다."** 36/40이라는 결과는 실제성이 의심받지 않았을 과제에서 나왔습니다. 과제의 현실성은 AI 완수를 막지 못했고, 무엇을 평가하는지의 설계가 막았습니다.
 
 ## 연결된 개념
 

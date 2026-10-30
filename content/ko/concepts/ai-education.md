@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능
 created: "2026-09-22T14:35:21-04:00"
-updated: "2026-10-27T04:16:20-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -99,12 +99,13 @@ AI가 교수와 학습을 어떻게 지원하는가는 이 분야의 핵심입�
 
 - **모델과 기법:** [[generative-ai|생성형 AI]], [[llm|대규모 언어 모델]], [[rag|검색 증강 생성]], [[multimodal|멀티모달 모델]], [[educational-nlp|교육 분야 NLP]], [[reinforcement-learning|강화 학습]], [[knowledge-graph|지식 그래프]], [[educational-robotics|교육용 로봇]], [[conversational-ai|대화형 AI]], [[simulation|시뮬레이션]], [[llm-training-and-fine-tuning|교수를 위한 LLM 훈련]]입니다. 그 바탕이 되는 방법도 중요합니다. [[machine-learning|머신러닝]]은 이런 시스템이 만들어지는 곳이고, [[speech-and-voice-technologies|음성 및 음성 기술]]은 구두 튜터링과 언어 연습을 가능하게 하며, [[visualization|시각화]]는 학습자와 교수자를 위한 대시보드와 시각적 분석을 다루고, [[virtual-and-augmented-reality|가상 및 증강 현실]]은 이제 모델이 시각적 층위를 생성할 수 있는 몰입형 실습을 담습니다. 더 새로운 상호작용 방식도 여기에 속합니다. 가장 두드러지는 것은 [[vibe-coding|바이브 코딩]]으로, 사용자가 LLM에 프롬프트를 주어 프로그램을 지정하고 소스를 읽거나 편집하는 대신 결과 동작을 판단하는 자연어 기반 작업 흐름입니다. 이는 [[cs-education|프로그래밍]]을 표현하고 검증하는 행위로 재규정하고 [[teacher-role|최종 사용자]]가 자신만의 도구를 만드는 문턱을 낮춥니다. [[samr-model|SAMR]]과 같은 통합 심도 프레임워크와 [[technology-acceptance-model|TAM]]과 같은 수용 이론은 AI가 얼마나 깊이 받아들여지고 과제를 얼마나 바꾸는지를 분류합니다.
 - **학습자 모델링과 적응형 시스템:** 학습자를 표상하고 그에 적응하는 기술 시스템은 [[student-modeling|학습자 모델링과 적응형 교수]] 상위 개념 아래에 묶입니다. [[knowledge-tracing|지식 추적]], [[cognitive-diagnosis|인지적 진단]], [[simulating-students|학생 시뮬레이션]], [[intelligent-tutoring|지능형 튜터링]], [[adaptive-learning|적응형 학습]], [[personalized-learning|개인화 학습]], [[recommender-systems-and-learning-paths|추천 시스템과 학습 경로]], [[pedagogical-agent|교수 에이전트]], [[affective-tutoring|정서적 튜터링]], [[affective-computing|정서 컴퓨팅]], [[human-in-the-loop-ai|인간 참여형 AI]], [[learning-analytics|학습 분석]]입니다. 이들은 기술적 층위에 속하는데, 이들이 구현하는 교수법과는 구별되는 AI 시스템 자체이기 때문입니다.
+- **플랫폼, 개방성, 채택:** 모델을 둘러싼 층위로, 교수 자료가 직접 만들어지는 대신 라이선스되고 호스팅되고 비용이 지불되는 곳입니다. [[open-education|개방형 교육]]은 개방 라이선스 콘텐츠로 가르치는 일과 학생을 그 콘텐츠의 생산자로 다루는 교수법을 포괄하며, 생성된 자료가 이제 제기하는 라이선스와 적응의 문제가 논의되는 자리입니다. 이는 소프트웨어 의미의 개방성, [[edtech-platform|에듀테크 플랫폼]]의 플랫폼 수준 분석, [[technology-acceptance-model|TAM]]이 다루는 채택 연구와 나란히 놓입니다.
 
 ## 전공 분야에서의 AI
 
 AI는 다양한 전공 분야와 교육 수준에 걸쳐 적용됩니다. 지식베이스의 [[discipline-specific-aied|전공 분야에서의 AIED 개요]]는 교과 영역 커버리지를 정리합니다. 여기에는 가르치는 교과는 아니지만 학습 자체를 연구하고 교과 내용을 여러 변수 중 하나로 취급하는 교차적 연구 분야인 [[learning-sciences|학습과학]]도 함께합니다.
 
-- **교과 영역:** [[math-education|수학]], [[physics-education|물리]], [[chemistry-education|화학]], [[biology-education|생물]], [[cs-education|컴퓨터 과학]], [[engineering-education|공학]], [[stem-education|STEM]], [[writing-education|글쓰기]], [[language-learning|언어 학습]], [[english-education|영어 교육(EAP/EFL/ESL)]], [[science-education|과학교육]], [[business-education|경영, 경제, 관리]], [[humanities-education|인문학과 사회과학]], [[arts-design-and-media-education|예술, 디자인, 미디어 교육]], [[medical-education|의학 및 보건 전문직]], [[legal-education|법학 교육]], 그리고 전문·응용 갈래인 [[nursing-education|간호]], [[information-technology|정보 기술]], [[vocational-education|직업 교육과 훈련]], [[design-education|디자인 교육]]입니다.
+- **교과 영역:** [[math-education|수학]], [[statistics-and-data-science-education|통계 및 데이터 과학]], [[physics-education|물리]], [[chemistry-education|화학]], [[biology-education|생물]], [[cs-education|컴퓨터 과학]], [[engineering-education|공학]], [[stem-education|STEM]], [[writing-education|글쓰기]], [[language-learning|언어 학습]], [[english-education|영어 교육(EAP/EFL/ESL)]], [[science-education|과학교육]], [[environmental-education|환경 교육]], [[business-education|경영, 경제, 관리]], [[humanities-education|인문학과 사회과학]], [[arts-design-and-media-education|예술, 디자인, 미디어 교육]], [[medical-education|의학 및 보건 전문직]], [[legal-education|법학 교육]], 그리고 전문·응용 갈래인 [[nursing-education|간호]], [[information-technology|정보 기술]], [[vocational-education|직업 교육과 훈련]], [[design-education|디자인 교육]]입니다.
 
 ## 수준과 맥락
 

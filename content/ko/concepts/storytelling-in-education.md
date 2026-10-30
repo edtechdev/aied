@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 스토리텔링
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,16 @@ ai_assist:
 - **AI에 대한 균형추로서의 디지털 스토리텔링:** [[generative-ai|생성형 AI]]가 부상하면서, 디지털 스토리텔링은 AI가 결여한 정서적·문화적·서사적 역량을 위한 수단으로 새롭게 조명됩니다. 예술·디자인 교육의 [[project-based-learning|프로젝트 기반 학습]] 모델에서, 학생들은 지역 문화유산을 92점의 디지털 스토리텔링 작품에 걸친 [[multimodal]] 서사로 번역하여, 스토리텔링이 AI 시대에 인간의 창의성을 어떻게 유지하는지를 보여주었습니다.
 
 스토리텔링은 [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], 그리고 [[educational-robotics]]와 연결됩니다.
+
+## 흔한 오해
+
+**"함께 만든 이야기도 들려주는 이야기다."** 얻는 것은 유창함과 분량이고, 위태로워지는 것은 이야기꾼의 저자성입니다. 이야기는 순서와 강조를 스스로 선택한 사람이 경험을 구조화한 결과이므로, 구조를 대신 공급하는 기계는 의미를 지니는 부분을 공급한 셈입니다.
+
+**"스토리텔링은 내용에 덧붙는 부드러운 요소다."** 서사는 기억과 의미 형성의 장치이며, 이야기를 하는 학습자가 정리 작업을 수행합니다. 이야기하기를 넘기는 것은 학습을 넘기는 것입니다.
+
+**"AI 생성은 글을 쓸 수 없던 학생에게 스토리텔링을 열어 준다."** 그것이 열어 주는 것은 *글로 된 결과물을 산출하는 일*이며, 이는 또 다른 이점입니다. 구술, 그림, 받아쓰기는 같은 목표에 이르는 확립된 경로이고, 생성이 없애 버리는 저자성을 그 경로들은 보존합니다.
+
+**"이야기의 교육적 가치는 다듬어진 결과물에 있다."** 그것은 구성, 즉 이야기꾼이 수행하는 선택과 배열에 있습니다. 학생이 구조화하지 않은 다듬어진 이야기는 학습자의 역량이 아니라 모델의 역량을 입증한 것입니다.
 
 ## 연결된 개념
 

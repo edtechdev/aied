@@ -1,13 +1,13 @@
 ---
 title: 네트워크 분석
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-04T10:50:04-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,7 @@ ai_assist:
 - **Epistemic Network Analysis (ENA)** — 지식 베이스에서 가장 흔한 변형(약 24편의 문서에서 논의됨). ENA는 담론이나 활동의 구간 안에서 코드나 구성개념의 공동 발생을 모형화하여, 주어진 맥락에서 어떤 생각, 기술, 또는 인식론적 행동들이 연결되는 경향이 있는지를 보여주는 네트워크를 산출합니다. 이것은 서로 다른 집단(예: 고수준 대 저수준 리터러시 학습자, 인간 대 AI 협력자)이 자신의 인지를 어떻게 구조화하는지를 비교하는 데 사용됩니다. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Social Network Analysis (SNA)** — 협력 구조, 영향력, 중심성, 공동체를 드러내기 위해 사람들(학습자, 교사, 에이전트) 사이의 관계를 모형화합니다. [[collaborative-learning|협력적]] 학습과 동료 학습을 연구하는 데 유용합니다. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Transition Network Analysis (TNA)** — 이산적 상태의 시간적 서열(예: 개인 지도 세션에서의 학습자 행동)을 유향 네트워크로 모형화하여, 상태들 사이를 이동할 확률을 정량화합니다. TNA는 학습자–AI 상호작용에서의 행동 순환, 경로, 수용 역학을 드러내는 데 사용됩니다. ([[penny-transition-network-analysis-efl-writing-2026]])
+- **ENA는 [[teacher-role|교육자]]의 역량 담화도 지도화합니다.** 뉴질랜드 고등교육 교육자 24명과의 인터뷰에 Epistemic Network Analysis를 적용해 일곱 HACC 차원 사이의 연결을 모형화한 결과, 수석 교육자들의 네트워크가 첫 번째 축에서 선임 교육자(U = 10.00, p = .04)와 초임 교육자(U = 7.00, p = .01)와 유의하게 달랐습니다([[dang-human-ai-collaboration-competency-2026|Dang 외(2026)]]).
 
 이것들은 **[[knowledge-graph]]**와 구별됩니다. 지식 그래프는 사실들에 대한 추론을 위한(온톨로지/트리플 저장소) 데이터 구조이며, 과정이나 관계 구조를 연구하기 위한 분석 방법이 아닙니다.
 
@@ -61,6 +62,7 @@ ai_assist:
 - **네트워크를 읽기 전에 도구를 검증하십시오.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai & Alshahri (2026)]]은 45문항의 AI-STEM-MLCS를 전체 척도 개발 경로로 구축했습니다 — 전문가 내용 타당성 비율, 탐색적 이어 확인적 요인 분석(CFI = 0.983, RMSEA = 0.019), McDonald's ω 0.888–0.905, 그리고 2주 검사-재검사 ICC 0.751–0.900 — 탐색적 그래프 분석으로 네 차원을 모형화하기 전에 말입니다. 노드가 검증되지 않은 척도 점수인 네트워크로부터 구조를 도출하는 것이 바로 그 순서가 막는 것입니다. 그리고 저자들은 사우디 특정적인 검증을 구조 이전의 경계로 명명합니다.
 - **주의하여 해석하십시오.** 노드의 세분성(예: 조잡한 "대화" 노드)은 의도를 흐릴 수 있습니다. 자동화된 분류는 일부 모호성을 담고 있습니다. 그리고 횡단적 네트워크 구조는 인과성을 확립하지 않습니다.
 - **집합적 지표가 숨기는 것을 드러내는 네트워크들.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]]은 GenAI 주석을 다는 집단이 통제 집단을 능가하고 더 많이 참여했음을 발견한 뒤, 실험 집단을 중위수 수행으로 나누어 그 향상이 공유되지 않았음을 보여주었습니다. 고성취 집단은 자신들의 주석에 걸친 피드백 요청의 60.7 퍼센트를 개시한 반면, 저성취 집단은 34.0 퍼센트였고 이들은 자기 지시적 순환 안에 머물렀습니다(집단 분리는 ENA X축에서 유의, U = 25.00, p = 0.01). 설계의 교훈은 하나의 집단 수준 효과가 두 가지 다른 상호작용 구조를 요약할 수 있다는 것이며 — 그리고 두 집단이 온전한 학급들이었으므로, 그 비교는 인과적으로 귀속하지 않고 패턴을 확인합니다.
+- **공동 단어 및 공동 저자 군집은 지적 친화성만큼 출판 관행을 기록합니다.** [[bulut-technology-supported-formative-assessment-2026|Bulut(2026)]]는 서지 중심성과 군집화가 어떤 학술지, 언어, 지역이 색인되는지를 반영하므로 분야의 지도가 그 분야의 중립적 측정은 아니라고 경고합니다.
 
 ## AI 교육 연구를 위한 함의
 
@@ -72,6 +74,12 @@ ai_assist:
 ## 시뮬레이션된 협력적 대화의 ENA 검증
 
 - **시뮬레이션된 대화를 위한 검증으로서의 ENA.** Fang (2026)은 미세 조정된 LLM 에이전트가 실제 협력적 [[problem-solving]] 대화의 구조를 재현하는지를 평가하기 위해 Epistemic Network Analysis를 적용합니다. 시뮬레이션된 인접 벡터를 경험적 네트워크와 비교하여, ENA 거리 0.17을 보고합니다 — 귀무 분포의 95번째 백분위수 임계값 안에 있으며, 치환 p값은 0.65입니다 — 이는 담론의 생성적 [[simulation|시뮬레이션]]의 충실도에 관한 [[quantitative-research|양적]] 점검으로서의 ENA의 힘을 입증하며, 교육 연구에서의 ENA/SNA/TNA의 다른 응용들과 나란히 놓입니다.
+
+## 흔한 오해
+
+- **"네트워크 분석은 계산적이므로 객관적이다."** **코딩이 기초입니다.** 모든 네트워크 변형은 원시 데이터(발화, 사건, 관계)를 이산적 노드로 신뢰성 있게 코딩하는 데 의존하며, 자동 코딩은 그 정의를 정의를 설정한 사람에게서 물려받습니다. 시각화는 창발적 구조처럼 보이지만 그 노드들은 해석적 선택입니다.
+- **"네트워크 구조의 변화는 그 자체로 학습 이득이다."** 혼합 전공 대학원생 **스무 명**과의 사례 토론에서 **크기 3 공유 용어 비중이 5.2%에서 8.0%로 상승**한 반면 **내용 토큰은 사후 비율의 약 0.65배로 떨어졌습니다.** 두 구조적 측정이 반대 방향으로 움직였으므로, "네트워크가 변했다"는 어느 측정을 따라 왜 중요한지를 말하기 전까지는 발견이 아닙니다.
+- **"용어를 더 많이 공유한다는 것은 더 나은 협업을 뜻한다."** 공유 용어 비중의 상승과 내용 토큰 다양성의 하락은 더 작은 어휘로의 수렴과 일치합니다. 합의와 협소화는 구조적으로 유사하므로, 그 측정에는 그것이 계산된 내용이 필요합니다.
 
 ## 연결된 개념
 
@@ -96,3 +104,4 @@ ai_assist:
 - [[youtube-frames-chatgpt-education]] — 교육에서의 ChatGPT에 관한 YouTube 틀의 ENA
 - [[agency-gap-ai-writing]] — AI 지원 쓰기에서의 주체성 격차 (ENA)
 - [[synthetic-educational-data-structural-fidelity-2026]] — 충실도 지표들이 놓치는 것: 합성 교육 데이터에 관한 구조적 점검
+- [[dang-human-ai-collaboration-competency-2026]] — ENA는 교육자의 역량 담화도 지도화합니다

@@ -1,7 +1,7 @@
 ---
 title: 웰빙
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,7 @@ ai_assist:
 
 - **[[ai-literacy|AI 리터러시]]와 사회정서 학습:** [[sec-ai-literacy-narrative-review-2026|SEC를 AI 리터러시에 통합하는 연구]]는 교육자와 학생의 정서 지능과 웰빙을 기르는 것이 AI-[[sociocultural-learning|매개 학습]] 환경을 항해하는 데 필수적이라고 논하며, [[social-emotional-learning]]과 AI의 정서적 차원에 연결됩니다.
 - **AI 불안과 학생 경험:** 학생의 AI 참여에 관한 연구들(예: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT 기반 연구]])은 AI 사용이 불안, 신뢰, 자신감과 얽혀 있으며, 학문적 정직성, [[creativity]], [[cognitive-offloading|과잉 의존]]에 대한 우려로 학생의 웰빙이 영향받음을 발견합니다.
+- **시험 불안은 제거되는 것이 아니라 재분배됩니다.** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon(2026)]]은 [[assessment]]가 일회적 고부담 시험에서 지속적이고 자료 기반인 평가로 옮겨감에 따라, 알고리즘적 책무성이 새로운 압력 체계를 더한다고 논합니다. 그 기제, 즉 즉시성, 가시성, 자료의 영속성은 급성 시험 스트레스를 좀처럼 보고되지 않는 확산적이고 지속적인 수행 감시로 바꿉니다.
 - **불안 감소가 반드시 이로운 것은 아닙니다.** 대학 입학 전 학생 35명을 대상으로 한 균형설계 개인 내 연구에서, LLM 증강 대화형 에이전트는 구술 평가 중 자기보고 불안을 낮췄으나(차분함 6.50 대 5.86, p = .028), 저자들은 중간 수준의 불안이 촉진적일 수 있음을 경계하고 성취 점수는 기록하지 않았습니다([[aivaluate-anxiety-assessment-2026|Yusuf, Money와 Daylamani-Zad(2026)]]).
 
 - **높은 승인이 부담과 공존할 수 있으며, AI 과업 압력이 그 이익을 약화시킵니다.** 1학년 학생 551명 가운데 82.76%가 디지털·지능형 내용의 통합을 승인한 반면 69.51%는 [[anxiety-and-stress|불안]]이나 긴장을 보고했고, AI 숙련도-적응 기울기는 AI 과업 압력이 오르며 0.42에서 0.20으로 떨어졌습니다([[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin(2026)]]).
@@ -72,6 +73,14 @@ ai_assist:
 웰빙은 [[student-experience]](학습자 전체 경험의 한 차원으로서), [[social-emotional-learning]]과 [[affective-computing]](AI가 교차하는 정서적 역량), [[ethics]](핵심 윤리적 고려사항으로서), [[motivation]]와 [[self-regulated-learning]](웰빙이 이들을 뒷받침하고 이들에 의해 뒷받침됨), [[teacher-ai-competency]](교육자의 역량과 웰빙), 그리고 AI가 웰빙을 형성하는 환경으로서의 [[higher-ed]]과 [[k-12]]에 연결됩니다.
 
 **마찰, 의미, 외로움을 신호로.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom과 Inzlicht(2026)]]는 웰빙 논증에 기제를 제공합니다: 노력은 우리의 행동이 중요하다는 신호이므로, 과업을 향해 일하는 사람은 더 역량 있다고 느끼고 산출물을 더 가치 있게 여기며 더 목적 있게 봅니다 — 객관적으로 무의미한 과업에서도 마찰을 더하면 평가된 의미가 높아집니다. 관계에 관해서는 이들이 외로움을 질병(심혈관 질환, 치매, 뇌졸중, 조기 사망과 연결됨)으로만이 아니라 허기나 고통과 같은 **[[biology-education|생물학적]] 신호**로 다룹니다: 다가가고, 초대를 받아들이고, 기존 관계에 투자하고, 어려운 대화를 참게 하는 불편함입니다. AI 동반자는 그 불편함을 달랠 수 있으며, 저자들은 이것을 어떤 경우에는 진정한 진전으로 여기면서도 연결을 이끄는 신호를 침묵시키기도 한다고 봅니다 — 그리고 이 논증을 단계별로 누그러뜨려, 상황이 아니라 선택에 의해 고립된 사람들에게 그러한 기술에의 접근을 거부하는 것은 "잔인할 것"이라고 말합니다([[motivation]], [[social-emotional-learning]]).
+
+정서적 지원과 연결감은 한 표본 안에서 반대 방향으로 움직일 수 있습니다. 사우디 고등 교육 학생 819명 사이에서 챗봇에 대한 만족도는 평균 4.29, 도구에 대한 경험은 4.19였던 반면, 챗봇이 인간 연결을 줄인다는 우려는 4.36으로 가장 높게 평가된 구인이었습니다([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani(2025)]]). 그 우려는 만족도와 함께 떨어지기보다 경험과 함께 올라갔습니다(표준화 계수 .64 대 .11).
+
+## 흔한 오해
+
+- **"학생의 승인은 웰빙이 뒷받침되고 있음을 보여 준다."** **1학년 학생 551명** 가운데 **82.76%가 디지털·지능형 내용의 통합을 승인**했으며, **높은 승인은 부담과 공존했고 AI 과업 압력은 그 이익을 약화시켰습니다**. 승인과 부담이 함께 오르므로, 만족도 조사는 바로 이 지점에서 오도합니다.
+- **"복지 지원은 문화적으로 중립적이다."** [[culturally-aware-student-stress-chatbot-2026|Bashir와 Afzal(2026)]]은 하이브리드 웰빙 지원 도구인 Sukoon을 **문화적으로 상황화된** 것으로 설명하며, 이 페이지 자체의 틀짓도 그 한계를 지적합니다. 보편적 학생을 가정하는 지원 설계는 그 모집단을 잘못 읽습니다.
+- **"과업 압력은 기술과 별개다."** 발견은 AI **과업 압력**이 통합의 이익을 약화시켰다는 것이며, 이것은 업무 부하를 기술의 효과 옆이 아니라 그 안에 놓습니다.
 
 ## 연결된 개념
 
@@ -111,3 +120,5 @@ ai_assist:
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 지각된 AI 보조 도구 지능, 목표 진행, 정신 건강, 조절변수로서의 AI 리터러시
 - [[ai-emotion-regulation-sport-exercise-2026]] — 스포츠, 운동, 캠퍼스 생태를 통한 AI 지원 정서 규제의 개념적 재틀짐
 - [[faculty-ai-well-being-social-supports-2026]] — 교원 AI 웰빙의 구조 방정식 모형: 자기효능감에 대한 AI 리터러시의 우세
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 학생 819명이 챗봇을 높게 평가하면서도 인간 연결의 상실을 가장 크게 우려했다
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — 시험 불안은 제거되는 것이 아니라 재분배된다

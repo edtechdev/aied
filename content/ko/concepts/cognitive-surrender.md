@@ -1,7 +1,7 @@
 ---
 title: 인지적 항복
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -69,13 +69,15 @@ ai_assist:
 
 실용적 독해는 항복이 동기 실패가 아니라 **변별 실패**라는 것입니다. 항복한 참가자들은 일을 피하려 한 것이 아니었습니다. 그들은 좋은 조언과 나쁜 조언을 구별할 수 없었고, 인터페이스는 시도할 이유를 주지 않았습니다.
 
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]]의 사전등록 실험은 대조적인 구성를 제공합니다. 보조자가 배정된 학습지로 검색 증강의 울타리를 두었을 때, AI 조건은 인지적 과도 의존을 높이는 대신 낮췄으며(중앙값 −0.27), 과도 의존의 경로 중 어느 것도 흐트러짐의 증가(0.84)를 매개하지 않았습니다. 항복에는 조언을 통째로 받아들일 수 있는 보조자가 필요합니다. 현재 자료로만 답하는 체계는 학습자에게 받아들일 것을 줄이고 조정할 것을 늘립니다.
+
 ## 실험실 밖의 항복
 
 실험실 발견들은 같은 말에 독자적으로 다다른 현장 및 관찰 연구와 일치합니다.
 
 - **인구 규모의 대체.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]]는 10년 패널에 걸쳐 3.2 million 건의 ALEKS 학습 상호작용과 12.2 million 건의 [[assessment|배치 검사]] 반응시간을 분석하고, 그래프 기반 문제를 텍스트 기반 문제의 통제 변수로 사용합니다. 학생들은 AI에 취약한 작업을 더 빠르게 완료하고 그것에서 더 높은 점수를 받았지만, 감독 하 유지 항목에서는 정답 반응의 오즈가 누적 25% 감소를 보였습니다. 저자들은 이 패턴을 인구 규모의 인지적 항복이라고 부릅니다.
 - **구별 변수로서의 검증.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]은 생성형 AI를 *어떻게* 쓰는지가 [[learning-gains|수행]]을 예측하는 반면 *얼마나* 쓰는지는 어느 쪽도 예측하지 못한다고 합니다. 무비판적으로 산출물을 받아들이는 저검증 수용은 더 나쁜 결과와 연관되었고, 평가적 통합은 더 나은 결과와 연관되었습니다.
-- **생각 없는 사용이 자기주도성이 필요로 하는 자원을 침식합니다.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]]는 평가 없이 채택하는 것을 직접 모델링합니다. 487명의 학부생에 걸쳐, 생성형 AI의 생각 없는 사용은 더 낮은 [[self-regulated-learning|자기주도 학습]](β = −0.42)과 연관되었고, 부분적으로는 감소된 [[motivation]]과 [[self-efficacy]]를 통해 그렇습니다.
+- **생각 없는 사용이 자기주도성이 필요로 하는 자원을 침식합니다.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]]는 평가 없이 채택하는 것을 직접 모델링합니다. 487명의 학부생에 걸쳐, 생성형 AI의 생각 없는 사용은 더 낮은 [[self-directed-learning|자기 주도 학습]](β = −0.42)과 연관되었고, 부분적으로는 감소된 [[motivation]]과 [[self-efficacy]]를 통해 그렇습니다.
 - **신경적·소유권적 흔적.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|인지 부채 EEG 연구]]는 [[writing-education|에세이 쓰기]]를 [[llm]], 검색 엔진, 그리고 도구 없음으로 측정했습니다. LLM 집단은 가장 약한 신경 연결성을 보였고, 자신의 작업에 대한 최저의 저자성을 보고했으며, 자신이 쓴 것을 인용하는 데 어려움을 겪었습니다.
 - **항복은 요청받지 않고 도착할 수 있습니다.** [[ai-advice-suppresses-ikt-suspension-2026|판단 중단에 관한 연구]]는 AI 조언이 가용하다는 사실만으로 사람들이 "모른다"고 말하려는 의향이 붕괴한다는 것을 발견했습니다(두 연구에 걸쳐 0.06 대 0.36, 0.03 대 0.44). 한편 정확도는 떨어지고 확신은 약 30에서 76으로 올랐습니다. 이해관계는 중단을 회복시키지 못했지만, 인센티브는 뒤집기를 장려하여 정확도를 개선했습니다. 네 번째 연구는 아무런 상의 없이도 그 효과가 나타남을 보여주었는데, 채팅 프롬프트가 아니라 자동완성이나 검색 요약의 패턴입니다.
 - **의존적·자율적 양태는 결과에서만 구별 가능합니다.** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]]은 세 물결에 걸쳐 589명의 학생과 초기 경력 근로자를 추적합니다. 핵심 사고를 위임한 의존적 과도 의존은 더 낮은 내재적 동기와 짝을 이뤘고, 자율적 과도 의존은 그렇지 않았으며, 즉각적 수행은 둘 다에서 동일해 보였습니다.
@@ -140,3 +142,4 @@ ai_assist:
 - [[brcic-effortless-trap-productive-struggle-2026]] — 과제가 힘겹게 남도록 AI를 배치하기
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — 조정 훈련
 - [[family-school-autonomy-support-genai-2026]] — 의존적 대 자율적 과도 의존
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — 학습지에 근거한 보조자가 과도 의존을 높이지 않고 낮춘 사례로, 항복 서명의 경계 조건(Braun 2026)

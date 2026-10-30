@@ -1,7 +1,7 @@
 ---
 title: AI 오용의 감소
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ ai_assist:
 ### 왜 구조적 수단이 가장 중요한가
 
 개입은 **인과적 근거 × 구조적 도달 범위 × 확장성 × [[sustainability]]**에 따라 분류될 수 있습니다. 이에 기반하여 두 가지 *구조적* 수단이 가장 높게 순위 매겨집니다. 학생들이 올바른 행동을 선택하든 그렇지 않든 작동하기 때문입니다. 즉, 내적 동기에 의존하기보다 환경을 제약합니다. *교육적* 수단은 필수적이지만 학생이 동의할 때만 효과적이므로, 개념적 잠재력에도 불구하고 두 번째 층위로 다루어집니다. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]]는 구조적 논증을 한 단계 끌어올려, 학생의 행동이 아니라 거버넌스를 구속하는 제약으로 다루고, 130개 항목의 진실성 지표 틀을 제안하여 학문적 거버넌스 담당자가 평가가 진정한 것인지, 학생들을 평가하는 교수자들에게 학생들이 개별적으로 알려져 있는지, 그리고 진실성이 오리엔테이션과 예비 교육에 포함되는지를 볼 수 있게 합니다. 그들의 개혁은 거버넌스 구조, 사람, [[ai-technologies|기술과 자원]]을 겨냥하며, 학생들이 찾아내기 전에 평가의 취약점을 드러내기 위해 사이버 보안에서 [[guardrails|레드팀 기법]]을 차용할 것을 제안합니다 — 이는 구조적 바닥이 그 바닥을 유지할 정보와 의지 모두를 필요로 하는 기관들에 의해 유지된다는 사실을 일깨워 줍니다.
+책임 있는 사용 문헌 자체는 이 순위가 전제하는 연쇄를 좀처럼 검증하지 않습니다. 31개 연구에서 뽑은 122개의 접근 기록 가운데 51개만이 구현과 평가를 모두 거쳤고 대부분 자기 보고에 의존했으며, 경계를 정의하고 그 경계를 중심으로 개입을 설계한 뒤 학생의 결정이 그것에 정렬되었는지 시험한 연구는 네 편뿐이었습니다([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 
 ### 1층위 — 학습에 대한 해를 줄이는 것이 직접 입증된 것
 
@@ -149,3 +150,4 @@ ai_assist:
 - [[li-genai-assessment-language-equity-2026]] — EAL 작문가에게 언어 지원이 끝나는 곳과 대체가 시작되는 곳(Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — AI 채점에 대한 오용 경로로서의 프롬프트 인젝션(Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 진실성의 구속하는 제약으로서의 거버넌스: 130개 항목의 지표 틀(Coates, Croucher & Calderon 2025)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — 학술 작문에서 생성형 AI의 책임 있는 학생 사용: 경계, 교육적 접근, 증거 격차에 관한 범위 검토

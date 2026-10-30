@@ -1,7 +1,7 @@
 ---
 title: AI 지원 교육 연구
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-10-30T04:56:45-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -158,6 +158,12 @@ AI 글쓰기의 규모 효과는 두 번째 서지계량 연구에 나타납니�
 - **실행의 감사가 아니라 보고 간극.** PRISMA-LLM은 논문 수준의 침묵을 읽습니다; 논문에 평가가 없는 워크플로도 다른 곳에서는 검증되어 있을 수 있습니다.
 - **실천자 연구는 과소 대표됩니다.** 여기서는 소수의 페이지만 SoTL이나 교실 연구를 언급하므로, 코퍼스는 자신의 실행을 연구하는 교사들에 대한 주장을 뒷받침할 수 없습니다.
 - **움직이는 표적.** 도구들은 출판보다 빠르게 향상하므로, 2025년 워크플로에 관한 발견은 그 형태로는 더 이상 존재하지 않을 수 있는 한 세대의 체계를 묘사합니다.
+
+## 흔한 오해
+
+- **"LLM 논문과 소프트웨어 논문은 똑같이 잘 평가된다."** 2023년 이후 **소프트웨어 및 제품 논문의 38.0%가 아무런 평가도 보고하지 않았으며, LLM 논문은 9.3%였습니다**. 격차는 크고, 더 새로운 도구가 덜 엄격하게 시험된다는 가정에 반합니다.
+- **"과제별로 층화하면 격차가 해소된다."** **그 격차는 층화를 견딥니다**. 선별과 선택에서 소프트웨어 논문은 **실질적 평가 항목이 평균 3.2개이고 39.3%가 아무것도 보고하지 않았으며**, LLM 논문은 평균이 더 많았습니다. 그 차이는 과제의 속성이 아니라 논문 부류의 체계적 속성입니다.
+- **"긍정적 평가는 그 워크플로가 의도된 기준을 충족했다는 뜻이다."** **긍정적 평가만 담은 LLM 논문 118편 가운데 52%가 그 워크플로가 맡은 역할에 요구되는 기준에 미치지 못했다는 우려를 적어도 하나는 보고했습니다**. 긍정적 평가의 절반이 자기 반박을 품고 있었던 것입니다.
 
 ## 인용
 
