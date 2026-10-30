@@ -1,7 +1,7 @@
 ---
 title: 自我决定理论
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-24T15:57:18-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,12 @@ SDT 在教育中的 AI [[research-methods-aied|研究]] 中日益被用作一面
 ## 与相关概念的关联
 
 SDT 直接与 [[motivation]] 相连（作为其母构念），与 [[affective-computing]] 和 [[affective-tutoring]] 相连（面向情感感知的 AI 设计），并与 [[student-experience]] 相连（学习者如何体验 AI 中介的环境）。该理论对自主的强调关联到 [[self-regulated-learning]]，而其胜任维度关联到 [[self-efficacy-tutoring-learning]] 与 [[teacher-ai-competency]]。SDT 与 [[professional-training]] 和 [[educational-development]] 格外相关，因为需求支持型设计是一条可迁移的原则，用于为教育者使用 AI 做准备。
+
+## 常见误解
+
+- **“动机类型比动机数量更不重要。”** 一项为期一年的研究发现，**三种动机画像（疏离、发展中、自我决定）随时间保持稳定**，而达到**自我决定**画像的学生显示出**最大的 [[ai-literacy|AI 素养]]增益**。动机的质量预测了学习，而画像并未简单地上移。
+- **“自主支持意味着去掉结构。”** SDT 的机制是自主、胜任与关联三者共同作用，纵向证据显示满足它们预测了增益，而不只是伴随增益。没有胜任支持的自主是放任，并不满足该理论的条件。
+- **“聊天机器人可以自动提供这三种需要。”** 一项研究发现，ChatGPT 可以在语言学习中支持自主、关联与胜任，这是一种可能性，而不是一种属性。某次具体交互是否支持它们，是关于它如何被使用的经验问题。
 
 ## 关联概念
 

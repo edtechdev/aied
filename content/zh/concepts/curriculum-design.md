@@ -1,7 +1,7 @@
 ---
 title: 课程设计
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-24T14:45:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-21T13:42:59-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,12 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 ### 与相关概念的联系
 
 课程设计直接与 [[learning-design]] 相连——课程定义教什么，教学定义如何教。它与 [[ai-literacy]] 相连，因为内嵌 AI 胜任力是一个首要的课程挑战；与 [[teacher-role]] 和 [[educational-development]] 相连，因为课程变革需要教育者做好准备；与 [[scaffolding]] 相连，因为设计良好的课程会在课程与年份之间支架化技能的发展。与 [[higher-ed]] 和 [[k-12]] 的联系，反映了课程设计在各教育层级上的相关性。
+
+## 常见误解
+
+- **"只要在高信度上通过验证，大语言模型就能映射一门课程。"** GPT-o3-mini 为 **48 项评估**中的每一项把 **100% 分配到七项企业技能**上，与专家权重相比达到 **Krippendorff's alpha 0.81**，而**一致性**在某些具体技能上崩塌。整体信度高而一致性不均，是信任该映射之前应当核查的模式。
+- **"嵌入 AI 素养意味着增设一门课程。"** LearnAI 展示了嵌入的形态：一层由简短报告构成的广泛接触层，嵌在横跨五个学科的 **18 门既有课程**中（**293 名学生**）。接触被分散到整个课程中，而非集中成一个单元。
+- **"学生来到课堂时已经能批判性地评价媒介。"** 只有 **13.8% 的受访教育与新闻专业学生**说自己的课程涉及批判性媒介分析，而有 **97.8%** 认为它重要。重视一项技能与真正被教过它之间的缺口，正是课程设计的入口。
 
 ## 关联概念
 - [[pedagogical-partnerships]] — 教学伙伴关系

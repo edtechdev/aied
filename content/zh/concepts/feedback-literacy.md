@@ -1,7 +1,7 @@
 ---
 title: 反馈素养
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,14 @@ AI 在两个方向上改变反馈，两者都提高了反馈素养的赌注。�
 反馈素养与 [[ai-feedback-quality]] 和 [[feedback|反馈循环]] 相连（它所互补的提供侧）、[[formative-assessment]]（它所滋养的评估循环），以及 [[self-regulated-learning]]（它所支持的 [[self-assessment]] 与适应）。当应用于 AI 生成的反馈时，它是 [[ai-literacy]] 的一个子集，在协作情境中与 [[peer-assessment]] 相交，并对 [[writing-education]] 格外关键。它也与 [[metacognition]] 和 [[trust-calibration]] 相连——即判断反馈是否值得信任的能力。
 
 据反馈行动与改善产物并不是一回事。在 22 名职前数学教师中，对 AI 与同伴反馈的选择性采纳是常态（44 段情节中有 32 段），但只有五人改善了他们所设计任务的质量——作者把这一转化差距归因于 [[evaluative-judgment|评价性判断]] 而非采纳（[[ai-peer-feedback-stem-teacher-education-2026|Oh，2026]]）。
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang 与 Guo（2026）]]把反馈素养视为可通过实践发展的能力：与生成式 AI 对话式协作以生成评语的 EFL 同伴评审者，提升的是自己判断与使用反馈的能力，而不只是他们递送的评语。
+
+## 常见误解
+
+- **"AI 反馈直接提升批判性思维。"** 在 **421 名中国本科生**中，GenAI 使用与[[self-report-measures|自陈]]批判性思维的关联**经由反馈素养传递**。素养是中介，因此只增加 AI 反馈而不建设阅读它的能力的干预，针对的是错误的项。
+- **"素养是前提，而不是结果。"** 一项对 **399 名中国本科生**的**三波随机截距面板**发现，AI 反馈素养预测**之后**的能动性投入（**β = 0.222**），因此这个循环是双向的。它是动态的，而不是一次通过的关卡。
+- **"可操作性才是让反馈改变写作的东西。"** 在**两个各 48 名学生的完整班级**的三个写作、反馈、修改循环中，**理解**才是承载修改收益的维度。学生无法解析的反馈，不会因为变得更可操作而改善。
 
 ## 关联概念
 

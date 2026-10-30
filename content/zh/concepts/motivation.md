@@ -1,7 +1,7 @@
 ---
 title: 动机
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-24T15:01:07-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,6 @@ ai_assist:
 **动机增益是构念特定的，而非一般的。****[[genai-writing-program-primary-l2-motivation-engagement|Lu 等（2026）]]**发现，一个为期九周、面向 301 名五、六年级学习者的 GenAI 支持的[[writing-education|写作]]项目，提高了他们理想的 L2 写作自我与学业韧性 —— 动机的抱负成分与复原力成分 —— 而成长型思维未变；唯一的成长型思维增益出现在对照组，且未通过多重比较校正。学生把这一转变归因于看到流利的文本由他们已知的词汇建构而成，这使成功的写作感觉可达。因此动机不是一个可由 AI 统一调大的旋钮：改善的是“一个人*能够*写好”的信念，而非“能力随努力增长”的信念。当 GenAI 本身就是相关性干预时，也出现同样的构念特定性。**[[genai-math-relevance-intervention-2026|Guo、Fryer 与 Shum（2026）]]**让**218 名高中生**花一小时与一个[[conversational-ai|聊天机器人]]进行半结构化对话，话题是针对[[math-education|数学]]的个人相关性；集体、班级层面的版本提高了作为认同的相关性（F = 4.35，p = .014，η² = 0.04；对对照组 F = 11.11，p = .001，η² = 0.073 —— 中等效应），并在结构方程模型中预示了一周后对某一具体课的相关性（β = 0.18，p < .01），而对数学课的兴趣没有变化（F = 0.29，p = .75，η² = 0.003）。作者把这一脱钩归因于剂量：单一一小时课程太短，相关性增益无法固化为对课程的兴趣。
 
 一个效用价值干预并非一致有益：一个有脚手架的版本在职前教师的知识整合上未产生总体增益，且*损害了*入门时感知效用价值高的学习者，这是一种主张把动机支持与学习者起点相匹配的能力–处理交互（[[utility-value-intervention-teach-responsibly-genai-2026|Boos、Eder 与 Lachner（2026）]]）。
-
 **一条反馈信息经由其被感知的有用性（而非学习者的性情）改变兴趣。****[[jansen-argumentative-writing-feedback-receptivity-2026|Jansen 等（2026）]]**在 1,507 名中学生完成一篇论辩文本初稿后，给他们一条标准化的自动反馈信息：总体接受度是唯一与情境兴趣变化相关的接受度维度（观测量表上约 0.11 分，大致为第 54 对第 46 百分位），而该效应被感知到的有用性完全中介（间接 β = 0.09，95% CI [0.06, 0.13]），且未留下显著的直接路径（β = 0.06，95% CI [−0.07, 0.16]），因此改变兴趣的是信息被感到的价值，而非学习者对反馈的总体立场。
 
 **教师动机与坚持性**考察教育者中的动机。**[[framing-5-percent-problem-teachers-persistence|框定百分之五问题]]**研究教师对 AI 工具的坚持性，而**[[teacher-education-ai-literacy-sdt-2026|Chiu 等]]**发现，支持需要的[[educational-development|专业发展]]培养专业学习共同体中持续的行为参与。
@@ -82,6 +81,12 @@ ai_assist:
 ## 与相关概念的关联
 
 动机是[[self-determination-theory|自我决定理论]]的母构念，后者规定了维持内在动机的心理需要（自主、胜任、关联）。它连接到[[student-experience|学生体验]]作为受激励参与的体验层，连接到[[student-engagement|学生参与]]作为其可测维度，并连接到[[affective-computing|情感计算]]作为塑造动机的情绪机制。动机也连接到[[cognitive-offloading|过度依赖]]（AI 减少[[desirable-difficulties|生产性奋斗]]）、[[self-regulated-learning|自我调节学习]]（受激励的学习者自我调节），以及[[teacher-role|教师角色]]（动机既适用于教育者，也适用于学生）。
+
+## 常见误解
+
+- **“GenAI 的动机效应是干净的大幅增益。”** 一项 42 项研究的元分析（56 个效应量，6,059 名学生）发现动机效应为 g = 0.764（95% CI [0.566, 0.962]），**但 I² = 93.7%**。如此高的异质性意味着合并值描述的是一组彼此不一致的研究，因此它是对不一致处理的平均，而不是可复现的效应。
+- **“减少挫败等同于维持动机。”** 一项三臂[[rct|RCT]]发现，带脚手架的辅导者与不受限的 ChatGPT **同等程度地降低了挫败**（3.21 与 3.13）。两种非常不同的设计产生了相同的情感结果，因此挫败数据无法在它们之间区分。
+- **“有激励性的设计就是好设计。”** 在 **222 名高一学生**中，一种教师对教师的对话形式**比替代方案提升了更多 ARCS 动机**，而**未改善总体评价**。动机移动了，受评判的质量没有。
 
 ## 关联概念
 

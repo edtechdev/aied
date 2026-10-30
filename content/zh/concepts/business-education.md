@@ -1,7 +1,7 @@
 ---
 title: 商科教育
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-24T14:35:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,12 @@ ai_assist:
 - **建构性地对齐课程。** [[zhou-constructive-alignment-genai-business-2026|建构性对齐研究]]发现，课程整合的程度决定 GenAI 是利大于弊还是弊大于利——是整合，不是附加。
 - **处理持续存在的缺口。** [[espino-ai-business-education-review-2026|十年的研究]]指出课程连贯性、教师准备度与评价效度上的缺口——在项目设计中优先处理这些。
 - **让学生为 AI 整合的职场做好准备。** 把 AI 素养、伦理使用与领域应用（金融、营销、管理、经济）作为核心能力而非选修来强调。
+
+## 常见误解
+
+- **"学生想要 AI 是因为想走捷径。"** 一个由学生提供输入的框架发现，学生**高度投入，并意识到自己需要 GenAI 技能以应对职业**，同时也希望**在不无意中构成学术不端的前提下使用 AI**。他们要求的是有清晰边界的能力，而不是逃避工作的许可。
+- **"在商科课程里加几个 AI 模块就能获得收益。"** 关于建设性对齐的研究发现，**收益还是风险占主导，取决于课程整合的程度**，关键区分是**整合，而不是附加**。一个外挂的模块留下了未被改动的评估设计。
+- **"工具的精致程度胜过常规电子学习。"** 一项 **130 名学生**的感知研究发现，**聊天机器人支持与智能体支持在提升、个性化与决策支持上都高于传统电子学习**。值得注意的是这测量的是什么：学生*感知*相对于一个常规基线，而不是学习相对于它。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 自动作文评分
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,10 @@ ai_assist:
 
 - **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang 等]]** 的 RACES 用奖励对齐让 LLM 作文评分既准确又一致，回应了 AES 效度上的一个核心关切。
 
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu、Lu 与 Abdi（2026）]]综述了十二项比较 AI 与人类对 EFL 学术写作评分的研究，报告总体上中等程度的一致性：在表层语言特征上最强，在组织结构、连贯性与论证发展上最弱，而公平性很少被检视。
+
+在小学高年级的应答式写作中，[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti 等（2026）]]发现，针对学生使用证据情况的自动反馈改善了特征分数，而修订质量取决于教师是否在讨论中采纳了该反馈，而不是只取决于系统本身。
+
 ## 关键研究主题
 
 **基于提示的 AES** 已成为最可及的方法。**[[choi-anchor-aes-prompting-2025|Choi 等的范文研究]]**表明，在提示中纳入范文可使 LLM 与人的一致性接近人与人之间的信度，其中 GPT-4o mini 以更低的成本取得了与 GPT-4o 可相比的结果。这与更广泛的[[prompt-engineering]]研究相连，并使 AES 对[[teacher-role|教师]]使用变得可行。
@@ -56,7 +60,6 @@ ai_assist:
 **题型边界与作文评分的限度。** 在一次混合形式的大学考试中，[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat、Das、Bhaumik 与 Thambi（2026）]]发现 ChatGPT-5 在客观题上与教师的一致性为显著到近乎完美（CCC 0.935–1.000），但在开放式回答上急剧下降——简答题接近零甚至为负，问答题也只有 0.341–0.854——而且结构化评分量表并未稳定地改善作文一致性。这界定了 AES 效度的边界：模型的流畅性在界定良好的题目上有帮助，却不会延续到整体作文评分上，在那里对部分得分回答的情境化解读仍然偏向[[human-in-the-loop-ai|人类判断]]。
 
 **诊断一致性中的问题类型边界。** [[automated-scoring-learning-diagnosis-mechanism-2026|Yao 与 Fan（2026）]]用 DeepSeek-R1 在修改前标注具体的写作问题，并在三个循环中将其标注与教师诊断相比较（平均 F1 = 0.768，SD = 0.037）。一致性在局部线索型问题上最高，如词汇选词（F1 = 0.824），在问题取决于主张—证据关系时最低（来源使用与证据，0.579），因此在诊断角色中的一致性取决于问题类型，而不只是模型或提示。
-
 **偏斜的量表分布会让聚合评分指标误导人。** 对量表维度的自动评估可能是一个标签分布失衡的分类任务，而非连续分数：在 1,954 篇匈牙利学生作文上标注 0-3 级的反思水平时，68% 的作文处于 3 级，1.8% 处于 0 级，而最好的浅层配置（配合 Qwen3 嵌入的 SMOTEBoost）在准确率、F1 与 ROC-AUC 上的平均总分为 0.7176，最好的微调 Transformer 为 0.6872——然而一种 RidgeClassifier 配置在准确率仅 0.5162 的情况下 ROC-AUC 达到 0.7131，类别平衡又拉低了每一项指标（准确率从无平衡时的 0.6672 降到有平衡时的 0.6408），因此作者把模型选择读作"哪个指标重要"的问题，Transformer 的地位是靠少数类敏感性而非聚合一致性赢得的（[[reflection-level-classification-hungarian-essays-2026|Csibi 等，2026]]）。
 
 **高风险部署的证据。** 来自真实高风险部署的现场证据（[[human-in-the-loop-ai-scoring-national-assessment-2026|乌拉圭的 *Acredita EB*，2024–2025；Curi 等]]）显示，经过提示工程的 GPT-5 在跨 15 个题目的分析式西班牙语量表上与训练有素的人类评分者达成 60–80% 的一致，比人类评分者间一致性低约五个百分点，且从未低过 15 个百分点，几乎所有题目的逐次运行一致性都高于 90%。词汇、句法与拼写是最弱的维度，而拼写题不得不交给确定性的语法检查器（LanguageTool，准确率 68%，一致性 100%），因为词元层面的正字法是模型最不稳定的地方。为某一版考试构建的提示只需做话题特定的编辑即可迁移到下一版，而 AI 系统性地比人类更严格——偏向低评而非高评。对 AES 设计而言，其教训是：即便在国家级考试中，基于提示的评分也能接近人类一致性，而其剩余的弱点位于低层次语言惯例的层面，而非整体[[writing-education|写作]]质量。
@@ -74,6 +77,12 @@ AES 处于[[automated-assessment]]、[[writing-education]]与[[generative-ai]]�
 - **一致性、误差，以及混合评分器增添了甚么。** 在一个小型的开放式营销写作语料上，LLM 在与人类评分者的绝对一致性上胜过了确定性规则与等权混合方法（ICC(2,1) 为 .435 对 .266 与 .091），混合方法显著劣于单独的 LLM，而分数离散度与一篇近乎空的回答显示出这类估计在多大程度上依赖于语料构成（[[automated-scoring-marketing-posts-agreement-2026]]）。
 
 开放系统也是这幅图景的一部分：AiAWE 用 LoRA 适配的 Gemma-3-27B-it 为论辩作文评分，达到 QWK 0.828，在 360 篇评估作文中有 90.56% 与人类分数的差距在 ±0.5 以内——并报告模型规模在 LoRA 适配下并不能可靠地预测下游表现（[[aiawe-automated-writing-evaluation]]）。
+
+## 常见误解
+
+- **"自动评分结果反映的是学生写作。"** 序数信号可能是**被制造出来的而非观察到的**：通过模板生成、压缩至**原长度的 20-40%**并移除关键词合成的一级作文。一个在构造的极端值上验证过的系统，可能从未在它将遇到的分布上被测过。
+- **"聚合准确率是要报告的指标。"** **一个偏斜的量表分布会让聚合评分指标误导人**：对一个量表维度的自动评估常常是一个标签分布失衡的分类任务，在那里高准确率与有用的判别力彼此分离。
+- **"现场部署还没有被评价过。"** 现场证据存在于一次真实的高风险部署（**乌拉圭的 Acredita EB，2024**），这是本文献中最强形式的证据，也是多数评分准确性研究从未提供的那种证据。
 
 ## 关联概念
 

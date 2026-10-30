@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能监管
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T15:57:18-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,12 @@ ai_assist:
 ### 关联
 
 监管连接到[[educational-policy-ai]]、[[governance]]、[[ethics]]、[[privacy]]、[[pedagogical-safety]]与[[academic-integrity]]。它是塑造所有其他人工智能教育实践如何运作的机构层。监管既约束又使能：它设定可接受人工智能使用的边界，同时通过[[ai-literacy]]与负责任使用预期，为[[equity-in-ai-education|公平的]]、安全的整合创造条件。
+
+## 常见误解
+
+- **“机构 AI 政策是规则所在之处。”** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]] 对 **1,057 名美国教师** 的调查测量了有效规则落在机构层之下有多深：**87% 的受访者自己写了**指引。可运作的政策在很大程度上由教师撰写，这意味着有记录的机构层所描述的东西比它看起来的要少。
+- **“写出一份政策就覆盖了有风险的表面。”** [[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]] 说明了为什么评估工具应属于受监管的那一组：在一次红队测试中，藏在提交文件里的 **五种间接提示注入有两种** 成功了。一条点名了工具却没有点名注入表面的规则，把这一利用方式留在未处理的状态。
+- **“智能体系统可以通过延伸现有规则来覆盖。”** 在一项对 **12 所大学** 的文件分析中，[[wong-sun-agentic-ai-assessment-governance-2026|Wong 与 Sun（2026）]] 发现**没有任何对照研究涉及一个智能体登录学习管理系统**。这一治理缺口是结构性的：现有类别没有为一个持有凭证的自主行为者留出位置。
 
 ## 关联概念
 

@@ -1,13 +1,13 @@
 ---
 title: 情境学习
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,7 @@ ai_assist:
 情境学习是本知识库[[learning-theories]]脉络内的活动与情境理论之一。它承接维果茨基式的社会建构主题，但增添了强烈强调"做"与"学"的紧密整合，以及实践社群的重要性。作为一种教育立场，它通过把学习者的[[sociocultural-learning|社会文化]]语境推向前台、作为获取技能与习得与其现实相关的知识的关键要素，直面传统的标准化学校教育。
 
 在[[ai-education|AI 教育]]文献中，情境学习之所以重要，是因为它为 AI 提供了一个设计透镜：[[adaptive-learning|自适应系统]]、置于真实情境中的[[intelligent-tutoring|智能辅导]]，以及[[virtual-and-augmented-reality|沉浸式]][[simulation|模拟]]能把 AI 驱动的教育扎根于真实世界情境，而情境学习反过来为 AI 提供了扎根于真实实践与复杂性的有意义的锚。二者被广泛视为互补，而人类的指引对[[ethics|伦理]]根基仍然必不可少。
+- **把材料本身情境化也是一种情境学习的动作。** DagFlow-AI 围绕学生自己陈述的兴趣生成一份统计数据集（其中一个案例研究用了一名学生对气候变化与健康的关切），同时保持学习目标与技能水平不变（[[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur 等，2026]]）。让*数据*匹配学习者、而不是让讲解匹配学习者，把实践的语境当作需要被情境化的东西。作者承认其局限：合成的数据教不了数据采集、测量或研究设计，因此这个语境对学习者是真实的，对世界却不是。
 
 ### 情境学习作为 AI 的设计透镜
 
@@ -47,6 +48,13 @@ ai_assist:
 - **情境化的 AI 伦理。** 关于 AI 的伦理推理本身最好被当作*情境化的*——扎根于文化历史与生态情境，而非抽象原则。（[[raffaghelli-situated-ai-ethics-2026]]）
 
 情境学习与[[embodied-learning]]（二者都强调认知在情境与行动中的扎根）、[[distributed-cognition]]（分布于人、工具与情境的学习）、[[experiential-learning]]与[[constructivist]]理论紧密相连。在 AI 教育中，它支撑着对去情境化、去具身学习的批评：让学习者保持锚定于真实实践的 AI 设计，保全了持久学习所需的情境性。
+
+## 常见误解
+
+- **"情境学习就是给一节抽象课加一个真实情境。"** 该理论的主张强于情境包装：学习由参与一个实践社群所构成，而所学的是那种参与所提供的东西。一个附上职场框架的示例讲解，仍然教的是那个示例，而不是那种实践。
+- **"真实性是任务的一种属性。"** 真实性是一项活动与一个真实社群的正当工作之间的关系。一项任务可以很精巧，却仍是学校形状的：由教师评分、为了成绩、在它声称代表的世界里没有后果。
+- **"评估从任务中浮现，就意味着没有评估。"** 它意味着标准属于社群而非课堂：这份工作对做这份工作的人是否可以接受。那是一个不同且通常更严格的标准，比量规更严格。
+- **"学徒制需要物理场所。"** 机制是合法的边缘性参与：带着真实责任从一种实践的边缘向其中心移动。线上与模拟环境可以支持它，也可以模拟出边缘却从不授予参与，而区别在于学习者的贡献是否真的被使用。
 
 ## 关联概念
 

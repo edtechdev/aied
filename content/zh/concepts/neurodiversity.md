@@ -1,7 +1,7 @@
 ---
 title: 神经多样性
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T14:59:14-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ ai_assist:
 ## 关联
 
 神经多样性连接到[[special-education]]、[[inclusive-learning]]、[[universal-design-for-learning]]与[[equity-in-ai-education]]。它为AI如何被部署以服务[[student-experience]]、以及评估和素养项目如何设计得在认知变异性上公平，两者都提供信息。关于这些发现如何与其他学习者群体 —— 语言、性别、社会经济地位、地理 —— 并列，见[[differential-effects-across-learner-groups|不同学习者群体间的差异效应]]。
+
+## 常见误解
+
+- **"神经多样性研究只是 AIED 的一个小众角落。"** 该领域已**围绕[[generative-ai|生成式 AI]]重新组织：40 项研究中有 15 项**，沉浸式形式以 11 项居次。文献是随技术移动的，而不是围绕稳定的问题累积起来的。
+- **"给阅读障碍的 AI 越多，支持就越好。"** [[dabaghi-ai-dyslexia-education-review-2026|关于 AI 用于阅读障碍的跨学科综述（Dabaghi、D'Urso 与 Sciarrone，2026）]]覆盖 **2018-2024 年的 72 项研究**，发现 AI 被用于范围很广的目的。应用的广度并不构成其中任何一项有效的证据。
+- **"accommodations 是神经多样性学习者的正确框架。"** [[neurodivergent-computing-students|一项对 24 名神经多样性计算专业学生与 20 名神经典型同伴的调查]]加上四次深度访谈发现，他们的需求属于**通用设计要求**：结构化的作业、小而稳定的团队、明确的角色，而不是在获得诊断之后才被授予的个别调整。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 评估
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:30-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 connected_resources: [idstack, lesson-md, master-instructional-design]
 translation_of: concepts/assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 ## 人工智能在评估中的使用
 
 - **自动化评估：**[[automated-assessment|基于人工智能的评估]]横跨多种模态——选择题、简答、作文、代码与基于表现的评价——通过[[automated-assessment|自动评分]]、[[automated-essay-scoring|自动作文评分]]与[[automated-question-generation|自动出题]]实现。
-- **形成性评估：**[[formative-assessment|人工智能系统]]大规模生成、验证并调适形成性评估题目，为持续的教学提供信息，而不只服务于[[summative-assessment|终结性]]评价。
+- **形成性评估：**[[ai-technologies|人工智能系统]]大规模生成、验证并调适形成性评估题目，为持续的教学提供信息，而不只服务于[[summative-assessment|终结性]]评价。
 - **学习分析与测量：**[[learning-analytics|学习分析]]与[[educational-measurement|教育测量]]把评估数据连接到学习过程，用[[item-response-theory|项目反应理论]]、[[knowledge-tracing|知识追踪]]与[[student-modeling|学生建模]]解释表现。[[razavi-powers-item-difficulty-llm-2026|Razavi 与 Powers（2026）]]演示了把基于 LLM 的题目难度估计作为测量输入：在 5,170 个按 Rasch IRT 模型校准的 K-5 数学与阅读题目上，GPT-4o 的零样本评分与真实难度呈中到强相关（数学 r = 0.83，阅读 r = 0.81），但随年级而变，而一个基于特征的方法（把 LLM 抽取的特征输入树模型）达到最高 r = 0.87 的相关性。该研究为测试专业人员提供了一套实用的七步工作流，同时告诫其向 K-5 数学与阅读之外的可推广性尚不清楚。
 - **反馈回路：**人工智能评估日益汇入[[feedback|反馈回路]]，闭合从评估到学习的循环。
 - **电子档案评估：**[[eportfolio|电子档案]]把学生长期的作品与反思汇集为一种基于过程的、抗人工智能的评估形式。生成式人工智能可以协助档案袋的*过程*——生成反馈、[[scaffolding|脚手架化]]反思，以及（在恰当的量表设计下）支持评价——而档案袋对推理痕迹与草稿的强调能抵御人工智能的编造。[[ni-lam-multiliteracies-ai-portfolio-2026|人工智能辅助的档案袋评估]]与[[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT 加电子档案用于 EFL 口语]]表明，人工智能能同时提升档案袋的体验与学习者的[[feedback-literacy|反馈素养]]。
@@ -79,6 +79,7 @@ ai_assist:
 - **由评估目标推导的任务层面人工智能许可：**[[mccorkle-aligned-genai-course-policy-2025|McCorkle（2025）]]展示了先于[[educational-policy-ai|人工智能政策]]的评估设计工作——清点一个项目中的每一项任务，指明在评估什么、对照哪个目标，并据此逐任务许可或禁止人工智能（头脑风暴与图像策展被允许；编写学习目标与幻灯片设计不被允许）。同一项对齐练习还兼作对该评估所支撑的推论的检查，因为它迫使教师说出一个分数意在保证何种表现（[[assessment-validity|评估效度]]）。
 - **超越语言模式的评估：**Jiang 等（2026）为第二语言教师定义了多模态评估素养，即唤起跨语言、视觉、听觉、手势与空间模式作答的任务所需的知识、价值与胜任力。一个为期一年的、有 30 位香港英语教师参与的项目，把评估策略的知识从 3.13 提高到 5 分制下的 4.15（partial η² = 0.571），把支持学生的胜任力从 3.05 提高到 3.98（0.482），而三个价值子域全部持平。教师自身的经验为框架补充了两个维度：在相互竞争的课程优先级面前维持这一实践，以及批判性地动用生成式人工智能（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 等（2026）]]）。
 - **共同作者身份与声明**作为评估契约的一部分
+- **对交互而非制品评分的基于过程的量规标准。**[[rubrics-genai-process-based-assessment-2026|Oviedo 与 Díaz（2026）]]把 Biggs 的 3P 模型读作三个关键的评分维度：人的能动性与批判性监督、与[[prompt-engineering|提示工程]]相连的对话式支架，以及扎根于[[academic-integrity|诚信]]与透明性的认知主权，并论证一份完成的文件不再携带关于谁的推理产出它的信息。
 - **作为胜任力的生产**——评价学习者指挥工具并产出专业水准作业的能力（[[competency-based-education-genai-production-2026|基于胜任力的教育]]）
 - **评估交互过程，而不只是制品**——[[assessing-student-drive-framework-2025|DRIVE 框架]]（Directive Reasoning Interaction + Visible Expertise）把学生*与生成式人工智能的参与*的质量当作被评估的构念。它通过看学生是否策略性地引导提示（DRI）并通过交流整合并发展自己的学科想法（VE），来区分表面消费与深刻、反思性的交互，把面向过程的标准扎根于[[self-directed-learning|自主学习]]理论与[[icap-framework|ICAP]]层级意义上的认知参与理论。这使 DRIVE 成为*人工智能中介的真实性评估*的一个例子——一份评价学习者如何与生成式人工智能结为伙伴的量表，而非一个检测工具。
 
@@ -93,6 +94,12 @@ ai_assist:
 - **创新实践可以同时应对多个问题。**[[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]主张，一套五项相互强化的实践——[[authentic-assessment|真实性评估]]、自我与[[peer-assessment|同伴评估]]、重评、[[mastery-learning|基于标准的给分]]与不给分——若与“为了学习的评估”范式对齐，就能对抗传统、重终结性、常模参照给分的伤害（表层学习、被侵蚀的[[motivation|内在动机]]、压力与焦虑、不公平，以及被损害的[[academic-integrity|诚信]]）。他们发现采用在不同领域不均衡——自我与同伴评估占主导，而聚焦给分的创新仍处边缘——并敦促教育者更主动、更互惠地投入评估与给分创新，辅以渐进式的试验与[[governance|机构]]支持。
 
 - **人工智能中介的评估正在多样化。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]表明，一个 LLM 增强的[[conversational-ai|对话智能体]]降低了学生在基于表现的评估中的焦虑；[[asynchronous-oral-assessment-2026|Pentland（2026）]]发现异步口试提供了更高的参与，并被感知为与专业相关；[[graph-its-adaptive-algorithms-2026|基于图的智能导学系统]]用自适应的知识状态追踪为评估提供信息。
+
+## 常见误解
+
+- **"诚信主要是一个检测问题。"** 对 **26 名学生**的滚动回看访谈显示，学生在使用 GenAI 的评估中沿着一个**光谱**作判断，而在 **157 名学生**中，GenAI *如何*被使用，即支持理解的评价性整合与替代性的走捷径，预测了结果。使用的方式比使用本身更能区分学生。
+- **"非英语母语者才是作弊风险。"** 一项对 **25 项研究**的 PRISMA 综述补上了一个检测之争遗漏的风险因素：非英语母语者在挣扎于语言要求时表现出**很高的违反诚信倾向**。这是一个被误读为诚实问题的语言支持问题。
+- **"一条禁止 GenAI 的政策就能定论。"** 学生报告的是一系列判断，而不是遵循规则的模式，因此一条不触及学生已在进行的评价性推理的规则，不会被一致地遵守。
 
 ## 关联概念
 
@@ -145,3 +152,4 @@ ai_assist:
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — 人工智能能做你的作业。现在怎么办？关于生成式人工智能时代计算评估的在线工作坊报告
 - [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment：重新对齐评估的三顶点框架
+- [[rubrics-genai-process-based-assessment-2026]] — 对交互而非制品评分的量规标准

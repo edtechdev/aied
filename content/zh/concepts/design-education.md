@@ -1,7 +1,7 @@
 ---
 title: "设计教育"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-24T14:21:43-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -52,6 +52,8 @@ ai_assist:
 
 - **净效应是分化而非提升。** [[ai-mediated-cognitive-divergence-2026|Crolla、Xia 与 Jiang（2026）]] 借助一个建成环境院系的 24 次访谈与一份 32 人教师调查，描述了*认知分化*：AI 放大先前差异，让较强的学生延伸推理，而较弱的学生委派形成性工作并产出看似连贯、实则未理解的产出——一种"能力的虚假感觉"，在追问下崩溃。过程可见性的丧失——在一个把可见过程当作学习首要证据的领域——以及充当 [[desirable-difficulties]] 的摩擦性阶段的侵蚀，加剧了它。教师积极性与教学相关性同步（β = 0.534, p = .004），而非与资历；而院系的缓解措施无法扩展到工作室规模的班级之外——这论证了过程证据要求的制度化。局限：单一机构，n = 32，教师感知。
 
+- **对颠覆的觉察并不只是令人沮丧。** 在 568 名中国设计学生中，对 AI 可能取代部分设计工作的觉察与自评创新胜任力正相关（β = 0.375），经由一条为 0.0929 的促进聚焦路径与一条为 -0.0884 的预防聚焦路径，两者几乎相互抵消（[[wang-ai-disruption-design-innovation-competence-2026|Wang 等人（2026）]]）。每一项测量都来自单一的自陈波次。
+
 - **学科在哪些行为划算上有所不同。** [[same-ai-different-pathways|Shen（2026）]] 比较了 221 名设计学生与 222 名商科学生，发现 [[ai-literacy]] 同时预测提示熟练度与核验行为（p < .001）。核验直接预测设计组的任务质量、商科组的校准准确度——开放式构思对审计式分析标准——而核验充当了对 [[cognitive-offloading]] 的元认知防护。
 
 - **当评分规则居间时，工作室判断可被逼近。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等（2026）]] 通过迭代精炼评分规则描述符，把 80 份设计海报上的 LLM-人类一致性从 54.75% 提高到 81.25%；教师、同伴评审与资助评审的提示在同一作品上产生了认识论上不同的反馈。作者把评分规则当作教学意图与机器推断之间可修订的界面，并保留 [[human-in-the-loop-ai|人工监督]]以防幻觉出的理由。
@@ -67,6 +69,13 @@ ai_assist:
 ## 专业养成与监管
 
 此处的问题与专业问题不可分割。[[ai-interior-design-malaysia-2026|Syed Abdul Rahman（2026）]] 描述了马来西亚室内设计师从主要形式生成者转向机器产出的批判性中介与策展人，其中 [[visualization|可视化]]平台压缩了时间线，而生成的方案仍缺乏文化特定性、气候响应性与可靠的可建造性。其课程建议是排序而非替换——CAD/BIM、建造知识与人的因素先于生成式探索，以及奖励 [[critical-thinking]] 与伦理反思的标准。专业一侧未解决：室内设计监管比建筑的非正式化，留下披露、算法错误的问责以及早期从业者技能退化等悬而未决的问题。该分析是基于文件的、单一国家的。
+
+## 常见误解
+
+- **"AI 在设计工作室里主要是一种写作辅助。"** 一项对 **280 名米兰理工大学设计学生**外加 **100 份硕士 AI 使用日志**的调查发现，使用集中于研究与写作：**编辑写作 77.5%、查找信息 74.5%、头脑风暴 68.0%**，而**整份作业的使用罕见，为 18.6%**。这一模式是对部分的增强，而非对整体的替代，数字显示的是实际实践所在之处。
+- **"设计学生是热情的采纳者。"** 同一群体显示 **71% 每日或每周使用 GenAI，65% 不信任它，85% 修改其产出**。频繁使用与低信任并存，因此一个其价值主张假定信任的工具误读了用户。
+- **"GenAI 在设计过程中普遍有用。"** 在一项纵向工作室研究中构建的 GAI-A 平台发现**只有两种生产性用途**：GenAI 作为早期构思中的视觉刺激，以及作为**开发阶段解空间的组合扩展器**。有用性是分阶段的。
+- **"创造力的增益太弥散，无法测量。"** 在一个 **31 人子组**中，创造性思维分数从 **77.23 升至 94.68（d = 0.82）**。增益是可测的，且被限定在一个子组内，而这是该主张诚实的形式。
 
 ## 关联概念
 
@@ -107,3 +116,5 @@ ai_assist:
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit：一个面向工作室反馈的、成果物感知的 AI 评图工作空间；基于模拟的就绪度研究，非学习增益
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 一项建筑设计实验：一个 DALL-E 3 工作流降低了一般创造性自我效能
 - [[human-ai-collaboration-design-education-rubric-2026]] — 一个过程评分标准可以把 AI 核验变成被评分的对象
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — 设计学生对 AI 技术颠覆的觉察、设计思维心态与设计创新胜任力

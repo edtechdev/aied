@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: 多语言学习
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-24T15:45:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,12 @@ ai_assist:
 - **反映文化与语境，而不只是翻译。**多语言 AI 必须超越翻译，走向[[culturally-relevant-pedagogy|文化相关教学法]]——生成在语言上和语境上都恰当的内容（[[llm-cultural-relevance-k12|K-12 文化相关性]]）。
 - **把 AI 与多语言支持结构配对。**在基于文本的 AI 失败处使用语音优先和口头模式（[[kutti-ai-voice-first-learning-companion|语音优先伴侣]]），并在双语语境中支持[[self-regulated-learning|自我调节]]（[[bilingual-llm-lecture-companion-srl-2026|双语讲义伴侣]]）。
 - **留意数字鸿沟。**AI 中的单语偏见会加深[[digital-divide]]并损害泛[[global-south]]的获取——在工具选择之外，还要规划公平的基础设施与获取。
+
+## 常见误解
+
+- **“目标语应当从第一天起就占主导。”** 在一项 **24 项研究的系统综述**中，学习者会**用自己的语言要求语境化的短语与解释，以此作为进入目标语的桥梁**，综述者把这种用法归类为一种真正新的子可供性，而非一种变通。母语支持起的是脚手架作用，而不是回避。
+- **“AI 语言评估对多语言写作者有偏见。”** 在这里，偏见追随的是**人类基线而非模型**：对 **3 至 6 年级信息类写作**的基于 LLM 的比较判断与研究者的量规趋同（r = .59-.73），并显示出与人类评分者相同的模式。这并非绝对意义上的公平证据，而是模型没有在既有扭曲之上引入新扭曲的证据。
+- **“翻译质量式的输出才是有用的部分。”** 桥梁式用法是解释性的、情境化的，而不是替代性的。一个取代学习者自身产出的工具，移除了桥梁本应促成的练习。
 
 ## 关联概念
 

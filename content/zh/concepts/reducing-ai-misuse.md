@@ -1,7 +1,7 @@
 ---
 title: 减少 AI 滥用
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-10-09T18:58:08-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ ai_assist:
 ### 为什么结构性杠杆最重要
 
 干预可按**因果证据 × 结构性覆盖面 × 可扩展性 ×[[sustainability|可持续性]]**排序。在此基础上，两项*结构性*杠杆排名最高，因为它们无论学生是否选择正确行为都起作用——它们约束环境，而不依赖内部动机。*教育性*杠杆必不可少，但只在学生认同时才有效，因此尽管概念上前途可期，仍被归为第二层级。[[coates-governing-academic-integrity-indicators-2025|Coates、Croucher 与 Calderon（2025）]]把结构性论证又推高一层，把治理而非学生行为视为约束条件，并提出一个 130 项的诚信指标框架，让学术治理者得以看到：评估是否真实、学生是否为评价他们的教师所个别地了解、诚信是否出现在入学教育与入学指导中。他们的改革瞄准治理架构、人员以及[[ai-technologies|技术与资源]]，并提议从网络安全领域借来[[guardrails|红队测试]]，在学生发现之前暴露评估的脆弱之处——这提醒我们，结构性底线由机构维护，而机构需要维护它所需的信息与意愿。
+负责任使用的文献本身就很少检验这一排序所假定的链条。在取自 31 项研究的 122 条方法记录中，有 51 条既被实施又被评估，且多以自我报告的方式评估，而只有四项研究界定了一条边界、围绕它设计了一项干预，并检验了学生的决定是否与之相符（[[tie-responsible-genai-use-academic-writing-review-2026|Tie、Gil Ortega 与 Zhao（2026）]]）。
 
 ### 第一层级——已被直接证明能减少学习损害
 
@@ -149,3 +150,4 @@ ai_assist:
 - [[li-genai-assessment-language-equity-2026]] — 对 EAL 写作者而言，语言支持止于何处、替代始于何处（Li 2026）
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — 提示注入作为针对 AI 评分的滥用向量（Humble 2026）
 - [[coates-governing-academic-integrity-indicators-2025]] — 治理作为诚信的约束条件：一个 130 项的指标框架（Coates, Croucher & Calderon 2025）
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学术写作中生成式 AI 的负责任学生使用：关于边界、教育方法与证据缺口的范围综述

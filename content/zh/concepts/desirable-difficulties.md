@@ -1,14 +1,14 @@
 ---
 title: 可取的困难
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
 connected_faqs: [reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,16 @@ AI 支持的学习所面临的核心张力在于，[[generative-ai|生成式 AI]
 4. **让摩擦匹配学习者的准备度。** 可取的困难让那些能投入费力加工的学习者受益；没有支持的过度挑战则有挫败之险。[[scaffolding]]必须把学习者留在生产性挣扎的区域，而不是推过它。
 
 TutorMoments 把可取困难的原则操作化为评价标准：[[zhang-tutormoments-2026|Zhang 等（2026）]]检验 AI 导学系统是否通过"必要时为可及性搭脚手架、就绪时推动严格性"来保全生产性挣扎，并发现 LM 导学系统默认过度脚手架化——移除了可取的困难所必需的费力加工。
+
+## 常见误解
+
+**“学习时的轻松与流畅说明学习正在发生。”** 它们常常说明相反的事。流畅是一种与持久保持弱相关或负相关的线索，而 AI 时代的版本有一次直接的延迟测验：[[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui（2025）]] 的随机试验发现，用不受限制的 ChatGPT 学习 AI 与机器学习主题的 **120 名本科生** 在延迟保持上得分更差，且损害**在技术主题上最大（d = 0.92）**，而那正是 AI 提供最多协助的材料。感觉最有帮助的条件，产生了最大的亏空。
+
+**“因此挣扎是好的，不适应当被保留。”** 并非所有摩擦都可取。这一构念是具体的：当困难要求提取、间隔、交错或生成时，它们才是可取的；当它们只是偶发的困惑、糟糕的界面或缺失的先备条件时，则不可取。保留什么也教不了的困惑，与移除什么也教不了的费力，是同样大的错误。
+
+**“认知摩擦与生产性挣扎是同一个想法。”** 它们来自不同的文献，并做出不同的预测。生产性挣扎关乎构建理解的努力式意义建构；认知摩擦关乎任务所要求的东西与学习者当前资源所能支持的东西之间的不匹配。把两者当作同义词，会丢掉那个诊断性问题：这个学习者是在以建设性的方式挣扎，还是被以只有代价的方式卡住？
+
+**“如果移除挣扎提高了即时表现，干预就成功了。”** 这正是本页全篇所讨论的权衡：在支持在场时测得的表现，相对于日后无辅助的表现被系统性地抬高。对任何减少费力的 AI 的评估，都必须在延迟之后、且在没有工具的条件下测量，否则它就会把练习的移除报告为学习的产出。
 
 ## 关联概念
 

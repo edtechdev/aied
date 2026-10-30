@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: 元认知
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T15:01:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ ai_assist:
 - Scheu 等人的[[conversational-ai|聊天机器人]]课程中的**示例**即使在[[llm]]助手单独未产生效果时也提高了**感知能力**（一种元认知[[self-assessment]]）
 - **一个新兴的框架把系统而不只是个体置于环中。** 一项对 135 项 STEM 课堂研究（24 项核心研究）的书目计量—系统综述发现一个后人类主义框架正在浮现，它把人工智能定位为学习的共同调节者，把分析单位从个体反思转向系统层面的[[regulation]]与[[distributed-cognition|分布式认知]]（[[ai-metacognition-stem-review|Tsakeni 等人（2025）]]）。
 
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun（2026）]]用一项对照工作纸的预注册因果检验（N = 317）检验了压制说。失序上升了 0.84（95% 可信区间 0.47 到 1.21），是模型中最清楚的效应，而深度加工的下滑是经由一条从外包到批判性思维的链条发生的，而不是直接的。作者把这种状态命名为认知休眠：监控与策略选择安静下来，而加工仍在继续；他把原因定位于环境的可供性，而不是学习者。
+
 **元认知是被研究最少的结果之一。** 在一项对 394 项 GenAI 高等教育研究的范围综述中，元认知与自我调节学习是和伦理、创造力并列被针对最少的结果（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
 
 - **浮现出学习者看不见的互动模式。** [[student-ai-interaction-consecutive-interpreting-2026|Kuang、Li 与 Weng（2026）]]在 22 名口译学员使用语音识别与机器翻译系统时追踪了眼球运动、笔记与语音，发现学生在人工智能输出与自己的笔记之间分配[[cognitive-psychology|注意力]]的方式对他们自己不可见：58.3% 的人在任务阶段之间改变了策略，而人工智能输出读得最重者在表达流畅性与目标语言质量上得分最低。其教学后果是反思必须由外部证据来搭建支架，因为学习者的策略不是内省可及的 — 作者主张引导学生描述并评价他们在每个阶段为何以某种方式工作。
@@ -143,6 +145,12 @@ Scheu 等人（2026）发现了一个关键的分裂：
 - **在一个元认知自报工具内部，觉察比其余成分更有预测力。** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai 与 Alshahri（2026）]]用 649 名沙特中学生验证了一个 45 项的人工智能支持 STEM 学习测量（CFI = 0.983，RMSEA = 0.019；分量表 ω = 0.888–0.905），并用它给各成分排序。四个维度解释了自我调节学习分数 68% 的方差，其中基于人工智能的元认知觉察最强（β = 0.38，p < 0.001），认知迁移与适应性次之（β = 0.29，p = 0.008），而创造性与批判性的人工智能 STEM 推理不显著（β = 0.14，p = 0.135）。觉察是承载适应性表现的成分，作者建议分别报告分量表而非一个总分，并把高阶推理留给推理质量任务；该测量终究是自报的，因此像上文工作坊研究一样，它捕捉的是感知能力而非观察到的策略使用。
 - **评价者自身的监控也是元认知工作。** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe、Loibl 与 Leuders（2026）]]论证，一个人工智能生成的诊断推断不是原始证据，而是已经作出的解释，因此教师必须把它与自己的观察整合进一个他们称之为*元诊断*的过程，刻意决定是接受、拒绝还是修改它。这在学习者的元认知循环之外安置了第二个循环：不仅是学生如何借助人工智能调节思维，还包括教师如何评价系统关于该思维的主张。
 
+## 常见误解
+
+- **“AI 协助使底层能力保持不变。”** 使用 AI 论文协助的学生**有 83% 无法回忆自己论文中的引文，而不使用 AI 者为 11%**，这表明**他们在产出过程中并未投入内容**。产出过程才是投入发生之处，绕过它会在此后显现。
+- **“外包使一切退化。”** 代价看似**有界而非全局**：外包使**被练习的特定技能**退化，而不是底层的一般领域能力，并且出现在**有**某物的迁移测验上。定位很重要，因为它说明要保护什么，而不是警告普遍衰退。
+- **“能产出意味着能保持。”** 83% 对 11% 的回忆差距就是直接的反例：两种条件都产出了，而记忆痕迹差异巨大。
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 这些序列所内建的反思步骤
@@ -198,3 +206,4 @@ Scheu 等人（2026）发现了一个关键的分裂：
 - [[ai-cognitive-partner-reflective-thought-2026]] — 学生把人工智能当作认知伙伴时反思思维的四种实践与十一个过程
 - [[karaki-think-aloud-ethical-genai-2026]] — 出声思维使提示构建、核验与伦理推理可见，但批判性评价仍停留在表面；不是独立的解决方案
 - [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — 职前教师反思实践中的元认知训练与基于 AI 的苏格拉底式脚手架：一项双研究实验设计
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — 认知休眠：元认知投入中止与失序上升的实验性解释（Braun 2026）

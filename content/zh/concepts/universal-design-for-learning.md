@@ -1,7 +1,7 @@
 ---
 title: 通用学习设计
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ UDL立足于一个洞见：学习者差异是常态而非例外。UDL不是设�
 [[generative-ai|生成式AI]]为UDL带来新机会与新风险。AI能个性化表征并提供替代路径，支持[[personalized-learning]]与可及性。但它也会编码偏见、假定主导的沟通风格，并在削弱学习者能动性时破坏参与原则。关于[[ai-misuse-learning-harm]]与公平的[[research-methods-aied|研究]]表明，AI工具必须以包容原则设计，否则只会重演[[equity-in-ai-education]]的鸿沟。因此UDL既为AI如何部署提供指导，也为AI素养与评估如何在学习者差异上保持公平提供指导。
 
 "以设计求公平"是把这一立场落地的一种具体方式。Wenzel、Geiger 与 Liening（2026）把他们在商业[[simulation]]游戏中面向AI [[conversational-ai|对话智能体]]的CAIS-GBL框架，建立在与通用学习设计对齐的明确**以设计求公平**路径上，推导出横跨认知、[[motivation|动机]]、[[affective-computing|情感]]与[[sociocultural-learning|社会文化]]参与的元需求。他们的设计原则与特性旨在应对学习者在优势、挑战与兴趣上的个体差异——这是把UDL原则具体应用于自适应、AI支持的[[game-based-learning|游戏化学习]]设计。
+一个工具可以服务全部三条 UDL 原则，却仍然收窄一位讲师所能决定的东西。[[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi（2026）]]正因此论证，把工具映射到一条 UDL 原则是必要的但不充分的，并提出在检查项中加入年度去专业化审计与供应商依赖登记。
 
 AI在这份文献中也作为UDL的障碍而非其工具出现。在[[faculty-accessible-course-design-ai-2026|Sidhu、Atif 与 Newland（2026）]]对一所安大略大学69名教授的混合方法研究中，四个关键主题之一是：[[generative-ai|生成式AI]]正在逆转可及性课程设计的进展；标题引语"AI正在减少我曾有的选项"出自他们的访谈，因为那些曾承担了包容工作、以课后提交与起草为基础的作业，正是AI现在能一鼓作气完成的那类。他们的教师层面发现解释了这次倒退为何落在一个本已单薄的基础上：90%的受访者相信自己创造了可及的学习环境，87%表示自己积极考虑可及性，但只有不到一半（46%）认为学校为此提供了足够资源，约五分之一人从未听说过OCR可读PDF或颜色独立链接这类最基础的技术。需求正在跑赢供给——安大略大学注册人数从2013到2022年增长17%，而向可及性服务处注册的人数上升126%——因此该研究的主张是：UDL支持必须获得资源投入，以补偿AI移走的评估选项。
 ### 关联
@@ -81,6 +82,16 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 
 - **瞄准功能性障碍，而非诊断标签。** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel等人（2026）]]发现，面向神经多样性学生的辅助技术40项研究语料围绕便利安排与以诊断为门槛的工具组织，并主张针对学生实际面对的跨领域障碍进行设计，才是使一个工具有理由被称为"通用"的关键。
 
+## 常见误解
+
+**"一门材料可及的课程就已经实施了 UDL。"** 可及性是 UDL 三条原则之一，也是最容易审计的一条，因此它常常是唯一被做到的一条。建构灵活的参与手段、以及行动与表达手段，是这一框架更大的部分，而一门 PDF 已打好标签、但评估只接受一种格式的课程，只完成了可测量的那一小部分。
+
+**"相信自己可及的教师就是可及的。"** 信念与实践会系统性地分离。这一语料中的教师层面发现显示，**90% 的受访者相信自己创造了可及的学习环境，87% 表示自己积极考虑可及性**，这些自陈比率不可能全部准确，考虑到审计所发现的情况，这也提醒我们：UDL 的实施无法靠调查来评估，而它通常正是靠调查来评估的。
+
+**"UDL 意味着更用心地为平均学生设计。"** 核心主张恰恰相反：学习者变异是常态而非例外，因此设计从一开始就提供多条路径，而不是为挣扎者修一条路。修补正是 UDL 要取代的东西，而一条调校良好的单一路径仍然是一条单一路径。
+
+**"AI 让 UDL 自动实现，因为它能生成替代格式。"** 它让表征原则变便宜，却把参与与表达留在原地。把文本转成音频只是处理了三种手段中的一种；一门课程如今可以完全多格式，却仍要求每个学生以同一种方式展示学习。
+
 ## 关联概念
 
 - [[inclusive-learning]]
@@ -108,3 +119,5 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 - [[ai-learning-tools-engineering-education-needs]] — 设计需求与注意感知的 AI 学习工具
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成式 AI、虚拟现实及其后：面向高等教育中神经多样性学生的数字辅助技术范围综述
 - [[faculty-accessible-course-design-ai-2026]] — 《AI is reducing options I had used》：探索教授对 ChatGPT 世界中可及课程设计的感知
+
+- [[alenezi-ai-universal-design-learning-kuwait-2026]] — 科威特高等教育机构中的人工智能与通用学习设计：迈向一个面向包容教育的 AI 赋能框架

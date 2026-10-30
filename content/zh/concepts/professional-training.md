@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: 职场学习
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -11,7 +11,7 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T16:44:25-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,8 @@ ai_assist:
 ### 专业培训中的人工智能
 
 - **模拟与练习：** [[adaptive-virtual-patient-psychotherapy-training|虚拟病人培训]]与[[astra-atco-training-simulator|ATCO 培训模拟器]]创造了由人工智能驱动的专业练习环境。在[[teacher-education|教师教育]]中，人工智能角色扮演模拟把这延伸到基于实践的教与学：[[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]]模拟了一个持有[[misconceptions|误解]]的初中数学学生，让职前教师练习诊断与补救学生错误，与基于实践的[[teacher-role|教师]]学习的“实践近似”相一致，是 TeachLivE 这类昂贵平台的可负担补充。
-- [[ai-coaching-rl-skill-development|Wang 等人（2026）]]增加了一条教练策略教训：对照学习者估计的能力渐撤协助，使模拟器单圈时间减少 27.9%（p = 0.005）、每圈失败减少 3.52 次，而按固定时刻表进行规则式渐撤则没有产生可靠的单圈时间变化。
+[[ai-coaching-rl-skill-development|Wang 等人（2026）]]增加了一条教练策略教训：对照学习者估计的能力渐撤协助，使模拟器单圈时间减少 27.9%（p = 0.005）、每圈失败减少 3.52 次，而按固定时刻表进行规则式渐撤则没有产生可靠的单圈时间变化。
+- **一次自愿的、纯文本的演练没有带来任何改变。** 在 201 名一年级医学生于首次标准化病人课程之前获得 GPT-4o 病人时，49 人使用了它，而紧张、准备度、自我效能与自评胜任力与 84 名对照没有差异；19 名给出理由的未使用者中有 6 人提到技术或登录问题（[[jongkind-genai-patient-medical-communication-2026|Jongkind 等（2026）]]）。
 - **终身学习整合：** [[lifelong-learning]]与[[adult-learning]][[research-methods-aied|研究]]把专业培训连接到持续教育。
 - **公共部门：** [[ai-adoption-training-public-sector|公共部门人工智能采用]]考察政府情境中的培训。
 - **劳动力准备度框架：** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith 等人]]提出一个劳动力准备度水平（WRL）框架，把技术准备度水平量表改编为九个能力阶段，在四个支柱（数字/[[ai-literacy|人工智能素养]]、赛博—物理流畅性、[[human-ai-collaboration|人机协同]]、数据驱动决策）上评分，并遵循“无弱支柱”规则。来自智能制造顶点项目的证据表明，最高的准备度阶段由行业嵌入的经验而非课程作业把关 — 指向工作整合学习对专业人工智能培训至关重要。
@@ -48,6 +49,7 @@ ai_assist:
 - **培训应瞄准什么：** 该领域的测量基础落后于它所描述的技术。在一项对 33 个教师人工智能素养工具的系统综述中，[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）]]发现 29 个（87.9%）瞄准一般人工智能概念，只有四个（12.1%，均发表于 2025 年）涉及生成式人工智能。如果工具追踪培训旨在建构的东西，那么这一分布就标志着教学中的生成式人工智能能力是最少被测量、最紧迫的专业发展目标。
 - **劳动力预测：** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher 等人]]综述了关于人工智能与工程/计算劳动力的美国灰色文献，框定了“双轨列车问题”（快速变化对迫切的政策），并建议[[higher-ed|高等教育]]优先培养持久的人工智能能力、[[ethics]]与[[governance]]，以及与新兴角色（例如[[prompt-engineering]]、人工智能审计、[[educational-policy-ai|人工智能政策]]）对齐的基于技能的凭证，以在自动化经济中维持以人为本的工作。
 - **技能维持设计在吞吐量指标下失利。** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong（2026）]]论证，反思性互动与驱动专业工作中人工智能采用的更快决策、更高吞吐量的承诺相矛盾：受控研究可以吸收这种摩擦，而按速度或数量衡量绩效的环境不能，且在竞争对手提供无摩擦的同等支持之处，技能维持设计成为竞争劣势 — 该论文说这一问题可能属于组织政策或政府，而非互动设计。
+- **会面正是理解变得可评估之处。** 当一个生成式工具起草分析时，一份打磨过的研究进展汇报不再显示受训者是否理解这项工作，因此 [[prunuske-cognitive-windows-research-meetings-2026|Prunuske 与 Adams-Phillips（2026）]]提出研究会议的三个诊断窗口（元认知校准、概念解释、协作意义建构），并配以能显现摘要遗漏之处的提问。
 - **职场能力的口头评估。** 一项 TVET 设计研究处理文本密集的评估与专业资格所认证的口头、情境化能力之间的长期错配，用一个[[llm]]支持互动口头评估。在四个队列中，21/33 名学习者认为语音格式真实，且对其优于书面[[eportfolio|作品集]]的优势无异议回应，而该系统在一台笔记本电脑上完全离线运行，最多同时支持 12 名学习者，90 天后删除录音，评分留给评估者（[[ai-supported-oral-assessment-tvet-2026]]）。这是人工智能在专业培训中拓宽可评估能力范围的一个具体例子，而非只是自动化现有书面格式。不过，其队列是三级汽车与工程班，因此证据位于[[vocational-education|初始职业供给]]而非本页所覆盖的职场技能提升之中。
 
 - **是机构条件而非国家情境解释准备度差距。** 一项对中国（n = 340）与哈萨克斯坦（n = 228）教师发展中心 568 名大学教师的比较调查（[[faculty-development-centers-genai-training-optimization-2026|Bi、Araily、Lyu 与 Xiu（2026）]]）发现，哈萨克斯坦教师在基线上领先全部七个[[generative-ai|GenAI]]准备度维度，最大差距在学科迁移、提示设计与人工智能支持的评估上。分层回归拆解了国家解释：一旦先前的 GenAI 使用与近期培训进入模型，国家差异就急剧下降；一旦加入机构支持、感知到的试验许可、[[multilingual-learning|多语言]]资源可得性、政策清晰度与风险敏感性，就变得不显著 — 减少 80%。暴露分布不均（哈萨克斯坦教师中明显多数在过去六个月受过人工智能培训，而中国教师约为四分之一），且中国教师报告更高的政策清晰度与更高的风险敏感性。结构化的提示—任务培训在后测提示设计上大幅优于常规的 GenAI 熟悉化。按此证据，教师准备度由供给与许可产生 — 即一个中心提供什么、允许什么 — 而非由它所处的国家体系产生。
@@ -65,6 +67,16 @@ ai_assist:
 
 **把人工智能产出与核验配对，并寻求外部测量。** [[crewscaler-ai-upskilling-framework|Nguyen 等人（2026）]]把自动幻觉检查与一个主题专家审计置于起草与交付之间（贯穿一个五阶段技能提升流水线），并把该框架最强的主张安放在 NASBA CPE 认证与一个供应商认证考试上，而非自定的成功测量。
 
+## 常见误解
+
+**“课程作业产出职业胜任力。”** 本页的框架把最高的能力阶段放在行业嵌入经验之后，而不是课程作业之后，这限制了培训项目能主张的东西。一门课程可以建构先决条件；被把关的阶段需要真实的工作。
+
+**“按时间表淡出支持等同于按证据淡出支持。”** 并非如此。对照学习者*估计的胜任力*渐撤协助，把模拟器单圈时间减少 **27.9%（p = 0.005）**、每圈失败减少 **3.52 次**，而按固定时刻表进行的规则式淡出未产生可靠变化。同样多的支持，依不同的信号释放，就是不同的干预。
+
+**“AI 素养培训可跨角色泛化。”** 多数工具并不测量角色特定的胜任力：在一项对 **33 个教师 AI 素养工具**的系统综述中，**29 个（87.9%）**瞄准一般 AI 概念，只有 **4 个（12.1%）**涉及工作实际要求的教学或职业用途。建立在一般工具上的项目，测量的是一个代理变量。
+
+**“模拟器可以替代职场培训。”** 它训练程序并移除后果，这很有价值，而后果恰是无法迁移的那一部分：在安全关键的工作中，后果就是课程。
+
 ## 关联概念
 
 - [[lifelong-learning]]
@@ -81,6 +93,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — 沉浸式练习最成熟之处
 
 ## 关联文章
+- [[prunuske-cognitive-windows-research-meetings-2026]] — 在人工智能时代把研究会议从数据更新转向认知窗口
 
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — 工程与计算劳动力的未来中的人工智能
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — 人工智能时代智能制造的劳动力准备度水平框架
@@ -101,3 +114,5 @@ ai_assist:
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — 调查把先前人工智能培训与使用频率连接到土耳其小学教师的正面看法
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — 角色轮换作为人工智能支持的专业准备的结构机制
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement：迈向反思性 AI 投入中技能保全性依赖的开放问题
+
+- [[jongkind-genai-patient-medical-communication-2026]] — 在本科医学教育中使用 GenAI 病人进行医学沟通训练：一项准实验研究

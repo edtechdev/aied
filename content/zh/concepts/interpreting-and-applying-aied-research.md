@@ -1,7 +1,7 @@
 ---
 title: 解读与应用 AIEd 研究
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-24T15:57:18-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -146,6 +146,16 @@ ai_assist:
 7. 核算成本：许可、档位、人员时间、数据规则。
 8. 用一个无辅助的测量小规模试点，然后决定。
 9. 把一年后的评审日期记进日记，并准备让该论断退役。
+
+## 常见误解
+
+**“已发表的元分析是关于教育中 AI 的定论证据。”** 该领域的综合尚未经受审计。[[oneill-presumed-effective-meta-analysis-2026|O'Neill（2026）]] 对 **14 项**声称 AI 改善教育的同行评审元分析进行审计，发现**没有一项**为该结论提供了有效基础。合并效应量的好坏只能与所合并的研究相称，而在此文献中，合并常常纳入了无法把结果归因于 AI 的设计。引用元分析数字之前，先问它合并了什么。
+
+**“效应量更大，说明干预更好。”** 往往相反。在本页所记录的综述语境中，只有 **21%** 的研究有明确定义的干预、对照组与有效的学习测量，而“使用 ChatGPT”所报告的相对优势反而**大于**专门构建的 [[intelligent-tutoring|智能导学系统]]。定义模糊的干预容易产生膨胀的效应，因为比较更含混、结果测量更宽松。更大的数字是去检查设计的理由，而不是偏好某个干预的理由。
+
+**“使用工具时分数更高，说明工具教得更多。”** 在一项 [[k-12|K-12]] 数学研究中，使用通用 [[conversational-ai|聊天机器人]] 练习的学生获得了更好的练习成绩，随后在无协助评价中得分**低约 17%**。有工具在场时测得的练习表现是膨胀的那一项；无协助的那一项才是结果，而上升的只有前者。
+
+**“如果效应是真的，实施细节就不太重要。”** 实施细节就是效应本身。一项只在一所机构的一门课程中追踪 30 名学生、且使用的是如今无人再用的工具版本的研究，产生的是关于一种已不存在的配置的发现。干预界定、版本与情境是主张的一部分，而不是主张周围的背景。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 学习者
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,7 +12,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,34 @@ ai_assist:
 ## 本页的位置
 
 与[[stakeholders]]一起阅读，了解学习者周围的人；与[[pedagogy]]和[[learning-design]]一起阅读，了解教师如何利用这些发现。[[assessment]]决定哪些学习者能力最终变得可见；[[limitations-in-aied-research]]解释了为什么学习者侧证据大多是短期的、自报的、在便利样本上进行的；[[misconceptions]]则是学习者自己通常的入口。
+
+## 常见误解
+
+**“学习者与学生是同一群人。”** 它们在有用的意义上并不能互换：*学生* 命名一种制度角色，*学习者* 命名一种活动，一个人可以是其中之一而不是另一个。[[professional-training|职场培训]] 中的一名雇员是学习者，而不是学生。把两者混为一谈，会把证据基础收窄到有注册记录的人，并悄悄丢掉 [[lifelong-learning|终身学习]] 研究所针对的成年人、从业者与自主学习者。
+
+**“学习者报告 AI 改善了他们的理解，所以它为他们省下了时间。”** 在调查数据里这两个主张是分开的。在关于学习效率的研究中，**92.3%** 的人说 AI 改善了他们的理解，而只有 **38.5%** 的人说它减少了总学习时间。头条数字描述的是感受到的理解，它下面的缺口表明理解改善与时间回收是两个不同的结果，而被广泛重复的“AI 省时间”主张是由较小的那个数字支撑的。
+
+**“学生用 AI 走捷径是一种道德缺陷。”** 知识库把最小努力引力当作设计与政策问题，而不是品格问题：学生用自己的话描述了它，而 [[reducing-ai-misuse|滥用]] 与 [[academic-integrity|诚信]] 文献把杠杆定位在任务与环境设计上。用道德来框定它，无法解释为什么同一个学生在两门课上行为不同。
+
+**“一旦提出不当行为指控，证据就在那里。”** 对 1,162 起生成式 AI 指控的案卷分析，显示了当机构回应到来时学习者实际面对什么，而在文献中，不当行为程序的学生一侧远比使用的学生一侧单薄。一个只记录学习者的使用、而不记录他们如何遭遇指控的页面，只记录了一半的经验。
+
+## 实践意涵
+
+**面向教师**
+
+- 问学习者*做了什么*，而不只是他们报告感受到什么。感受到的理解（92.3%）与回收的时间（38.5%）差异足够大，据其一而假定其二会误导课程设计。
+- 在结构上针对最小努力引力做设计，而不是依赖学习者的美德，因为这种引力被记录为对任务设计的一种正常反应。
+- 向学习者说明一旦被指控他们将面对的程序，因为程序证据显示机构回应恰恰是伤害常落地之处。
+
+**面向开发者**
+
+- 不要宣传学习者自己并未报告的时间节省。为理解与时间同时提供指标，并把它们分开标注。
+- 为非学生学习者做设计：职场用户与自主学习用户缺少你的默认设定可能假定的注册情境。
+
+**面向研究者**
+
+- 在抽样中把学习者与学生的区分明确写出来，并报告它排除了谁。
+- 既研究被指控者，也研究使用者；程序这一侧是这一文献中较薄的一半。
 
 ## 关联概念
 

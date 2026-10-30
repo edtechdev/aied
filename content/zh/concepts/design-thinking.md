@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: 设计思维
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -53,6 +53,16 @@ ai_assist:
 ## 关联概念的连接
 
 教育中的 AI 设计思维与 [[human-ai-collaboration|人机协作]]深度纠缠：生成式工具拓宽构思，而人类保留认识论权威与 [[agency|能动性]]。它依赖 [[scaffolding]] 与适合阶段的 [[feedback|反馈]]方能有效，常经由 [[higher-ed]] 与 [[k-12]] 中的 [[socratic-method|苏格拉底式]]与对抗性交互交付，而其成功常被框定为在 [[human-in-the-loop-ai|人在环路 AI]]治理下保存 [[creativity|创造性]]并培育 [[ai-literacy|AI 素养]]。
+
+## 常见误解
+
+**"生成式 AI 会加速设计思维的每一个阶段。"** 它加速构思，并可能侵蚀后段所依赖的判断力：它**在早期构思上出色，但若不加以批判地使用，会造成设计固着或审美锁定**。固着是一个快速构思工具特有的危险：第一个看似可行的方向成了框架，而围绕一个概念的一大堆变体并不是更宽的搜索空间。
+
+**"生成更多选项意味着更广的探索。"** 输出的广度与考虑的广度是两个不同的量。一个生成三十个方向、然后采纳第一个有说服力的方向的学生，只探索了一个方向，而高采纳率正是这一点的标志。
+
+**"设计思维是一个可以逐阶段自动化的流程。"** 它是一门框定与重新框定问题的纪律，而固着恰恰取消了这件事。把各阶段自动化却不去检视框架，会为错误的问题产出胜任的输出。
+
+**"同意学生的 AI 智能体支持他们的设计推理。"** 这里记录的生产性用法方向相反：[[ai-agents-constructive-conflict-design-education-2026|与 AI 智能体的建设性冲突]]检验的是迫使重新考虑的对抗性提示。一个随和的智能体强化固着；一个面向异议的智能体，才是背后有教育主张的设计。
 
 ## 关联概念
 

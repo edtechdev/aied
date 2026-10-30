@@ -35,7 +35,7 @@ ai_assist:
 
 **Clarity** 把一个 Agent Skill 和一个浏览器编辑器配成一对，二者都围绕"写出的东西配得上读者"的十八条规则构建。这个 Skill 通过 `npx skills add addyosmani/clarity` 安装进 Claude Code、Codex 等编程代理，然后以三种模式工作：审阅模式（review mode）批评一份草稿且不动原文件；改写模式（rewrite mode）直接就地编辑草稿；访谈模式（interview mode）先向作者提问，再根据回答共同写作。写作者得到的 [[feedback|反馈]]（feedback）首先针对内容实质而非文字风格。这些规则追问文章写给谁、读者已经知道什么，要求观点胜过话题、具体胜过抽象，并把啰嗦视为"还没想清楚文章是为什么而写"的问题，而不是词汇量的问题。
 
-浏览器编辑器完全在页面本地运行，不上传草稿。它会报告机器写作腔调的痕迹、可读性以及内容实质上的缺口，因此在文本送达读者之前审阅 [[generative-ai|生成式 AI]]（generative AI）产出的内容时很有用。项目明确声明其目标是保持"读起来仍然是作者本人"的写作，而不是为通过 [[ai-literacy|AI 检测]]（AI detection）而工程化的文字——教师们在制定 AI 辅助 [[writing-education|写作]]（writing）政策时会认得这一区分。
+浏览器编辑器完全在页面本地运行，不上传草稿。它会报告机器写作腔调的痕迹、可读性以及内容实质上的缺口，因此在文本送达读者之前审阅 [[generative-ai|生成式 AI]]（generative AI）产出的内容时很有用。项目明确声明其目标是保持"读起来仍然是作者本人"的写作，而不是为通过 [[ai-detection|AI 检测]]（AI detection）而工程化的文字——教师们在制定 AI 辅助 [[writing-education|写作]]（writing）政策时会认得这一区分。
 
 ## 采用之前需要了解什么
 

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: 包容性学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,16 @@ ai_assist:
 - **显式对待安全/可及性的权衡。** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]建模了反作弊措施如何无意中排斥有视觉处理需求的学习者——在诚信与接入之间权衡。
 - **可及性可能取决于措辞，而不只是格式。** 在底层任务保持不变的情况下，模型准确率从低读写能力措辞的 82.4% 升到专家措辞的 83.4%，因此要求学生写出更好的提示词会引入一种新的排斥；一个规范请求的系统侧重写器在不改变内容的情况下消除了显著差距（[[prompt-privilege-equitable-ai-access-2026|Jin 等（2026）]]）。
 - **防范 AI 再生产排斥。** [[genai-minoritized-knowledges-disability|以残障为中心的批判]]警告，以英语为中心、西方中心的训练数据边缘化了残障的认识方式——在[[equity-in-ai-education]]之外，还要审计 AI 工具的认识论正义。
+
+## 常见误解
+
+**“可及的工具就是包容的课程。”** 可及性只回答一个问题：每个人是否都能感知并操作这一形式。这是必要条件，却远不充分。包容性学习还要问哪些工具能弥合个体的 [[digital-divide|接入差距]]，以及设计应如何预判差异而不是事后补救。一门课程的界面与屏幕阅读器兼容，但其评价结构假定安静的房间、稳定的宽带与不被打断的时间，那它只解决了呈现问题，参与的难题原样留着。
+
+**“提供辅助技术就等于提供能动性。”** 两者不同，本页自身的框架也这样说：辅助技术并不保证有意义的能动性。一个让学习者完成规定任务的工具，也可能把他们引向该任务最狭窄的版本，而脚手架与天花板的差别在采用率指标里看不见。
+
+**“学得吃力的学生只要学会更好地写提示词就行。”** 这把系统缺陷变成了学习者的缺陷。在底层任务不变的情况下，模型准确率仅从**低素养措辞的 82.4% 升至专家措辞的 83.4%**，只差一个百分点，而要求更好的提示反而在既有排斥之上再加一层排斥。杠杆在系统侧对语言变异的处理，不在补救性的提示训练。
+
+**“为资源充足的课堂打造的工具，翻译一下就能服务低资源情境。”** 情境改变的是设计约束。[[suacode-african-students-motivations|SuaCode]]面向智能手机而不是桌面实验室机器构建，因此触达了**具备编程技能者不足 1%** 的低资源非洲情境中的学生；这是另一种设计，而不是同一种设计的缩小版。
 
 ## 关联概念
 

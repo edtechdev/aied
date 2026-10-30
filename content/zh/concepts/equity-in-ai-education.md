@@ -1,7 +1,7 @@
 ---
 title: 公平性
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T15:58:16-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-10-18T13:41:09-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -65,8 +65,9 @@ ai_assist:
 
 - **生成的图像重复主导的视觉规范，这使批判性使用成为一种能力而非附加项。**Jiang 等人（2026）观察到，生成式 AI 图像生成再现了视觉偏见等主导的多模态规范，并警告忽视这一点的多模态评估有自动化并再生产不平等之虞；他们面向第二语言教师的框架因此要求具备帮助学生察觉、评估与反叙事有偏见模型输出的能力（[[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 等人，2026]]）。
 
-## 结果公平
+- **代表性适用于证据，而不只适用于学习者。** [[bulut-technology-supported-formative-assessment-2026|Bulut（2026）]]论证，技术支持型评估中的公平涵盖支撑某项设计的知识的语境可迁移性，因此一个在资源充足场景中被验证的系统，在别处携带着未经检验的假设。
 
+## 结果公平
 在一项对 394 项生成式 AI 高等教育研究的范围综述中，公平与获取是被针对得最少的结果之一，与元认知、伦理和创造力并列（[[mapping-genai-higher-ed-scoping-review|Lin 等人（2026）]]）。
 
 - **差异化影响：**若无公平透镜而设计，AI 工具可能扩大差距——[[genai-higher-education-systematic-review-2026|系统综述]]与[[ai-scoring-language-bias-physics|评分偏见研究]]显示了收益与危害在学习者群体间的不均分布。收益的合并证据带有同样的边界：[[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing 等人（2026）]]在 35 项研究上估计本科生的总体中到大的收益（g=0.53, 95% CI [0.48, 0.64]），同时指出高成本工具的不公平获取是这些效应量无法捕捉的风险之一，学业表现与专业技能上显著的 Egger 检验使漏斗图不对称与小研究效应悬而未决。
@@ -103,12 +104,12 @@ ai_assist:
 - **识别，而不只是获取：AI 的文化扁平作为一项公平发现：** 在一项对五名有色人种中学学徒的为期 9 个月的叙事探究中，[[gyekye-selves-apprenticeship-2026|Gyekye（2026）]]发现学生把公平等同于*可见偏见的缺席*——一种"文化扁平"，即身份特定的经验与文化标记在 AI 回应中得不到表征——并通过拒绝（不把使用作为制度对齐）与协商（使 AI 产出在制度上可读）来建构能动性。该研究的"识别带宽"概念命名了学习者在 AI 产出中看见自己的空间，而"制度 AI 素养"则是在制度期望内驾驭 AI 的能力。这是一项五名单项目质性研究；其公平贡献在于表明"作为公平的中立"本身就可以是排除机制。
 - **谁从一个 AI 导师中受益——探索性的田野证据：** 在一次全区铺开的教师中介 AI 数学平台中，[[alam-goblins-math-platform-2026|Goblins（Alam 等 2026）]]发现，有 IEP 的学生（+0.122 SD）、英语学习者（+0.191 SD）与西班牙裔学生（+0.084 SD）的成绩关联大于对照组，这与其多模态输入和七语言语音支持降低参与障碍相一致。作者明确指出，这些探索性的、功效不足的亚组无法确立无障碍特性造成了这一差异——它是一个早期的、生成假设的信号，而非一项公平发现。
 - **文化：**[[culturally-relevant-pedagogy|文化相关教学法]]与[[culturally-aware-aied-community-learning|以社区为中心的 AIED]]呼吁 AI 反映学习者的文化语境，而非强加主导规范。
-- **残障与神经多样性：**[[inclusive-learning|无障碍学习]]、[[universal-design-for-learning|通用设计]]、[[neurodiversity|神经多样性]]与[[special-education|特殊教育]]研究考察 AI 如何支持或排斥残障学习者——[[neurodivergent-computing-students|神经多样性的计算学生]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|无障碍教育材料]]是例证。
+- **残障与神经多样性：**[[accessibility|无障碍学习]]、[[universal-design-for-learning|通用设计]]、[[neurodiversity|神经多样性]]与[[special-education|特殊教育]]研究考察 AI 如何支持或排斥残障学习者——[[neurodivergent-computing-students|神经多样性的计算学生]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|无障碍教育材料]]是例证。
 - **语言、文化与成本在一起：**Bashir 与 Afzal（2026）把[[well-being|福祉]] AI 中的公平设计框定为语言、文化与成本的单一问题——仅英语的工具让用乌尔都语或罗马乌尔都语表达困扰的学生失败，西方数据集无法捕捉当地显著的应激源，昂贵的商业系统让装备较差的大学失败（[[culturally-aware-student-stress-chatbot-2026|Sukoon]]）。他们的应对结合了通过托管 API 访问的[[open-source|开源]]多语言 LLM（资源要求低）、双语评估界面，以及在一个经核验的 20 项特征量表上训练的分类器——同时承认训练数据不代表目标人群，"有些领域……工具可用但往往昂贵"，且该适配停留在提示层而未与学生验证——这是公平意图与已证明公平之间差距的坦率记录。
 
 ## 特殊群体与全球公平
 
-- **特殊群体：**[[special-education]]、[[neurodivergent-computing-students|神经多样性学习者]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[inclusive-learning|残障学习者]]代表其需求常被 AI 系统设计忽视的群体。
+- **特殊群体：**[[special-education]]、[[neurodivergent-computing-students|神经多样性学习者]]、[[dyslexlens-dyslexic-learners-ai|阅读障碍学习者]]与[[special-education|残障学习者]]代表其需求常被 AI 系统设计忽视的群体。
 - **全球南方视角：**[[suacode-african-students-motivations|非洲学生动机]]、[[connected-ai-lesson-planning-vietnam|越南 AI 课程规划]]与[[pre-service-science-teachers-ai-perceptions-2026|加纳教师接受度]]提供了西方中心 AIED 研究中常缺席的全球南方视角。在机构层面，[[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 等人（2026）]]表明，45 所尼日利亚大学的 AI 整合由机构年龄与地理而非治理类型驱动，强化的网络联系让连接良好的机构复合优势——证明公平差距是结构性再生产的，而非仅经由个体获取。
 - **全球能力：**证据记录了生成式 AI 收益如何不均等地分布于各国与机构，[[ai-lifelong-learning-policy|AI 与终身学习政策]]应对结构性的社会经济梯度。
 - 一项对 72 项高等教育评估研究的 PRISMA 综述发现，证据基础在地理上集中：澳大利亚与英国合计贡献了 72 项中的 31 项，且未识别出来自南美的研究（[[higher-ed-assessments-genai-systematic-review|Crompton 与 Burke（2026）]]）。
@@ -126,6 +127,12 @@ ai_assist:
 - **政策与治理：**机构 AI 政策（[[educational-policy-ai]]、[[governance]]）必须把公平嵌入为指导原则。
 
 公平还有一个环境与计算维度：对计算密集型模型的不平等获取可能扩大学生之间以及资源丰富与资源不足机构之间的差距，而部署大模型的巨大能耗与碳足迹与高等教育的可持续性目标相冲突（[[large-language-models-teaching-learning-higher-ed|Li 等人（2026）]]）。
+
+## 常见误解
+
+- **“公平问题就是工具获取。”** **工具质量是鸿沟的一部分，而不只是工具获取**：[[canonigo-teacher-mediation-generative-ai-mathematics-2026|Canonigo（2026）]]提交了 **50 个数学任务**，发现质量差异跟随工具，而非使用者。
+- **“混合人机辅导无法缩小差距。”** **差异化的人机辅导是混合模型能够缩小差距的证据，前提是分配跟随需求。** 一项断点差异研究（**635** 名参与者）发现，主动辅导显示出**略高的平均成长（75%，p = .065），且集中在低于分界点更远的学生身上**。增益集中在需求最大之处。
+- **“平均效应能告诉你公平是否改善。”** 洞见在于**分配规则**决定了公平结果：同等帮助所有人的干预使差距不变，按需求比例提供帮助的干预则缩小差距。
 
 ## 关联概念
 

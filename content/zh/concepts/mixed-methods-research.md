@@ -1,13 +1,13 @@
 ---
 title: 混合方法研究
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,12 @@ ai_assist:
 ## 与更广的方法图景的关系
 
 混合方法居于[[quantitative-research|定量]]与[[qualitative-research|定性]]传统之间，借鉴两者的优势，同时增加了有意整合的设计纪律。它是对“AI 教育现象既有效应又富含意义”这一认识的方法论回应 —— 而该领域在广度与深度结合时前进最快（参见[[research-methods-aied|AIED 研究方法]]）。它连接到[[educational-measurement|教育测量]]（定量工具）、[[theory-development-aied|AIED 理论发展]]（定性理论建构）与[[ai-ed-evaluation|AIED 评价]]（整合结果与经验证据）。
+
+## 常见误解
+
+- **"混合方法是 AI 教育研究里的冷门选择。"** 在 **394 项 GenAI 高等教育研究**中，混合方法是**最常见的研究设计（213 项，54%）**，其后是定量（109 项，28%）与定性（72 项，18%）。本领域的主导设计并不是其方法论辩论所假定的那一个。
+- **"观察与访谈证据可以承载关于系统的断言。"** 把系统观察与管理者访谈，对照一项**跨八个学期、8,708 名学生、效力足以检出 0.05 个标准差效应的四年随机评估**，显示出定性脉络单独做不到的事：可靠地检出一个很小的效应。混合方法并不是把效力在脉络之间转移的办法。
+- **"三角互证就是两个弱方法合成一个强主张。"** 配对的价值在于每条脉络回答的是不同的问题。一个把两者都跑了、随后把定性发现当作定量发现的确认来报告的设计，并没有三角互证，它只是重述。
 
 ## 关联概念
 

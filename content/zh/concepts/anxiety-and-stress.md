@@ -1,7 +1,7 @@
 ---
 title: 焦虑与压力
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-24T14:35:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-24T06:36:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -113,6 +113,12 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - **利用生产性焦虑。** 除了降低 AI 焦虑，还应支持那些焦虑但投入的学生已经展现出的核查、修改与自我[[regulation]]行为。
 - **用 AI 识别和缓解压力**——经由情感计算、可穿戴设备和校园幸福工具——同时守住隐私。
 - **在 AI 的采用与政策中考虑教育者焦虑**，而不只考虑学生体验。
+
+## 常见误解
+
+- **"AI 焦虑纯属有害。"** 这种焦虑**并非纯粹负面**：[[ai-anxiety-strategic-regulation-writing-2026|Kim（2026）]]发现 **AI 焦虑可以具有生产性**，焦虑越高伴随的策略调节越多。焦虑是一种促人细察的信号，而不只是负担。
+- **"所有焦虑的学生反应都一样。"** Kim 的**四种调节类型（不加批判的依赖 18.7%、选择性整合 34.6%、评价性转化 31.8%、策略性拒绝 14.9%）**表明，由焦虑驱动的细察会产生**四种截然不同**的形态。针对"焦虑学生"的干预会漏掉一点：人数最多的单一群体其实是选择性整合者。
+- **"焦虑总会压制参与。"** 这一重新框定在**口语**层面有边界：在 **708 名英语学习者**中，口语焦虑与开口意愿的联系在**口语自我效能感低时为 −0.371，在高时为 +0.137**。自我效能感高时焦虑可以与意愿并存，因此效应的方向取决于信心。
 
 ## 关联概念
 - [[career-development-and-readiness]] — 职业准备度作为对抗 AI 焦虑的保护性因素

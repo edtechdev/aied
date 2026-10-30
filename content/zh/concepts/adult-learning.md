@@ -1,7 +1,7 @@
 ---
 title: 成人学习者
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-10-24T14:45:19-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-10-16T19:47:08-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,12 @@ ai_assist:
 
 - **面向成人教育的 AI 设计原则。** [[kim-ai-andragogy-2026|Kim 等（2026）]]发现，成人学习者重视 AI 作为协作学习伙伴，并推导出三条面向成人教育的 AI 设计原则：人在环中（共享心智模型、人—AI 共同创造）、情感设计（校准对 AI 的依赖、富有共情的沟通）与适应性（持续适配、互操作性）。他们的十一个情境原型还把每条成人教育原则映射到具体的 AI 可供性：[[intelligent-tutoring|AI 导师]]与 [[learning-by-teaching|可教代理]]对应"参与"，监测与 [[learning-analytics|分析工具]]对应自主与自评，富有共情的 [[conversational-ai|聊天机器人]]与 [[simulation|模拟]]对应"经验"，案例库与高阶问题生成器对应问题中心式工作，AI 规划师与职业教练对应"相关性"。
 - **保住有成效的挣扎。** 同一团队的生产性失败研究把 AI 支持映射到 PF 的两个阶段，并得出结论：设计绝不能替学习者消解挣扎——对话代理在生成与探索阶段充当非指导性的思考伙伴，随后在巩固阶段支持比较、重组与迁移（[[kim-ai-productive-failure-adult-2026|Kim 等（2026）]]）。
+
+## 常见误解
+
+- **"一个好工具就能服务成人学习者。"** 研究发现**没有任何单一成人学习 AI 系统满足全部设计指南**，需要的是整个生态。成人带着义务、断续的时间表与各异的目标而来，因此单一产品无法覆盖这一设计空间。
+- **"成人层面的数字素养可以假定具备。"** [[community-centered-ai-education-adults|一项中西部案例研究]]为一个服务不足社区中的 **54 位成人**共同设计了 AI 素养项目，发现面向公平的成人 AI 教育**必须首先解决基础数字素养与数据信任**。年龄不是数字熟练度的代理指标。
+- **"采纳是动机问题。"** 建立 [[ai-literacy]] 与围绕数据隐私的 [[trust]] 必须先于对采纳的期待。意愿来自对自身数据将被如何处理的信心，而非对技术的热情。
 
 ## 关联概念
 

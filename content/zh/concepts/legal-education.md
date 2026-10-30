@@ -1,7 +1,7 @@
 ---
 title: "法律教育"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-24T15:05:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-16T06:18:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ Gutowski 与 Hurley 用 0–5 分制量规从五个维度评估政策：**禁止
 - AI 辅助的法律写作课程作业，是否仍在培养执照所假定的那种分析，还是在训练一种律师考试同样检测不出的流畅？
 - 如果预习阅读被例行地委派出去，苏格拉底式教学会发生什么？课堂对此的沉默是一个测量问题，还是一个设计问题？
 - 法律教育培养的正是将来就[[ai-education|教育中的 AI]]提起诉讼与制定规则的人。这使它成为检验知识库法律风险工作的自然场所，还是会把注意力引向政策声量最大的那几所法学院？
+
+## 常见误解
+
+- **"法学院已经确定了一个立场。"** 多数采纳了**总体禁止的立场**，常被解释为**争取时间以研究这项技术**，而**几乎所有政策都为个别教师保留了酌处权**。一项带有教师覆盖权的禁止不是已确定的立场，而是一次带有默认值的推迟。
+- **"调查证据描述了这个领域。"** **ABA 2024 年的调查只收到 29 所法学院的回覆，约占 ABA 认可法学院的 15%**，而 LexisNexis 对 **800 名**执业者的调查测量的是另一个总体。两者都不能被当作法律教育的代表，而两者都被当作代表来引用。
+- **"不给出 AI 的建议是中立的。"** 在一项法律情境实验中，**仲裁庭民事案件中的 186 名非专业决策者在系统不给出自身立场时，远较少地屈从于错误的 AI 立场（5.7 至 8.2% 对比 42.0 至 60.5%）**。不给出并未产生中立；它产生的是屈从的大幅减少，而后者本身就是一种效应。
 
 ## 关联概念
 

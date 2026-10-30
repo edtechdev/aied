@@ -1,7 +1,7 @@
 ---
 title: 情感计算
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,12 @@ ai_assist:
 - **有情绪智能的评估代理。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]是一个[[llm]]增强的、有情绪智能的[[conversational-ai|会话代理]]，它在保持[[usability-research|可用性]]的同时，降低了学生在表现性评估中的焦虑与社会压力。
 - **通过提示设计而非感知来工程化共情。**情感支持并不要求情感检测：[[wang-teacher-student-centered-agents-physics-2026|Wang 等（2026）]]在两个仅提示规定的角色与对话动作不同的大语言模型[[physics-education|物理]]代理之间，获得了*共情感知*上的巨大差异（21.27 对 18.24；r = 0.53）——这些动作是换位思考式的开场（"你会问这个问题，是因为……"）、[[misconceptions|迷思概念]]诊断，以及每轮结束时的一次理解检查——而模型、平台与温度保持不变。这是对传感器驱动的情感计算的一个有益制衡：一个[[pedagogical-agent]]被感知到的情感质量可以被设计进互动脚本，同时也提醒设计者，被感知的共情是一个自陈构念，而非真实情感理解的证据（[[student-ai-interaction]]）。
 - **提示教师而非调整辅导系统的告警。**[[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan（2026）]]在一所高中几何课堂中部署了 Dash4Emotion：红框矩形标出被解读为处于负面情绪的学生；在 20 个被识别的片段中（报告了五个），改变投入的是教师对告警的回应，而非告警本身。其设计要点是：情感感知可以喂给一个人来做决定，而不是喂给自适应辅导系统的下一步——同时附带该研究自己的告诫：它报告说未对面部表情检测做验证，因此该信号是供教师解读的提示，而非关于学生内部状态的证据。
+
+## 常见误解
+
+- **“投入度更高就意味着学习更多。”** 一项脑感知研究发现，一个**受约束的自适应界面提高了认知投入度（p = .018），而不受约束的聊天机器人却产生了更高的学习增益**。投入更多的那一个教得更少。投入度不是学习的代理，而以它为目标可能把结果推向错误的方向。
+- **“情感支持是认知支持之外的软性附加项。”** 在一项小型课堂 [[rct|随机对照试验]]（**252 名参与者中有 42 人完成**）中，正念版本在比单独认知支持**更短的时间内、以更少的请求提示**达到了相似的代数学习。情感成分改变的是效率而不是上限，这是一个与“它有助于学习”不同且更有意思的主张。
+- **“小样本的情感研究发现可以迁移。”** 252 名参与者中的 42 名完成者，是一个既令人鼓舞又脆弱的设计：完成率本身就是关于谁坚持下来的一个发现，而效应被限定在那一个群体内。
 
 ## 关联概念
 

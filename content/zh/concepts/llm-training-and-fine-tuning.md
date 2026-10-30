@@ -1,7 +1,7 @@
 ---
 title: LLM 训练与微调
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T15:28:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -152,6 +152,13 @@ LoRA 及其同类是大多数教育团队实际工作的地方，而文献中包
 ## 与相关概念的关联
 
 本页是 [[llm]]（涵盖大语言模型是什么、如何行为）的*模型如何造出来*伴侣。它位于 [[ai-technologies]] 之下，是训练与适配节点，与 [[rag]]（通常排在最前的检索替代方案）、[[prompt-engineering]]（最便宜的杠杆）和 [[reinforcement-learning]]（后训练的 RL 半边）并列。它的产出喂给 [[intelligent-tutoring]] 与 [[adaptive-learning]]；它最常见的教育应用是 [[automated-assessment]]、[[automated-essay-scoring]] 与 [[ai-feedback-quality]]；与它概念上最近的是 [[educational-nlp]]、[[simulating-students]]、[[open-source]] 与 [[student-modeling]]。它带来的风险由 [[pedagogical-safety]]、[[ai-sycophancy]]、[[hallucination-risk]] 与 [[privacy]] 承担。
+
+## 常见误解
+
+- **"微调是让模型擅长你的任务的办法。"** 检索与提示在**决策顺序中更靠前**，而本知识库最清楚的结果是后训练是**第三选择，而非第一选择**。在评估数据上微调改善了**格式与相似性**，而另一次微调**在生成反馈上直接失败**：方法改变的是表面，而非能力。
+- **"模型是学习增益的主要决定因素。"** 模型与提示的选择只解释了 LLM 与学生之间学习增益差距的**约 15%**。优化余下的 85% 才是工作所在，而它不在权重里。
+- **"本地模型会比托管模型差，所以检索是次要的杠杆。"** 在一项三配置的评估中，**检索而非模型才是首要的设计决定**：无检索的本地 LLM **准确率只有 52.3%，低于一个 TF-IDF 基线**。加入检索把同一模型推过了任何模型替换都不会单独达到的阈值。
+- **"训练数据更多就意味着教学行为更好。"** 那次改善格式却恶化反馈生成的评估微调，就是微型反例：针对一个看似相近的目标做优化，可能改善代理指标，同时损害你真正想要的东西。
 
 ## 关联概念
 

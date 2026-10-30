@@ -1,7 +1,7 @@
 ---
 title: 认知投降
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-09T19:07:10-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -69,13 +69,15 @@ ai_assist:
 
 务实的解读是：投降是一种**辨别失败**，而不是动机失败。投降的参与者并不是在逃避工作；他们分辨不出好建议与坏建议，而界面没有给他们任何尝试的理由。
 
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun（2026）]] 的一项预注册实验提供了一个对照配置。当助手被检索增强限制在指定的练习纸上时，AI 条件反而降低了认知卸载（中位数 −0.27），而不是提高它，且没有任何一条卸载路径承载了组织混乱的上升（0.84）。投降需要一个其建议能被整体采纳的助手；一个只依据当前材料作答的系统，给学习者的东西更少可采纳、更多可调和。
+
 ## 实验室之外的投降
 
 实验室发现与独立地用到同一个词的田野和观察性研究相吻合。
 
 - **人口层面的被挤走。** [[generative-ai-reduced-study-time-math|Rismanchian 等（2026）]]分析了 320 万条 ALEKS 学习交互和十年面板上 1,220 万条[[assessment|分级测试]]反应时间，以图形题作为文字题的对照。学生完成 AI 易感任务更快、得分更高，而受监考的保持项显示答对概率累计下降 25%；作者把这种模式称为人口规模上的认知投降。
 - **核验作为区分变量。** [[stamatoulis-genai-use-patterns-2026|Stamatoulis 等（2026）]]发现学生*如何*使用生成式 AI 预测[[learning-gains|表现]]，而*用多少*不预测两者：低核验式采纳 —— 不加批判地接受输出 —— 与更差的结果相关，而评估性整合与更好的结果相关。
-- **无思考的使用侵蚀了自我导向所需的资源。** [[genai-thoughtless-use-self-directed-learning-2026|Zhao 与 Gu（2026）]]直接建模了采纳而不评估：在 487 名本科生中，生成式 AI 的无思考使用与更低的[[self-regulated-learning|自主学习]]相关（β = −0.42），部分经由[[motivation]]与[[self-efficacy]]的下降传导。
+- **无思考的使用侵蚀了自我导向所需的资源。** [[genai-thoughtless-use-self-directed-learning-2026|Zhao 与 Gu（2026）]]直接建模了采纳而不评估：在 487 名本科生中，生成式 AI 的无思考使用与更低的[[self-directed-learning|自主学习]]相关（β = −0.42），部分经由[[motivation]]与[[self-efficacy]]的下降传导。
 - **神经与所有权的痕迹。** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|认知债务的 EEG 研究]]在[[llm]]、搜索引擎和无工具三种条件下测量了[[writing-education|论文写作]]：LLM 组显示出最弱的神经连接，对自己作品的作者身份报告最低，并且难以复述自己写了什么。
 - **投降可以不请自来。** [[ai-advice-suppresses-ikt-suspension-2026|关于判断悬置的研究]]发现，仅仅是 AI 建议的可用性就瓦解了人们说出"我不知道"的意愿（两项研究分别为 0.06 对 0.36、0.03 对 0.44），同时正确率下降、信心从约 30 升至 76。利害关系并没有恢复悬置，尽管激励通过鼓励推翻提升了准确率。第四项研究显示了完全不需要任何咨询就出现的该效应，这是自动补全或搜索摘要而非聊天提示的模式。
 - **依赖模式和自主模式只在结果上可分。** [[family-school-autonomy-support-genai-2026|Fan、Li 与 Zhang（2026）]]在三波中跟踪了 589 名学生和职场新人：依赖式卸载把核心思考委派出去，与更低的内在动机相关，而自主式卸载不是这样，且两者的即时表现看起来相同。
@@ -140,3 +142,4 @@ ai_assist:
 - [[brcic-effortless-trap-productive-struggle-2026]] —— 把 AI 放在任务保持费力的位置
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] —— 校准训练
 - [[family-school-autonomy-support-genai-2026]] —— 依赖式对自主式卸载
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — 一个以练习纸为依据的助手降低了卸载而非提高它：投降签名的一个边界条件（Braun 2026）

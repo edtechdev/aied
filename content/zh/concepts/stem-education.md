@@ -1,7 +1,7 @@
 ---
 title: STEM 教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T14:13:39-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,12 @@ STEM 结构化的知识表征、可验证的答案与计算思维上的对齐，
 - **利用 AI 在结构化契合上的优势，但保护推理。** STEM 可验证的答案使它成为 AI 最易处理的领域；应通过把 AI 嵌入结构化的、以掌握为导向的工作流，来防范过度依赖与答案替换。
 - **在 STEM 课程中嵌入 AI 素养。** 研究（[[zha-ai-literacy-biology-case-study|生物]]、[[ai-tpack-preservice-math-teachers|数学教师培养]]）表明，STEM 情境支持 AI 学习——在 AI 概念自然出现之处整合它们，而不是把它们孤立起来。
 - **在 AI 采用中关注 [[equity-in-ai-education|公平]]与可及性。** STEM 的 AI 工具并非中立；在部署它们时，监测评分偏差、[[digital-divide]]可及性与 [[culturally-relevant-pedagogy|文化相关]]的设计。
+
+## 常见误解
+
+- **"智能辅导在 STEM 中普遍有效。"** 一项对 **20 篇出版物（2020 年至 2026 年 4 月）**的结构化叙事综述发现，最清晰的已测量优势具体出现在**实时诊断**式辅导上。证据是**有界且有条件的**，把它推广到所有数学 ITS 会夸大被综述的范围。
+- **"模拟是动手实践的一种苍白替代。"** 模拟组**在与课程对齐的 STEM 知识上比动手组增益更大（M = 3.00 对 2.06；t(28) = 2.23，p = .034，d = 0.82）**。模拟并不是一个表现低于真实事物的退路。
+- **"AI 辅助的文献工作流主要是省时间。"** **20 名学生、80 份文档**的结果显示，**实验参数的提取率超过 90%，文献综述时间减少约 65%，学生识别有影响力工作的能力提高 50%**。能力上的增益是更大的结果，时间节省是较小的那个。
 
 ## 关联概念
 - [[learner-identity]] — 不断演化的学科性、职业性、创造性与学术性学习者身份

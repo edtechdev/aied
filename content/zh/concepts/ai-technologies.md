@@ -1,13 +1,13 @@
 ---
 title: 技术
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-09T19:47:36-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,16 @@ ai_assist:
 - **按教学意图选择技术：** AI 系统与技术应跟随 [[pedagogy|教学策略]]，而非相反。
 - **评估技术层：** [[ai-ed-evaluation]] 与 [[benchmark]] 研究在可靠性、教学法与 [[equity-in-ai-education|公平]]上评估 AI 系统，而非只看头条准确率。
 - **机器人与智能体是栈的一部分：** [[educational-robotics|具身]]与 [[agentic-ai|智能体式]]系统把技术 repertoire 延伸到文本之外——并带来它们自己的设计与安全考量。
+
+## 常见误解
+
+**"模型就是全部。"** 检索增强生成与提示工程这类技术，正是为控制与锚定 LLM 的产出而存在，而模型周围的架构常常决定它在课堂上是否可用。同一个模型上的两个系统，可能因为周围的东西不同而在可靠性上完全不同。
+
+**"这个领域的技术成熟度已经确立。"** 映射在要紧之处是单薄的：在 **474 项研究**中，GPT 系列模型与 LangChain 占主导，而**受治理的工具编排、持久记忆与长视野规划基本缺失**，且只有 **474 项中的 138 项（29%）**借鉴了教育理论。被使用的栈远比这个领域所需的栈狭窄。
+
+**"技术选择是技术人员的事，不是教育者的事。"** 本页的框定是：你可以是一位出色的教育者而不必能构建一个 LLM，而你的技术选择仍然塑造 AI 在你的课堂上能与不能做什么。一个系统是否把答案锚定在课程材料上，是一个带有教学后果、且必须有人来作的决定。
+
+**"能力更强的模型会解决这个领域的缺口。"** 编排、记忆与长视野规划是架构问题而非能力问题：文献记录的缺失，是缺少能在时间中治理自身工具使用的系统，而一个更好的模型本身并不提供这个。
 
 ## 关联概念
 

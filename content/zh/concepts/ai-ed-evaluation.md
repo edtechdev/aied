@@ -1,7 +1,7 @@
 ---
 title: 人工智能教育评价
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T14:21:43-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,13 @@ ai_assist:
 - **一幅文献计量地图可以揭示一种评价文化所奖励的东西。** 在 1,403 篇医学教育出版物中，被引用最多的作品测量的是模型能力，尤其是 ChatGPT 在执业考试上的表现，而[[governance|治理]]研究滞后，因此作者呼吁对治理框架做实证评价，而非更多能力测试（[[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram 等（2026）]]）。
 - **专家判断评价需要自己的可靠性核算。** [[bespoke-industry-personalized-lecture-videos-2026|Puech 等人（2026）]]让 25 位领域匹配的专家对照锚定于“一堂标准慕课质量”的评分规则为 92 段生成的[[video-education|讲座视频]]评分，判定 87% 达到或高于门槛（均值 3.42/5）。每段视频由一位评审者评分一次（k = 1），因此该设计以牺牲一个评分者间一致性统计为代价把评审组铺开在语料上；一个随机截距模型把约 35% 的残差方差归于评审者（ICC = 0.35），论文报告的是以评审者聚类的区间而非单一精确度数字。建立在专家判断上的评价，其强度只相当于它所发表的可靠性分析。
 
+## 常见误解
+
+- **“在教师考试上得高分意味着模型具备教学胜任力。”** **97 个模型**在智利教师考试题目上被评分（**CDPK 28-89%**），许多超过了估计的**约 50% 人类基线**，然而**静态的多项选择题无法**检验实际情境中的判断。考试得分高，受制于考试所测量的东西。
+- **“评分标准只是技术细节。”** 严格匹配把同样的 2,250 段辅导对话评到 **42.1%**，而一个经人类校准的 LLM 评判者评到 **81.3%**（[[misconcept-dialogue-llm-math-tutoring-2026|Lee 等，2026]]）。标准对数字的移动，大于导师模型、策略或流水线。
+- **“识别与生成是可比较的能力。”** **识别不等于生成。** 在 TutorCaseBench 上，**11 个模型**中最好的一个在 **63.0% 的四选项题目**上选出了有文献记录的策略，但满足有文献记录的实施方案标准的频率低得多。在四个选项中挑出正确答案与把它产出，是两件不同的事。
+- **“没有经过验证的工具，模型分数仍有意义。”** 为 **71 个班级**生成了课程定制的考试，并以 **贝叶斯分层 2PL** 模型对照人类编写的 AP 统计学题目做基准；工具在分数被解读之前就已拟合。
+
 ## 关联概念
 
 - [[interpreting-and-applying-aied-research]]
@@ -169,3 +176,5 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — 用预训练模型对新型 AI 辅助教育题目做教学评价
 - [[llm-judge-evaluation-educational-ai-2026]] — 当评价者谎报狼来了：来自教育 AI 中生产环境“以大语言模型为评判者”评价的教训
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 一幅文献计量地图可以揭示一种评价文化所奖励的东西
+
+- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue：评价标准塑造了 LLM 数学辅导中被测得的成功（Lee 等 2026）

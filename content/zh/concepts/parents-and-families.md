@@ -1,7 +1,7 @@
 ---
 title: 家长与家庭
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,16 @@ ai_assist:
 2026 年的一项范围综述描绘了该领域已经走多远。[[llm-family-education-activity-theory-2026|Luo 等人（2026）]]通过活动理论分析了来自 6,540 条记录、19 个会场的 53 项 HCI 研究，发现文献集中于亲子互动，以及语言、[[ai-literacy]]和关系性学习，53 项研究中有 44 项（83%）设定在亲子构型中。对话式、具身化和空间化的系统从正在展开的互动情境中生成支持，LLM 重新分配教育劳动，而家庭和机构仍然负责解释输出并决定它们如何进入实践。综述所点名的缺口是持续性的[[personalized-learning|个性化]]、修补劳动，以及家庭如何协商权威与规则——这与本节从另一个方向记录的缺失是同一个。
 
 **与其他页面的关系。** [[stakeholders]]是对整个利益相关方集合的简要概览，其中家庭被列为尚未深入覆盖的受众；本页就是这份深度。[[early-childhood-elementary-ai-education]]覆盖跨学校与家庭的低龄学习者的发展与[[pedagogy|教学法]]领域；本页则跨年龄跟随家庭，从学前游戏活动到中学作业。[[ai-use-disclosure]]覆盖学习者是否告知他人自己使用了 AI；本页覆盖的是相邻问题——这一信息是否传达到家中的成年人，以及家庭被告知了关于学校 AI 使用的什么。
+
+## 常见误解
+
+**“只要发出邀请，家庭就会参与。”** 采用率在每一次交接处崩塌。在本页所引项目的第一年，**只有约 45% 由教师提名的学生参加过哪怕一次课**，家庭在邀请、兴趣、在 [[edtech-platform|第三方平台]] 创建账户、配对等每一步流失。每一次交接都是可能失去一个家庭的地方，因此发出邀请只是开始，真正送达才算数。
+
+**“围绕 GenAI 的家校协同已是成熟做法。”** [[family-school-autonomy-support-genai-2026|Fan、Li 与 Zhang（2026）]] 把它当作**未经检验的假设**，而不是成熟做法。项目正建立在文献尚未检验的假定之上，在把一个项目当作循证实践采用之前，这一点值得知道。
+
+**“如果 AI 正在损害孩子的学习，家长会察觉。”** 他们恰恰是最难察觉的人。在 [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg、Lei 与 Wu（2026）]] 的数据中，作业分数在六个月内上升了 **18%**，而 [[summative-assessment|闭卷考试]] 分数下降了 **20%**，在家中可见的正是那个上升的数字。看着作业的家长看到的是进步，而持久的结果在下降。
+
+**“家中的 AI 使用是一个家长许可问题。”** 它是素养与倡导问题。家长自身的 AI 素养决定了他们能对学校配发的工具提出什么质询，而家庭之间的接入不平等决定了哪些孩子能获得成人的中介。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 计算思维
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,13 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 计算思维是[[ai-literacy]]与[[critical-thinking]]之下共享的认知基础，是[[cs-education]]与[[k-12]]计算课程的课程内核，也是[[educational-robotics]]、[[game-based-learning]]与[[project-based-learning]]最好应服务于的概念目标。当[[llm|大语言模型]]与[[generative-ai]]被用作支架工具时，它会加深CT；而学生迷思分类法与CT感知的评估所瞄准要测量的，正是这项技能。教师通过[[teacher-education]]与[[professional-training]]发展它，而它可在包括[[physics-education]]与广义[[stem-education|STEM]]在内的领域间迁移。
 
 - **计算思维预测与AI助手一同学习的能力。** 在AI编程助手课程中，[[computational-thinking-aica-2026|八年级学生]]中计算思维高的人显著优于低CT的同龄人，他们把助手用于理解而非获取答案。
+## 常见误解
+
+- **"AI 让计算思维变得不再必要。"** [[chat-debugging-human-ai-collaboration-circuits|聊天式调试研究]]发现，当本科生借助 LLM 调试电路时，**限制因素是其基本概念与批判性思维的欠缺，而非工具本身**。计算思维正是让学习者评估产出而非接受产出的能力，也正是让 AI 辅助得以可用的那种能力。
+- **"AI 辅助能在资源不足的情境中拉平起跑线。"** 它在特定条件下可以。一项针对尼日利亚 **103 名一年级本科生、为期 14 周的准实验**发现，AI 支持的问题式学习（ChatGPT 与 Teachable Machine）带来了增益，而作为"更有能力的同伴"的 AI 在其他教学供给缺位之处承载了计算思维。但这是一个关于结构化干预的发现，而不是"给学生一个聊天机器人"就会具有的属性。
+- **"LLM 无法可靠地评估计算思维。"** [[llm-computational-thinking-physics-2026|物理 CT 评估研究]]发现，LLM 在大班课程中为"数据实践"与"计算性问题解决实践"的成长打分时能够**镜像人类评分者**。扩展 CT 评估的障碍一直是评分者产能，而这一约束正在松动，这把设计问题转向了工具究竟在测量 CT，还是在测量服从。
+- **"计算思维是一种恰好能由机器人来教的编程技能。"** 一项**对 95 项研究的系统综述**确认机器人培养了 CT、创造力与问题解决，但也确认**情境会调节结果**：[[game-based-learning|游戏化学习]]式的实施适合非正式情境，而游戏化在正式情境中有所不同。CT 是一组迁移并不均衡的实践，因此迁移主张需要它实际使用的那套任务设计。
+
 ## 关联概念
 
 - [[cs-education]]

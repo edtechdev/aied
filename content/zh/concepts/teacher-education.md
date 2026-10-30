@@ -1,7 +1,7 @@
 ---
 title: 教师教育
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-24T16:12:00-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,7 +9,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ ai_assist:
 
 - **真实性评价与元认知。**AI 中介的评价模型（例如 AAIWA）在职前项目中整合了[[authentic-assessment|真实性量表式评价]]、响应条件化的[[ai-feedback-quality|AI 反馈]]与[[metacognition|元认知反思]]。([[aaiwa-ai-authentic-assessment-metacognition-2026]])
 
-- **[[stem-education|科学教育]]中 AI 支持的探究。**在土耳其进行的一项有 48 名职前科学教师的准实验（[[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]）把问题式与设计式学习整合进一个为期 8 周的、关于光合作用与呼吸作用的 AI 支持引导探究项目。它在两个[[biology-education|生物学]]过程的概念理解上产生了显著增益，但对 AI 素养或自感的[[computational-thinking|计算思维]]则*无*显著效应 —— 这提醒我们，AI-IBL 可以在教师候选者中深化学科理解，而不会自动建构其 AI/CT 胜任力，后者需要明确、有针对性的设计。
+- **[[science-education|科学教育]]中 AI 支持的探究。**在土耳其进行的一项有 48 名职前科学教师的准实验（[[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]）把问题式与设计式学习整合进一个为期 8 周的、关于光合作用与呼吸作用的 AI 支持引导探究项目。它在两个[[biology-education|生物学]]过程的概念理解上产生了显著增益，但对 AI 素养或自感的[[computational-thinking|计算思维]]则*无*显著效应 —— 这提醒我们，AI-IBL 可以在教师候选者中深化学科理解，而不会自动建构其 AI/CT 胜任力，后者需要明确、有针对性的设计。
 
 - **面向建构主义教学设计的[[generative-ai|生成式 AI]]。**[[sahab-model-genai-constructivist-id-2026|SAHAB 模型]]是一个准实验性的专业发展干预，其中生成式 AI 赋能教师设计[[constructivist|建构主义]]教学，增益较大（d = 1.18）。它表明 GenAI 既能为教师候选者也能为在职教师的[[learning-design|教学设计]][[scaffolding|搭脚手架]] —— 不只是传递内容，而是支持学生中心学习活动的*设计*。
 
@@ -68,6 +68,8 @@ ai_assist:
 - **课堂 AI 政策写作作为观察职前思维的一面透镜。**[[nash-preservice-teachers-classroom-ai-policies-2026|Nash 与 Burriss（2026）]]**请一所中学英语培养项目中毕业学年的 27 名职前中学英语教师，写下他们在自己 6–12 年级课堂中会使用的[[educational-policy-ai|AI 政策]]，而该州没有任何州级 AI 指引。27 人中有 26 人允许某种 AI 使用，几乎总是限于教师指定的任务、时间与地点，只有一人基于与劳动实践和版权相关的伦理理由彻底禁止；22 人允许用 AI 生成想法，而 22 人不允许或未明确允许用 AI 撰写句子、段落或论文；附带的反思读起来是教学承诺与一种感受到的整合[[generative-ai|AI]]的义务之间的谈判。请职前教师撰写一项政策 —— 而非抽象辩论 AI —— 揭示了他们的哲学、信念与课程假设，使政策写作成为方法课程中一项高价值活动。
 
 - **政策并不支配实践。**来自一个美国教师教育项目四个学期的调查数据显示，用于备考的 GenAI 使用从 57% 升至 83%，用于学习的从 44% 升至 76%，即使机构正在考虑 AI 检测软件，而伦理不确定性在各波次间上升（[[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker 等（2026）]]）。
+
+- **没有一项职前研究测量了学生的学习。** 一项只能纳入七份来源的综述发现，伦理虽被承认，却很少被教授或评估，而职前教师对批判 AI 过于自信（[[shukla-ai-teacher-education-frameworks-review-2026|Shukla（2026）]]）。
 
 ### 在职专业发展
 
@@ -90,7 +92,6 @@ ai_assist:
 - **资格后项目。**在职科学教育者的 AI 素养与使用为 AI 相关资格后项目的设计提供依据。([[science-educators-ai-literacy-postqualification-2026]])
 
 - **教师设计工作中的 AI 支持与指导。****[[pishtari-teacher-ai-training-learning-design-2026|Pishtari、Gnadlinger 与 Ley（2026）]]**让 13 名高校教师在为期半天的项目中，分别于无 AI、AI 聊天机器人与 AI 加培训三种条件下设计活动。AI 接触提高了高阶（布鲁姆）任务的达成度、降低了感知认知努力，而随后的交互培训环节使质量趋平、却使努力略升（相关负荷与外在负荷之分未解）。它把面向 AI 时代教学的专业发展框定为既需要以教学法为基础的设计框架（布鲁姆、[[icap-framework|ICAP]]），也需要结构化的聊天机器人交互策略，同时告诫质量增益可能掩盖了把教学决策[[cognitive-offloading|外包]]给 AI。
-
 ### 知识、信念与实践
 
 贯穿教师教育研究的一个关键发现，是教师*所言*与*所行*之间的差距：教师常声称具备操作性的 AI 技能，却难以在实践中运用具有教学法意义的知识。([[teachers-ai-knowledge-genai-lesson-planning-2026]]) 当经验与 AI 熟练度交叉时，这一区分更深：**[[choi-teacher-ai-interaction-lesson-design-2026|Choi 等（2026）]]**发现，技术上流畅的*新手*在教案设计中仍被动接受 AI 输出，而资深教师 —— 即便其测量的 AI 熟练度较低 —— 会批判性地重新提示，并把 AI 建议调适于他们的学生与情境。其意涵是，在职专业发展不能把“建构 AI 技能”视为充分；它必须按教师的经验与熟练度画像加以区分 —— 为新手提供回应评价与批判性调适的脚手架，为 AI 熟练度较弱的资深教师提供动手的 AI 技能建设。对 AI 生成教案的专家判断，把这种批判性调适立场标记为常态而非例外：**[[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu、Surmeli 与 Yildirim（2026）]]**发现，十一名土耳其科学教育专家把 ChatGPT-4 与 Teacher's Buddy 为六年级一个单元所作的教案评为可用的草稿 —— 11 人中 7 人判定它们“经修改后可用”，只有 3 人直接评为“可用” —— 而他们的偏好偏离了原始分数，更看重情感与情境层面的品质而非结构保真。因此教师教育应把评价、调适与本地化 AI 生成教学材料的能力建构为一项核心专业胜任力，在职前与在职项目中皆是。心理因素也重要 —— [[self-efficacy|自我效能]]正向预测 AI-TPACK，而强烈的传统教学信念可能构成认知障碍。([[ai-tpack-mathematics-teacher-education-2026]]) 对 AI 的[[trust|信任]]同时由技术知识与伦理感知（透明度、公平、问责、包容性）塑造。([[intelligent-tpack-ethics-teachers-trust-distrust-2026]]) 测量教师的 AI 素养本身是一个活跃的前沿：由于多数 AI 素养测评面向学生或一般用户，教师 AI 素养量表（TAILS）—— 基于六维 ED-AI 框架 —— 专为[[language-learning|职前语言教师]]开发并通过探索性与验证性因子分析加以检验，填补了教师教育内部的测量缺口。一个同样被忽视的问题是，培养的*模式*是否改变 AI 准备度。[[ai-training-science-teacher-tpack-distance-2026|Mnguni 等（2026）]]调查了南非 186 名毕业学年的科学师范生，发现[[self-report-measures|自陈的]]面向 AI 整合教学的 TPACK 在一所校园型大学（64.0%）高于一所[[online-teaching-and-learning|远程教育]]大学（47.4%），且教学法知识在两者中都是最弱的；AI 培训只在远程院校与自陈 TPACK 相关，而在那里一门五学分的短期课程所预测的自陈 TPACK 低于未受训者。因此远程培养需要自身的证据基础，而不能假定为校园项目设计的培训可以直接迁移。
@@ -122,6 +123,12 @@ ai_assist:
 
 - **教会教师读懂AI政策背后的原始研究。**一门为期六周的研究生研究方法课程以研究消费而非研究生产为目标：一名教师把批判性评价框架应用于学区规定的课程，并把分析呈报给其校长，还有几位在自己的学生中采用了苏格拉底式提问[[packard-thinking-partner-framework-adult-learners-2026|Packard 等（2026）]]。
 
+## 常见误解
+
+- **"职前教师对 AI 的接受是一种单一态度。"** **128 名职前教师**被划分为四种 ChatGPT 接受度群体，其中包括**抗拒的怀疑者（14.06%），他们报告了很高的感知易用性，却只有很低的行为**意向。在这一群体里，易用性与意向分了开来，因此一个由可用性驱动的干预会让他们毫无变化。
+- **"AI 主要帮助职前教师提升内容知识。"** 一项**对 55 项研究的范围综述**发现 AI 提升了**教学设计、学科教学与实践教学**，即设计与实践的能力，而不是内容专长。
+- **"一项 55 项研究的范围综述确立了收益。"** 它记录的是该领域被报告的内容。所报告提升的广度是关于文献共识的主张，而范围综述中的 55 项研究并不是一个合并效应。
+
 ## 关联概念
 
 - [[teacher-role]]
@@ -137,6 +144,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — 教师教育中的 AI：教学框架、实证证据与伦理，2020-2026（Shukla 2026）
 - [[bicer-genai-pd-math-creativity-2026]] — 生成式AI引导的专业发展如何支持教师投入数学创造力、内容知识与教学法内容知识
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — 职前英语教师撰写课堂AI政策：允许、受限与禁止的用法（Nash & Burriss 2026）
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85名师范生：浅层的GenAI采纳、诚信焦虑与未迁移的评价素养

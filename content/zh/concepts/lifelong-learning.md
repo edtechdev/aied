@@ -1,13 +1,13 @@
 ---
 title: 终身学习
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-09T18:10:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_of: concepts/lifelong-learning
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -36,7 +36,7 @@ ai_assist:
 
 ## 引言
 
-终身学习指贯穿一生的持续教育：技能提升、技能再造、[[professional-training|专业发展]]，以及正规学位之外的非正式学习。人工智能在其中日益居于核心位置，它既是支持成人学习者的工具，也是改变成人必须不断更新之技能的力量。
+终身学习指贯穿一生的持续教育：技能提升、技能再造、[[educational-development|专业发展]]，以及正规学位之外的非正式学习。人工智能在其中日益居于核心位置，它既是支持成人学习者的工具，也是改变成人必须不断更新之技能的力量。
 
 ### 终身学习在研究中的呈现方式
 
@@ -50,6 +50,32 @@ ai_assist:
 ### 关联
 
 终身学习与[[adult-learning]]和[[professional-training]]（其主要情境）、[[personalized-learning]]和[[adaptive-learning]]（支持它的智能机制）、[[self-regulated-learning]]和[[metacognition]]（涉及的学习者过程），以及[[equity-in-ai-education]]（贯穿生命历程的学习机会）相联系。当教育者本人就是终身学习者时，它还牵涉[[educational-development]]。
+
+## 常见误解
+
+**“AI 暴露主要威胁入门级任务，因此有经验的劳动者是安全的。”** 就业模式反转了这一假设的一部分，而专长问题更为深层。在 AI 暴露程度最高的美国职业中，**22 至 25 岁劳动者的相对就业下降了 16%（2022 年 10 月至 2025 年 9 月）**，而 **35 至 49 岁者增长了超过 8%**，这种保护附着于累积的专长。但产出这种专长的管道正穿过如今被削减的入门级工作，因此这种保护是有时限的，而横截面数字掩盖了这一点。**专长的再生本身面临风险**：如果形成性的工作消失，将成长为有经验从业者的那个队列就会变小。
+
+**“终身学习意味着成年人上更多课程。”** 上课是更宽要求的一种交付形式：在任务变化时维持并重建胜任力。一个需要持续再生的劳动力不缺课程供给，缺的是新胜任力真正得以形成的练习机会。
+
+**“终身学习是个人责任，因此制度设计是次要的。”** 再生问题是结构性的，它关乎形成性工作究竟在何处存在，而个人无法创造自身发展所需的工作。把它框定为动机，无法解释集中在年龄分布底部的 16% 下降。
+
+## 实践启示
+
+**对雇主与培训设计者**
+
+- 保护建构专长的形成性工作，而不只是交付产出的任务。如果入门级工作被移除，十年后的资深从业者就没有被招聘过。
+- 把带反馈的结构化练习建入持续发展，因为胜任力再生取决于在监督下做那件工作的更难版本，而不是完成课程。
+- 按队列而不仅按人头追踪进展。一个劳动力可以整体增长，同时其入门管道在收窄。
+
+**对教育者与课程设计者**
+
+- 为在职成人的约束而设计：短、间隔、可应用，使练习经得起与就业的接触。
+- 使从受助到独立表现的路径显式化，因为对练习完全由工具中介的学习者而言，[[cognitive-offloading|卸载]]风险最高。
+
+**对研究者与政策制定者**
+
+- 按年龄段而不是按总量置换数字报告就业效应；16% 对 8% 的对比才是发现。
+- 研究形成性工作在何处消失，因为这是当前增益变成未来短缺的机制。
 
 ## 关联概念
 
@@ -69,10 +95,10 @@ ai_assist:
 
 ## 关联文章
 
-- [[ai-adult-learning-guidelines-dis2026]]：面向成人学习支持的人工智能技术设计准则
-- [[ai-guided-learning-audiovideo-2026]]：面向技能习得的人工智能引导学习
-- [[learnity-graphs-lifelong-learning-framework-2026]]：用学习图谱重新构想高等教育
-- [[andragogy-cognitive-delegation-genai-2026]]：人工智能中介学习中的成人教育学与认知委托
-- [[ai-lifelong-learning-policy]]：终身学习中的人工智能：成人教育政策中的机遇与挑战
-- [[community-centered-ai-education-adults]]：为成人共同设计以社区为中心的人工智能教育
-- [[cognitive-commons-ai-expertise-regeneration]]：认知公地的悲剧：人工智能与专业能力的再生成
+- [[ai-adult-learning-guidelines-dis2026]] — 面向成人学习支持的人工智能技术设计准则
+- [[ai-guided-learning-audiovideo-2026]] — 面向技能习得的人工智能引导学习
+- [[learnity-graphs-lifelong-learning-framework-2026]] — 用学习图谱重新构想高等教育
+- [[andragogy-cognitive-delegation-genai-2026]] — 人工智能中介学习中的成人教育学与认知委托
+- [[ai-lifelong-learning-policy]] — 终身学习中的人工智能：成人教育政策中的机遇与挑战
+- [[community-centered-ai-education-adults]] — 为成人共同设计以社区为中心的人工智能教育
+- [[cognitive-commons-ai-expertise-regeneration]] — 认知公地的悲剧：人工智能与专业能力的再生成

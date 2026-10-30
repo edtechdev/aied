@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 批判性思维
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T14:40:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ ai_assist:
 - **验证作为一种学习活动，而不只是一种屏障。**[[pearls-epistemic-verification-2026|Wang（2026）]]把对人工智能产物的评价组织为六个相互依存的维度——过程（Process）、证据（Evidence）、获取（Access）、可复现性（Reproducibility）、正当性（Legitimacy）与来源（Source）——并把组装这套论据、而非产出的流畅度，当作建构学科专长的东西。
 
 **知识库中专家评定的最大脆弱点是批判性思维。**在 30 位专家评定的 65 项学习过程中，"批判性思维"与"批判性–分析性思维"获得了本报告最高的破坏评分（均值 4.00，满分 5；96% 的评分者给到 3 分及以上），而增强低于门槛（2.40，43%）（[[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou、Greene 与 Nixon 等，2026]]）。18 项高阶过程中有 10 项只在"脆弱"上达成共识，报告把这解读为一种单侧风险，而非一种权衡。
+
+## 常见误解
+
+- **“更好的提示词会带来更好的批判性思维。”** 把谬误导师与辩论聊天机器人区分开的是**对话结构的控制，而不是更好的提示词**：把每一轮都经由**基于图尔敏模型的意图识别**路由，才起了作用。机制在于互动结构，而不是措辞。
+- **“GenAI 的使用直接提升批判性思维。”** GenAI 使用与**自评**批判性思维的关联**几乎完全经由 GenAI [[feedback-literacy|反馈素养]]**：在 **421 名中国本科生**中，反馈素养中介了该关联的 **71%**。素养才是通路。
+- **“元分析效应是整齐划一的。”** 在 **29 项实验**中，GenAI 中等地提升了高阶思维（**g = 0.609**），其中批判性思维为 **ES = 0.691**。在异质干预之上得到的中等合并效应，支持的是这一类干预，而不是某个具体设计。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 自动化评估
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:39:30-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -107,7 +107,6 @@ ai_assist:
 ## 质量与公平
 
 自动化评估的质量取决于[[assessment-validity]]和[[bias-mitigation]]。[[ai-scoring-language-bias-physics|语言偏差]]研究表明，自动评分可能系统性地使某些学生群体处于不利地位。
-
 **标准本身也会出错。**[[ai-marking-accuracy-gcse-physics-2026|Bozdag 与 Qiu（2026）]]用一个人工智能系统评阅 GCSE 物理答卷，并与官方考试委员会的分数和有经验教师的判断做比较，把与委员会的一致视为准确性的代理，而非准确性本身。
 
 ### 部署场景及其各自要求
@@ -141,6 +140,13 @@ ai_assist:
 - **小样本上的一致性统计会误导部署决策。**对 60 篇营销帖文（15 名学生加 15 篇研究者撰写的低质量锚点）对照两名独立人类评分者评分，得到 LLM 的绝对一致性 ICC(2,1) 为 .435，等权重的规则加 LLM 混合为 .266，确定性规则为 .091，在 0–100 分量表上的 MAE 分别为 6.28、10.53 和 17.22 分；混合方式显著差于单独的 LLM（配对 ICC 差异 -.169，95% CI [-.260, -.106]）。加入锚点把评分者间 ICC 从 .338 提高到 .902，LLM 一致性从 .435 提高到 .846，而一篇几乎空白的帖文得了 75 分，对照人类均值 30.5——可见单个退化回答可以在小规模评价中占主导。（[[automated-scoring-marketing-posts-agreement-2026]]）
 
 - **结构化 LLM 评分可能看似分析性而实则非诊断性（2026）：**在对 50 道计算机科学问题的 3,041 个回答评分时，三个商用 LLM 产出的量表子维度近乎冗余（r = 0.82–0.99，VIF 最高 45），且只有 4.8–7.4% 的批注点名了迷思概念，而教师为 15.0%（[[llm-structured-assessment-diagnostic-quality-2026|Zhao 等，2026]]）。
+
+## 常见误解
+
+- **“自动分数是一个可靠的单值。”** 一场实际的计算机视觉考试（**570 名双重评分的学生**）在 **171 种配置**下被评分，另一场机器学习考试又在更多配置下评分，配置驱动了分数。被呈现为一个数字的成绩，掩盖了产生它的配置。
+- **“评分者是不可靠性的来源。”** 在 378 项固定骰子裁决上，重跑在半刚性方法下改变了 **2.9% 到 6.1%** 的结果，在自由裁决下改变了 **13.5% 到 15.9%**，而更换评判 AI 只增加约 3 个百分点（[[wargaming-adjudication-ai-judged-grading-2026|Epstein，2026]]），设定可复现性的是程序，而不是评判者。
+- **“置信度报告是一种点缀。”** 一个说自己 **70% 确定**的分数会改变它的使用方式，而这一信息的缺席迫使读者把所有分数当作同等确定。
+- **“简答自动评分是一个已解决的领域。”** 一项关于[[science-education|科学]]中简答自动评分的范围综述（**2017 年至 2024 年初**）记录了该领域的历史，那是一份尝试过什么的记录，而不是一份被验证过什么的记录。
 
 ## 关联概念
 
@@ -210,3 +216,4 @@ ai_assist:
 
 - [[llm-grading-assistants-public-health-2026]] — 推理模式把 LLM 与人类评分的一致性从加权 kappa 0.269 提升到 0.718
 - [[machine-human-marking-agreement-institutions-2026]] — 本科生作业的机器—人类评分一致性依模型、提示和机构而异
+- [[wargaming-adjudication-ai-judged-grading-2026]] — 拇指放在天平上：用传统兵棋裁决实践改进 AI 评判的评估与评分（Epstein 2026）

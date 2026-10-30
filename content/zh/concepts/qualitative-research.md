@@ -1,13 +1,13 @@
 ---
 title: 质性研究
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-09T19:31:55-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,37 +37,32 @@ ai_assist:
 ## 主要质性路径
 
 ### 主题分析
-
 主题分析在质性数据中识别、编码并解释模式（"主题"）——通常是访谈或焦点小组的记录稿、开放式问卷回答或文件。它是知识库质性研究中使用最广的路径。访谈与开放式回答本身就是 [[self-report-measures|自我报告数据]]，所以它们共享关于"能就行为主张什么"的限度——见那一页，了解自我报告证据在何处强、在何处失效。[[fouad-bentley-trust-utility-gap-physics-2026|一项关于物理中信任–效用落差的研究]]用学生访谈数据的主题分析，浮现出 [[discipline-specific-aied|学科特定]]的怀疑与采纳偏好；[[genai-teacher-feedback-comparison|一项 GenAI 与教师反馈的比较]]分析学生对有用性与可信度的感知；[[ai-adult-learning-guidelines-dis2026|成人 AI 学习指南]]从对专家与学习者输入的主题编码中推导设计原则。[[ai-changing-teaching-workflows|AI 如何改变教学工作流]]依赖对教育者叙述的主题分析。
 
 编码可靠性可以做成一项持续的程序，而非一次性检查。[[preservice-teachers-noticing-ai-simulations-2026|Galiç et al.（2026）]]以 Krippendorff's α = .803 编码 304 条注意陈述，在五个重叠案例上监控一致性（合并 κ = 0.937），并在恢复前每当一致性低于 0.85 的重新校准阈值就重新编码有争议的陈述；随后被编码的陈述进入一项认识网络分析，它建模哪些维度共现，而非一份扁平的主题清单。
 
 ### 扎根理论
-
 扎根理论*从数据*建构理论，而非检验一个先验框架，用迭代编码（开放 → 主轴 → 选择性）直到理论饱和。它非常适合为涌现中的教育–AI 现象建构新理论。[[liu-tool-tutor-crutch-programming-2026|Liu et al.]]发展了*工具、导师还是拐杖*的扎根理论——学生在 [[cs-education|编程教育]]中如何对 AI 做认知 [[scaffolding|脚手架]]或卸载的三模式类型学——直接对 [[cognitive-offloading]] 做理论化。[[favero-critical-ai-tutors-empower-enslave-2025|一项关于批判性 AI 导师的扎根理论研究]]考察这类导师是赋权还是奴役学习者。[[genai-feedback-design-multisite-experiment|以人为本的 GenAI 反馈设计]]在一项多地点研究中使用扎根分析。关于这类扎根理论如何喂养本领域的理论建构，另见 [[theory-development-aied]]。
 
 ### 现象学与现象图析
-
 现象学路径研究一个现象的*活生生的经验*——与 AI 一起学习是什么感觉——而现象图析研究人们体验与理解一个现象的*质性上不同的方式*（产出"描述范畴"）。[[absent-cognitive-baseline-2026|《缺失的认知基线》]]借助学生在 AI 下自我评估的活生生经验，理论化一个结构性缺口；[[metacognitively-discordant-completion-genai-2026|一项现象学研究]]捕捉那种在明知不理解的情况下与 AI 一起完成工作的体验；[[genai-runaway-object-math-higher-ed|一项社会文化的、解释性的研究]]分析 GenAI 如何在 [[math-education|数学]]学术实践中变成一匹"失控的野马"。
 
 ### 话语分析
-
 话语分析考察语言使用如何建构意义、身份与权力——分析课堂话语、书面文本或互动序列。[[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]]开展长视野的课堂*话语分析*（此处由计算辅助），以缓解理解课堂互动中的方言偏见；[[scaffolding-critical-engagement-genai-minority-students|一项关于少数族裔预科学生的研究]]分析 [[prompt-engineering]] 任务中的协作*话语*。话语分析与 [[educational-nlp]] 结合时，在质性解释与计算方法之间架起桥梁。
 
 [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal（2026）]]展示了话语编码如何被渲染为可数规则从而可审计：在 366 篇摘要与 91,405 个 token 上，一处关联只有当某个行为者位于某个谓词之前、中间隔着不超过六个词时才算成立，名词邻近被排除，于是"AI governance"永远不作为"AI 在治理"的证据——这是一种基于规则的近似，而非依存句法分析，其局限由设计本身声明。
 
 ### 观察与民族志
-
 观察研究在情境中观看行为；民族志把这一点延伸为对一个场景持续、沉浸式的研究，研究者常以参与式观察者身份在场。[[trio-ethnography-llm-programming-education|一项三人民族志]]追踪 LLM 支持的编程教育中学生的解释如何演化；[[zha-ai-literacy-biology-case-study|一项课堂案例研究]]观察 [[ai-literacy]] 在 [[biology-education|生物]]中的整合。观察方法捕捉*实际*行为（学习者拿 AI 做什么），而非被报告的行为——补充了那些主导态度的 [[educational-measurement|定量测量]]的自我报告调查。
 
 ### 案例研究
-
 案例研究是对一个有界个案（一门课、一所机构、单个学习者）用多种数据源所做的深入调查。[[drummond-genai-business-schools-framework-2026|一项商学院案例研究]]生成一个由学生知情的 GenAI 教与学框架；[[zha-ai-literacy-biology-case-study|一项生物案例研究]]记录 AI 素养的整合。案例研究以深度换广度，强于理论生成与可迁移洞见，而非推广。[[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al.（2026）]]提供了对三所巴勒斯坦大学 21 名视障本科生的质性案例研究，用半结构化访谈的主题分析展示 GenAI 如何充当 [[assistive-technology|辅助技术]]以支持 [[inclusive-learning|融合学习]]——这是案例研究浮现出定量测量所错过之机制（个性化适配、教师增强、教育平权）的一个例子。
+
+- 被选择的变异不是被发现的变异：三名英语作为外语的学习者，从 241 名被调查学生中按不同的熟练度、性别与 GenAI 使用史选出，在三个任务中走出截然不同的情绪轨迹，然而最大变异案例无法估计任何轨迹有多常见（[[wu-efl-emotional-dynamics-genai-writing-2026|Wu、Yang 与 Lin（2026）]]）。
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan（2026）]]为一位教师和八名学生把视频、告警系统自身日志与刺激–回忆访谈做三角互证，显示一个情感信号只有通过教师的回应才获得意义；由一位作者所做的两阶段事件编码，没有独立编码也没有经过验证的情感检测，标志着单人编码案例分析所能支撑的限度。
 
 ### 访谈与焦点小组
-
 半结构化**访谈**与**焦点小组**是上述所有路径中最主要的数据收集工具。它们引出丰富、带情境的叙述。知识库的质性语料在很大程度上建立在访谈（例如 [[genai-expertise-pathways-sysadmin|专长路径]]）与焦点小组（例如 [[t2i-competence-paradox-2026|文生图能力悖论]]、[[ai-adult-learning-guidelines-dis2026]]）之上。质量取决于谨慎的问题设计、为变异而做的抽样，以及严谨的分析。
 
 ## 质性研究在知识库中如何出现
@@ -91,6 +86,16 @@ ai_assist:
 - **局限：**统计推广性有限；解释性且依赖研究者（可靠性关切）；样本小；对因果主张的支撑较弱；发现难以跨研究综合；耗时费力。
 
 定性与定量方法是互补而非对手——见 [[research-methods-aied]] 了解它们如何对比与三角互证，以及 [[mixed-methods-research|混合方法]] 了解把两者结合起来的设计。
+
+## 常见误解
+
+**“质性发现因为样本小，所以不可推广。”** 它们通常不是*统计上*可推广的，却常常是*概念上*可推广的：它们识别的机制与动态会转移到其他场景，即便频率不会。一个解释了学生为何不信任辅导者的焦点小组，产出了一项调查无法产出的机制；以缺少置信区间为由丢弃它，丢掉的正是可以转移的那一部分。
+
+**“AI 现在能做质性分析，所以该方法可规模化。”** 它规模化的是编码，而不是解释。语料显示这件事行之有效之处，是因为编码任务先被变得可比：一项研究把 **15 个固定情境**应用于 **20 所大学**的公开政策，得出 **300 项可比分类**，这是结构化工具的设计，而不是开放的解释性设计。质性工作的洞见在于类别建构，而那正是模型继承而非生产的东西。
+
+**“饱和是参与者数量的属性。”** 它是分析的属性：当新数据不再产生新编码时你就停止。两项样本量相同的研究，可能同样远离饱和；这就是为什么把参与者数量当作充分性证据的报告，并未证明任何关于覆盖面的东西。
+
+**“定量与质性发现相互竞争。”** 它们回答不同的问题：调查告诉你多少学生不信任一个辅导者，访谈告诉你为什么。把它们当作对同一事物的对立叙述，会产生综述部分不断复制的虚假选择。
 
 ## 关联概念
 
@@ -128,3 +133,5 @@ ai_assist:
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — 批判性 AI 导师：赋权还是奴役
 - [[genai-runaway-object-math-higher-ed]] — GenAI 作为高等教育数学中的一匹失控野马
 - [[khlaif-assistive-genai-visually-impaired-2026]] — 面向视障学习者的辅助性 GenAI
+
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — GenAI 辅助写作中英语学习者的情绪投入：一项纵向多重案例研究

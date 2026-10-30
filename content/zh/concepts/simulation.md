@@ -2,13 +2,13 @@
 connected_resources: [openmaic]
 title: 模拟
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-09T18:39:25-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-10-04T15:54:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -34,9 +34,12 @@ ai_assist:
 
 模拟处于 [[experiential-learning|经验式]]与 [[active-learning|主动学习]]的 [[pedagogy|教学法]]核心。它提供有意的练习、[[productive-failure|有成效的失败]]与 [[feedback|反馈回路]]，以建立技能与判断力。AI 以两种方式改变了模拟：它驱动更逼真、更自适应的模拟环境，并生成 [[simulating-students|模拟的学习者]]、病人或对话者，使练习可规模化。行为证据表明，学习者*如何*与模拟互动是系统性变化的，而非整齐划一：[[an-goel-self-directed-modeling-2026|An、Hammock 与 Goel（2025）]] 追踪在 VERA 中构建生态模型的在线学习者，把 [[student-engagement|投入度]]分类为观察（频繁运行并调参，却很少构建模型）、构建（动手构建，很少模拟）与探索（完整的"构建—参数化—模拟"循环），探索者产出最复杂、最多样的模型，而偏重观察的学习者大多复制已有模型——这主张设计能把学习者推向完整循环活动的模拟环境。
 
+- **明确的机制可以被检查，而学到的生成器不能。** DagFlow-AI 从一张有向无环图加上逐变量的分布与公式来构建合成数据，因此数据生成过程是一份教师可以阅读并修正的文档（[[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur 等，2026]]）。这与需要种子数据集、过程不透明的 GAN 与 VAE 合成形成有意对比。代价是达到稳定模拟需要数轮迭代。
+
 ### AI 与模拟
 
 - **AI 驱动的环境：** 自适应模拟依据学习者的状态调整难度与情境，与 [[adaptive-learning]] 和基于 [[reinforcement-learning]] 的辅导相关。
+- **虚拟环境与 AI 层是可分离的增益。** 在为期三周的九年级欧姆定律单元中，调整后的成绩在配备 AI 的虚拟实验室为 30 分中的 23.45 分，同一实验室不带 AI 为 20.51 分，实体实验室为 16.57 分（[[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li 与 Ahmad（2026）]]）。完整班级被分派且每班配不同教师，因此这描述的是三种课堂安排，而不是智能体本身。
 
 - **提示生成的模拟让定制实验室触手可及。** 教师可以从一个可复用的提示模板生成课程所需主题的、可在浏览器中运行的模型（滑块、动画、时变图），并对每个模型做两次验证——技术层面一次，再对照已知的解析解一次——而不是接受最接近的已发表模拟（[[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al.，2025]]）。
 
@@ -66,10 +69,17 @@ ai_assist:
 - **模拟中的学习者控制是被执行的，而非被授予的。** 在一个群体模拟中的 2 × 2 实验（[[learner-agency-ai-simulation-2026|Su、Nair 与 Nagashima 2026]]）给了部分学生参数滑块、给了部分一个可选的对话智能体、给了部分两者；每个条件都有改善，但一旦控制了先验知识，这两种可及性都没有产生可靠的差异（p = .849 与 p = .108）。预测 [[learning-gains|增益]]的是学习者在何处、以多长时间操纵参数：在概念上最复杂的那一课中持续使用滑块与增益正相关，而在较简单的那一课中同样的行为则为负。对模拟构建者而言，其含义是提供控制本身并不是干预——帮助学习者决定改什么、并记录下改了什么，才是。
 
 - **数字孪生是带一张硬件账单的模拟，而这张账单决定了谁能参与。** 一项对 [[engineering-education|工程]]与 STEM 高等教育中 11 项数字孪生研究的 [[meta-analysis-systematic-review|系统综述]]发现，每一项实现都交付了带实时同步的可用原型，但只有三项报告了统计上显著的 [[learning-gains|学习增益]]。物理装置在五项研究中把并发使用上限压到 1—3 名学生，而社交互动的减少是六项研究中被最常提及的教学法挑战（[[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al.（2026）]]）。
+- **基于智能体的模拟可以把一个元认知理论建模为可检验的系统。** 一个以智能体为基础、受数字孪生启发的框架把五级 AMERT 模型与一个 NetLogo 模拟结合，使研究者可以改变学习者原型与任务条件并观察元认知轨迹，不过作者强调其输出是假设生成，而不是关于真实学习者的证据（[[agent-based-digital-twin-metacognition-2026|Guo，2026]]）。模拟成为对一个原本难以观察的理论的虚拟实验室。
 
 ### 关联
 
 模拟与 [[active-learning]]、[[adaptive-learning]] 和 [[pedagogical-agent]] 相连。它是经验式与 [[constructivist]] 学习的机制，并被 AI 生成自适应、逼真练习环境的能力所放大。
+
+## 常见误解
+
+- **“模拟更便宜，因此是次优选择。”** 自主的 [[llm|LLM]] 模拟飞行员**取代了为空中交通管制模拟配备的专职人类角色扮演者，消除了训练容量的瓶颈**：约束在人力，不在保真度。在人类角色扮演者稀缺之处，LLM 模拟不是替代品，而是唯一可得的选项。
+- **“模拟器应当表现得像平均情形。”** [[residencyrl-clinical-rl-training-2026|ResidencyRL（Liévin 等，2026）]] 把策略智能体与**被设定为对抗性行为的 LLM 患者模拟器**配对。一个被设计成配合的模拟器，会让学习者的练习比临床更容易，这与训练的需要正好相反。
+- **“脚本化情境能教不确定性下的决策。”** SupplyNet 的情境化多智能体智能体生成的是**由学习者决定涌现出的动态，而不是脚本化的**序列。脚本化情境排练的是一条已知路径，涌现式情境排练的是决策本身。
 
 ## 关联概念
 - [[active-learning]]
@@ -106,3 +116,4 @@ ai_assist:
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — 护理中的 AI 驱动模拟：混合方法系统综述（真实性缺口、分级连续体）
 - [[sophie-clinical-communication-ai-assessment-2026]] — 可扩展的基于 AI 的临床沟通训练与自动评估
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM 教育中的数字孪生：原型都奏效了，学习增益大多没有
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI 支持的翻转物理学习虚拟实验室：对初中生成绩、动机与认知负荷的影响

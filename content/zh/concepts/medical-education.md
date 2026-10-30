@@ -1,7 +1,7 @@
 ---
 title: 医学与卫生专业教育
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-24T15:01:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -73,6 +73,12 @@ HPE 是一个高风险、以能力为基础的领域，AI 的好处（可扩展�
 - **借 AI 之力做临床技能训练。** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] 与 [[hdr-brachytherapy-agentic-ai-simulation-2026|智能体模拟]] 展示了 AI 作为真实临床工作流中的技能训练伙伴——把它嵌入到能增加安全、可扩展练习的地方。
 - **权衡高风险的收益与过度依赖。** HPE 以能力为基础且高风险；防范 AI 取代临床动手技能与判断，并格外审慎地应用 [[feedback]]、[[assessment]] 与 [[ethics]] 考量。
 - **审慎地适配游戏化与跨学科的 AI。** [[medgame-llm-medical-education-gamification|游戏化的 LLM 学习]] 与 [[alrazeeni-transforming-nursing-education-ai-2026|护理教育转型]] 显示前景，但需要就安全与技能结果做评估；对护理而言，那种安全与技能的证据——包括 AI 辅助模拟劣于标准化患者的那项 RCT——汇集在 [[nursing-education]] 上。
+
+## 常见误解
+
+- **“模拟的好处已在医学教育中确立，AI 模拟也会如此。”** 一项对 **19 项研究（N = 1,253）** 的混合方法系统综述发现，AI 驱动的模拟在该文献中确实产生了效果，但这是一个不大的基础，19 项研究、1,253 名参与者，对一项正在大规模部署的技术来说是单薄的根基。
+- **“问题在于 LLM 在临床训练中能做什么。”** 一项覆盖 **47 个国家 489 项研究**的批判性整合综述把问题**从 LLM 能做什么**，转向应当把什么托付给它们。能力问题大体已有答案，治理问题还没有。
+- **“标准化患者成本太高，无法规模化。”** 一项**含 95 名受分析医学生的随机对照试验**在临床问诊训练中使用了**多智能体 AI 标准化患者**。它要解决的约束是受过训练的人类演员的可获得性，这是人力配置问题，而不是保真度问题。
 
 ## 关联概念
 

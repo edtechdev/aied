@@ -1,7 +1,7 @@
 ---
 title: ICAP 框架
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ ICAP 对生成性、过程层面投入的强调，已被那些评估学生*如�
 2. **让学习者跨模式投入。** 有效的[[ai-literacy|AI 素养]]教学在多个 ICAP 水平上调动学习者——被动接触、主动操作、建构性生成与互动性对话——选择契合学习目标的那个模式。（[[hingle-collaborative-ai-literacy-2025]]）
 3. **诚实地测量投入。** ICAP 给研究者与设计师提供了一套共同词汇，以区分真正的认知投入与单纯的活动——这是对浅层[[student-engagement]]的矫正。（[[icap-cognitive-engagement-llm-agents]]）
 4. **留意人类与 LLM 标注之间的差距。** 如果自动化系统被用于给投入编码，其相对于训练有素的人类所存在的系统性不足必须被计入。（[[icap-cognitive-engagement-llm-agents]]）
+
+## 常见误解
+
+**“ICAP 是一个给活动贴标签的分类学。”** 它是一个设计与评估透镜，带有一个排序主张：被动、主动、建构与互动投入所产出的学习不同，因此“构建引出建构性与互动性投入、而非被动消费的工具”是一个设计目标，而不是一项分类练习。给一节课贴上一个模式标签而不改变学生所做之事，并没有应用这个框架。
+
+**“任务时间或互动量索引了投入水平。”** 量计数的是活动，不是模式。滚动在不同意义上同时是主动与被动的，而一个产生许多点击的学生可能仍在接收而非建构。这个框架的价值恰恰在于它区分了活动指标混在一起的那些投入种类。
+
+**“一个 AI 导师因为会对话，就自动产生互动性投入。”** 对话是媒介，而不是模式。一个系统提供每一份实质贡献的对话，对一个戴着互动界面的学习者而言是被动的，这与[[student-engagement|投入文献]]在行为活动与认知投资之间记录的是同一种混淆。
+
+**“更高的 ICAP 模式总是更好。”** 它们成本更高，而这个排序关乎每单位相关加工所产出的学习，而不是一节课应当始终瞄准什么。基础流畅性可能需要主动重复，之后建构性工作才有可能；错误在于停在那里，而不在于途经它。
 
 ## 关联概念
 

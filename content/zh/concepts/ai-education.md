@@ -1,7 +1,7 @@
 ---
 title: 教育中的人工智能
 created: "2026-09-22T14:35:06-04:00"
-updated: "2026-10-27T04:13:56-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -101,11 +101,13 @@ ai_assist:
 - **模型与方法：**[[generative-ai|生成式人工智能]]、[[llm|大语言模型]]、[[rag|检索增强生成]]、[[multimodal|多模态模型]]、[[educational-nlp|教育自然语言处理]]、[[reinforcement-learning|强化学习]]、[[knowledge-graph|知识图谱]]、[[educational-robotics|教育中的机器人]]、[[conversational-ai|对话式人工智能]]、[[simulation|仿真]]，以及[[llm-training-and-fine-tuning|训练教学型大语言模型]]。底层方法同样重要：[[machine-learning|机器学习]]是这些系统得以构建的地方，[[speech-and-voice-technologies|语音技术]]承载口语导学与语言练习，[[visualization|可视化]]涵盖面向学习者与教师的仪表盘和可视分析，[[virtual-and-augmented-reality|虚拟与增强现实]]则承载沉浸式练习，而这类练习的视觉层如今已可由模型生成。更新的交互方式也属于这里，其中最突出的是[[vibe-coding|氛围编程]]：一种由自然语言驱动的工作流，用户通过向大语言模型给出提示来指定程序，并根据生成结果的行为来判断，而不去阅读或修改源码。它把[[cs-education|编程]]重新界定为一种表达与验证的行为，并降低了[[teacher-role|非程序员终端用户]]构建自己工具的门槛。诸如[[samr-model|SAMR]]这样的整合深度框架，以及诸如[[technology-acceptance-model|TAM]]这样的采纳理论，则用来判断人工智能被采纳的深度以及它在多大程度上改变了任务本身。
 - **学习者建模与自适应系统：**用于表征学习者并据其调整的技术系统归入[[student-modeling|学习者建模与自适应教学]]这一总括页面，包括[[knowledge-tracing|知识追踪]]、[[cognitive-diagnosis|认知诊断]]、[[simulating-students|模拟学生]]、[[intelligent-tutoring|智能导学]]、[[adaptive-learning|自适应学习]]、[[personalized-learning|个性化学习]]、[[recommender-systems-and-learning-paths|推荐系统与学习路径]]、[[pedagogical-agent|教学智能体]]、[[affective-tutoring|情感导学]]、[[affective-computing|情感计算]]、[[human-in-the-loop-ai|人在回路的人工智能]]与[[learning-analytics|学习分析]]。它们之所以属于技术层，是因为它们本身就是人工智能系统，与它们所实施的教学法不同。
 
+- **平台、开放与采纳：**模型周围的那一层，即一个教学资源在哪里被授权、托管与付费，而不是被构建。[[open-education|开放教育]]涵盖用开放授权内容教学，以及把学生当作这些内容的生产者的教学法，生成材料如今提出的授权与改编问题正是在这里被争论。它与软件意义上的开放性并列，与[[edtech-platform|教育技术平台]]上的平台层分析并列，也与[[technology-acceptance-model|TAM]]所承载的采纳研究并列。
+
 ## 各学科中的人工智能
 
 人工智能被应用于各个学科与教育层次。本知识库的[[discipline-specific-aied|各学科 AIED 概览]]梳理了学科领域的覆盖范围，并与[[learning-sciences|学习科学]]并列，后者不是一门被教授的科目，而是研究学习本身的横贯性研究领域，它把学科内容视为众多变量之一：
 
-- **学科领域：**[[math-education|数学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[science-education|科学教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[arts-design-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
+- **学科领域：**[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[science-education|科学教育]]、[[environmental-education|环境教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[arts-design-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
 
 ## 层次与情境
 
@@ -120,9 +122,12 @@ ai_assist:
 
 ## 研究方法与评价
 
-我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待。该领域自身的研究工作如今也成为研究对象：[[ai-assisted-educational-research|AI 辅助教育研究]]涵盖把 AI 用作文献检索、筛选与综述工具的研究，以及 AI 在生成研究产出中的角色。
+我们如何知道人工智能是否有效，是自成一体的脉络，本知识库也把它当作一条脉络来对待：
 
 - **研究方法：**以[[research-methods-aied|AIED 研究方法]]为总括页面，包括[[qualitative-research|质性]]、[[quantitative-research|量化]]、[[mixed-methods-research|混合方法]]、[[design-based-research|基于设计的研究]]与[[usability-research|可用性]]取向，以及[[rct|随机对照试验]]、[[meta-analysis-systematic-review|元分析与系统综述]]与[[network-analysis|网络分析]]。
+
+该领域自身的研究工作如今已成为一个独立主题：[[ai-assisted-educational-research|AI 辅助教育研究]]涵盖把 AI 用作文献检索、筛选、质性编码、分析与写作工具的研究，包括教学与学习学术这类实践者研究。它与用于研究 AI 对学习者产生何种影响的各类设计保持区分。
+
 - **人工智能系统的评价：**[[ai-ed-evaluation|人工智能教育评价]]与用于判断系统能力的[[benchmark|基准测试]]，以[[learning-gains|学习增益]]为真正重要的结果，同时以[[limitations-in-aied-research|这一证据普遍存在的局限]]和[[interpreting-and-applying-aied-research|如何解读单项研究]]作为审慎的平衡力量。
 
 ## 相关人群
@@ -209,8 +214,8 @@ ai_assist:
 
 关于教育中的人工智能的领域级综述，即那些综述整个领域或整个教育层次、而非单一主题的研究：
 
-- [[rismanchian-ai-education-four-decades-aixed-2026]]：The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]]：Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]]：Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]]：The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]]：Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — 四十年来人工智能与教育研究的演变（AIxEd 框架）
+- [[mishra-control-vs-agency-history-2025]] — 控制与能动性：教育中人工智能的一段历史
+- [[genai-higher-education-systematic-review-2026]] — 高等教育中的生成式人工智能：125 项研究的系统综述
+- [[stanford-evidence-base-ai-k12-2026]] — 人工智能在 K-12 中的证据基础：818 篇论文的综述
+- [[genai-educational-outcomes-meta-analysis]] — 生成式人工智能与教育结果：综合元分析

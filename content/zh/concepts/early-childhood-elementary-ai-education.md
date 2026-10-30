@@ -1,7 +1,7 @@
 ---
 title: 幼儿教育
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-24T15:15:15-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,7 @@ ai_assist:
 - **AI 玩具与儿童发展。** [[ai-toys-child-development-2026|关于玩具中 AI 的研究]]考察商用 AI 玩具如何塑造儿童发展与游戏。这提出了关于游戏中[[pedagogical-agent|代理]]、[[trust-calibration|信任校准]]、[[agency]]以及最年幼学习者的[[well-being]]等开放问题——这是一个设计指导比学龄课程更单薄的领域，也使得家长／监护人成为核心的利益相关方。
 - **儿童对适龄聊天机器人的态度。** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed 与 Martin（2025）]]部署了"Ask Me Anything"（AMA），一个按年龄通过[[prompt-engineering|提示工程]]定制的、话题受限的聊天机器人（天文学、球鞋、恐龙），面向 63 名儿童（6–14 岁），揭示出儿童—[[student-ai-interaction|AI 互动]]的三种模式——惊奇与好奇、试探信任与建立信心、通过拟人化建立关系——以及把 AI 作为信息来源时的广泛开放与高度信任。他们呼吁适龄设计并明确[[teacher-role|教授]][[privacy|数字安全]]与数据使用概念，这强化了本概念核心的发展与[[pedagogical-safety|安全]]关切。
 - **小学科目学习。** 小学分数中的[[ai-powered-personalized-learning-elementary-fractions-2026|AI 驱动个性化学习]]与小学数学中的[[awareness-technological-isomorphism|AI]]（包括对"技术同构"——学生模仿 AI 输出而不求理解——的关切）既展示了 AI 在早期科目教学中的前景，也展示了其陷阱。[[elementary-writing-genai-systematic-review-2026|一项关于小学写作与生成式 AI 的系统综述]]梳理了[[generative-ai|生成式 AI]]如何在低年级重塑[[writing-education|写作教学]]。
+- **小学英语学习有自己的一张地图。** 一项对 119 份关于小学英语中 AI 中介工具报告的 PRISMA-ScR 综述把它们归为五种教学功能，其最强的设计是一项有 217 名二年级学习者参与的整群随机试验，在被教授的单词上有增益（效应量 = .38），而标准化词汇与阅读理解未达到显著（[[li-zhou-ai-tools-primary-english-scoping-review-2026|Li 与 Zhou（2026）]]）。
 - **机器人与幼儿。** [[tsingidou-ct-robotics-kindergarten-2026|幼儿园中的机器人]]通过[[educational-robotics|教育机器人]]支持计算思维，而[[icub-humanoid-storytelling-llm-hri-2025|由 LLM 驱动的人形机器人讲故事]]探究家长是否会接受机器人作为孩子叙事游戏的伙伴——把[[trust]]与成人态度置于前景。
 - **一套能力集合，而非 AI 素养课程。** 一项对 86 项资源的综述认为，AI 素养对于 0 至 8 岁儿童"不能独立存在"，应把它嵌在执行功能、幸福感、学习倾向与基础技能之中，尽管 86 项资源中只有 26 项是实证性的（[[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]）。
 - **一个面向 AI 代理与机器人的"创造性项目方法"框架。** [[creative-project-approach-ai-early-childhood-2025|Yang、Li 与 Lee（2025）]]提出了一个五步教学框架，把[[generative-ai|生成式 AI]]代理与机器人整合进项目方法，以促进幼儿的[[creativity|创造性学习]]。他们论证实体代理比屏幕更适合幼儿，并把两个互补范式与各自的[[learning-theories|学习理论]]配对——**编程机器人**（Papert 的[[constructivist|建构主义]]；用 Matatalab 与 KIBO 等工具通过可触摸的编程实现[[computational-thinking|计算思维]]）与**生成式社交机器人**（儿童最近发展区内的[[sociocultural-learning|维果茨基式]]支架，充当对话同伴或辅导者）。这五个步骤——识别学习需求、促进教师引导的儿童—机器人互动、把 AI 置于具体情境、校准自动化／创造力的平衡、评估结果——为设计师与 ECE 实践者提供了一条具体路径，用以在保留教师促进作用与儿童[[agency]]的同时，把[[agentic-ai|AI 代理]]与[[educational-robotics|机器人]]嵌入以游戏为基础、以项目为基础的课堂。
@@ -64,6 +65,12 @@ ai_assist:
 一项四国比较凸显了课程缺口：日本、韩国与中国的国家幼儿指导方针不含任何明确的 AI 素养提法（上海的城市级行动计划是唯一的例外，且未规定学习进阶），而澳大利亚仅表现出有限且不均衡的对齐——在与 AI 智能体交互方面最强，在理解人机关系方面缺席——把 AI 素养留给了家庭（[[ai-literacy-ecec-curricula-four-country-2026|Cohrssen 等（2026）]]）。
 
 关于这一问题的首个神经影像学窗口带着一份告诫到来：6–7 岁儿童在 MRI 扫描仪中与 ChatGPT 进行五分钟口头对话，在创造力得分匹配的情况下，其额顶控制、突显与背侧注意网络中的网络内连接弱于成人，且缺乏成人表现出的创造力—连接耦合。由于这些执行功能在一年级时仍不成熟，作者把该结果解读为与最低年龄之争相关——同时指出框架混淆与缺少无 ChatGPT 对照组限制了它所能澄清的边界（[[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus 等（2026）]]）。
+
+## 常见误解
+
+- **"教师会用 AI 生成整节课。"** 教师最常（**60%**）**为自拟大纲的课时填补内容空白**，而不是生成整份方案。委派的单位是那个空白，而不是整节课。
+- **"幼儿从 AI 支持的媒介素养中获益较少。"** AI 支持组在**媒介阅读（+3.50）、写作（+1.67）与总体媒介素养（+5.17，均 p < .01）**上表现出大增益，组间效应量为 d = 1.12 或更高。在这一年龄段，增益是大的，而不是边际的。
+- **"自动观察在所有方面都与人类评分者一致。"** 一致性**总体为中等（加权 κ = 0.681），但取决于构念**：收敛在**情感支持**领域与**反馈质量**上成立，在其他方面则不成立。对各领域取平均，会掩盖该工具在哪里失效。
 
 ## 关联概念
 
@@ -106,3 +113,4 @@ ai_assist:
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — 儿童与成人同 ChatGPT 对话的首个神经影像比较：6–7 岁儿童的控制—注意—记忆网络整合度更低
 - [[ai-rated-classroom-observation-scores-2026]] — 我编码还是 AI 编码：香港幼儿园中 AI 评分的 CLASS Pre-K 分数对比受训人类评分者（Fong 等，2026）
 - [[ai-literacy-ecec-curricula-four-country-2026]] — AI 原住民的 AI 素养？一项四国比较
+- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — 小学英语教育中的 AI 中介工具：关于教学功能与教师编排的范围综述

@@ -1,7 +1,7 @@
 ---
 title: 教育中的讲故事
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-09T19:07:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,16 @@ ai_assist:
 - **作为 AI 之制衡的数字讲故事：** 随着 [[generative-ai|生成式 AI]] 崛起，数字讲故事被重新框定为承载 AI 所缺失的情感、文化与叙事能力的载体。在一个面向艺术与设计教育的 [[project-based-learning|project-based learning]] 模型中，学生把本地文化遗产转译为跨越 92 件数字讲故事作品的 [[multimodal]] 叙事，展示了讲故事如何在 AI 时代维系人的创造力。
 
 讲故事与 [[student-engagement]]、[[motivation]]、[[creativity]]、[[educational-robotics]]、[[language-learning]]、[[social-emotional-learning]] 以及 [[educational-robotics]] 相连。
+
+## 常见误解
+
+**“共同建构的故事就是被讲述的故事。”** 得到的是流畅度与篇幅，面临风险的是讲述者的作者身份。故事是某个人对经验的编排，他选择了顺序与重点，因此提供结构的机器，已经提供了承载意义的那一部分。
+
+**“讲故事是对内容的柔软补充。”** 叙事是记忆与意义建构的装置，而进行叙述的学习者正在做组织工作。交出叙述，就是交出学习。
+
+**“AI 生成使不会写作的学生也能讲故事。”** 它使*产出书面制品*成为可能，这是另一种收益。口头叙述、绘画与听写是通往同一目标的既有路径，且它们保留了生成所移除的作者身份。
+
+**“故事的教育价值在于打磨后的结果。”** 它在于建构，即讲述者所做的选择与排序。一个学生并未组织过的打磨故事，展示的是模型的能力，而不是学习者的能力。
 
 ## 关联概念
 

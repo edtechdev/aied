@@ -1,7 +1,7 @@
 ---
 title: 变革管理
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-09T19:07:03-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,6 @@ ai_assist:
 **机构转型案例研究**展示这些杠杆在实践中如何展开。[[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] 分析了岭南大学在四个维度上的战略变革——通过 AI 进行教学升级、优先发展不可替代的人类胜任力、课程更新、伦理/文化价值的保留——说明一所历史悠久的老牌机构如何能在不放弃自身身份的情况下管理 [[generative-ai|GenAI]]驱动的变革。它把这种转型框定为智识性的而非技术中心论的，为机构领导者提供了一个分阶段模型，在推行 AI 素养的同时保全人文使命。
 
 **学校系统实施证据**把问题从采用哪个产品转向它如何被使用。[[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]]的实地工作——7 个州 16 个学校系统中的 32 间教室——发现同一个产品落地得好或坏，取决于教师如何框定目的、如何查看仪表盘、如何根据它的报告行动；在缺少常规和明确的"范围与序列"位置之处，十分钟的活动被拉长成一整节课。在采用过程中指定了教师行动的产品，被使用得更接近其预期方式，且教师需要持续的辅导而非一次性铺开；在领导者熟悉一个产品的地方，教师更频繁地采取预期行动。
-
 **可持续性是组织的属性，而非工具的。** 对加州州立大学北岭分校一个非生成式 AI 短信聊天机器人的四年随机评估，把持久性追溯到一处行政归属（本科生学习办公室与注册主任办公室的联合监督）、一位为统一口吻撰写每轮活动的传播专员，以及消息组合中足以吸收 COVID-19 冲击的灵活性——而为定向外展进行的跨办公室数据共享，其负担之重使定向活动在年度总量中的占比从 36% 跌到 6%（[[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]]，一篇工作论文，其实施发现基于系统观察与管理者讨论而非试验）。其投入结果强化了同一教训：四年间年度选择退出率从未超过 4%，作者将其读作由机构如何调整实施所维持的接受度，而非技术本身。
 
 **评估改革**是变革管理的主战场。[[ai-assessment-scale-reform|AI 评估量表研究]]显示，框架实施受部门不一致、工作负荷压力和不确定性阻碍，工作人员把这一过程描述为"有点混乱和疯狂"。[[ethical-ai-higher-ed-game-theory|协调博弈模型]]对"仅靠政策声明为何失败"给出了正式解释：学生的 AI 使用是一个集体规范形成过程，对反思性评估激励做小而校准精准的调整，可以触发整个群体快速转向负责任的使用，而薄弱或错位的激励会让机会主义行为存续。这支持以教学法为主导的治理，而非监控。[[ai-adaptation-gap-higher-education-2026|AI 适应差距调查]]增加了一个 [[stakeholders|利益相关者]]维度：学生报告的 AI 使用强度和感知有用性高于教师和行政人员，而后者报告更强的 [[academic-integrity|学术诚信]]担忧——且感知有用性驱动 [[trust]]（β = 0.402）的强度超过机构政策清晰度（β = 0.223）。
@@ -67,9 +66,17 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 
 课程重设计需要机构预算，而非假定其成本：采用一门 AI 整合课程在每门课程上大约需要 15 至 20 小时的重设计工作，然后才是任何持续的调整（[[packard-thinking-partner-framework-adult-learners-2026|Packard 等人（2026）]]）。
 
+- **参与度由能力与倾向解释，而非热情。** 一个面向评估实践的框架论证，GenAI 采纳的不均衡反映的是四种条件，即能力、倾向以及它们周围的支持与约束，而不是抗拒，且一场工作坊建立的是词汇而非判断（[[aalhe-capacity-disposition-genai-assessment-2026|Miller，2026]]）。说出缺失的是哪一种条件，机构才知道该培训、该配置资源，还是该改变激励。
+
 ## 与其他概念的关联
 
 变革管理是课堂层面整合的机构补充。它使系统性的条件——治理、教师发展、利益相关者 [[student-engagement|参与]]和公平保障——得以操作化，从而让教学法创新落地生根，把 [[educational-policy-ai]] 政策设计与 [[governance]]、[[educational-development]] 和 [[equity-in-ai-education]] 结果联系起来。
+
+## 常见误解
+
+- **"战略意图会创造能力。"** 尽管 **49% 的机构**把 AI 视为战略重点，只有 **7% 的机构**设立了高级 AI 领导岗位。缺口在宣言与结构之间，而这正是 AI 变革管理反复出现的失败。
+- **"采纳一个 AI 工具是一个事件。"** **可持续性是组织的属性，而非工具的属性**：对加州州立大学北岭分校一个非生成式 AI 短信聊天机器人的四年随机评估说明了这个时间尺度。评估之所以持续四年，是因为需要被检验的正是持久性。
+- **"机构需要反应更快，而不是预见。"** **前瞻性领导力**是互补的那条线索：[[baroudi-anticipatory-governance-ai-higher-ed-2026|范围综述]]发现机构必须从**被动反应转向以预见为基础**的治理。对一项已经到来的技术作出胜任的反应，正是证据所记录的失败。
 
 ## 关联概念
 

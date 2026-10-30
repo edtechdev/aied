@@ -1,7 +1,7 @@
 ---
 title: 大语言模型（LLM）
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T14:13:55-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -59,11 +59,16 @@ LLM 是本知识库中被引用最多的概念（60 多篇文章），因为它�
 
 本知识库既覆盖通用 LLM（GPT-4、Claude），也覆盖面向教育的适配。[[cstutorbench-slm-tutors|小语言模型基准]]比较 SLM 在导学上的表现，而[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等人（2026）]]论证 SLM 在作为工具增强的规划器部署时，于架构上适合[[agentic-ai|智能体式]]导学——确定性工具承担了小模型本会隐式处理的负荷——教学控制驻留在升级策略而非模型之中。[[educational-llm-alignment|教育对齐]]研究关注如何让 LLM 在教学上恰当。一项跨三个前沿家族的研究——[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]]——发现 ChatGPT、Gemini 或 Claude 都能为议论文写作充当协作式批评伙伴：经过一学期的迭代写作，学生在论证质量、[[prompt-engineering|提示工程]]与对[[ai-feedback-quality|AI 反馈]]的回应上各进步约一个标准差（均 p < .001），并深度投入（87.8% 反驳 LLM 的主张），把通用 LLM 定位为可行的[[collaborative-learning|协作学习]]伙伴，而非单纯答案生成器。
 
-一条互补的工作线把 LLM 从静态评分者重新框定为[[pedagogy|教学法]]推理的模拟者。[[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等（2026）]]表明，GPT-4 辅以语义精确、经迭代共同精炼的评分标准，可以在[[design-based-research|设计型学习]]中逼近人的[[evaluative-judgment|评价性判断]]：初始 LLM—人一致度差（Cronbach's Alpha = 0.393；Kappa −0.06 到 0.18），但迭代精炼评分标准把平均一致度从 54.75% 提到 81.25%（最终 Alpha = 0.798，Kappa 0.40–0.55），且人与 LLM 评分矩阵的 K-means 聚类呈现高度相关的质心（r = 0.89）。该研究把评分标准定位为人的教学意图与机器推理之间的中介界面——证据表明现成的 LLM 作为评价者也不可互换，其评分行为是由所给评分标准与提示塑造的设计结果。原始模型能力同样区分评分：在 1.885 条开放式[[automated-assessment|回答]]上对十一种 GenAI 与句子嵌入模型做[[benchmark|基准测试]]，[[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova、Benko 与 Drlik（2025）]]发现只有 GPTo1 达到与专家人工评分接近完美的一致（Fleiss' Kappa 0.82），Claude3 与 PaLM2 略逊，而 BERT 这类参照对齐模型远远落后——说明前沿模型的上下文敏感性对可靠开放式评估很重要。模型差异对高风险的下游用途也重要。[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等（2026）]]表明，三个 LLM 对同一[[learning-analytics|学习分析]]输入产生了截然不同的学生支持处方，且各自把不同的人口学先验强加于所生成的学习者画像——证据表明现成的 LLM 作为处方顾问不可互换。类似地，[[olvet-genai-scoring-open-ended-medical-2026|Olvet 等（2026）]]发现 GPT-4 对预临床期[[medical-education|医学]]开放式问题的评分，只有在三轮迭代评分标准精炼之后才攀升到与教师实质到近乎完美的一致（加权 kappa 高达 0.94），而在整体标准题目上回落到中等（κw = 0.54）——强化了评分标准设计而非单独的能力，才是 LLM 评分可靠性的决定杠杆。模型特有行为也体现在 LLM 如何回应怀疑用户：一项算法审计以蒙大拿乡村的[[k-12]] AI 怀疑者人格，把十个前沿 LLM 各查询 500 次，测试被怀疑用户咨询的[[ai-technologies|AI 系统]]是否倾向于鼓励采用。十之有八先承认用户担忧，再把话题转向 AI[[student-engagement|投入]]框架；综合分从 3.85（Claude Sonnet）到 7.52（Gemini 3.1 Pro Preview），跨家族 AI 评分小组达 Cohen's kappa >= 0.70。该模式是一种依赖模型的设计结果。模型能力也取决于模型如何组合
-
+一条互补的工作线把 LLM 从静态评分者重新框定为[[pedagogy|教学法]]推理的模拟者。[[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等（2026）]]表明，GPT-4 辅以语义精确、经迭代共同精炼的评分标准，可以在[[design-based-research|设计型学习]]中逼近人的[[evaluative-judgment|评价性判断]]：初始 LLM—人一致度差（Cronbach's Alpha = 0.393；Kappa −0.06 到 0.18），但迭代精炼评分标准把平均一致度从 54.75% 提到 81.25%（最终 Alpha = 0.798，Kappa 0.40–0.55），且人与 LLM 评分矩阵的 K-means 聚类呈现高度相关的质心（r = 0.89）。该研究把评分标准定位为人的教学意图与机器推理之间的中介界面——证据表明现成的 LLM 作为评价者也不可互换，其评分行为是由所给评分标准与提示塑造的设计结果。原始模型能力同样区分评分：在 1.885 条开放式[[automated-assessment|回答]]上对十一种 GenAI 与句子嵌入模型做[[benchmark|基准测试]]，[[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova、Benko 与 Drlik（2025）]]发现只有 GPTo1 达到与专家人工评分接近完美的一致（Fleiss' Kappa 0.82），Claude3 与 PaLM2 略逊，而 BERT 这类参照对齐模型远远落后——说明前沿模型的上下文敏感性对可靠开放式评估很重要。模型差异对高风险的下游用途也重要。[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等（2026）]]表明，三个 LLM 对同一[[learning-analytics|学习分析]]输入产生了截然不同的学生支持处方，且各自把不同的人口学先验强加于所生成的学习者画像——证据表明现成的 LLM 作为处方顾问不可互换。类似地，[[olvet-genai-scoring-open-ended-medical-2026|Olvet 等（2026）]]发现 GPT-4 对预临床期[[medical-education|医学]]开放式问题的评分，只有在三轮迭代评分标准精炼之后才攀升到与教师实质到近乎完美的一致（加权 kappa 高达 0.94），而在整体标准题目上回落到中等（κw = 0.54）——强化了评分标准设计而非单独的能力，才是 LLM 评分可靠性的决定杠杆。模型特有行为也体现在 LLM 如何回应怀疑用户：一项算法审计以蒙大拿乡村的[[k-12]] AI 怀疑者人格，把十个前沿 LLM 各查询 500 次，测试被怀疑用户咨询的[[ai-technologies|AI 系统]]是否倾向于鼓励采用。十之有八先承认用户担忧，再把话题转向 AI[[student-engagement|投入]]框架；综合分从 3.85（Claude Sonnet）到 7.52（Gemini 3.1 Pro Preview），跨家族 AI 评分小组达 Cohen's kappa >= 0.70。该模式是一种依赖模型的设计结果。模型能力也取决于模型如何组合：
 Bird（2026）微调了八个最先进的 Transformer（BERT、ELECTRA、RoBERTa、XLNet、ERNIE、ALBERT、DistilBERT、Longformer）按英国 Key Stage 对英语文学分类，发现最佳单模态 Transformer（BERT）只达 F1 0.75——而把微调的 ELECTRA 与计算语言学神经网络融合，把 F1 提到 0.996，说明 Transformer 文本分类单独有其局限，而与互补特征的融合才是收益所在。
 
 LLM 也偏好性地肯定用户：在 11 个模型上，AI 回答对用户的肯定比人的回答多 49%，且更谄媚的回答得到更高评分，提升了信任与持续使用——这对教练、导学或反馈是一种失败模式，因为建设性的质疑恰恰是其要点（[[ai-personal-coach-review-benefits-risks-2026|Potel 与 Kumashiro（2026）]]）。
+
+## 常见误解
+
+- **“模型的原始能力决定了它诊断错误的能力。”** 真正决定这一点的是**依据（grounding）**：[[reddig-maclellan-personalized-feedback-llm-2026|Reddig、Arora 与 MacLellan（2025）]] 表明，把辅导工具的界面交给 GPT-4，会**实质性地改变**它的错误诊断。模型被告知的关于学习者情境的信息，比它是哪一个模型做得更多。
+- **“任何前沿模型作为学习伙伴都表现相同。”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 在一项课堂比较中研究了**三个前沿家族**（ChatGPT、Gemini 与 Claude），恰恰因为这些家族作为协作者并不能互换。
+- **“更好的模型意味着需要更少的支架。”** GPT-4 用一份**语义精确、反复共同精炼的评分标准**做支架时，可以在 [[design-based-research|设计本位研究]] 中接近人类的 [[evaluative-judgment|评价性判断]]。这种接近来自经过多轮迭代精炼的那份评分标准，而不是来自模型本身。
 
 ## 关联概念
 

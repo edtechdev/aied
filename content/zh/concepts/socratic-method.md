@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: 苏格拉底方法
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T15:29:16-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,8 @@ ai_assist:
 苏格拉底方法是最古老的教学技术之一——起源于古雅典的苏格拉底——它在[[generative-ai|生成式AI]]时代获得了新的相关性。在AI教育[[research-methods-aied|研究]]中，苏格拉底方法指那些通过引导式对话让学习者参与的AI系统，它们提出问题，引领学生自行发现答案，而不是直接给出答案。提出结构化问题而非提供答案，是深度学习最强的教学支架之一；当由AI自动化实现时，它能产生可测量的推理增益，但也需要细致的校准，以避免让学习者受挫或取代人类导师的作用。（[[hashmi-socratic-physics-chatbot-2025]]）（[[favero-critical-ai-tutors-empower-enslave-2025]]）
 
 苏格拉底式反馈与指导性反馈改变的东西不同：苏格拉底式反馈提升了理解监控与任务取向，指导性反馈在"对关键特征的优先级排序"上得分更高，且只有指导性条件从一个定制智能体中获得增益（[[agent-type-feedback-style-self-directed-learning-2026|Han等人（2026）]]）。
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi 与 van der Merwe（2026）]]记录到苏格拉底式提问在同一堂九年级数学课上既奏效又失败：当学习者带着一个假设到来时，导师把它拆解为子问题，但在一项结构化的毕达哥拉斯任务上，它重述问题并偏离了主题。
 
 ## 它在AI辅导中如何运作
 
@@ -119,6 +121,12 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 3. 苏格拉底式AI能否与[[becerra-aicofe-feedback-2026|同伴反馈]]结合以获得社会放大效应？
 
 - **为激发推理而不给答案。** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech等人（2025）]]让LLM导师遵循[[productive-failure|有效失败]]教学法，通过扣留解法并引出多次尝试——这是一种苏格拉底式的拒绝，除非确有必要否则不给帮助；[[wang-safety-gap-productive-struggle-2026|Wang 与 Shan（2026）]]建议采用能保留建设性认知摩擦的苏格拉底式与对抗式AI架构。
+## 常见误解
+
+- **"苏格拉底式提问只是不给答案。"** 一个部署在大型入门力学课程（**150 名一年级 [[stem-education|STEM]] 专业学生**）中的定制苏格拉底式 AI 聊天机器人产生了**可测量的**增益，而其设计是结构化提问：一种受约束的交互，而非沉默的模型。
+- **"效应在投入的下游。"** [[socratic-nuclear-ai-learning|Socrates went Nuclear（Clin Deffarges、Kosmyna 与 Maes，2026）]]是一项**对 50 名参与者的随机 EEG 研究**，比较一个无限制的 ChatGPT 式机器人与一个**苏格拉底式**机器人，它测量机制，而不是从结果推断机制。
+- **"约束是要被移除的问题。"** 支持约束的最强因果证据指向相反方向：在一项 K-12 综述中，使用通用聊天机器人的高中生在**闭卷期末考上的成绩比使用受约束工具的同伴差约 17%**。无约束的工具才是有害的条件。
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 提问序列及其相互冲突的试验证据

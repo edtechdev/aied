@@ -1,7 +1,7 @@
 ---
 title: 在线教学与学习
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-24T14:16:08-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ ai_assist:
 - **全天候、情境嵌入的支持。** 在远程与 [[adult-learning|成人学习]]情境中，学习者在工作场所或家中学习，嵌入课程的 24/7 支持是重大收益。[[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|开放大学的 AIDA 助手]]发现，专门构建、嵌入环境的生成式 AI 支持提高了 [[student-engagement|参与度]]（在一项探索性试验中使使用时长翻倍），96% 的学生希望它进入正式学习。
 - **可规模化的对话式辅导。** 基于成熟的 [[intelligent-tutoring]] 技术（[[conversational-ai-tutors-framework|keep/change/center/study 框架]]）构建的 [[conversational-ai]] 辅导者，承诺提供高质量、基于对话的辅导——调动学生的想法、问题与 [[misconceptions]]——远比人类辅导更具可规模化性。
 - **促进与分析。** AI 可以支持 [[collaborative-learning|在线讨论]]与 [[learning-analytics]]，预测参与度，并帮助教师分配注意力。[[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] 补充说，LLM 生成的讨论摘要可以在大型异步论坛中充当导航性 [[scaffolding|支架]]——拓宽学生的同伴接触面和桥接型社会资本的网络条件，而无需学生或教师承担摘要工作量。
-- **面向高风险在线学习者的预警分析。** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] 表明，对内容交互日志的可解释 [[reinforcement-learning|机器学习]]可预测模块级进度，并在大规模在线 [[cs-education|编程]]课程中于模块截止日期前 7–8 天标记辍学（"未提交"）结果，给在线教师一个具体窗口去 [[teacher-role|干预]]脱离参与的学生，而不是事后才发现失败。
+- **面向高风险在线学习者的预警分析。** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] 表明，对内容交互日志的可解释 [[machine-learning|机器学习]]可预测模块级进度，并在大规模在线 [[cs-education|编程]]课程中于模块截止日期前 7–8 天标记辍学（"未提交"）结果，给在线教师一个具体窗口去 [[teacher-role|干预]]脱离参与的学生，而不是事后才发现失败。
 - **可负担性与速度。** AI 可以以传统成本的一小部分生成课程材料——MAIC 将 MOOC 课程制作从约 \\$25K/60 小时降至不到 \\$2/30 分钟。
 
 ## AI 时代在线教学的挑战
@@ -129,6 +129,16 @@ ai_assist:
 - **让验证与风险相称。** 在必须认证能力之处，宁愿用孪生任务、异步口头答辩或简短的理解检查，而非全面监控；让课程的其余部分对依赖这种灵活性的学习者保持灵活。
 - **用分析支持而非取代教学。** 利用 [[learning-analytics]] 预测参与度并定向支持，但让 [[human-in-the-loop-ai|人工监督]] 居于中心。
 
+## 常见误解
+
+**"在线教学就是通过屏幕交付的课堂教学。"** 它是一个独立的教学情境，AI 在其中落地的方式也不同。自报的、用于 AI 整合科学教学的 TPACK 在校园型大学的毕业年级师范生中更高（**64.0%**），在远程教育大学中为 **47.4%**，而两种情境下最弱的领域都是教学法。远程情境放大了一个既有的准备差距，而不是获得同样的支持。
+
+**"给课程加一个 AI 助手会提高参与。"** 参与取决于该助手是否为此专建、并且内嵌于环境之中。开放大学的 AIDA 助手提高了参与，在一项探索性试验中使使用时长翻倍，而这一设计条件本身就是发现：同样的能力作为外部工具挂上去，并不能召来同样的行为。课程外壳里的一条通用聊天机器人链接，并不是被研究过的那个干预。
+
+**"AI 提高了表现，因此提高了学习。"** 在线情境中的分歧与课堂中相同：一项[[rct|随机对照试验]]发现无护栏的 AI 协助提高了练习表现，却*降低*了无辅助考试的分数，而一个"只给提示不给答案"的导师消除了这一伤害。在线课程更依赖异步评估，因此受协助与无辅助表现之间的差距，正是效度得失所在。
+
+**"评估效度是一个评分政策问题。"** 它是由媒介造成的一个设计问题：当一份提交物可以在学习者不在场时被产出，效度就取决于任务是否产出"学习者本人完成了工作"的证据。重设计任务能解决这一点，加重对不端行为的处罚则不能。
+
 ## 关联概念
 
 - [[pedagogical-patterns]] — 使排序成为承重结构的情境，因为系统无法看到尝试
@@ -178,7 +188,7 @@ ai_assist:
 - [[conversational-ai-tutors-framework]] — 通向对话式 AI 辅导者之路
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — 在开放大学实施 AIDA
 - [[ai-adult-learning-guidelines-dis2026]] — 设计支持成人学习的 AI 技术指南
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring：迈向智能体化的个性化辅导
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor：迈向智能体化的个性化辅导
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — 让教师理解混合课堂中的机器学习发现
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — 学生更偏好个性化的 AI 生成视频而非非个性化的人类录制视频（Tomlinson et al. 2026）

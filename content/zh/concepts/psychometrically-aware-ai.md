@@ -1,13 +1,13 @@
 ---
 title: 具备心理测量意识的 AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-24T16:00:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,12 @@ ai_assist:
 ### 关联
 
 具备心理测量意识的 AI 位于[[educational-measurement]]、[[assessment-validity]]、[[item-response-theory]]与[[automated-assessment|Confidence Aware AI Assessment]]的交叉点上。它对[[ai-ed-evaluation]]（AI 评估是否可信）至关重要，并连接到基于[[llm]]的[[automated-assessment]]和[[automated-assessment|Automated Grading]]。它对效度的强调也论及[[ai-education|AIED]]研究的[[limitations-in-aied-research|测量局限]]。
+
+## 常见误解
+
+- **"得分好的模型测量的是同一样东西。"** 在**同一份评估工具**上，人类与大语言模型的反应结构**出现分歧**，因此一个模型可以得分很好，却测量着不同于工具所意图的东西。分数匹配是观察；构念等值是一个独立的主张，需要结构层面的证据。
+- **"校准可以从一个准确率数字上读出来。"** **均衡的指标能抓住一个只是看起来已校准的模型**：让 GPT-4o 与 Gemini 2.0 Flash 从 **153 名本科生**的对话推断学习风格维度，产生了**中等准确率，而它在均衡指标下表现不同**。聚合准确率掩盖了一个被均衡指标暴露出来的差异。
+- **"自动评分流水线无法复现心理测量程序。"** 作者以自动化形式复现了一条既有流水线（**下切线为至少正确回答 7 道评分表题的概率 67%，上切线为至少 10 道**），使 AI 与人工题项得分可以在同一基础上比较。程序是可复现的；构念问题仍然存在。
 
 ## 关联概念
 

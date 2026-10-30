@@ -1,7 +1,7 @@
 ---
 title: 教育机器人（Robots in Education）
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T14:49:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,12 @@ ai_assist:
 一个定义性主题是：机器人只有在支持真实学习目标时才有效——而不是作为孤立的技术练习。一个与笔记本 ChatGPT 连用、可随时求助的桌面机器人投影仪虽在短期内拉平了成绩（6.7 对 7.3/10，p = .41），但在撤去帮助后保住了分数（7.0 对 4.4/10，p = .003），短期迁移分数高出 60%——这是一个依赖于任务的增益，作者归因于空间共置而非一般性替代（[[aifred-desk-robotic-ai-guidance-2026|Orlando 等（2026）]]）。机器人的价值取决于教学法情境：教授计算思维（[[computational-thinking]]）、支持[[stem-education|STEAM]]、培养[[cs-education|编程]]技能、激励学习者（[[motivation]]、[[student-engagement|参与]]），或支持[[social-emotional-learning]]和[[equity-in-ai-education|包容]]。机器人教育还连接到[[project-based-learning]]、[[game-based-learning]]和[[experiential-learning]]。关键设计考量包括保全学习者[[agency]]、建立[[trust]]、支持[[self-efficacy]]，以及把学习锚定在[[embodied-learning|具身互动]]中。在[[language-learning]]中，[[robot-assisted-language-learning-meta-analysis-2026|元分析证据]]指向具身机器人辅助语言学习的有效性。
 
 - **通往学习 AI 驱动机器人的路径。** [[educational-robotics-pathways-2026|一项质性研究]]考察机器人 + AI 课程中的高中生，发现学习通过真实世界实践、设计和好玩的创意表达发生（建构主义、认识论多元主义视角）。
+
+## 常见误解
+
+- **“机器人因为是机器人就教计算思维。”** 一项对 **53 项研究**的系统综述发现，**基于问题的学习、讲故事与脚手架**是最常用的策略；教学法承载了结果，而它也正是这些研究实际做的事。
+- **“实体机器人在各方面胜过基于屏幕的替代方案。”** 增益是**依赖于任务**的：一项短期迁移分数**高出 60%**（[[aifred-desk-robotic-ai-guidance-2026|Orlando 等，2026]]）（4.4/10，p = .003），作者把它归因于**空间共置而非普遍替代**。该主张是关于特定任务上的共置，而不是关于一般意义上的实体性。
+- **“幼儿园计算思维太早，没有意义。”** 被综述的证据直接覆盖幼儿园机器人，这意味着该年龄段是被研究过的，而不是被假定不合适的。
 
 ## 关联概念
 

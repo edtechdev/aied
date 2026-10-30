@@ -1,14 +1,14 @@
 ---
 title: 人机协作
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T16:30:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,12 @@ ai_assist:
 ### 关联
 
 人机协作连接到 [[human-in-the-loop-ai]]（监督）、[[agentic-ai]]（自主）、[[teacher-role]]（教师不断变化的工作）、[[scaffolding]] 与 [[metacognition]]（协作如何支撑学习），以及 [[cognitive-offloading|过度依赖]]（协作变成替代时的失效模式）。它是贯穿 [[ai-literacy]]、[[self-regulated-learning]] 与 [[student-experience]] 的核心主题。
+
+## 常见误解
+
+- **“协作意味着 AI 承担一部分工作。”** **学习者保留决定角色**，这一点在写作上也成立：[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 表明，当安排是为它而设计时，这一原则依然成立。除非人保留判断，分工并不是协作。
+- **“在翻转式安排中，由 AI 来做讲解。”** **教 AI 的学生解释得更好**：翻转课堂界定为 **M = 4.18 对 3.29**，教学活动为 **M = 4.91 对 3.06，两者 p < 0.001**。学习落在了讲解者身上。
+- **“人与 AI 的贡献是替代关系。”** 两项 2026 年的研究描绘了课堂协作的**互补两半**，这把设计问题框定为分配而非替代。
 
 ## 关联概念
 

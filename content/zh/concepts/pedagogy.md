@@ -1,7 +1,7 @@
 ---
 title: 教学法与教学策略
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-24T15:30:00-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ ai_assist:
 - **教学法决定 AI 的效应。** 一个反复出现的发现是，AI *如何*被使用，与它 *是否*被使用同样重要。[[instructional-guidance-genai-learning|教学引导研究]]与[[generative-ai-guardrails-harm-learning|带护栏导学系统的随机对照试验]]表明，同一个 AI 会因教学法外壳（提示 vs. 答案、结构化 vs. 开放使用）而有害或有益。
 - **教学知识重于技术知识。** 在 46 名教师与 2,832 名学生中，教师的教学性 AI 知识预测了学生对"AI 向善"的认知与学习 AI 的意愿，而单纯的技术知识并不充分——两者都未能预测学生的 AI 知识（[[pedagogy-first-technology-second-teacher-knowledge-2026|Shen 等（2026）]]）。
 - **AI 最明确的贡献是卸载行政工作。** 一项对 28 项研究的 PRISMA 综述发现，AI 最常增强的是教学规划与评估设计，其被报告得最多的收益是评分、反馈与进度监控的自动化（18 项研究，64.2%）——而教学法对齐是被引用最多的挑战（14 项）（[[kibar-ilgaz-ai-instructional-design-review-2026|Kibar 与 Ilgaz（2026）]]）。
-- **自动化与学习直接互相消长。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 等（2026）]]把六项教学法原则——先备知识激活、[[collaborative-learning]]、[[problem-based-learning]]、[[formative-assessment]]、[[scaffolding]]、[[metacognition]]——逐一走过，考察主动的智能体式能动性对每一项做了什么，论证智能体自动化得越多，学习者做的认知工作就越少，除非把摩擦、动态渐退与人的监督设计进去。
+**自动化与学习直接互相消长。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 等（2026）]]把六项教学法原则——先备知识激活、[[collaborative-learning]]、[[problem-based-learning]]、[[formative-assessment]]、[[scaffolding]]、[[metacognition]]——逐一走过，考察主动的智能体式能动性对每一项做了什么，论证智能体自动化得越多，学习者做的认知工作就越少，除非把摩擦、动态渐退与人的监督设计进去。
 - **面向 AI 素养的教学策略。** 教学生*用好 AI* 本身是一项教学法任务——[[ai-literacy]]与[[reducing-ai-misuse]]研究发展出的策略（先想/AI 次之/再反思、AI 声明、校准训练）就属于这个总括之下。
 
 - **AI 素养教学在知识上推进最快。** 一项对 59 项研究（172 个效应量）的三层次元分析发现，以知识为中心的干预（g ≈ .97）明显胜过以技能（≈ .67）、态度（≈ .68）或[[ethics]]（≈ .64）为目标的干预，因此把概念教学与持续练习配对，针对的是那些抗拒教学的产出（[[liu-ai-literacy-interventions-meta-analysis-2026|Liu 等（2026）]]）。
@@ -90,6 +90,12 @@ ai_assist:
 - **让学习者能动性保持中心：** 主动、苏格拉底式与脚手架取向的教学法保全了 AI 可能侵蚀的生产性挣扎与[[agency]]（见[[cognitive-offloading]]、[[desirable-difficulties]]）。
 - **设计 AI 以施行好的教学法：** AI 智能体与导学系统应当锚定在既有的教学框架中，而非默认地生成答案。
 - **借 AI 而教，并教 AI：** 教学法既要用 AI 来教，也要教学习者如何负责任地使用 AI。
+
+## 常见误解
+
+- **“教师最需要的是技术性的 AI 知识。”** 在 **46 名教师与 2,832 名学生**中，**教师的 AI 教学法知识**预测了学生对“AI 造福社会”的感知。教学法知识胜过技术知识，这与大部分培训投资的去向正好相反。
+- **“AI 在教育中的主要贡献是教学性的。”** 一项对 **28 项研究**的 PRISMA 综述发现，AI 最常增强的是**教学规划与评价设计**：最清晰的贡献是**卸载行政工作**，而不是教学。以教学增益为立论基础的方案，站在证据较弱的那条分支上。
+- **“AI 素养教学会自动转化为更好的教学。”** 一项对 **59 项研究（172 个效应量）**的三水平元分析发现，**以知识为焦点的干预（g ≈ .97）**在推动知识上明显优于其他路径。知识被推动是已测量的结果，它是否进入实践是下一个问题。
 
 ## 关联概念
 

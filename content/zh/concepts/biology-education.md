@@ -1,7 +1,7 @@
 ---
 title: 生物学教育
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-24T14:35:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,12 @@ ai_assist:
 - **在 AI 时代刻意培育批判性思维。** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou 与 Nicolaou]] 主张怀疑、语境理解与伦理推理必须被显式教授，并配以人类监督来验证 AI 输出、防止偏见。
 - **在推行挑战式学习的同时教授负责任使用。** [[chatgpt-math-biology-challenge-based-learning-2025|CBL 研究]] 发现学生看重即时性却担心真实性与技能侵蚀——与采用同步更新学术诚信规范与 AI 使用伦理。
 - **勘查专门工具的全景。** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton 与 Cotton]] 列出了教师可部署于野外工作、物种识别与学生支持的工具（iNaturalist、Google Lens、生物成像、风险预测）——在合适处选用专用工具而非通用聊天机器人。
+
+## 常见误解
+
+- **"学生分辨不出 AI 与人类助教。"** 一项虚拟实验助教研究发现，**人类助教比 ChatGPT 更准确、更有效**，然而学生**有 40% 的时候更喜欢 AI 的回答**，且只能**测出 45% 的 AI 输出**。检测接近抛硬币，而偏好却流向更不准确的来源，因此满意度数据在此不能替代质量。
+- **"偏好就代表质量。"** 同一项研究直接把两者分开：被偏好的那个输出是更差的那个。任何一项只报告学生满意度、却不报告准确性度量的生物学 AI 工具评价，报告的都是错误的量。
+- **"AI 素养必须作为独立科目来教。"** 把机器学习概念**嵌入高中生物课**的研究发现，生物学情境**支持**了 AI 学习，这是把 AI 素养嵌入课程、而非附加一个独立单元的证据。学科给了这些概念可以附着的东西。
 
 ## 关联概念
 

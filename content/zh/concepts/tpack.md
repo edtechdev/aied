@@ -1,7 +1,7 @@
 ---
 title: 技术教学内容知识（TPACK）
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-09T18:58:17-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,9 @@ TPACK 认为，有效的技术整合不是各知识域的加总，而是它们**
 - **技术教学法知识（TPK）** — 技术如何支持或约束教学策略。
 - **TPACK** — 处于中心、涌现的整合性知识，三个域在此互动，使技术增强的、面向具体内容的教学成为可能。
 
+- **该框架默认地主宰了这个领域，并被拉伸来适配。** 在一项对 78 项 AI 支持教学设计研究的 PRISMA 引导综述中，只有 19 项应用了任何具名的胜任力框架，而 TPACK 及其变体占了这 19 项中的 **17 项**，它们被生产性地用作分析透镜，却被拉伸到其原初范围之外，因为 TPACK 并非为 AI 特有的能力而设计。专门构建的扩展相应地罕见：**Intelligent-TPACK 只出现在五项研究中**，通常与 [[ai-literacy]] 配对以处理发展性进阶（[[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou 与 Kameas，2026]]）。
+- **研究在未被理论化的状态下推进，而政策框架未被检验。** 同一综述发现 **76% 的研究从实践推断胜任力，完全没有理论映射**，而 DigCompEdu 与 UNESCO 教师 AI 胜任力框架在 78 项研究中都没有被用作分析框架，这是一种双向的脱节：经验工作没有累积出共享词汇，而本应指导实践的框架在这一情境中仍未被经验检验。
+
 ## AI-TPACK 与 GenAI-TPACK
 
 AI 时代把框架推向"技术内蕴智能"的读法。生成式 AI 不是被动工具，而是能规划、生成内容、辅导和自适应的主动能动体——因此整合知识日益包含**编排**：决定 AI 何时以及如何行动、搭脚手架，或何时让位于[[human-in-the-loop-ai|人类判断]]。
@@ -86,6 +89,12 @@ TPACK 是知识库证据基础中教师侧的组织性框架。它解释了为�
 2. **把 AI 当作能动体，而非器具。** AI-TPACK 把框架推向对[[agentic-ai|AI 智能体]]的编排，要求关于 AI 何时应行动的系统思维和教学法判断。
 3. **按教师画像区分 PD。** 不同的教师原型（优化者、创造者、观察者）受益于不同的脚手架——分别是进阶框架、快速反馈或显式示范。
 4. **评估整合胜任力。** 面向 TPACK 的结果（如 AI-PCK 增益）应作为整合能力来测量，而非自报的工具熟悉度。
+
+## 常见误解
+
+- **"TPACK 的主导地位反映了它的解释力。"** 那种主导**部分是检索带来的假象**：在一项对 **195 项技术支持教师教育研究**的 PRISMA 范围综述中，数字胜任力、TPACK 与 DigComp **主导了被索引的文献**。在检索中的出现率是这一领域所用词汇的属性，而不是该框架解释更多的证明。
+- **"一个广为人知的框架就是经过验证的框架。"** TPACK 并非为 AI 特有的能力而设计，这正是 Intelligent-TPACK 被开发出来的原因，而它在 78 项研究的综述中只出现在**五项研究**里。把 TPACK 用于 GenAI 胜任力，是把框架拉伸到其建构之外。
+- **"应用一个框架就意味着研究被理论化了。"** 同一综述发现 **76% 的研究从实践推断胜任力，完全没有理论映射**，因此 TPACK 在这一领域中的在场与多数研究未被理论化是共存的。一个被命名的框架，不等于一个在起作用的框架。
 
 ## 关联概念
 

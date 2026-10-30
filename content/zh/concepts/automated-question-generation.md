@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 自动题目生成
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,16 @@ AQG 是 [[adaptive-learning|自适应]]与 [[personalized-learning|个性化]]�
 - **为认知深度而设计：** 提示与流水线应瞄准高阶思维，而非只对准回忆，以支持真正的学习。
 - **校准难度：** 用 AI 难度估计来挑选难度合适的题目，并在高风险使用前做强力验证。
 - **通过学习者模型个性化：** 把 AQG 与知识追踪和兴趣模型结合，生成自适应、个体化的题目。
+
+## 常见误解
+
+**“生成的题目在可产出的规模上就是可用的。”** 数量不是约束；校准才是。质量因题型而异、差异极大，且需要验证以避免幻觉或校准不佳的题目，这正是有效的流水线把精力花在核验而非生成上的原因：其中一条通过加入先生成再验证精炼的循环，把幻觉减少了 **62%**。
+
+**“精炼循环让生成的题目变得可信。”** 它让它们错得更少。幻觉减少 62% 仍留下可观的残余，而没有任何循环能解决更难的问题：一道题目所声明的难度是否与学生实际所做相符，这正是难度标签证据显示生成元数据失败的[[assessment-validity|效度]]问题。验证减少编造的内容；校准需要学生回答数据。
+
+**“题目生成自然地个性化练习。”** 它生成供给，而个性化是一个匹配问题。产出更多题目并不能告诉你某个学习者接下来该看哪一道，而自适应选择是一个单独的机制，有它自己的证据。
+
+**“生成使评估规模化，而不改变评估所测量的东西。”** 它改变了所测量之物的构成，因为容易生成的题目并不是能良好评估的题目的代表性样本。易生成的格式会逐步挤出更难生成的格式，从而悄然重塑构念。
 
 ## 关联概念
 

@@ -1,14 +1,14 @@
 ---
 title: 人文与社会科学教育
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,18 @@ SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、�
 - **在史料工作中刻意使用AI。** [[paternalistic-filter-llm-history-education|历史研究]]表明AI能塑造推理与史料诠释 —— 教学生质询AI中介的历史论断及其施加的过滤器。
 - **考虑学生面向的影响。** [[genai-impact-chinese-students-hss|学生体验研究]]记录了GenAI如何影响SSH学习者；依据真实用法而非假设调整支持与诚信框架。
 
+## 常见误解
+
+**"人文学科是课程中受 AI 影响最小的部分。"** 暴露面已经被测量，它是集中而非弥散的：[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]审计了 **15,587 条人文艺术单元记录**，以确定暴露究竟落在哪里。它在各单元之间分布不均，而不是均匀摊薄，这使评估重设计成为一个有靶点的问题，而非全行业的问题。
+
+**"人文教育中的 AI 就是技术中心主义的增强。"** 本页所依据的立场文件论证，这一转变是一场*智识转型*而非增强，并把[[ai-literacy|数字流利]]定位为核心博雅能力。给一门未改变的课程加一个工具，是把转型误当成了它的工具。
+
+**"价值观教育可以作为内容交给模型。"** [[genai-values-education-affordances-risks-2026|Chen（2026）]]把价值观教育重新框定为一种关系性实践，具有三个条件：可问责性、示范性与称呼；并把 GenAI 的五种可供性各自读作对一种关系的替换，被模拟的视角替换了可能被伤害的利益相关者。
+
+**"批判分析正是 AI 最威胁的东西，因此应当加以限制。"** 当任务被设计为深化而非抹平批判分析时，它也是刻意使用最能发展起来的东西。[[human-in-the-loop-ai|人在环中]]的模型把本学科的贡献定位在学习者的判断中，而不是在工具的输出中。
+
+**"通用模型对文本学术研究和对摘要一样有用。"** 诠释需要读者所处的位置，而一个代替读者给出解读的辅助层，已经执行了本学科存在所要教授的那个诠释行为。
+
 ## 关联概念
 
 - [[higher-ed]]
@@ -76,3 +88,4 @@ SSH教育把生成式AI最具挑战的那些能力 —— 原创作者身份、�
 - [[genai-impact-chinese-students-hss]] — GenAI对人文社科学生的影响
 - [[acceptance-ai-english-tools-2026]] — 语言与人文学科学习者中的AI接受度
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587个Go8人文艺术单元的计算审计：2026年58.6%的评估条目高度暴露于AI，集中于论文与报告
+- [[genai-values-education-affordances-risks-2026]] — 价值观教育中的生成式 AI：可供性、伦理风险与教学启示（Chen 2026）

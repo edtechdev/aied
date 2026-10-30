@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 特殊教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T15:29:16-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,12 @@ ai_assist:
 - **用 AI 缩小（而非扩大）表现差距。** [[adhd-video-segmentation-computing-education|AI 分段视频]]消除了 ADHD 表现差距——在证据显示其拉平结果之处部署自适应 AI，而非在它仅仅自动化之处。
 - **以残障主导的具身设计为中心。** [[embodied-string-learning-blindness-low-vision-musicians|盲人/低视力音乐家]]研究表明，非视觉的、残障主导的策略胜过默认的视觉界面——以残障学习者的专长构建并调整 AI。
 - **防范认识论边缘化。** [[genai-minoritized-knowledges-disability|批判性视角]]警告，以西方为中心的训练数据可能边缘化以残障为中心的知识——在 [[equity-in-ai-education]] 之外并行审计 AI 内容与工具的认识论正义。
+
+## 常见误解
+
+- **“可用性评分验证了一件辅助工具。”** 从业者把一件共同设计的 Social Story 工具评为**高度可用（SUS 86.8）**，却指出其**图像是泛西式的**、其**行为追踪器与目标挂钩的临床判断不匹配**。高可用性与实质性的失败并存，因此 SUS 分数不是对契合度的认可。
+- **“通用基准能告诉你一个辅导者如何处理特殊教育案例。”** 在取自特殊教育与教育心理学文献的 **923 段基于案例的对话**中，**11 个模型中最好的一个**满足了一项有记录的干预标准，而**挑战性行为是辅导者基准止步之处**。标准评估触及不到从业者最需要帮助的那些案例。
+- **“神经多样性学习者需要的是调适，而不是设计要求。”** [[neurodivergent-computing-students|Zastudil 等人]]发现，神经多样的计算专业学生需要**结构化的作业、小而稳定的小组与明确的角色定义**，这些是惠及所有人的一般设计要求，而不是诊断之后授予的个人调整。
 
 ## 关联概念
 

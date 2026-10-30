@@ -1,7 +1,7 @@
 ---
 title: 关于 AI 的误解
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-09T19:14:02-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -112,6 +112,12 @@ Bernstein 与 Sibia（2026）显示，[[generative-ai|GenAI]] 生成的类比引
 **"如果不是某个人写的，就不是作弊。"** *这是一个误解。*学术诚信关乎工作的诚实、可归属的生产，而不只是不抄袭某个人。*纠正：* 未披露的 AI 生成提交物，即使没有抄袭任何人类，也可能违反 [[academic-integrity]]；问题在于这份工作是否真正属于学习者。有疑问时，披露并查一下你所在机构的政策。
 
 这些驳斥是刻意以 [[refutation-text]] 形式写成的，使它们本身可被使用（或被改编为互动式 [[conversational-ai|AI 对话]]），用以对峙并纠正关于 AI——以及更广地关于学习、教学与教育——的误解。
+
+## 常见误解
+
+- **"呈现证据就能纠正教师的误解。"** 在一项对 **123 名意大利教育者**的试点中，分歧最集中地聚集在**认知学习风格（78% 的教师为视觉/听觉匹配辩护）**、包容与小组合作（68%）以及 EdTech 过载（54%）上。最强的分歧正是最抗拒证据的那些，这就是为什么[[refutation-text|驳斥文本]]胜过断言。
+- **"教师对证据的异议都是抵抗。"** 当同样的条目通过一个**在重新引入证据之前先验证教师处境的**会话式 AI 交付时，**41% 的异议涉及真实的情境约束**：班级规模、特殊需求、课程要求。看似误解的相当一部分，其实是准确的异议。
+- **"误解可以从对话中被可靠地检测出来。"** **在 241 个被提示的片段中，221 个（91.7%）经专家多数投票被确认为战略性误解（Fleiss' κ = 0.9487）**，且各组之间**无显著差异**。高可靠性在专家裁定的条件下是可以达到的，而这正是该主张所依赖的条件。
 
 ## 关联概念
 

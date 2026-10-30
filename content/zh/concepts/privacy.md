@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: 隐私
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T15:50:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **隐私（Privacy）** — 在受 AI 增强的学习环境中，对学生数据、身份与[[agency|自主]]的保护。随着 AI 系统为[[personalized-learning|个性化]]、[[learning-analytics|分析]]与[[student-modeling|自适应教学]]收集日益细粒度的行为数据，隐私关切随之加剧。它是[[ai-education|教育中的人工智能]]的一项核心伦理与监管约束：几乎每一个个性化、预测或评价的 AI 工具都依赖学习者数据，这使数据最小化、同意、透明度与安全成为基础性设计要求，而非事后补记。
+> **隐私（Privacy）** — 在受 AI 增强的学习环境中，对学生数据、身份与[[agency|自主]]的保护。随着 AI 系统为[[personalized-learning|个性化]]、[[learning-analytics|分析]]与[[adaptive-learning|自适应教学]]收集日益细粒度的行为数据，隐私关切随之加剧。它是[[ai-education|教育中的人工智能]]的一项核心伦理与监管约束：几乎每一个个性化、预测或评价的 AI 工具都依赖学习者数据，这使数据最小化、同意、透明度与安全成为基础性设计要求，而非事后补记。
 
 ## 值得思考的问题
 
@@ -64,6 +64,8 @@ ai_assist:
 
 - **监考的伦理证据基础薄弱。**一项对 80 项研究的综述发现，35% 未披露其数据集，40% 只评价单一模型，30% 无法复现，只有 25% 处理了伦理问题；误报 —— 标记正常行为 —— 仍是一项核心可靠性风险（[[automated-online-exam-proctoring-decade-review-2026|Malhotra 与 Chhabra（2026）]]）。
 
+- **聊天界面泄露对话本身。** 在审计 42 个 AI 聊天平台之后，[[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos 等（2026）]]发现 21 个平台把对话标题发送给第三方追踪器，七个教育平台平均每个约有 367 次追踪器请求，其中五个泄露了上下文。
+
 ## 儿童安全与 K-12 保护
 
 [[k-12|K-12]]情境要求更强的隐私保障，因为学习者未成年。这使隐私延伸到数据保护之外的[[pedagogical-safety|教学安全]]：儿童使用的工具必须不只保护他们的数据，还要保护他们免受伤害。[[child-safety-genai|儿童安全研究]]表明，通用安全分类器常常漏掉来自儿童、与教育相关的不安全提示，警告学校不能假定标准模型保障能保护较年幼的用户 —— 他们需要儿童特定的评价、基于事件的测试，与[[human-in-the-loop-ai|人工监督]]。这一框定把隐私连接到[[equity-in-ai-education|公平]]：默认安全与隐私实践保护了谁，反映了一个系统把谁的安全与自主视为不可谈判。
@@ -81,6 +83,13 @@ ai_assist:
 ## 关联
 
 隐私连接到[[learning-analytics|学习分析]]（数据收集者）、[[personalized-learning|个性化学习]]（数据消费者）、[[k-12|K-12]]（更强的保护）、[[ethics|伦理]]（规范框架）、[[regulation|监管]]（法律要求）、[[governance|治理]]（机构责任）、[[equity-in-ai-education|公平]]（谁被保护）、[[pedagogical-safety|教学安全]]（儿童保护），以及[[educational-policy-ai|教育 AI 政策]]（政策回应）。它是任何负责任的教育 AI 部署都必须满足的基础性约束之一 —— 在本知识库的框定中，可信 AI 始于可信数据，原因即在此。
+
+## 常见误解
+
+- **"监考采集的是有限且已被充分理解的一块数据。"** 一份对[[remote-proctoring|监考]]系统实际采集内容的清单列出**面部图像、身份文件、包括 360 度环视的房间扫描、麦克风音频、面部识别**等等。其范围比多数同意流程所描述的更广。
+- **"监考文献确立了监考的伦理。"** 一项对 **80 项研究**的综述发现，**35% 未披露其数据集，40% 只评价单一模型，30% 无法复现，只有 25%** 达到了报告标准。这份证据基础恰好在机构部署前最需要回答的那些问题上薄弱。
+- **"隐私是一道合规勾选项，而不是设计约束。"** 几乎每一个个性化、预测或评价的 AI 工具都依赖学习者数据，这使数据最小化成为一个设计决定。一个离不开这些数据的工具，并没有一个可选的隐私设置，它有的是一项由设计所选定的数据依赖。
+- 对数据实践的知晓并不来自看见它们。[[bergdahl-student-epistemic-agency-ai-2026|Bergdahl（2026）]]发现，**47 名七年级学生**中有 **66%** 在聊天机器人读取其写作时选择了保护性最弱的选项，**47%** 把算法影响当作"只是好玩"，而这发生在**一个月前**的一堂课之后，那堂课把本班自己被记录的行为实时投影出来，学生们反应说这"很吓人"，还有几位留到课间继续使用该平台。让机制可见、却没有让代价具体的隐私教学，留下的立场并未改变。作者指出，这里的低分可能**比高分更可靠**，因为这些问题没有社会期待的标准答案，而责任与治理则容易引出听起来正确的回应。
 
 ## 关联概念
 
@@ -100,6 +109,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — 你的提示词值几便士：AI 聊天平台中的上下文泄露（Bekos 等 2026）
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — 面向隐私保全学业风险建模的联邦式可解释学习分析（Villegas-Ch 等，2026）
 - [[learning-analytics-to-educational-interventions-2026]] — 从学习分析到教育干预：可信 LA 干预的使能因素（Svetec、Divjak 与 Kadoić，2026）
 - [[automated-online-exam-proctoring-decade-review-2026]]

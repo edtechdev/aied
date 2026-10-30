@@ -1,7 +1,7 @@
 ---
 title: 建构主义
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 confidence: high
 connected_resources: [vibes-diy]
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,6 @@ ai_assist:
 - **先验知识塑造新学习。** 新观念是通过学习者已有的心理模型来解释的，因此教学必须显化并建立在学习者已知的基础上 —— 这一原则与[[misconceptions]]以及能适应学习者的AI辅导系统直接相关。
 - **社会互动支持建构。** 一个主要分支 —— 社会建构主义 —— 主张意义是通过对话、协作和文化上[[situated-learning|情境化]]的活动共同建构的。这把建构主义连接到[[collaborative-learning]]以及[[socratic-method|苏格拉底式方法]]路径上，即由AI提示而非命令。([[ai-agents-constructive-conflict-design-education-2026]])
 - **建构在活动中可见。** 学习者通过生成、解释和产出揭示（并巩固）其理解 —— 这正是[[icap-framework|ICAP框架]]把"建构性"和"互动性"[[student-engagement|投入]]排在"主动性"与"被动性"模式之上的原因。([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
-
 该理论的一个边界在于，建构主义假定以人为中心的认知能动性，这使它不足以解释一个能模拟推理并共同建构意义的AI；被提出的补充是认知共同能动性，即学习者把AI输出视为可争议之物，并对"什么算作知识"保持认知主权（[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel（2026）]]）。
 
 ## 建构主义（Constructionism）
@@ -109,6 +108,12 @@ ai_assist:
 2. **使用[[icap-framework|ICAP]]视角。** ICAP把投入分为建构性、互动性、主动性和被动性模式 —— 用它来评估AI互动是否真的唤起了建构性与互动性模式，而非被动消费。在学习目标允许时，设计者应偏向更深层（建构性与互动性）的模式。([[hingle-collaborative-ai-literacy-2025]])
 3. **让理论与实施对齐。** 研究者应当超越AI是否"有效"，去看它*如何*体现一种学习理论，检查"名为建构主义、实为行为主义"的落差。([[ai-vocational-education-training-review]])
 4. **研究学习者能动性与迁移。** 建构主义承诺意味着，不仅要评估即时的测验增益，还要评估学习者能否迁移并独立应用他们建构的理解。([[research-methods-aied]])
+
+## 常见误解
+
+- **"从提问就能看出建构主义教学。"** 一个 DeBERTa 分类器**以 96.67% 的精确率识别事实性知识传递型问题，但对促进者问题的精确率只有 78.79%**，且**每一个模型都把两种高阶角色混淆**。最重要的构念，恰是自动检测处理得最差的构念。
+- **"一节课的表面特征能揭示其教学法。"** 分类器的失败不是实现细节。促进者与建构主义角色是困难案例，正因为它们由教师如何对待学习者的思考来定义，而这种关系无法仅从问题文本中还原。
+- **"建构主义意味着教师不作讲解。"** 该理论把学习定位于学习者从经验中的建构，这与直接教学是相容的。把它当作禁止讲授，既误读了理论，也误读了关于范例的证据。
 
 ## 关联概念
 - [[community-of-inquiry]] — 探究共同体（植根于建构主义/杜威实用主义）

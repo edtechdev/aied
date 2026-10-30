@@ -1,7 +1,7 @@
 ---
 title: 教学智能体
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-24T15:25:00-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-24T06:24:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ ai_assist:
 ## 引言
 
 教学智能体是学习系统内的一个互动式AI组件，通过对话、提问或提示让学习者参与，以支持其认知与[[metacognition|元认知]]过程。与被动的[[visualization|仪表盘]]或静态反馈不同，教学智能体采用有证据依据的辅导策略——例如在给出[[feedback]]之前先引出学习者的自我[[assessment|评估]]，或通过苏格拉底式对话来[[scaffolding|支架化]][[problem-solving|问题解决]]。这一总括概念如今涵盖从单个对话式[[intelligent-tutoring|智能导学系统]]，到一群角色专门化的[[agentic-ai|智能体]]——它们讲授、辅导、促进协作，甚至编排课程生成——全部扎根于数十年的智能导学系统[[research-methods-aied|研究]]。
+- **一个角色是调节而非解释的智能体。** Chen 等人（2026）构建了 SSRLAgent，用来诊断一个小组的共享调节状态并据此提示，并在两个条件中保持一个内容支持智能体不变（[[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen 等人，2026]]）。由于两组都有一个智能体与一个结构化平台，增益归属于调节提示中的适应性，而不是一个对话式智能体的在场。
 
 ## 知识库中如何研究教学智能体
 
@@ -59,7 +60,6 @@ ai_assist:
 **沉浸式与扩展现实环境中的智能体。** [[aclime-pedagogical-agents-extended-reality-2026|Ross 与 Kaspar（2026）]]用ACLIME把这一概念延伸到[[virtual-and-augmented-reality|扩展现实]]（AR、增强虚拟性与VR），这是一个概念框架——与CAMIL、CATLM-VR和TICOL不同——它把智能体保留在模型内部。它命名了取自文献的两种互动模式：导学者，提供指导、鼓励、反思性提问与解释；以及角色扮演伙伴，占据情境中的一个确定角色，例如气候变化实地考察中的当地向导，或企业培训中的谈判对手。智能体的身体（从头像到全身）与行为被视为设计面：视觉真实感对行为真实感、灵活的AI控制对固定规则脚本、合成语音对预录语音，以及包括注视、手势与空间距离在内的非语言通道。该框架主张，沉浸与基于身体的互动性会放大[[community-of-inquiry|社会临场感]]背后的社会线索——并认为行为真实感而非视觉真实感才是决定性的预测变量——而学习者自身的虚拟身体又增添了[[embodied-learning|具身]]维度（身体所有权、虚拟身体能动性、自定位）与普罗透斯效应。该框架明确的取舍是认知性的：沉浸与智能体的单纯在场会提高认知负荷，即便与智能体的社会互动会通过集体工作记忆效应降低它；此外还在通常的设计变量之外增加了一个时间层（熟悉化、人—机关系的成熟、新奇感消退、网络晕动症的发展）。它的定位刻意保持临时性：几乎没有经验研究检验沉浸媒体中的教学智能体，长期的[[learning-gains|学习结果]]以及学习者特征都落在模型之外。
 
 **评估与基准。** 测量一个教学智能体必须测教学法，而非内容。[[teaching-monster-pck-benchmark-2026|Teaching Monster Challenge]]通过要求智能体把一节课调整到指定的学习者画像来基准化教学内容知识（PCK），发现系统在内容上强、在调整上弱——并揭示LLM评委会对强系统误排序。[[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]]在专业的教学判断、[[situated-learning|情境化]]的多轮辅导，以及画布式工作流完成三个维度上评估智能体，显示模型未达专业教学标准。[[ai-generated-interactive-fiction-education-2026|AI生成的互动小说]]增添了一个设计评估角度：限制[[student-experience|学生体验]]有用性的是连贯性与测验整合，而非生成能力。
-
 **在多轮中压力测试人格的稳健性。** [[adversarial-stress-testing-role-playing-agents|Shouqi等人（2026）]]用自动评委对角色扮演智能体实施了六轮递进的攻击：多策略测试使稳健性相对单策略基线下降0.17–0.20，且关键失败集中于第5–6轮之后，因此短的或单轮的评估会高估人格稳定性与伦理遵循度。
 
 - **一个把"可能出错的建议"当作要点的同伴智能体。** Copa 把带日志上下文的检索与 GPT-4o 及一个含十五个分块的、任务特定的知识库相配对，并以智能体方式总结每个学生片段：它把学生的模型与专家版本相比较，诊断所表达的问题，并指明应检索什么。在一项有 16 名学生与两个焦点小组的课堂研究中，所有参与者都说它的指导支持了问题解决且准确，而且都愿意再次使用它。还有几人要求直接给出答案，有些人则假定某条建议是正确的，直到自己的模型变得更糟。作者把这解读为设计一个促使学习者评价、而非直接作答的智能体所要付出的代价（[[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn 等，2025]]）。
@@ -79,6 +79,12 @@ ai_assist:
 至关重要的是，教学智能体由其[[learning-gains|学习增益]]来评判，而非由其回应得多么流利。本知识库的证据是：当智能体被设计为带保障措施的辅导专用教练时，它们产生持久的增益——[[stanford-evidence-base-ai-k12-2026|辅导专用AI一贯优于通用聊天机器人]]——而当它们替代学习者自身的努力时，则会损害学习（[[generative-ai-guardrails-harm-learning|保障措施RCT]]、[[jost-llm-programming-education-learning-outcomes|LLM依赖与成绩]]）。因此，测量一个智能体的[[learning-gains]]需要无辅助、可迁移的结果测量，而非工具内表现。
 
 更好的反馈不等于更好的学习：用知识库与工作流定制智能体提高了反馈的准确性与具体性，但自我调节行为、学习体验与结果均未改变，且其增益优势只在指导性反馈下才出现（[[agent-type-feedback-style-self-directed-learning-2026|Han等人（2026）]]）。
+
+## 常见误解
+
+- **“创作意图决定了教学智能体做什么。”** **创作意图并不保证教学法被实际执行。** 当 **27 名中学教师**配置一个面向教师的聊天机器人创作工具时，对 108 条机器人层面判据的评估显示，实际执行的行为与教师的意图背离。工具中介了教学法。
+- **“主持讨论的教学智能体是一个已解决的角色。”** [[ethics-training-agents-group-ethics-discussion-2026|伦理训练智能体（Seo 等人，2026）]]展示了当一个智能体被要求**主持而非**教学时会发生什么，这与回答问题在质上不同，也是文献视为尚未定论的一项要求。
+- **“计算机辅助教学的证据基础薄弱。”** 一项综合（**2025 年，34 篇综述**）量化了 CAI 在教学与学习支持（**97.1% 的综述**）、心理与动机支持（**91.2%**）以及**元认知**支持上的使用。被综述的应用广度很可观，这使缺口落在执行质量而非覆盖范围上。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 问题导向学习
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 ## 引言
 
 PBL 起源于医学教育（McMaster University，20 世纪 60 年代），此后扩展到[[medical-education|健康专业]]、工程和[[k-12]]。学习者承担起诊断学习需求、识别资源和建构解决方案的责任，而引导者为这个过程提供支架。PBL 的独特主张是：*问题*是课程的驱动者——不是在别处讲授的内容的例证，而是内容得以学习的语境。
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi 与 van der Merwe（2026）]]给出一个直接比较：十段问题导向的聊天维持了对话并达到了更深的解释，而三十段结构化的流程式聊天则坍缩成问—答—谢谢并终止了。
 
 ## AI 时代的 PBL
 
@@ -67,6 +69,12 @@ PBL 与[[project-based-learning|项目导向学习]]密切相关——两者都�
 ### 生产性失败与 PBL
 
 [[productive-failure|生产性失败（PF）]]与 PBL 共享[[constructivist]]核心——[[learners]]先接触问题再接受讲授——但结构不同：PF 刻意延后讲授和支架，直到学习者*在*努力生成解决方案*之后*；而 PBL 把引导嵌入全程。AI 时代的 PF 文献直接启发 AI 在问题导向情境中应有的行为：[[kim-ai-productive-failure-adult-2026|Kim 等人（2026）]]表明，AI 应在 PF 各阶段以非指导性支持保全[[desirable-difficulties|生产性挣扎]]；[[puech-pedagogical-steering-llm-productive-failure-2025|Puech 等人（2025）]]证明[[llm]][[intelligent-tutoring|导师]]可以被引导去保留答案、并引出多种解法尝试；而[[rhaimi-productivemath-2025|ProductiveMath]]用 AI 协助设计高质量的 PF/PBL 式问题。那个设计问题——AI 何时该给出问题、提示或答案——是两种[[pedagogy|教学法]]共有的。
+
+## 常见误解
+
+- **"PBL 的结果应当与项目导向学习的结果合并。"** 那项三层元分析把**产品与解题表现放在单独的模型**中，正是因为它测量的是**人机协作**，而非学习者自己的推理。把它们合并，就是把一个共同产出的制品归到学生名下。
+- **"协作增益是使用 AI 的副作用。"** 一项研究发现更高的感知协作式问题解决（**M = 3.62 vs. 3.05, d = 0.88**）与共享问题解决（**3.40, d = 1.02**），其中**最大的交互效应落在共享知识建构与社会调节**上，正是设计所预测的那些协作过程维度。机制是结构化的协作，而不是工具。
+- **"带 AI 的 PBL 主要是节省引导者的时间。"** 可测量的增益在于过程质量，且落在那些只有小组结构为此设计时才存在的维度上。一个加入 AI 却未结构化共享知识建构的 PBL 实施，不应期待同样的效应。
 
 ## 关联概念
 

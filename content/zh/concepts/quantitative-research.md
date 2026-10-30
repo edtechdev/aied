@@ -1,14 +1,14 @@
 ---
 title: 量化研究
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -42,9 +42,14 @@ ai_assist:
 - **优势：** 大样本；广泛、低成本的覆盖；检验复杂的中介模型；对难以观察的态度可行。
 - **局限：** 横断面数据不能确立因果；自陈偏倚；方便抽样限制可推广性；中介从协方差推断，而非操纵。这些局限的工具侧处理见 [[self-report-measures|自陈测量]]。
 
+- **一个饱和的中介模型无法检验自身的排序。** 一项对 1,020 名护理学生的单波调查把 1.36 的总效应拆成一个 0.92 的直接效应与一个经由自我调节学习的 0.44 的间接效应（占总量的 32.35%），而该模型的自由参数与观测协方差一样多，因此在构造上就复现了数据（[[li-nursing-genai-interaction-self-regulated-learning-2026|Li 等（2026）]]）。
+**一个近乎为零的总间接效应可能掩盖两条仍然存在的路径。** 在一波对 568 名设计学生的自陈调查中，间接关联经由促进聚焦为 0.0929、经由预防聚焦为 -0.0884，合计 0.0045，而直接路径承载了总效应的 98.7%（[[wang-ai-disruption-design-innovation-competence-2026|Wang 等（2026）]]）。
+
 ### 实验与准实验研究
 实验把学习者随机分配到条件（如 AI 导师 对 人类导师，或 AI 支架 对 无辅助）以估计对结果的因果效应。**随机对照试验（[[rct|RCT]]）** 是内部效度的金标准。[[access-not-enough-ai-tutoring-2026|一项关于人类支持加 AI 辅导的随机田野研究]] 与 [[genai-can-harm-teaching-rct-2026|一项关于教学中生成式 AI 的随机对照试验]] 用分配来隔离因果效应。**准实验** 设计（前/后测、不随机的匹配组）在完整课堂中更可行，但在因果主张上更弱。
- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人（2025）]] 转而采用被试内交叉设计：每个学生对同一份物理内容见两次，一次在课堂主动学习课中，一次通过课程自带的 AI 导师，每次前后都有测试，于是每个学习者充当自己的对照，人际差异相互抵消。
+
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin 等人（2025）]] 转而采用被试内交叉设计：每个学生对同一份物理内容见两次，一次在课堂主动学习课中，一次通过课程自带的 AI 导师，每次前后都有测试，于是每个学习者充当自己的对照，人际差异相互抵消。
+
 - **优势：** 最强的因果推断；干净的结果测量；支持效应量估计与效力主张。
 - **局限：** 昂贵且缓慢；人为条件降低生态效度；快速变化的 AI 工具很快使实验过时；小样本不足以检出效应；在扣留有帮助的工具上有伦理约束。
 - **一项组随机化的可得性试验需要一次采用核查。** 在处理组课堂中，大约只有 15% 的学生曾使用过该导师，因此该研究的意向性处理估计反映的是引入该工具的效应，包括它所携带的许可与替代，而非单次使用课程的孤立效应（[[liu-course-integrated-ai-tutoring-rct-2026|Liu 等人（2026）]]）。
@@ -75,6 +80,12 @@ ai_assist:
 
 量化与 [[qualitative-research|质性]] 方法互为补充 —— 量化工作提供广度与因果力，质性工作提供深度与意义。[[mixed-methods-research|混合方法设计]] 把二者结合。完整的方法比较以及实验、调查、质性与其他设计之间的对照见 [[research-methods-aied|教育 AI 研究方法]]。
 
+## 常见误解
+
+- **"意向性处理估计描述了工具做了什么。"** 在一项组随机化的可得性试验中，**处理组课堂里约 15% 的学生曾使用过该导师**，其 ITT 估计反映的是**引入**该工具的效应，而不是使用它的效应。低采用率使一个 ITT 数字成为关于实施的陈述，而把它报告为工具效应则夸大了被测量的东西。
+- **"任务上的表现就是结果。"** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui（2025）]]把 **120 名学生**随机分配到 AI 辅助或传统学习，并测量**保持**，这是把即时表现与持久学习分开的设计。一项止步于任务的研究，测量的是较容易的那个量。
+- **"跨数据集比较是直截了当的。"** 一项对合成教育数据的结构检验发现，**按每个数据集各自的阈值来分析，会反转一个在共享工作点上成立的对比**。该比较的符号取决于一个分析选择，而这正是一个预注册的工作点所要防止的那种脆弱性。
+
 ## 关联概念
 
 - [[research-methods-aied]]
@@ -102,3 +113,7 @@ ai_assist:
 - [[synthetic-educational-data-structural-fidelity-2026]] — 保真度指标遗漏了什么：对合成教育数据的结构检验
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 一项组随机化的可得性试验需要一次采用核查
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — 文献计量分析是又一个量化家族：Sriram 等人
+
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — 生成式人工智能的使用与护理学生的人际教育互动：自我调节学习作为统计中介
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — 设计学生对 AI 技术性颠覆的觉察、设计思维心态与设计创新能力

@@ -1,7 +1,7 @@
 ---
 title: 开源
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:58:08-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ ai_assist:
 
 在学生数据不能离开校园的地方，开放权重最重要。[[lata-ferpa-compliant-local-llm-autograder|LaTA]]是一个即插即用、符合 FERPA 的本地[[llm|大语言模型]]自动评分器，面向高年级[[stem-education|STEM]]课程作业，基于教师编写的评分标准与参考答案构建，每份提交物的边际成本为零。[[programming-its|SCRIPT]]是比勒费尔德大学的一个 Python[[intelligent-tutoring|智能导学系统]]，它刻意**避免商用大语言模型 API**，自托管一个开放权重的 Llama-70B 模型以符合 GDPR 与欧盟 AI 法案（后者把某些 AI 在教育中的用途归为高风险），将 IP 日志与导学系统分离，使用假名用户名，且仅在明确同意下记录击键——作者也把更低的环境影响和更好的可复现性归功于这一选择。
 
-质量已不再是开放自动付出的代价。[[singh-eduqwen-pedagogical-rl-2026|EduQwen]]对一个开放模型家族应用[[reinforcement-learning|强化学习]]（DAPO）与监督微调，挖掘 440 条难负例，生成 40,000 条合成回答并按难度精选为 1,050 条示例，在教学基准上达到 **96.52%**——高于 Gemini-3 Pro 的 90.55%——而参数规模仅 32B 稠密参数。[[aiawe-automated-writing-evaluation|AiAWE]]在[[automated-assessment|自动写作评价]]上得出相似结论：一个经 LoRA 适配的开放权重 Gemma-3-27B-it 在 480 篇托福作文上优于 LLaMA-3.3-70B 与一个微调过的 GPT-3.5 基线，且能跑在消费级服务器上，其醒目的附带发现是：在 LoRA 适配下，参数量*并不是*下游表现的可靠预测因子。反方证据应当得到同等对待：[[mllm-scientific-visualization-literacy|一项对六个多模态大语言模型]]（三个封闭、三个开放）的基准研究发现，所有开源模型在科学[[visualization|可视化]]素养上都低于人类基线，而 Gemini 在若干子集上超过人类均值。开放提高的是控制的上限，而非能力的上限。
+质量已不再是开放自动付出的代价。[[singh-eduqwen-pedagogical-rl-2026|EduQwen]]对一个开放模型家族应用[[reinforcement-learning|强化学习]]（DAPO）与监督微调，挖掘 440 条难负例，生成 40,000 条合成回答并按难度精选为 1,050 条示例，在教学基准上达到 **96.52%**——高于 Gemini-3 Pro 的 90.55%——而参数规模仅 32B 稠密参数。[[aiawe-automated-writing-evaluation|AiAWE]]在[[automated-essay-scoring|自动写作评价]]上得出相似结论：一个经 LoRA 适配的开放权重 Gemma-3-27B-it 在 480 篇托福作文上优于 LLaMA-3.3-70B 与一个微调过的 GPT-3.5 基线，且能跑在消费级服务器上，其醒目的附带发现是：在 LoRA 适配下，参数量*并不是*下游表现的可靠预测因子。反方证据应当得到同等对待：[[mllm-scientific-visualization-literacy|一项对六个多模态大语言模型]]（三个封闭、三个开放）的基准研究发现，所有开源模型在科学[[visualization|可视化]]素养上都低于人类基线，而 Gemini 在若干子集上超过人类均值。开放提高的是控制的上限，而非能力的上限。
 
 OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本上做能力均衡的监督，把开放 4B/9B/27B K–12 家族的每一档都抬高了——经调优的 4B 模型在 MathTutorBench 脚手架胜率上比其基座提升了 55 分——而知识状态诊断仍是其最弱的能力，为 54.04%（[[omniedu-open-educational-foundation-models-2026|Liang 等，2026]]）。
 
@@ -57,11 +57,13 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 
 此处若干贡献是开放的*评价基础设施*而非系统。[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND，由真实的智利教师资格考试题目构建）横跨 97 个模型：开放权重的 DeepSeek R1 达到 86.65%，而其对手前十名大多是封闭的推理模型；在 2024 年 4 月到 2025 年 6 月之间，成本—准确率前沿从约 50% 移到约 82%，对应每百万输入 token 0.10 美元——其中开放的 Qwen-3 8B 以 3.5 美分几乎追平了 2024 年 4 月最好的封闭模型，而成本低了 400 倍以上。参数规模降到约 8B 以下时表现急剧下降，这是校园部署的一个实际规模约束。[[astra-multi-agent-tutoring-benchmark-2026|ASTRA]]发布用于对社会智能的多智能体辅导做基于轨迹的评价的数据集、模式与原型（540 名参与者、360 次会话、1,440 个任务片段）。[[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]展示了开放数据的文化理由：24,795 对指令—回答，横跨七种语言与 41 种取自吠陀与古典传统的教学法技术，对齐 CBSE[[curriculum-design|课程]]，使一个紧凑的 7B 模型接近一个大得多的通用参考模型（裁判中位分 6.39 对 6.54），而部署成本只是其一小部分。学生自撰的[[benchmark|基准]]是通往开放的另一条路：[[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]]从 230 份学生提交的候选中精选出 80 个长程学术任务（横跨 25 个以上专业领域，16 个需要 CUDA GPU，在隔离的 Docker 沙盒中运行），把一个开放的智能体生态延伸到学术级评价。[[aied-carbon-footprint-reporting|Eimler 等（2026）]]论证开放也是一种[[sustainability|环境]]义务：在评审全部 AIED 2025 论文时，他们发现了一种"采用大语言模型却未披露"的模式，并回应以一个开源测量方法学——软件工具加一个即使在参数量未知时也能估算计算开销的公式。
 
-### 开放教育资源与开放内容
+### 开放内容与开放代码的交汇之处
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen 等（2026）]]是本知识库中唯一一篇**开放教育资源是核心对象**而非顺带一提的文章。他们在消费级硬件（一张 12 GB 显存的 RTX 3060）上，从 82 份 OER 文档为[[cs-education|计算机科学教育]]构建了一个本地 AI 知识库助手，结合结构化抽取、[[rag|检索增强生成]]与 NF4 4 位量化感知微调。微调在检索之外增添了真实价值（Qwen-7B 69.8%，+3.2 个百分点，p = 0.031；DeepSeek-MoE 78.6%，+12.0 个百分点，p < 0.001，其中多跳推理达 82.3%）；量化感知调优把 4 位精度差距控制在 1.7 与 1.2 个百分点，同时把显存削减约 38%、每查询能耗降到 1.8 mWh（比基线低 43.8%）；而量化抬高的[[hallucination-risk|幻觉]]经微调得到部分挽回（DeepSeek-MoE 10.4% → 8.1%），测量方式是针对检索到的 OER 片段的两阶段 NLI 程序。其分析要点可推广：一份开放许可的语料可以不经出版方许可就被索引、适配与服务，而把一个助手锚定在检索到的 OER 上会给出一条可核查的来源链——这正是专有教材语料无法提供的东西。
+开放教育资源有自己的页面 [[open-education]]，因为那里的论证是教学法与许可导向的，而非基础设施导向的。属于本页的是两种开放性相遇的那道接缝，而它比看上去要窄。
 
-内容的开放与模型的开放在别处也是互补的。OATutor 把 CC BY 的 OpenStax 教材编成一个代码为 MIT 许可的系统，因此代码与内容的许可条款必须靠设计保持兼容。[[egai-power-systems-education|一个开放的、可执行的电力系统 AI 模块库]]用可在本地或 Colab 运行的 Jupyter 笔记本降低入门门槛，并通过一门 IEEE 在线课程交付。一个基于项目的[[engineering-education|机械工程]]课程把其教学大纲、数据与代码发布在开放获取的仓库中，使其他机构可以采纳（[[mechanical-engineering-ai-curriculum-2026]]）。与 OER 相邻，开放的*课程*交付是经济学变化最快的地方：MAIC 报告，借助大语言模型驱动的多智能体生成，MOOC 的制作从每门课程约 25,000 美元、60 小时，跌到不到 2 美元、30 分钟。如果内容生产近乎免费，OER 的论证就从生产成本转向许可自由、可验证性与质量保证——这与 OER 倡导建立其上的那个命题已不相同。
+这道接缝是一个许可兼容性的约束。[[oatutor-open-source-adaptive-tutor-2023|OATutor]]把一个 MIT 许可的代码库，与一个来自 OpenStax 代数教材的 CC BY 内容库配对，这意味着代码的条款与内容的条款必须靠设计保持兼容，而一方上的宽松许可并不提供另一方。当一份开放许可的语料正是一个本地系统得以合法运行的前提时，这道接缝也会出现：[[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen 等（2026）]]把 82 份 OER 文档索引进一个跑在 12 GB 消费级 GPU 上的知识库助手，而整个故事是一个关于量化、幻觉与来源的开源故事，而不是一个关于教材的论证。
+
+本页不做的是为这种资源辩护。一部机器写成的教材是否默认开放、一份许可能否在一次生成的改写中存活、开放教学法是否教出了任何可测量的东西，这些都是 [[open-education]] 的问题，也正是本领域当前文献实际在问的问题。
 
 ### 收益与负担
 
@@ -73,8 +75,21 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 - **对教师与机构：** 采用一个系统之前，检查*内容*的许可如同检查代码——MIT 代码搭 CC BY 教材是可复用的，但宽松的许可并不保证辅导路径、题库或翻译存在。当学生数据依法不能离开校园时优先选开放模型（[[lata-ferpa-compliant-local-llm-autograder]]、[[programming-its]]），但要在*你的*任务上基准化该模型，而非信任通用排行榜（[[cdpk-pedagogy-benchmark-llms]]）。为试点之后有人运行与评价这个系统做预算。
 - **对开发者与研究者：** 交付整个东西——OATutor 的端到端发布（代码、内容、实验框架）是本文献不断奖励的可复现性标准。把提示与抽取模式与权重一起发布（[[programming-its]]、[[kar-mathbuddy-affective-math-tutoring-2025]]）。报告算力与碳排放（[[aied-carbon-footprint-reporting]]）。把助手锚定在开放许可的语料上，使来源可核查、适配合法（[[shen-sustainable-ai-knowledge-base-cs-education-2026]]）。如果准确率与能耗都重要，用量化感知微调而非单纯量化，并保持代码与内容许可兼容。
 
+## 常见误解
+
+**"开放权重、开源、开放内容与开放教学法是同一种开放。"** 它们是四件不同的事，并且各自独立地失败。资源与实践层面的论证在 [[open-education]]；本页覆盖的是构建者交付并授权的人工制品。开放*权重*允许本地部署；开放*源代码*允许修改；开放*内容*允许复用与改编；开放*教学法*关乎由谁决定教什么。一个拥有开放权重与专有训练流水线、又被一个封闭界面的工具与一个保留所有权利的内容库包起来的模型，在四种意义中的一种上是"开放"的，在另外三种上是封闭的。
+
+这个词本身在上游就有争议。[[deimann-rethinking-openness-ai-2026|Deimann 与 Lukács（2026）]]观察到，关于开放性的辩论是经由开源社群进入 AI 的，第一份 Open Source AI Definition 于 2024 年发布，而他们论证开放性在那里起作用的是一种想象而非一种属性：一种机构在语言上采纳、而周边体制保持不变的愿望。这对本页是一个有用的检验，因为许可是属性，运动不是。
+
+**"开放意味着更便宜。"** 开放权重让本地部署成为可能，但**总得有人托管、修补并评价这个系统**，而这个人需要活得比资助这项工作的经费更久。本文献所命名的负担是具体的：基础设施、[[pedagogical-safety|安全]]保障与维护。总成本可能超过一笔许可费，而把开放当作节省的机构，常常在项目人员散去之后才发现维护义务。
+
+**"封闭的前沿模型就是更好，所以开放替代品只是退路。"** 差距比这个假设所暗示的要窄。在横跨 97 个模型的[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]]（CDPK + SEND，由真实的智利教师资格考试题目构建）中，开放权重的 **DeepSeek R1 达到 86.65%**，而其前十名大多由封闭的推理模型组成，且成本与准确率的比较进一步朝开放方向倾斜。因此支持开放的剩余理由关乎控制与可审计性，而不关乎能力上的牺牲。
+
+**"发布权重就是发布工作。"** 更强的开放贡献发布的是流水线。OmniEdu 发布的是在 69,999 例混合样本上做能力均衡的监督，而非仅发布最终权重，把开放 4B/9B/27B K–12 家族的每一档都抬高，其中经调优的 4B 模型在 MathTutorBench 脚手架表现上提升 **55 分**；[[singh-eduqwen-pedagogical-rl-2026|EduQwen]] 同样记录了它的 RL 与微调流程，包括 440 条挖掘出的难负例与 40,000 条生成回答。只有权重而没有配方，复制的是一个结果，而不是一种方法。
+
 ## 关联概念
 
+- [[open-education]]
 - [[intelligent-tutoring]]
 - [[llm-training-and-fine-tuning]]
 - [[adaptive-learning]]
@@ -103,7 +118,7 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 - [[programming-its]] — 为符合 GDPR／欧盟 AI 法案而自托管的开放权重大语言模型与 Python 智能导学系统
 - [[aiawe-automated-writing-evaluation]] — 用于自动写作评价的 LoRA 适配开放权重模型
 - [[stanbkt-bayesian-knowledge-tracing]] — 完整贝叶斯知识追踪的开放 Python 包
-- [[deeptutor]] — 带学习者记忆的完全开源智能体式辅导框架
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — 带学习者记忆的完全开源智能体式辅导框架
 - [[vismatic-secure-sandbox-cs-education]] — 面向过程评估的开放容器化沙盒
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — 代码库开放的感知情感的数学辅导系统
 - [[cdpk-pedagogy-benchmark-llms]] — 横跨 97 个模型的开放教学基准与成本—准确率前沿
@@ -112,7 +127,7 @@ OmniEdu 发布的是整条流水线而非仅权重：在 69,999 例混合样本�
 - [[iks-instruct-dataset-indian-knowledge]] — 用于文化扎根式教学的开放多语言数据集
 - [[aied-carbon-footprint-reporting]] — 报告大语言模型环境成本的开源方法
 - [[egai-power-systems-education]] — 面向工程 AI 的开放可执行模块库
-- [[mechanical-engineering-ai-curriculum-2026]] — 公开可得的课程、数据与代码
+
 - [[mooc-to-maic]] — 大语言模型驱动的课程生成与课程生产经济学的变化
 - [[agentic-ai-education-scoping-review]]
 - [[yu-academiclaw-student-challenges-ai-agents-2026]]

@@ -1,7 +1,7 @@
 ---
 title: SAMR 模型
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-09T19:07:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,16 @@ SAMR 最好被理解为用于规划和评估的整合深度透镜，与采纳理
 - **与 ICAP 配对。** SAMR 描述*任务*变成什么；ICAP 描述学习者*如何*参与。两者合用来区分表面的替代与深的互动共建。
 - **用采纳和公平透镜来补充它。** SAMR 对一个工具为何被采纳或谁受益一言不发。把它与[[technology-acceptance-model|采纳模型]]和[[equity-in-ai-education|公平]]分析配对，以免让深度标签替代了[[critical-thinking|批判性评估]]。
 - **把增量整合的证据当作一项发现，而不是一次失败。** 如果多数 AI 整合簇集在替代/增强，设计任务就不是强推重新定义，而是承认改造性的使用需要不同的任务设计，而不只是更好的工具。
+
+## 常见误解
+
+**“在 SAMR 上更高就是更好的教学。”** SAMR 是一面透镜，用来追问 AI 是*重新概念化*学习还是*改进*既有实践；它不是质量排名，而重新定义也不是每项任务的正确答案。一个移除了无生产力步骤的替代，按学习来评判就是成功，而不是按它占据的层级。
+
+**“AI 采纳正在沿阶梯向上推进。”** 分布集中在底部。一项关于[[higher-ed|高等教育]]中 AI 整合的系统综述发现，**多数使用位于替代或增强，只有一项研究接近重新定义**。因此 SAMR 在这批文献中的实际用途主要是诊断性的：它指出了这个领域实际所在的位置。
+
+**“SAMR 与 TPACK 是相互竞争的框架。”** 它们描述不同的东西：SAMR 描述一项任务的*改造程度*，而[[tpack|TPACK]]描述教师为良好整合技术所需的*知识*。一位教师可以具有很强的 TPACK 能力却仍停留在替代层级，这就是两者被一起使用而不是二选一的原因。
+
+**“在一个层级上具有改造性的工具，在所有层级上都具有改造性。”** 同一个生成式工具在一门课中可支持替代，在另一门课中可支持重新定义，因为层级是任务设计的属性，而不是技术的属性。把层级归因于工具，会以采纳决策取代设计决策。
 
 ## 关联概念
 

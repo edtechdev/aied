@@ -1,7 +1,7 @@
 ---
 title: 学习设计
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T15:24:00-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, edugems, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-10-27T08:20:32-04:00"
+source_updated: "2026-10-28T00:58:16-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 ### 关键研究主题
 
-**人工智能辅助的内容创建**是最直接具有变革性的应用。**[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**提出一个把生成式人工智能与 LaTeX 和 Python 整合以自动化[[stem-education|STEM]]材料创建的六阶段架构，在 8 个模块与 28 个项目情境上验证，学生质量评分 8.5–9.9/10。**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**使用一个围绕 ADDIE 模型结构化的多代理框架，由基于角色的代理（教学教师、教学设计者、课程协调者）协作生成完整课程材料。**[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**提供一个结构化的流水线，用于基于课程语料的适应性[[pedagogy|教学]][[video-education|视频生成]]，表明显性的教学结构 — 而非只是人工智能熟练度 — 对教育内容生成至关重要。[[generative-ai|生成式人工智能]]平台还能在其产出的内容中体现学习设计原则：[[ai-modeling-problem-generation-platform-2026|一个生成数学建模问题的人工智能平台]]把既定设计原则与[[prompt-engineering|检索增强生成]]相结合，通过 ADDIE 方法开发出有教学依据的任务与推荐，这是常规内容生成器所缺乏的。然而，这类人工智能辅助内容与课程生成的回报受教师自身专长所中介：[[choi-teacher-ai-interaction-lesson-design-2026|Choi 等人（2026）]]发现，经验丰富的教师批判性地把人工智能生成的课程想法适配于学生与情境（重新提问并扩充输出），而新手倾向于直接接受人工智能的建议 — 因此人工智能内容工具的教学价值取决于教师的经验与人工智能熟练度，而非工具本身。对[[wang-teacher-ai-co-design-review-2026|教师—人工智能协同设计学习任务]]（Wang、Liu 与 Islam 2026）的系统综述在 28 项研究（2015–2025）上于规模层面确认了这一模式：GenAI 主要用于课程规划、提示生成与创意构想，而主导的协作模式是人工智能作为助手/内容生成者，而非更完整的共同设计者 — 其中效率、响应性、[[creativity]]与[[equity-in-ai-education|公平]]反复作为可供性出现。[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh（2026）]]为小组活动设计锐化了教师专长发现：无论对人工智能熟悉程度如何，经验丰富的教师在人工智能设计的合作活动中比新手产出更丰富、更具协同、更对齐 ZPD 的角色架构，把“教学提示素养”框定为把人工智能输出转化为有效[[collaborative-learning|差异化小组学习]]的杠杆。
+**人工智能辅助的内容创建**是最直接具有变革性的应用。**[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**提出一个把生成式人工智能与 LaTeX 和 Python 整合以自动化[[stem-education|STEM]]材料创建的六阶段架构，在 8 个模块与 28 个项目情境上验证，学生质量评分 8.5–9.9/10。**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**使用一个围绕 ADDIE 模型结构化的多代理框架，由基于角色的代理（教学教师、教学设计者、课程协调者）协作生成完整课程材料。**[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**提供一个结构化的流水线，用于基于课程语料的适应性[[pedagogy|教学]][[video-education|视频生成]]，表明显性的教学结构 — 而非只是人工智能熟练度 — 对教育内容生成至关重要。[[generative-ai|生成式人工智能]]平台还能在其产出的内容中体现学习设计原则：[[ai-modeling-problem-generation-platform-2026|一个生成数学建模问题的人工智能平台]]把既定设计原则与[[rag|检索增强生成]]相结合，通过 ADDIE 方法开发出有教学依据的任务与推荐，这是常规内容生成器所缺乏的。然而，这类人工智能辅助内容与课程生成的回报受教师自身专长所中介：[[choi-teacher-ai-interaction-lesson-design-2026|Choi 等人（2026）]]发现，经验丰富的教师批判性地把人工智能生成的课程想法适配于学生与情境（重新提问并扩充输出），而新手倾向于直接接受人工智能的建议 — 因此人工智能内容工具的教学价值取决于教师的经验与人工智能熟练度，而非工具本身。对[[wang-teacher-ai-co-design-review-2026|教师—人工智能协同设计学习任务]]（Wang、Liu 与 Islam 2026）的系统综述在 28 项研究（2015–2025）上于规模层面确认了这一模式：GenAI 主要用于课程规划、提示生成与创意构想，而主导的协作模式是人工智能作为助手/内容生成者，而非更完整的共同设计者 — 其中效率、响应性、[[creativity]]与[[equity-in-ai-education|公平]]反复作为可供性出现。[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh（2026）]]为小组活动设计锐化了教师专长发现：无论对人工智能熟悉程度如何，经验丰富的教师在人工智能设计的合作活动中比新手产出更丰富、更具协同、更对齐 ZPD 的角色架构，把“教学提示素养”框定为把人工智能输出转化为有效[[collaborative-learning|差异化小组学习]]的杠杆。
 
 Aila 试验为这一模式给出了一个备课时间的数字。在其随机化的小学中，教师用该工具备每周课花 2.51 小时，而不用则花 3.32 小时，然而中位教师只有 21% 到 40% 的课程是从零开始设计的，而这正是从零开始的工具所针对的情形（[[roy-aila-lesson-planning-teacher-choices-2026|Roy 等，2026]]）。
 
@@ -77,7 +77,6 @@ Aila 试验为这一模式给出了一个备课时间的数字。在其随机化
 **把人工智能生成扎根于一个结构化的教学模型。** 人工智能内容的好坏只取决于它背后的教学结构 — 是显性结构而非人工智能熟练度决定质量。围绕一个公认的模型（ADDIE、Dick & Carey、快速原型）设计，并显式编码教学决策，而非依赖模型去推断它们。（[[courseblueprint-adaptive-video-generation]]）（[[jeon-isd-agent-bench-2026]]）（[[didactical-teacher-assistant-dimensional-modeling]]）
 
 **除了教学模型，还要采纳一个原则层面的框架。** 课程层面的模型结构一个设计；一个已发表的框架设定许多设计都应满足的标准。一个值得完整阅读的例子是 Digital Promise 的*Powerful Learning with Emerging Technology*，它把指导组织在三个原则之下 — 循证的、以学习者为中心的、建设技能的 — 每个都展开为实践与策略，并把[[privacy]]、[[explainable-ai|可解释性]]与公平附加到特定实践上，作为安全义务而非可选项。（[[powerful-learning-with-emerging-technology-2025]]）
-
 **把人工智能配置匹配到任务，而非匹配到复杂程度。** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko（2026）]]区分四个层 — 提示、情境、载体与已验证的循环 — 并应用一个最小充分层原则：使用能给出可验证结果的最不复杂配置，因为增加编排会带来协调、核验、隐私与理解的代价。
 
 **使用基于角色的多代理工作流进行内容生产。** 不用一个通用提示，而是编排不同的代理/角色（教学教师、教学设计者、课程协调者）通过一条明确的流水线协作 — 这镜像真实课程团队如何工作，并产出比单一提示更完整的材料。（[[instructional-agents-multi-agent-course-gen]]）（[[wang-multi-agent-systems-learning-designers-2025]]）

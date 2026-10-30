@@ -1,7 +1,7 @@
 ---
 title: 提取练习、间隔练习与交错练习
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,16 @@ ai_assist:
 - **工具与建模局限。** 语料库中的 [[knowledge-tracing|知识追踪]] 模型恰好在间隔决策需要它们的地方失效，作者把过去的成功归因于对全数据集的回顾式拟合，而非贴近部署的验证。双语伴侣的抽认卡质量未经与真实答案核对验证，没有自动事实核查层，而且它根本没有运行过结果研究。
 - **交错练习在此几乎没有直接证据。** 如上所述，语料库不包含分组与交错的对比，只有一项把 Interleaving 作为若干可选策略之一的模拟。
 - **被试群体与内容。** 证据基础集中于 [[higher-ed|高等教育]]、STEM 与统计材料，以及来自几何与多元回归内容的事实—技能区分；这些研究并未确立向 [[k-12|K-12]] 场景、[[humanities-education|人文与写作]]，以及非西方课堂的推广。
+
+## 常见误解
+
+**"更好的 AI 提问带来更好的保持。"** 它带来更好的作业。[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris（2026）]]发现更深的 LLM 提问改善了独立评分的任务质量（**β = 6.27, p = .006**），同时与**即时后测回忆呈零关联（β = −0.014, p = .728）**，回忆增益反而由基线知识驱动。制品的质量与记忆的持久性是不同的结果，更好的对话推动了前者而没有推动后者。
+
+**"有一种最好的练习格式。"** 格式取决于学的是什么。一项内容与处理的交互（**β = 0.41, p = .038, d = 0.38**）显示，**纯练习测验对事实产生更高增益**，而**整合示例的练习对技能产生更高增益**。对所有内容都规定提取练习，或对所有内容都规定示例讲解，会让一半材料被教错。
+
+**"提取练习就是小测，而任何小测都算数。"** 机制是从记忆中产出一个答案，而不是认出它，这正是多项选择的再认任务是同一活动较弱版本的原因。一个不断生成再认题项的 AI，生成的是名字正确、机制错误的练习活动。
+
+**"既然这些技术都被清楚规定，AI 就能忠实交付它们。"** 它也能悄悄破坏它们。间隔要求系统扣留它最有能力按需提供的材料，提取要求它不作答，因此这些技术的有效性依赖于一个随和的助手没有动机去施加的约束。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 过程导向评估
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-24T14:16:08-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [process-feedback, code-viva]
 contributors: [editor]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -60,11 +60,15 @@ ai_assist:
 
 把这些轴分开是重要的，因为混淆它们会使重新设计看起来已完成，而暴露仍在。Sharma（2026）提出了真实性与诚信导向设计之间的互补区分：真实性问的是任务是否映射有价值的实践，而诚信导向设计问的是学习者能否为其决策辩护并承担与学科标准相关的责任——这正是他提供的实践（带注释的决策轨迹、对 GenAI 贡献主张的核验、口头答辩、带版本历史的草稿差异）被选中的原因，它们以所 [[evaluative-judgment|判断]]的可辨识性被选择，而非以其真实性。Espino 与 Espino（2026）对 [[business-education|商业教育]]的十年综述从文献侧得出同样的设计结论，发现该领域正汇聚于真实的、过程可见的任务，它们要求解释、情境应用与迭代精炼，并把在不变的评估结构内部孤立地采用工具视为其最持久的失败。
 
+Salameh（2026）的 Fade-Visibility 矩阵把同一个设计问题与第二个变量相交，即 [[scaffolding|AI 支持是持续还是淡出]]，并点出多数课程的默认组合：从不淡出、且仅以其产品被评估的支持，即沉默依赖（[[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh，2026]]）。
+
 这一构念也可与证据如何被评分的问题区分开来。[[assessment-validity|效度]]推理是两者相遇之处：Brunnström 与 Palmqvist（2026）论证，当一个 [[conversational-ai|聊天机器人]]能产出看似合理的考试答案时，提交的产品成为学生学习情况的较弱指标——这是一个评估效度问题，而非仅是 [[academic-integrity|诚信]]问题。这与 Yan、Greiff、Lodge 与 Gašević 的 [[genai-performance-vs-learning|表现-对-学习]]论证中处于风险的推断是同一个：一旦援助撤除便缩水的 [[learning-gains|表现增益]]，显示增益存在于工具而非学习者中，而其提议的补救是过程测量，如 [[transfer-of-learning|保持与迁移测验]]，而非即时任务成功。
 
 ## 为何检测无法承担这一负载
 
 过程导向评估通常被提议为检测的替代方案，而关于检测的证据解释了原因。[[ai-detection|检测]]文献发现错误率、任务依赖性，以及针对非母语与残障写作者的模式化 [[bias-mitigation|偏差]]；最新的工作得出一个程序性结论：检测器分数可以促使更仔细的审查，但它本身不是一项发现。Munoz 等（2026）展示了这在实践中的代价。对 1,162 项生成式 AI 不当行为指控进行编码后，他们发现最强的证据类型由调查或督导产生，诸如草稿、督导会议与演示等过程证据只出现在那些实践已存在之处——因此在未重新设计的评估中，它干脆是缺失的——而检测器产出在所有类别中获得了最低的证据力评级。设计后果是排序：过程证据必须在案件需要它之前就存在，Weidlich（2026）关于何种推断处于风险的推理从效度侧得出同一点，因为试图通过检测恢复评估安全性的做法引入了与构念无关的变异，而非关于学习者的证据。
+
+评分规则的标准本身可以围绕轨迹重建。[[rubrics-genai-process-based-assessment-2026|Oviedo 与 Díaz（2026）]]把 Biggs 的 3P 模型读作三个评分维度：能动性与批判性监督、对话性脚手架与认知主权，因此被评分的是轨迹，而不是静态成果。
 
 ## 设计与工作量成本
 
@@ -75,6 +79,12 @@ ai_assist:
 ## 仍未解决的问题
 
 Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集、也没有实施试验，因此四项原则是被论证的而非被检验的，论文本身呼吁就 [[student-experience|学生体验]]、教育者工作量与长期可行性开展实证工作。可行性在不同情境间未被区分——向大型讲座、实验室、工作室或临床实习的迁移未被处理。Lane（2026）的立场论文指出了制度天花板：基于过程的评估被奖励精饰最终成果的评分与成绩单结构所削弱，因此单靠课堂重新设计并不改变激励。[[educational-measurement|测量]]也薄弱：Jin 等（2026）对 [[ai-literacy|AI 素养]]工具的综述呼吁基于表现的过程导向评估与对 [[prompt-engineering|提示]]及核验的行为痕迹测量，但报告现有工具依赖 [[self-report-measures|自陈]]。此处没有任何来源报告一个针对过程导向重新设计相对产品导向设计的 [[rct|对照试验]]，这使核心主张——过程证据既更难伪造也更易公平评判——只能从原则、实践者报告与案例文件证据加以论证，而非在大规模上得到证明。
+
+## 常见误解
+
+- **“高分意味着学生做了我们设计的作业。”** 轨迹可能与分数**直接背离**：在 **150 段学生与 AI 的对话**中，**41% 的作业分数恰为 1.00，而可观察的认知参与各不相同**。分数饱和，而本应产出它的过程没有。
+- **“过程数据在规模上无法管理。”** 要求的文档记录被证明在课程规模上可行：在 **六个学期的六周异步研究生研究方法课程、约 440 名 K-12 教师**中，检查点提交平均完成率为 96%。后勤是可解决的；这一反对意见高估了成本。
+- **“问题解决过于整体，无法按过程评估。”** 它可以被操作化为 **四个阶段与八个诊断性子技能**，使一个大语言模型能生成**针对特定阶段的问题与评分规则**，并在**五位教师与 64 名学生**中使用。分解正是让过程变得可读、可评估的东西。
 
 ## 关联概念
 
@@ -96,6 +106,7 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[equity-in-ai-education]]
 
 ## 关联文章
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — 一篇批判性叙事综述，主张默认的失效是永不淡出的 AI 支持与仅以产品评估相配（Salameh 2026）
 
 - [[alam-process-oriented-collaborative-essays-2026]] — 一份一年级学位学徒中的、有评分的协作过程论文：评分规则中包含迭代与协作，GenAI 在明确边界内被允许（Alam 与 Jackson 2026）
 - [[genai-performance-vs-learning]] — 表现不是学习：一个建立在过程测量上的研究议程（Yan 等 2026）
@@ -112,3 +123,4 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[epistemic-ownership-ai-mediated-education-2026]] — 相同的表现，不同的过程：AI 中介教育中的认识论所有权
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise：通过大语言模型生成的问题支持教师诊断学生的数学问题求解技能
 - [[packard-thinking-partner-framework-adult-learners-2026]] — 六个学期、约 440 名教师中，对 AI 对话的检查点文档记录保持 96% 的完成率
+- [[rubrics-genai-process-based-assessment-2026]] — 源自 Biggs 3P 模型的三个评分规则维度：能动性与监督、对话性脚手架、认知主权（Oviedo 与 Díaz 2026）

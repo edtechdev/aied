@@ -1,13 +1,13 @@
 ---
 title: 学习者建模与自适应教学
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:25-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,6 @@ ai_assist:
 隐藏的误解从另一侧显示出同样的失效：[[correct-answer-trap-misconceptions|Imran 与 Bulathwela（2026）]] 发现，一个微调过的分类器捕捉到 57.4% 经由 flawed 推理得出的正确答案，而在 1.6% 的患病率下，即便是一个 83.6% 准确的推理模型，每次检测也会留下 8 个假警报——因此基于正确性的掌握信号既不完整，修复起来又昂贵。
 
 **一个模型如何被验证，本身就是一个效度问题。** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan 与 Carvalho（2025）]] 表明，流行的学习者模型（BKT、BKT-with-Forgetting、AFM）只有在回溯拟合于完整的多会话数据集时，才看似捕捉到了人类学习；在基于时间（前向滚动）的交叉验证下——从更早的会话预测未来的会话，也就是这类模型实际的部署方式——它们会高估表现、错失 [[retrieval-spacing-interleaving|间隔效应]]，并对练习条件给出错误排序。由于带遗忘与不带遗忘的模型在各会话间表现大致相当，作者得出结论：遗忘往往被吸收进学习者参数之中，而非被真正表征。对该家族的教训是，一个忠实的表征必须按其被使用的方式来验证——把即时表现与长期保持混为一谈，会产出看起来准确却歪曲学习者的模型。
-
 [[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]] 从分类器一侧展示了同样的失效：从 153 名本科生的问题解决对话推断学习风格维度，在准确率上看似中等，直到按类别的召回率暴露出对主导标签的预测，其中 Intuitive 与 Global 学习者被系统性地识别不足，而少样本示例有时会放大多数类的偏差。
 
 ## LLM 时代的建模
@@ -111,6 +110,12 @@ ai_assist:
 ## 与其他概念的联系
 
 学习者建模与自适应教学汇入 [[learning-analytics]]（[[visualization|仪表盘]]与干预）、[[formative-assessment]]（由分析驱动的评估）与 [[feedback]]（系统告知学习者的内容）。它作为 AI 教育的一个核心支流与 [[ai-education]] 相连。
+
+## 常见误解
+
+- **"忠实的模型需要最复杂的方法。"** [[zhang-ml-student-progress-programming-2026|Zhang、Jeffries 与 Koprinska（2025）]]说明**忠实的表征并不需要最复杂**的方法。复杂度不是保真度的代理指标，一个捕捉到相关结构的更简单模型可以是更好的工具。
+- **"学习者模型需要轨迹数据。"** 一个预测性学习者模型可以建立在**注册的结构**之上，而非轨迹数据：TRACE 把每个学期编码为一组**无序的课程集合**，并据此预测。预测信号可以存在于机构的行政记录里。
+- **"情感状态需要生理感知。"** 一个数学辅导工具**从对话文本与面部表情推断情绪**，并把聚合状态映射到辅导策略。情感信号可以从学习者已经在产生的东西中恢复出来。
 
 ## 关联概念
 - [[learners]] — 学习者：学习者侧概念的总括

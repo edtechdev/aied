@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: 多模态人工智能
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:23-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ ai_assist:
 - **多模态情境中的[[ai-literacy|人工智能素养]]**是分层的：对多模态平台的基本觉察、中间的共创与对输出的[[critical-thinking|批判性评价]]，以及对多模态活动与评估的高级设计。（[[multimodal-learning-genai]]）
 - **多模态提示**本身是一项要求很高的认识论实践。为图像与文本都进行提示的学生发现，“为文本提示与为图片提示之间的提示素养是不同的” — 把抽象意义转译为机器可读的多模态提示，需要精确的视觉词汇，并暴露系统局限与偏差。（[[multimodal-prompting-ai-literacy]]）
 - **多模态评估**从论文转向结合文本、图像、音频与视频的制品，教育者用人工智能来[[scaffolding|搭建]]创作与反馈的支架，而非取代学习者自己的产出。（[[multimodal-learning-genai]]）
+
+- **模态选择是一种教育判断，而不是一个容器。** [[elkington-human-centred-assessment-value-2026|Elkington（2026）]]论证，在书面、口头、数字与多模态格式之间选择，决定了对学习者而言什么成为可能、对评估者而言什么变得可见，并把受控的模态选择算作一种生成性约束，而非行政细节。
 - **学习者多模态创作作为批判性思维支架带有一种权衡。** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu 等人（2027）]]表明，让小学生把书面叙事转为人工智能生成的图像与短视频，支持了解释、分析、评价与解释方面的持续增益 — 却没有支持推断。因为视觉使故事意义显性化，学生报告对仅从文本推断隐含意义的需求降低；是同侪协作而非多模态工具恢复了推断的场合。多模态人工智能作为意义建构伙伴的价值因维度而异，并取决于刻意重新引入那种外部化可能短路掉的推断性与[[self-regulated-learning|自我调节]]工作的[[learning-design|教学设计]]。
 - **学习者多模态[[writing-education|创作]]作为批判性人工智能素养。** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss 等人（2026）]]分析了 22 名十一年级学生就自选的人工智能[[ethics]]议题 — 经由学校监管的笔记本电脑与电子“通行证”的监控、[[privacy|知情同意]]、惩罚性的算法指控 — 制作的 90 秒到 3 分钟视频公益广告，把它们当作经由活动图像、声音、文本与学生自己的身体创作而施行的[[ai-literacy|批判性人工智能素养]]。在全部七部影片中，伤害被描绘为从人—机器纠缠中涌现而非仅从工具涌现（一部被拟人化的“人工智能跟踪者”在七部中的三部由真人演员扮演），而 18 份单元结束回应中有 15 份说创作改变了他们对人工智能伦理的理解。作者论证，多模态制品既*展示*又*传达*批判性能力 — 生产性制品、反思与公民话语可以充当[[assessment]]证据，这是纯文本素养在结构上会漏掉的东西。
 
@@ -91,6 +93,16 @@ ai_assist:
 5. **留意公平与隐私。** 图像密集问题上不可靠的支持与多模态感知的数据需求，都带有公平与隐私含义。（[[syal-multimodal-dialogue-stem-2026]]）（[[privacy-aware-classroom-incident-recognition-2026]]）
 6. **把流水线匹配到内容。** 一个网络安全实验室助手的多模态大语言模型更好地处理了密集视觉幻灯片，而一个 OCR 加大语言模型流水线在以文本为中心的幻灯片上提供了可比的指导价值，计算成本却显著更低。（[[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel 等人（2025）]]）
 
+## 常见误解
+
+**"多模态模型能处理多模态问题。"** 当意义由图形而非文本承载时，准确率急剧下降。一个[[physics-education|物理]]导师在基于文本的问题上约 **96%** 的时间答对，但在意义嵌于图表的问题上降到约 **74%**，这就是**多模态干扰效应**。二十二个百分点的能力恰好在学科内容所在之处消失。
+
+**"在提示里加一张图就能解决图表问题。"** 输入模态不是瓶颈，干扰才是。一个收到了图表却仍从周围文字推理的模型，是被交给了信息却没有使用它，这正是除非有人比较两种题目格式、否则这一失败不可见的原因。
+
+**"多模态能力是一架单一的梯子，因此总体最强的模型就是图像密集任务上最好的模型。"** 能力是任务特定的，一个在通用基准上领先的模型可能在受力图上落后。对图像密集的学科而言，相关的检验是那个意义嵌于图形之中的检验。
+
+**"纯文本辅导的局限是麻烦，而不是课程问题。"** 在图形*就是*问题的学科里，即物理、化学、几何、工程与医学，纯文本导师的能力边界落在被评估的内容之内，而非其边缘。
+
 ## 关联概念
 
 - [[generative-ai]]
@@ -119,6 +131,8 @@ ai_assist:
 - [[arts-design-and-media-education]]
 
 ## 关联文章
+
+- [[elkington-human-centred-assessment-value-2026]] — 以人为本的评估、装配体与生成性约束（Elkington 2026）
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — 以视频公益广告创作作为批判性人工智能素养教学法（Burriss 等人 2026）
 - [[student-attention-estimation-fairness-2026]] — 面向实时学生注意力估计的公平性感知多模态 Transformer 建模

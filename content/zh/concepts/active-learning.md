@@ -1,7 +1,7 @@
 ---
 title: 主动学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,13 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 主动学习与 [[collaborative-learning]]（许多主动学习是社会的）、[[learning-by-teaching]]（向他人解释是最主动的）、[[project-based-learning]] 与 [[experiential-learning]]（在真实情境中做中学）、[[embodied-learning]]（身体参与）、[[game-based-learning]] 以及 [[simulation]] 深度相连。它依赖 [[scaffolding]] 与及时的 [[feedback]]，并在 AI 替代努力时受 [[cognitive-offloading|过度依赖]]威胁。它扎根于 [[constructivist]] 与 [[learning-theories]]，横跨 [[higher-ed]]、[[k-12]] 与 [[stem-education]]。
 
 主动学习是 AI 时代 [[learning-gains|学习增益]]上最强的杠杆之一。因为主动策略通过费力的做事来构建理解，它们最抗 AI 的短路——而本知识库的证据表明，保住这种努力保护持久学习，让 AI 吸收它则侵蚀之（[[generative-ai-reduced-study-time-math|学习时间减少]]、[[stromberg-generative-ai-learning-penalty-secondary-2026|学习惩罚]]、[[lak2026-hint-button-unproductive-use|提示滥用]]）。把主动学习设计与 [[learning-gains|测量到的增益]]配对于无辅助结果的教师，能最清楚地看到 AI 辅助的活动是否真的改善了学习。
+
+## 常见误解
+
+- **“把 AI 放进活动里就使它成为主动的。”** 一项 EEG 研究发现，**学生与 AI 的互动式协作产生了最高的认知参与，而完全自动化降低了它**。参与来自互动，而非 AI 的在场；把学习者那一部分工作自动化，把参与推向了错误的方向。
+- **“AI 支持的探究自动就是更高阶的。”** 一项对 **120 名八年级学生**的准实验发现，AI 支持的[[inquiry-based-learning|探究式学习]]提高了创造性数学表现，**同时**也只在更窄的一项测量上有所提高：处理改变了部分结果，而非全部。与一个高阶标签相关，并不等于是一项高阶任务。
+- **“让学生设计教学是一种技术练习。”** 在那项倒置研究中，一门 700 名学生的课程里有 **345 名学生**各自设计一个对话式智能体，向同伴讲授三种设计模式。主动学习来自设计工作，而那是教学推理，不是提示工程。
+- **“参与的发现就是学习的发现。”** 同一证据基础告诫，**无对照组、志愿者样本**的设计只支持关于参与的论断。学生珍视开放式设计自由（**22.3%** 为最高频正面主题），最常抱怨的是指示不清（**23.7%**），两者都关乎体验。
 
 ## 关联概念
 

@@ -1,13 +1,13 @@
 ---
 title: "学科中的 AIED"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ ai_assist:
 
 ## 本知识库所代表的学科
 
-本知识库最强的学科专用覆盖在广义的 **[[stem-education|STEM]]** —— 特别是 **[[math-education|数学教育]]**、**[[physics-education|物理教育]]**、**[[chemistry-education|化学教育]]**、**[[biology-education|生物教育]]** 与 **[[cs-education|计算机科学教育]]** —— 其次是 **[[writing-education|写作教育]]**、**[[language-learning|语言学习]]**（含一条独立的 **[[english-education|英语教育]]** strand 面向 EAP/EFL/ESL），以及较近期的 **[[engineering-education|工程教育]]**、**[[teacher-education|教师教育]]**（有大量职前与在职 AI 培训研究）、**[[medical-education|医学教育]]** 与 **[[humanities-education|人文教育]]**。工程与设计也有不断增长的文章体量。这种集中度追踪着更广的文献：[[xia-ai-interdisciplinary-higher-education-review-2026|Xia 等人（2026）]] 的综述发现，STEM 是 AI 支持的高等教育中最常见的跨学科形式（n = 26），远超非 STEM 领域（n = 10）与 STEAM（n = 2）—— 这是一个学科层面的告诫：教育 AI 的证据在计算工具最易嵌入之处积累最快，而不一定在 AI 的教学价值最大之处。最新的补充把这一 strand 从学科科目拓宽进专业与应用教育 —— [[nursing-education|护理]]、[[information-technology|信息技术]] 与 [[vocational-education|职业教育与培训]] —— 那里学习者被按已演示的实践（而非正确性）评估，且定义何谓能力的是雇主与执照机构，而不只是学界。
+本知识库最强的学科专用覆盖在广义的 **[[stem-education|STEM]]** 领域，特别是 **[[math-education|数学教育]]**、**[[physics-education|物理教育]]**、**[[chemistry-education|化学教育]]**、**[[biology-education|生物教育]]** 与 **[[cs-education|计算机科学教育]]**；其次是 **[[statistics-and-data-science-education|统计与数据科学教育]]**，这条 strand 与数学不同，因为它的标志性教学法是数据探究，而不是朝一个既定答案推理。这条 strand 自身的设计问题有一例：[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] 用智能体流水线生成与情境匹配的合成数据集，这解决的是统计课程所需的材料，而不是对材料的解释；而按作者自己的说法，它无法教授数据收集、测量或研究设计。再次是 **[[writing-education|写作教育]]**、**[[language-learning|语言学习]]**（含一条独立的 **[[english-education|英语教育]]** 脉络，面向 EAP/EFL/ESL），以及较近期的 **[[engineering-education|工程教育]]**、**[[teacher-education|教师教育]]**（有大量职前与在职 AI 培训研究）、**[[medical-education|医学教育]]** 与 **[[humanities-education|人文教育]]**。工程与设计也有不断增长的文章体量。这种集中度追踪着更广的文献：[[xia-ai-interdisciplinary-higher-education-review-2026|Xia 等（2026）]]的综述发现，STEM 是 AI 支持的高等教育中最常见的跨学科形式（n = 26），远超非 STEM 领域（n = 10）与 STEAM（n = 2）。这是一个学科层面的告诫：教育 AI 的证据在计算工具最易嵌入之处积累最快，而不一定在 AI 的教学价值最大之处。最新的补充把这一 strand 从学科科目拓宽进专业与应用教育：[[nursing-education|护理]]、[[information-technology|信息技术]] 与 [[vocational-education|职业教育与培训]]。那里学习者被按已演示的实践（而非正确性）评估，且定义何谓能力的是雇主与执照机构，而不只是学界。
 
 职业教育 strand 是那份证据中最薄的：一项对职业教育与培训 26 项研究的系统综述发现，尽管职业教育与培训以工作为本，却无一项在工作场所情境中进行，只有五项随机实验，只有三项设计赋予学习者主动角色（[[ai-vocational-education-training-review|Deutscher 等人（2026）]]）。
 
@@ -99,6 +99,12 @@ ai_assist:
 - **艺术（视觉艺术、设计、音乐）** —— 新兴覆盖：[[ai-interior-design-malaysia-2026|室内设计教育中的 AI]]、[[genai-architectural-design-studios|建筑设计工作室中的生成式 AI]]、[[ai-vocal-pedagogy-2026|AI 声乐教学法]]、[[musical-education-ai-digital-transformation-2026|音乐教育中的 AI]]、[[t2i-competence-paradox-2026|文生图能力悖论]]。这份清单中的设计侧研究如今有了自己的家：[[design-education|设计教育]] 把建筑、室内设计与文生图的工作室研究吸纳进一个关于专业设计形成的页面，留下视觉艺术、音乐与表演作为稀薄的剩余部分。
 
 这些代表性不足的学科将受益于专门的概念页与随知识库增长而追加的文章纳入。
+
+## 常见误解
+
+- **"学科主要只影响内容例子。"** 一项覆盖 **560 名学生**的研究发现，学科归属**预测学生使用**[[generative-ai|生成式 AI]] 的**频率与公开程度**。学科决定工具是否被使用、使用是否被披露，而不只决定问它什么。
+- **"跨学科是一个通用的机构目标。"** **"跨学科"的形态本身由学科决定**：[[xia-ai-interdisciplinary-higher-education-review-2026|Xia 等（2026）]]的[[meta-analysis-systematic-review|综述]]发现它采取的形式因领域而异。单一机构定义至少会误读它所覆盖的部分学科。
+- **"职业教育拥有与学术学科相当的研究基础。"** 职业教育 strand **是那份证据中最薄的**：一项对职业教育与培训 **26 项研究**的系统综述发现**无一项在工作场所情境中进行**，而那正是能力实际被运用的情境。文献的缺席是一个缺口，而不是零结果。
 
 ## 关联概念
 

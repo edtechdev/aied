@@ -1,7 +1,7 @@
 ---
 title: 理论与框架
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-24T17:15:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -116,6 +116,16 @@ ai_assist:
 框架不是证据。它们通常从 LLM 之前的语境中借来，由应用者本地化，可以充当品牌，而阶段模型会招致打勾式的采纳——报告的是沿级别的移动而非学习。凡依托框架的论断，都应结合[[limitations-in-aied-research|该领域贯穿性的局限]]、测量了结果的那个工具的[[assessment-validity|效度]]，以及[[self-report-measures|自陈]]的已知限度来读。
 
 机制—理论的一致性仍可能是决定性的：一项对 55 项 AI 支持的游戏化学习研究的主题综述发现，有效性取决于 AI 机制是否落实了它本应服务的教学法，而非算法复杂度（[[ai-game-based-learning-systematic-review-2026|Kaşarcı 与 Yurt（2026）]]）。
+
+## 常见误解
+
+**"把借来的理论套用到一件 AI 工具上，就是在运用理论。"** 本领域的大量工作是应用借来的理论，而非检验它，区别在于该框架是否做出了一个可能失败的预测。当一项研究在某个框架的名号下报告增益，却未承诺任何可证伪的预测时，关于该框架什么也没有学到：一个与目录中每种理论都相符的结果，不支持其中任何一种。
+
+**"一个框架的价值在于它能否很好地描述你已经建成的系统。"** 那是事后贴标签。一套能容纳任何设计的分类法没有区分力，这正是描述性框架应当以其排除了什么来评判的原因。评估的问题不是"我的系统符合它吗"，而是"这个框架会说哪种系统是错的"。
+
+**"学习理论、学习者模型与采纳框架是可以互换的透镜。"** 它们回答不同的问题：学习如何发生、学习者的状态是什么、一种实践为何扩散，其证据类型也相应不同。选错层次会产出一项用正确变量去对上错误预测的研究，读起来像零结果，实则是范畴错误。
+
+**"框架越多，领域越成熟。"** 特为 AI 时代造出来的框架积累的速度快于被检验的速度，而没有证伪的积累是症状而非进步。成熟表现为相互竞争的预测被解决，而不是词汇的增长。
 
 ## 关联概念
 

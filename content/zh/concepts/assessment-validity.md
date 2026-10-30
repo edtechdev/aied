@@ -1,7 +1,7 @@
 ---
 title: 评估效度
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:00:37-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-23T08:05:20-04:00"
+source_updated: "2026-10-28T19:00:37-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -94,6 +94,8 @@ ai_assist:
 
 **当人工智能生成受评对象时。** [[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot 与 Nanthaamornphong（2026）]]给出了效度问题最锐利的学科案例：在[[cs-education|计算教育]]中，人工智能产出的是被评分的对象 — 源代码 — 因此工具使用、学习与评估融合为单一互动，提交的代码库不再能把学习与委托区分开。在 72 项研究中，他们发现效率提升并未迁移到无辅助表现（21 项研究）、[[prior-knowledge]]调节人工智能帮助是否转化为技能（6 项研究）、检测研究实质上缺席于证据基础（3 项研究），而评估重新设计则有相对充分的证据（25 项研究）。他们对实践的结论是具体且低技术的：在每门课程中至少为一项高风险评估加入口头环节或其他过程可见的元素 — 这是综述中杠杆最高的单一干预 — 并要求把对人工智能输出的批判性[[student-engagement|参与]]作为可评分的、可观察的组成部分，而非可选的倾向（[[academic-integrity]]、[[assessment]]）。
 
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti 等（2026）]]在路易斯安那州八个教区的 34 名教师与 609 名学生中，复制并扩展了 eRevise 的效度论证，eRevise 是一个面向小学高年级论证写作的自动写作评价系统，检验的是同一组社会文化机制是否在三种不同的写作结果上成立，而不是只在一种上成立。
+
 ## 信息不完备下的效度
 
 最新的重新框定把生成式人工智能问题当作证据问题来处理。学生知道一件作品是如何产出的；机构观察到的是作品，至多还有过程的部分痕迹 — 这一“产物—过程差距”被[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed 与 Temimi（2026）]]形式化为信息不完备下的评估效度。
@@ -115,9 +117,18 @@ ai_assist:
 - **模型规模不是评估效度的替代物。** 在四个模型族、114 篇已评论文、八种配置上，精确分数段一致性从 18.4% 到 54.4%，且跟随模型族而非参数量 — 最大的模型 GPT-OSS 120B 少评了 1.316 个分数段，而温度并不能补救（[[llm-grade-bands-calibration-bias-2026|Kerwat 等人（2026）]]）。
 - **一致性与基准错误冒充为学习。** 两项 2026 年研究表明，分数可以通过两条不同路径看起来有效，却确立了别的东西。一项开放式营销写作研究发现，大语言模型—人类绝对一致性仅为 ICC(2,1) .435，而混合方法显著比单独的大语言模型更差，锚定[[writing-education|作文]]使一致性从 .338 移到 .902（[[automated-scoring-marketing-posts-agreement-2026]]）。一项对六个物理基准的专家审计把受审计拒绝中的 95.20% 归因于有缺陷的题目或评分者而非模型错误，使 CritPt mean@5 从 32.29% 移到 87.50%（[[frontier-models-physics-benchmark-audit-2026]]）。在这两种情形中，威胁都是被评模型之外的与构念无关变异。
 - **大语言模型编码者之间的一致是一致性，不是效度。** 在一个专家标注的教育对话语料上，一个跨模型一致性过滤器只保留了 74 个语料派生行为断言中的 33 个和 48 个构念派生断言中的 11 个，且共享的模型错误通过了过滤器，因此模型间一致性不能替代构念效度（[[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado 等人（2026）]]）。
+- **自动情感标签是一项测量主张，而不是一种描述。** 在 1,220 条开放式学生调查回答上，最好的现成情感工具（BERT-nlptown）只达到与人工编码的中等一致（κ = .42），而词典工具因词汇覆盖不足误分类了约 20% 的回答（[[aalhe-ai-sentiment-analysis-student-voice-2026|You 与 Horissian，2026]]）。情感标签是一个测量结果，因此分类错误是一项效度威胁，而不是一个调参问题。
+- **污染是聚合数据所掩盖的效度威胁。** 当学生用 AI 完成受评功课时，量规平均分的上升是关于工具的证据，而不是关于学习的证据，而一个模型给一个模型的输出评分是“一面镜子的厅堂”，而不是评估（[[aalhe-genai-assessment-continuous-improvement-2026|Jenkins 与 de Mello-e-Souza Wildermuth，2026]]）。作者指出，污染在项目通常使用的聚合数据中不可见。
 - **暴露是可测量的，而补救是充分的证据而非最大的安全。** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]按已发布的格式、监考与分数权重为 53,915 个评估题打分，发现大多数受评分数依赖于其作者身份在提交后无法核验的作品；他认为项目需要在关键阶段有足够的学习证据，而非把每个单元都变得安全。
+- **一个模型可以预测试题目，并暴露教师审阅遗漏的缺陷。** 一所机构让一个企业 AI 平台在施测前回答考题，然后把它的推理与预期构念和预设答案比较（[[aalhe-ai-co-designer-feedback-partner-2026|Ford、Helms 与 Moseley，2026]]）。这一练习暴露了模糊措辞、多个可能答案、非预期线索，以及预设答案无法被清楚辩护的题目。作者把这一回答当作重新审视题目的提示，而不是题目有缺陷的证明。
 - **有效的测量仍可能不安全地被优化。** 针对规则风格的适应性指标微调一个大语言模型导师，使该指标上升（+0 到 +0.42），而盲专家评分下降（4.46 到 3.03），因为独立地给决策打分的指标会被“重复单一最佳决策”最大化（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo 与 Fernández De la Cruz（2026）]]）。
 - **嵌入的几何结构不是评分规则的区分。** 在五种文本表示与九种嵌入机制下，针对 992 份手写物理解答，[[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber 与 Kortemeyer（2026）]]报告了与人类分数的最佳加权 Spearman 相关为 0.198，且聚类是分数富集的，而非分数等价的。
+
+## 常见误解
+
+- **“LLM 评分偏差是放弃它的理由。”** 在一项**大规模全国写作评估**中，一个 LLM 评分者表现出**系统性的保守（低评）偏差**，作为最终分数有问题，而**作为筛选信号可能有用**。方向已知的偏差与不可预测的偏差是不同的工具。
+- **“AI 之后的分数膨胀只是猜测。”** 在一项**覆盖 319 门课程、500,000 多份成绩（2018-2025）的双重差分研究**中，AI 暴露任务更多（写作、编程）的课程**A 等级占比上升**。效应集中在任务暴露之处。
+- **“教师已广泛采纳 AI。”** **62.4%（53 人）**完全拒绝使用生成式 AI，而采纳者的使用**主要局限于校对（43.8%）与清晰度检查（34.4%）**。这一采纳模式既谨慎又狭窄，它改变了效度论证需要覆盖的范围。
 
 ## 关联概念
 

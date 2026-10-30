@@ -1,7 +1,7 @@
 ---
 title: 教育测量
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:39:20-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -132,6 +132,12 @@ AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基
 
 教育测量是[[item-response-theory]]、[[assessment-validity]]、[[knowledge-tracing]]与[[student-modeling]]的基础。它连接到[[learning-analytics]]（对学习数据的测量）、[[educational-nlp]]（测量语言）与[[psychometrically-aware-ai]]（与测量理论一致的 AI）。它的效度与信度关切支撑着[[ai-ed-evaluation]]以及该领域的[[limitations-in-aied-research|测量局限]]。就它所测量的构念而言，它与[[ai-literacy]]、[[technology-acceptance-model]]、[[self-efficacy]]、[[motivation]]和[[student-engagement]]相交。
 - **支持性干预的因果建模（2026）：** 一个结构因果建模方案把教育测评从关联式的项目反应理论信念更新，推向干预式与反事实推理（例如提示的效果），其结构方程由专家用纯粹逻辑的信息引出，并在义务教育阶段的算法技能任务上示例说明（[[causal-modeling-competency-assessment-2026]]）。
+
+## 常见误解
+
+- **"模型能够估计题目难度。"** 四个前沿模型在 **2,548 道数学题**上与 **IRT 基准真值**对照评分：它们在**相对难度**上达到 **68.6%**，但在绝对校准上**低于随机水平**。排序与校准是两种不同的能力，而评估设计需要的是后者。
+- **"一个分类标签能预测题目有多难。"** 在 **265 道数学题**中，预期的布鲁姆层级所解释的难度方差**不足 5%**。用布鲁姆层级给题目贴标签，几乎说明不了它的经验难度。
+- **"题目质量靠措辞来判断。"** **应当依据解题路径、而非措辞来评判生成的题目**：编码每道题**经验证的推理树**，其表现以明显幅度超过次优方法。承载信号的是推理结构，而不是表层文本。
 
 ## 关联概念
 

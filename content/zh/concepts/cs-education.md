@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: 计算机科学教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T14:41:30-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-24T08:54:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,7 @@ ai_assist:
 
 - **从生产到判断：理解债与 AASEE。** [[judgment-centred-software-engineering-education-2026|Mahmoud（2026）]] 论证该领域应从生产中心模型转向判断中心模型，并把理解债 —— AI 辅助的生产超出学习者解释、测试、修改与论证软件能力时产生的递延学习与维护成本 —— 扩展为一个 [[assessment|评估]] 透镜，奠基于 207 名学生的 621 篇反思日记。该综述把 AASEE 框架精炼为五个非线性整合层级，横跨四项证据义务 —— 解释、验证、修改与交代 —— 并报告一个有条件的证据基础：一项异质性极端（I² = 96.32%）的 STEM [[meta-analysis-systematic-review|元分析]] 在纠正发表偏倚后失去合并收益，而对 76、72 与 64 项研究的综合显示短期效率收益并不能 [[transfer-of-learning|迁移]] 到无辅助表现。
 - **新教学法与评估模型：** [[test-driven-ai-assisted-learning|测试驱动的 AI 辅助学习]] 以 [[self-directed-learning|自主的]] AI 辅助学习取代讲座，以每周闭卷测试把关，在 AI 智能体于 [[human-in-the-loop-ai|人类监督]] 下规模化材料生产与评分的同时保住个体问责。
+- **口试作为问责机制。** 一个项目式的 AI 工程专业让二年级学生经历了七个为期两周的冲刺，把 AI 嵌入需求、架构、编码与测试，并在三轮之后发现仅凭制品已无法证明理解，于是把个人口试设为强制；平均未获学分从 25% 降到 3%（[[project-based-ai-engineering-curriculum-agile-2026|Rausch（2026）]]）。
 - **离线教模型的机理。** 一套从业者资源套件不插电地教授完整的大语言模型"训练→生成"管线 —— 手记的 n-gram 网格与基于骰子的抽样，不预设编程或数学 —— 并报告已交付给约 400 名参与者，参与感从生成阶段才真正开始（[[llms-unplugged-teaching-resources-2026|Swift（2026）]]）。
 - **什么预测 [[vibe-coding|vibe coding]] 的成功 —— 以及什么仍该教：** 一项对纯"无代码"vibe coding 的 [[vibe-coding-writing-cs-achievement-2026|预注册 CHI 2026 研究（N=100）]] 发现，计算机科学成就（r = .39）与书面沟通能力（r = .29）独立预测表现，且 CS 成就在控制一般领域认知能力后依然显著，贡献的独特方差约为写作技能的两倍。由于环境隐藏了生成代码，CS 知识只能间接帮助（问题分解、算法思维）—— 这使 CS 估计成为也允许编辑的 AI 辅助工作流的 *下限*。作者论证课程应把书面沟通与 CS 基础同等权衡，而非把 vibe coding 当作已被淘汰的语法熟练度。
 
@@ -131,6 +132,13 @@ ai_assist:
 - **把课程转向验证与智能体指挥。** 随着生成式 AI 把实现自动化，教理解/验证 AI 制品（[[reshaping-cs-education-genai|重塑课程]]）与结构化的智能体式软件工程技能（[[ase-26-agentic-software-engineering-curriculum|ASE-26]]）。
 - **为所有学习者结构化协作。** 更小且稳定的团队、明确角色与 AI 使用透明度支持 [[neurodiversity|神经多样的]] 学生与公平协作，尤其在对 AI 使用信念不一致而拉低小组分数之处。
 - **编程错误的大语言模型自适应解释（2026）：** 一项众包研究（N=103）发现大语言模型改写的错误信息提升可读性，但客观调试表现取决于把解释风格（实用型 对 或然型）与程序员技能匹配 —— 这是 AI 辅助编程教育的一条支架洞见（[[llm-adaptive-programming-error-explanations-2026]]）。
+- **监督关乎适切，而非正确（2026）：** 在对 145 名一年级软件工程学生的 962 个学生与 AI 话轮进行编码后，[[novice-se-students-oversight-genai-2026|Shakiba 与 Chaffey（2026）]] 发现 74.4% 的介入指出的是适切性问题，指出正确性问题的占 16.9%，且有 51.0% 的回应修改的是输出而不是提示。
+
+## 常见误解
+
+- **“与 AI 结对编程的学生是在学习编程。”** 在学生与 AI 协同编程中，**近 80% 的互动依赖外包答案这类非学习策略**，只有**约九分之一表现出深度的认识论**参与。主导模式是为产出而交易。
+- **“面向新手的对话式智能体奠基于学习理论。”** **23 项研究中只有 4 项把设计奠基于 [[learning-theories|学习理论]]**，因此多数证据基础记录的是一个系统做了什么，而没有一套解释它为何应当有效的理论。
+- **“工具文献反映了该领域的全球分布。”** **23 个原型中有 17 个只有英文，尽管多数研究源自**非英语情境。原型所服务的人群比研究更窄。
 
 ## 关联概念
 
@@ -211,3 +219,4 @@ ai_assist:
 - [[educator-guided-llm-pedagogical-agent-2026]] — 面向概念数据库设计的教师编写分级反馈：隐藏诊断、受控披露、383 个 episode 中 71.1% 达目标层级
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair：面向程序调试与误解修复的规划引导苏格拉底辅导
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — 浏览器大小的智能体：用于工具增强 AI 辅助编程教育的小语言模型与 WebLLM
+- [[novice-se-students-oversight-genai-2026]] — 超越正确性：新手软件工程学生如何对生成式 AI 行使监督（Shakiba and Chaffey 2026）

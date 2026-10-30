@@ -1,7 +1,7 @@
 ---
 title: 生产性失败
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-24T15:19:27-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,15 +51,12 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 生产性失败处于一个更宽泛的、以错误为中心的学习理论家族之内，本概念页涵盖这些相关思想：
 
 ### 从错误中学习
-
 含错加工能辅助保持与概念转变，尤其在学习者有机会反思并重组其理解时（Kapur, 2008; Schwartz & Martin, 2004）。在 AI 时代，这落实于学习者诊断并纠正自己的错误而非接受直接纠正的系统——例如[[lukesova-clue-before-correction-2026|线索先于纠正]]的任务，其中 AI 给出引导性提示、学习者推断出正确解法，降低认知负荷并支持自主修订。精细加工式反馈产生的[[learning-gains|学习增益]]显著高于仅做核实的反馈（Hattie & Timperley），且反馈的时机很要紧。
 
 ### 失误与错误之别
-
 一个有用的区分：**失误**通常是失手或过失（常因粗心或负荷过重），其诊断价值有限，而**错误**反映真正的误解或有缺陷的推理，是更有生产性的学习材料，因为它揭示了一个可被处理的误解。错误分析——识别一个答案*为什么*错——是"从错误中学习"的核心，也是一项关键的[[pedagogy|教学法]]技能（以及[[ai-feedback-quality|AI 反馈]]设计的一个目标）。
 
 ### 纠正性反馈的作用
-
 从错误中学习依赖能帮助学习者看清错在哪、为何错的反馈。基于线索与精细加工的反馈（把学习者引向纠正）比直接给出正确答案更有效——这一洞察把[[feedback|反馈]]理论直接与生产性失败设计、以及与[[intelligent-tutoring|AI 辅导系统]]应如何回应学生的错误连在一起。
 
 ## 生产性失败与教育中的 AI
@@ -93,6 +90,12 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 ## 与相关概念的关联
 
 生产性失败与[[learning-theories|学习理论]]（建构主义）、[[desirable-difficulties|合意难度]]（珍视学习中的困难）、[[problem-based-learning|问题式学习]]与[[inquiry-based-learning|探究式学习]]（学习者驱动的问题解决）、[[metacognition|元认知]]（对自己尝试的反思）、[[cognitive-offloading|认知卸载]]（AI 抹除挣扎的风险）、[[scaffolding|脚手架]]（保全努力的支持）、[[feedback|反馈]]（精细加工的、纠正性的）、[[prior-knowledge|先备知识]]（激活与分化）、[[transfer-of-learning|迁移]]（持久的结果）以及[[socratic-method|苏格拉底式教学法]]（以提问激发推理）相连。在 AI 时代它是一个核心的评价透镜：AI 的帮助方式是否保全了持久学习赖以建立的那段挣扎？
+
+## 常见误解
+
+- **“保留帮助会挫败学习者并损耗动机。”** 一项三臂[[rct|RCT]]发现，保留提示的辅导者在降低挫败上与不受限的 ChatGPT **相当，在动机上也相当**，代价**只出现在偏好**上。学习者没有那么享受它，也没有因此受损，这意味着偏好数据本来会否决那个奏效的设计。
+- **“更多挫败意味着更多学习。”** 渐进升级的辅导者比“按请求作答”的辅导者**高出 0.42 个量表点的挫败感（p < .001），比**最令人挫败的臂低 0.29。生产性的区间是一个中间地带，而不是最大值，因此“合意难度”并不许可无限地把任务变难。
+- **“生产性失败意味着教师不应提供帮助。”** 该设计保留的是*答案*，同时提供结构与升级。保留一个提示与保留支持是不同的干预，而这里唯一有证据的是前者。
 
 ## 关联概念
 

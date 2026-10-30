@@ -1,13 +1,13 @@
 ---
 title: 教育NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T15:15:15-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-23T08:05:20-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,12 @@ ai_assist:
 嵌入也可以按表层形式而非按所教的构念来组织学生文本。在一个合成的卡诺热机题集上，同一条流水线按措辞而非按物理对陈述进行分组，[[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] 认为这是一种类似新手的表征，这使聚类成为一种探索工具，而非评分工具。
 
 模型压缩属于同一套工具箱：一个两阶段流水线把一个拟合好的黑盒估计器及其事后解释蒸馏成小型开放权重模型，使一个 2B 参数的"mentee"能在普通笔记本上离线返回估计与自然语言解释（[[distilling-self-explaining-lm-learning-analytics-2026]]）。
+
+## 常见误解
+
+- **“语义相似度可以筛选课程对齐。”** 在筛选 **3,837 对牙科目标与摘要**时，嵌入检索加一项自然语言推断检查，把 **22.9% 的条目**判为对齐：语义相似度是对齐的**弱信号**。流畅的主题匹配与真正的学习目标匹配，是两种不同的关系。
+- **“话语级分类是自然的单位。”** **整课建模胜过话语级分类**：对整个转录评分而非对孤立话语评分，把推理链检出率**提高了 14.2 个百分点**。跨越整课的上下文携带了任何单一回合都会破坏的信息。
+- **“把 NLP 规模化地用于评价评论就能产生影响力。”** 一项 PRISMA-ScR 范围综述与证据地图覆盖 **421 项研究**（2015-2026），它们把 NLP 应用于开放式的教学学生评价，发现规模化**没有抵达使用**。方法输出的数量不是采纳，缺口在部署环节，而非建模。
 
 ## 关联概念
 

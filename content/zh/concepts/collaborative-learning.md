@@ -1,7 +1,7 @@
 ---
 title: 协作学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T14:38:58-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,6 @@ ai_assist:
 **GenAI 作为小组协调的基础设施 —— 以及合作被抹平的风险。**[[chen-zou-genai-group-assessment-agency-2026|Chen 与 Zou（2026）]]**展示了十五个职前教师小组在一个计入成绩的小组汇报中如何处理 GenAI，其分化与“小组压力增加 AI 依赖”这一通常假设相反。五个小组为解决一个熟悉的协作问题而加剧了使用 —— 不知道同伴的部分写了什么 —— 把这项工作交给聊天机器人使其变得可理解，并对齐自己的部分，有一个小组把它的循环重构为*讨论 → 外化给 GenAI → 集体复核 → 再讨论*。作者把这读作不只是[[cognitive-offloading|认知外包]]，因为学生保留了判断、而工具吸收了协调，但警告更顺畅的工作流可能绕过分歧，而凝聚力传统上正是经由分歧建构的，这使关系性劳动成为一个开放问题。七个小组反而削减了 GenAI 使用，以保护在共享课堂中建构的[[situated-learning|情境化]]知识（“AI 只知道你打字那一刻”）、对同伴的[[bias-mitigation|公平]]、跨小组的原创性，以及小组已经持有的视角多样性。三个小组完全没变：任务被分割为独立部分时，个人层面精熟的 GenAI 实践从未变成集体能力，尽管连贯性是一项显性标准。这一模式提示，决定一个小组拿 AI 做什么的是小组规范，而非工具 —— 而集体采纳可能降低被感知的[[ai-misuse-learning-harm|误用风险]]，而非提高承诺。
 
 **把协作作为教学的对象。**[[golrang-propact-pair-programming-2026|ProPACT]]是一个面向结对编程的、AI 驱动的[[intelligent-tutoring|自适应导学系统]]，它把*二人组*（而非个人）作为分析单元，实时建模联合视觉注意、联合心智努力与基于瞳孔的信号，以提前最多 30 秒预测协作失效并在其发生前干预。接受主动反馈的二人组取得了显著更高的调试成功率、更高效地完成任务，并在之后表现出协作调节的持续增益 —— 证据表明 AI 可以教会协作本身，而不只是支持一项任务。测量协作胜任力面临评估协作问题解决（CPS）技能的互补性挑战，后者传统上需要把模拟任务的过程数据人工编码为 CPS 行为 —— 耗时且难以规模化；对预训练语言模型的[[prompt-engineering|情境感知提示]]通过建模情境依赖并融合认知与社会能力，使这一编码自动化，性能优于强基线。
-
 **脚手架应匹配小组谈话的顺序，而非其频率。****[[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong、Bulathwela 与 Cukurova（2026）]]**挖掘了 65 名学生的三人组对话序列，发现一种顺序 —— 先转述、再提议、后质疑 —— 与改善相关，而逆序则不然；最大化的脚手架既提高了在任务行为，也增加了照本宣科与更少的问题解决指标。
 
 **AI 作为中立中介 —— 以及它不再中立时的张力。**[[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]是一个基于 Discord 的[[llm|大语言模型]]探针，通过浮现隐含假设并把匿名化的综合返还给共享讨论，来中介跨学科学生团队中的学科边界。学生既把它视为认知支持、也视为关系性缓冲，但出现了一个核心张力：AI 被感知到的中立性是承重的，一旦 AI 从中立中介转向顾问或挑战者便会受到侵蚀 —— 这是[[pedagogical-agent|智能体]]在保全[[human-ai-collaboration|人机协作]]与[[trust-calibration|信任校准]]的同时中介协作的一个关键设计约束。
@@ -79,6 +78,7 @@ ai_assist:
 ### ICAP 框架：协作作为最高的参与模式
 
 协作学习占据[[icap-framework|ICAP 框架]]（互动式–建构式–主动式–被动式）的顶端：*互动式*模式 —— 通过对话共建意义、捍卫一个立场，或协同解决 —— 在 Chi 的分类中产生最深层的知识改变。这使 ICAP 既是协作教学法的理据，也是对 AI 的设计约束。一个中介讨论的 AI（如[[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]或[[golrang-propact-pair-programming-2026|ProPACT]]所做）恰恰在维持*互动式*参与时才有价值；一个替小组作答或抹平认知冲突的 AI，可以把协作降格为仅仅*主动式*或*被动式*。基于 ICAP 的标注（参见[[icap-cognitive-engagement-llm-agents|协作对话的扩展 ICAP 测量]]）与促进时机研究，都把互动话语的质量视为关心的结果，把协作学习奠基于[[student-engagement|学生参与]]与 ICAP 层级之上。([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
+- **GenAI 可以坐主持人位，而不是辅导位。** Chen 等（2026）对 64 名本科生做了为期 16 周的准实验，两个条件都配有一个 AI 智能体与一个结构化平台，唯一不同的是调节脚手架：一个自适应 SSRL 智能体对静态的数字工作表（[[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen 等，2026]]）。自适应组的参与平等性更高，但参与强度没有更高，这是重新分配而不是更多发言的特征。
 
 ## 实践指引
 
@@ -103,6 +103,12 @@ ai_assist:
 - **为贡献之前的观看/注意而设计。**[[online-teaching-and-learning|在线讨论]]论坛中的协作学习，不只取决于发帖，也取决于发帖之前的阅读。**[[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao 与 Cukurova（2026）]]**表明，LLM 生成的讨论摘要与范例帖子可以充当导航性[[scaffolding|脚手架]]，拓宽学生对同伴贡献的接触，以及建立桥接（弱关系）社会资本的网络条件 —— 这种支持应当补充、而非取代在学业负荷下维持参与的社会–教学法策略。
 
 - **社会一面显示出扰动而无补偿性增益。**在五项协作过程上，一个 30 人专家共识只在脆弱性上达成一致，增强评分低于阈值：社会连接（3.80 对增强 1.90）、社会情感发展（3.60 对 2.00）、社会学习、协作学习与归属感（均为 3.30）（[[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou、Greene 与 Nixon 等，2026]]）。该报告把这一不对称视为设计目标，因为协作问题解决锚定于一件共享的成果，而协作学习没有可见的参照物，可能不被察觉地侵蚀。
+
+## 常见误解
+
+- **“给小组配上 AI 就意味着更多协作。”** 一项对 **18 项研究**的范围综述描绘出小组作业中的权衡：GenAI 支持了**知识发展、想法生成与沟通效率**，同时在同一批干预中带来关系性代价。效率增益与关系代价是一起到来的。
+- **“AI 支持的协作学习有元分析支持。”** 关于 AI 支持的协作工作，**唯一**可得的元分析对比**位于** GenAI 支持的 PBL/PjBL 干预**之内**，而不是被直接估计，因此它是更大效应中的一个成分，而不是对协作本身的测量。
+- **“LLM 伙伴会保留下小组自己的推理。”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 在课堂规模上以社会科学入门课程的学生检验了这一点，正因为“保留”是一个开放问题，而不是一个假定。
 
 ## 关联概念
 

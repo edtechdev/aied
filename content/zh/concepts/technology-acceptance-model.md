@@ -1,7 +1,7 @@
 ---
 title: 技术采纳模型
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-24T17:05:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 ## 引言
 
 **关于 AI 采纳的[[meta-analysis-systematic-review|元分析]]证据。** 一项针对高等教育学生 AI 采纳的[[teo-ai-adoption-tertiary-meta-analysis-2026|元分析]]（233 个相关、32 项研究、N = 16,977）发现，个体（r = 0.57）、情境（r = 0.53）和技术（r = 0.50）因素均呈中等正相关，其中使用意图是最强的预测因子（r = 0.64），而感知风险/信任弱于预期。其核心批评是，该领域**过度依赖早于现代智能系统出现的传统 TAM/UTAUT 框架**，而忽视了拟人化和伦理等 AI 特有因素——并主张这些缺口对推进理论和循证政策都很重要。
+
+- **一旦样本已经采纳，易用性就不再预测。** Wei、Zhang 与 Heo（2026）在 526 名已有 AIGC 使用经历的设计专业学生中扩展 TAM，发现感知易用性是唯一与自我效能无显著关联的技术感知，而知识、信任、可靠性、有用性、智能性与焦虑各自都有（[[wei-perceived-technological-dependence-genai-2026|Wei 等，2026]]）。在横断面数据中，使用意向与被报告的依赖强相关。
 
 ## 模型家族
 
@@ -85,6 +87,12 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 一项近期的扩展颠倒了通常的方向，把学科特定的动机信念放在 TAM 感知的*上游*而非旁边。[[high-school-genai-acceptance-tam-physics-2026|Xue、Xu、Qi 与 Lu（2026）]] 报告，效用价值以 β = 0.43 预测感知有用性，成功期望以 β = 0.39 预测感知易用性，而 TAM 的核心路径虽减弱但仍显著。
 
 风险与使用的联系还取决于系统：在实施了相关题项的 49 个 TALIS 2024 系统中，感知 AI 效用与 AI 使用在全部 49 个系统中正相关，而感知风险在 40 个系统中负相关、在 9 个中正相关（[[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin（2026）]]）。
+
+## 常见误解
+
+- **"TAM 的构念解释了采纳。"** [[socio-cognitive-genai-adoption-engineering-2026|Asag 与 Al Mamun]]为孟加拉国工程专业学生整合 TAM 与 UTAUT，解释了**64% 的**方差。既显著又不完整：驱动采纳的因素中约有三分之一位于经典接纳构念之外。
+- **"接纳模型不需要领域修改。"** 在经典构念之外加入**感知的人工自主性**（教师相信 GenAI 能多独立地执行一项被指派的教学任务）与**风险规避**，会实质性改变模型。原初构念是为没有能动性的工具而建的，而 GenAI 具有被感知的能动性。
+- **"一项元分析采纳估计描述了任何人群。"** [[teo-ai-adoption-tertiary-meta-analysis-2026|高等教育学生的元分析]]是人群层面的估计；解释 64% 的工程结果是特定人群的结果。把其一移植到另一之上，假定了证据并未确立的稳定性。
 
 ## 关联概念
 

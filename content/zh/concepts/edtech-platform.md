@@ -1,7 +1,7 @@
 ---
 title: 教育技术平台
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -87,12 +87,20 @@ ai_assist:
 2. **把平台结构当作公平杠杆对待。** 谁从平台受益取决于访问、基础设施与投入约束 —— 平台设计必须经[[equity-in-ai-education]]视角检视。([[access-not-enough-ai-tutoring-2026]])
 3. **研究优先用开放、可复现的平台。** OATutor这样的开源平台使可复现的适应性学习研究和共享证据基础成为可能。([[oatutor-open-source-adaptive-tutor-2023]])
 4. **以治理与边界设计AI原生平台。** 隐私优先的架构、数据最小化、可审计日志与基于角色的访问，随着平台走向AI集成而至关重要 —— 连接到[[privacy]]与[[governance]]关切。([[ai-lms-middle-school-longitudinal]])
-
 隐私可以被建进流水线而非政策：一个在匿名姿态轨迹上训练的课堂事件检测器，让未成年人的面部与外貌线索不进入系统，尽管每种方法在零样本迁移到真实课堂时都损失了准确率，所提出模型的最佳准确率为63.41%（[[privacy-aware-classroom-incident-recognition-2026|Parmar等人（2026）]]）。
-
 5. **用教师的领域语言解释推荐。** 当一个平台的AI功能其解释可理解且有教学意义时，它赢得信任与采用：在一项使用AI分组推荐工具（GrouPer）的被试内实验中，[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor等人（2025）]]发现，以课程语言框定的领域驱动解释，比原始特征重要性解释更显著地提升了教师的可理解性、信任与接受度 —— 且真实课堂使用对完全接受仍然重要。([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **把产出证据的系统与评分它的系统分开。** 当智能体能替学习者完成一门课程时，[[credentials-carry-evidence-ai-agents-2026|Srivastava（2026）]]论证，平台必须发出关于学习者推理的同期、可检视的证据，且不能是唯一的评分者 —— 环境、颁发方与验证方应当独立。([[credentials-carry-evidence-ai-agents-2026]])
 7. **在设计时而非运行时生成表征。** [[edtech-design-time-generative-ui|Neshaei等人（2026）]]论证运行时适配无法规模化验证，提出把内容编码为模态无关的语义卡片，再由之在发布前生成并经教师批准交互式、音频、简化文本与低带宽变体 —— 消除每学习者的推断成本，尽管未报告原型。
+
+## 常见误解
+
+**“如果一个平台原则上有效，学生就会使用它。”** 能力与使用率是两个不同的问题，而使用率常常是约束的那一个。在一项为期两年的整群随机对照试验中，**96% 的学生尝试过 Khanmigo**，接近全员采用，然而在**他们出错的会话中，中位学生只在 17% 的会话里给它发过消息**，而那正是这件工具被造出来的时刻。一个记录到全班的平台，并没有改变这个班。
+
+**“采用是用登录数来衡量的。”** 有信息量的缺口在消息层面，而不是账户层面。在同一项试验中，只有**约 14.5% 的消息带有真正的数学问题**。96% 的学生完成了访问事件；大约每七次互动中只有一次做了智识上的工作。在这里报告一个登录数字，描述的将是一个并不存在的成功。
+
+**“开源与专有只是一个许可细节，不影响结果。”** 平台模式塑造了机构能用该系统做什么：像 OATutor 这样的 [[open-source|开源]] 平台（一个 MIT 许可的自适应辅导工具，配有知识共享的代数内容库、[[knowledge-tracing|知识追踪]] 掌握估计与内建的 A/B 测试）让一个院系能够为自己的教学法做测量与修改，而封闭平台不能。许可决定了谁可以做这个实验。
+
+**“在一个机构有效的平台，被采用后也会有效。”** 平台效应经由本地治理起作用：隐私优先的架构、数据最小化、可审计的日志与基于角色的访问，才是让一个 AI 集成的平台能够被部署的东西，而它们是机构决定，而不是你能从厂商演示中推断出来的功能。
 
 ## 关联概念
 

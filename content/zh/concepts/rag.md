@@ -1,7 +1,7 @@
 ---
 title: RAG（检索增强生成）
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T14:13:55-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,13 @@ ai_assist:
 ### RAG 对微调
 
 RAG 与 [[llm|大语言模型]] 微调承担互补角色 —— 检索提供最新、领域专用的扎根而无需重训，而微调嵌入 [[pedagogy|教学性]] 行为。本知识库的研究探索了两种路径及其结合。
+
+## 常见误解
+
+- **“显示来源使答案可核验。”** 只有 **12 名参与者中的 1 人**注意到一张故意错配的来源卡。一个来源标签可以充当**权威印章，而不是核验之邀**：显示扎根提高了信任而没有提高审视，这比没有标签更糟，因为它制造了信心。
+- **“检索质量就是全部问题。”** 检索是必要的，但不是充分的。扎根式回答在 10 分中得到 **9.05 分，差异的 bootstrap 置信区间不含零**，并且**更常扎根于答题者实际看到的材料（98% 对 81%）**，因此测得的增益在于对证据的忠实度，而证据必须正确，这种忠实度才有意义。
+- **“单页检索可以泛化。”** 两个差距**在需要来自不止一页材料的问题上都约增至三倍**（跨页得分 9.93 对更低的基线）。多文档推理正是扎根系统退化之处，也正是课程提出最难问题之处。
+- **“检索消除了审视的必要。”** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]]从一个模块的已批准材料中检索，为那些犹豫着不敢向人求助的学生服务，这是一个可辩护的范围。狭窄、经批准的语料才使扎根有意义；仅凭标签并不够。
 
 ## 关联概念
 

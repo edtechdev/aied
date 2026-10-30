@@ -1,7 +1,7 @@
 ---
 title: 学习迁移
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-09T19:41:18-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,16 @@ ai_assist:
 ### 与相关概念的关联
 
 学习迁移与 [[metacognition]]（对理解的自我监控）、认知负荷理论（相关负荷 vs. 外在负荷）、[[desirable-difficulties]]（有效挣扎）、[[scaffolding]]（渐隐支持）、[[cognitive-offloading|过度依赖]]（工具依赖）以及 [[sociocultural-learning]]（通用 AI 通过替学生完成工作而运作在 ZPD 之外）相连。它是辅助表现与真实学习之间的桥梁——[[stanford-evidence-base-ai-k12-2026]] 与 [[intelligent-tutoring|AI 辅导]]有效性的核心问题之别。
+
+## 常见误解
+
+**"在 AI 辅助任务上的增益证明了可迁移的学习。"** 语料发现的是相反的模式：此处综合的**全部五项研究**都显示，当通用 AI 是干预时出现**负面或零迁移**，练习成绩更高的高中数学学生在闭卷期末考上**低约 17%**，一项写作研究中**83% 的学生无法回忆起自己的引文**。即时的辅助表现是可用的最不具迁移性的测量。
+
+**"如果学生能借助 AI 做到，他们就能做到。"** 那正是失败的定义，而非其缺席。迁移要求能力在支持撤除后依然存续，而检验撤除的研究发现能力留在工具之中。一个能在推理由别处完成时产出制品的学习者，被训练的是另一种技能：操作工具。
+
+**"迁移来自更强的模型。"** 迁移来自产生它的条件：实践的一般性、情境的变异性，以及学习者自己在多大程度上生成了推理。模型能力抬高辅助表现的天花板，而对模型消失后剩下什么并无特别作用。
+
+**"指导总是支持迁移，所以指导越多越好。"** 代替学习者执行推理的指导，替代了迁移所依赖的过程。区别在于让学习者生成下一步的帮助，与替他们生成下一步的帮助，只有前者处在这条线的迁移一侧。
 
 ## 关联概念
 

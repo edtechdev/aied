@@ -1,7 +1,7 @@
 ---
 title: 探究式学习
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-09T18:58:08-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ IBL 由问题驱动、聚焦过程的结构，是富有成效的 AI 使用的天
 [[productive-failure|生产性失败（PF）]]是探究式学习结构最完整的近亲：学习者在直接指导*之前*探索问题并生成解法，然后巩固。两者共享同一前提——学习者生成的尝试（即便是失败的）[[prior-knowledge|激活先备知识]]并让学习者为从指导中学习做好准备。AI 时代的 PF[[research-methods-aied|研究]]厘清了 AI 应当如何为探究搭建脚手架而不短路它：[[kim-ai-productive-failure-adult-2026|Kim 等（2026）]]推导出通过问题探索与解法生成保全挣扎的 AI 设计原则；[[puech-pedagogical-steering-llm-productive-failure-2025|Puech 等（2025）]]显示大语言模型辅导系统可以被引导去保留答案并诱发多次尝试；[[lukesova-clue-before-correction-2026|线索先于纠正]]的任务示范了让学习者持续进行推理的基于线索（而非直接）的脚手架。这些把探究与 PF 连到一条更宽的律令上：AI 不得消除持久学习赖以形成的[[desirable-difficulties|生产性挣扎]]。
 
 在户外田野情境中，同一律令变成空间性的：生成式 AI 可以在学习者遇到证据之前预先建构他们注意到什么，于是一个把生成式解释保留到观察与初始解释被记录之后的"田野优先"序列，就保护了探究（[[geoscience-field-learning-genai-2026|Choi, 2026]]）。
+
+## 常见误解
+
+**“AI 天生契合探究式学习，因为两者都是探索性的。”** 契合完全取决于设计：[[generative-ai|生成式 AI]]与[[llm|大语言模型]]工具可以充当互动的共同探究者，支持提问与调查，**但只有在被设计为保全学生对问题的所有权时才如此**。若无此设计，一个探索性的学生是在追随一个答案，而不是在进行探究，而两者从外部看很相似。
+
+**“任何加入探究单元的 AI 都会改进它。”** AI 的贡献必须与探究本身分开。[[ai-assisted-inquiry-ssi-climate|Gousopoulos（2026）]]在一项气候研究的三组设计中做到了这一点：AI 辅助的探究在**决策（d = 0.69）**上超过了只有探究的同伴，证据落在一个具体结果上，而不是这种方法的一般优越性上。
+
+**“探究按定义是无结构的。”** 教师搭建脚手架，而结构在问题设计与反思循环里，不在内容的传递里。移除脚手架不会使探究更真实，它使探究失去脚手架。
+
+**“如果学生有兴趣，他们主导的问题就会是良构的。”** 生成一个可处理的问题正是被发展的技能，这就是为什么一个供应好问题的系统，已经代做了这项活动本要教的探究技能。
 
 ## 关联概念
 

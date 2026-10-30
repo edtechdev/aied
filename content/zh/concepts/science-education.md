@@ -6,10 +6,10 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T15:57:18-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 connected_resources: [teacher-dev]
 translation_of: concepts/science-education
-source_updated: "2026-10-23T22:38:41-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **[[stem-education|科学教育]]** —— 研究并实践学生如何学习科学、如何教授科学的领域，如今正被生成式 AI（LLM、模拟、虚拟实验室与 AI 评分）在[[physics-education|物理]]、化学和[[biology-education|生物]]中重塑。本知识库中的科学教育文章揭示了一个正在议价核心张力的领域：AI 明确支持探究、迷思概念纠正与规模化评价，但其价值取决于教学设计，且伴随[[cognitive-offloading|过度依赖]]、幻觉与去人化、逐利化学习的真实风险。
+> **[[science-education|科学教育]]** —— 研究并实践学生如何学习科学、如何教授科学的领域，如今正被生成式 AI（LLM、模拟、虚拟实验室与 AI 评分）在[[physics-education|物理]]、化学和[[biology-education|生物]]中重塑。本知识库中的科学教育文章揭示了一个正在议价核心张力的领域：AI 明确支持探究、迷思概念纠正与规模化评价，但其价值取决于教学设计，且伴随[[cognitive-offloading|过度依赖]]、幻觉与去人化、逐利化学习的真实风险。
 
 ## 值得思考的问题
 
@@ -71,6 +71,12 @@ AI 评分正在高风险作业上迅速推进。[[ai-grading-handwritten-physics
 在一项对 GenAI 与动机的 42 项研究的元分析中，最小的学科效应出现在科学（g = 0.109，95% CI [−0.107, 0.325]，k = 3），这是唯一一个区间跨零的学科，因此汇总证据不支持 GenAI 在科学中特定的[[motivation|动机]]收益（[[genai-learning-motivation-meta-analysis-2026|Fang 等（2026）]]）。
 
 作为一项框架而非一项研究，[[zhai-science-literacy-generative-ai-coherence-2026|Zhai 等（2026）]]重新框定了目标：Vision I 面向科学职业能力，Vision II 面向日常与公民生活中的科学，Vision III 面向社区与社会尺度上的知识与行动。他们主张，[[generative-ai|生成式 AI]]只有在使课程、教学与评价与这些愿景之一相协调时，才在科学课堂中赢得其位置；而该领域持久的问题是，考试奖励术语回忆，而标准要求的却是解释与探究。
+
+## 常见误解
+
+- **“科学教育中的 AI 没有因果证据。”** 一项对 GCSE 科学中 AI 修订平台的**四周随机评估**给出了 **Hedges' g = 0.33** 的因果估计，且**没有证据显示效应随学科而异**。效应不大，但它是因果的。
+- **“让学生用上，增益自然到手。”** **起作用的是结构化的使用，而不是使用本身**：团队报告的增长率在**不限量的个人使用下平均为 17%，而在使用受到结构化安排时为 34% 与 31%**。结构才是干预。
+- **“科学模拟需要专门的软件。”** 一个**四要素的自然语言提示词**即可生成一个**手动控制的增强现实物理模拟**。编写模拟的门槛降到了提示词设计上，这把所需技能从编程转向了现象界定。
 
 ## 关联概念
 

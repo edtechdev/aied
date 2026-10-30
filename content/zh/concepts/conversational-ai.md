@@ -1,7 +1,7 @@
 ---
 title: 对话式人工智能
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-10-29T04:40:26-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -94,10 +94,6 @@ ai_assist:
 - **“LLM 批评伙伴取代学习者的判断。”** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]] 具体展示了 **保全** 的一面：价值在于让学习者的思考保持完整，而不是替他们产出批评。
 - **“关于对话式智能体的总括证据是决定性的。”** [[conversational-ai-agents-umbrella-review-2026|总括综述]] 综合的是关于 CAI 智能体的各项综述，而一项总括综述的强度受其所汇集综述的质量所限。
 
-## 引用
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
-
 ## 关联概念
 
 - [[intelligent-tutoring]]
@@ -145,3 +141,7 @@ Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI ag
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench：AI 与人类辅导产生相当的 GRE 学习增益
 
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：在问题求解过程中为定向的 AI 求助搭建脚手架
+
+## 引用
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

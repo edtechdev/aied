@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,16 @@ ai_assist:
 ## 教师教育与机器学习素养
 
 机器学习也作为一个*学科* 出现在教育中。在 [[microbit-robotics-machine-learning-teacher-training-2026|初始教师培训]] 中，使用 Micro:bit 与监督式图像分类项目的动手编程和机器人干预，显著改善了职前教师的计算概念与入门机器学习知识，以及他们对教这门课的态度。随着 [[ai-literacy|AI 素养]] 进入课程，让 [[teacher-education|教师]] 对机器学习有可用的掌握，成为把它教给学生的前提。一条对照路径不借助任何软件抵达同样的概念：在 [[sung-ai-literacy-unplugged-ml-k12-pd-2026|Sung 与 Gunpinar（2026）的在线专业发展]] 中，十位 K-12 教育者手工构建了一个「可解释特征矩阵」——一张形状特征的是/否表格，它*就是* 分类器，可测试、可修订而非不透明——工具只有 Code.org 的分类游戏和 Google Slides。他们的 [[self-efficacy|AI 自我效能]] 从低于中等（M = 3.13）升到高于中等（M = 3.71），词联想任务中的负面描述从占参与者的 30% 降到零，尽管该证据是小样本、无对照且完全 [[self-report-measures|自陈]] 的。
+
+## 常见误解
+
+**"准确的预测需要不透明的模型。"** 可解释性与性能比这一假设所允许的更可分离。[[zhang-ml-student-progress-programming-2026|Zhang、Jeffries 与 Koprinska（2025）]]表明，本身可解释的决策树**修剪到仅 3-5 个叶节点**，在编程课程的学生进度预测上依然站得住。当一棵五节点树在你的任务上与黑箱相当，黑箱买到的是不透明而不是准确，而在必须向学生解释一项决定的教育情境中，玻璃箱是更好的取舍。
+
+**"教育中的机器学习是一种中立的预测技术。"** 它的应用把该领域的治理失败一并带上，监考是最清楚的例子：一个从行为或生理信号推断学生情况的模型，是在附上一项置信度分数的情况下提出指控，而支撑该推断的证据基础远比部署规模所暗示的薄弱。
+
+**"生成式 AI 已使经典机器学习在教育中过时。"** 两者做的是不同的工作。学习者状态预测、难度估计与进度预报仍是经典的机器学习问题，本知识库所记录的知识追踪与题目校准文献并不由语言模型来承担。生成式 AI 是机器学习的一个子集，而不是它的替代。
+
+**"教师教育应当教学生了解 LLM，而不是了解机器学习。"** 把素养限制在生成层，会让从业者无法质询那些正在对其学生做出决定的预测系统，而后果严重的错误恰恰集中在那里。
 
 ## 关联概念
 

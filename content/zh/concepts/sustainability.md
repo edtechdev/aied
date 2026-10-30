@@ -1,7 +1,7 @@
 ---
 title: 可持续性
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-09-19T05:10:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 
 AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**（以价值为基础、以人为本的教育事业）、**教育中的可持续性**（把教育当作实现可持续性的工具）以及**可持续发展教育**（ESD，全球政策议程，尤其是 [[k-12|可持续发展目标 4]]）。AI 与这三者的交集各不相同——本领域区分两条核心路径：**AI 服务于可持续性**（把 AI 当作实现可持续性成果的工具）与**可持续 AI**（减少 AI 自身的环境与伦理足迹）。
 
+环境这条路径存在一个有文献记录的缺口：[[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]]报告，在研究现场的那所大学，生成式人工智能的环境后果并未出现在其政策文件中；他们并主张，遗漏这些后果的机构指引无法回应教师与学生所持的关切。
+
 ## 两部分分类体系
 
 知识库的覆盖范围以 [[daniel-ai-sustainability-scoping-review-2026|Daniel 等（2026）]]为锚，把该领域组织成两条相互关联却彼此不同的路径：
@@ -56,7 +58,7 @@ AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**�
 第二条路径关注 AI 自身在教育场景中的足迹：
 
 - **大型模型的环境影响。** [[llm-environmental-impact-student-usage-2026|对 LLM 使用的研究]]记录了大型语言模型的碳足迹与水足迹；考虑到大学生中的高采纳率，这一影响相当可观。这是可持续 AI 的直接环境维度。
-- **高能效与本地部署。** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen 等（2026）]]证明，AI 知识库助手可以在消费级硬件上配合 [[open-source|开放教育资源]]运行，降低教育中 AI 的环境与成本足迹——一个具体的可持续 AI 设计模式。
+- **高能效与本地部署。** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen 等（2026）]]证明，AI 知识库助手可以在消费级硬件上配合 [[open-education|开放教育资源]]运行，降低教育中 AI 的环境与成本足迹——一个具体的可持续 AI 设计模式。
 - **伦理与治理框架。** 可持续 AI 不只是环境问题：它还需要 [[governance]] 与 [[ethics]] 框架来确保透明、问责、[[human-in-the-loop-ai|人类监督]]与 [[equity-in-ai-education|公平]]的获取——正如 [[daniel-ai-sustainability-scoping-review-2026|Daniel 等（2026）]]指出的，这恰恰是当前大学应用中常常缺失的。
 
 ## 可持续学习作为教学目标
@@ -66,6 +68,12 @@ AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**�
 ## 与其他概念的关联
 
 可持续性与教育中的 AI 位于 [[ethics]]、[[governance]]、[[ai-education]] 以及环境/能源科学的交叉点上。它借助 [[teacher-education]] 与 [[teacher-role]] 进行能力建设，借助 [[learning-design]] 进行教学，并通过"可持续学习"这一透镜，连接到知识库对 [[cognitive-offloading]] 和 [[critical-thinking]] 的处理。由于两条路径都是横向的，可持续性是一条基础主题，贯穿 [[higher-ed|高等教育]]、K-12 和职业情境。
+
+## 常见误解
+
+- **“抽象的 AI 知识能预测教师教授可持续性的能力。”**[[talebzadeh-ai-green-education-2026|Talebzadeh（2026）]]发现，教师在科学与绿色能源情境中的**AI 实际使用**以及他们**参与开发与 ESD 对齐的材料**，比**抽象的 AI 知识或态度**更能预测这种能力。了解 AI 与能够用 AI 建构是两回事，而实践路径预测得更多。
+- **“在可持续性教学法下的 AI 辅助教学设计会产生可持续性教学法。”**同一项研究发现，可持续发展教学法下的 AI 辅助[[learning-design|教学设计]]以特定方式**约束**了设计，而非扩展它。一个用常规材料训练的模型会复制常规框架，除非设计工作对此加以纠正。
+- **“可持续性是一个话题，而不是横向主题。”**由于两条路径都横跨各个层级，可持续性出现在[[higher-ed|高等教育]]、K-12 与职业情境中，这意味着它是一条基础主题，必须在每个学科内部处理，而不是作为一个独立科目来教授。
 
 ## 关联概念
 - [[ethics]]
@@ -83,6 +91,7 @@ AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**�
 - [[open-source]]
 
 ## 关联文章
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴关系伦理而非作弊框架来指导机构的生成式人工智能决策
 - [[daniel-ai-sustainability-scoping-review-2026]] — 高等教育中 AI 服务于可持续性与可持续 AI 的范围综述
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 可持续教育与 AI 的价值批判进路
 - [[liu-ai-sustainable-engineering-education-2026]] — 面向可持续工程教育的 AI-SEE 框架

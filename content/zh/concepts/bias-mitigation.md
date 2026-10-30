@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: 偏见缓解
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,10 @@ ai_assist:
 ## 引言
 
 偏见缓解之所以重要，是因为 [[ai-education|教育中的 AI]] 并非中立：用主导语言与文化数据训练的系统能系统性地使边缘化学习者处于劣势，从惩罚非母语写作者的 AI 评分，到对不同群体给出不同回答的 [[llm|大语言模型]] 导师。偏见是一个横贯性的关切，出现在 [[automated-assessment|自动评分]]、[[automated-essay-scoring|自动作文评分]]、[[knowledge-tracing|知识追踪]]、推荐系统与 [[conversational-ai|对话式 AI]] 导师中。
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst 等人（2026）]]表明，偏见缓解可以被教授，而不只是被工程化：被提示去质询一个文生图模型输出的青少年，产出了关于代表性的系统性评估，而在干预之前，他们索取人物图像的请求偏向白人。
+
+在 AI 与人类评分的文献中，公平是被审视得最少的维度：在被综述的十二项研究中，十项对人口、语言或社会偏见缄口不言，而性别是唯一被检验的维度（[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu、Lu 与 Abdi，2026]]）。
 
 ## 偏见的来源
 
@@ -91,6 +95,12 @@ ai_assist:
 - **在评分中把理解与语言分开：** 自动化评分绝不能因学生展示的概念理解而惩罚非母语者或不太流利的写作者。
 - **让系统可解释：** 对 AI 决策的透明性对检测并纠正偏见至关重要。
 - **结合技术与人类的缓解：** 把去偏算法与人在回路监督配对，尤其对高风险或低置信度案例。
+
+## 常见误解
+
+- **“偏见是评分与反馈的问题。”** 偏见进入**评分之外的任务类别**：三个 LLM 把 **28 名学生的软件工程班分入四个团队，把男性路由到某个团队的频率比**参照分布**至少低 80%**。组队携带的偏见，在量级上与评分相当。
+- **“提供相关技能就能消除偏见。”** 提供技能**减少但未消除**它：**99.2% 的基于技能的分配匹配了两个金标准团队之一，然而性别仍在同样有效的选项之间决定取舍（OR 2.53**）。近乎完美的任务匹配与性别效应并存，因此在主要标准上的准确率不是公平的证据。
+- **“一种缓解方法就足够了。”** 研究展示的是**互补的策略**，其中包括公平感知建模，因为在组建阶段进入的偏见，不会被针对输出文本的修复所处理。
 
 ## 关联概念
 - [[differential-effects-across-learner-groups]]

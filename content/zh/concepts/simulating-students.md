@@ -1,7 +1,7 @@
 ---
 title: 模拟学生
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-24T15:28:40-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -122,6 +122,12 @@ CogEvolution 建模认知动态而非静态人格——一个 ICAP 深度感知�
 2026 年关于持久技能（durable skills）的工作把模拟的通常方向反转过来。系统不再模拟学生来审计系统，而是模拟*队友*来评估学生：一个 Executive LLM 生成一项 30 分钟小组任务中每个 AI 伙伴的话轮，把持评分标准，并引导对话以制造目标技能出现的机会（[[durable-skills-measurement-ai-teammates-2026|Globerson 等人，2026）]]）。在来自 188 名参与者的 373 段对话中，技能匹配的引导把可评定证据提高到项目管理的 92.4% 与冲突解决的 85%，显著高于不受约束的独立智能体，而 AI 评估器是对照两名人类评定者校准的，他们自身的评分者间 Kappa 只有 0.45–0.64——这提醒我们，一个模拟器的上限由人类在该构念上能达到的一致程度设定。
 
 针对模拟器所做的训练还可以迁移：TutorLoop 的强化学习智能体离线针对一个模拟学生训练，未经任何再训练即原样迁移到一个新的真实学习任务（N = 187），其中更稀疏但时机更好的反馈优于更密集的反馈（[[tutorloop-sensor-cognitive-feedback-2026|Xu 与 Zhang，2026）]]）。
+
+## 常见误解
+
+- **"LLM 学生是足够好的代理。"** **模拟覆盖的是最容易的学生，而经过验证的很少**：**十二位教师**辅导 LLM 学生后报告了**过于复杂的语言、缺失的情绪**以及其它与真实学习者的偏离。代理模拟的是易于处理的情形。
+- **"被设定知识缺口的学生表现得像有那个缺口的学习者。"** 在 Mistral-7B 中抑制 **16 个目标知识成分**，把准确率从 10% 遗忘比下的约 0.75 降到 40% 遗忘比时的 0.5 以下，而基座模型保持稳定。这种退化是工程化的，这正使它成为受控操纵而非模拟。
+- **"人格稳定性是模型选择问题。"** 它是**交互设计问题**：把**五个 LLM 与三种提示设计和四种 ADHD 强度人格交叉**，脚本化的差异追随的是提示设计，而不是模型。选择更好的模型并不能修好一个不稳定的人格。
 
 ## 关联概念
 

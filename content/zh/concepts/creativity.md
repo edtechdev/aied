@@ -1,7 +1,7 @@
 ---
 title: 创造力
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T14:13:55-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,12 @@ ai_assist:
 ### 关联
 
 创造力连接到[[critical-thinking]]与[[constructivist]]学习。它由那些保存学习的、同样的[[reducing-ai-misuse]][[scaffolding|支架]]，以及奖励原创推理而非光鲜产出的[[authentic-assessment]]设计所保护。
+
+## 常见误解
+
+- **"给学生制造干扰就能带来创造力增益。"** **摩擦并不等于创造力增益。** 唱反调式 AI 人格在 **38.2% 的小组**中激发了质疑与反思的对话，却没有带来可测量的创造力表现提升。对话变了，测量的结果没有变。
+- **"K 至 12 文献已经确认生成式 AI 能提升创造力。"** 一项遵循 PRISMA 的 **45 项研究（2017 至 2025）范围综述**显示，生成式 AI 大多**提升**创造力，却**很少测量**它。该领域的主导结论是从感知到的提升推断出来的，而这不是结果测量。
+- **"对生成式 AI 的依赖越深，创造性产出越多。"** 在 **1,157 名中国研究生**中，生成式 AI 依赖与**自报的研究创造力**正相关，而这一关联对应的是**自报**，是该构念可用的最弱测量。
 
 ## 关联概念
 

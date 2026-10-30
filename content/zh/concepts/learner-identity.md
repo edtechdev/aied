@@ -1,7 +1,7 @@
 ---
 title: 学习者身份
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-09T19:07:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,16 @@ ai_assist:
 ## 关联
 
 学习者身份关联于[[agency]]（身份经由能动的创作得以践行）、[[self-efficacy]]（支撑身份的能力信念）、[[motivation]]和[[self-determination-theory]]（身份形成满足自主和能力的需要）、[[student-experience]]和[[student-engagement]]，以及[[stem-education]]（那里学科身份是坚持性的关键结果和预测因子）。它也受[[situated-learning]]和[[critical-pedagogy]]塑造（身份作为参与、作为充满权力的协商），并关联于[[authentic-assessment]]（让学习者表演从而主张身份的任务）。它的[[higher-ed]]和[[k-12]]相关性横跨学校教育和专业准备。
+
+## 常见误解
+
+**“学习者身份是课程可以容纳的稳定特质。”** 更好的做法是把它视为**通过参与、识别与作者身份持续建构**的东西。这一转变把设计问题从匹配既有身份，改为塑造课程所提供的身份；而一个替学生完成工作的 AI 移除了三种成分之一，因为作者身份正是身份主张的起点。
+
+**“身份问题属于来自代表性不足群体的学生。”** 身份在每个学习者身上形成，取决于其参与是否被识别，这使它成为一般的设计条件，而非特殊照顾。把它框定为针对性关切，正是它被推迟的方式。
+
+**“AI 辅助降低了门槛，因此扩大了参与。”** 它可以降低产出作品的门槛，同时收窄主张作者身份的门槛。提交一份自己并未撰写的流畅制品的学生，获得了结果，却被剥夺了建构其背后身份的识别。
+
+**“识别学习者身份就是在内容中有代表性。”** 代表性重要，而识别在实践中被实施：谁的问题被采纳、谁的贡献被记名、谁被视为有能力。一份课程可以有代表性，却仍然扣留身份形成所需的识别。
 
 ## 关联概念
 

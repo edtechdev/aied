@@ -1,13 +1,13 @@
 ---
 title: 认知心理学
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-24T14:37:53-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,12 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 2. **表征学习者，而不只是回应。** 把结构化[[student-modeling]]与[[knowledge-tracing]]挂接到AI对话上，使系统适应推断出的知识，而非流利却盲目地回应。([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **尊重工作记忆限制。** 把认知负荷理论应用于AI用户体验：减少外在负荷（摩擦、过载界面）同时保留关联加工（[[desirable-difficulties|生产性挣扎]]、提取练习），而非把所有认知需求最小化。
 4. **校准元认知。** 因为[[metacognition]]支配学习者何时选择卸载，教校准（知道自己无助时实际能做什么）是对过度依赖的认知主义答案（见[[cognitive-offloading]]）。
+
+## 常见误解
+
+- **"心理表征不可观察，因此关于学习的认知主张只是假设。"** 从学习者在科学视频中的 **EEG** 重建图像，发现**表征保真度追踪测试表现**（回归系数 **0.8481，R² = 0.79**）。认知主义关于内部表征的前提是可测量的，而该测量预测了结果。
+- **"高 R² 意味着表征解释了学习。"** R² = 0.79 表示保真度与同一材料上的表现之间强关联。它并未确立提高保真度会提高表现，而那才是干预主张。
+- **"知识成分只是一种方便的建模虚构。"** 可分解性正是使[[knowledge-tracing]]与[[cognitive-diagnosis]]成为可能的东西，而方法在假设成立的程度内有效。把它当作虚构，就丢弃了这些方法产出可用估计的理由；把它当作事实，则夸大了拟合模型对心智所能说明的东西。
 
 ## 关联概念
 

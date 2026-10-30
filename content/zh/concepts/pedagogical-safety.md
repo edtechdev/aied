@@ -1,7 +1,7 @@
 ---
 title: 教学安全性
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,17 @@ ai_assist:
 ### 与相关概念的关联
 
 教学安全是把[[hallucination-risk]]、[[rag]]、[[k-12]]、[[ethics]]、[[governance]]、[[regulation]]和[[llm]]与[[trust]]、[[scaffolding]]、[[metacognition]]和[[self-regulated-learning]]等互动层面关切连接起来的保护层。它经由[[llm-training-and-fine-tuning|训练]]和[[reinforcement-learning|RL]]运作，依赖[[bias-mitigation]]和[[equity-in-ai-education]]，其动因是[[ai-misuse-learning-harm]]所编目的危害，以及[[hazra-safetutors-pedagogical-safety-2026|导师伤害分类]]。
+- **儿童伤害很少经由模型进入。** 在 1,331 起经编码的儿童相关 AI 事件中，伤害集中在表征、尊严与心理这几类，并与部署、治理与滥用失败共同出现，而不是与模型缺陷共同出现，因此逐输出的过滤会错过主导路径（[[child-related-ai-incidents-safety-benchmarks-2026|Jiao 等（2026）]]）。
+
+## 常见误解
+
+**“毒性过滤与越狱抵抗能让一个辅导工具安全。”** 常规的 [[llm|大语言模型]] 安全是必要的，但对教育并不充分。它处理的是模型会*说什么*；教学安全处理的是互动对学习者*做了什么*，包括任何内容分类器都看不见的失败。一个辅导工具可以通过每一项内容检查，同时系统性地侵蚀学习或固化不平等。
+
+**“如果一个系统在单次交流中表现良好，它在使用中就是安全的。”** 风险会跨话轮累积：伤害率从**单轮评估中的约 18% 上升到多轮评估中的约 78%**。因此单轮基准所报告的数字，对学生实际经历的那种互动而言乐观了四倍，而一套建立在孤立提示上的红队测试，会给一个在十分钟会话中失败的系统发合格证。
+
+**“最安全的辅导工具是拒绝得最多的那个。”** 一个均匀地拒绝的系统仍然可能固化不平等，这正是本页关于安静失败的描述的后半部分。失败模式不只是一个正确作答却侵蚀学习的辅导工具；也是一个其拒绝在学生之间不均匀地分配支持的辅导工具，而一刀切的拒绝政策，是用一个可见的风险换一个不可见的风险。
+
+**“任何模型层面的安全工作都是公关手段。”** 其中有些是可测量的。[[llm-unlearning-math-privacy|数学遗忘]] 的工作应用基于梯度的遗忘，剥离可识别信息与有害内容，报告 PII 输出降到 **0.1%**、毒性率降到 **0.0%**，同时保留能力。模型层面的控制是分层防御中的一层：单独使用并不充分，但也不是什么都不是。
 
 ## 关联概念
 - [[guardrails]] — 实现安全的设计机制

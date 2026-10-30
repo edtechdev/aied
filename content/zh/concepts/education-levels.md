@@ -1,7 +1,7 @@
 ---
 title: "教育层级"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-09T19:07:03-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,7 +14,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,16 @@ ai_assist:
 - **按活动给 AI 设门，而非按热情**，并让隐私义务随年龄缩放（[[ai-lms-middle-school-longitudinal]]、[[data-privacy-ai-african-higher-education-2026]]）。
 - **为那个学段的中介成人设计**——家长、教师、图书馆员或导师——并单独测量他们的准备度，与机构的准备度分开（[[ai-adoption-readiness-ukraine-education-managers-2026]]、[[ai-assisted-seminar-learning-information-literacy-2026]]）。
 - **在一个学段没有证据时直说**，并**不要错把意向当成成就**：若干针对特定层级的研究报告的是态度或 [[self-report-measures|自陈]]结果，而非学习。
+
+## 常见误解
+
+**“学段标签能告诉你一个学习者能做什么。”** 学段与知识水平相关，但并不相等。在二年级的辅导试验中，[[prior-knowledge|先备知识]] 主导了后测表现（**F(1, 124) = 206.99，p < .001，η²p = .63**）：如此大的效应使年级标签在学习者实际先备知识旁边成为弱预测因子。只按学段设计而忽视学段内部的分布，就是在为一个宽分布的平均值设计。
+
+**“所教的科目比教育层级更重要。”** 学龄期与大学期之间的断裂更重要。跨越这条边界改变的不是内容，而是自我调节的能力、评估契约的性质，以及谁为学习负责。这就是为什么一件帮助研究生研讨课的工具，即便在可比的内容上，也可能损害二年级的一堂课。
+
+**“自适应辅导工具对每个层级都同样有帮助。”** 那个把变量单独分离出来的比较很有启发：同一套二年级数学辅导工具的两个版本，内容、界面、反馈与语音提示完全相同，**只在任务选择是否遵循贝叶斯 [[knowledge-tracing|知识追踪]] 模型上不同**。自适应任务选择是一种对层级敏感的干预，其收益取决于该层级的学习者能否对适应性采取行动。
+
+**“集中在高等教育里的证据可以向下推广。”** 它不能，而文献的分布是一个警告而不是一种便利。证据在哪里密集、在哪里稀薄，是研究经济的属性，而不是 AI 在哪里最常被使用的属性，因此一项从大学样本得出的关于 K-12 的主张，是跨越那条最要紧的边界的推断。
 
 ## 关联概念
 

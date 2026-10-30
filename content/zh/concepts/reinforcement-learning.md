@@ -1,7 +1,7 @@
 ---
 title: 强化学习
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:58:09-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -11,7 +11,7 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,16 @@ ai_assist:
 ### 与知识库的关联
 
 RL 支撑了现代 [[agentic-ai]] 与 [[intelligent-tutoring]] 设计的相当一部分，那里智能体必须优化长期学习而非单个正确回应。它连接到 [[llm-training-and-fine-tuning]]（RL 作为一种训练方法）、[[scaffolding]]（保存富有成效挣扎的奖励设计），以及 [[self-regulated-learning]]（帮助学习者调节自身策略的智能体）。由于奖励设计编码了教育价值观，AIED 中的 RL 研究与 [[pedagogical-safety]] 以及 [[equity-in-ai-education|公平]] 辅导行为的公平考量紧密相连。
+
+## 常见误解
+
+**"与基线打平就意味着 RL 策略学到了某种值得拥有的东西。"** 它意味着奖励被满足了。一个以测试分数与时间效率为奖励的深度 RL 辅导者**在后测上与一个 BKT 启发式打平（A = .58 各）**，却只把 **4% 的训练题分配给建设性的错误示例修复**，并偏向更廉价的互动。策略优化的是它所被支付的东西，而它所被支付的东西排除了那项生产性活动。
+
+**"奖励函数只是一个技术细节。"** 它是教学规范。奖励加权什么，策略就会做什么，因此在分数、时间效率、参与度与修复之间做选择，需要对什么是学习持一个明确立场，那是一个被编码成数字的课程决定。
+
+**"地平线越长就越好。"** 它们使更短地平线做不到的事成为可能，同时要求奖励在整段序列上都正确。[[residencyrl-clinical-rl-training-2026|ResidencyRL]]优化的是整整 **60 轮的临床问诊**，远超同期对话系统 ≤12 轮的地平线，这提高了一个设定错误的目标函数所要付的代价，而不是降低它。
+
+**"因为教学是序列性的，所以 RL 是适合辅导的形式化。"** 序列性是必要的，但不是充分的；约束性条件是奖励的效度。一个设定良好的目标配一个弱策略，胜过一个强策略对着一个错误的目标。
 
 ## 关联概念
 

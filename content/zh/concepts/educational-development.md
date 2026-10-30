@@ -1,7 +1,7 @@
 ---
 title: 教育发展
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-09T18:39:30-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ ai_assist:
 
 ### 面向项目设计者的实用指引
 
-对于规划人工智能[[professional-training|专业发展]]的教师发展者、学术领导者与[[stakeholders|教学设计者]]，本知识库的证据建议：
+对于规划人工智能[[educational-development|专业发展]]的教师发展者、学术领导者与[[stakeholders|教学设计者]]，本知识库的证据建议：
 
 **应对四种采用驱动因素，而不只是知识。**信心、态度、支持与关切预测教师是否真正采用人工智能——一个忽略这些的纯知识工作坊不太可能改变实践。设计发展项目，通过动手使用建立信心，提供持续的支持（而非一次性培训），并主动摆出并回应教师的关切。（[[teacher-ai-adoption-confidence]]）
 
@@ -85,6 +85,7 @@ ai_assist:
 **把准备度当作社会技术对齐问题。**[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI 框架]]表明教师准备度横跨认识论、教学法、机构，以及质量与合规几个域。只培训个人的项目，会错过那些使能或阻碍变革的机构杠杆（政策、工作量、激励、质量标准）——要让这些与培训对齐。（[[sangwa-epiq-ai-faculty-readiness-2026]]）
 
 **不要把基础设施投入等同于变革。**在 125 项研究中，机构在生成式人工智能基础设施与教育发展上的投入，与实际的教学变革只有微弱相关（r = 0.12），而 60–70% 的教师感到自己尚未准备好整合生成式人工智能——这使得发展、而非采购，成为约束性的瓶颈。（[[genai-higher-education-systematic-review-2026|Rathnayake（2026）]]）
+**命名失败模式，而不只是效应量。**[[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos、Chiappe 与 Martínez-Pérez（2026）]]称之为模拟式创新：工具的出现昭示着进步，教学与评估形式却原封不动，采用率与仪表盘代替了学习，技术发布周期则设定方向。他们的诊断要求发展项目在采用每一项工具之前，先以一个具名的学习问题为之辩护。
 
 **朝向课程重构，而非工具采用。**目标是教师重构课程与评估，而不只是添加人工智能工具。把专业发展扎根于课程层面的重构工作与评估改革，并为教师提供这样做的结构化框架（如[[ai-assessment-scale-reform|评估量表]]、[[institutional-change-framework-ai|机构变革框架]]）。（[[institutional-change-framework-ai]]）（[[ai-assessment-scale-reform]]）
 
@@ -173,3 +174,5 @@ ai_assist:
 
 - [[faculty-ai-well-being-social-supports-2026]] — 教师的人工智能幸福感追随人工智能素养，而非技术自我效能
 - [[ai-competence-framework-landscape-2026]] — Check what a framework's levels describe before adopting it：采用一个框架之前，先核对它的层级描述的是什么
+
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育能否为 AI 设定议程？教师教育中的模拟式创新与教学方向设定

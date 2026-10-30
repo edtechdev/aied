@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: 高等教育
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T14:21:23-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,12 @@ ai_assist:
 - **用AI提升反馈的质量与数量。** [[ai-assistance-discretionary-feedback|AI辅助反馈]]可以增加教师交付的反馈；把它与 [[human-in-the-loop-ai|人类判断]]配对，使其改善学习而不只是自动化。
 - **审慎地参与评分与评估创新。** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] 论证 [[assessment]] 与评分是塑造高等教育学习最具影响力的因素之一，却在[[business-education|管理教育]]等领域研究不足（20年间四本顶尖期刊仅 58 篇文章）。传统的、偏[[summative-assessment|总结性]]的方法在生成式AI时代损害深度学习、[[well-being|福祉]]、公平与 [[academic-integrity|诚信]]；作者敦促教师更主动、更互惠地参与五种创新实践（真实性评估、自评与同伴评估、重评、基于标准的评分、不评分），并指出实施需要机构与文化支持以及渐进式实验。
 - **把研究训练与督导本身当作一个AI素养场所。** [[dai-chan-responsible-genai-research-ai-literacy-2026|研究生]]把 [[ai-literacy]] 践行为一門 [[situated-learning|情境化的]]实践而非静态的技能集合，而机构指引大抵止于教学与评估。论文、学位论文与发表工作的指引应当为每一个AI素养维度具体地 [[scaffolding|支撑]]验证、署名与披露——而 [[engagement-intensity-learner-modeling|简单的教学前信号]]可以在研究伦理课程中定位这种支持——而不是发布二元规则。
+
+## 常见误解
+
+- **“机构层面的 AI 采用已经成熟。”** **符号层已饱和，而结构层很薄**：**100% 设有 AI 工作组与 AI 硕士学位，但只有 12% 设有高管层的 AI 领导**，只有 5% 要求再迈出一步制度化。宣告已经超出结构一个数量级。
+- **“声望能预测机构的 AI 成熟度。”** 制度化被证明**与声望无关（秩相关 r ≈ 0.04）**，而**地区差异显著（ANOVA F = 5.86，p < .001）**。声誉不是就绪程度的代理，地理比地位预测得更多。
+- **“AI 如何分配认识论工作在各机构之间是一致的。”** [[sun-student-genai-entanglement-literacy-demands-2026|Sun、Dohn 与 Rehm（2026）]] 按认识论工作如何被分配，对 **102 项高等教育实证研究** 做了分类，而差异本身就是发现，而不是一个细节。
 
 ## 关联概念
 

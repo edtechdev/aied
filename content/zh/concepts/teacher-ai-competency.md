@@ -1,7 +1,7 @@
 ---
 title: 教师AI素养
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T16:05:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ ai_assist:
 - **教学整合：** 将AI使用映射到学习目标，设计支持学生[[metacognition|元认知]]与自我[[regulation|调节]]的[[scaffolding]]，并把AI整合进[[learning-design|教学设计]]。[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK研究]]刻画了教师如何通过多[[agentic-ai|智能体]]工作流来组合技术、教学与内容知识，而[[teacher-ai-teaming-five-levels|五级教师—AI协作框架]]（交易型 → 协同型）则捕捉了[[generative-ai|GenAI]]可能替代、补充还是增强教师能力的不同方式。
 - **评估素养：** 评估AI生成的内容与学生的AI产出，并理解当学生使用AI时[[assessment-validity|效度]]如何发生变化。这与[[automated-assessment]]、[[ai-detection]]以及更广义的[[assessment]]再设计议程相连。就推荐系统而言，这还延伸到判断AI的解释是否真正可理解、具有教学意义：[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor等人（2025）]]发现，当解释以领域（课程）语言表述而非暴露原始模型特征时，教师对AI分组建议的信任度更高——这是一种要求并评判[[explainable-ai|解释质量]]、而非接受不透明产出的技能。
 - **模型选择与提示设计是可展示的技能：** 工具性[[ai-literacy]]包含知道该用哪个模型、如何表述任务。[[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen等人（2026）]]让ChatGPT-4、Claude 3与Gemini Advanced在四组系统性变化的提示下，对153名职前教师的备课目标进行批评（研究1共 N = 240条反馈，研究2为345条），[[feedback]]按九个质量类别评分。仅模型选择就解释了评分质量方差的26.9%（研究2为18.4%），提示设计在此之上又显著增加了15.9%（5.7%）；唯一具有决定性的提示特征是领域专属技术语言，将其移除会显著降低质量（β = −0.412），而在研究1中添加示例、删除思维链指令并无显著差异。他们的解读——学科术语既能解锁训练数据中的相关内容，又像角色提示那样把请求框定为专业请求——再加上"使用当前能力最强的前沿模型"这一经验法则，使模型选择成为一种教学决策而非技术决策。
+
+- **视觉表征本身就是一个可测量的维度。** [[chen-ai-visualization-teaching-competency-scale-2026|Chen 等人（2026）]]在中国西部五个省份的 566 名教师中验证了一份五维度量表，用于生成、判断并据以行动视觉表征，各分量表的 alpha 从 0.911 到 0.934；它测量的是自报能力，没有重测信度，也没有对实践的观察。
 - **合乎伦理与批判性的使用：** 识别AI产出中的[[bias-mitigation|偏见]]，保护学生数据（[[privacy]]），并确保公平的结果（[[equity-in-ai-education]]）。[[llm-cultural-relevance-k12|文化相关的AI使用]]考察教师如何用LLM使材料多样化，而非强化主导规范。
 - **伦理责任是分散的，而非个人的。** 在七个国家案例中，教师被定位为AI使用的道德守门人，却缺乏制度性与认识论支持，因此伦理AI素养必须延伸到批判性与政治能动性，而非止于技术技能（[[raffaghelli-situated-ai-ethics-2026|Raffaghelli等人（2026）]]）。
 - **信心与态度：** 教师的[[self-efficacy|信心]]塑造其采用行为。[[teacher-ai-adoption-confidence|采用研究]]发现，信心、支持与感知效用驱动教师是否真正使用AI，而[[ai-pedagogical-orientation|教师的取向]]则塑造其在研究与教学中的采用。
@@ -217,3 +219,5 @@ ai_assist:
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — 四个TALIS 2024教师信念画像把专业学习与画像特定的AI使用障碍相连
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — 为职业教育教师教育中的高校教师设计AI微学习模块：一项设计本位研究
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild：教师配置的聊天机器人在真实使用中如何失败，以及如何修复
+
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — AI 赋能教师视觉化教学胜任力量表的开发与验证

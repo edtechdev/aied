@@ -1,13 +1,13 @@
 ---
 title: 自适应学习
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T14:46:08-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 - **规模化的个性化：**[[personalized-learning|个性化学习]]系统用自适应算法为每个学生提供独一无二的学习路径。[[deeptutor|DeepTutor]]与[[ai-powered-personalized-learning-elementary-fractions-2026|小学数学分数导学]]在实践中展示了自适应的个性化。
 - **内容排序：**[[adaptive-pretesting-retention|自适应预测试]]与[[adapt-adaptive-lesson-plan-transformer|课程计划变换器]]优化所呈现内容的顺序与类型。
 - **智能导学系统整合：**[[intelligent-tutoring|智能导学系统]]是典范的自适应学习平台，把诊断与适应结合在一起。
-- **AutoML 驱动的画像与诊断：**传统的教育模型难以处理多来源、异质的学习行为数据，这限制了学习者画像与诊断模型的开发。一个由自动化[[reinforcement-learning|机器学习]]驱动的个性化神经认知架构搜索框架，把[[multimodal|多模态]]教育数据与异质方法整合，生成针对异质学习者画像量身定制的诊断模型，并支持对学习过程的动态而非静态分析。
+- **AutoML 驱动的画像与诊断：**传统的教育模型难以处理多来源、异质的学习行为数据，这限制了学习者画像与诊断模型的开发。一个由自动化[[machine-learning|机器学习]]驱动的个性化神经认知架构搜索框架，把[[multimodal|多模态]]教育数据与异质方法整合，生成针对异质学习者画像量身定制的诊断模型，并支持对学习过程的动态而非静态分析。
 
 ### 有效性证据
 
@@ -51,7 +51,6 @@ ai_assist:
 在一项为期两年的学区 RCT 中，约束性的瓶颈是采用率而非适应机制：把报名压缩为一步，仅凭设计变更就把首次会话的采用率从约 45% 提到 83%，而意向处理增益随采用率上升而增长（[[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos 等（2026）]]）。
 
 一项遵循 PRISMA 的、覆盖 44 项研究的综述发现，参与度文献偏向行为参与、在智能体参与上最薄，并报告了一种新奇效应——在关于 ALEKS 与 W-Pal 的纵向研究中，一旦工具的新鲜感消退，参与度随时间下降（[[simon-student-engagement-adaptive-learning-2026|Simon、Zeng 与 Fryer（2026）]]）。
-
 ### 人工智能时代：基于 LLM 的适应及其风险
 
 [[generative-ai|生成式人工智能]]扩展了自适应系统能做的事——对话式[[agentic-ai|智能体式]]导学系统、基于[[rag]]锚定的内容，以及由[[llm]]驱动的[[intelligent-tutoring|导学]]——它们适应的不只是题目难度，还有语言与解释风格（如[[learnmate2-llm-adaptive-learning|LearnMate-2]]、[[deeptutor|DeepTutor]]、[[chudziak-ai-math-tutoring-platform|多智能体自适应导学]]）。然而，基于 LLM 的适应引入新的风险：没有可靠的[[student-modeling|学生模型]]，适应可能建立在浅层信号上；过度适应可能减少学生所需的生产性挣扎（见[[desirable-difficulties|合意困难]]、[[cognitive-offloading|认知卸载]]）；而个性化与保全学习者[[agency|能动性]]之间的平衡是一个开放的设计问题（见[[agentic-ai|智能体式人工智能]]）。有一种由学习者请求的适应变体完全不需要任何[[student-modeling|学生模型]]：在 Sidorkin（2026）的研究生课程中，阅读材料只在学生提出追问、要求重构、深化、简化或本地化时才调整，而面向理解的请求可靠地产出更密集的脚手架（比基线文本多 3.4 到 8.7 倍的定义性标记），这就是为什么要求每个阅读至少三个追问，把材料变成了交互。它也把适应的负担移回学习者身上：这里的适应只在学生知道自己该要求什么时才发生。
@@ -88,6 +87,29 @@ ai_assist:
 
 - **从过程序列适应，而非聚合分数。**[[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong、Bulathwela 与 Cukurova（2026）]]通过挖掘 65 名学生三人组对话轮次的*顺序*导出脚手架规则，把自适应学习从聚合的行为或表现测量移向个体过程序列；最大化的脚手架提高了任务内行为，但也带来了脚本化，且该设计尚未被检验。
 
+## 常见误解
+
+- **“自适应就是个性化就是个别化。”** [[khalifeh-redefining-personalized-learning-ai-2026|系统综述]] 发现这四个术语在**文献中被不一致地使用**，这意味着报告的效应量在很大程度上取决于适应是如何被操作化的，而不是取决于适应本身。把使用这些词方式不同的研究合并起来的元分析，合并的是不同的处理，平均值描述不了其中任何一个。
+- **“在系统中达到的掌握就是学会的掌握。”** 在一项 **6,000 名学生的中学实地实验**中，AI 支持的“连续三次正确”掌握规则把**平台定义的达标率提高了约 28.7 个百分点，却没有改善**迁移测量。该规则优化的是平台自己的标准。这是目前最清楚的证明：掌握信号是学习的一个模型，而不是学习。
+- **“基于正确性的适应性知道何时停止。”** [[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]] 发现，从正确性推断掌握的系统有**过早终止练习**的风险：系统把一串正确读作理解，撤走了学习者仍然需要的练习。在成功时停止的适应性，可能恰好减掉产生保持的那些练习。
+- **“瓶颈在于适应做得多好。”** 在一项**为期两年的学区随机对照试验**中，约束性的因素是**采用率**：仅靠设计改动，把注册压缩为一步就把首次课程的采用率从约 **45% 提高到 83%**，意向治疗增益也随之增长。最聪明的适应，服务不到任何从未抵达它的人。
+- **“参与一旦建立就会持续。”** 一项符合 PRISMA 的 **44 项研究**综述发现，参与文献偏向行为性参与，在能动性参与上最薄弱，并报告了一种**新奇效应**：在 ALEX 及类似系统的纵向研究中，参与随时间下降。早期参与不是设计的稳定属性。
+
+## 这对实践意味着什么
+
+**面向教师与设计者**
+
+- 用你需要成立的东西来定义掌握，而不是用平台能看到的东西。28.7 个百分点的达标率增益而没有迁移改善，正是要防范的失败模式：如果标准是连续三次正确，你得到的就是连续三次正确。
+- 对任何需要保持的内容，把练习延续到正确性信号之后。使用[[desirable-difficulties|间隔与交错]]复习，而不是信任自适应系统来决定学习者何时算完成。
+- 在调参之前先移除注册摩擦。把一步合并掉带来 45% → 83% 的采用率，胜过了此文献中大多数教学法改进。
+- 为参与衰减做计划。纵向研究记录了下降；一个依赖持续自愿使用的设计，需要一个让它持续被使用的理由。
+- 检查一个系统声称在哪个构念上做适应。行为性参与被研究得最多，对学习的信息量最少；能动性参与在证据基础中最薄弱。
+
+**面向开发者**
+
+- 在引用任何效应量的同时报告“自适应”的操作性定义，因为文献中的定义彼此分歧，合并的数字会继承这种含糊。
+- 在你自己的验证中把掌握标准与学习结果分开。如果你的验证测量就是驱动适应的那个信号，它就不是独立证据。
+
 ## 关联概念
 
 - [[online-teaching-and-learning]] — 在线教学与学习
@@ -119,7 +141,7 @@ ai_assist:
 - [[making-ai-tutoring-productive-mastery-math-2026]] — 让人工智能导学变得有成效：基于掌握的数学练习
 - [[chudziak-ai-math-tutoring-platform]] — 自适应／个性化多智能体数学导学（Chudziak 与 Kostka，2025）
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — 重新定义个性化学习：系统综述
-- [[deeptutor|DeepTutor]]
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]

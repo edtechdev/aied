@@ -1,7 +1,7 @@
 ---
 title: 基准
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-24T14:35:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-23T09:35:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,12 @@ ai_assist:
 - **把模型能力报告为一个校准过的水平，而不仅是准确率。** [[standardized-assessment-llm-english-proficiency-2026|Min et al.（2026）]]把 624 个专家标注条目映射到具名熟练度水平上，使用 2,050 条学习者回答，发现前沿模型超出校准后的天花板——一个百分比会隐藏的限度。
 
 - **一条评分规则可以被它所训练的模型钻空子。** 一个通过重复同一个最佳决策来最大化的适配性指标显示，基准设计应公布 argmax、把适配性作为差值评分，并报告高于随机的基线（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo 与 Fernández De la Cruz, 2026]]）。
+
+## 常见误解
+
+- **“排行榜名次告诉你一个辅导者有多好。”** StudentBench 把 **2,383 名成人**随机分配到 AI 辅导、真人专家辅导与一个视频条件，并对照人类辅导者而非其他系统评分。一个只能与其他模型相比的基准，回答的是一个没人需要回答的问题。
+- **“模拟画像是辅导者评估的充分基础。”** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] 把评估建立在**有文献记录的案例**而非模拟画像之上，使用 **923 段对话**。虚构的学生画像让系统得以通过一些并不会发生的案例。
+- **“基准可以不检查评判者就被信任。”** 幻觉被按**对照检索到的开放许可片段的蕴含关系**评分（**与专家判断的 κ = 0.76**），评判者在它的分数被使用之前已对照专家验证。未经验证的自动评判者产出的数字意义不明。
 
 ## 关联概念
 

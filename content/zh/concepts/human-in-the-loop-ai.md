@@ -1,7 +1,7 @@
 ---
 title: 人在回路
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T16:20:00-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-24T06:14:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,8 @@ HITL 是对完全自主的 [[ai-education|教育 AI]] 之局限与风险的回�
 
 处方性支持是一个日益被论证为人类监督不可缺席的领域。[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]] 测试了三个大语言模型能否依据 [[learning-analytics|学习分析]] 指标推荐学生支持方案，发现对需求的敏感性有限且跨模型不一致性显著 —— 结论是在 [[llm|大语言模型]] 的处方性建议能被安全、合乎伦理地部署之前，人在回路的判断仍是必要的。
 
+扣留系统所偏好的答案是保护性的，而非纠正性的：在一项从不透露推荐立场的多智能体辩论中，转向错误 AI 答案的有害切换从 42.0-60.5% 降至 5.7-8.2%，而对正确建议的采纳也随之下降（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等人，2026]]）。
+
 第二种架构把人类判断放在模型的 *上游* 而非其输出处。在 [[lee-learner-question-types-ai-education-2026|Lee、Atif 与 Kang（2026）]] 对学习者问题分类的研究中，三位博士级专家治理了整条管线：他们精炼了每个 [[constructivist|建构主义]] 角色的操作定义，独立标注直到经不一致消解后 Fleiss' kappa 从 0.60 升至 0.83，并验证了用于平衡训练集的回译与改写题目。
 
 ## CODE-GEN：人在回路的选择题生成
@@ -77,12 +79,12 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 
 ## 为何 HITL 在 AI 时代重要
 
-人在回路设计因若干相互汇合的原因，已成为本知识库 [[agentic-ai|智能体式 AI]] 与 [[reducing-ai-misuse|负责任 AI 使用]] 讨论的核心：
+人在回路设计因若干相互汇合的原因，已成为本知识库 [[agentic-ai|智能体式 AI]] 与 [[ai-literacy|负责任 AI 使用]] 讨论的核心：
 - **教学性安全。** [[pedagogical-safety|教学性安全]] 要求拥有真实教学权威的 AI 保留人类监督，使错误、偏见或有害输出在到达学习者之前被抓住。这对 [[agentic-ai|主动追求目标]] 的自主智能体尤其重要。
 - **监督在实践中罕见，而不只是在理论上。** [[agentic-ai-education-scoping-review|Wang 等人（2026）]] 发现，在 474 个教育智能体式 AI 系统中，稳健的内嵌治理与人在回路监督极少出现，即使单任务自主性与多智能体协作在增长 —— 设计原则与部署实践之间的落差。
 - **关键问题是如何让回路可操作，而非人类参与多少。** 学习科学的观点认为，围绕数据捕捉、计算性解释与可能回应来组织学习，会使教学行动取决于系统能检测并作用于什么，且警示与参与分类在任何教师或学生行动之前就解释着学习者（[[in-the-loop-educational-ai-learning-sciences-2026|Pande（2026）]]）。
 - **效度与质量控制。** HITL 是 [[automated-assessment|自动化评估]] 与生成的质量闸门 —— 人在自动评分不可靠之处裁决（见 [[llms-do-not-grade-essays-like-humans-2026|大语言模型作文评分]] [[research-methods-aied|研究]]）并验证生成的题目。一项对 42 项评分与反馈研究（2023—2025）的 PRISMA 引导 [[meta-analysis-systematic-review|系统综述]] 明确得出同样结论：大语言模型在简短、结构良好的任务上与人类评分者相当，但无法在复杂、开放式或主观的工作上完全取代人类判断，而最高效的评分效果在把 AI 驱动评分与教师监督和验证结合起来的混合系统中达成（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 等人（2026）]] 具体展示了边界落于何处：ChatGPT-5 在客观药学考试题上与教师相当（CCC 0.935–1.000），但在简答与论述题上即便给了量规也并不可靠，使作者建议对复杂、主观或高风险的评估采用含人工审查的混合评分。
- 重复并不构成那种监督的替代：在五个不同日子对完全相同的提交重新评分，同一模型只在 Krippendorff's alpha 0.625 上复现自身结果，变异集中于中间分数段，A 与 F 在五次数目中缺席（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。
+- 重复并不构成那种监督的替代：在五个不同日子对完全相同的提交重新评分，同一模型只在 Krippendorff's alpha 0.625 上复现自身结果，变异集中于中间分数段，A 与 F 在五次数目中缺席（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。
 - **学习者能动性。** 把人留在回路中保住 [[agency|能动性]] 并支持 [[self-regulated-learning|自我调节学习]]，对抗完全自主辅助可能诱发的 [[cognitive-offloading|过度依赖]]。
 
 - **学生自己把人放在高风险的一端。** 在 93 名本科生中，81.7% 对占成绩 40% 的期末论文偏好人工评分，93 人中有 75 人希望 AI 辅助而非取代评分者，69 人希望 AI 评分总由人工审查（[[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli 等人（2026）]]）。
@@ -104,11 +106,9 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - **智能体式与多智能体系统：** 随着 AI 变得更自主，HITL 监督是核心 [[agentic-ai|设计护栏]]（[[agentic-ai-pedagogical-best-practice-2026]]、[[guided-llm-scaffolding-independent-learning]]）。
 - **按决策后果而非模型不确定性路由（2026）。** [[human-in-the-loop-ai-scoring-national-assessment-2026|一项 2026 年的操作性研究]] 对乌拉圭 Acredita EB 国家认证考试（两版，各约 5,000—6,000 名考生）的研究展示了当人在回路设计由决策后果而非模型不确定性驱动时的样子。一个 GPT-5 评分器在 15 个量规项目上与专家评分者一致的占 60—80%，但系统性偏保守，在 15.3%（2024）与 16.5%（2025）的通过/不通过比较中产生“人通过而 AI 不通过”的差异，且几乎从不反向。因此该框架对 AI 通过的结论照单全收，并把每一个可能改变考生结果的 AI 不通过结论路由给专家评审 —— 在此之前先跳过那些通过/不通过不取决于写作部分的考生 —— 把需要全量人工评分的回应削减至少 50%。另一项 2026 年的设计从另一侧划定边界：在一个多智能体 AI 标准化病人平台（[[ai-standardized-patient-scaffolding-medical-2026|Yang 等人]]）中，人类监督只为 AI 被判定不适合决定之事保留，由教师与人类标准化病人提供情境解释、补救与准备度判断，且系统被明确禁止自主判定 [[medical-education|临床]] 能力。
 
-扣留系统所偏好的答案是保护性的，而非纠正性的：在一项从不透露推荐立场的多智能体辩论中，转向错误 AI 答案的有害切换从 42.0–60.5% 降至 5.7–8.2%，而对正确建议的采纳也随之下降（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等人，2026]]）。
 - **研究工具：人验证的是标签，而不是分数。**学习科学与计算机科学方向的编码者在一个同步时间线上评判 LLM 生成的行为片段，κ = 0.703，他们的分歧成为该研究自身的错误分析（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等人，2026]]）。
 - **模型做摘要，研究者做标注。**一项协作建模研究用 GPT-3.5-Turbo 为 394 个话语片段各写一份任务情境感知的摘要，由研究者逐份验证并编码到 κ ≥ 0.7，再在这些标签上训练检测器，因此模型本身从不作出判断。监督随后向外移动：四位经验丰富的教师评审了一个已标注片段，其中三位识别出了这些行为，另一位则主张同一片段上的两个标签模糊了学生正在做的事，作者记录而未解决这一可用性异议（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang 等人，2026]]）。
 - **把 HITL 当作一门学科的整体架构，而非单条工作流。**[[zhai-science-literacy-generative-ai-coherence-2026|Zhai 等人（2026）]] 给出四个相互咬合的层级——数据基础设施、模型开发、教学接口与人类治理——由三条原则维系：人的监督与能动性、协同适应智能，以及情境响应性。
-
 
 ## 综合
 
@@ -118,6 +118,12 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - **学习者作为自己辅导的在回路之人。** [[ko-hughes-vsd-student-centered-its-2026|价值敏感设计]] 与社区学院学生一起为智能辅导系统（ITS）产出了一整套面向学习者的 HITL 特性（对重新评估与评审的控制、个性化目标/节奏、供复习的书签、对掌握度的信心确认，以及一个 AI 辅助参与层级控件），把学生定位为辅导回路的主动控制者，而非自适应决策的被动消费者。该研究还发现教师意见分歧：这类学习者控制是否会损害系统引导学习路径的完整性 —— 这是关于人类（学习者 对 教师）判断在何处增加最多价值的更广泛资源分配问题的一个实例。
 - **从 AI 升级到专家是一个人在回路的动作。** SCAN 框架按学习者距离把任务分配给四种生成式 AI 模式，并把一个正确分配的 AI 任务内的被动 [[student-engagement|参与]] 读作一个错配技能的信号，据此把学习者从 AI 转向专家协助，并以人作为认识论审计者（[[ai-teammate-task-distribution-medical-training-2026|Tsim 等人（2026）]]）。
 - **对 AI 采用建议的监督。** 由于持怀疑态度的用户所咨询的 [[conversational-ai|对话式 AI]] 系统可能倾向于鼓励采用，人类监督与独立评估不可或缺。一项显示多数前沿模型把持怀疑的农村 [[k-12|K-12]] 员工引向 [[student-engagement|参与]] 的审计，凸显了对透明、可审计的 AI 建议的需求，而非不加批判的依赖。
+
+## 常见误解
+
+- **“展示系统的建议有助于人类监督它。”** **保留系统偏好的答案是有保护性的，而不是纠正性的**：在一场**从未揭示推荐立场**的多智能体辩论中，转向 AI 答案的有害切换**下降了**。披露招致顺从；保留支持判断。
+- **“人在回路必须意味一个人、一个决定。”** 一个由[[teacher-role|教师]]智能体、助教智能体与同学原型组成的多智能体课堂已在清华大学部署，**超过 500 名学生、超过 100,000 条学习记录**。监督通过这种安排扩展，而不是通过增加监督者的数量。
+- **“审阅 AI 输出是直觉性的。”** 在一项**有 23 位教育工作者的被试内研究**中，一种基于审阅的方法**改善了每一条 CTML 原则（平均评分从 3.07 到 3.86，p < .01）**，教育工作者对生产效率的评价也很正面。审阅是一项在结构化方法下得到改善的技能。
 
 ## 关联概念
 - [[pedagogical-patterns]] — 人类评审在受测序列中的位置，以及从未被单独测过的东西

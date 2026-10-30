@@ -1,7 +1,7 @@
 ---
 title: 口语考评
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -14,7 +14,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ ai_assist:
 口试的诚信理由也是有时间限制的：[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等人（2026）]] 主张，AI 眼镜与耳机可以在现场口试中传递隐蔽的实时提示，因为可穿戴 AI 不会产生目光转移或可探测的信号，所以互动式口试不再是免疫的。
 
 - **规模上限是设计约束。** 在一场有 73 名[[cs-education|计算机]]教育者参加的研讨会上，口头与互动式考评被报告为可获得的、关于个体理解的最强证据，也是最不可规模化的补救办法；参与者描述的缓解手段是分散与抽样——共享助教池、权重低于期末考试的同伴互评，以及点名轮换的学生子集（[[computing-assessment-genai-workshop-report-2026|Akbar 等人（2026）]]）。
+
+## 常见误解
+
+- **"口试无法规模化。"** 在[[code-review-genai-cs1|CS1 口头代码评审研究]]中，**每周 15 分钟的访谈承载了每次作业 70% 的分数**，而粘贴字符数与总字符数之比仍然提供了信息。代价是真实的，而该设计在课程规模上是可以实施的。
+- **"口试比笔试更宽松。"** 在报告的试点中，分数**超过了面对面选择题测验：期中中位数 92.5 对 70（p < .001），期末中位数 94.2 对 86.4（p = .002）**。口试并不是那个宽松的选项。
+- **"模拟的会面与渐进披露病例等价。"** 在[[ai-standardized-patient-scaffolding-medical-2026|一项针对一百名三年级医学生的随机试验]]中，标准化病人系统被**与渐进披露的病例材料相比较**，这是对等价性的直接检验，而不是对它的假定。
 
 ## 关联概念
 

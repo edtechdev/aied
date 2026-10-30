@@ -1,7 +1,7 @@
 ---
 title: 提示工程
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T15:22:00-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -71,7 +71,6 @@ ai_assist:
 - **教师规划中基于角色的模板与质量量规。**[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir（2025）]]为儿童 STEAM 艺术[[curriculum-design|课程规划]]经验性地开发了一个提示框架，把"角色（R）–指令（I）–终点目标（E）"模板（改编自 RISEN）与一份"四点一线"优化量规——标准化、实用、吸引人且完整，外加一个拓展维度——配对。把该量规应用于批判与精炼提示，使生成的方案保持在执业美术教师可接受的范围内（均分高于 4/5），同时暴露了纯一次性提示未加处理的重现性缺口（[[personalized-learning|个性化]]、[[pedagogical-safety|儿童安全]]约束、文化偏见）——表明提示模板加显式评价标准，充当了课堂生成的质量控制支架。
 - **角色与约束设计作为自变量。**[[wang-teacher-student-centered-agents-physics-2026|Wang 等（2026）]]比较了构建于同一模型与平台、温度同为 0.3 的两个代理，其唯一差别在于提示如何规定角色、技能与约束：一个从有边界的教科书知识来源作答的专家教师代理，对一个被脚本设定为诊断[[misconceptions]]并检查理解的共情型学生中心代理。仅角色差异就改变了学习表现、认知负荷、心流体验与被感知到的共情，表明角色规定是一个有可测效应的教学设计决策，而非风格上的点缀（[[pedagogical-agent]]）。
 - **提示作为评估设计。**[[ecd-prompts-automated-essay-scoring-2026|Xiong 等（2026）]]把以证据为中心的设计（Evidence-Centered Design）的学生模型、证据模型与任务模型映射到评分提示的各个部分，推导出五项原则——意图性、可追溯性、可问责性、迭代与公平性；他们用 ECD 构建的提示在叙事作文上的评分比零样本、少样本与思维链基线更准确。
-
 ### 与更宽概念的关联
 
 提示工程与[[scaffolding]]相连——设计良好的提示可以为学生的思考搭支架，而非绕过它。它与[[metacognition]]和[[ai-literacy]]相交，因为有效的提示要求同时理解人工智能的能力与自己的学习目标。[[cognitive-offloading]]研究直接把提示质量与"人工智能使用是在支持还是在破坏学习"联系起来。
@@ -80,6 +79,13 @@ ai_assist:
 - **提示策略预测表现。**一项[[isaza-chatgpt-engineering-prompting-2026|对 128 名工科学生的实证研究]]发现，人工智能查询效率（清晰、结构良好的提示）与人工智能驱动的[[problem-solving]]（把人工智能输出策略性地整合进推理）是学业成功最强的预测因子——即使在控制 GPA 之后——表明提示是一种可教的技能，它塑造了学生学习人工智能的有效程度。
 - **追踪结果的不只是提示质量，还有提示风格。**从 1,540 个辅导会话中导出的特质把概念性提问与考试成绩相联，而任务委派行为与之负相关——但这些特质在下一学期未能复现，因此它们是行为模式而非稳定技能（[[principal-trait-analysis-human-ai-skills-2026|McNichols、Du 与 Lan（2026）]]）。
 - **一个可用的分类法，以及哪些提示类别真正划算。**[[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen 等（2026）]]把技术策略翻译为 3K 模型（*Kontext、Kernauftrag、Klarheit*——语境、核心任务、清晰性）：十一个面向实践的类别，每个都配好/中/差量规，每个都作为为职前教师学习目标生成的反馈的实验变体加以测试。学科专用的技术性术语是决定性的类别——把学科术语换成日常同义改写，在三个模型上都显著降低了反馈质量（β = −0.412）——而在第一项研究中，加入具体范例、移除思维链指令，与基线无显著差异；一旦用表现最佳的模型–提示组合重跑分析，范例确实有帮助（β = 0.52）。提示质量与模型选择共同解释了评定反馈质量中 42.8% 的方差，这是该论文的主张：提示工程是一种可测量、可教的胜任力，而非一种风格偏好——而且它的各类别在效应量上不可互换。
+- **更好的提示减少了迭代，却没有提高输出质量。** 在备课实验之前接受过 AI 培训的教师写出了更长、更详细的提示，需要的精炼更少，而未受训的教师使用更短的提示、需要更多后续迭代，但盲评专家对最终材料的评分相同（[[appel-genai-teacher-lesson-preparation-experiment-2026|Appel 等，2026]]）。这里的提示手艺买到的是更少的修改轮次，而不是更强的初稿。
+
+## 常见误解
+
+- **"提示质量是学生的属性。"** **提示认知追踪的是学科，而不是学生**：[[student-ai-conversations-cognitive-engagement-2026|Chang 与 Li（2026）]]对**来自 116 门课程的 60,087 条提示**作了分类，发现学科预测提示的复杂度。教学生更好地提示，处理的是一种位于学科内容之中的变异。
+- **"学生会形成自己的提示实践。"** 当教师示范提示时，**学生逐字复用它**：在**来自十二个中学 STEAM 小组的 310 条录制提示**中，照抄教师指令很常见。示范产生复制，这正是它是一种系统设计杠杆而非可迁移技能的原因。
+- **"提示首先是学习者技能，其次才是系统属性。"** 这把提示**移入自适应系统设计的杠杆**，并对**投入与效率（练习转化率 28.1% 对 19.6%）**有可测的效应。界面的提示可供性比提示教学更能改变行为。
 
 ## 关联概念
 

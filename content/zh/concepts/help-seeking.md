@@ -1,7 +1,7 @@
 ---
 title: 求助行为（Help-Seeking）
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-24T14:53:17-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-24T08:52:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -87,7 +87,6 @@ ai_assist:
 - **从*是否*转向*如何*** — 关键的设计问题是如何组织与建设性挫折原则相一致的提示交付，而非是否提供提示。([[lak2026-hint-button-unproductive-use]])
 - **信息长度是交付研究真正测量过的杠杆。** 在一门真实的编程课程中，在 14,809 个学生练习对上（标准差 204.9 字符），更长的 LLM 提示预示着更差的下次提交正确率、更多剩余尝试与更慢的重交（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。可读性几乎没有改变任何结果，因此数量比难度更重要。
 - **同一课程部分上的先前提示与整合步骤上更低的成功率相关。** 在项目较早步骤中获得反馈的学生有 95.6% 解决了最终步骤，而没有获得反馈者为 98.1%，对数几率系数为 −1.096（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova 等，2026]]）。作者并不把这解读为损害，因为寻求提示的学生很可能本来就是会在那里挣扎的人，而这正是本页提出的[[self-regulated-learning|监控]]问题。
-
 ### LLM 导师的采用问题
 
 现实中的学生经常**绕过[[conversational-ai|聊天机器人]]的[[scaffolding]]**——未必有害，但往往是因为聊天机器人的教学框架与学生自身的学习目标不匹配。因此评估流程必须测量的不只是导师是否提供脚手架，还包括学生是否*接受*了这些脚手架，而不能假定他们会接受。([[rethinking-scaffolding-llm-tutors]])
@@ -115,6 +114,12 @@ ai_assist:
 3. **用透明度校准信任。** 警告 AI 可能出错可以增加恰当的求助行为和参与度。([[ai-fallibility-warning-help-seeking]])
 4. **测量采用，而非仅测量脚手架。** 评估学生是否真正参与教学框架，而不只是导师是否提供。([[rethinking-scaffolding-llm-tutors]])
 5. **支持监控与能动性。** 求助脚手架应强化[[metacognition]]与[[self-regulated-learning]]，防范[[cognitive-offloading|过度依赖]]。
+
+## 常见误解
+
+- **"需要帮助的学生不会开口。"** 一项在大型本科课程中通过学术聊天机器人给学生发消息的**预注册实验**发现，**辅导与补充支持的使用率更高**。推动改变了行为，因此障碍在于触发，而不在于意愿。
+- **"求助请求都与学习有关。"** **操作性支持需求**使这个假设变得复杂：在 **4,093 条查询**中，至少 **20.4% 问的是待处理提交的状态，而不是求知识**。对帮助的需求有五分之一是行政性的。
+- **"使用 AI 导师就意味着监控自己的学习。"** 在一项 **98 名九年级学生**使用 GenAI 导师的研究中，互动**以工具性请求为主，几乎没有对自己学习的监控或评价**。索要答案并不是该构念意义上的求助。
 
 ## 关联概念
 

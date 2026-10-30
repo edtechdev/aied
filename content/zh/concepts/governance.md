@@ -1,7 +1,7 @@
 ---
 title: AI 治理
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-24T14:54:18-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **AI 治理**——引导 [[ai-education|教育中的人工智能]]负责任地设计、部署与使用的框架、政策、机构结构与规范。治理既涵盖正式的机构机制（AI指导小组、学术诚信与可接受使用政策、伦理审查），也涵盖非正式规范（教师指南、专业发展、[[reducing-ai-misuse|负责任使用 AI]]的文化）。在AI时代，有效的治理是合乎伦理的、[[equity-in-ai-education|公平的]]、可持续的GenAI采纳的前提——它决定AI是被透明地、可问责地整合，还是以加深不平等的被动方式被采纳。
+> **AI 治理**——引导 [[ai-education|教育中的人工智能]]负责任地设计、部署与使用的框架、政策、机构结构与规范。治理既涵盖正式的机构机制（AI指导小组、学术诚信与可接受使用政策、伦理审查），也涵盖非正式规范（教师指南、专业发展、[[ai-literacy|负责任使用 AI]]的文化）。在AI时代，有效的治理是合乎伦理的、[[equity-in-ai-education|公平的]]、可持续的GenAI采纳的前提——它决定AI是被透明地、可问责地整合，还是以加深不平等的被动方式被采纳。
 
 ## 值得思考的问题
 
@@ -48,6 +48,8 @@ ai_assist:
 - **学生参与政策共创：** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] 展示了一项引导式探究活动如何通过让学生共同设计GenAI课程政策，浮现出学生的价值观——优先考虑培训、标准化 [[ai-use-disclosure|声明]]程序、更强的机构支持，以及更多参与决策。这把 [[pedagogical-partnerships|学生定位为治理的伙伴]]而非被动对象，以自下而上的学生声音补足机构层面的政策。
 
 - **技术解决主义陷阱与政策赤字：** 一项对 65 项 AI × [[social-emotional-learning|社会情感学习]]研究的系统综述（[[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]）发现，研究往往突出技术潜力而对负责任实施的机构条件着墨不足——即"技术解决主义"陷阱。作者把政策 [[student-engagement|参与]]与发表场所联系起来，提出一个"WH问题"框架使治理含义针对具体行动者，呼应了本知识库更广泛的发现：机构治理落后于AI采纳。
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等人（2026）]]展示的是一种治理错配，而非治理真空：学生希望大学"做得更多"，而机构坚持认为决定属于院系、项目与课程层面，因此需求与授权指向不同的机构，而沉默填补了这个缺口。
 
 ## AI 治理在研究中如何出现
 
@@ -79,12 +81,13 @@ AI治理的一个核心舞台是 **机构如何治理评估**——决定什么�
 ### 跨层面治理
 
 AI治理运作于多个层面——从 **国家/监管**（政府政策、OECD框架、各州AI指引）到 **机构**（大学政策、AI指导小组、伦理审查委员会）再到 **课堂**（教师指南、教学大纲声明、作业设计）。有效的治理对齐这些层面：国家框架设定期望，机构把它们翻译为政策与支持结构，教育者以培养学生AI素养与能动性的方式实施。本知识库的研究强调，治理不仅仅关乎限制，更关乎创造负责任、公平、支持学习的AI整合的条件——包括 [[educational-development|教师发展]]、透明指引与持续评估。
-
 **同样的行为，不同的裁决。** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] 把 15 个标准化的学生使用情境应用于 20 所澳大利亚大学的公共政策环境，产生 300 个分类：40.0% 明确禁止、32.3% 潜在违规、9.0% 有条件允许、18.7% 不确定——没有一个达到"明确允许"的门槛。约束性工具在 100 个组合上对生成式AI沉默，而指引解决了 88 个；已声明的语言改写与一段AI起草的段落产生了最高的跨校分歧，与对明确评估禁止的一致形成对照。在上文所述层面被假定对齐之处，本研究测量了它们分歧多远，并把操作边界定位于指引而非约束性政策。
 
 **教师治理与审慎审查的理由。** 在上文层面通过政策对齐之处，一些部门则通过共同治理到达它们。[[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] 把 [[legal-education|法学院]]描述为一个难例，理由正在于此：美国法学院教师对课程标准拥有不寻常的个人权威，因此政策必须与他们共建而非向他们宣布，而多数写下禁止性规则的学校也保留了对个别教师的裁量权，并承诺随技术演进而修订。他们的建议——设计上的灵活性、定期审查、主动培训，以及通过信息共享而非等待认证机构来指定政策来实现自我规制——把治理描述为一个持续的过程而非一份文件，这与 [[crompton-governing-genai-higher-ed-delphi-2026|德尔菲共识]] 建议定期审查周期与常设多学科委员会是同一个观点。
 
 在全机构层面，**AIGEM框架**（[[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]）把负责任的AI定位为教育管理的一种战略性组织能力，整合AI战略领导力、负责任治理、决策智能、人机协同智能、能力发展与可持续价值创造——并把负责任的实施与SDG挂钩。它强调，治理不仅是叠加在教学上的一层合规，而是教育机构的一项高管职能。
+
+**关怀伦理把责任放在采纳了该工具的机构身上。** [[jones-care-ethics-ai-governance-higher-education-2026|Jones（2026）]]把责任定位在选择了这个系统的机构，而不是供应商或注意到这一模式的那位教师，并追问同一套规则是否同样约束写下规则的管理者与生活在规则之下的学生。
 
 ### 与相关概念的关联
 
@@ -101,6 +104,14 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] 把 **伦理与数据治理** 识别为可信的基于LA的教育干预的七大使能因素之一——LA与AI伦理使用的政策、数据隐私、安全与可问责性——并把 [[trust|可信性]]（包括支持实施的领导力与治理）定位为有意义的数据驱动干预的前提。
 
 - **治理可以被设计进工具中。** 一个六维治理画像——教学法基础、教学权威、人类可问责性与控制、学习者能动性与认知参与、情境特定性与评估可见性——把治理定位于教学工具的交互模型、提示、评分量表、审批门与仪表板，追问机制是否契合教学功能，而非工具是严格还是宽松（[[instructional-governance-design-computing-education-2026|Dickey, 2026]]）。
+
+- **一个以人为本的框架把解释而非工具置于中心。** 在一所使命驱动的文理学院，教师在一次结构化的教育日活动里使用了一个生成式 AI 支持的 Assessment Wizard，作者得出结论：人的判断必须保持为不可协商的解释权威，并在广泛实施之前先建立核验检查点与治理（[[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot、Copeland 与 Pryor，2026]]）。顺序是先形成与核验，再规模化。
+
+## 常见误解
+
+- **"大学已经采纳了有约束力的 AI 政策。"** 在 **48 所机构**中，**40 所（83%）**至少有一份公开文件，而在这 40 所中，**治理大多以指引而非约束性**规则的形式实现。公开的指引不是可执行的政策。
+- **"政策以学生优先来写，因为学生才是风险。"** 多数文件同时针对**教师与学生（20 份，51%），而非仅针对学生（6 份，15%）**，且政策类型与受众都不随授课方式变化。框定是共同的，这意味着义务也是共享的。
+- **"政策模糊不影响学生体验。"** 政策模糊直接体现在**学生体验**上：[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|学生对 GenAI 的参与]]受这种不确定性的塑造，因此模糊是一种主动的条件，而非中性的缺口。
 
 ## 关联概念
 - [[pedagogical-partnerships]] — 教学法伙伴关系
@@ -124,6 +135,8 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 - [[student-support-and-success]] — 机构AI支持系统的监督
 
 ## 关联文章
+
+- [[jones-care-ethics-ai-governance-higher-education-2026]] — 面向机构 AI 治理的关怀伦理：五个构成要素及其转化出的机构问题
 - [[generative-ai-governance-education-scoping-review-2026]] — 教育中的生成式AI治理：原则、机制与风险的范围综述（Elmahjub et al. 2026）
 - [[ai-literacy-sdg-governance-framework-2026]] — 作为可持续发展治理能力的人工智能素养：AIRE分类法与AI–SDG联结（Islam, Morshed & Islam 2026）
 - [[tan-aigem-ai-educational-management-2026]] — 教育管理中AI治理的AIGEM框架

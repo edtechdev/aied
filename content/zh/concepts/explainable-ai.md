@@ -1,7 +1,7 @@
 ---
 title: 可解释 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 具体的 AIED 证据基础横跨以上全部。**可解释的[[knowledge-tracing|知识追踪]]**让学习者知识模型可直接检视（[[huang-interpretable-knowledge-tracing-2026]]、[[explainable-probabilistic-kt]]、[[neural-symbolic-knowledge-tracing]]）。**自我解释的替代模型**把黑箱模型蒸馏成一个小的、可解释的[[llm|语言模型]]用于[[learning-analytics]]（[[distilling-self-explaining-lm-learning-analytics-2026]]）。**反事实解释**——"要得到不同结果需要改变什么"——支持教育决策支持与补救（[[sc2r-counterfactual-recourse-educational-2026]]）。**联邦化 + 可解释的学习分析**表明，即使排序稳定性保持不变，解释质量也可能漂移（校准退化），这强调解释不是固定属性，而是一个有待测量的系统输出（[[villegas-ch-federated-explainable-learning-analytics-2026]]）。而**可解释的[[affective-computing|情感]]ITS**在[[affective-tutoring|情绪感知]]辅导中展示了解释（[[multimodal-affective-its-presentation]]）。
 
+- **外部测量绕开了不忠实叙述的问题。** 过滤决策日志把工具轨迹重建为来源树，并用四项确定性信号为证据排序，因此影响分数可以独立于推荐被验证，而反事实移除工具确认了该排序追踪的是依赖关系（[[filtered-decision-logs-transparency-genai-2026|Anbalagan 等人（2026）]]）。
+
 ## 解释的质量，而非有无
 
 贯穿全部证据的一条反复出现的教训：**有解释还不够**；解释必须适合其受众、准确、并与风险水平经校准。XAI-ED 框架明确点名了若干陷阱：
@@ -92,9 +94,12 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 具体到可解释性，真正起作用的作业是那些把解释逼出笔记本的：与准确性指标并列计分的模型卡，以及结构化的解释审计——学生把可解释性工具应用于自己的模型，然后把结果呈现给没有共同技术背景的受众。执行性是伦理邻近课程中最常缺失、却让其余部分不止于象征性的那一根支柱：奖励负责任文档的量规、可以因[[ethics|伦理]]理由被打回修改的项目，以及[[peer-assessment|同伴评审]]——依据问责标准而不仅是技术标准进行。论文坦率地指出，这些工具的成本差异极大：模型卡与立场声明不需要新软件，其风险只是流于表面的合规；而同伴小组和利益相关者参与需要协调和机构支持，这正是它建议分阶段采纳、而非全有或全无的原因。见[[curriculum-design]]以了解它们在课程体系中的位置。
 
-## 引用
+## 常见误解
 
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+- **“引用使解释可信。”** 引用表现为**可信度线索，而非正确性的证据**：把引用与权威信号附加到辩论界面，**使放弃正确判断而采纳 AI 立场的比例从 15.0% 升至 31.8%**。来源使错误答案更有说服力，这与预期效果相反。
+- **“让使用者满意的解释就解释了系统。”** 同样的可读性失灵出现在[[automated-assessment|自动评价]]的安全侧：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）的红队测试]]发现，一个日常的评分工作流程可以被注入的指令操纵。可信的叙述与可审计的叙述，是两种不同的制品。
+- **“通用 XAI 实践可以迁移到教育。”** [[xai-education-framework|XAI-ED 框架]]（Khosravi 等，2022）坚持教育具有**独特的可解释性需求**，超出通用 XAI，因为受众包括必须据解释行动的学习者，而不是必须认证它的审计者。
+- **“忠实性是一种无需探查就能宣称的属性。”** 测量忠实性要求**对量规关键片段做反事实删除**，并配合人工评分。注意力与量规对齐度达到 **78.0%，而 GPT-4 零样本为 41.7%、BERT 为 32.1%**，这是那类探查产生的比较结果，不是关于可解释性的宣称。
 
 ## 关联概念
 - [[trust-calibration]]
@@ -135,3 +140,7 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教师评分与 AI 评分的决策：一份书面理由扩大了公平性差距
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用与权威信号提高了对不正确输出的遵从，部分引用被误归属或是虚构的
+
+## 引用
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

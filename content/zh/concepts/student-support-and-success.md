@@ -1,7 +1,7 @@
 ---
 title: 学生支持与成功
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-09T19:07:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,16 @@ ai_assist:
 ## 关联概念之间的连接
 
 学生支持与 [[student-experience]] 相连，后者是面向学生的那一面——同样的技术，从学生视角而非机构视角看到；并与 [[help-seeking]] 相连，即真正需要支持的学生实际获得支持的机制；外展与课程专属助手都是在降低开口求助的成本。[[learning-analytics]] 拥有支撑分配工作的预测，[[student-modeling]] 与 [[knowledge-tracing]] 是其下的模型，[[recommender-systems-and-learning-paths]] 是推荐层。它通过校园心理健康与预防系统与 [[well-being]] 相连，通过完成之后的结果与 [[career-development-and-readiness]] 相连，通过依据评分行动的风险与 [[equity-in-ai-education]] 和 [[privacy]] 相连，并通过决定这一切能否持续的角色与流程与 [[administrator]]、[[stakeholders]] 和 [[change-management]] 相连。[[learning-gains]] 是相邻的度量节点：本页的结果是行政性的而非教学性的，二者并不同步移动。
+
+## 常见误解
+
+**"预测哪些学生会挣扎就是干预。"** 预测是支持的输入，而不是支持。语料刻意把二者分开：一条注册提醒与一个留存项目是两种不同的干预，有不同的证据，而研究表明一个买不来另一个。一个止于分数的早期预警仪表盘，增加的是测量而不是帮助。
+
+**"一个提高了坚持率的留存项目证明了 AI 起了作用。"** 它证明的是项目起了作用，而 AI 层必须与它所触发的外展分开评价。一项对 CSUNny 的四年随机研究（加州州立大学北岭分校的一个非生成式短信聊天机器人）追踪了**两个本科生队列（N = 8,708）**跨**八个学期**，**年度退出率从未超过 4%**，这是一项关于*短信沟通*的强接受度结果，而不是一个生成式或预测性系统会取得同样效果的证据。
+
+**"结果阶梯会坍缩：参与就是留存。"** 每一级测量的是不同的东西：选择加入、回应、坚持、完成，而一个项目可以推动较低层级而让较高层级保持不变。把回应比例当作成功来报告，恰恰犯了这个替换错误。
+
+**"公平性关切是停止使用数据的理由。"** 它是谨慎依据分数行动的理由。依据一个预测因子行动可以分配支持，也可以分配怀疑，而风险集中于被模型判得最不利的学生，这使补救成为对使用的治理，而不是放弃测量。
 
 ## 关联概念
 

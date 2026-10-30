@@ -1,14 +1,14 @@
 ---
 title: 职业发展与就绪度
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-24T14:16:08-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,12 @@ ai_assist:
 ## 与相关概念的联系
 
 职业发展与就绪度连接到[[professional-training]]（职业技能维度）、[[ai-literacy]]（AI 胜任力维度）、[[self-efficacy]]与[[motivation]]（支持适应的心理资源）、[[anxiety-and-stress]]（作为关键成分的职业焦虑）、[[higher-ed]]与[[k-12]]（就绪得以建立的情境），以及[[student-experience]]（作为学习者体验一部分的职业关切）。
+
+## 常见误解
+
+- **“AI 焦虑是一种可以通过安慰消除的一般倾向。”** [[duan-ai-anxiety-career-decisions-college-2026|Duan 等人]]用 SEM 确认，AI 焦虑**主要通过被侵蚀的职业适应性损害职业决策（占总效应的 63.35%）**。机制是具体的：焦虑通过移除适应的能力起作用，因此针对感受的安慰错过了承载效应的中介变量。
+- **“职业适应性是一种次于技术胜任力的软技能。”** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang（2026）]]显示职业适应性**减少 AI 焦虑**，这使它成为一个上游干预而非下游结果。建构适应性处理的是机制；把它当作可有可无之物，会让中介变量原封不动。
+- **“关于 AI 的焦虑是均匀分布的。”** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün 与 Danacıoğlu]]发现，AI 焦虑与负面的 AI 态度在 **1,057 名学生**中预测毕业后的求职焦虑，且**女性与社科学生**的模式不同。一个统一的干预会误配支持。
 
 ## 关联概念
 

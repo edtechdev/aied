@@ -1,7 +1,7 @@
 ---
 title: 英语教育（EAP / EFL / ESL）
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-24T14:52:29-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/english-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,13 @@ AI 的英语主导性是这条支线的定义性特征。因为模型在英语�
 - **按熟练度和需求做区分。**[[ai-vs-human-assessment-efl-tpck-2026|EFL 评估]]和适应性辅导研究支持按学习者水平定制 AI 支持和评估，而非一刀切。
 
 - **把技术权重向产出性技能倾斜。**一项对 33 项 TEFL 研究的元分析发现了小到中等的总体效应（g = 0.38，经剪补法后降为 0.28），该效应随教育层级上升而增强，且更利于产出性技能——说与写——而非接受性技能（[[liu-emerging-tech-tefl-review-2026|Liu、Hashim 与 Sulaiman（2026）]]）。
+
+## 常见误解
+
+- **"在 EFL 中，AI 主要威胁的是作弊。"** 该领域自身被报告最多的[[limitations-in-aied-research|局限]]是**学习者自主性**：在一项基于 Scopus 的 **54 项研究**综合中，它以[[cognitive-offloading|过度依赖]]的形式出现在 **27 项**里。有据可查的代价是依赖而非不诚实，而这需要的是另一种干预。
+- **"语言教师要么热情采纳，要么完全不用。"** [[li-language-educators-genai-review-2026|一项对 23 项研究的系统综述]]（Li 等）发现**审慎、先做准备再采纳**才是主流形态。教师的犹疑是经过考虑的，而不是分成拥护者与拒绝者两类。
+- **"总体效应足以证明投入是值得的。"** 一项对 **33 项 TEFL 研究**的元分析发现**小到中等的总体效应（g = 0.38，经剪补法后降为 0.28）**，该效应**随教育层级上升而增强**。校正后效应不大，且集中在较高层级，因此汇总数字并不支持针对初学者的主张。
+- **"任何 AI 使用对语言学习都同样有产出。"** 同一研究主张**把技术权重向产出性技能倾斜**：写作与口语，而非消费。决定效应大小的是模态，而不是 AI 的有无。
 
 ## 关联概念
 

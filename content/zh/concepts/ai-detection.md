@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 人工智能检测
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T14:49:07-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-22T12:02:21-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -121,6 +121,16 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 - **检测可靠性的告诫。**一项关于人工智能与学术诚信的[[meta-analysis-systematic-review|系统综述]]得出结论：抄袭/人工智能检测工具不能靠它们来识别人工智能生成的内容，应与多种评估方法和人工审查配合使用——这再次确认检测是一种有限的、依情境而用的工具。（[[ssaho-ai-academic-integrity-review-2025]]）
 - **超越检测：对话胜过监控。**一份关于 Grand Canyon University 学习验证框架的实践者叙述（[[best-response-student-ai-dialog-2026|Mandernach，2026]]）论证，对[[student-ai-interaction|学生的人工智能使用]]最好的回应是对话而非检测。由于检测器不可靠（且对非母语写作者有偏见），GCU 不再问"学生是否用了人工智能"，而是请学生在一段简短对话中展示理解——这是[[authentic-assessment|评估重构]]的延伸，它把检测当作死胡同、把验证当作好的教学。
 - **依赖跑在信心前面，代价是教学。**在一项对 20 位高等教育专业人士的调查中，15 人报告其机构重度依赖人工智能检测软件，而只有 4 人对它表示信心；受访者描述了来自"监管"的"教学倦怠"（pedagogical burnout），它挤占了教学设计与学生辅导（[[evaluation-age-ai-output-evidence-2026|Chowdhury 与 Khan（2026）]]）。
+
+## 常见误解
+
+**“检测器不可靠，但它们在变得更好。”** 这一失败是结构性的，而不是成熟度问题，一个模型家族干净地演示了这一点：随着 AI 撰写文本背后的人类规划变得更细，它的 AI 标记率**从 94.9% 降到 6.8%**，它检测的是人类的规划，而不是 AI 的写作；一个竞争性检测器保持在 92% 附近，而同一系统把 **94.7% 经 AI 润色的人类文档标为人类**。准确率主张完全取决于测试集使用了哪一种问题构造。
+
+**“假阳性很罕见，所以风险很小。”** 它们恰恰常见于你想鼓励的那类作业上。符合规范的轻度 AI 编辑被标记的比例为 **38% 到 80%**，而未作修改的近期原创文本为 **9% 到 15%**，非 STEM 写作远高于 STEM。一个指控十分之一未被动过的人类作业、以及大部分被许可编辑的检测器，不是犯了小的错误率；它在惩罚政策所邀请的行为。
+
+**“检测器回答的问题是文本由人还是由 AI 写成。”** 这一二元不只是难以计算，而是概念上不成立。写作辅助存在于一个连续体上，多数机构的政策允许其中一部分，而输出分数上没有任何阈值能对应到一条站得住的边界。被测量到的失败是政策的失败：检测器所承诺的类别，并不存在于学生实际提交的作业中。
+
+**“检测制度保护诚信。”** 它可能侵蚀诚信。检测助长猜疑氛围，侵蚀学生与教职员之间的 [[trust|信任]]，而本语料报告的那些 [[academic-integrity|诚信]] 文献把持久的杠杆放在评估重构上，而不是放在监管上。军备竞赛的机制还意味着该制度在衡量得更少的同时持续花费更多：基线标记率在编辑强度之间横跨 **0.0% 到 100.0%**，这不是一个区分信号。
 
 ## 关联概念
 

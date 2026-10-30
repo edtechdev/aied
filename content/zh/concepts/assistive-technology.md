@@ -1,7 +1,7 @@
 ---
 title: 辅助技术
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-09T19:06:59-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,13 @@ ai_assist:
 - **用 AI 降低辅助适配的成本。** AI 能自动加字幕、简化文本、生成替代物，但要从教学准确性上评估输出质量。
 - **把提供植根于政策。** 在采购或构建 AI 工具时，参照《辅助技术法》、IDEA 与 WCAG。
 - **说清支持所服务的是哪个功能——并针对该功能评估。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]]区分了补偿（按可达与参与来评估）、脚手架（有支持下的决策）与发展（消退或迁移后的策略使用）。他们还补上了一条针对本页告诫的规则：可达性支持不是补救——一个工具究竟属于支持（accommodation）、策略教学，还是临时性练习支持，"都应在学习计划中说明"。
+
+## 常见误解
+
+- **"辅助技术针对的是障碍所在之处。"** 一项 2026 年关于面向神经多样性学生的数字辅助技术的范围综述描绘了这十年的产出，发现**工具所针对之处与障碍所在之处之间存在错配**：**27 项研究直接支持学习**，13 项处理阅读与写作、12 项处理学习管理，而**注意力（n = 4）**与其他核心障碍几乎未被触及。被研究最多的目标并不是最具限制性的那一个。
+- **"一个中等效应量就能指明正确的工具。"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等人]]发现，基于 AI 的干预对残障学生的学习结果产生中等正向效应（**g = 0.588**），横跨机器人、软件与智能 VR。那是对服务着非常不同需求的不同技术的平均，因此它支持的是这个类别，而不是类别内部的选择。
+- **"以诊断为门槛的获取是一种站得住的设计。"** 要求正式诊断才能参与，会把有真实需求却没有标签的学习者排除在外，这与[[universal-design-for-learning|通用学习设计]]相冲突，并把获取的成本推到学生自己的证明材料上。
+- **"辅助工具越多就意味着越包容。"** 一项范围综述在五个数据库中筛选了 **766 条记录**，而产出的数量并不等于对需求的覆盖：每一类障碍的研究计数才是更有信息量的数字。
 
 ## 关联概念
 

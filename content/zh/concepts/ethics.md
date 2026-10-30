@@ -1,7 +1,7 @@
 ---
 title: 伦理
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T15:58:16-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 ## 引言
 
 伦理是人工智能教育的规范性骨架：每一个人工智能工具、政策与[[pedagogy|教学]]决策都编码了关于何为公平、透明、可问责与安全的假设。知识库把伦理同时当作一套原则（公平、隐私、透明、自主、问责）与一套*实践* — 利益相关者实际上如何推理人工智能、机构如何治理它、学习者如何被准备好负责任地使用它。近期[[research-methods-aied|研究]]记录了一种双重运动：一方面是日益加深的关切，即基于原则的“检查表”伦理不充分；另一方面是对[[situated-learning|情境化]]与生态化的伦理判断说明、以及对使负责任使用成为可能的结构性与机构性条件的日益强调。
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]]依据瑞典的调查与焦点小组数据论证，机构应通过伙伴伦理而非作弊框架来决定生成式 AI 问题，其依据是 Carolyn Merchant 的相互依存、尊重多样性、包容性、问责与对长期[[sustainability|可持续性]]的承诺：31% 的参与者主动提出伦理议题，而多数人希望得到比现有更清晰的机构指引。
 
 ## 核心伦理维度
 - **伦理是生产性的，而不只是限制性的。**[[learning-analytics-genai-learning-design|Rienties、Divjak 与 Law（2026）]]得出结论，伦理适切性与可信性是教育质量的构成部分：伦理适切性预测创造性作品中的技术与艺术平衡，因此伦理是一个设计变量，而非最终的合规阶段。
@@ -75,8 +77,9 @@ ai_assist:
 
 知识库中的一个重大理论转向是批判普遍主义的、基于原则的“检查表”伦理，转而支持情境化、生态化与变革性的说明：
 
-- **情境化的人工智能伦理。** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli 等人（2026）]]把 Bronfenbrenner 的生态系统理论与文化—历史[[activity-theory-aied|活动理论]]相融合，把人工智能框定为一个非中性的社会—技术装配体，其伦理含义是历史地产生、地方地协商的。在七个国别案例中，教师被定位为人工智能使用的道德守门人，却缺乏结构、机构与认识论支持 — 而该框架把[[ai-education|人工智能素养]]从技术技能延伸到批判性、政治性与生态性主体性，包括对监控资本主义与环境伤害的抵抗。
+- **情境化的人工智能伦理。** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli 等人（2026）]]把 Bronfenbrenner 的生态系统理论与文化—历史[[activity-theory-aied|活动理论]]相融合，把人工智能框定为一个非中性的社会—技术装配体，其伦理含义是历史地产生、地方地协商的。在七个国别案例中，教师被定位为人工智能使用的道德守门人，却缺乏结构、机构与认识论支持 — 而该框架把[[ai-literacy|人工智能素养]]从技术技能延伸到批判性、政治性与生态性主体性，包括对监控资本主义与环境伤害的抵抗。
 - **向情境化实践的转向。** [[ai-ethics-bibliometric-2026|对 282 篇文章的书目计量分析]]表明，2021 年后的人工智能伦理话语日益围绕专业判断、信任、[[human-ai-collaboration|人机协同]]与解释性实践框定伦理，而不只是技术合规 — 而教育是一个概念上重要的情境。
+- **伙伴伦理。** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等（2026）]]借助环境伦理学家 Carolyn Merchant 提出伙伴伦理，即相互依存、尊重多样性、包容性、问责与长期可持续性，作为一种基于对话的替代方案，并报告了瑞典调查与焦点小组数据，其中 31% 的参与者主动提出伦理议题。
 - **一个文化—历史的责任说明。** 这一重新框定把伦理连接到[[learning-theories]]与[[teacher-ai-competency]]：负责任的人工智能使用被当作情境敏感的、集体的、变革性的主体性，而非个人对检查表的合规。一项对 454 名大学教师的调查支持了这一框定：人工智能伦理知识中介了从技术人工智能知识到整合教学能力的路径（β = 0.186），并把它经由教学与内容知识进一步传导（[[ethically-mediated-ai-tpack-china-2026|Chen 等人（2026）]]）。
 - **伦理义务的本体论重新框定。** Xie（2026）把情境化伦理批判进一步推向本体论：在相当多的学术论述把公平、权力不对称与环境成本当作待管理的外部性之处，一个道家式的关系性自我使它们内在于我们之所是，因此“被落下”在本体论上变得不可坚持，而非仅仅不公平。于是伦理任务不是超脱的优化，而是无为 — 与自然性相符的非强制行动 — 对立于算法单一文化、认知外包与榨取式基础设施的有为，应用于三个领域：知识（认识论单一文化与合成虚假信息）、认识（降低[[critical-thinking|批判思维]]的外包）与影响（环境成本与全球南北不对称）。（[[daoism-ai-education-philosophy-2026]]）
 
@@ -93,6 +96,12 @@ ai_assist:
 ## 关联
 
 伦理连接到[[equity-in-ai-education]]、[[privacy]]、[[bias-mitigation]]、[[regulation]]、[[pedagogical-safety]]、[[academic-integrity]]与[[governance]]。它是所有其他人工智能教育概念的规范性基础 — 公平、透明、自主与安全的问题在其中被提出并解决的框架。
+
+## 常见误解
+
+- **"作弊框架足以思考 GenAI 伦理。"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette 等，2026]]主张机构应通过**伙伴伦理而非作弊框架**来决定生成式 AI 问题。框架决定提出哪些问题，而不当行为框架无法追问教育目的。
+- **"教师与学生对何为合乎伦理看法一致。"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç 与 Sever（2026）]]的一项对 **971 名学生与 135 名教师**的[[mixed-methods-research|混合方法]]研究发现，两组之间的伦理维度存在分歧。只从一方视角写出的政策会误述另一方。
+- **"伦理共识先于使用。"** **使用增长快于伦理共识**：在一个美国师范教育项目的四个学期中，学生的 GenAI 使用**从 57% 升至 83%（备考）**。规范正由实践塑造，而非相反。
 
 ## 关联概念
 
@@ -113,6 +122,7 @@ ai_assist:
 - [[biology-education]] — 生物教育与人工智能：实验室助教、生物学中的人工智能素养、批判性思维、专门工具
 
 ## 关联文章
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴伦理而非作弊框架指导机构的 GenAI 决策
 
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 在没有应对框架可教之处，伦理觉察放大了人工智能焦虑：584 名学生中的纯间接中介
 - [[learning-analytics-to-educational-interventions-2026]] — 从学习分析到教育干预：可信的基于学习分析的干预的使能者（Svetec, Divjak & Kadoić 2026）

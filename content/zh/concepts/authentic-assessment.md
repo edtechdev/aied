@@ -1,7 +1,7 @@
 ---
 title: 真实性评估
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-09T18:39:21-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -98,6 +98,12 @@ ai_assist:
 - **真实性评估适合实践导向的领域。**[[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais 与 Galy（2026）]]发现真实性评估尤其适合[[business-education|管理教育]]：镜像真实专业问题的任务（实时咨询项目、带高管简报的[[visualization|仪表盘]]）与该领域实践导向的、[[career-development-and-readiness|就业能力]]焦点一致，并能支持生成式 AI 时代包容的、保诚信的考试中心评估的替代。然而在他们对四份管理教育期刊 58 篇文章的综述中，真实性评估主要经技术中介的[[simulation|模拟]]出现，并常与[[experiential-learning|经验学习]]混为一谈——这是一个术语缺口，可能掩盖其更广的价值与采纳。
 
 - **真实性不是安全性，且缺口在部门规模上可见。**在上面单学位审计发现 90% 课程作业可通过之处，[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]在 53,915 个条目中把录制的汇报、远程小组项目与无人监督的数字工件都打进高暴露带，因为公开记录对生产如何被监督一无所知。
+
+## 常见误解
+
+- **"真实性关乎任务是否真实。"** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan、Boud 与 Du（2025）]]对 **37 项实证研究（2000 至 2024）**的范围综述提出了一个**六维**设计模型，而 **37 项研究中只有 3 项**处理社会真实性，即评估是否帮助学生为社会变革做贡献。现实性只是其中一个维度，而最先进的维度几乎无人研究。
+- **"真实性评估能抵御 AI。"** 暴露是可测的，而且很大：一个**三年制心理学学位**被证明 **90% 可通过**，ChatGPT 在 **40 项课程评估中的 36 项**上产出了**足够的产出**，只有其余评估存活下来。一个学位的大部分评估都是 AI 可以满足的。
+- **"如果作业是真实世界的，重新设计就是可选的。"** 36/40 这一结果是在真实性按理不成问题的课程作业上得到的。任务的现实性并未防止 AI 完成；防止它的是被评估之物的设计。
 
 ## 关联概念
 

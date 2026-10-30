@@ -1,7 +1,7 @@
 ---
 title: 工程教育
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-24T16:45:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,12 @@ ai_assist:
 - **示范批判性使用与恰当的依赖。** [[tam-critical-use-genai-engineering-2026|批判性使用 TAM 研究]]显示学生在理解任务上重度依赖 AI、在评估上却较少——引导他们在各类任务上走向恰当、可验证的依赖。
 
 - **在课堂时间内把 AI 使用当作一项技能来教。** [[structured-ai-demonstrations-engineering-mechanics|Geng 等（2026）]]开展了九次由教师主导的演示，每次在讲授课末尾 10–15 分钟，从工具素养到策略性委派再到模型评估依次编排——但看不出与评估关联的学生报告说它们多余，因此要把它们与计分作业绑定。
+
+## 常见误解
+
+- **"工程学生的 AI 采纳是一个技术接受问题。"** [[socio-cognitive-genai-adoption-engineering-2026|Asag 与 Al Mamun]]把 TAM 与[[technology-acceptance-model|UTAUT]]整合起来，为孟加拉工程学生的采纳建模，**解释了 64% 的**方差，因此相当大的一部分落在接受构念之外，落在模型未覆盖的社会与认知因素之中。
+- **"学生把 AI 用在它最擅长的地方。"** [[ai-engineering-education-balancing-act|Kudina（2026）]]发现 **100 名工程学生**最看重 LLM 的**写作支持**，而不是工程推理。他们对这一工具的比喻超出了它实际交付的范围，而实际使用跟随的是便利，而不是能力。
+- **"更丰富的工具栈会改善设计结果。"** 在一个 **27 名学生**的建筑设计工作室中，使用生成式 AI 加[[virtual-and-augmented-reality|XR]]流水线的团队表现出**效能感下降，而作品并未改善**。工具的丰富可能以信心为代价，而工件原封不动。
 
 ## 关联概念
 

@@ -1,13 +1,13 @@
 ---
 title: 认知诊断
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T14:35:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,7 @@ ai_assist:
 - **用于个性化学习路径的贝叶斯 DINA：**[[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng 和 Huang（2026）]]把贝叶斯 DINA 模型（在 EdNet 数据集上训练，N=5,000）与知识空间理论和最短补救路径算法结合来生成个性化学习路径，并经由隐马尔可夫模型状态转移实证检验[[cognitive-offloading|认知负荷]]的中介作用（在 120 名学生上验证）——同时应对传统 DINA 模型由稀疏性驱动的收敛问题，以及个性化路径有效性背后未经检验的心理机制。
 - **用语言基础替代 ID 嵌入。**[[process-grounded-language-cognitive-diagnosis-2026|Liu 等人（2026）]]用 LLM 构建的概念图式和过程基础的证据取代离散的学生、习题和概念标识符，从作答记录中校准每位学生的后验状态。在三个[[math-education|数学]][[online-teaching-and-learning|平台]]数据集上，该框架在 XES3G5M 上达到 83.51% ACC / 85.37% AUC、在 MOOC 上达到 87.16% ACC，而收益恰恰集中在经典认知诊断模型退化的地方：新概念（比 KCD 高 +4.60 ACC）和缺失的 Q-matrix 条目（+4.52）。消融掉结构化证据会把 MOOC 准确率从 87.16% 压到 78.95%，因此改进来自语言导出的结构，而非模型规模。（[[process-grounded-language-cognitive-diagnosis-2026]]）
 - **文化嵌入的任务可以先于 AI 分析。**[[culturally-embedded-ai-diagnostic-assessment-2026|Anggara 等人（2026）]]让印度尼西亚 178 名初中学生在 AI 作答分析之前先完成带文化情境的开放式任务；AI 诊断与专家评估一致（ICC = 0.81），而文化嵌入与符号性数学表现（β = 0.42）及参与度（β = 0.37）相关。
+- **策略配置可以被诊断，而不只是知识状态。** 从 36,234 次语法游戏动作中估计的五个维度，在排除当前错误计数的同时以 AUC 0.826 预测下一次成功，且在学生之内变化（ICC = 0.14）而非之间变化（[[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre 等（2026）]]）。
 
 ## 为何重要
 
@@ -63,6 +64,27 @@ ai_assist:
 ## 关联
 
 认知诊断连接到[[knowledge-tracing]]、[[student-modeling]]、[[educational-measurement]]和[[assessment]]。它的洞见滋养[[intelligent-tutoring]]和[[adaptive-learning]]，而 LLM 时代的工作把它与[[intelligent-tutoring|AI 辅导]]中的误解识别联系起来。
+
+## 常见误解
+
+- **“诊断对模型而言是一个已解决的能力。”** [[omniedu-open-educational-foundation-models-2026|OmniEdu（Liang 等人，2026）]]把一个开放的 4B/9B/27B 模型家族中的四种能力之一监督为诊断性推理，而**知识状态诊断仍是四者中最弱的**。诊断是那项抵抗了产出其他能力的训练的能力。
+- **“模型能模拟学生错误，因此能诊断它们。”** 瓶颈在相反方向。模型在 **95.2% 的干扰项轨迹**中构造出解法，并以 **0.92 的准确率**模拟了一个具体的 Eedi 误解，然而限制它们的是**提供正确解**，而不是模拟错误。生成一个看似合理的错误答案，比识别一个更容易。
+- **“诊断需要一个手工构建的误解清单。”** 在 **6,106 对**正确与不正确的命题逻辑形式化上，一个工作流发现了 **248 个变换簇，解释了 5,156 对（84.44%）**，而参照集的手工挑选错误为 **4,370 对（71.57%）**。发现匹配或超过了专家策展，并且迁移到了模态逻辑，因此清单是一个起点，而不是天花板。
+- **“诊断只有在命名一个误解时才有用。”** 诊断学习者达成了哪些课程成果，是把成果当作知识概念来处理，并经由专家验证的亲和映射提供概念关系。对成果导向的项目而言，那是更可行动的单元，尽管它更粗。
+
+## 这对实践意味着什么
+
+**对教师**
+
+- 把系统的诊断当作一个待检验的假设，而不是判决。在一个为诊断而训练的模型家族中，知识状态诊断是最弱的能力。
+- 问这个诊断命名的是不是一个你能据以行动的构念。一个映射到你项目的成果层面诊断，往往比一个细粒度的误解标签更有用。
+- 在你的学科有规则之处，预期基于变换的发现会找到你未曾预料的错误模式；那 248 个被发现的簇，是策展清单并不完整的证据。
+
+**对开发者**
+
+- 两个方向都要测量：识别错误答案与产出正确答案。95.2% 的解法恢复数字提示生成是容易的一半，而失效模式在识别一侧。
+- 在领域结构允许之处，优先选择发现而不是静态清单，并对照一个参照集报告覆盖度，使比较可读。
+- 不要在没有说明它测量哪个构念、以及它如何独立于产出它的信号而得到验证的情况下，交付一个诊断分数。
 
 ## 关联概念
 

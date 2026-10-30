@@ -1,7 +1,7 @@
 ---
 title: AI 使用与披露声明
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-24T14:25:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-24T08:08:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ AI 使用声明要求或邀请学生陈述是否以及如何在某次作业中�
 
 - **披露带有信任惩罚，合法性是所论证的机制。** 在十三项实验中，多数为美国在线小组成员并汇总为 4,093 个观测（θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]），披露 AI 使用的行为者比保持沉默者更不受信任（[[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann (2025)]]）。该效应在六种披露框定、一位已知 AI 已被使用的评价者、以及强制与自愿两种制度下均存活。它是上文调查发现——总是披露的学生面临高出三倍的被指控几率——的实验对应面：透明本身使披露者付出代价。该论文唯一面向学生的结果是，当教授披露用 AI 评分时，学生对该教授的信任更低。
 
+- **内容标签改变的描述，而非判定。** 617 名成年人被随机分配去看到或看不到一个“AI 生成内容／合成视频”标签，标签降低了感知真实性（无标签均值 4.92，有标签 4.21），却使信任（B = -0.130，p = 0.216）、风险、采纳与分享保持不变（[[fu-ai-label-authenticity-trust-generated-videos-2026|Fu、Zhang 与 Zhang（2026）]]）。
+
 ## 设计有效的披露
 
 - **清晰与一致胜过威慑。** 制定清晰、一致、协作共建的 AI 政策，附有可接受使用及如何声明的具体示例；避免促使隐瞒的惩罚性或模糊框架。
@@ -82,6 +84,13 @@ AI 使用声明要求或邀请学生陈述是否以及如何在某次作业中�
 ## 关联
 
 AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]、[[trust]] 与 [[trust-calibration]]（披露作为一种脆弱性的行动）、[[governance]] 与 [[educational-policy-ai]]（制度政策框架）、以及 [[assessment]]（披露被操作化之处）的交叉点。它连接到 [[ai-literacy]]（学生需要理解披露什么、如何披露）、[[self-regulated-learning]] 与 [[help-seeking]]（披露作为可见的求助）、以及 [[equity-in-ai-education]]（差异化披露）。它与 [[ai-misuse-learning-harm]]（披露意在使之可见的伤害）和 [[ai-detection]]（披露框架日益取代的检测式替代方案）不同但相关。
+
+## 常见误解
+
+- **“强制申报政策会产生披露。”** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves（2025）]]记录了一所商学院对强制声明的 **74% 不遵从**。要求并未产生它所规定的行为。
+- **“学生隐藏 AI 使用是因为不诚实。”** 驱动因素有记录且具体：只有**约 34% 的经济学学生承认使用 AI**，披露更罕见，由**惩罚焦虑**驱动；另一项研究发现 **66% 从不或很少披露**，而**害怕学业受罚是首要原因**。数据指向的是政策设计，不是品格。
+- **“披露要求是一种低成本控制。”** **74% 的不遵从率**使由此产生的记录比没有记录更糟：它是一份看起来完整、实则并不完整的数据集，机构据此对自己无法信任的样本做决策。
+- **“说明模型如何被使用就足够了。”** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk（2026）]]论证，披露记录的是模型使用，而负责任的使用要求主张层面的作者授权，即贡献者理解、证成并捍卫这些主张的能力。这把认知性委托（输出塑造了实质性选择）与常规性委托（并未如此）区分开来。
 
 ## 关联概念
 
@@ -116,3 +125,7 @@ AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]�
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — 法学院政策中披露与 AI 引用无共识（Gutowski & Hurley 2025）
 - [[ai-written-admissions-essays-penalized-2026]] — AI 写的申请文书普遍但受罚
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — 十三项实验：披露 AI 使用通过合法性降低披露者的可信度
+
+- [[authorial-warrant-ai-supported-scholarship-2026]] — 当披露规则不够时：AI 支持型学术中的作者授权与判断（Mirończuk 2026）
+
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI 披露标签、感知真实性与 AI 生成教学视频中的信任

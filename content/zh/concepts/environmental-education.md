@@ -1,7 +1,7 @@
 ---
 title: 环境教育
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-24T14:52:29-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,12 @@ ai_assist:
 3. **为不耐烦的学习者设计。** 如果更低碳的选项以可感知的延迟为代价，多数学生不会选它：保持延迟低、暴露控制项、用具体的产出结果而非抽象的碳单位来描述影响。
 4. **在教学法允许处选择更轻的部署。** 把模型锚定在经许可的本地语料上并用量化加微调，以一小部分能耗取得了可用的准确率——在扩展云端推理之前先复用这个模式。
 5. **通过材料开发而非意识宣传来建设教师能力**，并填补 [[global-south|全球南方]]的缺口，而不是从北美与欧洲语境进口证据。
+
+## 常见误解
+
+- **"环境教育中的 AI 主要提供信息。"** 被测到的增益在**决策**上：在与 AI 伙伴合作完成一项结构化[[inquiry-based-learning|探究]]任务的学生，在决策测量上胜过只做探究的同侪（**d = 0.69**）与传统教学（**d = 1.88**），且增益**集中于最弱的那些步骤**。效应在推理质量上，正在学生最弱的地方。
+- **"探究本身才是有效成分。"** AI 辅助的探究**在气候决策上优于单独的探究**，因此 AI 的贡献是在教学结构之上附加的，而不是与它可互换的。
+- **"来自小样本的大效应仍然是大效应。"** 可持续发展教学法下的 AI 辅助[[learning-design|教学设计]]**以 28 名参与者取得 d = 2.80，改善了职前教师的教案**，审阅者自己用的词是*大得不可信*，而来自那个样本的那么大的效应应当被当作一个信号，而不是一个估计。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 化学教育
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-10-09T18:58:10-04:00"
+updated: "2026-10-30T01:33:06-04:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/chemistry-education
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ ai_assist:
 - **把 AI 与结构化、情境化的教学法结合。**[[context-based-ai-secondary-chemistry-2026|7E + PhET + ChatGPT]]优于纯探究式和传统教学，表明 AI 在一个成熟的教学模型内部效果最好。
 - **警惕认识论漂移和过度依赖。**[[philosophy-experimentation-ai-chemistry-2026|实验哲学]]研究和 UNESCO 指导警告，不透明的 AI 会使探究与因果理解脱钩——要保全以人类推理为先的评价和学生能动性。
 - **有选择地批改开放式手写作答。** 在一场 296 名学生的手写普通化学期末考中，一个多模态 LLM 对文本回答和化学反应方程批改可靠，但对绘图和作图差于随机（背景网格在视觉上干扰 AI 视觉）；为一个[[item-response-theory|IRT]]式风险过滤器配对[[human-in-the-loop-ai|延期]]处理、把图形题交回人类，使自动化在[[summative-assessment|终结性]]用途上站得住脚（[[cvengros-grading-handwritten-chemistry-ai-2026]]）。
+
+## 常见误解
+
+**"能解释化学的模型因此就会做化学。"** 这些能力恰在一门化学课程所要考查的地方分崩离析。系统性证据表明，LLM 能够定义基本术语，却在**严格的定量任务上表现很差**，在**诸如 NMR 解读这样的空间推理**上吃力，并在两方面都表现出**过度自信**。一个建立在流畅口头解释之上的导师，会在学科最容易之处显得强大，在最难之处失灵，而全程听起来同样自信。
+
+**"解释的流畅性是可靠性的合理代理。"** 它是流畅性的代理。过度自信这一发现对教学才是关键：一个以与正确答案相同的语域陈述错误的空间或定量答案的系统，移除了学习者去核查的线索，这正是为什么核验必须被建进任务之中，而不是从语气中推断。
+
+**"把 AI 加进一节现有的探究课不会有坏处。"** 它可能有害，而显示益处的那个比较比听起来更窄。[[context-based-ai-secondary-chemistry-2026|Abdikayumova 与 Madybekova]]把 **7E 教学模式**与 PhET 模拟*以及* ChatGPT 辅导结合用于十年级化学，发现其成就与投入显著高于纯探究式或传统教学。处理条件是这一定结构的组合，即一个教学模式加模拟加辅导，而不是聊天机器人单独使用，而把聊天机器人加进非结构化的探究，并未被该结果检验。
+
+**"化学的答案是可供核对的，所以 AI 的错误无害。"** 可核对的答案正是错误推理蒙混过关的方式：一个学生从推理糟糕的模型那里收到正确数值，就无法发现这一缺陷，而评估记录的却是成功。在一门定量学科中，可验证的终点是理解的最弱可得证据。
 
 ## 关联概念
 

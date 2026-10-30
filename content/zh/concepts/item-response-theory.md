@@ -1,13 +1,13 @@
 ---
 title: 项目反应理论
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T15:16:55-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,13 @@ IRT 把能力（θ）和项目参数（难度、区分度，有时还有猜测�
 ### 关联
 
 IRT 是[[educational-measurement]]和[[assessment-validity]]的基石，支撑[[adaptive-learning]]（自适应选题）和[[student-modeling]]，并与[[psychometrically-aware-ai]]（与测量理论对齐的 AI 评价）和[[knowledge-tracing]]相连。它在[[llm-difficulty-calibration-programming-exams-2026|LLM 难度校准]]的编程评估中有所呈现。
+
+## 常见误解
+
+- **“IRT 需要传统的测验实施方式。”** 能力与难度可以从**下一词元 logits** 中恢复：抽取出**学生能力 θ = z^GOOD − z^BAD** 与**辅导话轮难度 d = z^HARD − z^EASY**，再在 1PL Rasch 预测器中把它们结合起来，就能让基于对话的知识追踪以 IRT 的术语变得可解释。这一测量学框架适用于互动数据，而不只适用于题目作答。
+- **“多数模型都能通过的基准就是好基准。”** 一个与标准对齐的基准可能**饱和**：在 NGSS 对齐的初中与高中科学题集上，**多数开放权重模型的得分超过 90%**，使经典项目指标变差。饱和并不意味着模型优秀；它意味着这些题目不再有区分度。
+- **“题目难度是题目的内在属性。”** 一项因果探针**在每个数据集上编辑了 50 道试题**，使其朝向或背离某个假设，发现**提高难度的编辑使平均准确率在 GSM8K 与 BBH-structured 上分别下降 15.27 与 23.88 个百分点**。难度是题目与模型之间的关系，题目一变它就动。
+- **“IRT 只用于给学习者评分。”** [[assessing-quality-ai-generated-exams-field-2025|AI 生成考试的评估]] 使用一个**带前测锚题的贝叶斯分层 2PL 模型，把 1,686 名学生放到同一量尺上**，这是对评估本身的质量保证，而不是为学习者评分。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 社会情感学习
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-09T18:58:11-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ ai_assist:
 ### 信任与归属
 SEL 支持关系性学习与社会凝聚。[[finkelstein-principled-ai-education-2025|原则性的 AI 教育]]与[[ai-chatbot-collective-efficacy-collaborative-learning|用于协作学习的 AI 聊天机器人]]连接到**归属**与集体效能——对一个团队完成任务能力的共同信念。Brookings 的"事前检验"强调，对 AI 的过度依赖威胁着社会情感幸福感、教师—同伴关系以及学生的[[privacy]]/安全——这些是归属与联结的维度。[[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|师生信任]]是 AI 是否被视为支持性的关键。
 
+归属在这里有一个更锋利的边缘：向 AI 寻求的共情可能被惩罚。[[shastry-gray-empathy-offloading-2026|Shastry 与 Gray（2026）]]让参与者读到一个处于痛苦中的学生去找聊天机器人、找朋友、找治疗师或谁都不找。在聊天机器人条件中，参与者私下报告了最低的外包意愿，随后对该学生使用了最多的漠然词汇，并把他们评为更陌生、更绝望。同伴对寻求 AI 这条路径的判断，与上文记录的隐瞒相互叠加，这就是为什么披露规范应当属于 SEL 设计，而不只是属于诚信政策。
+
 ### 坚持、心态与有益的挣扎
 SEL 与学习中费力的维度交叠。[[framing-5-percent-problem-teachers-persistence|把 5% 的问题框定出来]]把学生坚持度低指认为教育技术中反复出现的挑战，它由动机/认同、认知障碍、挑战下的韧性以及联结所塑造。[[substitution-to-scaffolding-ai-harm-cycle-2026|Favero 等]]警告，替代努力的 AI 会侵蚀教育本要构建的那些能力——这与[[metacognition]]以及有益的挣扎胜于[[cognitive-offloading|过度依赖]]的价值一致。
 
@@ -95,6 +97,16 @@ SEL 与学习中费力的维度交叠。[[framing-5-percent-problem-teachers-per
 ### 关联概念
 
 SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充），与[[affective-computing]]和[[well-being]]相连（AI 的情感维度），与[[self-regulated-learning]]相连（自我管理与努力调节），与[[self-efficacy]]和[[motivation]]相连（调节[[student-ai-interaction|AI 互动]]的学习者信念），与[[agency]]相连（针对依赖保护学习者控制），与[[ethics]]相连（负责任决策），与[[teacher-ai-competency]]相连（教育者支持 SEL 的能力），与[[student-experience]]相连（幸福感与归属），以及与[[learning-gains]]相连（SEL 支持成就的证据）。它与[[higher-ed]]和[[k-12]]相关，作为 SEL 浸润的 AI 素养得以培育的情境。
+
+## 常见误解
+
+**"SEL 与情商是同一个构念。"** 两者相关而不同：SEL/SEC 命名一组能力，即同步思想、情感与行动以实现积极互动的能力；而情商命名个体感知与管理情绪的能力。一个工具可以提高学习者的情绪自我觉察，却不发展任何社会情感能力；一个项目可以在学生情绪自我知觉未变的情况下培养协作能力。因为两者的测量方式不同，其一的证据不是其二的证据。
+
+**"一个回应得很有共情的 AI 导师就在发展社会情感学习。"** 情绪回应性是一种交付属性，SEL 是一项能力结果，两者并不自动相连。文献说 AI 必须*补充而非取代*的，正是学习的关系维度，这使工具中的共情成为一个"它在替代什么"的问题，而不是它自身的益处。温暖回应如何可能削减那种培养坚持的挣扎，其机制见[[affective-tutoring|情感辅导]]。
+
+**"坚持度低是鼓励就能修复的动机问题。"** 坚持是教育技术中反复出现的约束，即[[framing-5-percent-problem-teachers-persistence|5% 问题]]所命名的那个模式，它由动机与认同、认知障碍、*以及*挑战下的韧性共同塑造。鼓励只处理三者之一。一个因为问题超出了工作记忆而停下的学习者，缺的不是安慰。
+
+**"知道 AI 可用不会改变学生投入努力的方式。"** 它会，而且效应对最弱的学习者朝不利方向走：[[ai-availability-student-motivation|AI 可得性]]会降低费力参与的价值感，对新手尤其如此。仅仅可得性本身就是一个符号为负的动机干预，这就是为什么与 SEL 相邻的设计不能把有个有帮助的系统在场当作中性的。
 
 ## 关联概念
 - [[anxiety-and-stress]]
@@ -131,3 +143,4 @@ SEL 与[[ai-literacy]]相连（作为使 AI 素养关系化、伦理化的补充
 - [[policy-deficit-ai-sel-2026]] — AI × SEL 研究中的政策赤字
 - [[human-ai-complementarity-social-emotional-learning-2026]] — 早期社会情感学习中的人—AI 互补性（Raave 等 2026）
 - [[parlant-emotional-micro-interventions-2026]] — 实时情绪微干预与面向教学者的短语手册
+- [[shastry-gray-empathy-offloading-2026]] — 人们在认为 AI 能给予共情时就把它外包出去（Shastry & Gray 2026）

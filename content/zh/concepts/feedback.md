@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: 反馈
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-24T15:58:16-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -146,6 +146,12 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 - **反馈可以瞄准反馈的提供者。** 导学培训是一个未被充分探索的反馈情境：自动化系统可以对导学者的开放式回答作序列标注，以标出表扬的类型（基于努力的表扬——可取的过程聚焦之一种——对基于结果的，对基于个人的，最不可取的特质归因之一种），从而提供能改变导学行为的解释性反馈。其约束条件是专家标注的数据。一种数据增强方法——GPT-4o 生成合成标注回答，把 13 个实例的低资源集扩展到 520 个，然后微调 GPT-3.5——追回了大部分差距：在基于努力的表扬上 F2 +20.5%，基于结果的 +17.3%，而在*未见过的*基于人类别上 +16.5%。对未见过表扬类型的泛化测试，是把这与过拟合作区分的效度检验，而其机制更接近教师模型蒸馏，而非经典数据增强。（[[xu-automated-feedback-tutor-training-2025]]）
 - **看不见修改的反馈会被重复。**在一个由智能体批评草稿论证的科学学习游戏中，学生跨多轮修改，但一个量化的 8B 模型对一份改进后的草稿返回了实质上相同的批评，因此驱动修改的回路也产生了终结它的挫败（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等人，2025]]）。
+
+## 常见误解
+
+- **"学生分辨不出 AI 反馈与人类反馈。"** 他们能分辨，而标签会改变判断：**标签一旦揭示，对 AI 版本的评分下降、对人类版本的评分上升，其中在真诚性上显著（p < .01）**。提供者的可信度塑造了对同样风格反馈的评价。
+- **"实验室里的认可预测一学期的使用。"** **实验室认可不等于学期使用**：**全部 18 名学生**在实验课中对 GenAI 解释功能反应积极，**却只有一半在学期中用过它**。意图与使用之间的缺口才是设计问题。
+- **"有了大语言模型，即时纠错反馈就已解决。"** 在导师系统内部生成它是**可行但不完美的**：在 Apprentice Tutor 集合的 **6,926 条记录交互**中，反馈好到可以部署，却没到可以假定其正确的地步。
 
 ## 关联概念
 

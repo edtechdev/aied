@@ -1,14 +1,14 @@
 ---
 title: 具身学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T16:40:00-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-23T22:31:18-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,12 @@ ai_assist:
 - **身体追踪把调节变成可测量的信号。**在一个混合现实的光合作用模拟中，运动标签让学生智能体在一个投影模型上移动，一个 LLM 流水线在 40 分钟视频中标注了 470 段自我调节行为，其中 enacting 占 66.4%（[[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles 等人，2026]]）。
 
 具身学习连接到[[educational-robotics]]、[[educational-robotics]]、[[educational-robotics]]、[[active-learning]]、[[experiential-learning]]、[[situated-learning]]、[[distributed-cognition]]、[[computational-thinking]]和[[social-emotional-learning]]。
+
+## 常见误解
+
+- **"是身体让具身学习起作用。"** 一项对 **11 项 RALL 研究（N = 595, g = 0.83, I² = 84.4%）** 的元分析发现，**机器人形态、模态、自主性与社会角色并不调节**第二语言学习的结果。具身特征不是那个有效成分，而异质性高到（I² = 84.4%）这个合并效应描述的是一组非常混杂的干预。
+- **"一个大的效应就确定了机制。"** 在 11 项研究、595 名参与者上得到 g = 0.83 是一个真实信号，而它并不能指认是什么产生了这一信号。既然设计特征并不调节效应，可信的机制位于教学活动之中，而非硬件之中，这就改变了应当投资于什么。
+- **"具身性无法测量，因此只能停留在理论层面。"** 身体追踪可以把调节变成**可测量的信号**：在一个混合现实的光合作用模拟中，运动标签让学生智能体在一个投影模型上移动，一个 LLM 流水线标注了 **470 段**调节行为。即便构念难以定义，它也是可以被操作化的。
 
 ## 关联概念
 - [[educational-robotics]]

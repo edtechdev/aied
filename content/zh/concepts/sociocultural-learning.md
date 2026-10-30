@@ -1,14 +1,14 @@
 ---
 title: 社会文化学习
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-09T18:58:14-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ ZPD（维果茨基）是在[[intelligent-tutoring|AI 辅导]]中应用最广的�
 社会文化脉络与[[cognitive-offloading|认知负荷]]理论（支持应管理负荷而不消除有益的努力）和[[metacognition]]（区间内的学习者正积极监控和调节自己的理解）紧密耦合。[[stanford-evidence-base-ai-k12-2026]]综合了[[k-12|K-12]]证据：当 AI 工具让学习者留在 ZPD 内而非替他们作答时效果最好，而[[human-in-the-loop-ai]]研究探讨人与 AI 的支持如何共同界定学习者的区间。
 
 - **生成式 AI 作为中介主体（2026）：**借助维果茨基式的中介，一篇理论论文提议把生成式 AI 重新框定为不只是工具/中介手段，而是积极参与学习活动的*中介主体*，模糊了社会文化理论核心的工具对社会互动的边界（[[generative-ai-mediational-agent-sociocultural-2026]]）。这把生成模型定位为共同参与者而非被动工具，对中介、[[agency]]以及学习者—AI 关系如何在[[learning-sciences|学习科学]]中被理论化都有影响。
+
+## 常见误解
+
+**“社会文化理论讲的是学习中的社会因素，作为个体认知的补充。”** 更强的主张是：认知**分布在人、人工物与环境之间**，而不是居于个体头脑之内。按此观点，AI 不是加在学习者认知之上的外部助手，而是认知得以运行的系统中的一个组件，这改变了应当被测量的东西。
+
+**“如果认知是分布的，个体评价就在测量错误的东西。”** 它改变的是解释，而不是取消测量。评价捕捉到什么，取决于当时系统中有什么，这正是有协助与无协助的表现会分歧的原因：它们是对不同配置的测量。
+
+**“给一个小组加入工具只改变小组的效率。”** 它改变分工，而分工正是该理论分析的单位。一个把大部分问题交给智能体的小组，即使产出不变，也已经重新分配了认知工作。
+
+**“分布式认知意味着个体不重要。”** 它意味着个体的贡献无法仅从个体表现中读出；分析单位是活动系统，而不是孤立的人。
 
 ## 关联概念
 

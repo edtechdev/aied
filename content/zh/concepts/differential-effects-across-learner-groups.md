@@ -1,7 +1,7 @@
 ---
 title: 不同学习者群体间的差异效应
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-09T19:06:58-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,12 @@ ai_assist:
 - **在证据允许时优先选择拉平差距的设计。** ADHD 视频切分的结果——所有人提升、差距缩小——比针对群体的附加模块更适合作为通用课堂的目标。
 - **谨慎对待消费人口统计属性的个性化。** [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]]的发现直接针对该机制，它同样适用于[[well-being|身心健康]]签到、[[affective-computing|情感辅导]]，以及[[recommender-systems-and-learning-paths|推荐系统]]这类会为学习者建档的做法。
 - **在本地测试，针对你关心的群体，且用不依赖该工具测量的结果。** 关于评估习惯见[[interpreting-and-applying-aied-research|解读与应用 AIEd 研究]]，关于使本地测试站得住脚的设计见[[research-methods-aied|AI 教育中的研究方法]]。
+
+## 常见误解
+
+- **“群体标签捕捉了重要的变异。”** **群体标签掩盖了其内部的变异**：在残障元分析中，特定学习障碍、智力与发育障碍以及其他类别被合并，因此群体均值不能描述其中任何一个。
+- **“亚组分析回答了差异效应的问题。”** 它们通常**规模过小，无法回答**：[[ai-tutoring-micro-rct-gcse-science-2026|GCSE 科学微随机对照试验]]异常明确地指出，其**处理**对比的功效是为总体效应、而非亚组差异设计的。功效不足的亚组发现是假设，不是结果。
+- **“一个中等的合并效应能告诉你某个群体是否受益。”** [[zhang-ai-students-disabilities-meta-analysis-2024|29 项（准）实验研究]]在各残障类别上合并为 **Hedges' g = 0.588（95% CI [0.349, 0.826]）**。该区间描述的是这些类别上的平均，而“哪个群体、哪种需要”是另一项分析。
 
 ## 关联概念
 

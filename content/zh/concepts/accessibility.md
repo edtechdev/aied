@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: 可及性
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-09T18:39:26-04:00"
+updated: "2026-10-30T01:22:08-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,13 @@ ai_assist:
 - **在机构层面，人工智能的部署正在跑在人工智能可及性政策之前。** [[chan-ai-institutionalization-index-global-universities-2026|Chan（2026）]]对泰晤士高等教育 2026 年排名中的全部 100 所大学做了编码，发现 0% 发布了独立的人工智能可及性政策，而 93% 部署了由人工智能驱动的校园服务（用于注册、住宿与 IT 的聊天机器人）。作者的善意解读是：可及性义务已含在一般性的残障服务政策之内；但就测量而言，对人工智能工具的要求在公开的机构记录中无处可见。一份简短的机构声明——声明教学与管理中的人工智能工具必须对残障学生可及——就会领先于整个被测量的领域。
 
 - **[[physics-education|物理]]视频的数学可及转录（2026）：** 一项使用 Gemini（音频 + 每秒 1 帧视频采样）与 LuaLaTeX 的 AI 工作流，把教学物理视频编译成通过可及性验证的 PDF/UA-2 与 ISO 32005 数学可及 PDF——这是一条让富含方程式的视频内容对盲生与低视力学生可被屏幕阅读的实用、免费路径（[[gemini-lualatex-physics-video-transcription-2026]]）。
+
+## 常见误解
+
+- **"看起来更差的可及性功能就是更差的功能。"** 条纹叠加对抽取的损害最大（字符错误率 +35.9%，词错误率 +38.3%），然而四位排版与设计专家判定竖直条纹可读，斜条纹则不通过。机器可读性与人类可读性是两项独立的测量，优化其一可能损害其二。可及性主张必须说明它是为哪一类读者提出的。
+- **"可及性就等于便利安排。"** 一项对面向神经多样性学生的数字辅助技术的范围综述覆盖 40 项研究，发现其中 28 项把正式诊断作为参与的前提条件。这是以诊断为门槛的模式，它把每一位有需求却没有标签的学习者排除在外，与通用设计正好相反。
+- **"中等效应就能定论。"** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang 等]]元分析 29 项研究，发现中等正向效应，这是真实的，也同样没有说明哪种工具适用于哪种需求。异质性干预的平均值不是一项建议。
+- **"速度与即时性只是便利。"** 一项覆盖三所巴勒斯坦大学 21 名视障本科生的质性案例研究发现，学习者把即时性框定为一项根本的可及性要求，而非便利。从外部看似锦上添花的东西，是参与的前提条件。
 
 ## 关联概念
 
