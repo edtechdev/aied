@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T10:20:00-04:00"
+updated: "2026-10-30T10:53:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -92,7 +92,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **The effect lives in the division of labor, not in the tool.** Nakamura (2026) argues that the heterogeneity in GenAI learning effects dissolves once the unit of analysis becomes the partition of cognitive labor between learner and machine. Offloading augments learning when it discharges operations peripheral to the current goal, and risks erosion when it bypasses the processing constitutive of that goal ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Substantively processing the output, or later reconstructing it, is what rescues an otherwise constitutive offload.
 - **What a person may hand over depends on their experience of the task.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] makes task order person-relative: what is higher-order for a novice is lower-order for someone who already holds the procedure, so permitted offloading should grow with experience and stop at the core of the work.
 
-**Cognitive capital is the stock that offloading draws down.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] reframe offloading as a change in a stock rather than an act. Cognitive capital is defined as accumulated, renewable and depletable knowledge, capability and practice, held both by individuals and by organizations, and kept analytically separate from the capability of the human-AI system so that a joint-performance gain can be observed alongside a human-capability loss. Their four mechanisms — substitution of practice, scaffolding and feedback, metacognitive calibration, and organizational aggregation — yield seven principles, including that assisted performance is not retained competence and that offloading a task differs from offloading the practice that builds the skill. The motivating statistic is a staggered rollout to 5,172 customer-support agents in which an assistant raised issues resolved per hour by 15%; that number describes the joint system, and whether the agents could still do the work unaided is a measurement the reviewed literature does not contain.
+**Cognitive capital is the stock that offloading draws down.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] reframe offloading as a change in a stock rather than an act. Cognitive capital is accumulated, renewable and depletable knowledge, capability and practice, held by individuals and by organizations, and kept separate from the human-AI system's capability so a joint-performance gain can be seen alongside a human-capability loss. Their four mechanisms — substitution of practice, scaffolding and feedback, metacognitive calibration, and organizational aggregation — yield seven principles, including that assisted performance is not retained competence and that offloading a task differs from offloading the practice that builds the skill. The motivating statistic is a staggered rollout to 5,172 customer-support agents where an assistant raised issues resolved per hour 15%; that number describes the joint system, and whether agents could still do the work unaided is a measurement the reviewed literature does not contain.
 
 ### When offloading falls rather than rises
 
