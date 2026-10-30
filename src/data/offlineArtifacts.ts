@@ -66,19 +66,19 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "zh": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.epub",
-      "bytes": 2853812
+      "bytes": 3078015
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.pdf",
-      "bytes": 7888233
+      "bytes": 8414069
     },
     "llms": {
       "url": "/aied/llms.zh.txt",
-      "bytes": 154506
+      "bytes": 150683
     },
     "llmsConcepts": {
       "url": "/aied/llms.zh-concepts.txt",
-      "bytes": 3486637
+      "bytes": 3842333
     }
   },
   "de": {
@@ -102,11 +102,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "ja": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.epub",
-      "bytes": 3012564
+      "bytes": 3359998
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.pdf",
-      "bytes": 8736479
+      "bytes": 9646988
     },
     "llms": {
       "url": "/aied/llms.ja.txt",
@@ -114,17 +114,17 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.ja-concepts.txt",
-      "bytes": 4779469
+      "bytes": 5407628
     }
   },
   "ko": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.epub",
-      "bytes": 2881339
+      "bytes": 3211804
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.pdf",
-      "bytes": 8201104
+      "bytes": 9061415
     },
     "llms": {
       "url": "/aied/llms.ko.txt",
@@ -132,7 +132,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.ko-concepts.txt",
-      "bytes": 3946476
+      "bytes": 4520593
     }
   },
   "pt": {
@@ -192,11 +192,11 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "hi": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.epub",
-      "bytes": 3036056
+      "bytes": 3422263
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.pdf",
-      "bytes": 7683039
+      "bytes": 8691531
     },
     "llms": {
       "url": "/aied/llms.hi.txt",
@@ -204,7 +204,7 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
     },
     "llmsConcepts": {
       "url": "/aied/llms.hi-concepts.txt",
-      "bytes": 8014114
+      "bytes": 9171410
     }
   },
   "ru": {

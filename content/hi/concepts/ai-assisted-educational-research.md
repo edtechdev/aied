@@ -1,7 +1,7 @@
 ---
 title: एआई-सहायक शैक्षिक अनुसंधान
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-29T04:27:44-04:00"
+updated: "2026-10-30T08:05:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -15,7 +15,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -186,6 +186,12 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
+
+## सामान्य भ्रांतियाँ
+
+- **"एलएलएम और सॉफ़्टवेयर पेपरों का मूल्यांकन समान रूप से अच्छा होता है।"** 2023 से, **38.0% सॉफ़्टवेयर और उत्पाद पेपरों ने कोई मूल्यांकन रिपोर्ट ही नहीं किया, जबकि एलएलएम पेपरों में यह दर 9.3% थी**। अंतर बड़ा है और यह इस मान्यता के विरुद्ध जाता है कि नए उपकरणों का परीक्षण कम कठोरता से होता है।
+- **"कार्य के आधार पर स्तरीकरण अंतर को ठीक कर देता है।"** **यह अंतर स्तरीकरण के बाद भी बना रहता है**: स्क्रीनिंग और चयन में सॉफ़्टवेयर पेपरों में औसतन **3.2 सार्थक मूल्यांकन वस्तुएँ थीं और 39.3% ने कोई भी नहीं रिपोर्ट किया**, जबकि एलएलएम पेपरों में औसत अधिक था। यह अंतर कार्य का नहीं, पेपर-वर्ग का व्यवस्थागत गुण है।
+- **"सकारात्मक मूल्यांकन का अर्थ है कि कार्यप्रवाह अपनी अपेक्षित सीमा तक पहुँच गया।"** **केवल सकारात्मक मूल्यांकन वाले 118 एलएलएम पेपरों में से 52% ने फिर भी कम से कम एक चिंता रिपोर्ट की कि कार्यप्रवाह अपनी भूमिका के लिए आवश्यक स्तर से नीचे रहा**। आधे सकारात्मक मूल्यांकन अपना ही खंडन समेटे हुए थे।
 
 ## संबंधित अवधारणाएँ
 
