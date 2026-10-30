@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS教育
 created: "2026-10-10T22:31:16-04:00"
-updated: "2026-10-10T22:31:16-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -53,7 +53,9 @@ ai_assist:
 
 - **導入は課題を追い下位分野を追わない。** 七つの課題と211名の生徒にわたって、[[student-llm-use-cs-subfields-2026|Nizamani et al.（2026年）]]は、アルゴリズムで89.6%からソフトウェア工学で15.2%までのLLMの利用を測定し、その広がりを課題そのものではなく、課題の複雑さ、検証可能性、そして足場づけに帰しています。
 
-- **この分野が収束しつつあるのは、ブラウザ常駐型のツール増強チューターという構造です。** ツール増強型のSLM設計は、小さく微調整されたプランナー(1B〜7B)を四つの決定論的な道具 — コードの実行者、テストのランナー、文書の検索器、[[knowledge-tracing|知識追跡]]のモジュール — と、四層のエスカレーション方策(まず道具、次に端末上のSLM、同意を得たクラウドLLM、最後に教員)の背後に組み合わせます。これにより、教授的な統制をモデルから監査可能な方策へと移します。予備的な約1.5億パラメータの補完モデルは10.97%のHumanEval pass@1に達し、いくつかの1億〜1.5億のコードのベースラインを上回ります([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]])。
+- **実際のコースへの配備では、モデルの選択ではなくヒントの長さが実行可能な変数であることが分かった。** 入門ウェブ開発のコースでの3回の連続した配備（o3-mini、GPT-5-mini、GPT-5.5 で、79,438件、83,374件、10,420件の記録された提出）では、いくつかの比較でヒントがより良い即時の成果と関連しました。長いメッセージは次の提出の正しさの悪化、試行回数の増加、再提出の遅れを予測し、以前のプロジェクトの段階でヒントを受け取った学生は最終段階を解く頻度が低く、98.1%に対して95.6%でした（[[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova ら、2026]]）。
+
+- **この分野が収束しつつあるのは、ブラウザ常駐型のツール増強チューターという構造です。** ツール増強型のSLM設計は、小さく微調整されたプランナー(1B〜7B)を四つの決定論的な道具 — コードの実行者、テストのランナー、文書の検索器、[[knowledge-tracing]]のモジュール — と、四層のエスカレーション方策(まず道具、次に端末上のSLM、同意を得たクラウドLLM、最後に教員)の背後に組み合わせます。これにより、教授的な統制をモデルから監査可能な方策へと移します。予備的な約1.5億パラメータの補完モデルは10.97%のHumanEval pass@1に達し、いくつかの1億〜1.5億のコードのベースラインを上回ります([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]])。
 - **小さく微調整されたチューターは、より大きな汎用モデルよりもよく足場を打ちうる。** 1,213件の合成されたチュータリングの対話でQwen2.5-Coder-7B-Instructを微調整することで、チューターの発話のうち解法を時期尚早に開示する割合を7.43%から1.88%に減らし、段階的な足場づけとデバッグの質問の質をGPT-4oの水準以上に高めました。ただし、信頼できる教授的な計画の生成は未解決のままでした([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]])。
 
 - **フィードバックは診断を隠したまま段階づけられうる。** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas（2026年）]]は、生徒のデータベース・スキーマの成果物に基づく診断を、それを開示するワークフローから切り離し、教育者が段階を執筆します。383のエピソードにわたって、フィードバックの71.1%がその標的の水準に届きました。
@@ -79,6 +81,7 @@ ai_assist:
 
 - **生産から判断へ：理解の負債とAASEE。** [[judgment-centred-software-engineering-education-2026|Mahmoud（2026年）]]は、この分野が生産中心のモデルから判断中心のモデルへと移るべきだと論じ、理解の負債 — AI支援の生産が学習者がソフトウェアを説明し、テストし、修正し、正当化する能力を上回るときの先送りされた学習と維持の費用 — を[[assessment|評定]]のレンズに拡張し、207名の生徒からの621件の内省的な日記に基づいています。このレビューはAASEEの枠組みを、四つの証拠の義務 — 説明し、確かめ、修正し、弁明すること — に交差する五つの非線形の統合の水準に精緻化し、条件づけられた証拠の基盤を報告しています。極度の異質性（I² = 96.32%）を持つSTEMの[[meta-analysis-systematic-review|メタ分析]]は、出版バイアスが修正されると集積された便益を失い、76、72、64の研究の総合は、補助なしの成績に[[transfer-of-learning|転移]]しない短期的な効率の伸びを示しています。
 - **新しい教授学と評定のモデル：** [[test-driven-ai-assisted-learning|テスト駆動のAI支援学習]]は、講義を[[self-directed-learning|自己方向づけられた]]AI支援の学習に置き換え、毎週の閉じた本の試験によって区切ります。AIエージェントが教材の生産と採点を[[human-in-the-loop-ai|人間の監督]]の下で拡張する中、個人の責任を保つのです。
+- **アカウンタビリティの仕組みとしての口頭試験。** プロジェクトベースのAIエンジニアリングのプログラムは、2年生の学生を、要件、アーキテクチャ、コーディング、テストにAIを埋め込んだ7回の2週間のスプリントに通し、3回の試行で成果物だけではもはや理解を証拠立てられないことが示されたため、個人の口頭試験を必須にしました。単位の平均的な未取得は25%から3%へ下がりました（[[project-based-ai-engineering-curriculum-agile-2026|Rausch（2026）]]）。
 - **モデルの仕組みをオフラインで教える。** 実践者のための資源一式は、LLMの訓練→生成のパイプライン全体を接続を断って教えます — 手で集計したn-gramの表と賽に基づく抽出法で、プログラミングも数学も想定しません — そして約400人の参加者への実施を報告しており、関与は生成の段階になって初めて始まりました（[[llms-unplugged-teaching-resources-2026|Swift（2026年）]]）。
 - **[[vibe-coding|ヴァイブ・コーディング]]の成功を予測するもの — そして教え続けるべきもの：** 純粋な「ノーコード」のヴァイブ・コーディングに関する[[vibe-coding-writing-cs-achievement-2026|事前登録されたCHI 2026年の研究（N=100）]]は、コンピュータ・サイエンスの達成（r = .39）と書かれた意思疎通の熟達（r = .29）の両方が独立に成績を予測することを見出し、領域一般の認知的能力を統制した後もCSの達成は有意なままで、作文の技能の固有の分散のおよそ二倍のものを寄与しました。環境が生成されたコードを隠していたため、CSの知識は間接的にしか（問題の分解、アルゴリズム的な思考）助けられなかった — これにより、CSの推定値は編集も許容するAI支援のワークフローにとって*下限*となります。著者らは、カリキュラムはヴァイブ・コーディングを時代遅れにされた構文の習熟として扱うのではなく、書かれた意思疎通をCSの基礎と並べて重く見るべきだと論じています。
 
@@ -128,6 +131,13 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - **すべての学習者のために協働を構造化せよ。** より小さく一貫したチーム、明示的な役割、そしてAI利用の透明性は、[[neurodiversity|神経多様性]]のある生徒と公正な協働を支えます。特に、AIの利用についてのずれた信念がプロジェクトの得点を下げるところでは。
 
 - **プログラミングの誤りのLLM適応的な説明（2026年）：** クラウドソースによる研究（N=103）は、LLMが書き換えたエラーメッセージが読みやすさを改善することを見出しましたが、客観的なデバッグの成績は、説明の様式（実用主義的か偶発的か）をプログラマーの技能に一致させるかに依ります — AI支援のプログラミング教育のための足場づけの知見です（[[llm-adaptive-programming-error-explanations-2026]]）。
+- **監督は正しさではなく適合性についてのものである（2026年）。** 145人の1年生のソフトウェア工学の学生からの962件の学生とAIのターンを符号化して、[[novice-se-students-oversight-genai-2026|Shakiba と Chaffey（2026）]]は、介入の74.4%が適合性の問題を名指したのに対し正しさを名指したのは16.9%であり、応答の51.0%がプロンプトではなく出力を修正したことを見出しました。
+
+## よくある誤解
+
+- **「AIとペアプログラミングする学生は、プログラミングを学んでいる」** 学生とAIの共同プログラミングでは、**相互作用のほぼ80%が答えの外注のような学習しないストラテジーに依拠**し、**深い認識論的関与を示したのは約9分の1**にとどまりました。支配的なパターンは出力のための取引です。
+- **「初心者向けの対話エージェントは学習理論に根拠づけられている」** **23の研究のうち4つだけが設計を[[learning-theories|学習理論]]に根拠づけて**おり、したがって証拠基盤の大半は、なぜ機能すべきかの理論なしに、システムが何をしたかを記録しています。
+- **「道具立ての文献は、分野の世界的な分布を反映している」** **23の試作のうち17は英語のみ**であり、研究の大半は英語圏の外に由来しています。試作は研究よりも狭い集団に奉仕しています。
 
 ## 関連する構成概念
 
@@ -157,6 +167,7 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - [[assessment-validity]]
 
 ## 関連する記事
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — 3回の配備、3つのモデル、17万3千件の提出：実際のコースでヒントの振る舞いがどう見えたか
 - [[kumar-genai-computing-education-systematic-review-2026]] — 72の研究の体系的なレビュー：転移しない効率の伸びとVIE枠組み
 - [[vibe-coding-writing-cs-achievement-2026]] — CSの達成と作文の技能がヴァイブ・コーディングの熟達を予測する（CHI 2026年）
 - [[tutortrace-learner-behavioral-states-2026]]
@@ -188,7 +199,7 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlocklyの身体化されたブロック・プログラミング
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLMの自然言語によるロボットの制御
 - [[llm-computational-thinking-physics-2026]] — 物理学における計算論的思考のためのLLMの支援
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — AIのコースにおける生徒とLLMの対話のStudyChatデータセット
+
 - [[student-ai-inquiry-types-cs2-2026]] — 生徒とAIの相互作用における問いの種類の分析
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPTはQiskitの宿題を解く。自動評定可能な設計
 - [[llm-adaptive-programming-error-explanations-2026]] — プログラミングの誤りのLLM適応的な説明
@@ -208,3 +219,4 @@ CS教育は[[computational-thinking|計算論的思考]]、[[stem-education]]、
 - [[educator-guided-llm-pedagogical-agent-2026]] — 概念的なデータベース設計のための教育者が執筆した段階的なフィードバック：隠された診断、制御された開示、383のエピソードにわたって71.1%が標的の水準
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education
+- [[novice-se-students-oversight-genai-2026]] — 正しさを超えて：初心者のソフトウェア工学の学生が生成AIをどう監督するか（Shakiba and Chaffey 2026）

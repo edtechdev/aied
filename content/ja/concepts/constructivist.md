@@ -1,14 +1,14 @@
 ---
 title: 構成主義
 created: "2026-10-10T21:53:11-04:00"
-updated: "2026-10-10T21:53:11-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,6 @@ ai_assist:
 - **既有知識が新しい学習を形作る。** 新しい考えは、学習者の既存の心的モデルを通じて解釈されるので、教授は学習者がすでに知っていることを顕在化し、その上に築かなければなりません。これは[[misconceptions|誤概念]]や、学習者に適応するAIチューターに直接関係する原理です。
 - **社会的相互作用が構築を支える。** 主要な一派 — 社会的構成主義 — は、意味が対話、協働、文化的に[[situated-learning|状況づけられた]]活動を通じて共に構築されると考えます。これは構成主義を[[collaborative-learning|協働学習]]や、AIが命じるのではなく促す[[socratic-method|ソクラテス式]]のアプローチに結びつけます。([[ai-agents-constructive-conflict-design-education-2026]])
 - **構築は活動の中に見える。** 学習者は、生み出し、説明し、作り出すことで理解を露わにし(そして定着させ)ます。だからこそ、[[icap-framework|ICAPフレームワーク]]は「構築的」と「相互作用的」な[[student-engagement|関与]]を「能動的」「受動的」な様式より上位に置くのです。([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
-
 この理論には一つの境界があります。構成主義は人間中心の認識論的主体性を前提としており、推論を模倣し意味を共構築するAIを説明するには足りません。提案されている補完は、学習者がAIの出力を論争可能なものとして扱い、何が知識として数えられるかについて認識論的な主権を保つ、認識論的コー主体性(epistemic co-agency)です([[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel(2026)]])。
 
 ## 構成主義(Constructionism)
@@ -109,6 +108,12 @@ ai_assist:
 2. **[[icap-framework|ICAP]]のレンズを使う。** ICAPは関与を構築的、相互作用的、能動的、受動的という様式に分類します。AIの相互作用が実際に構築的・相互作用的な様式を引き出しているのか、それとも受動的な消費なのかを評価するためにそれを使いましょう。設計者は、学習目標がそれを正当化する場合、より深い(構築的・相互作用的な)様式を選ぶべきです。([[hingle-collaborative-ai-literacy-2025]])
 3. **理論と実装を整合させる。** 研究者は、AIが「機能するか」どうかを超えて、それが学習理論を*どう*体現しているかを見るべきであり、名目上は構成主義、実際には行動主義という乖離を確認すべきです。([[ai-vocational-education-training-review]])
 4. **学習者の主体性と転移を研究する。** 構成主義的な確約は、即時のテストの得点だけでなく、学習者が構築した理解を転移させ、独立に応用できるかどうかを評価することを含意します。([[research-methods-aied]])
+
+## よくある誤解
+
+- **「どんな問いをしたかを見れば、構成主義的な授業かどうかが分かる。」** DeBERTa 分類器は、**事実を伝達する知識伝達型の問いを 96.67% の精度で分類しましたが、促進者の問いは 78.79% しか分類できず**、**どのモデルも二つの高次の役割を取り違えました**。最も重要な構成概念こそ、自動検出が最も苦手とするものなのです。
+- **「授業の表面的な特徴が、その教授法を明らかにする。」** 分類器の失敗は実装の細部ではありません。促進者と構成主義者の役割が難しいのは、まさにそれらが、学習者の思考に対して教師が何をするかによって定義されるからであり、その関係は問いのテキストだけからは復元できないのです。
+- **「構成主義とは、教師が説明しないことである。」** この理論は、学習が経験からの学習者自身の構築にあると位置づけるものであり、直接教授と両立します。それを「教えないこと」の禁止とみなすのは、理論と、worked example に関する証拠の双方を読み違えています。
 
 ## 関連概念
 

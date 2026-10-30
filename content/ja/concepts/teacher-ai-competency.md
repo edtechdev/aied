@@ -1,7 +1,7 @@
 ---
 title: 教師の AI リテラシー
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-10-10T22:55:24-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -12,7 +12,7 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_of: concepts/teacher-ai-competency
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -53,6 +53,7 @@ ai_assist:
 - **評価に関するリテラシー:** AI が生成した内容と学生の AI 出力を評価すること、そして学生が AI を使うときに[[assessment-validity|妥当性]]がどう変わるかを理解すること。これは[[automated-assessment]]、[[ai-detection]]、そしてより広い[[assessment|評価の再設計]]の課題につながります。推薦システムについては、AI の説明が本当に理解可能で教授学的に意味があるかどうかを判断することにまで及びます。[[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor 他 (2025)]]は、説明が生のモデル特徴を露出させる場合よりも、領域(カリキュラム)の言葉で組み立てられたときに教師が AI のグルーピング推薦をより信頼することを見出しました。これは、不透明な出力を受け入れるのではなく、[[explainable-ai|説明の質]]を求め評価するスキルです。
 - **モデル選択とプロンプト設計は実証可能なスキルである:** 道具的な[[ai-literacy]]には、どのモデルを使うか、課題をどう言い表すかを知ることが含まれます。[[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen 他 (2026)]]は、153人の教師養成課程の学生の授業計画の目標を、体系的に変化させた4つのプロンプトの下で ChatGPT-4、Claude 3、Gemini Advanced に批評させました(研究1では N = 240 件のフィードバック、研究2では 345 件)。[[feedback]]フィードバックは9つの質のカテゴリで評価されました。モデル選択だけで評価された質の分散の 26.9%(研究2では 18.4%)を説明し、プロンプト設計がその上に有意な 15.9%(5.7%)を加えました。決定的な単一のプロンプト特性は領域固有の専門用語であり、その除去は質を有意に低下させました(β = −0.412)。一方、例を加え chain-of-thought の指示を落とすことは、研究1では有意な差を生みませんでした。彼らの解釈——教科の用語は関連する訓練データの内容を解き放つと同時に、役割を指定するプロンプトのように依頼を専門的に枠づける——に、現時点で最も有能なフロンティアモデルを使うという経験則を加えると、モデル選択は技術的な決定ではなく教授上の決定となります。
 - **倫理的で批判的な利用:** AI の出力における[[bias-mitigation|バイアス]]を見分けること、学生のデータ([[privacy|プライバシー]])を守ること、公正な成果([[equity-in-ai-education]])を確保すること。[[llm-cultural-relevance-k12|文化的に関連する AI の利用]]は、教師が LLM を用いて支配的な規範を強化するのではなく教材を多様化できるかどうかを検討しています。
+- **視覚的表象は、それ自体が測定可能な次元である。** [[chen-ai-visualization-teaching-competency-scale-2026|Chenら（2026年）]]は、中国西部の5つの省の566人の教員を対象に、視覚的表象を生成し、判断し、それに基づいて行為するための五次元の尺度を検証し、下位尺度のαは0.911から0.934でした。それは報告された能力を測るもので、再テストも実践の観察もありません。
 - **倫理的責任は個人ではなく分散されている。** 7つの国の事例を通じて、教師は AI 利用の道徳的な門番として位置づけられながら、制度的・認識論的な支援を欠いているため、倫理的 AI リテラシーは技術的なスキルではなく、批判的で政治的な行為主体性にまで及ばなければなりません([[raffaghelli-situated-ai-ethics-2026|Raffaghelli 他 (2026)]])。
 - **自信と態度:** 教師の[[self-efficacy|自信]]は導入の度合いを形づくります。[[teacher-ai-adoption-confidence|導入に関する研究]]は、教師が実際に AI を使うかどうかを自信、支援、知覚された有用性が左右することを見出し、[[ai-pedagogical-orientation|教員の志向性]]は研究と教育における導入を形づくります。
 
@@ -216,3 +217,4 @@ AI が日常的な指導と評価の作業を引き受けるにつれて、教�
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024 の4つの教師の信念プロファイルは専門的な学びとプロファイル固有の障害を AI の利用に結びつける
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild:教師が設定したチャットボットが実世界でどう失敗するか、そしてどう直すか
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — AIを活用した教員の視覚化教授コンピテンシー尺度の開発と検証

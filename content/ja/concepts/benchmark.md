@@ -1,7 +1,7 @@
 ---
 title: ベンチマーク
 created: "2026-10-10T21:52:15-04:00"
-updated: "2026-10-10T21:52:15-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,7 @@ ai_assist:
 - **[[teaching-feedback-classification-benchmark|教育フィードバックのベンチマーク]]** は、[[ai-feedback-quality|フィードバック品質]]分類の言語間転移を評価します。
 - **[[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark(CDPK + SEND)]]** は、内容知識ではなく教授法的知識——教授方略、[[assessment|評価方法]]、[[special-education|特別支援教育の教授法]]——を試し、97モデルにわたる費用対精度の「価値フロンティア」を報告します(一般的なベンチマークの多くは内容知識を測ります。教授法は、教育上重要な独自の次元です)。
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** は、25,795のインストラクショナルデザインシナリオにわたって[[llm]]ベースの[[learning-design|インストラクショナルデザイン]]エージェントをベンチマークし、古典的なISDフレームワーク(ADDIE、Dick & Carey、Rapid Prototyping)に基づくハイブリッドエージェントが、純理論型や純手法型を上回ることを示します。これは、教育における[[agentic-ai|エージェント的AI]]設計に直接的な含意を持つベンチマーク結果です。
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** は、チューターの評価を模擬ペルソナではなく記録された事例文献に根づかせます。特別支援教育と教育心理学の事例からの 923 件の対話を用い、11 モデルのうち最良のものが、自由記述の事例の 55.8% で記録された介入に到達しました。
 
 - **学習者適応を明示的なベンチマーク基準とする。** Teaching Monster Challengeは、指定された学習者ペルソナへの適応をスコア化しますが、その自動LLM審査員が分離できたのは弱い裾野だけで、上位システムはその天井近くで得点し、その順位はクラウドの選好と食い違いました(スピアマン ρ = −0.17)([[teaching-monster-pck-benchmark-2026|Lin et al.(2026)]])。
 
@@ -72,6 +73,12 @@ ai_assist:
 
 - **スコアリング規則は、それを学習するモデルによって攻略されうる。** 最良の1つの決定を繰り返すことで最大化される適応性指標は、ベンチマーク設計がargmaxを公開し、適応性を差としてスコア化し、ランダム以上のベースラインを報告すべきであることを示します([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]])。
 
+## よくある誤解
+
+- **「リーダーボード上の位置が、チューターの良さを教えてくれる。」** StudentBench は**2,383 人の成人を AI 個別指導、専門家による生の人間の個別指導、動画の各条件に無作為化**し、他のシステムではなく人間のチューターに対してスコア化します。他のモデルに合わせて尺度を整えたベンチマークは、誰も必要としなかった問いに答えるものです。
+- **「模擬的なペルソナは、チューター評価の十分な基盤である。」** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]は評価を**模擬的なペルソナではなく、記録された事例文献**に根づかせ、**923 件の対話**を用います。作り上げられた学生ペルソナは、実際には起こらない事例を通過させてしまいます。
+- **「審査員を確かめずに、ベンチマークを信頼できる。」** 幻覚は**取得されたオープンライセンスのチャンクに対する含意関係としてスコア化され（専門家判断との κ = 0.76）**ました。つまり審査員は、そのスコアが使われる前に専門家に対して検証されていたのです。検証されていない自動審査員は、意味の不明な数値を生みます。
+
 ## 関連する概念
 
 - [[ai-ed-evaluation]]
@@ -83,6 +90,7 @@ ai_assist:
 - [[automated-essay-scoring]]
 
 ## 関連する記事
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：困難な行動を示す学生に対して LLM チューターを評価する（Park et al. 2026）
 - [[standardized-assessment-llm-english-proficiency-2026]] — モデル能力を較正された水準として報告する624項目の英語熟達度ベンチマーク(Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — 評価の道具は、人間とLLMについて同じものを測るのか(Strugatski et al. 2026)

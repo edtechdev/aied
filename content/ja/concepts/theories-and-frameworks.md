@@ -1,14 +1,14 @@
 ---
 title: 理論と枠組み
 created: "2026-10-10T22:54:32-04:00"
-updated: "2026-10-10T22:54:32-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_of: concepts/theories-and-frameworks
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -48,6 +48,8 @@ ai_assist:
 - **[[community-of-inquiry|探究共同体]]** — オンライン体験を成立させる社会的・認知的・教授的なプレゼンス。経験の理論であり、同時に設計の枠組みです。
 - **[[self-determination-theory|自己決定理論]]** — 動機づけの前提条件としての自律性、有能感、関係性。AI使用が学習を高めずに関与を高めるときに、しばしば提示される説明です。
 - **[[cognitive-psychology|認知主義]]** — 情報処理、ワーキングメモリ、学習したという感覚と実際の学習との乖離。
+- **社会的知覚理論（温かさと有能さ）** は、社会的認知とサービスロボット研究から導入された理論で、利用者がAIエージェントの信頼性をどう判断するかを枠づけます。知覚された有能さはChatGPTのフィードバックの信頼性を直接予測しましたが、温かさは人間らしい共感を通してのみ働きました（SEM、学生230人。[[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]）。
+- **4つ目のアフォーダンスのカテゴリは、検証ではなく提案されました。** 24研究を3部構成のアフォーダンスの枠組みに対して符号化したところ、関与、安全、自己効力感が技術的、教授的、社会的のいずれのカテゴリにも当てはまらず、レビュアーはBanduraの相互決定論に根ざした感情的アフォーダンスを提案しました([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy(2026)]])。
 
 ## 学習者と学習過程のモデル
 
@@ -116,6 +118,16 @@ ai_assist:
 
 それでもメカニズムと理論の整合は決定的になりえます。55のAI支援ゲーム型学習研究の主題的総合では、効果がアルゴリズムの洗練さではなく、AIメカニズムが奉仕すべき教授法を実現したかどうかによって決まっていたことがわかりました（[[ai-game-based-learning-systematic-review-2026|Kaşarcı and Yurt（2026）]]）。
 
+## よくある誤解
+
+**「借りた理論をAIの道具に適用することが、理論を使うことである。」** この分野の多くは理論を検証するのではなく応用しており、違いはその枠組みが失敗しえた予測を立てたかどうかにあります。枠組みの旗印の下で伸びを報告しながら、反証可能な予測に何もコミットしない研究では、その枠組みについて何も学ばれていません。目録のどの理論とも整合する成果は、そのいずれの証拠でもないのです。
+
+**「枠組みの価値は、すでに作ったシステムをどれだけよく記述するかである。」** それは後付けのラベリングです。どの設計も収容する分類法には識別力がなく、だからこそ記述的な枠組みは何を排除するかで判断されるべきです。評価の問いは「私のシステムはこれに当てはまるか」ではなく、「この枠組みが誤りだと言うのはどのようなシステムか」です。
+
+**「学習理論、学習者のモデル、採用の枠組みは交換可能なレンズである。」** それらは異なる問いに答えます。学習がどう起こるか、学習者の状態は何か、なぜ実践が広がるかであり、証拠の型もそれに応じて異なります。層を選び間違えると、正しい変数を誤った予測に対して測る研究が生まれ、それは範疇の誤りであるのに帰無結果として読まれます。
+
+**「枠組みが多いほど成熟した分野である。」** AI時代のために作られた枠組みは、検証されるよりも速く蓄積します。反証を伴わない蓄積は進歩ではなく症状です。成熟は語彙の増加ではなく、競合する予測が決着することに現れます。
+
 ## 関連概念
 
 - [[theory-development-aied]] — この分野で理論を構築し改訂すること
@@ -130,6 +142,7 @@ ai_assist:
 - [[research-methods-aied]] — 理論がどう検証されるか
 
 ## 関連記事
+- [[genai-chatbots-language-learning-affordances-review-2026]] — アフォーダンスの分類法における4つ目のカテゴリとして提案された感情的アフォーダンス
 - [[ai-game-based-learning-systematic-review-2026]] — メカニズムと理論の整合性が、アルゴリズムの洗練さではなく、55のAIゲーム型学習研究の効果を決めた
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — AI×Ed枠組みを通じた40年のAIED
 - [[educating-minds-generative-ai-2026]] — 生成AIと学習の理論豊富な総合

@@ -1,7 +1,7 @@
 ---
 title: 教授法と教授戦略
 created: "2026-10-10T22:46:00-04:00"
-updated: "2026-10-10T22:46:00-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ ai_assist:
 
 横断的な主要な知見は、ナレッジベースの[[learning-gains|学習の伸び]]研究と一致して、**戦略の学習への効果は、それが掲げるラベルよりも、それが学習者の努力と生産的なもがきをどう保全するかにもっと依る**ということです——AI が、それが引き出すはずだった認知的作業を迂回するよう構成されているなら、いかなる教授法も、「良い」教授法でさえ、失敗します（[[cognitive-offloading|認知的作業の外部委託]]、[[desirable-difficulties|望ましい困難]]を参照）。
 
+学生と AI の[[student-ai-interaction|相互作用]]は、固定的な依存ではなく、認知的分配が移り変わる過程として読むほうが適切です。学際的な[[engineering-education|工学]]のコースにおける 53 件の ChatGPT の会話では、拡張（緊密で反復的な共同思考）が 321 のプロンプトレベルのコードのうち 53.3% で最も多い相互作用の型であり、外部委託の 29.6% を上回りました（[[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane & Arikan（2026）]]）。
+
 保全された努力へのその強調は絶対的なものではありません。四研究の[[mixed-methods-research|混合研究法]]デザイン（N = 912）は、生成 AI を教授法的パートナーとして枠づけることが、批判的な用心と戦略的な外部委託の双方を活性化することを見出しました。しきい値を超える外部委託は、それを蝕むのではなく、高次の省察のための容量を解放したのでした（[[wang-zhang-pedagogical-partnerships-genai-2026|Wang and Zhang (2026)]]）。
 
 ## 教育における AI への示唆
@@ -88,6 +90,12 @@ ai_assist:
 - **学習者の主体性を中心に保つ：** アクティブ、ソクラテス的、足場かけの教授法は、AI がそうでなければ蝕むことのできる生産的なもがきと[[agency|主体性]]を保全します（[[cognitive-offloading|認知的作業の外部委託]]、[[desirable-difficulties|望ましい困難]]を参照）。
 - **良い教授法を実践するよう AI を設計する：** AI エージェントとチューターは、既定の答え生成ではなく、確立された教授的枠組みに接地すべきです。
 - **AI と共に、また AI について教える：** 教授法は、AI を使って教えると同時に、学習者に AI を責任を持って使う方法を教えるべきです。
+
+## よくある誤解
+
+- **「教師に最も必要なのは技術的な AI 知識である」** **46 人の教師と 2,832 人の学生**にわたって、**教師の教授法的な AI 知識**が、学生の「社会のための AI」についての知覚を予測しました。教授法的な知識は技術的な知識を上回り、それは訓練への投資の大半が向かう先を反転させます。
+- **「教育における AI の主な貢献は教授である」** **28 件の研究の PRISMA レビュー**は、AI が最も頻繁に**教授の計画と評価の設計**を強化したことを見出しました。最も明確な貢献は**管理業務の外部委託**であり、教授ではありません。教授上の伸びを中心に据えた主張は、エビデンスの弱い枝の上に築かれています。
+- **「AI リテラシーの指導は自動的に良い教授に移転する」** **59 件の研究（172 の効果量）**の三層のメタ分析は、**知識志向の介入（g ≈ .97）**が知識を動かす点で他のアプローチを明確に上回ったことを見出しました。動かされたのは知識であり、測定された成果です。それが実践に届いたかどうかは次の問いです。
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — 教授学的パートナーシップ
@@ -128,3 +136,4 @@ ai_assist:
 - [[fowlin-operationalizing-learning-principles-ai]] — AI を用いて学習の原理を運用化すること
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI と教授設計の実践——系統的レビュー（Kibar & Ilgaz 2026）
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI リテラシーの介入における教授のアプローチ
+- [[cognitive-distribution-student-genai-interaction-2026]] — 学生と AI の相互作用は固定的な依存ではなく移り変わる認知的分配である（拡張が 53.3%）

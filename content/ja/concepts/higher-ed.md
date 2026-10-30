@@ -1,7 +1,7 @@
 ---
 title: 高等教育
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-10-10T22:38:05-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-13T11:30:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -35,19 +35,27 @@ ai_assist:
 
 ## はじめに
 
-高等教育におけるAIの研究は、大学のあらゆる機能にまたがります。[[intelligent-tutoring|AI個別指導]]や[[automated-assessment|自動採点]]から、教員養成・研修、学問的誠実性、[[governance|機関のガバナンス]]、学生支援までです。ナレッジベースの高等教育に関する記事は、いくつかの主要なテーマに集まります。すなわち、機関の変革、規模をもった学生の経験、教員と教育、評価と誠実性、そして方針と実践の急速な転換です。
+高等教育におけるAIの研究は、大学のあらゆる機能にまたがります。[[intelligent-tutoring|AI個別指導]]や[[automated-assessment|自動採点]]から、教員養成・研修、学問的誠実性、[[governance|機関のガバナンス]]、学生支援までです。ナレッジベースの高等教育に関する記事は、いくつかの主要なテーマに集まります。すなわち、機関の変革、規模をもった学生の経験、教員と教育、評価と誠実性、そして方針と実践の急速な転換です。このレビューの 394 件の GenAI 高等教育研究では、参加者の焦点は学生が 352 件、教員が 15 件、両方が 26 件、複数の利害関係者の集団が 1 件でした。つまり、認識と教授実践に関するエビデンス基盤は圧倒的に学生に基づいています（[[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]）。
 
 ### 機関の変革
 
-[[institutional-change-framework-ai|機関変革の枠組み]]は、大学がAIにどう適応するかを分析します。教室レベルだけでなく、方針、ガバナンス、組織構造を横断してです。[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AIフレームワーク]]は、教員の対応力を、認識論的・教授法的・制度的・質保証の各領域に関わる社会技術的な整合の課題として捉え直します。[[universities-ai-era-rethinking|AI時代における大学の再考]]は、現在の機関モデルがAI駆動の教育を受け入れられるかどうかを検討します。導入は一様ではありません。[[alrahmi-org-drivers-ai-adoption-he-2026|組織的推進要因の研究]]は、機関による導入を可能にするものと阻むものを特定し、[[ai-uk-higher-education-policy-2026|国の政策の分析]]は、制度的な文脈が大学の対応をどう形づくるかを示します。具体的な機関の青写真は[[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]]から得られます。同氏は嶺南大学が「デジタル時代における研究集約的なリベラルアーツ教育機関」として再定位したことを記録し、全学部生にGenAIリテラシーを必修とし、デジタルリテラシーをコアカリキュラム全体に埋め込みながら、[[ethics|倫理]]的な推論と批判的な判断を前面に出すヒューマン・イン・ザ・ループモデルを発展させました。そして教育のためのAIへの転換は技術中心の増強ではなく知的な変革であると論じています。22件の高等教育AI統合介入のマクロレベルのマッピング([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikhら、2026]])は、変革が相変わらず現実よりも願望の側にあることを裏づけます。[[samr-model|SAMRモデル]]で評価すると、ほとんどの介入は置き換え(S)か拡張(A)の水準にあり、統合は[[medical-education|医学]]、工学、[[cs-education|情報科学]]に集中し、[[humanities-education|人文科学]]の存在はほとんどありません。また、根拠は北米とアジアに偏り、[[global-south|グローバルサウス]]の例は最小限です。世界的な比較の指標が、言論と構造の隔たりを測定します。[[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]は、Times Higher Education 2026年版のランキングに入ったすべての大学100校の公式ウェブサイトを、20指標からなるAI Institutionalization Indexに対して符号化しました。象徴的な層は飽和している一方、構造的な層は薄いのです。100%がAIのタスクフォースと修士レベルのAIの学位プログラムを持っていますが、執行層のAIのリーダーシップを持つのは12%のみ、学部生に導入のAIの履修を課しているのは5%のみ、そしてAIのアクセシビリティ方針を公表しているのは0%です。93%がAI駆動のキャンパスサービスを展開しているにもかかわらず、です。
+[[institutional-change-framework-ai|機関変革の枠組み]]は、大学がAIにどう適応するかを分析します。教室レベルだけでなく、方針、ガバナンス、組織構造を横断してです。[[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AIフレームワーク]]は、教員の対応力を、認識論的・教授法的・制度的・質保証の各領域に関わる社会技術的な整合の課題として捉え直します。[[universities-ai-era-rethinking|AI時代における大学の再考]]は、現在の機関モデルがAI駆動の教育を受け入れられるかどうかを検討します。導入は一様ではありません。[[alrahmi-org-drivers-ai-adoption-he-2026|組織的推進要因の研究]]は、機関による導入を可能にするものと阻むものを特定し、[[ai-uk-higher-education-policy-2026|国の政策の分析]]は、制度的な文脈が大学の対応をどう形づくるかを示します。具体的な機関の青写真は[[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]]から得られます。同氏は嶺南大学が「デジタル時代における研究集約的なリベラルアーツ教育機関」として再定位したことを記録し、全学部生にGenAIリテラシーを必修とし、デジタルリテラシーをコアカリキュラム全体に埋め込みながら、[[ethics|倫理]]的な推論と批判的な判断を前面に出すヒューマン・イン・ザ・ループモデルを発展させました。そして教育のためのAIへの転換は技術中心の増強ではなく知的な変革であると論じています。22件の高等教育AI統合介入のマクロレベルのマッピング([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikhら、2026]])は、変革が相変わらず現実よりも願望の側にあることを裏づけます。[[samr-model|SAMRモデル]]で評価すると、ほとんどの介入は置き換え(S)か拡張(A)の水準にあり、統合は[[medical-education|医学]]、工学、[[cs-education|情報科学]]に集中し、[[humanities-education|人文科学]]の存在はほとんどありません。また、根拠は北米とアジアに偏り、[[global-south|グローバルサウス]]の例は最小限です。
+
+世界的な比較の指標が、言論と構造の隔たりを測定します。[[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]は、Times Higher Education 2026年版のランキングに入ったすべての大学100校の公式ウェブサイトを、20指標からなるAI Institutionalization Indexに対して符号化しました。象徴的な層は飽和している一方、構造的な層は薄いのです。100%がAIのタスクフォースと修士レベルのAIの学位プログラムを持っていますが、執行層のAIのリーダーシップを持つのは12%のみ、学部生に導入のAIの履修を課しているのは5%のみ、そしてAIのアクセシビリティ方針を公表しているのは0%です。93%がAI駆動のキャンパスサービスを展開しているにもかかわらず、です。
+
+制度化は威信とも独立であることが示され（順位相関 r ≈ 0.04）、地域による有意な変動がありました（ANOVA F = 5.86, p < .001。北米 M = 0.63 に対し、欧州 0.51、アジア 0.50）。六つの型からなる類型では、主に大規模な米国の公立大学の小さな一部だけが「深い制度化」に達しています。著者はこの指数を、エリート上位 100 校だけを対象とした、検証されていない第一世代のウェブサイトのみの指標として位置づけています。比較の地図であり、評点表ではありません。
 
 ある機関がどのような形態のGenAI利用を正統なものとして認めているかは、それ自体測定可能です。[[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn, Rehm (2026)]]は、102件の高等教育実証研究を、学生とシステムの間で認識論的な作業がどう分配されたかによって分類し、Assistant(42.16%)とEnabler(42.16%)の応用が卓越する一方、Generator、Reimaginator、Synthesizerを合わせてもコーパスの5分の1未満であることを見いだしました。モデルが残りをできないからではなく、周辺的な形態が著作を、大学の「個人の能力」という論理がまだ認めないかたちで分配してしまうからです。彼らの説明によれば、高等教育におけるGenAIへの拘束条件は技術的な能力ではなく制度的な正統性であり、この問いは[[academic-integrity|誠実性]]と[[assessment]]改革と同じ方針・評価再設計の領域に正面から据えられます。
+
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri and Biagini (2026)]]は、2019 年の高等教育の四カテゴリーの類型を 2019〜2026 年の 228 件の文献に対して検証し、分類可能な 154 の応用のうち 58.4% がその外に落ちることを見出し、AI が可能にする学生支援、内容と教授設計、機関の[[learning-analytics|学習分析]]を機能領域として加えています。
 
 教室の外でのAI展開は消費者保護の問題となり、その学生側の一覧は薄いものです。[[students-at-stake-ai-deployment-risks-2026|Student DefenseのSHAPE AI報告書(2026)]]は、入試、募集、奨学金、学生の成功のためのサービス(進路指導、カウンセリング、給付へのアクセス、単位互換)、教育の提供にわたる機関のAI利用をマッピングします。Canvas、Blackboard、D2L Brightspaceに組み込まれたLMSの機能、機関全体のGenAI[[edtech-platform|プラットフォーム]]、個別指導とフィードバックのシステム、検出と遠隔監視です。そして導入が保護を追い越していると論じます。その6つの横断的な懸念(学生が対価に対して何を得ているか、学習共同体の喪失、開示と透明性、データのプライバシー、バイアス、較正された人間の監督)は、4つの調達審査の問いと結びついています。すなわち、何の問題を解こうとしているか、ガバナンスの能力があるか、機関は透明か、そして展開は学生にとって価値を生むかです。報告書の立場は、州や認可機関、連邦教育省はこうしたリスクをまだ捕捉できる状態になく、機関自身の成文の方針が実効的な保護として残されているというものです。そして失敗モードを名指しします。教員主導のプログラムを宣伝しながら、教育や[[learning-design|科目設計]]をAIや外部業者に外注している大学は、自分の名前で別の商品を売っているのだ、と。
 
 ### 規模をもった学生の経験
 
 [[ai-in-the-wild-college|本物の学生のAI利用]]と[[genai-availability-grades-satisfaction|GenAIの利用可能性と満足度]]の大規模な研究は、学生が実際にAIをどう使うかを記録し、機関の方針と日常の実践の隔たりを明らかにします。[[genai-student-experiences-uk-he-survey-2026|調査研究]]は学生がAIの状況をどう渡り歩くかを捉え、[[generative-ai-reduced-study-time-math|学習時間]]、[[ithaka-sr-ai-skills-college-graduates-2026|卒業生のAIスキル]]、[[student-perceptions-ai-study-productivity-2026|学生のAIツールに対する認識]]の研究は、学生のAIについての経験が混在したものであることを示します。効率的だが、しばしばより浅いのです。この大学の学習の多くは今やオンラインで行われ、そこでは[[online-teaching-and-learning|オンライン教育と学習]]が、AIの利点(拡張可能な個別最適化、常時利用可能な支援)と、大学生にとってのリスク([[academic-integrity|学問的誠実性]]、[[cognitive-offloading|認知のオフローディング]])の両方を形づくります。SHAP分析を用いた探索的な機械学習の手法は、学生の認識と人口統計が学術的なChatGPT利用の意図とどう関係するかを調べ、[[explainable-ai|解釈可能性]]を優先しました([[determinants-chatgpt-use-higher-education-2026]])。生成AIが人間の[[creativity|創造性]]の価値を揺るがす芸術と[[design-education|デザイン教育]]では、[[storytelling-in-education|デジタルストーリーテリング]]を核とする[[project-based-learning|プロジェクトベース学習]]モデルが、AIに欠けている感情的・文化的・物語的な能力を育みました。地元の文化遺産を[[multimodal]]の物語に翻訳した中国人学部生426人を対象とした15週間の組み込み型事例研究で評価されています([[project-based-digital-storytelling-art-design-2026]])。GenAIの支援的・包摂的な利用は、[[special-education|障害のある学習者]]の学生の経験も作り変えています。[[khlaif-assistive-genai-visually-impaired-2026|Khlaifら(2026)]]は、パレスチナの3つの大学にわたる視覚障害のある学部生21人を対象とした[[qualitative-research|質的]]事例研究で、GenAIが個人の特性に合わせて進度・内容・提示方法を調整し、複雑な文章を単純化し、内容をモダリティ間で変換することを見いだし、学習者に[[agency|自律性]]と授業参加への自信を与えると同時に、教員を補完するものとして捉えられていることを示しました。
+
+303 人の学部生を対象とした階層的回帰では、知覚された資源と教師の支援が AI リテラシーの分散の 29% を説明し、先行するデジタル能力が 3%、心理的な障壁が 6% を説明しました（合計 R² = 0.39）。技術への[[anxiety-and-stress|不安]]の関連は、完全なモデルでは正に反転し、それは批判的評価と倫理的な能力についてのみでした（[[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]）。
 
 教室を超えて、AIは進路指導、働きかけ、紹介、希少な支援の配分を通じて、機関そのものを通じて学生に届きます。[[student-support-and-success|学生支援と成功]]は、これを独立した根拠の集まりとして集めています。規模に関するその中心的な注意は、4年間のランダム化評価(N = 8,708)から来ています。登録を促す働きかけは期限を34ポイント動かした一方、卒業、取得単位、GPAはまったく動きませんでした。
 
@@ -63,19 +71,32 @@ ai_assist:
 
 [[educational-development]]の研究は、教育者がAIを採用し、抵抗し、適応していく様子を調べます。[[teacher-ai-adoption-confidence|教員のAI導入に関する研究]]は、自信、支援、態度を主要な予測要因として特定します。[[ai-assistance-discretionary-feedback|AI支援の裁量的フィードバック]]の研究は、AIが教育者の[[ai-feedback-quality|フィードバックの質と量]]を高めるかどうかを探り、[[luo-eaton-ai-student-feedback-ethics-2026|倫理の研究]]は、教育者がフィードバックにAIを使うべきかどうか自体を問います。[[enright-staff-perspectives-genai-2026|職員の認識の研究]]と[[stenalt-good-education-teacher-ai-conceptions-2026|教員のAI観の現象学的な研究]]は、教育者が変化する自らの役割をどう理解しているかを探ります。大規模な授業では、AIは今やフィードバックの負担の増大する分を担うことができます。学部のマクロ経済学の演習で行われた1学期にわたるフィールド実験([[gpt4-feedback-student-activation-2026|Geschwindら、2026]])では、個別のGPT-4フィードバックが8つの自由記述課題にわたって最も高い参加を持続させ、内容面でもっとも大きな[[learning-gains|学習効果]]を生み出し、AIフィードバックを講義のフィードバックへの拡張可能な補完物、そして信頼のおけない[[peer-assessment|相互フィードバック]]の代替物として位置づけました。大規模な学部の[[stem-education|STEM]]授業のための補完的な道は、診断的なTA(教務補佐)システムです。[[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yinら、2026)]]は、問題ごとの[[machine-learning|機械学習]]の骨格を用いて、Engineering Economicsの計算公式問題に対してリアルタイムで個別化されたフィードバックを与えます。これは、手書きの解答がそれまでAI支援を妨げていた領域で、フィードバックの正確さと収集効率のバランスをとる対話型のウェブインターフェースを通じて行われます。[[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouliら(2026)]]は、その変化の*感情的*な次元を捉えます。24人のスウェーデンの大学教員は、GAIの出現を脅威的で圧倒的なものとして経験し、「傷つきやすさの状態」(自信のなさ、不安、「学生より先にいられないのではないか」という恐れ)を報告し、ユートピア的言説とディストピア的言説の間に「動けない」と感じました。一方で[[assessment]]を見直し、[[critical-thinking|批判的思考]]と倫理的なGAI利用へと優先順位を再評価しました。
 
+AI による個別指導の 1 時間は、2,383 人の成人による 2,469 セッションにわたる GRE の学習の伸びにおいて、対面の専門家による人間の個別指導と統計的に同等であり、一つのモデルは 1 パーセントポイント当たりのコストで 918 分の 1 で同等に達しました（[[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]）。
+
 ### 評価と誠実性
 
 [[academic-integrity|学問的誠実性]]と[[ai-assessment-scale-reform|AI評価改革]]の研究は、AIを使いこなす学生の集団に向けて、大学が評価をどう再設計すべきかに取り組みます。[[ai-detection|検出中心の]]アプローチは、[[authentic-assessment|真正の評価]]と過程に基づく評価へと道を譲りつつあります。[[fenton-oral-exams-ai-authentic-assessment-2025|口頭試験]]、[[roe-assessment-twins-2026|評価の双子]]、[[beyond-detection-authentic-assessment-ai-2025|真正の評価の再設計]]などです。この転換はより深い懸念を反映しています。[[ai-tools-academic-work-cheating-2026|学生と機関がAIとの関係で不正をどう定義するか]]、そして[[assessing-quality-ai-generated-exams-field-2025|AIが生成した評価教材の質]]です。自由記述の大学の課題に対する採点の自動化そのものが成熟しつつあります。[[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko, Drlik (2025)]]は、ソフトウェア工学の試験問題24問に対する1,885件の解答について、11のGenAIモデルと文埋め込みモデルを比較し、GPTo1だけが2人の専門家の人間採点者とほぼ完全な一致に達したこと(Fleiss' Kappa 0.82)、文脈に敏感なモデルが参照ベースのモデルを上回ったことを見いだしました。ただし独自APIのコストから、著者らは資源の制約された機関にハイブリッドなヒューマン・イン・ザ・ループの運用を推奨しています。専門職プログラムの水準では、[[olvet-genai-scoring-open-ended-medical-2026|Olvetら(2026)]]が、[[llm]](GPT-4)による臨床実習前の[[medical-education|医学]]の自由記述試験問題の採点が、人間によるルーブリックの反復的な精緻化を経て、教員採点者と実質的からほぼ完全な一致に達しうることを示しました(重み付けカッパ最大0.94)。それでも著者らは、残る不一致を裁定するために人間をループに保つことを推奨しています。このモデルレベルの根拠を補うものとして、[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik, Thambi (2026)]]は、21問からなる大学の薬学試験をChatGPT-5で採点し、客観的な問題では教員とほぼ完全な一致(CCC 0.935–1.000)を見いだしましたが、短答式と論述式の問題では一致が不安定で、ルーブリックの提供も一貫して成績を改善しませんでした。これは大学の評価における[[human-in-the-loop-ai|ハイブリッドなヒューマン・イン・ザ・ループ]]採点の根拠を強めるものです。
 
+第三の道は課題そのものを硬化させます。プロンプトを摂動を加えた画像として描画すると、LLM の課題完了の失敗が 7.4% から 55.6% に上がり、Tesseract の抽出誤差は 100.0% に押し上げられました。これは誠実性を、検出を置き換えるのではなく補完する内容の設計として枠づけ直します（[[airri-machine-resistant-reading-interface-2026|Salaun et al., 2026]]）。
+
 ## 高等教育の教育者にとっての含意
 
 - **AIを使いこなす学生の集団に向けて評価を設計する。** 検出中心の誠実性アプローチは、[[authentic-assessment|真正の]]評価と過程に基づく評価([[beyond-detection-authentic-assessment-ai-2025|検出を超えて]]、[[ai-assessment-scale-reform|評価改革]])へと道を譲りつつあります。どう取り締まるかだけでなく、何を評価するかを再設計してください。
+- **教室内での禁止を保証として扱うのをやめる。** スマートグラスと AI 対応の補聴器は二重に透明です。検出できる視線の低下も姿勢の変化もありません。したがって監督下の試験や口述試験は、物理的な分離によって証拠上の確信を買うことができなくなりました（[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]）。
 - **「学生は何を手で学ぶべきか」という問いを再設計する。 計算機の分野と同じように、保存すべきスキル(検証、判断、過程)を決め、それを評価される中核とします。AIスキルが自動的に転移すると仮定しないことです。
 - **教員の対応力を、技術的なものではなく社会技術的なものとして扱う。** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]]は、対応力を認識論的・教授法的・制度的・質保証の各領域にわたって枠づけます。道具の習熟だけでなく、[[pedagogy|教育の実践]]を機関のガバナンスと整合させてください。
+- **教員には、道具への自信だけでなく AI リテラシーに資金を提供する。** [[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]は、社会的・組織的な支援が大学教員の AI ウェルビーイングに、AI リテラシー（β = 0.713）を通じて間接的にのみ達することを見出しました。概念的・倫理的・教授法的な理解を築くプログラムは、実践的な習熟だけよりも教員にとって多くを行います。
 - **方針と実践のギャップに対処する。** 大規模な研究([[ai-in-the-wild-college|AI in the wild]])は、学生が機関の方針が予期しない仕方でAIを使っていることを示します。自らの期待を実際の利用と合わせ、[[ai-literacy]]を明示的に教えてください。
+- **キャンパス全体の一つの AI 方針ではなく、方法に固有の指針を書く。** 25 人の大学の言語教師への面接から、この研究は 20 の倫理的な緊張を抽出しました（オンラインの方法ごとに 4 つ）。それらは学習の真正性（11）、権威への挑戦（4）、協働の力学（5）にまとめられ、一般的で方法に依存しない方針では、各オンライン方法が誠実性と[[collaborative-learning|協働]]に課す固有の圧力に対処できないと論じています（[[ai-ethics-tensions-online-pedagogy-2026|Baoyi & Khan (2026)]]）。
 - **AIを使ってフィードバックの質と量を高める。** [[ai-assistance-discretionary-feedback|AI支援のフィードバック]]は、教育者が届けるフィードバックを増やすことができます。[[human-in-the-loop-ai|人間の判断]]と組み合わせて、単なる自動化ではなく学習を改善するものにしてください。
 - **採点と評価の革新に意図的に関わる。** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais, Galy (2026)]]は、[[assessment]]と採点が高等教育で学習を形づくる最も影響力のある要因の一つである一方、[[business-education|経営教育]]などの分野では研究が不十分なままであると論じます(主要な4誌で20年間にわたってわずか58本の論文)。伝統的な、[[summative-assessment|総括的]]に偏った規範準拠のアプローチは、生成AIの時代において深い学習、[[well-being|ウェルビーイング]]、公平性、[[academic-integrity|誠実性]]を損ないます。著者らは教育者に対し、5つの革新的な実践(真正の評価、自己評価と相互評価、再評価、基準に基づく採点、成績を付けない実践)にもっと積極的で相互的に関わるよう促し、実施には制度的・文化的な支援と段階的な実験が必要だと述べています。
 - **研究訓練と監督を、それ自体としてAIリテラシーの場として扱う。** [[dai-chan-responsible-genai-research-ai-literacy-2026|大学院研究者]]は、[[ai-literacy]]を静的なスキルセットではなく[[situated-learning|状況に根ざした]]実践として実践します。機関の指針は教育と評価でほぼ止まっています。論文、博論、出版に関する仕事の指針は、AIリテラシーの各次元について検証、出典の明示、開示を具体的に[[scaffolding|足場かけ]]すべきです。そして[[engagement-intensity-learner-modeling|授業前の単純なシグナル]]で、研究倫理の授業におけるその支援を狙い定められます。二値の規則を出す代わりに。
+
+## よくある誤解
+
+- **「機関の AI 採用は成熟した」** **象徴の層は飽和している一方、構造の層は薄い**ままです。**100% が AI のタスクフォースと AI の修士課程を持ちますが、幹部の AI リーダーシップを持つ機関はわずか 12%** であり、さらなる制度的な一歩を要求する機関もわずか 5% です。発表は構造を桁違いに追い越しています。
+- **「威信が機関の AI の成熟を予測する」** 制度化は**威信とは独立**であることが示され（順位相関 r ≈ 0.04）、**地域による有意な変動（ANOVA F = 5.86, p < .001）** がありました。評判は準備性の代理変数ではなく、地理は地位よりも多くを予測します。
+- **「AI が認識論的な作業をどう分配するかは、機関を超えて一様である」** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn, Rehm (2026)]]は、認識論的な作業がどう分配されたかによって**102 件の高等教育の実証研究**を分類し、その変動こそが発見であり、細部ではありません。
 
 ## 関連する概念
 
@@ -130,7 +151,13 @@ ai_assist:
 - [[engagement-intensity-learner-modeling]] — 適応的なAI倫理指導のための学習者モデリングのシグナルとしてのエンゲージメント強度(Oh, Talton & Bui 2026)
 - [[ai-assisted-writing-research-teams]] — AI支援の執筆が研究チームを、小さく若手に偏った被引用の高い協働へと向ける(Wangら 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench:AIと人間の個別指導が同等のGREの学習効果を生む
-- [[nlp-student-evaluation-teaching-scoping-review-2026]] — 感情分類から実行可能で責任あるフィードバックへ:教育における学生評価のNLPのスコーピングレビューと証拠マップ、2015–2026
+
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — AssistantとEnablerの形態が高等教育のGenAI研究を支配する。周辺的な絡み合いの類型は制度的な理由で稀なまま(Sun, Dohn & Rehm 2026)
 - [[students-at-stake-ai-deployment-risks-2026]] — 入試、奨学金、学生サービス、教育の提供にわたるAI展開の学生側のマップと4つの調達審査の問い(Student Defense 2026)
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026):100校の上位ランキング大学にわたるAI Institutionalization Index。言論は構造を追い越し、導入は威信とは無関係
+- [[airri-machine-resistant-reading-interface-2026]] — 摂動を加えた画像の課題が LLM の完了失敗を 7.4% から 55.6% に上げた: 誠実性への内容設計の道
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI グラスと補聴器は教室内の試験の禁止を無効にする: 手がかりのない二重の透明性
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — 高等教育の AI 応用の機能領域の類型で、58.4% が 2019 年のカテゴリーの外に落ちる
+- [[ai-ethics-tensions-online-pedagogy-2026]] — キャンパス全体の一つの AI 方針ではなく、方法に固有の指針を書く
+- [[ai-literacy-determinants-university-students-2026]] — 知覚された資源と教師の支援が AI リテラシーの分散の 29% を説明し、人口統計は説明しなかった
+- [[faculty-ai-well-being-social-supports-2026]] — 教員には道具への自信だけでなく AI リテラシーに資金を提供する

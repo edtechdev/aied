@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-10-27T04:16:00-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -99,12 +99,13 @@ AIが指導と学習をどのように支えるかは、この分野の中心で
 
 - **モデルと手法:** [[generative-ai|生成AI]]、[[llm|大規模言語モデル]]、[[rag|検索拡張生成]]、[[multimodal|マルチモーダルモデル]]、[[educational-nlp|教育NLP]]、[[reinforcement-learning|強化学習]]、[[knowledge-graph|知識グラフ]]、[[educational-robotics|教育におけるロボット]]、[[conversational-ai|対話型AI]]、[[simulation|シミュレーション]]、[[llm-training-and-fine-tuning|教育向けLLMの訓練]]です。その土台となる方法も重要です。[[machine-learning|機械学習]]はこれらのシステムが作られる場所であり、[[speech-and-voice-technologies|音声・音声認識技術]]は音声による個別指導と言語練習を担い、[[visualization|可視化]]は学習者と教員のためのダッシュボードと視覚的分析を扱い、[[virtual-and-augmented-reality|仮想現実・拡張現実]]は、その視覚的な層をモデルが生成できるようになった没入型の練習を載せています。より新しい対話のスタイルもここに属します。とりわけ[[vibe-coding|バイブコーディング]]は、利用者がLLMへのプロンプトでプログラムを指定し、ソースコードを読んだり編集したりするのではなく出来上がった振る舞いを判断する自然言語主導のワークフローで、[[cs-education|プログラミング]]を表現と検証の行為として捉え直し、[[teacher-role|エンドユーザー]]が自分のツールを作る際の障壁を下げます。統合の深さを扱う[[samr-model|SAMR]]のような枠組みや、[[technology-acceptance-model|TAM]]のような導入理論は、AIがどれだけ深く取り入れられ、課題をどれだけ変革するかを分類します。
 - **学習者モデリングと適応システム:** 学習者を表現し、適応する技術システムは[[student-modeling|学習者モデリングと適応的な指導]]という最上位概念のもとにまとめられています。[[knowledge-tracing|知識トレーシング]]、[[cognitive-diagnosis|認知診断]]、[[simulating-students|学生のシミュレーション]]、[[intelligent-tutoring|知的個別指導]]、[[adaptive-learning|適応学習]]、[[personalized-learning|個別最適化学習]]、[[recommender-systems-and-learning-paths|推薦システムと学習パス]]、[[pedagogical-agent|教育エージェント]]、[[affective-tutoring|感情チュータリング]]、[[affective-computing|感情コンピューティング]]、[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループAI]]、[[learning-analytics|学習分析]]です。これらはAIシステムそのものであるため技術層に位置し、それらが実践する教授法とは区別されます。
+- **プラットフォーム、開放性、採用:** モデルを取り巻く層であり、教材が構築されるのではなく、ライセンスされ、ホストされ、支払われる場所です。[[open-education|オープン教育]]は、オープンライセンスの内容で教えることと、学生をその生産者として扱う教育学を扱い、生成された素材が今投げかけるライセンスと改変の問いが議論される場所です。それはソフトウェアの意味での開放性、[[edtech-platform|EdTechプラットフォーム]]におけるプラットフォーム水準の分析、そして[[technology-acceptance-model|TAM]]が担う採用研究の隣に位置します。
 
 ## 専門分野におけるAI
 
 AIは専門分野と教育段階をまたいで応用されます。ナレッジベースの[[discipline-specific-aied|専門分野におけるAIEDの概観]]は教科領域の網羅を地図にします。あわせて[[learning-sciences|学習科学]]も挙げられます。これは教えられる教科ではなく、学習そのものを研究し、教科内容を数ある変数の一つとして扱う横断的な研究分野です。
 
-- **教科領域:** [[math-education|数学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、[[stem-education|STEM]]、[[writing-education|作文]]、[[language-learning|言語学習]]、[[english-education|英語教育(EAP/EFL/ESL)]]、[[science-education|科学教育]]、[[business-education|経営・経済・マネジメント]]、[[humanities-education|人文・社会科学]]、[[arts-design-and-media-education|芸術・デザイン・メディア教育]]、[[medical-education|医療・保健専門職]]、[[legal-education|法学教育]]、そして専門職・応用の系統である[[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]]です。
+- **教科領域:** [[math-education|数学]]、[[statistics-and-data-science-education|統計・データサイエンス]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、[[stem-education|STEM]]、[[writing-education|作文]]、[[language-learning|言語学習]]、[[english-education|英語教育(EAP/EFL/ESL)]]、[[science-education|科学教育]]、[[environmental-education|環境教育]]、[[business-education|経営・経済・マネジメント]]、[[humanities-education|人文・社会科学]]、[[arts-design-and-media-education|芸術・デザイン・メディア教育]]、[[medical-education|医療・保健専門職]]、[[legal-education|法学教育]]、そして専門職・応用の系統である[[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]]です。
 
 ## 教育段階と文脈
 

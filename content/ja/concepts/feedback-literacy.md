@@ -1,7 +1,7 @@
 ---
 title: フィードバック・リテラシー
 created: "2026-10-10T22:31:13-04:00"
-updated: "2026-10-10T22:31:13-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -50,16 +50,21 @@ ai_assist:
 
 - **AIフィードバックの価値の調整変数としてのフィードバック・リテラシー：** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al.（2026）]]は、フィードバック・リテラシーがChatGPTの受容と[[self-regulated-learning]]の間のつながりを調整することを示しています。リテラシーの強い学生はAIフィードバックからより大きなSRLの便益を知覚し、リテラシーの弱い学生は最小限、あるいは負の（[[cognitive-offloading|過度の依存]]）効果を示しました。フィードバック・リテラシーは、学生がAIフィードバックを「意味づけられる」かどうかの境界条件です。
 
-- **生成AIの利用から批判的思考への経路としてのフィードバック・リテラシー：** 421人の中国の学部生において、生成AIの利用と自己報告された批判的思考の結びつきは、ほぼ完全に生成AIの[[feedback-literacy]]を通じて生じており（β=0.185、総効果の71.98%）、その経路は省察的思考が高まるにつれて強くなりました（緩和された媒介の指数 = 0.030）（[[genai-use-critical-thinking-moderation-2026|Yan et al.（2026）]]）。
+- **生成AIの利用から批判的思考への経路としてのフィードバック・リテラシー：** 421人の中国の学部生において、生成AIの利用と[[self-report-measures|自己報告された]]批判的思考の結びつきは、ほぼ完全に生成AIのフィードバック・リテラシーを通じて生じており（β=0.185、総効果の71.98%）、その経路は省察的思考が高まるにつれて強くなりました（緩和された媒介の指数 = 0.030）（[[genai-use-critical-thinking-moderation-2026|Yan et al.（2026）]]）。
 - **フィードバック・リテラシーはAIに支援された作文からの学習を予測する：** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al.（2026）]]は、AIで増強されたエッセイ執筆の課題において、フィードバック・リテラシーがエッセイの成績の唯一の有意な正の予測変数であったことを見出し、[[liu-deris-ai-feedback-literacy-uptake|Liu & Deris（2025）]]はAIフィードバック・リテラシー（AIFL）尺度を開発・検証し、それがフィードバックの受け入れを予測することを示しました。
+- **リテラシーと関与の循環は双方向に走る。** 399人の中国の学部生を対象とした三波のランダム切片パネルは、AIフィードバック・リテラシーが後のエージェント的な関与を予測し（β = 0.222）、逆向きの経路も同じくらい強いこと（β = 0.263）を見出し、Wald検定はその大きさを区別できませんでした（[[ai-feedback-literacy-agentic-engagement-panel-2026|Xu（2026）]]）。
+
+**対抗する性向：報酬への敏感性。** 成績に基づく報酬への敏感性は、[[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al.（2026）]]における信憑性と知覚された学習の結びつきを弱めました（単純傾斜は敏感性が低・平均・高で0.733、0.607、0.483）。これは、学生の成績への道具的な志向を、フィードバック・リテラシー研究がフィードバックを使う涵養可能な性向として位置づける場所に置くものです。
+- **改訂の見返りを担ったのは、行動可能性ではなく理解だった。** それぞれ48人の二つの学級における三つの作文・フィードバック・改訂のサイクルを通じて、改訂の質と最も強く結びついた次元は理解でした（r = 0.501）。行動可能性（r = 0.480）と診断の正確さ（r = 0.445）を上回っています。診断の条件が加えたのは、独立した改訂の前に読む解釈シートでした（[[automated-scoring-learning-diagnosis-mechanism-2026|Yao & Fan（2026）]]）。
 - **[[generative-ai|生成AI]]で可能になったフィードバックへの[[student-engagement|関与]]のためのフレームワーク：** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan（2025）]]（BoudとDawsonは第一級のフィードバック・リテラシーの研究者です）は、生成AIが学生のフィードバックへの関与を*可能にする*と論じ、循環的な自己[[regulation]]フィードバック・モデルを、求める・処理する・実行するという段階に重ね合わせました。
-- **AIフィードバックは教員の枠づけなしに届く：** [[brunnstrom-ai-interaction-literacy-srl-2026|BrunnströmとPalmqvist（2026）]]は、応答が対話的に、そして教員の即時の枠づけなしに生成されるため、生成AIがフィードバック・リテラシーを*より*要求するものにすると論じています。学生はそれらを解釈し、評価し、関わり、使わなければなりません — 応答が抽象的すぎるとき、粘るとき、そして従来の資料に戻るときを決めることも含めて。八往復の実演を通じて、単純化と使える構造は学習者の介入の後にしか現れず、フィードバックへの関与の求める・処理する・実行するという循環を、学生自身が駆動しなければならないものにしています（[[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]]はその循環を生成AIについて描きました。[[self-regulated-learning]]）。
+- **AIフィードバックは[[teacher-role|教員]]の枠づけなしに届く：** [[brunnstrom-ai-interaction-literacy-srl-2026|BrunnströmとPalmqvist（2026）]]は、応答が対話的に、そして教員の即時の枠づけなしに生成されるため、生成AIがフィードバック・リテラシーを*より*要求するものにすると論じています。学生はそれらを解釈し、評価し、関わり、使わなければなりません — 応答が抽象的すぎるとき、粘るとき、そして従来の資料に戻るときを決めることも含めて。八往復の実演を通じて、単純化と使える構造は学習者の介入の後にしか現れず、フィードバックへの関与の求める・処理する・実行するという循環を、学生自身が駆動しなければならないものにしています（[[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]]はその循環を生成AIについて描きました。[[self-regulated-learning]]）。
 - **AIに支援された作文とEAPにおけるフィードバック・リテラシー：** [[rethinking-ai-writing-feedback-literacy|フィードバック・リテラシーの台本]]と[[feedback-literacy-scripts-eap-writing|第二評定者の機構]]は、作文の改訂中に学生がAIのフィードバックに批判的に関わることを訓練し、改訂を表層的な修正から論証の水準の改善へと移します。
 - **リテラシー形成のための自動フィードバック道具：** [[tubino-adachi-ai-automated-feedback-literacy|Tubino & Adachi（2025）]]は、AIの自動フィードバック道具は、単により多くのフィードバックを提供するためではなく、学生のフィードバック・リテラシーを*育てる*道具として再位置づけられるべきだと論じています。
 - **ピアフィードバックとフィードバック・リテラシー：** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller（2025）]]は、生成AIをEFLのピアフィードバックの中に位置づけ、話すクラスにおいてフィードバック・リテラシーを訓練し受け入れを可能にし、[[scaffolding-srl-feedback-genai-human-peers|足場づくりの研究]]は生成AIと人間のピアを、自己調整されたフィードバックを育てる点で比較します。
-- **フィードバックは、持続的で参照可能なデータとして蓄積される。** ChatGPTを電子ポートフォリオと組み合わせると、話すことの成績とフィードバック・リテラシーが共に向上しました（後者については部分η² = 0.218）。学生が、教員・ピア・AIからの保存されたフィードバックを、一度限りの訂正ではなく、照合すべきデータとして扱ったためです（[[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al.（2026）]]）。
-- **ラーニングアナリティクスと生成AIのダッシュボードにおけるフィードバック・リテラシー：** [[jin-genai-learning-analytics-feedback-literacy|Jin et al.（2025）]]は、学生が生成AIの力で動く[[learning-analytics]]フィードバックを、フィードバック・リテラシーの観点からどう知覚するかを調べます。
-- **AIリテラシーと評価設計の目標としてのフィードバック・リテラシー：** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls（2025）]]は、学生がChatGPTの産出をルーブリックに照らして批評するという、成果物よりもプロセスを重視する評価を用いて、フィードバック・心理学的・AIのリテラシーを共に育て、[[learner-centered-feedback-ai|学習者中心のAIフィードバック]]と[[care-full-feedback-genai|配慮のこもったフィードバック設計]]は、フィードバックの品質を学習者が関わる能力に結びつけます。
+- **フィードバックは、持続的で参照可能なデータとして蓄積される。** ChatGPTを[[eportfolio|電子ポートフォリオ]]と組み合わせると、話すことの成績とフィードバック・リテラシーが共に向上しました（後者については部分η² = 0.218）。学生が、教員・ピア・AIからの保存されたフィードバックを、一度限りの訂正ではなく、照合すべきデータとして扱ったためです（[[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al.（2026）]]）。
+- **ラーニングアナリティクスと生成AIの[[visualization|ダッシュボード]]におけるフィードバック・リテラシー：** [[jin-genai-learning-analytics-feedback-literacy|Jin et al.（2025）]]は、学生が生成AIの力で動く[[learning-analytics]]フィードバックを、フィードバック・リテラシーの観点からどう知覚するかを調べます。
+- **AIリテラシーと[[assessment|評価設計]]の目標としてのフィードバック・リテラシー：** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls（2025）]]は、学生がChatGPTの産出をルーブリックに照らして批評するという、成果物よりもプロセスを重視する評価を用いて、フィードバック・心理学的・AIのリテラシーを共に育て、[[learner-centered-feedback-ai|学習者中心のAIフィードバック]]と[[care-full-feedback-genai|配慮のこもったフィードバック設計]]は、フィードバックの品質を学習者が関わる能力に結びつけます。
+- **フィードバック・リテラシーは教えられ、AIはその練習材料を供給できる。** ある概念的なガイドは、教員が基準をすべて満たすもの、一部満たすもの、まったく満たさないものという評定済みのスペクトルのAI成果物を生成し、モデル化された批評、導かれたクラス分析、独立した評価へと学生を導くことを提案しています（[[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock（2026）]]）。
 
 ### フィードバック・リテラシーがなぜ教育におけるAIにとって重要なのか
 
@@ -71,7 +76,15 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 
 フィードバック・リテラシーは、[[ai-feedback-quality]]と[[feedback|フィードバックのループ]]（それが補完する提供側）、[[formative-assessment]]（それが供給する評価の循環）、そして[[self-regulated-learning]]（それが支える[[self-assessment]]と適応）につながります。AIが生成したフィードバックに適用される場合には[[ai-literacy]]の一部分であり、協働的な文脈では[[peer-assessment]]と交差し、[[writing-education]]にとってとりわけ帰結を持つものです。また[[metacognition]]と[[trust-calibration]] — フィードバックが信頼できるかどうかを判断する能力 — にもつながります。
 
-フィードバックに行動することは、成果物を改善することと同じではありません。22人の数学の教員養成課程の学生において、AIとピアのフィードバックの選択的な受け入れが常態でした（44エピソード中32件）が、設計した課題の品質を改善したのはわずか5人でした — これは受け入れではなく評価的判断に起因する翻訳の隔たりです（[[ai-peer-feedback-stem-teacher-education-2026|Oh（2026）]]）。
+フィードバックに行動することは、成果物を改善することと同じではありません。22人の数学の教員養成課程の学生において、AIとピアのフィードバックの選択的な受け入れが常態でした（44エピソード中32件）が、設計した課題の品質を改善したのはわずか5人でした — これは受け入れではなく[[evaluative-judgment|評価的判断]]に起因する翻訳の隔たりです（[[ai-peer-feedback-stem-teacher-education-2026|Oh（2026）]]）。
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang and Guo（2026）]]は、フィードバック・リテラシーを実践を通じて発達可能なものとして扱います。生成AIと対話的に協働してコメントを生成したEFLのピア査読者は、届けたコメントだけでなく、フィードバックを判断し使う自分自身の能力を高めました。
+
+## よくある誤解
+
+- **「AIフィードバックは批判的思考を直接改善する。」** **421人の中国の学部生**において、生成AIの利用と[[self-report-measures|自己報告された]]批判的思考の結びつきは、**フィードバック・リテラシーを通じて**生じていました。媒介するのはリテラシーであり、それを読む能力を築かずにAIフィードバックを加える介入は、間違った項に働きかけるのです。
+- **「リテラシーは前提条件であり、成果ではない。」** **399人の中国の学部生を対象とした三波のランダム切片パネル**は、AIフィードバック・リテラシーが**後の**エージェント的な関与を予測することを見出しました（**β = 0.222**）。したがって循環は双方向に走ります。一度通れば済む関門ではなく、動的なものなのです。
+- **「作文を変えるのは行動可能性である。」** **それぞれ48人の二つの学級**での三つの作文・フィードバック・改訂のサイクルを通じて、改訂の見返りを担ったのは**理解という次元**でした。学生が解析できないフィードバックは、より行動可能にしても改善されません。
 
 ## 関連概念
 
@@ -91,6 +104,8 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 - [[higher-ed]]
 
 ## 関連記事
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AIフィードバック・リテラシーとエージェント的な関与：三波のランダム切片パネル（Xu 2026）
+- [[ai-feedback-literacy-assessment-as-learning-2026]] — ルーブリックで評定した成果物の見本を生成してフィードバック・リテラシーを教える（Pennington & Hock 2026）
 - [[ai-peer-feedback-stem-teacher-education-2026]] — 成果物の改善を伴わない選択的な受け入れ：フィードバックの翻訳の隔たり（Oh 2026）
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — 教員の枠づけを伴わないAIフィードバックがフィードバック・リテラシーの水準を引き上げる（Brunnström & Palmqvist 2026）
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
@@ -114,3 +129,4 @@ AIはフィードバックを二つの方向に変え、どちらもフィード
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 
 - [[genai-use-critical-thinking-moderation-2026]] — 生成AIの利用から批判的思考への経路が生成AIのフィードバック・リテラシーを通り、省察的思考とともに強まる
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — 改訂の見返りを担ったのは行動可能性ではなく理解だった

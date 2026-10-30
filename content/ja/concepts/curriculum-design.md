@@ -1,7 +1,7 @@
 ---
 title: カリキュラムデザイン
 created: "2026-10-10T22:12:24-04:00"
-updated: "2026-10-10T22:12:24-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ ai_assist:
 変化を付加的ではなく体系的として見直し、[[rewriting-curriculum-genai-pedagogy-2026|Sabani他(2026)]]は、スコーピングレビュー、209件の記録の書誌計量マッピング、36本の論文、10人の学術指導者へのインタビューを三角測量し、知識伝達が能力形成に道を譲り、局所的な実験が機関のガバナンスに道を譲るものを含む5つの転換にまとめました。
 
 **カリキュラムのマッピングと分析**は、AIを既存のカリキュラムを理解するために用います。**[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng他]]**は、AI支援のソフトウェア工学コースのシラバス23件を分析し、[[prompt-engineering|プロンプト工学]]、AIによるコードレビュー、[[ethics|倫理的配慮]]といった共通テーマを特定し、道具の流暢さと基礎的知識のバランスを重視する設計上の指針を導き出しました。**[[coursegraph-cs-course-comparison-2026|CourseGraph]]**は、計算的手法を応用して機関をわたるCSコースの構造を比較します。
+
+重みづけはカリキュラム分析が報告するものを変えます。[[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalathら(2026)]]は、GPT-o3-miniに48の評価それぞれについて7つの企業技能に100%を配分させ、専門家の重みに対してKrippendorffのα 0.81に達しましたが、記述が明示的に述べていない技能については一致が負になりました(-0.19)。
 
 **AIリテラシーの統合**は、AI能力を各分野にわたって埋め込みます。**[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]**は、全年齢とすべての教育段階に適用できる足場かけされたAIリテラシー枠組みを提供し、第2・第3水準の[[digital-divide|デジタルデジット]]に対処します。**[[tracing-genai-literacy-interaction-patterns]]**は、AIリテラシーが相互作用パターンを通じてどう発達するかを調べます。**[[hingle-collaborative-ai-literacy-2025]]**は、AIリテラシーのカリキュラム開発への協働的アプローチを探求し、[[collaborative-learning]]につなげます。
 
@@ -94,6 +96,12 @@ K-12のML活動デザインは表層にとどまります。ICE-T枠組みの背
 
 カリキュラムデザインは[[learning-design]]——カリキュラムは何を定め、指導はどう定める——に直接つながります。[[ai-literacy]]につながるのは、AI能力の埋め込みが主要なカリキュラム上の課題だからです。[[teacher-role]]と[[educational-development]]につながるのは、カリキュラムの変更に教育者の準備が必要だからです。[[scaffolding]]につながるのは、よく設計されたカリキュラムがコースや年にわたって技能の発達を足場かけするからです。[[higher-ed]]と[[k-12]]とのつながりは、カリキュラムデザインが教育水準をわたって持つ重要性を反映しています。
 
+## よくある誤解
+
+- **「LLMは高い信頼性で検証されればカリキュラムを写像できる。」** GPT-o3-miniは**48の評価それぞれについて7つの企業技能に100%を配分**し、専門家の重みに対して**Krippendorffのα 0.81**に達しましたが、**一致は特定の技能で崩れました**。全体の信頼性が高くても一致が不均一であるというパターンを、写像を信頼する前に点検すべきです。
+- **「AIリテラシーを埋め込むとは、コースを一つ追加することである。」** LearnAIは埋め込み型を示します。**5つの分野にわたる18の既存コース(学生293人)の内部にある短い発表からなる広い露出層**です。露出は単位にまとめられるのではなく、カリキュラム全体に分配されていました。
+- **「学生はメディアを批判的に評価する力をすでに備えて到着する。」** 調査した教育・ジャーナリズムの学生のうち、コースワークが批判的メディア分析を扱っていると述べたのは**13.8%**だけで、**97.8%がそれを重要と評価**していました。技能を評価することと、それを教えられることの隔たりが、カリキュラム上の余地です。
+
 ## 関連する概念
 - [[pedagogical-partnerships]] — 教育学的パートナーシップ
 - [[business-education]]
@@ -114,6 +122,7 @@ K-12のML活動デザインは表層にとどまります。ICE-T枠組みの背
 - [[pedagogy]] — 包括概念:AI教育における教授法と教授戦略
 - [[recommender-systems-and-learning-paths]]
 ## 関連する記事
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — 認定のための、重みづけられ専門家に検証された技能の写像
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — GenAIによる構成的整合の助言の批判的言説分析(McInnes他 2026)
 - [[icet-ml-education-trust-2026]] — 教育を通じてAIシステムにおける信頼に対処する:教育的な視点
 - [[refrain-amplify-genai-curriculum-2026]] — GenAIを順序づけるための控えてから増幅するカリキュラム枠組み(Torres-Sahli他 2026)

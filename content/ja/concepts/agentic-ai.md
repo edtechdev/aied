@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: エージェンティックAI
 created: "2026-10-10T21:52:44-04:00"
-updated: "2026-10-10T21:52:44-04:00"
+updated: "2026-10-30T03:37:03-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -177,30 +177,30 @@ ai_assist:
 
 ## 関連する概念
 
-- [[scaffolding|足場かけ]]
-- [[intelligent-tutoring|知的指導]]
-- [[ai-literacy|AIリテラシー]]
-- [[prompt-engineering|プロンプトエンジニアリング]]
-- [[curriculum-design|カリキュラム設計]]
-- [[metacognition|メタ認知]]
-- [[adaptive-learning|適応的学習]]
-- [[educational-development|教員開発]]
-- [[human-in-the-loop-ai|人間が介在するAI]]
-- [[agency|主体性]]
-- [[cognitive-offloading|認知的オフローディング]]
-- [[desirable-difficulties|望ましい困難]]
-- [[sociocultural-learning|社会文化的学習]]
-- [[simulation|シミュレーション]]
-- [[pedagogical-safety|教授法上の安全性]]
-- [[ai-education|教育におけるAI]]
-- [[equity-in-ai-education|AI教育の公平性]]
-- [[authentic-assessment|真正な評価]]
-- [[teacher-role|教師の役割]]
-- [[learning-design|学習設計]]
-- [[teacher-ai-competency|教師のAIコンピテンシー]]
-- [[academic-integrity|学術的整合性]]
-- [[online-teaching-and-learning|オンライン教育と学習]]
-- [[educational-policy-ai|教育におけるAI政策]]
+- [[scaffolding]] — 足場かけ
+- [[intelligent-tutoring]] — 知的指導
+- [[ai-literacy]] — AIリテラシー
+- [[prompt-engineering]] — プロンプトエンジニアリング
+- [[curriculum-design]] — カリキュラム設計
+- [[metacognition]] — メタ認知
+- [[adaptive-learning]] — 適応的学習
+- [[educational-development]] — 教員開発
+- [[human-in-the-loop-ai]] — 人間が介在するAI
+- [[agency]] — 主体性
+- [[cognitive-offloading]] — 認知的オフローディング
+- [[desirable-difficulties]] — 望ましい困難
+- [[sociocultural-learning]] — 社会文化的学習
+- [[simulation]] — シミュレーション
+- [[pedagogical-safety]] — 教授法上の安全性
+- [[ai-education]] — 教育におけるAI
+- [[equity-in-ai-education]] — AI教育の公平性
+- [[authentic-assessment]] — 真正な評価
+- [[teacher-role]] — 教師の役割
+- [[learning-design]] — 学習設計
+- [[teacher-ai-competency]] — 教師のAIコンピテンシー
+- [[academic-integrity]] — 学術的整合性
+- [[online-teaching-and-learning]] — オンライン教育と学習
+- [[educational-policy-ai]] — 教育におけるAI政策
 
 ## 関連する記事
 

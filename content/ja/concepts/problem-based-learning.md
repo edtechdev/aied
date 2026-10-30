@@ -1,7 +1,7 @@
 ---
 title: 問題基盤型学習（PBL）
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-10T22:48:05-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 ## はじめに
 
 PBL は医学教育に端を発し（マクマスター大学、1960 年代）、以来[[medical-education|医療職]]、工学、そして[[k-12|K-12]]に広がりました。学習者は、学習ニーズの診断、資源の特定、解決策の構築の責任を引き受け、一方でファシリテーターが過程に足場をかけます。PBL の際立った主張は、*問題*がカリキュラムを駆動するということです。別の場所で教えられた内容の例示ではなく、内容が学ばれる文脈であるということです。
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi と van der Merwe（2026）]]は、直接の比較を示しています。問題基盤型の10件のチャットは対話を持続させ、より深い説明に到達しましたが、構造化された手続き的な30件のチャットは「質問・回答・お礼」のやりとりに崩れて終わりました。
 
 ## AI 時代における PBL
 
@@ -66,6 +68,12 @@ PBL は成果物の生産よりも過程、協働、実証された理解を前�
 ### 生産的な失敗と PBL
 
 [[productive-failure|生産的な失敗（PF）]]は、PBL の[[constructivist|構成主義]]の中核—[[learners|学習者]]が教授の前に問題に取り組む—を共有しますが、構造は異なります。PF は、学習者が解決策を生み出すために苦労した*後まで*、意図的に教授と足場かけを差し控えます。一方、PBL は促進を全体に埋め込みます。AI 時代の PF の文献は、問題基盤型の場面の中で AI がどう振る舞うべきかを直接的に教えてくれます。[[kim-ai-productive-failure-adult-2026|Kim ら（2026）]]は、AI が PF の各段階を通じて非指示的な支援をもって[[desirable-difficulties|生産的な苦労]]を保つべきであることを示しています。[[puech-pedagogical-steering-llm-productive-failure-2025|Puech ら（2025）]]は、[[llm]][[intelligent-tutoring|チューター]]が答えを差し控え、複数の解決策の試みを引き出すように操縦できることを実証しています。そして[[rhaimi-productivemath-2025|ProductiveMath]]は、質の高い PF/PBL 様式の問題を設計するために AI を用います。AI がいつ問題、ヒント、あるいは答えを与えるべきかという設計上の問いは、この二つの[[pedagogy|教授法]]に共有されています。
+
+## よくある誤解
+
+- **「PBLの成果はプロジェクト基盤型学習の成果と統合して扱うべきである」** 三水準のメタ分析が**成果物と解決策の成績を別のモデルに保つ**のは、それが学習者自身の推論ではなく**人間とAIの協働**を測るからです。統合すれば、共同で生み出された成果物を学生のものとして帰属させることになります。
+- **「協働上の伸びはAI利用の副作用である」** ある研究では、知覚された協働的問題解決（**M = 3.62 対 3.05、d = 0.88**）と共有された問題解決（**3.40、d = 1.02**）が高く、**最大の交互作用効果は共有された知識構築と社会的調整**に現れました。設計が予測する協働的過程の次元です。機構はツールではなく構造化された協働です。
+- **「AIを用いたPBLは主にファシリテーターの時間を節約する」** 測定可能な伸びは、集団構造がそのために設計されているときにのみ存在する次元の、過程の質にあります。共有された知識構築を構造化せずにAIを加えるPBL実装は、同じ効果を期待すべきではありません。
 
 ## 関連概念
 

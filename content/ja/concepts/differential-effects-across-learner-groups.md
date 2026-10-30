@@ -1,7 +1,7 @@
 ---
 title: 学習者集団間で異なる効果
 created: "2026-10-10T22:31:18-04:00"
-updated: "2026-10-10T22:31:18-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -124,6 +124,12 @@ ai_assist:
 - **証拠が許すなら平準化する設計を選好する。** ADHD の動画区間分割の結果——全員が向上し、隔たりが閉じる——は、集団を標的にしたアドオンよりも一般の教室にとってより適合する目標です。
 - **人口統計的属性を消費する個別化に注意する。** [[marked-pedagogies-linguistic-bias-writing-feedback|マークされた教授法]]の発見はその機構に直接関わるものであり、[[well-being|ウェルビーイング]]のチェックイン、[[affective-computing|感情的な家庭教師]]、学習者をプロファイリングする[[recommender-systems-and-learning-paths|推薦システム]]に適用されます。
 - **あなたが関心を持つ集団について、ツールを使わずに測られた成果で、地域でテストする。** 評価の習慣については[[interpreting-and-applying-aied-research|Interpreting and Applying AIEd Research]]を、地域のテストを擁護可能にする設計については[[research-methods-aied|Research Methods in AI in Education]]を参照。
+
+## よくある誤解
+
+- **「集団のラベルは、重要な変動を捉えている」** **集団のラベルはその内部の変動を隠します。** 障害のメタ分析では、**特定の学習障害、知的・発達障害**、その他のカテゴリーの学生が一つにまとめられており、集団の平均はそのどれも記述していません。
+- **「サブグループ分析は、差別的な効果という問いに答える」** それらは通常、**答えるには小さすぎます**。[[ai-tutoring-micro-rct-gcse-science-2026|GCSE 科学のマイクロ RCT]]は、その**処置**の対比が全体の効果のために検出力を持ち、サブグループの差のためではないことを、異例なほど明示しています。検出力の不足したサブグループの発見は結果ではなく仮説です。
+- **「中程度のプールされた効果は、ある集団が利益を得るかどうかを教える」** [[zhang-ai-students-disabilities-meta-analysis-2024|29 件の（準）実験研究]]が障害のカテゴリーにわたって**Hedges' g = 0.588（95% CI [0.349, 0.826]）** にプールされました。区間はそれらのカテゴリーにわたる平均を記述しており、「どの集団に、どのニーズか」は別の分析です。
 
 ## 関連概念
 

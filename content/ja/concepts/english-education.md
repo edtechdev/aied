@@ -1,7 +1,7 @@
 ---
 title: 英語教育（EAP / EFL / ESL）
 created: "2026-10-10T22:31:14-04:00"
-updated: "2026-10-10T22:31:14-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ ai_assist:
 
 AI の英語優位性は、この流れの決定的な特徴です。モデルが英語、とりわけ標準的な学術英語で最も強いため、英語教育は不均衡に利益を受け（強力な EAP の足場づくり）、同時に独自の危険を負います（単一言語の偏り、World Englishes と多言語的な書き手に対する差別）。ここの研究は、[[equity-in-ai-education|公平性]]、[[bias-mitigation|偏りの緩和]]、[[automated-assessment|自動化された評価]]、[[ai-feedback-quality|AI のフィードバックの質]]、[[academic-integrity|学術的インテグリティ]]につながります。
 
+Scopus に基づく 54 件の EFL 研究の統合は、この分野で最も多く報告される[[limitations-in-aied-research|限界]]が学習者の自律性にあることを示します。AI への[[cognitive-offloading|過度の依存]]が 27 件（50%）、[[critical-thinking|批判的思考]]の低下が 25 件（46%）であるのに対し、信頼できない AI 生成の出力は 22 件（41%）で最大の技術的問題でした（[[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]）。
+
 ## 英語／EAP／EFL-ESL の教員への示唆
 
 - **AI の強みを学術英語のために意識的に活かしてください。** モデルが英語と標準的な学術英語で最も強いため、EAP の教員は、ジャンルに基づくライティング、読解教材の分化（[[genai-differentiated-eap-reading-materials-2026|EAP の教材]]）、修正のフィードバックのために AI を展開できます——ただし、AI を答えを出す機関ではなく、下書きとフィードバックのパートナーとして枠づけるべきです。
@@ -93,6 +95,13 @@ AI の英語優位性は、この流れの決定的な特徴です。モデル�
 - **熟達度とニーズに応じて差別化してください。** [[ai-vs-human-assessment-efl-tpck-2026|EFL の評価]]と適応的な個別指導の研究は、AI の支援と評価を、画一的ではなく学習者の水準に合わせて調整することを支持しています。
 
 - **技術を産出に向けて配分してください。** 33 件の TEFL 研究のメタ分析は、小さから中程度の全体的な効果（g = 0.38、トリム・アンド・フィルにより 0.28 に減少）を見出しました。それは教育水準とともに高まり、受容的な技能よりも産出的な技能——スピーキングとライティング——を有利にしました（[[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]）。
+
+## よくある誤解
+
+- **「EFL では、AI の主な脅威はカンニングである。」** この分野自身が最も多く報告する[[limitations-in-aied-research|限界]]は**学習者の自律性**であり、Scopus に基づく **54 件の研究**の統合のうち **27 件**で[[cognitive-offloading|過度の依存]]として現れます。記録されている代償は不正ではなく依存であり、それは別の介入を求めます。
+- **「言語の教員は、熱心に採用するか、まったく採用しないかのどちらかである。」** [[li-language-educators-genai-review-2026|23 件の研究の系統的レビュー]]（Li et al.）は、**慎重で、まず準備から始まる採用**がパターンであることを見出しています。教員は熱狂者と拒否者に分かれていたのではなく、熟慮した仕方で警戒していました。
+- **「全体的な効果は、その努力を正当化する。」** **33 件の TEFL 研究**のメタ分析は、**小さから中程度の全体的な効果（g = 0.38、トリム・アンド・フィルにより 0.28 に減少）**を見出し、それは**教育水準とともに高まりました**。効果は補正後には控えめで、より高い水準に集中しているため、初学者についての主張は併合された数値では支えられません。
+- **「どの AI 利用も、言語学習にとって等しく生産的である。」** 同じ研究は、**技術を産出に向けて配分すること**、すなわち消費ではなくライティングとスピーキングを主張します。効果を決めたのは AI の有無よりも様式でした。
 
 ## 関連する概念
 
@@ -128,7 +137,8 @@ AI の英語優位性は、この流れの決定的な特徴です。モデル�
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
+
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — AI への過度の依存（54 件中 50%）と批判的思考の低下が、報告される限界の上位を占める

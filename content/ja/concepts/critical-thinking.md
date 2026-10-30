@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 批判的思考
 created: "2026-10-10T21:52:28-04:00"
-updated: "2026-10-10T22:12:00-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -80,7 +80,14 @@ GenAI利用と自己申告された批判的思考の結びつきは、ほぼ完
 - **批判的な人間–AI相互作用の構造としての役割の交代。**Kenzhebayeva他(2026)は、62人の教育心理学の教育実習前の学生が4つの専門的役割(ケース構成者、研究アナリスト、実践–介入主義者、内省的研究者)を交代し、生成された推奨を議論の対象とするデザインに基づく研究を報告します。参加者はAIの出力を心理学の理論と比較し、事例に合わない推奨を修正または拒否し、後のサイクルでは理論的な正当化の要求が増えましたが、権威があるように見える回答への過度の依存は続きました。([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva他 2026]])
 - **専門分野における検証中心の統合。**大学の[[chemistry-education|化学教育]]における[[generative-ai|生成AI]]の批判的レビュー(Vega-Baudrit and Rivera Álvarez, 2026)は、化学的な推論が巨視的、微視的、記号的な表現にわたって調整されなければならないため、学生は理解していないことを検証できないと論じ、[[prior-knowledge]]と[[scaffolding]]が先に来て、検証は評価される活動として[[assessment]]に組み込まれるべきだと主張します。誤った前提を特定する、単位や機構の誤りを正す、生成された答えを却下する根拠を示すなどで、推論の痕跡としてプロンプトの記録と修正の履歴を残します。([[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez 2026]])
 - **防衛策だけでなく学習活動としての検証。**[[pearls-epistemic-verification-2026|Wang(2026)]]は、AI生成物の評価を、過程、証拠、アクセス、再現性、正当性、出典という相互依存する6つの次元に基づいて組織し、その保証を組み立てること、すなわち出力の流暢さではなく、が学問的専門性を築くものであると扱います。
+
 **ナレッジベースで最も高く専門家評価された脆弱性は批判的思考です。**30人の専門家が評価した65の学習過程を通じて、批判的思考と批判的分析的思考は、報告書で最も高い混乱評価を受けました(平均5点中4.00点。評価者の96%が3以上)一方、強化は基準を下回り(2.40、43%)([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon他、2026]])。18の高次過程のうち10は、脆弱性のみについて合意に達しました。報告書はこれを一方的なリスク、トレードオフではないと読みます。
+## よくある誤解
+
+- **「より良いプロンプトがより良い批判的思考を生む」** 誤謬チューターを討論チャットボットから分かつのは、**より良いプロンプトではなく構造化された対話制御**です。各ターンを**トゥールミンに基づく意図検出**に通すことが効いていました。機構は文言ではなく相互作用の構造にあります。
+- **「GenAIの利用は批判的思考を直接高める」** GenAI利用と**自己申告された**批判的思考の結びつきは、**ほぼ完全にGenAIの[[feedback-literacy|フィードバックリテラシー]]**を通じて生じていました。**中国の学部生421人**では、フィードバックリテラシーが関連の**71%**を媒介しました。媒介するのはリテラシーです。
+- **「メタ分析の効果は一様である」** **29件の実験**を通じて、GenAIは高次の思考を中程度に高め(**g = 0.609**)、批判的思考は**ES = 0.691**でした。異質な介入にわたる中程度の統合効果は、特定の設計ではなくカテゴリーを支持します。
+
 ## 関連する概念
 
 - [[metacognition]]
@@ -127,4 +134,3 @@ GenAI利用と自己申告された批判的思考の結びつきは、ほぼ完
 
 - [[genai-dependence-research-creativity-2026]] — 大学院生1,157人においてGenAI依存が批判的思考と正に関連
 - [[genai-use-critical-thinking-moderation-2026]] — フィードバックリテラシーを介したGenAI利用から批判的思考へ。直接の経路は内省性の低い学生にのみ
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM教育におけるAIリテラシーの最も多く引用された10研究の総合(Hallström ら 2026)

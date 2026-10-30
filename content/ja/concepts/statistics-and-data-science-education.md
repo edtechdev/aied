@@ -8,9 +8,9 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:55:10-04:00"
-updated: "2026-10-27T03:55:10-04:00"
+updated: "2026-10-30T03:26:11-04:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-10-26T14:15:00-04:00"
+source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

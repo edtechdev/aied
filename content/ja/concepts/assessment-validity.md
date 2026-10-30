@@ -1,7 +1,7 @@
 ---
 title: 評価の妥当性
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-10-28T19:00:37-04:00"
+updated: "2026-10-30T03:37:03-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -9,7 +9,7 @@ assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:00:37-04:00"
 translation_of: concepts/assessment-validity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -37,7 +37,7 @@ ai_assist:
 
 ### 妥当性への挑戦
 
-- **構成概念妥当性：** 学生が評価において AI を使うとき、得点は学生の知識を反映しているのでしょうか、それとも AI の能力を反映しているのでしょうか。[[genai-performance-vs-learning|成績対学習]]の[[research-methods-aied|研究]]は、これに直接に取り組みます。
+- **構成概念妥当性：** 学生が評価において AI を使うとき、得点は学生の知識を反映しているのでしょうか、それとも AI の能力を反映しているのでしょうか。[[genai-performance-vs-learning|成績対学習]]の[[research-methods-aied|研究]]は、これに直接に取り組みます。再構成の測定は、正誤の得点になることなく、正しさに敏感でありえます。[[seeing-cognitive-representations-eeg-reconstruction|Su ら(2026)]]は、正答項目の方が誤答項目よりも高い EEG 再構成の類似度を見いだしました(M = 71.43、SD = 4.61 対 M = 62.30、SD = 5.91)。しかし、ある学習者の高品質な再構成は誤答とともにありました。
 - **対話に基づく評価における LLM を超えた構成概念と無関係な分散：** [[semantic-variability-llm-conversation-assessment-2026|Hao（2026）]]は、単一の対話的なやり取りについてでさえ、[[llm|LLM]]が生成する返答の意味論的な内容が、モデルや対話的文脈の条件にわたって異なることを示しています。モデル内の類似性は一貫してモデル間の類似性を上回り（0.715–0.795 対 0.443–0.604）、対話履歴を加えると反応の内容が意味をもって変わります（対話履歴を超えた類似性の中央値 約 0.40–0.45）。同じ学習者の入力が、基盤となるモデルに応じて意味論上異なる返答を受け取りうるため、プロンプトと文脈だけでは反応の一貫性を保つことができません——それは、妥当性、信頼性、公正さを脅かす潜在的な**構成概念と無関係な分散**を導入します。したがって、LLM が進化する中で一貫した評価条件を維持することは、単なる[[prompt-engineering|プロンプト作り]]の問題ではなく、*インフラストラクチャー*上の挑戦（記号規則、反応テンプレート、検証層）です。
 - **存在するのに採点者に届かない証拠：** [[ai-assisted-physics-lab-report-assessment-2026|Abreu、Stari、Martí（2026）]]は、いかなる推論にも先立つ、構成概念と無関係な脅威を名指します。実験的な[[physics-education|物理学]]実験報告書の AI によるレビューにおいて、方程式、グラフ、表、あるいは単位が、報告書には正しく含まれているのに、モデルが作業する処理済みの内容からは抽出されないことがありえます。そして、符号、値、または単位が変わると物理的な解釈が変わるため、指導者との不一致は推論の誤りを示す必要はありません。彼らの救済策は手続き的なものです——写真撮影されたスキャンではなく高解像度の PDF、方程式エディタで書かれた方程式、図の中の判読可能な軸と単位、そしてあらゆる採点に具体的な引用を要求する指示——なぜなら、文書の質が、結果として生じる得点が支えるいかなる妥当性の主張にも上限を設けるからです。
 - **人間と LLM を超えた潜在的構造の妥当性：** [[assessment-latent-structure-human-llm-2026|Strugatski 他（2026）]]は、より深い妥当性の条件を加えます。LLM が良く採点する場合でさえ、人間による得点解釈を移すには、反応の*潜在的構造*における類似性が必要です。6 つの[[multimodal|マルチモーダル]] LLM を人間の集団と、[[chemistry-education|化学]]および[[quantitative-research|量的]]推論の検査法について比較し、LLM と人間の因子構造が一貫して乖離する（人間と人間の基準線を下回る LLM–人間の一致度）ことを見出します。したがって、人間規範化された試験における成績は、項目が測定するために設計された構成概念についての LLM の能力に関する弱い証拠です。
@@ -79,6 +79,8 @@ ai_assist:
 
 [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich（2026）]]は、再設計を、ある変更がどの推論を守ることを意図しているかの問いとして再枠組みします。Kane の論証に基づく妥当性から出発し、彼は、議論が一つに折り畳みがちな五つの圧力を切り分けます。構成概念の過少表現、構成概念と無関連な分散、成績の帰属、条件付きの外挿、そして支えられない得点の使用。AI の使用は自動的に脅威ではありません。なぜなら、道具の使用は、意図された構成概念が AI に支援された専門職としての判断である場合には本題に適い、それが補助なしの推論である場合には目標の成績を迂回するからです。したがって、構成概念と AI の条件は一緒に特定されなければなりません。再設計についての彼の注意は続きます。介入は一つの圧力を別のものと交換するからです。口頭による弁明は帰属を強めながら、信頼性やアクセシビリティを低下させることがあります。
 
+成果の構成概念もまた推定値を動かします。生成 AI に支援された問題基盤型学習と[[project-based-learning|プロジェクト基盤型学習]]に関する 3 水準のメタ分析では、[[chen-pbl-pjbl-genai-meta-analysis-2026|Chen ら(2026)]]は、学習者の内部の成果が g = 0.819 に統合された一方、人間と AI の共同の産物の測定は g = 1.958 を返し、予測区間がゼロを横切ったことを見いだしました。その産物は内面化された学習ではないため、まさにその理由で別々にモデル化されています。
+
 ### つながり
 
 評価の妥当性は、[[authentic-assessment|真正評価]]、[[automated-assessment|自動採点]]、[[automated-assessment|自信を意識する AI 評価]]、[[formative-assessment|形成的評価]]、[[academic-integrity|学術的誠実性]]、そして[[rct|ランダム化比較試験]]（それは妥当な成果尺度に依拠します）につながります。
@@ -87,9 +89,13 @@ AI は、認識論的な水準で妥当性に挑戦します。[[end-of-assessme
 
 **AI が評価可能な成果物を生成するとき。** [[kumar-genai-computing-education-systematic-review-2026|Kumar、Wongsirichot、Nanthaamornphong（2026）]]は、妥当性の問題にその最も鋭い学問的な事例を与えます。[[cs-education|計算機科学教育]]において、AI は採点される成果物——ソースコード——を生み出すため、道具の使用、学習、評価が単一の相互作用に融合し、提出されたコードベースはもはや学習と委任とを切り分けません。72 件の研究にわたり、彼らは、補助なしの成績に移転しない効率性の向上（21 件の研究）、AI の助けが技能になるかどうかを調整する[[prior-knowledge|事前知識]]（6 件の研究）、そして、証拠基盤から事実上欠けている検知の研究（3 件の研究）を見出します。一方、評価の再設計は比較的よく証拠立てられています（25 件の研究）。実践についての彼らの結論は、構成概念に固有で低技術です。コースごとに少なくとも一つの高リスクの評価に口述の要素か他のプロセスが見える要素を加えてください——このレビューにおける単一で最も影響力のある介入です——そして、AI の出力との批判的な[[student-engagement|関与]]を、任意の性向ではなく、採点され観察可能な構成要素として要求してください（[[academic-integrity|学術的誠実性]]、[[assessment|評価]]）。
 
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correntiら (2026)]]は、高学年の小学生の論証作文のための自動作文評価システムeReviseについての妥当性の論証を、ルイジアナ州の8つの教区の34名の教師と609名の学生にわたって複製し拡張し、同じ社会文化的な機構が一つの成果ではなく三つの異なる作文の成果にわたって成り立つかを検証しました。
+
 ## 不完全な情報の下での妥当性
 
 最も鋭い近年の再枠組みは、生成 AI の問題を証拠の問題として扱います。学生は、一つの仕事がどのように制作されたかを知っています。機関は成果物を、せいぜいプロセスの部分的な痕跡を観察します——その生産物とプロセスの隔たりを、[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi（2026）]]は、不完全な情報の下での評価の妥当性として定式化します。この説明では、問いは規則が破られたかどうかではなく、評価が今も、学生の推論、労力、判断の信頼できる証拠を生み出すかどうかです。そして、それぞれの[[governance|制度的]]な仕組み——禁止、監視、開示、再設計——は、それがどの学生の反応を最も魅力的にするかによって評価されます。妥当性のレンズはまた、偽りの分離を解消します。誠実性と妥当性は、異なる端から見た同じ問題です。なぜなら、不正行為の認定は、それ自体、その仕事が何を証拠立てるかについての妥当性の主張だからです。
+
+ウェアラブル AI は、最後の証拠の隔たりを広げるのではなく閉じます。[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin ら(2026)]]は、AI の眼鏡とイヤホンが外部の信号なしに支援を届けるため、受験者はそこにいて監督下にあっても、支援なしの能力を示せないことがあると論じます。これは、監督付きの形式が前提としていた分離可能性と観察可能性を溶かします。
 
 学習者側の枠組みは、成果物がそれ自体では解決できない推論の対象を名指します。[[gifted-potential-ai-assisted-work-attributional-validity-2026|Sak（2026）]]は、AI に支援された仕事からのギフテッドの可能性の判断のために*帰属の妥当性*を提案します。能力から成果物への関係は多対一です。なぜなら、学習者の能力、モデルの能力、学習者の方向づけ、人間と AI の適合、そして文脈が、異なる組み合わせで等価な成果物を生むからです。したがって、成果物は、その背後にある能力を同定できません。この枠組みは、推論の四つの対象——独立した能力、知的[[agency|主体性]]、ハイブリッドな能力、発達的な持ち越し——を切り分け、一つの対象の証拠が別のものとして読まれるときに続く三つの誤りを名指します。過剰な帰属、発達的な幻想、そして想定された能力の等価性。記録へのその要求は、この節が不正行為の文献から引き出す証拠の規律を映します。ある判断が何についての能力かを名指し、仕事がどのように制作されたかを文書化し（モデルと版、インターフェース、許可された機能、成人による媒介、アクセスの条件）、そして、支援された成績を学習者の変化として読む前に、後になっての[[transfer-of-learning|移転]]の証拠を要求してください。
 
@@ -106,31 +112,43 @@ AI は、認識論的な水準で妥当性に挑戦します。[[end-of-assessme
 - **モデルの大きさは、評価の妥当性の代理ではない。** 4 つの系列の 8 つの構成について、114 本の採点されたエッセイにわたり、厳密な帯の一致は 18.4% から 54.4% にわたり、パラメータ数ではなく系列を追跡しました——最大のモデル、GPT-OSS 120B は 1.316 帯過小採点され、温度は救いではありませんでした（[[llm-grade-bands-calibration-bias-2026|Kerwat 他（2026）]]）。
 - **一致とベンチマークの誤りは、学習を装う。** 二つの 2026 年の研究は、得点が、別の何かを立証しながら妥当に見えることの、異なる経路を示しています。自由記述のマーケティング作文の研究は、LLM と人間の絶対的一致が ICC(2,1) .435 にすぎず、ハイブリッドが LLM 単独より有意に悪いことを見出しました。枠組みとなる[[writing-education|作文]]が一致を .338 から .902 へと動かしました（[[automated-scoring-marketing-posts-agreement-2026]]）。6 つの物理学のベンチマークの専門家による監査は、監査された棄却の 95.20% を、モデルの誤りではなく欠陥のある問題または採点者に帰し、CritPt mean@5 を 32.29% から 87.50% へと動かしました（[[frontier-models-physics-benchmark-audit-2026]]）。両方の事例で、脅威は採点されるモデルの外にある構成概念と無関連な分散です。
 - **LLM 符号化者の間の一致は、一貫性であり妥当性ではない。** 専門家がラベル付けした教育対話のコーパスで、モデル間の一致フィルタは、コーパス由来の行動的な主張 74 個のうち 33 個と、構成概念由来のもの 48 個のうち 11 個だけを保持し、共有されたモデルの誤りがフィルタを生き延びたため、モデル間の一致は構成概念妥当性の代役にはなりません（[[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado 他、2026]]）。
+- **自動的な感情ラベルは、記述ではなく測定の主張である。** 1,220件の自由記述式の学生調査回答において、最も優れた既製の感情分析ツール(BERT-nlptown)は、人間のコーディングとの一致が中程度にとどまり(κ = .42)、語彙に基づくツールは語彙の網羅性を欠くために回答のおよそ20%を誤分類しました([[aalhe-ai-sentiment-analysis-student-voice-2026|You & Horissian, 2026]])。感情ラベルは測定の結果であり、分類の誤りはチューニングの問題ではなく妥当性への脅威です。
+- **コンタミネーションは、集計データが隠す妥当性への脅威である。** 学生が採点される仕事をAIで行うとき、ルーブリックの得点の平均の上昇は学習についての証拠ではなくツールについての証拠であり、モデルがモデルの出力を採点することは評価ではなく「鏡の間」です([[aalhe-genai-assessment-continuous-improvement-2026|Jenkins & de Mello-e-Souza Wildermuth, 2026]])。著者らは、コンタミネーションが、プログラムが通常用いる集計データでは見えないと指摘しています。
 - **曝露は測定可能であり、救済策は最大限のセキュリティではなく十分な証拠である。** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva（2026）]]は、公表された形式、監督、得点の重みによって 53,915 個の評価項目を採点し、評価された得点のほとんどが、提出後に作者を検証できない仕事に依拠していることを見出しました。彼は、プログラムが、すべての単元を安全にするのではなく、主要な段階で十分な学習の証拠を必要とすると論じます。
+- **モデルは項目を事前に試し、教員のレビューが見落とす欠陥を露わにできる。** ある機関は、企業向けAIプラットフォームに試験項目を実施前に解答させ、その推論を意図された構成概念と正答キーと比較しました([[aalhe-ai-co-designer-feedback-partner-2026|Ford, Helms & Moseley, 2026]])。この試みは、あいまいな表現、複数のもっともらしい答え、意図しない手がかり、そして正答キーが明確に擁護できない項目を浮上させました。著者らはその返答を、項目が欠陥である証拠ではなく、項目を再検討するきっかけとして扱っています。
 - **妥当な尺度は、それでも最適化するには安全でないことがある。** LLM チューターを、ルーブリック様式の適応性の指標に対して微調整すると、その指標は上昇しました（+0.05 から +0.42）一方、目隠しの専門家による評定は低下しました（4.46 から 3.03）。なぜなら、決定を独立に採点する指標は、単一の最良の決定を繰り返すことで最大化されるからです（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]）。
+- **埋め込みの幾何は、ルーブリックの区別ではない。** 992件の手書きの物理の解答を、5つのテキスト表現と9つの埋め込み機構の下で扱った[[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]]は、人間の得点との最良の重み付きスピアマン相関が0.198であり、クラスタは得点と等価ではなく得点で豊かになっていると報告しています。
+
+## よくある誤解
+
+- **「LLM採点の偏りは、それを捨てる理由である」。** **大規模な国レベルの作文評価**では、LLMの採点者は**体系的な保守的(過小採点)の偏り**を示しました。最終的な評点としては問題があり、**スクリーニングの信号としては有用**でありえます。方向の知られた偏りは、予測不能な偏りとは別の測定器具です。
+- **「AI後の成績インフレーションは憶測である」。** **319コース、50万件超の成績(2018-2025)の差の差の分析**では、AIに晒された課題(作文、コーディング)の多いコースで**A評価の割合が上昇しました**。効果は課題が晒された場所に集中していました。
+- **「教員はAIを広く採用している」。** **62.4%(53名)**が生成AIをまったく使わないと答え、採用者の利用は**主に校正(43.8%)と明瞭さの確認(34.4%)に限られていました**。採用のパターンは慎重で狭く、それは妥当性の論証が扱う必要のあるものを変えます。
 
 ## 関連する概念
 
-- [[pedagogical-patterns|教育学的パターン]] — 出力がもはや著者を同定しないとき、なぜプロセスの証拠が提案されるのか
-- [[interpreting-and-applying-aied-research|AI を活用した教育研究の解釈と応用]]
-- [[authentic-assessment|真正評価]]
-- [[automated-assessment|自動評価]]
-- [[formative-assessment|形成的評価]]
-- [[academic-integrity|学術的誠実性]]
-- [[rct|ランダム化比較試験]]
-- [[bias-mitigation|偏りの緩和]]
-- [[equity-in-ai-education|AI を活用した教育における公平性]]
-- [[ai-ed-evaluation|AI を活用した教育の評価]]
-- [[educational-measurement|教育測定]]
-- [[legal-issues-and-risks|法的な問題とリスク]]
-- [[llm|大規模言語モデル（LLM）]]
-- [[feedback|フィードバック]]
-- [[self-report-measures|自己報告尺度]]
-- [[prior-knowledge|事前知識]]
-- [[student-engagement|学生の関与]]
-- [[assessment|評価]]
+- [[pedagogical-patterns]] — 出力がもはや著者を同定しないとき、なぜプロセスの証拠が提案されるのか
+- [[interpreting-and-applying-aied-research]] — AI を活用した教育研究の解釈と応用
+- [[authentic-assessment]] — 真正評価
+- [[automated-assessment]] — 自動評価
+- [[formative-assessment]] — 形成的評価
+- [[academic-integrity]] — 学術的誠実性
+- [[rct]] — ランダム化比較試験
+- [[bias-mitigation]] — 偏りの軽減
+- [[equity-in-ai-education]] — AI 教育における公平性
+- [[ai-ed-evaluation]] — AI 教育の評価
+- [[educational-measurement]] — 教育測定
+- [[legal-issues-and-risks]] — 法的な問題とリスク
+- [[llm]] — 大規模言語モデル（LLM）
+- [[feedback]] — フィードバック
+- [[self-report-measures]] — 自己報告尺度
+- [[prior-knowledge]] — 事前知識
+- [[student-engagement]] — 学生の関与
+- [[assessment]] — 評価
 
 ## 関連する記事
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — 埋め込みの類似度は人間の得点とせいぜい0.198で相関した
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — ウェアラブル AI は分離可能性と観察可能性を溶かすため、監督下の受験者でも支援なしの能力を示せないことがあります(Corbin、Sharpe & Dawson 2026)
 - [[ivory-psychology-assessment-integrity-2026]] — プログラムレベルの合否の影響を受けやすさ、そして捏造された値を通してしまう採点の基準（Ivory 他 2026）
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 許可だけでは妥当性は劣化しない：生成 AI の使用によって関与は影響を受けず、内省は一般的な置き換えに抵抗する
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI エージェント、喜びに満ちた評価、そして第三の空間
@@ -145,10 +163,10 @@ AI は、認識論的な水準で妥当性に挑戦します。[[end-of-assessme
 - [[assessment-latent-structure-human-llm-2026]] — 評価の検査法は、人間と LLM について同じものを測定するのか？（Strugatski 他 2026）
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭による説明における身体に埋め込まれた認知のためのマルチモーダルな枠組み
 - [[assessing-quality-ai-generated-exams-field-2025]] — AI が生成した試験の質の評価：大規模な現地研究
-- [[genai-performance-vs-learning|成績対学習]]
-- [[ai-scoring-language-bias-physics|物理学における AI 採点の言語の偏り]]
-- [[end-of-assessment-ai-disruption-transformation-2026|評価の終焉、AI による破壊と変容]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026|LLM による評価の評価：AI は評価できるか]]
+- [[genai-performance-vs-learning]] — 成績と学習の比較
+- [[ai-scoring-language-bias-physics]] — 物理学における AI 採点の言語の偏り
+- [[end-of-assessment-ai-disruption-transformation-2026]] — 評価の終焉、AI による破壊と変容
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — LLM による評価の評価：AI は評価できるか
 - [[luo-dawson-value-judgments-grading-2026]] — 生成 AI に支援された仕事の採点における価値判断：正直さ、信頼、妥当性、双方向の透明性（Luo & Dawson 2026）
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[teichmann-detecting-undetectable-misconduct-2026]] — 妥当性の問題としての不正行為の手続き
@@ -173,3 +191,4 @@ AI は、認識論的な水準で妥当性に挑戦します。[[end-of-assessme
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — AI 脆弱性指標：評価された得点のほとんどは検証不能な作者性に依拠しているため、妥当性は最大限のセキュリティではなく主要な段階での十分な証拠に依る
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 教育学的適応性の指標は上昇した一方、目隠しの専門家による評定は低下した：測定の妥当性は最適化の妥当性を意味しない（Domínguez Figaredo & Fernández De la Cruz 2026）
 - [[genai-english-proficiency-validity-2026]] — Has the Target Moved Again? GenAI and the Validity of English Proficiency Scores
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 成果の構成概念が推定値を動かす:人間と AI の共同の産物では g = 1.958

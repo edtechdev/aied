@@ -1,7 +1,7 @@
 ---
 title: アクセシビリティ
 created: "2026-10-10T21:52:23-04:00"
-updated: "2026-10-10T21:52:23-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,13 @@ ai_assist:
 - **AI の展開は機関の水準において AI のアクセシビリティ方針を追い越している。** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]は、Times Higher Education 2026年版のランキングに入ったすべての大学100校を符号化し、AI 駆動のキャンパスサービス（履修登録、住居、IT のためのチャットボット）を93%が展開している一方、独立した AI のアクセシビリティ方針を公表しているのは0%であることを見出しました。著者の好意的な読みでは、アクセシビリティに関する義務は一般的な障害学生サービスの方針の中にあるとされますが、測られた限りでは、AI ツールに関する要件は公的な機関の記録のどこにも現れていません。教育と運営における AI ツールは障害のある学生にとってアクセシブルでなければならないという短い機関の声明でさえ、測られた分野全体の先を行くことになるでしょう。
 
 - **[[physics-education|物理学]]の動画の数学的にアクセシブルな文字変換（2026年）：** Gemini（音声＋毎秒 1 フレームの動画サンプリング）と LuaLaTeX を用いた AI のワークフローは、教育用の物理学動画を、アクセシビリティ検証を routinely 通過する PDF/UA-2 および ISO 32005 の数学的にアクセシブルな PDF にコンパイルします。これらはアクセシビリティ検証を常に通過します——これは、式の多い動画教材を盲目および弱視の学生にとってスクリーンリーダーで読めるようにする、実践的で無料の道筋です（[[gemini-lualatex-physics-video-transcription-2026]]）。
+
+## よくある誤解
+
+- **「見た目が悪くなるアクセシビリティ機能は、より悪い。」** 縞のオーバーレイは**抽出を最も劣化させ（文字誤差 +35.9%、語誤差 +38.3%）**ましたが、**四人のタイポグラフィとデザインの専門家は縦向きの縞を可読と判定**し、斜め向きのパターンは失敗しました。機械による可読性と人間による可読性は別々の測定であり、一方を最適化することが他方を損ないえます。アクセシビリティの主張は、どの読み手に向けたものかを述べる必要があります。
+- **「アクセシビリティとは配慮のことである。」** 神経発達の多様な学生のためのデジタル支援技術に関する**40研究**のスコーピングレビューでは、**28研究が参加の条件として正式な診断を求めて**いました。それは診断を条件とするモデルであり、ニーズはあるがラベルを持たないすべての学習者を排除します。普遍的な設計の正反対です。
+- **「中程度の効果で問いは決着する。」** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhangら]]は**29研究**をメタ分析し、中程度の正の効果を見出しました。それは実在しますが、どのニーズにどのツールかを何も語りません。異質な介入にわたる平均は推奨ではありません。
+- **「速度と即時性は利便性である。」** パレスチナの三つの大学にわたる**21人の視覚に障害のある学部生**の質的事例研究では、学習者は即時性を**利便性ではなく基盤的なアクセシビリティ要件**として枠づけました。外からは贅沢に見えるものが、参加の前提条件なのです。
 
 ## 関連概念
 - [[differential-effects-across-learner-groups]]

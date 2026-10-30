@@ -1,8 +1,8 @@
 ---
 title: AI の利用と開示の表明
 created: "2026-10-10T22:26:30-04:00"
-updated: "2026-10-10T22:26:30-04:00"
-source_updated: "2026-10-04T16:22:53-04:00"
+updated: "2026-10-30T03:22:21-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -69,6 +69,7 @@ AI の利用表明は、学生に課題での生成AIの利用の有無と方法
 最も革新的とランク付けされた 50 の米国の大学の GenAI ガイダンスを調査し、[[qian-governing-genai-higher-ed-policy-2026|Qian（2026）]]は開示を援助と誤った表現の境界に位置づけています——AI が認められているところでは、機関は学生に、AI の援助を完全に自分のものとして提示するのではなく、認め、引用し、またはその他記録するよう指示しており、引用と出自の基準の権限を保持しているのはインテグリティの担当部署ではなく図書館です。AI は著者ではなく、ツールがどう貢献したかを記録する責任は著者にあるという MIT 図書館の定式化は、このパターンを体現しており、Qian は開示を同時に、インテグリティの規範、提出前の曖昧さを減らす設計原理、およびアカウンタビリティ、[[equity-in-ai-education|公平性]]、[[privacy|プライバシー]]と並ぶ 4 つのインテグリティの柱の一つとして読み取っています。これは本節が記述するのと同じ非鑑識的な利用であり、Qian が検出を拡大するのではなく図書館を引用の権威として制度化することを勧める理由です。
 
 - **開示は信頼のペナルティを伴い、正統性が論じられる仕組みである。** 13 の実験において——ほとんどが米国のオンライン回答者で、4,093 観測にプールされ（θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]）——AI の利用を開示した主体は、沈黙を保った主体よりも信頼されませんでした（[[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann（2025）]]）。この効果は、6 つの開示の枠組み、すでに AI が使われたことを知っている評価者、および義務的・任意的の両方の体制を生き延びました。これは上記の調査結果——常に開示した学生が 3 倍以上のオッズで告発に直面した——の実験版です——透明性そのものが開示者にコストを課すことがあります。この論文の唯一の学生向けの結果は、教授が AI による採点を開示したとき、学生はその教授をより信頼しなかったということです。
+- **内容のラベルは記述を変えるが、判定は変えない。** 「AI-Generated Content/Synthetic Video」というラベルを見るか見ないかに無作為に割り当てられた 617 人の成人では、ラベルは知覚された真正性を下げました（なしで平均 4.92、ありで 4.21）が、信頼（B = -0.130, p = 0.216）、リスク、採用、共有は変わりませんでした（[[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang and Zhang (2026)]]）。
 
 ## 効果的な開示の設計
 
@@ -77,10 +78,18 @@ AI の利用表明は、学生に課題での生成AIの利用の有無と方法
 - **開示を形成的にする——順守だけでなく。** 振り返りの問いと構造化された表明（モデル/入力/評価）を使い、開示が監視ではなく[[ai-literacy|AI リテラシー]]と自己調整を育てるようにしてください。
 - **教員に、検出に頼らず信頼を築くことを訓練する。** 開示の後に告発があってはなりません。教員は信頼性の低い AI 検出器に依存する代わりに、信頼を築く対話を学ぶべきです。
 - **公平性のために設計する。** 専門分野、言語状況、学生の背景による開示の違いに注意を払い、すでに周縁化された学習者に不均衡な負担を課す仕組みは避けてください。
+- **開示は逆方向にも走ります。** このページのすべては開示を学生の義務として扱いますが、[[wu-lam-genai-writing-assessment-professors-2026|Wu and Lam (2026)]]が面接した執筆の教員たちはその鏡像を求めました。すなわち、ツールがいつどう使われて自分の仕事が評価されるのかを学生に伝え、その仕事をアップロードする前に同意を求めるべきだというのです。学生の利用を可読にするのと同じ透明性が、機関の評価実践を学生にとって可読にするものです。
 
 ## つながり
 
 AI の利用と開示は、[[academic-integrity|学術的インテグリティ]]（その親となる関心事）、[[ethics|倫理]]、[[trust|信頼]]と[[trust-calibration|信頼の調整]]（開示という傷つきやすさの行為）、[[governance|ガバナンス]]と[[educational-policy-ai|教育における AI 方針]]（制度的な方針の枠組み）、および[[assessment|評価]]（開示が運用される場）の交差点に位置しています。[[ai-literacy|AI リテラシー]]（学生は何をどう開示するかを理解する必要がある）、[[self-regulated-learning|自己調整学習]]と[[help-seeking|援助要請]]（開示という可視的な援助要請）、および[[equity-in-ai-education|公平性]]（開示の違い）につながります。[[ai-misuse-learning-harm|AI の悪用と学習への害]]（開示が可視化しようとする害）および[[ai-detection|AI 検出]]（開示の枠組みがますます置き換えつつある検出ベースの代替手段）とは異なりますが、関連しています。
+
+## よくある誤解
+
+- **「義務的な表明の方針は開示を生む」** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves（2025）]]は、ビジネススクールでの義務的な表明に対する **74% の非順守** を記録しました。要件は、それが義務づけた行動を生みませんでした。
+- **「学生が AI の利用を隠すのは、不正直だからである」** その駆動要因は記録されており具体的です。経済学の学生の**約 34% だけ**が AI の利用を認め、開示はさらにまれで、それは**罰への不安**に駆られていました。別の研究では **66% が決して、またはめったに開示せず**、**学問上の罰への恐怖が最大の理由**でした。データが示唆するのは政策の設計であり、性格ではありません。
+- **「開示の要件は低コストの統制である」** **74% の非順守率**は、結果として生じる記録を、記録がないより悪いものにします。完全に見えるが完全ではないデータセットであり、機関は信頼できない標本に基づいて決定を行っているのです。
+- **「モデルがどう使われたかを開示すれば十分である」** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk（2026）]]は、開示はモデルの利用を記録するが、責任ある利用には主張の水準の著者の保証、すなわち貢献者が主張を理解し、正当化し、擁護する能力が必要だと論じます。出力が実質的な選択を形作る認知的委任と、そうしない日常的な委任とを分けるのです。
 
 ## 関連する概念
 
@@ -103,6 +112,7 @@ AI の利用と開示は、[[academic-integrity|学術的インテグリティ]]
 - [[parents-and-families]]
 - [[social-norms-ai-use]] — 学習者が開示せず隠すことを選ぶ理由
 ## 関連する記事
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 鏡像の方向: AI が仕事を採点するときを学生に伝え、アップロードの前に同意を求める
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
@@ -114,3 +124,6 @@ AI の利用と開示は、[[academic-integrity|学術的インテグリティ]]
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Thirteen experiments: disclosing AI use lowers the discloser's trustworthiness, via legitimacy
+- [[authorial-warrant-ai-supported-scholarship-2026]] — 開示の規則では足りないとき: AI 支援の学術における著者の保証と判断（Mirończuk 2026）
+
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI の開示ラベル、知覚された真正性、AI 生成の教材動画への信頼

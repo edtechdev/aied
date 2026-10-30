@@ -1,7 +1,7 @@
 ---
 title: 社会情緒的学習
 created: "2026-10-10T22:53:47-04:00"
-updated: "2026-10-10T22:53:47-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -52,27 +52,23 @@ ai_assist:
 ナレッジベースの研究は、SEL をそれぞれ独自のエビデンス基盤を持ついくつかの明確な小トピックに分類しています。
 
 ### 自己効力感と自信
-
 学生が AI とどう関わるかを強く条件づける、中核的な SEL の能力（自己認識／自己管理）です。[[student-dependency-on-ai-literacy-self-efficacy-2026|AI に対する学生の依存]]（イスラエルの高等教育の学生 478 人）は、技能に基づく AI リテラシーの次元が AI への依存と*正に*関連していた一方、学業的および AI 特有の**自己効力感**と努力の[[regulation|調整]]は両方とも*負に*関連していたことを見出しました——つまり、AI リテラシーだけでは依存から守ってくれず、[[self-efficacy|自己効力感]]が守るのです。[[self-efficacy-tutoring-learning|Cen ら（EC-TEL 2026）]]は、基盤の自己効力感がより低い学生が、練習の形式にかかわらずより大きな学習の伸びを達成したことを見出し、家庭教師に対する好感度が家庭教師に基づく練習においてより重要であったことを示し——動機づけのプロファイルに応じて練習を調整することの価値を裏づけています。関連概念：[[self-efficacy]]、[[motivation|動機づけ]]、[[agency|行為主体性]]。
 
 ### 動機づけと「AI の利用可能性」効果
-
 動機づけは、SEL の責任ある意思決定と自己管理と交差します。[[ai-availability-student-motivation|AI の利用可能性と学生の動機づけ]]および[[ai-perceptions-students-teachers-motivation-2026|学生／教員の動機づけと自己効力感]]に関する研究は、AI の利用可能性そのものが、学生の動機づけの方向性と知覚された努力を作り変えうることを示しており——これは AI が内発的な動機づけを損ないうるか、あるいは支援しうるかに関連します。[[student-dependency-on-ai-literacy-self-efficacy-2026|自己効力感の研究]]は、努力の調整を AI への依存への釣り合いの重しとして位置づけています。
 
 ### 情動の調整と情動的な支援
-
 情動的な調整は、[[learning-gains|達成]]への直接的な SEL→学習のつながりを形成する、鍵となる SEL の能力です。[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]のような[[affective-computing|情動計算]]ツールは、[[pedagogy|教育学的]]な応答を形作るために学生の情動をモデル化し、[[ai-campus-wellbeing-tools|AI によるキャンパスのウェルビーイングツール]]（例：PsychoGPT、AURA）は予防と介入にわたります。
 
 ### AI の利用に対する恥、罪悪感、そして情動的な応答
-
 情動は、学生が AI の利用を*どう*可視化するかを調整します。[[shame-guilt-ai-regulation-computing-education|「スパイラルに陥って」]]（コンピューティングの学生 19 人）は、恥と罪悪感が AI 利用の社会的な調節者として働き、隠蔽行動と選択的な開示を駆り立て、行為主体性が低下する循環を生み出すことを見出しました。[[ai-anxiety-strategic-regulation-writing-2026|AI 不安]]は、AI を学習資源として戦略的に調整することに変容させることができます。これらは、SEL の社会認識と自己管理を[[academic-integrity|学術的インテグリティ]]と責任ある AI 利用につないでいます。
 
 ### 信頼と帰属
-
 SEL は、関係的な学習と社会的な結束を支えます。[[finkelstein-principled-ai-education-2025|原則に基づく AI 教育]]と[[ai-chatbot-collective-efficacy-collaborative-learning|協働学習のための AI チャットボット]]は、**帰属**と集団的効力感——チームが課題を達成できる能力についての共有された信念——につながります。ブルッキングスの事前検死（premortem）は、AI への過度の依存が、社会情緒的なウェルビーイング、教員—仲間関係、そして学生の[[privacy|プライバシー]]／安全——帰属とつながりの次元——を脅かすことを強調しています。[[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|教員—学生間の信頼]]は、AI が支持的であると知覚されるかどうかの中心にあります。
 
-### 粘り強さ、マインドセット、そして生産的な苦闘
+ここでの帰属には、より鋭い側面があります。AI に求めた共感は罰せられうるのです。[[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]]は、参加者に、苦しむ学生がチャットボット、友人、セラピスト、あるいは誰にも行かなかったという記述を読ませました。チャットボット条件では、参加者は私的な場で最も低いオフロードの意欲を報告し、そのうえでその学生について最も多くの無関心を示す語を用い、より疎遠でより追い詰められた存在として評定しました。AI を求める経路への同輩の判断は、上述の隠蔽をさらに強めます。だからこそ開示の規範は、インテグリティの方針だけでなく SEL の設計に属するのです。
 
+### 粘り強さ、マインドセット、そして生産的な苦闘
 SEL は、学習の努力に満ちた次元と重なります。[[framing-5-percent-problem-teachers-persistence|5% の問題の枠づけ]]は、学生の粘り強さの低さを教育技術における繰り返し現れる課題として同定します。それは、動機づけ／納得、認知的な障害、困難に対する回復力、そしてつながりによって形づくられます。[[substitution-to-scaffolding-ai-harm-cycle-2026|Favero ら]]は、努力を代替する AI が、教育が構築するまさにその能力を侵食すると警告し——[[metacognition|メタ認知]]と[[cognitive-offloading|過度の依存]]よりも生産的な苦闘の価値と一致します。
 
 ## 教員と教授設計への含意
@@ -96,6 +92,16 @@ SEL は、学習の努力に満ちた次元と重なります。[[framing-5-perc
 ### 関連概念とのつながり
 
 SEL は、[[ai-literacy|AI リテラシー]]（AI リテラシーを関係的で倫理的なものにする補完として）、[[affective-computing|情動計算]]と[[well-being|ウェルビーイング]]（AI の情動的な次元）、[[self-regulated-learning|自己調整学習]]（自己管理と努力の調整）、[[self-efficacy|自己効力感]]と[[motivation|動機づけ]]（[[student-ai-interaction|AI との相互作用]]を調整する学習者の信念）、[[agency|行為主体性]]（依存に対して学習者の統制を守ること）、[[ethics|倫理]]（責任ある意思決定）、[[teacher-ai-competency|教員の AI コンピテンシー]]（SEL を支援する教育者の能力）、[[student-experience|学生の経験]]（ウェルビーイングと帰属）、そして[[learning-gains|学習の成果]]（SEL が達成を支えるというエビデンス）につながります。それは、SEL が注入された AI リテラシーが涵養される場である[[higher-ed|高等教育]]と[[k-12|K-12]]に関連します。
+
+## よくある誤解
+
+**「SEL と情動知性は、同じ構成概念である。」** 両者は関連しつつ区別されます。SEL/SEC は、肯定的な関わりのために思考、感情、行為を同期させる能力という一連のコンピテンシーを指し、情動知性は情動を知覚し管理する個人の能力を指します。ツールは、社会情緒的なコンピテンシーを何も発達させずに学習者の情動的な自己認識を高めることができ、プログラムは、情動的な自己知覚が変わらないまま学生の協働的なコンピテンシーを築くことができます。両者は異なる仕方で測定されるため、一方の証拠は他方の証拠ではありません。
+
+**「共感的に応答する AI チューターは、社会情緒的学習を発達させる。」** 情動的な応答性は提供の性質であり、SEL はコンピテンシーの成果であって、両者は自動的には結びつきません。この文献が AI に*置き換えるのではなく補完する*ことを求めるのは、学習の関係的な次元です。したがってツールの中の共感は、それ自体が便益なのではなく、何を代替するかという問いになります。温かな応答が、粘り強さを築く苦闘を減らしうる仕組みについては、[[affective-tutoring|情動的な個別指導]]を参照してください。
+
+**「粘り強さの低さは、励ましで直る動機づけの問題である。」** 粘り強さは教育技術における繰り返し現れる制約であり、[[framing-5-percent-problem-teachers-persistence|5% の問題]]が名指すパターンです。それは動機づけと納得、認知的な障害、*そして*困難に対する回復力によって形づくられます。励ましが扱うのは三つのうちの一つです。作業記憶を超えた問題のために止まった学習者は、安心の言葉が不足しているのではありません。
+
+**「AI が利用できると知っても、学生の努力の投資は変わらない。」** 変わりうるものであり、その効果は最も弱い学習者にとって逆方向に働きます。[[ai-availability-student-motivation|AI の利用可能性]]は、とりわけ初心者にとって、努力を伴う関与の知覚された価値を下げうるのです。利用可能性そのものが負の符号を持つ動機づけの介入であり、だからこそ SEL に隣接する設計は、役に立つシステムの存在を中立として扱えません。
 
 ## 関連概念
 - [[anxiety-and-stress]]
@@ -132,3 +138,4 @@ SEL は、[[ai-literacy|AI リテラシー]]（AI リテラシーを関係的で
 - [[policy-deficit-ai-sel-2026]] — AI × SEL 研究における政策の欠如
 - [[human-ai-complementarity-social-emotional-learning-2026]] — 初期の社会情緒的学習における人間—AI の補完性（Raave ら 2026）
 - [[parlant-emotional-micro-interventions-2026]] — リアルタイムの情動的なミクロ介入と教員のための定型句集
+- [[shastry-gray-empathy-offloading-2026]] — AI が共感を与えられると思うと、人は共感をオフロードする（Shastry & Gray 2026）

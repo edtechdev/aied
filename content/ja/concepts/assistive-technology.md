@@ -1,14 +1,14 @@
 ---
 title: 支援技術
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-10-10T22:31:17-04:00"
+updated: "2026-10-30T03:37:03-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_of: concepts/assistive-technology
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -54,17 +54,24 @@ ai_assist:
 - **その支援が果たす機能を述べ、そしてその機能に対して評価してください。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 他（2026）]]は、補償（アクセスと参加によって評価される）を、足場かけ（支援を伴う意思決定）から、発達（フェーディングまたは転移の後の方略の利用）から区別します。そして、このページの注意に向けられた規則を加えます。すなわち、支援へのアクセスは修繕ではない——ある道具が配慮、方略の教授、それとも一時的な練習の支援のいずれであるかは、「学習計画に述べられるべきである」ということです。
 - **供給を政策に根ざさせる。** AI ツールを調達または構築する際には、支援技術法、IDEA、WCAG を参照してください。
 
+## よくある誤解
+
+- **「支援技術は障壁のある場所を標的にする。」** 神経発達の多様な学生のためのデジタル支援技術に関する2026年のスコーピングレビューは、この10年の成果を地図化し、**ツールが標的にするものと障壁が存在する場所の間の不一致**を見出しています。**27の研究が学習を直接支え**、13が読み書きに、12が学習管理に取り組み、一方で**注意（n = 4）**その他の中心的な障壁はほとんど扱われていませんでした。最も研究されている標的は、最も制約の強いものではありません。
+- **「中程度の効果量が正しいツールを特定する。」** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhangら]]は、AIに基づく介入が障害のある学生の学習成果に中程度の正の効果（**g = 0.588**）をもたらすことを、ロボット、ソフトウェア、知的な VR にわたって見出しました。それは非常に異なるニーズに奉仕する非常に異なる技術にわたる平均であり、カテゴリーを支えるものであって、その中の選択を支えるものではありません。
+- **「診断を条件とするアクセスは弁護可能な設計である。」** 参加に正式な診断を求めることは、ニーズはあるがラベルを持たない学習者を排除し、[[universal-design-for-learning|普遍的な設計]]と衝突し、アクセスのコストを学生の文書化に押しつけます。
+- **「支援ツールが多いほど包摂が進む。」** スコーピングレビューは5つのデータベースにわたる**766件の記録**を絞り込みましたが、成果の量はニーズの網羅と同じではありません。障壁ごとの研究の数がより情報量の多い数値なのです。
+
 ## 関連する概念
 
 - [[accessibility|アクセシビリティ]] — 支援技術が具体化する設計上の特性
-- [[inclusive-learning|インクルーシブな学習]]
-- [[special-education|特別支援教育]]
-- [[universal-design-for-learning|学びのためのユニバーサルデザイン]]
-- [[equity-in-ai-education|AI を活用した教育における公平性]]
-- [[educational-policy-ai|AI に関する教育政策]]
-- [[neurodiversity|神経多様性]]
-- [[learning-design|学習設計]]
-- [[speech-and-voice-technologies|音声技術]]
+- [[inclusive-learning]] — インクルーシブな学習
+- [[special-education]] — 特別支援教育
+- [[universal-design-for-learning]] — 学びのためのユニバーサルデザイン
+- [[equity-in-ai-education]] — AI を活用した教育における公平性
+- [[educational-policy-ai]] — AI に関する教育政策
+- [[neurodiversity]] — 神経多様性
+- [[learning-design]] — 学習設計
+- [[speech-and-voice-technologies]] — 音声技術
 ## 関連する記事
 
 - [[shin-ai-policies-sld-2026]] — 特定の学習障害のある学生のための AI 政策と配慮

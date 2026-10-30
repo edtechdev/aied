@@ -1,14 +1,14 @@
 ---
 title: ニューロダイバーシティ
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-10-10T22:45:44-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_of: concepts/neurodiversity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -65,6 +65,7 @@ AI時代において、この捉え方はスローガンではなく設計上の
 ## 設計上の留意
 
 - **診断を条件とする支援は、それを名指ししない学習者を排除する。** スコーピングレビューの批判は、AIの機能がどう展開されるかに直接に当てはまります。機能が宿座的対応の証明書によって解除されるなら、機能的な差異はあっても診断のない学習者はそれを目にすることはありません。
+- **検出器主導のプロセスは、正当な宿座的対応の利用を思いとどまらせうる。** 言語技術がニューロダイバーシティのある学習者にとって有効な宿座的対応として機能している場合、一律の禁止や、その正当な利用を思いとどまらせる検出器主導のプロセスは、平等に関する検討事項を生じさせます。[[ai-detection|検出]]の文献が記録している、取り消された不正行為の事例は、自閉スペクトラムの支援プログラムに参加していた学生に関わるものでした([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier(2026)]])。
 - **ツールは、単に劣っているだけでなく、認識論的に排除しうる。** [[genai-minoritized-knowledges-disability|Tali-Otmani（2026）]]は、英語圏の西洋中心的な学習データが非ヘゲモニックな知の在り方を周辺化すると論じ、障害のある学習者の状況をその批判の中心に据えています — 「包括的な」AIであっても、誰の知識が数えられるかを符号化しうるという警告です。
 - **行動シグナルは、学習者を知らないシステムによって読み取られる。** [[learning-analytics|学習分析]]や[[student-modeling|学習者モデリング]]における[[student-engagement|関与]]、苦闘、注意の解釈は、応答の規範的なパターンを想定しています。その想定に関する公平性の証拠については、[[differential-effects-across-learner-groups|学習者集団間での差異的な効果]]を参照してください。
 - **依存は、学習者の失敗ではなく設計上の帰結である。** 上記の依存の経路を踏まえれば、どのAI機能に対しても問うべきことは、それが、その課題が形成するために存在する高次の過程を代替してしまわないかどうかです — これは学習障害についてSeung and Bashamが述べている要点です。
@@ -79,6 +80,12 @@ AI時代において、この捉え方はスローガンではなく設計上の
 ## つながり
 
 ニューロダイバーシティは、[[special-education|特別支援教育]]、[[inclusive-learning|包括的学習]]、[[universal-design-for-learning|ユニバーサルデザインによる学習]]、[[equity-in-ai-education|AI教育における公平性]]につながります。それは、AIが[[student-experience|学生の経験]]のためにどう展開されるかと、評価やリテラシーのプログラムが認知的変異にわたって公正であるようにどう設計されるかの両方に情報を与えます。これらの所見が他の学習者集団 — 言語、ジェンダー、社会経済的地位、地理 — とどう並べられるかについては、[[differential-effects-across-learner-groups|学習者集団間での差異的な効果]]を参照してください。
+
+## よくある誤解
+
+- **「ニューロダイバーシティの研究は、AIED のニッチな一角である。」** この分野は**[[generative-ai|生成的AI]]を中心に再編されており、40件の研究のうち15件**がそれに当たり、没入型の形式が11件で次点です。文献は安定した問いの周りに蓄積するのではなく、技術とともに動いてきました。
+- **「ディスレクシアに対するAIが増えれば、支援が良くなる。」** [[dabaghi-ai-dyslexia-education-review-2026|ディスレクシアのためのAIに関する学際的レビュー(Dabaghi、D'Urso & Sciarrone、2026年)]]は**2018年から2024年にわたる72件の研究**を扱い、AIが非常に広い目的にわたって用いられていることを見出しています。応用の広さは、そのいずれか一つについての有効性の証拠ではありません。
+- **「宿座的対応こそが、ニューロダイバーシティのある学習者にとって適切な枠組みである。」** [[neurodivergent-computing-students|24人のニューロダイバーシティのある情報系学生と20人の定型発達の同級生への調査]]と四件の詳細なインタビューは、必要とされているのが**一般的な設計要件**(構造化された課題、小さく一貫したチーム、明示的な役割)であって、診断の後に与えられる個別の調整ではないことを見出しました。
 
 ## 関連概念
 
@@ -106,3 +113,4 @@ AI時代において、この捉え方はスローガンではなく設計上の
 - [[genai-minoritized-knowledges-disability]] — 生成的AIと周辺化された知識の排除
 - [[tactile-statistical-graphs-accessibility]] — アクセシビリティのための触覚的な統計グラフ
 - [[ai-learning-tools-engineering-education-needs]] — ニーズと注意を考慮したAI学習ツールの設計
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 検出器主導のプロセスは、正当な宿座的対応の利用を思いとどまらせうる

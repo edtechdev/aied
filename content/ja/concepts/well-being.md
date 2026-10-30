@@ -2,23 +2,15 @@
 title: ウェルビーイング（Well-Being）
 created: '2026-10-11T05:08:53-04:00'
 type: concept
-foundations:
-- ai-literacy
-pedagogy:
-- motivation
-- social-emotional-learning
-ethics:
-- ethics
-audience:
-- learners
-level:
-- higher ed
+foundations: [ai-literacy]
+pedagogy: [motivation, social-emotional-learning]
+ethics: [ethics]
+audience: [learners]
+level: [higher ed]
 confidence: high
-connected_faqs:
-- how-ai-impacts-students
-- ai-anxiety-wellbeing
-updated: '2026-10-11T05:08:53-04:00'
-source_updated: '2026-10-01T20:35:10-04:00'
+connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
+updated: "2026-10-30T03:22:21-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_of: concepts/well-being
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
@@ -52,6 +44,7 @@ ai_assist:
 - **[[ai-literacy|AIリテラシー]]と社会情緒的学習：** [[sec-ai-literacy-narrative-review-2026|SECをAIリテラシーに統合する研究]]は、教育者と学生の感情的知性とウェルビーイングを育むことが、AI[[sociocultural-learning|媒介]]学習環境を航走するために不可欠だと論じ、[[social-emotional-learning|社会情緒的学習]]とAIの感情的次元に接続します。
 
 - **AI不安と学生体験：** AIへの関与に関する研究（例：[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDTベースの研究]]）は、AIの利用が不安、信頼、自信と絡み合っており、学生のウェルビーイングが学術的誠実性、[[creativity|創造性]]、[[cognitive-offloading|過度な依存]]についての懸念に影響されることを見出します。
+- **試験不安は取り除かれるのではなく再分配されます。** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon(2026)]]は、[[assessment|評価]]が断続的な高利害の試験から継続的でデータに駆動された評価へと移るにつれ、アルゴリズム的な説明責任が新たな圧力の体系を加えると論じます。その機構(即時性、可視性、データの永続性)は、急性の試験ストレスを、ほとんど報告されない拡散した持続的なパフォーマンスへの警戒に変えるのです。
 - **不安の減少が一様に有益というわけではない。** 35人の大学進学前の学生を対象とした均衡化された被験者内研究では、LLM支援の会話エージェントは口頭評価中の自己申告の不安を下げました（穏やかさ6.50対5.86、p = .028）が、著者らは中程度の不安は促進的でありうると戒め、達成度スコアは記録しませんでした（[[aivaluate-anxiety-assessment-2026|Yusuf、Money、Daylamani-Zad（2026）]]）。
 
 - **高い承認は緊張と共存し、AI課題圧力は便益を弱める。** 551人の1年生の学生のうち、82.76%はデジタルで知的なコンテンツの統合を承認した一方、69.51%は[[anxiety-and-stress|不安]]や緊張を報告し、AI熟達度から適応への傾きはAI課題圧力の上昇とともに0.42から0.20に下がりました（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin（2026）]]）。
@@ -86,6 +79,14 @@ ai_assist:
 
 **信号としての摩擦、意味、孤独。** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar、Bloom、Inzlicht（2026）]]はウェルビーイングの主張にメカニズムを与えます。努力は私たちの行動が重要であることを信号するため、課題に向かって働く人はより有能だと感じ、成果をより高く評価し、より目的があると見なします——そして客観的に無意味な課題でさえ、摩擦を加えることは評価された意味を高めます。関係については、彼らは孤独を患い（心血管疾患、認知症、脳卒中、早期死亡と関連して）としてだけでなく、飢えや痛みに似た**[[biology-education|生物学的]]な信号**として扱います。手を伸ばし、招待を受け入れ、既存の関係に投資し、難しい会話に耐えることを動機づける不快感です。AIの伴走者はその不快感を和らげることができ、著者らはそれをいくつかの場合に真の進歩と見なす一方で、つながりを駆動する信号をも静かにしてしまいます——そして彼らはこの論証を段階によって和らげ、偶然ではなく選択によって孤立した人々にとって、そのような技術へのアクセスを拒否することは「残酷だろう」と持ちます（[[motivation|動機づけ]]、[[social-emotional-learning|社会情緒的学習]]）。
 
+感情的な支援とつながりは、一つの標本の内部で反対方向に動きえます。819人のサウジアラビアの高等教育の学生の間で、チャットボットへの満足度は平均4.29、道具についての経験は4.19でしたが、チャットボットが人間のつながりを減らすという懸念が、最も高い評価の構成概念(4.36)でした([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani(2025)]])。その懸念は満足度とともに下がるのではなく、経験とともに上がりました(標準化係数は.64に対し.11)。
+
+## よくある誤解
+
+- **「学生の承認はウェルビーイングが支えられていることを示す。」** **551人の1年生**のうち、**82.76%がデジタルで知的なコンテンツの統合を承認**しました。そして**高い承認は緊張と共存し、AI課題圧力が便益を弱めました**。承認と緊張はともに上がるため、満足度調査はまさにここで誤導します。
+- **「福祉の支援は文化的に中立である。」** [[culturally-aware-student-stress-chatbot-2026|BashirとAfzal(2026)]]は、ハイブリッドなウェルビーイング支援の道具であるSukoonを**文化的に状況づけられた**ものとして記述しており、このページの枠づけ自体もその限界に触れています。普遍的な学生を想定する支援の設計は、その集団を読み誤ります。
+- **「課題圧力は技術とは別である。」** 知見は、AIの**課題圧力**が統合の便益を弱めたということであり、それは仕事量を技術の効果の傍らではなく内部に置きます。
+
 ## 関連概念
 
 - [[learners]] — 学習者：学習者側の概念の傘
@@ -101,6 +102,7 @@ ai_assist:
 - [[student-support-and-success]] — 指導、働きかけ、紹介にわたるキャンパス支援サービス
 
 ## 関連記事
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 819人の学生がチャットボットを高く評価し、人間のつながりの喪失を最も恐れました
 
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — 生物学的な信号としての摩擦、意味、孤独
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI不安と学業的な動機づけの関係
@@ -123,3 +125,4 @@ ai_assist:
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 知覚されたAIアシスタントの知性、目標の進展、精神的健康、調整変数としてのAIリテラシー
 - [[ai-emotion-regulation-sport-exercise-2026]] — スポーツ、運動、キャンパスの生態を通じたAI支援の感情調節の概念的再枠組み
 - [[faculty-ai-well-being-social-supports-2026]] — 教員のAIウェルビーイングの構造方程式モデル：自己効力感を上回るAIリテラシー
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — 試験不安は取り除かれるのではなく再分配されます

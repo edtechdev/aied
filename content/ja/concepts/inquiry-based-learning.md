@@ -1,7 +1,7 @@
 ---
 title: 探究学習
 created: "2026-10-10T22:38:10-04:00"
-updated: "2026-10-10T22:38:10-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ IBLの問い駆動で過程に焦点を当てた構造は、生産的なAI利用
 [[productive-failure|生産的な失敗(PF)]]は探究学習の最も構造化された親戚です。学習者は直接的な指導の*前に*問題を探究し解決策を生成し、その後で統合します。両者は、学習者によって生成された試み(失敗したものも含む)が[[prior-knowledge|既存知識を活性化]]し、指導から学ぶ準備を整えるという前提を共有します。AI時代のPFの[[research-methods-aied|研究]]は、AIが探究を短絡させるのではなくどう足場かけるべきかを鋭くしています。[[kim-ai-productive-failure-adult-2026|Kimら(2026)]]は、問題の探究と解決策の生成を通じて苦闘を保つAIの設計原則を導き出しました。[[puech-pedagogical-steering-llm-productive-failure-2025|Puechら(2025)]]は、LLMチューターが答えを差し控え複数回の試みを促すよう操舵できることを示しました。[[lukesova-clue-before-correction-2026|clue-before-correction]]の課題は、学習者に推論を続けさせる、手がかりに基づく(直接的なものではない)足場かけの例です。これらは探究とPFを、AIが永続的な学びが形づくられる[[desirable-difficulties|生産的な苦闘]]を取り除いてはならないという、より広い要請につなげます。
 
 屋外の野外の場面では、同じ要請が空間的になります。生成AIは、学習者が証拠に出会う*前に*、彼らが気づくことを先に構造化しうるので、生成された説明を観察と最初の解釈が記録されるまで差し控える「野外優先」の順序が探究を守ります([[geoscience-field-learning-genai-2026|Choi, 2026]]))。
+
+## よくある誤解
+
+**「AIは探究とどちらも探索的だから、探究学習に自然に適合する。」** 適合は設計次第です。[[generative-ai|生成AI]]と[[llm|LLM]]の道具は、**学生が問いの所有を保つように設計されたときにのみ**、問いと調査を支える対話的な共探究者として機能します。そうでなければ、探索している学生は探究を行っているのではなく答えを追っており、外から見ると両者は似ています。
+
+**「探究の単元にAIを加えれば改善する。」** AIの寄与は探究そのものから切り離されねばなりません。[[ai-assisted-inquiry-ssi-climate|Gousopoulos(2026)]]は気候変動の研究で三群の設計によりこれを行い、AI支援の探究は探究のみの仲間を**意思決定で上回りました(d = 0.69)**。証拠は、アプローチの一般的な優位性ではなく、特定の成果に位置づけられています。
+
+**「探究は定義上、構造を持たない。」** 教育者が足場かけを行い、構造は内容の伝達ではなく問いの設計と省察のサイクルにあります。足場を外すことは探究をより真正にするのではなく、足場かけのないものにします。
+
+**「学生が関心を持てば、学生主導の問いはよく形づくられる。」** 実行可能な問いを生み出すことが、育成される技能そのものです。だからこそ、良い問いを供給するシステムは、その活動が教えるために存在する探究の技能を代わりに遂行してしまっています。
 
 ## 関連概念
 

@@ -1,7 +1,7 @@
 ---
 title: 自動評価
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T22:20:00-04:00"
+updated: "2026-10-30T03:37:03-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -45,13 +45,14 @@ ai_assist:
 - **実践に基づく評価:** [[engagement-assessment-video|動画による関与の評価]]と[[confidence-aware-student-drawing-assessment|作図の評価]]は自動化をテキストを超えて拡張します。
 - **マルチモーダルな試験データとルーブリック:** [[multimodal-exam-obe-rubrics-2026|専門家が設計した成果基盤型教育のルーブリックを伴うマルチモーダルな試験解答データセット]]は、多様な解答様態にわたる基準レベルの自動評価のためのベンチマーク資源を提供し、マルチモーダルな生徒の成果物に関する[[benchmark|ベンチマーク化]]と[[educational-measurement|測定]]の研究を支えます。
 - **神経生理学的な評価:** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]]は、脳波に基づく既知性予測(顔対数式)についてML/DLモデルをベンチマーク化し、知識の獲得の直接的で客観的な尺度への一歩としています。重要なことに、標準的な層化交差検証が時間的な漏出を通じて性能を膨らませる(F1が最大0.9853)一方、試行独立のGroup K-Fold妥当性確認では最大値が0.6038 F1まで下がることを示しています——これはすべての自動評価のベンチマーク化にとって[[research-methods-aied|方法論的]]な教訓です。
+
 ### 自動採点
 
 自動採点は、最も成熟し広く展開されている[[ai-education|教育におけるAI]]応用の一つです——すなわち、多肢選択式の採点から小論文の評価、コードレビューにまでわたって生徒の成果物を評価する[[ai-technologies|AIシステム]]です。その採点の様態には次のものが含まれます。
 
 - **生徒がフィードバックの有用性と評価的な権威を区別する:** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]]は、AIの得点が成績に算入され、生徒がそれを知っていた事例を記録しています——13人のコンピューティング専攻学生が、明瞭さ、構成、文の正しさ、簡潔さを扱うルーブリックに対して、スキャンした手書きの成果物をChatGPTで評価されました。全参加者がフィードバックを有用だと感じましたが、全員がその有用性を権威から切り離し、数人は自動採点の一方的で対話的でない性格を拒否しました——「ChatGPTは人間とは違う。人間には話しかけて言い訳を説明できる……私は普通の先生に自分の仕事を採点してほしい」。この研究は、自動評価を表面的な推敲には許容できるが最終的な評価者としては許容できないものとして位置づけ、条件付きの信頼は教員の監督によって媒介されるとしています。
 - **短答の採点:** [[cong-confidence-asag-2026|確信度を意識したASAG]]は自由記述の解答を評価します。確信度の校正が重要です——システムは採点が信頼できるときを知らなければなりません。[[science-education|理科]]における短答自動採点についてのスコーピング・レビュー(2017年～2024年初め)は、この分野の歴史を記録しています。[[auto-marking-short-answer-science-2026|Morleyら]]はBERT系モデル(base、RoBERTa、DistilBERT、SciBERT)が支配的だったこと——21件中20件の研究で用いられ、2021年にピークに達した——を発見しました。その後、微調整ではなく[[prompt-engineering|プロンプト工学]]を通じて、おおむね2022年頃からGPTに基づくアプローチが採用されました。領域データ(教科書、[[feedback|ルーブリック]]、追加の事前学習)で強化されたモデルは一貫してそれらを含まないモデルを上回りましたが、人間に理解できる言葉で得点の根拠を説明できるものはほとんどなく、[[bias-mitigation|人口統計学的・言語的グループ間の偏り]]が調べられることは稀でした——著者らは自動採点者は[[teacher-role|人間の採点者]]を*支援*すべきで、取って代わるべきではないと論じています。42件の実証的な採点・フィードバック研究(2023–2025年)についてのPRISMAガイド付き[[meta-analysis-systematic-review|系統的レビュー]]は、この警告を分野全体に一般化します。すなわち、LLMは閉じた課題と短答問題では人間の評定者と同等である一方、深い分析や[[creativity|創造性]]を要する複雑で開かれた、あるいは主観的な仕事については人間の判断を完全には置き換えられず、最も高い採点の有効性はAIによる採点と教員の監督・検証を組み合わせたハイブリッドシステムで達成される、としています([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]])。
-- **小論文の採点:** [[choi-anchor-aes-prompting-2025|アンカーに基づくAES]]のような[[automated-essay-scoring|自動小論文採点]]システムは、[[prompt-engineering|プロンプトの戦略]]を用いて人間水準の信頼性に近づきます。[[aiawe-automated-writing-evaluation|AIAWE]]は自動評価をより広い書き言葉の評価に拡張します。
+- **小論文の採点:** [[choi-anchor-aes-prompting-2025|アンカーに基づくAES]]のような[[automated-essay-scoring|自動小論文採点]]システムは、[[prompt-engineering|プロンプトの戦略]]を用いて人間水準の信頼性に近づきます。報酬整合型の小論文採点器であるRACESは、ASAP 2.0において、評価に用いた事前学習済みおよび微調整済みのベースラインよりも高い二次重み付きカッパとSimCSE類似度を報告しましたが、有意性検定は行っていません。また、その報酬モデリングによるフィードバックはLLMが生成した代理のものであり、人間が割り当てたのは参照スコアだけでした（[[large-language-models-teaching-learning-higher-ed|Liら (2026)]]）。[[aiawe-automated-writing-evaluation|AIAWE]]は自動評価をより広い書き言葉の評価に拡張します。
 - **コードレビュー:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash採点]]と[[code-review-genai-cs1|CS1コードレビュー]]は、[[cs-education|コンピューティング教育]]における自動評価を示しています。
 - **プロンプトのペルソナは採点者を崩壊させることがあり、微調整はそれを修復できる:** [[llm-graders-computer-science-exams-2026|Habibullahら (2026)]]は、実践的なコンピュータビジョンの試験(二重採点の学生570人)を171の構成で、そして第二の[[machine-learning|機械学習]]の試験(学生1,038人)をさらに162の構成で採点しました。短い「厳しい採点者」の前置きが、17のオープンウェイトモデルのうち14を採点帯域の外に追い出し(MAE ≥ 8)、3つは採点を完全に停止しました。損傷はトーンやモデルの規模ではなく、得点を保留する2つの文に由来し、その方向は試験ごとに異なり、第二の試験では7つのモデルを改善しました。およそ3,900件の集約された採点済み例での軽いLoRA微調整により、5つの小さな[[open-source|オープンモデル]]が人間の採点者と同等以上になりました。したがって、この脆弱性は能力の限界ではなく、プロンプトの作り物なのです。
 - **形成的評価との統合:** [[automated-formative-assessments-a-level-sciences|Aレベル理科の自動化]]と[[cotal-formative-assessment-scoring-2026|CoTAL]]は、自動採点がどのように[[formative-assessment|形成的評価]]のサイクルに組み込まれるかを示しています。
@@ -100,18 +101,15 @@ ai_assist:
 ## 質と公正さ
 
 自動評価の質は[[assessment-validity|評価の妥当性]]と[[bias-mitigation|偏りの緩和]]に依存します。[[ai-scoring-language-bias-physics|言語の偏り]]の研究は、自動採点がある生徒集団を体系的に不利にしうることを示しています。
-
 **基準そのものが誤りやすい。** [[ai-marking-accuracy-gcse-physics-2026|Bozdag and Qiu (2026)]]は、GCSE物理の答案をAIシステムで採点し、それを公式の試験実施機関の採点と経験豊かな教員の判断の両方と比較し、実施機関との一致を正確さそのものではなく正確さの代用として扱っています。
 
 ### 展開のシナリオとそれぞれが求めるもの
 
 機関がどれほどの整合を求めるべきかは、システムに何を決定することを許すかによります。3つのイギリスの大学における[[opraise-automated-marking-ai-assessment-2026|761件の本物の学部生の小論文]]についての[[mixed-methods-research|混合方法法]]の研究では、それぞれ27のプロンプト構成を持つ3つの最先端モデルが、学位の成績帯域について人間の採点者とわずか35–65%の一致しか達成せず、正確さは機関間で移りませんでした——したがって、その報告は候補となる利用法を一つの決定ではなく別々のシナリオとして扱います。**人間の採点の品質保証**——AIが並行して採点し、大きな差異が人間による検討を引き起こす——が最も保守的です。**採点の助手**——予測された質や不確実性によって提出物を順位付けしたり分類したりし、複雑な事例をトリアージし、簡潔な人間のコメントをより完全なフィードバックに拡張する——は、本物の中間地点です。**第一の採点者としてのAI**——標本や採点の分布の人間による検討を伴う——は、システムの性能が改善した場合にのみ許容できると判断され、どの[[stakeholders|利害関係者]]グループもAIを唯一の採点者として是認しませんでした。
 
-それらのいずれについても3つの要件が従います。整合はモデルおよび機関に固有であるため、妥当性確認はローカルで継続的でなければなりません——他所からの大々的な正確さは、準備ができているという証拠ではありません。採点は中央に向かって圧縮されていたため、AIは成績の境界や最も強い提出物と最も弱い提出物で最も不正確であり、それはまさに評価の決定が最も大きな帰結を持つところです。そしてAIと人間の採点の間の不一致は単なる誤りではなく異なる判断を反映しているため、差異はアルゴリズムによる上書きではなく人間による解釈を引き起こすべきであり、採点に対する最終的な権威は人間が保持すべきです。採用はまた、技術的な指標が捉えない[[governance|ガバナンス]]の義務を伴います。自動化された決定が生徒に影響
+それらのいずれについても3つの要件が従います。整合はモデルおよび機関に固有であるため、妥当性確認はローカルで継続的でなければなりません——他所からの大々的な正確さは、準備ができているという証拠ではありません。採点は中央に向かって圧縮されていたため、AIは成績の境界や最も強い提出物と最も弱い提出物で最も不正確であり、それはまさに評価の決定が最も大きな帰結を持つところです。そしてAIと人間の採点の間の不一致は単なる誤りではなく異なる判断を反映しているため、差異はアルゴリズムによる上書きではなく人間による解釈を引き起こすべきであり、採点に対する最終的な権威は人間が保持すべきです。採用はまた、技術的な指標が捉えない[[governance|ガバナンス]]の義務を伴います。自動化された決定が生徒に影響する場合のGDPR第22条に基づく説明を受ける権利、達成度の水準と言語の使用が採点に影響することが示された場合の平等法上の義務、簡単には発見されない誤りのための改訂された異議申し立ての手続き、そして不可逆性のリスク——人員と投資が移り替わると、機関は戻るために必要な人間の採点を集め続けるのに苦労するかもしれません。
 
 3つのモデルを組み合わせても、その誤りは取り除かれませんでした。それらの誤しが相関していたためです——課題の63.4%で同じ方向——[[machine-human-marking-agreement-institutions-2026|Corsi 他(2026)]]のアンサンブルは、最良の単一モデルと統計的に区別がつかず、共有された中央傾向への圧縮をそのまま残しました。
-
-自動化された決定が生徒に影響する場合のGDPR第22条に基づく説明を受ける権利、達成度の水準と言語の使用が採点に影響することが示された場合の平等法上の義務、簡単には発見されない誤りのための改訂された異議申し立ての手続き、そして不可逆性のリスク——人員と投資が移り替わると、機関は戻るために必要な人間の採点を集め続けるのに苦労するかもしれません。
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]]は、それらの要件が前提とする基準を提供し、自動化を擁護可能にするのは技術が技術的に実行できることではなく、課題の*認識論的な地位*であると論じています。彼のフレームワークは、AIを事実的・手続き的な主張の限られた検証に限定します——明確に文書化された基準、確立された知識との直接的な比較、代替的に有効なアプローチの評価の不存在、そして単一の正解または事前に指定された許容可能な集合の4つすべてが同時に成り立たなければならず、曖昧さは原則として人間にエスカレーションされます——そしてその水準でのAIの関与を、同時に成り立たなければならない5つの交渉不可能な原則に条件づけます。知識ベースは評価者によってキュレーションされ、モデルのパラメトリックな知識ではなく教材に基づいて検索に接地していなければなりません。人間の評価者はすべてのAI出力が生徒に届く前に検討し、共有されない説明責任とともに絶対的な上書き権を持たなければなりません。フィードバックは明確な出所と帰属を伴わなければなりません。そしてセキュリティは、白や小さな文字、符号化、画像、文書のメタデータに隠された指示のための入力の無害化を含め、敵対的な利用に対して最初から設計されなければなりません。なぜなら、自動化されたシステムの回避に成功することは生徒のコホート全体に広がるからです。同じ論文は、その原則が同時に実現可能かどうかについては未検討であり、キュレーション、セキュリティ基盤、高頻度の監督のための評価者の時間は人員の労力を減らすのではなく移すかもしれないと明示しています——これは上記のローカル妥当性確認の要件と並ぶ注意です。
 
@@ -137,70 +135,78 @@ ai_assist:
 
 - **構造化されたLLM採点は、診断的でなくても分析的に見えることがある(2026年):** 50のコンピュータサイエンスの問題に対する3,041件の解答を採点して、3つの商用LLMはほぼ冗長なルーブリックの下位次元(r = 0.82–0.99、VIF最大45)を生み出し、コメントのわずか4.8–7.4%で誤解を名指しし、教員は15.0%でした([[llm-structured-assessment-diagnostic-quality-2026|Zhaoら、2026年]])。
 
+## よくある誤解
+
+- **「自動化された点数は、単一の信頼できる数値である。」** 実用的なコンピュータビジョンの試験(**570人の二重評定された学生**)は**171の構成**の下で採点され、二つ目の機械学習の試験はさらに別の構成の下で採点されました。点数を駆動したのは構成でした。数値として提示された成績は、それを生み出した構成を隠します。
+- **「信頼性を損なうのは判定者である。」** 378件の固定されたサイコロの判定では、再実行によって結果の**2.9〜6.1%**が半固定的な方法で、**13.5〜15.9%**が自由な裁定で変わりました。一方、判定AIを入れ替えることは約3ポイントを加えただけでした([[wargaming-adjudication-ai-judged-grading-2026|Epstein、2026年]])。再現性を決めるのは判定者ではなく、手続きです。
+- **「確信度の報告は、あれば嬉しい程度のものである。」** **70%確信している**と述べる点数は、その使われ方を変えるでしょう。そしてその情報がないことは、読み手にすべての点数を同じ確実さとして扱うことを強いるのです。
+- **「短答式の自動採点は、決着済みの領域である。」** [[science-education|科学]]における短答式の自動採点のスコーピングレビュー(**2017年から2024年初頭**)は、この分野の歴史を記録しています。それは何が検証されたかの記録ではなく、何が試みられたかの記録なのです。
+
 ## つながる概念
 
-- [[explainable-ai|説明可能なAI]]
-- [[remote-proctoring|遠隔監督]]
-- [[assessment-validity|評価の妥当性]]
-- [[formative-assessment|形成的評価]]
-- [[automated-essay-scoring|自動小論文採点]]
-- [[bias-mitigation|偏りの緩和]]
-- [[equity-in-ai-education|AI教育における公平性]]
-- [[teacher-role|教員の役割]]
-- [[llm|大規模言語モデル]]
-- [[higher-ed|高等教育]]
-- [[ai-ed-evaluation|AIEdの評価]]
-- [[feedback|フィードバック]]
-- [[ai-feedback-quality|AIフィードバックの質]]
-- [[psychometrically-aware-ai|心理測定的に意識したAI]]
-- [[trust-calibration|信頼の校正]]
-- [[trust|信頼]]
-- [[educational-measurement|教育測定]]
-- [[item-response-theory|項目応答理論]]
-- [[human-in-the-loop-ai|人間参加型のAI]]
-- [[adaptive-learning|適応学習]]
-- [[personalized-learning|個別化された学習]]
-- [[summative-assessment|総括的評価]] — 総括的評価: AIに抵抗する形式(口頭試験、監督付き、閉鎖された書籍の試験)
+- [[explainable-ai]] — 説明可能なAI
+- [[remote-proctoring]] — 遠隔監督
+- [[assessment-validity]] — 評価の妥当性
+- [[formative-assessment]] — 形成的評価
+- [[automated-essay-scoring]] — 自動小論文採点
+- [[bias-mitigation]] — 偏りの緩和
+- [[equity-in-ai-education]] — AI教育における公平性
+- [[teacher-role]] — 教員の役割
+- [[llm]] — 大規模言語モデル
+- [[higher-ed]] — 高等教育
+- [[ai-ed-evaluation]] — AIEdの評価
+- [[feedback]] — フィードバック
+- [[ai-feedback-quality]] — AIフィードバックの質
+- [[psychometrically-aware-ai]] — 心理測定的に意識したAI
+- [[trust-calibration]] — 信頼の校正
+- [[trust]] — 信頼
+- [[educational-measurement]] — 教育測定
+- [[item-response-theory]] — 項目応答理論
+- [[human-in-the-loop-ai]] — 人間参加型のAI
+- [[adaptive-learning]] — 適応学習
+- [[personalized-learning]] — 個別化された学習
+- [[summative-assessment]] — 総括的評価: AIに抵抗する形式(口頭試験、監督付き、閉鎖された書籍の試験)
 
 ## つながる論文
 
-- [[llm-structured-assessment-diagnostic-quality-2026|LLM rubric sub-dimensions are near-redundant and feedback rarely names misconceptions (Zhao et al. 2026)]]
-- [[opraise-automated-marking-ai-assessment-2026|OpRaise report: AI marking of 761 university essays across three UK universities]]
-- [[human-in-the-loop-ai-scoring-national-assessment-2026|HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)]]
-- [[llm-comparative-judgment-writing-screening-2026|Validity of Large Language Model Comparative Judgment for Universal Writing Screening]]
-- [[usher-faraon-who-grades-best-2026|Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)]]
-- [[assessing-quality-ai-generated-exams-field-2025|Assessing the quality of AI-generated exams: a large-scale field study]]
-- [[automated-formative-assessments-a-level-sciences|Automated formative assessments in A-level sciences]]
-- [[cong-confidence-asag-2026|Confidence-aware automatic short-answer grading]]
-- [[ai-scoring-language-bias-physics|AI scoring language bias in physics]]
-- [[llm-difficulty-calibration-programming-exams-2026|LLM-based difficulty calibration for programming exams]]
-- [[choi-anchor-aes-prompting-2025|Anchor-based automated essay scoring prompting]]
-- [[cotal-formative-assessment-scoring-2026|CoTAL formative assessment scoring]]
-- [[automated-grading-linux-bash-examinations-large-language-models|Automated grading of Linux Bash exams with LLMs]]
-- [[confidence-aware-student-drawing-assessment|Confidence-aware assessment of student-drawn figures]]
-- [[diagramir-educational-math-diagram-evaluation|DiagramIR: automatic evaluation of generated math diagrams]]
-- [[shap-llm-rationales-teaching-quality-assessment|SHAP vs LLM rationales for rubric-based teaching quality assessment]]
-- [[eeg-familiarity-automated-assessment-2026|Automating Learner Assessment: EEG-Based Familiarity Prediction]]
-- [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R: AI assessment rubric generation]]
-- [[ai-assisted-instructor-supervised-grading-feedback|AI-assisted instructor-supervised grading and feedback]]
-- [[ai-grading-handwritten-physics-2026|AI grading of handwritten physics assessments (Olympiad)]]
-- [[auto-marking-short-answer-science-2026|Auto-marking short-answer science]]
-- [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025) 開かれた採点のGenAIベンチマーク]]
-- [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer 手書きの化学の採点]]
-- [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026) 薬学試験のChatGPT採点]]
-- [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026) 医学教育における開かれた採点]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz 教員の評価・フィードバックにおけるChatGPT]]
-- [[student-perspectives-ai-writing-grading-2026|Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education]]
-- [[tripartite-feedback-framework-ai-assessment-2026|Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)]]
-- [[humble-prompt-injection-ai-grading-red-team-2026|Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)]]
-- [[li-explainable-trustworthy-llm-teacher-assessment-2025|Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)]]
-- [[gpt4-handwritten-math-exam-grading-2026|handwritten semi-open mathematics grading with a confidence filter for human re-checking]]
-- [[llm-grade-bands-calibration-bias-2026|Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing]]
-- [[sophie-clinical-communication-ai-assessment-2026|Scalable AI-based clinical communication training and automated assessment]]
-- [[automated-constructive-assessment-hdr-llm-2026|Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence]]
-- [[llm-feedback-focus-adaptivity-student-writing-2026|Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing]]
-- [[llm-graders-computer-science-exams-2026|Where LLM Graders Succeed and Break: Evidence from Two Computer-Science Exams]]
-- [[llm-automated-coding-teacher-pck-2026|Multi-agent LLM (GradeOpt) coding teachers' open-ended CK and PCK responses, reliability from prompt refinement against a coding manual]]
-- [[ai-marking-accuracy-gcse-physics-2026|AI marking compared with examination-board marks and teacher judgment in GCSE physics]]
-- [[llm-grading-assistants-public-health-2026|Reasoning mode lifted LLM-human grading agreement from weighted kappa 0.269 to 0.718]]
+- [[llm-structured-assessment-diagnostic-quality-2026]] — LLMルーブリックの下位次元はほぼ冗長で、フィードバックが誤概念を名指しすることはまれ（Zhao et al. 2026）
+- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise報告: 英国3大学の大学論文761本のAI採点
+- [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大規模な全国作文評価におけるHITL方式のAI支援採点（Curi et al. 2026）
+- [[llm-comparative-judgment-writing-screening-2026]] — LLMによる比較判断の汎用作文スクリーニングにおける妥当性
+- [[usher-faraon-who-grades-best-2026]] — プロジェクト品質水準別にChatGPT・ピア・教員の採点を比較（Usher & Faraon 2026）
+- [[assessing-quality-ai-generated-exams-field-2025]] — AI生成試験問題の品質評価: 大規模フィールド研究
+- [[automated-formative-assessments-a-level-sciences]] — A-level理科における自動形成的評価
+- [[cong-confidence-asag-2026]] — 確信度を考慮した自動短答採点
+- [[ai-scoring-language-bias-physics]] — 物理におけるAI採点の言語バイアス
+- [[llm-difficulty-calibration-programming-exams-2026]] — プログラミング試験を対象としたLLMによる難易度校正
+- [[choi-anchor-aes-prompting-2025]] — アンカー方式の自動小論文採点プロンプト設計
+- [[cotal-formative-assessment-scoring-2026]] — CoTALによる形成的評価の採点
+- [[automated-grading-linux-bash-examinations-large-language-models]] — LLMによるLinux Bash試験の自動採点
+- [[confidence-aware-student-drawing-assessment]] — 確信度を考慮した学生作図の評価
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: 生成された数学図の自動評価
+- [[shap-llm-rationales-teaching-quality-assessment]] — ルーブリックに基づく授業品質評価におけるSHAPとLLM根拠の比較
+- [[eeg-familiarity-automated-assessment-2026]] — 学習者評価の自動化: EEGによる親近性予測
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AIによる評価ルーブリック生成
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI支援と教員監督を組み合わせた採点とフィードバック
+- [[ai-grading-handwritten-physics-2026]] — 手書きの物理評価（オリンピアード）のAI採点
+- [[auto-marking-short-answer-science-2026]] — 理科の短答式解答の自動採点
+- [[pecuchova-automated-grading-open-ended-genai-2026]] — Pecuchova, Benko & Drlik (2025) 開かれた採点のGenAIベンチマーク
+- [[cvengros-grading-handwritten-chemistry-ai-2026]] — Cvengros & Kortemeyer 手書きの化学の採点
+- [[falahat-chatgpt-grading-pharmacy-exams-2026]] — Falahat, Das, Bhaumik & Thambi (2026) 薬学試験のChatGPT採点
+- [[olvet-genai-scoring-open-ended-medical-2026]] — Olvet et al. (2026) 医学教育における開かれた採点
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — Jukiewicz 教員の評価・フィードバックにおけるChatGPT
+- [[student-perspectives-ai-writing-grading-2026]] — 誰が私の答案を採点すべきか: 高等教育における透明なAI支援ライティング評価に対する学生の見方
+- [[tripartite-feedback-framework-ai-assessment-2026]] — 三者構成の枠組み: フィードバックを認識論的地位で分類し、AI関与の5つの境界原則を提示（Venetsanos 2026）
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — 学生提出物に隠されたプロンプトインジェクションに対するAI採点のレッドチーム評価（Humble 2026）
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — 説明可能性を設計に組み込んだLLM枠組みによる教員評価の自動化と信頼に基づく推論制御（Li et al. 2025）
+- [[gpt4-handwritten-math-exam-grading-2026]] — 手書きの半開放型数学採点と、人間による再確認のための確信度フィルタ
+- [[llm-grade-bands-calibration-bias-2026]] — LLMは高等教育の評定帯を再現できるか: 実際の学生作文における校正と採点バイアスのモデル間比較
+- [[sophie-clinical-communication-ai-assessment-2026]] — スケーラブルなAIベースの臨床コミュニケーション訓練と自動評価
+- [[automated-constructive-assessment-hdr-llm-2026]] — LLMによる建設的評価の自動化: 実践的コンピテンスのスケーラブルで反復可能な評価に向けて
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — 学生作文に対するLLM生成フィードバックの焦点と教育上の適応性の評価
+- [[llm-graders-computer-science-exams-2026]] — LLM採点者はどこで成功しどこで破綻するか: 計算機科学の2試験からの証拠
+- [[llm-automated-coding-teacher-pck-2026]] — マルチエージェントLLM（GradeOpt）による教員の開放型CK・PCK回答の採点と、コーディングマニュアルに照らしたプロンプト改善による信頼性
+- [[ai-marking-accuracy-gcse-physics-2026]] — GCSE物理におけるAI採点と試験委員会の得点・教員判断との比較
+- [[llm-grading-assistants-public-health-2026]] — 推論モードによりLLMと人間の採点一致度が重み付きカッパ0.269から0.718へ上昇
 - [[machine-human-marking-agreement-institutions-2026]] — 学部生の課題の採点における機械と人間の一致は、モデル、プロンプト、機関に固有である
+- [[wargaming-adjudication-ai-judged-grading-2026]] — 天秤に指を置く：伝統的なウォーゲーミングの裁定実践を、AI判定による評価と採点の改善に活かす(Epstein 2026)

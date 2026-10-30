@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 自動問題生成
 created: "2026-10-10T22:09:46-04:00"
-updated: "2026-10-10T22:09:46-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,16 @@ AQGは[[adaptive-learning|アダプティブ]]学習と[[personalized-learning|�
 - **認知的深さを意識して設計する：** プロンプトとパイプラインは、単なる想起ではなく高次の思考を狙うべきで、それが本当の学びを支えます。
 - **難易度を調整する：** AIの難易度推定を用いて適度に挑戦的な項目を選び、高リスクな用途の前には入念な検証を行ってください。
 - **学習者モデルを通じて個別化する：** AQGを知識追跡や関心モデルと組み合わせて、アダプティブで個別化された項目を生成してください。
+
+## よくある誤解
+
+**「生成された問題は生産できる規模で使える」。** 量は制約ではありません。制約は較正です。品質は項目の種類によって劇的に異なり、幻覚や較正の悪い項目を避けるには検証が必要です。だからこそ機能するパイプラインは生成ではなく検証に労力を費やします。あるものは生成してから検証・改善するループを加えることでハルシネーションを**62%**削減しました。
+
+**「改善ループは生成項目を信頼できるものにする」。** それは誤りを少なくするだけです。ハルシネーションの62%削減はなお相当な残りを残し、どのループも、項目が示す難易度が学生の実際の行動と一致するかというより難しい問題を解決しません。難易度ラベルの証拠が生成メタデータの失敗を示す[[assessment-validity|妥当性]]の問いです。検証は作られた内容を減らし、較正は学生の回答データを必要とします。
+
+**「問題生成は自然に練習を個別化する」。** それは供給を生成し、個別化はマッチングの問題です。より多くの項目を作ることは、ある学習者が次にどの項目を見るべきかを教えません。適応的な選択の問いは、独自の証拠を持つ別の機構です。
+
+**「生成は評価を拡張するが、評価が測るものは変えない」。** それは測られるものの構成を変えます。よく生成される項目は、よく評価する項目の代表的な標本ではないからです。生成しやすい形式が生成しにくい形式を徐々に押し出し、それが静かに構成概念を形作り直します。
 
 ## 関連する概念
 

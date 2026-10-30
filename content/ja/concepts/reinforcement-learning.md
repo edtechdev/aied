@@ -1,7 +1,7 @@
 ---
 title: 強化学習
 created: "2026-10-10T22:55:00-04:00"
-updated: "2026-10-10T22:55:00-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,16 @@ PRISMA 基準の[[riedmann-reinforcement-learning-education-review-2026|教育�
 ### ナレッジベースとのつながり
 
 RL は、エージェントが単一の正しい応答ではなく長期的な学習を最適化しなければならない、現代の[[agentic-ai]]や[[intelligent-tutoring]]設計の多くを支えています。RL は[[llm-training-and-fine-tuning]]（訓練手法としての RL）、[[scaffolding]]（生産的な苦闘を保つ報酬設計）、[[self-regulated-learning]]（学習者が自身の方略を調整するのを助けるエージェント）と結びついています。報酬の設計が教育的価値を符号化するため、AIED における RL 研究は[[pedagogical-safety]]と、[[equity-in-ai-education|公平な]]チューター行動の公平性上の検討と緊密に結びついています。
+
+## よくある誤解
+
+**「ベースラインに並ぶことは、RLの方策が持つ価値のある何かを学んだことを意味する。」** それは報酬が満たされたことを意味します。テスト得点と時間効率で報酬を与えられた深層RLチューターは、**事後テストでBKTヒューリスティックに並び（A = .58 対 .58）**ながら、建設的な誤答例の修復に訓練問題の**4%**しか割り当てず、より安価な相互作用を好みました。方策は報酬として支払われたものを最適化し、支払われたものは生産的な活動を除外していました。
+
+**「報酬関数は技術的な細部である。」** それは教育学的な仕様です。報酬が重みづけるものが、方策の行うことになります。したがって得点、時間効率、関与、修復のどれを選ぶかは、学習とは何かについての明示的な立場を要求します。カリキュラムの決定が数として符号化されるのです。
+
+**「長い地平は単により良い。」** それらは短い地平にはできないことを可能にし、報酬が系列全体にわたって正しいことを要求します。[[residencyrl-clinical-rl-training-2026|ResidencyRL]]は**60ターン**の臨床遭遇を最適化し、並行する対話システムの12ターン以下の地平をはるかに超えています。これは、誤って指定された目的の費用を下げるのではなく、上げるのです。
+
+**「教授が逐次的であるから、RLは個別指導に適した形式である。」** 逐次性は必要であって十分ではありません。拘束する制約は報酬の妥当性です。弱い方策を伴うよく指定された目的は、誤った目的に対する強い方策に勝ります。
 
 ## 関連する概念
 

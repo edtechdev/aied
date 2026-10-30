@@ -1,14 +1,14 @@
 ---
 title: 生産的失敗
 created: "2026-10-10T22:45:45-04:00"
-updated: "2026-10-10T22:45:45-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_of: concepts/productive-failure
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -65,6 +65,7 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 
 - **リスク:AIがもがきを消し去る。** 過度に「助けになる」、オラクル式のAIが答えを直接供給すると、スキーマ構築に必要な生産的なもがきを消し去ることができ、[[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]]が**セーフティギャップ**と呼ぶものを生み出します——生徒のAI支援下での成績と、内面的で支援なしの能力との乖離です。これは[[cognitive-offloading]]につながります。努力の代わりになるAIは、教育が築く能力そのものを蝕みます。
 - **設計上の対応:もがきに足場をかけるAI。** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]は、生産的失敗に基づく学習を支援するAIのための5つの設計原則を導き出しました([[human-ai-collaboration|人間とAIの協働]]、[[usability-research|ユーザビリティ]]、内省的な設計、感情的な設計、開かれた知識)。AIは、非指示的な支援を提供しつつ、もがきを保つべきだと強調しています。[[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]は、[[llm]]の個別指導者が、生産的失敗の教授法(解決策の差し控え、複数の試みの引き出し)に従うよう*操縦*できることを示しました。知覚される助けになる性質を犠牲にしてです。CoMeT (Hou et al. 2026)は、その代償に値段をつけ、中間点を位置づけます。その段階的にエスカレートする個別指導者は、依頼に応じて答える個別指導者よりも0.42尺度ポイント苛立たしく(p < .001)、問うだけのものよりも0.29苛立たしさが低く(p = .011)、そのセッションの8.4%に苦痛が検出されました(答えを差し控える個別指導者の下では16.0%)。そして、セッションの6.1%で完全な答えを明け渡しました。明示的な降参の表明によって開く下限線は、同じ設計から導かれます。それなしには、最もその要求を必要とする学習者たちが、その周りを回る道を取るからです。
+- **差し控えの代償は、選好だけであって、苛立ちでも動機づけでもなかった。** 三群の[[rct|RCT]]では、ヒントを差し控えるチューターが、苛立ちの軽減において制約のない ChatGPT と同等で、内発的な動機づけを高めた唯一の群でした。それでも学生は、答えを与えるツールのほうが易しく（p = .003）、より助けになると評定しました（p = .004）（[[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]）。
 - **PF設計のための道具としてのAI:** [[rhaimi-productivemath-2025|ProductiveMath]]は、教師が質の高いPF問題を作成するのを助けるために[[generative-ai|生成AI]]を用います——生産的失敗の活動の設計が骨が折れるものであるという課題に対処して。
 - **刺激としてのAI生成の誤り:** [[pedagogy-ai-mistakes|AIの誤りの教育法]]は、AIの誤りと[[hallucination-risk|幻覚]]を、意図的に[[teacher-role|教育]]の道具として活用します。誤った成果物を認知的刺激として扱ることで、生産的失敗の考えと一致します。
 
@@ -89,6 +90,12 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 ## 関連する概念とのつながり
 
 生産的失敗は、[[learning-theories]](構成主義)、[[desirable-difficulties]](学習における困難を重んじること)、[[problem-based-learning]]と[[inquiry-based-learning]](学習者駆動の問題解決)、[[metacognition]](自分の試みについての内省)、[[cognitive-offloading]](AIがもがきを消し去るリスク)、[[scaffolding]](努力を保つ支援)、[[feedback]](精緻化された、訂正的な)、[[prior-knowledge]](活性化と分化)、[[transfer-of-learning]](永続的な帰結)、そして[[socratic-method]](推論を引き出すための問いかけ)につながります。AIの時代、それは中心的な評価のレンズです。AIは、永続的な学習が築かれるあのものがきを保つ仕方で助けになるでしょうか。
+
+## よくある誤解
+
+- **「助けを差し控えることは、学習者を苛立たせ、動機づけを損なう。」** 三群の[[rct|RCT]]では、ヒントを差し控えるチューターが**苛立ちの軽減において制約のない ChatGPT と同等で、動機づけも同等**でした。代償が現れたのは**選好においてだけ**です。学習者はそれをさほど楽しみませんでしたが、苦しみもしませんでした。つまり選好のデータは、機能した設計を却下していたでしょう。
+- **「苛立ちが増えるほど、学習も増える。」** 段階的にエスカレートするチューターは、**依頼に応じて答えるチューターよりも 0.42 尺度ポイント苛立たしく（p < .001）、最も苛立たしい群よりは 0.29 低い**ものでした。生産的な範囲は最大値ではなく中間であり、「望ましい困難」は課題を無期限に難しくする許しではありません。
+- **「生産的失敗とは、教師が助けるべきでないということである。」** この設計は*答え*を差し控えながら、構造とエスカレーションを供給します。ヒントを差し控えることと支援を差し控えることは異なる介入であり、ここにエビデンスがあるのは前者だけです。
 
 ## 関連概念
 
@@ -120,3 +127,4 @@ PFの枠組みは、**代理的な失敗**、**解決策の多様性**、**適�
 - [[wang-safety-gap-productive-struggle-2026]] — セーフティギャップ:生産的なもがきの回復
 - [[lukesova-clue-before-correction-2026]] — 訂正の前の手がかり:自律学習のためのChatGPT
 - [[pedagogy-ai-mistakes]] — AIの誤りの教育法
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — 解決策の差し控えは苛立ちの代償を避けたが、学生の選好では負けた

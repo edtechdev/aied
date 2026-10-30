@@ -1,7 +1,7 @@
 ---
 title: 認知的降伏
 created: "2026-10-10T22:31:16-04:00"
-updated: "2026-10-10T22:31:16-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -69,13 +69,15 @@ ai_assist:
 
 実際的な読みとしては、降伏は動機づけの失敗ではなく**識別の失敗**です。降伏した参加者は仕事を避けようとしていたのではありません。良い助言と悪い助言の区別がつかず、インターフェースはそれに挑戦する理由を何ら与えなかったのです。
 
+事前登録された実験([[braun-cognitive-dormancy-ai-affordances-2026|Braun(2026)]])は、対照的な配置を提供します。課題のワークシートに検索拡張で囲い込まれたアシスタントのもとでは、AI条件は認知的オフローディングを上げるのではなく下げ(中央値 −0.27)、非組織化の上昇(0.84)を運ぶオフローディングの経路はありませんでした。降伏には、助言を丸ごと採用できるアシスタントが必要です。現在の資料からしか答えないシステムは、学習者に採用するものを少なく、調整するものを多く与えます。
+
 ## 実験室の外での降伏
 
 実験室の知見は、独立に同じ語に手を伸ばした現場および観察の研究と一致します。
 
 - **集団水準での置き換え。** [[generative-ai-reduced-study-time-math|Rismanchian et al.（2026年）]]は、10年間のパネルにわたる320万件のALEKS学習インタラクションと1,220万件の[[assessment|配置評定]]の反応時間を分析し、グラフベースの問題をテキストベースの問題の対照としました。生徒はAIに影響されやすい仕事をより速く完了しそれでより高い得点を得た一方、監督された保持項目では正答のオッズが累積で25%低下しました。著者らはこのパターンを集団規模の認知的降伏と呼んでいます。
 - **識別変数としての検証。** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al.（2026年）]]は、生徒が生成的AIを*どのように*使うかが[[learning-gains|成績]]を予測する一方、*どれほど*使うかはどちらも予測しないことを見出しました。検証の乏しい受容 — 無批判に出力を受け入れること — はより悪い成果と結びつき、評価的な統合はより良い成果と結びつきました。
-- **思慮なき利用は自己方向づけに必要な資源を侵食する。** [[genai-thoughtless-use-self-directed-learning-2026|ZhaoとGu（2026年）]]は、評価を伴わない受け入れを直接モデル化しています。487名の学部生にわたって、生成的AIの思慮なき使用は[[self-regulated-learning|自律学習]]（β = −0.42）の低下と結びつき、[[motivation|動機づけ]]と[[self-efficacy|自己効力感]]の低下を通じて部分的にそうなりました。
+- **思慮なき利用は自己方向づけに必要な資源を侵食する。** [[genai-thoughtless-use-self-directed-learning-2026|ZhaoとGu（2026年）]]は、評価を伴わない受け入れを直接モデル化しています。487名の学部生にわたって、生成的AIの思慮なき使用は[[self-directed-learning|自律学習]]（β = −0.42）の低下と結びつき、[[motivation|動機づけ]]と[[self-efficacy|自己効力感]]の低下を通じて部分的にそうなりました。
 - **神経的および所有の痕跡。** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|認知的負債のEEG研究]]は、[[llm|LLM]]、検索エンジン、そして道具なしで[[writing-education|エッセイ執筆]]を測定しました。LLM群は最も弱い神経的結合を示し、自分の仕事の最も低い作者性を報告し、自分が書いたものを引用するのに苦労しました。
 - **降伏は求められずにやって来ることがある。** [[ai-advice-suppresses-ikt-suspension-2026|判断の保留に関する研究]]は、AIの助言が利用できるというだけで、人々が「分からない」と言う意思が崩れ落ちたことを見出しました（二つの研究にわたって0.06対0.36、0.03対0.44）。一方、正確さは下がり確信は約30から76へと上がりました。利害は保留を回復させませんでしたが、インセンティブは覆しを促すことで正確さを改善しました。第四の研究は、まったく相談なしでもこの効果が生じることを示しました。オートコンプリートや検索要約のパターンです。チャットのプロンプトではなく。
 - **依存的様式と自律的様式は結果においてのみ区別されうる。** [[family-school-autonomy-support-genai-2026|Fan、LiとZhang（2026年）]]は、三つの波にわたって589名の生徒と若手の知識労働者を追跡しました。依存的オフローディングは中核的な思考を委任し、低い内発的動機づけと結びつきました。一方、自律的オフローディングはそうならず、即時の成績は両方で同じように見えました。
@@ -140,3 +142,4 @@ ai_assist:
 - [[brcic-effortless-trap-productive-struggle-2026]] — 課題が労力を要するものにとどまるようAIを配置すること
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — 較正訓練
 - [[family-school-autonomy-support-genai-2026]] — 依存的オフローディングと自律的オフローディング
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — ワークシートに接地されたアシスタントはオフローディングを上げるのではなく下げた、降伏の特徴にとっての境界条件(Braun 2026)

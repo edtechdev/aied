@@ -1,7 +1,7 @@
 ---
 title: 計算論的思考
 created: "2026-10-10T22:25:49-04:00"
-updated: "2026-10-10T22:25:49-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,13 @@ AI時代のCTの中心的な目標は、学生と教員をAIの出力の*受動�
 計算論的思考は、[[ai-literacy]]と[[critical-thinking]]の下に共有される認知的基盤であり、[[cs-education]]と[[k-12]]のコンピュータ教育のカリキュラム的中核であり、[[educational-robotics]]、[[game-based-learning]]、[[project-based-learning]]が最もよく奉仕するよう設計されるべき概念的標的です。それは、[[llm|大規模言語モデル]]と[[generative-ai]]が足場かけの道具として使われるときに深化し、学生の誤概念の分類とCTを意識した評価が測定を目指すスキルです。教員は[[teacher-education]]と[[professional-training]]を通じてそれを育て、[[physics-education]]や広く[[stem-education|STEM]]を含む領域を越えて移転します。
 
 - **計算論的思考はAIアシスタントによる学習を予測する。** [[computational-thinking-aica-2026|8年生の学生]]で計算論的思考が高い者は、低CTの同輩を有意に上回る成績をAIコーディングアシスタントのコースで収め、答えの取得ではなく理解のためにアシスタントを用いました。
+
+## よくある誤解
+
+- **「AIは計算論的思考を不要にする」。** [[chat-debugging-human-ai-collaboration-circuits|チャットデバッグの研究]]では、学部生がLLMの助けを借りて回路をデバッグしたとき、制約要因となったのはツールではなく、**基本的な概念と批判的思考の欠落**でした。CTこそが、学習者に出力を受け入れるのではなく評価させる能力であり、それはAI支援をそもそも使えるものにする能力そのものです。
+- **「AI支援は資源の乏しい環境で条件を均す」。** それは条件次第で可能です。**ナイジェリアの1年生学部生103名を対象とした14週間の準実験**では、AI支援の問題ベース学習(ChatGPTとTeachable Machine)が成果を生み、他の支援がないところでは「より有能な同僚」としてのAIがCTを担います。しかしそれは構造化された介入についての知見であり、学生にチャットボットを渡すことの性質ではありません。
+- **「LLMはCTを信頼できる形で評価できない」。** [[llm-computational-thinking-physics-2026|物理のCT評価研究]]は、LLMが大規模履修コースにおいて、データの実践と計算による問題解決の実践の成長を採点する際に**人間の評価者と同様の結果を示せる**ことを見出しました。CT評価の規模拡大を妨げてきたのは評価者の処理能力であり、その制約は和らぎつつあります。それにより設計上の問いは、評価指標が従順さではなくCTを測っているかどうかへと移ります。
+- **「CTはロボティクスがたまたま教えるコーディング技能である」。** **95件の研究のシステマティックレビュー**は、ロボティクスがCT、創造性、問題解決を育むことを確認する一方で、**設定が成果を調整する**ことも示しています。[[game-based-learning|ゲームベース]]の実施は非公式の場に適し、ゲーミフィケーションは公式の場では異なります。CTは不均等に転移する実践の集合であり、転移の主張には実際に用いた課題設計が必要です。
 
 ## 関連概念
 

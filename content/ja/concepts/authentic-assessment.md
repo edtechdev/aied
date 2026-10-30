@@ -1,7 +1,7 @@
 ---
 title: 真正な評価
 created: "2026-10-10T22:04:01-04:00"
-updated: "2026-10-10T22:04:01-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -100,6 +100,12 @@ ai_assist:
 - **真正な評価は実践指向の分野に適する。** [[mesny-innovative-assessment-grading-management-2026|Mesny、Roberge-Maltais、Galy(2026)]]は、真正な評価が[[business-education|マネジメント教育]]にとくに適していると見いだしました。現実の専門的な問題を映す課題(生のコンサルティングプロジェクト、幹部へのブリーフィングを伴う[[visualization|ダッシュボード]])は、この分野の実践指向で[[career-development-and-readiness|雇用可能性]]を重視する性質と一致し、生成AI時代に試験中心の評価に代わる包摂的で誠実性を保つ代替案を支えられます。しかし、四つのマネジメント教育のジャーナルからの58本の論文のレビューでは、真正な評価は主に技術を媒介とした[[simulation|シミュレーション]]を通じて現れ、[[experiential-learning|経験学習]]と混同されることが多くありました。この用語のギャップは、その広い価値と普及を覆い隠しかねません。
 
 - **真正性はセキュリティではなく、そのギャップは部門の規模で見える。** 上記の単一学位の監査が課業評価の90%が突破可能であると判明したのに対し、[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva(2026)]]は、録画された発表、遠隔のグループプロジェクト、監督されていないデジタル成果物を、53,915項目にわたって高露出の帯に位置づけます。というのも、公開された記録には、生産がどのように監督されたかについて何も示されていないからです。
+
+## よくある誤解
+
+- **「真正性とは現実的な課題のことである。」** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan、Boud、Du（2025）]]の**37件の実証研究（2000〜2024年）**のスコーピングレビューは**六次元**の設計モデルを提案しており、**37件のうち社会的真正性**（評価が学生の社会変革への貢献を助けるかどうか）に取り組んだのは**3件のみ**でした。現実性は一つの次元であり、最も進んだ次元はほとんど研究されていません。
+- **「真正な評価はAIに抵抗する。」** 露出は測定可能で大きく、**3年間の心理学の学位**は**90%が突破可能**であることが判明し、ChatGPTは**40件の課業評価のうち36件で十分な出力**を生み出し、残りの課題だけが耐えました。学位の評価の大部分がAIで満たしうるものでした。
+- **「課題が現実世界のものであれば、再設計は任意である。」** 36/40という結果は、真正性が疑われていなかったはずの課業で見出されました。課題の現実性はAIによる完了を防がず、何を評価するかの設計が防いだのです。
 
 ## 関連する概念
 - [[learner-identity]] — 進化する学問的・専門的・創造的・学術的な学習者のアイデンティティ

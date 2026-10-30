@@ -1,14 +1,14 @@
 ---
 title: 身体性に基づく学習
 created: "2026-10-10T22:52:40-04:00"
-updated: "2026-10-10T22:52:40-04:00"
+updated: "2026-10-30T03:37:03-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -51,32 +51,40 @@ ai_assist:
 - **身体化、状況づけ、社会的構成。** [[science-education|科学の学習]]では、AI の道具は「媒介する人工物」として機能し、デジタルの実践の共同体と境界横断を可能にし、身体化された真正の探究を現実世界の学際的な文脈につなぎます。（[[li-ai-science-situated-learning-teachers-2025]]）これは身体化を[[situated-learning|状況づけられた学習]]と[[distributed-cognition|分散認知]]に結びつけます。
 
 身体性に基づく学習は、[[educational-robotics|教育ロボット]]、[[educational-robotics|教育ロボット]]、[[educational-robotics|教育ロボット]]、[[active-learning|アクティブラーニング]]、[[experiential-learning|経験学習]]、[[situated-learning|状況づけられた学習]]、[[distributed-cognition|分散認知]]、[[computational-thinking|計算的思考]]、[[social-emotional-learning|社会情動的学習]]につながります。
+- **身体追跡は自己調整を測定可能な信号に変える。** 動きのタグが学生のエージェントを投影されたモデル上で動かす混合現実の光合成シミュレーションでは、LLMのパイプラインが40分の映像から自己調整行動の470のセグメントをラベル付けし、支配的な調整が66.4%を占めました([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fontelesら (2026)]])。
+
+## よくある誤解
+
+- **「身体こそが身体性に基づく学習を機能させる」。** **11のRALL研究(N = 595、g = 0.83、I² = 84.4%)**のメタ分析は、**ロボットの形態、モダリティ、自律性、社会的役割が**第二言語の学習成果を**調整しなかった**ことを見出しました。身体化の特徴は有効成分ではなく、異質性は十分に高い(I² = 84.4%)ため、プールされた効果は非常に混ざった介入の集合を記述しています。
+- **「大きな効果は機構を決着させる」。** 11の研究、595名の参加者におけるg = 0.83は実在する信号ですが、何がそれを生んだかは特定しません。設計上の特徴が効果を調整しなかったため、もっともらしい機構はハードウェアではなく教授活動の側にあり、それは何に投資すべきかを変えます。
+- **「身体性は測定できないので理論に留まる」。** 身体追跡は自己調整を**測定可能な信号**に変えられます。動きのタグが学生のエージェントを投影されたモデル上で動かす混合現実の光合成シミュレーションでは、LLMのパイプラインが自己調整行動の**470のセグメント**をラベル付けしました。構成概念は、定義が難しいところでも操作化できます。
 
 ## 関連概念
 
-- [[educational-robotics|教育ロボット]]
-- [[active-learning|アクティブラーニング]]
-- [[experiential-learning|経験学習]]
-- [[situated-learning|状況づけられた学習]]
-- [[distributed-cognition|分散認知]]
-- [[computational-thinking|計算的思考]]
-- [[social-emotional-learning|社会情動的学習]]
-- [[learning-theories|学習理論]]
-- [[multimodal|マルチモーダル]]
-- [[assessment-validity|評価の妥当性]]
-- [[virtual-and-augmented-reality|仮想現実と拡張現実——身体化を直接に活用しようとするモダリティ]]
+- [[educational-robotics]] — 教育ロボット
+- [[active-learning]] — アクティブラーニング
+- [[experiential-learning]] — 経験学習
+- [[situated-learning]] — 状況づけられた学習
+- [[distributed-cognition]] — 分散認知
+- [[computational-thinking]] — 計算的思考
+- [[social-emotional-learning]] — 社会情動的学習
+- [[learning-theories]] — 学習理論
+- [[multimodal]] — マルチモーダル
+- [[assessment-validity]] — 評価の妥当性
+- [[virtual-and-augmented-reality]] — 身体化を直接活用する仮想現実と拡張現実のモダリティ
 
 ## 関連記事
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 動きを追跡した光合成シミュレーションをLLMパイプラインで分析(Fontelesら 2026)
 
-- [[multimodal-embodied-cognition-oral-explanations-2026|口頭説明における身体化認知のマルチモーダル枠組み]]
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning|身体性を持つ知性を通じた持続可能な学習の育成（E3-HOT）]]
-- [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]
-- [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]
-- [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]
-- [[pepper-robot-sign-language-lis-2025|Pepper と手話]]
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|創造的なライティングにおけるロボットと LLM の統合]]
-- [[robot-assisted-language-learning-meta-analysis-2026|AI で強化された身体化ロボット支援言語学習のメタ分析]]
-- [[vargas-situated-learning-ai-review-2024|AI の状況づけられた学習レビュー]]
-- [[li-ai-science-situated-learning-teachers-2025|科学教育における AI と状況づけられた学習]]
-- [[vargas-ai-catalyst-situated-learning-2026|AI を触媒とした状況づけられた学習]]
-- [[videla-embodied-ai-education-choreography|教育における身体化された AI の振付]]
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — 口頭説明における身体化認知のマルチモーダル枠組み
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 身体性を持つ知性を通じた持続可能な学習の育成（E3-HOT）
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio（会話型ブロックロボティクスによる計算的思考）
+- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo（デジタルストーリーテリング・ロボットと動機づけ）
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind（いじめ対策に向けたロボット媒介ロールプレイ）
+- [[pepper-robot-sign-language-lis-2025]] — Pepper と手話
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 創造的なライティングにおけるロボットと LLM の統合
+- [[robot-assisted-language-learning-meta-analysis-2026]] — AI で強化された身体化ロボット支援言語学習のメタ分析
+- [[vargas-situated-learning-ai-review-2024]] — AI の状況づけられた学習レビュー
+- [[li-ai-science-situated-learning-teachers-2025]] — 科学教育における AI と状況づけられた学習
+- [[vargas-ai-catalyst-situated-learning-2026]] — AI を触媒とした状況づけられた学習
+- [[videla-embodied-ai-education-choreography]] — 教育における身体化された AI の振付

@@ -1,7 +1,7 @@
 ---
 title: AI の誤用を減らす
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-10-10T22:45:44-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ ai_assist:
 ### なぜ構造的な梃子が最も重要か
 
 介入は**因果的な証拠 × 構造的な及ぶ範囲 × 拡張性 × [[sustainability|持続可能性]]**によって分類できます。この基準で、二つの*構造的な*梃子が最上位に位置します。それらは、学生が正しい行動を選ぶかどうかにかかわらず機能するからです——内的な動機に依存するのではなく、環境を制約するのです。*教育的な*梃子は不可欠ですが、学生が納得する場合にのみ効果的であるため、概念的な見込みにもかかわらず、第二層として扱われます。[[coates-governing-academic-integrity-indicators-2025|Coates、Croucher & Calderon（2025）]]は、構造的な議論を一段上に押し上げ、学生の行動ではなくガバナンスを拘束的な制約として扱い、130 項目のインテグリティ指標の枠組みを提案します。それにより、学務の統治者が、評価が真正なものであるか、学生を評価する教員が学生を個人として知っているか、そしてインテグリティが履修指導とオリエンテーションに組み込まれているかどうかを見られるようにするためです。彼らの改革は、ガバナンスの構造、人、そして[[ai-technologies|技術と資源]]を標的とし、サイバーセキュリティから[[guardrails|レッドチーミング]]を借りることを提案します。学生に見つけられる前に、評価の脆弱性を露わにするためです——構造的な下地は、それを維持するための情報と意思の両方を必要とする機関によって維持されるという、心に留めておくべきことです。
+責任ある利用の文献自体は、この順位づけが前提とする連鎖をめったに検証していません。31件の研究から取った122件のアプローチの記録のうち、実装と評価の両方が行われたのは51件で、その大半は自己報告によるものでした。境界を定義し、それに沿って介入を設計し、学生の判断がそれと整合したかを検証した研究は、わずか4件でした（[[tie-responsible-genai-use-academic-writing-review-2026|Tie、Gil Ortega & Zhao（2026）]]）。
 
 ### 第 1 層——学習上の害を減らすことが直接に証明されているもの
 
@@ -88,7 +89,7 @@ ai_assist:
 **指導者とコースチームのために**
 
 - 政策の文言ではなく、評価から始めてください。評点対象のあらゆる課題について、補助なしの版が証明しようとしていることを示すかどうかを問い、まず課題を直してください。それは学生の同意を必要としない梃子です。
-- AI チューターが利用できるところでは、「答えではなくヒント」のツールを採用してください。ガードレールのある指導とない指導に関するフィールドの [[rct]] は、この領域で最も強い因果的証拠です。
+- AI チューターが利用できるところでは、「答えではなくヒント」のツールを採用してください。ガードレールのある指導とない指導に関するフィールドの RCT は、この領域で最も強い因果的証拠です。
 - 学生の誤用だけを唯一の脅威として扱う前に、自分の採点パイプラインが提出ファイルに注入された指示に耐えるかを点検してください。
 - AI が許可された成績と補助なしの成績を二つの異なる測定として扱ってください。上記の 18% と 20% の分裂は、両方を集めなければ見えません。
 
@@ -149,3 +150,4 @@ ai_assist:
 - [[li-genai-assessment-language-equity-2026]] — Where language support ends and substitution begins for EAL writers (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection as a misuse vector against AI grading (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance as the binding constraint on integrity: a 130-item indicator framework (Coates, Croucher & Calderon 2025)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — 学術的な執筆における生成AIの責任ある学生利用：境界、教育的アプローチ、証拠の空白に関するスコーピングレビュー

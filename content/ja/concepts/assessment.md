@@ -1,7 +1,7 @@
 ---
 title: 評価
 created: "2026-10-10T21:52:56-04:00"
-updated: "2026-10-10T21:52:56-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 connected_resources: [idstack, lesson-md, master-instructional-design]
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -39,11 +39,12 @@ ai_assist:
 ## はじめに
 
 評価は、2つの理由から教育におけるAIにとって中心的なものです。第一に、AI自体が生徒を評価するために使われます——小論文、コード、短答問題、試験を規模に応じて採点します。第二に、教室におけるAIは、生徒が[[generative-ai|生成AI]]を使って成果物を作るかもしれないために、評価が妥当に測れるものを変えます。したがってこの分野は、評価を自動化する*道具*と、AIが提起する*妥当性と誠実性*の問いの両方にわたります。
+高等教育の評価研究 72 件の PRISMA レビューでは、教育者が評価のサイクル全体（評価の作成、練習、採点、学習とフィードバックの透明性）にわたって生成AIを用いていたことが見出され、評価の作成とフィードバックが最も頻繁に同定されたアフォーダンスでした（[[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]）。
 
 ## 評価におけるAIの使い方
 
 - **自動化された評価:** [[automated-assessment|AIに基づく評価]]は、多肢選択、短答、小論文、コード、パフォーマンスに基づく評価まで、複数の様式にわたります——[[automated-assessment|自動採点]]、[[automated-essay-scoring|自動小論文採点]]、[[automated-question-generation|自動問題生成]]を通じて。
-- **形成的評価:** [[formative-assessment|AIシステム]]は、形成的な評価項目を規模に応じて生成・検証・適応させ、[[summative-assessment|総括的]]な評価だけでなく、進行中の指導に情報を与えます。
+- **形成的評価:** [[ai-technologies|AIシステム]]は、形成的な評価項目を規模に応じて生成・検証・適応させ、[[summative-assessment|総括的]]な評価だけでなく、進行中の指導に情報を与えます。
 - **学習分析と測定:** [[learning-analytics|学習分析]]と[[educational-measurement|教育測定]]は、評価のデータを学習の過程に結びつけ、[[item-response-theory|項目応答理論]]、[[knowledge-tracing|知識追跡]]、[[student-modeling|学習者モデル化]]を用いて成績を解釈します。[[razavi-powers-item-difficulty-llm-2026|Razavi and Powers(2026)]]は、測定の入力としてのLLMによる項目難易度推定を実証しています。RaschのIRTモデルで較正された5,170問のK-5の数学と読みの項目にわたり、GPT-4oのゼロショットの評定は真の難易度と中程度から強い相関を示し(r = 0.83 数学、r = 0.81 読み)ましたが、学年によって異なりました。一方、特徴に基づくアプローチ(LLMで抽出した特徴を木構造モデルに入れるもの)は、r = 0.87に達する相関を得ました。この調査は、試験の専門家のための実用的な7段階のワークフローを提供するとともに、K-5の数学と読みを超える一般化可能性は不明であると注意しています。
 - **フィードバックのループ:** AIによる評価は、ますます、評価から学習へと循環を閉じる[[feedback|フィードバックのループ]]に流れ込みます。
 - **電子ポートフォリオ評価:** [[eportfolio|電子ポートフォリオ]]は、時間をかけて生徒の成果物と省察を集め、過程に基づいたAIに頑健な評価形式とします。生成AIは、ポートフォリオの*過程*を助けることができます——フィードバックを生成し、[[scaffolding|省察に足場をかけ]]、そして(適切なルーブリック設計によって)評価を支える——一方、ポートフォリオが推論の痕跡と下書きに置く重点は、AIによる捏造に抵抗します。[[ni-lam-multiliteracies-ai-portfolio-2026|AI支援によるポートフォリオ評価]]と[[sutama-chatgpt-eportfolio-speaking-2026|EFLのスピーキングのためのChatGPT+電子ポートフォリオ]]は、AIがポートフォリオの体験と学習者の[[feedback-literacy|フィードバック・リテラシー]]の両方を高められることを示しています。
@@ -55,6 +56,7 @@ ai_assist:
 AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。AIで採点された評価は、生徒の学習を測っているのか、それとも[[prompt-engineering|AIにプロンプトを与える技能]]を測っているのか。生徒のAI利用は、従来型の評価を無効にするのか。主要な課題には次のものがあります。
 
 - **構成概念の妥当性:** [[competency-based-education-genai-production-2026|能力ベースの教育に関する研究]]は、生成AIが成績と背後にある能力との間の推論を断ったことを示しています——学習者は、その道具がなければ再現できない専門職水準の成果物を提出するかもしれません。これは、何の能力が評価されるのかを再概念化する動機づけとなります。
+- **評価を再整列させるための三頂点の枠組み。** [[koretsky-genai-stem-assessment-2026|Koretskyら（2026）]]は、遍在する生成AIを不正ではなく妥当性と能力の定義の問題として扱い、評価の三角形の三つの頂点、すなわち認知、観察、解釈は、一つずつ継ぎ当てするのではなく共に再整列されなければならないと論じます。
 - **共著と誠実性:** [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|共著における誠実性]]は、生徒が理解しないAI生成の内容を提出するときに侵害される、新たな妥当性の証拠の源泉を提案し、対応策として対話的な「AIビーバ」を探究します。
 - **心理測定的な質:** [[psychometrically-aware-ai|心理測定を意識したAI]]と[[automated-assessment|確信度を意識した評価]]の研究は、AIの採点を信頼でき、偏りがなく、解釈可能なままに保つことに努めます。
 - **AI評価者の評価:** [[ai-ed-evaluation]]は、自動化された評価者が実際に機能するかどうか——信頼性、[[pedagogy|教授法]]、[[equity-in-ai-education|公平性]]において——を、見出しの正しさだけではなく決めるための方法と[[benchmark|ベンチマーク]]を提供します。
@@ -78,6 +80,7 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - **評価の対象から導き出される、課題レベルのAIの許可:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle(2025)]]は、[[educational-policy-ai|AI政策]]に先立つ評価設計の作業を示しています——プロジェクト内のすべての課題を棚卸しし、何がどの目標に対して評価されるのかを特定し、その根拠に基づいて課題ごとにAIを許可または禁止すること(ブレインストーミングと画像の選定は許可、学習目標の作成とスライドのデザインは不可)。同じ整合化の作業は、評価が支える推論の点検を兼ねます。なぜなら、ある成績が保証することを意図した成果を、教員に名指しさせるからです([[assessment-validity]])。
 - **言語的な様式を超える評価:** Jiang et al.(2026)は、第二言語の教員のためのマルチモーダルな評価リテラシーを、言語的、視覚的、聴覚的、身振り的、空間的な様式にわたって応答を引き出す課題のための知識、価値、能力として定義します。30人の香港の英語教員による1年間のプログラムは、評価の方略についての知識を5点満点で3.13から4.15へ(偏イータ二乗 = 0.571)、生徒を支える能力を3.05から3.98へ(0.482)高めましたが、3つの価値の下位領域はすべて横ばいのままでした。教員自身の経験は、枠組みに2つの次元を加えました——競合するカリキュラム上の優先事項に対して実践を維持することと、GenAIを批判的に動員すること——です([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al.(2026)]])。
 - **共著と宣言**を、評価の契約の一部として
+- **相互作用を評価する、過程に基づくルーブリックの基準。** [[rubrics-genai-process-based-assessment-2026|Oviedo & Díaz（2026）]]は、Biggsの3Pモデルを三つの重要な評価次元として読み解きます。人間の主体性と批判的な監督、[[prompt-engineering|プロンプト工学]]に結びついた対話的な足場かけ、そして[[academic-integrity|誠実性]]と透明性に根ざした認知的自主性です。完成したファイルはもはや、誰の推論がそれを生んだかについての情報を運ばないと論じています。
 - **能力としての制作** — 学習者が道具を操り専門職水準の仕事を生み出す能力を評価すること([[competency-based-education-genai-production-2026]])
 - **成果物だけでなく、相互作用の過程を評価する** — [[assessing-student-drive-framework-2025|DRIVEの枠組み]](Directive Reasoning Interaction + Visible Expertise)は、生徒の*GenAIとの関与*の質を、評価される構成概念として扱います。それは、生徒がプロンプトを戦略的に操るか(DRI)どうか、そしてやり取りを通じて自分の学問的な考えを統合し展開するか(VE)どうかに注目することで、表層的な消費と深く内省的な相互作用を区別し、過程に焦点を当てた基準を、[[self-directed-learning|自己主導的学習]]と[[icap-framework|ICAP]]の階層に沿った認知的関与の理論に根ざします。これによりDRIVEは、*AIを介した本物らしい評価*の例となります——検知の道具ではなく、学習者がGenAIとどう提携するかを評価するためのルーブリックです。
 
@@ -92,6 +95,12 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - **革新的な実践は、複数の問題に同時に取り組みうます。** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy(2026)]]は、[[authentic-assessment|本物らしい評価]]、自己評価と[[peer-assessment|仲間評価]]、再評価、[[mastery-learning|基準に基づく採点]]、そして評価を与えないこと(ungrading)という、互いを強め合う5つの実践の組が、「学習のための評価」というパラダイムに沿うことで、生成AI時代に、従来型の総括的で規範参照的な採点の害(表層的な学習、侵食された[[motivation|内発的な動機づけ]]、ストレスと不安、不平等、損なわれた[[academic-integrity|誠実性]])に対抗しうると論じています。彼らは、分野によって採用のむらがあることを見いだしています——自己評価と仲間評価が主流である一方、採点に焦点を当てた革新は周辺にとどまる——そして、教育者に対して、段階的な実験と[[governance|制度的]]な支援に支えられ、評価と採点の革新にもっと積極的かつ相互的に関わるよう求めています。
 
 - **AIを介した評価は多様化しています。** [[aivaluate-anxiety-assessment-2026|AIvaluate]]は、LLMで拡張された[[conversational-ai|対話エージェント]]が、パフォーマンスに基づく評価中の生徒の不安を減らしたことを示しています。[[asynchronous-oral-assessment-2026|Pentland(2026)]]は、非同期の口頭評価がより高い関与を提供し、専門職に関連すると知覚されたことを見いだしています。[[graph-its-adaptive-algorithms-2026|グラフベースのITS]]は、適応的な知識状態の追跡を用いて評価に情報を与えます。
+
+## よくある誤解
+
+- **「誠実性は主に検知の問題である。」** **26人の学生へのスクロールバック・インタビュー**は、学生がGenAIを使った評価を**スペクトル**に沿って判断しながら進むことを明らかにし、**157人の学生**を通じて、GenAIが*どう*使われるか、すなわち**理解を支える評価的な統合か、それとも置き換えか**が成果を予測しました。利用の様式は、利用の有無よりも鋭く学生を分けます。
+- **「非母語の英語話者が不正のリスクである。」** **25研究のPRISMAレビュー**は、検知の議論が見落とすリスク要因を加えます。非母語話者は、言語の要求に苦しむときに**誠実性を破る高い傾向**を示しました。それは誠実さの問題と読み違えられた、言語支援の問題です。
+- **「GenAIを禁じる政策が問いを決着させる。」** 学生は規則に従うパターンではなく、判断のスペクトルを報告します。したがって、学生がすでに行っている評価的な推論に関わらない規則は、一貫して従われることはありません。
 
 ## 関連する概念
 
@@ -144,3 +153,5 @@ AIは根本的な[[assessment-validity|妥当性]]の問いを提起します。
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — AIはあなたの宿題をできる。さてどうする?生成AIの時代の情報科学の評価に関するオンラインワークショップの報告
+- [[koretsky-genai-stem-assessment-2026]] — 評価を再整列させるための三頂点の枠組み
+- [[rubrics-genai-process-based-assessment-2026]] — 成果物ではなく相互作用を評価するルーブリックの基準

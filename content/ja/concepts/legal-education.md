@@ -1,7 +1,7 @@
 ---
 title: 法学教育
 created: "2026-10-10T22:38:12-04:00"
-updated: "2026-10-10T22:38:12-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Gutowski and Hurleyは、0–5のルーブリックで5つの次元にわたっ�
 
 **評価の妥当性は専門的な能力と切り離せない。** 法科大学院中の[[cognitive-offloading|過剰な依存]]は、独立した法律の分析と弁論を要する仕事に対して卒業生を準備不足にすると恐じられており、流暢な出力に報いる採点は、学生の理解をモデルの理解から区別できません。それゆえ[[assessment-validity|妥当性]]の問いは、学問的なものではありません。
 
+法的文脈の実験では、裁判所の民事事件についての186人の一般の意思決定者は、システムが自分の立場を伏せたときに、誤った AI の立場に従うことがはるかに少なくなりました（5.7〜8.2% 対 42.0〜60.5%）。しかし測定可能な判断は築かれませんでした。矯正的ではなく防御的であり、法学生ではなく一般の意思決定者で測定されたものです（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuoら、2026]]）。
+
 **開示の規範は不確定で影響が大きい。** Gutowski and Hurleyは、AIのどんな利用も開示されなければならないかどうかについての不一致、学生の開示様式の提案、そして引用の実践についての合意の欠如を報告しています。Bluebookは今も生成AIの引用について沈黙しています。彼らはまた、開示の要件が最終的に、学生が検索エンジンを使ったと書き添えるのと同じくらい無意味に見えるようになると予測しており、これは今書かれている規則の賞味期限についての予測です。
 
 **専門の倫理は卒業生と共に移動する。** ABAの技術的な能力の義務と、秘密性・監督・裁判所に対する誠実さに関するその指針は、これらの道具を使う開業する法律家に適用され、法科大学院はそれらを教える仕事を引き継ぎます。これが、この分野がこのナレッジベースの[[ai-use-disclosure|AIの利用の開示]]に関する仕事と、制度がAIをまずく統治するときに生じる[[legal-issues-and-risks|法的な問題とリスク]]に関する仕事に直接つながる理由です。
@@ -78,6 +80,12 @@ Gutowski and Hurleyは、0–5のルーブリックで5つの次元にわたっ�
 - AIに支援されたリーガルライティングの課程は、資格が想定する分析をなお涵養するのでしょうか、それとも司法試験も検出できない流暢さを訓練するのでしょうか。
 - 準備の読書が日常的に委譲されるなら、ソクラテス的な教授に何が起こるでしょうか。そして教室がそれについて沈黙していることは、測定の問題でしょうか、それとも設計の問題でしょうか。
 - 法学教育は、[[ai-education|教育におけるAI]]を訴追し規制する人々を生み出します。それは、このナレッジベースの法的リスクに関する仕事が検証される当然の場所でしょうか、それとも注意を最も声高な方針を持つ法科大学院へと歪めるでしょうか。
+
+## よくある誤解
+
+- **「法科大学院は立場を定めている。」** 大多数は**おおむね禁止的な立場**を採用し、しばしば**技術を研究するための時間を稼ぐこと**として説明され、一方で**ほぼすべての方針が個々の教員に裁量を留保**していました。教員の上書きを伴う禁止は定まった立場ではなく、既定値を伴う先送りです。
+- **「調査の証拠がこの分野を記述する。」** **ABAの2024年調査は29校のみから回答を得ており、それはABA承認の法科大学院のおよそ15%**であり、**800人**の実務家へのLexisNexis調査は別の集団を測っています。どちらも法学教育を代表するものとして扱えず、両方がそうであるかのように引用されています。
+- **「AIの推薦を伏せることは中立である。」** 法的文脈の実験では、**裁判所の民事事件についての186人の一般の意思決定者**は、システムが自分の立場を伏せたときに誤った AI の立場に従うことがはるかに少なくなりました（**5.7〜8.2% 対 42.0〜60.5%**）。伏せることは中立を生まず、服従の大きな減少を生みました。それ自体が一つの効果なのです。
 
 ## 関連概念
 
@@ -100,3 +108,4 @@ Gutowski and Hurleyは、0–5のルーブリックで5つの次元にわたっ�
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
 - [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — システムの立場を伏せると、法的文脈の意思決定で過度の依拠が抑えられるが、判断は築かれない（法学生ではなく一般の意思決定者）

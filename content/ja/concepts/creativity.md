@@ -1,7 +1,7 @@
 ---
 title: 創造性
 created: "2026-10-10T22:25:50-04:00"
-updated: "2026-10-10T22:25:50-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_of: concepts/creativity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -77,6 +77,12 @@ ai_assist:
 ### 関連
 
 創造性は[[critical-thinking]]および[[constructivist]]な学習とつながります。それは学びを守るのと同じ[[reducing-ai-misuse]][[scaffolding|スキャフォールド]]によって保護され、磨かれた成果物よりも独自の推論を報いる[[authentic-assessment]]の設計によっても保護されます。
+
+## よくある誤解
+
+- **「学生に摩擦を与えれば創造的な利得が生まれる」** **摩擦は創造的な利得ではありません。** 逆張り型のAIペルソナは**38.2%のグループ**で挑戦と内省の言説を促しましたが、**測定可能な創造的パフォーマンスの改善は生みませんでした**。言説は変わり、測定された成果は変わりませんでした。
+- **「K–12の文献は、生成AIが創造性を高めると確立している」** **45件の研究（2017–2025）**を対象としたPRISMA準拠のスコーピングレビューは、生成AIが主に創造性を**増強**し、それを**測定することは稀**であることを示しています。この分野の支配的な知見は、知覚された増強からの推論であり、成果の測定ではありません。
+- **「生成AIへの依存が増すほど、創造的な出力も増える」** **1,157人の中国人大学院学生**の間で、生成AIへの依存は**自己申告された研究創造性と正の関連**を持っていました。そしてその関連は**自己申告**に対するものであり、これはこの構成概念について利用可能な最も弱い指標です。
 
 ## 関連概念
 

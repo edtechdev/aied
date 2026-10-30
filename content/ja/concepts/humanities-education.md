@@ -1,14 +1,14 @@
 ---
 title: 人文科学と社会科学の教育
 created: "2026-10-10T22:38:05-04:00"
-updated: "2026-10-10T22:38:05-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,18 @@ SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面
 - **出典の仕事でAIを意図的に使う。** [[paternalistic-filter-llm-history-education|歴史の研究]]は、AIが推論と出典の解釈を形づくりうることを示します。学生に、AIが媒介する歴史的な主張とそれが適用するフィルターを問い質すよう教えてください。
 - **学生向けの影響を考慮する。** [[genai-impact-chinese-students-hss|学生の経験の研究]]は、GenAIがSSHの学習者にどう影響するかを記録します。想定ではなく実際の利用に合わせて支援と誠実性の枠づけを適応させてください。
 
+## よくある誤解
+
+**「人文科学は、カリキュラムの中で最もAIに晒されていない部分である。」** 晒され方は測定されており、拡散的ではなく集中しています。[[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]]は、その晒され方がどこにあるのかを確定するために**15,587件のArts and Humanitiesの科目の記録**を監査しました。それは薄く広がっているのではなく、科目ごとに不均等に分布しており、そのことが評価の再設計を、分野全体の問題ではなく標的を絞った問題にしています。
+
+**「人文科学教育におけるAIは、技術中心の増強である。」** このページが依拠する立場の論文は、その転換が増強ではなく*知的な変革*であると論じ、[[ai-literacy|デジタルの流暢さ]]を中核的なリベラルアーツの力量として位置づけています。変えられていない授業に道具を付け加えることは、変革をその道具と取り違えています。
+
+**「価値教育は、内容としてモデルに手渡せる。」** [[genai-values-education-affordances-risks-2026|Chen (2026)]]は、価値教育を三つの条件、すなわち応答責任、模範性、呼びかけを備えた関係的な実践として捉え直し、GenAIの五つのアフォーダンスのそれぞれが一つの関係を置き換えるものとして読み解きます。シミュレートされた視点は、害を被りうる利害関係者を置き換えるのです。
+
+**「AIが最も脅かすのは批判的分析であるため、それは制限されるべきである。」** 批判的分析はまた、課題がそれを平板化するのではなく深めるように設計されているとき、意図的な利用が最も育むものでもあります。[[human-in-the-loop-ai|ヒューマン・イン・ザ・ループ]]モデルは、この学問分野の貢献を、道具の出力ではなく学習者の判断に位置づけます。
+
+**「汎用モデルは、要約と同じくらいテキスト学問にも有用である。」** 解釈には読み手の位置が必要であり、読みを代行する支援の層は、この学問が教えるために存在する解釈の行為をすでに済ませてしまっています。
+
 ## 関連する概念
 
 - [[higher-ed]]
@@ -75,3 +87,4 @@ SSHの教育は、生成AIがもっとも挑戦する能力そのものを前面
 - [[genai-impact-chinese-students-hss]] — 人文科学と社会科学の学生へのGenAIの影響
 - [[acceptance-ai-english-tools-2026]] — 言語と人文科学の学習者の間でのAIの受容
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — 15,587件のGo8のArts and Humanities科目の計算による監査:2026年の評価項目の58.6%がAIに高度に晒され、論文と報告書に集中している
+- [[genai-values-education-affordances-risks-2026]] — 価値教育における生成的AI：アフォーダンス、倫理的リスク、教授への含意(Chen 2026)

@@ -1,7 +1,7 @@
 ---
 title: 教育におけるストーリーテリング
 created: "2026-10-10T22:54:28-04:00"
-updated: "2026-10-10T22:54:28-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,16 @@ ai_assist:
 - **AI へのつっかい石としてのデジタルストーリーテリング：** [[generative-ai|生成 AI]]が台頭するにつれて、デジタルストーリーテリングは、AI が欠いている感情的・文化的・物語的な能力の乗り物として再構成されています。美術・デザイン教育の[[project-based-learning|プロジェクトベース学習]]のモデルでは、学生が地域の文化遺産を 92 作品のデジタルストーリーテリングにわたって[[multimodal]]な物語へと翻訳し、ストーリーテリングが AI 時代に人間の創造性をどう持続させるかを示しました。
 
 ストーリーテリングは、[[student-engagement]]、[[motivation]]、[[creativity]]、[[educational-robotics]]、[[language-learning]]、[[social-emotional-learning]]、そして[[educational-robotics]]につながります。
+
+## よくある誤解
+
+**「共に組み立てた物語は、語られた物語である」** 得られるのは流暢さと量であり、危険に晒されるのは語り手の著作性です。物語は、順序と強調を選んだ誰かによる経験の構造化であり、したがって構造を供給する機械は、意味を担う部分を供給したことになります。
+
+**「ストーリーテリングは内容への柔らかな追加である」** 物語は記憶と意味形成の装置であり、語る学習者が組織化の仕事をしています。語りを引き渡すことは、学習を引き渡すことです。
+
+**「AIの生成は、書けなかった学生にストーリーテリングを可能にする」** それは*書かれた成果物を生産すること*を可能にするのであり、別の便益です。口頭の語り、描画、口述は同じ目標への確立された経路であり、生成が取り除く著作性を保ちます。
+
+**「物語の教育上の価値は磨かれた結果にある」** それは構築にあります。語り手が行う選択と順序づけです。学生が構造化しなかった磨かれた物語は、学習者ではなくモデルの力量を示したことになります。
 
 ## 関連する概念
 

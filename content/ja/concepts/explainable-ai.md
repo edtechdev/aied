@@ -1,7 +1,7 @@
 ---
 title: 説明可能AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 - **グラスボックス**の手法は、正確さと透明性の均衡を図ろうとします。
 
 具体的なAIEDの証拠基盤は、これらすべてにわたります。**解釈可能な[[knowledge-tracing|知識の追跡]]** は、学習者の知識のモデルを直接に点検可能にします（[[huang-interpretable-knowledge-tracing-2026]]、[[explainable-probabilistic-kt]]、[[neural-symbolic-knowledge-tracing]]）。**自己説明する代理** は、ブラックボックスのモデルを[[learning-analytics|ラーニングアナリティクス]]のために小さく解釈可能な[[llm|言語モデル]]へと蒸留します（[[distilling-self-explaining-lm-learning-analytics-2026]]）。**反実仮想の説明** — 「異なる結果のために何が変わらなければならないか」— は、教育的な意思決定の支援と救済（recourse）を支えます（[[sc2r-counterfactual-recourse-educational-2026]]）。**連合型かつ説明可能なラーニングアナリティクス** は、順位の安定性が保たれても説明の質が drifting（較正が劣化）しうることを示し、説明が固定された属性ではなく測定されるべきシステムの出力であることを強調します（[[villegas-ch-federated-explainable-learning-analytics-2026]]）。そして**解釈可能な[[affective-computing|情動]]のITS** は、[[affective-tutoring|感情を意識した]]家庭教師における説明を示します（[[multimodal-affective-its-presentation]]）。
+- **外部からの測定は、不誠実な説明という問題を迂回する。** Filtered Decision Logs は、ツールのトレースを来歴の木に再構成し、4つの決定論的な信号で証拠を順位づけます。そのため影響度のスコアは、推薦とは独立に検証可能であり、ツールを反実仮想的に除去すると、順位が依存を追跡していたことが確認されました（[[filtered-decision-logs-transparency-genai-2026|Anbalagan et al.（2026）]]）。
 
 ## 説明の質であり、有無ではない
 
@@ -78,7 +79,9 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 
 説明の質には公平性の次元もあります。技術的には存在しながら与えられた利害関係者にとって読み取れない説明、あるいは予測における[[bias-mitigation|バイアス]]を覆い隠す説明は、その目的を果たしません。これが設計上の問いが*質と適合*である理由であり、人間中心で利害関係者特異的な説明の設計が、説明の技術的な生成と切り離せない理由です。効果的なXAIは、受け手の認知的ニーズのために設計されたコミュニケーションの行為であり、単なる技術的な人工物ではありません。
 
-説明が常に平準化装置であるとは限りません。250人の7年生を対象とした2×2のエピソード実験では、数学の成績に対する書面の理由づけは両条件で受容と知覚された公正性を高めましたが、[[teacher-role|教員]]による決定とAIによる決定の間の格差を閉じるのではなく広げました（[[decision-making-agent-student-decision-acceptance-2026|Zhang et al.（2026）]]）。
+説明は常に平等にするものではありません。250人の中学1年生を対象とした2×2のヴィネット実験では、数学の点数についての書面の根拠が、両方の条件で受容と知覚された公平性を高めましたが、[[teacher-role|教員]]による決定とAIによる決定の間の隔たりを閉じるのではなく広げました（[[decision-making-agent-student-decision-acceptance-2026|Zhang et al.（2026）]]）。
+
+引用は、正確さの証拠ではなく信憑性の手がかりとして振る舞います。討論のインターフェースに引用と権威の信号を付けると、正しい判断を捨ててAIの立場を採る割合が15.0%から31.8%に上がり、引用された事例はときに誤帰属されたり架空であったりしました（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]）。
 
 二つの注意が、この点をさらに鋭くします。いずれも、この主題に関するウィキの最新の寄稿が中心に据えているものです。第一に、説明の機構それ自体は中立ではありません。LIMEやSHAPのような事後的な手法は、モデルの実際の挙動に対して不誠実（unfaithful）でありうるため、技術的に存在する説明は情報を与えるのではなく誤解を招きうるのです（[[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]]、Chuan et al. 2024に依拠）。第二に、**説明は説明責任ではありません**。どの特徴量が予測を動かしたかの記述は、それらの特徴量を用いることが適切であったかどうか、訓練データが代表性的であったかどうか、システムの設計が健全な判断を反映していたかどうかを明らかにしません。説明は、決定を生み出した構造的な条件には手を触れないまま、透明性の見せかけを作り出しうるのです（Mittelstadt et al. 2019）。教育にとってこれは、問い続けるべき問いは説明が生成されたかどうかではなく、それを受け取る人 — 学生、教員、アドバイザー — がそれを理解し、それに基づいて行動し、その背後にある決定に異議を唱えることができたかどうかだということを意味します。同じ読みやすさの失敗は、[[automated-assessment|自動化された評価]]のセキュリティの側にも現れます。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）のAI採点ツールのレッドチーム調査]]は、それがプロンプト・インジェクションを遮断した後にチャットを沈黙させ、そして — 埋め込まれた指示には決して従わないと宣言しながら — 同じファイルに対するさらなる6回の実行ではそれに従っていたことを見出しました。利用者は、依拠の基礎とすべき確かな信号を残されていません。
 
@@ -90,9 +93,12 @@ XAI-EDフレームワークは、主要な説明の様態を整理します。**
 
 説明可能性に関して特に、重要な課題は、説明をノートブックから押し出すものです。正確さの指標と並んで重みづけされたモデル・カード、そして学生が解釈可能性のツールを自分のモデルに適用し、その結果を共有された技術的な背景を持たない受け手に提示する、構造化された説明の監査です。執行は、倫理に隣接したコースから最もよく欠けている柱であり、残りを象徴的なもの以上のものにするものです — 責任ある文書化を報いるルーブリック、[[ethics|倫理的]]な根拠から改訂のために返されうる課題、そして技術的な基準だけでなく説明責任の基準に照らして行われる[[peer-assessment|相互評価]]です。この論文は、ツールのコストが大きく異なることを率直に認めています。モデル・カードと立場表明（positionality statement）は新しいソフトウェアを必要とせず、表面的な順守以上のリスクはありません。一方、専門家のパネルや利害関係者の関与は調整と制度的な支持を要するため、すべてか無かではなく段階的な採用を勧めています。これらがプログラムの中でどこに収まるかは、[[curriculum-design|カリキュラム設計]]を見てください。
 
-## 引用
+## よくある誤解
 
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+- **「引用は説明を信頼できるものにする。」** 引用は**正確さの証拠ではなく、信憑性の手がかり**として振る舞います。討論のインターフェースに引用と権威の信号を付けると、**正しい判断を捨ててAIの立場を採る割合が15.0%から31.8%に上がりました**。出所は、意図した効果とは逆に、誤った答えをより説得力のあるものにしたのです。
+- **「利用者を満足させる説明は、システムを説明したことになる。」** 同じ読みやすさの失敗は、[[automated-assessment|自動化された評価]]のセキュリティの側にも現れます。[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）のレッドチーム]]は、日常的な採点のワークフローが注入された指示によって操作されうることを見出しました。もっともらしい語りと監査可能な語りは、別の成果物なのです。
+- **「一般的なXAIの実践は、教育にそのまま転移する。」** [[xai-education-framework|XAI-EDフレームワーク]]（Khosravi et al., 2022）は、教育には一般的なXAIを超えた**独自の説明可能性のニーズ**があると主張します。受け手には、説明を証明しなければならない監査者ではなく、説明に基づいて行動しなければならない学習者が含まれるからです。
+- **「誠実性は、探ることなく主張できる属性である。」** 測定された誠実性には、**ルーブリック上重要な範囲の反実仮想的な削除**と、人間の評定の併用が必要です。ルーブリックへの注意の整合が**78.0%**に達し、GPT-4のゼロショットが**41.7%**、BERTが**32.1%**であったことは、その種の探索から出た比較結果であり、解釈可能性についての主張から出たものではありません。
 
 ## 関連概念
 - [[trust-calibration]]
@@ -132,3 +138,8 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — 新規のAI支援の教育上の問いの教育学的な評価のための事前訓練済みモデルの評価
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — 教員対AIの採点決定：書面の理由づけが公正性の格差を広げた
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — 引用と権威の信号が誤った出力への従属を高め、参照の一部は誤帰属または架空だった
+
+## 引用
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

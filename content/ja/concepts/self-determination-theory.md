@@ -1,7 +1,7 @@
 ---
 title: 自己決定理論
 created: "2026-10-10T22:53:44-04:00"
-updated: "2026-10-10T22:53:44-04:00"
+updated: "2026-10-30T03:25:20-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ SDTは、教育におけるAIの[[research-methods-aied|研究]]において、�
 
 対照的な教室の結果は、3つの欲求が一緒に動くのではないことを示します。2,464人の下級中等の学生の間で、ChatGPTが支える有能感に基づく学習は、自律性の支援と有能感の満足を高めた一方、低質な動機づけのプロファイルのより大きな割合を生み出し、関係性の満足はAIによらない有能感に基づく学習よりも弱いものでした([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]])。
 
+自律性が、ここでの動機づけ上の増益を担い、容易さが担ったのではありません。3群の[[rct|RCT]]は、学習者が自分自身の解法を築き続けるヒント差し控え型のチューターだけが内発的動機づけを高め（2.82 対 2.42）、答えを与える無制限のChatGPTは高めなかった（2.64、p = .076）ことを見出しました（[[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al.（2026）]]）。
+
 配置のテストが要点を鋭くします。498人の医学部の学部生の間で、GAIの使用は欲求の満足と弱くしか結びついておらず(β = 0.155)、高い関与にとって不要であることが証明されました。一方、有能感の欲求の満足が最も強い配置における核心的な条件でした([[genai-learning-engagement-medical-undergraduates-2026|Heら(2026)]])。
 
 **学習の気風からAIの使用への二重の経路。** [[dual-ai-learning-pathways-sdt-2026|ShenとArunrugstichai (2026)]]は、SDTを行動的な関与のHookモデルと統合し、GenAIの使用がなぜ建設的な支援から強迫的な依存までにわたるのかを説明します。異なる高校の背景と現在の文脈(中国とタイム)を持つ**508人の大学生**からの横断的な調査データにおいて、**高校の圧力対自律性の支援**の回想的な報告は、学生が大学へと進んだ2つの経路のうちどちらをたどったかを差別的に予測しました。建設的で自律的なGenAIの使用へ向かう経路と、強迫的な依存へ向かう経路です。その結果は、文脈を横断する多群分析を通じて一貫していました。このモデルは、SDTの動機づけの過程をAIが支える学習の知覚された質につなげ、自律性の支援を、学生を生産的なAI使用ではなく依存的な使用へと舵取りする梃子として枠づけます。
@@ -61,6 +63,12 @@ SDTは、教育におけるAIの[[research-methods-aied|研究]]において、�
 ## 関連する概念とのつながり
 
 SDTは、その上位の構築物として[[motivation]]に、感情を認識するAIの設計として[[affective-computing]]と[[affective-tutoring]]に、そして学習者がAIが媒介する環境をどう経験するかについて[[student-experience]]に直接つながります。この理論の自律性の強調は[[self-regulated-learning]]につながり、その有能感の次元は[[self-efficacy-tutoring-learning]]と[[teacher-ai-competency]]につながります。SDTは、欲求を支える設計が教育者をAIを使うことに備えさせる移転可能な原理であるため、[[professional-training]]と[[educational-development]]に特に関連があります。
+
+## よくある誤解
+
+- **「動機づけの種類は、動機づけの量よりも重要でない。」** 一年間にわたる研究は、**三つの動機づけのプロファイル、すなわち無関心、発達中、自己決定的が時間をかけて安定している**ことを見出し、**自己決定的**プロファイルに到達した学生が**最も大きな[[ai-literacy]]の伸び**を示しました。動機づけの質が学習を予測し、プロファイルは単に上向きに漂流したのではありません。
+- **「自律性の支援とは、構造を取り除くことである。」** SDTの機構は自律性、有能感、関係性が共にあることであり、縦断的なエビデンスは、それらを満たすことが伸びに伴っただけでなく伸びを予測したことを示しています。有能感の支援を伴わない自律性は放任であり、理論の条件を満たしません。
+- **「チャットボットは三つの欲求を自動的に供給できる。」** ある研究は、ChatGPTが言語学習において自律性、関係性、有能感を支えうることを見出しました。それは可能性であり、性質ではありません。ある相互作用がそれらを支えるかどうかは、それがどう使われるかについての実証的な問いです。
 
 ## 関連する概念
 
@@ -91,3 +99,4 @@ SDTは、その上位の構築物として[[motivation]]に、感情を認識す
 
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAIの使用は欲求の満足と弱く結びつき、高い関与には不要(Heら2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — 教師とAIの協働から仕事への関与への二重の経路。デジタル的な能力によって調整される
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — ヒントの差し控えは自律性を保ち、答えの提示は保たなかった

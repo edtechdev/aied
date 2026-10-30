@@ -1,7 +1,7 @@
 ---
 title: アクティブラーニング
 created: "2026-10-10T21:52:23-04:00"
-updated: "2026-10-10T21:52:23-04:00"
+updated: "2026-10-30T03:22:21-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,13 @@ ai_assist:
 アクティブラーニングは、[[collaborative-learning|協働学習]]（アクティブラーニングの多くは社会的です）、[[learning-by-teaching|教えることによる学習]]（他者に説明することは最大限にアクティブです）、[[project-based-learning|プロジェクトベース学習]]および[[experiential-learning|経験学習]]（本物の文脈における行為による学習）、[[embodied-learning|身体化された学習]]（身体的関与）、[[game-based-learning|ゲームベース学習]]、そして[[simulation|シミュレーション]]と深く結びついています。それは[[scaffolding|足場かけ]]と適切なタイミングの[[feedback|フィードバック]]に依存し、AI が努力を代替するときに[[cognitive-offloading|過度の依存]]によって脅かされます。[[constructivist|構成主義]]と[[learning-theories|学習理論]]に根ざし、[[higher-ed|高等教育]]、[[k-12|K-12]]、[[stem-education|STEM 教育]]にわたります。
 
 アクティブラーニングは、AI 時代における[[learning-gains|学習の伸び]]に対する最も強力な梃子の一つです。アクティブな方略が骨の折れる行為を通じて理解を築くため、それらは AI による短絡に対して最も頑健であり、このナレッジベースのエビデンスは、その努力を保つことが永続的な学習を守り、それを AI に吸収させることが学習を蝕むことを示しています（[[generative-ai-reduced-study-time-math|学習時間の短縮]]、[[stromberg-generative-ai-learning-penalty-secondary-2026|学習への負のペナルティ]]、[[lak2026-hint-button-unproductive-use|ヒントの乱用]]）。アクティブラーニングの設計を、支援なしの成果における[[learning-gains|測定された伸び]]と組み合わせる教師は、AI で支援された活動が実際に学習を改善したかどうかについて、最も明確な像を得ます。
+
+## よくある誤解
+
+- **「活動に AI を入れればアクティブになる」** 脳波研究は、**インタラクティブな学生と AI の協働が最も高い認知的関与を生み、完全な自動化はそれを低下させた**ことを見出しました。関与は AI の存在ではなく相互作用から生じており、学習者の側の作業を自動化することは関与を逆方向へ動かしました。
+- **「AI で支援された探究は自動的に高次である」** **120 人の 8 年生**を対象とした準実験では、AI で支援された[[inquiry-based-learning|探究学習]]が創造的な数学の成績と、より狭い一つの指標を高めました。つまり、処置は一部の成果を動かし、他の成果は動かさなかったのです。高次のラベルとの相関は、高次の課題であることと同じではありません。
+- **「学生が教える側を設計することは技術的な演習である」** 逆転の研究では、700 人の学生が履修するコースの**345 人**の学生が、三つのデザインパターンをピアに教える会話型エージェントをそれぞれ設計しました。アクティブラーニングはその設計作業から生じており、それはプロンプトエンジニアリングではなく教育学的な推論です。
+- **「関与についての知見は学習についての知見である」** 同じエビデンス基盤は、**統制群のない志願者の標本**という設計が関与に関する主張のみを支えると注意しています。学生は自由な設計の余地を評価し（上位の肯定的テーマ**22.3%**）、不明確な指示に最も不満を述べました（**23.7%**）。どちらも体験についてのものです。
 
 ## 関連概念
 - [[learning-gains]]

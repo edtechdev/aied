@@ -1,7 +1,7 @@
 ---
 title: サステナビリティ
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-10-28T19:00:58-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [ethics, sustainability]
 level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-09-19T05:10:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_of: concepts/sustainability
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -34,6 +34,8 @@ ai_assist:
 ## はじめに
 
 AI 教育におけるサステナビリティは、重なり合う3つの枠組みにわたります。**持続可能な教育**(価値に基づく人間中心の教育的営み)、**教育におけるサステナビリティ**(教育をサステナビリティの道具として使うこと)、**持続可能な開発のための教育**(ESD。特に[[k-12|持続可能な開発目標4]]を中心とした地球規模の政策課題)です。AI はこのそれぞれと異なる形で交わります。そしてこの分野は2つの中核的な経路を区別します。**AI for sustainability**(サステナビリティの成果を達成する道具としての AI)と**sustainable AI**(AI 自身の環境的・倫理的フットプリントの削減)です。
+
+環境の経路には、記録された空白があります。[[gillette-partnership-ethics-genai-higher-education-2026|Gillette ら（2026）]]は、研究の現場となった大学の方針文書で生成 AI の環境への帰結が議論されていなかったと報告し、それらを欠いた機関の指針は、教員と学生が抱く懸念に対応できていないと論じています。
 
 ## 2部構成の分類
 
@@ -66,6 +68,12 @@ AI 教育におけるサステナビリティは、重なり合う3つの枠組�
 
 教育におけるサステナビリティと AI は、[[ethics]]、[[governance]]、[[ai-education]]、環境・エネルギー科学の交差点に位置します。能力形成のために[[teacher-education]]と[[teacher-role]]に、教授学のために[[learning-design]]に依拠し、「持続可能な学習」という視点を通じて[[cognitive-offloading]]と[[critical-thinking]]の扱いにつながります。両方の経路が横断的であるため、サステナビリティは[[higher-ed|高等教育]]、K-12、専門職の文脈に現れる基礎的なテーマです。
 
+## よくある誤解
+
+- **「抽象的なAIの知識が、教師がサステナビリティを教える能力を予測する。」** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]]は、科学とグリーンエネルギーの文脈における教師の**AIの実践的な利用**と、**ESDに沿った教材の開発への関与**が、**抽象的なAIの知識や態度よりも**、その能力を予測することを見出しました。AIについて知ることと、それで作れることは分かれ、実践的な経路の方が多くを予測しました。
+- **「サステナビリティの教授法の下でのAI支援の教授設計は、サステナビリティの教授法を生む。」** 同じ研究は、持続可能な開発の教授法の下でのAI支援の[[learning-design|教授設計]]が、設計を広げるのではなく特定の仕方で**制約した**ことを見出しました。従来の教材で訓練されたモデルは、設計の作業がそれを補正しない限り、従来の枠づけを再生産します。
+- **「サステナビリティは話題であり、横断的なテーマではない。」** 両方の経路が水準をまたぐため、サステナビリティは[[higher-ed|高等教育]]、K-12、専門職の文脈に現れます。つまりそれは、独立した科目として教えるのではなく、各学問分野の内側で扱わなければならない基礎的なテーマなのです。
+
 ## 関連する概念
 - [[ethics]]
 - [[governance]]
@@ -91,3 +99,4 @@ AI 教育におけるサステナビリティは、重なり合う3つの枠組�
 - [[llm-environmental-impact-student-usage-2026]] — LLM の利用の環境への影響
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — 身体化された知性による持続可能な学習の涵養
 - [[caruana-pre-university-ai-education-slr-2026]] — 大学進学前の AI 教育の SLR(SDG 4 の枠組み)
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — スウェーデンの調査とフォーカスグループ研究。機関の生成 AI の決定は、不正の枠組みではなくパートナーシップの倫理に導かれるべきだと論じる

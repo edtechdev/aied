@@ -1,7 +1,7 @@
 ---
 title: 教育における AI 規制
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-10-10T22:45:44-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ ai_assist:
 
 知識基盤は、AI の展開の速さと規制の成熟度との間の持続的なギャップを記録しています。[[institutional-change-framework-ai|機関の変容の枠組み]]と規制の研究は、反応的な政策ではなく先を見据えた[[governance|ガバナンス]]を主張しています。[[raza-farooq-aied-review-2020-2025|包括的な AIED レビュー]]の研究は、規制が法域や教育段階によって不均一であり、教師、学生、開発者にとって一貫しない運用環境を作り出していることを明らかにしています。
 
+[[agentic-ai|エージェント的]]なシステムはさらなる隔たりを開きます。12の大学の文書分析において、[[wong-sun-agentic-ai-assessment-governance-2026|Wong and Sun（2026）]]は、エージェントが学習管理システムにログインすること、学生の資格情報を保持すること、学生の代理として行為することを扱った比較対象が一つもないことを見出しました。一方、いくつかのエージェントを意識した事例は、明示的な委任とアクセスの境界を定めていました。
+
 **ギャップは、タイミングと同様に証拠のギャップでもあります。** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski & Hurley（2025）]]は、ある専門職の分野が、それを支える証拠基盤なしに時間的圧力の下で政策を作っていると特徴づけています。ほとんどの ABA 認定の米国の[[legal-education|法科大学院]]は一般的に禁止的な立場を取る一方、個々の教員の裁量に余地を残しており、著者らは、開示や引用の実践についての合意はなく、ABA の 2024 年の政策調査への回答率は約 15% にとどまったと報告しています。彼らの規範的な応答——立場がどうであれ明確な指針、起草への[[stakeholders|利害関係者]]の関与、そして柔軟で定期的に見直されるよう設計されたガバナンス——は、政策の維持を一回限りの課題ではなく繰り返し現れる機関の機構として同じく扱う[[crompton-governing-genai-higher-ed-delphi-2026|世界規模のデルファイ合意]]と一致します。[[coates-governing-academic-integrity-indicators-2025|Coates、Croucher & Calderon（2025）]]は、逆の依存関係を加えます。彼らのガバナンス改革のプログラムは、規制、ベンチマーキング、そして機関を超えた競争からの外部的な支えがなければ、機関の発展が実を結ぶ可能性は低いと結論づけており、質と規制の機関——およびそれが機関の間に強いる比較——を、内部のガバナンス改革が根を下す条件としています。
 
 EdTech プラットフォームのプライバシー方針の監査は、その依存関係に具体的な実例を与えます。48 のプラットフォームにわたり、データ収集は比較的よく開示されていました（平均 2 点中 1.81）一方、AI の開示（0.90）と説明責任（1.07）は遅れをとり、33% は目に見える AI 機能があるにもかかわらず意味のある AI の開示を行っていませんでした。米国の[[k-12|K-12]]プラットフォームは全体的に最も高い得点をつけました（M = 7.47 対、米国の[[higher-ed|高等教育]]の 5.50）が、AI の開示や説明責任では何も得ていませんでした——規制は、著者らが結論づけるように、それが名指しするものだけを高めるのであり、したがって、執行可能な規則と調達基準こそが、自発的な約束ではなく[[privacy|プライバシー]]を展開の条件としなければならないのです（[[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]）。
@@ -57,6 +59,12 @@ EdTech プラットフォームのプライバシー方針の監査は、その�
 ### つながり
 
 規制は、[[educational-policy-ai|教育政策]]、[[governance|ガバナンス]]、[[ethics|倫理]]、[[privacy|プライバシー]]、[[pedagogical-safety|教授法的安全]]、そして[[academic-integrity|学問的なインテグリティ]]につながります。それは、他のすべての AI 教育の実践がどう営まれるかを形づくる、制度的な層です。規制は制約し、同時に可能にします。許容できる AI 利用の境界を設定すると同時に——[[ai-literacy|AI リテラシー]]と責任ある利用の期待を通じて——[[equity-in-ai-education|公平]]で安全な統合のための条件を作り出すのです。
+
+## よくある誤解
+
+- **「規則は機関のAI方針の中にある。」** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson and Rainie（2026）]]による**1,057名の米国の教員**への調査は、実際に働く規則が機関の層のどれだけ下にあるかを測っています。**回答者の87%が自分で指針を書いて**いました。運用上の方針は主に教員が書いたものであり、記録された機関の層は見た目よりも少ないことを記述しているのです。
+- **「方針を書けば危険な面を覆える。」** [[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）]]は、評価のツールが規制される集合に属する理由を示します。レッドチームの試験では、提出物に隠された**5件の間接的なプロンプト注入のうち2件**が成功しました。ツールを名指しするが注入の面を名指ししない規則は、その攻撃を未対処のまま残します。
+- **「エージェント的なシステムは既存の規則を拡張することでカバーされる。」** **12の大学**の文書分析で、[[wong-sun-agentic-ai-assessment-governance-2026|Wong and Sun（2026）]]は、**学習管理システムにログインするエージェントを扱った比較対象が一つもなかった**ことを見出しました。ガバナンスの空白は構造的です。既存のカテゴリーには、資格情報を持つ自律的な行為者のための枠がありません。
 
 ## 関連する概念
 
@@ -95,3 +103,4 @@ EdTech プラットフォームのプライバシー方針の監査は、その�
 - [[coates-governing-academic-integrity-indicators-2025]] — External regulatory pressure as the condition for governance reform (Coates, Croucher & Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — AIエージェントがLMSにログインし学生の資格情報を保持することを扱った比較対象の方針は一つもなかった（Wong & Sun 2026）

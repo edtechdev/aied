@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: 教育開発
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-10-10T22:31:17-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ ai_assist:
 
 ### プログラム設計者のための実践的な指針
 
-AI の[[professional-training|専門職的な開発]]を計画する教員開発者、学術的な指導者、[[stakeholders|教育設計者]]にとって、知識ベースの証拠は次を示唆します。
+AI の[[educational-development|専門職的な開発]]を計画する教員開発者、学術的な指導者、[[stakeholders|教育設計者]]にとって、知識ベースの証拠は次を示唆します。
 
 **4つの採用の原動力に、知識だけではなく対処する。** 自信、態度、支援、懸念は、教員が実際に AI を採用するかどうかを予測します——これらを無視する知識のみのワークショップが実践を変える見込みはありません。開発を、実践的な利用を通じて自信を築き、継続的な支援（一回きりの訓練ではなく）を提供し、教員の懸念を積極的に明るみに出して応答するように設計する。([[teacher-ai-adoption-confidence]])
 
@@ -83,7 +83,9 @@ AI の[[professional-training|専門職的な開発]]を計画する教員開発
 **指針の需要と指針の適切さを別個の問題として扱う。** ある大学の教員は、非倫理的な AI 利用に対する制度的な措置を強く支持し（M = 4.59）、既存の指針は最も低く評価しました（M = 2.99）。そして、データのプライバシーと文化的な包摂性を最も弱い知識として挙げました——これは専門職的な開発にとって具体的な標的です（[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever（2026）]]）。
 
 **準備を社会技術的な整合の問題として扱う。** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI フレームワーク]]は、教員の準備が認識論的、教育学的、制度的、品質とコンプライアンスの領域にわたることを示しています。個人だけを訓練するプログラムは、変化を可能にするか妨げる制度的な梃子（方針、業務量、インセンティブ、品質基準）を見逃します——それらを訓練と並行して整合させる。([[sangwa-epiq-ai-faculty-readiness-2026]])
+
 **インフラへの投資と変容を等しく見なさない。** 125件の研究にわたって、生成AIのインフラと教育開発への制度的投資は、実際の教育的な変化とわずかしか相関しませんでした（r = 0.12）。一方、60〜70%の教員は生成AIを統合する準備ができていないと感じていました——これは、調達ではなく開発が束縛的な制約であることを意味します。([[genai-higher-education-systematic-review-2026|Rathnayake（2026）]]）
+**失敗の様態を名指し、効果量だけを名指ししない。** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe & Martínez-Pérez（2026）]]はそれを模擬的な革新と呼びます。ツールの存在が進歩を示し、教授と評価の形式はそのまま残り、採用率とダッシュボードが学習の代わりに立ち、技術のリリースサイクルが方向を定めるのです。彼らの診断は、開発プログラムに、採用の前に各ツールを名指された学習問題に照らして正当化することを求めます。
 
 **ツールの採用ではなくカリキュラムの再設計に向けて築く。** 目標は、AI ツールを付け加えるのではなく、教員がコースと評価を再設計することです。専門職的な開発を、コース水準の再設計の仕事と評価の改革に根ざさせ、教員にそのための構造化された枠組みを与える（例:[[ai-assessment-scale-reform|評価尺度]]、[[institutional-change-framework-ai|制度変更の枠組み]]）。([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -172,3 +174,4 @@ AI の[[professional-training|専門職的な開発]]を計画する教員開発
 
 - [[faculty-ai-well-being-social-supports-2026]] — 教員の AI の安寧は技術的な自己効力感ではなく AI リテラシーを追う
 - [[ai-competence-framework-landscape-2026]] — 採用する前に、フレームワークの水準が何を説明しているかを確認する
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育はAIの議題を設定できるのか。教員教育における模擬的な革新と教育学的な方向づけ

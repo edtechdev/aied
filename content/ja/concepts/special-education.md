@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 特別支援教育
 created: "2026-10-10T22:54:28-04:00"
-updated: "2026-10-10T22:54:28-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,8 @@ ai_assist:
 **学習障害のある学生（SWLDs）における認知的オフローディング。** AI と学習障害のある学生に関する*Learning Disability Quarterly*の特別シリーズに掲げられた概念レビュー、[[seung-basham-cognitive-offloading-swld-2026|Seung & Basham（2026年）]]は、[[cognitive-offloading]]の視点から SWLDs の[[generative-ai|生成 AI]]利用を再構成します。彼らは、生成 AI が**補償的助言にも近道にもなりうる**と論じます。それは、オフローディングの決定が、SWLDs の認知的・[[motivation|動機づけ的な]]プロファイル（実行機能とワーキングメモリの困難、認知的負荷の高さ、努力回避的な成績目標、学業自己効力感の低さ、生成 AI に対する過大な期待）や授業設計とどう相互作用するかに依存するからです。読み書きについては、生成 AI はアクセスへの足場かけ（テキストの平易化、要約、[[multimodal]]な出力、計画、下書き、推敲のフィードバック）を行いつつ、高次の[[student-engagement|関与]]を保つことができます——しかし過度のオフローディングは、もともともろいこれらの学習者にとっての理解・計画・モニタリングの過程を迂回するリスクを伴い、「[[metacognition|メタ認知的]]な怠惰」を助長し、領域をまたいで識字の困難を悪化させます。この論文は、**教育的[[guardrails]]**こそが鍵となる調整要因であると位置づけ、戦略的なオフローディングの[[teacher-role|指導]]、ツールへの信頼を適切に較正するための[[ai-literacy]]の育成、[[self-efficacy]]を高める達成経験の積み重ね、および技能の発達を代替よりも優先する IEP の目標との整合——を推奨しています。これはオフローディングの公正（equity）の次元に知識ベースの特別教育の射程を広げます。アクセスの障壁を下げるのと同じツールが、無防備なままでは SWLDs が最も必要とする練習の代用品になりうるのです。
 
 **AI 生成の介入コンテンツには、生成前の統制が必要である——事後の検討だけでは足りません。** [[adapted-stories-social-story-intervention-2026|Enkhjargal ら（2026年）]]は、共同設計されたソーシャルストーリーツールを実践者が高い有用性と評価した（SUS 86.8）にもかかわらず、画像が一般的に西洋的であり、行動トラッカーが目標に紐づいた臨床的判断と不整合であったと述べたことを見出しました——これらは彼らが生成前に設定していたはずの制約です。
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková（2026年）]]は、会話ではなく教材から出発します。視覚言語モデルが Shoebox Tasks の写真を読み取り、Nao ヒューマノイドが実行または実演する計画に変換します。Shoebox Tasks は、対象物の中に目標が見えるように設計されています。著者らは6つの課題にわたる計画の正確さを報告しており、学習者のデータはありません。
+- **挑戦的な行動こそ、チューターのベンチマークが止まるところである。** 特別教育と教育心理学の文献から取った923件の事例に基づく対話のうち、11のモデルの最良のものが、開かれた事例の55.8%、長期計画の43.3%で、記録された介入を満たしました([[tutor-case-bench-challenging-behaviors-2026|Park ら（2026年）]])。
 
 ## 特別教育の教員への示唆
 
@@ -58,6 +60,12 @@ ai_assist:
 - **AI を使って成績差を（広げるのではなく）縮める。** [[adhd-video-segmentation-computing-education|AI で区間分割された動画]]は ADHD の成績差を解消しました——単に自動化するのではなく、成果を均等化するという証拠がある場所に適応的な AI を導入しましょう。
 - **障害当事者が主導する身体的設計を中心に据える。** [[embodied-string-learning-blindness-low-vision-musicians|盲・弱視の音楽家]]の研究は、非視覚的で当事者が主導する戦略が既定の視覚的インターフェースを上回ることを示しています——障害のある学習者の専門性を生かして AI を構築し適応させましょう。
 - **認識論的な周縁化に警戒する。** [[genai-minoritized-knowledges-disability|批判的視点]]は、西洋中心の訓練データが障害を中心とした知を周縁化しうると警告しています——[[equity-in-ai-education]]と並んで、AI のコンテンツとツールを認識論的公正の観点から監査しましょう。
+
+## よくある誤解
+
+- **「ユーザビリティの評定は、支援ツールを正当化する。」** 実践者は共同設計されたソーシャルストーリーツールを**高い有用性（SUS 86.8）**と評価したにもかかわらず、その**画像が一般的に西洋的である**こと、**行動トラッカーが目標に紐づいた臨床的判断と不整合である**ことを指摘しました。高い有用性は実質的な失敗と共存していました。SUS のスコアは、適合性への是認ではないのです。
+- **「汎用的なベンチマークは、チューターが特別教育の事例をどう扱うかを教えてくれる。」** 特別教育と教育心理学の文献から取った**923件の事例に基づく対話**のうち、**11のモデルの最良のもの**が記録された基準を満たしました。そして**挑戦的な行動こそ、チューターのベンチマークが止まるところです**。標準的な評価は、実践者が最も助けを必要とする事例に届かないのです。
+- **「神経多様性のある学習者に必要なのは、設計要件ではなく宿座的対応である。」** [[neurodivergent-computing-students|Zastudil ら]]は、神経多様性のある情報科学の学生に必要なのが**構造化された課題、少人数で固定されたチーム、明示的な役割定義**であることを見出しました。それは全員に益する一般的な設計要件であり、診断の後に与えられる個別の調整ではありません。
 
 ## 関連する概念
 
@@ -76,6 +84,7 @@ ai_assist:
 - [[discipline-specific-aied]]
 
 ## 関連する記事
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench：挑戦的な行動のある学生に対して LLM チューターを評価する(Park ら 2026)
 
 - [[seung-basham-cognitive-offloading-swld-2026]] — 学習障害のある学生のための生成 AI による認知的オフローディング
 - [[special-r1-rl-special-education]]
@@ -87,3 +96,4 @@ ai_assist:
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 生成 AI、バーチャルリアリティ、そしてその先へ：高等教育における神経多様性のある学生のためのデジタル支援技術に関するスコーピングレビュー
 - [[adapted-stories-social-story-intervention-2026]] — 特別教育のための AI 支援ソーシャルストーリー介入：AdaptED Stories の設計
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — 視覚言語モデルが Nao ロボットのために Shoebox Tasks を計画する(Kudláčková 2026)

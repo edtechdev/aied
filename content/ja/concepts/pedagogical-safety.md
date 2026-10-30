@@ -1,7 +1,7 @@
 ---
 title: 教授法的安全性
 created: "2026-10-10T22:46:00-04:00"
-updated: "2026-10-10T22:46:00-04:00"
+updated: "2026-10-30T03:22:22-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,17 @@ ai_assist:
 ### 関連概念との結びつき
 
 教授法的安全性は、[[hallucination-risk|幻覚のリスク]]、[[rag|RAG]]、[[k-12|K-12]]、[[ethics|倫理]]、[[governance|ガバナンス]]、[[regulation|規制]]、[[llm|LLM]]を、[[trust|信頼]]、[[scaffolding|足場かけ]]、[[metacognition|メタ認知]]、[[self-regulated-learning|自己調整学習]]の相互作用レベルの関心事と結びつける保護的な層です。それは[[llm-training-and-fine-tuning|訓練]]と[[reinforcement-learning|RL]]を通じて作動し、[[bias-mitigation|偏りの緩和]]と[[equity-in-ai-education|教育における AI の公正性]]に依り、[[ai-misuse-learning-harm|AI の誤用による学習への害]]と[[hazra-safetutors-pedagogical-safety-2026|チューターの害の分類法]]に記録された害によって動機づけられます。
+- **子どもの害はモデルから入ることは稀である。** 1,331件の符号化された子ども関連のAIインシデントでは、害は表象的、尊厳に関わる、心理的なカテゴリに集中し、モデルの欠陥ではなく配備、統治、誤用の失敗と共起していました。したがって出力ごとのフィルターは支配的な経路を見逃します（[[child-related-ai-incidents-safety-benchmarks-2026|Jiao ら（2026）]]）。
+
+## よくある誤解
+
+**「毒性フィルターとジェイルブレイク耐性があればチューターは安全である」** 従来型の[[llm|LLM]]安全性は教育にとって必要ですが十分ではありません。それはモデルが*何を言うか*に対処し、教授法的安全性は相互作用が学習者に何をするかに対処します。内容の分類器には見えない失敗も含めてです。チューターはあらゆる内容チェックに合格しながら、体系的に学習を蝕み、あるいは不平等を固化させることがあります。
+
+**「単一のやり取りでよく振る舞うシステムは、利用においても安全である」** リスクはターンをまたいで積み上がります。有害率は**単一ターンの評価で約18%から、マルチターンの評価で約78%**へと上昇しました。したがって単一ターンのベンチマークは、学生が実際に経験する相互作用に対して、4倍安心しすぎた数値を報告することになります。孤立したプロンプトで組んだレッドチームの一式は、10分のセッションで失敗するシステムを認定してしまうのです。
+
+**「最も安全なチューターは最も多く拒否するものだ」** 「均等に拒否する」システムでさえ不平等を固化させうる、というのがこのページの静かな失敗の記述の後半です。失敗の様態は、正しく答えながら学習を蝕むチューターだけではありません。拒否が学生間で支援を不均等に配分するチューターでもあり、一律の拒否方針は目に見えるリスクを目に見えないリスクと交換するのです。
+
+**「モデルレベルの安全性の仕事はどれも広報的な施策である」** その一部は測定可能です。[[llm-unlearning-math-privacy|数学のアンラーニング]]の研究は、勾配に基づくアンラーニングを適用して識別可能な情報と有害な内容を取り除き、能力を保ちながらPIIの出力を**0.1%**まで、有害率を**0.0%**まで下げたと報告しています。モデルレベルの統制は多層防御の一層であり、単独では不十分ですが、無でもありません。
 
 ## Connected Concepts
 - [[guardrails]] — 安全性を実装する設計メカニズム

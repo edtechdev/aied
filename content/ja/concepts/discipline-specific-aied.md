@@ -1,13 +1,13 @@
 ---
 title: 各学問分野における AIEd
 created: "2026-10-10T22:31:18-04:00"
-updated: "2026-10-10T22:31:18-04:00"
+updated: "2026-10-30T03:34:02-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -87,7 +87,7 @@ ai_assist:
 
 ## ナレッジベースで代表されている分野
 
-ナレッジベースの分野特有の記述が最も強いのは、広く**[[stem-education|STEM]]**、とりわけ**[[math-education]]**、**[[physics-education]]**、**[[chemistry-education]]**、**[[biology-education]]**、**[[cs-education]]**であり、次いで**[[writing-education]]**、**[[language-learning]]**（EAP/EFL/ESL のために明確な**[[english-education]]**の流れを持つ）、そしてより近年では**[[engineering-education]]**、**[[teacher-education]]**（就職前と現職の AI 訓練研究の実質的な集まりを持つ）、**[[medical-education]]**、**[[humanities-education]]**です。工学とデザインも論文の増える集まりを持ちます。この集中はより広い文献を追っています。[[xia-ai-interdisciplinary-higher-education-review-2026|Xia らの（2026）]]レビューは、AI 支援の高等教育において STEM が最も一般的な学際的な形であることを見出しました（n = 26）、非 STEM 分野（n = 10）や STEAM（n = 2）を大きく先んじて——AI 教育の証拠が、計算機による道具立てが最も埋め込みやすいところで最も速く蓄積するという、分野水準の注意であり、必ずしも AI の教授法的価値が最も大きいところではありません。最近の追加は、この流れを学術的な科目を超えて専門的・応用的な教育へと広げます——[[nursing-education|看護]]、[[information-technology|情報技術]]、そして[[vocational-education|職業教育訓練]]——そこでは学習者は正しさではなく実証された実践によって評価され、何が能力と見なされるかを定めるのが学会だけでなく雇用者と認可機関でもあるところです。
+ナレッジベースの分野特有の記述が最も強いのは、広く**[[stem-education|STEM]]**、とりわけ**[[math-education]]**、**[[physics-education]]**、**[[chemistry-education]]**、**[[biology-education]]**、**[[cs-education]]**であり、次いで**[[statistics-and-data-science-education]]**、数学とは別個の流れです。その特徴的な教授法が、定まった答えへ向かう推論ではなくデータの探究であるためです。この流れ自身の設計上の問題の一例として、[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] はエージェント的なパイプラインで文脈に合わせた合成データセットを生成し、統計のコースが必要とする教材そのものには対処しますが、その説明には対処しません。そして著者ら自身の説明によれば、データ収集、測定、研究デザインを教えることはできません。続いて**[[writing-education]]**、**[[language-learning]]**（EAP/EFL/ESL のために明確な**[[english-education]]**の流れを持つ）、そしてより近年では**[[engineering-education]]**、**[[teacher-education]]**（就職前と現職の AI 訓練研究の実質的な集まりを持つ）、**[[medical-education]]**、**[[humanities-education]]**です。工学とデザインも論文の増える集まりを持ちます。この集中はより広い文献を追っています。[[xia-ai-interdisciplinary-higher-education-review-2026|Xia らの（2026）]]レビューは、AI 支援の高等教育において STEM が最も一般的な学際的な形であることを見出しました（n = 26）、非 STEM 分野（n = 10）や STEAM（n = 2）を大きく先んじて——AI 教育の証拠が、計算機による道具立てが最も埋め込みやすいところで最も速く蓄積するという、分野水準の注意であり、必ずしも AI の教授法的価値が最も大きいところではありません。最近の追加は、この流れを学術的な科目を超えて専門的・応用的な教育へと広げます——[[nursing-education|看護]]、[[information-technology|情報技術]]、そして[[vocational-education|職業教育訓練]]——そこでは学習者は正しさではなく実証された実践によって評価され、何が能力と見なされるかを定めるのが学会だけでなく雇用者と認可機関でもあるところです。
 
 職業の流れはその証拠の中で最も薄いものです。職業教育訓練における 26 件の研究の系統的レビューは、VET の作業基盤の性格にもかかわらず、職場環境で行われたものが一つもないこと、無作為化実験は 5 件のみ、学習者に積極的な役割を与えた設計は 3 件のみであることを見出しました（[[ai-vocational-education-training-review|Deutscher ら（2026）]]）。
 
@@ -101,6 +101,12 @@ ai_assist:
 - **芸術（視覚芸術、デザイン、音楽）** — 生じつつある記述：[[ai-interior-design-malaysia-2026|インテリアデザイン教育における AI]]、[[genai-architectural-design-studios|建築デザインスタジオにおける GenAI]]、[[ai-vocal-pedagogy-2026|AI 声楽教授法]]、[[musical-education-ai-digital-transformation-2026|音楽教育における AI]]、[[t2i-competence-paradox-2026|テキストから画像へのコンピテンスのパラドクス]]。このリストのデザイン側の研究は今や自分自身の家を持ちます。[[design-education]]は建築、インテリアデザイン、テキストから画像へのスタジオの仕事を、専門的なデザインの形成についてのページに引き込み、視覚芸術、音楽、パフォーマンスを薄い残りとして残します。
 
 これらの過小代表されている分野は、ナレッジベースが成長するにつれて、専門の概念ページと追加の論文の取り込みから便益を得るでしょう。
+
+## よくある誤解
+
+- **「分野は主に内容の例にとって重要である」** **560人の学生**にわたる研究は、分野の所属が**学生が[[generative-ai|生成的 AI]]をどれほど頻繁に、どれほど公然と使うかを予測する**ことを見出しました。分野は、道具がそもそも使われるか、そしてその利用が開示されるかを形作り、何について尋ねられるかだけではありません。
+- **「学際性は一般的な制度的目標である」** **「学際的」の形そのものが分野によって決まります**。[[xia-ai-interdisciplinary-higher-education-review-2026|Xia らの（2026）]][[meta-analysis-systematic-review|レビュー]]は、それが取る形が分野によって異なることを見出します。単一の制度的な定義は、それが覆う分野の少なくともいくつかを誤読します。
+- **「職業教育には、学術分野に匹敵する研究基盤がある」** 職業の流れは**その証拠の中で最も薄い**ものです。職業教育訓練における**26件の研究**の系統的レビューは、**職場環境で行われたものが一つもない**ことを見出しました。能力が実際に行使される場です。文献の不在は欠落であり、帰無の結果ではありません。
 
 ## 関連概念
 
