@@ -233,10 +233,13 @@
 - [كيف يؤثر الذكاء الاصطناعي في قلق الطلاب ورفاهيتهم، وما الذي يمكننا فعله؟](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف يمكن للذكاء الاصطناعي دعم المتعلمين ذوي الإعاقة والمختلفين عصبيًا في مقرري؟](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف يمكن للذكاء الاصطناعي أن يساعدني في تقديم تغذية راجعة أفضل على نطاق واسع؟](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [هل يمكنني استخدام الذكاء الاصطناعي لتصحيح عمل الطلاب بإنصاف وموثوقية؟](https://edtechdev.github.io/aied/faqs/ai-grading-fairness-reliability/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف ينبغي للآباء والمعلّمين التعامل مع الذكاء الاصطناعي مع الأطفال دون سنّ الثالثة عشرة؟](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [ما الدليل على تدخّلات ثقافة الذكاء الاصطناعي في التعليم العالي؟](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف يمكن للذكاء الاصطناعي أن يدعم الطلاب متعددي اللغات دون أن يخطئ في تقدير معرفتهم أو يمحو صوتهم؟](https://edtechdev.github.io/aied/faqs/ai-multilingual-learners/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف يوفّر لي الذكاء الاصطناعي وقتًا كمدرّس؟](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف نصمم المقررات الإلكترونية غير المتزامنة ونُيسّرها عندما يستطيع الذكاء الاصطناعي إنجاز العمل؟](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [كيف أتحقق من أن أسئلة الاختبارات القصيرة والامتحانات المولَّدة بالذكاء الاصطناعي جيدة فعلًا؟](https://edtechdev.github.io/aied/faqs/check-ai-generated-question-quality/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف نعرف أن ذكاءً اصطناعيًا تعليميًا يعمل بشكل صحيح، لا أنه يحصل على درجات جيدة فحسب؟](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف أكتب سياسة ذكاء اصطناعي للمقرّر وأبلّغها للطلاب؟](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف ينبغي أن يُصمَّم الذكاء الاصطناعي في التجربة التعليمية؟](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -254,6 +257,7 @@
 - [كيف نكتب سياسة مؤسسية للذكاء الاصطناعي وننفّذها؟](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف نجعل الذكاء الاصطناعي أفضل في دعم التعلّم في مجالنا الدراسي؟](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف نجعل طالبًا محاكىً يتصرف كمتعلّم حقيقي؟](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ماذا ينبغي أن يتعلّم الطلاب لمهن يصبح فيها الذكاء الاصطناعي أمرًا معتادًا؟](https://edtechdev.github.io/aied/faqs/prepare-students-ai-careers/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف أعيد تصميم التقويم حتى تخبرني الدرجة بشيء يمكن الدفاع عنه عمّا يعرفه الطالب أو يستطيع فعله؟](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف أُقلّل الغشّ بالذكاء الاصطناعي في مقرري الدراسي؟](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف أمنع الطلاب من الاعتماد المفرط على الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
@@ -264,6 +268,7 @@
 - [ما أهم 10 نتائج من أبحاث الذكاء الاصطناعي في التعليم ينبغي أن يعرفها المدرّسون؟](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف ندرّب مدرّس ذكاء اصطناعي على إرشاد الطلاب بدلًا من الإجابة عنهم؟](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [كيف أُعلّم الطلاب التحقق من مخرجات الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
+- [ماذا يعني التعلّم الشخصي فعلًا، ومتى ينفع؟](https://edtechdev.github.io/aied/faqs/what-personalized-learning-means/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 - [ما هي أفضل الممارسات لتعليم الكتابة في سياق الذكاء الاصطناعي؟](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
 ## Articles
