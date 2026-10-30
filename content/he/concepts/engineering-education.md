@@ -1,6 +1,7 @@
 ---
 title: חינוך להנדסה
 created: "2026-10-12T21:50:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -11,13 +12,17 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-30T10:14:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,6 +57,8 @@ ai_assist:
 - **בינה מלאכותית לקיימות, משולבת ולא מודולרית.** מסגרת AI-SEE בתובע-ארבעה-עמודים (מודרך-אינטליגנציה, מועצם-ירוק, מוביל-אחריות, משולב-פרקטיקה) מחלקת בינה מלאכותית לאורך עבודות קורס הנדסה; במקרה של 144 סטודנטים בהנדסת תחבורה, סטודנטים דיווחו על מעורבות ברמות אישית, אקדמית, מקצועית וחברתית, עם חשיבות קיימות שנשאה למשפחות ולרשתות עמיתים ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **סטודיו עשיר-כלים יכול לדכא יעילות ללא שיפור המוצר.** בסטודיו עיצוב אדריכלי עם 27 סטודנטים, צוותים המשתמשים בצנרת בינה מלאכותית יוצרת בתוספת [[virtual-and-augmented-reality|XR]] הראו ירידות גדולות יותר קדם-אחרי ב[[self-efficacy|יעילות עצמית]] עיצובית (β = −1.675) ובציפית תוצאה (β = −2.088) מקבוצות הבקרה, בעוד משקפת אחת לכל סטודנט לא הפיקה שיתוף פעולה מתואם ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
 
+- **בחירת מודל, ולא הנחיה, קובעת את מהימנות המשוב תחת לחץ.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] בנו 200 בעיות מסבך דו-ממדיות מאומתות והעמידו שלושה-עשר מודלים בשלוש עמדות: לפתור, לאשר פתרון נכון שהסטודנט מתעקש שהוא שגוי, ולאתר שגיאה מוזרקת. דיוק הפתרון נע בין 64.5% ל-97.0% וכל מודל תפס לפחות 90.4% מהשגיאות המוזרקות, כך שאף אחד מהם לא הבדיל את השדה; ההתנגדות ללחץ כן, ונעה בין 46.5% ל-98.5%. בקורס סטטיקה סיכון החונכות אינו תשובה סופית שגויה אלא מודל שמסכים כשסטודנט מטיל ספק מוטעה בעבודה נכונה, והמחברים מציינים שאם המהימנות עוקבת אחרי שכבות בתשלום, המשוב שהסטודנטים מקבלים ישתנה לפי מה שהמוסד שלהם יכול לרכוש.
+
 ## חששות חתימתיים
 
 החששות החתימתיים של חינוך להנדסה מעצבים כיצד בינה מלאכותית נאמצת: **למידה מעבדתית ומעשית** (ומה שאובד כאשר בינה מלאכותית מדמה פרקטיקה), **היווצרות מקצועית** (אחריות אתית, בטיחות, והשפעה חברתית), **עיצוב ופתרון בעיות** (כמה עבודה קוגניטיבית בינה מלאכותית צריכה לעשות), ו**הכנה מבוססת-כשירות לכוח העבודה**. אלה הופכים חינוך להנדסה לאתר עשיר ללמידה של האם בינה מלאכותית מגבירה או מחליפה את העבודה הקוגניטיבית החיונית למומחיות מקצועית — במקביל לדיונים ב[[physics-education|פיזיקה]], ב[[math-education|מתמטיקה]], וב[[cs-education|מדעי המחשב]].
@@ -64,6 +71,8 @@ ai_assist:
 
 כיסוי חינוך ההנדסה של מאגר הידע עדיין מתפתח. תת-תחומים שהיו מרוויחים ממאמרים נוספים כוללים **[[discipline-specific-aied|פדגוגיות]] הנדסיות ייחודיות ל[[pedagogy|תחום דעת]]** (חינוך להנדסה מכנית, אזרחית, כימית, חשמל, תוכנה וביואינז'ינריה), **חינוך [[design-education|עיצוב]] ויוצר**, **קפסטון ו[[project-based-learning|למידה מבוססת פרויקטים]]**, ו**חינוך אתיקה להנדסה** — שבהם התפקיד של בינה מלאכותית צפוי להיות בעל השלכות במיוחד.
 
+הפער הזה אינו ריק יותר בתחום אחד: תוכנית הנדסה ביו-רפואית בת שלוש שנים הפעילה בינה מלאכותית יוצרת כפיגום מוגן לסיכום ידע ולקידוד בתוך רצף PBL בן ארבעה מודולים — כלים מאושרים, ללא נתוני מטופלים, יומני גילוי — ודיווחה על שיעורי A של 66.4% לעומת 39.1% בקוהורטות שקדמו ל-AI ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## השלכות למרצים להנדסה
 
 - **בנו שפה משותפת ומדויקת על בינה מלאכותית.** [[engineering-faculty-metaphors-ai-understanding-2026|מחקר מטפורות סגל]] מוצא שמרצים מחזיקים במודלים מנטליים שונים ביסודם (סוכן מול כלי); יישרו הבנה מחלקתית לפני קביעת מדיניות.
@@ -73,6 +82,12 @@ ai_assist:
 - **דגמו שימוש ביקורתי והסתמכות הולמת.** [[tam-critical-use-genai-engineering-2026|מחקר TAM של שימוש ביקורתי]] מראה שסטודנטים מסתמכים על בינה מלאכותית בכבדות למשימות הבנה אך פחות להערכה — הכווונם לעבר הסתמכות הולמת וניתנת-לאימות לאורך סוגי משימות.
 
 - **למדו שימוש בבינה מלאכותית ככישור בתוך זמן כיתה.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] הרצו תשע הדגות מונחות-מרצה, כל אחת 10–15 דקות בסוף הרצאה ומסודרת מאוריינות כלי דרך אצלה אסטרטגית להערכת מודל — אך סטודנטים שלא ראו קשר להערכה דיווחו שהן רדונדנטיות, ולכן קשרו אותן לעבודה מדורגת.
+
+## תפיסות מוטעות נפוצות
+
+- **"אימוץ AI בקרב סטודנטים להנדסה הוא בעיית קבלת טכנולוגיה."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] משלבים TAM עם [[technology-acceptance-model|UTAUT]] כדי לדגמן את אימוץ הסטודנטים הבנגלדשים להנדסה, ו**מסבירים 64%** מהשונות — ולכן חלק מהותי יושב מחוץ לבניות הקבלה, בגורמים חברתיים וקוגניטיביים שהמודל אינו מכסה.
+- **"סטודנטים משתמשים ב-AI במה שהוא הכי טוב בו."** [[ai-engineering-education-balancing-act|Kudina (2026)]] מצא ש**100 סטודנטים להנדסה** העריכו ביותר את המודלים הלשוניים הגדולים ל**תמיכה בכתיבה**, לא להסקה הנדסית. המטפורות שלהם לכלי עלו על מה שהוא סיפק, והשימוש בפועל עקב אחרי נוחות ולא אחרי יכולת.
+- **"מערך כלים עשיר יותר משפר תוצאות עיצוב."** בסטודיו עיצוב אדריכלי עם **27 סטודנטים**, צוותים שהשתמשו בצנרת בינה מלאכותית יוצרת בתוספת [[virtual-and-augmented-reality|XR]] הראו **יעילות מדוכאת ללא מוצר משופר**. עושר כלים יכול לעלות בביטחון ולהשאיר את הארטפקט ללא שינוי.
 
 ## מושגים מחוברים
 
@@ -91,6 +106,7 @@ ai_assist:
 - [[generative-ai]]
 
 ## מאמרים מחוברים
+- [[apostolakis-trusstutor-bench-statics-2026]] — בנצ'מרק סטטיקה: פתרון וזיהוי שגיאות רוויים, התנגדות ללחץ לא
 
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[pbl-biomedical-engineering-genai-2026]]
@@ -101,7 +117,6 @@ ai_assist:
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)

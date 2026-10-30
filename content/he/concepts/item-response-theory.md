@@ -1,18 +1,23 @@
 ---
 title: תיאוריית תגובת הפריט
 created: "2026-10-12T20:00:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,7 +45,9 @@ IRT מתייחסת ליכולת (θ) ולפרמטרי הפריט (קושי, אב
 - **מעקב ידע ומידול לומד:** IRT קשורה קשר הדוק ל[[knowledge-tracing]] ול[[student-modeling]] — מודלים שעוקבים אחר ידע הלומד לאורך זמן — ומשתפת את המטרה להעריך מצבי לומד בלתי-נצפיים מתשובות נצפות.
 
 - **גדולי IRT שנקראים מלוגיטים של LLM.** [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] מחלצים יכולת תלמיד θ = z^GOOD − z^BAD וקושי פניית חונך d = z^HARD − z^EASY מלוגיטים של טוקן-הבא ומשלבים אותם בחזאי Rasch 1PL, מה שהופך מעקב ידע מבוסס-דיאלוג לניתן לפרשנות (64.29% דיוק, 65.25 AUC ב-QATD2k).
+- **תתי-משימות דיאלוג באותו סולם כמו שאלות.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan et al. (2026)]] ממירים את תתי-המשימות שחונכים מציבים באמצע הדיאלוג לשאלות עצמאיות וממקמים אותן על סולם IRT 1PL משותף אחד שקושיו נגזר מטקסט השאלה, תוך שימוש במהלכי פיגום-אחרי-מאבק ובדחיפה-לקפדנות כפיקוח על סדר הקושי.
 - **אימות שדה היררכי-בייסיאני:** [[assessing-quality-ai-generated-exams-field-2025|הערכת בחינות המיוצרות על ידי AI]] משתמש במודל IRT 2PL היררכי-בייסיאני (עם פריטי עיגון טרום-מבחן כדי למקם 1,686 סטודנטים על סולם θ משותף) כדי להראות ששאלות המיוצרות על ידי AI תואמות לפריטי בחינות תקניות שנכתבו על ידי מומחים בקושי ובאבחנה — הדגמה בקנה מידה גדול של IRT כגב המאמת ל[[automated-question-generation]].
+- **[[benchmark]] המיושר לתקנים יכול להגיע לרוויה.** בערכות מדעים של חטיבת-ביניים ותיכון המיושרות ל‑NGSS, רוב המודלים פתוחי-המשקל קיבלו מעל 90%, וכך מדדי פריט קלאסיים נותרו גרועים — קושי גבוה, הבחנה נמוכה, עם תאים טריוויאליים מעל 90% — ולכן המחברים אינם יכולים להפריד בין פריטים חלשים לבין תחום דעת שהפך לפתיר ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
 - **פונקציית הבדיקה ממקדת את הדיוק באופן מקומי.** מבחן אורייות-GenAI בן 20 פריטים שאומת עם מודל 2PL (RMSEA = 0.03, CFI = 0.97) הגיע לשיא פונקציית המידע שלו ב-θ = −0.8, מה שהופך אותו למדויק ביותר עבור לומדים בעלי אורייות נמוכה-עד-מתונה ולא אחיד לאורך הסולם ([[jin-glat-genai-literacy-assessment|Jin et al. (2025)]]).
 
 - **הפרדת תשובות אנושיות מתשובות GenAI באמצעות סטטיסטיקות התאמת-אדם:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] מחילים סטטיסטיקות התאמת-אדם (PFS) בתוך IRT כדי להבחין בין תשובות אנושיות לתשובות [[generative-ai]] בהערכות בחירה-מרובה. PFS מסמנות תשובות GenAI כ'חריגות' בשני הקשרים אותנטיים (בחינת [[chemistry-education|כימיה]] ובחינה לאומית), מראות ש[[conversational-ai|צ'אטבוטים]] שונים מפיקים דפוסי תגובה נפרדים (קבוצה בלתי-אחידה של 'אינטליגנציות'), וחושפות שגרסאות GenAI חדשות יותר הופכות דמויות-אדם יותר — מה שממקם את IRT כמסגרת עמידה לסינון [[academic-integrity|יושר]] בבדיקות בסיכון גבוה.
@@ -60,6 +67,13 @@ IRT מתייחסת ליכולת (θ) ולפרמטרי הפריט (קושי, אב
 
 IRT היא יסוד של [[educational-measurement]] ו[[assessment-validity]], מחזיקה את [[adaptive-learning]] (בחירת פריטים אדפטיבית) ואת [[student-modeling]], ומתחברת ל[[psychometrically-aware-ai]] (הערכת AI המיושרת עם תיאוריית מדידה) ול[[knowledge-tracing]]. היא מופיעה ב[[llm-difficulty-calibration-programming-exams-2026|כיול קושי LLM]] להערכת תכנות.
 
+## תפיסות מוטעות נפוצות
+
+- **"IRT דורשת ניהול מבחן קונבנציונלי."** אפשר לשחזר יכולת וקושי מ**לוגיטים של הטוקן הבא**: חילוץ **יכולת תלמיד θ = z^GOOD − z^BAD** ו**קושי פניית חונך d = z^HARD − z^EASY** ושילובם במנבא Rasch 1PL הופכים מעקב ידע מבוסס-דיאלוג למובן במונחי IRT. המסגרת הפסיכומטרית חלה על נתוני אינטראקציה, לא רק על תגובות לפריטים.
+- **"benchmark שרוב המודלים עוברים הוא benchmark טוב."** benchmark המיושר לתקנים יכול ל**הגיע לרוויה**: בערכות מדעים של [[k-12|חטיבת-ביניים]] ותיכון המיושרות ל‑NGSS, **רוב המודלים פתוחי-המשקל קיבלו מעל 90%**, ומדדי פריט קלאסיים נותרו גרועים. רוויה אינה אומרת שהמודלים מצוינים; היא אומרת שהפריטים אינם מבדילים עוד.
+- **"קושי פריט הוא תכונה מהותית של הפריט."** בדיקה סיבתית ש**ערכה 50 שאלות מבחן בכל מערך נתונים** לכיוון היפותזה או ממנה מצאה ש**עריכות שמעלות קושי הפחיתו דיוק ממוצע ב‑15.27 ו‑23.88 נקודות אחוז** ב‑GSM8K וב‑BBH-structured. קושי הוא יחס בין פריט למודל, והוא זז כשהפריט זז.
+- **"IRT נועדה רק לדירוג לומדים."** [[assessing-quality-ai-generated-exams-field-2025|הערכת בחינות המיוצרות על ידי AI]] משתמשת ב**מודל 2PL היררכי-בייסיאני עם פריטי עיגון טרום-מבחן כדי למקם 1,686 סטודנטים**, וזהו הבטחת איכות של ההערכה עצמה ולא דירוג עבור הסטודנט.
+
 ## מושגים מחוברים
 
 - [[educational-measurement]]
@@ -72,6 +86,7 @@ IRT היא יסוד של [[educational-measurement]] ו[[assessment-validity]], 
 - [[intelligent-tutoring]]
 
 ## מאמרים מחוברים
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — מסגרת תגובה מאוחדת לשאלות ולדיאלוגי חונכות
 - [[explaining-question-difficulty-natural-language-2026]] — Explaining LLM question difficulty in natural language through IRT and causal edits (Cui et al. 2026)
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
@@ -90,3 +105,4 @@ IRT היא יסוד של [[educational-measurement]] ו[[assessment-validity]], 
 - [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[llm-benchmark-secondary-science-topics-2026]] — benchmark מיושר לתקנים יכול להגיע לרוויה

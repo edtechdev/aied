@@ -1,18 +1,23 @@
 ---
 title: בינה מלאכותית מודעת לפסיכומטריה
 created: "2026-10-12T22:35:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -43,11 +48,19 @@ ai_assist:
 - **תוקף מדידה:** המושג מתחבר ל[[assessment-validity|תוקף הערכה]] ול[[educational-measurement|מדידה חינוכית]], המסגרות שמגדירות כיצד נראית הערכה חוקית ומהימנה מבוססת בינה מלאכותית.
 - **תוקף מבנה-לגנטי:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] מראים שגישה מודעת-פסיכומטרית חייבת גם לוודא שהערכה מודדת את *אותו מבנה לגנטי* במודלים לשוניים גדולים כמו בבני אדם. מכיוון שמבני הפקטור של תגובת מודלים לשוניים גדולים ואנושית מתפזרים על אותם מכשירים, אפילו מודלים שמציינים היטב עשויים שלא למדוד את המבנה שהמבחן מיועד למדוד — אזהרה לכל הערכת AI ששואלת ראית תוקף אנושית.
 - **תווית יכולה למדוד יותר, או פחות, ממה שהיא מכנה.** הטמעת 55 מבנים ו-272 פריטים של 12 מכשירי אוריינות AI חשפה זוגות jangle (אותה תווית, מדידה שונה) וזוגות jingle (תוויות שונות, ניסוח כמעט זהה), ושיחזרה מהימנות ב-r = 0.49, בדיקת קדם-איסוף שהבחנות מבנה שורדות לניסוח פריט ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **סולם הסתמכות שמסרב לעיגון-תוצאה.** ארבעה גורמים — שימוש רפלקטיבי, זהיר, חסר-מחשבה ושיתופי — עלו מ-800 תגובות והחזיקו מעמד במשימה בעלת צורה שונה (CFI = .91), ומודדים התנהגות לפי רגע-המשימה במקום לתייג אותה כטובה או רעה ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **צנרות יכולת-לגנטית וקביעת סטנדרט:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] מספקים תבנית קונקרטית לציון מודע-פסיכומטרי במבחן לאומי: ציוני פריט מחוון אינם מסוכמים ישירות אלא מוזנים לתוך מודל [[item-response-theory|IRT]] שאומדי היכולת-הלגנטית שלו נחתכים בשיטת קביעת-הסטנדרט של Bookmark ל-Proficient / Close to Proficiency / Insufficient, כאשר המעבר דורש לפחות שני חלקים ב-Proficient והנותר לפחות ב-Close to Proficiency. המחברים שיחזרו את הצנרת הזו בצורה אוטומטית (67% סבירות של מענה נכון על לפחות 7 פריטי מחוון לקיפול הנמוך ולפחות 10 לגבוה), ומאפשרים לציוני פריט של AI ואנושיים להיות מושווים נגד קריטריוני החלטה זהים ולא על הסכמה גלמית בלבד.
+- **מדדים מאוזנים תופסים מודל שרק נראה מכויל.** בקשה מ-GPT-4o ומ-Gemini 2.0 Flash להסיק ממדים של סגנון למידה מדיאלוגים של 153 סטודנטים לתואר ראשון הניבה דיוק בינוני שהרקול לכל-קטגוריה הראה שהוא חיזוי של תווית דומיננטית, כאשר לומדים אינטואיטיביים וגלובליים זוהו בחסר, ופרומפטים בסגנון few-shot לעתים הגבירו את ההטיה במקום להסירה ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]]).
 
 ### קשרים
 
 בינה מלאכותית מודעת לפסיכומטריה יושבת בצומת של [[educational-measurement|מדידה חינוכית]], [[assessment-validity|תוקף הערכה]], [[item-response-theory|תיאוריית תגובת הפריט]], ו[[automated-assessment|הערכה מבוססת בינה מלאכותית מודעת-ביטחון]]. היא מרכזית ל[[ai-ed-evaluation|הערכת התערבויות של בינה מלאכותית בחינוך]] (האם הערכת AI מהימנה) ומתחברת ל[[llm|הערכה אוטומטית מבוססת]] בינה מלאכותית, ל[[automated-assessment|גרדינג אוטומטי]] ול[[automated-assessment|הערכה אוטומטית מבוססת בינה מלאכותית]]. הדגשה שלה על תוקף מדברת גם על [[limitations-in-aied-research|המגבלות המדידתיות]] של מחקר ה[[ai-education|AIED]].
+
+## תפיסות מוטעות נפוצות
+
+- **"מודל שמציין טוב מודד את אותו הדבר."** על **אותו מכשיר הערכה**, מבני התגובה של בני אדם ושל מודלים לשוניים גדולים **מתפזרים** — מודל יכול לציין טוב ובכל זאת למדוד משהו אחר ממה שהמכשיר מתכוון. התאמת ציונים היא התצפית; שקילות מבנה היא טענה נפרדת שדורשת ראיה ברמת המבנה.
+- **"כיול ניתן לקרוא מהנתון דיוק בודד."** **מדדים מאוזנים תופסים מודל שרק נראה מכויל**: בקשה מ-GPT-4o ומ-Gemini 2.0 Flash להסיק ממדים של סגנון למידה מדיאלוגים של **153 סטודנטים לתואר ראשון** הניבה **דיוק בינוני שהתנהג אחרת תחת מדדים מאוזנים**. דיוק מצטבר הסתיר דיפרנציאל שמדדים מאוזנים חשפו.
+- **"צנרות ציון אוטומטיות אינן יכולות לשחזר הליך פסיכומטרי."** המחברים שיחזרו צנרת מבוססת בצורה אוטומטית (**67% סבירות של מענה נכון על לפחות 7 פריטי מחוון לקיפול הנמוך ולפחות 10 לגבוה**), ומאפשרים להשוות ציוני פריט של AI ואנושיים על אותו בסיס. ההליך היה ניתן לשחזור; שאלת המבנה נותרת.
 
 ## מושגים מחוברים
 
@@ -61,6 +74,7 @@ ai_assist:
 - [[ai-education]]
 
 ## מאמרים מחוברים
+- [[genai-reliance-scale-problem-solving-2026]] — A validated scale for students’ reliance on generative AI during problem solving (Hou et al. 2025)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
@@ -72,3 +86,4 @@ ai_assist:
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Moderate accuracy was majority-class prediction once per-class recall was checked (Zamanifard, Goudarzi & Robb 2026)

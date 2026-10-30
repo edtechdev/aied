@@ -1,6 +1,7 @@
 ---
 title: צמצום שימוש לרעה בבינה מלאכותית
 created: "2026-10-12T22:15:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,13 +10,17 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,6 +44,7 @@ ai_assist:
 ### מדוע דוושות מבניות חשובות ביותר
 
 התערבויות ניתנות למיון לפי **ראיות סיבתיות × הישג מבני × סקלאביליות × [[sustainability|קיימות]]**. על בסיס זה, שתי הדוושות *המבניות* מדורגות גבוה ביותר, מכיוון שהן פועלות אם הסטודנטים בוחרים בהתנהגות הנכונה או לא — הן contraining את הסביבה במקום להסתמך על מוטיבציה פנימית. הדוושות *החינוכיות* הן חיוניות אך יעילות רק כשהסטודנטים נספגים, ולכן נחשבות לדרג השנייה למרות ההבטחה הקונספטואלית שלהן. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] דוחפים את הטיעון המבני דרגה למעלה, מתייחסים לממשל ולא להתנהגות הסטודנטים כקובע-האילוץ, ומציעים מסגרת מחווני יושר בת 130 פריטים כדי ששומרי היושר האקדמי יוכלו לראות אם ההערכה אותנטית, אם הסטודנטים מוכרים באופן אינדיבידואלי על ידי המורים המעריכים אותם, ואם יושר מופיע בקליטה ובהתמצאות. הרפורמות שלהם מכוונות לארכיטקטורות ממשל, אנשים ו[[ai-technologies|טכנולוגיות ומשאבים]], והם מציעים לשאול את [[guardrails|צוות האדום]] מאבטחת סייבר כדי לחשוף פגיעויות הערכה לפני שהסטודנטים מוצאים אותן — תזכורת שהרצף המבני מתוחזק על ידי מוסדות שצריכים גם את המידע וגם את הרצון לתחזק אותו.
+ספרות השימוש האחראי עצמה לעיתים רחוקות בוחנת את השרשרת שדירוג זה מניח. מתוך 122 רשומות גישה שנשאבו מ-31 מחקרים, 51 יושמו והוערכו שתיהן, רובן בדיווח עצמי, ורק ארבעה מחקרים הגדירו גבול, עיצבו התערבות סביבו ובחנו אם החלטות הסטודנטים התיישרו ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega and Zhao (2026)]]).
 
 ### דרג 1 — הוכח ישירות כמפחית נזק למידה
 
@@ -147,3 +153,4 @@ ai_assist:
 - [[li-genai-assessment-language-equity-2026]] — Where language support ends and substitution begins for EAL writers (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection as a misuse vector against AI grading (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance as the binding constraint on integrity: a 130-item indicator framework (Coates, Croucher & Calderon 2025)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — שימוש אחראי של סטודנטים בבינה מלאכותית יוצרת בכתיבה אקדמית: סקירת היקף של גבולות, גישות חינוכיות ופערי ראיות

@@ -1,6 +1,7 @@
 ---
 title: אפקטים דיפרנציאליים בין קבוצות לומדים
 created: "2026-10-12T20:30:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -12,13 +13,17 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -123,6 +128,12 @@ ai_assist:
 - **העדיפו תכנים מוויינים היכן שהראיות מתירות.** תוצאת חלוקת הסרטונים של ADHD — כולם משתפרים, הפער נסגר — היא מטרה מתאימה יותר לכיתה כללית מאשר תוספת ממוקדת-קבוצה.
 - **היזהרו עם התאמה אישית הצורכת מאפייני דמוגרפיה.** ממצא ה[[marked-pedagogies-linguistic-bias-writing-feedback|פדגוגיות המסומנות]] עוסק ישירות במנגנון הזה, והוא חל על בדיקות [[well-being|רווחה]], על [[affective-computing|חונכים אפקטיביים]], ועל [[recommender-systems-and-learning-paths|מערכות המלצה]] שמפרופלות לומדים.
 - **בדקו באופן מקומי, על הקבוצה שאכפת לכם מפר, עם תוצאה שנמדדה ללא הכלי.** ראו [[interpreting-and-applying-aied-research|פרשנות ויישום מחקר AIEd]] עבור הרגלי ההערכה ו[[research-methods-aied|שיטות מחקר בחינוך באמצעות בינה מלאכותית]] עבור התכנים שהופכים בדיקה מקומית להגנה.
+
+## תפיסות מוטעות נפוצות
+
+- **"תוויות קבוצה לוכדות את השונות שחשובה."** **תוויות קבוצה מסתירות את השונות שבתוכן**: במטא-אנליזה של מוגבלות, תלמידים עם **מוגבלויות למידה ספציפיות, מוגבלויות אינטלקטואליות והתפתחותיות** וקטגוריות אחרות נאגדים יחד, ולכן הממוצע הקבוצתי אינו מתאר אף אחד מהם.
+- **"ניתוחי תת-קבוצות עונים על שאלת ההשפעות הדיפרנציאליות."** הם בדרך כלל **קטנים מדי כדי לענות עליה**: ה[[ai-tutoring-micro-rct-gcse-science-2026|micro-RCT במדעים ב‑GCSE]] אומר זאת באופן בלתי-רגיל במפורש, שהניגוד של ה**טיפול** מתוכנן לעוצמה עבור האפקט הכולל ולא עבור הבדלי תת-קבוצות. ממצא תת-קבוצה חסר-עוצמה הוא היפותזה, לא תוצאה.
+- **"אפקט משוכלל בינוני אומר לך אם קבוצה נתונה נהנית."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 מחקרים (קווזי-)ניסוייים]] אוגדו ל‑**Hedges' g = 0.588 (95% CI [0.349, 0.826])** על-פני קטגוריות מוגבלות. הרווח מתאר את הממוצע על-פני אותן קטגוריות, ו"איזו קבוצה, איזה צורך" הוא ניתוח נפרד.
 
 ## מושגים קשורים
 

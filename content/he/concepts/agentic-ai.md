@@ -12,13 +12,18 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -79,6 +84,8 @@ ai_assist:
 
 - **סוכני LLM ספציפיים-משתתף לפתרון בעיות שיתופי.** Fang (2026) מכוונן סוכני LLM בודדים על נתוני דיאלוג של משתתפים אמיתיים כדי לייצג כל משתתף בסימולציות פתרון בעיות שיתופיות, עם בחירה הסתברותית של דובר וקודי נושא וזיכרון של חלון-נגלל ועם סיכום. עם אימות באמצעות [[network-analysis|ניתוח רשת אפיסטמית]], הדיאלוגים המדומים אינם נבדלים מבחינה סטטיסטית מאמיתיים (מרחק ENA 0.17, p=0.65 בשיטת פרמוטציה) — הדגמה של בינה מלאכותית סוכנית המשחזרת שיח שיתופי אותנטי.
 - **חונכות מרובת-סוכנים בעלת אינטליגנציה חברתית.** אבות-טיפוס של חונכות מרובת-סוכנים בעלת אינטליגנציה חברתית כמו ASTRA חוקרים כיצד לומדים מתואמים עם AI בזוגות, תוך שימוש בסוכני חונך ומנחה נבדלים לעידוד תיאום והשתתפות מאוזנת. ההערכה המבוססת-מעקב של המסגרת מאפשרת ניתוח שכפול של אינטראקציה, איזון השתתפות ואימות בתכנות מבוא.
+
+**תשובה ארגונית: הלומד כחבר משתתף ולא כמקבל.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] מממשים ארגון מרובה-סוכנים עם השתתפות אנושית, שבו סוכנים מתמחים מחזיקים "תכנית יכולת" ניתנת-לתיקון המקשרת מטרות אישיות, פעילויות רב-מודאליות והערכה מדורגת, עם "צומת אנושי" ניתן-לתיקון הנושא את הראיות והאתגרים של הלומד עצמו אל תיקונים מאוחרים. מול קו הבסיס הרב-סוכני הקרוב ביותר, לאורך 96 מקרי לומד מסוימים, היתרון התרכז בעיצוב ההערכה: 19.32 נקודות גבוה יותר בתקפות ההערכה (95% CI [17.55, 21.04]) ו-5.89 בכיסוי היכולות, בעוד שההתאמה האישית לא הבדילה (1.35 נקודות, רווח החוצה אפס). במחקר אקראי של 32 לומדים הרווח בידע במבחן אובייקטיבי בן 50 נקודות היה 12.19 לעומת 5.61 נקודות.
 
 ## המתח המרכזי: אוטומציה אל מול למידה
 
@@ -203,6 +210,7 @@ ai_assist:
 
 ## מאמרים מחוברים
 
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — סוכנים המאורגנים סביב תכנית יכולת ניתנת-לתיקון, עם הלומד כחבר
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)

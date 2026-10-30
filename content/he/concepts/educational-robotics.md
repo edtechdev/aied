@@ -1,6 +1,7 @@
 ---
 title: רובוטים בחינוך
 created: "2026-10-12T19:15:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -10,13 +11,17 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -71,12 +76,19 @@ ai_assist:
 - **שתי פרדיגמות ללומדים צעירים: רובוטי קוד ורובוטים חברתיים גנרטיביים.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] ממסגרים רובוטיקת גיל-רך כצימוד של שתי פרדיגמות [[pedagogy|pedagogical]], כל אחת עם בסיס תיאורטי נפרד. **רובוטי קוד** (Bee-Bot, KIBO, Matatalab) יורדים מ-LOGO של Papert ומגשימים [[constructivist|constructionism]] — ילדים לומדים על ידי יצירה ובונים [[computational-thinking|computational thinking]] באמצעות תכנות מוחשי. **רובוטים חברתיים גנרטיביים**, המופעלים ע״י [[generative-ai|generative AI]], מבוססים על [[sociocultural-learning|social constructivism]], ופועלים כעמיתים או מורים קונבנסציוניים שמספקים [[scaffolding|scaffold]] ללמידה בתוך אזור הפיתוח הקרוב של הילד ותומכים בפיתוח סוציו-רגשי. גישת **Creative Project Approach** בחמישה שלבים שלהם לשילוב שני סוגי הרובוט לגישת הפרויקט שומרת מורים כמקלים שמנחים תקשורת ילד-רובוט, מאיזנים אוטומציה עם [[creativity]], ושומרים [[agency]] ילד.
 
 - **מה שרובוטיקת חשיבה חישובית בגן-ילדים עושה בפועל.** סקירה שיטתית של 53 מחקרים מצאה למידה מבוססת-בעיה, סיפור סיפורים, ופיגום כאסטרטגיות הנמצאות בשימוש התדיר ביותר, עם רוב המחקרים לא מכנים מסגרת חשיבה חישובית ומשתמשים בכלי הערכה אד הוק במקום במכשיר מאומת כמו TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
+- **תכנון מודל לשוני ולא שיחה.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] משתמשת במודל חזותי-לשוני כדי להמיר צילומים של Shoebox Tasks — פעילויות מובנות חזותית המשמשות לומדים על הספקטרום האוטיסטי — לבעיית PDDL שהומנואיד Nao מבצע או מדגים, כשנכונות התוכנית נמדדת על פני שישה מטלות ולא לפי שום תוצאת לומד.
 
 ### גיבוש ופדגוגיה
 
 עיצוב מגדיר הוא שרובוטים יעילים כאשר הם תומכים במטרות למידה אמיתיות — לא כתרגילים טכניים מבודדים. מקרן רובוטי מותקן-שולחן המקושר עם ChatGPT נייד תוך שניתן עזר (6.7 לעומת 7.3/10, p = .41) אך החזיק את הציון שלו לאחר הנסיגה (7.0 לעומת 4.4/10, p = .003), ציון העברה קצרת-טווח גבוה ב-60% — רווח תלוי-משימה שהמחברים מייחסים לשיתוף-מיקום מרחבי ולא להחלפה כללית ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). הערך של רובוט תלוי בהקשר הפדגוגי: הוראת חשיבה חישובית ([[computational-thinking]]), תמיכה ב[[stem-education|STEAM]], בניית כישורי [[cs-education|programming]], מוטיבציה ללומדים ([[motivation]], [[student-engagement|engagement]]), או תמיכה ב[[social-emotional-learning]] וב[[equity-in-ai-education|inclusion]]. הרובוטיקה מתחברת גם ל[[project-based-learning]], [[game-based-learning]], ו[[experiential-learning]]. שיקולי תכן מפתח כוללים שימור [[agency]] הלומד, בניית [[trust]], תמיכה ב[[self-efficacy]], והעמדת הלמידה ב[[embodied-learning|embodied interaction]]. ב[[language-learning]], עדות [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] מצביעה על היעילות של למידת שפה מסייעת-רובוט מגובשת.
 
 - **נתיבים ללמידת רובוטיקה המופעלת בבינה מלאכותית.** מחקר איכותני [[educational-robotics-pathways-2026|A qualitative study]] של תלמידי תיכון בתכנית רובוטיקה+AI מצא למידה באמצעות פרקטיקת עולם-אמיתי, תכנון, וביטוי יצירתי משחקי (עדשה קונסטרוקטיביסטית, אפיסטומולוגית-פלורליסטית).
+
+## תפיסות מוטעות נפוצות
+
+- **"רובוטיקה מלמדת חשיבה חישובית מכוח היותה רובוטיקה."** סקירה שיטתית של **53 מחקרים** מצאה ש**למידה מבוססת-בעיה, סיפור סיפורים ופיגום** היו האסטרטגיות הנמצאות בשימוש התדיר ביותר — הפדגוגיה נשאה את התוצאה, וזה מה שהמחקרים עשו בפועל.
+- **"רובוטים פיזיים גוברים על חלופות מבוססות-מסך בכל המובנים."** הרווחים היו **תלויים-במשימה**: ציון העברה קצרת-טווח **גבוה ב-60%** אצל [[aifred-desk-robotic-ai-guidance-2026|Orlando ואח'., 2026]] (4.4/10, p = .003) שהמחברים מייחסים ל**שיתוף-מיקום מרחבי ולא להחלפה כללית**. הטענה היא על שיתוף-מיקום במשימות מסוימות, לא על פיזיות בכלל.
+- **"חשיבה חישובית בגן-ילדים מוקדמת מכדי להיות משמעותית."** הראיות הנסקרות מכסות רובוטיקה בגן-ילדים ישירות, מה שאומר שטווח הגיל נחקר ולא הונח כלא-מתאים.
 
 ## מושגים מקושרים
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education
@@ -130,3 +142,4 @@ ai_assist:
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
 - [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — מודל חזותי-לשוני מתכנן Shoebox Tasks עבור רובוט Nao (Kudláčková 2026)

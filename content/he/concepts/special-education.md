@@ -2,6 +2,7 @@
 connected_resources: [teacherserver]
 title: חינוך מיוחד
 created: "2026-10-12T21:55:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -9,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,10 @@ ai_assist:
 **פריקת עומס קוגניטיבי לסטודנטים עם מוגבלות למידה (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], סקירה קונספטואלית בסדרה מיוחדת של *Learning Disability Quarterly* על בינה מלאכותית לסטודנטים עם LD, ממסגרות מחדש את השימוש ב[[generative-ai|GenAI]] עבור SWLDs באמצעות עדשת ה[[cognitive-offloading]]. הן טוענות ש-GenAI יכול להיות **עזר מפצה או קיצור-דרך** בהתאם לאופן שבו החלטות פריקת-העומס מתערבות עם הפרופילים הקוגניטיביים וה[[motivation|מוטיבציוניים]] של SWLDs (אתגרי תפקוד-מנהלי וזיכרון-עבודה, עומס קוגניטיבי מוגבר, מטרות ביצוע נמנעות-מאמץ, מסוגלות-עצמית אקדמית נמוכה יותר, וציפיות מוגזמות כלפי GenAI) ועם עיצוב הוראה. לקריאה ולכתיבה, GenAI יכול לפגום גישה (יישור רמת-טקסט, סיכום, פלטים [[multimodal]], תכנון, ניסוח, משוב תיקון) תוך שימור [[student-engagement|מעורבות]] מסדר-גבוה — אך פריקת-עומס מוגזמת מסכנת לעקוף את תהליכי ההבנה, התכנון והפיקוח שכבר שבירים ללומדים אלה, לטפח "עצלות [[metacognition|מטאקוגניטיבית]]" ולהחמיר קשיי אוריינות על פני תחומים. המאמר ממקם [[guardrails|מעקות-בטיחות]] הוראיים כגורם-המתווך המרכזי וממליץ על [[teacher-role|הוראה]] של פריקת-עומס אסטרטגית, בניית [[ai-literacy]] לכיול אמון-בכלי, סדרת חוויות-שליטה לבניית [[self-efficacy]], ויישור משימות והערכה עם מטרות IEP שמקדימות פיתוח כישורים על פני תחלוף. הדבר מרחיב את כיסוי החינוך-המיוחד של מאגר הידע לממד השוויון של פריקת-העומס: אותו כלי שמוריד חסמי גישה יכול, אם לא-משומר, להחליף את התרגול ש-SWLDs זקוקים לו ביותר.
 **תוכן התערבות המופק על ידי בינה מלאכותית זקוק לבקרות קדם-הפקה, ולא רק לסקירה.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] מצאו שפרקטיקנים דירגו את כלי Social Story שעוצב-בשותפות כשמיש במידה גבוהה (SUS 86.8) ועדיין כינו את התמונות שלו מערביות-גנריות ואת עוקב ההתנהגות שלו לא-מתאים לשיפוט קליני מקושר-מטרה — אילוצים שהיו קובעים לפני ההפקה.
 
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] מתחילה מהחומרים ולא מהשיחה: מודל חזותי-לשוני קורא צילומים של משימות קופסת נעליים — שעוצבו כך שהמטרה נראית בחפצים עצמם — והופך אותם לתוכנית שרובוט הומנואידי Nao מבצע או מדגים, ומדווחת דיוק תוכנית על פני שישה משימות וללא נתוני לומדים.
+
+- **התנהגות מאתגרת היא המקום שבו בנצ'מרקים לחונכות נעצרים.** מתוך 923 דיאלוגים מעוגני-מקרים שנלקחו מספרות החינוך המיוחד והפסיכולוגיה החינוכית, הטוב מבין 11 מודלים סיפק התערבות מתועדת ב-55.8% מהמקרים הפתוחים וב-43.3% מהתוכניות ארוכות-הטווח ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+
 ## השלכות למרצים בחינוך מיוחד
 
 - **עצבו בינה מלאכותית בשותפות עם הלומדים והקהילה המטרה.** [[llm-question-generation-deaf-hard-of-hearing-2026|יצירת שאלות ללומדים כבדי-שמיעה/קשים]] מראה את הערך של שיפור איטרטיבי של בינה מלאכותות עם הקהילה כדי לגשר על הפער בין הנחיות מבוססות-טקסט לשפות-אם מבוססות-סימנים — כללו לומדים וקהילותיהם בעיצוב במקום להניח שבינה מלאכותית מתאימה להם.
@@ -56,6 +65,12 @@ ai_assist:
 - **השתמשו בבינה מלאכותית כדי לסגור (לא להרחיב) פערי ביצועים.** [[adhd-video-segmentation-computing-education|סרטונים מפוצלים על ידי בינה מלאכותית]] חיסלו את פער הביצועים של ADHD — פרסו בינה מלאכותית אדפטיבית במקום שבו ראיות מראות שהיא שוות-תוצאות, לא במקום שהיא רק מבצעת אוטומציה.
 - **מרכזים עיצוב מגולם מוביל-מוגבלות.** מחקר [[embodied-string-learning-blindness-low-vision-musicians|מוזיקאים עיוורים/בעלי-ראיה-חלשה]] מראה שאסטרטגיות לא-חזותיות ומובילות-מוגבלות גוברות על ממשקים חזותיים בברירת-מחדל — בנו והתאימו בינה מלאכותית עם מומחיותם של לומדים מוגבלים.
 - **הישמרו משולל אפיסטמי.** פרספקטיבות [[genai-minoritized-knowledges-disability|ביקורתיות]] מזהירות שנתוני אימון מערב-מרכזיים יכולים לשולל ידע ממורכז-מוגבלות — בחנו ביקורת תוכן וכלי בינה מלאכותית לצדק אפיסטמי לצד ה[[equity-in-ai-education]].
+
+## תפיסות מוטעות נפוצות
+
+- **"דירוגי שמישות מאמתים כלי מסייע."** פרקטיקנים דירגו כלי Social Story שעוצב-בשותפות כ**שמיש במידה גבוהה (SUS 86.8)** ועדיין כינו את **תמונותיו מערביות-גנריות** ואת **עוקב ההתנהגות שלו לא-מתאים לשיפוט קליני מקושר-מטרה**. שמישות גבוהה התקיימה לצד כשלים מהותיים, ולכן ציון SUS אינו אישור להתאמה.
+- **"בנצ'מרקים גנריים מספרים כיצד חונך מתמודד עם מקרי חינוך מיוחד."** מתוך **923 דיאלוגים מעוגני-מקרים** שנלקחו מספרות החינוך המיוחד והפסיכולוגיה החינוכית, **הטוב מבין 11 מודלים** סיפק קריטריון מתועד — ו**התנהגות מאתגרת היא המקום שבו בנצ'מרקים לחונכות נעצרים**. הערכות סטנדרטיות אינן מגיעות למקרים שבהם פרקטיקנים זקוקים לעזרה ביותר.
+- **"לומדים נוירו-מגוונים זקוקים להתאמות, לא לדרישות עיצוב."** [[neurodivergent-computing-students|Zastudil et al.]] מצאו שסטודנטים נוירו-מגוונים במחשוב זקוקים ל**מטלות מובנות, לצוותים קטנים ועקביים ולהגדרות תפקיד מפורשות** — דרישות עיצוב כלליות שמועילות לכולם, ולא התאמות אישיות הניתנות לאחר אבחון.
 
 ## מושגים מחוברים
 
@@ -75,6 +90,7 @@ ai_assist:
 
 ## מאמרים מחוברים
 
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: הערכת חונכי LLM על סטודנטים עם התנהגויות מאתגרות (Park et al. 2026)
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
@@ -85,3 +101,4 @@ ai_assist:
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — מודל חזותי-לשוני מתכנן משימות קופסת נעליים לרובוט Nao (Kudláčková 2026)

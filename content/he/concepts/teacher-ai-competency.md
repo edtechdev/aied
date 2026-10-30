@@ -1,6 +1,7 @@
 ---
 title: כושר AI של המורה
 created: "2026-10-12T21:30:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,12 +14,16 @@ confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 
 ---
@@ -128,6 +133,7 @@ ai_assist:
   ([[equity-in-ai-education|שוויון]]).
   [[llm-cultural-relevance-k12|שימוש בינה מלאכותית רלוונטי-תרבותית]] בוחן כיצד
   מורים יכולים להשתמש במודלי שפה לגיוון חומרים ולא לחזוק נורמות דומיננטיות.
+- **ייצוג חזותי הוא ממד מדיד בפני עצמו.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] אימתו סולם בן חמישה ממדים ליצירה, לשיפוט ולפעולה על ייצוגים חזותיים עם 566 מורים בחמישה מחוזות במערב סין, עם אלפא של תת-סולם מ‑0.911 עד 0.934; הסולם מודד יכולת מדווחת, ללא בדיקת-חוזר וללא תצפית בפרקטיקה.
 - **אחריות אתית מבוזרת, לא פרטנית.** לאורך שבעה מקרים לאומיים, מורים ממוקמים
   כשומרי-סף מוסריים של שימוש בבינה מלאכותית תוך חוסר תמיכה מוסדית ואפיסטימית,
   ולכן אוריינות AI אתית חייבת להתרחב לסוכנות ביקורתית ופוליטית ולא לכושר טכני
@@ -531,3 +537,4 @@ Piepenburg (2026) מצאו ש-ChatGPT שיפר את **הזמן שהושקע** ב
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — עיצוב מודולי-מיקרו-למידה על AI למורות אוניברסיטאות בחינוך-מורות מקצועי: מחקר עיצובי-מבוסס
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: כיצד צ'אטבוטים שמורים הגדירו נכשלים בשימוש בעולם האמיתי וכיצד לתקן זאת
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — פיתוח ואימות של סולם כשירות הוראה חזותית מוגברת-AI למורים (Chen et al. 2026)

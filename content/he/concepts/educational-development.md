@@ -2,6 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: פיתוח חינוכי
 created: "2026-10-12T19:30:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -73,7 +78,7 @@ ai_assist:
 
 ### הנחיות פרקטיות למעצבי תכניות
 
-למפתחי סגל, מנהיגים אקדמיים ו[[stakeholders|מעצבי הוראה]] המתכננים [[professional-training|פיתוח מקצועי]] בבינה מלאכותית, הראיות במאגר הידע מציעות:
+למפתחי סגל, מנהיגים אקדמיים ו[[stakeholders|מעצבי הוראה]] המתכננים [[educational-development|פיתוח מקצועי]] בבינה מלאכותית, הראיות במאגר הידע מציעות:
 
 **התייחסו לארבעה מנעי האימוץ, לא רק לידע.** ביטחון, גישות, תמיכה ודאגות חוזים אם הסגל יאמץ בינה מלאכותית בפועל — סדנה שמבוססת-ידע בלבד שמתעלמת מאלה סבורה פחות לשנות פרקטיקה. תכננו פיתוח לבניית ביטחון באמצעות שימוש מעשי, ספקו תמיכה מתמשכת (לא הדרכה חד-פעמית), וחשיפו ותגיבו לדאגות הסגל.([[teacher-ai-adoption-confidence]])
 
@@ -84,6 +89,7 @@ ai_assist:
 **התייחסו למוכנות כבעיית יישור סוציו-טכנית.** [[sangwa-epiq-ai-faculty-readiness-2026|מסגרת EPIQ-AI]] מראה שמוכנות הסגל עוטה על תחומים אפיסטמיים, פדגוגיים, מוסדיים ואיכות-ותאימות. תכניות שמאמנות רק את היחיד מפספסות את המנופים המוסדיים (מדיניות, עומס עבודה, תמריצים, תקני איכות) שמאפשרים או חוסמים שינוי — ישרו אותם לצד ההדרכה.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **אל תתייחסו להשקעה בתשתית כטרנספורמציה.** ב-125 מחקרים, השקעה מוסדית בתשתית GenAI ובפיתוח חינוכי תואמה רק בחוזקה חלשה עם שינוי פדגוגי בפועל (r = 0.12), בעוד 60–70% מהמדריכים הרגישו לא-מוכנים לשלב GenAI — מה שהופך את הפיתוח, לא את הרכש, לאילוץ המחייב.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**תנו שם לכשל, לא רק לגודל האפקט.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe and Martínez-Pérez (2026)]] מכנים זאת חדשנות מדומה: נוכחות כלי מסמנת התקדמות, פורמטי הוראה והערכה נשארים כפי שהם, שיעורי אימוץ ולוחות בקרה עומדים במקום למידה, ומחזור שחרור הטכנולוגיה קובע את הכיוון. האבחון שלהם דורש מתוכנית פיתוח להצדיק כל כלי מול בעיית למידה בשמה לפני האימוץ.
 
 **בנו לעבר עיצוב מחדש של תכנית הלימודים, לא אימוץ כלים.** המטרה היא סגל שמתכנן מחדש קורסים והערכה, לא רק מוסיף כלי בינה מלאכותית. קעקעו פיתוח מקצועי בעבודת עיצוב מחדש ברמת-קורס ורפורמת הערכה, וספקו לסגל מסגרות מובנות לכך (למשל [[ai-assessment-scale-reform|סולמות הערכה]], [[institutional-change-framework-ai|מסגרות שינוי מוסדי]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -173,3 +179,4 @@ ai_assist:
 
 - [[faculty-ai-well-being-social-supports-2026]] — רווחת בינה מלאכותית של סגל עוקבת אוריינות בינה מלאכותית ולא יעילות עצמית טכנולוגית
 - [[ai-competence-framework-landscape-2026]] — בדקו מה מתארים שלבי המסגרת לפני אימוצה
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — האם החינוך יכול לקבוע את סדר היום ל-AI? חדשנות מדומה וכיוון פדגוגי בהכשרת מורים

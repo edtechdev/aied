@@ -1,6 +1,7 @@
 ---
 title: עיצוב תוכנית לימודים
 created: "2026-10-12T20:55:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -12,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -46,6 +51,8 @@ ai_assist:
 בסקירת השינוי כסיסטמי ולא כתוספת, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] משולשים סקירת היקף, מיפוי ביבליומטרי של 209 רשומות, 36 מאמרים ועשר ראיונות עם מנהיגים אקדמיים לחמישה זזים — ובהם מעבר מהעברת ידע לפיתוח יכולת, ומניסויים מקומיים לממשל מוסדי.
 
 **מיפוי וניתוח תוכניות לימודים** משתמש בבינה מלאכותית כדי להבין תוכניות לימודים קיימות. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** ניתחו 23 סילבוסים מקורסים של הנדסת תוכנה בסיוע בינה מלאכותית, זיהו נושאים נפוצים — [[prompt-engineering|הנדסת הנחיות]], סקירת קוד עם בינה מלאכותית, [[ethics|שיקולים אתיים]] — והנחיתו הנחיות עיצוב המדגישות איזון בין רהיטות כלי לידע יסודי. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** מיישם שיטות חישוביות להשוואת מבני קורסי מדעי המחשב בין מוסדות.
+
+שקילה משנה את מה שניתוח תוכנית לימודים מדווח: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] נתנו ל‑GPT-o3-mini לחלק 100% על פני שבע מיומנויות ארגוניות עבור כל אחת מ‑48 מטלות הערכה, והגיעו לאלפא של Krippendorff של 0.81 כנגד משקלות מומחים, אך ההסכמה הפכה שלילית עבור מיומנויות שהתיאורים אינם מציינים אותן במפורש (-0.19).
 
 **שילוב אוריינות בינה מלאכותית** מטמיע כשירויות בינה מלאכותית על פני תחומי דעת. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** מספקת מסגרת אוריינות בינה מלאכותית משופעמת, הניתנת-ליישום בכל הגילים ובכל שלבי החינוך, ומתייחסת ל[[digital-divide|פערים דיגיטליים]] ברמה השנייה והשלישית. **[[tracing-genai-literacy-interaction-patterns]]** בודקת כיצד אוריינות בינה מלאכותית מתפתחת באמצעות דפוסי אינטראקציה. **[[hingle-collaborative-ai-literacy-2025]]** חוקרת גישות שיתופיות לפיתוח תוכנית לימודים של אוריינות בינה מלאכותית, ומתחברת ל[[collaborative-learning]].
 
@@ -93,6 +100,12 @@ LearnAI מראה כיצד נראית גרסה מוטמעת: שכבת חשיפה 
 
 עיצוב תוכנית לימודים מתחבר ישירות ל[[learning-design]] — תוכנית הלימודים מגדירה מה, ההוראה מגדירה כיצד. הוא מתחבר ל[[ai-literacy]] מכיוון שהטמעת כשירויות בינה מלאכותית היא אתגר תוכנית-לימודים עיקרי, ל[[teacher-role]] ול[[educational-development]] מכיוון ששינוי תוכנית לימודים דורש הכנת מחנכים, ול[[scaffolding]] מכיוון שתוכניות לימודים מעוצבות היטב מפגמות פיתוח כישורים על פני קורסים ושנים. החיבורים ל[[higher-ed]] ול[[k-12]] משקפים את הרלוונטיות של עיצוב תוכנית לימודים על פני רמות חינוכיות.
 
+## תפיסות מוטעות נפוצות
+
+- **"מודל LLM יכול למפות תוכנית לימודים לאחר שאומת באמינות גבוהה."** GPT-o3-mini חילק **100% על פני שבע מיומנויות ארגוניות עבור כל אחת מ‑48 מטלות הערכה**, והגיע ל**אלפא של Krippendorff של 0.81** כנגד משקלות מומחים — ו**ההסכמה** קרסה עבור מיומנויות מסוימות. אמינות כוללת גבוהה עם הסכמה לא-אחידה היא הדפוס שכדאי לבדוק לפני שסומכים על המיפוי.
+- **"הטמעת אוריינות AI פירושה הוספת קורס."** LearnAI מראה את הצורה המוטמעת: **שכבת חשיפה רחבה של מצגות קצרות בתוך 18 קורסים קיימים בחמישה תחומי דעת (293 סטודנטים)**. החשיפה פוזרה על פני תוכנית הלימודים ולא נאספה ליחידה אחת.
+- **"סטודנטים מגיעים כשביכולתם כבר להעריך מדיה באופן ביקורתי."** רק **13.8% מסטודנטי החינוך והעיתונות שנסקרו** אמרו שהקורסים שלהם עסקו בניתוח מדיה ביקורתי, לעומת **97.8% שדירגו אותו כחשוב**. הפער בין הערכת מיומנות לבין לימודה הוא הפתח התוכני.
+
 ## מושגים מחוברים
 
 - [[pedagogical-partnerships]] — שותפויות פדגוגיות
@@ -116,6 +129,7 @@ LearnAI מראה כיצד נראית גרסה מוטמעת: שכבת חשיפה 
 
 ## מאמרים מחוברים
 
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — מיפוי מיומנויות משוקלל ומאומת-מומחים לאקרדיטציה
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)

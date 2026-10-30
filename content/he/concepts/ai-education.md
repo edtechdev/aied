@@ -1,7 +1,7 @@
 ---
 title: בינה מלאכותית בחינוך
 created: "2026-09-22T14:34:58-04:00"
-updated: "2026-10-27T04:16:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -100,11 +104,13 @@ ai_assist:
 - **מודלים וטכניקות:** [[generative-ai|בינה מלאכותית יוצרת]], [[llm|מודלים לשוניים גדולים]], [[rag|הפקה מוגברת באחזור]], [[multimodal|מודלים רב-מודאליים]], [[educational-nlp|עיבוד שפה טבעית חינוכית]], [[reinforcement-learning|למידת חיזוק]], [[knowledge-graph|גרפי ידע]], [[educational-robotics|רובוטים בחינוך]], [[conversational-ai|בינה מלאכותית שיחתית]], [[simulation|סימולציה]] ו[[llm-training-and-fine-tuning|אימון מודלים לשוניים להוראה]]. גם השיטות שמתחת לפני השטח חשובות: [[machine-learning|למידת מכונה]] היא המקום שבו המערכות האלה נבנות, [[speech-and-voice-technologies|טכנולוגיות דיבור וקול]] נושאות חונכות מדוברת ותרגול שפות, [[visualization|המחשה חזותית]] מכסה לוחות מחוונים ואנליטיקה חזותית ללומדים ולמרצים, ו[[virtual-and-augmented-reality|מציאות מדומה ומוגברת]] מאכסנת תרגול סוחף ששכבתו החזותית נוצרת כעת בידי המודל. גם סגנונות אינטראקציה חדשים יותר שייכים לכאן, ובראשם [[vibe-coding|קידוד אווירה (vibe coding)]], זרימת העבודה המונעת משפה טבעית שבה המשתמש מגדיר תוכנית בהנחיית מודל לשוני ושופט את ההתנהגות שמתקבלת במקום לקרוא או לערוך קוד מקור, וכך ממוסגר מחדש ה[[cs-education|תכנות]] כמעשה של ביטוי ושל אימות ומורד המחסום בפני [[teacher-role|משתמשי קצה]] שבונים לעצמם כלים. מסגרות של עומק אינטגרציה כמו [[samr-model|SAMR]] ותיאוריות אימוץ כמו [[technology-acceptance-model|TAM]] מסווגות עד כמה עמוק הבינה המלאכותית נקלטת ועד כמה היא משנה את המשימה.
 - **מידול לומד ומערכות אדפטיביות:** המערכות הטכניות שמייצגות את הלומד ומסתגלות אליו מקובצות תחת מטריית [[student-modeling|מידול הלומד והוראה אדפטיבית]]: [[knowledge-tracing|מעקב אחר ידע]], [[cognitive-diagnosis|אבחון קוגניטיבי]], [[simulating-students|סימולציית סטודנטים]], [[intelligent-tutoring|הוראה חכמה]], [[adaptive-learning|למידה אדפטיבית]], [[personalized-learning|למידה מותאמת אישית]], [[recommender-systems-and-learning-paths|מערכות המלצה ומסלולי למידה]], [[pedagogical-agent|סוכנים פדגוגיים]], [[affective-tutoring|חונכות אפקטיבית]], [[affective-computing|מחשוב אפקטיבי]], [[human-in-the-loop-ai|בינה מלאכותית עם אדם בלולאה]] ו[[learning-analytics|אנליטיקת למידה]]. הן נמצאות בשכבה הטכנית מפני שהן מערכות הבינה המלאכותית עצמן, להבדיל מהפדגוגיות שהן מיישמות.
 
+- **פלטפורמות, פתיחות ואימוץ:** השכבה שסביב המודל, שבה משאב הוראה נרשם ברישיון, מתארח ומשולם ולא נבנה. [[open-education|חינוך פתוח]] מכסה הוראה בחומרים ברישיון פתוח ואת הפדגוגיה שמתייחסת לסטודנטים כיצרנים שלהם, וזה המקום שבו נדונות שאלות הרישיון וההסתגלות שמעורר כעת חומר מיוצר. הוא יושב לצד פתיחות במובן התוכנה, ניתוח ברמת הפלטפורמה ב[[edtech-platform|פלטפורמות edtech]], ומחקר האימוץ שנושא [[technology-acceptance-model|TAM]].
+
 ## בינה מלאכותית בתחומי הדעת
 
 בינה מלאכותית מיושמת על פני תחומי דעת ורמות חינוכיות. ה[[discipline-specific-aied|סקירה של בינה מלאכותית בחינוך בתחומי הדעת]] במאגר הידע ממפה את הכיסוי לפי תחום דעת, לצד [[learning-sciences|מדעי הלמידה]], שאינם תחום דעת נלמד אלא שדה המחקר הרוחבי שחוקר את הלמידה עצמה ומתייחס לתחום הדעת כמשתנה אחד מני רבים:
 
-- **תחומי דעת:** [[math-education|מתמטיקה]], [[physics-education|פיזיקה]], [[chemistry-education|כימיה]], [[biology-education|ביולוגיה]], [[cs-education|מדעי המחשב]], [[engineering-education|הנדסה]], [[stem-education|STEM]], [[writing-education|כתיבה]], [[language-learning|לימוד שפות]], [[english-education|הוראת אנגלית (EAP/EFL/ESL)]], [[science-education|הוראת מדעים]], [[business-education|עסקים, כלכלה וניהול]], [[humanities-education|מדעי הרוח והחברה]], [[arts-design-and-media-education|אמנויות, עיצוב ומדיה]], [[medical-education|רפואה ומקצועות הבריאות]], [[legal-education|משפטים]], והאשכולות המקצועיים והיישומיים: [[nursing-education|סיעוד]], [[information-technology|טכנולוגיות מידע]], [[vocational-education|חינוך והכשרה מקצועיים]] ו[[design-education|חינוך לעיצוב]].
+- **תחומי דעת:** [[math-education|מתמטיקה]], [[statistics-and-data-science-education|סטטיסטיקה ומדעי הנתונים]], [[physics-education|פיזיקה]], [[chemistry-education|כימיה]], [[biology-education|ביולוגיה]], [[cs-education|מדעי המחשב]], [[engineering-education|הנדסה]], [[stem-education|STEM]], [[writing-education|כתיבה]], [[language-learning|לימוד שפות]], [[english-education|הוראת אנגלית (EAP/EFL/ESL)]], [[science-education|הוראת מדעים]], [[environmental-education|חינוך סביבתי]], [[business-education|עסקים, כלכלה וניהול]], [[humanities-education|מדעי הרוח והחברה]], [[arts-design-and-media-education|אמנויות, עיצוב ומדיה]], [[medical-education|רפואה ומקצועות הבריאות]], [[legal-education|משפטים]], והאשכולות המקצועיים והיישומיים: [[nursing-education|סיעוד]], [[information-technology|טכנולוגיות מידע]], [[vocational-education|חינוך והכשרה מקצועיים]] ו[[design-education|חינוך לעיצוב]].
 
 ## רמות והקשרים
 
@@ -122,6 +128,7 @@ ai_assist:
 השאלה כיצד אנחנו יודעים אם בינה מלאכותית עובדת היא אשכול בפני עצמו, ומאגר הידע מתייחס אליה ככזו:
 
 - **שיטות מחקר:** [[research-methods-aied|שיטות מחקר ב-AIED]] כמטרייה, עם גישות [[qualitative-research|איכותניות]], [[quantitative-research|כמותיות]], [[mixed-methods-research|מעורבות]], [[design-based-research|מבוססות עיצוב]] ו[[usability-research|בדיקות שמישות]], ובנוסף [[rct|ניסויים מבוקרים אקראיים]], [[meta-analysis-systematic-review|מטא-אנליזה וסקירה שיטתית]] ו[[network-analysis|ניתוח רשתות]].
+
 עבודת המחקר של השדה עצמה היא כיום נושא בזכות עצמה. [[ai-assisted-educational-research|מחקר חינוכי בסיוע בינה מלאכותית]] מכסה שימוש ב-AI ככלי לחיפוש ספרות, סינון, קידוד איכותני, ניתוח וכתיבה, כולל מחקר פרקטיקנים כגון תרומת ההוראה והלמידה. הוא נשחר ומובדל מהעיצובים המשמשים לחקור מה AI עושה ללומדים.
 - **הערכה של מערכות בינה מלאכותית:** [[ai-ed-evaluation|הערכת התערבויות של בינה מלאכותית בחינוך]] ו[[benchmark|מדדי ביצוע]] לשיפוט היכולת של מערכת, כש[[learning-gains|הישגי למידה]] הם התוצאה שחשובה, בעוד [[limitations-in-aied-research|המגבלות הרוחביות]] של הראיות האלה ו[[interpreting-and-applying-aied-research|כיצד לקרוא מחקר בודד]] הם המשקל שכנגד ומשמשים כאזהרה.
 

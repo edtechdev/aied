@@ -8,13 +8,18 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -45,8 +50,10 @@ ai_assist:
 - **אימוץ ארגוני.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] בחן גורמים ארגוניים וטכנולוגיים של אימוץ בינה מלאכותית ב[[higher-ed|higher education]] (באמצעות מסגרות TOE + Diffusion of Innovations, n=300 צוות), בר-רלוונטיות לאופן שבו בתי ספר עסקיים והמוסדות שלהם מאמצים תמיכת החלטות מונעת-בינה מלאכותית ופלטפורמות למידה חכמות.
 - **סוכנים קונבנסציוניים במשחקי [[simulation]] עסקיים.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] מפתחים ומעריכים סוכן [[conversational-ai|conversational agent]] מוגבר-בינה מלאכותית (Lara) לתמיכה הוראתית אדפטיבית במשחקי סימולציה עסקיים המשמשים ללמידה יזמית ניסויונית. מבוססים על עמדה של [[equity-in-ai-education|equity]]-by-design ו[[universal-design-for-learning|universal design for learning]], מסגרת CAIS-GBL ממקדת מעורבות קוגניטיבית, [[motivation|motivational]], [[affective-computing|affective]], ו[[sociocultural-learning|socio-cultural]] [[student-engagement|engagement]], עם הערכות בין מורים-סטודנטים ומשתתפי BSG המראות תפיסות חיוביות של נוכחות קוגניטיבית/[[community-of-inquiry|social presence]] ותמיכה ב[[self-regulated-learning]] — מודל להתרחבות משוב [[formative-assessment|formative]] בחינוך עסקי מבוסס-[[game-based-learning|simulation-based]].
 - **GAI אג'נטי למשימות מעוגנות מורכבות.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] מפתחים את מסגרת AGAI-HE סביב קורס **מסחר אלקטרוני**, שבו משימת הלמידה דורשת השוואת מודלים עסקיים, שקילת אילוצי שוק ותפעוליים, והגנת המלצות אסטרטגיות — עבודה מעוגנת מרובת-שלבים שצ'אטבוטי תגובה-הנחיה תומכים בה גרוע. מחקר התפיסה שלהם בן 130 סטודנטים מצא גם תמיכת צ'אטבוט וגם תמיכת סוכן מדורגות מעל [[online-teaching-and-learning|e-learning]] מסורתי בשיפור למידה, התאמה אישית, תמיכת קבלת החלטות, וארגון תהליכי עבודה, אך ללא הבדל מובהק בין סוכן לצ'אטבוט, וההסכמה החזקה ביותר הלכה לשילוב כל שלושת המצבים. לתוכניות עסקיות הקריאה היא שאימוץ הוא שאלת [[curriculum-design|instructional-design]] על האופן שבו תמיכת בינה מלאכותית מסודרת ומונחית, לא פשוט שדרוג כלים ([[agentic-ai]]).
+- **צ'אטבוט [[rag|RAG]] שנבנה בקורס הזיז ציפיות, לא תוצאות.** בניסוי [[rct|אקראי]] בן סמסטר עם 454 סטודנטים לתואר ראשון בקורס Principles of Marketing, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni ו-Fryer (2026)]] לא מצאו אפקט קבוצה-לפי-זמן מובהק על עניין, [[self-efficacy|יעילות עצמית]], מעורבות או ביצועי מבחן, אף שהסטודנטים התחברו 0.89 פעמים בשבוע ודירגו הנאה ב-80.4.
 - **חדשנות הערכה וניקוד נחקרת פחות.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] סקרו 58 מאמרים הקשורים-הערכה לאורך 20 שנה בארבעה עיתונות מובילים של חינוך ניהולי (AMLE, JME, Management Learning, IJME) — בערך שלושה בשנה, רבים בגיליונות מיוחדים של 2010 ו-2014 — ומצאו שהערכה וניקוד נחקרים פחות ביחס לתפקידם המרכזי בעיצוב הלמידה. הערכה עצמית ועמיתים שולטות בדיסקורס (כמעט מחצית הקורפוס, בעיקר להערכה [[summative-assessment|summative]] של [[group-work|group work]]); הערכה אותנטית [[authentic-assessment|authentic assessment]] מופיעה בעיקר באמצעות [[simulation|simulations]] מתווכות-טכנולוגיה ולעתים קרובות מעורבת עם [[experiential-learning|experiential learning]]; בעוד שהערכה מחדש, ניקוד מבוסס-סטנדרטים, והסרת ניקוד נעדרים כמעט לחלוטין. המחברים דוחקים במחנכי ניהול להתערב ביתר תלמידים באופן הדדי בחדשנות הללו, וממליצים על התנסות אינקרמנטלית (מטלות ללא ניקוד, הערכה מחדש למשימה בודדת, רובריקות מבוססות-סטנדרטים) בגיבוי תיאום ברמת-תוכנית ועדות Scholarship of Teaching and Learning מתועדות.
 - **ניקוד אוטומטי של עבודות קורס עסקיות דורש אימות ספציפי-קורפוס.** על 60 פוסטי שיווק של סטודנטים מסימולציית BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] מצא ש[[llm|LLM]] הגיע רק ל-ICC(2,1) = .435 עם הממוצע האנושי — כללים דטרמיניסטיים .091, היבריד משקל-שווה .266 — בעוד שהוספת עוגנים שכתבי-המחקר הקימו הרימה את ה-LLM ל-.846 בלי לשנות ציון סטודנטים כלשהו.
+- **אלטרנטיבה בחינוך עסקי שמנקדת את התהליך, לא את הנושא.** בתואר אגודת מנתח עסקי בשנה הראשונה, הניקוד חייב איטרציה מתועדת ו[[collaborative-learning|שיתוף פעולה בין עמיתים]], וסטודנטים שהשתמשו ב‑GenAI התווכחו עם הטענות הנגדיות שלה במקום להגיש אותן ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **הוראת בינה מלאכותית כאלמנט תכן-תהליך ממחלקה ראשונה.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] ממקם נקודת-בדיקת החלטת-בינה מלאכותית בכל שלב מחזור חיי BPM לאורך שישה מודולים של קורס בן 152 סטודנטים, כך שסטודנטים בונים סוכן כניסת LLM עובד ואז מגלים בנקודת בדיקה שהצוואר השבר בפועל הוא תור חקירת-הונאה בן שני אנשים.
 
 ## כלכלה וחינוך ניהולי
@@ -63,6 +70,12 @@ ai_assist:
 - **יישרו את תכנית הלימודים קונסטרוקטיבית.** מחקר יישור קונסטרוקטיבי [[zhou-constructive-alignment-genai-business-2026|Constructive alignment research]] מוצא שמידת שילוב תכנית הלימודים מעצבת אם תועלות או סיכונים של GenAI שולטים — שילבו, אל תוסיפו.
 - **טפלו בפערים המתמשכים.** עשור של מחקר [[espino-ai-business-education-review-2026|A decade of research]] מסמן פערים בקוהרנטיות תכנית הלימודים, כשירות מחנכים ותקפות הערכה — תעדפו אותם בתכנון התוכנית.
 - **הכינו סטודנטים למקום עבודה משולב-בינה מלאכותית.** הדגישו אוריינות בינה מלאכותית, שימוש אתי ויישום תחום (פיננסים, שיווק, ניהול, כלכלה) ככשירויות ליבה, לא כאלקטיבים.
+
+## תפיסות מוטעות נפוצות
+
+- **"סטודנטים רוצים AI כי הם רוצים קיצורי דרך."** מסגרת מגובשת-סטודנטים מצאה שסטודנטים **מעורבים מאוד ומודעים לכך שהם זקוקים לכישורי GenAI לקריירה**, ובו-זמנית רוצים **להשתמש ב‑AI בלי לחולל בשוגג עבירת יושרה אקדמית**. הביקוש הוא לכשירות עם גבולות ברורים, לא לרשות להימנע מעבודה.
+- **"הוספת מודולי AI לתכנית עסקית לוכדת את התועלת."** מחקר על יישור קונסטרוקטיבי מצא שהאם **תועלות או סיכונים שלטו עוצב על ידי מידת שילוב תכנית הלימודים** — ההבחנה המבצעית היא **לשלב, לא להוסיף**. מודול שהודבק מבחוץ משאיר את עיצוב ההערכה ללא שינוי.
+- **"תחכום הכלי מנצח למידה אלקטרונית קונבנציונלית."** מחקר תפיסה של **130 סטודנטים** מצא ש**גם תמיכת צ'אטבוט וגם תמיכת סוכן דורגו מעל למידה אלקטרונית מסורתית** בשיפור, בהתאמה אישית ובקבלת החלטות. שווה לשים לב למה שזה מודד: *תפיסת* סטודנטים אל מול בסיס קונבנציונלי, לא למידה אל מולו.
 
 ## מושגים מקושרים
 
@@ -92,3 +105,5 @@ ai_assist:
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
 - [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
+- [[alam-process-oriented-collaborative-essays-2026]] — מאמרים שיתופיים מונעי-תהליך בתואר מנתח עסקי: ניקוד איטרציה מתועדת, לא הנושא
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — צ'אטבוט RAG שנבנה בקורס הזיז ציפיות, לא תוצאות

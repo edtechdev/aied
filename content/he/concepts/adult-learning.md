@@ -10,13 +10,18 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 
 ---
@@ -139,6 +144,10 @@ ai_assist:
 - **התאימו לחיים עסוקים של מבוגרים.** הפכו כלים לאסינכרוניים, ניידים
   ומסוגלים-לתפקד ללא חיבור, וחברו תכנים לבעיות אמיתיות
   ([[ai-adult-learning-guidelines-dis2026|הנחיות AI-ALOE]]).
+- **עצבו לטווח של מעורבות, ולא לעומק מונח מראש.** מבוגרים עובדים מחלקים משאבים
+  קוגניטיביים מוגבלים בין עבודה, משפחה ולימודים, ולכן מסגרת בת שישה סמסטרים הפכה
+  את הדיאלוג הסוקרטי עם AI למסלול מתגמל יותר מהמסלול המהיר, ולא לחובה
+  ([[packard-thinking-partner-framework-adult-learners-2026|פקארד ושות' (2026)]]).
 - **השאירו אדם בתוך הלולאה.** ממקמו את המחנך כמקום הטיפול היחסי והקוגניטיבי,
   במיוחד עבור לומדים מבוגרים מוחלשים ו[[neurodiversity|נֵוירוֹ-שונים]]
   ([[sovereign-hive-titl-further-education-2026|המורה-בתוך-הלולאה]]).
@@ -175,6 +184,12 @@ ai_assist:
   בארגון מחדש ובהעברה במהלך גיבוש
   ([[kim-ai-productive-failure-adult-2026|קים ושות' (2026)]]).
 
+## תפיסות מוטעות נפוצות
+
+- **"כלי טוב אחד משרת לומדים מבוגרים."** המחקר מצא ש**אף מערכת AI אחת ללימוד מבוגרים לא עמדה בכל הנחיות העיצוב** — נדרשה המערכת האקולוגית המלאה. מבוגרים מגיעים עם התחייבויות, לוחות זמנים לא-רציפים ומטרות הטרוגניות, ולכן מוצר אחד אינו יכול לכסות את מרחב העיצוב.
+- **"אפשר להניח אוריינות דיגיטלית ברמה של מבוגרים."** [[community-centered-ai-education-adults|מקרה-בוחן ממערב-התיכון]] תכנן באופן משותף תוכנית אוריינות AI ל‑**54 מבוגרים בקהילה נטולת-שירותים** ומצא שחינוך AI למבוגרים מוכוון-שוויון **חייב לטפל תחילה באוריינות דיגיטלית בסיסית ובאמון בנתונים**. גיל אינו פרוקסי לשטף דיגיטלי.
+- **"אימוץ הוא בעיית מוטיבציה."** בניית [[ai-literacy]] ו[[trust]] סביב פרטיות נתונים חייבת להקדים את הציפייה לאימוץ. נכונות נובעת מביטחון לגבי מה שקורה לנתונים של האדם, לא מהתלהבות מן הטכנולוגיה.
+
 ## Connected Concepts
 
 - [[self-directed-learning]]
@@ -202,6 +217,7 @@ ai_assist:
 
 ## Connected Articles
 
+- [[packard-thinking-partner-framework-adult-learners-2026]] — עיצוב לטווח של מעורבות: להפוך את הדיאלוג הסוקרטי העמוק למסלול המתגמל יותר
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
 - [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy

@@ -7,13 +7,18 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,7 +39,7 @@ ai_assist:
 זהו מושג הגג for the knowledge base's feedback-related ideas. המשוב יושב במפגש שבין הערכה ללומדה: ללא משוב, הערכה מודדת ביצועים אך אינה משפרת אותם; עם משוב יעיל, ההערכה הופכת לאירוע למידה. מאגר הידע מתייחס למשוב כ**מערכת** עם פאות מרובות — איכות המשוב עצמו ([[ai-feedback-quality]]), הלולאה שסוגרת את פער הלמידה, קיבולת הלומד להשתמש בו ([[feedback-literacy]]), והקשרי ההערכה שבהם הוא פועל ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** מראים שתפיסת התלמידים את *מקור* המשוב (בינה מלאכותית מול אנוש) מעצבת למידה מונעת-עצמית ממשוב של [[generative-ai|GenAI]] — תכונת איכות מכרעת לטענות על יעילות המשוב.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** מבודדים את המקור מהתוכן: 472 סטודנטים מהאפ״ף-לוזאן דרגו משוב אנושי ומשוב GPT-4.0 הניתנים להשוואה בתוכן, על העבודה שלהם, קודם בעיוורון ואז שוב לאחר שחשוף המקור, ורובם לא הצליחו להבחין ביניהם באופן מהימן (287 מתוך 472 ניחשו נכון). לאחר שחשיפת התווית, דירוגי הגרסה מבוססת הבינה המלאכותית ירדו ושל הגרסה האנושית עלו — באופן מובהק עבור Genuineness (p < .01) — ואמינות הספק הופרדה באופן נקי (אנוש μ = 3.28 מול בינה מלאכותית μ = 2.25, Cohen's d = 0.57). ההטיה מצטברת לספק ולא לטקסט, שכן שתי הגרסאות היו ניתנות להשווה נכונות ובאיכות קוגניטיבית.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** מבודדים את המקור מהתוכן: 472 סטודנטים מהאפ״ף-לוזאן דרגו משוב אנושי ומשוב GPT-4.0 הניתנים להשוואה בתוכן, על העבודה שלהם, קודם בעיוורון ואז שוב לאחר שחשוף המקור, ורובם לא הצליחו להבחין ביניהם באופן מהימן (287 מתוך 472 ניחשו נכון). לאחר שחשיפת התווית, דירוגי הגרסה מבוססת הבינה המלאכותית ירדו ושל הגרסה האנושית עלו — באופן מובהק עבור Genuineness (p < .01) — ואמינות הספק הופרדה באופן נקי (אנוש μ = 3.28 מול בינה מלאכותית μ = 2.25, Cohen's d = 0.57). ההטיה מצטברת לספק ולא לטקסט, שכן שתי הגרסאות היו ניתנות להשווה נכונות ובאיכות קוגניטיבית. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] מובילים את אמינות המשוב עד ללמידה: בקרב 230 סטודנטים למנהל עסקים לאחר חיבור נתמך‑AI, האמינות ניבאה למידה נתפסת, כאשר כשירות נתפסת ואמפתיה אנושית-דמוית היו המקדימים שלה.
 
 ## מערכת המשוב
 
@@ -46,6 +51,7 @@ ai_assist:
 - **[[formative-assessment]]** — קשר ההערכה שבו המשוב משמש לשיפור הלמידה בעודה בתהליך, ולא רק כדי לשפוט אותה.
 - **[[peer-assessment]]** — משוב המוחלף בין [[learners]], מוגבר ביתר תלמידים מבינה מלאכותית ומהווה אתר לפיתוח אוריינות המשוב.
 - **[[automated-assessment]]** — ניקוד ומשוב מונעים בינה מלאכותית, מ[[automated-essay-scoring|automated essay scoring]] ועד ניקוד תשובות קצרות מודע-ביטחון.
+- **החלקים מתפשרים זה על זה.** עיצוב משוב פירושו בחירה בין שמישות, מקורות וקיימות ולא מקסום שלושתם; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] מתייחסים לקיימות כאל הקוטב שאסור שיהיה תלוי באדם, במשאב או בתנאי מוסדי בודד.
 
 ### לולאת המשוב
 
@@ -145,6 +151,13 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 המשוב הוא אחד המנגנונים המשפיעים והמוכחים-לטובה ביותר בחינוך, ובינה מלאכותית גם מגבירה וגם מסתבכת אותו. משוב בינה מלאכותית שאורגן היטב יכול להתאים או לעלות על משוב אנושי ולהתרחב על פני קוהורטים, אך הוא דורש קיבולות לומד חדשות ([[feedback-literacy]], [[ai-literacy]]) ונושא סיכונים (קבלה ביקורתית, [[cognitive-offloading|Over-Reliance]]). ככל שמשוב שנוצר בבינה מלאכותית הופך אוניברסלי, מאגר הידע ממסגר את המשוב כמערכת שלמה — איכות, לולאה, אוריינות וקשר הערכה הפועלים יחד — ולא כרכיב בודד כלשהו.
 
 - **משוב יכול למקד את מי-שנותן-המשוב.** אימון מורים הוא קשר משוב חקור-בחסר: מערכות ממוחשבות שמסננות-סדרות תגובות פתוחות של מורים כדי לסמן סוגי שבח (שבח מבוסס-עמל — הסוג הרצוי המוקדש-תהליך — מול מבוסס-תוצאה מול מבוסס-אדם, הסוג הפחות רצוי המייחס-תכונה) יכולות לספק משוב הסברי שמשנה התנהגות אימון. האילוץ הקושר הוא נתונים המתויגים-מומחה. גישת הגברה — GPT-4o מייצר תגובות מתויגות סינתטיות שמרחיבות מערך 13-מקרים בעל משאבים נמוכים ל-520, ואז מכוון GPT-3.5 — משקמת את רוב הפער: F2 +20.5% על שבח מבוסס-עמל, +17.3% על מבוסס-תוצאה, ו-+16.5% על הקטגוריה *הבלתי-נראת* מבוססת-אדם. מבחן ההכללה לסוג שבח בלתי-נראה הוא בדיקת התקפות שמפרידה את זה מ-overfitting, והמנגנון קרוב יותר לכיווץ מודל-מורה מאשר להגברה קלאסית. ([[xu-automated-feedback-tutor-training-2025]])
+- **משוב שאינו רואה את התיקון חוזר על עצמו.** במשחק למידת מדעים שסוכניו ביקרו טיעוני טיוטה, סטודנטים תיקנו לאורך סבבים מרובים, אך מודל 8B מכומת החזיר במידה רבה את אותה ביקורת לטיוטה משופרת, ולכן הלולאה שהניעה את התיקון גם יצרה את התסכול שסיים אותו ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
+## תפיסות מוטעות נפוצות
+
+- **"סטודנטים אינם יכולים להבחין בין משוב AI למשוב אנושי."** הם יכולים, והתווית משנה את השיפוט: **לאחר חשיפת התווית, דירוגי הגרסה מבוססת ה‑AI ירדו ושל הגרסה האנושית עלו — באופן מובהק עבור Genuineness (p < .01)**. אמינות הספק עיצבה את ההערכה של משוב בסגנון זהה.
+- **"אישור במעבדה מנבא שימוש בסמסטר."** **אישור במעבדה אינו שימוש בסמסטר**: **כל 18 הסטודנטים** הגיבו בחיוב לפונקציית ההסבר של GenAI במפגשי מעבדה, **ובכל זאת רק מחציתם השתמשו בה במהלך הסמסטר**. פער הכוונה-שימוש הוא בעיית העיצוב.
+- **"משוב תיקון מיידי נפתר עם LLMs."** יצירתו בתוך חונך היא **אפשרית אך לא מושלמת**: על פני **6,926 עסקאות מתועדות** במאגר Apprentice Tutor, המשוב היה טוב מספיק לפריסה ולא טוב מספיק כדי להניח את נכונותו.
 
 ## מושגים מקושרים
 
@@ -166,6 +179,7 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 - [[writing-education]]
 
 ## מאמרים מקושרים
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — משוב סוכני שחזר על עצמו לאורך תיקונים (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
@@ -216,4 +230,5 @@ LearnLens הופך את התיווך הזה למנגנון: היא מתייחס�
 - [[ai-powered-writing-feedback-awe-review-2026]] — AI-Powered Feedback System for Writing: A Review of Automated Writing Evaluation (AWE) Tools
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
+- [[assessment-feedback-trilemma-model-2026]] — נוקב בשם את המחיר בין שמישות, מקורות וקיימות, והופך את הקיימות לקוטב עיצוב
 - [[etq-ai-conversational-teacher-training-2026]] — אבחון שיחה AI לתפיסות-הוראה מוטעות עם דיאלוג מונחה-ראיות (Miranda & Calvani 2026)

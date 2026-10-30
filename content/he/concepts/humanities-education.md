@@ -1,19 +1,24 @@
 ---
 title: חינוך במדעי הרוח והמדעים החברתיים
 created: "2026-10-12T20:40:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,6 +59,18 @@ ai_assist:
 - **השתמשו ב-AI בתודעה בעבודת מקור.** [[paternalistic-filter-llm-history-education|מחקר היסטוריה]] מראה ש-AI יכולה לעצב היגיון ופרשנות מקור — למדו תלמידים לחקור טענות היסטוריות מתומות-AI והמסננים שהיא מחילה.
 - **שקלו השפעות הפונות-לתלמיד.** [[genai-impact-chinese-students-hss|מחקרי חוויית תלמיד]] מתעדים כיצד GenAI משפיעה על לומדי SSH; התאימו תמיכה ומסגרת יושר לשימוש אמיתי במקום להנחות.
 
+## תפיסות מוטעות נפוצות
+
+**"מדעי הרוח הם החלק הפחות חשוף ל-AI בתוכנית הלימודים."** החשיפה נמדדה, והיא מרוכזת ולא מפוזרת: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] ביקרה **15,587 רשומות יחידה באמנויות ומדעי רוח** כדי לקבוע היכן החשיפה יושבת. היא מפוזרת באופן לא אחיד בין היחידות ולא דקה, מה שהופך עיצוב-מחדש של הערכה לבעיה ממוקדת ולא לבעיה כלל-מגזרית.
+
+**"AI בחינוך מדעי הרוח הוא הגברה טכנוצנטרית."** מאמר העמדה שהעמוד נשען עליו טוען שהשינוי הוא *טרנספורמציה אינטלקטואלית* ולא הגברה, וממקם [[ai-literacy|שטף דיגיטלי]] ככשירות ליבה של אמנויות-ליברליות. הוספת כלי לקורס שלא השתנה מבלבלת בין הטרנספורמציה לבין המכשיר שלה.
+
+**"חינוך לערכים יכול להימסר למודל כתוכן."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] ממסגר מחדש חינוך לערכים כפרקטיקה יחסית עם שלושה תנאים — אחריותיות, מופתיות ופנייה — וקורא כל אחד מחמשת האפשרויות של GenAI כמחליף יחס: הפרספקטיבה המדומה מחליפה את בעל-העניין שאפשר לפגוע בו.
+
+**"ניתוח ביקורתי הוא מה ש-AI מאיימת עליו ביותר, ולכן יש להגביל אותו."** ניתוח ביקורתי הוא גם מה ששימוש מכוון מפתח ביותר, כשהמשימה מעוצבת להעמיק ולא להשטיח. מודל [[human-in-the-loop-ai|אדם-בתוך-הלולאה]] ממקם את תרומת התחום בשיפוט של הלומד ולא בפלט של הכלי.
+
+**"מודל כלל-מטרה שימושי למדעי הטקסט כמו לסיכום."** פרשנות דורשת את עמדת הקורא, ושכבת סיוע שמספקת את הקריאה ביצעה את המעשה הפרשני שהתחום נועד ללמד.
+
 ## מושגים מחוברים
 
 - [[higher-ed]]
@@ -74,3 +91,4 @@ ai_assist:
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
+- [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)

@@ -8,13 +8,18 @@ discipline: [language learning]
 confidence: medium
 connected_resources: [mglearn]
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,8 @@ ai_assist:
 
 AI רב-לשוני חייב לעבור מעבר לתרגום כדי לשקף [[culturally-relevant-pedagogy|פדגוגיה רלוונטית תרבותית]] — להפיק תוכן שמתאים מבחינה לשונית וקונטקסטואלית. מחקרי [[llm-cultural-relevance-k12|רלוונטיות תרבותית של LLM ב-K-12]] ו[[scaffolding-critical-engagement-genai-minority-students|מעורבות ביקורתית עם GenAI בקרב סטודנטים מיעוט]] מראים שהתאמה לשונית ותרבותית מעצבת האם סטודנטים נהנים בפועל. אם אינה מטופלת, הטיה חד-לשונית ב-AI מעמיקה את ה[[digital-divide]] ומחלשת את [[equity-in-ai-education|השוויון]] ברחבי [[global-south|העולם הגלובלי הדרומי]].
 
+טרנסלשונות (translanguaging) היא אפשרות שהצ׳אטבוטים הגנרטיביים מוסיפים ושכלי שפה קודמים לא סיפקו. בסקירה שיטתית של 24 מחקרים, לומדים ביקשו ביטויים מוקשרים והסברים בשפתם שלהם כגשר אל שפת היעד — שימוש שהסוקרים מסווגים כאפשרות-משנה חדשה ולא כאריזה מחודשת של אפשרות קיימת ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
 ## הטיית הערכה
 
 דאגות רב-לשוניות משפיעות גם על [[automated-assessment|הערכה אוטומטית]]: [[ai-scoring-language-bias-physics|ניקוד AI יכול להציג הטיית שפה]] (למשל, ב[[physics-education|פיזיקה]]), מעניש דוברים לא-ילידים. הבטחת שכלי הערכה הוגנים לאורך שפות היא חלק מ[[assessment-validity]].
@@ -61,6 +68,12 @@ AI רב-לשוני חייב לעבור מעבר לתרגום כדי לשקף [[c
 - **שקפו תרבות והקשר, לא רק תרגום.** AI רב-לשוני חייב לעבור מעבר לתרגום ל[[culturally-relevant-pedagogy|פדגוגיה רלוונטית תרבותית]] — הפיקו תוכן שמתאים מבחינה לשונית וקונטקסטואלית ([[llm-cultural-relevance-k12|רלוונטיות תרבותית ב-K-12]]).
 - **צרפו AI למבני תמיכה רב-לשוניים.** השתמשו במצבים קול-קודם ואוראליים ([[kutti-ai-voice-first-learning-companion|חברים קול-קודם]]) היכן ש-AI מבוסס-טקסט נכשל, ותמכו ב[[self-regulated-learning|וויסות עצמי]] בהקשרים דו-לשוניים ([[bilingual-llm-lecture-companion-srl-2026|חבר הרצאה דו-לשוני]]).
 - **צפו את הפער הדיגיטלי.** הטיה חד-לשונית ב-AI מעמיקה את ה[[digital-divide]] ומחלשת גישה ברחבי ה[[global-south]] — תכננו תשתות וגישה הוגנים לצד בחירת כלי.
+
+## תפיסות מוטעות נפוצות
+
+- **"שפת היעד צריכה לשלוט מהיום הראשון."** ב**סקירה שיטתית של 24 מחקרים**, לומדים ביקשו **ביטויים מוקשרים והסברים בשפתם שלהם כגשר אל שפת היעד** — שימוש שהסוקרים מסווגים כאפשרות-משנה חדשה באמת ולא כפתרון עוקף. תמיכה בשפת הבית תפקדה כפיגום, לא כהימנעות.
+- **"הערכת שפה ב‑AI מוטה נגד כותבים רב-לשוניים."** כאן ההטיה עקבתה אחר **קו הבסיס האנושי ולא אחר המודל**: שיפוט משווה מבוסס‑LLM על **כתיבה אינפורמטיבית בכיתות ג-ו התכנס עם רוברים של חוקרים (r = .59-.73)** והראה את אותו דפוס שהראו המדרגים האנושיים. זו אינה ראיה להוגנות במונחים מוחלטים — היא ראיה שהמודל לא הוסיף עיוות חדש על גבי הקיים.
+- **"הפלט באיכות תרגום הוא החלק השימושי."** שימוש הגשר הוא הסברתי וממוקם, לא מחליפי. כלי שמחליף את ההפקה של הלומד עצמו מסיר את התרגול שהגשר נועד לאפשר.
 
 ## מושגים מחוברים
 
@@ -76,6 +89,7 @@ AI רב-לשוני חייב לעבור מעבר לתרגום כדי לשקף [[c
 
 ## מאמרים מחוברים
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — צ׳אטבוטים של GenAI מאפשרים טרנסלשונות, שימוש שכלי שפה קודמים לא תמכו בו
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion

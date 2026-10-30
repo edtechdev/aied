@@ -9,13 +9,18 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-10-05T11:00:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,7 +44,14 @@ ai_assist:
 
 **חונכות מתמטית בפיגום באמצעות בינה מלאכותית** הוא האשכול הגדול ביותר, עם ארבעה מאמרים החוקרים כיצד חונכי בינה מלאכותית תומכים או מערערים למידה מתמטית. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** מדגים שהוספת מודעות אפקטיבית — זיהוי רגשות סטודנטים מטקסט והבעות פנים — מייצרת יתרון בשיעור ניצחון של 23 נקודות בחונכות מתמטית, ומתחברת ל[[affective-computing|מחשוב אפקטיבי]] ול[[affective-tutoring|חונכות אפקטיבית]]. **[[zhang-tutormoments-2026|TutorMoments]]** מעריך 454 תמלולי חונכות מתויגים על ידי מורים מכיתות ב'-ז' ומצא שמודלים חזיתיים נוטים כברירת מחדל לעזרה מוגזמת, ודוחפים לעתים נדירות לרמת קשב גם כאשר סטודנטים מוכנים — מערער ישירות את ההתאמה בין מועילות בינה מלאכותית לעקרונות ה[[scaffolding|פיגום]]. **[[lak2026-hint-button-unproductive-use|An et al.]]** ניתחו 999 סטודנטים לאורך שלושה סמסטרים ב-ITS *Decimal Point*, ומצאו שבקשות רמז מוקדמות וקריאת רמז שטחית חוזות באופן עקבי הפחתה ב[[learning-gains|רווחי למידה]], גם לאחר שליטה ב[[prior-knowledge|ידע קודם]] — ממצא שמתחבר ל[[help-seeking|חיפוש עזרה]] ול[[learning-analytics|אנליטיקת למידה]].
 
+**עיצוב משימות, לא רק חונכות.** בניתוח 158 יחידות טקסט מקודדות מ‑13 מורות יסוד פוטנציאליות, Ledezma et al. (2026) מצאו שמשימות גאומטריה שעוצבו ב‑GenAI שאפו לדרישה קוגניטיבית גבוהה אך נכתבו בהוראות סגורות, ואחת הטמיעה קנה מידה שגוי (4 מ' שצוירו כ‑8 ס"מ, תוך הצהרה ש‑1 מ' = 4 ס"מ) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al., 2026]]).
+
+**עונש שביעות-רצון.** הובלת חונך LLM דרך תוכנית [[productive-failure]] במקום לאפשר לו לענות העלתה את נאמנות האסטרטגיה והניבה 2.6 ניסיונות פתרון לסשן במחקר תיכון עם 17 סטודנטים, ובכל זאת סטודנטים דירגו את חונך המאבק הפרודוקטיבי כפחות מועיל מבסיס ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
+
 **תמיכה סוציו-רגשית יכולה לקנות יעילות ולא הישג.** הוספת שכבת מיינדפולנס של מודל לשוני גדול לחונך אלגברה לכיתה ז' הותירה למידה וחרדת מתמטיקה מצבית ללא שינוי בין הזרועות (42 מתוך 252 סטודנטים נותחו לאחר שיבושים), אך סטודנטים בתנאי מיינדפול הגיעו ללימודה שוות ערך בפחות זמן ובפחות רמזים מבוקשים ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
+
+במצטבר על פני תחומי דעת, השפעת GenAI על מוטיבציית למידה הייתה הגדולה ביותר בשפה (g = 0.946) ובינונית במתמטיקה (g = 0.711, 95% CI [0.356, 1.066], k = 4), ולכן הטיעון ה[[motivation|מוטיבציוני]] ל‑GenAI במתמטיקה נשען על תת-קבוצה קטנה וחקרנית ולא על אפקט יציב ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+**האצלה בתוך שיעורי בית במתמטיקה.** עקבות צ׳אטלוג מ‑23 סטודנטים לאלגברה לינארית מראים את תמהיל ההנחיות זז עם המשימה בעוד 90% מההגשות נשארו קרובות לפלט המודל, וקורס הוכחות עם 153 סטודנטים מצא רווחים בשיעורי בית בסיוע AI בלי רווח בבחינה ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]]; [[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 
 **[[cognitive-diagnosis|אבחון קוגניטיבי]] והערכה** חוקרים את יכולת הבינה המלאכותית להעריך חשיבה מתמטית. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] מוסיפים מחקר קושי-פריט בקנה מידה גדול החוצה הן מתמטיקה והן קריאה: לאורך 5,170 פריטי K-5 מכוילים תחת מודל IRT של ראץ', דירוגי קושי zero-shot של GPT-4o התאימו קורלציה בינונית-חזקה לקושיים האמיתיים (r = 0.83 מתמטיקה, r = 0.81 קריאה) אך היו לא אחידים לאורך כיתות, בעוד גישה מבוססת-תכונה (תכונות שחולצו על ידי מודל לשוני גדול לתוך מודלים מבוססי-עץ) הגיעו לקורלציות עד r = 0.87, עם רמת כיתה וספירת מילים כחוזים המובילים. המחקר מציע זרימת עבודה מעשית בת שבעה שלבים למומחי בחינות ומזהיר שההכללה מעבר למתמטיקה ולקריאה של K-5 אינה ברורה. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** מדד 18 מודלים לשוניים גדולים על 3,036 פסקי-דיאגנוזה אבחוניים מתויגים על ידי מורים מעבודת מתמטיקה בכתיבת יד, ומצא שכל המודלים מתחתים מאוד (F1 < 0.5) עם ייחוס-ביתר שיטתי והזיה של ראיות — ומתחברים ל[[knowledge-tracing|מעקב אחר ידע]], ל[[hallucination-risk|סיכון להזיה]], ולאתגרי הערכה ה[[multimodal|רב-מודאלית]]. **[[representation-robustness-llm-math-problem-solving|Nath et al.]]** הראו ש[[llm|פתרון בעיות]] מתמטיות ב[[problem-solving|מודל לשוני גדול]] הוא רגיש מאוד לייצוג שטחי — המודלים הופכים נכונות לאורך נוסחות בעיה שוות-ערך — ומעלים חששות [[assessment-validity|תוקף הערכה]] לציון מתמטיקה מבוסס בינה מלאכותית.
 **[[automated-scoring-economics-math-items-nigeria-2026|Olaoye, Owolabi and Olaoye (2026)]]** מראים מסלול מנוגד להערכת תשובות מתמטיות: תוכנת הניקוד האוטומטי שלהם לציוני חיבור מורחבים נותנת ציונים לפריטים מתמטיים של תשובה מורחבת במבחן כלכלה לבני תיכון עלידי דמיון סמנטי נגד תכנית הניקוד של WAEC, ללא אימון על תסריטים מדורגים, והסכימה עם 12 בוחנים אנושיים בקורלציית תוך-מחלקה של 0.863 (מצעדים ממוצעים) עם מקדמי פירסון מ-0.604 ל-0.864. ההסכמה נמצאת שם שהציונים הנמוכים ביותר — התוכנה הממוצעת 5.94 מתוך 20 לעומת 5.97 עבור המדרגים, כל בוחן תייג רק 84 מתוך 1,008 תסריטים, והמחברים מתייחסים לציונים הנמוכים לחוסר היכרות של המועמדים עם מענה מבוסס-מחשב.
@@ -48,19 +60,29 @@ ai_assist:
 
 **תמיכת מורים** חוקרת כלי בינה מלאכותית למחנכי מתמטיקה. **משחק-תפקיד של סטודנט מדומה** משרת גם את התרגול של המורה: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] בנו *Student GPT*, [[conversational-ai|צ'אטבוט]] ChatGPT מותאם ש מילא תפקיד של תלמיד בית ספר תיכון מחזיק ב[[misconceptions|תפיסות שגויות]] נפוצות של חשיבת-יחסים, ונתן למורים מתמטיקה לפני-השירות תרגול בסיכון נמוך באבחון והכוונת חשיבת תלמידים לעבר פתרונות נכונים — וממחיש [[generative-ai|GenAI]]-מופעל [[simulation|סימולציה]] כמשלים לפלטפורמות יקרות כמו TeachLivE לבניית ידע תוכני-פדגוגי על תפיסות שגויות של תלמידים.
 
+**מורות טרום-שירות יכולות לחקור עם GenAI אך לא עדיין לאמת אותו.** בקורס אלגברה מופשטת, 13 מתוך 18 מורות מתמטיקה טרום-שירות היו מספקות בבניית דוגמאות ודוגמאות-נגד, בעוד ש‑14 מתוך 18 ישבו בשתי הרמות הנמוכות בשיפוט אם תגובת AI תקפה ([[preservice-math-teachers-genai-communication-2026|Nurlaelah et al. (2026)]]).
+
+כלי AI כיתתיים יוצרים גם עבודת תזמור שהטיפולוגיה הוותיקה אינה מכנה: תצפית בשש שיעורי מתמטיקה בתיכון מצאה מורים שמנטרים [[visualization|לוחות מחוונים]], מתקנים [[feedback|משוב]] שגוי של ה‑AI ומתווכים את הפלט שלו לכיתה, כאשר שיפוט תוכן ו[[ethics|אתי]] בולט ביותר בעת תיקון שגיאת AI ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
+
 הסינתזה היחידה ברמת-התחום על התחום הזה במאגר הידע היא סקירת PRISMA מ-2021–2025 של 42 מחקרים שסוננו מ-922 רשומות (קפא של Cohen = 0.88), והיא מוסיפה קטגוריה שהאשכולות של העמוד חסרים אחרת: אוטומציה הפונה למורה, שבה MATH41 תומך בייצור מהיר של משימות מתמטיקה ללומדים ברמות שונות והמודל ההיברידי CognifyNet מנתח דפוסי פעילות של תלמידים כדי שמחנכים יוכלו לזהות קשיים מתעוררים מוקדם. אותה סקירה ממוקמת את נקודת העיוורון של התחום — עם Education ב-60% ו-Computer Science ב-28% מתחומי המחקר, רק מחקר אחד נפל בפסיכולוגיה, והשאירו השפעה רגשית, אמון ואתיקה מושווים במידה מועטה — ומתעקבים שיכולת טכנית אינה צריכה להיות שווה ליעילות כיתתית מוגמרת. ([[ai-mathematics-education-prisma-review-2026]])
 
+דירוג האתגרים של התחום מציב את כשירות המורים ראשונה. סקירה שיטתית שנייה, של 54 מחקרים מ‑2017–2025, ספרה שילוב טכנולוגי-פדגוגי ומוכנות מורים ב‑38, סיכוני שוויון וגישה ב‑34 ומגבלות על הנמקה עמוקה ב‑29, ומקשרת אותם לתגובות הוראיות במסגרת תלת-ממדית ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
+
 **מתמטיקה בהשכלה גבוהה** חוקרת את ההשפעה של בינה מלאכותית על פרקטיקה מתמטית מתקדמת. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** יישמו תיאוריה [[sociocultural-learning|סוציו-תרבותית]] על [[generative-ai|GenAI]] במתמטיקה אוניברסיטאית, וניתוח בינה מלאכותית כ"אובייקט הבורח" שמשנה פרקטיקה אקדמית בדרכים שמקדימות נורמות [[governance|מוסדיות]] ופדגוגיות.
+
+**מכשולים סימבוליים בחדו"א** הם ייצוגיים ולא פרוצדורליים: תרגום גרף-לסמל היה המכשול הדומיננטי, ואחרי רצף בסיוע AI שגיאות סימבוליות מקודדות ירדו ב‑27.4%–53.8% ([[ai-scaffolding-symbolic-obstacles-calculus-2026|Nursit et al., 2026]]).
 
 **חונכות מודל לשוני גדול ועיצוב [[learning-design|הוראה]]** הוא אשכול מתעורר של שני מחקרי 2026 שמחדדים את בסיס הראיות של חינוך מתמטי. [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] פיתחו מערכת חונכות [[intelligent-tutoring|מודל לשוני גדול]] מונחית-כללים לבעיות מילים מתמטיות בבית ספר יסודי שארכיטקטורתה בתובע-שלוש-שכבות (אבחון → בחירת כוונה → יצירת תשובה מוגבלת) שיפרה עקביות אינטראקציה וצימצמה מתן-תשובה מוקדם בניסוי כיתתי של 40 תלמידים בכיתה ה' — ראיה לתחומי מתמטיקה פרוצדורליים הזקוקים ל[[guardrails|משמרי-כללים מובנים]] על פיגום מודל לשוני גדול סטוכסטי אחרת. [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] יישמו מודל כיתה חכמה על סטודנטים M.Ed. במתמטיקה ומצאו רווחים סטטיסטית משמעותיים (p < .05) בעיצוב יעדי הוראה לאורך ממדי תקני-תוכנית לימודים, ספר לימודים, ותנאי-תלמיד.
 
 עיצוב ההנחיה הוא בעצמו מנוף נמדד: על מדד MathDial, "הנחיית חונך" סוקרטית פדגוגית-מיושמת העלתה את Success@N וחתכה בחדות את Telling@N ביחס להנחיה בסיסית הן עבור GPT-4o והן עבור GPT-4o-mini ([[chudziak-ai-math-tutoring-platform|Chudziak & Kostka (2025)]]).
 
-**[[generative-ai|GenAI]] למשימות מידול מתמטיות** מרחיב את זרם היצירה מעבר לתרגילים שגרתיים. פלטפורמה מופעלת על ידי בינה מלאכותית שפותחה דרך גישת ADDIE השתמשה בשונות ישרה במתמטיקה של בית ספר תיכון כנושא איור, והתייחסה לחוסר הזמן והמשאבים של המורים לעיצוב משימות מידול איכותיות: כלים קיימים מייצרים בדרך כלל בעיות מילים קונוונציונליות או תרגילים שגרתיים, בעוד הפלטפורמה שאפה ליצור משאבים המטפחים כשירות מידול מתמטי, מעוגנים בעקרונות עיצוב מבוססים וב[[prompt-engineering|הפקה מוגברת באחזור]].
+**[[generative-ai|GenAI]] למשימות מידול מתמטיות** מרחיב את זרם היצירה מעבר לתרגילים שגרתיים. פלטפורמה מופעלת על ידי בינה מלאכותית שפותחה דרך גישת ADDIE השתמשה בשונות ישרה במתמטיקה של בית ספר תיכון כנושא איור, והתייחסה לחוסר הזמן והמשאבים של המורים לעיצוב משימות מידול איכותיות: כלים קיימים מייצרים בדרך כלל בעיות מילים קונוונציונליות או תרגילים שגרתיים, בעוד הפלטפורמה שאפה ליצור משאבים המטפחים כשירות מידול מתמטי, מעוגנים בעקרונות עיצוב מבוססים וב[[rag|הפקה מוגברת באחזור]].
 - **שרשרת חשיבה חזותית: פער ה[[agency|אוטונומיה]] בגאומטריה.** GeoVAD-Bench מאבחן עזרי-ראיה ביניים במקום תשובות סופיות לאורך 600 בעיות בנייה-עזרית (200 קלה, 200 בינונית, 200 קשה), ומוצא דפוס עקבי: אספקת דיאגרמת העזר המתייחסת משפרת דיוק בצנועות (+3.3, +3.0, +7.0 נקודות לאורך שלושה מודלים) בעוד מתן המודל לבנות את קו העזר שלו בדרך לתשובה הנכונה מרחיבה את הפער ב-10.0 עד 13.5 נקודות, עם שני מודלים מתחתים לביצועים גרועים יותר מאשר כאשר לא הייתה להם חשיבה חזותית כלל. ארבע קטגוריות שגיאת-תהליך הושוו ל-93.1% ו-89.7% מהכשלים המיוחסים. להוראת [[problem-solving|פתרון בעיות]] הממצא הוא שפיגום דיאגרמתי חייב להיות מאומן ומוערך בנפרד מדיוק התשובה. ([[geovad-bench-visual-chain-of-thought-geometry-2026]])
 - **בעיות רגישות לבינה מלאכותית מאבדות זמן למידה ושימור.** לוח בעשר שנים של 3.2 מיליון אינטראקציות ALEKS מצא שזמן הלמידה על בעיות מילים מבוססות-טקסט — אלה הניתנות ביותר לתמלול להנחיות בינה מלאכותית — ירד ב-26.9% לאחר שחרור ChatGPT, בעוד פריטי שימור בפיקוח הראו ירידה של 25% בסיכויי תשובה נכונה ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 - **סטודנטים מעריכים משוב מיידי, אך פלטפורמות תרגול אופציונליות אינן בשימוש.** מתוך 157 סטודנטים, [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] ראו 95 נרשמו ורק 34 ניסו שאלה; משתמשים דירגו מעורבות גבוהה ביותר (79% הסכמה) בעוד רק 42% העדיפו את הפלטפורמה על חוברת הבעיות הקיימת.
+- **שגיאות הופכות למנגנון.** הטבעת AI בפלטפורמת תרגול מבוססת-שליטה האטה את ההתקדמות — סטודנטים ניסו פחות שאלות — ובכל זאת העלתה את נכונות הניסיון הבא לאחר טעויות, בעוד שכלל שליטה של שלוש נכונות ברצף העלה את הצלחת הפלטפורמה בלי לשפר למידה מושהית ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).
 - **בינה מלאכותית יכולה להעלות הישגים תוך הרחבת פער מגדרי.** בקוואזי-ניסוי בן שישה שבועות עם 115 סטודנטים ניגריים בתיכון בכיתה עילית, משוב ChatGPT העלה הישגים במשוואות ריבועיות על פני הוראה קונוונציונלית (29.18 לעומת 24.06), אך סטודנטים גברים הביסו סטודנטיות (30.95 לעומת 25.16) למרות היעדר הבדל מגדרי במסוגלות עצמית — זהירות שוויון לתמיכת מתמטיקה מבוססת בינה מלאכותית ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo & Diri, 2026]]).
+- **סטודנטים עדיין מעדיפים את החלטת הדירוג של המורה.** בניסוי וינייטות עם 250 תלמידי כיתה ז', החלטות מעשה-מורה על תרגיל מתמטי זכו לקבלה גבוהה יותר מהחלטות מעשה-AI (M = 4.48 לעומת M = 3.47), הוגנות נתפסת נשאה 67.52% מהאפקט, והסברים בכתב הרחיבו ולא סגרו את פער ההוגנות ([[decision-making-agent-student-decision-acceptance-2026|Zhang, Fan & Qi (2026)]]).
 
 ### קשרים למושגים קשורים
 
@@ -74,6 +96,16 @@ ai_assist:
 - **היזהרו משבירות פורמט-שטחי בציון בינה מלאכותית.** [[representation-robustness-llm-math-problem-solving|רגישות לייצוג]] אומרת שבעיות שוות-ערך יכולות להפוך תשובות בינה מלאכותית — סיכון תוקף להערכה מתמטית מבוססת בינה מלאכותית; העדיפו [[human-in-the-loop-ai|סקירת בני אדם]] לציון בעל עמידה גבוהה.
 - **השתמשו בבינה מלאכותית כדי להוריד את הסף לתרגול מותאם אישית.** [[ai-powered-personalized-learning-elementary-fractions-2026|פלטפורמות אדפטיביות]] שיפרו הבנת שברים לסטודנטים עם קשיי למידה במתמטיקה; פרסו כלי אדפטיביים מבוססי בינה מלאכותית באופן סלקטיבי ללומדים הזקוקים לתמיכה מובחנת.
 - **שמרו את המורה בשליטה על חומרי הוראה הנוצרים בבינה מלאכותית.** [[teacher-control-ai-generation-math-visuals|שליטת המורה בוויזואלים של בינה מלאכותית]] תומכת במסגרת שמאזנת יעילות בינה מלאכותית עם נכונות פדגוגית.
+
+## תפיסות מוטעות נפוצות
+
+**"הטיעון המוטיבציוני ל‑AI במתמטיקה חזק כמו בשפה."** הראיה המצטברת דקה יותר במתמטיקה ויש לקרוא אותה כך: השפעת GenAI על מוטיבציית למידה הייתה הגדולה ביותר בשפה (**g = 0.946**) ובינונית במתמטיקה (**g = 0.711, 95% CI [0.356, 1.066], k = 4**). ארבעה מחקרים ורווח סמך שמכסה את רוב הטווח הסביר הם בסיס חלש לטענה חזקה, וההבדל בין התחומים גדול דיו כדי שלא להעביר ממצאי שפה בלי בחינה.
+
+**"אם שיעורי הבית נראים נכונים, המתמטיקה נעשתה נכון."** עקבות צ׳אטלוג מ‑**23 סטודנטים לאלגברה לינארית** מראים את תמהיל ההנחיות זז עם המשימה בעוד **90% מההגשות נשארו קרובות לפלט המודל**, וקורס הוכחות עם 153 סטודנטים מצא ביצועי שיעורי בית בסיוע AI סוטים מהערכה ללא סיוע. קרבה לפלט המודל היא מדד לכך שנעזרו, לא לכך שלמדו; בתחום עם תשובות נכונות ברורות, הגשה נכונה היא החפץ הפחות אבחוני הזמין.
+
+**"מתמטיקה היא תחום קל ל‑AI מפני שאפשר לבדוק את התשובות."** אפשרות הבדיקה היא מה שהופך את המתמטיקה למגרש ניסוי טוב, לא מה שהופך אותה לבטוחה. מפני שתשובת הסוף ניתנת לאימות, סטודנט יכול לאמת פתרון שהוא לא בנה — וזו בדיוק הדרך שבה ההנמקה של המקצוע עוקפת בעוד הציון נשאר נקי. התכונה שמושכת חוקרים היא התכונה שהופכת האצלה לבלתי-נראית.
+
+**"קושי פריט במתמטיקה יכול להיקבע בידי מודל מסוגל."** הוא חייב להיות מכויל מול תגובות. במחקר קושי-פריט על פני **5,170 פריטי K-5** מכוילים תחת מודל IRT של ראץ', דירוגי קושי zero-shot שנוצרו בידי מודל הושוו לכויל אמפירי בדיוק מפני שקושי מוצהר וקושי נמדד הם גדלים שונים.
 
 ## מושגים מחוברים
 
@@ -103,11 +135,15 @@ ai_assist:
 - [[teacher-education]]
 
 ## מאמרים מחוברים
-
+- [[ledezma-geometry-task-design-genai-preservice-2026]] — משימות גאומטריה שעיצבו מורות יסוד פוטנציאליות עם GenAI: דרישה קוגניטיבית גבוהה, הוראות סגורות, וטעות קנה מידה מוטבעת (Ledezma et al. 2026)
+- [[llm-math-homework-offloading-traces-2026]] — מה שההגשה אינה מראה: האצלה קוגניטיבית מורכבת בעבודה מתמטית של סטודנטים עם LLMs (Kontorovich & Wallach 2026)
+- [[ai-proof-learning-cognitive-offloading-2026]] — תמיכה או החלפה של ההנמקה של הסטודנטים? האצלה קוגניטיבית בלמידת הוכחות בסיוע AI (Chen et al. 2026)
+- [[preservice-math-teachers-genai-communication-2026]] — Analysing Mathematical Communication between Pre-Service Mathematics Teachers and GenAI: A Case Study in Abstract Algebra Course
+- [[ai-scaffolding-symbolic-obstacles-calculus-2026]] — מכשולים סימבוליים בחדו"א לתואר ראשון הם צוואר בקבוק ייצוגי, עם פחות שגיאות סימבוליות מקודדות לאחר פיגום AI (Nursit et al. 2026)
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]] — שילוב AI בחינוך מתמטי: אתגרי יישום והשלכות פדגוגיות (Manto et al. 2026)
 - [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
 - [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
@@ -118,20 +154,15 @@ ai_assist:
 - [[epistemic-proactivity-math]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[teacher-control-ai-generation-math-visuals]]
-- [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
 - [[generative-ai-reduced-study-time-math]] — פלטפורמת שליטה ALEKS: בעיות מבוססות-טקסט רגישות ביותר לבינה מלאכותית
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
-- [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
 - [[genai-practice-platform-maths-feedback-2026]] — Optional GenAI practice platform in a 157-student maths class: immediate feedback valued, uptake limited to 34 active users
 - [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy
+- [[teachers-instrumental-orchestration-ai-math-2026]] — עבודת תזמור כיתתית במתמטיקה בתיכון: קריאת לוחות מחוונים ותיקון משוב AI
+- [[decision-making-agent-student-decision-acceptance-2026]] — סטודנטים עדיין מעדיפים את החלטת הדירוג של המורה
+- [[genai-learning-motivation-meta-analysis-2026]] — רווחים מוטיבציוניים במתמטיקה נשענים על ארבעה מחקרים (g = 0.711)

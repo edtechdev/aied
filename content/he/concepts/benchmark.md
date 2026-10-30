@@ -1,6 +1,7 @@
 ---
 title: בנצ'מרק
 created: "2026-10-12T19:23:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -9,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,6 +45,7 @@ ai_assist:
 - **[[teaching-feedback-classification-benchmark|בנצ'מרקים למשוב הוראה]]** מעריכים העברת איכות ה[[ai-feedback-quality|משוב]] בין שפות בסיווג.
 - **[[cdpk-pedagogy-benchmark-llms|בנצ'מרק הפדגוגיה (CDPK + SEND)]]** בודק ידע פדגוגי — אסטרטגיות הוראה, שיטות [[assessment|הערכה]] ו[[special-education|פדגוגיה לחינוך מיוחד]] — ולא ידע תוכני, ומדווח "גבול ערך" של עלות-לעומת-דיוק על פני 97 מודלים (רוב הבנצ'מרקים הכלליים בודקים ידע תוכני; פדגוגיה היא ממד נבדל וקריטי-לחינוך).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** משווה בבנצ'מרק סוכני [[learning-design|עיצוב הוראה]] מבוססי [[llm|מודלי שפה גדולים]] על פני 25,795 תרחישי עיצוב הוראה, ומראה שסוכנים היברידיים המעוגנים במסגרות ISD קלסיות (ADDIE, Dick & Carey, Rapid Prototyping) מתעלים על תיאוריה טהורה או טכניקה טהורה — תוצאת בנצ'מרק עם השלכות ישירות לעיצוב [[agentic-ai|בינה מלאכותית סוכנית]] בחינוך.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** מעגן את הערכת החונכות בספרות מקרים מתועדת ולא בפרסונות מדומות: 923 דיאלוגים מתוך מקרים בחינוך מיוחד ובפסיכולוגיה חינוכית, כאשר החזק מבין 11 מודלים פגש התערבות מתועדת ב-55.8% מהמקרים הפתוחים.
 
 - **הסתגלות לומד כקריטריון בנצ'מרק מפורש.** Teaching Monster Challenge מדרגת הסתגלות לפרסונת לומד מצוינת, אך השופט-האוטומטי שלה מבוסס-מודל שפה הפריד רק זנב חלש — המערכות המובילות קיבלו צייור קרוב לתקרתה ודירוגה לא הסכים עם העדפת הקהל (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
@@ -71,6 +77,12 @@ ai_assist:
 - **דווחו יכולת מודל כרמה מכויילת, לא רק כדיוק.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] ממפים 624 פריטים המסומנים על ידי מומחים לרמות מיומנות בעלות שם באמצעות 2,050 תגובות לומדים, ומוצאים שמודלים חזיתיים עולים על התקרה המכויילת — גבול שאחוז מסתיר.
 - **כלל ניקוד יכול להיות מנוצל על ידי המודל שהוא מאמן.** מדד הסתגלות שממוקסם על ידי חזרה על החלטה הטובה ביותר מראה שעיצוב בנצ'מרק צריך לפרסם את ה-argmax, לדרג הסתגלות כהבדל, ולדווח על קווי בסיס מעל-אקראיים ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
+## תפיסות מוטעות נפוצות
+
+- **"מיקום בלוח המובילים אומר כמה טוב החונך."** StudentBench **מקצה באקראי 2,383 בוגרים** בין חונכות בבינה מלאכותית, חונכות אנושית מומחית חיה ותנאי וידאו, ומדרג מול חונכים אנושיים ולא מול מערכות אחרות. בנצ'מרק שמכויל למודלים אחרים עונה על שאלה שאיש לא היה צריך תשובה לה.
+- **"פרסונות מדומות הן בסיס הולם להערכת חונכות."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] מעגן את ההערכה ב**ספרות מקרים מתועדת ולא בפרסונות מדומות**, תוך שימוש ב**923 דיאלוגים**. פרסונות סטודנט מומצאות מאפשרות למערכת לעבור מקרים שאינם מתרחשים.
+- **"אפשר לסמוך על בנצ'מרקים בלי לבדוק את השופט."** היווצר-דמיון דורג כ**השלכה נגד קטעי הידע הפתוחים שאוחזרו (κ = 0.76 עם שיפוט מומחים)** — השופט אומת מול מומחים לפני שנעשה שימוש בצייוריו. שופט אוטומטי לא-מאומת מייצר מספרים שמובנם אינו ידוע.
+
 ## מושגים מקושרים
 
 - [[ai-ed-evaluation]]
@@ -83,6 +95,7 @@ ai_assist:
 
 ## מאמרים מקושרים
 
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: הערכת חונכי LLM על סטודנטים עם התנהגויות מאתגרות (Park et al. 2026)
 - [[standardized-assessment-llm-english-proficiency-2026]] — בנצ'מרק של 624 פריטים למיומנות אנגלית המדווח יכולת מודל כרמה מכויילת (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)

@@ -6,13 +6,18 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -87,6 +92,7 @@ ai_assist:
 תפיסות שגויות נסתרות מראות את אותה הכשל מהצד השני: [[correct-answer-trap-misconceptions|Imran and Bulathwela (2026)]] מצאו שמסווג מכוונן-עדין תפס 57.4% מהתשובות הנכונות שהושגו דרך הגיון פגום, ובשכיחות של 1.6% אפילו מודל הגיון בעל 83.6% דיוק השאיר 8 התראות שווא לכל גילוי — ולכן אותות שליטה מבוססי-נכונות הם גם חלקיים גם יקרים לתיקון.
 
 **האופן שבו מודל מאומת הוא עצמו שאלת תוקף.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] מראים שמודלי לומד פופולריים (BKT, BKT-with-Forgetting, AFM) נראים כלוכדי למידה אנושית רק כשהם מותאמים רטרואקטיבית למערך נתונים רב-מושבי שלם; תחת אימות צולב מבוסס-זמן (walk-forward) — חיזוי מושב עתידי ממושבים קודמים, האופן שבו מודלים כאלה נפרסים בפועל — הם מעריכים יתר על המידה, מפספסים את אפקט ה[[retrieval-spacing-interleaving|פיזור]] ומסויגים לא נכון תנאי תרגול. מכיוון שמודלים מועצמי-שכחה ובלתי-מועצמי-שכחה ביצעו באופן שווה בערך על פני מושבים, הכותבים מסיקים שהשכחה נבלעת לעתים קרובץ בפרמטרי הלומד ולא מיוצגת באמת. הלקח למשפחה הוא שייצוג לומד נאמן חייב להיות מאומת באופן שבו הוא נמצא בשימוש — וששילוב בין ביצוע ברגע-הנתון לבין שימור ארוך-טווח מניב מודלים שנראים מדויקים אך מייצגים לומדים באופן שגוי.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi ו-Robb (2026)]] מראים את אותו כשל מן הצד של המסווג: הסקת ממדי סגנון למידה מדיאלוגי פתרון בעיות של 153 סטודנטים לתואר ראשון נראתה מתונה בדיוק עד שהחזר לפי מחלקה חשף חיזוי של תווית דומיננטית, כאשר לומדים אינטואיטיביים וגלובליים זוהו בחסר באופן שיטתי ודוגמאות מעטות (few-shot) הגבירו לעתים את הטיית מחלקת הרוב.
 
 ## מידול בעידן ה-LLM
 
@@ -105,6 +111,12 @@ ai_assist:
 ## קשרים למושגים אחרים
 
 מידול הלומד והוראה אדפטיבית מזינים ל[[learning-analytics|אנליטיקת למידה]] (לוחות מחוונים ו[[visualization|התערבויות]]), ל[[formative-assessment|הערכה מעצבת]] (הערכה מונעת אנליטיקה) ול[[feedback|משוב]] (מה שהמערכת אומרת ללומד). הם מתחברים ל[[ai-education|בינה מלאכותית בחינוך]] כחוט ליבה של בינה מלאכותית לחינוך.
+
+## תפיסות מוטעות נפוצות
+
+- **"מודל נאמן מחייב את השיטה המורכבת ביותר."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ו-Koprinska (2025)]] ממחישים ש**ייצוג נאמן אינו מחייב** את הגישה המורכבת ביותר. מורכבות אינה פרוקסי לנאמנות, ומודל פשוט יותר הלוכד את המבנה הרלוונטי יכול להיות המכשיר הטוב יותר.
+- **"מודלי לומד זקוקים לנתוני עקבות."** מודל לומד חזאי יכול להישען על **מבנה הרישום** ולא על נתוני עקבות: TRACE מקודד כל סמסטר כ**סל בלתי-מסודר של קורסים** וחוזה ממנו. האות החזאי יכול לחיות ברשומה המנהלית של המוסד.
+- **"מצב אפקטיבי מחייב חישה פיזיולוגית."** חונך מתמטי **הסיק רגש מטקסט שיחתי ומביטוי פנים** ומיפה את המצב המצובר להחלטות חונכות. אות הרגש היה ניתן-לשחזור ממה שהלומדים כבר הפיקו.
 
 ## מושגים מחוברים
 
@@ -159,3 +171,4 @@ ai_assist:
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — מצב לומד קומפקטי בצירוף מעקב מכויל כסביבת המלצה
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[ai-game-based-learning-systematic-review-2026]] — הערכה סמויה הגיעה ל-AUCs של 0.848–0.913, אך ביקורות הטיה היו כמעט נעדרות ב-55 מחקרים
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — הסקת סגנון למידה מדיאלוג נכשלת במדדים מאוזנים (Zamanifard, Goudarzi ו-Robb 2026)

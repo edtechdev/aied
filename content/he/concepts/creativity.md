@@ -1,6 +1,7 @@
 ---
 title: יצירתיות
 created: "2026-10-12T19:19:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -9,13 +10,17 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -76,6 +81,12 @@ ai_assist:
 ### קשרים
 
 יצירתיות מתחברת ל[[critical-thinking|חשיבה ביקורתית]] וללמידה [[constructivist|קונסטרוקטיביסטית]]. היא מוגנת על ידי אותם פיגומי [[reducing-ai-misuse|הפחתת שימוש-לרעה בבינה המלאכותית]] [[scaffolding|ש]] שומרים על הלמידה, ועל ידי עיצובי [[authentic-assessment|הערכה אותנטית]] שמתגמלים גיבוש מקורי על פני מוצרים מלוטשים.
+
+## תפיסות מוטעות נפוצות
+
+- **"שיבוש סטודנטים מפיק רווחים יצירתיים."** **חיכוך אינו רווח יצירתי.** פרסונות AI מתנגדות הניעו שיח אתגר-ורפפלקציה ב**38.2% מהקבוצות** ובכל זאת לא הפיקו **שיפור מדיד בביצועים יצירתיים**. השיח השתנה והתוצאה המדודה לא.
+- **"ספרות K-12 קובעת ש-GenAI משפר יצירתיות."** סקירת היקף מונחית-PRISMA של **45 מחקרים (2017–2025)** מראה ש-GenAI בעיקר **משפר** יצירתיות ו**לעיתים רחוקות מודד** אותה. הממצא הדומיננטי של התחום הוא היסק מהעצמה נתפסת, שאינה מדידת תוצאה.
+- **"יותר תלות ב-GenAI פירושה יותר תוצרי יצירה."** בקרב **1,157 סטודנטים סינים לתארים מתקדמים**, תלות ב-GenAI הייתה **קשורה חיובית ליצירתיות מחקרית מדווחת-עצמית** — והקישור הוא ל**דיווח עצמי**, שהוא המדד החלש ביותר הזמין למבנה הזה.
 
 ## מושגים מקושרים
 

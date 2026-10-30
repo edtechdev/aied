@@ -1,6 +1,7 @@
 ---
 title: הוראת אנגלית (EAP / EFL / ESL)
 created: "2026-10-12T22:10:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -10,13 +11,17 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -81,6 +86,8 @@ ai_assist:
 
 דומיננטיות האנגלית של בינה מלאכותית היא תכונה מגדירה של זרם הזה. מכיוון שהמודלים הם החזקים ביותר באנגלית ובאנגלית אקדמית תקנית ספציפית, חינוך לאנגלית נהנה באופן לא פרופורציונלי (פיגומי EAP עוצמתיים) ונושא סיכונים נבדלים (הטיה חד-לשונית, אפליה נגד World Englishes וכותבים רב-לשוניים). המחקר כאן מתחבר ל[[equity-in-ai-education|שוויון]], ל[[bias-mitigation|צמצום הטיה]], ל[[automated-assessment|הערכה אוטומטית]], ל[[ai-feedback-quality|איכות משוב AI]], ול[[academic-integrity|יושר אקדמי]].
 
+סינתזה מבוססת Scopus של 54 מחקרי EFL ממקמת את ה[[limitations-in-aied-research|מגבלות]] המדווחות ביותר של השדה באוטונומיית הלומד: [[cognitive-offloading|הסתמכות יתר]] על בינה מלאכותית ב-27 מחקרים (50%) ו[[critical-thinking|חשיבה ביקורתית]] מופחתת ב-25 (46%), לעומת פלט לא-אמין מיוצר-בינה מלאכותית ב-22 (41%) כבעיה הטכנית המובילה ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## השלכות למרצים לאנגלית / EAP / EFL-ESL
 
 - **נצלו את עוצמת הבינה המלאכותית לאנגלית אקדמית, בכוונה.** מכיוון שהמודלים הם החזקים ביותר באנגלית ובאנגלית אקדמית תקנית, מרצי EAP יכולים לפרוס בינה מלאכותית לכתיבה מבוססת-ז'אנר, להבדלת חומרי קריאה ([[genai-differentiated-eap-reading-materials-2026|חומרי EAP]]), ולמשוב עריכה — אך צריכים למסגר בינה מלאכותית כשותפת טיוטה/משוב, לא כמנוע תשובות.
@@ -91,6 +98,13 @@ ai_assist:
 - **הבחינו לפי מיומנות וצורך.** [[ai-vs-human-assessment-efl-tpck-2026|הערכת EFL]] ומחקר חונכות אדפטיבית תומכים בהתאמת תמיכת AI והערכה לרמת הלומדים ולא בגודל-אחד-לכולם.
 
 - **שקלו טכנולוגיה לעבר ייצור.** מטא-אנליזה של 33 מחקרי TEFL מצאה אפקט כולל קטן-עד-בינוני (g = 0.38, מופחת ל-0.28 על ידי trim-and-fill) שעלה עם רמה חינוכית והעדיף כישורים פרודוקטיביים — דיבור וכתיבה — על פני רקיפטיביים ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## תפיסות מוטעות נפוצות
+
+- **"ב-EFL, בינה מלאכותית מאיימת בעיקר על רמאות."** ה[[limitations-in-aied-research|מגבלה]] המדווחת ביותר של השדה עצמו היא **אוטונומיית הלומד**, המופיעה כ[[cognitive-offloading|הסתמכות יתר]] ב-**27** מתוך סינתזה מבוססת Scopus של **54 מחקרים**. העלות המתועדת היא תלות ולא חוסר יושר, מה שקורא להתערבות אחרת.
+- **"מורי שפות מאמצים בהתלהבות או לא מאמצים כלל."** [[li-language-educators-genai-review-2026|סקירה שיטתית של 23 מחקרים]] (Li et al.) מוצאת **אימוץ זהיר, הכנה-קודם** כדפוס. המורים היו זהירים באופן מחושב, לא חצויים להתלהבים ומסרבים.
+- **"האפקט הכולל מצדיק את המאמץ."** מטא-אנליזה של **33 מחקרי TEFL** מצאה **אפקט כולל קטן-עד-בינוני (g = 0.38, מופחת ל-0.28 בתיקון trim-and-fill)** ש**עלה עם הרמה החינוכית**. האפקט מתון לאחר התיקון ומרוכז ברמות גבוהות, ולכן טענה ללומדים מתחילים אינה נתמכת בנתון המשוכלל.
+- **"כל שימוש בבינה מלאכותית פרודוקטיבי באותה מידה ללימוד שפה."** אותה עבודה טוענת בעד **הטיית הטכנולוגיה לעבר ייצור** — כתיבה ודיבור ולא צריכה. המודאליות קבעה את האפקט יותר מאשר נוכחות הבינה המלאכותית.
 
 ## מושגים מחוברים
 
@@ -126,7 +140,7 @@ ai_assist:
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
+- [[ai-limitations-efl-higher-education-review-2026]] — הסתמכות יתר על בינה מלאכותית (50% מ-54 מחקרים) וחשיבה ביקורתית מופחתת מובילות את המגבלות המדווחות
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)

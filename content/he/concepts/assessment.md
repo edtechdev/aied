@@ -2,6 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: הערכה
 created: "2026-10-12T21:26:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,12 +14,16 @@ confidence: high
 methods: [ai-ed-evaluation]
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 translation_of: concepts/assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 
 ---
@@ -67,7 +72,7 @@ ai_assist:
 שנית, בינה מלאכותית בכיתה משנה את מה שההערכות יכולות למדוד תקפות, מכיוון
 שתלמידים עשויים להשתמש ב[[generative-ai|בינה מלאכותית יוצרת]] כדי לייצר עבודה.
 התחום עושה בכך הן את ה*כלים* שמבצעים הערכה אוטומטית והן את שאלות ה*תקפות
-והיושרה* שהבינה המלאכותית מעלה.
+והיושרה* שהבינה המלאכותית מעלה. סקירת PRISMA של 72 מחקרי הערכה בהשכלה גבוהה מצאה שמחנכים השתמשו ב‑GenAI לאורך כל מחזור ההערכה — יצירת הערכות, תרגול, מתן ציונים, שקיפות הלמידה והמשוב — כאשר יצירת הערכות ומשוב היו היכולות המזוהות בתדירות הגבוהה ביותר ([[higher-ed-assessments-genai-systematic-review|Crompton and Burke (2026)]]).
 
 ## כיצד בינה מלאכותית משמשת בהערכה
 
@@ -76,7 +81,7 @@ ai_assist:
   באמצעות [[automated-assessment|ציון אוטומטי]],
   [[automated-essay-scoring|ציון אוטומטי של חיבורים]]
   ו[[automated-question-generation|יצירת שאלות אוטומטית]].
-- **הערכה עיצובית:** [[formative-assessment|מערכות בינה מלאכותית]] מייצרות,
+- **הערכה עיצובית:** [[ai-technologies|מערכות בינה מלאכותית]] מייצרות,
   מאמתות ומתאימות פריטי הערכה עיצוביים בקנה-מידה גדול, ומספקות מידע להוראה
   המתמשכת ולא רק להערכה [[summative-assessment|מסכמת]].
 - **אנליטיקת למידה ומדידה:** [[learning-analytics|אנליטיקת למידה]]
@@ -149,6 +154,7 @@ ai_assist:
   שבינה מלאכותית יוצרת קטעה את ההיסק בין ביצוע לכישור בסיסי — לומד עשוי למסור
   עבודה ברמה מקצועית שאינו יכול לשחזר ללא הכלי. הדבר מעודד קונספטואליזציה
   מחודשת של מה נבדק ככושר.
+- **מסגרת תלת-קודקודית ליישור ההערכה מחדש.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] מתייחסים ל‑GenAI הנפוצה בכל מקום כבעיית תקפות והגדרת יכולת ולא כבעיית רמאות, וטוענים שיש ליישר מחדש את שלושת קודקודי משולש ההערכה — קוגניציה, תצפית ופרשנות — יחד ולא לתקן אותם אחד אחד.
 - **שותפות-כותבים ויושרה:**
   [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|יושרת
   שותפות-כותבים]] מציעה מקור חדש של ראיית תקפות שנהפר כאשר תלמידים מגישים תכנים
@@ -252,6 +258,7 @@ ai_assist:
   ביקורתי ([[multimodal-assessment-literacy-l2-teachers-genai-2026|ג'יאנג ושות'
   (2026)]]).
 - **שותפות-כותבים והכרזה** כחלק מחוזה ההערכה
+- **קריטריוני רובריקה מבוססי-תהליך שמדרגים את האינטראקציה, לא את הארטיפקט.** [[rubrics-genai-process-based-assessment-2026|Oviedo ו‑Díaz (2026)]] קוראים את מודל ה‑3P של Biggs כשלושה ממדי דירוג קריטיים — סוכנות אנושית ופיקוח ביקורתי, פיגום דיאלוגי הקשור ל[[prompt-engineering|הנדסת הנחיה]], וריבונות קוגניטיבית המעוגנת ב[[academic-integrity|יושרה]] ובשקיפות — וטוענים שקובץ מוגמר אינו נושא עוד מידע על מי שהנמקתו יצרה אותו.
 - **יצור ככושר** — הערכת יכולת הלומדים לנתב כלים ולייצר עבודה ברמה מקצועית
   ([[competency-based-education-genai-production-2026]])
 - **הערכת תהליך האינטראקציה, לא רק התוצר** — מסגרת
@@ -310,6 +317,12 @@ Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים 
   ו[[graph-its-adaptive-algorithms-2026|מערכות ITS מבוססות-גרף]] משתמשות במעקב
   מצב-ידע מסתגל לספק מידע להערכה.
 
+## תפיסות מוטעות נפוצות
+
+- **"היושרה היא בעיקר בעיית זיהוי."** **ראיונות scroll-back עם 26 סטודנטים** חושפים שסטודנטים שופטים את דרכם דרך הערכה עם GenAI על פני **ספקטרום**, ובקרב **157 סטודנטים**, *איך* משתמשים ב‑GenAI — **שילוב הערכתי לתמיכה בהבנה לעומת** החלפה — ניבא את התוצאה. אופן השימוש מפריד בין סטודנטים בחדות רבה יותר מאשר עצם השימוש.
+- **"דוברי אנגלית לא-ילידית הם סיכון הרמאות."** **סקירת PRISMA של 25 מחקרים** מוסיפה גורם סיכון שהדיון בזיהוי משמיט: דוברים לא-ילידיים הראו **נטייה גבוהה להפר יושרה כשהתקשו** עם הדרישה הלשונית. זו בעיית תמיכה לשונית שנקראת בטעות בעיית יושרה.
+- **"מדיניות שאוסרת GenAI מסיימת את השאלה."** סטודנטים מדווחים על ספקטרום של שיפוטים ולא על דפוס של ציות לכלל, ולכן כלל שאינו פוגש את ההנמקה ההערכתית שהסטודנטים כבר עושים לא יישמר בעקביות.
+
 ## Connected Concepts
 
 - [[learners]] — לומדים: המכסה למושגי צד-הלומד
@@ -361,3 +374,5 @@ Copilot Studio) כמרחב חזרה בסיכון-נמוך שבו תלמידים 
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[koretsky-genai-stem-assessment-2026]] — מסגרת תלת-קודקודית ליישור הערכה מחדש
+- [[rubrics-genai-process-based-assessment-2026]] — קריטריוני רובריקה שמדרגים את האינטראקציה, לא את הארטיפקט

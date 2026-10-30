@@ -8,13 +8,18 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T19:00:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -64,6 +69,7 @@ ai_assist:
 ## אזהרות תכן
 
 - **תמיכה מוגנת-אבחון מכלאה את הלומדים שהיא אינה מכנה בשמם.** הביקורת של סקירת ההיקף חלה ישירות על האופן שבו תכונות בינה מלאכותית נפרסות: אם תכונה נפתחת על ידי מכתב אי-התאמה, לומדים עם הבדלים פונקציונליים אך ללא אבחון לעולם אינם רואים אותה.
+- **תהליכים מונעי-גלאי יכולים להרתיע שימוש לגיטימי בהתאמות.** כאשר טכנולוגיית שפה מתפקדת כהתאמה אפקטיבית עבור לומד נוירו-מגוון, איסור גורף או תהליך מונע-גלאי שמרתיע את השימוש הלגיטימי בה מעורר שיקולי שוויון — מקרה אי-היושרה שבוטל שמתעדת ספרות ה[[ai-detection|גילוי]] היה של סטודנט בתכנית תמיכה לספקטרום האוטיזם ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **כלים יכולים לכלוא אפיסטמית, לא רק גרועים.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] טוען שנתוני אימון אנגלופונים ומערביים-מרכזיים מרגניים דרכי ידע לא-הגמוניות, וממקם את מצבם של לומדים מוגבלים במרכז הביקורת הזו — אזהרה ש"כוללנית" בינה מלאכותית עדיין מקודדת את הידע של מי שנחשב.
 - **אותות התנהגות נקראים על ידי מערכות שאינן מכירות את הלומד.** פרשנות של [[student-engagement|engagement]], מאבץ או תשומת לב ב[[learning-analytics]] ו[[student-modeling]] מניחה תבנית תגובה נורמטיבית; ראו [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] לעדות ההוגנות על ההנחה הזו.
 - **תלות היא תוצאת תכן, לא כשל לומד.** בהתחשב בנתיב ההסתמנות שלמעלה, השאלה לשאול על כל תכונת בינה מלאכותית היא האם היא מחליפה את התהליך מסדר-הגבוה שהמטלה קיימת כדי לבנות — הנקודה ש-Seung ו-Basham עושים עבור לקויות למידה.
@@ -78,6 +84,12 @@ ai_assist:
 ## חיבורים
 
 נוירו-מגוון מתחבר ל[[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], ו[[equity-in-ai-education]]. הוא מיידע הן את האופן שבו בינה מלאכותית נפרסת עבור [[student-experience]] והן את האופן שבו הערכות ותוכניות אוריינות מתוכננות להיות הוגנות על פני שונות קוגניטיבית. לאופן שבו הממצאים הללו יושבים לצד קבוצות לומדים אחרות — שפה, מגדר, סטטוס סוציו-אקונומי, גאוגרפיה — ראו [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
+
+## תפיסות מוטעות נפוצות
+
+- **"מחקר נוירו-מגוון הוא פינה נישתית ב‑AIED."** התחום **התארגן מחדש סביב [[generative-ai|בינה מלאכותית יוצרת]] — 15 מתוך 40 המחקרים** — עם פורמטים אימרסיביים במקום השני ב-11. הספרות נעה עם הטכנולוגיה במקום להצטבר סביב שאלות יציבות.
+- **"יותר AI לדיסלקציה פירושו תמיכה טובה יותר."** [[dabaghi-ai-dyslexia-education-review-2026|הסקירה הבין-תחומית של AI לדיסלקציה (Dabaghi, D'Urso ו-Sciarrone, 2026)]] מכסה **72 מחקרים בין 2018 ל-2024** ומוצאת ש‑AI משמש על פני טווח רחב של מטרות. רוחב היישום אינו ראיה ליעילות באף אחת מהן.
+- **"התאמות הן המסגרת הנכונה עבור לומדים נוירו-מגוונים."** [[neurodivergent-computing-students|סקר של 24 סטודנטים נוירו-מגוונים במחשוב ו-20 עמיתים נוירוטיפיים]] עם ארבעה ראיונות עומק מצא צרכים שהם **דרישות תכן כלליות** — מטלות מובנות, צוותים קטנים ועקביים, תפקידים מפורשים — ולא התאמות אישיות הניתנות לאחר אבחון.
 
 ## מושגים מקושרים
 
@@ -105,3 +117,4 @@ ai_assist:
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — תהליכים מונעי-גלאי יכולים להרתיע שימוש לגיטימי בהתאמות

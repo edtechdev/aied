@@ -1,18 +1,23 @@
 ---
 title: NLP חינוכי
 created: "2026-10-12T19:30:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,7 +64,15 @@ ai_assist:
 
 NLP חינוכי תומך הן בניתוח שפת לומד ([[student-modeling]], [[knowledge-tracing]]) והן ביצירת תוכן הוראה אדפטיבי ([[intelligent-tutoring]], [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] מדגים יצירת תוכן מונעת-NLP ללמידה, בעוד [[zerkouk-comprehensive-review-its-2025]] ממוקם NLP בתוך נוף ה[[intelligent-tutoring]] הרחב יותר. ככל שניתוח מבוסס-LLM גדל, מסגרות [[rct]] ו[[research-methods-aied]] חשובות לאימות שתובנות נגזרות-NLP משפרות באמת למידה.
 
+הטמעות יכולות גם לארגן טקסט של תלמידים לפי צורת-פני-השטח ולא לפי המבנה הנלמד. על סט סינתטי של מנוע קרנו, אותו צנור קיבץ משפטים לפי ניסוח ולא לפי פיזיקה — ייצוג ברמת מתחילים, כטענתם של [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] — מה שהופך את הקיבוץ לכלי לחקירה ולא להערכה.
+
 דחיסת מודל שייכת לאותו ערכת-כלים: צנור דו-שלבי מזקק אומד קופסה-שחורה מותקמת ואת הפרשנות post-hoc שלו למודל קטן בפתוח-משקל, כך ש"mentee" בעל 2B פרמטרים מחזיר הן אומד והן הסבר בשפה טבעית במצב לא-מקוון על מחשב נייד מסחרי ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+## תפיסות מוטעות נפוצות
+
+- **"דמיון סמנטי יכול לסנן התאמת תכנית."** בסינון **3,837 זוגות יעד-תקציר ברפואת שיניים**, אחזור באמצעות הטמעה בתוספת בדיקת היסק-שפה-טבעית **שפט 22.9% מן הפריטים** כמתאימים — דמיון סמנטי הוא **אות חלש** להתאמה. התאמה נושאית שוטפת והתאמה אמיתית של מטרת-למידה הן יחסים שונים.
+- **"סיווג ברמת-משמעות הוא היחידה הטבעית."** **מידול שיעור-שלם מנצח סיווג ברמת-משמעות**: ניקוד תמלילים שלמים במקום משמעות מבודדות **הרים זיהוי שרשרת-היגיון ב-14.2 נקודות אחוז**. הקשר לאורך השיעור נושא מידע שכל תור בודד הורס.
+- **"הרחבת NLP על הערות הערכה מפיקה השפעה."** סקירת היקף PRISMA-ScR ומפת ראיות של **421 מחקרים** (2015–2026) המיישמים NLP על הערכת הוראה פתוחה של תלמידים מצאה הרחבה **בלי להגיע לשימוש**. נפח תפוקת השיטה אינו אימוץ, והפער הוא בשלב הפריסה ולא במידול.
 
 ## מושגים מקושרים
 
@@ -77,6 +90,7 @@ NLP חינוכי תומך הן בניתוח שפת לומד ([[student-modeling]
 - [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות AI (מודלים, אימון LLM, רובוטיקה, RAG, סוכני)
 
 ## מאמרים מקושרים
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — אשכולות הטמעה שמארגנים לפי ניסוח ולא לפי פיזיקה
 - [[lee-learner-question-types-ai-education-2026]] — סיווג טרנספורמרי של שאלות לומד לתפקידים קונסטרוקטיביסטיים (Lee, Atif & Kang 2026)
 - [[bert-discourse-english-teaching-2026]] — סיווג יחסי דיבור אוטומטי עם BERT להוראת אנגלית
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — מאגר הנתונים StudyChat של דיאלוגים תלמיד–LLM בקורס AI

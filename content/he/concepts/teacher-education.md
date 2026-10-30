@@ -1,6 +1,7 @@
 ---
 title: הכשרת מורים
 created: "2026-10-12T19:00:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -8,13 +9,17 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,23 +41,28 @@ ai_assist:
 
 ראיה חוצת-רמות מחדדת את סדרי העדיפויות בעיצוב: [[pedagogy-first-technology-second-teacher-knowledge-2026|מחקר רב-רמות של 46 מורים ו-2,832 תלמידי תיכון]] מצא שידע פדגוגי על בינה מלאכותית (TPAIK) — ולא ידע טכני על בינה מלאכותית — הניע את תפיסות התלמידים את בינה המלאכותית לטובת החברה ואת כוונתם ללמוד בינה מלאכותית. הכשרת מורים צריכה לכן לתת עדיפות ל*כיצד מלמדים עם ואודות בינה מלאכותית* על פני מיומנות בכלים, בהתאם להנחיה "פדגוגיה קודם, טכנולוגיה שניה".
 
+לצד סדר העדיפויות הזה בעיצוב עובר גם ציר הֶאוּטגוגי: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg & Waitzman (2026)]] עקבו אחר 93 מורים ישראליים בתכנית פיתוח מקצועי בת שמונה שבועות בתחום הבינה המלאכותית, והציעו יחס דו-שכבתי שבו ה[[regulation|וויסות]] הרפלקטיבי של המורים עצמם ואוריינות בינה מלאכותית ביקורתית מתווכים את העיצובים מוכווני ה[[agency|סוכנות]] והיכולת שהם יוצרים עבור [[learners|הלומדים]].
+
 ### הכשרת מורים טרום-שירות
 
 הכשרת מורים טרום-שירות (ראשונית) מכינה מורים עתידיים במהלך תכניות ההסמכה שלהם. מחקר בינה מלאכותית בקו זה כולל:
 
 - **מוכנות AI-TPACK ו-Intelligent-TPACK.** כלים ומסגרות מודדים ובונים את המוכנות של מורים טרום-שירות לשלב בינה מלאכותית, ומרחיבים את מסגרת [[tpack|TPACK]] בממד בינה מלאכותית/אתיקה.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
 - **פרופילי קבלה, ופרדוקס קלות-שימוש/כוונה.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] פיללו 128 מורים טרום-שירות לארבע קבוצות קבלה של ChatGPT: Skeptics דוחים (14.06%) דיווחו על קלות שימוש נתפסת גבוהה אך על כוונה התנהגותית נמוכה מאוד, ולכן הדרכת מיומנויות תפעולית בלבד אינה משנה אותם.
+- **הקשר מקומי כקלט לעיצוב.** מורים טרום-שירות שוויצריים דירגו מניעים של תועלת חברתית ומניעים פנימיים גבוה יותר מעמיתיהם הסינים, שדיווחו על כשירות הוראה דיגיטלית ועל התלהבות מבינה מלאכותית גבוהות יותר ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). ההכנה צריכה לכייל את נקודת הכניסה שלה לפרופיל ה[[motivation|מוטיבציוני]] של כל הקשר.
 - **יישומים ותועלות.** סקירת היקף של 55 מחקרים מראה שבינה מלאכותית משפרת את התכנון ההוראה, הוראת המקצוע, כישורי ההוראה המעשיים, ההערכה, הפרקטיקה ההמהגת, [[critical-thinking|החשיבה הביקורתית]], שילוב הטכנולוגיה והחדשנות הפדגוגית של מורים טרום-שירות.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
 - **גישת genAI ללא פיגום קיבלה ציון נמוך מללא genAI.** בניסוי-כמעט עם 52 מורים טרום-שירות לאורך 11 שבועות, כיתת ה-genAI ללא פיגום הפיקה תכניות שיעור שדורגו לפי רובריקה בציון נמוך יותר מכיתת ללא genAI (מותאם 86.54 לעומת 81.87, F = 8.348, p = 0.006, η² = 0.146), ללא הבדל קבוצתי ב[[self-regulated-learning|למידה עצמית מוסדרת]] או בחשיבה ביקורתית ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
+- **מחזורי GPT מותאם אישית מובנים הפיקו ארבעה תפקידי שותף קוגניטיבי.** במחקר מבוסס עיצוב בן סמסטר אחד, 14 מורי טכנולוגיות דיגיטליות טרום-שירות השתמשו בסוכני GPT מותאמים אישית המשולבים ב-LMS דרך מחזורי Prompt–Reflect–Refine, וגילמו את תפקידי המורה המושגי, שותף-המעצב, המראה הרפלקטיבית והמאתגר הקוגניטיבי ככל שהמומחיות גדלה ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]), ו-82% מהתוצרים הסופיים מיפו מתארי תוכן, משימות הערכה וקריטריוני הצלחה.
 - **[[educational-robotics|רובוטיקה חינוכית]] ולמידת מכונה.** הכשרת מורים ראשונית מטמיעה פעילויות קוד, רובוטיקה ו[[machine-learning|למידת מכונה]] (למשל micro:bit) לבניית [[computational-thinking|חשיבה חישובית]] אצל מורים עתידיים.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **הערכה אותנטית ומטאקוגניציה.** מודלים של הערכה בתיווך בינה מלאכותית (למשל AAIWA) משלבים [[authentic-assessment|הערכה אותנטית מבוססת רובריקה]], [[ai-feedback-quality|משוב בינה מלאכותית]] מגיב להקשר, ו[[metacognition|הרהור מטאקוגניטיבי]] בתכניות טרום-שירות.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
-- **חקר נתמך בינה מלאכותית ב[[stem-education|הוראת מדעים]].** ניסוי-כמעט עם 48 מורי מדעים טרום-שירות בטורקיה ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) שילף למידה מבוססת בעיות ומבוססת תכנון בתכנית חקר מודרך בת שמונה שבועות בתמיכת בינה מלאכותית על פוטוסינתזה ונשימה. הוא הפיק שיפורים משמעותיים בהבנה הקונספטואלית של שני התהליכים ה[[biology-education|ביולוגיים]], אך *לא* השפעה מובהקת על אוריינות בינה מלאכותית או על [[computational-thinking|חשיבה חישובית]] נתפסת עצמית — תזכורת ש-AI-IBL יכול להעמיק הבנת תוכן אצל מועמדים להוראה בלי לבנות אוטומטית את כשירות הבינה המלאכותית/החשיבה החישובית שלהם, הדורשות תכנון מפורש וממוקד.
+- **חקר נתמך בינה מלאכותית ב[[science-education|הוראת מדעים]].** ניסוי-כמעט עם 48 מורי מדעים טרום-שירות בטורקיה ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) שילף למידה מבוססת בעיות ומבוססת תכנון בתכנית חקר מודרך בת שמונה שבועות בתמיכת בינה מלאכותית על פוטוסינתזה ונשימה. הוא הפיק שיפורים משמעותיים בהבנה הקונספטואלית של שני התהליכים ה[[biology-education|ביולוגיים]], אך *לא* השפעה מובהקת על אוריינות בינה מלאכותית או על [[computational-thinking|חשיבה חישובית]] נתפסת עצמית — תזכורת ש-AI-IBL יכול להעמיק הבנת תוכן אצל מועמדים להוראה בלי לבנות אוטומטית את כשירות הבינה המלאכותית/החשיבה החישובית שלהם, הדורשות תכנון מפורש וממוקד.
 - **[[generative-ai|בינה מלאכותית יוצרת]] לתכנון הוראה קונסטרוקטיביסטי.** [[sahab-model-genai-constructivist-id-2026|מודל SAHAB]] הוא התערבות פיתוח מקצועי בניסוי-כמעט שבה בינה מלאכותית יוצרת מעצימה מורים לתכנן הוראה [[constructivist|קונסטרוקטיביסטית]], עם שיפורים גדולים (d = 1.18). הוא מראה ש-GenAI יכולה ל[[scaffolding|פוג]] את [[learning-design|תכנון ההוראה]] עבור מועמדים להוראה ומורים עובדים כאחד — לא רק לספק תוכן, אלא לתמוך ב*תכנון* פעילויות למידה ממוקדות תלמיד.
 - **הדרכת כיתה חכמה לתלמידי [[math-education|מתמטיקה]] לתארי M.Ed.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] מראים כיצד קורס מתמטיקה ל-M.Ed. יכול להשתפר בעזרת [[ai-technologies|טכנולוגיות]] חינוכיות חכמות ([[automated-assessment|ניקוד אוטומטי]], המלצות מותאמות אישית, משוב מרובה מודלי AI) לאורך שלבים שלפני השיעור, בתוכו ואחריו, ומניב שיפורים מובהקים סטטיסטית במיומנות תכנון מטרות הוראה. מודל D-T-E הנגיש להעברה (Disciplinary Demand–Technological Empowerment–Evaluation Loop) מציע למחנכים מסגרת [[discipline-specific-aied|ספציפית לתחום]] לשילוב חינוך חכם בהכשרה אקדמית של מורים.
 - **אימוץ תחת מדיניות מתירה הוא דליל יותר ממה שסקירות מראות, ואוריינות הערכה אינה מועברת.** [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] סקרו 85 סטודנטים להוראה בשלושה קורסי הכשרת מורים בהונג קונג שבהם בינה מלאכותית יוצרת הותרה במפורש בהערכה: 62.4% (53) בחרו שלא להשתמש בה כלל, והשימוש של המאמצים היה שטחי ומתקן (הגהה 43.8%, בדיקות בהירות 34.4%, יצירת טקסט 18.8%, סיעור מוחות 12.5%). פחד מלהיות מואשם לשווא בפלגיאט (41.5% מהלא-מאמצים) והעדפה לעבודה יחידנית (77.4%) עלו על כישורים חסרים (13.2%), ותשעה מאחד עשר מרואיינים קראו למדיניות המתירה כ"מלכודת" אפשרית — ראיה שמורים טרום-שירות מביאים איתם חרדת [[academic-integrity|יושר]] אקדמי, לא רק מוכנות לכלים, לקורסים שבהם בינה מלאכותית מותרת.
 - **כתיבת מדיניות בינה מלאכותית לכיתה כעדשה על חשיבת טרום-שירות.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] ביקשו מ-27 מורים טרום-שירות להוראת אנגלית בתיכון, בשנה הסיניורית של תכנית הכשרה להוראת אנגלית בתיכון, לכתוב את [[educational-policy-ai|מדיניות הבינה המלאכותית]] שישמשו בכיתות 6–12 שלהם עצמם, במדינה ללא הדרכה ברמת המדינה. 26 מתוך 27 התירו שימוש מסוים בבינה מלאכותית, כמעט תמיד מוגבל למשימות, זמנים ומקומות שצוינו על ידי המורה, ורק אחד אסר אותו לחלוטין על רקע אתי הקשור לפרקטיקות עבודה ולזכויות יוצרים; 22 התירו בינה מלאכותית להפקת רעיונות בעוד 22 אסרו או השאירו לא ברור את השימוש בבינה מלאכותית להרכבת משפטים, פסקאות או עבודות, וההרהורים הנלווים נקראים כמשא ומתן בין מחויבויות פדגוגיות לחובה מורגשת לשלב [[generative-ai|בינה מלאכותית]]. בקשת מורים טרום-שירות לחקוק מדיניות — במקום לדון בבינה מלאכותית באופן מופשט — חשפה את הפילוסופיות, האמונות והנחות התכנית שלהם, והופכת את כתיבת המדיניות לפעילות בעלת ערך גבוה בקורסי מתודולוגיה.
 - **מדיניות אינה שולטת בפרקטיקה.** ארבעה סמסטרים של נתוני סקר מתכנית הכשרת מורים בארה"ב מראים שימוש ב-GenAI להכנה להערכה עולה מ-57% ל-83% וללמידה מ-44% ל-76%, גם כשמוסדות שקלו תוכנת גילוי בינה מלאכותית, ואי-ודאות אתית עולה לאורך הגלים ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+- **אף מחקר טרום-שירות לא מדד למידת תלמידים.** סקירה שיכלה לכלול רק שבעה מקורות מצאה שאתיקה מוכרת אך לעיתים נדירות נלמדת או מוערכת, ומורים טרום-שירות מפגינים ביטחון יתר בביקורת בינה מלאכותית ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
 
 ### פיתוח מקצועי תוך-שירות
 
@@ -82,6 +92,7 @@ ai_assist:
 ## השלכות למחנכי מורים
 
 - **בניית אוריינות בינה מלאכותית ו-AI-TPACK ביקורתי כאחד.** מורים טרום-שירות ותוך-שירות זקוקים למוכנות לשלב בינה מלאכותית — כלים מרחיבים את TPACK בממד בינה מלאכותית/אתיקה ([[ai-tpack-mathematics-teacher-education-2026|AI-TPACK]], [[designing-ai-professional-development-itpack-2026|i-TPACK PD]]); לימדו חשיבה אתית, שקיפות והוגנות לצד שימוש בכלים.
+- **למדו יכולת ולא ביטחון.** [[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]] טוען ש-TPACK המדווחת עצמית ושליטה התנהגותית נתפסת עשויות שתיהן לשקף ביטחון כללי, ומציע לדרג מוכנות באמצעות משימות תכנון שיעור ומשימות הערכת פרומפטים במקום דיווח עצמי בלבד, ולמקם יכולת AI-TPACK במעלה הזרם של עמדה וכוונה.
 - **צמצום פער ההבעה-מול-הביצוע.** מורים לעתים קרובות טוענים למיומנויות תפעוליות בבינה מלאכותית אך מתקשים ליישם אותן פדגוגית; תכננו פיתוח מקצועי שעובר מידע לפרקטיקה מבוצעת ([[teachers-ai-knowledge-genai-lesson-planning-2026|תכנון שיעורים]]).
 - **שימוש בתרגול מדומי להגדלת הכנה.** כיתות מדומות בסגנון [[educasim-cs1-instructional-practice|EducaSim]] מעניקות למורים בהכשרה תרגול בתדירות גבוהה ובעלות נמוכה עם משוב — משלים לאימון חי מוגבל.
 - **טיפול באמונות ובאמון.** [[self-efficacy|מסוגלות עצמית]] חוזה AI-TPACK בעוד אמונות הוראה מסורתיות חזקות יכולות לשמש כמחסום, ו[[trust|אמון]] נעצב על ידי שקיפות/הוגנות — שימו לב לגורמים הפסיכולוגיים האלה, לא רק לכישורים.
@@ -91,6 +102,13 @@ ai_assist:
 - **הפיכת תכנון [[assessment|הערכה]] של GenAI לחלק מעבודת התכנית המקצועית.** סטודנטים להוראה ב[[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] הראו כוונה מועטת לעצב מחדש את הערכות בית הספר שלהם בעתיד בתגובה לבינה מלאכותית יוצרת, ומשתתפי [[early-childhood-elementary-ai-education|גן ילדים]] ובתיכון שיוו במידה רבה את הטכנולוגיה כבלתי רלוונטית להקשר ההוראה שלהם עצמם — ממד לא מפותח של אוריינות הערכה ולא פער ידע. תכניות הכשרת מורים צריכות לכן לשלב שימוש אתי ב-GenAI בתכנון הערכה כחלק מ[[curriculum-design|תכנית לימודים]] מקצועית, ולשלב עקביות של [[educational-policy-ai|מדיניות ברמת התכנית]] עם דוגמאות קונקרטיות של שימוש מקובל ובלתי מקובל ו[[feedback|משוב]] בזמן על השימוש בפועל של הסטודנטים בבינה מלאכותית.
 - **הפרדת עבודה ניתנת להאצלה מעבודה שאינה ניתנת להאצלה.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] מצא ש-23 סטודנטים לתואר ראשון, רובם מורים טרום-שירות, הפיקו תוצרים דומים בין אם שמרו על עבודת גבולות ובין אם האצילו אותה מוקדם, ו"מתח הרמאות" על ייחוס היה החזק ביותר בקרב העושים את עבודת הגבולות הרבה ביותר — ולכן מטרת ההוראה היא לשפוט איזו עבודה פרשנית לא למסור.
 - **הפיכת כתיבת מדיניות בינה מלאכותית לכיתה לפעילות ליבה בהכשרת מורים, וטיפול בעמימות כבעיה במדיניות.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] מצאו שבקשת מורים טרום-שירות לכתוב את מדיניות הבינה המלאכותית לכיתה שלהם פועלת כבניית עולם רטורית על מטרת הכתיבה — חלון לאמונות מתגבשות שדיון מופשט אינו פותח. מכיוון שבינה מלאכותית מפרידה בין כתיבה-כמוצר לכתיבה-כתהליך, תכניות צריכות לעזור למורים לאתר היכן חשיבה, למידה וערך באמת נמצאים לאורך סיעור מוחות, טיוטה, עריכה והגהה במקום למקם חשיבה רק בטקסט הסופי, ולתמוך בהם בתרגום אמונות לכללים תפעוליים חד-משמעיים בשילוב עם הוראת [[ai-literacy|אוריינות בינה מלאכותית]]: סתירות כמו איסור טקסט שנוצר על ידי בינה מלאכותית תוך הפקת סטודנטים לאחראיות על התוכן שנוצר בבינה מלאכותית שהם מגישים משאירות סטודנטים שאינם מסוגלים לציית.
+- **ללמד מורים לקרוא את המחקר הראשוני שמאחורי מדיניות בינה מלאכותית.** קורס שיטות מחקר לתואר שני בן שישה שבועות, שכוון לצריכת מחקר ולא להפקתו: מורה אחת יישמה את מסגרת ההערכה הביקורתית על תכנית לימודים מחייבת של המחוז והציגה את הניתוח למנהלת שלה, וכמה מהמשתתפים אימצו שאילת שאלות סוקרטיות עם התלמידים שלהם [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
+## תפיסות מוטעות נפוצות
+
+- **"הקבלה של בינה מלאכותית בקרב מורים טרום-שירות היא עמדה אחת."** **128 מורים טרום-שירות** סווגו לארבע קבוצות קבלה של ChatGPT, ובהן **ספקנים מתנגדים (14.06%), שדיווחו על קלות שימוש נתפסת גבוהה אך על כוונה התנהגותית נמוכה מאוד**. קלות השימוש והכוונה התפרדו בקבוצה הזו, ולכן התערבות המכוונת לשימושיות תשאיר אותם ללא שינוי.
+- **"בינה מלאכותית עוזרת למורים טרום-שירות בעיקר בידע תוכני."** **סקירת היקף של 55 מחקרים** מוצאת שבינה מלאכותית משפרת **תכנון הוראה, הוראת מקצוע והוראה מעשית** — יכולות העיצוב והפרקטיקה, ולא מומחיות התוכן.
+- **"סקירת היקף של 55 מחקרים מבססת תועלת."** היא מתעדת את מה שמדווח בשדה. רוחב השיפור המדווח הוא טענה על הקונצנזוס בספרות, ו-55 מחקרים בסקירת היקף אינם אפקט מגובש.
 
 ## מושגים מחוברים
 
@@ -107,6 +125,7 @@ ai_assist:
 
 ## מאמרים מחוברים
 
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — בינה מלאכותית בהכשרת מורים: מסגרות פדגוגיות, ראיות אמפיריות ואתיקה, 2020–2026 (Shukla 2026)
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 student teachers: shallow GenAI adoption, integrity anxiety, and assessment literacy that doesn't transfer
@@ -125,10 +144,7 @@ ai_assist:
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
@@ -136,8 +152,6 @@ ai_assist:
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
@@ -148,3 +162,6 @@ ai_assist:
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
 
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
+- [[capability-decision-model-teacher-readiness-2026]] — למדוד יכולת ולא ביטחון
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — מודל הֶאוּטגוגי דו-שכבתי המקשר בין הוויסות הרפלקטיבי של המורים עצמם לבין סוכנות הלומד
+- [[packard-thinking-partner-framework-adult-learners-2026]] — מורי K-12 לומדים לקרוא מחקר בינה מלאכותית ראשוני ולערער על הנחיות המחוז

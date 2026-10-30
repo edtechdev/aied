@@ -1,19 +1,24 @@
 ---
 title: למידה מגולמת
 created: "2026-10-12T20:40:00-04:00"
+updated: "2026-10-30T19:00:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,6 +55,13 @@ ai_assist:
 - **גילום, ממוקמות, ובנייה חברתית.** ב[[science-education|למידת מדעים]], כלי בינה מלאכותית מתפקדים כ"ארטיפקטים מתוווכים" שמאפשרים קהילות פרקטיקה דיגיטליות וחציית-גבולות, ומחברים חקר אותנטי, מגולם להקשרים בעולם-האמיתי וחוצה-תחומיים.([[li-ai-science-situated-learning-teachers-2025]]) זה מקשר גילום ל[[situated-learning]] ול[[distributed-cognition]].
 
 למידה מגולמת מתחברת ל[[educational-robotics]], ל[[educational-robotics]], ל[[educational-robotics]], ל[[active-learning]], ל[[experiential-learning]], ל[[situated-learning]], ל[[distributed-cognition]], ל[[computational-thinking]], ול[[social-emotional-learning]].
+- **מעקב גוף הופך ויסות לאות מדיד.** בסימולציית פוטוסינתזה במציאות מעורבת, שבה תגי תנועה הזיזו סוכני סטודנטים על-פני מודל מוקרן, צינור LLM תייג 470 קטעים של התנהגות מוסדרת-עצמית ב-40 דקות וידאו, כשהדומיננטיות מיושמת ב-66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+## תפיסות מוטעות נפוצות
+
+- **"הגוף הוא מה שעושה את הלמידה המגולמת."** מטא-אנליזה של **11 מחקרי RALL (N = 595, g = 0.83, I² = 84.4%)** מצאה ש**מורפולוגיית הרובוט, המודליות, האוטונומיה והתפקיד החברתי לא מיתנו** תוצאות של למידת שפה שנייה. תכונות הגילום לא היו המרכיב הפעיל, והטרוגניות הייתה גבוהה מספיק (I² = 84.4%) כדי שהאפקט המשוכלל יתאר מערך התערבויות מאוד מעורב.
+- **"אפקט גדול מכריע את המנגנון."** g = 0.83 עם 595 משתתפים על-פני 11 מחקרים הוא אות ממשי, והוא אינו מזהה מה יצר אותו. מכיוון שתכונות העיצוב לא מיתנו את האפקט, המנגנון הסביר יושב בפעילות הפדגוגית ולא בחומרה — מה שמשנה במה כדאי להשקיע.
+- **"אי אפשר למדוד גילום, ולכן הוא נשאר תיאורטי."** מעקב גוף יכול להפוך ויסות ל**אות מדיד**: בסימולציית פוטוסינתזה במציאות מעורבת, שבה תגי תנועה הזיזו סוכני סטודנטים על-פני מודל מוקרן, צינור LLM תייג **470 קטעים** של התנהגות מוסדרת. המבנה ניתן לאופרציונליזציה גם כשהוא קשה להגדרה.
 
 ## מושגים מחוברים
 
@@ -67,6 +79,7 @@ ai_assist:
 
 ## מאמרים מחוברים
 
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — סימולציית פוטוסינתזה עם מעקב תנועה, שנותחה בצינור LLM (Fonteles et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — מסגרת רב-מודאלית לקוגניציה מגולמת בהסברים בעל-פה
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — טיפוח למידה בר-קיימא דרך אינטליגנציה מגולמת (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
