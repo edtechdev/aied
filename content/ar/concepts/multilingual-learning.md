@@ -2,19 +2,24 @@
 connected_resources: [mglearn]
 title: التعلّم متعدّد اللغات
 created: "2026-10-12T19:20:00-04:00"
+updated: "2026-10-30T17:00:00-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,8 @@ ai_assist:
 
 يجب أن يتجاوز الذكاء الاصطناعي متعدّد اللغات الترجمة ليعكس [[culturally-relevant-pedagogy|التربويات ذات الصلة الثقافية]] — مُولّدًا محتوى مناسبًا لغويًا وسياقيًا. وتُظهر دراسات [[llm-cultural-relevance-k12|الصلة الثقافية للنماذج اللغوية الكبيرة في ما قبل الروضة حتى الصف الثاني عشر]] و[[scaffolding-critical-engagement-genai-minority-students|الانخراط النقدي مع الذكاء الاصطناعي التوليدي بين الطلاب الأقليات]] أن المواءمة اللغوية والثقافية تشكّل ما إذا كان الطلاب يستفيدون فعلًا. وبدون معالجة، يُعمّق انحياز أحادية اللغة في الذكاء الاصطناعي [[digital-divide|الفجوة الرقمية]] ويُقوّض [[equity-in-ai-education|الإنصاف]] عبر [[global-south|الجنوب العالمي]].
 
+الترجمة التبادلية إتاحة يضيفها الذكاء الاصطناعي التوليدي الحواري ولم تكن توفّرها أدوات اللغة السابقة. ففي مراجعة منهجية لـ24 دراسة، طلب المتعلّمون عبارات وتفسيرات مسيَّقة بلغتهم الخاصة كجسر إلى اللغة الهدف — وهو استخدام يصنّفه المُراجِعان كإتاحة فرعية جديدة لا كإعادة تغليف لإتاحة قائمة ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
 ## انحياز التقويم
 
 تؤثّر اهتمامات تعدّد اللغات أيضًا في [[automated-assessment|التقويم الآلي]]: فقد يُظهر [[ai-scoring-language-bias-physics|تصحيح الذكاء الاصطناعي انحيازًا لغويًا]] (كـ[[physics-education|الفيزياء]])، معاقبًا المتحدّثين غير الأصليين. وضمان عدالة أدوات التقويم عبر اللغات جزء من [[assessment-validity]].
@@ -61,6 +68,12 @@ ai_assist:
 - **اعكسوا الثقافة والسياق، لا الترجمة فحسب.** يجب أن يتجاوز الذكاء الاصطناعي متعدّد اللغات الترجمة إلى [[culturally-relevant-pedagogy|التربويات ذات الصلة الثقافية]] — مُولّدًا محتوى مناسبًا لغويًا وسياقيًا ([[llm-cultural-relevance-k12|الصلة الثقافية في ما قبل الروضة حتى الصف الثاني عشر]]).
 - **اقترنوا الذكاء الاصطناعي ببنى دعم متعدّدة اللغات.** استخدموا الأنماط الصوتية-أولًا والفموية ([[kutti-ai-voice-first-learning-companion|الأرفقة الصوتية-أولًا]]) حيث يفشل الذكاء الاصطناعي القائم على النصّ، وادعموا [[self-regulated-learning|التنظيم الذاتي]] في السياقات ثنائية اللغة ([[bilingual-llm-lecture-companion-srl-2026|رفيق المحاضرة ثنائي اللغة]]).
 - **راقبوا الفجوة الرقمية.** يُعمّق انحياز أحادية اللغة في الذكاء الاصطناعي [[digital-divide|الفجوة الرقمية]] ويُقوّض الوصول عبر [[global-south|الجنوب العالمي]] — خطّطوا لبنية ووصول إنصافيين جنبًا إلى جنب مع اختيار الأداة.
+
+## المفاهيم الخاطئة الشائعة
+
+- **«ينبغي أن تهيمن اللغة الهدف من اليوم الأول.»** في **مراجعة منهجية لـ24 دراسة**، طلب المتعلّمون **عبارات وتفسيرات مسيَّقة بلغتهم الخاصة كجسر إلى اللغة الهدف** — وهو استخدام يصنّفه المُراجِعان كإتاحة فرعية جديدة فعلًا لا كحلّ بديل. فدعم لغة البيت عمل كسقالة لا كتفادٍ.
+- **«التقويم اللغوي بالذكاء الاصطناعي منحاز ضد الكُتّاب متعددي اللغات.»** هنا تبع الانحياز **الخط الأساسي البشري لا النموذج**: فالحكم المقارن القائم على النماذج اللغوية الكبيرة على **كتابة تفسيرية للصفوف 3-6 تقارب مع معايير الباحثين (r = .59-.73)** وأظهر النمط نفسه الذي أظهره المُقيِّمون البشريون. وهذا ليس دليلًا على العدالة بمطلقها — بل دليل على أن النموذج لم يُدخل تشويهًا جديدًا فوق القائم.
+- **«مخرج الترجمة عالي الجودة هو الجزء المفيد.»** فاستخدام الجسر تفسيري وظرفي لا استبدالي. والأداة التي تحلّ محل إنتاج المتعلّم ذاته تُزيل الممارسة التي كان الجسر يهدف إلى تمكينها.
 
 ## المفاهيم المرتبطة
 
@@ -76,6 +89,7 @@ ai_assist:
 
 ## المقالات المرتبطة
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — روبوتات محادثة الذكاء الاصطناعي التوليدي تتيح الترجمة التبادلية، وهو استخدام لم تدعمه أدوات اللغة السابقة
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion

@@ -1,7 +1,7 @@
 ---
 title: الذكاء الاصطناعي في التعليم
 created: "2026-09-22T14:35:26-04:00"
-updated: "2026-10-27T04:14:11-04:00"
+updated: "2026-10-30T17:00:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -99,12 +103,13 @@ ai_assist:
 
 - **النماذج والأساليب:** [[generative-ai|الذكاء الاصطناعي التوليدي]]، و[[llm|النماذج اللغوية الكبيرة]]، و[[rag|التوليد المعزَّز بالاستدعاء]]، و[[multimodal|النماذج متعددة الوسائط]]، و[[educational-nlp|معالجة اللغة الطبيعية التعليمية]]، و[[reinforcement-learning|التعلّم المعزَّز]]، و[[knowledge-graph|المخططات المعرفية]]، و[[educational-robotics|الروبوتات في التعليم]]، و[[conversational-ai|الذكاء الاصطناعي الحواري]]، و[[simulation|المحاكاة]]، و[[llm-training-and-fine-tuning|تدريب نماذج لغوية للتدريس]]. وتهمّ أيضًا الأساليب الكامنة خلفها: فـ[[machine-learning|تعلّم الآلة]] هو حيث تُبنى هذه الأنظمة، و[[speech-and-voice-technologies|تقنيات الكلام والصوت]] تحمل التدريس المنطوق وتدريب اللغات، و[[visualization|التمثيل البصري]] يغطي لوحات المعلومات والتحليلات البصرية للمتعلّمين والمعلّمين، و[[virtual-and-augmented-reality|الواقع الافتراضي والمعزَّز]] يستضيف تدريبًا غامرًا يستطيع النموذج الآن أن يولّد طبقته البصرية. وتنتمي إلى هنا أيضًا أنماط تفاعل أحدث، وأبرزها [[vibe-coding|الترميز الحدسي (vibe coding)]]، وهو سير عمل مدفوع باللغة الطبيعية يحدّد فيه المستخدم برنامجًا بمطالبة نموذج لغوي كبير ويحكم على السلوك الناتج بدل قراءة الشيفرة المصدرية أو تحريرها، وهذا يعيد تأطير [[cs-education|البرمجة]] كفعل تعبير وتحقق، ويخفض الحاجز أمام [[teacher-role|المستخدمين النهائيين]] لبناء أدواتهم الخاصة. وتصنّف أطر عمق الإدماج مثل [[samr-model|SAMR]] ونظريات التبنّي مثل [[technology-acceptance-model|نموذج قبول التقنية]] مدى تعمّق تبنّي الذكاء الاصطناعي ومدى تحويله للمهمة.
 - **نمذجة المتعلّم والأنظمة التكيّفية:** تُجمع الأنظمة التقنية التي تمثّل المتعلّم وتتكيّف معه تحت محور [[student-modeling|نمذجة المتعلّم والتعليم التكيّفي]]: [[knowledge-tracing|تتبّع المعرفة]]، و[[cognitive-diagnosis|التشخيص المعرفي]]، و[[simulating-students|محاكاة الطلاب]]، و[[intelligent-tutoring|التدريس الخصوصي الذكي]]، و[[adaptive-learning|التعلّم التكيّفي]]، و[[personalized-learning|التعلّم المخصّص]]، و[[recommender-systems-and-learning-paths|أنظمة التوصية ومسارات التعلّم]]، و[[pedagogical-agent|الوكلاء التربويون]]، و[[affective-tutoring|التدريس الخصوصي الوجداني]]، و[[affective-computing|الحوسبة الوجدانية]]، و[[human-in-the-loop-ai|الذكاء الاصطناعي بمشاركة الإنسان]]، و[[learning-analytics|تحليلات التعلّم]]. وهذه تقع في الطبقة التقنية لأنها أنظمة الذكاء الاصطناعي نفسها، لا طرائق التدريس التي تنفّذها.
+- **المنظومات والانفتاح والتبنّي:** الطبقة المحيطة بالنموذج، حيث يُرخَّص المورد التعليمي ويُستضاف ويُدفع ثمنه بدل أن يُبنى. وتغطّي [[open-education|التعليم المفتوح]] التعليمَ بمحتوى مرخَّص مفتوحًا والبيداغوجيا التي تعدّ الطلاب منتجين له، وهي حيث تُناقَش أسئلة الترخيص والتكييف التي تثيرها المادة المولّدة الآن. وتجاور الانفتاح بمعناه البرمجي، وتحليل مستوى المنصة في [[edtech-platform|منصات التقنية التعليمية]]، وأبحاث التبنّي التي يحملها [[technology-acceptance-model|نموذج قبول التقنية]].
 
 ## الذكاء الاصطناعي في التخصصات
 
 يُطبَّق الذكاء الاصطناعي عبر التخصصات والمستويات التعليمية. وترسم [[discipline-specific-aied|نظرة قاعدة المعارف العامة على الذكاء الاصطناعي في التعليم في التخصصات]] تغطية المواد الدراسية، إلى جانب [[learning-sciences|علوم التعلّم]]، وهي ليست مادة تُدرَّس بل مجال البحث الشامل الذي يدرس التعلّم نفسه ويتعامل مع المادة الدراسية كمتغيّر من متغيّرات أخرى:
 
-- **المواد الدراسية:** [[math-education|الرياضيات]]، و[[physics-education|الفيزياء]]، و[[chemistry-education|الكيمياء]]، و[[biology-education|الأحياء]]، و[[cs-education|علوم الحاسوب]]، و[[engineering-education|الهندسة]]، و[[stem-education|العلوم والتقنية والهندسة والرياضيات]]، و[[writing-education|الكتابة]]، و[[language-learning|تعلّم اللغات]]، و[[english-education|تعليم الإنجليزية (EAP/EFL/ESL)]]، و[[science-education|تعليم العلوم]]، و[[business-education|الأعمال والاقتصاد والإدارة]]، و[[humanities-education|العلوم الإنسانية والاجتماعية]]، و[[arts-design-and-media-education|الفنون والتصميم والإعلام]]، و[[medical-education|الطب والمهن الصحية]]، و[[legal-education|التعليم القانوني]]، والمحاور المهنية والتطبيقية، وهي [[nursing-education|التمريض]]، و[[information-technology|تقنية المعلومات]]، و[[vocational-education|التعليم والتدريب المهني]]، و[[design-education|تعليم التصميم]].
+- **المواد الدراسية:** [[math-education|الرياضيات]]، و[[statistics-and-data-science-education|الإحصاء وعلم البيانات]]، و[[physics-education|الفيزياء]]، و[[chemistry-education|الكيمياء]]، و[[biology-education|الأحياء]]، و[[cs-education|علوم الحاسوب]]، و[[engineering-education|الهندسة]]، و[[stem-education|العلوم والتقنية والهندسة والرياضيات]]، و[[writing-education|الكتابة]]، و[[language-learning|تعلّم اللغات]]، و[[english-education|تعليم الإنجليزية (EAP/EFL/ESL)]]، و[[science-education|تعليم العلوم]]، و[[environmental-education|التعليم البيئي]]، و[[business-education|الأعمال والاقتصاد والإدارة]]، و[[humanities-education|العلوم الإنسانية والاجتماعية]]، و[[arts-design-and-media-education|الفنون والتصميم والإعلام]]، و[[medical-education|الطب والمهن الصحية]]، و[[legal-education|التعليم القانوني]]، والمحاور المهنية والتطبيقية، وهي [[nursing-education|التمريض]]، و[[information-technology|تقنية المعلومات]]، و[[vocational-education|التعليم والتدريب المهني]]، و[[design-education|تعليم التصميم]].
 
 ## المستويات والسياقات
 

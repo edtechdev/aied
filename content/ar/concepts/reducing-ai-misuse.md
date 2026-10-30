@@ -1,6 +1,7 @@
 ---
 title: الحد من إساءة استخدام الذكاء الاصطناعي
 created: "2026-10-12T19:18:00-04:00"
+updated: "2026-10-30T17:00:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
@@ -9,13 +10,17 @@ assessment: [assessment]
 confidence: high
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,6 +44,7 @@ ai_assist:
 ### لماذا تهم الروافع البنيوية أكثر
 
 يمكن ترتيب التدخلات بـ**الأدلة السببية × المدى البنيوي × قابلية التطوير × [[sustainability|الاستدامة]].** وعلى هذا الأساس، تتربع الرافعتان *البنيويتان* على القمة لأنهما تعملان سواء اختار الطلاب السلوك الصحيح أم لا — إذ تقيّدان البيئة بدلاً من الاعتماد على الدافعية الداخلية. أما الروافع *التربوية* فأساسية لكنها فعّالة فقط حين يتأيد الطلاب، فتُعامل كمستوى ثانٍ رغم وعدها المفهومي. ويدفع [[coates-governing-academic-integrity-indicators-2025|Coates وCroucher وCalderon (2025)]] الحجة البنيوية إلى مستوى أعلى، معاملين الحوكمة لا سلوك الطالب بوصفها القيد المُلزِم ومقترحين إطار مؤشر نزاهة من 130 عنصراً حتى يستطيع الحاكمون الأكاديميون رؤية ما إذا كان التقويم أصيلاً، وما إذا كان الطلاب معروفين فردياً للمدرّسين الذين يقيّمونهم، وما إذا كانت النزاهة حاضرةً في التهيئة والتعريف. وتستهدف إصلاحاتهم بنى الحوكمة والبشر و[[ai-technologies|التقنيات والموارد]]، ويقترحون استعارة [[guardrails|اختبار الفريق الأحمر]] من أمن السيبراني لكشف ثغرات التقويم قبل أن يجدها الطلاب — تذكير بأن الأرضية البنيوية تصونها مؤسسات تحتاج إلى المعلومات وإلى الإرادة لصونها معاً.
+وأدبيات الاستخدام المسؤول نفسها نادرًا ما تختبر السلسلة التي يفترضها هذا الترتيب. فمن 122 سجل مقاربة مستخلَصة من 31 دراسة، كان 51 منها مُنفَّذًا ومُقوَّمًا معًا، ومعظمه بالتقرير الذاتي، وحدها أربع دراسات عرّفت حدًّا وصمّمت تدخّلًا حوله واختبرت ما إذا كانت قرارات الطلاب متوافقة ([[tie-responsible-genai-use-academic-writing-review-2026|Tie وGil Ortega وZhao (2026)]]).
 
 ### المستوى 1 — مثبت مباشرةً في الحد من ضرر التعلّم
 
@@ -119,6 +125,7 @@ ai_assist:
 - [[cognitive-surrender]]
 
 ## المقالات المرتبطة
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — الاستخدام الطلابي المسؤول للذكاء الاصطناعي التوليدي في الكتابة الأكاديمية: مراجعة استطلاعية للحدود والمقاربات التعليمية وفجوات الأدلة
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — حجب توصية منع الاعتماد المفرط إلى حدّ كبير دون بناء الحكم الذي يحميه
 - [[ivory-psychology-assessment-integrity-2026]] — مسارات أدلة ضبط الإصدارات ومستندات التحليل القابلة لإعادة الإنتاج كرادعات لإساءة الاستخدام (Ivory et al. 2026)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning

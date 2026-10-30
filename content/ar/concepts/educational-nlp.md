@@ -6,13 +6,18 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
+updated: "2026-10-30T17:00:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -58,7 +63,15 @@ ai_assist:
 
 تُسنِد معالجة اللغة الطبيعية التعليمية كلاً من تحليل لغة المتعلّم ([[student-modeling]]، [[knowledge-tracing]]) وتوليد المحتوى التعليمي التكيفي ([[intelligent-tutoring]]، [[scaffolding]]). [[ai-generated-interactive-fiction-education-2026]] يُظهر توليد المحتوى المدفوع بمعالجة اللغة الطبيعية للتعلم، في حين يضع [[zerkouk-comprehensive-review-its-2025]] معالجة اللغة الطبيعية داخل مناظر [[intelligent-tutoring]] الأوسع. مع نمو التحليل القائم على النماذج اللغوية الكبيرة، تُهم أطر [[rct]] و[[research-methods-aied]] للتحقق من أن البصائر المستخلصة من معالجة اللغة الطبيعية تُحسّن التعلم حقاً.
 
+تستطيع التضمينات أيضًا تنظيم نصّ الطلاب حسب الشكل السطحي لا حسب البنية التي تُدرَّس. ففي مجموعة اصطناعية عن محرّك كارنو جمّع الخط نفسه عبارات حسب الصياغة لا حسب الفيزياء — تمثيل شبيه بتمثيل المبتدئ، كما يرى [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber و Kortemeyer (2026)]] — وهو ما يجعل العنقدة أداة استكشاف لا أداة تصحيح.
+
 انضغاط النماذج ينتمي إلى صندوق الأدوات نفسه: يقطر خط أنابيب من مرحلتين مُقدِّراً صندوقاً أسود مُلائماً وتأويله اللاحق إلى نموذج صغير مفتوح الوزن، فيُرجع نموذج «مُوجَّه» بـ2 مليار بارامتر تقديراً وتفسيراً باللغة الطبيعية دون اتصال على حاسوب محمول تجاري ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+## المفاهيم الخاطئة الشائعة
+
+- **«التشابه الدلالي يمكن أن يفحص مواءمة المنهج.»** فبفحص **3,837 زوجًا من الأهداف والملخّصات في طبّ الأسنان**، حكم الاسترجاع بالتضمينات مع فحص استلزام لغوي بأن **22.9% من البنود** مواءَمة — فالتشابه الدلالي **إشارة ضعيفة** للمواءمة. فالتطابق الموضوعي الطليق والتطابق الحقيقي مع هدف تعلّمي علاقتان مختلفتان.
+- **«تصنيف على مستوى القول هو الوحدة الطبيعية.»** **نمذجة الدرس كاملًا تتفوق على التصنيف على مستوى القول**: فتقويم النصوص الكاملة بدل الأقوال المفردة **رفع كشف سلسلة الاستدلال 14.2 نقطة مئوية**. فالسياق عبر الدرس يحمل معلومات يهدمها أي دور واحد.
+- **«توسيع معالجة اللغة الطبيعية على تعليقات التقويم يُنتج أثرًا.»** وجدت مراجعة نطاق وخريطة أدلة وفق PRISMA-ScR لـ**421 دراسة** (2015-2026) تُطبّق معالجة اللغة الطبيعية على تقويم الطلاب المفتوح للتدريس أن التوسّع جرى **دون بلوغ الاستخدام**. فحجم مخرَج الأساليب ليس تبنّيًا، والفجوة في خطوة النشر لا في النمذجة.
 
 ## المفاهيم المرتبطة
 
@@ -76,6 +89,7 @@ ai_assist:
 - [[ai-technologies]] — مظلة: تقنيات وتقنيات الذكاء الاصطناعي (النماذج، وتدريب النماذج اللغوية الكبيرة، والروبوتية، وRAG، والوكالية)
 
 ## المقالات المرتبطة
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — عناقيد تضمينات تنظّم حسب الصياغة لا حسب الفيزياء
 - [[lee-learner-question-types-ai-education-2026]] — Transformer classification of learner questions into constructivist roles (Lee, Atif & Kang 2026)
 - [[bert-discourse-english-teaching-2026]] — Automatic discourse relation classification with BERT for English teaching
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course

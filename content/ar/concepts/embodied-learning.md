@@ -1,19 +1,24 @@
 ---
 title: التعلّم التجسيدي
 created: "2026-10-12T18:00:00-04:00"
+updated: "2026-10-30T17:00:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,6 +62,14 @@ ai_assist:
 - **التجسيد والموقفية والبناء الاجتماعي.** ففي [[science-education|تعلّم العلوم]]، تعمل أدوات الذكاء الاصطناعي بوصفها «آثارًا وسيطة» تُتيح مجتمعات الممارسة الرقمية وعبور الحدود، موصولةً الاستقصاءَ المُتجسِّد الأصيل بسياقات واقعية ومتعددة التخصصات.([[li-ai-science-situated-learning-teachers-2025]]) وهذا يربط التجسيد بـ[[situated-learning]] و[[distributed-cognition]].
 
 ويرتبط التعلّم التجسيدي بـ[[educational-robotics]]، و[[educational-robotics]]، و[[educational-robotics]]، و[[active-learning]]، و[[experiential-learning]]، و[[situated-learning]]، و[[distributed-cognition]]، و[[computational-thinking]]، و[[social-emotional-learning]].
+- **تتبّع الجسد يحوّل التنظيم إلى إشارة قابلة للقياس.** في محاكاة البناء الضوئي بالواقع المختلط حيث نقلت وسوم الحركة وكلاء الطلاب عبر نموذج مسقوف، صنّف خط أنابيب لنموذج لغوي كبير 470 مقطعًا من سلوك التنظيم الذاتي في 40 دقيقة من الفيديو، مع تجسيد الهيمنة عند 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|فونتيلس وآخرون، 2026]]).
+
+## المفاهيم الخاطئة الشائعة
+
+- **«الجسد هو ما يجعل التعلّم التجسيدي يعمل.»** وجد تحليل بعدي لـ**11 دراسة في تعلّم اللغة المساعد بالروبوت (N = 595، g = 0.83، I² = 84.4%)** أن **شكل الروبوت ووسيطه واستقلاليته ودوره الاجتماعي لم تُعدّل** نواتج تعلّم اللغة الثانية. فخصائص التجسيد لم تكن المكوّن الفعّال، وكان عدم التجانس عاليًا بما يكفي (I² = 84.4%) لأن يصف الأثر المجمّع مجموعة شديدة الاختلاط من التدخلات.
+- **«الأثر الكبير يحسم الآلية.»** g = 0.83 مع 595 مشاركًا عبر 11 دراسة إشارة حقيقية ولا تحدد ما أنتجها. ولأن الخصائص التصميمية لم تُعدّل الأثر، فإن الآلية المحتملة تقع في النشاط التربوي لا في العتاد — وهذا يغيّر ما ينبغي الاستثمار فيه.
+- **«التجسيد لا يمكن قياسه، فيبقى نظريًا.»** يستطيع تتبّع الجسد تحويل التنظيم إلى **إشارة قابلة للقياس**: ففي محاكاة البناء الضوئي بالواقع المختلط حيث نقلت وسوم الحركة وكلاء الطلاب عبر نموذج مسقوف، صنّف خط أنابيب لنموذج لغوي كبير **470 مقطعًا** من سلوك التنظيم. فالبنية قابلة للتشغيل حتى حيث يصعب تعريفها.
+
 
 ## المفاهيم المتصلة
 
@@ -74,6 +87,7 @@ ai_assist:
 
 ## المقالات المتصلة
 
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Motion-tracked photosynthesis simulation analyzed with an LLM pipeline (Fonteles et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
