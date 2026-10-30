@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-25T17:35:00-04:00"
+updated: "2026-10-30T06:18:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -100,6 +100,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 - **Detectability is a property of assignment design, not only of the detector.** [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] found cross-model agreement of 87.79-88.14% on generated code, yet only 1-14 distinct abstract syntax trees per 1,000 files on tightly constrained functions versus 151-804 among 2021 student submissions.
 
+- **The models that generate the text rank detection last as a countermeasure.** [[lieske-ai-proposals-counter-ai-cheating-2026|Lieske and Wadley (2026)]] put one prompt to eight LLMs and search tools from Anthropic, Microsoft, Google, Meta, OpenAI, Perplexity and DeepSeek. Each was asked to nominate and rank six techniques for stopping AI cheating in non-invigilated assignments, and the 48 answers were pooled into 15 composite approaches. Detection was the only approach to recur in the sixth-ranked position, four times across the eight models, while personalization, AI-assisted process measures and oral follow-up led. The paper carries no empirical data and its ranking measures model consensus rather than efficacy; it belongs here as evidence of how the systems producing the text weigh detection against the alternatives.
+
 ## Implications for AI in education
 
 - **Detection is situational:** institutions should use detection tools sparingly and with awareness of their error rates, fairness limits, and task-dependence — not as an automatic, standalone gate.
@@ -138,6 +140,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[legal-issues-and-risks]]
 
 ## Connected Articles
+
+- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Eight LLMs rank six counter-cheating techniques; AI detection comes last
 
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Twenty markers on intuition, dead detectors and fabricated references
 - [[tench-ai-policy-isnt-a-playbook-2026]] — A nationally representative survey of US teachers and principals on AI policy coverage, agency, and five classroom plays (Tench, Weinstein & James 2026)

@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-26T13:50:00-04:00"
+updated: "2026-10-30T06:18:00-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -30,6 +30,8 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 
 
 - **AI-GBL effectiveness:** A 55-study systematic review of AI-supported game-based learning finds positive effects on knowledge, intrinsic motivation and affective engagement, but only 4 studies (7%) met its High-quality threshold and only 4 (7%) were [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). Effectiveness turned on aligning the AI mechanism with a stated [[learning-theories|learning theory]].
+
+- **Students as game designers rather than players:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] had 22 primary students aged 8-12 design an augmented escape board game about misinformation, stacking [[project-based-learning|project-based learning]] with [[design-thinking|design thinking]] and the Room2Educ8 escape-room framework. Composite [[ai-literacy|AI literacy]] on a 20-item DigComp 3.0 questionnaire rose from 3.684 to 4.309 on a 5-point scale, t(21) = −21.086, p < .001, with all five competence areas improving. The class generated 11 proposals with AI prompts and merged them into one buildable game. Self-report, one class, and no control group.
 
 ### Gamification
 
@@ -83,6 +85,7 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[virtual-and-augmented-reality]] — immersive and gamified practice overlap in design and evidence
 
 ## Connected Articles
+- [[karampa-students-game-designers-ai-literacy-2026]] — Primary students design an escape board game; AI literacy rises within one e-course lab
 - [[ai-game-based-learning-systematic-review-2026]] — Systematic review of 55 AI-supported game-based learning studies: positive outcomes, a thin evidence base
 
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
