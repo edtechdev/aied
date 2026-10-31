@@ -71,25 +71,41 @@ Query every other source in the config by its `type`:
   optional and the client falls back to the anonymous API without one; relevance is its default
   sort, so never add a date sort to a free-text search.
 
-  Run **every query in the source's `queries` list**, not one phrase. Measured on the 2026-09-27
-  window: one phrase surfaced 7 records where six shapes surfaced 29 after screening. Pass the
-  source's `args`, which apply the inclusion bar inside the client:
+  The config defines two shapes and each says which pass it belongs to. `cadence: daily` is the
+  **journal watch**: a `primary_location.source.id` filter over the ~35 outlets this wiki actually
+  draws from, queried one AI term at a time. `cadence: weekly` is the **topic sweep**: a broad
+  `topics.id` filter with `--require-learners`, high volume and lower precision, which the Sunday
+  journal job runs and this one must skip.
+
+  Why the shape changed (measured 2026-10-31 against 25 articles the maintainer found by hand in a
+  fifteen-day window): the previous five phrase queries recovered 2 of 25. The journal watch
+  recovers 19 of 25 at about 11 candidates a day; the topic sweep recovers 17 of 25 at about 76 a
+  day after screening. Three structural fixes carried that:
 
   ```bash
-  python3 tooling/scripts/openalex_fetch.py --search "artificial intelligence in education" \
-      --edu-only --oa-only --since <WINDOW_START> --with-pdf-only --require-ai --drop-low-impact \
-      --max 25
+  python3 tooling/scripts/openalex_fetch.py --search "artificial intelligence" \
+      --oa-only --require-ai --drop-low-impact \
+      --filter "primary_location.source.id:<ids from wiki.config.yaml>" \
+      --since <WINDOW_START> --max 200 --pages 2
   ```
 
-  - `--require-ai` drops records with no AI term in the title or abstract. A general education
-    search is mostly not AI: 63 of ~109 records went this way on that window, so do not widen the
-    search to OpenAlex education generally.
+  - **Page the window.** `--max` is the total across pages, `--per-page` the request size (OpenAlex
+    caps it at 200) and `--pages` how many cursor requests to make. A date-windowed filter matches
+    thousands of works, so the old single page of 25 saw well under one percent of the pool.
+  - **No `--edu-only`.** The Education subfield discards about half of education-technology work:
+    of twelve hand-found papers checked, six were filed under information systems, computer science
+    applications or language and linguistics instead.
+  - **No `--with-pdf-only`.** About a quarter of open-access records carry `is_oa: true` with no
+    `pdf_url` (hybrid Elsevier, some Springer). Resolve the PDF at ingest and record the failure
+    there instead of losing the record.
+  - `--require-ai` drops records with no AI term in the title or abstract; `--require-learners`
+    additionally demands a learner, teacher or institution term (used by the topic sweep).
   - `--drop-low-impact` applies the significance bar: self-report-only studies (a perception or
     attitude study is self-report by construction), work confined to one site or institution, and
-    samples stated under 100 with no measured outcome. It dropped 17 that week and prints each
-    reason to stderr, so report the count and the reasons -- they can be argued with.
+    samples stated under 100 with no measured outcome. It prints each reason to stderr, so report
+    the count and the reasons -- they can be argued with.
   - Do **not** make `--title-abstract-search` the default: it requires every term of the query,
-    which took the same window from 134 matches to 7, and from 29 screened records to 2.
+    which took a measured window from 134 matches to 7.
 
   Details: `references/openalex.md`.
 - `web_search` (EdArXiv) — search its `url` with the source's `query`.

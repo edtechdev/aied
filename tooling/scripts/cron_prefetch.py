@@ -303,10 +303,16 @@ def fetch_openalex(src: dict, cutoff: _dt.date, notes: list) -> list[dict]:
     """Every configured query shape, with the inclusion bar applied inside the client."""
     recs = []
     base = [sys.executable, os.path.join(SCRIPTS, "openalex_fetch.py")]
+    max_results = int(src.get("max_results", 25))
+    pages = int(src.get("per_query_pages", 1))
+    per_page = src.get("per_page")
     for q in src.get("queries", []):
         cmd = base + ["--search", q, *src.get("args", []),
-                      "--since", cutoff.isoformat(), "--max", str(src.get("max_results", 25))]
-        rc, out, err = _run(cmd, timeout=240)
+                      "--since", cutoff.isoformat(), "--max", str(max_results),
+                      "--pages", str(pages)]
+        if per_page:
+            cmd += ["--per-page", str(per_page)]
+        rc, out, err = _run(cmd, timeout=300)
         rows = _jsonl(out)
         if rc != 0 and not rows:
             notes.append(f"{src['name']}/'{q[:28]}': rc={rc} {err.strip()[:100]}")
@@ -334,6 +340,9 @@ def main() -> int:
                     help="window in days (default: scan.window.default_days from wiki.config.yaml)")
     ap.add_argument("--source", default=None,
                     help="only this source name (case-insensitive substring)")
+    ap.add_argument("--cadence", default="daily", choices=["daily", "weekly"],
+                    help="which sources to run: daily (the default, and everything without an "
+                         "explicit cadence) or weekly (the high-volume sweeps)")
     ap.add_argument("--out", default=None, help="write JSON here instead of stdout")
     ap.add_argument("--pretty", action="store_true", help="indent the JSON")
     ap.add_argument("--json", action="store_true",
@@ -363,22 +372,30 @@ def main() -> int:
         name = src.get("name", "?")
         if wanted and wanted not in name.lower():
             continue
+        # A weekly sweep is stored beside the daily sources but must not run daily: it is the
+        # high-volume, lower-precision shape. Sources without a cadence run on every pass.
+        if (src.get("cadence") or "daily").lower() != args.cadence:
+            continue
         stype = src.get("type", "")
+        # A source may widen its own window (a weekly sweep reads seven days whatever the
+        # daily default is).
+        src_days = int(src.get("window_days") or days)
+        src_cutoff = _dt.date.today() - _dt.timedelta(days=src_days)
         before = len(records)
         try:
             if stype == "arxiv_api":
-                got = fetch_arxiv(src, cutoff, notes)
+                got = fetch_arxiv(src, src_cutoff, notes)
                 # RSS fallback only when the dated query produced nothing at all
                 if not got:
                     notes.append(f"{name}: dated query empty, trying RSS fallback")
-                    got = fetch_arxiv_rss(src, cutoff, notes)
+                    got = fetch_arxiv_rss(src, src_cutoff, notes)
                 records.extend(got)
             elif stype == "trove_search":
-                records.extend(fetch_psyarxiv(src, cutoff, days, notes))
+                records.extend(fetch_psyarxiv(src, src_cutoff, src_days, notes))
             elif stype == "openalex":
-                records.extend(fetch_openalex(src, cutoff, notes))
+                records.extend(fetch_openalex(src, src_cutoff, notes))
             elif stype == "web_search" and "edarxiv" in name.lower():
-                records.extend(fetch_edarxiv(src, cutoff, notes))
+                records.extend(fetch_edarxiv(src, src_cutoff, notes))
             else:
                 notes.append(f"{name}: unsupported type {stype!r}, skipped")
         except Exception as e:  # noqa: BLE001 - one bad source must not kill the run

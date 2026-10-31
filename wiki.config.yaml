@@ -305,23 +305,73 @@ scan:
       fetcher_script: tooling/scripts/fetch-psyarxiv-edpsych.py
       max_results: 60
       max_age_days: 3
-    - name: OpenAlex (open-access journals and repositories)
+    # Journal watch: the outlets this knowledge base actually draws from, queried one AI
+    # term at a time. Shape measured on a 15-day window (2026-10-17..31) against 25
+    # articles the curator found by hand: 19 of 25 recovered at about 11 candidates a day,
+    # against 2 of 25 for the five phrase queries this replaced. The source IDs were
+    # derived from the corpus (resolve recent DOIs to primary_location.source, count, take
+    # the head) and should be re-derived occasionally rather than frozen forever.
+    - name: OpenAlex (journal watch on the corpus's own outlets)
       type: openalex
       script: tooling/scripts/openalex_fetch.py
-      # Several query shapes, not one phrase. Measured on the 2026-09-27 window: a
-      # single phrase surfaced 7 records; six shapes surfaced 29 after screening.
+      cadence: daily
+      # One term per request, unioned. Multi-word phrases under a relevance ranking
+      # recover very little: "artificial intelligence in education" matched none of the
+      # 25 hand-found papers. Do not merge these into an OR string -- long OR lists
+      # behave unpredictably and can return zero where a single term returns records.
       queries:
-        - "artificial intelligence in education"
-        - "generative AI teaching learning assessment"
-        - "large language model students learning"
-        - "AI literacy higher education"
-        - "ChatGPT assessment feedback"
-      # --require-ai drops records with no AI term; --drop-low-impact applies the
-      # significance bar (self-report-only, single-site and small-sample work).
-      args: ["--edu-only", "--oa-only", "--with-pdf-only", "--require-ai", "--drop-low-impact"]
-      max_results: 25
+        - "artificial intelligence"
+        - "generative AI"
+        - "ChatGPT"
+        - "chatbot"
+        - "large language model"
+        - "LLM"
+        - "machine learning"
+        - "intelligent tutoring"
+        - "automated feedback"
+        - "AI literacy"
+        - "generative artificial intelligence"
+        - "AI-assisted"
+        - "AI-powered"
+      # No --edu-only: the Education subfield discards about half of education-technology
+      # work, which OpenAlex files under information systems, computer science applications
+      # or language and linguistics instead. No --with-pdf-only either: roughly a quarter of
+      # open-access records carry is_oa true with no pdf_url (hybrid Elsevier, some Springer),
+      # so the PDF is resolved at ingest and a failure is recorded there.
+      args: ["--oa-only", "--require-ai", "--drop-low-impact", "--filter",
+             "primary_location.source.id:S9692511|S2596526815|S146239864|S2764787909|S4210168612|S2738008561|S110346167|S7407055490|S139566883|S4387280196|S2494786546|S144187503|S2764918247|S2764551270|S2737386756|S94345546|S169659577|S162196882|S135873401|S4210184601|S148277943|S17147534|S204030396|S4210183364|S4210172634|S166722454|S2738571837|S90466346|S114840262|S55310782|S4210230434|S187377680|S166850901|S127795871|S142259175"]
+      max_results: 200
+      per_query_pages: 2
       # The API key is resolved by the script itself (OPENALEX_API_KEY, then a key
       # file). Never store a key here: this file is published.
+    # Weekly topic sweep: the complement to the journal watch. It catches work published in
+    # outlets nobody watches, at the cost of volume -- the topic filter is broad, so
+    # --require-learners cuts the candidate list to what actually mentions learners or
+    # teachers. Measured: 17 of the same 25 recovered, about 110 candidates a day raw and
+    # 76 a day after screening, which is why it runs weekly with a cap and not daily.
+    - name: OpenAlex (weekly topic sweep)
+      type: openalex
+      script: tooling/scripts/openalex_fetch.py
+      cadence: weekly
+      window_days: 7
+      queries:
+        - "artificial intelligence"
+        - "generative AI"
+        - "ChatGPT"
+        - "chatbot"
+        - "large language model"
+        - "LLM"
+        - "machine learning"
+        - "intelligent tutoring"
+        - "automated feedback"
+        - "AI literacy"
+        - "generative artificial intelligence"
+        - "AI-assisted"
+        - "AI-powered"
+      args: ["--oa-only", "--require-ai", "--require-learners", "--drop-low-impact", "--filter",
+             "topics.id:T14414|T11636|T11902|T12338|T11492|T10254|T10021|T10130|T12070"]
+      max_results: 200
+      per_query_pages: 1
   # Applied after retrieval; default_policy wins whenever the call is close.
   relevance_filter:
     include:

@@ -50,17 +50,24 @@ else's address.
 ## Usage
 
 ```bash
-# discovery: the scan's main query. Relevance sorting is the default and matters.
-python3 tooling/scripts/openalex_fetch.py --search "generative AI in education" \
-    --edu-only --oa-only --since 2026-09-01 --max 25
+# discovery: one AI term per request, unioned across requests. Relevance sorting is the
+# default and matters.
+python3 tooling/scripts/openalex_fetch.py --search "generative AI" \
+    --oa-only --since 2026-09-01 --max 200 --pages 2
 
-# only works that expose a downloadable PDF
-python3 tooling/scripts/openalex_fetch.py --search "AI literacy" --edu-only --oa-only \
+# journal watch: the outlets this corpus actually draws from
+python3 tooling/scripts/openalex_fetch.py --search "artificial intelligence" \
+    --oa-only --require-ai --filter "primary_location.source.id:S9692511|S2596526815" \
+    --since 2026-09-01 --max 200 --pages 2
+
+# topic sweep: broad topics.id filter, learners required, high volume
+python3 tooling/scripts/openalex_fetch.py --search "AI literacy" --oa-only --require-ai \
+    --require-learners --filter "topics.id:T14414|T11636|T11902" \
+    --since 2026-10-17 --max 200
+
+# only works that expose a downloadable PDF (avoid for discovery -- see the note below)
+python3 tooling/scripts/openalex_fetch.py --search "AI literacy" --oa-only \
     --since 2026-06-01 --with-pdf-only --max 25
-
-# the scan's screened run: several query shapes, AI term required, bar applied
-python3 tooling/scripts/openalex_fetch.py --search "AI literacy higher education" \
-    --edu-only --oa-only --since 2026-09-20 --with-pdf-only --require-ai --drop-low-impact --max 25
 
 # one work by DOI (what the source-acquisition path uses)
 python3 tooling/scripts/openalex_fetch.py --doi 10.1007/s11858-026-01827-y
@@ -68,6 +75,42 @@ python3 tooling/scripts/openalex_fetch.py --doi 10.1007/s11858-026-01827-y
 # candidates for a title, scored by similarity (accept none below ~0.85)
 python3 tooling/scripts/openalex_fetch.py --title "Generative AI in mathematics education" --max 5
 ```
+
+## Paging
+
+A date-windowed filter matches thousands of works, so one page is never the window. Three flags
+control the request:
+
+- `--per-page` records per request (OpenAlex caps it at 200; default is `--max` when that fits).
+- `--pages` how many cursor pages to request (default 1).
+- `--max` the total across pages, `-1` for no cap.
+
+```bash
+# walk a whole fortnight of one topic, newest first, with no free-text query
+python3 tooling/scripts/openalex_fetch.py --filter "topics.id:T14414" --oa-only \
+    --since 2026-10-17 --until 2026-10-31 --max -1 --per-page 200 --pages 40
+```
+
+`stderr` reports `total_matching`, `returned`, `requests` and `per_page`, so a truncated run is
+visible rather than silent.
+
+## Two filters that look like precision and cost recall
+
+- **`--edu-only`** restricts to `primary_topic.subfield.id:subfields/3304`. OpenAlex files roughly
+  half of education-technology work outside that subfield -- information systems, computer science
+  applications, language and linguistics, psychology -- so the filter drops relevant papers with
+  nothing offered in exchange.
+- **`--with-pdf-only`** drops records with `is_oa: true` and no `pdf_url`. That is about a quarter
+  of open-access hits (hybrid Elsevier, some Springer). Filter on `is_oa`, then resolve the PDF at
+  ingest and record the failure.
+
+## Abstract screening
+
+`--require-ai` keeps only records with an AI term in title or abstract. `--require-learners`
+additionally requires a learner, teacher or institution term, which is what makes a broad
+`topics.id` sweep readable. `--drop-low-impact` applies the significance bar and prints a reason
+per dropped record; it is biased against perception, case-study and survey work, so report those
+separately rather than letting the bar decide silently.
 
 Output is one JSON object per line, with `dedupe_key` (DOI, else OpenAlex id),
 `pdf_url`, `oa_status`, `venue`, `authors`, `arxiv_id` when the work is also on

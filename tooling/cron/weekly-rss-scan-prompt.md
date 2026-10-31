@@ -44,6 +44,39 @@ An entry is a maintainer decision to decline: do not ingest the paper and do not
 `AIED-BACKLOG.md`. Report every candidate skipped this way, with the matching entry, in the run
 summary.
 
+### 1b. Weekly OpenAlex topic sweep
+
+The RSS feeds cover the journals this wiki watches deliberately. The topic sweep covers open-access
+work in the outlets nobody watches, which is most of it. The cron job's `script`
+(`aied-weekly-topic-sweep.py`) already ran it and injected a candidate index into this prompt:
+
+```
+WEEKLY OPENALEX TOPIC SWEEP (OpenAlex `topics.id` filter, last 7 days)
+...
+----- candidate index -----
+```
+
+To run it by hand instead:
+
+```
+cd [YOUR_WIKI_PATH] && python3 tooling/scripts/cron_prefetch.py --cadence weekly --days 7 \
+    --out raw/prefetch/weekly-topic.json
+```
+
+It is a shortlist, not a worklist. Expect roughly 500 unique candidates out of about a thousand
+OpenAlex records, after a learners requirement, an AI term requirement and the significance bar.
+
+- Skim by title. Pull abstracts only for titles that are plainly AI-in-education; do not open
+  hundreds of records.
+- Do **not** bulk-append the list to `AIED-BACKLOG.md`. Pick at most 15 items worth acting on this
+  week, preferring systematic reviews, randomized or quasi-experimental studies, and work in a
+  discipline the wiki covers thinly over another single-site perception survey.
+- Apply the relevance filter and the full-text rule — no full text, no page — and backlog a
+  selected item only if you judged it worth ingesting and could not get its text.
+- Dedupe by DOI and title against `content/en/articles/` first: the daily journal watch has
+  probably already delivered some of these.
+- Report how many candidates the sweep returned, how many you selected, and how many you ingested.
+
 ### 2. Check for existing articles — CONTENT-based dedup (HARD)
 Read /tmp/rss-articles.json. For EVERY candidate, extract its DOI (and title) and search **the contents** of `content/en/articles/` AND `raw/papers/` for that DOI string and a normalized title match before treating it as new.
 

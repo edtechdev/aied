@@ -327,8 +327,15 @@ def cmd_search(a, key, mailto) -> int:
     sort = a.sort
     if sort.startswith("relevance_score") and not a.search:
         sort = "publication_date:desc"
+    # Paging: one page per query is what made the scan miss almost everything. A
+    # date-windowed filter over a fortnight matches thousands of works, so reading a
+    # single page of 25 saw well under a percent of the pool. --per-page is the page
+    # size (OpenAlex caps it at 200), --pages the number of cursor requests, and
+    # --max the total across pages (-1 for no cap).
+    per_page = a.per_page or (a.max if 0 < a.max <= 200 else 200)
+    per_page = max(1, min(per_page, 200))
+    want = a.max if a.max is not None else 20
     params = {
-        "per-page": str(min(a.max, 100)),
         "select": SELECT,
         "sort": sort,
     }
@@ -343,22 +350,55 @@ def cmd_search(a, key, mailto) -> int:
         params["filter"] = ",".join(filters)
     if mailto:
         params["mailto"] = mailto
-    url = f"{API}/works?" + urllib.parse.urlencode(params)
-    data, _ = fetch_json(url, key, mailto)
-    out = [shape(w) for w in data.get("results", [])]
-    print(json.dumps({"query": a.search, "sort": sort, "total_matching": data["meta"]["count"],
-                      "returned": len(out)}, ensure_ascii=False), file=sys.stderr)
+
+    raw: list[dict] = []
+    total = None
+    cursor = "*"
+    pages = max(1, a.pages)
+    requests = 0
+    for _ in range(pages):
+        params["per-page"] = str(per_page)
+        params["cursor"] = cursor
+        url = f"{API}/works?" + urllib.parse.urlencode(params)
+        data, _ = fetch_json(url, key, mailto)
+        requests += 1
+        if total is None:
+            total = data["meta"]["count"]
+        batch = data.get("results", [])
+        raw.extend(batch)
+        cursor = data.get("meta", {}).get("next_cursor")
+        if not batch or not cursor or (want > 0 and len(raw) >= want):
+            break
+        time.sleep(DEFAULT_SLEEP)
+    if want > 0:
+        raw = raw[:want]
+    out = [shape(w) for w in raw]
+    print(json.dumps({"query": a.search, "sort": sort, "total_matching": total,
+                      "returned": len(out), "requests": requests, "per_page": per_page},
+                     ensure_ascii=False), file=sys.stderr)
     if a.with_pdf_only:
         out = [r for r in out if r["pdf_url"]]
     dropped_ai = 0
     if a.require_ai:
-        kept = []
+        kept_ai = []
         for r in out:
             if AI_RE.search(f"{r.get('title') or ''} {r.get('abstract') or ''}"):
-                kept.append(r)
+                kept_ai.append(r)
             else:
                 dropped_ai += 1
-        out = kept
+        out = kept_ai
+    dropped_pop = 0
+    if a.require_learners:
+        # A topic filter is broad: it catches every work filed under the topic, not only
+        # the ones about learners. Requiring a learner, teacher or institution term in the
+        # text is a cheap precision cut that keeps the sweep's candidate list readable.
+        kept_pop = []
+        for r in out:
+            if LEARNER_POP_RE.search(f"{r.get('title') or ''} {r.get('abstract') or ''}"):
+                kept_pop.append(r)
+            else:
+                dropped_pop += 1
+        out = kept_pop
     dropped_low = 0
     screened = []
     for r in out:
@@ -374,8 +414,9 @@ def cmd_search(a, key, mailto) -> int:
             r["scope_reason"] = "; ".join(reasons)
         screened.append(r)
     out = screened
-    if a.require_ai or a.drop_low_impact:
+    if a.require_ai or a.drop_low_impact or a.require_learners:
         print(json.dumps({"dropped_no_ai_term": dropped_ai,
+                          "dropped_no_learner_term": dropped_pop,
                           "dropped_low_impact": dropped_low,
                           "kept": len(out)}, ensure_ascii=False), file=sys.stderr)
     return emit(out)
@@ -445,7 +486,15 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--search", help="free-text search across works")
     ap.add_argument("--doi", help="look up one work by DOI")
     ap.add_argument("--title", help="find candidate works for a title, scored by similarity")
-    ap.add_argument("--max", type=int, default=20, help="max results (1-100, default 20)")
+    ap.add_argument("--max", type=int, default=20,
+                    help="max results across all pages (default 20; -1 for no cap)")
+    ap.add_argument("--per-page", type=int, default=None,
+                    help="records per request (default: --max when it fits under 200, else "
+                         "200; OpenAlex caps this at 200)")
+    ap.add_argument("--pages", type=int, default=1,
+                    help="how many cursor pages to request (default 1). A date-windowed "
+                         "filter matches thousands of works, so a scan that reads one page "
+                         "sees only the first slice; raise this to page through the window")
     ap.add_argument("--since", help="from_publication_date, YYYY-MM-DD")
     ap.add_argument("--until", help="to_publication_date, YYYY-MM-DD")
     ap.add_argument("--type", help="work type, e.g. article or preprint")
@@ -465,6 +514,9 @@ def main(argv: list[str] | None = None) -> int:
                          "instead of the broad full-text search")
     ap.add_argument("--require-ai", action="store_true",
                     help="drop records with no AI/generative-AI term in title or abstract")
+    ap.add_argument("--require-learners", action="store_true",
+                    help="drop records with no learner, teacher or institution term in title "
+                         "or abstract; a cheap precision cut for broad topic filters")
     ap.add_argument("--drop-low-impact", action="store_true",
                     help="drop self-report-only and small/localized studies (the "
                          "knowledge base's significance bar); kept records carry a "

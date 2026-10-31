@@ -54,11 +54,28 @@ arXiv and the OSF archives carry preprints. A large share of AI-in-education res
 published gold or diamond open access in a journal and never appears there, so OpenAlex is a
 primary source rather than a fallback — and it reports where the free full text lives.
 
+Two shapes live in `scan.sources`, each marked with a `cadence`:
+
 ```bash
 cd <repo>
-python3 tooling/scripts/openalex_fetch.py --search "generative artificial intelligence in education" \
-    --edu-only --oa-only --since <WINDOW_START> --with-pdf-only --max 25
+# daily: journal watch over the outlets this wiki actually draws from
+python3 tooling/scripts/cron_prefetch.py --source "journal watch" --days 4
+
+# weekly: broad topics.id sweep with a learners requirement (Sunday journal job only)
+python3 tooling/scripts/cron_prefetch.py --cadence weekly --days 7
 ```
+
+The underlying client invocation is `--search "<one AI term>" --oa-only --require-ai` plus the
+source's `--filter` (`primary_location.source.id:...` for the watch, `topics.id:...` for the
+sweep), `--max 200 --pages 2` for the watch. Do not restore `--edu-only` or `--with-pdf-only`:
+the first throws away about half of education-technology work that OpenAlex files under
+information systems or the discipline, the second throws away the quarter of open-access records
+that carry `is_oa: true` but no `pdf_url`. Resolve the PDF at ingest instead.
+
+Measured 2026-10-31 against 25 articles found by hand in a 15-day window: the five phrase queries
+this replaced recovered 2 of 25; the journal watch recovers 19 of 25 at about 11 candidates a day
+and the topic sweep 17 of 25 at about 76 a day after screening. That is why one runs daily and the
+other weekly.
 
 Extract arXiv IDs from `arxiv_id` when the work is also on arXiv; dedupe on `dedupe_key` (the DOI)
 against `raw/papers/`, and compare titles as well, because Zenodo and repository records repeat one
