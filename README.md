@@ -111,7 +111,7 @@ Two things to know before editing:
 │   ├── components/    # JsonLd.astro, SourceButtons.astro, per-page components
 │   └── pages/         # index, journal, news, search, faq, resources, ai, rss, dynamic routes
 ├── public/            # llms*.txt, the committed EPUB/PDF editions, cover and marks
-├── tooling/           # the pipeline: gates, generators, builders, cron prompts
+├── tooling/           # the pipeline: gates, generators, builders, cron prompts and shims
 ├── skills/            # public-safe mirrors of the agent skills the pipeline follows
 ├── docs/              # json-ld.md, newsletters.md, and design notes
 ├── site.config.json   # single source of truth for site-wide metadata
@@ -160,6 +160,8 @@ python3 tooling/scripts/check-us-english.py --include-docs
 python3 tooling/scripts/sync-skills.py --check   # drift between skills/ and the agent's installed copies
 ```
 
+The scheduled jobs run thin shims under `<AGENT>/scripts/`, and tracked templates for them live in `tooling/cron/`: `aied-scan-prefetch.py` (the daily scan's candidate fetch) and `aied-weekly-topic-sweep.py` (the weekly OpenAlex topic sweep). To install one, copy it into the agent's scripts directory and either export `AIED_WIKI` or replace the `<WIKI>` placeholder with your clone path.
+
 The EPUB and PDF are built locally and committed:
 
 ```bash
@@ -176,9 +178,18 @@ Do not build the site and the offline editions at the same time. The builder wri
 
 Three paths add content, each committing through the same gate route:
 
-1. **Daily scan** — searches arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph) and EdArXiv for new AI-in-education papers.
-2. **Weekly journal scan** — ingests open-access articles from journal RSS feeds. The feed list and each journal's freshness window live in `wiki.config.yaml` under `journal_scan.feeds`; batch-publishing journals get a longer window so a quiet mailing does not blank them out.
+1. **Daily scan** — searches arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph) and EdArXiv for new AI-in-education papers, plus a daily OpenAlex **journal watch** over the outlets this corpus actually draws from.
+2. **Weekly journal scan** — ingests open-access articles from journal RSS feeds, plus a weekly OpenAlex **topic sweep** for the outlets nobody watches. The feed list and each journal's freshness window live in `wiki.config.yaml` under `journal_scan.feeds`; batch-publishing journals get a longer window so a quiet mailing does not blank them out.
 3. **Manual ingestion** — PDFs or preprint URLs can be sent at any time.
+
+The two OpenAlex shapes are configured in `wiki.config.yaml` → `scan.sources`, each with a `cadence` (`daily` or `weekly`) so a high-volume shape cannot run as part of the cheap pass:
+
+```bash
+python3 tooling/scripts/cron_prefetch.py --source "journal watch" --days 4   # daily
+python3 tooling/scripts/cron_prefetch.py --cadence weekly --days 7          # weekly sweep
+```
+
+The journal watch filters on `primary_location.source.id` (the source IDs were derived from the corpus, not guessed) and queries one AI term per request; the topic sweep filters on `topics.id` and requires a learner or teacher term to keep the list readable. Neither uses `--edu-only` or `--with-pdf-only`, because the first discards about half of education-technology work that OpenAlex files under information systems or the discipline, and the second discards the quarter of open-access records that carry `is_oa: true` with no `pdf_url`. Measured against a fortnight of hand-found articles, the shapes the scan runs now recover three quarters of them where the phrase queries they replaced recovered one in twelve. See [tooling/references/openalex.md](tooling/references/openalex.md) and the `scholarly-discovery-recall` skill.
 
 Each run filters for relevance, skips what is already ingested, creates article pages, enriches the concept pages the new work contributes to, rebuilds and deploys. It also records every candidate concept pairing in `concept-screen.yaml` as integrated or deliberately declined.
 
@@ -238,7 +249,7 @@ Everything needed to stand up an equivalent knowledge base for another domain is
 - **[tooling/cron/](tooling/cron/)** — the scheduled-job prompt templates
 - **[tooling/example/](tooling/example/)** — starter files
 
-The agent skills the pipeline follows are mirrored in [`skills/research/`](skills/research/). They cover inline linking, article and concept page quality, batch ingestion QA, source acquisition, page deletion, the EPUB/PDF export, site quality, page deepening, the Astro frontend, FAQ and resource pages, citation form, concept-page design, deduplication, backlog triage, bulk link editing, the three newsletter skills, AI-content provenance and public-repo PII hygiene.
+The agent skills the pipeline follows are mirrored in [`skills/research/`](skills/research/). They cover inline linking, article and concept page quality, batch ingestion QA, discovery recall, source acquisition, page deletion, the EPUB/PDF export, site quality, page deepening, the Astro frontend, FAQ and resource pages, citation form, concept-page design, deduplication, backlog triage, bulk link editing, the three newsletter skills, RSS and feed authoring, AI-content provenance and public-repo PII hygiene. `scholarly-discovery-recall` is the one to read when the scan is missing papers the maintainer finds by hand: it carries the measurement procedure and the OpenAlex API traps, and `tooling/references/openalex.md` holds the invocations.
 
 Those mirrors are scrubbed, public-safe copies of the agent's own installed skills: the repo copy uses `<WIKI>` for the repository root and `<AGENT>` for the skill store, and names no person and no agent product. Everything else is identical. `python3 tooling/scripts/sync-skills.py --check` normalizes those sanctioned differences and reports only real content drift; `--to-repo` refreshes a mirror with the redaction applied, and `--to-installed` copies the other way. Which side is authoritative depends on the file: a skill's `SKILL.md` is behavior, so the installed copy wins, while `tooling/scripts/` is the working copy the pipeline runs, so the repo wins.
 

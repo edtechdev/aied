@@ -15,8 +15,12 @@ Moved out of SKILL.md (2026-09-19) to keep the main skill under its size limit.
 - `gen-pd-mark.mjs` — Rasterizes the CC0 public-domain mark `public/public-domain-mark.png` from `src/assets/cc-zero.svg` (sharp)
 - `gen-og-concept-map.mjs` — Renders the concept-map images (white/dark variants) used in the site OG image, EPUB/PDF cover, and EPUB
 - `scripts/detect-readfile-corruption.py` — Detect and repair wiki pages corrupted by read_file line-number prefixes
-- `cron/daily-scan-prompt.md` — Daily arXiv/EdArXiv/PsyArXiv scan cron prompt
-- `cron/weekly-rss-scan-prompt.md` — Weekly journal RSS ingestion cron prompt (open-access check included)
+- `cron/daily-scan-prompt.md` — Daily scan cron prompt (arXiv, EdArXiv, PsyArXiv, and the OpenAlex journal watch)
+- `cron/weekly-rss-scan-prompt.md` — Weekly journal RSS ingestion cron prompt (open-access check included, plus the weekly OpenAlex topic sweep)
+- `cron/aied-scan-prefetch.py` — Template of the daily job's scheduler shim: runs `cron_prefetch.py` before the agent's turn and prints the candidate index. Install under the agent's scripts dir with `<WIKI>` substituted or `AIED_WIKI` exported.
+- `cron/aied-weekly-topic-sweep.py` — Template of the weekly job's scheduler shim: runs the `cadence: weekly` sources only and prefixes the candidate index with the shortlist rules.
+- `references/openalex.md` — OpenAlex client: key handling, paging (`--per-page`/`--pages`/`--max`), the journal-watch and topic-sweep filter shapes, and the two filters (`--edu-only`, `--with-pdf-only`) that look like precision and cost recall
+- `references/audit-tool-invocations.md` — Every checker's argument convention after a batch lands, the comma-joined-slug silent pass, and what each failure actually means
 - `references/psyarxiv-subject-search.md` — SHARE/Trove endpoint for PsyArXiv-by-subject scans (the OSF API cannot combine `filter[subjects]` with anything)
 - `references/web-search-fallback.md` — Proven web_search query patterns for arXiv discovery when API is rate-limited
 - `references/arxiv-listing-extraction.md` — Deterministic arXiv ID extraction from listing pages to bypass API blocks
