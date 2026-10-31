@@ -2,7 +2,7 @@
 connected_resources: [openmaic]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-10-31T14:04:31-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -52,6 +52,7 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 - **Teacher-AI co-designed simulations.** Interactive simulations that support both conceptual learning and competency development are scarce in hands-on domains, and GenAI output often lacks pedagogical validity. In [[stem-education|drone-based STEM education]], teacher-AI co-designed simulations embedded in an otherwise identical hands-on curriculum were evaluated with a quasi-experimental pretest–posttest design across 30 secondary students, examining whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]] ([[simulation-assisted-drone-learning-stem-2026]]). Separately, [[agentic-ai|multi-agent]] tutoring [[benchmark|benchmarks]] such as ASTRA use simulated socially intelligent agents to study participation-balanced collaboration in [[cs-education|introductory programming]] ([[astra-multi-agent-tutoring-benchmark-2026]]).
 
 - **Learner control in simulation is enacted, not granted.** A 2 × 2 experiment in a flocking simulation ([[learner-agency-ai-simulation-2026|Su, Nair and Nagashima 2026]]) gave some students parameter sliders, some an optional conversational agent and some both; every condition improved, but neither affordance produced a reliable difference once prior knowledge was controlled (p = .849 and p = .108). What predicted [[learning-gains|gains]] was where and how long learners manipulated parameters: sustained slider use in the most conceptually complex lesson was positively associated with gains, and the same behavior in the easier lesson negatively. For simulation builders the implication is that offering controls is not the intervention — helping learners decide what to change, and register what changed, is.
+- **Agency is a designed layer, not a property of the technology.** [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et al. (2026)]] sort simulations by the practice represented, the simulated situation, how agency and adaptation are distributed, and how the learning is orchestrated, rather than by immersion level.
 - **A digital twin is a simulation with a hardware bill, and the bill shapes who can take part.** A [[meta-analysis-systematic-review|systematic review]] of 11 studies of digital twins in [[engineering-education|engineering]] and STEM higher education found that every implementation delivered a working prototype with real-time synchronization, yet only three reported statistically significant [[learning-gains|learning gains]]. Physical rigs capped access at 1–3 concurrent students in five studies, and reduced social interaction was the most-cited pedagogical challenge, in six ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
 - **Agent-based simulation can model a metacognition theory as a testable system.** An agent-based digital-twin-inspired framework combining the five-level AMERT model with a NetLogo simulation let researchers vary learner archetypes and task conditions and observe metacognitive trajectories, though the authors stress the output is hypothesis generation, not evidence about real learners ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). Simulation becomes a virtual laboratory for a theory that is otherwise hard to observe.
 
@@ -102,3 +103,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Digital twins in STEM education: prototypes all worked, learning gains mostly did not
 
 - [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load
+- [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating the practice represented, the simulated situation, agency and adaptation, and orchestration

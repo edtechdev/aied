@@ -1,7 +1,7 @@
 ---
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-31T10:40:00-04:00"
+updated: "2026-10-31T14:05:47-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-31"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
@@ -63,6 +67,12 @@ The implication is direct. The same tool is a bypass at one rung and a [[scaffol
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec and Horvat]] analyzed the planned sequence of 29,064 teaching and learning activities across 554 courses and found a visible design grammar. Acquisition-type activities are the most common entry point and the largest single type, above 20%. Learning type tracks the intended Bloom level, with Acquisition falling from about 50% at level 1 to about 20% at level 6 and Production rising above 20% at levels 5 and 6. The strongest transition in the data is Assessment to Discussion, at 0.332.
 
 Two lessons follow for AI design. Put the tool where the sequence intends an activity type. And because feedback clustered with [[collaborative-learning|collaboration]], [[group-work|group work]] and [[teacher-role|teacher]] presence, peer and synchronous structures are where AI support should plug in, not where it should substitute.
+
+## Design the clock, not just the sequence
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] treats time as a designed scaffold rather than a student trait: a self-paced course carries a weekly allowance of about 100 minutes with a target near 20 minutes a day, time-aware reminders, a progress dashboard, and a short end-of-subchapter check of 3 to 12 questions. The baseline that design answers is stark, with nearly 25 percent of over 600 learners starting only in the final week and 95 percent of that group failing.
+
+Read it as a design prompt rather than a proven effect. The paper compares a later course against an earlier one instead of running a controlled trial, so the improvement cannot be separated from the change of cohort and subject, and reminders strong enough to move study timing are also a [[privacy|privacy]] question you have to answer in the syllabus.
 
 ## Decide what to withhold, and when to restore it
 

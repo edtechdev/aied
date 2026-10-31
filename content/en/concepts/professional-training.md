@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T16:44:25-04:00"
+updated: "2026-10-31T14:04:31-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -32,6 +32,7 @@ reviewed_by: [editor]
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] add a coaching-policy lesson: fading assistance against the learner's estimated competence cut simulator lap time 27.9% (p = 0.005) and failures by 3.52 per lap, whereas rule-based fading on a fixed schedule produced no reliable lap-time change.
 - **A voluntary, text-only rehearsal moved nothing.** Of 201 first-year medical students offered a GPT-4o patient before their first standardized-patient class, 49 used it, and nervousness, preparedness, self-efficacy and self-perceived competence did not differ from the 84 controls; 6 of 19 non-users who gave a reason cited technical or login problems ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] [[research-methods-aied|research]] connect professional training to continuous education.
+- **Agents built to deliberate rather than answer.** [[cowhitt-deliberative-instructional-agents-2026|Cowhitt and Gibson (2026)]] design instructional agents for teacher professional learning that withhold the answer and press the teacher to justify a decision, drawn from 33 deliberation codes across 8 clusters.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/[[ai-literacy|AI literacy]], cyber-physical fluency, [[human-ai-collaboration|human-machine collaboration]], data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
 - **Instructor and employer priorities diverge.** A survey of 500 US instructors and an employer panel agreed on the importance of only one of 26 AI skills — setting realistic expectations for AI-augmented work — and only three of the 26 were taught by half or more instructors ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
@@ -114,3 +115,4 @@ Professional training differs from academic education in its focus on applied sk
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
 
 - [[jongkind-genai-patient-medical-communication-2026]] — Use of a GenAI patient for medical communication training for undergraduate medical students: a quasi-experimental study
+- [[cowhitt-deliberative-instructional-agents-2026]] — Deliberative instructional agents for teacher professional learning, with responsibility conditions for AI-mediated PD

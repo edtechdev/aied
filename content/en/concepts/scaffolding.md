@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-31T14:04:31-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -49,6 +49,7 @@ reviewed_by: [editor]
 
 - **[[automated-assessment|Automated scoring]] as a deliberate scaffold:** [[chen-automated-scoring-interpreting-self-regulated-learning-2026|Chen and Liu (2026)]] treated an automated interpreter-scoring system as [[formative-assessment|formative]] scaffolding rather than as a measurement instrument, in a 14-week comparison with 46 English Translation and Interpreting sophomores. The scaffold converted into a gain only where the deficit it targeted was decomposable, reliably scored and sensitively scaled: linguistic accuracy and logical coherence rose, while information fidelity and delivery fluency stayed flat, fidelity being the dimension on which automated and human ratings disagreed most (r = 0.12). The cycle it reinforced was also partial. Only practice-phase execution and monitoring correlated with score gains (r = 0.42), while pre-learning planning sat near the scale midpoint (M = 3.01) and students set goals from the previous score rather than from the task ahead. A scaffold can be well placed inside the performance phase and still leave the planning that would make it unnecessary untouched.
 - **Closed-loop scaffolding on the learner's current boundary:** [[zhu-adaptive-teaching-assistance-genai-big-data-2026|Zhu, Luo and Li (2026)]] built a music-education loop in which [[multimodal]] error detection over performance audio and score becomes the reward that steers [[reinforcement-learning|reinforcement]]-generated practice tracks, so difficulty follows the learner's current boundary instead of a fixed syllabus: generated practice trajectories matched learner skill profiles at a peak cosine similarity of 0.962, and the Group x Time interaction favored the scaffolded group in a 12-week quasi-experiment with 120 undergraduates (beta = 0.52, 95% CI [0.31, 0.73]). Two limits follow for automated scaffolding. Detection is triage rather than judgment, since rhythm error precision of 89.7% means roughly one flagged error in ten is a false alarm, and blind expert review rated support for musical expression the system's weakest area, leaving interpretation to the teacher.
+- **Pacing is scaffolded too.** [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] pairs content scaffolding with a temporal layer of weekly time allowances, progress dashboards and end-of-section checks; without pacing, nearly 25 percent of over 600 learners began in the final week and 95 percent of them failed.
 
 ## The ZPD connection
 
@@ -144,3 +145,4 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Training the learner as scaffolding for GenAI use in STEM problem solving (Huang et al. 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Content and temporal scaffolding layers in a self-paced course, with late-start and failure rates by study timing
