@@ -15,7 +15,7 @@ A free, linked knowledge base on artificial intelligence in education: research,
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them.
 - **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves.
 - **News** — a weekly update summarizing the most significant additions. [RSS](https://edtechdev.github.io/aied/news/rss.xml).
-- **One feed for everything** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries every page in the knowledge base, newest first, with its type as the feed category and its summary rather than its full text, so a subscriber misses nothing.
+- **One feed for everything** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text.
 - Every page links to related pages with `[[wikilinks]]`, so a topic can be followed across the whole knowledge base.
 
 ### Use it with your own AI assistant

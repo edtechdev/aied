@@ -183,18 +183,18 @@ type FeedEntry = {
 };
 
 /**
- * The feed carries every page in the corpus, newest first, with no per-type window.
+ * The feed carries the newest MAX_ITEMS pages of any type, newest first.
  *
  * The per-type windows this replaced guaranteed a type surfaced, but they also made the
  * feed miss articles: ingest runs at roughly 130 articles a week, so a 30-item article
  * window covered less than two days and a reader polling weekly silently lost most of a
  * week's additions. A subscriber to a knowledge base wants everything that appeared.
  *
- * MAX_ITEMS is an emergency valve, not a policy: at ~730 bytes per item a corpus of 5,000
- * pages is a 3.6 MB feed, which is near the limit most readers will parse happily. Nothing
- * older than the newest 5,000 pages has a subscriber, so truncation there costs nothing.
+ * 200 items is the owner's chosen ceiling: at roughly 730 bytes per item it is a 150 KB
+ * feed, and at the current rate of about 130 articles a week it reaches back eleven days,
+ * so a weekly reader loses nothing and a monthly reader picks up most of the month.
  */
-const MAX_ITEMS = 5000;
+const MAX_ITEMS = 200;
 
 export async function GET() {
   const [articles, concepts, faqs, resources, newsletters] = await Promise.all([
