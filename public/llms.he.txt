@@ -233,10 +233,13 @@
 - [כיצד AI משפיע על חרדת הסטודנטים ורווחתם, ומה אפשר לעשות?](https://edtechdev.github.io/aied/faqs/ai-anxiety-wellbeing/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד בינה מלאכותית יכולה לתמוך בתלמידים עם מוגבלות ונוירו-מגוונים בקורס שלי?](https://edtechdev.github.io/aied/faqs/ai-disabled-neurodivergent-learners/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד בינה מלאכותית יכולה לעזור לי לתת משוב טוב יותר בקנה מידה?](https://edtechdev.github.io/aied/faqs/ai-feedback-at-scale/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [האם אני יכול להשתמש בבינה מלאכותית כדי לתת ציון לעבודת סטודנטים בצורה הוגנת ואמינה?](https://edtechdev.github.io/aied/faqs/ai-grading-fairness-reliability/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד צריכים הורים ומורים לגשת לבינה מלאכותית עם ילדים מתחת לגיל 13?](https://edtechdev.github.io/aied/faqs/ai-guidance-children-under-13/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [מה הן הראיות על התערבויות אוריינות בינה מלאכותית בהשכלה גבוהה?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [איך בינה מלאכותית יכולה לתמוך בלומדים רב-לשוניים בלי לשפוט את הידע שלהם שלא כהלכה ובלי למחוק את הקול שלהם?](https://edtechdev.github.io/aied/faqs/ai-multilingual-learners/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד בינה מלאכותית יכולה לחסוך לי זמן כמרצה/כמרצה?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד לעצב ולהנחות קורסים מקוונים אסינכרוניים כאשר בינה מלאכותית יכולה לבצע את העבודה?](https://edtechdev.github.io/aied/faqs/asynchronous-online-courses-ai/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [איך אני בודק אם שאלות חידון ובחינה שנוצרו בידי בינה מלאכותית באמת טובות?](https://edtechdev.github.io/aied/faqs/check-ai-generated-question-quality/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד נדע שבינה מלאכותית חינוכית פועלת נכון, ולא רק מקבלת ציון טוב?](https://edtechdev.github.io/aied/faqs/checking-whether-educational-ai-works/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד אכתוב מדיניות AI לקורס ואתקשר אותה לסטודנטים?](https://edtechdev.github.io/aied/faqs/course-ai-policy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד עליכם לעצב שילוב של בינה מלאכותית בחוויית הלמידה?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -254,6 +257,7 @@
 - [כיצד נכתוב ונקים מדיניות AI מוסדית?](https://edtechdev.github.io/aied/faqs/institutional-ai-policy/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד נוכל להפוך את הבינה המלאכותית לטובה יותר בתמיכה בלמידה בתחום שלנו?](https://edtechdev.github.io/aied/faqs/making-ai-better-at-supporting-learning/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד לגרום לתלמיד מדומה להתנהג כמו לומד אמיתי?](https://edtechdev.github.io/aied/faqs/making-simulated-students-behave-like-learners/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מה סטודנטים צריכים ללמוד לקריירות שבהן בינה מלאכותית היא דבר שבשגרה?](https://edtechdev.github.io/aied/faqs/prepare-students-ai-careers/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד אתכנן מחדש הערכה כך שציון עדיין יגיד לי משהו הגני על מה שהסטודנט יודע או יכול לעשות?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד אוכל לצמצם רמאות בבינה מלאכותית בקורס שלי?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [איך מונעים מתלמידים להסתמך יתר על המדה על בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/reducing-over-reliance/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
@@ -264,6 +268,7 @@
 - [מהם 10 הממצאים המובילים ממחקר בינה מלאכותית בחינוך שעל מורים לדעת?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד נאמן מורה-AI להנחות סטודנטים במקום לענות להם?](https://edtechdev.github.io/aied/faqs/training-ai-tutors-to-guide-rather-than-answer/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [כיצד אלמד את הסטודנטים לאמת תוצרי בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/verify-ai-output/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
+- [מה באמת פירושה של למידה מותאמת אישית, ומתי היא עוזרת?](https://edtechdev.github.io/aied/faqs/what-personalized-learning-means/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 - [מהן שיטות עבודה מומלצות להוראת כתיבה בהקשר של בינה מלאכותית?](https://edtechdev.github.io/aied/faqs/writing-instruction-ai-best-practices/): *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*
 
 ## Articles

@@ -174,19 +174,19 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "he": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.epub",
-      "bytes": 2767816
+      "bytes": 3137241
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.pdf",
-      "bytes": 6559641
+      "bytes": 7404904
     },
     "llms": {
       "url": "/aied/llms.he.txt",
-      "bytes": 58172
+      "bytes": 59811
     },
     "llmsConcepts": {
       "url": "/aied/llms.he-concepts.txt",
-      "bytes": 4650828
+      "bytes": 5313032
     }
   },
   "hi": {
