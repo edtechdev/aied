@@ -1,7 +1,7 @@
 ---
 title: "Nursing educators' perspectives on the integration of artificial intelligence into academic settings"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-10-31T14:20:00-04:00"
+updated: "2026-10-31T14:48:08-04:00"
 type: article
 published: "2025"
 source_url: "https://doi.org/10.1177/23779608251342931"
@@ -50,7 +50,7 @@ That choice of framework shapes what the study can say. [[tpack]] treats effecti
 
 The readiness theme is usually summarized as educators being unprepared, but the detail is more useful than that. What separates the confident from the hesitant in this sample is exposure, not seniority: attendance at a conference or training, prior experimentation, and colleagues who model use. The age pattern the authors report runs in the opposite direction from the usual assumption about digital natives and institutional memory, with senior educators skeptical and newer faculty more open.
 
-The policy consequence is that a single training event addresses the wrong unit of analysis. The gap participants describe is between colleagues inside the same department, and the remedy they ask for is practice rather than instruction: workshops where they can use a tool, sessions that teach use, professional development as a priority rather than an afterthought. That is a request for [[professional-training]] with conditions attached, and it is also a request for someone to decide who pays for it and when it happens.
+The policy consequence is that a single training event addresses the wrong unit of analysis. The gap participants describe is between colleagues inside the same department, and the remedy they ask for is practice rather than instruction: workshops where they can use a tool, sessions that teach use, professional development as a priority rather than an afterthought. That is a request for [[professional-training]] with conditions attached, and it is also a request for someone to decide who pays for it and when it happens. A published letter responding to this study argues the gap it reports is institutional rather than individual, and proposes an implementation-science readiness checklist in place of a competency frame ([[shankar-institutional-ecosystems-ai-nursing-2026]]).
 
 ## Ethics arrives as a governance question
 

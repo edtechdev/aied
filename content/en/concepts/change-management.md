@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-10-31T14:48:08-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -28,6 +28,8 @@ connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 The empirical literature consistently shows that effective AI change management is a socio-technical, not merely technical, endeavor. The [[institutional-change-framework-ai|institutional change framework]] adapts classic change models to generative AI, arguing that institutions "cannot wait for best practices, but cannot responsibly scale unjustified innovations," and calling for humble local inquiry, reform organized around pedagogical approaches rather than ephemeral tools, and students engaged as partners in reform. This framing resonates with the [[leveraging-complex-systems-leading-for-transformative-change|complex-systems leadership]] argument that education is a complex adaptive system where leaders must judge when to reinforce administrative stability and when to enable "adaptive space" — diffusing high-risk innovations like AI through trusted social networks (complex contagions) rather than linear knowledge flow.
 
 A recurring obstacle to change is the gap between top-down policy intent and classroom reality. The [[genai-policies-higher-ed-computing|comparative policy analysis]] found that while 63% of U.S. R1 university policies encourage GenAI use, half of computing-course syllabi outright prohibit it, leaving instructors to improvise inconsistent local rules. Similarly, the [[ai-uk-higher-education-policy-2026|UK higher-education policy review]] documents a divide between research-intensive and teaching-led institutions, with national guidance criticized for lacking specificity and enforcement power, while the [[institutional-governance-ai-universities|institutional governance analysis]] shows university-wide policies emphasize data security and risk mitigation while [[k-12|school]]-level policies (when they exist) focus on pedagogy — a structural misalignment that falls short of accreditation expectations for unified integration of [[curriculum-design|curriculum]], policy, assessment, and infrastructure.
+
+A published response to a nursing study makes the unit of analysis explicit: [[shankar-institutional-ecosystems-ai-nursing-2026|Shankar (2026)]] argues that a framework like [[tpack]] captures individual educators and leaves the institution out of the model. Read through implementation science, adoption depends on four levels at once, the intervention, the inner organizational setting, the outer policy environment, and the individuals involved. The concrete proposal is to operationalize the Consolidated Framework for Implementation Research as a readiness checklist covering leadership engagement, available infrastructure and faculty capacity before any tool is adopted, which moves the question from who needs training to whether the organization is ready to deploy.
 
 ## Change management in AI education research
 
