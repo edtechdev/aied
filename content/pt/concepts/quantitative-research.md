@@ -1,14 +1,14 @@
 ---
 title: Pesquisa quantitativa
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -16,9 +16,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Pesquisa quantitativa** — a família de métodos empíricos que coleta e analisa dados *numéricos* para descrever padrões, testar relações e estimar efeitos causais. Na [[ai-education|IA na educação]], os métodos quantitativos quantificam se e como as ferramentas de IA afetam [[learning-gains|resultados de aprendizagem]], [[student-engagement|engajamento]], [[motivation|motivação]] e [[self-efficacy|autoeficácia]], e modelam os mecanismos psicológicos e comportamentais do uso da IA. Eles fornecem a amplitude, a precisão e o poder de inferência causal que os [[qualitative-research|métodos qualitativos]] trocam por profundidade e contexto.
 
@@ -42,6 +46,9 @@ Pesquisas transversais medem atitudes, percepções, motivação, [[self-efficac
 
 - **Pontos fortes:** amostras grandes; cobertura ampla e de baixo custo; testa modelos mediacionais complexos; viável para atitudes difíceis de observar.
 - **Limitações:** dados transversais não podem estabelecer causação; viés de autorrelato; amostragem por conveniência limita a generalizabilidade; mediadores inferidos a partir de covariância, não de manipulação. Ver [[self-report-measures]] para o tratamento do lado do instrumento desses limites.
+- **Um modelo de mediação saturado não consegue testar sua própria ordenação.** Um levantamento de uma única onda com 1.020 estudantes de enfermagem dividiu um efeito total de 1,36 em um direto de 0,92 e um indireto de 0,44 via aprendizagem autorregulada, 32,35% do total, com um modelo que tem tantos parâmetros livres quanto covariâncias observadas e, portanto, reproduz os dados por construção ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
+
+**Um efeito indireto total próximo de zero pode esconder dois caminhos vivos.** Em uma onda de autorrelato com 568 estudantes de design, a associação indireta correu 0,0929 pela focalização na promoção e −0,0884 pela focalização na prevenção, somando 0,0045, enquanto o caminho direto carregou 98,7% do total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]])
 
 ### Pesquisa experimental e quase-experimental
 Experimentos atribuem aleatoriamente estudantes a condições (ex., tutor de IA vs. tutor humano, ou com |scaffolding de IA vs. sem assistência) para estimar efeitos causais sobre os resultados. **Ensaios controlados randomizados ([[rct|RCTs]])** são o padrão-ouro para validade interna. [[access-not-enough-ai-tutoring-2026|Um estudo de campo randomizado de apoio humano mais tutoria por IA]] e [[genai-can-harm-teaching-rct-2026|um RCT sobre IA generativa no ensino]] usam a atribuição para isolar efeitos causais. Desenhos **quase-experimentais** (pré/pós, grupos pareados sem randomização) são mais viáveis em salas de aula intactas, mas mais fracos em alegações causais.
@@ -49,6 +56,7 @@ Experimentos atribuem aleatoriamente estudantes a condições (ex., tutor de IA 
 
 - **Pontos fortes:** inferência causal mais forte; mensuração limpa dos resultados; sustenta estimativa de tamanho de efeito e alegações de eficácia.
 - **Limitações:** custoso e lento; condições artificiais reduzem a validade ecológica; ferramentas de IA que mudam rápido datam os experimentes rapidamente; amostras pequenas têm pouco poder para detectar efeitos; restrições éticas de reter ferramentas úteis.
+- **Um ensaio randomizado de acesso por grupo precisa de uma verificação de adesão.** Com cerca de 15% dos estudantes nas turmas tratadas chegando a usar o tutor, a estimativa de intenção de tratar do estudo reflete o efeito de *introduzir* a ferramenta — incluindo a permissão e a substituição que ela trouxe —, e não o efeito isolado de sessões individuais ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 
 ### Pesquisa longitudinal
 Desenhos longitudinais acompanham os mesmos estudantes ao longo do tempo, capturando mudança, crescimento e aprendizagem durável que a mensuração em um único ponto deixa passar. O [[ai-lms-middle-school-longitudinal|estudo longitudinal com LMS]] acompanha estudantes ao longo de um ano letivo. Desenhos longitudinais são essenciais para distinguir desempenho inflado pela IA de [[genai-performance-vs-learning|aprendizagem durável]].
@@ -57,6 +65,8 @@ Comparações entre conjuntos de dados precisam de um ponto de trabalho fixo: um
 
 ### Quantificação computacional e psicométrica
 Os métodos quantitativos também incluem a mensuração direta de construtos por instrumentos — o domínio da [[educational-measurement|mensuração educacional]] e da [[item-response-theory|teoria de resposta ao item]]. O [[jin-glat-genai-literacy-assessment|GLAT]] da base de conhecimento é um instrumento quantitativo de 20 itens validado com TRI; [[educational-measurement|instrumentos de mensuração]] de [[ai-literacy|letramento em IA]], aceitação e autoeficácia fornecem as escalas validadas das quais a pesquisa por levantamento e experimental dependem.
+
+A análise bibliométrica é uma outra família quantitativa: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] mapeiam 1.403 publicações de [[medical-education|educação médica]] por redes de copocorrência de país, instituição e palavra-chave, lendo a forma de uma literatura em vez de avaliar seus estudos — o que torna sua conclusão, a de que a pesquisa sobre [[governance|governança]] não acompanhou o ritmo dos testes de capacidade, uma afirmação sobre o campo, e não sobre a aprendizagem.
 
 ## Como a pesquisa quantitativa aparece na base de conhecimento
 
@@ -76,6 +86,12 @@ Os métodos quantitativos também incluem a mensuração direta de construtos po
 - **Limitações:** captura o que é mensurável, frequentemente deixando passar processo, significado e contexto (ver [[qualitative-research]]); viés de autorrelato; instrumentos podem medir o construto errado (ver [[educational-measurement|questões de mensuração]]); correlação sem causação; pode ser artificial e lento em relação à mudança da IA.
 
 Métodos quantitativos e [[qualitative-research|qualitativos]] são complementos — o trabalho quantitativo fornece amplitude e poder causal, o trabalho qualitativo fornece profundidade e significado. [[mixed-methods-research|Desenhos de métodos mistos]] os combinam. Ver [[research-methods-aied]] para a comparação completa de métodos e os contrastes entre desenhos experimentais, por levantamento, qualitativos e outros.
+
+## Ideias equivocadas comuns
+
+- **"Uma estimativa de intenção de tratar descreve o que a ferramenta faz."** Em um ensaio randomizado de acesso por grupo em que **cerca de 15% dos estudantes nas turmas tratadas chegaram a usar o tutor**, a estimativa de ITT reflete **o efeito de introduzir** a ferramenta, e não o efeito de usá-la. A baixa adesão faz de um número de ITT uma afirmação sobre implementação, e relatá-lo como efeito da ferramenta superestima o que foi medido.
+- **"O desempenho na tarefa é o desfecho."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomiza **120 estudantes** para estudo assistido por IA ou tradicional e mede **retenção** — o desenho que separa desempenho imediato de aprendizagem durável. Um estudo que para na tarefa mediu a quantidade mais fácil.
+- **"Comparações entre conjuntos de dados são diretas."** Uma verificação estrutural de dados educacionais sintéticos constatou que **analisar cada conjunto de dados em seu próprio limiar invertia um contraste que se mantinha num ponto de trabalho compartilhado**. O sinal da comparação dependia de uma escolha analítica, que é o tipo de fragilidade que um ponto de trabalho pré-registrado existe para evitar.
 
 ## Conceitos conectados
 
@@ -102,3 +118,7 @@ Métodos quantitativos e [[qualitative-research|qualitativos]] são complementos
 - [[ai-lms-middle-school-longitudinal]] — Um estudo longitudinal de LMS com IA integrada
 - [[adaptive-pretesting-retention]] — Pré-teste adaptativo e retenção
 - [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural de dados educacionais sintéticos
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Um ensaio randomizado de acesso por grupo precisa de uma verificação de adesão
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — A análise bibliométrica é uma outra família quantitativa: Sriram et al.
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Um modelo de mediação saturado não consegue testar sua própria ordenação
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Um efeito indireto total próximo de zero pode esconder dois caminhos vivos

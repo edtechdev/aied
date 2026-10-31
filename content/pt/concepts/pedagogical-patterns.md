@@ -1,7 +1,7 @@
 ---
 title: Padrões pedagógicos
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -177,6 +181,12 @@ Os padrões abaixo vêm de um guia para docentes fornecido pelo mantenedor da ba
 - **Plano + tentativa + adaptação** (sucesso na faculdade). Substitua uma reflexão genérica sobre gestão do tempo por um plano de estudo de uma semana, um registro breve de tê-lo tentado e uma revisão ligada ao que aconteceu; a IA pode sugerir opções de agendamento depois que o estudante identificar as restrições.
 
 As próprias ressalvas do guia se aplicam: vídeo gravado, reflexões e registros podem eles mesmos ser assistidos por IA, de modo que em cursos totalmente assíncronos uma gravação não deveria ser tratada como verificação de maestria independente. Dois de seus enquadramentos — gêmeas de avaliação e avaliação oral assíncrona como dissuasor de trapaça — permanecem frameworks aguardando validação; os estudos de avaliação oral assíncrona citados acima mediram notas por formato e não mediram a trapaça em absoluto.
+
+## Ideias equivocadas comuns
+
+- **"Qualquer prática fornecida por IA é prática."** Uma condição de recuperação espaçada adaptativa produziu **as maiores notas no pós-teste (M = 78,19)** e **superou significativamente o estudo com IA dirigido pelo estudante (M = 67,28)**. O arranjo dirigido pelo estudante ficou abaixo de um arranjo estruturado, de modo que autonomia não é automaticamente o melhor desenho.
+- **"Estudar com um chatbot é melhor do que estudar sem."** O **caso de contraste é decisivo**: em um [[rct|ensaio randomizado]] com **120 estudantes**, o grupo que estudou **com** ChatGPT irrestrito reteve **menos em um teste surpresa**. A ferramenta foi prejudicial à retenção no arranjo testado.
+- **"A evidência do padrão é um grande ensaio agrupado."** O **apoio mais forte é indireto** e vem de um **experimento randomizado intrassujeitos com 26 estudantes**, no qual o [[scaffolding]] de resposta imediata teve desempenho significativamente diferente. A evidência sustenta o padrão e segue limitada em escala, e a página deve ser lida assim.
 
 ## Conceitos conectados
 

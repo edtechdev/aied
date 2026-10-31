@@ -1,7 +1,7 @@
 ---
 title: Investigação educacional assistida por IA
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-29T04:27:44-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,11 +22,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 
 
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Síntese:** a investigação educacional assistida por IA é o uso da IA como instrumento do próprio trabalho acadêmico do campo — buscar e recuperar literatura, triar registros para revisões, codificar dados qualitativos, analisar dados, redigir e editar manuscritos, e a reflexão que pergunta o que essas ferramentas fazem ao conhecimento produzido. Ela é distinta da pesquisa *sobre* a IA na educação: os desenhos usados para estudar se a IA ajuda os estudantes pertencem aos [[research-methods-aied|métodos de pesquisa]], a avaliação dos sistemas de IA pertence à [[ai-ed-evaluation|avaliação de IA na educação]], e a leitura de um único estudo de AIED pertence a [[interpreting-and-applying-aied-research|como ler um estudo]]. Esta página cobre o fluxo de trabalho do próprio pesquisador e a investigação do praticante-pesquisador — a scholarship of teaching and learning e a pesquisa de sala de aula — e as apostas epistêmicas quando a automação entra em qualquer um deles. Sua evidência é escassa e recente: uma proposta de framework, um relato reflexivo de uma equipe de revisão, um pequeno estudo de grupos focais, dois estudos bibliométricos, um relato de workshop e estudos de caso de um único investigador. Ela descreve uma direção de viagem, e não uma prática estabelecida, e a vertente da pesquisa do praticante é a mais escassa de todas.
 
@@ -154,6 +158,12 @@ O que pode ser transportado é uma disposição, e não um resultado: nomeie o p
 - **Uma lacuna de relato, não uma auditoria da prática.** O PRISMA-LLM lê o silêncio no nível do artigo; um fluxo de trabalho sem avaliação em seu artigo ainda pode estar validado em outro lugar.
 - **A pesquisa do praticante está sub-representada.** Apenas um punhado de páginas aqui menciona SoTL ou pesquisa de sala de aula, de modo que o corpus não consegue fundamentar afirmações sobre professores que estudam a própria prática.
 - **Um alvo móvel.** As ferramentas melhoram mais rápido do que a publicação, de modo que um achado sobre um fluxo de trabalho de 2025 descreve uma geração de sistemas que talvez já não exista nessa forma.
+
+## Ideias equivocadas comuns
+
+- **"Artigos sobre LLM e sobre software são avaliados igualmente bem."** Desde 2023, **38,0% dos artigos sobre software e produto não relataram nenhuma avaliação, contra 9,3% dos artigos sobre LLM**. A lacuna é grande e corre contra a suposição de que ferramentas mais novas são testadas com menos rigor.
+- **"Estratificar por tarefa resolve a lacuna."** **A lacuna sobrevive à estratificação**: em triagem e seleção, os artigos sobre software somaram em média **3,2 itens substantivos de avaliação, com 39,3% não relatando nenhum**, enquanto os artigos sobre LLM somaram mais. A diferença é uma propriedade sistemática da classe de artigo, não da tarefa.
+- **"Uma avaliação positiva significa que o fluxo de trabalho atingiu o padrão que pretendia."** Entre **118 artigos sobre LLM com avaliações apenas positivas, 52% ainda relataram ao menos uma preocupação de que o fluxo de trabalho ficou abaixo do padrão exigido para o seu papel**. Metade das avaliações positivas continha sua própria refutação.
 
 ## Citação
 

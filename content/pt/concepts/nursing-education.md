@@ -1,7 +1,7 @@
 ---
 title: "Educação em enfermagem"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -13,17 +13,21 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-09-28T21:37:06-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-25T19:50:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Educação em enfermagem** — a preparação de enfermeiros para a prática licenciada, e o subcampo da [[medical-education|educação nas profissões de saúde]] em que a IA é atualmente mais estudada. A IA entra nos currículos de enfermagem por meio de [[simulation|simulação]] com pacientes virtuais e manequins, apoio de estudo e de raciocínio clínico baseado em [[llm|LLM]], [[automated-assessment|avaliação automatizada]] e plataformas adaptativas para aprendentes em risco. Seu objeto é distintivo: a competência em enfermagem funde habilidade psicomotora, prática relacional e formação de [[learner-identity|identidade profissional]], então uma tecnologia que eleva o desempenho mensurado pode, ao mesmo tempo, corroer o trabalho de desenvolvimento que produz um enfermeiro.
 
@@ -56,6 +60,34 @@ O campo também refina três conceitos adjacentes. Da [[simulation|simulação]]
 - **A evidência está invertida.** O mapa de lacunas da mesma revisão não encontra nenhum estudo randomizado ou quase-experimental de identidade profissional ou de [[career-development-and-readiness|desenvolvimento de carreira]], apenas três de competência relacional e ética, e nenhum acompanhamento além de 12 meses — enquanto a evidência controlada se agrupa em resultados cognitivos e técnicos.
 - **A vigilância é documentada como percepção, e não como conduta melhorada.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] mapearam a [[remote-proctoring|supervisão remota]] na avaliação em enfermagem ao longo de seis estudos (1.567 estudantes) e concluíram que a dissuasão era relatada quase universalmente por estudantes supervisionados (98–100% de concordância em um programa de pós-graduação), enquanto o único estudo comparativo de desempenho concluiu que uma coorte supervisionada presencialmente pontuava significativamente mais alto em um exame de prontidão do que uma supervisionada remotamente. A ansiedade corria nas duas direções — alguns estudantes mais calmos em casa e aliviados da viagem, outros incapazes de se concentrar enquanto observados e temerosos de [[legal-issues-and-risks|acusação injusta]] — e quatro dos seis estudos relataram falha de conectividade, um com corte de energia, tornando o acesso [[equity-in-ai-education|equitativo]] a restrição operante, e não a segurança do exame. A posição dos autores é que a supervisão remota deveria ser um instrumento entre vários, governada por padrões de proteção de dados e pareada com integridade-pelo-desenho e [[authentic-assessment|avaliação autêntica]], em vez de tratada como a salvaguarda padrão.
 - **Condições de contorno.** As vertentes convergem na mesma contenção. A IA é melhor evidenciada para objetivos estruturados e repetíveis — comunicação fundacional, anamnese, educação em saúde, aquisição de conhecimento — e menos evidenciada para habilidade psicomotora complexa, interação carregada de emoção e formação profissional de longo prazo. A aceitação é consistentemente moderada a alta, mas a aceitação do feedback *por IA* é condicionada pela confiança: quem aprende prefere fontes humanas percebidas como benevolentes à IA percebida como meramente competente. As revisões também são geograficamente estreitas, dominadas por desenhos sem controle e por [[self-report-measures|autorrelato]] e — na revisão de simulação — mostram um padrão positivo quase uniforme que levanta preocupações de viés de publicação.
+
+
+## Ideias equivocadas comuns
+
+**"A simulação apoiada por IA melhora a competência em enfermagem de forma generalizada."** O benefício termina numa fronteira documentada. A simulação apoiada por IA melhora de forma confiável o conhecimento e a [[self-efficacy|autoeficácia]], mas mostra **efeitos inconsistentes, às vezes negativos, sobre a habilidade psicomotora complexa** — e a competência psicomotora não é um desfecho periférico numa profissão definida por ela. Um programa que adota a simulação com base em ganhos de conhecimento tem evidência para um desfecho diferente daquele que a licença examina.
+
+**"A ansiedade da força de trabalho em torno da IA na enfermagem é, na verdade, uma lacuna de habilidades, então o treinamento em letramento em IA é o remédio."** A ansiedade é sobre emprego, não sobre competência. Uma pesquisa com **821 estudantes de ciências da saúde** encontrou uma correlação positiva moderada entre [[anxiety-and-stress|ansiedade com IA]] e ansiedade na busca por emprego (**r = 0,233, p < 0,001**), com a ansiedade com IA como preditor significativo após controles. Ensinar letramento aborda o medo de não conseguir usar uma ferramenta; não aborda o medo de não ter emprego — e o enquadramento de identidade profissional da literatura, quem se torna enfermeiro em vez do que um aprendiz consegue fazer, é onde essa questão pertence.
+
+**"Os estudantes querem agentes de IA como colaboradores."** Eles os querem como ferramentas. De **165 estudantes (158 concluintes)**, o agente foi avaliado como mais útil *como ferramenta* (**M = 3,49**), depois pela utilidade do feedback (**M = 3,21**), e menos *como parte da equipe* (**M = 2,88**), com todas as diferenças par a par significativas (**F(2, 156) = 26,01, p < ,001**). Um desenho que posiciona um agente como membro da equipe vai contra a preferência dos estudantes, e não à frente dela.
+
+**"Qualquer estudo de simulação se generaliza para a prática clínica."** A base de evidências revisada aqui — **19 estudos, N = 1.253, em sua maioria estudantes de pré-licenciatura** — é largamente de sala de aula e de laboratório, e a tradução da competência simulada para a prática supervisionada é exatamente o passo que uma simulação assistida por IA não ensaia por si mesma.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Não adote simulação com IA para desenvolver habilidade psicomotora complexa com base em ganhos de conhecimento e autoeficácia. Mantenha a prática supervisionada deliberada para os desfechos psicomotores e use a IA onde sua evidência é mais forte.
+- Trate a ansiedade sobre emprego diretamente, em vez de encaminhá-la por módulos de letramento em IA; a correlação com a ansiedade na busca por emprego diz que a preocupação é sobre o futuro da profissão, e não sobre a fluência de quem aprende com a ferramenta.
+- Posicione os agentes como ferramentas e fontes de feedback, o que corresponde tanto à preferência dos estudantes quanto ao desenho que produziu as avaliações mais altas.
+
+**Para desenvolvedores**
+
+- Relate desfechos psicomotores e de conhecimento separadamente, já que eles divergem nesta literatura.
+- Desenhe primeiro para os papéis de ferramenta e de feedback; o enquadramento do agente como membro da equipe não é o que os estudantes pediram.
+
+**Para pesquisadores**
+
+- Relate amostras de pré-licenciatura e de enfermeiros em exercício separadamente, e estude a transição para a prática supervisionada se a afirmação de competência quiser significar algo clinicamente.
 
 ## Conceitos conectados
 

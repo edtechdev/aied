@@ -1,7 +1,7 @@
 ---
 title: Rendição cognitiva
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,13 +13,17 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,13 +73,15 @@ Três experimentos pré-registrados adaptaram o Teste de Reflexão Cognitiva e r
 
 A leitura prática é que a rendição é uma **falha de discriminação**, e não uma falha de motivação. Os participantes que se renderam não estavam tentando evitar trabalho; eles não conseguiam distinguir um bom conselho de um ruim, e a interface não lhes dava motivo para tentar.
 
+Um experimento pré-registrado de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fornece uma configuração contrastante. Com o assistente cercado por aumento de recuperação limitado à folha de exercícios atribuída, a condição de IA reduziu o descarregamento cognitivo (mediana −0,27) em vez de elevá-lo, e nenhum caminho de descarregamento carregou a alta da desorganização (0,84). A rendição precisa de um assistente cujo conselho possa ser adotado por inteiro; um sistema que responde apenas a partir do material presente dá a quem aprende menos a adotar e mais a reconciliar.
+
 ## A rendição fora do laboratório
 
 Os achados de laboratório se alinham com trabalhos de campo e observacionais que chegaram independentemente à mesma palavra.
 
 - **Deslocamento em nível populacional.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analisam 3,2 milhões de interações de aprendizagem no ALEKS e 12,2 milhões de tempos de resposta em [[assessment|avaliações de nivelamento]] ao longo de um painel de dez anos, com problemas baseados em grafos servindo de controle para os baseados em texto. Os estudantes concluíam o trabalho suscetível à IA mais rápido e pontuavam mais nele, enquanto os itens supervisionados de retenção mostravam um declínio cumulativo de 25% na probabilidade de resposta correta; os autores chamam o padrão de rendição cognitiva em escala populacional.
 - **A verificação como variável discriminante.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] constatam que *como* os estudantes usam a IA generativa prevê o [[learning-gains|desempenho]], enquanto *quanto* eles a usam não prevê nada: a adoção com baixa verificação — aceitar o produto sem crítica — foi associada a piores resultados, e a integração avaliativa a melhores.
-- **O uso irreflexivo corrói os recursos de que a autodireção precisa.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao e Gu (2026)]] modelam diretamente o adotar-sem-avaliar: ao longo de 487 universitários, o uso irreflexivo da IA generativa foi associado a menor [[self-regulated-learning|aprendizagem autodirigida]] (β = −0,42), em parte pela redução da [[motivation|motivação]] e da [[self-efficacy|autoeficácia]].
+- **O uso irreflexivo corrói os recursos de que a autodireção precisa.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao e Gu (2026)]] modelam diretamente o adotar-sem-avaliar: ao longo de 487 universitários, o uso irreflexivo da IA generativa foi associado a menor [[self-directed-learning|aprendizagem autodirigida]] (β = −0,42), em parte pela redução da [[motivation|motivação]] e da [[self-efficacy|autoeficácia]].
 - **O traço neural e de propriedade.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|o estudo de EEG da dívida cognitiva]] mensurou a [[writing-education|redação de ensaios]] com um [[llm]], com um motor de busca e sem ferramenta: o grupo do LLM mostrou a conectividade neural mais fraca, relatou a menor autoria do próprio trabalho e teve dificuldade de citar o que havia escrito.
 - **A rendição pode chegar sem ser solicitada.** [[ai-advice-suppresses-ikt-suspension-2026|O trabalho sobre suspensão do julgamento]] constatou que a mera disponibilidade de conselho de IA desabou a disposição das pessoas de dizer "não sei" (0,06 contra 0,36, e 0,03 contra 0,44 em dois estudos), enquanto a correção caía e a confiança subia de cerca de 30 para 76. Os stakes não restauraram a suspensão, embora os incentivos tenham melhorado a precisão ao encorajar rejeições. Um quarto estudo mostrou o efeito sem consulta alguma, o padrão de um autocompletar ou de um resumo de busca, e não de um prompt de chat.
 - **Os modos dependente e autônomo só se distinguem pelas consequências.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] acompanham 589 estudantes e trabalhadores em início de carreira ao longo de três ondas: o descarregamento dependente delegava o pensamento central e caminhava com menor motivação intrínseca, enquanto o descarregamento autônomo não, e o desempenho imediato parecia idêntico em ambos.
@@ -140,3 +146,4 @@ A evidência da rendição como construto nomeado repousa fortemente em um únic
 - [[brcic-effortless-trap-productive-struggle-2026]] — posicionar a IA para que a tarefa siga esforçada
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — treinamento de calibração
 - [[family-school-autonomy-support-genai-2026]] — descarregamento dependente versus autônomo
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Um assistente ancorado na folha de exercícios reduziu o descarregamento em vez de elevá-lo, uma condição de contorno para a assinatura da rendição (Braun 2026)

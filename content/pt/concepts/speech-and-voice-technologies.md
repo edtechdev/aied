@@ -1,7 +1,7 @@
 ---
 title: "Tecnologias de fala e voz"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-28T21:37:06-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Tecnologias de fala e voz [[ai-technologies|tecnologias]]** — a família de sistemas de IA em que o canal falado carrega a interação: reconhecimento automático de fala (ASR) que transcreve, analisa e corrige o que quem aprende diz; texto-para-fala (TTS) que gera instrução narrada ou em forma de diálogo; agentes de voz em primeiro lugar que mantêm conversa falada em tempo real com quem aprende; e captura e correção automatizadas de desempenho oral. Onde a pesquisa sobre [[conversational-ai|IA conversacional]] é sobretudo sobre chatbots de texto e a [[language-learning|aprendizagem de línguas]] cobre amplamente a pedagogia de segunda língua, esta página segue o próprio áudio — o que uma interface de fala muda sobre a aprendizagem, o que ela custa, e a quem ela inclui ou exclui quando a interface é uma voz, e não uma tela.
 
@@ -50,6 +54,8 @@ O feedback automatizado de pronúncia também pode ser construído sem rótulos 
 
 O ASR também serve à sala de aula em um segundo papel — converter entrada falada em texto que quem aprende lê. [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] renderizou uma passagem de 2.692 tokens de um livro de Inglês Médico sobre proteínas com uma voz de texto-para-fala (15:27, feminina canadense) e submeteu o áudio idêntico a quatro serviços online de ASR, medindo tanto a taxa de erro por palavra (WER) quanto a **cobertura** (palavras devolvidas como fração da referência). Os dois serviços gratuitos devolveram transcrições quase completas (87,96% e 88,34% de cobertura, WER 15,23% e 15,00%), enquanto os dois serviços pagos exportaram apenas prévias (32,76% e 55,35% de cobertura, WER 73,21% e 48,77%). O ponto da medição é que a WER isolada confunde texto indisponível com texto impreciso e classificaria uma restrição de exportação como falha de transcrição, portanto a cobertura pertence ao lado da taxa de erro. As deleções dominaram todo serviço e se agruparam em marcadores estruturais como referências de figuras e números de página, mas um punhado de substituições que alteram o sentido — imino → amino, cystine → cysteine, protonated → protonatid, pH → phase — inverteu cada uma um fato bioquímico, e é por isso que os autores propõem um fluxo de trabalho de três estágios (gerar a entrada, exportar a transcrição completa, verificar a terminologia de domínio) antes que uma transcrição chegue a quem aprende, e por que uma passada de terminologia é a salvaguarda mais barata para o inglês médico.
 
+Os ganhos de acurácia parecem ser propriedade de sistemas construídos com um propósito, e não do canal falado em si. Ao longo de dez estudos, apenas chatbots desenhados para a aprendizagem de línguas — Andy English bot e Xiaoying — melhoraram a acurácia, com uma redução de erro de 14% em um grupo de controle contra 38% no grupo tratado ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez e Belda-Medina (2026)]]). A mesma revisão documenta o ASR falhando em fala com sotaque e em nomes não ingleses, incluindo um bot que não reconhecia nomes vietnamitas mesmo quando a pronúncia estava correta.
+
 ## TTS e instrução gerada por voz
 
 A narração gerada mostra ser uma substituta viável de um professor gravado, e a variação interessante reside dentro do formato, e não entre humano e máquina. [[llm-tts-dialogue-lesson-generation|Kumoi et al. (2026)]] construíram um pipeline de três estágios com [[human-in-the-loop-ai|humano na alça]] em que um [[llm|LLM]] redige slides e narração otimizada para TTS, enquanto o educador verifica os fatos em cada estágio, e então conduziram um estudo intra-sujeito com 245 estudantes do primeiro ano de uma escola de ensino médio prefectural japonesa ao longo de vídeo com voz do instrutor, TTS de falante único e TTS de diálogo Especialista×Novato. Compreensão, concentração e avaliação geral não diferiram significativamente entre os três (p > ,14, r < 0,11), e o teste de equivalência manteve os três dentro de uma margem de ±0,5: a narração sintética não degradou a experiência. A narração em diálogo foi melhor em compreensão (p = ,006, r = ,130), em pensamento aprofundado relatado (p = ,019, r = ,121) e em ser capaz de explicar o conteúdo a um amigo (p = ,004, r = ,152), e 66,9% a preferiram como a mais prazerosa. Duas ressalvas: o áudio de diálogo foi avaliado significativamente menos natural (r = −,238), consistente com carga extra de múltiplos falantes, e o grupo de diálogo chegou com menos [[prior-knowledge|conhecimento prévio]] (66,0% relatando não saber "absolutamente nada", contra 34,1%), o que torna sua vantagem uma estimativa conservadora.
@@ -67,6 +73,8 @@ O sotaque, enquanto isso, é uma variável de desenho com consequências sociais
 O uso mais pesado de uma ferramenta de apoio falado não é automaticamente melhor. [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li e Weng (2026)]] fizeram 22 estagiários de interpretação completarem tarefas bidirecionais de interpretação consecutiva assistida por computador em sistemas construídos sobre ASR e tradução automática, capturando movimentos oculares, anotações com caneta e saída de voz. Quatro perfis de interação emergiram — Engajados Intensivos, Leitores Rápidos, Tradicionalistas e Trocadores Frequentes — e 58,3% das observações no nível do estágio mudaram de perfil entre compreender a fonte e produzir o alvo. Apenas os padrões do estágio de compreensão previram a qualidade do produto, e o cluster mais pesado em IA teve a menor nota em fluência de entrega (5,46 contra 6,17–6,46) e em qualidade da língua-alvo (5,70 contra 6,35–6,67). A atenção gasta lendo uma transcrição de IA é atenção não gasta construindo a própria representação; os autores recomendam ensinar quem aprende a refletir sobre a própria estratégia, em vez de prescrever uma, já que o padrão é invisível a menos que trazido à tona.
 
 Um experimento de campo randomizado pré-registrado testa o canal falado contra o texto digitado dentro do mesmo tutor, e conclui que a aprendizagem está na tutoria, e não na voz. [[ai-tutor-modality-randomized-field-experiment-2026|Yang, Van Alstyne e Dellarocas (2026)]] randomizaram 86 estudantes de um módulo de finanças corporativas de um MBA online entre um tutor estruturado ancorado nos materiais da disciplina e um grupo de retenção, e então alternaram semanalmente o canal de cada estudante tutorado entre voz e texto, de modo que a comparação é identificada dentro de cada estudante: o domínio semanal diferiu em −0,01 pontos de 11 (p = ,98), e dois testes unilaterais rejeitaram qualquer diferença real maior que ±0,3 DP. A voz transformou o processo em vez disso — 1,34 turnos de diálogo por minuto contra 0,75 nas semanas de texto, e 11,3 questões contra 4,6 — enquanto a pausa de pensamento colapsou (intervalo mediano de resposta do tutor para o estudante de 27 segundos em voz contra 54 em texto, em que turnos digitados gastavam 25,9 segundos antes da primeira tecla mais 13,9 segundos compondo) e o canal de fala custou 2,8× mais para entregar, a \\$0,22 por minuto de voz contra \\$0,0165 por mensagem de texto (\\$413,46 em voz e \\$149,13 em texto ao longo de cinco semanas para 52 lugares). Nessa evidência, a voz é uma alavanca de adoção e engajamento, não de codificação — o que é exatamente a troca que toda instituição que acrescenta um canal falado precisa colocar preço.
+
+A mesma pilha de voz é agora proposta para a direção inversa: [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling e Hantel (2026)]] planejam um agente telefônico baseado no ElevenLabs que entrevista estudantes sobre um curso em conversas de 5–7 minutos com sondagens adaptativas. Seu piloto concluído em Munique estabeleceu viabilidade; o estudo de campo planejado, em um curso do MIT Sloan com aproximadamente 60 estudantes, não relatou resultados.
 
 ## IA na avaliação oral e falada
 
@@ -87,6 +95,12 @@ Verificação de escopo. Esta página trata do canal falado e da tecnologia que 
 ## O que permanece incerto
 
 Quase toda afirmação forte aqui repousa sobre um único estudo curto. Os dois estudos de aula por TTS rodaram em escolas de ensino médio japonesas únicas, com ordem de apresentação fixa que confundia formato com conteúdo, e suas medidas de resultado de aprendizagem eram autorrelatadas em escalas próprias. O modelo de feedback de ASR veio de uma única universidade chinesa e era transversal, portanto seu achado de moderação por proficiência descreve covariância, e não causalidade. O estudo de vontade de se comunicar mediu percepções do feedback, não a qualidade do feedback. O estudo de perfis de interpretação é uma análise exploratória de 22 participantes em que os efeitos no estágio de saída não alcançaram significância. As implantações de AOA e AkoVoice são de instituição única, e o AkoVoice não relata evidência [[summative-assessment|somativa]] de aprendizagem porque suas avaliações por voz rodaram em paralelo às avaliações reais. O Kutti AI é uma contribuição de sistemas sem avaliação de desfecho alguma. O que a coleção apoia é um conjunto de afirmações de desenho: a qualidade do feedback supera o volume de prática no uso de ASR, a narração em diálogo pode ajudar a compreensão ao custo da naturalidade, o formato deve ser adequado às características de quem aprende, e não fixo, a IA deve trazer à tona evidência, e não substituir o avaliador humano, e falar em tempo real mede algo que a escrita não mede — incluindo uma precisão surpreendentemente indiferente a quantas palavras quem aprende usa. Se algo disso se sustenta em outro site, outra língua ou outro ano é não testado.
+
+## Ideias equivocadas comuns
+
+- **"Os serviços de fala pagos superam os gratuitos."** **Os dois serviços gratuitos retornaram transcrições quase completas (87,96% e 88,34% de cobertura, com taxas de erro de palavra de 15,23% e 15,00%)**, enquanto os dois serviços pagos exportaram apenas prévias, com 32% de cobertura. O preço não previu a utilidade, e o nível pago restringiu a saída em vez de melhorá-la.
+- **"Qualquer chatbot de aprendizagem de línguas melhora a pronúncia."** Ao longo de **dez estudos**, **apenas chatbots desenhados para a aprendizagem de línguas — Andy English bot e Xiaoying — melhoraram a acurácia**, com uma **redução de erro de 14% em um grupo de controle** na comparação. Agentes conversacionais genéricos não produziram o ganho.
+- **"Ganhos de autoeficácia significam ganhos de habilidade."** A associação entre a tecnologia e os resultados foi positiva com a **autoeficácia mediando-a parcialmente: o caminho indireto respondeu por 69,9% do efeito total, enquanto um efeito direto permaneceu**. A maior parte do efeito passou pela confiança, que é um mecanismo e também uma cautela.
 
 ## Conceitos conectados
 
@@ -120,3 +134,5 @@ Quase toda afirmação forte aqui repousa sobre um único estudo curto. Os dois 
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — Geração de questões por LLM para aprendizes surdos e com deficiência auditiva
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — Quando tutores de IA falam: evidência de um experimento de campo randomizado
 - [[ai-mediated-input-medical-english-asr-2026]] — Transformação de entrada mediada por IA em inglês médico: reconhecimento de fala e confiabilidade de transcrições
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Ganhos de acurácia apenas com chatbots de aprendizagem de línguas, e falhas do ASR com nomes com sotaque
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Um agente de voz telefônico voltado ao próprio canal de feedback

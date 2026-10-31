@@ -1,7 +1,7 @@
 ---
 title: Engenharia de prompts
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Engenharia de prompts** — a prática de desenhar e refinar entradas para grandes modelos de linguagem a fim de obter as saídas desejadas. Na educação, a engenharia de prompts serve a dois papéis: como habilidade de quem aprende (os estudantes precisam aprender a fazer prompts de forma eficaz) e como alavanca de desenho de sistema (os desenvolvedores criam prompts que moldam o comportamento da [[intelligent-tutoring|tutoria com IA]]).
 
@@ -46,6 +50,7 @@ A engenharia de prompts é central para o uso eficaz de [[generative-ai|IA gener
 - **A cognição de prompt acompanha a disciplina, não o estudante.** [[student-ai-conversations-cognitive-engagement-2026|Chang e Li (2026)]] classificaram 60.087 prompts de 116 cursos e constataram que os perfis de nível de Bloom diferiam por disciplina — STEM com predomínio de Aplicar (20,8%), ciências sociais com predomínio de Criar (33,8%) —, com a variância no nível do curso excedendo a variância no nível do estudante.
 - **O prompting como letramento:** a [[tracing-genai-literacy-interaction-patterns|pesquisa sobre letramento em IA generativa]] e a [[aaai2026-prompting-literacy-k12|pesquisa sobre letramento em prompting no K-12]] enquadram o prompting como um componente central do [[ai-literacy|letramento em IA]]
 - **Novatos recorrem por padrão à tentativa e erro, e culpam o modelo.** Em um seminário de linguística textual, dez novatos em IA generativa refinaram prompts por tentativa e erro, raramente recorreram a exemplos no contexto, e atribuíram esmagadoramente as saídas ruins ao LLM, e não à sua própria formulação do prompt ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+- **Prompts vagos deixam um rastro no diálogo.** A assinatura do grupo de menor qualidade era um laço de esclarecimento que se autorrepete (IC→IC, Z = 3,25), atribuído a prompts vagos e a leituras equivocadas da IA, e carregando a maior lacuna de frustração do estudo (2,12 vs 3,82); a depuração de prompts sobre logs autênticos o ataca no momento em que acontece ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 - **Quando o instrutor modela o prompt, os estudantes o reusam literalmente.** Entre 310 prompts gravados de doze grupos de STEAM do ensino fundamental II, a cópia exata da instrução do instrutor foi a postura de estudante mais frequente, com 47,1%, à frente da indagação espontânea, com 28,7% ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
 - **Um ciclo regulatório supera uma fórmula de prompt.** Em um piloto quase-experimental com 42 estudantes de graduação, os estudantes ensinados no ciclo IDEA (Intenção, Desconstrução, Expressão, Adaptação) produziram prompts e saídas de maior qualidade que os pares ensinados com prompting de Papel–Tarefa–Contexto–Formato em todas as cinco categorias de tarefa (ganhos ajustados de prompt de +11,77 a +29,19 pontos) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
 - **O prompting como desenho de sistema:** o [[cotal-formative-assessment-scoring-2026|CoTAL]] usa engenharia de prompts [[human-in-the-loop-ai|com humano no circuito]] para pontuação de [[formative-assessment|avaliação formativa]]; o [[choi-anchor-aes-prompting-2025|prompting baseado em âncoras]] melhora a [[automated-essay-scoring|correção automatizada de redações]]
@@ -65,6 +70,7 @@ A engenharia de prompts é central para o uso eficaz de [[generative-ai|IA gener
 - **Prompting consciente de contexto para avaliação.** O prompting consciente de contexto de modelos de linguagem pré-treinados automatiza a codificação de habilidades de [[collaborative-learning|resolução colaborativa de problemas]] a partir de dados de processo, modelando dependências entre códigos de comportamento e fundindo capacidades cognitivas e sociais. Isso possibilita análise estruturada de RCP em escala e em tempo real, superando a intensidade de trabalho dos esquemas manuais de codificação.
 - **Templates baseados em papéis e rubricas de qualidade para o planejamento docente.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo e Tahir (2025)]] desenvolvem empiricamente um framework de prompts para o [[curriculum-design|planejamento de aulas]] de artes STEAM infantis que associa um template de Papel (R) – Instruções (I) – Objetivo Final (E) (adaptado do RISEN) a uma rubrica de otimização de "quatro pontos e uma linha" — padronizado, prático, envolvente e completo, mais uma dimensão de extensão. Aplicar a rubrica para criticar e refinar prompts manteve os planos gerados aceitáveis para professores de arte em exercício (avaliações médias acima de 4/5), ao mesmo tempo que expôs lacunas recorrentes ([[personalized-learning|personalização]], restrições de [[pedagogical-safety|segurança da criança]], viés cultural) que o prompting de uma única passada deixou sem tratamento — mostrando que templates de prompt mais critérios explícitos de avaliação funcionam como um andaimento de controle de qualidade para a geração em sala de aula.
 - **O desenho de papel e de restrições como variável independente.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] comparam dois agentes construídos sobre o mesmo modelo e plataforma a temperatura 0,3, cuja única diferença é como o prompt especifica papel, habilidades e restrições: um agente professor especialista que responde a partir de uma fonte de conhecimento de livro didático delimitada, versus um agente empático centrado no estudante, roteirizado para diagnosticar [[misconceptions|ideias equivocadas]] e verificar a compreensão. A diferença de papel, isoladamente, deslocou o desempenho de aprendizagem, a carga cognitiva, a experiência de fluxo e a empatia percebida, mostrando que a especificação de papel é uma decisão de desenho instrucional com efeitos mensuráveis, e não um floreio estilístico ([[pedagogical-agent]]).
+- **O prompting como desenho de avaliação.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] mapeiam os modelos de estudante, de evidência e de tarefa do Desenho Centrado em Evidências sobre as partes de um prompt de pontuação, derivando cinco princípios — intencionalidade, rastreabilidade, responsabilização, iteração e equidade; seus prompts construídos por ECD pontuaram redações narrativas com mais precisão que as linhas de base zero-shot, few-shot e cadeia de pensamento.
 
 ### Conexões com conceitos mais amplos
 
@@ -74,6 +80,15 @@ A engenharia de prompts se conecta ao [[scaffolding|andaimento]] — prompts bem
 - **A estratégia de prompting prevê o desempenho.** Um [[isaza-chatgpt-engineering-prompting-2026|estudo empírico de 128 estudantes de engenharia]] constatou que a Eficiência de Consulta à IA (prompts claros e bem estruturados) e a [[problem-solving|Resolução de Problemas]] Impulsionada por IA (integração estratégica da saída da IA ao raciocínio) foram os preditores mais fortes do sucesso acadêmico — mesmo após controlar pelo GPA —, indicando que fazer prompts é uma habilidade ensinável que molda quão eficazmente os estudantes aprendem com a IA.
 - **O estilo de prompting, e não apenas a qualidade do prompt, acompanha os resultados.** Traços derivados de 1.540 sessões de tutoria ligaram o questionamento conceitual ao desempenho em provas, enquanto comportamentos de delegação de tarefas se correlacionaram negativamente —, mas os mesmos traços não se replicaram no semestre seguinte, de modo que são padrões comportamentais, e não habilidades estáveis ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du e Lan (2026)]]).
 - **Uma taxonomia utilizável, e quais categorias de prompt de fato compensam.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] traduzem estratégias técnicas para o modelo 3K (*Kontext, Kernauftrag, Klarheit* — contexto, tarefa central, clareza): onze categorias orientadas à prática, cada uma com uma rubrica bom/médio/subótimo, e cada uma testada como variação experimental sobre o feedback gerado para os objetivos de aprendizagem de professores em formação. A linguagem técnica específica do domínio foi a categoria decisiva — substituir a terminologia da disciplina por paráfrases cotidianas reduziu significativamente a qualidade do feedback nos três modelos (β = −0,412) —, enquanto acrescentar exemplos concretos e remover a instrução de cadeia de pensamento não produziu diferença significativa em relação à linha de base no primeiro estudo; os exemplos ajudaram quando a análise foi refeita com as melhores combinações de modelo e prompt (β = 0,52). A qualidade do prompt e a escolha do modelo explicaram juntas 42,8% da variância na qualidade do feedback avaliada, o que é o argumento do artigo de que a engenharia de prompts é uma competência mensurável e ensinável, e não uma preferência estilística —, e de que suas categorias não são intercambiáveis em tamanho de efeito.
+- **Prompts melhores reduziram a iteração sem elevar a qualidade da saída.** Professores que receberam treinamento em IA antes de um experimento de preparação de aulas escreveram prompts mais longos e detalhados, que precisaram de menos refinamento, enquanto os professores sem treinamento usaram prompts mais curtos e exigiram mais iterações subsequentes, e ainda assim as avaliações cegas de especialistas sobre os materiais resultantes foram iguais ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). O ofício de prompt aqui comprou menos rodadas de correção, não um primeiro rascunho mais forte.
+
+- **Os estudantes nomeiam o alinhamento com a intenção como a dificuldade, e não a sintaxe.** Pesquisando 234 estudantes universitários chineses, [[lei-fan-genai-prompting-strategies-2026|Fan e Liu (2026)]] constataram que refinar após uma saída ruim foi a capacidade mais endossada (72,2%), enquanto definir restrições de saída foi a menos endossada (66,2%, com 22,2% neutros). As preferências de estratégia quase não mudaram entre uma tarefa de pesquisa e um briefing criativo: de quatro pares emparelhados, apenas a especificação do formato de saída diferiu após correção (0,26 ponto, dz = 0,233, p ajustado por BH = ,002). Um template fixo de papel-tarefa-formato obteve o menor apoio entre todas as estratégias gerais, com 59,4%. Entre os 12,8% que responderam a uma pergunta aberta, o alinhamento com a intenção do prompt apareceu em 40,0% dos comentários, e acrescentar mais detalhe não corrigiu de forma confiável uma troca travada. Tudo isso é autorrelato de um único questionário.
+
+## Ideias equivocadas comuns
+
+- **"A qualidade do prompt é um atributo do estudante."** **A cognição de prompt acompanha a disciplina, não o estudante**: [[student-ai-conversations-cognitive-engagement-2026|Chang e Li (2026)]] classificaram **60.087 prompts de 116 cursos** e constataram que a disciplina previu a sofisticação do prompt. Ensinar os estudantes a fazer prompts melhores ataca uma variação que está na própria matéria.
+- **"Os estudantes desenvolvem sua própria prática de prompting."** Quando o instrutor modelou o prompt, **os estudantes o reusaram literalmente** — entre **310 prompts gravados de doze grupos de STEAM do ensino fundamental II**, a cópia exata da instrução do instrutor foi comum. A modelagem produz reprodução, e é por isso que ela é uma alavanca de desenho de sistema, e não uma habilidade transferível.
+- **"O prompting é uma habilidade de quem aprende primeiro e uma propriedade de sistema depois."** Isso desloca o prompting **para uma alavanca adaptativa de desenho de sistema**, com efeitos medidos sobre **engajamento e eficiência (28,1% vs 19,6% de conversão de exercícios)**. As affordances de prompting da interface moveram o comportamento mais do que a instrução em prompting.
 
 ## Conceitos conectados
 
@@ -95,6 +110,7 @@ A engenharia de prompts se conecta ao [[scaffolding|andaimento]] — prompts bem
 - [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agêntica)
 
 ## Artigos conectados
+- [[lei-fan-genai-prompting-strategies-2026]] — 234 estudantes sobre o que acham difícil: alinhamento com a intenção, não a sintaxe do prompt
 - [[wang-teacher-student-centered-agents-physics-2026]] — Prompts de papel e restrição do agente como variável de desenho na aprendizagem de física (Wang et al. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting versus ajuste fino para a geração de itens de compreensão oral em L2 com GPT (Aryadoust & Wong 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — O que os estudantes perguntam importa: profundidade da interação com LLM, qualidade da tarefa e recordação imediata (Tsiligkiris 2026)
@@ -123,5 +139,5 @@ A engenharia de prompts se conecta ao [[scaffolding|andaimento]] — prompts bem
 
 - [[middle-school-genai-steam-interactions-2026]] — Grupos de STEAM do ensino fundamental II copiaram a instrução do instrutor literalmente em 47,1% dos prompts
 
-- **Prompting as assessment design.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] map Evidence-Centered Design's student, evidence, and task models onto the parts of a scoring prompt, deriving five principles — intentionality, traceability, accountability, iteration, and equity; their ECD-built prompts scored narrative essays more accurately than zero-shot, few-shot, and chain-of-thought baselines.
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Prompts vagos produziram laços de esclarecimento autorrepetidos, com a maior lacuna de frustração
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring

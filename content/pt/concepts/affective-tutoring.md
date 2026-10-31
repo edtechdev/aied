@@ -1,7 +1,7 @@
 ---
 title: Tutoria afetiva
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > Integrar a consciência emocional nos sistemas de [[intelligent-tutoring|tutoria com IA]] pode gerar ganhos [[pedagogy|pedagógicos]] mensuráveis, mas a mesma sofisticação [[affective-computing|afetiva]] arrisca amplificar danos se a autonomia do estudante for erodida por uma automação de aparência empática.([[kar-mathbuddy-affective-math-tutoring-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
 
@@ -62,6 +66,8 @@ Favero et al. (2025) alertam que o engajamento [[student-engagement|emocional]] 
 
 Os autores argumentam que os riscos emocionais fazem parte de um padrão mais amplo de **erosão da [[self-efficacy|autoeficácia]], da [[agency|autonomia]] e do [[well-being|bem-estar]]** quando o uso de IA não é controlado.
 
+**O risco também recai sobre quem nunca abre o tutor.** [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] constataram que a disposição de oferecer apoio emocional você mesmo diminui à medida que você acredita que um sistema pode oferecê-lo, e essa crença foi causal no segundo experimento deles: ler uma cobertura jornalística comum sobre IA empática bastou para elevar o deslocamento, inteiramente por meio da capacidade percebida. O quarto estudo deles acrescenta um custo social que o enquadramento individual não capta. Ao saber que um estudante havia recorrido a um chatbot em busca de apoio, os participantes disseram que se deslocariam menos do que se o estudante tivesse recorrido a um amigo. Em seguida, escreveram menos palavras de empatia e mais palavras de indiferença sobre esse estudante, e o avaliaram como mais estranho e mais desesperado. A oferta [[social-emotional-learning|socioemocional]] pode, portanto, rarear ao redor do tutor mesmo quando ninguém que o usa relata mudança.
+
 ## Princípios de desenho
 
 1. **Os dados afetivos devem informar, não substituir, a autonomia do estudante** — o tutor adapta sua estratégia; o estudante mantém o controle sobre o que divulga
@@ -75,6 +81,38 @@ Um limite para a inferência de afeto a partir do diálogo: [[ecnuclaw-k12-perso
 ## Relação com a segurança mais ampla
 
 A tutoria afetiva se cruza com [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] na dimensão de dano [[motivation|motivacional]]-afetiva. Um tutor afetivo "excessivamente acolhedor" pode suprimir a frustração que impulsiona as dificuldades produtivas e a [[self-regulated-learning|autorregulação]]. Veja também [[llm-fallacy-misattribution]] — os estudantes podem atribuir o apoio emocional a uma relação genuína, reforçando a dependência.
+
+## Ideias equivocadas comuns
+
+**"Os +23 pontos de taxa de vitória mostram que tutores afetivos ensinam melhor."** Eles mostram algo mais estreito. A comparação é uma taxa de vitória contra uma linha de base não afetiva para um sistema, o MathBuddy, pontuado ao longo de oito dimensões pedagógicas e estudos com usuários; uma taxa de vitória é um desfecho de preferência, não uma medida de aprendizagem duradoura em um curso real. A afirmação honesta é que a seleção de estratégia com consciência afetiva superou a seleção sem consciência afetiva na qualidade julgada das respostas, o que é um resultado forte sobre a interação e fraco sobre os [[learning-gains|ganhos de aprendizagem]].
+
+**"Se o tutor parece empático, o estudante está sendo ajudado."** Sentir-se compreendido e ser ensinado são separáveis, e é na lacuna entre os dois que o dano se instala. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identificam a dependência parassocial como a falha característica: um estudante pode formar uma relação com um sistema desenhado para parecer acolhedor enquanto seu engajamento [[metacognition|metacognitivo]] cai silenciosamente, e a própria empatia torna o desengajamento mais difícil de notar. A literatura de [[llm-fallacy-misattribution|atribuição equivocada]] é o outro lado da mesma faca, onde os estudantes creditam ao sistema uma relação genuína.
+
+**"Mais apoio emocional é sempre mais seguro do que menos."** A partir de certo ponto, o apoio se torna interferência. Um tutor que remove a frustração de forma confiável pode suprimir a [[desirable-difficulties|luta produtiva]] da qual depende a [[self-regulated-learning|autorregulação]], e é por isso que o [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] trata o dano motivacional-afetivo como uma dimensão de segurança distinta, e não como ausência de benefício.
+
+**"Um tutor que detecta emoção a partir de um rosto conhece o estado do estudante."** O afeto é inferido, não observado, e a inferência é mais fraca exatamente onde as apostas são mais altas. [[ecnuclaw-k12-personalized-companion|Zhou, Li e Zhang (2026)]] mantêm uma dimensão emocional em um perfil de estudante de cinco dimensões, mas a preenchem com dicionários de palavras-chave, de modo que um estudante que expressa frustração em palavras que o dicionário não contém simplesmente não é perfilado, e o perfil não foi validado contra o julgamento de especialistas. A captura facial acrescenta um fluxo de vídeo contínuo e uma exposição de privacidade que a inferência por texto não tem.
+
+**"Medições de emoção tomadas em momentos diferentes são intercambiáveis."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] constatam que o afeto ordenado mostra persistência de curto alcance e transições direcionais, e que os relatos capturados por sondagem, os auto-laços em torno de curiosidade e confusão, são uma mensuração diferente dos capturados espontaneamente, como frustração e surpresa. Mediar as duas em uma frequência resumida descarta a sequência que carrega o sinal.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Trate a empatia como um mecanismo de entrega, não como evidência de aprendizagem. Pareie qualquer ferramenta com consciência afetiva a uma verificação cognitiva que você consiga ver, como produtos de trabalho ou a saída de [[knowledge-tracing|rastreamento de conhecimento]], e não deixe a experiência sentida do estudante substituir a evidência diagnóstica.
+- Divulgue a inferência explicitamente. Os estudantes devem saber que um estado emocional está sendo estimado, a partir de quais entradas, e poder recusar a câmera sem perder o acesso à tutoria.
+- Fique atento ao estudante que relata que a ferramenta o "entende" e cujo trabalho independente não melhora. Essa combinação é a assinatura parassocial, não uma história de sucesso.
+
+**Para desenvolvedores**
+
+- Faça do afeto um sinal entre vários. Combiná-lo ao estado cognitivo e ao engajamento comportamental impede o sistema de reoptimizar uma lição em torno de uma expressão mal lida.
+- Dispare intervenções por trajetórias, e não por estimativas pontuais, ancorando na sequência de estados, já que persistência e transições direcionais são a parte informativa.
+- Adote por padrão um tratamento de sensores protetor da privacidade, e trate entrada facial ou de vídeo como um nível estritamente superior à inferência por texto, exigindo justificativa e consentimento próprios.
+- Não entregue uma camada afetiva de dicionário de palavras-chave como se fosse detecção. Se você não consegue validar o classificador contra o julgamento de especialistas, exponha-o como um sinalizador grosseiro em vez de rotular um estudante como "frustrado".
+
+**Para pesquisadores**
+
+- Relate a linha de base contra a qual sua taxa de vitória é medida, e afirme claramente que se trata de um julgamento comparativo. Depois meça o que o campo de fato precisa: transferência para contextos não adaptativos, retenção depois que o tutor é retirado, e se os ganhos se mantêm com o canal emocional desligado.
+- Valide perfis afetivos contra o julgamento de especialistas antes de usá-los como variáveis independentes.
 
 ## Conceitos conectados
 
@@ -95,3 +133,4 @@ A tutoria afetiva se cruza com [[hazra-safetutors-pedagogical-safety-2026|SafeTu
 - [[ecnuclaw-k12-personalized-companion]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
+- [[shastry-gray-empathy-offloading-2026]] — As pessoas deslocam a empatia quando acham que a IA pode oferecê-la (Shastry & Gray 2026)

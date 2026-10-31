@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: IA agêntica
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,17 +13,21 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-30T10:50:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **IA agêntica [[ai-education|na educação]]** — sistemas de IA que planejam, executam e adaptam autonomamente fluxos de trabalho de múltiplos passos para atingir objetivos de aprendizagem, indo além do perguntar e responder de turno único para atuar como colaboradores persistentes e orientados a objetivos: [[intelligent-tutoring|tutores de IA]] que andaimentam ao longo de interações estendidas, sistemas multiagente que orquestram desenhos instrucionais, e agentes que coregulam a aprendizagem. Essa mudança de paradigma, de uma ferramenta que responde a prompts para um colaborador ativo, carrega tanto promessa quanto risco: a IA agêntica pode personalizar e aprofundar a aprendizagem, mas também ameaça a [[agency|autonomia]], o [[cognitive-offloading|esforço cognitivo]] e o controle. A [[agentic-ai-education-scoping-review|revisão de escopo]], o [[tool-invariant-framework-agentic-ai|framework invariante a ferramentas]] e o artigo sobre [[agentic-ai-pedagogical-best-practice-2026|melhores práticas pedagógicas]] da base de conhecimento examinam essa tensão.
 
@@ -80,6 +84,8 @@ Um passo além de orquestrar alguns agentes especializados é o **ecossistema mu
 
 - **Agentes de LLM específicos de participantes para a resolução colaborativa de problemas.** Fang (2026) faz ajuste fino de agentes individuais de LLM sobre dados de diálogo de participantes reais para representar cada participante em simulações de resolução colaborativa de problemas, com seleção probabilística de falante e de códigos temáticos e memória por janela deslizante mais resumida. Validado com [[network-analysis|Análise de Redes Epistêmicas]], os diálogos simulados são estatisticamente indistinguíveis dos reais (distância ENA 0,17, p de permutação = 0,65) — uma demonstração de a IA agêntica reproduzir o discurso colaborativo autêntico.
 - **Tutoria multiagente socialmente inteligente.** Protótipos de tutoria multiagente socialmente inteligente, como o ASTRA, estudam como quem aprende coordena com a IA em díades, usando agentes Tutor e Facilitador diferenciados para estimular a coordenação e a participação equilibrada. A avaliação baseada em rastros do framework permite uma análise reproduzível da interação, do equilíbrio de participação e da verificação na programação introdutória.
+
+**Uma resposta organizacional: o estudante como membro participante, e não como receptor.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instanciam uma organização multiagente com participação humana em que agentes especializados mantêm um Programa de Capacidades revisável, ligando metas pessoais, atividades multimodais e avaliação em camadas, com um "Nó Humano" corrigível que carrega as próprias evidências e desafios de quem aprende para revisões posteriores. Contra a linha de base multiagente mais próxima, em 96 casos simulados de estudantes, a vantagem se concentrou no desenho da avaliação: 19,32 pontos a mais em Validade da Avaliação (IC 95% [17,55; 21,04]) e 5,89 em cobertura de capacidades, enquanto a personalização não se separou (1,35 ponto, intervalo cruzando zero). Em um estudo randomizado com 32 estudantes, o ganho de conhecimento em um teste objetivo de 50 pontos foi de 12,19 contra 5,61 pontos.
 
 ## A tensão central: automação versus aprendizagem
 
@@ -203,6 +209,8 @@ A IA agêntica não é nem uma panaceia nem um dano inevitável: seu valor depen
 - [[educational-policy-ai]]
 
 ## Artigos conectados
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agentes organizados em torno de um programa de capacidades revisável, com o estudante como membro
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomia, competência, relacionamento e presença social como as vias da IA agêntica para o engajamento (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, avaliação prazerosa e terceiro espaço

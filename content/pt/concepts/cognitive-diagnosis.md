@@ -1,19 +1,23 @@
 ---
 title: Diagnóstico Cognitivo
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -46,6 +50,7 @@ Enquanto o rastreamento de conhecimento tipicamente estima um domínio escalar a
 - **DINA bayesiano para trilhas de aprendizagem personalizadas:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng e Huang (2026)]] integram um modelo DINA bayesiano (treinado com o conjunto de dados EdNet, N=5.000) com a teoria de espaços de conhecimento e um algoritmo de caminho de remediação mais curto para gerar trilhas de aprendizagem personalizadas, e testam empiricamente o papel mediador da [[cognitive-offloading|carga cognitiva]] via transições de estado de Modelo Oculto de Markov (validadas em 120 estudantes) — abordando tanto o problema de convergência dirigido pela esparsidade dos modelos DINA tradicionais quanto o mecanismo psicológico não testado por trás da eficácia de trilhas personalizadas.
 - **Diagnóstico fundamentado em linguagem no lugar de embeddings de ID.** [[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]] substituem identificadores discretos de estudante, exercício e conceito por esquemas de conceito construídos por LLM e evidências fundamentadas no processo, calibrando o estado posterior de cada estudante a partir dos registros de resposta. Em três conjuntos de dados de plataformas de [[math-education|matemática]] de [[online-teaching-and-learning|plataforma]], o framework alcança 83,51% ACC / 85,37% AUC no XES3G5M e 87,16% ACC no MOOC, com o ganho concentrado exatamente onde os modelos clássicos de diagnóstico cognitivo degradam: conceitos novos (+4,60 ACC sobre KCD) e entradas ausentes na matriz Q (+4,52). Ablar a evidência estruturada colapsa a acurácia no MOOC de 87,16% para 78,95%, de modo que a melhora vem da estrutura derivada da linguagem, e não da escala do modelo. ([[process-grounded-language-cognitive-diagnosis-2026]])
 - **Tarefas culturalmente embutidas podem preceder a análise de IA.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] fizeram 178 estudantes do segundo ciclo do ensino fundamental na Indonésia completarem tarefas abertas contextualizadas culturalmente antes da análise de respostas por IA; os diagnósticos da IA concordaram com a avaliação de especialistas (ICC = 0,81), enquanto o embutimento cultural foi associado ao desempenho matemático simbólico (β = 0,42) e ao engajamento (β = 0,37).
+- **A configuração de estratégia pode ser diagnosticada, não apenas o estado de conhecimento.** Cinco dimensões estimadas a partir de 36.234 ações num jogo de gramática previram o sucesso seguinte com AUC 0,826, excluindo as contagens de erros atuais, e variaram dentro dos estudantes (ICC = 0,14) em vez de entre eles ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre et al. (2026)]]).
 
 ## Por que importa
 
@@ -62,6 +67,27 @@ O diagnóstico cognitivo está no coração da arquitetura de [[intelligent-tuto
 ## Conexões
 
 O diagnóstico cognitivo se conecta ao [[knowledge-tracing|rastreamento de conhecimento]], à [[student-modeling|modelagem do estudante]], à [[educational-measurement|medição educacional]] e à [[assessment|avaliação]]. Seus insights alimentam a [[intelligent-tutoring|tutoria inteligente]] e o [[adaptive-learning|aprendizado adaptativo]], e o trabalho da era dos LLMs o liga à identificação de concepções errôneas na [[intelligent-tutoring|Tutoria por IA]].
+
+## Ideias equivocadas comuns
+
+- **"O diagnóstico é uma capacidade já resolvida pelos modelos."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] supervisionou o raciocínio diagnóstico como uma de quatro capacidades em uma família aberta de 4B/9B/27B, e **o diagnóstico do estado de conhecimento continuou sendo a mais fraca** das quatro. O diagnóstico é a capacidade que resistiu ao treinamento que produziu as outras.
+- **"Os modelos conseguem simular erros de estudantes, então conseguem diagnosticá-los."** O gargalo é o inverso. Os modelos construíram uma solução em **95,2% dos traços de distratores** e simularam uma concepção errônea específica do Eedi com **acurácia de 0,92**, mas **fornecer a solução correta** — e não simular o erro — foi o que os limitou. Gerar uma resposta errada plausível é mais fácil do que reconhecer uma.
+- **"O diagnóstico exige um catálogo de concepções errôneas construído à mão."** Em **6.106 pares** de formalizações corretas e incorretas de lógica proposicional, um fluxo de trabalho descobriu **248 clusters de transformações que explicam 5.156 pares (84,44%)**, contra **4.370 (71,57%)** para os erros escolhidos à mão do conjunto de referência. A descoberta igualou ou superou a curadoria de especialistas e transferiu-se para a lógica modal — de modo que o catálogo é um ponto de partida, não um teto.
+- **"Um diagnóstico só é útil se nomeia uma concepção errônea."** Diagnosticar quais resultados de curso um aprendiz atingiu trata os resultados como os conceitos de conhecimento, fornecendo relações entre conceitos por meio de mapeamentos de afinidade validados por especialistas. Para programas baseados em resultados, essa é a unidade mais acionável, ainda que mais grosseira.
+
+## O que isso significa na prática
+
+**Para instrutores**
+
+- Trate o diagnóstico de um sistema como hipótese a verificar, não como veredito. O diagnóstico do estado de conhecimento foi a capacidade mais fraca numa família treinada para ele.
+- Pergunte se o diagnóstico nomeia um construto sobre o qual você consegue agir. Um diagnóstico em nível de resultado que mapeia para o seu programa costuma ser mais útil que um rótulo fino de concepção errônea.
+- Onde a sua disciplina tem regras, espere que a descoberta baseada em transformações encontre padrões de erro que você não antecipou; os 248 clusters descobertos são evidência de que os catálogos curados são incompletos.
+
+**Para desenvolvedores**
+
+- Instrumente as duas direções: reconhecer uma resposta errada e produzir a correta. O número de 95,2% de recuperação de solução sugere que a geração é a metade fácil e que o modo de falha está no reconhecimento.
+- Prefira descoberta a um catálogo estático onde a estrutura do domínio permitir, e relate a cobertura contra um conjunto de referência para que a comparação seja legível.
+- Não entregue uma pontuação diagnóstica sem declarar qual construto ela mede e como foi validada independentemente do sinal que a produziu.
 
 ## Conceitos conectados
 

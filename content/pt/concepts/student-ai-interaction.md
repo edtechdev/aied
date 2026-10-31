@@ -1,7 +1,7 @@
 ---
 title: Interação Estudante-IA
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **A interação estudante-IA** — os padrões, processos e trabalho cognitivo em como os aprendizes se engajam com sistemas de [[generative-ai|IA generativa]] durante a aprendizagem e a [[problem-solving|resolução de problemas]]. A [[research-methods-aied|pesquisa]] aqui caracteriza o que os estudantes pedem à IA, como prompts e diálogos evoluem, e como a qualidade da interação se relaciona com os [[learning-gains|resultados de aprendizagem]], a [[cognitive-offloading|descarga cognitiva]] e a [[agency|agência]].
 
@@ -76,9 +80,18 @@ Os prompts de autoria do professor são uma dessas alavancas, mas o rigor encena
 
 O não uso é ele mesmo um padrão de interação que a [[pedagogy|pedagogia]] precisa prever. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], estudando 85 [[teacher-education|professores em formação]] em três cursos onde o uso de GenAI na [[assessment|avaliação]] era explicitamente permitido, descobriram que 62,4% (53 de 85) recusaram usá-la de todo, muito abaixo dos 79–83% de adoção vistos em surveys comparáveis do Reino Unido e da Austrália, e que o uso dos adotantes era raso e corretivo em vez de generativo (revisão textual 43,8%, verificações de clareza 34,4%, geração de texto apenas 18,8%). Suas escolhas acompanharam o design da avaliação e a cultura institucional, e não a dificuldade técnica: 41,5% dos não adotantes temiam ser acusados injustamente de [[academic-integrity|plágio]], e nove de onze entrevistados leram a própria política permissiva como uma possível "armadilha". A lacuna entre 32 usuários relatados na survey e 28 autodeclarações mostra que a interação com IA *relatada* pelos estudantes é moldada pelas consequências avaliadas — uma ressalva de medição para as contas de análise de aprendizagem da interação estudante-IA.
 
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] documentam o que o diálogo aberto com IA generativa acrescenta na revisão por pares: estudantes que interrogaram o modelo em vez de aceitar sua primeira sugestão produziram feedback que os pares avaliaram como melhor, e relataram mais prazer na tarefa e menos ansiedade.
+
 ## Disciplina e engajamento cognitivo no chat estudante-IA
 
 - **Engajamento cognitivo associado à disciplina no chat estudante-IA.** Chang e Li (2026) analisam prompts de estudantes à IA ao longo de 116 cursos com um design within-person e entre disciplinas, mostrando que as conversas estudante-IA refletem engajamento cognitivo **associado à disciplina**, e não estilos de interação individuais fixos. Cerca de 62% dos prompts codificavam demanda cognitiva de ordem superior no geral, mas os perfis de nível de Bloom diferiam acentuadamente por disciplina: cursos de [[stem-education|STEM]] elicitaram prompts prevalentes em Aplicar (20,8%), cursos de línguas prevalentes em Entender (31,7%) e cursos de ciências sociais prevalentes em Criar (33,8%). Comparações pareadas within-person confirmaram que os mesmos estudantes produziam significativamente mais prompts de ordem superior em ciências sociais do que em cursos de STEM (n agrupado = 16, p < ,001), e a variação em nível de curso excedeu a variação em nível de estudante — um forte argumento de que os assistentes de ensino com IA deveriam ser projetados e avaliados com o contexto disciplinar em mente.
+- **Quanto os estudantes usam IA não previu como eles se sentiam a respeito.** Entre 819 estudantes, gênero, expertise em IA autorrelatada e frequência de uso não alcançaram significância em uma MANOVA (Wilks' Lambda 0,997, p = 0,551; 0,990, p = 0,295). Usuários intensos e leves daquela amostra tinham as mesmas opiniões ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
+
+## Ideias equivocadas comuns
+
+- **"As taxonomias de interação estão resolvidas."** **Ao longo de 46 categorizações de 33 estudos, rótulos similares nomeiam fenômenos diferentes**, e é por isso que a revisão propõe o *episódio de interação* como unidade. Um esquema de codificação emprestado de uma taxonomia pode estar medindo outro construto.
+- **"Os estudantes usam a IA como um tutor."** Entre **38 estudantes de graduação** que escreveram redações argumentativas sem supervisão, **76,32% usaram um padrão de turno único de perguntar-receber resposta-e-parar**, tipicamente colando o título da avaliação. O padrão dominante é recuperação de turno único, o que não é tutoria.
+- **"Mais uso de IA indica mais engajamento com o material."** Uma análise de **200 sessões de chat de coprogramação** constatou que **78,8% das interações estudante-GenAI rodavam sobre objetivos e estratégias que não visam o domínio**. O volume de interação mediu outra coisa que não a orientação para a aprendizagem, de modo que contagens de sessão são um proxy enganoso de engajamento.
 
 ## Conceitos conectados
 
@@ -97,6 +110,7 @@ O não uso é ele mesmo um padrão de interação que a [[pedagogy|pedagogia]] p
 
 ## Artigos conectados
 
+- [[ai-chatbots-emotional-support-human-connection-2025]] — Frequência de uso e expertise autorrelatada não previram nada em 819 estudantes
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": student teachers' non-adoption of GenAI in assessments (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]

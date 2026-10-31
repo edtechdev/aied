@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: "Aprendizagem autodirigida"
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,13 +10,17 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -55,6 +59,33 @@ Como a SDL enfatiza a direção iniciada por quem aprende, as intervenções par
 ## Pesquisa sobre andaimes de extração por IA para aprendizagem baseada em pesquisa
 
 - **A extração por IA como andaime para a aprendizagem baseada em pesquisa.** An e colegas (2026) desenham um sistema de extração de informação movido a IA que converte publicações de pesquisa em conjuntos de dados estruturados e rastreáveis para apoiar a conclusão de teses de graduação em [[stem-education|STEM]], posicionado como um **andaime epistêmico** que permite a inspeção de relações evidência–afirmação ao mesmo tempo em que reduz as demandas de tratamento de dados de baixo nível. Em um piloto [[mixed-methods-research|de métodos mistos]] com 20 estudantes ao longo de 80 documentos, os estudantes extraíram mais de 90% dos parâmetros-alvo, o tempo autorrelatado de revisão de literatura caiu ~65% e sua capacidade de identificar variáveis influentes subiu 50% — apoiando a ideia de que a [[generative-ai|IA]] pode reequilibrar a carga cognitiva rumo ao raciocínio de pesquisa autodirigido de ordem superior, em vez da sumarização de rotina.
+
+## Ideias equivocadas comuns
+
+**"Aprendizagem autodirigida e aprendizagem autorregulada são o mesmo construto."** Elas operam em escalas de tempo diferentes: a SRL diz respeito à regulação da aprendizagem no momento, enquanto a SDL diz respeito à responsabilidade abrangente ao longo do tempo — escolher o que aprender, fixar a meta e manter a direção por meses. Uma intervenção que melhora a regulação momento a momento não precisa produzir um aprendiz autodirigido, e um estudante pode ser autodirigido ao longo de um programa enquanto regula mal dentro de uma sessão.
+
+**"A IA facilita a aprendizagem autodirigida porque fornece estrutura."** Ela pode remover o exercício da habilidade. [[genai-thoughtless-use-self-directed-learning-2026|Zhao e Gu (2026)]] mostram que o **uso irrefletido de GenAI — adotar saídas sem avaliação crítica — prejudica significativamente a SDL**. Dirigir a própria aprendizagem é praticado tomando as decisões que a GenAI agora pode tomar por você, de modo que um assistente que sempre fornece direção a fornece no lugar da competência.
+
+**"O não uso da IA indica falta de acesso."** Entre os estudantes que não a usam, o motivo declarado é frequentemente uma escolha educacional positiva — querer fazer o trabalho eles mesmos —, e não uma barreira. Ler o não uso como déficit descreve mal uma posição que, na evidência sobre a [[student-experience|experiência do estudante]], é refletida.
+
+**"Autodireção significa trabalhar sozinho."** Significa ser dono da direção, o que pode ser exercido em um ambiente altamente apoiado. A característica distintiva é quem fixa e ajusta a meta, não se há ajuda disponível.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Distinga o que você está desenvolvendo: a regulação na sessão ou a apropriação ao longo do tempo. Elas exigem desenhos diferentes, e melhorar uma não produz a outra.
+- Proteja as decisões que constituem a autodireção — o que aprender, como julgar o progresso, quando mudar de rumo — mesmo onde a IA poderia tomá-las. Delegá-las remove a prática.
+- Ensine avaliação junto com o uso, já que a adoção irrefletida de saídas é o mecanismo documentado pelo qual a GenAI mina a SDL.
+
+**Para desenvolvedores**
+
+- Torne as decisões de quem aprende visíveis e revisáveis, em vez de defini-las por padrão. Um sistema que sempre fornece direção a fornece no lugar da competência que está sendo desenvolvida.
+- Construa pontos de verificação reflexiva em que quem aprende declara sua meta e sua evidência, para que a direção permaneça dele.
+
+**Para pesquisadores**
+
+- Relate qual construto uma intervenção visou; desfechos de SDL e de SRL não devem ser usados de forma intercambiável.
 
 ## Conceitos conectados
 

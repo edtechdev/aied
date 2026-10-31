@@ -1,7 +1,7 @@
 ---
 title: "Juízo avaliativo"
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Juízo avaliativo** — a capacidade de fazer julgamentos sólidos sobre a qualidade do próprio trabalho e do trabalho dos outros, contra critérios sobre os quais se pode raciocinar em vez de apenas recitar. Na era da [[generative-ai|IA generativa]], ele passou de atributo desejável de egresso a capacidade estruturante: quando uma ferramenta consegue produzir trabalho plausível acabado, o que distingue quem aprende com competência é a capacidade de avaliar aquela saída — julgar o que é bom, o que está errado, o que aceitar, o que rejeitar e por quê. Isso torna o juízo avaliativo um objeto legítimo de [[assessment|avaliação]] por direito próprio, e a alavanca prática para mover instituições da [[ai-detection|detecção]] rumo a um design de avaliação [[assessment-validity|centrado na validade]] e [[authentic-assessment|autêntico]].
 
@@ -36,6 +40,8 @@ ai_assist:
 ## Introdução
 
 Avaliações que pedem a estudantes que produzam trabalho pressupõem que eles consigam distinguir trabalho bom de trabalho ruim, primeiro no dos outros e por fim no seu. Essa presunção não é mais confiável: quando a [[generative-ai|IA generativa]] consegue gerar prosa, código e análise competentes sob demanda, a capacidade de *produzir* um produto é um sinal fraco de aprendizagem, enquanto a capacidade de *julgar* um produto é um sinal forte. O juízo avaliativo dá nome a essa capacidade, e a literatura de avaliação da base de conhecimento não para de chegar a ela ao perguntar o que permanece avaliável e vale a pena avaliar. Ele está onde [[feedback|feedback]], [[formative-assessment|avaliação formativa]] e [[self-regulated-learning|aprendizagem autorregulada]] se encontram, porque o julgamento se desenvolve comparando trabalho contra padrões e agindo sobre a diferença, e é ele que torna possível — em vez de apenas aspiracional — o [[student-engagement|engajamento]] [[critical-thinking|crítico]] genuíno de quem aprende com a saída da IA.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu e Abdi (2026)]] argumentam, a partir de uma revisão de escopo de doze estudos, que as notas de escrita atribuídas por IA reproduzem um construto estreito: elas acompanham características de superfície verificáveis e subponderam organização, coerência e argumentação, que são as dimensões das quais depende o julgamento da qualidade de uma escrita.
 
 ## O que é o construto
 
@@ -55,6 +61,7 @@ Quatro argumentos convergem.
 - **É a capacidade que governa o uso de IA.** Decidir se uma sugestão de IA merece ser aceita, adaptada ou rejeitada *é* juízo avaliativo aplicado à saída de máquina. Cursos que não conseguem torná-lo visível não conseguem distinguir uso responsável de substituição, e é por isso que estudiosos de [[academic-integrity|integridade]] tratam cada vez mais o uso crítico de IA como um resultado avaliável em vez de uma regra a ser policiada.
 - **É a alavanca da fiscalização para o design.** Onde o uso proibido não pode ser detectado, [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] nomeia o cultivo do juízo avaliativo entre as três vertentes de design que realocam instituições da [[ai-detection|fiscalização liderada pela detecção]] para a avaliação centrada na validade — porque onde a instituição não pode detectar, a capacidade que sobrevive à inspeção é se o estudante consegue prestar contas do trabalho e de sua qualidade.
 - **Ele converte a revelação de confissão em evidência.** Quando uma tarefa pede a estudantes que expliquem para que usaram a IA, quais sugestões aceitaram ou rejeitaram, e como o trabalho final reflete seu próprio julgamento, a [[ai-use-disclosure|declaração]] se torna uma demonstração de julgamento em vez de uma admissão a ser interpretada punitivamente — e é isso que reduz o [[academic-integrity|custo da honestidade]] que de outro modo empurra a revelação para a clandestinidade.
+- **O julgamento é cultivado por restrições compostas, não pela remoção delas.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] argumenta que restrições generativas — como um rascunho visual curto antes de um artefato final, ou um limite de três clipes de entrevista — marcam o ritmo do trabalho cognitivo e tornam o julgamento visível, porque as restrições criam os momentos em que a apreciação é praticada.
 
 Uma camada adicional diz respeito à *fonte* de um julgamento, não apenas ao seu conteúdo. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] dá a essa camada um vocabulário mais afiado: seus 13 estudantes sauditas de computação emitiram dois julgamentos independentes dentro de um único evento avaliativo — se o feedback era útil, e se sua fonte detinha autoridade para dar nota. Todos aceitaram o feedback baseado em rubrica do ChatGPT como claro e específico, ao mesmo tempo que reservavam esmagadoramente a nota para o instrutor ("Eu concordo com ele, mas com uma condição, que o professor revise o feedback"), sugerindo que o juízo avaliativo na avaliação mediada por IA precisa agora incluir raciocinar sobre a própria autoridade avaliativa, e não apenas sobre a qualidade do feedback recebido.
 
@@ -78,10 +85,14 @@ A literatura [[collaborative-learning|colaborativa]] e de avaliação da base de
 - **O julgamento da própria instituição carece dos critérios que ela pede aos estudantes.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] classificaram o valor probatório de 1.855 itens de evidência ao longo de 1.162 alegações de má conduta com IA generativa e concluíram que a qualidade da evidência não tinha relação confiável com os resultados dos casos, porque nenhuma etapa do procedimento fixava um limiar probatório mínimo ou exigia que os investigadores ponderassem o valor probatório antes de dar andamento a uma alegação — os comitês ponderavam evidência por julgamento profissional não estruturado. A saída de detectores foi a categoria mais fraca nesse corpus (saídas de detectores isoladas inteiramente baixas em credibilidade), e [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] mostram que o instrumento não pode estabelecer o fato que uma conclusão afirma — acurácia macro de 0,69 e 0,61 ao longo de 192 textos, falha quase total em escrita híbrida humano–IA, e uma preocupação de viés limítrofe para quem escreve em EFL —, e é por isso que a recomendação dos próprios autores é julgamento humano, [[educational-policy-ai|política]] mais clara e tarefas melhor especificadas em vez de vigilância. "Melhor especificadas" importa duas vezes: [[wright-transcription-not-generation-2026|Wright (2026)]] argumenta que regras escritas por identidade de plataforma em vez de por função são abrangentes em excesso por acidente definicional, sancionando um estudante que não fez a coisa que a regra foi desenhada para prevenir, de modo que o julgamento de quem avalia tem de ser aplicado ao que uma ferramenta fez, e não a qual plataforma foi usada. O julgamento exercido sem critérios compartilhados não pode ser ensinado, calibrado nem auditado — o problema de consistência que esta página relata para estudantes, chegando ao nível da instituição. O julgamento de quem avalia também carrega uma direção mensurável própria: cinco oficiais de admissão separando 50 redações de admissão humanas de 50 geradas por IA alcançaram AUC 0,70 (IC 95% [0,65, 0,75]), e suas classificações de qualidade caíam à medida que a percepção de probabilidade de IA subia, associação que sobreviveu ao ajuste por qualidade avaliada por máquina, proveniência real e características das pessoas candidatas (−0,109, p < 0,05). Como ninguém triou as submissões, esse julgamento sem auxílio era todo o mecanismo de fiscalização, e cada redação sinalizada carregava 1,5 pontos percentuais menos de probabilidade de admissão, 2,6 uma vez mantida constante a qualidade da redação ([[ai-written-admissions-essays-penalized-2026|Isley, Gaebler e Goel 2026]]).
 
 - **Proxies em nível de sala de aula para o julgamento estão sendo propostas.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]] acrescenta dois sinais comportamentais a uma sequência redesenha de tarefas: a *Taxa de Discernimento* UnBlooms™, a fração das saídas de IA que quem aprende interroga, desafia ou revisa em vez de aceitar, e a *Taxa de Aceitação na Primeira Passada*. Nenhuma das duas está validada — ambas são oferecidas como diagnósticos baratos por tarefa —, mas elas tornam o construto observável dentro da correção ordinária, onde uma taxa de discernimento próxima de zero ao longo de várias tarefas lê-se como sinal de design de tarefa em vez de déficit individual.
+- **O julgamento se registra quando está ligado à revisão, não apenas presente.** Em 67 professores em formação desenhando planos de aula com GenAI, a avaliação explícita era quase ausente no grupo de menor qualidade (0,67 vs 0,00); o que separou a qualidade foi um ciclo bidirecional de avaliação–revisão (CE→RE Z = 2,80, RE→CE Z = 2,50) e um auto-laço de revisão (RE→RE Z = 4,24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
+- **Os critérios dos instrutores podem ser externalizados revisando a saída da IA.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] inferiram regras de validação reutilizáveis a partir das edições de 16 instrutores sobre feedback de programação gerado por LLM e elevaram o alinhamento com sua intenção pedagógica de 57% para 91%, tornando critérios tácitos inspecionáveis em vez de deixá-los implícitos.
 
 ## Como o uso indevido desloca o julgamento
 
 O risco mais claro é o deslocamento, e ele está evidenciado na literatura de feedback, não apenas teorizado. Quando a ferramenta fornece a rubrica, o feedback e o monitoramento, a prática [[metacognition|metacognitiva]] e avaliativa de quem aprende é deslocada em vez de apoiada — a avaliação se torna uma performance de julgamento que o estudante nunca exerceu, o mesmo modo de falha do [[cognitive-offloading|descarregamento cognitivo]] expresso no registro da avaliação. O feedback direto de IA generativa no experimento multissítio empurrou exatamente para essa terceirização passiva. A pressão da nota a agrava: onde a autoavaliação ou a reflexão sobre o uso de IA é ela mesma pontuada, estudantes podem produzir a reflexão que a rubrica quer em vez do raciocínio, de modo que o julgamento genuíno exige tornar o exercício consequente — uma decisão que aparece no trabalho posterior, uma explicação oral, ou uma justificativa documentada que é ela mesma examinada.
+
+O deslocamento tem uma versão do lado do professor, e foi ela que levou vários professores de escrita a recusar terceirizar inteiramente a correção. Cinco dos vinte e quatro disseram que corrigir é como um professor chega a compreender seus estudantes, de modo que delegar isso custa essa compreensão, e não apenas as horas ([[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]]). Dezoito dos vinte e quatro trataram o julgamento humano como o que captura os erros da ferramenta e assume a responsabilidade por eles.
 
 ## Implicações para a prática
 
@@ -94,6 +105,12 @@ O risco mais claro é o deslocamento, e ele está evidenciado na literatura de f
 - **Combine com processo e orais.** Artefatos de processo e explicações orais curtas mostram o julgamento em ação onde um produto final não consegue, o que é uma razão central pela qual o redesenho da avaliação na era da IA depende deles.
 
 - **Torne o julgamento retido visível com sondagens de dívida de compreensão.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] define quatro obrigações transversais — explicar, verificar, modificar e prestar contas — que tornam a competência retida visível em todo nível de integração de IA, e propõe pedidos de mudança postergados, *walkthroughs* de código, testes desenhados de forma independente, localização de defeitos e *debugging* ao vivo como sondagens que comparam o que foi produzido com o que se pode demonstrar depois. Sob a capacidade [[agentic-ai|agêntica]], o alvo da avaliação passa à supervisão — contratos de tarefa, fronteiras de permissão, sandboxes, *harnesses* de avaliação, revisão de *diff*, reversão e responsabilização humana —, deslocando a avaliação da autoria visível rumo ao julgamento visível.
+
+## Ideias equivocadas comuns
+
+- **"O erro do avaliador é ruído aleatório."** **O julgamento do avaliador carrega uma direção mensurável própria**: cinco oficiais de admissão separando **50 redações de admissão humanas de 50 de IA** alcançaram **AUC 0,70**, ou seja, conseguiam distinguir as fontes apenas fracamente — e, como ninguém triava as submissões, esse **julgamento sem apoio era o mecanismo de fiscalização inteiro**, com cada redação sinalizada carregando **1,5 ponto percentual menos de probabilidade de admissão**. Um sinal fraco se tornou uma penalidade real.
+- **"Revisão por pares e revisão por IA são substitutas."** O modelo PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **combina revisão por pares com revisão por IA** para estruturar a calibração. Combiná-las é o desenho, o que implica que nenhuma das duas, isolada, fornece essa estrutura.
+- **"A qualidade do julgamento é uma propriedade de quem julga."** O achado das admissões localiza o problema no arranjo — um julgamento não validado aplicado com consequência e sem etapa de triagem —, e não na capacidade dos indivíduos.
 
 ## Conceitos conectados
 
@@ -115,6 +132,8 @@ O risco mais claro é o deslocamento, e ele está evidenciado na literatura de f
 - [[higher-ed]]
 
 ## Artigos conectados
+- [[elkington-human-centred-assessment-value-2026]] — Avaliação humanocentrada, assemblagens e restrições generativas (Elkington 2026)
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Por que professores de escrita recusam terceirizar a correção: é assim que eles conhecem seus estudantes
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus feedback de pares como terrenos de treinamento para diferentes dimensões do juízo avaliativo
 
 - [[ai-internal-feedback-evaluative-judgments]] — Como o feedback interno apoiado por IA desenvolve juízos avaliativos, e onde o raciocínio permanece raso
@@ -139,4 +158,6 @@ O risco mais claro é o deslocamento, e ele está evidenciado na literatura de f
 - [[authentic-assessments-generative-ai-pilot-2026]] — Projetando avaliações autênticas com IA generativa: um estudo piloto de Assessment Authentifire no ensino superior
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — o Agency Check (credível, relevante, aceitável, matizado) que estrutura cada interação com IA
 
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — O julgamento separou a qualidade apenas quando ligado à revisão (Z = 2,80 e 2,50)
+- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — As revisões dos instrutores se tornaram critérios de validação reutilizáveis (Tang et al. 2026)
 - [[judgment-centred-software-engineering-education-2026]] — Uma revisão e um framework pós-hype para educação em engenharia de software aumentada por IA

@@ -1,7 +1,7 @@
 ---
 title: Sistemas de recomendação e trajetórias de aprendizagem
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -84,6 +88,16 @@ As três páginas de conceito adjacentes cobrem terreno adjacente e deveriam ser
 A base de evidências tem uma forma consistente: métricas fortes de ranqueamento offline, evidência fraca sobre aprendizagem. Ambos os estudos de recomendação acima são avaliados em registros históricos de interação e o dizem, e os autores de CF–KG pedem explicitamente avaliações de professores, estudos com quem aprende e experimentos baseados em resultados. O viés de popularidade sobreviveu a um objetivo de treinamento consciente de equidade em um sistema, de modo que o campo ainda não consegue apontar uma correção de reranqueamento ou de regularização que mude a exposição de forma confiável, e as auditorias de equidade permanecem limitadas pelo que os registros de LMS contêm. O início frio é abordado arquiteturalmente, por meio de estrutura semântica, mas não testado em usuários genuinamente novos em implantação ao vivo. A eficiência das trajetórias está melhor evidenciada, mas os números de eficiência ainda repousam sobre um estudo e uma família de algoritmos, e uma trajetória mais curta não é automaticamente melhor se remove a [[desirable-difficulties|dificuldade produtiva]] de que quem aprende precisa. O trabalho formal de otimização de trajetórias afia o ponto nas duas direções: garantir um problema difícil diz pouco sobre um corpus particular, já que um escalador de morros alcançou o topo da rubrica de [[retrieval-spacing-interleaving|intercalação]] em todo perfil real, apesar das provas de NP-completude, e uma trajetória pontuada 3,54 em uma rubrica derivada da teoria ainda é uma trajetória que ninguém testou com quem aprende, de modo que a qualidade da rubrica é um proxy voltado ao designer para a evidência de resultado, e não um substituto dela. O vocabulário também é instável: [[ikram-ai-personalized-learning-review-2026|Ikram e colegas (2026)]], em uma revisão [[meta-analysis-systematic-review|PRISMA]] de 31 artigos indexados no Scopus (2013–2025), relatam efeitos cognitivos médios a grandes (g = 0,50–0,70) para sistemas adaptativos habilitados por IA, fortemente moderados pela qualidade da implementação e pelo [[research-methods-aied|desenho do estudo]].
 
 A mesma literatura começou a propor remédios para o estreitamento, embora ainda não a testá-los. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem, Zaoui Seghroucheni e Ziti (2026)]] agrupam 14.003 registros de estudantes sobre 12 insumos comportamentais, psicológicos e ambientais autorrelatados em seis perfis com K-Means++ e forte separação (Silhouette 0,62; η² = 0,770 na nota final, com uma lacuna média de 40,17 pontos na nota de prova entre os perfis mais alto e mais baixo), e depois mapeiam os perfis para objetos de aprendizagem por meio de uma pontuação de afinidade combinada com uma matriz de mapeamento Felder-Silverman e um termo de regularização de diversidade (λ = 0,30) cujo propósito explícito é impedir que um recomendador colapse no que um perfil já prefere. O desenho é a contribuição, e a evidência não é: a camada de recomendação é conceitual, sem implantação ou medida de resultado relatada, e os autores declaram que os insumos do agrupamento são proxies autorrelatados, e não rastros de interação de LMS. É uma resposta candidata à lacuna de regularização que esta página observa, ainda à espera da validação que a página diz que o campo não tem.
+
+## Ideias equivocadas comuns
+
+**"Uma recomendação com métrica de acurácia mais alta é uma trajetória de aprendizagem melhor."** Acurácia de ranqueamento e validade instrucional são afirmações distintas. No subconjunto em inglês do conjunto de dados MARS (**4.800 usuários, 14.200 recursos, 132.000 interações, esparsidade 0,9981**) um sistema alcançou NDCG 0,625 e HR 0,751, cerca de **7 a 8%** acima da melhor linha de base neural — uma melhoria em prever com o que quem aprende se envolveria, o que não é o mesmo que aquilo que o ensinaria.
+
+**"Pré-requisitos podem ser tratados como uma relação de similaridade simétrica."** Não podem: as relações de pré-requisito são **direcionalmente assimétricas**, e um modelo que captura "estes tópicos se relacionam" não capturou nem a direção nem a ordenação. É por isso que o sequenciamento de pré-requisitos é um problema distinto da recomendação.
+
+**"Dados esparsos são um incômodo técnico."** Nos níveis de esparsidade desta literatura (0,9981) o sistema quase não vê nada, o que torna o início frio e o viés de popularidade estruturais, e não corrigíveis por ajuste de hiperparâmetros. Um recomendador treinado nesse sinal vai expor sistematicamente o que já é popular, e quem aprende de forma discreta ou incomum é justamente quem ele não consegue ver.
+
+**"A explicabilidade é um recurso de relatório."** Se um professor ou quem aprende consegue auditar uma recomendação é uma condição de legitimidade: uma trajetória que o estudante não pode examinar é uma trajetória que ele não pode contestar, o que é um problema de governança antes de ser um problema de interface.
 
 ## Conceitos conectados
 

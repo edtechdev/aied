@@ -6,19 +6,23 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-25T21:20:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Aprendizagem para o domínio** — um framework [[pedagogy|pedagógico]], formalizado por Benjamin Bloom, em que os [[learners|estudantes]] avançam apenas depois de demonstrar um limiar definido de competência em cada unidade, em vez de progredirem em um cronograma fixo de turma. Ele repousa sobre a premissa de que a maioria dos estudantes pode atingir o domínio, dado tempo suficiente, feedback e instrução ajustados a seu estado atual. A tutoria com IA e os sistemas adaptativos estão cada vez mais operacionalizando esse modelo ao modelar continuamente o conhecimento do estudante, selecionar tarefas e sustentar a prática até que a competência seja demonstrada.
 
@@ -54,7 +58,19 @@ O domínio também depende da retenção durável, e não meramente de um desemp
 
 Por fim, a evidência alerta contra pressupor que o apoio gerado por IA é uniformemente benéfico. Em um estudo multi[[governance|institucional]] de traços animados gerados por IA para programadores novatos, os benefícios foram dependentes do contexto e de curto prazo, e estudantes de [[student-engagement|engajamento]] médio experimentaram um decréscimo de desempenho atribuído a custos de coordenação — um efeito estilo reversão da expertise que ressalta a necessidade de personalizar o apoio ao estado atual do estudante em vez de aplicar a ferramenta de forma indiscriminada. Da mesma forma, um continuum de desenvolvimento do [[ai-literacy|letramento em IA]] no [[higher-ed|ensino superior]] posiciona o domínio não como meramente adotar ferramentas de IA com fluência, mas como progredir por estágios de uso informado e crítico, cada um com suas próprias estratégias de [[formative-assessment|avaliação formativa]]. Juntos, esses achados enquadram a aprendizagem para o domínio habilitada por IA como um sistema que precisa ser calibrado para estudantes individuais, sustentavelmente espaçado e avaliado quanto à competência genuína, e não quanto ao produto fluente.
 
+- **A aprendizagem para o domínio com controle compartilhado é tão eficiente quanto a estratégia de seleção de tarefas de quem aprende.** Um estudo de simulação (1.000 estudantes simulados por execução, com parâmetros de AFM e BKT ajustados a logs reais do MathTutor e do DataShop) comparou nove estratégias de seleção de tarefas. A eficiência varia numa ordem de magnitude: a estratégia avessa ao risco "Minimizar a Pior Perda" — escolher a habilidade cuja pior perda de domínio é a menor — produz 30,28x de sobreprática em resolução de equações (28,93x em interpretação de gráficos), contra 1,73 +/- 0,38 em média para as outras estratégias. Restrições direcionadas do sistema a resgatam cirurgicamente: restrições de seleção de tarefas cortam a sobreprática para 12,88/14,46x, e um viés de seleção de problemas de "Preferir Mais Difícil" a corta para 1,98x (d de Cohen = 1,86) — enquanto estratégias já eficientes não são afetadas. A implicação de desenho: as restrições devem ser conscientes da estratégia, protegendo autorreguladores patológicos sem taxar os bons, e o redesenho guiado por simulação evita expor estudantes a 30x de sobreprática para descobrir a solução. ([[noh-simulating-task-selection-2026]])
+
 A avaliação baseada em padrões é a contraparte avaliativa da aprendizagem para o domínio, e [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] a identificam entre cinco práticas inovadoras alinhadas à "avaliação para a aprendizagem" que educadores do ensino superior poderiam adotar — mas a constatam praticamente ausente do discurso da educação em gestão. Eles atribuem isso a barreiras normativas: a atribuição de notas por curva referenciada à norma, a sinalização externa (rankings, estágios, credenciamento) e a mentalidade instrumental dos estudantes resistem todos a abordagens de domínio sem notas. A recomendação deles é a experimentação incremental — por exemplo, introduzir rubricas baseadas em padrões para uma única tarefa antes de escalar —, apoiada por coordenação no nível do programa e evidência documentada de Scholarship of [[teacher-role|Teaching]] and Learning.
+
+## Ideias equivocadas comuns
+
+**"Um limiar de domínio é uma propriedade objetiva de quem aprende."** O limiar é uma propriedade da *regra* usada para atualizá-lo. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] executou **quatro regras de atualização sobre sequências de eventos idênticas** do conjunto de dados ASSISTments, e as regras discordam sobre quem está pronto. O domínio é, portanto, uma decisão registrada em um número, e não um fato descoberto sobre um estudante, e a regra deveria ser tratada como uma política declarada, e não como um detalhe de implementação.
+
+**"Se o sistema diz dominado, o estudante está pronto para avançar."** Apenas em relação à regra de atualização em vigor. Onde uma regra credita trabalho assistido, "dominado" pode descrever um estudante que teve sucesso com apoio e não de forma independente — a mesma divergência entre desempenho assistido e capacidade sem auxílio que a literatura sobre [[learning-gains|ganhos de aprendizagem]] documenta.
+
+**"A aprendizagem para o domínio é a pedagogia que a IA finalmente torna possível."** Sua mecânica é consideravelmente anterior à IA — Bloom formalizou o framework há décadas — e a IA o operacionaliza automatizando as decisões de avaliação e de ritmo, e não realizando um desenho antes impossível. Esse reenquadramento importa porque a automação herda a escolha da regra, e é na regra que mora o julgamento.
+
+**"Uma avaliação mais frequente sob domínio torna o limiar mais confiável."** A frequência melhora a estimativa e não corrige uma regra mal especificada. Recalcular o domínio com mais frequência a partir de eventos que incluem trabalho assistido converge mais rápido para a mesma resposta errada.
 
 ## Conceitos conectados
 
@@ -74,5 +90,4 @@ A avaliação baseada em padrões é a contraparte avaliativa da aprendizagem pa
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Creditar trabalho assistido infla o domínio: qual regra de evidência decide quem é declarado dominado (Srivastava 2026)
 
-- **Shared-control mastery learning is only as efficient as the learner's task-selection strategy.** A simulation study (1,000 simulated learners per run, AFM and BKT parameters fit to real MathTutor and DataShop logs) compared nine task-selection strategies. Efficiency varies by an order of magnitude: the risk-averse "Minimize Worst Case Loss" strategy — picking the skill whose worst-case mastery loss is smallest — produces 30.28x overpractice in equation-solving (28.93x in graph-interpretation), against 1.73 +/- 0.38 on average for the other strategies. Targeted system constraints rescue it surgically: task-selection constraints cut overpractice to 12.88/14.46x, and a problem-selection "Prefer Harder" bias cuts it to 1.98x (Cohen's d = 1.86) — while already-efficient strategies are unaffected. The design implication: constraints should be strategy-aware, protecting pathological self-regulators without taxing good ones, and simulation-first redesign avoids exposing students to 30x overpractice to discover the fix. ([[noh-simulating-task-selection-2026]])
-- [[noh-simulating-task-selection-2026]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
+- [[noh-simulating-task-selection-2026]] — Simulando as estratégias de seleção de tarefas dos estudantes e as restrições do sistema na aprendizagem para o domínio (Noh et al. 2026)

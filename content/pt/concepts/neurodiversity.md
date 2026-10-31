@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversidade"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,13 +9,17 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -65,6 +69,7 @@ O lado do risco tem sua própria literatura. [[seung-basham-cognitive-offloading
 ## Cautelas de desenho
 
 - **O apoio condicionado a diagnóstico exclui quem ele não nomeia.** A crítica da revisão de escopo aplica-se diretamente a como as funcionalidades de IA são implantadas: se uma funcionalidade é destravada por uma carta de acomodação, quem tem diferenças funcionais, mas nenhum diagnóstico, nunca a vê.
+- **Processos dirigidos por detectores podem deter o uso legítimo de acomodações.** Quando uma tecnologia de linguagem funciona como acomodação eficaz para quem aprende de forma neurodivergente, uma proibição generalizada ou um processo dirigido por detectores que desencoraja seu uso legítimo levanta considerações de igualdade — o caso de má conduta anulado que a literatura sobre [[ai-detection|detecção]] documenta envolvia um estudante em um programa de apoio ao espectro autista ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Ferramentas podem excluir epistemicamente, e não apenas de forma ruim.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argumenta que dados de treinamento anglófonos e ocidentalocêntricos marginalizam modos de conhecer não hegemônicos, e coloca a situação de pessoas com deficiência no centro dessa crítica — um aviso de que uma IA "inclusiva" ainda pode codificar cujo conhecimento conta.
 - **Sinais comportamentais são lidos por sistemas que não conhecem quem aprende.** A interpretação de [[student-engagement|engajamento]], dificuldade ou atenção em [[learning-analytics|analytics de aprendizagem]] e [[student-modeling|modelagem do estudante]] presume um padrão normativo de resposta; ver [[differential-effects-across-learner-groups|Efeitos diferenciais entre grupos de estudantes]] para a evidência de justiça sobre essa presunção.
 - **A dependência é um desfecho de desenho, não uma falha de quem aprende.** Dada a via de dependência acima, a pergunta a fazer a qualquer funcionalidade de IA é se ela substitui o processo de ordem superior que a tarefa existe para construir — o ponto que Seung e Basham fazem para as dificuldades de aprendizagem.
@@ -79,6 +84,12 @@ O lado do risco tem sua própria literatura. [[seung-basham-cognitive-offloading
 ## Conexões
 
 A neurodiversidade se conecta à [[special-education|educação especial]], à [[inclusive-learning|aprendizagem inclusiva]], ao [[universal-design-for-learning|Desenho Universal para a Aprendizagem]] e à [[equity-in-ai-education|equidade na educação com IA]]. Ela informa tanto como a IA é implantada para a [[student-experience|experiência dos estudantes]] quanto como avaliações e programas de letramento são desenhados para serem justos ao longo da variabilidade cognitiva. Para como esses achados se situam ao lado de outros grupos de quem aprende — língua, gênero, status socioeconômico, geografia —, ver [[differential-effects-across-learner-groups|Efeitos diferenciais entre grupos de estudantes]].
+
+## Ideias equivocadas comuns
+
+- **"A pesquisa em neurodiversidade é um canto nichado da AIED."** O campo se **reorganizou em torno da [[generative-ai|IA generativa]] — 15 dos 40 estudos** —, com formatos imersivos em segundo lugar, com 11. A literatura se moveu com a tecnologia, em vez de se acumular em torno de questões estáveis.
+- **"Mais IA para dislexia significa melhor apoio."** [[dabaghi-ai-dyslexia-education-review-2026|A revisão interdisciplinar da IA para dislexia (Dabaghi, D'Urso e Sciarrone, 2026)]] cobre **72 estudos entre 2018 e 2024** e constata que a IA é usada em uma ampla variedade de finalidades. A amplitude de aplicação não é evidência de eficácia para nenhuma delas.
+- **"Acomodações são o enquadramento certo para quem aprende de forma neurodivergente."** [[neurodivergent-computing-students|Uma pesquisa com 24 estudantes de computação neurodivergentes e 20 colegas neurotípicos]], com quatro entrevistas em profundidade, encontrou necessidades que são **requisitos gerais de desenho** — tarefas estruturadas, equipes pequenas e consistentes, papéis explícitos —, e não ajustes individuais concedidos depois de um diagnóstico.
 
 ## Conceitos conectados
 
@@ -106,3 +117,4 @@ A neurodiversidade se conecta à [[special-education|educação especial]], à [
 - [[genai-minoritized-knowledges-disability]] — IA generativa e a marginalização de saberes minoritizados
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estatísticos táteis para acessibilidade
 - [[ai-learning-tools-engineering-education-needs]] — Desenhando ferramentas de aprendizagem com IA sensíveis a necessidades e atenção
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Processos dirigidos por detectores podem deter o uso legítimo de acomodações

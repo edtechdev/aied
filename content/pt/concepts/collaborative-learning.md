@@ -1,7 +1,7 @@
 ---
 title: "Aprendizagem colaborativa"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T15:40:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,13 +11,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-07T15:40:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,8 @@ O endosso do facilitador é a alavanca observada mais forte sobre se os estudant
 
 O único contraste metanalítico disponível para o trabalho colaborativo apoiado por IA está dentro das intervenções de PBL/PjBL apoiadas por IA generativa, nas quais a colaboração entre pares agrupada ficou em g = 0,885 contra g = 0,416 para o trabalho individual, mas a diferença atingiu apenas uma tendência marginal (QM = 3,675, p = ,055) e o lado do trabalho individual repousa sobre dois estudos — portanto a evidência agrupada de que a colaboração supera trabalhar sozinho sob IA generativa é sugestiva, e não estabelecida ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. 2026]]).
 
+O mapeamento em nível de campo chega à mesma conclusão pela direção oposta: uma análise BERTopic de 1.048 publicações sobre IA na aprendizagem on-line de 2010 a 2023 constatou que o trabalho de orientação social sobre aprendizagem colaborativa apoiada por IA e desenvolvimento de comunidade nunca emergiu como tópico dominante, o que os autores atribuem a um corpus centrado em [[learning-analytics|analítica]] de nível individual ([[chen-bertopic-ai-online-learning-research-topics-2026|Chen et al. (2026)]]).
+
 Uma revisão de escopo de 18 estudos mapeia a mesma troca ao longo do trabalho em grupo: a IA generativa apoiou o desenvolvimento de conhecimento, a geração de ideias e a eficiência da comunicação, ao mesmo tempo em que reduziu a demanda por interação entre pares, negociação e construção coletiva de sentido, e evidência randomizada encontrou mais sugestões inovadoras da IA sem ganho significativo na inovatividade geral dos participantes ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei e Perkins (2026)]]).
 
 **O desenho de papéis é uma alavanca sobre a qualidade, não o volume, da construção colaborativa de conhecimento.** [[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]] atribuíram papéis rotativos de moderador, analista e argumentador a 58 [[higher-ed|estudantes de pós-graduação]] e seu parceiro de IA em 16 grupos, e concluíram que a estrutura elevou o *conteúdo* dos mapas mentais de grupo quase uma faixa SOLO inteira (M = 3,65 para 4,59, z = 3,771, p < 0,001) enquanto as contagens de nós e ramos permaneceram estáveis — organização em vez de cobertura — ao custo de uma elevação moderada da [[cognitive-offloading|carga cognitiva]] colaborativa (p = 0,023). A [[network-analysis|análise sequencial lag]] acrescentou uma autotransição de avaliação e um caminho de conflito para defesa que a ferramenta sozinha não havia produzido, posicionando a [[human-ai-collaboration|colaboração humano–IA]] como um problema de desenho, e não de ferramenta.
@@ -73,9 +79,12 @@ Uma revisão de escopo de 18 estudos mapeia a mesma troca ao longo do trabalho e
 
 **Estruturas colaborativas para a educação em IA.** [[academic-league-of-ai-2026|A Liga Acadêmica de IA]] organiza a educação em IA por meio de [[governance|governança]] democrática dos estudantes e equipes de projeto, incorporando [[active-learning|aprendizagem ativa]] e [[project-based-learning|aprendizagem baseada em projetos]] em uma estrutura colaborativa e conectada à comunidade.
 
+**O que torna uma IA reconhecível como par, e não como tutor.** [[lin-ai-peer-collaborative-mathematics-2026|Lin et al. (2026)]] fizeram sete especialistas de domínio trabalharem com um agente de persona Big Five cuja postura motivacional mudava ao longo da premeditação, do desempenho e da autorreflexão enquanto resolviam equações quadráticas. Os participantes julgaram o agente pelo seu comportamento social, e não pela sua matemática: um espaço sem julgamento, raciocínio tentativo, imperfeição apropriada e respeito ao ritmo de quem aprende foram lidos como de par, enquanto concordância cega e instrução excessiva o empurravam de volta para tutor. Os autores também relatam uma tensão que vale manter — parecença de par e utilidade de par nem sempre coincidiram —, que é o risco de longa data da própria colaboração entre pares, o de que pares confirmem os erros uns dos outros.
+
 ### O framework ICAP: a colaboração como modo de engajamento mais alto
 
 A aprendizagem colaborativa ocupa o topo do [[icap-framework|framework ICAP]] (Interativo–Construtivo–Ativo–Passivo): o modo *interativo* — co-construir significado por meio do diálogo, defender uma posição ou resolver em conjunto — produz a mudança de conhecimento mais profunda na taxonomia de Chi. Isso torna o ICAP tanto uma justificativa para pedagogias colaborativas quanto uma restrição de desenho sobre a IA. Uma IA que medeia a discussão (como [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] ou [[golrang-propact-pair-programming-2026|ProPACT]] fazem) é valiosa precisamente quando sustenta o engajamento *interativo*; uma IA que responde pelo grupo ou ameniza o conflito cognitivo pode rebaixar a colaboração a um mero modo *ativo* ou *passivo*. A anotação baseada no ICAP (ver [[icap-cognitive-engagement-llm-agents|medição ICAP estendida do diálogo colaborativo]]) e a pesquisa sobre o momento da facilitação tratam ambas a qualidade do discurso interativo como o resultado de interesse, fundamentando a aprendizagem colaborativa no [[student-engagement|engajamento dos estudantes]] e na hierarquia ICAP.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
+- **A IA generativa pode ocupar a cadeira de moderador, e não a de tutor.** Chen et al. (2026) conduziram um quase-experimento de 16 semanas com 64 graduandos em que ambas as condições tinham um agente de IA e uma plataforma estruturada, e apenas o andaime de regulação diferia: um agente SSRL adaptativo contra planilhas digitais estáticas ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). O grupo adaptativo mostrou maior igualdade de participação, mas não maior intensidade — a assinatura de redistribuição, e não de mais fala.
 
 ## Orientação prática
 
@@ -94,7 +103,14 @@ A aprendizagem colaborativa ocupa o topo do [[icap-framework|framework ICAP]] (I
 
 - **O lado social mostra ruptura sem um ganho compensatório.** Ao longo de cinco processos de colaboração, um consenso de 30 especialistas chegou apenas à vulnerabilidade, com avaliações de aprimoramento abaixo do limiar: Conexão Social (3,80 contra aprimoramento 1,90), Desenvolvimento Socioemocional (3,60 contra 2,00), Aprendizagem Social, Aprendizagem Colaborativa e Senso de Pertencimento (todas 3,30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). O relatório trata a assimetria como alvo de desenho, já que a resolução colaborativa de problemas está ancorada a um produto compartilhado, enquanto a aprendizagem colaborativa não tem referente visível e pode se desgastar sem ser detectada.
 
+## Ideias equivocadas comuns
+
+- **"Dar IA aos grupos significa mais colaboração."** Uma revisão de escopo de **18 estudos** mapeia uma troca ao longo do trabalho em grupo: a IA generativa apoiou o **desenvolvimento de conhecimento, a geração de ideias e a eficiência da comunicação** enquanto também trazia um custo relacional nas mesmas intervenções. O ganho de eficiência e o custo relacional chegam juntos.
+- **"A aprendizagem colaborativa apoiada por IA tem respaldo metanalítico."** O **único** contraste metanalítico disponível para o trabalho colaborativo apoiado por IA fica **dentro** de intervenções de PBL/PjBL apoiadas por IA generativa, em vez de ser estimado diretamente, de modo que é um componente de um efeito mais amplo, e não uma medida da colaboração.
+- **"Um parceiro LLM preserva o raciocínio do próprio grupo."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash e Connell Pensky (2025)]] testaram isso na escala de sala de aula com estudantes de ciências sociais introdutórias, precisamente porque a preservação é uma questão em aberto, e não uma suposição.
+
 ## Conceitos conectados
+
 - [[pedagogical-patterns]] — Colaboração compartilhada com IA roteirizada e seus desenhos de papel testados
 - [[pedagogical-partnerships]] — Parcerias pedagógicas
 - [[group-work]] — Trabalho em grupo
@@ -122,6 +138,7 @@ A aprendizagem colaborativa ocupa o topo do [[icap-framework|framework ICAP]] (I
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação em IA
 
 ## Artigos conectados
+- [[lin-ai-peer-collaborative-mathematics-2026]] — O que faz um agente LLM ser lido como par: segurança, raciocínio tentativo, imperfeição apropriada
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um consenso de 30 especialistas encontra risco social unilateral: processos de colaboração vulneráveis, sem caminho de aprimoramento
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Aprendizagem baseada em problemas e em projetos como frameworks promissores para a educação apoiada por IA generativa: evidência emergente de uma revisão sistemática e metanálise de três níveis
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Agência emergente de quem aprende na colaboração implícita humano–IA: personas de apoio vs. contrárias
@@ -148,3 +165,4 @@ A aprendizagem colaborativa ocupa o topo do [[icap-framework|framework ICAP]] (I
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — Desenho de aprendizagem orientado por resumos gerados por IA em fóruns de discussão online
 - [[chen-zou-genai-group-assessment-agency-2026]] — A IA generativa como infraestrutura de coordenação em grupos de estudantes: uso intensificado, contido e não realizado
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de treinamento em ética: facilitando a educação em ética baseada em grupos com dramatização e discussão para reflexão e exploração éticas
+- [[chen-bertopic-ai-online-learning-research-topics-2026]] — O trabalho socialmente orientado sobre colaboração com IA nunca se tornou tópico dominante em 1.048 publicações

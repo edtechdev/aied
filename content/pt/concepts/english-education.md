@@ -1,7 +1,7 @@
 ---
 title: "Ensino de inglês (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -83,6 +87,8 @@ Muitos artigos de educação em escrita são inglês-primeiro (por exemplo, [[ma
 
 A dominância do inglês na IA é uma característica definidora desta vertente. Como os modelos são mais fortes em inglês e especificamente no inglês acadêmico padrão, o ensino de inglês se beneficia desproporcionalmente (andaimes poderosos para EAP) e carrega riscos distintivos (viés monolíngue, discriminação contra variedades do inglês e contra quem escreve em contexto multilíngue). A pesquisa aqui se conecta a [[equity-in-ai-education|equidade]], [[bias-mitigation|mitigação de viés]], [[automated-assessment|avaliação automatizada]], [[ai-feedback-quality|qualidade do feedback de IA]] e [[academic-integrity|integridade acadêmica]].
 
+Uma síntese baseada na Scopus de 54 estudos de EFL situa as [[limitations-in-aied-research|limitações]] mais relatadas do campo na autonomia de quem aprende: [[cognitive-offloading|dependência excessiva]] da IA em 27 estudos (50%) e redução do [[critical-thinking|pensamento crítico]] em 25 (46%), contra resultados gerados por IA não confiáveis em 22 (41%) como o principal problema técnico ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Implicações para instrutores de inglês / EAP / EFL-ESL
 
 - **Explore deliberadamente a força da IA para o inglês acadêmico.** Como os modelos são mais fortes em inglês e no inglês acadêmico padrão, instrutores de EAP podem empregar IA para escrita baseada em gêneros, diferenciação de materiais de leitura ([[genai-differentiated-eap-reading-materials-2026|materiais EAP]]) e feedback de revisão — mas devem enquadrar a IA como parceira de rascunho/feedback, não como um motor de respostas.
@@ -93,6 +99,13 @@ A dominância do inglês na IA é uma característica definidora desta vertente.
 - **Diferencie por proficiência e necessidade.** A [[ai-vs-human-assessment-efl-tpck-2026|avaliação em EFL]] e a pesquisa sobre tutoria adaptativa sustentam ajustar o apoio e a avaliação da IA ao nível de quem aprende, em vez de adotar uma abordagem única.
 
 - **Pondere a tecnologia rumo à produção.** Uma metanálise de 33 estudos de TEFL encontrou um efeito geral de pequeno a moderado (g = 0,38, reduzido para 0,28 pelo trim-and-fill) que crescia com o nível educacional e favorecia as competências produtivas — fala e escrita — sobre as receptivas ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## Ideias equivocadas comuns
+
+- **"Em EFL, a IA ameaça principalmente a cola."** A [[limitations-in-aied-research|limitação]] mais relatada pelo próprio campo é a **autonomia de quem aprende**, aparecendo como [[cognitive-offloading|dependência excessiva]] em **27** de uma síntese de **54 estudos** baseada na Scopus. O custo documentado é a dependência, e não a desonestidade, o que pede uma intervenção diferente.
+- **"Os professores de línguas adotam com entusiasmo ou não adotam."** Uma [[li-language-educators-genai-review-2026|revisão sistemática de 23 estudos]] (Li et al.) encontra **adoção cautelosa, com preparação primeiro** como o padrão. Os professores eram cautelosos de forma refletida, não divididos entre entusiastas e recusadores.
+- **"O efeito geral justifica o esforço."** Uma metanálise de **33 estudos de TEFL** encontrou um **efeito geral de pequeno a moderado (g = 0,38, reduzido para 0,28 pelo trim-and-fill)** que **crescia com o nível educacional**. O efeito é modesto após a correção e concentrado nos níveis mais altos, de modo que a cifra agrupada não sustenta uma afirmação para iniciantes.
+- **"Qualquer uso de IA é igualmente produtivo para a aprendizagem de línguas."** O mesmo trabalho defende **ponderar a tecnologia rumo à produção** — escrita e fala, em vez de consumo. A modalidade determinou o efeito mais do que a presença da IA.
 
 ## Conceitos conectados
 
@@ -128,7 +141,7 @@ A dominância do inglês na IA é uma característica definidora desta vertente.
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governando o invisível: letramento em IA entre professores de línguas
 - [[structural-silence-underrepresented-language-ai-2026]] — Silêncio estrutural: línguas sub-representadas na infraestrutura de IA
 - [[liu-emerging-tech-tefl-review-2026]] — Tecnologias emergentes para TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Teoria de definição de metas: apoio docente, metas de desempenho e engajamento no aprendizado de inglês assistido por IA (758 estudantes chineses)
 - [[bird-multimodal-educational-literature-2026]] — Fusão multimodal para classificação de literatura educacional
 - [[li-language-educators-genai-review-2026]] — Práticas e desenvolvimento de educadores de línguas com IA generativa
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Revisões por pares e por IA de redações argumentativas em EFL diferem no posicionamento dialógico (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — Dependência excessiva de IA (50% de 54 estudos) e redução do pensamento crítico lideram as limitações relatadas

@@ -1,7 +1,7 @@
 ---
 title: "Reduzir o uso indevido de IA"
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,13 +10,17 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,7 +43,7 @@ O conceito repousa sobre a evidência de que o uso indevido de IA prejudica ativ
 
 ### Por que as alavancas estruturais importam mais
 
-As intervenções podem ser ordenadas por **evidência causal × alcance estrutural × escalabilidade × [[sustainability|sustentabilidade]]**. Nessa base, as duas alavancas *estruturais* ocupam o topo porque funcionam quer os estudantes escolham o comportamento certo ou não — elas restringem o ambiente em vez de depender de motivação interna. As alavancas *educativas* são essenciais, mas só eficazes quando os estudantes aderem, portanto são tratadas como o segundo nível, apesar de sua promessa conceitual. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher e Calderon (2025)]] empurram o argumento estrutural um nível acima, tratando a governança, e não o comportamento do estudante, como a restrição vinculante e propondo um framework de 130 indicadores de integridade para que gestores acadêmicos possam ver se a avaliação é autêntica, se os estudantes são conhecidos individualmente pelos professores que os avaliam, e se a integridade figura na ambientação e na orientação. Suas reformas visam arquiteturas de governança, pessoas e [[ai-technologies|tecnologias e recursos]], e eles propõem tomar emprestado o [[guardrails|red teaming]] da segurança cibernética para expor vulnerabilidades da avaliação antes que os estudantes as encontrem — um lembrete de que o piso estrutural é mantido por instituições que precisam tanto da informação quanto da vontade de mantê-lo.
+As intervenções podem ser ordenadas por **evidência causal × alcance estrutural × escalabilidade × [[sustainability|sustentabilidade]]**. Nessa base, as duas alavancas *estruturais* ocupam o topo porque funcionam quer os estudantes escolham o comportamento certo ou não — elas restringem o ambiente em vez de depender de motivação interna. As alavancas *educativas* são essenciais, mas só eficazes quando os estudantes aderem, portanto são tratadas como o segundo nível, apesar de sua promessa conceitual. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher e Calderon (2025)]] empurram o argumento estrutural um nível acima, tratando a governança, e não o comportamento do estudante, como a restrição vinculante e propondo um framework de 130 indicadores de integridade para que gestores acadêmicos possam ver se a avaliação é autêntica, se os estudantes são conhecidos individualmente pelos professores que os avaliam, e se a integridade figura na ambientação e na orientação. Suas reformas visam arquiteturas de governança, pessoas e [[ai-technologies|tecnologias e recursos]], e eles propõem tomar emprestado o [[guardrails|red teaming]] da segurança cibernética para expor vulnerabilidades da avaliação antes que os estudantes as encontrem — um lembrete de que o piso estrutural é mantido por instituições que precisam tanto da informação quanto da vontade de mantê-lo. A própria literatura sobre uso responsável raramente testa a cadeia que esse ordenamento pressupõe. De 122 registros de abordagens extraídos de 31 estudos, 51 foram implementados e avaliados, em sua maioria por autorrelato, e apenas quatro estudos definiram uma fronteira, desenharam uma intervenção em torno dela e testaram se as decisões dos estudantes se alinhavam ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega e Zhao (2026)]]).
 
 ### Nível 1 — Diretamente comprovado para reduzir o dano à aprendizagem
 
@@ -148,3 +152,4 @@ As alavancas educativas voltam a parecer diferentes uma vez que a integridade é
 - [[li-genai-assessment-language-equity-2026]] — Onde o apoio de linguagem termina e a substituição começa para quem escreve em inglês como língua adicional (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeção de prompt como vetor de uso indevido contra a correção por IA (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — A governança como restrição vinculante da integridade: um framework de 130 indicadores (Coates, Croucher & Calderon 2025)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Uso responsável de IA generativa por estudantes na escrita acadêmica: uma revisão de escopo de fronteiras, abordagens educacionais e lacunas de evidência

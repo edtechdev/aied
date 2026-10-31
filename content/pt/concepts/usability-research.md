@@ -1,7 +1,7 @@
 ---
 title: Pesquisa em Usabilidade
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,13 +9,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,16 @@ A pesquisa em usabilidade compartilha métodos de coleta de dados com a [[qualit
 
 - **Forças:** identifica diretamente as barreiras de usabilidade que bloqueiam a adoção e a aprendizagem; produz orientação de design acionável; complementa a pesquisa de eficácia e a qualitativa ao explicar *por que* uma ferramenta funciona ou falha em uso; relativamente rápida e barata em comparação a grandes experimentos.
 - **Limitações:** os achados de usabilidade não estabelecem efeitos de aprendizagem (uma ferramenta utilizável ainda pode falhar em ensinar); amostras pequenas e cenários específicos de tarefa limitam a generalizabilidade; a satisfação autorrelatada pode divergir do desempenho objetivo; dependência do pesquisador e do design da tarefa.
+
+## Ideias equivocadas comuns
+
+**"Um sistema utilizável é um bom sistema educacional."** A pesquisa em usabilidade trata da interação entre pessoa e sistema, não dos resultados de aprendizagem, e as duas coisas se separam nas duas direções: uma ferramenta pedagogicamente poderosa pode ser abandonada por ser frustrante, e uma ferramenta sem atrito pode não ensinar nada. A facilidade é uma precondição para o uso, não uma evidência de que o uso valeu a pena.
+
+**"Usabilidade é uma atividade de polimento no final do desenvolvimento."** É uma família de métodos com técnicas centrais — observação, análise de tarefas, think-aloud, revisão heurística — que moldam o design em vez de finalizá-lo. Descobrir o atrito depois que a pedagogia está fixada tende a produzir ou um redesenho da interface em torno do problema, ou o abandono da ferramenta.
+
+**"Estudantes que abandonam uma ferramenta careciam de motivação."** O abandono é muitas vezes a leitura correta do usuário sobre um custo de interação que o projetista nunca mediu. Como uma ferramenta que ninguém usa não pode ter efeito, a taxa de abandono é, ela mesma, um resultado educacional.
+
+**"Testar usabilidade é a mesma coisa que medir aprendizagem."** Elas respondem a perguntas diferentes e nenhuma substitui a outra; o modo de falha é tratar qualquer uma delas como suficiente para a adoção.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Letramento em feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-08T09:45:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,17 +10,21 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-08T09:45:00-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-26T09:10:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Letramento em feedback** — as capacidades e disposições que os estudantes precisam para compreender, avaliar e agir sobre o feedback e melhorar sua aprendizagem. É a contraparte de quem aprende à provisão de feedback: enquanto [[ai-feedback-quality|a qualidade do feedback por IA]] e o [[feedback|Loop de Feedback]] dizem respeito à qualidade e à mecânica do sistema de feedback, o letramento em feedback diz respeito à capacidade de quem aprende de buscar, dar sentido, julgar e usar o feedback de forma produtiva.
 
@@ -51,13 +55,18 @@ O letramento em feedback é amplamente enquadrado como um conjunto de capacidade
 - **O letramento em feedback como moderador do valor do feedback por IA:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] mostram que o letramento em feedback modera a ligação entre a aceitação do ChatGPT e a [[self-regulated-learning|aprendizagem autorregulada]]: estudantes com letramento mais forte percebem maior benefício de ARS no feedback por IA, enquanto estudantes com letramento mais fraco mostram efeitos mínimos ou até negativos ([[cognitive-offloading|dependência excessiva]]). O letramento em feedback é uma condição de contorno para que os estudantes consigam \"dar sentido\" ao feedback por IA.
 
 
-- **O letramento em feedback como via do uso da GenAI para o pensamento crítico:** em 421 estudantes de graduação chineses, a associação do uso de GenAI com o pensamento crítico autorrelatado passava quase inteiramente pelo [[feedback-literacy|letramento em feedback em GenAI]] (β=0,185, 71,98% do efeito total), e essa via se fortalecia à medida que o pensamento reflexivo subia (índice de mediação moderada = 0,030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
+- **O letramento em feedback como via do uso da GenAI para o pensamento crítico:** em 421 estudantes de graduação chineses, a associação do uso de GenAI com o [[self-report-measures|pensamento crítico autorrelatado]] passava quase inteiramente pelo letramento em feedback em GenAI (β=0,185, 71,98% do efeito total), e essa via se fortalecia à medida que o pensamento reflexivo subia (índice de mediação moderada = 0,030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
 
 - **O letramento em feedback prediz a aprendizagem na escrita assistida por IA:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] concluem que o letramento em feedback foi o único preditor positivo significativo da nota na redação em uma tarefa de redação aprimorada por IA, enquanto [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] desenvolvem e validam uma escala de Letramento em Feedback por IA (AIFL) e mostram que ela prediz a incorporação do feedback.
+- **O ciclo letramento–engajamento corre nos dois sentidos.** Um painel de intercepto aleatório de três ondas com 399 estudantes de graduação chineses constatou que o letramento em feedback por IA predizia o engajamento agêntico posterior (β = 0,222) e que o caminho inverso era igualmente forte (β = 0,263), com um teste de Wald incapaz de separar suas magnitudes ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
+
+**Uma disposição rival: a sensibilidade à recompensa.** A sensibilidade à recompensa baseada em notas enfraqueceu a ligação credibilidade–aprendizagem percebida em [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] (inclinações simples de 0,733, 0,607 e 0,483 em sensibilidade baixa, média e alta), localizando a orientação instrumental dos estudantes às notas onde a pesquisa sobre letramento em feedback localiza uma disposição cultivável para usar o feedback.
+
+- **A compreensão, e não a acionabilidade, carregou o retorno da revisão.** Ao longo de três ciclos de escrita–feedback–revisão em duas turmas intactas de 48 estudantes cada, a compreensão foi a dimensão mais associada à qualidade da revisão (r = 0,501), à frente da acionabilidade (r = 0,480) e da precisão diagnóstica (r = 0,445); uma folha de interpretação lida antes da revisão independente é o que a condição diagnóstica acrescentou ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao & Fan (2026)]]).
 
 - **Frameworks para [[generative-ai|GenAI]] [[student-engagement|engajamento]] com feedback:** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan (2025)]] (Boud e Dawson são estudiosos líderes em letramento em feedback) argumentam que a GenAI pode *viabilizar* o engajamento dos estudantes com o feedback, mapeando um modelo cíclico de feedback de auto[[regulation|regulação]] nas fases de eliciar, processar e enactar.
 
-- **O feedback por IA chega sem o enquadramento do professor:** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström e Palmqvist (2026)]] argumentam que a GenAI torna o letramento em feedback *mais* exigente, porque as respostas são geradas de forma interativa e sem o enquadramento imediato de um professor: os estudantes precisam interpretá-las, avaliá-las, engajar-se com elas e usá-las — incluindo decidir quando uma resposta é abstrata demais, quando persistir e quando voltar aos recursos convencionais. Ao longo da demonstração de oito trocas deles, a simplificação e a estrutura utilizável apareceram apenas depois de intervenções de quem aprende, tornando o ciclo de eliciar/processar/enactar do engajamento com feedback algo que o estudante precisa dirigir ([[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]] mapearam esse ciclo para a GenAI; [[self-regulated-learning|aprendizagem autorregulada]]).
+- **O feedback por IA chega sem o enquadramento do [[teacher-role|professor]]:** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström e Palmqvist (2026)]] argumentam que a GenAI torna o letramento em feedback *mais* exigente, porque as respostas são geradas de forma interativa e sem o enquadramento imediato de um professor: os estudantes precisam interpretá-las, avaliá-las, engajar-se com elas e usá-las — incluindo decidir quando uma resposta é abstrata demais, quando persistir e quando voltar aos recursos convencionais. Ao longo da demonstração de oito trocas deles, a simplificação e a estrutura utilizável apareceram apenas depois de intervenções de quem aprende, tornando o ciclo de eliciar/processar/enactar do engajamento com feedback algo que o estudante precisa dirigir ([[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]] mapearam esse ciclo para a GenAI; [[self-regulated-learning|aprendizagem autorregulada]]).
 
 - **O letramento em feedback na escrita assistida por IA e no EAP:** os [[rethinking-ai-writing-feedback-literacy|scripts de letramento em feedback]] e os [[feedback-literacy-scripts-eap-writing|mecanismos de segundo avaliador]] treinam os estudantes a engajar-se criticamente com o feedback por IA durante a revisão da escrita, deslocando a revisão rumo à melhoria no nível do argumento, em vez de edições superficiais.
 
@@ -65,11 +74,13 @@ O letramento em feedback é amplamente enquadrado como um conjunto de capacidade
 
 - **Feedback de pares e letramento em feedback:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] posicionam a GenAI dentro do feedback de pares em EFL para treinar o letramento em feedback e viabilizar a incorporação em aulas de fala, e os [[scaffolding-srl-feedback-genai-human-peers|estudos de andaimento]] comparam GenAI versus pares humanos no fomento do feedback autorregulado.
 
-- **Feedback armazenado como dado durável e consultável.** Parear o ChatGPT com um portfólio eletrônico elevou o desempenho em fala e o letramento em feedback juntos (η² parcial = 0,218 para este último), à medida que os estudantes tratavam o feedback arquivado do docente, dos pares e da IA como dados a conciliar, e não como uma correção pontual ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
+- **Feedback armazenado como dado durável e consultável.** Parear o ChatGPT com um [[eportfolio|portfólio eletrônico]] elevou o desempenho em fala e o letramento em feedback juntos (η² parcial = 0,218 para este último), à medida que os estudantes tratavam o feedback arquivado do docente, dos pares e da IA como dados a conciliar, e não como uma correção pontual ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
 
-- **O letramento em feedback nos learning analytics e nos painéis de GenAI:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examinam como os estudantes percebem o feedback dos [[learning-analytics|learning analytics]] movidos por GenAI a partir de uma perspectiva de letramento em feedback.
+- **O letramento em feedback nos learning analytics e nos [[visualization|painéis]] de GenAI:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examinam como os estudantes percebem o feedback dos [[learning-analytics|learning analytics]] movidos por GenAI a partir de uma perspectiva de letramento em feedback.
 
-- **O letramento em feedback como meta do letramento em IA e do desenho da avaliação:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] usam uma avaliação de processo sobre artefato em que os estudantes criticam a saída do ChatGPT contra uma rubrica para construir letramentos em feedback, psicológico e em IA juntos; o [[learner-centered-feedback-ai|feedback de IA centrado em quem aprende]] e o [[care-full-feedback-genai|desenho de feedback cuidadoso]] ligam a qualidade do feedback à capacidade de quem aprende de se engajar.
+- **O letramento em feedback como meta do letramento em IA e do [[assessment|desenho da avaliação]]:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] usam uma avaliação de processo sobre artefato em que os estudantes criticam a saída do ChatGPT contra uma rubrica para construir letramentos em feedback, psicológico e em IA juntos; o [[learner-centered-feedback-ai|feedback de IA centrado em quem aprende]] e o [[care-full-feedback-genai|desenho de feedback cuidadoso]] ligam a qualidade do feedback à capacidade de quem aprende de se engajar.
+
+- **O letramento em feedback pode ser ensinado, e a IA pode fornecer o material de prática.** Um guia conceitual orienta os instrutores a gerar um espectro graduado de amostras de trabalho de IA — que atendem a todos, a alguns e a nenhum dos critérios — e então conduzir os estudantes por crítica modelada, análise guiada em classe e avaliação independente ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington e Hock (2026)]]).
 
 ### Por que o letramento em feedback importa para a IA na educação
 
@@ -81,7 +92,15 @@ A IA muda o feedback em duas direções que ambas elevam as apostas do letrament
 
 O letramento em feedback se conecta à [[ai-feedback-quality|qualidade do feedback por IA]] e ao [[feedback|Loop de Feedback]] (o lado da provisão que ele complementa), à [[formative-assessment|avaliação formativa]] (o ciclo de avaliação que ele alimenta) e à [[self-regulated-learning|aprendizagem autorregulada]] (a [[self-assessment|autoavaliação]] e a adaptação que ele apoia). É um subconjunto do [[ai-literacy|letramento em IA]] quando aplicado ao feedback gerado por IA, cruza-se com a [[peer-assessment|avaliação por pares]] em contextos colaborativos e é particularmente consequente para a [[writing-education|educação em escrita]]. Também se conecta à [[metacognition|metacognição]] e à [[trust-calibration|calibração da confiança]] — a capacidade de julgar se um feedback é confiável.
 
-Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professores pré-serviço de matemática, a aceitação seletiva do feedback de IA e de pares foi a norma (32 de 44 episódios), mas apenas cinco melhoraram a qualidade da tarefa que desenharam — uma lacuna de tradução que os autores atribuem ao julgamento avaliativo, e não à incorporação ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026)]]).
+Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professores pré-serviço de matemática, a aceitação seletiva do feedback de IA e de pares foi a norma (32 de 44 episódios), mas apenas cinco melhoraram a qualidade da tarefa que desenharam — uma lacuna de tradução que os autores atribuem ao [[evaluative-judgment|julgamento avaliativo]], e não à incorporação ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026)]]).
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] tratam o letramento em feedback como algo desenvolvível pela prática: revisores de pares em EFL que trabalharam dialogicamente com a IA generativa para gerar comentários melhoraram sua própria capacidade de julgar e usar feedback, e não apenas os comentários que entregaram.
+
+## Ideias equivocadas comuns
+
+- **"O feedback por IA melhora o pensamento crítico diretamente."** Em **421 estudantes de graduação chineses**, a associação do uso de GenAI com o [[self-report-measures|pensamento crítico autorrelatado]] **passou pelo letramento em feedback**. O letramento é o mediador, de modo que uma intervenção que acrescenta feedback por IA sem construir a capacidade de lê-lo ataca o termo errado.
+- **"O letramento é uma pré-condição, não um resultado."** Um **painel de intercepto aleatório de três ondas com 399 estudantes de graduação chineses** constatou que o letramento em feedback por IA prediz o engajamento agêntico **posterior** (**β = 0,222**), de modo que o ciclo corre nos dois sentidos. Ele é dinâmico, e não um portão a atravessar uma única vez.
+- **"A acionabilidade é o que faz o feedback mudar a escrita."** Ao longo de três ciclos de escrita–feedback–revisão em **duas turmas intactas de 48 estudantes cada**, **a compreensão foi a dimensão** que carregou o retorno da revisão. Um feedback que o estudante não consegue interpretar não melhora por ser tornado mais acionável.
 
 ## Conceitos conectados
 
@@ -101,6 +120,8 @@ Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professo
 - [[higher-ed]]
 
 ## Artigos conectados
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Letramento em feedback por IA e engajamento agêntico: um painel de intercepto aleatório de três ondas (Xu 2026)
+- [[ai-feedback-literacy-assessment-as-learning-2026]] — Gerar amostras de trabalho graduadas por rubrica para ensinar letramento em feedback (Pennington & Hock 2026)
 - [[ai-peer-feedback-stem-teacher-education-2026]] — Incorporação seletiva sem melhoria do artefato: a lacuna de tradução do feedback (Oh 2026)
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — O feedback por IA sem o enquadramento do professor eleva a barra do letramento em feedback (Brunnström & Palmqvist 2026)
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
@@ -124,3 +145,4 @@ Agir sobre o feedback não é o mesmo que melhorar o artefato. Entre 22 professo
 - [[student-perspectives-ai-writing-grading-2026]] — Quem Deveria Corrigir Meu Trabalho? Perspectivas dos Estudantes sobre a Avaliação Transparente de Escrita Assistida por IA no Ensino Superior
 
 - [[genai-use-critical-thinking-moderation-2026]] — O uso de GenAI para o pensamento crítico passou pelo letramento em feedback em GenAI, fortalecendo-se com o pensamento reflexivo
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — A compreensão, e não a acionabilidade, carregou o retorno da revisão

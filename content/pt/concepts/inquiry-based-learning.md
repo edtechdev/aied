@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem baseada em investigação
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,13 +9,17 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,16 @@ A estrutura da IBL, movida por questões e focada no processo, é a casa natural
 A [[productive-failure|falha produtiva (PF)]] é a prima mais estruturada da aprendizagem baseada em investigação: os estudantes exploram problemas e geram soluções *antes* da instrução direta, depois consolidam. Ambas compartilham a premissa de que as tentativas geradas pelo estudante (mesmo as fracassadas) [[prior-knowledge|ativam o conhecimento prévio]] e preparam os estudantes para aprender com a instrução. A [[research-methods-aied|pesquisa]] sobre FP da era da IA afia como a IA deveria andaimentar a investigação sem atalhá-la: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivam princípios de desenho de IA para preservar a dificuldade por meio da exploração de problemas e da geração de soluções; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] mostram que tutores de LLM podem ser orientados a reter respostas e eliciar múltiplas tentativas; as tarefas de [[lukesova-clue-before-correction-2026|pista-antes-da-correção]] exemplificam o andaimento baseado em pistas (em vez do direto) que mantém os estudantes fazendo o raciocínio. Esses trabalhos conectam a investigação e a FP ao imperativo mais amplo de que a IA não deve remover as [[desirable-difficulties|dificuldades produtivas]] através das quais a aprendizagem durável se forma.
 
 Em contextos de campo ao ar livre, o mesmo imperativo se torna espacial: a GenAI pode pré-estruturar o que os estudantes notam antes de encontrarem a evidência, então uma sequência campo-primeiro que retém a explicação gerada até que observações e interpretações iniciais sejam registradas protege a investigação ([[geoscience-field-learning-genai-2026|Choi, 2026)]]).
+
+## Ideias equivocadas comuns
+
+**"A IA é um encaixe natural para a aprendizagem baseada em investigação porque ambas são exploratórias."** O encaixe depende inteiramente do desenho: [[generative-ai|IA generativa]] e ferramentas de [[llm|LLM]] podem servir como coinvestigadores interativos que apoiam o questionamento e a investigação **apenas quando desenhadas para preservar a propriedade da questão por parte do estudante**. Usado de outra forma, um estudante exploratório está seguindo uma resposta em vez de conduzir uma investigação, e os dois se parecem por fora.
+
+**"Qualquer IA adicionada a uma unidade de investigação a melhora."** A contribuição da IA precisa ser isolada da investigação em si. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] fez isso com um desenho de três grupos em um estudo sobre clima: a investigação assistida por IA superou os pares apenas-investigação em **tomada de decisão (d = 0,69)**, com a evidência localizada num resultado específico, e não na superioridade geral da abordagem.
+
+**"A investigação é não estruturada por definição."** O instrutor andaimeia, e a estrutura está no desenho da questão e no ciclo de reflexão, e não na entrega de conteúdo. Remover o andaimento não torna a investigação mais autêntica; torna-a sem andaimento.
+
+**"As questões lideradas pelos estudantes serão bem formuladas se os estudantes estiverem interessados."** Gerar uma questão tratável é a habilidade que se está desenvolvendo, e é por isso que um sistema que fornece boas questões já executou a habilidade de investigação que a atividade existe para ensinar.
 
 ## Conceitos conectados
 

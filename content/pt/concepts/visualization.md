@@ -5,19 +5,23 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-26T07:30:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Visualização** — o uso de visualizações de dados, infográficos, dashboards, gráficos, diagramas e outras representações gráficas para tornar a informação compreensível para a aprendizagem e a análise. Na educação, a visualização é crescentemente tanto gerada pela IA (texto-para-imagem, análise [[multimodal|multimodal]] de slides e gráficos) quanto usada como a interface por meio da qual estudantes, professores e sistemas de analítica raciocinam sobre dados compartilhados.
 
@@ -46,6 +50,8 @@ Os dashboards também funcionam como representações compartilhadas que fazem a
 
 Uma segunda vertente importante diz respeito à IA produzindo visualizações diretamente. O estudo [[nuclear-diffusion-text-to-image-learning-2026]] mostra que modelos texto-para-imagem adaptados a domínio conseguem gerar ilustrações acuradas de conceitos especializados de STEM: fazer fine-tuning do Stable Diffusion em imagens do domínio nuclear elevou a acurácia de domínio de 12% para 78%, permitindo aos instrutores produzir sob demanda visualizações corretas de componentes de reator e de sistemas de segurança. Essa capacidade generativa é poderosa, mas desigual. O [[mllm-scientific-visualization-literacy|benchmark]] [[benchmark|compara]] seis modelos de linguagem grandes multimodais com 485 participantes humanos em letramento de visualização científica, descobrindo que não há competência uniforme: o Gemini de código fechado excedeu a média humana em vários subconjuntos, enquanto todos os modelos [[open-source|de código aberto]] ficaram abaixo dela, com fraquezas particulares na estimação [[quantitative-research|quantitativa]] refinada e em visualizações baseadas em textura ou em integração. A IA deveria portanto apoiar — e não substituir — o letramento de visualização humana, um achado com implicações diretas para [[ai-literacy|letramento em IA]] e [[formative-assessment|avaliação formativa]].
 
+A geração de gráficos a partir de prompts levanta uma questão diferente de se a IA consegue produzir uma visualização competente: se quem aprende ainda realiza o trabalho analítico e de codificação que torna o artefato educativo. Um framework de 2026 chama isso de divisão processo–resultado e propõe transparência, convite e desvanecimento como a linha de agência entre [[scaffolding|andaimento]] e substituição ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
+
 A ética e a confiabilidade temperam o entusiasmo pelo conteúdo visual gerado por IA. O estudo [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] descobriu que histórias em quadrinhos de dados assistidas por [[generative-ai|GenAI]] melhoraram o [[student-engagement|engajamento]] e a compreensão em relação às visualizações convencionais, independentemente do letramento de visualização prévio, mas os participantes levantaram preocupações sobre risco de desinformação e atribuição de [[academic-integrity|autoria]], e dois terços sinalizaram desvantagens como sobrecarga de informação por layouts excessivamente carregados. O benchmark contrafactual CFES-P24 estende esse escrutínio à [[cfes-p24-multimodal-slide-auditing-2026|auditoria de slides]], mostrando que LLMs multimodais conseguem reconhecer de forma confiável construtos de [[learning-design|desenho de aprendizagem]] (operações, princípios, localização de evidência), ao mesmo tempo que divergem agudamente em julgamento comparativo e calibração de severidade — evidência de que notas compostas escondem qual capacidade falha e de que confiança não é confiabilidade. Juntas, essas obras argumentam pela [[ai-ed-evaluation|avaliação em camadas]] das visuais geradas por IA, em vez de avaliações holísticas.
 
 ## Ferramentas de slides, quadrinhos e múltiplas visualizações na prática
@@ -55,6 +61,13 @@ Sistemas práticos aplicam esses princípios em escala. O AISSA combina correç�
 ## Implicações
 
 Ao longo das obras discutidas aqui, a visualização emerge como meio de duplo uso: a IA gera e interpreta cada vez mais visualizações, enquanto dashboards e visuais interativos servem como a superfície compartilhada para a construção de sentido humano-IA. O texto-para-imagem generativo e a análise multimodal estendem o alcance da visualização para conteúdo especializado de [[stem-education|STEM]] e [[ai-feedback-quality|feedback automatizado]], mas a competência desigual dos modelos, as falhas de calibração de severidade e as preocupações [[ethics|éticas]] com desinformação e autoria exigem verificação cuidadosa e em camadas. Para desenhistas e educadores, a conclusão mais forte é que interatividade e engajamento — eliciar o raciocínio dos estudantes sobre dados visuais, deixar os usuários controlarem o esforço cognitivo e tratar os visuais produzidos por IA como infraestrutura compartilhada, e não como pontos finais — importam mais que a fidelidade do próprio gráfico.
+
+## Ideias equivocadas comuns
+
+- **"A IA não consegue renderizar conteúdo especializado com precisão."** Consegue, com o método certo: o ajuste fino de um modelo texto-para-imagem sobre conceitos nucleares **elevou a acurácia de domínio de 12% para 78%**. A lacuna é de fundamentação no domínio, não de capacidade generativa, e é tratável.
+- **"Visualizações melhores produzem resultados melhores."** Os professores **preferiram sistematicamente visualizações mais simples e tradicionais** (gráficos de barras, gráficos de pizza, legendas) **mesmo quando desenhos complexos, como mapas de calor, produziam insights mais detalhados**. O artefato mais informativo não foi o que acabou sendo usado, de modo que a adoção é um problema separado da qualidade do desenho.
+- **"Os estudantes olham para onde está o andaimento."** Um estudo constatou que os estudantes **passaram a maior parte do olhar no código, apesar de andaimes visuais elaborados** — os auxílios simplesmente não capturaram a atenção. Apoio visual presente, mas não observado, não muda nada.
+- **"Engajamento e compreensão caminham juntos."** Os participantes acharam as histórias em quadrinhos de dados geradas por IA **mais engajantes e compreensíveis, mas muitos também sinalizaram risco de desinformação e sobrecarga de informação**. Ambas as reações vieram do mesmo artefato, de modo que uma recepção positiva não é uma leitura verificada.
 
 ## Conceitos conectados
 - [[learning-analytics]]
@@ -75,6 +88,4 @@ Ao longo das obras discutidas aqui, a visualização emerge como meio de duplo u
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Eficácia, benefícios e ética das histórias em quadrinhos de dados assistidas por IA
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmark contrafactual para auditoria multimodal de slides
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Tornando acessíveis a professores os achados de ML em salas de aula mistas
-
-Prompt-to-chart generation raises a different question from whether AI can produce a competent visualization: whether the learner still performs the analytic and encoding work that makes the artifact educational. A 2026 framework calls this the process–output divide and proposes transparency, invitation, and fading as the agency line between [[scaffolding]] and substitution ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
-- [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
+- [[genai-visualization-education-framework-2026]] — Construindo significado, não apenas gráficos: um framework cognitivo-instrucional para o uso de IA generativa na educação em visualização

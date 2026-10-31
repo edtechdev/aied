@@ -2,19 +2,23 @@
 connected_resources: [openmaic]
 title: Simulação
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-04T15:54:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-10-04T15:54:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -33,10 +37,12 @@ ai_assist:
 ## Introdução
 
 A simulação está no núcleo das [[pedagogy|pedagogias]] [[experiential-learning|experienciais]] e de [[active-learning|aprendizagem ativa]]. Ela fornece a prática deliberada, a [[productive-failure|falha produtiva]] e os [[feedback|ciclos de feedback]] que constroem habilidade e juízo. A IA transformou a simulação de duas formas: ela potencializa ambientes simulados mais realistas e adaptativos, e gera [[simulating-students|quem aprende simulado]], pacientes ou interlocutores simulados, o que torna a prática escalável. A evidência comportamental mostra que *como* quem aprende se engaja com uma simulação varia sistematicamente, e não uniformemente: ao rastrear pessoas aprendendo on-line construindo modelos ecológicos no VERA, [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] classificaram o [[student-engagement|engajamento]] em Observação (execuções frequentes e ajuste de parâmetros com pouca construção de modelo), Construção (construção manual com pouca simulação) e Exploração (ciclos completos de construir–parametrizar–simular), com os Exploradores produzindo os modelos mais complexos e diversos, e quem se concentrava em observação copiando em grande parte os existentes — um argumento por desenhar ambientes de simulação que empurrem quem aprende rumo à atividade de ciclo completo.
+- **Um mecanismo explícito é inspecionável de um modo que um gerador aprendido não é.** O DagFlow-AI constrói dados sintéticos a partir de um grafo acíclico dirigido mais distribuições e fórmulas por variável, de modo que o processo gerador de dados é um documento que um instrutor consegue ler e corrigir ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Isso contrasta deliberadamente com a síntese por GAN e VAE, que precisa de um conjunto de dados semente e produz um processo opaco. A troca é que chegar a uma simulação estável levou várias iterações.
 
 ### IA e simulação
 
 - **Ambientes movidos por IA:** simulações adaptativas ajustam dificuldade e cenários ao estado de quem aprende, ligando-se à [[adaptive-learning|aprendizagem adaptativa]] e ao coaching baseado em [[reinforcement-learning|aprendizagem por reforço]].
+- **O ambiente virtual e a camada de IA são ganhos separáveis.** Numa unidade de três semanas sobre a lei de Ohm no 9º ano, o desempenho ajustado foi de 23,45 de 30 com um laboratório virtual apoiado por IA, 20,51 com o mesmo laboratório sem IA e 16,57 num laboratório físico ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li e Ahmad (2026)]]). Turmas intactas foram atribuídas com um professor diferente cada, de modo que isso descreve três arranjos de sala de aula, e não o agente isolado.
 - **Simulações geradas por prompt colocam um laboratório sob medida ao alcance.** Instrutores podem gerar, a partir de um template de prompt reutilizável, modelos executáveis no navegador sobre o tema de que um curso precisa (controles deslizantes, animação, gráficos dependentes do tempo), validando cada um duas vezes — tecnicamente, e depois contra a solução analítica conhecida —, em vez de aceitar a simulação publicada mais próxima ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 - **Automatizando a contraparte humana.** O [[astra-atco-training-simulator|ASTRA (Chew et al., 2026)]] substitui os role-players humanos especialistas que atuam nas simulações de controle de tráfego aéreo por sim-pilotos autônomos de [[llm|LLM]], removendo um gargalo de capacidade de treinamento; seu pipeline de fala ajustado reduziu a taxa de erro de palavras em fala de aviação com sotaque singapurense de 107,80% para 23,45%, embora todas as avaliações tenham sido no nível de componentes, sem execução com uma coorte de estagiários.
 - **Simuladores adversariais como parceiros de treinamento.** O [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] associa um agente de política a simuladores de paciente com LLM construídos para se comportar de forma adversarial ao longo de um pipeline de cenários de 57 mil casos; treinar contra eles reduziu em cerca de um terço as taxas de bandeiras vermelhas perdidas, e clínicos às cegas preferiram o agente treinado em 87,6% das comparações lado a lado.
@@ -53,10 +59,17 @@ A simulação está no núcleo das [[pedagogy|pedagogias]] [[experiential-learni
 - **Simulações codesenhadas por professor e IA.** Simulações interativas que apoiam tanto a aprendizagem conceitual quanto o desenvolvimento de competências são escassas em domínios práticos, e a saída de IA generativa frequentemente carece de validade pedagógica. Na [[stem-education|educação STEM baseada em drones]], simulações codesenhadas por professor e IA, embutidas em um currículo prático por outro lado idêntico, foram avaliadas com um desenho quase-experimental de pré-teste–pós-teste ao longo de 30 estudantes do ensino médio, examinando se a instrução apoiada por simulação produz [[learning-gains|resultados de aprendizagem]] superiores ([[simulation-assisted-drone-learning-stem-2026]]). Separadamente, [[benchmark|benchmarks]] de tutoria [[agentic-ai|multiagente]], como o ASTRA, usam agentes socialmente inteligentes simulados para estudar a colaboração com participação equilibrada na [[cs-education|programação introdutória]] ([[astra-multi-agent-tutoring-benchmark-2026]]).
 - **O controle de quem aprende na simulação é exercido, não concedido.** Um experimento 2 × 2 em uma simulação de bando ([[learner-agency-ai-simulation-2026|Su, Nair e Nagashima 2026]]) deu a alguns estudantes controles deslizantes de parâmetros, a alguns um agente conversacional opcional e a alguns ambos; toda condição melhorou, mas nenhuma das duas affordances produziu uma diferença confiável uma vez controlado o conhecimento prévio (p = .849 e p = .108). O que previu os [[learning-gains|ganhos]] foi onde e por quanto tempo quem aprende manipulou parâmetros: o uso sustentado dos controles na lição conceitualmente mais complexa se associou positivamente aos ganhos, e o mesmo comportamento na lição mais fácil se associou negativamente. Para quem constrói simulações, a implicação é que oferecer controles não é a intervenção — ajudar quem aprende a decidir o que mudar, e a registrar o que mudou, é.
 - **Um gêmeo digital é uma simulação com uma conta de hardware, e a conta molda quem pode participar.** Uma revisão [[meta-analysis-systematic-review|sistemática]] de 11 estudos de gêmeos digitais no ensino superior de [[engineering-education|engenharia]] e STEM constatou que toda implementação entregou um protótipo funcional com sincronização em tempo real, mas apenas três relataram [[learning-gains|ganhos de aprendizagem]] estatisticamente significativos. Equipamentos físicos limitaram o acesso a 1–3 estudantes simultâneos em cinco estudos, e a redução da interação social foi o desafio pedagógico mais citado, em seis ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
+- **A simulação baseada em agentes consegue modelar uma teoria da metacognição como sistema testável.** Um framework baseado em agentes e inspirado em gêmeos digitais, combinando o modelo AMERT de cinco níveis com uma simulação em NetLogo, permitiu aos pesquisadores variar arquétipos de aprendizes e condições de tarefa e observar trajetórias metacognitivas, embora os autores enfatizem que a saída é geração de hipóteses, e não evidência sobre aprendizes reais ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). A simulação se torna um laboratório virtual para uma teoria que de outra forma é difícil de observar.
 
 ### Conexões
 
 A simulação se conecta à [[active-learning|aprendizagem ativa]], à [[adaptive-learning|aprendizagem adaptativa]] e aos [[pedagogical-agent|agentes pedagógicos]]. Ela é um mecanismo para a aprendizagem experiencial e [[constructivist|construtivista]] e é amplificada pela capacidade da IA de gerar ambientes de prática adaptativos e realistas.
+
+## Ideias equivocadas comuns
+
+- **"A simulação é mais barata e, por isso, é a segunda melhor opção."** Sim-pilotos autônomos de [[llm|LLM]] **substituem os role-players humanos especialistas que atuam nas simulações de controle de tráfego aéreo, removendo um gargalo de capacidade de treinamento** — a restrição era de pessoal, não de fidelidade. Onde role-players humanos são escassos, a simulação por LLM não é um substituto, mas a única opção disponível.
+- **"Os simuladores deveriam se comportar como casos médios."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] pareia um agente de política com **simuladores de paciente com LLM construídos para se comportar de forma adversarial**. Um simulador desenhado para ser cooperativo torna a prática de quem aprende mais fácil que a clínica, que é o oposto do que o treinamento precisa.
+- **"Cenários roteirizados ensinam a decidir sob incerteza."** Os agentes multiagentes contextuais do SupplyNet geram **dinâmicas emergentes das decisões de quem aprende, em vez de roteirizadas**. Cenários roteirizados ensaiam um caminho conhecido; os emergentes ensaiam a decisão.
 
 ## Conceitos conectados
 - [[active-learning]]
@@ -93,3 +106,4 @@ A simulação se conecta à [[active-learning|aprendizagem ativa]], à [[adaptiv
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — Simulação movida por IA em enfermagem: revisão sistemática de métodos mistos (lacuna de autenticidade, continuum escalonado)
 - [[sophie-clinical-communication-ai-assessment-2026]] — Treinamento de comunicação clínica escalável baseado em IA e avaliação automatizada
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Gêmeos digitais na educação STEM: todos os protótipos funcionaram, os ganhos de aprendizagem em grande parte não
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratório virtual apoiado por IA para aprendizagem invertida de física: efeitos no desempenho, na motivação e na carga cognitiva de estudantes do ensino fundamental II

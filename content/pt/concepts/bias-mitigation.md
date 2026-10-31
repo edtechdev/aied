@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Mitigação de viés
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-01T09:59:06-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **A mitigação de viés na educação com IA** — a identificação, a mensuração e a redução de comportamentos injustos e estruturados pela identidade em [[intelligent-tutoring|tutores de IA]], corretores, sistemas de recomendação e sistemas educacionais. O viés pode entrar em qualquer etapa do pipeline da IA — dados de treinamento, comportamento do modelo, prompts, correção e implantação — e se manifestar como tratamento diferenciado de estudantes com base em idioma, gênero, raça, cultura ou outras características identitárias. A mitigação abrange a curadoria de dados, algoritmos de remoção de viés, o [[prompt-engineering|desenho de prompts]], métodos de correção justa, explicabilidade e avaliação. É a contraparte técnica da [[equity-in-ai-education|equidade na educação com IA]] e uma preocupação central da [[ethics|ética]] na educação com IA.
 
@@ -37,6 +41,10 @@ ai_assist:
 ## Introdução
 
 A mitigação de viés importa porque a [[ai-education|IA na educação]] não é neutra: sistemas treinados com dados de linguagem e cultura dominantes podem desfavorecer sistematicamente estudantes marginalizados, da correção baseada em IA que penaliza quem escreve em um idioma não nativo até tutores de [[llm|LLM]] que respondem de forma diferente para grupos diferentes. O viés é uma preocupação transversal que aparece na [[automated-assessment|correção automatizada]], na [[automated-essay-scoring|correção automatizada de redações]], no [[knowledge-tracing|rastreamento de conhecimento]], nos sistemas de recomendação e nos tutores de [[conversational-ai|IA conversacional]].
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] mostram que a mitigação de viés pode ser ensinada, e não apenas projetada: jovens instruídos a interrogar as saídas de um modelo de texto para imagem produziram avaliações sistemáticas de representação, e seus pedidos por imagens de pessoas pendiam para o branco antes da intervenção.
+
+A equidade é a dimensão menos examinada na literatura de correção IA versus humana: dos doze estudos revisados, dez silenciavam sobre viés demográfico, linguístico ou social, e gênero foi a única dimensão testada ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu e Abdi, 2026]]).
 
 ## Fontes de viés
 
@@ -91,6 +99,12 @@ A mitigação de viés é o mecanismo técnico pelo qual a [[equity-in-ai-educat
 - **Separe a compreensão da linguagem na correção:** a correção automatizada não deve penalizar quem escreve em um idioma não nativo ou com menos fluência pela compreensão conceitual que ele demonstra.
 - **Torne os sistemas explicáveis:** a transparência sobre as decisões da IA é essencial para detectar e corrigir o viés.
 - **Combine a mitigação técnica e a humana:** associe algoritmos de remoção de viés à supervisão com humano no circuito, especialmente para casos de alto impacto ou de baixa confiança.
+
+## Ideias equivocadas comuns
+
+- **"O viés é um problema de correção e feedback."** O viés entra em **classes de tarefa fora da correção**: três LLMs que distribuíam **turmas de engenharia de software de 28 estudantes entre quatro equipes encaminharam homens pelo menos 80% menos frequentemente que** a distribuição de referência. A formação de equipes carregou viés numa magnitude comparável à da correção.
+- **"Fornecer a competência relevante remove o viés."** Fornecer competências **reduziu, mas não removeu**: **99,2% das atribuições baseadas em competências correspondiam a uma de duas equipes de referência, e ainda assim o gênero decidiu entre opções igualmente válidas (OR 2,53**). Correspondência de tarefa quase perfeita coexistiu com um efeito de gênero, de modo que acurácia no critério primário não é evidência de equidade.
+- **"Uma abordagem de mitigação é suficiente."** A pesquisa ilustra **estratégias complementares** — a modelagem consciente da equidade entre elas —, porque o viés que entra na formação não é resolvido por uma correção voltada ao texto de saída.
 
 ## Conceitos conectados
 - [[differential-effects-across-learner-groups]]

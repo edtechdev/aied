@@ -1,7 +1,7 @@
 ---
 title: "Concepções errôneas sobre IA"
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Concepções errôneas sobre IA** — as crenças imprecisas que as pessoas têm sobre o que os sistemas de IA são, o que fazem e o que usá-los significa para a aprendizagem e o trabalho. Concepções errôneas não são uma única falsidade, mas uma família de erros de calibração que se agrupam em torno de dois erros centrais: julgar mal o que o modelo é (autoridade vs. ferramenta, neutro vs. enviesado, compreensão vs. geração) e julgar mal o que a aprendizagem exige (saída vs. processo). Elas são sustentadas não apenas por estudantes, mas também por professores, administradores, formuladores de política e pelo público em geral — e corrigi-las é um objetivo central da educação em [[ai-literacy|letramento em IA]] e em [[trust-calibration|calibração da confiança]].
 
@@ -73,6 +77,8 @@ As concepções errôneas sobre IA não se confinam a quem aprende — elas são
 
 Essa amplitude é a razão pela qual a base de conhecimento trata concepções errôneas como tema fundacional transversal, e não como puramente voltado a estudantes: os mesmos erros de calibração reaparecem entre quem aprende, professores, instituições e o público, e corrigi-los exige confrontar tanto crenças individuais quanto o discurso que as alimenta.
 
+As concepções pedagógicas dos professores são a imagem espelhada disso: não equívocos sobre a IA, mas crenças sobre o ensino sem respaldo na evidência que persistem independentemente da IA. [[etq-ai-conversational-teacher-training-2026|Miranda e Calvani (2026)]] as instrumentam com o Effective Teaching Questionnaire, no qual 50 itens binários se mapeiam sobre tamanhos de efeito de meta-análise (d ≥ 0,40), de modo que a resposta de um professor pode ser comparada a um parâmetro alinhado à evidência — e o achado deles é que as concepções errôneas são profundas e específicas. Em um piloto com 123 educadores italianos, a discordância se concentrou mais fortemente nos estilos cognitivos de aprendizagem (78% dos professores defendiam o pareamento visual/auditivo), na inclusão e no trabalho em grupo (68%) e na sobrecarga de tecnologia educacional (54%), com alinhamento médio próximo de 50% ao longo das dimensões de planejamento, cognitiva, avaliativa e de gestão. Dois detalhes importam para o desenho de correção. Primeiro, as concepções errôneas sobrevivem à formação universitária e à prática docente — os autores descrevem um "senso comum internalizado" que "precede a entrada na escola" e persiste —, de modo que não são lacunas de conhecimento que uma aula fecha. Segundo, quando os mesmos itens foram entregues por meio de uma IA conversacional que validava o contexto do professor antes de reintroduzir a evidência, 41% das objeções diziam respeito a restrições contextuais reais (tamanho da turma, necessidades especiais, cobertura curricular) em vez da própria evidência, e 5,9% rejeitaram o sistema como "uma máquina de dogma algorítmico" — a condição de fronteira em que o enquadramento normativo gera defensividade em vez de reflexão. Para o desenvolvimento da [[teacher-ai-competency|competência em IA do professor]], a implicação é que diagnóstico mais diálogo podem revelar quais crenças são discordância fundamentada em evidência e quais são concepção errônea, uma distinção que uma pontuação isolada não consegue fazer.
+
 ### Corrigindo concepções errôneas
 
 A correção não é uma divulgação única, mas um processo contínuo de [[ai-literacy|letramento em IA]] que desenvolve [[metacognition|metacognição]] e [[self-regulated-learning|aprendizagem autorregulada]]: ajudar estudantes (e os adultos em torno deles) a monitorar sua dependência, calibrar quando confiar e quando questionar um modelo, e ver o custo de contornar seu próprio trabalho [[cognitive-offloading|cognitivo]]. Como as concepções errôneas são resistentes, elas são melhor abordadas por confronto direto com evidência — incluindo o achado de que os estudantes frequentemente *não percebem* o dano à aprendizagem do uso indevido de IA.
@@ -111,6 +117,12 @@ Como as concepções errôneas são ativamente sustentadas e resistentes, a form
 
 Essas refutações são deliberadamente escritas na forma do [[refutation-text|texto de refutação]] para que elas mesmas possam ser usadas (ou adaptadas para [[conversational-ai|diálogo interativo com IA]]) para confrontar e corrigir concepções errôneas sobre IA — e sobre aprendizagem, ensino e educação de forma mais ampla.
 
+## Ideias equivocadas comuns
+
+- **"As concepções errôneas dos professores são corrigíveis apresentando evidência."** Em um piloto com **123 educadores italianos**, a discordância se concentrou mais fortemente nos **estilos cognitivos de aprendizagem (78% dos professores defendiam o pareamento visual/auditivo)**, na inclusão e no trabalho em grupo (68%) e na sobrecarga de tecnologia educacional (54%). As discordâncias mais fortes foram as mais resistentes à evidência, e é por isso que a [[refutation-text|refutação]] supera a asserção.
+- **"As objeções dos professores à evidência são todas resistência."** Quando os mesmos itens foram entregues por uma IA conversacional que **validava o contexto do professor antes de reintroduzir a evidência**, **41% das objeções diziam respeito a restrições contextuais reais** — tamanho da turma, necessidades especiais, demandas curriculares. Uma parcela substancial do que parece concepção errônea era objeção precisa.
+- **"Concepções errôneas podem ser detectadas de forma confiável a partir do diálogo."** **De 241 segmentos instruídos, 221 (91,7%) foram confirmados como concepções errôneas estratégicas por votação majoritária de especialistas (κ de Fleiss = 0,9487)**, com **nenhuma diferença significativa** entre grupos. Alta confiabilidade é alcançável sob adjudicação de especialistas, e é dessa condição que a afirmação depende.
+
 ## Conceitos conectados
 
 - [[pedagogical-patterns]] — As sequências de mudança conceitual que confrontam uma crença específica sustentada
@@ -142,6 +154,4 @@ Essas refutações são deliberadamente escritas na forma do [[refutation-text|t
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: explicações fluentes e autoritativas que são conceitualmente erradas em vez de factualmente erradas (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Instruções escondidas em um arquivo submetido podem elevar uma nota corrigida por IA sem aviso visível (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Concepções errôneas de crianças sobre segurança de IA: amizade com um robô lida como garantia de privacidade (Leisten et al. 2026)
-
-Teachers' pedagogical misconceptions are the mirror image of this: not misunderstandings about AI, but evidence-unsupported beliefs about teaching that persist regardless of AI. [[etq-ai-conversational-teacher-training-2026|Miranda and Calvani (2026)]] instrument this with the Effective Teaching Questionnaire, where 50 binary items map onto meta-analytic effect sizes (d ≥ 0.40) so a teacher's answer can be compared against an evidence-aligned benchmark — and their finding is that the misconceptions are deep and specific. In a pilot with 123 Italian educators, disagreement clustered hardest on cognitive learning styles (78% of teachers defended visual/auditory matching), inclusion and group work (68%), and EdTech overload (54%), with average alignment near 50% across planning, cognitive, evaluative, and management dimensions. Two details matter for correction design. First, the misconceptions survive university education and teaching practice — the authors describe an "internalized common sense" that "precedes entry into school" and persists — so they are not knowledge gaps a lecture closes. Second, when the same items were delivered through a conversational AI that validated the teacher's context before re-introducing the evidence, 41% of objections concerned real contextual constraints (class size, special needs, curriculum coverage) rather than the evidence itself, and 5.9% rejected the system as "an algorithmic dogma machine" — the boundary condition where normative framing breeds defensiveness instead of reflection. For [[teacher-ai-competency]] development the implication is that diagnostic-plus-dialogue can surface which beliefs are evidence-based disagreement and which are misconception, a distinction a score alone cannot make.
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico por IA conversacional para concepções errôneas de ensino, com diálogo fundamentado em evidência (Miranda & Calvani 2026)

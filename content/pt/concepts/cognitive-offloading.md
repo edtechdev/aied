@@ -1,7 +1,7 @@
 ---
 title: Descarregamento cognitivo
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T14:20:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-10-30T10:53:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Descarregamento cognitivo** — o uso de ferramentas externas (inclusive IA) para reduzir a demanda cognitiva interna, deslocando o trabalho mental de quem aprende para o sistema. Na [[ai-education|IA na educação]], o descarregamento cognitivo é o mecanismo central pelo qual as ferramentas de IA tanto podem sustentar como minar a aprendizagem: o descarregamento apropriado libera recursos cognitivos para o pensamento de ordem superior, enquanto o descarregamento excessivo contorna o processamento necessário para uma aprendizagem durável. A **dependência excessiva** é a ponta danosa desse espectro — o padrão improdutivo em que o descarregamento cruza de apoio estratégico para deslocamento da aprendizagem.
 
@@ -83,6 +87,20 @@ Os artigos da base de conhecimento documentam o descarregamento cognitivo em mú
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] registram o descarregamento como experiência dos próprios participantes, e não como risco teórico: um deles disse que a GenAI "me impediu de realmente ler e descobrir por mim mesmo o que é importante no texto, de desenvolver habilidades de leitura", e outro temia "o desenvolvimento de longo prazo, em que me torno pior em certas habilidades nas quais hoje sou muito forte".
 - **O efeito está na divisão do trabalho, não na ferramenta.** Nakamura (2026) argumenta que a heterogeneidade dos efeitos de aprendizagem da GenAI se dissolve quando a unidade de análise passa a ser a partição do trabalho cognitivo entre quem aprende e a máquina. O descarregamento amplia a aprendizagem quando descarrega operações periféricas ao objetivo corrente, e arrisca a erosão quando contorna o processamento constitutivo desse objetivo ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Processar substantivamente a saída, ou reconstruí-la depois, é o que resgata um descarregamento que de outro modo seria constitutivo.
+- **O que uma pessoa pode entregar depende de sua experiência com a tarefa.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] torna a ordem das tarefas relativa à pessoa: o que é de ordem superior para um novato é de ordem inferior para quem já domina o procedimento, de modo que o descarregamento permitido deveria crescer com a experiência e parar no núcleo do trabalho.
+
+**O capital cognitivo é o estoque de que o descarregamento saca.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] reenquadram o descarregamento como uma mudança em um estoque, e não como um ato. Capital cognitivo é conhecimento, capacidade e prática acumulados, renováveis e esgotáveis, detidos por indivíduos e por organizações, e mantido separado da capacidade do sistema humano–IA para que um ganho de desempenho conjunto possa ser visto ao lado de uma perda de capacidade humana. Seus quatro mecanismos — substituição da prática, andaimento e feedback, calibragem metacognitiva e agregação organizacional — produzem sete princípios, incluindo que o desempenho assistido não é competência retida e que descarregar uma tarefa difere de descarregar a prática que constrói a habilidade. A estatística que motiva o argumento é um lançamento escalonado para 5.172 agentes de suporte ao cliente em que um assistente elevou os casos resolvidos por hora em 15%; esse número descreve o sistema conjunto, e se os agentes ainda conseguiriam fazer o trabalho sem ajuda é uma medição que a literatura revisada não contém.
+
+### Quando o descarregamento cai em vez de subir
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] relata um experimento pré-registrado (N = 317) em que adultos aprenderam conteúdo novo a partir de fichas convencionais ou de um assistente de uso geral restrito a essas mesmas fichas. A condição de IA reduziu o descarregamento cognitivo medido em vez de elevá-lo (mediana −0,27, intervalo de credibilidade de 95% −0,58 a 0,04). O processamento profundo ainda caiu, mas por uma cadeia em que menor descarregamento acompanhou menor [[critical-thinking|pensamento crítico]], que por sua vez previu processamento profundo mais fraco (0,78). A desorganização subiu 0,84 sem nenhum mediador carregando o efeito. O achado é uma cautela para o relato padrão: o descarregamento não é a única rota pela qual um ambiente de [[generative-ai|IA]] erode o processamento, e uma condição pode deixar o descarregamento intacto enquanto suprime o que o descarregamento deveria proteger.
+
+### Descarregar a empatia, não apenas a cognição
+
+O mesmo acordo vale para o trabalho emocional, e ali a evidência é mais nova. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] nomeiam o descarregamento de empatia: quando um sistema pode fornecer apoio emocional, as pessoas oferecem menos de si mesmas (N = 2.223 em quatro estudos). A disposição de entregar empatia a um modelo acompanhou a crença na capacidade do modelo para ela (b = 0,44), e um experimento que elevou essa crença por meio de cobertura jornalística comum moveu o descarregamento por meio dela (indireto 0,73, direto não crível). A parte instrutiva é onde autorrelato e comportamento se separam: informados de que um estudante recebeu apoio de um chatbot, os participantes avaliaram seu próprio descarregamento como menor do que para um amigo ou terapeuta, e então escolheram menos palavras de empatia e mais palavras de indiferença sobre aquele estudante.
+
+- **O descarregamento se divide em um ganho visível e uma perda invisível.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] argumenta que a falha de calibragem que esta página documenta é uma inferência *entre dimensões*, e não excesso de confiança geral. A competência operacional (prompting, iteração, integração) retorna feedback imediato e inequívoco, enquanto a competência avaliativa (julgar se uma saída é precisa) retorna feedback tardio, esparso ou ausente. O descarregamento eleva a compreensão percebida e reduz o processamento profundo ao mesmo tempo, e só a primeira é experimentada. É por isso que avisos sobre as limitações da IA são intervenções fracas: eles endereçam crenças sobre o sistema enquanto a ilusão é gerada por uma ausência na própria experiência do usuário. A revisão é conceitual, sem dados próprios.
+
 
 ## Dependência excessiva: quando o descarregamento se torna danoso
 
@@ -93,7 +111,6 @@ A escada que esta página acompanha tem três degraus, e apenas os dois primeiro
 
 - **O paradoxo da eficiência: objetivos de domínio colapsando em descarregamento "por padrão".** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identificam estudantes que articulavam objetivos orientados ao domínio, mas executavam processos de tipo superficial, descarregando "não por intenção, mas por padrão": seus três grupos de intenção (Ferramenta de Terceirização n = 16, Assistente de Aprendizagem n = 31, Parceiro Cognitivo n = 8) mostram que o caso modal não é nem trapaça deliberada nem aprendizagem deliberada. Estudantes do grupo de Terceirização reconheciam o próprio desengajamento (copiar-e-colar parágrafo por parágrafo era descrito como "substituiu completamente meu cérebro") e relatavam esquecimento rápido, e todos os 38 entrevistados relataram baixa confiança no uso eficaz da GenAI — evidência de que a dependência excessiva pode ser movida por condições de presságio ausentes ([[ai-literacy|letramento em IA]], competência de prompting, orientação específica da tarefa), e não pela motivação de evitar trabalho.
 - **A programação agêntica descarrega a compreensão no campo:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] relatam que estudantes de graduação usando [[agentic-ai|agentes de IA]] num curso de projeto de software escreveram mais código ano a ano, mas mostraram quedas de compreensão sob uso intenso - recuperáveis por meio de verificação individual, pelo instrutor, de código gerado por IA.
-entre os riscos mais consequentes da IA na educação:
 
 - **Deslocamento da aprendizagem:** a [[ai-making-us-stupid|pesquisa sobre os efeitos cognitivos da IA]] documenta como a disponibilidade da IA reduz o processamento esforçado — o "efeito Google estendido ao raciocínio". [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolam isso como um *padrão* distinto de uso: a **adoção de baixa verificação** (aceitar sem crítica a saída da IA) predisse pior [[learning-gains|desempenho acadêmico]], enquanto a **integração avaliativa** (usar a IA para apoiar a compreensão) predisse melhor desempenho — e a **frequência** de uso isolada não predisse nenhum dos dois. A dependência excessiva é, portanto, um *modo de uso* que pode ser separado de quanto os estudantes usam a IA.
 - **O problema da agência:** [[aied-unfinished-mission-bypass|A missão inacabada da AIED]] enquadra a dependência excessiva como uma crise de agência e motivação — os estudantes contornam a aprendizagem não porque a IA é atraente, mas porque as tarefas de aprendizagem parecem sem sentido quando a IA pode concluí-las sem esforço.
@@ -147,7 +164,7 @@ A mesma lógica transforma a modelagem de recompensas numa ferramenta de desenho
 ## Ideias equivocadas comuns
 
 - **"O volume de prompts mede o descarregamento."** **97 estudantes** foram agrupados por volume de prompts, e **os agrupamentos por volume não diferiram significativamente no prompting local versus global nem no de papel ativo**. Contar prompts contou atividade, não a distribuição do trabalho cognitivo.
-- **"Os estudantes usam a IA principalmente para compreender."** **Analisar encabeçou a distribuição com 27,28% (831 mensagens), à frente de Compreender com 23,76%**, a primeira evidência fina de que a [[student-ai-interaction|interação estudante-IA]] naturalística se inclina para o analítico, e não para a compreensão.
+- **"Os estudantes usam a IA principalmente para compreender."** **Analisar encabeçou a distribuição com 27,28% (831 mensagens), à frente de Compreender com 23,76%**, a primeira evidência fina de que a interação estudante-IA naturalística se inclina para o analítico, e não para a compreensão.
 - **"Os rastros de prompt revelam se houve descarregamento."** O que os rastros no nível do prompt não conseguem fornecer vem de uma **subamostra de 16 estudantes com notas vinculadas, cujas 1.140 mensagens foram codificadas à mão**: **49,6% de 125 diálogos não mostraram descarregamento** algum. Os padrões de rastro superestimam o descarregamento em relação ao diálogo codificado à mão.
 
 ## Conceitos conectados
@@ -172,6 +189,9 @@ A mesma lógica transforma a modelagem de recompensas numa ferramenta de desenho
 - [[cognitive-surrender]]
 
 ## Artigos conectados
+- [[riva-cognitive-capital-generative-ai-review-2026]] — Capital cognitivo: o descarregamento como saque sobre um estoque renovável de capacidade
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Descalibragem entre dimensões: fluência operacional lida como competência avaliativa e de domínio (revisão conceitual)
+- [[akcaoglu-offloading-ladder-experience-2026]] — A Escada do Descarregamento: como a experiência muda o que aprendizes e profissionais devem entregar à IA (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Apoiar ou substituir o raciocínio dos estudantes? Descarregamento cognitivo na aprendizagem de demonstrações assistida por IA (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — O que a entrega não mostra: complexificar o descarregamento cognitivo no trabalho matemático de estudantes com LLMs (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Um consenso de 30 especialistas sobre 65 processos de aprendizagem: descarregamento nas duas pontas da sequência de aprendizagem
@@ -214,3 +234,5 @@ A mesma lógica transforma a modelagem de recompensas numa ferramenta de desenho
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — A dependência de GenAI como condição de fronteira da disposição ao pensamento crítico e da empregabilidade autopercebida (Shojaei et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Crianças mostraram conectividade frontoparietal, de saliência e de atenção dorsal mais fraca que a de adultos enquanto conversavam com o ChatGPT, com escores de criatividade equivalentes
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI e pensamento criativo infantil: dependência excessiva e dependência de prompt numa revisão de escopo (Niu et al. 2026)
+- [[shastry-gray-empathy-offloading-2026]] — As pessoas descarregam a empatia quando acham que a IA pode oferecê-la (Shastry & Gray 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormência cognitiva: um experimento pré-registrado em que as affordances de IA reduziram o processamento profundo e elevaram a desorganização sem elevar o descarregamento (Braun 2026)

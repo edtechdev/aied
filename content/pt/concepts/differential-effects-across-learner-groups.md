@@ -1,7 +1,7 @@
 ---
 title: "Efeitos diferenciais entre grupos de estudantes"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-01T10:47:53-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Efeitos diferenciais entre grupos de estudantes** — o que a pesquisa sobre [[ai-education|IA na educação]] encontra sobre como o *uso* da IA e seus *efeitos* diferem entre tipos de estudantes: [[special-education|estudantes com deficiência]] e estudantes [[neurodiversity|neurodivergentes]], estudantes de segunda língua e [[multilingual-learning|multilíngues]], meninas e meninos, estudantes minoritizados, estudantes de famílias de baixa renda, estudantes rurais, estudantes de primeira geração, estudantes internacionais e estudantes [[adult-learning|adultos]]. O padrão que vale levar embora é desigual em duas direções ao mesmo tempo: algumas vertentes têm evidência real (deficiência, língua), enquanto outras estão praticamente vazias (primeira geração, internacional, refugiado), e mesmo as vertentes fortes raramente estabelecem que um *grupo* difere — estabelecem que uma ferramenta ajudou ou prejudicou uma amostra daquele grupo, o que é uma afirmação diferente. Esta página mapeia o que existe, o que mostra e as razões metodológicas pelas quais uma média de grupo não é uma previsão sobre um estudante.
 
@@ -87,7 +91,7 @@ A pesquisa sobre gênero aqui se divide entre se as ferramentas tratam quem apre
 
 Esta vertente é pequena em contagem de artigos e forte em mecanismo, porque a evidência é sobre o que a IA faz *com* um atributo demográfico depois de o ter.
 
-- **A [[personalized-learning|personalização]] é um vetor de viés.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] mostra ferramentas de [[llm|LLM]] de feedback de escrita pendendo para elogios alinhados a estereótipos e crítica retida quando o feedback é personalizado com a raça, a língua, a deficiência, o desempenho ou a [[motivation|motivação]] do estudante — sobre ensaios idênticos.
+- **A [[personalized-learning|personalização]] é um vetor de viés.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] mostra ferramentas de [[llm|LLM]] de feedback de escrita pendendo para elogios alinhados a estereótipos e crítica retida quando o feedback é personalizado com a raça, a língua, a deficiência, o desempenho ou a [[motivation]] do estudante — sobre ensaios idênticos.
 - **A pista demográfica pode ser implícita.** A auditoria contrafactual acima concluiu que históricos de conversa, e não apenas personas explícitas, moveram o comportamento de pontuação e de feedback — o mesmo resultado das [[demographic-signals-llm-student-assessment-2026|192.480 chamadas de inferência]], e uma razão pela qual uma regra de divulgação sobre dados demográficos *declarados* é insuficiente.
 - **Lacunas de migração e língua podem dominar.** No EduFair-Bench, o modelo de 70B combinou as maiores lacunas de língua e imigração com as menores lacunas de pedagogia, de modo que um tutor que parece pedagogicamente forte pode ser o mais sensível a quem o estudante aparenta ser.
 - **Exclusão epistêmica, e não apenas erro:** ver [[genai-minoritized-knowledges-disability|a marginalização de saberes minoritários]] acima.
@@ -124,6 +128,12 @@ O achado honesto deste levantamento é quão finos são alguns grupos. Cada um d
 - **Prefira desenhos que igualam onde a evidência permite.** O resultado de segmentação de vídeo para TDAH — todos melhoram, a lacuna fecha — é uma meta mais adequada para uma turma geral do que um complemento dirigido a um grupo.
 - **Tenha cuidado com a personalização que consome atributos demográficos.** O achado das [[marked-pedagogies-linguistic-bias-writing-feedback|pedagogias marcadas]] é diretamente sobre esse mecanismo, e se aplica a check-ins de [[well-being|bem-estar]], [[affective-computing|tutores afetivos]] e [[recommender-systems-and-learning-paths|sistemas de recomendação]] que fazem perfil de quem aprende.
 - **Teste localmente, sobre o grupo de que você cuida, com um resultado medido sem a ferramenta.** Ver [[interpreting-and-applying-aied-research|Interpretar e aplicar a pesquisa em AIEd]] para os hábitos de avaliação crítica e [[research-methods-aied|Métodos de pesquisa em IA em educação]] para os desenhos que tornam um teste local defensável.
+
+## Ideias equivocadas comuns
+
+- **"Rótulos de grupo capturam a variação que importa."** **Rótulos de grupo escondem a variação dentro deles**: na meta-análise sobre deficiência, estudantes com **dificuldades específicas de aprendizagem, deficiências intelectuais e de desenvolvimento** e outras categorias são agrupados, de modo que a média do grupo não descreve nenhum deles.
+- **"Análises de subgrupo respondem à questão dos efeitos diferenciais."** Elas costumam ser **pequenas demais para responder**: o [[ai-tutoring-micro-rct-gcse-science-2026|micro-ensaio de ciências do GCSE]] é excepcionalmente explícito ao dizer que seu contraste de **tratamento** tem poder para o efeito geral, e não para diferenças entre subgrupos. Um achado de subgrupo sem poder é uma hipótese, não um resultado.
+- **"Um efeito agrupado médio diz se um determinado grupo se beneficia."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 estudos (quase) experimentais]] agrupados em **g de Hedges = 0,588 (IC 95% [0,349, 0,826])** ao longo das categorias de deficiência. O intervalo descreve a média sobre essas categorias, e "qual grupo, qual necessidade" é uma análise separada.
 
 ## Conceitos conectados
 

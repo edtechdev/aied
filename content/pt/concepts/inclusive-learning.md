@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Aprendizagem inclusiva"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,16 @@ A aprendizagem inclusiva está profundamente conectada à [[equity-in-ai-educati
 - **Trate a troca segurança/acessibilidade explicitamente.** O [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] modela como medidas anticola podem inadvertidamente excluir quem aprende com necessidades de processamento visual — pese integridade contra acesso.
 - **O acesso pode depender da formulação, não apenas do formato.** Com a tarefa subjacente mantida fixa, a acurácia do modelo subiu de 82,4% para redação com baixa literacia para 83,4% para formulação de especialista, de modo que exigir que estudantes formulem melhores prompts acrescenta uma nova exclusão; um reescritor do lado do sistema que normaliza pedidos removeu a lacuna significativa sem alterar o conteúdo ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Proteja-se contra a IA reproduzir exclusão.** A [[genai-minoritized-knowledges-disability|crítica centrada na deficiência]] alerta que dados de treinamento anglófonos e centrados no Ocidente marginalizam formas de conhecer de pessoas com deficiência — audite ferramentas de IA por justiça epistêmica junto com [[equity-in-ai-education|equidade na educação com IA]].
+
+## Ideias equivocadas comuns
+
+**"Uma ferramenta acessível é um curso inclusivo."** A acessibilidade responde a uma pergunta — todas as pessoas conseguem perceber e operar o formato —, o que é necessário e está longe de ser suficiente. A aprendizagem inclusiva também pergunta quais ferramentas reduzem a [[digital-divide|lacuna de acesso]] de um indivíduo e como o desenho deveria antecipar a variação em vez de adaptar-se a ela depois. Uma interface compatível com leitores de tela em um curso cuja estrutura de avaliação pressupõe uma sala silenciosa, banda larga confiável e tempo ininterrupto resolveu o problema de exibição e deixou intacto o problema de participação.
+
+**"Fornecer tecnologia assistiva fornece agência."** As duas são distintas, e o próprio enquadramento da página o diz: a tecnologia assistiva não garante agência significativa. Uma ferramenta que permite a quem aprende completar a tarefa exigida também pode encaminhá-lo para a versão mais estreita dela, e a diferença entre um andaime e um teto é invisível em uma métrica de adoção.
+
+**"Estudantes com dificuldades deveriam simplesmente aprender a formular prompts melhores."** Isso converte um defeito do sistema em um déficit de quem aprende. Com a tarefa subjacente mantida fixa, a acurácia do modelo subiu apenas de **82,4% para redação com baixa literacia para 83,4% para formulação de especialista** — uma diferença de um ponto —, enquanto exigir melhores prompts acrescenta uma nova exclusão em cima da que já existe. A alavancagem está no tratamento da variação linguística do lado do sistema, não em treinamento remedial de prompts.
+
+**"Uma ferramenta construída para salas de aula bem equipadas servirá contextos de baixos recursos assim que for traduzida."** O contexto muda a restrição de desenho. O [[suacode-african-students-motivations|SuaCode]] alcançou estudantes em contextos africanos de baixos recursos em que **menos de 1% tem competências de programação** construindo para smartphones em vez de máquinas de laboratório de desktop, o que é um desenho diferente, e não uma versão menor do mesmo.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Sustentabilidade
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-28T19:00:58-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-09-19T05:10:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **A sustentabilidade** — a interseção de duas preocupações: como a IA pode ser usada *para* resultados de sustentabilidade na educação (IA para a sustentabilidade, incluindo a Educação para o Desenvolvimento Sustentável e a educação verde), e como tornar a própria IA *sustentável* (IA sustentável, reduzindo a pegada ambiental, ética e social dos sistemas de IA na educação). Como usuárias e desenvolvedoras de IA, as instituições educacionais devem avançar objetivos ambientais e sociais ao mesmo tempo que garantem o uso responsável e ético da IA.
 
@@ -35,6 +39,8 @@ ai_assist:
 ## Introdução
 
 A sustentabilidade na AIED abrange três enquadramentos sobrepostos: a **educação sustentável** (um projeto educacional baseado em valores e centrado no humano), a **sustentabilidade na educação** (usar a educação como um instrumento para a sustentabilidade) e a **educação para o desenvolvimento sustentável** (ESD, a agenda política global, especialmente o [[k-12|Objetivo de Desenvolvimento Sustentável 4]]). A IA intersecciona cada um desses de forma diferente — e o campo distingue duas vias centrais: a **IA para a sustentabilidade** (a IA como ferramenta para alcançar resultados de sustentabilidade) e a **IA sustentável** (reduzir a própria pegada ambiental e ética da IA).
+
+A via ambiental tem uma lacuna documentada: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] relatam que as consequências ambientais da GenAI não foram discutidas nos documentos de política da universidade no local do estudo, e argumentam que uma orientação institucional que as omite falha em abordar as preocupações que professores e estudantes têm.
 
 ## A taxonomia de duas partes
 
@@ -67,6 +73,12 @@ Uma vertente relacionada enquadra a sustentabilidade não apenas como uma preocu
 
 A sustentabilidade e a IA na educação ficam na interseção da [[ethics|ética]], da [[governance|governança]], da [[ai-education|IA na educação]] e das ciências ambientais/energéticas. Ela recorre à [[teacher-education|formação de professores]] e ao [[teacher-role|papel do professor]] para a construção de capacidade, ao [[learning-design|design de aprendizagem]] para a pedagogia, e se conecta ao tratamento que a base de conhecimento dá à [[cognitive-offloading|descarga cognitiva]] e ao [[critical-thinking|pensamento crítico]] por meio da lente da "aprendizagem sustentável". Como ambas as vias são transversais, a sustentabilidade é um tema fundacional que aparece no [[higher-ed|ensino superior]], no K-12 e em contextos profissionais.
 
+## Ideias equivocadas comuns
+
+- **"O conhecimento abstrato de IA prediz a capacidade dos professores de ensinar sustentabilidade."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] descobriu que o **uso prático de IA** pelos professores em contextos de ciência e energia verde e seu **envolvimento no desenvolvimento de materiais alinhados à ESD** — **mais do que o conhecimento abstrato de IA ou as atitudes** — previram sua capacidade. Saber sobre IA e conseguir construir com ela divergiam, e a rota prática previa mais.
+- **"O design instrucional assistido por IA sob uma pedagogia da sustentabilidade produz pedagogia da sustentabilidade."** O mesmo trabalho descobriu que o [[learning-design|design instrucional]] assistido por IA sob a Pedagogia do Desenvolvimento Sustentável **restringiu** o design de formas específicas, em vez de expandi-lo. Um modelo treinado em materiais convencionais reproduz enquadramentos convencionais, a menos que o trabalho de design corrija isso.
+- **"A sustentabilidade é um tópico, não um tema transversal."** Como ambas as vias atravessam níveis, a sustentabilidade aparece no [[higher-ed|ensino superior]], no K-12 e em contextos profissionais — o que significa que é um tema fundacional que precisa ser abordado dentro de cada disciplina, em vez de ensinado como uma matéria separada.
+
 ## Conceitos conectados
 
 - [[ethics]]
@@ -85,6 +97,7 @@ A sustentabilidade e a IA na educação ficam na interseção da [[ethics|ética
 
 ## Artigos conectados
 
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudo sueco de survey e grupos focais argumentando que a ética da parceria, e não o enquadramento de trapaça, deveria orientar as decisões institucionais sobre GenAI
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education

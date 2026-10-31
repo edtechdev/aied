@@ -1,19 +1,23 @@
 ---
 title: "IA psicometricamente consciente"
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -44,11 +48,19 @@ ai_assist:
 - **Validade de medição:** O conceito se conecta à [[assessment-validity|validade da avaliação]] e à [[educational-measurement|medição educacional]], os frameworks que definem como é uma avaliação por IA válida e confiável.
 - **Validade de estrutura latente:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] mostram que uma postura psicometricamente consciente precisa também verificar se uma avaliação mede o *mesmo constructo latente* em LLMs e em humanos. Como as estruturas fatoriais de resposta de LLM e humanas divergem nos mesmos instrumentos, mesmo modelos que pontuam bem podem não estar medindo o constructo que a prova pretende medir — uma ressalva para qualquer avaliação por IA que tome emprestada evidência de validade humana.
 - **Um rótulo pode medir mais, ou menos, do que nomeia.** Embutir os 55 constructos e 272 itens de 12 instrumentos de letramento em IA trouxe à tona pares jangle (mesmo rótulo, medição diferente) e pares jingle (rótulos diferentes, redação quase idêntica), recuperando a confiabilidade em r = 0,49 — uma verificação pré-coleta de que as distinções de constructo sobrevivem na redação dos itens ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **Uma escala de dependência que recusa a ancoragem em resultados.** Quatro fatores — uso reflexivo, cauteloso, irrefletido e colaborativo — emergiram de 800 respostas e se mantiveram em uma tarefa de formato diferente (CFI = ,91), medindo o comportamento por momento de tarefa em vez de rotulá-lo como bom ou ruim ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **Pipelines de habilidade latente e definição de padrões:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] fornecem um modelo concreto de correção psicometricamente consciente em uma prova nacional: as notas de item da rubrica nunca são somadas diretamente, mas alimentadas em um modelo de [[item-response-theory|IRT]] cujas estimativas de habilidade latente são cortadas pelo método Bookmark de definição de padrões em Proficiente / Próximo da Proficiência / Insuficiente, com a aprovação exigindo pelo menos duas seções Proficientes e a restante pelo menos Próximo da Proficiência. Os autores reproduziram esse pipeline em forma automatizada (uma probabilidade de 67% de responder corretamente pelo menos 7 itens da rubrica para o corte inferior e pelo menos 10 para o superior), permitindo que notas de item de IA e humanas sejam comparadas contra critérios de decisão idênticos, e não apenas em concordância bruta.
+- **Métricas balanceadas pegam um modelo que apenas parece calibrado.** Pedir ao GPT-4o e ao Gemini 2.0 Flash que inferissem dimensões de estilo de aprendizagem a partir dos diálogos de 153 graduandos produziu uma acurácia moderada que o recall por classe mostrou ser predição da classe dominante, com aprendizes Intuitivos e Globais subidentificados e o prompting few-shot às vezes ampliando o viés em vez de removê-lo ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]]).
 
 ### Conexões
 
 A IA psicometricamente consciente se situa na interseção da [[educational-measurement|medição educacional]], da [[assessment-validity|validade da avaliação]], da [[item-response-theory|teoria da resposta ao item]] e da [[automated-assessment|Avaliação por IA consciente de confiança]]. Ela é central para a [[ai-ed-evaluation|avaliação em AIED]] (se a avaliação por IA é confiável) e se conecta à [[automated-assessment|avaliação automatizada]] baseada em [[llm|LLM]] e à [[automated-assessment|Correção Automatizada]]. Sua ênfase na validade também fala às [[limitations-in-aied-research|limitações de medição]] da pesquisa em [[ai-education|AIEd]].
+
+## Ideias equivocadas comuns
+
+- **"Um modelo que pontua bem está medindo a mesma coisa."** No **mesmo instrumento de avaliação**, as estruturas de resposta humanas e de LLM **divergem** — um modelo pode pontuar bem enquanto mede algo diferente do que o instrumento pretende. Notas que coincidem são a observação; a equivalência de constructo é uma alegação separada, que exige evidência no nível da estrutura.
+- **"A calibração pode ser lida a partir de uma única cifra de acurácia."** **Métricas balanceadas pegam um modelo que apenas parece calibrado**: pedir ao GPT-4o e ao Gemini 2.0 Flash que inferissem dimensões de estilo de aprendizagem a partir dos diálogos de **153 graduandos** produziu **acurácia moderada que se comportou de forma diferente sob métricas balanceadas**. A acurácia agregada escondia um diferencial que as métricas balanceadas expuseram.
+- **"Pipelines de correção automatizada não conseguem reproduzir o procedimento psicométrico."** Os autores reproduziram um pipeline estabelecido em forma automatizada (**uma probabilidade de 67% de responder corretamente pelo menos 7 itens da rubrica para o corte inferior e pelo menos 10 para o superior**), permitindo que notas de item de IA e humanas fossem comparadas em pé de igualdade. O procedimento era reproduzível; a questão do constructo permanece.
 
 ## Conceitos conectados
 
@@ -62,6 +74,7 @@ A IA psicometricamente consciente se situa na interseção da [[educational-meas
 - [[ai-education]]
 
 ## Artigos conectados
+- [[genai-reliance-scale-problem-solving-2026]] — Uma escala validada para a dependência de estudantes em relação à IA generativa durante a resolução de problemas (Hou et al. 2025)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — Um framework de humano-na-alça para correção assistida por IA em avaliação de escrita em larga escala
 - [[assessment-latent-structure-human-llm-2026]] — Instrumentos de avaliação medem a mesma coisa para humanos e LLMs? (Strugatski et al. 2026)
 - [[llm-psychometric-calibration-cdp]] — Alinhando a avaliação por LLM à calibração psicométrica
@@ -73,3 +86,4 @@ A IA psicometricamente consciente se situa na interseção da [[educational-meas
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimando dificuldade de itens com LLMs e ML baseado em árvores
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparando instrumentos de letramento em IA: pares jangle e jingle ao longo de 55 constructos
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões gerada por IA em cursos de ciência de dados
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — A acurácia moderada era predição da classe majoritária depois de verificada a revocação por classe (Zamanifard, Goudarzi & Robb 2026)

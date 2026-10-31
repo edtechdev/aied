@@ -1,7 +1,7 @@
 ---
 title: Avaliação de IA na educação
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,7 @@ A trajetória de uma década do campo é, por si só, um enquadramento: [[xiong-
 
 - **Correção e pontuação automatizadas:** a [[cong-confidence-asag-2026|correção de respostas curtas com LLM]], o [[cong-confidence-asag-2026|ASAG com consciência de confiança]], a [[cotal-formative-assessment-scoring-2026|engenharia de prompt CoTAL com humano no circuito]] e o [[llm-cognitive-diagnosis-handwritten-math|diagnóstico cognitivo de matemática manuscrita]] mostram que os LLMs conseguem corrigir e diagnosticar, mas que a confiabilidade depende da [[human-in-the-loop-ai|supervisão humana]], do ancoramento em domínio específico e da calibração de confiança, e não do tamanho bruto do modelo.
 - **Um benchmark para o conhecimento pedagógico em vez do conteúdo.** [[cdpk-pedagogy-benchmark-llms|Lelièvre et al. (2025)]] pontuam 97 modelos em itens de provas de professores chilenos (CDPK 28–89%), muitos superando uma linha de base humana estimada em ~50%, embora os itens estáticos de múltipla escolha não consigam testar o planejamento de aula nem o andaimento passo a passo.
+- **Reconhecimento não é geração.** No TutorCaseBench, o melhor de 11 modelos escolheu uma estratégia documentada em 63,0% dos itens de quatro opções, mas satisfez uma intervenção documentada em apenas 55,8% dos casos de resposta livre, de modo que as pontuações de seleção de estratégia superestimam a prontidão do tutor ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
 - **Validando itens gerados contra um benchmark psicométrico.** [[assessing-quality-ai-generated-exams-field-2025|Isley et al. (2025)]] geraram provas sob medida para 71 turmas e usaram outras 20 como benchmark contra itens de AP Statistics escritos por humanos, ajustando um modelo de [[item-response-theory|TRI]] 2PL bayesiano hierárquico com âncoras de pré-teste ao longo de 1.686 estudantes; os itens de IA eram mais fáceis, mas mais discriminantes (ᾱ = 1,3 vs. 1,2).
 
@@ -73,6 +78,8 @@ A avaliação de estudantes simulados enfrenta o mesmo padrão: um simulador só
 **A acurácia agregada esconde quem é mal atendido.** As [[drawedumath-vlm-struggling-students-2026|avaliações de modelos visão-linguagem no DrawEduMath]] mostram que a acurácia geral obscurece uma fraqueza sistemática: os modelos têm desempenho pior exatamente sobre o trabalho dos estudantes que mais precisa de ajuda pedagógica (trabalho errôneo, de estudantes com dificuldades), de modo que desagregar a avaliação por proficiência do estudante e por status de erro é necessário para não superestimar a capacidade e não ampliar as lacunas de desempenho.
 
 **A correção binária esconde as falhas que importam.** Em um benchmark de diagnóstico de passo com três categorias sobre 10.836 pares simulados, sete tutores com LLM classificaram os passos ótimos quase perfeitamente (F1 94–99%), mas as alternativas válidas ficaram em F1 0–76% e os passos incorretos em 4–55% — excesso de rejeição e excesso de validação —, e o diagnóstico preciso ainda não produziu feedback acionável ([[yasir-llm-tutoring-agents-2026|Yasir et al. (2026)]]).
+
+- **Controles de perturbação mostram qual evidência um modelo de fato usa.** No VIRA-Bench, o melhor de 11 modelos respondeu 61,3% das perguntas sobre vídeos de tutoria contra uma referência especialista de 91,0%, e remover o vídeo versus embaralhar sua ordem degradou camadas diferentes de perguntas — um diagnóstico mais barato do que outra pontuação agregada ([[vira-bench-pedagogical-contingency-tutoring-videos-2026|Wang et al. (2026)]]).
 
 - **Reutilizar instrumentos humanos para avaliar LLMs exige uma verificação da estrutura latente.** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] ajustaram análise fatorial exploratória separadamente para humanos e para seis LLMs multimodais: a congruência LLM–humano ficou abaixo da linha de base humano–humano nos dois instrumentos, e a análise paralela reteve contagens de fatores diferentes (cinco para humanos contra quatro para LLMs).
 
@@ -106,8 +113,16 @@ Um objeto central da avaliação de IA na educação é o **ganho de aprendizage
 Benchmarks condicionados ao contexto são necessários: [[zhang-tutormoments-2026|Zhang et al. (2026)]] argumentam que benchmarks anteriores de tutoria (MathTutorBench, MRBench, LearnLM) recompensam um lado do dilema da assistência ou dão orientações subespecificadas. O TutorMoments, em vez disso, reproduz pontos de decisão pedagógica identificados pelos professores, avaliando se a ajuda do tutor é apropriada ao momento específico de aprendizagem — [[scaffolding|andaimento]] vs. rigor.
 - **A métrica que você escolhe pode reverter suas conclusões.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]], ao avaliar agentes de ensino com IA na [[medical-education|educação médica]], constataram que os escores agregados não divulgados de uma [[edtech-platform|plataforma educacional]] ordenavam os agentes quase de forma oposta a uma rubrica transparente e validada por especialistas de qualidade de ensino em 8 dimensões (acurácia de conhecimento médico, orientação pedagógica, cobertura de conhecimento, qualidade do role-play, dificuldade adaptativa, segurança médica, engajamento, feedback). Os escores da plataforma indexam o desempenho do estudante; a rubrica indexa o comportamento de ensino do agente — escolher a métrica errada determina quais agentes são adotados ou refinados. Eles também constataram que a leniência do LLM como avaliador difere por modelo (alguns lenientes demais para discriminar), portanto a pontuação automatizada precisa de calibração humana e é mais confiável nas dimensões de processo cognitivo.
 - **Uma taxa de erro pode esconder a falha que ela deveria capturar.** [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] enviou uma gravação texto-para-fala de uma passagem de inglês médico para quatro serviços de [[speech-and-voice-technologies|ASR]]: os dois serviços gratuitos retornaram 87,96% e 88,34% da referência, enquanto os dois pagos retornaram prévias de 32,76% e 55,35% e, por isso, pontuaram taxas de erro por palavra de 73,21% e 48,77%. As taxas altas de erro vieram de tokens nunca retornados, e não de tokens mal ouvidos, de modo que ordenar apenas pela taxa de erro tratou uma restrição de exportação como uma falha de transcrição. A cobertura deve figurar ao lado da taxa de erro sempre que uma métrica automatizada substitui o artefato que o estudante vê.
+- **Um mapa bibliométrico pode expor o que uma cultura de avaliação recompensa.** Ao longo de 1.403 publicações de educação médica, os trabalhos mais citados mediam a capacidade do modelo — sobretudo o desempenho do ChatGPT em exames de licenciamento —, enquanto a pesquisa em [[governance|governança]] ficava atrás, de modo que os autores pedem avaliação empírica de frameworks de governança em vez de mais testes de capacidade ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Ancore as suítes de avaliação à aprendizagem medida, não a proxies.** Benchmarks de capacidade de ensino, rubricas de pedagogia conversacional e latência do tutor devem ser validados contra ganhos de aprendizagem reais em vez de tratados como substitutos deles, e a latência é ela mesma um eixo de avaliação porque molda se os estudantes se engajam de algum modo ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 - **Avaliações baseadas em julgamento de especialistas precisam de sua própria contabilidade de confiabilidade.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] pediram a 25 especialistas do domínio que avaliassem 92 [[video-education|vídeos de aula]] gerados contra uma rubrica ancorada na "qualidade de uma aula padrão de MOOC", julgando 87% no nível ou acima da barra (média 3,42 de 5). Cada vídeo foi avaliado uma vez por um único avaliador (k = 1), portanto o desenho distribui o painel pelo corpus ao custo de uma estatística de concordância interavaliadores; um modelo de interceptores aleatórios atribuiu cerca de 35% da variância residual ao avaliador (ICC = 0,35), e o artigo relata intervalos agrupados por avaliador em vez de um único valor de precisão. Uma avaliação construída sobre julgamento de especialistas é tão forte quanto a análise de confiabilidade que publica.
+
+## Ideias equivocadas comuns
+
+- **"Pontuações altas em exames de professor significam que o modelo é pedagogicamente competente."** **97 modelos** foram pontuados em itens de exames de professores chilenos (**CDPK 28-89%**), com muitos superando uma linha de base humana estimada em **~50%** — e ainda assim os **itens estáticos de múltipla escolha não conseguem** testar o julgamento em ato. Ir bem no exame está limitado pelo que o exame mede.
+- **"O critério de pontuação é uma tecnicalidade."** A correspondência estrita pontuou os mesmos 2.250 diálogos de tutoria em **42,1%**, onde um juiz-LLM calibrado por humanos pontuou **81,3%** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — o critério move o número mais do que o modelo do tutor, a estratégia ou o pipeline.
+- **"Reconhecimento e geração são capacidades comparáveis."** **Reconhecimento não é geração.** No TutorCaseBench, o melhor de **11 modelos** escolheu uma estratégia documentada em **63,0% dos itens de quatro opções**, mas satisfez um critério de implementação documentado com muito menos frequência. Selecionar a resposta certa entre quatro e produzi-la são tarefas diferentes.
+- **"Pontuações de modelo são significativas sem um instrumento validado."** Exames sob medida para o curso foram gerados para **71 turmas** e comparados com itens de AP Statistics escritos por humanos por meio de um modelo **2PL hierárquico bayesiano** — o instrumento foi ajustado antes de as pontuações serem interpretadas.
 
 ## Conceitos conectados
 
@@ -131,6 +146,8 @@ Benchmarks condicionados ao contexto são necessários: [[zhang-tutormoments-202
 - [[agentic-ai]] — Avaliação do comportamento de agentes de IA autônomos
 
 ## Artigos conectados
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: avaliando tutores de LLM com estudantes de comportamentos desafiadores (Park et al. 2026)
+- [[vira-bench-pedagogical-contingency-tutoring-videos-2026]] — VIRA-Bench: diagnosticando a compreensão da contingência pedagógica em vídeos de tutoria on-line
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — O que os escores de plataforma deixam passar: avaliação multidimensional de agentes de ensino com IA
 - [[assessment-latent-structure-human-llm-2026]] — Os instrumentos de avaliação medem a mesma coisa para humanos e para LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Avaliação da qualidade de provas geradas por IA: um estudo de campo em larga escala
@@ -170,3 +187,5 @@ Benchmarks condicionados ao contexto são necessários: [[zhang-tutormoments-202
 - [[synthetic-educational-data-structural-fidelity-2026]] — O que as métricas de fidelidade deixam passar: uma verificação estrutural dos dados educacionais sintéticos
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
 - [[llm-judge-evaluation-educational-ai-2026]] — Quando os avaliadores gritam lobo: lições da avaliação com LLM como juiz em produção na IA educacional
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Um mapa bibliométrico pode expor o que uma cultura de avaliação recompensa
+- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: os critérios de avaliação moldam o sucesso medido na tutoria de matemática com LLM (Lee et al. 2026)

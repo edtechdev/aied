@@ -1,18 +1,22 @@
 ---
 title: "Análise de Perfil Latente"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -83,6 +87,12 @@ Quatro precauções, cada uma afirmada nas páginas-fonte:
 2. **Prefira métodos centrados na pessoa quando o entregável é diferenciação.** Os estudos de professores pré-serviço e de gestores apresentam ambos essa mudança como sua contribuição metodológica, porque preditores médios não podem revelar as configurações que justificam apoio diferenciado.
 3. **Relate a evidência de retenção por completo.** Publique comparações de BIC/AIC, entropia, tamanhos de perfil e uma verificação de estabilidade, e diga com clareza quando uma contagem de classes é exploratória.
 4. **Trate perfis como diagnósticos, não rótulos.** Um perfil é um construto de pesquisa com uma fronteira estimada, de modo que uma ferramenta que atribui indivíduos a categorias nomeadas carrega a precaução de qualquer instrumento de [[educational-measurement|medição]] — e os [[differential-effects-across-learner-groups|efeitos diferenciais entre grupos de aprendizes]] merecem o escrutínio de qualquer análise de subgrupo.
+
+## Ideias equivocadas comuns
+
+- **"A análise de perfil latente descobre grupos que existem."** A LPA converte a diversidade de aprendizes de uma afirmação retórica em um achado mensurável, e os perfis são um **modelo de um continuum dividido em fronteiras escolhidas**, não tipos naturais. O número de perfis é uma decisão analítica.
+- **"Qualquer membro da família de variáveis latentes serve."** Qual usar **decorre dos indicadores**: **LCA para indicadores categóricos**, LPA para contínuos. Escolher primeiro o método e depois os indicadores faz do resultado um artefato da escolha.
+- **"Perfis são comparáveis entre estudos."** Chen e colegas perfilaram **128 professores pré-serviço taiwaneses** em cinco construtos [[technology-acceptance-model|TAM]]/UTAUT2, enquanto Acquah e colegas perfilaram **509 graduandos ganenses**. Indicadores diferentes em populações diferentes não produzem rótulos de perfil comensuráveis.
 
 ## Conceitos conectados
 

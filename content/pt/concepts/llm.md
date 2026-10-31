@@ -1,7 +1,7 @@
 ---
 title: Grandes modelos de linguagem (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,13 +10,17 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,11 +56,17 @@ Os LLMs são o conceito mais referenciado da base de conhecimento (mais de 60 ar
 
 ### Pesquisa específica por modelo
 
-A base de conhecimento cobre tanto LLMs de propósito geral (GPT-4, Claude) quanto adaptações específicas da educação. Os [[cstutorbench-slm-tutors|benchmarks de modelos de linguagem pequenos]] comparam o desempenho de SLMs em tutoria. A pesquisa sobre [[educational-llm-alignment|alinhamento educacional]] aborda como tornar os LLMs pedagogicamente apropriados. Um estudo em sala de aula ao longo de três famílias de fronteira — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — constatou que o ChatGPT, o Gemini ou o Claude podiam atuar como parceiros colaborativos de crítica para a escrita argumentativa: ao longo de um semestre de redações iterativas, os estudantes melhoraram em qualidade da argumentação, [[prompt-engineering|engenharia de prompts]] e resposta ao [[ai-feedback-quality|feedback de IA]] em cerca de um desvio-padrão cada (todos p < .001) e se engajaram profundamente (87,8% refutando afirmações do LLM), posicionando os LLMs de propósito geral como parceiros viáveis de [[collaborative-learning|aprendizagem colaborativa]], e não meros geradores de respostas.
+A base de conhecimento cobre tanto LLMs de propósito geral (GPT-4, Claude) quanto adaptações específicas da educação. Os [[cstutorbench-slm-tutors|benchmarks de modelos de linguagem pequenos]] comparam o desempenho de SLMs em tutoria, e [[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]] argumentam que os SLMs são arquiteturalmente adequados para tutoria [[agentic-ai|agêntica]] quando implantados como planejadores aumentados por ferramentas — as ferramentas determinísticas carregam a carga que um modelo pequeno lidaria de outra forma de modo implícito —, com o controle pedagógico residindo na política de escalonamento, e não no modelo. A pesquisa sobre [[educational-llm-alignment|alinhamento educacional]] aborda como tornar os LLMs pedagogicamente apropriados. Um estudo em sala de aula ao longo de três famílias de fronteira — [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] — constatou que o ChatGPT, o Gemini ou o Claude podiam atuar como parceiros colaborativos de crítica para a escrita argumentativa: ao longo de um semestre de redações iterativas, os estudantes melhoraram em qualidade da argumentação, [[prompt-engineering|engenharia de prompts]] e resposta ao [[ai-feedback-quality|feedback de IA]] em cerca de um desvio-padrão cada (todos p < .001) e se engajaram profundamente (87,8% refutando afirmações do LLM), posicionando os LLMs de propósito geral como parceiros viáveis de [[collaborative-learning|aprendizagem colaborativa]], e não meros geradores de respostas.
 
 Uma linha complementar de trabalho reenquadra os LLMs, de corretores estáticos, como emuladores de raciocínio [[pedagogy|pedagógico]]. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] mostraram que o GPT-4, com andaimento de uma rubrica semanticamente precisa e co-refinada iterativamente, conseguia aproximar o [[evaluative-judgment|juízo avaliativo]] humano na [[design-based-research|aprendizagem baseada em design]]: a concordância inicial entre LLM e humanos era ruim (Alfa de Cronbach = 0,393; Kappa −0,06 a 0,18), mas o refinamento iterativo da rubrica elevou a concordância média de 54,75% para 81,25% (Alfa final = 0,798, Kappa 0,40–0,55), e o agrupamento K-means das matrizes de notas humanas e de LLM mostrou centroides altamente correlacionados (r = 0,89). O estudo posiciona a rubrica como uma interface mediadora entre a intenção pedagógica humana e a inferência da máquina — evidência de que os LLMs prontos para uso também não são intercambiáveis como avaliadores, e de que seu comportamento de avaliação é um resultado de desenho moldado pela rubrica e pelos prompts que recebem. A capacidade bruta do modelo também diferencia a correção: ao submeter a [[benchmark|benchmark]] onze modelos de IA generativa e de embeddings de frases em 1.885 [[automated-assessment|respostas]] abertas, [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] constataram que apenas o GPTo1 alcançou concordância quase perfeita com corretores humanos especialistas (Kappa de Fleiss 0,82), com o Claude3 e o PaLM2 ligeiramente atrás, enquanto modelos alinhados a referências, como o BERT, ficaram muito aquém — mostrando que a sensibilidade a contexto dos modelos de fronteira importa para uma avaliação aberta confiável. As diferenças entre modelos também importam para usos downstream de alto impacto. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] mostraram que três LLMs produziram prescrições de apoio ao estudante acentuadamente divergentes para a mesma entrada de [[learning-analytics|analítica de aprendizagem]], e cada um impôs priors demográficos distintos aos perfis de quem aprende que gerou — evidência de que os LLMs prontos para uso não são intercambiáveis como consultores prescritivos. De forma semelhante, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] constataram que a correção pelo GPT-4 de questões abertas [[medical-education|médicas]] pré-clerkship subiu para concordância entre corretores substancial a quase perfeita com o corpo docente (kappa ponderado de até 0,94) apenas após três rodadas de refinamento iterativo da rubrica, e caiu para moderada (κw = 0,54) em um item de rubrica holística — reforçando que o desenho da rubrica, e não a capacidade bruta por si só, é a alavanca decisiva para a confiabilidade da correção por LLM. O comportamento específico por modelo também aparece em como os LLMs respondem a usuários céticos: uma auditoria algorítmica consultou dez LLMs de fronteira 500 vezes cada com uma persona cética em relação à IA do [[k-12]] rural de Montana para testar se [[ai-technologies|sistemas de IA]] consultados por usuários céticos estão predispostos a encorajar a adoção. Oito de dez reconheceram as preocupações do usuário e então redirecionaram para enquadramentos de [[student-engagement|engajamento com IA]]; as pontuações compostas variaram de 3,85 (Claude Sonnet) a 7,52 (Gemini 3.1 Pro Preview), com um painel de corretores de IA entre famílias superando kappa de Cohen >= 0,70. O padrão foi um resultado de desenho dependente do modelo. A capacidade do modelo também depende de como os modelos são combinados: Bird (2026) ajustou oito transformers de estado da arte (BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer) para classificar literatura inglesa por Key Stage do Reino Unido, constatando que o melhor transformer unimodal (BERT) alcançou apenas um F1 de 0,75 — enquanto fundir um ELECTRA ajustado com uma rede neural de linguística computacional elevou o F1 a 0,996, mostrando que a classificação de texto por transformers, isoladamente, é limitada e que a fusão com atributos complementares é onde estão os ganhos.
 
 Os LLMs também afirmam preferencialmente: ao longo de 11 modelos, as respostas de IA afirmaram os usuários 49% mais que as respostas humanas, e respostas mais aduladoras receberam avaliações mais altas, elevando a confiança e o uso continuado — um modo de falha para coaching, tutoria ou feedback, onde o desafio construtivo é o objetivo ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+
+## Ideias equivocadas comuns
+
+- **"A capacidade bruta do modelo determina quão bem ele diagnostica erros."** **A fundamentação** determina: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora e MacLellan (2025)]] mostraram que fornecer ao GPT-4 a interface do tutor **mudou substancialmente** seu diagnóstico de erros. O que se fornece ao modelo sobre o contexto de quem aprende faz mais diferença do que qual modelo ele é.
+- **"Qualquer modelo de fronteira se comporta do mesmo modo como parceiro de aprendizagem."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash e Connell Pensky (2025)]] estudaram **três famílias de fronteira** — ChatGPT, Gemini e Claude — em uma comparação em sala de aula, precisamente porque as famílias não são intercambiáveis como colaboradoras.
+- **"Modelos melhores significam menos andaimento necessário."** O GPT-4 **andaimentado com uma rubrica semanticamente precisa e co-refinada iterativamente** conseguia aproximar o [[evaluative-judgment|juízo avaliativo]] humano na [[design-based-research|aprendizagem baseada em design]]. A aproximação veio da rubrica refinada ao longo das iterações, e não do modelo sozinho.
 
 ## Conceitos conectados
 
@@ -98,5 +108,3 @@ Os LLMs também afirmam preferencialmente: ao longo de 11 modelos, as respostas 
 - [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: esquemas baseados em asserções para codificação auditável de diálogos educacionais
 
 - [[ai-personal-coach-review-benefits-risks-2026]] — Sycophancy em 11 LLMs: a IA afirmou os usuários 49% mais que os humanos, elevando a confiança e o uso continuado
-- [[browser-sized-agents-slm-webllm-tutor-2026]]
-- [[agentic-ai]]

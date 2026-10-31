@@ -1,7 +1,7 @@
 ---
 title: "Salvaguardas"
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Salvaguardas** são os mecanismos de desenho explícitos, as restrições e os pontos de intervenção que mantêm um sistema de [[ai-education|educação com IA]] dentro de um comportamento pedagogicamente seguro — o *como* que operacionaliza o *objetivo* da [[pedagogical-safety|segurança pedagógica]]. Elas são a diferença entre um [[conversational-ai|chatbot]] de uso geral cru e uma ferramenta de tutoria que preserva de forma confiável a aprendizagem. Salvaguardas não são uma característica única, mas um conjunto em camadas de controles que abrange desenho de prompts, ancoragem em conhecimento, modelagem de recompensa, QA de implantação e auditoria contínua.
 
@@ -71,6 +75,8 @@ A [[rag|geração aumentada por recuperação]] ancora as respostas do tutor em 
 
 As salvaguardas não são neutras: a auditoria do [[paternalistic-filter-llm-history-education|Filtro Paternalista]] mostra que recusas e respostas amenizadas são padronizadas pela identidade do estudante e pela sensibilidade do tema, reproduzindo injustiça epistêmica mesmo enquanto "protegem". Salvaguardas seguras devem ser auditadas por tratamento diferencial — um caso direto de [[bias-mitigation|mitigação de viés]] e [[equity-in-ai-education|equidade na educação com IA]] em [[governance|governança]] e [[regulation|regulação]].
 
+**O limiar de uma salvaguarda classificatória é uma decisão de política.** Mover um corte de toxicidade de 0,3 para 0,7 reduziu os prompts rotulados de 35,62% para 12,4%; em um detector de golpes, trocou 15 falsos alarmes e 18 golpes não detectados por 2 e 36, nenhum corte elimina ambos, e um número de robustez significa pouco sem o ataque a que se refere ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan e Kalathas (2026)]]).
+
 ## Salvaguardas vs. segurança pedagógica
 
 - **A [[pedagogical-safety|segurança pedagógica]]** é o *princípio/objetivo* — que sistemas de educação com IA protegem quem aprende de danos (conteúdo, viés, conselho inseguro, manipulação).
@@ -90,6 +96,36 @@ Os dois estão intimamente acoplados: quase toda técnica de salvaguarda é uma 
 5. **Exija supervisão humana.** QA com professor na alça antes da implantação e auditoria contínua de tratamento diferencial.
 
 - **Salvaguardando a tutoria procedural com regras embutidas.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu e Sun (2026)]] instanciam esses princípios como um conjunto concreto e auditável de salvaguardas para um tutor de matemática com [[llm|LLM]]: um **portão de correção numérica** com uma salvaguarda de incerteza para que o tutor nunca faça um compromisso epistêmico injustificado, **restrições de saída** que impõem brevidade e progressão em micropassos para gestão da carga cognitiva, uma **fronteira antirrevelação** que institucionaliza o princípio lógica-primeiro ao devolver a agência computacional ao estudante, e um **portão de despedida** que codifica a distinção entre conclusão autêntica e término prematuro. Essas regras foram consolidadas como regras reproduzíveis de arquitetura de prompt validadas em um piloto de sala de aula com 40 estudantes — um modelo de tradução de princípios de [[pedagogical-safety|segurança]] em salvaguardas auditáveis e replicáveis.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Julgue um tutor pelo desempenho sem assistência, não pelo desempenho na prática. No RCT de campo, um tutor GPT-4 sem salvaguardas elevou o desempenho na prática em **+48%** enquanto *reduzia* notas posteriores em exames sem assistência em **17%**, e a versão "dica, não resposta" eliminou o dano. Todo sinal de sala de aula gerado com a ferramenta presente é o sinal inflado.
+- Quando você não pode mudar a ferramenta, mude o que é avaliado sem ela. A medida sem assistência é o que torna a questão das salvaguardas visível.
+- Trate a "gentileza" como um parâmetro de desenho com um modo de falha: um tutor que nunca contrapõe nem corrige pode satisfazer os estudantes enquanto remove o [[feedback]] corretivo de que a aprendizagem precisa.
+
+**Para desenvolvedores**
+
+- Construa a salvaguarda no caminho da interação, não em uma instrução de prompt que um estudante determinado consegue contornar. O padrão dica-não-resposta é o default apoiado empiricamente.
+- Reconheça que limiares são decisões de política, não otimizações. Mover um corte de toxicidade de 0,3 para 0,7 reduziu os prompts rotulados de 35,62% para 12,4%; em um detector de golpes, trocou 15 falsos alarmes e 18 golpes não detectados por 2 e 36. Nenhum corte elimina o trade-off, então exponha a escolha à instituição em vez de enterrá-la em uma constante.
+- Desenhe para a falha silenciosa. As falhas danosas aqui não são saídas tóxicas, mas tutores que respondem corretamente e corroem a aprendizagem, ou que recusam de forma uniforme e entrincheiram a desigualdade.
+
+**Para pesquisadores e auditores**
+
+- Relate avaliações de salvaguardas contra resultados sem assistência; uma salvaguarda que se sustenta na sessão mas deixa a aprendizagem estagnada é um sucesso parcial que os números de prática vão deturpar.
+- Audite a justiça nos padrões de recusa e de apoio, já que uma salvaguarda aplicada de forma uniforme ainda pode distribuir benefício de forma desigual.
+- Relate o limiar do classificador usado junto com qualquer alegação de segurança, porque a taxa de dano relatada não é comparável entre limiares.
+
+## Ideias equivocadas comuns
+
+**"Uma salvaguarda é um filtro que você acopla a um modelo."** Salvaguardas são um conjunto em camadas de controles que abrange desenho de prompt, ancoragem em conhecimento, modelagem de recompensa, QA de implantação e auditoria contínua, e as camadas não são intercambiáveis. Um filtro de conteúdo fica na saída; o padrão "dica, não resposta" fica no prompt e molda o que o sistema está disposto a fazer. No RCT de campo, a versão com salvaguardas eliminou o dano à aprendizagem que a versão sem salvaguardas criou, o que é uma propriedade do desenho da interação, e não do filtro.
+
+**"Se o modelo não produz conteúdo prejudicial, o sistema é seguro para quem aprende."** O dano costuma ser silencioso. As falhas de tutoria mais danosas não são saídas tóxicas, mas tutores que respondem corretamente e corroem a aprendizagem, ou que recusam de forma uniforme e entrincheiram a desigualdade — falhas para as quais uma triagem de toxicidade é estruturalmente cega, porque nada nelas é ofensivo. Passar em uma auditoria de conteúdo é uma condição necessária relatada como se fosse suficiente.
+
+**"Limiares de salvaguarda são escolhas de engenharia a serem ajustadas."** Um limiar é uma decisão de política com um custo distribucional. Mover um corte de toxicidade de 0,3 para 0,7 reduziu os prompts rotulados de **35,62% para 12,4%**; em um detector de golpes, trocou **15 falsos alarmes e 18 golpes não detectados por 2 e 36**. Nenhum corte elimina o trade-off — ele apenas decide qual erro a instituição prefere, e essa decisão pertence à instituição, não a uma constante padrão.
+
+**"A auditoria de justiça é uma preocupação separada da adequação das salvaguardas."** Padrões de recusa e de apoio distribuem benefício de forma desigual mesmo quando aplicados uniformemente, e uma taxa média de dano esconde quem absorve esse dano. A auditoria tem de fazer parte da especificação da salvaguarda, não um estudo encomendado depois.
 
 ## Conceitos conectados
 
@@ -115,6 +151,7 @@ Os dois estão intimamente acoplados: quase toda técnica de salvaguarda é uma 
 
 ## Artigos conectados
 
+- [[ai-security-literacy-k12-framework-2026]] — Letramento em segurança de IA: framework de competências baseado em ecossistema e plataforma de aprendizagem K-12
 - [[reflection-agent-fidelity-career-2026]] — Fiel onde pode ser verificado: auditando um agente de reflexão contra seu prompt de sistema em um ensaio randomizado
 - [[scaffolding-student-ai-dialogue-framework-2026]] — O framework SCAFFOLD para conduzir o diálogo estudantes–IA, com seu piloto em sala de aula
 - [[generative-ai-guardrails-harm-learning]] — o RCT de campo canônico sobre salvaguardas

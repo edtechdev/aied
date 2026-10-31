@@ -1,7 +1,7 @@
 ---
 title: Teorias de aprendizagem
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -65,7 +69,7 @@ O trabalho teórico recente estende a vertente clássica em várias direções, 
 
 - **Cor[[regulation|regulação]] humano–IA.** Um framework desenvolvimental posiciona a IA não como um instrumento externo, mas como uma **parceira cognitiva** que corregula o pensamento, a aprendizagem e o autocontrole ao longo da vida.([[ai-cognitive-partner-co-regulation-learning]]) Baseando-se em função executiva, [[metacognition|metacognição]], cognição distribuída e desenvolvimento sociocultural, ele lança a IA em quatro papéis — andaimento, apoio metacognitivo, sistema de memória externa / de [[cognitive-offloading|descarregamento cognitivo]] e parceira de decisão —, com o framework mais relevante a partir da infância intermediária.
 - **Ensemble Cognition.** Um framework [[philosophy-of-ai-in-education|filosófico]] reconceitua o pensamento como emergente de interações dinâmicas entre agentes humanos e artificiais, em vez de residir apenas em mentes individuais.([[ensemble-cognition-philosophy-ai-education]]) Ele desafia o "paradigma da consciência" (os pressupostos de autonomia, consciência e estabilidade) e articula cinco características — agência distribuída, centralidade dinâmica, orquestração cognitiva, integração multirrepresentacional e comutação sensível ao contexto —, ao mesmo tempo que distingue a **agência funcional** da IA da responsabilidade moral.
-- **Crescimento [[self-directed-learning|Autodirigido]] / A2PL.** Uma extensão da [[self-regulated-learning|aprendizagem autodirigida]] integra a IA generativa à [[learning-analytics|analítica de aprendizagem]] para cultivar o **Crescimento Autodirigido**, operacionalizado por meio do modelo Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Ele reconfigura as aspirações de quem aprende (humanísticas), o pensamento complexo (construtivista) e a autoavaliação (pragmática) em uma única competência, posicionando a IAG como um andaimento colaborativo não prescritivo, e não como um fornecedor de conteúdo.
+- **Crescimento [[self-directed-learning|Autodirigido]] / A2PL.** Uma extensão da [[self-directed-learning|aprendizagem autodirigida]] integra a IA generativa à [[learning-analytics|analítica de aprendizagem]] para cultivar o **Crescimento Autodirigido**, operacionalizado por meio do modelo Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Ele reconfigura as aspirações de quem aprende (humanísticas), o pensamento complexo (construtivista) e a autoavaliação (pragmática) em uma única competência, posicionando a IAG como um andaimento colaborativo não prescritivo, e não como um fornecedor de conteúdo.
 - **Supergeneralização enganosa.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] estendem a tradição ACT-R / Conhecimento-Aprendizagem-Instrução ao teorizar quando a correção observada mascara compreensão condicional incompleta: quem aprende compila uma produção supergeneralizada que omite uma restrição de aplicação, mas ainda assim tem um desempenho correto — um modo de falha que sistemas adaptativos de domínio, e até mesmo a instrução tradicional, podem deixar passar, a menos que testem *quando se abster* de uma ação.
 - **Teoria KLI executável.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger e Carvalho (2025)]] fundamentam o framework Conhecimento-Aprendizagem-Instrução em um modelo computacional executável (o framework Apprentice Learner, com um mecanismo de memória estilo ACT-R) que reproduz uma interação de crossover nos dados humanos: a prática pura auxilia a memória de fatos literais (ao atrasar o esquecimento), enquanto a prática integrada a exemplos auxilia a indução de habilidades generalizáveis. Como a KLI vincula o conhecimento constante (fato) a processos de memória e o conhecimento variável (habilidade) à indução, o resultado é uma interação conteúdo–tratamento prevista, e não uma contradição entre as recomendações de testagem e de exemplo resolvido —, e o sucesso do modelo apenas quando um mecanismo de memória está presente demonstra que prática e exemplos desempenham papéis distintos e complementares.
 - **A corporificação como desafio ontológico ao paradigma da IA.** [[videla-embodied-ai-education-choreography|Videla, Penny e Ross (2026)]] argumentam que uma divisão ontológica separa a cognição corporificada e enactiva do idioma representacional que a IA incorpora, de modo que a IA deveria ser descentrada como centro epistêmico, em vez de tratada como uma ferramenta neutra.
@@ -85,6 +89,32 @@ As teorias de aprendizagem também aparecem como conteúdo nos currículos de [[
 Ao lado das famílias clássicas, a base de conhecimento documenta teorias escritas especificamente para a aprendizagem com sistemas de IA, e são elas que carregam as implicações de desenho que as teorias mais antigas deixam abertas. O [[yan-agentivism-learning-theory-ai-2026|Agentivismo (Yan e Gašević 2026)]] é um exemplo de alcance médio: ele define a aprendizagem como crescimento durável na capacidade humana, e não como conclusão bem-sucedida de tarefas, nomeia quatro mecanismos (agência delegada, monitoramento epistêmico e verificação, internalização reconstrutiva, e transferência sob apoio reduzido), e enuncia seis proposições testáveis, entre as quais a de que o apoio de IA que preserva a responsabilidade de quem aprende pelo enquadramento do problema, pelo estabelecimento de critérios e pela justificativa produz aprendizagem mais forte que o apoio que entrega respostas.
 
 A **Simbiose Pedagógica** de [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] faz uma afirmação ontológica mais forte: quem aprende é uma entidade *Pós-Humana* cuja cognição é híbrida, e não assistida por ferramentas, organizada por quatro princípios: descarregamento cognitivo e ampliação, coconstrução epistêmica, simbiose metacognitiva, e formação dinâmica de identidade; operacionalizada como uma rubrica de Portfólio Simbiótico e um papel docente de "Coreógrafo Cognitivo"; ela é explicitamente não testada.
+
+## Ideias equivocadas comuns
+
+**"Uma das teorias de aprendizagem é a correta, então a escolha de teoria é uma questão de gosto."** As teorias fazem afirmações diferentes sobre o que conta como evidência, então os mesmos dados podem sustentar conclusões opostas. O caso mais claro: notas de dever de casa infladas leem-se como **aprendizagem sob o behaviorismo** e como **uma falha em construir compreensão durável sob o construtivismo**. A escolha de teoria determina, portanto, se uma intervenção teve sucesso, o que a torna uma decisão de medição e não uma preferência estilística.
+
+**"Uma ferramenta que apoia a aprendizagem profunda parecerá aprendizagem profunda sob qualquer framework."** Ela parecerá sucesso sob um e fracasso sob outro, como acima. É por isso que as medidas de desfecho do campo precisam ser justificadas contra uma teoria declarada, em vez de emprestadas como se fossem neutras.
+
+**"Mais teorias significam um campo mais bem compreendido."** Acumulação sem adjudicação é o oposto de progresso. As teorias propostas para a era da IA se multiplicam mais rápido do que são testadas, e o sinal de maturidade é a resolução de previsões concorrentes — o que exige desenhos que consigam distingui-las, e não catálogos que as acomodem.
+
+**"Educação sobre IA é o mesmo que IA na educação, teoricamente falando."** Elas se apoiam em vertentes diferentes: uma pergunta como quem aprende chega a compreender a IA como assunto, a outra como a IA muda a forma como a aprendizagem acontece. Confundi-las produz revisões de literatura que misturam duas bases de evidência distintas e não relatam um quadro coerente de nenhuma das duas.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Escolha a teoria pelo que você precisa que ela faça: explicar como a aprendizagem acontece, descrever o estado de quem aprende, ou explicar por que uma prática se difunde. Aplicar a camada errada mede a variável certa contra a previsão errada.
+- Declare explicitamente o compromisso teórico da medida de desfecho, já que notas de dever de casa infladas leem-se como sucesso sob o behaviorismo e como fracasso sob o construtivismo a partir de dados idênticos.
+- Quando um framework não consegue prever uma diferença entre configurações, ele não pode ser testado no seu contexto e não vai ajudar você a decidir.
+
+**Para desenvolvedores**
+
+- Publique a teoria que seu sistema incorpora e a previsão que o falsearia; "fundamentado no construtivismo" sem uma diferença falseável é uma afirmação sem conteúdo.
+
+**Para pesquisadores**
+
+- Desenhe para a adjudicação entre teorias, e não para a acumulação de frameworks. A maturidade aparece como previsões concorrentes resolvidas, e não como crescimento de vocabulário.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Conhecimento tecnológico, pedagógico e de conteúdo (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-07T13:40:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Conhecimento Tecnológico, [[pedagogy|Pedagógico]] e de Conteúdo (TPACK)** — o framework (Mishra & Koehler, 2006) que descreve o conhecimento integrado de que os professores precisam para usar a tecnologia com eficácia no ensino: a interação entre Conhecimento Tecnológico (TK), Conhecimento Pedagógico (PK) e Conhecimento de Conteúdo (CK), e suas interseções. Na era da IA, o TPACK foi estendido para **AI-TPACK** / **GenAI-TPACK**, modelando como os professores integram a IA generativa à instrução em área de conteúdo. É a lente teórica dominante para compreender como a [[teacher-ai-competency|competência em IA do professor]] é estruturada e construída por meio do [[educational-development|desenvolvimento profissional]].
 
@@ -49,6 +53,9 @@ O TPACK sustenta que a integração eficaz de tecnologia não é a soma de domí
 - **Conhecimento Tecnológico de Conteúdo (TCK)** — como a tecnologia molda e representa o conteúdo.
 - **Conhecimento Tecnológico Pedagógico (TPK)** — como a tecnologia apoia ou restringe as estratégias de ensino.
 - **TPACK** — o conhecimento integrado e emergente no centro, onde os três domínios interagem para possibilitar o ensino específico de conteúdo, ampliado por tecnologia.
+
+- **O framework domina o campo por padrão, e é esticado para caber.** Em uma revisão guiada por PRISMA de 78 estudos de desenho instrucional apoiado por IA, apenas 19 aplicaram algum framework de competência nomeado — e o TPACK e suas variantes responderam por **17 desses 19**, usados produtivamente como lente analítica, mas esticados além de seu escopo original, já que o TPACK não foi desenhado para capacidades específicas de IA. Extensões construídas para esse fim são correspondentemente raras: o **Intelligent-TPACK apareceu em apenas cinco estudos**, em geral pareado com o [[ai-literacy|letramento em IA]] para dar conta da progressão desenvolvimental ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **A pesquisa avança sem teorização, enquanto os frameworks de política não são testados.** A mesma revisão constatou que **76% dos estudos inferiram competências da prática sem nenhum mapeamento teórico**, e nem o DigCompEdu nem o AI Competency Framework for Teachers da UNESCO foram aplicados como framework analítico em nenhum dos 78 — uma desconexão que corre nas duas direções, já que o trabalho empírico não acumula vocabulário compartilhado enquanto os frameworks que deveriam guiar a prática seguem empiricamente não testados nesse contexto.
 
 ## AI-TPACK e GenAI-TPACK
 
@@ -84,6 +91,12 @@ O TPACK é o framework organizador do lado docente da base de evidências da bas
 2. **Trate a IA como um agente, não como um eletrodoméstico.** O AI-TPACK estende o framework para a orquestração de [[agentic-ai|agentes de IA]], exigindo pensamento sistêmico e juízo pedagógico sobre quando a IA deveria agir.
 3. **Diferencie o DP por perfil de professor.** Diferentes arquétipos de professor (otimizadores, criadores, observadores) se beneficiam de andaimentos diferentes — frameworks avançados, feedback rápido ou modelagem explícita, respectivamente.
 4. **Avalie a competência integrada.** Os resultados orientados ao TPACK (por exemplo, ganhos de AI-PCK) deveriam ser mensurados como capacidade integrada, e não como familiaridade autorrelatada com ferramentas.
+
+## Ideias equivocadas comuns
+
+- **"A dominância do TPACK reflete seu poder explicativo."** Essa dominância é **em parte um artefato de recuperação**: em uma revisão de escopo PRISMA de **195 estudos de formação de professores apoiada por tecnologia**, competência digital, TPACK e DigComp **dominam a literatura indexada**. Prevalência em uma busca é uma propriedade do vocabulário que o campo usa, não prova de que o framework explica mais.
+- **"Um framework bem conhecido é um framework validado para a IA."** O TPACK não foi desenhado para capacidades específicas de IA, e é por isso que o Intelligent-TPACK foi desenvolvido — e ele aparece em apenas **cinco estudos** na revisão de 78. Usar o TPACK para a competência em GenAI o estica além de sua construção.
+- **"Aplicar um framework significa que a pesquisa é teorizada."** A mesma revisão constatou que **76% dos estudos inferiram competências da prática sem nenhum mapeamento teórico**, de modo que a presença do TPACK no campo coexiste com a maior parte da pesquisa sem teorização. Um framework nomeado não é o mesmo que um framework fazendo trabalho.
 
 ## Conceitos conectados
 

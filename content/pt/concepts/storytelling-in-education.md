@@ -1,7 +1,7 @@
 ---
 title: "Narrativa na educação"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Narrativa na educação** — o uso da narrativa como ferramenta [[pedagogy|pedagógica]] para engajar quem aprende, transmitir significado e apoiar a construção de conhecimento, a criatividade e a conexão emocional. A narrativa é uma forma natural e motivadora de quem aprende dar sentido ao mundo, e ela é cada vez mais combinada com tecnologia — incluindo IA e [[educational-robotics|robôs sociais]] — para criar experiências narrativas interativas e adaptativas. A narrativa digital e mediada por robôs pode acrescentar interatividade, [[personalized-learning|personalização]] e corporificação que a narrativa convencional (em papel ou em slides) não tem.
 
@@ -42,7 +46,17 @@ A narrativa se fundamenta nas teorias de [[motivation|motivação]], [[student-e
 - **Narrativa e criatividade:** a narrativa apoia [[creativity|criatividade]] e desenvolvimento de [[language-learning|língua]], e é usada para potencializar motivação e engajamento em contextos de [[k-12|educação básica]].
 - **Narrativa digital como contrapeso à IA:** à medida que a [[generative-ai|IA generativa]] avança, a narrativa digital é ressignificada como veículo das capacidades emocionais, culturais e narrativas que faltam à IA. Em um modelo de [[project-based-learning|aprendizagem baseada em projetos]] para educação em arte e design, estudantes traduziram patrimônio cultural local em narrativas [[multimodal|multimodais]] ao longo de 92 obras de narrativa digital, demonstrando como a narrativa sustenta a criatividade humana na era da IA.
 
-A narrativa se conecta a [[student-engagement|engajamento estudantil]], [[motivation|motivação]], [[creativity|criatividade]], [[educational-robotics|robótica educacional]], [[language-learning|aprendizagem de línguas]] e [[social-emotional-learning|aprendizagem socioemocional]].
+A narrativa se conecta ao [[student-engagement|engajamento estudantil]], à [[motivation|motivação]], à [[creativity|criatividade]], à [[educational-robotics|robótica educacional]], à [[language-learning|aprendizagem de línguas]] e à [[social-emotional-learning|aprendizagem socioemocional]], e a [[educational-robotics|robótica educacional]] é o fio que atravessa boa parte dessa pesquisa.
+
+## Ideias equivocadas comuns
+
+**"Uma história construída em conjunto é uma história contada."** O que se ganha é fluência e volume; o que fica em risco é a autoria de quem conta. Uma história é uma estruturação da experiência feita por alguém que escolheu a sequência e a ênfase, de modo que uma máquina que fornece a estrutura forneceu justamente a parte que carrega o significado.
+
+**"A narrativa é um acréscimo brando ao conteúdo."** A narrativa é um dispositivo de memória e de construção de sentido, e quem narra está fazendo o trabalho de organizar. Entregar a narração é entregar a aprendizagem.
+
+**"A geração por IA torna a narrativa acessível a estudantes que não saberiam escrever."** Ela torna disponível *produzir um artefato escrito*, o que é um benefício diferente. A narração oral, o desenho e o ditado são as rotas consolidadas para o mesmo objetivo, e preservam a autoria que a geração remove.
+
+**"O valor educacional de uma história está no resultado polido."** Ele está na construção — a seleção e a ordenação que quem conta realiza. Uma história polida que o estudante não estruturou demonstrou a competência do modelo, não a de quem aprende.
 
 ## Conceitos conectados
 
@@ -60,5 +74,3 @@ A narrativa se conecta a [[student-engagement|engajamento estudantil]], [[motiva
 - [[icub-humanoid-storytelling-llm-hri-2025]] — IHRI narrativa com iCub
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robótica e IA na educação
-
-- [[educational-robotics]]

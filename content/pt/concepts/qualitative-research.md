@@ -1,19 +1,23 @@
 ---
 title: Pesquisa qualitativa
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,7 @@ Estudos de observação observam o comportamento em contexto; a etnografia esten
 
 ### Estudos de caso
 Um estudo de caso é uma investigação aprofundada de um caso delimitado (um curso, uma instituição, um único aprendente) usando múltiplas fontes de dados. [[drummond-genai-business-schools-framework-2026|Um estudo de caso de escola de negócios]] gera um framework de ensino e aprendizagem para a GenAI informado pelos estudantes; [[zha-ai-literacy-biology-case-study|um estudo de caso de biologia]] documenta a integração do letramento em IA. Estudos de caso trocam amplitude por profundidade e são fortes para geração de teoria e insight transferível, e não para generalização. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] oferecem um estudo de caso qualitativo de 21 estudantes de graduação com deficiência visual em três universidades palestinas, usando análise temática de entrevistas semiestruturadas para mostrar como a GenAI funciona como uma [[assistive-technology|tecnologia assistiva]] para a [[inclusive-learning|aprendizagem inclusiva]] — um exemplo de pesquisa de estudo de caso revelando mecanismos (adaptação personalizada, aumento do professor, paridade educacional) que as medidas quantitativas perdem.
+- A variação que foi escolhida não é a variação que foi encontrada: três aprendizes de EFL, selecionados entre 241 estudantes pesquisados por proficiência, gênero e histórico de GenAI diferentes, seguiram trajetórias emocionais acentuadamente divergentes ao longo de três tarefas, mas casos de variação máxima não conseguem estimar quão comum é qualquer trajetória ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang e Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangula vídeo, os próprios registros do sistema de alertas e entrevistas de recordação por estímulo para um professor e oito estudantes, mostrando que um sinal afetivo só adquiria sentido por meio da resposta do professor; a codificação de episódios em duas etapas por um único autor, sem codificação independente nem detecção validada de afeto, marca o limite do que uma análise de caso de um único codificador consegue garantir.
 
@@ -84,6 +89,16 @@ Um desenvolvimento recente distintivo é o uso de [[llm|LLMs]] para assistir a c
 - **Limitações:** generalizabilidade estatística limitada; interpretativo e dependente do pesquisador (preocupações de confiabilidade); amostras pequenas; apoio mais fraco para afirmações causais; os achados podem ser difíceis de sintetizar entre estudos; intensivo em tempo e em trabalho.
 
 Métodos qualitativos e quantitativos são complementos, e não rivais — veja [[research-methods-aied]] para como eles contrastam e triangulam, e [[mixed-methods-research|métodos mixtos]] para desenhos que os combinam.
+
+## Ideias equivocadas comuns
+
+**"Os achados qualitativos não são generalizáveis porque as amostras são pequenas."** Eles normalmente não são generalizáveis *estatisticamente* e são frequentemente generalizáveis *conceitualmente* — os mecanismos e as dinâmicas que identificam se transferem para outros contextos mesmo onde as frequências não se transferem. Um grupo focal que explica por que os estudantes desconfiam de um tutor produziu um mecanismo que uma pesquisa não consegue produzir, e descartá-lo por não ter intervalo de confiança descarta justamente a parte que viaja.
+
+**"A IA já consegue fazer análise qualitativa, então o método escala."** Ela escala a codificação, e não a interpretação. Onde o corpus mostra isso funcionando bem, é porque a tarefa de codificação foi tornada comparável antes — um estudo aplicou **15 vinhetas fixas** às políticas públicas de **20 universidades** para produzir **300 classificações comparáveis**, o que é um desenho de instrumento estruturado, e não um desenho interpretativo aberto. O insight do trabalho qualitativo está na construção das categorias, e é isso que um modelo herda em vez de produzir.
+
+**"A saturação é uma propriedade do número de participantes."** É uma propriedade da análise: você para quando os novos dados deixam de produzir novos códigos. Dois estudos com tamanhos de amostra idênticos podem estar igualmente longe da saturação, e é por isso que um relato que cita uma contagem de participantes como prova de adequação não demonstrou nada sobre cobertura.
+
+**"Achados quantitativos e qualitativos competem."** Eles respondem a perguntas diferentes: uma pesquisa diz quantos estudantes desconfiam de um tutor, e entrevistas dizem por quê. Tratá-los como relatos rivais da mesma coisa produz a falsa escolha que as seções de revisão continuam reproduzindo.
 
 ## Conceitos conectados
 
@@ -120,3 +135,4 @@ Métodos qualitativos e quantitativos são complementos, e não rivais — veja 
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Tutores críticos de IA: empoderar ou escravizar
 - [[genai-runaway-object-math-higher-ed]] — A GenAI como objeto desgovernado na matemática do ensino superior
 - [[khlaif-assistive-genai-visually-impaired-2026]] — GenAI assistiva para aprendentes com deficiência visual
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — Engajamento emocional de aprendizes de EFL na escrita assistida por GenAI: um estudo de caso múltiplo longitudinal

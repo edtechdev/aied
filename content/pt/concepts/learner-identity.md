@@ -1,7 +1,7 @@
 ---
 title: Identidade de quem aprende
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-01T14:02:49-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,13 +10,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,7 +54,7 @@ Uma condição de autoria distinta, e não apenas uma ameaça à autoria: quando
 
 - **Identidade criativa:** o **[[t2i-competence-paradox-2026|paradoxo da competência em T2I]]** captura como a facilidade de uso pode minar a identidade baseada no ofício de estudantes de arte e design.
 - **A autoria sentida pode se desacoplar da originalidade real.** Estudantes de design construindo sites com IA avaliaram sua autoria como alta (67/100, satisfação 6,4/7, qualidade percebida 6,1/7), mas essas avaliações não rastreavam nada mensurável: seus desenhos eram mais homogêneos que sem IA, e a autoria sentida se correlacionou com a originalidade medida em r ≤ +0,13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).
-- **Identidade profissional:** múltiplos estudos tratam o impacto da IA sobre a **identidade profissional** — por exemplo, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argumentam que os egressos precisam de *capacidades adaptativas* ([[ai-literacy|letramento em IA]], [[distributed-cognition|cognição distribuída]], [[metacognition]]) precisamente para poder sustentar uma identidade profissional viável em um futuro integrado à IA, em vez de serem definidos por — ou definidos fora por — suas ferramentas.
+- **Identidade profissional:** múltiplos estudos tratam o impacto da IA sobre a **identidade profissional** — por exemplo, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argumentam que os egressos precisam de *capacidades adaptativas* ([[ai-literacy|letramento em IA]], [[distributed-cognition|cognição distribuída]], [[metacognition]]) precisamente para poder sustentar uma identidade profissional viável em um futuro integrado à IA, em vez de serem definidos por — ou definidos fora por — suas ferramentas. Os julgamentos sobre GenAI também podem se dividir por contexto temporal, além da autoria: entrevistados julgaram o uso de IA inapropriado para a aprendizagem, mas legítimo ou esperado no trabalho profissional futuro — "Como estudante, preciso aprender; como profissional, preciso produzir" ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 - **Identidade pós-humana e híbrida:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** teorizam o **estudante pós-humano**, cuja cognição é genuinamente híbrida e distribuída entre sistemas [[biology-education|biológicos]] e artificiais — um reenquadramento da própria formação de identidade na era da IA cognitiva.
 - **Identidade do estudante e acadêmica:** a [[research-methods-aied|pesquisa]] sobre **[[zhan-boud-du-authentic-assessment-scoping-review-2025|avaliação autêntica]]** se conecta à identidade porque as tarefas de [[assessment|avaliação]] que exigem desempenho autêntico e pessoal ajudam os estudantes a se verem como praticantes capazes; a **[[paternalistic-filter-llm-history-education|pesquisa em educação em história]]** mostra como o uso paternalista de IA pode moldar a forma como os estudantes constroem sua identidade como investigadores da disciplina.
 - **Como os estudantes enquadram a ferramenta molda seu devir profissional.** Estudantes que lançavam a IA generativa apenas como parceira socioemocional produziram reflexões menos diferenciadas sobre sua aprendizagem profissional do que aqueles que também a enquadraram como técnica, material de aprendizagem ou estrutura ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026)]]).
@@ -75,6 +79,16 @@ A identidade de quem aprende é a contraparte **voltada ao estudante** da identi
 ## Conexões
 
 A identidade de quem aprende se conecta à [[agency|autonomia]] (a identidade é encenada por meio da autoria agêntica), à [[self-efficacy]] (crenças de competência que sustentam a identidade), à [[motivation|motivação]] e à [[self-determination-theory|teoria da autodeterminação]] (a formação de identidade satisfaz necessidades de autonomia e competência), à [[student-experience|experiência do estudante]] e ao [[student-engagement|engajamento do estudante]], e ao [[stem-education|STEM]] (onde a identidade disciplinar é um resultado-chave e um preditor de persistência). Ela também é moldada pela [[situated-learning|aprendizagem situada]] e pela [[critical-pedagogy|pedagogia crítica]] (a identidade como participação e como negociação carregada de poder) e se conecta à [[authentic-assessment|avaliação autêntica]] (tarefas que permitem a quem aprende performar e, assim, reivindicar uma identidade). Sua relevância para o [[higher-ed|ensino superior]] e o [[k-12]] abrange tanto a escolarização quanto a preparação profissional.
+
+## Ideias equivocadas comuns
+
+**"A identidade de quem aprende é um traço estável que um curso pode acomodar."** É melhor tratá-la como algo **continuamente construído pela participação, pelo reconhecimento e pela autoria**. Essa mudança desloca a questão de desenho de corresponder a uma identidade existente para moldar a que o curso torna disponível — e uma IA que conclui o trabalho remove um dos três ingredientes, já que a autoria é onde a alegação de identidade se origina.
+
+**"Questões de identidade pertencem a estudantes de grupos sub-representados."** A identidade se forma em todo aprendiz conforme sua participação é reconhecida ou não, o que a torna uma condição geral de desenho, e não uma provisão especial. Enquadrá-la como uma preocupação focalizada é como ela acaba adiada.
+
+**"A assistência de IA reduz barreiras e, portanto, amplia a participação."** Ela pode reduzir a barreira para produzir trabalho enquanto estreita a barreira para reivindicar autoria. Um estudante que submete um artefato fluente que não escreveu recebeu acesso ao resultado e foi negado o reconhecimento que constrói a identidade por trás dele.
+
+**"Reconhecer a identidade de quem aprende é uma questão de representação no conteúdo."** A representação importa, e o reconhecimento é encenado na prática: quais perguntas são acolhidas, qual contribuição é creditada e quem é tratado como capaz. Um currículo pode ser representativo e ainda assim retirar o reconhecimento que a formação da identidade exige.
 
 ## Conceitos conectados
 
@@ -108,4 +122,4 @@ A identidade de quem aprende se conecta à [[agency|autonomia]] (a identidade é
 - [[genai-professionalization-metaphors-2026]] — Conceituações de IA generativa e identidade profissional do estudante
 
 - [[synthetic-position-self-authorship-2026]] — Suspensão autoral: a autoria delegada como um self densamente expresso, mas não autoral (análise conceitual)
-- [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[vibe-coding-design-diversity-2026]] — Uma ferramenta, um gosto? Como o vibe coding troca a diversidade coletiva pela criatividade individual

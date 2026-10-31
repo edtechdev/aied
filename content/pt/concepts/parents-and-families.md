@@ -1,7 +1,7 @@
 ---
 title: Pais e famílias
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,11 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Pais e famílias** — a família como parte interessada na [[ai-education|IA na educação]]: os cuidadores que dão tutoria a seus filhos em casa, escolhem e pagam pelas ferramentas, supervisionam ou deixam de notar o que essas ferramentas fazem, e recebem o que sua escola lhes comunica sobre IA. A página reúne a evidência sobre tutoria entre pais e filhos mediada por IA e sobre companheiros [[conversational-ai|conversacionais]] usados em casa, sobre as passagens de bastão entre casa e escola, sobre o próprio [[ai-literacy|letramento em IA]] dos pais, e sobre as consequências de [[equity-in-ai-education|equidade]] dos dispositivos, da conectividade e do custo em casa. Seu escopo é a família como ator — o que as famílias fazem com a IA, o que lhes chega da escola, e o que a pesquisa estabelece e não estabelece sobre os resultados.
+> **Pais e famílias** — a família como parte interessada na [[ai-education|IA na educação]]: os cuidadores que dão tutoria a seus filhos em casa, escolhem e pagam pelas ferramentas, supervisionam ou deixam de notar o que essas ferramentas fazem, e recebem o que sua escola lhes comunica sobre IA. A página reúne a evidência sobre a [[intelligent-tutoring|tutoria]] entre pais e filhos mediada por IA e sobre companheiros [[conversational-ai|conversacionais]] usados em casa, sobre as passagens de bastão entre casa e escola, sobre o próprio [[ai-literacy|letramento em IA]] dos pais, e sobre as consequências de [[equity-in-ai-education|equidade]] dos dispositivos, da conectividade e do custo em casa. Seu escopo é a família como ator — o que as famílias fazem com a IA, o que lhes chega da escola, e o que a pesquisa estabelece e não estabelece sobre os resultados.
 
 ## Perguntas para refletir
 
@@ -84,6 +88,16 @@ Uma revisão de escopo de 2026 mapeia até onde o campo chegou. [[llm-family-edu
 
 **Relação com outras páginas.** [[stakeholders|Partes interessadas]] é a visão geral curta de todo o conjunto de partes interessadas, com as famílias listadas como um público ainda não coberto em profundidade; esta página é essa profundidade. [[early-childhood-elementary-ai-education|Educação infantil e fundamental com IA]] cobre o domínio desenvolvimental e [[pedagogy|pedagógico]] para quem aprende sendo jovem, atravessando escola e casa; esta página acompanha a família ao longo das idades, das atividades lúdicas na educação infantil à lição de casa do ensino médio. [[ai-use-disclosure|Divulgação do uso de IA]] cobre se quem aprende conta aos outros que usou IA; esta página cobre a questão adjacente de se essa informação chega aos adultos em casa, e o que é dito às famílias sobre o uso de IA na escola.
 
+## Ideias equivocadas comuns
+
+**"As famílias vão se engajar se a oferta for feita."** A adesão desaba ao longo das passagens. No Ano 1 do programa citado aqui, apenas cerca de **45% dos estudantes indicados por professores compareceram a pelo menos uma sessão**, com famílias perdidas em cada etapa — convite, interesse, criação de conta em uma [[edtech-platform|plataforma de terceiros]], emparelhamento. Cada passagem é um lugar para perder uma família, de modo que uma oferta entregue vale muito menos que uma oferta feita.
+
+**"A coordenação família–escola em torno da GenAI é uma prática estabelecida."** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] a tratam como uma **hipótese não testada**, e não como uma prática estabelecida. Programas estão sendo desenhados sobre um pressuposto que a literatura ainda não testou, o que vale saber antes de adotar um deles como baseado em evidência.
+
+**"Os pais vão notar se a IA estiver prejudicando a aprendizagem do filho."** Eles são os menos posicionados para notar. Nos dados de [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei e Wu (2026)]], as notas de lição de casa subiram **18%** enquanto as notas de [[summative-assessment|prova fechada]] caíram **20%** em seis meses — e o número que sobe é o único visível em casa. Um pai que observa a lição de casa vê melhora enquanto o desfecho durável declina.
+
+**"O uso de IA em casa é uma questão de permissão dos pais."** É uma questão de letramento e de defesa. O próprio letramento em IA dos pais determina o que eles conseguem interrogar sobre uma ferramenta emitida pela escola, e as iniquidades de acesso entre famílias moldam quais crianças recebem mediação adulta.
+
 ## Conceitos conectados
 
 - [[stakeholders]] — a página guarda-chuva dos públicos e atores na IA na educação
@@ -112,6 +126,4 @@ Uma revisão de escopo de 2026 mapeia até onde o campo chegou. [[llm-family-edu
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — a adesão subiu de 45% para 83% quando as etapas voltadas à família foram removidas
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — terceirização da lição de casa, quedas nas provas e o argumento por monitorar insumos
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — níveis de letramento em IA agnósticos em idade e a divisão digital de três níveis
-- [[llm-family-education-activity-theory-2026]] — Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature
-
-- [[intelligent-tutoring]] — the model behind AI-mediated parent–child tutoring
+- [[llm-family-education-activity-theory-2026]] — Caracterizando a educação familiar baseada em LLM pela lente da teoria da atividade: uma revisão de escopo da literatura de IHC

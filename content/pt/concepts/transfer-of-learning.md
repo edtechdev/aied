@@ -1,7 +1,7 @@
 ---
 title: "Transferência da aprendizagem"
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-01T09:59:06-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Transferência da aprendizagem** — a extensão em que conhecimento ou competências adquiridos em um contexto (por exemplo, prática com uma ferramenta de IA) persistem e se aplicam em um contexto diferente (por exemplo, desempenho independente sem a ferramenta). Na [[ai-education|IA em educação]], a transferência é a questão central em aberto: se os ganhos de desempenho que os estudantes mostram *com* ferramentas de IA se traduzem em aprendizagem durável que eles possam demonstrar *sem* elas.
 
@@ -100,6 +104,16 @@ Isso se alinha à pesquisa sobre [[intelligent-tutoring|tutoria por IA]] que mos
 ### Conexões com conceitos relacionados
 
 A transferência da aprendizagem se conecta à [[metacognition|metacognição]] (automonitoramento da compreensão), à Teoria da Carga Cognitiva (carga germânica vs. externa), às [[desirable-difficulties|dificuldades desejáveis]] (luta produtiva), aos [[scaffolding|andaimes]] (apoio que desvanece), à [[cognitive-offloading|dependência excessiva]] (dependência da ferramenta) e à [[sociocultural-learning|aprendizagem sociocultural]] (a IA de uso geral opera fora da ZPD ao completar o trabalho pelos estudantes). Ela é a ponte entre o desempenho assistido e a aprendizagem genuína — a distinção entre [[stanford-evidence-base-ai-k12-2026|base de evidência da Stanford]] e a questão central para a eficácia da [[intelligent-tutoring|tutoria por IA]].
+
+## Ideias equivocadas comuns
+
+**"Ganhos em tarefas assistidas por IA demonstram aprendizagem transferível."** O padrão oposto é o que o corpus encontra: **todos os cinco estudos** da síntese apresentada aqui mostram **transferência negativa ou nula** quando a IA de uso geral é a intervenção — estudantes do ensino médio com notas de prática mais altas pontuando **cerca de 17% pior** em provas finais sem consulta, e um estudo de escrita de redações em que **83% não conseguiram recordar as próprias citações**. O desempenho assistido imediato é a medida menos transferível disponível.
+
+**"Se um estudante consegue fazer com a IA, ele consegue fazer."** Essa é a definição da falha, e não da sua ausência. A transferência exige que a capacidade sobreviva à remoção do apoio, e os estudos que testam a remoção encontram que a capacidade estava na ferramenta. Um aprendiz que consegue produzir um artefato enquanto o raciocínio é executado em outro lugar foi treinado em uma habilidade diferente: operar a ferramenta.
+
+**"A transferência vem de modelos mais capazes."** A transferência vem das condições que a produzem — a generalidade da prática, a variabilidade dos contextos e a medida em que o próprio aprendiz gerou o raciocínio. A capacidade do modelo eleva o teto do desempenho assistido e não faz nada em particular pelo que resta quando o modelo se vai.
+
+**"Orientação sempre apoia a transferência, então mais orientação é melhor."** A orientação que executa o raciocínio substitui o processo do qual a transferência depende. A distinção é entre a ajuda que mantém o aprendiz gerando o próximo passo e a ajuda que o gera por ele — e só a primeira está do lado da transferência dessa linha.
 
 ## Conceitos conectados
 

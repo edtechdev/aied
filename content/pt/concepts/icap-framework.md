@@ -1,7 +1,7 @@
 ---
 title: Framework ICAP
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **O framework ICAP** (Interactive–Constructive–Active–Passive) — uma taxonomia do engajamento cognitivo desenvolvida por Michelene Chi que classifica o comportamento do estudante em quatro modos de mudança de conhecimento, ordenados do menos ao mais cognitivamente engajado: *passivo*, *ativo*, *construtivo* e *interativo*. Na IA na educação, o ICAP fornece tanto um alvo de desenho (construir ferramentas que eliciem engajamento construtivo e interativo em vez de consumo passivo) quanto uma lente de avaliação (medir se os estudantes e os sistemas de IA estão de fato engajados nos modos superiores).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
 
@@ -85,6 +89,16 @@ A ênfase do ICAP no engajamento generativo e de nível de processo foi adotada 
 2. **Engaje os estudantes por todos os modos.** A instrução eficaz em [[ai-literacy|letramento em IA]] engaja os estudantes em múltiplos níveis do ICAP — exposição passiva, manipulação ativa, geração construtiva e diálogo interativo — selecionando o modo que se encaixa no objetivo de aprendizagem.([[hingle-collaborative-ai-literacy-2025]])
 3. **Meça o engajamento com honestidade.** O ICAP dá a pesquisadores e desenhistas um vocabulário comum para distinguir engajamento cognitivo genuíno de mera atividade — um corretivo ao [[student-engagement|engajamento]] raso.([[icap-cognitive-engagement-llm-agents]])
 4. **Fique de olho na lacuna de anotação humano–LLM.** Se sistemas automatizados forem usados para codificar engajamento, sua defasagem sistemática em relação a humanos treinados precisa ser levada em conta.([[icap-cognitive-engagement-llm-agents]])
+
+## Ideias equivocadas comuns
+
+**\"O ICAP é uma taxonomia para rotular atividades.\"** Ele é uma lente de desenho e de avaliação com uma tese de ordenação: engajamento passivo, ativo, construtivo e interativo diferem na aprendizagem que produzem, de modo que \"construir ferramentas que eliciem engajamento construtivo e interativo em vez de consumo passivo\" é um alvo de desenho, e não um exercício de classificação. Rotular uma aula com um modo sem mudar o que os estudantes fazem não é aplicar o framework.
+
+**\"Tempo na tarefa ou volume de interação indexam o nível de engajamento.\"** Volume conta atividade, não modo. Rolar a tela é ativo e passivo em sentidos diferentes ao mesmo tempo, e um estudante que gera muitos cliques pode ainda estar recebendo, e não construindo. O valor do framework é justamente distinguir tipos de engajamento que métricas de atividade juntam num só monte.
+
+**\"Um tutor de IA produz automaticamente engajamento interativo porque conversa.\"** A conversa é o meio, não o modo. Um diálogo em que o sistema fornece toda contribuição substantiva é passivo para o estudante que veste uma interface interativa, que é a mesma confusão que a [[student-engagement|literatura sobre engajamento]] documenta entre atividade comportamental e investimento cognitivo.
+
+**\"Modos mais altos do ICAP são sempre melhores.\"** Eles custam mais, e a ordenação é sobre aprendizagem por unidade do processamento relevante, e não sobre o que uma aula deveria sempre almejar. A fluência fundacional pode exigir repetição ativa antes que o trabalho construtivo seja possível; o erro é se acomodar ali, não passar por ali.
 
 ## Conceitos conectados
 

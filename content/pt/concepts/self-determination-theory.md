@@ -1,7 +1,7 @@
 ---
 title: Teoria da autodeterminação
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,13 +9,17 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -44,6 +48,8 @@ O **desenvolvimento profissional de professores baseado na TAD** aplica os princ
 
 Um resultado contrastante em sala de aula mostra que as necessidades não se movem juntas: entre 2.464 estudantes do segundo ciclo do fundamental, a aprendizagem baseada em competências apoiada pelo ChatGPT elevou o apoio à autonomia e a satisfação de competência, mas produziu uma parcela maior de perfis motivacionais de baixa qualidade, e a satisfação de vínculo foi mais fraca que na aprendizagem baseada em competências sem IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
 
+A autonomia, e não a facilidade, carregou o ganho motivacional aqui. Um [[rct|RCT]] de três braços constatou que um tutor que retém dicas, mantendo os aprendizes construindo a própria solução, foi o único braço a elevar a motivação intrínseca (2,82 vs 2,42), enquanto o ChatGPT irrestrito, que entrega a resposta, não o fez (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+
 Um teste configuracional afia o ponto: entre 498 estudantes de graduação em medicina, o uso de IAG se associou apenas fracamente à satisfação de necessidades (β = 0,155) e mostrou-se desnecessário para o alto engajamento, enquanto a satisfação da necessidade de competência foi a condição central na configuração mais forte ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
 **Vias duplas do clima de aprendizagem para o uso de IA.** [[dual-ai-learning-pathways-sdt-2026|Shen e Arunrugstichai (2026)]] integram a TAD ao modelo Hook do engajamento comportamental para explicar por que o uso de IA generativa varia de apoio construtivo a dependência compulsiva. Em dados de pesquisa transversal de **508 estudantes universitários** com diferentes formações no ensino médio e contextos atuais (China e Tailândia), os relatos retrospectivos de **pressão versus apoio à autonomia no ensino médio** previram diferencialmente qual de duas vias os estudantes seguiram para a universidade — uma rumo ao uso construtivo e autônomo de IA generativa, e outra rumo à dependência compulsiva —, com resultados consistentes entre análises multigrupo transculturais. O modelo liga os processos motivacionais da TAD à qualidade percebida da aprendizagem apoiada por IA, enquadrando o apoio à autonomia como uma alavanca que conduz os estudantes rumo ao uso produtivo, e não dependente, de IA.
@@ -61,6 +67,12 @@ Um framework de co-agência delimita o alcance da TAD na educação mediada por 
 ## Conexões com conceitos afins
 
 A TAD se conecta diretamente à [[motivation|motivação]] como seu construto-mãe, à [[affective-computing|computação afetiva]] e à [[affective-tutoring|tutoria afetiva]] para o desenho de IA consciente das emoções, e à [[student-experience|experiência do estudante]] para como quem aprende vivencia ambientes mediados por IA. A ênfase da teoria na autonomia se conecta à [[self-regulated-learning|aprendizagem autorregulada]], enquanto sua dimensão de competência se conecta à [[self-efficacy-tutoring-learning]] e à [[teacher-ai-competency|competência em IA do professor]]. A TAD é particularmente relevante para a [[professional-training|formação profissional]] e o [[educational-development|desenvolvimento educacional]] porque o desenho que apoia as necessidades é um princípio transferível para preparar educadores a usar a IA.
+
+## Ideias equivocadas comuns
+
+- **"O tipo de motivação importa menos do que a quantidade de motivação."** Um estudo de um ano encontrou **três perfis motivacionais — Desengajado, Em desenvolvimento, Autodeterminado — estáveis ao longo do tempo**, e os estudantes que chegaram ao perfil **Autodeterminado** mostraram os **maiores ganhos de [[ai-literacy|letramento em IA]]**. A qualidade da motivação predisse a aprendizagem, e os perfis não simplesmente derivaram para cima.
+- **"Apoio à autonomia significa remover estrutura."** O mecanismo da TAD é autonomia, competência e vínculo juntos, e a evidência longitudinal mostra que satisfazê-los predisse ganhos, e não apenas os acompanhou. Autonomia sem apoio à competência é permissividade, e não satisfaz as condições da teoria.
+- **"Um chatbot consegue suprir as três necessidades automaticamente."** Um estudo constatou que o ChatGPT podia apoiar autonomia, vínculo e competência na aprendizagem de línguas — uma possibilidade, não uma propriedade. Se uma dada interação as apoia é uma questão empírica sobre como ela é usada.
 
 ## Conceitos conectados
 
@@ -92,3 +104,4 @@ A TAD se conecta diretamente à [[motivation|motivação]] como seu construto-m�
 
 - [[genai-learning-engagement-medical-undergraduates-2026]] — O uso de IAG se liga fracamente à satisfação de necessidades e é desnecessário para o alto engajamento (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Vias duplas da colaboração professor–IA para o engajamento no trabalho, moderadas pela competência digital
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — A retenção de dicas preservou a autonomia onde entregar a resposta não preservou

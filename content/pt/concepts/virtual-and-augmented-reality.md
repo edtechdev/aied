@@ -1,7 +1,7 @@
 ---
 title: Realidade virtual e aumentada
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,17 +9,21 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-26T10:00:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Realidade virtual e aumentada (RV/RA)** — a camada de exibição e de interação pela qual os ambientes de aprendizagem são vivenciados: espaços totalmente sintéticos na RV, e conteúdo digital sobreposto ao mundo físico na RA e na realidade mista. A IA entra nessa camada em duas direções. Ela a *autora*, já que a [[generative-ai|IA generativa]] agora transforma uma descrição em linguagem natural em uma ferramenta de aprendizagem de RA ou RV baseada em navegador que já não exige um desenvolvedor especialista. E ela a *habita*, já que [[agentic-ai|agentes]], [[pedagogical-agent|agentes pedagógicos]] e [[rag|conhecimento recuperado]] guiam quem aprende com as mãos livres dentro do ambiente imersivo. O que a modalidade acrescenta sobre uma tela é a presença e a [[embodied-learning|corporificação]]; o que ela custa é fidelidade, hardware e a tolerância de um corpo a estar ali.
 
@@ -36,6 +40,8 @@ ai_assist:
 A realidade virtual e aumentada é uma **modalidade**, e não um modelo: é a camada pela qual um ambiente de aprendizagem alcança quem aprende. Isso a torna um eixo diferente da [[simulation|simulação]], que é o que de fato é modelado. As duas são frequentemente confundidas, porque ambientes imersivos são veículos de entrega comuns para simulações, mas elas variam de forma independente — um simulador de paciente de desktop é simulação sem RV, e uma sobreposição de RA em um instrumento real é RV sem simulação. Manter os eixos separados importa para o desenho: decidir tornar a prática livre de risco é uma decisão diferente de decidir torná-la corporificada, e as duas carregam custos, modos de falha e evidências diferentes. A RV/RA é a **camada de entrega** de uma simulação e uma parente próxima da [[game-based-learning|aprendizagem baseada em jogos]]; ela operacionaliza explicações [[embodied-learning|corporificadas]] e [[situated-learning|situadas]] da aprendizagem, e fica dentro da prática [[experiential-learning|experiencial]] e [[active-learning|ativa]].
 
 A IA agora molda essa modalidade pelas duas pontas. Ela a **autora**, porque a [[generative-ai|IA generativa]] converte um prompt estruturado em linguagem natural em um artefato de RA ou RV executável, reduzindo a habilidade de programação especializada que antes controlava a produção. E ela a **habita**, já que [[agentic-ai|agentes]], [[pedagogical-agent|agentes pedagógicos]] e [[rag|conhecimento de domínio recuperado]] fornecem orientação dentro dela — com as mãos livres, em tempo real, fundamentada em fontes que quem aprende não consegue consultar enquanto usa um headset.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang e Ju (2026)]] testam uma sala de aula invertida aprimorada por IA-RV com jovens aprendizes de inglês como língua estrangeira e relatam ganhos em desempenho em inglês, autorregulação metacognitiva e motivação, com o letramento tecnológico moderando quanto os estudantes ganharam com o componente imersivo.
 
 ## O que a modalidade acrescenta
 
@@ -72,6 +78,12 @@ O resultado negativo mais claro na base de conhecimento vem de uma implantação
 Onde a prática imersiva é usada para habilidade interpessoal e processual, o fator limitante não é a fidelidade visual, mas a autenticidade sentida. Uma revisão de [[mixed-methods-research|métodos mixtos]] da simulação em enfermagem movida por IA (19 estudos, N = 1.253) concluiu que a IA era eficaz para conhecimento cognitivo e resultados afetivos, mas inconsistente para habilidades psicomotoras complexas, e nomeou a razão: uma **lacuna de autenticidade** que abrange ressonância emocional, reconhecimento de pistas não verbais e dimensões táteis e de [[summative-assessment|exame]] físico. Sua recomendação prática é um **continuum de simulação em etapas** — a IA é adequada a objetivos altamente estruturados, como comunicação fundacional e anamnese, enquanto cenários psicomotores avançados e emocionalmente complexos pertencem a pacientes padronizados por humanos e ao estágio clínico. A instabilidade técnica agrava o problema: atrasos no reconhecimento de fala injetam [[cognitive-offloading|carga cognitiva]] extrínseca e ansiedade, o que torna a estabilidade e a latência alavancas de desenho, e não detalhes de implementação.
 
 A mesma lógica explica por que a presença não é automaticamente boa. A cinetose, a inconsistência da interface do usuário, o custo do hardware e o acesso desigual a dispositivos decidem quem consegue usar um ambiente imersivo de todo, razão pela qual as questões de [[equity-in-ai-education|equidade]] da modalidade se conectam à [[accessibility|acessibilidade]] e à [[inclusive-learning|aprendizagem inclusiva]], em vez de ficarem separadas delas.
+
+## Ideias equivocadas comuns
+
+- **"Sentir o fenômeno significa compreendê-lo."** Um piloto constatou que os estudantes relataram **sentir** comprimento de onda e amplitude por meio de um gesto da mão com mais força do que por um controle deslizante — mas **isso mediu percepção, não desempenho**. A sensação sentida é a affordance, e se ela produziu compreensão é um teste separado.
+- **"Pontuações altas de usabilidade validam uma ferramenta educacional de RV."** Em uma **sessão de uma hora com 10 estudantes** em um Meta Quest 3, o estudo relatou **boa usabilidade na Escala de Usabilidade do Sistema e mínima doença de simulação**. Usabilidade e conforto são pré-requisitos, e nenhum dos dois é uma medida de aprendizagem.
+- **"A concordância dos estudantes é evidência da affordance."** Com **29 estudantes do segundo ano de imagem médica**, todos os 29 **concordaram que o gesto os ajudou a "sentir" o que é comprimento de onda (média 4,52)**. Concordância unânime sobre uma sensação é autorrelato sobre experiência, e a alegação de affordance precisa de um desfecho que não dependa do julgamento do estudante sobre a própria compreensão.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: "Teorias e frameworks"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-09-30T12:53:22-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 
 > **Teorias e frameworks** — o inventário de trabalho das estruturas explicativas e organizacionais que esta base de conhecimento de fato usa. Teorias explicam por que a aprendizagem acontece ([[learning-theories|teorias da aprendizagem]], [[self-determination-theory|teoria da autodeterminação]], [[sociocultural-learning|aprendizagem sociocultural]], [[activity-theory-aied|teoria da atividade]]); frameworks organizam decisões de design, ensino e adoção ([[tpack|TPACK]], [[samr-model|SAMR]], [[technology-acceptance-model|modelos de adoção de tecnologia]], [[icap-framework|ICAP]], [[universal-design-for-learning|design universal para a aprendizagem]]); modelos tornam as afirmações de aprendizagem testáveis e computáveis ([[item-response-theory|teoria da resposta ao item]], [[assessment-validity|validade da avaliação]], [[knowledge-tracing|rastreamento de conhecimento]]). Use esta página para encontrar a lente sobre a qual um estudo repousa, ou para escolher uma para seu próprio trabalho.
@@ -49,6 +53,8 @@ Estas explicam mecanismos: elas nomeiam as partes que fazem o trabalho e prevêe
 - **[[community-of-inquiry|Comunidade de investigação]]** — as presenças social, cognitiva e docente que fazem uma experiência on-line funcionar; uma teoria da experiência e um quadro de design ao mesmo tempo.
 - **[[self-determination-theory|Teoria da autodeterminação]]** — autonomia, competência e relacionamento como precondições motivacionais. Frequentemente a explicação oferecida quando o uso de IA eleva o engajamento sem elevar a aprendizagem.
 - **[[cognitive-psychology|Cognitivismo]]** — processamento de informação, memória de trabalho, e a divergência entre a sensação de aprender e a aprendizagem real.
+- **Teoria da percepção social (calor e competência)** — importada da cognição social e da pesquisa sobre robôs de serviço, ela enquadra como os usuários julgam a credibilidade de um agente de IA: a competência percebida previu diretamente a credibilidade do feedback do ChatGPT, enquanto o calor operou apenas por meio da empatia semelhante à humana (SEM, 230 estudantes; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Uma quarta categoria de affordance foi proposta, não testada.** Codificando 24 estudos contra um esquema de affordances em três partes, os revisores constataram que engajamento, segurança e autoeficácia não se encaixavam nas categorias tecnológica, pedagógica ou social, e propuseram affordances emocionais fundamentadas no determinismo recíproco de Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
 
 ## Modelos de quem aprende e do processo de aprendizagem
 
@@ -117,6 +123,16 @@ Frameworks não são evidência. Costumam ser emprestados de contextos pré-LLM 
 
 O alinhamento entre mecanismo e teoria pode, no entanto, ser decisivo: uma síntese temática de 55 estudos de aprendizagem baseada em jogos com apoio de IA concluiu que a eficácia dependia de o mecanismo de IA encenar a pedagogia que deveria servir, e não da sofisticação algorítmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt (2026)]]).
 
+## Ideias equivocadas comuns
+
+**"Aplicar uma teoria emprestada a uma ferramenta de IA é usar teoria."** Boa parte deste campo aplica teoria emprestada em vez de testá-la, e a diferença é se o framework fez uma previsão que poderia ter falhado. Quando um estudo relata um ganho sob a bandeira de um framework sem se comprometer com nenhuma previsão falsificável, nada foi aprendido sobre o framework — um resultado compatível com todas as teorias do catálogo é evidência para nenhuma delas.
+
+**"O valor de um framework é o quão bem ele descreve um sistema que você já construiu."** Isso é rotulagem post hoc. Uma taxonomia que acomoda qualquer desenho não tem poder discriminante, e é por isso que frameworks descritivos deveriam ser julgados pelo que excluem. A pergunta de avaliação não é "meu sistema se encaixa nisto?", mas "que tipo de sistema este framework diria estar errado?".
+
+**"Teorias da aprendizagem, modelos de quem aprende e frameworks de adoção são lentes intercambiáveis."** Eles respondem a perguntas diferentes — como a aprendizagem acontece, qual é o estado do aprendiz e por que uma prática se difunde — e seus tipos de evidência diferem de acordo. Escolher a camada errada produz um estudo que mede a variável certa contra a previsão errada, o que se lê como um resultado nulo quando é um erro de categoria.
+
+**"Mais frameworks significam um campo mais maduro."** Frameworks cunhados para a era da IA se acumulam mais rápido do que são testados, e acúmulo sem falsificação é sintoma, e não progresso. A maturidade aparece como previsões concorrentes sendo resolvidas, não como crescimento de vocabulário.
+
 ## Conceitos conectados
 
 - [[theory-development-aied]] — construir e revisar teoria no campo
@@ -131,6 +147,7 @@ O alinhamento entre mecanismo e teoria pode, no entanto, ser decisivo: uma sínt
 - [[research-methods-aied]] — como a teoria é testada
 
 ## Artigos conectados
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Affordances emocionais propostas como uma quarta categoria em uma taxonomia de affordances
 - [[ai-game-based-learning-systematic-review-2026]] — O alinhamento mecanismo-teoria, e não a sofisticação algorítmica, moveu a eficácia em 55 estudos de aprendizagem baseada em jogos com IA
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — quatro décadas de AIED pelo framework IA×Ed

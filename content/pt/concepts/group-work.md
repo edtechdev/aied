@@ -1,7 +1,7 @@
 ---
 title: Trabalho em grupo
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,17 +12,21 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-09-30T16:25:27-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-25T20:20:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Trabalho em grupo** — aprendizagem e trabalho avaliado produzidos por uma equipe em vez de por um indivíduo, usados para desenvolver colaboração, comunicação e responsabilidade compartilhada, ao mesmo tempo que geram um resultado e frequentemente uma nota para cada membro. Ele fica onde o [[assessment|desenho de avaliação]] e a [[collaborative-learning|aprendizagem colaborativa]] se encontram, e herda as tensões de ambos: carona e negligência social, contribuições desiguais, esquiva de conflito e a dificuldade de atribuir um produto coletivo à aprendizagem individual. A [[generative-ai|IA generativa]] intensifica isso porque as equipes agora precisam negociar de quem e que tipo de [[student-engagement|engajamento]] com IA conta como aceitável — uma negociação que a [[research-methods-aied|pesquisa]] em [[agency|autonomia]] mostra que pode se resolver em direções opostas dentro de uma única turma, e que [[agentic-ai|agentes de IA]] que entram no grupo podem eles mesmos remodelar.
 
@@ -103,6 +107,16 @@ O [[breideband-community-builder-cobi-2026|CoBi]] detecta discursos de pequenos 
 - **Prefira uma parceira argumentativa a quem dá respostas.** Estruture a IA para trazer à superfície o desacordo em vez de suavizá-lo, de modo que o trabalho em grupo preserve o conflito cognitivo que constrói a compreensão.
 - **Acomode quem aprende de forma [[neurodiversity|neurodivergente]].** Tarefas estruturadas, equipes pequenas e consistentes, e definições explícitas de papel são exigências que as ferramentas de colaboração com IA precisam apoiar.
 - **Leia a contenção com cuidado.** Estudantes que evitam IA em grupos podem estar exercendo autorregulação normativa — ou se resguardando contra risco e desconhecimento. As duas coisas pedem respostas diferentes do [[teacher-role|instrutor]].
+
+## Ideias equivocadas comuns
+
+**"A IA é um acréscimo neutro ao fluxo de trabalho de um grupo."** Ela reestrutura para onde vai a interação do grupo. No estudo citado aqui, a dinâmica do grupo deslocou a interação para longe dos humanos — **79,7% das perguntas foram dirigidas aos agentes (*p* = ,017)** —, enquanto os participantes relataram uma compensação entre amplitude e profundidade num formato de empilhamento de turnos em que cada falante tomava a palavra. Uma equipe que encaminha quase quatro em cada cinco de suas perguntas a uma máquina não está mais ensaiando o questionamento entre pares que o trabalho em grupo existe para desenvolver.
+
+**"Um produto de grupo polido é evidência de boa colaboração."** O produto polido é o risco epistêmico, e não a tranquilização. Um grupo pode produzir um artefato excelente enquanto a regulação do trabalho — quem decidiu o quê, como o desacordo foi resolvido, de quem o raciocínio foi testado — aconteceu dentro da resposta do modelo e não deixou rastro no entregável.
+
+**"A IA ajuda mais quando coordena o grupo."** O apoio à coordenação e o apoio epistêmico puxam em direções opostas. Reduzir o custo de coordenação da colaboração pode baixar a pressão sobre o grupo para negociar significado, que é o processo avaliado. A compensação entre eficiência e regulação é a tensão central de desenho, e não um detalhe de implementação.
+
+**"O trabalho em grupo é difícil por causa das pessoas."** Parte disso é desenho de tarefa, e é por isso que a IA muda o perfil de dificuldade em vez de simplesmente aliviá-lo: uma ferramenta que responde perguntas rápido muda em que o grupo gasta seu tempo, e se isso é uma melhoria depende de quais habilidades a tarefa foi construída para desenvolver.
 
 ## Conceitos conectados
 

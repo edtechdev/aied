@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Geração Automatizada de Questões
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,16 @@ A AQG é um habilitador-chave do [[adaptive-learning|aprendizado adaptativo]] e 
 - **Projetar para profundidade cognitiva:** prompts e pipelines devem visar o pensamento de ordem superior, não apenas a recordação, para apoiar a aprendizagem genuína.
 - **Calibrar a dificuldade:** use estimativas de dificuldade da IA para selecionar itens apropriadamente desafiadores, com forte validação antes do uso de alto impacto.
 - **Personalizar via modelos do aprendiz:** combine a AQG com rastreamento de conhecimento e modelos de interesses para gerar itens adaptativos e individualizados.
+
+## Ideias equivocadas comuns
+
+**"As questões geradas são utilizáveis na escala em que podem ser produzidas."** O volume não é a restrição; a calibração é. A qualidade varia drasticamente entre tipos de item e exige validação para evitar itens alucinados ou mal calibrados, e é por isso que os pipelines que funcionam gastam seu esforço na verificação, e não na geração — um deles reduziu a alucinação em **62%** acrescentando um laço de gerar-depois-validar-refinar.
+
+**"Um laço de refinamento torna os itens gerados confiáveis."** Torna-os menos errados. Uma redução de 62% na alucinação deixa um resto substancial, e nenhum laço resolve o problema mais difícil de saber se a dificuldade declarada de um item corresponde ao que os estudantes de fato fazem — a questão de [[assessment-validity|validade]] em que a evidência sobre rótulos de dificuldade mostra os metadados gerados falhando. A validação reduz conteúdo fabricado; a calibração exige dados de resposta dos estudantes.
+
+**"A geração de questões personaliza a prática naturalmente."** Ela gera oferta, e a personalização é um problema de correspondência. Produzir mais itens não diz qual item um determinado aprendiz deveria ver em seguida, e a questão da seleção adaptativa é um mecanismo separado, com evidência própria.
+
+**"A geração escala a avaliação sem mudar o que a avaliação mede."** Ela muda a composição do que é medido, porque os itens que se geram bem não são uma amostra representativa dos itens que avaliam bem. Formatos fáceis de gerar acabarão por deslocar os mais difíceis de gerar, o que silenciosamente remodela o construto.
 
 ## Conceitos conectados
 

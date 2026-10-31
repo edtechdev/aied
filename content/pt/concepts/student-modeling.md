@@ -1,19 +1,23 @@
 ---
 title: "Modelagem de quem aprende e instrução adaptativa"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -89,6 +93,7 @@ Alguns sinais pretendidos podem não ser recuperáveis do diálogo de forma algu
 Os equívocos ocultos mostram a mesma falha pelo outro lado: [[correct-answer-trap-misconceptions|Imran e Bulathwela (2026)]] concluíram que um classificador ajustado capturou 57,4% das respostas corretas alcançadas por raciocínio falho, e, a uma prevalência de 1,6%, mesmo um modelo de raciocínio com 83,6% de precisão deixava 8 alarmes falsos por detecção — então os sinais de domínio baseados em correção são ao mesmo tempo incompletos e caros de reparar.
 
 **Como um modelo é validado é, ele mesmo, uma questão de validade.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan e Carvalho (2025)]] mostram que modelos populares de quem aprende (BKT, BKT-com-Esquecimento, AFM) parecem capturar a aprendizagem humana apenas quando ajustados retroativamente a um conjunto de dados completo de múltiplas sessões; sob validação cruzada temporal (walk-forward) — prevendo uma sessão futura a partir das anteriores, como tais modelos são de fato implantados — eles superestimam o desempenho, não capturam o [[retrieval-spacing-interleaving|efeito de espaçamento]] e desordenam as condições de prática. Como os modelos aumentados por esquecimento e os livres de esquecimento tiveram desempenho aproximadamente igual ao longo das sessões, os autores concluem que o esquecimento é frequentemente absorvido em parâmetros de quem aprende, e não genuinamente representado. A lição para a família é que uma representação fiel de quem aprende precisa ser validada da forma como é usada — e que confundir desempenho no momento com retenção de longo prazo produz modelos que parecem precisos, mas deturpam quem aprende.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi e Robb (2026)]] mostram a mesma falha pelo lado do classificador: inferir dimensões de estilo de aprendizagem a partir dos diálogos de resolução de problemas de 153 graduandos ficou abaixo de todas as linhas de base de referência em métricas balanceadas, com um classificador treinado rotulando 9,4% dos estudantes em cada uma das quatro classes independentemente do que eles faziam — um viés de adivinhação que uma métrica de acurácia simples esconderia e que, em uma implantação, encaminharia sistematicamente uma coorte a uma modalidade instrucional errada.
 
 ## Modelagem na era das LLMs
 
@@ -109,6 +114,12 @@ Um estimador de caixa preta também pode ser destilado em um modelo pequeno auto
 ## Conexões com outros conceitos
 
 A modelagem de quem aprende e a instrução adaptativa alimentam os [[learning-analytics|learning analytics]] ([[visualization|painéis]] e intervenções), a [[formative-assessment|avaliação formativa]] (avaliação orientada por analytics) e o [[feedback|feedback]] (o que o sistema diz a quem aprende). Ela se conecta à [[ai-education|IA na educação]] como uma vertente central da IA para a educação.
+
+## Ideias equivocadas comuns
+
+- **"Um modelo fiel precisa do método mais complexo."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries e Koprinska (2025)]] ilustram que **a representação fiel não exige a abordagem mais complexa**. Complexidade não é proxy de fidelidade, e um modelo mais simples que captura a estrutura relevante pode ser o instrumento melhor.
+- **"Modelos de quem aprende precisam de dados de rastreamento."** Um modelo preditivo de quem aprende pode repousar sobre **a estrutura da matrícula** em vez de dados de rastreamento: o TRACE codifica cada semestre como um **conjunto não ordenado de disciplinas** e prediz a partir disso. O sinal preditivo pode viver no registro administrativo da instituição.
+- **"O estado afetivo exige sensoriamento fisiológico."** Um tutor de matemática **inferiu emoção a partir de texto conversacional e expressão facial** e mapeou o estado agregado para decisões de tutoria. O sinal afetivo era recuperável daquilo que quem aprende já estava produzindo.
 
 ## Conceitos conectados
 
@@ -163,3 +174,4 @@ A modelagem de quem aprende e a instrução adaptativa alimentam os [[learning-a
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Um Tutor Agêntico que Aprende sobre Quem Aprende em um Ciclo de Coaprendizagem Humano–IA
 
 - [[ai-game-based-learning-systematic-review-2026]] — A avaliação furtiva alcançou AUCs de 0,848–0,913, mas as auditorias de viés eram quase ausentes ao longo de 55 estudos
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — A inferência de estilo de aprendizagem baseada em diálogo falha em métricas balanceadas (Zamanifard, Goudarzi e Robb 2026)

@@ -1,7 +1,7 @@
 ---
 title: Criatividade
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-30T12:20:22-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,13 +10,17 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,6 +82,12 @@ O princípio de desenho recorrente ao longo desses achados é **manter o ato ger
 ### Conexões
 
 A criatividade se conecta ao [[critical-thinking|pensamento crítico]] e à aprendizagem [[constructivist|construtivista]]. Ela é protegida pelos mesmos [[scaffolding|andaimentos]] de [[reducing-ai-misuse|redução do uso indevido]] que preservam a aprendizagem, e por desenhos de [[authentic-assessment|avaliação autêntica]] que recompensam o raciocínio original em vez de produtos polidos.
+
+## Ideias equivocadas comuns
+
+- **"Perturbar os estudantes produz ganhos criativos."** **Atrito não é ganho criativo.** Personas contrárias de IA impulsionaram o discurso de desafio e de reflexão em **38,2% dos grupos**, mas não produziram **nenhuma melhoria mensurável no desempenho criativo**. O discurso mudou e o resultado medido não.
+- **"A literatura do K-12 estabelece que a GenAI melhora a criatividade."** Uma revisão de escopo guiada pela PRISMA de **45 estudos (2017-2025)** mostra que a GenAI sobretudo **realça** a criatividade e **raramente a mede**. O achado dominante do campo é uma inferência a partir do realce percebido, que não é uma mensuração de resultado.
+- **"Mais dependência de GenAI significa mais produção criativa."** Entre **1.157 estudantes de pós-graduação chineses**, a dependência de GenAI associou-se **positivamente à criatividade em pesquisa autorrelatada** — e a associação é com **autorrelato**, que é a medida mais fraca disponível do construto.
 
 ## Conceitos conectados
 

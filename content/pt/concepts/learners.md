@@ -1,7 +1,7 @@
 ---
 title: "Quem aprende"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,13 +12,17 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,6 +82,34 @@ Como os benefícios seguem a vantagem prévia, o trabalho do lado de quem aprend
 ## Onde esta página se situa
 
 Leia com [[stakeholders|Partes interessadas]] pelas pessoas em torno de quem aprende, e com [[pedagogy|Pedagogia]] e [[learning-design|Desenho de aprendizagem]] pelo que os professores fazem com esses achados. A [[assessment|avaliação]] determina quais capacidades de quem aprende são de alguma forma tornadas visíveis; [[limitations-in-aied-research|Limitações na pesquisa em AIEd]] explica por que tanta evidência do lado de quem aprende é de curto prazo, autorrelatada e conduzida em amostras de conveniência; e [[misconceptions|Misconcepções]] é o ponto de entrada usual para quem aprende mesmo.
+
+## Ideias equivocadas comuns
+
+**"Quem aprende e estudantes são a mesma população."** Eles não são intercambiáveis de forma útil: *estudantes* nomeia um papel institucional, *quem aprende* nomeia uma atividade, e uma pessoa pode ser um sem ser o outro — um funcionário em [[professional-training|formação no trabalho]] é quem aprende, mas não é estudante. Confundi-los estreita a base de evidências para pessoas com registro de matrícula e descarta silenciosamente exatamente os adultos, profissionais e autodirigidos de que trata a pesquisa sobre [[lifelong-learning|aprendizagem ao longo da vida]].
+
+**"Quem aprende relata que a IA melhora sua compreensão, então ela economiza tempo."** As duas afirmações se separam nos dados de survey. No trabalho sobre produtividade de estudo, **92,3%** disseram que a IA melhorou sua compreensão, enquanto apenas **38,5%** disseram que ela reduziu seu tempo total de estudo. O número de manchete descreve a compreensão sentida; a lacuna abaixo dele mostra que compreensão melhorada e tempo recuperado são desfechos diferentes, e a alegação amplamente repetida de que "a IA economiza tempo" é carregada pelo número menor.
+
+**"Estudantes que usam IA para atalhos cometem uma falha moral."** A base de conhecimento trata a atração pelo menor esforço como problema de desenho e de política, e não de caráter — os estudantes a descrevem com suas próprias palavras, e a literatura sobre [[reducing-ai-misuse|uso indevido]] e [[academic-integrity|integridade]] localiza a alavanca no desenho da tarefa e do ambiente. Enquadrá-la moralmente não explica nada sobre por que o mesmo estudante se comporta de forma diferente em duas disciplinas.
+
+**"Quando uma alegação de má conduta é feita, a evidência está lá."** A análise de arquivos de caso de 1.162 alegações envolvendo GenAI mostra o que quem aprende de fato enfrenta quando a resposta institucional chega, e o lado estudantil do procedimento de má conduta é muito mais escasso na literatura do que o lado estudantil do uso. Uma página sobre quem aprende que documenta apenas seu uso e não sua exposição à acusação documentou metade da experiência.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Pergunte o que quem aprende *faz*, e não apenas o que relata sentir. A compreensão sentida (92,3%) e o tempo recuperado (38,5%) divergem o suficiente para que agir sobre uma presumindo a outra engane o desenho do curso.
+- Projete contra a atração pelo menor esforço estruturalmente, em vez de contar com a virtude de quem aprende, já que a atração está documentada como resposta normal ao desenho da tarefa.
+- Oriente quem aprende sobre o processo que enfrentará se for acusado, porque a evidência sobre procedimentos mostra que a resposta institucional é onde o dano frequentemente recai.
+
+**Para desenvolvedores**
+
+- Não faça marketing de economia de tempo que quem aprende não relata. Entregue métricas para compreensão e para tempo, e mantenha-as rotuladas separadamente.
+- Projete para quem aprende e não é estudante: usuários do trabalho e autodirigidos não têm o contexto de matrícula que seus padrões podem pressupor.
+
+**Para pesquisadores**
+
+- Mantenha a distinção entre quem aprende e estudante explícita na amostragem, e relate quem é excluído por ela.
+- Estude o acusado tanto quanto o usuário; o lado do procedimento é a metade escassa desta literatura.
 
 ## Conceitos conectados
 

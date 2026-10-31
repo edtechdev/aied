@@ -1,7 +1,7 @@
 ---
 title: Administradores
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,8 @@ ai_assist:
 
 A adoção de IA na educação não é puramente uma decisão de sala de aula; é também uma decisão institucional. Administradores — reitores, decanos, CIOs e lideranças institucionais — definem as condições sob as quais docentes e estudantes usam a IA, equilibrando oportunidade pedagógica com governança, recursos e risco.
 
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] oferece uma peneira de compras portátil exatamente para a decisão que os administradores enfrentam: antes de implantar um produto de IA, perguntar qual problema está sendo resolvido, se existe capacidade de governança, se a instituição está sendo transparente e se a implantação cria valor para os estudantes — enquadrando a escolha como uma questão sobre os direitos, as escolhas, as finanças e os futuros dos estudantes, e não como uma transação de compras.
+
 ### Como a perspectiva do administrador aparece na pesquisa
 
 - **Política e tomada de decisão institucional:** a [[ai-uk-higher-education-policy-2026|pesquisa sobre política de IA no ensino superior do Reino Unido]] conclui que a integração da IA está acelerando, mas de forma fragmentada, com uma lacuna entre a ambição da política de alto nível e a implementação institucional — um tema recorrente para administradores que navegam a estratégia sem orientação operacional clara.
@@ -53,6 +59,22 @@ A adoção de IA na educação não é puramente uma decisão de sala de aula; �
 ### Conexões
 
 A perspectiva do administrador se conecta à [[educational-policy-ai|política educacional de IA]] (formação de políticas), à [[governance|governança]] e à [[regulation|regulamentação]] (governança), às [[edtech-platform|plataformas de tecnologia educacional]] (compras e infraestrutura), à [[learning-analytics|analítica da aprendizagem]] (dados institucionais) e ao [[higher-ed|ensino superior]]. As decisões dos administradores habilitam ou restringem o trabalho de [[educational-development|desenvolvimento educacional]], de [[teacher-role|papel docente]] e de [[ai-literacy|letramento em IA]] tratado em outras partes da base de conhecimento.
+
+## Ideias equivocadas comuns
+
+- **"Prioridade estratégica implica capacidade estratégica."** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] constatou que apenas **7% das instituições haviam criado cargos seniores de liderança em IA**, embora **49% tratassem a IA como prioridade estratégica**. A lacuna não é indiferença — é que a intenção foi declarada sem que a estrutura que a sustentaria tenha sido financiada. Ler uma estratégia de IA publicada como evidência de prontidão institucional superestima o que existe.
+- **"Números de adoção medem prontidão."** Uso declarado e uso governado são quantidades diferentes, e a evidência desta página as separa: as instituições relatam intenção estratégica em cerca da metade da população e capacidade de liderança em menos de um décimo. Uma pesquisa mostrando que a equipe usa IA informa o que as pessoas já fizeram sem permissão, não o que a instituição consegue apoiar ou supervisionar.
+- **"Compras são uma etapa administrativa."** Onde a capacidade é comprada em vez de construída, os termos contratuais decidem o que se torna possível depois — propriedade dos dados, acesso para auditoria e se a ferramenta pode ser avaliada de algum modo. Uma decisão de fornecedor tomada como tarefa de compras fecha questões de avaliação que a instituição ainda não fez.
+- **"A governança pode vir depois da adoção."** A afirmação de sequenciamento é comum e não tem apoio aqui: a evidência documenta o padrão oposto, com política e estruturas de liderança correndo atrás de um uso que já está acontecendo. Governança enquadrada como algo a construir após a implantação é governança construída a partir de uma posição de menor alavancagem.
+
+## O que isso significa na prática
+
+**Para administradores**
+
+- Orçe o cargo de liderança, não apenas o documento de estratégia. Quando 49% declaram a IA uma prioridade e 7% criam cargos seniores, a restrição vinculante é a alocação, não a convicção.
+- Pergunte pelo que uma ferramenta pode ser avaliada antes de assinar. Se o contrato não permite acesso a resultados, dados de auditoria ou detalhe de uso, a instituição comprou uma capacidade que não consegue avaliar.
+- Pesquise o uso real, e não o uso sancionado, porque os dois divergem e o número não sancionado é o que carrega risco ao qual você já está exposto.
+- Sequencie a política antes da implantação onde ainda existe alavancagem. Uma vez que o uso se difunde, a política se torna negociação com uma prática que já se assentou.
 
 ## Conceitos conectados
 
@@ -81,3 +103,4 @@ A perspectiva do administrador se conecta à [[educational-policy-ai|política e
 - [[genai-policies-higher-ed-computing]] — Políticas institucionais de GenAI na computação
 - [[institutional-change-framework-ai]] — Framework de mudança institucional para a IA
 - [[edtech-privacy-deferral-2026]] — "Vamos consertar depois": Educação, IA e o adiamento da privacidade do estudante na EdTech
+- [[students-at-stake-ai-deployment-risks-2026]] — Uma peneira de compras em quatro perguntas, enquadrada como direitos dos estudantes e não como gestão de risco

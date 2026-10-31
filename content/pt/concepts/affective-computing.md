@@ -1,7 +1,7 @@
 ---
 title: Computação afetiva
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T14:23:52-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,13 +9,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,12 @@ A computação afetiva fica na interseção entre a [[affective-tutoring]] (sua 
 - **Agentes de avaliação emocionalmente inteligentes.** O [[aivaluate-anxiety-assessment-2026|AIvaluate]], um [[llm|agente conversacional]] emocionalmente inteligente [[conversational-ai|aumentado por LLM]], reduziu a ansiedade e a pressão social dos estudantes durante avaliações baseadas em desempenho, preservando a [[usability-research|usabilidade]].
 - **Empatia construída pelo desenho do prompt, não pela percepção.** O suporte afetivo não exige detecção de afeto: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtiveram uma grande diferença na *percepção de empatia* (21,27 vs. 18,24; r = 0,53) entre dois agentes de [[physics-education|física]] baseados em LLM que diferiam apenas no papel e nos movimentos conversacionais especificados no prompt — aberturas de tomada de perspectiva ("Você tem esta pergunta porque…"), diagnóstico de [[misconceptions|equívocos]] e uma verificação de compreensão ao final de cada rodada — enquanto modelo, plataforma e temperatura eram mantidos constantes. Isso é um contrapeso útil à computação afetiva guiada por sensores: a qualidade emocional percebida de um [[pedagogical-agent|agente pedagógico]] pode ser desenhada dentro do roteiro de interação, ao mesmo tempo em que lembra os projetistas de que a empatia percebida é um construto de autorrelato, e não evidência de genuína compreensão afetiva ([[student-ai-interaction]]).
 - **Alertas que orientam um professor em vez de adaptar um tutor.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] implantou o Dash4Emotion em uma sala de geometria do ensino médio, onde retângulos com moldura vermelha marcavam estudantes lidos como vivenciando emoção negativa; ao longo de vinte episódios identificados (cinco relatados), o que deslocou o engajamento foi a resposta do professor a um alerta, não o alerta em si. O ponto de desenho é que a percepção de afeto pode alimentar uma decisão humana em vez do próximo movimento de um tutor adaptativo — com a ressalva do próprio estudo anexada: ele não relata validação da detecção de expressão facial, de modo que o sinal é um convite à interpretação do professor, e não evidência sobre o estado interno de um estudante.
+
+## Ideias equivocadas comuns
+
+- **"Mais engajamento significa mais aprendizagem."** Um estudo com sensoriamento cerebral descobriu que uma **interface restrita e adaptativa elevou o engajamento cognitivo (p = ,018) enquanto o chatbot irrestrito produziu ganhos de aprendizagem maiores**. A interface que engajou mais ensinou menos. Engajamento não é um proxy para aprendizagem, e otimizá-lo pode mover o resultado na direção errada.
+- **"O apoio emocional é um acréscimo suave ao apoio cognitivo."** Em um pequeno [[rct]] de sala de aula (**42 concluintes de 252 participantes**), a versão com mindfulness alcançou **aprendizagem de álgebra similar em menos tempo e com menos pedidos de dicas** do que apenas o apoio cognitivo. O componente afetivo mudou a eficiência, e não o teto, o que é uma afirmação diferente e mais interessante do que "isso ajuda a aprendizagem".
+- **"Achados afetivos de amostra pequena transferem."** 42 concluintes de 252 participantes é um desenho ao mesmo tempo encorajador e frágil: a taxa de conclusão é, ela mesma, um achado sobre quem persistiu, e o efeito está delimitado a esse grupo.
 
 ## Conceitos conectados
 - [[anxiety-and-stress]]

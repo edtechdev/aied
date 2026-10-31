@@ -1,7 +1,7 @@
 ---
 title: Uso de IA e declarações de divulgação
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-04T16:22:53-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Uso de IA e declarações de divulgação** — as políticas, declarações e práticas pelas quais se pede aos estudantes (ou eles escolhem) divulgar seu uso de [[generative-ai|IA generativa]] em trabalhos acadêmicos. Também conhecidas como declarações de uso de IA, declarações de divulgação de IA ou declarações de [[explainable-ai|transparência]], esses mecanismos ficam na interseção da [[academic-integrity|integridade acadêmica]], da [[ethics|ética]], da [[trust|confiança]] e da [[assessment|avaliação]] na era da IA. A [[research-methods-aied|pesquisa]] da base de conhecimento mostra que a divulgação está longe de ser uma formalidade administrativa neutra: ela é moldada pelo medo de penalidades, por políticas ambíguas, por aplicação inconsistente, por normas dos pares, por estigma e pelos custos psicológicos da autoincriminação — e está profundamente entrelaçada com a [[self-regulated-learning|aprendizagem autorregulada]] e a [[help-seeking|busca de ajuda]].
 
@@ -69,6 +73,7 @@ O trabalho de modelagem de [[mohamed-temimi-assessment-imperfect-information-dis
 Ao mapear as orientações sobre GenAI das 50 universidades dos EUA mais bem rankeadas em inovação, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] localiza a divulgação na fronteira entre assistência e deturpação: onde a IA é permitida, as instituições instruem os estudantes a reconhecer, citar ou documentar de outra forma a assistência da IA, em vez de apresentar as saídas como inteiramente suas, cabendo às bibliotecas — e não aos escritórios de integridade — a autoridade sobre os padrões de citação e proveniência. A formulação das Bibliotecas do MIT, de que a IA não é autora, deixando os autores responsáveis por documentar como as ferramentas contribuíram, exemplifica o padrão, e Qian lê a divulgação simultaneamente como uma norma de integridade, um princípio de desenho que reduz a ambiguidade antes do envio, e um de quatro pilares de integridade ao lado da responsabilização, da [[equity-in-ai-education|equidade]] e da [[privacy|privacidade]]. Esse é o mesmo uso não forense que a seção descreve, e é por isso que Qian recomenda institucionalizar as bibliotecas como autoridade de citação em vez de expandir a detecção.
 
 - **A divulgação carrega uma penalidade de confiança, e a legitimidade é o mecanismo argumentado.** Em treze experimentos, em sua maioria com participantes de painéis on-line dos Estados Unidos e agregados em 4.093 observações (θ = 0,81, z = 10,52, IC 95% [0,66; 0,96]), um ator que divulgou o uso de IA foi menos confiável do que outro que permaneceu em silêncio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke e Reimann (2025)]]). O efeito sobreviveu a seis enquadramentos de divulgação, a um avaliador que já sabia que a IA havia sido usada, e a regimes tanto obrigatórios quanto voluntários. É a contraparte experimental do achado de pesquisa de que estudantes que sempre divulgavam enfrentavam mais de três vezes as chances de uma acusação: a transparência em si pode custar caro a quem divulga. O único resultado voltado aos estudantes do artigo é que estudantes confiavam menos numa professora quando ela divulgava usar IA para corrigir.
+- **Um rótulo de conteúdo muda a descrição, não o veredicto.** Com 617 adultos designados aleatoriamente para ver ou não um rótulo de "Conteúdo Gerado por IA/Vídeo Sintético", o rótulo reduziu a autenticidade percebida (médias de 4,92 sem e 4,21 com), mas deixou a confiança (B = -0,130, p = 0,216), o risco, a adoção e o compartilhamento inalterados ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang e Zhang (2026)]]).
 
 ## Como desenhar uma divulgação eficaz
 
@@ -77,10 +82,18 @@ Ao mapear as orientações sobre GenAI das 50 universidades dos EUA mais bem ran
 - **Torne a divulgação formativa, e não apenas conformidade.** Use prompts de reflexão e declarações estruturadas (modelo/entrada/avaliação) para que a divulgação construa [[ai-literacy|letramento em IA]] e autorregulação, em vez de funcionar como vigilância.
 - **Capacite o corpo docente a construir confiança, em vez de contar com a detecção.** A divulgação nunca deve ser seguida de acusação; os professores deveriam aprender conversas de construção de confiança, em vez de se apoiar em detectores de IA não confiáveis.
 - **Desenhe pensando na equidade.** Atente à divulgação diferencial entre disciplinas, situações linguísticas e trajetórias dos estudantes, e evite mecanismos que coloquem fardos desiguais sobre estudantes já marginalizados.
+- **A divulgação também corre no sentido inverso.** Toda página aqui trata a divulgação como obrigação do estudante, e os professores de escrita entrevistados por [[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]] pediram o espelho disso: os estudantes deveriam ser informados de quando e como uma ferramenta é usada para avaliar seu trabalho, e seu consentimento solicitado antes de o trabalho ser enviado. A mesma transparência que torna legível o uso do estudante é o que torna legível para o estudante a prática avaliativa de uma instituição.
 
 ## Conexões
 
 O uso de IA e a divulgação ficam na interseção da [[academic-integrity|integridade acadêmica]] (sua preocupação-mãe), da [[ethics|ética]], da [[trust|confiança]] e da [[trust-calibration|calibração da confiança]] (a divulgação como ato de vulnerabilidade), da [[governance|governança]] e da [[educational-policy-ai|política educacional de IA]] (frameworks de política institucional), e da [[assessment|avaliação]] (onde a divulgação é operacionalizada). Ela se conecta ao [[ai-literacy|letramento em IA]] (os estudantes precisam entender o que divulgar e como), à [[self-regulated-learning|aprendizagem autorregulada]] e à [[help-seeking|busca de ajuda]] (a divulgação como busca de ajuda visível), e à [[equity-in-ai-education|equidade]] (a divulgação diferencial). Ela é distinta de, mas relacionada a, [[ai-misuse-learning-harm|uso indevido de IA e dano à aprendizagem]] (o dano que a divulgação busca tornar visível) e à [[ai-detection|detecção de IA]] (as alternativas baseadas em detecção que os frameworks de divulgação progressivamente substituem).
+
+## Ideias equivocadas comuns
+
+- **"Políticas de declaração obrigatória produzem divulgação."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documentou **74% de não conformidade** com uma declaração obrigatória em uma escola de negócios. A exigência não produziu o comportamento que ela mandava.
+- **"Os estudantes escondem o uso de IA porque são desonestos."** Os motores são documentados e específicos: apenas **cerca de 34% dos estudantes de economia admitiram uso de IA**, com divulgação ainda mais rara, movidos por **ansiedade de punição**, enquanto outro estudo constatou **66% que nunca ou raramente divulgaram**, com **medo de penalidade acadêmica a principal razão**. O desenho da política, e não o caráter, é o que os dados implicam.
+- **"Uma exigência de divulgação é um controle de baixo custo."** Uma **taxa de não conformidade de 74%** torna o registro resultante pior do que nenhum registro: é um conjunto de dados que parece completo e não é, de modo que a instituição está decidindo sobre uma amostra em que não pode confiar.
+- **"Divulgar como o modelo foi usado é suficiente."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argumenta que a divulgação documenta o uso do modelo, enquanto o uso responsável exige garantia autoral no nível da afirmação — a capacidade do contribuinte de compreender, justificar e defender as afirmações —, separando a delegação cognitiva, em que os resultados moldam escolhas substantivas, da delegação rotineira, que não molda.
 
 ## Conceitos conectados
 
@@ -104,6 +117,7 @@ O uso de IA e a divulgação ficam na interseção da [[academic-integrity|integ
 - [[social-norms-ai-use]] — por que os estudantes escolhem ocultar em vez de divulgar
 
 ## Artigos conectados
+- [[wu-lam-genai-writing-assessment-professors-2026]] — A direção espelhada: informar os estudantes quando a IA avalia seu trabalho, e pedir antes de enviá-lo
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Além da detecção: como os estudantes usam e escondem a IA em avaliações on-line
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgação de IA pelos estudantes, estigma e aprendizagem autorregulada
 - [[vetter-hidden-cost-disclosure-genai-2026]] — O custo oculto da divulgação: divulgação e acusações do corpo docente
@@ -114,4 +128,7 @@ O uso de IA e a divulgação ficam na interseção da [[academic-integrity|integ
 - [[qian-governing-genai-higher-ed-policy-2026]] — A divulgação como fronteira entre assistência e deturpação em 50 universidades inovadoras dos EUA (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Sem consenso sobre divulgação e citação de IA na política das escolas de direito (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — Redações de admissão escritas por IA são difundidas, mas penalizadas
+- [[authorial-warrant-ai-supported-scholarship-2026]] — Quando as regras de divulgação não bastam: garantia autoral e julgamento na produção acadêmica apoiada por IA (Mirończuk 2026)
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Treze experimentos: divulgar o uso de IA reduz a confiabilidade de quem divulga, via legitimidade
+
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Rótulos de divulgação de IA, autenticidade percebida e confiança em vídeos instrucionais gerados por IA

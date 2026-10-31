@@ -1,7 +1,7 @@
 ---
 title: Teoria da atividade
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,13 +10,17 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -75,6 +79,14 @@ A teoria da atividade se situa dentro da família [[sociocultural-learning|socio
 ### Implicações práticas
 
 Para quem desenha e para educadores, a teoria da atividade aconselha olhar além da própria ferramenta de IA para todo o sistema de atividade em que ela entra: as regras que governam o uso aceitável, a comunidade e suas normas, a divisão do trabalho entre humano e máquina, e o objeto/motivo da atividade. A integração sustentável da IA exige *redesenhar o sistema* — enfrentar contradições, atualizar normas e reequilibrar papéis — e não meramente fornecer ferramentas melhores ou treinamento individual. Para pesquisadores, a teoria da atividade oferece uma unidade de análise rigorosa (o sistema de atividade, não o indivíduo) e um método (intervenção [[formative-assessment|formativa]], análise de contradições) para estudar e moldar o papel da IA na educação.
+
+## Ideias equivocadas comuns
+
+**"A adoção de IA por um professor é uma questão de atitude individual."** A teoria da atividade a reenquadra como uma propriedade de todo o sistema de atividade — sujeito, ferramentas, regras, comunidade e divisão do trabalho —, de modo que a resistência é frequentemente uma resposta racional a um sistema que não mudou. Um professor que recusa uma ferramenta que acrescenta trabalho, redistribui mal sua atenção ou conflita com as normas do departamento está lendo o sistema corretamente; pesquisas de atitude registrarão isso como uma disposição e perderão a causa.
+
+**"Se você mudar as crenças do professor, a prática virá em seguida."** A unidade de mudança é maior do que a pessoa. Intervenções que alteram normas, distribuição da carga de trabalho e regras compartilhadas mudam a prática de forma mais confiável do que as voltadas à convicção individual, porque o objeto da atividade é produzido coletivamente. Isso também explica por que adotantes individualmente entusiasmados retrocedem quando seu departamento não se move com eles.
+
+**"A teoria da atividade é uma lente descritiva sem consequências de design."** Ela direciona o design às contradições entre os elementos do sistema — a ferramenta que conflita com as regras, a divisão do trabalho que conflita com o objeto —, que é onde a mudança é de fato alavancada. Uma lente que localiza contradições está lhe dando um lugar para intervir, e não apenas um vocabulário.
 
 ## Conceitos conectados
 - [[sociocultural-learning]] — a família teórica à qual a teoria da atividade pertence (vygotskiana, histórico-cultural)

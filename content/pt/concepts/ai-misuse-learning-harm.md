@@ -1,7 +1,7 @@
 ---
 title: Uso indevido de IA e dano à aprendizagem
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-01T09:59:54-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,13 +10,17 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 
 O uso indevido de IA é distinto do uso de IA. O uso descreve empregar a IA como complemento da aprendizagem — [[feedback|feedback]], brainstorming ou ajuda na revisão que mantém o trabalho cognitivo do estudante no circuito. O uso indevido descreve a substituição: delegar à IA os próprios processos mentais (redigir, recordar, analisar, revisar) que constroem a compreensão durável. O dano documentado na base de evidências da base de conhecimento não é que o uso indevido deixa de ajudar; é que o uso indevido degrada ativamente o desempenho posterior, sem assistência.
 
+O dano antecipado está ele mesmo documentado: em dados de survey e de grupo focal suecos, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] constataram que 51% dos participantes (n = 106) se preocupavam que o uso de IA generativa pudesse prejudicar o desenvolvimento individual, nomeando perdas em [[critical-thinking|pensamento crítico]], criatividade e autonomia, e não violação de regras.
+
 ### A lacuna entre desempenho e aprendizagem
 
 O conceito central, articulado em [[genai-performance-vs-learning]], é que a IA generativa eleva facilmente o **desempenho** — eficiência imediata e qualidade do produto — ao mesmo tempo que frequentemente contorna o processamento cognitivo e [[metacognition|metacognitivo]] profundo exigido pela **aprendizagem**. Uma ferramenta que otimiza o desempenho pode, portanto, minar a aprendizagem. A lacuna agora está demonstrada causalmente em escala de campo: um [[rct|ensaio controlado randomizado]] constatou que a assistência de IA desprotegida elevou o desempenho na prática, mas reduziu as notas posteriores, sem assistência.
@@ -47,6 +53,7 @@ O conceito central, articulado em [[genai-performance-vs-learning]], é que a IA
 - **Copiar respostas como muleta** — o uso indevido é impulsionado menos por erros da IA que enganam os estudantes do que por estudantes que copiam respostas em vez de aprender. Quando a análise de [[student-engagement|engajamento]] mostra que os estudantes principalmente "pedem a resposta", o dano à aprendizagem se segue.
 - **Erosão da motivação** — a disponibilidade percebida de um atalho de IA sem esforço reduz a motivação autônoma e a persistência, segundo a [[self-determination-theory|teoria da autodeterminação]]. Como a persistência é o que produz a aprendizagem profunda, sua erosão agrava o dano direto.
 - **Deslocamento da aprendizagem** — a substituição do produto da IA pelos processos esforçados (elaboração, recordação, autoexplicação) que consolidam o conhecimento, coerente com o [[cognitive-offloading|excesso de confiança na IA]].
+- **Confusão lida como intenção.** Quando os instrutores não nomeiam o papel pretendido da IA em uma tarefa, os estudantes o definem pelo que é mais fácil, e o corpo docente lê a incompatibilidade resultante como trapaça, em vez de como uma fronteira que nunca foi declarada ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
 ### A base de evidências
 
@@ -70,6 +77,40 @@ A nuance prática mais importante é que o dano é **seletivo por tipo de avalia
 - **[[assessment|Desenho de avaliação]]:** são necessárias avaliações resistentes à IA e supervisionadas/sem assistência para expor — e desestimular — o uso indevido.
 - **Letramento e metacognição:** treinamento em [[ai-literacy|letramento em IA]] e [[self-regulated-learning|aprendizagem autorregulada]] que ajude os estudantes a reconhecer padrões de dependência e o custo de contornar o próprio trabalho cognitivo.
 
+### Desengajamento conversacional na era dos LLMs
+
+A literatura sobre jogar com o sistema (abuso de dicas, adivinhação sistemática) tem uma contraparte da era do diálogo: o desengajamento conversacional — zombar do agente, responder deliberadamente errado, ignorá-lo, espelhar seu texto ou reter respostas. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] dão a esse fenômeno seu primeiro tratamento sistemático no diálogo estudante–IA, e sua lição central é interpretativa, e não alarmista. Um *turno* desengajado é um movimento interacional, e não um estado estável de desengajamento. A associação aparente de Resposta Falsa com as notas pós-teste não sobreviveu a uma verificação de sensibilidade anotada por humanos, e os autores a leem como sondagem *dentro* de trajetórias que frequentemente retornam ao engajamento (o cluster de melhor desempenho se recuperou em p = 0,42). O comportamento que de fato separou trajetórias foi a Retenção — a recusa a responder, que persistiu em vez de se resolver. Para quem desenha, isso inverte a prioridade usual: o desengajamento ruidoso e visível muitas vezes se autocorrige, enquanto a retirada silenciosa sinaliza que a interação se rompeu.
+
+## Ideias equivocadas comuns
+
+**"Os estudantes perceberiam se a IA estivesse prejudicando sua aprendizagem."** Eles não percebem, e esse é o fato mais consequente da página: **os estudantes do grupo prejudicado não perceberam que aprenderam menos.** O autorrelato, portanto, não é um sinal utilizável de alerta precoce. O padrão de 48% mais prática e 17% menos prova é invisível para a pessoa que o vive, e é por isso que a detecção do dano tem de ser baseada em medição, e não em testemunho.
+
+**"O risco é quanto de IA um estudante usa."** O risco é aquilo que a IA substitui. Uso indevido, aqui, significa delegar a redação, a recordação ou a análise que constrói a compreensão durável — substituição em vez de complemento —, e um estudante pode substituir pesadamente em uma tarefa e complementar produtivamente na seguinte. O volume de uso é a variável errada; a divisão do trabalho cognitivo é a certa.
+
+**"Se o desempenho na prática está melhorando, a ferramenta está funcionando."** No RCT de campo causal com cerca de 1.000 estudantes de matemática do ensino médio, um tutor estilo ChatGPT desprotegido elevou o desempenho na prática assistida em **+48%** enquanto *reduzia* as notas em [[summative-assessment|provas de livro fechado]] sem assistência em **17%**. As direções são opostas, então qualquer avaliação que leia o número da prática como resultado certificará exatamente o dano que deveria detectar.
+
+**"Quem usa IA se preocupa sobretudo em ser pego."** As preocupações que declaram são desenvolvimentais. Em um estudo, **51% dos participantes (n = 106)** se preocupavam que o uso de IA generativa pudesse prejudicar o desenvolvimento individual, nomeando perdas em [[critical-thinking|pensamento crítico]], criatividade e autonomia, e não violação de regras. O enquadramento de [[academic-integrity|integridade]] que domina o discurso institucional não é o que os próprios estudantes adotam.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Não pergunte aos estudantes se a ferramenta ajudou; meça o desempenho sem assistência. O relato subjetivo do grupo prejudicado era tranquilizador e errado.
+- Desenhe para o complemento, e não para a substituição, tarefa por tarefa, especificando o que o estudante precisa produzir antes de a IA poder ser usada.
+- Observe notas de prática subindo junto com notas sem assistência estagnadas ou em queda — essa divergência é a assinatura a que se deve reagir, e não um problema de qualidade de dados.
+- Leve a preocupação desenvolvimental a sério no enquadramento. Estudantes que levantam perdas de pensamento crítico e de autonomia estão descrevendo o mecanismo do dano, não resistindo a uma regra.
+
+**Para desenvolvedores**
+
+- Instrumente o desempenho assistido e o sem assistência e nunca apresente apenas o primeiro como aprendizagem.
+- Não acrescente "você achou isso útil?" como medida de aprendizagem; ela ficou estável enquanto a aprendizagem caía.
+- Construa a fronteira da substituição dentro da interação — o desenho de dica-não-resposta com salvaguardas eliminou o dano na mesma família de experimentos.
+
+**Para pesquisadores**
+
+- Relate sempre a medida sem assistência, e relate a percepção ao lado dela, e não em lugar dela.
+- Relate a estrutura de substituição da tarefa, e não apenas a frequência de uso, ao atribuir o dano.
+
 ## Conceitos conectados
 
 - [[self-directed-learning]]
@@ -87,6 +128,9 @@ A nuance prática mais importante é que o dano é **seletivo por tipo de avalia
 
 ## Artigos conectados
 
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Estudo sueco de survey e grupos focais que argumenta que a ética da parceria, e não o enquadramento de trapaça, deveria orientar as decisões institucionais sobre IA generativa
+- [[rho-disengaged-conversational-behaviors-2026]] — Comportamentos conversacionais desengajados e aprendizagem nos diálogos estudante–IA (Rho et al. 2026)
+
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI sem salvaguardas pode prejudicar a aprendizagem
 - [[genai-performance-vs-learning]] — Distinguindo ganhos de desempenho de aprendizagem
@@ -100,8 +144,4 @@ A nuance prática mais importante é que o dano é **seletivo por tipo de avalia
 - [[academic-erasure-complexity-ai-writing-2026]] — Apagamento acadêmico: o desaparecimento da complexidade sob a escrita apoiada por IA
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — A dependência de IA media totalmente a via da autoeficácia e do apoio do professor para o esgotamento com a aprendizagem (Huang et al. 2026)
 - [[uneven-impact-generative-ai-student-learning-2026]] — A dependência precoce prevê impacto negativo enquanto a dependência cognitiva prevê impacto positivo, e o letramento em avaliação fortalece em vez de amortecer o dano de consultar a IA primeiro (Manikonda et al. 2026)
-
-- **Confusion read as intent.** When instructors do not name AI's intended role in an assignment, students define it by what is easiest, and faculty read the resulting mismatch as cheating rather than as a boundary that was never stated ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
-The gaming-the-system literature (hint abuse, systematic guessing) has a dialogue-era counterpart: conversational disengagement — mocking the agent, deliberately answering wrong, ghosting it, mirroring its text, or withholding responses. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] give this phenomenon its first systematic treatment in student-AI dialogue, and its central lesson is interpretative rather than alarmist. A disengaged *turn* is an interactional move, not a stable state of disengagement. False Answering's apparent association with post-test scores did not survive a human-annotated sensitivity check, and the authors read it as probing *within* trajectories that often return to engagement (the highest-performing cluster recovered at p = 0.42). The behavior that actually separated trajectories was Withholding — the refusal to respond, which persisted rather than resolved. For designers this inverts the usual priority: noisy, visible disengagement is often self-correcting, while quiet withdrawal signals that interaction has broken down.
-- [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
-- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: A Practical Approach to Teaching with Artificial Intelligence
+- [[this-is-how-we-ai-teaching-guide-2026]] — This is How We AI: uma abordagem prática para ensinar com inteligência artificial

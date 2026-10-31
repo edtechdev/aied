@@ -1,7 +1,7 @@
 ---
 title: "Questões e riscos legais"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,13 +14,17 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-28T18:24:42-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,10 @@ O problema de evidência fica por baixo disso. A saída do detector é a evidên
 
 Uma exposição diferente fica dentro dos próprios instrumentos. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] escondeu cinco injeções indiretas de prompt dentro dos arquivos de uma redação sintética que uma ferramenta institucional de [[automated-assessment|correção por IA]] (Microsoft Copilot, GPT-5.2) havia corrigido como reprovada em seis de seis execuções de linha de base. Duas estratégias elevaram a nota sem aviso visível ao usuário, com taxas de sucesso de ataque relatadas de 100% (9 de 9 iterações) e 94% (17 de 18), combinando manipulação de instrução, dramatização e ofuscação; a ferramenta desativou silenciosamente um chat depois de bloquear o ataque mais simples, e, em uma iteração, anunciou que nunca seguiria instruções embutidas e depois elevou a nota em cada uma das seis execuções seguintes. Uma nota obtida por meio de uma instrução oculta não carrega nenhuma reivindicação de [[assessment-validity|validade]], e a mesma técnica poderia ser usada para degradar uma entrega sem deixar rastro duradouro na saída — o que significa que o registro de recurso para uma decisão automatizada contestada pode estar vazio, e uma conclusão de má conduta (ou de mérito) não pode ser evidenciada a partir do artefato de modo algum. Os pedidos de Humble no nível do setor são política de IA clara em [[educational-policy-ai|IA na educação]], [[educational-development|desenvolvimento profissional]] e testagem padronizada de resiliência agnóstica a domínio, para que a superfície de ataque seja mensurada, e não pressuposta, com uso restrito de IA e [[human-in-the-loop-ai|revisão humana]] reservados para trabalho de alto impacto.
 
+### Propriedade e a questão do domínio público
+
+O direito autoral é a outra questão jurídica neste território, e corre na direção oposta à da má conduta. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley e Downes (2026)]] leem a posição do Escritório de Direitos Autorais dos Estados Unidos como tratando os prompts, sozinhos, como insuficientes para a autoria. Se essa leitura se sustenta, uma obra puramente gerada por máquina não pertence a quem a promoveu, o que importa duas vezes: um caso de má conduta não tem texto de autoria a atribuir a um estudante, e uma instituição que publique essa obra não pode reivindicar direitos sobre ela. As licenças, então, fazem o trabalho que a propriedade faria de outro modo, e é por isso que o licenciamento aberto e a integridade acadêmica são um único problema visto de dois lados.
+
 ### Além do portão do campus
 
 Para programas profissionais, a exposição não termina na formatura. Gutowski e Hurley registram que as regras de conduta profissional que vinculam advogados em exercício — o dever de competência tecnológica, a confidencialidade, a supervisão de outros que usam as ferramentas, a franqueza para com o tribunal — já se vinculam ao uso de IA, e que a [[hallucination-risk|autoridade alucinada]] produziu sanções para profissionais que protocolaram casos fabricados. A mesma lógica de transferência se aplica onde quer que uma licença, um registro ou um dever estatutário siga o egresso, razão pela qual as páginas de disciplina de [[legal-education|educação jurídica]] e das [[medical-education|profissões de saúde]] pertencem ao lado desta.
@@ -80,6 +88,16 @@ Para programas profissionais, a exposição não termina na formatura. Gutowski 
 - A saída do detector sobrevive como evidência de alguma coisa depois que uma instituição admite suas taxas de erro em uma audiência, ou a admissão converte o caso em uma disputa de justiça processual?
 - O fornecedor ou a instituição é o controlador de dados quando a supervisão e a detecção passam por uma plataforma de terceiros, e isso muda o aconselhamento às instituições?
 - As instituições deveriam publicar os padrões de evidência que aplicam à má conduta com IA, do modo como limiares de evidência são publicados em outros lugares, como forma de reduzir tanto a acusação injusta quanto a exposição jurídica?
+
+## Ideias equivocadas comuns
+
+**"A má conduta com IA é uma única questão jurídica."** São várias chegando juntas — de **evidência** (se a acusação pode ser evidenciada de algum modo), **contratual e processual** (se a instituição seguiu suas próprias regras e deu uma audiência justa) e de **igualdade**. Uma resposta que trata da evidência enquanto negligencia o procedimento fica juridicamente exposta numa dimensão que nunca considerou, e as instituições tendem a se preparar para aquela pela qual já foram processadas.
+
+**"As instituições escreveram políticas consistentes, então o risco é dos estudantes."** A inconsistência também corre na outra direção. A pesquisa de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson e Rainie (2026)]] com **1.057 professores dos EUA** constatou que **87% dos respondentes escreveram sua própria orientação no nível da tarefa** — de modo que as regras operativas variam dentro de uma única instituição, e um estudante pode cumprir a regra de um instrutor e violar a de outro na mesma semana. Um estudante acusado sob um padrão não declarado tem um problema processual que a instituição criou.
+
+**"A detecção fornece a evidência de que um procedimento precisa."** A detecção fornece uma pontuação. A questão probatória é se a acusação pode ser evidenciada de algum modo, e a [[ai-detection|literatura sobre detecção]] mostra que as ferramentas não produzem nem a confiabilidade nem a categoria interpretável que um processo disciplinar exige. Construir o procedimento sobre um detector é construí-lo sobre o elo mais fraco.
+
+**"Os riscos são hipotéticos, e a política vai alcançá-los."** Os riscos estão sendo distribuídos de forma desigual agora, e os estudantes que os absorvem são os que têm menos capacidade de contestar um procedimento. A assimetria entre a capacidade de uma instituição de investigar e a capacidade de um estudante de responder é um dano presente, e não futuro.
 
 ## Conceitos conectados
 

@@ -1,13 +1,13 @@
 ---
 title: Teoria de resposta ao item
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-05T08:24:47-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -15,9 +15,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Teoria de resposta ao item (TRI, IRT)** — uma família de modelos psicométricos que estimam a habilidade latente a partir das respostas aos itens, modelando a relação entre a habilidade de quem aprende e a probabilidade de acertar cada item. A TRI modela a dificuldade e a discriminação dos itens, viabilizando precisão de mensuração e testagem adaptativa. Na era da IA, a TRI encontra as [[llm|LLMs]] na [[llm-item-difficulty-prediction|predição de dificuldade de itens por LLM]] e na [[llm-psychometric-calibration-cdp|calibração psicométrica por LLM]]: a IA prevê e calibra a dificuldade dos itens, potencialmente melhorando a precisão da mensuração e alimentando a [[adaptive-learning|aprendizagem adaptativa]].
 
@@ -41,8 +45,10 @@ A TRI trata a habilidade (θ) e os parâmetros dos itens (dificuldade, discrimin
 - **Rastreamento de conhecimento e modelagem do estudante:** a TRI está intimamente relacionada ao [[knowledge-tracing|rastreamento de conhecimento]] e à [[student-modeling|modelagem do estudante]] — modelos que rastreiam o conhecimento de quem aprende ao longo do tempo — compartilhando o objetivo de estimar estados inobserváveis de quem aprende a partir de respostas observáveis.
 
 - **Quantidades de TRI lidas dos logits das LLMs.** [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] extraem a habilidade do estudante θ = z^GOOD − z^BAD e a dificuldade do turno do tutor d = z^HARD − z^EASY dos logits de próximo token e as combinam em um preditor Rasch 1PL, tornando o rastreamento de conhecimento baseado em diálogo interpretável (64,29% de precisão, 65,25 de AUC no QATD2k).
+- **Subtarefas de diálogo na mesma escala das questões.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan et al. (2026)]] reescrevem as subtarefas que os tutores propõem em meio ao diálogo como questões autônomas e as colocam em uma única escala de TRI 1PL compartilhada, cuja dificuldade vem do texto da questão, usando movimentos de andaimento após a dificuldade e de pressão por rigor como supervisão da ordenação de dificuldade.
 
 - **Validação de campo hierárquica bayesiana:** [[assessing-quality-ai-generated-exams-field-2025|Avaliando Exames Gerados por IA]] usa um modelo de TRI 2PL hierárquico bayesiano (com itens-âncora de pré-teste para posicionar 1.686 estudantes em uma escala comum de θ) para mostrar que questões geradas por IA se equiparam aos itens de exames padronizados escritos por especialistas em dificuldade e discriminação — uma demonstração em grande escala da TRI como espinha dorsal de validação para a [[automated-question-generation|geração automatizada de questões]].
+- **Um [[benchmark]] alinhado a padrões pode saturar.** Em conjuntos de ciências do [[k-12|ensino fundamental e médio]] alinhados ao NGSS, a maioria dos modelos de pesos abertos pontuou acima de 90%, deixando as métricas clássicas de itens pobres — dificuldade alta, discriminação baixa, com células triviais acima de 90% —, de modo que os autores não conseguem separar itens fracos de um domínio que se tornou tratável ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
 
 - **A informação do teste localiza a precisão.** Um teste de letramento em GenAI de 20 itens validado com um modelo 2PL (RMSEA = 0,03, CFI = 0,97) teve o pico de sua função de informação em θ = −0,8, tornando-o mais preciso para aprendentes de letramento baixo a moderado, e não uniforme ao longo da escala ([[jin-glat-genai-literacy-assessment|Jin et al. (2025)]]).
 
@@ -68,6 +74,13 @@ A TRI trata a habilidade (θ) e os parâmetros dos itens (dificuldade, discrimin
 
 A TRI é uma fundação da [[educational-measurement|mensuração educacional]] e da [[assessment-validity|validade da avaliação]], sustenta a [[adaptive-learning|aprendizagem adaptativa]] (seleção adaptativa de itens) e a [[student-modeling|modelagem do estudante]], e se conecta à [[psychometrically-aware-ai|IA psicometricamente consciente]] (avaliação por IA alinhada com a teoria da mensuração) e ao [[knowledge-tracing|rastreamento de conhecimento]]. Ela aparece na [[llm-difficulty-calibration-programming-exams-2026|calibração de dificuldade por LLM]] para avaliação em programação.
 
+## Ideias equivocadas comuns
+
+- **"A TRI exige aplicação convencional de testes."** Habilidade e dificuldade podem ser recuperadas dos **logits de próximo token**: extrair **a habilidade do estudante θ = z^GOOD − z^BAD** e **a dificuldade do turno do tutor d = z^HARD − z^EASY** e combiná-las em um preditor Rasch 1PL torna o rastreamento de conhecimento baseado em diálogo interpretável em termos de TRI. O framework psicométrico se aplica a dados de interação, e não apenas a respostas de itens.
+- **"Um benchmark que a maioria dos modelos passa é um bom benchmark."** Um benchmark alinhado a padrões pode **saturar**: em conjuntos de ciências do ensino fundamental e médio alinhados ao NGSS, **a maioria dos modelos de pesos abertos pontuou acima de 90%**, deixando as métricas clássicas de itens pobres. Saturação não significa que os modelos são excelentes; significa que os itens já não discriminam.
+- **"A dificuldade de um item é uma propriedade intrínseca do item."** Uma sonda causal que **editou 50 questões de teste por conjunto de dados** rumo a uma hipótese ou na direção oposta constatou que **edições que aumentam a dificuldade reduziram a precisão média em 15,27 e 23,88 pontos percentuais** no GSM8K e no BBH-structured. A dificuldade é uma relação entre item e modelo, e ela se move quando o item se move.
+- **"A TRI serve apenas para pontuar quem aprende."** [[assessing-quality-ai-generated-exams-field-2025|Avaliando Exames Gerados por IA]] usa um **modelo 2PL hierárquico bayesiano com itens-âncora de pré-teste para posicionar 1.686 estudantes**, o que é garantia de qualidade para a própria avaliação, e não pontuação para o estudante.
+
 ## Conceitos conectados
 
 - [[educational-measurement]]
@@ -80,6 +93,7 @@ A TRI é uma fundação da [[educational-measurement|mensuração educacional]] 
 - [[intelligent-tutoring]]
 
 ## Artigos conectados
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Um Framework de Resposta Unificado para Questões e Diálogos de Tutoria
 - [[explaining-question-difficulty-natural-language-2026]] — Explicando a dificuldade das questões de LLM em linguagem natural por meio da TRI e de edições causais (Cui et al. 2026)
 - [[item-writing-flaws-irt-difficulty-2026]] — O impacto das falhas de elaboração de itens sobre a dificuldade e a discriminação em TRI (Schmucker & Moore 2026)
 - [[causal-modeling-competency-assessment-2026]] — Modelagem Causal de Intervenções de Apoio para a Avaliação de Competência dos Estudantes
@@ -98,3 +112,4 @@ A TRI é uma fundação da [[educational-measurement|mensuração educacional]] 
 - [[bayesian-consensus-irt-item-banks-2026]] — Calibração por consenso bayesiana de um banco de itens de TRI continuamente em evolução (Jewsbury et al. 2026)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Auditoria de campo mostrando que a TRI/Rasch é raramente usada como evidência primária de validação em instrumentos de letramento em IA de professores
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: a tutoria por IA e a tutoria humana produzem ganhos de aprendizagem equivalentes no GRE
+- [[llm-benchmark-secondary-science-topics-2026]] — Um benchmark alinhado a padrões pode saturar

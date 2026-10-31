@@ -1,7 +1,7 @@
 ---
 title: "Parcerias pedagógicas"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,11 +18,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-> **Parcerias [[pedagogy|pedagógicas]]** (também conhecidas como **estudantes como parceiros** ou **SaP, do inglês students as partners**) — uma abordagem ao ensino e à aprendizagem centrada na relação, em que estudantes e educadores trabalham juntos como colaboradores para cocriar currículo, atividades de ensino, [[assessment|avaliação]], recursos educacionais abertos e políticas educacionais, em vez de tratar os estudantes como recipientes passivos da instrução desenhada pelo corpo docente. Fundamentada nos valores de **respeito, reciprocidade e responsabilidade** (Cook-Sather et al., 2014), a parceria pedagógica reposiciona os estudantes como cocriadores de conhecimento e de inovação educacional e desafia as dinâmicas de poder tradicionais de cima para baixo na educação. Na era da IA, a parceria se tornou uma contranarrativa-chave às visões deficitárias dos estudantes como trapaceiros ou vítimas da IA — posicionando-os como parceiros no codesenho da política, das ferramentas e da prática com IA.
+> **Parcerias [[pedagogy|pedagógicas]]** (também conhecidas como **estudantes como parceiros** ou **SaP, do inglês students as partners**) — uma abordagem ao ensino e à aprendizagem centrada na relação, em que estudantes e educadores trabalham juntos como colaboradores para cocriar currículo, atividades de ensino, [[assessment|avaliação]], [[open-education|recursos educacionais abertos]] e políticas educacionais, em vez de tratar os estudantes como recipientes passivos da instrução desenhada pelo corpo docente. Fundamentada nos valores de **respeito, reciprocidade e responsabilidade** (Cook-Sather et al., 2014), a parceria pedagógica reposiciona os estudantes como cocriadores de conhecimento e de inovação educacional e desafia as dinâmicas de poder tradicionais de cima para baixo na educação. Na era da IA, a parceria se tornou uma contranarrativa-chave às visões deficitárias dos estudantes como trapaceiros ou vítimas da IA — posicionando-os como parceiros no codesenho da política, das ferramentas e da prática com IA.
 
 ## Perguntas para refletir
 
@@ -76,7 +80,7 @@ Essas vertentes compartilham uma afirmação central: a de que as pessoas que vi
 A parceria pedagógica é relacionada, mas distinta, de vários conceitos vizinhos:
 
 - **[[agency|Agência de quem aprende]] e [[self-directed-learning|aprendizagem autodirigida]]:** A parceria apoia a agência de quem aprende ao dar aos estudantes voz sobre o que e como aprendem, e ela se sobrepõe à aprendizagem autodirigida. No entanto, a parceria é fundamentalmente *relacional* — a agência e a direção emergem da relação instrutor–estudante, e não isoladamente. Alguns frameworks conceitualizam isso como \"agência compartilhada\", que existe na relação entre estudante e instrutor, e não dentro de uma das partes isoladamente.
- Anastasia (2026) nomeia as oito condições que tal parceria exige — presença do instrutor, confiança, segurança psicológica, diálogo, voz e escolha, feedback significativo, reflexão e responsabilidade compartilhada — e argumenta que a escolha por si só não cria autonomia: os estudantes podem receber opções enquanto lhes faltam a informação, a confiança ou a segurança psicológica para exercê-las ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
+- Anastasia (2026) nomeia as oito condições que tal parceria exige — presença do instrutor, confiança, segurança psicológica, diálogo, voz e escolha, feedback significativo, reflexão e responsabilidade compartilhada — e argumenta que a escolha por si só não cria autonomia: os estudantes podem receber opções enquanto lhes faltam a informação, a confiança ou a segurança psicológica para exercê-las ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning|Aprendizagem colaborativa]]:** Ambas envolvem trabalhar junto, mas a aprendizagem colaborativa tipicamente se refere a estudantes aprendendo *uns com os outros* dentro de uma atividade desenhada, enquanto a parceria pedagógica centra estudantes e equipe colaborando no *desenho* da própria educação.
 - **[[student-engagement|Engajamento do estudante]]:** A parceria é uma forma profunda de engajamento, mas o engajamento descreve o envolvimento de um estudante na aprendizagem, enquanto a parceria descreve uma relação de poder mudada, em que os estudantes compartilham a responsabilidade por moldar essa aprendizagem.
 - **[[teacher-role|Papel do professor]]:** A parceria redefine o papel do professor, de autoridade única e porteiro do conhecimento para codesenhista e guia intelectual, sem diminuir a especialização do corpo docente.
@@ -92,6 +96,7 @@ A parceria pedagógica é relacionada, mas distinta, de vários conceitos vizinh
 - Equidade na parceria: quais estudantes conseguem participar, cujas vozes são centradas, e como as formas de turma inteira versus seletivas distribuem o benefício.
 - As restrições de recursos e institucionais sobre a parceria, incluindo a natureza intensiva em tempo do codesenho genuíno.
 - Como a parceria se relaciona a pedagogias decolonizadoras, críticas e [[critical-pedagogy|críticas]] que desafiam as hierarquias tradicionais e centram múltiplas formas de saber.
+- **A mentoria pode correr nas duas direções.** Em um programa de 20 bolsistas e 15 estagiários em 14 departamentos de Columbia, os estagiários ensinaram ferramentas de IA ao corpo docente enquanto o corpo docente ensinava padrões disciplinares, com a maioria das duplas se estabilizando em um modelo Tradutor ([[learning-by-collaborating-ai-research-mentorship-2026|Zheng (2026)]]).
 
 ## Implicações práticas
 
@@ -102,6 +107,12 @@ Para educadores e instituições que buscam adotar a parceria pedagógica, a pes
 3. **Lidere com relação e confiança.** A parceria funciona quando confiança, segurança psicológica, diálogo e responsabilidade compartilhada são deliberadamente cultivados — e não pressupostos.
 4. **Na era da IA, convide os estudantes em vez de policiá-los.** O codesenho da política, das ferramentas e da avaliação de IA com os estudantes é tanto mais equitativo quanto mais eficaz do que respostas baseadas no déficit.
 5. **Considere a equidade da participação.** A parceria de turma inteira oferece a participação mais ampla; programas seletivos precisam atender a quais estudantes são convidados e incluídos.
+
+## Ideias equivocadas comuns
+
+- **"Parceria significa elevar a voz do estudante."** Uma parceria pedagógica é uma **relação delimitada e negociada**, com papéis definidos e obrigação recíproca, não uma consulta. Voz sem papel, sem mandato e sem uma parte da decisão não muda nada de estrutural.
+- **"Parceria é uma postura que se pode adotar."** Ela exige condições institucionais — tempo, reconhecimento para o estudante parceiro e uma mudança que os parceiros possam de fato afetar. Parceria declarada sem essas condições reproduz a hierarquia que afirma interromper.
+- **"Compartilhar poder não pode ser desenvolvimento docente."** A afirmação da literatura é que a parceria é desenvolvimento *porque* muda a compreensão do educador por meio da relação. Enquadrá-la apenas como benefício ao estudante descarta o mecanismo.
 
 ## Conceitos conectados
 - [[pedagogy]] — Pedagogias e estratégias de ensino

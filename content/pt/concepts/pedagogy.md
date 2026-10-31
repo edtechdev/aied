@@ -1,7 +1,7 @@
 ---
 title: Pedagogias e Estratégias de Ensino
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **As pedagogias e estratégias de ensino** — os métodos e abordagens que os educadores usam para ensinar e facilitar a aprendizagem, e o conceito-guarda-chuva para a cobertura da base de conhecimento sobre como o ensino acontece (em contraste com as [[learning-theories|teorias da aprendizagem]], que explicam como a aprendizagem acontece). Na [[ai-education|IA na educação]], a pedagogia é central porque a escolha da estratégia de ensino molda como as ferramentas de IA são implantadas: a mesma ferramenta de IA generativa pode ser um [[scaffolding|suporte]] sob uma pedagogia, um interlocutor [[socratic-method|socrático]] sob outra, ou um gerador de respostas sob uma terceira. A base de conhecimento documenta pedagogias individuais e as trata como a lente instrucional por meio da qual o design da IA e seu uso em sala de aula são avaliados.
 
@@ -79,6 +83,8 @@ Estratégias pedagógicas diferentes produzem tipos e tamanhos diferentes de [[l
 
 O achado transversal-chave, consistente com a pesquisa de [[learning-gains|ganhos de aprendizagem]] da base de conhecimento, é que **o efeito de uma estratégia sobre a aprendizagem depende mais de como ela preserva o esforço do aprendiz e a luta produtiva do que do rótulo que carrega** — qualquer pedagogia, mesmo uma "boa", fracassa se a IA está configurada para driblar o trabalho cognitivo que ela deveria elicitar (veja [[cognitive-offloading|descarga cognitiva]], [[desirable-difficulties|dificuldades desejáveis]]).
 
+A interação estudante–[[student-ai-interaction|IA]] é melhor lida como um processo cambiante de distribuição cognitiva do que como dependência fixa: ao longo de 53 conversas com o ChatGPT de um curso transdisciplinar de [[engineering-education|engenharia]], a extensão (copensamento estreito e iterativo) foi o tipo de interação mais frequente, com 53,3% dos 321 códigos em nível de prompt, à frente da terceirização, com 29,6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane e Arikan (2026)]]).
+
 Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-methods-research|métodos mistos]] de quatro estudos (N = 912) descobriu que enquadrar a GenAI como parceira pedagógica ativou tanto vigilância crítica quanto descarga estratégica, com a descarga acima de um limiar liberando capacidade para reflexão de ordem superior em vez de corroê-la ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang e Zhang (2026)]]).
 
 ## Implicações para a IA na educação
@@ -87,6 +93,12 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 - **Mantenha a agência do aprendiz central:** pedagogias ativas, socráticas e de suporte preservam a luta produtiva e a [[agency|agência]] que a IA pode de outra forma corroer (veja [[cognitive-offloading|descarga cognitiva]], [[desirable-difficulties|dificuldades desejáveis]]).
 - **Projete a IA para encenar boa pedagogia:** agentes e tutores de IA deveriam ser fundamentados em frameworks instrucionais estabelecidos, e não na geração de respostas por padrão.
 - **Ensine com e sobre a IA:** as pedagogias deveriam tanto usar a IA para ensinar quanto ensinar os aprendizes a usar a IA de forma responsável.
+
+## Ideias equivocadas comuns
+
+- **"O conhecimento técnico de IA é o que os professores mais precisam."** Ao longo de **46 professores e 2.832 estudantes**, o **conhecimento pedagógico de IA do professor** previu as percepções dos estudantes sobre IA para o bem social. O conhecimento pedagógico superou o técnico, o que inverte onde vai a maior parte do investimento em formação.
+- **"A principal contribuição da IA na educação é instrucional."** Uma **revisão PRISMA de 28 estudos** constatou que a IA aprimorou com mais frequência o **planejamento instrucional e o desenho de avaliação** — a contribuição mais clara é **descarregar trabalho administrativo**, não ensinar. Um caso construído em torno de ganhos instrucionais está se apoiando no ramo mais fraco da evidência.
+- **"A instrução em letramento em IA se transfere automaticamente para um ensino melhor."** Uma meta-análise de três níveis de **59 estudos (172 tamanhos de efeito)** constatou que **intervenções focadas em conhecimento (g ≈ .97)** superaram claramente outras abordagens em mover conhecimento. Mover conhecimento é o desfecho medido; se ele chegou à prática é a próxima pergunta.
 
 ## Conceitos conectados
 
@@ -130,3 +142,4 @@ Essa ênfase no esforço preservado não é absoluta: um design de [[mixed-metho
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
+- [[cognitive-distribution-student-genai-interaction-2026]] — Interação estudante–IA como distribuição cognitiva cambiante, não dependência fixa (53,3% de extensão)

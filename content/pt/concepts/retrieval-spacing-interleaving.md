@@ -1,7 +1,7 @@
 ---
 title: "Recuperação, espaçamento e entrelaçamento"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Recuperação, espaçamento e entrelaçamento** — as três técnicas de estudo concretas que tornam a prática esforçada e, como resultado, tornam durável o que é aprendido. A prática de recuperação pede a quem aprende que produza uma resposta a partir da memória, em vez de reconhecer uma; o espaçamento distribui essa prática ao longo do tempo, em vez de massificá-la em uma única sessão; o entrelaçamento mistura tipos de problema, em vez de bloqueá-los. O que os une é uma assinatura compartilhada: cada um reduz o desempenho *durante* a prática ao mesmo tempo em que eleva a retenção *depois* dela — a lacuna [[transfer-of-learning|desempenho–aprendizagem]] em forma operacional. Eles são os burros de carga da [[cognitive-psychology|psicologia cognitiva]] e, na [[ai-education|aprendizagem apoiada por IA]], são os comportamentos específicos que a [[generative-ai|IA generativa]] apaga com mais facilidade, porque um [[llm|LLM]] que responde sob demanda remove a recuperação, achata a agenda e dissolve a mistura. Esta página é a página das *técnicas*. O princípio por trás delas — a troca esforço–aprendizagem de Bjork, por que a prática mais difícil produz aprendizagem mais durável — é tratado em [[desirable-difficulties|dificuldades desejáveis]]; esta página cobre o que cada técnica é, o que os estudos do corpus mediram, e como a IA as implementa ou as mina.
 
@@ -89,6 +93,16 @@ A inclusão do entrelaçamento aqui repousa, portanto, sobre a mesma família te
 - **Limites de instrumentação e modelagem.** Modelos de [[knowledge-tracing|rastreamento de conhecimento]] no corpus falham exatamente onde as decisões de espaçamento precisam deles, e os autores atribuem sucessos passados ao ajuste retrospectivo do conjunto de dados completo, e não à validação realista de implantação. A qualidade dos flashcards do companheiro bilíngue não é verificada contra verdade de campo, sem camada automatizada de verificação factual, e ele não realizou nenhum estudo de desfechos.
 - **O entrelaçamento não tem essencialmente nenhuma evidência direta aqui.** Como dito acima, o corpus não contém nenhuma comparação bloqueado versus entrelaçado, apenas uma simulação em que o Entrelaçamento é uma estratégia selecionável entre várias.
 - **Populações de sujeitos e conteúdo.** A base de evidência se concentra no [[higher-ed|ensino superior]], em material de STEM e estatística, e em distinções fato-versus-competência de geometria e de regressão múltipla; a generalização para contextos do [[k-12|K-12]], para [[humanities-education|humanas]] e escrita, e para salas de aula não ocidentais não é estabelecida por esses estudos.
+
+## Ideias equivocadas comuns
+
+**"Um questionamento melhor da IA produz melhor retenção."** Produz melhor trabalho. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] constatou que um questionamento mais profundo do LLM melhorou a qualidade da tarefa marcada independentemente (**β = 6,27, p = ,006**) enquanto tinha uma **associação nula com a recordação imediata no pós-teste (β = −0,014, p = ,728)**, com os ganhos de recordação movidos pelo conhecimento de linha de base. A qualidade do artefato e a durabilidade da memória são desfechos diferentes, e um diálogo melhor move o primeiro sem mover o segundo.
+
+**"Existe um melhor formato de prática."** O formato depende do que se está aprendendo. Uma interação conteúdo–tratamento (**β = 0,41, p = ,038, d = 0,38**) mostra que **a prática de teste pura produziu ganhos maiores para fatos**, enquanto **a prática integrada a exemplos produziu ganhos maiores para habilidades**. Prescrever prática de recuperação para tudo, ou exemplos resolvidos para tudo, erra metade do material.
+
+**"Prática de recuperação significa quiz, e qualquer quiz conta."** O mecanismo é produzir uma resposta a partir da memória, e não reconhecê-la, e é por isso que uma tarefa de reconhecimento de múltipla escolha é uma versão mais fraca da mesma atividade. Uma IA que gera itens de reconhecimento sem fim gerou atividade com o nome certo e o mecanismo errado.
+
+**"A IA consegue entregar fielmente essas técnicas, já que elas são bem especificadas."** Ela também consegue derrotá-las silenciosamente. O espaçamento exige que o sistema retenha justamente o material que ele é mais capaz de fornecer sob demanda, e a recuperação exige que ele não responda — de modo que a eficácia da técnica depende de restrições que um assistente complacente não tem incentivo para impor.
 
 ## Conceitos conectados
 

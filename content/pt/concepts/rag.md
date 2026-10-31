@@ -1,7 +1,7 @@
 ---
 title: "RAG (Geração Aumentada por Recuperação)"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-05T11:00:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,9 +17,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **RAG (do inglês *Retrieval-Augmented Generation*, Geração Aumentada por Recuperação)** — uma arquitetura de IA que combina recuperação de informação com geração de texto, permitindo que [[llm|LLMs]] fundamentem suas respostas em fontes externas de conhecimento em vez de depender apenas dos dados de treinamento. Na educação, o RAG enfrenta a alucinação, viabiliza tutoria fundamentada no [[curriculum-design|currículo]] e potencializa [[intelligent-tutoring|tutores de IA]] específicos de domínio.
 
@@ -40,14 +44,26 @@ ai_assist:
 - **O fundamento é tão bom quanto a inspeção das fontes:** apenas 1 de 12 participantes notou um cartão de fonte deliberadamente incompatível, de modo que um rótulo de proveniência pode funcionar como um selo de autoridade em vez de um convite a verificar o material recuperado ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Tutoria fundamentada no currículo:** o [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera materiais relevantes do currículo para informar as respostas de tutoria, garantindo alinhamento com o conteúdo do curso.
 - **Implantação local para controle institucional:** o CourseChat opera um tutor RAG multicurso para graduação em [[business-education|negócios]] em hosts locais de borda, com um banco de dados vetorial local e um modelo 8B servido por Ollama, mantendo os materiais do curso e o diálogo dos estudantes na infraestrutura do campus; a escolha do modelo se tornou uma decisão conjunta de hardware e serviço quando candidatos maiores não passaram por um limiar de latência ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
+
+- **A recuperação fundamentada no currículo não se destacou em tempo.** O Aila recupera dos planos curriculares de qualidade assegurada da Oak National Academy, e os professores em seu ensaio gastaram 0,76 do tempo de preparação de aula do grupo de comparação ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). O relatório lê isso como semelhante ao 0,69 do ensaio geral com ChatGPT, de modo que o fundamento em conteúdo curricular verificado não foi o que os separou.
 - **Indexação de livros didáticos e materiais:** a [[book-level-synthetic-textbook-organization|organização sintética de livros didáticos]] indexa conteúdo educacional para recuperação. O [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] estende a recuperação a diagramas estruturados.
 - **Integração ao pipeline de treinamento:** o [[llm-training-and-fine-tuning|treinamento de LLMs pedagógicos]] usa RAG para fundamentar o treinamento do tutor nas melhores práticas educacionais.
 - **Apoio acadêmico específico de curso:** o [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dos materiais de ensino aprovados de um único módulo de programação para atender estudantes que hesitam em procurar um professor, e 89% dos 15 estudantes avaliadores classificaram suas respostas como fortemente alinhadas aos materiais do curso; o ponto de design é que o fundamento é uma resposta institucional ao descompasso entre [[llm|LLMs]] de propósito geral e as expectativas no nível do módulo.
 - **Estrutura na ingestão versus recuperação na consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compilou o mesmo corpus do curso de aprendizado de máquina DS3001 em sete páginas de conceito wiki inter-referenciadas carregando citações de fontes, e o comparou com uma linha de base RAG vetorial ajustada de recuperação por *embedding* de fragmentos. Ao longo de 59 questões escritas por humanos, a wiki compilada superou o índice ajustado (9,95 contra 9,05 de 10, com um IC de *bootstrap* sobre a diferença excluindo zero) e foi mais frequentemente fundamentada no material que quem respondeu realmente viu (98% contra 81%), com ambas as lacunas aproximadamente triplicando nas questões que exigiam material de mais de uma página (pontuações entre páginas 9,93 contra 8,14, onde a taxa de fundamentação do RAG caiu de 87% para 64%). A lacuna de fundamento não foi uma falha de recuperação: apenas 2 das 11 respostas não fundamentadas do RAG vetorial foram erros de recuperação, enquanto as outras 9 tinham os trechos relevantes em contexto e ainda assim acrescentaram detalhes sem suporte — evidência de que a estrutura na ingestão restringe a elaboração, não apenas o acesso.
 
+
+- **Recuperar a partir de um resumo em vez das palavras do estudante (LC-RAG).** A fala colaborativa frequentemente não tem vínculo semântico com a base de conhecimento: os estudantes dizem "põe aquele bloco de posição ali", de modo que um recuperador apenas de discurso retorna trechos não relacionados, e o exemplo dos autores é uma passagem sobre um desenho animado dos anos 1990 extraída de um livro didático de física e computação. O RAG contextualizado por log tem um LLM resumindo cada segmento de trabalho a partir de seu discurso mais o log do ambiente (qual componente do modelo está sendo editado), e então recupera com base nesse resumo. Ao longo de 216 segmentos de modelagem colaborativa e cinco modelos de embedding julgados pelo GPT-4o, ele superou a linha de base de discurso em quatro modelos, com taxas de vitória de 0,403 a 0,620, e recuperou um conjunto mais estreito de trechos (167 únicos contra 267 de 7.386). Perdeu em um modelo porque os resumos se tornaram mais específicos à tarefa do que o corpus geral de livro didático era: escopo da consulta e escopo do corpus precisam ser combinados deliberadamente ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+
 ### RAG versus ajuste fino
 
 O RAG cumpre um papel complementar ao ajuste fino de [[llm|LLMs]] — a recuperação fornece fundamento atualizado e específico de domínio sem retreinar, enquanto o ajuste fino incorpora comportamentos [[pedagogy|pedagógicos]]. A pesquisa da base de conhecimento explora ambas as abordagens e sua combinação.
+
+## Ideias equivocadas comuns
+
+- **"Mostrar a fonte torna a resposta verificável."** Apenas **1 de 12 participantes notou um cartão de fonte deliberadamente incompatível**. Um rótulo de proveniência pode funcionar como **um selo de autoridade, e não um convite a verificar** — a exibição do fundamento elevou a confiança sem elevar o escrutínio, o que é pior do que nenhum rótulo, porque fabrica confiança.
+- **"A qualidade da recuperação é o problema inteiro."** A recuperação é necessária e não suficiente. A resposta fundamentada pontuou **9,05 de 10, com um IC bootstrap na diferença excluindo zero**, e esteve **mais frequentemente fundamentada no material que quem respondeu de fato viu (98% vs. 81%)** —, de modo que o ganho medido está na fidelidade à evidência, e a evidência precisa estar correta para que essa fidelidade signifique algo.
+- **"A recuperação de página única generaliza."** Ambas as lacunas **praticamente triplicaram em questões que exigem material de mais de uma página** (pontuações entre páginas 9,93 contra uma linha de base menor). O raciocínio multi-documento é onde os sistemas fundamentados se degradam, e é exatamente onde os cursos fazem as perguntas mais difíceis.
+- **"A recuperação elimina a necessidade de escrutínio."** O [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dos materiais aprovados de um único módulo para servir estudantes que hesitam em perguntar a uma pessoa — um escopo defensável. Corpora estreitos e aprovados são o que torna o fundamento significativo; o rótulo sozinho não.
 
 ## Conceitos conectados
 
@@ -64,6 +80,7 @@ O RAG cumpre um papel complementar ao ajuste fino de [[llm|LLMs]] — a recupera
 - [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentes)
 
 ## Artigos conectados
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Um assistente de aula fundamentado no currículo cuja economia de tempo não superou a de um chatbot de propósito geral
 
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]

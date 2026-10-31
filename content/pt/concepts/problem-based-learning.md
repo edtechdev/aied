@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem baseada em problemas
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,7 +10,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Aprendizagem baseada em problemas (ABP)** — uma pedagogia centrada em quem aprende, na qual os estudantes adquirem conhecimento e habilidades trabalhando para compreender e resolver um problema realista, frequentemente mal estruturado, com um facilitador guiando a investigação em vez de entregar instrução. Na era da IA, as características estruturais da ABP — investigação conduzida pelo problema, [[collaborative-learning|construção colaborativa de conhecimento]], facilitação acima de instrução e [[metacognition|reflexão metacognitiva]] — emergiram como as mesmas condições sob as quais a integração de [[generative-ai|IA generativa]] se torna educacionalmente produtiva, e não substitutiva.
 
@@ -36,6 +40,8 @@ ai_assist:
 ## Introdução
 
 A ABP se originou na educação médica (Universidade McMaster, anos 1960) e desde então se espalhou pelas [[medical-education|profissões de saúde]], pela engenharia e pelo [[k-12]]. Quem aprende assume a responsabilidade de diagnosticar necessidades de aprendizagem, identificar recursos e construir soluções, enquanto o facilitador dá andaimento ao processo. A afirmação distintiva da ABP é que o *problema* é o condutor do currículo — não uma ilustração de conteúdo ensinado em outro lugar, mas o contexto no qual o conteúdo é aprendido.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi e van der Merwe (2026)]] oferecem uma comparação direta: dez conversas baseadas em problemas sustentaram o diálogo e chegaram a uma explicação mais profunda, enquanto trinta conversas procedurais estruturadas colapsaram em perguntar-responder-agradecer e terminaram.
 
 ## A ABP na era da IA
 
@@ -53,6 +59,7 @@ A meta-análise de três níveis que agrupa ABP apoiada por IA generativa com a 
 - **Implementações por domínio.** Frameworks de ABP para [[engineering-education|engenharia biomédica]] usam IA generativa para apoio a resumo e codificação com pacotes de replicação ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); a ABP apoiada por IA aprimora o [[computational-thinking|pensamento computacional]] na [[educational-robotics|robótica]] ([[ai-pbl-computational-thinking-2026|ABP apoiada por IA para pensamento computacional]]); e pacientes virtuais habilitados por IA generativa apoiam tutoriais de coleta de história médica ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **Síntese de evidência.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|revisam sistematicamente]] 50 estudos (2015–2024) sobre o engajamento de educadores com IA na ABP dentro de um framework de [[human-ai-collaboration|interação humano-computador]].
 - **IA generativa na ABP baseada em cenários.** [[genai-scenario-based-healthcare-education-2026|Neto e colegas (2026)]] incluem a aprendizagem baseada em problemas entre as abordagens baseadas em cenários de sua revisão sistemática de IA generativa na educação em saúde, constatando que o [[prompt-engineering|desenho de prompts]] funciona como especificação instrucional e que a colaboração híbrida humano-IA supera as abordagens inteiramente automatizadas. A revisão destaca a necessidade de alinhamento mais forte do conteúdo gerado aos frameworks instrucionais e de práticas de prompting mais reproduzíveis em contextos de ABP.
+- **A IA pode carregar a entrega de conhecimento do tutor, mas não a regulação social da aprendizagem em grupo.** Em um quase-experimento de quatro semanas em farmacologia, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty e Rao (2026)]] constataram que a ABP mediada por IA igualou os ganhos acadêmicos da conduzida por facilitador (p entre grupos = 0,474), enquanto os grupos conduzidos por facilitador mantiveram vantagens na dinâmica de grupo (26,51 vs 24,74, p = 0,035) e no pensamento crítico (14,75 vs 13,09, p < 0,001).
 
 ## ABP versus pedagogias afins
 
@@ -65,6 +72,12 @@ Como a ABP coloca em primeiro plano o processo, a colaboração e a compreensão
 ### Falha produtiva e ABP
 
 A [[productive-failure|falha produtiva (FP)]] compartilha o núcleo [[constructivist|construtivista]] da ABP — os [[learners|estudantes]] engajam problemas antes da instrução —, mas difere na estrutura: a FP retém deliberadamente a instrução e o andaimento até *depois* de quem aprende lutar para gerar soluções, enquanto a ABP embute a facilitação ao longo de todo o processo. A literatura da era da IA sobre FP informa diretamente como a IA deveria se comportar dentro de contextos baseados em problemas: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] mostram que a IA deveria preservar a [[desirable-difficulties|dificuldade produtiva]] com apoio não diretivo ao longo das fases de FP; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstram que [[llm|tutores]] de [[intelligent-tutoring|LLM]] podem ser dirigidos a reter respostas e eliciar múltiplas tentativas de solução; e o [[rhaimi-productivemath-2025|ProductiveMath]] usa IA para ajudar a desenhar problemas de alta qualidade no estilo FP/ABP. A questão de desenho — quando a IA deveria dar um problema, uma dica ou uma resposta — é compartilhada por ambas as [[pedagogy|pedagogias]].
+
+## Ideias equivocadas comuns
+
+- **"Os desfechos da ABP deveriam ser agrupados com os da aprendizagem baseada em projetos."** A metanálise de três níveis mantém o **desempenho de produto e solução em um modelo separado** justamente porque ele mede **colaboração humano–IA**, e não o raciocínio do próprio aprendiz. Fundi-los atribuiria ao estudante um artefato produzido conjuntamente.
+- **"Os ganhos colaborativos são um efeito colateral do uso de IA."** Um estudo constatou maior resolução colaborativa de problemas percebida (**M = 3,62 vs. 3,05, d = 0,88**) e resolução compartilhada de problemas (**3,40, d = 1,02**), com **os maiores efeitos de interação na construção compartilhada de conhecimento e na regulação social** — as dimensões do processo colaborativo que o desenho prevê. O mecanismo é a colaboração estruturada, não a ferramenta.
+- **"A ABP com IA principalmente economiza tempo do facilitador."** Os ganhos mensuráveis estão na qualidade do processo, em dimensões que só existem quando a estrutura de grupo é desenhada para elas. Uma implementação de ABP que acrescenta IA sem estruturar a construção compartilhada de conhecimento não deveria esperar o mesmo efeito.
 
 ## Conceitos conectados
 
@@ -102,5 +115,4 @@ A [[productive-failure|falha produtiva (FP)]] compartilha o núcleo [[constructi
 - [[genai-scenario-based-healthcare-education-2026]] — Revisão sistemática de IA generativa na educação em saúde baseada em cenários (Neto et al. 2026)
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Módulo de CTD-ABP apoiado por IA com 130 professores de física em formação: TPACK e resolução colaborativa de problemas (Chen & Osman 2026)
 
-- **AI can carry the tutor's knowledge delivery but not the social regulation of group learning.** In a four-week pharmacology quasi-experiment, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] found AI-mediated PBL matched facilitator-led academic gains (between-group p = 0.474), while facilitator-led groups retained advantages in group dynamics (26.51 vs 24.74, p = 0.035) and critical thinking (14.75 vs 13.09, p < 0.001).
-- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitator-Mediated Versus AI-Mediated Problem-Based Learning in Pharmacology Education: A Quasi-Experimental Study Among Second Year Medical Students
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — ABP mediada por IA versus conduzida por facilitador em farmacologia: ganhos acadêmicos equivalentes, vantagens do facilitador na dinâmica de grupo e no pensamento crítico (Shetty & Rao 2026)

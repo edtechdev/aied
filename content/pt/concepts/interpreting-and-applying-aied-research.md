@@ -1,7 +1,7 @@
 ---
 title: "Interpretar e aplicar a pesquisa em AIEd"
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-05T11:23:36-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Interpretar e aplicar a pesquisa em AIEd** — como decidir se um achado de IA em educação vale a pena ser acionado, quer você ensine, dirija um programa, desenhe uma disciplina ou construa software. Você não precisa de estatística para usar esta página. Ela começa com a pergunta que um profissional realmente tem — *devo fazer isso?* — trabalha pelas poucas coisas que a respondem, e mantém o detalhe técnico numa seção posterior, para quem quiser ou precisar dele. A versão curta: um achado vale a pena ser acionado quando você sabe o que foi comparado, o que foi medido, quem foi estudado e se a ferramenta ainda existe na forma que foi estudada. A maioria das afirmações que chegam a instrutores, administradores e desenvolvedores falha em um desses quatro.
 
@@ -68,6 +72,7 @@ Se você se lembrar de uma coisa desta página, lembre-se de que o número de de
 - **Um nome de produto não é um método de ensino.** Ao auditar as comparações por trás de uma metanálise proeminente, [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] concluíram que apenas **21%** tinham tratamento bem definido, grupo de controle e medida válida de aprendizagem — e a vantagem relatada para "usar ChatGPT" saiu maior que para [[intelligent-tutoring|sistemas de tutoria inteligente]] de propósito específico (g = 0,7 contra 0,66), o que é um sinal de alerta, e não um triunfo.
 - **Desempenho com a ferramenta é rotineiramente confundido com aprendizagem.** Em um estudo de matemática no [[k-12|K-12]], estudantes que praticavam com um [[conversational-ai|chatbot]] de uso geral tiravam notas melhores em prática e depois pontuavam **cerca de 17% pior** que pares sem acesso a IA na prova final de livro fechado ([[stanford-evidence-base-ai-k12-2026|A base de evidência da Stanford para IA no K-12]]).
 - **As próprias revisões do campo não sobrevivem à auditoria.** A auditoria de [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] de **14 metanálises revisadas por pares** que afirmam que a IA melhora a educação concluiu que **nenhuma** forneceu base válida para as afirmações que avançava, e que, entre 46 estudos primários selecionados aleatoriamente, **61%** apresentavam preocupações de validade. O problema não é um artigo ruim; é uma cultura de relato.
+- **Uma revisão pode quantificar o desvio de relato no próprio corpus.** Uma revisão sistemática de 155 estudos do ensino superior constatou que 117 (75,5%) relatavam implementação bem-sucedida, 124 (80,0%) cobriam apenas impacto de curto prazo, e somente 23 (14,8%) relatavam falhas de [[ethics|ética]], equidade ou governança — o desequilíbrio que as verificações acima descrevem, medido sobre a própria base de evidência da revisão ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Autorrelatos lisonjeiam todos.** As pessoas avaliam suas próprias [[ai-literacy|competências em IA]] cerca de **40%** mais alto que as medidas de desempenho mostram, e é por isso que levantamentos de satisfação e confiança são a evidência mais fraca sobre a qual se pode agir ([[self-report-measures|Medidas de autorrelato]], [[educational-measurement|Medição educacional]]).
 - **A maioria dos produtos já em salas de aula não tem nenhuma evidência independente.** O [[instruction-partners-ai-in-action-learning-tour-2026|tour de aprendizagem 2025–26 da Instruction Partners]] perfilou 20 produtos de IA voltados a estudantes e concluiu que, dos 16 com perfis completos, apenas sete tinham uma revisão independente examinando desempenho de estudantes entre grupos de estudantes nos EUA; dois eram estudados apenas no exterior, quatro tinham estudos em andamento e três dependiam apenas de dados internos. Os autores argumentam que estudos causais independentes cobrindo grupos prioritários deveriam ser a expectativa para todos os produtos voltados a estudantes — ainda não a norma para ferramentas que as escolas já usam.
 
@@ -146,6 +151,16 @@ As verificações acima não são sabedoria popular; elas vêm de falhas documen
 8. Pilote pequeno com uma medida sem assistência, e depois decida.
 9. Agende uma data de revisão daqui a um ano, e esteja pronto para aposentar a afirmação.
 
+## Ideias equivocadas comuns
+
+**"Uma metanálise publicada é evidência consolidada sobre IA na educação."** As sínteses do campo não sobreviveram à auditoria. A auditoria de [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] de **14 metanálises revisadas por pares** que afirmam que a IA melhora a educação concluiu que **nenhuma** forneceu base válida para essa conclusão. Um tamanho de efeito agrupado vale o que valem os estudos agrupados, e nesta literatura o agrupamento incluiu rotineiramente desenhos que não podiam atribuir o desfecho à IA. Antes de citar um número metanalítico, pergunte o que ele agregou.
+
+**"O tamanho de efeito maior pertence à melhor intervenção."** Muitas vezes o contrário. No contexto de revisão que esta página documenta, apenas **21%** dos estudos tinham tratamento bem definido, grupo de controle e medida válida de aprendizagem — e a vantagem relatada para "usar ChatGPT" saiu *maior* que para [[intelligent-tutoring|sistemas de tutoria inteligente]] de propósito específico. Tratamentos fracamente especificados tendem a produzir efeitos inflados, porque a comparação é mais vaga e a medida do desfecho mais frouxa. Um número maior é razão para olhar o desenho, não para preferir a intervenção.
+
+**"Notas mais altas ao usar a ferramenta indicam que a ferramenta ensinou mais."** Em um estudo de matemática no [[k-12|K-12]], estudantes que praticavam com um [[conversational-ai|chatbot]] de uso geral tiravam notas de prática melhores e depois pontuavam **cerca de 17% pior** na avaliação sem assistência. O desempenho de prática medido com a ferramenta presente é a medida inflada; o sem assistência é o desfecho, e apenas um deles estava subindo.
+
+**"Se o efeito é real, os detalhes de implementação não importam muito."** Eles são o efeito. Um estudo que acompanhou 30 estudantes em um curso de uma instituição, numa versão da ferramenta que ninguém usa hoje, produziu um achado sobre uma configuração que já não existe. Especificação do tratamento, versão e contexto fazem parte da afirmação, e não são o pano de fundo em torno dela.
+
 ## Conceitos conectados
 
 - [[limitations-in-aied-research]]
@@ -182,3 +197,4 @@ As verificações acima não são sabedoria popular; elas vêm de falhas documen
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Métricas de fornecedor com sua calibração e contagem de experimentos divulgadas
 - [[ai-assisted-assessment-instruction-higher-ed-2026]] — Achados atrelados a versões de modelo, e a agitação do campo
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — Contagens de evidência independente para 16 produtos de IA voltados a estudantes já em uso
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Uma revisão pode quantificar o desvio de relato no próprio corpus

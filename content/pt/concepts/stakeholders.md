@@ -1,20 +1,24 @@
 ---
 title: Partes interessadas
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,16 @@ A identidade é a âncora humana do cenário das partes interessadas: é o que a
 - **Construa competências específicas por papel:** professores, estudantes, desenhistas e líderes precisam, cada um, de letramento em IA e de apoio sob medida (veja [[ai-literacy|letramento em IA]], [[teacher-ai-competency|competência docente em IA]], [[educational-development|desenvolvimento educacional]]).
 - **Alinhe entre níveis:** a pesquisa em governança da base de conhecimento mostra que a IA tem sucesso quando liderança institucional, prática docente e experiência dos estudantes estão alinhadas, e não fragmentadas.
 - **Considere os pais e a comunidade mais ampla:** as famílias são partes interessadas na adoção da IA, cujo papel e preocupações merecem atenção explícita.
+
+## Ideias equivocadas comuns
+
+**"As partes interessadas na IA na educação compartilham interesse no mesmo resultado."** Seus interesses estão frequentemente em tensão direta, e o mesmo recurso é lido de forma diferente por papel: o "apoio personalizado" de um estudante pode ser simultaneamente o "risco de integridade" de um professor. Processos de desenho que presumem um objetivo comum resolverão essa tensão por acidente, em favor de quem fala mais alto.
+
+**"Dar voz a cada grupo de partes interessadas resolve o conflito."** Consulta não é ponderação. O próprio enquadramento da página coloca a questão de desenho em como dar a cada preocupação **peso genuíno em vez de deixar a voz mais alta vencer**, o que é um problema de procedimento — quem decide, com que evidência e com que possibilidade de recurso —, e não um problema de comunicação.
+
+**"A análise de partes interessadas é um exercício de fase inicial."** As tensões persistem na operação, porque os papéis continuam a interpretar o mesmo sistema de formas diferentes. Uma camada de personalização voltada ao estudante e um painel de integridade voltado ao corpo docente são os mesmos dados vistos de duas posições, e o conflito reaparece sempre que um deles é ajustado.
+
+**"Uma identidade entre públicos significa que uma única mensagem pode servir a todos."** Comunicar entre públicos exige traduzir a mesma decisão para termos diferentes sem deturpá-la, o que é mais do que reescrever uma mensagem de quatro maneiras.
 
 ## Conceitos conectados
 

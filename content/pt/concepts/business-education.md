@@ -1,7 +1,7 @@
 ---
 title: "Educação em negócios"
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-07T09:45:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -46,9 +50,11 @@ A IA na educação em negócios é uma vertente crescente [[discipline-specific-
 - **Adoção organizacional.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] examinou os direcionadores organizacionais e tecnológicos da adoção de IA no [[higher-ed|ensino superior]] (usando os frameworks TOE + Difusão de Inovações, n=300 servidores), o que é relevante para como as escolas de negócios e suas instituições adotam apoio à decisão impulsionado por IA e plataformas inteligentes de aprendizagem.
 - **Agentes conversacionais em jogos de [[simulation|simulação]] de negócios.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] desenvolvem e avaliam um [[conversational-ai|agente conversacional]] aprimorado por IA (Lara) para apoio instrucional adaptativo em jogos de simulação de negócios usados na aprendizagem empreendedora experiencial. Ancorado em uma postura de [[equity-in-ai-education|equidade]] por desenho e de [[universal-design-for-learning|desenho universal para a aprendizagem]], o framework CAIS-GBL mira o [[student-engagement|engajamento]] cognitivo, [[motivation|motivacional]], [[affective-computing|afetivo]] e [[sociocultural-learning|sociocultural]] dos estudantes, com avaliações entre estudantes-professores e participantes de jogos de simulação de negócios mostrando percepções positivas de presença cognitiva/[[community-of-inquiry|social]] e de apoio à [[self-regulated-learning|aprendizagem autorregulada]] — um modelo para escalar feedback [[formative-assessment|formativo]] na educação em negócios [[game-based-learning|baseada em simulação]].
 - **IA generativa agêntica para tarefas aplicadas complexas.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] desenvolvem o framework AGAI-HE em torno de uma disciplina de **comércio eletrônico**, cuja tarefa de aprendizagem exige comparar modelos de negócio, ponderar restrições de mercado e operacionais e defender recomendações estratégicas — trabalho aplicado em múltiplas etapas que chatbots de pergunta-e-resposta apoiam mal. Seu estudo de percepção com 130 estudantes concluiu que tanto o apoio do chatbot quanto o do agente foram avaliados acima do [[online-teaching-and-learning|e-learning]] tradicional em melhoria da aprendizagem, personalização, apoio à tomada de decisão e organização do fluxo de trabalho, mas sem diferença significativa entre agente e chatbot, e o endosso mais forte foi para combinar os três modos. Para programas de negócios, a leitura é que a adoção é uma questão de [[curriculum-design|desenho instrucional]] sobre como o apoio da IA é sequenciado e governado, não simplesmente uma atualização de ferramentas ([[agentic-ai]]).
+- **Um chatbot de [[rag|RAG]] construído para o curso moveu expectativas, não resultados.** Em um [[rct|ensaio randomizado]] de um semestre com 454 graduandos em um curso de Princípios de Marketing, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni e Fryer (2026)]] não encontraram efeito grupo-por-tempo significativo sobre interesse, [[self-efficacy|autoeficácia]], engajamento ou desempenho na prova, embora os estudantes tenham acessado 0,89 vezes por semana e avaliado o divertimento em 80,4.
 - **A inovação em avaliação e notas é pouco pesquisada.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] levantaram 58 artigos relacionados à avaliação ao longo de 20 anos em quatro periódicos líderes de educação em administração (AMLE, JME, Management Learning, IJME) — cerca de três por ano, muitos em edições especiais de 2010 e 2014 — concluindo que avaliação e notas são pouco pesquisadas em relação ao seu papel central em moldar a aprendizagem. A autoavaliação e a avaliação por pares dominam o discurso (quase metade do corpus, sobretudo para avaliação [[summative-assessment|somativa]] de [[group-work|trabalho em grupo]]); a [[authentic-assessment|avaliação autêntica]] aparece principalmente via [[simulation|simulações]] mediadas por tecnologia e é frequentemente confundida com [[experiential-learning|aprendizagem experiencial]]; enquanto reavaliação, notas baseadas em padrões e "ungrading" são praticamente ausentes. Os autores instam os educadores em administração a se engajar de forma mais ativa e recíproca com essas inovações, recomendando experimentação incremental (tarefas sem nota, reavaliação de uma única tarefa, rubricas baseadas em padrões) apoiada por coordenação no nível do programa e evidência documentada de Scholarship of Teaching and Learning.
 
 - **A correção automatizada de trabalhos de negócios precisa de validação específica do corpus.** Em 60 publicações de marketing de estudantes de uma simulação BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] concluiu que um [[llm|LLM]] alcançou apenas ICC(2,1) = .435 com a média humana — regras determinísticas .091, um híbrido de pesos iguais .266 — enquanto acrescentar âncoras redigidas pelo pesquisador elevou o LLM a .846 sem alterar nenhuma nota de estudante.
+- **Uma alternativa na educação em negócios avalia o processo, não o tema.** Em um aprendizagem de grau em Analista de Negócios de primeiro ano, a avaliação exigia iteração documentada e [[collaborative-learning|colaboração]] entre pares, e os estudantes que usaram GenAI contestaram seus contra-argumentos em vez de submetê-los ([[alam-process-oriented-collaborative-essays-2026|Alam e Jackson, 2026]]).
 - **Ensinar IA como elemento de desenho de processos de primeira classe.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] coloca um ponto de controle de decisão sobre IA em cada fase do ciclo de vida de BPM ao longo de seis módulos de uma disciplina com 152 estudantes, de modo que os estudantes constroem um agente de triagem funcional com LLM e depois descobrem, em um ponto de controle, que o gargalo real é uma fila de duas pessoas na investigação de fraude.
 
 ## Economia e educação em administração
@@ -65,6 +71,12 @@ Negócios é um dos campos em que a adoção da IA generativa é mais rápida, p
 - **Alinhe o currículo de forma construtiva.** A [[zhou-constructive-alignment-genai-business-2026|pesquisa sobre alinhamento construtivo]] conclui que o grau de integração curricular determina se os benefícios ou os riscos da IA generativa predominam — integrar, e não acrescentar.
 - **Enfrente as lacunas persistentes.** [[espino-ai-business-education-review-2026|Uma década de pesquisa]] aponta lacunas em coerência curricular, preparo docente e validade da avaliação — priorize-as no desenho do programa.
 - **Prepare os estudantes para um mercado de trabalho integrado à IA.** Dê ênfase ao letramento em IA, ao uso ético e à aplicação no domínio (finanças, marketing, administração, economia) como competências centrais, não como eletivas.
+
+## Ideias equivocadas comuns
+
+- **"Os estudantes querem IA porque querem atalhos."** Um framework informado pelos estudantes constatou que os estudantes estavam **altamente engajados e conscientes de que precisam de competências em GenAI para as carreiras**, ao mesmo tempo que queriam **usar a IA sem cometer inadvertidamente má conduta acadêmica**. A demanda é por competência com limites claros, não por permissão para evitar trabalho.
+- **"Acrescentar módulos de IA a um currículo de negócios captura o benefício."** A pesquisa sobre alinhamento construtivo constatou que **se benefícios ou riscos dominavam era moldado pelo grau de integração curricular** — a distinção operativa é **integrar, não anexar**. Um módulo pregado por fora deixa o desenho da avaliação inalterado.
+- **"A sofisticação da ferramenta supera o e-learning convencional."** Um estudo de percepção com **130 estudantes** constatou que **tanto o apoio do chatbot quanto o do agente foram avaliados acima do e-learning tradicional** em melhoria, personalização e tomada de decisão. Vale notar o que isso mede: a *percepção* dos estudantes contra uma linha de base convencional, não a aprendizagem contra ela.
 
 ## Conceitos conectados
 
@@ -94,3 +106,5 @@ Negócios é um dos campos em que a adoção da IA generativa é mais rápida, p
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Concordância e erro na correção automatizada de publicações de marketing de estudantes
 - [[shi-genai-experiential-learning-management-education-2026]] — três mecanismos de IA generativa para reconfigurar a pedagogia da educação em administração
+- [[alam-process-oriented-collaborative-essays-2026]] — Ensaios colaborativos orientados ao processo em um aprendizagem de Analista de Negócios: avaliar a iteração documentada, não o tema
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Um chatbot de RAG construído para o curso moveu expectativas, não resultados

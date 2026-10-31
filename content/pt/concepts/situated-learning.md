@@ -1,19 +1,23 @@
 ---
 title: "Aprendizagem situada"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,6 +38,7 @@ ai_assist:
 A aprendizagem situada é uma das teorias de atividade-e-contexto dentro da vertente de [[learning-theories|teorias da aprendizagem]] desta base de conhecimento. Ela retoma temas vygotskianos de construção social, mas acrescenta uma forte ênfase na íntima integração entre "fazer" e "aprender" e na importância das comunidades de prática. Como postura educacional, ela confronta a escolarização tradicional e padronizada ao colocar em primeiro plano o contexto [[sociocultural-learning|sociocultural]] de quem aprende como elemento-chave para adquirir competências e se apropriar do conhecimento relevante para sua realidade.
 
 Na literatura sobre [[ai-education|IA em educação]], a aprendizagem situada importa porque fornece uma lente de desenho para a IA: [[adaptive-learning|sistemas adaptativos]], [[intelligent-tutoring|tutoria inteligente]] em cenários autênticos e [[simulation|simulações]] [[virtual-and-augmented-reality|imersivas]] podem ancorar a educação impulsionada por IA em contextos do mundo real, enquanto a aprendizagem situada oferece por sua vez à IA uma âncora significativa na prática e na complexidade autênticas. As duas são amplamente tratadas como complementares, com a orientação humana permanecendo essencial para o fundamento [[ethics|ético]].
+- **Contextualizar o próprio material é um gesto de aprendizagem situada.** O DagFlow-AI gera um conjunto de dados de estatística construído em torno de um interesse declarado pelo próprio estudante — um estudo de caso usou a preocupação de um estudante com mudanças climáticas e saúde —, mantendo fixos os objetivos de aprendizagem e o nível de habilidade ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Adequar os *dados* a quem aprende, em vez de adequar a explicação, trata o contexto da prática como aquilo que precisa ser situado. Os autores admitem o limite: dados sintéticos não podem ensinar coleta de dados, mensuração ou desenho de estudo, de modo que o contexto é real para quem aprende, mas não para o mundo.
 
 ### A aprendizagem situada como lente de desenho para a IA
 
@@ -47,6 +52,15 @@ A pesquisa desta base de conhecimento trata a aprendizagem situada não merament
 - **Ética de IA situada.** O raciocínio ético sobre IA é ele próprio melhor tratado como *situado* — ancorado em contexto cultural-histórico e ecológico, em vez de em princípios abstratos.([[raffaghelli-situated-ai-ethics-2026]])
 
 A aprendizagem situada se conecta de perto à [[embodied-learning|aprendizagem incorporada]] (ambas estressam a ancoragem da cognição no contexto e na ação), à [[distributed-cognition|cognição distribuída]] (aprendizagem distribuída por pessoas, ferramentas e contextos), à [[experiential-learning|aprendizagem experiencial]] e à teoria [[constructivist|construtivista]]. Na educação com IA, ela fundamenta a crítica da aprendizagem descontextualizada e desincorporada: o desenho de IA que mantém quem aprende ancorado na prática autêntica preserva a situacionalidade que a aprendizagem durável exige.
+
+- **Cenários e ativos reutilizáveis como infraestrutura.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] operacionaliza a aprendizagem situada como um cenário — objetivo, agentes especializados por papel, conhecimento consultável e uma bancada de trabalho com estado — mais uma memória de ativos que preserva registros de processo e rastros de experiência com sua proveniência, para que cenários posteriores recuperem a prática anterior. Dois ensaios randomizados pré-registrados de três braços encontraram uma vantagem de 7,0 pontos no ganho de aprendizagem sobre um assistente básico em raciocínio jurídico (d = 0,56) e uma parcela maior alcançando maestria criterial em programação competitiva (68% contra 45%), enquanto pedir ao mesmo modelo que atuasse como professor não produziu benefício detectável. É um teste raro da afirmação de que a situação e a bancada de trabalho carregam mais da aprendizagem do que a explicação conversacional.
+
+## Ideias equivocadas comuns
+
+- **"Aprendizagem situada significa acrescentar um cenário realista a uma lição abstrata."** A afirmação da teoria é mais forte do que vestir o conteúdo de contexto: a aprendizagem é constituída pela participação em uma comunidade de prática, e o que se aprende é o que essa participação propicia. Um exemplo resolvido com uma moldura de local de trabalho ainda ensina o exemplo, e não a prática.
+- **"A autenticidade é uma propriedade da tarefa."** A autenticidade é uma relação entre a atividade e o trabalho legítimo de uma comunidade real. Uma tarefa pode ser elaborada e ainda assim ter forma escolar — avaliada por um professor, para uma nota, sem consequência no mundo que ela afirma representar.
+- **"Avaliação que emerge da tarefa significa ausência de avaliação."** Significa que o critério é o da comunidade, e não o da sala de aula: se o trabalho é aceitável para as pessoas que fazem o trabalho. Esse é um padrão diferente e geralmente mais rigoroso do que uma rubrica.
+- **"Aprendizagem requer um cenário físico."** O mecanismo é a participação periférica legítima — mover-se da borda de uma prática rumo ao seu centro com responsabilidade real. Ambientes on-line e simulados podem sustentá-la ou podem simular a periferia sem nunca conceder participação, e a diferença está em se a contribuição de quem aprende é de fato usada.
 
 ## Conceitos conectados
 - [[learner-identity]] — identidades de quem aprende disciplinares, profissionais, criativas e acadêmicas em evolução
@@ -64,6 +78,8 @@ A aprendizagem situada se conecta de perto à [[embodied-learning|aprendizagem i
 - [[virtual-and-augmented-reality]] — ambientes imersivos como rota para o contexto autêntico
 
 ## Artigos conectados
+
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Cenários mais ativos reutilizáveis com proveniência superam um assistente simples em dois ensaios
 
 - [[vargas-situated-learning-ai-review-2024]] — Revisão sistemática PRISMA de aprendizagem situada e IA na educação (referência primária desta página)
 - [[genai-educational-outcomes-meta-analysis]]

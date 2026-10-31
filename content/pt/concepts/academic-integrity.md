@@ -1,7 +1,7 @@
 ---
 title: Integridade acadêmica
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T14:22:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Integridade acadêmica** — a estrutura ética que governa o trabalho acadêmico honesto na era da IA. A base de conhecimento documenta como o conceito foi ressignificado pela [[generative-ai|IA generativa]]: de um problema de [[ai-detection|detectar saídas desonestas]] para um problema de projeto de tornar o trabalho honesto visível, verificável e digno de ser produzido. A [[research-methods-aied|pesquisa]] em integridade acadêmica nesse espaço evoluiu de abordagens centradas na detecção para uma reformulação fundamental da avaliação, governança conduzida pela pedagogia e [[ai-literacy|ensinar os estudantes a usar bem a IA]] em vez de apenas policiar se eles a usam.
 
@@ -146,11 +150,11 @@ Uma onda de pesquisas recentes afia o quadro da integridade acadêmica na era da
 - **A orientação sobre integridade precisa se estender ao processo de pesquisa, não apenas ao [[teacher-role|ensino]].** [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]] concluem que pesquisadores de pós-graduação colocam em prática [[ai-literacy]] ao longo das tarefas de pesquisa e argumentam que as políticas de uso responsável, atualmente centradas no ensino e na avaliação, precisam [[scaffolding|andar]] as dimensões éticas do uso de GenAI na pesquisa — onde as preocupações giram em torno de originalidade, autoria, [[privacy|privacidade de dados]] e degradação de habilidades, e não apenas de plágio.
 - **O propósito precisa preceder a política.** [[taylor-lacroix-purpose-before-policy-academic-integrity-2026|Taylor & LaCroix (2026)]] argumentam que se o uso da GenAI constitui má conduta depende do *propósito* da universidade. O aumento dos casos de má conduta reflete incoerência estrutural na universidade neoliberal, onde entusiasmo tecnológico, influência corporativa e fiscalização de políticas entram em conflito — deixando os estudantes responsáveis por comportamentos implicitamente moldados pela instituição. As universidades não podem fazer cumprir a integridade de forma crível sem coerência entre missão declarada, pedagogia e prática tecnológica.
 - **Determinantes psicológicos e comportamentais.** A [[psychological-mechanisms-academic-integrity-ai-2026|pesquisa na Frontiers]] mapeia os mecanismos psicológicos e determinantes comportamentais da integridade acadêmica sob a IA — como atitudes, autoeficácia, normas e consequências percebidas moldam o uso honesto — conectando a integridade à [[motivation]], à [[self-efficacy]] e à [[ai-literacy]] como construtos comportamentais, e não como mero cumprimento de regras. [[predictors-ethical-genai-use-higher-ed-2026|Tabares-Cruz et al. (2026)]] os quantificam em um SEM com 980 estudantes universitários equatorianos, ordenando as disposições de integridade acadêmica e transparência em primeiro lugar, seguidas de letramento em IA, [[critical-thinking|verificação crítica]], orientação institucional, autorregulação e proteção de dados — com as disposições de integridade e a [[ai-literacy]] juntas explicando uma parcela substancial do uso ético da GenAI e superando as regras institucionais isoladamente.
-- **O marketing de IA normaliza o uso e enquadra "trapacear versus competir".** [[sobo-cheating-competing-ai-marketing-literacy-2025|Sobo et al. (2025)]] mostram que a IA é vendida aos estudantes como necessidade prática ("Faça sua escrita soar mais natural para evitar ser sinalizado por engano"), e que os estudantes se sentem compelidos a adotá-la para se manter competitivos, mesmo enquanto se preocupam com dependência e perda de aprendizagem — um imperativo empreendedor internalizado. Isso aponta para a necessidade de [[reducing-ai-misuse|letramento sobre marketing]] como parte da educação em integridade com IA.
 - **Os humanizadores de IA expõem o ciclo performativo da detecção.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalogam 55 sites de humanização de IA que alteram texto gerado por IA para escapar da detecção, enquadrados pela dramaturgia de Goffman. Os humanizadores tornam a má conduta discursivamente ausente e performam legitimidade, demonstrando que a corrida armamentista detecção-contra-contorno é estruturalmente interminável — reforçando a mudança da [[ai-detection|vigilância]] para o desenho da avaliação e a [[ai-literacy]].
 - **A fiscalização, e não a detecção, é onde vive a conversa.** Ao longo de 270.929 registros relacionados à IA de 26 subreddits de educação cobrindo três anos e meio, o agrupamento de integridade acadêmica detinha 37,1% da discussão, e Fiscalização da Má Conduta era o maior tema isolado, com 12,1%, enquanto 32,3% das threads entre professores e estudantes ficavam dentro de disputas de detecção e fiscalização ([[reddit-genai-education-discourse-analysis-2026|Yüce et al. (2026)]]).
 - **Estudantes fantasmas e a lacuna de verificação da IA agêntica.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton e Fell Kurban (2026)]] introduzem o **"estudante fantasma"**: um substituto digital criado ao acoplar LLMs (a "mente") a navegadores de IA agêntica (o "corpo") que pode navegar o LMS, engajar conteúdo e completar avaliações com mimetismo de aparência humana, tornando opcional a presença do estudante real. Isso cria uma **lacuna de verificação** que a supervisão presencial tradicional e a detecção são estruturalmente incapazes de fechar — uma ameaça à integridade que cresce à medida que a IA se torna [[agentic-ai|agêntica]] em vez de meramente generativa.
 
+- **O marketing de IA normaliza o uso e enquadra "trapacear versus competir".** [[sobo-cheating-competing-ai-marketing-literacy-2025|Sobo et al. (2025)]] mostram que a IA é vendida aos estudantes como necessidade prática ("Faça sua escrita soar mais natural para evitar ser sinalizado por engano"), e que os estudantes se sentem compelidos a adotá-la para se manter competitivos, mesmo enquanto se preocupam com dependência e perda de aprendizagem — um imperativo empreendedor internalizado. Isso aponta para a necessidade de [[reducing-ai-misuse|letramento sobre marketing]] como parte da educação em integridade com IA.
 O caso disciplinar mais claro a favor do redesenho em vez da detecção vem da educação em computação. Uma [[meta-analysis-systematic-review|revisão sistemática]] de 72 estudos de IA generativa na computação e na [[cs-education|educação em programação]] ([[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot e Nanthaamornphong 2026]]) concluiu que apenas **três** estudos examinavam mecanismos de detecção de IA — a base de evidência mais fina dos 14 temas que consolidou — enquanto o redesenho de curso e avaliação era apoiado por 25. A revisão trata o desequilíbrio como diagnóstico, e não como incidental: as instituições amplamente atualizaram documentos de política sem redesenhar avaliações, e a maioria dos instrutores está em um nível de *tolerância*, e não de *transformação*, de integração, com 70% de uma amostra nacional de corpo docente pedindo explicitamente treinamento em desenho de avaliação resistente à IA. A resposta recomendada dela é concreta: acrescentar um componente oral ou outro elemento que torne o processo visível a pelo menos uma avaliação de alto impacto por curso, e tornar o engajamento crítico com a saída da IA (ler, testar, modificar, explicar, criticar) um componente nota e observável do trabalho dos estudantes, e não uma aspiração deixada à discrição deles ([[assessment-validity]]).
 
 Uma revisão PRISMA de 72 estudos de avaliação no ensino superior constata três respostas de desenho recorrentes à GenAI (orientação ao processo, autenticidade e abordagens orais e dialógicas), enquadradas como camadas sobre os princípios existentes de validade, autenticidade e alinhamento, em vez de substitutas deles ([[higher-ed-assessments-genai-systematic-review|Crompton e Burke (2026)]]).
@@ -166,6 +170,10 @@ O primeiro estudo de Teoria do Comportamento Planejado sobre intenção de má c
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] documentam o regime de dentro de uma faculdade: professores que haviam mudado os formatos de avaliação disseram que era "virtualmente impossível dizer se um estudante usou IA na escrita das tarefas", enquanto estudantes irritados pediam apelos à consciência e à "vergonha" em vez da detecção.
 - **Melhor sensoriamento não muda o que a avaliação pode certificar.** Um sistema de supervisão por estimativa de pose com YOLOv11, que relata 99,56% de acurácia de classificação, ilustra o limite da rota da detecção: ele mede postura contra um rótulo comportamental, não relata verdade de base sobre má conduta e não oferece análise de subgrupos ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). O remédio que Villanueva defende é evidência suficiente de aprendizagem em estágios-chave, e não vigilância máxima de cada entrega.
+
+**A linguagem da integridade nas políticas internacionais não fixa um significado operacional, e esse é o achado, não a lacuna.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] analisou quatro publicações da UNESCO e da OCDE de 2023 a 2026 por meio de análise crítica do discurso e encontrou oito termos recorrentes — responsabilidade, transparência, confiança, agência humana, originalidade, autenticidade, uso responsável e ampliação — carregando peso normativo enquanto trocam de referente entre documentos. A UNESCO atribui aos provedores a responsabilidade pelos valores centrais e aos educadores a responsabilidade pela interação pedagogicamente apropriada; a OCDE realoca o mesmo termo no julgamento profissional dos professores.
+
+A OCDE (2023) registra que, no início de 2024, nenhum dos dezoito países pesquisados tinha regulação específica de IA generativa para a educação e nove haviam delegado a governança ao nível da escola. Lido pela não-performatividade de Ahmed, o vocabulário expressa responsividade ética sem qualquer mecanismo para efetivá-la, de modo que a responsabilidade é invocada por todos os atores ao mesmo tempo e localizada em nenhum. Hashem nomeia o resultado de **habitus de trapaça** em mudança: disposições para a participação legítima recalibradas sob indeterminação crônica, estratificadas pelo capital acadêmico que os estudantes trazem, com trapacear e ser trapaceado tratados como condições concorrentes em vez de alternativas. Tudo isso é proposto a partir do texto da política, não observado em estudantes.
 
 ## Ideias equivocadas comuns
 
@@ -198,6 +206,7 @@ O primeiro estudo de Teoria do Comportamento Planejado sobre intenção de má c
 
 ## Artigos conectados
 
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Quatro documentos da UNESCO e da OCDE lidos como discurso: significantes flutuantes, não-performatividade e um habitus de trapaça em mudança
 - [[ivory-psychology-assessment-integrity-2026]] — Todo um programa de psicologia aprovável com esforço mínimo, e os critérios de marcação que deixaram isso passar (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Professores em formação recusaram a GenAI sob uma política permissiva; o enquadramento de "armadilha" e a lacuna entre pesquisa e declaração
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, avaliação alegre e terceiro espaço

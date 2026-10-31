@@ -1,7 +1,7 @@
 ---
 title: E-portfólio
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-09-26T07:13:32-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,33 @@ A pesquisa da base de conhecimento mostra que os e-portfólios estão cada vez m
 ## Por que os e-portfólios importam para a integração da IA
 
 Como os e-portfólios colocam em primeiro plano o **processo, a reflexão e a compreensão demonstrada** em detrimento de um artefato final único, eles abordam diretamente o problema central da IA: quando a IA consegue produzir um produto polido, o produto já não evidencia o engajamento por trás dele. Os e-portfólios deslocam a avaliação para a evidência que sobrevive — rascunhos, revisões, traços de raciocínio e autoravaliação reflexiva —, enquanto a própria IA pode ajudar a gerar feedback, a andaimentar a reflexão e (com desenho adequado de rubricas) a apoiar a avaliação. Isso torna os e-portfólios uma pedra angular da [[authentic-assessment|avaliação autêntica]], da [[formative-assessment|formativa]] e da [[process-oriented-assessment|avaliação baseada em processo]] na era da [[generative-ai|IA generativa]], e uma casa natural para o [[feedback-literacy|letramento em feedback]] e a [[self-regulated-learning|aprendizagem autorregulada]].
+
+## Ideias equivocadas comuns
+
+**"Um e-portfólio é uma pasta digital de trabalhos prontos."** O valor avaliativo vem de capturar o *processo* — raciocínio, redação, revisão, reflexão —, e não o artefato final. É precisamente por isso que os e-portfólios são comparativamente robustos à IA: quando o artefato pode ser gerado, uma avaliação construída sobre o processo retém evidência que uma avaliação construída sobre o produto perdeu.
+
+**"A IA torna os e-portfólios tão fáceis de falsificar quanto as redações."** O modo de falha é diferente, e a evidência mostra o formato se movendo na outra direção. Combinar o ChatGPT com a avaliação por e-portfólio (um modelo CEA) na oralidade em EFL produziu ganhos significativos no desempenho oral (**F(1) = 48,554, p < ,001**) e no [[feedback-literacy|letramento em feedback]] (**F(1) = 16,135, p < ,001**), com os e-portfólios apoiando a camada reflexiva. O portfólio não se tornou o elo fraco quando a IA foi acrescentada ao curso; ele carregou a avaliação.
+
+**"Um resultado multivariado significativo prova que o portfólio foi o ingrediente ativo."** Prova que o pacote moveu os resultados. O estudo combinou uma ferramenta de IA, uma estrutura de portfólio e tarefas de oralidade, e um desenho desse formato não consegue isolar qual componente produziu o ganho. A afirmação defensável é sobre a combinação, e a ressalva de [[learning-gains|ganhos de aprendizagem]] se aplica: os ganhos relatados precisam ser rastreados até um componente antes de poderem ser reutilizados.
+
+**"Os e-portfólios substituem a necessidade de avaliação sem assistência."** Eles a complementam. Um portfólio evidencia processo e crescimento ao longo do tempo; ele não evidencia o que um estudante consegue fazer sem apoio, e confundir as duas coisas reintroduz o problema do artefato como proxy que o formato foi adotado para resolver.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Exija o processo, e não apenas o produto: rascunhos com datas, explicações de revisão e reflexão sobre o que mudou e por quê. Esses são os artefatos que a IA não consegue fornecer no lugar do estudante.
+- Pareie o portfólio com pelo menos uma medida de desempenho sem assistência, de modo que a evidência de processo e a evidência de capacidade fiquem ambas registradas.
+- Use a IA *dentro* do fluxo do portfólio — para feedback sobre rascunhos —, e não fora dele, que é a configuração testada pelo estudo citado.
+
+**Para desenvolvedores**
+
+- Construa para histórico de revisão e versionamento, e não para uma visão final polida; a pedagogia vive no diff.
+- Torne os prompts de reflexão estruturados o suficiente para serem avaliados, já que a reflexão não estruturada é onde o texto gerado por IA passa mais facilmente.
+
+**Para pesquisadores**
+
+- Desenhe para isolamento de componentes ao estudar pacotes de IA mais portfólio; caso contrário, o campo acumula efeitos de combinação que não consegue decompor.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: "Sul Global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -17,11 +17,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
-O **Global South** (Sul Global) refere-se aos países da África, Ásia, América Latina e Oceania que costumam ser marginalizados econômica, política e historicamente em relação ao Global North (Norte Global). Na [[research-methods-aied|pesquisa]] em [[ai-education|IA na educação]], os contextos do Sul Global são cada vez mais reconhecidos como sub-representados na base de evidências, mas levantam questões distintivas sobre [[equity-in-ai-education|equidade]], [[culturally-relevant-pedagogy|relevância cultural]], restrições de recursos e a dominância epistêmica dos dados de treinamento ocidentais e anglófonos.
+> **Global South** (Sul Global) — países da África, Ásia, América Latina e Oceania que costumam ser marginalizados econômica, política e historicamente em relação ao Global North (Norte Global). Na [[research-methods-aied|pesquisa]] em [[ai-education|IA na educação]], esses contextos são cada vez mais reconhecidos como sub-representados na base de evidências, mas levantam questões distintivas sobre [[equity-in-ai-education|equidade]], [[culturally-relevant-pedagogy|relevância cultural]], restrições de recursos e a dominância epistêmica dos dados de treinamento ocidentais e anglófonos.
 
 ## Questões a considerar
 
@@ -58,6 +62,14 @@ A pesquisa mainstream em IA e tecnologia educacional tem sido historicamente dom
 Atender aos contextos do Sul Global exige ir além de assumir que modelos e benchmarks ocidentais se transferem diretamente. Isso clama por conjuntos de dados fundamentados localmente, [[pedagogy|pedagogia]] culturalmente relevante, padrões de avaliação centrados na comunidade, e pesquisa que trate as epistemologias vividas e comunitárias dos aprendizes como autoritativas — alinhando-se a frameworks como aprendizagem com IA baseada na comunidade e pesquisa de [[technology-acceptance-model|aceitação de tecnologia]] adaptada às condições locais.
 
 O histórico de escalonamento faz parte desse quadro, e é sóbrio. Programas que funcionam em escala piloto frequentemente param de funcionar quando governos os executam: o programa queniano que produziu ganhos substanciais sob implementação não governamental não mostrou ganho detectável em escala governamental (Bold et al.), os tamanhos de efeito tendem a cair à medida que os programas crescem (Vivalt), e a qualidade da implementação se dilui à medida que os locais se multiplicam (Al-Ubaydli, List & Suskind). O precedente da própria América Latina é o programa peruano One Laptop per Child — cerca de 800.000 laptops distribuídos sem efeito detectável em [[math-education|matemática]] ou leitura —, de onde a lição tirada foi que acesso à tecnologia não é instrução. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] acrescentam uma lição de reporte à lição de escalonamento: no episódio de El Salvador de 2026, um piloto de tutoria com IA em 171 escolas foi anunciado como comparável ao da Alemanha e da Suécia, enquanto a amostra representativa do PISA 2025 do mesmo país não mostrou movimento em duas de três disciplinas, e os dados do piloto eram finos demais (7,0 estudantes avaliados por escola contra 25,4 nacionalmente) para excluir a seleção como explicação. Para sistemas do Sul Global que adotam IA em escala, a implicação é dupla: a evidência de que uma reforma funciona costuma ser sobre os componentes que ela agrupa, e não sobre a tecnologia em seu título, e um escalonamento faseado projetado antes da implantação identifica efeitos a custo quase nulo — o que importa mais onde a conectividade dita a faseação de qualquer forma.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi e van der Merwe (2026)]] argumentam, a partir de uma sala de aula sul-africana do 9º ano, que uma política institucional de restrição-em-primeiro-lugar fecha as condições sob as quais a IA poderia estender, em vez de substituir, os professores sob escassez pedagógica, e que os dados de interação que os aprendizes geram ficam sob regimes de governança estrangeiros.
+
+## Ideias equivocadas comuns
+
+- **"Contextos de poucos recursos carecem de um framework de ética de IA e precisam de um importado."** Professores de STEAM do secundário em serviço em um contexto de poucos recursos **raciocinam sobre ética de IA por meio da identidade profissional, de realidades de sala de aula e de normas culturais, e não de princípios formais**. O raciocínio existe e é situado; uma lista de princípios universais se transfere mal para ele.
+- **"O tipo de governança prediz a integração de IA nas universidades."** Uma análise de conteúdo comparativa de **45 universidades nigerianas** (federais, estaduais e privadas) constatou que a integração de IA era prevista pela **idade da instituição e pela localização geográfica — não pelo tipo de governança**. A suposição de que instituições públicas e privadas divergem é contradita.
+- **"A divisão digital é a principal barreira."** Um estudo de caso [[qualitative-research|qualitativo]] de **21 graduandos com deficiência visual em três universidades palestinas** constatou que a GenAI faz ponte sobre barreiras **digitais, geográficas e socioeconômicas** simultaneamente. As barreiras são em camadas, e tratar o acesso como o único obstáculo deixa as outras intactas.
 
 ## Conceitos conectados
 

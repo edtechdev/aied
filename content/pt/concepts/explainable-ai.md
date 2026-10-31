@@ -1,7 +1,7 @@
 ---
 title: IA explicável
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-29T04:27:44-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,10 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -64,6 +66,7 @@ O framework XAI-ED cataloga as principais modalidades de explicação: **visual*
 - Abordagens **glass-box** tentam equilibrar precisão com transparência.
 
 A base de evidências concreta da AIED abrange todas elas. O **[[knowledge-tracing|rastreamento de conhecimento]] interpretável** torna os modelos de conhecimento de quem aprende diretamente inspecionáveis ([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). **Substitutos autoexplicativos** destilam um modelo black-box em um pequeno [[llm|modelo de linguagem]] interpretável para a [[learning-analytics|analítica de aprendizagem]] ([[distilling-self-explaining-lm-learning-analytics-2026]]). **Explicações contrafactuais** — "o que precisaria mudar para um resultado diferente" — apoiam o suporte à decisão educacional e o recurso ([[sc2r-counterfactual-recourse-educational-2026]]). **Analítica de aprendizagem federada + explicável** mostra que a qualidade da explicação pode degradar (a calibração piora) mesmo quando a estabilidade do ranqueamento se mantém, sublinhando que as explicações não são uma propriedade fixa, mas uma saída do sistema a ser mensurada ([[villegas-ch-federated-explainable-learning-analytics-2026]]). E [[affective-computing|ITS afetivo]] interpretável demonstra explicações na tutoria [[affective-tutoring|consciente das emoções]] ([[multimodal-affective-its-presentation]]).
+- **A medição externa contorna o problema do relato infiel.** Os Registros de Decisão Filtrados reconstroem os rastros de ferramentas em uma árvore de proveniência e ranqueiam a evidência com quatro sinais determinísticos, de modo que a pontuação de influência é verificável independentemente da recomendação, e a remoção contrafactual de ferramentas confirmou que o ranqueamento acompanhava a dependência ([[filtered-decision-logs-transparency-genai-2026|Anbalagan et al. (2026)]]).
 
 ## Qualidade da explicação, não disponibilidade
 
@@ -79,6 +82,8 @@ A qualidade da explicação também tem uma dimensão de equidade: uma explicaç
 
 A explicação nem sempre equaliza. Em um experimento de vinheta 2 × 2 com 250 estudantes do sétimo ano, uma justificativa escrita para uma nota de matemática elevou a aceitação e a equidade percebida em ambas as condições, mas ampliou, em vez de fechar, a lacuna entre decisões feitas pelo [[teacher-role|professor]] e pela IA ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
 
+As citações funcionam como uma pista de credibilidade, e não como evidência de correção: anexar citações e sinais de autoridade a uma interface de debate elevou o abandono de um julgamento correto em favor da posição da IA de 15,0% para 31,8%, e os casos citados por vezes estavam mal atribuídos ou eram fictícios ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 Duas ressalvas afiam isso ainda mais, ambas tornadas centrais pela contribuição mais recente da wiki sobre o tema. Primeiro, a própria maquinaria de explicação não é neutra: métodos pós-hoc como LIME e SHAP podem ser infiéis ao comportamento real do modelo, de modo que uma explicação tecnicamente presente pode enganar em vez de informar ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], com base em Chuan et al. 2024). Segundo, **explicação não é responsabilização**. Um relato de quais atributos impulsionaram uma previsão não revela se esses atributos eram apropriados para usar, se os dados de treinamento eram representativos, ou se o desenho do sistema refletia juízo sólido; as explicações podem criar a aparência de transparência deixando intactas as condições estruturais que produziram uma decisão (Mittelstadt et al. 2019). Para a educação, isso significa que a pergunta a manter em mente não é se uma explicação foi produzida, mas se a pessoa que a recebeu — um estudante, um professor, um orientador — poderia entendê-la, agir com base nela ou contestar a decisão por trás dela. A mesma falha de legibilidade aparece no lado de segurança da [[automated-assessment|avaliação automatizada]]: o [[humble-prompt-injection-ai-grading-red-team-2026|red-team de Humble (2026) de uma ferramenta de correção por IA]] constatou que ela desativava silenciosamente o chat após bloquear uma injeção de prompt e — tendo anunciado que nunca seguiria instruções embutidas — as seguia em mais seis execuções no mesmo arquivo, deixando o usuário sem nenhum sinal confiável sobre o qual fundamentar a dependência.
 
 **Explicável por desenho** é uma resposta ao problema de fidelidade do pós-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizam um decodificador de explicação pela mesma representação fundida e pela mesma nota prevista que decidem a [[assessment|avaliação]], de modo que uma nota baixa em questionamento [[formative-assessment|formativo]] produza uma justificativa que nomeia perguntas de sondagem insuficientes, e o combinam com atenção de dupla lente sobre padrões curriculares e movimentos de rubrica específicos da disciplina. O alinhamento atenção-rubrica alcança 78,0%, contra 41,7% do GPT-4 zero-shot e 32,1% do BERT, e a fidelidade é testada pela exclusão contrafactual de trechos críticos para a rubrica, juntamente com avaliações humanas em uma checklist ancorada na rubrica, dando uma pontuação de credibilidade da explicação de 0,78 — um aumento de 0,31 sobre o BERT-base. A auditoria também mostra onde a afirmação arquitetural enfraquece: em pistas emocionais, o modelo aloca 28,4% do peso de atenção contra 15,2% de um especialista (alinhamento 0,53), com um caso de falha atribuindo 28% ao token "frustrated", que os autores leem como overfitting ao afeto em vez de à pedagogia e nomeiam como uma área de refinamento. Embutir explicações no caminho da decisão as torna mais fiéis que justificativas pós-hoc; isso não as torna corretas.
@@ -88,6 +93,13 @@ Duas ressalvas afiam isso ainda mais, ambas tornadas centrais pela contribuiçã
 Se a qualidade da explicação decide se a XAI é útil, então produzir explicações tem de ser ensinado como um hábito profissional, e não apenas demonstrado como uma capacidade. [[lund-socially-accountable-data-science-xai-2026|Lund e colegas (2026)]] propõem fazer isso ao longo de quatro pilares — **responsividade** (a obrigação de dar razões aos afetados), **responsabilidade** (o dano antecipado ao longo do ciclo de vida, e não defendido depois do fato), **aplicação** (consequências dentro do curso) e **reflexividade** (exame documentado dos próprios pressupostos) — cada um com suas atribuições e seu custo em sala de aula.
 
 Para a explicabilidade especificamente, as atribuições que importam são as que forçam a explicação a sair do notebook: model cards avaliados com peso ao lado das métricas de precisão, e auditorias estruturadas de explicação nas quais os estudantes aplicam ferramentas de interpretabilidade a seus próprios modelos e depois apresentam os resultados a um público sem formação técnica compartilhada. A aplicação é o pilar que mais frequentemente falta nos cursos adjacentes à ética e o que torna o resto mais do que simbólico — rubricas que recompensem documentação responsável, projetos que possam ser devolvidos para revisão por fundamentos [[ethics|éticos]], e [[peer-assessment|avaliação entre pares]] conduzida contra critérios de responsabilização, e não apenas técnicos. O artigo é franco quanto ao fato de que as ferramentas diferem acentuadamente em custo: model cards e declarações de posicionalidade não exigem nenhum software novo e arriscam apenas uma conformidade superficial, enquanto painéis de pares e engajamento de partes interessadas exigem coordenação e adesão institucional, e é por isso que ele recomenda uma adoção escalonada em vez de um compromisso tudo ou nada. Veja [[curriculum-design]] para saber onde isso se encaixa em um programa.
+
+## Ideias equivocadas comuns
+
+- **"Citações tornam uma explicação confiável."** As citações funcionam como **pista de credibilidade, e não como evidência de correção**: anexar citações e sinais de autoridade a uma interface de debate **elevou o abandono de um julgamento correto em favor da posição da IA de 15,0% para 31,8%**. A proveniência tornou a resposta errada mais persuasiva, o oposto do efeito pretendido.
+- **"Uma explicação que satisfaz os usuários explicou o sistema."** A mesma falha de legibilidade aparece no lado de segurança da [[automated-assessment|avaliação automatizada]]: o [[humble-prompt-injection-ai-grading-red-team-2026|red-team de Humble (2026)]] constatou que um fluxo cotidiano de correção podia ser manipulado por instruções injetadas. Uma narrativa plausível e uma auditável são artefatos diferentes.
+- **"A prática geral de XAI se transfere para a educação."** O [[xai-education-framework|framework XAI-ED]] (Khosravi et al., 2022) insiste que a educação tem **necessidades de explicabilidade distintivas** além da XAI geral, porque o público inclui aprendizes que precisam agir sobre a explicação, e não auditores que precisam certificá-la.
+- **"A fidelidade é uma propriedade que se pode alegar sem sondar."** A fidelidade medida exige **exclusão contrafactual de trechos críticos para a rubrica** ao lado de avaliações humanas. O alinhamento atenção-rubrica de **78,0% contra 41,7% do GPT-4 zero-shot e 32,1% do BERT** é um resultado comparativo desse tipo de sondagem, e não de uma alegação sobre interpretabilidade.
 
 ## Citação
 
@@ -132,4 +144,5 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para avaliação pedagógica de novas questões educacionais assistidas por IA
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Decisões de correção feitas pelo professor versus pela IA: uma justificativa escrita ampliou a lacuna de equidade
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citações e sinais de autoridade elevaram a deferência a uma saída incorreta, com algumas referências mal atribuídas ou fictícias
 

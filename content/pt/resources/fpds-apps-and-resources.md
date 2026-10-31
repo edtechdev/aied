@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-09-27T03:31:33-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: resource
 summary: "A página pública de recursos do Faculty Professional Development Services do Hillsborough College, reunindo em um só lugar seus recursos de IA, ensino e acessibilidade."
 url: https://fpdshc.github.io/apps/
@@ -20,7 +20,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, gemini-notebook, liascript]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-10-24T11:51:12-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,24 +28,28 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-**FPDS Apps and Resources** é o hub público das ferramentas de ensino construídas e curadas pelo Faculty Professional Development Services do Hillsborough College. Uma única página reúne tudo sob três títulos — IA, ensino e acessibilidade — para que um instrutor possa encontrar os apps e cursos do próprio escritório ao lado dos guias e assistentes que ele recomenda.
+**FPDS Apps and Resources** é o hub público das ferramentas de ensino construídas e curadas pelo Faculty Professional Development Services do Hillsborough College. Quinze entradas ficam sob três títulos — IA, acessibilidade e ensino —, e cada uma abre a própria ferramenta.
 
 ## O que você pode fazer com ela
 
-A seção de IA aponta para o *AI-Era Assignment Design Coach*, um Gemini Gem que acompanha os instrutores na reformulação de tarefas para um mundo com IA; o mesmo coach também está disponível como projeto do Playlab, e uma planilha de [[academic-integrity]] sem IA cobre a tarefa com menos recursos. A seção também lista um tour autoguiado de ferramentas de IA e tarefas de ensino, a *AI in Education Knowledge Base* e um segundo Gemini Gem para projetar módulos online. A seção de acessibilidade reúne um checklist de Canvas que começa pelo que você tem em mãos e termina com uma verificação humana, um guia de [[universal-design-for-learning]] publicado sob uma licença Creative Commons não comercial, e outro Gemini Gem que escreve texto alternativo para imagens. A seção de ensino reúne dois cursos de Canvas mantidos pelo escritório, um kit inicial para copiar para o seu próprio curso e um curso de estratégias de ensino baseadas em evidências com itens de Canvas adaptáveis, além de um checklist de ensino online mantido em um documento. Cada entrada é uma página funcional, e não um anúncio, e as seções encaminham para material que o escritório não hospeda.
+A seção de IA reúne quatro coaches conversacionais no Playlab: um AI Teaching Coach que combina o que está bloqueando o sucesso do estudante com uma estratégia baseada em evidências, um AI Literacy Design Coach que adapta o [[ai-literacy]] a um curso, um Academic Habits Coach para estudantes, e o AI-Era Assignment Design Coach, que também existe como notebook do NotebookLM e como planilha sem IA, e trata as tarefas como uma questão de equilíbrio, e não de torná-las à prova de IA. Ela também traz um curso de Canvas com materiais de letramento em IA prontos, um tour autoguiado AI Petting Zoo, um Gemini Gem para projetar módulos online, e esta base de conhecimento. A acessibilidade é liderada pelo checklist de Canvas do próprio escritório, que pergunta com o que você está trabalhando e percorre páginas, imagens, documentos, slides, PDFs, vídeos e links antes de uma varredura por todo o curso; ao lado dele estão o livro Pressbooks da faculdade sobre [[universal-design-for-learning|acessibilidade digital]] e um Gemini Gem que escreve texto alternativo. O ensino reúne um curso-manual para [[online-teaching-and-learning|ensino no Canvas]], um kit inicial para copiar para o seu próprio curso, um curso de estratégias baseadas em evidências com itens de Canvas prontos, e um checklist de ensino online.
 
 ## Para quem é
 
-O site atende à equipe de [[educational-development]] e aos instrutores do Hillsborough College. Também é útil para instrutores de outras instituições como exemplo prático de um pequeno site de desenvolvimento docente, já que é um conjunto de páginas estáticas que pode ser copiado em vez de reconstruído.
+Instrutores e equipe de [[educational-development]] do Hillsborough College, e instrutores de outras instituições em busca de um exemplo prático de um pequeno site de desenvolvimento docente construído a partir de páginas estáticas que podem ser copiadas em vez de reconstruídas.
 
 ## Notas e ressalvas
 
-Navegar pelo site não exige conta, e os cursos de Canvas e o documento de checklist vinculados também são públicos. Os Gemini Gems e o notebook do NotebookLM são serviços do Google, e esses sim exigem conta. O repositório é licenciado sob MIT como software, enquanto os guias externos vinculados carregam suas próprias licenças. O escritório mantém as páginas sem um cronograma de publicação, de modo que elas mudam sem aviso.
+Ler não exige conta, e os cursos de Canvas e os checklists vinculados são públicos. Os coaches do Playlab e os Gemini Gems e notebooks são serviços de terceiros que, esses sim, exigem conta. Os cartões são renderizados a partir de `apps.json`, então a lista completa precisa de JavaScript e o fallback sem script nomeia oito das quinze; o link curto `tinyurl.com/fpdapps` e um QR code no cabeçalho abrem a página no celular. O repositório é software licenciado sob MIT, enquanto os guias vinculados carregam suas próprias licenças, entre eles o livro Pressbooks sob uma licença Creative Commons não comercial. Não há cronograma de publicação, de modo que a página muda sem aviso.
 
 ## Conceitos conectados
 
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]]
+[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

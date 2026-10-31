@@ -1,13 +1,13 @@
 ---
 title: Pesquisa com métodos mixtos
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-09-30T07:37:28-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -15,9 +15,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Pesquisa com métodos mixtos** — o desenho e a prática de combinar intencionalmente vertentes [[quantitative-research|quantitativas]] e [[qualitative-research|qualitativas]] dentro de um único estudo, de modo que seus pontos fortes se complementem e suas fraquezas se compensem. Na [[ai-education|IA na educação]], desenhos com métodos mixtos são amplamente usados porque os efeitos da IA são simultaneamente mensuráveis ([[learning-gains|ganhos de aprendizagem]], [[student-engagement|engajamento]]) e carregados de sentido (confiança, [[agency|agência]], identidade) — e nem uma pesquisa nem uma entrevista isoladamente captura ambos.
 
@@ -32,6 +36,8 @@ ai_assist:
 ## Introdução
 
 Desenhos com métodos mixtos integram a amplitude, a precisão e o poder causal dos métodos quantitativos com a profundidade, o contexto e o sentido dos métodos qualitativos. A proposta de valor é a **triangulação**: quando vertentes independentes convergem para a mesma conclusão, a confiança aumenta; quando divergem, a própria discrepância é informativa.
+
+Em 394 estudos de GenAI no ensino superior, os métodos mixtos foram o desenho de pesquisa mais comum (213 estudos, 54%), seguidos pelos métodos quantitativos (109, 28%) e qualitativos (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ## Padrões de desenho comuns
 
@@ -55,10 +61,17 @@ Desenhos com métodos mixtos integram a amplitude, a precisão e o poder causal 
 - **Pontos fortes:** a triangulação aumenta a confiança; amplitude quantitativa mais profundidade qualitativa; consegue explicar resultados inesperados e conectar mecanismo e magnitude; produz tanto efeitos quanto sentido; é adequada a fenômenos complexos e contextuais da IA na educação.
 - **Limitações:** complexa, intensiva em recursos e metodologicamente exigente; a integração pode ser superficial se as vertentes forem meramente relatadas lado a lado, em vez de genuinamente fundidas; ainda herda as fraquezas de cada vertente (por exemplo, viés de autorrelato nas pesquisas, dependência do pesquisador nas entrevistas); exige proficiência nas duas tradições metodológicas.
 - **Um limite de agrupamento que restringe a inferência.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]] atribuem duas turmas intactas (n = 31, n = 22), então, com apenas dois agrupamentos, os testes t relatados ignoram o aninhamento intraclasse e modelos multinível não são estimáveis, tornando os testes de significância otimistas sobre o que o desenho consegue sustentar.
+- **A escolha do instrumento pode inverter uma vertente computacional.** O VADER e um RoBERTa ajustado atribuíram valência oposta ao mesmo post (0,9413 fortemente positivo no VADER, −0,9209 no RoBERTa), de modo que a leitura quantitativa de um corpus pode depender de qual classificador é usado ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola et al., 2026]]).
 
 ## Relação com o cenário mais amplo de métodos
 
 Os métodos mixtos ficam entre as tradições [[quantitative-research|quantitativa]] e [[qualitative-research|qualitativa]], recorrendo aos pontos fortes de cada uma, ao mesmo tempo que acrescentam a disciplina de desenho da integração intencional. É uma resposta metodológica ao reconhecimento de que os fenômenos da IA na educação são tanto efetivos quanto carregados de sentido — e de que o campo avança mais rápido quando amplitude e profundidade são combinadas (veja [[research-methods-aied]]). Conecta-se à [[educational-measurement|mensuração educacional]] (instrumentos quantitativos), ao [[theory-development-aied|desenvolvimento de teoria na IAED]] (construção qualitativa de teoria) e à [[ai-ed-evaluation|avaliação da IAED]] (integrando evidência de resultado e de experiência).
+
+## Ideias equivocadas comuns
+
+- **"Os métodos mixtos são uma escolha de nicho na pesquisa em educação com IA."** Em **394 estudos de GenAI no ensino superior**, os métodos mixtos foram o **desenho de pesquisa mais comum (213 estudos, 54%)**, seguidos pelos quantitativos (109, 28%) e qualitativos (72, 18%). O desenho dominante do campo não é aquele que seus debates metodológicos pressupõem.
+- **"Evidência observacional e de entrevistas consegue sustentar uma afirmação sobre o sistema."** Parear observação do sistema e conversas com administradores contra uma **avaliação randomizada de quatro anos com 8.708 estudantes ao longo de oito semestres**, com poder para detectar efeitos de **0,05 desvio padrão**, mostra o que a vertente qualitativa não consegue fazer sozinha: detectar um efeito pequeno de forma confiável. Misturar métodos não é uma forma de transferir poder entre vertentes.
+- **"Triangulação significa que dois métodos fracos produzem uma afirmação forte."** O valor do pareamento é que cada vertente responde a uma pergunta diferente. Um desenho que executa ambas e depois relata o achado qualitativo como confirmação do quantitativo não triangulou, apenas repetiu.
 
 ## Conceitos conectados
 
@@ -81,3 +94,4 @@ Os métodos mixtos ficam entre as tradições [[quantitative-research|quantitati
 - [[hazra-safetutors-pedagogical-safety-2026]] — Segurança do tutor de IA e danos pedagógicos
 - [[becker-chatgpt-typology-physics-2026]] — Uma tipologia qualitativa da adoção do ChatGPT na física
 - [[edtech-privacy-deferral-2026]] — \"Consertaremos Depois\": Educação, IA e a Postergação da Privacidade dos Estudantes em EdTech
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER e um RoBERTa ajustado atribuíram valência oposta ao mesmo post do Bluesky (Geraili Meykola et al., 2026)

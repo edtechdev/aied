@@ -1,7 +1,7 @@
 ---
 title: Texto de refutação
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,16 @@ Os textos de refutação são um membro do kit de mudança conceitual, ao lado d
 ### Implicações práticas
 
 Para educadores, os textos de refutação permanecem uma forma confiável e de baixa barreira de corrigir equívocos teimosos. Para aqueles que integram a IA, a evidência sugere: (1) usar a IA para *gerar* conteúdo eficaz de refutação/mudança conceitual em escala; (2) onde viável, entregar a refutação por meio de diálogo personalizado por IA para engajamento imediato e mudança de crença mais fortes; (3) esperar que os equívocos gerados por IA sejam pedagogicamente úteis quando a discussão estruturada é usada para confrontá-los; e (4) desenhar para quem aprende — os efeitos da refutação podem se concentrar em estudantes de alto desempenho e ser moderados por epistemologia e metacognição, então andaimento e acompanhamento importam.
+
+## Ideias equivocadas comuns
+
+**"Corrigir um equívoco significa apresentar a resposta correta."** Se fosse assim, os equívocos não sobreviveriam ao ensino, e eles sobrevivem rotineiramente. Equívocos não são lacunas, mas crenças ativamente sustentadas que resistem ao ensino comum: quem já tem uma explicação funcional não recebe a nova como substituta, recebe-a como uma alegação concorrente, e muitas vezes descarta a menos familiar.
+
+**"O texto de refutação é simplesmente escrever 'isto está errado' antes da informação correta."** A estrutura importa — o equívoco precisa ser enunciado tal como quem aprende o sustenta, engajado diretamente, e só então deslocado. Uma correção nua nomeia uma crença que quem aprende pode rejeitar como uma versão de palha da sua própria, e é por isso que a refutação precisa reproduzir sua intuição, e não a versão arrumada dela.
+
+**"Mais informação sobre a concepção correta resolve a resistência."** Volume de informação correta é a intervenção que já fracassa. A mudança conceitual exige que o modelo existente de quem aprende seja explicitado e considerado insuficiente, o que é um movimento instrucional diferente de acrescentar evidência.
+
+**"Equívocos e ignorância comum precisam do mesmo remédio."** Precisam de remédios diferentes: a ignorância é tratada fornecendo conhecimento, e um equívoco precisa primeiro ser destronado. Tratar o segundo como o primeiro é a razão pela qual uma aula bem explicada pode deixar intacto o modelo original do estudante.
 
 ## Conceitos conectados
 - [[pedagogical-patterns]] — Sequências de refutação, incluindo dois resultados diretamente conflitantes

@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem socioemocional
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -71,6 +75,8 @@ As emoções regulam *como* os estudantes tornam visível o uso da IA. [[shame-g
 ### Confiança e pertencimento
 A ASE apoia a aprendizagem relacional e a coesão social. [[finkelstein-principled-ai-education-2025|A educação em IA com princípios]] e [[ai-chatbot-collective-efficacy-collaborative-learning|os chatbots de IA para a aprendizagem colaborativa]] se conectam ao **pertencimento** e à eficácia coletiva — a crença compartilhada na capacidade de uma equipe de realizar tarefas. A premortem da Brookings enfatiza que a dependência excessiva da IA ameaça o bem-estar socioemocional, as relações entre professores e pares, e a [[privacy|privacidade]] e a segurança dos estudantes — dimensões de pertencimento e conexão. A [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confiança professor–estudante]] é central para saber se a IA é percebida como apoio.
 
+Há um fio mais afiado no pertencimento aqui: a empatia buscada na IA pode ser penalizada. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] fizeram participantes ler sobre um estudante angustiado que procurou um chatbot, um amigo, um terapeuta ou ninguém. Na condição do chatbot, os participantes relataram em particular a menor disposição de transferir a empatia, mas depois usaram o maior número de palavras de indiferença sobre aquele estudante e o avaliaram como mais estranho e mais desesperado. O julgamento dos pares sobre a rota de busca por IA agrava o esconder-se documentado acima, e é por isso que normas de divulgação pertencem ao desenho da ASE, e não apenas à política de integridade.
+
 ### Persistência, mentalidade e luta produtiva
 A ASE se sobrepõe à dimensão esforçada da aprendizagem. [[framing-5-percent-problem-teachers-persistence|Enquadrando o problema dos 5%]] identifica a baixa persistência dos estudantes como um desafio recorrente na tecnologia educacional, moldado por motivação/adesão, bloqueios cognitivos, resiliência sob desafio e conexão. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] alertam que a IA que substitui o esforço corrói as próprias capacidades que a educação constrói — alinhando-se com a [[metacognition|metacognição]] e com o valor da luta produtiva sobre a [[cognitive-offloading|dependência excessiva]].
 
@@ -95,6 +101,16 @@ A ASE se sobrepõe à dimensão esforçada da aprendizagem. [[framing-5-percent-
 ### Conexões com conceitos relacionados
 
 A ASE se conecta ao [[ai-literacy|letramento em IA]] (como um complemento que torna o letramento em IA relacional e ético), à [[affective-computing|computação afetiva]] e ao [[well-being|bem-estar]] (as dimensões afetivas da IA), à [[self-regulated-learning|aprendizagem autorregulada]] (autogestão e regulação do esforço), à [[self-efficacy|autoeficácia]] e à [[motivation|motivação]] (crenças de quem aprende que moderam a [[student-ai-interaction|interação com a IA]]), à [[agency|agência]] (proteger o controle de quem aprende contra a dependência), à [[ethics|ética]] (tomada de decisão responsável), à [[teacher-ai-competency|competência docente em IA]] (a capacidade dos educadores de apoiar a ASE), à [[student-experience|experiência do estudante]] (bem-estar e pertencimento) e aos [[learning-gains|ganhos de aprendizagem]] (a evidência de que a ASE apoia o desempenho). Ela se relaciona ao [[higher-ed|ensino superior]] e ao [[k-12|K-12]] como os contextos onde o letramento em IA infundido de ASE é cultivado.
+
+## Ideias equivocadas comuns
+
+**"ASE e inteligência emocional são o mesmo construto."** São relacionados e distintos: a ASE/CSE nomeia um conjunto de competências — a capacidade de sincronizar pensamentos, emoções e ações para uma interação positiva —, enquanto a inteligência emocional nomeia uma capacidade individual de perceber e gerir a emoção. Uma ferramenta pode elevar a autoconsciência emocional de quem aprende sem desenvolver nenhuma competência socioemocional, e um programa pode construir competência colaborativa em estudantes cuja autopercepção emocional permanece inalterada. Como os dois são medidos de formas diferentes, evidência de um não é evidência do outro.
+
+**"Um tutor de IA que responde com empatia desenvolve aprendizagem socioemocional."** A responsividade emocional é uma propriedade de entrega; a ASE é um resultado de competência, e os dois não estão automaticamente ligados. As dimensões relacionais da aprendizagem são justamente aquelas que esta literatura diz que a IA deve *complementar em vez de substituir*, o que torna a empatia na ferramenta uma questão sobre o que ela substitui, e não um benefício em si. Veja a [[affective-tutoring|tutoria afetiva]] para o mecanismo pelo qual uma resposta calorosa pode reduzir a luta que constrói a persistência.
+
+**"Baixa persistência é um problema de motivação que o encorajamento pode resolver."** A persistência é a restrição recorrente na tecnologia educacional — o padrão que [[framing-5-percent-problem-teachers-persistence|o problema dos 5%]] nomeia —, e é moldada pela motivação e adesão, pelos bloqueios cognitivos *e* pela resiliência sob desafio. O encorajamento aborda uma das três. Um estudante que para porque o problema excedeu sua memória de trabalho não está com falta de tranquilização.
+
+**"Saber que a IA está disponível não muda como os estudantes investem esforço."** Pode mudar, e o efeito corre na direção errada para os aprendizes mais fracos: a [[ai-availability-student-motivation|disponibilidade de IA]] pode reduzir o valor percebido do engajamento esforçado, particularmente para novatos. A disponibilidade por si só é uma intervenção motivacional com sinal negativo, e é por isso que o desenho adjacente à ASE não pode tratar a presença de um sistema útil como neutra.
 
 ## Conceitos conectados
 - [[anxiety-and-stress]]
@@ -131,3 +147,4 @@ A ASE se conecta ao [[ai-literacy|letramento em IA]] (como um complemento que to
 - [[policy-deficit-ai-sel-2026]] — O Déficit de Política na Pesquisa em IA × ASE
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Complementaridade humano–IA na aprendizagem socioemocional inicial (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Microintervenções emocionais em tempo real e um fraseário para instrutores
+- [[shastry-gray-empathy-offloading-2026]] — As pessoas transferem a empatia quando acham que a IA pode oferecê-la (Shastry & Gray 2026)

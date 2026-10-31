@@ -1,7 +1,7 @@
 ---
 title: "Treinamento e ajuste fino de LLM"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,13 +13,17 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -74,6 +78,7 @@ Quando um modelo geral não consegue manter uma propriedade de que você precisa
 O padrão se repete ao longo de tarefas muito diferentes:
 
 - **Ancoragem curricular.** Um conjunto de dados de instrução multilíngue com 24.795 exemplos, ancorado em Indian Knowledge Systems, produziu um ajuste fino de 7B pontuando **6,39** em um painel externo de cinco juízes (mediana sobre 1.201 itens estratificados). Isso está a **0,15** de um forte modelo geral de referência, a uma fração do custo de implantação — enquanto o mesmo modelo base pontuou **perto de zero nas dimensões específicas de IKS** sem o ajuste fino ([[iks-instruct-dataset-indian-knowledge]]). Essa lacuna entre "competente em geral" e "competente aqui" é todo o argumento para adaptação de domínio. Note também o detalhe contraintuitivo que os autores relatam: a qualidade **não** subiu monotonicamente com a curadoria de dados.
+- **Dados estruturados pelo [[curriculum-design|currículo]] são eficientes em amostras.** Sob um orçamento pareado de cerca de 2.300 amostras, o ajuste fino em pares pergunta–resposta derivados de um [[knowledge-graph|grafo de conhecimento]] de K–12 dos livros didáticos da People's Education Press superou fatias de igual tamanho de oito corpora de instrução convencionais, e os ganhos se transferiram para além das disciplinas treinadas — evidência de que a estrutura curricular é o que distingue dados de treinamento educacionais ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 - **Confiabilidade de avaliação, barata.** Um único adaptador LoRA treinado em aproximadamente **3.900** exemplos corrigidos agrupados trouxe cinco pequenos modelos abertos (4B–30B) à paridade ou além de um corretor humano ao longo de duas provas de ciência da computação, e praticamente apagou a sensibilidade a persona (deriva ≤ 0,32 MAE) ([[llm-graders-computer-science-exams-2026]]). Um adaptador, um conjunto de dados, vários modelos base — essa é a forma de uma implantação prática.
 - **Automação seletiva.** A confiança foi um preditor confiável de erro de pontuação (β = −0,602, p < ,001). Rotear os **20%** menos confiantes das respostas para revisão humana moveu um modelo GPT-3.5 ajustado de r = 0,781 para **r = 0,822** (RMSE 0,5990 → 0,5544), cortando o trabalho manual de correção em aproximadamente **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]). O ajuste fino aqui não está substituindo o humano; está tornando a atenção do humano acessível.
 - **Medindo constructos que de outra forma você corrigiria à mão.** Transformers húngaros ajustados (hubert-base-cc, PULI-BERT-Large) foram usados como referência contra atributos TF-IDF e embeddings Qwen3 para pontuar escrita reflexiva na [[teacher-education|formação de professores]] ([[reflection-level-classification-hungarian-essays-2026]]), e um modelo multimodal ajustado (baseado em Qwen3.5) mostrou reconstruir curvas características de item para itens de múltipla escolha, aprendendo os padrões de resposta codificados nas curvas 3PL e MCM em vez de recebê-los ([[multimodal-item-parameter-estimation-2026]]).
@@ -152,6 +157,13 @@ Destilada da evidência acima, na ordem que evita computação desperdiçada:
 
 Esta página é a companheira *como um modelo é feito* de [[llm|LLM]], que cobre o que os grandes modelos de linguagem são e como se comportam. Ela se situa sob [[ai-technologies|Tecnologias de IA]] como o nó de treinamento-e-adaptação, ao lado de [[rag|RAG]] (a alternativa de recuperação que usualmente vem primeiro), [[prompt-engineering|Prompt engineering]] (a alavanca mais barata) e [[reinforcement-learning|Aprendizado por reforço]] (a metade RL do pós-treinamento). Suas saídas alimentam [[intelligent-tutoring|Tutoria inteligente]] e [[adaptive-learning|Aprendizagem adaptativa]]; suas aplicações educacionais mais comuns são [[automated-assessment|Avaliação automatizada]], [[automated-essay-scoring|Correção automatizada de redações]] e [[ai-feedback-quality|Qualidade do feedback de IA]]; e seus parentes conceituais mais próximos são [[educational-nlp|PLN educacional]], [[simulating-students|Simulando estudantes]], [[open-source|Código aberto]] e [[student-modeling|Modelagem do estudante]]. Os riscos que cria são sustentados por [[pedagogical-safety|Segurança pedagógica]], [[ai-sycophancy|Adulação de IA]], [[hallucination-risk|Risco de alucinação]] e [[privacy|Privacidade]].
 
+## Ideias equivocadas comuns
+
+- **"O ajuste fino é o caminho para deixar um modelo bom na sua tarefa."** Recuperação e prompting vêm **antes na ordem de decisão**, e o resultado mais claro desta base de conhecimento é que o pós-treinamento é uma **terceira escolha, não a primeira**. Ajustar um modelo em dados de avaliação melhorou **formatação e similaridade** enquanto um ajuste separado **fracassou de todo na geração de feedback** — o método mudou a superfície e não a competência.
+- **"O modelo é o principal determinante dos ganhos de aprendizagem."** A escolha de modelo e de prompt responde por apenas **cerca de 15%** da lacuna entre um LLM e os ganhos de aprendizagem dos estudantes. Otimizar os 85% restantes é onde está o trabalho, e ele não está nos pesos.
+- **"Um modelo local terá desempenho inferior a um hospedado, então a recuperação é uma alavanca menor."** Em uma avaliação de três configurações, **a recuperação, e não o modelo, foi a decisão de desenho de primeira ordem**: o LLM local **sem recuperação alcançou apenas 52,3% de acurácia, abaixo de uma baseline TF-IDF**. Acrescentar recuperação levou o mesmo modelo para além de um limiar que nenhuma troca de modelo alcançaria sozinha.
+- **"Mais dados de treinamento significam melhor comportamento de ensino."** O ajuste em dados de avaliação que melhorou a formatação enquanto piorava a geração de feedback é o contraexemplo em miniatura: otimizar contra um alvo de aparência semelhante pode melhorar o proxy e degradar o que você queria.
+
 ## Conceitos conectados
 
 - [[llm]] — o que esses modelos são; esta página é como eles são feitos
@@ -220,3 +232,4 @@ Esta página é a companheira *como um modelo é feito* de [[llm|LLM]], que cobr
 - [[simulated-students-tutoring-dialogues-2026]] — se estudantes simulados se comportam como estudantes
 - [[inside-llm-student-simulator-reasoning-2026]] — ajustando um modelo para agir e pensar como um estudante
 - [[history-aware-student-simulation]] — simulação condicionada à trajetória de quem aprende
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Dados estruturados pelo currículo são eficientes em amostras

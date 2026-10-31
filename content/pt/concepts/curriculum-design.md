@@ -1,7 +1,7 @@
 ---
 title: Desenho curricular
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Desenho curricular** — o processo de planejar e estruturar o que é ensinado ao longo de cursos, programas e instituições, incluindo objetivos de aprendizagem, sequenciamento de conteúdo, estratégias de avaliação e progressão de habilidades. Na era da IA, o desenho curricular precisa equilibrar o conhecimento fundacional com as competências emergentes de IA, determinando não apenas o que os estudantes aprendem, mas como aprendem a trabalhar com as ferramentas de IA e a avaliá-las criticamente.
 
@@ -47,6 +51,8 @@ O desenho curricular aborda o *o quê* da educação no nível do programa, comp
 Ao rever a mudança como sistêmica, e não aditiva, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangulam uma revisão de escopo, mapeamento bibliométrico de 209 registros, 36 artigos e dez entrevistas com líderes acadêmicos em cinco deslocamentos — incluindo a transmissão de conhecimento cedendo ao desenvolvimento de capacidades e a experimentação local cedendo à governança institucional.
 
 **Mapeamento e análise curricular** usa a IA para compreender currículos existentes. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analisaram 23 ementas de cursos de engenharia de software assistida por IA, identificando temas comuns — [[prompt-engineering|engenharia de prompts]], revisão de código com IA, [[ethics|considerações éticas]] — e derivando orientações de desenho que enfatizam equilibrar a fluência em ferramentas com o conhecimento fundacional. O **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** aplica métodos computacionais para comparar estruturas de cursos de computação entre instituições.
+
+Ponderar muda o que uma análise curricular relata: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] fizeram o GPT-o3-mini distribuir 100% entre sete habilidades empresariais para cada uma de 48 avaliações, alcançando um alfa de Krippendorff de 0,81 contra pesos de especialistas, mas a concordância tornou-se negativa para habilidades que as descrições nunca declaram explicitamente (−0,19).
 
 **Integração do letramento em IA** incorpora competências de IA às disciplinas. O **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** fornece um framework de letramento em IA andaimentado, aplicável a todas as idades e etapas educacionais, abordando [[digital-divide|divisões digitais]] de segundo e terceiro nível. **[[tracing-genai-literacy-interaction-patterns]]** examina como o letramento em IA se desenvolve por meio de padrões de interação. **[[hingle-collaborative-ai-literacy-2025]]** explora abordagens colaborativas para o desenvolvimento curricular de letramento em IA, conectando-se à [[collaborative-learning|aprendizagem colaborativa]].
 
@@ -94,6 +100,12 @@ Estrutura, e não formulação de prompt, é o que torna o rascunho por IA confi
 
 O desenho curricular se conecta diretamente ao [[learning-design|desenho de aprendizagem]] — o currículo define o quê, a instrução define o como. Ele se conecta ao [[ai-literacy|letramento em IA]] porque incorporar competências de IA é um desafio curricular primordial, ao [[teacher-role|papel do professor]] e ao [[educational-development|desenvolvimento educacional]] porque a mudança curricular exige preparação do educador, e ao [[scaffolding|andaimento]] porque currículos bem desenhados andaimentam o desenvolvimento de habilidades ao longo dos cursos e dos anos. As conexões com [[higher-ed|ensino superior]] e [[k-12|K-12]] refletem a relevância do desenho curricular nos diversos níveis educacionais.
 
+## Ideias equivocadas comuns
+
+- **"Um LLM consegue mapear um currículo uma vez validado com alta confiabilidade."** O GPT-o3-mini distribuiu **100% entre sete habilidades empresariais para cada uma de 48 avaliações**, alcançando um **alfa de Krippendorff de 0,81** contra pesos de especialistas — e a **concordância** se desfez em habilidades particulares. Alta confiabilidade global com concordância desigual é o padrão a verificar antes de confiar no mapeamento.
+- **"Incorporar letramento em IA significa acrescentar um curso."** O LearnAI mostra a forma incorporada: uma **camada de ampla exposição de apresentações curtas dentro de 18 cursos existentes em cinco disciplinas (293 estudantes)**. A exposição foi distribuída pelo currículo, e não reunida em uma unidade.
+- **"Os estudantes chegam já capazes de avaliar a mídia criticamente."** Apenas **13,8% dos estudantes de educação e jornalismo pesquisados** disseram que seus trabalhos de curso abordavam análise crítica de mídia, contra **97,8% que a avaliaram como importante**. A lacuna entre valorizar uma habilidade e ser ensinado nela é a abertura curricular.
+
 ## Conceitos conectados
 - [[pedagogical-partnerships]] — Parcerias pedagógicas
 - [[business-education]]
@@ -115,6 +127,7 @@ O desenho curricular se conecta diretamente ao [[learning-design|desenho de apre
 - [[recommender-systems-and-learning-paths]]
 
 ## Artigos conectados
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Mapeamento de habilidades ponderado e validado por especialistas para acreditação
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Análise crítica do discurso da orientação sobre alinhamento construtivo com GenAI (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Abordando a confiança em sistemas de IA por meio da educação: uma perspectiva didática
 - [[refrain-amplify-genai-curriculum-2026]] — Framework curricular abster-depois-amplificar para sequenciar a GenAI (Torres-Sahli et al. 2026)

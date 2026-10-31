@@ -1,14 +1,14 @@
 ---
 title: Divisão digital
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-04T16:06:05-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-28T09:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -16,9 +16,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Divisão digital** — a distribuição desigual do acesso às [[ai-technologies|tecnologias]] digitais (e, cada vez mais, de IA), das habilidades para usá-las e dos benefícios que delas decorrem, entre indivíduos, comunidades e nações. Na educação com IA, a divisão digital é uma preocupação central de equidade: a [[generative-ai|IA generativa]] está rapidamente remodelando a aprendizagem, e a lacuna entre os que conseguem usá-la de forma eficaz e crítica e os que não conseguem ameaça aprofundar as desigualdades educacionais existentes.
 
@@ -72,10 +76,32 @@ A instrução escolar estruturada em IA é um catalisador psicológico, mas não
 - **A compressão de modelos é outra rota para hardware limitado.** Um tutor adaptativo de pidgin nigeriano ajustado em um corpus de 416.343 entradas manteve estrutura semântica e coerência em 8 bits, enquanto as versões de 4 e 5 bits cortaram a latência de inferência com degradação apenas mínima na qualidade instrucional, e falantes nativos verificaram a aceitabilidade cultural, e não apenas as métricas ([[multilingual-adaptive-learning-nigeria-2026|Nwogo et al., 2026)]]).
 
 - **Um laboratório simulado pode reproduzir a conta de equipamentos que ele deveria evitar.** Uma [[meta-analysis-systematic-review|revisão sistemática]] de 11 estudos de gêmeos digitais no ensino superior de STEM encontrou custos de hardware de \\$2.000-\\$15.000 por nó funcional de estação de trabalho em quatro estudos, com entidades físicas limitando o acesso a 1–3 estudantes simultâneos em cinco, e nenhum estudo incluído produziu uma análise de retorno sobre o investimento ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez et al. (2026)]]). A revisão usa como referência esse custo de entrada contra equipamentos físicos de caracterização que custam de \\$30.000 a mais de \\$150.000.
+- **Esta divisão pode ser mais rasa do que a da internet foi.** Pareando o uso de IA generativa de 2025 de cada país com o ano da internet de uso geral comparável, a lacuna educacional foi menor em 13 dos 16 países que puderam ser pareados, de 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 
 ### Conexões com conceitos relacionados
 
 A divisão digital é uma preocupação central da pesquisa em [[equity-in-ai-education|equidade na educação com IA]], estreitamente ligada ao [[ai-literacy|letramento em IA]] (posicionado como um mecanismo central para abordar barreiras estruturais), e à [[ethics|ética]] e à [[bias-mitigation|mitigação de viés]] (já que o viés algorítmico afeta desproporcionalmente grupos marginalizados). Ela se conecta a [[ai-education|IA na educação]] e ao [[higher-ed|ensino superior]] como os contextos em que as lacunas de acesso e de capacidade se manifestam, e se relaciona com a [[student-experience|experiência do estudante]] à medida que molda quem pode participar significativamente da aprendizagem moldada pela IA.
+
+## Ideias equivocadas comuns
+
+- **"O acesso à ferramenta é a divisão."** O acesso é a primeira camada, e a literatura já passou dela. **A habilidade de formulação é uma divisão de segundo nível própria**: no MedQA, a precisão subiu com a sofisticação do prompt, de **82,4% para redação de baixo letramento a 83,4% para formulação de especialista**, o que significa que dois estudantes com acesso idêntico obtêm qualidade diferente do mesmo modelo porque um sabe como perguntar. Uma camada de reescrita de prompts estreitou a lacuna — a divisão está na interface e na fluência do usuário, não apenas na assinatura.
+- **"Se roda no navegador, está disponível."** A maioria das ferramentas de LLM para aulas pressupõe **áudio em inglês monolíngue e internet confiável**, o que exclui exatamente as salas de aula que misturam inglês com uma língua materna. Os dados UDISE+ da Índia colocaram o acesso à internet nas escolas muito abaixo do nível que essa suposição exige. Uma ferramenta construída sobre uma infraestrutura pressuposta exclui silenciosamente os contextos com a necessidade mais forte.
+- **"Letramento digital e uso de IA são a mesma variável mediadora."** Um estudo com **4.497 estudantes do 6º ano** na Holanda separou **duas vias mediadoras distintas** — uso de IA e letramento digital — ligando histórico e personalidade a ganhos de aprendizagem. Elas não são intercambiáveis, e intervenções que elevam uma não elevam automaticamente a outra.
+- **"As simulações removem a barreira de custo."** Uma revisão sistemática de **11 estudos de gêmeos digitais** no ensino superior de STEM encontrou custos de hardware de **\\$2.000-\\$15.000** por instalação. Um laboratório simulado pode reproduzir a conta de equipamentos que deveria evitar, de modo que o argumento de custo para a provisão virtual precisa ser verificado, e não pressuposto.
+
+## O que isso significa na prática
+
+**Para instrutores**
+
+- Ensine prompting como letramento, não como truque opcional. Uma diferença de 1 ponto de acurácia entre redação de baixo letramento e formulação de especialista é pequena isoladamente, mas o mesmo mecanismo se acumula ao longo de cada tarefa que um estudante tenta.
+- Verifique as suposições de língua e de conectividade de qualquer ferramenta antes de atribuí-la. Áudio em inglês monolíngue exclui salas de aula bilíngues independentemente do acesso a dispositivos.
+- Distinga qual via você está de fato abordando. Elevar o uso de IA e elevar o letramento digital são intervenções diferentes, com resultados diferentes.
+
+**Para administradores e desenvolvedores**
+
+- Não trate a distribuição de dispositivos como fechamento da divisão. As lacunas mensuráveis estão na habilidade de formulação, na língua da interface e na conectividade, e nenhuma delas se resolve com hardware.
+- Publique a infraestrutura que uma ferramenta pressupõe. Um requisito declarado com clareza permite que um contexto com poucos recursos julgue a adequação antes de investir.
+- Calcule o custo da implantação completa, não o da licença de software. A evidência dos gêmeos digitais mostra que a conta de hardware pode sobreviver à virtualização.
 
 ## Conceitos conectados
 
@@ -91,6 +117,7 @@ A divisão digital é uma preocupação central da pesquisa em [[equity-in-ai-ed
 - [[parents-and-families]]
 
 ## Artigos conectados
+- [[watanabe-genai-education-gap-europe-2026]] — A lacuna educacional no uso de IA generativa é menor do que a da internet foi? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Estruturas institucionais, desigualdade digital e integração da IA no ensino superior nigeriano
 - [[ai-divide-ses-personality-primary-education-2026]] — NSE, personalidade e divisões da IA na educação primária (Wang et al. 2026)
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED desconectada: a tutoria com o professor como intermediário alcança estudantes sem dispositivo (Rodrigues et al. 2026)

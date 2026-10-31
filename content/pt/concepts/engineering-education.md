@@ -1,7 +1,7 @@
 ---
 title: Educação em engenharia
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-30T10:14:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Educação em engenharia** — o estudo de como os estudantes aprendem engenharia e como ensiná-la com eficácia, abrangendo como a IA transforma a pedagogia, a avaliação, o desenvolvimento docente e a força de trabalho em engenharia. Os artigos sobre educação em engenharia desta base de conhecimento se agrupam em torno de alguns temas: a [[engineering-faculty-metaphors-ai-understanding-2026|linguagem figurativa]] que os instrutores usam para dar sentido à IA, a [[ethical-use-ai-engineering-education-review-2026|governança ética]] do uso de IA, a [[multimodal-embodied-cognition-oral-explanations-2026|avaliação corporificada e multimodal]] da compreensão conceitual, e como a IA está remodelando a [[ai-engineering-computing-workforce-grey-literature-2026|força de trabalho em engenharia e computação]].
 
@@ -53,6 +57,8 @@ A pesquisa em educação em engenharia é distintiva porque fica na interseção
 - **IA para sustentabilidade, integrada em vez de modular.** O framework de quatro pilares AI-SEE (movido por inteligência, capacitado pelo verde, liderado pela responsabilidade, integrado à prática) distribui a IA pelo trabalho de curso de engenharia; em um caso de 144 estudantes de engenharia de transportes, os estudantes relataram engajamento nos níveis pessoal, acadêmico, profissional e social, com o raciocínio sobre sustentabilidade sendo levado para as famílias e as redes de pares ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **Um ateliê rico em ferramentas pode deprimir a autoeficácia sem melhorar o produto.** Em um ateliê de desenho arquitetônico com 27 estudantes, as equipes que usavam um pipeline de IA generativa mais [[virtual-and-augmented-reality|XR]] mostraram quedas pré–pós maiores na [[self-efficacy]] de desenho (β = −1,675) e na expectativa de resultado (β = −2,088) que os controles, enquanto um headset por estudante não produziu colaboração coordenada ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
 
+- **A escolha do modelo, não o prompting, define a confiabilidade do feedback sob contestação.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] construíram 200 problemas de treliça bidimensionais verificados e submeteram treze modelos a três posturas: resolver, confirmar uma solução correta que o estudante insiste estar errada, e localizar um erro injetado. A acurácia de resolução variou de 64,5% a 97,0%, e todos os modelos capturaram ao menos 90,4% dos erros injetados, de modo que nenhuma das duas separou os modelos; a resistência à contestação separou, variando de 46,5% a 98,5%. Para um curso de estática, o risco da tutoria não é uma resposta final errada, mas um modelo que concorda quando o estudante duvida incorretamente de um trabalho correto, e os autores observam que, se a confiabilidade acompanha os níveis pagos, o feedback que os estudantes recebem variará conforme o que sua instituição consegue licenciar.
+
 ## Preocupações características
 
 As preocupações características da educação em engenharia moldam como a IA é adotada: **aprendizagem prática e laboratorial** (e o que se perde quando a IA simula a prática), **formação profissional** (responsabilidade ética, segurança e impacto social), **desenho e resolução de problemas** (quanto trabalho cognitivo a IA deveria fazer) e **preparação baseada em competências para a força de trabalho**. Isso faz da educação em engenharia um rico campo de estudo sobre se a IA amplia ou desloca o trabalho cognitivo essencial à expertise profissional — em paralelo aos debates em [[physics-education|educação em física]], [[math-education|educação em matemática]] e [[cs-education|educação em computação]].
@@ -65,6 +71,8 @@ A educação em engenharia fica dentro do [[stem-education|STEM]] e se conecta f
 
 A cobertura de educação em engenharia desta base de conhecimento ainda está em desenvolvimento. Subáreas que se beneficiariam de mais artigos incluem as [[discipline-specific-aied|pedagogias específicas da disciplina]] de engenharia [[pedagogy|pedagógicas]] (mecânica, civil, química, elétrica, de software e de bioengenharia), o [[design-education|desenho]] e a educação maker, os projetos de conclusão de curso e a [[project-based-learning|aprendizagem baseada em projetos]], e a **educação em ética da engenharia** — onde o papel da IA tende a ser especialmente consequente.
 
+Essa lacuna já não está vazia em uma área: um programa de três anos em engenharia biomédica rodou a IA generativa como andaime protegido de sumarização de conhecimento e de programação dentro de uma sequência de PBL de quatro módulos — ferramentas aprovadas, nenhum dado de paciente, registros de divulgação — e relatou taxas de nota A de 66,4% contra 39,1% para as coortes anteriores à IA ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
+
 ## Implicações para instrutores de engenharia
 
 - **Construa uma linguagem compartilhada e precisa sobre IA.** A [[engineering-faculty-metaphors-ai-understanding-2026|pesquisa sobre metáforas do corpo docente]] constata que instrutores têm modelos mentais fundamentalmente diferentes (agente versus ferramenta); alinhe a compreensão departamental antes de formular política.
@@ -73,6 +81,12 @@ A cobertura de educação em engenharia desta base de conhecimento ainda está e
 - **Prepare os estudantes para a força de trabalho, não apenas para o curso.** O [[ai-engineering-computing-workforce-grey-literature-2026|Problema do Trem Duplo]] insta a competências duráveis em IA, ética/governança e credenciais baseadas em competências alinhadas aos papéis emergentes.
 - **Modele o uso crítico e a dependência apropriada.** A [[tam-critical-use-genai-engineering-2026|pesquisa de TAM com uso crítico]] mostra que os estudantes dependem intensamente da IA em tarefas de compreensão, mas menos em avaliação — oriente-os rumo a uma dependência apropriada e verificável nos diferentes tipos de tarefa.
 - **Ensine o uso de IA como habilidade dentro do tempo de aula.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] realizaram nove demonstrações conduzidas pelo instrutor, cada uma de 10–15 minutos no fim de uma aula e sequenciadas do letramento em ferramentas até a delegação estratégica e a avaliação de modelos —, mas estudantes que não viam conexão com a avaliação as relataram como redundantes, então amarre-as ao trabalho avaliado.
+
+## Ideias equivocadas comuns
+
+- **"A adoção de IA entre estudantes de engenharia é um problema de aceitação de tecnologia."** [[socio-cognitive-genai-adoption-engineering-2026|Asag e Al Mamun]] integram o TAM ao [[technology-acceptance-model|UTAUT]] para modelar a adoção de estudantes de engenharia de Bangladesh, **explicando 64% da** variância — de modo que uma parcela substancial fica fora dos construtos de aceitação, em fatores sociais e cognitivos que o modelo não cobre.
+- **"Os estudantes usam a IA para aquilo em que ela é melhor."** [[ai-engineering-education-balancing-act|Kudina (2026)]] constatou que **100 estudantes de engenharia** mais valorizavam os LLMs para **apoio à escrita**, e não para raciocínio de engenharia. Suas metáforas para a ferramenta superavam o que ela entregava, e seu uso real seguia a conveniência, e não a capacidade.
+- **"Um conjunto de ferramentas mais rico melhora os resultados de projeto."** Em um ateliê de projeto arquitetônico com **27 estudantes**, as equipes que usavam um pipeline de IA generativa mais [[virtual-and-augmented-reality|XR]] mostraram **autoeficácia deprimida sem um produto melhor**. A riqueza de ferramentas pode custar confiança sem alterar o artefato.
 
 ## Conceitos conectados
 
@@ -91,6 +105,7 @@ A cobertura de educação em engenharia desta base de conhecimento ainda está e
 - [[generative-ai]]
 
 ## Artigos conectados
+- [[apostolakis-trusstutor-bench-statics-2026]] — Benchmark de estática: resolução e detecção de erros saturam, a resistência à contestação não
 - [[mechanical-engineering-ai-curriculum-2026]] — Currículo de Educação em IA Baseado em Projetos em Engenharia Térmica
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — As metáforas do corpo docente de engenharia constroem (e constrangem) a compreensão da IA
@@ -100,7 +115,6 @@ A cobertura de educação em engenharia desta base de conhecimento ainda está e
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — Um framework multimodal para a cognição corporificada em explicações orais
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — A IA e o futuro da força de trabalho em engenharia e computação
 - [[ai-engineering-education-balancing-act]] — Usar IA na educação em engenharia: um ato de equilíbrio
-- [[ai-learning-tools-engineering-education-needs]] — Desenhando ferramentas de aprendizagem com IA sensíveis a necessidades e atenção para a educação em engenharia
 - [[structured-ai-demonstrations-engineering-mechanics]] — Demonstrações estruturadas de IA em Mecânica da Engenharia
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT na educação em engenharia
 - [[liu-ai-sustainable-engineering-education-2026]] — Framework AI-SEE para educação em engenharia sustentável (Liu et al. 2026)

@@ -1,19 +1,23 @@
 ---
 title: Cognição distribuída
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,6 +42,7 @@ Este é um conceito de teoria da aprendizagem dentro da vertente de [[learning-t
 Sistemas de IA generativos e interativos redistribuem o trabalho cognitivo de formas que ferramentas anteriores não conseguiam. A base de conhecimento documenta várias dimensões desse deslocamento:
 
 - **A IA como parceira cognitiva e correguladora.** A IA pode atuar como [[scaffolding|scaffold]], apoio metacognitivo, sistema de memória externa e parceira de decisão na co[[regulation|regulação]] do pensamento e da aprendizagem.([[ai-cognitive-partner-co-regulation-learning]]) Isso posiciona a cognição como corregulada entre estudante e sistema, e não gerenciada individualmente.
+- **O volume de uso da IA não revela qual forma de trabalho distribuído está acontecendo:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] constataram que os perfis baseados em volume de 97 aprendizes diferiam em conhecimento prévio e autoria, mas não no prompting de papel ativo ou de nível de compreensão, de modo que atividade compartilhada e divisão do trabalho podem acompanhar a mesma quantidade de uso.
 - **Redistribuição de agência e responsabilidade.** Frameworks como a **cognição de conjunto** (ensemble cognition) reconceitualizam o pensamento como emergente da interação dinâmica entre humano e [[student-ai-interaction|IA]], distinguindo a *agência funcional* da IA (sua capacidade de influenciar resultados sem consciência) da *responsabilidade moral* (que permanece humana).([[ensemble-cognition-philosophy-ai-education]]) A cognição distribuída reformula assim quem responde pela aprendizagem.
 - **A tensão entre eficiência e regulação.** O trabalho empírico mostra um trade-off: sistemas humano–IA que distribuem o raciocínio de forma mais eficiente (ex., via raciocínio delegado) alcançam desempenho mais alto em tarefas, mas podem reduzir o [[student-engagement|engajamento]] autorregulatório dos estudantes.([[hao-human-ai-collaborative-problem-solving-cognition]]) Essa é a face empírica dos riscos de [[cognitive-offloading|offloading cognitivo]] e de [[cognitive-offloading|Excesso de Dependência]] que a base de conhecimento documenta.
 - **Mediação na colaboração.** A IA pode atuar como *mediador [[pedagogy|pedagógico]]* que orquestra a interação, a construção de sentido epistêmico e os processos regulatórios na [[collaborative-learning|aprendizagem colaborativa]], redistribuindo agência, autoridade e responsabilidade entre atores humanos e não humanos.([[niari-ai-pedagogical-mediator-collaborative-learning]])
@@ -61,6 +66,12 @@ A cognição distribuída fornece tanto uma lente de desenho quanto uma lente de
 Fowlin et al. (2026) operacionalizam essa repartição como uma sequência de duas fases: construir primeiro as competências centrais sem IA, depois introduzir a IA como parceira cognitiva cujas sugestões os estudantes avaliam criticamente, para prevenir a desqualificação relacionada à automação ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Maestria internalizada versus distribuída.** O framework dos Bens Comuns Cognitivos ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distingue Maestria Internalizada (conhecimento profundo de domínio em mentes individuais) de Maestria Distribuída (orquestrar sistemas humano–IA) e argumenta que a segunda depende da primeira por meio de uma \"Amarra de Validação\": a supervisão eficaz de sistemas distribuídos/de IA pressupõe a expertise internalizada que esses sistemas podem minar. Isso aguça a questão de desenho da DCog — a distribuição da cognição não pode vir ao custo da expertise que a valida.
+
+## Ideias equivocadas comuns
+
+- **"Um documento compartilhado significa cognição compartilhada."** Perfis baseados em volume de **97 aprendizes** diferiam em **conhecimento prévio e autoria**, mas **não no prompting de papel ativo ou de nível de compreensão**. O volume de participação mediu exposição, não a distribuição do trabalho cognitivo — então a analítica de uso de uma ferramenta colaborativa diz pouco sobre quem estava pensando.
+- **"Todo mundo delega à IA da mesma forma."** Professores novatos **delegam uma grande parcela da carga cognitiva do desenho instrucional ao sistema de IA**, chegando a uma **distribuição dominada pela IA** em que aceitam em grande parte as respostas, enquanto professores experientes e com conhecimento de IA distribuem de outro modo. A expertise aparece em onde a carga é colocada, e não apenas em quanto de IA se usa.
+- **"Mais envolvimento da IA significa mais apoio."** Uma distribuição dominada pela IA é o padrão a vigiar, porque a parcela humana do trabalho cognitivo encolhe enquanto o volume de produto cresce. O sistema pode parecer mais capaz exatamente quando o usuário está fazendo menos.
 
 ## Conceitos conectados
 

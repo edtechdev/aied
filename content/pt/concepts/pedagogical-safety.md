@@ -1,7 +1,7 @@
 ---
 title: "Segurança pedagógica"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-02T08:08:45-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,18 @@ Projete a segurança pedagógica como exigência mensurável e consciente da dis
 ### Conexões com conceitos relacionados
 
 A segurança pedagógica é a camada protetiva que conecta [[hallucination-risk|risco de alucinação]], [[rag|RAG]], [[k-12|educação básica]], [[ethics|ética]], [[governance|governança]], [[regulation|regulação]] e [[llm|LLM]] às preocupações no nível da interação de [[trust|confiança]], [[scaffolding|andaime]], [[metacognition|metacognição]] e [[self-regulated-learning|aprendizagem autorregulada]]. Ela opera por meio de [[llm-training-and-fine-tuning|treinamento]] e [[reinforcement-learning|RL]], depende de [[bias-mitigation|mitigação de vieses]] e de [[equity-in-ai-education|equidade na educação com IA]], e é motivada pelos danos catalogados em [[ai-misuse-learning-harm|dano à aprendizagem por uso indevido de IA]] e nas [[hazra-safetutors-pedagogical-safety-2026|taxonomias de dano de tutores]].
+
+- **O dano a crianças raramente entra pelo modelo.** Em 1.331 incidentes de IA relacionados a crianças codificados, o dano se concentrou em categorias representacionais, de dignidade e psicológicas e coocorreu com falhas de implantação, governança e uso indevido, e não com defeitos do modelo, de modo que filtros por saída perdem a via dominante ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
+
+## Ideias equivocadas comuns
+
+**"Filtros de toxicidade e resistência a jailbreak tornam um tutor seguro."** A segurança convencional de [[llm]] é necessária, mas não suficiente para a educação. Ela trata do que um modelo vai *dizer*; a segurança pedagógica trata do que a interação faz com quem aprende, incluindo falhas que nenhum classificador de conteúdo consegue ver. Um tutor pode passar em todas as verificações de conteúdo enquanto corrói sistematicamente a aprendizagem ou consolida desigualdades.
+
+**"Se um sistema se comporta bem em uma única troca, ele é seguro em uso."** O risco se acumula ao longo dos turnos: as taxas de dano subiram de cerca de **18% em avaliações de turno único para cerca de 78%** nas de múltiplos turnos. Benchmarks de turno único, portanto, relatam um número quatro vezes mais tranquilizador do que a interação que os estudantes de fato têm, e uma suíte de red team construída sobre prompts isolados certificará um sistema que falha em uma sessão de dez minutos.
+
+**"O tutor mais seguro é o que mais recusa."** Um sistema que "recusa de forma homogênea" ainda pode entrincheirar a desigualdade, o que é a segunda metade da descrição da falha silenciosa nesta página. O modo de falha não é apenas um tutor que responde corretamente e corrói a aprendizagem; é também um tutor cujas recusas distribuem o apoio de forma desigual entre os estudantes, e uma política de recusa generalizada troca um risco visível por um invisível.
+
+**"Qualquer trabalho de segurança no nível do modelo é uma medida de relações públicas."** Parte dele é mensurável. O trabalho de [[llm-unlearning-math-privacy|desaprendizado em matemática]] aplica desaprendizado baseado em gradiente para remover informações identificáveis e conteúdo danoso, relatando saída de PII reduzida a **0,1%** e taxas de toxicidade a **0,0%** preservando a capacidade. Controles no nível do modelo são uma camada de uma defesa em camadas — insuficientes isoladamente, e não nada.
 
 ## Conceitos conectados
 - [[guardrails]] — os mecanismos de design que implementam a segurança

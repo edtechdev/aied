@@ -1,7 +1,7 @@
 ---
 title: Apoio e sucesso dos estudantes
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,9 +23,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Apoio e sucesso dos estudantes** — o trabalho do lado institucional de ajudar os estudantes a permanecer, progredir e concluir: **orientação acadêmica, assistência administrativa, alcance, encaminhamento e a alocação de apoio escasso**. Esta é a página sobre o que as instituições *fazem aos* estudantes, e não sobre o que acontece *dentro* de um curso. O [[higher-ed|ensino superior]] é o guarda-chuva mais amplo do setor, e a [[student-experience|experiência do estudante]] cobre como a IA incide sobre a experiência própria do estudante; os [[learning-gains|ganhos de aprendizagem]] medem se a aprendizagem aconteceu. O achado distintivo nesta base de conhecimento é que o apoio por IA move de forma confiável a **conclusão de tarefas** — uma ação datada e binária que o estudante controla e a instituição pode observar —, ao mesmo tempo que deixa **persistência, créditos e graduação** amplamente intocados. Separar esses resultados é o objetivo desta página.
 
@@ -88,6 +92,16 @@ A durabilidade nesta literatura é uma propriedade organizacional, e não técni
 ## Conexões com conceitos relacionados
 
 O apoio aos estudantes conecta-se à [[student-experience|experiência do estudante]] como a contraparte voltada ao estudante — as mesmas tecnologias vistas do lado do estudante, e não da instituição — e à [[help-seeking|busca de ajuda]] pelo mecanismo pelo qual os estudantes que precisam de apoio de fato o obtêm; o alcance e os assistentes específicos de curso são ambos tentativas de baixar o custo de pedir. A [[learning-analytics|analítica de aprendizagem]] é dona da predição que alimenta a alocação, [[student-modeling|modelagem do estudante]] e [[knowledge-tracing|rastreamento de conhecimento]] dos modelos sob ela, e [[recommender-systems-and-learning-paths]] da camada de recomendação. Ela se conecta ao [[well-being|bem-estar]] pelos sistemas de saúde mental e prevenção no campus, ao [[career-development-and-readiness|desenvolvimento de carreira e preparo]] como o resultado que segue a conclusão, à [[equity-in-ai-education|equidade na IA na educação]] e à [[privacy|privacidade]] pelos riscos de agir sobre pontuações, e a [[administrator|administradores]], [[stakeholders|partes interessadas]] e [[change-management]] como os papéis e processos que decidem se algo disso é sustentado. Os [[learning-gains|ganhos de aprendizagem]] são o nó de mensuração adjacente: os resultados desta página são administrativos, e não instrucionais, e os dois não se movem juntos.
+
+## Ideias equivocadas comuns
+
+**"Prever quais estudantes vão ter dificuldades é a intervenção."** A predição é o insumo do apoio e não é apoio. O corpus separa isso deliberadamente: um lembrete de matrícula e um programa de retenção são intervenções diferentes, com evidências diferentes, e a pesquisa sugere que uma não compra a outra. Um painel de alerta precoce que termina em uma pontuação acrescentou medição sem acrescentar ajuda.
+
+**"Um programa de retenção que elevou a persistência prova que a IA funcionou."** Ele prova que o programa funcionou, e a camada de IA precisa ser avaliada separadamente do alcance que ela dispara. Um estudo randomizado de quatro anos do CSUNny, um chatbot de mensagens de texto não generativo na California State University, Northridge, acompanhou **duas coortes de graduandos (N = 8.708)** ao longo de **oito semestres** com **taxas anuais de saída nunca superiores a 4%** — um resultado forte de receptividade sobre *mensagens*, e não evidência de que um sistema generativo ou preditivo alcançaria o mesmo.
+
+**"A escada de resultados colapsa: engajamento é retenção."** Cada degrau mede algo diferente — aderir, responder, persistir, concluir — e um programa pode mover os degraus inferiores deixando os superiores planos. Relatar a parcela responsiva como sucesso comete precisamente essa substituição.
+
+**"Uma preocupação de equidade é razão para parar de usar os dados."** É razão para agir com cuidado sobre as pontuações. Agir sobre um preditor pode distribuir apoio e pode distribuir suspeita, e o risco se concentra nos estudantes que o modelo classifica de forma menos favorável — o que faz do remédio a governança do uso, e não o abandono da medição.
 
 ## Conceitos conectados
 

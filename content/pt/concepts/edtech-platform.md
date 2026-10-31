@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Plataforma Edtech
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Plataforma Edtech** — os sistemas digitais, sistemas de gestão de aprendizagem (LMS), sistemas de tutoria e ambientes de aprendizagem online por meio dos quais a IA é entregue a aprendizes e educadores. Na IA na educação, a plataforma é a *camada de infraestrutura* que determina se uma capacidade de IA chega aos estudantes, como ela é implantada (aberta vs. proprietária, integrada vs. autônoma) e quem pode acessá-la, adaptá-la e avaliá-la. A pesquisa nesta base de conhecimento examina plataformas de múltiplos ângulos: seu design, suas restrições de adoção e engajamento, sua governança institucional e suas implicações de equidade. ([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
@@ -90,6 +94,16 @@ A privacidade pode ser embutida no pipeline em vez de na política: um detector 
 5. **Explique recomendações na linguagem de domínio do professor.** Os recursos de IA de uma plataforma ganham confiança e adoção quando suas explicações são compreensíveis e pedagogicamente significativas: em um experimento within-subject com uma ferramenta de recomendação de agrupamento por IA (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] descobriram que explicações dirigidas pelo domínio, formuladas na linguagem curricular, aumentaram a compreensibilidade, a confiança e a aceitação dos professores significativamente mais que explicações cruas de importância de features — e que o uso real em sala de aula ainda importava para a aceitação plena. ([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Separe o sistema que produz evidência do que a avalia.** Quando agentes podem completar um curso em nome de um aprendiz, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]] argumenta que uma plataforma deve emitir evidência contemporânea e inspecionável do raciocínio do aprendiz e não deve ser seu único avaliador — o ambiente, o emissor e o verificador devem ser independentes. ([[credentials-carry-evidence-ai-agents-2026]])
 7. **Gere representações em tempo de design, não em tempo de execução.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] argumentam que a adaptação em tempo de execução não pode ser verificada em escala e propõem codificar conteúdo como cartões semânticos agnósticos de modalidade, a partir dos quais variantes interativas, de áudio, de texto simplificado e de baixa largura de banda são geradas e aprovadas pelo instrutor antes do lançamento — eliminando o custo de inferência por aprendiz, embora nenhum protótipo seja reportado.
+
+## Ideias equivocadas comuns
+
+**"Se uma plataforma é eficaz em princípio, os estudantes vão usá-la."** Capacidade e adesão são problemas separados, e a adesão costuma ser o limitante. Em um RCT por clusters de dois anos, **96% dos estudantes experimentaram o Khanmigo** — adoção quase universal — e ainda assim o estudante mediano lhe enviou mensagens em apenas **17% das sessões em que cometeu um erro**, exatamente o momento para o qual a ferramenta foi construída. Uma plataforma que registra a turma não a transformou.
+
+**"A adoção se mede por logins."** A lacuna informativa está no nível da mensagem, não da conta. Naquele mesmo ensaio, apenas **~14,5% das mensagens carregavam uma questão matemática genuína**. Noventa e seis por cento dos estudantes geraram o evento de acesso; aproximadamente um em cada sete de suas interações fez o trabalho intelectual. Relatar um número de logins aqui teria descrito um sucesso que não existia.
+
+**"Aberto versus proprietário é um detalhe de licenciamento que não afeta os resultados."** O modelo de plataforma molda o que as instituições conseguem fazer com o sistema: plataformas [[open-source|abertas]] como a OATutor — um tutor adaptativo com licença MIT, uma biblioteca de conteúdo de álgebra em Creative Commons, estimativa de domínio por [[knowledge-tracing|rastreamento de conhecimento]] e testes A/B embutidos — permitem que um departamento instrumente e modifique sua própria pedagogia, o que uma plataforma fechada não permite. A licença determina quem pode conduzir o experimento.
+
+**"Uma plataforma que funciona em uma instituição funcionará como adotada em outra."** Os efeitos de plataforma passam pela governança local: arquitetura que prioriza privacidade, minimização de dados, registros auditáveis e acesso baseado em papéis são o que torna uma plataforma integrada a IA implantável, e são decisões institucionais, não recursos que se possam inferir de uma demonstração de fornecedor.
 
 ## Conceitos conectados
 

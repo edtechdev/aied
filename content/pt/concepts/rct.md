@@ -1,7 +1,7 @@
 ---
 title: "ECA (ensaio controlado aleatorizado)"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-01T20:35:10-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,9 +44,11 @@ A randomização é o que distingue um RCT de outros designs: ao atribuir aleato
 
 - **Micro-RCTs como resposta à tecnologia em rápido movimento:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] argumentam que ensaios convencionais de larga escala não conseguem acompanhar [[edtech-platform|plataformas]] de tutoria que mudam materialmente durante um estudo, e usam micro-ensaios controlados randomizados conduzidos por [[teacher-role|professores]] em escolas secundárias inglesas (644 de 929 estudantes completando o pós-teste, g = 0,33) para manter a estimação causal repetível. Os trade-offs estão declarados em seu próprio design: 30,7% de atrito, resultados alinhados ao [[curriculum-design|currículo]] em vez de padronizados independentemente, e apenas quatro semanas de acompanhamento.
 - **Afirmações de eficácia causal:** os RCTs em AIED testam se um tutor, ferramenta ou tratamento pedagógico de IA melhora os resultados. [[generative-ai-education-productivity-gaps|Um experimento randomizado sobre IA generativa]] com 1.174 participantes descobriu que a GenAI reduz substancialmente as lacunas de produtividade baseadas na educação, fechando cerca de três quartos da diferença inicial de desempenho — uma estimativa causal clara do efeito da IA.
+- **Um resultado medido após um intervalo, e não ao final da sessão.** Randomizando 120 [[higher-ed|graduandos]] para estudo assistido por IA ou tradicional dos mesmos tópicos e testando a retenção 45 dias depois, o grupo assistido por IA pontuou 57,5% contra 68,5%, uma diferença de cerca de 11 pontos percentuais ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
 - **Comparação com o padrão-ouro:** a página de [[research-methods-aied|métodos de pesquisa]] situa os RCTs como o design mais forte para validade interna, ao mesmo tempo que nota seus trade-offs — custo, condições artificiais, IA que muda rapidamente, amostras pequenas e subpotentes, e limites éticos para reter ferramentas potencialmente úteis.
 - **Um ensaio projetado para equivalência, e não para diferença.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] randomizaram 2.383 adultos para tutoria com IA, tutoria humana ao vivo ou um controle de vídeo, escreveram novos itens de GRE com ex-desenvolvedores de testes da ETS e da Kaplan para manter a contaminação do teste publicado fora, contrabalançaram as duas formas e testaram a equivalência com dois testes unilaterais contra ±0,25 DP em vez de uma diferença — as escolhas de design que tornam "nenhuma diferença significativa" um resultado interpretável.
 - **Randomização por grupo, baixa adoção e o que uma estimativa de intenção-de-tratar significa então.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] randomizaram 2.379 graduandos em 13 blocos atribuindo *instrutores* em vez de estudantes, de modo que cada estudante de uma turma herdava a condição daquele instrutor — o design que torna um ensaio de implantação em múltiplas turmas viável, e o que cria os problemas de inferência que o estudo então documenta. Apenas cerca de 15% dos estudantes nas turmas tratadas usaram alguma vez a ferramenta, de modo que os efeitos relatados estimam *oferecer* acesso em vez de usá-lo; os autores leem a intervenção como o uso mais amplo de IA que sua introdução induziu, e tratam as sessões individuais como uma questão separada. Como o tratamento foi atribuído no nível do instrutor, a inferência repousa sobre 34 clusters — um cenário em que erros padrão robustos a clusters superestimam a precisão —, de modo que o artigo relata a inferência por randomização ao lado deles e descobre suas conclusões robustas. Os dois efeitos principais, uma queda de 0,37 DP nas notas finais na amostra de correspondência exata e uma queda de 0,90 DP na participação registrada na plataforma em ambas as amostras, são consequências em nível de turma que uma randomização por estudante da mesma ferramenta não poderia ter isolado sem contaminação entre colegas tratados e de controle.
+- **Uma ferramenta escolar voluntária ainda consegue mover a carga de trabalho numa dose de 7%.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]] randomizaram 464 professores em 108 escolas primárias inglesas no nível da escola. O tempo de preparação ficou em 0,76 do grupo de comparação (IC 95% 0,64 a 0,89), embora a ferramenta cobrisse 7% das aulas e o uso tenha caído ao longo das dez semanas, de modo que a estimativa delimita o que oferecê-la fez pela carga de trabalho, e não o que a adoção plena faria.
 - **A adoção limita o que um ensaio pode testar, e o apoio ao engajamento não é dosagem.** [[access-not-enough-ai-tutoring-2026|Robinson et al. (2026)]] rodaram dois RCTs de plataforma de leitura nos quais apenas 60,7% e 53,3% dos estudantes de controle usaram alguma vez a plataforma; um tutor de engajamento elevou as histórias lidas em 71–80%, mas não produziu ganho de desempenho, consistente com os 2–5 minutos por semana alcançados.
 - **Escala que converte nulos em evidência.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] acompanharam 8.708 estudantes ao longo de oito semestres com poder para detectar efeitos de 0,05 DP e descobriram movimentos grandes e imediatos em tarefas binárias datadas — 34 pontos percentuais a mais de registro até 16 de agosto após um único lembrete —, enquanto desempenho acadêmico, persistência e graduação não mostraram efeito detectável. A escala é a lição de design: com esse N, os nulos acadêmicos são resultados precisos, e não falhas de detecção, o que é o que licencia a conclusão de que uma ferramenta de comunicação move o que ela pode abordar, e não resultados cumulativos de aprendizagem.
 - **Uma média nula pode mascarar heterogeneidade com sinais opostos.** Um RCT pré-registrado que randomizou 538 professores em 24 escolas turcas no nível de departamento escolar descobriu que o desempenho caiu 0,129 DP entre professores abaixo da mediana, enquanto subiu 0,054 entre os acima da mediana, e a motivação caiu 0,111 DP, com um exame comprimido por efeito teto (média de controle 89,2/100) limitando o poder. ([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]]))
@@ -57,6 +63,12 @@ A randomização é o que distingue um RCT de outros designs: ao atribuir aleato
 
 Para o tratamento mais completo do design experimental na IA na educação — incluindo quando um RCT é apropriado versus quase-experimental, de survey ou computacional — veja [[research-methods-aied]].
 
+## Ideias equivocadas comuns
+
+- **"A randomização garante uma estimativa válida do que a ferramenta faz."** A randomização equilibra confundidores; ela não garante que alguém tenha usado o tratamento. Um ensaio randomizado por grupo com baixa adoção estima **o efeito de oferecer** a ferramenta, e intenção-de-tratar e efeito-do-tratamento-no-tratado respondem a perguntas diferentes.
+- **"Um ensaio grande é sempre o design melhor."** Alguns argumentam que ensaios convencionais de larga escala **não conseguem acompanhar plataformas de tutoria que mudam materialmente durante um estudo**, e usam em vez disso designs conduzidos por professores que permanecem válidos à medida que o sistema evolui. Um ensaio de um alvo móvel pode ter poder adequado e ainda assim medir um sistema que já não existe.
+- **"RCTs e evidência observacional são substituíveis."** Um RCT com **1.174 participantes** constatou que a GenAI **fechou cerca de três quartos de uma lacuna de produtividade baseada na educação** — uma afirmação causal precisa sobre um período específico. A observação explica mecanismo e adoção; ela não consegue carregar essa estimativa, e o RCT não consegue explicar o porquê.
+
 ## Conceitos conectados
 
 - [[research-methods-aied]]
@@ -69,9 +81,11 @@ Para o tratamento mais completo do design experimental na IA na educação — i
 
 ## Artigos conectados
 
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — O tempo de planejamento de aulas caiu para 0,76 do grupo de comparação em 108 escolas primárias, numa dose de 7% de uso da ferramenta
 - [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Um resultado medido após um intervalo, e não ao final da sessão

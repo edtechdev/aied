@@ -1,13 +1,13 @@
 ---
 title: Aprendizagem Experiencial
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -15,9 +15,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **A aprendizagem experiencial** — a aprendizagem por meio da experiência direta, da reflexão e da aplicação do conhecimento em contextos autênticos ou práticos ("aprender fazendo"). Recorrendo ao ciclo de aprendizagem experiencial de Kolb (experiência concreta, observação reflexiva, conceituação abstrata, experimentação ativa), as abordagens experienciais enfatizam que os aprendizes aprendem mais profundamente quando agem, observam os resultados e refletem. Na [[ai-education|educação com IA]], a aprendizagem experiencial inclui laboratórios práticos, trabalho baseado em projetos, [[educational-robotics|robótica]], [[simulation|simulações]] e [[problem-solving|resolução de problemas]] do mundo real.
 
@@ -38,6 +42,7 @@ A aprendizagem experiencial está intimamente relacionada ao [[active-learning|a
 - **Laboratórios de cibersegurança:** a [[genai-cybersecurity-ocr-multimodal-instruction-2025|instrução de cibersegurança assistida por LLM]] integra um assistente instrucional de [[generative-ai|IA generativa]] a uma plataforma de laboratório virtual, apoiando a construção experiencial de habilidades práticas.
 - **Projetos de robótica:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] usa uma abordagem baseada em projetos e prática para ensinar robótica, abordando a falta de experiência prática em programas clássicos.
 - **Simulação e aprendizagem incorporada:** o [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] permite que iniciantes experimentem com robôs simulados, e a interação com robôs [[embodied-learning|incorporada]] ancora a aprendizagem na experiência direta.
+- **Um laboratório virtual pode superar o físico quando o aparato não é o ponto.** Estudantes do 9º ano, no estudo da lei de Ohm, pontuaram 23,45, 20,51 e 16,57 de 30 no laboratório virtual apoiado por IA, no mesmo laboratório sem IA e no laboratório físico, com todos os pares significativos ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li e Ahmad (2026)]]); os autores admitem que a desvantagem do laboratório físico pode diminuir onde manusear o aparato é ele mesmo o objetivo.
 - **IA como infraestrutura para a incerteza, não para a eficiência.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] dão a um papel de IA generativa a função de gerar eventos disruptivos e consequências em cascata em uma simulação de negócios, para que as equipes revisem planos sob informação incompleta, e advertem que simulações protegidas podem deixar hábitos de decisão que se tornam um passivo fora da sala de aula.
 
 ### Duas formas de aprendizagem prática em um currículo apoiado por IA
@@ -47,6 +52,33 @@ Uma revisão temática de 32 estudos revisados por pares de aprendizagem prátic
 A aprendizagem experiencial se conecta ao [[active-learning|aprendizado ativo]], à [[project-based-learning|aprendizagem baseada em projetos]], à [[embodied-learning|aprendizagem incorporada]], à [[simulation|simulação]], à [[educational-robotics|robótica educacional]] e à preparação profissional no [[higher-ed|ensino superior]].
 
 A experiência integrada ao trabalho pode ser a condição limitante para competência avançada: em 89 projetos de conclusão patrocinados em um laboratório de manufatura inteligente, o avanço do Workforce Readiness Level 6 para o 7 foi restrito por colocações inseridas na indústria, e não por coursework adicional ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+## Ideias equivocadas comuns
+
+**"Aprendizagem experiencial significa atividade prática."** A atividade é a superfície; o mecanismo de aprendizagem é o ciclo de fazer, refletir, conceituar e testar. Uma sessão de laboratório sem reflexão estruturada produz familiaridade, e não mudança conceitual, e é por isso que "acrescentamos um componente prático" não é evidência de aprendizagem experiencial.
+
+**"A IA pode substituir a experiência na aprendizagem experiencial."** Ela pode simular alguns sistemas e não consegue fornecer a experiência que forma competência em domínios aplicados como IA, cibersegurança e robótica, onde os estudantes desenvolvem habilidade trabalhando com as ferramentas e sistemas reais. Um ambiente de segurança simulado ensina procedimento; um sistema em funcionamento ensina a consequência de uma configuração errada.
+
+**"Tarefas mais autênticas são simplesmente melhores."** A autenticidade eleva o valor de transferência e o problema de avaliação ao mesmo tempo: sistemas reais produzem evidência variável e difícil de corrigir, e quanto mais autêntica a tarefa, menos o resultado se parece com uma nota. O desenho precisa sustentar as duas coisas, e é por isso que a estrutura de reflexão pesa tanto quanto a tarefa.
+
+**"A tutoria por IA se encaixa na aprendizagem experiencial como se encaixa no conteúdo expositivo."** O encaixe é mais fraco, porque um tutor pode fornecer explicação e não pode fornecer o encontro com o sistema. Seu lugar natural nesta pedagogia é ao redor dos estágios de reflexão e conceituação, quando quem aprende está dando sentido ao que aconteceu — e não no lugar do fazer. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] geram o encontro em vez de roteirá-lo: a partir dos objetivos de quem aprende, o GELLI constrói cenas situadas com personagens, apoio e reflexão em tempo de execução, e em um estudo within-subjects com 40 aprendizes japoneses superou vídeos criados por especialistas em recordação de vocabulário (d = 0,45) e confiança (d = 0,45), mas não em fala.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Estruture o ciclo, e não a atividade: fazer, depois refletir, depois conceituar, depois testar em uma situação nova. Uma sessão que para depois do fazer produziu familiaridade, não aprendizagem.
+- Acrescente o componente prático onde o conceito é abstrato e remova-o onde o prático se tornou o curso inteiro. O fazer é um meio com custo em tempo e benefício em transferência, e a proporção é uma decisão de desenho.
+- Reserve a IA para o estágio de reflexão, em que quem aprende está dando sentido ao que aconteceu.
+
+**Para desenvolvedores**
+
+- Construa prompts de reflexão e um registro do que quem aprende fez, para que o estágio de construção de sentido tenha material e a evidência seja auditável.
+- Não apresente uma simulação como substituta de operar um sistema real em domínios onde a consequência do erro é o próprio currículo.
+
+**Para desenhistas de programas**
+
+- Verifique se os programas aplicados contêm trabalho aplicado, e não substitutos de laboratório; a alegação de transferência depende da autenticidade do encontro.
 
 ## Conceitos conectados
 
@@ -74,3 +106,6 @@ A experiência integrada ao trabalho pode ser a condição limitante para compet
 - [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
+- [[gelli-experiential-language-learning-2026]] — GELLI: um gerador de interações experienciais para a aprendizagem de línguas (Symonette et al. 2026)
+
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratório virtual apoiado por IA para aprendizagem de física invertida: efeitos no desempenho, na motivação e na carga cognitiva de estudantes do ensino fundamental II

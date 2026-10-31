@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desenvolvimento educacional
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-07T13:40:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Desenvolvimento educacional** (também conhecido como *desenvolvimento docente*) — os processos, programas e apoios institucionais que ajudam os educadores a desenvolver as habilidades, a confiança e a [[learner-identity|identidade profissional]] para ensinar bem com IA. O desenvolvimento educacional abrange a formação individual, o redesenho de [[curriculum-design|currículo]], a mudança de [[educational-policy-ai|política institucional]] e o trabalho cultural de dar sentido ao que a GenAI significa para a profissão acadêmica.
 
@@ -74,7 +78,7 @@ Nessa concepção, os docentes que perguntam "qual é o sentido de ensinar em um
 
 ### Orientação prática para desenhistas de programas
 
-Para desenvolvedores docentes, líderes acadêmicos e [[stakeholders|desenhistas instrucionais]] que planejam [[professional-training|desenvolvimento profissional]] em IA, a evidência da base de conhecimento sugere:
+Para desenvolvedores docentes, líderes acadêmicos e [[stakeholders|desenhistas instrucionais]] que planejam [[educational-development|desenvolvimento profissional]] em IA, a evidência da base de conhecimento sugere:
 
 **Aborde os quatro vetores da adoção, e não apenas o conhecimento.** Confiança, atitudes, apoio e preocupações predizem se os docentes de fato adotam a IA — uma oficina focada apenas em conhecimento que ignora esses fatores provavelmente não mudará a prática. Desenhe o desenvolvimento para construir confiança por meio do uso prático, forneça apoio contínuo (não formação pontual) e exponha e responda ativamente às preocupações dos docentes. ([[teacher-ai-adoption-confidence]])
 
@@ -86,6 +90,8 @@ Confiança e letramento não são alvos intercambiáveis: em um MEE de 502 respo
 
 **Trate a prontidão como um problema de alinhamento sociotécnico.** O [[sangwa-epiq-ai-faculty-readiness-2026|framework EPIQ-AI]] mostra que a prontidão dos docentes abrange os domínios epistêmico, pedagógico, institucional e de qualidade-e-conformidade. Programas que treinam apenas o indivíduo deixam de fora as alavancas institucionais (política, carga de trabalho, incentivos, padrões de qualidade) que habilitam ou bloqueiam a mudança — alinhe-as junto com a formação. ([[sangwa-epiq-ai-faculty-readiness-2026]])
 **Não iguale investimento em infraestrutura a transformação.** Ao longo de 125 estudos, o investimento institucional em infraestrutura de GenAI e em desenvolvimento educacional se correlacionou apenas fracamente com a mudança pedagógica real (r = 0,12), enquanto 60–70% dos instrutores se sentiram despreparados para integrar a GenAI — tornando o desenvolvimento, e não a compra, a restrição vinculante. ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+
+**Nomeie o modo de falha, não apenas o tamanho do efeito.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe e Martínez-Pérez (2026)]] chamam isso de inovação simulada: a presença da ferramenta sinaliza progresso, os formatos de ensino e avaliação permanecem intactos, taxas de adoção e painéis substituem a aprendizagem, e o ciclo de lançamento da tecnologia define a direção. Seu diagnóstico pede que um programa de desenvolvimento justifique cada ferramenta contra um problema de aprendizagem nomeado antes da adoção.
 
 **Construa rumo ao redesenho curricular, e não à adoção de ferramentas.** O objetivo são os docentes redesenhando cursos e avaliação, e não apenas acrescentando ferramentas de IA. Fundamente o desenvolvimento profissional no trabalho de redesenho no nível do curso e na reforma da avaliação, e dê aos docentes frameworks estruturados para fazê-lo (por exemplo, [[ai-assessment-scale-reform|escalas de avaliação]], [[institutional-change-framework-ai|frameworks de mudança institucional]]). ([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -174,3 +180,4 @@ Confiança e letramento não são alvos intercambiáveis: em um MEE de 502 respo
 
 - [[faculty-ai-well-being-social-supports-2026]] — O bem-estar docente com IA acompanha o letramento em IA, e não a autoeficácia tecnológica
 - [[ai-competence-framework-landscape-2026]] — Verifique o que os níveis de um framework descrevem antes de adotá-lo
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — A educação pode definir a agenda da IA? Inovação simulada e direcionamento pedagógico na formação de professores

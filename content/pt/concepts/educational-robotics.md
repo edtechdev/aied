@@ -1,7 +1,7 @@
 ---
 title: Robôs na educação
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-01T09:59:02-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,13 +11,17 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -71,12 +75,19 @@ Duas vertentes moldam o lado social da robótica na educação.
 - **Dois paradigmas para aprendizes jovens: robôs de codificação e robôs sociais generativos.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li e Lee (2025)]] enquadram a robótica na primeira infância como o emparelhamento de dois paradigmas [[pedagogy|pedagógicos]], cada um com uma base teórica distinta. **Robôs de codificação** (Bee-Bot, KIBO, Matatalab) descendem do LOGO de Papert e incorporam o [[constructivist|construcionismo]] — as crianças aprendem fazendo e constroem [[computational-thinking|pensamento computacional]] por meio da programação tangível. **Robôs sociais generativos**, movidos por [[generative-ai|IA generativa]], estão fundamentados no [[sociocultural-learning|socioconstrutivismo]], atuando como pares ou tutores conversacionais que [[scaffolding|scaffold]] a aprendizagem dentro da Zona de Desenvolvimento Proximal da criança e apoiam o desenvolvimento socioemocional. Sua abordagem em cinco passos chamada **Creative Project Approach** para integrar ambos os tipos de robô na Abordagem por Projetos mantém os professores como facilitadores que guiam a interação criança–robô, equilibram automação com [[creativity|criatividade]] e preservam a [[agency|agência]] da criança.
 
 - **O que a robótica de pensamento computacional no jardim de infância realmente faz.** Uma revisão sistemática de 53 estudos descobriu que aprendizagem baseada em problemas, contação de histórias e scaffolding foram as estratégias mais frequentemente usadas, com a maioria dos estudos não nomeando nenhum framework de pensamento computacional e usando ferramentas de avaliação ad hoc em vez de um instrumento validado como o TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou e Sapounidis (2026)]]).
+- **Planejamento por LLM em vez de conversa.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] usa um modelo de visão-linguagem para converter fotografias de Shoebox Tasks — atividades visualmente estruturadas usadas com aprendizes no espectro autista — em um problema PDDL que um humanoide Nao executa ou demonstra, com a correção do plano pontuada em seis tarefas, e não em qualquer resultado de aprendizagem.
 
 ### Incorporação e pedagogia
 
 Um tema definidor é que os robôs são eficazes quando apoiam objetivos genuínos de aprendizagem — não como exercícios técnicos isolados. Um projetor robótico de mesa empatado com o ChatGPT de laptop enquanto havia ajuda disponível (6,7 vs. 7,3/10, p = ,41), mas manteve sua nota após a retirada da ajuda (7,0 vs. 4,4/10, p = ,003), uma nota de transferência de curto prazo 60% maior — um ganho dependente da tarefa que os autores atribuem à colocação espacial conjunta em vez de à substituição geral ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). O valor de um robô depende do contexto pedagógico: ensinar pensamento computacional ([[computational-thinking]]), apoiar [[stem-education|STEAM]], construir habilidades de [[cs-education|programação]], motivar estudantes ([[motivation]], [[student-engagement|engajamento]]), ou apoiar [[social-emotional-learning]] e [[equity-in-ai-education|inclusão]]. A robótica também se conecta a [[project-based-learning]], [[game-based-learning]] e [[experiential-learning]]. Considerações-chave de desenho incluem preservar a [[agency|agência]] do estudante, construir [[trust|confiança]], apoiar a [[self-efficacy|autoeficácia]] e ancorar a aprendizagem na [[embodied-learning|interação incorporada]]. Na [[language-learning|aprendizagem de línguas]], a [[robot-assisted-language-learning-meta-analysis-2026|evidência metanalítica]] aponta para a eficácia da aprendizagem de línguas assistida por robôs incorporados.
 
 - **Caminhos para aprender robótica com IA.** [[educational-robotics-pathways-2026|Um estudo qualitativo]] de estudantes do ensino médio num currículo de robótica+IA descobriu aprendizagem por prática no mundo real, desenho e expressão criativa lúdica (lente construcionista, epistemológico-pluralista).
+
+## Ideias equivocadas comuns
+
+- **"A robótica ensina pensamento computacional por ser robótica."** Uma revisão sistemática de **53 estudos** descobriu que **aprendizagem baseada em problemas, contação de histórias e andaimento** eram as estratégias mais usadas — a pedagogia carregou o resultado, e é isso que os estudos de fato fizeram.
+- **"Robôs físicos superam alternativas em tela em todos os aspectos."** Os ganhos foram **dependentes da tarefa**: uma nota de transferência de curto prazo **60% maior** para [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4,4/10, p = ,003), que os autores atribuem à **colocação espacial conjunta em vez de à substituição geral**. A afirmação é sobre co-localização em tarefas específicas, não sobre fisicalidade em geral.
+- **"O pensamento computacional no jardim de infância é cedo demais para significar algo."** A evidência revisada cobre diretamente a robótica no jardim de infância, o que significa que a faixa etária é estudada em vez de presumida inadequada.
 
 ## Conceitos conectados
 - [[early-childhood-elementary-ai-education]] — Educação em IA na primeira infância e no ensino fundamental
@@ -130,3 +141,4 @@ Um tema definidor é que os robôs são eficazes quando apoiam objetivos genuín
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: um framework baseado em hubs que trata a capacidade de mentoria técnica e a geografia dos hubs, e não o hardware, como a restrição dos programas rurais de robótica do K–12 (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Ensinando aprendizado por reforço e robótica humanoide a estudantes do ensino médio: um desenho curricular validado por especialistas numa plataforma aberta de baixo custo
 - [[aifred-desk-robotic-ai-guidance-2026]] — Um projetor robótico de mesa: a orientação colocada no mesmo local preservou a transferência onde o ChatGPT de laptop a perdeu
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Um modelo de visão-linguagem planeja Shoebox Tasks para um robô Nao (Kudláčková 2026)

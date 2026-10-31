@@ -1,20 +1,24 @@
 ---
 title: IA generativa
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,15 +54,19 @@ Um censo do uso de ferramentas por educadores mostra a atenção concentrada na 
 
 ### A cobertura de IA generativa da base de conhecimento
 
-Com mais de 80 artigos, a IA generativa é o maior fio de tecnologia da base de conhecimento. A pesquisa abrange estudos de eficácia ([[genai-meta-analysis-programming-learning|meta-análises]]), preocupações de segurança ([[hazra-safetutors-pedagogical-safety-2026|danos dos tutores]], [[eduguard-safe-rag-llm-tutor|salvaguardas]]) e princípios de desenho ([[instructional-guidance-genai-learning|orientação instrucional]]).
+Com mais de 80 artigos, a IA generativa é o maior fio de tecnologia da base de conhecimento. Ao longo de seus 394 estudos, o ChatGPT com versão não especificada apareceu em 94, a família ChatGPT-3/3.5 em 66 e a família ChatGPT-4 em 52 — de modo que muitas capacidades relatadas descrevem gerações de modelo já superadas ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]). A pesquisa abrange estudos de eficácia ([[genai-meta-analysis-programming-learning|meta-análises]]), preocupações de segurança ([[hazra-safetutors-pedagogical-safety-2026|danos dos tutores]], [[eduguard-safe-rag-llm-tutor|salvaguardas]]) e princípios de desenho ([[instructional-guidance-genai-learning|orientação instrucional]]).
 
 Agregados ao longo de 53 estudos, a educação assistida por GenAI superou as abordagens sem GenAI em desempenho (g = 0,40), pensamento de ordem superior (g = 0,72), motivação (g = 0,81) e escrita (g = 0,76), embora a GenAI assistida por jogos não tenha acrescentado benefício significativo (g = 0,24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
+
+Uma meta-análise de três níveis com 22 estudos constata que a aprendizagem baseada em problemas e em [[project-based-learning|projetos]] apoiada por GenAI produz um grande efeito agregado em resultados internos ao aprendiz (g = 0,819), embora uma correção PET-PEESE o reduza a g = 0,378; a incorporação também importou, com chatbots genéricos agregando g = 0,970 contra g = 0,455 para sistemas personalizados ou de API ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
 
 Uma meta-análise separada de 42 estudos apenas sobre motivação coloca o efeito agregado mais baixo (g = 0,764) e reporta um intervalo de predição de 95% abrangendo [−0,689, 2,217], então a vantagem motivacional não é confiavelmente positiva para um novo contexto ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 A IU generativa é a capacidade mais nova desse fio: modelos que emitem um artefato interativo funcional — controles deslizantes, simulações manipuláveis — em vez de prosa. [[generative-ui-education-learning-interactives-2026|Kovshov et al. (2026)]], uma equipe do Google Research, reportam que a IU generativa de prateleira ainda não é pedagogicamente precisa o bastante para construtos complexos, mas que decompor um objetivo de aprendizagem em metas progressivas niveladas e envolver a geração em ciclos de crítica e automelhoria produz interativos que professores especialistas avaliam como aceitáveis. O deles é um desenho de orquestração: professores enunciam objetivos, os aprovam e selecionam entre simulações candidatas, de modo que a restrição vinculante sobre o [[simulation|material interativo de aprendizagem]] feito sob medida se desloca da produção para a especificação, e as [[guardrails|salvaguardas pedagógicas]] são embutidas no pipeline de geração, em vez de deixadas à vigilância posterior do professor.
 
 Além desses fios centrais, trabalhos recentes estendem a base de evidências por contextos [[governance|institucionais]], de interação e de domínio. Qin (2026) documenta como a Universidade Lingnan institucionalizou o letramento em GenAI para todos os graduandos como parte de uma transformação digital de artes liberais. Chang e Li (2026) mostram que as conversas estudante-IA codificam [[student-engagement|engajamento]] cognitivo associado à disciplina, com ~62% dos prompts refletindo demanda cognitiva de ordem superior. Neto e colegas (2026) [[meta-analysis-systematic-review|revisam sistematicamente]] a GenAI na educação em saúde baseada em cenários, constatando que o [[prompt-engineering|desenho de prompt]] funciona como especificação instrucional, mas raramente é alinhado a frameworks instrucionais (34,8%) ou reportado em detalhe reproduzível (34,8%). A GenAI também alimenta simulações de role-play de estudantes para a [[teacher-education|formação de professores]] baseada na prática: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang e Zhang (2025)]] construíram o *Student GPT*, um chatbot de ChatGPT personalizado que simulava um estudante do [[k-12|ensino fundamental]] sustentando [[misconceptions|ideias equivocadas]] comuns de raciocínio proporcional, dando a professores de matemática em formação prática acessível e específica de conteúdo no diagnóstico do pensamento do estudante — evidência de que o desenho de prompt (um prompt fundamentado na literatura eliciouva confiavelmente os erros conceituais-alvo, 0,98 contra 0,40) pode conduzir um modelo generativo de prateleira para uma persona pedagógica útil.
+
+Um estudo de caso de desenvolvimento profissional em matemática guiado por GenAI com oito professores em serviço em distritos rurais e com poucos recursos fez com que [[bicer-genai-pd-math-creativity-2026|Bicer et al. (2026)]] engajassem [[creativity|criatividade]] matemática, conhecimento de conteúdo e conhecimento pedagógico do conteúdo como raciocínio interconectado ao longo de dez módulos, creditando o esmaecimento progressivo do andaime e o raciocínio simulado de estudantes; eles relatam padrões de engajamento, não ganhos mensuráveis.
 
 Uma [[li-language-educators-genai-review-2026|revisão sistemática de educadores de línguas]] (Li et al. 2026) constata que os educadores valorizam a GenAI principalmente pelo trabalho preparatório de conteúdo — planejamento de aula, criação de materiais e apoio à escrita —, enquanto hesitam quanto ao uso ao vivo em sala de aula, com preocupações centradas na [[academic-integrity|integridade acadêmica]] (plágio e [[assessment-validity|validade da avaliação]]), no deslocamento profissional e no tecnoestresse; a adoção é moldada por fatores de identidade profissional, pedagógicos, técnicos, institucionais e de integridade, e as lacunas de competência se mapeiam em episteme, techne e phronesis.
 
@@ -68,7 +76,28 @@ A geração de conteúdo também alcança, além da [[math-education|matemática
 
 ### A IA generativa em domínios especializados: apoio à dislexia
 
-Uma revisão sistemática interdisciplinar de 2026 (Dabaghi, D'Urso & Sciarrone, guiada pela PRISMA, 2018–2024, n=72) constata que **a IA generativa é subutilizada no domínio do apoio à dislexia**. A pesquisa em GAI (toda de 2024) se agrupa em [[conversational-ai|chatbots]] inteligentes, apoio à [[teacher-role|formação de professores]] e estudos exploratórios, e está rapidamente ultrapassando o [[machine-learning|ML]] clássico como ferramenta de escolha — mas a experimentação rigorosa e a validação no mundo real seguem em grande parte ausentes. A análise de tendências futuras da revisão aponta para materiais personalizados e feedback adaptativo em tempo real movidos por GAI, modelos diagnósticos [[multimodal|multimodais]] integrando rastreamento ocular, EEG e [[learning-analytics|analítica]] comportamental, [[intelligent-tutoring|sistemas de tutoria inteligente]] e agentes conversacionais movidos por PLN, e ferramentas de apoio voltadas a educadores. Isso ilustra tanto a promessa da IA generativa para geração de conteúdo e apoio interativo em um domínio especializado e de alta necessidade quanto o risco de que sua adoção supere a base de evidências.
+Uma revisão sistemática interdisciplinar de 2026 (Dabaghi, D'Urso & Sciarrone, guiada pela PRISMA, 2018–2024, n=72) constata que **a IA generativa é subutilizada no domínio do apoio à dislexia**. A pesquisa em GAI (toda de 2024) se agrupa em [[conversational-ai|chatbots]] inteligentes, apoio à [[teacher-education|formação de professores]] e estudos exploratórios, e está rapidamente ultrapassando o [[machine-learning|ML]] clássico como ferramenta de escolha — mas a experimentação rigorosa e a validação no mundo real seguem em grande parte ausentes. A análise de tendências futuras da revisão aponta para materiais personalizados e feedback adaptativo em tempo real movidos por GAI, modelos diagnósticos [[multimodal|multimodais]] integrando rastreamento ocular, EEG e [[learning-analytics|analítica]] comportamental, [[intelligent-tutoring|sistemas de tutoria inteligente]] e agentes conversacionais movidos por PLN, e ferramentas de apoio voltadas a educadores. Isso ilustra tanto a promessa da IA generativa para geração de conteúdo e apoio interativo em um domínio especializado e de alta necessidade quanto o risco de que sua adoção supere a base de evidências.
+
+## Ideias equivocadas comuns
+
+- **"Um tamanho de efeito grande significa que a ferramenta melhora a aprendizagem."** A maior estimativa do campo — uma [[meta-analysis-systematic-review|meta-análise]] de 69 estudos que reporta *g* = 0,7 para o ChatGPT e ferramentas similares — agrega o **sucesso imediato na tarefa**, não a retenção, a transferência ou a compreensão. O mesmo problema vale para a estimativa agregada de 53 estudos (*g* = 0,40 em desempenho, 0,72 em pensamento de ordem superior, 0,81 em motivação, 0,76 em escrita): são desfechos medidos próximos à intervenção, em tarefas parecidas com a intervenção. Uma auditoria de 14 meta-análises que alegavam que a IA melhora a educação descobriu que **nenhuma justificava suas alegações**. Trate qualquer número de manchete como evidência sobre o desempenho sob certas condições, e pergunte o que foi medido e quando.
+- **"O modelo mais novo vai resolver isso."** A geração do modelo não é a restrição vinculante. O ChatGPT-5 igualou o corpo docente humano em itens objetivos de provas de farmácia (CCC 0,935–1,000), mas não em itens de resposta curta (≈0) nem em redações (0,341–0,854), e **uma rubrica estruturada não fechou a lacuna de forma confiável**. Ganhos de capacidade em tarefas fechadas não se transferiram proporcionalmente para o trabalho aberto, que é onde a maior parte da avaliação de fato vive.
+- **"Os dados de uso mostram que está funcionando."** No mapeamento de 394 estudos, o ChatGPT com versão não especificada apareceu em 94 estudos e a família 3/3.5 em 66 — de modo que boa parte das alegações publicadas de capacidade descreve **gerações de modelo já superadas**, e muitos estudos não relatam a versão. O comportamento relatado está amarrado a um modelo e a uma data específicos, o que torna alegações sem data sobre "IA generativa" não falseáveis em vez de gerais.
+- **"É seguro porque especialistas anotaram o corpus."** Um corpus de 4.815 mensagens estudante-IA anotado por múltiplos especialistas encontrou apenas cerca de 0,68% de mensagens com o conteúdo prejudicial ou fora da tarefa que o esquema de codificação foi construído para detectar. Isso é um achado sobre a taxa base, não sobre segurança: eventos raros são raros, e as caudas de falha de um sistema são exatamente os casos que um corpus desse tamanho tem dificuldade de caracterizar.
+
+## O que isso significa na prática
+
+**Para instrutores**
+
+- Projete a avaliação e a ferramenta juntas. Onde a IA é forte em itens objetivos e pouco confiável em redações, um plano de avaliação que dá peso a redações precisa carregar verificação explícita, e não um rascunho gerado.
+- Declare o modelo e a versão nas suas próprias evidências de sala de aula e em tudo o que relatar. Alegações sem data não podem ser verificadas, e a versão frequentemente explica o resultado mais do que a pedagogia.
+- Trate o horizonte de novidade como real e curto. Os efeitos agregados são medidos perto da intervenção; planeje para o declínio que o trabalho longitudinal documenta, em vez de ser surpreendido por ele.
+
+**Para desenvolvedores**
+
+- Não planeje o roteiro contra tamanhos de efeito agregados. Uma auditoria de 14 meta-análises descobriu que nenhuma justificava suas alegações, de modo que uma alegação de produto apoiada em um *g* de manchete se apoia em metodologia que não sobrevive à inspeção.
+- Instrumente a taxa base antes de otimizá-la. Uma incidência de 0,68% significa que a maior parte do trabalho de qualidade acontece na cauda, e o desempenho na cauda é o que determina se uma implantação é aceitável.
+- Relate versão, data e tipo de tarefa junto com cada número de benchmark que publicar, porque uma alegação de capacidade que os omite não é reproduzível.
 
 ## Conceitos conectados
 
@@ -108,3 +137,5 @@ Uma revisão sistemática interdisciplinar de 2026 (Dabaghi, D'Urso & Sciarrone,
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[bloom-classifier-ai-assisted-questions-2026]] — Avaliação de modelos pré-treinados para a avaliação pedagógica de novas questões educacionais assistidas por IA
+- [[bicer-genai-pd-math-creativity-2026]] — Um estudo de caso de desenvolvimento profissional em matemática guiado por GenAI com oito professores rurais em serviço
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — g agregado de 0,819 caindo para 0,378 sob PET-PEESE; ferramentas personalizadas (0,455) ficaram abaixo dos chatbots (0,970)

@@ -1,7 +1,7 @@
 ---
 title: Avaliação formativa
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-04T05:46:16-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Avaliação formativa** — avaliação desenhada para informar a instrução e a aprendizagem em curso, em oposição à avaliação [[summative-assessment|somativa]]. Na educação com IA, a avaliação formativa é simultaneamente transformada pela IA e essencial a ela: os sistemas de IA podem gerar, validar e adaptar itens e feedback formativos em escala, enquanto o feedback formativo é um mecanismo primário pelo qual os [[intelligent-tutoring|tutores com IA]] e os [[adaptive-learning|sistemas adaptativos]] apoiam a aprendizagem. A [[research-methods-aied|pesquisa]] desta base de conhecimento examina os itens formativos gerados por IA, o feedback gerado por IA e o desenho e a avaliação desses sistemas.
 
@@ -35,6 +39,8 @@ ai_assist:
 ## Introdução
 
 A avaliação formativa é central na [[ai-education|IA na educação]] porque está na junção da [[assessment|avaliação]] e do [[feedback|feedback de aprendizagem]]. Seu propósito é fechar o laço: expor o que os estudantes sabem e não sabem, e fornecer feedback sobre o qual possam agir para melhorar. A IA torna isso viável em escala — gerando itens, pontuando respostas e entregando feedback individualizado —, mas a pesquisa desta base de conhecimento mostra que a qualidade varia drasticamente entre tipos de item, e que o feedback só ajuda quando os estudantes de fato o realizam.
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] fornecem evidência de que um sistema automatizado de escrita pode servir a um propósito formativo autêntico: o crescimento apareceu na qualidade da revisão e não apenas nas pontuações de atributos, mas somente onde os professores incorporaram o feedback à discussão em sala de aula.
 
 ## Itens formativos gerados por IA
 
@@ -104,10 +110,13 @@ A avaliação formativa na educação com IA se conecta ao próprio processo de 
 
 - **A correção por IA acrescenta uma ameaça à validade.** Como um corretor de IA pode recompensar características irrelevantes ao construto, como a fluência linguística, em vez do raciocínio científico, um white paper de Stanford/ETS destilado de um encontro de ~100 líderes argumenta que a avaliação deveria acumular evidência contínua e rica em contexto, em vez de certificar produtos de uma única vez ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 - **Mantenha a tarefa vulnerável e acrescente uma gêmea.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argumentam que as redações para casa e os relatórios de pesquisa carregam valor formativo substancial e deveriam ser mantidos para a aprendizagem, combinados a uma segunda tarefa que avalia os mesmos resultados e fornece evidência somativa confiável.
+- **A avaliação formativa apoiada por tecnologia é uma propriedade do sistema, não uma ferramenta.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] a define como o produto conjunto da capacidade tecnológica, da regulação pedagógica, da agência de quem aprende e do julgamento humano, e argumenta que seu valor está em sustentar o ciclo evidência–feedback–reflexão–ação, e não na automação.
 
 ## Risco: a avaliação como vigilância
 
 Os sistemas de avaliação formativa podem passar de ferramentas de apoio à aprendizagem a infraestrutura de monitoramento de comportamento. Os mesmos fluxos de dados que habilitam a tutoria adaptativa podem habilitar o rastreamento punitivo se a [[governance|governança]] for fraca. Isso se conecta à [[privacy|privacidade]] e ao [[well-being|bem-estar dos estudantes]], e argumenta por sistemas de avaliação formativa que apoiam a aprendizagem, em vez de vigiá-la.
+
+A observabilidade pode ser desenhada sem vigilância: ela é a evidência que uma avaliação de fato gera para um julgamento defensável sobre a aprendizagem, tratada como prioridade de desenho cujo custo é pago em viabilidade, e não em ética ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
 
 ## Implicações para a IA na educação
 
@@ -117,6 +126,14 @@ Os sistemas de avaliação formativa podem passar de ferramentas de apoio à apr
 - **Mantenha os educadores no circuito:** os sistemas ancorados no currículo e com o educador no circuito melhoram a relevância e reduzem o ruído.
 - **Avalie qualidade e validade:** avalie os itens e o feedback gerados por IA por qualidade, validade e [[equity-in-ai-education|equidade]], e não apenas por velocidade de geração.
 - **Trate a avaliação formativa como uma filosofia, não como um conjunto de ferramentas.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] sintetizam a literatura mais ampla do ensino superior em um paradigma de "avaliação para a aprendizagem" que enquadra o [[feedback|feedback]] formativo, contínuo e individualizado como uma filosofia abrangente, e não como um mero conjunto de ferramentas — equilibrando propósitos formativos e [[summative-assessment|somativos]] e colocando em primeiro plano a [[agency|autonomia do estudante]], a autorregulação e a habilidade [[metacognition|metacognitiva]]. Eles identificam cinco práticas mutuamente reforçadoras ([[authentic-assessment|avaliação autêntica]], auto- e [[peer-assessment|avaliação entre pares]], reavaliação, [[mastery-learning|notação baseada em padrões]], desnotação) por meio das quais essa filosofia pode ser realizada, ao mesmo tempo que observam que sua adoção permanece altamente desigual entre os campos do ensino superior.
+
+- **A avaliação contínua reenquadra o próprio registro formativo.** A arquitetura de referência AIM-CAI (um artigo de posição, não uma implementação) propõe substituir a avaliação episódica como base de evidência primária por uma infraestrutura de seis camadas: geração de evidência entre plataformas, serialização que preserva o contexto de origem, tradução semântica mediada por IA, interpretação psicométrica, perfis longitudinais de competência e governança federada. Sua tabela de mudanças explicita a alteração: o feedback por tarefa se torna feedback longitudinal que apoia a orientação e a reflexão; as notas se tornam perfis de competência em evolução; as credenciais se tornam registros de desenvolvimento transparentes. A camada de governança é a insistência do artigo — sete tensões nomeadas (interoperabilidade vs. autonomia local, privacidade vs. utilidade, agência de quem aprende vs. automação preditiva, vigilância vs. apoio etc.), cada uma mapeada a riscos e respostas, com o alerta de que a inferência contínua sem governança privilegia normas culturais dominantes. A alegação de novidade é integrativa: os componentes existem; a contribuição é a arquitetura e o mapa de governança. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
+## Ideias equivocadas comuns
+
+- **"Itens de prática gerados dão sinal formativo útil."** **Um banco de itens gerados fácil não dá sinal formativo algum**: em uma **implantação de 10 semanas, cerca de 70% dos itens de prática gerados por IA foram respondidos corretamente por todos os estudantes**. Um banco que todos passam não carrega informação sobre quem precisa do quê.
+- **"A confiabilidade da geração de itens é uniforme entre formatos."** Os sistemas de IA geram itens formativos em várias modalidades **com confiabilidade variando por tipo** — inclusive a múltipla escolha. Tratar itens gerados como intercambiáveis entre formatos esconde onde a geração é confiável.
+- **"Dar feedback de IA aos estudantes produz realização."** O **problema da realização** é documentado separadamente da qualidade do feedback: receber feedback e agir sobre ele são etapas distintas, e é na segunda que a avaliação formativa dá certo ou falha.
 
 ## Conceitos conectados
 
@@ -180,6 +197,6 @@ Os sistemas de avaliação formativa podem passar de ferramentas de apoio à apr
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Assistência de ensino adaptativa combinando IA generativa e analítica de big data na educação musical
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Uso de LLMs por estudantes e os limites da dificuldade de questões geradas por IA em cursos de ciência de dados
 
-- **Continuous assessment reframes the formative record itself.** The AIM-CAI reference architecture (a position paper, not an implementation) proposes replacing episodic assessment as the primary evidence base with a six-layer infrastructure: evidence generation across platforms, serialization preserving source context, AI-mediated semantic translation, psychometric interpretation, longitudinal competency profiles, and federated governance. Its shift table spells out the change: per-assignment feedback becomes longitudinal feedback supporting advising and reflection; grades become evolving competency profiles; credentials become transparent development records. The governance layer is the paper's insistence — seven named tensions (interoperability vs. local autonomy, privacy vs. utility, learner agency vs. predictive automation, surveillance vs. support, etc.) each mapped to risks and responses, with the warning that ungoverned continuous inference privileges dominant cultural norms. The novelty claim is integrative: the components exist; the contribution is the architecture and the governance map. ([[mcnamara-aim-cai-continuous-assessment-2026]])
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI-Mediated Continuous Assessment Infrastructure (AIM-CAI): Connecting Learning Evidence Across Contexts and Time (McNamara & Hasnine 2026)
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional por IA para ensinar ideias equivocadas com diálogo ancorado em evidência (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Contrapartida positiva ao risco de vigilância: a observabilidade como desenho de evidência, não monitoramento

@@ -1,7 +1,7 @@
 ---
 title: Autoavaliação
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **A autoavaliação** — julgar seu próprio trabalho, competência ou progresso contra critérios, e as práticas e instrumentos construídos sobre esse ato. O termo carrega duas faces fáceis de colapsar em uma. Como **técnica instrucional**, ela é autoatribuição de nota, autorrevisão baseada em rubrica, autoverificação e reflexão guiada: atividades destinadas a desenvolver o [[metacognition|monitoramento]] e o [[evaluative-judgment|juízo]] dos quais a [[self-regulated-learning|aprendizagem autorregulada]] depende. Como **medida educacional**, ela é um [[self-report-measures|instrumento de autorrelato]], no qual a estimativa de um aprendiz sobre sua própria habilidade, confiança ou aprendizagem substitui uma observação que ninguém fez. Ela fica ao lado da [[peer-assessment|avaliação por pares]] como a outra metade dos estudantes-como-avaliadores, e herda a mesma dependência de [[scaffolding|suporte]] e critérios explícitos. Ambas as faces giram sobre a mesma faculdade e ambas falham na mesma direção: a estimativa é sistematicamente generosa, e quanto mais o trabalho submetido de um aprendiz pode ser produzido por uma ferramenta de [[generative-ai|IA generativa]], menos esse trabalho diz se a faculdade está presente.
 
@@ -96,6 +100,16 @@ Isso também introduz um risco de nomenclatura que vale declarar com clareza. A 
 - **Use o autorrelato onde ele é honesto.** Confiança, competência percebida e disposição para divulgar o uso de IA são coisas legítimas de medir perguntando. Desempenho não é.
 - **Peça juízo, não opinião.** A autoavaliação da era da IA mais defensável pede que um estudante avalie uma peça específica de trabalho contra critérios e justifique a chamada, que é treinável, inspecionável e conectada ao [[evaluative-judgment|juízo avaliativo]].
 - **Observe o efeito de coorte.** Para estudantes cujos anos formativos incluíram uso substitutivo de IA, uma autoestimativa precisa pode estar indisponível em vez de meramente otimista, o que desloca a tarefa instrucional de corrigir a autoconfiança para reconstruir o registro experiencial de que ela precisa.
+
+## Ideias equivocadas comuns
+
+**"Um autorrelato mede a habilidade que nomeia."** Ele mede uma crença sobre a habilidade, e as duas se separam gravemente. Em um estudo com **288 professores de K-12**, o [[ai-literacy|letramento em IA]] autorrelatado se correlacionou com uma medida objetiva da mesma habilidade em apenas **r = 0,07 a r = 0,24** — uma faixa em que o autorrelato explica quase nada da variância em capacidade. O autorrelato é utilizável como medida de percepção, e não como proxy de competência.
+
+**"Os estudantes conseguem julgar a própria aprendizagem com precisão."** A acurácia do autojulgamento é ela própria uma habilidade, e a evidência sobre calibragem aponta na outra direção: em uma comparação experimental, o treinamento explícito em suporte focado no raciocínio produziu melhor calibragem da autoavaliação do que o acesso irrestrito, o que significa que a calibragem melhora com instrução em vez de estar disponível por padrão.
+
+**"Acrescentar um laço de feedback de IA melhora a autoavaliação automaticamente."** Um laço de feedback muda aquilo com que o estudante se compara, o que pode melhorar a calibragem e também ancorá-lo no julgamento do sistema. O estudo comparativo aqui (**118 graduandos do primeiro ano, 56 em um grupo GenAI e 62 em um grupo de pares**, três ciclos ao longo de um semestre) é desenhado justamente para testar se o laço ou a comparação social faz o trabalho — e a resposta não é "o laço, por ser um laço".
+
+**"A autoavaliação é uma alternativa mais suave à testagem."** É um alvo diferente. A autoavaliação desenvolve a habilidade regulatória de julgar o próprio trabalho; um teste mede a capacidade que está sendo julgada. Pesquisa que substitui uma pela outra confunde a capacidade de avaliar o desempenho com o desempenho em si.
 
 ## Conceitos conectados
 

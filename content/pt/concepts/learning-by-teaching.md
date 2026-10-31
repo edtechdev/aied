@@ -1,7 +1,7 @@
 ---
 title: Aprender ensinando
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-01T18:49:55-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -108,6 +112,16 @@ A [[research-methods-aied|pesquisa]] acima converge em alguns padrões reutiliz�
 - **O LbT é um antídoto escalável à dependência excessiva da IA** — ele inverte o papel de tutor/estudante e mantém quem aprende cognitivamente ativo, o que importa mais à medida que a IA fica mais fluente e mais \"prestativa\".
 - **A falibilidade é uma característica, não um defeito.** Um tutorado *demasiado* correto remove a correção de erros e a detecção de lacunas que fazem o LbT funcionar; desenhe para a luta produtiva, e não contra ela.
 - **Questões abertas permanecem:** Como as interações de LbT se sustentam além de um semestre, à medida que a novidade se esvai por completo? O LbT se transfere para domínios não-CS e menos estruturados na mesma escala? A codificação automatizada de diálogo pode se tornar um monitor prático e em tempo real do engajamento para instrutores? E como manter o papel de ensino significativo para *todo* estudante, e não apenas para alguns motivados?
+
+## Ideias equivocadas comuns
+
+**"Qualquer tutorado serve, já que o benefício está em explicar."** O benefício depende de as respostas do tutorado serem informativas. Um tutorado que já entende tudo não dá ao tutor nenhuma lacuna a detectar, e é por isso que tornar uma LLM um bom tutorado exige **engenharia da falibilidade** — erros e confusão projetados que o professor-aluno precisa diagnosticar e corrigir. O efeito do protegido vem da ignorância do tutorado, então um tutorado competente remove o mecanismo.
+
+**"Erros gerados bastam porque estão errados."** Só se forem plausíveis. Em um estudo de anotação cego, especialistas **classificaram erroneamente 164 de 196 (83,7%) submissões em Java geradas por LLM como trabalho autêntico** de estudantes — o que é ao mesmo tempo evidência de que os erros são realistas e um alerta de que um tutorado pode errar de maneiras que ensinam o diagnóstico errado.
+
+**"Pedir a uma LLM que se comporte de forma confusa é um prompt trivial."** É um problema de design, porque a falibilidade precisa ser calibrada ao conceito ensinado e ao modelo corrente do aprendiz-instrutor. Erros aleatórios produzem prática de depuração; erros que refletem um equívoco plausível específico produzem reestruturação conceitual, e apenas o segundo é o alvo pedagógico.
+
+**"Aprender ensinando é uma atividade mais leve do que ser ensinado."** É mais exigente. Preparar-se para ensinar força a organização do conhecimento e a localização das próprias lacunas, e é por isso que a abordagem revela incompreensões que a recepção passiva esconde — a dificuldade é o mecanismo, e não um custo a ser minimizado.
 
 ## Conceitos conectados
 

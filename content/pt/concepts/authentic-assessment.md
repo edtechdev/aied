@@ -1,7 +1,7 @@
 ---
 title: Avaliação autêntica
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,13 +11,17 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -93,6 +97,12 @@ O recuo carrega um custo probatório que a evidência dos arquivos de caso torna
 - **A mensuração focada em processo agora tem evidência de validade.** [[assessing-student-drive-framework-2025|Oliveira et al. (2025)]] pontuaram 70 redações avaliadas pelo modo como os estudantes conduziram um diálogo com IA generativa e tornaram o conhecimento do curso visível; essas pontuações de processo correlacionaram-se r = 0,54 com as pontuações tradicionais de redação, ao mesmo tempo que recompensaram o trabalho conceitual em vez da especificação estruturada de tarefas.
 - **A avaliação autêntica serve a campos orientados à prática.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais e Galy (2026)]] concluem que a avaliação autêntica é especialmente adequada à [[business-education|educação em administração]]: tarefas que espelham problemas profissionais reais (projetos de consultoria ao vivo, [[visualization|painéis]] com briefings executivos) se alinham ao foco do campo na prática e na [[career-development-and-readiness|empregabilidade]] e podem apoiar alternativas inclusivas e preservadoras de integridade à avaliação centrada em provas na era da IA generativa. Em sua revisão de 58 artigos de quatro periódicos de educação em administração, no entanto, a avaliação autêntica apareceu principalmente via [[simulation|simulações]] mediadas por tecnologia e foi muitas vezes confundida com a [[experiential-learning|aprendizagem experiencial]] — uma lacuna terminológica que pode obscurecer seu valor e sua adoção mais amplos.
 - **Autenticidade não é segurança, e a lacuna é visível na escala do setor.** Onde a auditoria de um único curso acima concluiu que 90% dos trabalhos eram aprováveis, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] pontua apresentações gravadas, projetos remotos em grupo e artefatos digitais não supervisionados na faixa de alta exposição ao longo de 53.915 itens, porque o registro público não diz nada sobre como a produção foi supervisionada.
+
+## Ideias equivocadas comuns
+
+- **"Autenticidade é sobre tarefas realistas."** A revisão de escopo de [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud e Du (2025)]] sobre **37 estudos empíricos (2000-2024)** propõe um modelo de desenho de **seis dimensões**, e apenas **3 dos 37 estudos trataram da autenticidade social** — se a avaliação ajuda os estudantes a contribuir para a transformação societal. O realismo é uma dimensão, e a dimensão mais avançada é mal estudada.
+- **"A avaliação autêntica resiste à IA."** A exposição é mensurável e grande: um **curso de três anos de psicologia** se mostrou **90% aprovável**, com o ChatGPT produzindo **saída adequada em 36 de 40 avaliações de curso**, restando apenas as demais. A maior parte da avaliação de um curso era satisfazível por IA.
+- **"O redesenho é opcional se o trabalho é do mundo real."** O resultado de 36 de 40 foi encontrado em trabalhos de curso cuja autenticidade supostamente não estava em questão. O realismo da tarefa não protegeu contra a conclusão por IA; o desenho do que é avaliado protegeu.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Pedagogia crítica
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,17 +9,21 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-28T19:29:22-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Pedagogia crítica** — uma abordagem educacional, enraizada na obra de Paulo Freire e de teóricos críticos posteriores como Henry Giroux, que trata o ensino e a aprendizagem como atos inerentemente políticos. Em vez de meramente transmitir habilidades ou conhecimento, a pedagogia crítica pergunta a quem a educação beneficia, de quem é o conhecimento privilegiado e como a escolarização reproduz ou resiste a sistemas de poder e opressão. Na IA na educação, a pedagogia crítica interroga as lógicas corporativas e capitalistas que moldam a adoção da IA, coloca no centro as vozes e as epistemologias de comunidades marginalizadas, e trata o [[ai-literacy|letramento em IA]] como uma prática de resistência e transformação social, e não como mera competência técnica.
 
@@ -55,9 +59,39 @@ A [[ai-education|IA na educação]] levanta questões agudas para a pedagogia cr
 - **Remédios de desenho não bastam por si só.** Abordagens de desenho centrado no humano, como o desenho sensível a valores, são insuficientes: elas deixam intocados os vetores sistêmicos — enquadramentos de produtividade da força de trabalho e incentivos econômicos —, e a [[agency|agência]] pode ser de soma zero, de modo que a capacidade entregue à ferramenta é capacidade que o estudante não retém ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **A educação em direitos humanos como caso de teste para a governança da IA como formação.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] percorre o framework da ONU *sobre, por meio de, para* em um curso de direito e localiza a dificuldade não na tecnologia, mas na pedagogia: os estudantes entregaram trabalhos escritos polidos e desenhos de sessão polidos sem o engajamento que esses artefatos deveriam evidenciar, e o pensamento mais crítico apareceu na escrita de fim de curso, e não no diálogo em sala. Sua conclusão desloca o papel do educador em vez de encolhê-lo — a [[governance|governança da IA]] torna-se uma responsabilidade profissional que os estudantes são treinados a contestar, e a [[llm|ferramenta]] é dirigida, e não banida.
 
+### A avaliação como lugar de crítica
+
+A pedagogia crítica entra na avaliação pela pergunta sobre a quem serve um redesenho. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] constrói esse argumento ao unir a Teoria das Arquiteturas de Prática à pedagogia crítica, de modo que uma reforma da avaliação precisa mover três coisas ao mesmo tempo: a linguagem cultural-discursiva que torna algumas práticas pensáveis, os arranjos material-econômicos de ferramentas e recursos, e a distribuição sociopolítica do poder. O aviso do framework é específico. Quando os recursos fluem pelas estruturas de poder existentes sem atenção explícita à equidade, um redesenho bem-intencionado amplifica as desigualdades que pretendia enfrentar, o que torna a interseção recursos-poder simultaneamente o maior ponto de alavanca e o maior risco. Sua matriz de quatro fases percorre análise crítica, desenho da intervenção, implementação com foco em equidade e avaliação, e ela trata a mudança incremental e a tensão produtiva como resultados legítimos, e não como falha em transformar rapidamente.
+
 ### O papel do educador
 
 Sob a pedagogia crítica, os educadores não são transmissores neutros de habilidades de IA, mas interlocutores e facilitadores críticos que ajudam os estudantes a interrogar a política da IA. Isso se conecta aos conceitos de [[teacher-role|papel do professor]] e [[ai-literacy|letramento em IA]] da base de conhecimento, e à preocupação mais ampla com [[equity-in-ai-education|equidade]] e [[reducing-ai-misuse|redução do uso indevido]]. A tarefa do educador é cultivar espaços onde as comunidades possam coletivamente questionar, apropriar-se ou recusar a IA — mantendo a educação como um lugar de imaginação e transformação social. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] acrescentam uma condição prática a esse papel: o trabalho aberto de letramento crítico em IA não exige que os educadores cheguem como especialistas em IA, apenas que estejam dispostos a explorar junto com os estudantes — uma investigação conjunta estudante–professor de um sistema específico, "passe livre" eletrônico (nem todos sendo IA), que trouxe à tona e trabalhou [[misconceptions|ideias equivocadas]] enquanto aprofundava o conhecimento técnico. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran e Arar (2026)]] dão a esse papel uma forma construcionista, de ética do cuidado: eles tratam o [[prompt-engineering|letramento em prompts]] como um processo retórico, ético e reflexivo, e não como uma habilidade técnica de otimização, e a fase final do framework faz os estudantes codesenharem uma Política Pessoal de Uso de IA com seu professor, de modo que as normas que governam o uso de IA na sala de aula sejam escritas pelas pessoas que elas governam, em vez de serem emitidas para elas.
+
+## Ideias equivocadas comuns
+
+**"Usar a IA criticamente significa usá-la menos."** O engajamento crítico é um modo de uso, não uma quantidade de uso. Ao longo de **42 episódios de sala de aula** em um estudo romeno do ensino fundamental II, **15 (35,71%) eram dependentes de IA** e **16 (38,10%) realçados por IA**, restando apenas **11 (26,19%) críticos em relação à IA** — de modo que tanto os episódios realçados quanto os críticos envolvem a ferramenta, e a distinção está em se os estudantes a interrogaram. A escassez do modo crítico é um problema de ensino, não um problema de uso.
+
+**"O letramento em IA é um conjunto neutro de habilidades."** A pedagogia crítica o trata como uma prática de resistência e transformação social, o que torna o próprio enquadramento contestável. Um currículo de letramento que ensina técnica de prompting e omite a quem o sistema serve ensinou fluência em uma ferramenta enquanto adotava sua política de forma acrítica.
+
+**"A pedagogia crítica é uma crítica feita de fora da prática."** É uma postura em relação ao papel do educador: perguntar quem se beneficia, de quem é o conhecimento privilegiado e como a escolarização reproduz ou resiste ao poder. Aplicada à adoção de IA, isso significa interrogar as lógicas corporativas e capitalistas que moldam a compra — perguntas que um instrutor pode fazer sobre as escolhas da própria instituição, e não apenas sobre a tecnologia em abstrato.
+
+**"Centrar epistemologias marginalizadas é um acréscimo de conteúdo curricular."** Isso muda de quem é o conhecimento que conta como conhecimento, o que é uma pergunta sobre a estrutura do curso, e não uma leitura a mais. Acréscimos de conteúdo deixam o quadro intacto; a reivindicação da pedagogia crítica é sobre o quadro.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Conte seus episódios críticos. Se o número de 26,19% descreve sua prática, a meta é uma mudança no modo de uso, e não menos uso.
+- Faça da compra um objeto ensinável: pergunte com os estudantes a quem serve a ferramenta escolhida e quem arca com o custo de seus erros.
+- Trate o letramento em IA como interrogação do sistema, e não apenas como competência com ele.
+
+**Para desenvolvedores e administradores**
+
+- Espere que a pedagogia crítica interrogue sua estrutura de incentivos, e não sua lista de recursos, e responda à pergunta sobre de quem é o conhecimento que a saída padrão codifica.
+
+**Para pesquisadores**
+
+- Relatem a distribuição dos modos de engajamento nas salas de aula, e não apenas o uso médio, porque a média esconde se existe alguma prática crítica.
 
 ## Conceitos conectados
 

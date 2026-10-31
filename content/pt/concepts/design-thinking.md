@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: "Pensamento de design (Design thinking)"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Design thinking** — um conceito-chave na [[ai-education|pesquisa em IA na educação]]: um processo de resolução de problemas centrado no ser humano e iterativo (tipicamente Empatizar → Definir → Idear → Prototipar → Testar) que move os estudantes da compreensão de um problema para a produção e o refinamento de uma solução. Explorado em 8 artigos desta base de conhecimento.
 
@@ -54,6 +58,16 @@ Para educadores, a evidência coletiva desaconselha tanto a restrição geral qu
 ## Conexões com conceitos relacionados
 
 O design thinking na educação com IA está profundamente entrelaçado com a [[human-ai-collaboration|colaboração humano-IA]]: as ferramentas generativas ampliam a ideação, enquanto os humanos retêm a autoridade epistêmica e a [[agency|autonomia]]. Ele depende do [[scaffolding|andaimento]] e do [[feedback|feedback]] apropriado a cada estágio para ser eficaz, é frequentemente entregue por meio de interações [[socratic-method|socráticas]] e adversariais no [[higher-ed|ensino superior]] e no [[k-12|K-12]], e seu sucesso é frequentemente enquadrado como preservar a [[creativity|criatividade]] e fomentar o [[ai-literacy|letramento em IA]] sob governança de [[human-in-the-loop-ai|humano no circuito]].
+
+## Ideias equivocadas comuns
+
+**"A IA generativa acelera o design thinking em todas as suas etapas."** Ela acelera a ideação e pode degradar o julgamento do qual as etapas posteriores dependem: **se destaca na ideação inicial, mas pode causar fixação de design ou aprisionamento estético se usada de forma acrítica**. A fixação é o perigo específico de uma ferramenta de ideação rápida — a primeira direção plausível se torna o enquadramento, e um grande conjunto de variações sobre um único conceito não é um espaço de busca mais amplo.
+
+**"Mais opções geradas significam uma exploração mais ampla."** Amplitude de saída e amplitude de consideração são quantidades diferentes. Um estudante que gera trinta direções e adota a primeira convincente explorou uma direção, e taxas de aceitação altas são a assinatura exatamente disso.
+
+**"O design thinking é um processo a ser automatizado etapa por etapa."** É uma disciplina de enquadrar e reenquadrar problemas, que é o que a fixação impede. Automatizar as etapas deixando o enquadramento sem exame produz saída competente para o problema errado.
+
+**"Agentes de IA que concordam com o estudante apoiam seu raciocínio de design."** O uso produtivo documentado aqui corre na direção oposta: [[ai-agents-constructive-conflict-design-education-2026|conflitos construtivos com agentes de IA]] testam o prompting adversarial que força a reconsideração. Um agente complacente reforça a fixação; um agente orientado ao dissenso é o desenho com uma alegação educacional por trás.
 
 ## Conceitos conectados
 

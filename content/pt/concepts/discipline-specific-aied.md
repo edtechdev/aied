@@ -1,19 +1,23 @@
 ---
 title: "A IAed nas disciplinas"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -86,7 +90,7 @@ Cada disciplina traz tradições [[pedagogy|pedagógicas]] distintivas com as qu
 
 ## Disciplinas representadas na base de conhecimento
 
-A cobertura específica por disciplina mais forte da base de conhecimento está na **[[stem-education|STEM]]** em sentido amplo — particularmente na **[[math-education|matemática]]**, na **[[physics-education|física]]**, na **[[chemistry-education|química]]**, na **[[biology-education|biologia]]** e na **[[cs-education|computação]]** — seguida da **[[writing-education|escrita]]**, da **[[language-learning|aprendizagem de línguas]]** (com uma vertente distinta de **[[english-education|educação em inglês]]** para EAP/EFL/ESL) e, mais recentemente, da **[[engineering-education|engenharia]]**, da **[[teacher-education|formação de professores]]** (com um corpo substancial de pesquisa em treinamento em IA de pré-serviço e em serviço), da **[[medical-education|educação médica]]** e das **[[humanities-education|humanidades]]**. Engenharia e desenho também têm um corpo crescente de artigos. Essa concentração acompanha a literatura mais ampla: a revisão de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] concluiu que STEM era a forma interdisciplinar mais comum no ensino superior apoiado por IA (n = 26), bem à frente dos campos não-STEM (n = 10) e do STEAM (n = 2) — uma cautela no nível da disciplina de que a evidência em IA na educação se acumula mais rápido onde a instrumentação computacional é mais fácil de embutir, e não necessariamente onde o valor pedagógico da IA é maior. As adições mais recentes ampliam a vertente para além das matérias acadêmicas, rumo à educação profissional e aplicada — [[nursing-education|enfermagem]], [[information-technology|tecnologia da informação]] e [[vocational-education|educação e formação vocacional]] — onde quem aprende é avaliado na prática demonstrada, e não na correção, e onde o empregador e o órgão de licenciamento, e não apenas a academia, definem o que conta como competência.
+A cobertura específica por disciplina mais forte da base de conhecimento está na **[[stem-education|STEM]]** em sentido amplo — particularmente na **[[math-education|matemática]]**, na **[[physics-education|física]]**, na **[[chemistry-education|química]]**, na **[[biology-education|biologia]]** e na **[[cs-education|computação]]** — seguida da **[[statistics-and-data-science-education|estatística e ciência de dados]]**, uma vertente distinta da matemática porque sua pedagogia característica é a investigação de dados, e não o raciocínio rumo a uma resposta determinada (um exemplo do próprio problema de desenho da vertente: o [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] usa um pipeline agêntico para gerar conjuntos de dados sintéticos ajustados ao contexto, o que aborda o material de que um curso de estatística precisa, e não a explicação dele — e, segundo os próprios autores, não consegue ensinar coleta, mensuração ou desenho de estudo) — e da **[[writing-education|escrita]]**, da **[[language-learning|aprendizagem de línguas]]** (com uma vertente distinta de **[[english-education|educação em inglês]]** para EAP/EFL/ESL) e, mais recentemente, da **[[engineering-education|engenharia]]**, da **[[teacher-education|formação de professores]]** (com um corpo substancial de pesquisa em treinamento em IA de pré-serviço e em serviço), da **[[medical-education|educação médica]]** e das **[[humanities-education|humanidades]]**. Engenharia e desenho também têm um corpo crescente de artigos. Essa concentração acompanha a literatura mais ampla: a revisão de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] concluiu que STEM era a forma interdisciplinar mais comum no ensino superior apoiado por IA (n = 26), bem à frente dos campos não-STEM (n = 10) e do STEAM (n = 2) — uma cautela no nível da disciplina de que a evidência em IA na educação se acumula mais rápido onde a instrumentação computacional é mais fácil de embutir, e não necessariamente onde o valor pedagógico da IA é maior. As adições mais recentes ampliam a vertente para além das matérias acadêmicas, rumo à educação profissional e aplicada — [[nursing-education|enfermagem]], [[information-technology|tecnologia da informação]] e [[vocational-education|educação e formação vocacional]] — onde quem aprende é avaliado na prática demonstrada, e não na correção, e onde o empregador e o órgão de licenciamento, e não apenas a academia, definem o que conta como competência.
 
 A vertente vocacional é a mais fina dessa evidência: uma revisão sistemática de 26 estudos em educação e formação vocacional não encontrou nenhum conduzido em contextos de local de trabalho, apesar do caráter baseado no trabalho da EFV, apenas cinco experimentos randomizados e apenas três desenhos concedendo a quem aprende um papel ativo ([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
 
@@ -100,6 +104,12 @@ Várias disciplinas permanecem finas na base de conhecimento e são boas candida
 - **As artes (arte visual, desenho, música)** — cobertura emergente: [[ai-interior-design-malaysia-2026|IA na educação em desenho de interiores]], [[genai-architectural-design-studios|GenAI em estúdios de desenho arquitetônico]], [[ai-vocal-pedagogy-2026|pedagogia vocal com IA]], [[musical-education-ai-digital-transformation-2026|IA na educação musical]], [[t2i-competence-paradox-2026|paradoxo de competência texto-para-imagem]]. Os estudos do lado do desenho nesta lista agora têm seu próprio lar: a [[design-education]] reúne o trabalho de estúdio arquitetônico, de desenho de interiores e texto-para-imagem em uma página sobre a formação profissional em desenho, deixando arte visual, música e performance como o resto fino.
 
 Essas disciplinas sub-representadas se beneficiariam de páginas de conceito dedicadas e de ingestão adicional de artigos à medida que a base de conhecimento cresce.
+
+## Ideias equivocadas comuns
+
+- **"A disciplina importa principalmente para os exemplos de conteúdo."** Pesquisa com **560 estudantes** constatou que a filiação disciplinar **prediz com que frequência e abertamente os estudantes usam** a [[generative-ai|IA generativa]]. A disciplina molda se a ferramenta é usada e se esse uso é divulgado, e não apenas sobre o que se pergunta a ela.
+- **"A interdisciplinaridade é um objetivo institucional genérico."** A **forma do "interdisciplinar" é ela mesma determinada pela disciplina**: a [[meta-analysis-systematic-review|revisão]] de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] constata que a forma que ela assume varia por campo. Uma única definição institucional lê mal pelo menos algumas das disciplinas que cobre.
+- **"A educação vocacional tem uma base de pesquisa comparável à das disciplinas acadêmicas."** A vertente vocacional é **a mais fina dessa evidência**: uma revisão sistemática de **26 estudos** em educação e formação vocacional não encontrou **nenhum conduzido em contextos de local de trabalho** — os contextos onde a competência é de fato exercida. A ausência na literatura é uma lacuna, e não um resultado nulo.
 
 ## Conceitos conectados
 

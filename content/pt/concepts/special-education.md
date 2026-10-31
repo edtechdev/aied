@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educação especial
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T08:39:04-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,9 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 **Descarregamento cognitivo para estudantes com deficiências de aprendizagem (EDAs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], uma revisão conceitual em uma série especial de *Learning Disability Quarterly* sobre IA para estudantes com DA, reenquadram o uso de [[generative-ai|IA generativa]] por EDAs pela lente do [[cognitive-offloading|descarregamento cognitivo]]. Eles argumentam que a IA generativa pode ser uma **ajuda compensatória ou um atalho**, dependendo de como as decisões de descarregamento interagem com os perfis cognitivos e [[motivation|motivacionais]] das EDAs (desafios de função executiva e de memória de trabalho, carga cognitiva elevada, metas de desempenho evitadoras de esforço, autoeficácia acadêmica mais baixa, e expectativas infladas em relação à IA generativa) e com o desenho instrucional. Para leitura e escrita, a IA generativa pode dar andaimento ao acesso (nivelamento de texto, resumo, saídas [[multimodal|multimodais]], planejamento, rascunho, feedback de revisão) preservando o [[student-engagement|engajamento]] de ordem superior —, mas o descarregamento excessivo arrisca contornar os processos de compreensão, planejamento e monitoramento que já são frágeis para essas pessoas, fomentando a "preguiça [[metacognition|metacognitiva]]" e agravando as dificuldades de literacia entre domínios. O artigo posiciona as [[guardrails|salvaguardas instrucionais]] como o fator moderador-chave e recomenda [[teacher-role|ensinar]] o descarregamento estratégico, construir [[ai-literacy|letramento em IA]] para calibrar a confiança na ferramenta, sequenciar experiências de domínio para construir [[self-efficacy|autoeficácia]], e alinhar tarefas e avaliação às metas do IEP que priorizam o desenvolvimento de habilidades acima da substituição. Isso estende a cobertura de educação especial da base de conhecimento à dimensão de equidade do descarregamento: a mesma ferramenta que reduz as barreiras de acesso pode, se desprotegida, substituir a prática de que as EDAs mais precisam.
 **O conteúdo de intervenção gerado por IA precisa de controles pré-geração, e não apenas de revisão.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] constataram que praticantes avaliaram a ferramenta de História Social codesenhada como altamente usável (SUS 86,8), mas chamaram suas imagens de genericamente ocidentais e seu rastreador de comportamento de descompassado com o julgamento clínico ligado a metas — restrições que eles teriam estabelecido antes da geração.
 
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] parte dos materiais, e não da conversa: um modelo de visão-linguagem lê fotografias de Shoebox Tasks — desenhadas para que o objetivo fique visível nos próprios objetos — e as converte em um plano que um humanoide Nao executa ou demonstra, relatando precisão de plano em seis tarefas e nenhum dado de aprendizes.
+- **O comportamento desafiador é onde os benchmarks de tutoria param.** De 923 diálogos fundamentados em casos extraídos da literatura de educação especial e de psicologia educacional, o melhor de 11 modelos satisfez uma intervenção documentada em 55,8% dos casos abertos e 43,3% dos planos de longo prazo ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+
 ## Implicações para instrutores de educação especial
 
 - **Codesenhe a IA com quem aprende-alvo e a comunidade.** A [[llm-question-generation-deaf-hard-of-hearing-2026|geração de questões para pessoas surdas e com perda auditiva]] mostra o valor de refinar iterativamente a IA com a comunidade para fazer a ponte entre prompts baseados em texto e primeiras línguas baseadas em sinais — envolva quem aprende e suas comunidades no desenho, em vez de pressupor que a IA lhes serve.
@@ -57,6 +64,12 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 - **Use a IA para fechar (e não ampliar) lacunas de desempenho.** Os [[adhd-video-segmentation-computing-education|vídeos segmentados por IA]] eliminaram a lacuna de desempenho do TDAH — implante IA adaptativa onde a evidência mostra que ela equaliza resultados, e não onde ela meramente automatiza.
 - **Centre o desenho corporificado conduzido pela deficiência.** A [[embodied-string-learning-blindness-low-vision-musicians|pesquisa com músicos cegos e com baixa visão]] mostra que estratégias não visuais, conduzidas pela deficiência, superam as interfaces visuais padrão — construa e adapte a IA com a expertise de pessoas com deficiência.
 - **Proteja-se contra a marginalização epistêmica.** As [[genai-minoritized-knowledges-disability|perspectivas críticas]] alertam que dados de treinamento ocidentocêntricos podem marginalizar o conhecimento centrado na deficiência — audite o conteúdo e as ferramentas de IA quanto a justiça epistêmica junto com a [[equity-in-ai-education|equidade]].
+
+## Ideias equivocadas comuns
+
+- **"As avaliações de usabilidade validam uma ferramenta assistiva."** Praticantes avaliaram uma ferramenta de História Social codesenhada como **altamente usável (SUS 86,8)** e, ainda assim, chamaram suas **imagens de genericamente ocidentais** e seu **rastreador de comportamento de descompassado com o julgamento clínico ligado a metas**. Alta usabilidade coexistiu com falhas substantivas, de modo que uma pontuação SUS não é um endosso de adequação.
+- **"Benchmarks genéricos dizem como um tutor lida com casos de educação especial."** De **923 diálogos fundamentados em casos** extraídos da literatura de educação especial e de psicologia educacional, **o melhor de 11 modelos** satisfez um critério documentado — e **o comportamento desafiador é onde os benchmarks de tutoria param**. Avaliações padrão não alcançam os casos em que os praticantes mais precisam de ajuda.
+- **"Quem aprende neurodivergente precisa de acomodações, e não de requisitos de desenho."** [[neurodivergent-computing-students|Zastudil et al.]] constataram que estudantes de computação neurodivergentes precisam de **tarefas estruturadas, equipes pequenas e consistentes e definições explícitas de papéis** — requisitos gerais de desenho que beneficiam a todos, e não ajustes individuais concedidos após o diagnóstico.
 
 ## Conceitos conectados
 
@@ -75,6 +88,7 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 - [[discipline-specific-aied]]
 
 ## Artigos conectados
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: avaliando tutores de LLM com estudantes que apresentam comportamentos desafiadores (Park et al. 2026)
 - [[seung-basham-cognitive-offloading-swld-2026]] — Descarregamento cognitivo com IA generativa para estudantes com deficiências de aprendizagem
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
@@ -85,3 +99,4 @@ A educação especial é um domínio no qual a capacidade da IA de personalizaç
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA generativa, realidade virtual e além: uma revisão de escopo das tecnologias assistivas digitais para estudantes neurodivergentes no ensino superior
 - [[adapted-stories-social-story-intervention-2026]] — Intervenção de História Social assistida por IA para educação especial: o desenho do AdaptED Stories
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Um modelo de visão-linguagem planeja Shoebox Tasks para um robô Nao (Kudláčková 2026)

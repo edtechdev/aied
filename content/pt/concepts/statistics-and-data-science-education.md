@@ -8,9 +8,9 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:54:41-04:00"
-updated: "2026-10-27T03:54:41-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-10-26T14:15:00-04:00"
+source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-26"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Educação em estatística e ciência de dados** — ensinar quem aprende a raciocinar sobre dados: formular uma pergunta, planejar um estudo, coletar e inspecionar dados, analisá-los e comunicar o que a evidência sustenta e o que ela não sustenta. Na [[ai-education|IA na educação]], essa área compartilha com a [[math-education]] o foco no raciocínio com respostas certas e erradas, mas sua pedagogia característica gira em torno do **material**: o conjunto de dados, o gráfico, o código. É por isso que a pergunta distintiva sobre IA aqui raramente é “o modelo consegue explicar um conceito” e mais frequentemente “ele consegue produzir ou dar andaimento ao artefato sobre o qual a aula funciona” — um conjunto de dados sintético com estrutura conhecível, um gráfico tátil que um estudante cego consiga ler, uma questão de prática cuja dificuldade declarada seja honesta, um tutor de R que retenha a resposta. Como o artefato agora pode ser gerado, o risco central da disciplina é que artefatos gerados carreguem afirmações que ninguém validou.
 
@@ -79,7 +83,7 @@ A qualidade do andaimento importa independentemente do acesso. Uma comparação 
 
 - **“Satisfação e benefício percebido indicam que uma ferramenta de IA para ciência de dados está funcionando.”** Os estudantes usaram LLMs intensamente para depuração e perguntas conceituais e **relataram alta satisfação, enquanto o benefício percebido para a aprendizagem profunda diminuiu ao longo do semestre**. A satisfação se manteve e a trajetória de aprendizagem autoavaliada caiu, então nenhum dos dois números isolado é o resultado.
 - **“Um modelo irrestrito é tão bom quanto um tutor guiado.”** Uma comparação experimental constatou que **o treinamento explícito em andaimento voltado ao raciocínio — dicas passo a passo, verificação — produziu melhor desempenho independente** do que o acesso irrestrito. A orientação, e o treinamento em como usá-la, carregaram o efeito.
-- **“Proteger contra a entrega de respostas é o suficiente.”** Um tutor criado especificamente, envolvendo uma API hospedada e com prompt de sistema para **orientar em vez de responder**, foi implantado em um curso semestral de R para graduandos de psicologia, **onde 76% a 84% dos estudantes o usaram em semanas relevantes para a prova. Isso é adoção, não evidência de que a proteção produziu aprendizagem:** A proteção no nível do prompt é uma alavanca entre várias e não produz aprendizagem por si só.
+- **“Proteger contra a entrega de respostas é o suficiente.”** Um tutor criado especificamente, envolvendo uma API hospedada e com prompt de sistema para **orientar em vez de responder**, foi implantado em um curso semestral de R para graduandos de psicologia, onde **76% a 84%** dos estudantes o usaram em semanas relevantes para a prova. Isso é adoção, não evidência de que a proteção produziu aprendizagem: a proteção no nível do prompt é uma alavanca entre várias e não produz aprendizagem por si só.
 
 ## Conceitos conectados
 

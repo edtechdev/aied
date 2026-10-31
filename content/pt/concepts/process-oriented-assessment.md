@@ -1,7 +1,7 @@
 ---
 title: Avaliação orientada ao processo
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-05T11:00:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -21,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 ---
 
@@ -53,15 +57,23 @@ O canal escolhido para a evidência de processo muda o que pode ser evidenciado:
 
 Relatos de praticantes e de frameworks preenchem os artefatos. O framework LEARN de Uden e Hwang (2026), voltado à [[assessment|avaliação]] na [[problem-based-learning|aprendizagem baseada em problemas]], pede rubricas focadas no processo, justificativas orais, entregas em etapas e rastros de raciocínio com [[ai-use-disclosure|divulgação do uso de IA]], e trata a reflexão por diários de aprendizagem e protocolos de pensamento em voz alta como o motor [[metacognition|metacognitivo]] da sequência. Moganadas e colegas (2026) tornam a avaliação transparente e orientada ao processo uma de cinco proposições pesquisáveis, exigindo documentação, verificação e justificativa reflexiva, em vez de proibição ou uso de detectores. Padhy (2026) recomenda capturar histórico de revisões, padrões de interação e tempo na tarefa, pareados com divulgação transparente. Goldstein, Marae-Haj e Zidan (2026) relatam os mesmos artefatos emergindo da prática depois de uma crise de [[trust|confiança]]: registros de prompting, histórico de versão de documentos, contribuições de grupo monitoradas e \"diários de jornada\" reflexivos mantidos em cadernos físicos — junto à constatação simples de que o trabalho escrito para casa já não conseguia evidenciar aprendizagem.
 
+Ferramentaria concreta está emergindo: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operacionalizam a resolução de problemas como quatro etapas e oito sub-habilidades diagnósticas, de modo que um LLM gere perguntas e rubricas específicas por etapa; cinco professores e 64 estudantes usaram o sistema em 90 problemas e 720 subperguntas, com média de 83,5 na Escala de Usabilidade do Sistema.
+
+A documentação exigida mostrou-se viável em escala de curso: ao longo de seis semestres de cursos assíncronos de seis semanas de métodos de pesquisa de pós-graduação, atendendo aproximadamente 440 professores da educação básica, as entregas de pontos de verificação tiveram 96% de conclusão em média, e iterações posteriores que acrescentaram modelos explícitos de prompt produziram reflexões mais longas e visivelmente mais substanciais ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
 ## Um eixo diferente do da autenticidade, e do da correção
 
 Manter os eixos separados importa, porque confundi-los é como um redesenho parece feito enquanto a exposição permanece. Sharma (2026) faz a distinção complementar entre autenticidade e desenho orientado à integridade: a autenticidade pergunta se uma tarefa espelha prática digna, enquanto o desenho orientado à integridade pergunta se quem aprende consegue justificar suas decisões e assumir responsabilidade em relação aos padrões disciplinares, razão pela qual as práticas que ele oferece — trilhas de decisão anotadas, verificação de afirmações contribuídas pela GenAI, defesa oral, diferenças entre rascunhos com histórico de versão — são selecionadas pelo [[evaluative-judgment|julgamento]] que tornam visível, e não por seu realismo. A revisão de dez anos de [[business-education|educação em negócios]] de Espino e Espino (2026) chega à mesma conclusão de desenho pelo lado da literatura, concluindo que o campo converge para tarefas autênticas e visíveis no processo, que exigem interpretação, aplicação contextual e refinamento iterativo, e tratando a adoção isolada de ferramentas dentro de estruturas de avaliação inalteradas como sua falha mais persistente.
+
+A Matriz Desaparecimento–Visibilidade de Salameh (2026) cruza a mesma questão de desenho com uma segunda variável — se o [[scaffolding|apoio de IA persiste ou desaparece]] — e nomeia a combinação a que a maioria dos cursos recorre por padrão, apoio que nunca desaparece avaliado apenas pelo seu produto: Dependência Silenciosa ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
 
 O construto também é distinguível da questão de como a evidência é pontuada. O raciocínio de [[assessment-validity|validade]] é onde os dois se encontram: Brunnström e Palmqvist (2026) argumentam que, quando um [[conversational-ai|chatbot]] consegue produzir uma resposta de exame plausível, o produto entregue se torna um indicador mais fraco do que o estudante aprendeu — um problema de validade da avaliação, e não apenas um problema de [[academic-integrity|integridade]]. Essa é a mesma inferência em risco no argumento de [[genai-performance-vs-learning|desempenho versus aprendizagem]] de Yan, Greiff, Lodge e Gašević, em que [[learning-gains|ganhos de desempenho]] que encolhem quando a assistência é retirada mostram um ganho que vive na ferramenta, e não em quem aprende, e em que o remédio proposto são medidas de processo, como testes de [[transfer-of-learning|retenção e transferência]], em vez do sucesso imediato na tarefa.
 
 ## Por que a detecção não consegue carregar esse peso
 
 A avaliação orientada ao processo é geralmente proposta como a alternativa à detecção, e a evidência sobre a detecção explica por quê. A literatura de [[ai-detection|detecção]] conclui que há taxas de erro, dependência da tarefa e [[bias-mitigation|viés]] padronizado contra escritores não nativos e com deficiência, e o trabalho mais recente chega a uma conclusão processual: a pontuação de um detector pode motivar uma revisão mais atenta, mas não é uma conclusão. Munoz e colegas (2026) mostram o que isso custa na prática. Ao codificar 1.162 alegações de má conduta com IA generativa, eles concluíram que os tipos de evidência mais fortes são gerados pela investigação ou pela supervisão, que a evidência de processo, como rascunhos, reuniões de supervisão e apresentações, aparece apenas onde essas práticas já existem — então, em uma avaliação não redesenhada, ela está simplesmente ausente — e que a saída do detector recebeu as classificações probatórias mais baixas de qualquer categoria. A consequência de desenho é a ordenação: a evidência de processo precisa existir antes que um caso precise dela, e o raciocínio de Weidlich (2026) sobre qual inferência está em risco faz o mesmo ponto pelo lado da validade, já que as tentativas de restaurar a segurança da avaliação por meio da detecção introduzem variância irrelevante ao construto, e não evidência sobre quem aprende.
+
+Os próprios critérios da rubrica podem ser reconstruídos em torno da trajetória. [[rubrics-genai-process-based-assessment-2026|Oviedo e Díaz (2026)]] leem o modelo 3P de Biggs como três dimensões de pontuação — agência e supervisão crítica, andaimento dialógico e soberania cognitiva —, de modo que a trajetória é pontuada, e não o resultado estático.
 
 ## Os custos de desenho e de carga de trabalho
 
@@ -72,6 +84,12 @@ Os custos operacionais são itemizados em outro lugar. Boysen lista nova tecnolo
 ## O que permanece sem solução
 
 A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de dados e sem ensaio de implementação, então os quatro princípios são argumentados, e não testados, e o próprio artigo pede trabalho empírico sobre [[student-experience|experiência do estudante]], carga de trabalho do educador e viabilidade de longo prazo. A viabilidade é deixada sem diferenciação entre contextos — a transferência para aulas grandes, laboratórios, estúdios ou estágios clínicos não é tratada. O position paper de Lane (2026) observa o teto institucional: a avaliação baseada no processo é prejudicada por estruturas de notas e de histórico escolar que premiam artefatos finais polidos, então o redesenho em sala de aula isoladamente não muda o incentivo. A [[educational-measurement|mensuração]] também é fina: a revisão de Jin e colegas (2026) dos instrumentos de [[ai-literacy|letramento em IA]] pede avaliação baseada em desempenho e orientada ao processo e mensuração de rastros comportamentais de [[prompt-engineering|prompting]] e verificação, mas relata que os instrumentos existentes se apoiam em [[self-report-measures|autorrelato]]. Nenhuma fonte aqui relata um [[rct|ensaio controlado]] de um redesenho orientado ao processo contra um orientado ao produto, o que deixa a afirmação central — a de que a evidência de processo é ao mesmo tempo mais difícil de falsificar e mais justa de julgar — argumentada a partir de princípio, relato de praticantes e evidência de arquivo de caso, e não demonstrada em escala.
+
+## Ideias equivocadas comuns
+
+- **"Uma nota alta implica que o estudante fez o trabalho que projetamos."** Os rastros podem **divergir das notas de forma direta**: em **150 conversas estudante–IA**, **41% tinham nota de tarefa de exatamente 1,00 enquanto a participação cognitiva observável variava**. A nota satura enquanto o processo que deveria produzi-la não satura.
+- **"Dados de processo são inviáveis em escala."** A documentação exigida mostrou-se viável em escala de curso ao longo de **seis semestres de cursos assíncronos de seis semanas de métodos de pesquisa de pós-graduação, atendendo aproximadamente 440 professores da educação básica**. A logística era solucionável; a objeção superestima o custo.
+- **"A resolução de problemas é holística demais para ser avaliada pelo processo."** Ela pode ser operacionalizada como **quatro etapas e oito sub-habilidades diagnósticas**, permitindo que um LLM gere **perguntas e rubricas específicas por etapa** — usado com **cinco professores e 64 estudantes**. A decomposição foi o que tornou o processo legível e avaliável.
 
 ## Conceitos conectados
 - [[pedagogical-patterns]] — Pontos de verificação em etapas e evidência de processo como desenhos sequenciados
@@ -92,6 +110,7 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - [[equity-in-ai-education]]
 
 ## Artigos conectados
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Uma revisão narrativa crítica que argumenta que a falha padrão é o apoio de IA que nunca desaparece combinado com avaliação apenas do produto (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — Uma redação de processo colaborativa e pontuada em uma aprendizagem de graduação de primeiro ano: iteração e colaboração na rubrica, GenAI permitida dentro de limites declarados (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — o desempenho não é aprendizagem: uma agenda de pesquisa construída sobre medidas de processo (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — formadores de professores pedindo tarefas baseadas no processo e resistentes à IA, construídas sobre justificativa e reflexão (Baran et al. 2026)
@@ -106,6 +125,6 @@ A exposição de Thapa e Lewis é conceitual: sem participantes, sem coleta de d
 - [[metacognitive-processes-genai-interaction-logs-2026]] — Evidência de processo condicional ao canal: registros e pensamento em voz alta revelam processos diferentes
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: Um Ambiente de Analytics de Múltiplas Visualizações para Escrita Integrada à IA
 - [[epistemic-ownership-ai-mediated-education-2026]] — Mesmo Desempenho, Processo Diferente: Propriedade Epistêmica na Educação Mediado por IA
-
-Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalize problem solving as four stages and eight diagnostic sub-skills so an LLM can generate stage-specific questions and rubrics; five teachers and 64 students used the system on 90 problems and 720 sub-questions, with a mean System Usability Scale score of 83.5.
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Documentação por pontos de verificação atingiu 96% de conclusão ao longo de seis semestres e cerca de 440 professores
+- [[rubrics-genai-process-based-assessment-2026]] — Três dimensões de rubrica a partir do modelo 3P de Biggs: agência e supervisão, andaimento dialógico, soberania cognitiva (Oviedo & Díaz 2026)

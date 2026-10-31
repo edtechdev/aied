@@ -1,7 +1,7 @@
 ---
 title: "IA com humano na alça (HITL)"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-03T03:00:33-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,13 +12,17 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,8 +42,11 @@ ai_assist:
 ## Introdução
 
 O HITL é uma resposta aos limites e riscos da [[ai-education|IA em educação]] plenamente autônoma: sistemas automatizados podem gerar em escala, mas carecem do julgamento contextual, [[ethics|ético]] e pedagógico que instrutores e especialistas trazem. Duas implementações recentes ilustram arquiteturas distintas:
+- **O humano na alça é insuficiente se o humano apenas aprova.** [[learning-analytics-genai-learning-design|Rienties, Divjak e Law (2026)]] argumentam que a agência significativa exige a capacidade de compreender, contestar, redesenhar e às vezes rejeitar recomendações apoiadas por IA, e não apenas de aprovar decisões moldadas em outro lugar.
 
 O apoio prescritivo é um domínio em que a supervisão humana é cada vez mais argumentada como não opcional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] testaram se três LLMs conseguiam recomendar planos de apoio ao estudante a partir de indicadores de [[learning-analytics|analytics de aprendizagem]] e encontraram sensibilidade limitada à necessidade e acentuada inconsistência entre modelos — concluindo que o julgamento com humano na alça ainda é necessário antes de o aconselhamento prescritivo por [[llm|LLM]] poder ser implantado de forma segura e ética.
+
+Reter a resposta preferida de um sistema é protetor, e não corretivo: num debate multiagente que nunca revelava uma posição recomendada, a troca detrimental para a resposta incorreta da IA caiu de 42,0–60,5% para 5,7–8,2%, enquanto a adoção de conselhos corretos também caiu ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
 Uma terceira arquitetura coloca o julgamento humano *a montante* do modelo, e não em sua saída. No estudo de [[lee-learner-question-types-ai-education-2026|Lee, Atif & Kang (2026)]] sobre classificação de questões de quem aprende, três especialistas de nível doutoral governaram todo o pipeline: eles refinaram as definições operacionais de cada papel [[constructivist|construtivista]], rotularam de forma independente até que o kappa de Fleiss subisse de 0,60 para 0,83 após resolução de discrepâncias, e validaram os itens retrotraduzidos e parafraseados usados para balancear o conjunto de treinamento.
 
@@ -72,11 +79,12 @@ O posicionamento pode importar mais que a presença: profissionais avaliaram uma
 
 ## Por que o HITL importa na era da IA
 
-O desenho com humano na alça tornou-se central para as discussões desta base de conhecimento sobre [[agentic-ai|IA agêntica]] e [[reducing-ai-misuse|uso responsável de IA]] por várias razões convergentes:
+O desenho com humano na alça tornou-se central para as discussões desta base de conhecimento sobre [[agentic-ai|IA agêntica]] e [[ai-literacy|uso responsável de IA]] por várias razões convergentes:
 - **Segurança pedagógica.** A [[pedagogical-safety|segurança pedagógica]] exige que IA com autoridade instrucional real mantenha supervisão humana, de modo que erros, vieses ou saídas prejudiciais sejam captados antes de chegar a quem aprende. Isso é especialmente importante para agentes autônomos que [[agentic-ai|perseguem objetivos proativamente]].
 - **A supervisão é rara na prática, não apenas na teoria.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] concluíram que governança embutida robusta e supervisão com humano na alça raramente se manifestavam ao longo de 474 sistemas educacionais de IA agêntica, mesmo enquanto autonomia de tarefa única e colaboração multiagente cresciam — a lacuna entre o princípio de desenho e a prática implantada.
+- **A questão crítica é como o laço se torna acionável, e não quantos humanos participam.** Uma visão das ciências da aprendizagem argumenta que organizar a aprendizagem em torno da captura de dados, da interpretação computacional e da resposta provável faz a ação pedagógica depender do que os sistemas conseguem detectar e sobre o que conseguem agir, e que alertas e classificações de engajamento interpretam quem aprende antes de qualquer professor ou estudante agir ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validade e controle de qualidade.** O HITL é um portão de qualidade para [[automated-assessment|avaliação automatizada]] e geração — humanos arbitram onde a correção automatizada é não confiável (ver a [[research-methods-aied|pesquisa]] sobre [[llms-do-not-grade-essays-like-humans-2026|correção de redações por LLM]]) e validam itens gerados. Uma [[meta-analysis-systematic-review|revisão sistemática]] guiada pela PRISMA de 42 estudos de correção e feedback (2023–2025) chega explicitamente à mesma conclusão: os LLMs igualam corretores humanos em tarefas curtas e bem estruturadas, mas não conseguem substituir plenamente o julgamento humano em trabalho complexo, aberto ou subjetivo, e a maior eficácia de correção é alcançada em sistemas híbridos que combinam correção impulsionada por IA com supervisão e verificação do professor ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] mostram concretamente onde essa fronteira cai: o ChatGPT-5 igualou o corpo docente em itens objetivos de provas de farmácia (CCC 0,935–1,000), mas foi não confiável em itens de resposta curta e de redação mesmo quando recebeu uma rubrica, levando os autores a recomendar correção híbrida com revisão humana para avaliação complexa, subjetiva ou de alto impacto.
- A repetição não substitui essa supervisão: ao repontuar submissões idênticas em cinco dias diferentes, o mesmo modelo reproduziu seus próprios resultados em apenas alfa de Krippendorff 0,625, com variação concentrada nas notas intermediárias e A e F ausentes das contagens das cinco sessões ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- A repetição não substitui essa supervisão: ao repontuar submissões idênticas em cinco dias diferentes, o mesmo modelo reproduziu seus próprios resultados em apenas alfa de Krippendorff 0,625, com variação concentrada nas notas intermediárias e A e F ausentes das contagens das cinco sessões ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Agência de quem aprende.** Manter um humano na alça preserva a [[agency|agência]] e apoia a [[self-regulated-learning|aprendizagem autorregulada]], contrapondo-se à [[cognitive-offloading|dependência excessiva]] que a assistência plenamente autônoma pode induzir.
 
 
@@ -100,6 +108,9 @@ O desenho com humano na alça tornou-se central para as discussões desta base d
 - **Geração de questões e conteúdo:** além do CODE-GEN, o HITL guia a geração de questões para avaliação e [[scaffolding|andaimes]] ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **Sistemas agênticos e multiagentes:** à medida que a IA se torna mais autônoma, a supervisão de HITL é uma [[agentic-ai|salvaguarda de desenho]] central ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Roteamento por consequência da decisão, e não por incerteza do modelo (2026).** [[human-in-the-loop-ai-scoring-national-assessment-2026|Um estudo operacional de 2026]] da prova nacional de credenciamento Acredita EB do Uruguai (duas edições, cerca de 5.000–6.000 candidatos cada) mostra como é o desenho com humano na alça quando ele é impulsionado pelas consequências da decisão, e não pela incerteza do modelo. Um corretor GPT-5 concordou com corretores especialistas em 60–80% dos 15 itens da rubrica, mas foi sistematicamente conservador, produzindo discrepâncias humano-aprova/IA-reprova em 15,3% (2024) e 16,5% (2025) das comparações de aprovação/reprovação e quase nunca o inverso. O framework, portanto, aceita resultados de aprovação da IA pelo valor de face e roteia todo resultado de reprovação da IA que poderia mudar o desfecho de um candidato para revisão especialista — depois de primeiro pular candidatos cuja aprovação/reprovação não pode depender da seção de escrita —, cortando as respostas que precisam de correção humana integral em pelo menos 50%. Um segundo desenho de 2026 traça a fronteira do outro lado: em uma plataforma multiagente de paciente padronizado por IA ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al.]]), a supervisão humana é reservada ao que se julga a IA incapaz de decidir, com corpo docente e pacientes padronizados humanos fornecendo interpretação contextual, remediação e julgamentos de prontidão, e ao sistema sendo explicitamente vedado determinar competência [[medical-education|clínica]] autonomamente.
+- **Instrumentação de pesquisa: humanos validam rótulos, não pontuações.** Codificadores das ciências da aprendizagem e da computação julgaram segmentos de comportamento gerados por LLM numa linha do tempo sincronizada com κ = 0,703, e suas discordâncias se tornaram a própria análise de erro do estudo ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **O modelo resume e o pesquisador rotula.** Um estudo de modelagem colaborativa usou o GPT-3.5-Turbo para escrever um resumo sensível ao contexto da tarefa de cada um dos 394 segmentos de discurso, teve os pesquisadores verificando cada resumo e codificando-os até κ ≥ 0,7, e treinou os detectores com esses rótulos, de modo que o modelo nunca fez o julgamento ele mesmo. A supervisão então se moveu para fora: quatro professores experientes revisaram um segmento rotulado, três reconheceram os comportamentos, e um argumentou que dois rótulos num mesmo segmento obscureciam o que os estudantes estavam fazendo, uma objeção de usabilidade que os autores registraram em vez de resolver ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
+- **O HITL como arquitetura de uma disciplina inteira, e não de um fluxo de trabalho.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] especificam quatro camadas interligadas — infraestrutura de dados, desenvolvimento de modelo, interface pedagógica e governança humana —, mantidas juntas por três princípios: supervisão e agência humanas, inteligência coadaptativa e responsividade contextual.
 
 ## Síntese
 
@@ -109,6 +120,12 @@ O desenho com humano na alça não é meramente uma medida de segurança — é 
 - **Quem aprende como o humano-na-alça de sua própria tutoria.** O [[ko-hughes-vsd-student-centered-its-2026|Desenho Sensível a Valores]] com estudantes de community college produziu toda uma família de recursos de HITL voltados a quem aprende para um ITS (controle sobre reavaliação e revisão, metas/ritmo personalizados, marcação para revisão, confirmação de confiança sobre domínio e um controle de nível de envolvimento da assistência de IA), posicionando o estudante como controlador ativo do ciclo de tutoria, e não como consumidor passivo de decisões adaptativas. O estudo também concluiu que instrutores estavam divididos sobre se tal controle de quem aprende poderia minar a integridade do caminho de aprendizagem guiado pelo sistema — uma instância da questão mais ampla de alocação de recursos sobre onde o julgamento humano (de quem aprende vs. do professor) agrega mais valor.
 - **A escalada de IA para especialista é um movimento de humano-na-alça.** O framework SCAN atribui tarefas a quatro modos de IA generativa pela distância de quem aprende, e lê [[student-engagement|engajamento]] passivo dentro de uma tarefa de IA corretamente atribuída como sinal de descompetenciação para deslocar quem aprende da assistência de IA para a de especialistas, com um humano como auditor epistêmico ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Supervisão de conselhos de adoção de IA.** Como [[conversational-ai|sistemas de IA conversacional]] consultados por usuários céticos podem estar predispostos a encorajar a adoção, supervisão humana e avaliação independente são essenciais. Uma auditoria que mostra a maioria dos modelos de fronteira redirecionando equipes rurais céticas do [[k-12|K-12]] rumo ao [[student-engagement|engajamento]] sublinha a necessidade de conselho de IA transparente e auditável, em vez de confiança acrítica.
+
+## Ideias equivocadas comuns
+
+- **"Mostrar a recomendação do sistema ajuda o humano a supervisioná-lo."** **Reter a resposta preferida de um sistema é protetor, e não corretivo**: num debate multiagente que **nunca revelava uma posição recomendada**, a troca detrimental para a resposta da IA **caiu**. A divulgação convidava à deferência; a retenção sustentava o julgamento.
+- **"Humano na alça tem de significar um humano, uma decisão."** Uma sala de aula multiagente de arquétipos de Agente [[teacher-role|Professor]], Agente Monitor e colegas de turma foi implantada na Universidade Tsinghua com **mais de 500 estudantes e mais de 100.000 registros de aprendizagem**. A supervisão escala pelo arranjo, e não multiplicando supervisores.
+- **"Revisar a saída da IA é intuitivo."** Num **estudo intra-sujeito com 23 educadores**, uma abordagem baseada em revisão **melhorou todo princípio da CTML (avaliação média de 3,07 para 3,86, p < ,01)**, com os educadores avaliando favoravelmente a eficiência de produção. A revisão é uma habilidade que melhorou sob um método estruturado.
 
 ## Conceitos conectados
 - [[pedagogical-patterns]] — Onde a revisão humana se situa em sequências testadas, e o que nunca foi testado isoladamente
@@ -134,6 +151,8 @@ O desenho com humano na alça não é meramente uma medida de segurança — é 
 - [[student-support-and-success]] — julgamento humano dentro de um fluxo automatizado de apoio
 
 ## Artigos conectados
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Arquitetura HITL de quatro camadas para IA generativa na educação científica (Zhai et al. 2026)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Codificadores validando segmentos de comportamento de LLM como instrumentação de pesquisa (Fonteles et al. 2026)
 - [[lee-learner-question-types-ai-education-2026]] — Classificação de questões rotulada por especialistas: humanos governam rotulação, aumento de dados e análise de erro (Lee, Atif & Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Supervisão e governança humanas como a terceira camada do desenho de curso com GAI agêntica (Ilieva et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Desenho sensível a valores de ITS centrado no estudante (quem aprende no ciclo de tutoria)
@@ -165,5 +184,5 @@ O desenho com humano na alça não é meramente uma medida de segurança — é 
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Graduandos preferem correção humana para trabalho de alto impacto e IA como assistente, não como substituta
 - [[student-query-demand-hybrid-ai-support-2026]] — O que os estudantes realmente perguntam: estrutura de demanda e potencial de automação em um sistema híbrido de apoio
 
-- **The critical question is how the loop is made actionable, not how much humans participate.** A learning-sciences view argues that organizing learning around data capture, computational interpretation and probable response makes pedagogical action depend on what systems can detect and act upon, and that alerts and engagement classifications interpret the learner before any teacher or student acts ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
-- [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
+- [[in-the-loop-educational-ai-learning-sciences-2026]] — Repensando as abordagens "no laço" em IA educacional: uma perspectiva das ciências da aprendizagem (Pande 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Reter a resposta preferida do sistema corta a dependência excessiva da IA sem bloquear a adoção de conselhos corretos (Tuo et al. 2026)

@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: "Andaime (Scaffolding)"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-06T18:35:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Scaffolding** — apoio estruturado que ajuda os estudantes a realizar tarefas que ainda não conseguem completar de forma independente, com o apoio desvanecendo à medida que a competência cresce. Na [[ai-education|educação em IA]], o scaffolding é o princípio de desenho primário para garantir que as ferramentas de IA apoiem a aprendizagem, em vez de substituí-la.
 
@@ -42,6 +46,8 @@ ai_assist:
 - **Scaffolding de iniciativa mista para lacunas que o estudante não consegue nomear:** [[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]] mantêm o escritor no comando da síntese narrativa, enquanto o sistema assume a iniciativa apenas sobre a descoberta de domínio, sinalizando proativamente lacunas de conhecimento que os escritores não conseguem formular como consultas.
 - **Scaffolding socrático:** o [[socratic-method|diálogo socrático com IA]] retém respostas diretas, usando questões para guiar a descoberta — uma forma de [[desirable-difficulties|scaffolding]] de dificuldades desejáveis. Como condição de fronteira, o questionamento ajuda no início, mas decai com a profundidade, de modo que a regra de desvanecimento passa de eliciar a endereçar o erro: o benefício cai de uma vantagem de 20 pontos no início para 3 pontos no quarto turno emperrado, enquanto endereçar o erro sobe de +5 para +12 [[guided-ai-tutor-impasse-resolution-2026|Ahtisham et al. (2026)]].
 - **Desvanecimento adaptativo:** [[intelligent-tutoring|sistemas de tutoria inteligente]] ajustam o scaffolding com base em estimativas de [[knowledge-tracing|rastreamento de conhecimento]], fornecendo mais apoio para conceitos não dominados e menos para os conhecidos.
+- **A função, e não a ferramenta, decide o que conta como sucesso:** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] propõem um framework de três funções para o apoio de IA na educação especial. A *compensação* reduz uma exigência executiva para que quem aprende possa participar (sucesso = acesso enquanto o apoio permanece). O *scaffolding* sustenta o desempenho logo além da capacidade atual (sucesso = decisões com assistência direcionada). O *desenvolvimento* constrói estratégias utilizáveis sem a ferramenta (sucesso = uso de estratégia após o esmaecimento ou a transferência). Cada função carrega um padrão de avaliação diferente, e o erro recorrente do campo é relatar a conclusão da tarefa durante o apoio como desenvolvimento. É uma revisão narrativa com categorias interpretativas, não uma estimativa de efeito agrupada.
+- **Scaffolding emocional como camada de prompt, medido contra o scaffolding cognitivo isolado.** Com a interface e a lição fixas, a versão emocional pedia aos estudantes que relatassem sentimentos em três pontos e usava esses relatos para variar o tom, o scaffolding afetivo e o desafio cognitivo ao longo das avaliações de controle e valor, com temperatura em 0,7 para que as adaptações guiassem as respostas em vez de ditá-las. Nos traços de diálogo, ela comprou mais trabalho na fase de desempenho e de autorreflexão do que os prompts de aprendizagem autorregulada isolados, e mais prazer e menos tédio. Não acrescentou nada aos ganhos de aprendizagem nem à autoeficácia em uma única sessão de 25 minutos ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
 - **Scaffolding adaptativo disparado por necessidade no treinamento de entrevista [[medical-education|clínica]]:** o [[rct|ensaio randomizado]] MeduAI-SP ([[ai-standardized-patient-scaffolding-medical-2026|Yang et al., 2026]]; N = 100 estudantes de medicina do terceiro ano) operacionalizou o scaffolding como apoio adaptativo disparado por necessidade: um agente avaliador ao nível de turno sinalizava quando um estudante estava emperrado, omitia histórico-chave, corria risco de fechamento prematuro ou prejudicava o vínculo, e só então um [[pedagogical-agent|agente tutor]] emitia um prompt [[socratic-method|socrático]]. A anotação por especialistas de 207 consultas mostrou que a necessidade de scaffolding era fortemente dependente da fase, subindo de cerca de 16,1% das falas dos estudantes no início do encontro para 34,8% no fim (24,1% sinalizado no geral) — evidência empírica de que o apoio à consulta de novatos é mais necessário durante a integração e o raciocínio diagnóstico, e não na coleta inicial de informação. A condição com scaffolding superou um controle de revelação progressiva estruturada no [[summative-assessment|exame]] final alinhado ao OSCE (71,8% vs. 55,6%; β = 16,4 pontos percentuais; P = 3,30e-4), com o maior ganho em comunicação (g de Hedges = −0,79).
 - **Sistemas de dicas:** a [[correct-answer-trap-ai-tutor|pesquisa sobre dicas em tutores de IA]] examina quando as dicas ajudam e quando encorajam o [[cognitive-offloading|Excesso de Dependência]].
 
@@ -92,6 +98,12 @@ A distinção entre guiado por regras e ad-hoc alcança além do tutor e chega �
 - **Um scaffold corretamente restringido ainda falha se a restrição não for administrada.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] construiu o que a distinção acima prescreve — um orçamento de 25 dicas por sessão, um limite de 15 minutos de uso de IA, uma reflexão obrigatória ao fim da sessão e nenhum código gerado — e randomizou 33 estudantes de mestrado entre ela e o uso irrestrito de [[generative-ai|IA generativa]] ao longo de sete semanas. O desempenho nas tarefas e os ganhos em inventário de conceitos não diferiram entre as condições. O orçamento de dicas não agiu como mecanismo de racionamento: alguns estudantes gastaram a maior parte dele nos primeiros problemas e não tinham nenhuma sobrando para os exigentes, outros terminaram com a maior parte sem uso, e, dentro da condição Coach, eram os estudantes que já tinham uma estratégia deliberada para gastar uma dica que pontuavam mais alto. A restrição elevou a [[self-efficacy|confiança]] reportada e acompanhou os estudantes para fora da sala de aula como hábito de autoquestionamento (se uma pergunta valia a pena ser feita à ferramenta), mas recompensou o autogoverno existente, em vez de desenvolvê-lo. A auditabilidade de um scaffold e a capacidade do estudante de usá-lo são condições separadas.
 
 - **Um scaffold que o estudante não consegue verificar é um substituto fluente.** Como a [[chemistry-education|química]] raciocina por entre fenômenos observáveis, modelos particulados e notação simbólica, uma resposta gerada pode ser localmente persuasiva e globalmente errada. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit e Rivera Álvarez (2026)]] colocam o scaffolding no lado produtivo de sua análise Presage-Process-Product e a cópia acrítica no lado da falha, e exigem que os scaffolds demandem tradução representacional nas duas direções, já que uma resposta que descreve corretamente a neutralização ainda pode afirmar que todo ponto de equivalência tem pH 7. A verificação é desenhada para dentro da tarefa, e não anunciada como regra: os estudantes identificam um pressuposto falso, corrigem um erro de unidade ou mecanismo, comparam uma estrutura simbólica com um modelo submicroscópico ou justificam a rejeição de uma resposta gerada. Como os estudantes não conseguem verificar o que ainda não compreendem, [[prior-knowledge|conhecimento prévio]] e scaffolding vêm primeiro, e o prompting é tratado como ato epistêmico em que o estudante especifica as restrições que a resposta precisa satisfazer.
+
+## Ideias equivocadas comuns
+
+- **"O scaffolding é um nível constante de apoio."** A anotação especialista de **207 consultas** mostrou que a necessidade de scaffolding era **fortemente dependente da fase, subindo de cerca de 16,1% dos enunciados do estudante no início** do encontro. Um único nível de scaffold fica mal alocado nas duas pontas da mesma consulta.
+- **"Qualquer condição de controle estruturada é uma comparação justa para o scaffolding."** A condição de scaffolding superou um **controle estruturado de divulgação progressiva** no [[summative-assessment|exame]] final alinhado ao OSCE (**71,8% versus 55,6%**), de modo que o ganho foi medido contra uma alternativa pedagógica real, e não contra nada.
+- **"Os efeitos do scaffolding são gerais."** O ganho foi de **16,4 pontos percentuais (P = 3,30e-4)**, com a maior melhora em **comunicação (Hedges' g = -0,79)**. O efeito se concentrou em um desfecho, de modo que uma média entre desfechos subestima onde funciona e superestima onde não funciona.
 
 ## Conceitos conectados
 - [[pedagogical-patterns]] — Onde na sequência o apoio pertence, e por que tentar-antes-da-ajuda é a regra portadora de carga
@@ -146,5 +158,4 @@ A distinção entre guiado por regras e ad-hoc alcança além do tutor e chega �
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examinando a variação em como tutores de IA guiados resolvem impasses dos estudantes
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Treinar o estudante como scaffolding para o uso de GenAI na resolução de problemas de STEM (Huang et al. 2026)
 
-- **The function, not the tool, decides what counts as success:** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] propose a three-function framework for AI support in special education. *Compensation* reduces an executive demand so the learner can participate (success = access while support remains). *Scaffolding* supports performance just beyond current capability (success = decisions with targeted assistance). *Development* builds strategies usable without the tool (success = strategy use after fading or transfer). Each function carries a different evaluation standard, and the field's recurring error is reporting task completion during support as development. It is a narrative review with interpretive categories, not a pooled effect estimate.
-- [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional por IA para ensinar ideias equivocadas com diálogo ancorado em evidência (Miranda & Calvani 2026)

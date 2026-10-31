@@ -1,7 +1,7 @@
 ---
 title: Tecnologia assistiva
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,13 +9,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,13 @@ Uma revisão de escopo de 2026 das tecnologias assistivas digitais [[ai-technolo
 - **Aproveite a IA para reduzir o custo das adaptações assistivas.** A IA pode legendar automaticamente, simplificar textos e gerar alternativas, mas avalie a qualidade do produto quanto à precisão pedagógica.
 - **Fundamente a provisão na política.** Recorra à Lei de Tecnologia Assistiva, à IDEA e à WCAG ao adquirir ou construir ferramentas de IA.
 - **Diga qual função o apoio cumpre — e avalie em função dessa função.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguem compensação (avaliada pelo acesso e pela participação) de andaimento (decisões com apoio) de desenvolvimento (uso de estratégias após a retirada do apoio ou transferência). Acrescentam uma regra voltada à cautela desta página: o apoio de acessibilidade não é remediação — se uma ferramenta é uma acomodação, instrução em estratégias ou apoio temporário de prática "deve ser declarado no plano de aprendizagem".
+
+## Ideias equivocadas comuns
+
+- **"A tecnologia assistiva mira onde estão as barreiras."** Uma revisão de escopo de 2026 das tecnologias assistivas digitais para estudantes neurodivergentes mapeia a produção da década e encontra um **descompasso entre o que as ferramentas miram e onde ficam as barreiras**: **27 estudos apoiaram a aprendizagem diretamente**, 13 abordaram leitura e escrita e 12 a gestão de estudos, enquanto **atenção (n = 4)** e outras barreiras centrais foram pouco abordadas. O alvo mais estudado não é o mais limitante.
+- **"Um tamanho de efeito médio identifica a ferramenta certa."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] constatam que intervenções baseadas em IA produzem um efeito positivo médio nos resultados de aprendizagem de estudantes com deficiência (**g = 0,588**) em robôs, softwares e VR inteligente. Essa é uma média sobre tecnologias muito diferentes que atendem a necessidades muito diferentes, de modo que sustenta a categoria, e não uma escolha dentro dela.
+- **"O acesso condicionado ao diagnóstico é um desenho defensável."** Exigir um diagnóstico formal para participar exclui aprendizes com necessidades reais e sem rótulo, o que conflita com o [[universal-design-for-learning|desenho universal para a aprendizagem]] e empurra o custo do acesso para a documentação do estudante.
+- **"Mais ferramentas assistivas significa mais inclusão."** Uma revisão de escopo triou **766 registros** em cinco bases, e volume de produção não é o mesmo que cobertura da necessidade — a contagem de estudos por barreira é o número mais informativo.
 
 ## Conceitos conectados
 

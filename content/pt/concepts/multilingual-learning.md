@@ -2,20 +2,24 @@
 connected_resources: [mglearn]
 title: "Aprendizagem multilíngue"
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,8 @@ A aprendizagem multilíngue é uma dimensão central de equidade da [[ai-educati
 
 A IA multilíngue precisa ir além da tradução para refletir [[culturally-relevant-pedagogy|pedagogia culturalmente relevante]] — gerando conteúdo que é linguística e contextualmente adequado. Estudos sobre [[llm-cultural-relevance-k12|relevância cultural de LLMs no K-12]] e [[scaffolding-critical-engagement-genai-minority-students|engajamento crítico com IA generativa entre estudantes minoritários]] mostram que o alinhamento linguístico e cultural molda se os estudantes de fato se beneficiam. Não enfrentado, o viés monolíngue na IA aprofunda a [[digital-divide|divisão digital]] e solapa a [[equity-in-ai-education|equidade]] ao longo do [[global-south|Sul Global]].
 
+A translinguagem é um affordance que os chatbots generativos acrescentam e que as ferramentas linguísticas anteriores não tinham. Em uma revisão sistemática de 24 estudos, os aprendizes pediram frases e explicações contextualizadas na própria língua como ponte para a língua-alvo — um uso que os revisores classificam como um novo subaffordance, e não como algo reembalado ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
+
 ## Viés na avaliação
 
 As preocupações multilíngues também afetam a [[automated-assessment|avaliação automatizada]]: a [[ai-scoring-language-bias-physics|pontuação por IA pode exibir viés de língua]] (por exemplo, em [[physics-education|física]]), penalizando quem não fala a língua nativa. Garantir que ferramentas de avaliação sejam justas entre línguas faz parte da [[assessment-validity|validade da avaliação]].
@@ -62,6 +68,12 @@ O julgamento comparativo baseado em LLM é um caso em que o viés acompanhou a l
 - **Reflita cultura e contexto, não apenas tradução.** A IA multilíngue precisa ir além da tradução rumo à [[culturally-relevant-pedagogy|pedagogia culturalmente relevante]] — gere conteúdo que é linguística e contextualmente adequado ([[llm-cultural-relevance-k12|relevância cultural no K-12]]).
 - **Pareie a IA com estruturas de apoio multilíngues.** Use modos de voz primeiro e orais ([[kutti-ai-voice-first-learning-companion|companheiros de voz primeiro]]) onde a IA baseada em texto falha, e apoie a [[self-regulated-learning|autorregulação]] em contextos bilíngues ([[bilingual-llm-lecture-companion-srl-2026|companheiro bilíngue de aula]]).
 - **Fique atento à divisão digital.** O viés monolíngue na IA aprofunda a [[digital-divide|divisão digital]] e solapa o acesso ao longo do [[global-south|Sul Global]] — planeje infraestrutura e acesso equitativos junto com a escolha da ferramenta.
+
+## Ideias equivocadas comuns
+
+- **"A língua-alvo deve dominar desde o primeiro dia."** Em uma **revisão sistemática de 24 estudos**, os aprendizes pediram **frases e explicações contextualizadas na própria língua como ponte para a língua-alvo** — um uso que os revisores classificam como um subaffordance genuinamente novo, e não como um contorno. O apoio na língua de casa funcionou como andaimento, não como esquiva.
+- **"A avaliação linguística por IA é enviesada contra escritores multilíngues."** Aqui o viés acompanhou a **linha de base humana em vez do modelo**: o julgamento comparativo por LLM em **escrita informativa do 3º ao 6º ano convergiu com rubricas de pesquisadores (r = 0,59–0,73)** e mostrou o mesmo padrão que os avaliadores humanos mostraram. Isso não é evidência de justiça em termos absolutos — é evidência de que o modelo não introduziu uma nova distorção sobre a que já existia.
+- **"A saída com qualidade de tradução é a parte útil."** O uso como ponte é explicativo e situado, não substitutivo. Uma ferramenta que substitui a produção do próprio aprendiz elimina a prática que a ponte deveria viabilizar.
 
 ## Conceitos conectados
 
@@ -77,6 +89,7 @@ O julgamento comparativo baseado em LLM é um caso em que o viés acompanhou a l
 
 ## Artigos conectados
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Chatbots de GenAI possibilitam a translinguagem, um uso que ferramentas linguísticas anteriores não ofereciam
 - [[llm-comparative-judgment-writing-screening-2026]] — Validade do julgamento comparativo por modelos de linguagem grandes para triagem universal de escrita
 - [[multilingual-adaptive-learning-nigeria-2026]] — Plataforma de aprendizagem adaptativa baseada em IA para a Nigéria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Companheiro bilíngue de aula com LLM

@@ -1,7 +1,7 @@
 ---
 title: Risco de alucinação
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,13 +11,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,6 +58,17 @@ A **alucinação na tutoria** afeta a aprendizagem diretamente. O **[[yasir-llm-
 
 As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|humano no circuito]] em que a IA apoia, em vez de substituir, o julgamento do [[teacher-role|professor]], arquiteturas cientes da evidência que calibram a confiança com base na qualidade evidencial (como defende o MathCog), e fundamentação baseada em [[rag|RAG]] que restringe as saídas das LLMs a fontes verificadas. O conceito de [[cognitive-offloading|dependência excessiva]] está intimamente relacionado — a alucinação é mais perigosa quando os usuários confiam nas saídas da IA sem criticidade. [[sidorkin-ai-generated-course-readings-2026|Sidorkin (2026)]] acrescenta um modo de falha que a pilha de mitigação não cobre plenamente: afirmações institucionais excessivamente específicas, com cerca de 1,03% das páginas registradas pareando um campus nomeado, como \"Sacramento State\", com verbos assertivos de política sobre regras revisadas de retenção, tenure e promoção ou Ordens Executivas da CSU, nenhuma delas verificável a partir do texto. A especificidade é o que torna isso custoso, já que um detalhe local fabricado parece exato o bastante para sobreviver à verificação de plausibilidade de um leitor, e o remédio que o estudo propõe é processual, e não técnico: tratar a geração como produção de rascunho sob revisão do instrutor, e depois curar as fontes para um desenho aumentado por recuperação.
 
+**A falta de confiabilidade rotulada reduziu a dependência relatada, em vez de aumentá-la.** Quando 546 participantes leram o mesmo diálogo de IAG rotulado como contendo informação fabricada ou como verificadamente precisa, o rótulo de fabricado produziu menor [[trust|confiança]] e controlabilidade percebida e maior dissonância cognitiva e frustração, junto com escores de dependência *mais baixos* (M = 2,935 vs. 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). O resultado qualifica a lógica de excesso de dependência desta página: ver que uma saída pode ser fabricada não é o mesmo que continuar se apoiando nela.
+
+**Sinais de credibilidade podem amplificar a deferência.** O movimento oposto aparece quando uma saída não confiável é embelezada: acrescentar citações e sinais de credibilidade à interface de debate ARMADA elevou a fração de participantes que trocavam um julgamento inicial correto por uma posição incorreta da IA em 112% (31,8% vs. 15,0%), e a verificação manual encontrou alguns casos citados atribuídos a referências irrelevantes ou fictícias ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+## Ideias equivocadas comuns
+
+- **"Os estudantes vão perceber os erros."** Uma **revisão de 125 estudos** situa as taxas de alucinação em **10–40%**, com **estudantes de medicina — entre os aprendizes mais cuidadosamente selecionados do ensino superior — detectando erros da IA apenas 44–55% das vezes**. Taxas de detecção bem abaixo da confiabilidade ao nível do acaso significam que o ônus não pode ficar com o leitor.
+- **"Os erros são óbvios quando aparecem."** Uma IA que diagnostica matemática escrita à mão podia **fabricar citações de evidência que não estavam lá ao mesmo tempo que afirmava confiança**. A falha não era uma resposta plausível, mas errada; era apoio inventado apresentado com certeza, que é o tipo mais difícil de pegar porque se lê exatamente como a evidência que um leitor cuidadoso desejaria.
+- **"Saída sem citações é um problema de formatação."** Em um curso de pós-graduação que substituiu seu livro didático comercial por leituras geradas por IA, apenas **cerca de 0,80% das 4.487 páginas registradas traziam uma citação textual no estilo APA**. Isso é uma ausência de proveniência ao nível do corpus, e não uma omissão ocasional, e significa que a verificação não tem ponto de partida.
+- **"A alucinação é um problema de geração do modelo que modelos mais novos resolvem."** A faixa de taxas abrange 10–40% ao longo de 125 estudos, o que é uma propriedade da tarefa e da implantação tanto quanto do modelo. Reduzir a taxa é progresso real e não muda o fato de que um leitor precisa conseguir verificar.
+
 ## Conceitos conectados
 
 - [[cognitive-offloading]]
@@ -70,6 +85,8 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 - [[productive-failure]]
 
 ## Artigos conectados
+- [[frontiers-gai-hallucination-dependence-2026]] — Rotular um diálogo de IAG como fabricado reduziu a confiança e a dependência juntas
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sinais de credibilidade elevaram a deferência à saída da IA, com alguns casos citados atribuídos erradamente ou fictícios
 - [[ivory-psychology-assessment-integrity-2026]] — Citações fabricadas e saídas autocontraditórias dentro de trabalho estudantil aprovável (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
@@ -84,6 +101,3 @@ As **abordagens de mitigação** incluem desenhos de [[human-in-the-loop-ai|huma
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Injeções de prompt escondidas elevam notas corrigidas por IA sem serem detectadas, e ataques detectados não são relatados (Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — Desenhando Avaliações Autênticas com IA Generativa: Um Estudo Piloto de Autenticidade da Avaliação no Ensino Superior
-
-**Labeled unreliability lowered reported dependence rather than raising it.** When 546 participants read the same GAI dialogue labeled either as containing fabricated information or as verified accurate, the fabricated label produced lower [[trust]] and perceived controllability and higher cognitive dissonance and frustration alongside *lower* dependence scores (M = 2.935 vs. 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). The result qualifies this page's over-reliance logic: seeing that an output may be fabricated is not the same as continuing to lean on it.
-- [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together

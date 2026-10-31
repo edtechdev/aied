@@ -1,7 +1,7 @@
 ---
 title: Falência produtiva
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-09-30T16:25:27-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,13 +9,17 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -65,6 +69,7 @@ Um tema importante na [[research-methods-aied|pesquisa]] da base de conhecimento
 
 - **O risco: a IA apaga a luta.** Uma IA excessivamente \"prestativa\", estilo Oráculo, que fornece respostas diretamente pode eliminar a luta produtiva necessária para a construção de esquemas, criando o que [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] chamam de **Lacuna de Segurança** — a divergência entre o desempenho de um estudante com assistência da IA e sua capacidade interna, sem assistência. Isso conecta-se ao [[cognitive-offloading|offloading cognitivo]]: a IA que substitui o esforço corrói as próprias capacidades que a educação constrói.
 - **A resposta de desenho: a IA que faz scaffolding da luta.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivam cinco princípios de desenho para a IA apoiar a aprendizagem baseada em falência produtiva ([[human-ai-collaboration|colaboração humano–IA]], [[usability-research|usabilidade]], desenho reflexivo, desenho emocional, conhecimento aberto), enfatizando que a IA deveria preservar a luta ao mesmo tempo que oferece apoio não diretivo. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] mostram que tutores de [[llm|LLM]] podem ser *direcionados* a seguir a pedagogia da falência produtiva (reter soluções, eliciar múltiplas tentativas), ao custo da prestatividade percebida. O CoMeT (Hou et al. 2026) precifica esse custo e localiza o meio: seu tutor escalonado era 0,42 pontos de escala mais frustrante que o tutor que respondia sob demanda (p < ,001) e 0,29 menos frustrante que o que só fazia perguntas (p = ,011), com sofrimento detectado em 8,4% de suas sessões contra 16,0% sob o tutor que retinha respostas, e ele entregava a resposta completa em 6,1% das sessões. Um piso que se abra com uma declaração explícita de desistência, e não com a frustração, decorre do mesmo desenho — sem um, os estudantes que mais precisam da demanda a contornam.
+- **Reter a ajuda não custou frustração nem motivação — apenas preferência.** Um [[rct|ECA]] de três braços constatou que um tutor que retém dicas igualou o ChatGPT irrestrito na redução de frustração e foi o único braço a elevar a motivação intrínseca, ainda que os estudantes tenham avaliado a ferramenta que entrega respostas como mais fácil (p = ,003) e mais útil (p = ,004) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 - **A IA como ferramenta para o desenho de FP:** o [[rhaimi-productivemath-2025|ProductiveMath]] usa [[generative-ai|IA generativa]] para ajudar os professores a criar problemas de FP de alta qualidade — abordando o desafio de que desenhar atividades de falência produtiva é esforçado.
 - **Erros gerados por IA como provocações:** a [[pedagogy-ai-mistakes|pedagogia dos erros da IA]] aproveita deliberadamente erros e [[hallucination-risk|alucinações]] da IA como ferramentas de [[teacher-role|ensino]], alinhando-se ao pensamento da falência produtiva ao tratar a saída errônea como provocação cognitiva.
 
@@ -89,6 +94,12 @@ Isso torna a falência produtiva uma lente central para [[ai-ed-evaluation|avali
 ## Conexões com conceitos relacionados
 
 A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]] (construcionismo), [[desirable-difficulties|dificuldades desejáveis]] (valorizar a dificuldade na aprendizagem), [[problem-based-learning|aprendizagem baseada em problemas]] e [[inquiry-based-learning|aprendizagem baseada em investigação]] (resolução de problemas conduzida pelo estudante), [[metacognition|metacognição]] (reflexão sobre as próprias tentativas), [[cognitive-offloading|offloading cognitivo]] (o risco de que a IA apague a luta), [[scaffolding|scaffolding]] (apoio que preserva o esforço), [[feedback|feedback]] (elaborativo, corretivo), [[prior-knowledge|conhecimento prévio]] (ativação e diferenciação), [[transfer-of-learning|transferência de aprendizagem]] (resultados duráveis) e [[socratic-method|método socrático]] (questionar para provocar o raciocínio). Na era da IA, ela é uma lente avaliativa central: a IA ajuda de uma forma que preserva a luta pela qual a aprendizagem durável é construída?
+
+## Ideias equivocadas comuns
+
+- **"Reter a ajuda frustra os estudantes e custa motivação."** Um [[rct|ECA]] de três braços constatou que um tutor que retém dicas **igualou o ChatGPT irrestrito na redução de frustração e** na motivação — o custo apareceu **apenas na preferência**. Os estudantes não gostaram tanto dele e não sofreram por ele, o que significa que dados de preferência teriam rejeitado o desenho que funcionou.
+- **"Mais frustração significa mais aprendizagem."** O tutor escalonado era **0,42 pontos de escala mais frustrante que o tutor que respondia sob demanda (p < ,001) e 0,29 menos frustrante que** o braço mais frustrante. A faixa produtiva é um meio, não um máximo, de modo que "dificuldade desejável" não autoriza tornar a tarefa mais difícil indefinidamente.
+- **"A falência produtiva significa que os professores não devem ajudar."** O desenho retém *a resposta* ao mesmo tempo que fornece estrutura e escalonamento. Reter uma dica e reter apoio são intervenções diferentes, e só a primeira é a que tem evidência aqui.
 
 ## Conceitos conectados
 
@@ -120,3 +131,4 @@ A falência produtiva conecta-se a [[learning-theories|teorias da aprendizagem]]
 - [[wang-safety-gap-productive-struggle-2026]] — A Lacuna de Segurança: restaurando a luta produtiva
 - [[lukesova-clue-before-correction-2026]] — Pista antes da correção: ChatGPT para a aprendizagem autônoma
 - [[pedagogy-ai-mistakes]] — A pedagogia dos erros da IA
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Reter soluções evitou o custo de frustração, mas perdeu na preferência dos estudantes

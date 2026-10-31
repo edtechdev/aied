@@ -2,24 +2,28 @@
 connected_resources: [vibes-diy]
 title: Construtivismo
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-30T10:54:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
-translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
+source_updated: "2026-10-26T10:25:00-04:00"
+translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Construtivismo** — a [[learning-theories|teoria de aprendizagem]] segundo a qual o conhecimento é ativamente construído pelo estudante por meio da experiência, da reflexão e da interação, e não passivamente recebido de um instrutor ou sistema. Na [[ai-education|IA na educação]], o construtivismo fundamenta o compromisso de desenho de que as ferramentas de IA deveriam apoiar a própria construção de conhecimento pelos estudantes — o [[prompt-engineering|uso de prompts]], o questionamento e o [[scaffolding|andaimento]] — em vez de realizar o [[cognitive-offloading|trabalho cognitivo]] por eles. ([[ai-vocational-education-training-review]])([[genai-mindtool-generative-learning]])
 
@@ -109,6 +113,12 @@ O construtivismo também molda como o próprio letramento em IA é ensinado. Se 
 2. **Use a lente do [[icap-framework|ICAP]].** O ICAP classifica o engajamento em modos construtivo, interativo, ativo e passivo — use-o para avaliar se as interações com IA de fato eliciam os modos construtivo e interativo, em vez do consumo passivo. Os desenhistas deveriam favorecer os modos mais profundos (construtivo e interativo) onde o objetivo de aprendizagem o justificar. ([[hingle-collaborative-ai-literacy-2025]])
 3. **Alinhe teoria e implementação.** Os pesquisadores deveriam olhar além de *como* uma IA "funciona" para *como* ela incorpora uma teoria de aprendizagem, verificando a lacuna entre construcionista-no-nome e behaviorista-na-prática. ([[ai-vocational-education-training-review]])
 4. **Estude a autonomia e a transferência do estudante.** Os compromissos construcionistas implicam avaliar não apenas os ganhos imediatos em testes, mas se os estudantes conseguem transferir e aplicar independentemente seu entendimento construído. ([[research-methods-aied]])
+
+## Ideias equivocadas comuns
+
+- **"É possível detectar o ensino construtivista a partir das perguntas feitas."** Um classificador DeBERTa **classificou perguntas factuais de transmissor de conhecimento com 96,67% de precisão, mas perguntas de facilitador com apenas 78,79%**, e **todos os modelos confundiram os dois papéis de ordem superior**. O construto que mais importa é aquele que a detecção automatizada trata pior.
+- **"Características superficiais de uma aula revelam sua pedagogia."** A falha do classificador não é um detalhe de implementação. Os papéis de facilitador e construtivista são os casos difíceis justamente porque são definidos pelo que o professor faz com o pensamento de quem aprende, e essa relação não é recuperável apenas do texto da pergunta.
+- **"O construtivismo significa que o professor não explica."** A teoria localiza a aprendizagem na construção que quem aprende faz a partir da experiência, o que é compatível com instrução direta. Tratá-la como uma proibição de dizer lê mal tanto a teoria quanto a evidência sobre exemplos resolvidos.
 
 ## Conceitos conectados
 - [[community-of-inquiry]] — Comunidade de Investigação (fundamentada no pragmatismo construcionista/deweyano)

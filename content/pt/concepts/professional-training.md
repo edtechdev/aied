@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: "Aprendizagem no trabalho"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -11,7 +11,7 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T16:44:25-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Aprendizagem no trabalho** — o uso de IA para desenvolvimento da força de trabalho, aprendizagem corporativa e aquisição de habilidades profissionais. A formação profissional estende a [[ai-education|IA na educação]] além da escolarização formal para contextos de trabalho e de [[lifelong-learning|aprendizagem ao longo da vida]].
 
@@ -41,6 +45,7 @@ ai_assist:
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] acrescentam uma lição de política de treinamento: reduzir a assistência contra a competência estimada de quem aprende cortou o tempo de volta no simulador em 27,9% (p = 0,005) e as falhas em 3,52 por volta, enquanto a redução baseada em regras em uma programação fixa não produziu mudança confiável no tempo de volta.
 - **Integração com a aprendizagem ao longo da vida:** a [[lifelong-learning|aprendizagem ao longo da vida]] e a [[research-methods-aied|pesquisa]] em [[adult-learning|aprendizagem de adultos]] conectam a formação profissional à educação contínua.
+- **Um ensaio voluntário, apenas em texto, não moveu nada.** De 201 estudantes de medicina do primeiro ano a quem se ofereceu um paciente GPT-4o antes da primeira aula com paciente padronizado, 49 o usaram, e nervosismo, preparação, autoeficácia e competência autopercebida não diferiram dos 84 controles; 6 de 19 não usuários que deram uma razão citaram problemas técnicos ou de login ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
 - **Setor público:** a [[ai-adoption-training-public-sector|adoção de IA no setor público]] examina o treinamento em contextos de governo.
 - **Frameworks de prontidão para o trabalho:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propõem um framework de Nível de Prontidão para o Trabalho (WRL) que adapta a escala de Nível de Prontidão Tecnológica a nove etapas de competência pontuadas ao longo de quatro pilares (letramento digital e em [[ai-literacy|IA]], fluência ciberfísica, [[human-ai-collaboration|colaboração humano-máquina]], tomada de decisão movida por dados), sob uma regra de "nenhum pilar fino". Evidências de trabalhos de conclusão em manufatura inteligente mostra que as etapas mais altas de prontidão são controladas por experiência incorporada à indústria, e não por cursos — apontando a aprendizagem integrada ao trabalho como essencial para a formação profissional em IA.
 - **As prioridades de instrutores e empregadores divergem.** Uma pesquisa com 500 instrutores dos EUA e um painel de empregadores concordou sobre a importância de apenas uma de 26 habilidades de IA — definir expectativas realistas para trabalho potencializado por IA —, e apenas três das 26 eram ensinadas por metade ou mais dos instrutores ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
@@ -51,6 +56,7 @@ ai_assist:
 - **Designs sustentadores de habilidade perdem sob métricas de produtividade.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] argumenta que a interação reflexiva contradiz a promessa de decisões mais rápidas e maior produtividade que move a adoção de IA no trabalho profissional: um estudo controlado pode absorver o atrito, um ambiente que mede desempenho por velocidade ou quantidade não pode, e onde rivais oferecem apoio equivalente sem atrito, designs sustentadores de habilidade se tornam uma desvantagem competitiva — um problema que o artigo diz talvez pertencer à política organizacional ou ao governo, e não ao design de interação.
 - **Avaliação oral para capacidade no trabalho.** Um estudo de design de TVET enfrenta um descompasso antigo entre avaliação pesada em texto e as capacidades verbais e situacionais que as qualificações profissionais certificam, usando um [[llm|LLM]] para apoiar a avaliação oral interativa. Ao longo de quatro coortes, o formato de voz foi considerado realista por 21 de 33 aprendizes, sem nenhuma resposta discordante sobre sua vantagem sobre um [[eportfolio|portfólio]] escrito, e o sistema rodou totalmente off-line em um laptop para até 12 aprendizes simultâneos, apagando as gravações após 90 dias e deixando a pontuação para os avaliadores ([[ai-supported-oral-assessment-tvet-2026]]). É um exemplo concreto de a IA ampliar a gama de competência avaliável na formação profissional, em vez de apenas automatizar os formatos escritos existentes. Suas coortes, no entanto, eram turmas de Nível 3 de automotiva e engenharia, de modo que a evidência está na [[vocational-education|oferta vocacional inicial]], e não na requalificação no trabalho que esta página cobre.
 
+- **A reunião é onde a compreensão se torna avaliável.** Quando uma ferramenta generativa redige a análise, um relatório de pesquisa polido já não mostra se o treinando compreende o trabalho, de modo que [[prunuske-cognitive-windows-research-meetings-2026|Prunuske e Adams-Phillips (2026)]] propõem três janelas diagnósticas para reuniões de pesquisa (calibração metacognitiva, explicação conceitual e construção de sentido colaborativa) com prompts que trazem à tona o que um resumo deixou de fora.
 - **Condições institucionais, e não contexto nacional, explicam as lacunas de prontidão.** Uma pesquisa comparativa com 568 professores universitários em
   centros de desenvolvimento docente chineses (n = 340) e cazaques (n = 228) ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu e Xiu, 2026]])
   concluiu que o corpo docente cazaque estava à frente em todas as sete dimensões de prontidão para [[generative-ai|IA generativa]] na linha de base, com as maiores lacunas em
@@ -70,10 +76,20 @@ ai_assist:
 
 ### Distinta da educação acadêmica
 
-A formação profissional difere da educação acadêmica em seu foco em habilidades aplicadas, relevância imediata para o trabalho e características de quem aprende na vida adulta. A teoria e os princípios da [[adult-learning|aprendizagem de adultos]] informam o design da formação profissional em IA. Sua outra fronteira é a [[vocational-education|educação e formação profissional]]: a EFP admite pessoas que ainda não detêm a ocupação e se encerra com uma qualificação de ofício ou técnica, de modo que carrega a preparação ocupacional inicial e os frameworks de qualificação que a certificam, enquanto a formação profissional parte de um papel existente — requalificação, educação profissional continuada ou certificação de fornecedor — e presume a competência que a EFP outorga.
+A formação profissional difere da educação acadêmica em seu foco em habilidades aplicadas, relevância imediata para o trabalho e características de quem aprende na vida adulta. A teoria da [[adult-learning|aprendizagem de adultos]] e os princípios da [[adult-learning|andragogia]] informam o design da formação profissional em IA. Sua outra fronteira é a [[vocational-education|educação e formação profissional]]: a EFP admite pessoas que ainda não detêm a ocupação e se encerra com uma qualificação de ofício ou técnica, de modo que carrega a preparação ocupacional inicial e os frameworks de qualificação que a certificam, enquanto a formação profissional parte de um papel existente — requalificação, educação profissional continuada ou certificação de fornecedor — e presume a competência que a EFP outorga.
 
 **A regeneração da expertise como preocupação de treinamento.** O framework dos Bens Comuns Cognitivos ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) argumenta que o DRH precisa ir além da requalificação organizacional para a administração em nível de profissão: eliminar posições desenvolvimentais de entrada em setores expostos à IA pode esgotar o pool compartilhado de expertise do qual todas as organizações dependem, com um efeito atrasado no tempo que só aparece após 5 a 20 anos. Isso resignifica a formação profissional de desenvolvimento de competência individual para manutenção de bens comuns coletivos.
 **Pareie a produção com IA a verificação, e busque medidas externas.** [[crewscaler-ai-upskilling-framework|Nguyen et al. (2026)]] colocam verificações automatizadas de alucinação e uma auditoria por especialistas no domínio entre a redação e a entrega ao longo de um pipeline de requalificação de cinco etapas, e apoiam as afirmações mais fortes do framework na acreditação CPE da NASBA e em uma prova de certificação de fornecedor, e não em medidas de sucesso autodefinidas.
+
+## Ideias equivocadas comuns
+
+**"O curso produz competência ocupacional."** O framework desta página coloca os estágios de competência mais altos atrás da experiência embutida na indústria, e não do curso, o que é um limite real do que um programa de treinamento pode reivindicar. Um curso pode construir os pré-requisitos; o estágio bloqueado precisa do trabalho.
+
+**"Desvanecer o apoio em um cronograma equivale a desvanecê-lo com base em evidências."** Não equivale. Desvanecer a assistência conforme a *competência estimada* do aprendiz cortou o tempo de volta no simulador em **27,9% (p = 0,005)** e as falhas em **3,52 por volta**, enquanto o desvanecimento baseado em regras num cronograma fixo não produziu mudança confiável. A mesma quantidade de apoio, liberada segundo um sinal diferente, é uma intervenção diferente.
+
+**"O treinamento em letramento em IA se generaliza entre papéis."** A maioria dos instrumentos não mede competência específica do papel: em uma revisão sistemática de **33 instrumentos de letramento em IA de professores**, **29 (87,9%)** visavam conceitos gerais de IA enquanto apenas **4 (12,1%)** tratavam do uso pedagógico ou ocupacional que o trabalho de fato exige. Um programa construído sobre instrumentos gerais está medindo um proxy.
+
+**"Um simulador substitui o treinamento no local de trabalho."** Ele desenvolve procedimento e remove a consequência, o que é valioso e é exatamente a parte que não pode ser transferida — a consequência é o currículo no trabalho crítico de segurança.
 
 ## Conceitos conectados
 - [[lifelong-learning]]
@@ -90,6 +106,7 @@ A formação profissional difere da educação acadêmica em seu foco em habilid
 - [[virtual-and-augmented-reality]] — onde a prática imersiva está mais estabelecida
 
 ## Artigos conectados
+- [[prunuske-cognitive-windows-research-meetings-2026]] — Das atualizações de dados às janelas cognitivas: reuniões de pesquisa na era da inteligência artificial
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — IA e o futuro da força de trabalho de engenharia e computação
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Framework de Nível de Prontidão para o Trabalho para manufatura inteligente na era da IA
 - [[crewscaler-ai-upskilling-framework]]
@@ -109,5 +126,4 @@ A formação profissional difere da educação acadêmica em seu foco em habilid
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Pesquisa ligando treinamento prévio em IA e frequência de uso às percepções positivas de professores do primário turcos
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — A rotação de papéis como mecanismo estruturante da preparação profissional com apoio de IA
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Questões abertas rumo à confiança sustentadora de habilidade no engajamento reflexivo com IA
-
-- [[adult-learning]]
+- [[jongkind-genai-patient-medical-communication-2026]] — Uso de um paciente de GenAI para treinamento de comunicação médica de estudantes de graduação em medicina: um estudo quase-experimental

@@ -1,7 +1,7 @@
 ---
 title: Aprendizagem ativa
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -19,9 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Aprendizagem ativa** — abordagens de ensino que engajam os estudantes em fazer coisas e em pensar sobre o que estão fazendo, em vez de receber informação de forma passiva. Na IA na educação, a pesquisa sobre aprendizagem ativa examina tanto como as ferramentas de IA podem apoiar pedagogias de aprendizagem ativa quanto de que maneira o engajamento ativo com as ferramentas de IA — em vez do consumo passivo — afeta os resultados de aprendizagem.
 
@@ -69,6 +73,13 @@ A aprendizagem ativa é operacionalizada com precisão pelo [[icap-framework|fra
 A aprendizagem ativa está profundamente conectada à [[collaborative-learning|aprendizagem colaborativa]] (muita aprendizagem ativa é social), ao [[learning-by-teaching|aprender ensinando]] (explicar para outras pessoas é o máximo em atividade), à [[project-based-learning|aprendizagem baseada em projetos]] e à [[experiential-learning|aprendizagem experiencial]] (aprender fazendo em contextos autênticos), à [[embodied-learning|aprendizagem corporificada]] (engajamento físico), à [[game-based-learning|aprendizagem baseada em jogos]] e à [[simulation|simulação]]. Ela depende de [[scaffolding|andaimento]] e de [[feedback|feedback]] oportuno, e é ameaçada pela [[cognitive-offloading|dependência excessiva]] quando a IA substitui o esforço. Fundamentada em teorias [[constructivist|construtivistas]] e nas [[learning-theories|teorias da aprendizagem]], abrange o [[higher-ed|ensino superior]], o [[k-12|K-12]] e a [[stem-education|educação STEM]].
 
 A aprendizagem ativa é uma das alavancas mais fortes sobre os [[learning-gains|ganhos de aprendizagem]] na era da IA. Como as estratégias ativas constroem compreensão por meio do fazer esforçado, elas são as mais robustas contra o curto-circuito pela IA — e a evidência da base de conhecimento mostra que preservar esse esforço protege a aprendizagem durável, enquanto deixar a IA absorvê-lo a corrói ([[generative-ai-reduced-study-time-math|tempo de estudo reduzido]], [[stromberg-generative-ai-learning-penalty-secondary-2026|a penalidade de aprendizagem]], [[lak2026-hint-button-unproductive-use|abuso de dicas]]). Professores que pareiam desenhos de aprendizagem ativa com [[learning-gains|ganhos medidos]] em resultados sem assistência obtêm o quadro mais claro de se a atividade assistida por IA realmente melhorou a aprendizagem.
+
+## Ideias equivocadas comuns
+
+- **"Colocar IA na atividade a torna ativa."** Um estudo de EEG constatou que a **colaboração interativa estudante–IA produziu o maior engajamento cognitivo, enquanto a automação total o reduziu**. O engajamento veio da interação, não da presença de IA, e automatizar a parte do trabalho que cabe a quem aprende moveu o engajamento na direção errada.
+- **"A investigação apoiada por IA é automaticamente de ordem superior."** Um quase-experimento com **120 estudantes da 8ª série** constatou que a [[inquiry-based-learning|aprendizagem baseada em investigação]] apoiada por IA elevou o desempenho matemático criativo **e** uma medida mais estreita — o tratamento moveu alguns desfechos e não outros. Correlação com um rótulo de ordem superior não é o mesmo que uma tarefa de ordem superior.
+- **"Estudantes desenhando o ensino é um exercício técnico."** No estudo da inversão, **345 estudantes** de um curso com 700 matrículas desenharam cada um um agente conversacional para ensinar três padrões de projeto a um par. A aprendizagem ativa veio do trabalho de desenho, que é raciocínio pedagógico, e não engenharia de prompts.
+- **"Achados de engajamento são achados de aprendizagem."** A mesma base de evidência alerta que um desenho **sem grupo de controle e com amostra voluntária** sustenta apenas afirmações sobre engajamento. Os estudantes valorizaram a liberdade de desenho aberta (**22,3%** tema positivo principal) e reclamaram mais de instruções pouco claras (**23,7%**) — ambos dizem respeito à experiência.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: IA na educação
 created: "2026-09-22T14:40:54-04:00"
-updated: "2026-10-27T04:16:20-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -98,13 +102,15 @@ Como a IA apoia o ensino e a aprendizagem é o coração do campo. Os conceitos-
 A página [[ai-technologies|Tecnologias]] é o guarda-chuva da camada técnica:
 
 - **Modelos e técnicas:** [[generative-ai|IA generativa]], [[llm|grandes modelos de linguagem]], [[rag|geração aumentada por recuperação]], [[multimodal|modelos multimodais]], [[educational-nlp|PLN educacional]], [[reinforcement-learning|aprendizagem por reforço]], [[knowledge-graph|grafos de conhecimento]], [[educational-robotics|robôs na educação]], [[conversational-ai|IA conversacional]], [[simulation|simulação]] e [[llm-training-and-fine-tuning|treinamento de LLMs pedagógicos]]. Os métodos subjacentes também importam: a [[machine-learning|aprendizagem de máquina]] é onde esses sistemas são construídos, as [[speech-and-voice-technologies|tecnologias de fala e voz]] sustentam a tutoria falada e a prática de idiomas, a [[visualization|visualização]] cobre painéis e analítica visual para estudantes e professores, e a [[virtual-and-augmented-reality|realidade virtual e aumentada]] abriga práticas imersivas cuja camada visual o modelo agora consegue gerar. Estilos de interação mais recentes também cabem aqui, com destaque para o [[vibe-coding|vibe coding]], o fluxo de trabalho guiado por linguagem natural em que o usuário especifica um programa fazendo prompts a um LLM e julga o comportamento resultante em vez de ler ou editar o código-fonte, o que reposiciona a [[cs-education|programação]] como um ato de expressão e verificação e reduz a barreira para que [[teacher-role|usuários finais]] construam suas próprias ferramentas. Frameworks de profundidade de integração, como o [[samr-model|SAMR]], e teorias de adoção, como o [[technology-acceptance-model|TAM]], classificam quão profundamente a IA é adotada e quanto ela transforma a tarefa.
+
+- **Plataformas, abertura e adoção:** a camada em torno do modelo, onde um recurso de ensino é licenciado, hospedado e pago em vez de construído. A [[open-education|educação aberta]] cobre o ensino com conteúdo aberto e a pedagogia que trata os estudantes como produtores dele, que é onde se discutem as questões de licença e adaptação que o material gerado agora levanta. Ela fica ao lado da abertura no sentido de software, da análise em nível de plataforma em [[edtech-platform|plataformas de tecnologia educacional]] e da pesquisa de adoção sustentada pelo [[technology-acceptance-model|TAM]].
 - **Modelagem do estudante e sistemas adaptativos:** os sistemas técnicos que representam o estudante e se adaptam a ele são agrupados sob o guarda-chuva [[student-modeling|Modelagem do estudante e instrução adaptativa]]: [[knowledge-tracing|rastreamento de conhecimento]], [[cognitive-diagnosis|diagnóstico cognitivo]], [[simulating-students|simulação de estudantes]], [[intelligent-tutoring|tutoria inteligente]], [[adaptive-learning|aprendizagem adaptativa]], [[personalized-learning|aprendizagem personalizada]], [[recommender-systems-and-learning-paths|sistemas de recomendação e trajetórias de aprendizagem]], [[pedagogical-agent|agentes pedagógicos]], [[affective-tutoring|tutoria afetiva]], [[affective-computing|computação afetiva]], [[human-in-the-loop-ai|IA com humano no circuito]] e [[learning-analytics|analítica de aprendizagem]]. Eles ficam na camada técnica porque são os próprios sistemas de IA, distintos das pedagogias que colocam em prática.
 
 ## IA nas disciplinas
 
 A IA é aplicada em diversas disciplinas e níveis de ensino. A [[discipline-specific-aied|visão geral da AIED nas disciplinas]] da base de conhecimento mapeia a cobertura por área do conhecimento, ao lado das [[learning-sciences|ciências da aprendizagem]], que não é uma disciplina ensinada, mas o campo de pesquisa transversal que estuda a própria aprendizagem e toma o conteúdo disciplinar como uma variável entre outras:
 
-- **Áreas do conhecimento:** [[math-education|matemática]], [[physics-education|física]], [[chemistry-education|química]], [[biology-education|biologia]], [[cs-education|ciência da computação]], [[engineering-education|engenharia]], [[stem-education|STEM]], [[writing-education|escrita]], [[language-learning|aprendizagem de línguas]], [[english-education|ensino de inglês (EAP/EFL/ESL)]], [[science-education|ensino de ciências]], [[business-education|negócios, economia e gestão]], [[humanities-education|humanidades e ciências sociais]], [[arts-design-and-media-education|ensino de artes, design e mídia]], [[medical-education|medicina e profissões da saúde]], [[legal-education|ensino jurídico]] e as linhas profissionais e aplicadas: [[nursing-education|enfermagem]], [[information-technology|tecnologia da informação]], [[vocational-education|educação profissional e tecnológica]] e [[design-education|ensino de design]].
+- **Áreas do conhecimento:** [[math-education|matemática]], [[statistics-and-data-science-education|estatística e ciência de dados]], [[physics-education|física]], [[chemistry-education|química]], [[biology-education|biologia]], [[cs-education|ciência da computação]], [[engineering-education|engenharia]], [[stem-education|STEM]], [[writing-education|escrita]], [[language-learning|aprendizagem de línguas]], [[english-education|ensino de inglês (EAP/EFL/ESL)]], [[science-education|ensino de ciências]], [[environmental-education|educação ambiental]], [[business-education|negócios, economia e gestão]], [[humanities-education|humanidades e ciências sociais]], [[arts-design-and-media-education|ensino de artes, design e mídia]], [[medical-education|medicina e profissões da saúde]], [[legal-education|ensino jurídico]] e as linhas profissionais e aplicadas: [[nursing-education|enfermagem]], [[information-technology|tecnologia da informação]], [[vocational-education|educação profissional e tecnológica]] e [[design-education|ensino de design]].
 
 ## Níveis e contextos
 

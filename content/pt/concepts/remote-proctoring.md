@@ -1,7 +1,7 @@
 ---
 title: Supervisão Remota
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-03T01:40:50-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,13 +10,17 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 
 A supervisão remota existe em um espectro. A **supervisão online** tipicamente envolve um supervisor humano monitorando um estudante por webcam ou de um centro de controle. A **supervisão automatizada/baseada em IA (AIPS)** substitui ou aumenta o humano com sistemas de [[machine-learning|aprendizado de máquina]] e aprendizado profundo (CNNs, RNNs, LSTMs) que analisam pistas visuais — movimentos oculares, postura da cabeça, expressões faciais e linguagem corporal — para detectar comportamento suspeito em tempo real. Plataformas comuns incluem ProctorU e Kryterion. Os AIPS tipicamente combinam quatro funções: (1) autenticação de identidade (p. ex., verificação facial por câmera), (2) restrições de navegação, (3) autorização/controle remoto do exame, e (4) geração de relatórios a partir das sessões gravadas.
 
+- **A estimativa de pose substitui regras de limiar, e a alegação de precisão é mais estreita do que parece.** Arif et al. (2026) rastreiam dezessete marcos corporais por quadro com o YOLOv11, derivam características de desvio de postura, tendência da cabeça e movimento da parte superior do corpo, e implantam um KNN de vizinho mais próximo único sobre 30 características selecionadas por informação mútua, relatando 99,56% de acurácia e AUC 0,9957 a partir de uma única webcam ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Esses números descrevem a reprodução de rótulos em um conjunto de cenários sob medida, não a detecção de má conduta.
+
 ## Vantagens e oportunidades
 
 - **Recupera validade e integridade na avaliação online.** A supervisão remota responde a um problema genuíno de validade. Na [[online-teaching-and-learning|avaliação online]], a [[generative-ai|IA generativa]] torna o trabalho não supervisionado não confiável como medida de aprendizagem: medidas sem assistência, supervisionadas e sem consulta são o sinal mais forte do que os estudantes realmente sabem (veja [[summative-assessment|avaliação somativa]], [[generative-ai-reduced-study-time-math|evidência de retenção supervisionada]]). Sem alguma forma de supervisão, os exames online podem inflar as notas ao captar desempenho assistido por IA em vez de desempenho independente.
@@ -54,6 +60,7 @@ A supervisão remota existe em um espectro. A **supervisão online** tipicamente
 - **A justificativa da integridade não sobreviveu ao maior teste.** Ao longo de quatro ondas e 1.760 estudantes em 105 cursos, a supervisão aumentou a ansiedade de prova (β = 0,60, p < 0,001), mas não teve efeito sobre a tentação de trapacear, a dificuldade percebida ou as notas, de modo que o custo da vigilância não foi compensado pela dissuasão ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Equidade e a divisão digital.** A dependência de dispositivos, a internet instável, a iluminação e a variabilidade de hardware desfavorecem desproporcionalmente estudantes rurais e de baixa largura de banda; a acurácia do modelo pode variar entre demografias e ambientes, arriscando sinalizações injustas. ([[digital-divide|divisão digital]]), [[equity-in-ai-education|equidade na educação com IA]] Uma revisão de escopo da supervisão na [[nursing-education|avaliação de enfermagem]] mostra que esse não é um caso de borda: quatro de seus seis estudos incluídos relataram problemas de conectividade com a internet, um relatou racionamento de carga junto com pacotes de dados limitados, e incompatibilidade de dispositivos, falhas de extensão de navegador e varreduras ambientais malsucedidas eram rotineiras — de modo que a inequidade infraestrutural, e não apenas o viés do modelo, determina quem pode ser avaliado. ([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Lacunas de detecção e a corrida armamentista.** A falsificação de identidade (fotos/vídeos de máscara), o uso de navegadores e o copiar-colar seguem difíceis de captar de forma confiável; a acurácia da detecção é limitada por limitações dos conjuntos de dados, pela avaliação de modelo único e por lacunas de reprodutibilidade. A supervisão não resolve plenamente a integridade e pode criar uma falsa sensação de segurança.
+- A IA vestível remove o sinal comportamental de que a supervisão depende: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] argumentam que óculos de IA, fones e aparelhos auditivos habilitados por IA entregam assistência encoberta sem mudança de olhar, de atenção ou de postura, de modo que a vigilância e a entrega de dispositivos perdem as pistas em que se apoiam.
 - **A questão da governança.** Se a vigilância é a resposta certa versus o [[authentic-assessment|redesenho da avaliação]] (oral, baseada em processo, [[eportfolio|portfólio]]) é uma decisão institucional aberta; a supervisão remota é uma ferramenta, e não uma solução completa. ([[governance|governança]]) A exposição que decorre quando a imposição dá errado — acusações que repousam sobre escores e registros de eventos, retenção e processamento posterior dos dados capturados, e regras que caem desigualmente sobre estudantes com deficiência ou não nativos — está mapeada em [[legal-issues-and-risks|questões legais e riscos]].
 
 ## Base de evidências
@@ -70,6 +77,12 @@ A supervisão remota existe em um espectro. A **supervisão online** tipicamente
 - **Arquitetura que preserva a privacidade.** Processamento em borda, anonimização e tratamento no dispositivo reduzem a invasividade da captura contínua de dados.
 - **Implantação ciente da equidade.** Conjuntos de dados diversos e geograficamente inclusivos e modelos leves para ambientes de poucos recursos; alternativas acessíveis para estudantes sem dispositivos/conectividade confiáveis.
 - **Eduque antes de vigiar.** Prefira fomentar o [[ai-literacy|letramento em IA]] e o [[reducing-ai-misuse|uso responsável]] por meio de cultura e construção de confiança, reservando a supervisão para os casos de alto impacto que genuinamente a exigem.
+
+## Ideias equivocadas comuns
+
+- **"A supervisão protege a integridade acadêmica."** **A justificativa de integridade não sobreviveu ao maior teste.** Ao longo de **quatro ondas e 1.760 estudantes em 105 cursos**, a supervisão **elevou a ansiedade de prova (β = 0,60, p < 0,001), mas não teve** nenhum benefício de integridade detectável. O efeito medido foi sobre os estudantes, não sobre a trapaça.
+- **"Melhor capacidade de detecção significa melhor supervisão."** Uma revisão sistemática de uma década com **80 estudos revisados por pares (2014-2024)** constata que a supervisão avançada por ML/DL **detecta trapaça com mais** acurácia e não diz nada sobre se implantá-la muda a conduta. O desempenho de detecção é uma propriedade do classificador, não do regime de avaliação.
+- **"Sinais comportamentais são indicadores confiáveis de má conduta."** Os sistemas **rastreiam dezessete marcos corporais por quadro** com o YOLOv11 para derivar características de **desvio de postura, tendência da cabeça e movimento da parte superior do corpo**. Esses construtos são proxies, e uma postura sinalizada é uma classificação sobre um corpo, e não a observação de uma transgressão.
 
 ## Conceitos conectados
 
@@ -91,6 +104,7 @@ A supervisão remota existe em um espectro. A **supervisão online** tipicamente
 
 ## Artigos conectados
 
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — A IA vestível remove o sinal comportamental de que a supervisão depende (Corbin, Sharpe e Dawson 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review

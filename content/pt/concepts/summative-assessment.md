@@ -1,7 +1,7 @@
 ---
 title: "Avaliação somativa"
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-09-30T11:35:26-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,7 @@ A pesquisa da base de conhecimento documenta como a IA generativa remodelou fund
 - **A IA como corretora.** A avaliação somativa depende crescentemente da [[automated-assessment|pontuação automatizada]] de provas, redações e respostas curtas. A [[llms-do-not-grade-essays-like-humans-2026|pesquisa sobre correção de redações por LLM]] conclui que [[llm|LLMs]] não corrigem redações do mesmo modo que humanos, levantando questões de validade e justiça para a pontuação automatizada de alto impacto. A [[llm-automated-assessment-student-self-explanations|avaliação por LLMs das autoexplicações dos estudantes]] e a [[cong-confidence-asag-2026|correção automática de respostas curtas]] exploram a confiabilidade da pontuação por LLM em contextos somativos, enquanto [[psyscore-essay-scoring-zpd-feedback|frameworks psicometricamente conscientes]] buscam manter a pontuação automatizada confiável e adaptativa. Uma prova manuscrita de química geral com 296 estudantes ilustra por que a supervisão seletiva é exigida: a concordância de nota total de um LLM multimodal com a correção por monitores foi alta (R² = 0,91), mas a confiabilidade no nível do item variou acentuadamente por formato, e falsos positivos (a IA creditando respostas genuinamente erradas) tendem a passar não detectados porque estudantes raramente os contestam — de modo que um corretor uniforme por IA do tipo "corrija tudo" não é defensável para uso de alto impacto sem adiamento baseado em confiança para humanos ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **A concordância de desfechos pode sobreviver à pontuação imprecisa de itens.** Contra as notas oficiais moderadas, um LLM multimodal corrigindo 10.364 páginas manuscritas da Olimpíada de Física e da universidade correlacionou-se em r = 0,93–0,96 e recuperou a mesma equipe internacional de cinco estudantes, embora a concordância exata nas partes das questões tenha chegado a 70% — um corretor é julgado pelas decisões que ele informa ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **A IA como escapatória.** Como a IA generativa consegue produzir respostas a questões escritas, tarefas somativas não supervisionadas e para fazer em casa perdem validade: [[generative-ai-reduced-study-time-math|medidas supervisionadas e sem auxílio são essenciais]] porque o desempenho não supervisionado é inflado pela IA, e [[generative-ai-guardrails-harm-learning|ferramentas com guarda-corpos (dica em vez de resposta)]] podem eliminar a penalidade em provas que a IA sem proteções causa. O [[chirikov-ai-grade-inflation-2026|quase experimento de Chirikov (2026)]] sobre mais de 500.000 notas torna o mecanismo concreto: após o lançamento do ChatGPT, cursos com mais tarefas expostas à IA viram a fatia de notas A subir em 13 pontos percentuais, e o efeito se concentrou em **cursos pesados em lições de casa** (mais 16 pp na estimativa de diferenças-triplas) — evidência direta de que é nas lições de casa não supervisionadas, e não em [[learning-gains|ganhos de aprendizagem]] genuínos, que a IA infla os resultados somativos.
+- **Estudantes não conseguem identificar de forma confiável itens redigidos por IA.** Em uma prova de Medicina de Família valendo crédito, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] não encontraram diferença significativa na atribuição de fonte entre 30 itens de múltipla escolha gerados por IA e 30 itens de exame de licenciamento, com reconhecimento correto médio de 68,6 a 77,5 por cento e 18,2 por cento dos itens gerados eliminados na [[human-in-the-loop-ai|revisão humana]].
 - **Provas geradas por IA.** O [[assessing-quality-ai-generated-exams-field-2025|estudo de campo em larga escala]] e a [[ai-vs-human-assessment-efl-tpck-2026|pesquisa em avaliação em EFL]] examinam se a IA consegue *gerar* provas e tarefas de avaliação de alta qualidade — um uso emergente de design somativo da IA.
 
 ## Formatos somativos resistentes à IA
@@ -66,9 +71,15 @@ A literatura de avaliação da base de conhecimento enfatiza consistentemente qu
 - **O formato somativo é uma alavanca de validade e integridade:** formatos somativos resistentes à IA (oral, supervisionado, sem consulta, presencial) preservam a conexão entre desempenho avaliado e aprendizagem real.
 - **As medidas supervisionadas e sem auxílio são o sinal confiável:** quando estudantes usam IA, provas somativas sem auxílio — não lições de casa — revelam a aprendizagem genuína.
 - **A pontuação automatizada precisa de escrutínio psicométrico:** usar LLMs para corrigir provas de alto impacto exige avaliação de confiabilidade, justiça e validade, e não apenas de acurácia.
- O erro de correção também depende da nota: ao longo de 32 submissões de prova de saúde pública, os LLMs evitaram as extremidades da escala — nenhum E ou F apareceu no modo rápido —, enquanto o melhor modelo acertou exatamente a nota humana em 50,0% e dentro de ±1 nota em 90,6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- O erro de correção também depende da nota: ao longo de 32 submissões de prova de saúde pública, os LLMs evitaram as extremidades da escala — nenhum E ou F apareceu no modo rápido —, enquanto o melhor modelo acertou exatamente a nota humana em 50,0% e dentro de ±1 nota em 90,6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **A IA também pode gerar provas:** a geração assistida por IA de provas e tarefas é uma aplicação emergente de design somativo que ela mesma precisa de avaliação de qualidade.
 - **Reconsidere o propósito da nota, não apenas o formato.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais e Galy (2026)]] criticam a nota tradicional, somativa e referenciada a norma por encorajar aprendizagem superficial e fragmentada, dar pouco controle ou transparência aos estudantes, prejudicar a [[motivation|motivação]] intrínseca, alimentar estresse e [[well-being|ansiedade]], e perpetuar iniquidades, ao mesmo tempo que avalia em grande parte memorização em vez de aplicação no mundo real. Eles posicionam a reavaliação, a [[mastery-learning|nota baseada em padrões]] e o *ungrading* como inovações focadas na nota que podem amenizar a prática pesada em avaliação somativa, ao mesmo tempo que reconhecem que elas permanecem marginais na educação em gestão por causa de barreiras normativas — nota na curva, sinalização externa (rankings, estágios, acreditação) e mentalidade instrumental dos estudantes — e recomendam experimentação incremental com apoio institucional.
+
+## Ideias equivocadas comuns
+
+- **"Um LLM não consegue corrigir segundo padrões oficiais."** Contra **notas oficiais moderadas**, um LLM multimodal que corrigiu **10.364 páginas manuscritas** de Olimpíada de Física e de universidade correlacionou-se fortemente. A concordância de desfechos pode sobreviver à pontuação imprecisa no nível do item — o que significa que a pergunta útil é onde a precisão no nível do item é de fato exigida.
+- **"A inflação de notas por IA é especulação."** O quase experimento de [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] sobre **mais de 500.000 notas** torna o mecanismo concreto: após o lançamento do ChatGPT, **cursos com mais tarefas expostas à IA viram a fatia de notas mais altas subir**. O efeito se concentrou onde as tarefas estavam expostas, que é o padrão que um mecanismo preveria.
+- **"Estudantes que usam IA não podem ser distinguidos dos que não usam, então a proveniência é uma causa perdida."** O achado de que **não houve diferença significativa na atribuição de fonte** entre itens gerados por IA e itens de exame de licenciamento, com reconhecimento correto de **68,6-77,5 por cento** e uma taxa de atribuição incorreta de **18,2 por cento**, é sobre o reconhecimento falhando — não sobre a proveniência ser desnecessária. Se algo, ele eleva a exigência de proveniência verificada.
 
 ## Conceitos conectados
 
@@ -109,3 +120,4 @@ A literatura de avaliação da base de conhecimento enfatiza consistentemente qu
 - [[ai-grading-handwritten-physics-2026]] — Correção por IA de avaliações manuscritas de física (Olimpíada)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Estudantes não conseguem identificar de forma confiável itens redigidos por IA

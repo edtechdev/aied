@@ -1,19 +1,23 @@
 ---
 title: Aprendizagem adaptativa
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,7 +42,7 @@ ai_assist:
 - **Personalização em escala:** sistemas de [[personalized-learning]] usam algoritmos adaptativos para servir trajetórias de aprendizagem únicas para cada estudante. O [[deeptutor]] e os [[ai-powered-personalized-learning-elementary-fractions-2026|tutores de frações para o ensino fundamental]] demonstram a personalização adaptativa na prática.
 - **Sequenciamento de conteúdo:** o [[adaptive-pretesting-retention|pré-teste adaptativo]] e os [[adapt-adaptive-lesson-plan-transformer|transformadores de planos de aula]] otimizam a ordem e o tipo de conteúdo apresentado.
 - **Integração com STI:** os [[intelligent-tutoring|sistemas de tutoria inteligente]] são a plataforma canônica de aprendizagem adaptativa, combinando diagnóstico com adaptação.
-- **Perfilagem e diagnóstico orientados por AutoML:** os modelos educacionais tradicionais têm dificuldade em processar dados de comportamento de aprendizagem multissource e heterogêneos, o que limita a perfilagem do estudante e o desenvolvimento de modelos de diagnóstico. Um framework de busca arquitetural neural cognitiva personalizada, orientado por [[reinforcement-learning|aprendizagem de máquina]] automatizada, integra dados educacionais [[multimodal|multimodais]] com métodos heterogêneos, gerando modelos de diagnóstico sob medida para perfis heterogêneos de estudantes e apoiando uma análise dinâmica, e não estática, dos processos de aprendizagem.
+- **Perfilagem e diagnóstico orientados por AutoML:** os modelos educacionais tradicionais têm dificuldade em processar dados de comportamento de aprendizagem multissource e heterogêneos, o que limita a perfilagem do estudante e o desenvolvimento de modelos de diagnóstico. Um framework de busca arquitetural neural cognitiva personalizada, orientado por [[machine-learning|aprendizagem de máquina]] automatizada, integra dados educacionais [[multimodal|multimodais]] com métodos heterogêneos, gerando modelos de diagnóstico sob medida para perfis heterogêneos de estudantes e apoiando uma análise dinâmica, e não estática, dos processos de aprendizagem.
 
 ### Evidências de eficácia
 
@@ -63,6 +67,7 @@ A aprendizagem adaptativa é frequentemente confundida com a [[personalized-lear
 ### Evidências de pesquisa
 
 - **Evidências [[meta-analysis-systematic-review|metaanalíticas]] sobre ferramentas adaptativas + de IA.** Uma [[burneo-can-edtech-close-learning-gaps-2026|meta-análise do Banco Mundial]] de 14 [[rct|RCTs]] reúne aprendizagem assistida por computador adaptativa, tutoria inteligente e IA generativa em uma escala comum, estimando um ganho médio de aprendizagem de ~0,125 dp, sem diferença significativa entre as duas gerações de tecnologia — evidência de que é o mecanismo de adaptação, e não a geração específica da ferramenta, que produz os ganhos.
+- **Classificação interpretável mais roteamento com orçamento de tempo.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] mantêm alguns escalares explícitos de quem aprende — sensibilidade da classificação, qualidade da resposta e momento — e roteiam questões sob um orçamento de tempo, cortando aproximadamente pela metade a volatilidade da atualização da classificação contra o Elo fixo, embora fiquem atrás do rastreamento neural de conhecimento na previsão (AUC 0,7532 contra 0,8658 do GKT).
 - **Algoritmos adaptativos comparados em domínios dinâmicos.** A [[graph-its-adaptive-algorithms-2026|pesquisa sobre STI baseados em grafos]] compara múltiplos algoritmos de aprendizagem adaptativa (incluindo propagação bayesiana de conhecimento e lógica fuzzy intuicionista) em um framework de representação de conhecimento baseado em grafos para currículos dinâmicos.
 
 - **O RL como mecanismo de adaptação, mapeado empiricamente.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] sintetizam 89 estudos de RL na educação e constatam que a adaptação se divide em mecanismos relacionados ao conteúdo (sequenciamento instrucional/cronogramação de conteúdo, n = 53) e relacionados à orientação (dicas, [[feedback]], seleção de atividades, n = 36) — com o RL mostrando superioridade estatisticamente significativa sobre as linhas de base com mais frequência na adaptação relacionada à orientação do que no sequenciamento de conteúdo. Eles recomendam RL sem modelo para a aprendizagem adaptativa e alertam que o RL clássico superou o RL profundo nos estudos revisados.
@@ -86,6 +91,29 @@ A aprendizagem adaptativa é frequentemente confundida com a [[personalized-lear
 
 - **Adaptação a partir de sequências de processo, não de escores agregados.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] derivaram regras de andaimento minerando a *ordem* das 65 jogadas de diálogo dos estudantes em trios, movendo a aprendizagem adaptativa de medidas comportamentais ou de desempenho agregadas rumo a sequências de processo individuais; o andaimento máximo elevou o comportamento em tarefa, mas também o roteirização, e o desenho não foi testado.
 
+## Ideias equivocadas comuns
+
+- **"Adaptativo significa personalizado, significa individualizado."** [[khalifeh-redefining-personalized-learning-ai-2026|Revisões sistemáticas]] constatam que esses quatro termos são usados **de forma inconsistente na literatura**, o que significa que os tamanhos de efeito relatados dependem fortemente de como a adaptação foi operacionalizada, e não da adaptação em si. Uma meta-análise que reúne estudos que usaram as palavras de formas diferentes está reunindo tratamentos diferentes, e a média não descreve nenhum deles.
+- **"Domínio alcançado no sistema é domínio aprendido."** Em um **experimento de campo com 6.000 estudantes do ensino fundamental 2**, uma regra de domínio de três acertos seguidos apoiada por IA elevou **o alcance definido pela plataforma em cerca de 28,7 pontos percentuais sem melhorar** uma medida de transferência. A regra otimizou o próprio critério da plataforma. Esta é a demonstração mais clara disponível de que um sinal de domínio é um modelo da aprendizagem, e não a aprendizagem.
+- **"A adaptatividade baseada em correção sabe quando parar."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] constataram que sistemas que inferem domínio a partir da correção correm o risco de **encerrar a prática cedo demais** — o sistema lê uma sequência correta como compreensão e retira a prática de que quem aprende ainda precisava. Adaptatividade que para no sucesso pode subtrair exatamente as tentativas que produzem retenção.
+- **"O gargalo é quão boa é a adaptação."** Em um **RCT distrital de dois anos**, a restrição determinante foi a **adesão**: reduzir a inscrição a um único passo elevou a adesão à primeira sessão de cerca de **45% para 83%** apenas com mudanças de desenho, e os ganhos por intenção de tratar cresceram na mesma medida. A adaptação mais engenhosa não serve a ninguém que nunca chega até ela.
+- **"O engajamento persiste uma vez estabelecido."** Uma revisão alinhada à PRISMA de **44 estudos** constatou que a literatura sobre engajamento é enviesada para o engajamento comportamental e mais escassa no engajamento agêntico, e relata um **efeito de novidade** — o engajamento declinando ao longo do tempo em estudos longitudinais do ALEX e de sistemas similares. O engajamento inicial não é uma propriedade estável do desenho.
+
+## O que isso significa na prática
+
+**Para instrutores e designers**
+
+- Defina domínio pelo que você precisa que seja verdadeiro, não pelo que a plataforma consegue ver. O ganho de 28,7 pontos no alcance sem melhora na transferência é o modo de falha contra o qual desenhar: se o critério é três seguidos, três seguidos é o que você vai obter.
+- Mantenha a prática indo além do sinal de correção para tudo o que você precisa que seja retido. Use revisão [[desirable-difficulties|espaçada e intercalada]] em vez de confiar que um sistema adaptativo decida quando quem aprende terminou.
+- Remova o atrito da inscrição antes de ajustar o algoritmo. 45% → 83% de adesão ao eliminar um passo superou a maioria das melhorias pedagógicas desta literatura.
+- Planeje para o decaimento do engajamento. O trabalho longitudinal documenta o declínio; um desenho que depende de uso voluntário sustentado precisa de uma razão para continuar sendo usado.
+- Verifique sobre qual constructo um sistema diz se adaptar. O engajamento comportamental é o mais estudado e o menos informativo sobre aprendizagem; o engajamento agêntico é o mais escasso na base de evidências.
+
+**Para desenvolvedores**
+
+- Relate a definição operacional de "adaptativo" junto com qualquer tamanho de efeito que você cite, porque as definições da literatura divergem e os números agrupados herdam essa ambiguidade.
+- Distinga seu critério de domínio dos resultados de aprendizagem na sua própria validação. Se sua medida de validação é o mesmo sinal que dirige a adaptação, ela não é evidência independente.
+
 ## Conceitos conectados
 
 - [[online-teaching-and-learning]] — Ensino e aprendizagem on-line
@@ -106,6 +134,7 @@ A aprendizagem adaptativa é frequentemente confundida com a [[personalized-lear
 
 ## Artigos conectados
 
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: um sistema de classificação adaptativo consciente do momento para avaliação personalizada
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Generalização excessiva enganosa: o domínio adaptativo pode encerrar a prática antes de os estudantes saberem quando conter uma ação (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (briefing da Stanford SCALE/NSSA)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
@@ -117,7 +146,7 @@ A aprendizagem adaptativa é frequentemente confundida com a [[personalized-lear
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[chudziak-ai-math-tutoring-platform]] — Tutoria de matemática adaptativa/personalizada multiagente (Chudziak & Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[deeptutor]]
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]

@@ -1,7 +1,7 @@
 ---
 title: "Código aberto"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -14,7 +14,7 @@ confidence: medium
 connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
 methods: [benchmark]
 translation_of: concepts/open-source
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,9 +22,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Código aberto** — o uso de *modelos, código, dados e conteúdo* com licença aberta na [[ai-education|IA na educação]]. A abertura é o principal contrapeso da base de conhecimento à dependência de fornecedor e à [[privacy|exposição de dados]]: modelos de pesos abertos podem rodar em hardware do campus para satisfazer obrigações da FERPA, do GDPR e da Lei de IA da UE, corpora com licença aberta podem ser indexados e ajustados sem permissão da editora, e a publicação aberta de *benchmarks* e conjuntos de dados torna a [[research-methods-aied|pesquisa]] replicável. Os ônus são igualmente reais: infraestrutura e garantia de [[pedagogical-safety|segurança]], manutenção que sobreviva à bolsa, e qualidade que a abertura por si só não garante.
 
@@ -45,7 +49,7 @@ De forma ampla, "aberto" na educação com IA significa que quatro tipos de arte
 
 Os pesos abertos importam mais onde dados de estudantes não podem sair do campus. O [[lata-ferpa-compliant-local-llm-autograder|LaTA]] é um corretor automático local com [[llm|LLM]] compatível com a FERPA, de encaixe imediato, para cursos de [[stem-education|STEM]] de ciclo superior da graduação, construído sobre rubricas e soluções de referência de autoria dos instrutores, com custo marginal zero por submissão. O [[programming-its|SCRIPT]], um sistema de [[intelligent-tutoring|tutoria]] em Python na Universidade de Bielefeld, deliberadamente **evita APIs comerciais de LLM** e hospeda localmente um modelo Llama-70B de pesos abertos para atender ao GDPR e à Lei de IA da UE (que classifica alguns usos de IA na educação como de alto risco), separando os registros de IP do sistema de tutoria, usando nomes de usuário pseudônimos e registrando toques de tecla apenas com consentimento explícito — uma escolha que os autores também creditam pelo menor impacto ambiental e melhor reprodutibilidade.
 
-A qualidade deixou de ser o preço automático da abertura. O [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] aplica [[reinforcement-learning|aprendizagem por reforço]] (DAPO) e ajuste supervisionado a uma família de modelos abertos, minerando 440 negativos difíceis, gerando 40.000 respostas sintéticas reduzidas a 1.050 exemplos ordenados por dificuldade, e alcançando **96,52%** no *benchmark* de pedagogia — acima dos 90,55% do Gemini-3 Pro —, com 32B de parâmetros densos. O [[aiawe-automated-writing-evaluation|AiAWE]] chega a conclusões semelhantes para a [[automated-assessment|avaliação automatizada de escrita]]: um Gemma-3-27B-it de pesos abertos adaptado com LoRA supera o LLaMA-3.3-70B e uma linha de base de GPT-3.5 ajustado em 480 redações do TOEFL e roda em um servidor de nível de consumo, com o achado subsidiário impressionante de que a contagem de parâmetros *não* é um preditor confiável de desempenho corrente abaixo sob adaptação LoRA. A contraevidência merece o mesmo destaque: um [[mllm-scientific-visualization-literacy|benchmark de seis MLLMs]] (três fechados, três abertos) concluiu que todo modelo de código aberto ficou abaixo da linha de base humana em letramento de [[visualization|visualização]] científica, enquanto o Gemini superou a média humana em vários subconjuntos. A abertura eleva o teto de controle, não de capacidade.
+A qualidade deixou de ser o preço automático da abertura. O [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] aplica [[reinforcement-learning|aprendizagem por reforço]] (DAPO) e ajuste supervisionado a uma família de modelos abertos, minerando 440 negativos difíceis, gerando 40.000 respostas sintéticas reduzidas a 1.050 exemplos ordenados por dificuldade, e alcançando **96,52%** no *benchmark* de pedagogia — acima dos 90,55% do Gemini-3 Pro —, com 32B de parâmetros densos. O [[aiawe-automated-writing-evaluation|AiAWE]] chega a conclusões semelhantes para a [[automated-essay-scoring|avaliação automatizada de escrita]]: um Gemma-3-27B-it de pesos abertos adaptado com LoRA supera o LLaMA-3.3-70B e uma linha de base de GPT-3.5 ajustado em 480 redações do TOEFL e roda em um servidor de nível de consumo, com o achado subsidiário impressionante de que a contagem de parâmetros *não* é um preditor confiável de desempenho corrente abaixo sob adaptação LoRA. A contraevidência merece o mesmo destaque: um [[mllm-scientific-visualization-literacy|benchmark de seis MLLMs]] (três fechados, três abertos) concluiu que todo modelo de código aberto ficou abaixo da linha de base humana em letramento de [[visualization|visualização]] científica, enquanto o Gemini superou a média humana em vários subconjuntos. A abertura eleva o teto de controle, não de capacidade.
 
 O OmniEdu publica todo o pipeline, e não apenas os pesos: a supervisão equilibrada por capacidade sobre uma mistura de 69.999 exemplos elevou toda escala de uma família K-12 aberta de 4B/9B/27B — o modelo 4B ajustado ganhou 55 pontos de taxa de vitória com andaimes no MathTutorBench sobre sua base —, enquanto o diagnóstico de estado de conhecimento permaneceu sua capacidade mais fraca, em 54,04% ([[omniedu-open-educational-foundation-models-2026|Liang et al., 2026)]]).
 
@@ -57,11 +61,13 @@ O caso mais claro para código aberto é a replicação. O [[oatutor-open-source
 
 Várias contribuições aqui são *infraestrutura de avaliação* aberta, e não sistemas. O [[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark]] (CDPK + SEND, construído a partir de itens genuínos de provas de professores chilenos) abrange 97 modelos: o DeepSeek R1 de pesos abertos alcançou 86,65% contra um top 10 de modelos majoritariamente fechados de raciocínio, e a fronteira custo–acurácia se moveu de ~50% para ~82% a \\$0,10/M tokens de entrada entre abril de 2024 e junho de 2025 — com o Qwen-3 8B aberto a 3,5¢ quase igualando o melhor modelo fechado de abril de 2024 a mais de 400× menos custo. O desempenho cai acentuadamente abaixo de cerca de 8B parâmetros, o que é uma restrição prática de dimensionamento para implantações no campus. O [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] publica um conjunto de dados, um esquema e um protótipo para avaliação baseada em rastros de tutoria multiagente socialmente inteligente (540 participantes, 360 sessões, 1.440 episódios de tarefa). O [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] mostra o caso cultural para dados abertos: 24.795 pares de instrução-resposta ao longo de sete línguas e 41 técnicas pedagógicas extraídas de fontes védicas e clássicas, alinhados ao [[curriculum-design|currículo]] da CBSE, o que permitiu a um modelo compacto de 7B se aproximar de um modelo de referência de propósito geral muito maior (pontuação mediana de juiz 6,39 contra 6,54) a uma fração do custo de implantação. [[benchmark|Benchmarks]] de autoria de estudantes são outra rota para a abertura: o [[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]] reúne 80 tarefas acadêmicas de longo horizonte de 230 candidatas enviadas por estudantes (abrangendo mais de 25 domínios profissionais, 16 exigindo GPUs CUDA, rodadas em *sandboxes* Docker isolados) e estende um ecossistema aberto de agentes para a avaliação de nível acadêmico. O [[aied-carbon-footprint-reporting|Eimler et al. (2026)]] argumentam que a abertura é uma obrigação [[sustainability|ambiental]] também: revisando todos os artigos do AIED 2025, eles encontraram um padrão de "adoção de LLM sem revelação" e responderam com uma metodologia aberta de medição — ferramentas de software mais uma fórmula que estima o gasto computacional mesmo quando a contagem de parâmetros é desconhecida.
 
-### Recursos educacionais abertos e conteúdo aberto
+### Onde o conteúdo aberto encontra o código aberto
 
-O [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] é o único artigo da base de conhecimento em que os **recursos educacionais abertos são o objeto central**, e não uma referência passageira. Eles constroem um assistente de IA de base de conhecimento local para [[cs-education|educação em ciência da computação]] a partir de 82 documentos REA em hardware de nível de consumo (uma RTX 3060 com 12 GB de VRAM), combinando extração estruturada, [[rag|geração aumentada por recuperação]] e ajuste fino ciente de quantização NF4 de 4 bits. O ajuste fino acrescentou valor real além da recuperação (Qwen-7B 69,8%, +3,2 pp, p = 0,031; DeepSeek-MoE 78,6%, +12,0 pp, p < 0,001, incluindo 82,3% em raciocínio multi-salto); o ajuste ciente de quantização manteve a lacuna de acurácia em 4 bits em 1,7 e 1,2 pp, ao mesmo tempo que cortou a VRAM em ~38% e a energia para 1,8 mWh por consulta (43,8% abaixo da linha de base); e a [[hallucination-risk|alucinação]] inflada pela quantização foi em parte recuperada pelo ajuste fino (DeepSeek-MoE 10,4% → 8,1%), medida por um procedimento de NLI em duas etapas contra os fragmentos de REA recuperados. O ponto analítico é generalizável: um corpus com licença aberta pode ser indexado, adaptado e servido sem permissões de editora, e fundamentar um assistente em REA recuperadas dá uma trilha de proveniência verificável — que é exatamente o que um corpus proprietário de livro didático não consegue oferecer.
+Os recursos educacionais abertos têm página própria, [[open-education]], porque o argumento lá é pedagógico e conduzido pela licença, e não infraestrutural. O que pertence a esta página é a costura onde as duas aberturas se encontram, e ela é mais estreita do que parece.
 
-A abertura do conteúdo e a abertura dos modelos também são complementares em outros lugares. O OATutor reúne livros da OpenStax em CC BY em um sistema cujo código é licenciado sob MIT, de modo que os termos de licença de código e conteúdo precisam ser mantidos compatíveis por design. Uma [[egai-power-systems-education|biblioteca aberta e executável de módulos para IA em sistemas de energia]] reduz a barreira de entrada com *notebooks* Jupyter que rodam localmente ou no Colab, entregues por um curso on-line da IEEE. E um [[engineering-education|currículo de engenharia mecânica]] baseado em projetos publica seu plano de ensino, dados e código em repositórios de acesso aberto para que outras instituições possam adotá-lo ([[mechanical-engineering-ai-curriculum-2026]]). Adjacente aos REA, a oferta aberta de *cursos* é onde a economia está mudando mais rápido: o MAIC relata o colapso da produção de MOOCs de aproximadamente \\$25.000 e 60 horas por curso para menos de \\$2 e 30 minutos com geração multiagente movida por LLM. Se a produção de conteúdo se torna quase gratuita, o argumento dos REA se afasta do custo de produção e se volta para a liberdade de licenciamento, a verificabilidade e a garantia de qualidade — o que é uma proposta diferente daquela sobre a qual a defesa dos REA foi construída.
+A costura é uma restrição de compatibilidade de licença. O [[oatutor-open-source-adaptive-tutor-2023|OATutor]] pareia uma base de código sob MIT com uma biblioteca de conteúdo CC BY de livros de álgebra da OpenStax, o que significa que os termos do código e os termos do conteúdo precisam ser mantidos compatíveis por design, e uma licença permissiva em um não fornece o outro. A costura também aparece quando um corpus com licença aberta é o que torna lícito rodar um sistema local: [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] indexam 82 documentos REA em um assistente de base de conhecimento em uma GPU de consumo de 12 GB, e a história inteira é uma história de código aberto sobre quantização, alucinação e proveniência, e não um argumento sobre livros didáticos.
+
+O que esta página não faz é advogar pelo recurso. Se um livro didático escrito por máquina é aberto por padrão, se uma licença sobrevive a uma remixagem gerada e se a pedagogia aberta ensina algo mensurável são questões para [[open-education]], e são as questões sobre as quais a literatura atual do campo de fato trata.
 
 ### Benefícios e ônus
 
@@ -73,8 +79,21 @@ A abertura do conteúdo e a abertura dos modelos também são complementares em 
 - **Para instrutores e instituições:** verifique a licença do *conteúdo*, assim como a do código, antes de adotar um sistema — código MIT sobre livros CC BY é reutilizável, mas uma licença permissiva não garante que trilhas de tutoria, bancos de itens ou traduções existam. Prefira modelos abertos quando dados de estudantes legalmente não podem sair do campus ([[lata-ferpa-compliant-local-llm-autograder]], [[programming-its]]), mas coloque o modelo como referência em *sua* tarefa em vez de confiar em placares gerais ([[cdpk-pedagogy-benchmark-llms]]). Orce recursos para alguém rodar e avaliar o sistema após o piloto.
 - **Para desenvolvedores e pesquisadores:** publiquem a coisa inteira — a publicação de ponta a ponta do OATutor (código, conteúdo, *harness* de experimento) é o padrão de replicabilidade que essa literatura continua recompensando. Publiquem prompts e esquemas de extração junto com os pesos ([[programming-its]], [[kar-mathbuddy-affective-math-tutoring-2025]]). Relatem computação e carbono ([[aied-carbon-footprint-reporting]]). Fundamentem assistentes em corpora com licença aberta para que a proveniência seja verificável e a adaptação seja lícita ([[shen-sustainable-ai-knowledge-base-cs-education-2026]]). Usem ajuste fino ciente de quantização em vez de quantização simples se acurácia e energia importam, e mantenham licenças de código e conteúdo compatíveis.
 
+## Ideias equivocadas comuns
+
+**"Pesos abertos, código aberto, conteúdo aberto e pedagogia aberta são a mesma abertura."** São quatro coisas diferentes e falham independentemente. Os argumentos sobre recursos e prática vivem em [[open-education]]; esta página cobre os artefatos que quem constrói entrega e licencia. *Pesos* abertos permitem implantação local; *código* aberto permite modificação; *conteúdo* aberto permite reuso e adaptação; *pedagogia* aberta diz respeito a quem decide o que é ensinado. Um modelo com pesos abertos e um pipeline de treinamento proprietário, embrulhado em uma ferramenta com interface fechada e uma biblioteca de conteúdo com todos os direitos reservados, é "aberto" em um dos quatro sentidos e fechado em três.
+
+A própria palavra é contestada a montante. [[deimann-rethinking-openness-ai-2026|Deimann e Lukács (2026)]] observam que o debate sobre abertura chegou à IA pela comunidade de código aberto, com a primeira Definição de IA de Código Aberto publicada em 2024, e argumentam que a abertura funciona ali como um imaginário, e não como uma propriedade: uma aspiração que as instituições adotam na linguagem enquanto o regime ao redor permanece intacto. É uma verificação útil para esta página, porque uma licença é uma propriedade e um movimento não é.
+
+**"Aberto significa mais barato."** Pesos abertos tornam a implantação local possível, mas **alguém ainda precisa hospedar, corrigir e avaliar o sistema** — e essa pessoa precisa sobreviver à bolsa que financiou o trabalho. Os ônus nomeados nesta literatura são concretos: infraestrutura, garantia de [[pedagogical-safety|segurança]] e manutenção. O custo total pode exceder uma taxa de licença, e instituições que tratam a abertura como economia frequentemente descobrem a obrigação de manutenção depois que a equipe do projeto se dispersou.
+
+**"Modelos de fronteira fechados são simplesmente melhores, então alternativas abertas são um recurso de reserva."** A lacuna é mais estreita do que essa suposição implica. No [[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark]] (CDPK + SEND, construído a partir de itens genuínos de provas de professores chilenos) cobrindo 97 modelos, o **DeepSeek R1 de pesos abertos alcançou 86,65%**, contra um top 10 formado majoritariamente por modelos fechados de raciocínio — e a comparação custo–acurácia corre ainda mais na direção aberta. O argumento restante a favor da abertura é, portanto, sobre controle e auditabilidade, e não sobre um sacrifício de capacidade.
+
+**"Liberar os pesos é liberar o trabalho."** As contribuições abertas mais fortes liberam o pipeline. O OmniEdu publica supervisão equilibrada por capacidade sobre uma mistura de 69.999 exemplos, em vez de apenas os pesos finais, elevando toda escala de uma família K-12 aberta de 4B/9B/27B, com o modelo 4B ajustado ganhando **55 pontos** de desempenho de andaimento no MathTutorBench; [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] igualmente documenta seu procedimento de RL e ajuste fino, incluindo 440 negativos difíceis minerados e 40.000 respostas geradas. Pesos sem a receita reproduzem um resultado sem reproduzir o método.
+
 ## Conceitos conectados
 
+- [[open-education]]
 - [[intelligent-tutoring]]
 - [[llm-training-and-fine-tuning]]
 - [[adaptive-learning]]
@@ -102,7 +121,7 @@ A abertura do conteúdo e a abertura dos modelos também são complementares em 
 - [[programming-its]] — LLM de pesos abertos autohospedado para conformidade com GDPR/Lei de IA da UE em um ITS em Python
 - [[aiawe-automated-writing-evaluation]] — Modelo de pesos abertos adaptado com LoRA para avaliação automatizada de escrita
 - [[stanbkt-bayesian-knowledge-tracing]] — Pacote Python aberto para rastreamento de conhecimento bayesiano completo
-- [[deeptutor]] — Framework de tutoria agêntica totalmente de código aberto com memória de quem aprende
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Framework de tutoria agêntica totalmente de código aberto com memória de quem aprende
 - [[vismatic-secure-sandbox-cs-education]] — Sandbox em contêiner aberto para avaliação orientada ao processo
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — Tutor de matemática sensível ao afeto com base de código aberta
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmark aberto de pedagogia ao longo de 97 modelos e a fronteira custo–acurácia
@@ -111,7 +130,6 @@ A abertura do conteúdo e a abertura dos modelos também são complementares em 
 - [[iks-instruct-dataset-indian-knowledge]] — Conjunto de dados multilíngue aberto para instrução culturalmente fundamentada
 - [[aied-carbon-footprint-reporting]] — Método de código aberto para relatar o custo ambiental de LLM
 - [[egai-power-systems-education]] — Biblioteca aberta e executável de módulos para IA em engenharia
-- [[mechanical-engineering-ai-curriculum-2026]] — Currículo, dados e código publicamente disponíveis
 - [[mooc-to-maic]] — Geração de cursos movida por LLM e a economia em mudança da produção de cursos
 - [[agentic-ai-education-scoping-review]]
 - [[yu-academiclaw-student-challenges-ai-agents-2026]]

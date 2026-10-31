@@ -1,20 +1,24 @@
 ---
 title: "Resolução de problemas"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,31 @@ A resolução de problemas é o desfecho aplicado do [[critical-thinking|pensame
 ### Codificação automatizada de competências de CPS
 
 - Medir a competência de [[collaborative-learning|resolução colaborativa de problemas (CPS)]] tipicamente exige codificar comportamento a partir de dados de processo de tarefas simuladas em competências específicas de CPS. O [[prompt-engineering|prompting consciente de contexto]] de modelos de linguagem pré-treinados pode automatizar essa codificação, modelando dependências contextuais e fundindo competências cognitivas e sociais para alcançar desempenho superior ao de baselines fortes em conjuntos de dados de tarefas de CPS — abordando a intensidade de trabalho da codificação manual e habilitando avaliação em larga escala e em tempo real.
+
+## Ideias equivocadas comuns
+
+**"A IA que ajuda os estudantes a explorar perspectivas está ajudando-os a pensar."** O mesmo comportamento sustenta dois resultados muito diferentes: ferramentas de IA ajudam os estudantes a explorar múltiplas perspectivas e a gerar seus próprios problemas, e também podem encorajar a preguiça metacognitiva. A pergunta que distingue é se o estudante está fazendo o enquadramento ou o recebendo — um sistema que fornece perspectivas candidatas executou o passo generativo que o exercício existia para exigir.
+
+**"A resolução de problemas é o alvo, então a formulação de problemas é um bônus."** A formulação de problemas é onde a transferência é construída, porque exige que quem aprende construa a estrutura, em vez de operar dentro de uma que o sistema forneceu. Um currículo que só fornece problemas bem formulados treina o desempenho em problemas bem formulados, que não é a condição com que os estudantes se deparam depois.
+
+**"A simulação da resolução colaborativa de problemas substitui a colaboração."** Uma simulação reproduz o padrão de interação, e a habilidade em desenvolvimento é a regulação de um problema conjunto por participantes que estão de fato presentes. Agentes específicos de participantes que modelam colaboradores reais são um instrumento de pesquisa para estudar essa regulação — úteis pelo que revelam sobre o processo, e não uma forma de dar aos estudantes a prática sem os pares.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Peça aos estudantes que formulem o problema antes de resolver um. Formular exige construir a estrutura, que é onde a transferência se constrói, e é o passo que a IA mais prontamente executa no lugar deles.
+- Distinga um parceiro de pensamento de um substituto na própria tarefa: exija o enquadramento, a abordagem e a justificativa do estudante registrados, para que o registro mostre quem fez o trabalho generativo.
+- Fique atento ao estudante que explora muitas perspectivas com fluência e não produz uma posição própria; essa é a preguiça metacognitiva vestindo a aparência de engajamento.
+
+**Para desenvolvedores**
+
+- Desenhe para problemas e estruturas gerados pelos estudantes, e não apenas para melhores dicas sobre problemas dados.
+- Instrumente o passo de enquadramento, e não apenas os passos de solução; um sistema que rastreia respostas e não a formulação de problemas não consegue ver o resultado que importa.
+
+**Para pesquisadores**
+
+- Simulações com agentes específicos de participantes são um instrumento forte para estudar a regulação colaborativa. Relate-as como tal, e não como evidência sobre colaboração estudantil não supervisionada.
 
 ## Conceitos conectados
 

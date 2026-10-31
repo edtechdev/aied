@@ -1,19 +1,23 @@
 ---
 title: Análise de redes
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-04T10:50:04-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,7 @@ Os métodos de análise de redes compartilham uma premissa central: a estrutura 
 ## Variantes usadas no corpus da base de conhecimento
 
 - **Análise de Redes Epistêmicas (ENA)** — a variante mais comum na base de conhecimento (discutida em ~24 artigos). A ENA modela a coocorrência de códigos ou construtos dentro de segmentos de discurso ou atividade, produzindo redes que mostram quais ideias, habilidades ou ações epistêmicas tendem a estar conectadas em um determinado contexto. Ela é usada para comparar como diferentes grupos (por exemplo, estudantes de letramento alto versus baixo, colaboradores humanos versus IA) estruturam sua cognição. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **A ENA também mapeia a fala sobre competência de [[teacher-role|educadores]].** Aplicar a Análise de Redes Epistêmicas a entrevistas com 24 educadores do ensino superior na Aotearoa Nova Zelândia modelou os vínculos entre sete dimensões do HACC e encontrou redes de educadores principais diferindo significativamente das de educadores sênior (U = 10,00, p = .04) e das de educadores em início de carreira (U = 7,00, p = .01) no primeiro eixo ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **Análise de Redes Sociais (SNA)** — modela relações entre pessoas (quem aprende, professores, agentas) para revelar estruturas de colaboração, influência, centralidade e comunidade. Útil para estudar a aprendizagem [[collaborative-learning|colaborativa]] e entre pares. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Análise de Redes de Transição (TNA)** — modela sequências temporais de estados discretos (por exemplo, ações de quem aprende em uma sessão de tutoria) como uma rede dirigida, quantificando a probabilidade de mover-se entre estados. A TNA é usada para revelar laços comportamentais, trajetórias e dinâmicas de incorporação na interação entre quem aprende e a IA. ([[penny-transition-network-analysis-efl-writing-2026]])
 
@@ -62,6 +67,8 @@ Os métodos de rede são usados ao longo da base de evidências da base de conhe
 - **Interprete com cuidado.** A granularidade dos nós (por exemplo, um nó "chat" grosseiro) pode obscurecer a intenção; a classificação automatizada carrega alguma ambiguidade; e a estrutura de rede transversal não estabelece causalidade.
 - **Redes que expõem o que um agregado esconde.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] constataram que a turma com anotação por IA generativa superou e se engajou mais que seu controle, e então dividiram a turma experimental pela mediana de desempenho e mostraram que o ganho não foi compartilhado: os grupos de alto desempenho iniciaram 60,7% dos pedidos de feedback em suas anotações, contra 34,0% dos grupos de baixo desempenho, que permaneceram em um laço autorreferencial (separação de grupos significativa no eixo X da ENA, U = 25,00, p = 0,01). A lição de desenho é que um efeito no nível do grupo pode resumir duas estruturas de interação diferentes — e os dois grupos eram turmas intactas, de modo que a comparação identifica o padrão sem atribuí-lo causalmente.
 
+- **Clusters de co-palavras e de coautoria registram a prática de publicação tanto quanto a afinidade intelectual.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] adverte que a centralidade e a clusterização bibliométricas refletem quais veículos, idiomas e regiões estão indexados, de modo que um mapa de um campo não é uma medida neutra dele.
+
 ## Implicações para a pesquisa em IA na educação
 
 1. **Prefira métodos de processo a métricas apenas de produto.** Para avaliar se as ferramentas de IA apoiam a aprendizagem, modele como quem aprende de fato se engaja (incorporação, diálogo, revisão) com métodos de sequência/rede, em vez de confiar apenas nas notas finais.
@@ -72,6 +79,12 @@ Os métodos de rede são usados ao longo da base de evidências da base de conhe
 ## Validação por ENA de diálogo colaborativo simulado
 
 - **A ENA como validação de diálogo simulado.** Fang (2026) aplica a Análise de Redes Epistêmicas para avaliar se agentes de LLM ajustados reproduzem a estrutura do diálogo real de [[problem-solving|resolução colaborativa de problemas]]. Comparando vetores de adjacência simulados à rede empírica, ele relata uma distância de ENA de 0,17 — dentro do limiar do 95º percentil da distribuição nula, com um valor p de permutação de 0,65 —, demonstrando o poder da ENA como uma verificação [[quantitative-research|quantitativa]] da fidelidade das [[simulation|simulações]] generativas de discurso, ao lado de outras aplicações de ENA/SNA/TNA na pesquisa em educação.
+
+## Ideias equivocadas comuns
+
+- **"A análise de redes é objetiva porque é computacional."** **A codificação é o fundamento**: todas as variantes de rede dependem de codificar de forma confiável dados brutos (falas, eventos, relações) em nós discretos, e a codificação automatizada herda suas definições de quem as estabeleceu. A visualização se parece com uma estrutura emergente, e seus nós são escolhas interpretativas.
+- **"Uma mudança na estrutura da rede é automaticamente um ganho de aprendizagem em si."** Em uma discussão de caso com **vinte estudantes de pós-graduação de disciplinas mistas**, a **parcela de termos compartilhados de tamanho 3 subiu de 5,2% para 8,0%** enquanto os **tokens de conteúdo caíram para aproximadamente 0,65× seu nível pós-leitura**. Duas medidas estruturais se moveram em direções opostas, de modo que "a rede mudou" não é um achado até você dizer ao longo de qual medida e por que isso importa.
+- **"Compartilhar mais termos significa melhor colaboração."** Uma parcela crescente de termos compartilhados ao lado de uma diversidade decrescente de tokens de conteúdo é compatível com convergência para um vocabulário menor. Consenso e estreitamento são estruturalmente semelhantes, e é por isso que a medida precisa do conteúdo a partir do qual foi calculada.
 
 ## Conceitos conectados
 
@@ -96,3 +109,4 @@ Os métodos de rede são usados ao longo da base de evidências da base de conhe
 - [[youtube-frames-chatgpt-education]] — ENA dos enquadramentos do ChatGPT em educação no YouTube
 - [[agency-gap-ai-writing]] — A lacuna de agência na escrita apoiada por IA (ENA)
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[dang-human-ai-collaboration-competency-2026]] — A ENA também mapeia a fala sobre competência de educadores

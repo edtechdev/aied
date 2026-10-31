@@ -1,7 +1,7 @@
 ---
 title: "Comunidade de investigação"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Comunidade de investigação (CoI)** é um framework para conceituar uma experiência educacional significativa como a interação dinâmica de **presença cognitiva**, **presença social** e **presença docente**. Originada na [[research-methods-aied|pesquisa]] sobre aprendizagem mediada por computador e on-line (Garrison, Anderson & Archer, 2000), tornou-se um dos modelos mais usados para desenhar, avaliar e pesquisar a educação baseada em investigação [[online-teaching-and-learning|on-line e híbrida]]. Na era da [[generative-ai|IA generativa]], o framework está sendo reconceituado: o discurso produzido por máquina pode mimetizar uma presença autêntica, de modo que as presenças precisam ser compreendidas como realizações sociotécnicas de conjuntos humano–IA generativa, e não como atividade puramente humana.
 
@@ -67,6 +71,16 @@ Os próprios autores do framework fornecem uma taxonomia de papéis para essa co
 - A relação entre o envolvimento da IA generativa e a qualidade da investigação é **condicionada pela responsabilidade humana**, não linear: uma presença forte pode ocorrer com alto ou baixo envolvimento da IA generativa quando a responsabilidade é forte, e uma presença fraca com qualquer um dos dois quando a responsabilidade é fraca.
 - A [[assessment|avaliação]] da investigação deveria se deslocar de resultados finais polidos para **evidências sensíveis ao processo** — rastros de [[prompt-engineering|prompts]] e revisões, práticas de divulgação e atribuição, movimentos de verificação e registros de interação. Isso se alinha ao movimento mais amplo da base de conhecimento rumo a uma avaliação [[authentic-assessment|autêntica]] e [[process-oriented-assessment|reveladora de processo]] e ao afastamento de respostas baseadas em detecção.
 - Pedagogicamente, os estudantes muitas vezes precisam de treinamento explícito (por exemplo, prática [[simulation|baseada em simulação]] com papéis roteirizados e pontos de decisão com IA generativa) para sustentar uma investigação autêntica sob condições de IA generativa — e os professores deveriam modelar como interrogar resultados gerados, o que depende de construir [[ai-literacy|letramento em IA]], [[critical-thinking|avaliação crítica]] e [[trust-calibration|confiança]] calibrada.
+
+## Ideias equivocadas comuns
+
+**"A presença de ensino é uma propriedade humana."** Na era da IA generativa, o framework está sendo reconceitualizado porque o discurso produzido por máquina pode imitar presença autêntica, de modo que as presenças são melhor entendidas como realizações sociotécnicas de assemblages humano–GenAI do que como atividade puramente humana. Um curso pode relatar alta presença de ensino com o instrutor largamente ausente e um modelo fazendo o discurso.
+
+**"Uma explicação de IA coerente cria presença cognitiva."** Coerência não é correção, e é justamente a propriedade que torna a investigação reflexiva difícil de sustentar: um estudante que sente que uma explicação é obviamente certa teve pouca ocasião para resolver um evento disparador. A presença cognitiva exige a resolução da dúvida, não a sua remoção.
+
+**"A presença se distribui uniformemente por uma coorte."** Ela se separa *dentro* da condição, e não entre condições. Em um quase-experimento com **63 graduandos chineses (33 com um chatbot GPT-4o mini, 30 sem)** anotando leituras compartilhadas ao longo de cinco tarefas semanais, as presenças divergiram pelo desempenho do grupo: grupos de alto desempenho iniciaram **1407 solicitações de feedback em 2319 anotações (60,7%)**, contra **737 em 2167 (34,0%)** nos grupos de baixo desempenho. O acesso à mesma ferramenta reproduziu uma lacuna existente no comportamento social que o framework mede.
+
+**"Acrescentar um chatbot a um curso on-line acrescenta uma presença."** Ela muda a mistura. O valor do framework sob GenAI é que ele torna a substituição visível: uma presença satisfeita por um modelo é uma configuração diferente do mesmo construto, e os dados da coorte mostram a substituição compensando de forma desigual.
 
 ## Conceitos conectados
 

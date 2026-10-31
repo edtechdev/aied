@@ -1,7 +1,7 @@
 ---
 title: "Correção automatizada de redações"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,13 +10,17 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,10 @@ ai_assist:
 A correção automatizada de redações tem uma longa história na tecnologia educacional, dos primeiros modelos estatísticos às abordagens modernas baseadas em LLM, que conseguem avaliar redações de forma holística sem grandes conjuntos de dados pré-pontuados. A tensão central na pesquisa sobre AES é entre precisão e acessibilidade — embora modelos ajustados alcancem resultados sólidos, eles são intensivos em recursos e impraticáveis para a maioria dos educadores.
 
 - **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES usa alinhamento por recompensa para tornar a pontuação de redações com LLM ao mesmo tempo precisa e consistente, enfrentando uma preocupação central de validade da AES.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu e Abdi (2026)]] revisam doze estudos que comparam a pontuação de escrita acadêmica em EFL por IA e por humanos e relatam alinhamento moderado no conjunto, mais forte nos atributos linguísticos de superfície e mais fraco em organização, coerência e desenvolvimento do argumento, com a justiça raramente examinada.
+
+Na escrita de resposta a texto nos anos finais do ensino fundamental, [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] constatam que o feedback automatizado sobre o uso de evidências pelos estudantes melhorou as pontuações de atributos, e que a qualidade da revisão dependeu de os professores levarem o feedback para a discussão, e não do sistema sozinho.
 
 ## Temas centrais da pesquisa
 
@@ -74,6 +82,12 @@ A AES está na interseção entre [[automated-assessment|avaliação automatizad
 - **Concordância, erro e o que um pontuador híbrido acrescenta.** Em um pequeno corpus aberto de escrita de marketing, o LLM superou tanto as regras determinísticas quanto um híbrido de peso igual em concordância absoluta com avaliadores humanos (ICC(2,1) 0,435 contra 0,266 e 0,091), com o híbrido significativamente pior que o LLM sozinho, enquanto a dispersão das notas e uma única resposta quase vazia mostraram o quanto essas estimativas dependem da composição do corpus ([[automated-scoring-marketing-posts-agreement-2026]]).
 
 Sistemas abertos também fazem parte desse quadro: o AiAWE pontua redações argumentativas com um Gemma-3-27B-it adaptado com LoRA, alcançando QWK 0,828 e concordância dentro de ±0,5 da nota humana em 90,56% de 360 redações de avaliação — e relata que a escala do modelo não previu de forma confiável o desempenho corrente abaixo sob adaptação LoRA ([[aiawe-automated-writing-evaluation]]).
+
+## Ideias equivocadas comuns
+
+- **"Os resultados da correção automatizada refletem a escrita do estudante."** O sinal ordinal pode ser **fabricado, e não observado** — redações sintéticas de nível 1 construídas por geração a partir de modelo, degradação para **20-40% do comprimento original** e remoção de palavras-chave. Um sistema validado em extremos construídos pode nunca ter sido testado na distribuição que vai encontrar.
+- **"A acurácia agregada é a métrica a relatar."** **Uma distribuição de rubrica enviesada pode fazer as métricas agregadas de pontuação enganarem**: a avaliação automatizada de uma dimensão de rubrica é frequentemente uma tarefa de classificação com distribuição de rótulos desequilibrada, em que alta acurácia e discriminação útil se separam.
+- **"Implantações de campo não foram avaliadas."** Existe evidência de campo de uma implantação real de alto impacto (**o Acredita EB do Uruguai, 2024**), que é a forma mais forte de evidência nesta literatura e a que a maioria dos estudos de acurácia de pontuação nunca fornece.
 
 ## Conceitos conectados
 

@@ -1,19 +1,23 @@
 ---
 title: Tecnologias
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-02T07:32:07-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -63,6 +67,16 @@ A vertente técnica é inseparável dos outros temas da base de conhecimento:
 - **Escolha a tecnologia pela intenção pedagógica:** o sistema de IA e a técnica deveriam seguir a [[pedagogy|estratégia de ensino]], e não o contrário.
 - **Avalie a camada técnica:** a pesquisa em [[ai-ed-evaluation|avaliação de IA na educação]] e em [[benchmark|benchmarks]] avalia os sistemas de IA por confiabilidade, pedagogia e [[equity-in-ai-education|equidade]], e não apenas por acurácia de destaque.
 - **Robôs e agentes fazem parte da pilha:** os sistemas [[educational-robotics|corporificados]] e [[agentic-ai|agênticos]] estendem o repertório técnico para além do texto — e trazem suas próprias considerações de desenho e segurança.
+
+## Ideias equivocadas comuns
+
+**"O modelo é toda a história."** Técnicas como a geração aumentada por recuperação e a engenharia de prompts existem justamente para controlar e fundamentar a saída de um LLM, e a arquitetura em torno do modelo frequentemente determina se ele é utilizável em uma sala de aula. Dois sistemas sobre o mesmo modelo podem diferir inteiramente em confiabilidade por causa do que os cerca.
+
+**"A maturidade técnica do campo está estabelecida."** O mapeamento é tênue onde importa: ao longo de **474 estudos**, os modelos da série GPT e o LangChain dominavam, enquanto a **orquestração de ferramentas governada, a memória persistente e o planejamento de horizonte longo estavam amplamente ausentes**, e apenas **138 de 474 (29%)** recorriam a teoria educacional. A pilha que está em uso é muito mais estreita do que a pilha de que o campo precisa.
+
+**"Escolhas técnicas são assunto do tecnólogo, não do educador."** O enquadramento da página é que você pode ser um educador excelente sem conseguir construir um LLM, e suas escolhas técnicas ainda assim moldam o que a IA pode e não pode fazer na sua sala de aula. Se um sistema fundamenta suas respostas no material do curso é uma decisão com consequências pedagógicas que alguém precisa tomar.
+
+**"Um modelo mais capaz resolverá as lacunas do campo."** Orquestração, memória e planejamento de horizonte longo são problemas arquiteturais, e não de capacidade — a ausência documentada é de sistemas que governam o próprio uso de ferramentas ao longo do tempo, o que um modelo melhor não fornece por si só.
 
 ## Conceitos conectados
 

@@ -1,7 +1,7 @@
 ---
 title: Métodos de pesquisa em AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-05T10:25:44-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -117,7 +121,7 @@ A avaliação computacional avalia os [[ai-technologies|sistemas de IA]] diretam
 - **Participantes disjuntos, e não divisões aleatórias, evitam vazamento na avaliação de detectores.** [[detecting-gpt-assisted-writing-stylometric-2026|Kumar et al. (2026)]] construíram um detector [[ai-detection|estilométrico]] de escrita assistida por GPT a partir de 90 escritores que produziram, cada um, uma amostra sem ajuda e uma parafraseada, mantendo toda janela de um participante em uma única dobra, de modo que o estilo do autor não pudesse vazar pela divisão, e reservando 18 pessoas inteiramente fora. A floresta aleatória alcançou ROC-AUC 0,870 com F1 0,842, mas sinalizou 4 de 18 documentos de autoria independente como assistidos por GPT (22,2%); os autores tratam essa taxa de falsos positivos como o resultado relevante para a implantação e enquadram o modelo como apoio à decisão, e não como uma triagem automatizada de má conduta.
 - **Exemplares:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
 - **Padrões de relato para pipelines automatizados, e benchmarks auditados.** Dois artigos de 2026 estendem a responsabilização metodológica além do próprio estudo. O PRISMA-LLM mapeia 888 artigos de automação de revisão e 14.726 anotações, constatando que 38,0% dos artigos de software ou produto não relataram nenhuma avaliação, contra 9,3% dos artigos de LLM, e que 52% das avaliações de LLM apenas positivas deixaram uma preocupação de barra alta sem atendimento, e propõe um relato que identifica onde no fluxo de trabalho de revisão a automação atuou ([[prisma-llm-ai-assisted-systematic-reviews-2026]]). Uma auditoria de reavaliação por especialistas de seis benchmarks de [[physics-education|física]] mostra o mesmo problema no nível do instrumento: de 250 rejeições auditadas, apenas 12 (4,80%) eram erros genuínos do modelo, enquanto 143 eram defeitos de item e 95 erros de correção ([[frontier-models-physics-benchmark-audit-2026]]). Ambos argumentam que as avaliações computacionais precisam de um orçamento de erro auditado antes que seus resultados sejam lidos como achados sobre estudantes ou modelos.
-- **Construa a verificação de concordância humana no desenvolvimento do detector, e não depois dele.** [[baker-taylorizable-process-textual-detector-development-2026|Baker e colegas (2026)]] estabelecem um processo de sete passos para detectores textuais de construtos cognitivos — seleção do conjunto de dados, definição do construto, redação do livro de códigos, verificação humana de concordância entre corretores, refinamento de categorias, construção do detector e aplicação —, de modo que a confiabilidade sobre rótulos codificados por humanos precede qualquer implantação de LLM como juiz. Ele exige métricas de concordância corrigidas pelo acaso (κ de Cohen ou de Fleiss, α de Krippendorff), validação cruzada no nível do estudante e análise de erro por subgrupo como padrões mínimos, e argumenta que a mensuração incorreta se torna uma fonte de dano quando tais [[educational-nlp|detectores]] ficam dentro de plataformas implantadas.
+- **Construa a verificação de concordância humana no desenvolvimento do detector, e não depois dele.** [[baker-taylorizable-process-textual-detector-development-2026|Baker e colegas (2026)]] estabelecem um processo de sete passos para detectores textuais de construtos cognitivos — seleção do conjunto de dados, definição do construto, redação do livro de códigos, verificação humana de concordância entre corretores, refinamento de categorias, construção do detector e aplicação —, de modo que a confiabilidade sobre rótulos codificados por humanos precede qualquer implantação de [[llm|LLM]]-como-juiz. Ele exige métricas de concordância corrigidas pelo acaso (κ de Cohen ou de Fleiss, α de Krippendorff), validação cruzada no nível do estudante e análise de erro por subgrupo como padrões mínimos, e argumenta que a mensuração incorreta se torna uma fonte de dano quando tais [[educational-nlp|detectores]] ficam dentro de plataformas implantadas.
 
 ### Outros desenhos: longitudinais, de caso e de simulação
 
@@ -184,6 +188,18 @@ Uma vertente metodológica distinta — a [[usability-research|pesquisa de usabi
 
 Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em uma única tradição. A evidência mais forte triangula: uma avaliação computacional ou de usabilidade estabelece que um sistema funciona, um experimento estabelece que ele causa aprendizagem, os instrumentos quantitativos mensuram os construtos, e o trabalho qualitativo revela os mecanismos e os significados —, respondendo juntos tanto *se* uma ferramenta ajuda a aprendizagem quanto *como e por quê*.
 
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] acrescenta uma vertente bibliométrica que se distingue dessas quatro: mapear 407 registros por co-ocorrência de palavras e rede de coautoria para traçar o desenvolvimento conceitual de um campo. O autor é explícito que a leitura SWOT construída sobre isso é um dispositivo interpretativo, e não uma técnica analítica independente, o que marca a fronteira entre síntese e análise nessa tradição.
+
+## Ideias equivocadas comuns
+
+**"Alta acurácia em benchmark mostra eficácia educacional."** Não mostra, e a lacuna é o problema central de mensuração do campo: um sistema pode pontuar alto em acurácia sem produzir aprendizagem alguma, porque a acurácia de benchmark mede desempenho na tarefa sob as condições que o benchmark estabeleceu. Eficácia educacional exige um resultado de aprendizagem sob condições que a tecnologia não controla.
+
+**"Uma tradição de pesquisa é metodologicamente superior."** As tradições trocam uma limitação por outra por construção. A pesquisa baseada em design itera sobre uma intervenção real, mas não consegue atribuir ganhos a um mecanismo específico, enquanto um [[rct|ensaio controlado randomizado]] isola causas, mas roda em condições artificiais. Escolher entre elas é escolher qual afirmação você pode fazer, não qual método é melhor.
+
+**"Uma regra de mensuração leniente é uma escolha metodológica menor."** Ela muda o achado. Creditar qualquer conclusão previu o desempenho posterior sem assistência **apenas um pouco acima de uma constante de dificuldade de habilidade (AUC agrupada 0,604 contra 0,595)**, ao declarar **93,9% dos pares estudante-habilidade como dominados contra 72,8%** sob uma regra estrita. A regra produziu uma diferença de 21 pontos em quem foi declarado pronto e quase nenhuma melhoria preditiva a mostrar por isso.
+
+**"A significância estatística resolve se uma intervenção funcionou."** Ela resolve se um efeito era detectável. Se foi um efeito de *aprendizagem* depende da medida de resultado, da comparação e das condições em que foi tomada — e é por isso que as escolhas de desenho e de relato nas seções desta página pesam tanto quanto a análise.
+
 ## Conceitos conectados
 
 - [[interpreting-and-applying-aied-research]]
@@ -232,4 +248,3 @@ Na prática, a pesquisa em IA na educação raramente se encaixa liminarmente em
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Metameta-análise do efeito da IA na aprendizagem
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: auditoria de meta-análise defeituosa da AIED
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
-- [[llm]]

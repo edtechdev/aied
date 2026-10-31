@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecários"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-09-20T12:40:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,7 +12,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Bibliotecários** — os profissionais de biblioteca e informação que ensinam letramento informacional, atendem consultas de pesquisa, constroem acervos e sistemas de descoberta, e cada vez mais atuam como a contraparte humana das ferramentas de busca e recomendação por IA. Na pesquisa da base de conhecimento, eles aparecem como as pessoas que resolvem a questão de credibilidade que um modelo não consegue assentar — se uma patente, uma norma técnica ou um relatório setorial merece crédito — e como parceiros no codesenho de cursos e políticas. Seu lugar na [[ai-education|IA na educação]] é portanto duplo: como educadores que ensinam avaliação de fontes e estratégia de busca, e como a [[human-in-the-loop-ai|camada humana]] dentro de sistemas construídos em torno da recuperação por IA.
 
@@ -64,6 +68,16 @@ Duas vertentes mais estabelecem os limites do papel. O [[pearls-epistemic-verifi
 - **Desenhe para trilhas heterogêneas.** Com grupos aproximadamente iguais preferindo IA, bibliotecários ou ambos, rotear as consultas por assunto e carga de trabalho absorveu 312 delas a 10,4 por participante; uma única rota obrigatória mal atenderá a alguns estudantes.
 - **Torne visíveis a confiança e as fontes.** O fio do workshop sobre busca como aprendizagem pergunta quais processos cognitivos não deveriam ser terceirizados e pede interfaces que preservem os pontos de decisão — um [[scaffolding|scaffold]] que os bibliotecários podem especificar a partir de seu padrão de trabalho ordinário de visibilidade de fontes.
 - **Orçamente a camada humana, não apenas o modelo.** As consultas foram respondidas em horas, em escala, porque a equipe foi roteada deliberadamente; presumir que os estudantes darão conta do julgamento de credibilidade sozinhos transfere esse custo para as pessoas menos equipadas para pagá-lo.
+
+## Ideias equivocadas comuns
+
+**"Os bibliotecários são periféricos à IA na educação."** Eles ocupam um papel específico e testável, e o corpus o mede. Ao longo de **312 consultas (10,4 por participante)**, avaliação e qualidade de fontes responderam por **38,5%**, formação de estratégia de busca **29,2%**, gestão de citações **18,6%** e navegação de repositório **13,7%** — e **73,4% foram respondidas dentro de seis horas**. Isso não é um serviço periférico; é a função de letramento informacional carregando o peso que a IA não conseguiu.
+
+**"A busca por IA responde às perguntas que os estudantes costumavam levar a um bibliotecário."** No estudo do bibliotecário embutido, **questões de avaliação de fontes dominaram as consultas (38,5%) justamente nos casos em que a IA estava menos confiante**. A incerteza da ferramenta encaminhava o trabalho para a capacidade humana que poderia resolvê-lo, o que torna o padrão observado uma divisão de trabalho, e não uma obsolescência.
+
+**"O letramento informacional é uma sessão de indução pontual."** É instrução, não assistência: as perguntas com que os estudantes chegam são problemas de avaliação e de estratégia — esta fonte é crível, como faço esta busca —, que são habilidades ensináveis e não transações a serem concluídas. Tratar o serviço como assistência converte um currículo em um balcão de ajuda e perde a capacidade durável.
+
+**"Quem paga pela verificação é problema de outra pessoa."** A carga de consultas recai sobre a dotação de pessoal da biblioteca, e a pergunta do próprio artigo é se pedir que as bibliotecas a carreguem ultrapassa seu número de funcionários. Codesenho e parceria são as respostas que a literatura recomenda precisamente porque o custo da verificação é real e recai sobre uma unidade que não o orçou.
 
 ## Conceitos conectados
 

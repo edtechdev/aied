@@ -1,7 +1,7 @@
 ---
 title: "Níveis de ensino"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-09-28T21:44:10-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,13 +14,17 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,16 @@ Um padrão se mantém em todos os níveis pesquisados: a camada humana absorve o
 - **Condicione a IA por atividade, não por entusiasmo**, e dimensione os deveres de privacidade conforme a idade ([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **Desenhe para o adulto mediador daquela faixa** — pai, professor, bibliotecário ou orientador — e mensure a prontidão dele separadamente da da instituição ([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Diga com clareza quando uma faixa não tem evidência**, e **não confunda intenção com desempenho**: vários estudos específicos de nível relatam resultados de atitude ou de [[self-report-measures|autorrelato]], e não de aprendizagem.
+
+## Ideias equivocadas comuns
+
+**"Um rótulo de faixa diz o que quem aprende consegue fazer."** Faixa e nível de conhecimento se correlacionam sem serem iguais. No ensaio de tutoria do segundo ano, o [[prior-knowledge|conhecimento prévio]] dominou o desempenho no pós-teste (**F(1, 124) = 206,99, p < .001, η²p = .63**) — um efeito grande que torna o rótulo de série um preditor fraco ao lado do conhecimento prévio real de quem aprende. Desenhar para a faixa e ignorar a dispersão dentro dela é desenhar para a média de uma distribuição ampla.
+
+**"A disciplina ensinada importa mais do que o nível de ensino."** A ruptura entre escola e universidade importa mais. O que muda ao atravessar essa fronteira não é o conteúdo, mas a capacidade de autorregulação, a natureza do contrato de avaliação e quem é responsável pela aprendizagem — e é por isso que uma ferramenta que ajuda um seminário de pós-graduação pode prejudicar uma aula do segundo ano mesmo com conteúdo comparável.
+
+**"Um tutor adaptativo ajuda todos os níveis igualmente."** A comparação que isola a variável é instrutiva: duas versões do mesmo tutor de matemática do segundo ano — conteúdo, interface, feedback e dicas faladas idênticos —, diferindo **apenas em se a seleção de tarefas seguia ou não um modelo bayesiano de [[knowledge-tracing|rastreamento de conhecimento]]**. A seleção adaptativa de tarefas é uma intervenção sensível ao nível, e seu benefício depende de se quem aprende naquele nível consegue agir sobre a adaptação.
+
+**"A evidência concentrada no ensino superior generaliza para baixo."** Não generaliza, e a distribuição da literatura é um alerta, e não uma conveniência. Onde a evidência é densa e onde ela é escassa é uma propriedade da economia da pesquisa, não de onde a IA é mais usada, de modo que uma afirmação sobre o K-12 extraída de amostras universitárias é uma extrapolação através da fronteira que mais importa.
 
 ## Conceitos conectados
 - [[k-12]]

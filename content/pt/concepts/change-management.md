@@ -1,7 +1,7 @@
 ---
 title: Gestão de mudanças
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-09T09:50:00-04:00"
+updated: "2026-10-30T21:00:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,9 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
-*Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
+*Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
 
 > **Gestão de mudanças** — o conjunto deliberado de processos, estruturas de governança e práticas de liderança pelos quais instituições de [[higher-ed|ensino superior]] planejam, implementam e sustentam a integração da IA ao ensino, à aprendizagem e à [[assessment|avaliação]]. Como a [[generative-ai|IA generativa]] chegou como uma \"tecnologia de chegada\" que entrou nas salas de aula antes que a evidência [[pedagogy|pedagógica]] se acumulasse, a gestão de mudanças na [[ai-education|educação em IA]] precisa sustentar adaptação contínua sob incerteza, e não adoção única, equilibrando estabilidade institucional com inovação emergente e governança compartilhada entre [[administrator|administradores]], [[teacher-role|corpo docente]], estudantes e [[educational-policy-ai|formuladores de políticas]].
 
@@ -57,15 +61,25 @@ Um workshop sobre prática de avaliação com 73 educadores de computação forn
 ## Implicações
 
 A gestão de mudanças na educação em IA carrega implicações positivas e negativas. **Positivamente**, frameworks estruturados dão às instituições um caminho da gestão de crise reativa para a governança proativa e participativa; o [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi]] e a [[baroudi-anticipatory-governance-ai-higher-ed-2026|governança antecipatória]] ambos sustentam tratar [[ai-literacy|letramento em IA]] e [[ethics|ética]] como capacidades institucionais transversais, e não como regras isoladas. **Negativamente**, a adoção fragmentada amplia as lacunas existentes: a [[adarkwah-genai-unesco-policy-2026|análise do framework da UNESCO]] de 30 universidades líderes descobre que princípios éticos e de [[governance|governança]] centrais são amplamente abraçados, mas [[inclusive-learning|inclusão]], equidade e [[sustainability|sustentabilidade]] (acesso à internet, paridade de gênero, impacto ambiental) são frequentemente negligenciados — e rankings nacionais de preparo para IA não predizem política institucional robusta. O [[league-ethical-governance-student-data-2026|framework LEAGUE]] estende essa preocupação à [[learning-analytics|analítica de aprendizagem]], argumentando que a governança precisa ir além da conformidade (FERPA/GDPR) rumo à legalidade, equidade, [[agency|agência]], utilidade e ética por desenho, revisando as práticas com dados de estudantes de forma transparente e educacional.
+
 Em instituições onde a estratégia corre à frente da infraestrutura, o trabalho se acumula: desenvolvedores acadêmicos de duas Instituições Historicamente Desfavorecidas da África do Sul chamaram a estratégia de IA de \"performance mais do que prática\", e o artigo insiste que a desigualdade digital — um problema distributivo — seja mantida separada da colonialidade algorítmica, um problema epistêmico que sobrevive ao acesso pleno ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 
 **Para [[administrator|administradores]] e [[educational-policy-ai|formuladores de políticas]]**, a evidência argumenta a favor de governança participativa, investimento em infraestrutura e construção de capacidade em vez de documentos de estratégia aspiracionais, traduzindo a política nacional em apoio concreto ao instrutor em vez de emitir mandatos top-down. **Para os instrutores**, a gestão de mudanças significa passar de adotante a experimentador movido pela investigação, engajando os [[pedagogical-partnerships|estudantes como parceiros]], e ancorando a reforma em princípios pedagógicos duráveis em vez de ferramentas que podem ficar obsoletas em meses — com a ressalva de que o desenvolvimento profissional precisa visar um ciclo completo de desenho (avaliação de necessidades, feedback) em vez do uso da ferramenta isoladamente, como demonstra a [[dot-framework-survey-2026|pesquisa do framework DOT]].
 
 Um estudo de caso institucional rastreia um arco de difusão de uma década em matemática de graduação, movendo-se de iniciativa individual e workshops entre pares para licenciamento conjunto do corpo docente e financiamento central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+Reformular um curso tem um custo que as instituições deveriam orçar, não presumir: adotar um curso integrado à IA custou cerca de 15 a 20 horas de trabalho de redesenho por curso antes de qualquer ajuste contínuo ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+- **O engajamento é explicado por capacidade e disposição, não por entusiasmo.** Um framework para a prática de avaliação argumenta que a adoção desigual da GenAI reflete quatro condições — capacidade, disposição e os apoios e constrangimentos em torno delas — e não resistência, e que uma única oficina constrói vocabulário, mas não julgamento ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Nomear a condição ausente diz a uma instituição se deve treinar, prover recursos ou mudar o incentivo.
+
 ## Conexões com outros conceitos
 
 A gestão de mudanças é o complemento institucional da integração ao nível da sala de aula. Ela operacionaliza as condições sistêmicas — governança, desenvolvimento do corpo docente, [[student-engagement|engajamento]] das partes interessadas e salvaguardas de equidade — que permitem que a inovação pedagógica pegue, conectando o desenho de políticas de [[educational-policy-ai]] a [[governance|governança]], [[educational-development]] e resultados de [[equity-in-ai-education]].
+
+## Ideias equivocadas comuns
+
+- **"A intenção estratégica cria capacidade."** Apenas **7% das instituições** criaram cargos seniores de liderança em IA, apesar de **49% verem a IA como prioridade estratégica**. A lacuna está entre a declaração e a estrutura, e é a falha recorrente da gestão de mudanças em IA.
+- **"Adotar uma ferramenta de IA é um evento."** **A sustentabilidade é uma propriedade da organização, não da ferramenta** — uma avaliação randomizada de quatro anos de um chatbot de mensagens de texto com IA não generativa na California State University, Northridge ilustra a escala de tempo. A avaliação durou quatro anos porque a durabilidade era o que precisava ser testada.
+- **"As instituições precisam reagir mais rápido, não antecipar."** A **liderança antecipatória** é o fio complementar: a [[baroudi-anticipatory-governance-ai-higher-ed-2026|revisão de escopo]] constata que as instituições precisam passar de uma governança **reativa para uma baseada em previsão**. Reagir com competência a uma tecnologia que já chegou é o que a evidência documenta falhando.
 
 ## Conceitos conectados
 
@@ -80,6 +94,7 @@ A gestão de mudanças é o complemento institucional da integração ao nível 
 - [[student-support-and-success]] — sustentar um programa de apoio além do piloto
 
 ## Artigos conectados
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Pensadores parceiros: um framework para o aprendizado de adultos com GenAI
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Sustentando apoio estudantil habilitado por IA: estudo de implementação e impacto de quatro anos de um chatbot institucional (Mata, Russell & Page 2026)
 
 - [[institutional-change-framework-ai]] — framework de seis dimensões para adaptar modelos de mudança institucional à IA como tecnologia de chegada
