@@ -28,7 +28,14 @@ Generates and maintains the wiki's offline book-form deliverables — `aied.epub
 2. **Verify the PDF's `/Lang`, do not trust the exit code.** Read the catalog back with pikepdf (`pdf.Root.Lang`) — `pdfinfo` does not print it. Expect `en-US` for the default edition and the locale code for a translated one.
 
 
-**The PDF step is slow and can outlive a foreground tool timeout.** The Spanish edition takes ~14 minutes end to end (EPUB ~6, PDF ~8). Run the builder in the BACKGROUND with a completion notification; a foreground call killed at the timeout leaves the EPUB rebuilt and the PDF stale — the exact split-artifact failure mode this script is designed to avoid.
+**The PDF step is no longer slow — but it still must not run beside a site build.** Since the chunked
+parallel parse (`tooling/pdf_parallel.py`, `AIED_PARALLEL_CHUNKS`, default 8), a full English rebuild
+takes ~4 minutes instead of ~25, and a translated edition the same order. The parse of the whole
+export is what used to dominate (measured 757 s per parse, twice per build, growing superlinearly
+with document size); WeasyPrint's pagination is only ~89 s. `AIED_PARALLEL_CHUNKS=1` restores the old
+single-pass path. Verification is unchanged in kind: compare the new artifact's extracted text
+(pages, per-chapter counts, word multisets) against the one it replaces, because a fast build that
+silently drops content is worse than a slow correct one.
 
 **Do not run this while a site build is in flight (2026-09-17).** The builder writes `dist/aied-export.md`, the EPUB, and then the PDF from that
 markdown; `astro build` clears `dist/` before writing it. Run the two concurrently and the markdown is deleted between the EPUB and PDF steps, and the
