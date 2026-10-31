@@ -2,7 +2,7 @@
 title: "Code Viva"
 created: "2026-10-30T19:17:47-04:00"
 type: resource
-summary: "A free browser tool that runs a written, timed version of an oral code defense for every student in a programming course, proposing scores with quoted evidence for the instructor to approve."
+summary: "כלי דפדפן חינמי שמפעיל גרסה כתובה ומתוזמנת של הגנה בעל פה על קוד לכל סטודנט בקורס תכנות, ומציע ציונים עם ראיות מצוטטות לאישור המרצה."
 url: https://code-viva.netlify.app/
 author: "Code Viva"
 author_url: https://code-viva.netlify.app/

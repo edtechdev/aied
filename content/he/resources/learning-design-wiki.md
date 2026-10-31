@@ -2,7 +2,7 @@
 title: "Learning Design Wiki"
 created: "2026-10-30T19:17:47-04:00"
 type: resource
-summary: "An openly licensed reference wiki of learning design principles, elements, patterns, designs, strategies and evidence-coded claims, written and cross-linked by language models rather than people, with every page currently marked unverified."
+summary: "ויקי עזר ברישיון פתוח של עקרונות עיצוב למידה, מרכיבים, תבניות, עיצובים, אסטרטגיות וטענות מתויגות-ראיות, שנכתבו ותואמו בידי מודלים של שפה ולא בידי אנשים, וכל עמוד בו מסומן כלא-מאומת."
 url: http://wiki.learningdesignalliance.org/
 source_code: https://github.com/Learning-Design-Alliance/learning-wiki
 author: "Learning Design Alliance"

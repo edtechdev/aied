@@ -2,7 +2,7 @@
 title: "Campus AI Development"
 created: "2026-10-30T19:17:47-04:00"
 type: resource
-summary: "A free field guide for colleges and universities on choosing how software gets built with AI, from vibe coding to governed multi-agent work, with the review route, data ceiling and controls that match each."
+summary: "מדריך שדה חינמי למכללות ולאוניברסיטאות על בחירת אופן בניית התוכנה בעזרת בינה מלאכותית, מקידוד אווירה ועד עבודה מרובת סוכנים עם ממשל, כולל מסלול הסקירה, תקרת הנתונים והבקרות המתאימים לכל אחת מהדרכים."
 url: https://campusaidev.com/home.dc
 author: "Campus AI Development"
 author_url: https://campusaidev.com/about.dc

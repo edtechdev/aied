@@ -2,7 +2,7 @@
 title: "teacher.dev"
 created: "2026-10-30T19:17:47-04:00"
 type: resource
-summary: "A non-profit studio publishing one free classroom app for every day of a public build streak, from printable figure generators to a quiet-time safari and a local-first hall pass."
+summary: "סטודיו ללא מטרות רווח שמפרסם אפליקציית כיתה חינמית אחת בכל יום של רצף בנייה פומבי, מגנרטורים של איורים להדפסה ועד ספארי של זמן שקט ותו-מעבר מקומי-ראשית."
 url: https://www.teacher.dev/
 source_code: https://github.com/teacherdotdev
 author: "teacher.dev"
