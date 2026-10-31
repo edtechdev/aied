@@ -300,11 +300,14 @@ Regenerate both with one command:
 PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 ```
 
+A rebuild takes minutes, not half an hour: pandoc's parse of the whole export dominated the build (measured 757 s per parse, run twice, growing superlinearly with document size) while weasyprint's pagination of the ~2,000-page book is only ~89 s, so the export is parsed in parallel chunks (`tooling/pdf_parallel.py`). `AIED_PARALLEL_CHUNKS=1` restores the single-pass build.
+
 This writes `public/aied.epub` and `public/aied.pdf`. **The site does not serve these files** — it links the GitHub raw URL (`offlineBaseUrl` in `site.config.json`) and `astro.config.mjs` strips them from `dist/`, because ~161 MB of already-compressed bytes pushed the Pages artifact past its 1 GB limit. They remain committed under `public/` so the raw links resolve.
 
 Supporting files:
 
-- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, the CC0 public-domain mark and its localized name, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**. It fails loudly (exit 1) when `pikepdf` is missing from the invoking interpreter, and prints which interpreter that is.
+- `tooling/build-epub.py` — assembles the shared markdown export, runs pandoc for the EPUB (hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters), post-processes the EPUB (Notice page carrying the generation date, the CC0 public-domain mark and its localized name, landmarks labeling), and finishes by setting the PDF language metadata with **pikepdf**. It fails loudly (exit 1) when `pikepdf` is missing from the invoking interpreter, and prints which interpreter that is. The pandoc parse is the expensive stage, so the export is split at chapter boundaries and parsed by parallel workers (`AIED_PARALLEL_CHUNKS`, default 8); `AIED_PARALLEL_CHUNKS=1` restores the single-pass build.
+- `tooling/pdf_parallel.py` — the chunked parallel parse behind both stages. Splits the export at headings, parses each chunk with its own pandoc process, pins heading ids and `[Heading text]` shortcut references before the split so TOC anchors survive chunking, and reassembles one HTML document (front matter, title block, single TOC, body) for one weasyprint pass.
 - `tooling/pdf-style.css` — PDF print layout (A4, page numbers, cover page, blue clickable links).
 - `tooling/gen-epub-cover.mjs` — renders the book cover (`public/epub-cover.png`) with sharp.
 - `tooling/gen-pd-mark.mjs` — rasterizes the CC0 public-domain mark (`src/assets/cc-zero.svg`, the Creative Commons press-kit `zero.svg`, itself CC0) to `public/public-domain-mark.png`, which the EPUB/PDF Notice page and the covers use. The site inlines the SVG instead (`src/components/PublicDomainMark.astro`), so the mark follows the theme.

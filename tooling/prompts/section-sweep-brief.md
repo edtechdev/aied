@@ -53,7 +53,7 @@ immediately after it. Each canonical heading must appear exactly once.
 - Read each page first, and do not restate its body content in the new bullets.
 - Change nothing else: no rewriting existing prose, no touching frontmatter, the citation, or any
   `## Connected …` section. Do not touch `log.md`, and no other page.
-- US English: behavior, modeling, judgment, organization, analyze; gray not grey; modeled not modelled.
+- US English: behavior, modeling, judgment, organization, analyze; gray not gray; modeled not modeled.
 - Inline `[[wikilinks]]` in the new bullets only to slugs that exist — check with `os.path.exists` under
   `<WIKI>/concepts/`, `<WIKI>/articles/` or `<WIKI>/faqs/`.
 - Do not run the site build or any gate script.

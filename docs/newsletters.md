@@ -14,7 +14,7 @@ This folder holds only this guide, so nothing here reaches a build.
 - `/aied/news/` lists every published issue, newest first, under the newspaper icon.
 - `/aied/news/<issue-date>/` is the issue itself, with previous and next links.
 - `/aied/journal/` lists the issue among that day's pages, the way an article is listed.
-- The right rail's "Recently Added Pages" list includes it, labelled by issue number.
+- The right rail's "Recently Added Pages" list includes it, labeled by issue number.
 - `/aied/news/rss.xml` is a newsletter-only feed and carries each issue in full, in
   `<content:encoded>`, rendered by the same markdown pipeline as the page, so a subscriber can read the
   issue without visiting the site; `/aied/rss.xml` stays the knowledge base feed.

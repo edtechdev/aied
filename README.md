@@ -167,6 +167,8 @@ PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
 
 The interpreter matters: the PDF stage runs under pandoc, which spawns the `weasyprint` console script under its own shebang, while the metadata step imports `pikepdf` in the process of whatever interpreter you invoked. `/usr/bin/python3` has both. The script exits 1 if the metadata step cannot run; verify the PDF's `/Lang` by reading the catalog back rather than trusting the exit code.
 
+The export is parsed in parallel chunks (`tooling/pdf_parallel.py`), so a full rebuild takes **minutes rather than half an hour** — measured 24.9 min → 3.9 min for the English edition. `AIED_PARALLEL_CHUNKS=1` restores the old single-pass build. Either way the output is one continuous book: chunks are reassembled with the front matter, title block and a single TOC before one pagination pass, and the result must be checked against the artifact it replaces (page count, per-chapter counts, word multisets), never against itself.
+
 Do not build the site and the offline editions at the same time. The builder writes into `dist/`, and a site build regenerates that directory.
 
 ### How it stays current
