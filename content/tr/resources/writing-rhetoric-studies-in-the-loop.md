@@ -2,7 +2,7 @@
 title: "Writing and Rhetoric Studies in the Loop: A GenAI Prompt Library"
 created: "2026-10-14T09:11:43-04:00"
 type: resource
-summary: "A peer-reviewed open-access collection of sixteen tested GenAI prompts, each written by a writing and rhetoric specialist to keep expert disciplinary judgment inside the prompting loop."
+summary: "Yazma ve retorik uzmanlarının, uzman disiplin yargısını istem döngüsünün içinde tutmak için kaleme aldığı on altı test edilmiş GenAI isteminden oluşan hakem değerlendirmeli açık erişimli bir derleme."
 url: https://wacclearinghouse.org/books/wac-repository/wrstl/
 author: "Anuj Gupta and Brian Gogan"
 resource_type: [prompt or gem library, ebook or guide]

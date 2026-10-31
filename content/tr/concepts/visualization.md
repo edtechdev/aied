@@ -6,7 +6,7 @@ technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-10-14T21:34:00-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,13 @@ Pratik sistemler bu ilkeleri ölçekle uygular. AISSA, LLM tabanlı rubrik puanl
 ## Çıkarımlar
 
 Burada ele alınan çalışmalar boyunca görselleştirme, çift kullanımlı bir ortam olarak ortaya çıkar: YZ görselleştirmeleri giderek artan ölçüde üretir ve yorumlarken, gösterge panelleri ve etkileşimli görseller insan-YZ anlamlandırması için paylaşılan yüzey olarak hizmet eder. Üretken metinden görsele ve çok kipli analiz, görselleştirmenin erişimini uzmanlaşmış [[stem-education|STEM]] içeriğine ve [[ai-feedback-quality|otomatik geri bildirime]] taşır; ancak eşit dağılmamış model yetkinliği, önem derecesi kalibrasyon hataları ve dezenformasyon ile yazarlığa ilişkin [[ethics|etik]] kaygılar, dikkatli, katmanlı bir doğrulama talep eder. Tasarımcılar ve eğitmenler için en güçlü sonuç şudur: etkileşimlilik ve katılım — görsel veriler üzerinde öğrenen akıl yürütmesini ortaya çıkarmak, kullanıcıların bilişsel çabayı denetlemesine izin vermek ve YZ üretilmiş görselleri varış noktası değil paylaşılan altyapı olarak ele almak — grafiğin kendi doğruluğundan daha önemlidir.
+
+## Yaygın yanlış anlamalar
+
+- **"YZ özelleşmiş içeriği doğru biçimde oluşturamaz."** Doğru yöntemle oluşturabilir: bir metinden görüntüye modelinin nükleer kavramlar üzerinde ince ayarı **alan doğruluğunu %12'den %78'e yükseltti**. Boşluk üretici yetenek değil alan temellendirmesidir ve ele alınabilir.
+- **"Daha iyi görselleştirmeler daha iyi sonuçlar üretir."** Öğretmenler **ısı haritaları gibi karmaşık tasarımlar daha ayrıntılı içgörüler ürettiğinde bile sistematik olarak daha basit ve daha geleneksel görselleştirmeleri (çubuk grafikler, pasta grafikler, lejantlar) tercih etti**. Daha bilgilendirici eser, kullanılan eser olmadı; bu nedenle benimseme, tasarım kalitesinden ayrı bir sorundur.
+- **"Öğrenciler iskelelemenin olduğu yere bakar."** Bir çalışma, öğrencilerin **ayrıntılı görsel iskelelere rağmen bakışlarının çoğunu kod üzerinde geçirdiğini** buldu; yardımcılar dikkati hiç yakalamadı. Var olan ama fark edilmeyen görsel destek hiçbir şeyi değiştirmez.
+- **"Katılım ve kavrayış birlikte hareket eder."** Katılımcılar YZ üretilmiş veri çizgi romanlarını **daha ilgi çekici ve daha anlaşılır** buldu, ancak çoğu aynı zamanda yanlış bilgi riskini ve bilgi aşırı yüklenmesini de işaretledi. Her iki tepki de aynı eserden geldi; bu nedenle olumlu karşılama doğrulanmış bir okuma değildir.
 
 ## Bağlı kavramlar
 

@@ -9,7 +9,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,11 +45,16 @@ Motivasyon, eğitim araştırmasında temel bir yapıdır ve eğitimde YZ’nin 
 56 etki büyüklüğü, 6.059 öğrenci içeren 42 çalışmalık bir meta analiz, Üretken YZ destekli öğrenmenin motivasyonu Hedges’in g değeri = 0,764 (95% CI [0,566, 0,962]) ile yükselttiğini buldu — ama I² = 93,7 ve [−0,689, 2,217] 95% tahmin aralığıyla, ortalama, etkinin sıfıra yakın ya da negatif olduğu ortamları gizliyor ([[genai-learning-motivation-meta-analysis-2026|Fang ve ark. (2026)]]).
 - **Yansıtmasız kullanım motivasyonu aşındırır — erkeklerde daha fazla.** Düşüncesiz Üretken YZ kullanımı (yanıtları incelenmeden kabul etmek), 487 lisans öğrencisi arasında daha düşük motivasyonu (β = −0,54) ve daha düşük [[self-efficacy]] (β = −0,37) öngördü ve motivasyon etkisi erkek öğrencilerde anlamlı ölçüde daha güçlüyken özyeterlilik etkisi kadın öğrencilerde daha güçlüydü ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 
+- **Hayal kırıklığını azaltmak, motivasyonu sürdürmekle aynı şey değildir.** Üç kollu bir [[rct|RCT]], iskelenmiş bir öğretmen ile sınırsız ChatGPT’nin hayal kırıklığını eşit ölçüde azalttığını (4,09’a karşı 3,21 ve 3,13), ancak yalnızca iskelenmiş öğretmenin içsel motivasyonu yükselttiğini (2,42’ye karşı 2,82, p < ,001); ChatGPT’nin yükseltmediğini bulmuştur (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner ve ark. (2026)]]).
+
 Bir okurun neden YZ’ye uzandığı kendisi ölçülebilir bir değişkendir: AIR ölçeği Üretken YZ destekli okuma için dört güdüyü ayırır — Göreve yönelik, Kendini iyi hissetme, Çeviri ve Düşük çaba — ve yalnızca Düşük çaba, yani yorgun ya da ilgisizken YZ kullanmak, biliş ihtiyacıyla negatif ilişkiliydi (r = −,18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar ve Sidi (2026)]]).
 
 **YZ aracılı etkileşimde motivasyon**, motivasyonel kalitenin (yalnızca miktar değil) YZ ile nasıl değiştiğini inceler. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva ve ark.]]**, öz-belirleme teorisini [[network-analysis|bilgisel ağ analiziyle]] birleştirerek [[generative-ai|üretken YZ]] ile etkileşimi inceledi. **[[liang-ai-learning-motivation-sdt-2026|Liang ve ark. (2026)]], motivasyonu, bir yıllık YZ müfredatındaki **2.086 [[k-12|ortaokul/ortaöğretim]] öğrencisi** üzerinde gizli geçiş analiziyle gelişimsel olarak izledi, üç istikrarlı profil (İlgisiz, Gelişen, Öz-Belirlenmiş) buldu ve Öz-Belirlenmiş profile ulaşmanın en büyük [[ai-literacy]] kazanımlarını öngördüğünü gördü. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]], hedef belirleme teorisini **758 [[higher-ed|üniversite]] İngilizce öğrencisiyle** kullanarak, **öğretmen desteğinin** YZ destekli etkileşimi öncelikle ustalık-yaklaşımı ve performans-yaklaşımı hedefleri üzerinden yönlendirdiğini gösterdi (yaklaşım, kaçınma değil, hedef yönelimleri). Birlikte bu çalışmalar, YZ bağlamlarında motivasyonun hem gelişimsel hem sosyal olarak iskelenen olduğunu gösterir — zamanla değişir ve yalnızca araç tasarımına değil öğretmen desteğine ve hedef çerçevelemesine yanıt verir.
 
-Hedef yönelimi aracın nasıl kullanıldığını da yönlendirir: ustalık ve normatif performans hedefleri detaylandırma ve rafinasyonu destekleme eğilimindeyken, görünüm performans hedefleri çaba en aza indirmeyi ve algılanan yetkinliği korumayı daha olası kılar — öyleyse aynı asistan, düşünmeyi motivasyonel iklime bağlı olarak iskeleler ya da yerini alır ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+Hedef yönelimi aracın nasıl kullanıldığını da yönlendirir: ustalık ve normatif performans hedefleri detaylandırma ve rafinasyonu destekleme eğilimindeyken, görünüm performans hedefleri çaba en aza indirmeyi ve algılanan yetkinliği korumayı daha olası kılar — öyleyse aynı asistan, düşünmeyi motivasyonel iklime bağlı olarak iskeleler ya da yerini alır ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). Ödül motivasyonu YZ geri bildiriminin erişimini köreltebilir: [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]] için inandırıcılık ile algılanan öğrenme arasındaki bağ, nota dayalı ödül duyarlılığı yükseldikçe zayıflamıştır; basit eğimler düşük, ortalama ve yüksek duyarlılıkta sırasıyla b = 0,733, 0,607 ve 0,483’tür.
+
+
+Kurumsal üretken [[educational-policy-ai|YZ politikası]] da [[learners|öğrenenlerin]] değerlendirdiği bir stresördür: [[gai-advocacy-practice-art-education-2026|Chen (2026)]], üniversitelerin GAI savunuculuğu ile sınıf pratikleri arasındaki uçurumun Çinli sanat ve tasarım öğrencileri arasında hem zorluk hem de engel değerlendirmelerini yükselttiğini, [[creativity|yaratıcı]] süreç katılımı üzerinde karşıt dolaylı etkiler yarattığını, yollar düşünmesinin ise yalnızca zorluk yolunu güçlendirdiğini bulmuştur.
 
 Bir diyalog biçimi, genel değerlendirmeyi iyileştirmeden motivasyonu yükseltebilir: 222 birinci sınıf lise öğrencisinde, öğretmen–öğretmen diyalogu, somut deneyimi yüksek öğrenenler için ARCS motivasyonunu öğretmen–öğrenci biçiminden daha fazla yükseltti (b = 0,162, p < ,001) ama genel değerlendirmede anlamlı ölçüde daha düşük puan aldı (b = -0,126, p = ,005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe ve ark. (2026)]]).
 
@@ -70,9 +75,18 @@ Bir fayda-değeri müdahalesi tek biçimli olarak yararlı değildir: iskelenmi�
 
 **Literatür motivasyonu, onun bir teorisi olmadan ölçer.** 2003’ten 2025’e 156 çalışmanın kapsam incelemesi, 133’ünün (%85,3) hiçbir özgül motivasyonel teori tarafından yönlendirilmediğini, en yaygın değişkenin genelleştirilmiş akademik motivasyon olduğunu (n = 89) ve 88 çalışmanın (%56,4) tek bir ulusal bağlamdan geldiğini buldu ([[ai-student-motivation-scoping-review-2026|Li ve ark., 2026)]]).
 
+
+Motivasyon ayrıca teknoloji algısının yukarı akışında işler, yalnızca onunla birlikte değil. 340 öğrencilik bir fizik örnekleminde yararlılık değeri algılanan faydalılığı (β = 0,43), içsel değer ise tutumu (β = 0,20) yordarken algılanan maliyet kullanım kolaylığını (β = −0,16) ve tutumu (β = −0,27) düşürmüş, niyete doğrudan bir yol kalmamıştır ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ve Lu (2026)]]).
+
 ## İlgili kavramlarla bağlantılar
 
 Motivasyon, [[self-determination-theory]]nin ana yapısıdır; bu teori, içsel motivasyonu sürdüren psikolojik ihtiyaçları (özerklik, yetkinlik, ilişkililik) belirtir. Motive olmuş etkileşimin deneyimsel katmanı olarak [[student-experience]], ölçülebilir boyutu olarak [[student-engagement]] ve motivasyonu şekillendiren duygusal mekanizmalar için [[affective-computing]] bağlanır. Motivasyon ayrıca [[cognitive-offloading|Aşırı Bağımlılığa]] (YZ’nin [[desirable-difficulties|üretken mücadeleyi]] azaltması), [[self-regulated-learning]] (motive olmuş öğrenenler kendilerini düzenler) ve [[teacher-role]] (motivasyon öğrenciler kadar eğitimcilere de uygulanır) bağlanır.
+
+## Yaygın yanlış anlamalar
+
+- **“GenAI’nin motivasyon etkisi temiz ve büyük bir kazançtır.”** 42 çalışmalık bir meta analiz (56 etki büyüklüğü, 6.059 öğrenci) g = 0,764 (95% CI [0,566, 0,962]) düzeyinde bir motivasyon etkisi bulmuştur **ancak I² = %93,7 ile**. Bu denli yüksek heterojenlik, birleştirilmiş değerin birbiriyle uyuşmayan çalışmalardan oluşan bir kümeyi tanımladığı anlamına gelir; dolayısıyla bu değer, yeniden üretilebilir bir etki değil, tutarsız müdahaleler üzerinden alınmış bir ortalamadır.
+- **“Hayal kırıklığını azaltmak, motivasyonu sürdürmekle aynı şeydir.”** Üç kollu bir [[rct|RCT]], iskelenmiş bir öğretmen ile sınırsız ChatGPT’nin **hayal kırıklığını eşit ölçüde azalttığını** bulmuştur (3,21 ve 3,13). Birbirinden çok farklı iki tasarım aynı duyuşsal sonucu üretmiştir; bu nedenle hayal kırıklığı verisi ikisini birbirinden ayıramaz.
+- **“Motive edici bir tasarım iyi bir tasarımdır.”** **222 birinci sınıf lise öğrencisinde**, öğretmen-öğretmen diyalog biçimi ARCS motivasyonunu alternatiften **daha fazla yükseltmiş** ancak **genel değerlendirmeyi iyileştirmemiştir**. Motivasyon hareket etmiş, yargılanan kalite etmemiştir.
 
 ## Bağlı kavramlar
 
@@ -92,6 +106,10 @@ Motivasyon, [[self-determination-theory]]nin ana yapısıdır; bu teori, içsel 
 
 ## Bağlı makaleler
 - [[liu-ai-assistance-reduces-persistence-2026]] — Kısa YZ kullanımı, sonraki yardımsız problemlerde azmi azalttı (Liu ve ark. 2026)
+
+- [[high-school-genai-acceptance-tam-physics-2026]] — GenAI kabulünün öncülleri olarak beklenti-değer inançları
+- [[gai-advocacy-practice-art-education-2026]] — GAI savunuculuğundaki politika-pratik uçurumları öğrencilerin değerlendirdiği bir stresördür
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — İskelenmiş öğretmen içsel motivasyonu yükseltti, sınırsız ChatGPT yükseltmedi
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Savunmacı yazma üzerinde otomatik geri bildirim: ortaöğretim öğrencilerinin geri bildirim alıcılığının ve geri bildirim algısının rolü
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Çaba paradoksu ve sürtünmesiz yardımın kısır döngüsü
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Metabilişsel Üretken YZ etkileşiminde motivasyon ve roller

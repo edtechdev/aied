@@ -6,7 +6,7 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,7 @@ Bazı hedeflenen sinyaller diyalogdan hiç çıkarılamayabilir: Öğrenme Bağl
 Gizli yanlış kanılar aynı hatayı ters yönden gösterir: [[correct-answer-trap-misconceptions|Imran and Bulathwela (2026)]], ince ayarlı bir sınıflandırıcının hatalı akıl yürütmeyle ulaşılan doğru yanıtların %57,4'ünü yakaladığını ve %1,6 yaygınlıkta bile %83,6 doğruluklu bir akıl yürütme modelinin her tespit başına 8 yanlış alarm bıraktığını buldu — böylece doğruluk temelli ustalık sinyalleri hem eksiktir hem de onarımı pahalıdır.
 
 **Bir modelin nasıl doğrulandığı da doğrudan bir geçerlilik sorusudur.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]], popüler öğrenen modellerinin (BKT, BKT-with-Forgetting, AFM) yalnızca tam çok oturumlu bir veri kümesine geriye dönük uyduğunda insan öğrenmesini yakalıyor gibi göründüğünü gösterir; zaman temelli (yürüyen ileri) çapraz doğrulamada — gelecek bir oturumu öncekilerden öngörerek, bu modellerin gerçekte dağıtıldığı biçimde — performansı aşırı tahmin ederler, [[retrieval-spacing-interleaving|spacing effect]] kaçırır ve alıştırma koşullarını yanlış sıralarlar. Unutmayla güçlendirilmiş ve unutmasız modeller oturumlar boyunca yaklaşık eşit performans gösterdiğinden, yazarlar unutmanın genellikle gerçekten temsil edilmekten ziyade öğrenen parametrelerine sindirildiği sonucuna varır. Aile için ders şudur: inançlı bir öğrenen temsili, kullanıldığı biçimde doğrulanmalıdır — ve anlık performansı uzun süreli hatırlamayla karıştırmak, doğru görünen ama öğrenenleri yanlış temsil eden modeller üretir.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi ve Robb (2026)]], aynı başarısızlığı sınıflandırıcının tarafından gösterir: 153 lisans öğrencisinin problem çözme diyaloglarından öğrenme stili boyutlarını çıkarmak, sınıf başına geri çağırma baskın etiketi öngörmeyi ortaya çıkarana kadar doğruluk açısından orta düzeyde görünüyordu; Sezgisel ve Küresel öğrenenler sistematik olarak yetersiz tanımlandı ve az sayıda örnek bazen çoğunluk sınıfı yanlılığını güçlendirdi.
 
 ## LLM çağında modelleme
 
@@ -105,6 +106,12 @@ Kara kutu bir tahminci ayrıca küçük, kendini açıklayan bir modele damıtı
 ## Diğer kavramlarla bağlantılar
 
 Öğrenen modellemesi ve uyarlanabilir öğretim, [[learning-analytics]]'i ([[visualization|dashboards]] ve müdahaleler), [[formative-assessment]]'i (analitik temelli değerlendirme) ve [[feedback]]'i (sistemin öğrenene söyledikleri) besler. Eğitim için YZ'nin çekirdek bir dalı olarak [[ai-education]] ile bağlantılıdır.
+
+## Yaygın yanlış anlamalar
+
+- **“Sadık bir model en karmaşık yöntemi gerektirir.”** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]], **sadık temsilin en karmaşık yaklaşımı gerektirmediğini** örnekler. Karmaşıklık sadakatin vekili değildir ve ilgili yapıyı yakalayan daha basit bir model daha iyi bir araç olabilir.
+- **“Öğrenen modelleri iz verisi gerektirir.”** Öngörücü bir öğrenen modeli iz verisi yerine **kayıt yapısına** dayanabilir: TRACE her dönemi **sırasız bir ders sepeti** olarak kodlar ve bundan öngörür. Öngörücü sinyal, kurumun idari kaydında yaşayabilir.
+- **“Duyuşsal durum fizyolojik algılama gerektirir.”** Bir matematik öğretmeni **duyguyu konuşma metninden ve yüz ifadesinden** çıkarmış ve toplanan durumu öğretim kararlarına eşlemiştir. Duygu sinyali, öğrenenlerin zaten ürettiği şeylerden geri kazanılabilmiştir.
 
 ## Bağlı kavramlar
 
@@ -160,3 +167,5 @@ Kara kutu bir tahminci ayrıca küçük, kendini açıklayan bir modele damıtı
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: İnsan-YZ Ortak Öğrenme Döngüsünde Öğrenenini Öğrenen Aracı Öğretmen
 
 - [[ai-game-based-learning-systematic-review-2026]] — Sinsi değerlendirme 0,848–0,913 AUC'ye ulaştı, ancak 55 çalışma boyunca önyargı denetimleri neredeyse hiç yapılmadı
+
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Diyalog temelli öğrenme stili çıkarımı dengeli ölçütlerde başarısız oluyor (Zamanifard, Goudarzi ve Robb 2026)

@@ -7,7 +7,7 @@ technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,27 @@ PBL, [[active-learning]], [[experiential-learning]], [[collaborative-learning]],
 ### YZ Çağında Dijital Hikâye Anlatımıyla PBL
 
 - Proje temelli öğrenme, [[storytelling-in-education|digital storytelling]] ile birleştiğinde sanat ve tasarım eğitiminde [[generative-ai|generative AI]] pedagojik bir yanıt sunar. 426 lisans öğrencisiyle 15 haftalık gömülü bir durum çalışması, dijital hikâye anlatımının öğrencilerin yerel kültürel mirası duygusal yankı uyandıran, [[multimodal]] anlatılara dönüştürmeleri için birincil metodoloji olarak hizmet ettiği bir PBL-DS çerçevesi uyguladı; YZ’nin yoksun olduğu yaratıcı kapasiteleri besledi.
+
+## Yaygın yanlış anlamalar
+
+- **“PBL’in etkisi büyüktür, dolayısıyla YZ ile PBL güvenilir biçimde büyüktür.”** Bu eşleşmenin tek üç düzeyli meta analizi **22 kontrollü çalışmayı (66 etki büyüklüğü)** bir araya toplar ve büyük bir etki tahmin eder, **g = 0,819, %95 GA [0,655, 0,983]**; ancak bir PET-PEESE düzeltmesi bunu düşürür ve tahmin, genel olarak tasarımı değil, toplulaştırılan çalışmaları betimler.
+- **“Aracı özelleştirmek sonucu iyileştirir.”** Araç türü etkiyi anlamlı biçimde düzenledi (**QM = 14,301, p < 0,001**) ve yön sezgiye aykırıdır: **doğrudan kullanılan genel bir sohbet robotu daha yüksek toplulaştı (g = 0,970)**; kurs platformlarına, sanal hastalara veya ajanlara **özelleştirilmiş sistemlerden (g = 0,455)**. Çıplak araç, mühendislikle kurulmuş olanı geride bıraktı; bu da amaca özel ürünlerin daha iyi bir satın alma olduğunu varsaymaya karşı çıkar.
+- **“Öğrenciler açık uçluluğu zor kısım olarak bulur.”** Öğrenci algı verilerinde **açık uçluluk en güçlü olumlu tema (%22,3)** iken **belirsiz talimatlar olumsuzların başında (%23,7)** yer aldı. Öğrenciler özgürlüğü benimsedi ve belirsizliğe itiraz etti; bu ayrım önemlidir çünkü çözüm farklıdır: daha az açık uçlu iş değil, daha net görev çerçevelemesi.
+- **“Hoşuna giden öğrenciler daha çok öğrendi.”** Algılanan öğrenme, test puanlarıyla yalnızca **mütevazı biçimde (r = 0,161-0,315)** ilişkiliydi. Memnuniyet ile ölçülen öğrenme burada zayıf ilişkilidir, dolayısıyla olumlu bir PBL değerlendirmesi tek başına öğrenme hedeflerine ulaşıldığının kanıtı değildir.
+
+## Uygulama için çıkarımlar
+
+**Eğitimciler için**
+
+- Görev çerçevelemesini araç seçiminden önce yazın. Açık uçluluk en güçlü olumlu temaydı (%22,3), belirsiz talimatlar ise en güçlü olumsuzdu (%23,7); dolayısıyla YZ ile PBL fiilen belirsizlikte başarısız olur.
+- Öğrenmeyi memnuniyetten ayrı puanlayın. Algılanan öğrenme test puanlarıyla yalnızca r = 0,161-0,315 düzeyinde ilişkiliydi, bu nedenle mutlu bir grup ölçülmüş bir sonuç değildir.
+- Özel platformdan önce genel sohbet robotunu düşünün. Doğrudan kullanılan genel bir sohbet robotu (g = 0,970), kurs platformlarına, sanal hastalara veya ajanlara özelleştirilmiş sistemlerden (g = 0,455) daha yüksek toplulaştı.
+- g = 0,819’u bir üst sınır olarak ele alın. Bir PET-PEESE düzeltmesi bunu düşürür ve 66 etki büyüklüğü içeren 22 çalışma, bir tasarım iddiası için dar bir tabandır.
+
+**Geliştiriciler için**
+
+- Düzenleyici bulgu bir ürün uyarısıdır: bir sohbet robotunu amaca özel bir ortama mühendislikle yerleştirmek *daha küçük* bir toplulaştırılmış etkiyle örtüştü. Özelleştirmenin varsayılan kolaylık değil öğrenme değeri kattığını doğrulayın.
+- Bir PBL modülü sunuyorsanız sonucu kazanan özellik model değil, talimat katmanıdır.
 
 ## Bağlı kavramlar
 

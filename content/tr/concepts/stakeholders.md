@@ -7,7 +7,7 @@ audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,16 @@ Kimlik, paydaş manzarasının insani çapasıdır: her kitle için YZ’nin des
 - **Role özgü yetkinlikler oluşturun:** öğretmenler, öğrenciler, tasarımcılar ve liderlerin her birine uyarlanmış YZ okuryazarlığı ve desteğe ihtiyacı vardır (bkz. [[ai-literacy]], [[teacher-ai-competency]], [[educational-development]]).
 - **Düzeyler arasında uyum sağlayın:** bilgi tabanının yönetişim araştırmaları, YZ’nin kurumsal liderlik, öğretmen uygulaması ve öğrenci deneyimi parçalı değil uyumlu olduğunda başarılı olduğunu göstermektedir.
 - **Ebeveynleri ve daha geniş topluluğu göz önünde bulundurun:** aileler, rolü ve kaygılarının açık biçimde ele alınmayı hak eden YZ yaygınlaştırmasının paydaşlarıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Eğitimde YZ'nin paydaşları aynı sonuçla ilgilenir.”** Çıkarları sıklıkla doğrudan çatışır ve aynı özellik role göre farklı okunur: bir öğrencinin "kişiselleştirilmiş desteği", aynı anda bir öğretmenin "dürüstlük riski" olabilir. Ortak bir hedef varsayan tasarım süreçleri, bu gerilimi kazara en yüksek sesle konuşanın lehine çözecektir.
+
+**“Her paydaş grubuna söz vermek çatışmayı çözer.”** Danışma, ağırlıklandırma değildir. Sayfanın kendi çerçevesi tasarım sorusunu, her kaygıya **en yüksek sesin kazanmasına izin vermek yerine gerçek ağırlık vermek** olarak konumlandırır; bu bir iletişim değil, bir prosedür sorunudur: kim karar verir, hangi kanıtla ve hangi itiraz yoluyla.
+
+**“Paydaş analizi erken evre bir alıştırmadır.”** Gerilimler işletime kadar sürer, çünkü roller aynı sistemi farklı yorumlamaya devam eder. Öğrenciye dönük bir kişiselleştirme katmanı ile fakülteye dönük bir dürüstlük panosu, aynı verinin iki konumdan görünümüdür ve çatışma, biri ayarlandığında her seferinde yeniden ortaya çıkar.
+
+**“Kitleler arasında bir kimlik, tek bir mesajın hepsine hizmet edebileceği anlamına gelir.”** Kitleler arasında iletişim, aynı kararı onu yanlış betimlemeden farklı terimlere çevirmeyi gerektirir; bu, tek bir mesajı dört biçimde yeniden yazmaktan fazlasıdır.
 
 ## Bağlı kavramlar
 

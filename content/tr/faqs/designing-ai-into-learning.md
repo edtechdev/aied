@@ -6,10 +6,14 @@ weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T10:40:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -22,6 +26,8 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
+**Öğrenme hedefinden ve o hedefi üreten etkinlikten başlayın; aynı modelin iskele mi yoksa cevap makinesi mi olacağına model değil tasarım karar verir.**
+
 Modül taslağında "YZ etkinliği" yazan bir satır var ve kimse bunun neyin yerini aldığını söyleyemiyor. Ya da bir öğretim elemanı, zaten iyi işleyen bir kursa sohbet robotu eklemek istedi ve sizin işiniz, kursu işler kılan kısmı bozmadan onu yerleştirmek.
 
 Öğrenme hedefinden ve o hedefi üreten etkinlikten başlayın. Aynı model bir iskele, bir [[socratic-method|Sokratik]] ortak, bir taslak okuyucusu, bir [[simulation|simülasyon]] ya da bir cevap makinesi olabilir; hangisini elde ettiğiniz modelden çok tasarıma bağlıdır. İnşa ettiğiniz modu adlandırın, herhangi bir yardım görünmeden önce öğrenenin denemesini koyun ve kursta araç olmadan işleyen en az bir yol bırakın.
@@ -30,7 +36,7 @@ Modül taslağında "YZ etkinliği" yazan bir satır var ve kimse bunun neyin ye
 
 **1.** Öğrenenlerin sonunda araç olmadan neler yapabildiğine dair cümleyi yazın ve her YZ özelliğini bu cümleye karşı denetleyin.
 
-**2.** Etkileşimi sıralayın: öğrenen dener, YZ destekler, öğrenen değerlendirir ya da revize eder, öğrenen gösterir.
+**2.** Etkileşimi sıralayın: öğrenen dener, YZ destekler, öğrenen değerlendirir ya da düzeltir, öğrenen anladığını gösterir.
 
 **3.** Modu ICAP merdiveninde adlandırın. Baypas ile iskele, aynı aracın farklı basamakları olabilir.
 
@@ -44,23 +50,25 @@ Bilgi tabanındaki [[pedagogy|Pedagojiler ve Öğretim Stratejileri]] kavramı t
 
 [[finkelstein-principled-ai-education-2025|İlkeli YZ Eğitimi Çerçevesi]] genel kuralı koyar: teknoloji, eğitimin geliştirmeyi amaçladığı insan kapasitelerini yerinden etmek yerine onları güçlendirmelidir. Bir modül için teste çevrildiğinde bu, kapasiteyi adlandırmak, onu inşa eden etkinliği adlandırmak ve YZ'nin o etkinliğin içinde mi yoksa yanında mı durduğunu sormak demektir.
 
+Bunu araç başına bir kez değil, görev başına uygulayın. Öğretmene dönük dört vakada otomasyon ve artırma bir arada görüldü: yerine geçme, sınırlı analitik alt görevlerin içinde kaldı; artırma ise öğretmenin çıktıyla ne yaptığında ortaya çıktı. Aynı aracın bir adımı otomatikleştirip başka bir adımı artırabilmesinin nedeni budur ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers ve ark. (2026)]]).
+
 ## Yardımdan önce denemeyi koyun
 
-Gerçek bir sınıfla temas ettikten sonra ayakta kalan varsayılan örüntü şudur: **öğrenen dener, YZ destekler, öğrenen değerlendirir ya da revize eder, öğrenen anladığını gösterir.**
+Gerçek bir sınıfla temas ettikten sonra ayakta kalan varsayılan örüntü şudur: **öğrenen dener, YZ destekler, öğrenen değerlendirir ya da düzeltir, öğrenen anladığını gösterir.**
 
-Pratikte bu, herhangi bir yardım görünmeden önce ilk tahmini ya da çözümü istemek ve anında tamamlama yerine soruları, ipuçlarını, örnekleri, karşı argümanları ve [[feedback|geri bildirimi]] yeğlemek demektir. [[productive-failure|Üretken başarısızlığı]] öğrenmeye hizmet ettiği yerde koruyun. Sonuç doğuran iddiaların doğrulanmasını isteyin, açıklamayı ve [[learning-by-teaching|geri anlatımı]] (teach-back) işin içine kurun ve yetkinlik arttıkça desteği azaltın. Öğrenenlerin tek başına neler yapabildiğini kalibre edebilmesi için YZ'siz çalışmalar bırakın.
+Pratikte bu, herhangi bir yardım görünmeden önce ilk tahmini ya da çözümü istemek ve anında tamamlama yerine soruları, ipuçlarını, örnekleri, karşı argümanları ve [[feedback|geri bildirimi]] yeğlemek demektir. [[productive-failure|Üretken başarısızlığı]] öğrenmeye hizmet ettiği yerde koruyun. Sonuç doğuran iddiaların doğrulanmasını isteyin, açıklamayı ve [[learning-by-teaching|geri anlatımı]] işin içine kurun ve yetkinlik arttıkça desteği azaltın. Öğrenenlerin tek başına neler yapabildiğini kalibre edebilmesi için YZ'siz çalışmalar bırakın.
 
 [[reducing-ai-misuse|YZ Kötüye Kullanımını Azaltma]] sentezi de aynı biçimi önerir: önce düşün, sonra YZ, sonra yansıt dizisi ve bilinçli değerlendirme denetim noktaları.
 
 ## Hangi mod için tasarladığınızı adlandırın
 
-[[thermomix-genai-education-analogy-2026|Rummel, Nachtigall ve Panadero'nun mutfak makinesi analojisi]] soruyu, öğrenenlerin [[generative-ai|üretken YZ]] kullanıp kullanmadığından, bu kullanımın neye dönüştüklerini nasıl şekillendirdiğine taşır. [[icap-framework|ICAP]] ve [[samr-model|SAMR]] üzerine yerleştirildiğinde bir merdiven verir. Bir ödevi hiç revizyon ya da [[critical-thinking|eleştirel katılım]] olmadan tamamen dışsallaştırmak Pasif ikamedir ve [[cognitive-offloading|beceri kaybı ile aşırı güven]] riski taşır. [[prompt-engineering|İstek metinlerini iyileştirmek]] ve çıktıları çapraz doğrulamak [[prior-knowledge|ön bilgi]] ve [[self-regulated-learning|öz düzenleme]] gerektirir; bu Etkin ya da Artırma düzeyidir. YZ'yi beyin fırtınası, taslak çıkarma ve özgün işi değerlendirme için kullanmak Yapıcı ya da Değiştirme düzeyidir. YZ'nin ortak inşa ve uyarlanabilir geri bildirim için gerçek bir diyalog ortağı olması Etkileşimli ya da Yeniden Tanımlama düzeyidir.
+[[thermomix-genai-education-analogy-2026|Rummel, Nachtigall ve Panadero'nun mutfak makinesi analojisi]], soruyu öğrenenlerin [[generative-ai|üretken YZ]] kullanıp kullanmadığından, bu kullanımın neye dönüştüklerini nasıl şekillendirdiğine taşır. [[icap-framework|ICAP]] ve [[samr-model|SAMR]] üzerine yerleştirildiğinde bir merdiven verir. Bir ödevi hiç düzeltme ya da [[critical-thinking|eleştirel katılım]] olmadan tamamen dışsallaştırmak Pasif ikamedir ve [[cognitive-offloading|beceri kaybı ile aşırı güven]] riski taşır. [[prompt-engineering|İstemleri iyileştirmek]] ve çıktıları çapraz doğrulamak [[prior-knowledge|ön bilgi]] ve [[self-regulated-learning|öz düzenleme]] gerektirir; bu Etkin ya da Artırma düzeyidir. YZ'yi beyin fırtınası, taslak çıkarma ve özgün işi değerlendirme için kullanmak Yapıcı ya da Değiştirme düzeyidir. YZ'nin ortak inşa ve uyarlanabilir geri bildirim için gerçek bir diyalog ortağı olması Etkileşimli ya da Yeniden Tanımlama düzeyidir.
 
 Çıkarım doğrudan: aynı araç bir basamakta baypas, bir sonrakinde [[scaffolding|iskeledir]]; bu yüzden tasarım belgesi amaçlanan modu adlandırmalıdır.
 
 ## Onu, dizinin bir etkinlik öngördüğü yere yerleştirin
 
-[[learning-paths-patterns-learning-design-2026|Divjak, Svetec ve Horvat]], 554 kurstaki 29.064 öğretim ve öğrenme etkinliğinin planlanmış dizisini analiz etmiş ve görünür bir tasarım dilbilgisi bulmuştur. Edinme türü etkinlikler en yaygın giriş noktası ve %20'nin üzeriyle en büyük tek türdür. Öğrenme türü amaçlanan Bloom düzeyini izler: Edinme 1. düzeyde yaklaşık %50'den 6. düzeyde yaklaşık %20'ye düşerken Üretim 5. ve 6. düzeylerde %20'nin üzerine çıkar. Verilerdeki en güçlü geçiş Değerlendirme'den Tartışma'ya geçiştir: 0,332.
+[[learning-paths-patterns-learning-design-2026|Divjak, Svetec ve Horvat]], 554 kurstaki 29.064 öğretim ve öğrenme etkinliğinin planlanmış dizisini analiz etti ve görünür bir tasarım dilbilgisi buldu. Edinme türü etkinlikler en yaygın giriş noktası ve %20'nin üzeriyle en büyük tek türdür. Öğrenme türü amaçlanan Bloom düzeyini izler: Edinme 1. düzeyde yaklaşık %50'den 6. düzeyde yaklaşık %20'ye düşerken Üretim 5. ve 6. düzeylerde %20'nin üzerine çıkar. Verilerdeki en güçlü geçiş Değerlendirme'den Tartışma'ya geçiştir: 0,332.
 
 YZ tasarımı için bundan iki ders çıkar. Aracı, dizinin bir etkinlik türü öngördüğü yere koyun. Ve geri bildirim [[collaborative-learning|işbirlikçi çalışma]], [[group-work|grup çalışması]] ve [[teacher-role|öğretmen]] varlığıyla kümelendiği için, akran ve eşzamanlı yapılar, YZ desteğinin yerine geçmesi gereken değil, bağlanması gereken yerlerdir.
 
@@ -82,9 +90,9 @@ YZ'yi eklemek müdahalenin kendisi sayılır. Öğrenmeyi değiştiren, öğrenc
 
 İzni yazmak tasarım işinin kendisi sanılır. Bir izin, neye izin verildiğini belirler. Sırayı, modu ya da denetim noktasını belirlemez; etkinliğin ayakta kalıp kalmayacağına karar veren bu üçüdür.
 
-Verimlilik, yeniden tasarımın hedefi sayılır. Bir modelle çıktı ve rubrik taslaklaştırmak hızlıdır ve 14 belgelik analiz, sonucun hizalı görünürken parçaların birbirini desteklemeyi bırakabildiğini bulmuştur.
+Verimlilik, yeniden tasarımın hedefi sayılır. Bir modelle çıktı ve rubrik taslaklaştırmak hızlıdır ve 14 belgelik analiz, sonucun hizalı görünürken parçaların birbirini desteklemeyi bırakabildiğini buldu.
 
-## Karşınıza neler çıkacak
+## Karşınıza çıkacak itirazlar
 
 **"Öğrenciler nasılsa kullanacak, buna göre tasarlamak saflık."** Kullanacaklar; zaten modu belirtmenin ve onu öğretmenin gerekçesi de bu. Modu adlandıran bir modül, öğrenciye uyabileceği bir şey verir.
 
@@ -92,7 +100,7 @@ Verimlilik, yeniden tasarımın hedefi sayılır. Bir modelle çıktı ve rubrik
 
 **"YZ özelliğimizde zaten koruma bariyerleri var."** Koruma bariyerleri modelin ne söylediğini sınırlar. Öğrenenin önce deneyip denemediğini, desteğin azalıp azalmadığını ya da YZ'siz bir yolun bulunup bulunmadığını belirlemezler. Bunlar üründeki ayarlar değil, sizin kursunuzdaki tasarım kararlarıdır.
 
-## Bu hafta yapılacaklar
+## Bu hafta ne yapmalı
 
 **1.** Modül için yardımsız performans cümlesini yazın ve etkinlik listesinin üstüne koyun.
 
@@ -104,6 +112,6 @@ Verimlilik, yeniden tasarımın hedefi sayılır. Bir modelle çıktı ve rubrik
 
 **5.** Aracın esirgendiği bir menteşeyi ve onu geri veren denetim noktasını adlandırın.
 
-## Bundan sonra nereye gidilmeli
+## Bundan sonra nereye gidilir
 
 [[learning-design|Öğretim Tasarımı]], [[active-learning|Etkin Öğrenme]] ve [[scaffolding|iskele]] tasarım sözlüğünü taşır. Tasarlanmış bir etkinliğin öğrenmeyi koruyup korumadığını belirleyen etkileşim düzeyi varsayılanları için [[reduce-ai-cheating|YZ ile Aldatmayı Nasıl Azaltabilirim?]] ve [[redesign-assessment-ai-era|Değerlendirme YZ Çağında Nasıl Yeniden Tasarlanmalı?]] sayfalarına bakın. [[designing-educational-ai-software|Eğitim YZ Yazılımı Tasarlamak]] aynı ilkelerin yazılımın kendisini nasıl sınırladığını ele alır, [[developing-ai-tutor|Etkili Bir YZ Eğitmeni Geliştirmek]] ise bunları bir eğitmenin mimarisine çevirir.

@@ -9,7 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,13 @@ Doğru altyazılı ve uygun biçimde etiketlenmiş yazıya çevrilmiş kaydı ol
 - **Kurum düzeyinde YZ yaygınlaştırma, YZ erişilebilirlik politikasının önüne geçiyor.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]], Times Higher Education 2026 sıralamasındaki tüm 100 üniversiteyi kodlamış ve bağımsız bir YZ erişilebilirlik politikası yayımlayan hiçbir üniversite bulmazken, %93’ünün YZ destekli kampüs hizmeti (kayıt, barınma, BT için sohbet robotları) yayımladığını bulmuştur. Yazarın hayırlı okuması, erişilebilirlik yükümlülüklerinin genel engelli hizmetleri politikalarının içinde yer aldığıdır; ama ölçüldüğü biçimiyle, YZ araçlarına ilişkin gereklilikler kurumsal kamusal kayıtta hiçbir yerde görünmemektedir. Öğretim ve yönetimdeki YZ araçlarının engelli öğrenciler için erişilebilir olması gerektiğini belirten kısa bir kurumsal ifade, ölçülen alanın tamamının önünde olurdu.
 
 - **[[physics-education|Fizik]] videolarının matematik erişilebilir yazıya çevrilmesi (2026):** Gemini (ses + saniyede 1 kare video örnekleme) ve LuaLaTeX kullanan bir YZ iş akışı, öğretim fizik videolarını erişilebilirlik doğrulamasını rutin biçimde geçen PDF/UA-2 ve ISO 32005 matematik erişilebilir PDF’lere derler — denklem ağırlıklı video içeriğini kör ve az gören öğrenciler için ekran okunabilir kılmada pratik ve ücretsiz bir yol ([[gemini-lualatex-physics-video-transcription-2026]]).
+
+## Yaygın yanlış anlamalar
+
+- **"Daha kötü görünen bir erişilebilirlik özelliği daha kötüdür."** Şerit kaplamalar **çıkarımı en çok bozdu (+%35,9 karakter hatası, +%38,3 sözcük hatası)**, ancak **dört tipografi ve tasarım uzmanı dikey şeritleri okunabilir buldu**, çapraz desenler ise başarısız oldu. Makine okunabilirliği ile insan okunabilirliği ayrı ölçümlerdir ve birini iyileştirmek diğerine zarar verebilir. Erişilebilirlik iddiaları hangi okuyucu için olduğunu belirtmelidir.
+- **"Erişilebilirlik, uyarlama demektir."** Nöroçeşitli öğrenciler için dijital yardımcı teknolojiler üzerine **40 çalışmalık** bir kapsam derlemesi, **28'inin katılımı resmi bir tanıya bağladığını** buldu. Bu tanı kapılı bir modeldir ve ihtiyacı olup etiketi olmayan her öğrenciyi dışlar; evrensel tasarımın tam tersi.
+- **"Orta düzey etkiler soruyu kapatır."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang ve ark.]] **29 çalışmayı** meta-analiz eder ve orta düzeyde olumlu bir etki bulur; bu gerçektir ve hangi ihtiyaç için hangi araç sorusuna hiçbir şey söylemez. Heterojen müdahaleler arasındaki ortalama bir öneri değildir.
+- **"Hız ve anındalık kolaylıklardır."** Üç Filistin üniversitesinde **21 görme engelli lisans öğrencisiyle** yapılan nitel bir vaka çalışmasında öğrenenler, anındalığı bir kolaylık değil **temel bir erişilebilirlik gereği** olarak çerçeveledi. Dışarıdan bir incelik gibi görünen şey, katılımın bir ön koşuludur.
 
 ## Bağlı kavramlar
 

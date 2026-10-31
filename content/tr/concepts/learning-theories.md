@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,7 @@ Son kuramsal çalışma, klasik çizgiyi birçok yönde genişletir ve her biri 
 
 - **İnsan–YZ ortak-[[regulation]].** Gelişimsel bir çerçeve, YZ’yi dışsal bir araç değil, yaşam boyu düşünceyi, öğrenmeyi ve öz denetimi ortak düzenleyen bir **bilişsel ortak** olarak konumlandırır.([[ai-cognitive-partner-co-regulation-learning]]) Yönetici işlevi, [[metacognition]], dağıtık biliş ve sosyokültürel gelişimden yararlanarak YZ’yi dört rolde betimler — iskele, üst bilişsel destek, dış bellek / [[cognitive-offloading]] sistemi ve karar ortağı — çerçevenin en ilgili olduğu dönem orta çocukluktan itibarendir.
 - **Topluluk Bilişi.** Bir [[philosophy-of-ai-in-education|felsefi]] çerçeve, düşünceyi yalnızca bireysel zihinlerde yer almak yerine insan ve yapay aracılar arasındaki dinamik etkileşimlerden doğan bir şey olarak yeniden kavramsallaştırır.([[ensemble-cognition-philosophy-ai-education]]) “Bilinc paradigmini” (özerklik, bilinç ve kararlılık varsayımları) sınar ve dağıtılmış etkenlik, dinamik merkezilik, bilişsel orkestrasyon, çok temsilli bütünleşme ve bağlama duyarlı geçişten oluşan beş özniteliği ortaya koyarken YZ’nin **işlevsel etkenliğini** ahlaki sorumluluktan ayırır.
-- **[[self-directed-learning|Kendi Kendine Yönlendirilen]] Büyüme / A2PL.** [[self-regulated-learning|kendi kendine yönlendirilen öğrenmenin]] bir uzantısı olan bu yaklaşım, üretken YZ’yi [[learning-analytics|öğrenme analitiği]] ile bütünleştirerek **Kendi Kendine Yönlendirilen Büyüme**’yi besler; Aspire to Potentials for Learners (A2PL) modeli yoluyla işlevsel kılınır.([[self-directed-growth-generative-ai-learning-analytics]]) Öğrenen özlemlerini (hümanist), karmaşık düşünceyi (yapılandırmacı) ve öz değerlendirmeyi (pragmatik) tek bir yetkinlikte yeniden yapılandırır ve GAI’yi bir içerik sağlayıcısı yerine buyurgusal olmayan işbirlikçi bir iskele olarak konumlandırır.
+- **[[self-directed-learning|Kendi Kendine Yönlendirilen]] Büyüme / A2PL.** [[self-directed-learning|kendi kendine yönlendirilen öğrenmenin]] bir uzantısı olan bu yaklaşım, üretken YZ’yi [[learning-analytics|öğrenme analitiği]] ile bütünleştirerek **Kendi Kendine Yönlendirilen Büyüme**’yi besler; Aspire to Potentials for Learners (A2PL) modeli yoluyla işlevsel kılınır.([[self-directed-growth-generative-ai-learning-analytics]]) Öğrenen özlemlerini (hümanist), karmaşık düşünceyi (yapılandırmacı) ve öz değerlendirmeyi (pragmatik) tek bir yetkinlikte yeniden yapılandırır ve GAI’yi bir içerik sağlayıcısı yerine buyurgusal olmayan işbirlikçi bir iskele olarak konumlandırır.
 
 - **Aldatıcı aşırı genelleme.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], ACT-R / Knowledge-Learning-Instruction geleneğini, gözlenen doğruluğun ne zaman eksik koşullu anlayışı maskelediğini kuramsallaştırarak genişletir: öğrenenler, bir uygulama kısıtını atlayan ama yine de doğru performans gösteren aşırı genelleştirilmiş bir üretim derler — uyarlanabilir ustalık sistemlerinin ve hatta geleneksel öğretimin, bir eylemi *ne zaman gerçekleştirmemek* gerektiğini sınamadıkça gözden kaçırabileceği bir başarısızlık kipi.
 - **Çalıştırılabilir KLI kuramı.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]], Knowledge-Learning-Instruction çerçevesini, insan verisindeki bir çaprazlama etkileşimini yeniden üreten çalıştırılabilir bir hesaplamalı modelde (ACT-R tarzı bir bellek mekanizmasına sahip Apprentice Learner çerçevesi) temellendirir: saf pratik, kelimesi kelimesine olgu belleğine (unutmayı geciktirerek) yardım ederken örnek bütünleşmeli pratik, genelleştirilebilir beceri çıkarımına yardım eder. KLI sabit (olgu) bilgisini bellek süreçlerine, değişken (beceri) bilgisini ise çıkarıma bağladığından, sonuç, test ile çözümlenmiş örnek önerileri arasında bir çelişki değil, öngörülmüş bir içerik–uygulama etkileşimidir — ve modelin yalnızca bir bellek mekanizması varken başarılı olması, pratik ile örneklerin farklı, birbirini tamamlayan rolleri oynadığını gösterir.
@@ -85,6 +85,32 @@ Son kuramsal çalışma, klasik çizgiyi birçok yönde genişletir ve her biri 
 Klasik ailelerin yanında, bilgi tabanı özellikle YZ sistemleriyle öğrenme için yazılmış kuramları belgeler ve bunlar eski kuramların açık bıraktığı tasarım çıkarımlarını taşır. [[yan-agentivism-learning-theory-ai-2026|Etkencilik (Yan ve Gašević 2026)]] orta erimli bir örnektir: öğrenmeyi başarılı görev tamamlamadan çok insan yeteneğinde kalıcı büyüme olarak tanımlar, dört mekanizma adlandırır (devredilmiş etkenlik, epistemik izleme ve doğrulama, yeniden yapılandırıcı içselleştirme ve azalan destek altında transfer) ve altı sınanabilir önerme belirtir; bunlardan biri, problem çerçeveleme, ölçüt belirleme ve gerekçelendirme konusunda öğrenen sorumluluğunu koruyan YZ desteğinin, cevap sunan destekten daha güçlü öğrenme ürettiğidir.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]’nin **Pedagojik Simbiyoz**u daha güçlü bir ontolojik iddiada bulunur: öğrenen, bilişi araç destekli değil hibrit olan bir *İnsan Sonrası* varlıktır; dört ilkeyle düzenlenir: bilişsel yük boşaltma ve güçlendirme, epistemik ortak inşa, üst bilişsel simbiyoz ve dinamik kimlik oluşumu; bir Simbiyotik Portföy rubriği ve bir “Bilişsel Koreograf” öğretmen rolü olarak işlevsel kılınır; açıkça sınanmamıştır.
+
+## Yaygın yanlış anlamalar
+
+**“Öğrenme kuramlarından biri doğrudur, dolayısıyla kuram seçimi bir beğeni meselesidir.”** Kuramlar neyin kanıt sayılacağına ilişkin farklı iddialar ortaya koyar, dolayısıyla aynı veri zıt sonuçları destekleyebilir. En açık örnek: şişirilmiş ödev puanları **davranışçılık altında öğrenme**, **yapılandırmacılık altında ise kalıcı bir anlayış inşa edilememesi** olarak okunur. Kuram seçimi bu nedenle bir müdahalenin başarılı olup olmadığını belirler; bu da onu üslup tercihi değil, ölçüm kararı yapar.
+
+**“Derin öğrenmeyi destekleyen bir araç, her çerçevede derin öğrenme gibi görünür.”** Bir çerçeve altında başarı, bir diğeri altında başarısızlık gibi görünür; yukarıdaki örnekte olduğu gibi. Alanın sonuç ölçülerinin tarafsızmış gibi ödünç alınmak yerine belirtilmiş bir kurama karşı gerekçelendirilmesi bu nedenledir.
+
+**“Daha çok kuram, daha iyi anlaşılmış bir alan demektir.”** Yargılama olmadan birikim, ilerlemenin tam tersidir. YZ çağı için önerilen kuramlar sınandıklarından daha hızlı çoğalmaktadır ve olgunluğun işareti rekabet eden öngörülerin çözülmesidir; bu da onları barındıran kataloglar değil, birbirinden ayırabilen tasarımlar gerektirir.
+
+**“Kuramsal olarak, YZ hakkında eğitim ile eğitimde YZ aynı şeydir.”** Farklı damarlardan beslenirler: biri öğrenenlerin YZ’yi bir konu olarak nasıl anlamaya başladığını, diğeri YZ’nin öğrenmenin gerçekleşme biçimini nasıl değiştirdiğini sorar. Bunları birbirine karıştırmak, iki ayrı kanıt tabanını karıştıran ve hiçbirinin tutarlı bir resmini sunmayan literatür derlemeleri üretir.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Kuram, ondan ne yapması isteneceğine göre seçilmelidir: öğrenmenin nasıl gerçekleştiğini açıklamak, öğrenenin durumunu betimlemek ya da bir uygulamanın neden yayıldığını açıklamak. Yanlış katmanın uygulanması, doğru değişkeni yanlış öngörüye karşı ölçer.
+- Sonuç ölçüsünün kuramsal bağlılığı açıkça belirtilmelidir, çünkü şişirilmiş ödev puanları özdeş veriden davranışçılık altında başarı, yapılandırmacılık altında başarısızlık olarak okunur.
+- Bir çerçeve yapılandırmalar arasındaki farkı öngöremiyorsa, söz konusu ortamda sınanamaz ve karar vermeye yardımcı olmaz.
+
+**Geliştiriciler için**
+
+- Sistemin somutlaştırdığı kuram ile onu çürütecek öngörünün birlikte yayımlanması gerekir; çürütülebilir bir fark olmadan “yapılandırmacılığa dayanır” demek içeriksiz bir iddiadır.
+
+**Araştırmacılar için**
+
+- Çerçeve birikimi yerine kuramlar arasında yargılama sağlayacak biçimde tasarım yapılmalıdır. Olgunluk, sözcük dağarcığının büyümesi olarak değil, çözülmüş rekabet eden öngörüler olarak görünür.
 
 ## Bağlı kavramlar
 

@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [designing-educational-ai-software]
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -87,12 +87,20 @@ Platformlar performans verisinin ötesinde kişiselleştirme yapabilir. **Taklif
 2. **Platform yapısını bir eşitlik kolu olarak ele alın.** Bir platformdan kimin yararlandığı erişime, altyapıya ve katılım kısıtlarına bağlıdır — platform tasarımı bir [[equity-in-ai-education]] merceğinden incelenmelidir. ([[access-not-enough-ai-tutoring-2026]])
 3. **Araştırma için açık, çoğaltılabilir platformları tercih edin.** OATutor gibi açık kaynak platformlar, yeniden üretilebilir uyarlanabilir öğrenme araştırmalarını ve paylaşılan bir kanıt tabanını mümkün kılar. ([[oatutor-open-source-adaptive-tutor-2023]])
 4. **YZ-mayın platformları yönetişim ve sınırlarla tasarlayın.** Platformlar YZ ile bütünleştikçe gizlilik öncelikli mimari, veri minimizasyonu, denetlenebilir kayıtlar ve rol tabanlı erişim kritik önemdedir — bu durum [[privacy]] ve [[governance]] kaygılarına bağlanır. ([[ai-lms-middle-school-longitudinal]])
-
 Gizlilik politikaya değil hattın içine yerleştirilebilir: anonimleştirilmiş duruş yörüngeleri üzerinde eğitilmiş bir sınıf olayı dedektörü, küçükler için yüz ve görünüm ipuçlarını sistemden uzak tutar; ancak her yöntem, önerilen modelin en iyi doğruluğunun %63,41 olduğu gerçek sınıflara sıfır-örnek aktarımda doğruluk kaybetmiştir ([[privacy-aware-classroom-incident-recognition-2026|Parmar ve ark. (2026)]]).
-
 5. **Önerileri öğretmenin alan dilinde açıklayın.** Bir platformun YZ özellikleri, açıklamaları anlaşılır ve pedagojik açıdan anlamlı olduğunda güven ve kullanım kazanır: bir YZ gruplama öneri aracıyla (GrouPer) yürütülen özne içi bir deneyde, [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor ve ark. (2025)]], müfredat diliyle çerçevelenen alana dayalı açıklamaların ham özellik önem derecesi açıklamalarına kıyasla öğretmenlerin anlaşılabilirlik, güven ve kabulunu belirgin biçimde daha fazla artırdığını bulmuştur — ve tam kabul için gerçek sınıf kullanımının hâlâ önemli olduğunu. ([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Kanıt üreten sistemi, onu derecelendiren sistemden ayırın.** Ajanlar bir öğrencinin adına bir kursu tamamlayabildiğinde, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]], bir platformun öğrenenin akıl yürütmesine ilişkin çağdaş, incelenebilir kanıt yayımlaması ve onun tek derecelendiricisi olmaması gerektiğini savunur — ortam, veren ve doğrulayıcı bağımsız olmalıdır. ([[credentials-carry-evidence-ai-agents-2026]])
 7. **Temsilleri tasarım zamanında üretin, çalışma zamanında değil.** [[edtech-design-time-generative-ui|Neshaei ve ark. (2026)]], çalışma zamanı uyarlamasının ölçekte doğrulanamayacağını savunur ve içeriği modaliteden bağımsız anlamsal kartlar olarak kodlamayı önerir; bu kartlardan etkileşimli, sesli, basitleştirilmiş metin ve düşük bant genişliği türevleri üretilir ve yayına girmeden önce öğretmenler tarafından onaylanır — öğrenci başına çıkarım maliyetini ortadan kaldırır; ancak hiçbir prototip rapor edilmemiştir.
+
+## Yaygın yanlış anlamalar
+
+**“Bir platform ilke olarak etkiliyse öğrenciler onu kullanır.”** Yetenek ile benimseme ayrı problemlerdir ve genellikle bağlayıcı olan benimsemedir. İki yıllık bir küme RCT’de **öğrencilerin %96’sı Khanmigo’yu denemiştir**, yani neredeyse evrensel bir benimseme; ancak medyan öğrenci ona yalnızca **hata yaptığı oturumların %17’sinde** mesaj atmıştır, yani aracın tam olarak bunun için kurulduğu anda. Sınıfı kayıt altına alan bir platform onu değiştirmemiştir.
+
+**“Benimseme girişlerle ölçülür.”** Bilgilendirici boşluk mesaj düzeyindedir, hesap düzeyinde değil. Aynı denemede mesajların yalnızca **~%14,5’i gerçek bir matematiksel soru** taşımıştır. Öğrencilerin %96’sı erişim olayını oluşturmuş; etkileşimlerinin yaklaşık yedide biri entelektüel işi yapmıştır. Burada bir giriş sayısı bildirmek, var olmayan bir başarıyı betimlemek olurdu.
+
+**“Açık ya da tescilli olmak, sonuçları etkilemeyen bir lisans ayrıntısıdır.”** Platform modeli, kurumların sistemle neler yapabileceğini şekillendirir: OATutor gibi [[open-source|açık]] platformlar, MIT lisanslı, Creative Commons cebir içerik kütüphaneli, [[knowledge-tracing]] ustalık tahminli ve yerleşik A/B testli uyarlanabilir bir öğretmen olarak bir bölümün kendi pedagojisini ölçmesine ve değiştirmesine izin verir; kapalı bir platform bunu yapamaz. Lisans, deneyi kimin yürütebileceğini belirler.
+
+**“Bir kurumda işleyen bir platform, benimsendiği gibi işler.”** Platform etkileri yerel yönetişimden geçer: gizlilik öncelikli mimari, veri asgarileştirmesi, denetlenebilir günlükler ve role dayalı erişim, YZ bütünleşik bir platformu konuşlandırılabilir kılan şeylerdir ve bunlar bir satıcı gösteriminden çıkarılabilecek özellikler değil, kurumsal kararlardır.
 
 ## Bağlı kavramlar
 

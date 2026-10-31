@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,16 @@ Eğitimciler için ortak kanıtlar, körü körüne kısıtlama ya da dizginsiz 
 ## İlgili kavramlarla bağlantılar
 
 Eğitimde YZ bağlamında tasarım odaklı düşünme [[human-ai-collaboration]] ile derinden iç içedir: üretken araçlar fikir üretmeyi genişletir, insanlar ise epistemik otoriteyi ve [[agency]]’yi korur. Etkili olmak için [[scaffolding]]’e ve aşamaya uygun [[feedback]]’e dayanır, sıklıkla [[higher-ed]] ve [[k-12]]’de [[socratic-method|Sokratik]] ve hasmane etkileşimler aracılığıyla sunulur ve başarısı çoğunlukla [[creativity]]’nin korunması ve [[human-in-the-loop-ai]] yönetişimi altında [[ai-literacy]]’nin geliştirilmesi olarak çerçevelenir.
+
+## Yaygın yanlış anlamalar
+
+**"Üretici YZ tasarım odaklı düşünmeyi tüm evrelerinde hızlandırır."** Fikir üretmeyi hızlandırır ve sonraki evrelerin bağlı olduğu yargıyı bozabilir: **erken evre fikir üretmede üstündür ancak eleştirel kullanılmadığında tasarım sabitlenmesine veya estetik kilitlenmeye yol açabilir**. Sabitlenme, hızlı bir fikir üretme aracının özgül tehlikesidir: ilk akla yatkın yön çerçeve haline gelir ve tek bir kavram üzerindeki geniş bir varyasyon kümesi daha geniş bir arama uzayı değildir.
+
+**"Daha çok üretilen seçenek daha geniş bir keşif demektir."** Çıktının genişliği ile dikkate almanın genişliği farklı büyüklüklerdir. Otuz yön üretip ilk ikna edici olanı benimseyen bir öğrenci tek bir yönü keşfetmiştir ve yüksek kabul oranları tam olarak bunun imzasıdır.
+
+**"Tasarım odaklı düşünme evre evre otomatikleştirilecek bir süreçtir."** Problemleri çerçeveleme ve yeniden çerçeveleme disiplinidir; sabitlenmenin kapattığı da budur. Evreleri otomatikleştirip çerçeveyi incelenmeden bırakmak, yanlış problem için yetkin çıktı üretir.
+
+**"Öğrenciyle aynı fikirde olan YZ etmenleri tasarım akıl yürütmesini destekler."** Burada belgelenen verimli kullanım ters yönde işler: [[ai-agents-constructive-conflict-design-education-2026|YZ etmenleriyle yapıcı çatışmalar]], yeniden düşünmeyi zorlayan karşıt istek metinlerini sınar. Uysal bir etmen sabitlenmeyi pekiştirir; itiraz odaklı olan, arkasında eğitsel bir iddia bulunan tasarımdır.
 
 ## Bağlı kavramlar
 

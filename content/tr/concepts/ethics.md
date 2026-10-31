@@ -8,7 +8,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-08T10:20:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,9 @@ ai_assist:
 
 Etik, eğitimde YZ’nin normatif omurgasıdır: her YZ aracı, politikası ve [[pedagogy|pedagojik]] karar, neyin adil, şeffaf, hesap verebilir ve güvenli olduğuna ilişkin varsayımları kodlar. Bilgi tabanı etiği hem bir ilke kümesi (adalet, gizlilik, şeffaflık, özerklik, hesap verebilirlik) hem de bir *uygulama* kümesi olarak ele alır — paydaşların YZ hakkında fiilen nasıl akıl yürüttüğü, kurumların onu nasıl yönettiği ve öğrenenlerin onu sorumlu biçimde kullanmaya nasıl hazırlandığı. Yakın dönem [[research-methods-aied|araştırmaları]], çift bir hareketi belgelemektedir: bir yanda, ilke temelli “kontrol listesi” etiğinin yetersiz olduğuna ilişkin derinleşen bir kaygı; diğer yanda, etik yargının [[situated-learning|yerleşik]] ve ekolojik hesaplarına ve sorumlu kullanımı mümkün kılan yapısal ve kurumsal koşullara artan bir vurgu.
 
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], İsveç anket ve odak grubu verilerinden hareketle kurumların üretken YZ sorularına kopya çekme çerçevesi yerine bir ortaklık etiği üzerinden karar vermesi gerektiğini savunmakta ve Carolyn Merchant'ın karşılıklı bağımlılık, çeşitliliğe saygı, kapsayıcılık, hesap verebilirlik ve uzun vadeli [[sustainability|sürdürülebilirlik]] taahhüdüne dayanmaktadır: katılımcıların %31'i etiği kendiliğinden gündeme getirmiş ve çoğu sahip olduğundan daha açık kurumsal yönerge istemiştir.
+
 ## Temel etik boyutlar
 
 - **Adalet ve önyargı:** [[bias-mitigation]] ve [[equity-in-ai-education]] araştırmaları, YZ sistemlerinin tüm öğrenenleri adil biçimde ele alıp almadığını incelemektedir. [[ai-scoring-language-bias-physics|Dil önyargısı]] ve [[bias-mitigation]] çalışmaları gerçek dünyadaki eşitsizlikleri belgelemekte ve [[marked-pedagogies-linguistic-bias-writing-feedback|yazma geri bildirimi araştırmaları]], [[ai-feedback-quality|YZ geri bildiriminin]] öğrenci nitelikleriyle kişiselleştirilmesinin kendisi bir önyargı vektörüne dönüşebileceğini göstermektedir.
@@ -43,9 +46,14 @@ Etik, eğitimde YZ’nin normatif omurgasıdır: her YZ aracı, politikası ve [
 - **Güvenlik ve zararı önleme:** [[pedagogical-safety]] ve [[hazra-safetutors-pedagogical-safety-2026|özel ders zararı araştırmaları]], YZ sistem geliştiricileri için etik yükümlülükleri tanımlamakta ve [[pedagogy-ai-mistakes|hataya dayalı pedagoji]], öğrenenleri YZ hatalarına maruz bırakmanın etik ve [[metacognition|üstbilişsel]] sorgulamayı nasıl etkinleştirebileceğini, atlamak yerine, göstermektedir.
 - **Sürdürülebilirlik ve çevresel etki:** YZ eğitiminde somut bir ayak izi taşır — [[llm-environmental-impact-student-usage-2026|büyük dil modellerinin]] karbon ve su maliyeti, üniversite öğrencileri arasındaki yüksek benimseme göz önünde tutulduğunda önemlidir — ve sürdürülebilir, çıkarıcı olmayan tasarıma ilişkin daha geniş bir sorumluluk söz konusudur. Bilgi tabanı bunu yalnızca teknik veya maliyet kaygısı değil, bir etik boyut olarak ele alır: [[daniel-ai-sustainability-scoping-review-2026|Daniel ve ark. (2026)]], *sürdürülebilirlik için YZ*’yi (çevresel ve sosyal sonuçları ilerletmek amacıyla YZ kullanmak) *sürdürülebilir YZ*den (YZ’nin kendi ayak izini azaltmak, enerji verimli ve [[open-source|kurum içi]] dağıtım dâhil) ayırır ve [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah]], YZ’nin yalnızca benimseme açık eğitim değerlerine tabi tutulduğunda sürdürülebilir eğitimi desteklediğini, teknolojileşme ve metalaştırmaya tabi tutulduğunda desteklemediğini savunur. [[raffaghelli-situated-ai-ethics-2026|Yerleşik etik çalışmaları]] da çevresel maliyetleri ve [[global-south|Küresel Güney]] bilgisinin marjinalleştirilmesini temel etik kaygılar olarak öne çıkarmaktadır. Bkz. [[sustainability]].
 
+- **Etik, yalnızca sınırlayıcı değil üreticidir.** [[learning-analytics-genai-learning-design|Rienties, Divjak ve Law (2026)]], etik uygunluk ve güvenilirliğin eğitim kalitesinin kurucu unsurları olduğu sonucuna varmakta; etik uygunluk yaratıcı işte teknik-sanatsal dengeyi yordadığından etik, nihai bir uyum aşaması değil bir tasarım değişkenidir.
+
 ## Paydaşlar YZ etiği hakkında fiilen nasıl akıl yürütür
 
 Etik YZ kullanımı yalnızca ilkelerin değil, ilgililerin onları nasıl yorumlayıp uyguladığının da meselesidir — ve araştırmalar gruplar arasında sistematik farklılıklar ortaya koymaktadır.
+
+
+**Etik alanın merkezindedir ancak nadiren bir çıktıdır.** 394 GenAI yükseköğretim çalışması boyunca etik ve akademik dürüstlük en az hedeflenen sonuçlar arasında yer almış ve yönetişim uygulamaları yeterince bildirilmemiştir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
 
 - **Akademisyenlere karşı öğrenciler.** 971 öğrenci ve 135 akademisyen üzerinde yürütülen [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever (2026)]] çalışması, [[mixed-methods-research|karma yöntemli]] bir çalışma olarak, her iki grubun da etik YZ kullanımını desteklediğini ancak farklı kayıtlarda olduğunu bulmuştur: akademisyenler etik ilkeleri vurgularken kurumsal yönergelerin yokluğundan yakınmışlar; öğrenciler YZ’nin öğrenme faydalarını değerli bulmuşlar ama etik sorumluluğu kimin paylaştğına ilişkin belirsizliklerini dile getirmişlerdir. Her iki grup da aşırı YZ kullanımının [[critical-thinking|bilişsel becerileri]] zayıflatabileceğinden kaygı duymuştur — bu kaygı, etik bütünleştirmeyi yalnızca araç kullanımını düzenlemek değil, öğrenenlerin bilişsel gelişimini korumak olarak çerçeveler. Akademisyenler bireysel sorumlulukta yüksek puan alırken kurumsal yönerge yeterliliğini en düşük değerlendirmişlerdir (M = 2,99); bu durum kişisel etik ile yapısal destek arasındaki boşluğu açığa çıkarmaktadır.
 - **Hazır bulunuşlukta öğrencilere karşı öğretmenler.** [[fekete-ethical-ai-literacy-gaps-2026|Fekete (2026)]], öğrencilerin öğretmenlerden daha yüksek etik farkındalık bildirdiğini (4,03’e karşı 2,44), öğretmenlerin ise daha güçlü YZ kullanım isteğine sahip olduğunu bulmuştur — öğrenciler etiği doğrudan ders çalışmaları üzerinden yorumlarken öğretmenler onu kurumsal netlik ve dürüstlük olarak ele alır. Her iki grup da kurumsal desteğin zayıf olduğunu bildirmekte ve hazır bulunuşluk farklı kanallar üzerinden gelişmektedir: öğretmenlerin ahlaki farkındalığı kurumsal ve sosyal destekle büyürken, öğrencilerin özgüveni resmî öğretimden çok [[self-efficacy]] ve işbirliğiyle ilişkilidir.
@@ -73,7 +81,9 @@ Bilgi tabanının araştırmaları, etiği giderek daha fazla yalnızca bireyler
 
 Bilgi tabanındaki önemli bir kuramsal dönüşüm, evrenselci ve ilke temelli “kontrol listesi” etiğinin yerleşik, ekolojik ve dönüştürücü hesaplar lehine eleştirisidir:
 
-- **Yerleşik YZ etiği.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli ve ark. (2026)]], Bronfenbrenner’ın ekolojik sistemler kuramını Kültürel-Tarihsel [[activity-theory-aied|Etkinlik Kuramıyla]] birleştirerek YZ’yi, etik sonuçları tarihsel olarak üretilen ve yerel düzeyde müzakere edilen tarafsız olmayan bir sosyoteknik düzlem olarak çerçevelemektedir. Yedi ulusal vaka boyunca öğretmenler, YZ kullanımının ahlaki bekçileri olarak konumlandırılırken yapısal, kurumsal ve epistemik destekten yoksun kalmaktadır — çerçeve, [[ai-education|YZ okuryazarlığını]] teknik becerilerin ötesine eleştirel, politik ve ekolojik etkinliğe, gözetim kapitalizmine ve çevresel zarara direniş dâhil olmak üzere genişletmektedir.
+- **Yerleşik YZ etiği.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli ve ark. (2026)]], Bronfenbrenner’ın ekolojik sistemler kuramını Kültürel-Tarihsel [[activity-theory-aied|Etkinlik Kuramıyla]] birleştirerek YZ’yi, etik sonuçları tarihsel olarak üretilen ve yerel düzeyde müzakere edilen tarafsız olmayan bir sosyoteknik düzlem olarak çerçevelemektedir. Yedi ulusal vaka boyunca öğretmenler, YZ kullanımının ahlaki bekçileri olarak konumlandırılırken yapısal, kurumsal ve epistemik destekten yoksun kalmaktadır — çerçeve, [[ai-literacy|YZ okuryazarlığını]] teknik becerilerin ötesine eleştirel, politik ve ekolojik etkinliğe, gözetim kapitalizmine ve çevresel zarara direniş dâhil olmak üzere genişletmektedir.
+
+- **Ortaklık etiği.** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], çevre etikçisi Carolyn Merchant'a dayanarak karşılıklı bağımlılık, çeşitliliğe saygı, kapsayıcılık, hesap verebilirlik ve uzun vadeli sürdürülebilirlik üzerine kurulu bir ortaklık etiğini diyalog temelli bir alternatif olarak önermekte ve katılımcıların %31'inin etiği kendiliğinden gündeme getirdiği İsveç anket ve odak grubu verilerini bildirmektedir.
 - **Yerleşik uygulamaya doğru kayma.** [[ai-ethics-bibliometric-2026|282 makaleye ilişkin bibliyometrik bir analiz]], 2021 sonrası YZ etiği söyleminin etiği giderek daha fazla yalnızca teknik uyumdan ziyade mesleki yargı, güven, [[human-ai-collaboration|insan-YZ işbirliği]] ve yorumlayıcı uygulama çerçevesinde ele aldığını göstermekte — eğitim kavramsal açıdan önemli bir bağlamdır.
 - **Sorumluluğun kültürel-tarihsel hesabı.** Bu yeniden çerçeveleme, etiği [[learning-theories]] ve [[teacher-ai-competency]] bağlar: sorumlu YZ kullanımı, kontrol listelerine bireysel uyumdan ziyade bağlama duyarlı, kolektif ve dönüştürücü etkinlik olarak ele alınır. 454 üniversite öğretmeni üzerinde yapılan bir anket bu çerçeveyi desteklemektedir: YZ-etik bilgi, teknik YZ bilgisinden bütünleşik öğretim yetkinliğine giden yolu aracılık etmiş (β = 0,186) ve onu pedagojik ve içerik bilgisi yoluyla ileriye taşımıştır ([[ethically-mediated-ai-tpack-china-2026|Chen ve ark. (2026)]]).
 - **Etik yükümlülüğün ontolojik olarak yeniden çerçevelenmesi.** Xie (2026), yerleşik etik eleştirisini ontolojinin içine taşıyarak ileri götürür: birçok çalışmanın eşitliği, güç asimetrilerini ve çevresel maliyetleri yönetilmesi gereken dışsallıklar olarak ele aldığı yerde, Daoist ilişkisel benlik bunları kim olduğumuzun içsel parçası yapar; böylece “geride kalmak” yalnızca adil değil, ontolojik olarak savunulamaz hâle gelir. Etik görev bu durumda bağımsız bir optimizasyon değil, doğallıkla uyumlu zorlamayan eylem olan Wuwei (无为)’dir; algoritmik tekçilik, bilişsel yük indirme ve çıkarıcı altyapının Youwei’siyle (有为) karşı karşıya gelir ve üç alanda uygulanır: bilgi (epistemik tekçilik ve sentetik yanlış bilgi), bilme ([[critical-thinking|eleştirel düşünceyi]] bozan yük indirme) ve etki (çevresel maliyetler ve Küresel Kuzey–Güney asimetrileri). ([[daoism-ai-education-philosophy-2026]])
@@ -86,9 +96,18 @@ Bu pratik sav, etiğin YZ okuryazarlığının kendisi içinde nasıl işlediği
 
 **Bu mekanizmanın işareti, ardından gelen şeye bağlıdır.** YZ yetkinliğini kendi kendine çalışmadan edinen 584 üniversite öğrencisi arasında yetkinlik YZ etik farkındalığını yükseltmiştir (β = 0,644, p < ,001). Etik farkındalık ise bunu düşürmek yerine YZ kaygısını yükseltmiştir (β = 0,439, p < ,001) — yalnızca dolaylı aracılık; yazarlar bunu baş etme çerçevesi öğretilmeden uyanan bir farkındalık olarak okumaktadır ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu ve ark. (2026)]]). Etik öğretimi için çıkardıkları sonuç, bunun bilişsel düzeyde durmaması gerektiğidir. Bir şeffaflık veya gizlilik kaygısı, ona yanıt veren yönetişim yoluyla birlikte gelmelidir; bu nedenle önerdikleri modül hukuk eğitimi içinde yer almaktadır.
 
+
+Etik farkındalık, yansıtıcı akıl yürütme ve [[self-report-measures|öz bildirime dayalı]] sorumlu uygulama büyük ölçüde bağımsız gelişmektedir. 350 Nijeryalı bilişim [[higher-ed|lisans öğrencisinin]] üç yıllık dalgası boyunca [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale ve ark. (2026)]], üçünün de önemli ölçüde yükseldiğini, ancak büyüme faktörlerinin neredeyse ilişkisiz olduğunu ve başlangıçtaki farkındalığın sonraki büyümeyi yordamadığını bulmuştur.
+
 ## Bağlantılar
 
 Etik [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]] ve [[governance]] ile bağlantılıdır. Etik, diğer tüm YZ eğitimi kavramları için normatif temeldir — adalet, şeffaflık, özerklik ve güvenlik sorularının gündeme gelip çözüldüğü çerçevedir.
+
+## Yaygın yanlış anlamalar
+
+- **“Kopya çekme çerçevesi, GenAI etiğini düşünmek için yeterli bir yoldur.”** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark., 2026]] kurumların üretken YZ sorularına **kopya çekme çerçevesi yerine bir ortaklık etiği** üzerinden karar vermesi gerektiğini savunmaktadır. Çerçeve, hangi soruların sorulacağını belirler ve bir suistimal çerçevesi eğitim amacını soramaz.
+- **“Akademisyenler ve öğrenciler neyin etik olduğu konusunda hemfikirdir.”** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç ve Sever (2026)]], **971 öğrenci ve 135 akademisyen** üzerinde yürütülen [[mixed-methods-research|karma yöntemli]] bir çalışmada etik boyutların gruplar arasında farklılaştığını bulmaktadır. Tek bir bakış açısından yazılan bir politika, diğerini yanlış betimleyecektir.
+- **“Etik uzlaşma kullanımdan önce gelir.”** **Kullanım, etik uzlaşmadan daha hızlı yükselir**: bir ABD öğretmen yetiştirme programında dört dönem boyunca öğrencilerin GenAI kullanımı **değerlendirmeye hazırlık için %57'den %83'e yükselmiştir**. Normlar, tersi değil, pratik tarafından oluşturulmaktadır.
 
 ## Bağlı Kavramlar
 
@@ -110,7 +129,9 @@ Etik [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]
 
 ## Bağlı Makaleler
 
-- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Etik farkındalığın baş etme çerçevesi öğretilmediği yerde YZ kaygısını yükseltmesi: 584 öğrenci arasında yalnızca dolaylı aracılık
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Kurumsal genAI kararlarına kopya çekme çerçevesi yerine ortaklık etiğinin yön vermesi gerektiğini savunan İsveç anket ve odak grubu çalışması
+- [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Etik farkındalığın, baş etme çerçevesi öğretilmediği yerde YZ kaygısını yükseltmesi: 584 öğrenci arasında yalnızca dolaylı aracılık
+- [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Etik farkındalık, yansıtma ve bildirilen sorumlu uygulama üç yıllık dalgada büyük ölçüde bağımsız gelişti (Ayanwale ve ark.)
 - [[learning-analytics-to-educational-interventions-2026]] — Öğrenme analitiğinden eğitim müdahalelerine: güvenilir LA temelli müdahalelerin etkinleştiricileri (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Öğrenciler çevrim içi değerlendirmelerde YZ’yi nasıl kullanır ve gizler
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Öğrenci YZ açıklaması, damgalanma ve öz-düzenlemeli öğrenme

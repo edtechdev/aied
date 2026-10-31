@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Bilgi tabanının araştırması, birbiriyle bağlantılı birkaç boyutta birle
 - **Etik ve eleştirel kullanım:** YZ çıktılarında [[bias-mitigation|önyargı]] tanımak, öğrenci verisini korumak ([[privacy]]) ve eşit sonuçları güvence altına almak ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Kültürel olarak ilgili YZ kullanımı]], öğretmenlerin baskın normları güçlendirmek yerine materyalleri çeşitlendirmek için LLM'leri nasıl kullanabileceğini inceler.
 - **Etik sorumluluk dağıtılmıştır, bireysel değildir.** Yedi ulusal vakada öğretmenler, kurumsal ve epistemik destekten yoksun YZ kullanımının ahlaki kapı bekçileri olarak konumlandırılır; bu nedenle etik YZ okuryazarlığı, teknik beceriden çok eleştirel ve politik failliğe uzanmalıdır ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli ve ark. (2026)]]).
 - **Güven ve tutumlar:** öğretmen [[self-efficacy|güveni]] benimsemeyi şekillendirir. [[teacher-ai-adoption-confidence|Benimseme araştırması]], güvenin, desteğin ve algılanan yararlılığın öğretmenlerin YZ'yi gerçekten kullanıp kullanmamasını yönlendirdiğini, [[ai-pedagogical-orientation|öğretim üyesi yönelimlerinin]] ise araştırma ve öğretimdeki benimsemeyi şekillendirdiğini bulur.
+
+- **Görsel temsil, kendi başına ölçülebilir bir boyuttur.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen ve ark. (2026)]], beş batı Çin eyaletinde 566 öğretmenle görsel temsilleri üretme, yargılama ve bunlara göre eylemde bulunma üzerine beş boyutlu bir ölçek doğrulamış, alt ölçek alfa değerleri 0,911 ile 0,934 arasında çıkmıştır; ölçek bildirilen kapasiteyi ölçer, yeniden test ve uygulama gözlemi içermez.
 
 - Beş ülkedeki 1.405 K-12 öğretmeninin anketinde, YZ hazırbulunuşu, üretici YZ'nin öğretimsel değerine ilişkin olumlu inançları öngördü (B = .59, R² = .50) ama *daha fazla* [[creativity]] kaygısını öngördü (B = .18) ve aynı öngörücüler kaygının yalnızca %7'sini ve %6'sını açıkladı — yalnızca hazırbulunuş inşası kaygıyı dokunulmaz bırakır ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu ve ark. (2026)]]).
 
@@ -166,6 +168,8 @@ Araç manzarasının kendisi bu arada incelendi. [[assessing-teachers-ai-literac
 - [[pedagogy]] — Çatı: YZ eğitiminde pedagojiler ve öğretim stratejileri
 
 ## Bağlı makaleler
+
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — YZ destekli öğretmen görselleştirme öğretim yetkinliği ölçeğinin geliştirilmesi ve doğrulanması
 
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Hangi öğretmenler planlama zamanı kazandı: konu bilgisi güveni düşük, pedagojik bilgisi düşük, mesleğe yeni ya da teknoloji güveni yüksek olanlar
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Öğretmenler YZ’yi kabul ederken nasıl çalıştığını yanlış anlıyor (Aji ve ark. 2026)

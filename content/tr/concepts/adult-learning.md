@@ -10,7 +10,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -60,7 +60,15 @@ Yetişkin öğrenme, bu bilgi tabanındaki birkaç yakından bağlantılı kavra
 - **Teknik ve yapısal güvenilirliği ön koşul olarak görün.** Katılım, pedagojik kalite kadar istikrarlı ve kapsayıcı altyapıya da bağlıdır — istikrarsız veya dışlayıcı platformlar aksi halde sağlam olan tasarımı baltalar.
 
 - **Andragoji için YZ tasarım ilkeleri.** [[kim-ai-andragogy-2026|Kim ve ark. (2026)]], yetişkin öğrenenlerin YZ'yı işbirlikçi bir öğrenme aracısı olarak değerlendirdiğini ve andragoji için üç YZ tasarım ilkesi türettiğini bulur: döngüde insan (paylaşılan zihin modelleri, insan-YZ ortak yaratımı), duygusal tasarım (YZ güvenini kalibre etmek, empatik iletişim) ve uyarlanabilirlik (sürekli uyarlama, birlikte çalışabilirlik). On bir senaryo prototipi, her andragojik ilkeyi somut bir YZ olanağıyla da eşler: katılım için [[intelligent-tutoring|YZ öğretmenleri]] ve [[learning-by-teaching|öğretilebilir aracılar]], özerklik ve öz değerlendirme için izleme ve [[learning-analytics|analitik araçlar]], deneyim için empatik [[conversational-ai|sohbot robotları]] ve [[simulation|simülasyonlar]], problem merkezli çalışma için vaka kütüphaneleri ve üst düzey soru üreticiler, alaka düzeyi için YZ planlayıcılar ve kariyer koçları.
+
+- **Varsayılan bir derinlik için değil, bir katılım yelpazesi için tasarlayın.** Çalışan yetişkinler sınırlı bilişsel kaynaklarını işler, aileler ve dersler arasında paylaştırdığından, altı dönemlik bir çerçeve Sokratik YZ diyaloğunu zorunlu kılmak yerine hızlı yola kıyasla daha ödüllendirici hâle getirmiştir ([[packard-thinking-partner-framework-adult-learners-2026|Packard ve ark. (2026)]]).
 - **Verimli mücadeleyi koruyun.** Aynı grubun verimli başarısızlık çalışması, YZ desteğini iki PF evresine eşler ve tasarımın mücadeleyi çözmemesi gerektiği sonucuna varır: konuşmaya dayalı aracılar, üretim ve keşif sırasında yönlendirici olmayan düşünme ortakları olarak hareket eder, sonra pekiştirme sırasında karşılaştırmayı, yeniden düzenlemeyi ve aktarmayı destekler ([[kim-ai-productive-failure-adult-2026|Kim ve ark. (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Tek bir iyi araç yetişkin öğrenenlere hizmet eder.”** Araştırma, **hiçbir tek yetişkin öğrenme YZ sisteminin tüm tasarım yönergelerini karşılamadığını** bulmuştur; gereken şey ekosistemin bütünüdür. Yetişkinler yükümlülüklerle, kesintili programlarla ve heterojen hedeflerle gelir; bu nedenle tek bir ürün tasarım uzayını kapsayamaz.
+- **“Yetişkin düzeyinde dijital okuryazarlık varsayılabilir.”** [[community-centered-ai-education-adults|Bir Orta Batı vaka çalışması]], **yeterince hizmet almamış bir topluluktaki 54 yetişkin** için bir YZ okuryazarlığı programını birlikte tasarlamış ve eşitlik odaklı yetişkin YZ eğitiminin önce **temel dijital okuryazarlığı ve veri güvenini** ele alması gerektiğini bulmuştur. Yaş, dijital akıcılığın vekili değildir.
+- **“Benimseme bir motivasyon sorunudur.”** Veri gizliliği çevresinde [[ai-literacy]] ve [[trust]] oluşturmak, benimsemeyi beklemekten önce gelmelidir. İsteklilik, teknolojiye duyulan coşkudan değil, kişinin verisine ne olduğuna dair güvenden doğar.
 
 ## Bağlı kavramlar
 
@@ -102,3 +110,5 @@ Yetişkin öğrenme, bu bilgi tabanındaki birkaç yakından bağlantılı kavra
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Bir katılım yelpazesi için tasarım: derin Sokratik diyaloğu daha ödüllendirici yola dönüştürmek

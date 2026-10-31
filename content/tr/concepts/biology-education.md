@@ -8,7 +8,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ YZ konusundaki biyoloji eğitimi araştırması bir gerginlik çevresinde kümel
 
 **Notun ne kadarı aslında maruz kalıyor.** Bir bölümün 38 temel ders müfredatında her puanlanan kategorinin, öğretmen değerlendirmesine göre savunmasızlığa göre ağırlıklandırılması, kurs puanlarının yüzde 33’ünün yüksek maruziyette, yüzde 81’inin en azından bir ölçüde maruz kaldığını — çevrim içi olanlarda yüzde 41 ve yüzde 100 — ve yalnızca yüz yüze gözetimli sınavların asgari düzeyde savunmasız bulunduğunu ortaya koydu ([[biology-degree-integrity-genai-cheating-2026|Chan vd., 2026]]).
 
+- **LLM’ler işaretlemediklerinden daha iyi yanıtlar.** Bloom düzeylerini kapsayan 336 açık uçlu biyolojik istatistik sorusuna verilen 1.344 yanıt genelinde [[llm-open-ended-questions-biology-statistics-2026|Nguyen ve ark. (2026)]], üç modelin 20 öğrencilik bir karşılaştırma grubunun üzerinde puan aldığını, ancak tek bir LLM işaretleyicisinin deneyimli bir öğretim elemanıyla o kadar zayıf uyuştuğunu bulmuştur ki hiçbir öğrenci makul bir uyuma ulaşamamıştır.
+
 ### İlgili kavramlarla bağlantılar
 
 Biyoloji eğitimi daha geniş [[stem-education]] alanı içinde yer alır ve [[chemistry-education]] ile [[physics-education]]’in laboratuvar uygulaması ve özel terminoloji kaygılarını paylaşır. Ayırt edici bağlantılar: YZ çağı kuşkuculuk ve gözetim vurgusuyla [[critical-thinking]]’e; YZ kavramlarının biyoloji derslerine gömülmesiyle [[ai-literacy]]’e; sanal laboratuvar asistanları ve meydan okunmaya dayalı öğrenmeyle [[human-ai-collaboration]]’a; üretici [[ai-misuse-learning-harm|YZ kötüye kullanımı]] ve politika yoluyla [[academic-integrity]] ve [[ethics]]’e; ve YZ aracılı değerlendirme yoluyla [[assessment]]’a. [[higher-ed]] ve [[k-12]] kavramları, biyoloji YZ araştırmasının gerçekleştiği düzeyleri yakalar; [[intelligent-tutoring]] ve [[simulation]] ise YZ destekli laboratuvar ve öğretim desteğine bağlanır.
@@ -59,6 +61,12 @@ Biyoloji eğitimi daha geniş [[stem-education]] alanı içinde yer alır ve [[c
 - **YZ çağında eleştirel düşünceyi bilinçli olarak yetiştirin.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]], kuşkuculuk, bağlamsal anlayış ve etik muhakemenin açıkça öğretilmesi ve YZ çıktılarını doğrulamak ile önyargıyı önlemek için insan gözetimi gerektiğini savunur.
 - **Meydan okunmaya dayalı öğrenmeyle birlikte sorumlu kullanımı öğretin.** [[chatgpt-math-biology-challenge-based-learning-2025|MBÖ çalışmaları]], öğrencilerin aciliyeti değerli bulduğunu ama doğruluk ve beceri aşınmasını kaygılandığını bulur — akademik dürüstlük kurallarını ve YZ kullanım etiğini benimsemeyle paralel olarak güncelleyin.
 - **Özel araç manzarasını tarayın.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]], öğretmenlerin saha çalışması, tür tanıma ve öğrenci desteği için konuşlandırabileceği araçları (iNaturalist, Google Lens, biyogörüntüleme, risk öngörüsü) haritalar — uydukları yerlerde genel sohbet robotları yerine amaca özel araçları seçin.
+
+## Yaygın yanlış anlamalar
+
+- **“Öğrenciler YZ’yi insan bir öğretim asistanından ayırt edemez.”** Bir sanal laboratuvar öğretim asistanı çalışması, **insan asistanların ChatGPT’den daha doğru ve daha etkili olduğunu** bulmuş, yine de öğrenciler **YZ yanıtını %40 oranında tercih etmiş** ve **YZ çıktısını yalnızca %45 oranında saptayabilmiştir**. Saptama yazı tura atmaya yakındı ve tercih daha az doğru kaynağa yöneliyordu; dolayısıyla doyum verisi burada kalitenin yerini tutamaz.
+- **“Tercih kaliteyi gösterir.”** Aynı çalışma ikisini doğrudan ayırır: tercih edilen çıktı daha kötü olandı. Bir biyoloji YZ aracını, doğruluk ölçütü olmadan öğrenci doyumu bildirerek değerlendirmek yanlış büyüklüğü raporlamaktır.
+- **“YZ okuryazarlığı ayrı bir ders olarak öğretilmelidir.”** Makine öğrenmesi kavramlarını **bir lise biyoloji dersine gömmek**, biyoloji bağlamının YZ öğrenmesini **desteklediğini** bulmuştur; bu, YZ okuryazarlığını ayrı bir ünite olarak eklemek yerine müfredata gömmek lehine kanıttır. Disiplin, kavramların tutunacağı bir şey vermiştir.
 
 ## Bağlı kavramlar
 
@@ -90,4 +98,5 @@ Biyoloji eğitimi daha geniş [[stem-education]] alanı içinde yer alır ve [[c
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+- [[llm-open-ended-questions-biology-statistics-2026]] — Evaluating Large Language Model Performance on Open-Ended Questions: Answering and Marking Capabilities
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence

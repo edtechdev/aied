@@ -9,7 +9,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,12 +36,17 @@ ai_assist:
 ### STEM’in birincil AIED alanı olması
 
 - **Matematik:** [[math-education|Matematik eğitimi]] araştırmaları [[generative-ai-reduced-study-time-math|GenAI’nin matematik öğrenimine etkisi]], [[ai-powered-personalized-learning-elementary-fractions-2026|ilkokul kesir özel ders çalışmaları]] ve [[student-math-competence-clustering|yetkinlik kümelemesi]] alanlarını kapsar.
+
+- **Matematik ITS kanıtı sınırlı ve koşulludur.** 20 yayının (2020-Nisan 2026) yapılandırılmış anlatısal incelemesi, en net ölçülen avantajı aynı uyarlanabilir sistemin üzerine katmanlanan gerçek zamanlı tanılamalı [[feedback|geri bildirimde]] bulmuş, ancak zeki öğretimin matematik öğrenmesini yalnızca geçerli [[student-modeling|öğrenen modellemesi]], kalibre edilmiş iskeleleme ve öğretmen aracılığı bir araya geldiğinde desteklediği ve ölçeklenebilirliğin eğitimsel değil teknik olduğu sonucuna varmıştır ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin ve ark. (2026)]]).
 - **Fizik:** [[physics-education|Fizik eğitimi]] [[becker-chatgpt-typology-physics-2026|ChatGPT tipoloji çalışmalarını]], [[hashmi-socratic-physics-chatbot-2025|Sokratik fizik sohbet robotlarını]] ve [[ai-scoring-language-bias-physics|puanlama önyargısı analizini]] içerir.
 - **Bilgisayar bilimi:** [[cs-education|BB eğitimi]], en çok araştırılan STEM alt alanıdır — [[code-review-genai-cs1|kod incelemesi]], [[debugtracker-classroom-debugging|hata ayıklama araçları]] ve [[prompt-problems-nl-programming-mistakes|istek metni çalışmaları]].
 - **Mühendislik:** [[concept-catalyst-engineering-scaffolds|Mühendislik iskeleleri]], [[structured-ai-demonstrations-engineering-mechanics|mekanik gösterimleri]] ve [[ai-engineering-education-balancing-act|müfredat dengelemesi]], YZ’yi [[engineering-education|mühendislik eğitimine]] taşır.
 - **Lisans araştırma çalışmalarında iskeleleme:** [[ai-information-extraction-undergraduate-thesis-2026|An ve arkadaşları (2026)]]; dört STEM fakültesinde lisans tezi tamamlanması amacıyla araştırma yayınlarını yapılandırılmış, karşılaştırılabilir veri kümelerine dönüştüren bir YZ sistemi önermektedir. Sonuçlar (20 öğrenci, 80 belge) deneysel parametrelerin \%90’dan fazlasının çıkarıldığını, literatür taraması süresinde yaklaşık \%65 azalma ve öğrencilin etkili deneysel değişkenleri belirleme yeteneğinde \%50 artış olduğunu göstermiştir — bu, [[generative-ai|YZ]] ile iskelelenmiş [[higher-ed|lisans araştırması]] çalışmalarının STEM eğitiminde araştırma okuryazarlığını ve epistemik bilişi nasıl güçlendirebileceğine dair bir kanıttır.
 - **Simülasyon destekli öğretim:** İHA tabanlı STEM eğitiminde, [[teacher-role|öğretmen]]–YZ birlikte tasarlanmış [[simulation]] iskeleleri, simülasyon destekli öğretimin üstün [[learning-gains|öğrenme çıktıları]] sağlayıp sağlamadığı sınanmak üzere 30 ortaokul öğrencisiyle birebir aynı uygulamalı [[curriculum-design|müfredata]] karşı değerlendirilmiştir. GenAI’nin rolü içerik üretimini hızlandırırken öğretmen katılımı pedagojik geçerliliği ve bağlamsal ilişkililiği korumuştur.
 - **STEAM sanat eğitiminde YZ destekli planlama:** Çocukların STEAM sanat derslerini veren öğretmenler üzerine yürütülen deneysel bir çalışmada ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo ve Tahir 2025]]) ChatGPT destekli ders planlarının, uzman değerlendirmesinde öğretmen tarafından üretilen planlardan daha yüksek performans gösterdiği (ortanca 20,5’e karşılık 17,6, p = .002, büyük etki, altı profesör değerlendirici) ve öğretmenlerin verimlilik ile disiplinler arası bütünleşmede kazanım bildirdiği (\%61’i 4 ve üzeri puan vermiştir) görülmüştür. Sonuç, öğretmenin devretme yöntemi aracılığıyla ortaya çıkmıştır — en yararlı biçimde, kendi çizdiği çerçevedeki bir derse ChatGPT’nin içerik boşluklarını doldurmasıyla; bu durum, YZ’nin öğretmen görevi yapılandırdığında ve çıktıyı eleştirel biçimde değerlendirdiğinde STEM/STEAM çalışmalarını yükselttiği yineleyen savı pekiştirmektedir, tüm planı modele devretmesi durumunda değil.
+
+- **Sonuçlar iskelenmiş grubun lehineydi.** Simülasyon grubu, müfredata uygun STEM bilgisinde uygulamalı grubu geçmiş (M = 3,00’a karşı 2,06; t(28) = 2,23, p = ,034, d = 0,82) ve 21. yüzyıl yetkinliklerinde de önde kalmıştır (d = 1,52) ([[simulation-assisted-drone-learning-stem-2026|Yeung ve ark. (2026)]]).
+- **STEM’de dijital ikizler: prototipler ölçülen öğrenmenin önüne geçiyor.** 11 yükseköğretim çalışmasının PRISMA incelemesi, her birinin çalışan ve donanımla eşzamanlanmış bir prototip sergilediğini, ancak yalnızca üçünün (%27,3) istatistiksel olarak anlamlı öğrenme kazanımı bildirdiğini, yinelenen engellerin ise geliştirme karmaşıklığı ve azalan sosyal etkileşim olduğunu bulmuştur ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González ve ark., 2026]]).
 
 ### STEM’de YZ destekli öğretimin etkililiği, birleştirilmiş olarak
 
@@ -64,12 +69,20 @@ STEM’in yapılandırılmış bilgi temsili, doğrulanabilir cevapları ve hesa
 - **Öğretmen kabulü heterojendir ve disipline göre şekillenir.** 128 öğretmen adayı üzerine yürütülen gizil profil analizinde ([[chen-preservice-teachers-chatgpt-lpa-2026]]) dört ChatGPT kabul profili belirlenmiştir (Pragmatic Evaluators, Technology Pioneers, Resistant Skeptics, Environmental Observers); STEM öğretmenleri Technology Pioneers profilinde, STEM dışı öğretmenler dirençli profillerde yoğunlaşır — ve Resistant Skeptics, yüksek kullanım kolaylığı ancak düşük niyet göstermekte olup farklılaştırılmış [[ai-literacy]] eğitimi gerektirmektedir.
 - **YZ bütünleşik STEM’de değerlendirme ve bilişsel süreçler.** [[zhang-ct-ai-training-test-2026|CTAT]] (34 maddeli, IRT doğrulamalı), YZ eğitimi bağlamlarında [[computational-thinking]] değerlendirmek için geçerli bir araç sunmakta olup öğrencilerin en çok zorlandığı alanların veri temsili, mantıksal işleç sıralaması ve döngü yapıları olduğunu ortaya koymaktadır. YZ destekli programlama üzerine yürütülen temel kuram çalışması ([[liu-tool-tutor-crutch-programming-2026]]) öğrenenlerin [[scaffolding]] ve yük boşaltma döngüleri aracılığıyla "Domain Mastery" ile "Tool Mastery" arasında gidip geldiğini, rutin yük boşaltma altında [[metacognition|üstbilişsel]] kalibrasyonun zayıfladığını göstermekte — bu, performans–öğrenme gerginliğinin süreç düzeyinde bir açıklamasıdır.
 
+- **Öğrencilere modeli yalnızca kullanmayı değil, onu sorgulamayı öğretmek.** [[prompt-engineering|İstem yazma]] ve hata denetimi üzerine tek bir 45 dakikalık oturum, lisans fizik son test puanlarını yükseltmiş (*d* = 0,814) ve önceki YZ deneyiminin avantajını eşitlemiştir ([[structured-genai-training-physics-problem-solving-rct-2026|Huang ve ark., 2026]]).
+
 ## STEM öğretmenleri için çıkarımlar
 
 - **Disipline uygun YZ seçin.** STEM matematiği (özel ders), fiziği ([[socratic-method|Sokratik diyalog]], [[simulation]]), bilişim bilimini (kod üretimi, inceleme) ve mühendisliği (tasarım, iş gücü) kapsar — tek bir genel sohbet robotunun her alt alana uyduğunu varsaymak yerine her alt alanın ayırt edici [[pedagogy]] özelliğine uygun araçlar seçin.
 - **YZ’nin yapılandırılmış uyum avantajını kullanın, ama akıl yürütmeyi koruyun.** STEM’in doğrulanabilir cevapları onu YZ açısından en ele alınabilir alan yapar; aşırı bağımlılığa ve cevabı değiştirmeye karşı YZ’yi yapılandırılmış, ustalık odaklı iş akışlarında yerleştirerek koruma sağlayın.
 - **STEM kurslarında YZ okuryazarlığını yerleştirin.** Çalışmalar ([[zha-ai-literacy-biology-case-study|biyoloji]], [[ai-tpack-preservice-math-teachers|matematik öğretmen hazırlığı]]) STEM bağlamının YZ öğrenimini desteklediğini göstermektedir — YZ kavramlarını yalıtmak yerine doğal olarak ortaya çıktıkları yerde bütünleştirin.
 - **YZ benimsemesinde [[equity-in-ai-education|eşitliğe]] ve erişime dikkat edin.** STEM YZ araçları tarafsız değildir; bunları yaygınlaştırırken puanlama önyargısını, [[digital-divide]] erişimini ve [[culturally-relevant-pedagogy|kültürel olarak ilgili]] tasarımı izleyin.
+
+## Yaygın yanlış anlamalar
+
+- **“Zeki öğretim STEM genelinde tekdüze işler.”** **20 yayının (2020-Nisan 2026)** yapılandırılmış bir anlatısal incelemesi, en net ölçülen avantajı özellikle **gerçek zamanlı tanılama** yapan öğretimde bulmuştur. Kanıt **sınırlı ve koşulludur**; bunu tüm matematik ITS’lerine genellemek, incelenenin ötesine geçer.
+- **“Simülasyon, uygulamalı çalışmanın soluk bir yedeğidir.”** Simülasyon grubu **müfredata uygun STEM bilgisinde uygulamalı gruptan daha fazla kazanmıştır (M = 3,00’a karşı 2,06; t(28) = 2,23, p = ,034, d = 0,82)**. Simülasyon, gerçek şeyin altında performans gösteren bir yedek değildi.
+- **“YZ destekli bir literatür iş akışı esas olarak zaman kazandırır.”** **80 belge üzerinde 20 öğrenciden** alınan sonuçlar **deneysel parametrelerin %90’ından fazlasının çıkarılmasını, literatür tarama süresinde kabaca %65 azalmayı ve öğrencilerin etkili çalışmaları belirleme becerisinde %50 artışı** göstermiştir. Yetenek kazancı daha büyük sonuçtu, zaman tasarrufu daha küçüğü.
 
 ## Bağlı kavramlar
 
@@ -102,16 +115,16 @@ STEM’in yapılandırılmış bilgi temsili, doğrulanabilir cevapları ve hesa
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Öğretmen adaylarının ChatGPT kabul profilleri
 - [[zhang-ct-ai-training-test-2026]] — YZ Eğitim Testinde Hesaplamalı Düşünme (CTAT)
 - [[liu-tool-tutor-crutch-programming-2026]] — Araç, özel ders hocası mı dayaak mı: YZ destekli programlamanın temel kuramı
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — YZ çağında akıllı üretim için İş Gücü Hazırbulunuş Düzeyi çerçevesi
 - [[becker-chatgpt-typology-physics-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Fen/kimya eğitiminde YZ üzerine sistematik inceleme
-- [[astor-computational-thinking-meta-review-2026]] — STEM kapsamında 21. yüzyıl becerisi olarak hesaplamalı düşünme
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Lisans tezi ve araştırma temelli öğrenmeyi destekleyen YZ destekli bilgi çıkarımı (An ve ark. 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Öğretmen–YZ birlikte tasarlanmış iskelelerle simülasyon destekli İHA öğrenimi
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — 35 çalışma kapsamında YZ destekli STEM öğretiminin birleştirilmiş etkisi; en büyük kazanımlar lisede (Doğan ve ark. 2026)
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM eğitiminde YZ okuryazarlığına ilişkin en çok atıflanan on çalışmanın sentezi (Hallström ve ark. 2026)
+- [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM’de dijital ikizler: incelenen her çalışma çalışan bir prototip sunmuş, çok azı öğrenmeyi ölçmüştür
+- [[structured-genai-training-physics-problem-solving-rct-2026]] — 45 dakikalık bir istem yazma ve hata denetimi oturumu fizik son test puanlarını yükseltti (*d* = 0,814)
+- [[intelligent-tutoring-mathematics-education-review-2026]] — Matematik ITS kanıtı sınırlı ve koşulludur

@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,16 @@ Kapsayıcı öğrenme, [[equity-in-ai-education]] ile derinden bağlantılıdır
 - **Güvenlik/erişilebilirlik ödünleşimini açıkça ele alın.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]], hile önleme önlemlerinin görsel işleme ihtiyaçları olan öğrenenleri nasıl istemeden dışlayabileceğini modeller — dürüstlüğü erişime karşı tartın.
 - **Erişim, yalnızca biçimde değil ifade tarzında da dönebilir.** Temel görev sabit tutulduğunda, model isabeti düşük okuryazarlıklı ifade biçimi için %82,4’ten uzman ifade biçimi için %83,4’e yükselmiştir; böylece öğrencilerden daha iyi istek metni yazmalarını istemek yeni bir dışlanma ekler; istekleri normalize eden, içeriği değiştirmeden anlamlı farkı ortadan kaldıran bir sistem-tarafı yeniden yazıcı ([[prompt-privilege-equitable-ai-access-2026|Jin ve ark. (2026)]]).
 - **YZ’nin dışlamayı yeniden üretmesine karşı korunun.** [[genai-minoritized-knowledges-disability|Engellilik merkezli eleştiri]], Anglofon ve Batı-merkezli eğitim verilerinin engelli bilme biçimlerini marjinalleştirdiği konusunda uyarır — YZ araçlarını [[equity-in-ai-education]] ile birlikte epistemik adalet açısından denetleyin.
+
+## Yaygın yanlış anlamalar
+
+**“Erişilebilir bir araç, kapsayıcı bir derstir.”** Erişilebilirlik tek bir soruyu yanıtlar: herkes biçimi algılayıp işletebiliyor mu? Bu gereklidir ve yeterli olmaktan çok uzaktır. Kapsayıcı öğrenme ayrıca hangi araçların bireyin [[digital-divide|erişim uçurumunu]] kapattığını ve tasarımın çeşitliliği sonradan yamalamak yerine öngörmesi gerektiğini sorar. Değerlendirme yapısı sessiz bir oda, güvenilir geniş bant ve kesintisiz zaman varsayan bir derste ekran okuyucu uyumlu bir arayüz, görüntüleme problemini çözmüş ve katılım problemini olduğu gibi bırakmıştır.
+
+**“Yardımcı teknoloji sağlamak, faillik sağlamaktır.”** İkisi ayrıdır ve sayfanın kendi çerçevesi bunu söyler: yardımcı teknoloji anlamlı failliği garanti etmez. Öğrenenin gerekli görevi tamamlamasını sağlayan bir araç onu aynı görevin en dar sürümüne yönlendirebilir ve iskele ile tavan arasındaki fark benimseme ölçütünde görünmez.
+
+**“Zorlanan öğrenciler yalnızca daha iyi istem yazmayı öğrenmelidir.”** Bu, bir sistem kusurunu bir öğrenen eksikliğine dönüştürür. Alttaki görev sabit tutulduğunda model doğruluğu yalnızca **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir, bir puanlık bir fark; daha iyi istem yazmayı talep etmek ise var olan dışlamanın üzerine yeni bir dışlama ekler. Kaldıraç, düzeltici istem eğitiminde değil, dil çeşitliliğinin sistem tarafında ele alınmasındadır.
+
+**“İyi kaynaklı sınıflar için kurulmuş bir araç, çevrildiğinde düşük kaynaklı bağlamlara hizmet eder.”** Bağlam tasarım kısıtını değiştirir. [[suacode-african-students-motivations|SuaCode]], masaüstü laboratuvar makineleri yerine akıllı telefonlar için tasarlayarak **%1’den azının kodlama becerisi olduğu** düşük kaynaklı Afrika bağlamlarındaki öğrencilere ulaşmıştır; bu aynı tasarımın daha küçük bir sürümü değil, farklı bir tasarımdır.
 
 ## Bağlı kavramlar
 

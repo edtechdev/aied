@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -54,15 +54,24 @@ Uygulayıcı ve çerçeve anlatıları yapıtları tamamlar. [[problem-based-lea
 
 Somut araçlar da ortaya çıkmaktadır: [[stepwise-teacher-diagnosis-math-2026|Kim ve ark. (2026)]], problem çözmeyi dört aşama ve on iki tanı alt becerisi olarak işlevselleştirerek bir LLM’nin aşamaya özgü sorular ve rubrikler üretebilmesini sağlar; beş öğretmen ve 64 öğrenci sistemi 90 problem ve 720 alt soru üzerinde kullanmış ve ortalama Sistem Kullanılabilirlik Ölçeği puanı 83,5 olmuştur.
 
+
+Zorunlu dokümantasyonun kurs ölçeğinde uygulanabilir olduğu kanıtlanmıştır: yaklaşık 440 K-12 öğretmenine hizmet eden, altı haftalık eşzamansız lisansüstü araştırma yöntemleri derslerinin altı dönemi boyunca kontrol noktası teslimleri ortalama %96 tamamlanma oranına ulaşmış ve açık istem şablonları ekleyen sonraki yinelemeler daha uzun ve görünür biçimde daha özlü yansımalar üretmiştir ([[packard-thinking-partner-framework-adult-learners-2026|Packard ve ark. (2026)]]).
+
 ## Özgünlükten ve puanlamadan farklı bir eksen
 
 Eksenleri ayrı tutmak önemlidir; çünkü onları birbirine karıştırmak, bir yeniden tasarımın tamamlanmış görünmesini sağlarken açıklık yerinde durur. Sharma (2026), özgünlük ile bütünlük odaklı tasarım arasında tamamlayıcı bir ayrım yapar: özgünlük bir görevin değerli uygulamayı yansıtıp yansıtmadığını sorarken, bütünlük odaklı tasarım öğrenenlerin kararlarını gerekçelendirebilip disiplin standartlarına ilişkin sorumluluk alıp alamayacağını sorar; bu nedenle sunduğu uygulamalar — yorumlanmış karar izleri, GenAI katkılı iddiaların doğrulanması, sözlü savunma, sürüm geçmişiyle taslak farkları — gerçekçilikleri için değil görünür kıldıkları [[evaluative-judgment|yargı]] için seçilir. Espino ve Espino’nun (2026) [[business-education|işletme eğitimi]] üzerine on yıllık derlemesi, literatür tarafından aynı tasarım sonucuna varır; yorumlama, bağlamsal uygulama ve yinelemeli iyileştirme gerektiren özgün, süreci görünür görevlere yakınsayan alanı ve değişmemiş değerlendirme yapıları içinde yalıtılmış araç benimsemesini en kalıcı başarısızlığı olarak ele alır.
 
 Yapı ayrıca kanıtın nasıl puanlandığı sorusundan da ayırt edilebilir. [[assessment-validity|Geçerlilik]] akıl yürütmesi ikisinin buluştuğu yerdir: Brunnström ve Palmqvist (2026), bir [[conversational-ai|sohbet robotu]] makul bir sınav cevabı üretebildiğinde teslim edilen ürünün öğrencinin ne öğrendiğine dair daha zayıf bir gösterge hâline geldiğini; bunun yalnızca bir [[academic-integrity|bütünlük]] sorunu değil, bir değerlendirme geçerliliği sorunu olduğunu savunur. Yan, Greiff, Lodge ve Gašević'nin [[genai-performance-vs-learning|performans ve öğrenme]] argümanında risk altında olan çıkarım da aynıdır; yardım çekildiğinde küçülen [[learning-gains|performans kazanımları]], kazanımın öğrenende değil araçta yaşadığını gösterir ve önerilen çare, anlık görev başarısı yerine [[transfer-of-learning|kalıcılık ve transfer testleri]] gibi süreç ölçüleridir.
 
+
+Salameh’in (2026) Solma-Görünürlük Matrisi aynı tasarım sorusunu ikinci bir değişkenle keser: [[scaffolding|YZ desteğinin sürmesi mi yoksa solması mı]]. Matris, çoğu dersin varsayılan olarak seçtiği bileşimi adlandırır: hiç solmayan ve yalnızca ürünüyle değerlendirilen destek, yani Sessiz Bağımlılık ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
+
 ## Tespit neden bu yükü taşıyamaz
 
 Sürece yönelik değerlendirme genellikle tespit yerine bir alternatif olarak öne sürülür ve tespitle ilgili kanıtlar bunun nedenini açıklar. [[ai-detection|Tespit]] literatürü hata oranları, göreve bağımlılık ve ana dili İngilizce olmayan ile engelli yazarlara karşı örüntülü [[bias-mitigation|önyargı]] bulur; en son çalışmalar usulsü bir sonuca varır: bir tespit puanı daha yakından incelemeyi tetikleyebilir ama bir bulgu değildir. Munoz ve arkadaşları (2026), bunun uygulamada neye mal olduğunu gösterir. 1.162 üretken yapay zeka usulsüzlük iddiasını kodlayarak, en güçlü kanıt türlerinin soruşturma veya denetim tarafından üretildiğini; taslaklar, denetim toplantıları ve sunumlar gibi süreç kanıtının yalnızca bu uygulamaların zaten var olduğu yerlerde göründüğünü — yani yeniden tasarlanmamış bir değerlendirmede basitçe yok olduğunu — ve tespit aracı çıktısının herhangi bir kategoriden en düşük ispat değerlendirmesini aldığını buldular. Tasarım sonucu bir sıralamadır: süreç kanıtı, bir davanın ihtiyaç duymasından önce var olmalıdır; Weidlich’in (2026) hangi çıkarımın risk altında olduğuna ilişkin akıl yürütmesi aynı noktayı geçerlilik tarafından yapar, çünkü tespitle değerlendirme güvenliğini geri kazandırma girişimleri, öğrenene dair kanıt yerine yapıdan bağımsız varyans getirir.
+
+
+Rubrik ölçütlerinin kendisi yörünge etrafında yeniden kurulabilir. [[rubrics-genai-process-based-assessment-2026|Oviedo ve Díaz (2026)]], Biggs’in 3P modelini üç puanlama boyutu olarak okur: etkinlik ve eleştirel gözetim, diyalojik iskeleleme ve bilişsel egemenlik; böylece statik sonuç değil yörünge puanlanır.
 
 ## Tasarım ve iş yükü maliyetleri
 
@@ -73,6 +82,12 @@ Kaynaklar, bunun pahalı olduğunu alışılmadık biçimde açıkça söylüyor
 ## Çözülmemiş olan
 
 Thapa ve Lewis’ın anlatısı kavramsaldır: katılımcı yok, veri toplama yok ve uygulama denemesi yok; dolayısıyla dört ilke savunulur, test edilmez ve makalenin kendisi [[student-experience|öğrenci deneyimi]], eğitimci iş yükü ve uzun vadeli sürdürülebilirlik üzerine deneysel çalışma çağrısında bulunur. Fizibilite ortamlara göre ayrımlı bırakılmıştır — büyük derslere, laboratuvarlara, stüdyolara veya klinik yerleşim yerlerine aktarım ele alınmaz. Lane’in (2026) konum belgesi kurumsal tavanı not eder: sürece dayalı değerlendirme, cilalanmış kapanış ürünlerini ödüllendiren not ve transkript yapıları tarafından köreltilir, dolayısıyla yalnızca sınıf yeniden tasarımı teşviki değiştirmez. [[educational-measurement|Ölçüm]] de zayıftır: Jin ve arkadaşlarının (2026) [[ai-literacy|YZ okuryazarlığı]] araçlarına ilişkin derlemesi, performansa dayalı ve sürece yönelik değerlendirme ile [[prompt-engineering|istemeye]] ve doğrulamaya ilişkin davranışsal iz ölçümü çağrısında bulunur; ancak mevcut araçların [[self-report-measures|öz bildirime]] dayandığını rapor eder. Buradaki hiçbir kaynak, sürece yönelik bir yeniden tasarımı ürüne yönelik olanla karşılaştıran bir [[rct|kontrollü deney]] rapor etmez; bu da merkezi iddiayı — süreç kanıtının hem taklit edilmesinin daha zor hem de yargılaması için daha adil olduğunu — ilkeden, uygulayıcı raporundan ve dosya kanıtından savunulmuş, ölçekte gösterilmemiş olarak bırakır.
+
+## Yaygın yanlış anlamalar
+
+- **“Yüksek bir puan, öğrencinin tasarladığımız işi yaptığı anlamına gelir.”** İzler **puanlardan tümüyle ayrışabilir**: **150 öğrenci-YZ konuşması** genelinde **%41’i tam olarak 1,00 ödev puanı taşırken gözlemlenebilir bilişsel katılım değişkenlik göstermiştir**. Puan doyuma ulaşırken onu üretmesi gereken süreç ulaşmaz.
+- **“Süreç verisi ölçekte yönetilemez.”** Zorunlu dokümantasyonun kurs ölçeğinde uygulanabilir olduğu kanıtlanmıştır: **yaklaşık 440 K-12 öğretmenine hizmet eden, altı haftalık eşzamansız lisansüstü araştırma yöntemleri derslerinin altı dönemi** boyunca. Lojistik çözülebilirdi; itiraz maliyeti olduğundan fazla gösterir.
+- **“Problem çözme, süreçle değerlendirilemeyecek kadar bütünseldir.”** **Dört aşama ve sekiz tanı alt becerisi** olarak işlemselleştirilebilir ve bu, bir LLM’nin **aşamaya özgü sorular ve rubrikler** üretmesini sağlar; bu **beş öğretmen ve 64 öğrenciyle** kullanılmıştır. Süreci okunabilir ve değerlendirilebilir kılan şey ayrıştırmadır.
 
 ## Bağlı kavramlar
 - [[pedagogical-patterns]] — Aşamalı kontrol noktaları ve süreç kanıtı olarak sıralanmış tasarımlar
@@ -108,3 +123,7 @@ Thapa ve Lewis’ın anlatısı kavramsaldır: katılımcı yok, veri toplama yo
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: YZ Bütünleşik Yazma için Çok Görünümlü Bir Çözümleme Ortamı
 - [[epistemic-ownership-ai-mediated-education-2026]] — Aynı Performans, Farklı Süreç: YZ Aracılı Eğitimde Epistemik Sahiplik
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: LLM Üretimli Sorular Yoluyla Öğretmenlerin Matematik Problem Çözme Becerilerini Teşhis Etmeyi Desteklemek
+
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Varsayılan başarısızlığın hiç solmayan YZ desteği ile yalnızca ürün temelli değerlendirmenin eşleşmesi olduğunu savunan eleştirel bir anlatı incelemesi (Salameh 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — YZ diyaloğunun kontrol noktası dokümantasyonu altı dönem ve yaklaşık 440 öğretmen boyunca %96 tamamlanmada kaldı
+- [[rubrics-genai-process-based-assessment-2026]] — Biggs’in 3P modelinden üç rubrik boyutu: etkinlik ve gözetim, diyalojik iskeleleme, bilişsel egemenlik (Oviedo ve Díaz 2026)

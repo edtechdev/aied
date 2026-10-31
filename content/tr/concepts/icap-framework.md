@@ -8,7 +8,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,16 @@ ICAP’ın üretici, süreç düzeyinde katılıma verdiği önem, öğrencileri
 2. **Öğrenenleri kipler boyunca katılıma çekin.** Etkin [[ai-literacy|YZ okuryazarlığı]] öğretimi öğrenenleri birden çok ICAP düzeyinde — pasif maruziyet, etkin elleçleme, yapıcı üretim ve etkileşimli diyalog — katılıma çeker; öğrenme hedefine uyan kipi seçer.([[hingle-collaborative-ai-literacy-2025]])
 3. **Katılımı dürüstçe ölçün.** ICAP, araştırmacılara ve tasarımcılara gerçek bilişsel katılımı sıradan etkinlikten ayırt etmeleri için ortak bir sözlük sunar — yüzeysel [[student-engagement]]’e bir düzeltici.([[icap-cognitive-engagement-llm-agents]])
 4. **İnsan–LLM etiketleme farkını izleyin.** Katılımı kodlamak için otomatik sistemler kullanılıyorsa, eğitilmiş insanlara göre gösterdikleri sistematik yetersizlik hesaba katılmalıdır.([[icap-cognitive-engagement-llm-agents]])
+
+## Yaygın yanlış anlamalar
+
+**“ICAP etkinlikleri etiketlemek için bir taksonomidir.”** Sıralama iddiası taşıyan bir tasarım ve değerlendirme merceğidir: edilgen, etkin, yapıcı ve etkileşimli katılım ürettikleri öğrenme bakımından farklıdır; dolayısıyla "pasif tüketim yerine yapıcı ve etkileşimli katılımı çağrıştıran araçlar oluşturun" bir sınıflandırma alıştırması değil bir tasarım hedefidir. Bir dersi, öğrencilerin yaptığını değiştirmeden bir kiple etiketlemek çerçeveyi uygulamamıştır.
+
+**“Görevde geçirilen süre ya da etkileşim hacmi katılım düzeyini gösterir.”** Hacim etkinliği sayar, kipi değil. Kaydırma aynı anda farklı anlamlarda etkin ve edilgendir ve çok sayıda tıklama üreten bir öğrenci hâlâ yapıcı olmak yerine alıcı konumda olabilir. Çerçevenin değeri tam olarak, etkinlik ölçütlerinin bir arada topladığı katılım türlerini ayırmasıdır.
+
+**“Bir YZ özel dersi konuştuğu için otomatik olarak etkileşimli katılım üretir.”** Konuşma kipin değil ortamın kendisidir. Sistemin her esaslı katkıyı sağladığı bir diyalog, etkileşimli bir arayüz taşıyan öğrenci için edilgendir; bu, [[student-engagement|katılım literatürünün]] davranışsal etkinlik ile bilişsel yatırım arasında belgelediği aynı karışıklıktır.
+
+**“Daha yüksek ICAP kipleri her zaman daha iyidir.”** Daha maliyetlidirler ve sıralama, bir dersin her zaman hedeflemesi gereken şey değil, ilgili işlemenin birimi başına öğrenmeyle ilgilidir. Temel akıcılık, yapıcı çalışma mümkün olmadan önce etkin tekrar gerektirebilir; hata orada yerleşmektir, oradan geçmek değil.
 
 ## Bağlı kavramlar
 

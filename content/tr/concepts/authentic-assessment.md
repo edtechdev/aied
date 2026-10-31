@@ -10,7 +10,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,12 @@ Geri çekilme, vaka dosyası kanıtının görünür kıldığı bir kanıtsal m
 - **Özgün değerlendirme, uygulama odaklı alanlara uygundur.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais ve Galy (2026)]], özgün değerlendirmenin özellikle [[business-education|yönetim eğitimine]] uygun olduğunu bulurlar: gerçek profesyonel problemleri yansıtan görevler (canlı danışmanlık projeleri, yönetici brifingleriyle [[visualization|panolar]]) alanın uygulama odaklı, [[career-development-and-readiness|istihdama hazır olma]] odağıyla uyumludur ve üretken YZ çağında sınav merkezli değerlendirmeye kapsayıcı, bütünlüğü koruyan alternatifleri destekleyebilir. Dört yönetim eğitimi dergisinden 58 makalenin derlemesinde, ancak özgün değerlendirme başlıca teknoloji aracılı [[simulation|simülasyonlar]] yoluyla ortaya çıktı ve sıklıkla [[experiential-learning|deneyimsel öğrenmeyle]] özdeşleştirildi — daha geniş değerini ve benimsenmesini gizleyebilecek bir terminoloji boşluğu.
 
 - **Özgünlük güvenlik değildir ve boşluk sektör ölçeğinde görünürdür.** Yukarıdaki tek derece denetiminin %90’ının geçilebilir bulduğu yerde, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]], kayıtlı sunumları, uzaktan grup projelerini ve gözetimsiz dijital eserleri 53.915 madde boyunca yüksek maruziyet bandında puanlar, çünkü kamusal kayıt, üretimin nasıl gözetimlendiği hakkında hiçbir şey göstermez.
+
+## Yaygın yanlış anlamalar
+
+- **“Özgünlük, gerçekçi görevlerle ilgilidir.”** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud ve Du’nun (2025)]] **37 ampirik çalışmayı (2000-2024)** kapsayan kapsam derlemesi **altı boyutlu** bir tasarım modeli önerir ve **37 çalışmadan yalnızca 3’ü toplumsal özgünlüğü** ele almıştır: değerlendirmenin öğrencilerin toplumsal dönüşüme katkıda bulunmasına yardımcı olup olmadığı. Gerçekçilik tek bir boyuttur ve en az gelişmiş boyut neredeyse hiç çalışılmamıştır.
+- **“Özgün değerlendirme YZ’ye direnir.”** Maruz kalma ölçülebilir ve büyüktür: **üç yıllık bir psikoloji lisansı** **%90 geçilebilir** çıkmış, ChatGPT **40 ders içi değerlendirmesinin 36’sında yeterli çıktı** üretmiş ve yalnızca kalan değerlendirmeler ayakta kalmıştır. Bir lisans derecesinin değerlendirmesinin çoğu YZ tarafından karşılanabilirdi.
+- **“İş gerçek dünyadan olduğunda yeniden tasarım isteğe bağlıdır.”** 40’ta 36 sonucu, özgünlüğü muhtemelen sorgulanmayan ders içi çalışmalarda bulunmuştur. Görevin gerçekçiliği, YZ ile tamamlanmaya karşı korumamıştır; koruyan, neyin değerlendirildiğinin tasarımı olmuştur.
 
 ## Bağlı kavramlar
 

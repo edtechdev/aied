@@ -9,7 +9,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,12 @@ Bu bulgular boyunca yinelenen tasarım ilkesi, **öğrenenin kendi üretken eyle
 ### Bağlantılar
 
 Yaratıcılık, [[critical-thinking]] ile ve [[constructivist]] öğrenmeyle bağlantılıdır. Öğrenmeyi koruyan aynı [[reducing-ai-misuse]] [[scaffolding|iskeleler]] ile ve cilalı ürünlere göre özgün akıl yürütmeyi ödüllendiren [[authentic-assessment]] tasarımlarıyla korunur.
+
+## Yaygın yanlış anlamalar
+
+- **“Öğrencileri sarsmak yaratıcı kazanımlar üretir.”** **Sürtünme, yaratıcı kazanım değildir.** Karşıt YZ kişilikleri **grupların %38,2’sinde** meydan okuma ve yansıtma söylemini yönlendirmiş, ancak **ölçülebilir bir yaratıcı performans iyileşmesi üretmemiştir**. Söylem değişti, ölçülen çıktı değişmedi.
+- **“K-12 literatürü GenAI’nin yaratıcılığı geliştirdiğini ortaya koyar.”** **45 çalışmayı (2017-2025)** kapsayan PRISMA güdümlü bir kapsam taraması, GenAI’nin yaratıcılığı çoğunlukla **geliştirdiğini** ve nadiren **ölçtüğünü** göstermektedir. Alanın baskın bulgusu, algılanan gelişmeden yapılan bir çıkarımdır; bu bir çıktı ölçümü değildir.
+- **“GenAI’ye daha fazla bağımlılık daha fazla yaratıcı çıktı demektir.”** **1.157 Çinli lisansüstü öğrenci** arasında GenAI bağımlılığı **öz bildirimli araştırma yaratıcılığıyla pozitif ilişkiliydi** ve ilişki **öz bildirimle** kuruludur; bu da yapı için mevcut en zayıf ölçüttür.
 
 ## Bağlı kavramlar
 

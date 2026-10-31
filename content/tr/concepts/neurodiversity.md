@@ -8,7 +8,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,8 @@ Risk tarafın da kendi literatürü vardır. [[seung-basham-cognitive-offloading
 - **Davranış sinyalleri, öğrenciyi tanımayan sistemler tarafından okunur.** [[learning-analytics]] ve [[student-modeling]] içinde [[student-engagement|katılımın]], mücadele ya da dikkatin yorumlanması normatif bir yanıt örüntüsü varsayar; bu varsayıma ilişkin eşitlik kanıtları için [[differential-effects-across-learner-groups|Öğrenen Grupları Arasındaki Farklı Etkiler]] başlığına bakın.
 - **Bağımlılık bir tasarım sonucudur, öğrencinin başarısızlığı değil.** Yukarıdaki bağımlılık yolu göz önüne alındığında herhangi bir YZ özelliğine sorulması gereken soru, görevin var olma nedenini oluşturan yüksek düzeyli sürecin yerini alıp almadığıdır — Seung ve Basham’ın öğrenme güçlüğü için belirttiği nokta.
 
+- **Dedektör güdümlü süreçler meşru uyarlama kullanımını caydırabilir.** Bir dil teknolojisi nöroçeşitli bir öğrenen için etkili bir uyarlama işlevi gördüğünde, toptan bir yasak ya da onun meşru kullanımını caydıran dedektör güdümlü bir süreç eşitlik kaygıları doğurur; [[ai-detection|tespit]] literatürünün belgelediği iptal edilen suiistimal vakası, otizm spektrum desteği programındaki bir öğrenciyi ilgilendirmektedir ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
+
 ## Kanıtların zayıf olduğu yerler
 
 - **Buradaki hemen hemen her şey tek grupludur.** Engelli meta-analizinde nörotipik karşılaştırma grubu yoktur; bu nedenle müdahalelerin yardım ettiğini, bu gruba farklı biçimde yardım ettiğini değil, ortaya koyar.
@@ -78,6 +80,12 @@ Risk tarafın da kendi literatürü vardır. [[seung-basham-cognitive-offloading
 ## Bağlantılar
 
 Nöroçeşitlilik, [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]] ve [[equity-in-ai-education]] ile bağlantılıdır. Hem YZ’nin [[student-experience]] için nasıl devreye alındığını hem de değerlendirmelerin ve okuryazarlık programlarının bilişsel değişkenlik boyunca adil olacak biçimde nasıl tasarlandığını bilgilendirir. Bu bulguların diğer öğrenen gruplarıyla — dil, cinsiyet, sosyoekonomik düzey, coğrafya — nasıl yan yana durduğu için [[differential-effects-across-learner-groups|Öğrenen Grupları Arasındaki Farklı Etkiler]] başlığına bakın.
+
+## Yaygın yanlış anlamalar
+
+- **“Nöroçeşitlilik araştırması AIED’in niş bir köşesidir.”** Alan **[[generative-ai|üretken YZ]] etrafında yeniden örgütlenmiştir: 40 çalışmanın 15’i** bu alandadır, ikinci sırada 11 çalışmayla sürükleyici biçimler gelir. Literatür istikrarlı sorular etrafında birikmek yerine teknolojiyle birlikte hareket etmiştir.
+- **“Disleksi için daha fazla YZ daha iyi destek demektir.”** [[dabaghi-ai-dyslexia-education-review-2026|Disleksi için YZ üzerine disiplinler arası inceleme (Dabaghi, D’Urso ve Sciarrone, 2026)]] **2018-2024 arasında 72 çalışmayı** kapsar ve YZ’nin çok geniş bir amaç yelpazesinde kullanıldığını bulur. Uygulama genişliği, bunlardan herhangi biri için etkililiğin kanıtı değildir.
+- **“Nöroçeşitli öğrenenler için doğru çerçeve uyarlamalardır.”** [[neurodivergent-computing-students|24 nöroçeşitli bilişim öğrencisi ve 20 nörotipik akranıyla yürütülen bir anket]] ve dört derinlemesine görüşme, ihtiyaçların tanı konulduktan sonra verilen bireysel düzenlemeler değil **genel tasarım gereksinimleri** olduğunu bulmuştur: yapılandırılmış ödevler, küçük ve tutarlı ekipler, açık roller.
 
 ## Bağlı kavramlar
 
@@ -105,3 +113,5 @@ Nöroçeşitlilik, [[special-education]], [[inclusive-learning]], [[universal-de
 - [[genai-minoritized-knowledges-disability]] — Üretici YZ ve marjinalleştirilmiş bilgilerin marjinalleştirilmesi
 - [[tactile-statistical-graphs-accessibility]] — Erişilebilirlik için Dokunusal İstatistiksel Grafikler
 - [[ai-learning-tools-engineering-education-needs]] — İhtiyaç ve Dikkat Farkında YZ Öğrenme Araçları Tasarlamak
+
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Dedektör güdümlü süreçler meşru uyarlama kullanımını caydırabilir

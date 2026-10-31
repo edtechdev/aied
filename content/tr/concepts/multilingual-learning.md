@@ -8,7 +8,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,9 @@ ai_assist:
 
 Çok dilli YZ, [[culturally-relevant-pedagogy|kültürel olarak ilgili pedagojiyi]] yansıtacak şekilde çevirinin ötesine geçmelidir — dilsel ve bağlamsal olarak uygun içerik üretmelidir. [[llm-cultural-relevance-k12|K-12’de YZ kültürel ilgisi]] ve [[scaffolding-critical-engagement-genai-minority-students|azınlık öğrenciler arasında Üretken YZ ile eleştirel etkileşim]] çalışmaları, dilsel ve kültürel uyumun öğrencilerin gerçekten yarar görüp görmediğini şekillendirdiğini gösterir. Ele alınmadığında, YZ’deki tek dilli önyargı [[digital-divide]] derinleştirir ve [[equity-in-ai-education|Küresel Güney genelinde Eşitliği]] [[global-south|Küresel Güney genelinde]] zarara uğratır.
 
+
+Diller arası geçiş (translanguaging), üretken sohbet robotlarının eklediği ve önceki dil araçlarının sahip olmadığı bir olanaktır. 24 çalışma üzerine bir sistematik derlemede öğrenenler, hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar istedi; derleyiciler bu kullanımı yeniden paketlenmiş değil yeni bir alt olanak olarak sınıflandırır ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
+
 ## Değerlendirme önyargısı
 
 Çok dilli kaygılar [[automated-assessment|otomatik değerlendirmeyi]] de etkiler: [[ai-scoring-language-bias-physics|YZ puanlaması dil önyargısı sergileyebilir]] (örneğin [[physics-education|fizikte]]), ana dili konuşan olmayanları cezalandırarak. Değerlendirme araçlarının diller arasında adil olmasını sağlamak [[assessment-validity]] bir parçasıdır.
@@ -62,6 +65,12 @@ YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel
 - **YZ’yi çok dilli destek yapılarıyla eşleyin.** Metin tabanlı YZ’nin başarısız olduğu yerlerde ses öncelikli ve sözlü kipleri kullanın ([[kutti-ai-voice-first-learning-companion|ses öncelikli arkadaşlar]]) ve iki dilli bağlamlarda [[self-regulated-learning|öz-düzenlemeyi]] destekleyin ([[bilingual-llm-lecture-companion-srl-2026|iki dilli ders arkadaşı]]).
 - **Dijital uçurumu izleyin.** YZ’deki tek dilli önyargı, [[digital-divide]] derinleştirir ve [[global-south]] genelinde erişimi zarara uğratır — araç seçimiyle birlikte eşitlikçi altyapı ve erişim için plan yapın.
 
+## Yaygın yanlış anlamalar
+
+- **"Hedef dil ilk günden egemen olmalıdır."** **24 çalışma üzerine bir sistematik derlemede**, öğrenenler **hedef dile köprü olarak kendi dillerinde bağlamsallaştırılmış ifadeler ve açıklamalar** istedi; derleyiciler bu kullanımı bir geçici çözüm değil gerçekten yeni bir alt olanak olarak sınıflandırır. Ana dili desteği kaçınma değil iskeleleme işlevi gördü.
+- **"YZ dil değerlendirmesi çok dilli yazarlara karşı yanlıdır."** Burada önyargı modelden çok **insan temel çizgisini** izledi: **3-6. sınıf bilgilendirici yazımı** üzerine LLM tabanlı karşılaştırmalı yargı **araştırmacı rubrikleriyle yakınsadı (r = ,59-,73)** ve insan değerlendiricilerin gösterdiği örüntünün aynısını gösterdi. Bu, mutlak anlamda adillik kanıtı değildir; modelin mevcut çarpıklığın üzerine yeni bir çarpıklık eklemediğinin kanıtıdır.
+- **"Yararlı olan kısım çeviri kalitesindeki çıktıdır."** Köprü kullanımı açıklayıcı ve bağlamsaldır, ikame edici değil. Öğrenenin kendi üretiminin yerine geçen bir araç, köprünün mümkün kılmayı amaçladığı alıştırmayı ortadan kaldırır.
+
 ## Bağlı kavramlar
 
 - [[differential-effects-across-learner-groups]]
@@ -75,6 +84,8 @@ YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel
 - [[generative-ai]]
 
 ## Bağlı makaleler
+
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Üretken YZ sohbet robotları, önceki dil araçlarının desteklemediği diller arası geçişi mümkün kılıyor
 
 - [[llm-comparative-judgment-writing-screening-2026]] — Evrensel Yazım Taraması için Büyük Dil Modeli Karşılaştırmalı Yargısının Geçerliliği
 - [[multilingual-adaptive-learning-nigeria-2026]] — Nijerya için YZ Tabanlı Uyarlanabilir Öğrenme Platformu

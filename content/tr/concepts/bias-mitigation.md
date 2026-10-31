@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,11 @@ ai_assist:
 ## Giriş
 
 Önyargı azaltma önemlidir, çünkü [[ai-education|eğitimde yapay zeka]] tarafsız değildir: baskın dil ve kültür verisi üzerinde eğitilmiş sistemler, ana dili konuşanı olmayan yazarları cezalandıran YZ temelli puanlamadan farklı gruplara farklı yanıt veren [[llm|LLM]] öğretmenlerine kadar marjinalleştirilmiş öğrenenleri sistematik biçimde dezavantajlı konuma getirebilir. Önyargı, [[automated-assessment|Otomatik Puanlama]]’da, [[automated-essay-scoring]]’de, [[knowledge-tracing]]’de, öneri sistemlerinde ve [[conversational-ai|konuşma tabanlı YZ]] öğretmenlerinde görülen yatay bir kaygıdır.
+
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst ve ark. (2026)]], önyargı azaltmanın yalnızca mühendislikle değil öğretimle de mümkün olduğunu gösterir: bir metinden görüntüye modelinin çıktılarını sorgulamaya yönlendirilen gençler, temsil üzerine sistematik değerlendirmeler üretti ve müdahaleden önce insan görüntüleri için istekleri beyaza kaymıştı.
+
+Adillik, YZ ile insan puanlaması literatüründe en az incelenen boyuttur: gözden geçirilen on iki çalışmanın onu demografik, dilsel veya sosyal önyargı konusunda sessizdi ve sınanan tek boyut cinsiyetti ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu ve Abdi, 2026]]).
 
 ## Önyargı kaynakları
 
@@ -90,6 +95,12 @@ Bilgi tabanının araştırması birkaç birbirini tamamlayan stratejiyi gözler
 - **Puanlamada anlayışı dilden ayırın:** otomatik puanlama, ana dili konuşanı olmayan veya daha az akıcı yazanları gösterdikleri kavramsal anlayış nedeniyle cezalandırmamalıdır.
 - **Sistemleri açıklanabilir kılın:** YZ kararlarına ilişkin şeffaflık, önyargının saptanması ve düzeltilmesi için esastır.
 - **Teknik ve insan azaltmasını birleştirin:** önyargı giderimi algoritmalarını insan-çalışmalı gözetimle eşleştirin, özellikle yüksek riskli veya düşük güvenli durumlarda.
+
+## Yaygın yanlış anlamalar
+
+- **"Önyargı bir puanlama ve geri bildirim sorunudur."** Önyargı **puanlama dışındaki görev sınıflarına** girer: **28 öğrencilik yazılım mühendisliği sınıflarını dört takıma atayan üç LLM, erkekleri referans dağılıma göre en az %80 daha az sıklıkta** yönlendirdi. Takım oluşturma, puanlamaya benzer büyüklükte önyargı taşıdı.
+- **"İlgili beceriyi sağlamak önyargıyı ortadan kaldırır."** Beceri sağlamak önyargıyı **azalttı ancak ortadan kaldırmadı**: **beceri temelli atamaların %99,2'si iki temel gerçek takımdan biriyle eşleşti, ancak cinsiyet eşit derecede geçerli seçenekler arasında yine de belirleyici oldu (OR 2,53**). Neredeyse kusursuz görev eşleşmesi bir cinsiyet etkisiyle bir arada bulundu; bu nedenle birincil ölçütteki doğruluk adilliğin kanıtı değildir.
+- **"Tek bir azaltma yaklaşımı yeterlidir."** Araştırma **tamamlayıcı stratejileri** örnekler (aralarında adillik duyarlı modelleme de vardır), çünkü oluşum aşamasında giren önyargı, çıktı metnine yönelik bir düzeltmeyle ele alınmaz.
 
 ## Bağlı kavramlar
 

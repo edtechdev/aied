@@ -11,7 +11,7 @@ level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
 translation_of: concepts/information-technology
-source_updated: "2026-09-17T14:06:00-04:00"
+source_updated: "2026-10-29T05:15:49-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ Bu alanda YZ’yi ayırt edici yapan, aynı teknolojinin hem müfredad içeriği
 
 - **Oyunlaştırılmış siber güvenlik eğitimi.** Li ve meslektaşları, geleneksel video eğitiminin düşük katılımı ve sınırlı etkinliğinden yola çıkarak, şifre güvenliğinden metin ve telefon dolandırıcılığını tanımaya kadar uzanan, sınav tabanlı, anlatı tabanlı ve [[simulation]] tabanlı tasarımları TikTok Mini-Games gibi etkileşimli biçimlerle birleştiren çeşitli kısa, mobil uyumlu oyunlar inşa etmiştir ([[ai-gamification-security-education-2026]]). 59 üniversite öğrencisi (9 teknik uzman, 50 genel kullanıcı) üzerine yürüttükleri iki kademeli değerlendirme, gösterilmiş öğrenme kazanımlarından ziyade katılımı ve siber güvenliğe dikkati artırma potansiyelini bildirmektedir.
 - **Öz-düzenlemeli öğrenmede iskeleleme veya kısayol olarak GenAI.** Avustralya’daki 267 lisansüstü BT öğrencisi üzerine yürütülen karma yöntemli bir çalışma, [[agency]] öğrencide kaldığı sürece hedefleri netleştiren, fikir üreten, eleştirip uyarladıkları [[feedback]] alan öğrenenler biçiminde iskelelenmiş [[cognitive-offloading]]’i, çıktıların asgari doğrulamayla kabul edildiği ve kontrolün araca kaydığı ikameci dış kaynak aktarımından ayırır ([[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]). Özgüven yönelimi şekillendirdi: özgüvenli öğrenciler hedef belirlemede ve izlemede özerklik kullanırken, daha az özgüvenli akranlar GenAI’yi kısayol veya [[academic-integrity|yolsuzluk]] olarak okudu. Kohort, homojen bir biçimde YZ okuryazarı değil, farklılaşmıştı; yazarlar, öğrencilerin YZ çıktılarını gerekçelendirmesini veya uyarlamasını açık bir [[learning-design]] hamlesi olarak zorunlu kılmayı önermektedir.
-- **Profesyonel uygulamada sıkıştırılmış uzmanlık yolları.** BT profesyonelleriyle yürütülen on dört yarı-yapılandırılmış görüşme, GenAI’nin sorun giderme, betik yazma ve sistem doğrulamada hem akran-öğretmen benzeri bir eğitmen hem de merdiveni kısaltan bir araç olarak işlev gördüğünü bulmuştur ([[genai-expertise-pathways-sysadmin]]). Tanıdık olmayan alanlarda hızlandırılmış performans, tarihsel olarak uzmanlığı inşa eden yapı-hatasız çalıştır-hata ayıkla döngülerine maruziyeti azaltır; YZ destekli hız ayrıca ekip ve öz-beklentileri sıfırlar, iki hızlı bir kültür ve verimlilik suçluluğu üretir. Çalışma, sınıf içi [[metacognition|üstbilişsel]] maliyet ve beceri erimesi kaygılarını [[professional-training]] ve [[lifelong-learning|iş yeri öğrenmesi]]ne taşır.
+- **Profesyonel uygulamada sıkıştırılmış uzmanlık yolları.** BT profesyonelleriyle yürütülen on dört yarı-yapılandırılmış görüşme, GenAI’nin sorun giderme, betik yazma ve sistem doğrulamada hem akran-öğretmen benzeri bir eğitmen hem de merdiveni kısaltan bir araç olarak işlev gördüğünü bulmuştur ([[genai-expertise-pathways-sysadmin]]). Tanıdık olmayan alanlarda hızlandırılmış performans, tarihsel olarak uzmanlığı inşa eden yapı-hatasız çalıştır-hata ayıkla döngülerine maruziyeti azaltır; YZ destekli hız ayrıca ekip ve öz-beklentileri sıfırlar, iki hızlı bir kültür ve verimlilik suçluluğu üretir. Çalışma, sınıf içi [[metacognition|üstbilişsel]] maliyet ve beceri erimesi kaygılarını [[professional-training]] ve iş yeri öğrenmesine taşır.
 
 ### Değerlendirme ve BT’de YZ kullanımının öğrenen tarafı
 
@@ -57,6 +57,33 @@ Bu alanda YZ’yi ayırt edici yapan, aynı teknolojinin hem müfredad içeriği
 
 - **Yönerge, politika değil.** Akredite tüm 48 sağlık bilişimi ve sağlık bilgi yönetimi yüksek lisans programının çevre taraması, 40’ında (%83) en az bir kamuya açık YZ belgesi olduğunu, ancak en sık görülen eserin resmî politika (7, %18) değil danışma niteliğinde yönerge (21, %53) olduğunu buldu ([[institutional-ai-policy-health-informatics-2026]]). Akademik dürüstlük sözcük dağarcını domine etti (n = 139), alıntılamayı (n = 59) ve [[assessment]]’i (n = 50) geride bıraktı; oysa HIPAA (n = 5), FERPA (n = 11), eşit erişim (n = 2) ve açıklama yükümlülükleri (n = 1) neredeyse hiç yoktu ve elektronik sağlık kayıtlarına hiç değinilmedi. Latent Dirichlet Allocation, dürüstlük, öğrenci GenAI kullanımı, üniversite araştırma araçları ve ChatGPT etkileşimi etrafında dört tema üretti. Yalnızca kamuya açık belgeler analiz edildiğinden, yazarlar gizlilik ve eşitlik dilinin yokluğunu kurumsal uygulama hakkında değil, yayımlanmış yönergeler hakkında bir bulgu olarak ele alıyor.
 - **Eşitlik kör noktası.** Kapsama (n = 9), erişilebilirlik (n = 9), uyumlar (n = 4) ve eşit erişim (n = 2), bazı programlar ders çalışmalarında YZ kullanımı zorunlu kılsa bile, [[equity-in-ai-education]]’in ele alındığına dair herhangi bir iddiayı destekleyemeyecek oranlarda görünür. Profesyonel [[governance]] yetkinliğinin ince işlenmesiyle birlikte, bu, paketin açık bıraktığı en net tasarım görevidir: dürüstlük kurallarını, bu mezunların uygulamaktan sorumlu olacağı erişim, gizlilik ve veri yönetişimi hükümlerine bağlamak.
+
+## Yaygın yanlış anlamalar
+
+**“Bilgi teknolojileri eğitimi, daha fazla satıcı aracı içeren bilgisayar bilimi eğitimidir.”** Sınır, çalışma nesnesidir. Bilgisayar bilimi eğitimi algoritmalar, programlama ve biçimsel temeller üzerine odaklanır; BT eğitimi uygulamalı yapılandırma, siber güvenlik, veri ve bilgi yönetimi ile sosyo-teknik sistemlerin örgütsel yönetişimi üzerine odaklanır. Bu ayrım, bir YZ öğreticisinin neye iyi olması gerektiğini değiştirir: bir BT öğrenenine bir hesaplamaya ilişkin kanıt değil, konuşlandırılmış bir sistemin arıza biçimleri hakkında yargı gerekir.
+
+**“Soru türlerini belirleyecek kadar doğru olan bir sınıflandırıcı, biçimlendirici geri bildirimi otomatikleştirecek kadar da doğrudur.”** Toplam doğruluk, önemli olan sınıf başına hatayı gizler. Bu sayfanın atıf yaptığı karşılaştırmada DeBERTa **olgu sorularında %86,36 doğruluk ve %96,67 kesinlik** ile öndeydi, ancak kolaylaştırıcı kesinliği **%78,79**’a düştü; ince ayarlanmış bir BERT, **birlikte öğrenen öğelerde %74,19 kesinlikle %92,00 geri çağırma**ya ulaştı. Otomasyon bunların kabaca dörtte birini yanlış müdahaleye yönlendirir ve hatalar kolay olanlarda değil, pedagojik açıdan ilginç kategorilerde yoğunlaşır.
+
+**“Çoğu programın bir YZ belgesi olması, YZ yönetişiminin yerinde olduğu anlamına gelir.”** Tüm **48 akredite** sağlık bilişimi ve sağlık bilgi yönetimi yüksek lisans programının çevresel taramasında, **40’ında (%83)** en az bir kamuya açık YZ belgesi vardı; ancak bulgu politika değil, rehberlik olarak adlandırılmıştır. Yayımlanmış bir öneri seti bir yönetişim mekanizması değildir: ne sorumluluk atar ne de bir sistem başarısız olduğunda ne olacağını belirtir.
+
+**“YZ destekli bir kararı açıklayamayan öğrenciler YZ’yi kötüye kullanıyordur.”** Alternatif açıklama, doğru verilmiş bir kararı dile getiremedikleridir. BT işi, gerekçesi örtük olan yetkin uygulamalarla doludur ve dilsiz yetkinliği suistimal saymak, bir öğretim hedefini disiplin sorunu olarak yanlış teşhis eder: açıklama alıştırmasına ihtiyaç vardır, politikaya değil.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Herhangi bir geri bildirim yönlendirmesini otomatikleştirmeden önce manşet doğruluğu değil sınıf başına kesinliği raporlayın. Kaç öğrencinin yanlış yardım alacağını belirleyen rakam kolaylaştırıcı kesinliğidir.
+- Açıklamayı başlı başına bir çıktı olarak öğretin, böylece dilsiz yetkinlik suistimalden ayırt edilebilsin.
+- Kurumsal politikayı okurken rehberliği yönetişimden ayırın ve hattaki bir araç hata yaptığında kimin hesap vereceğini sorun.
+
+**Geliştiriciler için**
+
+- Karışıklık matrislerini öğrenen kategorisine göre yayımlayın; olgu sorularında güçlü, birlikte öğrenen katkılarında zayıf bir model işbirlikli durumları sistematik olarak kaçıracaktır.
+- Bir yönlendirme sınıflandırıcısını kolaylaştırıcının yerine geçen bir araç olarak konumlandırmayın. %74-79 kesinlikte bu bir triyaj yardımcısıdır.
+
+**Program tasarımcıları için**
+
+- Sektörün eksik olan yönetişim belgesini oluşturun: adlandırılmış sorumluluk, gözden geçirme sıklığı ve bir olay yolu. Bir YZ rehberlik belgesi akreditasyon sorusunu karşılar, hesap verebilirlik sorusunu değil.
 
 ## Bağlı kavramlar
 

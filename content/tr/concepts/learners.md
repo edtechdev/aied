@@ -11,7 +11,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,34 @@ Faydalar önceki avantajı izlediği için öğrenen tarafı çalışma [[equity
 ## Bu sayfanın yeri
 
 Öğrenenin çevresindeki insanlar için [[stakeholders]], öğretmenlerin bu bulgularla ne yaptığı için [[pedagogy]] ve [[learning-design]] ile birlikte okuyun. [[assessment]], hangi öğrenen yetilerinin hiç görünür kılındığına karar verir; [[limitations-in-aied-research]], öğrenen tarafı kanıtların çoğunun neden kısa vadelik, öz-bildirimli ve uygunluk örneklemleriyle yürütüldüğünü açıklar; [[misconceptions]] ise öğrenenlerin kendileri için olağan giriş noktasıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Öğrenenler ile öğrenciler aynı nüfustur.”** Yararlı bir biçimde birbirinin yerine kullanılamazlar: *öğrenci* kurumsal bir rolü adlandırır, *öğrenen* ise bir etkinliği adlandırır ve bir kişi biri olmadan diğeri olabilir; [[professional-training|işyeri eğitimindeki]] bir çalışan öğrenendir ama öğrenci değildir. İkisini birbirine karıştırmak kanıt tabanını kayıt kaydı bulunan kişilerle daraltır ve tam da [[lifelong-learning|yaşam boyu öğrenme]] araştırmasının konusu olan yetişkinleri, profesyonelleri ve öz yönelimli öğrenenleri sessizce dışarıda bırakır.
+
+**“Öğrenenler YZ'nin anlamalarını iyileştirdiğini bildiriyor, demek ki zamandan tasarruf sağlıyor.”** İki iddia anket verisinde ayrışır. Çalışma verimliliği üzerine çalışmada **%92,3**'ü YZ'nin anlamalarını iyileştirdiğini söylerken yalnızca **%38,5**'i genel çalışma süresini azalttığını söylemiştir. Manşet sayı hissedilen kavrayışı betimler; altındaki açık, iyileşen anlama ile geri kazanılan zamanın farklı sonuçlar olduğunu ve yaygın biçimde tekrarlanan "YZ zaman kazandırır" iddiasını daha küçük olan sayının taşıdığını gösterir.
+
+**“Öğrencilerin kısayol için YZ kullanması ahlaki bir kusurdur.”** Bilgi tabanı en az çaba çekimini bir karakter sorunu değil, tasarım ve politika sorunu olarak ele alır: öğrenciler bunu kendi sözcükleriyle betimler ve [[reducing-ai-misuse|kötüye kullanım]] ile [[academic-integrity|dürüstlük]] literatürü kaldıracı görev ve ortam tasarımında konumlandırır. Ahlaki çerçeveleme, aynı öğrencinin iki kursta neden farklı davrandığına ilişkin hiçbir şey açıklamaz.
+
+**“Bir suistimal iddiası yapıldığında kanıt oradadır.”** 1.162 GenAI iddiasının dosya analizi, kurumsal yanıt geldiğinde öğrenenlerin fiilen neyle karşılaştığını gösterir ve suistimal prosedürünün öğrenci tarafı literatürde kullanımın öğrenci tarafından çok daha incedir. Öğrenenler hakkında yalnızca kullanımlarını belgeleyip suçlamaya maruz kalmalarını belgelemeyen bir sayfa, deneyimin yarısını belgelemiştir.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Öğrenenlerin yalnızca ne hissettiğini değil, ne *yaptığını* sorun. Hissedilen anlama (%92,3) ile geri kazanılan zaman (%38,5), birini esas alıp diğerini varsaymanın ders tasarımını yanıltacak kadar ayrışmaktadır.
+- En az çaba çekimine öğrenen erdemine güvenerek değil, yapısal olarak karşı tasarım yapın; çünkü bu çekim, görev tasarımına verilen normal bir yanıt olarak belgelenmiştir.
+- Suçlama durumunda karşılaşacakları süreç konusunda öğrenenleri önceden bilgilendirin; prosedür kanıtı, zararın sıklıkla kurumsal yanıtta ortaya çıktığını göstermektedir.
+
+**Geliştiriciler için**
+
+- Öğrenenlerin kendilerinin bildirmediği zaman tasarruflarını pazarlamayın. Hem kavrayış hem zaman için ölçütler sunun ve bunları ayrı ayrı etiketleyin.
+- Öğrenci olmayan öğrenen için tasarlayın: işyeri ve öz yönelimli kullanıcılar, varsayılanlarınızın öngörebileceği kayıt bağlamından yoksundur.
+
+**Araştırmacılar için**
+
+- Örneklemede öğrenen/öğrenci ayrımını açık tutun ve bu ayrımın kimleri dışarıda bıraktığını bildirin.
+- Kullanıcı kadar suçlananı da inceleyin; bu literatürün ince yarısı prosedür tarafıdır.
 
 ## Bağlı kavramlar
 

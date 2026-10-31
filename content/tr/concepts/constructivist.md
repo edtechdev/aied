@@ -8,7 +8,7 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -106,6 +106,12 @@ Yapılandırmacılık, YZ okuryazarlığının kendisinin nasıl öğretildiğin
 2. **[[icap-framework|ICAP]] mercezini kullanın.** ICAP, etkileşimi yapılandırmacı, etkileşimli, etkin ve pasif kiplere ayırır — yapay zeka etkileşimlerinin pasif tüketim yerine gerçekten yapılandırmacı ve etkileşimli kipleri mi çağrıştırdığını değerlendirmek için kullanın. Tasarımcılar, öğrenme hedefinin gerekli gördüğü yerlerde daha derin (yapılandırmacı ve etkileşimli) kipleri tercih etmelidir.([[hingle-collaborative-ai-literacy-2025]])
 3. **Kuram ve uygulamayı hizalayın.** Araştırmacılar, yapay zekanın “işe yarayıp yaramadığına” değil, bir öğrenme kuramını *nasıl* somutlaştırdığına bakmalı ve “adı yapılandırmacı, uygulaması davranışçı” uçurumunu denetlemelidir.([[ai-vocational-education-training-review]])
 4. **Öğrenen etkenliğini ve aktarımı inceleyin.** Yapılandırmacı bağlılıklar, yalnızca yakın dönem sınav kazanımlarını değil, öğrenenlerin inşa ettikleri anlayışı aktarıp aktaramadıklarını ve bağımsız olarak uygulayıp uygulayamadıklarını da değerlendirmeyi gerektirir.([[research-methods-aied]])
+
+## Yaygın yanlış anlamalar
+
+- **“Yapılandırmacı öğretimi sorulan sorulardan tespit edebilirsiniz.”** Bir DeBERTa sınıflandırıcısı **olgusal bilgi aktarıcı sorularını %96,67 kesinlikle, kolaylaştırıcı soruları ise yalnızca %78,79 kesinlikle** sınıflandırdı ve **her model iki üst düzey rolü karıştırdı**. En çok önem taşıyan yapı, otomatik tespitin en kötü ele aldığı yapıdır.
+- **“Bir dersin yüzey özellikleri pedagojisini açığa çıkarır.”** Sınıflandırıcının başarısızlığı bir uygulama ayrıntısı değildir. Kolaylaştırıcı ve yapılandırmacı roller tam olarak zor vakalardır, çünkü öğretmenin öğrenenin düşüncesiyle ne yaptığıyla tanımlanırlar ve bu ilişki yalnızca soru metninden geri kazanılamaz.
+- **“Yapılandırmacılık, öğretmenin açıklamaması demektir.”** Kuram, öğrenmeyi öğrenenin deneyimden inşasında konumlandırır; bu doğrudan öğretimle uyumludur. Onu anlatmanın yasaklanması olarak ele almak, hem kuramı hem de çözümlü örnekler üzerine kanıtı yanlış okur.
 
 ## Bağlı kavramlar
 - [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)

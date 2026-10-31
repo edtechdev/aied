@@ -9,7 +9,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,13 +49,19 @@ Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler 
 
 - **YZ geri bildiriminin değerini dengeleyici biçimde etkileyen geri bildirim okuryazarlığı:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]], geri bildirim okuryazarlığının ChatGPT kabulü ile [[self-regulated-learning]] arasındaki bağlantıyı dengeleyici biçimde etkilediğini gösterir: okuryazarlığı daha güçlü olan öğrenciler YZ geri bildiriminden daha büyük öz-düzenlemeli öğrenme yararı algılar, okuryazarlığı daha zayıf olanlar ise asgari hatta olumsuz ([[cognitive-offloading|Over-Reliance]]) etkiler gösterir. Geri bildirim okuryazarlığı, öğrencilerin YZ geri bildirimini “anlamlandırıp anlamlandıramayacağı”na ilişkin bir sınır koşuludur.
 
-- **GenAI kullanımından kritik düşünmeye giden yol olarak geri bildirim okuryazarlığı:** 421 Çinli lisans öğrencisinde, GenAI kullanımının öz-bildirimli kritik düşünmeyle ilişkisi neredeyse tamamen GenAI [[feedback-literacy]] üzerinden yürüdü (β = 0.185, toplam etkinin %71,98’i) ve bu yol, yansımalı düşünme arttıkça güçlendi (dengelemeli aracılık indeksi = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
+- **GenAI kullanımından kritik düşünmeye giden yol olarak geri bildirim okuryazarlığı:** 421 Çinli lisans öğrencisinde, GenAI kullanımının [[self-report-measures|öz bildirimli]] kritik düşünmeyle ilişkisi neredeyse tamamen GenAI geri bildirim okuryazarlığı üzerinden yürüdü (β = 0.185, toplam etkinin %71,98’i) ve bu yol, yansımalı düşünme arttıkça güçlendi (dengelemeli aracılık indeksi = 0.030) ([[genai-use-critical-thinking-moderation-2026|Yan et al. (2026)]]).
+
+- **Okuryazarlık ile etken katılım arasındaki döngü iki yönde de işler.** 399 Çinli lisans öğrencisiyle yürütülen üç dalgalı rastgele kesişimli panel, YZ geri bildirim okuryazarlığının sonraki etken katılımı öngördüğünü (β = 0.222) ve ters yolun da en az onun kadar güçlü olduğunu (β = 0.263) bulmuştur; Wald testi iki katsayının büyüklüğünü birbirinden ayıramamıştır ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
+
+**Rakip bir eğilim: ödüle duyarlılık.** Nota dayalı ödül duyarlılığı, [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]] için güvenilirlik ile algılanan öğrenme arasındaki bağı zayıflatmıştır (düşük, ortalama ve yüksek duyarlılıkta basit eğimler 0.733, 0.607 ve 0.483); bu, öğrencilerin notlara yönelik araçsal yönelimini, geri bildirim okuryazarlığı araştırmasının geri bildirimi kullanmaya yönelik geliştirilebilir bir eğilim olarak konumlandırdığı yere yerleştirir.
+
+- **Revizyon kazanımını eyleme dönüştürülebilirlik değil anlam çıkarma taşımıştır.** Her biri 48 öğrenciden oluşan iki mevcut sınıfta üç yazma-geri bildirim-revizyon döngüsü boyunca revizyon niteliğiyle en çok ilişkili boyut anlam çıkarma (r = 0.501) olmuş, onu eyleme dönüştürülebilirlik (r = 0.480) ve tanısal doğruluk (r = 0.445) izlemiştir; tanısal koşulun eklediği şey, bağımsız revizyondan önce okunan bir yorumlama sayfasıdır ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao ve Fan (2026)]]).
 
 - **Geri bildirim okuryazarlığı YZ destekli yazımdan öğrenmeyi öngörür:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]], bir YZ destekli kompozisyon yazma görevinde geri bildirim okuryazarlığının kompozisyon notunun tek anlamlı olumlu öngörücüsü olduğunu bulurken, [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] bir YZ Geri Bildirim Okuryazarlığı (AIFL) ölçeği geliştirip doğrular ve bunun geri bildirim kullanımını öngördüğünü gösterir.
 
 - **[[generative-ai|GenAI]] destekli geri bildirim [[student-engagement|engagement]] için çerçeveler:** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan (2025)]] (Boud ve Dawson önde gelen geri bildirim okuryazarlığı bilginleridir), GenAI’nın öğrenci geri bildirim etkileşimini *olanaklandırabileceğini* savunur; döngüsel bir öz-[[regulation]] geri bildirim modelini çıkarma/işleme/hayata geçirme evrelerine eşler.
 
-- **YZ geri bildirimi, öğretmenin çerçevelemesi olmadan gelir:** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]], GenAI’nın geri bildirim okuryazarlığını *daha* zorlayıcı hale getirdiğini savunur; çünkü yanıtlar etkileşimli biçimde ve öğretmenin anında çerçevelemesi olmadan üretilir: öğrenciler bunları yorumlamak, değerlendirmek, onlarla etkileşime geçmek ve kullanmak zorundadır — bir yanıtın ne zaman fazla soyut olduğuna, ne zaman üzerinde ısrar edileceğine ve ne zaman geleneksel kaynaklara dönüleceğine karar vermek dâhil. Sekiz değiş tokuşlu gösterimlerinde, basitleştirme ve kullanılabilir yapı yalnızca öğrenen müdahalelerinden sonra ortaya çıktı; bu da geri bildirim etkileşiminin çıkarma/işleme/hayata geçirme döngüsünü öğrencinin yürütmesi gereken bir şey haline getiriyor ([[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]] o döngüyü GenAI için eşlemişti; [[self-regulated-learning]]).
+- **YZ geri bildirimi, [[teacher-role|öğretmenin]] çerçevelemesi olmadan gelir:** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]], GenAI’nın geri bildirim okuryazarlığını *daha* zorlayıcı hale getirdiğini savunur; çünkü yanıtlar etkileşimli biçimde ve öğretmenin anında çerçevelemesi olmadan üretilir: öğrenciler bunları yorumlamak, değerlendirmek, onlarla etkileşime geçmek ve kullanmak zorundadır — bir yanıtın ne zaman fazla soyut olduğuna, ne zaman üzerinde ısrar edileceğine ve ne zaman geleneksel kaynaklara dönüleceğine karar vermek dâhil. Sekiz değiş tokuşlu gösterimlerinde, basitleştirme ve kullanılabilir yapı yalnızca öğrenen müdahalelerinden sonra ortaya çıktı; bu da geri bildirim etkileşiminin çıkarma/işleme/hayata geçirme döngüsünü öğrencinin yürütmesi gereken bir şey haline getiriyor ([[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan]] o döngüyü GenAI için eşlemişti; [[self-regulated-learning]]).
 
 - **YZ destekli yazım ve EAP’te geri bildirim okuryazarlığı:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] ve [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]], öğrencileri yazım revizyonu sırasında YZ geri bildirimiyle eleştirel biçimde etkileşime geçmek üzere eğitir; revizyonu yüzey düzeyinde düzenlemelerden çok argüman düzeyinde iyileştirmeye kaydırır.
 
@@ -63,11 +69,16 @@ Geri bildirim okuryazarlığı yaygın biçimde birbiriyle ilişkili yetenekler 
 
 - **Akran geri bildirimi ve geri bildirim okuryazarlığı:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]], GenAI’yı İngilizceyi yabancı dil olarak öğrenenlerde akran geri bildirimi içinde konumlandırarak geri bildirim okuryazarlığını eğitir ve konuşma derslerinde kullanımı olanaklandırır; [[scaffolding-srl-feedback-genai-human-peers|scaffolding studies]] ise öz-düzenlemeli geri bildirimi beslemede GenAI ile insan akranları karşılaştırır.
 
-- **Kalıcı, başvurulabilir veri olarak depolanan geri bildirim.** ChatGPT’yi bir e-portföyle eşleştirmek, konuşma performansını ve geri bildirim okuryazarlığını birlikte yükseltti (ikincisi için kısmi η² = 0.218); çünkü öğrenciler öğretim elemanından, akranlardan ve YZ’den gelen arşivlenmiş geri bildirimi, tek seferlik bir düzeltmeden çok uzlaştırılacak veri olarak ele aldı ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
+- **Kalıcı, başvurulabilir veri olarak depolanan geri bildirim.** ChatGPT’yi bir [[eportfolio|e-portföyle]] eşleştirmek, konuşma performansını ve geri bildirim okuryazarlığını birlikte yükseltti (ikincisi için kısmi η² = 0.218); çünkü öğrenciler öğretim elemanından, akranlardan ve YZ’den gelen arşivlenmiş geri bildirimi, tek seferlik bir düzeltmeden çok uzlaştırılacak veri olarak ele aldı ([[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]]).
 
-- **Öğrenme analitiği ve GenAI panolarında geri bildirim okuryazarlığı:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]], öğrencilerin GenAI destekli [[learning-analytics]] geri bildirimini geri bildirim okuryazarlığı perspektifinden nasıl algıladığını inceler.
+- **Öğrenme analitiği ve GenAI [[visualization|panolarında]] geri bildirim okuryazarlığı:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]], öğrencilerin GenAI destekli [[learning-analytics]] geri bildirimini geri bildirim okuryazarlığı perspektifinden nasıl algıladığını inceler.
 
-- **YZ okuryazarlığının ve değerlendirme tasarımının hedefi olarak geri bildirim okuryazarlığı:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]], öğrencilerin ChatGPT çıktısını bir rubriğe karşı eleştirdiği, geri bildirim, psikolojik ve YZ okuryazarlıklarını birlikte kuran bir süreç-ürün-üzerine değerlendirme kullanır; [[learner-centered-feedback-ai|learner-centered AI feedback]] ve [[care-full-feedback-genai|care-full feedback design]] geri bildirim niteliğini öğrenenin etkileşime geçme kapasitesine bağlar.
+- **YZ okuryazarlığının ve [[assessment|değerlendirme tasarımının]] hedefi olarak geri bildirim okuryazarlığı:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]], öğrencilerin ChatGPT çıktısını bir rubriğe karşı eleştirdiği, geri bildirim, psikolojik ve YZ okuryazarlıklarını birlikte kuran bir süreç-ürün-üzerine değerlendirme kullanır; [[learner-centered-feedback-ai|learner-centered AI feedback]] ve [[care-full-feedback-genai|care-full feedback design]] geri bildirim niteliğini öğrenenin etkileşime geçme kapasitesine bağlar.
+
+
+- **Geri bildirim okuryazarlığı öğretilebilir ve YZ alıştırma malzemesini sağlayabilir.** Kavramsal bir kılavuz, eğitmenlerin tüm ölçütleri karşılayan, bir kısmını karşılayan ve hiçbirini karşılamayan derecelendirilmiş bir YZ çalışma örneği yelpazesi üretmesini, ardından öğrencileri örneklenmiş eleştiri, yönlendirilmiş sınıf analizi ve bağımsız değerlendirme yoluyla yönlendirmesini önerir ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington ve Hock (2026)]]).
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], geri bildirim okuryazarlığını uygulama yoluyla geliştirilebilir bir kapasite olarak ele alır: yorum üretmek için üretken YZ ile diyalojik biçimde çalışan İngilizceyi yabancı dil olarak öğrenen akran değerlendiricileri, yalnızca sundukları yorumları değil, geri bildirimi yargılama ve kullanma kapasitelerini de geliştirmiştir.
 
 ### Geri bildirim okuryazarlığı neden Eğitimde YZ açısından önemli
 
@@ -79,7 +90,15 @@ YZ, geri bildirimi hem değerlendirim okuryazarlığının oyununu yükselten ik
 
 Geri bildirim okuryazarlığı [[ai-feedback-quality]] ve [[feedback|Feedback Loop]] (tamamladığı sunum tarafı), [[formative-assessment]] (beslediği değerlendirme döngüsü) ve [[self-regulated-learning]] (desteklediği [[self-assessment]] ve uyum) ile bağlantılıdır. YZ tarafından üretilen geri bildirime uygulandığında [[ai-literacy]]’nin bir alt kümesidir, işbirlikçi bağlamlarda [[peer-assessment]] ile kesişir ve özellikle [[writing-education]] için sonuç açısından önemlidir. Ayrıca [[metacognition]] ve [[trust-calibration]] — geri bildirimin güvenilir olup olmadığına karar verme yeteneği — ile de bağlantılıdır.
 
-Geri bildirim üzerine hareket etmek, ürünü iyileştirmekle aynı şey değildir. 22 matematik öğretmeni adayı arasında, YZ ve akran geri bildirimini seçici biçimde kabul etmek normdu (44 bölümden 32’sinde), oysa yalnızca beşi tasarladıkları görevin niteliğini iyileştirdi — yazarların geri bildirim kullanımından çok değerlendirici yargıya bağladığı bir çeviri boşluğu ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+Geri bildirim üzerine hareket etmek, ürünü iyileştirmekle aynı şey değildir. 22 matematik öğretmeni adayı arasında, YZ ve akran geri bildirimini seçici biçimde kabul etmek normdu (44 bölümden 32’sinde), oysa yalnızca beşi tasarladıkları görevin niteliğini iyileştirdi — yazarların geri bildirim kullanımından çok [[evaluative-judgment|değerlendirici yargıya]] bağladığı bir çeviri boşluğu ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
+## Yaygın yanlış anlamalar
+
+- **“YZ geri bildirimi kritik düşünmeyi doğrudan iyileştirir.”** **421 Çinli lisans öğrencisinde** GenAI kullanımının [[self-report-measures|öz bildirimli]] kritik düşünmeyle ilişkisi **geri bildirim okuryazarlığı üzerinden** yürüdü. Aracı değişken okuryazarlığın kendisidir, dolayısıyla YZ geri bildirimi ekleyen ama onu okuma kapasitesini kurmayan bir müdahale yanlış terime yönelir.
+
+- **“Okuryazarlık bir ön koşuldur, bir çıktı değil.”** **399 Çinli lisans öğrencisiyle yürütülen üç dalgalı rastgele kesişimli panel**, YZ geri bildirim okuryazarlığının **sonraki** etken katılımı öngördüğünü bulmuştur (**β = 0.222**), yani döngü iki yönde de işler. Okuryazarlık bir kez geçilecek bir eşik değil, dinamik bir süreçtir.
+
+- **“Yazıyı değiştiren şey eyleme dönüştürülebilirliktir.”** **Her biri 48 öğrenciden oluşan iki mevcut sınıfta** üç yazma-geri bildirim-revizyon döngüsü boyunca revizyon kazanımını taşıyan boyut **anlam çıkarma** olmuştur. Öğrencinin çözümleyemediği bir geri bildirim, daha eyleme dönüştürülebilir kılınarak iyileşmez.
 
 ## Bağlı kavramlar
 
@@ -122,3 +141,7 @@ Geri bildirim üzerine hareket etmek, ürünü iyileştirmekle aynı şey değil
 - [[repeated-ai-writing-feedback-semester]] — Bir dönem boyunca yinelenen YZ yazma geri bildirimi
 - [[student-perspectives-ai-writing-grading-2026]] — İşimi Kim Puanlamalı? Yükseköğretimde Şeffaf YZ Destekli Yazma Değerlendirmesine İlişkin Öğrenci Görüşleri
 - [[genai-use-critical-thinking-moderation-2026]] — GenAI kullanımından kritik düşünmeye giden yol GenAI geri bildirim okuryazarlığı üzerinden yürüdü, yansımalı düşünmeyle güçlendi
+
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — YZ geri bildirim okuryazarlığı ve etken katılım: üç dalgalı rastgele kesişimli panel (Xu 2026)
+- [[ai-feedback-literacy-assessment-as-learning-2026]] — Geri bildirim okuryazarlığını öğretmek için rubrikle derecelendirilmiş çalışma örnekleri üretmek (Pennington ve Hock 2026)
+- [[automated-scoring-learning-diagnosis-mechanism-2026]] — Revizyon kazanımını eyleme dönüştürülebilirlik değil anlam çıkarma taşıdı

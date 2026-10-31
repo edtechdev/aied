@@ -9,7 +9,7 @@ discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,16 @@ Kimya eğitimi, daha geniş [[stem-education]] alanının içinde yer alır ve [
 - **YZ’yi yapılandırılmış, bağlam temelli pedagojiyle birleştirin.** [[context-based-ai-secondary-chemistry-2026|7E + PhET + ChatGPT]], yalnızca sorgulama temelli ve geleneksel öğretimi geride bırakmıştır; bu da YZ’nin köklü bir öğretim modeli içinde en iyi biçimde işlediğini göstermektedir.
 - **Epistemik kaymaya ve aşırı güvene karşı tetikte olun.** [[philosophy-experimentation-ai-chemistry-2026|Deney felsefesi]] araştırmaları ve UNESCO rehberliği, opak YZ’nin sorgulamayı nedensel anlayıştan ayırabileceği konusunda uyarır — insan muhakemesini önceleyen değerlendirmeyi ve öğrenci etkenliğini koruyun.
 - **Açık uçlu el yazısı çalışmaları seçici biçimde değerlendirin.** 296 öğrencinin katıldığı genel kimya finalinde, çok kipli bir LLM metinsel yanıtları ve kimyasal reaksiyon denklemlerini güvenilir biçimde puanlamış, ancak çizim ve grafik çizimini rastgeleden daha kötü değerlendirmiştir (arka plan ızgaraları YZ görüşünü görsel olarak dağıtmaktadır); bir [[item-response-theory|IRT]] temelli risk filtresi ile [[human-in-the-loop-ai|grafiksel maddelerin insanlara devredilmesi]] eşlik ettiğinde otomasyon, [[summative-assessment|etkili değerlendirme]] kullanımı için savunulabilir hale gelmiştir ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
+
+## Yaygın yanlış anlamalar
+
+**“Kimya açıklayabilen bir model, dolayısıyla kimya yapabilir.”** Yetenekler tam da bir kimya dersinin sınadığı yerlerde ayrışır. Sistematik kanıt, büyük dil modellerinin temel terimleri tanımlayabildiğini, ancak **katı nicel görevlerde zayıf** performans gösterdiğini, **NMR yorumu gibi uzamsal akıl yürütmede** zorlandığını ve her ikisinde de **aşırı güven** sergilediğini göstermektedir. Akıcı sözel açıklama üzerine kurulu bir öğretici, konunun en kolay olduğu yerde güçlü görünecek, en zor olduğu yerde başarısız olacak, ancak baştan sona eşit derecede kendinden emin bir ton taşıyacaktır.
+
+**“Açıklamanın akıcılığı, güvenilirlik için makul bir vekildir.”** Akıcılığın vekilidir. Öğretim açısından işlevsel olan bulgu aşırı güvendir: yanlış bir uzamsal ya da nicel yanıtı doğru bir yanıtla aynı tonla veren bir sistem, öğrenenin denetleme ipucunu ortadan kaldırır; bu nedenle doğrulama, tondan çıkarılmak yerine görevin içine yerleştirilmelidir.
+
+**“Mevcut bir sorgulamaya dayalı derse YZ eklemek zarar vermez.”** Zarar verebilir ve yarar gösteren karşılaştırma kulağa geldiğinden dardır. [[context-based-ai-secondary-chemistry-2026|Abdikayumova ve Madybekova]], 10. sınıf kimyası için **7E öğretim modelini** PhET simülasyonları *ve* ChatGPT özel dersiyle birleştirmiş ve yalnızca sorgulamaya dayalı ya da geleneksel öğretime kıyasla anlamlı biçimde daha yüksek başarı ve katılım bulmuştur. Müdahale, yapılandırılmış birleşimdir: bir öğretim modeli artı simülasyonlar artı özel ders; sohbet robotunun tek başına kendisi değildir ve yapılandırılmamış sorgulamaya eklenen bir sohbet robotu bu sonuçla sınanmamıştır.
+
+**“Kimya, yanıtın denetlenebilir olduğu bir ders olduğundan YZ hataları zararsızdır.”** Denetlenebilir yanıtlar, yanlış akıl yürütmenin fark edilmeden geçmesinin yoludur: kötü akıl yürüten bir modelden doğru bir değer alan öğrencinin bu eksikliği saptamasının hiçbir yolu yoktur ve değerlendirme başarıyı kaydeder. Nicel bir disiplinde doğrulanabilir son nokta, anlamanın en zayıf kanıtıdır.
 
 ## Bağlı kavramlar
 

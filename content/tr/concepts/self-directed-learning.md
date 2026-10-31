@@ -9,7 +9,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [matt-pocock-skills]
 translation_of: concepts/self-directed-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,33 @@ SDL, öğrenci kaynaklı yönlendirmeyi vurguladığından, onu korumaya yöneli
 ## Araştırmaya Dayalı Öğrenmede YZ ile Bilgi Çıkarımı İskelelemesi
 
 - **Araştırmaya dayalı öğrenmede iskele olarak bilgi çıkarımı.** An ve arkadaşları (2026), [[stem-education|STEM]] alanında lisans tez tamamlanmasını desteklemek için araştırma yayınlarını yapılandırılmış, izlenebilir veri kümelerine dönüştüren bir YZ destekli bilgi çıkarım sistemi tasarlar; bu sistem, düşük düzeyli veri işleme taleplerini azaltırken kanıt–iddia ilişkilerinin incelenmesini mümkün kılan bir **epistemik iskele** olarak konumlandırılır. 80 belge üzerinde 20 öğrencili bir [[mixed-methods-research|mixed-methods]] pilotunda öğrenenler hedeflenen parametrelerin %90’ından fazlasını çıkardı, özyeterlilikle bildirilen literatür taraması süresi ~%65 düştü ve etkili değişkenleri belirleme becerileri %50 arttı — bu durum, [[generative-ai|AI]]’nin bilişsel yükü düzenli özetlemeden ziyade üst düzey, öz yönlendirilmiş araştırma akıl yürütmesine doğru yeniden dengelediği fikrini desteklemektedir.
+
+## Yaygın yanlış anlamalar
+
+**“Öz yönlendirilmiş öğrenme ile öz düzenlemeli öğrenme aynı yapıdır.”** Farklı zaman ölçeklerinde işlerler: SRL öğrenmenin an içindeki düzenlenmesiyle ilgilenirken, SDL zaman içinde üst düzey sorumlulukla ilgilenir: neyin öğrenileceğini seçmek, hedefi belirlemek ve yönü aylar boyunca korumak. An an düzenlemeyi iyileştiren bir müdahale, öz yönlendirilmiş bir öğrenen üretmek zorunda değildir; ve bir öğrenci bir program boyunca öz yönlendirilmiş olurken tek bir oturum içinde zayıf düzenleme yapabilir.
+
+**“YZ yapı sağladığı için öz yönlendirilmiş öğrenmeyi kolaylaştırır.”** Becerinin icrasını ortadan kaldırabilir. [[genai-thoughtless-use-self-directed-learning-2026|Zhao ve Gu (2026)]], **GenAI’nin düşünmeden kullanımının (çıktıları eleştirel değerlendirme olmadan benimsemenin) SDL’yi anlamlı biçimde zayıflattığını** göstermektedir. Kişinin kendi öğrenmesini yönlendirmesi, GenAI’nin artık kendisi için verebileceği kararları vererek pratik edilir; dolayısıyla her zaman yön sağlayan bir asistan, yönü geliştirilmekte olan yetkinliğin yerine sağlar.
+
+**“YZ’yi kullanmamak, erişim eksikliğine işaret eder.”** Kullanmayan öğrenciler arasında belirtilen gerekçe çoğu zaman bir engel değil, olumlu bir eğitimsel seçimdir: işi kendileri yapmak istemek. Kullanmamayı bir eksiklik olarak okumak, [[student-experience]] kanıtında gerekçeli olan bir konumu yanlış betimler.
+
+**“Öz yönlendirme tek başına çalışmak demektir.”** Yönün sahipliğini üstlenmek demektir; bu, yoğun biçimde desteklenen bir ortamda da uygulanabilir. Ayırt edici özellik, yardımın mevcut olup olmadığı değil, hedefi kimin belirleyip ayarladığıdır.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Neyi geliştirdiğinizi ayırt edin: oturum içi düzenleme mi, zaman içinde sahiplik mi. İkisi farklı tasarımlar gerektirir ve birini iyileştirmek diğerini üretmez.
+- Öz yönlendirmeyi oluşturan kararları koruyun (neyin öğrenileceği, ilerlemenin nasıl yargılanacağı, ne zaman rota değiştirileceği), YZ bunları verebilecek olsa bile. Bunları devretmek pratiği ortadan kaldırır.
+- Değerlendirmeyi kullanımla birlikte öğretin; çünkü çıktıların düşünmeden benimsenmesi, GenAI’nin SDL’yi zayıflatmasının belgelenmiş mekanizmasıdır.
+
+**Geliştiriciler için**
+
+- Öğrenenin kararlarını varsayılan olarak belirlemek yerine görünür ve revize edilebilir kılın. Her zaman yön sağlayan bir sistem, yönü geliştirilmekte olan yetkinliğin yerine sağlar.
+- Öğrenenin hedefini ve kanıtını belirttiği yansıtma denetim noktaları kurun; böylece yön onun kalır.
+
+**Araştırmacılar için**
+
+- Bir müdahalenin hangi yapıyı hedeflediğini raporlayın; SDL ve SRL çıktıları birbirinin yerine kullanılmamalıdır.
 
 ## Bağlı kavramlar
 

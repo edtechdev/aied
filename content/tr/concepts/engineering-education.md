@@ -11,7 +11,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-30T10:14:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ Mühendislik eğitimi araştırması, mesleki oluşum ile titiz STEM içeriğini
 - **YZ'yi disiplinin içine gömmek, yanına değil:** proje temelli bir termal mühendislik müfredatı, bilgisayar bilimi dersleri eklemek yerine makine öğrenimini giriş, uygulama ve ileri düzey kapsamında mevcut termal konulara katmış; yalnızca asgari giriş koşullarını karşılayan lisans öğrencileri, lisansüstü akranlarından daha zayıf projeler üretmiştir ([[mechanical-engineering-ai-curriculum-2026|Li et al. (2026)]]).
 - **[[intelligent-tutoring|AI tutoring]] ve [[quantitative-research|quantitative]] mühendislik dersleri için geri bildirim:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]], lisans düzeyi bir Mühendislik Ekonomisi dersinde Hesaplanmış Formül Sorularına gerçek zamanlı, kişiselleştirilmiş geri bildirim sağlayan Arthur adlı bir YZ öğretim asistanı sunmaktadır — kâğıt-kalemle ve yapılandırılmamış çözümlerin önceki YZ desteğini engellediği bir alan. Tam yaşam döngüsü hattı (daha önce puanlanmış el yazısı gönderilerin seçilmesi, rastgele maskeleme ile [[machine-learning|data augmentation]], soru başına XGBoost tanı omurgaları ve diyalog temelli bir soru bankası web arayüzü), yapılandırılmış dijital veriden yoksun mühendislik derslerinde [[ai-feedback-quality|AI feedback]] için ölçeklenebilir bir yol sunmakta olup çerçeve, diğer mühendislik disiplinlerindeki CFQ'lara genelleştirilmek üzere tasarlanmıştır.
 - **Sürdürülebilirlik için YZ, modüler değil bütünleşik.** Dört sütunlu AI-SEE çerçevesi (zekâ kaynaklı, yeşil güçlendirmeli, sorumluluk öncülüğünde, uygulamaya bütünleşik), YZ'yi mühendislik ders yükü boyunca dağıtmaktadır; 144 öğrencili bir ulaştırma mühendisliği örneğinde, öğrenciler kişisel, akademik, mesleki ve sosyal düzeylerde katılım bildirmiş ve sürdürülebilirlik akıl yürütmesi ailelere ve akran ağlarına taşınmıştır ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
+
+- **Geri bildirim güvenilirliğini itiraza karşı belirleyen şey istek metni değil model seçimidir.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis ve ark. (2026)]], doğrulanmış 200 iki boyutlu kafes problemi kurmuş ve on üç modeli üç duruşta sınamıştır: çözme, öğrencinin yanlış olduğunu ısrarla savunduğu doğru bir çözümü onaylama ve yerleştirilmiş bir hatayı bulma. Çözme doğruluğu %64,5 ile %97,0 arasında değişmiş ve her model yerleştirilmiş hataların en az %90,4’ünü yakalamıştır; dolayısıyla hiçbiri alanı ayırmamıştır. Alanı itiraza direnç ayırmıştır: %46,5 ile %98,5 arasında. Bir statik dersi için öğretmenlik riski yanlış bir nihai yanıt değil, öğrenci doğru işten haksız yere kuşku duyduğunda aynı fikirde olan bir modeldir; yazarlar güvenilirliğin ücretli katmanları izlemesi durumunda öğrencilerin aldığı geri bildirimin kurumlarının lisanslayabildiğine göre değişeceğini not eder.
 - **Araç zengini bir stüdyo, ürünü geliştirmeden özyeterliği düşürebilir.** 27 öğrencili bir mimari tasarım stüdyosunda, üretken YZ artı [[virtual-and-augmented-reality|XR]] hattını kullanan ekipler, denetim grubuna göre tasarım [[self-efficacy]] (β = −1.675) ve sonuç beklentisinde (β = −2.088) daha büyük ön–son düşüşler göstermiş; öğrenci başına bir gözlük ise koordineli bir iş birliği üretmemiştir ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
 
 ## İmza kaygıları
@@ -64,6 +66,8 @@ Mühendislik eğitimi [[stem-education]] içinde yer alır ve [[cs-education]] (
 
 Bilgi tabanının mühendislik eğitimi kapsamı hâlâ gelişmektedir. Daha fazla makalenin yarar sağlayacağı alt alanlar arasında **[[discipline-specific-aied|discipline-specific]] mühendislik [[pedagogy|pedagogies]]** (makine, inşaat, kimya, elektrik, yazılım ve biyomühendislik eğitimi), **[[design-education|design]] ve yapım (maker) eğitimi**, **bitirme projesi ve [[project-based-learning|project-based learning]]** ve **mühendislik etiği eğitimi** yer alır — YZ'nin rolunun özellikle sonuçları olacağı alanlar.
 
+Bu boşluk artık bir alanda boş değildir: üç yıllık bir biyomedikal mühendisliği programı, üretken YZ’yi dört modüllü bir PBL dizisi içinde denetimli bir bilgi özetleme ve kodlama iskelesi olarak yürütmüş (onaylı araçlar, hasta verisi yok, açıklama günlükleri) ve YZ öncesi kohortlarda %39,1 olan A oranlarına karşılık %66,4 oranında A bildirmiştir ([[pbl-biomedical-engineering-genai-2026|Nnamdi ve ark. (2026)]]).
+
 ## Mühendislik öğretim görevlileri için çıkarımlar
 
 - **YZ hakkında paylaşılan, doğru bir dil oluşturun.** [[engineering-faculty-metaphors-ai-understanding-2026|Faculty metaphor research]], öğretim görevlilerinin temelde farklı zihinsel modeller (ajan ve araç karşısında) benimsediğini bulmaktadır; politika oluşturmadan önce bölüm düzeyinde anlayışı hizalayın.
@@ -73,6 +77,12 @@ Bilgi tabanının mühendislik eğitimi kapsamı hâlâ gelişmektedir. Daha faz
 - **Eleştirel kullanımı ve uygun bel bağlamayı modelleyin.** [[tam-critical-use-genai-engineering-2026|Critical-use TAM research]], öğrencilerin anlama görevlerinde YZ'ye yoğun biçimde bel bağladığını ancak değerlendirmede daha az bel bağladığını göstermektedir — onları görev türleri boyunca uygun, doğrulanabilir bel bağlamaya yönlendirin.
 
 - **YZ kullanımını sınıf içinde bir beceri olarak öğretin.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]], dersin sonunda her biri 10–15 dakika süren ve araç okuryazarlığından stratejik devretmeye, ardından model değerlendirmesine sıralanan dokuz öğretim görevlisi yönetiminde gösteri yürütmüştür — ancak değerlendirmeyle bir bağlantı görmeyen öğrenciler bunları gereksiz bulmuştur; bu nedenle gösterileri notlandırılan işlere bağlayın.
+
+## Yaygın yanlış anlamalar
+
+- **“Mühendislik öğrencileri arasında YZ benimsemesi bir teknoloji kabulü sorunudur.”** [[socio-cognitive-genai-adoption-engineering-2026|Asag ve Al Mamun]], Bangladeşli mühendislik öğrencilerinin benimsemesini modellemek için TAM’ı [[technology-acceptance-model|UTAUT]] ile bütünleştirir ve varyansın **%64’ünü açıklar**; dolayısıyla önemli bir pay, kabul yapılarının dışında, modelin kapsamadığı sosyal ve bilişsel etkenlerde kalır.
+- **“Öğrenciler YZ’yi en iyi olduğu iş için kullanır.”** [[ai-engineering-education-balancing-act|Kudina (2026)]], **100 mühendislik öğrencisinin** LLM’leri mühendislik akıl yürütmesi için değil **yazma desteği** için en değerli bulduğunu bulmuştur. Araç için kurdukları mecazlar aracın sunduğunun ötesine geçmiş ve fiilî kullanımları yetenekten çok kolaylığı izlemiştir.
+- **“Daha zengin bir araç yığını tasarım çıktılarını iyileştirir.”** **27 öğrencili** bir mimari tasarım stüdyosunda, üretken YZ artı [[virtual-and-augmented-reality|XR]] hattını kullanan ekipler **ürün iyileşmeden bastırılmış özyeterlik** göstermiştir. Araç zenginliği, artefaktı değiştirmeden güveni tüketebilir.
 
 ## Bağlı kavramlar
 
@@ -91,6 +101,8 @@ Bilgi tabanının mühendislik eğitimi kapsamı hâlâ gelişmektedir. Daha faz
 - [[generative-ai]]
 
 ## Bağlı makaleler
+
+- [[apostolakis-trusstutor-bench-statics-2026]] — Statik kıyaslaması: çözme ve hata saptama doygunluğa ulaşıyor, itiraza direnç ulaşmıyor
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
@@ -100,7 +112,6 @@ Bilgi tabanının mühendislik eğitimi kapsamı hâlâ gelişmektedir. Daha faz
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)

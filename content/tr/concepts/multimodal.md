@@ -10,7 +10,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ YZ’de çok kiplilik, yalnızca metin yerine farklı temsil biçimleri üzerind
 
 ## Eğitimde çok kipli YZ’nin üç yüzü
 
+
 ### 1. Çok kipli öğrenme ve içerik üretimi
 
 Çok kipli YZ, öğrenenlerin metin, görüntü, ses ve video üzerinde içerik üretmesini ve etkileşime girmesini sağlar. Üretken YZ ile çok kipli öğrenmeye dair bir eğitimci rehberi bu araçları "siber-sosyal" bir ortak olarak konumlandırır: insan anlam yapımını tamamlar — ama yerini alamaz.([[multimodal-learning-genai]])
@@ -46,6 +47,7 @@ YZ’de çok kiplilik, yalnızca metin yerine farklı temsil biçimleri üzerind
 - **Çok kipli bağlamlarda [[ai-literacy|YZ okuryazarlığı]]** katmanlıdır: çok kipli platformların temel farkındalığı, çıktıların orta düzey eş-yaratımı ve [[critical-thinking|eleştirel değerlendirmesi]] ile çok kipli etkinlik ve değerlendirmelerin ileri düzey tasarımı.([[multimodal-learning-genai]])
 - **Çok kipli istek isteme** kendisi zorlayıcı bir bilgilsel uygulamadır. Görüntü kadar metin için de istek isteyen öğrenciler, "istek metni okuryazarlığının metin için istek istemek ile görüntü için istek istemek arasında farklı olduğunu" keşfeder — soyut anlamı makine tarafından okunabilir çok kipli istek metinlerine çevirmek, kesin bir görsel sözcük dağarcığı gerektirir ve sistem sınırlarını ve önyargısını açığa çıkarır.([[multimodal-prompting-ai-literacy]])
 - **Çok kipli değerlendirme**, metin, görüntü, ses ve videoyu birleştiren eserden kompozisyonlara kayar; eğitimciler YZ’yi öğrenenin kendi üretiminin yerini almak yerine üretimi ve geri bildirimi [[scaffolding|iskelemek]] için kullanır.([[multimodal-learning-genai]])
+- **Kip seçimi bir eğitim yargısıdır, bir kap değil.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]], yazılı, sözlü, dijital ve çok kipli biçimler arasında seçim yapmanın öğrenenler için neyin mümkün olacağını ve değerlendiriciler için neyin görünür olacağını belirlediğini savunmakta ve kipler arasında denetimli seçimi idari bir ayrıntı değil, üretici bir kısıt olarak saymaktadır.
 - **Eleştirel düşünme iskelesi olarak öğrenen çok kipli besteleme bir ödünleşim taşır.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu ve ark. (2027)]], üst ilkokul öğrencilerinin yazılı anlatıları YZ üretimi görüntülere ve kısa videolara dönüştürmesinin yorumlama, analiz, değerlendirme ve açıklamada sürdürülebilir kazanımları desteklediğini ama çıkarımı desteklemediğini gösterir — görseller öykü anlamını açık hale getirdiğinden, öğrencilerin yalnızca metinden örtük anlam çıkarma ihtiyacının azaldığını bildirdi; akran iş birliği, çok kipli araç değil, çıkarım fırsatlarını geri getirdi. Çok kipli YZ’nin anlam yapımı ortağı olarak değeri böylece boyuta özgüdür ve dışsallaştırmanın kısa devre yaptığı çıkarımsal ve [[self-regulated-learning|öz-düzenleyici]] işi kasten yeniden tanıtan [[learning-design|öğretim tasarımına]] bağlıdır.
 - **Eleştirel YZ okuryazarlığı olarak öğrenen çok kipli [[writing-education|bestesi]].** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss ve ark. (2026)]], 22 on birinci sınıf öğrencisinin kendi seçtikleri YZ [[ethics]] konuları üzerine 90 saniyeden 3 dakikaya kadar video kamu hizmet duyurularını — okul düzenlemeli dizüstü bilgisayarlar ve elektronik "geçiş belgeleri" üzerinden gözetim, [[privacy|bilgilendirilmiş onay]] ve cezalandırıcı algoritmik suçlama — hareketli görüntü, ses, metin ve öğrencilerin kendi bedenleri arasında besteleyerek gerçekleştirilen [[ai-literacy|eleştirel YZ okuryazarlığı]] olarak analiz eder. Yedi filmin tamamında zarar, araçtan tek başına değil insan–makine dolaşımından doğar biçiminde betimlendi (insanlaştırılmış bir "YZ takipçisi", yedide üçünde bir insan aktör tarafından canlandırıldı) ve birim sonu yanıtlarının 18’inden 15’i, bestelemenin YZ etiği anlayışlarını değiştirdiğini söyledi. Yazarlar, çok kipli ürünlerin eleştirel yetkinliği hem *gösterdiğini* hem *ilettiğini* savunur — üretken eserler, yansımalar ve yurttaş söylemi, yalnızca metin okuryazarlığının yapısal olarak kaçırdığı [[assessment]] kanıtı olarak hizmet edebilir.
 
@@ -91,6 +93,16 @@ Pratik tasarım çıkarımı, çok kipli öğretimde bir **görsel temellendirme
 5. **Eşitlik ve mahremiyeti izleyin.** Görüntü açısından zengin problemlerde güvenilmez destek ve çok kipli algılamanın veri talepleri eşitlik ve mahremiyet çıkarımları taşır.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Boru hattını içeriğe eşleyin.** Bir siber güvenlik laboratuvarı asistanının çok kipli YZ’si yoğun görsel slaytlara daha iyi hükmetti, oysa OCR-artı-YZ boru hattı metin merkezli slaytlarda karşılaştırılabilir öğretim değerini anlamlı ölçüde daha düşük hesaplama maliyetiyle sundu.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel ve ark. (2025)]])
 
+## Yaygın yanlış anlamalar
+
+**“Çok kipli bir model çok kipli problemlerle baş eder.”** Anlam metin yerine şekil tarafından taşındığında doğruluk keskin biçimde düşer. Bir [[physics-education|fizik]] eğitmeni metin tabanlı problemlere **~%96** oranında yanıt verirken, anlamı diyagramlara gömen problemlerde **~%74**'e düşer: **Çok Kipli Girişim Etkisi**. Yirmi iki puanlık yetenek, tam da disipliner içeriğin yaşadığı yerde kaybolur.
+
+**“İstek metnine bir görüntü eklemek diyagram sorununu çözer.”** Girdi kipi darboğaz değildir; girişim öyledir. Diyagramı alıp yine de çevresindeki düzyazıdan akıl yürüten bir modele bilgi verilmiş ama kullanılmamıştır; bu yüzden iki problem biçimini karşılaştırmadıkça başarısızlık görünmez kalır.
+
+**“Çok kipli yetenek tek bir merdivendir, dolayısıyla genelde en iyi model görüntü açısından zengin görev için de en iyisidir.”** Yetenek göreve özgüdür ve genel kıyaslamalarda önde olan bir model kuvvet diyagramlarında geride kalabilir. Görüntü açısından zengin disiplinler için ilgili test, anlamın şekle gömüldüğü testtir.
+
+**“Yalnızca metin tabanlı öğretim sınırları bir müfredat sorunu değil, bir sıkıntıdır.”** Diyagramın *problemin kendisi* olduğu disiplinlerde (fizik, kimya, geometri, mühendislik, tıp) yalnızca metin tabanlı bir eğitmenin yetkinlik sınırı, değerlendirilen içeriğin kenarlarından değil, ortasından geçer.
+
 ## Bağlı kavramlar
 - [[generative-ai]]
 - [[llm]]
@@ -118,6 +130,8 @@ Pratik tasarım çıkarımı, çok kipli öğretimde bir **görsel temellendirme
 - [[arts-design-and-media-education]]
 
 ## Bağlı makaleler
+
+- [[elkington-human-centred-assessment-value-2026]] — İnsan merkezli değerlendirme, bir araya gelmeler ve üretici kısıtlar (Elkington 2026)
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Eleştirel YZ okuryazarlığı pedagojisi olarak YZ etiği üzerine video PSA bestesi (Burriss ve ark. 2026)
 - [[student-attention-estimation-fairness-2026]] — Gerçek Zamanlı Öğrenci Dikkat Tahmini için Adillik Farkında Çok Kipli Transformer Modelleme
 - [[omniphys-multimodal-physics-benchmark-2026]]

@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 
 Uzaktan gözetimli sınav bir yelpazede var olur. **Çevrim içi gözetim** tipik olarak bir insan gözetmenin öğrenciyi web kamerası veya bir kontrol merkezinden izlemesini içerir. **Otomatik/YZ temelli gözetim (AIPS)**, insanı görsel ipuçlarını — göz hareketlerini, baş duruşunu, yüz ifadelerini ve beden dilini — gerçek zamanlı olarak analiz eden [[machine-learning]] ve derin öğrenme sistemleriyle (CNN’ler, RNN’ler, LSTM’ler) değiştirir veya güçlendirir. Yaygın platformlar arasında ProctorU ve Kryterion yer alır. AIPS tipik olarak dört işlevi birleştirir: (1) kimlik doğrulama (örneğin kamera ile yüz doğrulama), (2) gezinme kısıtlamaları, (3) sınavın uzaktan yetkilendirilmesi/denetimi ve (4) kaydedilen oturumlardan rapor üretimi.
 
+- **Duruş kestirimi eşik kurallarının yerini alır ve doğruluk iddiası göründüğünden dardır.** Arif ve ark. (2026), her karede YOLOv11 ile on yedi vücut noktasını izler, duruş sapması, baş eğilimi ve üst gövde hareketi öznitelikleri türetir ve karşılıklı bilgiyle seçilmiş 30 öznitelik üzerinde tek-en-yakın-komşu KNN uygular; tek bir web kamerasından %99,56 doğruluk ve AUC 0,9957 bildirir ([[arif-automated-online-proctoring-yolov11-2026|Arif ve ark., 2026]]). Bu sayılar özel bir senaryo kümesindeki etiketlerin yeniden üretimini betimler, usulsüzlük tespitini değil.
+
 ## Avantajlar ve fırsatlar
 
 - **Çevrim içi değerlendirmede geçerliliği ve dürüstlüğü geri kazanır.** Uzaktan gözetimli sınav gerçek bir geçerlilik sorununa yanıt verir. [[online-teaching-and-learning|Çevrim içi değerlendirmede]], [[generative-ai|üretken YZ]], gözetimsiz işleri öğrenmenin bir ölçüsü olarak güvenilmez kılar: yardım almadan, denetimli, kitapsız ölçümler öğrencilerin gerçekten bildiğinin en güçlü işaretidir (bkz. [[summative-assessment]], [[generative-ai-reduced-study-time-math|gözetimli kalıcılık kanıtı]]). Herhangi bir gözetim biçimi olmadan çevrim içi sınavlar, bağımsız performans yerine YZ destekli performansı yakalayarak notları şişirebilir.
@@ -53,6 +55,7 @@ Uzaktan gözetimli sınav bir yelpazede var olur. **Çevrim içi gözetim** tipi
 - **Dürüstlük gerekçesi en büyük testten geçemedi.** 105 kurstaki 1.760 öğrenci üzerinden dört dalga boyunca, gözetimli sınav sınav kaygısını arttırdı (β = 0.60, p < 0.001) ancak hile cazibesini, algılanan zorluğu veya notları etkilemedi; böylece gözetim maliyeti caydırıcılıkla telafi edilmedi ([[conijn-fear-big-brother-proctored-exams-2022|Conijn ve ark. (2022)]]).
 - **Eşitlik ve dijital uçurum.** Cihaz bağımlılığı, istikrarsız internet, aydınlatma ve donanım çeşitliliği, kırsal ve düşük bant genişliğine sahip öğrencileri orantısız biçimde dezavantajlı duruma düşürür; model doğruluğu demografik gruplar ve ortamlar arasında değişebilir ve haksız işaretleme riski doğurur. ([[digital-divide]]), [[equity-in-ai-education]] [[nursing-education|Hemşirelik]] değerlendirmesinde gözetimli sınava ilişkin bir kapsamlı inceleme, bunun bir uç durum olmadığını gösterir: dâhil edilen altı çalışmanın dördü internet bağlantısı sorunları bildirmiş, biri sınırlı veri paketlerinin yanı sıra elektrik kesintisi bildirmiş, cihaz uyumsuzluğu, tarayıcı uzantısı hataları ve başarısız çevre taramaları olağan olmuştur — bu nedenle altyapı eşitsizliği, yalnızca model yanlılığı değil, kimin hiç değerlendirilebileceğini belirler. ([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Tespit boşlukları ve yarış.** Kimlik taklidi (fotoğraf/video maskeleme), tarayıcı kullanımı ve kopyala-yapıştır güvenilir biçimde yakalanması zor olmaya devam etmektedir; tespit doğruluğu veri kümesi sınırlılıkları, tek model değerlendirmesi ve tekrarlanabilirlik boşluklarıyla sınırlıdır. Gözetimli sınav dürüstlüğü tam olarak çözmez ve yanlış bir güvenlik duygusu yaratabilir.
+- Giydirilebilir YZ, gözetimli sınavın dayandığı davranışsal sinyali ortadan kaldırır: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin ve ark. (2026)]], YZ gözlüklerinin, kulaklıkların ve YZ etkin işitme cihazlarının bakış kayması, dikkat kayması veya duruş ipucu olmadan gizli yardım sunduğunu, dolayısıyla gözetleme ve cihaz tesliminin dayandıkları ipuçlarını yitirdiğini savunmaktadır.
 - **Yönetişim sorusu.** Gözetimin doğru yanıt olup olmadığı, [[authentic-assessment|değerlendirme yeniden tasarımına]] (sözlü, süreç temelli, [[eportfolio|portfolyo]]) karşı açık bir kurumsal karardır; uzaktan gözetimli sınav bir araçtır, eksiksiz bir çözüm değildir. ([[governance]]) Uygulama ters gittiğinde ortaya çıkan risk — puan ve olay kayıtlarına dayanan suçlamalar, yakalanan verilerin saklanması ve sonraki işlenmesi, engelli ya da anadili İngilizce olmayan öğrencilere eşit olmayan biçimde düşen kurallar — [[legal-issues-and-risks]] üzerinde haritalanmıştır.
 
 ## Kanıt tabanı
@@ -69,6 +72,12 @@ Uzaktan gözetimli sınav bir yelpazede var olur. **Çevrim içi gözetim** tipi
 - **Gizliliği koruyan mimari.** Kenar işleme, anonimleştirme ve cihaz üzerinde işleme, sürekli veri yakalamanın müdahale gücünü azaltır.
 - **Eşitlik farkında yayılım.** Çeşitli, coğrafi olarak kapsayıcı veri kümeleri ve düşük kaynaklı ortamlar için hafif modeller; güvenilir cihaza/bağlantıya sahip olmayan öğrenciler için erişilebilir alternatifler.
 - **Gözetlemeden önce eğitin.** Gözetimli sınavı, gerçekten gerektiren yüksek riskli durumlara saklayarak, kültür ve güven inşası yoluyla [[ai-literacy]] ve [[reducing-ai-misuse|sorumlu kullanımı]] teşvik etmeyi tercih edin.
+
+## Yaygın yanlış anlamalar
+
+- **“Gözetimli sınav akademik dürüstlüğü korur.”** **Dürüstlük gerekçesi en büyük testten geçemedi.** **105 kursta dört dalga ve 1.760 öğrenci** boyunca gözetimli sınav **sınav kaygısını yükseltti (β = 0.60, p < 0.001) ancak saptanabilir bir** dürüstlük yararı sağlamadı. Ölçülen etki hile üzerinde değil, öğrenciler üzerindeydi.
+- **“Daha iyi tespit yeteneği daha iyi gözetim demektir.”** **80 hakemli çalışmayı (2014-2024)** kapsayan on yıllık bir sistematik inceleme, gelişmiş ML/DL gözetiminin hileyi **daha** doğru tespit ettiğini ve bunu devreye almanın davranışı değiştirip değiştirmediğine dair hiçbir şey söylemediğini bulmaktadır. Tespit performansı sınıflandırıcının bir özelliğidir, değerlendirme rejiminin değil.
+- **“Davranışsal sinyaller usulsüzlüğün güvenilir göstergeleridir.”** Sistemler **her karede on yedi vücut noktasını** YOLOv11 ile izleyerek **duruş sapması, baş eğilimi ve üst gövde hareketi** öznitelikleri türetir. Bu yapılar vekillerdir ve işaretlenen bir duruş, bir ihlalin gözlemi değil, bir beden hakkında sınıflandırmadır.
 
 ## Bağlı kavramlar
 
@@ -89,6 +98,8 @@ Uzaktan gözetimli sınav bir yelpazede var olur. **Çevrim içi gözetim** tipi
 - [[higher-ed]]
 
 ## Bağlı makaleler
+
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Giydirilebilir YZ, gözetimli sınavın dayandığı davranışsal sinyali ortadan kaldırır (Corbin, Sharpe ve Dawson 2026)
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — Otomatik çevrim içi sınav gözetiminin on yıllık sistematik incelemesi
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Otomatik gözetimli sınavda akademik namussuzluğun kapsamlı incelemesi

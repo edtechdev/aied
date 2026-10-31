@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -184,6 +184,12 @@ Aşağıdaki kalıplar, bilgi tabanı sorumlusu tarafından sağlanan bir akadem
 - **Plan + dene + uyarlama** (üniversitede başarı). Jenerik bir zaman yönetimi yansıtmasını, bir haftalık bir çalışma planı, onu denemenin kısa bir kaydı ve olanlara bağlı bir revizyonla değiştirin; YZ, öğrenci kısıtları belirledikten sonra programlama seçenekleri önerebilir.
 
 Kılavuzun kendi uyarıları geçerlidir: kaydedilmiş video, yansıtmalar ve kayıtların kendileri de YZ destekli olabilir, dolayısıyla tamamen eşzamansız kurslarda bir kayıt bağımsız ustalığın doğrulanması olarak ele alınmamalıdır. Çerçevelerinden ikisi — değerlendme ikizleri ve hile caydırıcısı olarak eşzamansız sözlü değerlendirme — doğrulanmayı bekleyen çerçeveler olarak kalır; yukarıda atıflı eşzamansız sözlü değerlendirme çalışmaları biçim puanlarını ölçmüş ve hileyi hiç ölçmemiştir.
+
+## Yaygın yanlış anlamalar
+
+- **“YZ tarafından sağlanan her alıştırma alıştırmadır.”** Uyarlanabilir aralıklı geri çağırma koşulu **en yüksek son test puanlarını (M = 78,19)** üretmiş ve **öğrenen yönetimindeki YZ çalışmasından (M = 67,28) anlamlı biçimde daha iyi performans göstermiştir**. Öğrenen yönetimindeki düzenleme yapılandırılmış bir düzenlemenin altında kalmıştır; yani özerklik otomatik olarak daha iyi tasarım değildir.
+- **“Bir sohbet robotuyla çalışmak, onsuz çalışmaktan iyidir.”** **Karşıt vaka belirleyicidir**: **120 öğrenciyle** yürütülen bir [[rct|randomize denemede]], sınırsız ChatGPT ile çalışan grup **sürpriz bir testte daha az** akılda tutmuştur. Araç, sınanan düzenlemede kalıcılığa zarar vermiştir.
+- **“Kalıbın kanıtı büyük ve havuzlanmış bir denemedir.”** **En güçlü destek dolaylıdır** ve **26 öğrenciyle yürütülen randomize bir özne içi deneyden** gelir; burada anında yanıtlayan [[scaffolding|iskeleleme]] anlamlı biçimde farklı performans göstermiştir. Kanıt kalıbı destekler ve ölçek açısından ince kalır; sayfa da bu şekilde okunmalıdır.
 
 ## Bağlı kavramlar
 

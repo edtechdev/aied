@@ -7,7 +7,7 @@ pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T19:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ Bu sayfa, [[ai-education|AI in education]]’nin felsefi ve kuramsal temellerine
 - **Bilişsel edilgenlik, epistemik bir zarar olarak.** Bai ve Costa (2026), düşünmeyi içe dönük, devredilemez bir etkinlik olarak ele alan Arendt’ın hesabından yararlanarak, işi hazır sunan üretici YZ’nin düşünmeyi yalnızca dışa aktarmadığını, onu kapatıyor olduğunu savunur; Bourdieu’nun alan ve habitus kavramları riski kurumsal yapılarda konumlar ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
 - **Değerler, adalet ve eğitimin amacı.** Felsefi analiz, YZ kaynaklı eğitimin insanın gelişimini ve eğitim adaletini mi yoksa öğrenmeyi üretkenlik hizmetinde araçsallaştırarak mı hizmet ettiğini inceler.([[avraamidou-ai-colonization-science-education]]) Bu, [[critical-pedagogy]] ve [[ethics]] ile bağlantılıdır.
 
+- **"İnsan merkezli" olmak nötr bir etik değil, insan merkezli bir söylemdir.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang ve Jin (2026)]], UNESCO, OECD ve Montréal Bildirgesi belgelerini okuyarak insan merkezli eğitim YZ'sinin Aydınlanma hümanizminin dışlamalarını devraldığını, transhümanizmin bunları koruduğunu ve etiketin ticari altyapıyı meşrulaştırabildiğini savunur.
+
 - **İnsanların YZ ile nasıl ilişki kurduğuna dair epistemolojik temel.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]], Schommer’in kişisel epistemolojik inanç beş boyutundan (bilginin kaynağı, kesinliği, örgütlenişi, denetimi ve hızı) yedi insan–üretici-YZ ilişki paradigması türetir ve bunların sahip olunulan değil, yaşanarak sürdürülen şeyler olduğunu savunur — dolayısıyla öğrenenlerin YZ ile ilişki biçimini değiştirmek, onların inançlarını değil, sosyo-teknik ortamı değiştirmeyi gerektirir.
 - **Kimin felsefesi? Alanın kavramsal temellerinde çoğulculuk.** Xie (2026), alanın felsefi tartışmasının tek bir Batı mimarisince aşırı belirlendiğini — ayrık öznelerin niteliği olarak [[agency|epistemic agency]], gösterimsel ve hesaplamalı olarak çerçevelenen bilgi ve özne–nesne düalizmi içinde konumlanan insan–YZ ilişkisi — böylece alanın ortak hayal gücünün sınırlarının onun sınırları haline geldiğini savunur. Karşılaştırmalı bir karşı ağırlık olarak Daoist kavramları — “Dao doğası” (道性), öz-şekillenme (修道) ve “Zhenren” (真人) — değişmemiş bir çerçeveye eklenen “Doğu içeriği” olarak değil, YZ’nin kendisinin anlaşıldığı kavramsal temelleri yeniden şekillendiren kaynaklar olarak yeniden kurar ve bunları bilgiye (epistemik tek kültür ve sentetik yanlış bilgi), bilmeye ([[critical-thinking|critical thought]] aşındıran dışa aktarma) ve etkiye (çevresel maliyetler ve Küresel Kuzey–Güney asimetrileri) uygular.([[daoism-ai-education-philosophy-2026]])
 
@@ -57,6 +59,35 @@ Eğitimde YZ felsefesi ile [[learning-theories]] birbirini tamamlayan merceklerd
 ### Kuram gelişimiyle ilişkisi
 
 Eğitimde YZ felsefesi ile [[theory-development-aied|theory development in AIEd]] birbirini tamamlar ama ayrıdır. Felsefe ontolojik ve epistemolojik soruları sorar — YZ aracılı koşullar altında aklın, bilginin ve öğrenenin temelde ne olduğunu — kuram gelişimi ise bu sorulara verilen yanıtları işlevsel kılan *mekanizmaları* üretir ve ampirik olarak sınar (üreticilik, epistemik eş-eylemsellik, var olmayan bilişsel temel). İkisi karşılıklı olarak besler: felsefe kuramların taşıdığı ön varsayımları netleştirir (örneğin [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]], dağıtık ve bireyci olmayan bir biliş modeli öngörür); kuram gelişimi ise felsefi pozisyonlara sınanabilir, yanlışlanabilir bir biçim verir. Alanın en temel makaleleri her ikisini birden yapar, iki kavram arasındaki sınırda durur.
+
+## Yaygın yanlış anlamalar
+
+**“Eğitimde YZ felsefesi, öğrenme kuramlarını kataloglama ile aynı şeydir.”** Farklı derinliklerde dururlar. [[learning-theories]] sayfası *öğrenmenin nasıl gerçekleştiğini* sorar; felsefe ise YZ aracılı koşullar altında *öğrenmenin, aklın ve öğrenenin temelde ne olduğunu* sorar. Bir çalışma öğrenme kuramı sorusunu çözüp felsefi soruyu olduğu gibi bırakabilir; bu yüzden teknik olarak başarılı bir müdahale yine de yapılmaması gereken şey olabilir.
+
+**“Zarar bilişsel yük devretmedir ve daha fazla çabayla geri alınabilir.”** Daha güçlü bir iddia mevcuttur. Bai ve Costa (2026), düşünmeyi içe dönük, devredilemez bir etkinlik olarak ele alan Arendt'in hesabından yararlanarak işi *hazır sunan* üretici YZ'nin düşünmeyi yalnızca dışa aktarmadığını, onu kapatıyor olduğunu savunur ve riski bireysel irade yerine Bourdieu'nun alan ve habitus kavramlarıyla kurumsal olarak konumlar. Argüman geçerliyse "dikkatli kullanın" yeterli bir çare değildir, çünkü pratiği çıktıyı ödüllendiren alan şekillendirir.
+
+**“Batı dışı felsefe, değişmemiş bir çerçeveye ekleme yapmakla yetinir.”** Farklı temellerin kaynağı olabilir. Bir yeniden kurma, Daoist kavramları ("Dao doğası" (道性), öz-şekillenme (修道) ve "Zhenren" (真人)) Batı çerçevesine eklenen "Doğu içeriği" olarak değil, eğitimde YZ'nin anlaşıldığı kavramsal temelleri yeniden şekillendiren kaynaklar olarak ele alır. Bir geleneği örnek olarak eklemek ile onu soruları yeniden çerçevelemek için kullanmak farklı bilimsel eylemlerdir.
+
+**“Felsefi eleştiri eyleme dönüştürülemez.”** Neyin başarı sayılacağını belirler. Bir sistemin çıktısının öğrenenin başarısı olup olmadığı ve ölçülen bir kazanımın eğitsel bir iyi olup olmadığı, hiçbir etki büyüklüğünün yanıtlayamayacağı önceki sorulardır; bu soruları atlayan kurumlar ölçülebilir olanı en iyileştirip buna iyileşme diyecektir.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Bir aracı benimsemeden önce öğrencinin kendi başarısı olarak neyi saymaya razı olduğunuza karar verin. Sistem tarafından üretilen cilalı bir teslim, değerlendirmenizi karşılayacaksa "hiçbir şey" yanıtını vermişsinizdir ve sonradan yapılan hiçbir rubrik değişikliği bu soruyu geri getirmez.
+- Görevleri tasarlarken kapatma argümanını ciddiye alın: işi hazır sunan üretici YZ düşünmeyi yalnızca dışa aktarmak yerine kapatıyorsa, "sorumlu kullanın" yeterli bir güvence değildir, çünkü çevredeki alan çıktıyı ödüllendirir. Düşünme kanıtının araç kullanılabilir hale gelmeden önce üretildiği görevler tasarlayın.
+- Dersinizin kimin öğrenme anlayışını kodladığını sorun. Bir çerçeveyi eleştirmeden benimsemek, onun öğrenenin ne olduğuna dair varsayımlarını içe aktarır ve bu varsayımlar tartışmaya açıktır.
+
+**Geliştiriciler için**
+
+- Destek ile hazır sunma arasında çizdiğiniz sınırı açığa çıkarın ve bunu varsayılan değil, bir ürün kararı haline getirin. Bitmiş eseri üretebilen bir sistem, örtük olarak zihinsel emeğin isteğe bağlı olduğuna karar vermiştir.
+- Öğrenme görünümünü en iyileştirmeye direnin. Akıcılık ve bütünlük ölçülebilir özelliklerdir ve kapatmayı maskeleyenler de bunlardır.
+- Sisteminizin "düşünmeyi desteklediğini" iddia ediyorsanız neyi yapmayı reddettiğini belirtin; mekanizma bu reddetmedir.
+
+**Araştırmacılar ve politika yapıcılar için**
+
+- Değerlendirmenizin varsaydığı öğrenme anlayışını belirtin, çünkü ölçülen bir kazanım ancak eğitimin ne için olduğuna dair bir hesaba göre eğitsel bir iyidir.
+- Felsefi çalışmayı ampirik çalışmayla birlikte finanse edin: öğrenenin başarısı olarak neyin sayıldığına dair sorular, ampirik çalışmaların sonra kullanacağı başarı ölçütlerini belirler.
 
 ## Bağlı kavramlar
 
@@ -87,3 +118,5 @@ Eğitimde YZ felsefesi ile [[theory-development-aied|theory development in AIEd]
 - [[strydom-human-gai-paradigms-2026]] — İnsan-YZ dinamiğini çerçevelemek: yedi üretici YZ ilişki paradigması (Strydom 2026)
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+
+- [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — 'İnsan merkezli' YZED, ticari kullanımları olan insan merkezli bir söylem olarak okunur (Wang ve Jin 2026)

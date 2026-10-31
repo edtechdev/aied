@@ -12,7 +12,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-05T11:23:36-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Bu sayfadan bir şey hatırlayacaksanız, manşet sayısının genellikle şişi
 - **Alanın kendi derlemeleri denetimden geçemez.** Eğitimde YZ’nin iyileştirdiğini iddia eden **14 hakemli meta-analizin** denetimi olan [[oneill-presumed-effective-meta-analysis-2026|O’Neill’in (2026)]] çalışması, **hiçbirinin** ileri sürdüğü iddialar için geçerli bir temel sağlamadığını ve rasgele seçilen 46 temel çalışma arasında **%61**’inin geçerlilik kaygıları ortaya koyduğunu buldu. Sorun tek kötü bir makale değil; bir bildirim kültürüdür.
 - **Öz-bildirimler herkesi pohpohlar.** İnsanlar kendi [[ai-literacy|YZ becerilerini]] performans ölçümlerinin gösterdiğinden yaklaşık **%40** daha yüksek puanlar; bu nedenle memnuniyet ve özgüven anketleri üzerine hareket edebileceğiniz en zayıf kanıttır ([[self-report-measures|Öz-Bildirim Ölçümleri]], [[educational-measurement|Eğitsel Ölçüm]]).
 - **Sınıflarda hâlihazırda bulunan çoğu ürünün hiç bağımsız kanıtı yok.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners’ın 2025–26 öğrenme turu]], 20 öğrenciye yönelik YZ ürününü profillendirdi ve tam profili olan 16 üründen yalnızca yedisinin ABD’de öğrenci grupları arasında öğrenci başarısını inceleyen bağımsız bir incelemeye sahip olduğunu buldu; ikisi yalnızca yurt dışında çalışılmış, dördünde çalışmalar sürmekte ve üçü yalnızca iç verilere dayanıyordu. Yazarlar, öncelikli grupları kapsayan bağımsız nedensel çalışmaların tüm öğrenciye yönelik ürünler için beklenti olması gerektiğini savunur — okulların hâlihazırda kullandığı araçlar için henüz norm değil.
+
+- **Bir derleme, kendi derlemindeki bildirim eğriliğini ölçebilir.** 155 yükseköğretim çalışmasının sistematik bir derlemesi, 117’sinin (%75,5) başarılı uygulama bildirdiğini, 124’ünün (%80,0) yalnızca kısa vadeli etkiyi kapsadığını ve yalnızca 23’ünün (%14,8) [[ethics|etik]], eşitlik veya yönetişim başarısızlıklarına değindiğini bulmuştur; yukarıdaki kontrollerin betimlediği dengesizlik, derlemenin kendi kanıt tabanında ölçülmüştür ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 
 ## Bir bulguyu karara dönüştürmek
 
@@ -145,6 +147,16 @@ Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş ba
 8. Yardımsız bir ölçümle küçük pilot yapın, sonra karar verin.
 9. Bir yıl sonrasına bir gözden geçirme tarihi günlüğe kaydedin ve iddiayı emekliye ayırmaya hazır olun.
 
+## Yaygın yanlış anlamalar
+
+**“Yayımlanmış bir meta-analiz, eğitimde YZ hakkında yerleşik kanıttır.”** Alanın sentezleri denetimden geçmemiştir. [[oneill-presumed-effective-meta-analysis-2026|O’Neill’in (2026)]] eğitimde YZ’nin iyileştirdiğini iddia eden **14 hakemli meta-analiz** üzerine denetimi, **hiçbirinin** bu sonuç için geçerli bir temel sağlamadığını bulmuştur. Havuzlanmış bir etki büyüklüğü, ancak havuzlanan çalışmalar kadar iyidir ve bu literatürde havuzlama rutin olarak sonucu YZ’ye atfedemeyecek tasarımları içermiştir. Bir meta-analitik sayıyı aktarmadan önce neyi topladığı sorulmalıdır.
+
+**“Daha büyük etki büyüklüğü, daha iyi müdahaleye aittir.”** Çoğu zaman tersi geçerlidir. Bu sayfanın belgelediği derleme bağlamında çalışmaların yalnızca **%21’i** iyi tanımlı bir muamele, bir kontrol grubu ve geçerli bir öğrenme ölçümüne sahipti ve “ChatGPT kullanmak” için bildirilen avantaj, amaca özel olarak inşa edilmiş [[intelligent-tutoring|akıllı özel öğretim sistemlerininkinden]] *daha büyük* çıktı. Zayıf belirtilmiş muameleler şişirilmiş etkiler üretme eğilimindedir, çünkü karşılaştırma daha belirsiz ve çıktı ölçümü daha gevşektir. Daha büyük bir sayı, müdahaleyi tercih etmek için değil tasarıma bakmak için bir nedendir.
+
+**“Araç kullanılırken daha yüksek notlar, aracın daha fazla öğrettiğini gösterir.”** Bir [[k-12|K-12]] matematik çalışmasında, genel amaçlı bir [[conversational-ai|sohbet robotu]] ile pratik yapan öğrenciler daha iyi pratik notları almış ve ardından yardımsız değerlendirmede **yaklaşık %17 daha kötü** puan almıştır. Araç varken ölçülen pratik performansı şişirilmiş ölçüdür; çıktı olan ise yardımsız olandır ve yalnızca biri yükselmiştir.
+
+**“Etki gerçekse uygulama ayrıntıları pek önemli değildir.”** Etki, ayrıntıların kendisidir. Tek bir kurumda tek bir derste 30 öğrenciyi, kimsenin artık kullanmadığı bir araç sürümünde izleyen bir çalışma, artık var olmayan bir yapılandırmaya ilişkin bir bulgu üretmiştir. Muamele belirtimi, sürüm ve ortam, iddianın çevresindeki bağlam değil iddianın parçasıdır.
+
 ## Bağlı kavramlar
 
 - [[limitations-in-aied-research]]
@@ -167,6 +179,8 @@ Yukarıdaki kontroller halk bilgeliği değil; bu literatürdeki belgelenmiş ba
 - [[theory-development-aied]]
 
 ## Bağlı makaleler
+
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Bir derleme, kendi derlemindeki bildirim eğriliğini ölçebilir
 
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: forensic audit of 14 AIED meta-analyses
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Publication-bias-adjusted AI effects about one-third of reported size

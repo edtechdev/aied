@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -91,6 +91,16 @@ Bu literatürde kalıcılık teknik değil örgütsel bir özelliktir. CSUN prog
 ## İlgili kavramlarla bağlantılar
 
 Öğrenci desteği, öğrenciye dönük karşılık olarak [[student-experience]] ile bağlantılıdır — kurumun tarafından değil öğrencinin tarafından görülen aynı teknolojiler — ve desteğe ihtiyaç duyan öğrencilerin onu gerçekten elde ettiği mekanizma için [[help-seeking]] ile; ulaşım çalışmaları ve derse özgü asistanların ikisi de sorma maliyetini düşürme girişimidir. [[learning-analytics]], dağılımı besleyen tahmini, [[student-modeling]] ile [[knowledge-tracing]] altındaki modelleri ve [[recommender-systems-and-learning-paths]] tavsiye katmanını sahiplenir. Kampüs ruh sağlığı ve önleme sistemleri aracılığıyla [[well-being]] ile, tamamlamayı izleyen sonuç olarak [[career-development-and-readiness]] ile, puana dayanarak hareket etmenin riskleri aracılığıyla [[equity-in-ai-education]] ve [[privacy]] ile ve bunların hiçbirinin sürdürülüp sürdürülmeyeceğine karar veren roller ve süreçler olarak [[administrator]], [[stakeholders]] ve [[change-management]] ile bağlantılıdır. [[learning-gains]] komşu ölçüm düğümüdür: bu sayfanın sonuçları öğretimsel değil idaridir ve ikisi birlikte harekete geçmez.
+
+## Yaygın yanlış anlamalar
+
+**“Hangi öğrencilerin zorlanacağını öngörmek, müdahalenin kendisidir.”** Öngörü, desteğin girdisidir; destek değildir. Derlem bunları bilerek ayırır: bir kayıt hatırlatması ile bir elde tutma programı, farklı kanıtlara sahip farklı müdahalelerdir ve araştırma birinin diğerini satın almadığını göstermektedir. Bir puanla sonlanan erken uyarı panosu, yardım eklemeden ölçüm eklemiş olur.
+
+**“Kalıcılığı artıran bir elde tutma programı, YZ’nin işe yaradığını kanıtlar.”** Programın işe yaradığını kanıtlar ve YZ katmanı, tetiklediği erişimden ayrı olarak değerlendirilmelidir. California State University, Northridge’de üretken olmayan bir metin mesajı sohbet robotu olan CSUNny’nin dört yıllık rastgele bir çalışması, **iki lisans kohortu (N = 8.708)** üzerinden **sekiz dönem** boyunca ve **yıllık çıkma oranları hiç %4’ü aşmadan** izlemiştir; bu, *mesajlaşmaya* ilişkin güçlü bir alıcılık sonucudur ve üretken ya da öngörücü bir sistemin aynı sonucu vereceğinin kanıtı değildir.
+
+**“Sonuç merdiveni çöker: etkileşim, elde tutmadır.”** Her basamak farklı bir şeyi ölçer (kaydolma, yanıt verme, devam etme, tamamlama) ve bir program alt basamakları hareket ettirirken üst basamakları düz bırakabilir. Yanıt veren payı başarı olarak raporlamak, tam olarak bu yerine koymayı işler.
+
+**“Bir eşitlik kaygısı, veriyi kullanmayı bırakmak için bir nedendir.”** Puanlara göre dikkatle hareket etmek için bir nedendir. Bir yordayıcıya göre hareket etmek hem destek hem de kuşku dağıtabilir ve risk, modelin en olumsuz sınıflandırdığı öğrencilerde yoğunlaşır; bu da çareyi ölçümü terk etmek değil, kullanımın yönetişimi yapar.
 
 ## Bağlı kavramlar
 

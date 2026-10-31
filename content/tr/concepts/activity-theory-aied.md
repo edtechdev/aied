@@ -9,7 +9,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,14 @@ Etkinlik kuramı [[sociocultural-learning|sosyokültürel]] ailenin içinde yer 
 ### Pratik çıkarımlar
 
 Tasarımcılar ve eğitimciler için etkinlik kuramı, YZ aracının kendisinin ötesine onun girdiği bütün etkinlik sistemine bakmayı öğütler: kabul edilebilir kullanımı yöneten kurallar, topluluk ve onun normları, insan ile makine arasındaki iş bölümü ve etkinliğin nesnesi/güdüsü. Sürdürülebilir YZ tümleşmesi *sistemi yeniden tasarlamayı* — çelişkileri ele almayı, normları güncellemeyi ve rolleri yeniden dengelemeyi — yalnızca daha iyi araçlar veya bireysel eğitim sağlamayı gerektirir. Araştırmacılar için etkinlik kuramı, titiz bir analiz birimi (birey değil etkinlik sistemi) ve eğitimde YZ’nin rolünü inceleme ve şekillendirme için bir yöntem ([[formative-assessment|biçimlendirici]] müdahale, çelişki analizi) sunar.
+
+## Yaygın yanlış anlamalar
+
+**“Bir öğretmenin YZ’yi benimsemesi bireysel tutum sorunudur.”** Etkinlik kuramı bunu tüm etkinlik sisteminin (özne, araçlar, kurallar, topluluk ve iş bölümü) bir özelliği olarak yeniden çerçeveler; dolayısıyla direnç sıklıkla değişmemiş bir sisteme verilen rasyonel bir yanıttır. İş yükü ekleyen, dikkatini kötü yeniden dağıtan veya bölüm normlarıyla çelişen bir aracı reddeden bir öğretmen sistemi doğru okuyordur; tutum anketleri bunu bir eğilim olarak kaydeder ve nedeni kaçırır.
+
+**“Öğretmenin inançlarını değiştirirseniz uygulama izler.”** Değişimin birimi kişiden büyüktür. Normları, iş yükü dağılımını ve paylaşılan kuralları değiştiren müdahaleler, bireysel kanaate yönelenlerden daha güvenilir biçimde uygulamayı değiştirir; çünkü etkinliğin nesnesi kolektif olarak üretilir. Bu, bireysel olarak hevesli benimseyicilerin bölümleri onlarla hareket etmediğinde neden geri döndüklerini de açıklar.
+
+**“Etkinlik kuramı, tasarım sonucu olmayan betimleyici bir mercektir.”** Tasarımı sistemin öğeleri arasındaki çelişkilere yöneltir: kurallarla çatışan araç, nesneyle çatışan iş bölümü. Değişim fiilen oradan kaldıraçlanır. Çelişkileri yerleştiren bir mercek size yalnızca bir sözlük değil, müdahale edilecek bir yer verir.
 
 ## Bağlı kavramlar
 

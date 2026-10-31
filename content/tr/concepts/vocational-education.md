@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-27T13:25:06-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,36 @@ MTY'de YZ'yi ayırt eden şey, sektörün istediğini söyleyişi ile kurduğu a
 
 - **Doğrulamadan vazgeçmeden müfredat üretimini hızlandırmak.** [[crewscaler-ai-upskilling-framework]], YZ'yi profesyonel beceri gelişiminin beş aşamasının tümünde — bilgi edinme, içerik geliştirme, gözden geçirme ve doğrulama, [[intelligent-tutoring|öğretmen koçluğu]] ve değerlendirme geliştirme — uygularken plan tasarımını, alan uzmanı gözden geçirmesini ve yanlış kanı kaleme almayı insanlarda tutar. Onun dışsal doğrulaması NASBA CPE akreditasyonunu, yalnızca çerçevenin bilgi tabanını kullanarak NVIDIA sertifika sınavını geçen üç öğrenenin üçü ve 53 becerilik planına etiketlenmiş 530 soruluk bir soru bankasını içerir. Buraya ait olma nedeni, doğrulamayı birinci sınıf bir aşama olarak ele almasıdır: [[hallucination-risk|halüsinasyon]] tespiti eğitim hatlarında büyük ölçüde yoktur ve makale, varsayılan LLM öğretmenliğinin yalnızca %52–70 doğru pedagojik eylemde gerçekleştiğini bildirir.
 
+
+- **Dönemsel bir gözden geçirme değil, süregelen bir yükümlülük olarak müfredat yenileme.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]], birbiriyle etkileşen beş yenileme boyutu tanımlar: mesleki dönüşüm, müfredatın güncelliği, öğretim kadrosu kapasitesinin uyumu, program mimarisi ve dış uyum. Ayrıca bir dersin korunması, gözden geçirilmesi, bütünleştirilmesi, değiştirilmesi veya kaldırılması gerektiğine karar vermek için altı liderlik sınaması önerir.
+
+## Yaygın yanlış anlamalar
+
+**“MTY’de YZ kanıt tabanı bize mesleki eğitimi anlatır.”** Bize onun sınıf içi vekillerini anlatır ve bu bir ayrıntı değil ciddi bir boşluktur: **MTY’de YZ kanıt tabanındaki hiçbir çalışma bir işyerinde geçmez**, oysa MTY iş temelli öğrenmeyle *tanımlanır*. Simüle edilmiş bir meslek görevinde bir YZ aracına ilişkin bir bulgu, sektörü ayırt edici kılan koşullarla henüz karşılaşmamıştır: gerçek müşteriler, gerçek güvenlik sonuçları, işyeri ekipmanındaki gerçek çeşitlilik.
+
+**“Tasarım veya yaratıcı yetenek üzerindeki anlamlı bir etki mesleki yetkinliğe aktarılır.”** Buradaki en güçlü nicel sonuç, **63 geçerli yanıtlı (31’e karşı 32) 12 haftalık iki gruplu yarı deneysel bir çalışmadan** gelir; burada sürükleyici aracı koşulu ANCOVA altında tasarım yeteneğinde (η²p = .138) ve yaratıcı yetenekte (η²p = .111) daha yüksek puan almış, bilişsel katılımda d = 0.90 olmuştur. Bir sınıf görevinde kol başına otuz bir öğrenci o göreve ilişkin kanıttır ve mesleki yetkinlik ölçülen sonuçlardan biri değildir.
+
+**“Öğrenenler uygulamalı eğitimde YZ’ye aşırı bağımlı hale gelir.”** Pilot kanıt tam ters yönü gösterir. Keşifsel pilotlar (**N = 30**, İtalya ve Çin, **20 sınırlandırılmış oturum**) katılımcıların sistemi sınırlandırılmış bir destek aracı olarak ele aldığını, **ikame veya bağımlılık beklentisi bildirilmediğini** bulmuştur. Bu keşifsel ve küçük bir kanıttır, yine de mesleki öğrenenlerin bir aracı otorite olarak değil ekipman olarak çerçevelemesinin tasarımda hesaba katılmaya değer bir kaynak olduğunu düşündürür.
+
+**“Öğrenenlerin simüle bir görevi onaylaması, görevin doğru şeyi ölçtüğü anlamına gelir.”** Ankete katılan **33 öğrenenin 21’i (%64)** sesli görevin gerçekçi olduğunu onaylamış ve aynı oran bildiklerini iletmenin net bir yolunu sunduğunu söylemiştir; hiçbiri gerçek zamanlı konuşmanın bu [[authentic-assessment|özgün değerlendirmeye]] uygun olduğu görüşüne katılmamıştır. Gerçekçilik ve iletişim netliği bilinmeye değerdir, geçerlilik değildir: bir görev özgün hissedebilir ve yine de temsil ettiği mesleki performansı örnekleyemez.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- İşyeri temelli çalışmalar eksik kanıt olarak ele alınmalı ve pilotlar bunları içerecek biçimde tasarlanmalıdır; sınıf kazanımları bir meslek yeterliliği için gereklidir ama yeterli değildir.
+- YZ araçları otorite olarak değil sınırlandırılmış ekipman olarak çerçevelenmelidir. Pilot kanıt, öğrenenlerin bunlara zaten bu biçimde yaklaştığını düşündürür ve bu çerçeveleme açık hale getirilmeye değerdir.
+- Özgünlük denetimleri geçerlilik denetimlerinden ayrı tutulmalıdır: yalnızca öğrencilerin görevi gerçekçi bulup bulmadığı değil, görevin hangi mesleki performansı örneklediği sorulmalıdır.
+
+**Geliştiriciler için**
+
+- Net bir sonu olan, göreve sınırlandırılmış destek için tasarım yapılmalıdır; bu, mesleki öğrenenlerin bu pilotlarda sistemleri gerçekte kullanma biçimine karşılık gelir.
+- Laboratuvar yapılandırmasına karşı değil, işyeri çeşitliliğine karşı tasarım yapılmalıdır: ekipman, güvenlik kuralları, müşteri etkileşimi. Konuşlandırma orada gerçekleşecektir.
+
+**Araştırmacılar için**
+
+- En azından bazı çalışmalar işyerlerinde yürütülmelidir. Kanıt tabanında hiç işyeri çalışması bulunmayan, iş temelli öğrenmeyle tanımlı bir sektör, merkezi iddiasını henüz sınamamıştır.
+
 ## Bağlı kavramlar
 
 - [[professional-training]]
@@ -79,3 +109,5 @@ MTY'de YZ'yi ayırt eden şey, sektörün istediğini söyleyişi ile kurduğu a
 - [[astra-atco-training-simulator]] — Ölçeklenebilir ATCO eğitimi için otonom sim-pilotlar
 - [[crewscaler-ai-upskilling-framework]] — Hızlı profesyonel beceri gelişimi için YZ hızlandırmalı uçtan uca çerçeve
 - [[genai-xr-architectural-design-education-2026]] — Karşıt durum: düşen tasarım öz yeterliliğiyle üretici YZ artı çok kullanıcılı XR
+
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Uyarlanabilir MTY müfredat yenilemesi, beş boyut ve altı liderlik sınaması

@@ -20,9 +20,13 @@ confidence: high
 connected_resources: [edugems, gemini-notebook, liascript]
 contributors: [editor]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-10-24T11:51:12-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-25"
@@ -35,20 +39,20 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-**FPDS Apps and Resources**, Hillsborough College’daki Faculty Professional Development Services birimi tarafından oluşturulan ve derlenen öğretim araçlarının halka açık merkezidir. Tek bir sayfa bunları YZ, öğretim ve erişilebilirlik başlıkları altında toplar; böylece bir öğretmen, birimin kendi uygulamalarını ve kurslarını, önerdiği kılavuzlar ve asistanlarla birlikte bulabilir.
+**FPDS Apps and Resources**, Hillsborough College'daki Faculty Professional Development Services birimi tarafından geliştirilen ve derlenen öğretim araçlarının halka açık merkezidir. YZ, erişilebilirlik ve öğretim olmak üzere üç başlık altında on beş giriş yer alır ve her biri aracın kendisini açar.
 
 ## Neler yapılabilir
 
-YZ bölümü, öğretmenlere YZ yetkinliğine sahip bir dünyada ödevleri yeniden tasarlama konusunda rehberlik eden bir Gemini Gem olan *AI-Era Assignment Design Coach*’a yönlendirir; aynı koç bir Playlab projesi olarak da mevcuttur ve daha az özellikli, YZ içermeyen bir [[academic-integrity]] çalışma kağıdı konuyu daha basit biçimde ele alır. Bölüm ayrıca YZ araçlarına ve öğretim görevlerine ilişkin kendi hızında ilerleyen bir turu, *AI in Education Knowledge Base*’i ve çevrimiçi modüller tasarlamaya yönelik ikinci bir Gemini Gem’i listeler. Erişilebilirlik bölümü; üzerinde çalıştığınız şeyle başlayıp bir insan kontrolüyle biten bir Canvas kontrol listesi, ticari olmayan bir Creative Commons lisansı altında yayımlanmış bir [[universal-design-for-learning]] kılavuzu ve görseller için alternatif metin yazan başka bir Gemini Gem’i toplar. Öğretim bölümü ise birimin sürdürdüğü iki Canvas kursunu, kendi kursunuza kopyalamak için bir başlangıç kitini ve uyarlanabilir Canvas öğeleriyle kanıta dayalı öğretim stratejileri kursunu, ayrıca bir belge içinde tutulan bir çevrimiçi öğretim kontrol listesini derler. Her giriş bir duyuru değil, çalışan bir sayfadır ve bölümler, birimin barındırmadığı materyallere bağlantı verir.
+YZ bölümü Playlab üzerinde dört konuşma tabanlı koç barındırır: öğrenci başarısını engelleyen şeyi kanıta dayalı bir stratejiyle eşleştiren bir AI Teaching Coach, [[ai-literacy|YZ okuryazarlığını]] bir derse uyarlayan bir AI Literacy Design Coach, öğrenciler için bir Academic Habits Coach ve hem bir NotebookLM defteri hem de YZ içermeyen bir çalışma kağıdı olarak da bulunan, ödevleri YZ'ye dayanıklı hale getirme değil denge sorunu olarak ele alan AI-Era Assignment Design Coach. Bölüm ayrıca hazır YZ okuryazarlığı materyallerinden oluşan bir Canvas kursu, kendi hızında ilerleyen bir AI Petting Zoo turu, çevrimiçi modüller tasarlamaya yönelik bir Gemini Gem ve bu bilgi tabanını içerir. Erişilebilirlik bölümünün başında birimin kendi Canvas kontrol listesi gelir; kontrol listesi neyle çalıştığınızı sorar ve kurs çapında bir taramadan önce sayfaları, görselleri, belgeleri, slaytları, PDF'leri, videoyu ve bağlantıları adım adım ele alır. Yanında kolejin [[universal-design-for-learning|dijital erişilebilirlik]] üzerine Pressbooks kitabı ve alternatif metin yazan bir Gemini Gem bulunur. Öğretim bölümü [[online-teaching-and-learning|Canvas öğretimi]] için bir el kitabı kursu, kendi kursunuza kopyalayacağınız bir başlangıç kiti, hazır Canvas öğeleriyle kanıta dayalı stratejiler kursu ve bir çevrimiçi öğretim kontrol listesi toplar.
 
 ## Kimler için
 
-Site Hillsborough College’daki [[educational-development]] personeline ve öğretmenlere hizmet eder. Kopyalanabilir, yeniden oluşturulması gerekmeyen bir statik sayılar kümesi olması nedeniyle küçük ölçekli bir öğretim gelişimi sitesinin örnek çalışması olarak başka yerlerdeki öğretmenler için de yararlıdır.
+Hillsborough College'daki öğretmenler ve [[educational-development]] personeli ile başka yerlerde, yeniden inşa edilmek yerine kopyalanabilecek statik sayfalardan kurulmuş küçük bir öğretim gelişimi sitesinin işlenmiş bir örneğini arayan öğretmenler.
 
 ## Notlar ve uyarılar
 
-Siteyi okumak için hesap gerekmez ve bağlantı verdiği Canvas kursları ile kontrol listesi belgesi de halka açıktır. Gemini Gem’leri ve NotebookLM defteri Google hizmetleridir ve bunlar için hesap gerekir. Depo yazılım olarak MIT lisanslıdır, bağlantı verdiği dış kılavuzlar ise kendi lisanslarını taşır. Birim sayfaları yayın takvimi olmadan sürdürür, bu nedenle sayfalar haber verilmeden değişir.
+Okumak için hesap gerekmez ve bağlantı verilen Canvas kursları ile kontrol listeleri halka açıktır. Playlab koçları ile Gemini Gem'leri ve defterleri ise hesap gerektiren üçüncü taraf hizmetlerdir. Kartlar `apps.json` dosyasından oluşturulur, bu nedenle tam liste JavaScript gerektirir ve betik olmadan geri dönüş yalnızca on beş girişten sekizini adlandırır; `tinyurl.com/fpdapps` kısa bağlantısı ve bir başlık QR kodu sayfayı telefonda açar. Depo MIT lisanslı yazılımdır, bağlantı verdiği kılavuzlar ise kendi lisanslarını taşır; Pressbooks kitabı bunlar arasında ticari olmayan bir Creative Commons lisansı altındadır. Yayın takvimi yoktur, bu nedenle sayfa haber verilmeden değişir.
 
 ## Bağlı kavramlar
 
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]]
+[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

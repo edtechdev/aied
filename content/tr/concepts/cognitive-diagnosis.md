@@ -6,7 +6,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ Bilgi izleme tipik olarak zaman içinde tek bir ölçekli ustalık değeri tahmi
 
 - **YZ analizinden önce kültürel olarak gömülü görevler gelebilir.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara ve ark. (2026)]], Endonezya’daki 178 ortaokul öğrencisinden YZ yanıt analizinden önce kültürel olarak bağlamsallaştırılmış açık uçlu görevler tamamlamasını istemiştir; YZ tanıları uzman değerlendirmesiyle uyum içinde çıkmıştır (ICC = 0,81), kültürel gömme ise simgesel matematik performansı (β = 0,42) ve etkileşim (β = 0,37) ile ilişkili görülmüştür.
 
+- **Strateji yapılandırması da tanılanabilir, yalnızca bilgi durumu değil.** 36.234 dilbilgisi oyunu eyleminden kestirilen beş boyut, mevcut hata sayılarını dışlayarak bir sonraki başarıyı AUC 0,826 ile öngördü ve öğrenciler arasında değil, öğrencilerin içinde değişti (ICC = 0,14) ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre ve ark. (2026)]]).
+
 ## Neden önemlidir
 
 Doğru tanılama, öğretimi küresel bir “yetenek” puanı yerine gerçek açıklara yönlendirir — bir öğrencinin neden *yanlış* yaptığını açıklayan [[automated-assessment]] ve özel [[student-modeling|bilgi durumlarını]] telafi eden [[feedback|Geri Bildirim Döngüsü]] sistemlerini mümkün kılar. Kötü tanılama bunun tersini üretir: yanlış kavramlara yönelik öğretim. Bu nedenle [[psychometrically-aware-ai]], tahmin doğruluğunun yanında tanılayıcı geçerliliği vurgular.
@@ -62,6 +64,27 @@ Bilişsel tanılama, [[intelligent-tutoring]] mimarisinin kalbinde yer alır ve 
 ## Bağlantılar
 
 Bilişsel tanılama, [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]] ve [[assessment]] ile bağlantılıdır. Bulguları [[intelligent-tutoring]] ve [[adaptive-learning]]yi besler ve LLM çağı çalışmaları onu, [[intelligent-tutoring|YZ Ders Sistemi]] içinde yanlış kanı belirlemeyle ilişkilendirir.
+
+## Yaygın yanlış anlamalar
+
+- **“Tanılama, modeller için çözülmüş bir yetenektir.”** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang ve ark., 2026)]] tanılayıcı muhakemeyi açık bir 4B/9B/27B ailesinde dört yetenekten biri olarak denetimli eğitti ve **bilgi durumu tanılaması dördü arasında en zayıfı olarak kaldı**. Tanılama, diğerlerini üreten eğitime direnen yetenektir.
+- **“Modeller öğrenci hatalarını simüle edebildiğine göre onları tanılayabilir.”** Darboğaz ters yöndedir. Modeller **dikkat dağıtıcı izlerin %95,2'sinde** bir çözüm inşa etti ve belirli bir Eedi yanlış kanısını **0,92 doğrulukla** benzetti, yine de onları sınırlayan hatayı benzetmek değil **doğru çözümü sağlamak** oldu. Makul bir yanlış yanıt üretmek, onu tanımaktan daha kolaydır.
+- **“Tanılama elle kurulmuş bir yanlış kanı kataloğu gerektirir.”** Doğru ve yanlış önermesel mantık biçimlendirmelerinin **6.106 çifti** üzerinde bir iş akışı, 5.156 çifti (%84,44) açıklayan **248 dönüşüm kümesi** keşfetti; referans kümenin elle seçilmiş hataları için bu sayı **4.370 (%71,57)** idi. Keşif, uzman küratörlüğüne eşit oldu ya da onu aştı ve modal mantığa aktarıldı; dolayısıyla katalog bir başlangıç noktasıdır, tavan değil.
+- **“Bir tanılama ancak bir yanlış kanı adlandırırsa yararlıdır.”** Bir öğrenenin hangi kurs sonuçlarına ulaştığını tanılamak, sonuçları bunun yerine bilgi kavramları olarak ele alır ve kavram ilişkilerini uzman onaylı benzeşim eşlemeleri yoluyla sağlar. Sonuç temelli programlar için bu, daha kaba olsa da daha eyleme dönük birimdir.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Bir sistemin tanılamasını bir karar değil, denetlenecek bir hipotez olarak ele alın. Bilgi durumu tanılaması, bunun için eğitilmiş bir ailede en zayıf yetenek oldu.
+- Tanılamanın üzerine eylemde bulunabileceğiniz bir yapıyı adlandırıp adlandırmadığını sorun. Programınıza eşlenen sonuç düzeyinde bir tanılama, genellikle ince taneli bir yanlış kanı etiketinden daha yararlıdır.
+- Dersinizin kuralları varsa, dönüşüm temelli keşfin öngörmediğiniz hata örüntüleri bulmasını bekleyin; keşfedilen 248 küme, küratörlü katalogların eksik olduğunun kanıtıdır.
+
+**Geliştiriciler için**
+
+- Her iki yönü de ölçün: yanlış bir yanıtı tanımayı ve doğru olanı üretmeyi. %95,2'lik çözüm kurtarma oranı, üretimin kolay yarı olduğunu ve başarısızlık kipinin tanımada yattığını düşündürür.
+- Alan yapısı izin verdiğinde statik bir katalog yerine keşfi yeğleyin ve karşılaştırmanın okunabilir olması için kapsamı bir referans kümesine göre bildirin.
+- Tanılayıcı bir puanı, hangi yapıyı ölçtüğünü ve onu üreten sinyalden bağımsız olarak nasıl doğrulandığını belirtmeden yayımlamayın.
 
 ## Bağlı kavramlar
 

@@ -1,7 +1,7 @@
 ---
 title: YZ Okuryazarlığı
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-10-27T04:18:31-04:00"
+updated: "2026-10-31T11:05:52-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-10-31T09:55:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,8 @@ YZ okuryazarlığı, [[generative-ai]] eğitime gömülü hale geldikçe öğren
 ### YZ okuryazarlığının boyutları
 
 **Çıktıya yönelik okuryazarlık ile sisteme yönelik okuryazarlık, ayrımına dair kanıt bulunan ayrı boyutlardır.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]], İsveç’teki 47 yedinci sınıf öğrencisinin kaynak değerlendirmede (Mdn = 3) ve yönetişimde (Mdn = 4, en yüksek seçenekte %57) güçlü, ancak **veri mahremiyetinde (Mdn = 1, en düşük seçenekte %66)** ve **algoritmik manipülasyonda (Mdn = 2, en düşük seçenekte %47)** zayıf olduğunu bulmuştur. Alanlara göre gruplandığında çıktıya yönelik puanların medyanı 3, sisteme yönelik puanlarda 2 olmuştur. Bulgu, bu öğrencilerin okuryazarlıktan yoksun olduğu değil, **AI çıktısını okuma okuryazarlığının o çıktının nasıl üretildiğini sorgulamaya uzanmadığıdır** — bir programın nasıl kapsamlandırıldığı ve ölçüldüğü açısından doğrudan sonuçları olan bir ayrım; çünkü tek bir puan her iki kaydı ortalar ve hiçbirini tanımlamayan bir orta değer bildirir.
+
+**Uzmanlar yetkinlikler üzerinde uzlaşır, bunların nerede durduğu üzerinde uzlaşmaz.** On bir uzman, dokuz yetkinlik ve üç alandan oluşan bir çerçevenin içeriğini olumlu değerlendirmiş, ancak yetkinliklerin yerleşimi konusunda anlaşmazlığa düşmüştür (M = 3.73, SD = 1.19, IQR = 1.50); buna karşın dışlayıcı olmayan alan ilişkilerini onaylamış (M = 4.45, SD = 0.52) ve alanları sabit kovalar değil işlevsel roller olarak okumuştur ([[lee-ai-literacy-expert-convergence-2026|Lee, Son ve Hong (2026)]]).
 
 Bu bilgi tabanındaki YZ okuryazarlığı [[research-methods-aied|araştırması]] dört iç içe geçmiş boyutu kapsar:
 

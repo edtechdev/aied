@@ -10,7 +10,7 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,16 @@ PRISMA standardına uygun bir [[riedmann-reinforcement-learning-education-review
 ### Bilgi tabanıyla bağlantı
 
 RL, ajanın tek bir doğru yanıt değil uzun vadeli öğrenmeyi en iyilemek zorunda olduğu modern [[agentic-ai]] ve [[intelligent-tutoring]] tasarımının çoğunu besler. [[llm-training-and-fine-tuning]] (eğitim yöntemi olarak RL), [[scaffolding]] (verimli çabayı koruyan ödül tasarımı) ve [[self-regulated-learning]] (öğrenenlerin kendi stratejilerini düzenlemelerine yardım eden ajanlar) ile bağlantılıdır. Ödül tasarımı eğitim değerlerini kodladığından, AIED’de RL araştırması [[pedagogical-safety]] ile ve [[equity-in-ai-education|eşitlikçi]] öğretmen davranışının eşitlik kaygılarıyla sıkı biçimde bağlantılıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Bir temel çizgiyi tutturmak, RL politikasının elde etmeye değer bir şey öğrendiği anlamına gelir.”** Ödülün karşılandığı anlamına gelir. Sınav puanı ve zaman etkinliği üzerinden ödüllendirilen bir derin RL öğretmeni, son testte bir BKT sezgiseliyle **eşitlenmiş (her biri için A = .58)** ama eğitim problemlerinin yalnızca **%4’ünü yapıcı hatalı örnek onarımına** ayırmış ve daha ucuz etkileşimi yeğlemiştir. Politika, karşılığını aldığı şeyi en iyilemiştir ve karşılığını aldığı şey üretken etkinliği dışarıda bırakıyordu.
+
+**“Ödül fonksiyonu teknik bir ayrıntıdır.”** Pedagojik şartnamedir. Ödül neyi ağırlıklandırıyorsa politika onu yapacaktır; dolayısıyla puan, zaman etkinliği, katılım ve onarım arasında seçim yapmak, öğrenmenin ne olduğuna dair açık bir tutum gerektirir: bir sayı olarak kodlanmış bir müfredat kararı.
+
+**“Daha uzun ufuklar yalnızca daha iyidir.”** Daha kısa ufukların yapamadığını olanaklı kılar ve ödülün tüm dizi boyunca doğru olmasını gerektirir. [[residencyrl-clinical-rl-training-2026|ResidencyRL]], eş zamanlı diyalog sistemlerinin ≤12 dönümlük ufuklarının çok ötesinde **60 dönümlük klinik görüşmelerin** tamamını en iyiler; bu, yanlış belirlenmiş bir hedefin maliyetini düşürmek yerine yükseltir.
+
+**“Öğretmenlik sıralı olduğu için RL uygun biçimdir.”** Sıralama gereklidir ve yeterli değildir; bağlayıcı kısıt ödülün geçerliliğidir. İyi belirlenmiş bir hedefe sahip zayıf bir politika, yanlış bir hedefe karşı güçlü bir politikayı geçer.
 
 ## Bağlı kavramlar
 

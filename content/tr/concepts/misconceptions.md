@@ -10,7 +10,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -111,6 +111,12 @@ Yanlış kanılar etkin olarak benimsendiğinden ve dirençli olduğundan, onlar
 **"Bir insan yazmadıysa hile değildir."** *Bu bir yanlış kanıdır.* Akademik dürüstlük, işin dürüst, atfedilebilir üretimiyle ilgilidir, yalnızca bir kişiden kopyalamamakla değil. *Düzeltme:* açıklanmayan YZ üretimi teslim, hiçbir insan kopyalanmamış olsa bile [[academic-integrity]] ihlal edebilir; soru, işin gerçekten öğrenene ait olup olmadığıdır. Şüphe duyduğunuzda açıklayın ve kurumunuzun politikasını denetleyin.
 
 Bu çürütmeler kasten [[refutation-text]] biçiminde yazılmıştır, böylece YZ hakkındaki — ve daha geniş anlamda öğrenme, öğretim ve eğitim hakkındaki — yanlış kanılarla yüzleşmek ve onları düzeltmek için kendileri kullanılabilir (ya da etkileşimli [[conversational-ai|YZ diyaloğuna]] uyarlanabilir).
+
+## Yaygın yanlış anlamalar
+
+- **“Öğretmenlerin yanlış kanıları kanıt sunularak düzeltilebilir.”** **123 İtalyan eğitimciyle** yapılan bir pilot çalışmada anlaşmazlık en çok **bilişsel öğrenme stillerinde (öğretmenlerin %78’i görsel/işitsel eşleştirmeyi savundu)**, kapsama ve grup çalışmasında (%68) ve EdTech aşırı yüklemesinde (%54) kümelenmiştir. En güçlü anlaşmazlıklar kanıta en dirençli olanlardır; [[refutation-text|çürütme]] metninin iddiayı geride bırakması bu nedenledir.
+- **“Öğretmenlerin kanıta yönelik itirazları tümüyle dirençtir.”** Aynı maddeler, **kanıtı yeniden sunmadan önce öğretmenin bağlamını doğrulayan** konuşma tabanlı bir YZ aracılığıyla sunulduğunda, **itirazların %41’i gerçek bağlamsal kısıtlarla** ilgili olmuştur: sınıf mevcudu, özel gereksinimler, müfredat talepleri. Görünen yanlış kanının önemli bir bölümü isabetli bir itirazdı.
+- **“Yanlış kanılar diyalogdan güvenilir biçimde tespit edilebilir.”** **İstemle üretilen 241 segmentten 221’i (%91,7) uzman çoğunluk oyuyla stratejik yanlış kanı olarak onaylanmıştır (Fleiss’in κ = 0,9487)** ve gruplar arasında **anlamlı fark yoktur**. Yüksek güvenilirlik, uzman yargılaması altında ulaşılabilir ve iddianın bağlı olduğu koşul budur.
 
 ## Bağlı kavramlar
 

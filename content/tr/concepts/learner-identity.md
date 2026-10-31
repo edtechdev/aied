@@ -9,7 +9,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,6 @@ Kimlik, ilgili yeteneklerden ve inançlardan farklı (ama onlara bağlı) bir mo
 
 - **Tehdit altındaki yazarlık ve yetkinlik.** YZ metin, görüntü ya da kod ürettiğinde öğrenenler sonucun gerçekten “kendilerine ait” olup olmadığını sorgulayabilir — kimliğin yazarlık boyutuna bir meydan okuma. **[[t2i-competence-paradox-2026|Liu ve ark. (2026)]]**, metinden görüntüye GenAI kullanan sanat ve tasarım öğrencilerinde bir *yetkinlik paradoksu*nu belgeler: araçlar kolay ve yararlı hissedilir, buna karşın kullanımları öğrencilerin elle üretimden ve yazarlıktan çıkardığı **yaratıcı kimliği** aynı anda tehdit eder ve kolaylık ile benlik değeri arasında gerçek bir gerilim üretir.
 
-
 Kolaylık anlamına gelen ayrı bir yazarlık koşulu, yalnızca yazarlığa bir tehdit değil: öz-biçimlendirici diyalog alışkanlık hâlinde bir konuşma modeline devredildiğinde, yazarlar yazarlığın bütünleştirici işinin *devredildiğini* — gelişmemiş ya da yok olmaktan çok — sıkı bir biçimde seslendirilmiş ama yazarı olmayan bir benlik olduğunu savunur; bu durum için var olan yapıların yer ayırmadığını söylerler ([[synthetic-position-self-authorship-2026|Du ve ark. (2026)]]).
 - **Utanç ve gizli kullanım.** **[[shame-guilt-ai-regulation-computing-education|Lin ve ark.]]**, bilgisayar bilimi öğrencilerinin YZ kullanımı çevresinde utanç ve suçluluk duyduğunu gösterir; bunlar *gizlemeyi* ve seçici itiçafı yürüten toplumsal düzenleyiciler olarak işler görür — akademik kimliği parçalayabilen ve öğrenmeyle dürüst etkileşimi zayıflatabilen davranışlar.
 - **YZ’nin iskeleyeleyebileceği bir şey olarak kimlik.** YZ yalnızca kimliği tehdit etmek zorunda değildir. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]**, hesap verebilir, ilişki odaklı [[pedagogy|pedagojik]] eşlikli desteğin, öğrenenin kendi yörüngesine sahip çıkmasına yer bırakan şeffaf, sınırlı destek sağlayarak öğrencilerin **STEM kimliği** gelişimini destekleyebileceğini savunur.
@@ -50,7 +49,7 @@ Kolaylık anlamına gelen ayrı bir yazarlık koşulu, yalnızca yazarlığa bir
 
 - **Yaratıcı kimlik:** **[[t2i-competence-paradox-2026|T2I yetkinlik paradoksu]]**, kullanım kolaylığının sanat ve tasarım öğrencilerinin üretime dayalı kimliğini nasıl aşındırabileceğini yakalar.
 - **Hissedilen yazarlık gerçek özgünlükten ayrışabilir.** YZ ile web siteleri oluşturan tasarım öğrencileri yazarlıklarını yüksek derecelendirdi (67/100, memnuniyet 6,4/7, algılanan nitelik 6,1/7), oysa bu derecelendirmeler ölçülebilir hiçbir şeyi izlemedi: tasarımları YZ’siz duruma göre daha homojendi ve hissedilen yazarlık ölçülen özgünlükle r ≤ +0,13 düzeyinde korele oldu ([[vibe-coding-design-diversity-2026|Boussioux ve ark., 2026]]).
-- **Mesleki kimlik:** birden çok çalışma YZ’nin **mesleki kimlik** üzerindeki etkisini ele alır — örneğin **[[lodge-adaptive-capabilities-genai-future-2026|Lodge ve ark. (2026)]]**, mezunların YZ ile bütünleşik bir gelecekte yaşanabilir bir mesleki kimliği sürdürebilmeleri için tam olarak *uyarlanabilir yeteneklere* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) gereksinim duyduğunu savunur; araçlarıyla tanımlanmak ya da onlar tarafından dışlanmak yerine.
+- **Mesleki kimlik:** birden çok çalışma YZ’nin **mesleki kimlik** üzerindeki etkisini ele alır — örneğin **[[lodge-adaptive-capabilities-genai-future-2026|Lodge ve ark. (2026)]]**, mezunların YZ ile bütünleşik bir gelecekte yaşanabilir bir mesleki kimliği sürdürebilmeleri için tam olarak *uyarlanabilir yeteneklere* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) gereksinim duyduğunu savunur; araçlarıyla tanımlanmak ya da onlar tarafından dışlanmak yerine. GenAI yargıları yazarlığın yanı sıra zamansal bağlama göre de bölünebilir: görüşülen kişiler YZ kullanımını öğrenme için uygunsuz, gelecekteki mesleki iş için ise meşru ya da beklenen bulmuştur: "Öğrenci olarak öğrenmek zorundayım, profesyonel olarak üretmek zorundayım" ([[sun-governing-genai-policy-cross-national-2026|Sun ve ark. (2026)]]).
 - **İnsan sonrası ve hibrit kimlik:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]**, bilişi gerçekten hibrit ve [[biology-education|biyolojik]] ile yapay sistemler arasında dağılmış olan **insan sonrası öğrenen**i kuramsallaştırır — bilişsel YZ çağında kimlik oluşumunun kendisinin yeniden çerçevelenmesi.
 - **Öğrenci ve akademik kimlik:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|otantik değerlendirme]]** [[research-methods-aied|araştırması]] kimlikle bağlantılıdır; çünkü otantik, kişisel performans çağrısı yapan [[assessment]] görevleri öğrencilerin kendilerini yetkin uygulayıcılar olarak görmelerine yardımcı olur; **[[paternalistic-filter-llm-history-education|tarih eğitimi araştırması]]**, korumacı YZ kullanımının öğrencilerin disiplinsel soruşturmacı olarak kimliklerini nasıl inşa ettiklerini nasıl şekillendirebileceğini gösterir.
 - **Öğrencilerin araca nasıl çerçeve getirdiği mesleki olma halini şekillendirir.** GenAI’yi yalnızca toplumsal-duygusal bir partner olarak konumlandıran öğrenciler, onu ayrıca bir teknik, bir öğrenme materyali ya da bir yapı olarak çerçeveleyenlere göre mesleki öğrenmeleri üzerine daha az farklılaşmış yansıtmalar üretti ([[genai-professionalization-metaphors-2026|Bohmer ve ark., 2026]]).
@@ -75,6 +74,16 @@ Kısacası: **öğrenenlerin hareket etmesine izin vermek için özerkliği besl
 ## Bağlantılar
 
 Öğrenen kimliği; [[agency]] (kimlik etkin yazarlık yoluyla uygulanır), [[self-efficacy]] (kimliği sürdüren yetkinlik inançları), [[motivation]] ve [[self-determination-theory]] (kimlik oluşumu özerklik ve yetkinlik ihtiyaçlarını doyurur), [[student-experience]] ve [[student-engagement]] ile [[stem-education]] (disiplinsel kimliğin kilit bir çıktı ve kalıcılık öngörücüsü olduğu yer) ile bağlantılıdır. Ayrıca [[situated-learning]] ve [[critical-pedagogy]] (katılım olarak ve güç yüklü bir müzakere olarak kimlik) ile şekillenir ve [[authentic-assessment]] (öğrenenlerin performans sergileyip böylece bir kimlik iddia etmesini olanaklı kılan görevler) ile bağlantılıdır. [[higher-ed]] ve [[k-12]] ilişkinliği hem okul hem de mesleki hazırlığı kapsar.
+
+## Yaygın yanlış anlamalar
+
+**“Öğrenen kimliği, bir dersin uyum sağlayabileceği sabit bir özelliktir.”** Daha iyi biçimde **katılım, tanınma ve yazarlık yoluyla sürekli inşa edilen** bir şey olarak ele alınır. Bu kayma, tasarım sorusunu var olan bir kimliği eşleştirmekten dersin mümkün kıldığı kimliği şekillendirmeye taşır; işi tamamlayan bir YZ ise üç bileşenden birini ortadan kaldırır, çünkü kimlik iddiası yazarlıkta doğar.
+
+**“Kimlik sorunları az temsil edilen gruplardan öğrencilere aittir.”** Kimlik her öğrenende, katılımının tanınıp tanınmamasıyla oluşur; bu da onu özel bir düzenleme değil genel bir tasarım koşulu yapar. Hedefli bir kaygı olarak çerçevelenmesi, ertelenmesinin yoludur.
+
+**“YZ desteği engelleri düşürür ve dolayısıyla katılımı genişletir.”** İş üretme engelini düşürürken yazarlık iddia etme engelini daraltabilir. Yazarı olmadığı akıcı bir ürün teslim eden öğrenciye sonuca erişim verilmiş, arkasındaki kimliği kuran tanınma ise verilmemiştir.
+
+**“Bir öğrenenin kimliğini tanımak, içerikte temsil sorunudur.”** Temsil önemlidir ve tanınma pratikte edimlenir: kimin soruları ciddiye alınır, kimin katkısı kredilendirilir ve kim muktedir sayılır. Bir müfredat temsili olabilir ve yine de kimlik oluşumunun gerektirdiği tanınmayı esirgeyebilir.
 
 ## Bağlı kavramlar
 

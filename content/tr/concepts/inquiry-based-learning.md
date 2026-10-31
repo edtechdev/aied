@@ -8,7 +8,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,16 @@ SÖ’nün soru odaklı, sürece odaklı yapısı, verimli YZ kullanımının do
 [[productive-failure|Verimli başarısızlık (VB)]] sorgu temelli öğrenmenin en yapılandırılmış kuzenidir: öğrenciler doğrudan öğretimden *önce* problemleri araştırır ve çözümler üretir, sonra pekiştirir. Her ikisi de öğrenci tarafından üretilen denemelerin (başarısız olanlar dahil) [[prior-knowledge|ön bilgiyi etkinleştirdiği]] ve öğrenenleri öğretimden öğrenmeye hazırladığı öncülünü paylaşır. YZ çağının VB [[research-methods-aied|araştırması]], YZ’nin sorgulamayı kısa devre yapmadan nasıl iskeleyeleyeceğini keskinleştirir: [[kim-ai-productive-failure-adult-2026|Kim ve ark. (2026)]], mücadeleyi problem araştırması ve çözüm üretimi yoluyla korumaya dair YZ tasarım ilkeleri türetir; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech ve ark. (2025)]], LLM özel öğretmenlerinin yanıtları saklayacak ve birden çok deneme gerektirecek biçimde yönlendirilebileceğini gösterir; [[lukesova-clue-before-correction-2026|clue-before-correction]] görevleri, öğrenenlerin muhakemeyi kendilerinin yapmasını sürdüren ipucu tabanlı (doğrudanın aksine) iskelelemeyi örneklendirir. Bunlar, sorgulamayı ve VB’yi, YZ’nin kalıcı öğrenmenin oluştuğu [[desirable-difficulties|verimli mücadeleyi]] ortadan kaldırmaması gerektiğine dair daha geniş zorunluluğa bağlar.
 
 Açık alan ortamlarında aynı zorunluluk uzamsallaşır: GenAI, öğrenciler kanıtla karşılaşmadan önce ne fark edeceklerini önceden yapılandırabilir; bu nedenle gözlemler ve ilk yorumlar kaydedilene kadar üretilen açıklamayı saklayan alan-öncelikli bir dizi sorgulamayı korur ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## Yaygın yanlış anlamalar
+
+**“YZ, sorgu temelli öğrenmeye doğal olarak uyar, çünkü ikisi de keşfedici.”** Uyum tamamen tasarıma bağlıdır: [[generative-ai|üretken YZ]] ve [[llm|LLM]] araçları, **yalnızca öğrencinin soruya sahipliğini koruyacak biçimde tasarlandıklarında** sorgulamayı ve araştırmayı destekleyen etkileşimli ortak araştırmacılar olarak hizmet edebilir. Aksi yönde kullanıldığında keşfedici bir öğrenci, sorgu yürütmek yerine bir yanıtı izlemektedir ve ikisi dışarıdan benzer görünür.
+
+**“Bir sorgu ünitesine eklenen her YZ onu iyileştirir.”** YZ katkısının sorgunun kendisinden yalıtılması gerekir. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]], bunu bir iklim çalışmasında üç gruplu bir tasarımla yapmıştır: YZ destekli sorgu, yalnızca sorgu yapan akranlarını **karar vermede (d = 0,69)** geride bırakmıştır ve kanıt, yaklaşımın genel üstünlüğünde değil, belirli bir sonuçta bulunmaktadır.
+
+**“Sorgu tanımı gereği yapısızdır.”** Yapıyı öğretmen iskeleler ve yapı, içeriğin sunumunda değil, soru tasarımında ve yansıtma döngüsündedir. İskeleyi kaldırmak sorguyu daha özgün yapmaz; iskelesiz yapar.
+
+**“Öğrenciler ilgiliyse öğrenci kaynaklı sorular iyi biçimlendirilmiş olur.”** İşlenebilir bir soru üretmek, geliştirilmekte olan becerinin kendisidir; bu nedenle iyi soruları sağlayan bir sistem, etkinliğin öğretmek için var olduğu sorgu becerisini yerine getirmiş olur.
 
 ## Bağlı kavramlar
 

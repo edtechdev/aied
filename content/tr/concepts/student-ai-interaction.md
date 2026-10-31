@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,9 @@ ai_assist:
 ## Giriş
 
 Öğrenci–YZ etkileşimi, öğrenenlerin üretici YZ ile [[student-engagement|kavramasının]] gözlemlenebilir yüzeyidir — sordukları sorular, yazdıkları istek metinleri, YZ çıktısını görüşme ve doğrulama biçimleri ile bu örüntülerin görev aşamaları boyunca ve zaman içinde nasıl değiştiği. [[student-experience]], [[prompt-engineering]] ve [[learning-analytics]] kesişiminde yer alır ve eğitimde YZ kullanımının gerçek öğrenme mi yoksa [[cognitive-offloading|aşırı bağımlılık mı]] temsil ettiğine ilişkin tartışmaların merkezindedir. [[human-ai-collaboration]] insanlar ile modeller arasındaki bilişsel işbölümünün üst düzey çerçevesini sunarken, öğrenci–YZ etkileşimi bu ilişkinin somut, ölçülebilir gerçekleşimidir — öğrenenlerin ana ana yaptığı belirli sorgulamalar, istek metinleri ve görüşme hamleleri.
+
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], üretici YZ ile açık uçlu diyaloğun akran değerlendirmesine ne kattığını belgeler: modele ilk önerisini kabul etmek yerine sorular yönelten öğrenciler, akranların daha yüksek puanladığı geri bildirim üretmiş ve daha fazla görev keyfi ile daha az kaygı bildirmiştir.
 
 ### Öğrenciler YZ’den ne istiyor
 
@@ -79,6 +82,14 @@ Kullanmama da kendisi [[pedagogy]]’nin planlaması gereken bir etkileşim ör�
 
 - **Öğrenci–YZ sohbetinde disiplinle ilişkili bilişsel kavrama.** Chang ve Li (2026), kişi içi ve disiplinler arası bir tasarımla 116 kurstaki YZ’ye yönelik öğrenci istek metinlerini analiz etmekte olup öğrenci–YZ konuşmalarının sabit bireysel etkileşim tarzlarından çok **disiplinle ilişkili** bilişsel kavramayı yansıttığını göstermektedir. İstek metinlerin yaklaşık yüzde 62’si genel olarak üst düzey bilişsel talebi kodlamış olsa da Bloom düzeyi profilleri disipline göre keskin biçimde farklılaşmıştır: [[stem-education|STEM]] kursları Uygulama ağırlıklı istek metinler (yüzde 20,8), dil kursları Anlama ağırlıklı (yüzde 31,7) ve sosyal bilimler kursları Yaratma ağırlıklı (yüzde 33,8) talepler uyarmıştır. Kişi içi eşleştirilmiş karşılaştırmalar, aynı öğrencilerin sosyal bilimler kurslarında STEM kurslarına kıyasla belirgin biçimde daha fazla üst düzey istek metni ürettiğini doğrulamıştır (birleştirilmiş n = 16, p < .001) ve kurs düzeyindeki çeşitlilik öğrenci düzeyindeki çeşitliliği aşmıştır — bu, YZ öğretim asistanlarının disiplinsel bağlam göz önünde bulundurularak tasarlanması ve değerlendirilmesi yönünde güçlü bir argümandır.
 
+- **Öğrencilerin YZ'yi ne kadar kullanması, onun hakkında ne hissettiklerini yordamadı.** 819 öğrenci arasında cinsiyet, kendi bildirdiği YZ uzmanlığı ve kullanım sıklığının hiçbiri bir MANOVA'da anlamlılığa ulaşmadı (Wilks Lambda 0.997, p = 0.551; 0.990, p = 0.295). Bu örneklemde yoğun ve seyrek kullanıcılar aynı görüşleri taşıyordu ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Etkileşim taksonomileri yerleşmiştir.”** **33 çalışmadan 46 kategorizasyon boyunca benzer etiketler farklı olguları adlandırmaktadır**; incelemenin birim olarak *etkileşim bölümünü* önermesinin nedeni budur. Bir taksonomiden ödünç alınan kodlama şeması, farklı bir yapıyı ölçüyor olabilir.
+- **“Öğrenciler YZ'yi özel öğretmen olarak kullanır.”** Denetimsiz argümantasyon kompozisyonlarını tamamlayan **38 lisans öğrencisi** arasında **%76,32'si tek turlu sor-cevap al-durdur örüntüsünü kullanmıştır** ve tipik olarak değerlendirme başlığını yapıştırmıştır. Baskın örüntü tek turlu bilgi çekmedir; bu, özel öğretmenlik değildir.
+- **“Daha fazla YZ kullanımı, materyalle daha fazla etkileşim olduğunu gösterir.”** **200 eş programlama sohbet oturumunun** analizi, **öğrenci-GenAI etkileşimlerinin %78,8'inin ustalık dışı amaç ve stratejiler üzerinde işlediğini** bulmuştur. Etkileşim hacmi öğrenme yöneliminden başka bir şeyi ölçmüştür; dolayısıyla oturum sayıları yanıltıcı bir etkileşim vekilidir.
+
 ## Bağlı kavramlar
 
 - [[learners]] — Öğrenenler: öğrenen tarafına ilişkin kavramlar için üst başlık
@@ -95,6 +106,8 @@ Kullanmama da kendisi [[pedagogy]]’nin planlaması gereken bir etkileşim ör�
 - [[ai-literacy]]
 
 ## Bağlı makaleler
+
+- [[ai-chatbots-emotional-support-human-connection-2025]] — Kullanım sıklığı ve kendi bildirilen uzmanlık 819 öğrenci boyunca hiçbir şeyi yordamadı
 
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Denetimsiz öğrenci–GenAI değerlendirmelerinde bilişsel dış kaynağa başvurma ve yeniden dağıtım (Yan ve ark. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": öğretmen adaylarının değerlendirmelerde GenAI’yi benimsememesi (Zou ve ark. 2026)

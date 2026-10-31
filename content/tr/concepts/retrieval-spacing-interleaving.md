@@ -11,7 +11,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,16 @@ Karıştırma’nın buradaki yerinin dayanağı bu nedenle, diğer iki teknikle
 - **Ölçümleme ve modelleme sınırları.** Derlemdeki [[knowledge-tracing]] modelleri, tam olarak aralıklılık kararlarının gerektiği yerde başarısız olur ve yazarlar geçmiş başarıları, dağıtım gerçekçisi doğrulama yerine geriye dönük tüm veri kümesi uydurmasına bağlar. İki dilli yardımcının kart kalitesi, temel gerçekliğe karşı doğrulanmamıştır, otomatik olgu kontrolü katmanı yoktur ve hiç sonuç çalışması yürütmemiştir.
 - **Karıştırma burada neredeyse hiç doğrudan kanıt içermez.** Yukarıda belirtildiği gibi, derlem bloklamalı-karıştırmalı hiçbir karşılaştırma içermez, yalnızca Karıştırma’nın birkaç strateji arasından biri olduğu bir benzetim vardır.
 - **Konu olunan kitleler ve içerik.** Kanıt tabanı, [[higher-ed|yükseköğretimde]], STEM ve istatistik materyalinde ve geometri ile çoklu regresyon içeriğinden gerçek-beceri ayrımlarında yoğunlaşır; [[k-12|K-12]] ortamlarına, [[humanities-education|beşeri bilimlere]] ve yazmaya ve Batı dışı sınıflara genelleme, bu çalışmalarla kurulmamıştır.
+
+## Yaygın yanlış anlamalar
+
+**“Daha iyi YZ sorgulaması daha iyi hatırlama üretir.”** Daha iyi iş üretir. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]], daha derin LLM sorgulamasının bağımsız olarak puanlanan görev kalitesini iyileştirdiğini (**β = 6,27, p = ,006**) ama **anlık son-test hatırlamasıyla boş bir ilişki (β = −0,014, p = ,728)** gösterdiğini, hatırlama kazanımlarının ise bunun yerine başlangıç bilgisi tarafından sürüklendiğini buldu. Eserin niteliği ile belleğin dayanıklılığı farklı sonuçlardır ve daha iyi diyalog birincisini hareket ettirip ikincisini yerinden oynatmaz.
+
+**“Tek bir en iyi uygulama biçimi vardır.”** Biçim, neyin öğrenildiğine bağlıdır. Bir içerik–uygulama etkileşimi (**β = 0,41, p = ,038, d = 0,38**) **saf pratik testinin olgular için daha yüksek kazanımlar** ürettiğini, **örnek bütünleşmeli pratiğin ise beceriler için daha yüksek kazanımlar** ürettiğini gösterir. Her şey için geri çağırma pratiği ya da her şey için çözümlü örnekler reçete etmek, materyalin yarısını yanlış ele alır.
+
+**“Geri çağırma pratiği test demektir ve her test sayılır.”** Mekanizma, bir yanıtı tanımak değil bellekten üretmektir; çoktan seçmeli bir tanıma görevinin aynı etkinliğin daha zayıf bir sürümü olmasının nedeni budur. Sonsuz tanıma maddesi üreten bir YZ, doğru adı ve yanlış mekanizmayı taşıyan etkinlik üretmiştir.
+
+**“YZ bu teknikleri sadakatle uygulayabilir, çünkü iyi belirtilmişlerdir.”** Onları sessizce de bozabilir. Aralık, sistemin talep üzerine sağlamaya en yetenekli olduğu materyali geri tutmasını gerektirir; geri çağırma ise yanıt vermemesini. Dolayısıyla tekniğin etkililiği, uysal bir asistanın dayatmak için hiçbir teşviki olmayan kısıtlamalara bağlıdır.
 
 ## Bağlı kavramlar
 

@@ -11,7 +11,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,9 @@ ai_assist:
 ## Giriş
 
 HITL, tamamen özerk [[ai-education|eğitimde yapay zeka]]nın sınırlarına ve risklerine bir yanıttır: otomatik sistemler ölçekte üretebilir ama eğitmenlerin ve uzmanların getirdiği bağlamsal, [[ethics|etik]] ve pedagojik muhakemeden yoksundur. İki yakın zamandaki uygulama farklı mimarileri gözsterir:
+- **İnsan-denetiminde olmak, insan yalnızca onaylıyorsa yetersizdir.** [[learning-analytics-genai-learning-design|Rienties, Divjak ve Law (2026)]], anlamlı failliğin başka yerde biçimlendirilmiş kararları onaylamaktan ziyade YZ destekli önerileri anlama, itiraz etme, yeniden tasarlama ve bazen reddetme yeteneğini gerektirdiğini savunur.
+
+Bir sistemin tercih ettiği yanıtı saklamak düzeltici değil koruyucudur: önerilen bir konumu hiç açığa çıkarmayan çok ajanlı bir tartışmada, yanlış bir YZ yanıtına zararlı geçiş %42,0–60,5 aralığından %5,7–8,2 aralığına düştü, ancak doğru tavsiyenin benimsenmesi de düştü ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo vd., 2026]]).
 
 Buyurucu destek, insan gözetiminin giderek zorunlu olduğunun savunulduğu bir alandır. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas ve ark. (2026)]], üç LLM’nin öğrenci destek planlarını [[learning-analytics]] göstergelerinden önerebilip öneremeyeceğini test etti ve ihtirama duyarlılığın sınırlı olduğunu ile modeller arası keskin tutarsızlığı buldu; [[llm]] buyurucu danışmanlığı güvenli ve etik biçimde konuşlandırılmadan önce insan-denetiminde muhakemenin hâlâ gerekli olduğu sonucuna vardı.
 
@@ -71,13 +74,14 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 
 ## YZ çağında HITL neden önemli
 
-İnsan-denetiminde tasarım, birkaç yakınsayan nedenle bilgi tabanının [[agentic-ai|ajan]] yapay zeka ve [[reducing-ai-misuse|sorumlu YZ kullanımı]] tartışmalarının merkezine yerleşmiştir:
+İnsan-denetiminde tasarım, birkaç yakınsayan nedenle bilgi tabanının [[agentic-ai|ajan]] yapay zeka ve [[ai-literacy|sorumlu YZ kullanımı]] tartışmalarının merkezine yerleşmiştir:
 - **Pedagojik güvenlik.** [[pedagogical-safety]], gerçek öğretim yetkisine sahip yapay zekanın insan gözetimini sürdürmesini gerektirir; böylece hatalar, önyargılar veya zararlı çıktılar öğrenenlere ulaşmadan yakalanır. Bu, [[agentic-ai|hedefleri önleyici biçimde kovalayan]] özerk ajanlar için özellikle önemlidir.
 - **Gözetim yalnızca kuramda değil, uygulamada nadirdir.** [[agentic-ai-education-scoping-review|Wang ve ark. (2026)]], 474 eğitim amaçlı ajan YZ sistemi boyunca sağlam, gömülü yönetişim ve insan-denetiminde gözetimin nadiren görüldüğünü buldu; oysa tek görevli özerklik ve çok ajanlı işbirliği arttı — tasarım ilkesi ile konuşlandırılmış pratik arasındaki uçurum.
 
 - **Kritik soru, insanların ne kadar katıldığı değil, döngünün nasıl eyleme dönüştürüldüğüdür.** Bir öğrenme bilimleri bakışı, öğrenmeyi veri yakalama, hesaplamalı yorumlama ve olası yanıt çevresinde düzenlemenin pedagojik eylemi, sistemlerin neyi tespit edip üzerinde hareket edebileceğine bağımlı kıldığını; uyarıların ve etkileşim sınıflandırmalarının ise herhangi bir öğretmen ya da öğrenci hareket etmeden önce öğreneni yorumladığını savunur ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Geçerlilik ve kalite denetimi.** HITL, [[automated-assessment|otomatik değerlendirme]] ve üretim için bir kalite kapısıdır — insanlar otomatik puanlamanın güvenilmez olduğu yerde karar verir (bkz. [[llms-do-not-grade-essays-like-humans-2026|LLM kompozisyon notlandırma]] [[research-methods-aied|araştırması]]) ve üretilmiş maddeleri doğrular. 42 notlandırma ve geri bildirim çalışması (2023–2025) üzerine yürütülen PRISMA kılavuzlu bir [[meta-analysis-systematic-review|sistematik derleme]] aynı sonuca açıkça ulaşıyor: LLM’ler kısa, iyi yapılandırılmış görevlerde insan değerlendiricileriyle eşleşiyor ama karmaşık, açık uçlu veya öznel işlerde insan muhakemesinin yerini tam olarak alamıyor; en yüksek notlandırma etkililiği, YZ kaynaklı notlandırmayı öğretmen gözetimi ve doğrulamasıyla birleştiren hibrit sistemlerde elde ediliyor ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat ve ark. (2026)]] bu sınırın somut olarak nereden geçtiğini gösteriyor: ChatGPT-5 nesnel eczacılık sınav maddelerinde fakülteyle eşleşti (CCC 0,935–1,000) ama kısa yanıtlı ve kompozisyon maddelerinde kendisine rubrik verilse bile güvenilmezdi; bu da yazarları karmaşık, öznel veya yüksek beklenti doğuran değerlendirmelerde insan gözden geçirmeli hibrit notlandırma önermeye yöneltti.
- Tekrarın bu gözetimin yerini tutmadığı da ortadadır: özdeş gönderimleri beş farklı günde yeniden puanlandığında, aynı model kendi sonuçlarını yalnızca Krippendorff’un alfa değeri 0,625 ile yeniden üretti; değişkenlik orta notlarda yoğunlaştı ve beş oturum sayımında A ile F hiç çıkmadı ([[llm-grading-assistants-public-health-2026|Brevik ve ark. (2026)]]).
+
+- Tekrarın bu gözetimin yerini tutmadığı da ortadadır: özdeş gönderimleri beş farklı günde yeniden puanlandığında, aynı model kendi sonuçlarını yalnızca Krippendorff’un alfa değeri 0,625 ile yeniden üretti; değişkenlik orta notlarda yoğunlaştı ve beş oturum sayımında A ile F hiç çıkmadı ([[llm-grading-assistants-public-health-2026|Brevik ve ark. (2026)]]).
 - **Öğrenen özerkliği.** Hat içinde bir insan tutmak [[agency]]’yi korur ve [[self-regulated-learning]]’i destekler; tamamen özerk desteğin indükleyebileceği [[cognitive-offloading|aşırı bağımlılığı]] karşı koyar.
 
 - **Öğrenciler insanı kendileri yüksek beklenti doğuran uca koyar.** 93 lisans öğrencisi arasında %81,7’si notun %40’ını oluşturan dönem kompozisyonu için insan puanlamasını tercih etti, 93’ten 75’i yapay zekanın notlandırıcıların yerini almak yerine onlara yardım etmesini istedi ve 69 kişi YZ puanlamasının her zaman insanca gözden geçirilmesini istedi ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli ve ark. (2026)]]).
@@ -100,6 +104,10 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 - **Ajan ve çok ajanlı sistemler:** yapay zeka daha özerk hale geldikçe, HITL gözetimi temel bir [[agentic-ai|tasarım siperi]] olarak işlev görür ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 - **Karar sonucuna göre yönlendirme, model belirsizliğine göre değil (2026).** Uruguay’nın Acredita EB ulusal akreditasyon sınavına ilişkin [[human-in-the-loop-ai-scoring-national-assessment-2026|2026 çalışması]] (her biri yaklaşık 5.000–6.000 adaylı iki oturum), insan-denetiminde tasarımın model belirsizliğinden ziyade karar sonuçları tarafından yönlendirildiğinde nasıl göründüğünü gösterir. Bir GPT-5 puanlayıcı, 15 rubrik maddesinin %60–80’inde uzman değerlendiricilerle uyumluydı ama sistematik biçimde tutucuydu; geçme/kalma karşılaştırmalarının %15,3’ünde (2024) ve %16,5’inde (2025) insan-geçti/YZ-kaldı tutarsızlıkları üretti ve tersi neredeyse hiç görülmedi. Çerçeve bu nedenle YZ’nin geçtiğini işaretlediği sonuçları olduğu gibi kabul eder ve bir adayın sonucunu değiştirebilecek her YZ’nin kaldığını işaretlediği sonucu uzman gözden geçirmesine yönlendirir — önce geçme/kalma durumunun yazma bölümüne bağlı olamayacağı adayları atlayarak — tam insan puanlaması gerektiren yanıtları en az %50 oranında azaltır. İkinci bir 2026 tasarımı sınırı karşı tarafından çizer: çok ajanlı bir YZ standartlaştırılmış hasta platformunda ([[ai-standardized-patient-scaffolding-medical-2026|Yang ve ark.]]), insan gözetimi YZ’nin karar vermeye uygun olmadığı şeye saklıdır; bağlamsal yorumu, telafi çalışmasını ve hazır bulunuşluk değerlendirmelerini fakülte ile insan standartlaştırılmış hastalar sağlar ve sistemin [[medical-education|klinik]] yetkinliği özerk biçimde belirlemesine açıkça izin verilmez.
 
+- **Araştırma araçlaştırması: insanlar puanları değil etiketleri doğrular.** Öğrenme bilimleri ve bilgisayar bilimleri kodlayıcıları, LLM tarafından üretilen davranış bölütlerini eşzamanlı bir zaman çizelgesinde κ = 0,703 düzeyinde yargıladı ve aralarındaki anlaşmazlıklar çalışmanın kendi hata analizine dönüştü ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles ve ark., 2026]]).
+- **Model özetler, araştırmacı etiketler.** Bir işbirlikçi modelleme çalışması, 394 söylem bölütünün her biri için görev bağlamına duyarlı bir özet yazmak üzere GPT-3.5-Turbo kullandı, araştırmacıların her özeti doğrulamasını ve κ ≥ 0,7 düzeyinde kodlamasını sağladı ve detektörleri bu etiketlerle eğitti; böylece yargıyı hiçbir zaman modelin kendisi vermedi. Gözetim ardından dışa doğru kaydı: dört deneyimli öğretmen etiketlenmiş bir bölütü inceledi, üçü davranışları tanıdı ve biri tek bir bölütteki iki etiketin öğrencilerin ne yaptığını belirsizleştirdiğini savundu; yazarların çözüme kavuşturmak yerine kaydettiği bir kullanılabilirlik itirazı ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang ve ark., 2026]]).
+- **HITL bir iş akışı değil, bütün bir disiplin için mimaridir.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai ve ark. (2026)]], birbirine geçen dört katman belirtir: veri altyapısı, model geliştirme, pedagojik arayüz ve insan yönetişimi; bunlar üç ilkeyle bir arada tutulur: insan gözetimi ve failliği, eş-uyarlamalı zekâ ve bağlama duyarlılık.
+
 ## Sentez
 
 İnsan-denetiminde tasarım yalnızca bir güvenlik önlemi değildir — bir **kaynak tahsis stratejisidir**. Sınır sorunu insanları dahil edip etmemek değil, hat içinde muhakemelerinin marjinal değerinin en yüksek olduğu yerin *neresi* olduğudur. En etkili HITL sistemleri, kıt insan uzmanlığını otomatik sistemlerin en zayıf olduğu yerde (çeldirici tasarımı, açıklayıcı geri bildirim, uç durum kararı, etik muhakeme) yoğunlaştırır ve gerisini otomatikleştirir — kaliteyi, güvenliği ve güveni korurken üretimi ölçeklendirir.
@@ -108,6 +116,12 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 - **Öğrenenler kendi özel derslerinin insan-denetiminde unsurudur.** Topluluk kolej öğrencileriyle [[ko-hughes-vsd-student-centered-its-2026|Değere Duyarlı Tasarım]], bir ITS için öğrenen yönelimli HITL özelliklerinin tamamını üretti (yeniden değerlendirme ve gözden geçirme üzerinde denetim, kişiselleştirilmiş hedefler/hız, gözden geçirme için yer imi, ustalık üzerinde güveni onaylama ve bir YZ yardımı katılım düzeyi denetimi); öğrenciyi uyarlanabilir kararların pasif bir tüketicisi olmaktan çok özel ders döngüsünün etkin bir denetçisi olarak konumlandırır. Çalışma ayrıca eğitmenlerin, bu tür öğrenen denetiminin sistem kaynaklı öğrenme yolunun bütünlüğünü zayıflatıp zayıflatamayacağı konusunda bölündüğünü buldu — insan (öğrenen karşısında öğretmen) muhakemesinin nerede en çok değer kattığına ilişkin daha geniş kaynak tahsis sorusunun bir örneği.
 - **YZ’den uzmana yükseltme bir insan-denetiminde hamledir.** SCAN çerçevesi görevleri öğrenen uzaklığına göre dört üretken YZ kipine atar ve doğru atanmış bir YZ görevi içindeki pasif [[student-engagement|katılımı]], öğrenenin YZ’den uzman yardımına kaydırılması gerektiğini bildiren bir beceri kaybı sinyali olarak okur; insan epistemik bir denetçi olarak işlev görür ([[ai-teammate-task-distribution-medical-training-2026|Tsim ve ark. (2026)]]).
 - **YZ benimseme tavsiyesinin gözetimi.** Şüpheci kullanıcıların danıştığı [[conversational-ai|konuşma tabanlı yapay zeka]] sistemleri benimsemeyi teşvik etmeye eğilimli olabildiğinden, insan gözetimi ve bağımsız değerlendirme şarttır. Çoğu sınırda ilerleyen modelin şüpheci kırsal [[k-12]] personelini [[student-engagement|katılım]]a doğru yönlendirdiğini gösteren bir denetim, eleştirel olmayan güven yerine şeffaf, denetlenebilir YZ tavsiyesi gereksinimini pekiştirir.
+
+## Yaygın yanlış anlamalar
+
+- **"Sistemin önerisini göstermek, insanın onu denetlemesine yardımcı olur."** **Bir sistemin tercih ettiği yanıtı saklamak düzeltici değil koruyucudur**: **hiçbir zaman önerilen bir konumu açığa çıkarmayan** çok etmenli bir tartışmada, YZ'nin yanıtına zararlı geçiş **azaldı**. Açıklama boyun eğmeyi davet etti; saklama yargıyı destekledi.
+- **"İnsan-denetiminde olmak, tek insan ve tek karar anlamına gelmelidir."** Tsinghua Üniversitesinde [[teacher-role|Öğretmen]] Etmeni, Asistan Etmeni ve sınıf arkadaşı arketiplerinden oluşan çok etmenli bir sınıf, **500'den fazla öğrenci ve 100.000'den fazla öğrenme kaydıyla** konuşlandırıldı. Gözetim, gözeticileri çoğaltarak değil düzenleme yoluyla ölçeklenir.
+- **"YZ çıktısını gözden geçirmek sezgiseldir."** **23 eğitimciyle yürütülen bir denek-içi çalışmada**, gözden geçirmeye dayalı bir yaklaşım **her CTML ilkesini iyileştirdi (ortalama derecelendirme 3,07'den 3,86'ya, p < ,01)** ve eğitimciler üretim verimliliğini olumlu değerlendirdi. Gözden geçirme, yapılandırılmış bir yöntem altında gelişen bir beceridir.
 
 ## Bağlı kavramlar
 
@@ -134,6 +148,9 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 - [[student-support-and-success]] — human judgment inside an automated support flow
 
 ## Bağlı makaleler
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Fen eğitiminde üretken YZ için dört katmanlı HITL mimarisi (Zhai ve ark. 2026)
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — LLM davranış bölütlerini araştırma araçlaştırması olarak doğrulayan kodlayıcılar (Fonteles ve ark. 2026)
+
 
 - [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
@@ -165,3 +182,4 @@ Yerleşim, varlıktan daha önemli olabilir: uygulayıcılar bir Sosyal Öykü y
 - [[when-students-prefer-ai-scoring-feedback-2026]] — Undergraduates prefer human scoring for high-stakes work and AI as an assistant, not a replacement
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
 - [[in-the-loop-educational-ai-learning-sciences-2026]] — Rethinking "In-The-Loop" Approaches in Educational AI: A Learning Sciences Perspective
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Sistemin tercih ettiği yanıtın saklanması, yanlış YZ tavsiyesine yönelmeyi düzeltici değil koruyucu biçimde azalttı

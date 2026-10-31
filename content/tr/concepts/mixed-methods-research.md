@@ -6,7 +6,7 @@ research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,8 @@ ai_assist:
 
 Karma yöntemli tasarımlar, nicel yöntemlerin genişliğini, kesinliğini ve nedensel gücünü, nitel yöntemlerin derinliği, bağlamı ve anlamıyla bütünleştirir. Değer önermesi **üçgenlemedir**: bağımsız iplikler aynı sonuca yakınsadığında güven artar; ayrıştığında tutarsızlığın kendisi bilgilendiricidir.
 
+394 GenAI yükseköğretim çalışması boyunca karma yöntem en yaygın araştırma tasarımı olmuştur (213 çalışma, %54), bunu nicel (109, %28) ve nitel (72, %18) araştırma izlemiştir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
+
 ## Yaygın tasarım örüntüleri
 
 - **Sıralı açıklayıcı (QUAN → qual).** Önce nicel veri toplanır, sonra nitel veri şaşırtıcı ya da anlamlı nicel bulguları açıklar veya bağlamlandırır. [[genai-over-reliance-learning-2026|A mixed-method study of GenAI and sustainable learning]], geliştirmeden aşırı bağımlılığa nicel örüntüyü açıklamak için üç dalgalı anketleri eğitimci görüşmeleriyle eşler.
@@ -54,10 +56,17 @@ Karma yöntemli tasarımlar, nicel yöntemlerin genişliğini, kesinliğini ve n
 - **Güçlü yönler:** üçgenleme güveni artırır; nicel genişlik artı nitel derinlik; beklenmedik sonuçları açıklayabilir ve mekanizmayla büyüklüğü köprüleyebilir; hem etkiler hem anlam üretir; karmaşık, bağlamsal eğitimde-YZ olgularına iyi uyar.
 - **Sınırlar:** karmaşık, kaynak yoğun ve yöntemsel olarak zorlayıcı; iplikler gerçekten birleştirilmeden yalnızca yan yana raporlandığında bütünleşme yüzeysel kalabilir; her ipliğin zayıflıklarını miras alır (örneğin anketlerde öz bildirim yanlılığı, görüşmelerde araştırmacı bağımlılığı); her iki yöntemsel gelenekte de yeterlilik gerektirir.
 - **Çıkarımı sınırlayan bir kümeleme sınırı.** [[human-ai-collaboration-academic-writing-2026|Alshehri et al. (2026)]], iki bütün sınıfı (n = 31, n = 22) görevlendirir, öyleyse yalnızca iki küme ile rapor edilen t-testleri sınıf içi iç içeliği göz ardı eder ve çok düzeyli modeller tahmin edilemez, bu da anlamlılık testlerini tasarımın destekleyebileceği konusunda iyimser kılar.
+- **Ölçüm aracı seçimi hesaplamalı bir ipliği tersine çevirebilir.** VADER ile ince ayarlı bir RoBERTa aynı gönderiye karşıt değerlik atamıştır (VADER altında 0,9413 güçlü olumlu, RoBERTa altında −0,9209), dolayısıyla bir derlemin nicel okuması hangi sınıflandırıcının kullanıldığına göre değişebilir ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola ve ark., 2026]]).
 
 ## Daha geniş yöntemler manzarasıyla ilişki
 
 Karma yöntemler, [[quantitative-research|quantitative]] ve [[qualitative-research|qualitative]] gelenekler arasında yer alır, her birinin güçlü yönlerinden yararlanırken kasten bütünleşmenin tasarım disiplinini ekler. Eğitimde-YZ olgularının hem etkili hem anlam yüklü olduğu — ve alanın genişlik ve derinlik birleştiğinde en hızlı ilerlediği kabulünün bir yöntemsel yanıtıdır (bkz. [[research-methods-aied]]). [[educational-measurement]] (nicel ölçüm araçları), [[theory-development-aied]] (nitel teori kurma) ve [[ai-ed-evaluation]] (sonuç ve deneyim kanıtını bütünleştirme) ile bağlantılıdır.
+
+## Yaygın yanlış anlamalar
+
+- **“Karma yöntemler YZ eğitimi araştırmasında niş bir seçimdir.”** **394 GenAI yükseköğretim çalışması** genelinde karma yöntemler **en yaygın araştırma tasarımıydı (213 çalışma, %54)**; onu nicel (109, %28) ve nitel (72, %18) izledi. Alanın baskın tasarımı, yöntemsel tartışmalarının varsaydığı tasarım değildir.
+- **“Gözlem ve görüşme kanıtı bir sistem iddiasını taşıyabilir.”** Sistem gözlemini ve yönetici görüşmelerini, **sekiz dönem boyunca 8.708 öğrencinin dört yıllık randomize değerlendirmesiyle** ve **0,05 standart sapmalık** etkileri tespit etmeye güçlendirilmiş biçimde eşlemek, nitel ipliğin tek başına yapamadığını gösterir: küçük bir etkiyi güvenilir biçimde tespit etmek. Yöntemleri karıştırmak, iplikler arasında güç aktarmanın bir yolu değildir.
+- **“Üçgenleme, iki zayıf yöntemin güçlü bir iddia üretmesi demektir.”** Eşlemenin değeri, her ipliğin farklı bir soruyu yanıtlamasıdır. İkisini de yürütüp ardından nitel bulguyu nicel olanın onayı olarak raporlayan bir tasarım üçgenleme yapmamış, aynı şeyi yeniden söylemiştir.
 
 ## Bağlı kavramlar
 
@@ -80,3 +89,4 @@ Karma yöntemler, [[quantitative-research|quantitative]] ve [[qualitative-resear
 - [[hazra-safetutors-pedagogical-safety-2026]] — YZ eğitmen güvenliği ve pedagojik zararlar
 - [[becker-chatgpt-typology-physics-2026]] — Fizikte ChatGPT benimsemesinin nitel bir tipolojisi
 - [[edtech-privacy-deferral-2026]] — "Sonra Düzeltiriz": Eğitim, YZ ve EdTech’te Öğrenci Mahremiyetinin Ertelenmesi
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER ile ince ayarlı bir RoBERTa aynı Bluesky gönderisine karşıt değerlik atadı (Geraili Meykola ve ark., 2026)

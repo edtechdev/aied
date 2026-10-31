@@ -2,7 +2,7 @@
 title: "Öğrenciler için Yapay Zeka Rehberi"
 created: "2026-10-14T22:15:00-04:00"
 type: resource
-summary: "A free three-edition student guide to artificial intelligence from Elon University, AAC&U and The Princeton Review, whose 2026 edition builds ten human capacities with teacher-ready learning modules and an anonymous self-assessment."
+summary: "Elon University, AAC&U ve The Princeton Review’un ücretsiz üç baskılı öğrenci YZ rehberi; 2026 baskısı on insan kapasitesini öğretmene hazır öğrenme modülleri ve anonim bir öz değerlendirme ile geliştiriyor."
 url: https://studentguidetoai.org/
 author: "Elon University Imagining the Digital Future Center, AAC&U and The Princeton Review"
 author_url: https://studentguidetoai.org/about-the-2026-human-wisdom-for-the-age-of-ai-field-guide/

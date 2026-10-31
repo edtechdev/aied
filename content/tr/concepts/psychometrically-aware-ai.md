@@ -6,7 +6,7 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,9 +45,18 @@ YZ sistemleri giderek daha fazla yanıt puanladıkça, güçlüğü tahmin ettik
 - **Bir etiket, adlandırdığından fazlasını ya da azını ölçebilir.** 12 YZ okuryazarlığı aracının 55 yapısını ve 272 maddesini gömmek (embedding), jangle çiftlerini (aynı etiket, farklı ölçüm) ve jingle çiftlerini (farklı etiketler, neredeyse özdeş ifadeler) ortaya çıkardı ve yapı ayrımlarının madde ifadelerine taşındığını gösteren r = 0,49'luk bir güvenilirlik kurtarmasıyla veri toplamadan önce bir kontrol sağladı ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He ve ark. (2026)]]).
 - **Gizli yetenek hatları ve standart belirleme:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi ve ark. (2026)]], ulusal bir sınavda psikometrik bilinçli puanlamanın somut bir şablonunu sunar: rubrik madde puanları asla doğrudan toplanmaz, bunun yerine gizli yetenek tahminleri Bookmark standart belirleme yöntemiyle Proficient / Close to Proficiency / Insufficient kademelerine bölünen bir [[item-response-theory|IRT]] modeline beslenir; geçmek için en az iki Proficient bölüm ve kalan bölümün en az Close to Proficiency olması gerekir. Yazarlar bu hattı otomatik biçimde yeniden ürettiler (alt kesim için en az 7 rubrik maddesini, üst kesim için en az 10'unu doğru yanıtlama olasılığı olarak %67), böylece YZ ile insan madde puanlarının ham uyuşmaya göre değil, özdeş karar kriterlerine karşı karşılaştırılmasına izin verdi.
 
+- **Sonuca bağlanmayı reddeden bir bel bağlama ölçeği.** Dört faktör (yansıtıcı, ihtiyatlı, düşüncesiz ve işbirlikçi kullanım) 800 yanıttan ortaya çıkmış ve farklı biçimde kurgulanmış bir görevde de ayakta kalmıştır (CFI = ,91); ölçek davranışı iyi ya da kötü diye etiketlemek yerine görev anı başına ölçer ([[genai-reliance-scale-problem-solving-2026|Hou ve ark. (2025)]]).
+- **Dengeli ölçütler, yalnızca kalibre görünen bir modeli yakalar.** GPT-4o ve Gemini 2.0 Flash’tan 153 lisans öğrencisinin diyaloglarından öğrenme stili boyutlarını çıkarmalarını istemek orta düzeyde doğruluk üretmiş, ancak sınıf başına geri çağırma bunun baskın-etiket yordaması olduğunu göstermiştir: Sezgisel ve Küresel öğrenenler yetersiz tanımlanmış ve az-örnekli istek metni bazen yanlılığı ortadan kaldırmak yerine güçlendirmiştir ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi ve Robb (2026)]]).
+
 ### Bağlantılar
 
 Psikometrik bilinçli YZ, [[educational-measurement]], [[assessment-validity]], [[item-response-theory]] ve [[automated-assessment|Confidence Aware AI Assessment]] kesişiminde yer alır. [[ai-ed-evaluation]] için (YZ değerlendirmesinin güvenilir olup olmadığı) merkezi öneme sahiptir ve [[llm]] tabanlı [[automated-assessment]] ile [[automated-assessment|Automated Grading]] çalışmalarına bağlanır. Geçerlilik vurgusu aynı zamanda [[ai-education|AIED]] araştırmalarının [[limitations-in-aied-research|ölçüm sınırlılıkları]] sorusunu da ele alır.
+
+## Yaygın yanlış anlamalar
+
+- **“İyi puan alan bir model aynı şeyi ölçüyordur.”** **Aynı değerlendirme aracında** insan ve LLM yanıt yapıları **ayrışır**; bir model iyi puan alırken aracın amaçladığından farklı bir şeyi ölçüyor olabilir. Puanların örtüşmesi gözlemdir; yapı eşdeğerliği ise yapı düzeyinde kanıt gerektiren ayrı bir iddiadır.
+- **“Kalibrasyon tek bir doğruluk sayısından okunabilir.”** **Dengeli ölçütler, yalnızca kalibre görünen bir modeli yakalar**: GPT-4o ve Gemini 2.0 Flash’tan **153 lisans öğrencisinin** diyaloglarından öğrenme stili boyutlarını çıkarmalarını istemek, **dengeli ölçütler altında farklı davranan orta düzeyde doğruluk** üretmiştir. Toplam doğruluk, dengeli ölçütlerin açığa çıkardığı bir farkı gizlemiştir.
+- **“Otomatik puanlama hatları psikometrik prosedürü yeniden üretemez.”** Yazarlar yerleşik bir hattı otomatik biçimde yeniden üretmiştir (**alt kesim için en az 7 rubrik maddesini, üst kesim için en az 10’unu doğru yanıtlama olasılığı olarak %67**) ve böylece YZ ile insan madde puanlarının aynı zeminde karşılaştırılmasına izin vermiştir. Prosedür yeniden üretilebilirdi; yapı sorusu ise açık kalır.
 
 ## Bağlı kavramlar
 
@@ -61,6 +70,9 @@ Psikometrik bilinçli YZ, [[educational-measurement]], [[assessment-validity]], 
 - [[ai-education]]
 
 ## Bağlı makaleler
+
+- [[genai-reliance-scale-problem-solving-2026]] — Öğrencilerin problem çözmede üretken YZ’ye bel bağlaması için doğrulanmış bir ölçek (Hou ve ark. 2025)
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Sınıf başına geri çağırma denetlendiğinde orta düzeydeki doğruluk çoğunluk-sınıfı yordamasıydı (Zamanifard, Goudarzi ve Robb 2026)
 
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski ve ark. 2026)

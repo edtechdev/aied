@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,8 @@ Eğitimde iyi olma hali çok yönlüdür: duygusal iyi olma halini (olumlu duygu
 
 - **[[ai-literacy|YZ okuryazarlığı]] ve sosyo-duygusal öğrenme:** [[sec-ai-literacy-narrative-review-2026|SEC'yi YZ okuryazarlığına bütünleştiren araştırma]], eğitimcilerin ve öğrencilerin duygusal zekâsını ve iyi olma halini beslemenin YZ aracılı [[sociocultural-learning|öğrenme]] ortamlarında yön bulmak için gerekli olduğunu savunur ve [[social-emotional-learning]] ile YZ'nin duygusal boyutlarına bağlanır.
 - **YZ kaygısı ve öğrenci deneyimi:** Öğrencilerin YZ ile etkileşimi üzerine yapılan çalışmalar (örn. [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT temelli araştırma]]), YZ kullanımının kaygı, güven ve güvenle iç içe geçtiğini; öğrencilerin iyi olma halinin akademik dürüstlük, [[creativity]] ve [[cognitive-offloading|aşırı bel bağlama]] konusundaki kaygılardan etkilendiğini bulur.
+
+- **Sınav kaygısı ortadan kaldırılmaz, yeniden dağıtılır.** [[mulvenon-test-anxiety-ai-accountability-2026|Mulvenon (2026)]], [[assessment|değerlendirme]] dönemsel yüksek riskli sınavlardan sürekli, veri güdümlü değerlendirmeye kayarken algoritmik hesap verebilirliğin yeni bir baskı sistemi eklediğini savunur; mekanizmaları (anındalık, görünürlük ve veri kalıcılığı) akut sınav stresini nadiren bildirilen yaygın, süregelen bir performans tetikte olma haline dönüştürür.
 - **Kaygı azaltma tekdüze biçimde yararlı değildir.** 35 üniversite öncesi öğrenci üzerinde yapılan, dengelenmiş iç konu tasarımlı bir çalışmada, LLM destekli bir söyleşi aracı sözlü değerlendirmeler sırasında öz bildirimli kaygıyı düşürdü (sükunet 6,50'a karşı 5,86, p = ,028); ancak yazarlar, ılımlı kaygının kolaylaştırıcı olabileceği konusunda uyarıyor ve hiçbir kazanım puanı kaydetmedi ([[aivaluate-anxiety-assessment-2026|Yusuf, Money ve Daylamani-Zad (2026)]]).
 
 - **Yüksek onay, sıkıntıyla bir arada bulunabilir ve YZ görev baskısı yararı zayıflatır.** 551 birinci yılı öğrencisi arasında, %82,76'sı dijital ve akıllı içeriğin bütünleşmesini onaylarken %69,51'i [[anxiety-and-stress|kaygı]] veya gerginlik bildirdi ve YZ görev baskısı arttıkça YZ yetkinlik-uyum eğimi 0,42'den 0,20'ye düştü ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang ve Yin (2026)]]).
@@ -70,6 +72,15 @@ Kavramsal bir yeniden çerçeveleme, [[self-regulated-learning|duygu düzenlemes
 
 **Sinyal olarak sürtünme, anlam ve yalnızlık.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom ve Inzlicht (2026)]], iyi olma hali davasına bir mekanizma verir: çaba, eylemlerimizin önemli olduğunu sinyaller; bu nedenle bir göreve doğru çalışan insanlar daha yetkin hisseder, ürünü daha çok değerlendirir ve onu daha amaçlı görür — ve nesnel olarak anlamsız görevlerde bile, sürtünme eklemek algılanan anlamı yükseltir. İlişkiler üzerine yalnızlığı bir ağrı (kardiyovasküler hastalık, demans, felç ve erken ölümle bağlantılı) olarak değil, açlık veya acıya benzer bir **[[biology-education|biyolojik]] sinyal** olarak ele alır: dışarıya ulaşmayı, davetleri kabul etmeyi, mevcut ilişkilere yatırım yapmayı ve zor sohbetlere tahammül etmeyi motive eden bir rahatsızlık. YZ arkadaşları bu rahatsızlığı yatıştırabilir; yazarlar bunu bazı durumlarda gerçek bir ilerleme olarak görürken, aynı zamanda bağlantıyı yönlendiren sinyali de susturduğunu belirtir — ve argümanı aşamaya göre ılımlı kılarlar: koşullar gereği yalnızlaşan, seçim gereği değil, insanlar için bu tür teknolojilere erişimi reddetmenin "zalim olacağını" savunurlar ([[motivation]], [[social-emotional-learning]]).
 
+
+Duygusal destek ile bağlantı tek bir örneklem içinde zıt yönlerde hareket edebilir. 819 Suudi yükseköğretim öğrencisi arasında sohbet robotlarından memnuniyet ortalama 4,29, araçlara ilişkin deneyimleri 4,19 iken sohbet robotlarının insan bağlantısını azalttığı kaygısı 4,36 ile en yüksek puanlanan yapı oldu ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). Bu kaygı memnuniyetle düşmek yerine deneyimle birlikte yükseldi (standartlaştırılmış katsayılar .11'e karşı .64).
+
+## Yaygın yanlış anlamalar
+
+- **“Öğrenci onayı, iyi olma halinin desteklendiğini gösterir.”** **551 birinci yılı öğrencisi** arasında **%82,76'sı dijital ve akıllı içeriğin bütünleşmesini onayladı** ve **yüksek onay sıkıntıyla bir arada bulundu, YZ görev baskısı ise yararı zayıflattı**. Onay ile sıkıntı birlikte yükselir, bu nedenle memnuniyet anketleri tam da burada yanıltıcıdır.
+- **“Refah desteği kültürel olarak nötrdür.”** [[culturally-aware-student-stress-chatbot-2026|Bashir ve Afzal (2026)]], hibrit bir iyi olma hali destek aracı olan Sukoon'u **kültürel olarak durumsal** olarak tanımlar ve sayfanın kendi çerçevelemesi sınırlarını not eder. Evrensel bir öğrenci varsayan bir destek tasarımı nüfusu yanlış okur.
+- **“Görev baskısı teknolojiden ayrıdır.”** Bulgu, YZ **görev baskısının** bütünleşmenin yararını zayıflattığıdır; bu da iş yükünü teknolojinin etkilerinin yanında değil içinde konumlandırır.
+
 ## Bağlı kavramlar
 
 - [[learners]] — Öğrenenler: öğrenen yönelimli kavramlar için şemsiye
@@ -85,6 +96,8 @@ Kavramsal bir yeniden çerçeveleme, [[self-regulated-learning|duygu düzenlemes
 - [[student-support-and-success]] — danışmanlık, ulaşım ve yönlendirmeyi kapsayan kampüs destek hizmetleri
 
 ## Bağlı makaleler
+
+- [[ai-chatbots-emotional-support-human-connection-2025]] — 819 öğrenci sohbet robotlarını yüksek puanladı ve en çok insan bağlantısının kaybından korktu
 
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Biyolojik sinyal olarak sürtünme, anlam ve yalnızlık
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — YZ Kaygısı ile Akademik Motivasyon Arasındaki İlişki
@@ -107,3 +120,5 @@ Kavramsal bir yeniden çerçeveleme, [[self-regulated-learning|duygu düzenlemes
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Algılanan YZ yardımcı zekâsı, hedef ilerlemesi ve ruh sağlığı, moderatör olarak YZ okuryazarlığı
 - [[ai-emotion-regulation-sport-exercise-2026]] — Spor, egzersiz ve kampüs ekolojisi yoluyla YZ destekli duygu düzenlemesinin kavramsal yeniden çerçevelenmesi
 - [[faculty-ai-well-being-social-supports-2026]] — Öğretim üyesi YZ iyi olma halinin yapısal eşitlik modeli: öz yeterliliğe üstünlük kuran YZ okuryazarlığı
+
+- [[mulvenon-test-anxiety-ai-accountability-2026]] — Sınav kaygısı ortadan kaldırılmaz, yeniden dağıtılır

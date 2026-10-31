@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-**Teknoloji benimseme modelleri**, bireylerin ve kurumların yeni [[ai-technologies|teknolojileri]] neden kabul ettiğini, benimsediğini ve kullanmaya devam ettiğini açıklamak ve öngörmek için kullanılan teorik çerçevelerdir — ve YZ eğitimi araştırmalarında, öğrenenlerin, öğretmenlerin ve örgütlerin neden [[generative-ai|üretken YZ]] araçlarını benimsediğini açıklar. Tek bir modelden ziyade, bu; bilgi sistemleri ve sosyal psikoloji araştırmalarına ortak kökleriyle dayanan bir teori ailesidir; bunlar arasında en yaygın biçimde uygulananı **Teknoloji Benimseme Modeli (TAM)**’dir. Bilgi tabanı bu modelleri bir arada ele alır, çünkü GenAI benimseme çalışmaları bunları düzenli olarak birleştirir (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) ve çünkü onların temel yapıları — algılanan yararlılık, algılanan kullanım kolaylığı ve sosyal etki — eğitimde YZ kabulünün hemen hemen her çalışmasında yeniden ortaya çıkar.
+> **Teknoloji benimseme modelleri**, bireylerin ve kurumların yeni [[ai-technologies|teknolojileri]] neden kabul ettiğini, benimsediğini ve kullanmaya devam ettiğini açıklamak ve öngörmek için kullanılan teorik çerçevelerdir — ve [[ai-education|YZ eğitimi]] araştırmalarında, öğrenenlerin, öğretmenlerin ve örgütlerin neden [[generative-ai|üretken YZ]] araçlarını benimsediğini açıklar. Tek bir modelden ziyade, bu; bilgi sistemleri ve sosyal psikoloji araştırmalarına ortak kökleriyle dayanan bir teori ailesidir; bunlar arasında en yaygın biçimde uygulananı **Teknoloji Benimseme Modeli (TAM)**’dir. Bilgi tabanı bu modelleri bir arada ele alır, çünkü GenAI benimseme çalışmaları bunları düzenli olarak birleştirir (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) ve çünkü onların temel yapıları — algılanan yararlılık, algılanan kullanım kolaylığı ve sosyal etki — eğitimde YZ kabulünün hemen hemen her çalışmasında yeniden ortaya çıkar.
 
 ## Düşünülmesi Gereken Sorular
 
@@ -35,29 +35,25 @@ ai_assist:
 ## Giriş
 
 **YZ benimsemesine ilişkin [[meta-analysis-systematic-review|meta-analitik]] kanıt.** [[teo-ai-adoption-tertiary-meta-analysis-2026|Üçüncül öğrencilerin YZ benimsemesine ilişkin bir meta-analiz]] (233 korelasyon, 32 çalışma, N = 16.977), bireysel (r = 0,57), bağlamsal (r = 0,53) ve teknolojik (r = 0,50) faktörler için orta düzeyde pozitif korelasyonlar bulur; kullanım niyetlerinin en güçlü öngördürücü (r = 0,64), algılanan risklerin ve güvenin ise beklenenden daha zayıf olduğunu gösterir. Merkezî eleştirisi şudur: alan, modern akıllı sistemlerden önce gelişen geleneksel TAM/UTAUT çerçevelerine **aşırı bel bağlar** ve antromorfizm ve etik gibi YZ’ye özgü faktörleri göz ardı eder — bu boşlukların teoriyi ve kanıta dayalı politikayı ilerletmek açısından önemli olduğunu savunur.
+- **Örneklem hâlihazırda benimsedikten sonra kullanım kolaylığı öngörmeyi bıraktı.** Wei, Zhang ve Heo (2026), TAM’i önceden AIGC kullanımı olan 526 tasarım öğrencisine genişletmiş ve algılanan kullanım kolaylığının öz yeterlilikle anlamlı biçimde ilişkili olmayan tek teknolojik algı olduğunu bulmuştur; bilgi, güven, güvenilirlik, yararlılık, zekâ ve kaygının her biri ise ilişkiliydi ([[wei-perceived-technological-dependence-genai-2026|Wei ve ark., 2026]]). Kullanım niyeti, kesitsel veride bildirilen bağımlılıkla güçlü biçimde ilişkiliydi.
 
 ## Model ailesi
 
 ### Teknoloji Benimseme Modeli (TAM)
-
 Davis (1989) tarafından önerilen TAM, benimsemeyi iki temel inanış üzerinden açıklar — **Algılanan Yararlılık (PU)** ve **Algılanan Kullanım Kolaylığı (PEOU)** — bunlar kullanıcıların **Tutumunu (ATT)**, ardından **Davranışsal Niyetini (BI)**, sonra da fiili kullanımı şekillendirir. Bilgi sistemleri kuramına (Makul Eylem Kuramı’ndan uyarlanmış olarak) dayanan TAM, eğitimde [[generative-ai|GenAI]] benimsemesi için baskın çerçeve haline gelmiştir. Eğitimsel GenAI araştırmalarında sıklıkla [[ai-literacy]], [[trust]], sosyal etki, [[self-determination-theory|öz-belirleme]] ve **eleştirel kullanım** ile genişletilerek basit benimsemenin ötesindeki benimseme karmaşıklığı yakalanmaya çalışılır.
 
 ### UTAUT / UTAUT2 / UTAUT3
-
 **Teknoloji Kabul ve Kullanımının Birleşik Kuramı**, TAM’i sekiz önceki modelle birleştirerek dört temel belirleyicide toplar — performans beklentisi, çaba beklentisi, sosyal etki ve kolaylaştırıcı koşullar (UTAUT2 hedonik motivasyon, fiyat değeri ve alışkanlığı ekler; UTAUT3 kişisel yenilikçiliği ekler). Bilgi tabanı UTAUT’u öğretmen ve öğrenci kitlelerine uygular: [[mathematics-teachers-chatbot-motivation-2026|Avusturyalı ortaöğretim matematik öğretmenleri]] (448 öğretmenle UTAUT), [[pre-service-science-teachers-ai-perceptions-2026|Gana’daki hizmet öncesi fen öğretmenleri]] (UTAUT + TPB) ve [[tian-genai-learning-adoption-pathways-2026|Lesotho’daki öğrenciler]] (PLS-SEM ve fsQCA kullanarak UTAUT3 + ARCS). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez ve ark.]], 522 üniversite öğrencisi için UTAUT2’yi açıklanabilir YZ (Random Forest, SHAP, NCA, IPMA, K-Means) ile genişletir; **alışkanlığı** ChatGPT niyetinin en güçlü öngördürücüsü olarak bulur ve **çaba beklentisinin doğrusal bir itici değil, gerekli bir koşul** olduğunu gösterir — yalnızca açıklanabilir YZ regresyonu tamamladığında görülebilen bir sonuç.
 
 ### Planlı Davranış Kuramı (TPB)
-
 TPB, niyeti tutum, öznel normlar ve algılanan davranışsal denetim üzerinden açıklar. YZ benimseme çalışmalarında sıklıkla TAM/UTAUT ile eşlenir — örneğin [[genai-chatgpt-adoption-ethics-students-2026|Rizun ve ark.]], öğrencilerin ChatGPT benimsemesinin davranışsal ve [[ethics|etik]] iticilerini modellemek için TAM, TPB, UTAUT ve FATE ([[bias-mitigation|Adillik]], Hesap Verebilirlik, Şeffaflık, Etik) çerçevesini bütünleştirir.
 
 Benimseme araştırmaları genellikle niyette durur; buna karşılık gerçek bir niyetin varlığına rağmen gecikmeyi ölçen bir TPB genişlemesi, 1.243 lisans öğrencisi boyunca algılanan davranışsal denetimi GenAI destekli öğrenme ertelemesinin en güçlü olumsuz öngördürücüsü olarak bulmuştur (β = −0,331); niyet–gecikme bağlantısı ise yalnızca orta-yüksek düzeyde öğrenme YZ kaygısında anlamlıdır ([[genai-learning-procrastination-planned-behavior-2026|Li ve ark. (2026)]]).
 
 ### Yayılım Modeli (DOI)
-
 Rogers’ın DOI kuramı, benimsemeyi yeniliklerin zaman içinde popülasyonlarda yayıldığı bir sosyal süreç olarak açıklar; yenilik özniteliklerini (göreli avantaj, uyumluluk, karmaşıklık, denenebilirlik, gözlenebilirlik) ve benimseyici kategorilerini vurgular. Bilgi tabanının [[governance|kurumsal]] düzeydeki analizlerinde görülür; örneğin [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi ve ark.]], Suudi üniversitelerinde örgütsel YZ benimsemesini modellemek için Teknoloji–Örgüt–Çevre (TOE) çerçevesini DOI ile birleştirir.
 
 ### Teknoloji–Örgüt–Çevre (TOE)
-
 TOE, benimsemeyi teknolojik, örgütsel ve çevresel bağlamlarla şekillenen bir süreç olarak çerçeveler — kurumsal benimsemeyi incelemek için bireysel düzeydeki TAM/UTAUT’un bir tamamlayıcısıdır (bkz. [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
 ## Bilgi tabanındaki uygulamalar
@@ -86,7 +82,15 @@ TAM’in bilişsel odağı YZ kullanımının duygusal ve ilişkisel boyutların
 
 **Boyuta özgü bir genişleme olarak risk algısı.** 814 Çin üniversite öğrencisine ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi ve Chen (2026)]]) yapılan bir anket, öğrencilerin [[generative-ai|üretken YZ]]’yi benimseyip benimsemediğini değil, ondan ne kazandığını sormak için Bilişsel Değerlendirme Kuramı’nı ve Korunma Motivasyon Kuramı’nı TAM/UTAUT2’ye katıştırır. Model ailesinin riskin benimsemeyi tek biçimde baskıladığı varsayımı ayakta kalmaz: risk algısı, faydaları zıt yönlerde hareket ettiren bilgi, güvenlik, teknik, [[ethics|etik]] ve hukuki boyutlara ayrılır. Öğrencilerin [[privacy|gizlilik uygulamalarıyla]] yönetebilecekleri bir tehdit olarak gördükleri güvenlik riski, problem odaklı başa çıkmayla tutarlı biçimde algılanan akademik yardım ve beceri gelişimiyle *pozitif* ilişkilidir; buna karşılık öğrenenlerin kolayca doğrulayamadığı bilgi riski, kaçınma yoluyla psikolojik ve duygusal destek, günlük yaşam ve boş zaman faydalarını aşındırır. Eşik analizleri ayrıca boyuta özgü kesim noktalarının ötesinde işaret değiştiren etkiler göstermiştir; kullanım deneyimi ise bağımsız olarak önemli olmuştur: bir yıldan fazla GenAI kullanan öğrenciler dört alanda daha yüksek faydalar bildirmiştir. Kabul araştırmaları için pratik çıkarım, "algılanan risk"in modellenmek için fazla kaba bir yapı olduğudur — riskin varlığı değil, onun denetlenebilirliği, öğrencilerin angaje olup olmadığını belirleyen şeydir.
 
+Yakın tarihli bir genişleme alışılmış yönü tersine çevirir ve alana özgü motivasyonel inanışları TAM algılarının yanına değil, önüne yerleştirir. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ve Lu (2026)]], fayda değerinin algılanan yararlılığı β = 0.43 ile, başarı beklentisinin ise kullanım kolaylığını β = 0.39 ile öngördüğünü, TAM’in çekirdek yollarının ise zayıflamakla birlikte anlamlı kaldığını bildirir.
+
 Riskin kullanımla bağlantısı sisteme de bağlıdır: ilgili maddeleri uygulayan 49 TALIS 2024 sistemi boyunca, algılanan YZ yararlılığı 49’unun tümünde YZ kullanımıyla pozitif ilişkiliyken, algılanan risk 40 sistemde olumsuz, dokuz sistemde olumlu ilişkilidir ([[teachers-ai-belief-profiles-talis-2024-2026|Fang ve Jin (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“TAM’in yapıları benimsemeyi açıklar.”** [[socio-cognitive-genai-adoption-engineering-2026|Asag ve Al Mamun]], Bangladeş’teki mühendislik öğrencileri için TAM’i UTAUT ile bütünleştirmiş ve varyansın **%64’ünü** açıklamıştır. Aynı anda hem önemli hem eksiktir: benimsemeyi yönlendiren şeyin yaklaşık üçte biri klasik kabul yapılarının dışında kalır.
+- **“Kabul modelleri alana özgü değişiklik gerektirmez.”** Klasik yapılara **algılanan yapay özerkliği** (öğretmenlerin GenAI’nin verilen bir öğretim görevini ne kadar bağımsız yürütebileceğine ilişkin inanışları) ve **riskten kaçınmayı** eklemek modeli önemli ölçüde değiştirmiştir. Özgün yapılar, özerkliği olmayan araçlar için kurulmuştu; GenAI ise algılanan özerkliğe sahiptir.
+- **“Meta-analitik bir benimseme tahmini herhangi bir popülasyonu betimler.”** [[teo-ai-adoption-tertiary-meta-analysis-2026|Üçüncül öğrenciler üzerine meta-analiz]] popülasyon düzeyindeki tahmindir; %64’ü açıklayan mühendislik sonucu ise belirli bir popülasyondur. Birini diğerine taşımak, kanıtın kurmadığı bir kararlılığı varsayar.
 
 ## Bağlı kavramlar
 
@@ -105,6 +109,7 @@ Riskin kullanımla bağlantısı sisteme de bağlıdır: ilgili maddeleri uygula
 - [[framing-ai-use-for-students]]
 
 ## Bağlı makaleler
+- [[high-school-genai-acceptance-tam-physics-2026]] — Alana özgü inanışlar TAM algılarının önüne yerleştirilmiştir
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — "Düşman-dost" olarak GenAI: yapay özerklik ve riskten kaçınma TAM’i öğretmenler için genişletir (Dai ve ark. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Hemşirelik YZ deneyimleri; TAM’in psikososyal genişlemesi
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Kümeleme yoluyla GenAI benimseme personaları

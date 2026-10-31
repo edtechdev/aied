@@ -2,7 +2,7 @@
 title: "TeacherServer"
 created: "2026-10-14T22:15:00-04:00"
 type: resource
-summary: "A large free library of single-purpose teaching generators — lesson plans, worksheets, IEP goals, rubrics, case studies, math problems — for K-12 teachers and college faculty."
+summary: "K-12 öğretmenleri ve üniversite öğretim elemanları için geniş ve ücretsiz bir tek amaçlı öğretim üreteçleri kütüphanesi: ders planları, çalışma kâğıtları, BEP hedefleri, değerlendirme ölçütleri, vaka çalışmaları, matematik problemleri."
 url: https://teacherserver.com/
 author_url: https://teacherserver.com/index-team.php
 author: "Zafer Unal"

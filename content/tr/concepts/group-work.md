@@ -11,7 +11,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -102,6 +102,16 @@ GenAI ve grup değerlendirmesi üzerine en doğrudan bulgu, [[chen-zou-genai-gro
 - **Cevap verene karşılık argümantif bir ortağı tercih edin.** Anlaşmazlığı yumuşatmak yerine ortaya çıkarmak üzere YZ’yi yapılandırın, böylece grup çalışması anlayışı inşa eden bilişsel çatışmayı korur.
 - **[[neurodiversity|Neurodivergent]] Nörofarklı öğrencilere uyum sağlayın.** Yapılandırılmış ödevler, küçük tutarlı ekipler ve açık rol tanımları, YZ işbirliği araçlarının desteklemesi gereken gereksinimlerdir.
 - **Tutumluluğu dikkatlice okuyun.** Gruplarda YZ’den kaçınan öğrenciler normatif öz-düzenleme uyguluyor olabilir — veya risk ve yabancılığa karşı korunuyor olabilir. İkisi farklı [[teacher-role|instructor]] öğretmen yanıtları gerektirir.
+
+## Yaygın yanlış anlamalar
+
+**“YZ, bir grubun iş akışına tarafsız bir eklemedir.”** Grubun etkileşiminin nereye gittiğini yeniden yapılandırır. Burada atıf yapılan çalışmada grup dinamiği etkileşimi insanlardan uzağa kaydırdı (**soruların %79,7’si ajanlara yöneldi, *p* = ,017**) ve katılımcılar, her konuşmacının söz aldığı sıralı söz biçiminde bir genişlik–derinlik ödünleşimi bildirdi. Sorularının neredeyse beşte dördünü bir makineye yönlendiren bir ekip, artık grup çalışmasının geliştirmek için var olduğu akran sorgulamasını prova etmiyordur.
+
+**“Cilalı grup çıktısı iyi işbirliğinin kanıtıdır.”** Cilalı çıktı güvence değil, epistemik risktir. Bir grup, işin düzenlenmesi (kim neye karar verdi, anlaşmazlık nasıl çözüldü, kimin akıl yürütmesi sınandı) modelin yanıtının içinde gerçekleşip üründe hiçbir iz bırakmadan mükemmel bir eser üretebilir.
+
+**“YZ en çok grubu koordine ettiğinde yardımcı olur.”** Koordinasyon desteği ile epistemik destek zıt yönlere çeker. İşbirliği yapmanın koordinasyon maliyetini düşürmek, grubun anlam üzerinde pazarlık yapma baskısını azaltabilir; değerlendirilen süreç tam olarak budur. Verimlilik–düzenleme ödünleşimi bir uygulama ayrıntısı değil, çekirdek tasarım gerilimidir.
+
+**“Grup çalışması insanlar yüzünden zordur.”** Bunun bir kısmı görev tasarımıdır; YZ’nin zorluk profilini basitçe hafifletmek yerine değiştirmesinin nedeni budur: soruları hızlı yanıtlayan bir araç, grubun zamanını neye harcadığını değiştirir ve bunun bir iyileşme olup olmadığı, görevin hangi becerileri geliştirmek için kurulduğuna bağlıdır.
 
 ## Bağlı kavramlar
 

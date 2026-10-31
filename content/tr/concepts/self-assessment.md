@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,16 @@ Ayrıca açıkça belirtmeye değer bir adlandırma tehlikesi getirir. **YZ öz 
 - **Öz bildirimi dürüst olduğu yerde kullanın.** Özgüven, algılanan yetkinlik ve YZ kullanımını açıklama istekliliği, sorularak ölçülmesi meşru şeylerdir. Başarı öyle değildir.
 - **Görüş değil yargı isteyin.** YZ çağının en savunulabilir öz değerlendirmesi, öğrenciden belirli bir işi ölçütlere karşı değerlendirmesini ve kararı gerekçelendirmesini ister; bu eğitilebilir, incelenebilir ve [[evaluative-judgment]] bağlıdır.
 - **Kohort etkisini izleyin.** Biçimlendirici yılları yerine geçen YZ kullanımını içeren öğrenciler için doğru bir öz tahmin, yalnızca iyimser olmak yerine kullanılamaz olabilir; bu, öğretim görevini aşırı özgüveni düzeltmekten onun ihtiyaç duyduğu deneyimsel kaydı yeniden inşa etmeye kaydırır.
+
+## Yaygın yanlış anlamalar
+
+**“Bir öz bildirim, adını taşıdığı beceriyi ölçer.”** Beceriye ilişkin bir inancı ölçer ve ikisi ciddi biçimde ayrışır. **288 K-12 öğretmeninin** katıldığı bir çalışmada, öz bildirimli [[ai-literacy|YZ okuryazarlığı]] aynı becerinin nesnel bir ölçüsüyle yalnızca **r = 0,07 ile r = 0,24 arasında** ilişkiliydi; bu aralıkta öz bildirim, yeteneklilikteki varyansın neredeyse hiçbirini açıklamaz. Öz bildirim bir algı ölçüsü olarak kullanılabilir, yetkinliğin bir vekili olarak kullanılamaz.
+
+**“Öğrenciler kendi öğrenmelerini doğru yargılayabilir.”** Öz yargının doğruluğu başlı başına bir beceridir ve kalibrasyona ilişkin kanıt ters yönü gösterir: deneysel bir karşılaştırmada, muhakeme odaklı iskelelemede açık eğitim, sınırsız erişimden daha iyi öz değerlendirme kalibrasyonu üretti; bu, kalibrasyonun varsayılan olarak mevcut olmak yerine öğretimle iyileştiği anlamına gelir.
+
+**“Bir YZ geri bildirim döngüsü eklemek öz değerlendirmeyi kendiliğinden iyileştirir.”** Bir geri bildirim döngüsü öğrencinin neye karşı karşılaştırma yaptığını değiştirir; bu kalibrasyonu iyileştirebilir ve öğrenciyi sistemin yargısına da bağlayabilir. Buradaki karşılaştırmalı çalışma (**118 birinci sınıf lisans öğrencisi, 56'sı üretken YZ grubunda ve 62'si akran grubunda**, bir dönem boyunca üç döngü) tam olarak işi döngünün mü yoksa toplumsal karşılaştırmanın mı yaptığını sınamak için tasarlanmıştır ve yanıt "döngü olduğu için döngü" değildir.
+
+**“Öz değerlendirme, sınavın daha yumuşak bir alternatifidir.”** Farklı bir hedeftir. Öz değerlendirme, kişinin kendi işini yargılama düzenleyici becerisini geliştirir; bir sınav ise yargılanan yetenekliliği ölçer. Birini diğerinin yerine koyan araştırma, performansı değerlendirme kapasitesini performansın kendisiyle karıştırır.
 
 ## Bağlı kavramlar
 

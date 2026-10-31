@@ -10,7 +10,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -124,6 +124,8 @@ Pedagojik tersine çevirmenin en net ifadesi [[ai-agents-joyful-assessment-third
 
 Tespit ile yeniden tasarım arasında üçüncü bir yol durur. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]], YZ destekli kopya çekme riskini dönem başındaki [[learning-analytics|LMS izlerinden]] 0,763 AUC ile tahmin eder ve çıktıyı — hatırlatmalar, ödev takibi, kısa kontrol görüşmeleri biçiminde — suç davranışının kanıtı değil düşük riskli akademik rehberlik olarak çerçeveler; puanın notlandırma ve disiplin kayıtlarından ayrı kalmasında ısrar eder.
 
+### Bağlantılar
+
 Akademik dürüstlük [[assessment-validity]], [[ai-literacy]], [[ai-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]] ve [[equity-in-ai-education]] ile bağlantılıdır. [[ai-education|Eğitimde YZ]]’nin etik boyutudur; [[cognitive-offloading|Aşırı Güven]] ile ayrılmaz bir bütündür ve [[generative-ai]]’nin [[higher-ed]] ile [[k-12]] öğrenmesini nasıl yeniden şekillendirdiğine dair daha geniş sorunun parçasıdır.
 
 - **Sistematik derleme sentezi.** 25 çalışmanın PRISMA derlemesi (Balalle ve Pannilage 2025), YZ’nin hem bir tehdit (YZ ile üretilmiş yazım, paragraf değiştirme araçları) hem bir tespit aracı (Turnitin YZ puanları) olarak işlev gördüğünü, tespit yazılımının YZ ile üretilmiş çalışmalar için güvenilmez olduğunu ve kurumların yalnızca denetimle değil açık politika, değerlendirme yeniden tasarımı ve etik eğitimi yoluyla bir akademik dürüstlük kültürü inşa etmesi gerektiğini bulur.([[ssaho-ai-academic-integrity-review-2025]])
@@ -161,6 +163,11 @@ GAIT temelli suç niyetine ilişkin ilk Planlı Davranış Teorisi çalışması
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], rejimi tek bir fakültenin içinden belgeler: değerlendirme biçimlerini değiştirmiş öğretim üyeleri, “bir öğrencinin ödevlerin yazımında YZ kullanıp kullanmadığını söylemenin neredeyse imkânsız olduğunu” söylemiş, öfkeli öğrenciler ise tespit yerine vicdana ve “utandırmaya” başvuru talep etmiştir.
 - **Daha iyi algılama, değerlendirmenin belgelendirebileceğini değiştirmez.** %99,56 sınıflandırma doğruluğu bildiren bir YOLOv11 duruş kestirimli gözetim sistemi, tespit yolunun sınırını gösterir: davranışsal bir etikete karşı duruşu ölçer, kötüye kullanım hakkında hiçbir gerçek referans bildirmez ve hiçbir alt grup analizi sunmaz ([[arif-automated-online-proctoring-yolov11-2026|Arif ve ark., 2026]]). Villanueva’nın savunduğu çözüm, her teslimin azami gözetimi değil, kilit aşamalarda yeterli öğrenme kanıtıdır.
 
+
+**Uluslararası politikadaki dürüstlük dili işlevsel bir anlam sabitlemez ve bulgu, boşluk değil tam olarak budur.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]], 2023 ile 2026 arasındaki dört UNESCO ve OECD yayınını eleştirel söylem analiziyle inceledi ve belgeler arasında gönderimi değişirken normatif ağırlık taşıyan sekiz yinelenen terim buldu: sorumluluk, şeffaflık, güven, insan failliği, özgünlük, otantiklik, sorumlu kullanım ve zenginleştirme. UNESCO, temel değerlerden sağlayıcıları, pedagojik açıdan uygun etkileşimden eğitimcileri sorumlu tutar; OECD aynı terimi öğretmenlerin mesleki yargısına taşır.
+
+OECD (2023), 2024 başları itibarıyla ankete katılan on sekiz ülkenin hiçbirinde eğitime özgü üretken YZ düzenlemesi bulunmadığını ve dokuzunun yönetişimi okul düzeyine devrettiğini kaydeder. Ahmed'in edimsizlik kavramıyla okunduğunda, sözcük dağarcığı onu yürürlüğe koyacak hiçbir mekanizma olmadan etik bir yanıt verebilirliği ifade eder; böylece sorumluluk her aktör tarafından aynı anda dile getirilir ve hiçbirinde konumlanmaz. Hashem sonucu değişen bir **kopya çekme habitusu** olarak adlandırır: meşru katılıma yönelik eğilimlerin kronik belirsizlik altında yeniden kalibre edilmesi, öğrencilerin getirdiği akademik sermayeye göre katmanlaşması ve kopya çekme ile kopyalanmanın alternatifler değil eşzamanlı koşullar olarak ele alınması. Bütün bunlar öğrencilerde gözlemlenerek değil, politika metninden önerilmiştir.
+
 ## Yaygın yanlış anlamalar
 
 - **“Tespit araçları YZ yazımını tanımlar.”** YZ ile üretilmiş metin **olguların %80’ine kadar insan yazımı olarak geçmiştir**, tespit kanıtı ise **makine tespitini insan puanlayıcıların %78,4’üne karşı yaklaşık %80** olarak koyar. İnsan ve makine yargısı neredeyse eşit derecede güvenilmezdir, dolayısıyla bir tespit hükmü yazarlığın kanıtı değildir.
@@ -192,6 +199,8 @@ GAIT temelli suç niyetine ilişkin ilk Planlı Davranış Teorisi çalışması
 - [[social-norms-ai-use]] — resmi politikanın altında yatan gayri resmi kurallar
 
 ## Bağlı makaleler
+
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Dört UNESCO ve OECD belgesi söylem olarak okunduğunda: kayan gösterenler, edimsizlik ve değişen bir kopya çekme habitusu
 
 - [[ivory-psychology-assessment-integrity-2026]] — Tam bir psikoloji programı asgari çabayla geçer not üretebiliyor ve bunu geçiren notlandırma kriterleri (Ivory ve ark. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Öğretmen adayları hoşgörülü politika altında GenAI’den vazgeçti; “tuzak” çerçevelemesi ve anket–beyan boşluğu

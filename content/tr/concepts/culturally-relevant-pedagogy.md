@@ -9,7 +9,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,37 @@ Bilgi tabanının kendi makalelerine dayanarak eğitimciler ve tasarımcılar k�
 - **Topluluk bilgisini değerlendirme standardı olarak merkeze alın.** Topluluk temelli YZ öğrenmesini izleyerek öğrenenlerin YZ çıktılarını yerel temelli alaka, zarar ve fayda ölçütlerine göre yargılamasını sağlayın ve reddetmenin ya da kullanmamanın doğru çağrı olduğu bağlamları onurlandırın.
 - **Kültürel temelli veri kümelerini benimseyin ve değerlendirin.** IKS-Instruct ve NSMQ Riddles, [[discipline-specific-aied|alana özgü]], Batı dışı verilerin hem alaka düzeyini hem dürüst değerlendirmeyi anlamlı biçimde iyileştirdiğini göstermektedir.
 
+- **Taslak yazmadan önce YZ'nin öğretmenle görüşmesini sağlayın.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai ve ark. (2026)]], etkileşimli yarı otomatik istek metni mimarisi önce bağlam ve kültür soruları soran, ardından genel bir plan üretmek yerine öğretmenin kendi yanıtlarından taslak çıkaran kültürel olarak duyarlı bir ders planlayıcı tanımlar.
+
+## Yaygın yanlış anlamalar
+
+**“YZ çıktıları, kültür için istek metni yazmadıkça kültürel olarak nötrdür.”** Varsayılan nötr değil, baskındır. **310 YZ tarafından üretilmiş yurttaşlık ders planının (2.230 etkinlik)** analizi, **%94'ünün ayırt edilebilir çok kültürlü içerik taşımadığını** buldu ve taşıyan 144 etkinlikten **137'si en düşük "Katkı" düzeyinde kaldı, yalnızca biri "Dönüşüm" düzeyine ulaştı ve hiçbiri "Sosyal Eylem" düzeyine ulaşmadı.** Yönlendirilmeden bırakıldığında modeller çeşitlilik içermeyen bir varsayılanı yeniden üretti; bu nedenle kültür için istek metni yazmak bir önyargı azaltma değil, bunlardan herhangi birinin görünmesinin tek nedenidir.
+
+**“Çok kültürlü örnekler eklemek kültürel olarak duyarlı pedagoji oluşturur.”** Çerçevenin kendi hiyerarşisi bunun tersini söyler ve üretilen çıktı ayrımın neden işlevsel olarak önemli olduğunu gösterir. Katkı düzeyindeki içerik yapıyı ve ünitenin varsayımlarını olduğu gibi bırakır; Dönüşüm içeriğin nasıl çerçevelendiğini değiştirir; Sosyal Eylem öğrenenlerden bu içerik üzerine eylemde bulunmalarını ister. Temsili dönüşümle karıştırmak, bir korpusun çeşitlilikte %6 oranında dolu olup kültürel olarak duyarlı olmaktan yine de uzak kalmasının yoludur.
+
+**“Kurumsal YZ kullanım politikası, öğrencilerin neyi etik saydığını belirler.”** Kültür, politika metninden daha fazla iş görür. Kanadalı ve Güney Koreli [[cs-education|bilişim]] öğrencilerinin kültürler arası anketi, **YZ kullanımının etikliğine ilişkin algıları politikanın değil kültürün yönlendirdiğini** buldu: özdeş davranışlar kohortlar arasında farklı yargılandı. Bu nedenle kurum çapında tek bir politika paylaşılan bir etik üretmez ve onu üretiyormuş gibi ele almak öğrencilerinizi yanlış okumaya yol açar.
+
+**“Öğretmenlerin daha güvende hissettiğini gösteren dört öğretmenli bir pilot, yaklaşımın işlediğinin kanıtıdır.”** Bu, öğretmen algısına ilişkin bir kanıttır; sahip olunmaya değerdir ve aynı şey değildir. Bu pilotta öğretmenlerin kültürel duyarlılık fırsatlarını fark etme güveni arttı ve **%78'i materyalleri çeşitlendirmede YZ önerilerini yararlı buldu**; oysa yazarlar kültürel uyarlamanın **NLP hattında değil istek metninde** yaşadığını ve kültürel uygunluğun tasarlanmak yerine değerlendirildiğini kabul eder. Güven artı yararlılık, öğrenciler için kanıtlanmış kültürel alaka değildir.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Yönlendirilmemiş bir YZ ders planını asla kültürel olarak duyarlı diye sunmayın. %94 oranı varsayılan davranıştır, bu nedenle kültürel içerik açıkça belirtilmeli ve madde madde denetlenmelidir.
+- Kendi eklemelerinizi Katkı/Dönüşüm/Sosyal Eylem basamağına göre sıralayın ve doğal gelenin en az bir basamak üstünü hedefleyin. Üretilen çeşitliliğin çoğu en altta durur.
+- Kurumunuzun politikasının öğrencilerinizle birlikte yol aldığını varsaymayın. Kültürel bağlam, etik yargılarını kural kitabından daha çok şekillendirir.
+
+**Geliştiriciler için**
+
+- Kültürel uygunluğu istek metni değil, işlem hattı sorunu olarak ele alın. Pilotun kendi sınırlılığı uyarlamanın istek metninde durmasıdır; bu da istek metni değiştiğinde onun kaybolduğu anlamına gelir.
+- Üretilen içeriği tam basamak üzerinden değerlendirin ve kaç maddenin Dönüşüm veya Sosyal Eylem düzeyine ulaştığını bildirin; Katkı düzeyinde duran bir çeşitlilik sayısı tatmin edici görünür ve çok az şey ifade eder.
+- Ölçtüğünüz her neyse öğretmen-öğrenci ilişkisini görünür kılın; anılan çalışmada özellik önemi onu stres yordayıcıları arasında ikinci sıraya yerleştirmiştir ve genel üretimin sağlayamadığı varlık budur.
+
+**Araştırmacılar için**
+
+- Kültürel içeriği varlık ya da yokluk olarak değil düzeye göre bildirin, çünkü %94'e karşı %6'lık bir varlık oranı hangi %6 olduğu hakkında hiçbir şey söylemez.
+- Pilotları raporlarken öğretmen algısına ilişkin sonuçları öğrenci sonuçlarından açıkça ayırın.
+
 ## Bağlı kavramlar
 
 - [[equity-in-ai-education]]
@@ -85,6 +116,9 @@ Bilgi tabanının kendi makalelerine dayanarak eğitimciler ve tasarımcılar k�
 - [[pedagogy]] — Şemsiye: YZ eğitiminde pedagojiler ve öğretim stratejileri
 
 ## Bağlı makaleler
+
+
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Taslak yazmadan önce öğretmenlerle kültürel bağlam hakkında görüşen ders planlayıcı (Zhai ve ark. 2026)
 
 - [[llm-cultural-relevance-k12]] — K-12 için kültürel olarak duyarlı pedagojide LLM’ler
 - [[civic-education-ai-lesson-plans]] — Yurttaşlık eğitiminde YZ tarafından üretilen ders planları

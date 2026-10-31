@@ -8,7 +8,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,13 @@ Nörodivergent öğrenciler için dijital yardımcı [[ai-technologies|teknoloji
 - **Yardımcı uyarlamaların maliyetini düşürmek için YZ’den yararlanın.** YZ otomatik altyazı oluşturabilir, metni basitleştirebilir ve alternatifler üretebilir; ancak çıktı kalitesini pedagojik doğruluk açısından değerlendirin.
 - **Sağlamayı politikaya dayandırın.** YZ araçları tedarik ederken veya geliştirirken Yardımcı Teknoloji Yasası, IDEA ve WCAG’a başvurun.
 - **Desteğin hangi işlevi gördüğünü belirtin — ve değerlendirmeyi bu işleve göre yapın.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou vd. (2026)]], telafi edilmesini (erişim ve katılımla değerlendirilir), iskelelemeyi (destekli kararlar) ve gelişimi (azaltma veya aktarımdan sonra strateji kullanımı) birbirinden ayırmaktadır. Bu sayfanın uyarısına yönelik bir kural daha eklemektedirler: erişilebilirlik desteği telafi değildir — bir aracın uyarlama, strateji öğretimi mi yoksa geçici pratik desteği mi olduğu "öğrenme planında belirtilmelidir".
+
+## Yaygın yanlış anlamalar
+
+- **“Yardımcı teknoloji, engellerin bulunduğu yeri hedefler.”** Nöroçeşitli öğrenciler için dijital yardımcı teknolojiler üzerine 2026 tarihli bir kapsam incelemesi on yılın çıktısını haritalar ve **araçların hedeflediği yer ile engellerin bulunduğu yer arasında bir uyumsuzluk** bulur: **27 çalışma öğrenmeyi doğrudan destekledi**, 13’ü okuma ve yazmayı, 12’si çalışma yönetimini ele aldı; **dikkat (n = 4)** ve diğer temel engeller ise zar zor ele alındı. En çok çalışılan hedef, en kısıtlayıcı olan değildir.
+- **“Orta düzey bir etki büyüklüğü doğru aracı tanımlar.”** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang ve ark.]], YZ temelli müdahalelerin engelli öğrenciler için öğrenme sonuçları üzerinde robotlar, yazılım ve akıllı VR genelinde orta düzeyde olumlu bir etki ürettiğini bulur (**g = 0,588**). Bu, çok farklı ihtiyaçlara hizmet eden çok farklı teknolojiler üzerinden bir ortalamadır; dolayısıyla kategoriyi destekler, kategori içindeki bir seçimi değil.
+- **“Tanıya bağlı erişim savunulabilir bir tasarımdır.”** Katılım için resmî tanı istemek, gerçek ihtiyaçları olan ve etiketi olmayan öğrenenleri dışlar; bu [[universal-design-for-learning|evrensel öğrenme tasarımıyla]] çelişir ve erişim maliyetini öğrencinin belgelerine yükler.
+- **“Daha fazla yardımcı araç daha fazla kapsayıcılık demektir.”** Bir kapsam incelemesi beş veri tabanında **766 kaydı** taradı ve çıktı hacmi ihtiyacın karşılanmasıyla aynı şey değildir; her engel başına çalışma sayısı daha bilgilendirici olan rakamdır.
 
 ## Bağlı kavramlar
 

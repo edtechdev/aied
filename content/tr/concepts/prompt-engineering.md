@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,9 @@ ai_assist:
 ### İstek metni mühendisliği araştırmada nasıl görünür
 
 - **Bilişsel iz olarak istek metni yazma:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk ve ark.]], istek metni örüntülerinin [[cognitive-offloading|bilişsel dış kaynak kullanımını]] açığa çıkardığını gösterir — yüksek kaliteli iş, bağlam açısından zengin, nazik ve öğretici istek metinleri kullanır; düşük kaliteli iş, alan temeli olmadan tepkisel itiraz gösterir
+
+
+- **Belirsiz istek metinleri diyalogda iz bırakır.** Düşük kaliteli grubun imzası, belirsiz istek metinlerine ve YZ’nin yanlış okumalarına kadar izlenen kendini yineleyen bir açıklama döngüsüydü (IC→IC, Z = 3,25) ve çalışmanın en büyük hayal kırıklığı farkını taşıyordu (2,12’ye karşı 3,82); gerçek günlük kayıtları üzerinde istek metni hata ayıklaması, tam olarak bunu gerçekleşirken hedefler ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang ve ark. (2026)]]).
 
 - **Derinlik ürünü iyileştirir, kalıcılığı değil.** 22 lisansüstü öğrencide, açıklama arayan ("neden/nasıl/açıkla") istek metinlerinin payı, temel bilgi ve istek metni hacminin ötesinde bağımsız puanlanmış görev kalitesini öngördü (β = 6,27), ancak anlık hatırlamayla sıfır ilişki gösterdi ([[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]]).
 
@@ -77,6 +80,11 @@ ai_assist:
 
 - **Değerlendirme tasarımı olarak istek metni yazma.** [[ecd-prompts-automated-essay-scoring-2026|Xiong ve ark. (2026)]], Kanıt Merkezli Tasarımın (Evidence-Centered Design) öğrenen, kanıt ve görev modellerini bir puanlama istek metninin parçalarına eşler ve beş ilke — kastlılık, izlenebilirlik, hesap verebilirlik, yineleme ve eşitlik — türetir; ECD ile kurulmuş istek metinleri anlatı makalelerini sıfır atımlı (zero-shot), birkaç atımlı (few-shot) ve düşünce zinciri tabanlılarından daha isabetli puanlamıştır.
 
+
+- **Daha iyi istek metinleri, çıktı kalitesini yükseltmeden yinelemeyi azalttı.** Bir ders hazırlama deneyinden önce YZ eğitimi alan öğretmenler daha uzun ve ayrıntılı istek metinleri yazdı ve daha az inceltme gerektirdi; eğitim almayan öğretmenler daha kısa istek metinleri kullandı ve daha çok sonraki yinelemeye ihtiyaç duydu, ancak ortaya çıkan materyallerin kör uzman puanlamaları eşitti ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel ve ark., 2026]]). Burada istek metni ustalığı daha güçlü bir ilk taslak değil, daha az düzeltme turu satın aldı.
+
+- **Öğrenciler zorluğu sözdizimi değil niyet hizalaması olarak adlandırıyor.** 234 Çinli üniversite öğrencisiyle yapılan ankette [[lei-fan-genai-prompting-strategies-2026|Fan ve Liu (2026)]], kötü bir çıktıdan sonra inceltmenin en çok onaylanan yetenek olduğunu (%72,2), çıktı kısıtları belirlemenin ise en az onaylanan yetenek olduğunu (%66,2, %22,2 kararsız) buldu. Strateji tercihleri bir araştırma ödevi ile yaratıcı bir brifing arasında neredeyse hiç değişmedi: dört eşleştirilmiş çiftten yalnızca çıktı biçimi belirtimi düzeltmeden sonra farklılaştı (0,26 puan, dz = 0,233, BH düzeltmeli p = ,002). Sabit bir rol-görev-biçim şablonu, genel stratejiler arasında en zayıf desteği topladı: %59,4. Açık soruyu yanıtlayan %12,8’in yorumlarının %40,0’ında istek metni-niyet hizalaması göründü ve daha fazla ayrıntı eklemek tıkanmış bir alışverişi güvenilir biçimde düzeltmedi. Tümü tek bir ankete dayanan öz bildirimdir.
+
 ### Daha geniş kavramlarla bağlantılar
 
 İstek metni mühendisliği [[scaffolding]] ile bağlantılıdır — iyi tasarlanmış istek metinleri öğrenci düşüncesini atlatmak yerine iskeleyebilir. Etkili istek metni yazmanın hem YZ’nin yeteneklerini hem kişinin kendi öğrenme hedeflerini anlamayı gerektirmesi nedeniyle [[metacognition]] ve [[ai-literacy]] ile kesişir. [[cognitive-offloading]] araştırması, istek metni kalitesini YZ kullanımının öğrenmeyi destekleyip desteklemediğine doğrudan bağlar.
@@ -85,6 +93,12 @@ ai_assist:
 - **İstek metni stratejisi performansı öngörür.** [[isaza-chatgpt-engineering-prompting-2026|128 mühendislik öğrencisinin deneysel bir çalışması]], YZ Sorgu Verimliliği’nin (açık, iyi yapılandırılmış istek metinleri) ve YZ Kaynaklı [[problem-solving]]’in (YZ çıktısının akıl yürütmeye stratejik bütünleştirilmesi) akademik başarının en güçlü öngörücüleri olduğunu buldu — GPA kontrol edildikten sonra bile — bu da istek metni yazmanın, öğrencilerin YZ ile ne kadar etkili öğrendiğini şekillendiren öğretilebilir bir beceri olduğunu gösterir.
 - **İstek metni kalitesi kadar istemiş stili de sonuçları izler.** 1.540 öğretim oturumundan türetilen nitelikler, kavramsal sorgulamayı sınav performansına bağlarken görev devretme davranışları olumsuz yönde ilişkiliydi — ancak aynı nitelikler sonraki dönemde yinelenemedi; dolayısıyla bunlar istikrarlı beceriler değil davranışsal örüntülerdir ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du ve Lan (2026)]]).
 - **Kullanılabilir bir taksonomi ve gerçekten kazanç sağlayan istek metni kategorileri.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen ve ark. (2026)]], teknik stratejileri 3K modeline çevirir (*Kontext, Kernauftrag, Klarheit* — bağlam, çekirdek görev, açıklık): on bir uygulama yönelik kategori, her biri iyi/ortalama/yetersiz rubriğiyle ve her biri öğretmen adaylarının öğrenme hedefleri için üretilen geri bildirim üzerinde deneysel bir varyasyon olarak test edilir. Disipline özgü teknik dil belirleyici kategoriydi — alan terminolojisini günlük dil özetlemeleriyle değiştirmek üç model genelinde geri bildirim kalitesini anlamlı biçimde düşürdü (β = −0,412) — oysa somut örnekler eklemek ve düşünce zinciri talimatını kaldırmak birinci çalışmada temelden anlamlı bir fark üretmedi; örnekler, çözümleme en iyi performans gösteren model-istek metni kombinasyonlarıyla yeniden çalıştırıldığında yardımcı oldu (β = 0,52). İstek metni kalitesi ve model seçimi birlikte puanlanan geri bildirim kalitesindeki varyansın %42,8’ini açıkladı; bu, makalenin istek metni mühendisliğinin ölçülebilir ve öğretilebilir bir yetkinlik olduğuna dair dayanağıdır — ve kategorilerinin etki büyüklüğünde birbirinin yerine kullanılamayacağına.
+
+## Yaygın yanlış anlamalar
+
+- **“İstek metni kalitesi bir öğrenci özelliğidir.”** **İstek metni bilişi öğrenciyi değil disiplini izler**: [[student-ai-conversations-cognitive-engagement-2026|Chang ve Li (2026)]], **116 kurstan 60.087 istek metnini** sınıflandırdı ve disiplinin istek metni inceliğini öngördüğünü buldu. Öğrencilere daha iyi istek metni yazmayı öğretmek, ders içeriğinde yatan bir varyasyonu ele alır.
+- **“Öğrenciler kendi istek metni pratiklerini geliştirir.”** Öğretmen istek metnini modellediğinde **öğrenciler onu aynen yeniden kullandı**: **on iki ortaokul STEAM grubundan 310 kayıtlı istek metni** arasında öğretmenin talimatının birebir kopyalanması yaygındı. Modelleme yeniden üretim üretir; bu nedenle aktarılabilir bir beceri değil, bir sistem tasarımı kaldıracıdır.
+- **“İstek metni yazma önce öğrenen becerisi, sonra sistem özelliğidir.”** Bu, istek metni yazmayı **uyarlanabilir bir sistem tasarımı kaldıracına** kaydırır ve **angajman ile verimlilik üzerinde ölçülmüş etkiler** taşır (**%28,1’e karşı %19,6 alıştırma dönüşümü**). Arayüzün istek metni olanakları, davranışı istek metni öğretiminden daha fazla hareket ettirdi.
 
 ## Bağlı kavramlar
 - [[pedagogical-patterns]] — Yapılandırılmış kullanım dizileri içindeki iskeleleme katmanı
@@ -105,6 +119,10 @@ ai_assist:
 - [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, LLM eğitimi, robotik, RAG, ajan tabanlı)
 
 ## Bağlı makaleler
+
+
+- [[lei-fan-genai-prompting-strategies-2026]] — 234 öğrencinin zor bulduğu şey: istek metni sözdizimi değil niyet hizalaması
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Belirsiz istek metinleri, en büyük hayal kırıklığı farkını taşıyan kendini yineleyen açıklama döngüleri üretti
 - [[wang-teacher-student-centered-agents-physics-2026]] — Fizik öğrenmesinde tasarım değişkeni olarak ajan rolü ve kısıt istek metinleri (Wang ve ark. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — GPT temelli L2 dinleme maddesi üretiminde istek metni yazma ve ince ayar (Aryadoust & Wong 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — Öğrencilerin sorduğu önemlidir: LLM etkileşim derinliği, görev kalitesi ve anlık hatırlama (Tsiligkiris 2026)

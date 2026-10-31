@@ -6,7 +6,7 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,16 @@ TTA, [[rct|deneylerin]] nedensel denetimini ekolojik özgünlük ve yinelemeli g
 ## Diğer yöntemlerle ilişkisi
 
 TTA, [[learning-sciences|öğrenme bilimlerinin]] — öğrenmeyi ve öğrenme ortamlarının tasarımını inceleyen; bir müdahaleyi kurmayı ve onu incelemeyi iki ayrı etkinlik değil tek etkinlik olarak eleleyen disiplinler arası alanın — imza yöntemidir. Diğer araştırma yöntemlerine (tüm manzara için [[research-methods-aied]] sayfasına bakın) rakip değil, tamamlayıcıdır. [[rct|Deneyler]]in nedensellik kurduğu ve [[quantitative-research|anketler]]in kapsam kurduğu yerde, TTA *uygulanabilirlik ve tasarım bilgisini* kurar — bir müdahalenin otantik uygulamada işleyecek biçimde kurulup kurulamayacağını ve hangi tasarım ilkelerinin bunu desteklediğini. Sıklıkla [[usability-research|kullanılabilirlik değerlendirmesi]] (arayüzü iyileştirmek) ve [[qualitative-research|niteliksel yöntemler]] (öğrenenlerin müdahaleyi nasıl deneyimlediğini anlamak) ile eşleşir. Olgun bir TTA programı, tipik olarak geliştirilen müdahalenin nedensel etkilerini ölçekli olarak sınayan bir [[rct|etkililik denemesi]] veya [[educational-measurement|ölçüm]] çalışmasında doruk noktasına ulaşır.
+
+## Yaygın yanlış anlamalar
+
+**“Tasarım temelli araştırma nitel bir yöntemdir.”** TTA bir *tasarım* geleneğidir, veri geleneği değil: nicel, nitel ve deneysel karşıtlığa hiç uymaz, çünkü çalışmanın birimi tek bir ölçüm planı değil yinelenen yapıttır. TTA içindeki çalışmalar nicel, nitel veya deneysel olabilir; onları TTA yapan şey, bulgu üretilirken tasarımın da revize edilmesidir.
+
+**“Yinelemeli geliştirme, tasarımı diğer yöntemlerin çektiği karıştırıcıdan bağışık kılar.”** Yineleme bir tehdidi başka bir tehditle değişir. Bir tasarımı çalışma ortasında geliştirmek, nihai sürümün erken kanıtı üreten sürümden farklılaşması demektir; böylece "müdahale" hakkındaki bir iddia birkaç müdahaleyi kapsar. Hangi revizyonun hangi sonucu ürettiğini bildirmek disiplinin sorumluluğundadır ve sıklıkla örtük bırakılır.
+
+**“TTA işleyen bir yapıt ürettiğine göre etkililiği kanıtlanmıştır.”** Onu birlikte üreten sahada işleyen bir tasarım yerel uygulanabilirliği kanıtlamıştır; bu, etkililikten farklı bir iddiadır. Yapıt, o bağlam için yapılmış uyarlamaları taşır ve onu aktarmak, hiçbir zaman varsayım olarak belirtilmemiş varsayımları aktarmak demektir.
+
+**“Bir aracı revize edilebilir bir tasarım yapıtı olarak ele almak TTA'dan bir sapmadır.”** Bu, TTA'nın yinelemeli karakterinin müdahaleye değil ölçüme uygulanmasıdır: bu derlemdeki bir çalışma rubriğin kendisini yapıt olarak ele almış ve bir [[llm|LLM]] ile ortak iyileştirme döngülerinden geçmiştir. Bu uzantı kayda değerdir, çünkü aracın kendi gelişimini kanıtın parçası kılar.
 
 ## Bağlı kavramlar
 

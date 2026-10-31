@@ -8,7 +8,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,13 @@ Eğitimciler için tutarlı mesaj, CT’nin pasif YZ kullanımı yerine *açık,
 Hesaplamalı düşünme, [[ai-literacy]] ile [[critical-thinking]] altında yükselen paylaşılan bilişsel temeldir, [[cs-education]] ve [[k-12]] bilişim eğitiminin müfredatsal çekirdeğidir ve [[educational-robotics]], [[game-based-learning]] ile [[project-based-learning]] uygulamalarının en iyi tasarlandığında hizmet etmek için hedeflediği kavramsal amaçtır. Bu beceri, [[llm|büyük dil modelleri]] ve [[generative-ai]] iskeleleme araçları olarak kullanıldığında derinleşir ve öğrenci yanlış kanı sınıflandırmalarının ile CT duyarlı değerlendirmelerin ölçmeyi hedeflediği beceridir. Öğretmenler bunu [[teacher-education]] ve [[professional-training]] yoluyla geliştirir ve bu beceri [[physics-education]] ile genel olarak [[stem-education|STEM]] başta olmak üzere alanlar arasında aktarılır.
 
 - **Hesaplamalı düşünme, YZ asistanıyla öğrenmeyi yordar.** [[computational-thinking-aica-2026|Sekizinci sınıf öğrencileri]] arasında hesaplamalı düşünmesi yüksek olanlar, YZ kodlama asistanlı bir derste düşük CT’li akranlarına göre belirgin biçimde daha iyi performans gösterdi ve asistanı yanıt getirmek için değil, anlamak için kullandı.
+
+## Yaygın yanlış anlamalar
+
+- **“YZ, hesaplamalı düşünme ihtiyacını ortadan kaldırır.”** [[chat-debugging-human-ai-collaboration-circuits|Sohbet üzerinden hata ayıklama çalışması]], lisans öğrencileri devreleri LLM yardımıyla ayıkladığında **temel kavramlar ve eleştirel düşünmedeki eksikliklerinin, aracın değil, sınırlayıcı etken** olduğunu bulmuştur. HD, bir öğrenenin çıktıyı kabul etmek yerine değerlendirmesini sağlayan şeydir; YZ yardımını kullanılabilir kılan tam olarak bu kapasitedir.
+- **“YZ yardımı, kaynakları kısıtlı ortamlarda oyun alanını eşitler.”** Koşullar sağlandığında eşitleyebilir. **Nijerya’da 103 birinci sınıf lisans öğrencisiyle 14 haftalık bir yarı-deneysel çalışma**, YZ destekli problem temelli öğrenmenin (ChatGPT ve Teachable Machine) kazanımlar ürettiğini bulmuştur ve YZ, “daha yetkin bir akran” olarak diğer olanakların bulunmadığı yerde HD’yi taşımaktadır. Ancak bu, yapılandırılmış bir müdahaleye ilişkin bir bulgudur; öğrencilere bir sohbet robotu vermenin bir özelliği değildir.
+- **“LLM’ler HD’yi güvenilir biçimde değerlendiremez.”** [[llm-computational-thinking-physics-2026|Fizikte HD değerlendirmesi araştırması]], LLM’lerin geniş kayıtlı derslerde Veri Uygulamaları ile Hesaplamalı Problem Çözme Uygulamalarındaki gelişimi puanlamada **insan puanlayıcıları yansıtabildiğini** bulmuştur. HD değerlendirmesini ölçeklemedeki engel puanlayıcı kapasitesi olmuştur ve bu kısıt yumuşamaktadır; bu da tasarım sorununu, ölçme aracının uyumu değil HD’yi ölçüp ölçmediği sorusuna kaydırır.
+- **“HD, robotiğin öğrettiği bir kodlama becerisidir.”** **95 çalışmanın sistematik derlemesi**, robotiğin HD’yi, yaratıcılığı ve problem çözmeyi desteklediğini, ama aynı zamanda **ortamın sonucu düzenlediğini** doğrular: [[game-based-learning|oyun temelli]] sunum informal ortamlara uyarken oyunlaştırma formal ortamlarda farklılaşır. HD, eşitsiz biçimde aktarılan bir uygulamalar bütünüdür; dolayısıyla aktarım iddiası, gerçekte kullanılan görev tasarımını gerektirir.
 
 ## Bağlı kavramlar
 

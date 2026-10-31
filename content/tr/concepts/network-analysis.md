@@ -6,7 +6,7 @@ technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-04T10:50:04-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ Ağ analizi yöntemleri temel bir öncülü paylaşır: anlamı taşıyan, yaln�
 - **Sosyal Ağ Analizi (SNA)** — işbirliği yapılarını, etkiyi, merkeziliği ve topluluğu ortaya çıkarmak için insanlar (öğrenenler, öğretmenler, ajanlar) arasındaki ilişkileri modeller. [[collaborative-learning|işbirlikçi]] ve akran öğrenmesini incelemek için yararlıdır. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **Geçiş Ağı Analizi (TNA)** — ayrık durumların zamansal dizilerini (örn. bir öğretim oturumundaki öğrenen eylemleri) yönlü bir ağ olarak modelleyerek durumlar arasında geçiş olasılığını nicelleştirir. TNA, öğrenen–YZ etkileşimindeki davranışsal döngüleri, yolları ve benimseme dinamiklerini ortaya çıkarmak için kullanılır. ([[penny-transition-network-analysis-efl-writing-2026]])
 
+- **ENA ayrıca [[teacher-role|eğitimcilerin]] yetkinlik söylemini haritalar.** Epistemik Ağ Analizini Aotearoa Yeni Zelanda’daki 24 yükseköğretim eğitimcisiyle yapılan görüşmelere uygulayan çalışma, yedi HACC boyutu arasındaki bağları modellemiş ve birinci eksende müdür eğitimcilerin ağlarının kıdemli eğitimcilerden (U = 10,00, p = ,04) ve kariyerinin başındaki eğitimcilerden (U = 7,00, p = ,01) anlamlı biçimde farklılaştığını bulmuştur ([[dang-human-ai-collaboration-competency-2026|Dang ve ark. (2026)]]).
+
 Bunlar, olguları (bir ontoloji/üçlü depo) temsil etmek ve üzerinde akıl yürütmek için bir veri yapısı olan, süreç ya da ilişki yapısını incelemeye yönelik analitik bir yöntem olmayan bir **[[knowledge-graph]]**’den farklıdır.
 
 ## Eğitimde yapay zeka araştırmalarında ağ analizi
@@ -62,6 +64,8 @@ Ağ yöntemleri, toplulaştırma ölçütlerinin yanıtlayamadığı soruları y
 - **Dikkatle yorumlayın.** Düğüm ayrıntı düzeyi (örn. kaba bir "sohbet" düğümü) niyeti gizleyebilir; otomatik sınıflandırma belirli bir belirsizlik taşır; ve enine kesit ağ yapısı nedensellik kuramaz.
 - **Toplulaştırmanın gizlediğini ortaya çıkaran ağlar.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan ve diğerleri (2026)]], GenAI ile not düşen sınıfın kontrol sınıfını hem puan hem katılım olarak geçtiğini buldu, ardından deneysel sınıfı ortanca performansa göre bölerek kazancın paylaşılmadığını gösterdi: yüksek başarılı gruplar, açıklamalarına ilişkin geri bildirim isteklerinin yüzde 60,7’sini başlatırken düşük başarılı gruplar bunun yüzde 34,0’ında kaldı ve öz gönderimli bir döngü içinde kaldılar (grupların ayrışması ENA X ekseninde anlamlı, U = 25.00, p = 0.01). Tasarım dersi şudur: tek bir grup düzeyi etkisi, iki farklı etkileşim yapısını özetleyebilir — ve iki grup da bozulmamış sınıflardı; dolayısıyla bu karşılaştırma örüntüyü belirler, ona nedensel bir açıklama atfetmez.
 
+- **Eş sözcük ve ortak yazarlık kümeleri, entelektüel yakınlık kadar yayıncılık pratiğini de kaydeder.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]], bibliyometrik merkeziliğin ve kümelenmenin hangi mecraların, dillerin ve bölgelerin dizinlendiğini yansıttığı uyarısını yapar; bu nedenle bir alanın haritası, o alanın yansız bir ölçümü değildir.
+
 ## Eğitimde yapay zeka araştırmalarına yansımaları
 
 1. **Ürün temelli ölçütler yerine süreç yöntemlerini tercih edin.** YZ araçlarının öğrenmeyi destekleyip desteklemediğini değerlendirmek için, yalnızca nihai puanlara güvenmek yerine öğrenenlerin gerçekte nasıl katıldığını (benimseme, diyalog, düzeltme) dizi/ağ yöntemleriyle modelleyin.
@@ -72,6 +76,12 @@ Ağ yöntemleri, toplulaştırma ölçütlerinin yanıtlayamadığı soruları y
 ## Simüle Edilmiş İşbirlikçi Diyaloğun ENA ile Doğrulanması
 
 - **Simüle diyalog için doğrulama aracı olarak ENA.** Fang (2026), ince ayarlanmış LLM ajanlarının gerçek işbirlikçi [[problem-solving]] diyalogunun yapısını yeniden üretip üretmediğini değerlendirmek için Epistemik Ağ Analizini uygular. Simüle edilmiş komşuluk vektörlerini ampirik ağla karşılaştırarak 0,17’lik bir ENA mesafesi bildirir — bu değer sıfır dağılımının 95. yüzdelik eşiği içindedir ve permütasyon p değeri 0,65’tir; bu da ENA’nın, söylem üreten [[simulation|simülasyonların]] doğruluğu üzerine [[quantitative-research|nicel]] bir kontrol olarak gücünü, eğitim araştırmalarında ENA/SNA/TNA’nın diğer uygulamalarıyla birlikte göstermektedir.
+
+## Yaygın yanlış anlamalar
+
+- **“Ağ analizi hesaplamalı olduğu için nesneldir.”** **Kodlama temeldir**: tüm ağ varyantları ham verilerin (söylemler, olaylar, ilişkiler) ayrık düğümlere güvenilir biçimde kodlanmasına dayanır ve otomatik kodlama tanımlarını onları kimin belirlediğinden miras alır. Görselleştirme ortaya çıkan bir yapı gibi görünür, oysa düğümleri yorumsal tercihlerdir.
+- **“Ağ yapısındaki bir değişim kendi başına öğrenme kazancıdır.”** **Yirmi karma disiplinli lisansüstü öğrencisiyle** yürütülen bir vaka tartışmasında **boyut-3 ortak terim payı %5,2’den %8,0’a yükselirken içerik belirteçleri okuma sonrası düzeylerinin kabaca 0,65 katına düşmüştür**. İki yapısal ölçüt zıt yönlerde hareket etmiştir; bu nedenle “ağ değişti” ifadesi, hangi ölçüt boyunca ve neden önemli olduğu söylenene kadar bir bulgu değildir.
+- **“Daha fazla terim paylaşmak daha iyi işbirliği demektir.”** Ortak terim payının yükselmesi ile içerik belirteçi çeşitliliğinin düşmesi, daha küçük bir sözcük dağarcığında yakınsamayla tutarlıdır. Uzlaşı ile daralma yapısal olarak benzerdir; bu yüzden ölçütün, hesaplandığı içeriğe ihtiyacı vardır.
 
 ## Bağlı kavramlar
 
@@ -96,3 +106,5 @@ Ağ yöntemleri, toplulaştırma ölçütlerinin yanıtlayamadığı soruları y
 - [[youtube-frames-chatgpt-education]] — Eğitimde ChatGPT’nin YouTube çerçevelerinin ENA’sı
 - [[agency-gap-ai-writing]] — YZ destekli yazmada etkinlik (ajans) boşluğu (ENA)
 - [[synthetic-educational-data-structural-fidelity-2026]] — Doğruluk Ölçütlerinin Gözden Kaçırdığı: Sentetik Eğitim Verisi Üzerine Yapısal Bir İnceleme
+
+- [[dang-human-ai-collaboration-competency-2026]] — ENA eğitimcilerin yetkinlik söylemini de haritalar

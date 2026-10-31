@@ -7,7 +7,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 Bu, bilgi tabanının geri bildirimle ilgili fikirlerini kapsayan şemsiyye kavramdır. Geri bildirim, değerlendirme ile öğrenmenin kesişiminde yer alır: geri bildirim olmadan değerlendirme performansı ölçer ama onu geliştirmez; etkili geri bildirimle değerlendirme bir öğrenme olayına dönüşür. Bilgi tabanı geri bildirimi çok yönlü bir **sistem** olarak ele alır — geri bildirimin kendi niteliği ([[ai-feedback-quality]]), öğrenme farkını kapatan döngü, öğrenenin onu kullanma kapasitesi ([[feedback-literacy]]) ve içinde işlediği değerlendirme bağlamları ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]**, öğrencilerin geri bildirim *kaynağına* (YZ mi, insan mı) ilişkin algısının, [[generative-ai|GenAI]] geri bildiriminden öz-düzenlemeli öğrenmeyi nasıl şekillendirdiğini gösterir — bu, geri bildirim etkililiği iddiaları için hayati bir niteleyicidir.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** kaynağı içerikten ayırır: 472 EPFL öğrencisi, kendi işleri üzerine aldıkları içerik olarak karşılaştırılabilir insan ve GPT-4.0 geri bildirimini önce kör, sonra kaynak açıklandıktan sonra tekrar puanladı ve çoğu ikisini güvenilir biçimde ayırt edemedi (472 öğrenciden 287’si doğru tahmin etti). Etiket ortaya çıkar çıkmaz YZ versiyonunun puanı düştü, insan versiyonununki yükseldi — Özgünlük boyutunda anlamlı ölçüde (p < .01) — ve sağlayıcı güvenilirliği net biçimde ayrıştı (insan μ = 3.28’e karşılık YZ μ = 2.25, Cohen’un d = 0.57). İki versiyon doğruluk ve bilişsel nitelik açısından karşılaştırılabilir olduğundan önyargı metne değil sağlayıcıya bağlanır.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** kaynağı içerikten ayırır: 472 EPFL öğrencisi, kendi işleri üzerine aldıkları içerik olarak karşılaştırılabilir insan ve GPT-4.0 geri bildirimini önce kör, sonra kaynak açıklandıktan sonra tekrar puanladı ve çoğu ikisini güvenilir biçimde ayırt edemedi (472 öğrenciden 287’si doğru tahmin etti). Etiket ortaya çıkar çıkmaz YZ versiyonunun puanı düştü, insan versiyonununki yükseldi — Özgünlük boyutunda anlamlı ölçüde (p < .01) — ve sağlayıcı güvenilirliği net biçimde ayrıştı (insan μ = 3.28’e karşılık YZ μ = 2.25, Cohen’un d = 0.57). İki versiyon doğruluk ve bilişsel nitelik açısından karşılaştırılabilir olduğundan önyargı metne değil sağlayıcıya bağlanır. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]], geri bildirim inandırıcılığını öğrenmeye kadar taşır: YZ destekli bir denemenin ardından 230 işletme öğrencisi arasında inandırıcılık algılanan öğrenmeyi yordamış, algılanan yetkinlik ve insana benzer empati ise onun öncülleri olmuştur.
 
 ## Geri bildirim sistemi
 
@@ -46,6 +46,9 @@ Geri bildirim, tek bir olay değil, birbiriyle etkileşen parçalardan oluşan b
 - **[[formative-assessment]]** — geri bildirimin yalnızca yargılamak yerine öğrenme sürerken onu geliştirmek için kullanıldığı değerlendirme bağlamı.
 - **[[peer-assessment]]** — [[learners]] arasında değiş tokuş edilen geri bildirim; giderek YZ ile güçlendirilen ve geri bildirim okuryazarlığının geliştirildiği bir alan.
 - **[[automated-assessment]]** — [[automated-essay-scoring|automated essay scoring]] güven duygusu bilincine sahip kısa cevap puanlamaya kadar YZ kaynaklı puanlama ve geri bildirim.
+
+- **Parçalar birbirine karşı ödün verir.** Geri bildirimi tasarlamak, üçünün hepsini en üst düzeye çıkarmak değil, kullanılabilirlik, kaynaklar ve sürdürülebilirlik arasında seçim yapmak demektir; [[assessment-feedback-trilemma-model-2026|Pedlow ve ark. (2026)]] sürdürülebilirliği tek bir kişiye, kaynağa ya da kurumsal koşula bağlı olmaması gereken kutup olarak ele alır.
+- **Revizyonu göremeyen geri bildirim kendini tekrarlar.** Etmenlerin taslak argümanları eleştirdiği bir fen öğrenme oyununda öğrenciler birden çok tur boyunca revizyon yapmış, ancak nicemlenmiş bir 8B model iyileştirilmiş bir taslağa büyük ölçüde aynı eleştiriyi döndürmüştür; böylece revizyonu motive eden döngü, onu sona erdiren hayal kırıklığını da üretmiştir ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg ve ark., 2025]]).
 
 ### Geri bildirim döngüsü
 
@@ -144,6 +147,12 @@ Geri bildirim, eğitimdeki en sonuç açısından önemli ve en iyi kanıtlanmı
 
 - **Geri bildirim, geri bildirimi vereni hedef alabilir.** Özel öğretmen eğitimi, yeterince incelenmemiş bir geri bildirim bağlamıdır: özel öğretmenlerin açık uçlu yanıtlarını övgü türlerini etiketleyerek sıralayan otomatik sistemler (çaba temelli övgü — istenen, sürece yönelik tür — karşı sonuç temelli ve kişi temelli, en az istenen nitelik atıflı tür), davranışı değiştirebilen açıklayıcı geri bildirim sunabilir. Bağlayıcı kısıt, uzman tarafından etiketlenmiş veridir. Bir çoğaltma yaklaşımı — GPT-4o’nun 13 örneklik düşük kaynaklı bir kümeyi 520’ye genişleten sentetik etiketli yanıtlar üretmesi, ardından GPT-3.5’in ince ayarı — farkın çoğunu kapatır: çaba temelli övgüde F2 +%20,5, sonuç temelli övgüde +%17,3 ve *görülmemiş* kişi temelli kategoride +%16,5. Görülmemiş bir övgü türüne genelleme testi, bunu aşırı uyumdan ayıran geçerlilik sınamasıdır ve mekanizma klasik çoğaltmadan çok öğretmen-model damıtmasına yakındır. ([[xu-automated-feedback-tutor-training-2025]])
 
+## Yaygın yanlış anlamalar
+
+- **“Öğrenciler YZ geri bildirimini insan geri bildiriminden ayırt edemez.”** Ayırt edebilirler ve etiket yargıyı değiştirir: **etiket açıklandığında YZ versiyonuna verilen puanlar düştü, insan versiyonuna verilenler yükseldi; bu yükseliş Özgünlük boyutunda anlamlıydı (p < ,01)**. Sağlayıcı inandırıcılığı, aynı üsluptaki geri bildirimin değerlendirilmesini şekillendirmiştir.
+- **“Laboratuvar onayı, dönem boyunca kullanımı yordar.”** **Laboratuvar onayı dönem kullanımı değildir**: **18 öğrencinin tamamı** laboratuvar oturumlarında GenAI açıklama işlevine olumlu tepki vermiştir, **ancak yalnızca yarısı bunu dönem içinde kullanmıştır**. Niyet ile kullanım arasındaki uçurum tasarım problemidir.
+- **“Anında düzeltici geri bildirim LLM’lerle çözülmüştür.”** Bunu bir öğretmen içinde üretmek **mümkün ama kusurludur**: Apprentice Tutor koleksiyonundaki **6.926 kayıtlı işlem** genelinde geri bildirim, konuşlandırılacak kadar iyiydi ve doğruluğu varsayılacak kadar iyi değildi.
+
 ## Bağlı kavramlar
 
 - [[pedagogical-patterns]] — Sınanmış geri bildirim dizileri; daha nitelikli YZ geri bildiriminin neden daha fazla revizyon üretmediği dahil
@@ -216,5 +225,8 @@ Geri bildirim, eğitimdeki en sonuç açısından önemli ve en iyi kanıtlanmı
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Bir revizyonun yazarın tutumuna yaptığı: akran geri bildirimi argümantasyon kompozisyonlarını daha büzücü yapar, YZ revizyonu Contract/Expand dengesini korur (Zhao ve Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Düşük kaynaklı senaryolarda özel öğretmen eğitimi için otomatik geri bildirim sistemlerinin veri çoğaltma yoluyla iyileştirilmesi (Xu ve ark. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
+
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Revizyonlar boyunca kendini tekrarlayan etmen geri bildirimi (Humburg ve ark. 2025)
+- [[assessment-feedback-trilemma-model-2026]] — Kullanılabilirlik, kaynaklar ve sürdürülebilirlik arasındaki ödünleşimi adlandırır, sürdürülebilirliği bir tasarım kutbu kılar
 
 

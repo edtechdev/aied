@@ -10,7 +10,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,9 @@ Birçok yazma eğitimi makalesi İngilizce öncelikli olsa da (örneğin [[marke
 
 YZ'nin İngilizce üstünlüğü bu akımın belirleyici bir özelliğidir. Modeller İngilizcede ve özellikle standart akademik İngilizcede en güçlü olduğundan, İngilizce eğitimi hem orantısız biçimde yararlanır (güçlü EAP iskelelemeleri) hem de kendine özgü riskler taşır (tek dilci yanlılık, Dünya İngilizcesi ve çok dilli yazarlara karşı ayrımcılık). Buradaki araştırmalar [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]] ve [[academic-integrity|academic integrity]] ile bağlantılıdır.
 
+
+Scopus tabanlı 54 EFL çalışması sentezi, alanın en sık bildirilen [[limitations-in-aied-research|sınırlılıklarını]] öğrenen özerkliğinde konumlandırır: 27 çalışmada (%50) YZ’ye [[cognitive-offloading|aşırı bel bağlama]] ve 25’inde (%46) azalan [[critical-thinking|eleştirel düşünme]], teknik sorunların başında gelen 22 çalışmadaki (%41) güvenilmez YZ üretimli çıktıya karşı ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi ve Vargas-Saritama (2026)]]).
+
 ## İngilizce / EAP / EFL-ESL öğretim görevlileri için çıkarımlar
 
 - **YZ'nin akademik İngilizce üstünlüğünü bilinçli biçimde yararlanın.** Modeller İngilizcede ve standart akademik İngilizcede en güçlü olduğundan, EAP öğretim görevlileri YZ'yi türe dayalı yazma, okuma materyali farklılaştırma ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]) ve düzenleme geri bildirimi için kullanabilir — ancak YZ'yi bir taslak/geri bildirim ortağı olarak çerçevelemeli, bir cevap motoru olarak değil.
@@ -92,6 +95,13 @@ YZ'nin İngilizce üstünlüğü bu akımın belirleyici bir özelliğidir. Mode
 - **Yeterliliğe ve ihtiyaca göre farklılaştırın.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] ve uyarlanabilir özel ders araştırmaları, YZ desteği ve değerlendirmesini öğrenenlerin düzeyine göre uyarlamayı, hepsine tek ölçü yaklaşım yerine desteklemektedir.
 
 - **Teknolojiyi üretime doğru ağırlıklandırın.** 33 TEFL çalışmasını kapsayan bir meta analiz, küçük-orta düzeyde genel bir etki bulmuştur (g = 0,38; trim-and-fill ile 0,28'e düşmüştür); bu etki eğitim düzeyiyle artmakta ve alıcı beceriler yerine üretken becerileri — konuşma ve yazma — öne çıkarmaktadır ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“EFL’de YZ esas olarak kopya çekmeyi tehdit eder.”** Alanın kendi en sık bildirilen [[limitations-in-aied-research|sınırlılığı]] **öğrenen özerkliğidir** ve Scopus tabanlı **54 çalışmalık** bir sentezin **27’sinde** [[cognitive-offloading|aşırı bel bağlama]] olarak görünür. Belgelenen maliyet dürüstsüzlük değil bağımlılıktır; bu da farklı bir müdahale gerektirir.
+- **“Dil öğretmenleri ya coşkuyla benimser ya hiç benimsemez.”** [[li-language-educators-genai-review-2026|23 çalışmanın sistematik derlemesi]] (Li ve ark.), örüntü olarak **temkinli, hazırlık öncelikli benimsemeyi** bulur. Öğretmenler coşkuncular ve reddedenler olarak bölünmüş değil, düşünülmüş biçimde ihtiyatlıydı.
+- **“Genel etki, harcanan çabayı meşrulaştırır.”** **33 TEFL çalışmasının** meta analizi **küçük-orta düzeyde genel bir etki (g = 0,38, trim-and-fill ile 0,28’e düşen)** buldu ve etki **eğitim düzeyiyle yükseldi**. Etki düzeltmeden sonra mütevazıdır ve daha yüksek düzeylerde yoğunlaşır; bu nedenle başlangıç düzeyindeki öğrenenler için bir iddia havuzlanmış rakamla desteklenmez.
+- **“Her YZ kullanımı dil öğrenimi için eşit derecede verimlidir.”** Aynı çalışma, **teknolojinin üretime doğru ağırlıklandırılmasını** savunur: tüketimden çok yazma ve konuşma. Kipi, YZ’nin varlığından daha çok etkiyi belirledi.
 
 ## Bağlı kavramlar
 
@@ -127,7 +137,7 @@ YZ'nin İngilizce üstünlüğü bu akımın belirleyici bir özelliğidir. Mode
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
+- [[ai-limitations-efl-higher-education-review-2026]] — YZ’ye aşırı bel bağlama (54 çalışmanın %50’si) ve azalan eleştirel düşünme, bildirilen sınırlılıkların başında
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)

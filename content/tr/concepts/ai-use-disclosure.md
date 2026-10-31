@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ En çok yenilikçi bulunan 50 ABD üniversitesinin GenAI rehberliğini inceleyen
 
 - **Açıklama bir güven cezası taşır ve meşruiyet savunulan mekanizmadır.** Başlıca ABD çevrimiçi panelistleriyle yapılan ve 4.093 gözlemde birleştirilen on üç deneyde (θ = 0,81, z = 10,52, %95 GA [0,66, 0,96]), YZ kullanımını açıklayan bir aktör, sessiz kalan birinden daha az güven görmüştür ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke ve Reimann (2025)]]). Etki, altı açıklama çerçevesini, YZ’nin kullanıldığını zaten bilen bir değerlendiriciyi ve hem zorunlu hem gönüllü rejimleri atlatmıştır. Bu, her zaman açıklama yapan öğrencilerin suçlanma olasılığının üç katından fazla olduğuna dair yukarıdaki anket bulgusunun deneysel karşılığıdır: şeffaflığın kendisi açıklayana mal olabilir. Makalenin yalnızca öğrencilere yönelik olan tek sonucu, öğrencilerin bir profesörün YZ ile not vermeyi açıklaması üzerine ona daha az güvendiğidir.
 
+- **Bir içerik etiketi betimlemeyi değiştirir, hükmü değiştirmez.** “YZ Üretimi İçerik/Sentetik Video” etiketini görüp görmemeye rastgele atanan 617 yetişkinde etiket, algılanan otantikliği düşürmüş (etiketsiz 4,92’ye karşı etiketli 4,21), ancak güveni (B = -0.130, p = 0.216) ve risk, benimseme ile paylaşmayı değiştirmemiştir ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang ve Zhang (2026)]]).
+
 ## Etkili açıklama tasarlamak
 
 - **Netlik ve tutarlılık caydırıcılığı yener.** Kabul edilebilir kullanımın ve bunun nasıl açıklanacağının somut örneklerini içeren net, tutarlı, işbirliğiyle kurulmuş YZ politikaları geliştirin; gizlemeyi motive eden cezalandırıcı veya belirsiz çerçevelerden kaçının.
@@ -77,9 +79,18 @@ En çok yenilikçi bulunan 50 ABD üniversitesinin GenAI rehberliğini inceleyen
 - **Öğretim elemanlarını tespit değil güven kurmaya göre eğitin.** Açıklama asla suçlamayla izlenmemelidir; öğretim elemanları, güvenilmez YZ dedektörlerine dayanmak yerine güven kuran konuşmaları öğrenmelidir.
 - **Eşitlik için tasarlayın.** Disiplinler, dil durumu ve öğrenen geçmişleri arasındaki farklı açıklamalara dikkat edin ve hâlihazırda marjinalleştirilmiş öğrenenler üzerinde eşit olmayan yükler oluşturan mekanizmalardan kaçının.
 
+- **Açıklama ters yönde de işler.** Buradaki her sayfa açıklamayı öğrencinin yükümlülüğü olarak ele alır; [[wu-lam-genai-writing-assessment-professors-2026|Wu ve Lam (2026)]] ile görüşülen yazma profesörleri bunun aynasını istemiştir: öğrencilere bir aracın çalışmalarını değerlendirmek için ne zaman ve nasıl kullanıldığı söylenmeli ve çalışma yüklenmeden önce rızası alınmalıdır. Öğrenci kullanımını okunabilir kılan aynı şeffaflık, bir kurumun değerlendirme uygulamasını öğrenci için okunabilir kılan şeydir.
+
 ## Bağlantılar
 
 YZ kullanımı ve açıklama, [[academic-integrity]] (ana kaygısı), [[ethics]], [[trust]] ve [[trust-calibration]] (bir kırılganlık eylemi olarak açıklama), [[governance]] ve [[educational-policy-ai]] (kurumsal politika çerçeveleri) ve [[assessment]] (açıklamanın uygulamaya konduğu yer) kesişiminde yer alır. [[ai-literacy]] ile bağlantılıdır (öğrencilerin neyi ve nasıl açıklayacaklarını anlamaları gerekir), [[self-regulated-learning]] ve [[help-seeking]] (görünür yardım arama olarak açıklama) ile ve [[equity-in-ai-education]] (farklılaşan açıklama) ile bağlantılıdır. [[ai-misuse-learning-harm]] (açıklamanın görünür kılmayı amaçladığı zarar) ve [[ai-detection]] (açıklama çerçevelerinin giderek daha fazla yerine geçtiği tespit temelli alternatifler) ile farklıdır ama ilişkilidir.
+
+## Yaygın yanlış anlamalar
+
+- **“Zorunlu beyan politikaları açıklama üretir.”** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]], bir işletme okulunda zorunlu bir beyana karşı **%74 uyumsuzluk** belgelemiştir. Gereklilik, buyurduğu davranışı üretmemiştir.
+- **“Öğrenciler YZ kullanımını dürüst olmadıkları için gizler.”** İtici etkenler belgelenmiş ve belirlidir: ekonomi öğrencilerinin yalnızca **yaklaşık %34’ü YZ kullanımını kabul etmiş**, açıklama daha da nadir kalmış ve bu **ceza kaygısıyla** yönlenmiştir; başka bir çalışma ise **%66’nın hiç veya nadiren açıklama yaptığını** ve **akademik ceza korkusunun en önemli neden** olduğunu bulmuştur. Verilerin işaret ettiği şey karakter değil, politika tasarımıdır.
+- **“Açıklama zorunluluğu düşük maliyetli bir denetimdir.”** **%74 uyumsuzluk oranı**, ortaya çıkan kaydı hiç kayıt olmamasından daha kötü kılar: eksiksiz görünen ve eksik olan bir veri kümesidir; dolayısıyla kurum, güvenemeyeceği bir örneklem üzerinden karar vermektedir.
+- **“Modelin nasıl kullanıldığını açıklamak yeterlidir.”** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]], açıklamanın model kullanımını belgelediğini, sorumlu kullanımın ise iddia düzeyinde yazarlık teminatı gerektirdiğini savunur: katkıda bulunanın iddiaları anlama, gerekçelendirme ve savunma kapasitesi. Bu, çıktıların esaslı seçimleri şekillendirdiği bilişsel devretmeyi, şekillendirmediği rutin devretmeden ayırır.
 
 ## Bağlı kavramlar
 
@@ -114,3 +125,6 @@ YZ kullanımı ve açıklama, [[academic-integrity]] (ana kaygısı), [[ethics]]
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Hukuk fakültesi politikasında açıklama ve YZ atıfına dair bir uzlaşı yok (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — YZ tarafından yazılan başvuru makaleleri yaygın ama cezalandırılıyor
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — On üç deney: YZ kullanımını açıklamak, meşruiyet yoluyla açıklayanın güvenilirliğini düşürür
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Ayna yönü: öğrencilere YZ’nin çalışmalarını ne zaman notladığının söylenmesi ve yüklemeden önce rıza istenmesi
+- [[authorial-warrant-ai-supported-scholarship-2026]] — Açıklama kuralları yeterli olmadığında: YZ destekli akademik çalışmada yazarlık teminatı ve yargı (Mirończuk 2026)
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — YZ açıklama etiketleri, algılanan otantiklik ve YZ üretimi öğretim videolarına güven

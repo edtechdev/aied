@@ -12,7 +12,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,9 @@ Bu sayfa, bu yöntemlerin ürettiği özsel bilgiyi kapsar — öğrenenlerin bi
 ### Öğrenme bilimlerinde YZ nasıl görünür
 
 - **Önce mekanizma, sonra model.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], Riichi Mahjong için [[intelligent-tutoring]] sistemleriyle on bir deney (N = 192) yürüttü ve aşırı genelleştirilmiş bir üretim derleyen öğrenenlerin — uygulama kısıtı olmadan eylem — bunu ilk “eyleme geçme” maddesinde %61,5–%100 oranında yanlış uyguladığını gösterdi; [[knowledge-tracing|Bayesçi bilgi izleme]] altında beklenen hata %12 idi. %95 ustalık eşiğiyle sistem, öğrenenlerin eylemin gerçekleştirilmemesini gerektiren bir vaka ile karşılaşmasından önce pratiği durdurdu; bu nedenle kusur saptanamadı. Eksik kısıtı adlandıran [[feedback]] ile kısa “eyleme geçme” pratiği, yanlış uygulamayı %0,0–%23,1’e düşürdü (Cohen’in h’si 1,70–2,44) ve on üç K-12 *Decimal Point* veri kümesinin ikincil bir analizi, aynı yapıyı tam sayı yanlılığında buldu (karşılaştırma hatalarının %84–%88’i).
+
+- **Bir uzlaşı, GenAI’nin öğrenmeye nerede yardım edip nerede zarar verdiğini haritalar.** 30 öğrenme bilimcisiyle önceden kaydedilmiş bir Delphi, 65 öğrenme sürecini derecelendirdi ve 42’sinde uzlaştı: GenAI ilk edinimi ve [[critical-thinking|üst düzey düşünmeyi]] tehdit eder ama pekiştirmeyi güçlendirir ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou ve ark., 2026]]).
+- **Öz düzenlemeli etkileşimi ajan türü değil, geri bildirim tarzı hareket ettirdi.** 51 lisansüstü öğrenciyle 2 × 2 bir deneyde [[socratic-method|Sokratik]] geri bildirim daha güçlü anlama izleme ile ilişkilendirilirken yönlendirici geri bildirim daha yüksek bilişsel yük taşıdı; iki tarz sabit ve karşı-dengelenmemiş bir sırada yürüdü, bu nedenle karşıtlık nedensel değil koşula bağlıdır ([[agent-type-feedback-style-self-directed-learning-2026|Han ve ark. (2026)]]).
 - **En uygun değer içeriğe bağlıdır.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ve Carvalho (2025)]], örnek–problem oranını bir içerik–uygulama etkileşimi olarak ele alır: geometri-alan materyali üzerinde 95 katılımcıyla 2×2 deneyde, yalnızca pratik eğitimi kelimesi kelimesine olgular için daha büyük [[learning-gains|öğrenme kazanımları]] üretirken örnek bütünleşmeli eğitim genelleştirilebilir beceriler için daha büyük kazanımlar üretti (β = 0,41, p = ,038, d = 0,38). Bir benzetilmiş öğrenen (Apprentice Learner), çaprazlamayı yalnızca ACT-R tarzı bir [[cognitive-psychology|bellek-ve-unutma mekanizması]] verildiğinde yeniden üretti. Daha fazla pratik tekdüze biçimde daha iyi değildir: belleğe yönelik içerik geri çağırmayı, çıkarıma yönelik beceriler bütünleşmeli örnekleri hak eder.
 - **Çözümlenebilir bir nesne olarak tasarım.** [[learning-paths-patterns-learning-design-2026|Divjak, Svetec ve Horvat (2026)]], [[learning-analytics]]’i [[learning-design]]’ın kendisine çevirdi; ücretsiz bir kurs tasarımı aracında planlanan 554 kurstaki 29.064 etkinliği kodladı. Kazanım en yaygın öğrenme türü ve en yaygın giriş noktasıydı; en güçlü Markov geçişi Değerlendirme → Tartışma (0,332) ve en yüksek güvenli kural Kazanım → Değerlendirme → Alıştırma → Alıştırma (0,743, yük 1,45) idi. Öğrenme türü amaçlanan sonuç düzeyini izledi; Kazanım, Bloom düzey 1’de etkinliklerin yaklaşık %50’sinden düzey 6’da yaklaşık %20’sine düştü. Yazarlar bunların uygulama öncesi tasarımlar olduğunu vurgular: tersyüz edilmiş, [[inquiry-based-learning|sorgu temelli]] ya da [[project-based-learning|proje temelli]] dizilere benzerlik niyetin kanıtı değildir.
 - **Değerlendiren modelleri denetlemek.** [[demographic-signals-llm-student-assessment-2026|Rooein, Benedetto ve Hovy (2026)]], altı [[llm|LLM]]’yi [[automated-essay-scoring|kompozisyon puanlama]], [[formative-assessment|biçimlendirici geri bildirim]] ve soru yanıtlama boyunca denetledi; yalnızca demografik bağlamı değiştirirken görev girdisini sabit tuttu (192.480 çağrı). Puanlama açık kişilikler altında kararlıydı, ancak Llama-70B örtük konuşma geçmişi altında kendi puanlarını 1,57 puan şişirdi (p < 0,001) ve yüksek öğrenim daha az okunabilir ve daha olumlu yanıtlar çekti — yaklaşık dört standart sapmalık bir duygu durumu boşluğu. Okunabilirlik etkileri küçülürken uzunluk etkileri büyüdü ve bazı katsayılar koşullar arasında işaret değiştirdi. Yazarlar bunu bir konuşlandırma hükmü değil, bir denetim aracı olarak sunar ve demografik ile konuya ilişkin sinyalin dolaşımını [[assessment-validity|geçerlilik]] ve [[equity-in-ai-education|eşitlik]] tehdidi olarak okurlar.
@@ -50,6 +53,13 @@ Bu sayfa, bu yöntemlerin ürettiği özsel bilgiyi kapsar — öğrenenlerin bi
 - **İnsan uzmanlığının nerede durduğu.** [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024|Wang ve ark. (2024)]], en açık iş bölümünü bildirir: yaklaşık 900 acemi K-12 mentoru ve kabaca 1.800 öğrenciyle iki aylık bir [[rct|randomize kontrollü deney]]de, deneyimli mentorların akıl yürütmesinden çekilen gerçek zamanlı öneriler konu ustalığını 4 yüzdelik puan yükseltti (%62’den %66’ya, p < 0,01) ve daha düşük puanlı mentorlar için 9 puan, mentor başına yıl yaklaşık \\$20 maliyetle, mentorluğu yönlendirici sorulara doğru kaydırdı. Kazanımlar yakındı — yıl sonu testleri kımıldamadı. [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert ve ark. (2026)]], öğretmenlerin aynı konuma tasarımla vardığını bulur: sohbet robotu prototipleştiren altı ortaokul öğretmeni, sınırlandırılmış bir uzman belirtti, yetki sınırları (öğrenme ve güvenlik sorumluluğu devredilemez) ve uzmanlık sınırları (model, bireysel öğrencilere dair onların bilgisinden yoksundur) tuttu ve içerik sunumunu, pratiği ve düzeltici [[feedback]]’i devrederken hedef belirlemeyi ve [[summative-assessment|toplu değerlendirme]]yi ayırdı.
 - **Alan düzeyinde yetenek.** [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo, Chowdhury ve Liu (2026)]], üretken YZ için uyarlanmış bir [[tpack|TPACK]] aracıyla 127 öğretim kadrosu üyesini anket etti: belirgin biçimde daha düşük teknoloji bütünleşmeli bilginin yanında güçlü içerik ve pedagojik içerik bilgisi (M = 4,70–5,15), bütüncül TPACK en düşükte 2,55, içerik bilgisi hiçbir teknoloji bütünleşmeli alanla ilişkisiz ve üç bütünleşmeli alan o kadar yüksek ilişkili (r = ,81–,91) ki tek bir etken olarak işlev görebilirler. [[perrotta-zero-shot-governance-2026|Perrotta (2026)]], yönetişim katmanını kod tabanı ticari modeller üzerinde bir sistem istek metni artı bir erişim hattı olan, durdurulmuş bir Birleşik Krallık sivil hizmet prototipi üzerinden okur; temel modellerin genelliğinin hem hızlı yeniden amaçlamayla [[educational-policy-ai|politika]] araçlarına dönüşmeyi mümkün kıldığını hem de aykırı çıktıyı kalıcı biçimde yalnızca hafifletilebilir bir risk haline getirdiğini savunur — döngünün içinde oturmaktan çok üzerinden bakan gözetim.
 - **Eşleşmeyen boşluk haralandı:** [[malik-bashir-reconceptualizing-learning-sciences-hybrid-intelligence-2026|Malik ve Bashir (2026)]], 32 çalışmayı (PRISMA 2020, tematik analiz) dört temaya sentezledi: alan içinde epistemolojik parçalanma, kuram–teknoloji çelişkileri (hesaplamalı sistemler tahmin ve ölçülebilir davranış üzerinde çalışırken eğitim kuramları bağlam ve sosyal etkileşimi vurgular), analitik yoluyla öğrenmenin veriye dönüştürülmesi ve ortaya çıkan bir paradigma olarak hibrit zekâ. Hibrit Zekâ Çerçeveleri doğrulanmış bir model değil, kavramsal bir sentezdir — yazarlar onun ampirik sınamayı beklediğini belirtir — ancak dört temalı harita, bu alanın sürekli çarptığı kuramdan hesaplamaya çeviri sorunu için yararlı bir denetim merceğidir.
+
+- **Öğrencilerin üretken bir modeli nasıl kullandığı, kullanıp kullanmadıklarından daha önemlidir.** 50 lisans görüşmesinin kodlanması, %64’ünün pasif gözden geçirme veya işlemsel sorular, yalnızca %36’sının stratejik diyalog olduğunu buldu ve yansıma yapılı bir ödev dengeyi diyaloga kaydırdı ([[three-pathways-student-ai-interaction-2026|Zahra, 2026]]).
+- **Kişi içi bağımlılık, algılanan [[agency]] düşüşünden önce gelir.** YZ destekli bir [[collaborative-learning|işbirlikçi]] [[writing-education|yazma]] kursunda 85 sabit gruptaki 342 lisans öğrencisinden üç dalga veride, olağandan yüksek GenAI bağımlılığı sonraki algılanan insan etkisinin daha düşük olmasını öngördü; ters yol ise daha zayıftı ve istatistiksel olarak desteklenmedi ([[genai-reliance-human-agency-collaborative-learning-2026|Wu ve Lu (2026)]]).
+
+- **GenAI kullanımının dağılımı kurumsal bir tercihtir.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn ve Rehm (2026)]], 102 yükseköğretim çalışmasını epistemik işin öğrenci ile sistem arasında nasıl dağıtıldığına göre sınıflandırdı ve Yardımcı ile Etkinleştirici dolaşıklıklarının her birinin %42,16 ile baskın olduğunu buldu; bu çarpıklığı teknolojik yetenekten çok kurumsal meşruiyet olarak okudu.
+
+- **Süreç kanıtı kanala koşulludur.** 79 lisans öğrencisiyle tek bir GenAI destekli öğretim tasarımı görevini hem etkileşim günlüklerinde hem eşzamanlı sesli düşünmede kodlayan [[metacognitive-processes-genai-interaction-logs-2026|Li ve Liu (2026)]], daha derin izleme kanıtının sesli düşünme kaydında, daha derin [[regulation]] kanıtının ise günlüklerde daha yaygın olduğunu buldu; bu nedenle tek başına hiçbir iz [[metacognition|üstbilişsel]] bir iddianın ölçütü değildir.
 
 ## Öğrenme bilimleri komşularıyla nasıl ilişkilidir
 
@@ -64,6 +74,28 @@ Alan aynı zamanda yalnızca ödünç alınan çerçeveleri sınamakla kalmaz, k
 [[pedagogy]] ve [[learning-design]] uygulamayı kapsar — hangi öğretme stratejisinin kullanılacağı ve hedeflerin, etkinliklerin ile değerlendirmenin bir kursa nasıl dizileneceği. İkisi de öğrenme bilimlerinin dışarıdan, betimleme ve değerlendirme nesneleri olarak inceledikleri şeydir; alan bir öğretmene sıradaki hangi taktiğe uzanacağını söylemez, taktiklerin ne yaptığının gösterildiğini bildirir. Öğrenme tasarımı daha yakın akrabadır, zira ikisi de uygulanabilir ve sınanabilir bir şey üretir; ancak tasarımcının çıktısı öğretilebilir bir kurs, alanın çıktısı ise genel olarak tasarımlar hakkında bilgidir.
 
 Bulgular yalnızca öğretime ulaştıklarında önem kazanır ve bu yolculuk üç sayfa üzerinden geçer. [[educational-development]], onları taşıyan kurumsal uygulamadır — kadro geliştirme, standartlar, politika ve kimlik çalışması, doğrulanmış bir tasarımın sınıfa hiç ulaşıp ulaşmadığına karar verir; bu nedenle alanın kanıtı alışılmış olarak kurumların uyguladığının önünde gider. [[teacher-education]], bilginin bir öğretmen odaya girmeden önce inmek zorunda olduğu yerdir ve [[teacher-role]], ardından indiği yerdir — ne zaman müdahale edileceği, hangi aracın kullanılacağı ve bir öğrenenin ne zaman yalnız bırakılacağına ilişkin anda anda verilen yargıda. Üçü de öğrenme bilimi bulguları üretmez; üçü de o bulguların uygulamayı değiştirip değiştirmediğine karar verir.
+
+## Yaygın yanlış anlamalar
+
+- **“Yüksek bir ustalık eşiği, öğrenenin ayırt edebildiğini garanti eder.”** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren ve Stamper (2026)]], [[intelligent-tutoring]] sistemleriyle **on bir deney (N = 192)** yürüttü ve **%95 ustalık eşiğinde sistemin, öğrenenler eylemin geri tutulmasını gerektiren bir vakayla karşılaşmadan önce pratiği durdurduğunu**, böylece kusurun saptanmadığını buldu. Eylemin ustalığı, onu ne zaman uygulamamak gerektiğini bilmeyi içermiyordu ve eşik yanlış yapıyı sertifikalandırdı.
+- **“Daha fazla örnek daha güvenlidir.”** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger ve Carvalho (2025)]], örnek–problem oranını bir **içerik–uygulama etkileşimi** olarak ele alır ve 2×2 bir deneyde optimumun **içeriğe bağlı** olduğunu buldu. Her yerde geçerli doğru bir oran yoktur, dolayısıyla sabit bir öğretim şablonu bir etkileşime karşı bir bahistir.
+- **“Yanlış anlamayı düzeltmek, öğrencilere doğru yanıtı söylemek meselesidir.”** Eksik kısıtı adlandıran [[feedback]] ile kısa süreli eyleme geçmeme pratiği, yanlış uygulamayı **%0,0-%23,1’e (Cohen’in h’si 1,70-2,44)** düşürdü ve **on üç K-12 *Decimal Point* veri kümesinin** ikincil bir analizi aynı yapısal örüntüyü buldu. Etkili müdahale, iddia yoluyla düzeltme değil, hedefli geri bildirimle ayırt edici pratiktir; [[refutation-text|çürütme]] çalışmasının genel olarak ortaya koyduğu da budur.
+- **“Daha yüksek Bloom düzeyi daha fazla aktif öğrenme demektir.”** Öğrenme türü amaçlanan sonuç düzeyini izledi; **Kazanım, Bloom düzey 1’de etkinliklerin yaklaşık %50’sinden düzey 6’da yaklaşık %20’sine düştü**. Bilişsel talep ile etkinlik türü birlikte hareket eder ama aynı eksen değildir, bu nedenle bir görevi Bloom düzeyine göre etiketlemek, öğrenenlerin onunla ne yapacağını söylemez.
+
+## Uygulama için çıkarımlar
+
+**Eğitimciler için**
+
+- Olumsuz durumu açıkça öğretin. %95 eşiği başarısızlığının nedeni budur: doğru hamlenin eylemi geri tutmak olduğu koşulları yerleştirin, yoksa öğrenen onu her yerde uygular.
+- Örnek–problem oranını bir kurs boyunca sabitlemeyin. İçerik–uygulama etkileşimi, prosedürler için doğru oranın kavramlar için doğru oran olmadığı anlamına gelir.
+- Kuralı yeniden ifade etmek yerine eksik kısıtı adlandıran geri bildirimle ayırt edici pratik kullanın. Buradaki ölçülmüş etki büyüklüklerine sahip müdahale budur.
+- Ustalık ölçütünüze güvenmeden önce onun gerçekte neyi sertifikalandırdığını denetleyin.
+
+**Geliştiriciler için**
+
+- Pratiği yalnızca doğruluk üzerinden durdurmayın. Geri tutma koşulunu kendi başına bir beceri olarak modelleyin, yoksa sistem aşırı genellemeyi sertifikalandırır.
+- Oranın sabit değil bir parametre olmasına izin verin, çünkü kanıt optimumun içeriğe bağlı olduğunu söyler.
+- Ölçütünüzün hangi yapıyı ölçtüğünü, doğrulamanızın hangi yapıyı ölçtüğünden ayrı olarak bildirin.
 
 ## Bağlı kavramlar
 
@@ -91,12 +123,22 @@ Bulgular yalnızca öğretime ulaştıklarında önem kazanır ve bu yolculuk ü
 ## Bağlı makaleler
 
 - [[competent-generative-ai-use-measures-review-2026]] — Review and exploratory meta-analysis of measures for competent generative-AI use (Verí 2026)
+
+- [[agent-type-feedback-style-self-directed-learning-2026]] — Feedback style, not agent type, moved self-regulatory engagement
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Correctness masking an incomplete rule: mastery stopping rules in adaptive learning (An, McLaren & Stamper 2026)
 - [[demographic-signals-llm-student-assessment-2026]] — Counterfactual audit of demographic signals in LLM student assessment (Rooein, Benedetto & Hovy 2026)
+
+- [[genai-reliance-human-agency-collaborative-learning-2026]] — Within-person reliance precedes a drop in perceived agency
+- [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert preregistered Delphi on which learning processes GenAI enhances and which it threatens
 - [[learning-paths-patterns-learning-design-2026]] — Markov chains and pattern mining over 29,064 activities in 554 courses (Divjak, Svetec & Horvat 2026)
+
+- [[metacognitive-processes-genai-interaction-logs-2026]] — Process evidence is channel-conditional
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — A privacy-preserving, non-diagnostic self-check for AI-associated offloading (Alam 2026)
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy, read through the Redbox codebase (Perrotta 2026)
 - [[rachatasumrit-example-problem-ratio-2026]] — Why the best example–problem ratio depends on content (Rachatasumrit, Koedinger & Carvalho 2025)
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design bounded-expert chatbots, with selective delegation of instruction (Reichert et al. 2026)
 - [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty GenAI TPACK: strong content knowledge, weak technology-integrated knowledge (Sutedjo, Chowdhury & Liu 2026)
+
+- [[sun-student-genai-entanglement-literacy-demands-2026]] — The distribution of GenAI use is an institutional choice
+- [[three-pathways-student-ai-interaction-2026]] — A typology of student-AI interaction: 64% passive or transactional, 36% strategic dialogue
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: a randomized trial of human–AI live tutoring at scale (Wang et al. 2024)

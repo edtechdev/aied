@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ Doğrulama, öğrencilerin bu soruyu deneyimleme biçimini değiştirebilir: ça
 
 ### Sosyal ve ilişkisel etkiler
 
-- **Olumlu:** YZ, [[collaborative-learning|işbirliğini]] ve [[student-ai-interaction|insan–YZ etkileşimini]] aracılık ederek ekip çalışmasını, akran etkileşimini ve çeşitli bakış açılarına erişimi destekleyebilir.
+- **Olumlu:** YZ, [[collaborative-learning|işbirliğini]] ve [[human-ai-collaboration|insan–YZ etkileşimini]] aracılık ederek ekip çalışmasını, akran etkileşimini ve çeşitli bakış açılarına erişimi destekleyebilir.
 - **Olumsuz:** YZ, özgün akran ve hoca etkileşimini azaltabilir, [[ai-sycophancy|dalkavuk]] dinamikleri yaratabilir ve — açıklanmamış bir ekip arkadaşı olarak işlediğinde — öğrenenlerin göremediği veya itiraz edemediği biçimlerde grup söylemini ve [[agency]] yeniden şekillendirebilir (bkz. [[jin-emergent-learner-agency-implicit-hai-2026|örtük HAI’de ortaya çıkan öğrenen ajansı]]).
 
 ### Uzun vadeli / yetkinlik etkileri
@@ -93,6 +93,33 @@ Bir öğrencinin deneyimlediği en uzun vadeli çıktılar — gelecek dönem d�
 ## Bağlantılar
 
 Öğrenci deneyimi; [[cognitive-offloading|Aşırı Bağımlılık]] (aşırı YZ bağımlılığı), [[ai-literacy]] (etkili kullanım becerileri), [[cognitive-offloading]] (YZ’nin bilişsel çalışmayı nasıl değiştirdiği) ve [[student-engagement|kavrama]] (YZ sistemlerinin öğrenci davranışını nasıl ölçtüğü ve buna nasıl yanıt verdiği) ile bağlantılıdır. [[stakeholders]] şemsiyesinin öğrenciye yönelik üyesidir ve YZ’nin öğrencileri etkilediği tüm biçimleri özetlemenin merkezidir.
+
+## Yaygın yanlış anlamalar
+
+**“YZ’den kaçınan öğrenciler geridedir.”** Kullanmamak sıklıkla bir boşluk değil, gerekçeli bir konumdur: Birleşik Krallık’ta kurumlar arası bir ankette **7.087 öğrencinin %32’si** ders çalışmak için üretken YZ’yi hiç kullanmamıştır ve kullanmayanlar işi kendileri yapmak istediklerini belirtmiştir. Bunu bir benimseme eksikliği olarak ele almak bulguyu tersine çevirir ve öğrencileri savunulabilir bir seçimden baskı altına alır.
+
+**“Öğrenci bildirimleri öğrenmenin makul bir ölçüsüdür.”** Bunlar [[self-report-measures|öz bildirim ölçümleridir]]: algıları ve niyetleri iyi, davranışı ise yaklaşık olarak yakalar. Bu literatürdeki performans-öğrenme boşluğu, öğrencilerin YZ ile daha iyi yapıp sonraki yardımsız görevlerde daha kötü yapması, tam olarak öz bildirim ile sonucun ayrıştığı durumdur; bu nedenle memnun bir öğrenci topluluğu, öğrenen bir öğrenci topluluğunun kanıtı değildir.
+
+**“Öğrenciler YZ’nin yardımcı olduğunu hissediyorsa, yardımcı olur.”** Yardım gördüğünü hissetmek deneyim hakkında gerçek bir veri, sonuç hakkında ise güvenilmez bir çıkarımdır. Boşluk belgelenmiştir ve zarar gören gruptaki öğrenciler bunu güvenilir biçimde algılamaz; bu nedenle algı ve sonuç, biri diğerinin yerine geçmeden ayrı ölçümler olarak toplanmalıdır.
+
+**“Öğrenci deneyimi sonuçlara göre yumuşak bir kaygıdır.”** O, benimseme ve açıklama için öncü bir göstergedir: kullanımlarının yargılandığını hisseden öğrenciler bunu gizler ve gizlenmiş kullanım, [[reducing-ai-misuse|kötüye kullanım]] ile zararın kurum için en az görünür olduğu koşuldur.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Kullanmamayı kapatılacak bir boşluk olarak ele almayın. Öğrencilerin yaklaşık üçte biri işi kendileri yapmayı seçiyor ve benimseme baskısı gerekçeli bir konumu uyum sorununa dönüştürür.
+- Algıyı ve sonucu ayrı toplayın. Memnuniyet anketleri deneyimi betimler ve yardımsız performansın yerine geçemez.
+- Açıklamayı güvenli kılın; çünkü yargı bekleyen öğrenciler kullanımlarını gizler ve gizlenmiş kullanım, yardımlı ve yardımsız performans arasındaki ayrışmanın saklandığı yerdir.
+
+**Geliştiriciler için**
+
+- Öğrencilere yayımladığınız her şeyde deneyim ölçütlerinin yanında öğrenme sonuçlarını da bildirin, çünkü hissedilen ve ölçülen sonuçlar düzenli olarak ayrışır.
+- Kursa erişimi kaybetmeden asistanı reddetmeyi destekleyin.
+
+**Araştırmacılar için**
+
+- Kullanmayan grubun büyüklüğünü ve gerekçelerini açıkça bildirin; 7.087 öğrencilik bir örneklemin %32’si bir artık değil, bir nüfustur.
 
 ## Bağlı kavramlar
 

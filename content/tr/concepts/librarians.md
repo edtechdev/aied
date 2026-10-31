@@ -11,7 +11,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,16 @@ Rolün sınırlarını belirleyen iki dal daha vardır. [[pearls-epistemic-verif
 - **Heterojen yollar için tasarım yapın.** YZ’yi, kütüphanecileri veya her ikisini aşağı yukarı eşit oranda tercih eden gruplarla, danışmaları konu ve iş yüküne göre yönlendirmek 312’sini katılımcı başına 10,4 olarak karşılamıştır; tek bir zorunlu yol bazı öğrenenlere yetersiz hizmet verir.
 - **Güveni ve kaynakları görünür kılın.** Atölyenin arama-öğrenme çizgisi, hangi bilişsel süreçlerin dış kaynak kullanımına aktarılmaması gerektiğini sormakta ve karar noktalarını koruyan arayüzler çağrısında bulunmaktadır — kütüphanecilerin sıradan çalışma standardı olan kaynak görünürlüğünden belirleyebilecekleri bir [[scaffolding|iskele]].
 - **Yalnızca modeli değil insan katmanını bütçeleyin.** Danışmalar saatler içinde, kitlesel ölçekte yanıtlanmıştır; çünkü personel bilinçli biçimde yönlendirilmiştir. Öğrenenlerin güvenilirlik muhakemesini tek başına üstleneceklerini varsaymak, bu maliyeti onu ödemeye en az donanımlı kişilere aktarır.
+
+## Yaygın yanlış anlamalar
+
+**“Kütüphaneciler eğitimde YZ’nin çevresindedir.”** Belirli ve sınanabilir bir rolleri vardır ve derlem bunu ölçer. **312 danışma (katılımcı başına 10,4)** genelinde kaynak değerlendirme ve kalite **%38,5**, arama stratejisi oluşturma **%29,2**, atıf yönetimi **%18,6** ve depo gezinme **%13,7** payına sahipti; **%73,4’ü altı saat içinde yanıtlandı**. Bu çevresel bir hizmet değildir; YZ’nin taşıyamadığı yükü taşıyan bilgi okuryazarlığı işlevidir.
+
+**“YZ arama, öğrencilerin eskiden bir kütüphaneciye getirdiği soruları yanıtlar.”** Gömülü kütüphaneci çalışmasında, **kaynak değerlendirme soruları tam da YZ’nin en az güvendiği durumlarda danışmalara egemen oldu (%38,5)**. Aracın belirsizliği işi, onu çözebilecek insan kapasitesine yönlendirdi; bu da gözlenen örüntüyü bir geçersizleşme değil, bir iş bölümü kılar.
+
+**“Bilgi okuryazarlığı tek seferlik bir oryantasyon oturumudur.”** Bu bir yardım değil, öğretimdir: öğrencilerin geldiği sorular değerlendirme ve strateji problemleridir (bu kaynak güvenilir mi, bunu nasıl ararım) ve bunlar tamamlanacak işlemler değil, öğretilebilir becerilerdir. Hizmeti yardım olarak ele almak, bir müfredatı bir yardım masasına dönüştürür ve kalıcı kapasiteyi kaybeder.
+
+**“Doğrulamanın bedelini kimin ödediği başkasının sorunudur.”** Danışma yükü kütüphane kadrosuna düşer ve makalenin kendi sorusu, kütüphanelerden bu yükü üstlenmesini istemenin kadro sayılarını aşıp aşmadığıdır. Birlikte tasarım ve ortaklık, literatürün önerdiği yanıtlardır; çünkü doğrulama maliyeti gerçektir ve bunun için bütçe ayırmamış bir birime düşer.
 
 ## Bağlı kavramlar
 

@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -46,6 +46,9 @@ Müfredat tasarımı, eğitimin *neyini* meselesini program düzeyinde ele alır
 Değişimi eklemeli değil sistemsel olarak gözden geçiren [[rewriting-curriculum-genai-pedagogy-2026|Sabani ve ark. (2026)]], bir kapsam derlemesini, 209 kaydın bibliyometrik haritalanmasını, 36 makaleyi ve on akademik lider görüşmesini — bilgi aktarımının yetenek geliştirmesine ve yerel denemenin kurumsal yönetişime yol açması dahil — beş dönüşümde üçgenler.
 
 **Müfredat haritalama ve analizi**, mevcut müfredatları anlamak için YZ kullanır. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng ve ark.]]**, YZ destekli yazılım mühendisliği derslerinden 23 ders içerik planını analiz etti ve ortak temaları — [[prompt-engineering|istem mühendisliği]], YZ ile kod incelemesi, [[ethics|etik değerlendirmeler]] — belirleyerek araç akıcılığını temel bilgiyle dengelemeyi vurgulayan tasarım rehberliği türetti. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]**, kurumlar arası BS ders yapılarını karşılaştırmak için hesaplamalı yöntemler uygular.
+
+
+Ağırlıklandırma, bir müfredat analizinin ne bildirdiğini değiştirir: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath ve ark. (2026)]], GPT-o3-mini'nin 48 değerlendirmenin her biri için yedi kurumsal beceriye %100 dağıtım yapmasını sağladı ve uzman ağırlıklarına karşı Krippendorff alfası 0,81'e ulaştı, ancak açıklamaların hiç açıkça belirtmediği becerilerde uyum negatife döndü (-0,19).
 
 **YZ okuryazarlığı bütünleştirmesi**, YZ yetkinliklerini disiplinler boyunca gömer. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]**, tüm yaşlar ve eğitim aşamaları için uygulanabilir, ikinci ve üçüncü düzey [[digital-divide|dijital uçurumları]] giderme amaçlı iskelelenmiş bir YZ okuryazarlığı çerçevesi sunar. **[[tracing-genai-literacy-interaction-patterns]]**, YZ okuryazarlığının etkileşim örüntüleri yoluyla nasıl geliştiğini inceler. **[[hingle-collaborative-ai-literacy-2025]]**, [[collaborative-learning]] ile bağlantılı olarak YZ okuryazarlığı müfredatı geliştirmeye işbirlikçi yaklaşımları keşfeder.
 
@@ -93,6 +96,12 @@ Yapı, istem metni ifadesi, üretimde YZ taslağını güvenilir kılan şeydir:
 
 Müfredat tasarımı [[learning-design]] ile doğrudan bağlantılıdır — müfredat neyi tanımlar, öğretim nasılı tanımlar. YZ yetkinliklerini gömmek birincil bir müfredat zorluğu olduğundan [[ai-literacy]] ile; müfredat değişiminin eğitimci hazırlığı gerektirmesinden ötürü [[teacher-role]] ve [[educational-development]] ile; iyi tasarlanmış müfredatların beceri gelişimini dersler ve yıllar boyunca iskelememesinden ötürü [[scaffolding]] ile bağlantılıdır. [[higher-ed]] ve [[k-12]] bağlantıları, müfredat tasarımının eğitim düzeyleri boyunca alaka düzeyini yansıtır.
 
+## Yaygın yanlış anlamalar
+
+- **“Bir LLM, yüksek güvenilirlikle doğrulanmış bir müfredatı eşleyebilir.”** GPT-o3-mini, **48 değerlendirmenin her biri için yedi kurumsal beceriye %100 dağıtım yaptı** ve uzman ağırlıklarına karşı **Krippendorff alfası 0,81**'e ulaştı; ancak **uyum** belirli becerilerde bozuldu. Yüksek genel güvenilirlik ile eşit olmayan uyum, eşlemeye güvenmeden önce denetlenecek örüntüdür.
+- **“YZ okuryazarlığını gömmek bir ders eklemek demektir.”** LearnAI gömülü biçimi gösterir: **beş disiplinde 18 mevcut dersin içine yerleştirilmiş kısa sunumlardan oluşan geniş erişimli bir katman (293 öğrenci)**. Erişim bir ünitede toplanmak yerine müfredata dağıtılmıştır.
+- **“Öğrenciler medyayı eleştirel değerlendirebilir olarak gelir.”** Ankete katılan eğitim ve gazetecilik öğrencilerinin yalnızca **%13,8'i** derslerinin eleştirel medya analizini ele aldığını söyledi, **bunu önemli bulan %97,8'e** karşılık. Bir beceriye değer vermek ile o becerinin öğretilmesi arasındaki boşluk müfredat açıklığıdır.
+
 ## Bağlı kavramlar
 - [[pedagogical-partnerships]] — Pedagojik Ortaklıklar
 - [[business-education]]
@@ -114,6 +123,8 @@ Müfredat tasarımı [[learning-design]] ile doğrudan bağlantılıdır — mü
 - [[recommender-systems-and-learning-paths]]
 
 ## Bağlı makaleler
+
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Akreditasyon için ağırlıklı, uzman doğrulamalı beceri eşlemesi
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Üretken YZ ile yapıcı hizalama rehberliğinin eleştirel söylem analizi (McInnes ve ark. 2026)
 - [[icet-ml-education-trust-2026]] — Eğitim yoluyla YZ sistemlerinde güveni ele almak: didaktik bir perspektif
 - [[refrain-amplify-genai-curriculum-2026]] — Üretken YZ’yi sıralamak için önce çekil-sonra yükselt müfredat çerçevesi (Torres-Sahli ve ark. 2026)

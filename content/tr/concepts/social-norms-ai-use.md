@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -94,6 +94,18 @@ Bu ikamenin bedeli, öğretim kadrosu ile öğrencilerin gerçekten konuştuğu 
 - **Disiplinler arası farklılığa saygı gösterin.** Bölümler arasında %27’den %5’e uzanan bir yayılım normalleştirilmesi gereken bir tutarsızlık değil, belgenin neyi onayladığına ilişkin farklı muhakemelerdir. Kurum çapında dayatmalar, var olmayan bir disipline göre yazılmaya eğilimlidir.
 - **Norm belirlemek için izlemeye sarılmayın.** Gözetim, elimizdeki en güçlü çalışmada hile eğilimini değiştirmeden kaygıyı artırmış ve bu bedeli en dezavantajlı öğrenciler üzerinde yoğunlaştırmıştır.
 - **Normda kimin eksik olduğunu sorun.** Etik literatürü öğrencilere hemen hemen hiç yükümlülük atfetmez ve muhakemelerini az hesaba katar; sınıf ise onlara çok şey atfeder ve bunu toplumsal olarak uygular. Bu boşluğu kapatmak bir uyum sorusu değil, müfredat sorusudur.
+
+## Yaygın yanlış anlamalar
+
+**“Öğrenciler akranlarının YZ’yi ne kadar kullandığını bilir.”** Kendi bilgilerini fazla tahmin ederler. Bir algılayıcının tahminleri ile kendi bildirdiği kullanım profili arasındaki medyan korelasyon **her iki dalgada da r = ,73** iken, YZ kullanımının *türü* için sıra doğruluğu yalnızca **r = ,34** idi. Öğrenciler kabaca ne kadar olduğunu söyleyebilir, ne tür olduğunu söyleyemez; bu da normların sistematik olarak kaba bir izlenim etrafında oluştuğu anlamına gelir.
+
+**“Bir politika yayımlamak normu kurar.”** Yerel kural kitabı politikada değil pratikte yazılır ve alanlar keskin biçimde ayrışır: **31.000 ders** genelinde YZ bütünleşik ödevler **işletme izlencelerinin %27’sinde ve beşeri bilimler izlencelerinin %5’inde** görünmüştür. Bir öğrencinin işleyen normu kendi disiplininin normudur ve kurum geneli bir belge onu geçersiz kılmaz.
+
+**“Utanç ve suçluluk YZ kullanımını caydırır.”** Kullanımı değil görünürlüğü düzenlerler: [[shame-guilt-ai-regulation-computing-education|utanç ve suçluluk görünürlüğü düzenler]], davranış değişikliği yerine saklama ve seçici ifşa üretir. Utandırıcı bir normun gözlemlenebilir etkisi daha az dürüst raporlamadır, daha az kullanım değil.
+
+**“Gözetim, kullanımı görünür kılarak normu çözer.”** Davranışı görünür kılmak normun ne olması gerektiğini çözmez; insanların neyi açıklamaya istekli olduğunu değiştirir. Ölçülen örüntü zaten seçici ifşadır; bu nedenle üzerine uygulanan bir izleme rejimi davranışı değil gizlemeyi ölçer.
+
+**“Normlar gayri resmidir, dolayısıyla kurumsal erişimin dışındadır.”** Yerel olarak uygulanır ve yerel olarak değiştirilebilirler; bu da onları politikadan daha işlenebilir kılar: bir ders ekibinin açık pratiği, tam olarak işleyen kuralın belirlendiği yer olduğu için bir kaldıraçtır.
 
 ## Bağlı kavramlar
 

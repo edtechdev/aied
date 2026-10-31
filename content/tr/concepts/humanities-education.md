@@ -7,7 +7,7 @@ level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,18 @@ SSH eğitimi, üretken yapay zekanın en çok meydan okuduğu yetenekleri öne �
 - **Kaynak çalışmasında yapay zekayı bilinçli kullanın.** [[paternalistic-filter-llm-history-education|Tarih araştırması]], yapay zekanın muhakemeyi ve kaynak yorumlamasını şekillendirebileceğini gösteriyor — öğrencilere yapay zeka aracılığıyla aktarılan tarihsel iddiaları ve uygulanan süzgeçleri sorgulamayı öğretin.
 - **Öğrenci yönelimli etkileri göz önünde bulundurun.** [[genai-impact-chinese-students-hss|Öğrenci deneyimi çalışmaları]], GenAI’nin SSH öğrenenlerini nasıl etkilediğini belgeliyor; desteği ve dürüstlük çerçevesini varsayımlara değil gerçek kullanıma göre uyarlayın.
 
+## Yaygın yanlış anlamalar
+
+**“Beşeri bilimler müfredatın YZ'ye en az maruz kalan parçasıdır.”** Maruziyet ölçülmüştür ve yaygın değil yoğunlaşmıştır: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] maruziyetin nerede durduğunu belirlemek için **15.587 Sanat ve Beşeri Bilimler ders kaydını** denetledi. Maruziyet ince bir biçimde yayılmak yerine dersler arasında eşit olmayan biçimde dağılmıştır; bu da değerlendirme yeniden tasarımını sektör çapında değil hedeflenmiş bir sorun haline getirir.
+
+**“Beşeri bilimler eğitiminde YZ teknomerkezci bir takviyedir.”** Bu sayfanın dayandığı konum belgesi, kaymanın takviye değil bir *entelektüel dönüşüm* olduğunu savunur ve [[ai-literacy|dijital akıcılığı]] temel bir liberal sanatlar yetkinliği olarak konumlandırır. Değişmemiş bir derse bir araç eklemek, dönüşümü onun aracıyla karıştırır.
+
+**“Değerler eğitimi bir modele içerik olarak devredilebilir.”** [[genai-values-education-affordances-risks-2026|Chen (2026)]], değerler eğitimini üç koşulu olan ilişkisel bir pratik olarak yeniden çerçeveler: hesap verebilirlik, örneklik ve hitap; ve GenAI'nin beş olanağının her birini bir ilişkinin yerine geçmek olarak okur: benzetilmiş bakış açısı, zarar görebilecek paydaşın yerine geçer.
+
+**“YZ'nin en çok tehdit ettiği şey eleştirel analizdir, dolayısıyla sınırlandırılmalıdır.”** Eleştirel analiz, görev onu yüzeyselleştirmek yerine derinleştirecek biçimde tasarlandığında kasıtlı kullanımın en çok geliştirdiği şeydir de. [[human-in-the-loop-ai|İnsan-denetiminde]] bir model, disiplinin katkısını aracın çıktısında değil öğrenenin yargısında konumlandırır.
+
+**“Genel amaçlı bir model, metin incelemesi için de özetleme kadar yararlıdır.”** Yorum okurun konumunu gerektirir ve okumayı hazır sunan bir destek katmanı, disiplinin öğretmek için var olduğu yorumlayıcı edimi gerçekleştirmiş olur.
+
 ## Bağlı kavramlar
 
 - [[higher-ed]]
@@ -74,3 +86,5 @@ SSH eğitimi, üretken yapay zekanın en çok meydan okuduğu yetenekleri öne �
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
+
+- [[genai-values-education-affordances-risks-2026]] — Değerler eğitiminde üretken YZ: olanaklar, etik riskler ve öğretim için çıkarımlar (Chen 2026)

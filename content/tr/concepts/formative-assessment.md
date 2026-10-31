@@ -10,7 +10,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,9 @@ ai_assist:
 ## Giriş
 
 Biçimlendirici değerlendirme, [[ai-education|Eğitimde yapay zeka]] açısından merkezidir; çünkü [[assessment]] ile [[feedback|öğrenme geri bildiriminin]] birleştiği noktada yer alır. Amacı döngüyü kapatmaktır: öğrencilerin bildiklerini ve bilmediklerini ortaya çıkarmak ve iyileştirmek üzere üzerine hareket edebilecekleri geri bildirim sağlamak. YZ bunu ölçekte mümkün kılar — madde üretir, yanıtları puanlar ve bireyselleştirilmiş geri bildirim sunar — ama bilgi tabanının araştırmaları niteliğin madde türlerine göre belirgin biçimde değiştiğini ve geri bildirimin yalnızca öğrenciler onu gerçekten hayata geçirdiğinde yardımcı olduğunu gösterir.
+
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti ve ark. (2026)]], otomatik bir yazma sisteminin özgün bir biçimlendirici amaca hizmet edebileceğine dair kanıt sunar: gelişme yalnızca öznitelik puanlarında değil revizyon niteliğinde ortaya çıkmıştır, ancak yalnızca öğretmenler geri bildirimi sınıf tartışmasına yerleştirdiğinde.
 
 ## YZ tarafından üretilen biçimlendirici maddeler
 
@@ -107,6 +110,9 @@ YZ’nin rolünü başarı düzeyine uydurmak ilgili bir tasarım hamlesidir: ma
 
 Eğitimde YZ açısından biçimlendirici değerlendirme, öğrenme sürecinin kendisine bağlanır:
 
+
+- **Teknoloji destekli biçimlendirici değerlendirme bir araç değil, sistem özelliğidir.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]], onu teknolojik kapasite, pedagojik düzenleme, öğrenen etkinliği ve insan yargısının ortak ürünü olarak tanımlar ve değerinin otomasyonda değil, kanıt-geri bildirim-yansıtma-eylem döngüsünü sürdürmekte olduğunu savunur.
+
 - **Geri bildirim döngüleri:** [[feedback|geri bildirim döngüleri]], biçimlendirici değerlendirmenin öğrenmeyi bilgilendirdiği mekanizmadır; YZ özel öğretmenleri ve uyarlanabilir sistemler bu döngüleri ölçekte kapatır.
 - **Öz-düzenlemeli öğrenme:** biçimlendirici geri bildirim, öğrenciler ilerlemeyi izleyip uyarladığında [[self-regulated-learning|öz-düzenlemeli öğrenmeyi]] destekler; YZ geri bildirimi [[ai-internal-feedback-evaluative-judgments|değerlendirici yargıyı]] geliştirmeli, onun yerini almamalıdır.
 - **Otomatik puanlama döngünün bazı evrelerine ulaşır, tümüne değil:** [[chen-automated-scoring-interpreting-self-regulated-learning-2026|Chen ve Liu (2026)]], 46 tercüme öğrencisinin haftalık yorumlamalarını; anında puan, yazı dökümü, işaretlenmiş hatalar ve bir başvuru yorumlaması döndüren bir otomatik puanlama sistemine gönderdiği, denetim grubunun ise yalnızca tüm sınıfa öğretmen geri bildirimi aldığı 14 haftalık yarı-deneysel bir çalışma yürüttü. Otomatik grup genel olarak daha çok gelişti (d = 1,03), ama kazanım, açığın ayrıştırılabilir olduğu, sinyalin güvenilir olduğu ve ölçeğin duyarlı olduğu yerde kaldı: dilsel doğruluk ve mantıksal tutarlılık yükseldi, oysa bilgi bağlılığı (insan puanlayıcılarla uyum r = 0,12) ve sunum akıcılığı kımıldamadı. [[self-regulated-learning|Öz-düzenlemeli öğrenme]] eşleşen bir biçimde düzensizdi; yürütme ve izleme puan kazanımlarıyla ilişkiliydi (r = 0,42), oysa planlama ve duygusal güdülenme ölçek orta noktasının civarında durdu ve birkaç öğrenci düşük puanlar sonrası nedenleri analiz etmek yerine etkileşimi erteleme eğilimi gösterdi. Sistem döngünün performans evresine ulaştı, onu izleyen planlamaya değil.
@@ -126,6 +132,9 @@ Eğitimde YZ açısından biçimlendirici değerlendirme, öğrenme sürecinin k
 
 Biçimlendirici değerlendirme sistemleri, öğrenme destek araçlarından davranış izleme altyapısına kayabilir. Uyarlanabilir özel öğretmenliği olanaklı kılan aynı veri akışları, [[governance]] zayıfsa cezalandırıcı izlemeyi de olanaklı kılar. Bu, [[privacy]] ve [[well-being|öğrenci esenliğiyle]] bağlantılıdır ve öğrenmeyi gözetlemek yerine destekleyen biçimlendirici sistemler lehinde delil sunar.
 
+
+Gözetim olmadan da gözlemlenebilirlik tasarlanabilir: bu, bir değerlendirmenin öğrenme hakkında savunulabilir yargı için fiilen ürettiği kanıttır ve maliyeti etikte değil uygulanabilirlikte ödenen bir tasarım önceliği olarak ele alınır ([[assessment-feedback-trilemma-model-2026|Pedlow ve ark. (2026)]]).
+
 ## Eğitimde YZ için çıkarımlar
 
 - **Madde türünü YZ güvenilirliğine uydur:** YZ’yi doğrulanabilir boyutlar için kullanın (kavram uyumu, doğruluk) ve öğretimsel boyutlar için insan yargısını koruyun (çeldirici niteliği, geri bildirim derinliği).
@@ -135,6 +144,12 @@ Biçimlendirici değerlendirme sistemleri, öğrenme destek araçlarından davra
 - **Niteliği ve geçerliliği değerlendirin:** YZ tarafından üretilen maddeleri ve geri bildirimi üretim hızının yanında nitelik, geçerlilik ve [[equity-in-ai-education|eşitlik]] açısından değerlendirin.
 - **Biçimlendirici değerlendirmeyi bir felsefe olarak ele alın, bir araç takımı değil.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais ve Galy (2026)]], daha geniş yükseköğretim literatürünü, biçimlendirici, süregelen ve bireyselleştirilmiş [[feedback]] geri bildirimini sade bir araç takımından çok kuşatan bir felsefe olarak konumlandıran bir “öğrenme için değerlendirme” paradigmasına sentezler; biçimlendirici ile [[summative-assessment|toplayıcı]] amaçları dengeler ve [[agency|öğrenci etkinliğini]], öz-düzenlemeyi ve [[metacognition|üstbilişsel]] beceriyi öne çıkarır. Bu felsefenin hayata geçirilebileceği birbirini güçlendiren beş uygulamayı belirlerler ([[authentic-assessment|özgün değerlendirme]], öz- ve [[peer-assessment]], yeniden değerlendirme, [[mastery-learning|standart temelli puanlama]], puanlamayı kaldırma), bunların yükseköğretim alanlarında hâlâ oldukça eşitsiz biçimde benimsendiğini not ederek.
 - **Sürekli değerlendirme, biçimlendirici kaydın kendisini yeniden çerçeveler.** AIM-CAI başvuru mimarisi (bir uygulama değil, konum belirten bir çalışma), temel kanıt tabanı olarak bölümsel değerlendirmeyi altı katmanlı bir altyapıyla değiştirmeyi önerir: platformlar arasında kanıt üretimi, kaynak bağlamını koruyan serileştirme, YZ aracılı anlamsal çeviri, psikometrik yorumlama, boyunsal yetkinlik profilleri ve federasyon yönetişimi. Değişim tablosu değişikliği şöyle söyler: ödev başına geri bildirim, danışmanlığı ve yansırmayı destekleyen boyunsal geri bildirime dönüşür; notlar gelişen yetkinlik profillerine dönüşür; sertifikalar şeffaf gelişim kayıtlarına dönüşür. Yönetişim katmanı çalışmanın ısrar ettiği noktadır — yedi adlandırılmış gerilim (birlikte çalışabilirlik karşı yerel özerklik, gizlilik karşı yararlılık, öğrenen etkinliği karşı kestirimci otomasyon, gözetim karşı destek vb.) her biri risklere ve yanıtlara eşlenmiştir ve yönetişimsiz sürekli çıkarımın baskın kültürel normları ayrıcalıklı kıldığına dair uyarıyla birlikte. Yenilik iddiası bütünleştiricidir: bileşenler vardır; katkı mimari ve yönetişim haritasıdır. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
+## Yaygın yanlış anlamalar
+
+- **“Üretilmiş alıştırma maddeleri yararlı biçimlendirici sinyal verir.”** **Kolay üretilmiş bir madde havuzu biçimlendirici sinyal vermez**: **10 haftalık bir uygulamada YZ tarafından üretilen alıştırma maddelerinin yaklaşık %70'i her öğrenci tarafından doğru yanıtlandı**. Herkesin geçtiği bir havuz, kimin neye ihtiyacı olduğuna dair hiçbir bilgi taşımaz.
+- **“Madde üretim güvenilirliği biçimler arasında tek düzedir.”** YZ sistemleri biçimlendirici maddeleri kipler arasında **güvenilirliği türe göre değişerek** üretir; çoktan seçmeli bunların arasındadır. Üretilmiş maddeleri biçimler arasında birbirinin yerine kullanılabilir saymak, üretimin nerede güvenilir olduğunu gizler.
+- **“Öğrencilere YZ geri bildirimi vermek hayata geçirmeyi üretir.”** **Hayata geçirme sorunu** geri bildirim niteliğinden ayrı olarak belgelenmiştir: geri bildirimi almak ile ona göre eylemek ayrı adımlardır ve biçimlendirici değerlendirmenin başarılı ya da başarısız olduğu yer ikincisidir.
 
 ## Bağlı kavramlar
 
@@ -200,4 +215,6 @@ Biçimlendirici değerlendirme sistemleri, öğrenme destek araçlarından davra
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Veri Bilimi Derslerinde Öğrencilerin LLM Kullanımı ve YZ Tarafından Üretilen Soru Zorluğunun Sınırları
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — YZ Aracılı Sürekli Değerlendirme Altyapısı (AIM-CAI): Öğrenme Kanıtlarını Bağlamlar ve Zaman Arasında Bağlamak (McNamara ve Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Kanıta dayalı diyalogla öğretim yanlış kanıları için konuşma YZ tanısı (Miranda ve Calvani 2026)
+
+- [[assessment-feedback-trilemma-model-2026]] — Gözetim riskinin olumlu karşılığı: izleme değil, kanıt tasarımı olarak gözlemlenebilirlik
 

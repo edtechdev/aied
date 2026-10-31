@@ -13,7 +13,7 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-28T18:24:42-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -73,12 +73,27 @@ Farklı bir maruziyet araçların içinde yer alır. [[humble-prompt-injection-a
 
 Meslekî programlar için maruziyet mezuniyetle bitmez. Gutowski ve Hurley, çalışan avukatları bağlayan mesleki davranış kurallarının — teknolojik yeterlilik görevi, gizlilik, bu araçları kullananların denetimi, mahkeme karşısında samimiyet — YZ kullanımına şimdiden bağlı olduğunu ve [[hallucination-risk|uydurma yetki]] alanının, uydurma davalar sunan uygulayıcılar için yaptırımlar doğurduğunu kaydeder. Aynı devir mantığı, lisans, kayıt veya yasal bir görevin mezunu takip ettiği her yerde geçerlidir; bu nedenle [[legal-education|Hukuk Eğitimi]] ile [[medical-education|sağlık meslekleri]] disiplin sayfaları bu sayfanın yanında yer alır.
 
+
+### Sahiplik ve kamu malı sorusu
+
+Telif hakkı bu alandaki diğer hukuki sorudur ve usulsüzlükten ters yönde işler. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley ve Downes (2026)]], Amerika Birleşik Devletleri Telif Hakkı Bürosu’nun tutumunu, istek metinlerini tek başına yazarlık için yetersiz saymak olarak okur. Bu okuma geçerliyse, tamamen makine tarafından üretilmiş bir eser onu istekleyen kişiye ait değildir; bu iki bakımdan önemlidir: bir usulsüzlük davasında bir öğrenciye atfedilecek yazılı bir metin yoktur ve o eseri yayımlayan bir kurum onun üzerinde hak iddia edemez. O zaman sahipliğin yerine getireceği işi lisanslar yapar; açık lisanslama ile akademik dürüstlüğün tek bir sorunun iki yüzü olmasının nedeni budur.
+
 ## Açık Sorular
 
 - Bu risklerden hangisi gerçekten dava açılmasına veya düzenleyici bulgulara yol açmıştır? Bilgi tabanında usuller, politikalar ve teknik değerlendirmeler vardır, ancak dava sonuçları yoktur ve sanki varmış gibi okunmamalıdır.
 - Bir kurum bir duruşmada hata oranlarını kabul ettikten sonra algılayıcı çıktısı herhangi bir şeyin kanıtı olarak ayakta kalır mı, yoksa bu kabullenme davayı bir usul adaleti ihtilafına mı dönüştürür?
 - Gözetim ve algılama üçüncü taraf bir platform üzerinden işlediğinde veri sorumlusu tedarikçi mi yoksa kurum mudur ve bu durum kurumlara verilecek öğüdü değiştirir mi?
 - Kurumlar, YZ usulsüzlüğüne uyguladıkları delil standartlarını — delil eşiklerinin başka yerlerde yayımlandığı gibi — hem haksız suçlamayı hem de hukukî maruziyeti azaltmanın bir yolu olarak yayımlamalı mıdır?
+
+## Yaygın yanlış anlamalar
+
+**“YZ usulsüzlüğü tek bir hukuki sorudur.”** Yan yana gelen birkaç sorudur: **delil** (suçlamanın herhangi bir biçimde kanıtlanıp kanıtlanamayacağı), **sözleşmesel ve usule ilişkin** (kurumun kendi kurallarına uyup uymadığı ve adil bir duruşma verip vermediği) ve **eşitliklerle** ilgili olanlar. Delili ele alıp usulü ihmal eden bir yanıt, hiç düşünmediği bir boyutta hukuken maruz kalır ve kurumlar genellikle hangi konuda dava edilmişlerse ona hazırlanır.
+
+**“Kurumlar tutarlı politikalar yazdı, dolayısıyla risk öğrencilerindir.”** Tutarsızlık ters yönde de işler. [[watson-rainie-ai-challenge-faculty-survey-2026|Watson ve Rainie’nin (2026)]] **1.057 ABD’li öğretim üyesiyle** anketi, **yanıtlayanların %87’sinin kendi ödev düzeyinde** rehberlik yazdığını buldu; böylece yürürlükteki kurallar tek bir kurum içinde değişir ve bir öğrenci aynı hafta bir öğretim üyesinin kuralına uyup bir diğerininkini ihlal edebilir. Açıklanmamış bir standart altında suçlanan öğrencinin, kurumun yarattığı bir usul sorunu vardır.
+
+**“Algılama, bir usulün ihtiyaç duyduğu delili sağlar.”** Algılama bir puan sağlar. Delil sorusu, suçlamanın herhangi bir biçimde kanıtlanıp kanıtlanamayacağıdır ve [[ai-detection|algılama literatürü]], araçların ne bir disiplin sürecinin gerektirdiği güvenilirliği ne de yorumlanabilir kategoriyi ürettiğini gösterir. Usulü bir algılayıcı üzerine kurmak, onu en zayıf halka üzerine kurmaktır.
+
+**“Riskler varsayımsaldır ve politika yetişir.”** Riskler şu anda eşitsiz biçimde dağıtılıyor ve bunları soğuran öğrenciler bir usule itiraz etme kapasitesi en düşük olanlardır. Bir kurumun soruşturma kapasitesi ile bir öğrencinin yanıt verme kapasitesi arasındaki asimetri, gelecekteki değil bugünkü bir zarardır.
 
 ## Bağlı kavramlar
 

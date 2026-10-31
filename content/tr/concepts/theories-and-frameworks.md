@@ -8,7 +8,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ Bunlar mekanizmaları açıklar: işi yapan parçaları adlandırır ve bu parç
 - **[[community-of-inquiry|Soruşma topluluğu]]** — çevrimiçi bir deneyimi işleyen kılan sosyal, bilişsel ve öğretim varlıkları; bir deneyim kuramı ve aynı zamanda bir tasarım çerçevesi.
 - **[[self-determination-theory|Öz-belirleme kuramı]]** — özerklik, yetkinlik ve ilişkililiğin motivasyonel ön koşullar olarak ele alınması. YZ kullanımı öğrenmeyi artırmadan katılımı artırdığında sunulan açıklama çoğu zaman budur.
 - **[[cognitive-psychology|Bilişçilik]]** — bilgi işleme, çalışma belleği ve öğrenme duygusu ile gerçek öğrenme arasındaki ayrım.
+- **Sosyal algı kuramı (sıcaklık ve yetkinlik)**: sosyal biliş ve hizmet robotu araştırmalarından alınmıştır; kullanıcıların bir YZ ajanının inandırıcılığını nasıl yargıladığını çerçeveler: algılanan yetkinlik ChatGPT’nin geri bildirim inandırıcılığını doğrudan yordarken sıcaklık yalnızca insan benzeri empati üzerinden etkili olmuştur (SEM, 230 öğrenci; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]]).
+- **Dördüncü bir olanak kategorisi önerildi, sınanmadı.** 24 çalışmayı üç parçalı bir olanak şemasına göre kodlayan gözden geçirenler, katılım, güvenlik ve öz yeterliliğin teknolojik, pedagojik veya sosyal kategorilere uymadığını bulmuş ve Bandura’nın karşılıklı belirlenimciliğine dayanan duygusal olanaklar önermiştir ([[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]]).
 
 ## Öğrenen ve öğrenme süreci modelleri
 
@@ -114,6 +116,16 @@ Kelimeler literatürde gevşek kullanılır ve aradaki fark bir sayfa değil, bi
 
 Mekanizma-kuram uyumu yine de belirleyici olabilir: 55 YZ destekli oyun tabanlı öğrenme çalışmasının tematik sentezinde etkililiğin, algoritmik sofistikelikten ziyade YZ mekanizmasının hizmet etmesi beklenen pedagojiyi hayata geçirip geçirmediğine bağlı olduğu görülmüştür ([[ai-game-based-learning-systematic-review-2026|Kaşarcı ve Yurt (2026)]]).
 
+## Yaygın yanlış anlamalar
+
+**“Ödünç alınmış bir kuramı bir YZ aracına uygulamak, kuramı kullanmaktır.”** Bu alanın çoğu, kuramı sınamak yerine ödünç alıp uygular ve fark, çerçevenin yanılabilecek bir öngörüde bulunup bulunmadığındadır. Bir çalışma, yanlışlanabilir hiçbir öngörü üstlenmeden bir çerçevenin bayrağı altında kazanç bildirdiğinde çerçeve hakkında hiçbir şey öğrenilmemiştir; katalogdaki her kuramla tutarlı bir sonuç, hiçbirinin kanıtı değildir.
+
+**“Bir çerçevenin değeri, hâlihazırda inşa edilmiş bir sistemi ne kadar iyi betimlediğidir.”** Bu, sonradan etiketlemedir. Herhangi bir tasarımı barındıran bir taksonominin ayırt edici gücü yoktur; betimleyici çerçevelerin dışladıklarına göre yargılanması bu nedenledir. Değerlendirme sorusu “sistemim buna uyuyor mu?” değil, “bu çerçeve hangi tür sistemin yanlış olduğunu söylerdi?” sorusudur.
+
+**“Öğrenme kuramları, öğrenen modelleri ve benimseme çerçeveleri birbirinin yerine geçebilecek merceklerdir.”** Farklı soruları yanıtlarlar — öğrenmenin nasıl gerçekleştiği, öğrenenin durumunun ne olduğu ve bir uygulamanın neden yayıldığı — ve kanıt türleri de buna göre farklılaşır. Yanlış katmanın seçilmesi, doğru değişkeni yanlış öngörüye karşı ölçen bir çalışma üretir; bu da bir kategorik hata olduğu hâlde sıfır sonuç olarak okunur.
+
+**“Daha çok çerçeve, daha olgun bir alan demektir.”** YZ çağı için adlandırılan çerçeveler sınandıklarından daha hızlı birikir ve yanlışlamasız birikim ilerleme değil, bir belirtidir. Olgunluk, sözcük dağarcığının büyümesi olarak değil, rekabet eden öngörülerin çözülmesi olarak görünür.
+
 ## Bağlı kavramlar
 
 - [[theory-development-aied]] — alanda teori inşa etme ve revize etme
@@ -140,3 +152,5 @@ Mekanizma-kuram uyumu yine de belirleyici olabilir: 55 YZ destekli oyun tabanlı
 - [[yan-agentivism-learning-theory-ai-2026]] — insan-YZ etkileşimi için orta-ölçekli bir öğrenme kuramı
 - [[ai-literacy-instrument-development-systematic-review-2026]] — genç bir yapı boyunca araç geliştirme
 - [[mishra-control-vs-agency-history-2025]] — alanın temel denetim-karşı-etkenlik gerilimi
+
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Bir olanak taksonomisinde dördüncü kategori olarak önerilen duygusal olanaklar

@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -164,6 +164,9 @@ Aynı ölçüde önemli olan, herhangi bir tek çalışmayı, AIED araştırmas�
 - **[[qualitative-research|Nitel araştırma]]** anlamı ve deneyimi yorumlar — görüşmeler, odak grupları, tematik analiz, temel kuram, fenomenografi, söylem analizi, gözlem/etnografi, vaka çalışmaları. Derinlik, mekanizma ve kuram inşası sağlar (bkz. [[theory-development-aied]]), ancak sınırlı genellenebilirlik ve zayıf nedensel destek sunar.
 - **Deneysel ve yarı-deneysel tasarımlar** (bkz. [[rct]]), rastgele atama veya eşleştirilmiş karşılaştırma yoluyla nedensel etkileri tahmin eder — maliyet, hız ve ekolojik geçerlilik pahasına, iç geçerlilik için altın standart.
 
+
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]], bu dördünden ayrı duran bir bibliyometrik damar ekler: bir alanın kavramsal gelişimini izlemek için 407 kaydı eş-sözcük ve eş-yazarlık ağı üzerinden haritalar. Yazar, bunun üzerine kurduğu SWOT okumasının bağımsız bir analitik teknik değil yorumlayıcı bir araç olduğunu açıkça belirtir; bu, bu gelenekte sentez ile analiz arasındaki sınırı işaret eder.
+
 ### Ölçüm ve karma yöntem bağlantıları
 
 Nicel çalışma, incelenen kavramlar için güvenilir, geçerli enstrümanlara bağlıdır: [[educational-measurement]]. Nitel çalışma, bu enstrümanların gözden kaçırabileceği mekanizmaları ve anlamları ortaya çıkarır. **Deneysel** çalışma, bir müdahalenin enstrümanların ölçtüğü sonuçlara *neden olup olmadığını* tahmin eder. Üçü tamamlayıcı katmanlardır: enstrümanlar kavramları nicelleştirir, deneyler nedenselliği ortaya koyar ve nitel çalışma sayıların ardındaki *nasıl ve neden*i açıklar.
@@ -183,6 +186,16 @@ Ayrı bir yöntemsel akım olan [[usability-research|kullanılabilirlik ve HCI a
 - **Kullanılabilirlik/HCI:** faydalar — benimseme engellerini belirler, uygulanabilir tasarım kılavuzu sunar, hızlı ve ucuz. Sınırlılıklar — öğrenme etkilerini ortaya koymaz, küçük örneklemler, özbildirim memnuniyeti yanıltıcı olabilir.
 
 Pratikte, eğitimde YZ araştırması nadiren tek bir geleneğe temiz biçimde düşer. En güçlü kanıt üçgenleştirir: bir hesaplamalı veya kullanılabilirlik değerlendirmesi sistemin işlediğini, bir deney öğrenmeye neden olduğunu, nicel enstrümanlar kavramları ölçtüğünü ve nitel çalışma mekanizmaları ve anlamları ortaya çıkardığını gösterir — birlikte bir aracın öğrenmeye yardım edip etmediğini ve *nasıl ve neden* yardım ettiğini yanıtlar.
+
+## Yaygın yanlış anlamalar
+
+**“Yüksek kıyaslama doğruluğu eğitim etkililiğini gösterir.”** Göstermez ve bu açık, alanın merkezî ölçüm problemidir: bir sistem doğrulukta yüksek puan alırken hiçbir öğrenme üretmeyebilir, çünkü kıyaslama doğruluğu kıyaslamanın belirlediği koşullar altındaki görev performansını ölçer. Eğitim etkililiği, teknolojinin denetlemediği koşullar altında bir öğrenen çıktısı gerektirir.
+
+**“Bir araştırma geleneği yöntemsel olarak üstündür.”** Gelenekler, yapıları gereği bir sınırlılığı diğeriyle değişir. Tasarıma dayalı araştırma gerçek bir müdahale üzerinde yineler ancak kazanımları belirli bir mekanizmaya atfedemez; bir [[rct|RCT]] ise nedenleri yalıtır ancak yapay koşullarda yürütülür. Aralarında seçim yapmak, hangi yöntemin daha iyi olduğunu değil, hangi iddiayı yapabileceğinizi seçmektir.
+
+**“Hoşgörülü bir ölçüm kuralı küçük bir yöntemsel tercihtir.”** Bulguyu değiştirir. Herhangi bir tamamlamayı ödüllendirmek, sonraki yardımsız performansı **bir beceri-zorluk sabitinin neredeyse hiç üzerinde (birleşik AUC 0,595'e karşı 0,604)** tahmin ederken, katı bir kural altında **öğrenci-beceri çiftlerinin %72,8'ine karşı %93,9'unu öğrenildi** olarak bildirmiştir. Kural, kimin hazır ilan edildiğinde 21 puanlık bir fark üretmiş ve bunun karşılığında neredeyse hiç öngörüsel iyileşme göstermemiştir.
+
+**“İstatistiksel anlamlılık bir müdahalenin işe yarayıp yaramadığını çözer.”** Bir etkinin saptanabilir olup olmadığını çözer. Bunun bir *öğrenme* etkisi olup olmadığı sonuç ölçüsüne, karşılaştırmaya ve ölçümün alındığı koşullara bağlıdır; bu sayfanın bölümlerindeki tasarım ve raporlama tercihlerinin analiz kadar ağırlık taşımasının nedeni budur.
 
 ## Bağlı kavramlar
 

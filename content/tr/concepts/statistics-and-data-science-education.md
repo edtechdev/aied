@@ -1,7 +1,7 @@
 ---
 title: İstatistik ve Veri Bilimi Eğitimi
 created: "2026-10-27T03:55:12-04:00"
-updated: "2026-10-27T03:55:12-04:00"
+updated: "2026-10-31T11:05:52-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, scaffolding]
@@ -10,7 +10,7 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-10-26T14:15:00-04:00"
+source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -79,7 +79,7 @@ En açık olumlu sonuçlar belirli bir ders ve belirli bir dil için inşa edilm
 
 - **“Memnuniyet ve algılanan fayda, bir veri bilimi YZ aracının işe yaradığını gösterir.”** Öğrenciler hata ayıklama ve kavram soruları için LLM’leri yoğun biçimde kullanmış ve **yüksek memnuniyet bildirmiş, buna karşılık algıladıkları derin öğrenme faydası dönem boyunca azalmıştır**. Memnuniyet korunurken öz değerlendirilen öğrenme yörüngesi düşmüştür; dolayısıyla iki rakamdan hiçbiri tek başına sonucu vermez.
 - **“Kısıtsız bir model, yönlendirilmiş bir eğitmen kadar iyidir.”** Deneysel bir karşılaştırma, **akıl yürütme odaklı iskeleleme konusunda açık eğitimin — adım adım ipuçları, doğrulama — kısıtsız erişimden daha iyi bağımsız** performans ürettiğini bulmuştur. Etkiyi yönlendirme ve onu nasıl kullanacağına dair eğitim taşımıştır.
-- **“Yanıt vermeyi engellemek yeterlidir.”** Barındırılan bir API çevresine sarılmış, sistem istemiyle **yanıt vermek yerine yönlendirmek** üzere ayarlanmış amaca özel bir eğitmen, psikoloji lisans öğrencileri için dönem boyu süren bir R dersinde kullanılmış ve **öğrencilerin %76’sı ile %84’ü onu sınav açısından önemli haftalarda kullanmıştır. Bu bir benimsemedir; korumanın öğrenme ürettiğinin kanıtı değildir:** İstem düzeyinde koruma birkaç kol arasından yalnızca biridir ve tek başına öğrenme üretmez.
+- **“Yanıt vermeyi engellemek yeterlidir.”** Barındırılan bir API çevresine sarılmış, sistem istemiyle **yanıt vermek yerine yönlendirmek** üzere ayarlanmış amaca özel bir eğitmen, psikoloji lisans öğrencileri için dönem boyu süren bir R dersinde kullanılmış ve öğrencilerin **%76’sı ile %84’ü** onu sınav açısından önemli haftalarda kullanmıştır. Bu bir benimsemedir, korumanın öğrenme ürettiğinin kanıtı değildir: istem düzeyinde koruma birkaç kol arasından yalnızca biridir ve tek başına öğrenme üretmez.
 
 ## Bağlı kavramlar
 

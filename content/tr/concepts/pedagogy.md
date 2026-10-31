@@ -8,7 +8,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -81,12 +81,23 @@ Bilgi tabanının [[learning-gains]] araştırmasıyla tutarlı biçimdeki temel
 
 Korunan çabaya yapılan bu vurgu mutlak değildir: dört çalışmalı bir [[mixed-methods-research|karma yöntem]] tasarımı (N = 912), GenAI’yı pedagojik bir ortak olarak çerçevelemenin hem kritik tetikte olmayı hem stratejik boşaltmayı etkinleştirdiğini ve eşiğin üzerindeki boşaltmanın üst düzey yansıtma için kapasite serbestleştirerek onu aşındırmak yerine serbest bıraktığını bulmuştur ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang ve Zhang (2026)]]).
 
+
+Öğrenci ile [[student-ai-interaction|YZ etkileşimi]], sabit bir bağımlılık olarak değil bilişin dağılımının değişen bir süreci olarak okunmalıdır: disiplinler arası bir [[engineering-education|mühendislik]] dersindeki 53 ChatGPT konuşması boyunca 321 istek düzeyindeki kodun %53,3’ünde en sık etkileşim türü genişletme (sıkı, yinelemeli birlikte düşünme) olmuş, onu %29,6 ile dışarıdan devretme izlemiştir ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane ve Arikan (2026)]]).
+
 ## Eğitimde yapay zeka için çıkarımlar
 
 - **YZ ile pedagojiyi bilinçli seçin:** öğretim stratejisi bir YZ aracının öğrenmeyi destekleyip desteklemediğini belirler; bu nedenle pedagojik amaç, YZ aracı seçimini ve yapılandırmasını yönlendirmelidir.
 - **Öğrenen etkenliğini merkezde tutun:** etkin, Sokratik ve iskeleleme pedagojileri, YZ’nin başka türlü aşındırabileceği verimli çaba ile [[agency]] korur (bkz. [[cognitive-offloading]], [[desirable-difficulties]]).
 - **YZ’yi iyi pedagojiyi hayata geçirecek biçimde tasarlayın:** YZ ajanları ve özel ders öğretmenleri, varsayılan yanıt üretimi yerine yerleşik öğretim çerçevelerinde temellendirilmelidir.
 - **YZ ile ve YZ hakkında öğretin:** pedagojiler hem YZ’yi öğretmek için kullanmalı hem de öğrenenlere YZ’yi sorumlu biçimde kullanmayı öğretmelidir.
+
+## Yaygın yanlış anlamalar
+
+- **“Öğretmenlerin en çok ihtiyaç duyduğu şey teknik YZ bilgisidir.”** **46 öğretmen ve 2.832 öğrenci** genelinde **öğretmenin pedagojik YZ bilgisi**, öğrencilerin YZ’nin toplumsal fayda için kullanımına ilişkin algılarını öngörmüştür. Pedagojik bilgi teknik bilgiden daha iyi performans göstermiş; bu da eğitim yatırımlarının çoğunun gittiği yeri tersine çevirir.
+
+- **“YZ’nin eğitimdeki temel katkısı öğretimseldir.”** **28 çalışmalık bir PRISMA incelemesi**, YZ’nin en sık **öğretim planlamasını ve değerlendirme tasarımını** güçlendirdiğini bulmuştur: en net katkı **yönetsel iş yükünü boşaltmaktır**, öğretim değil. Öğretimsel kazanımlar etrafında kurulan bir gerekçe, kanıtın daha zayıf dalı üzerine kurulmaktadır.
+
+- **“YZ okuryazarlığı eğitimi kendiliğinden daha iyi öğretime aktarılır.”** **59 çalışmalık (172 etki büyüklüğü) üç düzeyli bir meta-analiz**, bilgi odaklı müdahalelerin (**g ≈ .97**) bilgiyi hareket ettirmede diğer yaklaşımları açıkça geçtiğini bulmuştur. Ölçülen sonuç bilginin hareket etmesidir; pratiğe ulaşıp ulaşmadığı bir sonraki sorudur.
 
 ## Bağlı kavramlar
 
@@ -130,3 +141,5 @@ Korunan çabaya yapılan bu vurgu mutlak değildir: dört çalışmalı bir [[mi
 - [[fowlin-operationalizing-learning-principles-ai]] — YZ ile öğrenme ilkelerini işlerlik kılmak
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — YZ ve Öğretim Tasarımı Uygulaması: Sistematik Bir Derleme (Kibar ve Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — YZ okuryazarlığı müdahalelerinde öğretimsel yaklaşımlar
+
+- [[cognitive-distribution-student-genai-interaction-2026]] — Sabit bağımlılık değil, değişen bilişsel dağılım olarak öğrenci-YZ etkileşimi (%53,3 genişletme)

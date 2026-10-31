@@ -7,7 +7,7 @@ technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,12 @@ Eğitimci araç kullanımının bir sayımı, ilginin üretimde toplandığını
 
 ### Bilgi tabanının üretici YZ kapsamı
 
-80’den fazla makaleyle üretici YZ, bilgi tabanının en büyük teknoloji dizisidir. Araştırmalar etkililik çalışmalarını ([[genai-meta-analysis-programming-learning|meta-analizler]]), güvenlik kaygılarını ([[hazra-safetutors-pedagogical-safety-2026|özel öğretmen zararları]], [[eduguard-safe-rag-llm-tutor|koruyucu çerçeveleme]]) ve tasarım ilkelerini ([[instructional-guidance-genai-learning|öğretimsel rehberlik]]) kapsar.
+80’den fazla makaleyle üretici YZ, bilgi tabanının en büyük teknoloji dizisidir. 394 çalışması boyunca, sürümü belirtilmemiş ChatGPT 94 çalışmada, ChatGPT-3/3,5 ailesi 66 çalışmada ve ChatGPT-4 ailesi 52 çalışmada yer aldı; bu da bildirilen yeteneklerin çoğunun o zamandan beri aşılmış model kuşaklarını betimlediği anlamına gelir ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]). Araştırmalar etkililik çalışmalarını ([[genai-meta-analysis-programming-learning|meta-analizler]]), güvenlik kaygılarını ([[hazra-safetutors-pedagogical-safety-2026|özel öğretmen zararları]], [[eduguard-safe-rag-llm-tutor|koruyucu çerçeveleme]]) ve tasarım ilkelerini ([[instructional-guidance-genai-learning|öğretimsel rehberlik]]) kapsar.
+
+
+22 çalışmalık üç düzeyli bir meta-analiz, GenAI destekli problem ve [[project-based-learning|proje tabanlı öğrenmenin]] öğrenen-içi çıktılar üzerinde büyük havuzlanmış bir etki ürettiğini (g = 0,819) bulur, ancak bir PET-PEESE düzeltmesi bunu g = 0,378’e indirir; gömülme de önemliydi, genel sohbet robotları g = 0,970 ile havuzlanırken özel veya API sistemleri g = 0,455’te kaldı ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen (2026)]]).
+
+Kırsal ve kaynakları sınırlı bölgelerdeki sekiz hizmet içi öğretmenle yürütülen GenAI rehberli bir matematik mesleki gelişim durum çalışması, [[bicer-genai-pd-math-creativity-2026|Bicer ve ark. (2026)]] için matematiksel [[creativity|yaratıcılığı]], içerik bilgisini ve pedagojik içerik bilgisini on modül boyunca birbirine bağlı bir akıl yürütme olarak ele almış; kademeli iskele sönümlemesini ve simüle edilmiş öğrenci akıl yürütmesini bu işin gerekçesi saymıştır. Çalışma ölçülebilir kazanımlar değil, katılım örüntüleri bildirir.
 
 53 çalışma üzerinde havuzlandığında, GenAI destekli eğitim başarıda (g = 0,40), üst düzey düşünmede (g = 0,72), güdülenmede (g = 0,81) ve yazımda (g = 0,76) GenAI kullanmayan yaklaşımları geride bıraktı; oysa oyun destekli GenAI anlamlı bir yarar katmadı (g = 0,24) ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]).
 
@@ -67,7 +72,28 @@ Bu çekirdek dizilerin ötesinde, son çalışmalar kanıt tabanını [[governan
 
 ### Üretici YZ özelleşmiş alanlarda: disleksi desteği
 
-PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinler arası sistematik bir derleme (Dabaghi, D’Urso ve Sciarrone), **üretici YZ’nin disleksi desteği alanında yeterince kullanılmadığını** bulur. GAI araştırmaları (tamamenı 2024’ten) akıllı [[conversational-ai|sohbet robotları]], [[teacher-role|öğretmen eğitimi]] desteği ve keşfedici çalışmalar çevresinde toplanır ve tercih edilen araç olarak klasik [[machine-learning|ML]]’yi hızla geride bırakır — oysa titiz deneysellik ve gerçek dünya doğrulaması büyük ölçüde yoktur. Derlemenin gelecek eğilimleri analizi, GAI destekli kişiselleştirilmiş materyallere ve gerçek zamanlı uyarlanabilir geri bildirime, göz izleme, EEG ve davranışsal [[learning-analytics|analitiğini]] bütünleştiren [[multimodal|çok kipli]] teşhis modellerine, NLP kaynaklı [[intelligent-tutoring|akıllı özel öğretmen sistemleri]]ne ve konuşma aracılarına ve eğitimciye yönelik destek araçlarına işaret eder. Bu, özelleşmiş ve yüksek ihtiyaçlı bir alanda içerik üretimi ve etkileşimli desteğe ilişkin üretici YZ’nin vaadini ve onun benimsemesinin kanıt tabanını aşma riskini birlikte gösterir.
+PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinler arası sistematik bir derleme (Dabaghi, D’Urso ve Sciarrone), **üretici YZ’nin disleksi desteği alanında yeterince kullanılmadığını** bulur. GAI araştırmaları (tamamenı 2024’ten) akıllı [[conversational-ai|sohbet robotları]], [[teacher-education|öğretmen eğitimi]] desteği ve keşfedici çalışmalar çevresinde toplanır ve tercih edilen araç olarak klasik [[machine-learning|ML]]’yi hızla geride bırakır — oysa titiz deneysellik ve gerçek dünya doğrulaması büyük ölçüde yoktur. Derlemenin gelecek eğilimleri analizi, GAI destekli kişiselleştirilmiş materyallere ve gerçek zamanlı uyarlanabilir geri bildirime, göz izleme, EEG ve davranışsal [[learning-analytics|analitiğini]] bütünleştiren [[multimodal|çok kipli]] teşhis modellerine, NLP kaynaklı [[intelligent-tutoring|akıllı özel öğretmen sistemleri]]ne ve konuşma aracılarına ve eğitimciye yönelik destek araçlarına işaret eder. Bu, özelleşmiş ve yüksek ihtiyaçlı bir alanda içerik üretimi ve etkileşimli desteğe ilişkin üretici YZ’nin vaadini ve onun benimsemesinin kanıt tabanını aşma riskini birlikte gösterir.
+
+## Yaygın yanlış anlamalar
+
+- **“Büyük bir etki büyüklüğü, aracın öğrenmeyi iyileştirdiği anlamına gelir.”** Alanın en büyük tahmini, ChatGPT ve benzeri araçlar için *g* = 0,7 bildiren 69 çalışmanın bir [[meta-analysis-systematic-review|meta-analizi]], **anında görev başarısını** havuzlar; kalıcılığı, transferi ya da anlamayı değil. Aynı sorun 53 çalışmalık havuzlanmış tahmin için de geçerlidir (*g* = 0,40 başarı, 0,72 üst düzey düşünme, 0,81 güdülenme, 0,76 yazım): bunlar müdahaleye yakın ölçülen ve müdahaleye benzeyen görevlerdeki çıktılardır. YZ’nin eğitimi iyileştirdiğini ileri süren 14 meta-analizin denetimi, **hiçbirinin iddialarını gerekçelendirmediğini** bulmuştur. Her manşet sayı, koşullar altındaki performansa ilişkin kanıt olarak okunmalı ve neyin, ne zaman ölçüldüğü sorulmalıdır.
+- **“Daha yeni model bunu düzeltecek.”** Model kuşağı bağlayıcı kısıt değildir. ChatGPT-5 nesnel eczacılık sınavı maddelerinde insan fakülteyle eşleşti (CCC 0,935-1,000) ama kısa yanıt maddelerinde (≈0) veya kompozisyonlarda (0,341-0,854) eşleşmedi ve **yapılandırılmış bir rubrik boşluğu güvenilir biçimde kapatmadı**. Kapalı görevlerdeki yetenek kazanımları, değerlendirmenin büyük bölümünün gerçekte yaşadığı açık uçlu işe orantılı biçimde aktarılmamıştır.
+- **“Kullanım verileri işe yaradığını gösterir.”** 394 çalışmalık haritalamada, sürümü belirtilmemiş ChatGPT 94 çalışmada, 3/3,5 ailesi 66 çalışmada yer aldı; bu da yayımlanmış yetenek iddialarının büyük bir bölümünün **o zamandan beri aşılmış model kuşaklarını** betimlediği anlamına gelir ve birçok çalışma sürümü hiç bildirmez. Bildirilen davranış belirli bir modele ve belirli bir tarihe bağlıdır; bu da "üretici YZ" hakkındaki tarihsiz iddiaları genel değil, yanlışlanamaz kılar.
+- **“Uzmanlar derlemi etiketlediği için güvenlidir.”** 4.815 öğrenci-YZ iletisinden oluşan çok uzmanlı anotasyonlu bir derlemde, iletilerin yalnızca yaklaşık %0,68’inin kodlama şemasının saptamak üzere kurulduğu zararlı veya görev dışı içeriği taşıdığı bulunmuştur. Bu, güvenliğe değil temel orana ilişkin bir bulgudur: nadir olaylar nadirdir ve bir sistemin başarısızlık kuyrukları, tam olarak o büyüklükteki bir derlemin betimlemekte zorlandığı durumlardır.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Değerlendirme ile araç birlikte tasarlanmalıdır. YZ’nin nesnel maddelerde güçlü, kompozisyonda güvenilmez olduğu yerde, kompozisyona ağırlık veren bir değerlendirme planı üretilmiş bir taslak yerine açık doğrulama taşımalıdır.
+- Kendi sınıf kanıtlarında ve raporlanan her şeyde model ile sürüm belirtilmelidir. Tarihsiz iddialar denetlenemez ve sürüm çoğu zaman sonucu pedagojiden daha iyi açıklar.
+- Yenilik ufku gerçek ve kısa sayılmalıdır. Havuzlanmış etkiler müdahalenin yakınında ölçülür; bu nedenle boylamsal çalışmaların belgelediği düşüşe şaşırmak yerine onun için plan yapılmalıdır.
+
+**Geliştiriciler için**
+
+- Havuzlanmış etki büyüklüklerine göre yol haritası çizilmemelidir. 14 meta-analizin denetimi hiçbirinin iddialarını gerekçelendirmediğini bulmuştur; dolayısıyla manşet bir *g* değerine dayanan ürün iddiası, incelemeden geçmeyen bir metodolojiye dayanır.
+- Temel oran, iyileştirilmeden önce ölçülmelidir. %0,68’lik bir görülme oranı, kalite işinin çoğunun kuyrukta gerçekleştiği anlamına gelir ve bir konuşlandırmanın kabul edilebilir olup olmadığını kuyruk performansı belirler.
+- Yayımlanan her kıyaslama sayısıyla birlikte sürüm, tarih ve görev türü raporlanmalıdır; çünkü bunları atlayan bir yetenek iddiası yeniden üretilebilir değildir.
 
 ## Bağlı kavramlar
 
@@ -86,6 +112,9 @@ PRISMA kılavuzlu, 2018–2024 yıllarını kapsayan, n=72’lik 2026 disiplinle
 - [[k-12]] — temel bir kullanım bağlamı
 
 ## Bağlı makaleler
+
+- [[bicer-genai-pd-math-creativity-2026]] — Sekiz kırsal hizmet içi öğretmenle GenAI rehberli bir matematik mesleki gelişim durum çalışması
+- [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Havuzlanmış g = 0,819, PET-PEESE altında 0,378’e düşüyor; özel araçlar (0,455) sohbet robotlarının (0,970) gerisinde kaldı
 
 - [[genai-learning-motivation-meta-analysis-2026]] — Zarardan yarara uzanan öngörü aralığıyla GenAI’nın öğrenme güdülenmesi üzerindeki etkisine ilişkin meta-analiz
 - [[typology-generative-ai-tools-education-2026]] — Eğitim için Üretici YZ Araçlarının Tiplemesi

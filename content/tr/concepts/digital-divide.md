@@ -7,7 +7,7 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-28T09:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,9 @@ ai_assist:
 Dijital uçurum yaygın olarak **üç düzey** üzerinde işleyen bir olgu olarak anlaşılır (van Deursen & van Dijk, 2014): *birinci düzey* uçurum teknolojilere ve altyapıya erişimi (bağlantı, cihazlar, destekleyici ortamlar) kapsar; *ikinci düzey* uçurum becerileri ve yetkinlikleri (araçları etkin ve anlamlı biçimde kullanmanın eşit olmayan kapasitesi) kapsar; *üçüncü düzey* uçurum ise çıktıları ve yararları (teknoloji kullanımından kimin gerçekten yararlandığı, YZ’nin sosyal, kültürel ve ekonomik eşitsizlikleri potansiyel olarak şiddetlendirdiği noktası) kapsar. YZ okuryazarlığını [[framing-ai-use-for-students|Çerçeveleme YZ]] bu mercekle okumak, eşitliğin cihaz ve altyapı boşluğunu kapatmaktan daha fazlasını gerektirdiğini açık kılar — YZ’yi etkin ve eleştirel biçimde kullanma becerilerini inşa etmeyi, böylece yararların mevcut eşitsizlikleri pekiştirmek yerine adil biçimde dağılmasını gerektirir.
 
 Uç çıkarım dönüşü, birinci düzey uçuruma bir donanım boyutu ekler. Özel öğretim sınavı bulutta değil tarayıcıda çalıştığında — WebLLM üzerinden [[browser-sized-agents-slm-webllm-tutor-2026|tarayıcıda yerleşik SLM özel öğretmenler]] — abonelik maliyeti engeli ortadan kalkar ama yerini bir yetkinlik engeli alır: tüketici dizüstü bilgisayarında aynı sistem deneme başına kabaca 180 saniye alırken uzak API için 10–58 saniye almış ve Chromebook sınıfı cihazlar bir 8B modelini hiç çalıştıramamıştır. Modern donanımı olan öğrenciler hızlı, kesintisiz üretim alır; eski cihazlardaki öğrenciler ise gecikme veya bellek tükenmesiyle yüzleşir; dolayısıyla yerel ve ucuz olan, varsayılan olarak eşitlikçi olanla aynı şey değildir.
+
+
+- **Bu uçurum internetinki kadar derin olmayabilir.** Her ülkenin 2025 üretken YZ kullanımını benzer toplam kullanıma sahip internet yılıyla eşleştiren çalışmada, eğitim uçurumu eşleştirilebilen 16 ülkenin 13’ünde daha küçük çıkmıştır ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 
 ### Dijital uçurum araştırmada nasıl görünür
 
@@ -78,6 +81,27 @@ Okulda yapılandırılmış YZ eğitimi psikolojik bir katalizördür ama biliş
 
 Dijital uçurum, [[equity-in-ai-education]] araştırmalarının temel bir kaygısıdır; yapısal engelleri ele almada merkezi bir mekanizma olarak konumlandırılan [[ai-literacy]] ile ve algoritmik önyargının marjinalleştirilmiş grupları orantısız biçimde etkilemesi nedeniyle [[ethics]] ile [[bias-mitigation]] ile yakından bağlantılıdır. Erişim ve yetkinlik boşluklarının görünür olduğu ortamlar olarak [[ai-education]] ve [[higher-ed]] ile bağlantı kurar ve YZ ile şekillenen öğrenmeye kimin anlamlı biçimde katılabileceğini belirlediği ölçüde [[student-experience]] ile ilişkilidir.
 
+## Yaygın yanlış anlamalar
+
+- **“Uçurum, araca erişimden ibarettir.”** Erişim ilk katmandır ve literatür onu aşmıştır. **İfade etme becerisi kendi başına ikinci düzey bir uçurumdur**: MedQA üzerinde doğruluk, istem gelişmişliğiyle **düşük okuryazarlıklı ifadede %82,4’ten uzman ifadesinde %83,4’e** yükselmiştir; bu, aynı erişime sahip iki öğrencinin aynı modelden farklı kalite aldığı anlamına gelir, çünkü biri nasıl soracağını bilmektedir. Bir istem yeniden yazma katmanı farkı daraltmıştır: uçurum yalnızca abonelikte değil, arayüzde ve kullanıcının akıcılığındadır.
+- **“Tarayıcıda çalışıyorsa kullanılabilir.”** Çoğu LLM ders aracı **tek dilli İngilizce ses ve güvenilir internet** varsayar; bu da tam olarak İngilizceyi bir ev diliyle karıştıran sınıfları dışarıda bırakır. Hindistan’ın UDISE+ verileri, okullardaki internet erişimini bu varsayımın gerektirdiği düzeyin çok altına yerleştirmiştir. Varsayılan bir altyapı üzerine kurulmuş bir araç, en güçlü ihtiyacı taşıyan ortamları sessizce dışlar.
+- **“Dijital okuryazarlık ile YZ kullanımı aynı aracı değişkendir.”** Hollanda’daki **4.497 altıncı sınıf öğrencisi** üzerinde yürütülen bir çalışma, geçmiş ve kişilik özelliklerini öğrenme kazanımlarına bağlayan **iki ayrı aracı yol** ayırmıştır: YZ kullanımı ve dijital okuryazarlık. Birbirlerinin yerine geçmezler ve birini yükselten müdahaleler otomatik olarak diğerini yükseltmez.
+- **“Simülasyonlar maliyet engelini ortadan kaldırır.”** STEM yükseköğretiminde **11 dijital ikiz çalışmasının** sistematik bir derlemesi, kurulum başına **2.000-15.000 $** donanım maliyeti bulmuştur. Simüle edilmiş bir laboratuvar, kaçınmak için tasarlandığı ekipman faturasını yeniden üretebilir; bu nedenle sanal sağlamanın maliyet argümanı varsayılmak yerine sınanmalıdır.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- İstem yazmayı isteğe bağlı bir hile değil, bir okuryazarlık olarak öğretin. Düşük okuryazarlıklı ifade ile uzman ifade arasındaki 1 puanlık doğruluk farkı tek başına küçüktür, ancak aynı mekanizma öğrencinin denediği her görevde birikerek büyür.
+- Herhangi bir aracı ödevlendirmeden önce dil ve bağlantı varsayımlarını denetleyin. Tek dilli İngilizce ses, cihaz erişiminden bağımsız olarak iki dilli sınıfları dışarıda bırakır.
+- Gerçekte hangi yolu ele aldığınızı ayırt edin. YZ kullanımını yükseltmek ile dijital okuryazarlığı yükseltmek, farklı sonuçları olan farklı müdahalelerdir.
+
+**Yöneticiler ve geliştiriciler için**
+
+- Cihaz dağıtımını uçurumu kapatmak olarak ele almayın. Ölçülebilir boşluklar ifade etme becerisinde, arayüz dilinde ve bağlantıdadır ve hiçbiri donanımla giderilmez.
+- Bir aracın varsaydığı altyapıyı yayımlayın. Açıkça belirtilen bir gereksinim, kaynakları kısıtlı bir ortamın yatırım yapmadan önce uygunluğu yargılamasını sağlar.
+- Yazılım lisansını değil, tam konuşlandırmayı maliyetlendirin. Dijital ikiz kanıtları donanım faturasının sanallaştırmadan sağ çıkabildiğini göstermektedir.
+
 ## Bağlı kavramlar
 
 - [[differential-effects-across-learner-groups]]
@@ -113,3 +137,5 @@ Dijital uçurum, [[equity-in-ai-education]] araştırmalarının temel bir kayg�
 
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: Eğitim Eşitliğine Yönelik Düşük Maliyetli Ana Dil Öğrenimi için Yerel Öncelikli bir YZ Ajan Çerçevesi
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Dijital ikiz laboratuvarlar, eşzamanlı erişimi sınırlandıran bir ekipman faturası taşır
+
+- [[watanabe-genai-education-gap-europe-2026]] — Üretken YZ kullanımındaki eğitim uçurumu internetinkinden daha mı küçük? (Watanabe 2026)

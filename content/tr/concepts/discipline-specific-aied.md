@@ -6,7 +6,7 @@ foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,7 @@ Her disiplin, YZ araştırmalarının bağlandığı özgün [[pedagogy|pedagoji
 ## Bilgi tabanında temsil edilen disiplinler
 
 Bilgi tabanının en güçlü disipline özgü kapsamı genel olarak **[[stem-education|STEM]] alanındadır — özellikle **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]** ve **[[cs-education]]** — ardından **[[writing-education]]**, **[[language-learning]]** (EAP/EFL/ESL için ayrı bir **[[english-education]]** başlığıyla) ve daha yakın tarihte **[[engineering-education]]**, **[[teacher-education]]** (hizmet öncesi ve hizmet içi YZ eğitimi araştırmalarının belirgin bir gövdesiyle), **[[medical-education]]** ve **[[humanities-education]]** gelir. Mühendislik ve tasarımın da büyüyen bir makale gövdesi vardır. Bu yoğunlaşma daha geniş literatürü izler: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia ve ark.’nın (2026)]] derlemesi, STEM’i YZ destekli yükseköğretimde en yaygın disiplinler arası biçim olarak bulmuştur (n = 26), STEM dışı alanlardan (n = 10) ve STEAM’dan (n = 2) oldukça ileridedir — YZ-eğitim kanıtının, YZ’nin pedagojik değerinin en büyük olduğu yerlerde değil, hesaplama araçlarının gömmesinin en kolay olduğu yerlerde en hızlı biriktirdiğini gösteren disiplin düzeyinde bir uyarı. En son eklemeler başlığı akademik derslerin ötesine profesyonel ve uygulamalı eğitime — [[nursing-education|hemşirelik]], [[information-technology|bilgi teknolojisi]] ve [[vocational-education|mesleki eğitim ve öğretim]] — genişletir; burada öğrenenler doğruluk üzerinden değil, gösterilen pratik üzerinden değerlendirilir ve yetkinli sayılanı yalnızca akademi değil, işveren ve lisans veren kurum tanımlar.
+, **[[statistics-and-data-science-education]]** (matematikten ayrı bir başlık, çünkü imza pedagojisi belirlenmiş bir yanıta doğru akıl yürütmek değil veri incelemesidir; başlığın kendi tasarım sorununa bir örnek: [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]], bağlama uygun sentetik veri kümeleri üretmek için etmenli bir işlem hattı kullanır; bu, bir istatistik dersinin ihtiyaç duyduğu materyali ele alır, açıklamasını değil ve yazarların kendi ifadesiyle veri toplama, ölçme veya çalışma tasarımını öğretemez)
 
 Mesleki başlık o kanıt içindeki en ince olandır: mesleki eğitim ve öğretimde 26 çalışmanın bir sistematik derlemesi, mesleki eğitim ve öğretimin işe dayalı karakterine rağmen hiçbirinin iş yeri ortamlarında yapılmadığını, yalnızca beş rastgele deneysel çalışmayı ve öğrenenlere etkin bir rol tanıyan yalnızca üç tasarımı bulmuştur ([[ai-vocational-education-training-review|Deutscher ve ark. (2026)]]).
 
@@ -101,6 +102,12 @@ Bazı disiplinler bilgi tabanında ince kalmaya devam etmekte ve gelecekteki al�
 - **Sanatlar (görsel sanatlar, tasarım, müzik)** — ortaya çıkan kapsam: [[ai-interior-design-malaysia-2026|eğitimde iç mimari alanında YZ]], [[genai-architectural-design-studios|mimari tasarım stüdyolarında GenAI]], [[ai-vocal-pedagogy-2026|YZ vokal pedagojisi]], [[musical-education-ai-digital-transformation-2026|müzik eğitiminde YZ]], [[t2i-competence-paradox-2026|metinden-görsele yetkinlik paradoksu]]. Bu listedeki tasarım taraflı çalışmalar artık kendi evine sahiptir: [[design-education]], mimari, iç mekân tasarımı ve metinden-görsele stüdyo çalışmalarını profesyonel tasarım oluşumuna ilişkin bir sayfaya çeker ve görsel sanatları, müziği ve performansı ince kalan bölüm olarak bırakır.
 
 Bu yetersince temsil edilmeyen disiplinler, bilgi tabanı büyüdükçe ayrılmış kavram sayfalarından ve ek makale alımından yararlanacaktır.
+
+## Yaygın yanlış anlamalar
+
+- **"Disiplin esas olarak içerik örnekleri için önemlidir."** **560 öğrenci** üzerinde yapılan araştırma, disiplin aidiyetinin **öğrencilerin [[generative-ai|üretken YZ]]'yi ne sıklıkta ve ne kadar açık biçimde kullandığını öngördüğünü** buldu. Disiplin, aracın ne sorulduğunu değil, aracın hiç kullanılıp kullanılmadığını ve bu kullanımın açıklanıp açıklanmadığını da biçimlendirir.
+- **"Disiplinler arasılık genel bir kurumsal hedeftir."** **"Disiplinler arası" olanın biçimi de disiplin tarafından belirlenir**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia ve ark.'nın (2026)]] [[meta-analysis-systematic-review|derlemesi]], aldığı biçimin alana göre değiştiğini bulur. Tek bir kurumsal tanım, kapsadığı disiplinlerin en azından bir kısmını yanlış okur.
+- **"Mesleki eğitim, akademik disiplinlerle karşılaştırılabilir bir araştırma tabanına sahiptir."** Mesleki başlık **bu kanıtta en ince olandır**: mesleki eğitim ve öğretimde **26 çalışma** üzerine bir sistematik derleme, çalışmaların **hiçbirinin işyeri ortamlarında yürütülmediğini** buldu; yetkinliğin fiilen kullanıldığı ortamlar bunlardır. Literatürün yokluğu bir boşluktur, sıfır sonuç değil.
 
 ## Bağlı kavramlar
 

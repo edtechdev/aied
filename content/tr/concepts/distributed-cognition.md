@@ -6,7 +6,7 @@ foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,8 @@ Bu, bilgi tabanının [[learning-theories]] başlığı içinde yer alan bir ö�
 Üretken ve etkileşimli YZ sistemleri, bilişsel işi önceki araçların yapamadığı biçimlerde yeniden dağıtır. Bilgi tabanı bu dönüşümün birkaç boyutunu belgeler:
 
 - **Bilişsel ortak ve birlikte düzenleyici olarak YZ.** YZ, düşünme ve öğrenmenin ortak [[regulation]]’ında bir [[scaffolding|iskele]], üstbilişsel destek, dış bellek sistemi ve karar ortağı olarak hareket edebilir.([[ai-cognitive-partner-co-regulation-learning]]) Bu, bilişi bireysel olarak yönetilmekten ziyade öğrenen ile sistem arasında birlikte düzenlenen bir şey olarak konumlandırır.
+
+- **YZ kullanımının hacmi, dağıtık işin hangi biçiminin gerçekleştiğini açığa çıkarmaz:** [[cognitive-offloading-llm-synthesis-writing|Poquet ve ark. (2026)]], 97 öğrenenin hacim temelli profillerinin önceki bilgi ve yazarlıkta farklılaştığını, ancak etkin rol ya da kavrayış düzeyinde istek metni yazmada farklılaşmadığını buldu; bu nedenle paylaşılan etkinlik ve iş bölümü aynı kullanım miktarına eşlik edebilir.
 - **Etkenlik ve sorumluluğun yeniden dağılımı.** **Topluluk bilişi** (ensemble cognition) gibi çerçeveler, düşünmeyi dinamik insan–[[student-ai-interaction|YZ etkileşimi]]nden doğan bir şey olarak yeniden kavramsallaştırır ve YZ’nin *işlevsel etkenliğini* (bilinç olmadan sonuçları etkileleme kapasitesi) *ahlaki sorumluluktan* (insanda kalan) ayırır.([[ensemble-cognition-philosophy-ai-education]]) Dağıtık biliş böylece öğrenmeden kimin hesap verdiğini yeniden çerçeveler.
 - **Verimlilik–düzenleme gerilimi.** Ampirik çalışmalar bir ödünleşim gösterir: akıl yürütmeyi en verimli biçimde dağıtan (örneğin devredilmiş akıl yürütme yoluyla) insan–YZ sistemleri daha yüksek görev performansı elde eder, ancak öğrenenlerin öz-düzenleyici [[student-engagement|katılımını]] azaltabilir.([[hao-human-ai-collaborative-problem-solving-cognition]]) Bu, bilgi tabanının belgelediği [[cognitive-offloading]] ve [[cognitive-offloading|Aşırı Güven]] risklerinin ampirik görünümüdür.
 - **İşbirliğinde aracılık.** YZ, [[collaborative-learning|işbirlikçi öğrenme]]de etkileşimi, epistemik anlam yapımlandırmayı ve düzenleyici süreçleri orkestre eden bir *[[pedagogy|pedagojik]] aracı* olarak hareket ederek etkinliği, otoriteyi ve sorumluluğu insan ve insan dışı etkenler arasında yeniden dağıtabilir.([[niari-ai-pedagogical-mediator-collaborative-learning]])
@@ -60,6 +62,12 @@ Dağıtık biliş hem bir tasarım merceği hem bir değerlendirme merceği suna
 Fowlin ve ark. (2026) bu paylaşımı iki aşamalı bir dizi olarak işlevsel kılar: önce YZ olmadan temel yetkinlikleri oluşturun, ardından YZ’yi, öğrencilerin eleştirel biçimde değerlendirdiği öneriler sunan bir bilişsel ortak olarak tanıtın; böylece otomasyonla ilişkili yetkinlik kaybını önleyin ([[fowlin-operationalizing-learning-principles-ai|Fowlin ve ark. (2026)]]).
 
 **İçselleştirilmiş ve dağıtık ustalık.** Biliş Ortak Alanı çerçevesi ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]), İçselleştirilmiş Ustalık’ı (bireysel zihinlerde derin alan bilgisi) Dağıtık Ustalık’tan (insan–YZ sistemlerini orkestre etmek) ayırır ve ikincisinin birinciye “Doğrulama Bağı” aracılığıyla bağlı olduğunu savunur: dağıtılmış/YZ sistemlerinin etkin denetimi, bu sistemlerin baltalayabileceği içselleştirilmiş uzmanlığı önceden gerektirir. Bu, DCog tasarım sorusunu keskinleştirir — bilişin dağılımı, onu doğrulayan uzmanlığın bedeli olarak gerçekleşmemelidir.
+
+## Yaygın yanlış anlamalar
+
+- **“Paylaşılan bir belge, paylaşılan biliş demektir.”** **97 öğrenenin** hacim temelli profilleri **önceki bilgi ve yazarlıkta** farklılaştı, ancak **etkin rol ya da kavrayış düzeyindeki istek metni yazmada** farklılaşmadı. Katılım hacmi maruz kalmayı ölçtü, bilişsel işin dağılımını değil; dolayısıyla işbirlikçi bir aracın kullanım analitiği kimin düşündüğü hakkında az şey söyler.
+- **“Herkes YZ’ye eşit ölçüde dış kaynak aktarır.”** Acemi öğretmenler **öğretim tasarımı bilişsel yükünün büyük bir bölümünü YZ sistemine devreder** ve yanıtları büyük ölçüde kabul ettikleri **YZ’nin baskın olduğu bir dağılıma** varır; deneyimli ve YZ bilgisine sahip öğretmenler ise farklı dağıtır. Uzmanlık, yalnızca ne kadar YZ kullanıldığında değil, yükün nereye yerleştirildiğinde görünür.
+- **“Daha fazla YZ katılımı daha fazla destek demektir.”** YZ’nin baskın olduğu bir dağılım, dikkat edilmesi gereken örüntüdür; çünkü çıktı hacmi artarken insanın bilişsel işteki payı küçülür. Tam da kullanıcı daha az yaparken sistem daha yetkin görünebilir.
 
 ## Bağlı kavramlar
 

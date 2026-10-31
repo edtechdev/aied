@@ -8,7 +8,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ Eğitimde YZ’de merkezî bulgu, düzeltmenin *biçimi* ile *etkileşimliliğin
 ### Pratik çıkarımlar
 
 Eğitmenler için çürütme metinleri, inatçı yanlış kanıları düzeltmenin güvenilir ve düşük eşikli bir yolu olmaya devam etmektedir. YZ’yi bütünleştirenler için kanıtlar şunu önermektedir: (1) YZ’yi ölçekte etkili çürütme/kavramsal değişim içeriği *üretmek* için kullanın; (2) mümkün olduğunda çürütmeyi, daha güçlü anlık katılım ve inanç değişimi için kişiselleştirilmiş YZ diyalogu yoluyla sunun; (3) YZ tarafından üretilen yanlış kanıların, onlarla yüzleşmek için yapılandırılmış tartışma kullanıldığında pedagojik olarak yararlı olmasını bekleyin; ve (4) öğrenen için tasarlayın — çürütme etkileri başarılı öğrencilerde yoğunlaşabilir ve epistemoloji ile üstbiliş tarafından yönlendirilebilir, bu nedenle iskeleleme ve izleme önemlidir.
+
+## Yaygın yanlış anlamalar
+
+**“Bir yanlış kanıyı düzeltmek doğru yanıtı sunmak demektir.”** Öyle olsaydı yanlış kanılar öğretimden sağ çıkmazdı, oysa düzenli olarak sağ çıkarlar. Yanlış kanılar birer boşluk değil, sıradan öğretime direnen etkin biçimde tutulan inançlardır: işleyen bir açıklaması olan bir öğrenen yeni açıklamayı bir değiştirme olarak değil, rakip bir iddia olarak alır ve çoğu zaman daha az tanıdık olanı atar.
+
+**“Çürütme metni, doğru bilgiden önce 'bu yanlıştır' yazmak demektir.”** Yapı önemlidir: yanlış kanı öğrenenin tuttuğu biçimde ifade edilmeli, doğrudan ele alınmalı ve ancak ondan sonra yerinden edilmelidir. Çıplak bir düzeltme, öğrenenin kendi inancının saman adam versiyonu olarak reddedebileceği bir inancı adlandırır; bu nedenle çürütme onların sezgisini, düzgün versiyonunu değil, yeniden üretmelidir.
+
+**“Doğru kavram hakkında daha fazla bilgi direnci çözer.”** Doğru bilgi hacmi, zaten başarısız olan müdahaledir. Kavramsal değişim, öğrenenin mevcut modelinin açık hale getirilmesini ve yetersiz bulunmasını gerektirir; bu da kanıt eklemekten farklı bir öğretim hamlesidir.
+
+**“Yanlış kanılar ve sıradan bilgisizlik aynı çözümü gerektirir.”** Farklı çözümler gerektirirler: bilgisizlik bilgi sağlanarak ele alınır, yanlış kanının ise önce yerinden edilmesi gerekir. İkincisini birincisi gibi ele almak, iyi açıklanmış bir dersin öğrencinin özgün modelini bozulmadan bırakabilmesinin nedenidir.
 
 ## Bağlı kavramlar
 

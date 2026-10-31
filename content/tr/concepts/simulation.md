@@ -7,7 +7,7 @@ technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 connected_resources: [openmaic]
 translation_of: concepts/simulation
-source_updated: "2026-10-04T15:54:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,11 +56,22 @@ Simülasyon, [[experiential-learning|deneyimsel]] ve [[active-learning]] [[pedag
 - **Öğretmen–YZ birlikte tasarlanan simülasyonlar.** Hem kavramsal öğrenmeyi hem yetkinlik gelişimini destekleyen etkileşimli simülasyonlar uygulamalı alanlarda seyrektir ve üretken YZ çıktısı çoğu zaman pedagojik geçerlilikten yoksundur. [[stem-education|Drone temelli STEM eğitiminde]], aksi halde özdeş olan uygulamalı bir müfredata gömülü öğretmen–YZ birlikte tasarlanan simülasyonlar, 30 ortaokul öğrencisi üzerinde ön test–son test tasarımlı yarı deneysel bir düzende değerlendirilmiş; simülasyon destekli öğretimin üstün [[learning-gains|öğrenme sonuçları]] verip vermediği incelenmiştir ([[simulation-assisted-drone-learning-stem-2026]]). Ayrıca ASTRA gibi [[agentic-ai|çok ajanlı]] özel ders [[benchmark|kıyaslama]]ları, [[cs-education|giriş düzeyi programlamada]] katılım açısından dengelenmiş işbirliğini incelemek için simüle sosyal olarak akıllı ajanlar kullanır ([[astra-multi-agent-tutoring-benchmark-2026]]).
 
 - **Simülasyonda öğrenen denetimi verilmez, eyleme dönüştürülür.** Bir sürülen simülasyonda yürütülen 2 × 2 deneyinde ([[learner-agency-ai-simulation-2026|Su, Nair ve Nagashima 2026]]) bazı öğrencilere parametre kaydırıcıları, bazılarına isteğe bağlı bir konuşma aracısı, bazılarına ikisi birden verilmiştir; her koşul iyileşmiştir, ancak ön bilgi denetlendiğinde hiçbir olanak güvenilir bir fark üretmemiştir (p = ,849 ve p = ,108). [[learning-gains|Kazanımları]] öngören şey, öğrenenlerin parametreleri nerede ve ne kadar süreyle değiştirdiği olmuştur: kavramsal açıdan en karmaşık derste süregelen kaydırıcı kullanımı kazanımlarla pozitif ilişkiliyken, aynı davranış daha kolay derste negatif ilişkiliydi. Simülasyon kuranlar için çıkarım şudur: denetimler sunmak müdahale değildir — öğrenenlerin neyi değiştireceklerine karar vermelerine ve neyin değiştiğini kaydetmelerine yardım etmek müdahaledir.
+
+- **Açık bir mekanizma, öğrenilmiş bir üreticinin olmadığı biçimde denetlenebilirdir.** DagFlow-AI, sentetik veriyi bir yönlü çevrimsiz grafik artı değişken başına dağılımlar ve formüllerden kurar; böylece veri üretme süreci, bir öğretim görevlisinin okuyup düzeltebileceği bir belgedir ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ve ark., 2026]]). Bu, bir tohum veri kümesine ihtiyaç duyan ve opak bir süreç veren GAN ve VAE sentezine bilinçli bir karşıtlık oluşturur. Ödünleşim, kararlı bir simülasyona ulaşmanın birkaç yineleme almasıdır.
+- **Sanal ortam ile YZ katmanı ayrılabilir kazanımlardır.** Üç haftalık bir 9. sınıf Ohm yasası ünitesinde düzeltilmiş başarı, YZ destekli sanal laboratuvarla 30 üzerinden 23,45, YZ’siz aynı laboratuvarla 20,51 ve fiziksel laboratuvarla 16,57 idi ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li ve Ahmad (2026)]]). Sağlam sınıflar her birine farklı bir öğretmenle atandı, bu nedenle bu üç sınıf düzenlemesini betimler, tek başına ajanı değil.
 - **Dijital ikiz, donanım faturası olan bir simülasyondur ve fatura kimin katılabileceğini şekillendirir.** [[engineering-education|Mühendislik]] ve STEM yükseköğretiminde dijital ikizlere ilişkin 11 çalışmanın bir [[meta-analysis-systematic-review|sistematik derlemesi]], her uygulamanın gerçek zamanlı eşzamanlamalı çalışan bir prototip sunduğunu, ancak yalnızca üçünün istatistiksel açıdan anlamlı [[learning-gains|öğrenme kazanımları]] bildirdiğini bulmuştur. Fiziksel düzenekler beş çalışmada eşzamanlı erişimi 1–3 öğrenciyle sınırlamış ve azalmış toplumsal etkileşim altı çalışmada en sık belirtilen pedagojik zorluk olmuştur ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González ve ark. (2026)]]).
+
+- **Ajan temelli simülasyon, bir üstbiliş kuramını sınanabilir bir sistem olarak modelleyebilir.** Beş düzeyli AMERT modelini bir NetLogo benzetimiyle birleştiren ajan temelli, dijital ikiz esinli bir çerçeve, araştırmacıların öğrenen arketiplerini ve görev koşullarını değiştirip üstbilişsel yörüngeleri gözlemlemesini sağladı; ancak yazarlar çıktının gerçek öğrenenlere dair kanıt değil hipotez üretimi olduğunu vurgular ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). Simülasyon, başka türlü gözlemlenmesi zor bir kuram için sanal bir laboratuvara dönüşür.
 
 ### Bağlantılar
 
 Simülasyon [[active-learning]], [[adaptive-learning]] ve [[pedagogical-agent]] ile bağlantılıdır. Deneyimsel ve [[constructivist]] öğrenmenin bir mekanizmasıdır ve uyarlamalı, gerçekçi uygulama ortamları üretme yeteneğiyle YZ tarafından güçlendirilir.
+
+## Yaygın yanlış anlamalar
+
+- **“Simülasyon daha ucuzdur ve dolayısıyla ikinci en iyidir.”** Özerk [[llm|LLM]] sim-pilotları, **hava trafik kontrolü simülasyonlarında görev alan uzman insan rol oyuncularının yerini alarak bir eğitim kapasitesi darboğazını ortadan kaldırır**; kısıt sadakat değil, personeldi. İnsan rol oyuncularının kıt olduğu yerlerde LLM simülasyonu bir ikame değil, mevcut tek seçenektir.
+- **“Simülatörler ortalama vakalar gibi davranmalıdır.”** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin ve ark., 2026)]], bir politika ajanını **karşıt davranacak biçimde kurulmuş LLM hasta simülatörleriyle** eşleştirir. İşbirlikçi olacak biçimde tasarlanmış bir simülatör, öğrenenin pratiğini klinikten daha kolay kılar; bu da eğitimin ihtiyaç duyduğunun tam tersidir.
+- **“Betiklenmiş senaryolar belirsizlik altında karar vermeyi öğretir.”** SupplyNet’in bağlama duyarlı çok ajanlı ajanları, **betiklenmiş** diziler yerine öğrenen kararlarından **doğan dinamikler** üretir. Betiklenmiş senaryolar bilinen bir yolu prova eder; doğaçlama olanlar kararı prova eder.
 
 ## Bağlı kavramlar
 - [[active-learning]]
@@ -97,3 +108,5 @@ Simülasyon [[active-learning]], [[adaptive-learning]] ve [[pedagogical-agent]] 
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — Hemşirelikte YZ destekli simülasyon: karma yöntemli sistematik derleme (özgünlük boşluğu, kademeli süreklilik)
 - [[sophie-clinical-communication-ai-assessment-2026]] — Ölçeklenebilir YZ temelli klinik iletişim eğitimi ve otomatik değerlendirme
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — STEM eğitiminde dijital ikizler: prototiplerin tümü çalıştı, öğrenme kazanımları çoğunlukla çalışmadı
+
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load

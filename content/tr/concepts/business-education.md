@@ -8,7 +8,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,9 @@ ai_assist:
 İşletme eğitiminde yapay zeka, [[ai-education|eğitimde yapay zeka]]nın büyüyen bir [[discipline-specific-aied|alana özgü]] koludur. İşletme okulları öğrencileri üretici YZ’nin her yerde bulunduğu bir gelecekteki iş gücüne hazırlamalıdır; bu hem YZ okuryazarlığı hem alana özgü uygulama (finans, pazarlama, yönetim, ekonomi, girişimcilik) gerektirir. Araştırma, YZ’yi pedagojik ve profesyonel bir araç olarak bütünleştirmekle [[academic-integrity|akademik dürüstlük]], [[ethics|etik]] kullanım ve [[assessment]] yeniden tasarımını yönetmek arasındaki gerginliği öne çıkarır.
 
 ## Bilgi tabanı araştırmasında işletme eğitiminde yapay zeka
+
+- **Ders içinde kurulmuş bir [[rag|RAG]] sohbet robotu beklentileri hareket ettirdi, sonuçları değil.** Pazarlama İlkeleri dersinde 454 lisans öğrencisiyle yürütülen bir dönemlik [[rct|randomize denemede]] [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni ve Fryer (2026)]], ilgi, [[self-efficacy]], katılım veya test performansı üzerinde anlamlı bir grup ile zaman arasındaki etkileşim bulmamıştır; oysa öğrenciler haftada 0,89 kez oturum açmış ve keyfi 80,4 olarak derecelendirmiştir.
+- **Bir işletme eğitimi alternatifi konuyu değil süreci notlar.** Birinci sınıf bir İş Analisti derece çıraklığında notlandırma, belgelenmiş yinelemeyi ve akran [[collaborative-learning|işbirliğini]] gerektirmiş ve GenAI kullanan öğrenciler onun karşı savlarını sunmak yerine onlarla tartışmıştır ([[alam-process-oriented-collaborative-essays-2026|Alam ve Jackson, 2026]]).
 
 - **Öğrenci kaynaklı çerçeveler.** [[drummond-genai-business-schools-framework-2026|Drummond & Dale (2026)]], üretici YZ’yi işletme lisans programları boyunca bütünleştirmeye yönelik öğrenci kaynaklı kavramsal bir çerçeve sunar; bu çerçeve 149 öğrenciden oluşan bir Birleşik Krallık vaka çalışmasına dayanır. Öğrenciler yüksek düzeyde katıldı, kariyerleri için üretici YZ becerilerine duyulan ihtiyacı fark etti ve bilmeden akademik usulsüzlüğe girmeden YZ kullanmak istedi.
 - **On yıllık bir araştırma.** [[espino-ai-business-education-review-2026|Espino & Espino (2026)]], işletme eğitiminde yapay zekâya ilişkin 213 makaleyi (2015–2024) bibliyometrik olarak haritalayarak dört küme belirledi: YZ kaynaklı işletme eğitimi dönüşümü, yenilikçi dijital pedagojiler, YZ ile güçlendirilmiş [[personalized-learning|kişiselleştirme]] ve dijital ekonomiyle uyumlu işletme eğitimi — müfredat tutarlılığı, eğitmen hazırlığı ve değerlendirme geçerliliği alanlarında süregelen boşluklarla birlikte.
@@ -64,6 +67,12 @@ ai_assist:
 - **Süregelen boşlukları ele alın.** [[espino-ai-business-education-review-2026|On yıllık bir araştırma]], müfredat tutarlılığı, eğitmen hazırlığı ve değerlendirme geçerliliği alanındaki boşluklara dikkat çeker — bunları program tasarımında önceliklendirin.
 - **Öğrencileri YZ bütünleşik bir iş hayatına hazırlayın.** YZ okuryazarlığını, etik kullanımı ve alana özgü uygulamayı (finans, pazarlama, yönetim, ekonomi) seçmeli dersler değil temel yetkinlikler olarak vurgulayın.
 
+## Yaygın yanlış anlamalar
+
+- **“Öğrenciler kısayol istedikleri için YZ ister.”** Öğrenci kaynaklı bir çerçeve, öğrencilerin **yüksek düzeyde katıldığını ve kariyerleri için GenAI becerilerine ihtiyaç duyduklarının farkında olduklarını**, aynı zamanda **farkında olmadan akademik usulsüzlük yapmadan YZ kullanmak istediklerini** bulmuştur. Talep, işten kaçma izni değil, sınırları belirgin bir yetkinliktir.
+- **“İşletme müfredatına YZ modülleri eklemek yararı yakalar.”** Yapıcı hizalama araştırması, **yararların mı risklerin mi baskın olduğunun müfredat bütünleşme düzeyiyle şekillendiğini** bulmuştur; işlevsel ayrım **bütünleştir, ekleme**dir. Eklenmiş bir modül değerlendirme tasarımını değiştirmeden bırakır.
+- **“Araç gelişmişliği geleneksel e-öğrenmeyi geçer.”** **130 öğrencilik** bir algı çalışması, **hem sohbet robotu hem etken desteğinin geleneksel e-öğrenmenin üzerinde** puan aldığını bulmuştur: geliştirme, kişiselleştirme ve karar verme. Bunun neyi ölçtüğünü not etmek gerekir: geleneksel bir taban çizgisine karşı öğrenci *algısı*, ona karşı öğrenme değil.
+
 ## Bağlı kavramlar
 
 - [[ai-education]]
@@ -80,6 +89,9 @@ ai_assist:
 - [[stem-education]]
 
 ## Bağlı makaleler
+
+- [[alam-process-oriented-collaborative-essays-2026]] — Bir İş Analisti çıraklığında süreç odaklı işbirlikçi denemeler: konu değil, belgelenmiş yineleme notlanır
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Ders içinde kurulmuş bir RAG sohbet robotu beklentileri hareket ettirdi, sonuçları değil
 
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
 

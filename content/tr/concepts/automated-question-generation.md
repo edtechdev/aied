@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,16 @@ AQG, [[adaptive-learning|uyarlamalı]] ve [[personalized-learning|kişiselleşti
 - **Bilişsel derinlik için tasarlayın:** istek metinleri ve işlem hatları, gerçek öğrenmeyi desteklemek için yalnızca hatırlamayı değil üst düzey düşünmeyi hedeflemelidir.
 - **Zorluğu kalibre edin:** uygun biçimde zorlayıcı maddeleri seçmek için YZ zorluk tahminlerini kullanın; yüksek riskli kullanımdan önce güçlü doğrulama yapın.
 - **Öğrenen modelleri aracılığıyla kişiselleştirin:** uyarlamalı, bireyselleştirilmiş maddeler üretmek için AQG’yi bilgi izleme ve ilgi modelleriyle birleştirin.
+
+## Yaygın yanlış anlamalar
+
+**“Üretilen sorular, üretilebildikleri ölçekte kullanılabilir.”** Kısıt hacim değil, kalibrasyondur. Kalite madde türleri arasında çarpıcı biçimde değişir ve uydurulmuş ya da kötü kalibre edilmiş maddelerden kaçınmak için doğrulama gerektirir; bu nedenle işleyen hatlar çabalarını üretime değil doğrulamaya harcar: bir hat, üret-sonra-doğrula-ve-incelt döngüsü ekleyerek uydurmayı **%62** azaltmıştır.
+
+**“Bir inceltme döngüsü üretilen maddeleri güvenilir kılar.”** Onları daha az yanlış kılar. Uydurmadaki %62’lik azalma önemli bir artık bırakır ve hiçbir döngü, bir maddenin belirtilen güçlüğünün öğrencilerin fiilen yaptıklarıyla örtüşüp örtüşmediği gibi daha zor sorunu çözmez: güçlük etiketi kanıtının üretilen üst verinin başarısız olduğunu gösterdiği [[assessment-validity|geçerlilik]] sorusu. Doğrulama uydurulmuş içeriği azaltır; kalibrasyon öğrenci yanıt verisi gerektirir.
+
+**“Soru üretimi pratiği doğal olarak kişiselleştirir.”** Arz üretir ve kişiselleştirme bir eşleştirme sorunudur. Daha çok madde üretmek, belirli bir öğrenenin sırada hangi maddeyi görmesi gerektiğini söylemez; uyarlamalı seçim sorusu kendi kanıtına sahip ayrı bir mekanizmadır.
+
+**“Üretim, değerlendirmenin neleri ölçtüğünü değiştirmeden ölçekler.”** Ölçülen şeyin bileşimini değiştirir, çünkü iyi üretilen maddeler iyi değerlendiren maddelerin temsili bir örneği değildir. Üretilmesi kolay biçimler, üretilmesi zor olanları giderek dışarı iter ve bu da yapıyı sessizce yeniden şekillendirir.
 
 ## Bağlı kavramlar
 

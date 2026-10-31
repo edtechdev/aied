@@ -11,7 +11,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-10-30T10:53:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,20 @@ Bilgi tabanının makaleleri, bilişsel yükü dışarı aktarmayı birden fazla
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette ve ark. (2026)]], yük dışarı aktarmayı kuramsal bir risk olarak değil katılımcıların kendi deneyimi olarak kaydeder: bir katılımcı, genAI’nin “beni metinde neyin önemli olduğunu kendim okuyup bulmaktan, okuma becerilerimi geliştirmekten fiilen alıkoyduğunu” söylemiş, bir diğeri “şu anda çok güçlü olduğum bazı becerilerde zamanla kötüleşeceğim uzun vadeli gelişimden” korktuğunu belirtmiştir.
 - **Etki araçta değil iş bölümündedir.** Nakamura (2026), analiz birimi öğrenen ile makine arasındaki bilişsel emeğin bölüşümü olduğunda GenAI öğrenme etkilerindeki heterojenliğin çözüldüğünü savunur. Yük dışarı aktarma, mevcut hedefe göre çevresel işlemleri yerine getirdiğinde öğrenmeyi çoğaltır, o hedefi kurucu nitelikteki işlemeyi atladığında ise aşınma riski taşır ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Çıktıyı esaslı biçimde işlemek veya sonradan yeniden inşa etmek, aksi halde kurucu bir yük dışarı aktarmayı kurtaran şeydir.
+
+- **Bir kişinin devredebileceği şey, görevle ilgili deneyimine bağlıdır.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]], görev sırasını kişiye göreli kılar: bir acemi için üst düzey olan, prosedürü zaten elinde tutan biri için alt düzeydir; dolayısıyla izin verilen yük dışarı aktarma deneyimle büyümeli ve işin çekirdeğinde durmalıdır.
+
+**Bilişsel sermaye, yük dışarı aktarmanın çektiği stoktur.** [[riva-cognitive-capital-generative-ai-review-2026|Riva ve ark. (2026)]], yük dışarı aktarmayı bir eylem olarak değil bir stoktaki değişim olarak yeniden çerçeveler. Bilişsel sermaye, bireylerde ve örgütlerde tutulan, birikmiş, yenilenebilir ve tükenebilir bilgi, yetenek ve pratiklerdir ve insan-YZ sisteminin yeteneğinden ayrı tutulur; böylece ortak performans kazancı, insan yeteneğindeki kayıpla yan yana görülebilir. Dört mekanizmaları (pratiğin yerine geçme, iskeleleme ve geri bildirim, üst bilişsel kalibrasyon ve örgütsel toplama) yedi ilke üretir; bunlar arasında desteklenmiş performansın kalıcı yetkinlik olmadığı ve bir görevi devretmenin, beceriyi kuran pratiği devretmekten farklı olduğu yer alır. Gerekçelendiren istatistik, 5.172 müşteri destek temsilcisine yapılan kademeli bir konuşlandırmadır ve burada bir asistan saat başına çözülen sorunları %15 yükseltmiştir; bu sayı ortak sistemi betimler ve temsilcilerin işi yardımsız hâlâ yapıp yapamayacağı, gözden geçirilen literatürün içermediği bir ölçümdür.
+
+### Yük dışarı aktarmanın yükselmek yerine düştüğü durum
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]], yetişkinlerin yeni içeriği geleneksel çalışma yapraklarından ya da yalnızca bu yapraklarla sınırlandırılmış genel amaçlı bir asistandan öğrendiği önceden kayıtlı bir deney (N = 317) bildirir. YZ koşulu, ölçülen bilişsel yük dışarı aktarmayı yükseltmek yerine düşürmüştür (medyan −0,27, %95 inanılır aralık −0,58 ile 0,04). Derin işleme yine de düşmüştür, ancak daha düşük yük dışarı aktarmanın daha düşük [[critical-thinking|eleştirel düşünmeyle]] izlendiği ve bunun da daha zayıf derin işlemeyi öngördüğü (0,78) bir zincir üzerinden. Düzensizlik 0,84 artmış ve etkiyi taşıyan hiçbir aracı bulunmamıştır. Bulgu standart açıklama için bir uyarıdır: yük dışarı aktarma, bir [[generative-ai|YZ]] ortamının işlemeyi aşındırdığı tek yol değildir ve bir koşul, yük dışarı aktarmayı el değmemiş bırakırken yük dışarı aktarmanın koruması gereken şeyi bastırabilir.
+
+### Yalnızca bilişi değil, empatiyi de dışarı aktarma
+
+Aynı pazarlık duygusal emek için de geçerlidir ve orada kanıt daha yenidir. [[shastry-gray-empathy-offloading-2026|Shastry ve Gray (2026)]], empati yük dışarı aktarmasını adlandırır: bir sistem duygusal destek sağlayabildiğinde insanlar bunu kendileri daha az verir (dört çalışmada N = 2.223). Empatiyi bir modele devretme isteği, modelin bu kapasitesine ilişkin inançla izlenmiştir (b = 0,44) ve bu inancı sıradan haber kapsamı yoluyla yükselten bir deney, yük dışarı aktarmayı bunun üzerinden hareket ettirmiştir (dolaylı 0,73, doğrudan inandırıcı değil). Öğretici olan, öz-bildirim ile davranışın ayrıldığı yerdir: bir öğrencinin bir sohbet robotundan destek aldığı söylenen katılımcılar, kendi yük dışarı aktarmalarını bir arkadaş ya da terapist için olduğundan daha düşük puanlamış, ardından o öğrenci hakkında daha az empati sözcüğü ve daha çok kayıtsızlık sözcüğü seçmiştir.
+
+- **Yük dışarı aktarma görünür bir kazanç ile görünmez bir kayba ayrılır.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]], bu sayfanın belgelediği kalibrasyon başarısızlığının genel bir aşırı güvenden çok *boyutlar arası* bir çıkarım olduğunu savunur. İşlevsel yetkinlik (istek metni yazma, yineleme, bütünleştirme) anında ve belirsizliği olmayan geri bildirim verirken, değerlendirici yetkinlik (bir çıktının doğru olup olmadığını yargılama) gecikmeli, seyrek ya da hiç geri bildirim vermez. Yük dışarı aktarma, algılanan anlayışı yükseltirken derin işlemeyi aynı anda düşürür ve yalnızca birincisi deneyimlenir. YZ sınırlamalarına ilişkin uyarıların zayıf müdahaleler olmasının nedeni budur: sistem hakkındaki inançlara hitap ederler, oysa yanılsama kullanıcının kendi deneyimindeki bir eksiklikten doğar. Derleme kavramsaldır ve kendi verisi yoktur.
 
 ## Aşırı güven: yük dışarı aktarma zararlı hale geldiğinde
 
@@ -171,6 +185,12 @@ Aynı mantık, ödül şekillendirmeyi bir tasarım aracına dönüştürür: [[
 - [[cognitive-surrender]]
 
 ## Bağlı makaleler
+
+- [[riva-cognitive-capital-generative-ai-review-2026]] — Bilişsel sermaye: yük dışarı aktarmanın yenilenebilir bir yetenek stoğundan çekiş olarak okunması
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Boyutlar arası yanlış kalibrasyon: işlevsel akıcılığın değerlendirici ve alan yetkinliği olarak yanlış okunması (kavramsal derleme)
+- [[akcaoglu-offloading-ladder-experience-2026]] — Yük Dışarı Aktarma Merdiveni: deneyimin, öğrenenlerin ve uygulayıcıların YZ’ye neyi devretmesi gerektiğini nasıl değiştirdiği (Akcaoglu 2026)
+- [[shastry-gray-empathy-offloading-2026]] — İnsanlar YZ’nin empati verebileceğini düşündüğünde empatiyi dışarı aktarıyor (Shastry ve Gray 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Bilişsel uyku hâli: YZ olanaklarının yük dışarı aktarmayı yükseltmeden derin işlemeyi düşürdüğü ve düzensizliği artırdığı önceden kayıtlı bir deney (Braun 2026)
 
 - [[ai-proof-learning-cognitive-offloading-2026]] — Supporting or replacing students’ reasoning? Cognitive offloading in AI-assisted proof learning (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)

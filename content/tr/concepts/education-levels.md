@@ -13,7 +13,7 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,16 @@ Ankete dahil edilen her düzeyde geçerli olan bir kalıp vardır: insan katman�
 - **YZ’yi heyecana göre değil etkinliğe göre eşikleyin** ve gizlilik yükümlülüklerini yaşla ölçeklendirin ([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **O bandın aracı yetişkini tasarlayın** — ebeveyn, öğretmen, kütüphaneci veya danışman — ve onların hazır bulunuşluğunu kurumunkinden ayrı ölçün ([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Bir bandanın kanıtı olmadığını açıkça söyleyin** ve **niyeti başarı sanmayın**: çeşitli kademeye özgü çalışmalar, öğrenme yerine tutum veya [[self-report-measures|öz bildirim]] sonuçları rapor etmektedir.
+
+## Yaygın yanlış anlamalar
+
+**“Bir bant etiketi, öğrenenin ne yapabildiğini söyler.”** Bant ile bilgi düzeyi ilişkilidir ama eşit değildir. İkinci sınıf öğretmenlik denemesinde [[prior-knowledge|önceki bilgi]] son test performansına egemen olmuştur (**F(1, 124) = 206,99, p < ,001, η²p = ,63**); bu büyük etki, sınıf düzeyi etiketini öğrenenin fiilî önceki bilgisinin yanında zayıf bir yordayıcı yapar. Banda göre tasarlayıp bant içi yayılımı görmezden gelmek, geniş bir dağılımın ortalaması için tasarlamaktır.
+
+**“Öğretilen ders, eğitim düzeyinden daha önemlidir.”** Okul/üniversite ayrımı daha önemlidir. Bu sınırın ötesinde değişen şey içerik değil, öz-düzenleme kapasitesi, değerlendirme sözleşmesinin niteliği ve öğrenmeden kimin sorumlu olduğudur; bu nedenle bir lisansüstü seminerine yardımcı olan bir araç, karşılaştırılabilir içerikte bile bir ikinci sınıf dersine zarar verebilir.
+
+**“Uyarlanabilir bir öğretmen her düzeye eşit biçimde yardımcı olur.”** Değişkeni yalıtan karşılaştırma öğreticidir: aynı ikinci sınıf matematik öğretmeninin iki sürümü, içerik, arayüz, geri bildirim ve sözlü ipuçları bakımından özdeş olup **yalnızca görev seçiminin bir Bayes [[knowledge-tracing]] modelini izleyip izlememesi** bakımından farklılaşmıştır. Uyarlanabilir görev seçimi düzeye duyarlı bir müdahaledir ve yararı, o düzeydeki öğrenenlerin uyarlamaya göre eylemde bulunup bulunamamasına bağlıdır.
+
+**“Yükseköğretimde yoğunlaşan kanıt aşağıya doğru genellenir.”** Genellenmez ve literatürün dağılımı bir kolaylık değil bir uyarıdır. Kanıtın yoğun olduğu yer ile seyrek olduğu yer, YZ’nin en çok kullanıldığı yerin değil araştırma ekonomisinin bir özelliğidir; dolayısıyla üniversite örneklemlerinden çıkarılan bir K-12 iddiası, en çok önem taşıyan sınırın ötesine bir dışdeğerlemedir.
 
 ## Bağlı kavramlar
 

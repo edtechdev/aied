@@ -8,7 +8,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,9 @@ ai_assist:
 ## Giriş
 
 SDT, giderek daha fazla, hem öğrenciye hem öğretmene yönelik YZ sistemleri için teorik bir mercek olarak eğitimde YZ [[research-methods-aied|research]] kullanılmaktadır. Kuramın merkezî iddiası — motivasyonun, öğrenenlerin sahip olduğu basit bir miktar değil, toplumsal ve teknolojik çevre tarafından şekillenen bir nitelik olduğu — onu, YZ araçlarının [[student-engagement|engagement]], direnci ve [[learning-gains|learning outcomes]] nasıl etkilediğine ilişkin sorulara doğrudan ilgili kılar. Bu bilgi tabanındaki makaleler, SDT'yi üç temel bağlamda uygular: öğretmen mesleki gelişimi, YZ aracılı öğrenme katılımı ve duygusal hesaplama.
+
+
+Buradaki motivasyonel kazancı kolaylık değil özerklik taşımıştır. Üç kollu bir [[rct|RCT]], öğrenenleri kendi çözümlerini kurmaya devam ettiren ipucu-esirgeyen öğretmenin içsel motivasyonu yükselten tek kol olduğunu (2,82’ye karşı 2,42), yanıtı doğrudan sunan kısıtlanmamış ChatGPT’nin ise yükseltmediğini (2,64, p = ,076) bulmuştur ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner ve ark. (2026)]]).
 
 ### Temel araştırma temaları
 
@@ -61,6 +64,12 @@ Bir ortak-etkililik çerçevesi, SDT'nin YZ aracılı eğitimdeki erişimini sı
 
 SDT, ana yapısı olarak [[motivation]], duygu farkında YZ tasarımı için [[affective-computing]] ve [[affective-tutoring]]e ve öğrenenlerin YZ aracılı ortamları nasıl deneyimlediğine ilişkin olarak [[student-experience]] doğrudan bağlanır. Kuramın özerklik vurgusu, [[self-regulated-learning]] bağlanır; yetkinlik boyutu ise [[self-efficacy-tutoring-learning]] ve [[teacher-ai-competency]] bağlanır. SDT, [[professional-training]] ve [[educational-development]] için özellikle ilgilidir, çünkü ihtiyaç destekli tasarım, eğitimcileri YZ kullanımına hazırlamada aktarılabilir bir ilkedir.
 
+## Yaygın yanlış anlamalar
+
+- **“Motivasyonun türü, miktarından daha az önemlidir.”** Bir yıl süren bir çalışma, **üç motivasyonel profil (İlgisiz, Gelişen, Öz Belirleyici) bulmuş ve bunlar zaman içinde kararlı kalmıştır**; **Öz Belirleyici** profile ulaşan öğrenciler **en büyük [[ai-literacy]] kazanımlarını** göstermiştir. Öğrenmeyi öngören motivasyonun niteliğiydi ve profiller yalnızca yukarı doğru kaymamıştır.
+- **“Özerklik desteği, yapıyı kaldırmak demektir.”** SDT’nin mekanizması özerklik, yetkinlik ve bağlılığın birlikte işlemesidir ve boylamsal kanıt, bunların karşılanmasının kazanımlara yalnızca eşlik etmediğini, onları öngördüğünü göstermektedir. Yetkinlik desteği olmayan özerklik müsamahakârlıktır ve kuramın koşullarını karşılamaz.
+- **“Bir sohbet robotu üç ihtiyacı otomatik olarak sağlayabilir.”** Bir çalışma, ChatGPT’nin dil öğreniminde özerkliği, bağlılığı ve yetkinliği destekleyebildiğini bulmuştur; bu bir olanak, bir özellik değildir. Belirli bir etkileşimin bunları destekleyip desteklemediği, nasıl kullanıldığına ilişkin ampirik bir sorudur.
+
 ## Bağlı kavramlar
 
 - [[motivation]]
@@ -77,6 +86,8 @@ SDT, ana yapısı olarak [[motivation]], duygu farkında YZ tasarımı için [[a
 - [[learning-theories]]
 
 ## Bağlı makaleler
+
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — İpucu esirgeme özerkliği korudu, yanıt verme korumadı
 - [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI
 - [[dual-ai-learning-pathways-sdt-2026]] — Lise baskısı/özerklik desteği ve çift YZ öğrenme yolu (Shen & Arunrugstichai 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]

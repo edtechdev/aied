@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ Bilgi tabanının araştırması, üretici YZ'nin toplayıcı değerlendirme man
 - **Sonuç uyumu, kaba madde puanlamasından sağ çıkabilir.** Yönetilmiş resmî notlara karşı, 10.364 elde yazılmış Fizik Olimpiyatı ve üniversite sayfasını puanlayan çok kipli bir LLM, r = 0,93–0,96 ile korele oldu ve aynı beş öğrencili uluslararası takımı yeniden ortaya çıkardı; ancak tam soru parçası uyumu %70'e ulaştı — bir puanlayıcı, bilgilendirdiği kararlarla yargılanır ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **Kaçış aracı olarak YZ.** Üretici YZ yazılı sorulara yanıt üretebildiğinden, gözetimsiz ve evde yapılan toplayıcı görevler geçerliliklerini yitirir: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]], çünkü gözetimsiz performans YZ tarafından şişirilir ve [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]], korumasız YZ'nin yol açtığı sınav cezasını ortadan kaldırabilir. [[chirikov-ai-grade-inflation-2026|Chirikov's (2026)]] 500.000'den fazla not üzerindeki yarı-deneysel çalışması mekanizmayı somutlaştırır: ChatGPT'nin yayınlanmasından sonra, YZ maruziyeti daha fazla olan kurslarda A notlarının payı 13 puan arttı ve etki **ödev ağırlıklı kurslarda** yoğunlaştı (üçlü farklar tahmininde ek 16 puan) — gözetimsiz ödevlerin, gerçek [[learning-gains|learning gains]] değil, YZ'nin toplayıcı sonuçları şişirdiği yer olduğunun doğrudan kanıtı.
 - **YZ üretimi sınavlar.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] ve [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]], YZ'nin yüksek kaliteli sınav ve değerlendirme görevleri *üretip üretemeyeceğini* inceler — YZ'nin toplayıcı tasarım amaçlı yeni ortaya çıkan bir kullanımı.
+- **Öğrenciler YZ tarafından yazılmış maddeleri güvenilir biçimde ayırt edemez.** Kredili bir Aile Hekimliği sınavında [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt vd. (2026)]], 30 YZ üretimi ile 30 lisans sınavı çoktan seçmeli maddesi arasında kaynak atfında anlamlı bir fark bulmadı, ortalama doğru tanıma %68,6 ile %77,5 arasındaydı ve üretilen maddelerin %18,2'si [[human-in-the-loop-ai|insan gözden geçirmesinde]] elendi.
 
 ## YZ'ye dirençli toplayıcı biçimler
 
@@ -66,9 +67,16 @@ Bilgi tabanının değerlendirme literatürü, tutarlı biçimde [[assessment]] 
 - **Toplayıcı biçim bir geçerlilik ve dürüstlük kaldıracıdır:** YZ'ye dirençli toplayıcı biçimler (sözlü, gözetimli, kitapsız, yüz yüze), değerlendirilen performans ile gerçek öğrenme arasındaki bağlantıyı korur.
 - **Gözetimli/yardımsız ölçütler güvenilir sinyaldir:** öğrenciler YZ kullandığında, yardımsız toplayıcı sınavlar — ödev değil — gerçek öğrenmeyi ortaya çıkarır.
 - **Otomatik puanlama psikometrik incelemeye ihtiyaç duyar:** yüksek getirili sınavları puanlamak için LLM kullanmak, yalnızca doğruluk değil, güvenilirlik, adillik ve geçerlilik değerlendirmesi gerektirir.
- Puanlama hatası ayrıca nota bağımlıdır: 32 halk sağlığı sınavı gönderimi üzerinden, LLM'ler ölçeğin uçlarından kaçındı — hızlı kipte hiç E veya F görülmedi — en iyi model insan notuyla tam olarak %50,0'de ve ±1 not aralığında %90,6'da eşleşti ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+
+- Puanlama hatası ayrıca nota bağımlıdır: 32 halk sağlığı sınavı gönderimi üzerinden, LLM'ler ölçeğin uçlarından kaçındı — hızlı kipte hiç E veya F görülmedi — en iyi model insan notuyla tam olarak %50,0'de ve ±1 not aralığında %90,6'da eşleşti ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **YZ ayrıca sınav üretebilir:** YZ destekli sınav ve görev üretimi, kendi başına kalite değerlendirmesi gerektiren yeni ortaya çıkan bir toplayıcı tasarım uygulamasıdır.
 - **Yalnızca biçimi değil, puanlamanın amacını yeniden düşünün.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]], yüzeysel ve parçalı öğrenmeyi teşvik eden, öğrencilere az denetim veya şeffaflık veren, içsel [[motivation]] zedelenen, stresi ve [[well-being|anxiety]] besleyen ve gerçek dünya uygulamasından ziyade büyük ölçüde hatırlamayı değerlendirirken eşitsizlikleri sürdüren geleneksel toplayıcı, norm referanslı puanlamayı eleştirir; yeniden değerlendirmeyi, [[mastery-learning|standards-based grading]] ve puan vermemeyi, toplayıcı ağırlıklı uygulamayı yumuşatabilecek puanlama odaklı yenilikler olarak konumlandırır; bunların yönetim eğitiminde normatif engeller — eğriye göre puanlama, dışsallaşan sinyalleme (sıralamalar, stajlar, akreditasyon) ve öğrencilerin araçsal zihniyeti — nedeniyle marjinal kaldığını kabul eder ve kurumsal destekle kademeli denemeler önerir.
+
+## Yaygın yanlış anlamalar
+
+- **“Bir LLM resmi standartlara göre puanlayamaz.”** **Modere edilmiş resmi notlara** karşı, **10.364 el yazımı** Fizik Olimpiyatı ve üniversite sayfasını puanlayan çok kipli bir LLM güçlü biçimde korelasyon göstermiştir. Sonuç uzlaşısı, madde düzeyinde kesin olmayan puanlamayla birlikte ayakta kalabilir; bu da yararlı sorunun, madde düzeyinde kesinliğin fiilen nerede gerekli olduğu sorusu olduğu anlamına gelir.
+- **“YZ kaynaklı not enflasyonu bir spekülasyondur.”** [[chirikov-ai-grade-inflation-2026|Chirikov'un (2026)]] **500.000'den fazla not** üzerindeki yarı-deneyi mekanizmayı somutlaştırır: ChatGPT'nin yayımlanmasından sonra **YZ'ye daha açık görevleri olan derslerde yüksek notların payı arttı**. Etki, görevlerin açık olduğu yerde yoğunlaşmıştır; bu, bir mekanizmanın öngöreceği örüntüdür.
+- **“YZ kullanan öğrenciler kullanmayanlardan ayırt edilemez, dolayısıyla kaynak izleme umutsuzdur.”** YZ tarafından üretilen maddeler ile lisans sınavı maddeleri arasında **kaynak atfında anlamlı bir fark bulunmaması**, doğru tanımanın **%68,6-77,5** ve yanlış atfın **%18,2** olması, kaynak izlemenin gereksiz olduğuyla değil tanımanın başarısız olduğuyla ilgilidir. Dahası, doğrulanmış kaynak izleme gereksinimini yükseltir.
 
 ## Bağlı kavramlar
 
@@ -110,3 +118,4 @@ Bilgi tabanının değerlendirme literatürü, tutarlı biçimde [[assessment]] 
 - [[ai-grading-handwritten-physics-2026]] — Elde yazılmış fizik değerlendirmelerinin YZ ile puanlanması (Olimpiyat)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Öğrenciler YZ tarafından yazılmış maddeleri güvenilir biçimde ayırt edemez

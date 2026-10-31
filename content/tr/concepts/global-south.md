@@ -8,7 +8,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -20,7 +20,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-**Küresel Güney**, ekonomik, siyasi ve tarihsel olarak Küresel Kuzey’e kıyasla genellikle marjinalleştirilmiş olan Afrika, Asya, Latin Amerika ve Okyanusya ülkelerini ifade eder. [[ai-education|AI in education]] [[research-methods-aied|research]] literatüründe Küresel Güney bağlamları, kanıt tabanında giderek daha fazla yetersiz temsil edildiğinin kabul görmesine rağmen, [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], kaynak kısıtları ve Batı, Anglofon eğitim verilerinin epistemik hegemonyasına ilişkin kendine özgü sorular ortaya çıkarmaktadır.
+> **Küresel Güney**, ekonomik, siyasi ve tarihsel olarak Küresel Kuzey’e kıyasla genellikle marjinalleştirilmiş olan Afrika, Asya, Latin Amerika ve Okyanusya ülkelerini ifade eder. [[ai-education|Eğitimde YZ]] [[research-methods-aied|araştırmalarında]] literatüründe Küresel Güney bağlamları, kanıt tabanında giderek daha fazla yetersiz temsil edildiğinin kabul görmesine rağmen, [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], kaynak kısıtları ve Batı, Anglofon eğitim verilerinin epistemik hegemonyasına ilişkin kendine özgü sorular ortaya çıkarmaktadır.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -57,6 +57,15 @@ Ana akım YZ ve eğitim teknolojisi araştırması tarihsel olarak Batılı, İn
 Küresel Güney bağlamlarına ilişkin çalışmak, Batılı modellerin ve kıyaslamaların doğrudan aktarıldığını varsaymanın ötesine geçmeyi gerektirir. Yerel temelli veri kümeleri, kültürel olarak ilgili [[pedagogy]], topluluk merkezli değerlendirme ölçütleri ve öğrenenlerin yaşanmış ve topluluk epistemolojilerini yetkili kaynak olarak ele alan araştırmalar çağrısında bulunur — topluluk temelli YZ öğrenimi ve yerel koşullara uyarlanmış [[technology-acceptance-model|technology-acceptance]] araştırması gibi çerçevelerle uyumlu biçimde.
 
 Ölçeklenme sicili bu tablonun bir parçasıdır ve iç açıcı değildir. Pilot ölçekte işe yayan programlar devletlerin onları yürüttüğünde sık sık işlevini yitirir: sivil toplum uygulaması altında önemli kazanımlar üreten Kenya programı devlet ölçeğinde tespit edilebilir bir kazanım göstermemiştir (Bold ve ark.), programlar büyüdükçe etki büyüklükleri düşme eğilimindedir (Vivalt) ve uygulama kalitesi çoklanan uygulama noktalarında seyrelir (Al-Ubaydli, List & Suskind). Latin Amerika’nın kendi emsali Peru Bir Çocuk Bir Dizüstü programıdır — yaklaşık 800.000 dizüstü bilgisayar dağıtılmış, [[math-education|mathematics]] veya okumada tespit edilebilir bir etki olmamıştır — buradan çıkarılan ders, teknolojiye erişimin öğretim olmadığıdır. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales ve ark. (2026)]], ölçeklenme dersine bir raporlama dersi ekler: 2026 El Salvador olayında 171 okulda yürütülen bir YZ özel ders pilotu, Almanya ve İsveç’e benzer olarak duyurulurken, aynı ülkenin temsilci PISA 2025 örneği üç dersten ikisinde hareket göstermemiştir ve pilot verileri (okul başına değerlendirilen 7,0 öğrenciye karşılık ulusal düzeyde 25,4) seçkinliği açıklama olarak elemeyi hariç tutacak kadar inceydi. Ölçekte YZ benimseyen Küresel Güney sistemleri için çıkarım iki katlıdır: bir reformun işe yaradığına dair kanıt genellikle paketlediği bileşenlerle ilgilidir, manşetteki teknolojiyle değil; ve konuşlandırmadan önce tasarlanan kademeli bir devreye alma, neredeyse hiç maliyet olmadan etkileri belirler — bu, bağlantı kalitesinin zaten aşamalandırmayı dikte ettiği yerlerde en çok önemlidir.
+
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi ve van der Merwe (2026)]], Güney Afrika'daki bir 9. sınıf sınıfından yola çıkarak kısıtlamayı önceleyen kurumsal politikanın, pedagojik kıtlık altında YZ'nin öğretmenlerin yerine geçmek yerine onları genişletebileceği koşulları önceden kapattığını ve öğrenenlerin ürettiği etkileşim verisinin yabancı yönetişim rejimleri altında tutulduğunu savunur.
+
+## Yaygın yanlış anlamalar
+
+- **“Düşük kaynaklı bağlamlarda YZ etiği çerçevesi yoktur ve ithal edilmesi gerekir.”** Düşük kaynaklı bir bağlamda görev yapan ortaokul STEAM öğretmenleri, **YZ etiğini resmi ilkeler yerine mesleki kimlik, sınıf gerçeklikleri ve kültürel normlar üzerinden** düşünür. Muhakeme vardır ve durumsaldır; evrensel bir ilke listesi ona zayıf biçimde aktarılır.
+- **“Yönetişim türü, üniversitelerde YZ bütünleşmesini öngörür.”** **45 Nijerya üniversitesinin** (federal, eyalet ve özel) karşılaştırmalı içerik analizi, YZ bütünleşmesinin **kurum yaşı ve coğrafi konumla öngörüldüğünü, yönetim türüyle değil** buldu. Kamu ve özel kurumların ayrıştığı varsayımı çürütülmektedir.
+- **“Ana engel dijital uçurumdur.”** **Üç Filistin üniversitesindeki 21 görme engelli lisans öğrencisine** ilişkin [[qualitative-research|nitel]] bir vaka çalışması, GenAI'nin **dijital, coğrafi ve sosyoekonomik** engelleri aynı anda aştığını buldu. Engeller katmanlıdır ve erişimi tek engel olarak ele almak diğerlerine dokunmadan bırakır.
 
 ## Bağlı kavramlar
 

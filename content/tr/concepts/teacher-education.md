@@ -8,7 +8,7 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,24 +36,32 @@ ai_assist:
 
 Çapraz düzeyli kanıtlar tasarım önceliğini keskinleştirir: [[pedagogy-first-technology-second-teacher-knowledge-2026|46 öğretmen ve 2.832 ortaöğretim öğrencisinin çok düzeyli bir çalışması]], pedagojik YZ bilgisinin (TPAIK) — teknik YZ bilgisi değil — öğrencilerin sosyal iyilik için YZ algısını ve YZ'yi öğrenme niyetlerini yönlendirdiğini buldu. Öğretmen eğitimi bu nedenle "önce pedagoji, sonra teknoloji" ilkesiyle tutarlı biçimde, araç yeterliliğinin önünde *YZ ile ve YZ hakkında nasıl öğretileceğini* ön plana çıkarmalıdır.
 
+Bir heutagojik damar bu tasarım önceliğinin yanında uzanır: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg ve Waitzman (2026)]], 93 İsrailli öğretmeni sekiz haftalık bir YZ mesleki gelişim programı boyunca izledi ve öğretmenlerin kendi yansıtıcı [[regulation]] ve eleştirel YZ okuryazarlığının, [[learners]] için tasarladıkları [[agency]] ve yetenek odaklı tasarımlara aracılık ettiği iki katmanlı bir ilişki önerdi.
+
 ### Öğretmen adayı eğitimi
 
 Öğretmen adayı (ilk) eğitimi, gelecekteki öğretmenleri sertifikasyon programları sırasında hazırlar. Bu daldaki YZ araştırması şunları içerir:
 
 - **AI-TPACK ve akıllı-TPACK hazırbulunuşu.** Araçlar ve çerçeveler, öğretmen adaylarının YZ bütünleştirme hazırbulunuşunu ölçer ve inşa eder; [[tpack]] çerçevesini bir YZ/etik boyutuyla genişletir.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
 - **Kabul profilleri ve bir kullanım kolaylığı/niyet paradoksu.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen ve ark. (2026)]], 128 öğretmen adayını dört ChatGPT kabul grubuna ayırdı: Direnen Şüpheciler (%14,06) yüksek algılanan kullanım kolaylığı ama çok düşük davranışsal niyet bildirdi; bu nedenle yalnızca işlevsel beceri eğitimi onları dönüştürmez.
+
+- **Tasarım girdisi olarak yerel bağlam.** İsviçreli öğretmen adayları toplumsal yararlılık ve içsel motivleri Çinli akranlarından daha yüksek derecelendirdi; Çinli akranlar ise daha yüksek dijital öğretme yeterliği ve YZ coşkusu bildirdi ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno ve ark. (2026)]]). Hazırlık, giriş noktasını her ortamın [[motivation|motivasyonel]] profiline göre ayarlamalıdır.
 - **Uygulamalar ve faydalar.** 55 çalışmanın bir kapsam incelemesi, YZ'nin öğretmen adaylarının öğretim tasarımını, alan öğretimini, pratik öğretme becerilerini, değerlendirmeyi, yansıtıcı uygulamayı, eleştirel düşünmeyi, teknoloji bütünleşmesini ve pedagojik yeniliği güçlendirdiğini gösterir.([[harnessing-ai-preservice-teachers-scoping-2026]])
 
 - **İskeleye bağlanmamış üretici YZ erişimi, hiç üretici YZ'in altında puanlandı.** 52 öğretmen adayıyla 11 haftalık yarı-deneysel bir çalışmada, iskeleye bağlanmamış üretici YZ sınıfı, hiç üretici YZ içermeyen sınıftan daha düşük derecelendirme ölçeğine göre ders planı üretti (düzeltilmiş 86,54'e karşı 81,87, F = 8.348, p = 0,006, η² = 0,146), [[self-regulated-learning]] veya eleştirel düşünmede grup farkı olmadan ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang ve ark. (2026)]]).
+
+- **Yapılandırılmış özel GPT döngüleri dört bilişsel ortak rolü üretti.** Bir dönemlik tasarım temelli bir çalışmada, 14 öğretmen adayı Dijital Teknolojiler öğretmeni, İstem–Yansıt–İyileştir döngüleri aracılığıyla LMS ile bütünleşik kişiselleştirilmiş GPT ajanlarını kullandı; uzmanlık arttıkça kavramsal özel öğretmen, ortak tasarımcı, yansıtıcı ayna ve bilişsel zorlayıcı rollerini üstlendiler ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]) ve nihai ürünlerin %82’si içerik tanımlayıcılarını, değerlendirme görevlerini ve başarı ölçütlerini eşledi.
 - **[[educational-robotics|Eğitim robotiği]] ve ML.** İlk öğretmen eğitimi, gelecekteki öğretmenlerde [[computational-thinking|hesapsal düşünmeyi]] inşa etmek için kodlama, robotik ve [[machine-learning]] etkinliklerini (örn. micro:bit) gömer.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Özgün değerlendirme ve üst biliş.** YZ aracılı değerlendirme modelleri (örn. AAIWA), öğretmen adayı programlarında [[authentic-assessment|özgün derecelendirme ölçeğine dayalı değerlendirmeyi]], duruma duyarlı [[ai-feedback-quality|YZ geri bildirimini]] ve [[metacognition|üst bilişsel yansıtmayı]] bütünleştirir.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
-- **[[stem-education|Fen eğitiminde]] YZ destekli sorgulama.** Türkiye'de 48 öğretmen adayı fen öğretmeniyle bir yarı-deney ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]), problem ve tasarım temelli öğrenmeyi fotosentez ve solunum üzerine 8 haftalık bir YZ destekli yönlendirilmiş sorgulama programına bütünleştirdi. İki [[biology-education|biyolojik]] sürecin kavramsal anlayışında anlamlı kazanımlar üretti, ama YZ okuryazarlığı veya kendi algıladığı [[computational-thinking|hesapsal düşünme]] üzerinde *hiç* anlamlı etki göstermedi — YZ-İBL'nin, açık ve hedefli tasarım gerektiren YZ/BH yetkinliklerini otomatik olarak inşa etmeden öğretmen adaylarının alan bilgisini derinleştirebileceğinin bir hatırlatması.
+- **[[science-education|Fen eğitiminde]] YZ destekli sorgulama.** Türkiye'de 48 öğretmen adayı fen öğretmeniyle bir yarı-deney ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]), problem ve tasarım temelli öğrenmeyi fotosentez ve solunum üzerine 8 haftalık bir YZ destekli yönlendirilmiş sorgulama programına bütünleştirdi. İki [[biology-education|biyolojik]] sürecin kavramsal anlayışında anlamlı kazanımlar üretti, ama YZ okuryazarlığı veya kendi algıladığı [[computational-thinking|hesapsal düşünme]] üzerinde *hiç* anlamlı etki göstermedi — YZ-İBL'nin, açık ve hedefli tasarım gerektiren YZ/BH yetkinliklerini otomatik olarak inşa etmeden öğretmen adaylarının alan bilgisini derinleştirebileceğinin bir hatırlatması.
 - **Yapılandırmacı öğretim tasarımı için [[generative-ai|üretici YZ]].** [[sahab-model-genai-constructivist-id-2026|SAHAB modeli]], üretici YZ'nin öğretmenleri [[constructivist]] öğretim tasarlamada güçlendirdiği, büyük kazanımlı (d = 1,18) yarı-deneysel bir mesleki gelişim müdahalesidir. Üretici YZ'nin, [[learning-design|öğretim tasarımını]] hem öğretmen adayları hem de çalışan öğretmenler için [[scaffolding|iskeleye bağlayabileceğini]] gösterir — yalnızca içerik sunmak değil, öğrenci merkezli öğrenme etkinliklerinin *tasarımını* desteklemek.
 - **Lisansüstü [[math-education|matematik]] M.Ed. öğrencileri için akıllı sınıf eğitimi.** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao ve Wang (2026)]], bir matematik M.Ed. kursunun akıllı eğitim [[ai-technologies|teknolojileriyle]] ([[automated-assessment|otomatik puanlama]], kişiselleştirilmiş tavsiyeler, çok YZ geri bildirim) ders öncesi, içi ve sonrası aşamalar boyunca nasıl güçlendirilebileceğini gösterir; öğretimsel hedef tasarımı yeterliliğinde istatistiksel olarak anlamlı kazanımlar sağlar. Aktarılabilir D-T-E Modeli (Disipliner Talep–Teknolojik Güçlendirme–Değerlendirme Döngüsü), öğretim eğitimcilerine akıllı eğitimi lisansüstü öğretmen hazırlığına bütünleştirmek için [[discipline-specific-aied|disipline özgü]] bir çerçeve sunar.
 - **İzin veren bir politika altında benimseme, anketlerin düşündüğünden incedir ve değerlendirme okuryazarlığı aktarılmaz.** [[zou-is-this-a-trap-student-teachers-genai-2026|Zou ve ark. (2026)]], üretici YZ'nin değerlendirmede açıkça izinli olduğu üç Hong Kong öğretmen eğitimi kursundaki 85 öğretmen adayını anketledi: %62,4'ü (53) onu hiç kullanmamayı seçti ve benimseyenlerin kullanımı yüzeysel ve düzelticiydi (düzeltme okuması %43,8, açıklık denetimleri %34,4, metin üretimi %18,8, beyin fırtınası %12,5). Haksız yere intihalle suçlanma korkusu (kullanmayanların %41,5'i) ve tek başına çalışma tercihi (%77,4), eksik becerilerden (%13,2) ağır bastı ve on bir görüşmeci dokuzu izin veren politikayı olası bir "tuzak" olarak okudu — öğretmen adaylarının YZ'ye izin veren çalışmalara yalnızca araç hazırbulunuşu değil [[academic-integrity|dürüstlük]] kaygısı da getirdiğinin kanıtı.
 - **Sınıf YZ politika yazımı, öğretmen adayı düşüncesine bir mercek.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]], bir ortaöğretim İngilizce hazırlık programının bitirme yılındaki 27 öğretmen adayı İngilizce öğretmeninden, devlet düzeyinde YZ rehberliği olmayan bir eyalette kendi 6–12 sınıflarında kullanacakları [[educational-policy-ai|YZ politikalarını]] yazmasını istedi. 27'sinin 26'sı bazı YZ kullanımlarına izin verdi, neredeyse her zaman öğretmenin belirlediği görevler, zamanlar ve yerlerle sınırlı tuttu ve yalnızca biri, emek uygulamaları ve telifle bağlantılı etik gerekçelerle onu doğrudan yasakladı; 22'si fikir üretmek için YZ'ye izin verirken, 22'si cümle, paragraf veya ödev yazmakta YZ kullanımını yasakladı veya belirsiz bıraktı ve eşlik eden yansıtmalar, pedagojik bağlılık ile [[generative-ai|YZ]]'yi bütünleştirme duyulan yükümlülüğü arasında müzakere olarak okunuyor. Öğretmen adaylarından politika yazmalarını istemek — YZ'yi soyut biçimde tartışmak yerine — onların felsefelerini, inançlarını ve müfredat varsayımlarını ortaya çıkardı; bu, politika yazımını yöntem dersleri için yüksek değerli bir etkinlik yapar.
 
 - **Politika uygulamayı yönetmez.** Bir ABD öğretmen eğitimi programından dört dönemlik anket verisi, kurumlar YZ tespit yazılımını değerlendirirken bile değerlendirme hazırlığı için üretici YZ kullanımının %57'den %83'e ve çalışmak için %44'ten %76'ya yükseldiğini, dalgalar boyunca etik belirsizliğin arttığını gösterir ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker ve ark. (2026)]]).
+
+- **Hiçbir öğretmen adayı çalışması öğrenci öğrenmesini ölçmedi.** Yalnızca yedi kaynağı kapsayabilen bir inceleme, etiğin kabul edildiğini ama nadiren öğretildiğini veya değerlendirildiğini ve öğretmen adaylarının YZ’yi eleştirme konusunda aşırı güvenli olduğunu buldu ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
 
 ### Çalışan öğretmenlerin mesleki gelişimi
 
@@ -94,6 +102,15 @@ Bilgi tabanının matematik için çerçeve güdümlü üretici YZ mesleki geli�
 - **Devredilebilir işi devredilemez işten ayırın.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]], 23 lisans öğrencisinin çoğu öğretmen adayı, sınır çalışmasını sürdürse de erkenden devretse de karşılaştırılabilir ürünler ürettiğini ve yazarlık üzerine "hile gerginliği"nin en çok sınır çalışması yapanlar arasında güçlü olduğunu buldu — bu nedenle öğretim amacı, hangi yorumlayıcı işin devredilmeyeceğini yargılamaktır.
 - **Sınıf politika yazımını çekirdek bir öğretmen eğitimi etkinliği yapın ve belirsizliği bir politika kusuru olarak ele alın.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]], öğretmen adaylarından kendi sınıf YZ politikalarını yazmalarını istemenin, yazmanın ne için olduğuna dair söylemsel bir dünya inşa işlevi gördüğünü — soyut tartışmanın açmadığı, ortaya çıkan inançlara bir pencere olduğunu — buldu. YZ yazmayı-ürün olarak yazmayı-süreç olarak ayırdığından, programlar öğretmenlere beyin fırtınası, taslak yazma, revizyon ve düzenleme boyunca düşünmenin, öğrenmenin ve değerin gerçekten nerede yaşadığını bulmada yardımcı olmalıdır; düşünceyi yalnızca nihai metinde konumlamak yerine, ve inançlarını işletilebilir, tek anlamlı kurallara çevirmede [[ai-literacy]] öğretimiyle desteklenmelidirler: YZ üretimi metni yasaklarken aynı zamanda öğrencileri gönderdikleri YZ üretimi içerikten sorumlu tutmak gibi çelişkiler, öğrencileri uyum sağlayamaz durumda bırakır.
 
+- **Güvenden çok yeteneği ölçün.** [[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]], öz bildirimli TPACK ile algılanan davranışsal kontrolün her ikisinin de genel güveni işaret edebileceğini savunur ve hazırbulunuşu yalnızca öz bildirimle değil ders tasarımı görevleri ve istek metni değerlendirme görevleriyle puanlamayı önerir; AI-TPACK yeteneğini tutum ve niyetin üstüne yerleştirir.
+- **Öğretmenlere YZ politikasının arkasındaki birincil araştırmayı okumayı öğretin.** Üretim yerine araştırma tüketimine yönelik altı haftalık bir lisansüstü araştırma yöntemleri kursu: bir öğretmen eleştirel değerlendirme çerçevesini ilçe tarafından zorunlu kılınan bir müfredata uyguladı ve analizi müdürüne sundu, birkaçı da kendi öğrencileriyle Sokratik sorgulamayı benimsedi ([[packard-thinking-partner-framework-adult-learners-2026|Packard ve ark. (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Öğretmen adaylarında YZ kabulü tek bir tutumdur.”** **128 öğretmen adayı** dört ChatGPT kabul grubuna ayrıldı; bunlar arasında **Direnen Şüpheciler (%14,06) yüksek algılanan kullanım kolaylığı ama çok düşük davranışsal** niyet bildirdi. Bu grupta kullanım kolaylığı ile niyet birbirinden ayrıldı, bu nedenle kullanılabilirlik odaklı bir müdahale onları değiştirmeden bırakırdı.
+- **“YZ, öğretmen adaylarına esas olarak içerik bilgisinde yardım eder.”** **55 çalışmanın bir kapsam incelemesi**, YZ’nin **öğretim tasarımını, alan öğretimini ve pratik öğretmeyi** güçlendirdiğini bulur; yani içerik uzmanlığını değil, tasarım ve uygulama kapasitelerini.
+- **“55 çalışmanın bir kapsam incelemesi yararı kanıtlar.”** İnceleme, alan genelinde bildirilenleri belgeler. Bildirilen güçlendirmenin genişliği literatürün uzlaşısına dair bir iddiadır ve bir kapsam incelemesindeki 55 çalışma havuzlanmış bir etki değildir.
+
 ## Bağlı kavramlar
 
 - [[teacher-role]]
@@ -127,10 +144,7 @@ Bilgi tabanının matematik için çerçeve güdümlü üretici YZ mesleki geli�
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — İlk öğretmen eğitiminde micro:bit robotiği
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Öğretmen adayı eğitiminde YZ aracılı özgün değerlendirme
 - [[science-educators-ai-literacy-postqualification-2026]] — Fen eğitimcilerinin YZ okuryazarlığı ve nitelik sonrası programları
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Eğitmenler kurumsal YZ becerisi fikir birliği ve değerlendirme boşlukları bildirir
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Karma düzenlemelerde ilişkisel/üst düzey iş için öğretmenler esastır
 - [[context-based-ai-secondary-chemistry-2026]] — Ortaöğretim kimyasında bağlam temelli 7E + YZ öğretimi
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — ChatGPT ile güçlendirilmiş biçimlendirici değerlendirmede eğitmen ve YZ rolleri
 - [[educasim-cs1-instructional-practice]] — EducaSim: CS1 öğretim uygulaması için etkileşimli taklitçiler
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Öğretmen adayı ChatGPT kabul profilleri
 - [[motivation-shape-future-education-ai-switzerland-china]] — YZ ile eğitimin geleceğini şekillendirme motivasyonu
@@ -138,8 +152,6 @@ Bilgi tabanının matematik için çerçeve güdümlü üretici YZ mesleki geli�
 - [[reflective-triangle-model-teacher-ai-2026]] — Yansıtıcı Üçgen Model: bilişsel aracı olarak YZ
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB modeli: üretici YZ yapılandırmacı öğretim tasarımı
 - [[riandi-teacher-ai-green-energy-education-2026]] — Yeşil enerji eğitiminde YZ bütünleşmesinde öğretmen katılımı (Riandi ve ark. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Üretici YZ ile sorumlu biçimde öğretmeyi öğrenmede yararlılık-değer müdahalesi etkileri (Boos, Eder & Lachner 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Öğrenme tasarımında üretici YZ etkileşimleri sırasında öğretmen adayı failliği (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Öğretmen eğitiminde boyuna üretici YZ kullanımı, etik ve politika (Parker ve ark. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Matematikte M.Ed. öğretim tasarımı yeterliliğini iyileştiren akıllı sınıf modeli ve D-T-E döngüsü (Zhu ve ark. 2026)
 - [[li-language-educators-genai-review-2026]] — Üretici YZ ile dil eğitimcilerinin uygulamaları ve gelişimi
@@ -150,3 +162,8 @@ Bilgi tabanının matematik için çerçeve güdümlü üretici YZ mesleki geli�
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — bir dönem boyunca süren okuryazarlık etnografisinde YZ sınırları kuran öğretmen adayları
 
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — İskeleye bağlanmamış üretici YZ, öğretmen adaylarının ders planı kalitesini hiç üretici YZ içermeyen sınıfın altına düşürdü
+
+- [[capability-decision-model-teacher-readiness-2026]] — Measure capability rather than confidence
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — A heutagogical dual-layer model linking teachers' own reflective regulation to learner agency
+- [[packard-thinking-partner-framework-adult-learners-2026]] — K-12 teachers learning to read primary AI research and contest district mandates
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — AI in teacher education: pedagogical frameworks, empirical evidence and ethics, 2020-2026 (Shukla 2026)

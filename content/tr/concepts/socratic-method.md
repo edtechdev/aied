@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ Sokratik yöntem, en eski pedagojik tekniklerden biridir — antik Atina’da So
 
 Sokratik ve yönlendirici geri bildirim farklı şeyleri değiştirdi: Sokratik geri bildirim anlama izlemesini ve görev yönelmesini yükseltirken, yönlendirici geri bildirim temel özelliklerin önceliklendirilmesinde daha yüksek puan aldı ve yalnızca yönlendirici koşul özelleştirilmiş bir ajandan kazanç sağladı ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng’ambi ve van der Merwe (2026)]], Sokratik sorgulamanın aynı dokuzuncu sınıf matematik dersinde hem işlediğini hem başarısız olduğunu yakalar: bir öğrenen bir hipotezle geldiğinde öğretmen onu alt sorulara ayırmış, ancak yapılandırılmış bir Pisagor görevinde yalnızca yeniden ifade etmiş ve konu dışına kaymıştır.
+
 ## YZ özel öğretiminde nasıl işler
 
 Yanıt veren doğrudan öğretim YZ özel öğretmenlerinin aksine, Sokratik YZ özel öğretmenleri şu özelliklere sahip soru dizileri kullanır:
@@ -48,6 +50,7 @@ Yanıt veren doğrudan öğretim YZ özel öğretmenlerinin aksine, Sokratik YZ 
 - **Kavrayışa yönlendirir** — yanıtı ele vermeden
 
 Sokratik yaklaşım, [[llm-training-and-fine-tuning|EduQwen]] ilkesini doğrudan somutlaştırır: **“cevap verme”den çok “yönlendirme”yi ödüllendirir.** Ancak gerçek zamanlı Sokratik kalibrasyon, kâğıt üzerindeki kıyaslama pedagojisinden daha zordur: EduQwen, çoktan seçmeli bir [[benchmark]] doğru yönlendirme için optimize edilirken, canlı bir Sokratik özel öğretmeni *ne zaman* yönlendireceğine, *ne zaman* ipucu vereceğine ve *ne zaman* yanıt vereceğine — öğrencinin gerçek zamanlı sinyallerine dayanarak — karar vermelidir. [[affective-tutoring|Affective state]] kritik bir dengeleyicidir: hüsrana uğramış bir öğrenci, Sokratik kipe dönmeden önce kısa bir doğrudan yanıta ihtiyaç duyabilir.
+ Daha katı bir varyant öğretmeyi tamamen kaldırır: yalnızca yoklayan bir giriş fiziği ajanı, öğrencilerden doğru bir öngörüyü değiştirilmiş tek bir değişkene karşı savunmalarını ister (mağara saptaması) ve doğru yanıttan sonraki iletiyi yanlış yanıttan sonraki iletiden ayırt edilemez tutar ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
 
 ## Etkililiğe dair kanıtlar
 
@@ -115,6 +118,12 @@ Sokratik yöntem, [[scaffolding]] (tam yeterli destek sağlamaya), verimli zorla
 
 - **Akıl yürütmeyi kışkırtmak için yanıt vermeyi saklamak.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]], LLM özel öğretmenlerini [[productive-failure|productive failure]] pedagojisini izleyecek biçimde — çözümleri saklayarak ve birden fazla deneme isteyerek — tasarlar; kesinlikle gerekmedikçe yardım etmeyen Sokratik tarzda bir reddetmedir. [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]], yapıcı bilişsel sürtünmeyi koruyan Sokratik ve Karşıt YZ mimarileri önermektedir.
 
+## Yaygın yanlış anlamalar
+
+- **“Sokratik sorgulama yalnızca yanıtların yokluğudur.”** Büyük kayıtlı bir giriş mekaniği dersinde (**150 birinci sınıf [[stem-education|STEM]] öğrencisi**) konuşlandırılan özel bir Sokratik YZ sohbet robotu **ölçülebilir** kazanımlar üretmiştir ve tasarım yapılandırılmış sorgulamadır: sessiz bir model değil, kısıtlanmış bir etkileşim.
+- **“Etki, etkileşimin aşağısında bir sonuçtur.”** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna ve Maes, 2026)]], kısıtlanmamış bir ChatGPT tarzı botu **Sokratik** bir botla karşılaştıran **50 katılımcılı rastgele bir EEG çalışmasıdır**; mekanizmayı sonuçlardan çıkarsamak yerine doğrudan ölçer.
+- **“Kısıtlar, ortadan kaldırılması gereken sorundur.”** Kısıt lehine en güçlü nedensel destek ters yönü gösterir: bir K-12 derlemesinde, genel amaçlı bir sohbet robotu kullanan lise öğrencileri **kapalı kitap finallerinde kısıtlı bir araç kullanan akranlarından yaklaşık %17 daha kötü** puan almıştır. Zararlı koşul, kısıtlanmamış araçtı.
+
 ## Bağlı kavramlar
 
 - [[pedagogical-patterns]] — Sorgulama dizisi ve çelişkili deneme kanıtları
@@ -139,6 +148,8 @@ Sokratik yöntem, [[scaffolding]] (tam yeterli destek sağlamaya), verimli zorla
 - [[productive-failure]] — Productive Failure
 
 ## Bağlı makaleler
+
+- [[socratic-probing-agent-physics-cave-detection-2026]] — Özel ders vermeyen bir YZ ajanı tasarlamak: giriş fiziğinde Sokratik yoklama için tasarım kuralları
 - [[agent-type-feedback-style-self-directed-learning-2026]] — Socratic versus directive feedback styles in a 2 x 2 postgraduate design study
 
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training

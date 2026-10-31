@@ -6,7 +6,7 @@ confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,9 @@ ai_assist:
 ### Eğitimde NLP’nin işlevi
 
 Eğitimde doğal dil işleme, hesaplama yöntemlerini öğretme ve öğrenme diline — öğrenci denemelerine, yanıtlara, tartışma gönderilerine, geri bildirime ve öğretim metnine — uygular. [[llm|LLM’ler]], otomatik olarak çözümlenebilecekleri belirgin biçimde genişletmiştir; önceden ölçekte pratik olmayan öğrenci dilinin ayrıntılı anlaşılmasını mümkün kılmıştır.
+
+
+Gömme modelleri, öğrenci metnini öğretilen yapıya göre değil yüzey biçimine göre de düzenleyebilir. Sentetik bir Carnot motoru kümesinde aynı hat, ifadeleri fizik yerine sözcük seçimine göre gruplandırdı; [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber ve Kortemeyer (2026)]] bunu acemi benzeri bir temsil olarak okur ve kümelemeyi puanlama için değil keşif için bir araç yapar.
 
 ### Bilgi tabanında belgelenen uygulamalar
 
@@ -75,6 +78,12 @@ Eğitimde NLP, hem öğrenen dilinin çözümlenmesini ([[student-modeling]], [[
 
 Model sıkıştırma aynı araca takımının parçasıdır: iki aşamalı bir hat, uydurulmuş bir kara kutu tahmincisini ve sonradan yorumunu küçük bir açık ağırlıklı modele damıtır; böylece 2B parametreli bir “mentee” (öğrenci model), sıradan bir dizüstü bilgisayarda çevrimdışı hem bir tahmin hem de doğal dilde bir açıklama döndürür ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
+## Yaygın yanlış anlamalar
+
+- **“Anlamsal benzerlik müfredat uyumunu tarayabilir.”** **3.837 diş hekimliği hedef–özet çiftini** tarayan gömme temelli erişim artı bir doğal dil çıkarımı denetimi, maddelerin **%22,9’unu** uyumlu saydı; anlamsal benzerlik uyum için **zayıf bir sinyaldir**. Akıcı bir konusal eşleşme ile gerçek bir öğrenme hedefi eşleşmesi farklı ilişkilerdir.
+- **“Sözce düzeyinde sınıflandırma doğal birimdir.”** **Dersin bütününü modellemek sözce düzeyinde sınıflandırmayı geçer**: izole sözceler yerine tüm deşifre metinlerini puanlamak **akıl yürütme zinciri tespitini 14,2 yüzde puanı yükseltti**. Ders boyunca bağlam, herhangi bir tek turun yok ettiği bilgiyi taşır.
+- **“Değerlendirme yorumları üzerinde NLP’yi ölçeklemek etki üretir.”** Açık uçlu öğrenci öğretim değerlendirmesine NLP uygulayan **421 çalışmanın** (2015-2026) PRISMA-ScR kapsam incelemesi ve kanıt haritası, ölçeklemenin **kullanıma ulaşmadan** gerçekleştiğini buldu. Yöntem çıktısının hacmi benimseme değildir ve boşluk modelleme değil konuşlandırma adımıdır.
+
 ## Bağlı kavramlar
 
 - [[intelligent-tutoring]]
@@ -109,3 +118,5 @@ Model sıkıştırma aynı araca takımının parçasıdır: iki aşamalı bir h
 - [[srjudge-knowledge-concept-tagging-2026]] — SRJudge: selective-reasoning pipeline for fine-grained knowledge concept tagging
 - [[nlp-reading-lists-dental-education-2026]] — Natural Language Processing for Aligning Readings with Learning Objectives and Assessing Topic Balance in Dental Education
 - [[hans-handwritten-answer-sheet-parsing-2026]] — HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing
+
+- [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding clusters that organize by wording rather than physics

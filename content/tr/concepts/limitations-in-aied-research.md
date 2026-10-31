@@ -49,6 +49,7 @@ Bilgi tabanının [[research-methods-aied|araştırma yöntemleri]] sayfası her
 
 - **Erişim tasarımı, bir sentezin manşet rakamlarını belirler.** 195 öğretmen eğitimi çalışmasının kapsam derlemesinde dijital yeterlilik ve [[tpack|TPACK]] açık arama tanımlayıcılarıyken öğretim tasarımı ve değerlendirmenin karşılığı yoktu; dolayısıyla bildirilen %46,5 ve %1,9 alanı değil erişilen derlemi tanımlamaktadır ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández ve ark. (2026)]]).
 - **Küçük örneklem büyüklükleri.** Pek çok AIED çalışması yetersiz güçtedir — anlamlı etkileri güvenilir biçimde tespit etmek veya onlardan bazen çıkarılan güçlü iddiaları desteklemek için çok az katılımcı.
+- **Veri çoğaltma manşet metriği üretebilir.** Eğitim bölümünde 83 öğrencinin çalışmalarını barındıran bir otomatik kompozisyon puanlayıcısında, üretilen düzey-1 yanıtlar (şablonlar, kırpma, anahtar sözcük çıkarma) Odak uyumunu 0,028'lik bir taban çizgisinden +0,346 kare ağırlıklı kappa kadar yükseltmiştir; böylece en güçlü sıralı sinyal, hiçbir öğrencinin yazmadığı metne dayanmıştır ([[automated-essay-scoring-critical-thinking-physics-2026|Firdausi ve ark. (2026)]]).
 - **Uç nokta puanları incelenen şeyi gizleyebilir.** 103 [[higher-ed|yükseköğretim]] çalışmasının bir PRISMA derlemesinde %56’sı iskelelemeye veya doğrulamaya koşullu kazanımlar bildirmiş ve sıfır farklı not farklılıkları çoğu zaman süreçteki gerçek değişikliklere eşlik etmiştir — daha fazla hata ayıklama, daha fazla denetim döngüsü; dolayısıyla notlar tek başına [[generative-ai|GenAI]] uygulamayı güçlendirip güçlendirmediğini veya onu içi boşaltıp boşaltmadığını söyleyemez ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi ve Samaha (2026)]]).
 
 - **Doğrulama tasarımı manşet rakamını üretebilir.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara ve Halloluwa (2026)]], EEG temelli aşinalık üzerinde on beş modeli kıyaslamış ve standart katmanlı çapraz doğrulamanın zamansal sızıntıya izin verdiğini, 0,9853 F1’e kadar bildirdiğini göstermiştir; deney bağımsız Group K-Fold doğrulaması ise zirveyi 0,6038 F1’e düşürür — hâlâ şansın üzerinde, ancak alıntılanan sonuçtan çok uzak.
@@ -60,6 +61,8 @@ Bilgi tabanının [[research-methods-aied|araştırma yöntemleri]] sayfası her
 - **Her veri kümesi içinde standardizasyon, yayılımın yanlış ifadesini gizleyebilir.** Sentetik eğitim kohortları kendi dağılımlarına göre standardize edildiğinde, haftalık yapılarının gerçek kohortların kinden 2,6 ila 4,9 kat daha az değiştiği gerçeği bildirilen istatistikler için görünmez hale gelmiştir — yazarların deyişiyle, varsayımsal bir kaygı değil rutin ön işleme ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026)]]).
 
 - **Model tarafından üretilen etiketler gerçek değildir.** Bir sistemi eğiten veya değerlendiren etiketlerin kendileri dil modelleri tarafından üretildiği yerlerde, etiketleyenler arası uyum geçerliliği kuramaz: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado ve ark. (2026)]], iddia etiketlemelerini insan altın etiketlerine karşı hiç doğrulamamıştır ve yayımladıkları 49 kodlayıcı sınıflandırıcı bu kökeni miras alır; uygulamaların önemli boyutlarda farklılaştığı yerlerde geçerli olmayabilir. Şemaları ayrıca uzman etiketlemeli veriler üzerinde eğitilmiş ince ayarlı sınıflandırıcıdan belirgin biçimde daha düşük performans göstermiştir (makro-F1 0,673’e karşılık 0,76); bu da yüksek güven gerektiğinde uzman etiketli derlemleri değerli bırakmaktadır.
+
+- **Kanıt tabanının kendisi eşitsiz dağılmıştır.** 407 teknoloji destekli biçimlendirici değerlendirme çalışmasının bir kapsam derlemesi yalnızca Web of Science ve Scopus'a dayanmıştır. Ayrıca 61 kaydı dil ölçütleriyle dışlamıştır; dolayısıyla alanın bildirdiği coğrafi dengesizlik kısmen hangi platformların dizinlendiğini yansıtıyor olabilir ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 
 ## Hız sorunu: YZ, bulgulardan daha hızlı evrimleşir
 
@@ -107,6 +110,22 @@ Ek bir pratik sınırlılık, araştırmayı [[teacher-role|öğretime]] ve öğ
 
 Bu bilgi tabanının amacı, o boşluğu kapatmaya yardımcı olmaktır — açık erişimli bulguları yapılandırılmış, erişilebilir özetler hâlinde derleyerek, ilgili çalışmaları [[ai-education|kavram sayfaları]] üzerinden bağlayarak ve okuyucuların tartması gereken sınırlılıkları işaretleyerek eğitimde YZ araştırmalarını takip etmeyi, yorumlamayı ve uygulamayı kolaylaştırmak; öğretim ve öğretim tasarımında kanıta dayalı uygulamayı desteklemek ve bunu yaparken yeni araştırma ve geliştirmeyi besleyebilecek boşlukları ve soruları da gün yüzüne çıkarmak. Araştırmanın sınırlarını anlamak bu nedenle kendi başına bir amaç değildir: uygulayıcıların bulguları uygun biçimde uygulamasını ve araştırmacıların uygulamaya daha iyi hizmet eden daha güçlü çalışmalar tasarlamasını mümkün kılan şeydir.
 
+## Bilinmeye değer iki denetim tuzağı
+
+İki belirli raporlama uygulaması bir sentezi şişirir ya da çarpıtır ve ikisi de varsayımsal değil, yayımlanmış kayıtta görülebilirdir.
+
+**Heterojenlik rakamı modele bağlıdır ve model nadiren alıntılanır.** Bir incelemenin heterojenliği **sabit etkiler modelinde I² = %82,98, rastgele etkiler modelinde I² = %15,75** olarak alıntılanmaktadır. Bunlar aynı veriyi tanımlar. Modeli olmadan tek bir heterojenlik sayısını alan okura, yorumu eklenmemiş teknik bir iddia verilmiş olur; "varyansın çoğu açıklanmamıştır" ile "varyansın azı açıklanmamıştır" arasındaki fark, alanı gözden çıkarmak ile ona güvenmek arasındaki farktır.
+
+**Manşet yüzde, arama terimlerinin bir yapay ürünü olabilir.** 195 öğretmen eğitimi çalışmasının kapsam taramasında dijital yeterlilik ve [[tpack|TPACK]] açık arama tanımlayıcılarıydı, öğretim tasarımı ve değerlendirmenin ise eşdeğeri yoktu; dolayısıyla bildirilen **%46,5 ve %1,9**, alanı tanımlamadan önce erişim stratejisini tanımlar. Bir yaygınlık iddiası, ancak onu üreten sorgu kadar anlamlıdır.
+
+**Ve kimsenin belirtmediği sayı temel orandır.** Buradaki yöntemsel sınırlar izlenimsel değil, ölçülebilirdir: YZ ile eleştirel düşünme üzerine 80 insan-bilgisayar etkileşimi çalışmasının eleştirel incelemesinde **42’si (%52) hiç kontrol grubu çalıştırmamış**, geri kalanların çoğu öz bildirime dayanmıştır. Bir alanın olumlu bulgularının yarısından fazlası, YZ’nin etkisini olağan etkinlikten ayıramayan tasarımlardan geliyorsa, herhangi bir tek bulguya ilişkin uygun önsel, geçici kabul değil kuşkuculuktur.
+
+## Yaygın yanlış anlamalar
+
+- **“Sınırlılık bölümleri kalıplaşmış metindir.”** Yöntemsel sınırlar **izlenimsel değil, ölçülebilirdir**: YZ ile eleştirel düşünme üzerine **80 insan-bilgisayar etkileşimi çalışmasının** eleştirel incelemesinde **42’si (%52) hiç kontrol grubu çalıştırmamıştır**. Sınırı eyleme dönüştürülebilir kılan şey kesin bir sayımdır.
+- **“Heterojenlik, alıntılayabileceğiniz tek bir sayıdır.”** Aynı inceleme bir raporlama tehlikesini gösterir: heterojenlik **sabit etkiler modelinde I² = %82,98, rastgele etkiler modelinde I² = %15,75** olarak alıntılanmaktadır. Aynı veri, seçilen modele göre dokuz puanlık ya da iki puanlık bir öykü üretir; dolayısıyla modeli belirtilmemiş bir I² yorumlanamaz.
+- **“Bildirilen büyük bir etki, güvenilecek sayıdır.”** **Tek bir kurumdaki tek bir derste 30 öğrenciden** çıkan bir etki gibi manşetler, kırılgan iddianın yaygın biçimidir ve kontrolsüz çalışmaların sayısı bu kırılganlığın ne sıklıkla bildirilmediğini gösterir.
+
 ## Bağlı kavramlar
 
 - [[interpreting-and-applying-aied-research]]
@@ -150,3 +169,4 @@ Bu bilgi tabanının amacı, o boşluğu kapatmaya yardımcı olmaktır — aç�
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Arama dizesi tasarımının bildirilen frekansları şekillendirdiği 195 öğretmen eğitimi çalışmasının kapsam derlemesi
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Uluslararası K-12 öğretmen anketi: makine çevirisi maddeler, tek maddelik kaygı ölçüleri, değişmezlik testi yok
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 GenAI yükseköğretim çalışmasının sistematik derlemesi: %56 koşullu kazanım, süreç değişimini maskeleyen notlar (Hawi & Samaha 2026)
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — Veri çoğaltma manşet metriği üretebilir

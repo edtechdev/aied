@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,9 @@ ai_assist:
 
 Eğitimde YZ benimsemesi salt bir sınıf kararı değildir; kurumsal bir karardır da. Yöneticiler — rektör yardımcıları, dekanlar, baş bilgi teknolojileri sorumluları ve kurumsal liderler — öğretim üyelerinin ve öğrencilerin YZ kullandığı koşulları belirler; pedagojik fırsatı yönetişim, kaynak sağlama ve riskle dengeleyerek.
 
+
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]], tam olarak yöneticilerin karşılaştığı karar için taşınabilir bir tedarik tarama listesi sunar: bir YZ ürününü yayımlamadan önce hangi problemin çözüldüğünü, yönetişim kapasitesinin var olup olmadığını, kurumun şeffaf davranıp davranmadığını ve yayımın öğrenciler için değer yaratıp yaratmadığını sorun; seçimi bir tedarik işlemi değil, öğrencilerin hakları, seçimleri, finansları ve gelecekleri hakkında bir seçim olarak çerçeveler.
+
 ### Yönetici görüşü araştırmada nasıl görünür
 
 - **Politika ve kurumsal karar alma:** [[ai-uk-higher-education-policy-2026|Birleşik Krallık yükseköğretim YZ politika araştırması]], YZ tümleşmesinin hızlandığını ama parçalı olduğunu, üst düzey politika hırsı ile kurumsal uygulama arasında boşluk bulunduğunu ortaya koyar — net işletimsel rehberlik olmadan strateji belirleyen yöneticiler için yinelenen bir tema.
@@ -50,6 +53,22 @@ Eğitimde YZ benimsemesi salt bir sınıf kararı değildir; kurumsal bir karard
 ### Bağlantılar
 
 Yönetici görüşü [[educational-policy-ai]] (politika oluşumu), [[governance]] ve [[regulation]] (yönetişim), [[edtech-platform]] (tedarik ve altyapı), [[learning-analytics]] (kurumsal veri) ve [[higher-ed]] ile bağlantılıdır. Yönetici kararları, bilgi tabanının başka yerlerinde ele alınan [[educational-development]], [[teacher-role]] ve [[ai-literacy]] çalışmasını olanaklı kılar veya kısıtlar.
+
+## Yaygın yanlış anlamalar
+
+- **“Stratejik öncelik, stratejik kapasite anlamına gelir.”** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]], **kurumların yalnızca %7'sinin üst düzey YZ liderlik rolleri oluşturduğunu**, buna karşın **%49'unun YZ'yi stratejik bir öncelik olarak ele aldığını** buldu. Boşluk kayıtsızlık değildir: niyet ilan edilmiş, onu taşıyacak yapı finanse edilmemiştir. Yayımlanmış bir YZ stratejisini kurumsal hazırbulunuşluk kanıtı olarak okumak, var olanı olduğundan fazla göstermektir.
+- **“Benimseme rakamları hazırbulunuşluğu ölçer.”** Beyan edilen kullanım ile yönetişilmiş kullanım farklı niceliklerdir ve bu sayfanın kanıtı ikisini ayırır: kurumlar stratejik niyeti nüfusun yaklaşık yarısında, liderlik kapasitesini ise onda birin altında bildirmektedir. Personelin YZ kullandığını gösteren bir anket, bireylerin izinsiz olarak şimdiden ne yaptığını söyler; kurumun neyi destekleyebileceğini veya denetleyebileceğini değil.
+- **“Tedarik idari bir adımdır.”** Yetenek inşa edilmek yerine satın alındığında, sözleşme koşulları sonradan neyin mümkün olacağını belirler: veri sahipliği, denetim erişimi ve aracın hiç değerlendirilip değerlendirilemeyeceği. Satın alma görevi olarak verilen bir tedarikçi kararı, kurumun henüz sormadığı değerlendirme sorularını önceden kapatır.
+- **“Yönetişim benimsemeyi izleyebilir.”** Bu sıralama iddiası yaygındır ve burada desteklenmez: kanıt ters örüntüyü belgeler; politika ve liderlik yapıları hâlihazırda gerçekleşmekte olan kullanımın gerisinde kalır. Yayımdan sonra inşa edilecek bir şey olarak çerçevelenen yönetişim, daha az kaldıraca sahip bir konumdan inşa edilen yönetişimdir.
+
+## Uygulama için çıkarımlar
+
+**Yöneticiler için**
+
+- Yalnızca strateji belgesini değil, liderlik rolünü de bütçeleyin. %49 YZ'yi öncelik ilan ederken %7 üst düzey rol oluşturuyorsa, bağlayıcı kısıt kanaat değil tahsistir.
+- İmzalamadan önce bir aracın neye göre değerlendirilebileceğini sorun. Sözleşme sonuçlara, denetim verisine veya kullanım ayrıntısına erişime izin vermiyorsa, kurum değerlendiremeyeceği bir yeteneği satın almıştır.
+- Onaylanmış kullanımı değil fiili kullanımı anketleyin, çünkü ikisi ayrışır ve risk taşıyan sayı, hâlihazırda maruz olduğunuz onaylanmamış olandır.
+- Kaldıraç hâlâ varken politikayı yayımın önüne koyun. Kullanım yaygınlaştığında politika, çoktan yerleşmiş bir pratikle müzakereye dönüşür.
 
 ## Bağlı kavramlar
 
@@ -79,3 +98,5 @@ Yönetici görüşü [[educational-policy-ai]] (politika oluşumu), [[governance
 - [[genai-policies-higher-ed-computing]] — Bilişim alanında kurumsal GenAI politikası
 - [[institutional-change-framework-ai]] — YZ için kurumsal değişim çerçevesi
 - [[edtech-privacy-deferral-2026]] — “Sonra Düzeltiriz”: Eğitim, YZ ve Eğitim Teknolojisinde Öğrenci Gizliliğinin Ertelenmesi
+
+- [[students-at-stake-ai-deployment-risks-2026]] — Risk yönetimi değil, öğrencilerin hakları olarak çerçevelenen dört soruluk bir tedarik tarama listesi

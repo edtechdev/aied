@@ -1,7 +1,7 @@
 ---
 title: "Eğitimde Yapay Zeka"
 created: "2026-10-14T21:45:00-04:00"
-updated: "2026-10-27T04:13:56-04:00"
+updated: "2026-10-31T11:05:52-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -94,11 +94,13 @@ YZ’nin öğretimi ve öğrenmeyi nasıl desteklediği alanın kalbidir. Temel 
 - **Modeller ve teknikler:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[educational-nlp|educational NLP]], [[reinforcement-learning|reinforcement learning]], [[knowledge-graph|knowledge graphs]], [[educational-robotics|robots in education]], [[conversational-ai|conversational AI]], [[simulation]] ve [[llm-training-and-fine-tuning|LLM training and fine-tuning]]. Altta yatan yöntemler de önemlidir: [[machine-learning|machine learning]] bu sistemlerin inşa edildiği yerdir, [[speech-and-voice-technologies|speech and voice technologies]] sözlü öğretmenliği ve dil pratiğini taşır, [[visualization]] öğrenenler ve öğretmenler için panoları ve görsel analitiği kapsar, [[virtual-and-augmented-reality|virtual and augmented reality]], görsel katmanını modelin artık üretebildiği sürükleyici uygulamaya ev sahipliği yapar. Daha yeni etkileşim tarzları da buraya aittir — en belirgin olarak [[vibe-coding|vibe coding]], kullanıcının bir programı bir LLM’ye istek metni vererek belirlediği ve ortaya çıkan davranışı kaynak kodunu okumak veya düzenlemek yerine yargıladığı doğal dil odaklı iş akışı. Bu, [[cs-education|programming]] bir ifade ve doğrulama eylemi olarak yeniden çerçeveler ve [[teacher-role|end users]] kendi araçlarını oluşturma eşiğini düşürür. [[samr-model|SAMR]] gibi bütünleşme derinliği çerçeveleri ve [[technology-acceptance-model|TAM]] gibi benimseme kuramları, YZ’nin ne kadar derine benimsendiğini ve görevi ne kadar dönüştürdüğünü sınıflar.
 - **Öğrenen modelleme ve uyarlanabilir sistemler:** öğreneni temsil eden ve ona uyum sağlayan teknik sistemler [[student-modeling|Learner Modeling and Adaptive Instruction]] şemsiyesi altında gruplanır — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[recommender-systems-and-learning-paths|recommender systems and learning paths]], [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]] ve [[learning-analytics|learning analytics]]. Bunlar teknik katmanda yer alır, çünkü kendileri YZ sistemleridir; içlerini gerçekleştirdikleri pedagojilerden farklıdırlar.
 
+- **Platformlar, açıklık ve benimseme:** modelin çevresindeki katman; bir öğretim kaynağının inşa edilmekten çok lisanslandığı, barındırıldığı ve ödemesinin yapıldığı yer. [[open-education|Açık eğitim]], açık lisanslı içerikle öğretimi ve öğrencileri onun üreticisi sayan pedagojiyi kapsar; üretilen materyalin artık gündeme getirdiği lisans ve uyarlama sorularının tartışıldığı yer burasıdır. Yazılım anlamındaki açıklığın, [[edtech-platform|eğitim teknolojisi platformları]] içindeki platform düzeyi analizin ve [[technology-acceptance-model|TAM]] tarafından taşınan benimseme araştırmasının yanında durur.
+
 ## Disiplinlerde YZ
 
 YZ disiplinler ve eğitim düzeyleri boyunca uygulanır. Bilgi tabanının [[discipline-specific-aied|overview of AIEd in the disciplines]], ders alanı kapsamını haritalar — [[learning-sciences|learning sciences]] ile birlikte; bu, öğretilen bir ders değil, öğrenmenin kendisini inceleyen ve ders materyalini diğerleri arasında bir değişken olarak alan kesişen araştırma alanıdır:
 
-- **Ders alanları:** [[math-education|mathematics]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[science-education|science education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[arts-design-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]] ve profesyonel ile uygulamalı dallar — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]] ve [[design-education|design education]].
+- **Ders alanları:** [[math-education|mathematics]], [[statistics-and-data-science-education|statistics and data science]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[science-education|science education]], [[environmental-education|environmental education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[arts-design-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]] ve profesyonel ile uygulamalı dallar — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]] ve [[design-education|design education]].
 
 ## Düzeyler ve bağlamlar
 

@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,15 @@ Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: 
 
 **Etiketlenmiş güvenilmezlik bildirilen bağımlılığı düşürdü, artırmadı.** 546 katılımcı aynı GAI diyalogunu ya uydurma bilgi içeriyor ya da doğrulanmış olarak doğru etiketiyle okuduğunda, uydurma etiketi daha düşük [[trust]] güven ve algılanan denetlenebilirlik ile daha yüksek bilişsel uyumsuzluk ve hayal kırıklığı yanında *daha düşük* bağımlılık puanları üretti (M = 2,935 karşı 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu ve ark. (2026)]]). Sonuç, bu sayfanın aşırı güven mantığını nitelemektedir: bir çıktının uydurma olabileceğini görmek, ona yaslanmaya devam etmekle aynı şey değildir.
 
+**İnandırıcılık ipuçları bunun yerine boyun eğmeyi büyütebilir.** Güvenilmez bir çıktı süslenip sunulduğunda ters hareket ortaya çıkar: ARMADA tartışma arayüzüne atıf ve inandırıcılık sinyalleri eklemek, katılımcıların doğru bir başlangıç yargısından yanlış bir YZ konumuna geçme oranını %112 artırmış (%15,0’a karşı %31,8) ve elle denetim, atıf yapılan bazı vakaların ilgisiz ya da uydurma kaynaklara yanlış atfedildiğini bulmuştur ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo ve ark., 2026]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Öğrenciler hataları fark eder.”** **125 çalışmalık bir inceleme** halüsinasyon oranlarını **%10-40** olarak koyar; **tıp öğrencileri, yükseköğretimde en dikkatli seçilmiş öğrenenler arasında olmalarına rağmen YZ hatalarını zamanın yalnızca %44-55’inde tespit etmiştir**. Şans düzeyindeki güvenilirliğin çok altında kalan tespit oranları, yükün okuyucuda kalamayacağı anlamına gelir.
+- **“Hatalar ortaya çıktığında apaçıktır.”** El yazısı matematik teşhis eden bir YZ, **kendinden eminlik iddia ederken orada olmayan kanıt alıntıları uydurabilmiştir**. Başarısızlık makul ama yanlış bir cevap değil, kesinlikle sunulmuş uydurma bir dayanaktı; yakalanması en zor tür budur, çünkü tam olarak dikkatli bir okuyucunun isteyeceği kanıt gibi okunur.
+- **“Atıfsız çıktı bir biçimlendirme problemidir.”** Ticari ders kitabını YZ tarafından üretilmiş okumalarla değiştiren bir lisansüstü derste, **kaydedilen 4.487 sayfanın yalnızca yaklaşık %0,80’i APA tarzı metin içi atıf taşıyordu**. Bu, ara sıra bir atlama değil, külliyat düzeyinde bir köken yokluğudur ve doğrulamanın hiçbir başlangıç noktası olmadığı anlamına gelir.
+- **“Halüsinasyon, yeni modellerin çözdüğü bir model üretim problemidir.”** Oran aralığı 125 çalışma boyunca %10-40’ı kapsar; bu, model kadar görevin ve konuşlandırmanın da bir özelliğidir. Oran düşüşü gerçek bir ilerlemedir ve bir okuyucunun denetleyebilmesi gerektiği gerçeğini değiştirmez.
+
 ## Bağlı kavramlar
 
 - [[cognitive-offloading]]
@@ -87,3 +96,5 @@ Bu tür bir manipülasyona karşı savunmalar kendi ödünleşimlerini taşır: 
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — İnandırıcılık ipuçları YZ çıktısına boyun eğmeyi artırdı; atıf yapılan bazı vakalar yanlış atfedilmiş ya da uydurmaydı

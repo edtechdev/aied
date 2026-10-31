@@ -5,7 +5,7 @@ type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,12 @@ Her biri kaynak sayfalarda belirtilen dört uyarı:
 2. **Çıktı farklılaşma olduğunda kişi merkezli yöntemleri tercih edin.** Hizmet öncesi öğretmen ve yönetici çalışmalarının ikisi de bu kaymayı yöntemsel katkıları olarak sunar; çünkü ortalama öngörücüler, farklılaştırılmış desteği gerekçelendiren yapılandırmaları ortaya çıkaramaz.
 3. **Elde tutma kanıtını tam olarak bildirin.** BIC/AIC karşılaştırmalarını, entropiyi, profil büyüklüklerini ve bir kararlılık denetimini yayımlayın ve bir sınıf sayısının keşfedici olduğunu açıkça söyleyin.
 4. **Profilleri etiket değil, tanı araçları olarak ele alın.** Profil tahmini bir sınıra sahip bir araştırma yapısıdır; bu nedenle bireyleri adlandırılmış kategorilere atayan bir araç, herhangi bir [[educational-measurement|ölçüm]] aracının uyarısını taşır — ve [[differential-effects-across-learner-groups|öğrenen grupları arasındaki farklı etkiler]] herhangi bir alt grup analizinin denetimini hak eder.
+
+## Yaygın yanlış anlamalar
+
+- **"Gizli profil analizi, var olan grupları keşfeder."** GÖA, öğrenen çeşitliliğini retorik bir iddiadan ölçülebilir bir bulguya dönüştürür ve profiller, **seçilmiş sınırlarda bölünmüş bir sürekliliğin modelidir**, doğal türler değil. Profil sayısı analitik bir karardır.
+- **"Gizli değişken ailesinin herhangi bir üyesi uygundur."** Hangisinin kullanılacağı **göstergeleri izler**: kategorik göstergeler için **GSA**, sürekli göstergeler için GÖA. Yöntemi önce, göstergeleri sonra seçmek, sonucu seçimin bir yapıntısı haline getirir.
+- **"Profiller çalışmalar arasında karşılaştırılabilir."** Chen ve meslektaşları **128 Tayvanlı öğretmen adayını** beş [[technology-acceptance-model|TAM]]/UTAUT2 yapısı üzerinden profil analizine tabi tuttu, Acquah ve meslektaşları ise **509 Ganalı lisans öğrencisini**. Farklı popülasyonlardaki farklı göstergeler, ortak ölçülebilir profil etiketleri üretmez.
 
 ## Bağlı kavramlar
 

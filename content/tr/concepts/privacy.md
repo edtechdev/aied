@@ -10,7 +10,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **Gizlilik** — YZ destekli öğrenme ortamlarında öğrenci verisinin, kimliğinin ve [[agency|özerkliğinin]] korunması. YZ sistemleri [[personalized-learning|kişiselleştirme]], [[learning-analytics|analitik]] ve [[student-modeling|uyarlamalı öğretim]] için giderek daha ayrıntılı davranışsal veri topladıkça, gizlilik kaygıları şiddetlenir. Bu, [[ai-education|eğitimde YZ]] üzerindeki temel bir etik ve düzenleyici kısıttır: kişiselleştiren, öngören veya değerlendiren hemen hemen her YZ aracı öğrenen verisine bağlıdır; bu da veri minimizasyonunu, rızayı, şeffaflığı ve güvenliği sonradan düşünülen ayrıntılar değil, temel tasarım gereksinimleri haline getirir.
+> **Gizlilik** — YZ destekli öğrenme ortamlarında öğrenci verisinin, kimliğinin ve [[agency|özerkliğinin]] korunması. YZ sistemleri [[personalized-learning|kişiselleştirme]], [[learning-analytics|analitik]] ve [[adaptive-learning|uyarlamalı öğretim]] için giderek daha ayrıntılı davranışsal veri topladıkça, gizlilik kaygıları şiddetlenir. Bu, [[ai-education|eğitimde YZ]] üzerindeki temel bir etik ve düzenleyici kısıttır: kişiselleştiren, öngören veya değerlendiren hemen hemen her YZ aracı öğrenen verisine bağlıdır; bu da veri minimizasyonunu, rızayı, şeffaflığı ve güvenliği sonradan düşünülen ayrıntılar değil, temel tasarım gereksinimleri haline getirir.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -38,6 +38,10 @@ ai_assist:
 Gizlilik, eğitimde güvenilir YZ’nin ön koşuludur. YZ sistemleri veriyle iyileşir — [[personalized-learning|kişiselleştirme]] ayrıntılı öğrenen profilleri, [[learning-analytics|öğrenme analitiği]] ayrıntılı etkileşim günlükleri ve [[llm-training-and-fine-tuning|ince ayarlanmış özel ders modelleri]] özgün öğrenen–özel öğretmen dökümleri gerektirir — bu nedenle uyarlamalı, ölçeklenebilir eğitimi mümkün kılan aynı veri, gözetim, kötüye kullanım ve zarar riski de yaratır. Bilgi tabanı gizliliği [[ethics]] (normatif çerçeve), [[regulation]] (yasal gereksinimler), [[governance]] (kurumsal sorumluluk) ve [[equity-in-ai-education|eşitlik]] (kim korunur, kim ifşa olur) ile ayrılmaz biçimde ele alır. Gizlilik makaleleri dört yinelenen sorun çevresinde kümellenir: ölçekte toplama, rıza ve şeffaflık, güvenlik ve anonimleştirme ve çocuklara özgü korumalar.
 
 ## Temel gizlilik sorunları
+
+- **Özerklik veri yüzeyini genişletir.** Ajan temelli bir form doldurma sistemi, kurumsal hizmetler arasında çok kipli bir kişisel bilgi tabanı sürdürür; 44 şirketin işe alım sitelerinden alınan 1.301 benzersiz alan üzerinde değerlendirilmiştir ve yazarları gizliliği koruyan bilgi yönetimini, erişim denetimini ve insan onayını çözülmemiş konuşlandırma gereksinimleri olarak adlandırmaktadır ([[large-language-models-teaching-learning-higher-ed|Li ve ark. (2026)]]).
+- **EEG çözümlemesi dikkati açığa çıkarır.** Sinirsel çözümleme gizlilik sorununu davranışsal günlüklerin ötesine taşır: [[seeing-cognitive-representations-eeg-reconstruction|Su ve ark. (2026)]], video öğretimi sırasında öğrenenlerin neyi izlediğini EEG’lerinden yeniden kurmuş, çözümlenen temsilleri olağandışı biçimde açığa çıkarıcı kılmış ve hassas nöroverinin yönetişimini belirsiz bırakmıştır.
+- **Sohbet arayüzleri konuşmanın kendisini sızdırır.** 42 YZ sohbet platformunu denetleyen [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos ve ark. (2026)]], 21’inin konuşma başlıklarını üçüncü taraf izleyicilere gönderdiğini ve yedi eğitim platformunun her birinde ortalama yaklaşık 367 izleyici isteği bulunduğunu, beşinin bağlam sızdırdığını bulmuştur.
 
 - **Ölçekte veri toplama.** [[learning-analytics]] ve [[edtech-platform|eğitim platformları]] tıklama akışı, yazma, tuş vuruşu ve etkileşim verisi toplar. Gizlilik [[research-methods-aied|araştırmasının]] incelediği merkezi soru, bu toplamanın eğitim faydasıyla orantılı olup olmadığıdır — ve [[learning-analytics-to-educational-interventions-2026|güvenilir öğrenme analitiği araştırması]] gizliliği ve veri yönetişimini bir ek değil, ön koşul olarak ele alır: etik uyum, veri güvenliği ve şeffaf algoritmalar, veriye dayalı eğitim değişimini hiç anlamlı kılan şeylerdir.
 - **Rıza ve şeffaflık.** Öğrenciler ve [[parents-and-families|aileler]] bir YZ aracının hangi veriyi topladığını, nasıl kullanıldığını veya nerede saklandığını nadiren anlar. Kurumlar ile [[learners]] arasındaki bu güç dengesizliği yinelenen bir temadır — öğrencilerin zorunlu kılınmış bir platformu kullanmaktan başka anlamlı bir seçeneği olmayabilir, bu da “rızayı” bilgilendirilmiş değil, biçimsel kılar. Bilgi tabanı bunu [[trust-calibration|güven]] ve [[ai-use-disclosure|açıklama]] ile bağlar: hem öğrenenlerin YZ kullanımı hem de kurumların öğrenen verisi kullanımı, neyin ve neden toplandığına dair şeffaflığa bağlıdır.
@@ -65,6 +69,14 @@ Gizlilik, eğitimde güvenilir YZ’nin ön koşuludur. YZ sistemleri veriyle iy
 
 Gizlilik, [[learning-analytics]] (veri toplayıcı), [[personalized-learning]] (veri tüketicisi), [[k-12]] (güçlendirilmiş korumalar), [[ethics]] (normatif çerçeve), [[regulation]] (yasal gereksinimler), [[governance]] (kurumsal sorumluluk), [[equity-in-ai-education]] (kim korunur), [[pedagogical-safety]] (çocuk koruma) ve [[educational-policy-ai]] bağlanır. Eğitimde her sorumlu YZ konuşlandırmasının karşılaması gereken temel kısıtlardan biridir — bilgi tabanının çerçevelemesinde güvenilir YZ’nin güvenilir veriyle başlamasının gerekçesi.
 
+## Yaygın yanlış anlamalar
+
+- **“Gözetim sınırlı ve iyi anlaşılmış bir veri dilimi yakalar.”** [[remote-proctoring|Gözetim]] sistemlerinin gerçekte ne yakaladığına dair bir katalog **yüz görüntülerini, kimlik belgelerini, 360 derece taramaları dâhil oda taramalarını, mikrofon sesini, yüz tanımayı** ve daha fazlasını listeler. Kapsam, çoğu rıza sürecinin betimlediğinden geniştir.
+- **“Gözetim literatürü gözetimin etiğini ortaya koyar.”** **80 çalışmanın** derlemesi **%35’inin veri kümesini açıklamadığını, %40’ının tek bir modeli değerlendirdiğini, %30’unun yeniden üretilemediğini ve yalnızca %25’inin** raporlama eşiğini karşıladığını bulmuştur. Kanıt tabanı, bir kurumun konuşlandırmadan önce yanıtlaması gereken sorularda tam olarak zayıftır.
+- **“Gizlilik bir uyum onay kutusudur, bir tasarım kısıtı değil.”** Kişiselleştiren, öngören veya değerlendiren neredeyse her YZ aracı öğrenen verisine bağlıdır; bu da veri minimizasyonunu bir tasarım kararı yapar. Veriyi gerektiren bir aracın isteğe bağlı bir gizlilik ayarı yoktur; tasarımın seçtiği bir veri bağımlılığı vardır.
+
+- **Veri uygulamalarına ilişkin farkındalık, onları görmekten doğmaz.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]], yazılarını okuyan sohbet robotlarında **47 yedinci sınıf öğrencisinin %66’sının** en az koruyucu seçeneği seçtiğini ve **%47’sinin** algoritmik etkiyi “sadece eğlence” diye reddettiğini bulmuştur; bu ölçüm, sınıfın kendi günlüğe kaydedilmiş davranışının canlı olarak yansıtıldığını izlediği, “korkutucu” diye tepki verdiği ve birkaçının teneffüste de platformu kullanmaya devam ettiği bir dersten **bir ay sonra** yapılmıştır. Mekanizmayı görünür kılıp maliyeti somutlaştırmayan gizlilik eğitimi, tutumu değiştirmeden bırakır. Yazar, buradaki düşük puanların yüksek olanlardan **daha güvenilir olabileceğini** not eder; çünkü bu maddelerde sosyal olarak beklenen bir yanıt yoktur, oysa sorumluluk ve yönetişim doğru gelen yanıtı davet eder.
+
 ## Bağlı kavramlar
 
 - [[remote-proctoring]]
@@ -83,6 +95,7 @@ Gizlilik, [[learning-analytics]] (veri toplayıcı), [[personalized-learning]] (
 
 ## Bağlı makaleler
 
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — İstemlerinize bir kuruş: YZ sohbet platformlarında bağlamsal sızıntı (Bekos ve ark. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch ve ark. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]

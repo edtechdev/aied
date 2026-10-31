@@ -7,7 +7,7 @@ assessment: [assessment]
 confidence: medium
 created: "2026-10-14T22:25:00-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,16 @@ Son olarak, kanıt, YZ tarafından üretilen desteğin tekdüze biçimde yararl�
 - **Paylaşımlı denetimli ustalık öğrenmesi, öğrenenin görev seçimi stratejisi kadar verimlidir.** Bir simülasyon çalışması (koşu başına 1.000 simüle öğrenci, gerçek MathTutor ve DataShop kayıtlarına uydurulmuş AFM ve BKT parametreleri) dokuz görev seçimi stratejisini karşılaştırdı. Verimlilik bir mertebe farkla değişir: en kötü durumda ustalık kaybı en küçük olan beceriyi seçen riskten kaçınan "En Kötü Durum Kaybını En Aza İndir" stratejisi, denklem çözmede 30,28 kat fazla alıştırma üretir (grafik yorumlamada 28,93 kat), diğer stratejilerde ortalama 1,73 ± 0,38’e karşılık. Hedefli sistem kısıtları onu cerrahi bir şekilde kurtarır: görev seçimi kısıtları fazla alıştırmayı 12,88/14,46 kata indirir, soru seçimindeki "Daha Zor Olanı Tercih Et" önyargısı ise 1,98 kata (Cohen’s d = 1,86) indirir — hâlihazırda verimli stratejiler ise etkilenmez. Tasarım çıkarımı: kısıtlar strateji-farkında olmalı, iyi olanları vergilendirmeden patolojik öz-düzenleyicileri korumalı ve simülasyon-önce yeniden tasarım, çözümü keşfetmek için öğrencileri 30 kat fazla alıştırmaya maruz bırakmaktan kaçınmalıdır. ([[noh-simulating-task-selection-2026]])
 
 Standartlara dayalı notlama, ustalık öğrenmesinin değerlendirme karşılığıdır ve [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]], bunu yükseköğretim eğitimcilerinin benimseyebileceği "öğrenmeye yönelik değerlendirme" ile uyumlu beş yenilikçi uygulama arasında tanımlar — ancak onu yönetim-eğitimi söyleminde neredeyse hiç bulunmadığını görürler. Bunu normatif engellere bağlarlar: norma-referanslı "eğri üzerinden notlama", dışsallaşmaya yönelik sinyalleme (sıralamalar, stajlar, akreditasyon) ve öğrencilerin araca dayalı zihniyeti, ustalık odaklı, notasız yaklaşımlara direnir. Önerileri kademeli denemelerdir — örneğin ölçeklendirmeden önce tek bir görev için standartlara dayalı rubrikler sunmak — program düzeyinde koordinasyon ve belgelenmiş Öğretmenlik ve Öğrenimi alanındaki bilimsel çalışmalara (Scholarship of [[teacher-role|Teaching]] and Learning) ilişkin kanıtlarla desteklenir.
+
+## Yaygın yanlış anlamalar
+
+**“Bir ustalık eşiği, öğrenenin nesnel bir özelliğidir.”** Eşik, onu güncellemek için kullanılan *kuralın* bir özelliğidir. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]], ASSISTments veri kümesinden aynı olay dizileri üzerinde **dört güncelleme kuralı** çalıştırdı ve kurallar kimin hazır olduğu konusunda uzlaşmıyor. Dolayısıyla ustalık, bir sayıya kaydedilmiş bir karardır, bir öğrenci hakkında keşfedilmiş bir olgu değil; kural da bir uygulama ayrıntısı değil, açıklanmış bir politika olarak ele alınmalıdır.
+
+**“Sistem ustalaştı diyorsa, öğrenci ilerlemeye hazırdır.”** Yalnızca yürürlükteki güncelleme kuralına göre. Bir kural yardımlı işe kredi verdiğinde, “ustalaştı” destekle başarmış ve bağımsız olarak başarmamış bir öğrenciyi betimleyebilir; bu, [[learning-gains]] literatürünün belgelediği yardımlı performans ile yardımsız yetenek arasındaki aynı ayrışmadır.
+
+**“Ustalık öğrenmesi, YZ’nin nihayet mümkün kıldığı pedagojidir.”** Mekaniği YZ’den epeyce öncesine dayanır, Bloom çerçeveyi on yıllar önce biçimlendirdi; YZ onu daha önce imkânsız olan bir tasarımı gerçekleştirerek değil, değerlendirme ve ilerleme hızı kararlarını otomatikleştirerek işler kılar. Bu yeniden çerçeveleme önemlidir çünkü otomasyon kural tercihini devralır ve yargı kuralda yaşar.
+
+**“Ustalık altında daha sık değerlendirme eşiği daha güvenilir yapar.”** Sıklık tahmini iyileştirir ve yanlış belirtilmiş bir kuralı düzeltmez. Yardımlı iş içeren olaylardan ustalığı daha sık yeniden hesaplamak, aynı yanlış yanıta daha hızlı yakınsar.
 
 ## Bağlı Kavramlar
 

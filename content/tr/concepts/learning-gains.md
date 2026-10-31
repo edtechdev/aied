@@ -65,6 +65,7 @@ Bilgi tabanının [[rct|RCTs]]leri, [[meta-analysis-systematic-review|meta-analy
 - **Algılanan etkililik gerçek etkililikten ayrışır.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]] ve [[absent-cognitive-baseline-2026|the absent cognitive baseline]], YZ yerli öğrencilerin öğrenmelerini olduğundan yüksek değerlendirdiğini gösterir — bu nedenle öz bildirime dayalı etkililik iddiaları, nesnel sonuç ölçüleri olmadan güvenilir değildir. [[self-report-measures]], bildirilen ile ölçülen sonuçların ayrıştığı vakaları toplar.
 
 - **Kazanımlar, YZ puanlamadan değil öğretmen zamanının yeniden dağıtımından gelebilir.** 178 Brezilya okulunda (~19.000 son sınıf öğrencisi) yürütülen bir randomize denemede, YZ ve insan kompozisyon puanlaması özdeş sınav kazanımları üretti; ancak YZ sınıflarında yazma üzerine birebir öğretmen konuşmaları ~%35 arttı ve alt çeyrek iki koşul altında da iyileşmedi ([[ai-changing-teaching-workflows|Ler, 2026]]).
+- **Öğretmen aracılı YZ'de hazırlık kazanımları taşıdı, araç taşımadı.** 19 Brezilya devlet okulu matematik sınıfında, eğitimli öğretmenler tarafından okutulan öğrenciler kontrol grubunu geçmiş, ancak bu eğitime AIED-U sisteminin eklenmesi ek bir öğrenme kazanımı üretmemiş ve öğretmen iş yükü kazanımlarla negatif ilişkili olmuştur ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues ve ark. (2026)]]).
 
 **Çıkarım:** kanıt ağırlığı, YZ’den **mütevazı, koşullu ve tasarıma bağlı öğrenme kazanımlarını** destekler — YZ yanıt vermekten çok koçluk etmek üzere yapılandırıldığında, koruma rayıyla sınırlandığında ve yardımsız sonuç ölçüleriyle eşleştirildiğinde gerçek; öğrenenin kendi çabasının yerini aldığında ise yok ya da olumsuz. Öğrenme kazanımlarının bir sonuç olarak geçerli, YZ dirençli araçlarla ölçülmesi gerektiği ve [[ai-ed-evaluation]]’in etkililik iddialarını [[research-methods-aied|methodological]] denetimle eşleştirmesi gerektiği budur.
 
@@ -118,6 +119,36 @@ Bu sayfanın etkililik özetine hâkim olan öğrenme kazancı sayıları — ö
 Öğrenme kazanımları [[assessment-validity]]’ya bağlanır — [[assessment|assessments]] daha derin anlayışı yakalayamazsa, öğrenme kazancı ölçüleri yanıltıcıdır. Aynı zamanda [[cognitive-offloading|Over-Reliance]] ve [[cognitive-offloading]]’a kesişir; burada görünür performans iyileşmeleri öğrenme kayıplarını maskeleyebilir ve nedensel öğrenme kazanımlarını saptamak için altın standart tasarım olan randomize deneyler olan [[rct]]’ye ve alanın etkililik kanıtını kurmak üzere çalışmalar boyunca etki büyüklüklerini havuzlayan [[meta-analysis-systematic-review]]’ya da bağlanır.
 
 - **Hata temelli YZ [[pedagogy]]’sinden önemli test-öncesi/test-sonrası kazanımlar:** [[pedagogy-ai-mistakes|Hosseini (2026)]]’nin veri tabanı tasarımı kursu (n=13), özdeş test-öncesi/test-sonrası maddelerde büyük, önemli öğrenme kazanımları gösterdi (ortalama 4,25→6,83/7, Cohen’in *d*’si = 1,49, *p* < ,001); kazanımlar önceki YZ ya da veri tabanı güveniyle ilişkisizdi — YZ bütünleşmeli eleştiri-inceleme tasarımı, başlangıçtaki algılardan bağımsız olarak öğrencilere yarar sağladı.
+
+## Yaygın yanlış anlamalar
+
+**“Puanlar yükseldi, öyleyse müdahale öğrenme üretti.”** Bu, sayfanın önlemek için var olduğu tanımsal hatadır ve alan verileri aynı anda iki yönü de gösterir: YZ kullanımı YZ destekli ev ödevlerinde puanları iyileştirirken gözetimli, kapalı kitap ve desteksiz ölçümlerde puanları *düşürür* ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Şişmenin görünür olup olmayacağını ölçüm seçimi belirler; dolayısıyla YZ’ye izin verilen bir görevdeki kazanç, görev performansına ilişkin bir iddiadır, [[genai-performance-vs-learning|öğrenmeye]] ilişkin değil.
+
+**“Meta-analiz meseleyi çözer: etki büyüktür.”** Toplama yönü ile toplama büyüklüğü farklı olgulardır ve büyüklük incelemeden nadiren sağ çıkar. [[genai-meta-analysis-programming-learning|Programlamada üretken YZ meta-analizi]], büyük *üretkenlik* kazanımlarının yanında **anlamlı bir öğrenme kazanımı olmadığını** (g ≈ 0) bulur. [[burneo-can-edtech-close-learning-gaps-2026|Dünya Bankası meta-analizi]], 14 RKT’den 191 etki büyüklüğünü birleştirerek uyarlanabilir ve YZ etkin eğitim teknolojileri için yaklaşık 0,125 sd tahmin etmektedir; bu, eğitim RKT’lerinin ortancasına göre saygıdeğer bir değerdir, ancak **üretken YZ’nin önceki uyarlanabilir araçlara üstünlüğü yoktur**. GPT dönemi çalışmalarını kategorik bir sıçrama olarak sunmak, birleştirilmiş kanıtın gösterdiğini abartmaktadır.
+
+**“Daha fazla alıştırma ve daha fazla kişiselleştirme her zaman yardımcı olur.”** Kazanımlar sabitler değil, içerik-müdahale etkileşimleridir. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit ve ark. (2025)]], en iyi örnek-problem oranının neyin öğrenildiğine bağlı olduğunu gösterir: kelimesi kelimesine olgular için geri çağırma alıştırması, genellenebilir beceriler için örnekle bütünleşmiş alıştırma üstün gelir. [[lak2026-hint-button-unproductive-use|İpucu düğmesi araştırması]] ise ipucu hacminin öğrenmeyle negatif ilişkili olduğunu bulur. Bir bilgi bileşenine yardımcı olan aynı "destek", diğerini boşa harcayabilir.
+
+**“Gecikmeli bir son test sonucu otomatik olarak kalıcı öğrenme sonucudur.”** Gecikme gereklidir ve yeterli değildir. Bu derlemde kalıcı öğrenmeyi ayırt eden şey, gecikmeli koşullar altında *desteksiz* ölçümdür ve etkinin, aktarım sırasında yok olacak iskele tarafından taşınmadığına dair kanıttır.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Verdiğiniz notu ileri sürdüğünüz iddiadan ayırın. YZ destekli ders çalışması ürün kalitesini adil biçimde değerlendirebilirken desteksiz kapasite hakkında size hiçbir şey söylemeyebilir; ikincisine ihtiyacınız varsa onu ayrıca ölçmelisiniz.
+- Alıştırma biçimini bilgi türüyle eşleştirin. Olgular için geri çağırmayı, aktarılabilir işlemler için çözümlü örnek dönüşümlü alıştırmayı kullanın; ikisi için tek bir varsayılan yerine.
+- İpucu hacmini yalnızca bir destek değil, bir tanılama göstergesi olarak izleyin. Desteksiz performans sabitken artan ipucu kullanımı, verimli görünen bağımlılığın imzasıdır.
+
+**Geliştiriciler için**
+
+- Üretkenlik ve öğrenme çıktılarını ayrı ölçütler olarak raporlayın; çünkü derlem tekrar tekrar birincisini bulup ikincisini bulamamaktadır (programlama meta-analizinde g ≈ 0). İkisini birbirine karıştıran bir gösterge paneli, öğrenme kanıtı olarak okunacaktır.
+- Sisteminizin bilgi bileşenleri arasında genellenebildiğini varsaymayın. Örnek-problem oranı sonucu, en iyi çizelgenin platformun değil içeriğin bir özelliği olduğunu ima eder.
+- İpucu ve iskele kullanımını öğretim elemanlarına görünür kılın; çünkü hacim, daha zayıf sonuçlarla ampirik olarak ilişkilendirilmiş az sayıdaki davranışsal sinyalden biridir.
+
+**Araştırmacılar için**
+
+- Sonuç ölçütünü önceden kaydedin ve YZ’ye izin verilen mi yoksa desteksiz mi olduğunu belirtin. Bulgunun yönü yalnızca bu seçimle tersine dönebilir.
+- Etki büyüklüklerini soyut bir "geleneksel yaklaşımlar"a değil, adlandırılmış bir karşılaştırmaya göre raporlayın. Dünya Bankası sonucu yalnızca karşılaştırma sınıfını adlandırdığı için yorumlanabilirdir.
+- Performans şişmesini öğrenme yer değiştirmesinden açıkça ayırın; çünkü ikisi farklı çözümler ima eder: görevin yeniden tasarımı ile yeniden öğretim.
 
 ## Bağlı kavramlar
 
@@ -179,3 +210,4 @@ Bu sayfanın etkililik özetine hâkim olan öğrenme kazancı sayıları — ö
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — A STEM synthesis that controlled dependent effect sizes and tested publication bias, but applied no quality appraisal (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Second-order meta-analysis of 45 AI-in-education meta-analyses, with overlap-corrected effects and a quality appraisal of the synthesis layer (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[rodrigues-aied-unplugged-numeracy-2026]] — Öğretmen aracılı YZ'de hazırlık kazanımları taşıdı, araç taşımadı

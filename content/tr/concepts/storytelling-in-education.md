@@ -8,7 +8,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,16 @@ Hikâye anlatımı, [[motivation]], [[student-engagement]] ve öğrenmenin [[con
 - **YZ’ye karşı bir dengeleyici olarak dijital hikâye anlatımı:** [[generative-ai|Üretici YZ]] yükseldikçe dijital hikâye anlatımı, YZ’de bulunmayan duygusal, kültürel ve anlatısal kapasiteler için bir araç olarak yeniden çerçevelenmektedir. Sanat ve tasarım eğitimi için bir [[project-based-learning|proje temelli öğrenme]] modelinde öğrenciler, yerel kültürel mirası 92 dijital hikâye anlatım çalışması boyunca [[multimodal]] anlatılara dönüştürmüş olup hikâye anlatımının YZ çağında insan yaratıcılığını nasıl sürdürdüğünü göstermiştir.
 
 Hikâye anlatımı; [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] ve [[educational-robotics]] ile bağlantılıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Birlikte inşa edilmiş bir hikâye, anlatılmış bir hikâyedir.”** Kazanılan şey akıcılık ve hacimdir; risk altındaki şey anlatıcının yazarlığıdır. Hikâye, sıralamayı ve vurguyu seçen biri tarafından deneyimin yapılandırılmasıdır; dolayısıyla yapıyı sağlayan bir makine, anlamı taşıyan kısmı sağlamış olur.
+
+**“Hikâye anlatımı, içeriğe yumuşak bir eklemedir.”** Anlatı bir bellek ve anlam kurma aracıdır ve anlatan öğrenen, düzenleme işini yapan kişidir. Anlatımı devretmek, öğrenmeyi devretmektir.
+
+**“YZ üretimi, hikâye anlatımını yazamayan öğrenciler için erişilebilir kılar.”** *Yazılı bir ürün üretmeyi* erişilebilir kılar, ki bu farklı bir yarardır. Sözlü anlatım, çizim ve dikte aynı amaca giden yerleşik yollardır ve üretimin ortadan kaldırdığı yazarlığı korurlar.
+
+**“Bir hikâyenin eğitimsel değeri cilalı sonuçtadır.”** Değer inşadadır: anlatıcının yaptığı seçme ve sıralama işinde. Öğrencinin yapılandırmadığı cilalı bir hikâye, öğrenenin değil modelin yetkinliğini göstermiştir.
 
 ## Bağlı kavramlar
 

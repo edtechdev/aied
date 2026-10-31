@@ -6,7 +6,7 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ Bağlamsal öğrenme, bilgi tabanının [[learning-theories]] akışı içindeki
 
 Eğitimde YZ literatüründe bağlamsal öğrenme, [[ai-education|eğitimde YZ]] için bir tasarım merceği sağladığı için önemlidir: [[adaptive-learning|uyarlanabilir sistemler]], özgün senaryolarda [[intelligent-tutoring|YZ mentorluğu]] ve [[virtual-and-augmented-reality|sürükleyici]] [[simulation|benzetimler]], YZ kaynaklı eğitimi gerçek dünya bağlamlarına temellendirebilir; karşılığında bağlamsal öğrenme, YZ’ye özgün uygulamada ve karmaşıklıkta anlamlı bir çapa sunar. İkisi yaygın biçimde birbirini tamamlayıcı olarak ele alınır ve insan rehberliği [[ethics|etik]] temellendirme için gerekli olmaya devam eder.
 
+- **Materyalin kendisini bağlamsallaştırmak da bir bağlamsal öğrenme hamlesidir.** DagFlow-AI, öğrencinin kendi belirttiği ilgi alanı etrafında kurulmuş bir istatistik veri kümesi üretir (bir vaka çalışması, bir öğrencinin iklim değişikliği ve sağlık kaygısını kullanmıştır) ve öğrenme hedefleri ile beceri düzeyini sabit tutar ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ve ark., 2026]]). *Veriyi* öğrenene uyarlamak, açıklamayı uyarlamak yerine, uygulama bağlamını bağlamsallaştırılması gereken şey olarak ele alır. Yazarlar sınırı kabul eder: sentetik veri, veri toplama, ölçme veya çalışma tasarımını öğretemez; bu nedenle bağlam öğrenen için gerçektir, dünya için değil.
+
 ### YZ için bir tasarım merceği olarak bağlamsal öğrenme
 
 Bilgi tabanının araştırması, bağlamsal öğrenmeyi yalnızca soyut bir kuram olarak değil, eğitimde YZ için somut bir tasarım ve değerlendirme çerçevesi olarak ele alır:
@@ -46,6 +48,16 @@ Bilgi tabanının araştırması, bağlamsal öğrenmeyi yalnızca soyut bir kur
 - **Bağlamsal YZ etiği.** YZ hakkında etik muhakemenin kendisi de, soyut ilkelerden çok kültürel-tarihsel ve ekolojik bağlama temellendirilmiş olarak *bağlamsal* biçimde ele alınması en iyisidir. ([[raffaghelli-situated-ai-ethics-2026]])
 
 Bağlamsal öğrenme, [[embodied-learning]] (ikisi de bilişin bağlam ve eyleme temellendirilmesini vurgular), [[distributed-cognition]] (insanlar, araçlar ve bağlamlar arasında dağıtılmış öğrenme), [[experiential-learning]] ve [[constructivist]] kuramıyla yakından bağlantılıdır. Eğitimde YZ’de bağlamdan soyutlanmış, bedenden uzaklaştırılmış öğrenme eleştirisini topraklar: öğrencileri özgün uygulamada tutan YZ tasarımı, kalıcı öğrenmenin gerektirdiği bağlamsallığı korur.
+
+
+- **Senaryolar ve yeniden kullanılabilir varlıklar altyapı olarak.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]], bağlamsal öğrenmeyi bir senaryo olarak işlevselleştirir: hedef, role özelleşmiş etmenler, sorgulanabilir bilgi ve durum tutan bir çalışma tezgâhı; ayrıca süreç kayıtlarını ve deneyim izlerini kökenleriyle birlikte saklayan, böylece sonraki senaryoların önceki uygulamayı getirebildiği bir varlık belleği. Önceden kaydedilmiş iki üç kollu randomize deneme, hukuki akıl yürütmede sade bir asistana karşı 7,0 puanlık bir öğrenme kazanımı avantajı (d = 0,56) ve rekabetçi programlamada ölçüt ustalığına ulaşan daha büyük bir pay (%45'e karşı %68) buldu; aynı modeli öğretmen gibi davranmaya yönlendirmek ise saptanabilir bir yarar üretmedi. Bu, durumun ve çalışma alanının öğrenmenin konuşmaya dayalı açıklamadan daha fazlasını taşıdığı iddiasının ender bir sınamasıdır.
+
+## Yaygın yanlış anlamalar
+
+- **"Bağlamsal öğrenme, soyut bir derse gerçekçi bir senaryo eklemek demektir."** Kuramın iddiası bağlam giydirmekten daha güçlüdür: öğrenme, bir uygulama topluluğuna katılımla kurulur ve öğrenilen, o katılımın mümkün kıldığı şeydir. İşyeri çerçevesi eklenmiş çözümlü bir örnek yine örneği öğretir, uygulamayı değil.
+- **"Özgünlük, görevin bir özelliğidir."** Özgünlük, etkinlik ile gerçek bir topluluğun meşru işi arasındaki ilişkidir. Bir görev ayrıntılı olabilir ve yine de okul biçimli kalabilir: bir öğretmen tarafından, bir not için değerlendirilir ve temsil ettiğini iddia ettiği dünyada hiçbir sonuç doğurmaz.
+- **"Görevden doğan değerlendirme, değerlendirmenin olmaması demektir."** Ölçütün sınıfın değil topluluğun olduğu anlamına gelir: işin, o işi yapanlar için kabul edilebilir olup olmadığı. Bu, rubrikten farklı ve genellikle daha katı bir standarttır.
+- **"Çıraklık fiziksel bir ortam gerektirir."** Mekanizma meşru çevresel katılımdır: bir uygulamanın kenarından merkezine, gerçek sorumlulukla ilerlemek. Çevrimiçi ve benzetimli ortamlar bunu destekleyebilir veya çevreyi simüle edip katılımı hiç tanımayabilir; fark, öğrenenin katkısının fiilen kullanılıp kullanılmadığıdır.
 
 ## Bağlı kavramlar
 
@@ -64,6 +76,8 @@ Bağlamsal öğrenme, [[embodied-learning]] (ikisi de bilişin bağlam ve eyleme
 - [[virtual-and-augmented-reality]] — özgün bağlama giden bir yol olarak sürükleyici ortamlar
 
 ## Bağlı makaleler
+
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Senaryolar ve köken taşıyan yeniden kullanılabilir varlıklar, iki denemede sade bir asistanı geride bıraktı
 
 - [[vargas-situated-learning-ai-review-2024]] — eğitimde bağlamsal öğrenme ve YZ’nin PRISMA sistematik derlemesi (bu sayfanın birincil kaynağı)
 - [[genai-educational-outcomes-meta-analysis]]

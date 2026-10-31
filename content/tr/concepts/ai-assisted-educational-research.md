@@ -14,7 +14,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -183,6 +183,14 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
+
+## Yaygın yanlış anlamalar
+
+- **“LLM ve yazılım makaleleri eşit iyi değerlendirilir.”** 2023’ten bu yana **yazılım ve ürün makalelerinin %38,0’ı hiçbir değerlendirme bildirmemiştir; LLM makalelerinde bu oran %9,3’tür**. Boşluk büyüktür ve daha yeni araçların daha az titizlikle sınandığı varsayımının tersine işler.
+
+- **“Göreve göre katmanlaştırmak boşluğu giderir.”** **Boşluk katmanlaştırmadan sonra da sürer**: tarama ve seçmede yazılım makaleleri ortalama **3,2 esaslı değerlendirme maddesi** sunmuş ve **%39,3’ü hiç sunmamıştır**, LLM makaleleri ise daha fazla sunmuştur. Fark görevin değil, makale sınıfının sistematik bir özelliğidir.
+
+- **“Olumlu bir değerlendirme, iş akışının amaçlanan çıtayı karşıladığı anlamına gelir.”** **Yalnızca olumlu değerlendirme bildiren 118 LLM makalesinin %52’si**, iş akışının rolünün gerektirdiği çıtanın altında kaldığına dair en az bir kaygıyı yine de bildirmiştir. Olumlu değerlendirmelerin yarısı kendi çürütmesini içermiştir.
 
 ## Bağlı kavramlar
 

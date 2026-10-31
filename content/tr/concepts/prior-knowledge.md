@@ -61,6 +61,16 @@ ai_assist:
 3. **Yanlış kanıları ortaya çıkarıp ele alın.** Önceki bilgi yanlış olduğunda öğrenmeyle çatışacaktır; öğretim, kusurlu temellerin üzerine yeni içerik eklemek yerine yanlış kanıları gün yüzüne çıkarıp düzeltmelidir.
 4. **Sürtünme değiş-tokuşunu tartın.** Önceki bilgiyi etkinleştirmek, YZ’nin sürtünmeyi giderme varsayılanlarının silmeye meyilli olduğu istenen bir zorluk (geri çağırma, bütünleştirme) ekler — otomasyonun varsayılan olarak çözmesine bırakılmayan, kasten yönetilmesi gereken bir gerginlik.
 
+## Yaygın yanlış anlamalar
+
+**“Önceki bilgi, bilişsel işi kimin yaptığını öngörür.”** Sonuçları, davranışı öngördüğünden daha güvenilir öngörür. **23 ortaokul öğreticisiyle** beş günlük bir öğretirken öğrenme çalışmasında önceki test puanları, bir öğreticinin ürettiği bilgi inşa etme yanıtlarının payını **öngörmedi** ve önceki bilgisi düşük öğreticiler daha azına varan bir tutum yerine bilgi inşasında çalıştı. Verimli mücadeleye kimin girdiği, yalnızca en çok bilerek gelenin kim olduğu değildir.
+
+**“Bırakma istikrarlı bir öğrenen özelliğidir, dolayısıyla aynı öğrenci her yerde aynı miktarda bırakır.”** Bu, görev içindeki önceki bilgiyi izler. Bir sentez yazma çalışmasında **bilgisi yüksek ve en az bırakan küme makalesinin %80’ini yazarken, en çok bırakan küme %2** yazdı. Dolayısıyla bırakma büyük ölçüde öğrenenin hâlihazırda neye sahip olduğuna ve görevin ne talep ettiğine verilen bir yanıttır; bu da onu karakter değil, tasarım değişkeni kılar.
+
+**“Önceki bilgisi daha az olan öğrenciler daha fazla YZ desteğine ihtiyaç duyar.”** Bu, uçurumu genişletme olasılığı en yüksek yöndür; çünkü ölçülen bırakma örüntüsü yazarlık kaybını önceki bilginin en ince olduğu yerde yoğunlaştırır. Yer değiştirmeyi saptayacak donanımı en az olan öğrenene işi sağlayan destek, eksik bilgiyi inşa edecek etkinliği ortadan kaldırır.
+
+**“Önceki bilgi, dersin hareket ettiremeyeceği sabit bir girdidir.”** Yeni öğrenmede en ağır ağırlıklı etkendir; bu da onu arka plan koşulu değil, kaldıraç etkisi en yüksek görev kılar: alan bilgisinin yalnızca bir ortak değişken değil, başlı başına müdahale olmasının nedeni.
+
 ## Bağlı kavramlar
 
 - [[learners]] — Öğrenenler: öğrenen tarafı kavramlar için şemsiye başlık

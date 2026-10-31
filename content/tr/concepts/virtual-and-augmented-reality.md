@@ -8,7 +8,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,9 @@ ai_assist:
 Sanal ve artırılmış gerçeklik bir **modalite**dir, model değil: öğrenme ortamının öğrene ulaştığı katmanın kendisidir. Bu durum onu, öncelikle modellenen şey olan [[simulation]]'dan farklı bir eksen yapar. İkisi sık sık birbirine karıştırılır, çünkü sürükleyici ortamlar simülasyonların yaygın taşıyıcılarıdır; ancak ikisi birbirinden bağımsız olarak değişir — masaüstü bir hasta simülatörü VR olmadan simülasyondur ve gerçek bir alet üzerindeki bir AR kaplaması, simülasyon olmadan VR'dir. Eksenleri ayırı tutmanın nedeni tasarımdır: uygulamayı risksiz hale getirme kararı ile onu bedenselleştirme kararı birbirinden farklıdır; ikisi farklı maliyetler, farklı başarısızlık biçimleri ve farklı kanıtlar taşır. VR/AR, bir simülasyonun **taşıma katmanıdır** ve [[game-based-learning|oyun temelli öğrenmenin]] yakın bir akrabasıdır; öğrenmenin [[embodied-learning|bedensel]] ve [[situated-learning|durumsal]] açıklamalarını işlerselleştirir ve [[experiential-learning|deneyimsel]] ile [[active-learning]] uygulamasının içinde yer alır.
 
 YZ bu modaliteyi şimdi iki ucundan şekillendirir. İçeriği *üretir*, çünkü [[generative-ai|üretici YZ]] yapılandırılmış bir doğal dil istek metnini çalıştırılabilir bir AR veya VR eserine dönüştürerek üretimi eskiden sınırlayan uzman programlama becerisini ortadan kaldırır. Ve ortamın içinde *yaşar*: [[agentic-ai|aracılar]], [[pedagogical-agent|pedagogik aracılar]] ve [[rag|getirilmiş alan bilgisi]], içinde rehberlik sağlar — eller serbest, gerçek zamanlı, öğrenenin gözlük taktığında danışamayacağı kaynaklara dayalı.
+
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang ve Ju (2026)]], genç İngilizceyi yabancı dil olarak öğrenenlerle YZ-VR ile güçlendirilmiş bir tersyüz edilmiş sınıfı sınar ve İngilizce başarısında, üstbilişsel öz düzenlemede ve motivasyonda kazanımlar bildirir; teknoloji okuryazarlığı, öğrenenlerin sürükleyici bileşenden ne kadar kazandığını düzenler.
 
 ## Modalitenin Kattığı Şey
 
@@ -71,6 +74,12 @@ Bilgi tabanındaki en net olumsuz sonuç bir stüdyo uygulamasından gelir, moda
 Sürükleyici uygulama kişilerarası ve prosedürel beceri için kullanıldığında, sınırlayıcı etmen görsel gerçekçilik değil hissedilen özgünlüktür. YZ destekli hemşirelik simülasyonunun (19 çalışma, N = 1.253) bir [[mixed-methods-research|karma yöntemli]] derlemesi, YZ'nin bilişsel bilgi ve duygusal sonuçlar için etkili olduğunu ancak karmaşık psikomotor beceriler için tutarsız olduğunu buldu ve nedeni adlandırdı: duygusal rezonansı, sözsüz ipuçlarını tanımayı, dokunsal ve fiziksel [[summative-assessment|muayene]] boyutlarını kapsayan bir **özgünlük boşluğu**. Onun pratik önerisi, bir **kademeli simülasyon sürekliliğidir** — YZ, temel iletişim ve hikâye alma gibi yüksek düzeyde yapılandırılmış hedeflere iyi uyarken; ileri düzey psikomotor ve duygusal olarak karmaşık senaryolar insan standartlaştırılmış hastalarına ve klinik uygulamaya aittir. Teknik istikrarsızlık sorunu derinleştirir: konuşma tanıma gecikmeleri yabancı [[cognitive-offloading|bilişsel yük]] ve kaygı enjekte eder; bu da kararlılığı ve gecikmeyi uygulama ayrıntıları değil, tasarım kolları haline getirir.
 
 Aynı mantık, varlık hissinin neden otomatik olarak iyi olmadığını açıklar. Hareket hastalığı, arayüz tutarsızlığı, donanım maliyeti ve eşit olmayan cihaz erişimi, bir sürükleyici ortamı kullanabilenler konusunda belirleyicidir; modalitenin [[equity-in-ai-education|eşitlik]] sorularının [[accessibility]] ve [[inclusive-learning]] ile bağlantılı olmasının, bunlardan ayrı durmasının nedeni budur.
+
+## Yaygın yanlış anlamalar
+
+- **“Olguyu hissetmek onu anlamak demektir.”** Bir pilot çalışma, öğrencilerin dalga boyu ve genliği bir el hareketiyle **hissetmeyi** bir kaydırıcıdan daha güçlü bildirdiğini buldu, ancak **ölçülen algıydı, başarı değil**. Hissedilen duyu olanaktır ve anlayış üretip üretmediği ayrı bir sınavdır.
+- **“Yüksek kullanılabilirlik puanları bir eğitim VR aracını doğrular.”** Meta Quest 3 üzerinde **10 öğrenciyle bir saatlik bir oturumda**, çalışma **Sistem Kullanılabilirlik Ölçeğinde iyi kullanılabilirlik ve minimal simülasyon hastalığı** bildirdi. Kullanılabilirlik ve konfor ön koşuldur ve ikisi de bir öğrenme ölçüsü değildir.
+- **“Öğrencilerin hemfikir olması olanağın kanıtıdır.”** **29 ikinci sınıf tıbbi görüntüleme öğrencisiyle**, 29’unun tamamı **hareketin dalga boyunun ne olduğunu “hissetmelerine” yardımcı olduğunu kabul etti (ortalama 4,52)**. Bir his üzerinde oybirliği, deneyim hakkında öz bildirimdir ve olanak iddiası, öğrencinin kendi anlayışına ilişkin yargısına bağlı olmayan bir sonuç gerektirir.
 
 ## Bağlı kavramlar
 

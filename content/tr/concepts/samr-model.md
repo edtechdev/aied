@@ -9,7 +9,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,16 @@ SAMR, planlama ve değerlendirmede kullanılan bir tümleştirme derinliği merc
 - **ICAP ile eşleyin.** SAMR *görevin* neye dönüştüğünü betimler; ICAP öğrencinin *nasıl katıldığını* betimler. Birlikte kullanıldığında yüzeysel yerine koymayı derin etkileşimli birlikte inşadan ayırırlar.
 - **Benimseme ve eşitlik mercekleriyle tümleyin.** SAMR, bir aracın neden benimsendiği veya kimin yararlandığı hakkında hiçbir şey söylemez. Onu [[technology-acceptance-model|benimseme modelleri]] ve [[equity-in-ai-education|eşitlik]] analiziyle eşleyerek, bir derinlik etiketinin [[critical-thinking|eleştirel değerlendirmenin]] yerine geçmesini önleyin.
 - **Kademeli tümleştirmenin kanıtını bir başarısızlık değil, bir bulgu olarak ele alın.** YZ tümleştirmesinin çoğu Yerine Koyma/Güçlendirme’de kümleşiyorsa, tasarım görevi Yeniden Tanımlamayı zorlamak değil, dönüştürücü kullanımın daha iyi araçlardan çok farklı görev tasarımları gerektirdiğini fark etmektir.
+
+## Yaygın yanlış anlamalar
+
+**“SAMR’de daha yukarıda olmak daha iyi öğretimdir.”** SAMR, YZ’nin öğrenmeyi *yeniden kavramsallaştırıp* kavramsallaştırmadığını yoksa mevcut uygulamayı *iyileştirip* iyileştirmediğini sormak için bir mercektir; bir kalite sıralaması değildir ve Yeniden Tanımlama her görev için doğru cevap değildir. Verimsiz bir adımı ortadan kaldıran bir yerine koyma, bulunduğu düzeye göre değil öğrenmeye göre yargılanan bir başarıdır.
+
+**“YZ benimsemesi merdivende yukarı doğru ilerliyor.”** Dağılım alt uçta yoğunlaşmıştır. [[higher-ed|Yükseköğretimde]] YZ tümleştirmesi üzerine sistematik bir derleme, **kullanımların çoğunun Yerine Koyma ya da Güçlendirme düzeyinde kaldığını, yalnızca bir çalışmanın Yeniden Tanımlamaya yaklaştığını** bulmuştur. Bu nedenle SAMR’nin bu literatürdeki pratik kullanımı büyük ölçüde tanısaldır: alanın gerçekte nerede olduğunu adlandırır.
+
+**“SAMR ile TPACK birbiriyle yarışan çerçevelerdir.”** Farklı şeyleri tanımlarlar: SAMR bir görevdeki *dönüşüm derecesini*, [[tpack|TPACK]] ise bir öğretmenin teknolojiyi iyi tümleştirmek için ihtiyaç duyduğu *bilgiyi* tanımlar. Bir öğretmen yüksek düzeyde TPACK yetkin olup yine de Yerine Koyma düzeyinde çalışabilir; bu yüzden ikisi arasında seçim yapılmaz, birlikte kullanılır.
+
+**“Bir düzeyde dönüştürücü olan bir araç her düzeyde dönüştürücüdür.”** Aynı üretken araç bir derste bir Yerine Koymayı, başka bir derste bir Yeniden Tanımlamayı destekleyebilir, çünkü düzey teknolojinin değil görev tasarımının bir özelliğidir. Düzeyi araca atfetmek, tasarım kararlarının yerine benimseme kararları üretir.
 
 ## Bağlı kavramlar
 

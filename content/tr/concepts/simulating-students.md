@@ -8,7 +8,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,8 @@ Ters başarısızlık biçimi de görülür: kör bir çalışmada uzman belirte
 
 Üretimi öngörülmüş bir davranış modeline koşullamak ince ayar olmadan işler: eğitimsiz bir çerçeve her öğrencinin bilişsel prototipini bir [[knowledge-graph]] kurar ve ışın arama adaylarını buna karşı puanlar; simülasyon doğruluğunda %100’lük bir iyileşme bildirir ([[simulating-students-diverse-cognitive-levels-2025|Wu ve ark. (2025)]]). Kalitesi öğrencinin bilişsel düzeyiyle yükselir, dolayısıyla daha zayıf öğrenenler simüle edilmesi daha zor durum olmaya devam eder.
 
+- **Öğrenen gibi davranmak yerine öğreneni öngörün.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang ve ark. (2026)]] simülasyonu üçüncü kişi öngörüsü olarak yeniden kurar: öğrenenin geçmişinden inşa edilen bir öğrenci modeli bir önsel sağlar, çıkarılan bir öğrenen durumu sonraki eylemi kısıtlar ve simüle edilen yetenek dağılımı Wasserstein-1 uzaklığıyla gerçek olana 2,4-8,4 kat daha yakın düşer.
+
 CogEvolution statik bir kişilik yerine bilişsel dinamikleri modeller — bir ICAP derinlik algılayıcısı her durum güncellemesinin büyüklüğünü belirler ve evrimsel bir güncelleme Yakın Gelişim Bölgesi yarıçapı içinde kalır — statik ajanların 0,45’e ulaştığı yerde R²LC = 0,92’ye ulaşır ve ICAP modülü olmadan 0,58’e çöker ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang ve ark. (2026)]]).
 
 ### Yüzeysel gerçekçilik yerine sadakat
@@ -66,6 +68,9 @@ CogEvolution statik bir kişilik yerine bilişsel dinamikleri modeller — bir I
 Geçerlilik merkezi kaygıdır: bir simüle öğrenci yalnızca, davranışı **epistemik olarak sadık** olduğunda — hedeflenen öğrenenin bilgi durumunu yansıttığında — değerlidir, yalnızca dilbilimsel olarak makul olduğunda değil. Araştırma, bir “simüle öğrencinin” taşıması amaçlanan yanlış kanıları sergilemek yerine basitçe özel ders aracıyla aynı fikirde olması durumu olan [[ai-sycophancy|yağcılığa]] karşı uyarır. Bu, [[trust-calibration]] ve bir ajanın bir yapıyı gerçekten modellemesi mi yoksa yüzeysel davranışı yeniden üretmesi mi olduğunu değerlendirmenin daha geniş sorununa bağlanır.
 
 Başarısızlık nicelendirilmiştir: 4B’den 120B’e parametreye yedi model üzerinde simülatörler, geri bildirim ne olursa olsun doğru yanıta hemen hemen tek düze oranlarda dönmüştür; dolayısıyla çıktı benzerliği, ardındaki inanç durumu hakkında hiçbir şey söylemez; buna karşın Seçici Dönüş Puanına karşı eğitim, sadakati +0,56’ya kadar yükseltmiştir ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar & Sachan (2026)]]).
+
+
+**Simüle müşteriler açıklama evresini ortadan kaldırır ve eğitilen kişinin davranışı bunu izler.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph ve ark. (2026)]], GeCCo kategori sistemi altında 64 insan-insan sohbet danışmanlığı rol yapmasını 74 insan-LLM konuşmasıyla (Mixtral 8x7B, 4-bit) karşılaştırdı ve LLM müşterilerin istek metinlerine gömülü problemi, etrafında dolaşmak yerine doğrudan açıkladığını buldu. Danışmanlar bu nedenle kodlanmış davranışın %17,63'ünde Problem Çözme'ye ulaştı, insan müşterilerle %10,67'ye karşılık; kolaylaştırıcı yönlendirmeden çok olgusal yansıtmaya yaslandılar ve oturumları daha sık formalitelerle kapattılar (%11,95'e karşı %5,95). Tasarım sonucu, ağırlıklı olarak simüle müşteriler üzerine kurulu bir müfredatın bir oturumun ikinci yarısını eğittiğidir: isteksiz bir anlatıyı açığa çıkarmak tam olarak simüle müşterinin atladığı şeydir, bu nedenle müşterinin kendini geri tutmasını sağlayan bir istek metni bunu geri getirir.
 
 ### Bilgi tabanıyla bağlantı
 
@@ -103,6 +108,9 @@ Mimari, istek yazmanın yapamadığını dayatarak gerçekleştirebilir: öz dü
 
 Pedagojiyi değerlendirmenin ötesinde, simüle öğrenciler **YZ sistemlerini denetlemek için bir test koşumu** olarak hizmet eder — bir YZ’nin gerçek öğrencilere dokunmadan önce çeşitli öğrenen profillerinde nasıl davrandığını yoklamanın kontrollü bir yolu. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas ve ark. (2026)]] bunu gösterir: mevcut [[llm|büyük dil modellerinin]] normatif [[learning-analytics]] önerenleri olarak hareket edip edemediğini denetlemek için üç LLM ile 4.500 sentetik öğrenci vinjeti üretmişler; öğrenci ihtiyacına ilişkin sınırlı duyarlılık ve keskin çapraz model tutarsızlık bulmuşlardır. Simüle kohortları, bir YZ’nin önerilerini zorlamak altında test etmek (yalnızca özel ders araçlarını eğitmek veya değerlendirmek yerine) paradigmaya yönelik artan bir roldür ve [[ai-ed-evaluation|Eğitimde YZ değerlendirmesi]] ile, denetim çeşitli öğrenen tiplerinde farklı muameleyi gün yüzüne çıkarmayı amaçladığında [[equity-in-ai-education]] ile yakından bağlantılıdır.
 
+
+Daha keskin bir geçerlilik testi, bir modelin insan *seçimini* hiç yeniden üretip üretmediğini sorar: uyarlanmış bir öz yönlendirmeli öğrenme oyununda beş öncü model tek bir çözümü sömürdü, oysa 175 insan katılımcı hedefler arasında keşif yaptı; bu nedenle öğrenenlerin yerine geçen bir model, simülasyonun yeniden üretmek için var olduğu davranışı terk etti ([[llm-goal-selection-self-directed-learning-2026|Molinaro ve ark. (2026)]]).
+
 Simülasyon, öğrenenin seçimlerini de önceden test edebilir: [[simulating-learner-task-selection|Noh ve ark. (2026)]], iki gerçek özel ders veri kümesine Toplamsal Faktörler Modeli ve Bayesian [[knowledge-tracing]] uydurmuş ve 1.000 simüle öğrenenin sekiz strateji altında beceriler seçmesine izin vermiştir; riskten kaçınan bir kural diğerlerinin yaklaşık otuz katı fazla uygulama üretmiş ve ustalığın hemen altındaki bir kısıt bunu 1,8×’e düşürmüştür.
 
 İkinci bir denetim kaydı [[metacognition|üstbilişsel]] ve duygusaldır. [[meds-math-education-digital-shadows-2026|MEDS (Esposito ve ark. 2026)]], 14 [[llm|model]] için her biri 2.000 sentetik kişilik olmak üzere 28.000 kayıtlık bir veri kümesidir — her biri hem bir insan kişiliği olarak hem de bir taban çizgisi yardımcısı olarak çalıştırılmıştır — ve yerine geçtiği öğrenenlerin bildireceği [[self-efficacy]] ile [[anxiety-and-stress|matematik kaygısı]] puanlarının yanı sıra 18 lise [[problem-solving|matematik probleminde]] doğruluğu, [[self-report-measures|öz bildirimli]] güveni kaydeder. Denetim sinyali kalibrasyon boşluğudur: Qwen ailesi ve Ministral 3B, doğruluk 0,55 civarında durağarken 0,90’ın üzerinde güven iddia etmiştir; Grok 4.1 Fast, DeepSeek Chat ve birkaç Mistral Small varyantı ise aşırı güvensizdi, Ministral 14B ve Anita 24B makul biçimde hizalandı. Aynı çalıştırmalar sadakatin daha sessiz bir başarısızlığını da gün yüzüne çıkarır: insan kipindeki kişilikler geniş, makul puan dağılımları vermiş, taban çizgisi yardımcıları ise neredeyse özdeş, güvenli, düşük kaygılı yanıtlar döndürmüştür — bir simüle öğreneninkinden çok varsayılan bir öz portre. Bu, yukarıdaki öneren denetimini, bir modelin kendi yetkinliği ve duygusu hakkında ne iddia ettiğini yoklayarak genişletir ve sayfanın geçerlilik uyarısını beklenmedik bir yönden keskinleştirir: MEDS kişilikleri yapılandırma gereği ağırlıklandırıldığından, gerçek bir popülasyondan örneklenmediğinden, yazarlar veri kümesini istek metni koşullu [[generative-ai|üretken YZ]] davranışını denetlemeye yönelik gözlemsel bir kaynak olarak, gerçek [[student-experience|öğrenci verisi]] yerine geçen bir kaynak olarak kesinlikle sunmazlar.
@@ -114,6 +122,12 @@ Simülasyon aynı zamanda bireysel öğrenenlerin ötesine geçerek [[collaborat
 2026 kalıcı beceriler çalışması simülasyonun olağan yönünü ters çevirir. Öğrenciyi bir sistemi denetlemek için simüle etmek yerine, sistem öğrenciyi değerlendirmek için *takım arkadaşlarını* simüle eder: bir Yönetici LLM, 30 dakikalık bir grup görevinde her YZ eşinin turlarını üretir, puanlama anahtarını tutar ve hedef becerinin ortaya çıkması için fırsatlar üretmek üzere konuşmayı yönlendirir ([[durable-skills-measurement-ai-teammates-2026|Globerson ve ark. (2026)]]). 188 katılımcıdan çıkan 373 konuşma üzerinde beceri eşlemeli yönlendirme, derecelendirilebilir kanıtı proje yönetiminde %92,4’e ve çatışma çözümünde %85’e yükseltmiştir; bu, kısıtlanmamış bağımsız ajanlara göre belirgin biçimde yüksektir — oysa YZ değerlendiricisi, kendi değerlendiriciler arası Kappa’sı yalnızca 0,45–0,64 olan iki insan derecelendiriciye karşı kalibre edilmiştir; bu, bir simülatörün tavanının insanların yapı üzerinde varabileceği uzlaşıyla belirlendiğine dair yararlı bir hatırlatmadır.
 
 Bir simülatöre karşı eğitim aynı zamanda taşınabilir: TutorLoop’un pekiştirmeli öğrenme aracısı, çevrimdışı olarak simüle bir öğrenciye karşı eğitilmiş ve hiç yeniden eğitim olmadan yeni bir gerçek öğrenme görevine değişmeden aktarılmıştır (N = 187); burada seyrek ama daha iyi zamanlanmış geri bildirimi, daha yoğun geri bildirimden daha iyi performans göstermiştir ([[tutorloop-sensor-cognitive-feedback-2026|Xu & Zhang, 2026]]).
+
+## Yaygın yanlış anlamalar
+
+- **“LLM öğrenciler yeterince iyi vekillerdir.”** **Simülasyonlar en kolay öğrencileri kapsar ve pek azı doğrulanmıştır**: LLM öğrencilere özel ders veren **on iki öğretmen** **aşırı karmaşık dil, eksik duygu** ve gerçek öğrenenlerden başka kopmalar bildirdi. Vekil, ele alınabilir durumu modeller.
+- **“Bilgi boşluğu olan simüle bir öğrenci, o boşluğu taşıyan bir öğrenen gibi davranır.”** Mistral-7B'de **16 hedefli bilgi bileşenini baskılamak, doğruluğu %10 unutma oranında yaklaşık 0,75'ten %40'ta 0,5'in altına düşürdü**, oysa temel model direnç gösterdi. Bozulma tasarlandı; onu bir öykünme değil kontrollü bir müdahale yapan da budur.
+- **“Kişilik kararlılığı bir model seçimi sorunudur.”** Bu bir **etkileşim tasarımı sorunudur**: **beş LLM'yi üç istek metni tasarımı ve dört ADHD şiddeti kişiliğiyle** çaprazlayan çalışmada, betikli farklar modelden çok istek metni tasarımını izledi. Daha iyi bir model seçmek kararsız bir kişiliği düzeltmez.
 
 ## Bağlı kavramlar
 
@@ -134,6 +148,9 @@ Bir simülatöre karşı eğitim aynı zamanda taşınabilir: TutorLoop’un pek
 - [[teacher-role]]
 
 ## Bağlı makaleler
+
+- [[rudolph-llm-simulated-counselling-clients-2026]] — Simüle danışmanlık müşterileri daha hızlı açıklıyor, böylece eğitilenler kolaylaştırıcı yönlendirmeyi atlıyor
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: Rol yapmadan öğrenen davranışı modellemeye, sadık öğrenci simülasyonu için
 - [[tutorloop-sensor-cognitive-feedback-2026]] — Simülatörle eğitilmiş bir pekiştirmeli öğrenme özel ders aracı çevrimdışı olarak yeni bir gerçek göreve aktarıldı (Xu & Zhang 2026)
 
 - [[llm-student-simulation-teacher-insights]] — Can LLMs Simulate Human Learners? Teachers' Insights
@@ -165,3 +182,5 @@ Bir simülatöre karşı eğitim aynı zamanda taşınabilir: TutorLoop’un pek
 - [[student-development-agent-risk-free-simulation-2025]] — öğrencileri müdahaleye maruz bırakmadan çok ajanlı bir platformda ders sonrası gelişimsel sonuçlarını öngörmek
 - [[preservice-teachers-noticing-ai-simulations-2026]] — eşittir işareti sohbet robotu simülasyonunda öğretmen adaylarının üç haftalık dikkat etme, yorumlama ve şekillendirmesi ile tasarımın neye dikkat etmelerini nasıl yönlendirdiği
 - [[beagle-grounded-learner-emulation-2026]] — öz düzenlemeli öğrenme yapısını isteklemeden mimari olarak dayatan ve insan Turing testini geçen nöro-sembolik bir simülatör
+
+- [[llm-goal-selection-self-directed-learning-2026]] — Dil modeli hedef seçimi, öz yönlendirmeli bir öğrenme görevinde insanlardan ayrışıyor

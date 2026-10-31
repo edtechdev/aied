@@ -9,7 +9,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ Kavram, YZ kötüye kullanımının kalıcı öğrenmeyi fiilen zarara uğrattı
 ### Yapısal kolların neden en çok önem taşıdığı
 
 Müdahaleler **nedensel kanıt × yapısal erişim × ölçeklenebilirlik × [[sustainability]]** ile sıralanabilir. Bu temelde iki *yapısal* kol en üstte yer alır, çünkü öğrenciler doğru davranışı seçse de seçmese de işe yararlar — ortamı kısıtlarlar, içsel motivasyona bağımlı kalmazlar. *Eğitici* kollar zorunludur, ancak yalnızca öğrenciler katıldığında etkilidir; bu nedenle kavramsal vaatlerine rağmen ikinci kademe olarak ele alınırlar. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]] yapısal argümanı bir basamak yukarı taşır; öğrenci davranışı yerine yönetişimi bağlayıcı kısıt olarak ele alır ve akademik yöneticilerin değerlendirmenin özgün olup olmadığını, öğrencilerin değerlendiren öğretmenler tarafından bireysel olarak tanınıp tanınmadığını ve dürüstlüğün oryantasyona dâhil edilip edilmediğini görebilmesi için 130 maddelik bir dürüstlük gösterge çerçevesi önerir. Reformları yönetişim mimarilerini, insanları ve [[ai-technologies|teknolojileri ve kaynakları]] hedef alır ve öğrenciler bunları bulmadan önce değerlendirme açıklarını ortaya çıkarmak amacıyla siber güvenlikten [[guardrails|red teaming]] yöntemini ödünç almayı önerir — yapısal tabanın, hem bilgiye hem de onu sürdürme iradesine ihtiyaç duyan kurumlar tarafından korunduğuna dair bir hatırlatma.
+Sorumlu kullanım literatürü, bu sıralamanın varsaydığı zinciri kendisi nadiren sınar. 31 çalışmadan derlenen 122 yaklaşım kaydının 51’i hem uygulanmış hem değerlendirilmiş, çoğunlukla öz bildirim yoluyla; yalnızca dört çalışma bir sınır tanımlamış, bu sınır etrafında bir müdahale tasarlamış ve öğrencilerin kararlarının bu sınırla uyumlu olup olmadığını sınamıştır ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega ve Zhao (2026)]]).
 
 ### 1. Kademe — Öğrenme zararını azaltmak için doğrudan kanıtlanmış
 
@@ -148,3 +149,5 @@ Dürüstlük, bir ceza kuralından çok öğretilmesi gereken bir uygulama olara
 - [[li-genai-assessment-language-equity-2026]] — EAL yazarları için dil desteğinin nerede bittiği ve yer değiştirmenin nerede başladığı (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — YZ notlandırmaya karşı bir kötüye kullanım vektörü olarak istek metni enjeksiyonu (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Dürüstlüğün üzerindeki bağlayıcı kısıt olarak yönetişim: 130 maddelik gösterge çerçevesi (Coates, Croucher ve Calderon 2025)
+
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Akademik yazımda üretken YZ’nin sorumlu öğrenci kullanımı: sınırlar, eğitici yaklaşımlar ve kanıt boşlukları üzerine bir kapsam incelemesi

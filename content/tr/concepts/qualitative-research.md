@@ -6,7 +6,7 @@ research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,37 +36,32 @@ Nitel araştırma tek bir yöntem değil, *ne* incelediklerine ve kanıtın *nas
 ## Temel nitel yaklaşımlar
 
 ### Tematik analiz
-
 Tematik analiz, nitel verilerdeki — tipik olarak görüşme ya da odak grup transkriptleri, açık uçlu anket yanıtları ya da belgeler — kalıpları ("temalar") tanımlar, kodlar ve yorumlar. Bilgi tabanının nitel çalışmalarında en yaygın kullanılan yaklaşımdır. Görüşmeler ve açık uçlu yanıtların kendileri [[self-report-measures|kendi bildirim verileridir]], bu yüzden davranış hakkında ileri sürülebilecek iddialar üzerindeki sınırları paylaşırlar — kendi bildirim kanıtının güçlü olduğu ve çöktüğü yerler için o sayfaya bakın. [[fouad-bentley-trust-utility-gap-physics-2026|Fizikte güven–fayda boşluğuna ilişkin bir çalışma]], [[discipline-specific-aied|alanına özgü]] kuşkuculuk ve benimseme eğilimlerini ortaya çıkarmak için öğrenci görüşme verilerinin tematik analizini kullanır; [[genai-teacher-feedback-comparison|üretici YZ ile öğretmen geri bildiriminin karşılaştırması]] faydalılık ve güvenilirlik algılarını analiz eder; ve [[ai-adult-learning-guidelines-dis2026|yetişkin YZ öğrenmesi için yönergeler]] uzman ve öğrenen girdilerinin tematik kodlamasından tasarım ilkeleri türetir. [[ai-changing-teaching-workflows|YZ öğretmenlik iş akışlarını nasıl değiştirir]] eğitmen anlatılarının tematik analizine dayanır.
 
 Kodlama güvenilirliği, tek seferlik bir kontrol yerine süregelen bir prosedür haline getirilebilir. [[preservice-teachers-noticing-ai-simulations-2026|Galiç ve ark. (2026)]], 304 farkındalık ifadesini Krippendorff’un α = ,803 değerinde kodlar, beş çakışan durumda uyuşmayı izler (toplanmış κ = 0,937) ve yeniden kalibrasyon eşiği olan 0,85'in altına düşüldüğünde tartışmalı ifadeleri yeniden kodlar ve ardından devam eder; kodlanan ifadeler daha sonra hangi boyutların birlikte ortaya çıktığını modelleyen, temaların düz bir listesi olmayan bir epistemik ağ analizine girer.
 
 ### Temel kuram (grounded theory)
-
 Temel kuram, önceden tanımlanmış bir çerçeveyi sınamak yerine teorisini *veriden* kurar ve teorik doyuma ulaşana kadar yinelemeli kodlama (açık → eksensel → seçici) kullanır. Eğitimde YZ ile ilgili ortaya çıkan olgular hakkında yeni teori oluşturmak için idealdir. [[liu-tool-tutor-crutch-programming-2026|Liu ve ark.]], öğrencilerin [[cs-education|programlama eğitiminde]] YZ’ye bilişsel olarak nasıl [[scaffolding|iskeleleme]] uyguladığını ya da yükünü aktardığını gösteren — *araç, özel öğretmen ya da takunya (tool, tutor, or crutch)* üç kipli bir tipoloji kuramı geliştirerek doğrudan [[cognitive-offloading]] kavramını teorileştirir. [[favero-critical-ai-tutors-empower-enslave-2025|Kritik YZ özel öğretmenlerine ilişkin temel kuram çalışması]] bu tür öğretmenlerin öğrenenleri güçlendirip güçlendirmediğini inceler. [[genai-feedback-design-multisite-experiment|İnsan merkezli üretici YZ geri bildirim tasarımı]] çok yerli (multisite) bir çalışmada temel analiz kullanır. Bu tür temel kuramların alanın teori oluşumuna nasıl beslendiğini görmek için [[theory-development-aied]] sayfasına da bakın.
 
 ### Fenomenoloji ve fenomenografi
-
 Fenomenolojik yaklaşımlar bir olgunun *yaşanılan deneyimini* — YZ ile öğrenmenin nasıl bir şey olduğunu — incelerken; fenomenografi insanların bir olguyu *nitelikçe farklı biçimlerde* nasıl deneyimlediğini ve anladığını çalışır ("tanım kategorileri" üretir). [[absent-cognitive-baseline-2026|Yok Olan Bilişsel Temel (The Absent Cognitive Baseline)]], YZ altında öz değerlendirmenin yaşanılan deneyimlerinden yararlanarak yapısal bir boşluğu teorileştirir; [[metacognitively-discordant-completion-genai-2026|bir fenomenolojik çalışma]], bilinçli olarak anlamadan YZ ile işi tamamlama deneyimini yakalar; ve [[genai-runaway-object-math-higher-ed|sosyokültürel, yorumlayıcı bir çalışma]] üretici YZ’nin [[math-education|matematik]] akademik uygulamasında nasıl bir "kontrolden çıkmış nesne (runaway object)" haline geldiğini analiz eder.
 
 ### Söylem analizi
-
 Söylem analizi, kullanım içindeki dilin anlamı, kimlikleri ve iktidarı nasıl inşa ettiğini — sınıf içi konuşmayı, yazılı metni ya da etkileşim dizilerini analiz ederek — inceler. [[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]], sınıf içi etkileşimin anlaşılmasındaki lehçe yanlılığını azaltmak için uzun ufuklu sınıf içi *söylem analizi* yapar (burada hesaplamalı olarak desteklenir); [[scaffolding-critical-engagement-genai-minority-students|azınlık etnik kökenli hazırlık sınıfı öğrencilerine ilişkin bir çalışma]], [[prompt-engineering]] görevlerinde işbirlikçi *söylemi* analiz eder. Söylem analizi, [[educational-nlp]] ile birleştirildiğinde nitel yorumlamayı hesaplamalı yöntemlerle köprüler.
 
 [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]], söylem kodlamasının sayılabilir kurallara dönüştürüldüğünde nasıl denetlenebilir hale geldiğini gösterir: 366 özet ve 91.405 belirteç (token) üzerinde, bir eylemin ancak bir özne bir yüklemi altı aradaki sözcükle izlediğinde sayıldığı bir çağrışım kuralı uygulanır ve adsal yakınlık hariç tutulur, böylece "YZ yönetişimi (AI governance)" ifadesi asla YZ’nin yönettiğinin kanıtı olarak sayılmaz — bağımlılık ayrıştırması değil, kural tabanlı bir yaklaşımdır; tasarım sınırlarını açıkça belirtir.
 
 ### Gözlemler ve etnografi
-
 Gözlem çalışmaları bağlam içindeki davranışı izler; etnografi bunu, araştırmacının sıklıkla katılımcı-gözlemci olarak yer aldığı bir ortamın süregelen, derinlemesine çalışmasına geniletir. [[trio-ethnography-llm-programming-education|YZ destekli programlama eğitimine ilişkin bir trio-etnografi]], öğrencilerin yorumlarının nasıl evrimleştiğini izler; [[zha-ai-literacy-biology-case-study|bir sınıf içi örnek olay çalışması]], [[biology-education|biyolojide]] [[ai-literacy]] bütünleşimini gözler. Gözlemsel yöntemler rapor edilen davranış yerine *gerçek* davranışı (öğrenenlerin YZ ile ne yaptığını) yakalar — tutumların [[educational-measurement|niceliksel ölçümüne]] hâkim olan kendi bildirim anketlerini tamamlar.
 
 ### Örnek olay çalışmaları
-
 Örnek olay çalışması, birden çok veri kaynağı kullanarak sınırlandırılmış bir olguyu (bir kurs, bir kurum, tek bir öğrenen) derinlemesine inceler. [[drummond-genai-business-schools-framework-2026|Bir işletme okulu örnek olay çalışması]], üretici YZ için öğrenci katkılı bir öğretme ve öğrenme çerçevesi üretir; [[zha-ai-literacy-biology-case-study|bir biyoloji örnek olay çalışması]], YZ okuryazarlığı bütünleşimini belgelemektedir. Örnek olay çalışmaları kapsam genişliğini derinlikle değiştirir ve genellemeden ziyade teori oluşumu ve aktarılabilir içgörü için güçlüdür. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif ve ark. (2026)]], üç Filistin üniversitesindeki 21 görme engelli lisans öğrencisine ilişkin nitel bir örnek olay çalışması sunar; yarı yapılandırılmış görüşmelerin tematik analizini kullanarak üretici YZ’nin nasıl [[inclusive-learning|kapsayıcı öğrenme]] için bir [[assistive-technology|yardımcı teknoloji]] işlevi gördüğünü — niceliksel ölçümlerin kaçırdığı mekanizmaları (kişiye özgü uyarlama, öğretmen desteği, eğitimde eşitlik) ortaya çıkaran örnek olay araştırması örneğini — gösterir.
+
+- Seçilmiş varyasyon, bulunmuş varyasyon değildir: 241 anket öğrencisi arasından farklı yeterlik, cinsiyet ve GenAI geçmişine göre seçilen üç İngilizceyi yabancı dil olarak öğrenen öğrenci, üç görev boyunca keskin biçimde ayrışan duygusal yörüngeler izledi, ancak azami varyasyon vakaları herhangi bir yörüngenin ne kadar yaygın olduğunu kestiremez ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang ve Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]], bir öğretmen ve sekiz öğrenci için videoyu, uyarı sisteminin kendi kayıtlarını ve uyaran-hatırlatma görüşmelerini üçgenler; duygusal bir sinyalin yalnızca öğretmenin yanıtı aracılığıyla anlam kazandığını gösterir; tek yazarlı, bağımsız kodlama ya da doğrulanmış duygu algılaması olmadan iki aşamalı bölüm kodlaması, tek kodlayıcılı bir örnek olay analizinin neyi gerekçelendirebileceğinin sınırını işaret eder.
 
 ### Görüşmeler ve odak grupları
-
 Yarı yapılandırılmış **görüşmeler** ve **odak grupları**, yukarıdaki tüm yaklaşımlarda birincil veri toplama araçlarıdır. Zengin, bağlamsal anlatımlar elde ederler. Bilgi tabanının nitel derlemi önemli ölçüde görüşmelere (örn. [[genai-expertise-pathways-sysadmin|uzmanlık yolları]]) ve odak gruplarına (örn. [[t2i-competence-paradox-2026|metinden görüntüye yetkinlik paradoksu]], [[ai-adult-learning-guidelines-dis2026]]) dayanır. Kalite, özenli soru tasarımına, çeşitlilik için örneklem seçimine ve titiz analize bağlıdır.
 
 ## Nitel araştırma bilgi tabanında nasıl görünür
@@ -91,6 +86,16 @@ Son dönemdeki ayırt edici bir gelişme, nitel kodlamaya yardım etmek için [[
 
 Nitel ve niceliksel yöntemler rakip değil, birbirini tamamlayıcılardır — karşıtlıklarını ve üçgenlemesini görmek için [[research-methods-aied]], onları birleştiren tasarımlar için [[mixed-methods-research|karma yöntemler]] sayfasına bakın.
 
+## Yaygın yanlış anlamalar
+
+**“Nitel bulgular örneklemler küçük olduğu için genellenemez.”** Genellikle *istatistiksel* olarak genellenemezler ve sıklıkla *kavramsal* olarak genellenebilirler: tanımladıkları mekanizmalar ve dinamikler, sıklıklar aktarılmasa bile başka ortamlara aktarılır. Öğrencilerin bir öğretmene neden güvenmediğini açıklayan bir odak grubu, bir anketin üretemeyeceği bir mekanizma üretmiştir ve onu güven aralığı yok diye atmak, aktarılan kısmı atmaktır.
+
+**“YZ artık nitel analiz yapabildiğine göre yöntem ölçeklenir.”** Kodlamayı ölçekler, yorumlamayı değil. Külliyatın bunun iyi işlediğini gösterdiği yerlerde bunun nedeni kodlama görevinin önce karşılaştırılabilir kılınmış olmasıdır: bir çalışma **20 üniversitenin** kamu politikaları boyunca **15 sabit vinyet** uygulayarak **300 karşılaştırılabilir sınıflandırma** üretmiştir; bu açık yorumlayıcı değil, yapılandırılmış bir araç tasarımıdır. Nitel işteki içgörü kategori inşasındadır ve model bunu üretmek yerine devralır.
+
+**“Doygunluk katılımcı sayısının bir özelliğidir.”** Analizin bir özelliğidir: yeni veriler yeni kodlar üretmeyi bıraktığında durulur. Aynı örneklem büyüklüğüne sahip iki çalışma doygunluktan eşit derecede uzak olabilir; bu nedenle yeterlilik kanıtı olarak katılımcı sayısı gösteren bir rapor kapsam hakkında hiçbir şey göstermemiştir.
+
+**“Nicel ve nitel bulgular birbiriyle yarışır.”** Farklı soruları yanıtlarlar: bir anket kaç öğrencinin bir öğretmene güvenmediğini, görüşmeler ise nedenini söyler. Onları aynı şeyin rakip anlatıları olarak ele almak, derleme bölümlerinin yeniden üretmeyi sürdürdüğü yanlış seçimi üretir.
+
 ## Bağlı kavramlar
 
 - [[research-methods-aied]]
@@ -108,6 +113,9 @@ Nitel ve niceliksel yöntemler rakip değil, birbirini tamamlayıcılardır — 
 - [[self-report-measures]]
 
 ## Bağlı makaleler
+
+
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — YZ destekli yazmada İngilizceyi yabancı dil olarak öğrenenlerin duygusal angajmanı: boylamsal çoklu örnek olay çalışması
 
 - [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming

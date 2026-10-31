@@ -8,7 +8,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,16 @@ Davranışçılık, öğrenenlerin yapay zekâyı bir konu olarak karşılaması
 2. **Kuram–uygulama uçurumunu izleyin.** Araştırmacılar, bir YZ uygulamasının davranışçı mekanizmalarının savunulan öğrenme hedefine hizmet edip etmediğini yoksa yapay zekânın bir cevap makinesi olarak “Turing Tuzağı”nı sessizce mi tekrarladığını denetlemelidir.([[ai-vocational-education-training-review]])
 3. **Davranışçılığı daha zengin iskelelemelerle eşleştirin.** Anlık geri bildirimli tasarımlar, saf tekrar olarak tek başına durmaktansa daha geniş bir [[scaffolding]] ve [[self-regulated-learning]] bağlamına gömüldüğünde en etkilidir.
 4. **Gözlemlenebilir *ve* aktarılabilir kazanımları değerlendirin.** Davranışçı başarı ölçütleri (hız, doğruluk), öğrenmenin aktarılıp genelleşip genelleşmediğine ilişkin ölçülerle — [[transfer-of-learning]] ve [[research-methods-aied]] çerçevesinde — tamamlanmalıdır.
+
+## Yaygın yanlış anlamalar
+
+**"Davranışçılık modası geçmiş bir kuramdır, dolayısıyla eğitimde YZ üzerindeki etkisi tarihsel bir dipnottur."** Davranışçı mekanikler kuramda gözden düşmüşken uygulamaya egemendir: pekiştirme döngüleri, seri sayaçları, anında doğru/yanlış geri bildirimi ve ustalık kapıları konuşlandırılan sistemlerin çoğunun varsayılan mimarisidir. Kuramı reddederken mekanizmalarını sevk etmek, alanın en yaygın tutarsızlığıdır ve eleştirinin akademik olmadığı anlamına gelir.
+
+**"Gözlemlenebilir davranış değişimi öğrenmeyi sertifikalar."** YZ'nin kırdığı tam olarak budur. Çıktı eşdeğerliği başarısızlık kipidir: bir model sistemin ödüllendirdiği davranışı üretebildiğinde, gözlenen yanıt artık davranışçılığın ondan çıkarsadığı içsel değişimi sertifikalamaz. Davranışçı bir tasarım, ancak davranışın öğrenen tarafından üretilmiş olması gerektiği varsayımı kadar geçerlidir ve üretici YZ, tasarımı değiştirmeden bu varsayımı ortadan kaldırır.
+
+**"Davranışçı tasarımlar yapılandırmacı olanlardan yalnızca daha zayıftır."** Belirli hedeflere iyi uyarlar: akıcılık, olgusal hatırlama, prosedürel otomatiklik; burada anında geri bildirim ve yineleme gerçekten görevin gerektirdiği şeydir. Hata mekanizmada değildir; geçerlilik koşulu (yanıtı öğrenen üretmelidir) sessizce geçerliliğini yitirmiş bir mekanizmayı kullanmaktadır.
+
+**"Kuram gözden düştüğü için, üzerine kurulu sistemler yalnızca sonuçlara göre yargılanabilir."** Sonuçlar, çıktı eşdeğerliğinin tam olarak bozduğu şeydir. Bir sistem mükemmel davranışsal sonuçlar bildirirken öğrenme başka yere taşınmış olabilir; bu nedenle davranışçılıktan etkilenen sistemler desteksiz ölçüme diğer tüm türlerden daha çok ihtiyaç duyar.
 
 ## Bağlı kavramlar
 

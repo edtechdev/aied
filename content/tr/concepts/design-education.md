@@ -11,7 +11,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-02T12:40:11-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,11 +49,23 @@ Aynı zamanda işletme, eğitim ve hukukta aktarılabilir bir beceri olarak öğ
 - **Disiplinler hangi davranışların ödüllendirildiği konusunda farklılık gösterir.** [[same-ai-different-pathways|Shen (2026)]], 221 tasarım öğrencisini 222 işletme öğrencisiyle karşılaştırdı ve [[ai-literacy]]’nin hem istem yeterliliğini hem doğrulama davranışını yönelttiğini buldu (p < .001). Doğrulama, tasarım kohortunda görev kalitesini doğrudan, işletmede denetim benzeri analitik standartlara karşı kalibrasyon doğruluğunu yöneltti — denetim benzeri analitik standartlara karşı açık uçlu fikir üretimi — ve doğrulama, [[cognitive-offloading]]’e karşı üstbilişsel bir güvence olarak işlev gördü.
 - **Atölye yargısı, bir rubrik aracılık ettiğinde yaklaşık olarak taklit edilebilir.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar ve ark. (2026)]], rubrik tanımlayıcılarını yinelemeli biçimde iyileştirerek 80 tasarım posterinde LLM–insan uyumunu %54,75’ten %81,25’e yükseltti; eğitmen, akran değerlendiricisi ve hibe değerlendiricisi istemleri aynı yapıt üzerinde epistemik olarak farklı geri bildirimler üretti. Yazarlar rubriği, pedagojik niyet ile makine çıkarımı arasında gözden geçirilebilir bir arayüz olarak ele alıyor ve uydurma gerekçelere karşı [[human-in-the-loop-ai|insan denetimini]] koruyor.
 - **Öğrenciler araçları basitçe kabul etmek yerine müzakere eder.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]], 417 sanat ve tasarım öğrencisini anketledi: performans beklentisi, sosyal etki, yenilik değeri ve yaratıcı yetkinlik metinden görüntüye araçları kullanma niyetini yönelttiğinde, çaba beklentisi olumsuz yönde yöneltti; bu, kısayol odaklı ders çalışması kullanımı olarak okundu. Yetkinlik paradoksları, yaratıcı yetkinliğin niyeti desteklemesi, ancak öğrencilerin özerkliği ve beceri korunumunu tarttıkça daha seçici kullanımı yönelttiği biçimindedir — sürecin değerlendirilen nesne olduğu bir atölyede bir [[assessment-validity]] problemi. [[rana-genai-design-thinking-2025|Rana ve ark. (2025)]], 12 haftalık bir [[design-thinking]] dersindeki 112 yansıtmadan uyumlu bir sonuca vardı: faydalar ağır bastı (%86 olumlu duygu), etik kaygılar %62 olumsuz duygunun itici gücüydü ve iskelelemeli bütünleştirme öğrencileri kuşkuculuktan %72 olumlu yönelime taşıdı.
+
+- **Yıkım farkındalığı tek başına moral bozucu değildir.** 568 Çinli tasarım öğrencisi arasında YZ'nin tasarım işinin bazı bölümlerinin yerini alabileceği farkındalığı, kendi bildirdikleri yenilik yetkinliğiyle olumlu yönde ilişkiliydi (β = 0,375); bu ilişki, neredeyse birbirini götüren 0,0929'luk bir yükselme odağı yolu ve −0,0884'lük bir önleme odağı yolu üzerinden işliyordu ([[wang-ai-disruption-design-innovation-competence-2026|Wang ve ark. (2026)]]). Bütün ölçüler tek bir öz bildirim dalgasından gelmektedir.
+- **GenAI bir iş akışına yardımcı olurken yaratıcı öz inancı zayıflatabilir.** 36 öğrencilik bir mimari tasarım deneyinde DALL-E 3 akışı, derecelendirilen performans ve bilişsel yük bakımından örnek araştırmasıyla eşleşti, ancak genel yaratıcı [[self-efficacy]] düştü (DiD = −0,543) ve göreve özgü güven korundu ([[caeai-genai-architectural-design-creative-self-efficacy-2026|Xiao ve ark., 2026]]).
 - **YZ eleştirisi, istek metnine değil yapıta bağlanabilir.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]], atölye geri bildirimini tasarımlar, notlar ve iğnelerden oluşan paylaşılan bir pano üzerinden ve beş sınırlandırılmış etkinlikle yönlendirir; çalışma, öğrenme kazanımlarını değil, taklit edilmiş hazır bulunuşluğu (109 etiketin Analiz veya üzeri düzeyde %78’i) bildirir.
+
+- **Bir süreç rubriği, YZ doğrulamasını notlandırılan nesne yapabilir.** [[human-ai-collaboration-design-education-rubric-2026|Orhon ve ark. (2026)]], dört ölçütlü bir rubrik olan Merit Report'u önermektedir (belgelenmiş küratöryel irade %20, tektonik çeviri %20, kural temelli teknik doğrulama %40, akran denetimi %20); rubrik, yapıtın cilasını değil öğrencinin belgelediği YZ doğrulama sürecini notlandırmakta ve AI-Validation Knowledge adını verdikleri bir [[tpack|TPACK]] uzantısına dayanmaktadır.
 
 ## Profesyonel yetiştirme ve düzenleme
 
 Buradaki değerlendirme sorunları profesyonel olanlardan ayrılamaz. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]], Malezyalı iç mimarların birincil biçim üreticilerinden makine çıktısının eleştirel aracıları ve küratörlerine kaydığını tanımlıyor; [[visualization]] platformları zaman çizelgelerini sıkıştırırken üretilen tasarımlar kültürel özgüllük, iklimsel duyarlılık ve güvenilir yapılabilirlikten hâlâ yoksun. Müfredat önerisi, ikame değil sıralamadır — üretken keşiften önce CAD/BIM, yapı bilgisi ve insan faktörleri; [[critical-thinking]] ve etik yansıtmayı ödüllendiren ölçütler. Profesyonel yan çözümlenmemiştir: iç tasarım düzenlemesi mimarininkinden daha az biçimseldir; açıklama, algoritmik hataya hesap verebilirlik ve kariyerinin başındaki uygulayıcılar arasında beceri kaybı sorularını açık bırakır. Analiz belgeye dayalıdır ve tek ülkeyle sınırlıdır.
+
+## Yaygın yanlış anlamalar
+
+- **“Tasarım atölyesinde YZ esas olarak bir yazma yardımcısıdır.”** **280 Milano Politeknik tasarım öğrencisi** ve **100 Yüksek Lisans YZ kullanım günlüğü** üzerinden yapılan bir inceleme, kullanımın araştırma ve yazma içinde kümelendiğini bulmuştur: **yazıyı düzenleme %77,5, bilgi bulma %74,5, beyin fırtınası %68,0**, bütün bir ödevi devretme ise **%18,6 ile nadirdi**. Örüntü, parçaların güçlendirilmesidir, bütünün yerine geçmesi değil; sayılar fiili pratiğin nerede durduğunu göstermektedir.
+- **“Tasarım öğrencileri hevesli benimseyicilerdir.”** Aynı kohort, **%71'inin GenAI'yi günlük veya haftalık kullandığını, %65'inin ona güvenmediğini ve %85'inin çıktısını değiştirdiğini** göstermektedir. Sık kullanım ile düşük güven bir arada bulunmaktadır, dolayısıyla değer önerisi güveni varsayan bir araç kullanıcılarını yanlış okumuştur.
+- **“GenAI tasarım süreci boyunca genel olarak yararlıdır.”** Boylamsal bir atölye çalışması boyunca geliştirilen GAI-A platformu **yalnızca iki verimli kullanım** bulmuştur: erken fikir aşamasında görsel uyaran olarak GenAI ve geliştirme sırasında **çözüm uzayının kombinatoryal genişleticisi** olarak GenAI. Yararlılık aşamaya özgüdür.
+- **“Yaratıcılık kazanımları ölçülemeyecek kadar dağınıktır.”** **31 öğrencilik bir alt grupta** yaratıcı düşünme puanları **77,23'ten 94,68'e (d = 0,82)** yükselmiştir. Kazanım ölçülebilirdir ve bir alt grupla sınırlıdır; iddianın dürüst biçimi budur.
 
 ## Bağlı kavramlar
 
@@ -79,6 +91,10 @@ Buradaki değerlendirme sorunları profesyonel olanlardan ayrılamaz. [[ai-inter
 - [[regulation]]
 
 ## Bağlı makaleler
+
+- [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — DALL-E 3 akışının genel yaratıcı öz yeterliliği düşürdüğü bir mimari tasarım deneyi
+- [[human-ai-collaboration-design-education-rubric-2026]] — Bir süreç rubriği YZ doğrulamasını notlandırılan nesne yapabilir
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Tasarım öğrencilerinde YZ teknolojik yıkım farkındalığı, tasarım düşüncesi zihniyeti ve tasarım yenilik yetkinliği
 
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[ai-mediated-cognitive-divergence-2026]]

@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -53,6 +53,8 @@ Dürüstlük iddiasının dürüst versiyonu, sıklıkla ifade edildiğinden dah
 
 Derlemdeki biçimler, otomasyon ve eşzamanlılıkta geniş bir yelpazeyi kapsar ve her biri problemin farklı bir bölümünü çözer.
 
+Etkileşim biçimi, YZ aracılı bir konuşma görevinin neyi belgelendirebileceğine karar verir. Duolingo English Test’in pilotta 713 tanesi bulunan diyalog görevleri, tepkisel konuşma yerine yanıt seçimi gerektirmiştir; değerlendiriciler bunun, görevin bilişsel taleplerini testin ölçtüğünü iddia ettiği yapıyla uyumsuzlaştırdığını savunmaktadır ([[ai-second-language-listening-speaking-assessment-2025|Goh ve Aryadoust (2025)]]).
+
 **Canlı, insan, eşzamanlı.** [[aivaluate-anxiety-assessment-2026|otuz beş üniversite öncesi öğrenciyle yapılmış bir viva voce çalışması]] tarafından incelenen viva voce taban çizgisidir: aynı öğretmen, aynı sorular, bir teslim yüz yüze ve biri bir YZ sistemi aracılığıyla. Doktora viva’sı, katılımcıların bir tezin taklit edilmesinin daha kolay olduğu ve viva’nın yerinde verilmesi gerektiği akıl yürütmesiyle değerlendirme ağırlığını ona doğru kaydırmayı savunduğu [[pgr-students-genai-uses-qualitative-2026|on beş lisansüstü araştırmacıyla yapılmış nitel bir çalışmada]] görünür. Yazarlar bu akıl yürütmeyi yalnızca kısmen kabul eder; çünkü bir viva, YZ desteğine karşı doğal olarak bir kanıt değildir.
 
 **Kayıtlı ve eşzamansız.** [[asynchronous-oral-assessment-2026|Eşzamansız sözlü değerlendirmeler]], odanın yerine süre sınırlı, üzerinde düzeltme yapılamayan bir web kamerası yanıtı koyar; kabuca otuz saniye hazırlık ve iki ile üç dakika konuşma. Bildirilen pilotta puanlar, yüz yüze çoktan seçmeli testlerinkileri aşmıştır: ara sınav ortancası 70’e karşı 92,5 (p < .001) ve final ortancası 86,4’e karşı 94,2 (p = .002), yalnızca orta düzeyde çapraz biçim korelasyonlarıyla birlikte. Yazarlar farkı biçime değil, öğrenmeye değil açıkça atfederler ve tasarım kurs notunun yüzde 7,5’ini taşımıştır.
@@ -75,7 +77,17 @@ Sözlü kanıt sayılan şey da göründüğünden daha dardır. [[multimodal-em
 
 Bağlayıcı kısıt pedagoji değil, personel ve donanımdır ve derlem aritmetiye ilişkin olağanüstü açıktır: on beş öğrenci için dönem başına yirmi sekiz temas saati, CS1 tasarımında yüzden fazla öğrencili bir sınıf için on bir öğretim asistanı ve çevrim dışı mesleki dağıtımda eşzamanlı olarak çalışan on iki öğrenciye hizmet eden bir dizüstü bilgisayar. Sözlü değerlendirmenin yazılı değerlendirmeye karşı hiçbir rastgele denemesi bu çalışma gövdesinde hiçbir yerde yoktur ve farkı ölçen her çalışma, kontrol grubu olmayan tek kurumlu bir tasarımdır. Sözlü değerlendirme, YZ destekli yerine geçmeye bir yanıt olarak iyi desteklenir ve öğrenmede bir iyileşme olarak ince desteklenir.
 
+Hiçbir biçim bu ödünleşimde sabit bir konum tutmaz: sözlü değerlendirmenin gözlemlenebilirliği bir tasarım seçimidir ve uygulanabilirlik maliyeti bir programın kabul ettiği değil dağıttığı bir maliyettir; uygulanabilirlik, iyi uygulamayı aşındıran kısıt değil eğitimsel bir önceliktir ([[assessment-feedback-trilemma-model-2026|Pedlow ve ark. (2026)]]).
+
+Sözlünün bütünlük gerekçesi de zamanla sınırlıdır: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin ve ark. (2026)]], YZ gözlüklerinin ve kulaklıklarının canlı bir viva içinde gizli gerçek zamanlı istemler iletebileceğini savunur; çünkü giyilebilir YZ bakış kayması veya algılanabilir bir sinyal üretmez, dolayısıyla etkileşimli sözlü sınavlar artık bağışık değildir.
+
 - **Ölçek tavanı tasarım kısıtıdır.** 73 [[cs-education|bilgisayar bilimi]] eğitimcisiyle yapılan bir atölyede, sözlü ve etkileşimli değerlendirme bireysel anlayışın en güçlü mevcut kanıtı ve en ölçeklenemez çaresi olarak bildirilmiştir; katılımcıların tanımladığı hafifletmeler dağıtım ve örneklemedir — paylaşılan öğretim asistanı havuzları, bir final sınavının altında ağırlıklandırılan akran değerlendirmesi ve dönen bir öğrenci alt kümesini çağırma ([[computing-assessment-genai-workshop-report-2026|Akbar ve diğerleri, 2026]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Sözlü değerlendirme ölçeklenemez.”** [[code-review-genai-cs1|CS1 sözlü kod inceleme çalışmasında]], **haftalık on beş dakikalık görüşmeler her ödevin notunun yüzde yetmişini taşımıştır** ve yapıştırılmış karakterlerin toplam karakterlere oranı hâlâ bilgilendirici kalmıştır. Maliyet gerçektir ve tasarım kurs ölçeğinde uygulanabilirdir.
+- **“Sözlü sınavlar yazılı olanlardan daha yumuşaktır.”** Bildirilen pilotta puanlar **yüz yüze çoktan seçmeli testlerinkini aşmıştır: ara sınav ortancası 70’e karşı 92,5 (p < .001) ve final ortancası 86,4’e karşı 94,2 (p = .002)**. Sözlü değerlendirme hoşgörülü seçenek değildi.
+- **“Simüle edilmiş bir karşılaşma, kademeli açıklamalı vakalara eşdeğerdir.”** [[ai-standardized-patient-scaffolding-medical-2026|yüz üçüncü yıl tıp öğrencisiyle yapılmış bir RCT]]’te simüle hasta sistemi **kademeli açıklamalı vaka materyalleriyle** karşılaştırılmıştır; bu, eşdeğerliğin varsayılması değil doğrudan sınanmasıdır.
 
 ## Bağlı kavramlar
 
@@ -105,3 +117,6 @@ Bağlayıcı kısıt pedagoji değil, personel ve donanımdır ve derlem aritmet
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Simüle hasta sistemi altında sözlü klinik görüşmeler
 - [[pgr-students-genai-uses-qualitative-2026]] — Üretici YZ altında doktora viva’sı
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Üretici YZ çağında bilgisayar bilimi değerlendirmesi üzerine çevrim içi bir atölye raporu
+- [[ai-second-language-listening-speaking-assessment-2025]] — Dallanmayan YZ diyalog görevleri, görev taleplerini konuşma yapısıyla uyumsuzlaştırır
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Canlı viva’lar artık bağışık değil: YZ gözlükleri ve kulaklıkları gizli gerçek zamanlı istemler iletir (Corbin, Sharpe ve Dawson 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Hiçbir biçime sabit bir konum tanımaz ve uygulanabilirliği eğitimsel bir öncelik olarak yeniden çerçeveler

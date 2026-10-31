@@ -9,7 +9,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **[[pedagogy|Pedagogical]] işbirliği** (**öğrenciler ortak olarak** ya da **SaP** olarak da bilinir) — öğrencilerin, akademik personel tarafından tasarlanmış öğretimin pasif alıcıları olarak değil, müfredatı, öğretim etkinliklerini, [[assessment]], açık eğitim kaynaklarını ve eğitim politikalarını birlikte yaratmak üzere işbirlikçiler olarak çalıştığı, ilişkiyi merkeze alan bir öğretim ve öğrenme yaklaşımı. **Saygı, karşılıklılık ve sorumluluk** değerlerine kök salan (Cook-Sather ve ark., 2014) pedagojik işbirliği, öğrencileri bilgi ve eğitim yeniliğinin eş yaratıcıları olarak yeniden konumlandırır ve eğitimdeki geleneksel yukarıdan aşağıya güç dinamiğine meydan okur. Yapay zeka çağında işbirliği, öğrencilerin YZ aldatıcısı ya da mağdur olarak görüldüğü eksiklik odaklı bakış açılarının temel karşı anlatısı haline gelmiştir — öğrencileri YZ politika, araç ve uygulamalarının eş tasarımında ortaklar olarak konumlandırır.
+> **[[pedagogy|Pedagogical]] işbirliği** (**öğrenciler ortak olarak** ya da **SaP** olarak da bilinir) — öğrencilerin, akademik personel tarafından tasarlanmış öğretimin pasif alıcıları olarak değil, müfredatı, öğretim etkinliklerini, [[assessment]], [[open-education|açık eğitim kaynaklarını]] ve eğitim politikalarını birlikte yaratmak üzere işbirlikçiler olarak çalıştığı, ilişkiyi merkeze alan bir öğretim ve öğrenme yaklaşımı. **Saygı, karşılıklılık ve sorumluluk** değerlerine kök salan (Cook-Sather ve ark., 2014) pedagojik işbirliği, öğrencileri bilgi ve eğitim yeniliğinin eş yaratıcıları olarak yeniden konumlandırır ve eğitimdeki geleneksel yukarıdan aşağıya güç dinamiğine meydan okur. Yapay zeka çağında işbirliği, öğrencilerin YZ aldatıcısı ya da mağdur olarak görüldüğü eksiklik odaklı bakış açılarının temel karşı anlatısı haline gelmiştir — öğrencileri YZ politika, araç ve uygulamalarının eş tasarımında ortaklar olarak konumlandırır.
 
 ## Dikkate Alınması Gereken Sorular
 
@@ -71,7 +71,7 @@ Bu alanlar çekirdek bir iddiayı paylaşır: [[ai-education|AI in education]] i
 Pedagojik işbirliği, birkaç komşu kavramla ilişkilidir ama onlardan ayrıdır:
 
 - **[[agency|Learner agency]] ve [[self-directed-learning]]:** İşbirliği, öğrencilere ne ve nasıl öğrendiklerine dair bir ses vererek öğrenen etkenliğini destekler ve öz yönelimli öğrenmeyle örtüşür. Bununla birlikte işbirliği temelde *ilişkiseldir* — etkenlik ve yönelim, izolasyonda değil öğretmen–öğrenci ilişkisi yoluyla ortaya çıkar. Bazı çerçeveler bunu, iki taraftan birinde değil öğrenci ile öğretmen arasındaki ilişkide var olan "paylaşılan etkenlik" olarak kavramsallaştırır.
- Anastasia (2026), böyle bir işbirliğinin gerektirdiği sekiz koşulu adlandırır — öğretmen varlığı, güven, psikolojik güvenlik, diyalog, ses ve seçim, anlamlı geri bildirim, yansıtma ve paylaşılan sorumluluk — ve yalnızca seçimin özerkliği yaratmadığını savunur: öğrencilere seçenekler sunulabilir ama bunları kullanmak için gereken bilgi, özgüven ya da psikolojik güvenlikten yoksun olabilirler ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
+- Anastasia (2026), böyle bir işbirliğinin gerektirdiği sekiz koşulu adlandırır — öğretmen varlığı, güven, psikolojik güvenlik, diyalog, ses ve seçim, anlamlı geri bildirim, yansıtma ve paylaşılan sorumluluk — ve yalnızca seçimin özerkliği yaratmadığını savunur: öğrencilere seçenekler sunulabilir ama bunları kullanmak için gereken bilgi, özgüven ya da psikolojik güvenlikten yoksun olabilirler ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning]]:** İkisi de birlikte çalışmayı içerir, ancak işbirlikçi öğrenme tipik olarak öğrencilerin tasarlanmış bir etkinlik içinde *birbirleriyle* öğrenmesini ifade eder; pedagojik işbirliği ise öğrencileri ve personeli eğitimin *tasarımı* üzerinde işbirliği yapmaya odaklar.
 - **[[student-engagement]]:** İşbirliği, katılımın derin bir biçimidir; ancak katılım bir öğrencinin öğrenmeye dahil olmasını tanımlarken, işbirliği öğrencilerin o öğrenmeyi şekillendirmeye dair sorumluluğu paylaştığı değişmiş bir güç ilişkisini tanımlar.
 - **[[teacher-role]]:** İşbirliği, öğretmenin rolünü bilginin tek otoritesi ve kapı bekçisi olmaktan, akademik personelin uzmanlığını azaltmadan, eş tasarımcı ve entelektüel rehbere dönüştürür.
@@ -88,6 +88,8 @@ Pedagojik işbirliği, birkaç komşu kavramla ilişkilidir ama onlardan ayrıd�
 - İşbirliği üzerindeki kaynak ve kurumsal kısıtlar, gerçek eş tasarımın zaman yoğunluğu dâhil.
 - İşbirliğinin, geleneksel hiyerarşilere meydan okuyan ve bilmenin çoklu yollarını merkeze alan dekolonizasyoncu, kritik ve [[critical-pedagogy|critical pedagogies]] ile ilişkisi.
 
+- **Mentorluk iki yönde de işleyebilir.** Columbia’nın 14 bölümüne yayılan 20 bursiyer ve 15 stajyerlik bir programda stajyerler öğretim elemanlarına YZ araçlarını öğretirken öğretim elemanları disipliner standartları öğretmiş ve çiftlerin çoğu bir Çevirmen modeline yerleşmiştir ([[learning-by-collaborating-ai-research-mentorship-2026|Zheng (2026)]]).
+
 ## Pratik çıkarımlar
 
 Pedagojik işbirliğini benimsemek isteyen eğitimciler ve kurumlar için bilgi tabanının araştırmaları şunu öne sürer:
@@ -97,6 +99,12 @@ Pedagojik işbirliğini benimsemek isteyen eğitimciler ve kurumlar için bilgi 
 3. **İlişki ve güvenle öncülük edin.** İşbirliği, güven, psikolojik güvenlik, diyalog ve paylaşılan sorumluluk bilinçli olarak beslendiğinde işler — varsayıldığında değil.
 4. **YZ çağında öğrencileri izlemek yerine sürece davet edin.** YZ politikasını, araçlarını ve değerlendirmesini öğrencilerle eş tasarlamak, eksiklik odaklı yanıtlardan hem daha eşitlikli hem daha etkilidir.
 5. **Katılımın eşitliğini göz önünde bulundurun.** Bütün sınıf işbirliği en geniş katılımı sunar; seçici programlar hangi öğrencilerin davet edildiğine ve dâhil edildiğine dikkat etmelidir.
+
+## Yaygın yanlış anlamalar
+
+- **“İşbirliği, öğrenci sesini yükseltmek anlamına gelir.”** Pedagojik işbirliği, tanımlanmış roller ve karşılıklı yükümlülük taşıyan **sınırlandırılmış, müzakere edilmiş bir ilişkidir**, danışma değil. Rol, yetki alanı ve kararın bir payı olmadan ses, yapısal hiçbir şeyi değiştirmez.
+- **“İşbirliği, benimsenebilecek bir duruştur.”** Kurumsal koşullar gerektirir: zaman, öğrenci ortağın tanınması ve ortakların gerçekten etkileyebileceği bir değişiklik. Bu koşullar olmadan ilan edilen işbirliği, kesintiye uğratmayı iddia ettiği hiyerarşiyi yeniden üretir.
+- **“Güç paylaşımı, öğretim elemanı gelişimi olamaz.”** Literatürün iddiası, işbirliğinin gelişim *olduğudur*, çünkü eğitimcinin anlayışını ilişki üzerinden değiştirir. Onu yalnızca öğrenci yararı olarak çerçevelemek mekanizmayı elden çıkarır.
 
 ## Bağlı kavramlar
 

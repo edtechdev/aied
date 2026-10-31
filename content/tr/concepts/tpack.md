@@ -8,7 +8,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,9 @@ TPACK, etkili teknoloji tümleşiminin ayrı bilgi alanlarının toplamı değil
 - **Teknolojik Pedagojik Bilgi (TPK)** — teknolojinin öğretim stratejilerini nasıl desteklediği veya kısıtladığı.
 - **TPACK** — merkezdeki ortaya çıkan, bütünleşik bilgi; üç alanın teknolojiyi geliştiren, içeriğe özgü öğretimi mümkün kılmak için etkileşime girdiği nokta.
 
+- **Çerçeve, alana varsayılan olarak egemendir ve uyması için zorlanmaktadır.** YZ destekli öğretim tasarımına ilişkin 78 çalışmanın PRISMA yönlendirmeli bir derlemesinde yalnızca 19'u adlandırılmış herhangi bir yetkinlik çerçevesi uygulamış ve TPACK ile türevleri **bu 19'un 17'sini** oluşturmuştur; analitik bir mercek olarak verimli biçimde kullanılmış, ancak TPACK YZ'ye özgü kapasiteler için tasarlanmadığından özgün kapsamının ötesine zorlanmıştır. Amaca özel uzantılar buna karşılık olarak nadirdir: **Intelligent-TPACK yalnızca beş çalışmada** görülmüş ve genellikle gelişimsel ilerlemeyi ele almak için [[ai-literacy]] ile eşleştirilmiştir ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou ve Kameas, 2026]]).
+- **Araştırma kuramsallaştırılmadan ilerlerken politika çerçeveleri test edilmeden kalır.** Aynı derleme, **çalışmaların %76'sının yetkinlikleri hiçbir kuramsal eşleme olmaksızın pratikten çıkarsadığını** ve 78 çalışmanın hiçbirinde ne DigCompEdu'nun ne de UNESCO Öğretmenler için YZ Yetkinlik Çerçevesi'nin analitik bir çerçeve olarak uygulanmadığını bulmuştur; bu, her iki yönde işleyen bir kopuştur: ampirik çalışma ortak bir sözlük biriktirmezken, uygulamaya yön vermesi gereken çerçeveler bu bağlamda ampirik olarak test edilmemiş kalır.
+
 ## AI-TPACK ve GenAI-TPACK
 
 YZ çağı çerçeveyi zekâsı olan bir teknoloji okumasına doğru itmiştir. Pasif bir araç olmaktan çok, üretken YZ; planlayabilen, içerik üretebilen, öğreticilik yapabilen ve uyum sağlayabilen etkin bir ajandır — bu nedenle tümleşim bilgisi giderek daha çok **orkestrasyon** içerir: YZ’nin ne zaman ve nasıl hareket ettiğine, iskelelediğine veya [[human-in-the-loop-ai|human judgment]] yol verdiğine karar vermek.
@@ -83,6 +86,12 @@ TPACK, bilgi tabanının kanıt tabanının öğretmen tarafı için örgütsel 
 2. **YZ’yi bir cihaz değil, bir ajan olarak ele alın.** AI-TPACK çerçeveyi [[agentic-ai|AI agents]] orkestrasyonuna doğru genişletir; YZ’nin ne zaman hareket etmesi gerektiğine ilişkin sistem düşüncesi ve pedagojik yargı ister.
 3. **HG’yi öğretmen profiline göre farklılaştırın.** Farklı öğretmen arketipleri (iyileştiriciler, yaratıcılar, gözlemciler) farklı iskelelemeden yararlanır — sırasıyla gelişmiş çerçeveler, hızlı geri bildirim veya açık modelleme.
 4. **Bütünleşik yetkinliği değerlendirin.** TPACK yönelimli sonuçlar (ör. AI-PCK kazanımları) kendinden bildirilen araşıkla kullanım olarak değil, bütünleşik kapasite olarak ölçülmelidir.
+
+## Yaygın yanlış anlamalar
+
+- **“TPACK'in baskınlığı açıklama gücünü yansıtır.”** Bu baskınlık **kısmen bir bulma artefaktıdır**: **195 teknoloji destekli öğretmen eğitimi çalışmasını** kapsayan bir PRISMA tarama derlemesinde dijital yetkinlik, TPACK ve DigComp **dizinlenmiş literatüre egemendir**. Bir aramadaki yaygınlık, alanın kullandığı sözcük dağarcığının bir özelliğidir; çerçevenin daha fazlasını açıkladığının kanıtı değildir.
+- **“İyi bilinen bir çerçeve, YZ için doğrulanmış bir çerçevedir.”** TPACK, YZ'ye özgü kapasiteler için tasarlanmamıştır; Intelligent-TPACK'in geliştirilme nedeni budur ve 78 çalışmalık derlemede yalnızca **beş çalışmada** görünmektedir. TPACK'i GenAI yetkinliği için kullanmak, onu yapısının ötesine germek demektir.
+- **“Bir çerçeve uygulamak, araştırmanın kuramsallaştırıldığı anlamına gelir.”** Aynı derleme, **çalışmaların %76'sının pratikten hiçbir kuramsal eşleme olmaksızın yetkinlik çıkarsadığını** bulmuştur; dolayısıyla TPACK'in alandaki varlığı, araştırmaların çoğunun kuramsallaştırılmamış olmasıyla bir arada bulunmaktadır. Adlandırılmış bir çerçeve, iş yapan bir çerçeveyle aynı şey değildir.
 
 ## Bağlı kavramlar
 

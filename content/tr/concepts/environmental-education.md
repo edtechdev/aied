@@ -10,7 +10,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,8 @@ ai_assist:
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
+
+> **Çevre eğitimi** — iklim, sürdürülebilirlik ve doğal dünya hakkında öğretim; [[ai-education|eğitimde YZ]] bağlamında bu aynı anda iki şey haline gelmiştir: YZ’nin [[inquiry-based-learning|sorgulama]] ve [[situated-learning|durumlu]] öğrenme yoluyla destekleyebildiği bir konu ve YZ’nin yüklediği bir maliyet, çünkü her öğrencinin dizüstü bilgisayarında çalışan enerji yoğun [[llm|dil modelleri]] kendi çevresel ayak izlerini taşır. Bilgi tabanı iki yarıyı birlikte ele alır, çünkü karbon yoğun bir araçla verilen [[sustainability|sürdürülebilirlik]] eğitimi, hiçbir tek çerçevenin tek başına yanıtlayamadığı bir soruyu gündeme getirir.
 
 ## Düşünülmesi Gerekenler
 
@@ -77,6 +79,12 @@ Bu literatürü düzenleyen [[meta-analysis-systematic-review|kapsam incelemesi]
 3. **Sabırsız öğrenen için tasarlayın.** Daha düşük karbonlu seçenek algılanan gecikmeye mal oluyorsa, öğrencilerin çoğu onu seçmeyecektir: gecikmeyi düşük tutun, denetimleri görünür kılın ve etkiyi soyut karbon birimleriyle değil somut sonuç terimleriyle anlatın.
 4. **Pedagojinin izin verdiği yerde daha hafif dağıtımı tercih edin.** Bir modeli lisanslı yerel bir derlemde temellendirmek ve ince ayarla nicelemek, enerjinin bir kesrinde kullanılabilir doğruluk verdi — bulut çıkarımını ölçeklendirmeden önce bu deseni yeniden kullanın.
 5. **Öğretmen yetkinliğini farkındalık kampanyalarıyla değil materyal geliştirmeyle oluşturun** ve Kuzey Amerika ile Avrupa bağlamlarından kanıt ithal etmek yerine [[global-south|Küresel Güney]] boşluğunu doldurun.
+
+## Yaygın yanlış anlamalar
+
+- **“Çevre eğitiminde YZ esas olarak bilgi sağlar.”** Ölçülen kazanımlar **karar vermededir**: yapılandırılmış bir [[inquiry-based-learning|sorgulamaya dayalı öğrenme]] görevi içinde bir YZ ortağıyla çalışan öğrenciler, karar verme ölçütünde yalnızca sorgulamaya dayalı akranlarını (**d = 0,69**) ve geleneksel öğretimi (**d = 1,88**) geçmiş, kazanımlar **en zayıf adımlarda yoğunlaşmıştır**. Etki, akıl yürütme kalitesindedir; öğrencilerin en zayıf olduğu noktalarda.
+- **“Tek başına sorgulama etkin bileşendir.”** YZ destekli sorgulama, **iklim karar vermeyi yalnızca sorgulamaya kıyasla iyileştirdi**; dolayısıyla YZ katkısı pedagojik yapıya ek olarak gelmiş, onunla değiştirilebilir olmamıştır.
+- **“Küçük örneklemlerden çıkan büyük etkiler yine büyük etkilerdir.”** Sürdürülebilir Kalkınma Pedagojisi altında YZ destekli [[learning-design|öğretim tasarımı]], **28** katılımcıyla öğretmen adaylarının ders planlarını **d = 2,80** ile iyileştirdi; hakemlerin kendi deyimi *akıl almaz derecede büyük*tür ve bu örneklemden çıkan bu büyüklükteki bir etki bir tahmin değil, bir sinyal olarak ele alınmalıdır.
 
 ## Bağlı kavramlar
 

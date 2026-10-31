@@ -9,7 +9,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,9 @@ ai_assist:
 Akran değerlendirmesi, öğrencilerin normalde öğretmenlere ayrılmış olan değerlendirme işinin bir kısmını üstlendiği bir değerlendirme tasarımı seçeneğidir. Biçimleri, öğrencilerin ne ürettiği ve neyin hesaba katıldığı bakımından farklılık gösterir: akran geri bildirimi (tasalaktaki bir çalışmaya ilişkin yorumlar, genellikle [[formative-assessment|gelişimsel]] ve düşük riskli), akran notlandırma (nota katkıda bulunan bir işaret), akran kod incelemesi ve grup ya da ekip değerlendirmesi (akranların ortak ürünü veya birbirlerinin katkılarını değerlendirdiği yerlerde). Biçim, öğrencilerin ne pratik yaptığını belirler — ölçütlere dayalı bir yorum vermek, bir sayı atamaktan farklı biçimde [[evaluative-judgment|değerlendirme yargısı]] geliştirir ve kendi kodunu sözlü olarak savunmak yine bambaşka bir şey inşa eder. [[self-assessment]] olan kardeş uygulama, aynı ölçütlere dayalı incelemeyi öğrenenin kendi çalışmasına çevirir; akran değerlendirmesi ise bunu bir akranın teslim ettiği çalışmaya ve onunla birlikte gelen kitle farkındalığına yönlendirir.
 
 Araştırma temeli, akran değerlendirmesinin öğrenme ürettiği konusunda hemfikirdir ve bunun ne kadarının tasarıma bağlı olduğu konusunda ayrışır. Öğrencilere otantik bir kitle sunar, ölçütlere dayalı yanıt verme yoluyla değerlendirme yargısını geliştirir ve [[student-engagement|katılımı]] ile [[motivation]]'ı destekleyen toplumsal bağlamı inşa eder. Kalitesi büyük ölçüde [[scaffolding]]'e bağlıdır — ne kadar iyi yapılandırıldığına ve öğrencilerin net ölçütler ile eğitim alıp almadığına. YZ, akranların verdiği özgün, bağlam farkında geri bildirime tutarlı, ölçüt odaklı bir tamamlayıcı olarak ve giderek artan biçimde akran değerlendirme sürecinin içine inşa edilmiş bir iskele olarak, tam bu bağımlılık noktasında girer.
+
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang ve Guo (2026)]], akranlarının yazılarını üretken YZ ile açık uçlu diyalog üzerinden inceleyen EFL öğrencilerinin, alıcıların nitelik açısından daha yüksek puanladığı geri bildirim ürettiğini; duygusal yanıt ve geri bildirim okuryazarlığındaki kazanımların ise diyaloğun niteliğine göre değiştiğini bulmuştur.
 
 ## Öğrencilerin akranları değerlendirmekten ne öğrendiği
 
@@ -88,6 +91,12 @@ Bundan birkaç tasarım hamlesi çıkar. Değerlendirenlere değerlendirmeden ö
 GenAI aracılı inceleme ayrıca aracın dilsel normlarını miras alır: bir Dünya İngilizceleri diyaloğuna katkıda bulunanlar, GenAI kullanan değerlendirenlerin modellerdeki baskın İngilizce çeşitlerine yönelik aynı önyargıya maruz kaldığını ve üretilen metni yazarın kendi dilsel kimliğini yansıtacak biçimde düzenlemeyi veya yeniden yazmayı önerir ([[genai-linguistic-diversity-academic-writing|Ugwuanyi ve ark. (2026)]]).
 
 Açık sorular yalnızca tasarımla değil, kanıtın gücüyle ilgilidir. Akran ve YZ kanıtlarının çoğu küçük ve bağlama bağlıdır: bir kursta 45 öğretmen adayı, bir işletme yazma kursunda 34 öğrenci, 15 odak grubunda 52 hizmet öncesi öğretmen. PAIRR anketi buradaki en büyük veri kümesidir ve öğrencilerin değerlendirdiği YZ çıktılarının kalitesini değil, öğrenci algılarını ölçer. Yalnızca çok merkezli deneyin 1,176 lisans öğrencisi nedensel-karşılaştırmalı ölçeğe yaklaşır ve bu, akran değerlendirmesinin kendisinden ziyade bilimsel argümantasyon için geri bildirim tasarımını test eder. Bu arada [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]], YZ'nin eğitimi iyileştirdiğini iddia eden 14 akran değerlirmeli meta-analizi denetledi ve hiçbirinin iddiaları için geçerli bir temel sunmadığını buldu — ikisi dışında hepsi tedaviyi bir pedagojik müdahale yerine bir araç olarak tanımladı, I² bildiren her meta-analizde heterojenlik yüksekti (77.2%'dan 94.4%'a) ve 59 birincil çalışmanın denetiminde %61'inin [[assessment-validity|geçerlilik sorunları]] olduğu, en sık ölçülen sonuç ile yapılan iddia arasındaki uyuşmazlık olduğu görüldü. YZ'nin akran değerlendirmesinde ne yaptığına ilişkin iddialar, tasarlanmış bir etkinlik hakkında, o etkinliğin koşullarında test edilmiş iddialar olarak ele alınmalıdır.
+
+## Yaygın yanlış anlamalar
+
+- **“Sözlü savunma, YZ destekli çalışmayı durdurur.”** Her CS1 teslimi **notun %70'ini taşıyan 15 dakikalık sözlü kod incelemesine** tabi tutulduktan sonra yapıştırılmış metnin toplam karakterlere oranı **%61,0'dan %68,1'e yükseldi (p < 0.0001)**. Hedeflediği davranış artmıştır; buna karşılık **sınav puanları düşmedi ve görev üzerinde geçirilen süre sabit kaldı**, öğrencilerin **%90'ı incelemelerin kendilerini motive ettiğini** söyledi. Müdahale anlama üzerinde işledi, yapıştırma üzerinde değil.
+- **“Sözlü değerlendirme hile tespiti içindir.”** Ölçülen sonuçlar anlama ve motivasyondu, yapıştırılmış metnin azalması değil. Tasarımı tespit oranıyla yargılamak, onun ne başardığını yanlış okumaktır.
+- **“Akran incelemesi, öğretmen geri bildiriminin daha ucuz bir yedeğidir.”** Mekanizma [[learning-by-teaching|öğretirerek öğrenmedir]] ve makineler arasında bile ortaya çıkar: **2,4 milyondan fazla YZ aracı** arasındaki akran öğrenmeye benzer söylem çoğunlukla **sorgulama değil iddia** idi. Eleştiri üretmek, onu almaktan farklı bir edimdir.
 
 ## Bağlı kavramlar
 

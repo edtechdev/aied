@@ -9,7 +9,7 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,9 @@ ai_assist:
 
 Öğrencilerden iş üretmelerini isteyen değerlendirmeler, onların önce başkalarının, sonunda da kendi iyilerini ayırt edebildiğini varsayar. Bu varsayım artık güvenilir değildir: [[generative-ai|generative AI]] talep üzerine yetkin metin, kod ve analiz üretebildiğinde, bir ürün *üretme* yeteneği öğrenmenin zayıf bir göstergesi iken bir ürünü *yargılama* yeteneği güçlü bir göstergedir. Değerlendirici yargı bu yeteneği adlandırır ve bilgi tabanının değerlendirme alanı çalışmaları, neyin değerlendirilebilir ve değerlendirilmeye değer kaldığını sorduğunda sürekli buraya varmaktadır. Yargı, çalışmaları standartlara karşı karşılaştırma ve fark üzerinde eylemde bulunma yoluyla geliştiğinden, [[feedback]], [[formative-assessment]] ve [[self-regulated-learning]]nin kesiştiği yerde yer alır; YZ çıktısıyla gerçekten [[critical-thinking|critical]] [[student-engagement|engagement]] ertelenen bir hedeften ziyade mümkün kılan şey budur.
 
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu ve Abdi (2026)]], on iki çalışmalık bir kapsam derlemesinden yola çıkarak YZ yazma puanlarının dar bir yapıyı yeniden ürettiğini savunur: denetlenebilir yüzeysel özellikleri izlerler ve düzenleme, tutarlılık ile argümanı hafife alırlar; bunlar bir yazma niteliği yargısının dayandığı boyutlardır.
+
 ## Yapının ne olduğu
 
 Değerlendirici yargı, niteliği değerlendirme yeteneğidir — kişinin kendi çalışmasını, akranlarının çalışmalarını ve giderek daha fazla bir YZ sisteminin çalışmasını, ezberden çok üzerinde akıl yürütülebilen ölçütler kullanarak. Onu komşu fikirlerden ayıran üç özellik vardır.
@@ -54,6 +57,8 @@ Dört argüman birleşir.
 - **YZ kullanımını yöneten yetenek budur.** Bir YZ önerisinin kabul edilmeye, uyarlanmaya veya reddedilmeye değer olup olmadığına karar vermek, makine çıktısına uygulanan değerlendirici yargıdır. Onu görünür kılamayan kurslar, sorumlu kullanımı ikameden ayırt edemez; bu nedenle [[academic-integrity|integrity]] araştırmacıları giderek daha fazla eleştirel YZ kullanımını, denetlenecek bir kuraldan ziyade değerlendirilebilir bir sonuç olarak ele almaktadır.
 - **Yaptırımdan tasarıma doğru dönüm noktasıdır.** Yasaklı kullanımın tespit edilemediği yerlerde [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]], değerlendirici yargıyı beslemeyi, kurumları [[ai-detection|detection-led enforcement]] geçerlilik odaklı değerlendirmeye taşıyan üç tasarım çizgisinden biri olarak adlandırır — çünkü kurumun tespit edemediği yerde, incelemeye dayanan yetenek, öğrencinin işten ve onun niteliğinden hesap verip veremeyeceğidir.
 - **Açıklamayı itiraftan kanıta dönüştürür.** Bir görev öğrencilerden YZ’yi ne için kullandıklarını, hangi önerileri kabul ettiklerini veya reddettiklerini ve nihai teslimin kendi yargılarını nasıl yansıttığını açıklamalarını istediğinde, [[ai-use-disclosure|declaration]], cezai biçimde yorumlanacak bir itiraftan ziyade yargının bir gösterimine dönüşür — bu, açıklamayı aksi hâlde yeraltına iten [[academic-integrity|cost of honesty]] düşürendir.
+
+- **Yargı, kısıtlamaları kaldırarak değil, bir araya getirilmiş kısıtlamalarla yetiştirilir.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]], nihai eserden önce kısa bir görsel taslak ya da üç görüşme klibiyle sınırlama gibi üretici kısıtlamaların bilişsel işe tempo verdiğini ve yargıyı görünür kıldığını savunur, çünkü kısıtlamalar değerlendirmenin alıştırıldığı anları yaratır.
 
 Bir yargının *kaynağı* ile ilgili ek bir katman, yalnızca onun içeriğiyle değil, ilgilidir. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]], bu katmana daha keskin bir sözlük kazandırır: on üç Suudi bilişim öğrencisi, tek bir değerlendirme olayı içinde iki bağımsız yargıda bulunmuştur — geri bildirimin faydalı olup olmadığı ve onun kaynağının not verme yetkisine sahip olup olmadığı. Hepsi ChatGPT’nin rubrik temelli geri bildirimini açık ve özgü olarak kabul etmiş, notu ise büyük çoğunlukla öğretmene saklamışlardır (“Katılıyorum ama tek bir koşulla: hocanın geri bildirimi denetlemesi koşuluyla”); bu durum, YZ aracılı değerlendirmede değerlendirici yargının artık yalnızca alınan geri bildirimin niteliğiyle değil, değerlendirme yetkisi üzerine akıl yürütmeyi de içermesi gerektiğini düşündürmektedir.
 
@@ -76,9 +81,15 @@ Bilgi tabanının [[collaborative-learning|collaborative]] ve değerlendirme lit
 
 - **Yargı için sınıf düzeyinde vekil göstergeçler önerilmektedir.** [[austin-ai-agents-assignment-redesign-2026|Austin (2026)]], yeniden tasarlanmış bir ödev dizisine iki davranışsal sinyal ekler: UnBlooms™ *Ayırt Etme Oranı* — bir öğrenenin sorguladığı, meydan okuduğu veya değiştirdiği, kabul etmekten çok YZ çıktılarının payı — ve *İlk Geçiş Kabul Oranı*. Hiçbiri doğrulanmamıştır — ikisi de ucuz, ödev başına teşhis olarak sunulmaktadır — ancak yapıyı sıradan notlandırmanın içinde gözlemlenebilir kılarlar; birkaç ödev boyunca sıfıra yakın bir ayırt etme oranı, bireysel bir eksiklikten çok görev tasarımı sinyali olarak okunur.
 
+- **Yargı, yalnızca var olduğunda değil, revizyona bağlandığında iz bırakır.** Üretken YZ ile ders planı tasarlayan 67 hizmet öncesi öğretmende, açık değerlendirme düşük nitelikli grupta neredeyse yoktu (0,67'ye karşı 0,00); niteliği ayıran şey iki yönlü bir değerlendirme-revizyon döngüsü (CE→RE Z = 2.80, RE→CE Z = 2.50) ve bir revizyon öz-döngüsüydü (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang ve ark. (2026)]]).
+- **Eğitmenlerin ölçütleri, YZ çıktısı revize edilerek dışsallaştırılabilir.** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang ve ark. (2026)]], 16 eğitmenin LLM tarafından üretilen programlama geri bildirimini düzenlemelerinden yeniden kullanılabilir doğrulama kuralları çıkardı ve pedagojik niyetleriyle uyumu %57'den %91'e yükseltti; bu, örtük ölçütleri belirtilmemiş bırakmak yerine incelenebilir kılar.
+
 ## Kötüye kullanım yargıyı nasıl yerinden eder
 
 En net risk yerinden edilmedir ve bu yalnızca kuramsallaştırılmakla kalmayıp geri bildirim literatüründe kanıtlanmıştır. Araç rubriği, geri bildirimi ve izlemeyi sağladığında, öğrenenin [[metacognition|metacognitive]] ve değerlendirici uygulaması desteklenmek yerine yerinden edilir — değerlendirme, öğrencinin hiç kullanmadığı bir yargının performansına dönüşür; bu, değerlendirme kaydında ifade edilen [[cognitive-offloading|cognitive offloading]] ile aynı başarısızlık kipidir. Çok merkezli deneyde doğrudan GenAI geri bildirimi tam olarak bu pasif dış kaynak kullanımına doğru itmiştir. Not verme baskısı bunu katmerlendirir: öz-değerlendirme veya YZ kullanımı üzerine yansıtmanın kendisi notlandırıldığı yerlerde, öğrenciler akıl yürütmeyi değil rubriğin istediği yansıtmayı üretebilirler; bu nedenle gerçek yargı, alıştırmayı sonuç doğuran kılmak ister — sonraki işlerde görünen bir karar, bir sözlü açıklama veya kendisi incelenen belgelenmiş bir gerekçe.
+
+
+Yerinden edilmenin bir öğretmen tarafı sürümü vardır ve birkaç yazma profesörünü notlandırmayı tümüyle dışarıya vermeye karşı çeviren de budur. Yirmi dört kişiden beşi, notlandırmanın bir öğretmenin öğrenenlerini anlama biçimi olduğunu söyledi; dolayısıyla onu devretmek yalnızca saatleri değil, bu anlayışı da kaybettirir ([[wu-lam-genai-writing-assessment-professors-2026|Wu ve Lam (2026)]]). Yirmi dört kişiden on sekizi, insan yargısını aracın hatalarını yakalayan ve bunların hesap verebilirliğini üstlenen şey olarak gördü.
 
 ## Uygulama için çıkarımlar
 
@@ -91,6 +102,12 @@ En net risk yerinden edilmedir ve bu yalnızca kuramsallaştırılmakla kalmayı
 - **Onu süreç ve sözlü uygulamalarla eşleştirin.** Süreç ürünleri ve kısa sözlü açıklamalar, nihai ürünün gösteremediği yerde yargıyı eylem içinde gösterir; YZ çağı değerlendirme yeniden tasarımının bunlara bel bağlamasının temel nedeni budur.
 
 - **Yitirilmeyen yargıyı anlama borcu sondalarıyla görünür kılın.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]], YZ bütünleştirmesinin her düzeyinde yitirilmeyen yetkinliği görünür kılan dört çapraz kesen yükümlülük tanımlar — açıkla, doğrula, değiştir ve hesap ver — ve üretilen ile sonradan gösterilebilen arasında karşılaştırma yapan gecikmeli değişiklik istekleri, kod gezintileri, bağımsız tasarlanmış testler, hata yerelleştirme ve canlı hata ayıklama önermektedir. [[agentic-ai|agentic]] yetkinlik altında değerlendirme hedefi gözetime doğru kayar — görev sözleşmeleri, izin sınırları, korumalı alanlar, değerlendirme koşumları, fark incelemesi, geri alma ve insan hesap verebilirliği — bu da değerlendirmeyi görünür yazarlıktan görünür yargıya kaydırır.
+
+## Yaygın yanlış anlamalar
+
+- **“Değerlendirici hatası rastgele gürültüdür.”** **Değerlendirici yargı, kendine ait ölçülebilir bir yön taşır**: **50 insanı 50 YZ başvuru kompozisyonundan** ayıran beş kabul görevlisi **AUC 0.70**'e ulaştı, yani kaynakları yalnızca zayıf biçimde ayırt edebildi; ve başvuruları hiç kimse elemediği için **yardımsız yargı tüm yaptırım mekanizmasıydı** ve işaretlenen her kompozisyon **1,5 yüzde puanı daha düşük kabul olasılığı** taşıdı. Zayıf bir sinyal gerçek bir cezaya dönüştü.
+- **“Akran ve YZ incelemesi birbirinin yerine geçer.”** PAIRR modeli [[pairr-ai-peer-review-2025|(Sperber ve ark., 2025)]] kalibrasyonu yapılandırmak için **akran incelemesini YZ incelemesiyle birleştirir**. İkisini birleştirmek tasarımın kendisidir; bu da hiçbirinin tek başına bunu sağlamadığını ima eder.
+- **“Yargı niteliği yargıcın bir özelliğidir.”** Kabul bulgusu sorunu bireylerin yeteneğinde değil, düzenekte konumlar: hiçbir eleme aşaması olmadan sonuç doğuracak biçimde uygulanan doğrulanmamış bir yargı.
 
 ## Bağlı Kavramlar
 
@@ -112,6 +129,9 @@ En net risk yerinden edilmedir ve bu yalnızca kuramsallaştırılmakla kalmayı
 - [[higher-ed]]
 
 ## Bağlı Makaleler
+
+- [[elkington-human-centred-assessment-value-2026]] — İnsan merkezli değerlendirme, bir araya getirmeler ve üretici kısıtlamalar (Elkington 2026)
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Yazma profesörleri notlandırmayı neden dışarıya vermiyor: öğrencilerini böyle tanıyorlar
 
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — Değerlendirici yargının farklı boyutları için eğitim alanı olarak ChatGPT ve akran geri bildirimi karşılaştırması
 
@@ -138,3 +158,6 @@ En net risk yerinden edilmedir ve bu yalnızca kuramsallaştırılmakla kalmayı
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — her YZ etkileşimini yapılandıran Ajans Denetimi (inanılır, ilgili, kabul edilebilir, nüanslı)
 
 - [[judgment-centred-software-engineering-education-2026]] — A Post-Hype Review and Framework for AI-Augmented Software Engineering Education
+
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Yargı, ancak revizyona bağlandığında niteliği ayırdı (Z = 2.80 ve 2.50)
+- [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Eğitmenlerin revizyonları yeniden kullanılabilir doğrulama ölçütlerine dönüştü (Tang ve ark. 2026)

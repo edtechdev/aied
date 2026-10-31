@@ -9,7 +9,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,7 @@ UDL, öğrenen çeşitliliğinin istisna değil kural olduğu içgörüsüne day
 Tasarımla eşitlik, bu duruşu uygulamaya koymanın somut yollarından biridir. Wenzel, Geiger ve Liening (2026), işletme [[simulation]] oyunlarındaki YZ [[conversational-ai|konuşma etmenleri]] için CAIS-GBL çerçevelerini, evrensel tasarımla öğrenmeyle uyumlu açık bir **tasarımla eşitlik** yaklaşımında temeller; bilişsel, [[motivation|motivasyonel]], [[affective-computing|duygusal]] ve [[sociocultural-learning|sosyo-kültürel]] bağlılığı kapsayan üst gereksinimleri türetir. Tasarım ilkeleri ve özellikleri, güçlü yönlerde, zorluklarda ve ilgi alanlarında bireysel öğrenen farklılıklarını ele almayı amaçlar — UDL ilkelerinin uyarlanabilir, YZ destekli [[game-based-learning|oyun temelli öğrenme]] tasarımına somut bir uygulaması.
 
 YZ aynı zamanda bu literatürde UDL’nin bir aracı değil, onun önündeki bir engel olarak da görünür. [[faculty-accessible-course-design-ai-2026|Sidhu, Atif ve Newland’ın (2026)]] Ontario’daki bir üniversitedeki 69 profesör üzerine karma yöntemli çalışmasında, dört ana temadan biri [[generative-ai|üreten YZ]]’nin erişilebilir ders tasarımındaki ilerlemeyi tersine çevirdiğidir; başlıktaki alıntı “AI is reducing options I had used” (YZ, kullandığım seçenekleri azaltıyor), görüşmelerinden gelir; çünkü kapsama işi yapmış olan ev-teslim ve taslak temelli ödevler, artık bir YZ’nin doğrudan tamamlayabildiği ödevlerdir. Fakülte düzeyindeki bulguları, bu gerilemenin neden zaten ince bir taban üzerine indiğini gösterir: katılımcıların %90’ı erişilebilir bir öğrenme ortamı yarattıklarına, %87’si etkin biçimde erişilebilirliği dikkate aldıklarına inanmış; ancak yarısından azı (%46) üniversitenin bunun için yeterli kaynak sağladığını düşünmüş ve yaklaşık beşte biri OCR okunabilir PDF’ler ya da renkten bağımsız bağlantılar kadar temel teknikleri hiç duymamıştır. Talep, kaynağın önüne geçmektedir — Ontario üniversit kayıtları 2013’ten 2022’ye %17 artarken erişilebilirlik hizmetlerine kayıt %126 yükselmiştir — bu nedenle çalışmanın ortaya koyduğu durum, UDL desteğinin YZ’nin ortadan kaldırdığı değerlendirme seçeneklerini telafi edecek biçimde kaynaklandırılması gerektiğidir.
+Bir araç, üç UDL ilkesinin tümüne hizmet edip yine de bir öğretim üyesinin karar alanını daraltabilir. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]], bu nedenle bir aracı bir UDL ilkesiyle eşlemenin gerekli ama yeterli olmadığını savunur ve denetimleri arasında yıllık bir mesleksizleşme denetimi ile bir tedarikçi bağımlılığı kütüğü önerir.
 
 ### Bağlantılar
 
@@ -81,6 +82,16 @@ UDL, “öğreneni düzeltmeyi” “tasarımı düzeltmeye” dönüştürür. 
 
 - **Teşhisleri değil, işlevsel engelleri hedefleyin.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel ve ark. (2026)]], nörodiverjan öğrenciler için yardımcı teknolojilere dair 40 çalışmalık bir derlemin uyarlama ve teşhise bağlı araçlar etrafında örgütlendiğini bulmuş; öğrencilerin gerçekten karşılaştığı kesişen engellere göre tasarım yapmanın, bir aracı makul biçimde evrensel kılan şey olduğunu ileri sürmüştür.
 
+## Yaygın yanlış anlamalar
+
+**“Erişilebilir materyalleri olan bir ders UDL'yi uygulamıştır.”** Erişilebilirlik, UDL'nin üç ilkesinden biridir ve denetlenmesi en kolay olanıdır, bu nedenle sıklıkla yapılan tek ilke odur. Esnek bağlılık ile eylem ve ifade yolları kurmak çerçevenin daha büyük kısmıdır ve PDF'leri etiketlenmiş ama değerlendirmeleri tek biçim kabul eden bir ders, ölçülebilir kesri tamamlamıştır.
+
+**“Erişilebilir olduğuna inanan öğretim üyeleri erişilebilirdir.”** İnanç ile pratik sistematik biçimde ayrışır. Bu derlemedeki fakülte düzeyindeki bulgular, **yanıtlayanların %90'ının erişilebilir bir öğrenme ortamı yarattığına inandığını ve %87'sinin erişilebilirliği etkin biçimde dikkate aldığını söylediğini** gösterir; denetimlerin buldukları göz önüne alındığında tümü doğru olamayacak öz bildirim oranlarıdır ve UDL uygulamasının, genellikle değerlendirildiği biçimde anketle değerlendirilemeyeceğini hatırlatır.
+
+**“UDL, ortalama öğrenci için daha dikkatli tasarım yapmak demektir.”** Çekirdek iddia bunun tersidir: öğrenen değişkenliği istisna değil kuraldır, bu nedenle tasarım zorlananlar için tek bir yolu düzeltmek yerine baştan itibaren birçok yol sunar. UDL'nin yerini almak için var olduğu şey sonradan uyarlamadır ve tek bir iyi ayarlanmış yol hâlâ tek bir yoldur.
+
+**“YZ UDL'yi otomatik kılar, çünkü alternatif biçimler üretebilir.”** Temsil ilkesini ucuzlatır ve bağlılık ile ifadeyi olduğu gibi bırakır. Metni sese dönüştürmek üç yoldan birini ele alır; bir ders artık tümüyle çok biçimli olabilir ve yine de her öğrenciden öğrenmesini aynı tek biçimde göstermesini isteyebilir.
+
 ## Bağlı kavramlar
 
 - [[inclusive-learning]]
@@ -109,3 +120,5 @@ UDL, “öğreneni düzeltmeyi” “tasarımı düzeltmeye” dönüştürür. 
 - [[ai-learning-tools-engineering-education-needs]] — İhtiyaç ve dikkat temelli YZ öğrenme araçlarının tasarlanması
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
+
+- [[alenezi-ai-universal-design-learning-kuwait-2026]] — Kuveyt'in yükseköğretim kurumlarında yapay zeka ve evrensel tasarımla öğrenme: kapsayıcı eğitim için YZ destekli bir çerçeveye doğru

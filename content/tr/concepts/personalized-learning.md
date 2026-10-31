@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/personalized-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,9 @@ Eğitim deneyimlerinin, [[prior-knowledge|önceki bilgiler]], öğrenme hızı, 
 
 - **[[mishra-control-vs-agency-history-2025|Mishra ve ark.]]** kökleri tarihe uzanan iki kişiselleştirme biçimini ayırır — çeşitli yollarla ulaşılan tek tip sonuçlar (Skinner’ın [[teacher-role|öğretim]] makinelerinden Khan Academy tarzı ustalık temelli özel derslere kadar) vs. öğrenenin seçtiği çeşitli sonuçlar — ve bunların alanın kontrol-karar-özerklik gerilimine nasıl karşılık geldiğini gösterir.
 
+
+- **Kişiselleştirme, materyali bulmak yerine üretmekle de karşılanabilir.** DagFlow-AI, bir öğrenenin belirttiği ilgiye, ders öğrenme hedeflerine ve amaçlanan beceri düzeyine uygun sentetik istatistik veri kümeleri üretir; yazarlar bunun gerçek veri kümelerinin nadiren karşıladığı üç yönlü bir eşleşme olduğunu savunmaktadır ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur ve ark., 2026]]). Sınır tasarıma gömülüdür: sentetik veri veri toplamayı, ölçmeyi veya çalışma tasarımını öğretemez, dolayısıyla araç gerçek verinin yerine değil, onu tamamlayıcı niteliktedir.
+
 ## YZ Kaynaklı Kişiselleştirme için Mimari Yaklaşımlar
 
 ### Boyuna Bellek (PersonaVLM → Eğitim)
@@ -46,7 +49,7 @@ Nie ve ark. (2026), etkileşimler boyunca kimlik tutarlılığını koruyan uzun
 
 ### Yerlilikçi (Agent-Native) Kişiselleştirme Altyapısı (DeepTutor)
 
-Ma ve ark. (2026), kişiselleştirmeyi tepkisel araçlara sonradan eklemek yerine, her [[deeptutor]] özelliğinin ortak bir kişiselleştirme altyapısını paylaşacak şekilde tasarlamıştır. Bu mimari, kipli çeşitlilik arası tutarlılığı sağlar: aynı öğrenen profili [[problem-solving|problem çözme]], [[automated-question-generation|soru üretimi]] ve işbirlikçi yazma süreçlerini yönlendirir.
+Zhao ve ark. (2026), kişiselleştirmeyi tepkisel araçlara sonradan eklemek yerine [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] özelliklerinin her birini ortak bir kişiselleştirme altyapısını paylaşacak şekilde tasarlamıştır. Bu mimari, kipli çeşitlilik arası tutarlılığı sağlar: aynı öğrenen profili [[problem-solving|problem çözme]], [[automated-question-generation|soru üretimi]] ve işbirlikçi yazma süreçlerini yönlendirir.
 
 ### Çok Ajanlı Sosyal Kişiselleştirme (MAIC)
 
@@ -54,7 +57,7 @@ Yu ve ark. (2024), yalnızca içeriği değil *sosyal bağlamı* da kişiselleş
 
 ### Öğrenen Portreleri için AutoML
 
-Kişiselleştirme, eğitim kalitesini artırmanın merkezi bir hedefidir; ancak çok kaynaklı heterojen öğrenme davranışı verilerini işlemek zor olmaya devam etmektedir. Otomasyonla yönetilen [[reinforcement-learning|makine öğrenmesi]] ile sürülen kişiselleştirilmiş bir sinirsel-bilişsel mimari arama çerçevesi, öğrenen portreleri oluşturur ve heterojen öğrenen profilleri için teşhis modelleri üretir; statik sınav sonuçlarının ötesine geçmek için çok kipli verileri bütünleştirir.
+Kişiselleştirme, eğitim kalitesini artırmanın merkezi bir hedefidir; ancak çok kaynaklı heterojen öğrenme davranışı verilerini işlemek zor olmaya devam etmektedir. Otomasyonla yönetilen [[machine-learning|makine öğrenmesi]] ile sürülen kişiselleştirilmiş bir sinirsel-bilişsel mimari arama çerçevesi, öğrenen portreleri oluşturur ve heterojen öğrenen profilleri için teşhis modelleri üretir; statik sınav sonuçlarının ötesine geçmek için çok kipli verileri bütünleştirir.
 
 Statik bir bilgi tabanı kişiselleştiremez: ontolojiler yavaş evrimler ve belirsizliği zayıf ele alır; bu nedenle mimari, gösterimi bilgi türüne uyarlar — bildirimsel olanı ontolojilere, yordamsal olanı kurallara, belirsiz olanı bulanık veya olasılıksal ontolojilere, örtük olanı analitik ve makine öğrenmesine — ve tek bir devasa modele göre küçük eşlemeli ontolojiler sistemini tercih eder ([[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova, 2026]]).
 
@@ -106,6 +109,37 @@ Kişiselleştirme, bir insan sunucunun önüne geçebilir: geniş çapta bir çe
 
 “Kişiselleştirilmiş öğrenme”nin geniş, gevşek tanımlı bir şemsiye terim olması yinelenen bir sorundur. Sistematik derlemeler ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh ve ark., 2026]]), [[adaptive-learning|uyarlamalı öğrenme]], bireyselleştirilmiş öğretim, özelleştirilmiş öğrenme ve kişiselleştirilmiş öğrenmenin birbirinin yerine kullanıldığını, evrensel olarak kabul görmüş bir tanım bulunmadığını ortaya koyar — bu, araştırma sentezini ve kanıta dayalı uygulamayı karmaşıklaştıran kavramsal bir belirsizlik kaynağıdır. Alan, giderek daha fazla, “kişiselleştirilmiş” sözcüğünün muğlak bir etiket yerine kesin ve kanıta dayalı bir iddiayı belirtmesi için bütünleşik bir çerçeve ve tanım çağrısında bulunmaktadır (bu nokta, bilgi tabanının [[limitations-in-aied-research|zayıf kavram kullanımına ilişkin eleştirisi]] ile bir kez daha pekişmektedir).
 
+## Yaygın yanlış anlamalar
+
+**“Kişiselleştirilmiş öğrenme ile uyarlamalı öğrenme aynı şeydir.”** Uyarlamalı sistemler kişiselleştirmeye giden bir *araçtır*, onun tanımı değildir. Kişiselleştirme aynı ölçüde statik öğrenen profilleri, seçim temelli yollar veya gerçek zamanlı uyarlama yapmayan insan özel öğretmeni uyarlaması yoluyla da sağlanabilir. İkisini eşanlamlı saymak, zengin öğrenen seçimi sunan ancak uyarlamalı motoru bulunmayan bir okulu kişiselleştirilmemiş gibi gösterir ve sıkı biçimde uyarlamalı bir alıştırmayı olduğundan daha öğrenen merkezli kılar.
+
+**“Kişiselleştirme daha fazla konu kapsayarak karşılığını verir.”** Bir yolun ardındaki teşhis gerçekten doğrulandığında, kişiselleştirme *kapsamdan çok yükü azaltarak* karşılığını verir: en kısa yol üzerinden düzeltme ortalama 3,82 adımda tamamlandı ve çalışma süresini %22,0 kısalttı (73,8 yerine 57,6 dakika), etkiyi ise bilişsel yük taşıdı. Fayda, saat başına daha fazla içerik değil, daha az gereksiz adımdır.
+
+**“Tutarlı bir müfredat üretebilen bir model onu kişiselleştirebilir.”** Üretim ile uyarlama farklı yeteneklerdir ve aralarındaki açık büyüktür. Müfredat üreten modeller yapısal olarak sağlam çıktı üretti (DeepSeek-V3.1 ön koşul ve halüsinasyon geçerliliğinde %90,9'a ulaştı), uyarlanabilirlik ise en fazla %44,7'de kaldı ve Temel koşulda nihai geçiş oranı %29,5 oldu. Ön koşul geçerliliği kişiselleştirme değildir.
+
+**“Materyali üretmek, gerçek içeriğin dayattığı kısıtı ortadan kaldırır.”** Üretim bir kısıtı gevşetir, diğerlerini gevşetemez. [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]], bir öğrenenin belirttiği ilgiye, ders hedeflerine ve amaçlanan beceri düzeyine uygun sentetik istatistik veri kümeleri üretir (gerçek veri kümelerinin nadiren karşıladığı üç yönlü bir eşleşme); ancak yazarları sınırı açıkça belirtmektedir: sentetik veri veri toplamayı, ölçmeyi veya çalışma tasarımını öğretemez, dolayısıyla araç gerçek verinin yerine değil, onu tamamlayıcı niteliktedir.
+
+**“Bu sistemleri doğrulayan şey bildirilen öğrenme kazançlarıdır.”** Burada derlenen pekiştirmeli öğrenme ve kişiselleştirme çalışmalarında politikalar, uyarlamalı olmayan temel çizgilere karşı en sık rehberlikle ilgili uyarlamada ve duygusal değişkenlerde (test edilen çalışmaların %63'ünde) üstünlük sağlarken, öğrenme kazancı, özellikle normalleştirilmiş öğrenme kazancı, *en az* bildirilen sonuçtu. Etkileşim ve duyguyu öğrenmeden çok daha fazla bildiren bir literatür, öğrenmenin baskın olduğunun kanıtı değildir.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- "Kişiselleştirilmiş" sözcüğüne inanmadan önce neyin uyarlandığını sorun: içerik mi, sıra mı, hız mı, duygu durumu mu yoksa sunum mu. Farklı uyarlamalar farklı kanıtlar taşır ve yalnızca bazılarına öğrenme çıktıları eşlik etmektedir.
+- İçerik ekleyen sistemler yerine yolu kısaltan sistemleri tercih edin. Düzeltme çalışmasında ölçülen fayda, daha fazla kapsam değil, %22 daha az çalışma süresiydi.
+- Üretilmiş bir veri kümesinin sağlayamayacağı bölümleri (veri toplama, ölçme, çalışma tasarımı) gerçek iş olarak koruyun ve kişiselleştirmenin bunların çevresindeki pratik üzerinde işlemesine izin verin.
+
+**Geliştiriciler için**
+
+- Yalnızca etkileşimi ve duyguyu değil, öğrenme çıktılarını da bildirin. Öğrenme kazancının en az bildirilen ölçü olduğu bulgusu, alanın şu anda ne sunduğunun betimlenmesidir, kopyalanacak bir şablon değildir.
+- Kendi değerlendirmenizde üretim kalitesini uyarlama kalitesinden ayırın ve ideal olarak ikisini ayrı ayrı bildirin; çünkü güçlü ön koşul geçerliliği, %50'nin altında bir uyarlanabilirlikle bir arada bulunabilmektedir.
+- Ödül hedefini başlı başına bir kişiselleştirme tercihi olarak ele alın: öğrenenin bağımsız yetkinliği üzerine eğitilmiş bir pekiştirmeli öğrenme koçu tur süresini %27,9 kısalttı (p = 0.005), oysa kural temelli sönümleme güvenilir bir değişiklik üretmedi.
+
+**Araştırmacılar için**
+
+- Ölçtüğünüz yapılarda kişiselleştirmeyi uyarlamayla karıştırmayı bırakın ve etkiyi hangi mekanizmanın ürettiğini açıkça belirtin.
+- Normalleştirilmiş öğrenme kazancını birincil sonuç olarak bildirin; literatürdeki seyrekliği, devralınacak bir gelenek değil, kapatılacak bir açıktır.
+
 ## Bağlı kavramlar
 
 - [[adaptive-learning]] — Öğrenene gerçek zamanlı olarak içerik, hız ve zorluk uyarlayan sistemler
@@ -131,7 +165,7 @@ Kişiselleştirme, bir insan sunucunun önüne geçebilir: geniş çapta bir çe
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[mishra-control-vs-agency-history-2025]] — İki kişiselleştirme biçimini ayırır (tek tip vs. çeşitli sonuçlar)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Kişiselleştirilmiş öğrenmeyi yeniden tanımlamak: sistematik derleme
-- [[deeptutor]] — Özel ders için aracı-yerlilikçi kişiselleştirme altyapısı
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — Özel ders için aracı-yerlilikçi kişiselleştirme altyapısı
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Kişiselleştirilmiş e-öğrenme için ontoloji temelli katmanlı melez bilgi modeli
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — İlkokul kesirleri için kişiselleştirilmiş uyarlamalı öğrenme
 - [[ai-coaching-rl-skill-development]] — Beceri gelişimi için pekiştirmeli öğrenmeye dayalı koçluk

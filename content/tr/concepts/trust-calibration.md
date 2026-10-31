@@ -9,7 +9,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-09T01:55:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -60,7 +60,13 @@ Daha yüksek güven daha iyi yargı satın almaz: doğru ve kasten yanıltıcı 
 
 Kalibrasyon araştırmaları güveni genellikle tek bir yargı olarak ele alır. [[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor (2026)]], değerlendirmenin eşit biçimde bağlayıcı olmayan boyutlara ayrıştığını göstermektedir. Bir dönem boyunca yazıları üzerine geri bildirim için GROK kullanan 17 EFL lisans öğrencisiyle görüşmeler yapan araştırmacılar, algılanan *uzmanlığın* yüksek olduğunu bulmuşlardır — öğrenciler aracı kelime dağarcığını, dilbilgisini, yapısını ve tutarlılığını geliştirdiğine itibar etmiş ve önerilen düzeltmeler için sunduğu açıklamaları yetkinlik kanıtı olarak okumuşlardır; buna karşılık *güvenilirlik*, ağırlıklı olarak verilerine ne olduğuna dair, ve *iyi niyet*, geri bildirimin kişiliksiz ve bazen motivasyonu düşürücü olarak deneyimlenmesiyle, düşük kalmıştır. Bel bağlama güçlü boyutları değil zayıf boyutları izlemiştir: öğrenciler aracı geniş kapsamlı dil geri bildirimi için yetkilendirmiş ve bireyselleştirilmiş, ilişkisel rehberliği öğretmene ayırmışlardır. Kalibrasyon açısından çıkarım, doğruluğu artırmanın kullanım tavanını yükseltmediğidir; veri şeffaflığı ve bir aracın çevresindeki öğretimsel çerçevelemenin kendisi kalibrasyon müdahaleleridir.
 
+
+Etmenle ilgili sosyal algılar, doğruluk değil, [[chatgpt-feedback-credibility-perceived-learning|Pérez-López ve ark. (2026)]] için geri bildirim inandırıcılığını inşa etmiştir: algılanan yetkinlik inandırıcılığa doğrudan ulaşırken, algılanan sıcaklık yalnızca insana benzer empati yoluyla işlemiştir (SEM, 230 öğrenci).
+
 [[du-yuan-epistemic-dependence-2026|Du ve Yuan (2026)]], *verimli bel bağlamayı* *zararlı bağımlılıktan* altı tanı kriteriyle ayırır — itiraz edilebilirlik, toparlanabilirlik, aktarma, izlenebilirlik, dağıtılmış sorumluluk ve epistemik çoğulluk — ve enstrümansal yardımı (çıktı üretmeye yardım etme) yargı taşıyan yardımdan (çıktının yargılandığı ölçütleri sağlama) ayırt eder; ikincisi, bel bağlamanın eğitimsel açıdan sonuç doğurduğu yerdir.
+
+
+- **Öğrenciler bir akran etmenin kasıtlı yanılabilirliğini arıza olarak okuyabilir.** Copa çalışmasında öğrencilere etmenin yanılabileceği söylenmiş ve önerilerini değerlendirmeleri istenmiştir. Bir öneri onların modelini bozduğunda, birkaçı etmenin yanlış bilgi verdiği sonucuna varmış ve akıl yürütmeyi yeniden incelemek yerine deneme yanılmaya geçmiştir. Cevapları geri tutarak epistemik failliği koruyan bir tasarım, dolayısıyla bu çalışmadaki öğrencilerin henüz sahip olmadığı bir kalibrasyon becerisini varsaymaktadır; bu, akran etmen tasarımları için öğretmen etmenlerden daha güçlü bir kısıttır ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn ve ark., 2025]]).
 
 ### Kalibrasyon bir tasarım problemi olarak
 
@@ -68,9 +74,18 @@ Yanlış kalibrasyonu salt bir kullanıcı eksikliği olarak ele almak — insan
 
 Tasarım çıkarımı, [[conversational-ai|sohbet robotu]] çıktısını doğrulama *yeteneği* ile bunu yapma *güdüsünü* kesiştiren iki boyutlu bir kullanıcı tipolojisidir — bu, hangi kullanıcıların hangi yönde yanlış kalibre edeceğini yordar. Yazarlar bunu, birlikte çalışması gereken iki müdahale ailesiyle eşleştirir: değerlendirmeyi mümkün kılan [[explainable-ai|yorumlanabilirlik]] imkanları (gerekçeler, atıflar, belirsizlik sinyalleri) ve onu gerçekten gerçekleştiren etkileşim mekanizmaları; bunlar Reason’ın İsviçre peyniri modelinde sekiz test edilebilir önermeye katmanlanır. [[ai-literacy]], ikisinin de altındaki kalıcı katman olarak konumlandırılır ve kullanıcıları tipoloji hücreleri arasında hareket ettirir. Yeniden çerçeveleme eğitim açısından önemlidir çünkü sorumluluğu kaydırır: şeffaf atıflar genel nüfusta tıklanmadan kalıyorsa, öğrencileri basitçe YZ açıklamalarına maruz bırakmak onları kalibre etmeyecektir — imkan, sınamayı zorunlu kılacak biçimde tasarlanmalıdır.
 
+
+- **Bir gerekçe, çelişkinin sarsıntısını emebilir ama güveni daha iyi kalibre etmez.** Dört senaryo deneyinde (N = 859), bir beden eğitimi öğretmeninin yargısıyla çelişen bir YZ önerisi makineye duyulan güveni 5,42’den 4,31’e düşürmüş (d = 1,061); bir gerekçe sunmak bu cezayı -0,811’den -0,182’ye daraltmıştır, ancak önerinin doğruluğu hiçbir zaman ortaya konmamıştır ([[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang (2026)]]).
+
+Üçüncü bir kaldıraç doğrudan etkileşim yapısı üzerinde işler: tek bir öneriyi, [[tuo-armada-multi-agent-debate-overreliance-2026|toplu konumu geri tutulan çok etmenli bir tartışmayla (Tuo ve ark., 2026)]] değiştirmek, yanlış bir YZ konumuna zararlı geçişi 186 katılımcı arasında %42-60,5’ten %5,7-8,2’ye indirmiştir. Kaldıraç düzeltici değil koruyucudur: yanlış bir yargıyla başlayan katılımcılar doğru karara denemelerin yalnızca %30,6 ve %24,7’sinde dönmüştür, bu ikili bir seçim için şanstan düşüktür.
+
 [[calibrating-trustworthiness-llm-education-2026|Coscia ve ark. (2026)]], kalibrasyonu fiilen hareket ettiren bir tasarım kaldıracı sunmaktadır: LLM yanıtlarını karşılaştırırken değerlendiricilere birlikte tasarlanmış güvenilirlik ölçütlerini göstermek, değerlendiriciler arası uyumu Krippendorff alfası 0,3987’den 0,4931’e yükseltmiştir; buna karşın toplu uyum 0,67’nin altında kalmış ve ek önlemler ek yük getirmiştir.
+Çocuklar için tasarım kaldıracı etmenin kendi üslubu olabilir: 8-10 yaşlarındaki 12 çocukla yürütülen oyun temelli bir incelemede, [[children-verification-ai-suggestions-game-2026|Liu ve ark. (2026)]], ortak benzeri bir ifade tarzının çocukları YZ’yi doğrudan sorgulamaya yönlendirdiğini, araç benzeri ifade tarzının ise onları kanıt aramaya yönlendirdiğini bulmuştur. Sohbet robotları *tasarlayan* çocuklar bu örüntüyü başka bir kayıtta göstermektedir: 8-18 yaşlarındaki 115 öğrenen arasında daha genç öğrenciler belirgin biçimde daha yüksek güven belirlemiş ve bazıları kasıtlı olarak yanlış cevap veren botlar kurmalarına rağmen onları yine de güvenilir bulmuştur ([[children-design-trustworthy-ai-chatbots-2026|Ozturk ve ark. (2026)]]).
 
 Özerk etmenlerle birlikte kalibrasyonun nesnesi değişir. [[agentic-literacy-debt|Nama (2026)]], kullanıcının eylemleri büyük ölçüde gözlemlenemeyen ve geri döndürülemez bir sistemde yetki devrettiği bir mütevelli (principal) hâline geldiğini ileri sürer; bu da yetkinliği, çıktıları yargılamaktan neyin yetkilendirildiğini anlamaya, bunu denetlemeye ve zarar ortaya çıktığında hesap verebilirliği atfetmeye kaydırır.
+
+
+YZ notlandırma ya da sertifikalandırmaya değdiğinde kaynak izlenebilirliği birinci sınıf bir gereklilik olarak ele alınır: kurumlar sonuç doğuran kararların nasıl alındığını ve bunları onaylama yetkisinin kimde olduğunu yeniden kurmak zorundadır; bir konsorsiyum blok zinciri tasarımı bunu eğitim olaylarının, YZ çıktılarının, notlandırma eylemlerinin ve sertifikaların kurcalamaya dayanıklı kayıtları olarak sabitler ([[large-language-models-teaching-learning-higher-ed|Li ve ark. (2026)]]).
 
 ### Bağlantılar
 
@@ -91,6 +106,41 @@ Güven kalibrasyonu [[ai-literacy]] için merkezîdir ve [[reducing-ai-misuse]] 
 - **Okuryazarlığın güvene dönüşmesinde sınır koşulu olarak kaygı (2026):** Çin anakarasındaki ChatGPT’i halihazırda kullanan 450 üniversite öğrencisine yapılan bir ankette, [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]], YZ okuryazarlığından güvene uzanan yolun modeldeki en büyük ilişki olduğunu (beta = 0,50) ve [[anxiety-and-stress|YZ kaygısı]]nın bu bağı zayıflattığını (etkileşim beta = -0,25) bulmuştur; basit eğimler, kaygı ortalamasının bir standart sapma altındaki 0,76’dan üstündeki 0,25’e düşmüştür; okuryazarlıktan güvene, güvenden öz-yeterliliğe ve öz-yeterlilikten süregelen kullanıma uzanan seri yol ise anlamlıdır. Kalibrasyon bu nedenle kısmen duygusaldır: aynı bilgi, daha kaygılı öğrenciler arasında daha az güvene dönüşmüştür ve kesitsel tasarım, kaygının bilgiyi bel bağlamaya dönüştüren değerlendirmeyi engelleyip engellemediğini yoksa öğrencilerin üzerine davranmaktan vazgeçtikleri bir değerlendirmeyi mi yansıttığını açık bırakır.
 - **Eleştiri alıştırması için bir yapı olarak rol rotasyonu (2026):** Sekiz hafta boyunca dört dönüşümlü profesyonel rolden geçen 62 hizmet öncesi eğitim psikoloğu üzerinde yürütülen tasarım temelli bir çalışmada, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva ve ark. (2026)]], katılımcılardan YZ tarafından üretilen önerileri psikolojik kuramla karşılaştırmalarını ve olguya uymayanları değiştirmelerini ya da reddetmelerini istemiştir; yine de görünürde otoriter YZ yanıtlarına aşırı bel bağlama kaydedilmiştir; bazı öğrenciler sonraki döngülerde bile kendi yorumlarını sunmadan önce YZ’den doğrulama aramıştır. Rotasyon, kabul ya da red yargısı için yinelenen fırsatlar yaratır ama onu garanti etmez ve çalışma, ölçülen yetkinlik kazanımlarından çok müdahale süresince etkileşimi bildirmektedir.
 - **Yüzeysel kimlik ipuçları, yetenekten bağımsız biçimde güveni hareket ettirir.** İki deney boyunca (N = 396), öğrenenler beyaz avatarları — ve STEM alanında Asyalı erkek avatarları — daha inandırıcı ve daha yetkin bulmuş; yaşlı siyah kadın avatarları her ölçütte cezalandırılmış ve ırksal öz-grup yönlendirmesi daha kolay benimsenmiştir ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+
+- **Bir kaynak etiketi, ayırt etmeyi iyileştirmeden kabulü hareket ettirir.** 103 katılımcı ChatGPT ya da bilgisayar etiketli cevapları değerlendirdiğinde, kabul ChatGPT etiketi altında daha yüksek olmuş (%68,0’a karşı %63,4, p = 0,002), ancak sinyal tespiti duyarlılıkta (p = 0,930) ya da ölçütte (p = 0,082) kaynağa bağlı bir fark bulmamıştır ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio ve Bruno, 2026]]). Etiket güveni yükseltir ama doğruluğu yükseltmez.
+- **Bel bağlama yalnızca bir inanç değil, fiyatlanan bir karardır.** 324 senaryolu bir ölçüt setinde yedi modelden beşi, bilgi beklenti değeri sıfırken doğrulama satın almış ya da güvenceleri gereğinden fazla satın almış; açık sonsal olasılıkların sunulması bazı hataları düzeltirken yenilerini yaratmıştır ([[llm-calibrated-reliance-imperfect-partners-2026|Chu ve Huang (2026)]]).
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Tutumu değil, denetimi öğretin. Doğru ve kasten yanıltıcı önerilerin %86,03’ünü kabul eden 432 lisans öğrencisi arasında daha yüksek güven *daha düşük* yerinde bel bağlamayı yordamıştır (r = -,42); dolayısıyla genelleştirilmiş bir özgüven inşa eden öğretim sorunu daha da kötüleştirir.
+- Doğrulamayı ucuz ve görünür olduğu görevlerin içine yerleştirin: bir iddia için kaynağı, karşı örneği ya da yeniden çalıştırmayı zorunlu kılın. YZ tarafından üretilmiş bir özet gören okuyucular, özetin içinde atıf yapılan bir kaynağa ziyaretlerin yalnızca **%1’inde** tıklamış ve sonuç bağlantılarına yaklaşık yarısı kadar sıklıkta tıklamıştır; bu nedenle “bir şeye atıf yapmış olması” hiçbir şeyi onaylamaz.
+- Kaldıracın düzeltici değil koruyucu olduğunu unutmayın. Yanlış bir yargıyla başlayan katılımcılar doğru yargıya denemelerin yalnızca **%30,6** ve **%24,7**’sinde dönmüştür; bu, ikili bir seçim için şanstan düşük bir orandır. Bu yüzden öğrenci yanlış modele bağlanmadan önce müdahale edin, bağlandıktan sonra değil.
+- Yetersiz güveni de bir kalibrasyon başarısızlığı olarak ele alın; yetenekli bir aracı kaçınmak güvenli varsayılan değildir, aynı hatanın ters yöne bakan hâlidir.
+
+**Geliştiriciler için**
+
+- Yalnızca etiketi değil, etkileşim yapısını değiştirin. Çok etmenli bir tartışmanın toplu konumunu geri tutmak, yanlış YZ konumlarına zararlı geçişi %42-60,5’ten %5,7-8,2’ye indirmiştir; bu, kullanıcıdan hiçbir güven gerektirmeyen yapısal bir kaldıraçtır.
+- Kaynak izlenebilirliğini kullanım noktasında denetlenebilir kılın, çünkü özet otoriter olarak sunulduğunda atıf tıklama oranları çökmektedir.
+- Öğrencinin kendi bildirdiği konumu koruyun ve onunla karşıtlıklar kurun; taslağını kendinden emin bir cevapla değiştirmek yerine bunu yapın, çünkü toparlanma verileri bu tür bir değiştirmenin nadiren geri alındığını göstermektedir.
+
+**Araştırmacılar için**
+
+- Yerinde bel bağlamayı bir güven puanı olarak değil, gerçek duruma karşı davranışsal bir sonuç olarak ölçün. İkisini birlikte ölçen tek çalışmada ikisi arasındaki ilişki negatiftir.
+- Başlangıçta yanlış yargıda bulunan katılımcılar için toparlanma oranlarını genel doğruluktan ayrı olarak raporlayın, çünkü toplu gösterge en çok önem taşıyan şanstan düşük değeri gizlemektedir.
+
+## Yaygın yanlış anlamalar
+
+**“Daha fazla güven, aracın daha iyi kullanılması demektir.”** Güven ile kalibrasyon birbirinden ayrışır ve ilişki ters yönde işler. Doğru ve kasten yanıltıcı YZ önerileriyle Python problemleri çözen **432 lisans öğrencisi** arasında daha yüksek güven **daha düşük** yerinde bel bağlamayı yordamış (**r = -,42**) ve öğrenciler yanıltıcı önerilerin **%86,03**’ünü kabul etmiştir. Hedef genelleştirilmiş özgüven değil, eşleştirilmiş güvendir.
+
+**“Yetersiz güven güvenli varsayılandır.”** Yetenekli bir aracı tümüyle kaçınmak, ters yöne bakan bir kalibrasyon başarısızlığıdır. Her iki uyumsuzluk da öğrenene zarar verir: biri bağımlılık yoluyla, diğeri vazgeçilen yetenek yoluyla. Bu da “kuşkucu ol” öğüdünü “güven” öğüdü kadar zayıf bir yönerge kılar.
+
+**“Kalibrasyon sonradan düzeltilebilir.”** Kaldıraç düzeltici değil koruyucudur. Yanlış bir yargıyla başlayan katılımcılar doğru karara denemelerin yalnızca **%30,6** ve **%24,7**’sinde dönmüştür, bu ikili bir seçim için şanstan düşüktür. Bir öğrenci yanlış modele bağlandıktan sonra düzeltme güvenilir değildir; bu nedenle müdahale bağlanmadan önce yer almalıdır, sonra değil.
+
+**“Denetlemek kolaydır, önemseyen öğrenci bunu yapar.”** Denetlemek ucuzdur ve nadiren gerçekleştirilir. **900 ABD’li yetişkin** üzerinde yürütülen pasif bir izleme çalışmasında, YZ tarafından üretilmiş bir özet gören okuyucular bunun içinde atıf yapılan bir kaynağa ziyaretlerin yalnızca **%1’inde** tıklamış ve herhangi bir sonuç bağlantısına, özet görmeyen okuyucuların yaklaşık yarısı kadar tıklamıştır. Özet, doğrulamayı teşvik etmek yerine bastırmaktadır; bu yüzden denetim, özen varsayımıyla değil görevin içine yerleştirilerek güvence altına alınmalıdır.
+
+**“Dikkatli bir okuyucu sunum ile özü birbirinden ayırabilir.”** Hakedilmemiş güveni kazandıran şey akıcılıktır; bu nedenle kalibrasyon yalnızca bir öğrenen becerisi değil, aynı zamanda bir tasarım problemidir. Arayüzü otorite sinyali veren bir sistem, aksi yöndeki talimatlara bakılmaksızın o düzeyde güvenilir.
 
 ## Bağlı kavramlar
 
@@ -138,3 +188,8 @@ Güven kalibrasyonu [[ai-literacy]] için merkezîdir ve [[reducing-ai-misuse]] 
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — YZ önerilerini eleştirel biçimde ele alma yapısı olarak rol rotasyonu (Kenzhebayeva ve ark. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — YZ-EdTech’e güveni dört faktör olarak doğrulayan, güveni algılanan faydalılığın yukarı akışında konumlandıran öğrenci yönelik ölçüt (Nazaretsky ve ark. 2025)
+
+- [[children-verification-ai-suggestions-game-2026]] — Oyun temelli insan-YZ işbirliğinde çocukların doğrulama davranışları
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kalibrasyon yeniden çerçevelendi: sistemin konumunu geri tutmak düzeltici değil koruyucudur
+- [[children-design-trustworthy-ai-chatbots-2026]] — Çocukların güvenilir YZ sohbet robotlarını nasıl tasarladığı ve gerekçelendirdiği
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — YZ tavsiyesi insan yargısıyla hemfikir olduğunda ya da çeliştiğinde: beden eğitiminde güven, öz-yeterlilik, psikolojik dayanıklılık ve uyarlanabilir tepkiler

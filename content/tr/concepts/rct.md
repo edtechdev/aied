@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -50,12 +50,21 @@ Randomizasyon, bir RCT’yi diğer tasarımlardan ayıran şeydir: öğrenenleri
 - **Bütün bölümler içinde, ön müdahale temel çizgisiyle randomizasyon.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]], ekleme/bırakma döneminden sonra üç bütün pazarlama bölümü içinde 454 lisans öğrencisini randomize etti ve dört çıktının tamamını T1'de, hiçbir öğrencinin sohbet robotu erişiminden önce ölçtü, böylece dönem boyu karşılaştırma varsayılan bir temel çizgi yerine ölçülmüş bir temel çizgiye dayanır. Düz sonuç (hiçbir grup × zaman etkileşimi anlamlılığa ulaşmadı; bildirilen en büyük etki ilgi üzerinde d = 0,050 idi), benimsemeyle birlikte raporlanır — haftada bir atanmış kullanıma karşılık haftada 0,89 giriş — bu da zayıf kullanılan bir müdahale hakkındaki boşun, araç hakkındaki bir boş olarak okunmasını önler.
 - **Özne içi çapraz geçiş ve en iyi uygulamada konulmuş bir kontrol.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin ve ark. (2025)]], 194 Harvard yaşam bilimleri öğrencisinin her birine iki fizik dersi çalıştırdı — biri sınıf içi bir [[active-learning]] oturumunda, biri kursun kendi YZ özel ders asistanıyla, her birinin çevresinde öncesi ve sonrası testleriyle karşı dengelenmiş sırada — böylece her öğrenci kendi kontrolü olur ve *sunum kipleri* karşılaştırması, kimin hangi koşula atandığıyla karışmaz. Tasarımın ikinci seçimi de en az kadar önemlidir: karşılaştırıcı bir ders yerine araştırma temelli etkin öğrenmeydi, dolayısıyla avantaj (ortanca sonrası test 4,5'e karşı 3,5) güncel en iyi uygulamaya karşı ölçülmüştür ve "YZ öğretmeyi yener" biçiminde okunamaz.
 
+- **Oturumun sonunda değil, bir gecikmeden sonra ölçülen bir sonuç.** 120 [[higher-ed|lisans öğrencisini]] aynı konuların YZ destekli ya da geleneksel çalışmasına randomize edip kalıcılığı 45 gün sonra test eden çalışmada YZ destekli grup %68,5’e karşı %57,5 puan almış, yaklaşık 11 yüzde puanlık bir fark ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
+- **Gönüllü bir okul aracı %7’lik bir dozda bile iş yükünü hareket ettirebilir.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy ve ark. (2026)]], 108 İngiliz ilkokulundaki 464 öğretmeni okul düzeyinde randomize etmiştir. Hazırlık süresi, araç derslerin %7’sini kapsamasına ve kullanım on hafta boyunca düşmesine rağmen karşılaştırma grubunun 0,76’sı çıkmıştır (95% CI 0,64 ile 0,89); bu nedenle tahmin, aracı sunmanın iş yükü için ne yaptığını sınırlar, tam benimsemenin ne yapacağını değil.
+
 ### Güçlü yönler ve sınırlılıklar
 
 - **Güçlü yönler:** en güçlü nedensel çıkarım; temiz çıktı ölçümü; etki büyüklüğü tahmini; randomizasyon yoluyla karıştırıcıları dengeleme.
 - **Sınırlılıklar:** pahalı ve yavaş; yapay ortamlar ekolojik geçerliliği düşürebilir; YZ araçları deneylerin yürütülebileceğinden hızlı değişir; küçük örneklemler sıklıkla anlamlı etkileri tespit etmekte yetersiz güçtedir; muhtemelen faydalı YZ’nin bir kontrol grubundan esirgenmesinde etik kısıtlamalar. Bu sınırlardan ikisi, atama kümelendiğinde biçim değiştirir: etkili örneklem, öğrenci sayısı değil *küme* sayısı haline gelir, dolayısıyla bir deney baş sayısına göre büyük ama bu ölçüye göre ince olabilir — Liu ve ark.'nın 2.379 öğrencisi 34 öğretim üyesi düzeyi kümesine dayanır — ve benimseme gönüllü ve düşük olduğunda, niyet-ile-değerlendirme tahmini, aracı kullanmanın değil, sunmanın çıktıları değiştirip değiştirmediğini yanıtlar.
 
 Eğitimde YZ’de deneysel tasarımın daha ayrıntılı işlenişi — bir RCT’nin ne zaman yarı deneysel, anket ya da hesaplamalı tasarımlara göre uygun olduğu dahil — için [[research-methods-aied]] sayfasına bakın.
+
+## Yaygın yanlış anlamalar
+
+- **“Randomizasyon, aracın ne yaptığına dair geçerli bir tahmini garanti eder.”** Randomizasyon karıştırıcıları dengeler; kimsenin müdahaleyi kullanmasını sağlamaz. Düşük benimsemeli grup randomizasyonlu bir deney **aracı sunmanın** etkisini tahmin eder ve niyet-ile-değerlendirme ile tedavi-görenler-üzerinde farklı soruları yanıtlar.
+- **“Büyük bir deney her zaman daha iyi tasarımdır.”** Bazıları geleneksel büyük ölçekli denemelerin **çalışma sırasında maddi olarak değişen özel ders platformlarıyla** başa çıkamayacağını savunur ve bunun yerine sistem evrilirken geçerliliğini koruyan öğretmen yönetimindeki tasarımları kullanır. Hareketli bir hedefin deneyi iyi güçlendirilmiş olabilir ve yine de artık var olmayan bir sistemi ölçebilir.
+- **“RCT’ler ile gözlemsel kanıt birbirinin yerine geçebilir.”** **1.174 katılımcılı** bir RCT, GenAI’nin **eğitime dayalı üretkenlik uçurumunun yaklaşık dörtte üçünü kapattığını** bulmuştur; belirli bir dönem için kesin bir nedensel iddia. Gözlem mekanizmayı ve benimsemeyi açıklar; o tahmini taşıyamaz ve RCT nedeni açıklayamaz.
 
 ## Bağlı kavramlar
 
@@ -75,3 +84,6 @@ Eğitimde YZ’de deneysel tasarımın daha ayrıntılı işlenişi — bir RCT�
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Ders planlama süresi 108 ilkokulda karşılaştırma grubunun 0,76’sına düştü, %7’lik bir araç kullanım dozunda
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Oturumun sonunda değil, bir gecikmeden sonra ölçülen bir sonuç

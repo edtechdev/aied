@@ -12,7 +12,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,8 @@ Alanın gerçekte inşa ettikleri benzer bir sıralamayı yansıtır. [[writing-
 ## İnce ayarın neyi satın aldığı: ölçek üzerinde denetlenebilirlik
 
 Genel bir model, ihtiyacınız olan bir özelliği tutacak biçimde yapılamadığında, mütevazı bir veri kümesi üzerinde ince ayar genellikle yapabilir — ve yinelenen sonuç, *hedeflemenin büyüklüğü yendiğidir*. Uzman tasarımı bir çocuk okuma müfredatı üzerinde ince ayarlanmış üç 8B model, güçlükle ilgili ölçütlerde sıfır-atış GPT-4o ve Llama 3.3 70B’yi geride bıraktı; ihmal edilebilir güvenlik sorunlarıyla. Yazarlar bunu **ölçek üzerinde denetlenebilirlik** olarak çerçeveler, çünkü kompakt bir model, genel bir modelin istenemeyeceği biçimde belirli bir okuma düzeyine ve hata örüntüsüne göre ayarlanabilir ([[llm-children-reading-story-generation]]).
+
+- **[[curriculum-design|Müfredat]] yapılı veri örnek-verimlidir.** Yaklaşık 2.300 örneklik eşleştirilmiş bir bütçe altında, People's Education Press (PEP) ders kitaplarından bir K-12 [[knowledge-graph|bilgi grafiğinden]] türetilen soru-cevap çiftleri üzerinde ince ayar, sekiz yaygın öğretim derleminin eşit büyüklükteki dilimlerini geride bırakmış ve kazanımlar eğitilen konuların ötesine aktarılmıştır; bu, eğitim verisini ayırt eden şeyin müfredat yapısı olduğuna dair kanıttır ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang ve ark. (2026)]]).
 
 Örüntü çok farklı görevlerde yinelenir:
 
@@ -151,6 +153,13 @@ Yukarıdaki kanıttan damıtılmış, hesaplama israfını önleyen sırayla:
 
 Bu sayfa, [[llm]] sayfasının — büyük dil modellerinin ne olduğunu ve nasıl davrandığını kapsayan — *bir model nasıl yapılır* eşlikçisidir. [[ai-technologies]] altında eğitim-ve-uyarlama düğümü olarak, [[rag]] (genellikle önce gelen getiri alternatifi), [[prompt-engineering]] (en ucuz kaldıraç) ve [[reinforcement-learning]] (son eğitimin PÖ yarısı) yanında yer alır. Çıktıları [[intelligent-tutoring]] ve [[adaptive-learning]]’i besler; en yaygın eğitim uygulamaları [[automated-assessment]], [[automated-essay-scoring]] ve [[ai-feedback-quality]]; en yakın kavramsal akrabaları ise [[educational-nlp]], [[simulating-students]], [[open-source]] ve [[student-modeling]]’dır. Yarattığı riskler [[pedagogical-safety]], [[ai-sycophancy]], [[hallucination-risk]] ve [[privacy]] tarafından taşınır.
 
+## Yaygın yanlış anlamalar
+
+- **“İnce ayar, bir modeli görevinizde iyi yapmanın yoludur.”** Getiri ve istek metni **karar sırasında daha önce gelir** ve bilgi tabanının en net sonucu, son eğitimin **ilk değil üçüncü** seçenek olduğudur. Bir modeli değerlendirme verisi üzerinde ince ayarlamak **biçimlendirme ve benzerliği** iyileştirirken ayrı bir ince ayar **geri bildirim üretmede tümüyle başarısız oldu**; yöntem yüzeyi değiştirdi, yetkinliği değil.
+- **“Öğrenme kazanımlarının başlıca belirleyicisi modeldir.”** Model ve istek metni seçimi, bir LLM ile öğrenci öğrenme kazanımları arasındaki açığın yalnızca **yaklaşık %15'ini** açıklar. İş, kalan %85'i en iyilemektedir ve o kısım ağırlıklarda değildir.
+- **“Yerel bir model barındırılan modelden geri kalır, dolayısıyla getiri daha zayıf bir kaldıraçtır.”** Üç yapılandırmalı bir değerlendirmede **birinci mertebe tasarım kararı model değil getiriydi**: **getirisi olmayan yerel LLM yalnızca %52,3 doğruluğa ulaştı ve bir TF-IDF taban çizgisinin altında kaldı**. Getiri eklemek, aynı modeli hiçbir model değişiminin tek başına ulaşamayacağı bir eşiğin ötesine taşıdı.
+- **“Daha fazla eğitim verisi daha iyi öğretme davranışı demektir.”** Biçimlendirmeyi iyileştirirken geri bildirim üretimini kötüleştiren değerlendirme ince ayarı, küçük ölçekte karşı örnektir: benzer görünen bir hedefe karşı en iyileme, vekili iyileştirip istediğiniz şeyi bozabilir.
+
 ## Bağlı Kavramlar
 
 - [[llm]] — bu modellerin ne olduğu; bu sayfa onların nasıl yapıldığıdır
@@ -179,6 +188,8 @@ Bu sayfa, [[llm]] sayfasının — büyük dil modellerinin ne olduğunu ve nas�
 - [[ai-education]] — bu çalışmanın hizmet ettiği alan
 
 ## Bağlı Makaleler
+
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Müfredat yapılı veri örnek-verimlidir
 
 - [[singh-eduqwen-pedagogical-rl-2026]] — PÖ–SFT–PÖ hattı: CDPK’de yüzde 96,52, Gemini-3 Pro’yu geride bırakarak
 - [[learnlm-improving-gemini-learning]] — Gemini’nin son eğitimi içinde pedagojik yönerge izleme

@@ -8,7 +8,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Bilgi tabanının [[research-methods-aied|research]] büyük bir tema, YZ’nin 
 
 - **Risk: YZ uğraşı siler.** Aşırı "yardımcı", doğrudan cevap sunan Oracle tarzı YZ, şema inşası için gerekli verimli uğraşı ortadan kaldırabilir ve [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]]’ın **Güvenlik Boşluğu** adını verdiği şeyi yaratır — bir öğrencinin YZ destekli performansı ile içsel, desteksiz yeteneği arasındaki farklılık. Bu [[cognitive-offloading]] ile bağlantılıdır: çabanın yerini alan YZ, eğitimin inşa ettiği kapasiteleri aşındırır.
 - **Tasarım yanıtı: uğraşı iskeleleyen YZ.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]], verimli başarısızlığa dayalı öğrenmeyi destekleyen YZ için beş tasarım ilkesi türetir ([[human-ai-collaboration|human-AI collaboration]], [[usability-research|usability]], yansıtıcı tasarım, duygusal tasarım, açık bilgi) ve YZ’nin uğraşı korurken doğrudan olmayan destek sunması gerektiğini vurgular. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]], [[llm]] öğretmenlerinin verimli başarısızlık pedagojisini izleyecek biçimde *yönlendirilebileceğini* (çözümleri saklama, çoklu denemeleri ortaya çıkarma) algılanan yardımcılık pahasına gösterir. CoMeT (Hou ve ark. 2026) bu bedeli fiyatlandırır ve ortayı bulur: kademelendiren öğretmeni, istek üzerine cevap veren öğretmenden 0,42 ölçek puanı daha fazla can sıkıcıydı (p < ,001) ve yalnızca soru sorandan 0,29 daha az can sıkıcıydı (p = ,011), seanslarının %8,4’ünde sıkıntı tespit edildi, çözümü saklayan öğretmende bu oran %16,0 idi ve seansların %6,1’inde tam cevabı teslim etti. Can sıkıntısı yerine açık bir vazgeçme ifadesi üzerine açılan bir taban, aynı tasarımdan çıkar — böyle bir taban olmadan, talep yoluna en çok ihtiyacı olan öğrenenler onu çevreler.
+
+- **Esirgeme hüsrana da motivasyona da mal olmadı, yalnızca tercihe mal oldu.** Üç kollu bir [[rct|RCT]], ipucu esirgeyen bir öğretmenin hüsran azaltmada kısıtlanmamış ChatGPT ile eşleştiğini ve içsel motivasyonu yükselten tek kol olduğunu bulmuş, ancak öğrenciler cevap veren aracı daha kolay (p = ,003) ve daha yardımcı (p = ,004) olarak derecelendirmiştir ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner ve ark. (2026)]]).
 - **VB tasarımı için bir araç olarak YZ:** [[rhaimi-productivemath-2025|ProductiveMath]], öğretmenlerin yüksek kaliteli VB problemleri oluşturmasına yardımcı olmak için [[generative-ai|generative AI]] kullanır — verimli başarısızlık etkinliklerini tasarlamanın zahmetli olması sorununu ele alır.
 - **Kışkırtma olarak YZ üretimi hatalar:** [[pedagogy-ai-mistakes|pedagogy of AI mistakes]], YZ hatalarından ve [[hallucination-risk|hallucinations]] [[teacher-role|teaching]] araçları olarak kasıtlı yararlanır; hatalı çıktıyı bilişsel bir kışkırtma olarak ele alarak verimli başarısızlık düşüncesiyle örtüşür.
 
@@ -88,6 +90,12 @@ Bu, verimli başarısızlığı [[ai-ed-evaluation|evaluating AI in education]] 
 ## İlgili kavramlarla bağlantılar
 
 Verimli başarısızlık [[learning-theories]] (yapılandırmacılık), [[desirable-difficulties]] (öğrenmede zorluğa değer vermek), [[problem-based-learning]] ve [[inquiry-based-learning]] (öğrenen kaynaklı problem çözme), [[metacognition]] (kendi denemeleri üzerine yansıtma), [[cognitive-offloading]] (YZ’nin uğraşı silme riski), [[scaffolding]] (çabayı koruyan destek), [[feedback]] (ayrıntılı, düzeltici), [[prior-knowledge]] (etkinleştirme ve farklılaştırma), [[transfer-of-learning]] (kalıcı sonuçlar) ve [[socratic-method]] (akıl yürütmeyi kışkırtmak için sorgulama) ile bağlantılıdır. YZ çağında merkezi bir değerlendirme merceğidir: YZ, kalıcı öğrenmenin inşa edildiği uğraşı koruyan biçimde yardımcı oluyor mu?
+
+## Yaygın yanlış anlamalar
+
+- **“Yardımı esirgemek öğrenenleri hüsrana uğratır ve motivasyona mal olur.”** Üç kollu bir [[rct|RCT]], ipucu esirgeyen bir öğretmenin **hüsranı azaltmada ve motivasyonda kısıtlanmamış ChatGPT ile eşleştiğini** bulmuştur; bedel **yalnızca tercihte** görünmüştür. Öğrenenler ondan o kadar hoşlanmamış, ama bundan zarar da görmemiştir; bu da tercih verisinin işleyen tasarımı reddetmiş olacağı anlamına gelir.
+- **“Daha fazla hüsran, daha fazla öğrenme demektir.”** Kademelendiren öğretmen, istek üzerine cevap veren öğretmenden **0,42 ölçek puanı daha hüsran vericiydi (p < ,001) ve en hüsran verici koldan 0,29 daha az hüsran vericiydi**. Verimli aralık bir üst sınır değil bir ortadır; dolayısıyla “arzu edilen güçlük”, görevi sürekli zorlaştırmayı meşrulaştırmaz.
+- **“Verimli başarısızlık, öğretmenlerin yardım etmemesi gerektiği anlamına gelir.”** Tasarım *yanıtı* esirgerken yapı ve kademelendirme sunar. Bir ipucunu esirgemek ile desteği esirgemek farklı müdahalelerdir ve buradaki kanıta sahip olan yalnızca birincisidir.
 
 ## Bağlı kavramlar
 
@@ -119,3 +127,5 @@ Verimli başarısızlık [[learning-theories]] (yapılandırmacılık), [[desira
 - [[wang-safety-gap-productive-struggle-2026]] — Güvenlik Boşluğu: Verimli Uğraşın Yeniden Kurulması
 - [[lukesova-clue-before-correction-2026]] — Düzeltmeden Önce İpucu: Özerk Öğrenme için ChatGPT
 - [[pedagogy-ai-mistakes]] — YZ Hatalarının Pedagojisi
+
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Çözümleri esirgemek hüsran bedelinden kaçındı ama öğrenci tercihinde kaybetti

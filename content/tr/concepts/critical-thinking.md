@@ -10,7 +10,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-30T10:52:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -78,9 +78,18 @@ Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[
 - **Dış kaynağa aktarılamayan katılım olarak eleştirel düşünme.** Xie (2026), [[philosophy-of-ai-in-education|felsefi]] bir karşılık ekler: YZ opak bir “kara kutu” olduğundan, kesin koşullarda gerçeği yargılamaktansa belirsizliği uyumlaştırmaya yönelik bir çerçeve mevcut epistemik manzaraya daha iyi uyar ve eleştirel düşünme, gösterilebilir akılcı bir prosedürden ziyade gerçeklikle süregelen, birinci şahıs, dış kaynağa aktarılamayan katılım haline gelir. Neidan (內丹) uygulamasında “bilişsel kısayollar yoktur”, bu nedenle YZ “bir bilişsel vekil değil, bir araçsal tamamlayıcı” olarak konumlandırılır.([[daoism-ai-education-philosophy-2026]])
 - **Eleştirel insan–YZ etkileşimi için yapı olarak rol rotasyonu.** Kenzhebayeva ve arkadaşları (2026), 62 öğretmen adayı eğitim psikoloğunun tartışma nesnesi haline getirilen üretilen önerileri olan dört profesyonel rolden (Vaka Kurucusu, Araştırma Analisti, Uygulayıcı-Müdahaleci, Yansıtıcı Araştırmacı) geçtiği tasarım temelli bir çalışma bildirir: katılımcılar YZ çıktısını psikolojik teoriyle karşılaştırdı ve vakaya uymayan önerileri değiştirdi veya reddetti; sonraki döngülerde teoriyel gerekçelendirme talepleri arttı, görünürdeki otoriter yanıtlara aşırı güven ise sürdü. ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva ve ark. 2026]])
 - **Bir disiplinde doğrulama merkezli bütünleştirme.** Üniversite [[chemistry-education|kimya eğitiminde]] üretken [[generative-ai|YZ]] üzerine eleştirel bir derleme (Vega-Baudrit ve Rivera Álvarez, 2026), kimyasal akıl yürütmenin makroskobik, submikroskobik ve sembolik gösterimler arasında koordine edilmesi gerektiğinden ötürü öğrencilerin anlamadıkları şeyi doğrulayamayacağını savunuyor; bu nedenle [[prior-knowledge]] ve [[scaffolding]] önce gelir ve doğrulama, değerlendirilmiş bir etkinlik olarak [[assessment]] içine tasarlanmalıdır: yanlış bir varsayımı belirlemek, bir birim veya mekanizma hatasını düzeltmek veya üretilen bir yanıtın reddini gerekçelendirmek; akıl yürütme izleri olarak istem günlüklerini ve gözden geçirme geçmişini tutmak. ([[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit ve Rivera Álvarez 2026]])
+
+
+- **İlişkiyi taşıyan, maruz kalma değil ortaklığın yapısıdır.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun ve Toker (2026)]], 891 ABD’li ve Türk üniversite öğrencisini işlemsel bellek sistemleri kuramıyla modelledi ve ne öz değerlendirilen düşünme yeteneğinin ne de YZ ortaklığına duyulan güvenin eleştirel düşünme icrasını doğrudan öngördüğünü buldu. Her ikisi de GenAI aşinalığını beslemiş, bu da yalnızca iki davranışı öngörmüştür: uzmanlaşma ve iş bölümü (b = 0,636) ile çıktının yansıtıcı dönüşümü (b = 0,367). Bu davranışlar eleştirel düşünmeyi öngörmüş (b = 0,230 ve b = 0,175) ve doğrudan bir yol kalmamıştır (CFI = 0,974, RMSEA = 0,048). Bu, alanın yinelenen sıfır sonucunun mekanizma düzeyindeki sürümüdür: kullanım saatleri ve öz değerlendirilen yetkinlik, eleştirel düşünmenin vekili değildir ve bir çalışma maruz kalma hakkında sorduğunda ölçtüğü şey, zincirin sonucu değil girdisidir.
 - **Yalnızca bir güvence değil, bir öğrenme etkinliği olarak doğrulama.** [[pearls-epistemic-verification-2026|Wang (2026)]], YZ yapıtı değerlendirmesini — Süreç, Kanıt, Erişim, Yeniden Üretilebilirlik, Meşruluk ve Kaynak — altı birbirine bağımlı boyut çevresinde düzenler ve disiplin uzmanlığını inşa eden şeyin, çıktının akıcılığından ziyade bu gerekçeyi bir araya getirmek olduğunu ele alır.
 
 **Bilgi tabanındaki en büyük uzman derecelendirmeli kırılganlık eleştirel düşünmedir.** 30 uzman tarafından derecelendirilen 65 öğrenme süreci boyunca Eleştirel Düşünme ve Eleştirel-Analitik Düşünme, raporun en yüksek bozulma derecesini aldı (5 üzerinden ortalama 4,00; derecelendirenlerin %96’sı 3 veya üzerinde) ve iyileştirme eşiğin altında kaldı (2,40, %43) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon ve ark., 2026]]). On sekiz üst düzey süreçten onu yalnızca kırılganlıkta fikir birliğine vardı; bunu rapor, bir ödünleşmeden ziyade tek taraflı risk olarak okumaktadır.
+
+## Yaygın yanlış anlamalar
+
+- **“Daha iyi bir istek metni daha iyi eleştirel düşünme üretir.”** **Yapısal diyalog denetimi, daha iyi bir istek metni değil**, bir safsata öğretmenini bir tartışma sohbet robotundan ayırır: işi, her turu **Toulmin tabanlı niyet algılamadan** geçirmek yapmıştır. Mekanizma, ifade biçimi değil etkileşim yapısıdır.
+- **“GenAI kullanımı eleştirel düşünmeyi doğrudan yükseltir.”** GenAI kullanımının **öz bildirimli** eleştirel düşünmeyle bağlantısı **neredeyse tamamen GenAI [[feedback-literacy|geri bildirim okuryazarlığı]] üzerinden** geçmiştir: **421 Çinli lisans öğrencisinde** geri bildirim okuryazarlığı ilişkinin **%71’ine** aracılık etmiştir. Yol, okuryazarlıktan geçmektedir.
+- **“Meta-analitik etki tek biçimlidir.”** **29 deney** boyunca GenAI üst düzey düşünmeyi orta düzeyde (**g = 0,609**), eleştirel düşünmeyi ise **ES = 0,691** ile yükseltmiştir. Heterojen müdahaleler üzerinden orta düzeyde birleşik etkiler belirli bir tasarımı değil, kategoriyi destekler.
 
 ## Bağlı kavramlar
 
@@ -129,4 +138,4 @@ Eleştirel düşünme; bilişsel talebi ayakta tutan YZ desteği tasarlamakla [[
 
 - [[genai-dependence-research-creativity-2026]] — 1.157 lisansüstü öğrencide eleştirel düşünmeyle pozitif biçimde ilişkili üretken YZ bağımlılığı
 - [[genai-use-critical-thinking-moderation-2026]] — Geri bildirim okuryazarlığı yoluyla üretken YZ kullanımından eleştirel düşünmeye; yalnızca daha az yansıtıcı öğrenciler için doğrudan bir yol
-- [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — STEM eğitiminde YZ okuryazarlığına ilişkin en çok atıflanan on çalışmanın sentezi (Hallström ve ark. 2026)
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Eleştirel düşünme maruz kalmadan değil, iş bölümü ve çıktının yeniden işlenmesinden geçer

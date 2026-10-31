@@ -5,7 +5,7 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-10-14T22:15:00-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,16 @@ Doğrulama uygulaması aşırı güvenin bir başka kaynağıdır. [[schuetze-kn
 ## Öğretmen eğitimi ve makine öğrenmesi okuryazarlığı
 
 Makine öğrenme eğitimde ayrıca bir *ders* olarak da görünür. [[microbit-robotics-machine-learning-teacher-training-2026|Öğretmen adayı eğitiminde]], Micro:bit kullanan uygulamalı kodlama ve robotik müdahaleleriyle denetimli görüntü sınıflandırma projeleri, öğretmen adaylarının hesaplama kavramları ve giriş düzeyi makine öğrenmesi bilgisini ve bu konuyu öğretmeye ilişkin tutumlarını önemli ölçüde iyileştirdi. Müfredatlara [[ai-literacy|YZ okuryazarlığı]] girdikçe, [[teacher-education|öğretmenleri]] makine öğrenmesinin çalışan bir kavrayışıyla donatmak, onu öğrencilere öğretmenin ön koşulu haline gelir. Aynı kavramlara hiçbir yazılım kullanmadan ulaşan tezat bir yol var: [[sung-ai-literacy-unplugged-ml-k12-pd-2026|Sung ve Gunpinar’ın (2026) çevrimiçi mesleki gelişiminde]], on K-12 eğitimcisi elle bir "açıklanabilir öznitelik matrisi" oluşturdu — şekil özniteliklerinin evet/hayır tablosu, yani *sınıflandırıcının kendisi*, opak değil test edilebilir ve gözden geçirilebilir — yalnızca araç olarak Code.org’un sıralama oyunu ve Google Slaytlar kullanıldı. [[self-efficacy|YZ öz yeterlilikleri]] orta düzeyin altından (M = 3,13) orta düzeyin üstüne (M = 3,71) yükseldi ve bir kelime-çağrışım görevinde olumsuz betimleyiciler katılımcıların yüzde 30’undan hiçbirine düştü; ancak kanıt küçük, kontrolsüz ve tamamen [[self-report-measures|kendi bildirimine]] dayalıdır.
+
+## Yaygın yanlış anlamalar
+
+**“Doğru tahmin, opak bir model gerektirir.”** Yorumlanabilirlik ile performans, bu varsayımın izin verdiğinden daha ayrılabilirdir. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]], yapısal olarak yorumlanabilir karar ağaçlarının (**yalnızca 3-5 yaprak düğüme budanmış**) programlamada öğrenci ilerlemesi tahmininde kendi paylarını tuttuklarını gösterir. Beş düğümlü bir ağaç görevinizde bir kara kutuyla başa baş geliyorsa, kara kutu doğruluk değil opaklık satın alıyordur; bir kararın öğrenciye açıklanması gereken bir eğitim ortamında cam kutu daha iyi bir mübadeledir.
+
+**“Eğitimde makine öğrenmesi tarafsız bir tahmin teknolojisidir.”** Uygulamaları, disiplinin yönetişim başarısızlıklarını kendileriyle birlikte taşır ve gözetim en açık vakadır: davranışsal veya fizyolojik sinyallerden bir öğrenci hakkında çıkarım yapan bir model, beraberinde bir güven puanı taşıyan bir suçlama yapmaktadır ve bu çıkarımın kanıt tabanı, konuşlandırma oranının düşündürdüğünden çok daha zayıftır.
+
+**“Üretken YZ, eğitimde klasik makine öğrenmesini gereksiz kıldı.”** Farklı işler yaparlar. Öğrenen durumlarının tahmini, zorluk kestirimi ve ilerleme öngörüsü klasik makine öğrenmesi problemleri olmayı sürdürür ve bu derlemin belgelediği bilgi izleme ile madde kalibrasyonu literatürüne bir dil modeli hizmet etmez. Üretken YZ, makine öğrenmesinin bir alt kümesidir, onun yerine geçen bir şey değil.
+
+**“Öğretmen eğitimi, öğrencilere makine öğrenmesi yerine LLM’leri öğretmelidir.”** Okuryazarlığı üretken katmanla sınırlamak, uygulayıcıları öğrencileri hakkında karar veren tahmin sistemlerini sorgulama yeteneğinden yoksun bırakır; sonuç doğuran hataların yoğunlaştığı yer tam olarak burasıdır.
 
 ## Bağlı Kavramlar
 

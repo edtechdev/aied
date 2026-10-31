@@ -8,7 +8,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,16 @@ Yukarıdaki [[research-methods-aied|araştırma]], varsayılan uzman bir LLM’y
 - **LbT, YZ aşırı güvenine karşı ölçeklenebilir bir panzehir** — mentor/öğrenci rolünü tersyüz eder ve öğreneni bilişsel olarak etkin tutar; bu durum YZ giderek daha akıcı ve daha “yardımsever” hale geldikçe daha da önem kazanır.
 - **Hataya açıklık bir kusur değil, bir özelliktir.** *Fazla* doğru olan bir araci, LbT’yi işleyen kılan hata düzeltme ve boşluk tespitini ortadan kaldırır; verimli mücadeleye karşı değil, onun için tasarım yapın.
 - **Açık sorular kalmaktadır:** Yenilik tamamen söndüğünde LbT etkileşimleri bir dönemin ötesinde nasıl sürdürülür? LbT, bilgisayar bilimi dışındaki, daha az yapılandırılmış alanlara aynı ölçekte aktarılabilir mi? Otomatik diyalog kodlaması, öğretim elemanları için pratik, gerçek zamanlı bir angajman izleyicisi haline gelebilir mi? Ve öğretme rolünü *her* öğrenci için, motive olmuş birkaçı için değil, nasıl anlamlı tutarız?
+
+## Yaygın yanlış anlamalar
+
+**“Her öğrenen işe yarar, çünkü yarar açıklamada yatar.”** Yarar, öğrenenin yanıtlarının bilgilendirici olmasına bağlıdır. Her şeyi zaten anlayan bir öğrenen, öğretenin tespit edebileceği bir boşluk bırakmaz; bu nedenle bir LLM’yi iyi bir öğrenen yapmak **hataya açıklığı mühendislikle inşa etmeyi** gerektirir: öğretmen-öğrencinin teşhis edip düzeltmesi gereken tasarlanmış hatalar ve kafa karışıklığı. Protégé etkisi öğrenenin bilgisizliğinden gelir, dolayısıyla yetkin bir öğrenen mekanizmayı ortadan kaldırır.
+
+**“Üretilen hatalar yanlış oldukları için yeterince iyidir.”** Ancak makul oldukları sürece. Kör bir etiketleme çalışmasında uzmanlar **196 LLM üretimli Java gönderisinden 164’ünü (%83,7) özgün** öğrenci işi olarak yanlış sınıflandırdı; bu hem hataların gerçekçi olduğunun kanıtı hem de bir öğrenenin yanlış tanıyı öğretecek biçimde yanılabileceğine dair bir uyarıdır.
+
+**“Bir LLM’den kafası karışmış gibi davranmasını istemek önemsiz bir istek metnidir.”** Bu bir tasarım sorunudur, çünkü hataya açıklık öğretilen kavrama ve öğrenen-öğretenin mevcut modeline göre kalibre edilmelidir. Rastgele hatalar hata ayıklama pratiği üretir; belirli, makul bir yanlış kanıyı yansıtan hatalar kavramsal yeniden yapılanma üretir ve pedagojik hedef yalnızca ikincisidir.
+
+**“Öğreterek öğrenme, öğretilmekten daha yumuşak bir etkinliktir.”** Daha talepkardır. Öğretmeye hazırlanmak, bilginin düzenlenmesini ve kişinin kendi boşluklarının yerini bulmasını zorlar; bu nedenle yaklaşım, pasif alımın gizlediği yanlış anlamaları gün yüzüne çıkarır: güçlük, en aza indirilecek bir maliyet değil mekanizmanın kendisidir.
 
 ## Bağlı kavramlar
 

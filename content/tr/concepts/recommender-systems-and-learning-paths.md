@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,16 @@ Belirtmeye değer bir sınır: öneri sistemlerinin şu anda yaptığı iş işb
 Kanıt tabanının tutarlı bir biçimi vardır: güçlü çevrimdışı sıralama metrikleri, öğrenme hakkında zayıf kanıt. Yukarıdaki her iki öneri çalışması da tarihsel etkileşim kayıtları üzerinde değerlendirilir ve bunu açıkça belirtir, CF–KG yazarları özellikle öğretmen değerlendirmeleri, öğrenen çalışmaları ve sonuca dayalı deneyler çağrısında bulunur. Popülerlik yanlılığı bir sistemde adalet farkında bir eğitim hedefinden sağ çıktı, dolayısıyla alan, maruziyeti güvenilir biçimde değiştiren bir yeniden sıralama ya da düzenlileştirme çözümine henüz işaret edemez ve adalet denetimleri LMS kayıtlarının içerdikleriyle sınırlı kalır. Soğuk başlangıç, anlamsal yapı yoluyla mimari düzeyde ele alınır, ama canlı uygulamada gerçekten yeni kullanıcılarda sınanmaz. Yol verimliliği daha iyi kanıtlanmıştır, yine de verimlilik sayıları hâlâ tek bir çalışmaya ve tek bir algoritma ailesine dayanır ve daha kısa yol, bir öğrenenin ihtiyaç duyduğu [[desirable-difficulties|verimli mücadeleyi]] ortadan kaldırıyorsa otomatik olarak daha iyi değildir. Resmî yol optimizasyonu çalışması noktayı iki yönde keskinleştirir: zor bir problemin garanti edilmesi, belirli bir derlem hakkında pek az şey söyler; NP-tamlık kanıtlarına rağmen bir tepe tırmanıcısı, her gerçek profil üzerinde [[retrieval-spacing-interleaving|aralıklı öğrenme]] rubriğinin tepesine vurdu ve kuramdan türetilmiş bir rubrik üzerinde 3,54 puan alan bir yol hâlâ hiçbir öğrenende sınanmamış bir yoldur; dolayısıyla rubrik kalitesi, sonuç kanıtının yerine geçen bir tasarımcı yüzü vekil ölçüdür. Kelime dağarcığı da kararsızdır: [[ikram-ai-personalized-learning-review-2026|Ikram ve meslektaşları (2026)]], 31 Scopus indeksli makalenin (2013–2025) bir [[meta-analysis-systematic-review|PRISMA]] derlemesinde, YZ etkin uyarlanabilir sistemler için orta ile büyük ölçekli bilişsel etkiler (g = 0,50–0,70) bildirir; bunlar uygulama kalitesi ve [[research-methods-aied|çalışma tasarımı]] tarafından ağır biçimde düzenlenir.
 
 Aynı literatür daralmaya karşı çözümler önermeye başladı, ama henüz bunları sınayıp sınamadığı belli değildir. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem, Zaoui Seghroucheni ve Ziti (2026)]], 12 kendi bildirilen davranışsal, psikolojik ve çevresel girdi üzerinde 14.003 öğrenci kaydını K-Means++ ile altı profile, güçlü ayrım ile kümeleştirir (Silhouette 0,62; final notunda η² = 0,770, en yüksek ile en düşük profil arasında 40,17 puanlık ortalama sınav puanı farkı), ardından profilleri bir benzerlik puanıyla bir Felder-Silverman eşleme matrisi ve çeşitlilik düzenlileştirme terimi (λ = 0,30) birleşimi yoluyla öğrenme nesnelerine eşler; bunun açık amacı, bir öneri sisteminin bir profilin halihazırda tercih ettiklerine çökmesini durdurmaktır. Katkı tasarımdır, kanıt değil: öneri katmanı kavramsaldır, hiçbir uygulama ya da sonuç ölçümü bildirilmemiştir ve yazarlar, kümeleme girdilerinin LMS etkileşim izleri değil, kendi bildirilen vekiller olduğunu belirtir. Bu, bu sayfanın belirttiği düzenlileştirme boşluğuna aday bir yanıttır; sayfanın alanda eksik olduğunu söylediği doğrulamayı hâlâ beklemektedir.
+
+## Yaygın yanlış anlamalar
+
+**“Doğruluk ölçütü daha yüksek bir öneri daha iyi bir öğrenme yoludur.”** Sıralama doğruluğu ile öğretimsel geçerlilik farklı iddialardır. MARS veri kümesinin İngilizce alt kümesinde (**4.800 kullanıcı, 14.200 kaynak, 132.000 etkileşim, seyreklik 0,9981**) bir sistem NDCG 0,625 ve HR 0,751 değerine ulaşmış, en iyi sinirsel temel çizgiye karşı yaklaşık **%7-8** kazanç sağlamıştır; bu, bir öğrenenin neyle etkileşime gireceğini tahmin etmede bir iyileşmedir ve ona neyin öğreteceği ile aynı şey değildir.
+
+**“Önkoşullar simetrik bir benzerlik ilişkisi olarak ele alınabilir.”** Alınamaz: önkoşul ilişkileri **yönlü olarak asimetriktir** ve “bu konular ilişkilidir” ifadesini yakalayan bir model ne yönü ne de sıralamayı yakalamıştır. Önkoşul sıralamasının öneriden ayrı bir problem olmasının nedeni budur.
+
+**“Seyrek veri teknik bir sıkıntıdır.”** Bu literatürdeki seyreklik düzeylerinde (0,9981) sistem neredeyse hiçbir şey görmez; bu da soğuk başlangıcı ve popülerlik yanlılığını ayarlamayla düzeltilebilir değil yapısal kılar. Bu sinyalle eğitilen bir önerici sistematik olarak zaten popüler olanı öne çıkarır ve sessiz ya da sıra dışı öğrenenler onun göremedikleridir.
+
+**“Açıklanabilirlik bir raporlama özelliğidir.”** Bir öğretmenin ya da öğrenenin bir öneriyi denetleyip denetleyememesi bir meşruiyet koşuludur: bir öğrencinin inceleyemediği bir yol, itiraz edemediği bir yoldur; bu, arayüz değil önce yönetişim problemidir.
 
 ## Bağlı kavramlar
 

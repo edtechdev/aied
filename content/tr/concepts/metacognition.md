@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,12 +49,16 @@ Koordinasyon odağı öğretmenden öğrenene kaydığında metabiliş için dah
 
 ## YZ Araçları Metabilişi Nasıl Etkiler
 
+
+**Metabiliş, en az incelenen sonuçlar arasındadır.** 394 üretken YZ yükseköğretim çalışmasını kapsayan bir kapsam derlemesinde metabiliş ve öz düzenlemeli öğrenme, etik ve yaratıcılıkla birlikte en az hedeflenen sonuçlar arasındaydı ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]], baskılama açıklamasına çalışma kâğıtlarına karşı ön kayıtlı nedensel bir sınav (N = 317) sunar. Düzensizlik 0,84 arttı (%95 güvenilir aralık 0,47 ile 1,21) ve modeldeki en net etkiydi; derin işleme ise doğrudan değil, dış kaynak kullanımından eleştirel düşünmeye uzanan bir zincir üzerinden düştü. Yazar bu durumu bilişsel uyku hali olarak adlandırır: izleme ve strateji seçimi sessizleşirken işleme sürer; nedenini öğrenende değil, ortamın sunduğu olanaklarda konumlandırır.
+
 ### Baskılama Riski (Stanford SCALE, 2026)
 
 YZ öğrenciler için akıl yürütme görevlerini tamamladığında — matematik problemlerini çözerken, kompozisyon yazarken, kod üretirken — öğrenci kendi anlayışını izleme ve strateji seçme pratiğini kaybeder.([[stanford-evidence-base-ai-k12-2026]])
 
 Bağımlılık bir başarısızlık değildir: [[du-yuan-epistemic-dependence-2026|Du ve Yuan (2026)]], YZ aracılı öğrenmeyi altı tanı kriteriyle değerlendirir — itiraz edilebilirlik, geri kazanılabilirlik, aktarım, izlenebilirlik, dağıtılmış sorumluluk ve bilgisel çoğulluk — ve çıktı üretilmesine yardımcı olan araçsal yardımı, çıktının yargılandığı standartları sağlayan yargı taşıyan yardımdan ayırır.
-
 **Yönetişim sorusunun adlandırılması.** [[metacognitive-ownership-human-ai-regulation-2026|Lin ve Chang (2026)]], **metabilişsel mülkiyet** — YZ’nin katkıda bulunduğu standartların, değerlendirici yargıların ve eylemlerin öğrenen tarafından yönetilmesi — kavramını önerir; standartların benimsenmesini, izleme-yargı yönetişimini ve kontrol yetkilendirmesini ayırır ve farklı şekilde hareket etmek için gerçekçi bir fırsat gerektirir.
 
 Temel bulgular:
@@ -141,6 +145,12 @@ Proaktif [[agentic-ai|etken YZ]], öğrenenin kendi metabilişsel döngüsünün
 - **Bir metabilişsel öz bildirim aracı içinde farkındalık, geri kalanını aşar.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai ve Alshahri (2026)]], YZ destekli STEM öğrenmesinin 45 maddeli bir ölçeğini 649 Suudi ortaokul öğrencisiyle doğruladı (CFI = 0,983, RMSEA = 0,019; alt ölçek ω = 0,888–0,905) ve bileşenleri sıralamak için kullandı. Dört boyut, öz-düzenlemeli öğrenme puanlarındaki varyansın %68’ini açıkladı; YZ tabanlı metabilişsel farkındalık en güçlüsü (β = 0,38, p < 0,001), bilişsel aktarım ve uyum yeteneği onu izledi (β = 0,29, p = 0,008) ve yaratıcı ve eleştirel YZ-STEM akıl yürütmesi anlamlı değildi (β = 0,14, p = 0,135). Farkındalık, uyarlanabilir performansı taşıyan bileşendir; yazarlar tek bir global puan yerine alt ölçekleri ayrı ayrı rapor etmeyi öneriyor ve üst düzey akıl yürütmeyi akıl yürütme kalitesi görevleri için ayırıyor; ölçek yine de öz bildirim olduğundan, yukarıdaki atölye çalışması gibi gözlenen strateji kullanımından çok algılanan yeteneği yakalar.
 - **Değerlendiricinin kendi izlemesi de metabilişsel iştir.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl ve Leuders (2026)]], YZ üretimi bir tanısal çıkarımın ham kanıt değil çoktan yapılmış bir yorum olduğunu savunuyor, öyleyse öğretmenler onu *meta-tanı* adını verdikleri bir süreçte kendi gözlemleriyle bütünleştirmeli, kabul edip etmemeyi, reddetmeyi ya da değiştirmeyi bilinçli olarak kararlaştırmalı. Bu, öğreneninkinin yanına ikinci bir metabilişsel döngü koyar: yalnızca öğrencinin YZ ile düşüncesini nasıl düzenlediği değil, öğretmenin sistemin o düşünce hakkında ne iddia ettiğini nasıl değerlendirdiği.
 
+## Yaygın yanlış anlamalar
+
+- **“YZ desteği altta yatan yeteneği bozulmadan bırakır.”** YZ makale desteği kullanan öğrenciler **kendi makalelerinden alıntıları hatırlayamadı: %83, YZ kullanmayanlarda %11**, bu da **üretim sırasında içerikle ilgilenmediklerini** gösterir. Angajmanın gerçekleştiği yer üretim sürecidir ve onu atlamak sonra ortaya çıkar.
+- **“Dış kaynak kullanımı her şeyi bozar.”** Maliyet **küresel değil sınırlı** görünür: dış kaynak kullanımı **altta yatan alan-genel yetenekleri değil, pratik edilen belirli beceriyi** bozar ve **bir şeyle** aktarım testlerinde ortaya çıkar. Yerelleştirme önemlidir, çünkü genel bir gerileme uyarısı yerine neyin korunacağını söyler.
+- **“Üretebilme yetisi hatırlayabilme yetisini ima eder.”** %83’e karşı %11’lik hatırlama farkı doğrudan karşı örnektir: her iki koşulda da çıktı üretildi ve bellek izi muazzam biçimde farklılaştı.
+
 ## Bağlı kavramlar
 
 - [[pedagogical-patterns]] — Bu dizilerin içine kurduğu yansıma adımları
@@ -156,6 +166,9 @@ Proaktif [[agentic-ai|etken YZ]], öğrenenin kendi metabilişsel döngüsünün
 - [[cognitive-surrender]]
 
 ## Bağlı makaleler
+
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Bilişsel uyku hali: askıya alınmış metabilişsel angajmanın ve artan düzensizliğin deneysel bir açıklaması (Braun 2026)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — iki saatlik bir YZ okuryazarlığı atölyesi, ortaokul öğrencilerinin bildirdiği metabilişinin aksine YZ etkileşim düzenlemelerini kaydırdı (Clerc ve ark. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Bilgisayar Destekli Üst Üste Çevirmide Öğrenci-YZ Etkileşimi
 - [[du-yuan-epistemic-dependence-2026]] — YZ aracılı öğrenmede bilgisel bağımlılık (Du & Yuan 2026)

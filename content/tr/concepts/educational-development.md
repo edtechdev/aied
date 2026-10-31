@@ -10,7 +10,7 @@ institutions: [educational-policy-ai]
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,7 @@ Bu açıklamaya göre, “bir üretici YZ dünyasında öğretmenliğin anlamı 
 
 ### Program tasarımcıları için pratik rehber
 
-Akademik personel geliştiricileri, akademik liderler ve YZ [[professional-training|mesleki gelişimi]] planlayan [[stakeholders|öğretim tasarımcıları]] için bilgi tabanının kanıtı şunu önermektedir:
+Akademik personel geliştiricileri, akademik liderler ve YZ [[educational-development|mesleki gelişimi]] planlayan [[stakeholders|öğretim tasarımcıları]] için bilgi tabanının kanıtı şunu önermektedir:
 
 **Yalnızca bilgiyi değil, dört benimseme iticisini de ele alın.** Güven, tutumlar, destek ve kaygılar, akademik personelin YZ’yi gerçekten benimseyip benimsemediğini öngörür — bunları göz ardı eden yalnızca bilgiye dayalı bir atölye, uygulamayı değiştirme olasılığı düşüktür. Gelişimi, güveni uygulamalı kullanımla oluşturacak, süregelen destek sağlayacak (tek seferlik eğitim değil) ve personelin kaygılarını etkin biçimde yüzeye çıkarıp yanıtlayacak şekilde tasarlayın. ([[teacher-ai-adoption-confidence]])
 
@@ -84,6 +84,7 @@ Güven ve okuryazarlık birbirinin yerine kullanılamaz hedeflerdir: üniversite
 **Hazır bulunuşluğu sosyoteknik bir uyum sorunu olarak ele alın.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI çerçevesi]], akademik personelin hazır bulunuşluğunun epistemik, pedagojik, kurumsal ve kalite-ve-uyum alanlarına yayıldığını göstermektedir. Yalnızca bireyi eğiten programlar, değişimi mümkün kılan veya engelleyen kurumsal kolları (politika, iş yükü, teşvikler, kalite standartları) gözden kaçırır — bunları eğitimle birlikte hizalayın. ([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **Altyapı yatırımını dönüşümle eşit tutmayın.** 125 çalışma genelinde, kurumların üretici YZ altyapısına ve eğitsel gelişime yaptığı yatırım, fiili pedagojik değişimle yalnızca zayıf biçimde ilişkili bulunmuştur (r = 0,12); öğretmenlerin %60–70’i üretici YZ’yi bütünleştirmeye hazır olmadıklarını hissetmiştir — bu durum, tedarik değil gelişimi sınırlayıcı etken kılar. ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**Etki büyüklüğünü değil, başarısızlık kipini adlandırın.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe ve Martínez-Pérez (2026)]] buna simüle edilmiş yenilik der: araç varlığı ilerlemeye işaret eder, öğretim ve değerlendirme biçimleri olduğu gibi kalır, benimseme oranları ve panolar öğrenmenin yerini alır ve yönü teknoloji yayım döngüsü belirler. Teşhisleri, bir gelişim programından her aracı benimsemeden önce adlandırılmış bir öğrenme problemi karşısında gerekçelendirmesini ister.
 
 **Araç benimsemesine değil, müfredat yeniden tasarımına doğru ilerleyin.** Amaç, akademik personelin kursları ve değerlendirmeyi yeniden tasarlamasıdır, yalnızca YZ araçları eklemek değil. Mesleki gelişimi kurs düzeyinde yeniden tasarım çalışmasına ve değerlendirme reformuna dayandırın ve personele bunu yapmak için yapılandırılmış çerçeveler sunun (örneğin [[ai-assessment-scale-reform|değerlendirme ölçekleri]], [[institutional-change-framework-ai|kurumsal değişim çerçeveleri]]). ([[institutional-change-framework-ai]]) ([[ai-assessment-scale-reform]])
 
@@ -139,6 +140,7 @@ Güven ve okuryazarlık birbirinin yerine kullanılamaz hedeflerdir: üniversite
 
 ## Bağlı makaleler
 
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Can education set the agenda for AI? Simulated innovation and pedagogical direction-setting in teacher education
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views

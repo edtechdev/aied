@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -49,6 +49,9 @@ Regülasyon, YZ [[governance]]’inin hukuki ve politika katmanıdır: kurumsal 
 
 Bilgi tabanı, YZ yayılım hızı ile regülasyon olgunluğu arasındaki ısrarlı açığı belgelemektedir. [[institutional-change-framework-ai|Kurumsal değişim çerçeveleri]] ve regülasyon araştırması, tepkisel politika yerine proaktif [[governance]] savunmaktadır.  çalışmaları ve [[raza-farooq-aied-review-2020-2025|kapsamlı AIED incelemeleri]], regülasyonun yetki alanlarına ve eğitim kademelerine göre eşitsiz olduğunu, öğretmenler, öğrenciler ve geliştiriciler için tutarsız bir işletme ortamı yarattığını vurgular.
 
+
+[[agentic-ai|Aracı]] sistemler bir başka açık doğurur. 12 üniversitenin belge analizinde [[wong-sun-agentic-ai-assessment-governance-2026|Wong ve Sun (2026)]], hiçbir karşılaştırma örneğinin bir öğrenme yönetim sistemine giriş yapan, öğrenci kimlik bilgilerini tutan ya da öğrenci adına hareket eden bir aracıyı ele almadığını bulmuştur; birkaç aracı farkındalığı olan vaka ise açık devretme ve erişim sınırları koymuştur.
+
 **Açık, zamanlamanın yanı sıra bir kanıt açığıdır.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski ve Hurley (2025)]] bir meslek sektörünü, yapabileceği bir kanıt tabanı olmadan zaman baskısı altında politika yapmak olarak nitelendirir: ABA onaylı ABD’li [[legal-education|hukuk fakültelerinin]] çoğu genel olarak yasaklayıcı tutum alırken takdir yetkisini bireysel öğretim elemanlarına bıraktı ve yazarlar, açıklama veya atıf uygulamasına ilişkin bir uzlaşı olmadığını ve ABA’nın 2024 politika anketine yalnızca ~%15’lik bir yanıt oranı bildirir. Onların normatif yanıtı — tutum ne olursa olsun net kılavuzlar, hüküm metninin hazırlanmasında [[stakeholders|ilgili tarafların]] katılımı ve esnek ve dönemsel olarak gözden geçirilecek biçimde tasarlanan yönetişim — [[crompton-governing-genai-higher-ed-delphi-2026|küresel Delphi uzlaşısıyla]] eşleşir; o da politika sürdürümünü bir kerelik bir görev değil, yinelenen bir kurumsal mekanizma olarak ele alır. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ve Calderon (2025)]] ters bağımlılığı ekler: yönetişim reform programı, kurumsal gelişimin regülasyondan, kıyaslamadan ve kurumlar arası rekabetten gelen dış imkân olmadan büyük olasılıkla verim getirmeyeceği sonucuna varır; bu da kalite ve regülasyon kurumlarını — ve kurumlar arasında zorunlu kıldıkları karşılaştırmayı — iç yönetişim reformunun tuttuğu koşul haline getirir.
 
 EdTech platformu gizlilik politikalarının bir denetimi, bu bağımlılığa somut bir örnek verir. 48 platform boyunca veri toplama nispeten iyi açıklandı (ortalama 2 üzerinden 1,81), buna karşılık YZ açıklaması (0,90) ve hesap verebilirlik (1,07) geride kaldı ve %33’ü görünür YZ özelliklerine rağmen anlamlı bir YZ açıklaması yapmadı; ABD [[k-12]] platformları genel olarak en yüksek puanı aldı (ABD [[higher-ed|yükseköğretiminin]] 5,50’sine karşılık M = 7,47) ancak YZ açıklaması veya hesap verebilirlikte hiçbir kazanım elde etmedi — yazarların sonucuna göre regülasyon yalnızca adlandırdığı şeyi yükseltir; bu nedenle uygulanabilir kurallar ve sağlama standartları, gönüllü taahhütler yerine [[privacy]]’yi yayılımın bir koşulu haline getirmek zorundadır ([[edtech-privacy-deferral-2026|Nair ve Greenstadt, 2026]]).
@@ -56,6 +59,14 @@ EdTech platformu gizlilik politikalarının bir denetimi, bu bağımlılığa so
 ### Bağlantılar
 
 Regülasyon; [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]] ve [[academic-integrity]] ile bağlantılıdır. Diğer tüm YZ eğitim uygulamalarının nasıl işlediğini şekillendiren kurumsal katmandır. Regülasyon hem kısıtlar hem olanak tanır: kabul edilebilir YZ kullanımının sınırlarını belirlerken — [[ai-literacy]] ve sorumlu kullanım beklentileri yoluyla — [[equity-in-ai-education|eşitlikçi]], güvenli bütünleşme için koşullar yaratır.
+
+## Yaygın yanlış anlamalar
+
+- **“Kurumsal YZ politikası, kuralların yaşadığı yerdir.”** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson ve Rainie’nin (2026)]] **1.057 ABD’li öğretim elemanı** üzerindeki anketi, etkin kuralların kurumsal katmanın ne kadar altında oturduğunu ölçer: **katılımcıların %87’si kendi rehberliğini yazmıştır**. İşleyen politika büyük ölçüde öğretim elemanı yazımıdır; bu da belgelenmiş kurumsal katmanın göründüğünden daha azını betimlediği anlamına gelir.
+
+- **“Politika yazmak riskli yüzeyi kapsar.”** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]], değerlendirme araçlarının neden düzenlenmiş kümede yer alması gerektiğini gösterir: bir kırmızı ekip sınamasında bir teslime gizlenmiş **beş dolaylı istek metni enjeksiyonundan ikisi** başarılı olmuştur. Araçları adlandırıp enjeksiyon yüzeylerini adlandırmayan bir kural, sömürüyü ele alınmamış bırakır.
+
+- **“Aracı sistemler mevcut kuralların genişletilmesiyle kapsanır.”** **12 üniversitenin** belge analizinde [[wong-sun-agentic-ai-assessment-governance-2026|Wong ve Sun (2026)]], **hiçbir karşılaştırma örneğinin bir öğrenme yönetim sistemine giriş yapan bir aracıyı ele almadığını** bulmuştur. Yönetişim boşluğu yapısaldır: mevcut kategorilerin kimlik bilgilerine sahip özerk bir aktör için yuvası yoktur.
 
 ## Bağlı kavramlar
 
@@ -94,3 +105,5 @@ Regülasyon; [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]],
 - [[coates-governing-academic-integrity-indicators-2025]] — Yönetişim reformunun koşulu olarak dış regülasyon baskısı (Coates, Croucher ve Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — İnce kurumsal politika katmanı karşısında kendi kurallarını yazan %87’lik bir öğretim elemanı kesimi (Watson ve Rainie 2026)
 - [[edtech-privacy-deferral-2026]] — "Sonra Düzeltiriz": Eğitim, YZ ve EdTech’te Öğrenci Gizliliğinin Ertelenmesi
+
+- [[wong-sun-agentic-ai-assessment-governance-2026]] — Hiçbir karşılaştırma politikası bir öğrenme yönetim sistemine giriş yapan ya da öğrenci kimlik bilgilerini tutan bir YZ aracısını ele almadı (Wong ve Sun 2026)

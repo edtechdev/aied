@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,13 @@ Etkin öğrenme, [[icap-framework|ICAP çerçevesi]] (Etkileşimli–Yapılandı
 Etkin öğrenme [[collaborative-learning]] (etkin öğrenmenin çoğu sosyaldir), [[learning-by-teaching]] (başkalarına açıklamak en üst düzeyde etkindir), [[project-based-learning]] ve [[experiential-learning]] (otantik bağlamlarda yaparak öğrenme), [[embodied-learning]] (fiziksel katılım), [[game-based-learning]] ve [[simulation]] ile derin biçimde bağlantılıdır. [[scaffolding]] ve zamanında verilen [[feedback]]’e bel bağlar ve YZ çabayı ikame ettiğinde [[cognitive-offloading|aşırı güven]] tehdidi altındadır. [[constructivist]] ve [[learning-theories]] kuramlara dayanarak [[higher-ed]], [[k-12]] ve [[stem-education]] alanlarını kapsar.
 
 Etkin öğrenme, YZ çağında [[learning-gains|öğrenme kazanımları]] üzerindeki en güçlü kaldıraçlardan biridir. Etkin stratejiler anlayışı çabayla kurduğundan, YZ kısa devre yaptığında dayanıklılığı en yüksek olanlardır — ve bilgi tabanının kanıtları, bu çabanın korunmasının kalıcı öğrenmeyi koruduğunu, YZ’nin onu yutmasının ise aşındırdığını göstermektedir ([[generative-ai-reduced-study-time-math|azalan çalışma süresi]], [[stromberg-generative-ai-learning-penalty-secondary-2026|öğrenme cezası]], [[lak2026-hint-button-unproductive-use|ipucu istismarı]]). Etkin öğrenme tasarımlarını yardımsız çıktılarda [[learning-gains|ölçülmüş kazanımlarla]] eşleyen öğretim elemanları, YZ destekli etkinliğin öğrenmeyi gerçekten iyileştirip iyileştirmediğine dair en net tabloyu elde eder.
+
+## Yaygın yanlış anlamalar
+
+- **“YZ’yi etkinliğe koymak, onu etkin kılar.”** Bir EEG çalışması, **etkileşimli öğrenci-YZ işbirliğinin en yüksek bilişsel etkileşimi ürettiğini, tam otomasyonun ise onu düşürdüğünü** bulmuştur. Etkileşim YZ’nin varlığından değil, etkileşimin kendisinden gelmiştir ve işin öğrenene ait kısmını otomatikleştirmek etkileşimi yanlış yöne çekmiştir.
+- **“YZ destekli sorgulama otomatik olarak üst düzeydir.”** **120 sekizinci sınıf öğrencisiyle** yapılan yarı deneysel bir çalışma, YZ destekli [[inquiry-based-learning|sorgulamaya dayalı öğrenmenin]] yaratıcı matematik performansını **ve** daha dar bir ölçütü yükselttiğini bulmuştur; muamele bazı çıktıları hareket ettirmiş, diğerlerini değil. Üst düzey etiketiyle korelasyon, üst düzey bir görevle aynı şey değildir.
+- **“Öğretimi öğrencilerin tasarlaması teknik bir alıştırmadır.”** Tersine çevirme çalışmasında, 700 öğrencili bir dersteki **345 öğrenci**, her biri bir akrana üç tasarım desenini öğretecek bir konuşma aracısı tasarlamıştır. Etkin öğrenme, istek metni mühendisliği değil pedagojik akıl yürütme olan tasarım işinden gelmiştir.
+- **“Etkileşim bulguları, öğrenme bulgularıdır.”** Aynı kanıt tabanı, **kontrol grubu olmayan, gönüllü örneklemli** bir tasarımın yalnızca etkileşim iddialarını desteklediği konusunda uyarır. Öğrenciler açık uçlu tasarım özgürlüğüne değer vermiş (**%22,3** en üst olumlu tema) ve en çok belirsiz yönergelerden yakınmıştır (**%23,7**); ikisi de deneyime ilişkindir.
 
 ## Bağlı kavramlar
 

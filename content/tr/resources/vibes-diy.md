@@ -2,7 +2,7 @@
 title: "Vibes DIY"
 created: "2026-10-14T22:15:00-04:00"
 type: resource
-summary: "A plain-language app builder: describe a small tool in words and get a working, shareable web app, with the underlying React packages and CLI released under Apache-2.0."
+summary: "Sade dilli bir uygulama kurucu: küçük bir aracı sözcüklerle anlatın, çalışan ve paylaşılabilir bir web uygulaması elde edin; altındaki React paketleri ve CLI Apache-2.0 ile yayımlanmış."
 url: https://vibes.diy/
 source_code: https://github.com/VibesDIY/use-vibes
 author: "The Vibes DIY project"

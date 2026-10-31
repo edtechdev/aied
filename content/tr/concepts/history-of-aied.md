@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T13:10:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,34 @@ Alanın tarihi doğrusal bir ilerleme değil, etkileri hâlâ yankılanan bir di
 - **Tasarım tercihlerini değer tercihleri olarak görün.** Eğitimde yapay zeka konusundaki teknik kararlar, öğrenmenin amacına ilişkin ideolojik konumları içerir — bunları görünür kılın ve sorgulayın.
 - **Denetimi özerkliğe karşı bilinçli tartın.** Yapay zekanın standart sonuçlara doğru eniyilemesi mi yoksa çeşitli, öğrenen yönelimli sonuçları olanaklı kılması mı gerektiği, teknik bir veri değil, kurumsal ve siyasi sonuçları olan gerçek bir tercihtir.
 - **Öğrenen özerkliğini koruyun.** Açık uçlu, öğrenen merkezli yaklaşımlar lehine standardizasyon ve denetime duyulan yinelenen direnç, savunmaya değer kalıcı bir eksendir.
+
+## Yaygın yanlış anlamalar
+
+**“YZ eğitimde ChatGPT ile başladı.”** Başlamadı ve bu inanç maliyetlidir, çünkü önceki her dersi görünmez kılar. [[intelligent-tutoring|Akıllı özel ders]], 1960’lar ve 70’lerin sezgisel arama ve uzman sistem çalışmalarından türer ve AIED topluluğu, [[llm|büyük dil modellerinden]] onlarca yıl önce bunun etrafında oluşmuştur. [[mishra-control-vs-agency-history-2025|Mishra ve ark.]], mevcut tartışmaların Anderson’un bilişsel öğreticileri ile Papert’in yapılandırmacılığında zaten açık olan bir bölünmeyi yeniden ürettiğini göstermektedir; dolayısıyla alanı 2022’ye tarihlendiren bir okur, alanın daha önce bir kez çözdüğü, terk ettiği ya da kaybettiği tartışmaları yeniden türetecektir.
+
+**“Alan, YZ’yi analoji olarak ele almaktan uygulamalı araçlar lehine istikrarlı biçimde vazgeçti ve üretken YZ bu eğilimi sürdürüyor.”** Bu, sayfadaki en öğretici düzeltmedir, çünkü yörünge gerçektir ama tek yönlü değildir. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian ve Doroudi’nin]] AIED 1985, 1993, 2021 ve 2024 ile IJAIED 2004, 2014 ve 2021 üzerine konum analizi, 2000’lerde karma bir alandan neredeyse yalnızca uygulamalı araçsallığa doğru bir kayma göstermektedir. Ancak AIED 2024’te, YZ’yi analoji olarak ele alan kadrandaki dört bildirinin üçü LLM tabanlıydı; buna LLM tabanlı öğretilebilir ajanlar üzerine en iyi bildiri çalışması da dahildi. Üretken YZ, eğilimi sürdürmek yerine kısmen **tersine çevirir**; bu nedenle onu "bir sonraki akıllı özel ders" olarak ele almak, araştırma sınırının gerçekte nereye kaydığını yanlış okumaktır.
+
+**“Kişiselleştirme, her öğrenen için zorluğu uyarlamak demektir.”** Bu, birbiriyle bağdaşmayan iki anlamdan yalnızca biridir ve ikisini karıştırmak siyasi bir tercihi gizler. İlk anlamda sonuç sabit tutulur ve yalnızca yol değişir; bu soy kütüğü Skinner’ın öğretim makinelerinden ustalığa dayalı özel derse uzanır. İkincisinde sonuçların kendisi çeşitlenir; öğrenenler standart müfredatla sınırlanmaksızın bireysel ilgilerinin peşinden gider (Zhao, 2024). Bir [[intelligent-tutoring|akıllı özel ders sistemi]] birincisini, [[constructivist|yapılandırmacılık]] ikincisini uygular. "Kişiselleştirilmiş" olarak tanıtılan bir araç, hangisini kastettiğini bilmeden size hiçbir şey söylememiştir.
+
+**“‘Yapay zeka’ alan için yalnızca apaçık addı.”** Terim bilinçli bir tercihti. McCarthy 1956 Dartmouth projesini planlarken, çalışmayı Wiener’ın analog geri bildirim geleneğinden kısmen uzaklaştırmak için *yapay zeka*yı *sibernetik*e tercih etti. Bu tek karar, makineleri insan bilişiyle doğrudan karşılaştırma içine yerleştirdi ve yerleştirdiği insanbiçimci çerçeve hâlâ araştırma önceliklerini, ürün dilini ve kamunun sorduğu etik soruları şekillendirmektedir.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları ve öğretim tasarımcıları için**
+
+- Aracınızın hangi geleneğe ait olduğunu, onu benimsemeden önce adlandırın. Sabit sonuçlara doğru mu eniyiliyor yoksa öğrenen yönüne mi açılıyor diye sorun; çünkü değerlendirme tasarımınıza ne yapacağını özellik listesi değil bu yanıt belirler.
+- Her satıcı iddiasındaki "kişiselleştirilmiş" sözcüğünü sorgulayın ve yukarıdaki iki anlam açısından bir yanıt alın. Hızı ortak bir standarda doğru değiştiren bir ürün ile öğrencilerin ayrışmasına izin veren bir ürün birbirinin yerine geçmez.
+- Öğrenciler üretken YZ’yi emsalsiz olarak sunduğunda, tarih başlı başına öğretilebilir bir içeriktir. Anderson-Papert çerçevesi onlara YZ’yi yalnızca kullanmak yerine tartışmak için bir söz dağarcığı verir.
+
+**Geliştiriciler için**
+
+- Arayüz dili, soy kütüğü olan bir tasarım kararıdır. Sisteminizi "YZ öğreticisi" olarak adlandırmak Anderson’un çerçevesini ve standart sonuçlara doğru eniyileme beklentisini devralır; "mikrodünya" ya da "öğrenme ortamı" demek Papert’inkini devralır. İkisi de nötr değildir, dolayısıyla bilinçli seçin.
+- Analoji geleneğinde inşa ediyorsanız (öğrenme modelleri, öğretilebilir ajanlar, bilgi ediniminin simülasyonları), bunu söyleyin. O kadran yirmi yıl boyunca neredeyse boştu ve yeniden dolmaktadır; konumlandırma bir farklılaştırıcıdır ve değerlendirme ölçütleri farklıdır.
+
+**Araştırmacılar için**
+
+- Tarihsel derlemleri, bugünü tek karşılaştırma olarak ele almak yerine bir temel çizgi olarak kullanın. AIED 1985, 1993, 2021 ve 2024 ile IJAIED 2004, 2014 ve 2021 bildirileri, alanın kendi iddialarından hazır bir boylamsal örneklemdir.
+- Yenilik iddia ettiğinizde soy kütüğüne atıf yapın. Bir sistemin "öğrenmeyi kişiselleştirdiği" ya da "öğreneni modellediği" iddiası ancak belirli bir önceki geleneğe göre yenidir ve bu gelenek belgelenmiştir.
 
 ## Bağlı kavramlar
 

@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -38,13 +38,16 @@ Kavrama, eğitim psikolojisine kök salmış çok boyutlu bir yapıdır. **Davra
 
 ### Öğrenci kavraması araştırmalarda nasıl görünür
 
+- **Ajan temelli kavrama ve YZ geri bildirimi okuryazarlığı birlikte gelişir.** 399 lisans öğrencisinde altı hafta arayla uygulanan üç dalga, her iki yönde de kişi içi yollar göstermiştir (β = 0.222 ve β = 0.263); dolayısıyla kavrama yalnızca tasarımın bir çıktısı değil, geri bildirimi kullanma kapasitesini inşa edenin bir parçasıdır ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
+
 - **YZ tasarımının bir çıktısı olarak kavrama:** [[genai-motivation-engagement-2026|GenAI motivasyon araştırmaları]], [[generative-ai]] destekli öğrenmede kavramanın temel psikolojik ihtiyaçların karşılanmasını ([[self-determination-theory|özerklik, yetkinlik, ilişkililik]]) izlediğini göstermektedir — kavrama, yalnızca teknolojinin varlığının değil, motivasyonel desteğin akıntı aşağısı sonucudur. Kavrama sıklıkla [[self-report-measures|öz bildirim]] ile ölçülürken davranışsal kavrama etkileşim günlüklerinden gelir ve ikisi birbirinin yerine kullanılamaz.
 
 - **Kavrama kazanımı, öğrenme kazanımı olmadan, küme randomize bir sınıf denemesinde:** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker ve Becker-Genschow (2025)]] 195 dokuzuncu sınıf sınıfını (deney grubu 102 öğrenci) karekökleri tahmin etmenin Heron yöntemi üzerine tek bir ders için alana özgü bir matematik sohbet robotuna veya geleneksel farklılaştırma materyallerine randomize etmiştir. Durumsal ilgi sohbet robotu koşulunda önemli ölçüde artmıştır (M = 2,63’e karşılık 2,43, p = 0.00005, Cohen’un d = 0,63) ve [[technology-acceptance-model|Teknoloji Kabul Modeli]]’nin dört boyutunun tamamında kabul yüksek olmasına rağmen, öncesi–sonrası performans karşılaştırması anlamlı bir grup zamana göre etkileşim bulmamıştır (F(1194) = 2,84, p = 0.094) ve dışsal bilişsel yük biraz daha yüksektir. Çalışma, [[k-12|ortaokul]] [[math-education|matematiğinde]] özelleştirilmiş bir sohbet robotunun en az sayıdaki küme randomize sınamalarından biridir ve ayrışan sonucu asıl önemli olan kısımdır: ilgi ile [[learning-gains|başarı]] farklı takvimlerde hareket etmiştir, dolayısıyla bir kavrama bulgusu öğrenmenin kanıtı değildir.
 - **Nicelikten çok nitelik:** [[critical-engagement-code-completion|YZ kod tamamlamada eleştirel kavrama]], [[icap-cognitive-engagement-llm-agents|bilişsel kavrama söylem analizi]] ve [[scaffolding-critical-engagement-genai-minority-students|eleştirel kavramanın iskelelenmesi]], YZ ile *derin* (bilişsel) kavramanın öğrenmeyi öngördüğünü, *yüzeysel* (davranışsal) kavramanın ise bilgi tabanının risk literatüründe baskın olan [[cognitive-offloading|Aşırı Bağımlılığı]] ve öğrenmenin yerini almasını öngördüğünü göstermektedir.
 - **Kırılgan ve bağlama bağlı:** [[polished-artifacts-fragile-engagement-2026|Parlak yapıtlar, kırılgan kavrama]] ile [[genai-tutor-engagement-patterns|çok kurumlu kavrama örüntüleri]], kavramanın göreve, bağlama ve öğrenene göre değiştiğini bulmaktadır — bir öğrenciyi derinden kavramaya çeken bir YZ aracı, başka birinde yüzeysel ve çıktı kovalayan davranış üretebilir.
 - **Motivasyonel öncüller:** [[ai-availability-student-motivation|YZ varlığı ve motivasyon]] çalışması, YZ’nin mevcut olduğunun bilinmesinin çaba gerektiren kavramanın algılanan değerini düşürebileceğini, özellikle acemi öğrenenler için, göstermektedir — kavrama, araç özellikleri kadar beklenti, değer ve algılanan yetkinlik tarafından şekillenir. **[[wang-goal-setting-ai-engagement-2026|Wang ve Wang (2026)]]** bunu, YZ destekli öğrenmedeki **758 üniversite [[multilingual-learning|İngilizce öğrencisi]]yle** hedef belirleme kuramı temelli bir açıklamayla genişletmekte olup **öğretmen desteğinin** doğrudan kavramayı güçlendirdiğini ve bunun öğrencilerin **ustalık yaklaşımı ve performans yaklaşımı hedefleri** (kaçınma hedeflerinden çok) aracılığıyla işlediğini göstermektedir. YZ bağlamlarında kavrama dolayısıyla yalnızca bireysel veya tasarım kaynaklı bir çıktı değildir — öğretmen tarafından ve öğrenenlerin benimsemeye teşvik edildiği hedef yönelimleri aracılığıyla ayrıca **sosyal olarak iskelenir**.
-- Bu [[scaffolding]]’in çift yollu bir kurumsal karşılığı vardır. [[gai-advocacy-practice-art-education-2026|Chen’nin (2026)]] iki çalışmalı tasarımı (senaryo deneyinde 160 sanat öğrencisi, anketlenen 425) bir üniversitenin GAI savunusu ile gerçek öğretim ve değerlendirme uygulamaları arasındaki algılanan tutarsızlığın, birbirine zıt iki değerlendirme yoluyla yaratıcı süreç kavramasını öngördüğünü bulmuştur — olumsuz yoldan engel olarak (β = −0.060, p = 0.004), olumlu yoldan meydan okuma olarak (β = 0.217, p < 0.001) — ve yol düşüncesinin yalnızca olumlu yolu güçlendirdiğini; dolayısıyla aynı kurumsal koşulun bazı öğrencileri kavramaya çekerken diğerlerini kavramadan uzaklaştırdığını.
+
+Bu [[scaffolding]]’in çift yollu bir kurumsal karşılığı vardır. [[gai-advocacy-practice-art-education-2026|Chen’nin (2026)]] iki çalışmalı tasarımı (senaryo deneyinde 160 sanat öğrencisi, anketlenen 425) bir üniversitenin GAI savunusu ile gerçek öğretim ve değerlendirme uygulamaları arasındaki algılanan tutarsızlığın, birbirine zıt iki değerlendirme yoluyla yaratıcı süreç kavramasını öngördüğünü bulmuştur — olumsuz yoldan engel olarak (β = −0.060, p = 0.004), olumlu yoldan meydan okuma olarak (β = 0.217, p < 0.001) — ve yol düşüncesinin yalnızca olumlu yolu güçlendirdiğini; dolayısıyla aynı kurumsal koşulun bazı öğrencileri kavramaya çekerken diğerlerini kavramadan uzaklaştırdığını.
 
 - **Yetkinlik ve duygu kavrama iticileri olarak:** [[chatbot-engagement-genai-competency-emotion-2026|Zhao ve arkadaşları (2026)]] bir [[llm]] sohbet robotuyla etkileşime giren **871 üniversite öğrencisini** modellemekte olup **GenAI yetkinliğinin** sohbet robotu kavramasını hem doğrudan hem de **olumlu duygular** (duygu yolu) aracılığıyla dolaylı olarak öngördüğünü ve hem yetkinliğin hem de olumlu duygunun kavramayı ve olumlu öğrenme duygularını öngördüğünü bulmaktadır. Kavrama böylece ortaklaşa bir *beceri* ve bir *duyuşsal* çıktıdır — [[teacher-ai-competency|YZ yetkinliğinden]] yoksun olan ve kaygı veya hüsran yaşayan öğrenenler kavramadan uzaklaşır; bu durumun [[ai-literacy]] eğitimi için, yalnızca bir beceri hedefi olmaktan öte bir kavrama müdahalesi olarak çıkarımları vardır.
 
@@ -52,7 +55,7 @@ Kavrama, eğitim psikolojisine kök salmış çok boyutlu bir yapıdır. **Davra
 
 - **[[ai-feedback-quality|YZ geri bildirimi]] davranışsal etkinleşmeyi sürdürür.** [[gpt4-feedback-student-activation-2026|Geschwind ve arkadaşları (2026)]]’ın bir dönem süren laboratuvar-saha deneyinde, açık uçlu görevlerde bireysel GPT-4 geri bildirimi alan öğrencilerin sekiz haftalık görev boyunca en yüksek katılımı sürdürdüğü (sonuna doğru yaklaşık yüzde 50, hoca veya akran geri bildirimi alan gruplarda yaklaşık yüzde 30’a karşılık) ve cevap başına yaklaşık 29 karakter daha fazla yazdığı görülmüştür — bireysel YZ geri bildirimi, öğrenciler [[peer-assessment|akran geri bildirimini]] biraz daha yüksek puanlamasına rağmen kavramayı hem geniş marjda (katılım) hem de yoğun marjda (cevap başına çaba) etkinleştirmiştir.
 
-- **Akademik YZ kullanımının öğrenme yapılarından öngörülmesi.** Keşfedici bir [[reinforcement-learning|makine öğrenmesi]] çerçevesi, [[explainable-ai|yorumlanabilirliği]] korumak için SHAP analizi kullanarak 166 üniversite öğrencisinden toplanan anket verilerini incelemiş ve amaçlanan akademik ChatGPT kullanımıyla ilişkili öğrenmeye dair yapıları belirlemiştir. Bulgular, kavramanın, öğrenme desteğinin ve diğer yapıların öğrencilerin YZ araçlarını akademik çalışmaya yerleştirme biçimlerini nasıl şekillendirdiğine ilişkin bilgi sunmaktadır.
+- **Akademik YZ kullanımının öğrenme yapılarından öngörülmesi.** Keşfedici bir [[machine-learning|makine öğrenmesi]] çerçevesi, [[explainable-ai|yorumlanabilirliği]] korumak için SHAP analizi kullanarak 166 üniversite öğrencisinden toplanan anket verilerini incelemiş ve amaçlanan akademik ChatGPT kullanımıyla ilişkili öğrenmeye dair yapıları belirlemiştir. Bulgular, kavramanın, öğrenme desteğinin ve diğer yapıların öğrencilerin YZ araçlarını akademik çalışmaya yerleştirme biçimlerini nasıl şekillendirdiğine ilişkin bilgi sunmaktadır.
 
 - **Bir YZ aracına erişim, ölçülen kavramayı *düşürebilir* ve tamamlama oranları bunu göstermez.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu ve arkadaşları (2026)]] büyük bir ABD devlet üniversitesinde 13 bloğa özel ders erişimini randomize etmiş ve kaydedilen platform katılımının 0,90 standart sapma, sayfa görüntülemenin 0,37–0,38 standart sapma ile etkin günlerin 0,51–0,61 standart sapma düştüğünü — ödev teslimi ve zamanında teslimin ise etkilenmediğini — bulmuştur. Ayrışma ölçüm dersidir: yalnızca ödev tamamlamayı izleyen bir kurs hiçbir şey görmeyecektir, çünkü düşüş platformun kaydettiği tartışma, kısa sınav ve hoca etkileşimi etkinliğindeydi. İşlem gören bölümlerdeki öğrenciler ayrıca hocaya daha az içerik sorusu sorduğunu bildirmiştir (yaklaşık yüzde 57’ye karşılık 44), dolayısıyla düşüş kurstan uzaklaşmadan çok insan ilişkisinden uzaklaşmayla eş zamanlı olmuştur.
 
@@ -104,6 +107,35 @@ Bu ayrım akademik değildir. [[pramod-agentic-ai-motivational-pathways-2026|Pra
 
 - **Uzaklaşma, tur düzeyinde bir hamle olarak kararlı bir durum değildir:** [[rho-disengaged-conversational-behaviors-2026|Rho ve arkadaşları (2026)]] Math Nation’daki bir YZ öğretilebilir ajanına yönelik 5.522 öğrenci sözcesini altı konuşma uzaklaşması kategorisine kodlamış (Yanlış Yanıtlama, Alay Etme, Hayaletleşme, Yansıtma, Saklama, Rastgele/Gürültülü) ve kavrama oranının sözcelerin yüzde 75,7’inde baskın olduğunu bulmuştur. Yanlış Yanıtlama ve Alay Etme’nin sınav sonrası puanlarla yaygınlığa dayalı ilişkileri, insan etiketlemeli bir duyarlılık denetimini atlatmamıştır. Ardışık analiz kavramayla ilgili sonuçtur: en yüksek performans gösteren küme, ılımlı uzaklaşmayı kavramaya güçlü dönüş geçişleriyle birleştirmiştir (Saklama → Kavrama p = 0,83), en düşük performans gösteren küme ise dönüş olmaksızın ısrarlı öz döngüler göstermiştir (Kavrama öz döngüsü p = 0,96). Saklama, çözülmekten çok ısrarlı olma eğilimi gösteren tek uzaklaşma türüdür — kavrama yörüngelerini ayıran ayrım, varlık ile yokluk değil ısrarcılık ile onarım arasındaki farktır.
 
+## Yaygın yanlış anlamalar
+
+**“Kavrama arttıysa öğrenme de artmıştır.”** Bu, YZ–kavrama literatüründeki en maliyetli çıkarımdır ve bilgi tabanı temiz bir karşı örnek içerir. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker ve Becker-Genschow (2025)]], 195 dokuzuncu sınıf sınıfını Heron yöntemi üzerine tek bir ders için alana özgü bir matematik sohbet robotuna ya da geleneksel farklılaştırma materyallerine randomize etmiştir. Durumsal ilgi sohbet robotu koşulunda belirgin biçimde artmış (M = 2.63'e karşılık 2.43, p = 0.00005, Cohen'in d = 0.63) ve kabul, [[technology-acceptance-model|Teknoloji Kabul Modeli]]'nin dört boyutunun tamamında yüksek olmuştur; ancak öncesi–sonrası performans karşılaştırması **gruplar ile zaman arasında anlamlı bir etkileşim bulmamıştır** (F(1194) = 2.84, p = 0.094) ve dışsal bilişsel yük biraz daha yüksek çıkmıştır. İlgi ile başarı farklı takvimlerde hareket etmiştir. Bir kavrama bulgusu, [[learning-gains|öğrenmenin]] kanıtı değildir.
+
+**“Kavrama tek bir şeydir ve görevde geçirilen süre onu ölçer.”** Yapı çok boyutludur ve boyutları tasarım gereği ayrışır: bir öğrenci davranışsal olarak etkin (tıklayan, zaman biriktiren) olurken bilişsel olarak yüzeysel ve çıktıyı pasif biçimde kabul eden bir konumda olabilir. Yapının [[self-report-measures|öz bildirim]] ve etkileşim günlüğü ölçütleri birbirinin yerine kullanılamaz; bu nedenle "kavrama"ya ilişkin bir iddia, boyut ve ölçüt adlandırılmadıkça yorumlanamaz.
+
+**“Daha fazla davranışsal etkinlik daha derin kavrama demektir.”** Çoğu zaman tersi geçerlidir. YZ ile derin bilişsel kavrama öğrenmeyi öngörürken, yüzeysel davranışsal kavrama risk literatürüne egemen olan [[cognitive-offloading|aşırı bağımlılığı]] ve öğrenmenin yerini almasını öngörür; [[polished-artifacts-fragile-engagement-2026|parlak yapıtlar]] bunun tipik örneğidir: temiz bir çıktı etkinliğe işaret ederken düşünme gerçekleşmemiştir. Yoğun etkileşim günlükleri kavramasızlıkla bağdaşabilir.
+
+**“YZ öğrenmeyi varsayılan olarak daha ilgi çekici kılar.”** [[ai-availability-student-motivation|YZ varlığı ve motivasyon]] çalışması, YZ'nin mevcut olduğunun yalnızca bilinmesinin çaba gerektiren kavramanın algılanan değerini düşürebileceğini, özellikle acemi öğrenenlerde, göstermektedir. Kavrama, araç özellikleri kadar beklenti, değer ve algılanan yetkinlik tarafından şekillenir ve göreve, bağlama ve öğrenene göre değişir; bir öğrencinin derin kavraması, bir başkasının çıktı kovalamasıdır.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Sonuç ölçütünüzü müdahaleden önce seçin. Amaç kalıcı öğrenmeyse desteksiz performansı ölçün; ilgi ve memnuniyet anketleri aracın işe yarayıp yaramadığını söylemez.
+- Bilişsel yük de artarken keyif artışına kuşkuyla yaklaşın. Küme randomize örnekte daha yüksek ilgi, biraz daha yüksek dışsal yükle ve hiçbir başarı etkisi olmadan gelmiştir: hoş ama açıkça verimli değil.
+- Çalışan öğrenci ile parlak bir yapıtın belirmesini izleyen öğrenciyi ayırt edin. Çıktıyı değil, gerekçeyi isteyin.
+
+**Geliştiriciler için**
+
+- İddia ettiğiniz boyutu ölçün. Görevde geçirilen süre ya da tıklama ölçütünü gönderip buna kavrama demek, davranışsal etkinliği bilişsel yatırımla karıştırır; kanıtların uyardığı hata tam olarak budur.
+- Kavrama türleri arasında aktarım beklemeyin. Durumsal ilgiyi artırmak bilişsel kavramayı artırmayı gerektirmez; dolayısıyla yalnızca ilgi için iyileştirme yapmak kullanımı artırırken öğrenmeyi düz bırakabilir.
+- Çaba değersizleşmesini özellikle acemilerde izleyin; çünkü yalnızca erişilebilirlik, çabanın algılanan değerini düşürebilir.
+
+**Araştırmacılar için**
+
+- Boyutu ve ölçütü raporlayın, çıplak addan kaçının. Öz bildirim ile günlükler ayrıştığına göre, "kavrama arttı" ifadesi işlevselleştirmesini aynı cümlede taşımalıdır.
+- Duygudan başarı çıkarımı yapmayın. Küme randomize ayrışan sonuç, null sonuç dâhil her ikisini de raporlamak için modeldir.
+
 ## Bağlı kavramlar
 
 - [[learners]] — Öğrenenler: öğrenen tarafına ilişkin kavramlar için üst başlık
@@ -129,6 +161,8 @@ Bu ayrım akademik değildir. [[pramod-agentic-ai-motivational-pathways-2026|Pra
 - [[productive-failure]]
 
 ## Bağlı makaleler
+
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — YZ geri bildirimi okuryazarlığı ve ajan temelli kavrama: üç dalgalı, rastgele kesimli panel (Xu 2026)
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Öğrenci–YZ diyaloglarında uzaklaşmış konuşma davranışları ve öğrenme (Rho ve ark. 2026)
 

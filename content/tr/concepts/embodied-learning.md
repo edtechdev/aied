@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ Vüut bulmuş öğrenme, [[active-learning]], [[experiential-learning]] ve durum
 - **Temellendirilmiş programlama:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]], [[cs-education|blok programlamayı]] vüut bulmuş robot uygulamasında temellendirerek yazma, çalıştırma, gözlemleme ve revize etme döngüsünü sıkı biçimde kurar; böylece öğrenenler kodlarının davranışa dönüştüğünü görür.
 - **Sosyal-robotik etkileşim:** [[storytelling-in-education|hikâye anlatımı]] için kullanılan [[educational-robotics|sosyal robotlar]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), rol oyunu ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) ve işaret dili ([[pepper-robot-sign-language-lis-2025|Pepper]]), ilişkisel ve [[social-emotional-learning|duygusal]] öğrenmeyi destekleyen vüut bulmuş sosyal etkileşim sağlar.
 - **Vüut bulma özellikleri sonuçları yönlendiren şey değildir.** 11 RALL çalışmasını (N = 595, g = 0,83, I² = %84,4) kapsayan bir meta analiz, robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün ikinci dil öğrenimini yönlendirmediğini bulmuştur; grup temelli biçimler birebiri formatları geçmiş, böylece etkiyi taşıyan robotun gömülmesi değil konumu olmuştur ([[robot-assisted-language-learning-meta-analysis-2026|Wang ve ark. (2026)]]).
+- **Vücut izleme, düzenlemeyi ölçülebilir bir sinyale dönüştürür.** Hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda, bir LLM hattı 40 dakikalık videoda kendini düzenleme davranışının 470 bölümünü etiketlemiş ve baskın olma davranışı %66,4 oranında gerçekleşmiştir ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles ve ark., 2026]]).
 - **Vüut bulma ve yaratıcı yazma:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Yaratıcı yazmada robot-BBÜ bütünleşmesi araştırması]], vüut bulmanın öğrenenlerin etkileşimini ve sonuçlarını nasıl etkilediğini incelemektedir.
 - **İnsan–robot etkileşimi:** [[educational-robotics|HRI]] araştırması ([[task-context-trust-educational-hri-2026|güven]], [[human-autonomy-agency-hri-review-2025|etki]]), fiziksel gömülmenin güveni, [[student-engagement|katılımı]] ve [[agency|özerkliği]] nasıl şekillendirdiğini inceler.
 - **Anlamanın kanıtı olarak jest:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew ve ark.]], bilgisayarlı görü jest izlemesini konuşmanın [[llm]] analiziyle bütünleştirerek, mühendislik öğrencilerinin istatistiğe ilişkin kavramsal anlayışının hem konuşma hem jest yoluyla ifade edildiğini göstermektedir. Yüksek güvenilirlikli açıklayıcı jestler belirli kavramlar (özellikle ortalama) çevresinde kümelenmekte ve sıkı jest–konuşma eşleşmesi, tutarlı kavramsal konuşmayı işaret ederken ayrışma, gelişmekte olan fikirleri işaret etmektedir — bu durum, vüut bulmuş eylemi yalnızca bir öğrenme mekanizması olarak değil, [[multimodal|çok kipli öğrenme analitiği]] yoluyla [[assessment-validity|değerlendirmede]] bir kanıt olarak konumlandırmaktadır.
@@ -50,6 +51,12 @@ Bilgi tabanının vüut bulma araştırmalarının ikinci, daha teorik akımı, 
 - **Gömülme, durumsallık ve sosyal yapılanma.** [[science-education|Bilim öğreniminde]], YZ araçları dijital uygulama topluluklarını ve sınır geçişini mümkün kılan “aracılaştırma yapıtları” işlevi görür; vüut bulmuş, özgün soruşturmayı gerçek dünya ve disiplinler arası bağlamlara bağlar. ([[li-ai-science-situated-learning-teachers-2025]]) Bu durum, vüut bulmayı [[situated-learning]] ve [[distributed-cognition]] ile ilişkilendirir.
 
 Vüut bulmuş öğrenme; [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] ve [[social-emotional-learning]] ile bağlantılıdır.
+
+## Yaygın yanlış anlamalar
+
+- **“Vücut, vücut bulmuş öğrenmeyi işler kılan şeydir.”** **11 RALL çalışmasını (N = 595, g = 0.83, I² = %84,4)** kapsayan bir meta analiz, **robot morfolojisinin, modalitenin, özerkliğin ve sosyal rolün** ikinci dil öğrenme çıktılarını **yönlendirmediğini** bulmuştur. Vücut bulma özellikleri etkin bileşen değildi ve heterojenlik yeterince yüksekti (I² = %84,4) ki havuzlanmış etki çok karışık bir müdahale kümesini betimler.
+- **“Büyük bir etki mekanizmayı çözer.”** 11 çalışma genelinde 595 katılımcıyla g = 0.83 gerçek bir sinyaldir ve neyin ürettiğini tanımlamaz. Tasarım özellikleri etkiyi yönlendirmediğine göre akla yatkın mekanizma donanımda değil pedagojik etkinlikte durur; bu da neye yatırım yapılacağını değiştirir.
+- **“Vücut bulma ölçülemez, dolayısıyla kuramsal kalır.”** Vücut izleme, düzenlemeyi **ölçülebilir bir sinyale** dönüştürebilir: hareket etiketlerinin öğrenci ajanlarını yansıtılmış bir model üzerinde hareket ettirdiği karma gerçeklik bir fotosentez simülasyonunda bir LLM hattı, **470 bölümü** düzenleme davranışı olarak etiketlemiştir. Yapı, tanımlanması zor olduğu yerde bile işlevselleştirilebilir.
 
 ## Bağlı kavramlar
 - [[educational-robotics]]
@@ -65,6 +72,7 @@ Vüut bulmuş öğrenme; [[educational-robotics]], [[educational-robotics]], [[e
 - [[virtual-and-augmented-reality]] — vüut bulmayı doğrudan yararlanılmaya çalışan modalite
 
 ## Bağlı makaleler
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Hareket izlemeli fotosentez simülasyonu, bir LLM hattıyla çözümlenmiştir (Fonteles ve ark. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

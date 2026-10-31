@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-10-04T16:17:27-04:00"
+source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,35 @@ Vibe coding, YZ uygulamayı otomatikleştirdiğinde neyin öğrenildiğine dair 
 Vibe coding doğal biçimde [[prompt-engineering]] ile bağlantılıdır (istek metni kalitesi, düz yazı güdümlü geliştirmenin mekanizmasıdır), [[cs-education]] ile (tekniğin en çok kullanıldığı ve en çok tartışıldığı alan), [[computational-thinking]] ile (koda erişim olmasa bile başarıyı yordayan zihinsel modelleme), [[writing-education]] ile (yazmanın bir programlama becerisi hâline gelmesi) ve [[agentic-ai]] ile (bir modeli elle inşa etmek yerine bir yapıta doğru yönlendirmek). Ayrıca, kendi araçlarını geliştirme yeteneği öğretmenlerin ve öğrenenlerin yapabileceklerini değiştirdiğinden [[ai-literacy]] ve [[teacher-role]] ile kesişir. Son olarak, bilişim eğitiminin tamamında YZ kod üretiminin gündeme getirdiği [[academic-integrity]] ve değerlendirme sorularını da gündeme getirir.
 
 Bu bilgi tabanındaki bir fakülte düzeyinde durum çalışması örgütsel katmanı sağlar. [[zimmer-ai-intrapreneurship-faculty-innovation-2026|Zimmer (2026)]], kurumsal tedarik bekleme yerine kendi araçlarını geliştiren eğitimciler olarak *YZ iç girişimciliğini* tanımlar; 321 kurs bağlantısı için bir denetleyici geliştirmek üzere Claude Code kullanan, kod yazmayan bir yazar dâhil. Belirleyici etkinleştiriciler teknikten çok örgütseldi: iş özerkliği, ödüller ve zaman erişimi; sonuncusu akademik ortamlarda en belirgin biçimde açık veren unsur olarak tanımlanır ve akademik terfi ile kadro süreci tarafından baltalanır. Güvenlik görüntüyü ağır başlı kalmıştır; Veracode’un 2025 analizi, YZ tarafından üretilen kodun yalnızca %55’inin güvenli olduğunu bulduğundan, vibe coding’le geliştirilen sınıf araçlarının öğrenci verilerini işlemeden ya da bir LMS’e bağlanmadan önce hâlâ bir gözden geçirme turundan geçmesi gerekir.
+
+## Yaygın yanlış anlamalar
+
+**“Vibe coding beceri engelini düşürür, dolayısıyla esas olarak iyi yazmayla ilgilidir.”** Yazılı iletişim yeterliliği yardımcı olur ve sonucu tek başına taşımaz. Ön kayıtlı bir kesitsel çalışmada (N = 100 yükseköğretim öğrencisi), hem [[writing-education|yazılı iletişim yeterliliği]] (r = ,29) hem de bilgisayar bilimi başarısı (r = ,39) uzmanların değerlendirdiği, arayüz odaklı vibe coding görevlerindeki performansı anlamlı biçimde yordadı ve ortak bir modelde BT başarısı, yazma becerisinin tekilliğine ait varyansın yaklaşık **iki katını** katkı verirken ikisi de bağımsız yordayıcı değerini korudu. Engel yer değiştirmiştir, ortadan kalkmamıştır ve bir bölümü teknik kalmaya devam eder.
+
+**“Herkes artık yazılım geliştirebildiğine göre, geliştirilen şeyler çeşitlenecektir.”** Erişim ile çeşitlilik ayrı sonuçlardır ve erişim ikincisini sıkıştırabilir bile. Bu külliyattaki tasarım homojenleşmesi kanıtı tam olarak bu örüntüyü betimler: aynı modellerle, aynı bileşen gelenekleriyle ve aynı istek metni varsayılanlarıyla çalışan daha geniş bir geliştirici nüfusu, birbirine yakınsayan tasarımlara yönelir. Yazarlığı demokratikleştirmek yapıtları kendiliğinden çeşitlendirmez.
+
+**“‘Saf’ vibe coding terimin anlamıdır, dolayısıyla ayrım önemli değildir.”** Değerlendirme ve güvenlik açısından önemlidir. Sayfa, kullanıcının üretilen kaynağı kasten incelemediği ve düzenlemediği, tamamen yinelemeli istek metni yazma ve davranışsal değerlendirmeye bel bağladığı saf vibe coding’i, kullanıcının üretileni okuduğu kod-görünür çalışmadan ayırır. Bunlar farklı hata profillerine sahip farklı etkinliklerdir ve biri üzerine yapılan bir çalışma diğeri hakkında iddia kurma yetkisi vermez.
+
+**“Uygulama çalışıyorsa, üretilen kod yeterlidir.”** Çalışmak zayıf bir sınavdır. Veracode’un 2025 analizi YZ üretimli kodun yalnızca %55’ini güvenli bulmuştur; bu nedenle vibe coding ile üretilmiş sınıf araçları, öğrenci verilerini işlemeden ya da korunmaya değer herhangi bir sisteme bağlanmadan önce yine de bir inceleme turundan geçmelidir. Davranışsal değerlendirme, kullanıcının rastlantısal olarak denediği yolları doğrular ve denemedikleri hakkında hiçbir şey söylemez.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları ve öğretmen eğitimcileri için**
+
+- Saf ve kod-görünür vibe coding arasındaki farkı açıkça öğretin ve öğrenci verilerini işleyecek her şey için ikincisini zorunlu kılın. Ayrım felsefi bir incelik değil, öğretilebilir bir alışkanlıktır.
+- Vibe coding çalışmasının yanında gerçek bir programlama hattı sürdürün, çünkü BT başarısı yaklaşık iki kat tekil yordayıcı varyans taşıyordu. Doğal dil belirtimini tam bir yedek olarak ele almak, daha güçlü yordayıcıyı elden çıkarır.
+- Öğrencilere yapıtı davranışsal olarak değerlendirtin *ve* konuşlandırdıkları her şeyin kaynağını incelettirin. Üretilen kodu okumak bir inceleme becerisidir ve istek metni yazabilen öğrenciler için kendiliğinden gelmez.
+
+**Geliştiriciler ve yöneticiler için**
+
+- Öğrenci kayıtlarına dokunmadan önce herhangi bir vibe coding aracında bir güvenlik incelemesi turu yürütün; bu, %55 güvenli kod bulgusuyla tutarlıdır.
+- Homojenleşme için bütçe ayırın: birkaç çalışan aynı türde bir aracı aynı varsayılanlarla vibe coding ile üretirse benzer çıktı bekleyin ve farklılaşmanın kasten nasıl sağlanacağını planlayın.
+- Bakımı sürdürülen araçlar için kod-görünür iş akışlarını yeğleyin ve saf vibe coding’i tek kullanımlık prototipler için ayırın.
+
+**Araştırmacılar için**
+
+- Sonuçların yanında vibe coding koşulunu (saf ya da kod-görünür) bildirin ve öz bildirilen başarı yerine uzmanların değerlendirdiği, arayüz odaklı görevler kullanın; böylece sonuçlar çalışmalar arasında karşılaştırılabilir olur.
+- Erişim argümanı sınanıyorsa yapıt sayısını ya da geliştirici sayısını değil, yapıt çeşitliliğini ölçün.
 
 ## Bağlı kavramlar
 

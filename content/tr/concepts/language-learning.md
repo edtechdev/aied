@@ -10,7 +10,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,8 @@ Fiziksel olarak somutlaşmış özel ders asistanları için, 11 RALL çalışma
 20 deneyimli öğretmen tarafından derecelendirilen 52 EFL değerlendirme görevinin bir karşılaştırması, YZ üretimi ile insan geliştirmeli maddeler arasında genel olarak anlamlı bir nitelik farkı bulmadı, ancak açık bir iş bölümü ortaya koydu: YZ dilbilgisi ve kelime bilgisi için tercih edildi (%69), okuma, yazma, dinleme ve konuşma için insan geliştirmeli maddeler tercih edildi (%75–83) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia ve Darvishi (2026)]]).
 
 **L2 öğrenenler için otomatik yazma değerlendirmesi**, YZ’nin ana dili dışı yazmayı değerlendirme yeteneğini ele alır. **[[self-referential-l2-writing-llm-assessment|Bannò ve ark.]]** ana dili konuşan normları yerine öğrenci yazmasını kendi önceki çalışmasına karşılaştıran öz-referanslı bir yaklaşım önerdi. **[[ai-scoring-language-bias-physics|Feser ve Tschisgale]]**, YZ puanlamasının dilsel olarak zayıf öğrencileri sistematik biçimde düşük değerlendirdiğini buldu — [[assessment-validity]] ve [[bias-mitigation]] kaygılarıyla bağlantılı bir bulgu. **[[genai-linguistic-diversity-academic-writing]]**, YZ’nin akademik bağlamlarda dilsel çeşitliliği nasıl etkilediğini inceler.
- Söylem düzeyinde bir sistem, metni puanlamak yerine kusuru adlandırarak bir adım öteye gider: cümle çifti ilişki sınıflandırması tutarlılık kırılmalarını — mantıksal atlamalar, eksik bağlaçlar, belirsiz göndermeler — yerelleştirdi ve ürettiği geri bildirimin öğretmen tarafından benimsenmesi %71,2–%88,4 arasında oldu ([[bert-discourse-english-teaching-2026|Wang ve ark., 2026]]).
+
+Söylem düzeyinde bir sistem, metni puanlamak yerine kusuru adlandırarak bir adım öteye gider: cümle çifti ilişki sınıflandırması tutarlılık kırılmalarını — mantıksal atlamalar, eksik bağlaçlar, belirsiz göndermeler — yerelleştirdi ve ürettiği geri bildirimin öğretmen tarafından benimsenmesi %71,2–%88,4 arasında oldu ([[bert-discourse-english-teaching-2026|Wang ve ark., 2026]]).
 
 **Dil öğrenenleri için [[accessibility]]**, [[inclusive-learning]] ile bağlantılıdır: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** dislektik öğrenenlerin okuryazarlık desteği için YZ’yi nasıl kullandığını analiz etti ve **[[ai-tools-arab-english-classrooms]]** Arapça–İngilizce sınıf bağlamlarında YZ araçlarını araştırdı. Bu çalışmalar dil öğrenimini [[equity-in-ai-education]] ve [[special-education]] ile bağlar.
 
@@ -63,6 +64,8 @@ Tasarım niteliği, kullanım sıklığı değil, öğretmen tarafından oluştu
 - **Gelişmekte olan [[ai-technologies|teknolojiler]] küçükten orta düzeye, düzeye bağlı kazanımlar sağlar.** [[liu-emerging-tech-tefl-review-2026|33 TEFL çalışmasının meta-analizi]] (N = 3.181), eğitim düzeyiyle birlikte yükselen (ilkokul 0,29, ortaokul 0,35, yükseköğretim 0,44) Hedges’ g = 0,38 genel etkisi bulur; VR/AR en büyük etkileri üretir ve üretken beceriler (konuşma, yazma) alıcı becerilerden daha fazla kazanım sağlar — beklentileri gerçekçi tutarken özellikle yükseköğretim düzeyinde gelişmekte olan teknolojinin kullanımını destekler.
 - **Bir sistematik derleme, ilkokul YZ dil eğitiminin seyrek olduğu yerleri haritalar.** 31 çalışma (2013–2025) üzerinde, ilkokul dil sınıflarındaki çalışmalar konuşma, okuryazarlık ve kelime bilgisinde toplanırken dilbilgisi, dinleme anlama ve işaret dili hemen hemen hiç incelenmedi; tasarımların çoğu sınıf düzeyine özgü belirlemeden yoksundu ([[ai-elementary-language-education-review-2026|Hamasha ve ark., 2026]]).
 - **İletişimsel pratiği genişletmek için YZ kullanın, yerine geçmeyin.** [[ai-interlocutor-l2-spoken-dialogue|YZ muhatapleri]] ve [[tact-pedagogically-adaptive-esl-tutoring|uyarlanabilir ESL özel ders asistanları]] etkileşimsel pratiği ölçekte genişletir — akıcılık ve benimsemenin gerçek konuşmaya aktarılması için bunları insan etkileşimiyle eşleştirin.
+- **YZ [[scaffolding|iskelelemesini]] işbirlikli okumaya genişletin.** GenAI destekli bir sosyal açımlama çalışmasında 63 Çinli İngilizce bölümü öğrencisiyle [[genai-social-annotation-epistemic-network-analysis-2026|Pan ve ark. (2026)]], sohbet robotunun bilişsel ve duygusal katılımı ve okuma performansını artırdığını ve [[community-of-inquiry|toplumsal varlığı]] bütünleştirme ve çözümlemeyle ilişkilendirdiğini buldu; ancak yüksek başarılı gruplar iskelelemeyi çok daha fazla kullandı.
+- **Hazır bulunuşluk, gözlenen performans değil.** 708 öğrenen genelinde, daha fazla YZ destekli konuşma pratiği, insana yönelik daha yüksek iletişim kurma istekliliği (β = 0,384) ve daha düşük yabancı dilde konuşma [[anxiety-and-stress|kaygısı]] (β = −0,416) ile ilişkilendi; YZ sesli asistan senaryoları beklenen kaygıyı daha da düşürdü; iki çalışma da gerçek insan konuşmasını gözlemlemedi ([[ai-speaking-practice-communicative-readiness-2026|Wang ve Li (2026)]]).
 
 
 - **YZ çıktısını dilbilgisel değil, edimsel hata açısından da izleyin.** Beş çevrimiçi dil öğretim yönteminde çalışan öğretmenler, YZ çıktısının dilbilgisel olarak doğru ama ton, resmiyet ya da kültür açısından yanlış olduğu edimsel körlüğe dikkat çekti ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi ve Khan (2026)]]).
@@ -80,6 +83,18 @@ Tasarım niteliği, kullanım sıklığı değil, öğretmen tarafından oluştu
 
 - **Yüksek baskılı iki dilli bir görevde dört etkileşim profili.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li ve Weng (2026)]], 22 çevirmen adayıyla göz izleme, kalem kaydı ve ses kaydı kullanarak öğrencilerin dikkatini YZ çıktısı ile kendi not tutmaları arasında dört ayrı biçimde böldüğünü gösterdi — Yoşun Etkileşimliler, Hızlı Tarayıcılar, Gelenekselciler ve Sık Geçiş Yapanlar — ve aynı görevin anlama ile üretim aşamaları arasında aşama düzeyi gözlemlerin %58,3’ünün profil değiştirdiğini ortaya koydu. Yalnızca anlama aşaması örüntüleri ürün niteliğini öngördü ve YZ ağırlıklı en yüksek küme sunum akıcılığı ve hedef dil niteliğinde en düşük puanı aldı; bu durum öğrenenlere araçla çalışmanın tek bir yolunu reçete etmekten çok kendi stratejilerini betimlemeyi ve üzerinde yansıtmayı öğretme gereğini ortaya koyar.
 - **Dört becerilik döngünün tamamını maliyet ve bağlantı çevresinde yönlendirin.** [[llmersion-local-first-language-learning-2026|Guo ve ark. (2026)]], LLMersion-1’i yayımlar; öğrenenin kendi belgesi üzerinde dinleme, okuma, konuşma ve yazmayı tüketici donanımında çalıştıran, yerel öncelikli bir prototip — 1B özel ders asistanı 808 MB’a kuantize olur ve tüm yerleşik yığın 4 GB’ın altında kalır — ve beş yıllık günlük pratiğin maliyetini yaklaşık \\$18 elektriğe karşılık bulut aboneliğinde \\$1,200 olarak fiyatlar. Hiçbir öğrenen çıktısı bildirilmez ve telaffuz geri bildirimi yalnızca parçalara ayrılmış biçimdedir.
+
+
+- **Transkript kanalını yedek bir sinyal olarak kullanın, onun yerine geçen bir sinyal olarak değil.** Bir WavLM ses sınıflandırıcısı, CEFR dengeli bir öğrenen derleminde transkript okuyan sıfır atışlı bir GPT-4o sınıflandırıcısını geçmiştir; dolayısıyla ana dilin sözcüksel izleri gerçektir ama telaffuz, ritim ve tonlamadan daha zayıftır ([[acoustic-lexical-native-language-identification-learners-2026|Uluslu ve ark. (2026)]]).
+- **Sohbet robotlarının konuşma kazanımlarına ilişkin kanıt özelliğe göre eşitsizdir.** Sorunun tek sistematik sentezinde 2021–2024 arası on çalışma en güvenilir biçimde çeşitlilik ve anlaşılabilirliği iyileştirmiş, tutarlılık bir kez incelenmiş ve etkileşim neredeyse hiç incelenmemiştir; on çalışmanın dördü tek bir bütüncül puan bildirmiştir ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez ve Belda-Medina (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Bedensel robot öğretmenler bedensellikleri sayesinde işler.”** **11 RALL çalışmasının (N = 595)** meta-analizi L2 öğrenimi üzerinde büyük bir havuzlanmış etki (**g = 0,83**) ve **yüksek heterojenlik** bulmuş; daha önemlisi bunu yalnızca **etkileşim** düzeyindeki özellikler denetlemiştir. Morfoloji ve modalite denetlememiştir, dolayısıyla aktif bileşen donanım değildir.
+
+- **“YZ tarafından üretilen değerlendirme maddeleri öğretmen yazımı olanlardan kötüdür.”** **20 deneyimli öğretmen tarafından derecelendirilen 52 EFL değerlendirme görevinin** karşılaştırması, YZ üretimi ile insan geliştirmeli maddeler arasında **genel olarak anlamlı bir nitelik farkı** bulmamış, ancak belirli boyutlarda ayrışma saptamıştır. Belirli zayıflıklarla birlikte genel denklik, iyileşme ya da eksiklik iddiasından farklı bir iddiadır.
+
+- **“LLM geri bildirimi yalnızca yazıyı puanlayabilir.”** Söylem düzeyinde bir sistem, metni puanlamak yerine **kusuru adlandırarak** daha ileri gider; cümle çifti ilişki sınıflandırması, mantıksal sıçramalar ve eksik bağlantılar gibi **tutarlılık kırılmalarını** yerelleştirir. Yararlı çıktı tanısaldır, sayısal değil.
 
 ## Bağlı kavramlar
 
@@ -107,10 +122,6 @@ Tasarım niteliği, kullanım sıklığı değil, öğretmen tarafından oluştu
 - [[llm-agents-5e-esl-grammar-2026]] — ESL dilbilgisi edinimi için 5E çerçevesiyle LLM ajanları (Yang, Weng ve Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — L2 dinleme madde üretimi için GPT’yi istek metniyle mi ince ayarla mı kullanmak (Aryadoust ve Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — İngilizce öğretimi için BERT söylem sınıflandırması
-- [[alharbi-ethical-genai-eap-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[llms-text-linguistics-teaching-2026]] — Metin dilbilgisi öğretiminde LLM’ler
 - [[ai-vs-human-assessment-efl-tpck-2026]] — EFL’de YZ üretimi ve insan geliştirmeli değerlendirme görevleri
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Görülmeyeni yönetmek: dil öğretmenleri arasında YZ okuryazarlığı
 - [[ai-guided-learning-audiovideo-2026]]
@@ -126,7 +137,6 @@ Tasarım niteliği, kullanım sıklığı değil, öğretmen tarafından oluştu
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Üniversite Yabancı Dil Eğitiminde Öğretmen Tarafından Tasarlanan YZ Özel Ders Asistanları: Öz-Belirleme Kuramına Dayalı Öğrenen Motivasyonu ve Yansıtıcı Öğrenme Deneyiminin Karma Yöntemli İncelemesi
 - [[lukesova-clue-before-correction-2026]] — Düzeltmeden Önce İpucu: Özerk Dil Öğrenimi için ChatGPT
 - [[chatgpt-english-language-learning-malaysia]] — İngilizce dil öğreniminde öğrencilerin ChatGPT deneyimleri
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Öğrenen özellikleri × TTS diyalog biçimi etkileşimleri
 - [[liu-emerging-tech-tefl-review-2026]] — EFL için gelişmekte olan teknolojinin meta-analizi
 - [[wang-goal-setting-ai-engagement-2026]] — Hedef belirleme kuramı: öğretmen desteği, başarı hedefleri ve YZ destekli İngilizce öğreniminde katılım (758 Çinli öğrenci)
 - [[li-language-educators-genai-review-2026]] — Dil eğitimcilerinin GenAI ile uygulamaları ve gelişimi
@@ -136,3 +146,8 @@ Tasarım niteliği, kullanım sıklığı değil, öğretmen tarafından oluştu
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: Eğitim Eşitliğine Yönelik Düşük Maliyetli Ev Dil Öğrenimi için Yerel Öncelikli Bir YZ Ajan Çerçevesi
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Edimsel körlük: YZ dil çıktısı dilbilgisel olarak doğru ama kültürel olarak yanlış olabilir
+
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Sohbet robotlarının konuşma yeterliliği kazanımları çeşitlilik ve anlaşılabilirlikte yoğunlaşıyor
+- [[acoustic-lexical-native-language-identification-learners-2026]] — Ana dil kimliği saptamada ses, sıfır atışlı GPT-4o transkript sınıflandırıcısını geçiyor (Uluslu ve ark. 2026)
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — İşbirlikli okumada YZ iskelelemesinin genişletilmesi
+- [[ai-speaking-practice-communicative-readiness-2026]] — Hazır bulunuşluk, gözlenen performans değil

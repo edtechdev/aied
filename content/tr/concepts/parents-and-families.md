@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,16 @@ Eksik olan daha göze çarpandır. Ebeveynlerin kendi anlatıları seyrektir: [[
 2026 tarihli bir kapsam taraması alanın ne kadar yol aldığını haritalar. [[llm-family-education-activity-theory-2026|Luo ve ark. (2026)]], 19 farklı yerden 6.540 kayıt arasından 53 HCI çalışmasını etkinlik teorisi yoluyla incelemiş ve literatürün çocuk–ebeveyn etkileşimi ile dil, [[ai-literacy]] ve ilişkisel öğrenme üzerinde yoğunlaştığını bulmuştur; 53 çalışmadan 44’ü (\%83) çocuk–ebeveyn yapılandırmalarında geçmektedir. Konuşmaya dayalı, gövdelemeli ve uzamsal sistemler, gelişmekte olan bir etkileşimin bağlamından destek üretir; LLM’ler eğitimsel emeği yeniden dağıtırken aileler ve kurumlar çıktıları yorumlama ve bunların uygulamaya nasıl girdiğine karar verme sorumluluğunu korur. Süregelen [[personalized-learning|kişiselleştirme]], onarım emeği ve ailelerin yetki ile kurallar üzerinde nasıl pazarlık yürüttüğü, taramanın adlandırdığı boşluklardır; bu da bu bölümün ters yönden belgelediği aynı eksikliktir.
 
 **Diğer sayfalarla ilişki.** [[stakeholders]], bütün paydaş kümesine ilişkin kısa genel bakıştır ve derinlemesine ele alınmamış bir kitle olarak aileleri listeler; bu sayfa o derinliktir. [[early-childhood-elementary-ai-education]], okul ve evde genç öğrenenler için gelişimsel ve [[pedagogy|pedagojik]] alanı kapsar; bu sayfa aileyi anaokulundaki oyun etkinliklerinden ortaokul ödevlerine uzanan yaşlar boyunca izler. [[ai-use-disclosure]], öğrenenlerin YZ kullandıklarını başkalarına söyleyip söylemediklerini kapsar; bu sayfa ise bu bilginin evdeki yetişkinlere ulaşıp ulaşmadığı ve ailelere okul YZ kullanımı hakkında neler söylendiği sorularını ele alır.
+
+## Yaygın yanlış anlamalar
+
+**“Aileler, teklif yapıldığında katılır.”** Katılım, devirler boyunca çöker. Burada aktarılan programın 1. yılında, öğretmen tarafından aday gösterilen öğrencilerin yalnızca yaklaşık **%45’i en az bir oturuma katılmıştır** ve aileler her adımda kaybedilmiştir: davet, ilgi, [[edtech-platform|üçüncü taraf bir platformda]] hesap oluşturma, eşleştirme. Her devir, bir ailenin kaybedilebileceği bir yerdir; bu nedenle teslim edilen bir teklif, yapılan bir tekliften çok daha az değer taşır.
+
+**“GenAI çevresinde aile-okul koordinasyonu yerleşik bir pratiktir.”** [[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]] bunu yerleşik bir pratik değil, **sınanmamış bir hipotez** olarak ele alır. Programlar, literatürün henüz sınamadığı bir varsayım üzerine tasarlanmaktadır; bu da birini kanıta dayalı diye benimsemeden önce bilinmeye değerdir.
+
+**“YZ çocuklarının öğrenmesine zarar veriyorsa ebeveynler bunu fark eder.”** Fark etmeye en az konumda olanlar onlardır. [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ve Wu’nun (2026)]] verilerinde ödev notları **%18** yükselirken [[summative-assessment|kapalı kitap sınav]] notları altı ay içinde **%20** düşmüştür; evde görünen sayı ise yükselen olandır. Ödevi izleyen bir ebeveyn iyileşme görürken kalıcı çıktı geriler.
+
+**“Evde YZ kullanımı bir ebeveyn izni sorunudur.”** Bir okuryazarlık ve savunuculuk sorunudur. Ebeveynlerin kendi YZ okuryazarlığı, okul tarafından sağlanan bir araç hakkında neyi sorgulayabileceklerini belirler ve aileler arasındaki erişim eşitsizlikleri, hangi çocukların yetişkin aracılığına hiç ulaşamadığını şekillendirir.
 
 ## Bağlı kavramlar
 

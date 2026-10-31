@@ -12,7 +12,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -68,13 +68,16 @@ Gizli tohum istemleriyle *YZ doğruluğunu* rastgele atayan, önceden kaydedilmi
 
 Pratik okuma, teslimiyetin bir motivasyon başarısızlığından ziyade bir **ayırt etme başarısızlığı** olduğudur. Teslim olan katılımcılar çalışmaktan kaçınmaya çalışmıyordu; iyi öneriyi kötüsünden ayırt edemiyorlardı ve arayüz onlara denemek için hiçbir neden sunmuyordu.
 
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] tarafından önceden kaydedilmiş bir deney, karşıt bir yapılandırma sunar. Asistan, getirimle güçlendirme yoluyla atanan çalışma kâğıdına sınırlandırıldığında, YZ koşulu bilişsel yük dışarı aktarmayı yükseltmek yerine düşürdü (ortanca −0,27) ve hiçbir yük dışarı aktarma yolu, düzensizlikteki artışı (0,84) taşımadı. Teslimiyet, önerisi bütünüyle benimsenebilecek bir asistan gerektirir; yalnızca eldeki materyalden yanıt veren bir sistem, öğrenene benimsenecek daha az ve uzlaştırılacak daha çok şey verir.
+
 ## Laboratuvar dışında teslimiyet
 
 Laboratuvar bulguları, bağımsız olarak aynı kelimeye ulaşan alan ve gözlemsel çalışmalarla örtüşmektedir.
 
 - **Nüfus düzeyinde yer değiştirme.** [[generative-ai-reduced-study-time-math|Rismanchian ve ark. (2026)]], on yıllık bir panelde 3,2 milyon ALEKS öğrenme etkileşimini ve 12,2 milyon [[assessment|yerleştirme değerlendirmesi]] yanıt süresini analiz eder; grafik temelli problemler metin temelli olanlar için kontrol olarak hizmet eder. Öğrenciler YZ’ye duyarlı işleri daha hızlı tamamladı ve bu işlerde daha yüksek puan aldı, oysa gözetimli kalıcılık maddeleri doğru yanıt olasılığında %25 kümülatif düşüş gösterdi; yazarlar bu kalıbı nüfus ölçeğinde bilişsel teslimiyet olarak adlandırır.
 - **Ayırt edici değişken olarak doğrulama.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis ve ark. (2026)]], öğrencilerin üretken YZ’yi *nasıl* kullandığının [[learning-gains|performansı]] öngördüğünü, *ne kadar* kullandığının ise hiçbir şeyi öngörmediğini bulur: eleştirel olmadan çıktıyı kabul eden düşük doğrulamalı benimseme daha kötü sonuçlarla, değerlendirici bütünleme ise daha iyi sonuçlarla ilişkilendirilmiştir.
-- **Düşüncesiz kullanım, öz-yönelimin ihtiyaç duyduğu kaynakları aşındırır.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao ve Gu (2026)]], değerlendirme yapmadan benimsemeyi doğrudan modeller: 487 lisans öğrencisi üzerinde üretken YZ’nin düşüncesiz kullanımı, daha düşük [[self-regulated-learning|öz-yönelimli öğrenme]] ile ilişkiliydi (β = −0,42), kısmen azalmış [[motivation]] ve [[self-efficacy]] yoluyla.
+- **Düşüncesiz kullanım, öz-yönelimin ihtiyaç duyduğu kaynakları aşındırır.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao ve Gu (2026)]], değerlendirme yapmadan benimsemeyi doğrudan modeller: 487 lisans öğrencisi üzerinde üretken YZ’nin düşüncesiz kullanımı, daha düşük [[self-directed-learning|öz-yönelimli öğrenme]] ile ilişkiliydi (β = −0,42), kısmen azalmış [[motivation]] ve [[self-efficacy]] yoluyla.
 - **Sinirsel ve mülkiyet izi.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|Bilişsel borç EEG çalışması]], [[writing-education|kompozisyon yazma]] sırasında bir [[llm]], bir arama motoru ve hiç araç kullanmama koşullarını ölçtü: LLM grubu en zayıf sinirsel bağlantıyı gösterdi, kendi işlerinin en düşük yazarlığını bildirdi ve yazdıklarını alıntılamakta zorlandı.
 - **Teslimiyet istenmeden de gelebilir.** [[ai-advice-suppresses-ikt-suspension-2026|Yargının askıya alınması üzerine çalışmalar]], YZ önerisinin yalnızca mevcut olmasının bile insanların “bilmiyorum” deme isteğini çökerttiğini buldu (iki çalışmada sırasıyla 0,06’ya karşı 0,36 ve 0,03’e karşı 0,44), oysa doğruluk düştü ve güven yaklaşık 30’dan 76’ya yükseldi. Riskler askıya almayı geri getirmedi, ama teşvikler geçersiz kılmayı teşvik ederek doğruluğu artırdı. Dördüncü bir çalışma, etkiyi herhangi bir danışma olmadan göstermiştir — bu, bir sohbet isteminden ziyade bir otomatik tamamlama veya arama özeti kalıbıdır.
 - **Bağımlı ve özerk kipler yalnızca sonuçlarıyla ayırt edilebilir.** [[family-school-autonomy-support-genai-2026|Fan, Li ve Zhang (2026)]], üç dalga boyunca 589 öğrenciyi ve kariyerinin başındaki çalışanları izler: bağımlı yük dışarı aktarma çekirdek düşünceyi devretti ve daha düşük içsel motivasyonla izledi, özerk yük dışarı aktarma ise izlemedi ve her iki durumda da anlık performans özdeş göründü.
@@ -125,6 +128,8 @@ Adlandırılmış bir yapı olarak teslimiyete dair kanıt, büyük ölçüde te
 - [[generative-ai]]
 
 ## Bağlı makaleler
+
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Çalışma kâğıdına temellendirilmiş bir asistan yük dışarı aktarmayı yükseltmek yerine düşürdü; teslimiyet imzası için bir sınır koşulu (Braun 2026)
 
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and the experimental signature of surrender
 - [[generative-ai-reduced-study-time-math]] — population-level displacement in ALEKS

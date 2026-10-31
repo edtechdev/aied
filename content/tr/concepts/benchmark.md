@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,6 +41,8 @@ Karşılaştırma testleri, [[ai-education|eğitimde yapay zeka araştırması]]
 - **[[cdpk-pedagogy-benchmark-llms|Pedagoji Karşılaştırma Testi (CDPK + SEND)]]**, içerik bilgisi yerine pedagojik bilgiyi — öğretim stratejileri, [[assessment|değerlendirme yöntemleri]] ve [[special-education|özel eğitim pedagojisi]] — test eder ve 97 model arasında maliyet–doğruluk “değer sınırı” bildirir (genel testlerin çoğu içerik bilgisini test eder; pedagoji, eğitim açısından kritik ayrı bir boyuttur).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**, [[llm]] tabanlı [[learning-design|öğretim tasarımı]] etmenlerini 25.795 öğretim tasarımı senaryosu üzerinde test eder; klasik ISD çerçevelerine (ADDIE, Dick & Carey, Hızlı Prototipleme) dayalı hibrit etmenlerin saf kuram veya saf teknik üzerine çalışanlardan üstün olduğunu gösterir — eğitimde [[agentic-ai|etken YZ]] tasarımı için doğrudan çıkarımları olan bir test sonucu.
 
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]**, özel ders değerlendirmesini simüle edilmiş personalar yerine belgelenmiş vaka literatürüne dayandırır: özel eğitim ve eğitim psikolojisi vakalarından 923 diyalog; burada 11 modelin en güçlüsü açık uçlu vakaların %55,8’inde belgelenmiş bir müdahaleyi karşılamıştır.
+
 - **Öğrenen uyarlaması açık bir test ölçütü olarak.** Teaching Monster Challenge, belirtilen bir öğrenen personaya uyarlamayı puanlar, ancak otomatik LLM-hakemi yalnızca zayıf bir kuyruğu ayırt edebildi — en iyi sistemler tavanına yakın puan aldı ve sıralaması kalabalık tercihiyle çelişti (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin vd. (2026)]]).
 
 ### Karşılaştırma testleri neden AIED için önemlidir
@@ -69,6 +71,12 @@ Karşılaştırma testleri [[ai-ed-evaluation]] ve [[assessment-validity]] ile b
 - **Puanlama kuralı aletin bir parçasıdır.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]], yalnızca ipucu destekli satırları nasıl puanladıkları açısından farklılaşan dört bilgi izleme güncelleme kuralını aynı ASSISTments 2012–13 olay dizileri üzerinde çalıştırır ve karşılaştırmaları, onaylayıcı yarısı öğrencilerin kayıt dosyası bulunana kadar gizleyen bir ön kayıt duvarının arkasında önceden kaydeder. Herhangi bir tamamlamaya kredi vermek, bir beceri–zorluk sabitini ancak zar zor geçer (985.813 puanlanan olay üzerinde toplanmış AUC 0,604’e karşı 0,595) ve destekli satırları önce başarısız ilk denemeler olarak okuyan bir kuralın 72,8’ine karşı (0,658) öğrenci–beceri çiftlerinin yüzde 93,9’unu ustalaşmış ilan eder — genel ders, bir ustalaşma etiketinin günlüğe değil kanıt kuralına göre tanımlandığıdır.
 - **Model yeteneğini yalnızca doğruluk değil, kalibre edilmiş bir düzey olarak bildirin.** [[standardized-assessment-llm-english-proficiency-2026|Min vd. (2026)]], 624 uzman açıklamalı maddeyi 2.050 öğrenen yanıtını kullanarak adlandırılmış yeterlilik düzeylerine eşler ve öncü modellerin kalibre edilmiş tavanı aştığını bulur — bir yüzdenin gizlediği bir sınır.
 - **Bir puanlama kuralı, eğittiği model tarafından oynanabilir.** Tek en iyi kararın tekrarlanmasıyla en üst düzeye çıkarılan bir uyarlanabilirlik ölçütü, test tasarımının argmax’ı yayımlaması, uyarlamayı bir fark olarak puanlaması ve rastgele üzeri taban çizgileri bildirmesi gerektiğini gösterir ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Sıralama konumu bir özel ders hocasının ne kadar iyi olduğunu söyler.”** StudentBench, **2.383 yetişkini YZ özel dersi, canlı uzman insan özel dersi ve video** koşullarına randomize eder ve diğer sistemlere karşı değil, insan özel ders hocalarına karşı puanlar. Diğer modellere ölçeklenmiş bir karşılaştırma testi, kimsenin yanıtlanmasına ihtiyaç duymadığı bir soruyu yanıtlar.
+- **“Simüle edilmiş personalar özel ders değerlendirmesi için yeterli bir temeldir.”** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]], değerlendirmeyi simüle edilmiş personalar yerine **belgelenmiş vaka literatürüne** dayandırır ve **923 diyalog** kullanır. Uydurulmuş öğrenci personaları, bir sistemin gerçekte oluşmayan vakaları geçmesine izin verir.
+- **“Değerlendirici denetlenmeden karşılaştırma testlerine güvenilebilir.”** Halüsinasyon, **erişilen açık lisanslı parçalara karşı gerektirim olarak (uzman yargısıyla κ = 0,76)** puanlanmıştır; değerlendirici, puanları kullanılmadan önce uzmanlara karşı doğrulanmıştır. Doğrulanmamış bir otomatik değerlendirici, anlamı bilinmeyen sayılar üretir.
 
 ## Bağlı kavramlar
 
@@ -104,3 +112,5 @@ Karşılaştırma testleri [[ai-ed-evaluation]] ve [[assessment-validity]] ile b
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
+
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: zorlayıcı davranışlar sergileyen öğrenciler üzerinde LLM özel ders hocalarının değerlendirilmesi (Park ve ark. 2026)

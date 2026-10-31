@@ -8,7 +8,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,12 @@ Duygusal hesaplama, [[affective-tutoring]] (pedagojik uygulaması), [[student-mo
 - **Duygusal olarak zeki değerlendirme aracıları.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], [[llm]] destekli duygusal olarak zeki bir [[conversational-ai|konuşmaya dayalı ajan]], performansa dayalı değerlendirmeler sırasında öğrenci kaygısını ve sosyal baskıyı azaltırken [[usability-research|kullanılabilirliği]] korudu.
 - **Empati, algılama değil istek metni tasarımıyla mühendislikleştirildi.** Duygusal destek, duygu tespiti gerektirmez: [[wang-teacher-student-centered-agents-physics-2026|Wang ve ark. (2026)]], yalnızca istek metinde belirtilen rol ve konuşma hareketleri bakımından farklılaşan iki YZ [[physics-education|fizik]] ajanı arasında *empati algısında* (21,27'ye karşı 18,24; r = 0,53) büyük bir fark elde etti — perspektif alma açılışları ("Bu soruyu şu nedenden soruyorsunuz…"), [[misconceptions|yanlış kanı]] teşhisi ve her turun sonunda bir kavrayış kontrolü — model, platform ve sıcaklık sabit tutulurken. Bu, sensör güdümlü duygusal hesaplamaya karşı kullanışlı bir karşı ağırdır: bir [[pedagogical-agent]]'nin algılanan duygusal niteliği etkileşim senaryosuna tasarlanabilir, aynı zamanda tasarımcılara algılanan empatinin gerçek duygusal anlayış kanıtından çok kendi bildirim ölçütü olduğunu hatırlatır ([[student-ai-interaction]]).
 - **Bir öğretmene işaret eden, öğretmeni uyarlamayan uyarılar.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]], bir lise geometri sınıfında Dash4Emotion'ı konuşlandırdı; kırmızı çerçeveli dikdörtgenler, olumsuz duygu yaşadığı okunan öğrencileri işaretledi; tanımlanan yirmi bölüm (beşi rapor edilen) boyunca katılımı değiştiren, uyarının kendisi değil öğretmenin uyarıya yanıtıydı. Tasarım noktası şudur: duygu algılama, uyarlanabilir bir öğretmenin sonraki hamlesi yerine bir insan kararına beslenebilir — çalışmanın kendi uyarısı eşlik etmektedir: yüz ifadesi tespitinin doğrulamasını rapor etmez, bu nedenle sinyal, bir öğrencinin iç durumu hakkında kanıttan çok öğretmen yorumu için bir istemdir.
+
+## Yaygın yanlış anlamalar
+
+- **“Daha fazla angajman daha fazla öğrenme demektir.”** Bir beyin algılama çalışması, **kısıtlanmış, uyarlanabilir bir arayüzün bilişsel angajmanı yükselttiğini (p = ,018)**, kısıtlanmamış sohbet robotunun ise **daha yüksek öğrenme kazanımları** ürettiğini buldu. Daha çok angaje eden arayüz daha az öğretti. Angajman öğrenmenin vekili değildir ve onu en iyilemek sonucu yanlış yöne taşıyabilir.
+- **“Duygusal destek, bilişsel desteğe yumuşak bir ektir.”** Küçük bir sınıf [[rct|rastgele denemesinde]] (**252 katılımcıdan 42 tamamlayıcı**), farkındalık temelli sürüm yalnızca bilişsel destekle karşılaştırıldığında **daha kısa sürede ve daha az istenen ipucuyla benzer cebir öğrenmesine** ulaştı. Duyuşsal bileşen tavanı değil verimliliği değiştirdi; bu, "öğrenmeye yardımcı olur"dan farklı ve daha ilginç bir iddiadır.
+- **“Az örnekli duyuşsal bulgular aktarılır.”** 252 katılımcıdan 42 tamamlayıcı, hem cesaret verici hem kırılgan bir tasarımdır: tamamlama oranı kimin devam ettiğine dair bir bulgudur ve etki o grupla sınırlıdır.
 
 ## Bağlı kavramlar
 

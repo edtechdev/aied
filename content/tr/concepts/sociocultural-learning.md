@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,16 @@ Sosyokültürel kuram, AIED [[research-methods-aied|araştırmasını]] birkaç 
 Sosyokültürel çizgi, [[cognitive-offloading|Bilişsel Yük Kuramıyla]] (destek, verimli çabayı ortadan kaldırmadan yükü yönetmelidir) ve [[metacognition]] (bölgedeki öğrenenler anlayışlarını etkin biçimde izler ve düzenler) sıkı biçimde bağlantılıdır. [[stanford-evidence-base-ai-k12-2026]], YZ araçlarının öğrenenleri ZPD’de tuttuğunda — onlar adına cevap vermek yerine — en iyi işlev gördüğüne dair [[k-12|K-12]] kanıtını bütünler; [[human-in-the-loop-ai]] araştırmaları ise insan ve YZ desteğinin birlikte öğrenenin bölgesini nasıl tanımladığını ele alır.
 
 - **Aracı ajan olarak üretken YZ (2026):** Vygotsky çizgisindeki aracılıktan yararlanan bir kuram makalesi, üretken YZ’yi yalnızca bir araç/aracılık aracı olarak değil, öğrenme etkinliğine etkin biçimde katılan bir *aracı ajan* olarak yeniden çerçevelemeyi önerir; sosyokültürel kuramın merkezindeki araç-karşı-toplumsal etkileşim sınırını belirsizleştirir ([[generative-ai-mediational-agent-sociocultural-2026]]). Bu, üretken modelleri pasif enstrümanlar değil ortak katılımcılar olarak konumlandırır; aracılığın, [[agency]] ve öğrenen–YZ ilişkisinin [[learning-sciences|öğrenme bilimlerinde]] nasıl kuramsallaştırıldığına ilişkin çıkarımlar doğurur.
+
+## Yaygın yanlış anlamalar
+
+**"Sosyokültürel kuram, bireysel bilişe bir ek olarak öğrenmedeki toplumsal etkenlerle ilgilidir."** Daha güçlü iddia, bilişin bireysel kafaların içinde bulunmak yerine **insanlar, yapıtlar ve ortamlar arasında dağıtıldığıdır**. Bu görüşte YZ, öğrenenin bilişine eklenen dışsal bir yardımcı değil, bilişin içinde işlediği sistemin bir bileşenidir; bu da neyin ölçülmesi gerektiğini değiştirir.
+
+**"Biliş dağıtılmışsa, bireysel değerlendirme yanlış şeyi ölçer."** Ölçümü ortadan kaldırmaz, yorumunu değiştirir. Değerlendirmenin yakaladığı şey, o anda sistemde neyin bulunduğuna bağlıdır; destekli ve desteksiz performansın ayrışmasının nedeni budur: bunlar farklı yapılandırmaların ölçümleridir.
+
+**"Bir gruba araç eklemek yalnızca grubun verimliliğini değiştirir."** İşbölümünü değiştirir; kuramın analiz birimi de budur. Sorularının çoğunu bir etmene yönlendiren bir grup, çıktı değişmese bile bilişsel işi yeniden dağıtmıştır.
+
+**"Dağıtılmış biliş, bireyin önemli olmadığı anlamına gelir."** Bireyin katkısının yalnızca bireysel performanstan okunamayacağı anlamına gelir; analiz birimi kişi değil etkinlik sistemidir.
 
 ## Bağlı kavramlar
 - [[scaffolding]]

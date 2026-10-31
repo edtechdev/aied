@@ -8,7 +8,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,16 @@ Kullanılabilirlik araştırması, veri toplama yöntemlerini [[qualitative-rese
 
 - **Güçlü yönleri:** benimsemeyi ve öğrenmeyi engelleyen kullanılabilirlik engellerini doğrudan belirler; uygulamaya dönük tasarım rehberliği üretir; bir aracın neden kullanımda işe yaradığını ya da başarısız olduğunu açıklayarak etkililik ve niteliksel araştırmayı bütünler; büyük deneylere kıyasla nispeten hızlı ve ucuzdur.
 - **Sınırlılıkları:** kullanılabilirlik bulguları öğrenme etkilerini kurmaz (kullanılabilir bir araç hâlâ öğretemeyebilir); küçük örneklemler ve göreve özgü ortamlar genellenebilirliği sınırlar; öz bildirim tatmini nesnel performanstan ayrışabilir; araştırmacı ve görev tasarımına bağımlılık vardır.
+
+## Yaygın yanlış anlamalar
+
+**"Kullanılabilir bir sistem iyi bir eğitim sistemidir."** Kullanılabilirlik araştırması kişi ile sistem arasındaki etkileşimi ele alır, öğrenme sonuçlarını değil ve ikisi her iki yönde de ayrışır: pedagojik olarak güçlü bir araç sinir bozucu olduğu için terk edilebilir ve sürtünmesiz bir araç hiçbir şey öğretmeyebilir. Kolaylık, kullanımın ön koşuludur, kullanımın değerli olduğunun kanıtı değil.
+
+**"Kullanılabilirlik, geliştirmenin sonunda yapılan bir cila etkinliğidir."** Kullanılabilirlik, tasarımı bitirmek yerine biçimlendiren çekirdek tekniklere sahip bir yöntem ailesidir: gözlem, görev analizi, sesli düşünme, buluşsal inceleme. Pedagoji sabitlendikten sonra sürtünmeyi keşfetmek, genellikle ya arayüzün sorun etrafında yeniden tasarlanmasını ya da aracın terk edilmesini üretir.
+
+**"Bir aracı terk eden öğrencilerin motivasyonu yoktu."** Terk etme, çoğu zaman kullanıcının tasarımcının hiç ölçmediği bir etkileşim maliyetini doğru okumasıdır. Kimsenin kullanmadığı bir araç etki üretemeyeceğinden, terk etme oranı başlı başına bir eğitim sonucudur.
+
+**"Kullanılabilirlik testi, öğrenmeyi ölçmekle aynı şeydir."** Farklı soruları yanıtlarlar ve hiçbiri diğerinin yerini tutmaz; başarısızlık kipi, ikisinden birini benimseme için yeterli saymaktır.
 
 ## Bağlı kavramlar
 

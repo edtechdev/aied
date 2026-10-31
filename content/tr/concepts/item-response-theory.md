@@ -6,7 +6,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,9 @@ MTK, yeteneği (θ) ve madde parametrelerini (güçlük, ayırt edicilik, bazen 
 - **Bilgi izleme ve öğrenci modelleme:** MTK, [[knowledge-tracing]] ve [[student-modeling]] ile yakından ilişkilidir — zaman içinde öğrenen bilgisini izleyen modeller — gözlemlenebilir yanıtlardan gözlemlenemez öğrenen durumlarını tahmin etme hedefini paylaşır.
 
 - **LLM logitlerinden okunan MTK büyüklükleri.** [[huang-interpretable-knowledge-tracing-2026|Huang ve ark. (2026)]], öğrenci yeteneği θ = z^GOOD − z^BAD ve özel öğretmen turu güçlüğü d = z^HARD − z^EASY değerlerini sonraki-token logitlerinden çıkarır ve bunları 1PL Rasch öngörücüsünde birleştirerek diyalog tabanlı bilgi izlemeyi yorumlanabilir kılar (QATD2k üzerinde %64,29 doğruluk, 65,25 AUC).
+- **Sorularla aynı ölçekte diyalog alt görevleri.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan ve ark. (2026)]], eğitmenlerin diyalog ortasında sorduğu alt görevleri bağımsız sorulara dönüştürür ve bunları, güçlüğü soru metninden gelen tek bir ortak 1PL MTK ölçeğine yerleştirir; güçlük sıralaması için denetim olarak mücadeleden sonra iskele kurma ve titizliğe zorlama hamlelerini kullanır.
+
+- **Standartlarla hizalanmış bir [[benchmark]] doygunluğa ulaşabilir.** NGSS ile hizalanmış [[k-12|ortaokul]] ve lise fen setlerinde açık ağırlıklı modellerin çoğu %90’ın üzerinde puan aldı ve klasik madde ölçütlerini zayıf bıraktı: güçlük yüksek, ayırt edicilik düşük, %90 üzerindeki hücreler önemsiz; bu nedenle yazarlar zayıf maddeleri artık işlenebilir hale gelmiş bir alandan ayıramıyor ([[llm-benchmark-secondary-science-topics-2026|Schroeder ve ark. (2026)]]).
 - **Bayesçi hiyerarşik saha doğrulaması:** [[assessing-quality-ai-generated-exams-field-2025|YZ Tarafından Üretilen Sınavları Değerlendirmek]], (1.686 öğrenciyi ortak bir θ ölçeğine yerleştirmek için ön-test çapa maddeleriyle) Bayesçi hiyerarşik bir 2PL MTK modeli kullanarak, YZ tarafından üretilen soruların uzman tarafından yazılmış standart sınav maddeleriyle güçlük ve ayırt edicilikte eşleştiğini gösterir — [[automated-question-generation]] için MTK’nin doğrulama omurgası olarak geniş ölçekli bir gösterimi.
 - **Test bilgisi isabeti yerelleştirir.** 2PL modeliyle doğrulanmış 20 maddelik bir GenAI okuryazarlığı testinin (RMSEA = 0,03, CFI = 0,97) bilgi işlevi θ = −0,8’de zirve yapar; böylece ölçek boyunca tek düze olmaktan çok düşük-ilâ orta okuryazarlıklı öğrenenler için en isabetlidir ([[jin-glat-genai-literacy-assessment|Jin ve ark. (2025)]]).
 - **İnsan yanıtlarını GenAI yanıtlarından kişi-uygunluk istatistikleriyle ayırmak:** [[irt-human-genai-mcq-responses|Strugatski ve Alexandron (2026)]], çoktan seçmeli değerlendirmelerde insan ile [[generative-ai]] yanıtlarını ayırt etmek için MTK içinde kişi-uygunluk istatistiklerini (PFS) uygular. PFS, GenAI yanıtlarını iki özgün bağlamda (bir [[chemistry-education|kimya]] testi ve bir ulusal sınav) 'sapkın' yanıtlayanlar olarak işaretler, farklı [[conversational-ai|sohbet robotu]]ların farklı yanıt örüntüleri ürettiğini ('zekâ’ların heterojen bir grubu) gösterir ve yeni GenAI sürümlerinin daha insansı hale geldiğini ortaya çıkarır — yüksek riskli testlerde MTK’yi [[academic-integrity|dürüstlük]] taraması için sağlam bir çerçeve olarak konumlandırır.
@@ -59,6 +62,13 @@ MTK, yeteneği (θ) ve madde parametrelerini (güçlük, ayırt edicilik, bazen 
 
 MTK, [[educational-measurement]] ve [[assessment-validity]]’nin temelidir; [[adaptive-learning]]’i (uyarlanabilir madde seçimi) ve [[student-modeling]]’i destekler ve [[psychometrically-aware-ai]]’ye (ölçüm kuramıyla hizalı YZ değerlendirmesi) ve [[knowledge-tracing]]’ye bağlanır. Programlama değerlendirmesi için [[llm-difficulty-calibration-programming-exams-2026|LLM güçlük kalibrasyonunda]] yer alır.
 
+## Yaygın yanlış anlamalar
+
+- **“MTK geleneksel test uygulaması gerektirir.”** Yetenek ve güçlük **sonraki-token logitlerinden** kurtarılabilir: **öğrenci yeteneği θ = z^GOOD − z^BAD** ve **öğretmen turu güçlüğü d = z^HARD − z^EASY** değerlerinin çıkarılıp 1PL Rasch öngörücüsünde birleştirilmesi, diyalog tabanlı bilgi izlemeyi MTK terimleriyle yorumlanabilir kılar. Psikometrik çerçeve yalnızca madde yanıtlarına değil, etkileşim verilerine de uygulanır.
+- **“Çoğu modelin geçtiği bir kıyaslama iyi bir kıyaslamadır.”** Standartlarla hizalanmış bir kıyaslama **doygunluğa** ulaşabilir: NGSS ile hizalanmış ortaokul ve lise fen setlerinde **açık ağırlıklı modellerin çoğu %90’ın üzerinde puan aldı** ve klasik madde ölçütlerini zayıf bıraktı. Doygunluk, modellerin mükemmel olduğu anlamına gelmez; maddelerin artık ayırt edici olmadığı anlamına gelir.
+- **“Madde güçlüğü maddenin içkin bir özelliğidir.”** Veri kümesi başına **50 test sorusunu** bir hipoteze doğru ya da ondan uzağa düzenleyen nedensel bir sonda, **güçlük-artışı düzenlemelerin ortalama doğruluğu GSM8K ve BBH-structured’da 15,27 ve 23,88 yüzde puanı düşürdüğünü** buldu. Güçlük, madde ile model arasındaki bir ilişkidir ve madde değiştiğinde o da değişir.
+- **“MTK yalnızca öğrenenleri puanlamak içindir.”** [[assessing-quality-ai-generated-exams-field-2025|YZ Tarafından Üretilen Sınavları Değerlendirmek]], **1.686 öğrenciyi yerleştirmek için ön-test çapa maddeleriyle Bayesçi hiyerarşik bir 2PL modeli** kullanır; bu, öğrenci için puanlama değil, değerlendirmenin kendisi için kalite güvencesidir.
+
 ## Bağlı kavramlar
 
 - [[educational-measurement]]
@@ -72,7 +82,10 @@ MTK, [[educational-measurement]] ve [[assessment-validity]]’nin temelidir; [[a
 
 ## Bağlı makaleler
 
-- [[explaining-question-difficulty-natural-language-2026]] — Explaining LLM question difficulty in natural language through IRT and causal edits (Cui et al. 2026)
+
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Sorular ve mentorluk diyalogları için birleşik bir yanıt çerçevesi
+- [[explaining-question-difficulty-natural-language-2026]] — MTK ve nedensel düzenlemelerle LLM soru güçlüğünü doğal dilde açıklamak (Cui ve ark. 2026)
+- [[llm-benchmark-secondary-science-topics-2026]] — Standartlarla hizalanmış bir kıyaslama doygunluğa ulaşabilir
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
 - [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)

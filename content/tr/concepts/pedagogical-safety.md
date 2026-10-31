@@ -10,7 +10,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -69,6 +69,18 @@ Pedagojik güvenliği sonradan düşünülen bir şey değil, ölçülebilir ve 
 ### İlgili kavramlarla bağlantılar
 
 Pedagojik güvenlik, [[hallucination-risk]], [[rag]]’i, [[k-12]]’yi, [[ethics]], [[governance]], [[regulation]] ve [[llm]]’i, [[trust]], [[scaffolding]], [[metacognition]] ve [[self-regulated-learning]] düzeyindeki kaygılarla birleştiren koruyucu katmandır. [[llm-training-and-fine-tuning|Eğitim]] ve [[reinforcement-learning|pekiştirmeli öğrenme]] yoluyla işler, [[bias-mitigation]] ve [[equity-in-ai-education]] bağlıdır ve [[ai-misuse-learning-harm]] ile [[hazra-safetutors-pedagogical-safety-2026|özel ders öğretmeni zarar taksonomilerinde]] kataloglanan zararlarla motive olur.
+
+- **Çocuk zararı modele nadiren model üzerinden girer.** 1.331 kodlanmış çocukla ilgili YZ olayında zarar, temsil, itibar ve psikolojik kategorilerde yoğunlaştı ve model kusurlarından çok yayına alma, yönetişim ve kötüye kullanım başarısızlıklarıyla birlikte ortaya çıktı; bu nedenle çıktı başına süzgeçler baskın yolu kaçırır ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao ve ark. (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+**“Toksisite süzgeçleri ve kırma saldırısına direnç bir özel ders öğretmenini güvenli kılar.”** Geleneksel [[llm]] güvenliği eğitim için gereklidir ama yeterli değildir. Bir modelin *ne söyleyeceğini* ele alır; pedagojik güvenlik ise etkileşimin öğrenene ne yaptığını, hiçbir içerik sınıflandırıcısının göremeyeceği başarısızlıklar dâhil. Bir özel ders öğretmeni her içerik denetiminden geçerken öğrenmeyi sistematik biçimde aşındırabilir ya da eşitsizliği yerleştirebilir.
+
+**“Bir sistem tek bir alışverişte iyi davranıyorsa kullanımda güvenlidir.”** Risk turlar boyunca birikir: zarar oranları **tek turlu değerlendirmelerde yaklaşık %18'den çok turlu değerlendirmelerde yaklaşık %78'e** yükseldi. Dolayısıyla tek turlu kıyaslamalar, öğrencilerin fiilen yaşadığı etkileşim için dört kat fazla güven veren bir rakam bildirir ve yalıtılmış istek metinleri üzerine kurulu bir karşı saldırı paketi, on dakikalık bir oturumda başarısız olan bir sistemi onaylar.
+
+**“En güvenli özel ders öğretmeni en çok reddedendir.”** "Eşit biçimde reddeden" bir sistem yine de eşitsizliği yerleştirebilir; bu, sayfanın sessiz başarısızlık tanımının ikinci yarısıdır. Başarısızlık kipi yalnızca doğru yanıt verip öğrenmeyi aşındıran bir özel ders öğretmeni değildir; reddetmeleri desteği öğrenciler arasında eşit olmayan biçimde dağıtan bir özel ders öğretmeni de öyledir ve her şeyi reddeden bir politika görünür bir riski görünmez bir riskle değiştirir.
+
+**“Her model düzeyinde güvenlik çalışması bir halkla ilişkiler önlemidir.”** Bir kısmı ölçülebilirdir. [[llm-unlearning-math-privacy|matematik-öğrenmeyi-geri-alma]] çalışması, kimlik belirtici bilgiyi ve zararlı içeriği ayıklamak için gradyan temelli öğrenmeyi-geri-almayı uygular; yeteneği korurken PII çıktısını **%0,1**'e ve toksik oranları **%0,0**'a düşürdüğünü bildirir. Model düzeyinde denetimler katmanlı bir savunmanın bir katmanıdır: tek başına yetersiz ve hiçbir şey de değil.
 
 ## Bağlı kavramlar
 

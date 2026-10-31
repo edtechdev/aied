@@ -6,7 +6,7 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,16 @@ Teknik çizgi, bilgi tabanının diğer temalarından ayrılamaz:
 - **Teknolojiyi pedagojik amaçla seçin:** YZ sistemi ve tekniği [[pedagogy|öğretim stratejisini]] izlemeli, tersi değil.
 - **Teknik katmanı değerlendirin:** [[ai-ed-evaluation]] ve [[benchmark]] araştırmaları, YZ sistemlerini yalnızca başlıca doğrulukta değil, güvenilirlik, pedagoji ve [[equity-in-ai-education|eşitlik]] üzerinden değerlendirir.
 - **Robotlar ve ajanlar yığının bir parçasıdır:** [[educational-robotics|gömülü]] ve [[agentic-ai|ajansal]] sistemler, teknik repertuvarı metnin ötesine genişletir — ve kendi tasarım ve güvenlik kaygılarını getirir.
+
+## Yaygın yanlış anlamalar
+
+**“Model her şeydir.”** Getirme destekli üretim ve istek metni yazımı gibi teknikler tam olarak bir LLM’nin çıktısını denetlemek ve temellendirmek için vardır ve modelin çevresindeki mimari, onun bir sınıfta kullanılabilir olup olmadığını sıkça belirler. Aynı model üzerindeki iki sistem, çevresindeki şeyler nedeniyle güvenilirlik açısından tümüyle farklılaşabilir.
+
+**“Alanın teknik olgunluğu yerleşiktir.”** Haritalama önemli yerde zayıftır: **474 çalışma** boyunca GPT serisi modeller ve LangChain baskınken **yönetilen araç orkestrasyonu, kalıcı bellek ve uzun ufuklu planlama büyük ölçüde yoktu** ve yalnızca **474’ün 138’i (%29)** eğitim kuramından yararlandı. Kullanılan yığın, alanın ihtiyaç duyduğu yığından çok daha dar.
+
+**“Teknik tercihler teknoloğun işidir, eğitimcinin değil.”** Sayfanın çerçevelemesi şudur: bir LLM inşa edemeseniz de mükemmel bir eğitimci olabilirsiniz ve teknik tercihleriniz yine de YZ’nin sınıfınızda neler yapabileceğini ve yapamayacağını şekillendirir. Bir sistemin yanıtlarını ders materyaline dayandırıp dayandırmaması, birinin vermesi gereken pedagojik sonuçları olan bir karardır.
+
+**“Daha yetenekli bir model alanın boşluklarını çözer.”** Orkestrasyon, bellek ve uzun ufuklu planlama yetenek değil mimari sorunlardır: belgelenen yokluk, araç kullanımını zaman içinde yöneten sistemlerin yokluğudur ve daha iyi bir model bunu kendi başına sağlamaz.
 
 ## Bağlı kavramlar
 

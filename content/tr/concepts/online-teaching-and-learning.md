@@ -10,7 +10,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Bunu bir tasarım sorusundan acil bir soruya taşıyan gelişme, üretici YZ’n
 - **Her zaman açık, bağlama yerleşik destek.** Öğrenenlerin işte ya da evde çalıştığı uzaktan ve [[adult-learning|yetişkin öğrenme]] bağlamlarında kursa yerleşik 7/24 destek büyük bir faydadır. [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Açık Üniversite’nin AIDA yardımcısı]], amaca özgü, ortam içinde GenAI desteğinin [[student-engagement|katılımı]] artırdığını bulmuştur (keşifsel bir denemede kullanım süresinin iki katına çıkması), öğrencilerin yüzde 96’sı bunu resmi çalışmalarında istemiştir.
 - **Ölçekte konuşmaya dayalı, diyalojik öğretmenlik.** Kanıtlanmış [[intelligent-tutoring]] teknolojisi üzerine kurulu [[conversational-ai]] öğretmenleri ([[conversational-ai-tutors-framework|keep/change/center/study çerçevesi]]), öğrenenlerin düşüncelerini, sorularını ve [[misconceptions]]’ını içeren — insan öğretmenliğinden çok daha ölçeklenebilir — yüksek kaliteli, diyalog temelli öğretmenlik vaat eder.
 - **Kolaylaştırma ve analizler.** YZ, [[collaborative-learning|çevrim içi tartışmaları]] ve [[learning-analytics]]’i destekleyebilir, katılımı öngörebilir ve öğretmenlerin dikkati dağıtmasına yardım edebilir. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao ve Cukurova (2026)]] ekler ki, LLM tarafından üretilen tartışma özetleri, geniş eşzamansız forumlarda gezinme [[scaffolding|iskeleleri]] olarak işlev görebilir — öğrencilerin akran maruziyetini ve köprüleyici sosyal sermayenin ağ koşullarını, öğrencileri ya da öğretmenleri özetleme iş yüküyle yüklenmeden genişletebilir.
-- **Risk altındaki çevrim içi öğrenenler için erken uyarı analizleri.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]], içerik etkileşim kayıtları üzerinde yorumlanabilir [[reinforcement-learning|makine öğrenmesinin]] büyük ölçekli çevrim içi [[cs-education|programlama]] kurslarında modül düzeyinde ilerlemeyi öngördüğünü ve bırakma ("Gönderim yok") sonuçlarını modül teslim tarihlerinden 7–8 gün öncesine kadar işaretlediğini gösterir; bu da çevrim içi öğretmenlere, başarısızlığı ancak olaydan sonra keşfetmek yerine ilgisiz öğrencilerle [[teacher-role|müdahale etmek]] için somut bir zaman aralığı verir.
+- **Risk altındaki çevrim içi öğrenenler için erken uyarı analizleri.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries ve Koprinska (2025)]], içerik etkileşim kayıtları üzerinde yorumlanabilir [[machine-learning|makine öğrenmesinin]] büyük ölçekli çevrim içi [[cs-education|programlama]] kurslarında modül düzeyinde ilerlemeyi öngördüğünü ve bırakma ("Gönderim yok") sonuçlarını modül teslim tarihlerinden 7–8 gün öncesine kadar işaretlediğini gösterir; bu da çevrim içi öğretmenlere, başarısızlığı ancak olaydan sonra keşfetmek yerine ilgisiz öğrencilerle [[teacher-role|müdahale etmek]] için somut bir zaman aralığı verir.
 - **Erişilebilirlik ve hız.** YZ, ders materyallerini geleneksel maliyetin küçük bir bölümünde üretebilir — MAIC, MOOC kurs üretimini yaklaşık \\$25K/60 saatten \\$2’nin altına/30 dakikaya indirmiştir.
 
 ## YZ çağında çevrim içi öğretimin zorlukları
@@ -105,6 +105,8 @@ Bir öğretmen hangi bileşimi seçerse seçsin, onu şekillendirmesi gereken bi
 - **Etkin ve etkileşimli öğrenme.** Öğrencileri pasif biçimde almak yerine yapmaya ve düşünmeye devam ettiren stratejileri yeğleyin — [[active-learning]], etkileşimli alıştırmalar ve [[socratic-method|Sokratik]] diyalog. Akıl yürütmeyi harekete geçiren (cevaplar sunmak yerine) YZ, kalıcı öğrenmeyi oluşturan verimli mücadeleyi ve [[desirable-difficulties]]’ı korur.
 - **İskelelenmiş, yönlendirilmiş destek.** Öğrenenler ilerledikçe azalan [[scaffolding]] kullanın ve öğrenenlerin araca bağımlı olmak yerine kendi öğrenmelerini yönlendirmesi için [[self-regulated-learning]] destekleri tasarlayın.
 - **İşbirlikçi ve tartışma temelli öğrenme.** Çevrim içi tartışmaları ve grup çalışmasını bilerek yapılandırın; [[collaborative-learning]] etkinlikleri ve YZ katıldığında onun kolaylaştırmasını ile akran olarak rolünü kalibre edin.
+
+- **Müdahale araç değil, rol tasarımıdır.** Çevrim içi bir lisansüstü derste, [[learners|öğrenenlere]] dönüşümlü moderatör, analist ve tartışmacı rolleri verilmesi ile üretken bir YZ ortağının eklenmesi, grup zihin haritası içerik puanlarını 1-5 SOLO ölçeğinde M = 3,65’ten M = 4,59’a yükseltmiş (z = 3,771, p < 0,001), düğüm ve dal sayıları ise istatistiksel olarak sabit kalmıştır ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng ve ark. (2026)]]).
 - **Özgün, süreci ortaya çıkaran değerlendirme.** [[authentic-assessment]] ve süreci yakalayan değerlendirmelere — taslaklar, sözlü savunmalar, öz açıklama, yansıtıcı [[eportfolio|portföyler]] — yönelin; bunlar daha YZ’ye dirençlidir ve özgün anlayışı ortaya çıkarır.
 - **Kişiselleştirilmiş ve uyarlanabilir yollar.** Tempozlamayı ve zorluğu uyarlamak için YZ destekli [[personalized-learning|kişiselleştirme]] ve [[adaptive-learning|uyarlanabilir]] etkinlikler kullanın; bunu yaparken kişiselleştirmeyi derin tutun (görev sıralama, zorluk kalibrasyonu), yalnızca yüzeysel düzeyde değil (özel örnekler).
 - **Sosyal varlık ve topluluk oluşturma.** Bilerek sosyal varlığı ve [[collaborative-learning|topluluğu]] — [[community-of-inquiry]] çerçevesinin özü — yoldaş YZ, eşzamanlı görüşmeler ve akran etkileşimi yoluyla geliştirin; çünkü çevrim içi yalıtızlık [[student-engagement|katılımın]] ve aidiyetin temel engelidir. YZ çağında bu, makine tarafından üretilen söylemin kimin "hazır" olduğunu karmaşıklaştırdığı durumda bile üç varlığı (bilişsel, sosyal, öğretim) seçkinleştirmek anlamına gelir (bkz. [[community-of-inquiry]]).
@@ -121,10 +123,22 @@ Bir öğretmen hangi bileşimi seçerse seçsin, onu şekillendirmesi gereken bi
 - **YZ’yi dışsal bir ek bileşen değil, öğrenme ortamına yerleştirin.** Kursa yerleşik amaca özgü, bağlama uyarlanmış yardımcılar ([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] gibi), genel amaçlı dış sohbet robotlarını geride bırakır ve benimsemeyi artırır.
 - **YZ kolaylaştırmasını insan ölçülülüğüne doğru kalibre edin.** Tartışmaları denetlemek için YZ kullanırken, seyrek müdahale eden ayarları yeğleyin ([[llm-facilitation-timing-online-discussions|Tsirmpas ve diğerleri]]).
 - **Yetişkin yaşam koşullarına göre tasarlayın.** Yetişkin ve uzaktan öğrenenler için mobil erişimi, çevrim dışı çalışma yeteneğini ve eşzamansız erişilebilirliği önceliklendirin ([[ai-adult-learning-guidelines-dis2026|AI-ALOE yönergeleri]]).
+
+- **Sıkıştırılmış biçimler sıkıştırma değil yeniden tasarım gerektirir.** Çalışan öğretmenler için altı haftalık eşzamansız lisansüstü kurslar, on beş haftalık bir kursun sıkıştırılması değil amaca yönelik yeniden tasarım gerektiren kurumsal bir kısıttır; YZ diyaloğu, öğretim varlığını öğretim elemanının kadro bulamadığı geç saatlere taşır ([[packard-thinking-partner-framework-adult-learners-2026|Packard ve ark. (2026)]]).
 - **Öğrenciler ve personelle ortak tasarım yapın ve yönetişim kurun.** Katılımcı geliştirme, üst düzey destek, birimler arası işbirliği ve sağlam [[governance]], sorumlu GenAI benimsemesinin olanak sağlayan etkenlerdir.
 - **Her gözetimsiz etkinliği bir ajanın deneyeceğini varsayın ve bu varsayımdan tasarlayın.** Üç soruluk sınav hızlıdır ve zayıf etkinlikleri açığa çıkarır: bir YZ sistemi bunu, öğrenci materyali anlamadan tamamlayabilir mi; öğrenmeyi üretmesi beklenen bilişsel etkinlik nedir; öğrencinin onu gerçekleştirdiğini hangi kanıt gösterecek. Birinci yanıt evet ve diğer ikisi zor yanıtlanan olduğunda, sorun YZ politikası değil, öğrenme tasarımıdır.
 - **Doğrulamayı riske orantılı tutun.** Yeterliliğin belgelenmesi gerektiği yerde, kapsayıcı izleme yerine bir ikiz görevi, eşzamansız bir sözlü savunma ya da kısa bir kavrama denetimini yeğleyin; kursun geri kalanını, o esnekliğe bağımlı olan öğrenenler için esnek tutun.
 - **Analizleri öğretimi desteklemek için kullanın, yerine geçmek için değil.** Katılımı öngörmek ve desteği hedeflemek için [[learning-analytics]]’ten yararlanın; ancak [[human-in-the-loop-ai|insan denetimini]] merkezde tutun.
+
+## Yaygın yanlış anlamalar
+
+**“Çevrim içi öğretim, ekran üzerinden verilen sınıf öğretimidir.”** Ayrı bir pedagojik ortamdır ve YZ bu ortama farklı biçimde yerleşir. YZ ile bütünleşik fen öğretimine ilişkin öz bildirimli TPACK, kampüs temelli bir üniversitede son sınıf öğretmen adaylarında (**%64,0**) uzaktan eğitim üniversitesindekinden (**%47,4**) daha yüksektir; her iki ortamda da en zayıf alan pedagojik alandır. Uzaktan ortam, var olan hazırlık boşluğunu aynı desteği almak yerine derinleştirir.
+
+**“Bir kursa YZ asistanı eklemek katılımı artırır.”** Katılım, asistanın amaca özgü ve ortam içinde olmasına bağlıdır. Açık Üniversite’nin AIDA asistanı katılımı artırmış, keşifsel bir denemede kullanım süresini ikiye katlamıştır; bulgu tam olarak bu tasarım koşuludur: aynı yetenek dışsal bir araç olarak sonradan eklendiğinde aynı davranışı harekete geçirmez. Kurs kabuğundaki genel amaçlı bir sohbet robotu bağlantısı, incelenen müdahale değildir.
+
+**“YZ performansı yükseltiyorsa öğrenmeyi de yükseltir.”** Çevrim içi ortamlarda ayrışma sınıflardakiyle aynıdır: bir [[rct]], korumasız YZ desteğinin alıştırma performansını yükseltirken yardımsız sınav puanlarını *düşürdüğünü*, “cevabı değil ipucunu ver” öğretmeninin ise zararı ortadan kaldırdığını bulmuştur. Çevrim içi kurslar eşzamansız değerlendirmeye daha çok dayandığından geçerlilik, desteklenmiş ile desteklenmemiş performans arasındaki boşlukta kazanılır ya da yitirilir.
+
+**“Değerlendirme geçerliliği bir notlandırma politikası sorunudur.”** Ortamın yarattığı bir tasarım sorunudur: bir teslim, öğrenen orada olmadan üretilebildiğinde geçerlilik, görevin öğrencinin işi yaptığına dair kanıt üretip üretmemesine bağlıdır. Görevi yeniden tasarlamak bunu ele alır; suiistimal cezasını sıkılaştırmak almaz.
 
 ## Bağlı kavramlar
 - [[pedagogical-patterns]] — Sıralamayı yük taşıyan kılan bağlam; çünkü sistem bir denemeyi göremez
@@ -173,7 +187,9 @@ Bir öğretmen hangi bileşimi seçerse seçsin, onu şekillendirmesi gereken bi
 - [[conversational-ai-tutors-framework]] — Konuşmaya dayalı YZ öğretmenlerine giden yol
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Açık Üniversite’de AIDA’nın uygulanması
 - [[ai-adult-learning-guidelines-dis2026]] — Yetişkin öğrenmeyi desteklemek üzere YZ teknolojileri tasarlamaya ilişkin yönergeler
-- [[deeptutor]] — DeepTutor: Ajan temelli kişiselleştirilmiş öğretmenliğe doğru
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Ajan temelli kişiselleştirilmiş öğretmenliğe doğru
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Müdahale araç değil, rol tasarımıdır
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Çalışan öğretmenler için altı haftalık eşzamansız lisansüstü kurslar: biçimi sıkıştırmak yerine yeniden tasarlamak
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Harmanlanmış sınıflarda ML bulgularını öğretmenlere erişilebilir kılmak
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Öğrenciler kişiselleştirilmemiş insan kayıtlı videolara kıyasla kişiselleştirilmiş YZ üretimli videoları tercih eder (Tomlinson ve diğerleri 2026)

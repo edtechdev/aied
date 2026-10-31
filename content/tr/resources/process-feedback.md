@@ -2,7 +2,7 @@
 title: "Process Feedback"
 created: "2026-10-14T22:15:00-04:00"
 type: resource
-summary: "A free, process-based alternative to AI detection: it records how a piece of writing was produced and turns that into a report for a conversation about learning rather than a verdict."
+summary: "YZ tespitine ücretsiz ve süreç temelli bir alternatif: bir yazının nasıl üretildiğini kaydeder ve bunu bir hüküm yerine öğrenme üzerine bir konuşma raporuna dönüştürür."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
 resource_type: [software]

@@ -8,7 +8,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -70,6 +70,8 @@ En çok atıf alan ampirik gösterim, [[generative-ai-guardrails-harm-learning|B
 
 Güvenlik rayları kendileri tarafsız değildir: [[paternalistic-filter-llm-history-education|the Paternalistic Filter]] Paternalistik Filtre denetimi, reddetmelerin ve yumuşatılmış cevapların öğrenci kimliğine ve konu duyarlılığına göre biçimlendiğini, “korurken” bile epistemik adaletsizliği yeniden ürettiğini gösterir. Güvenli güvenlik rayları, farklı muamele açısından denetlenmelidir — [[governance]] yönetişim ve [[regulation]] düzenleme bağlamında [[bias-mitigation]] ve [[equity-in-ai-education]] için doğrudan bir gerekçe.
 
+**Bir sınıflandırıcı güvenlik rayının eşiği bir politika kararıdır.** Toksisite eşiğini 0,3'ten 0,7'ye taşımak etiketli istek metinlerini %35,62'den %12,4'e düşürdü; bir dolandırıcılık dedektöründe 15 yanlış alarm ve 18 kaçırılmış dolandırıcılığı 2 ve 36 ile değiştirdi, hiçbir eşik ikisini birden ortadan kaldırmaz ve sağlamlık rakamı saldırısı olmadan pek bir şey ifade etmez ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan ve Kalathas (2026)]]).
+
 ## Güvenlik Rayları ve Pedagojik Güvenlik
 
 - **[[pedagogical-safety]]** *ilke/hedeftir* — YZ eğitim sistemlerinin öğrenenleri zarardan (içerik, önyargı, güvensiz tavsiye, manipülasyon) koruduğu.
@@ -78,7 +80,6 @@ Güvenlik rayları kendileri tarafsız değildir: [[paternalistic-filter-llm-his
 İkisi yakından bağlıdır: neredeyse her güvenlik rayı tekniği, [[pedagogy|pedagogical]] pedagojik güvenliği elde etmenin bir yoludur ve pedagojik güvenlik neredeyse tamamen güvenlik rayları yoluyla sunulur. Güvenlik rayları bu nedenle en iyi, pedagojik güvenlik ilkesinin altındaki **tasarım ve mühendislik katmanı** olarak anlaşılır ve ayrıca eğitim için özelleşmeden önce genel YZ güvenliğinde (içerik denetimi, jailbreak direnci) kullanılan daha geniş terimdir.
 
 **Otoritenin bir dağılımı olarak güvenlik rayları.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]], güvenlik raylarını katı-izinverici bir doğru üzerindeki noktalar değil, pedagojik temellendirme, YZ öğretimsel otoritesi, insan hesap verebilirliği, öğrenen özerkliği, bağlam sınırları ve değerlendirme görünürlüğünden oluşan altı ayrılabilir boyuta ilişkin tahsisler olarak ele alır; böylece aynı modeli paylaşan araçlar otoriteyi çok farklı dağıtabilir. Kurs ölçeğinde sınır, yalnızca üretilen içeriği değil, talep alanını, yanıt alanını ve eğitimci görünürlüğünü kapsamalıdır.
-
 **Güvenlik rayları öğrenenleri durdurmak yerine yönlendirebilir.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood ve ark. (2026)]], giriş düzeyi bir programlama kursunda 132 öğrenciyi, pedagojik tarzı (Sokratik karşı doğrudan öğretim) ve bağlam farkındalığı değişen dört YZ öğretim asistanı arasında rastgele atadı. Öğrenciler tam bağlama sahip Sokratik asistanı en olumsuz değerlendirdi ve aynı koşul betimsel olarak en yüksek etkileşim stresini, en yüksek harici genel amaçlı LLM kullanım oranını ve tam kavrayışı gösteren görev sonrası açıklamaların en düşük payını gösterdi — çalışmanın istatistiksel olarak anlamlıdan ziyade betimsel olarak bildirdiği farklar. Sürtünme, yardım talebini ortadan kaldırmaz; o talebi kursun göremediği araçlara taşıyabilir, bu da kalibrasyonu yalnızca bir tasarım sorusu değil bir pedagojik güvenlik sorusu yapar.
 
 ## Tasarım İlkeleri
@@ -90,6 +91,36 @@ Güvenlik rayları kendileri tarafsız değildir: [[paternalistic-filter-llm-his
 5. **İnsan denetimi şart koşun.** Konuşlandırmadan önce süreçte öğretmen kalite güvencesi ve farklı muamele için süregelen denetim.
 
 - **Gömülü kurallarla prosedürel özel dersi güvenlik rayı altına almak.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu ve Sun (2026)]], bu ilkeleri bir [[llm]] matematik özel ders aracı için somut, denetlenebilir bir güvenlik rayı kümesi olarak örneklendirir: özel ders aracının asla temelsiz bir epistemik bağlılık girmemesini sağlayan belirsizlik korumalı bir **sayısal doğruluk kapısı**, bilişsel yük yönetimi için özlülük ve mikro-adım ilerlemesini uygulayan **çıktı kısıtları**, mantık-önce ilkesini kurumsallaştırarak hesaplama özerkliğini öğrenciye geri veren bir **spoiler önleyici sınır** ve özgün tamamlanma ile erken sonlandırma arasındaki ayrımı kodlayan bir **veda kapısı**. Bu kurallar, 40 öğrencili bir sınıf pilotunda doğrulanmış, yeniden üretilebilir istem mimarisi kuralları olarak birleştirildi — [[pedagogical-safety|safety]] güvenlik ilkelerini denetlenebilir, tekrarlanabilir güvenlik raylarına çevirmenin bir modeli.
+
+## Uygulama için çıkarımlar
+
+**Eğitimciler için**
+
+- Bir özel ders aracı, uygulama performansıyla değil desteksiz performansla değerlendirilmelidir. Saha RCT'sinde korumasız bir GPT-4 özel ders aracı uygulama performansını **%48** artırırken sonraki desteksiz sınav puanlarını **%17** düşürdü ve "ipucu-ver-cevap-değil" sürümü zararı ortadan kaldırdı. Araç ortadayken üretilen her sınıf içi sinyal, şişirilmiş olan sinyaldir.
+- Araç değiştirilemediğinde, onsuz neyin değerlendirildiği değiştirilmelidir. Desteksiz ölçüm, güvenlik rayı sorusunu görünür kılan şeydir.
+- "Nezaket", bir başarısızlık kipine sahip tasarım parametresi olarak ele alınmalıdır: hiç itiraz etmeyen veya düzeltmeyen bir özel ders aracı öğrencileri tatmin ederken öğrenmenin ihtiyaç duyduğu düzeltici [[feedback|geri bildirimi]] ortadan kaldırabilir.
+
+**Geliştiriciler için**
+
+- Güvenlik rayı, kararlı bir öğrencinin konuşarak aşabileceği bir istek metni talimatına değil, etkileşim yoluna inşa edilmelidir. İpucu-ver-cevap-değil örüntüsü ampirik olarak desteklenen varsayılandır.
+- Eşiklerin optimizasyon değil politika kararları olduğu kabul edilmelidir. Toksisite eşiğini 0,3'ten 0,7'ye taşımak etiketli istek metinlerini **%35,62**'den **%12,4**'e düşürdü; bir dolandırıcılık dedektöründe ise **15 yanlış alarm ve 18 kaçırılmış dolandırıcılığı 2 ve 36** ile değiştirdi. Hiçbir eşik bu ödünleşimi ortadan kaldırmaz, bu nedenle seçim bir sabite gömülmek yerine kuruma açılmalıdır.
+- Sessiz başarısızlık için tasarım yapılmalıdır. Buradaki zararlı başarısızlıklar toksik çıktılar değil, doğru yanıt verip öğrenmeyi aşındıran ya da eşit biçimde reddedip eşitsizliği derinleştiren özel ders araçlarıdır.
+
+**Araştırmacılar ve denetçiler için**
+
+- Güvenlik rayı değerlendirmeleri desteksiz sonuçlara karşı raporlanmalıdır; oturum içinde tutan ancak öğrenmeyi düz bırakan bir güvenlik rayı, uygulama sayılarının yanlış temsil edeceği kısmi bir başarıdır.
+- Reddetme ve destek örüntüleri adalet açısından denetlenmelidir, çünkü eşit uygulanan bir güvenlik rayı yine de yararı eşitsiz dağıtabilir.
+- Herhangi bir güvenlik iddiasının yanında kullanılan sınıflandırıcı eşiği raporlanmalıdır, çünkü bildirilen zarar oranı eşikler arasında karşılaştırılabilir değildir.
+
+## Yaygın yanlış anlamalar
+
+**"Güvenlik rayı, bir modele eklenen bir filtredir."** Güvenlik rayları istek metni tasarımı, bilgi temellendirmesi, ödül şekillendirme, konuşlandırma kalite güvencesi ve süregelen denetimi kapsayan katmanlı bir denetim kümesidir ve katmanlar birbirinin yerine geçmez. İçerik filtresi çıktının üzerinde durur; "ipucu-ver-cevap-değil" örüntüsü istek metninin içinde durur ve sistemin en başta ne yapmaya istekli olduğunu biçimlendirir. Saha RCT'sinde güvenlik raylı sürüm, korumasız sürümün yarattığı öğrenme zararını ortadan kaldırdı; bu, filtrenin değil etkileşim tasarımının bir özelliğidir.
+
+**"Model zararlı içerik üretmiyorsa sistem öğrenenler için güvenlidir."** Zarar çoğu zaman sessizdir. En zararlı özel ders başarısızlıkları toksik çıktılar değil, doğru yanıt verip öğrenmeyi aşındıran ya da eşit biçimde reddedip eşitsizliği derinleştiren araçlardır; bunlar bir toksisite taramasının yapısal olarak göremediği başarısızlıklardır, çünkü içlerinde saldırgan hiçbir şey yoktur. İçerik denetimini geçmek gerekli bir koşuldur ve yeterliymiş gibi raporlanır.
+
+**"Güvenlik rayı eşikleri ayarlanacak mühendislik seçimleridir."** Bir eşik, dağılımsal maliyeti olan bir politika kararıdır. Toksisite eşiğini 0,3'ten 0,7'ye taşımak etiketli istek metinlerini **%35,62**'den **%12,4**'e düşürdü; bir dolandırıcılık dedektöründe ise **15 yanlış alarm ve 18 kaçırılmış dolandırıcılığı 2 ve 36** ile değiştirdi. Hiçbir eşik ödünleşimi ortadan kaldırmaz; yalnızca kurumun hangi hatayı tercih ettiğine karar verir ve bu karar bir varsayılan sabite değil kuruma aittir.
+
+**"Adalet denetimi, güvenlik rayı yeterliliğinden ayrı bir konudur."** Reddetme ve destek örüntüleri eşit uygulandığında bile yararı eşitsiz dağıtır ve ortalama bir zarar oranı hangi öğrencilerin bu zararı üstlendiğini gizler. Denetim, güvenlik rayı şartnamesinin bir parçası olmalıdır; sonradan sipariş edilen bir çalışma değil.
 
 ## Bağlı kavramlar
 
@@ -114,6 +145,8 @@ Güvenlik rayları kendileri tarafsız değildir: [[paternalistic-filter-llm-his
 - [[llm]] — the model layer being constrained
 
 ## Bağlı makaleler
+- [[ai-security-literacy-k12-framework-2026]] — YZ Güvenlik Okuryazarlığı: Ekosistem temelli Yetkinlik Çerçevesi ve K-12 Öğrenme Platformu
+
 
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot

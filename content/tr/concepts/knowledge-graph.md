@@ -6,7 +6,7 @@ foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-10-09T09:25:11-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -59,6 +59,33 @@ Son araştırmalar, eğitim içeriğinden bilgi grafiklerini otomatik biçimde o
 ## Diğer kavramlarla ilişki
 
 Bilgi grafikleri [[learning-design]] (ne öğretileceğini tanımlamak), [[curriculum-design]] (bunu nasıl sıralayacağımız) ve [[learning-analytics]] (öğrenci etkileşim verisinden içgörü çıkarmak) ile bağlantılıdır. Eğitim alanlarının yapılandırılmış temsillerine gereksinim duyan [[intelligent-tutoring]] sistemleri için temeldirler. YZ ajanları eğitimde yaygınlaştıkça, bilgi grafikleri [[agentic-ai|ajan tabanlı sistemlerin]] üzerinde akıl yürüttüğü alan yapısını sağlar — [[quantum-education-its|ITAS]] ve bilgi boşluğu tespiti öğretim asistanlarında görülen bir örüntü.
+
+## Yaygın yanlış anlamalar
+
+**“Bilgi grafiği, daha iyi araçlara sahip bir kavram haritasıdır.”** Ayırt edici iddia ilişkisel ve hesaplamaldır: bir grafik yararlıdır çünkü önkoşullar, benzerlik ve hiyerarşi bir algoritmanın üzerinde gezinebileceği kadar açıktır, bağlı düğümler çizdiği için değil. Bundan çıkan şey, sayfanın sürekli geri döndüğü işlevsel sorudur: grafik üzerinde hangi gezinme veya yayılım algoritması çalışır? Öğretimsel etki tam olarak bu seçimde yaşar.
+
+**“Sonuçları iyileştiren şey grafiğe sahip olmaktır.”** Sonucu değiştiren, grafik üzerindeki algoritmadır. G4L’de ustalığın Bayes bilgi yayılımıyla Evolving Knowledge Space Graph üzerinde yayılması **+%24 ölçülen bilgi** üretmiştir (0,717 → 0,887); Bilgi Uzayı temelli bir karşılaştırmada ise sonuç **+%5** olmuştur. Yapılandırılmış bir bilgi uzayına ilişkin aynı genel fikir, yayılım yöntemine göre maddi olarak farklı sonuç verir. Bir grafik satın almak veya inşa etmek tasarım probleminin başlangıcıdır, çözümü değil.
+
+**“Yapısal denetimi geçen bir LLM yapımı grafik, doğrulanmış bir grafiktir.”** Yapısal geçerlilik ile öğretimsel geçerlilik tam olarak bu biçimde ayrılır. Böyle bir grafiğin yeniden hesaplanan denetimi, her uç noktanın çözüldüğünü ve yinelenen ya da kendine bağlantı kalmadığını bulmuştur, yani temiz bir yapı; ancak 1.455 aksiyomunun 1.448’i tam olarak tek bir esere eşlenir. Dolayısıyla eserler arası yeniden kullanım seyrektir, bağlam taksonomisi iki bağlam türünü ayıramaz ve merkezi iddialar kanıtlanmamış kalır. Ölü bağlantılar ve yinelemeler otomatik bir denetimin yakaladığı başarısızlıklardır; seyrek yeniden kullanım ve ayrışmayan kategoriler ise onun geçirdiği başarısızlıklardır.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- Grafiğin doğru olup olmadığı sorulmadan önce *ne için* kullanıldığı sorulmalıdır: öneri, önkoşul sıralaması veya tanılama. Kanıt kullanıma göre keskin biçimde farklılaşır ve en güçlü sonucu önkoşul sıralaması taşır.
+- Bir araç uyarlanabilir sıralama iddia ettiğinde, bilgi yapısının betimlenmesi değil, uyarlanabilir olmayan bir temele karşı ölçülmüş karşılaştırma istenmelidir.
+- Eserler arası yeniden kullanımda seyreklik beklenmelidir ve varlıkları tek kaynaklara bire bir eşlenen bir grafik, bütünleşik bir harita değil, kenarları olan bir katalog olarak ele alınmalıdır.
+
+**Geliştiriciler için**
+
+- Yayılım algoritması birinci sınıf bir tasarım kararı sayılmalı ve algoritma müdahalenin parçası olarak bildirilmelidir; +%24’e karşı +%5 farkı ona atfedilebilir.
+- Denetim çözülebilirliğin ötesine geçmelidir. Kategorilerin ayrışıp ayrışmadığı ve varlıkların eserler arasında yeniden kullanılıp kullanılmadığı sınanmalıdır; çünkü yapısal temizlik öğretimsel zayıflıkla tutarlı biçimde bir arada bulunur.
+- Grafik, grafik istatistiklerine karşı değil öğrenme sonuçlarına karşı doğrulanmalıdır.
+
+**Araştırmacılar için**
+
+- Grafik ile temel çizgi karşılaştırmaları algoritma düzeyinde bildirilmelidir. "Bilgi grafiği temelli" bir işlem değildir; işlem, gezinme stratejisidir.
+- Aksiyom-kaynak eşlemeleri ve taksonomi ayrışabilirliği, kesinlik ve duyarlılığın yanında bildirilmelidir; çünkü buradaki denetim başarısızlıkları geleneksel grafik ölçütlerine görünmezdi.
 
 ## Bağlı kavramlar
 

@@ -12,7 +12,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -123,6 +123,12 @@ Bu taramanın dürüst bulgusu, bazı grupların ne kadar ince olduğudur. Bunla
 - **Kanıtın izin verdiği yerde eşitleyici tasarımları yeğleyin.** DEHB video bölümleme sonucu — herkes gelişir, boşluk kapanır — gruba yönelik bir ekten daha iyi uyan bir genel sınıf hedefidir.
 - **Demografik nitelikleri tüketen kişiselleştirmeye dikkatli olun.** [[marked-pedagogies-linguistic-bias-writing-feedback|İşaretli pedagojiler]] bulgusu doğrudan bu mekanizma ile ilgilidir ve öğrenenleri profilleyen [[well-being|esenlik]] görüşmelerine, [[affective-computing|duygusal ders yardımcılarına]] ve [[recommender-systems-and-learning-paths|öneri sistemlerine]] uygulanır.
 - **Önemsediğiniz grup üzerinde, araç olmadan ölçülmüş bir çıktıyla yerel olarak sınayın.** Değerlendirme alışkanlıkları için [[interpreting-and-applying-aied-research|AIEd Araştırmasının Yorumlanması ve Uygulanması]] bölümüne, yerel bir sınamayı savunulabilir kılan tasarımlar için [[research-methods-aied|Eğitimde YZ’de Araştırma Yöntemleri]] bölümüne bakın.
+
+## Yaygın yanlış anlamalar
+
+- **“Grup etiketleri önemli olan varyasyonu yakalar.”** **Grup etiketleri içlerindeki varyasyonu gizler**: engellilik meta-analizinde **özgün öğrenme güçlükleri, zihinsel ve gelişimsel engeller** olan öğrenciler ve diğer kategoriler bir araya getirilir, dolayısıyla grup ortalaması hiçbirini tanımlamaz.
+- **“Alt grup analizleri farklı etkiler sorusunu yanıtlar.”** Genellikle **yanıtlamak için çok küçüktür**: [[ai-tutoring-micro-rct-gcse-science-2026|GCSE fen mikro-RCT'si]], **müdahale** karşıtlığının genel etki için güçlendirildiğini ve alt grup farklılıkları için güçlendirilmediğini olağanüstü açık biçimde belirtir. Gücü yetersiz bir alt grup bulgusu bir hipotezdir, sonuç değil.
+- **“Orta düzeyde birleştirilmiş bir etki, belirli bir grubun yararlanıp yararlanmadığını söyler.”** [[zhang-ai-students-disabilities-meta-analysis-2024|29 (yarı-)deneysel çalışma]] engellilik kategorileri boyunca **Hedges' g = 0,588 (%95 GA [0,349, 0,826])** olarak birleştirildi. Aralık bu kategoriler üzerinden ortalamayı tanımlar ve "hangi grup, hangi ihtiyaç" ayrı bir analizdir.
 
 ## Bağlı kavramlar
 

@@ -8,7 +8,7 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,13 @@ Küçük çocuklar giderek daha erken yaşta YZ ile etkileşime giriyor — YZ d
 
 - **İlkokul ders öğrenimi.** İlkokul kesirlerinde [[ai-powered-personalized-learning-elementary-fractions-2026|YZ destekli kişiselleştirilmiş öğrenme]] ve [[awareness-technological-isomorphism|ilkokul matematiğinde YZ]] (“teknolojik izomorfizm” — anlamadan YZ çıktısını taklit eden öğrenciler — kaygıları dahil), erken dönem konu öğretiminde YZ’nin hem vaatlerini hem tuzaklarını göstermektedir. [[elementary-writing-genai-systematic-review-2026|İlkokul yazma eğitimi ve üretici YZ’ye ilişkin sistematik bir derleme]], [[generative-ai|üretici YZ’nin]] ilkokul sınıflarında [[writing-education|yazma öğretimini]] nasıl yeniden şekillendirdiğini haritalamaktadır.
 
+
+- **İlkokul İngilizce öğreniminin kendi haritası vardır.** İlkokul İngilizcesinde YZ aracılı araçlara ilişkin 119 raporun PRISMA-ScR incelemesi bunları beş pedagojik işleve ayırmıştır; en güçlü tasarımı, 217 ikinci sınıf öğrencisiyle yürütülen bir küme rastgele denemesi, öğretilen sözcüklerde kazanım sağlamış (etki büyüklüğü = .38), ancak standartlaştırılmış sözcük dağarcığı ve okuduğunu anlama anlamlılığa ulaşmamıştır ([[li-zhou-ai-tools-primary-english-scoping-review-2026|Li ve Zhou (2026)]]).
+
 - **Robotlar ve küçük çocuklar.** [[tsingidou-ct-robotics-kindergarten-2026|Anaokulunda robotik]], [[educational-robotics|eğitsel robotlar]] aracılığıyla hesapsal düşünmeyi destekler; [[icub-humanoid-storytelling-llm-hri-2025|LLM güçlü insansı hikâye anlatımı]], ebeveynlerin robotları çocukları için anlatı oyunu partneri olarak kabul edip etmeyeceklerini araştırır — [[trust]] ve yetişkin tutumlarını ön plana çıkarır.
+
+
+- **Bir YZ okuryazarlığı müfredatı değil, bir yetkinlik kümesi.** 86 kaynağın incelemesi, 0-8 yaş çocuklar için YZ okuryazarlığının "tek başına duramayacağını" savunur ve onu yürütücü işlevler, iyi oluş, öğrenme eğilimleri ve temel beceriler arasına yerleştirir; ancak 86 kaynağın yalnızca 26’sı ampiriktir ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 
 - **YZ ajanları ve robotik için bir “Yaratıcı Proje Yaklaşımı” çerçevesi.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li ve Lee (2025)]], küçük çocukların [[creativity|yaratıcı öğrenmesini]] desteklemek için Proje Yaklaşımı’na [[generative-ai|üretici YZ]] ajanları ve robotları bütünleştiren beş adımlı bir pedagojik çerçeve önermektedir. Yazarlar, küçük çocuklar için fiziksel ajanların ekranlardan daha uygun olduğunu savunur ve iki birbirini tamamlayan paradigmayı kendi [[learning-theories|öğrenme kuramlarıyla]] eşleştirir — **kodlama robotları** (Papert’ın [[constructivist|yapılandırmacılığı]]; Matatalab ve KIBO gibi araçlarla somut programlama yoluyla [[computational-thinking|hesapsal düşünme]]) ve **üretici sosyal robotlar** (çocuğun Yakın Gelişim Bölgesi içinde [[sociocultural-learning|Vygotskyan]] iskeleleme, konuşma arkadaşı veya öğretmeni olarak davranma). Beş adım — öğrenme ihtiyaçlarını belirleme, öğretmen rehberliğinde çocuk–robot etkileşimini kolaylaştırma, YZ’yi bağlamlara yerleştirme, otomasyon/yaratıcılık dengesini kalibre etme ve sonuçları değerlendirme — tasarımcılara ve EÇE uygulayıcılarına, öğretmen kolaylaştırması ve çocuk [[agency]] korunurken oyun temelli, proje temelli sınıflara [[agentic-ai|YZ ajanlarını]] ve [[educational-robotics|robotları]] yerleştirmek için somut bir yol sunar.
 
@@ -68,6 +74,14 @@ Küçük öğrenenler daha kırılgan oldukları ve YZ kullanımlarını daha za
 Dört ülke karşılaştırması müfredat boşluğunu keskinleştirir: Japonya, Güney Kore ve Çin’in ulusal erken çocukluk kılavuzlarında hiçbir açık YZ okuryazarlığı atfı yoktur (Şangay’ın şehir düzeyi eylem planı tek istisnadır ve hiçbir öğrenme ilerlemesi belirtmez); Avustralya ise yalnızca sınırlı, eşitsiz bir hizalama gösterir — YZ ajanlarıyla etkileşimde en güçlü, insan–YZ ilişkilerini anlamada yok — YZ okuryazarlığını eve bırakır ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen ve ark. (2026)]]).
 
 Bu soruya ilişkin ilk nörogörüntüleme penceresi bir ihtiyatla gelmektedir: Manyetik rezonans cihazında ChatGPT ile beş dakikalık sözlü bir konuşma yürüten 6–7 yaşındaki çocuklar, eşleştirilmiş yaratıcılık puanlarında frontoparietal kontrol, belirginlik ve dorsal dikkat ağlarında yetişkinlerden daha zayıf ağ-içi bağlantı gösterdi; yetişkinlerde görülen yaratıcılık–bağlantı ilişkisinden de yoksundu. Bu yönetici işlevler birinci sınıfta hâlâ olgunlaşmadığından yazarlar, sonucu asgari yaş tartışmasıyla ilgili olarak okumaktadır; buna karşın çerçeveleme karışıklığını ve ChatGPT’siz bir kontrol grubunun yokluğunu, bulgunun ne ölçüde kesin sonuç doğurduğuna dair sınırlar olarak belirtmektedir ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus ve ark. (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+- **“Öğretmenler bütün dersleri üretmek için YZ kullanacak.”** Öğretmenler en sık (**%60**) **kendi taslakladıkları bir dersteki içerik boşluklarını doldurmak** için devretmiştir, bütün planları üretmek için değil. Devretme birimi ders değil, boşluktur.
+
+- **“Küçük çocuklar YZ destekli medya okuryazarlığından daha az kazanır.”** YZ destekli grup medya okumada (**+3,50**), yazmada (**+1,67**) ve toplam medya okuryazarlığında (**+5,17, hepsi p < .01**) **büyük kazanımlar** göstermiştir; gruplar arası etki büyüklükleri d = 1,12 ya da üzerindedir. Bu yaş bandında kazanımlar marjinal değil büyüktür.
+
+- **“Otomatik gözlem insan derecelendiricilerle her alanda uyuşur.”** Uyum **genel olarak orta düzeydedir (ağırlıklı κ = 0,681) ama yapıya bağlıdır**: yakınsama **Duygusal Destek** alanı ile **Geri Bildirim Niteliği** için geçerli olmuş, başka yerlerde geçerli olmamıştır. Alanlar üzerinden ortalama almak, aracın nerede başarısız olduğunu gizler.
 
 ## Bağlı kavramlar
 
@@ -110,3 +124,6 @@ Bu soruya ilişkin ilk nörogörüntüleme penceresi bir ihtiyatla gelmektedir: 
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — First neuroimaging comparison of children and adults conversing with ChatGPT: less integrated control-attention-memory networks in 6-7-year-olds
 - [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)
 - [[ai-literacy-ecec-curricula-four-country-2026]] — AI literacy for AI natives? A four-country comparison
+
+- [[early-childhood-ai-holistic-competencies-review-2026]] — YZ çağında erken çocukluğu şekillendirmek: yetkinlikler, pedagoji ve ekolojik destek (Pei 2026)
+- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — İlkokul İngilizce eğitiminde YZ aracılı araçlar: pedagojik işlevler ve öğretmen düzenlemesi üzerine bir kapsam incelemesi

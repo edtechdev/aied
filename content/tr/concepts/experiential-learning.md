@@ -6,7 +6,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,8 @@ Deneyimsel öğrenme [[active-learning]], [[project-based-learning]], [[embodied
 
 ### Deneyimsel öğrenme bilgi tabanının araştırmalarında nasıl görünür
 
+- **Aparatın kendisi amaç olmadığında sanal bir laboratuvar fiziksel olanı geçebilir.** Ohm yasası üzerine dokuzuncu sınıf öğrencileri, YZ destekli sanal laboratuvarda, YZ'siz aynı laboratuvarda ve fiziksel laboratuvarda 30 üzerinden 23.45, 20.51 ve 16.57 puan almıştır; her ikili karşılaştırma anlamlıdır ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li ve Ahmad (2026)]]); yazarlar, aparatla uğraşmanın kendisinin amaç olduğu yerlerde fiziksel laboratuvarın dezavantajının azalabileceğini kabul etmektedir.
+
 - **Acil durum ikamesi, ne kadar yol aldığını gösteren bir rubrikle.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]], Lübnan’daki 2024 çatışmasının dayattığı bir ikameyi belgelemektedir: ihtiyaç değerlendirmeleri için topluluklara ulaşamayan American University of Beirut’de yüksek lisans Deneyimsel Öğrenme dersindeki öğrenciler, bunun yerine ChatGPT tarafından üretilen paydaş kişilikleriyle görüşmüşlerdir. İki puanlayıcı on grup istek metninin tamamını puanlamış ve ayrım öğretici bulunmuştur: eğitim hedefleriyle uyum (ortalama 5,00) ve bakış açıları çeşitliliği (4,90) güçlüyken, otantiklik ve gerçekçilik (4,38) ve özellikle grup dinamiği ve tutarlılık (3,80; 30 kişilik bir odak grubunun ardışık görüşmelere dönüştüğü bir durum dâhil) ve sınırlılıklar ile boşluklar (3,20) zayıftı; sonuncusunun nedeni duygusal düzlüğün, çelişkinin yokluğunun ve kültürel özgüllüğün zayıflığının her bağlamda yinelenmiş olmasıdır. Yazarların sonucu bir hükümden çok bir sınırdır: kişilikler, erişimin imkânsız veya güvensiz olduğu yerlerde prova ve geçici çözüm olarak işe yarar, ancak duygusal karmaşıklığın, kültürel özgüllüğün ve kişiler arası dinamiğin *öğrenme hedefinin kendisi* olduğu yerlerde yaramaz. Yazarların önlem alması yapısaldır — simüle edilmiş rol oyununu gerçek görüşmelerle eşleştirirler, böylece öğrenciler karşılaştırma yapabilir ve öğrencileri kişilik çıktısını alan kanıtı olarak değil, önyargı ve genelleme açısından sorgulanacak bir şey olarak ele almaya eğitirler.
 - **Siber güvenlik laboratuvarları:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]], uygulamalı deneyimsel beceri gelişimini destekleyerek [[generative-ai]] öğretim asistanını sanal bir laboratuvar platformuna bütünleştirir.
 - **Robotik projeler:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]], klasik programlarda pratik deneyimin eksikliğine çözüm getirerek robotiği proje temelli, elle yapılan bir yaklaşımla öğretir.
@@ -47,6 +49,33 @@ YZ destekli tasarım eğitiminde elle yapılan öğrenmeye ilişkin hakemli 32 �
 Deneyimsel öğrenme [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]] ve [[higher-ed]] mesleki hazırlığıyla bağlantılıdır.
 
 İşlem içi deneyim, ileri düzey yetkinliğin bağlayıcı koşulu olabilir: akıllı üretim laboratuvarında sponsorlu 89 bitirme projesi boyunca, İşgücü Hazır Bulunuşluk Düzeyi 6’dan 7’ye ilerleme ek derslerden çok sanayi ile iç içe yerleştirmeler tarafından koşullanmıştır ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+## Yaygın yanlış anlamalar
+
+**“Deneyimsel öğrenme, elle yapılan etkinlik demektir.”** Etkinlik yüzeydir; öğrenme mekanizması yapma, yansıtma, kavramsallaştırma ve sınama döngüsüdür. Yapılandırılmış yansıtma içermeyen bir laboratuvar oturumu kavramsal değişim değil aşinalık üretir; "pratik bir bileşen ekledik" ifadesinin deneyimsel öğrenmenin kanıtı olmamasının nedeni budur.
+
+**“YZ, deneyimsel öğrenmedeki deneyimin yerini alabilir.”** Bazı sistemleri simüle edebilir; ancak YZ, siber güvenlik ve robotik gibi uygulamalı alanlarda yetkinliği oluşturan deneyimi sağlayamaz, çünkü öğrenciler bu alanlarda beceriyi gerçek araç ve sistemlerle çalışarak geliştirir. Simüle edilmiş bir güvenlik ortamı yordamı öğretir; çalışan bir sistem ise yanlış yapılandırmanın sonucunu öğretir.
+
+**“Daha otantik görevler doğrudan daha iyidir.”** Otantiklik, aktarım değerini ve değerlendirme sorununu birlikte yükseltir: gerçek sistemler değişken ve puanlanması zor kanıt üretir ve görev ne kadar otantikse sonuç bir puana o kadar az benzer. Tasarım ikisini birlikte taşımak zorundadır; yansıtma yapısının görev kadar ağırlık taşımasının nedeni budur.
+
+**“YZ özel dersi, ders içeriğine uyduğu gibi deneyimsel öğrenmeye de uyar.”** Uyum daha zayıftır; çünkü bir özel ders açıklama sağlayabilir, sistemle karşılaşmayı sağlayamaz. Bu pedagojide doğal yeri, öğrenenin olan biteni anlamlandırdığı yansıtma ve kavramsallaştırma aşamaları çevresidir; yapmanın yerine değil. [[gelli-experiential-language-learning-2026|Symonette ve diğerleri (2026)]] karşılaşmayı betimlemek yerine üretir: GELLI, öğrenenin hedeflerinden yola çıkarak karakterler, destek ve yansıtmayla durumsal sahneleri çalışma zamanında kurar ve 40 Japon öğrenenle yürütülen özne içi bir çalışmada sözcük hatırlamada (d = 0.45) ve güvende (d = 0.45) uzman yazımı videoları geçmiş, konuşmada ise geçememiştir.
+
+## Uygulama için çıkarımlar
+
+**Öğretim elemanları için**
+
+- Etkinliği değil döngüyü yapılandırın: yapma, ardından yansıtma, ardından kavramsallaştırma, ardından yeni bir durumda sınama. Yapmadan sonra duran bir oturum öğrenme değil aşinalık üretmiştir.
+- Pratik bileşeni kavram soyut olduğunda ekleyin, pratik dersin tamamı hâline geldiğinde ise çıkarın. Elle yapma, zamanda maliyeti ve aktarımda faydası olan bir araçtır ve bu oran bir tasarım kararıdır.
+- YZ'yi, öğrenenin olan biteni anlamlandırdığı yansıtma aşamasına ayırın.
+
+**Geliştiriciler için**
+
+- Yansıtma istemleri ve öğrenenin ne yaptığına dair bir kayıt oluşturun; böylece anlamlandırma aşamasının malzemesi olur ve kanıt denetlenebilir kalır.
+- Hatanın sonucunun müfredatın kendisi olduğu alanlarda, bir simülasyonu gerçek bir sistemi işletmenin yerine geçen bir şey olarak sunmayın.
+
+**Program tasarımcıları için**
+
+- Uygulamalı programların laboratuvar vekilleri yerine gerçek uygulamalı iş içerdiğini denetleyin; aktarım iddiası karşılaşmanın otantikliğine dayanır.
 
 ## Bağlı Kavramlar
 
@@ -74,3 +103,5 @@ Deneyimsel öğrenme [[active-learning]], [[project-based-learning]], [[embodied
 - [[ai-personas-fieldwork-experiential-learning-2026]] — Topluluk alan çalışmasının yerine geçen YZ kişilikleri, ikamenin başarısız olduğu yeri gösteren beş göstergeçli rubrik (Elhajj ve ark. 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — YZ destekli tasarım eğitiminde Bedensel Elle Yapılan’ı Bilişsel Elle Yapılan’dan ayıran tematik derleme (Yu, Liu & Zhu 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — üç üretici YZ mekanizması çerçevesinde yeniden yapılandırılmış bir stratejik yönetim dersi
+- [[gelli-experiential-language-learning-2026]] — GELLI: Deneyimsel dil öğrenimi etkileşimleri için bir üretici (Symonette ve ark. 2026)
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Tersyüz fizik öğrenimi için YZ destekli sanal laboratuvar: ortaokul öğrencilerinin başarısı, motivasyonu ve bilişsel yükü üzerine etkiler

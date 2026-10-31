@@ -13,7 +13,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Bu, özür dilenmesi gereken bir zayıflık değildir. İlgi çeken birçok yap�
 
 ## Öz bildirim ne ortaya koyabilir ve ne koyamaz
 
-Öz bildirim, tutumlara, inançlara, niyetlere, bir araca ilişkin algılara, duygu durumlarına ve öz yargılı güven veya zorluğa iyi uygundur. Davranışa zayıf uygundur ve öğrenmeyi hiç ölçemez: birisinin bir şey öğrendiğine dair inancı zaten bir algıdır ve bilgi tabanı algılanan öğrenmeyi [[learning-gains|öğrenme kazanımlarından]] ayrı bir büyüklük olarak ele alır.
+Öz bildirim, tutumlara, inançlara, niyetlere, bir araca ilişkin algılara, duygu durumlarına ve öz yargılı güven veya zorluğa iyi uygundur. 394 YZ yükseköğretim çalışmasının kapsam taraması, en sık bildirilen değerlendirme yönteminin anket ölçekleri olduğunu bulmuştur (269 çalışma, %68,3); bunu testler, sınavlar ve rubrikler (185, %47,0) ile ürün analizi (167, %42,4) izler ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]). Davranışa zayıf uygundur ve öğrenmeyi hiç ölçemez: birisinin bir şey öğrendiğine dair inancı zaten bir algıdır ve bilgi tabanı algılanan öğrenmeyi [[learning-gains|öğrenme kazanımlarından]] ayrı bir büyüklük olarak ele alır.
 
 Sonuç bölümünde benzer görünen ama güç yönünden farklı olan bir dizi iddia ortaya çıkar:
 
@@ -68,6 +68,10 @@ Karşıt seçim de savunulabilir: PAUSE, hiçbir güvenirlik veya geçerlilik ka
 
 Bu bilgi tabanındaki en güçlü öz bildirim bulgusu, öz bildirimin genel olarak yanlı olduğu değil, bildirilen ile gözlenen davranışın belirli, belgelenmiş biçimlerde ayrıştığıdır.
 
+Öz bildirimden türetilen profiller de aynı biçimde davranır. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem ve ark. (2026)]], 14.003 öğrenci kaydını LMS etkileşim izleri yerine öz bildirimli davranışsal ve psikolojik vekiller üzerinden kümelemiş ve ortaya çıkan altı profil final notu üzerinde keskin biçimde ayrışmıştır (η² = 0,770); yazarlar bu ayrışmanın kısmen öğrencilerin bildirdiklerinin yeniden ifadesi olduğu uyarısını yapar.
+
+Davranışsal izler, bir öz bildirim ölçeğinin ayıramadığı öğrenenleri ayırabilir: [[cognitive-offloading-llm-synthesis-writing|Poquet ve ark. (2026)]], makale yazarlığı oranı %80 ile %2 arasında değişen yük devri profilleri arasında öz bildirimli bilişsel yükün anlamlı biçimde farklılaşmadığını, buna karşın en fazla yük devredenlerin yine de en yüksek zihinsel talebi bildirdiğini bulmuştur.
+
 [[ai-literacy-assessment-misalignment|Öğretmen YZ okuryazarlığının paralel öz bildirimli ve nesnel ölçütlerini kuran bir çalışma]], 288 öğretmenlik bir örneklemde **öz bildirimli ve nesnel faktörler arasında zayıf uyum (r = 0,07 ile r = 0,24)** bulmuştur; doğrulayıcı faktör analizi her iki ölçütün yapı geçerliliğini desteklerken **öz bildirimli ile nesnel faktörler arasında düşük korelasyon** göstermiştir. İki araç da inandırıcıydı; basitçe farklı şeyler ölçüyordu. 288 öğretmenlik tam örneklemde nesnel ile öz bildirimli faktörler arasındaki korelasyonlar r = 0,07 ile r = 0,24 arasında değişti ve gizil profil analizi, nesnel ölçütte kendilerini yüksek puanlayıp daha düşük skor alan 43 öğretmeni, ters örüntüyü gösteren 59 öğretmene karşı buldu.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] aynı sonuca ters yönden ulaşır: 83 öğrencili bir özne içi çalışmada 20 maddelik performans temelli testi, [[generative-ai|üretken YZ]] destekli öğrenme görevlerindeki performansı öngördü, **oysa öz bildirimli ChatGPT okuryazarlığı öngörmedi**. Yazarların çerçevesi serttir — bu alandaki araçların ezici çoğunluğu öz bildirimli anketlere dayanır ve bunlar “gerçek yerine algılanan yetkinliği yakalar, yanlılığa ve abartmaya eğilimlidir.”
@@ -78,9 +82,13 @@ Bazen sormak ve gözlemlemek karşı karşıya getirilir. [[student-llm-interact
 
 Yetkin [[generative-ai]] kullanımına ilişkin ölçütlerin 2026 yapılandırılmış derlemesi ve keşfedici [[meta-analysis-systematic-review|meta analizi]], o boşluğa ters yönden havuzlanmış bir sayı getirir: doğrudan bildirilmiş aynı örneklem öznel–nesnel korelasyonlarından üçünü havuzlamak (birleşik bildirilen N = 2.765) r = .055 (Hartung–Knapp %95 GA [−,047, ,156]) vermiş ve dördüncü bir çalışmanın çapraz faktör korelasyonlarını eklemek yalnızca r = .079’a ulaşmıştır. Üç birincil etki de tek bir araştırma programından gelmiştir, en büyük katkı sağlayanın bildirdiği korelasyon ve p değeri uzlaştırılamamıştır ve derleme, öz bildirimin nesnel performans puanlarının yerini tutamayacağını sonuçlandırır — performans araçlarının kendilerinin de dar kapsamlı olduğunu, işte önemli olan denetim ve güvenilirlik davranışları yerine temel bilgiyi kapsadığını not ederek ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 
+İki aşamalı bir sistematik derleme, bu ayrışmaya sonuçlar düzeyinde bir oran koyar: 47 rapordan çıkan 51 aynı yapı çiftinin 30’u uyuşmuş, 11’i uyuşmamış ve 10’u karışıktır. Uyuşmazlık iki yönde de görülmüştür: beş karşılaştırma boş bir öz bildirim sonucunu olumlu bir performans sonucuyla eşleştirirken, iki karşılaştırma bunun tersini yapmıştır ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan ve ark. (2026)]]).
+
 Araç edebiyatının kendisi boşluğun ölçeğine dair kanıt olarak okunabilir. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ve Maat (2026)]], öğretmen YZ okuryazarlığına ilişkin 33 aracı değerlendirmiş ve 31’inin (%93,9) algılanan güvene ilişkin öz bildirim ölçekleri, yalnızca ikisinin (%6,1) bilgiyi nesnel olarak test ettiğini ve 2019–2025 arasında hiçbirinin performans temelli görev kullanmadığını bulmuştur. Onların sonucu, bu sayfanın diğer yönlerden ulaştığı sonuçtur: öz bildirim puanları kapasiteden çok güveni gösterir, dolayısıyla gruplar veya programlar karşılaştırıldığında yetkinliğin yerini tutamazlar.
 
 Sonuç ölçütleri aynı boşluğu devralır. [[pramod-agentic-ai-motivational-pathways-2026|Pramod ve Patil (2026)]], [[agentic-ai|etmen YZ]]’den motivasyon ve sosyal varlık üzerinden öğrenme performansı olarak adlandırdıkları şeye giden yolu 0,671 katsayısıyla modeller — çalışmadaki en güçlü ilişki — ve kendi sınırlılıklar bölümü bu bağımlı değişkenin öğrencilerin algılarını yansıttığını, sınav sonuçlarını, ödev performansını veya öğrenme analitiğini yansıtmadığını belirtir. Yol modellerinde dikkatle okunması gereken örüntü budur: algılanan bir sonuç üzerindeki büyük bir katsayı, öğrencilerin bir şeyin yardımcı olduğuna ne kadar tutarlı biçimde inandığını nicelendirir ve yardımcı olup olmadığına dair henüz hiçbir şey söylemez.
+
+Niyet, bu boşluğun en keskin örneğidir; çünkü tek bir niyet puanı zıt davranışları kapsayabilir. 340 öğrencinin 68’ine maddeleri yeniden uygulayıp sekiz öğrenciyle görüşen [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi ve Lu (2026)]], aynı bildirilen niyetin öğrenmeye yönelik, kısayola yönelik ve karma kullanımı kapsadığını bulmuştur; kısayol kullanıcıları ilgisizlik değil düşük güven gerekçe göstermiştir.
 
 ## Doyum ve algılanan öğrenme sonuç olarak
 
@@ -91,7 +99,7 @@ Doyum, bu derlemde en sık öz bildirimle raporlanan sonuçtur ve 63 makale sayf
 - [[preferred-scaffolding-ai-mathematical-modeling|Bir iskeleleme çalışması]], algılanan yararlılığın, kullanım kolaylığının ve anlık doyumun [[scaffolding]] etkililiğinin yeterli göstergeleri olarak ele alınmaması gerektiğini savunur.
 - [[nie-personavlm-long-term-personalization-2026|Kişilikle uyumlu öğrenen modellemesi üzerine]], kullanıcı doyumu için iyileştirmenin öğrenme sonuçları için iyileştirmekle aynı şey olmadığını ve ikisinin ayrışabileceğini gözlemler.
 
-Aklımızda tutmaya değer örüntü şudur: öğrenme hedef olduğunda doyum yanlış şeylere duyarlıdır. Hızlı yanıt veren, kolayca onaylayan ve çabayı azaltan bir sistem yüksek puan alır ve bilgi tabanının azalmış [[cognitive-offloading|verimli mücadele]] ve YZ destekli çalışmada şişirilmiş performansla ilişkilendirdiği nitelikler tam olarak bunlardır. Bildirilen doyum ile ölçülen öğrenme düşman değildir; yalnızca birbirinin yerine geçmezler ve birincisini ikincisinin kanıtı olarak ele almak, bu sayfanın belgelediği en yaygın kaymadır.
+Aklımızda tutmaya değer örüntü şudur: öğrenme hedef olduğunda doyum yanlış şeylere duyarlıdır. Hızlı yanıt veren, kolayca onaylayan ve çabayı azaltan bir sistem yüksek puan alır ve bilgi tabanının azalmış [[desirable-difficulties|verimli mücadele]] ve YZ destekli çalışmada şişirilmiş performansla ilişkilendirdiği nitelikler tam olarak bunlardır. Bildirilen doyum ile ölçülen öğrenme düşman değildir; yalnızca birbirinin yerine geçmezler ve birincisini ikincisinin kanıtı olarak ele almak, bu sayfanın belgelediği en yaygın kaymadır.
 
 ## Bir öz bildirim aracını inandırıcı kılan nedir
 
@@ -105,6 +113,8 @@ Dört nitelik, bir iddiyi destekleyebilen bir anketi destekleyemeyenden ayırır
 ## Örnekleme, yanıt ve yanıtlamama
 
 Anketler uygulanması kolay olduğundan, genellenebilirlik iddiasının çoğunlukla örnekleme sorunlarında başarısız olduğu görülür. Bu derlem bunları açık ve öğretici biçimde bildirir:
+
+Uygulama biçimi, derlemin henüz saymadığı ikinci bir tehdittir. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling ve Hantel (2026)]], yazılı ders anketlerinin yerine YZ tarafından yürütülen telefon görüşmeleri önermekte ve iki yöne de kesen biçim etkisi kanıtlarını bir araya getirmektedir: sesli yanıtlar daha uzun olur ve daha çok konuyu kapsar; oysa 634 yanıtlayıcıyla yapılan bir randomize karşılaştırma, metin yanıtlarının daha ayrışmış ve daha açık sözlü olduğunu bulmuştur.
 
 - [[genai-student-experiences-uk-he-survey-2026|Öğrencilerin üretken YZ kullanımına ilişkin bir Birleşik Krallık anketi]], 7 kurumda kolaylık örneklemesi, keskin biçimde değişen kurumsal [[governance|kurumsal]] yanıt oranları ve güçlü görüşlere sahip öğrencilere doğru eğilebilecek yanıtlamama yanlılığı bildirir — yanıtlayanların ~%32’sinin muhtemelen politikayı ihlal eden davranış tanımladığını not eder; burada sosyal istenirlik ve bağlamsal baskı nedeniyle **eksik bildirim** muhtemel hata yönüdür.
 - [[ai-assisted-instructor-supervised-grading-feedback|YZ destekli notlandırma geri bildirimi üzerine bir çalışma]] 112 yanıt üzerine, %31 yanıt oranına dayanır.
@@ -135,6 +145,12 @@ Bilgi tabanının yapıcı yanıtları tutarlıdır ve hiçbiri anketleri bırak
 - Doyumu bir tasarım sinyali olarak ele alın, bir öğrenme sonucu olarak değil. Yüksek doyum artı test edilmemiş öğrenme, YZ aracı değerlendirmesinde standart konfigürasyondur ve bu derlem ikisinin ayrıştığını gösterir.
 - Çalışmalarını gösteren çalışmaları yeğleyin: belirtilen yanıt oranları, belirtilen sınırlılıklar ve sormaktan gelmeyen en az bir kanıt kaynağı.
 
+## Yaygın yanlış anlamalar
+
+- **“Anket kanıtı zayıftır ama kabaca yansızdır.”** Yanıt yapısı, yanlılıktan önce tahmini sınırlar: bir anket **%31 yanıt oranıyla 112 yanıt** ya da **572 davetten 90 yanıt** elde eder. Yanıtlayıcı havuzu kendi kendini seçen bir alt kümedir; dolayısıyla rakam o alt kümeyi betimler.
+- **“Anketler bu alanda azınlık bir yöntemdir.”** **394 GenAI yükseköğretim çalışmasını** kapsayan bir kapsam taraması, **anket ölçeklerini en sık bildirilen değerlendirme yöntemi olarak bulmuştur (269 çalışma, %68,3)**; bu, testlerin ve kısa sınavların önündedir. Alanın baskın kanıtı öz bildirimdir.
+- **“Öz bildirim ile ölçülen yapılar uyuşur.”** **Öz bildirimli bilişsel yük, makale yazarlığında %80’den %2’ye uzanan yük devri profilleri arasında anlamlı biçimde farklılaşmamıştır**, oysa en ağır yük devredenler ölçülebilir biçimde farklılaşmıştır. Davranışın kırk kat değiştiği yerde öznel ölçüt düzdü.
+
 ## Bağlı kavramlar
 
 - [[interpreting-and-applying-aied-research]]
@@ -154,6 +170,8 @@ Bilgi tabanının yapıcı yanıtları tutarlıdır ve hiçbiri anketleri bırak
 - [[learning-analytics]]
 
 ## Bağlı makaleler
+- [[high-school-genai-acceptance-tam-physics-2026]] — Tek niyet puanı, iki zıt kullanım
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Bir öz bildirim aracının kullandığı uygulama biçimi, ölçtüğü şeyi değiştirir
 - [[capability-decision-model-teacher-readiness-2026]] — Öz bildirimli YZ kapasitesini yetkinlik inançlarından ayırmaya yönelik ayırt edicilik geçerliliği ölçütleri
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Etmen YZ yol modelinde katılım, ölçülen değil algılanan performansı öngörür (Pramod & Patil 2026)
@@ -177,3 +195,5 @@ Bilgi tabanının yapıcı yanıtları tutarlıdır ve hiçbiri anketleri bırak
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — İlk 15 maddelik bir öz değerlendirme aracı; algılanan yetkinliğin ne ortaya koyabileceği konusunda açık
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 33 öğretmen YZ okuryazarlığı aracının 31’inin öz bildirim, hiçbirinin performans temelli olmadığını bulan derleme
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Öz bildirimden türetilen profiller aynı biçimde davranır
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Aynı yapıda öz bildirim ile performans arasındaki uyuşmazlığa oran koyan iki aşamalı derleme (Fan ve ark. 2026)

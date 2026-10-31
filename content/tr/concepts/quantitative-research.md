@@ -7,7 +7,7 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -37,29 +37,34 @@ Niceliksel araştırma betimleyici tasarımları (yaygınlık ve örüntüleri �
 ## Temel niceliksel yaklaşımlar
 
 ### Anket ve korelasyonel araştırma
-
 Yatay kesitli anketler, kendi bildirilen tutumları, algıları, motivasyonu, [[self-efficacy]] ve teknoloji kabulünü ölçer; bunlar sıklıkla varsayılan ilişkileri ve aracıları sınamak için regresyon ya da yapısal eşitlik modellemesi (SEM/PLS-SEM) ile modellenir. Bunlar bilgi tabanının derlemine hâkimdir, özellikle kabul, motivasyon ve psikolojik mekanizma sorularında. [[acceptance-ai-english-tools-2026|YZ destekli İngilizce araçlarının kabulü]] [[technology-acceptance-model|TAM]] üzerine SEM ile inşa eder; [[tian-genai-learning-adoption-pathways-2026|Üretici YZ benimseme yolları]] PLS-SEM, fsQCA ve önem–performans eşlemeyi kullanır; [[teacher-education-ai-literacy-sdt-2026|öğretmen YZ okuryazarlığı]] [[self-determination-theory]] temelli faktör doğrulamalı anketler kullanır.
 
 - **Güçlü yönler:** büyük örneklemler; geniş, düşük maliyetli kapsama; karmaşık aracılık modellerini sınama; gözlemlenmesi zor tutumlar için uygulanabilir.
 - **Sınırlılıklar:** yatay kesitli veriler nedensellik kuramaz; kendi bildirim yanlılığı; kolaylık örneklemesi genellenebilirliği sınırlar; aracılar kovaryanstan çıkarılır, manipülasyondan değil. Bu sınırların araç tarafındaki işlenişi için [[self-report-measures]] sayfasına bakın.
 
-### Deneysel ve yarı deneysel araştırma
 
+- **Doymuş bir aracılık modeli kendi sıralamasını sınayamaz.** 1.020 hemşirelik öğrencisiyle yapılan tek dalgalı bir anket, 1,36’lık toplam etkiyi 0,92 doğrudan ve öz-düzenlemeli öğrenme üzerinden 0,44 dolaylı olarak ayırmıştır; dolaylı kısım toplamın %32,35’idir ve model, gözlenen kovaryanslar kadar serbest parametreye sahip olduğu için veriyi inşa gereği yeniden üretir ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li ve ark. (2026)]]).
+**Sıfıra yakın bir toplam dolaylı etki iki canlı yolu gizleyebilir.** 568 tasarım öğrencisinin tek bir öz-bildirim dalgasında dolaylı ilişki terfi odağı üzerinden 0,0929 ve önleme odağı üzerinden −0,0884 olmuş, toplamı 0,0045 verirken doğrudan yol toplamın %98,7’sini taşımıştır ([[wang-ai-disruption-design-innovation-competence-2026|Wang ve ark. (2026)]]).
+
+### Deneysel ve yarı deneysel araştırma
 Deneyler, çıktılar üzerindeki nedensel etkileri tahmin etmek için öğrenenleri koşullara rastgele atar (örn. YZ özel ders asistanına karşı insan özel ders asistanı ya da YZ iskelelemesine karşı desteksiz). **Randomize kontrollü deneyler ([[rct]]s)** iç geçerlilik için altın standarttır. [[access-not-enough-ai-tutoring-2026|İnsan desteği artı YZ özel ders asistanlığına ilişkin randomize bir saha çalışması]] ve [[genai-can-harm-teaching-rct-2026|öğretmede üretici YZ’ye ilişkin bir RCT]], nedensel etkileri izole etmek için atama kullanır. **Yarı deneysel** tasarımlar (öncesi/sonrası, randomizasyon olmadan eşleştirilmiş gruplar) bütün sınıflarda daha uygulanabilir, ama nedensel iddialarda daha zayıftır.
+
+
 [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin ve ark. (2025)]] bunun yerine özne içi bir çapraz geçiş (crossover) benimser: her öğrenci aynı fizik içeriğiyle iki kez karşılaşır, bir kez sınıf içi etkin öğrenme dersinde, bir kez kursun kendi YZ özel ders asistanıyla; her biri çevresinde öncesi ve sonrası testleri olur, böylece her öğrenen kendi kontrolü olur ve kişiler arası farklar birbirini götürür.
 
 - **Güçlü yönler:** en güçlü nedensel çıkarım; temiz çıktı ölçümü; etki büyüklüğü tahmini ve etkililik iddialarını destekler.
 - **Sınırlılıklar:** pahalı ve yavaş; yapay koşullar ekolojik geçerliliği düşürür; hızla değişen YZ araçları deneyleri çabuk eskiletir; küçük örneklemler etkilerin tespitini yetersiz güçle bırakır; yardımcı araçları geri tutmada etik kısıtlamalar.
+- **Grup düzeyinde rastgele bir erişim denemesi bir kullanım kontrolü gerektirir.** Tedavi edilen sınıflardaki öğrencilerin yaklaşık %15’i öğretmeni hiç kullandığında, çalışmanın niyet-etkisi (ITT) tahmini aracı kullanmanın değil, aracı devreye sokmanın, yani beraberinde taşıdığı izin ve ikamenin etkisini yansıtır; bireysel oturumların yalıtılmış etkisini değil ([[liu-course-integrated-ai-tutoring-rct-2026|Liu ve ark. (2026)]]).
 
 ### Boylamsal araştırma
-
 Boylamsal tasarımlar aynı öğrenenleri zaman içinde izler; tek zaman noktalı ölçümün kaçırdığı değişimi, büyümeyi ve kalıcı öğrenmeyi yakalar. [[ai-lms-middle-school-longitudinal|Boylamsal bir LMS çalışması]], öğrencileri bir okul yılı boyunca izler. Boylamsal tasarımlar, YZ kaynaklı şişkin performansı [[genai-performance-vs-learning|kalıcı öğrenmeden]] ayırt etmek için esastır.
 
 Veri setleri arası karşılaştırmalar sabit bir çalışma noktası gerektirir: sentetik eğitim verisine yönelik yapısal bir kontrol, her veri setini kendi eşiğinde analiz etmenin paylaşılan bir noktada ayakta duran bir karşıtlığı tersine çevirdiğini ve taklit (surrogate) karşılaştırmasının yalnızca sentetik veriyi ve onun kendi permütasyonlarını gerektirdiğini — mutlak bir eşik yerine permütasyon tabanlı bir sıfır hipotezi — buldu ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Hesaplamalı ve psikometrik nicelleştirme
-
 Niceliksel yöntemler ayrıca yapıların araçlarla doğrudan ölçülmesini de kapsar — [[educational-measurement]] ve [[item-response-theory]] alanıdır. Bilgi tabanının [[jin-glat-genai-literacy-assessment|GLAT]] aracı IRT ile doğrulanmış 20 maddelik bir niceliksel araçtır; [[ai-literacy|YZ okuryazarlığı]], kabul ve öz-yeterlilik alanlarındaki [[educational-measurement|ölçüm araçları]], anket ve deneysel araştırmaların bağımlı olduğu doğrulanmış ölçekleri sağlar.
+
+Bibliyometrik analiz bir başka niceliksel ailedir: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram ve ark. (2026)]], 1.403 [[medical-education|tıp eğitimi]] yayınını ülke, kurum ve anahtar sözcük eşdizim ağları üzerinden haritalayarak bir literatürün biçimini okur, çalışmalarını değerlendirmez; bu da ulaştıkları sonucu, yani [[governance|yönetişim]] araştırmalarının yetenek sınamasının gerisinde kaldığını, öğrenmeye değil alana ilişkin bir iddia kılan şeydir.
 
 ## Niceliksel araştırma bilgi tabanında nasıl görünür
 
@@ -79,6 +84,12 @@ Niceliksel yöntemler ayrıca yapıların araçlarla doğrudan ölçülmesini de
 - **Sınırlılıklar:** ölçülebilir olanı yakalar, sıklıkla süreci, anlamı ve bağlamı kaçırır (bkz. [[qualitative-research]]); kendi bildirim yanlılığı; araçlar yanlış yapıyı ölçebilir (bkz. [[educational-measurement|ölçüm sorunları]]); nedensellik olmadan korelasyon; YZ değişimine göre yapay ve yavaş olabilir.
 
 Niceliksel ve [[qualitative-research|nitel]] yöntemler birbirini tamamlayıcıdır — niceliksel çalışma kapsam genişliği ve nedensel güç sağlar, nitel çalışma derinlik ve anlam sağlar. [[mixed-methods-research|Karma yöntemli tasarımlar]] bunları birleştirir. Deneysel, anket, nitel ve diğer tasarımlar arasındaki karşıtlıklarla birlikte tam yöntem karşılaştırması için [[research-methods-aied]] sayfasına bakın.
+
+## Yaygın yanlış anlamalar
+
+- **“Bir niyet-etkisi (ITT) tahmini, aracın ne yaptığını betimler.”** **Tedavi edilen sınıflardaki öğrencilerin yaklaşık %15’inin öğretmeni hiç kullandığı** grup düzeyinde rastgele bir erişim denemesinde ITT tahmini, aracı kullanmanın değil **aracı devreye sokmanın etkisini** yansıtır. Düşük benimseme, bir ITT sayısını uygulamaya ilişkin bir ifade yapar ve onu araç etkisi olarak raporlamak ölçülen şeyi abartır.
+- **“Görevdeki performans, çıktının kendisidir.”** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]], **120 öğrenciyi** YZ destekli ya da geleneksel çalışmaya rastgele atar ve **kalıcılığı** ölçer; anlık performansı kalıcı öğrenmeden ayıran tasarım budur. Görevde duran bir çalışma, daha kolay olan niceliği ölçmüş olur.
+- **“Veri setleri arası karşılaştırmalar sorunsuzdur.”** Sentetik eğitim verisi üzerine yapısal bir kontrol, **her veri setini kendi eşiğinde analiz etmenin, ortak bir çalışma noktasında geçerli olan bir karşıtlığı tersine çevirdiğini** bulmuştur. Karşılaştırmanın işareti analitik bir tercihe bağlı kalmıştır; önceden kayıtlı bir çalışma noktası tam da bu tür bir kırılganlığı önlemek için vardır.
 
 ## Bağlı kavramlar
 
@@ -105,3 +116,8 @@ Niceliksel ve [[qualitative-research|nitel]] yöntemler birbirini tamamlayıcıd
 - [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Grup düzeyinde rastgele bir erişim denemesi bir kullanım kontrolü gerektirir
+
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliyometrik analiz bir başka niceliksel ailedir: Sriram ve ark.
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Hemşirelik öğrencilerinde üretken yapay zeka kullanımı ve kişiler arası eğitimsel etkileşim: istatistiksel aracı olarak öz-düzenlemeli öğrenme
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Tasarım öğrencilerinde YZ teknolojik yıkım farkındalığı, tasarım düşüncesi zihniyeti ve tasarım yenilik yetkinliği

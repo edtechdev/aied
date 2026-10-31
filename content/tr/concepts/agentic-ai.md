@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,9 @@ Birkaç uzmanlaşmış aracıyı orkestre etmenin ötesinde bir adım, [[sudarsh
 
 - **İşbirlikçi problem çözme için katılımcıya özgü YZ aracılar.** Fang (2026), işbirlikçi problem çözme simülasyonlarında her katılımcıyı temsil etmek için bireysel YZ aracılarını gerçek katılımcıların diyalog verileri üzerinde ince ayar yapar; olasılıksal konuşmacı ve tematik kod seçimi ile kayan pencere ve özetlenmiş hafızayla. [[network-analysis|Epistemik Ağ Analizi]] ile doğrulanan simülasyon diyaloglar, gerçek olanlardan istatistiksel olarak ayırt edilemezdir (ENA mesafesi 0,17, permütasyon p = 0,65) — etkenik YZ'nin özgün işbirlikçi söylemi çoğaltmasının bir gösterimi.
 - **Sosyal olarak zeki çok aracılı öğretmenlik.** ASTRA gibi sosyal olarak zeki çok aracılı öğretmenlik prototipleri, öğrenenlerin YZ ile ikili gruplarda nasıl koordine olduğunu, farklılaştırılmış Öğretmen ve Kolaylaştırıcı aracıları kullanarak koordinasyonu ve dengeli katılımı istemeyi inceler. Çerçevenin iz temelli değerlendirmesi, tanıtım programlamasında etkileşimin, katılım dengesinin ve doğrulamanın yeniden üretilebilir analizini mümkün kılar.
+
+
+**Kurumsal bir yanıt: alıcı değil, katılımcı üye olarak öğrenen.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan ve ark. (2026)]], uzmanlaşmış ajanların kişisel hedefleri, çok kipli etkinlikleri ve katmanlı değerlendirmeyi birbirine bağlayan revize edilebilir bir Yetenek Programı sürdürdüğü, öğrenenin kendi kanıtını ve itirazlarını sonraki revizyonlara taşıyan düzeltilebilir bir “İnsan Düğümü”nün bulunduğu insan katılımlı çok ajanlı bir örgütlenme örneği kurar. 96 simüle öğrenen vakası boyunca en yakın çok ajanlı tabana karşı avantaj değerlendirme tasarımında yoğunlaşmıştır: Değerlendirme Geçerliliğinde 19,32 puan daha yüksek (%95 GA [17,55, 21,04]) ve yetenek kapsamında 5,89 puan daha yüksek, kişiselleştirme ise ayrışmamıştır (1,35 puan, aralık sıfırı kesmektedir). 32 öğrenenli rastgele bir çalışmada nesnel 50 puanlık bir testteki bilgi kazancı 12,19’a karşı 5,61 puan olmuştur.
 
 ## Merkezi gerilim: otomasyon ve öğrenme
 
@@ -230,5 +233,7 @@ Etkenik YZ ne bir her şeye çare ne de kaçınılmaz bir zarardır: değeri tas
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Ajanlar revize edilebilir bir yetenek programı çevresinde örgütlenir; öğrenen bir üye olarak
 
 

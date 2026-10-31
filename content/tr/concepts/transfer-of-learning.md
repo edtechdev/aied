@@ -8,7 +8,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,16 @@ Bu, pedagojik koruyucu raylara sahip öğreticiliğe özgü araçların genel am
 ### İlgili kavramlarla bağlantılar
 
 Öğrenmenin aktarımı [[metacognition]] (anlayışın öz izlenmesi), Bilişsel Yük Kuramıyla (üretken ve dışsal yük), [[desirable-difficulties]] (üretken zorlanma), [[scaffolding]] (sönen destek), [[cognitive-offloading|Aşırı Bel Bağlamayla]] (araca bağımlılık) ve [[sociocultural-learning]] (genel amaçlı YZ’nin öğrenciler için işi tamamlayarak GYÇ’nin dışında işlemesi) bağlantılıdır. Yardımlı performans ile gerçek öğrenme arasındaki köprüdür — [[stanford-evidence-base-ai-k12-2026]] ile [[intelligent-tutoring|YZ Öğreticilik]] etkililiği için merkezî soru arasındaki ayrım.
+
+## Yaygın yanlış anlamalar
+
+**“YZ destekli görevlerdeki kazanımlar aktarılabilir öğrenmeyi gösterir.”** Bilgi tabanının bulduğu örüntü bunun tersidir: burada sentezlenen **beş çalışmanın tümü**, müdahale genel amaçlı YZ olduğunda **olumsuz ya da sıfır aktarım** bildirmiştir; alıştırma notları daha yüksek olan lise matematik öğrencileri kapalı kitap finallerinde **yaklaşık %17 daha kötü** puan almış ve bir kompozisyon yazma çalışmasında öğrencilerin **%83’ü kendi alıntılarını hatırlayamamıştır**. Anlık destekli performans, mevcut en az aktarılabilir ölçüdür.
+
+**“Bir öğrenci bunu YZ ile yapabiliyorsa, yapabiliyordur.”** Bu, başarısızlığın yokluğu değil tanımıdır. Aktarım, yeteneğin desteğin kaldırılmasından sonra varlığını sürdürmesini gerektirir ve kaldırmayı sınayan çalışmalar yeteneğin araçta olduğunu bulmuştur. Akıl yürütme başka bir yerde yürütülürken bir yapıt üretebilen öğrenen, farklı bir beceride eğitilmiştir: aracı işletmek.
+
+**“Aktarım daha yetenekli modellerden gelir.”** Aktarım, onu üreten koşullardan gelir: alıştırmanın genelliği, bağlamların değişkenliği ve öğrenenin akıl yürütmeyi kendisinin üretme derecesi. Model yeteneği destekli performansın tavanını yükseltir ve model gittikten sonra kalan şey için özel olarak hiçbir şey yapmaz.
+
+**“Rehberlik aktarımı her zaman destekler, dolayısıyla daha çok rehberlik daha iyidir.”** Akıl yürütmeyi kendisi yürüten rehberlik, aktarımın bağlı olduğu sürecin yerine geçer. Ayrım, öğrenenin sonraki adımı üretmesini sürdüren yardım ile o adımı onun yerine üreten yardım arasındadır; o çizginin aktarım tarafında yalnızca birincisi vardır.
 
 ## Bağlı kavramlar
 

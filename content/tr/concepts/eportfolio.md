@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,33 @@ Bilgi tabanının araştırmaları, e-portfolyoların YZ ile verimli bütünleş
 ## E-portfolyolar neden YZ bütünleştirmesi için önemlidir
 
 E-portfolyolar, tek bir nihai ürünün önüne **süreci, yansıtmayı ve gösterilmiş anlayışı** geçirdikleri için YZ’nin merkezi sorununu doğrudan ele alırlar: YZ cilalanmış bir ürün üretebildiğinde, ürün artık onun ardındaki katılımı kanıtlamaz. E-portfolyolar değerlendirmeyi, ayakta kalan kanıtlara — taslaklar, revizyonlar, akıl yürütme izleri ve yansıtıcı öz-değerlendirme — doğru kaydırırken YZ’nin kendisi geri bildirim üretmede, yansıtmayı iskelelemede ve (uygun rubrik tasarımıyla) değerlendirmeyi desteklemede yardımcı olabilir. Bu durum e-portfolyoları [[generative-ai|üretici YZ]] çağında [[authentic-assessment|otantik]], [[formative-assessment|biçimlendirici]] ve [[process-oriented-assessment|süreç temelli değerlendirme]]nin temel taşı ve [[feedback-literacy|geri bildirim okuryazarlığı]] ile [[self-regulated-learning|öz-düzenlemeli öğrenme]] için doğal bir yuva yapar.
+
+## Yaygın yanlış anlamalar
+
+**“Bir e-portfolyo bitmiş işlerden oluşan dijital bir klasördür.”** Değerlendirme değeri, nihai üründen çok *süreci* (akıl yürütme, taslak, revizyon, yansıtma) yakalamaktan gelir. E-portfolyoların görece YZ’ye dayanıklı olmasının nedeni tam budur: ürün üretilebildiğinde, süreç üzerine kurulu bir değerlendirme, ürün üzerine kurulu bir değerlendirmenin kaybettiği kanıtı korur.
+
+**“YZ, e-portfolyoları denemeler kadar kolay sahtelemeye açar.”** Başarısızlık kipi farklıdır ve kanıt, biçimin ters yönde hareket ettiğini gösterir. ChatGPT’yi e-portfolyo değerlendirmesiyle (bir CEA modeli) birleştirmek, EFL konuşmada konuşma performansında (**F(1) = 48,554, p < 0,001**) ve [[feedback-literacy|geri bildirim okuryazarlığında]] (**F(1) = 16,135, p < 0,001**) anlamlı kazanımlar üretti; e-portfolyolar yansıtıcı katmanı destekledi. Kursa YZ eklendiğinde portfolyo zayıf halka haline gelmedi; değerlendirmeyi o taşıdı.
+
+**“Anlamlı bir çok değişkenli sonuç, portfolyonun etkin bileşen olduğunu kanıtlar.”** Paketin sonuçları hareket ettirdiğini kanıtlar. Çalışma bir YZ aracını, bir portfolyo yapısını ve konuşma görevlerini birleştirdi ve bu biçimdeki bir tasarım hangi bileşenin kazanımı ürettiğini yalıtamaz. Savunulabilir iddia kombinasyona ilişkindir ve [[learning-gains]] uyarısı geçerlidir: bildirilen kazanımların yeniden kullanılabilmesi için önce bir bileşene izlenmesi gerekir.
+
+**“E-portfolyolar desteksiz değerlendirme ihtiyacının yerini alır.”** Onu tamamlar. Bir portfolyo süreci ve zaman içindeki gelişimi kanıtlar; bir öğrenenin destek olmadan ne yapabildiğini kanıtlamaz ve ikisini karıştırmak, biçimin çözmek için benimsendiği ürün-vekil sorununu yeniden getirir.
+
+## Uygulama için çıkarımlar
+
+**Eğitimciler için**
+
+- Yalnızca ürünü değil süreci de zorunlu kılın: tarihli taslaklar, revizyon gerekçeleri ve neyin neden değiştiğine dair yansıtma. Bunlar YZ’nin öğrenen adına sağlayamayacağı eserlerdir.
+- Portfolyoyu en az bir desteksiz performans ölçüsüyle eşleştirin, böylece süreç kanıtı ile yetenek kanıtı birlikte kayda geçsin.
+- YZ’yi portfolyo iş akışının dışında değil *içinde* kullanın (taslaklara geri bildirim için); atıf yapılan çalışmanın sınadığı yapılandırma budur.
+
+**Geliştiriciler için**
+
+- Cilalı bir nihai görünüm yerine revizyon geçmişi ve sürümleme için inşa edin; pedagoji farkta yaşar.
+- Yansıtma istemlerini değerlendirilebilecek kadar yapılandırılmış yapın, çünkü yapılandırılmamış yansıtma, YZ üretimi metnin en kolay geçtiği yerdir.
+
+**Araştırmacılar için**
+
+- YZ artı portfolyo paketlerini incelerken bileşen yalıtımı için tasarlayın; aksi halde alan ayrıştıramadığı kombinasyon etkileri biriktirir.
 
 ## Bağlı Kavramlar
 

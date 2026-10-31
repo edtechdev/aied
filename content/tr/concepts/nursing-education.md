@@ -12,7 +12,7 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,33 @@ Alan ayrıca üç komşu kavramı da inceltir. [[simulation]]’dan gerçekçili
 - **Kanıt tersine dönmüştür.** Aynı derlemenin boşluk haritası, mesleki kimlik veya [[career-development-and-readiness|kariyer gelişimi]] üzerine rastgele ya da yarı-deneysel hiçbir çalışma bulmaz; ilişkisel ve etik yeterlilik üzerine yalnızca üç çalışma ve 12 ayı aşan hiçbir izleme bulmaz — buna karşılık kontrollü kanıt, bilişsel ve teknik çıktılarda kümelenir.
 - **Gözetim, iyileştirilmiş davranış olarak değil, algı olarak belgelenmiştir.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana ve diğerleri (2026)]], altı çalışmada (1.567 öğrenci) hemşirelik değerlendirmesinde [[remote-proctoring]]’i haritalamış ve gözetim altındaki öğrenciler tarafından neredeyse evrensel olarak caydırıcılık bildirildiğini bulmuştur (bir lisansüstü programda yüzde 98–100 uzlaşım), buna karşın tek karşılaştırmalı performans çalışması, yüz yüze gözetim altındaki bir kohortun hazırlık sınavında uzaktan gözetim altındakinden belirgin biçimde yüksek puan aldığını bulmuştur. Kaygı iki yönlüydü — bazı öğrenciler evde daha sakin ve yolculuktan kurtulmuş, diğerleri izlenirken konsantre olamayan ve [[legal-issues-and-risks|haksız suçlamadan]] korkan — ve altı çalışmadan dördü bağlantı hatası, biri yük atlama bildirmiştir; bu da sınav güvenliğinden çok [[equity-in-ai-education|eşit]] erişimi etkin kısıt haline getirmiştir. Yazarların konumu, uzaktan gözetimin varsayılan koruma olarak değil, birkaç aracın biri olması; veri koruma standartlarıyla yönetilmesi ve tasarım düzeyinde bütünlük ile [[authentic-assessment|özgün değerlendirme]] ile eşleştirilmesi gerektiğidir.
 - **Sınır koşulları.** Bu çizgiler aynı ölçülülükte birleşir. YZ için en iyi kanıt, yapılandırılmış ve yinelenebilir hedeflerdedir — temel iletişim, öykü alma, sağlık eğitimi, bilgi edinimi — ve en zayıf kanıt karmaşık psikomotor beceri, duygusal yüklü etkileşim ve uzun vadeli mesleki oluşum içindir. Benimseme tutarlı biçimde orta ile yüksek arasındadır; ancak YZ *geri bildiriminin* benimsemesi güvenle koşulludur: öğrenenler yalnızca yetkin algılanan YZ’ye kıyasla iyi niyetli algılanan insan kaynaklarını tercih eder. Derlemeler ayrıca coğrafi olarak dardır, kontrolsüz tasarımlar ve [[self-report-measures|öz bildirim]] ile yönetilir ve — simülasyon derlemesinde — yayın yanlılığı kaygısı yaratan neredeyse tek biçimli olumlu bir örüntü gösterir.
+
+## Yaygın yanlış anlamalar
+
+**“YZ destekli simülasyon hemşirelik yeterliliğini her alanda iyileştirir.”** Yarar, belgelenmiş bir sınırda durur. YZ destekli simülasyon bilgiyi ve [[self-efficacy]] güvenilir biçimde iyileştirir, ancak **karmaşık psikomotor beceri üzerinde tutarsız, bazen olumsuz etkiler** gösterir; psikomotor yeterlilik ise kendisiyle tanımlanan bir meslekte çevresel bir sonuç değildir. Simülasyonu bilgi kazanımlarının gücüne dayanarak benimseyen bir program, lisans sınavının ölçtüğü son noktadan farklı bir son nokta için kanıta sahiptir.
+
+**“Hemşirelikte YZ’ye ilişkin iş gücü kaygısı aslında bir beceri boşluğudur, dolayısıyla çare YZ okuryazarlığı eğitimidir.”** Kaygı yeterlilikle değil istihdamla ilgilidir. **821 sağlık bilimleri öğrencisi** üzerinde yapılan bir anket, [[anxiety-and-stress|YZ kaygısı]] ile iş arama kaygısı arasında orta düzeyde olumlu bir korelasyon bulmuştur (**r = 0,233, p < 0,001**) ve YZ kaygısı denetimlerden sonra anlamlı bir yordayıcıdır. Okuryazarlık öğretmek, bir aracı kullanamama korkusunu ele alır; işsiz kalma korkusunu ele almaz. Literatürün mesleki kimlik çerçevesi, yani bir adayın ne yapabildiğinden çok kimin hemşire olduğu sorusu, tam olarak bu sorunun ait olduğu yerdir.
+
+**“Öğrenenler YZ ajanlarını işbirlikçi olarak ister.”** Onları araç olarak isterler. **165 öğrenciden (158’i tamamladı)** ajan en çok *bir araç olarak* yararlı bulunmuştur (**M = 3,49**), ardından geri bildirim yararlılığı (**M = 3,21**) ve en az *ekibin bir parçası olarak* (**M = 2,88**) değerlendirilmiştir; tüm ikili farklar anlamlıdır (**F(2, 156) = 26,01, p < ,001**). Bir ajanı ekip üyesi olarak konumlandıran tasarım, öğrenen tercihinin önünde değil, karşısında ilerlemektedir.
+
+**“Her simülasyon çalışması klinik uygulamaya genellenir.”** Burada gözden geçirilen kanıt tabanı, **19 çalışma ve N = 1.253, çoğunlukla lisans öncesi öğrenciler**, büyük ölçüde sınıf ve laboratuvar temellidir; simüle edilmiş yeterlilikten gözetimli uygulamaya geçiş ise YZ destekli bir simülasyonun kendi başına prova etmediği tam olarak o adımdır.
+
+## Uygulama için çıkarımlar
+
+**Eğitmenler için**
+
+- YZ simülasyonu, bilgi ve öz yeterlilik kazanımlarının gücüne dayanarak karmaşık psikomotor beceri geliştirmek amacıyla benimsenmemelidir. Psikomotor son noktalar için kasıtlı gözetimli uygulama korunmalı ve YZ, kanıtının en güçlü olduğu yerde kullanılmalıdır.
+- İstihdam kaygısı, YZ okuryazarlığı modüllerinden geçirilerek değil doğrudan ele alınmalıdır; iş arama kaygısıyla korelasyon, kaygının öğrenenin araç akıcılığıyla değil mesleğin geleceğiyle ilgili olduğunu söyler.
+- Ajanlar araç ve geri bildirim kaynağı olarak konumlandırılmalıdır; bu, hem öğrenen tercihiyle hem de daha güçlü değerlendirmeleri üreten tasarımla örtüşür.
+
+**Geliştiriciler için**
+
+- Psikomotor ve bilgi sonuçları ayrı ayrı bildirilmelidir, çünkü bu literatürde birbirinden ayrışırlar.
+- Tasarım önce araç ve geri bildirim rolleri için yapılmalıdır; ajanı ekip üyesi olarak çerçevelemek öğrenenlerin istediği şey değildir.
+
+**Araştırmacılar için**
+
+- Lisans öncesi ve çalışan hemşire örnekleri ayrı ayrı bildirilmeli ve yeterlilik iddiasının klinik açıdan anlamlı olması isteniyorsa gözetimli uygulamaya geçiş incelenmelidir.
 
 ## Bağlı kavramlar
 

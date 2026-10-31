@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,16 @@ Bir araç, diyalojik bir ortak ya da spekülatif bir "dördüncü varlık" olmak
 - Üretken YZ katılımı ile sorgulama kalitesi arasındaki ilişki doğrusal değil, **insan sorumluluğuna koşulludur**: sorumluluk güçlü olduğunda yüksek ya da düşük üretken YZ katılımıyla güçlü varlık ortaya çıkabilir, sorumluluk zayıf olduğunda her iki koşulda da zayıf varlık görülür.
 - Sorgulamanın [[assessment]], parlak nihai çıktılardan **sürece duyarlı kanıtlara** kaymalıdır — istek metni yazma ([[prompt-engineering|prompting]]) ve revizyon izleri, açıklama ve atıf uygulamaları, doğrulama hamleleri ve etkileşim kayıtları. Bu, bilgi tabanının [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] değerlendirmeye ve tespit temelli yanıtlardan uzaklaşmaya yönelik daha geniş dönüşümüyle uyumludur.
 - Pedagojik olarak öğrenenlerin, üretken YZ koşullarında özgün sorgulamayı sürdürebilmek için genellikle açık eğitime ihtiyacı vardır (örneğin betikli roller ve üretken YZ karar noktalarıyla [[simulation|simulation-based]] uygulama) — ve öğretmenler, [[ai-literacy]], [[critical-thinking|critical appraisal]] becerileri ile kalibre edilmiş [[trust-calibration|trust]] oluşturmaya bağlı olarak üretilen çıktıları nasıl sorgulayacağını modellemelidir.
+
+## Yaygın yanlış anlamalar
+
+**“Öğretim varlığı insani bir özelliktir.”** Üretken YZ çağında çerçeve yeniden kavramsallaştırılmaktadır, çünkü makine üretimi söylem otantik varlığı taklit edebilir; bu nedenle varlıkları tamamen insani etkinlik yerine insan-GenAI birleşimlerinin sosyoteknik başarıları olarak anlamak daha doğrudur. Bir ders, öğretim üyesi büyük ölçüde yokken ve söylemi bir model yürütürken yüksek öğretim varlığı bildirebilir.
+
+**“Tutarlı YZ açıklaması bilişsel varlık yaratır.”** Tutarlılık doğruluk değildir ve yansıtıcı sorgulamayı sürdürmeyi zorlaştıran tam da bu özelliktir: bir açıklamanın apaçık doğru olduğunu hisseden öğrenciye, bir tetikleyici olayı çözme fırsatı çok az verilmiştir. Bilişsel varlık kuşkunun çözülmesini gerektirir, ortadan kaldırılmasını değil.
+
+**“Varlık kohort boyunca eşit dağılır.”** Koşullar arasında değil, koşulun *içinde* ayrışır. **63 Çinli lisans öğrencisiyle (33'ü GPT-4o mini sohbet robotuyla, 30'u olmadan)** beş haftalık görev boyunca paylaşılan okumaları işaretleyen yarı deneysel bir çalışmada, varlıklar grup başarısına göre ayrıştı: yüksek başarılı gruplar **2.319 açıklama boyunca 1.407 geri bildirim isteği (%60,7)** başlatırken, düşük başarılı gruplarda bu **2.167 açıklama boyunca 737 (%34,0)** oldu. Aynı araca erişim, çerçevenin ölçtüğü toplumsal davranışta var olan bir açığı yeniden üretti.
+
+**“Çevrim içi bir derse sohbet robotu eklemek bir varlık ekler.”** Karışımı değiştirir. Çerçevenin GenAI altındaki değeri, ikameyi görünür kılmasıdır: bir modelce karşılanan varlık, aynı yapının farklı bir yapılandırmasıdır ve kohort verileri ikamenin eşit olmayan biçimde karşılık verdiğini gösterir.
 
 ## Bağlı kavramlar
 

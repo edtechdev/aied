@@ -9,7 +9,7 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,9 @@ ai_assist:
 ## Giriş
 
 PBL, tıp eğitiminde doğdu (McMaster Üniversitesi, 1960’lar) ve o zamandan beri [[medical-education|sağlık meslekleri]], mühendislik ve [[k-12]] alanlarına yayıldı. Öğrenen, öğrenme ihtiyaçlarını teşhis etme, kaynakları belirleme ve çözümler kurma sorumluluğunu üstlenir; kolaylaştırıcı süreci iskeleler. PBL’nin ayırt edici iddiası, müfredatın itici gücünün *problem* olduğudur — başka yerde öğretilen içeriğin bir örneği değil, içeriğin öğrenildiği bağlamın kendisidir.
+
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng’ambi ve van der Merwe (2026)]] doğrudan bir karşılaştırma sunar: on problem temelli sohbet diyaloğu sürdürmüş ve daha derin açıklamaya ulaşmış, otuz yapılandırılmış prosedürel sohbet ise sor, cevapla, teşekkür et biçimine çöküp sonlanmıştır.
 
 ## YZ çağında PBL
 
@@ -66,6 +69,14 @@ PBL, süreci, işbirliğini ve ürün üretimi karşısında gösterilen anlayı
 ### Verimli başarısızlık ve PBL
 
 [[productive-failure|Verimli başarısızlık (VB)]] PBL’nin [[constructivist]] çekirdeğini paylaşır — [[learners]] öğretimden önce problemlerle yüzleşir — ancak yapıda farklılık gösterir: VB, kasten öğretimi ve iskelelemeyi, öğrenenler çözüm üretmek için boğuştuktan *sonraya* erteleme yolunu seçer; PBL ise kolaylaştırmayı süreç boyunca gömer. YZ çağının VB literatürü, YZ’nin problem temelli ortamlarda nasıl davranması gerektiğini doğrudan besler: [[kim-ai-productive-failure-adult-2026|Kim ve ark. (2026)]], YZ’nin VB aşamaları boyunca yönlendirici olmayan destekle [[desirable-difficulties|verimli boğuşmayı]] koruması gerektiğini gösterir; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech ve ark. (2025)]], [[llm]] [[intelligent-tutoring|özel ders uygulamalarının]] yanıtları saklayacak ve birden çok çözüm denemesi çıkaracak biçimde yönlendirilebileceğini gösterir; ve [[rhaimi-productivemath-2025|ProductiveMath]], yüksek kaliteli VB/PBL tarzı problemlerin tasarımına yardımcı olmak için YZ kullanır. YZ’nin ne zaman bir problem, bir ipucu veya bir yanıt vermesi gerektiğine dair tasarım sorusu, her iki [[pedagogy|pedagoji]] arasında paylaşılır.
+
+## Yaygın yanlış anlamalar
+
+- **“PBL sonuçları proje temelli öğrenme sonuçlarıyla havuzlanmalıdır.”** Üç düzeyli meta-analiz **ürün ve çözüm performansını ayrı bir modelde** tutar; çünkü bu, öğrenenin kendi akıl yürütmesini değil **insan-YZ işbirliğini** ölçer. Bunları birleştirmek, ortaklaşa üretilmiş bir ürünü öğrenciye atfetmek olur.
+
+- **“İşbirlikçi kazanımlar YZ kullanmanın yan etkisidir.”** Bir çalışma daha yüksek algılanan işbirlikçi problem çözme (**M = 3,62 vs. 3,05, d = 0,88**) ve paylaşılan problem çözme (**3,40, d = 1,02**) bulmuş; **en büyük etkileşim etkileri paylaşılan bilgi inşası ve sosyal düzenleme üzerinde** olmuştur, yani tasarımın öngördüğü işbirlikçi süreç boyutlarında. Mekanizma araç değil, yapılandırılmış işbirliğidir.
+
+- **“YZ ile PBL esas olarak kolaylaştırıcı zamanı kazandırır.”** Ölçülebilir kazanımlar, yalnızca grup yapısı bunun için tasarlandığında var olan boyutlarda süreç niteliğindedir. YZ’yi paylaşılan bilgi inşasını yapılandırmadan ekleyen bir PBL uygulaması aynı etkiyi beklememelidir.
 
 ## Bağlı kavramlar
 

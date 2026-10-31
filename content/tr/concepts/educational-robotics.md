@@ -10,7 +10,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -72,11 +72,19 @@ Eğitimde robotiğin sosyal tarafını iki akım şekillendirmektedir.
 
 - **Anaokulu hesaplamalı düşünme robotiğinin fiilen ne yaptığı.** 53 çalışmayı içeren bir sistematik derleme, en sık kullanılan stratejilerin problem temelli öğrenme, hikâye anlatımı ve iskeleleme olduğunu bulmuştur; çalışmaların çoğu hiçbir hesaplamalı düşünme çerçevesi adlandırmamakta ve TechCheck-K gibi doğrulanmış bir araç yerine duruma özel değerlendirme araçları kullanmaktadır ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou ve Sapounidis (2026)]]).
 
+- **Konuşma değil, LLM planlaması.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]], otizm spektrumundaki öğrenenlerle kullanılan görsel olarak yapılandırılmış etkinlikler olan Shoebox Tasks fotoğraflarını bir görsel-dil modeliyle PDDL problemine dönüştürür ve bir Nao insansı robotu bu planı yürütür ya da gösterir; plan doğruluğu altı görev boyunca puanlanır, herhangi bir öğrenen sonucu üzerinden değil.
+
 ### Gömülme ve pedagoji
 
 Belirleyici bir tema, robotların gerçek öğrenme hedeflerini desteklediğinde — yalıtılmış teknik alıştırmalar olarak değil — etkili olduğudur. Dizüstü ChatGPT ile eşleştirilen bir masa üstü robotik projektör, yardım mevcutken düşük kaldı (6,7'ye karşı 7,3/10, p = .41) ancak geri çekildikten sonra puanını korudu (7,0'a karşı 4,4/10, p = .003); bu, kısa vadeli aktarım puanında %60 daha yüksek bir değerdir — yazarların genel bir ikameden ziyade uzamsal bir arada bulunmaya bağladıkları göreve bağlı bir kazanç ([[aifred-desk-robotic-ai-guidance-2026|Orlando ve ark. (2026)]]). Bir robotun değeri pedagojik bağlama bağlıdır: hesaplamalı düşünme öğretmek ([[computational-thinking]]), [[stem-education|STEAM]]'i desteklemek, [[cs-education|programlama]] becerileri kazandırmak, öğrenenleri motive etmek ([[motivation]], [[student-engagement|katılım]]) veya [[social-emotional-learning]] ve [[equity-in-ai-education|kapsayıcılığı]] desteklemek. Robotik ayrıca [[project-based-learning]], [[game-based-learning]] ve [[experiential-learning]] ile bağlantılıdır. Temel tasarım ölçütleri arasında öğrenenin [[agency]] korumak, [[trust]] inşa etmek, [[self-efficacy]] desteklemek ve öğrenmeyi [[embodied-learning|vüut bulmuş etkileşimde]] temellendirmek yer alır. [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analitik kanıtlar]], vüut bulmuş robot destekli dil öğreniminin etkililiğine işaret etmektedir.
 
 - **YZ destekli robotik öğrenmeye götüren yollar.** Robotik+YZ müfredatındaki lise öğrencileri üzerine yürütülen [[educational-robotics-pathways-2026|bir nitel araştırma]], gerçek dünya uygulaması, tasarım ve oyunbaz yaratıcı ifade yoluyla öğrenme bulmuştur (yapısalcı, epistemolojik-çoğulcu bakış açısı).
+
+## Yaygın yanlış anlamalar
+
+- **“Robotlar robot oldukları için hesaplamalı düşünme öğretir.”** **53 çalışmayı** içeren bir sistematik derleme, **problem temelli öğrenme, hikâye anlatımı ve iskelelemeyi** en sık kullanılan stratejiler olarak bulmuştur: sonucu pedagoji taşımıştır ve çalışmaların fiilen yaptığı şey budur.
+- **“Fiziksel robotlar ekran tabanlı alternatifleri her açıdan yener.”** Kazanımlar **göreve bağlıydı**: [[aifred-desk-robotic-ai-guidance-2026|Orlando ve ark., 2026]] için **%60 daha yüksek** kısa vadeli aktarım puanı (4,4/10, p = ,003) ve yazarlar bunu **genel bir yerine geçmeye değil mekânsal eş-konumlanmaya** bağlar. İddia, belirli görevlerde eş-konumlanma hakkındadır, genel olarak fiziksellik hakkında değil.
+- **“Anaokulunda hesaplamalı düşünme anlamlı olmak için çok erken.”** Derlenen kanıt anaokulu robotiğini doğrudan kapsar; bu, yaş aralığının uygun olmadığı varsayılmak yerine incelendiği anlamına gelir.
 
 ## Bağlı kavramlar
 - [[early-childhood-elementary-ai-education]] — Erken çocukluk ve ilkokul düzeyinde YZ eğitimi
@@ -102,6 +110,10 @@ Belirleyici bir tema, robotların gerçek öğrenme hedeflerini desteklediğinde
 - [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, BBÜ eğitimi, robotik, RAG, ajan tabanlı)
 
 ## Bağlı makaleler
+
+
+- [[aifred-desk-robotic-ai-guidance-2026]] — Masa üstü robotik projektör: eş-konumlanmış rehberlik, dizüstü ChatGPT’nin kaybettiği aktarımı korudu
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Bir görsel-dil modeli bir Nao robotu için Shoebox Tasks planlar (Kudláčková 2026)
 
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
@@ -129,4 +141,3 @@ Belirleyici bir tema, robotların gerçek öğrenme hedeflerini desteklediğinde
 - [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
-- [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it

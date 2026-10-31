@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -51,27 +51,24 @@ Sosyal-duygusal öğrenme, duygusal zekâdan (EI) yakından ayrı olarak onunla 
 Bilgi tabanı araştırmasını SEL etrafında, her biri kendi kanıt tabanına sahip birkaç ayrı alt konuda kümeler:
 
 ### Öz yeterlik ve güven
-
 Öğrencilerin YZ ile etkileşimini güçlü biçimde koşullayan temel bir SEL yetkinliği (öz farkındalık/öz yönetim). [[student-dependency-on-ai-literacy-self-efficacy-2026|YZ’ye öğrenci bağımlılığı]] (478 İsrailli YÖ öğrencisi), beceri temelli YZ okuryazarlığı boyutlarının YZ bağımlılığıyla *olumlu* yönde ilişkili bulunurken hem akademik hem YZ’ye özgü **öz yeterliğin** ve çaba [[regulation]] *olumsuz* yönde ilişkili olduğunu bulmuştur — yani yalnızca YZ okuryazarlığı bağımlılığa karşı koruma sağlamaz; bunu [[self-efficacy]] sağlar. [[self-efficacy-tutoring-learning|Cen ve ark. (EC-TEL 2026)]], başlangıç öz yeterliği daha düşük olan öğrencilerin uygulama biçiminden bağımsız olarak daha yüksek öğrenme kazanımları elde ettiğini ve özel öğretmene yönelik eğilimin özel öğretmene dayalı uygulamada daha fazla önem taşıdığını bulmuştur — uygulamayı güdü profillerine göre uyarlamanın değerini ortaya koyar. Bağlı kavramlar: [[self-efficacy]], [[motivation]], [[agency]].
 
 ### Motivasyon ve “YZ erişilebilirliği” etkisi
-
 Motivasyon, SEL’in sorumlu karar verme ve öz yönetimiyle kesişir. [[ai-availability-student-motivation|YZ erişilebilirliği ve öğrenci motivasyonu]] ile [[ai-perceptions-students-teachers-motivation-2026|öğrenci/öğretmen motivasyonu ve öz yeterliği]] üzerine yapılan araştırmalar, YZ’nin yalnızca var olmasının bile öğrencilerin güdüsel yönelimini ve algıladıkları çabayı yeniden şekillendirebileceğini göstermektedir — YZ’nin içsel motivasyonu baltalama veya destekleme biçimi açısından önemlidir. [[student-dependency-on-ai-literacy-self-efficacy-2026|Öz yeterlik araştırması]], çaba düzenlemesini YZ bağımlılığına karşı bir denge unsuru olarak çerçeveler.
 
 ### Duygu düzenleme ve duygusal destek
-
 Duygusal düzenleme, doğrudan öğrenme sonuçları doğuran temel bir SEL yetkinliğidir ve SEL→[[learning-gains|başarı]] bağlantısını doğrudan kurar. [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] gibi [[affective-computing]] araçları, öğrenci duygularını modelleyerek [[pedagogy|pedagojik]] yanıtları şekillendirir; [[ai-campus-wellbeing-tools|kampüs iyi oluş araçları]] (ör. PsychoGPT, AURA) koruma ve müdahaleyi kapsar.
 
 ### YZ kullanımına duygusal yanıtlar: utanç, suçluluk
-
 Duygular, öğrencilerin YZ kullanımını *nasıl* görünür kıldığını düzenler. [[shame-guilt-ai-regulation-computing-education|“Bir Sarmalın İçinde”]] (19 bilişim öğrencisi), utanç ve suçluluğun YZ kullanımının toplumsal düzenleyicileri olarak işlev gördüğini, saklama davranışlarını ve seçici ifşayı yönlendirdiğini ve etkenliğin azaldığı döngüler yarattığını bulmuştur. [[ai-anxiety-strategic-regulation-writing-2026|YZ kaygısı]], YZ’nin bir öğrenme kaynağı olarak stratejik düzenlenmesine dönüştürülebilir. Bunlar SEL’in toplumsal farkındalık ve öz yönetimini [[academic-integrity]] ve sorumlu YZ kullanımına bağlar.
 
 ### Güven ve aidiyet
-
 SEL ilişkisel öğrenmeyi ve toplumsal uyumu destekler. [[finkelstein-principled-ai-education-2025|İlkeli YZ eğitimi]] ve [[ai-chatbot-collective-efficacy-collaborative-learning|işbirlikçi öğrenme için YZ sohbet robotları]], **aidiyet** ve kolektif etkililikle — bir ekibin görevleri yerine getirebileceğine ilişkin paylaşılan inanç — bağlantılıdır. Brookings makalesindeki ölüm öncesi (premortem) çerçevelemesi, YZ’ye aşırı bel bağlamanın sosyal-duygusal iyi oluşu, öğretmen-akran ilişkilerini ve öğrencinin [[privacy]]/güvenliğini tehdit ettiğini vurgular — bunlar aidiyet ve bağlılığın boyutlarıdır. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Öğretmen-öğrenci güveni]], YZ’nin destekleyici olarak algılanıp algılanmadığının merkezindedir.
 
-### Süreklilik, zihniyet ve verimli zorlanma
 
+Burada aidiyetin daha keskin bir kenarı vardır: YZ’den istenen empati cezalandırılabilir. [[shastry-gray-empathy-offloading-2026|Shastry ve Gray (2026)]], katılımcılara sıkıntıdaki bir öğrencinin bir sohbet robotuna, bir arkadaşına, bir terapiste ya da kimseye gitmediğini anlatan metinler okutmuştur. Sohbet robotu koşulunda katılımcılar özel olarak en az devretme isteği bildirmiş, ardından o öğrenci hakkında en çok kayıtsızlık sözcüğünü kullanmış ve öğrenciyi daha yabancı ve daha çaresiz olarak derecelendirmiştir. YZ’ye başvurma yolunun akran yargısı, yukarıda belgelenen gizlemeyi pekiştirir; bu nedenle açıklama normları yalnızca dürüstlük politikasına değil SEL tasarımına aittir.
+
+### Süreklilik, zihniyet ve verimli zorlanma
 SEL öğrenmenin çaba gerektiren boyutuyla örtüşür. [[framing-5-percent-problem-teachers-persistence|%5 probleminin çerçevelenmesi]], motivasyon/bağlılık, bilişsel engeller, zorluk karşısında dayanıklılık ve bağlantıyla şekillenen eğitim teknolojisinde yinelenen bir sorun olarak düşük öğrenci sürekliliğini tanımlar. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero ve ark.]], çabanın yerine geçen YZ’nin eğitimin inşa ettiği yetileri aşındırdığı konusunda uyarır — [[metacognition]] ve [[cognitive-offloading|aşırı güven]] yerine verimli zorlanma değeriyle uyumludur.
 
 ## Eğitimciler ve öğretim tasarımı için çıkarımlar
@@ -95,6 +92,16 @@ SEL öğrenmenin çaba gerektiren boyutuyla örtüşür. [[framing-5-percent-pro
 ### İlgili kavramlarla bağlantılar
 
 SEL, [[ai-literacy]] ile (onu ilişkisel ve etik kılan bir tamamlayıcı olarak), [[affective-computing]] ve [[well-being]] ile (YZ’nin duygusal boyutları), [[self-regulated-learning]] ile (öz yönetim ve çaba düzenlemesi), [[self-efficacy]] ve [[motivation]] ile ([[student-ai-interaction|YZ etkileşimini]] dengeleyen öğrenen inançları), [[agency]] ile (bağımlılığa karşı öğrenen denetimini koruma), [[ethics]] ile (sorumlu karar verme), [[teacher-ai-competency]] ile (eğitimcilerin SEL’i destekleme kapasitesi), [[student-experience]] ile (iyi oluş ve aidiyet) ve [[learning-gains]] ile (SEL’in başarıyı desteklediğine dair kanıt) bağlantılıdır. [[higher-ed]] ve [[k-12]] ile, SEL’le güçlendirilmiş YZ okuryazarlığının yetiştirildiği ortamlar olarak ilişkilidir.
+
+## Yaygın yanlış anlamalar
+
+**“SEL ile duygusal zekâ aynı yapıdır.”** İlişkilidirler ve ayrıdırlar: SEL/SEC bir yetkinlikler kümesini adlandırır, olumlu etkileşim için düşünce, duygu ve eylemleri eşleştirme yetisini; duygusal zekâ ise duyguyu algılama ve yönetme yönündeki bireysel kapasiteyi adlandırır. Bir araç, öğrenenin duygusal öz farkındalığını hiçbir sosyal-duygusal yetkinlik geliştirmeden yükseltebilir ve bir program, duygusal öz algısı değişmemiş öğrencilerde işbirlikçi yetkinlik kurabilir. İkisi farklı biçimde ölçüldüğü için biri için kanıt diğeri için kanıt değildir.
+
+**“Empatik yanıt veren bir YZ öğretmeni sosyal-duygusal öğrenme geliştirir.”** Duygusal yanıt verebilirlik bir sunum özelliğidir; SEL ise bir yetkinlik sonucudur ve ikisi kendiliğinden bağlantılı değildir. Bu literatürün YZ’nin *yerine geçmesi değil tamamlaması* gerektiğini söylediği boyutlar öğrenmenin ilişkisel boyutlarıdır; bu da araçtaki empatiyi kendi başına bir fayda değil, neyin yerine geçtiğine ilişkin bir soru yapar. Sıcak yanıtın dayanıklılık kuran mücadeleyi nasıl azaltabildiğinin mekanizması için [[affective-tutoring|duygusal öğretmenlik]] sayfasına bakın.
+
+**“Düşük süreklilik, teşvikle düzeltilebilecek bir motivasyon sorunudur.”** Süreklilik eğitim teknolojisindeki yinelenen kısıttır, [[framing-5-percent-problem-teachers-persistence|%5 probleminin]] adlandırdığı örüntüdür ve motivasyon ile katılım, bilişsel engeller *ve* zorluk karşısında dayanıklılık tarafından şekillendirilir. Teşvik bu üçünden yalnızca birini ele alır. Çalışma belleğini aşan bir problem yüzünden duran bir öğrenenin güvenceye ihtiyacı yoktur.
+
+**“YZ’nin mevcut olduğunu bilmek öğrencilerin çabaya yatırım yapma biçimini değiştirmez.”** Değiştirebilir ve etki en zayıf öğrenenler için ters yönde işler: [[ai-availability-student-motivation|YZ’nin erişilebilirliği]], özellikle acemiler için çabaya dayalı angajmanın algılanan değerini düşürebilir. Tek başına erişilebilirlik, negatif işaretli bir motivasyon müdahalesidir; bu nedenle SEL’e komşu tasarım, yardımcı bir sistemin varlığını nötr sayamaz.
 
 ## Bağlı kavramlar
 - [[anxiety-and-stress]]
@@ -131,3 +138,5 @@ SEL, [[ai-literacy]] ile (onu ilişkisel ve etik kılan bir tamamlayıcı olarak
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
+
+- [[shastry-gray-empathy-offloading-2026]] — İnsanlar YZ’nin empati verebileceğini düşündüklerinde empatiyi devrediyor (Shastry ve Gray 2026)

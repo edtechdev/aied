@@ -6,7 +6,7 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-10-14T21:45:00-04:00"
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_of: concepts/science-education
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -19,7 +19,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **[[stem-education|Fen eğitimi]]** — öğrencilerin bilimi nasıl öğrendiğinin ve onun nasıl öğretileceğinin incelenmesi ve uygulanması; günümüzde [[physics-education|fizik]], kimya ve [[biology-education|biyoloji]] boyunca üretici YZ (LLM’ler, benzetimler, sanal laboratuvarlar ve YZ puanlaması) tarafından yeniden şekillendirilmektedir. Bu bilgi tabanındaki fen eğitimi makaleleri, temel bir gerginliği müzakere eden bir alanı ortaya koyar: YZ, soru sormaya dayalı öğrenmeyi (inquiry), yanlış kanı düzeltmesini ve ölçekte değerlendirmeyi gösterilebilir biçimde destekler, öte yandan değeri öğretim tasarımına bağlıdır ve [[cognitive-offloading|aşırı güven]], halüsinasyon ve insanlıktan uzak, kâr odaklı öğrenmenin gerçek risklerini taşır.
+> **[[science-education|Fen eğitimi]]** — öğrencilerin bilimi nasıl öğrendiğinin ve onun nasıl öğretileceğinin incelenmesi ve uygulanması; günümüzde [[physics-education|fizik]], kimya ve [[biology-education|biyoloji]] boyunca üretici YZ (LLM’ler, benzetimler, sanal laboratuvarlar ve YZ puanlaması) tarafından yeniden şekillendirilmektedir. Bu bilgi tabanındaki fen eğitimi makaleleri, temel bir gerginliği müzakere eden bir alanı ortaya koyar: YZ, soru sormaya dayalı öğrenmeyi (inquiry), yanlış kanı düzeltmesini ve ölçekte değerlendirmeyi gösterilebilir biçimde destekler, öte yandan değeri öğretim tasarımına bağlıdır ve [[cognitive-offloading|aşırı güven]], halüsinasyon ve insanlıktan uzak, kâr odaklı öğrenmenin gerçek risklerini taşır.
 
 ## Düşünülmesi Gerekenler
 
@@ -62,6 +62,20 @@ YZ puanlaması, yüksek riskli çalışmalarda hızla ilerlemektedir. [[ai-gradi
 
 [[llm-benchmark-secondary-science-topics-2026|Schroeder ve ark. (2026)]], genel modellerin fen içeriğinin ta kendisini ne kadar iyi hâlleri geldiğini sorar: ortaokul (1.078 madde) ve lise (1.150 madde) için NGSS uyumlu madde kümelerinde, dokuz açık ağırlıklı model çoğunlukla %90'ı aştı, model boyutu doğrulukla ilgisizdi ve bir fen öğretmeni, örneklenen 240 maddeden 236'sını (%98,3) uyumlu buldu; diyagramların, veri yorumlamasının ve matematiksel gösterimin yokluğunu işaret etti — yalnızca metin maddeleri her NGSS performans beklentisini çalıştıramaz. Yüksek madde zorluğu ve düşük ayırt edicilik, maddelerin iyileştirilmeye ihtiyacı mı yoksa ortaöğretim feni bu model sınıfı için çözümlenebilir mi hâline mi geldiği sorusunu açık bırakır ve yazarlar, eksik standardın çok turlu, kanıta dayalı geri bildirim olduğunu belirtir.
 
+Kazancı erişimin kendisi değil yapılandırılmış erişim üretir: takım tarafından bildirilen büyüme sınırsız bireysel erişim altında ortalama %17 iken, erişim yapılandırıldığında %34 ve %31 olmuş ve bu aynı zamanda daha fazla akran tartışmasını korumuştur ([[ai-university-physics-education-review-2026|Malikova ve ark., 2026]]).
+
+Üç gruplu bir iklim sosyo-bilimsel çalışmasında YZ’nin katkısını yalıtan araştırma, yapılandırılmış sorgulamasına bir YZ ortağı eklenen öğrencilerin yalnızca sorgulama yapan akranlarını karar vermede geçtiğini (d = 0,69) bulmuştur; en büyük kazanımlar izleme ve uyarlanabilir yönetimde görülürken veri toplama tüm koşullarda eşit biçimde iyileşmiştir ([[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]]).
+
+GenAI ve güdülenme üzerine 42 çalışmalık bir meta-analizde en küçük konu alanı etkisi fende görülmüştür (g = 0,109, %95 GA [−0,107, 0,325], k = 3); aralığı sıfırı kesen tek alan budur, dolayısıyla havuzlanmış kanıt GenAI’nin özellikle fendeki [[motivation|motivasyonel]] gerekçesini desteklemez ([[genai-learning-motivation-meta-analysis-2026|Fang ve ark. (2026)]]).
+
+Bir çalışma değil bir çerçeve olarak [[zhai-science-literacy-generative-ai-coherence-2026|Zhai ve ark. (2026)]] hedefi yeniden çerçeveler: bilim kariyerlerinde yetkinlik için Vizyon I fen okuryazarlığı, gündelik ve yurttaşlık yaşamında bilim için Vizyon II ve topluluk ile toplum ölçeğinde bilgi ve eylem için Vizyon III. [[generative-ai|üretken YZ’nin]] fen sınıflarında yerini ancak müfredat, öğretim ve değerlendirmeyi bu vizyonlardan biriyle tutarlı kıldığında kazandığını ve alanın kalıcı sorununun, standartlar açıklama ve araştırma isterken terminoloji hatırlamayı ödüllendiren testler olduğunu savunurlar.
+
+## Yaygın yanlış anlamalar
+
+- **“Fen eğitiminde YZ’nin nedensel kanıtı yoktur.”** GCSE fen bilimlerinde bir YZ revizyon platformunun **dört haftalık rastgele değerlendirmesi**, **Hedges’in g = 0,33** düzeyinde nedensel bir tahmin verir ve etkinin derse göre farklılaştığına dair **hiçbir kanıt yoktur**. Etki mütevazıdır ve nedenseldir.
+- **“Öğrencilere erişim verin, kazanımlar gelir.”** Kazancı erişimin kendisi değil **yapılandırılmış erişim** üretir: takım tarafından bildirilen büyüme **sınırsız bireysel erişim altında ortalama %17 iken, erişim yapılandırıldığında %34 ve %31** olmuştur. Müdahale, yapının kendisiydi.
+- **“Bilimsel benzetim özel yazılım gerektirir.”** **Dört öğeli bir doğal dil istek metni**, **elle denetlenen artırılmış gerçeklik fizik benzetimi** üretebilir. Benzetim yazmanın önündeki engel istek metni tasarımına inmiştir; bu da gereken beceriyi programlamadan olgunun belirtilmesine kaydırır.
+
 ## Bağlı kavramlar
 
 - [[stem-education]]
@@ -74,6 +88,10 @@ YZ puanlaması, yüksek riskli çalışmalarda hızla ilerlemektedir. [[ai-gradi
 - [[generative-ai]]
 
 ## Bağlı makaleler
+
+- [[zhai-science-literacy-generative-ai-coherence-2026]] — Fen okuryazarlığını müfredat, öğretim ve değerlendirme arasında tutarlılık olarak ele alan çerçeve bölümü (Zhai ve ark. 2026)
+- [[ai-university-physics-education-review-2026]] — Bir üniversite fiziği YZ derlemesinde yapılandırılmış takım erişimi, sınırsız bireysel erişimden daha iyi performans gösterdi
+- [[genai-learning-motivation-meta-analysis-2026]] — Motivasyonel aralığı sıfırı kesen tek alan (g = 0,109, k = 3)
 
 - [[ai-methodologies-science-education-research-2026]] — YZ yöntemlerinin fen eğitimi araştırmasını nasıl dönüştürebileceğine ilişkin yansıtmak için yedi aşamalı epistemik yineleme çerçevesi (Martin ve ark., 2026)
 - [[ai-science-chemistry-education-systematic-review-2025]] — Fen ve kimya eğitiminde YZ’nin sistematik derlemesi
