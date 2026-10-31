@@ -1,6 +1,7 @@
 ---
 title: "Recupero, spaziatura e interleaving"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -11,13 +12,17 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -88,6 +93,16 @@ L'inclusione dell'interleaving qui poggia quindi sulla stessa famiglia teorica d
 - **Limiti di strumentazione e modellazione.** I modelli di [[knowledge-tracing]] nel corpus falliscono esattamente dove le decisioni di spaziatura ne hanno bisogno, e gli autori attribuiscono i successi passati all'adattamento retrospettivo sul dataset completo anziché a una validazione realistica per il dispiegamento. La qualità delle flashcard del compagno bilingue non è verificata rispetto alla ground truth, senza alcuno strato automatizzato di fact-checking, e non ha condotto alcuno studio di esiti.
 - **L'interleaving non ha essenzialmente alcuna evidenza diretta qui.** Come detto sopra, il corpus non contiene alcun confronto blocking contro interleaved, soltanto una simulazione in cui Interleaving è una strategia selezionabile tra diverse altre.
 - **Popolazioni oggetto e contenuti.** La base di evidenza si concentra sull'[[higher-ed|istruzione superiore]], su materiale STEM e di statistica, e sulle distinzioni fatto–abilità tratte da geometria e regressione multipla; la generalizzazione alle scuole [[k-12|K-12]], alle [[humanities-education|discipline umanistiche]] e alla scrittura, e alle classi non occidentali non è stabilita da questi studi.
+
+## Idee sbagliate comuni
+
+**"Un interrogare più efficace dell'IA produce una ritenzione migliore."** Produce un lavoro migliore. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] ha rilevato che un interrogare più profondo dell'LLM migliorava la qualità del compito valutata in modo indipendente (**β = 6,27, p = ,006**) mentre aveva un'**associazione nulla con il ricordo al post-test immediato (β = −0,014, p = ,728)**, con i guadagni di ricordo guidati invece dalla conoscenza di partenza. La qualità dell'artefatto e la durevolezza della memoria sono esiti diversi, e un dialogo migliore muove il primo senza muovere il secondo.
+
+**"Esiste un unico formato di pratica migliore."** Il formato dipende da ciò che si sta imparando. Un'interazione contenuto–trattamento (**β = 0,41, p = ,038, d = 0,38**) mostra che il **puro test di pratica produceva guadagni maggiori per i fatti**, mentre la **pratica integrata con esempi produceva guadagni maggiori per le abilità**. Prescrivere la pratica di recupero per tutto, o gli esempi svolti per tutto, sbaglia metà del materiale.
+
+**"La pratica di recupero significa quiz, e qualsiasi quiz vale."** Il meccanismo è produrre una risposta dalla memoria anziché riconoscerne una, ed è per questo che un compito di riconoscimento a scelta multipla è una versione più debole della stessa attività. Un'IA che genera infiniti item di riconoscimento ha generato attività con il nome giusto e il meccanismo sbagliato.
+
+**"L'IA può erogare fedelmente queste tecniche, dato che sono ben specificate."** Può anche sconfiggerle in silenzio. La spaziatura richiede che il sistema trattenga il materiale che è più capace di fornire su richiesta, e il recupero richiede che non risponda — quindi l'efficacia della tecnica dipende da vincoli che un assistente accomodante non ha alcun incentivo a imporsi.
 
 ## Concetti collegati
 

@@ -1,6 +1,7 @@
 ---
 title: Realtà virtuale e aumentata
 created: "2026-10-14T22:25:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -8,13 +9,17 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -35,6 +40,8 @@ ai_assist:
 La realtà virtuale e aumentata è una **modalità**, non un modello: è lo strato attraverso cui un ambiente di apprendimento raggiunge chi apprende. Questo la colloca su un asse diverso dalla [[simulation]], che è ciò che viene modellato in primo luogo. Le due sono spesso confuse, perché gli ambienti immersivi sono veicoli di erogazione comuni per le simulazioni, ma variano indipendentemente — un simulatore di paziente su desktop è simulazione senza VR, e una sovrapposizione AR su uno strumento reale è VR senza simulazione. Tenere distinti gli assi conta per il design: decidere di rendere la pratica priva di rischi è una decisione diversa dal decidere di renderla incorporata, e le due portano costi diversi, modalità di fallimento diverse ed evidenze diverse. La VR/AR è il **livello di erogazione** per una simulazione e una parente stretta del [[game-based-learning|game-based learning]]; operativizza resoconti [[embodied-learning|incorporati]] e [[situated-learning|situati]] dell'apprendimento, e si colloca dentro la pratica [[experiential-learning|esperienziale]] e [[active-learning|attiva]].
 
 L'IA modella ormai questa modalità da entrambe le estremità. **Autora** contenuti immersivi, perché l'[[generative-ai|IA generativa]] converte un prompt strutturato in linguaggio naturale in un artefatto AR o VR eseguibile, facendo collassare la competenza di programmazione specialistica che un tempo vincolava la produzione. E **abita** l'ambiente, in quanto [[agentic-ai|agenti]], [[pedagogical-agent|agenti pedagogici]] e [[rag|conoscenza di dominio recuperata]] forniscono guida al suo interno — a mani libere, in tempo reale, ancorati a fonti che chi apprende non può consultare mentre indossa un visore.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang e Ju (2026)]] sperimentano una classe capovolta potenziata da IA-VR con giovani apprendenti di inglese come lingua straniera e riportano guadagni nel rendimento in inglese, nell'autoregolazione metacognitiva e nella motivazione, con l'alfabetizzazione tecnologica che modera quanto gli studenti ricavano dalla componente immersiva.
 
 ## Cosa aggiunge la modalità
 
@@ -71,6 +78,12 @@ Il risultato negativo più netto nella base di conoscenza proviene da un impiego
 Laddove la pratica immersiva è usata per abilità interpersonali e procedurali, il fattore limitante non è la fedeltà visiva ma l'autenticità percepita. Una revisione [[mixed-methods-research|metodi misti]] della simulazione infermieristica potenziata dall'IA (19 studi, N = 1.253) ha trovato l'IA efficace per la conoscenza cognitiva e gli esiti affettivi ma incoerente per le abilità psico-motorie complesse, e ha nominato il motivo: un **divario di autenticità** che copre risonanza emotiva, riconoscimento degli indizi non verbali, e le dimensioni tattili e di [[summative-assessment|esame]] fisico. La sua raccomandazione pratica è un **continuum di simulazione a gradini** — l'IA si adatta bene a obiettivi altamente strutturati come la comunicazione di base e la raccolta anamnestica, mentre gli scenari psico-motori avanzati ed emotivamente complessi appartengono ai pazienti standardizzati umani e al tirocinio clinico. L'instabilità tecnica aggrava il problema: i ritardi nel riconoscimento vocale iniettano [[cognitive-offloading|carico cognitivo]] e ansia estranei, il che rende stabilità e latenza leve di design anziché dettagli di implementazione.
 
 La stessa logica spiega perché la presenza non è automaticamente positiva. La nausea da movimento, l'incoerenza dell'interfaccia utente, il costo dell'hardware e l'accesso diseguale ai dispositivi decidono chi possa usare un ambiente immersivo del tutto, ed è per questo che le questioni di [[equity-in-ai-education|equità]] della modalità si collegano all'[[accessibility|accessibilità]] e all'[[inclusive-learning|apprendimento inclusivo]] anziché stare in disparte da esse.
+
+## Idee sbagliate comuni
+
+- **"Sentire il fenomeno significa comprenderlo."** Un pilota ha rilevato che gli studenti riferivano di **sentire** lunghezza d'onda e ampiezza attraverso un gesto della mano più fortemente che attraverso uno slider — ma **misurava la percezione, non il rendimento**. Il senso vissuto è l'affordance, e se abbia prodotto comprensione è un test separato.
+- **"Punteggi di usabilità elevati validano uno strumento VR educativo."** In **una sessione di un'ora con 10 studenti** su un Meta Quest 3, lo studio riportava **buona usabilità sulla System Usability Scale e nausea da simulazione minima**. Usabilità e comfort sono prerequisiti e nessuno dei due è una misura dell'apprendimento.
+- **"L'accordo degli studenti è prova dell'affordance."** Con **29 studenti di secondo anno di imaging medico**, tutti e 29 **concordavano che il gesto li aiutava a "sentire" cos'è la lunghezza d'onda (media 4,52)**. L'accordo unanime su una sensazione è autovalutazione dell'esperienza, e l'affermazione sull'affordance richiede un esito che non dipenda dal giudizio dello studente sulla propria comprensione.
 
 ## Concetti collegati
 

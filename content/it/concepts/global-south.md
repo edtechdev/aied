@@ -1,6 +1,7 @@
 ---
 title: Sud globale
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -8,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/global-south"
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -16,11 +17,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Il **Sud globale** indica i paesi di Africa, Asia, America Latina e Oceania che sono spesso emarginati sul piano economico, politico e storico rispetto al Nord globale. Nella [[ai-education|ricerca sull'IA nell'educazione]] [[research-methods-aied|scientifica]], i contesti del Sud globale sono sempre più riconosciuti come sottorappresentati nella base di evidenze, eppure pongono questioni distintive su [[equity-in-ai-education|equità]], [[culturally-relevant-pedagogy|rilevanza culturale]], vincoli di risorse e dominio epistemico dei dati di addestramento occidentali e anglofoni.
+> **Sud globale** — i paesi di Africa, Asia, America Latina e Oceania che sono spesso emarginati sul piano economico, politico e storico rispetto al Nord globale. Nella [[ai-education|ricerca sull'IA nell'educazione]] [[research-methods-aied|scientifica]], questi contesti sono sempre più riconosciuti come sottorappresentati nella base di evidenze, eppure pongono questioni distintive su [[equity-in-ai-education|equità]], [[culturally-relevant-pedagogy|rilevanza culturale]], vincoli di risorse e dominio epistemico dei dati di addestramento occidentali e anglofoni.
 
 ## Domande da considerare
 
@@ -58,6 +63,14 @@ La ricerca mainstream sull'IA e sulle tecnologie educative è stata storicamente
 Prestare attenzione ai contesti del Sud globale richiede di andare oltre l'assunto che i modelli e i benchmark occidentali si trasferiscano direttamente. Richiede dataset fondati localmente, [[pedagogy]] culturalmente rilevante, standard di valutazione centrati sulla comunità e una ricerca che tratti le epistemologie vissute e comunitarie degli studenti come autorevoli — in linea con framework come l'apprendimento di IA basato sulla comunità e la ricerca sull'[[technology-acceptance-model|accettazione della tecnologia]] adattata alle condizioni locali.
 
 Il bilancio dello scaling fa parte di quel quadro, ed è sobrio. I programmi che funzionano su scala pilota smettono frequentemente di funzionare quando i governi li gestiscono: il programma keniota che ha prodotto guadagni sostanziali sotto implementazione non governativa non ha mostrato alcun guadagno rilevabile su scala governativa (Bold et al.), le dimensioni dell'effetto tendono a diminuire con la crescita dei programmi (Vivalt), e la qualità dell'implementazione si diluisce con il moltiplicarsi dei siti (Al-Ubaydli, List & Suskind). Il precedente dell'America Latina è il programma peruviano One Laptop per Child — circa 800.000 computer portatili distribuiti senza alcun effetto rilevabile sulla [[math-education|matematica]] o sulla lettura — da cui si è tratto l'insegnamento che l'accesso alla tecnologia non è istruzione. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] aggiungono una lezione di rendicontazione alla lezione dello scaling: nell'episodio di El Salvador del 2026 un pilota di tutoraggio con IA in 171 scuole è stato annunciato come comparabile a Germania e Svezia, mentre lo stesso campione nazionale rappresentativo del PISA 2025 del paese non mostrava alcun movimento in due delle tre materie, e i dati del pilota erano troppo esigui (7,0 studenti valutati per scuola contro 25,4 a livello nazionale) per escludere la selezione come spiegazione. Per i sistemi del Sud globale che adottano l'IA su larga scala l'implicazione è duplice: l'evidenza che una riforma funzioni riguarda di solito le componenti che essa raggruppa piuttosto che la tecnologia nel suo titolo, e un dispiegamento graduale progettato prima dell'implementazione individua gli effetti a costo quasi nullo — il che conta di più dove la connettività detta comunque la scansione temporale.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi e van der Merwe (2026)]] sostengono, a partire da un'aula sudafricana di Grade 9, che una politica istituzionale improntata alla restrizione preclude le condizioni in cui l'IA potrebbe estendere anziché sostituire gli insegnanti in condizioni di scarsità pedagogica, e che i dati di interazione generati dai discenti sono tenuti sotto regimi di governance stranieri.
+
+## Idee sbagliate comuni
+
+- **"I contesti a basse risorse mancano di un framework etico sull'IA e ne serve uno importato."** Gli insegnanti STEAM della secondaria in servizio in un contesto a basse risorse **ragionano sull'etica dell'IA attraverso l'identità professionale, le realtà della classe e le norme culturali anziché attraverso principi formali**. Il ragionamento esiste ed è situato; un elenco universale di principi vi si trasferisce male.
+- **"Il tipo di governance predice l'integrazione dell'IA nelle università."** Un'analisi comparativa dei contenuti di **45 università nigeriane** (federali, statali e private) ha rilevato che l'integrazione dell'IA è predetta dall'**età dell'istituzione e dalla posizione geografica — non dal tipo di governance**. L'assunto che le istituzioni pubbliche e private divergano è contraddetto.
+- **"Il divario digitale è la barriera principale."** Uno studio di caso [[qualitative-research|qualitativo]] su **21 studenti universitari con disabilità visiva in tre università palestinesi** ha rilevato che la GenAI colma simultaneamente le barriere **digitali, geografiche e socioeconomiche**. Le barriere sono stratificate, e trattare l'accesso come l'unico ostacolo lascia intatte le altre.
 
 ## Concetti collegati
 

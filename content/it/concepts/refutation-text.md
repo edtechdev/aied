@@ -1,6 +1,7 @@
 ---
 title: Testo di confutazione
 created: "2026-10-14T22:35:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -8,13 +9,17 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +66,16 @@ I testi di confutazione sono un membro del kit di strumenti del cambiamento conc
 ### Implicazioni pratiche
 
 Per gli educatori, i testi di confutazione restano un modo affidabile e a bassa barriera per correggere misconception ostinate. Per chi integra l'IA, l'evidenza suggerisce: (1) usare l'IA per *generare* contenuti di confutazione/cambiamento concettuale efficaci su larga scala; (2) ove possibile, erogare la confutazione attraverso un dialogo personalizzato con l'IA per un coinvolgimento immediato e un cambiamento di convinzione più forti; (3) aspettarsi che le misconception generate dall'IA siano pedagogicamente utili quando si usa una discussione strutturata per affrontarle; e (4) progettare per lo studente — gli effetti della confutazione possono concentrarsi negli studenti ad alto rendimento ed essere moderati da epistemologia e metacognizione, quindi lo scaffolding e il follow-up contano.
+
+## Idee sbagliate comuni
+
+**«Correggere una misconception significa presentare la risposta corretta.»** Se fosse così, le misconception non sopravvivrebbero all'istruzione, e invece lo fanno regolarmente. Le misconception non sono lacune ma convinzioni attivamente sostenute che resistono all'istruzione ordinaria: chi apprende ha già una spiegazione funzionante e non riceve quella nuova come un sostituto, la riceve come un'affermazione concorrente, e spesso scarta quella meno familiare.
+
+**«Il testo di confutazione consiste semplicemente nello scrivere «questo è sbagliato» prima dell'informazione corretta.»** La struttura conta — la misconception va enunciata come la tiene lo studente, affrontata direttamente, e solo allora spostata. Una correzione nuda nomina una convinzione che chi apprende può respingere come versione caricaturale della propria, ed è per questo che la confutazione deve riprodurre la sua intuizione anziché la versione ripulita.
+
+**«Più informazione sulla concezione corretta risolve la resistenza.»** Il volume di informazione corretta è proprio l'intervento che già fallisce. Il cambiamento concettuale richiede che il modello esistente di chi apprende sia reso esplicito e trovato insufficiente, che è una mossa didattica diversa dall'aggiungere prove.
+
+**«Misconception e ignoranza ordinaria richiedono lo stesso rimedio.»** Ne richiedono di diversi: l'ignoranza si affronta fornendo conoscenza, mentre una misconception va prima scalzata. Trattare la seconda come la prima è il motivo per cui una lezione ben spiegata può lasciare intatto il modello originale dello studente.
 
 ## Concetti collegati
 - [[pedagogical-patterns]] — Sequenze di confutazione, inclusi due risultati direttamente in conflitto

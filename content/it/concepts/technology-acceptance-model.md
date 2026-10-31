@@ -1,6 +1,7 @@
 ---
 title: "Modelli di adozione della tecnologia"
 created: "2026-10-14T22:58:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -9,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -17,11 +18,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-I **modelli di adozione della tecnologia** sono i framework teorici usati per spiegare e predire perché individui e istituzioni accettano, adottano e continuano a usare nuove [[ai-technologies|tecnologie]] — e, nella ricerca sull'IA nell'educazione, perché studenti, docenti e organizzazioni adottano strumenti di [[generative-ai|IA generativa]]. Piuttosto che un singolo modello, questa è una famiglia di teorie che condividono radici nella ricerca sui sistemi informativi e nella psicologia sociale, di cui il **Technology Acceptance Model (TAM)** è il più ampiamente applicato. La base di conoscenza tratta questi modelli insieme perché gli studi sull'adozione della GenAI li combinano di routine (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) e perché i loro costrutti centrali — utilità percepita, facilità d'uso percepita e influenza sociale — ricorrono in quasi ogni studio sull'accettazione dell'IA in educazione.
+I **modelli di adozione della tecnologia** sono i framework teorici usati per spiegare e predire perché individui e istituzioni accettano, adottano e continuano a usare nuove [[ai-technologies|tecnologie]] — e, nella ricerca sull'[[ai-education|IA nell'educazione]], perché studenti, docenti e organizzazioni adottano strumenti di [[generative-ai|IA generativa]]. Piuttosto che un singolo modello, questa è una famiglia di teorie che condividono radici nella ricerca sui sistemi informativi e nella psicologia sociale, di cui il **Technology Acceptance Model (TAM)** è il più ampiamente applicato. La base di conoscenza tratta questi modelli insieme perché gli studi sull'adozione della GenAI li combinano di routine (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) e perché i loro costrutti centrali — utilità percepita, facilità d'uso percepita e influenza sociale — ricorrono in quasi ogni studio sull'accettazione dell'IA in educazione.
 
 ## Domande da considerare
 
@@ -35,29 +40,25 @@ I **modelli di adozione della tecnologia** sono i framework teorici usati per sp
 ## Introduzione
 
 **Evidenza [[meta-analysis-systematic-review|meta-analitica]] sull'adozione dell'IA.** Una [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analisi sull'adozione dell'IA da parte degli studenti terziari]] (233 correlazioni, 32 studi, N = 16.977) rileva correlazioni positive moderate per i fattori individuali (r = 0,57), contestuali (r = 0,53) e tecnologici (r = 0,50), con le intenzioni d'uso come predittore più forte (r = 0,64) e rischi percepiti/fiducia più deboli del previsto. La sua critica centrale è che il campo **si affida in modo eccessivo ai framework tradizionali TAM/UTAUT** che precedono i sistemi intelligenti moderni e trascura i fattori specifici dell'IA come l'antropomorfismo e l'etica — sostenendo che questi vuoti contano per il progresso della teoria e delle politiche basate sulle evidenze.
+- **La facilità d'uso ha smesso di predire una volta che il campione aveva già adottato.** Wei, Zhang e Heo (2026) estendono il TAM su 526 studenti di design con uso pregresso di AIGC e trovano che la facilità d'uso percepita era l'unica percezione tecnologica non significativamente associata all'autoefficacia, mentre conoscenza, fiducia, affidabilità, utilità, intelligenza e ansia lo erano ciascuna ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). L'intenzione d'uso era fortemente associata alla dipendenza riportata in dati trasversali.
 
 ## La famiglia dei modelli
 
 ### Technology Acceptance Model (TAM)
-
 Proposto da Davis (1989), il TAM spiega l'adozione attraverso due credenze centrali — **Utilità Percepita (PU)** e **Facilità d'Uso Percepita (PEOU)** — che plasmano l'**Atteggiamento (ATT)** dei fruitori, poi l'**Intenzione Comportamentale (BI)**, poi l'uso effettivo. Ancorato nella teoria dei sistemi informativi (adattata dalla Theory of Reasoned Action), il TAM è diventato il framework dominante per l'adozione della [[generative-ai|GenAI]] in educazione. Nella ricerca educativa sulla GenAI è frequentemente esteso con [[ai-literacy|alfabetizzazione in IA]], [[trust|fiducia]], influenza sociale, [[self-determination-theory|autodeterminazione]] e **uso critico** per catturare la complessità dell'adozione al di là del semplice tasso di adozione.
 
 ### UTAUT / UTAUT2 / UTAUT3
-
 La **Unified Theory of Acceptance and Use of Technology** consolida il TAM con otto modelli precedenti in quattro determinanti centrali — aspettativa di performance, aspettativa di sforzo, influenza sociale e condizioni facilitanti (con UTAUT2 che aggiunge motivazione edonica, valore del prezzo e abitudine; UTAUT3 che aggiunge l'innovatività personale). La base di conoscenza applica UTAUT alle popolazioni di docenti e studenti: i [[mathematics-teachers-chatbot-motivation-2026|docenti austriaci di matematica della secondaria]] (UTAUT con 448 docenti), i [[pre-service-science-teachers-ai-perceptions-2026|docenti di scienze in formazione in Ghana]] (UTAUT + TPB), e gli [[tian-genai-learning-adoption-pathways-2026|studenti in Lesotho]] (UTAUT3 + ARCS, usando PLS-SEM e fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] estendono UTAUT2 con l'IA spiegabile (Random Forest, SHAP, NCA, IPMA, K-Means) su 522 studenti universitari, rilevando che l'**abitudine** è il predittore più forte dell'intenzione verso ChatGPT e mostrando che l'**aspettativa di sforzo è una condizione necessaria piuttosto che un driver lineare** — un risultato visibile solo quando l'XAI integra la regressione.
 
 ### Theory of Planned Behavior (TPB)
-
 La TPB spiega l'intenzione attraverso l'atteggiamento, le norme soggettive e il controllo comportamentale percepito. È frequentemente abbinata a TAM/UTAUT negli studi sull'adozione dell'IA — per es. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrano TAM, TPB, UTAUT e il framework FATE ([[bias-mitigation|Equità]], Responsabilità, Trasparenza, Etica) per modellare i driver comportamentali ed [[ethics|etici]] dell'adozione di ChatGPT da parte degli studenti.
 
 La ricerca sull'adozione di solito si ferma all'intenzione; un'estensione della TPB che ha invece misurato il ritardo nonostante un'intenzione genuina ha rilevato che il controllo comportamentale percepito è il predittore negativo più forte della procrastinazione nell'apprendimento assistito dalla GenAI (β = −0,331) su 1.243 studenti universitari, con il legame intenzione–ritardo significativo solo a livelli da moderati ad alti di ansia da GenAI nell'apprendimento ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### Diffusion of Innovation (DOI)
-
 La teoria DOI di Rogers spiega l'adozione come un processo sociale in cui le innovazioni si diffondono attraverso le popolazioni nel tempo, enfatizzando gli attributi dell'innovazione (vantaggio relativo, compatibilità, complessità, possibilità di prova, osservabilità) e le categorie di adottanti. Appare nelle analisi [[governance|istituzionali]] della base di conoscenza, per es. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combinano il framework Technology–Organization–Environment (TOE) con DOI per modellare l'adozione organizzativa dell'IA nelle università saudite.
 
 ### Technology–Organization–Environment (TOE)
-
 Il TOE inquadra l'adozione come plasmata da contesti tecnologici, organizzativi e ambientali — un complemento al TAM/UTAUT a livello individuale per studiare l'adozione istituzionale (si veda [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
 ## Applicazioni nella base di conoscenza
@@ -86,7 +87,15 @@ Il focus cognitivo del TAM sotto-cattura anche le dimensioni emotive e relaziona
 
 **La percezione del rischio come estensione specifica per dimensione.** Un'indagine su 814 studenti universitari cinesi ([[risk-perception-genai-perceived-benefits-2026|Du, Ning, Shi & Chen (2026)]]) piega la Cognitive Appraisal Theory e la Protection Motivation Theory nel TAM/UTAUT2 per chiedere non se gli studenti adottino la [[generative-ai|IA generativa]], ma che cosa ne ricavino. L'assunto della famiglia dei modelli secondo cui il rischio sopprime uniformemente l'adozione non sopravvive: la percezione del rischio si scinde in dimensioni informative, di sicurezza, tecniche, [[ethics|etiche]] e legali che muovono i benefici in direzioni opposte. Il rischio di sicurezza — una minaccia che gli studenti credono di poter gestire attraverso pratiche di [[privacy|privacy]] — era *positivamente* associato all'assistenza accademica percepita e allo sviluppo delle abilità, in coerenza con il coping focalizzato sul problema, mentre il rischio informativo, che chi apprende non può facilmente verificare, erodeva il supporto psicologico ed emotivo, i benefici per la vita quotidiana e per il tempo libero attraverso l'evitamento. Le analisi di soglia mostravano inoltre effetti che cambiano segno al di là di punti di taglio specifici per dimensione, e l'esperienza d'uso contava indipendentemente: gli studenti con più di un anno di uso della GenAI riportavano benefici più alti in quattro domini. L'implicazione pratica per la ricerca sull'accettazione è che il «rischio percepito» è un costrutto troppo grossolano per essere modellato — la controllabilità, non la mera presenza del rischio, è ciò che determina se gli studenti si impegnano o si ritirano.
 
+Una recente estensione inverte la direzione abituale, collocando convinzioni motivazionali specifiche della materia a monte delle percezioni del TAM anziché accanto a esse. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]] riportano il valore di utilità che predice l'utilità percepita a β = 0,43 e l'aspettativa di successo che predice la facilità d'uso a β = 0,39, mentre i percorsi centrali del TAM si attenuano ma restano significativi.
+
 Il legame del rischio con l'uso dipende anche dal sistema: tra i 49 sistemi TALIS 2024 che hanno somministrato gli item, l'utilità percepita dell'IA era positivamente associata all'uso dell'IA in tutti i 49, mentre il rischio percepito era negativamente associato in 40 e positivamente in nove ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
+
+## Idee sbagliate comuni
+
+- **"I costrutti del TAM spiegano l'adozione."** [[socio-cognitive-genai-adoption-engineering-2026|Asag e Al Mamun]] hanno integrato TAM e UTAUT per studenti di ingegneria in Bangladesh e spiegato **il 64% della** varianza. Sostanziale e incompleto insieme: circa un terzo di ciò che guida l'adozione sta fuori dai costrutti classici dell'accettazione.
+- **"I modelli di accettazione non richiedono modifiche di dominio."** Aggiungere l'**autonomia artificiale percepita** — quanto indipendentemente gli insegnanti credono che la GenAI possa svolgere un compito didattico assegnato — e l'**avversione al rischio** ai costrutti classici ha cambiato il modello in modo sostanziale. I costrutti originali erano pensati per strumenti senza agentività, e la GenAI ha un'agentività percepita.
+- **"Una stima di adozione meta-analitica descrive qualsiasi popolazione."** La [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analisi sugli studenti terziari]] è la stima a livello di popolazione; il risultato di ingegneria che spiega il 64% è una popolazione specifica. Importare l'una sull'altra presuppone una stabilità che le evidenze non stabiliscono.
 
 ## Concetti collegati
 
@@ -106,6 +115,7 @@ Il legame del rischio con l'uso dipende anche dal sistema: tra i 49 sistemi TALI
 
 ## Articoli collegati
 
+- [[high-school-genai-acceptance-tam-physics-2026]] — Subject-specific beliefs placed upstream of the TAM perceptions
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": artificial autonomy and risk aversion extend TAM for teachers (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing AI experiences; psychosocial extension of TAM
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering

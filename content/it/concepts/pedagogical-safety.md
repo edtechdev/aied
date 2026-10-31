@@ -1,6 +1,7 @@
 ---
 title: "Sicurezza pedagogica"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -10,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,6 +74,17 @@ Progetta la sicurezza pedagogica come un requisito misurabile e consapevole dell
 ### Collegamenti con i concetti correlati
 
 La sicurezza pedagogica è lo strato protettivo che collega il [[hallucination-risk|rischio di allucinazione]], la [[rag]], il [[k-12]], l'[[ethics]], la [[governance]], la [[regulation]] e l'[[llm]] con le preoccupazioni a livello di interazione di [[trust]], [[scaffolding]], [[metacognition]] e [[self-regulated-learning|apprendimento autoregolato]]. Opera attraverso l'[[llm-training-and-fine-tuning|addestramento]] e il [[reinforcement-learning|RL]], dipende dalla [[bias-mitigation]] e dall'[[equity-in-ai-education]], ed è motivata dai danni catalogati in [[ai-misuse-learning-harm]] e nelle [[hazra-safetutors-pedagogical-safety-2026|tassonomie del danno dei tutor]].
+- **Il danno ai minori raramente entra dal modello.** In 1.331 incidenti codificati che riguardano l'IA e i minori, il danno si concentrava in categorie rappresentative, legate alla dignità e psicologiche e co-occorreva con fallimenti di dispiegamento, governance e uso improprio anziché con difetti del modello, sicché i filtri per singolo output mancano il percorso dominante ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
+
+## Idee sbagliate comuni
+
+**"I filtri sulla tossicità e la resistenza al jailbreak rendono sicuro un tutor."** La sicurezza convenzionale degli [[llm|LLM]] è necessaria ma non sufficiente per l'educazione. Riguarda ciò che un modello *dirà*; la sicurezza pedagogica riguarda ciò che l'interazione *fa* al discente, compresi fallimenti che nessun classificatore di contenuti può vedere. Un tutor può superare ogni controllo sui contenuti e al contempo erodere sistematicamente l'apprendimento o consolidare la disuguaglianza.
+
+**"Se un sistema si comporta bene in un singolo scambio, è sicuro nell'uso."** Il rischio si accumula lungo i turni: i tassi di danno sono saliti da circa il **18% nelle valutazioni a turno singolo a circa il 78% in quelle a turni multipli**. I benchmark a turno singolo riportano quindi una cifra quattro volte troppo rassicurante rispetto all'interazione che gli studenti hanno davvero, e una suite di red team costruita su prompt isolati certificherà un sistema che fallisce in una sessione di dieci minuti.
+
+**"Il tutor più sicuro è quello che rifiuta di più."** Un sistema che "rifiuta in modo uniforme" può comunque consolidare la disuguaglianza, che è la seconda metà della descrizione del fallimento silenzioso in questa pagina. Il modo di fallire non è soltanto un tutor che risponde correttamente ed erode l'apprendimento; è anche un tutor i cui rifiuti distribuiscono il supporto in modo diseguale tra gli studenti, e una politica di rifiuto indiscriminato scambia un rischio visibile con uno invisibile.
+
+**"Qualunque lavoro di sicurezza a livello di modello è una misura di pubbliche relazioni."** Parte di esso è misurabile. Il lavoro sull'[[llm-unlearning-math-privacy|unlearning matematico]] applica l'unlearning basato sul gradiente per eliminare le informazioni identificative e i contenuti dannosi, riportando l'output di PII allo **0,1%** e i tassi tossici allo **0,0%** preservando la capacità. I controlli a livello di modello sono uno strato di una difesa stratificata — insufficienti da soli, e non nulla.
 
 ## Concetti collegati
 - [[guardrails]] — i meccanismi progettuali che implementano la sicurezza

@@ -1,6 +1,7 @@
 ---
 title: "Partnership pedagogiche"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -9,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -17,11 +18,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Partnership [[pedagogy|pedagogiche]]** (note anche come **studenti come partner** o **SaP**) — un approccio all'insegnamento e all'apprendimento centrato sulla relazione, in cui studenti e docenti lavorano insieme come collaboratori per co-creare curricolo, attività didattiche, [[assessment]], risorse educative aperte e politiche educative, anziché trattare gli studenti come destinatari passivi di un'istruzione progettata dal corpo docente. Radicate nei valori di **rispetto, reciprocità e responsabilità** (Cook-Sather et al., 2014), le partnership pedagogiche riposizionano gli studenti come co-creatori di conoscenza e di innovazione educativa e mettono in discussione le tradizionali dinamiche di potere top-down nell'educazione. Nell'era dell'IA, la partnership è diventata una contro-narrazione chiave rispetto alle visioni deficitarie degli studenti come imbroglioni dell'IA o sue vittime — collocando gli studenti come partner nella co-progettazione delle politiche, degli strumenti e delle pratiche dell'IA.
+> **Partnership [[pedagogy|pedagogiche]]** (note anche come **studenti come partner** o **SaP**) — un approccio all'insegnamento e all'apprendimento centrato sulla relazione, in cui studenti e docenti lavorano insieme come collaboratori per co-creare curricolo, attività didattiche, [[assessment]], [[open-education|risorse educative aperte]] e politiche educative, anziché trattare gli studenti come destinatari passivi di un'istruzione progettata dal corpo docente. Radicate nei valori di **rispetto, reciprocità e responsabilità** (Cook-Sather et al., 2014), le partnership pedagogiche riposizionano gli studenti come co-creatori di conoscenza e di innovazione educativa e mettono in discussione le tradizionali dinamiche di potere top-down nell'educazione. Nell'era dell'IA, la partnership è diventata una contro-narrazione chiave rispetto alle visioni deficitarie degli studenti come imbroglioni dell'IA o sue vittime — collocando gli studenti come partner nella co-progettazione delle politiche, degli strumenti e delle pratiche dell'IA.
 
 ## Domande da considerare
 
@@ -71,7 +76,7 @@ Questi filoni condividono un'affermazione centrale: le persone che vivranno con 
 La partnership pedagogica è correlata a, ma distinta da, diversi concetti vicini:
 
 - **[[agency|Agency del discente]] e [[self-directed-learning|apprendimento autodiretto]]:** la partnership sostiene l'agency del discente dando agli studenti voce su che cosa e come apprendono, e si sovrappone all'apprendimento autodiretto. Tuttavia, la partnership è fondamentalmente *relazionale* — agency e direzione emergono attraverso la relazione docente–studente anziché in isolamento. Alcuni framework concettualizzano questo come un'"agency condivisa" che esiste nella relazione tra studente e docente, non in una delle due parti da sola.
- Anastasia (2026) nomina le otto condizioni che una tale partnership richiede — presenza del docente, fiducia, sicurezza psicologica, dialogo, voce e scelta, feedback significativo, riflessione e responsabilità condivisa — e sostiene che la sola scelta non crea autonomia: gli studenti possono ricevere opzioni pur mancando delle informazioni, della fiducia o della sicurezza psicologica necessarie per esercitarle ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
+- Anastasia (2026) nomina le otto condizioni che una tale partnership richiede — presenza del docente, fiducia, sicurezza psicologica, dialogo, voce e scelta, feedback significativo, riflessione e responsabilità condivisa — e sostiene che la sola scelta non crea autonomia: gli studenti possono ricevere opzioni pur mancando delle informazioni, della fiducia o della sicurezza psicologica necessarie per esercitarle ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning|Apprendimento collaborativo]]:** entrambi implicano il lavorare insieme, ma l'apprendimento collaborativo si riferisce tipicamente a studenti che apprendono *l'uno con l'altro* all'interno di un'attività progettata, mentre la partnership pedagogica centra studenti e personale che collaborano sulla *progettazione* dell'educazione stessa.
 - **[[student-engagement|Coinvolgimento degli studenti]]:** la partnership è una forma profonda di coinvolgimento, ma il coinvolgimento descrive il coinvolgimento di uno studente nell'apprendimento, mentre la partnership descrive un mutato rapporto di potere in cui gli studenti condividono la responsabilità di modellare quell'apprendimento.
 - **[[teacher-role|Ruolo del docente]]:** la partnership ridefinisce il ruolo del docente da autorità unica e custode del sapere a co-progettista e guida intellettuale, senza sminuire la competenza del corpo docente.
@@ -87,6 +92,7 @@ La partnership pedagogica è correlata a, ma distinta da, diversi concetti vicin
 - L'equità nella partnership: quali studenti riescono a partecipare, quali voci sono messe al centro, e come le forme a livello di intera classe rispetto a quelle selettive distribuiscano il beneficio.
 - I vincoli di risorse e istituzionali sulla partnership, inclusa la natura ad alta intensità di tempo della co-progettazione autentica.
 - Come la partnership si relazioni alle pedagogie decoloniali, critiche e [[critical-pedagogy|critiche]] che mettono in discussione le gerarchie tradizionali e mettono al centro molteplici modi di conoscere.
+- **Il mentoring può andare in entrambe le direzioni.** In un programma di 20 borsisti e 15 tirocinanti distribuito su 14 dipartimenti della Columbia, i tirocinanti insegnavano gli strumenti di IA al corpo docente mentre il corpo docente insegnava gli standard disciplinari, e la maggior parte delle coppie si assestava su un modello Traduttore ([[learning-by-collaborating-ai-research-mentorship-2026|Zheng (2026)]]).
 
 ## Implicazioni pratiche
 
@@ -97,6 +103,12 @@ Per docenti e istituzioni che intendano adottare la partnership pedagogica, la r
 3. **Guidare con relazione e fiducia.** La partnership funziona quando fiducia, sicurezza psicologica, dialogo e responsabilità condivisa sono deliberatamente coltivati — non dati per scontati.
 4. **Nell'era dell'IA, invitare gli studenti anziché sorvegliarli.** Co-progettare politiche, strumenti e valutazione dell'IA con gli studenti è insieme più equo e più efficace delle risposte fondate sul deficit.
 5. **Considerare l'equità della partecipazione.** La partnership con l'intera classe offre la partecipazione più ampia; i programmi selettivi devono prestare attenzione a quali studenti sono invitati e inclusi.
+
+## Idee sbagliate comuni
+
+- **"Partnership significa dare più voce agli studenti."** Una partnership pedagogica è una **relazione delimitata e negoziata** con ruoli definiti e obbligo reciproco, non una consultazione. La voce senza un ruolo, un mandato e una quota della decisione non cambia nulla di strutturale.
+- **"La partnership è una postura che si può adottare."** Richiede condizioni istituzionali — tempo, riconoscimento per lo studente partner e un cambiamento che i partner possano davvero influenzare. Una partnership dichiarata senza quelle condizioni riproduce la gerarchia che afferma di interrompere.
+- **"La condivisione del potere non può essere sviluppo del corpo docente."** La tesi della letteratura è che la partnership è sviluppo *perché* cambia la comprensione dell'educatore attraverso la relazione. Inquadrarla solo come beneficio per gli studenti scarta il meccanismo.
 
 ## Concetti collegati
 - [[pedagogy]] — Pedagogie e strategie didattiche

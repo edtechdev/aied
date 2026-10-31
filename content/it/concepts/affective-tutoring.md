@@ -1,6 +1,7 @@
 ---
 title: "Tutoraggio affettivo"
 created: "2026-10-14T22:48:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -9,13 +10,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: "concepts/affective-tutoring"
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -62,6 +67,8 @@ Favero et al. (2025) avvertono che l'[[student-engagement|engagement]] emotivo c
 
 Gli autori sostengono che i rischi emotivi fanno parte di un quadro più ampio di **erosione dell'[[self-efficacy|autoefficacia]], dell'[[agency]] e del [[well-being|benessere]]** quando l'uso dell'IA non è controllato.
 
+**Il rischio ricade anche su chi non apre mai il tutor.** [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] hanno trovato che la disponibilità a fornire supporto emotivo in prima persona cala quanto più si crede che un sistema possa fornirlo, e nel loro secondo esperimento quella credenza era causale: leggere una normale copertura giornalistica sull'IA empatica bastava ad alzare l'offloading, interamente attraverso la capacità percepita. Il loro quarto studio aggiunge un costo sociale che l'inquadratura a livello individuale manca. Detto che uno studente si era rivolto a un chatbot per supporto, i partecipanti dicevano che avrebbero fatto offloading meno che se lo studente si fosse rivolto a un amico. Poi scrivevano meno parole di empatia e più parole di indifferenza su quello studente, e lo valutavano come più estraneo e più disperato. La provvista [[social-emotional-learning|socio-emotiva]] può quindi assottigliarsi attorno al tutor anche quando nessuno che lo usa riporta un cambiamento.
+
 ## Principi di progettazione
 
 1. **I dati affettivi dovrebbero informare, non sostituire, l'autonomia di chi apprende** — il tutor adatta la propria strategia; lo studente conserva il controllo su ciò che divulga
@@ -75,6 +82,38 @@ Un limite all'inferenza dell'affetto dal dialogo: [[ecnuclaw-k12-personalized-co
 ## Relazione con la sicurezza più ampia
 
 Il tutoraggio affettivo si interseca con [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] nella dimensione di danno [[motivation|motivazionale]]-affettivo. Un tutor affettivo "troppo supportivo" può sopprimere la frustrazione che guida la lotta produttiva e l'[[self-regulated-learning|autoregolazione]]. Vedi anche [[llm-fallacy-misattribution]] — gli studenti possono attribuire il supporto emotivo a una relazione genuina, rafforzando la dipendenza.
+
+## Idee sbagliate comuni
+
+**"Il vantaggio di +23 punti nel tasso di vittoria mostra che i tutor affettivi insegnano meglio."** Mostra qualcosa di più ristretto. Il confronto è un tasso di vittoria contro una baseline non affettiva per un solo sistema, MathBuddy, valutato su otto dimensioni pedagogiche e studi con utenti; un tasso di vittoria è un esito di preferenza, non una misura di apprendimento durevole in un corso reale. L'affermazione onesta è che la selezione di strategie consapevole dell'affetto ha battuto la selezione cieca all'affetto sulla qualità giudicata delle risposte, che è un risultato forte sull'interazione e debole sui [[learning-gains|guadagni di apprendimento]].
+
+**"Se il tutor sembra empatico, lo studente viene aiutato."** Sentirsi compresi e essere insegnati sono separabili, e il divario tra i due è dove sta il danno. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identificano la dipendenza parasociale come il fallimento caratteristico: uno studente può formare una relazione con un sistema progettato per apparire premuroso mentre il suo coinvolgimento [[metacognition|metacognitivo]] cala silenziosamente, e l'empatia stessa rende il disimpegno più difficile da notare. La letteratura sulla [[llm-fallacy-misattribution|misattribuzione]] è l'altro lato della stessa lama, dove gli studenti attribuiscono al sistema una relazione genuina.
+
+**"Più supporto emotivo è sempre più sicuro di meno."** Oltre un certo punto il supporto diventa interferenza. Un tutor che rimuove in modo affidabile la frustrazione può sopprimere la [[desirable-difficulties|lotta produttiva]] da cui dipende l'[[self-regulated-learning|autoregolazione]], ed è per questo che [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] tratta il danno motivazionale-affettivo come una dimensione di sicurezza distinta anziché come assenza di beneficio.
+
+**"Un tutor che rileva l'emozione da un volto conosce lo stato dello studente."** L'affetto è inferito, non osservato, e l'inferenza è più debole esattamente dove la posta è più alta. [[ecnuclaw-k12-personalized-companion|Zhou, Li e Zhang (2026)]] mantengono una dimensione emotiva in un profilo del discente a cinque dimensioni ma la popolano con dizionari di parole chiave, per cui uno studente che esprime frustrazione con parole che il dizionario non contiene semplicemente non viene profilato, e il profilo non è stato validato contro il giudizio di esperti. L'acquisizione facciale aggiunge un flusso video continuo e un'esposizione alla privacy che l'inferenza testuale non ha.
+
+**"Le misurazioni emotive prese in momenti diversi sono intercambiabili."** [[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]] trovano che l'affetto ordinato mostra persistenza a breve raggio e transizioni direzionali, e che i resoconti catturati da una sonda, gli auto-anelli attorno a curiosità e confusione, sono una misurazione diversa da quelli auto-catturati come frustrazione e sorpresa. Fare la media dei due in una frequenza di sintesi scarta la sequenza che porta il segnale.
+
+## Mettere in pratica il tutoraggio affettivo
+
+**Per i docenti**
+
+- Tratta l'empatia come un meccanismo di erogazione, non come prova di apprendimento. Abbina ogni strumento consapevole dell'affetto a un controllo cognitivo che puoi vedere, come i prodotti del lavoro o l'output del [[knowledge-tracing|knowledge tracing]], e non lasciare che l'esperienza sentita dallo studente sostituisca l'evidenza diagnostica.
+- Dichiara l'inferenza in modo esplicito. Gli studenti dovrebbero sapere che uno stato emotivo viene stimato, da quali input, e poter rifiutare la videocamera senza perdere l'accesso al tutoraggio.
+- Guarda lo studente che dice che lo strumento lo "capisce" e il cui lavoro indipendente non migliora. Quella combinazione è la firma parasociale, non una storia di successo.
+
+**Per gli sviluppatori**
+
+- Rendi l'affetto un segnale tra gli altri. Combinarlo con lo stato cognitivo e l'engagement comportamentale impedisce al sistema di riottimizzare una lezione attorno a un'espressione letta male.
+- Innesca gli interventi sulle traiettorie anziché sulle stime puntuali, agganciandoti alla sequenza degli stati, poiché la persistenza e le transizioni direzionali sono la parte informativa.
+- Scegli per default una gestione dei sensori che protegga la privacy, e tratta l'input facciale o video come un livello strettamente superiore all'inferenza testuale, che richiede una propria giustificazione e un proprio consenso.
+- Non distribuire uno strato affettivo a dizionario di parole chiave come se fosse rilevamento. Se non puoi validare il classificatore contro il giudizio di esperti, esponilo come un flag grossolano anziché etichettare uno studente come "frustrato".
+
+**Per i ricercatori**
+
+- Riporta la baseline contro cui misuri il tuo tasso di vittoria, e dichiara chiaramente che si tratta di un giudizio comparativo. Poi misura ciò di cui il campo ha davvero bisogno: il trasferimento a contesti non adattivi, la ritenzione dopo il ritiro del tutor, e se i guadagni reggono quando il canale emotivo è spento.
+- Valida i profili affettivi contro il giudizio di esperti prima di usarli come variabili indipendenti.
 
 ## Concetti collegati
 
@@ -95,3 +134,4 @@ Il tutoraggio affettivo si interseca con [[hazra-safetutors-pedagogical-safety-2
 - [[ecnuclaw-k12-personalized-companion]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
+- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)

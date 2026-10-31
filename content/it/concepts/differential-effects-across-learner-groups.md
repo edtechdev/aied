@@ -12,13 +12,18 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -86,7 +91,7 @@ La ricerca sul genere qui si divide tra se gli strumenti trattino i discenti in 
 
 Questo filone è piccolo per numero di articoli e forte per meccanismo, perché l'evidenza riguarda ciò che l'IA fa *con* un attributo demografico una volta che lo possiede.
 
-- **La [[personalized-learning|personalizzazione]] è un vettore di bias.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] mostra che gli strumenti di feedback sulla scrittura basati su [[llm]] slittano verso lodi allineate allo stereotipo e critiche trattenute quando il feedback è personalizzato con la razza, la lingua, la disabilità, il rendimento o la [[motivation|motivazione]] di uno studente — su saggi identici.
+- **La [[personalized-learning|personalizzazione]] è un vettore di bias.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] mostra che gli strumenti di feedback sulla scrittura basati su [[llm]] slittano verso lodi allineate allo stereotipo e critiche trattenute quando il feedback è personalizzato con la razza, la lingua, la disabilità, il rendimento o la [[motivation]] di uno studente — su saggi identici.
 - **Lo stimolo demografico può essere implicito.** L'audit controfattuale sopra ha trovato che le storie di conversazione, non solo le persone esplicite, muovevano il comportamento di punteggio e feedback — lo stesso risultato delle [[demographic-signals-llm-student-assessment-2026|192.480 chiamate di inferenza]], e una ragione per cui una regola di disclosure sulle demografie *dichiarate* è insufficiente.
 - **I divari di migrazione e lingua possono dominare.** In EduFair-Bench, il modello 70B accoppiava i maggiori divari di lingua e immigrazione con i minori divari di pedagogia, così un tutor che sembra pedagogicamente forte può essere quello più sensibile a chi lo studente sembra essere.
 - **Esclusione epistemica, non solo errore:** si veda [[genai-minoritized-knowledges-disability|la marginalizzazione delle conoscenze minorizzate]] sopra.
@@ -123,6 +128,12 @@ La scoperta onesta di questa rassegna è quanto siano sottili alcuni gruppi. Cia
 - **Preferisci i design che uguagliano dove l'evidenza lo consente.** Il risultato della segmentazione video per l'ADHD — tutti migliorano, il divario si chiude — è un obiettivo più adatto a un'aula generale di un componente aggiuntivo mirato al gruppo.
 - **Sii prudente con la personalizzazione che consuma attributi demografici.** La scoperta sulle [[marked-pedagogies-linguistic-bias-writing-feedback|pedagogie marcate]] riguarda direttamente quel meccanismo, e si applica ai check-in sul [[well-being|benessere]], ai tutor [[affective-computing|affettivi]] e ai [[recommender-systems-and-learning-paths|sistemi di raccomandazione]] che profilano i discenti.
 - **Testa localmente, sul gruppo che ti interessa, con un esito misurato senza lo strumento.** Si veda [[interpreting-and-applying-aied-research|Interpretare e applicare la ricerca AIEd]] per le abitudini di valutazione e [[research-methods-aied|Metodi di ricerca nell'educazione con IA]] per i design che rendono difendibile un test locale.
+
+## Idee sbagliate comuni
+
+- **"Le etichette di gruppo catturano la variazione che conta."** **Le etichette di gruppo nascondono la variazione al loro interno**: nella meta-analisi sulla disabilità, studenti con **disturbi specifici dell'apprendimento, disabilità intellettive e dello sviluppo** e altre categorie sono raggruppati, quindi la media del gruppo non descrive nessuno di loro.
+- **"Le analisi di sottogruppo rispondono alla domanda sugli effetti differenziali."** Di solito sono **troppo piccole per rispondervi**: il [[ai-tutoring-micro-rct-gcse-science-2026|micro-RCT sulle scienze per il GCSE]] dichiara insolitamente esplicitamente che il suo contrasto di **trattamento** è potenziato per l'effetto complessivo e non per le differenze tra sottogruppi. Un risultato di sottogruppo con potenza insufficiente è un'ipotesi, non un risultato.
+- **"Un effetto aggregato medio ti dice se un dato gruppo ne beneficia."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 studi (quasi-)sperimentali]] aggregati a **g di Hedges = 0,588 (IC al 95% [0,349, 0,826])** attraverso le categorie di disabilità. L'intervallo descrive la media su quelle categorie, e "quale gruppo, quale bisogno" è un'analisi separata.
 
 ## Concetti collegati
 

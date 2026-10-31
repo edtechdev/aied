@@ -1,19 +1,24 @@
 ---
 title: Istruzione umanistica e nelle scienze sociali
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: "concepts/humanities-education"
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,6 +59,18 @@ L'istruzione SSH mette in primo piano esattamente le capacità che l'IA generati
 - **Usa l'IA deliberatamente nel lavoro sulle fonti.** La [[paternalistic-filter-llm-history-education|ricerca storica]] mostra che l'IA può plasmare il ragionamento e l'interpretazione delle fonti — insegna agli studenti a interrogare le affermazioni storiche mediate dall'IA e i filtri che essa applica.
 - **Considera gli impatti rivolti agli studenti.** Gli [[genai-impact-chinese-students-hss|studi sull'esperienza studentesca]] documentano come la GenAI influenzi chi apprende nelle SSH; adatta supporto e inquadratura dell'integrità all'uso reale piuttosto che a ipotesi.
 
+## Idee sbagliate comuni
+
+**«Le discipline umanistiche sono la parte del curricolo meno esposta all'IA.»** L'esposizione è stata misurata ed è concentrata anziché diffusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] ha auditato **15.587 record di unità di Arts and Humanities** per stabilire dove si collochi l'esposizione. È distribuita in modo diseguale tra le unità anziché sottile ovunque, il che rende la riprogettazione della valutazione un problema mirato anziché di tutto il settore.
+
+**«L'IA nell'istruzione umanistica è potenziamento tecnocentrico.»** Il position paper su cui si basa questa pagina sostiene che il cambiamento sia una *trasformazione intellettuale* anziché un potenziamento, posizionando la [[ai-literacy|fluidità digitale]] come competenza fondamentale delle liberal arts. Aggiungere uno strumento a un corso immutato scambia la trasformazione per il suo strumento.
+
+**«L'educazione ai valori può essere affidata a un modello come contenuto.»** [[genai-values-education-affordances-risks-2026|Chen (2026)]] riformula l'educazione ai valori come una pratica relazionale con tre condizioni — responsabilità, esemplarità e indirizzo — e legge ciascuna delle cinque affordance della GenAI come sostituzione di una relazione: la prospettiva simulata sostituisce lo stakeholder a cui si può recare torto.
+
+**«L'analisi critica è ciò che l'IA minaccia di più, quindi va limitata.»** L'analisi critica è anche ciò che l'uso intenzionale sviluppa di più, quando il compito è progettato per approfondirla anziché appiattirla. Un modello [[human-in-the-loop-ai|human-in-the-loop]] colloca il contributo della disciplina nel giudizio di chi apprende anziché nell'output dello strumento.
+
+**«Un modello general-purpose è utile per l'erudizione testuale quanto per la sintesi.»** L'interpretazione richiede la posizione del lettore, e uno strato di assistenza che fornisce la lettura ha compiuto l'atto interpretativo che la disciplina esiste per insegnare.
+
 ## Concetti collegati
 
 - [[higher-ed]]
@@ -74,3 +91,4 @@ L'istruzione SSH mette in primo piano esattamente le capacità che l'IA generati
 - [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
+- [[genai-values-education-affordances-risks-2026]] — IA generativa nell'educazione ai valori: affordance, rischi etici e implicazioni per l'insegnamento (Chen 2026)

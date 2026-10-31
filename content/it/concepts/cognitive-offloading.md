@@ -1,6 +1,7 @@
 ---
 title: Offloading cognitivo
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -11,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-26T13:50:00-04:00"
+source_updated: "2026-10-30T10:53:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -101,6 +106,19 @@ Gli articoli della knowledge base documentano l'offloading cognitivo lungo molte
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] registrano lo scaricamento come esperienza dei partecipanti stessi anziché come rischio teorico: uno ha detto che la genAI "mi ha impedito di leggere davvero e di scoprire da solo che cosa è importante nel testo, per sviluppare capacità di lettura", e un altro temeva "lo sviluppo a lungo termine, in cui divento peggiore in certe abilità in cui ora sono molto forte".
 - **L'effetto risiede nella divisione del lavoro, non nello strumento.** Nakamura (2026) sostiene che l'eterogeneità degli effetti della GenAI sull'apprendimento si dissolve quando l'unità di analisi diventa la partizione del lavoro cognitivo tra discente e macchina. Lo scaricamento aumenta l'apprendimento quando solleva da operazioni periferiche rispetto all'obiettivo corrente, e rischia l'erosione quando aggira l'elaborazione costitutiva di quell'obiettivo ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Elaborare davvero l'output, o ricostruirlo più tardi, è ciò che salva uno scaricamento altrimenti costitutivo.
+- **Ciò che una persona può consegnare dipende dalla sua esperienza del compito.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] rende l'ordine dei compiti relativo alla persona: ciò che è di ordine superiore per un novizio è di ordine inferiore per chi padroneggia già la procedura, quindi lo scaricamento consentito dovrebbe crescere con l'esperienza e fermarsi al nucleo del lavoro.
+
+**Il capitale cognitivo è lo stock da cui lo scaricamento attinge.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] riformulano lo scaricamento come un cambiamento di uno stock anziché un atto. Il capitale cognitivo è conoscenza, capacità e pratica accumulate, rinnovabili e esauribili, detenute da individui e da organizzazioni, e tenute separate dalla capacità del sistema umano-IA, così che un guadagno di prestazione congiunta possa essere visto accanto a una perdita di capacità umana. I loro quattro meccanismi — sostituzione della pratica, scaffolding e feedback, calibrazione metacognitiva e aggregazione organizzativa — producono sette principi, tra cui che la prestazione assistita non è competenza trattenuta e che scaricare un compito è diverso dallo scaricare la pratica che costruisce l'abilità. La statistica che motiva il lavoro è un dispiegamento scaglionato a 5.172 agenti di assistenza clienti in cui un assistente ha aumentato del 15% le questioni risolte per ora; quel numero descrive il sistema congiunto, e se gli agenti sapessero ancora svolgere il lavoro senza aiuto è una misura che la letteratura esaminata non contiene.
+
+### Quando lo scaricamento diminuisce anziché aumentare
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] riporta un esperimento preregistrato (N = 317) in cui gli adulti apprendevano nuovi contenuti da schede di lavoro convenzionali o da un assistente general-purpose limitato a quelle stesse schede. La condizione IA abbassava lo scaricamento cognitivo misurato anziché alzarlo (mediana −0,27, intervallo credibile al 95% da −0,58 a 0,04). L'elaborazione profonda calava comunque, ma attraverso una catena in cui un minore scaricamento si accompagnava a un minore [[critical-thinking|pensiero critico]], che a sua volta prediceva un'elaborazione profonda più debole (0,78). La disorganizzazione cresceva di 0,84 senza alcun mediatore che ne portasse l'effetto. Il risultato è un avvertimento per il resoconto standard: lo scaricamento non è l'unica via per cui un ambiente di [[generative-ai|IA]] erode l'elaborazione, e una condizione può lasciare intatto lo scaricamento mentre sopprime ciò che lo scaricamento avrebbe dovuto proteggere.
+
+### Scaricare l'empatia, non solo la cognizione
+
+Lo stesso patto vale per il lavoro emotivo, e lì le evidenze sono più recenti. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] nominano l'offloading empatico: quando un sistema può fornire supporto emotivo, le persone ne danno meno da sé (N = 2.223 in quattro studi). La disponibilità a consegnare l'empatia a un modello seguiva la fiducia nella capacità del modello di averla (b = 0,44), e un esperimento che elevava quella fiducia attraverso una normale copertura giornalistica muoveva l'offloading per quella via (indiretto 0,73, diretto non credibile). La parte istruttiva è dove autovalutazione e comportamento si separano: informati che uno studente aveva ricevuto supporto da un chatbot, i partecipanti valutavano il proprio offloading come più basso rispetto al caso di un amico o di un terapeuta, e poi sceglievano meno parole empatiche e più parole di indifferenza su quello studente.
+
+- **Lo scaricamento si divide in un guadagno visibile e una perdita invisibile.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] sostiene che il fallimento di calibrazione documentato in questa pagina è un'inferenza *interdimensionale* anziché una sovraconfidenza generale. La competenza operativa (promptare, iterare, integrare) restituisce feedback immediato e inequivocabile, mentre la competenza valutativa (giudicare se un output è accurato) restituisce feedback ritardato, scarso o assente. Lo scaricamento alza la comprensione percepita e abbassa insieme l'elaborazione profonda, e solo la prima viene esperita. È per questo che gli avvertimenti sui limiti dell'IA sono interventi deboli: si rivolgono alle convinzioni sul sistema mentre l'illusione è generata da un'assenza nell'esperienza dell'utente stesso. La revisione è concettuale e non porta dati propri.
 
 ## Dipendenza eccessiva: quando l'offloading diventa dannoso
 
@@ -112,7 +130,6 @@ La scala che questa pagina traccia ha tre pioli, e solo i primi due appartengono
 - **Il paradosso dell'efficienza: obiettivi di padronanza che collassano in offloading "per default."** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]] identificano discenti che articolavano obiettivi orientati alla padronanza eppure mettevano in atto processi di tipo superficiale, facendo offloading "non per intenzione, ma per default": i loro tre gruppi di intenzione (Outsourcing Tool n = 16, Learning Assistant n = 31, Cognitive Partner n = 8) mostrano che il caso modale non è né l'inganno deliberato né l'apprendimento deliberato. Gli studenti del gruppo Outsourcing riconoscevano il proprio disimpegno (il copia-incolla paragrafo per paragrafo era descritto come "mi ha completamente sostituito il cervello") e riferivano un rapido oblio, e tutti i 38 intervistati riferivano una bassa fiducia nell'uso efficace della GenAI: è evidenza che la dipendenza eccessiva può essere guidata da condizioni di partenza mancanti ([[ai-literacy|alfabetizzazione sull'IA]], competenza nel prompting, guida specifica del compito) anziché dalla motivazione a evitare il lavoro.
 
 - **La programmazione agentica scarica la comprensione sul campo:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] riferiscono che gli studenti universitari che usavano [[agentic-ai|agenti di IA]] in un corso di progetti software hanno scritto più codice anno dopo anno ma hanno mostrato cali di comprensione sotto un uso intenso, recuperabili attraverso la verifica uno-a-uno del docente del codice generato dall'IA.
-i rischi più consequenziali dell'IA nell'educazione:
 
 - **Spiazzamento dell'apprendimento:** [[ai-making-us-stupid|la ricerca sugli effetti cognitivi dell'IA]] documenta come la disponibilità dell'IA riduca l'elaborazione faticosa, "l'effetto Google esteso al ragionamento." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolano questo come un *pattern* d'uso distinto: l'**assunzione a bassa verifica** (accettare l'output dell'IA senza critica) prediceva una [[learning-gains|performance accademica]] peggiore, mentre l'**integrazione valutativa** (usare l'IA per supportare la comprensione) prediceva una performance migliore, e la sola **frequenza** d'uso non prediceva né l'una né l'altra. La dipendenza eccessiva è quindi una *modalità d'uso* che può essere separata da quanto gli studenti usino l'IA.
 - **Il problema dell'agentività:** [[aied-unfinished-mission-bypass|la missione incompiuta dell'AIED]] inquadra la dipendenza eccessiva come una crisi di agentività e motivazione: gli studenti aggirano l'apprendimento non perché l'IA sia avvincente, ma perché i compiti di apprendimento sembrano privi di senso quando l'IA può completarli senza sforzo.
@@ -192,9 +209,13 @@ La stessa logica trasforma la modellazione della ricompensa in uno strumento pro
 - [[cognitive-surrender]]
 
 ## Articoli collegati
+- [[riva-cognitive-capital-generative-ai-review-2026]] — Cognitive capital: offloading as a drawdown on a renewable stock of capability
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Cross-dimensional miscalibration: operational fluency misread as evaluative and domain competence (conceptual review)
+- [[akcaoglu-offloading-ladder-experience-2026]] — The Offloading Ladder: how experience changes what learners and practitioners should hand to AI (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Sostenere o sostituire il ragionamento degli studenti? L'offloading cognitivo nell'apprendimento assistito dall'IA delle dimostrazioni (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Che cosa la consegna non mostra: complessificare l'offloading cognitivo nel lavoro matematico degli studenti con gli LLM (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — A 30-expert consensus over 65 learning processes: offloading at both ends of the learning sequence
+- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — The rented self: offloading that costs the learner's domain self, not only the skill
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Groups starting alike diverged: 74.1% model uptake in one profile against 80.8% offloading and impasse in another (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — AI assistance reduced persistence and unassisted performance across three RCTs (Liu et al. 2026)
@@ -234,3 +255,4 @@ La stessa logica trasforma la modellazione della ricompensa in uno strumento pro
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: a preregistered experiment in which AI affordances lowered deep processing and raised disorganization without raising offloading (Braun 2026)

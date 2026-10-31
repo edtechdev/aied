@@ -1,6 +1,7 @@
 ---
 title: Formazione infermieristica
 created: "2026-10-14T22:25:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -12,13 +13,17 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: "concepts/nursing-education"
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -55,6 +60,33 @@ Il campo affina anche tre concetti adiacenti. Dalla [[simulation|simulazione]] e
 - **Le evidenze sono invertite.** La mappa dei divari della stessa revisione non trova alcuno studio randomizzato o quasi-sperimentale sull'identità professionale o sullo [[career-development-and-readiness|sviluppo di carriera]], solo tre sulle competenze relazionali ed etiche, e nessun follow-up oltre i 12 mesi — mentre le evidenze controllate si addensano sugli esiti cognitivi e tecnici.
 - **La sorveglianza è documentata come percezione, non come condotta migliorata.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] hanno mappato il [[remote-proctoring|proctoring remoto]] nella valutazione infermieristica attraverso sei studi (1.567 studenti) e hanno trovato l'effetto deterrente riportato quasi universalmente dagli studenti sorvegliati (98–100% di accordo in un programma di laurea magistrale), mentre l'unico studio comparativo sulla performance ha trovato una coorte sorvegliata in presenza con punteggi significativamente più alti in un esame di preparazione rispetto a una sorvegliata da remoto. L'ansia correva in entrambi i sensi — alcuni studenti più calmi a casa e sollevati dal viaggio, altri incapaci di concentrarsi mentre erano osservati e timorosi di [[legal-issues-and-risks|accuse infondate]] — e quattro dei sei studi hanno riportato fallimenti di connettività, uno interruzioni di corrente, rendendo l'accesso [[equity-in-ai-education|equo]] il vincolo operativo anziché la sicurezza dell'esame. La posizione degli autori è che il proctoring remoto dovrebbe essere uno strumento tra diversi, governato da standard di protezione dei dati e abbinato a integrità per progettazione e [[authentic-assessment|valutazione autentica]] anziché trattato come la salvaguardia predefinita.
 - **Condizioni al contorno.** I filoni convergono sulla stessa moderazione. L'IA è meglio evidenziata per obiettivi strutturati e ripetibili — comunicazione di base, anamnesi, educazione alla salute, acquisizione di conoscenze — e meno evidenziata per l'abilità psicomotoria complessa, l'interazione carica di emotività e la formazione professionale a lungo termine. L'accettazione è costantemente da moderata ad alta, ma l'accettazione del feedback *dell'IA* è condizionata dalla fiducia: i discenti preferiscono fonti umane percepite come benevole rispetto all'IA percepita come semplicemente competente. Le revisioni sono anche geograficamente ristrette, dominate da disegni non controllati e [[self-report-measures|autovalutazioni]], e — nella revisione sulla simulazione — mostrano uno schema positivo quasi uniforme che solleva preoccupazioni di bias di pubblicazione.
+
+## Idee sbagliate comuni
+
+**"La simulazione assistita dall'IA migliora la competenza infermieristica su tutta la linea."** Il beneficio si ferma a un confine documentato. La simulazione assistita dall'IA migliora in modo affidabile la conoscenza e l'[[self-efficacy|autoefficacia]] ma mostra **effetti incoerenti, talvolta negativi, sull'abilità psicomotoria complessa** — e la competenza psicomotoria non è un esito periferico in una professione che la definisce. Un programma che adotta la simulazione sulla forza dei guadagni di conoscenza ha evidenza per un esito diverso da quello che l'esame di abilitazione misura.
+
+**"L'ansia della forza lavoro attorno all'IA in infermieristica è in realtà un divario di competenze, quindi la formazione sull'alfabetizzazione sull'IA è il rimedio."** L'ansia riguarda l'occupazione, non la competenza. Un'indagine su **821 studenti delle scienze della salute** ha trovato una correlazione positiva moderata tra [[anxiety-and-stress|ansia verso l'IA]] e ansia da ricerca del lavoro (**r = 0,233, p < 0,001**), con l'ansia verso l'IA come predittore significativo dopo i controlli. Insegnare l'alfabetizzazione affronta la paura di non saper usare uno strumento; non affronta la paura di non avere un lavoro — e l'inquadramento identitario della letteratura, chi diventa infermiere anziché cosa sa fare un tirocinante, è dove quella domanda appartiene.
+
+**"I discenti vogliono agenti di IA come collaboratori."** Li vogliono come strumenti. Su **165 discenti (158 completanti)**, l'agente è stato valutato come più utile *come strumento* (**M = 3,49**), poi per l'utilità del feedback (**M = 3,21**), e meno *come parte del team* (**M = 2,88**), con tutte le differenze a coppie significative (**F(2, 156) = 26,01, p < ,001**). Una progettazione che colloca un agente come membro del team va contro la preferenza dei discenti, non davanti ad essa.
+
+**"Qualsiasi studio sulla simulazione si generalizza alla pratica clinica."** La base di evidenze qui esaminata — **19 studi, N = 1.253, per lo più studenti in formazione iniziale** — è in gran parte d'aula e di laboratorio, e il trasferimento dalla competenza simulata alla pratica supervisionata è esattamente il passo che una simulazione assistita dall'IA non prova di per sé.
+
+## Implicazioni per la pratica
+
+**Per gli insegnanti**
+
+- Non adottare la simulazione con IA per sviluppare abilità psicomotoria complessa sulla forza dei guadagni di conoscenza e autoefficacia. Mantieni la pratica deliberata e supervisionata per gli esiti psicomotori e usa l'IA dove la sua evidenza è più forte.
+- Affronta direttamente l'ansia occupazionale anziché incanalarla attraverso moduli di alfabetizzazione sull'IA; la correlazione con l'ansia da ricerca del lavoro dice che la preoccupazione riguarda il futuro della professione, non la fluidità del discente con lo strumento.
+- Colloca gli agenti come strumenti e fonti di feedback, il che corrisponde sia alla preferenza dei discenti sia alla progettazione che ha prodotto le valutazioni migliori.
+
+**Per gli sviluppatori**
+
+- Riporta separatamente gli esiti psicomotori e quelli di conoscenza, poiché in questa letteratura divergono.
+- Progetta prima per i ruoli di strumento e di feedback; l'inquadramento dell'agente come membro del team non è ciò che i discenti hanno chiesto.
+
+**Per i ricercatori**
+
+- Riporta separatamente i campioni di studenti in formazione iniziale e di infermieri in esercizio, e studia il passaggio alla pratica supervisionata se l'affermazione di competenza deve significare qualcosa clinicamente.
 
 ## Concetti collegati
 

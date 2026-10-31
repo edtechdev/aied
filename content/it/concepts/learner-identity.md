@@ -1,6 +1,7 @@
 ---
 title: "Identità dello studente"
 created: "2026-10-14T22:05:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -9,13 +10,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,7 +55,7 @@ Una condizione di paternità distinta, non solo una minaccia alla paternità: qu
 
 - **Identità creativa:** **[[t2i-competence-paradox-2026|il paradosso della competenza T2I]]** coglie come la facilità d'uso possa minare l'identità basata sul saper fare degli studenti di arte e design.
 - **La paternità percepita può dissociarsi dall'originalità effettiva.** Studenti di design che costruivano siti web con l'IA hanno valutato la propria paternità come alta (67/100, soddisfazione 6,4/7, qualità percepita 6,1/7), eppure quelle valutazioni non corrispondevano a nulla di misurabile: i loro progetti erano più omogenei che senza l'IA, e la paternità percepita correlava con l'originalità misurata a r ≤ +0,13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).
-- **Identità professionale:** molteplici studi trattano l'impatto dell'IA sull'**identità professionale** — per esempio, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** sostengono che i laureati hanno bisogno di *capacità adattive* ([[ai-literacy|alfabetizzazione in IA]], [[distributed-cognition|cognizione distribuita]], [[metacognition|metacognizione]]) proprio per poter sostenere un'identità professionale vitale in un futuro integrato con l'IA, anziché essere definiti — o esclusi — dai propri strumenti.
+- **Identità professionale:** molteplici studi trattano l'impatto dell'IA sull'**identità professionale** — per esempio, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** sostengono che i laureati hanno bisogno di *capacità adattive* ([[ai-literacy|alfabetizzazione in IA]], [[distributed-cognition|cognizione distribuita]], [[metacognition|metacognizione]]) proprio per poter sostenere un'identità professionale vitale in un futuro integrato con l'IA, anziché essere definiti — o esclusi — dai propri strumenti. I giudizi sulla GenAI possono dividersi anche per contesto temporale oltre che per paternità: gli intervistati giudicavano l'uso dell'IA inappropriato per l'apprendimento ma legittimo o atteso nel futuro lavoro professionale — "Come studente devo imparare, come professionista devo produrre" ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 - **Identità post-umana e ibrida:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** teorizza lo **studente post-umano**, la cui cognizione è genuinamente ibrida e distribuita tra sistemi [[biology-education|biologici]] e artificiali — una riconcettualizzazione della stessa formazione dell'identità nell'era dell'IA cognitiva.
 - **Identità studentesca e accademica:** la [[research-methods-aied|ricerca]] sull'[[zhan-boud-du-authentic-assessment-scoping-review-2025|assessment autentico]] si collega all'identità perché i compiti di [[assessment|valutazione]] che richiedono una prestazione autentica e personale aiutano gli studenti a vedersi come professionisti capaci; la [[paternalistic-filter-llm-history-education|ricerca sull'educazione storica]] mostra come un uso paternalistico dell'IA possa plasmare il modo in cui gli studenti costruiscono la propria identità di indagatori disciplinari.
 - **Come gli studenti inquadrano lo strumento plasma il loro divenire professionale.** Gli studenti che hanno presentato la GenAI solo come un partner socio-emotivo hanno prodotto riflessioni meno differenziate sul proprio apprendimento professionale rispetto a quelli che l'hanno inquadrata anche come tecnica, come materiale di apprendimento o come struttura ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026]]).
@@ -75,6 +80,16 @@ L'identità dello studente è la controparte **verso lo studente** dell'identit�
 ## Connessioni
 
 L'identità dello studente si collega all'[[agency|agenzia]] (l'identità si esercita attraverso la paternità agentiva), all'[[self-efficacy|autoefficacia]] (credenze di competenza che sostengono l'identità), alla [[motivation|motivazione]] e all'[[self-determination-theory|autodeterminazione]] (la formazione dell'identità soddisfa i bisogni di autonomia e competenza), all'[[student-experience|esperienza studentesca]] e al [[student-engagement|coinvolgimento degli studenti]], e alle [[stem-education|discipline STEM]] (dove l'identità disciplinare è un esito chiave e un predittore della persistenza). È plasmata anche dalla [[situated-learning|apprendimento situato]] e dalla [[critical-pedagogy|pedagogia critica]] (l'identità come partecipazione e come negoziazione carica di potere) e si collega all'[[authentic-assessment|assessment autentico]] (compiti che permettono agli studenti di performare e dunque di rivendicare un'identità). La sua rilevanza per l'[[higher-ed|istruzione superiore]] e per la [[k-12|scuola K-12]] abbraccia sia la formazione scolastica sia la preparazione professionale.
+
+## Idee sbagliate comuni
+
+**"L'identità dello studente è un tratto stabile che un corso può accogliere."** È meglio trattarla come qualcosa **costruito continuamente attraverso partecipazione, riconoscimento e paternità**. Quello slittamento cambia la domanda di progetto dal far corrispondere un'identità esistente al plasmare quella che il corso rende disponibile — e un'IA che completa il lavoro rimuove uno dei tre ingredienti, poiché è dalla paternità che nasce la rivendicazione identitaria.
+
+**"Le questioni di identità riguardano gli studenti di gruppi sotto-rappresentati."** L'identità si forma in ogni discente a seconda che la sua partecipazione sia riconosciuta, il che la rende una condizione generale di progetto anziché una provvisione speciale. Inquadrarla come una preoccupazione mirata è il modo in cui viene rinviata.
+
+**"L'assistenza dell'IA abbassa le barriere e quindi allarga la partecipazione."** Può abbassare la barriera a produrre lavoro mentre restringe la barriera a rivendicarne la paternità. A uno studente che consegna un artefatto fluente che non ha scritto è stato dato accesso all'esito e negato il riconoscimento che costruisce l'identità alle spalle.
+
+**"Riconoscere l'identità di un discente è una questione di rappresentazione nei contenuti."** La rappresentazione conta e il riconoscimento si esercita nella pratica: di chi vengono raccolte le domande, a chi viene accreditato il contributo, e chi viene trattato come capace. Un curricolo può essere rappresentativo e comunque negare il riconoscimento che la formazione dell'identità richiede.
 
 ## Concetti collegati
 

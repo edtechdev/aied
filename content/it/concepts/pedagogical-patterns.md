@@ -1,6 +1,7 @@
 ---
 title: "Pattern pedagogici"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -23,8 +24,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -184,6 +189,12 @@ I pattern sottostanti provengono da una guida per docenti fornita dal manutentor
 - **Piano + prova + adattamento** (riuscita negli studi universitari). Sostituire una riflessione generica sulla gestione del tempo con un piano di studio di una settimana, una breve registrazione del suo tentativo e una revisione legata a ciò che è accaduto; l'IA può suggerire opzioni di pianificazione dopo che lo studente ha individuato i vincoli.
 
 Valgono le avvertenze della guida stessa: video registrati, riflessioni e log possono a loro volta essere assistiti dall'IA, perciò in corsi del tutto asincroni una registrazione non dovrebbe essere trattata come verifica della padronanza indipendente. Due sue inquadrature — i "gemelli di valutazione" e la valutazione orale asincrona come deterrente del comportamento scorretto — restano framework in attesa di validazione; gli studi sulla valutazione orale asincrona citati sopra hanno misurato punteggi di formato e non hanno misurato affatto il comportamento scorretto.
+
+## Idee sbagliate comuni
+
+- **"Qualsiasi pratica fornita dall'IA è pratica."** Una condizione di recupero dilazionato adattivo ha prodotto **i punteggi posttest più alti (M = 78,19)** e **superato significativamente lo studio con IA guidato dal discente (M = 67,28)**. L'organizzazione guidata dal discente è risultata inferiore a una strutturata, quindi l'autonomia non è automaticamente il progetto migliore.
+- **"Studiare con un chatbot è meglio che studiare senza."** Il **caso di contrasto è decisivo**: in una [[rct|sperimentazione randomizzata]] su **120 studenti**, il gruppo che studiava **con** ChatGPT senza restrizioni ha ritenuto **meno** a un test a sorpresa. Lo strumento era dannoso per la ritenzione nell'organizzazione testata.
+- **"L'evidenza del pattern è un grande trial aggregato."** Il **supporto più forte è indiretto** e proviene da un **esperimento randomizzato entro i soggetti con 26 studenti**, dove lo [[scaffolding]] con risposta immediata si comportava significativamente in modo diverso. L'evidenza sostiene il pattern e resta esigua in scala, e la pagina va letta così.
 
 ## Concetti collegati
 

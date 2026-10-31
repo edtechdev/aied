@@ -2,18 +2,23 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: "Feedback"
 created: "2026-10-14T22:14:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: "concepts/feedback"
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,7 +39,7 @@ ai_assist:
 Questo è il concetto ombrello per le idee della knowledge base relative al feedback. Il feedback si trova all'intersezione tra valutazione e apprendimento: senza feedback, la valutazione misura la performance ma non la migliora; con un feedback efficace, la valutazione diventa un evento di apprendimento. La knowledge base tratta il feedback come un **sistema** con molteplici sfaccettature — la qualità del feedback stesso ([[ai-feedback-quality]]), il circuito attraverso cui esso colma il divario di apprendimento, la capacità di chi apprende di usarlo ([[feedback-literacy]]) e i contesti di valutazione in cui opera ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** mostrano che la percezione degli studenti della *fonte* del feedback (IA vs umano) plasma l'apprendimento autoregolato dal feedback della [[generative-ai|GenAI]] — un qualificatore cruciale per le affermazioni di efficacia del feedback.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolano la fonte dal contenuto: 472 studenti dell'EPFL hanno valutato feedback umano e di GPT-4.0 comparabili per contenuto sul proprio lavoro, prima alla cieca e poi di nuovo dopo la divulgazione della fonte, e la maggior parte non riusciva a distinguere affidabilmente i due (287 su 472 indovinavano correttamente). Una volta rivelata l'etichetta, le valutazioni della variante IA calavano e quelle della variante umana salivano — significativamente per la Genuineness (p < .01) — e la credibilità del fornitore si separava nettamente (umano μ = 3,28 vs IA μ = 2,25, d di Cohen = 0,57). Il bias si attacca al fornitore anziché al testo, poiché le due varianti erano comparabili per correttezza e qualità cognitiva.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolano la fonte dal contenuto: 472 studenti dell'EPFL hanno valutato feedback umano e di GPT-4.0 comparabili per contenuto sul proprio lavoro, prima alla cieca e poi di nuovo dopo la divulgazione della fonte, e la maggior parte non riusciva a distinguere affidabilmente i due (287 su 472 indovinavano correttamente). Una volta rivelata l'etichetta, le valutazioni della variante IA calavano e quelle della variante umana salivano — significativamente per la Genuineness (p < .01) — e la credibilità del fornitore si separava nettamente (umano μ = 3,28 vs IA μ = 2,25, d di Cohen = 0,57). Il bias si attacca al fornitore anziché al testo, poiché le due varianti erano comparabili per correttezza e qualità cognitiva. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] portano la credibilità del feedback fino all'apprendimento: tra 230 studenti di economia dopo un saggio supportato dall'IA, la credibilità prediceva l'apprendimento percepito, con la competenza percepita e l'empatia simile a quella umana come suoi antecedenti.
 
 ## Il sistema di feedback
 
@@ -46,6 +51,7 @@ Il feedback è meglio compreso non come evento singolo ma come un sistema connes
 - **[[formative-assessment]]** — il contesto di valutazione in cui il feedback è usato per migliorare l'apprendimento mentre è ancora in corso, anziché solo per giudicarlo.
 - **[[peer-assessment]]** — feedback scambiato tra [[learners|studenti]], sempre più aumentato dall'IA e sede di sviluppo dell'alfabetizzazione al feedback.
 - **[[automated-assessment]]** — punteggio e feedback guidati dall'IA, dalla [[automated-essay-scoring|correzione automatizzata di saggi]] alla correzione di risposte brevi consapevole della confidenza.
+- **Le parti sono in compromesso tra loro.** Progettare il feedback significa scegliere tra usabilità, fonti e sostenibilità anziché massimizzare tutti e tre; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] trattano la sostenibilità come il polo che non deve dipendere da un singolo individuo, risorsa o condizione istituzionale.
 
 ### Il circuito di feedback
 
@@ -136,6 +142,13 @@ Un modello a due strati mostra come l'accoppiamento possa essere organizzato att
 Il feedback è uno dei meccanismi più consequenziali e meglio evidenziati nell'educazione, e l'IA lo amplifica e lo complica insieme. Un feedback IA ben architettato può eguagliare o superare il feedback umano e scalare attraverso le coorti, ma richiede nuove capacità di chi apprende ([[feedback-literacy|alfabetizzazione al feedback]], [[ai-literacy|alfabetizzazione nell'IA]]) e porta rischi (accettazione acritica, [[cognitive-offloading|Over-Reliance]]). Poiché il feedback generato dall'IA diventa ubiquitario, la knowledge base inquadra il feedback come un intero sistema — qualità, circuito, alfabetizzazione e contesto di valutazione che lavorano insieme — anziché come una singola componente.
 
 - **Il feedback può prendere di mira chi dà feedback.** La formazione dei tutor è un contesto di feedback poco esplorato: i sistemi automatizzati che etichettano in sequenza le risposte aperte dei tutor per segnalare i tipi di lode (lode basata sullo sforzo — il tipo desiderabile focalizzato sul processo — vs basata sull'esito vs basata sulla persona, il tipo meno desiderabile che attribuisce tratti) possono consegnare un feedback esplicativo che cambia il comportamento di tutoraggio. Il vincolo stringente è il dato etichettato da esperti. Un approccio di aumento — GPT-4o genera risposte sintetiche etichettate espandendo un insieme a basse risorse di 13 istanze a 520, poi fa il fine-tuning di GPT-3.5 — recupera la maggior parte del divario: F2 +20,5% sulla lode basata sullo sforzo, +17,3% su quella basata sull'esito e +16,5% sulla categoria *non vista* basata sulla persona. Il test di generalizzazione a un tipo di lode non visto è la verifica di validità che separa questo dall'overfitting, e il meccanismo è più vicino alla distillazione insegnante-modello che all'aumento classico. ([[xu-automated-feedback-tutor-training-2025]])
+- **Un feedback che non vede la revisione si ripete.** In un gioco di apprendimento scientifico i cui agenti criticavano argomenti in bozza, gli studenti hanno revisionato lungo più cicli, ma un modello da 8B quantizzato restituiva sostanzialmente la stessa critica a una bozza migliorata, così il ciclo che motivava la revisione produceva anche la frustrazione che la chiudeva ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
+## Idee sbagliate comuni
+
+- **"Gli studenti non distinguono il feedback dell'IA da quello umano."** Lo distinguono, ed è l'etichetta a cambiare il giudizio: **una volta rivelata l'etichetta, le valutazioni della variante IA calavano e quelle della variante umana salivano — significativamente per la Genuineness (p < .01)**. La credibilità del fornitore ha plasmato la valutazione di feedback dallo stile identico.
+- **"L'approvazione in laboratorio predice l'uso nel semestre."** **L'approvazione in laboratorio non è l'uso nel semestre**: **tutti e 18 gli studenti** hanno reagito positivamente alla funzione di spiegazione GenAI nelle sessioni di laboratorio, **eppure solo la metà l'ha usata durante il corso**. Il divario tra intenzione e uso è il problema di progettazione.
+- **"Il feedback correttivo immediato è risolto con gli LLM."** Generarlo dentro un tutor è **fattibile ma imperfetto**: su **6.926 transazioni registrate** nella collezione Apprentice Tutor, il feedback era abbastanza buono da essere distribuito e non abbastanza buono da presupporne la correttezza.
 
 ## Concetti collegati
 
@@ -158,6 +171,7 @@ Il feedback è uno dei meccanismi più consequenziali e meglio evidenziati nell'
 
 ## Articoli collegati
 
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
@@ -209,3 +223,5 @@ Il feedback è uno dei meccanismi più consequenziali e meglio evidenziati nell'
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — What a revision does to the writer's stance: peer feedback turns argumentative essays more contractive, AI revision keeps the Contract/Expand balance (Zhao & Ji 2026)
 - [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole
+

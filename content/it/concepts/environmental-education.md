@@ -1,6 +1,7 @@
 ---
 title: "Educazione ambientale"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -10,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -18,9 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
+
+> **Educazione ambientale** — insegnare il clima, la sostenibilità e il mondo naturale, che nell'[[ai-education|IA nell'educazione]] è diventato due cose insieme: una materia che l'IA può sostenere attraverso l'apprendimento per [[inquiry-based-learning|indagine]] e [[situated-learning|situato]], e un costo che l'IA impone, poiché i [[llm|modelli linguistici]] ad alta intensità energetica eseguiti su ogni portatile degli studenti portano con sé un'impronta ambientale propria. La base di conoscenze tratta le due metà insieme, perché l'educazione alla [[sustainability|sostenibilità]] erogata da uno strumento ad alta intensità di carbonio solleva una domanda a cui nessuna singola cornice risponde da sola.
 
 ## Domande da considerare
 
@@ -77,6 +84,12 @@ La [[meta-analysis-systematic-review|revisione di scoping]] che organizza questa
 3. **Progetta per chi apprende è impaziente.** Se l'opzione a minor carbonio costa una latenza percepita, la maggior parte degli studenti non la sceglierà: mantieni bassa la latenza, esponi i controlli e descrivi l'impatto in termini di esiti concreti, non in unità astratte di carbonio.
 4. **Preferisci un dispiegamento più leggero dove la pedagogia lo consente.** Ancorare un modello a un corpus locale in licenza e quantizzarlo con fine-tuning ha dato accuratezza utilizzabile a una frazione dell'energia — riusa quel schema prima di scalare l'inferenza in cloud.
 5. **Costruisci la capacità dei docenti attraverso lo sviluppo di materiali, non campagne di sensibilizzazione,** e colma il divario del [[global-south|Sud globale]] anziché importare evidenza dai contesti nordamericani ed europei.
+
+## Idee sbagliate comuni
+
+- **"L'IA nell'educazione ambientale fornisce soprattutto informazioni."** I guadagni misurati sono nel **processo decisionale**: gli studenti che lavoravano con un partner IA dentro un compito strutturato di [[inquiry-based-learning|indagine]] hanno superato i pari con la sola indagine (**d = 0,69**) e l'insegnamento tradizionale (**d = 1,88**) su una misura del processo decisionale, con guadagni **concentrati sui passaggi più deboli**. L'effetto è nella qualità del ragionamento, nei punti in cui gli studenti erano più deboli.
+- **"La sola indagine è l'ingrediente attivo."** L'indagine assistita dall'IA ha **migliorato il processo decisionale sul clima rispetto alla sola indagine**, quindi il contributo dell'IA era aggiuntivo rispetto alla struttura pedagogica anziché intercambiabile con essa.
+- **"Gli effetti grandi da campioni piccoli sono comunque effetti grandi."** La [[learning-design|progettazione didattica]] assistita dall'IA sotto la Pedagogia dello sviluppo sostenibile ha **migliorato i piani di lezione dei docenti pre-servizio con un d = 2,80 da 28** partecipanti — la parola dei revisori stessi è *implausibilmente grande*, e un effetto di quella dimensione da quel campione va trattato come un segnale anziché come una stima.
 
 ## Concetti collegati
 

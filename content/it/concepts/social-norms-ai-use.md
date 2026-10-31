@@ -1,6 +1,7 @@
 ---
 title: Norme sociali nell'uso dell'IA
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -21,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 translation_of: "concepts/social-norms-ai-use"
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -94,6 +99,18 @@ Il costo di quella sostituzione emerge in dove docenti e studenti parlano effett
 - **Rispetta la variazione disciplinare.** Uno spread dal 27% al 5% fra dipartimenti non è un'incoerenza da normalizzare, sono giudizi diversi su cosa la credenziale certifichi. I mandati a livello istituzionale tendono a essere scritti per una disciplina che non esiste.
 - **Non ricorrere al monitoraggio per definire le norme.** La sorveglianza d'esame ha aumentato l'ansia senza cambiare la tentazione di barare nello studio più forte disponibile, e concentra quel costo sugli studenti meno avvantaggiati.
 - **Chiedi chi manca dalla norma.** La letteratura di etica assegna agli studenti quasi nessun obbligo e tiene poco conto del loro giudizio, mentre l'aula ne assegna loro molti e li fa rispettare socialmente. Colmare quel divario è una questione di curricolo, non di conformità.
+
+## Idee sbagliate comuni
+
+**"Gli studenti sanno quanto i loro pari usano l'IA."** Sovrastimano la propria conoscenza in merito. La correlazione mediana tra le stime di un osservatore e il proprio profilo d'uso auto-dichiarato era **r = ,73 in entrambe le ondate**, mentre l'accuratezza di rango per il *tipo* di uso dell'IA era solo **r = ,34**. Gli studenti sanno dire all'incirca quanto, e non sanno dire di che tipo — il che significa che le norme si formano attorno a un'impressione sistematicamente grossolana.
+
+**"Pubblicare una politica stabilisce la norma."** Il libro delle regole locale è scritto nella pratica, non nel testo della politica, e i domini divergono nettamente: i compiti che integrano l'IA comparivano nel **27% dei programmi di economia e nel 5% di quelli umanistici** su **31.000 corsi**. La norma operativa di uno studente è quella della propria disciplina, e un documento a livello istituzionale non la sovrascrive.
+
+**"Vergogna e senso di colpa scoraggiano l'uso dell'IA."** Regolano la visibilità anziché l'uso: [[shame-guilt-ai-regulation-computing-education|la vergogna e il senso di colpa regolano la visibilità]], producendo nascondimento e rivelazione selettiva invece di un cambiamento di comportamento. L'effetto osservabile di una norma che fa vergognare è una rendicontazione meno onesta, non un uso minore.
+
+**"La sorveglianza risolverebbe la norma rendendo visibile l'uso."** Rendere visibile il comportamento non risolve quale dovrebbe essere la norma; cambia ciò che le persone sono disposte a rivelare. Il pattern misurato è già la rivelazione selettiva, quindi un regime di monitoraggio applicato ad essa misura l'occultamento anziché la condotta.
+
+**"Le norme sono informali, quindi fuori dalla portata delle istituzioni."** Sono fatte rispettare localmente e modificabili localmente, il che le rende più trattabili della politica: la pratica esplicita di un team di corso è una leva proprio perché è lì che si fissa la regola operativa.
 
 ## Concetti collegati
 

@@ -13,13 +13,18 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-28T18:24:42-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,6 +74,10 @@ Il problema probatorio sta sotto tutto questo. L'output del rilevatore è l'evid
 
 Un'esposizione diversa risiede dentro gli strumenti stessi. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] ha nascosto cinque iniezioni indirette di prompt nei file di un saggio sintetico che uno [[automated-assessment|strumento di correzione con IA]] istituzionale (Microsoft Copilot, GPT-5.2) aveva corretto come insufficiente in sei esecuzioni di base su sei. Due strategie hanno alzato il voto senza alcun avviso visibile all'utente, con tassi di successo dell'attacco riportati del 100% (9 iterazioni su 9) e del 94% (17 su 18), combinando manipolazione delle istruzioni, gioco di ruolo e offuscamento; lo strumento ha silenziosamente disattivato una chat dopo aver bloccato l'attacco più semplice, e in un'iterazione ha annunciato che non avrebbe mai seguito istruzioni incorporate e poi ha alzato il voto in ciascuna delle sei esecuzioni successive. Un voto ottenuto tramite un'istruzione nascosta non reca alcuna pretesa di [[assessment-validity|validità]], e la stessa tecnica potrebbe essere usata per degradare una consegna senza lasciare traccia durevole nell'output — il che significa che il fascicolo di impugnazione per una decisione automatizzata contestata può essere vuoto, e un accertamento di cattiva condotta (o di merito) non può essere provato a partire dall'artefatto. Le richieste a livello di settore di Humble sono chiara [[educational-policy-ai|policy sull'IA]], [[educational-development|sviluppo professionale]] e test di resilienza standardizzati e indipendenti dal dominio, affinché la superficie di attacco venga misurata anziché data per scontata, con uso limitato dell'IA e [[human-in-the-loop-ai|revisione umana]] riservati ai lavori ad alta posta in gioco.
 
+### Proprietà e la questione del pubblico dominio
+
+Il diritto d'autore è l'altra questione legale in questo territorio, e va nella direzione opposta a quella della cattiva condotta. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley e Downes (2026)]] leggono la posizione dell'United States Copyright Office come trattante i soli prompt come insufficienti per la paternità. Se quella lettura regge, un'opera puramente generata da una macchina non è posseduta da chi l'ha sollecitata, il che conta due volte: un caso di cattiva condotta non ha testo d'autore da attribuire a uno studente, e un'istituzione che pubblica quell'opera non può rivendicarne i diritti. Sono allora le licenze a fare il lavoro che la proprietà farebbe altrimenti, ed è per questo che la licenza aperta e l'integrità accademica sono un solo problema visto da due lati.
+
 ### Oltre il cancello del campus
 
 Per i programmi professionali l'esposizione non finisce con la laurea. Gutowski e Hurley registrano che le regole di condotta professionale che vincolano gli avvocati in esercizio — il dovere di competenza tecnologica, la riservatezza, la supervisione di chi usa gli strumenti, la sincerità verso il tribunale — si applicano già all'uso dell'IA, e che l'autorità [[hallucination-risk|allucinata]] ha prodotto sanzioni per i professionisti che avevano depositato casi fabbricati. La stessa logica di trasferimento si applica ovunque una licenza, un'iscrizione o un obbligo di legge segua il laureato, ed è per questo che le pagine disciplinari della [[legal-education|formazione giuridica]] e delle [[medical-education|professioni sanitarie]] stanno accanto a questa.
@@ -79,6 +88,16 @@ Per i programmi professionali l'esposizione non finisce con la laurea. Gutowski 
 - L'output di un rilevatore sopravvive come prova di alcunché una volta che un'istituzione ne ammette i tassi di errore in un'udienza, o quell'ammissione trasforma il caso in una controversia sull'equità procedurale?
 - È il fornitore o l'istituzione il titolare del trattamento quando la sorveglianza e il rilevamento passano attraverso una piattaforma di terzi, e questo cambia il consiglio da dare alle istituzioni?
 - Le istituzioni dovrebbero pubblicare gli standard probatori che applicano alla cattiva condotta connessa all'IA, così come altrove si pubblicano le soglie probatorie, come modo per ridurre sia l'accusa ingiusta sia l'esposizione giuridica?
+
+## Idee sbagliate comuni
+
+**"La cattiva condotta con l'IA è un'unica questione legale."** Sono diverse che arrivano insieme — **probatorie** (se l'accusa possa essere provata in assoluto), **contrattuali e procedurali** (se l'istituzione abbia seguito le proprie regole e offerto un'audizione equa), e relative alle **parità** di trattamento. Una risposta che affronta l'evidenza trascurando la procedura è esposta legalmente su una dimensione che non ha mai considerato, e le istituzioni tendono a prepararsi su quella per cui sono state citate.
+
+**"Le istituzioni hanno scritto politiche coerenti, quindi il rischio è degli studenti."** L'incoerenza corre anche nell'altra direzione. Il sondaggio di [[watson-rainie-ai-challenge-faculty-survey-2026|Watson e Rainie (2026)]] su **1.057 docenti statunitensi** ha trovato che l'**87% dei rispondenti ha scritto una propria guida a livello di compito** — quindi le regole operative variano dentro una singola istituzione, e uno studente può rispettare la regola di un docente e violare quella di un altro nella stessa settimana. Uno studente accusato secondo uno standard non dichiarato ha un problema procedurale che l'istituzione ha creato.
+
+**"Il rilevamento fornisce l'evidenza che serve a una procedura."** Il rilevamento fornisce un punteggio. La questione probatoria è se un'accusa possa essere provata in assoluto, e la [[ai-detection|letteratura sul rilevamento]] mostra che gli strumenti non producono né l'affidabilità né la categoria interpretabile che richiede un processo disciplinare. Costruire la procedura su un rilevatore significa costruirla sull'anello più debole.
+
+**"I rischi sono ipotetici e le politiche si allineeranno."** I rischi si stanno distribuendo in modo diseguale adesso, e gli studenti che li assorbono sono quelli meno in grado di contestare una procedura. L'asimmetria tra la capacità di un'istituzione di indagare e la capacità di uno studente di rispondere è un danno presente, non futuro.
 
 ## Concetti collegati
 

@@ -2,6 +2,7 @@
 connected_resources: [mglearn]
 title: Apprendimento inclusivo
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -9,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: "concepts/inclusive-learning"
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -87,6 +92,16 @@ L'apprendimento inclusivo è profondamente connesso all'[[equity-in-ai-education
 - **Tratta esplicitamente il trade-off sicurezza/accessibilità.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] modella come le misure anti-imbroglio possano involontariamente escludere chi apprende con bisogni di elaborazione visiva — pondera l'integrità rispetto all'accesso.
 - **L'accesso può dipendere dalla formulazione, non solo dal formato.** Con il compito sottostante mantenuto fisso, l'accuratezza del modello è salita dall'82,4% per la formulazione a bassa literacy all'83,4% per la formulazione esperta, perciò richiedere agli studenti di promptare meglio aggiunge una nuova esclusione; un riscrittore lato sistema che normalizza le richieste ha rimosso il divario significativo senza alterare i contenuti ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Presidiati contro l'IA che riproduce l'esclusione.** La [[genai-minoritized-knowledges-disability|critica centrata sulla disabilità]] avverte che i dati di addestramento anglofoni e centrati sull'Occidente marginalizzano i modi di conoscere delle persone con disabilità — audita gli strumenti di IA per la giustizia epistemica insieme all'[[equity-in-ai-education|equità nell'IA in educazione]].
+
+## Idee sbagliate comuni
+
+**"Uno strumento accessibile equivale a un corso inclusivo."** L'accessibilità risponde a una domanda — tutti possono percepire e usare il formato — che è necessaria e ben lungi dall'essere sufficiente. L'apprendimento inclusivo chiede anche quali strumenti colmino il [[digital-divide|divario di accesso]] di un individuo e come il design debba anticipare la variazione anziché adattarsi a posteriori. Un'interfaccia compatibile con gli screen reader in un corso la cui struttura di valutazione presume una stanza silenziosa, una banda larga affidabile e tempo ininterrotto ha risolto il problema della visualizzazione e lasciato intatto quello della partecipazione.
+
+**"Fornire tecnologia assistiva equivale a fornire agency."** Le due cose sono distinte, e l'inquadramento stesso della pagina lo dice: la tecnologia assistiva non garantisce un'agency significativa. Uno strumento che permette a un discente di completare il compito richiesto può anche indirizzarlo verso la versione più ristretta di quel compito, e la differenza tra uno scaffold e un tetto è invisibile in una metrica di adozione.
+
+**"Gli studenti che faticano dovrebbero semplicemente imparare a formulare prompt migliori."** Questo converte un difetto del sistema in un deficit del discente. Tenendo fisso il compito sottostante, l'accuratezza del modello è salita solo dall'**82,4% per la formulazione a bassa alfabetizzazione all'83,4% per la formulazione esperta** — un punto di differenza — mentre richiedere prompt migliori aggiunge una nuova esclusione a quella esistente. La leva sta nella gestione della variazione linguistica dal lato del sistema, non in una formazione rimediale al prompting.
+
+**"Uno strumento costruito per aule ben dotate servirà i contesti a basse risorse una volta tradotto."** Il contesto cambia il vincolo progettuale. [[suacode-african-students-motivations|SuaCode]] ha raggiunto studenti in contesti africani a basse risorse dove **meno dell'1% ha competenze di programmazione** costruendo per smartphone anziché per macchine da laboratorio desktop, che è un design diverso, non una versione più piccola dello stesso.
 
 ## Concetti collegati
 

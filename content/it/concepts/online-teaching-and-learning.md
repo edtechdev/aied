@@ -1,6 +1,7 @@
 ---
 title: Didattica e apprendimento online
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,13 +11,17 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: "concepts/online-teaching-and-learning"
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -105,6 +110,7 @@ Qualunque combinazione un docente scelga, un vincolo dovrebbe modellarla. Lo stu
 - **Apprendimento attivo e interattivo.** Privilegiare strategie che mantengono gli studenti nel fare e nel pensare anziché nel ricevere passivamente — [[active-learning|apprendimento attivo]], esercizi interattivi e dialogo [[socratic-method|socratico]]. L'IA che sollecita il ragionamento (anziché fornire risposte) preserva la lotta produttiva e le [[desirable-difficulties|difficoltà desiderabili]] che costruiscono un apprendimento durevole.
 - **Supporto guidato e a impalcatura.** Usare [[scaffolding|impalcature]] che si attenuano man mano che i discenti progrediscono, e progettare supporti all'[[self-regulated-learning|apprendimento autoregolato]] così che i discenti dirigano il proprio apprendimento anziché dipendere dallo strumento.
 - **Apprendimento collaborativo e basato sulla discussione.** Strutturare deliberatamente discussioni online e lavoro di gruppo; usare attività di [[collaborative-learning|apprendimento collaborativo]] e, quando l'IA partecipa, calibrarne la facilitazione e il suo ruolo di pari.
+- **La progettazione dei ruoli è l'intervento, non lo strumento.** In un corso universitario online, assegnare ruoli rotanti di moderatore, analista e argomentatore a [[learners|chi apprende]] e a un partner di IA generativa ha alzato i punteggi di contenuto delle mappe mentali di gruppo da M = 3,65 a M = 4,59 su una scala SOLO da 1 a 5 (z = 3,771, p < 0,001), mentre i conteggi di nodi e rami restavano statisticamente invariati ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]]).
 - **Valutazione autentica e che rivela il processo.** Spostarsi verso la [[authentic-assessment|valutazione autentica]] e valutazioni che catturano il processo — bozze, difese orali, auto-spiegazioni, [[eportfolio|portfolio]] riflessivi — che sono più resistenti all'IA e rivelano una comprensione autentica.
 - **Percorsi personalizzati e adattivi.** Usare la [[personalized-learning|personalizzazione]] abilitata dall'IA e le attività [[adaptive-learning|adattive]] per adattare ritmo e difficoltà, mantenendo la personalizzazione profonda (sequenziamento dei compiti, calibrazione della difficoltà) anziché meramente superficiale (esempi su misura).
 - **Presenza sociale e costruzione della comunità.** Coltivare deliberatamente la presenza sociale e la [[collaborative-learning|comunità]] — il nucleo del framework [[community-of-inquiry|Community of Inquiry]] — attraverso IA compagna, check-in sincroni e interazione tra pari, poiché l'isolamento online è una barriera chiave al [[student-engagement|coinvolgimento]] e all'appartenenza. Nell'era dell'IA questo significa curare le tre presenze (cognitiva, sociale, didattica) anche mentre il discorso generato dalle macchine complica chi è "presente" (si veda [[community-of-inquiry|Community of Inquiry]]).
@@ -121,10 +127,21 @@ Qualunque combinazione un docente scelga, un vincolo dovrebbe modellarla. Lo stu
 - **Incorporare l'IA nell'ambiente di apprendimento, non come accessorio esterno.** Gli assistenti costruiti ad hoc e contestualmente sintonizzati, incorporati nel corso (come [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), superano i chatbot esterni generici e aumentano l'accettazione.
 - **Calibrare la facilitazione dell'IA verso la cautela umana.** Quando si usa l'IA per moderare le discussioni, preferire impostazioni che intervengono con parsimonia ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Progettare per i vincoli della vita degli adulti.** Per i discenti adulti e a distanza, dare priorità all'accesso mobile, alla capacità offline e alla disponibilità asincrona ([[ai-adult-learning-guidelines-dis2026|linee guida AI-ALOE]]).
+- **I formati compressi richiedono una riprogettazione, non una compressione.** I corsi universitari asincroni di sei settimane per insegnanti in servizio sono un vincolo istituzionale che richiede una riprogettazione intenzionale anziché un corso di quindici settimane compresso, e il dialogo con l'IA porta la presenza didattica nelle ore tarde in cui un docente non può essere in servizio [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 - **Co-progettare con studenti e personale, e costruire governance.** Lo sviluppo partecipativo, la sponsorizzazione della dirigenza, la collaborazione tra unità e una [[governance|governance]] robusta sono fattori abilitanti per l'adozione responsabile di GenAI.
 - **Assumere che un agente tenterà ogni attività non sorvegliata, e progettare a partire da questa assunzione.** Il test delle tre domande è rapido ed espone le attività deboli: un sistema di IA potrebbe completare questo senza che lo studente comprenda il materiale; quale attività cognitiva dovrebbe produrre l'apprendimento; quale evidenza mostrerà che lo studente l'ha eseguita. Quando la prima risposta è sì e le altre due sono difficili da rispondere, il problema è la progettazione dell'apprendimento anziché la politica sull'IA.
 - **Mantenere la verifica proporzionata al rischio.** Dove la competenza deve essere certificata, preferire un compito gemello, una difesa orale asincrona o un breve controllo di comprensione rispetto al monitoraggio generalizzato; mantenere il resto del corso flessibile per i discenti che dipendono da quella flessibilità.
 - **Usare le analitiche per supportare, non sostituire, l'insegnamento.** Sfruttare il [[learning-analytics|learning analytics]] per prevedere il coinvolgimento e indirizzare il supporto, ma mantenere centrale la [[human-in-the-loop-ai|supervisione umana]].
+
+## Idee sbagliate comuni
+
+**«L'insegnamento online è l'insegnamento d'aula erogato attraverso uno schermo.»** È un contesto pedagogico distinto, e l'IA vi si inserisce diversamente. Il TPACK auto-riportato per l'insegnamento scientifico integrato con l'IA era più alto tra gli studenti insegnanti dell'ultimo anno di un'università con sede fisica (**64,0%**) che in un'università di formazione a distanza (**47,4%**), con il dominio più debole in entrambi i contesti quello pedagogico. Il contesto a distanza aggrava un divario di preparazione già esistente anziché ricevere lo stesso supporto.
+
+**«Aggiungere un assistente di IA a un corso aumenta il coinvolgimento.»** Il coinvolgimento dipende dal fatto che l'assistente sia costruito per lo scopo e dentro l'ambiente. L'assistente AIDA della Open University ha alzato il coinvolgimento — raddoppiando il tempo di utilizzo in una prova esplorativa — e la condizione di progettazione è il risultato: la stessa capacità agganciata come strumento esterno non recluta lo stesso comportamento. Un link a un chatbot generico nel guscio del corso non è l'intervento studiato.
+
+**«L'IA alza la performance, quindi alza l'apprendimento.»** Nei contesti online la divergenza è la stessa delle aule: un [[rct]] ha trovato che l'assistenza non sorvegliata dell'IA alzava la performance nella pratica ma *abbassava* i punteggi all'esame senza assistenza, mentre un tutor «suggerimento e non risposta» rimuoveva il danno. I corsi online si affidano maggiormente alla valutazione asincrona, quindi il divario tra performance assistita e non assistita è dove si vince o si perde la validità.
+
+**«La validità della valutazione è una questione di politica dei voti.»** È una questione di progettazione creata dal mezzo: quando una consegna può essere prodotta senza che chi apprende sia presente, la validità dipende dal fatto che il compito produca evidenze che è stato lui a svolgere il lavoro. Riprogettare il compito lo affronta; inasprire la sanzione per la condotta scorretta no.
 
 ## Concetti collegati
 - [[pedagogical-patterns]] — Il contesto che rende portante il sequenziamento, poiché il sistema non può vedere un tentativo
@@ -173,9 +190,11 @@ Qualunque combinazione un docente scelga, un vincolo dovrebbe modellarla. Lo stu
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)
 - [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026]] — AI-Generated Summary-Driven Learning Design in Online Discussion Forums
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus-based student teachers reported higher TPACK for AI-integrated science teaching than distance education peers (64.0% versus 47.4%)
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — La progettazione dei ruoli è l'intervento, non lo strumento
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Corsi universitari asincroni di sei settimane per insegnanti in servizio: riprogettare il formato anziché comprimerlo

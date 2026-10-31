@@ -1,6 +1,7 @@
 ---
 title: Apprendimento per rinforzo
 created: "2026-10-14T21:57:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -9,13 +10,17 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: "concepts/reinforcement-learning"
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,6 +59,16 @@ Una revisione sistematica dell'RL nell'istruzione secondo lo standard PRISMA ([[
 ### Connessione con la knowledge base
 
 L'RL è alla base di gran parte della progettazione moderna dell'[[agentic-ai]] e dell'[[intelligent-tutoring]], dove l'agente deve ottimizzare l'apprendimento a lungo termine anziché una singola risposta corretta. Si collega alla [[llm-training-and-fine-tuning]] (l'RL come metodo di addestramento), allo [[scaffolding]] (il progetto della ricompensa che preserva la lotta produttiva) e all'[[self-regulated-learning]] (agenti che aiutano chi apprende a regolare la propria strategia). Poiché il progetto della ricompensa codifica valori educativi, la ricerca sull'RL nell'AIED è strettamente legata alla [[pedagogical-safety]] e alle considerazioni di equità di un comportamento del tutor [[equity-in-ai-education|equo]].
+
+## Idee sbagliate comuni
+
+**"Uguagliare una baseline significa che la policy RL ha imparato qualcosa che vale la pena avere."** Significa che la ricompensa è stata soddisfatta. Un tutor basato sul deep RL ricompensato sul punteggio al test e sull'efficienza temporale **eguagliava un'euristica BKT nel post-test (A = 0,58 per entrambi)** assegnando però solo il **4% dei problemi di addestramento alla riparazione produttiva di esempi errati (buggy)** e favorendo l'interazione più economica. La policy ha ottimizzato ciò per cui era pagata, e ciò per cui era pagata escludeva l'attività produttiva.
+
+**"La funzione di ricompensa è un dettaglio tecnico."** È la specifica pedagogica. Tutto ciò che la ricompensa pesa è ciò che la policy farà, quindi scegliere tra punteggio, efficienza temporale, engagement e riparazione richiede una posizione esplicita su che cosa sia l'apprendimento — una decisione curricolare codificata in un numero.
+
+**"Orizzonti più lunghi sono semplicemente migliori."** Consentono ciò che orizzonti più brevi non possono, e richiedono che la ricompensa sia giusta lungo l'intera sequenza. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] ottimizza interi **incontri clinici di 60 turni**, ben oltre gli orizzonti di ≤12 turni dei sistemi di dialogo contemporanei, il che alza il costo di un obiettivo mal specificato anziché abbassarlo.
+
+**"L'RL è il formalismo appropriato per la tutoristica perché l'insegnamento è sequenziale."** La sequenzialità è necessaria e non sufficiente; il vincolo determinante è la validità della ricompensa. Un obiettivo ben specificato con una policy debole batte una policy forte contro un obiettivo sbagliato.
 
 ## Concetti collegati
 

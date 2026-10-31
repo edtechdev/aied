@@ -1,19 +1,24 @@
 ---
 title: Apprendimento Incarnato
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: "concepts/embodied-learning"
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,6 +55,13 @@ Un secondo filone, più teorico, della ricerca della knowledge base sull'incarna
 - **Incarnazione, situazionalità e costruzione sociale.** Nell'[[science-education|apprendimento delle scienze]], gli strumenti di IA funzionano come "artefatti di mediazione" che abilitano comunità di pratica digitali e l'attraversamento di confini, collegando l'indagine incarnata e autentica a contesti reali e interdisciplinari. ([[li-ai-science-situated-learning-teachers-2025]]) Questo lega l'incarnazione all'[[situated-learning|apprendimento situato]] e alla [[distributed-cognition|cognizione distribuita]].
 
 L'apprendimento incarnato si collega a [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]] e [[social-emotional-learning]].
+- **Il tracciamento del corpo trasforma la regolazione in un segnale misurabile.** In una simulazione di fotosintesi in realtà mista in cui tag di movimento spostavano gli agenti-studente attraverso un modello proiettato, una pipeline LLM ha etichettato 470 segmenti di comportamento autoregolato in 40 minuti di video, con l'enactment dominante al 66,4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+## Idee sbagliate comuni
+
+- **"È il corpo a far funzionare l'apprendimento incarnato."** Una meta-analisi di **11 studi RALL (N = 595, g = 0,83, I² = 84,4%)** ha trovato che **morfologia, modalità, autonomia e ruolo sociale del robot non moderavano** gli esiti di apprendimento della seconda lingua. Le caratteristiche di incarnazione non erano l'ingrediente attivo, e l'eterogeneità era abbastanza alta (I² = 84,4%) che l'effetto aggregato descrive un insieme di interventi molto eterogeneo.
+- **"Un effetto grande risolve il meccanismo."** g = 0,83 con 595 partecipanti su 11 studi è un segnale reale e non identifica ciò che lo ha prodotto. Poiché le caratteristiche di progetto non moderavano l'effetto, il meccanismo plausibile sta nell'attività didattica anziché nell'hardware — il che cambia in che cosa investire.
+- **"L'incarnazione non è misurabile, quindi resta teorica."** Il tracciamento del corpo può trasformare la regolazione in un **segnale misurabile**: in una simulazione di fotosintesi in realtà mista in cui tag di movimento spostavano gli agenti-studente attraverso un modello proiettato, una pipeline LLM ha etichettato **470 segmenti** di comportamento regolatorio. Il costrutto è operativizzabile anche dove è difficile da definire.
 
 ## Concetti collegati
 
@@ -67,6 +79,7 @@ L'apprendimento incarnato si collega a [[educational-robotics]], [[educational-r
 
 ## Articoli collegati
 
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Motion-tracked photosynthesis simulation analyzed with an LLM pipeline (Fonteles et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

@@ -1,18 +1,23 @@
 ---
 title: Ricerca qualitativa
 created: "2026-10-14T21:58:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: "concepts/qualitative-research"
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,37 +41,31 @@ La ricerca qualitativa non è un singolo metodo ma una famiglia organizzata in b
 ## I principali approcci qualitativi
 
 ### Analisi tematica
-
 L'analisi tematica identifica, codifica e interpreta pattern ("temi") all'interno di dati qualitativi — tipicamente trascrizioni di interviste o focus group, risposte aperte a questionari o documenti. È l'approccio più ampiamente usato negli studi qualitativi della knowledge base. Le interviste e le risposte aperte sono esse stesse [[self-report-measures|dati auto-riferiti]], quindi condividono i limiti su ciò che si può affermare riguardo al comportamento — si veda quella pagina per capire dove l'evidenza auto-riferita è solida e dove si rompe. [[fouad-bentley-trust-utility-gap-physics-2026|Uno studio sul divario fiducia–utilità in fisica]] usa l'analisi tematica dei dati di intervista agli studenti per far emergere lo scetticismo e le preferenze di adozione [[discipline-specific-aied|specifici del dominio]]; [[genai-teacher-feedback-comparison|un confronto tra feedback di GenAI e feedback dell'insegnante]] analizza le percezioni degli studenti su utilità e affidabilità; e [[ai-adult-learning-guidelines-dis2026|le linee guida per l'apprendimento con l'IA in età adulta]] derivano principi di design dalla codifica tematica di input di esperti e discenti. [[ai-changing-teaching-workflows|Come l'IA cambia i flussi di lavoro degli insegnanti]] si basa sull'analisi tematica dei resoconti degli educatori.
 
 L'affidabilità della codifica può diventare una procedura continua anziché un controllo una tantum. [[preservice-teachers-noticing-ai-simulations-2026|Galiç et al. (2026)]] codificano 304 affermazioni di noticing a un α di Krippendorff = 0,803, monitorano la concordanza su cinque casi sovrapposti (κ aggregato = 0,937) e ricodificano le affermazioni contestate ogni volta che la concordanza scendeva sotto una soglia di ricalibrazione di 0,85 prima di riprendere; le affermazioni codificate entrano poi in un'analisi di reti epistemiche che modella quali dimensioni co-occorrono, invece di una lista piatta di temi.
 
 ### Grounded theory
-
 La grounded theory costruisce una teoria *a partire dai dati* anziché testare un quadro a priori, usando una codifica iterativa (aperta → assiale → selettiva) fino alla saturazione teorica. È ideale per costruire nuova teoria su fenomeni emergenti dell'IA nell'educazione. [[liu-tool-tutor-crutch-programming-2026|Liu et al.]] sviluppano una grounded theory di *strumento, tutor o stampella* — una tipologia a tre modalità di come gli studenti si [[scaffolding|facilitino]] cognitivamente o scarichino sull'IA nell'[[cs-education|educazione alla programmazione]] — teorizzando direttamente il [[cognitive-offloading|cognitive offloading]]. [[favero-critical-ai-tutors-empower-enslave-2025|Uno studio grounded-theory sui tutor di IA critici]] esamina se tali tutor emancipino o asserviscano i discenti. [[genai-feedback-design-multisite-experiment|Il design human-centered del feedback GenAI]] usa un'analisi grounded su uno studio multisito. Si veda anche [[theory-development-aied]] per come tali teorie grounded alimentino la costruzione teorica del campo.
 
 ### Fenomenologia e fenomenografia
-
 Gli approcci fenomenologici studiano l'*esperienza vissuta* di un fenomeno — com'è imparare con l'IA — mentre la fenomenografia studia i *modi qualitativamente diversi* in cui le persone vivono e comprendono un fenomeno (producendo "categorie di descrizione"). [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] attinge alle esperienze vissute dagli studenti di autovalutazione con l'IA per teorizzare un vuoto strutturale; [[metacognitively-discordant-completion-genai-2026|uno studio fenomenologico]] cattura l'esperienza di portare a termine un lavoro con l'IA sapendo consapevolmente di non capirlo; e [[genai-runaway-object-math-higher-ed|uno studio socio-culturale e interpretativo]] analizza come la GenAI diventi un "oggetto fuggitivo" nella pratica accademica della [[math-education|matematica]].
 
 ### Analisi del discorso
-
 L'analisi del discorso esamina come il linguaggio in uso costruisca significato, identità e potere — analizzando il parlato in classe, il testo scritto o le sequenze interazionali. [[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]] conduce un'*analisi del discorso* in classe a orizzonte lungo (qui assistita computazionalmente) per mitigare il bias dialettale nella comprensione dell'interazione in classe; [[scaffolding-critical-engagement-genai-minority-students|uno studio su studenti preparatori di minoranze etniche]] analizza il *discorso* collaborativo in compiti di [[prompt-engineering]]. L'analisi del discorso fa da ponte tra interpretazione qualitativa e metodi computazionali quando si combina con [[educational-nlp]].
 
 [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] mostra come la codifica del discorso diventi verificabile quando è resa come regole conteggiabili: su 366 abstract e 91.405 token, un'associazione conta solo quando un attore precede un predicato entro sei parole interposte, e la prossimità nominale è esclusa così che "governance dell'IA" non conti mai come evidenza che l'IA governi — un'approssimazione basata su regole, non un parse di dipendenze, i cui limiti il design dichiara.
 
 ### Osservazioni ed etnografia
-
 Gli studi osservativi guardano il comportamento nel contesto; l'etnografia estende questo a uno studio sostenuto e immersivo di un contesto, spesso con il ricercatore come osservatore partecipe. [[trio-ethnography-llm-programming-education|Una trio-etnografia]] dell'educazione alla programmazione supportata dalle LLM traccia come evolvano le interpretazioni degli studenti; [[zha-ai-literacy-biology-case-study|uno studio di caso in classe]] osserva l'integrazione dell'[[ai-literacy|alfabetizzazione sull'IA]] nella [[biology-education|biologia]]. I metodi osservativi catturano il comportamento *reale* (cosa fanno i discenti con l'IA) piuttosto che il comportamento riportato — integrando le indagini auto-riferite che dominano la [[educational-measurement|misurazione quantitativa]] degli atteggiamenti.
 
 ### Studi di caso
-
 Uno studio di caso è un'indagine approfondita di un caso delimitato (un corso, un'istituzione, un singolo discente) che usa molteplici fonti di dati. [[drummond-genai-business-schools-framework-2026|Uno studio di caso in una business school]] genera un quadro di insegnamento e apprendimento informato dagli studenti per la GenAI; [[zha-ai-literacy-biology-case-study|uno studio di caso in biologia]] documenta l'integrazione dell'alfabetizzazione sull'IA. Gli studi di caso scambiano ampiezza per profondità e sono forti nella generazione di teoria e nell'intuizione trasferibile piuttosto che nella generalizzazione. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] offrono uno studio di caso qualitativo su 21 studenti universitari con disabilità visiva in tre università palestinesi, usando l'analisi tematica di interviste semi-strutturate per mostrare come la GenAI funzioni come [[assistive-technology|tecnologia assistiva]] per l'[[inclusive-learning|apprendimento inclusivo]] — un esempio di ricerca basata su studi di caso che porta alla superficie meccanismi (adattamento personalizzato, potenziamento del docente, parità educativa) che le misure quantitative non colgono.
+- La variazione scelta non è la variazione trovata: tre apprendenti di EFL, selezionati da 241 studenti intervistati per competenza, genere e storia con la GenAI diversi, hanno seguito traiettorie emotive nettamente divergenti attraverso tre compiti, eppure i casi di variazione massima non possono stimare quanto sia comune una qualsiasi traiettoria ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang e Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangola video, i log propri del sistema di allerta e interviste di richiamo dello stimolo per un insegnante e otto studenti, mostrando che un segnale affettivo acquisiva significato solo attraverso la risposta dell'insegnante; la codifica degli episodi in due fasi da parte di un singolo autore, senza codifica indipendente né rilevamento dell'affetto validato, segna il limite di ciò che un'analisi di caso con un solo codificatore può giustificare.
 
 ### Interviste e focus group
-
 Le **interviste** semi-strutturate e i **focus group** sono gli strumenti primari di raccolta dati in tutti gli approcci sopra. Elicitano resoconti ricchi e contestuali. Il corpus qualitativo della knowledge base si fonda in larga misura sulle interviste (ad es. [[genai-expertise-pathways-sysadmin|i percorsi di expertise]]) e sui focus group (ad es. [[t2i-competence-paradox-2026|il paradosso della competenza nel text-to-image]], [[ai-adult-learning-guidelines-dis2026]]). La qualità dipende da un'attenta progettazione delle domande, dal campionamento per variazione e da un'analisi rigorosa.
 
 ## Come appare la ricerca qualitativa nella knowledge base
@@ -90,6 +89,16 @@ Uno sviluppo recente distintivo è l'uso delle [[llm|LLM]] per assistere la codi
 - **Limiti:** generalizzabilità statistica limitata; natura interpretativa e dipendenza dal ricercatore (problemi di affidabilità); campioni piccoli; supporto più debole per le affermazioni causali; risultati difficili da sintetizzare tra studi; intensità di tempo e lavoro.
 
 I metodi qualitativi e quantitativi sono complementi, non rivali — si veda [[research-methods-aied]] per come si contrastino e si triangolino, e [[mixed-methods-research|metodi misti]] per i disegni che li combinano.
+
+## Idee sbagliate comuni
+
+**"I risultati qualitativi non sono generalizzabili perché i campioni sono piccoli."** Di solito non sono generalizzabili *statisticamente* e sono spesso generalizzabili *concettualmente* — i meccanismi e le dinamiche che identificano si trasferiscono ad altri contesti anche dove le frequenze no. Un focus group che spiega perché gli studenti diffidano di un tutor ha prodotto un meccanismo che un'indagine non può produrre, e scartarlo perché privo di intervallo di confidenza scarta proprio la parte che viaggia.
+
+**"L'IA può ora fare l'analisi qualitativa, quindi il metodo scala."** Scala la codifica e non l'interpretazione. Dove il corpus mostra che questo funziona bene, è perché il compito di codifica era stato reso confrontabile prima — uno studio ha applicato **15 vignette fisse** alle politiche pubbliche di **20 università** per ottenere **300 classificazioni confrontabili**, che è un disegno a strumento strutturato e non un disegno interpretativo aperto. L'intuizione del lavoro qualitativo sta nella costruzione delle categorie, e quella il modello la eredita anziché produrla.
+
+**"La saturazione è una proprietà del numero di partecipanti."** È una proprietà dell'analisi: si smette quando i nuovi dati smettono di produrre nuovi codici. Due studi con campioni di uguale dimensione possono essere ugualmente lontani dalla saturazione, ed è per questo che un rapporto che cita il numero di partecipanti come prova di adeguatezza non ha dimostrato nulla sulla copertura.
+
+**"I risultati quantitativi e qualitativi si fanno concorrenza."** Rispondono a domande diverse: un'indagine ti dice quanti studenti diffidano di un tutor, le interviste ti dicono perché. Trattarli come resoconti rivali della stessa cosa produce la falsa scelta che le sezioni di rassegna continuano a riprodurre.
 
 ## Concetti collegati
 
@@ -126,3 +135,4 @@ I metodi qualitativi e quantitativi sono complementi, non rivali — si veda [[r
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — EFL learners' emotional engagement in GenAI-assisted writing: a longitudinal multiple-case study

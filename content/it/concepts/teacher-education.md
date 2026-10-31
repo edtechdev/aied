@@ -1,6 +1,7 @@
 ---
 title: "Formazione degli insegnanti"
 created: "2026-10-14T22:12:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -8,13 +9,17 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +41,8 @@ La formazione dei docenti si colloca all'incrocio di diversi filoni della base d
 
 L'evidenza cross-level affina la priorità progettuale: [[pedagogy-first-technology-second-teacher-knowledge-2026|uno studio multilivello su 46 docenti e 2.832 studenti della secondaria]] ha rilevato che la conoscenza pedagogica dell'IA (TPAIK) — non la conoscenza tecnica dell'IA — guidava le percezioni degli studenti sull'IA per il bene sociale e la loro intenzione di apprendere l'IA. La formazione dei docenti dovrebbe quindi mettere in primo piano *come insegnare con e sull'IA* rispetto alla padronanza degli strumenti, in coerenza con la linea guida «prima la pedagogia, poi la tecnologia».
 
+Un filone heutagogico corre accanto a questa priorità progettuale: [[heutagogical-teaching-ai-enhanced-education-2026|Hochberg e Waitzman (2026)]] hanno seguito 93 docenti israeliani attraverso un programma di sviluppo professionale sull'IA di otto settimane e hanno proposto una relazione a doppio strato in cui la [[regulation|regolazione]] riflessiva e l'alfabetizzazione critica all'IA dei docenti mediano i progetti orientati all'[[agency|agency]] e alla capacità che essi costruiscono per i [[learners|discenti]].
+
 ### Formazione iniziale degli insegnanti
 
 La formazione iniziale (pre-servizio) degli insegnanti prepara i futuri docenti durante i loro programmi di certificazione. La ricerca sull'IA in questo filone include:
@@ -43,11 +50,13 @@ La formazione iniziale (pre-servizio) degli insegnanti prepara i futuri docenti 
 - **La disponibilità nell'AI-TPACK e nell'Intelligent-TPACK.** Strumenti e framework misurano e costruiscono la disponibilità dei docenti in formazione a integrare l'IA, estendendo il framework [[tpack|TPACK]] con una dimensione IA/etica.([[conceptualizing-preservice-teachers-ai-readiness-2026]])([[ai-tpack-mathematics-teacher-education-2026]])
 - **Profili di accettazione, e un paradosso facilità d'uso/intenzione.** [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al. (2026)]] hanno profilato 128 docenti in formazione in quattro gruppi di accettazione di ChatGPT: gli Scettici Resistenti (14,06%) riportavano un'alta facilità d'uso percepita ma un'intenzione comportamentale molto bassa, per cui la sola formazione sulle abilità operative non li converte.
 - **Applicazioni e benefici.** Una revisione di portata di 55 studi mostra che l'IA potenzia la progettazione didattica, l'insegnamento disciplinare, le abilità pratiche di insegnamento, la valutazione, la pratica riflessiva, il [[critical-thinking|pensiero critico]], l'integrazione tecnologica e l'innovazione pedagogica dei docenti in formazione.([[harnessing-ai-preservice-teachers-scoping-2026]])
+- **Il contesto locale come input di progetto.** I docenti in formazione svizzeri valutavano le motivazioni di utilità sociale e intrinseche più dei loro pari cinesi, che riportavano maggiore competenza didattica digitale ed entusiasmo per l'IA ([[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]]). La preparazione dovrebbe ancorare il proprio punto di ingresso al profilo [[motivation|motivazionale]] di ciascun contesto.
 
 - **Un accesso non impalcato alla GenAI ha ottenuto punteggi inferiori all'assenza di GenAI.** In un quasi-esperimento di 11 settimane con 52 docenti in formazione, la classe con GenAI non impalcata ha prodotto piani di lezione valutati con rubrica inferiori a quelli della classe senza GenAI (86,54 corretti vs 81,87, F = 8,348, p = 0,006, η² = 0,146), senza differenza tra i gruppi nell'[[self-regulated-learning|apprendimento auto-regolato]] o nel pensiero critico ([[unscaffolded-genai-preservice-teachers-quasi-experiment-2026|Zhang et al. (2026)]]).
 - **[[educational-robotics|Robotica educativa]] e machine learning.** La formazione iniziale degli insegnanti incorpora attività di coding, robotica e [[machine-learning|machine learning]] (per es. micro:bit) per costruire il [[computational-thinking|pensiero computazionale]] nei futuri docenti.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Valutazione autentica e metacognizione.** I modelli di valutazione mediati dall'IA (per es. AAIWA) integrano la [[authentic-assessment|valutazione autentica basata su rubriche]], il [[ai-feedback-quality|feedback dell'IA]] sensibile alle condizioni e la [[metacognition|riflessione metacognitiva]] nei programmi pre-servizio.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
-- **L'indagine supportata dall'IA nella [[stem-education|formazione scientifica]].** Un quasi-esperimento con 48 docenti in formazione scientifica in Turchia ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) ha integrato l'apprendimento basato sui problemi e sulla progettazione in un programma di indagine guidata supportato dall'IA di 8 settimane su fotosintesi e respirazione. Ha prodotto guadagni significativi nella comprensione concettuale dei due processi [[biology-education|biologici]], ma *nessun* effetto significativo sull'alfabetizzazione in IA o sul [[computational-thinking|pensiero computazionale]] auto-percepito — un promemoria del fatto che l'IBL con l'IA può approfondire la comprensione disciplinare nei candidati docenti senza costruire automaticamente le loro competenze in IA/CT, che richiedono una progettazione esplicita e mirata.
+- **L'indagine supportata dall'IA nella [[science-education|formazione scientifica]].** Un quasi-esperimento con 48 docenti in formazione scientifica in Turchia ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) ha integrato l'apprendimento basato sui problemi e sulla progettazione in un programma di indagine guidata supportato dall'IA di 8 settimane su fotosintesi e respirazione. Ha prodotto guadagni significativi nella comprensione concettuale dei due processi [[biology-education|biologici]], ma *nessun* effetto significativo sull'alfabetizzazione in IA o sul [[computational-thinking|pensiero computazionale]] auto-percepito — un promemoria del fatto che l'IBL con l'IA può approfondire la comprensione disciplinare nei candidati docenti senza costruire automaticamente le loro competenze in IA/CT, che richiedono una progettazione esplicita e mirata.
+- **Cicli strutturati con GPT personalizzati hanno prodotto quattro ruoli di partner cognitivo.** In uno studio di ricerca basata sul design di un semestre, 14 docenti in formazione di Tecnologie Digitali hanno usato agenti GPT personalizzati integrati nell'LMS attraverso cicli Prompt–Riflessione–Rifinitura, mettendo in atto i ruoli di tutor concettuale, co-progettista, specchio riflessivo e sfidante cognitivo man mano che l'expertise cresceva ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]), e l'82% degli artefatti finali mappava descrittori di contenuto, compiti di valutazione e criteri di successo.
 
 - **La [[generative-ai|IA generativa]] per la progettazione didattica costruttivista.** Il [[sahab-model-genai-constructivist-id-2026|modello SAHAB]] è un intervento di sviluppo professionale quasi-sperimentale in cui l'IA generativa dà potere ai docenti di progettare un'istruzione [[constructivist|costruttivista]], con guadagni rilevanti (d = 1,18). Mostra che la GenAI può [[scaffolding|impalcare]] la [[learning-design|progettazione didattica]] sia per i candidati docenti sia per i docenti in servizio — non solo erogare contenuti, ma sostenere la *progettazione* di attività di apprendimento centrate sullo studente.
 - **Formazione sulle classi intelligenti per gli studenti magistrali di [[math-education|matematica]].** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao e Wang (2026)]] mostrano come un corso di matematica per il master in educazione possa essere potenziato con [[ai-technologies|tecnologie]] educative intelligenti ([[automated-assessment|correzione automatizzata]], raccomandazioni personalizzate, feedback multi-IA) attraverso le fasi pre-, in- e post-classe, producendo guadagni statisticamente significativi nella padronanza della progettazione degli obiettivi didattici. Il Modello D-T-E trasferibile (Disciplinary Demand–Technological Empowerment–Evaluation Loop) offre ai formatori di docenti un framework [[discipline-specific-aied|specifico per disciplina]] per integrare l'educazione intelligente nella preparazione magistrale dei docenti.
@@ -55,6 +64,7 @@ La formazione iniziale (pre-servizio) degli insegnanti prepara i futuri docenti 
 - **La scrittura di politiche di classe sull'IA come lente sul pensiero pre-servizio.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] hanno chiesto a 27 docenti pre-servizio di inglese della secondaria, nell'anno capstone di un programma di preparazione all'insegnamento dell'inglese, di scrivere le [[educational-policy-ai|politiche sull'IA]] che avrebbero usato nelle proprie classi 6–12, in uno Stato privo di orientamenti statali sull'IA. 26 dei 27 consentivano qualche uso dell'IA, quasi sempre limitato a compiti, tempi e luoghi specificati dal docente, e uno solo lo vietava del tutto per ragioni etiche legate alle pratiche lavorative e al copyright; 22 consentivano l'IA per generare idee, mentre 22 vietavano o lasciavano non chiarito l'uso dell'IA per comporre frasi, paragrafi o elaborati, e le riflessioni di accompagnamento si leggono come negoziazioni tra impegni pedagogici e un'obbligazione avvertita a integrare la [[generative-ai|IA]]. Chiedere ai docenti pre-servizio di redigere una politica — anziché discutere dell'IA in astratto — ha portato alla luce le loro filosofie, credenze e assunti curricolari, rendendo la scrittura di politiche un'attività di alto valore per i corsi di metodo.
 
 - **La politica non governa la pratica.** Quattro semestri di dati di indagine da un programma di formazione docente statunitense mostrano l'uso della GenAI per la preparazione alla valutazione in crescita dal 57% all'83% e per lo studio dal 44% al 76%, mentre gli istituti prendevano in considerazione software di rilevamento dell'IA, con l'incertezza etica in aumento nelle varie ondate ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+- **Nessuno studio pre-servizio misurava l'apprendimento degli alunni.** Una revisione che poteva includere solo sette fonti ha trovato l'etica riconosciuta ma raramente insegnata o valutata, e i docenti in formazione troppo sicuri nel criticare l'IA ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
 
 ### Sviluppo professionale in servizio
 
@@ -87,6 +97,7 @@ Al di là dei contenuti e delle credenze, la preparazione dei docenti ricorre se
 - **Colmare il divario enunciato/attuato.** I docenti spesso dichiarano abilità operative con l'IA ma faticano ad applicarle in modo pedagogico; progettare uno sviluppo professionale che passi dalla conoscenza alla pratica attuata ([[teachers-ai-knowledge-genai-lesson-planning-2026|la progettazione della lezione]]).
 - **Usare la pratica simulata per scalare la preparazione.** Le classi simulate in stile [[educasim-cs1-instructional-practice|EducaSim]] offrono ai docenti in formazione una pratica a basso costo e alta frequenza con feedback — un complemento al coaching dal vivo limitato.
 - **Affrontare le credenze e la fiducia.** L'[[self-efficacy|auto-efficacia]] predice l'AI-TPACK, mentre forti credenze didattiche tradizionali possono essere una barriera, e la [[trust|fiducia]] è plasmata da trasparenza/equità — occuparsi di questi fattori psicologici, non solo delle abilità.
+- **Misurare la capacità anziché la fiducia.** [[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]] sostiene che il TPACK auto-riportato e il controllo comportamentale percepito possano entrambi indicizzare una fiducia generale, e propone di valutare la prontezza con compiti di progettazione di lezioni e compiti di valutazione dei prompt anziché con la sola autovalutazione, ordinando la capacità AI-TPACK a monte dell'atteggiamento e dell'intenzione.
 
 - **Risalire dai dilemmi di classe.** [[preservice-teachers-responsible-genai-2026|Kohnke et al. (2026)]] hanno intervistato **17 docenti pre-servizio** in un'università di Hong Kong e sono risaliti all'indietro, dai dilemmi di classe anticipati ai bisogni di progettazione della formazione docente. I docenti pre-servizio hanno sollevato preoccupazioni su **[[academic-integrity|integrità accademica]], privacy e preservazione delle competenze umane essenziali** in un ambiente guidato dalla GenAI, indicando implicazioni per il [[curriculum-design|curricolo]] che intreccino **etica, [[privacy]] e alfabetizzazione in IA** (con le competenze di pensiero critico) lungo tutta la formazione dei docenti, anziché trattare l'uso responsabile come un accessorio.
 
@@ -95,6 +106,13 @@ Al di là dei contenuti e delle credenze, la preparazione dei docenti ricorre se
 - **Rendere la [[assessment|progettazione della valutazione]] con la GenAI parte del lavoro curricolare professionale.** Gli studenti-docenti in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] hanno mostrato scarsa intenzione di riprogettare le valutazioni della propria futura scuola in risposta all'IA generativa, e i partecipanti della [[early-childhood-elementary-ai-education|scuola dell'infanzia]] e della secondaria hanno in gran parte giudicato la tecnologia irrilevante per il proprio contesto di insegnamento — una dimensione sottosviluppata dell'alfabetizzazione valutativa, più che una lacuna di conoscenza. I programmi di formazione dei docenti dovrebbero quindi incorporare l'uso etico della GenAI nella progettazione della valutazione come parte del [[curriculum-design|curricolo]] professionale, abbinando la coerenza delle [[educational-policy-ai|politiche a livello di programma]] a esempi concreti di uso accettabile e inaccettabile e a un [[feedback]] tempestivo sull'uso effettivo che gli studenti fanno dell'IA.
 - **Separare il lavoro delegabile da quello non delegabile.** [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne (2026)]] ha rilevato che 23 studenti universitari, per lo più docenti pre-servizio, producevano artefatti comparabili sia che sostenessero il lavoro di delimitazione sia che lo delegassero precocemente, e che la «tensione da imbroglio» sull'attribuzione della paternità era più forte tra chi svolgeva più lavoro di delimitazione — per cui l'obiettivo didattico è giudicare quale lavoro interpretativo non consegnare in mano ad altri.
 - **Rendere la scrittura di politiche di classe un'attività centrale della formazione dei docenti, e trattare l'ambiguità come un difetto della politica.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] hanno rilevato che chiedere ai docenti pre-servizio di scrivere le proprie politiche di classe sull'IA funziona come costruzione retorica di un mondo su che cosa serve la scrittura — una finestra sulle credenze emergenti che la discussione astratta non apre. Poiché l'IA separa la scrittura-come-prodotto dalla scrittura-come-processo, i programmi dovrebbero aiutare i docenti a individuare dove risiedano effettivamente il pensiero, l'apprendimento e il valore attraverso il brainstorming, la stesura, la revisione e la correzione, anziché collocare il pensiero solo nel testo finale, e dovrebbero sostenerli nel tradurre le credenze in regole operative e non ambigue abbinate all'insegnamento dell'[[ai-literacy|alfabetizzazione in IA]]: contraddizioni come vietare il testo generato dall'IA ritenendo al contempo gli studenti responsabili dei contenuti generati dall'IA che consegnano lasciano gli studenti nell'impossibilità di conformarsi.
+- **Insegnare ai docenti a leggere la ricerca primaria dietro le politiche sull'IA.** Un corso di metodi di ricerca per laureati di sei settimane orientato al consumo anziché alla produzione di ricerca: una docente ha applicato il framework di valutazione critica a un curricolo imposto dal distretto e ha presentato l'analisi alla propria dirigente, e diverse hanno adottato il questionamento socratico con i propri studenti ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
+## Idee sbagliate comuni
+
+- **"L'accettazione dell'IA tra i docenti in formazione è un atteggiamento unico."** **128 docenti in formazione** sono stati profilati in quattro gruppi di accettazione di ChatGPT, tra cui gli **Scettici Resistenti (14,06%), che riportavano alta facilità d'uso percepita ma un'intenzione comportamentale molto bassa**. Facilità d'uso e intenzione si separavano in quel gruppo, quindi un intervento guidato dall'usabilità li lascerebbe immutati.
+- **"L'IA aiuta i docenti in formazione soprattutto con la conoscenza dei contenuti."** Una **revisione di portata di 55 studi** rileva che l'IA potenzia la **progettazione didattica, l'insegnamento disciplinare e la pratica didattica** — le capacità di progettazione e di pratica, non l'expertise di contenuto.
+- **"Una revisione di portata di 55 studi stabilisce un beneficio."** Documenta ciò che viene riportato nel campo. L'ampiezza del potenziamento riportato è un'affermazione sul consenso della letteratura, e 55 studi in una revisione di portata non sono un effetto aggregato.
 
 ## Concetti collegati
 
@@ -110,6 +128,8 @@ Al di là dei contenuti e delle credenze, la preparazione dei docenti ricorre se
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Articoli collegati
+
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — L'IA nella formazione degli insegnanti: framework pedagogici, evidenza empirica ed etica, 2020-2026 (Shukla 2026)
 
 - [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers authoring classroom AI policies: permitted, limited, and banned uses (Nash & Burriss 2026)
@@ -129,10 +149,7 @@ Al di là dei contenuti e delle credenze, la preparazione dei docenti ricorre se
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
@@ -140,8 +157,6 @@ Al di là dei contenuti e delle credenze, la preparazione dei docenti ricorre se
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-- [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
@@ -152,3 +167,6 @@ Al di là dei contenuti e delle credenze, la preparazione dei docenti ricorre se
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography
 
 - [[unscaffolded-genai-preservice-teachers-quasi-experiment-2026]] — Unscaffolded genAI lowered pre-service teachers' lesson-plan quality below the no-genAI class
+- [[capability-decision-model-teacher-readiness-2026]] — Misurare la capacità anziché la fiducia
+- [[heutagogical-teaching-ai-enhanced-education-2026]] — Un modello heutagogico a doppio strato che lega la regolazione riflessiva dei docenti all'agenzia dei discenti
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Docenti K-12 che imparano a leggere la ricerca primaria sull'IA e a contestare i mandati distrettuali

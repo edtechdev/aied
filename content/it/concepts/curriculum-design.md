@@ -1,6 +1,7 @@
 ---
 title: Progettazione curricolare
 created: "2026-10-14T22:25:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -12,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -46,6 +51,8 @@ La progettazione curricolare affronta il *cosa* dell'educazione a livello di pro
 Considerando il cambiamento come sistemico anziché additivo, [[rewriting-curriculum-genai-pedagogy-2026|Sabani et al. (2026)]] triangolano una revisione di scoping, una mappatura bibliometrica di 209 record, 36 articoli e dieci interviste a leader accademici in cinque spostamenti — tra cui la trasmissione della conoscenza che cede il passo allo sviluppo delle capacità e la sperimentazione locale che cede il passo alla governance istituzionale.
 
 **La mappatura e l'analisi del curricolo** usa l'IA per comprendere i curricoli esistenti. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** hanno analizzato 23 sillabi di corsi di ingegneria del software assistita dall'IA, individuando temi comuni — [[prompt-engineering|prompt engineering]], revisione del codice con l'IA, [[ethics|considerazioni etiche]] — e derivando indicazioni progettuali che enfatizzano il bilanciamento tra fluenza negli strumenti e conoscenza fondamentale. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applica metodi computazionali per confrontare le strutture dei corsi di informatica tra istituzioni.
+
+La ponderazione cambia ciò che un'analisi curricolare riporta: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] hanno fatto distribuire a GPT-o3-mini il 100% su sette competenze aziendali per ciascuna di 48 valutazioni, raggiungendo un alfa di Krippendorff di 0,81 contro i pesi degli esperti, ma l'accordo diventava negativo per le competenze che le descrizioni non dichiarano mai esplicitamente (-0,19).
 
 **L'integrazione dell'alfabetizzazione sull'IA** incorpora le competenze sull'IA attraverso le discipline. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** fornisce un framework di alfabetizzazione sull'IA supportato, applicabile a tutte le età e fasi educative, che affronta i [[digital-divide|divari digitali]] di secondo e terzo livello. **[[tracing-genai-literacy-interaction-patterns]]** esamina come l'alfabetizzazione sull'IA si sviluppi attraverso i pattern di interazione. **[[hingle-collaborative-ai-literacy-2025]]** esplora approcci collaborativi allo sviluppo del curricolo di alfabetizzazione sull'IA, collegandosi a [[collaborative-learning|l'apprendimento collaborativo]].
 
@@ -95,6 +102,12 @@ La struttura, non la formulazione del prompt, è ciò che rende affidabile la re
 
 La progettazione curricolare si collega direttamente a [[learning-design|la progettazione dell'apprendimento]] — il curricolo definisce il cosa, l'insegnamento definisce il come. Si collega a [[ai-literacy|l'alfabetizzazione sull'IA]] perché integrare le competenze sull'IA è una sfida curricolare primaria, a [[teacher-role|il ruolo dell'insegnante]] e a [[educational-development|lo sviluppo educativo]] perché il cambiamento curricolare richiede la preparazione degli educatori, e a [[scaffolding|lo scaffolding]] perché i curricoli ben progettati supportano lo sviluppo delle competenze attraverso corsi e anni. I collegamenti con [[higher-ed|l'istruzione superiore]] e [[k-12|il K-12]] riflettono la rilevanza della progettazione curricolare attraverso i livelli educativi.
 
+## Idee sbagliate comuni
+
+- **"Un LLM può mappare un curricolo una volta validato con un'affidabilità alta."** GPT-o3-mini ha distribuito il **100% su sette competenze aziendali per ciascuna di 48 valutazioni**, raggiungendo un **alfa di Krippendorff di 0,81** contro i pesi degli esperti — e l'**accordo** crollava su competenze particolari. Affidabilità complessiva alta con accordo disomogeneo è il pattern da verificare prima di fidarsi della mappatura.
+- **"Integrare l'alfabetizzazione sull'IA significa aggiungere un corso."** LearnAI mostra la forma integrata: uno **strato a esposizione ampia di brevi presentazioni dentro 18 corsi esistenti in cinque discipline (293 studenti)**. L'esposizione era distribuita lungo il curricolo anziché raccolta in un'unità.
+- **"Gli studenti arrivano già capaci di valutare criticamente i media."** Solo il **13,8% degli studenti di educazione e giornalismo intervistati** diceva che i propri corsi affrontavano l'analisi critica dei media, contro il **97,8% che la riteneva importante**. Il divario tra valorizzare una competenza e riceverne l'insegnamento è lo spazio curricolare.
+
 ## Concetti collegati
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[business-education]]
@@ -116,6 +129,7 @@ La progettazione curricolare si collega direttamente a [[learning-design|la prog
 - [[recommender-systems-and-learning-paths]]
 
 ## Articoli collegati
+- [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Mappatura delle competenze ponderata e validata dagli esperti per l'accreditamento
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)

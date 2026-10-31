@@ -1,6 +1,7 @@
 ---
 title: Ricerca sull'usabilità
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -8,13 +9,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -58,6 +63,16 @@ La ricerca sull'usabilità condivide i metodi di raccolta dati con la [[qualitat
 
 - **Punti di forza:** identifica direttamente le barriere di usabilità che bloccano adozione e apprendimento; produce indicazioni di progettazione azionabili; integra la ricerca di efficacia e quella qualitativa spiegando *perché* uno strumento funziona o fallisce nell'uso; relativamente rapida ed economica rispetto ai grandi esperimenti.
 - **Limiti:** i risultati sull'usabilità non stabiliscono effetti sull'apprendimento (uno strumento utilizzabile può comunque non insegnare); campioni piccoli e impostazioni specifiche al compito limitano la generalizzabilità; la soddisfazione auto-riferita può divergere dalla performance oggettiva; dipendenza dal ricercatore e dalla progettazione del compito.
+
+## Idee sbagliate comuni
+
+**«Un sistema utilizzabile è un buon sistema educativo.»** La ricerca sull'usabilità riguarda l'interazione tra persona e sistema, non gli esiti di apprendimento, e le due cose divergono in entrambe le direzioni: uno strumento pedagogicamente potente può essere abbandonato perché frustrante, e uno strumento scorrevole può non insegnare nulla. La facilità è una precondizione dell'uso, non una prova che l'uso sia valso la pena.
+
+**«L'usabilità è un'attività di rifinitura alla fine dello sviluppo.»** È una famiglia di metodi con tecniche centrali — osservazione, analisi del compito, pensiero ad alta voce, revisione euristica — che plasmano la progettazione anziché concluderla. Scoprire l'attrito dopo che la pedagogia è fissata tende a produrre o una riprogettazione dell'interfaccia attorno al problema, o l'abbandono dello strumento.
+
+**«Gli studenti che abbandonano uno strumento erano privi di motivazione.»** L'abbandono è spesso la lettura corretta, da parte dell'utente, di un costo di interazione che il progettista non ha mai misurato. Poiché uno strumento che nessuno usa non può avere effetto, il tasso di abbandono è di per sé un esito educativo.
+
+**«Testare l'usabilità equivale a misurare l'apprendimento.»** Rispondono a domande diverse e nessuno dei due sostituisce l'altro; la modalità di fallimento è trattare l'uno o l'altro come sufficiente per l'adozione.
 
 ## Concetti collegati
 

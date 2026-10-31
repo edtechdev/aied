@@ -8,13 +8,18 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -42,6 +47,16 @@ La narrazione si fonda sulle teorie dell'apprendimento della [[motivation]], del
 - **La narrazione digitale come contrappeso all'IA:** con l'ascesa della [[generative-ai|IA generativa]], la narrazione digitale viene ridefinita come veicolo delle capacità emotive, culturali e narrative che l'IA non possiede. In un modello di [[project-based-learning|apprendimento basato su progetti]] per l'educazione artistica e progettuale, gli studenti hanno tradotto il patrimonio culturale locale in narrazioni [[multimodal]] attraverso 92 opere di narrazione digitale, dimostrando come la narrazione sostenga la creatività umana nell'era dell'IA.
 
 La narrazione si collega al [[student-engagement]], alla [[motivation]], alla [[creativity]], all'[[educational-robotics]], al [[language-learning]], al [[social-emotional-learning]] e all'[[educational-robotics]].
+
+## Idee sbagliate comuni
+
+**"Una storia co-costruita è una storia raccontata."** Ciò che si guadagna è la fluenza e il volume; ciò che è a rischio è la paternità d'autore del narratore. Una storia è una strutturazione dell'esperienza da parte di qualcuno che ha scelto la sequenza e l'enfasi, quindi una macchina che fornisce la struttura ha fornito la parte che porta il significato.
+
+**"La narrazione è un'aggiunta morbida al contenuto."** La narrazione è un dispositivo di memoria e di costruzione di senso, e il discente che narra sta facendo il lavoro di organizzazione. Consegnare la narrazione significa consegnare l'apprendimento.
+
+**"La generazione con l'IA rende la narrazione accessibile agli studenti che non sanno scrivere."** Rende disponibile *produrre un artefatto scritto*, che è un beneficio diverso. La narrazione orale, il disegno e la dettatura sono le vie consolidate verso lo stesso obiettivo, e preservano la paternità che la generazione rimuove.
+
+**"Il valore educativo di una storia sta nel risultato rifinito."** Sta nella costruzione — la selezione e l'ordinamento che un narratore compie. Una storia rifinita che lo studente non ha strutturato ha dimostrato la competenza del modello anziché quella del discente.
 
 ## Concetti collegati
 - [[student-engagement]]

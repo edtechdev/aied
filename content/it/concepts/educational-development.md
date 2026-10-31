@@ -2,6 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Sviluppo educativo professionale
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/educational-development"
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -73,7 +78,7 @@ In questa lettura, i membri del corpo docente che si chiedono "qual è il senso 
 
 ### Indicazioni pratiche per i progettisti di programmi
 
-Per gli sviluppatori del corpo docente, i dirigenti accademici e gli [[stakeholders|progettisti didattici]] che pianificano la [[professional-training|formazione professionale]] sull'IA, le evidenze della base di conoscenza suggeriscono:
+Per gli sviluppatori del corpo docente, i dirigenti accademici e gli [[stakeholders|progettisti didattici]] che pianificano la [[educational-development|formazione professionale]] sull'IA, le evidenze della base di conoscenza suggeriscono:
 
 **Affrontare i quattro motori dell'adozione, non solo la conoscenza.** Fiducia, atteggiamenti, supporto e preoccupazioni predicono se il corpo docente adotti effettivamente l'IA — un laboratorio basato sulla sola conoscenza che ignori questi elementi difficilmente cambierà la pratica. Progettare lo sviluppo per costruire fiducia attraverso l'uso pratico, fornire supporto continuativo (non una formazione una tantum), e portare attivamente alla luce le preoccupazioni del corpo docente rispondendo a esse. ([[teacher-ai-adoption-confidence]])
 
@@ -86,6 +91,7 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 **Trattare la prontezza come un problema di allineamento sociotecnico.** Il [[sangwa-epiq-ai-faculty-readiness-2026|quadro EPIQ-AI]] mostra che la prontezza del corpo docente abbraccia domini epistemico, pedagogico, istituzionale e di qualità-conformità. I programmi che formano solo l'individuo mancano le leve istituzionali (politica, carico di lavoro, incentivi, standard di qualità) che abilitano o bloccano il cambiamento — allinearle accanto alla formazione. ([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **Non equiparare l'investimento in infrastrutture alla trasformazione.** Su 125 studi, l'investimento istituzionale nelle infrastrutture GenAI e nello sviluppo educativo correlava solo debolmente con il cambiamento pedagogico effettivo (r = 0,12), mentre il 60–70% degli insegnanti si sentiva impreparato a integrare la GenAI — il che rende lo sviluppo, e non l'approvvigionamento, il vincolo stringente. ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**Nominate la modalità di fallimento, non solo l'ampiezza dell'effetto.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe e Martínez-Pérez (2026)]] la chiamano innovazione simulata: la presenza dello strumento segnala progresso, i formati di insegnamento e valutazione restano intatti, i tassi di adozione e le dashboard sostituiscono l'apprendimento, e il ciclo di rilascio della tecnologia detta la direzione. La loro diagnostica chiede a un programma di sviluppo di giustificare ogni strumento rispetto a un problema di apprendimento nominato prima dell'adozione.
 
 **Puntare alla riprogettazione curricolare, non all'adozione di strumenti.** L'obiettivo è che il corpo docente riprogett i corsi e la valutazione, non che aggiunga semplicemente strumenti di IA. Fondare la formazione professionale nel lavoro di riprogettazione a livello di corso e nella riforma della valutazione, e fornire al corpo docente quadri strutturati per farlo (ad es. [[ai-assessment-scale-reform|scale di valutazione]], [[institutional-change-framework-ai|quadri di cambiamento istituzionale]]). ([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -174,3 +180,4 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
 - [[ai-competence-framework-landscape-2026]] — Verificate cosa descrivono i livelli di un quadro prima di adottarlo
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — L'educazione può dettare l'agenda dell'IA? Innovazione simulata e direzione pedagogica nella formazione degli insegnanti

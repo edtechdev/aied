@@ -2,6 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: "Scrittura"
 created: "2026-10-14T21:58:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -11,13 +12,17 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: "concepts/writing-education"
-source_updated: "2026-10-06T02:05:50-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -42,11 +47,15 @@ La scrittura non è mero prodotto ma un processo cognitivo, sociale e retorico. 
 
 - **Valutazione automatizzata dei saggi:** I sistemi di [[automated-essay-scoring]] come [[choi-anchor-aes-prompting-2025|AES basata su ancore]] e [[aiawe-automated-writing-evaluation|AIAWE]] valutano la scrittura degli studenti su larga scala, sollevando questioni di [[assessment-validity|validità di costrutto]] e sulla riduzione della scrittura a caratteristiche misurabili. Per la scrittura argomentativa breve (circa 150-200 parole) in spagnolo, l'accordo di valutazione dell'IA varia nettamente per dimensione della rubrica ([[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al., 2026]]): gli item orientati alla struttura e al registro — introduzione, conclusione, registro, concordanza nominale, concordanza soggetto-verbo — hanno raggiunto un accordo corretto per il caso moderato con i valutatori umani nell'edizione 2025, mentre gli item linguistici di micro-livello (vocabolario, sintassi, punteggiatura, connettori, argomentazione) sono rimasti nella fascia da discreta a lieve. Questo suggerisce che l'assistenza degli LLM è più difendibile per le caratteristiche del discorso di macro-livello, e che le convenzioni linguistiche di basso livello dovrebbero mantenere tooling deterministico o [[human-in-the-loop-ai|revisione umana]].
 
+- **Una inclinazione dipendente dalla qualità.** Valutatori GPT e Llama disponibili di serie concordavano debolmente con i valutatori umani (QWK 0,17–0,28 contro 0,72 tra due umani), sopravvalutando i saggi brevi e poco sviluppati e sottovalutando quelli più lunghi e più solidi per errori superficiali minori ([[llms-do-not-grade-essays-like-humans-2026|Mathew et al. (2026)]]).
+
 - **Valutare più campioni, non modelli più grandi.** In uno studio di screening universale nelle classi 3-6, i punteggi di giudizio comparativo degli LLM sono converguti con le rubriche dei ricercatori (r = 0,59-0,73) e la media delle tre ondate di screening ha elevato la validità di criterio (β = 0,68-0,74 per la scala ELA, AUC = 0,82-0,86 per la competenza), mentre una maggiore capacità o costo del modello ha aggiunto poco ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 L'accordo è una proprietà del corpus, non del valutatore: [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] ha valutato 60 post di marketing di studenti con regole deterministiche, un [[llm|LLM]] e un ibrido a pari peso — l'LLM ha primeggiato a ICC(2,1) = 0,435 mentre lo 0,266 dell'ibrido conservava il pregiudizio negativo delle regole — e l'aggiunta di 15 ancore di bassa qualità ha sollevato l'LLM a 0,846.
 
 - **Feedback di scrittura:** La ricerca sulla [[ai-feedback-quality|qualità del feedback dell'IA]] ([[genai-teacher-feedback-comparison|feedback GenAI vs. insegnante]], [[care-full-feedback-genai|feedback care-full]], [[repeated-ai-writing-feedback-semester|feedback IA ripetuto]]) esamina se il feedback dell'IA migliori la scrittura e come si confronti con il feedback umano. Il modello PAIRR ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combina l'IA con la [[peer-assessment|valutazione tra pari]] e trova che il feedback dell'IA è più utile in un processo centrato sull'uomo. Un quasi-esperimento di 8 settimane con 61 scrittori L2 cinesi ([[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang et al., 2026]]) dà a quell'affermazione centrata sull'uomo una forma concreta: il feedback dell'insegnante ha fornito molti più item (316 contro 185 nel primo compito) e si è ri-prioritizzato verso organizzazione e argomentazione, ma il suo vantaggio post-revisione ha ceduto da 4,06 a 2,73 punti una volta che un secondo compito ha richiesto un cambiamento strutturale, mentre il [[peer-assessment|feedback tra pari assistito dall'IA]] ha mantenuto un focus più ristretto e costante e ha sopravanzato di poco (3,89 punti, con una media di revisione del compito 2 di 89,82 contro l'88,35 del controllo — una piccola differenza che non ha raggiunto la significatività). Nessuna modalità ha mosso la complessità sintattica, quindi gli autori sostengono una divisione del lavoro ibrida "IA-Pari-Insegnante": IA per la marcatura degli errori e la guida sui contenuti, i pari per negoziare le revisioni, gli insegnanti per la sintassi complessa e l'argomentazione.
+
+- **Abbinare l'IA al feedback tra pari alza il coinvolgimento e i punteggi di scrittura.** In un corso di EFL cinese di 10 settimane, aggiungere il feedback di ChatGPT prima della revisione tra pari ha alzato il coinvolgimento comportamentale, affettivo e cognitivo (η² parziale da 0,28 a 0,32) e ha migliorato tutte e quattro le dimensioni della scrittura IELTS, soprattutto sul [[learning-gains|rendimento]] nel task (d = 1,41) e sulla risorsa lessicale (d = 1,28) ([[ai-peer-feedback-l2-writing-engagement-2026|Liu (2026)]]).
 
 - **Il feedback dell'IA non si adatta alle fasi di scrittura come fanno gli insegnanti.** [[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al. (2026)]] hanno trovato che l'insegnante cambiava significativamente su cinque tipi di focus del feedback tra le fasi della bozza — l'Elogio saliva dal 26,9% iniziale all'84,9% nelle bozze finali — mentre il modello più vicino si muoveva su tre tipi e il più piccolo su nessuno, e nessun modello riproduceva la differenziazione dell'insegnante tra studenti con prestazioni più alte e più basse.
 
@@ -62,13 +71,19 @@ L'accordo è una proprietà del corpus, non del valutatore: [[automated-scoring-
 
 - **Integrità accademica:** Le evidenze da sondaggio complicano direttamente l'inquadramento del presidio: tra 504 studenti di sociologia ([[student-genai-use-views-writing|Kuznetsov et al., 2026]]), il 65% aveva usato GenAI per i lavori del corso ma solo il 3% per generare il testo del compito e il 2% per produrre una bozza completa, mentre la paura di un'infrazione accademica era la seconda preoccupazione più comune (28%) e circa un quarto riportava nessuna guida (19%) o una guida che trovava poco chiara. Su queste evidenze il problema della didattica della scrittura è l'ambiguità sull'uso permesso, non la diffusa generazione di testo. [[nash-preservice-teachers-classroom-ai-policies-2026|Nash e Burriss (2026)]] mostrano come tale ambiguità sia prodotta a livello di classe. Codificando le [[educational-policy-ai|politiche sull'IA]] in aula scritte da 27 insegnanti di lingua inglese [[teacher-education|in formazione]], hanno trovato che 26 su 27 permettevano qualche uso dell'[[generative-ai|IA generativa]] ma in modo preponderante a condizioni specificate dall'insegnante, con 22 su 27 che permettevano l'IA per l'ideazione e il brainstorming mentre vietavano la composizione di frasi, paragrafi o saggi da parte dell'IA. I limiti erano raramente operazionalizzati — un partecipante permetteva l'IA "per avviare il tuo pensiero" e dichiarava "è qui che andrebbe tracciata la linea" senza dire dove — e molte politiche vietavano simultaneamente la consegna di testo prodotto dall'IA e al contempo ritenevano gli studenti responsabili del testo dell'IA consegnato, una contraddizione che lascia gli studenti impossibilitati a conformarsi. Ventidue delle 27 politiche tacevano del tutto sulla lettura, cedendo il lavoro di comprensione supportato dall'IA a nessuna guida.
 
+- **Il confine si sposta con il compito, non con lo strumento.** Su 192 registrazioni di pratica, la revisione era Responsabile in 21 casi su 22, mentre la stesura era Responsabile in 11, Contestata in 9 e Problematica in 13, quindi è la capacità valutata, non lo strumento, a fissare la categoria ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega e Zhao (2026)]]). Solo quattro studi definivano un confine, progettavano un intervento attorno a esso e verificavano se le decisioni vi si allineassero.
+
 - **La politica diverge tra cinque siti.** Intervistando 20 studenti universitari, Kim e colleghi individuano cinque siti distinti della politica sull'IA — intenzione del docente, politica formale, interpretazione dello studente, auto-politica e pratica — e catalogano 23 razionalizzazioni, per lo più ad hoc e post hoc, che spiegano perché le regole in un sito raramente modellano il comportamento in un altro ([[student-rationalization-ai-writing|Kim et al. (2026)]]).
+
+- **La valutazione è il punto in cui la guida si esaurisce.** In interviste con 24 professori universitari di scrittura tra Cina continentale, Hong Kong, Macao e Singapore, sei riportavano nessuna regola istituzionale sul fatto che possano correggere lavori degli studenti con l'IA, e la conseguenza erano colleghi che rifiutano per principio seduti accanto a colleghi che già lo fanno ([[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]]).
 
 - **La conformità può mascherare un'assenza di indagine (cancellazione accademica).** Da 49 resoconti di educatori, [[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] nominano la *cancellazione accademica* — fluidità che soddisfa ogni criterio superficiale aggirando la fatica epistemica dell'argomentazione — e ne rintracciano il driver nella cultura della valutazione, dove le rubriche che premiano la raffinatezza rendono l'uso dell'IA la risposta razionale piuttosto che una cattiva condotta.
 
 ### La scrittura come pensiero
 
 Poiché la scrittura è un processo cognitivo, la ricerca sull'IA nella scrittura si collega a [[cognitive-offloading]] (il supporto di scrittura dell'IA aggira il pensiero?), [[metacognition]] (il feedback dell'IA migliora l'[[self-assessment]]?), [[self-regulated-learning]] (gli studenti regolano il loro uso del feedback dell'IA?) e [[ai-literacy]] (gli studenti possono valutare criticamente la scrittura generata dall'IA?). La [[critical-thinking-genai-scaffolding|ricerca sull'impalcatura del pensiero critico]] e la [[ai-feedback-critical-thinking-writing-2026|ricerca sul feedback dell'IA per il pensiero critico]] mostrano che il valore [[pedagogy|pedagogico]] dell'IA nella scrittura dipende dal fatto che stimoli riflessione e giudizio piuttosto che la sostituzione della risposta.
+
+L'autorialità dei saggi seguiva il volume dei prompt in un compito di sintesi — l'80% del testo scritto dal discente nel cluster a prompting minimo contro il 2% in quello più intenso — mentre la densità di connettivi correlava negativamente con la conoscenza pregressa anziché con il numero di prompt (r = -0,30, p = 0,007; [[cognitive-offloading-llm-synthesis-writing|Poquet et al., 2026]]).
 
 Una validazione a due ondate con apprendenti EFL cinesi (EFA N = 305; CFA N = 342) separa sei dimensioni regolative e aggiunge la *regolazione ambientale* — controllare i contenuti generati, filtrare le risorse suggerite e limitare l'affidamento — una sfaccettatura che le scale esistenti sulla scrittura L2 non portavano ([[genai-srl-l2-writing-scale-2026|Wang, Zhang e Zhang (2026)]]).
 
@@ -92,11 +107,15 @@ Poiché la scrittura non ha una singola risposta corretta, gli strumenti di scri
 
 - **Trattare le fasi di scrittura in modo diverso.** Il coinvolgimento dell'IA in fase di pianificazione riduce la proprietà percepita meno che in fase di stesura, e la stesura generata dall'IA produce la maggiore diminuzione di proprietà. Quindi un coach può porre domande e criticare le scalette in pianificazione richiedendo al contempo che il discente produca prima la prosa in fase di stesura.
 
-- **Rendere il feedback prioritario e riflessivo.** Ogni round può offrire un punto di forza da preservare, un problema ad alto impatto, una domanda che richiede il giudizio dello scrittore e un obiettivo concreto di revisione — e il coach dovrebbe chiedere ai discenti di valutare se concordano con un suggerimento, sviluppando [[feedback-literacy|giudizio valutativo]] piuttosto che obbedienza.
+- **Rendere il feedback prioritario e riflessivo.** Ogni round può offrire un punto di forza da preservare, un problema ad alto impatto, una domanda che richiede il giudizio dello scrittore e un obiettivo concreto di revisione — e il coach dovrebbe chiedere ai discenti di valutare se concordano con un suggerimento, sviluppando [[evaluative-judgment|giudizio valutativo]] piuttosto che obbedienza.
 
 - **Preservare la voce autoriale e guardarsi dall'omogeneizzazione.** Il coach dovrebbe distinguere errori, problemi di chiarezza, scelte retoriche e preferenze di stile — e non "correggere" automaticamente queste ultime, specialmente per gli scrittori [[multilingual-learning|multilingui]] e gli stili retorici non standard.
 
+- **Insegnare il processo, non solo lo strumento.** Un'unità di cinque settimane su processo e genere, che ha costruito pianificazione, analisi del genere e revisione attorno alla scrittura multimodale supportata dall'IA, ha alzato tutti e tre gli esiti in un quasi-esperimento di 32 studenti di classe 7ª (testo informativo r = 0,66; multimodale r = 0,84; scrittura assistita dall'IA r = 0,86) ([[gunay-ozden-process-genre-ai-writing-2026|Günay e Özden, 2026]]).
+
 Due sintesi recenti qualificano quanto questa guida progettuale sia seguita nella pratica. Una revisione di 23 studi empirici di personalizzazione ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) trova che, sebbene gli obiettivi si siano spostati verso i processi di scrittura e le abilità di ordine superiore, la via tecnica dominante resta il [[prompt-engineering|prompt engineering]] (13 studi su 23) volto a ottimizzare la qualità dell'output, con la [[learning-theories|teoria dell'apprendimento]] confinata nell'interfaccia così che il sistema si comporti in modo "largamente agnostico alla teoria" — una discrepanza che aiuta a spiegare il [[cognitive-offloading|sovra-affidamento]] e la revisione superficiale che gli stessi studi riportano. La sua rincorniciatura è trattare la personalizzazione come architettura piuttosto che come formulazione: sequenziare le fasi, trattenere le risposte e costruire cicli di revisione. Un workflow strutturato in cinque parti testato per 11 settimane con 53 studenti EFL sauditi ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]) mostra l'alternativa in pratica — gli studenti inquadrano i problemi e progettano i prompt, stendono, revisionano, verificano le affermazioni e le citazioni rispetto a banche dati accademiche e regolano il proprio affidamento, registrando ciò che accettano o rifiutano e perché. La competenza di scrittura e il [[critical-thinking|pensiero critico]] digitale sono saliti insieme in quella condizione (15,23 contro 11,91 e 89,84 contro 56,18 al post-test) mentre il controllo senza IA si è mosso a stento, sebbene il risultato [[self-report-measures|parzialmente auto-riportato]] e di singolo sito sia un limite superiore preliminare piuttosto che un effetto stabilito.
+
+Lo screening di 51 studi di feedback GenAI in seconda lingua ha rilevato che le misure della qualità della scrittura erano spesso non correlate al feedback che era stato chiesto al modello, e che abbinare l'IA al feedback dell'insegnante batteva ciascuna fonte da sola ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Lo stesso corpus è in stragrande maggioranza inglese, 46 studi su 51, con cinese e arabo come prime lingue dominanti degli apprendenti.
 
 Questa posizione di coaching-non-composizione è l'espressione nel dominio della scrittura del confine generale della knowledge base "[[coach-not-crutch-ai-writing|coach over crutch]]": identificare l'attività cognitiva che produce apprendimento (pianificare, stendere, valutare, revisionare) e progettare l'IA per supportarla senza toglierla al discente.
 
@@ -110,6 +129,8 @@ La didattica della scrittura si collega a [[automated-essay-scoring]], [[ai-feed
 
 - **Usare il feedback dell'IA all'interno di un processo centrato sull'uomo.** [[pairr-ai-peer-review-2025|PAIRR]] trova che il feedback dell'IA è più utile combinato con la revisione tra pari e la riflessione; progettare cicli di feedback che mantengano centrale l'insegnante e il pubblico dei pari.
 
+- **Gli studenti vogliono l'umano nel punto di posta più alta.** [[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]] hanno trovato che l'81,7% di 93 studenti universitari preferiva la correzione umana per un elaborato finale valido il 40% del voto, si fidava dell'IA per grammatica e meccanica ma non per la scrittura [[creativity|creativa]], e voleva che la correzione dell'IA fosse rivista da un umano.
+
 - **Verificare il feedback automatizzato per pregiudizi.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] mostra che il feedback degli LLM si sposta in modi allineati agli stereotipi quando personalizzato con attributi dello studente — monitorare il pregiudizio positivo/da trattenimento, ed essere espliciti sul fatto che la personalizzazione può essere un vettore di pregiudizio.
 
 - **Preservare il lavoro cognitivo della scrittura.** Attenzione al [[cognitive-offloading|sovra-affidamento]] che aggira pianificazione, revisione e auto-valutazione; usare l'IA in fasi scelte ([[ai-writing-support-stage-ownership-2026|proprietà basata sulle fasi]]) per proteggere l'agenzia dello studente.
@@ -118,7 +139,19 @@ La didattica della scrittura si collega a [[automated-essay-scoring]], [[ai-feed
 
 - **Affrontare l'integrità accademica in modo costruttivo.** Passare dal presidio dell'uso dell'IA alla costruzione di [[ai-literacy]] e di un inquadramento d'uso etico che permetta agli studenti di usare l'IA senza cattiva condotta non intenzionale.
 
-- **Il rilevamento non è una strategia di integrità per la scrittura.** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] sostengono che i punteggi dei rilevatori non possono soddisfare lo standard del bilanciamento delle probabilità richiesto dai casi di integrità e che la dicotomia umano-o-IA fraintende il lavoro creato *con* l'IA piuttosto che *da* essa, raccomandando alle istituzioni di spostare il budget dal rilevamento e dalla sorveglianza verso la [[authentic-assessment|progettazione della valutazione]] e l'[[ai-literacy]].
+- **Il rilevamento non è una strategia di integrità per la scrittura.** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] sostengono che i punteggi dei rilevatori non possono soddisfare lo standard del bilanciamento delle probabilità richiesto dai casi di integrità e che la dicotomia umano-o-IA fraintende il lavoro creato *con* l'IA piuttosto che *da* essa, raccomandando alle istituzioni di spostare il budget dal rilevamento e dalla sorveglianza verso la [[assessment|progettazione della valutazione]] e l'[[ai-literacy]].
+
+## Idee sbagliate comuni
+
+**«Il supporto dell'IA alla scrittura è solo scrittura più veloce.»** La scrittura è un processo cognitivo, sociale e retorico, non solo output, ed è per questo che l'IA può spiazzare proprio il lavoro mentale che rende la scrittura un'attività di apprendimento. La guida progettuale che ne segue è *coaching, non composizione*: far sì che il sistema ponga domande e critichi le scalette mentre il discente produce la prosa. Uno strumento che genera la bozza ha rimosso il pensiero che il compito esisteva per sviluppare, per quanto buona sia la bozza.
+
+**«Una valutazione della scrittura migliore richiede un modello più grande.»** Richiede più campioni. In uno studio di screening universale per le classi 3-6, i punteggi di giudizio comparativo degli LLM convergevano con le rubriche dei ricercatori a **r = 0,59-0,73**, e la media delle **tre** ondate di screening alzava la validità di criterio a **β = 0,68-0,74** — un miglioramento dovuto al disegno, non alla scala. Cercare un modello più grande quando il problema di affidabilità è il campionamento è la leva sbagliata.
+
+**«Il feedback dell'IA e il feedback tra pari sono sostituti.»** Si combinano. In un corso di EFL cinese di 10 settimane, aggiungere il feedback di ChatGPT *prima* della revisione tra pari ha alzato il coinvolgimento comportamentale, affettivo e cognitivo (η² parziale da **0,28 a 0,32**) e migliorato i punteggi di scrittura su tutte le dimensioni. È il sequenziamento a fare il lavoro — il passaggio dell'IA ha preparato gli studenti a quello dei pari anziché sostituirlo.
+
+**«Gli studenti agiscono sul feedback dell'IA quando viene offerto.»** L'adozione è selettiva. [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026|Weston e Long (2026)]] hanno seguito due squadre di studenti universitari di biologia che revisionavano l'introduzione di una proposta rispetto a un feedback costruito dall'insegnante con l'IA: 10 commenti su 22 sono stati affrontati, le eliminazioni superavano le aggiunte, e i commenti che chiedevano agli studenti di giudicare la coerenza o il sostegno alle affermazioni sono stati del tutto ignorati.
+
+**«Un modello può sostituire il pattern di feedback dell'insegnante.»** Non lo ha fatto nelle evidenze. Seguire un insegnante attraverso le fasi della bozza ha rilevato un movimento significativo su **cinque** tipi di focus del feedback — con *Elogio* che saliva dal **26,9%** nelle bozze iniziali all'**84,9%** in quelle finali — mentre il modello più vicino si muoveva su tre e il più piccolo su nessuno, e nessun modello replicava il pattern. Il feedback dell'insegnante ridistribuisce l'enfasi per fase della bozza; il feedback del modello tende a mantenere la propria distribuzione. Trattare il secondo come equivalente perde la traiettoria.
 
 ## Concetti collegati
 
@@ -145,11 +178,13 @@ La didattica della scrittura si collega a [[automated-essay-scoring]], [[ai-feed
 
 ## Articoli collegati
 
+- [[gunay-ozden-process-genre-ai-writing-2026]] — Un quasi-esperimento con 32 studenti: l'istruzione su processo e genere ha alzato la scrittura informativa, multimodale e assistita dall'IA (Günay & Özden 2026)
+- [[wu-lam-genai-writing-assessment-professors-2026]] — 24 professori di scrittura sulla correzione con l'IA: benefici per il feedback, deriva nei punteggi, nessuna regola istituzionale
+- [[genai-l2-written-feedback-scoping-review-2026]] — Revisione di scoping su 51 studi: lacune di trasparenza nei prompt e perché IA più insegnante batte ciascuno da solo
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice teachers' classroom AI policies: tensions and entanglements
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
@@ -159,17 +194,15 @@ La didattica della scrittura si collega a [[automated-essay-scoring]], [[ai-feed
 - [[agency-gap-ai-writing]] — The Agency Gap in AI-Supported Writing
 - [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: AI Writing Support at Different Stages
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
-- [[student-rationalization-ai-writing]] — \"It's OK Because...\": The Wild West of Student Rationalization
+- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
 - [[care-full-feedback-genai]] — Care-Full Feedback Approaches
 - [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
-- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
@@ -183,3 +216,7 @@ La didattica della scrittura si collega a [[automated-essay-scoring]], [[ai-feed
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Human and AI revisions of the same draft take different dialogic stances: peer feedback closes dialogic space, AI revision keeps it balanced (Zhao & Ji 2026)
 - [[engage-to-unlock-productive-friction-genai-2026]] — Engage-to-Unlock: gating AI output on prior engagement redistributed effort to writing without costing time or accuracy (N = 398)
 - [[genai-srl-l2-writing-scale-2026]] — A six-dimension GenAI-SRL scale for L2 writing, with environmental regulation (tool governance) as a distinct dimension
+- [[ai-peer-feedback-l2-writing-engagement-2026]] — Abbinare l'IA al feedback tra pari alza il coinvolgimento e i punteggi di scrittura
+- [[when-students-prefer-ai-scoring-feedback-2026]] — Gli studenti vogliono l'umano nel punto di posta più alta
+- [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Biology Undergraduates' Use of AI-Enabled Feedback to Revise Scientific Writing: Recipience and Barriers (Weston and Long 2026)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps

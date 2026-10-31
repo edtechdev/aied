@@ -1,6 +1,7 @@
 ---
 title: Apprendimento socio-emotivo
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -11,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: "concepts/social-emotional-learning"
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,27 +61,23 @@ L'apprendimento socio-emotivo è strettamente correlato, ma distinto, dall'intel
 La ricerca della knowledge base raggruppa il SEL in diversi sottoargomenti distinti, ciascuno con la propria base di evidenze:
 
 ### Autoefficacia e fiducia
-
 Una competenza SEL fondamentale (consapevolezza di sé/autogestione) che condiziona fortemente il modo in cui gli studenti interagiscono con l'IA. [[student-dependency-on-ai-literacy-self-efficacy-2026|La dipendenza degli studenti dall'IA]] (478 studenti israeliani dell'istruzione superiore) ha rilevato che, mentre le dimensioni di alfabetizzazione sull'IA basate sulle abilità erano associate *positivamente* alla dipendenza dall'IA, sia l'**autoefficacia** accademica sia quella specifica per l'IA e la [[regulation|regolazione]] dello sforzo erano associate *negativamente* — il che significa che la sola alfabetizzazione sull'IA non protegge dalla dipendenza; l'[[self-efficacy|autoefficacia]] sì. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] hanno trovato che gli studenti con autoefficacia iniziale più bassa ottenevano guadagni di apprendimento maggiori indipendentemente dal formato di pratica, e che il favore verso il tutor contava di più nella pratica basata sul tutor — sottolineando il valore di calibrare la pratica sui profili motivazionali. Concetti collegati: [[self-efficacy]], [[motivation|motivazione]], [[agency|agentività]].
 
 ### Motivazione e l'effetto "disponibilità dell'IA"
-
 La motivazione si interseca con l'assunzione responsabile di decisioni e l'autogestione proprie del SEL. La ricerca su [[ai-availability-student-motivation|disponibilità dell'IA e motivazione degli studenti]] e su [[ai-perceptions-students-teachers-motivation-2026|motivazione e autoefficacia di studenti e insegnanti]] mostra che la mera disponibilità dell'IA può rimodellare l'orientamento motivazionale degli studenti e lo sforzo percepito — rilevante per come l'IA potrebbe minare o sostenere la motivazione intrinseca. La [[student-dependency-on-ai-literacy-self-efficacy-2026|ricerca sull'autoefficacia]] inquadra la regolazione dello sforzo come contrappeso alla dipendenza dall'IA.
 
 ### Regolazione delle emozioni e supporto affettivo
-
 La regolazione emotiva è una competenza SEL chiave con conseguenze dirette sull'apprendimento, che forma un legame diretto SEL→[[learning-gains|risultati]]. Strumenti di [[affective-computing|calcolo affettivo]] come [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] modellano le emozioni degli studenti per plasmare le risposte [[pedagogy|pedagogiche]], e gli [[ai-campus-wellbeing-tools|strumenti di benessere per il campus basati sull'IA]] (ad es. PsychoGPT, AURA) coprono prevenzione e intervento.
 
 ### Vergogna, senso di colpa e risposte emotive all'uso dell'IA
-
 Le emozioni regolano *come* gli studenti rendono visibile il proprio uso dell'IA. [[shame-guilt-ai-regulation-computing-education|"Stuck in a Spiral"]] (19 studenti di informatica) ha rilevato che vergogna e senso di colpa agiscono come regolatori sociali dell'uso dell'IA, alimentando comportamenti di nascondimento e rivelazione selettiva e creando cicli di ridotta agentività. L'[[ai-anxiety-strategic-regulation-writing-2026|ansia da IA]] può essere trasformata in regolazione strategica dell'IA come risorsa di apprendimento. Questi elementi collegano la consapevolezza sociale e l'autogestione del SEL all'[[academic-integrity|integrità accademica]] e all'uso responsabile dell'IA.
 
 ### Fiducia e senso di appartenenza
-
 Il SEL sostiene l'apprendimento relazionale e la coesione sociale. La [[finkelstein-principled-ai-education-2025|Principled AI education]] e gli [[ai-chatbot-collective-efficacy-collaborative-learning|chatbot IA per l'apprendimento collaborativo]] si collegano al **senso di appartenenza** e all'efficacia collettiva — la convinzione condivisa nella capacità di una squadra di portare a termine i compiti. Il premortem di Brookings sottolinea che l'eccessivo affidamento sull'IA minaccia il benessere socio-emotivo, le relazioni fra insegnanti e pari e la [[privacy|privacy]]/sicurezza degli studenti — dimensioni del senso di appartenenza e della connessione. La [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|fiducia insegnante-studente]] è centrale nel determinare se l'IA è percepita come di supporto.
 
-### Persistenza, mindset e lotta produttiva
+C'è un lato più tagliente dell'appartenenza: l'empatia cercata dall'IA può essere penalizzata. [[shastry-gray-empathy-offloading-2026|Shastry e Gray (2026)]] hanno fatto leggere ai partecipanti la storia di uno studente in difficoltà che si era rivolto a un chatbot, a un amico, a un terapeuta o a nessuno. Nella condizione del chatbot i partecipanti dichiaravano privatamente la minore disponibilità a scaricare, ma poi usavano il maggior numero di parole di indifferenza verso quello studente e lo valutavano come più estraneo e più disperato. Il giudizio dei pari verso la via che cerca l'IA si somma al nascondimento documentato sopra, ed è per questo che le norme di dichiarazione appartengono alla progettazione del SEL e non solo alle politiche di integrità.
 
+### Persistenza, mindset e lotta produttiva
 Il SEL si sovrappone alla dimensione faticosa dell'apprendimento. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifica la bassa persistenza degli studenti come una sfida ricorrente nella tecnologia educativa, plasmata da motivazione/adesione, blocchi cognitivi, resilienza sotto sfida e connessione. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] avvertono che un'IA che si sostituisce allo sforzo erode le stesse capacità che l'educazione costruisce — in linea con la [[metacognition|metacognizione]] e con il valore della lotta produttiva rispetto all'[[cognitive-offloading|eccessivo affidamento]].
 
 ## Implicazioni per docenti e progettazione didattica
@@ -100,6 +101,16 @@ Il SEL si sovrappone alla dimensione faticosa dell'apprendimento. [[framing-5-pe
 ### Collegamenti ai concetti correlati
 
 Il SEL si collega all'[[ai-literacy|alfabetizzazione sull'IA]] (come complemento che rende relazionale ed etica l'alfabetizzazione sull'IA), al [[affective-computing|calcolo affettivo]] e al [[well-being|benessere]] (le dimensioni affettive dell'IA), all'[[self-regulated-learning|apprendimento autoregolato]] (autogestione e regolazione dello sforzo), all'[[self-efficacy|autoefficacia]] e alla [[motivation|motivazione]] (credenze di chi apprende che moderano l'[[student-ai-interaction|interazione con l'IA]]), all'[[agency|agentività]] (proteggere il controllo di chi apprende dalla dipendenza), all'[[ethics|etica]] (assunzione responsabile di decisioni), alla [[teacher-ai-competency|competenza IA degli insegnanti]] (capacità degli educatori di sostenere il SEL), all'[[student-experience|esperienza dello studente]] (benessere e senso di appartenenza) e ai [[learning-gains|guadagni di apprendimento]] (l'evidenza che il SEL sostiene i risultati). Si relaziona all'[[higher-ed|istruzione superiore]] e alla [[k-12|scuola K-12]] come contesti in cui si coltiva l'alfabetizzazione sull'IA infusa di SEL.
+
+## Idee sbagliate comuni
+
+**«SEL e intelligenza emotiva sono lo stesso costrutto.»** Sono correlati e distinti: il SEL/SEC nomina un insieme di competenze — la capacità di sincronizzare pensieri, emozioni e azioni per un'interazione positiva — mentre l'intelligenza emotiva nomina una capacità individuale di percepire e gestire le emozioni. Uno strumento può alzare l'autoconsapevolezza emotiva di chi apprende senza sviluppare alcuna competenza socio-emotiva, e un programma può costruire competenza collaborativa in studenti la cui autopercezione emotiva resta invariata. Poiché i due si misurano diversamente, l'evidenza sull'uno non è evidenza sull'altro.
+
+**«Un tutor IA che risponde in modo empatico sviluppa l'apprendimento socio-emotivo.»** La reattività emotiva è una proprietà dell'erogazione; il SEL è un esito di competenza, e i due non sono automaticamente collegati. Le dimensioni relazionali dell'apprendimento sono quelle che questa letteratura dice che l'IA deve *complementare anziché sostituire*, il che rende l'empatia nello strumento una questione su che cosa essa sostituisce anziché un beneficio in sé. Si veda l'[[affective-tutoring|affective tutoring]] per il meccanismo con cui una risposta calorosa può ridurre la lotta che costruisce la persistenza.
+
+**«La bassa persistenza è un problema di motivazione che l'incoraggiamento può risolvere.»** La persistenza è il vincolo ricorrente nella tecnologia educativa — il pattern che [[framing-5-percent-problem-teachers-persistence|il problema del 5%]] nomina — ed è plasmata da motivazione e adesione, blocchi cognitivi, *e* resilienza sotto sfida. L'incoraggiamento ne affronta uno dei tre. A chi apprende che si ferma perché il problema ha superato la sua memoria di lavoro non manca la rassicurazione.
+
+**«Sapere che l'IA è disponibile non cambia il modo in cui gli studenti investono sforzo.»** Può cambiarlo, e l'effetto va nella direzione sbagliata per i più deboli: la [[ai-availability-student-motivation|disponibilità dell'IA]] può ridurre il valore percepito dell'impegno faticoso, in particolare per i novizi. La sola disponibilità è un intervento motivazionale con segno negativo, ed è per questo che una progettazione vicina al SEL non può trattare la presenza di un sistema utile come neutrale.
 
 ## Concetti collegati
 - [[anxiety-and-stress]]
@@ -136,3 +147,4 @@ Il SEL si collega all'[[ai-literacy|alfabetizzazione sull'IA]] (come complemento
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
+- [[shastry-gray-empathy-offloading-2026]] — Le persone scaricano l'empatia quando pensano che l'IA possa darla al posto loro (Shastry & Gray 2026)

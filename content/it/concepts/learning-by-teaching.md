@@ -1,6 +1,7 @@
 ---
 title: Imparare insegnando
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -8,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -103,6 +108,16 @@ La [[research-methods-aied|ricerca]] sopra riportata converge su alcuni pattern 
 - **L'LbT è un antidoto scalabile all'iperaffidamento sull'IA** — inverte il ruolo tutor/studente e mantiene chi apprende cognitivamente attivo, il che conta sempre di più man mano che l'IA diventa più fluente e più «utile».
 - **La fallibilità è una caratteristica, non un difetto.** Un allievo *troppo* corretto elimina la correzione degli errori e l'individuazione delle lacune che fanno funzionare l'LbT; progetta per la lotta produttiva, non contro di essa.
 - **Restano domande aperte:** Come fanno le interazioni LbT a sostenersi oltre un semestre quando la novità svanisce del tutto? L'LbT si trasferisce a domini non informatici e meno strutturati alla stessa scala? La codifica automatizzata del dialogo può diventare un monitor pratico e in tempo reale dell'engagement per i docenti? E come mantenere significativo il ruolo di insegnante per *ogni* studente anziché per pochi motivati?
+
+## Idee sbagliate comuni
+
+**"Qualsiasi allievo va bene, perché il beneficio sta nello spiegare."** Il beneficio dipende dal fatto che le risposte dell'allievo siano informative. Un allievo che capisce già tutto non offre al tutor alcuna lacuna da rilevare, ed è per questo che rendere un LLM un buon allievo richiede di **ingegnerizzare la fallibilità** — errori e confusioni progettati che lo studente-insegnante deve diagnosticare e correggere. L'effetto protégé nasce dall'ignoranza dell'allievo, quindi un allievo capace rimuove il meccanismo.
+
+**"Gli errori generati vanno bene perché sono sbagliati."** Solo se sono plausibili. In uno studio di annotazione in cieco, gli esperti hanno **classificato 164 delle 196 (83,7%) consegne Java generate da un LLM come lavoro autentico** degli studenti — il che è al tempo stesso prova che gli errori sono realistici e un avvertimento che un allievo può sbagliare in modi che insegnano la diagnosi sbagliata.
+
+**"Chiedere a un LLM di comportarsi come confuso è un prompt banale."** È un problema di progettazione, perché la fallibilità deve essere calibrata sul concetto che viene insegnato e sul modello attuale del tutor-apprendente. Errori casuali producono pratica di correzione; errori che riflettono uno specifico fraintendimento plausibile producono ristrutturazione concettuale, e solo i secondi sono il bersaglio pedagogico.
+
+**"Imparare insegnando è un'attività più leggera che essere insegnati."** È più esigente. Prepararsi a insegnare forza l'organizzazione della conoscenza e l'individuazione delle proprie lacune, ed è per questo che l'approccio fa emergere fraintendimenti che la ricezione passiva nasconde — la difficoltà è il meccanismo, non un costo da minimizzare.
 
 ## Concetti collegati
 

@@ -1,6 +1,7 @@
 ---
 title: Uso improprio dell'IA e danno all'apprendimento
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -9,13 +10,17 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -35,6 +40,8 @@ ai_assist:
 ## Introduzione
 
 L'uso improprio dell'IA è distinto dall'uso dell'IA. L'uso descrive l'impiego dell'IA come complemento all'apprendimento — [[feedback|feedback]], brainstorming o aiuto alla revisione che mantengono il lavoro cognitivo del discente nel ciclo. L'uso improprio descrive la sostituzione: delegare all'IA i processi mentali stessi (stesura, richiamo, analisi, revisione) che costruiscono la comprensione durevole. Il danno documentato nella base di evidenze della knowledge base non è che l'uso improprio non aiuti; è che l'uso improprio degrada attivamente il risultato successivo, non assistito.
+
+Il danno atteso è esso stesso documentato: in dati svedesi da indagine e focus group, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] hanno trovato che il 51% dei partecipanti (n = 106) temeva che l'uso della GenAI potesse ostacolare lo sviluppo individuale, nominando perdite nel [[critical-thinking|pensiero critico]], nella creatività e nell'autonomia anziché violazioni di regole.
 
 ### Il divario performance–apprendimento
 
@@ -84,6 +91,36 @@ La sfumatura pratica più importante è che il danno è **selettivo per tipo di 
 
 La letteratura sul gaming-the-system (abuso dei suggerimenti, indovinare sistematicamente) ha una controparte dell'era del dialogo: il disimpegno conversazionale — deridere l'agente, rispondere deliberatamente in modo errato, ignorarlo, specchiare il suo testo, o trattenere le risposte. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] danno a questo fenomeno il suo primo trattamento sistematico nel dialogo studente-IA, e la loro lezione centrale è interpretativa piuttosto che allarmistica. Un *turno* disimpegnato è una mossa interazionale, non uno stato stabile di disimpegno. L'apparente associazione del False Answering con i punteggi post-test non è sopravvissuta a un controllo di sensibilità con annotazione umana, e gli autori la leggono come una sonda *all'interno* di traiettorie che spesso tornano all'engagement (il cluster con le prestazioni più alte si è ripreso a p = 0,42). Il comportamento che separava effettivamente le traiettorie era il Withholding — il rifiuto di rispondere, che persisteva anziché risolversi. Per i progettisti questo inverte la priorità usuale: il disimpegno rumoroso e visibile è spesso auto-correttivo, mentre il ritiro silenzioso segnala che l'interazione si è rotta.
 
+## Idee sbagliate comuni
+
+**"Gli studenti se ne accorgerebbero se l'IA stesse danneggiando il loro apprendimento."** Non se ne accorgono, ed è il fatto più consequenziale della pagina: **gli studenti del gruppo danneggiato non percepivano di aver imparato meno.** L'autovalutazione non è quindi un segnale di allarme precoce utilizzabile. Il pattern del 48% in più sulla pratica e del 17% in meno all'esame è invisibile a chi lo vive, ed è per questo che il rilevamento del danno deve basarsi sulla misurazione anziché sulla testimonianza.
+
+**"Il rischio è quanto l'IA usa uno studente."** Il rischio è ciò in sostituzione di cui l'IA viene usata. L'uso improprio qui significa delegare la stesura, il richiamo o l'analisi che costruiscono la comprensione durevole — sostituzione anziché complemento, e uno studente può sostituire pesantemente in un compito e integrare produttivamente in quello successivo. Il volume d'uso è la variabile sbagliata; la divisione del lavoro cognitivo è quella giusta.
+
+**"Se la performance nella pratica migliora, lo strumento funziona."** Nell'RCT causale sul campo di circa 1.000 studenti di matematica delle scuole superiori, un tutor in stile ChatGPT senza guardrail ha innalzato la performance sulla pratica assistita **+48%** mentre *riduceva* i punteggi all'[[summative-assessment|esame a libro chiuso]] non assistito del **17%**. Le direzioni sono opposte, quindi qualsiasi valutazione che legge il dato della pratica come esito certificherà esattamente il danno che dovrebbe rilevare.
+
+**"Chi apprende con l'IA teme soprattutto di essere scoperto."** Le loro preoccupazioni dichiarate sono evolutive. In uno studio il **51% dei partecipanti (n = 106)** temeva che l'uso della GenAI potesse ostacolare lo sviluppo individuale, nominando perdite nel [[critical-thinking|pensiero critico]], nella creatività e nell'autonomia anziché violazioni di regole. L'inquadramento dell'[[academic-integrity|integrità]] che domina il discorso istituzionale non è quello a cui gli studenti stessi arrivano.
+
+## Implicazioni per la pratica
+
+**Per gli insegnanti**
+
+- Non chiedete agli studenti se lo strumento ha aiutato; misurate la performance non assistita. Il resoconto soggettivo del gruppo danneggiato era rassicurante e sbagliato.
+- Progettate per il complemento anziché la sostituzione, compito per compito, specificando che cosa lo studente deve produrre prima che l'IA possa essere usata.
+- Vigilate su voti di pratica in salita accompagnati da punteggi non assistiti piatti o in calo — quella divergenza è la firma su cui agire, non un problema di qualità dei dati.
+- Prendete sul serio la preoccupazione evolutiva nell'inquadramento. Gli studenti che sollevano perdite di pensiero critico e autonomia stanno descrivendo il meccanismo del danno, non resistendo a una regola.
+
+**Per gli sviluppatori**
+
+- Strumentate sia la performance assistita sia quella non assistita e non presentate mai solo la prima come apprendimento.
+- Non aggiungete "lo hai trovato utile?" come misura dell'apprendimento; è rimasto stabile mentre l'apprendimento calava.
+- Costruite il confine della sostituzione dentro l'interazione — il design con guardrail di tipo suggerimento-non-risposta ha eliminato il danno nella stessa famiglia di esperimenti.
+
+**Per i ricercatori**
+
+- Riportate sempre la misura non assistita, e riportate la percezione accanto ad essa anziché al suo posto.
+- Riportate la struttura di sostituzione del compito, non solo la frequenza d'uso, quando attribuite il danno.
+
 ## Concetti collegati
 
 - [[self-directed-learning]]
@@ -101,6 +138,7 @@ La letteratura sul gaming-the-system (abuso dei suggerimenti, indovinare sistema
 
 ## Articoli collegati
 
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Swedish survey and focus-group study arguing that partnership ethics, not a cheating frame, should guide institutional genAI decisions
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 
 - [[genai-thoughtless-use-self-directed-learning-2026]]

@@ -1,6 +1,7 @@
 ---
 title: Rischio di allucinazione
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -10,13 +11,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -55,6 +60,15 @@ Le difese contro tali manipolazioni comportano il proprio compromesso: una pipel
 
 **L'inaffidabilità dichiarata ha abbassato la dipendenza riportata anziché alzarla.** Quando 546 partecipanti hanno letto lo stesso dialogo con IA generativa etichettato o come contenente informazioni fabbricate o come verificato accurato, l'etichetta «fabbricato» ha prodotto minore [[trust|fiducia]] e controllabilità percepita e maggiore dissonanza cognitiva e frustrazione insieme a punteggi di dipendenza *più bassi* (M = 2,935 contro 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Il risultato qualifica la logica della dipendenza eccessiva di questa pagina: vedere che un output può essere fabbricato non equivale a continuare ad appoggiarvisi.
 
+**I segnali di credibilità possono invece amplificare la deferenza.** Il movimento opposto compare quando un output inaffidabile viene agghindato: aggiungere citazioni e segnali di credibilità all'interfaccia di dibattito ARMADA ha alzato del 112% la frazione di partecipanti che abbandonavano un giudizio iniziale corretto per una posizione errata dell'IA (31,8% contro 15,0%), e il controllo manuale ha rilevato alcuni casi citati attribuiti male a riferimenti irrilevanti o fittizi ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+## Idee sbagliate comuni
+
+- **«Gli studenti si accorgeranno degli errori.»** Una **revisione di 125 studi** colloca i tassi di allucinazione al **10-40%**, con **gli studenti di medicina — tra i discenti più selezionati dell'istruzione superiore — che individuano gli errori dell'IA solo nel 44-55% dei casi**. Tassi di individuazione ben sotto un'affidabilità da livello di caso significano che l'onere non può ricadere sul lettore.
+- **«Gli errori sono evidenti quando compaiono.»** Un'IA che diagnosticava matematica scritta a mano poteva **fabbricare citazioni di prove che non c'erano affermando al contempo sicurezza**. Il fallimento non era una risposta plausibile ma errata; era un supporto inventato presentato con certezza, che è il tipo più difficile da cogliere perché si legge esattamente come la prova che un lettore attento vorrebbe.
+- **«Un output senza citazioni è un problema di formattazione.»** In un corso magistrale che aveva sostituito il proprio manuale commerciale con letture generate dall'IA, solo **circa lo 0,80% di 4.487 pagine registrate recava una citazione nel testo in stile APA**. È un'assenza di provenienza a livello di corpus, non un'omissione occasionale, e significa che la verifica non ha un punto di partenza.
+- **«L'allucinazione è un problema di generazione dei modelli che i modelli più nuovi risolvono.»** L'intervallo dei tassi va dal 10 al 40% su 125 studi, il che è una proprietà del compito e del dispiegamento tanto quanto del modello. Ridurre i tassi è un progresso reale e non cambia il fatto che un lettore debba poter verificare.
+
 ## Concetti collegati
 
 - [[cognitive-offloading]]
@@ -73,6 +87,7 @@ Le difese contro tali manipolazioni comportano il proprio compromesso: una pipel
 ## Articoli collegati
 
 - [[frontiers-gai-hallucination-dependence-2026]] — Labeling a GAI dialogue as fabricated lowered trust and dependence together
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Credibility cues raised deference to AI output, with some cited cases misattributed or fictitious
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

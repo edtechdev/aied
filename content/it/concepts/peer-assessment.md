@@ -1,6 +1,7 @@
 ---
 title: Valutazione tra pari
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -9,13 +10,17 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,6 +43,8 @@ ai_assist:
 La valutazione tra pari è una scelta di progettazione della valutazione in cui gli studenti si assumono parte del lavoro valutativo solitamente riservato ai docenti. Le sue forme differiscono per ciò che gli studenti producono e per ciò che è in gioco: feedback tra pari (commenti su una bozza, solitamente [[formative-assessment|formativo]] e a bassa posta in gioco), votazione tra pari (un voto che contribuisce al voto finale), revisione di codice tra pari, e valutazione di gruppo o di team (dove i pari valutano il prodotto collettivo o i contributi reciproci). La forma determina ciò che gli studenti praticano — fornire un commento basato su criteri costruisce il [[evaluative-judgment|giudizio valutativo]] in modo diverso dall'assegnare un numero, e difendere oralmente il proprio codice costruisce qualcosa di diverso ancora. L'[[self-assessment]], pratica sorella, rivolge lo stesso scrutinio basato su criteri al lavoro proprio dello studente, mentre la valutazione tra pari lo indirizza alla consegna di un pari e alla consapevolezza del pubblico che ne deriva.
 
 La base di ricerca concorda sul fatto che la valutazione tra pari produca apprendimento e dissente su quanto dipenda dalla progettazione. Essa offre agli studenti un pubblico autentico, sviluppa il giudizio valutativo attraverso la risposta basata su criteri, e costruisce il contesto sociale che sostiene lo [[student-engagement|engagement]] e la [[motivation]]. La sua qualità dipende fortemente dallo [[scaffolding]] — da quanto è strutturata e da se gli studenti ricevono criteri chiari e formazione. Ed è proprio in questa dipendenza che entra l'IA, come complemento coerente e basato su criteri al feedback specifico e sensibile al contesto che i pari forniscono, e sempre più come scaffolding integrato nel processo stesso di valutazione tra pari.
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] rilevano che gli studenti EFL che revisionavano la scrittura dei pari attraverso un dialogo aperto con un'IA generativa producevano feedback che i destinatari valutavano di qualità superiore, con guadagni nella risposta emotiva e nell'alfabetizzazione al feedback che variavano con la qualità del dialogo.
 
 ## Ciò che gli studenti apprendono valutando i pari
 
@@ -88,6 +95,12 @@ Ne conseguono diverse mosse progettuali. Fornire a chi valuta formazione, esempi
 Anche la revisione mediata dalla GenAI eredita le norme linguistiche dello strumento: i contributori a un dialogo sui World Englishes sostengono che chi usa la GenAI per revisionare è esposto allo stesso pregiudizio verso le varietà dominanti dell'inglese proprio come i modelli, e raccomandano di modificare o riscrivere il testo generato per riflettere l'identità linguistica propria dello scrittore ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Le domande aperte riguardano la solidità delle evidenze, non solo la progettazione. Molte delle evidenze su pari-e-IA sono piccole e legate al contesto: 45 studenti insegnanti in un corso, 34 studenti in un corso di scrittura business, 52 insegnanti in formazione in 15 focus group. L'indagine PAIRR è il dataset più ampio qui e misura le percezioni degli studenti, non la qualità degli output dell'IA che gli studenti giudicavano. Solo l'esperimento multisito con i suoi 1.176 studenti universitari si avvicina a una scala causale-comparativa, e testa la progettazione del feedback per l'argomentazione scientifica anziché la valutazione tra pari come tale. Intanto [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] ha verificato 14 meta-analisi sottoposte a revisione tra pari che sostenevano che l'IA migliori l'istruzione e non ne ha trovata nessuna che fornisse una base valida per le proprie affermazioni — tutte tranne due definivano il trattamento come uno strumento anziché come un intervento pedagogico, l'eterogeneità era alta in ogni meta-analisi che riportava l'I² (dal 77,2% al 94,4%), e una verifica di 59 studi primari ha rilevato che il 61% presentava problemi di [[assessment-validity|validità]], più spesso una discrepanza tra l'esito misurato e l'affermazione fatta. Le affermazioni su ciò che l'IA fa nella valutazione tra pari dovrebbero essere trattate come affermazioni su un'attività progettata, testate nei termini di quell'attività.
+
+## Idee sbagliate comuni
+
+- **«La difesa orale ferma il lavoro assistito dall'IA.»** I caratteri incollati sul totale **sono saliti dal 61,0% al 68,1% (p < 0,0001)** dopo che ogni consegna del CS1 è stata sottoposta a una **revisione orale del codice di 15 minuti valida il 70% del voto**. Il comportamento che mirava a colpire è aumentato — e **i punteggi d'esame non sono calati e il tempo sull'attività è rimasto stabile**, mentre **il 90% degli studenti ha dichiarato che le revisioni li hanno motivati**. L'intervento ha agito sulla comprensione, non sull'incollare.
+- **«Rilevare gli imbrogli è lo scopo della valutazione orale.»** Gli esiti misurati erano comprensione e motivazione, non la riduzione del testo incollato. Giudicare il disegno dal suo tasso di individuazione fraintende ciò che ha ottenuto.
+- **«La revisione tra pari è un sostituto più economico del feedback del docente.»** È l'[[learning-by-teaching|apprendere insegnando]] il meccanismo, e compare persino tra le macchine: il discorso simile all'apprendimento tra pari tra oltre **2,4 milioni di agenti IA** era per lo più **asserzione anziché interrogazione**. Produrre una critica è un atto diverso dal riceverla.
 
 ## Concetti collegati
 

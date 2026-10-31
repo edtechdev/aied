@@ -1,6 +1,7 @@
 ---
 title: Misure di autodichiarazione
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -13,13 +14,17 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,6 +73,10 @@ La scelta opposta è egualmente difendibile: PAUSE è un autocontrollo dello sca
 
 Il risultato più forte sull'autodichiarazione in questa base di conoscenza non è che l'autodichiarazione sia in generale distorta, ma che il comportamento riportato e quello osservato divergono in modi specifici e documentati.
 
+I profili derivati dall'autodichiarazione si comportano allo stesso modo. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al. (2026)]] hanno raggruppato 14.003 record studenteschi su proxy comportamentali e psicologici autodichiarati anziché su tracce di interazione nel LMS, e i sei profili risultanti si separavano nettamente sul voto finale (η² = 0,770) — una separazione che gli autori avvertono essere in parte una riformulazione di ciò che gli studenti avevano dichiarato.
+
+Le tracce comportamentali possono separare apprendenti che una scala autodichiarata non separa: [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] hanno trovato che il carico cognitivo autodichiarato non differiva in modo significativo tra profili di scaricamento che andavano dall'80% al 2% nella paternità dei saggi, mentre gli scaricatori più intensi riportavano comunque la domanda mentale più alta.
+
 [[ai-literacy-assessment-misalignment|Uno studio che ha costruito misure parallele autodichiarate e oggettive dell'alfabetizzazione all'IA degli insegnanti]] ha trovato un **debole accordo tra i fattori autodichiarati e quelli oggettivi (r = 0,07 - r = 0,24)** in un campione di 288 insegnanti, con l'analisi fattoriale confermativa a supporto della validità di costrutto di entrambe le misure e al contempo una **bassa correlazione tra i fattori autodichiarati e quelli oggettivi**. I due strumenti erano credibili; semplicemente misuravano cose diverse. Nel campione completo di 288 insegnanti le correlazioni tra i fattori oggettivi e quelli autodichiarati andavano da r = 0,07 a r = 0,24, e l'analisi dei profili latenti ha trovato 43 insegnanti che si valutavano alto ottenendo un punteggio più basso sulla misura oggettiva, contro 59 che mostravano il modello opposto.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] giunge alla stessa conclusione dall'altra direzione: il suo test di performance a 20 item prediceva la performance su compiti di apprendimento supportati dalla [[generative-ai|GenAI]] in uno studio within-subject su 83 studenti, **mentre l'alfabetizzazione dichiarata su ChatGPT non lo faceva**. L'inquadramento degli autori è brutale — gli strumenti in quest'area si appoggiano in misura schiacciante a indagini autodichiarate, «che catturano la competenza percepita anziché quella effettiva e sono soggette a distorsione e sovrastima».
@@ -78,9 +87,13 @@ A volte chiedere e osservare sono messi a confronto diretto. [[student-llm-inter
 
 Una revisione strutturata e [[meta-analysis-systematic-review|meta-analisi]] esplorativa 2026 delle misure per l'uso competente della [[generative-ai]] mette un numero aggregato su quel divario dall'altra direzione: aggregando tre correlazioni soggettivo-oggettivo direttamente riportate sullo stesso campione (N riportato complessivo = 2.765) si ottiene r = 0,055 (Hartung–Knapp IC 95% [−0,047, 0,156]), e aggiungendo le correlazioni cross-fattore di un quarto studio si arriva solo a r = 0,079. Tutti e tre gli effetti primari provenivano da un unico programma di ricerca, la correlazione e il p-value riportati dal contributore più grande non potevano essere ricondotti a coerenza, e la revisione conclude che l'autodichiarazione non può sostituirsi ai punteggi oggettivi di performance — notando però che gli strumenti di performance sono essi stessi ristretti, coprendo la conoscenza di base anziché i comportamenti di supervisione e dipendenza che contano nel lavoro ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 
+Una revisione sistematica in due fasi assegna un tasso a quella divergenza a livello di conclusioni: su 51 coppie sullo stesso costrutto tratte da 47 rapporti, 30 concordavano, 11 divergevano e 10 erano miste. Il disaccordo correva in entrambe le direzioni: cinque confronti accoppiavano un risultato autodichiarato nullo a un risultato di performance positivo, contro due nel senso opposto ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+
 La letteratura sugli strumenti può essere essa stessa letta come evidenza della scala del divario. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore e Maat (2026)]] hanno valutato 33 strumenti per l'alfabetizzazione all'IA degli insegnanti e hanno trovato che 31 (93,9%) erano scale di autodichiarazione della fiducia percepita, solo 2 (6,1%) testavano la conoscenza in modo oggettivo, e nessuno usava compiti basati sulla performance tra il 2019 e il 2025. La loro conclusione è quella a cui questa pagina continua a giungere da altre direzioni: i punteggi di autodichiarazione indicizzano la fiducia anziché la capacità, perciò non possono sostituirsi alla competenza quando si confrontano gruppi o programmi.
 
 Le misure di esito ereditano lo stesso divario. [[pramod-agentic-ai-motivational-pathways-2026|Pramod e Patil (2026)]] modellano il percorso dall'[[agentic-ai|IA agentica]] attraverso la motivazione e la presenza sociale fino a ciò che etichettano come performance di apprendimento con un coefficiente di 0,671 — la relazione più forte dello studio — e la loro stessa sezione dei limiti dichiara che questa variabile dipendente riflette le percezioni degli studenti e non i risultati d'esame, la performance nei compiti o le learning analytics. È questo lo schema da leggere con attenzione nei modelli di percorso in generale: un coefficiente grande su un esito percepito quantifica quanto coerentemente gli studenti credono che qualcosa li abbia aiutati, e non dice ancora nulla sul fatto che lo abbia fatto.
+
+L'intenzione è il caso più netto di quel divario, perché un solo punteggio di intenzione può coprire comportamenti opposti. Somministrando di nuovo gli item a 68 dei 340 studenti e intervistandone otto, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]] hanno trovato la stessa intenzione dichiarata coprire un uso orientato all'apprendimento, uno orientato alla scorciatoia e uno misto — con gli utenti della scorciatoia che citavano una bassa fiducia anziché disinteresse.
 
 ## Soddisfazione e apprendimento percepito come esiti
 
@@ -91,7 +104,7 @@ La soddisfazione è l'esito autodichiarato più frequente in questo corpus, pres
 - [[preferred-scaffolding-ai-mathematical-modeling|Uno studio sull'impalcatura]] sostiene che l'utilità percepita, la facilità d'uso e la soddisfazione immediata non dovrebbero essere trattate come indicatori sufficienti dell'efficacia dello [[scaffolding]].
 - [[nie-personavlm-long-term-personalization-2026|Sulla modellazione dello studente allineata alla personalità]] si osserva che ottimizzare per la soddisfazione dell'utente non è la stessa cosa che ottimizzare per gli esiti di apprendimento, e che le due cose possono divergere.
 
-Lo schema da portare con sé: la soddisfazione è sensibile alle cose sbagliate quando l'obiettivo è l'apprendimento. Un sistema che risponde rapidamente, concorda prontamente e riduce lo sforzo sarà valutato positivamente, e quelle stesse proprietà sono quelle che la base di conoscenza associa a una ridotta [[cognitive-offloading|lotta produttiva]] e a performance gonfiate sul lavoro assistito dall'IA. La soddisfazione riportata e l'apprendimento misurato non sono nemici; semplicemente non sono sostituti, e trattare la prima come evidenza del secondo è lo slittamento più comune che questa pagina documenta.
+Lo schema da portare con sé: la soddisfazione è sensibile alle cose sbagliate quando l'obiettivo è l'apprendimento. Un sistema che risponde rapidamente, concorda prontamente e riduce lo sforzo sarà valutato positivamente, e quelle stesse proprietà sono quelle che la base di conoscenza associa a una ridotta [[desirable-difficulties|lotta produttiva]] e a performance gonfiate sul lavoro assistito dall'IA. La soddisfazione riportata e l'apprendimento misurato non sono nemici; semplicemente non sono sostituti, e trattare la prima come evidenza del secondo è lo slittamento più comune che questa pagina documenta.
 
 ## Che cosa rende credibile uno strumento di autodichiarazione
 
@@ -116,6 +129,8 @@ L'autoselezione si somma a questo. [[chatgpt-inoculation-training-verification-2
 
 Due ulteriori errori specifici dell'autodichiarazione ricorrono. I **limiti dell'introspezione e la distorsione per desiderabilità sociale** sono nominati come intrinseci all'autodichiarazione nel [[engagement-assessment-video|lavoro sulla valutazione del coinvolgimento]] e nelle [[ccct-cooperative-learning-technique|studi i cui dati qualitativi si basano sull'autodichiarazione]]. La **varianza da metodo comune** sorge quando predittori ed esiti provengono dagli stessi rispondenti nello stesso momento: [[ai-use-critical-thinking-medical-students-2026|uno studio a mediazione moderata sull'uso dell'IA e il pensiero critico]] ha operazionalizzato uso, carico cognitivo e [[self-regulated-learning|apprendimento autoregolato]] tutti attraverso strumenti standardizzati di autodichiarazione in un unico punto temporale, e solleva la distorsione da metodo comune come conseguenza; [[genai-motivation-engagement-2026|uno studio PLS-SEM su motivazione e coinvolgimento]] poggia egualmente interamente sull'autodichiarazione e non può stabilire l'ordinamento temporale tra i suoi mediatori.
 
+La modalità di somministrazione è una seconda minaccia che il corpus non ha ancora contato. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling e Hantel (2026)]] propongono di sostituire i questionari di corso scritti con interviste telefoniche condotte da IA, e raccolgono evidenze sugli effetti di modalità che tagliano in entrambe le direzioni: le risposte vocali sono più lunghe e coprono più argomenti, mentre un confronto randomizzato su 634 rispondenti ha trovato le risposte testuali più differenziate e più franche.
+
 ## Rimedio: aggiungere evidenze non autodichiarate
 
 Le risposte costruttive della base di conoscenza sono coerenti, e nessuna di esse richiede di abbandonare le indagini.
@@ -134,6 +149,12 @@ Le risposte costruttive della base di conoscenza sono coerenti, e nessuna di ess
 - Fai attenzione ai disegni a fonte unica. Se predittori ed esiti provengono entrambi dallo stesso questionario in un unico punto temporale, le associazioni sono coerenti con la varianza da metodo comune tanto quanto con la teoria proposta.
 - Tratta la soddisfazione come un segnale di progettazione, non come un esito di apprendimento. Soddisfazione alta più apprendimento non testato è la configurazione standard nella valutazione degli strumenti di IA, e questo corpus mostra le due cose divergere.
 - Preferisci gli studi che mostrano il loro lavoro: tassi di risposta dichiarati, limiti dichiarati, e almeno una fonte di evidenza che non derivi dal chiedere.
+
+## Idee sbagliate comuni
+
+- **"L'evidenza da sondaggio è debole ma più o meno priva di distorsioni."** La struttura delle risposte delimita la stima prima ancora del bias: un sondaggio ottiene **112 risposte con un tasso di risposta del 31%**, oppure **90 risposte su 572 inviti**. Il bacino dei rispondenti è un sottoinsieme autoselezionato, quindi la cifra descrive quel sottoinsieme.
+- **"I sondaggi sono un metodo minoritario in questo campo."** Una revisione esplorativa di **394 studi sull'[[mapping-genai-higher-ed-scoping-review|IA generativa nell'istruzione superiore]]** ha trovato le **scale di sondaggio il metodo di valutazione più frequentemente riportato (269 studi, 68,3%)**, davanti a test e quiz. L'evidenza dominante del campo è autodichiarata.
+- **"Autodichiarazione e costrutti misurati concordano."** Il **carico cognitivo autodichiarato non differiva in modo significativo tra profili di scaricamento che andavano dall'80% al 2% nella paternità dei saggi**, mentre gli scaricatori più intensi differivano in modo misurabile. La misura soggettiva era piatta dove il comportamento variava di un fattore quaranta.
 
 ## Concetti collegati
 
@@ -154,6 +175,10 @@ Le risposte costruttive della base di conoscenza sono coerenti, e nessuna di ess
 - [[learning-analytics]]
 
 ## Articoli collegati
+- [[high-school-genai-acceptance-tam-physics-2026]] — Un solo punteggio di intenzione, due usi opposti
+- [[voice-based-ai-feedback-interviews-higher-ed-2026]] — La modalità di somministrazione di uno strumento autodichiarato cambia che cosa misura
+- [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profili derivati da proxy autodichiarati invece che da tracce di interazione
+- [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Revisione in due fasi che assegna un tasso al disaccordo tra autodichiarazione e performance sullo stesso costrutto (Fan et al. 2026)
 
 - [[capability-decision-model-teacher-readiness-2026]] — Discriminant-validity criteria for separating self-reported AI capability from efficacy beliefs
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)

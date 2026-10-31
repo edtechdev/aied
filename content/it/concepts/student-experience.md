@@ -1,6 +1,7 @@
 ---
 title: Esperienza dello studente
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,7 +83,7 @@ La verifica può cambiare il modo in cui gli studenti vivono la questione: una r
 
 ### Impatti sociali e relazionali
 
-- **Positivo:** l'IA può mediare la [[collaborative-learning|collaborazione]] e l'[[student-ai-interaction|interazione umano-IA]], sostenendo lavoro di squadra, interazione tra pari e accesso a prospettive diverse.
+- **Positivo:** l'IA può mediare la [[collaborative-learning|collaborazione]] e l'[[human-ai-collaboration|interazione umano-IA]], sostenendo lavoro di squadra, interazione tra pari e accesso a prospettive diverse.
 - **Negativo:** l'IA può ridurre l'interazione genuina con pari e docenti, creare dinamiche [[ai-sycophancy|untuose]] e — quando opera come compagno di squadra non dichiarato — rimodellare il discorso di gruppo e l'[[agency]] in modi che chi apprende non può vedere né contestare (vedi l'[[jin-emergent-learner-agency-implicit-hai-2026|agency emergente di chi apprende nell'HAI implicita]]).
 
 ### Impatti di lungo periodo / sulle capacità
@@ -93,6 +98,33 @@ Gli esiti di più lungo periodo che uno studente vive — se torna il semestre s
 ## Connessioni
 
 L'esperienza dello studente si collega all'[[cognitive-offloading|eccesso di dipendenza]] (dipendenza eccessiva dall'IA), all'[[ai-literacy]] (competenze per un uso efficace), al [[cognitive-offloading]] (come l'IA cambia il lavoro cognitivo) e allo [[student-engagement|coinvolgimento]] (come i sistemi di IA misurano e rispondono al comportamento dello studente). È il membro rivolto a chi apprende dell'ombreglio degli [[stakeholders]], e la casa per riassumere tutti i modi in cui l'IA incide sugli studenti.
+
+## Idee sbagliate comuni
+
+**"Gli studenti che evitano l'IA sono indietro."** Il non-uso è spesso una posizione ragionata anziché una lacuna: un'indagine inter-istituzionale britannica su **7.087 studenti** ha trovato che il **32% non usava affatto la GenAI per studiare**, con i non utenti che citavano il voler fare il lavoro da sé. Trattarlo come un deficit di adozione rovescia il risultato e spinge gli studenti fuori da una scelta difendibile.
+
+**"Le dichiarazioni degli studenti sono una misura ragionevole dell'apprendimento."** Sono [[self-report-measures|misure di autovalutazione]]: catturano bene percezioni e intenzioni e il comportamento solo approssimativamente. Il divario tra prestazione e apprendimento in questa letteratura — studenti che vanno meglio con l'IA e peggio in compiti successivi senza assistenza — è proprio il caso in cui autovalutazione ed esito divergono, quindi un corpo studentesco soddisfatto non è la prova di un corpo studentesco che apprende.
+
+**"Se gli studenti sentono che l'IA aiuta, allora aiuta."** Sentirsi aiutati è un dato reale sull'esperienza e un'inferenza inaffidabile sull'esito. Il divario è documentato e gli studenti nel gruppo danneggiato non lo percepiscono in modo affidabile, quindi percezione ed esito vanno raccolti come misure separate anziché l'una al posto dell'altra.
+
+**"L'esperienza dello studente è una preoccupazione soft rispetto agli esiti."** È un indicatore anticipatore dell'adozione e della dichiarazione: gli studenti che sentono che il loro uso è giudicato lo nascondono, e l'uso nascosto è la condizione in cui l'[[reducing-ai-misuse|uso improprio]] e il danno sono meno visibili per l'istituzione.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Non trattare il non-uso come una lacuna da colmare. Circa un terzo degli studenti sceglie di fare il lavoro da sé, e la pressione ad adottare converte una posizione ragionata in un problema di conformità.
+- Raccogli percezione ed esito separatamente. Le indagini di soddisfazione descrivono l'esperienza e non possono sostituire la prestazione senza assistenza.
+- Rendi sicura la dichiarazione, poiché gli studenti che si aspettano giudizio nascondono il proprio uso, e l'uso nascosto è dove si cela la divergenza tra prestazione assistita e non assistita.
+
+**Per gli sviluppatori**
+
+- Riporta gli esiti di apprendimento accanto alle metriche di esperienza in qualunque cosa pubblichi per gli studenti, perché i risultati sentiti e quelli misurati divergono regolarmente.
+- Supporta il rifiuto dell'assistente senza perdere l'accesso al corso.
+
+**Per i ricercatori**
+
+- Riporta esplicitamente la dimensione e le ragioni del gruppo dei non utenti; il 32% di un campione di 7.087 studenti è una popolazione, non un residuo.
 
 ## Concetti collegati
 - [[learners]] — Chi apprende: l'ombrello per i concetti del lato di chi apprende

@@ -1,6 +1,7 @@
 ---
 title: "E-portfolio (portafoglio elettronico)"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -9,13 +10,17 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,33 @@ La ricerca della knowledge base mostra che gli e-portfolio sono sempre più cent
 ## Perché gli e-portfolio contano per l'integrazione dell'IA
 
 Poiché gli e-portfolio mettono in primo piano **processo, riflessione e comprensione dimostrata** rispetto a un singolo manufatto finale, affrontano direttamente il problema centrale dell'IA: quando l'IA può produrre un prodotto rifinito, il prodotto non testimonia più il coinvolgimento che sta dietro di esso. Gli e-portfolio spostano la valutazione verso le evidenze che sopravvivono — bozze, revisioni, tracce di ragionamento e autovalutazione riflessiva — mentre l'IA stessa può assistere nella generazione di feedback, nell'impalcatura della riflessione e (con un'adeguata progettazione della rubrica) nel supporto alla valutazione. Questo rende gli e-portfolio un caposaldo della [[authentic-assessment|valutazione autentica]], della [[formative-assessment|valutazione formativa]] e della [[process-oriented-assessment|valutazione basata sul processo]] nell'era dell'[[generative-ai|IA generativa]], e una sede naturale per la [[feedback-literacy|competenza sul feedback]] e l'[[self-regulated-learning|apprendimento autoregolato]].
+
+## Idee sbagliate comuni
+
+**"Un e-portfolio è una cartella digitale di lavori finiti."** Il valore valutativo viene dalla cattura del *processo* — ragionamento, stesura, revisione, riflessione — più che dal manufatto finale. È precisamente per questo che gli e-portfolio sono relativamente robusti rispetto all'IA: quando il manufatto può essere generato, una valutazione costruita sul processo conserva le evidenze che una costruita sul prodotto ha perso.
+
+**"L'IA rende gli e-portfolio facili da falsificare quanto i saggi."** La modalità di fallimento è diversa, e le evidenze mostrano il formato che si muove nella direzione opposta. Combinare ChatGPT con la valutazione tramite e-portfolio (un modello CEA) nel parlato in EFL ha prodotto guadagni significativi nella performance oratoria (**F(1) = 48,554, p<.001**) e nella [[feedback-literacy|competenza sul feedback]] (**F(1) = 16,135, p<.001**), con gli e-portfolio a sostenere lo strato riflessivo. Il portfolio non è diventato l'anello debole quando l'IA è entrata nel corso; ha portato la valutazione.
+
+**"Un risultato multivariato significativo prova che il portfolio era l'ingrediente attivo."** Prova che il pacchetto ha mosso gli esiti. Lo studio combinava uno strumento di IA, una struttura di portfolio e compiti di parlato, e un disegno di quella forma non può isolare quale componente abbia prodotto il guadagno. L'affermazione difendibile riguarda la combinazione, e vale la cautela dei [[learning-gains|guadagni di apprendimento]]: i guadagni riportati vanno ricondotti a una componente prima di poter essere riusati.
+
+**"Gli e-portfolio sostituiscono la necessità di una valutazione senza assistenza."** La completano. Un portfolio testimonia processo e crescita nel tempo; non testimonia ciò che un discente sa fare senza supporto, e confondere le due cose reintroduce il problema del manufatto-come-proxy che il formato era stato adottato per risolvere.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Richiedi il processo, non solo il prodotto: bozze con date, spiegazioni delle revisioni e riflessione su che cosa è cambiato e perché. Sono gli artefatti che l'IA non può fornire al posto del discente.
+- Abbina il portfolio ad almeno una misura di prestazione senza assistenza, così che le evidenze di processo e quelle di capacità siano entrambe registrate.
+- Usa l'IA *dentro* il flusso di lavoro del portfolio — per il feedback sulle bozze — anziché fuori, che è la configurazione testata dallo studio citato.
+
+**Per gli sviluppatori**
+
+- Progetta per la cronologia delle revisioni e il versioning anziché per una vista finale rifinita; la pedagogia vive nel diff.
+- Rendi i prompt di riflessione abbastanza strutturati da essere valutabili, poiché la riflessione non strutturata è dove il testo generato dall'IA passa più facilmente.
+
+**Per i ricercatori**
+
+- Progetta per isolare le componenti quando studi pacchetti IA-più-portfolio; altrimenti il campo accumula effetti di combinazione che non riesce a scomporre.
 
 ## Concetti collegati
 

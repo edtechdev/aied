@@ -1,6 +1,7 @@
 ---
 title: Dichiarazioni sull'uso e la divulgazione dell'IA
 created: "2026-10-14T21:59:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-use-disclosure"
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,6 +73,7 @@ Il lavoro di modellizzazione di [[mohamed-temimi-assessment-imperfect-informatio
 Passando in rassegna le linee guida GenAI delle 50 università statunitensi classificate come più innovative, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] colloca la divulgazione al confine tra assistenza e travisamento: dove l'IA è permessa, le istituzioni istruiscono gli studenti a riconoscere, citare o altrimenti documentare l'assistenza dell'IA anziché presentare gli output come interamente propri, con le biblioteche — non gli uffici di integrità — a detenere l'autorità sugli standard di citazione e provenienza. L'inquadramento delle Biblioteche del MIT che l'IA non è un autore, lasciando agli autori la responsabilità di documentare come gli strumenti hanno contribuito, esemplifica il modello, e Qian legge la divulgazione simultaneamente come norma di integrità, principio di design che riduce l'ambiguità prima della consegna, e uno dei quattro pilastri di integrità accanto a responsabilità, [[equity-in-ai-education|equità]] e [[privacy|privacy]]. Questo è lo stesso uso non forense che la sezione descrive, ed è perché Qian raccomanda di istituzionalizzare le biblioteche come autorità di citazione anziché espandere il rilevamento.
 
 - **La divulgazione comporta una penalità di fiducia, e la legittimità è il meccanismo argomentato.** In tredici esperimenti, per lo più con panelist online statunitensi e raccolti a 4.093 osservazioni (θ = 0,81, z = 10,52, 95% CI [0,66, 0,96]), un attore che divulgava l'uso dell'IA era ritenuto meno affidabile di uno che restava in silenzio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke e Reimann (2025)]]). L'effetto è sopravvissuto a sei inquadramenti di divulgazione, a un valutatore che già sapeva che l'IA era stata usata, e a regimi sia obbligatori sia volontari. È la controparte sperimentale del risultato del sondaggio sopra riportato che gli studenti che divulgavano sempre affrontavano oltre tre volte le probabilità di un'accusa: la trasparenza stessa può costare a chi divulga. L'unico risultato dello studio rivolto agli studenti è che gli studenti si fidavano meno di un professore quando lei divulgava la valutazione con l'IA.
+- **Un'etichetta sul contenuto cambia la descrizione, non il verdetto.** Con 617 adulti assegnati casualmente a vedere o non vedere un'etichetta "Contenuto generato dall'IA/Video sintetico", l'etichetta abbassava l'autenticità percepita (medie di 4,92 senza e 4,21 con) ma lasciava invariati fiducia (B = -0,130, p = 0,216), rischio, adozione e condivisione ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang e Zhang (2026)]]).
 
 ## Progettare una divulgazione efficace
 
@@ -75,11 +81,19 @@ Passando in rassegna le linee guida GenAI delle 50 università statunitensi clas
 - **Affrontare la barriera affettiva.** Le politiche di divulgazione che prendono di mira solo il comportamento sono insufficienti — normalizzare l'uso dell'IA, ridurre il giudizio percepito e lo stigma, e rassicurare gli studenti che la divulgazione onesta non sarà sanzionata.
 - **Rendere la divulgazione formativa, non solo conformità.** Usare prompt di riflessione e dichiarazioni strutturate (modello/input/valutazione) così che la divulgazione costruisca [[ai-literacy|alfabetizzazione sull'IA]] e autoregolazione anziché funzionare come sorveglianza.
 - **Formare il corpo docente a costruire fiducia, non a fare affidamento sul rilevamento.** La divulgazione non dovrebbe mai essere seguita da un'accusa; il corpo docente dovrebbe apprendere conversazioni di costruzione della fiducia anziché appoggiarsi a rilevatori di IA inaffidabili.
+- **Anche la divulgazione va nella direzione opposta.** Ogni pagina qui tratta la divulgazione come un obbligo dello studente, e i professori di scrittura intervistati da [[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]] ne chiedevano lo specchio: gli studenti dovrebbero essere informati di quando e come uno strumento è usato per valutare il loro lavoro, e il loro consenso richiesto prima che il lavoro venga caricato. La stessa trasparenza che rende leggibile l'uso dello studente è ciò che rende leggibile allo studente la pratica valutativa di un'istituzione.
 - **Progettare per l'equità.** Attenzione alla divulgazione differenziale tra discipline, status linguistico e retroterra degli studenti, ed evitare meccanismi che pongono oneri ineguali sui discenti già emarginati.
 
 ## Connessioni
 
 L'uso e la divulgazione dell'IA si collocano all'intersezione tra [[academic-integrity|integrità accademica]] (la sua preoccupazione genitoriale), [[ethics|etica]], [[trust|fiducia]] e [[trust-calibration]] (la divulgazione come atto di vulnerabilità), [[governance|governance]] e [[educational-policy-ai|politiche educative sull'IA]] (framework di politica istituzionale), e [[assessment|valutazione]] (dove la divulgazione è operazionalizzata). Si collega all'[[ai-literacy]] (gli studenti hanno bisogno di capire che cosa e come divulgare), all'[[self-regulated-learning|apprendimento autoregolato]] e alla [[help-seeking|ricerca di aiuto]] (la divulgazione come ricerca di aiuto visibile), e all'[[equity-in-ai-education|equità]] (divulgazione differenziale). È distinta da, ma correlata a, [[ai-misuse-learning-harm|uso improprio dell'IA e danno all'apprendimento]] (il danno che la divulgazione intende rendere visibile) e all'[[ai-detection|rilevamento dell'IA]] (le alternative basate sul rilevamento che i framework di divulgazione sostituiscono sempre più).
+
+## Idee sbagliate comuni
+
+- **"Le politiche di dichiarazione obbligatoria producono divulgazione."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] ha documentato il **74% di non conformità** con una dichiarazione obbligatoria in una business school. Il requisito non ha prodotto il comportamento che imponeva.
+- **"Gli studenti nascondono l'uso dell'IA perché sono disonesti."** I fattori sono documentati e specifici: solo **circa il 34% degli studenti di economia ammetteva l'uso dell'IA**, con la divulgazione più rara, guidata dall'**ansia da sanzione**, mentre un altro studio trovava il **66% che non divulgava mai o raramente** con la **paura della sanzione accademica come motivo principale**. Il design della politica, non il carattere, è ciò che i dati chiamano in causa.
+- **"Un requisito di divulgazione è un controllo a basso costo."** Un **tasso di non conformità del 74%** rende il registro risultante peggiore di nessun registro: è un dataset che appare completo e non lo è, quindi l'istituzione decide su un campione di cui non può fidarsi.
+- **"Divulgare come il modello è stato usato è sufficiente."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] sostiene che la divulgazione documenta l'uso del modello mentre l'uso responsabile richiede una garanzia autoriale a livello di affermazione — la capacità del contributore di comprendere, giustificare e difendere le affermazioni — separando la delega cognitiva, dove gli output plasmano scelte sostanziali, dalla delega di routine, che non lo fa.
 
 ## Concetti collegati
 - [[academic-integrity]]
@@ -102,6 +116,7 @@ L'uso e la divulgazione dell'IA si collocano all'intersezione tra [[academic-int
 - [[social-norms-ai-use]] — perché i discenti scelgono di nascondere anziché divulgare
 
 ## Articoli collegati
+- [[wu-lam-genai-writing-assessment-professors-2026]] — La direzione speculare: dire agli studenti quando l'IA valuta il loro lavoro, e chiedere prima di caricarlo
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Oltre il rilevamento: come gli studenti usano e nascondono l'IA nelle valutazioni online
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgazione dell'IA da parte degli studenti, stigma e apprendimento autoregolato
 - [[vetter-hidden-cost-disclosure-genai-2026]] — Il costo nascosto della divulgazione: divulgazione e accuse del corpo docente
@@ -113,3 +128,6 @@ L'uso e la divulgazione dell'IA si collocano all'intersezione tra [[academic-int
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Nessun consenso su divulgazione e citazione dell'IA nelle politiche delle facoltà di legge (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — I saggi di ammissione scritti dall'IA sono diffusi ma sanzionati
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Tredici esperimenti: divulgare l'uso dell'IA abbassa l'affidabilità di chi divulga, tramite la legittimità
+- [[authorial-warrant-ai-supported-scholarship-2026]] — Quando le regole di divulgazione non bastano: garanzia autoriale e giudizio nella ricerca supportata dall'IA (Mirończuk 2026)
+
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Etichette di divulgazione dell'IA, autenticità percepita e fiducia nei video didattici generati dall'IA

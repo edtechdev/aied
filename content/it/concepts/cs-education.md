@@ -2,6 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: Educazione informatica
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,13 +11,17 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,6 +45,7 @@ ai_assist:
 - **Generazione e completamento del codice:** la [[code-review-genai-cs1|revisione di codice CS1]], [[dura-llm-cs2|DURA per CS2]], e gli [[prompt-problems-nl-programming-mistakes|errori di programmazione in linguaggio naturale]] esaminano come gli studenti usino l'IA per la generazione di codice e cosa ne imparino.
 - **Agenti conversazionali per i novizi ([[meta-analysis-systematic-review|revisione di scoping]]):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] mappano 23 studi (2019–giugno 2024) di [[conversational-ai|agenti conversazionali]] per programmatori novizi, documentando uno spostamento dai chatbot basati su regole agli agenti basati su [[llm]] e [[rag]] (con la [[rag|generazione aumentata da recupero]] che riduce il [[hallucination-risk|rischio di allucinazione]]) e il supporto al tutoraggio personalizzato (ad es. InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). In particolare, solo 4 studi su 23 fondano il design nella [[learning-theories|teoria dell'apprendimento]], e 17 prototipi su 23 sono solo in inglese nonostante la maggior parte della ricerca origini da paesi non anglofoni — segnalando un debole fondamento [[pedagogy|pedagogico]] e un divario di inclusività per il futuro design di CA nella programmazione introduttiva.
 - **Supporto al debugging:** gli [[debugtracker-classroom-debugging|strumenti di debugging]], la [[chat-debugging-human-ai-collaboration-circuits|collaborazione di debugging uomo–IA]], e la [[golrang-propact-pair-programming-2026|modellazione della programmazione in coppia diadica]] sfruttano l'IA per l'identificazione e la riparazione degli errori.
+- **Un impiego reale in un corso ha mostrato che la lunghezza del suggerimento, non la scelta del modello, è la variabile su cui si può agire.** Tre implementazioni consecutive in un corso introduttivo di sviluppo web (o3-mini, GPT-5-mini e GPT-5.5 su 79.438, 83.374 e 10.420 consegne registrate) associavano i suggerimenti a esiti immediati migliori in diversi confronti. I messaggi più lunghi predicevano una correttezza peggiore alla consegna successiva, più tentativi e una riconsegna più lenta, e gli studenti che avevano ricevuto suggerimenti nelle fasi precedenti del progetto risolvevano meno spesso la fase finale, il 95,6% contro il 98,1% ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]).
 - **Un tutor residente nel browser potenziato da strumenti è l'architettura verso cui il campo sta convergendo.** Un design SLM potenziato da strumenti abbina un piccolo pianificatore fine-tuned (1B–7B) a quattro strumenti deterministici — esecutore di codice, esecutore di test, recuperatore di documentazione, modulo di [[knowledge-tracing|knowledge tracing]] — dietro una politica di escalation a quattro livelli (strumenti prima, SLM su dispositivo, LLM su cloud con consenso, docente), spostando il controllo pedagogico dal modello alla politica verificabile; un modello di completamento preliminare di ~150M raggiunge il 10,97% di pass@1 su HumanEval, sopra diverse baseline di codice da 100M–150M ([[browser-sized-agents-slm-webllm-tutor-2026|Suvernev et al. (2026)]]).
 - **Un piccolo tutor fine-tuned può superare nello scaffolding un modello generale più grande.** Il fine-tuning di Qwen2.5-Coder-7B-Instruct su 1.213 dialoghi di tutoraggio sintetici ha ridotto la divulgazione prematura delle soluzioni dal 7,43% all'1,88% dei turni del tutor e ha elevato lo scaffolding passo-passo e la qualità delle domande di debugging sopra quelli di GPT-4o, benché la generazione affidabile di piani pedagogici sia restato il problema aperto ([[socraticrepair-program-debugging-2026|Kopytskyi et al. (2026)]]).
 - **Valutazione automatica:** la [[automated-grading-linux-bash-examinations-large-language-models|valutazione di Linux Bash]], [[llm-automated-grading-programming-comparison-2026|un confronto di valutazione su larga scala con 18 modelli]], e la [[llm-intervention-design-cs-review|revisione degli interventi LLM]] valutano la valutazione automatica del codice. La sicurezza di quel flusso di lavoro è una questione separata: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] ha red-teamed un compito routinario di valutazione con IA e ha trovato che istruzioni nascoste dentro un file consegnato alzavano il voto di un saggio insufficiente senza alcun avviso visibile, in 9 iterazioni su 9 per una strategia e 17 su 18 per un'altra — prova che la robustezza del valutatore appartiene alla checklist dell'[[assessment-validity]] accanto all'accuratezza.
@@ -75,6 +81,7 @@ La domanda "cosa dovrebbero ancora gli studenti imparare a mano?" rimodella ora 
 - **L'ingegneria software agentica come disciplina:** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formalizza il dirigere agenti anziché lo scrivere codice — insegnando verificabilità, ingegneria del contesto, verifica, flussi di lavoro multi-agente e AgentOps — e posiziona la competenza di [[agentic-ai|IA agentica]] come curriculum strutturato e supportato da scaffolding anziché come padronanza della sintassi.
 - **Dalla produzione al giudizio: debito di comprensione e AASEE.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] sostiene che il campo dovrebbe spostarsi da un modello centrato sulla produzione a uno centrato sul giudizio, ed estende il debito di comprensione — l'apprendimento differito e il costo di manutenzione quando la produzione assistita dall'IA supera la capacità dello studente di spiegare, testare, modificare e giustificare il software — in una lente di [[assessment|valutazione]], fondato su 621 diari riflessivi di 207 studenti. La revisione raffina il framework AASEE in cinque livelli di integrazione non lineari incrociati da quattro obblighi di evidenza — spiegare, verificare, modificare e rendere conto — e riporta una base di evidenza condizionale: una [[meta-analysis-systematic-review|meta-analisi]] STEM con eterogeneità estrema (I² = 96,32%) perde il proprio beneficio aggregato una volta corretta la distorsione da pubblicazione, e le sintesi di 76, 72 e 64 studi mostrano guadagni di efficienza a breve termine che non [[transfer-of-learning|trasferiscono]] alla performance non assistita.
 - **Nuove pedagogie e modelli di valutazione:** l'[[test-driven-ai-assisted-learning|Apprendimento Assistito dall'IA Guidato dai Test]] sostituisce le lezioni con uno studio [[self-directed-learning|auto-diretto]] assistito dall'IA regolato da test settimanali a libro chiuso, preservando la responsabilità individuale mentre gli agenti di IA scalano la produzione di materiali e la valutazione sotto [[human-in-the-loop-ai|supervisione umana]].
+- **Gli esami orali come meccanismo di responsabilizzazione.** Un programma basato su progetti in AI Engineering ha portato gli studenti del secondo semestre attraverso sette sprint di due settimane con l'IA incorporata nei requisiti, nell'architettura, nella codifica e nei test, e ha reso obbligatori gli esami orali individuali dopo che tre edizioni avevano mostrato che gli artefatti da soli non attestavano più la comprensione; i crediti ECTS mancanti sono calati in media dal 25% al 3% ([[project-based-ai-engineering-curriculum-agile-2026|Rausch (2026)]]).
 - **Insegnare la meccanica del modello offline.** Una suite di risorse per praticanti insegna l'intera pipeline di addestramento→generazione degli LLM scollegata — griglie di n-gram contate a mano e campionamento basato su dadi, nessuna programmazione o matematica richiesta — e riporta la consegna a circa 400 partecipanti, con l'impegno che iniziava solo alla fase di generazione ([[llms-unplugged-teaching-resources-2026|Swift (2026)]]).
 - **Cosa predice il successo del [[vibe-coding|vibe coding]] — e cosa continuare a insegnare:** [[vibe-coding-writing-cs-achievement-2026|uno studio preregistrato CHI 2026 (N=100)]] sul vibe coding puro "senza codice" ha trovato che sia il rendimento informatico (r = 0,39) sia la competenza nella comunicazione scritta (r = 0,29) predicevano indipendentemente la performance, con il rendimento informatico che restava significativo anche dopo il controllo dell'abilità cognitiva dominio-generale e contribuiva con circa il doppio della varianza unica della competenza di scrittura. Poiché l'ambiente nascondeva il codice generato, la conoscenza informatica poteva aiutare solo indirettamente (scomposizione dei problemi, pensiero algoritmico) — rendendo la stima CS un *limite inferiore* per i flussi di lavoro assistiti dall'IA che permettono anche la modifica. Gli autori sostengono che i curriculum dovrebbero soppesare la comunicazione scritta accanto ai fondamentali di informatica, anziché trattare il vibe coding come padronanza della sintassi resa obsoleta.
 
@@ -125,6 +132,13 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 
 - **Spiegazioni degli errori di programmazione adattive agli LLM (2026):** uno studio crowdsourced (N=103) ha trovato che i messaggi di errore riscritti dagli LLM migliorano la leggibilità, ma la performance oggettiva di debugging dipende dal corrispondere lo stile di spiegazione (pragmatico contro contingente) alla competenza del programmatore — un'intuizione di scaffolding per l'educazione alla programmazione assistita dall'IA ([[llm-adaptive-programming-error-explanations-2026]]).
 
+- **La supervisione riguarda l'idoneità, non la correttezza (2026):** codificando 962 turni studente-IA di 145 studenti del primo anno di ingegneria del software, [[novice-se-students-oversight-genai-2026|Shakiba e Chaffey (2026)]] hanno trovato che il 74,4% degli interventi nominava problemi di idoneità contro il 16,9% che nominava la correttezza, e che il 51,0% delle risposte modificava l'output anziché il prompt.
+## Idee sbagliate comuni
+
+- **"Gli studenti che programmano in coppia con l'IA stanno imparando a programmare."** Nella co-programmazione studente-IA, **quasi l'80% delle interazioni si basava su strategie non di apprendimento, come l'esternalizzazione delle risposte**, e solo **circa 1 su 9 mostrava un coinvolgimento epistemico profondo**. Il pattern dominante è la transazione per ottenere un output.
+- **"Gli agenti conversazionali per i principianti sono fondati sulla teoria dell'apprendimento."** **Solo 4 studi su 23 fondano il progetto sulla [[learning-theories|teoria dell'apprendimento]]**, quindi gran parte della base di evidenze documenta ciò che un sistema faceva senza una teoria del perché dovesse funzionare.
+- **"La letteratura sugli strumenti riflette la distribuzione globale del campo."** **17 dei 23 prototipi sono solo in inglese nonostante la maggior parte della ricerca provenga da contesti non anglofoni**. I prototipi servono una popolazione più ristretta di quella che la ricerca raggiunge.
+
 ## Concetti collegati
 
 - [[computational-thinking]]
@@ -153,6 +167,7 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 - [[assessment-validity]]
 
 ## Articoli collegati
+- [[mihaylova-llm-feedback-live-programming-course-2026]] — Tre implementazioni, tre modelli, 173.000 consegne: come si è comportato il suggerimento in un corso reale
 - [[kumar-genai-computing-education-systematic-review-2026]] — Systematic review of 72 studies: efficiency gains that do not transfer, and the VIE framework
 - [[vibe-coding-writing-cs-achievement-2026]] — CS achievement and writing skills predict vibe-coding proficiency (CHI 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
@@ -184,7 +199,6 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly embodied block programming
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM natural-language robot control
 - [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
@@ -204,3 +218,4 @@ L'educazione informatica si collega al [[computational-thinking|pensiero computa
 - [[educator-guided-llm-pedagogical-agent-2026]] — Educator-authored staged feedback for conceptual database design: hidden diagnosis, controlled disclosure, 71.1% target-level across 383 episodes
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education
+- [[novice-se-students-oversight-genai-2026]] — Oltre la correttezza: come gli studenti principianti di ingegneria del software esercitano la supervisione sull'IA generativa (Shakiba e Chaffey 2026)

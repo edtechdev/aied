@@ -2,6 +2,7 @@
 connected_resources: [vibes-diy]
 title: "Pensiero progettuale (Design Thinking)"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -9,13 +10,17 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: "concepts/design-thinking"
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,6 +55,16 @@ Per gli educatori, l'evidenza collettiva sconsiglia tanto la restrizione indiscr
 ## Collegamenti con concetti correlati
 
 Nell'educazione all'IA il design thinking è profondamente intrecciato con la [[human-ai-collaboration]]: gli strumenti generativi ampliano l'ideazione mentre gli umani conservano l'autorità epistemica e l'[[agency]]. Poggia sullo [[scaffolding]] e su un [[feedback]] adeguato allo stadio per essere efficace, è spesso veicolato attraverso interazioni [[socratic-method|socratiche]] e avversariali nell'[[higher-ed]] e nel [[k-12]], e il suo successo è frequentemente inquadrato come conservazione della [[creativity]] e coltivazione dell'[[ai-literacy]] sotto la governance [[human-in-the-loop-ai]].
+
+## Idee sbagliate comuni
+
+**"L'IA generativa accelera il design thinking in tutte le sue fasi."** Accelera l'ideazione e può degradare il giudizio da cui dipendono le fasi successive: **eccelle nell'ideazione precoce ma può causare fissazione progettuale o lock-in estetico se usata acriticamente**. La fissazione è il pericolo specifico di uno strumento di ideazione rapido — la prima direzione plausibile diventa la cornice, e un ampio insieme di varianti su un solo concetto non è uno spazio di ricerca più ampio.
+
+**"Più opzioni generate significano un'esplorazione più ampia."** Ampiezza dell'output e ampiezza della considerazione sono quantità diverse. Uno studente che genera trenta direzioni e adotta la prima convincente ha esplorato una direzione, e gli alti tassi di accettazione sono proprio la firma di questo.
+
+**"Il design thinking è un processo da automatizzare fase per fase."** È una disciplina di inquadramento e reinquadramento dei problemi, che è ciò che la fissazione preclude. Automatizzare le fasi lasciando la cornice inesaminata produce un output competente per il problema sbagliato.
+
+**"Gli agenti di IA che danno ragione allo studente sostengono il suo ragionamento progettuale."** L'uso produttivo documentato qui va nella direzione opposta: i [[ai-agents-constructive-conflict-design-education-2026|conflitti costruttivi con agenti di IA]] mettono alla prova un prompting avversariale che forza la riconsiderazione. Un agente compiacente rafforza la fissazione; uno orientato al dissenso è il progetto che ha una pretesa educativa dietro di sé.
 
 ## Concetti collegati
 

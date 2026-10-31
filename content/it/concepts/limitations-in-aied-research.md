@@ -1,6 +1,7 @@
 ---
 title: "Limiti nella ricerca AIEd"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T07:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -18,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -49,6 +54,7 @@ La pagina sui [[research-methods-aied|metodi di ricerca]] della knowledge base d
 
 - **Il progetto di reperimento determina i numeri principali di una sintesi.** In una scoping review di 195 studi sulla formazione degli insegnanti, la competenza digitale e [[tpack|TPACK]] erano descrittori di ricerca espliciti mentre la progettazione didattica e la valutazione non avevano equivalenti, quindi il 46,5% e l'1,9% riportati descrivono il corpus reperito piuttosto che il campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Campioni di piccole dimensioni.** Molti studi AIED sono sotto-potenziati — troppo pochi partecipanti per rilevare in modo affidabile effetti significativi o per sostenere le affermazioni forti che a volte se ne traggono.
+- **L'aumento dei dati può fabbricare la metrica principale.** In un valutatore automatico di saggi la cui partizione di addestramento conteneva il lavoro di 83 studenti, le risposte generate di livello 1 — modelli, troncamento, rimozione di parole chiave — hanno aumentato l'accordo su Focus di +0,346 kappa quadratico ponderato partendo da una base di 0,028, perciò il segnale ordinale più forte si reggeva su testo che nessuno studente aveva scritto ([[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]]).
 - **I punteggi finali possono nascondere proprio l'oggetto dello studio.** In una revisione PRISMA di 103 studi sull'istruzione [[higher-ed|superiore]], il 56% riportava guadagni condizionati dall'impalcatura didattica o dalla verifica, e differenze nulle nei voti accompagnavano spesso cambiamenti reali nel processo — più debugging, più cicli di controllo — quindi i voti da soli non possono dire se l'[[generative-ai|IA generativa]] abbia rafforzato o svuotato la pratica ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi e Samaha (2026)]]).
 
 - **Il progetto di validazione può fabbricare il numero principale.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara e Halloluwa (2026)]] hanno messo a benchmark quindici modelli sulla predizione della familiarità basata su EEG e mostrano che la standard stratified cross-validation consente perdita di informazione temporale e riporta un F1 fino a 0,9853, mentre la Group K-Fold validation indipendente dai trial fa scendere il picco a 0,6038 F1 — ancora al di sopra del caso, ma ben lontano dal risultato citato.
@@ -60,6 +66,8 @@ La pagina sui [[research-methods-aied|metodi di ricerca]] della knowledge base d
 - **Standardizzare all'interno di ciascun dataset può nascondere un'errata rappresentazione della dispersione.** Quando coorti educative sintetiche sono state standardizzate secondo la propria dispersione, il fatto che la loro struttura settimanale variasse da 2,6 a 4,9 volte meno rispetto alle coorti reali è diventato invisibile nelle statistiche riportate — una pre-elaborazione di routine, nelle parole degli autori, non un timore ipotetico ([[synthetic-educational-data-structural-fidelity-2026|Inoue e Yasutake (2026)]]).
 
 - **Le etichette generate dai modelli non sono ground truth.** Quando le etichette che addestrano o valutano un sistema sono esse stesse prodotte da modelli linguistici, l'accordo tra annotatori non può stabilire la validità: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] non hanno mai validato le loro annotazioni di asserzioni contro etichette d'oro umane, e i 49 classificatori a encoder che rilasciano ereditano quella provenienza e potrebbero non essere validi laddove le applicazioni differiscano in dimensioni significative. Il loro schema ha anche reso nettamente peggio del classificatore fine-tuned addestrato su dati annotati da esperti (macro-F1 0,673 contro 0,76), il che rende i corpus etichettati da esperti ancora degni di essere costruiti quando è richiesta un'elevata confidenza.
+
+- **La base di evidenze è essa stessa distribuita in modo disomogeneo.** Una scoping review di 407 studi sulla valutazione formativa supportata dalla tecnologia ha attinto solo a Web of Science e Scopus. Ha inoltre escluso 61 record per criteri linguistici, quindi lo squilibrio geografico che il campo riporta può riflettere in parte quali sedi sono indicizzate ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 
 ## Il problema della velocità: l'IA si evolve più rapidamente dei risultati
 
@@ -107,6 +115,22 @@ Un ulteriore limite pratico è la **sfida di applicare la ricerca all'[[teacher-
 
 Lo scopo di questa knowledge base è contribuire a colmare quel divario — rendere più facile restare aggiornati, interpretare e applicare la ricerca sull'IA in educazione alla pratica — curando risultati ad accesso aperto in sintesi strutturate e accessibili, collegando i lavori correlati attraverso le [[ai-education|pagine concettuali]], e segnalando i limiti che i lettori dovrebbero soppesare. Si propone di sostenere la pratica informata dalle evidenze nell'insegnamento e nella progettazione didattica, e così facendo anche di portare alla luce lacune e domande che possono informare nuova ricerca e sviluppo. Comprendere i limiti della ricerca non è quindi un fine in sé: è ciò che permette ai professionisti di applicare i risultati in modo appropriato e ai ricercatori di progettare studi più robusti che servano meglio la pratica.
 
+## Due trappole di audit da conoscere
+
+Due pratiche di resoconto specifiche gonfiano o distorcono una sintesi, ed entrambe sono visibili nel registro pubblicato anziché ipotetiche.
+
+**La cifra di eterogeneità dipende dal modello, e il modello è raramente citato.** L'eterogeneità di una revisione è citata come **I² = 82,98% sotto un modello a effetti fissi e I² = 15,75% sotto il modello a effetti casuali**. Descrivono gli stessi dati. Un lettore che preleva un singolo numero di eterogeneità senza il suo modello ha ricevuto un'affermazione tecnica senza interpretazione allegata, e la differenza tra «la maggior parte della varianza è inspiegata» e «poca varianza è inspiegata» è la differenza tra scartare e fidarsi del campo.
+
+**La percentuale principale può essere un artefatto dei termini di ricerca.** In una scoping review di 195 studi sulla formazione degli insegnanti, la competenza digitale e [[tpack|TPACK]] erano descrittori di ricerca espliciti mentre la progettazione didattica e la valutazione non avevano equivalenti, quindi il **46,5% e 1,9%** riportati descrivono la strategia di reperimento prima ancora del campo. Un'affermazione di prevalenza è tanto significativa quanto la query che ha prodotto il corpus.
+
+**E il tasso di base è il numero che nessuno dichiara.** I limiti metodologici qui sono misurabili anziché impressionistici: in una revisione critica di 80 studi HCI sul pensiero critico con l'IA, **42 (52%) non prevedevano alcun gruppo di controllo** e la maggior parte dei restanti si basava sull'autovalutazione. Quando più della metà dei risultati positivi di un campo proviene da progetti che non possono separare l'effetto dell'IA dall'attività ordinaria, l'ipotesi preliminare appropriata per qualsiasi singolo risultato è lo scetticismo, non l'accettazione provvisoria.
+
+## Idee sbagliate comuni
+
+- **«Le sezioni sui limiti sono testo di rito.»** I limiti metodologici sono **misurabili anziché impressionistici**: in una revisione critica di **80 studi HCI** sul pensiero critico con l'IA, **42 (52%) non prevedevano alcun gruppo di controllo**. È un conteggio preciso che rende il limite azionabile.
+- **«L'eterogeneità è un singolo numero che si può citare.»** La stessa revisione mostra un rischio di resoconto: l'eterogeneità è citata come **I² = 82,98% sotto un modello a effetti fissi e I² = 15,75% sotto il modello a effetti casuali**. Gli stessi dati producono una storia a nove punti o una a due punti a seconda del modello scelto, quindi un I² citato senza il suo modello non è interpretabile.
+- **«Un grande effetto riportato è il numero di cui fidarsi.»** Un titolo come un effetto da **30 studenti in un unico corso in un unico sito** è la forma comune di un'affermazione fragile, e il conteggio degli studi senza controlli mostra quanto spesso quella fragilità non venga riportata.
+
 ## Concetti collegati
 
 - [[interpreting-and-applying-aied-research]]
@@ -149,3 +173,4 @@ Lo scopo di questa knowledge base è contribuire a colmare quel divario — rend
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review of 195 teacher-education studies where search-string design shapes the reported frequencies
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematic review of 103 GenAI higher-education studies: 56% conditional gains, grades masking process change (Hawi & Samaha 2026)
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — L'aumento dei dati può fabbricare la metrica principale

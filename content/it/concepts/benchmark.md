@@ -1,6 +1,7 @@
 ---
 title: "Benchmark (riferimento di confronto)"
 created: "2026-10-14T22:03:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -9,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,6 +45,7 @@ I benchmark fungono da fondamento probatorio della [[ai-education|ricerca sull'I
 - I **[[teaching-feedback-classification-benchmark|benchmark sul feedback didattico]]** valutano il trasferimento cross-linguistico della classificazione della [[ai-feedback-quality|qualità del feedback]].
 - **Il [[cdpk-pedagogy-benchmark-llms|Pedagogy Benchmark (CDPK + SEND)]]** verifica la conoscenza pedagogica — strategie di insegnamento, [[assessment|metodi di valutazione]] e pedagogia dell'[[special-education|educazione speciale]] — anziché la conoscenza dei contenuti, e riporta una "frontiera di valore" costo-precisione su 97 modelli (la maggior parte dei benchmark generali verifica la conoscenza dei contenuti; la pedagogia è una dimensione distinta e cruciale per l'educazione).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** mette a benchmark agenti di [[learning-design|progettazione didattica]] basati su [[llm|LLM]] su 25.795 scenari di progettazione didattica, mostrando che gli agenti ibridi fondati sui classici framework ISD (ADDIE, Dick & Carey, Rapid Prototyping) superano la pura teoria o la pura tecnica — un risultato di benchmark con implicazioni dirette per la progettazione dell'[[agentic-ai|IA agentica]] nell'educazione.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** fonda la valutazione del tutoraggio su letteratura di casi documentata anziché su persone simulate: 923 dialoghi tratti da casi di educazione speciale e di psicologia educativa, in cui il più forte di 11 modelli ha incontrato un intervento documentato nel 55,8% dei casi aperti.
 
 - **L'adattamento a chi apprende come criterio esplicito di benchmark.** Il Teaching Monster Challenge valuta l'adattamento a una persona di apprendimento specificata, ma il suo giudice LLM automatico ha separato solo una coda debole: i sistemi migliori hanno totalizzato vicino al suo tetto massimo e la sua classifica era in disaccordo con la preferenza della folla (Spearman ρ = −0,17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
@@ -71,6 +77,12 @@ I benchmark si collegano alla [[ai-ed-evaluation|valutazione dell'IA in educazio
 
 - **Una regola di punteggio può essere aggirata dal modello che addestra.** Una metrica di adattività massimizzata ripetendo un'unica decisione migliore mostra che la progettazione di un benchmark dovrebbe pubblicare l'argmax, valutare l'adattamento come differenza e riportare baseline sopra il caso ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
+## Idee sbagliate comuni
+
+- **"La posizione in classifica dice quanto è bravo un tutor."** StudentBench **randomizza 2.383 adulti tra tutoraggio IA, tutoraggio umano esperto dal vivo e una condizione video** e valuta rispetto ai tutor umani anziché rispetto ad altri sistemi. Un benchmark tarato su altri modelli risponde a una domanda di cui nessuno aveva bisogno.
+- **"Le persone simulate sono una base adeguata per valutare un tutor."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] fonda la valutazione su **letteratura di casi documentata anziché su persone simulate**, usando **923 dialoghi**. Le persone studente fabbricate lasciano che un sistema superi casi che non si verificano.
+- **"Ci si può fidare dei benchmark senza controllare il giudice."** L'allucinazione è stata valutata come **implicazione rispetto ai frammenti open-license recuperati (κ = 0,76 con il giudizio esperto)** — il giudice è stato validato contro gli esperti prima che i suoi punteggi fossero usati. Un giudice automatico non validato produce numeri di significato ignoto.
+
 ## Concetti collegati
 
 - [[ai-ed-evaluation]]
@@ -82,6 +94,7 @@ I benchmark si collegano alla [[ai-ed-evaluation|valutazione dell'IA in educazio
 - [[automated-essay-scoring]]
 
 ## Articoli collegati
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[standardized-assessment-llm-english-proficiency-2026]] — A 624-item English proficiency benchmark that reports model ability as a calibrated level (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)

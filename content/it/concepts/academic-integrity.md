@@ -1,6 +1,7 @@
 ---
 title: Integrità accademica
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -10,13 +11,17 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -153,7 +158,6 @@ Un'ondata di ricerche recenti affina il quadro dell'integrità accademica nell'e
 - **Studenti fantasma e il divario di verifica dell'IA agentica.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] introducono lo **"studente fantasma"**: un surrogato digitale creato accoppiando LLM (la "mente") con browser di IA agentica (il "corpo") che può navigare l'LMS, interagire con i contenuti e completare le valutazioni con una mimica umana, rendendo opzionale la presenza effettiva di chi apprende. Questo crea un **divario di verifica** che il proctoring e il rilevamento tradizionali sono strutturalmente incapaci di chiudere — una minaccia per l'integrità che cresce man mano che l'IA diventa [[agentic-ai|agentica]] piuttosto che meramente generativa.
 
 Il caso disciplinare più chiaro a favore della riprogettazione rispetto al rilevamento viene dall'insegnamento dell'informatica. Una [[meta-analysis-systematic-review|revisione sistematica]] di 72 studi sull'IA generativa nell'informatica e nell'[[cs-education|educazione alla programmazione]] ([[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot e Nanthaamornphong 2026]]) ha rilevato solo **tre** studi che esaminavano meccanismi di rilevamento dell'IA — la base di evidenze più sottile dei 14 temi che ha consolidato — mentre il riprogettazione di corsi e valutazioni era supportata da 25. La revisione tratta lo squilibrio come diagnostico piuttosto che incidentale: le istituzioni hanno ampiamente aggiornato i documenti di politica senza riprogettare le valutazioni, e la maggior parte dei docenti si colloca a un livello di integrazione di *tolleranza* piuttosto che di *trasformazione*, con il 70% di un campione nazionale di docenti che chiedeva esplicitamente formazione sulla progettazione di valutazioni resistenti all'IA. La risposta raccomandata è concreta: aggiungere una componente orale o un altro elemento visibile nel processo ad almeno una valutazione ad alta posta per corso, e rendere l'impegno critico con l'output dell'IA (lettura, test, modifica, spiegazione, critica) una componente valutata e osservabile del lavoro dello studente, piuttosto che un'aspirazione lasciata alla discrezione dello studente ([[assessment-validity|validità della valutazione]]).
-
 Una revisione PRISMA di 72 studi sulla valutazione nell'istruzione superiore trova tre risposte progettuali che ricorrono in risposta alla GenAI (orientamento al processo, autenticità, e approcci orali e dialogici), inquadrate come stratificazione sui principi esistenti di validità, autenticità e allineamento anziché come loro sostituzione ([[higher-ed-assessments-genai-systematic-review|Crompton e Burke (2026)]]).
 
 - **I riferimenti fabbricati hanno raggiunto la letteratura pubblicata sull'insegnamento dell'informatica.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] hanno tracciato 113.588 riferimenti da 5.225 articoli di informatica educativa dell'ACM Digital Library contro il corpus completo di 723.930 pubblicazioni e 15.872.533 riferimenti, hanno verificato manualmente 828 record sospetti e hanno confermato 30 riferimenti contenenti informazioni bibliografiche verificabilmente fabbricate in 14 articoli, tutti pubblicati nel 2025 o 2026. Al SIGCSE Technical Symposium il conteggio verificato è salito da 3 nel 2025 a 17 nel 2026, presente nel 2,3% degli articoli delle proceedings del 2026, e i riferimenti allucinati sono apparsi in cinque sedi patrocinate o in cooperazione con SIGCSE nel 2025. Il numero è valido solo con il suo contrappeso: la maggior parte dei riferimenti segnalati erano benigni — 229 erano discrepanze di metadati ACM in cui il PDF era corretto e 188 erano varianti bibliografiche valide — quindi la cifra relativa alle sedi è un limite inferiore deliberato. Essa ricade sugli autori, non solo sulla [[peer-assessment|valutazione tra pari]], perché i revisori che controllano gli elenchi di riferimenti non possono verificare ogni voce, e la stesura assistita da [[llm|LLM]] rende economica da produrre una citazione inventata ma plausibile.
@@ -169,6 +173,10 @@ Il primo studio sulla Teoria del Comportamento Pianificato dell'intenzione di sc
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] documentano il regime dall'interno di una facoltà: i docenti che avevano cambiato i formati di valutazione dicevano che era "praticamente impossibile dire se uno studente abbia usato l'IA nella scrittura dei compiti", mentre studenti arrabbiati chiedevano appelli alla coscienza e al "senso di vergogna" anziché al rilevamento.
 
 - **Una migliore sensoristica non cambia ciò che la valutazione può certificare.** Un sistema di proctoring con stima della posa YOLOv11 che riporta un'accuratezza di classificazione del 99,56% illustra il limite della via del rilevamento: misura la postura rispetto a un'etichetta comportamentale, non riporta alcun ground truth sulla cattiva condotta e non offre analisi per sottogruppi ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Il rimedio che Villanueva sostiene è un'evidenza sufficiente di apprendimento nei momenti chiave, non la sorveglianza massima di ogni consegna.
+
+**Il linguaggio dell'integrità nelle politiche internazionali non fissa un significato operativo, e questo è il risultato anziché la lacuna.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] ha analizzato quattro pubblicazioni UNESCO e OCSE dal 2023 al 2026 attraverso l'analisi critica del discorso e ha trovato otto termini ricorrenti — responsabilità, trasparenza, fiducia, agency umana, originalità, autenticità, uso responsabile e potenziamento — che portano peso normativo mentre cambiano referente tra un documento e l'altro. L'UNESCO attribuisce ai fornitori la responsabilità dei valori fondamentali e agli educatori quella dell'interazione pedagogicamente appropriata; l'OCSE ricolloca lo stesso termine nel giudizio professionale degli insegnanti.
+
+L'OCSE (2023) registra che all'inizio del 2024 nessuno dei diciotto paesi indagati aveva una regolamentazione specifica dell'IA generativa per l'educazione e nove avevano delegato la governance al livello scolastico. Letto attraverso la non-performatività di Ahmed, il vocabolario esprime reattività etica senza alcun meccanismo per attuarla, quindi la responsabilità è invocata da ogni attore contemporaneamente e collocata in nessuno. Hashem chiama il risultato un **cheating habitus** mutevole: disposizioni verso la partecipazione legittima ricalibrate sotto indeterminazione cronica, stratificate dal capitale accademico che gli studenti portano con sé, con l'imbroglio e l'essere imbrogliati trattati come condizioni concorrenti anziché alternative. Tutto questo è proposto a partire dal testo delle politiche, non osservato negli studenti.
 
 ## Fraintendimenti comuni
 
@@ -201,6 +209,7 @@ Il primo studio sulla Teoria del Comportamento Pianificato dell'intenzione di sc
 
 ## Articoli collegati
 
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Quattro documenti UNESCO e OCSE letti come discorso: significanti fluttuanti, non-performatività e un cheating habitus in mutamento
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

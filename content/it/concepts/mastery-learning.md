@@ -6,14 +6,19 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-10-14T22:15:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,6 +61,16 @@ Infine, l'evidenza ammonisce dal dare per scontato che il supporto generato dall
 - **Il mastery learning a controllo condiviso è efficiente solo quanto la strategia di selezione dei compiti dello studente.** Uno studio di simulazione (1.000 studenti simulati per esecuzione, parametri AFM e BKT adattati a log reali di MathTutor e DataShop) ha confrontato nove strategie di selezione dei compiti. L'efficienza varia di un ordine di grandezza: la strategia avversa al rischio "Minimize Worst Case Loss" — che sceglie l'abilità la cui perdita di padronanza nel caso peggiore è minore — produce un sovraccarico di pratica di 30,28x nella risoluzione di equazioni (28,93x nell'interpretazione di grafici), contro 1,73 +/- 0,38 in media per le altre strategie. Vincoli di sistema mirati lo correggono chirurgicamente: i vincoli sulla selezione dei compiti riducono il sovraccarico di pratica a 12,88/14,46x, e un bias di selezione dei problemi "Prefer Harder" lo riduce a 1,98x (d di Cohen = 1,86) — mentre le strategie già efficienti non sono influenzate. L'implicazione progettuale: i vincoli dovrebbero essere consapevoli della strategia, proteggendo gli auto-regolatori patologici senza tassare quelli buoni, e una riprogettazione simulation-first evita di esporre gli studenti a un sovraccarico di pratica di 30x per scoprire il fix. ([[noh-simulating-task-selection-2026]])
 
 La valutazione basata su standard è la controparte valutativa del mastery learning, e [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] la identificano tra le cinque pratiche innovative allineate alla "valutazione per l'apprendimento" che gli educatori dell'istruzione superiore potrebbero adottare — ma la trovano praticamente assente dal discorso sull'educazione manageriale. Attribuiscono questo fatto a barriere normative: la valutazione norm-referenziata "curva di voto", la segnalazione esterna (classifiche, tirocini, accreditamento) e la mentalità strumentale degli studenti resistono tutti ad approcci orientati al mastery e privi di voto. La loro raccomandazione è la sperimentazione incrementale — ad esempio, introdurre rubriche basate su standard per un singolo compito prima di scalare — sostenuta da un coordinamento a livello di programma e da evidenza documentata della Scholarship of [[teacher-role|Teaching]] and Learning.
+
+## Idee sbagliate comuni
+
+**"Una soglia di padronanza è una proprietà oggettiva di chi apprende."** La soglia è una proprietà della *regola* usata per aggiornarla. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ha eseguito **quattro regole di aggiornamento su sequenze di eventi identiche** dal dataset ASSISTments, e le regole non concordano su chi sia pronto. La padronanza è quindi una decisione registrata in un numero, non un fatto scoperto su uno studente, e la regola va trattata come una politica dichiarata anziché come un dettaglio implementativo.
+
+**"Se il sistema dice padroneggiato, lo studente è pronto ad avanzare."** Solo rispetto alla regola di aggiornamento in vigore. Dove una regola accredita il lavoro assistito, "padroneggiato" può descrivere uno studente che ha avuto successo con supporto e non in modo indipendente — la stessa divergenza tra prestazione assistita e capacità non assistita che la letteratura sui [[learning-gains|guadagni di apprendimento]] documenta.
+
+**"Il mastery learning è la pedagogia che l'IA rende finalmente possibile."** La sua meccanica precede di molto l'IA — Bloom ha formalizzato il quadro decenni fa — e l'IA lo operazionalizza automatizzando le decisioni di valutazione e di ritmo anziché realizzando un progetto prima impossibile. Questa riformulazione conta perché l'automazione eredita la scelta della regola, e la regola è dove vive il giudizio.
+
+**"Una valutazione più frequente sotto il mastery rende la soglia più affidabile."** La frequenza migliora la stima e non corregge una regola mal specificata. Ricalcolare la padronanza più spesso da eventi che includono lavoro assistito converge più rapidamente sulla stessa risposta sbagliata.
 
 ## Concetti collegati
 

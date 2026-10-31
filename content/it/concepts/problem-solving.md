@@ -1,19 +1,24 @@
 ---
 title: Risoluzione dei problemi
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +66,31 @@ La risoluzione dei problemi è l'esito applicato del [[critical-thinking|pensier
 ### Codifica automatizzata delle abilità CPS
 
 - Misurare la competenza di [[collaborative-learning|risoluzione collaborativa dei problemi (CPS)]] richiede tipicamente di codificare il comportamento a partire da dati di processo di compiti simulati in abilità CPS specifiche. Il [[prompt-engineering|prompting consapevole del contesto]] di modelli linguistici pre-addestrati può automatizzare questa codifica, modellando le dipendenze contestuali e fondendo abilità cognitive e sociali per ottenere prestazioni superiori a robuste baseline sui dataset di compiti CPS — affrontando l'intensità di lavoro della codifica manuale e abilitando una valutazione su larga scala e in tempo reale.
+
+## Idee sbagliate comuni
+
+**«Un'IA che aiuta gli studenti a esplorare prospettive li sta aiutando a pensare.»** Lo stesso comportamento sostiene due esiti molto diversi: gli strumenti di IA aiutano gli studenti a esplorare molteplici prospettive e a generare i propri problemi, e possono anche incoraggiare la pigrizia metacognitiva. La domanda che distingue è se è lo studente a fare l'inquadramento o a riceverlo — un sistema che fornisce prospettive candidate ha già svolto il passo generativo che l'esercizio esisteva per richiedere.
+
+**«La risoluzione dei problemi è l'obiettivo, quindi porre problemi è un extra.»** Porre problemi è dove si costruisce il transfer, perché richiede a chi apprende di costruire la struttura anziché operare dentro una struttura fornita dal sistema. Un curricolo che fornisce sempre e solo problemi ben formati addestra la prestazione su problemi ben formati, che non è la condizione che gli studenti incontrano dopo.
+
+**«Simulare la risoluzione collaborativa dei problemi sostituisce la collaborazione.»** Una simulazione riproduce il pattern di interazione, e l'abilità che si sviluppa è la regolazione di un problema congiunto da parte di partecipanti realmente presenti. Gli agenti specifici per partecipante che modellano collaboratori reali sono uno strumento di ricerca per studiare quella regolazione — utili per ciò che rivelano sul processo, non un modo per dare agli studenti la pratica senza i pari.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Chiedete agli studenti di porre il problema prima di risolverne uno. Porre richiede di costruire la struttura, ed è lì che si costruisce il transfer, ed è anche il passo che l'IA svolge più prontamente al posto loro.
+- Distinguete un partner di pensiero da un sostituto nel compito stesso: richiedete che l'inquadramento, l'approccio e la giustificazione dello studente restino agli atti, così che il documento mostri chi ha fatto il lavoro generativo.
+- Fate attenzione allo studente che esplora molte prospettive con disinvoltura e non produce una posizione propria: è la pigrizia metacognitiva con l'aspetto del coinvolgimento.
+
+**Per gli sviluppatori**
+
+- Progettate per problemi e strutture generati dagli studenti, non solo per suggerimenti migliori su problemi già dati.
+- Strumentate il passo di inquadramento, non solo i passi di soluzione; un sistema che traccia le risposte e non la formulazione dei problemi non può vedere l'esito che conta.
+
+**Per i ricercatori**
+
+- Le simulazioni con agenti specifici per partecipante sono uno strumento forte per studiare la regolazione collaborativa. Riportatele come tali, non come evidenza sulla collaborazione non supervisionata tra studenti.
 
 ## Concetti collegati
 

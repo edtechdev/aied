@@ -2,6 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Mitigazione del bias
 created: "2026-10-14T21:58:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -10,13 +11,17 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +41,10 @@ ai_assist:
 ## Introduzione
 
 La mitigazione del bias conta perché l'[[ai-education|IA nell'educazione]] non è neutrale: sistemi addestrati su dati linguistici e culturali dominanti possono svantaggiare sistematicamente chi apprende in posizione di marginalità, dall'attribuzione di punteggi basata sull'IA che penalizza chi scrive in una lingua non nativa ai tutor [[llm|LLM]] che rispondono in modo diverso a gruppi diversi. Il bias è una preoccupazione trasversale che compare nella [[automated-assessment|valutazione automatica]], nella [[automated-essay-scoring|valutazione automatica dei saggi]], nel [[knowledge-tracing|knowledge tracing]], nei sistemi di raccomandazione e nei tutor di [[conversational-ai|IA conversazionale]].
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] mostrano che la mitigazione del bias può essere insegnata anziché soltanto ingegnerizzata: i giovani sollecitati a interrogare gli output di un modello text-to-image producevano valutazioni sistematiche della rappresentazione, e le loro richieste di immagini di persone pendevano verso il bianco prima dell'intervento.
+
+L'equità è la dimensione meno esaminata nella letteratura sul punteggio IA contro umano: dei dodici studi passati in rassegna, dieci tacevano su bias demografico, linguistico o sociale, e il genere era l'unica dimensione testata ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu e Abdi, 2026]]).
 
 ## Fonti di bias
 
@@ -90,6 +99,12 @@ La mitigazione del bias è il meccanismo tecnico attraverso cui [[equity-in-ai-e
 - **Separare la comprensione dalla lingua nell'attribuzione dei punteggi:** l'attribuzione automatica dei punteggi non deve penalizzare chi scrive in una lingua non nativa o con minore fluidità per la comprensione concettuale che dimostra.
 - **Rendere i sistemi spiegabili:** la trasparenza sulle decisioni dell'IA è essenziale per individuare e correggere il bias.
 - **Combinare mitigazione tecnica e umana:** abbinare gli algoritmi di debiasing alla supervisione human-in-the-loop, specialmente per i casi ad alta posta in gioco o a bassa confidenza.
+
+## Idee sbagliate comuni
+
+- **"Il bias è un problema di punteggio e di feedback."** Il bias entra in **classi di compito al di fuori del punteggio**: tre LLM che assegnavano classi di **28 studenti di ingegneria del software a quattro team** indirizzavano gli uomini almeno l'80% **meno spesso** della distribuzione di riferimento. La formazione dei team portava bias di magnitudine comparabile alla valutazione.
+- **"Fornire la competenza rilevante elimina il bias."** Fornire la competenza **lo riduceva ma non lo eliminava**: il **99,2% delle assegnazioni basate sulla competenza corrispondeva a uno di due team di riferimento, eppure il genere decideva ancora tra opzioni ugualmente valide (OR 2,53)**. Una corrispondenza quasi perfetta sul compito coesisteva con un effetto di genere, quindi l'accuratezza sul criterio primario non è prova di equità.
+- **"Un solo approccio di mitigazione è sufficiente."** La ricerca illustra **strategie complementari** — tra cui la modellazione sensibile all'equità — perché il bias che entra nella formazione dei team non è affrontato da una correzione rivolta al testo dell'output.
 
 ## Concetti collegati
 - [[differential-effects-across-learner-groups]]

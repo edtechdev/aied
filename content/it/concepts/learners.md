@@ -1,6 +1,7 @@
 ---
 title: "Studenti"
 created: "2026-10-14T22:20:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -11,13 +12,17 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -77,6 +82,34 @@ Poiché i benefici seguono il vantaggio pregresso, il lavoro sul lato studentesc
 ## Dove si colloca questa pagina
 
 Da leggere con [[stakeholders]] per le persone intorno allo studente, e con [[pedagogy]] e [[learning-design]] per ciò che i docenti fanno di questi risultati. L'[[assessment|valutazione]] determina quali capacità dello studente siano mai rese visibili; [[limitations-in-aied-research]] spiega perché tanta parte dell'evidenza sul lato studentesco sia a breve termine, auto-riportata e condotta su campioni di comodo; e [[misconceptions]] è il punto di ingresso abituale per gli studenti stessi.
+
+## Idee sbagliate comuni
+
+**"Studenti e discenti sono la stessa popolazione."** Non sono intercambiabili in modo utile: *studenti* nomina un ruolo istituzionale, *discenti* nomina un'attività, e una persona può essere l'una senza essere l'altra — un dipendente in [[professional-training|formazione in azienda]] è un discente ma non uno studente. Confonderli restringe la base di evidenza a chi ha un'iscrizione registrata e scarta silenziosamente proprio gli adulti, i professionisti e i discenti autodiretti di cui si occupa la ricerca sull'[[lifelong-learning|apprendimento permanente]].
+
+**"Gli studenti riferiscono che l'IA migliora la loro comprensione, quindi fa risparmiare loro tempo."** Le due affermazioni si separano nei dati d'indagine. Nel lavoro sulla produttività dello studio, il **92,3%** ha detto che l'IA migliorava la propria comprensione, mentre solo il **38,5%** ha detto che riduceva il tempo di studio complessivo. Il numero di apertura descrive la comprensione percepita; il divario sotto di esso mostra che comprensione migliorata e tempo recuperato sono esiti diversi, e l'affermazione largamente ripetuta "l'IA fa risparmiare tempo" è portata dalla cifra più piccola.
+
+**"Gli studenti che usano l'IA per scorciatoie commettono una colpa morale."** La knowledge base tratta l'attrazione del minimo sforzo come un problema di progettazione e di politica anziché di carattere — gli studenti la descrivono con parole proprie, e la letteratura su [[reducing-ai-misuse|uso improprio]] e [[academic-integrity|integrità]] colloca la leva nel design del compito e dell'ambiente. Inquadrarla moralmente non spiega nulla del perché lo stesso studente si comporti diversamente in due corsi.
+
+**"Quando viene fatta un'accusa di scorrettezza, l'evidenza c'è."** L'analisi dei fascicoli di 1.162 accuse di GenAI mostra che cosa affrontano davvero gli studenti quando arriva la risposta istituzionale, e il lato studentesco della procedura per scorrettezza è molto più sottile nella letteratura del lato studentesco dell'uso. Una pagina sugli studenti che documenta solo il loro uso e non la loro esposizione all'accusa ha documentato metà dell'esperienza.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Chiedi che cosa fanno i discenti, non solo che cosa riportano di sentire. Comprensione sentita (92,3%) e tempo recuperato (38,5%) divergono abbastanza che agire su una assumendo l'altra fuorvierebbe il progetto del corso.
+- Progetta contro l'attrazione del minimo sforzo in modo strutturale anziché affidarti alla virtù del discente, poiché l'attrazione è documentata come risposta normale al design del compito.
+- Informa i discenti sul processo che affronteranno se accusati, perché l'evidenza sulla procedura mostra che la risposta istituzionale è dove spesso cade il danno.
+
+**Per gli sviluppatori**
+
+- Non pubblicizzare risparmi di tempo che i discenti stessi non riportano. Fornisci metriche sia per la comprensione sia per il tempo, e tienile etichettate separatamente.
+- Progetta per il discente non studente: gli utenti in formazione professionale e autodiretti non hanno il contesto di iscrizione che i tuoi default possono presupporre.
+
+**Per i ricercatori**
+
+- Mantieni esplicita la distinzione discente/studente nel campionamento, e riporta chi ne è escluso.
+- Studia l'accusato oltre all'utente; il lato procedurale è la metà sottile di questa letteratura.
 
 ## Concetti collegati
 

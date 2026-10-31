@@ -1,6 +1,7 @@
 ---
 title: Incrementi di apprendimento
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T07:30:00-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -17,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -67,6 +72,7 @@ Attraverso gli [[rct|RCT]], le [[meta-analysis-systematic-review|meta-analisi]] 
 
 **Conclusione:** il peso dell'evidenza supporta **incrementi di apprendimento modesti, condizionati e dipendenti dal progetto** derivanti dall'IA — reali quando l'IA è strutturata per fare da allenatore anziché da fonte di risposte, quando è dotata di barriere di sicurezza ed è abbinata a misure di esito non assistite, e assenti o negativi quando sostituisce lo sforzo proprio di chi apprende. Questo è il motivo per cui gli incrementi di apprendimento, in quanto esito, devono essere misurati con strumenti validi e resistenti all'IA e per cui [[ai-ed-evaluation]] abbina le affermazioni di efficacia a un esame [[research-methods-aied|metodologico]].
 
+- **Nell'IA mediata dall'insegnante, la preparazione ha spostato gli incrementi e lo strumento no.** In 19 classi di matematica di scuole pubbliche brasiliane, gli studenti delle classi tenute da docenti formati hanno superato il gruppo di controllo, ma l'aggiunta del sistema AIED-U a quella formazione non ha prodotto alcun ulteriore incremento di apprendimento, e il carico di lavoro dei docenti era associato negativamente agli incrementi ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 - **Il tutoring con IA può eguagliare il tutoring umano esperto negli incrementi ai test standardizzati.** In una valutazione con 2.383 partecipanti, il tutoring con IA aggregato era statisticamente equivalente al tutoring umano esperto negli incrementi di apprendimento al GRE (p = 0,015), con entrambi al di sopra di un controllo senza tutoring; gli autori propongono il costo per punto percentuale di incremento come unità di confronto tra tutor ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
 ### Una mappa a livello di campo degli effetti dell'IA su apprendimento e rendimento
@@ -120,6 +126,36 @@ I numeri sugli incrementi di apprendimento che dominano la sintesi di efficacia 
 Gli incrementi di apprendimento si collegano alla [[assessment-validity]] — se le [[assessment|valutazioni]] non riescono a catturare la comprensione più profonda, le misure degli incrementi di apprendimento risultano fuorvianti. Si intersecano inoltre con l'[[cognitive-offloading|iperaffidamento]] e con il [[cognitive-offloading]], laddove i miglioramenti apparenti della performance possono mascherare perdite di apprendimento, e con gli [[rct]] (trial randomizzati come disegno gold standard per individuare incrementi di apprendimento causali), e con le [[meta-analysis-systematic-review|meta-analisi]] (aggregazione delle dimensioni d'effetto tra studi per stabilire l'evidenza di efficacia del campo).
 
 - **Incrementi pre/post significativi da una [[pedagogy|pedagogia]] basata sugli errori dell'IA:** il corso di progettazione di database di [[pedagogy-ai-mistakes|Hosseini (2026)]] (n=13) ha mostrato incrementi di apprendimento ampi e significativi su item pre/post identici (media 4,25→6,83/7, *d* di Cohen = 1,49, *p* < 0,001), con incrementi non correlati alla fiducia pregressa nell'IA o nei database — il disegno integrato con l'IA di critica e raffinamento ha avvantaggiato gli studenti a prescindere dalle percezioni iniziali.
+
+## Idee sbagliate comuni
+
+**«I punteggi sono saliti, quindi l'intervento ha prodotto apprendimento.»** È l'errore definitorio che questa pagina esiste per prevenire, e i dati sul campo mostrano entrambe le direzioni contemporaneamente: l'uso dell'IA migliora i punteggi nei compiti assistiti dall'IA mentre *abbassa* i punteggi su misure sorvegliate, a libro chiuso e non assistite ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). La scelta della misura determina se l'inflazione è visibile, perciò un incremento in un compito in cui l'IA è consentita è un'affermazione sulla performance nel compito, non sull'[[genai-performance-vs-learning|apprendimento]].
+
+**«La meta-analisi lo chiarisce: l'effetto è grande.»** La direzione dell'aggregazione e la sua ampiezza sono fatti diversi, e l'ampiezza raramente sopravvive allo scrutinio. [[genai-meta-analysis-programming-learning|La meta-analisi sull'IA generativa nella programmazione]] trova grandi incrementi di *produttività* accanto a **nessun incremento di apprendimento significativo** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|La meta-analisi della Banca Mondiale]], che aggrega 191 dimensioni dell'effetto da 14 RCT, stima circa 0,125 DS per l'EdTech adattiva e abilitata dall'IA — rispettabile rispetto all'RCT educativo mediano, ma **senza alcun vantaggio dell'IA generativa rispetto agli strumenti adattivi precedenti**. Citare gli studi dell'era GPT come un salto di categoria sovrastima ciò che l'evidenza aggregata mostra.
+
+**«Più pratica e più personalizzazione aiutano sempre.»** Gli incrementi sono interazioni contenuto-trattamento, non costanti. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] mostrano che il rapporto ottimale tra esempi e problemi dipende da ciò che si sta imparando: la pratica di recupero vince per i fatti verbatim, la pratica integrata con esempi vince per le abilità generalizzabili. E [[lak2026-hint-button-unproductive-use|la ricerca sui pulsanti di suggerimento]] trova che il volume dei suggerimenti è associato negativamente all'apprendimento. Lo stesso «supporto» che aiuta una componente di conoscenza può sprecarne un'altra.
+
+**«Un risultato a un post-test differito è automaticamente un risultato di apprendimento durevole.»** Il differimento è necessario e non sufficiente. Ciò che distingue l'apprendimento durevole in questo corpus è la misurazione *non assistita* in condizioni differite, insieme all'evidenza che l'effetto non è portato dallo scaffolding che sarà assente al trasferimento.
+
+## Implicazioni per la pratica
+
+**Per gli insegnanti**
+
+- Separa il voto che dai dall'affermazione che fai. I compiti assistiti dall'IA possono valutare equamente la qualità del prodotto senza dirti nulla sulla capacità non assistita; se ti serve la seconda, devi misurarla separatamente.
+- Abbina il formato della pratica al tipo di conoscenza. Usa il recupero per i fatti e l'alternanza con esempi svolti per le procedure trasferibili, anziché un unico default per entrambi.
+- Osserva il volume dei suggerimenti come diagnostica, non solo come supporto. Un uso crescente dei suggerimenti con una performance non assistita piatta è la firma di una dipendenza dall'aspetto produttivo.
+
+**Per gli sviluppatori**
+
+- Riporta la produttività e gli esiti di apprendimento come metriche distinte, poiché il corpus trova ripetutamente la prima senza riuscire a trovare i secondi (g ≈ 0 nella meta-analisi sulla programmazione). Una dashboard che le confonde sarà letta come prova di apprendimento.
+- Non dare per scontato che il tuo sistema generalizzi tra componenti di conoscenza. Il risultato sul rapporto esempi-problemi implica che la sequenza ottimale è una proprietà del contenuto, non della piattaforma.
+- Rendi visibile agli insegnanti l'uso dei suggerimenti e dello scaffolding, perché il volume è uno dei pochi segnali comportamentali empiricamente legati a esiti più deboli.
+
+**Per i ricercatori**
+
+- Pre-registra la misura di esito e dichiara se è consentita l'IA o non assistita. La direzione del risultato può capovolgersi solo per questa scelta.
+- Riporta le dimensioni dell'effetto rispetto a un confronto nominato, non rispetto a «approcci tradizionali» in astratto. Il risultato della Banca Mondiale è interpretabile solo perché nomina la propria classe di confronto.
+- Distingui esplicitamente l'inflazione della performance dallo spostamento dell'apprendimento, poiché i due implicano rimedi diversi — riprogettazione del compito contro re-insegnamento.
 
 ## Concetti collegati
 
@@ -182,3 +218,4 @@ Gli incrementi di apprendimento si collegano alla [[assessment-validity]] — se
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — A STEM synthesis that controlled dependent effect sizes and tested publication bias, but applied no quality appraisal (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Second-order meta-analysis of 45 AI-in-education meta-analyses, with overlap-corrected effects and a quality appraisal of the synthesis layer (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[rodrigues-aied-unplugged-numeracy-2026]] — Nell'IA mediata dall'insegnante, la preparazione ha spostato gli incrementi, non lo strumento

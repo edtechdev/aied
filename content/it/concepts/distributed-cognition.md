@@ -1,18 +1,23 @@
 ---
 title: Cognizione distribuita
 created: "2026-10-14T22:02:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +42,7 @@ Questo è un concetto di teoria dell'apprendimento all'interno del filone [[lear
 I sistemi di IA generativa e interattiva ridistribuiscono il lavoro cognitivo in modi in cui strumenti precedenti non lo facevano. La base di conoscenza documenta diverse dimensioni di questo spostamento:
 
 - **L'IA come partner cognitivo e co-regolatore.** L'IA può agire come [[scaffolding|impalcatura]], supporto metacognitivo, sistema di memoria esterna e partner nelle decisioni nella co-[[regulation]] del pensiero e dell'apprendimento.([[ai-cognitive-partner-co-regulation-learning]]) Questo posiziona la cognizione come co-regolata tra discente e sistema anziché gestita individualmente.
+- **Il volume dell'uso dell'IA non rivela quale forma di lavoro distribuito stia avvenendo:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] hanno trovato che i profili basati sul volume di 97 discenti differivano per conoscenza pregressa e paternità ma non per prompting con ruolo attivo o a livello di comprensione, quindi attività condivisa e divisione del lavoro possono accompagnare la stessa quantità di uso.
 - **Ridistribuzione di agenzia e responsabilità.** Framework come la **cognizione d'insieme** riconcettualizzano il pensiero come emergente dalla dinamica interazione umano–[[student-ai-interaction|IA]], distinguendo l'*agenzia funzionale* dell'IA (la sua capacità di influenzare gli esiti senza coscienza) dalla *responsabilità morale* (che resta umana).([[ensemble-cognition-philosophy-ai-education]]) La cognizione distribuita riformula così chi è responsabile dell'apprendimento.
 - **La tensione efficienza–regolazione.** Il lavoro empirico mostra un trade-off: i sistemi umano–IA che distribuiscono il ragionamento nel modo più efficiente (per esempio tramite ragionamento delegato) raggiungono una performance di compito più alta ma possono ridurre il [[student-engagement|coinvolgimento]] auto-regolato dei discenti.([[hao-human-ai-collaborative-problem-solving-cognition]]) Questo è il volto empirico dei rischi di [[cognitive-offloading]] e di [[cognitive-offloading|sovraffidamento]] che la base di conoscenza documenta.
 - **La mediazione nella collaborazione.** L'IA può agire come *[[pedagogy|mediatore]] pedagogico* che orchestra l'interazione, la costruzione di senso epistemico e i processi regolatori nell'[[collaborative-learning|apprendimento collaborativo]], ridistribuendo agenzia, autorità e responsabilità tra attori umani e non umani.([[niari-ai-pedagogical-mediator-collaborative-learning]])
@@ -60,6 +66,12 @@ La cognizione distribuita fornisce sia una lente di design sia una lente di valu
 Fowlin et al. (2026) operazionalizzano quella ripartizione come una sequenza a due fasi: costruire prima le competenze fondamentali senza IA, poi introdurre l'IA come partner cognitivo i cui suggerimenti gli studenti valutano criticamente, per prevenire la dequalificazione legata all'automazione ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Padronanza interiorizzata contro padronanza distribuita.** Il framework Cognitive Commons ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distingue la Padronanza Interiorizzata (conoscenza profonda del dominio nelle menti individuali) dalla Padronanza Distribuita (orchestrare sistemi umano–IA) e sostiene che la seconda dipende dalla prima attraverso un "Validation Tether": la supervisione efficace di sistemi distribuiti/di IA presuppone l'esperienza interiorizzata che quegli stessi sistemi possono minare. Questo acuisce la domanda di design della DCog — la distribuzione della cognizione non deve avvenire al costo dell'esperienza che la valida.
+
+## Idee sbagliate comuni
+
+- **"Un documento condiviso significa cognizione condivisa."** I profili basati sul volume di **97 discenti** differivano per **conoscenza pregressa e paternità** ma **non per prompting con ruolo attivo o a livello di comprensione**. Il volume della partecipazione misurava l'esposizione, non la distribuzione del lavoro cognitivo — quindi le analitiche d'uso di uno strumento collaborativo dicono poco su chi stesse pensando.
+- **"Tutti fanno offloading verso l'IA allo stesso modo."** Gli insegnanti novizi **delegano una grande quota del carico cognitivo della progettazione didattica al sistema di IA**, arrivando a una **distribuzione dominata dall'IA** in cui accettano largamente le risposte, mentre gli insegnanti esperti e competenti nell'IA distribuiscono diversamente. L'esperienza si vede in dove viene collocato il carico, non solo in quanta IA si usa.
+- **"Più coinvolgimento dell'IA significa più supporto."** Una distribuzione dominata dall'IA è il pattern da tenere d'occhio, perché la quota umana del lavoro cognitivo si restringe mentre il volume di output cresce. Il sistema può sembrare più capace proprio mentre l'utente fa di meno.
 
 ## Concetti collegati
 

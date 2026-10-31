@@ -1,17 +1,22 @@
 ---
 title: "Analisi del profilo latente"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -83,6 +88,12 @@ Quattro cautele, ciascuna enunciata nelle pagine fonte:
 2. **Preferite metodi centrati sulla persona quando il prodotto è la differenziazione.** Gli studi su insegnanti in formazione e sui dirigenti presentano entrambi quel passaggio come il loro contributo metodologico, perché predittori medi non possono rivelare le configurazioni che giustificano un supporto differenziato.
 3. **Riportate per intero l'evidenza sulla ritenzione.** Pubblicate i confronti BIC/AIC, l'entropia, le numerosità dei profili e un controllo di stabilità, e dite apertamente quando un numero di classi è esplorativo.
 4. **Trattate i profili come diagnostici, non come etichette.** Un profilo è un costrutto di ricerca con un confine stimato, quindi uno strumento che assegna individui a categorie nominate porta con sé la cautela di qualsiasi strumento di [[educational-measurement|misurazione]] — e gli [[differential-effects-across-learner-groups|effetti differenziali tra gruppi di studenti]] meritano lo scrutinio riservato a qualsiasi analisi di sottogruppo.
+
+## Idee sbagliate comuni
+
+- **"L'analisi del profilo latente scopre gruppi che esistono."** La LPA converte la diversità degli apprendenti da rivendicazione retorica in risultato misurabile, e i profili sono un **modello di un continuum diviso a confini scelti**, non generi naturali. Il numero dei profili è una decisione analitica.
+- **"Qualsiasi membro della famiglia delle variabili latenti va bene."** Quale usare **dipende dagli indicatori**: **LCA per indicatori categorici**, LPA per quelli continui. Scegliere prima il metodo e poi gli indicatori rende il risultato un artefatto della scelta.
+- **"I profili sono confrontabili tra studi."** Chen e colleghi hanno profilato **128 insegnanti taiwanesi in formazione** su cinque costrutti [[technology-acceptance-model|TAM]]/UTAUT2, mentre Acquah e colleghi hanno profilato **509 studenti universitari ghanesi**. Indicatori diversi in popolazioni diverse non producono etichette di profilo commensurabili.
 
 ## Concetti collegati
 

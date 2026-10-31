@@ -1,6 +1,7 @@
 ---
 title: Genitori e famiglie
 created: "2026-10-14T21:59:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -10,13 +11,17 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -82,6 +87,16 @@ Ciò che manca è più cospicuo. I resoconti dei genitori stessi sono rari: gli 
 Una rassegna di scoping del 2026 mappa fin dove il campo è arrivato. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] hanno analizzato 53 studi HCI su 6.540 record provenienti da 19 sedi attraverso la teoria dell'attività, e hanno trovato la letteratura incentrata sull'interazione figlio–genitore e sul linguaggio, sull'[[ai-literacy|alfabetizzazione all'IA]] e sull'apprendimento relazionale, con 44 dei 53 studi (83%) ambientati in configurazioni figlio–genitore. I sistemi conversazionali, incarnati e spaziali generano supporto dal contesto di un'interazione che si dispiega, e gli LLM ridistribuiscono il lavoro educativo mentre famiglie e istituzioni restano responsabili dell'interpretazione degli output e della decisione su come entrino nella pratica. La [[personalized-learning|personalizzazione]] sostenuta, il lavoro di riparazione, e il modo in cui le famiglie negoziano autorità e regole sono i vuoti che la rassegna nomina, che è la stessa assenza che questa sezione documenta dall'altra direzione.
 
 **Relazione con altre pagine.** [[stakeholders|Gli stakeholder]] sono la panoramica breve dell'intero insieme di portatori di interesse, con le famiglie elencate come un pubblico non ancora trattato in profondità; questa pagina è quella profondità. [[early-childhood-elementary-ai-education|La prima infanzia e l'istruzione elementare]] copre il dominio evolutivo e [[pedagogy|pedagogico]] per chi apprende in giovane età tra scuola e casa; questa pagina segue la famiglia lungo le età, dalle attività ludiche prescolari ai compiti della secondaria. [[ai-use-disclosure|La dichiarazione d'uso dell'IA]] copre se chi apprende dice agli altri di aver usato l'IA; questa pagina copre la questione adiacente di se quell'informazione raggiunga gli adulti in famiglia, e di cosa venga detto alle famiglie sull'uso scolastico dell'IA.
+
+## Idee sbagliate comuni
+
+**«Le famiglie aderiranno se l'offerta viene fatta.»** L'adesione crolla lungo i passaggi di consegne. Nell'Anno 1 del programma citato qui, solo circa il **45% degli studenti segnalati dagli insegnanti ha partecipato anche a una sola sessione**, con le famiglie perse a ogni passaggio — invito, interesse, creazione dell'account su una [[edtech-platform|piattaforma di terze parti]], abbinamento. Ogni passaggio di consegne è un punto in cui si perde una famiglia, quindi un'offerta consegnata vale molto meno di un'offerta fatta.
+
+**«Il coordinamento famiglia–scuola intorno alla GenAI è una pratica consolidata.»** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] lo trattano come un'**ipotesi non verificata** anziché come una pratica consolidata. I programmi vengono progettati su un'assunzione che la letteratura non ha ancora testato, il che vale la pena sapere prima di adottarne uno come basato sulle evidenze.
+
+**«I genitori se ne accorgeranno se l'IA danneggia l'apprendimento di loro figlio.»** Sono i meno posizionati per accorgersene. Nei dati di [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei e Wu (2026)]] i punteggi dei compiti a casa sono saliti del **18%** mentre i punteggi degli [[summative-assessment|esami a libro chiuso]] sono calati del **20%** in sei mesi — e il numero che sale è quello visibile a casa. Un genitore che guarda i compiti vede un miglioramento mentre l'esito durevole peggiora.
+
+**«L'uso domestico dell'IA è una questione di permesso dei genitori.»** È una questione di alfabetizzazione e di advocacy. L'alfabetizzazione all'IA dei genitori stessi determina che cosa possono interrogare di uno strumento fornito dalla scuola, e le disuguaglianze di accesso tra famiglie plasmano quali bambini ricevano affatto una mediazione adulta.
 
 ## Concetti collegati
 

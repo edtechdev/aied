@@ -1,6 +1,7 @@
 ---
 title: Lavoro di gruppo
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -11,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: "concepts/group-work"
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -102,6 +107,16 @@ Una seconda linea di ricerca tratta l'IA come partecipante piuttosto che come st
 - **Preferisci un partner argomentativo a un distributore di risposte.** Struttura l'IA per portare alla superficie il disaccordo anziché appianarlo, così che il lavoro di gruppo preservi il conflitto cognitivo che costruisce comprensione.
 - **Accogli gli studenti [[neurodiversity|neurodivergenti]].** Compiti strutturati, squadre piccole e stabili e definizioni esplicite dei ruoli sono requisiti che gli strumenti di collaborazione con l'IA devono supportare.
 - **Leggi attentamente la moderazione.** Gli studenti che evitano l'IA nei gruppi possono stare esercitando un'autoregolazione normativa — o proteggersi dal rischio e dall'ignoto. I due casi richiedono risposte diverse da parte dell'[[teacher-role|insegnante]].
+
+## Idee sbagliate comuni
+
+**"L'IA è un'aggiunta neutrale al flusso di lavoro di un gruppo."** Ristruttura dove va l'interazione del gruppo. Nello studio citato qui, la dinamica di gruppo spostava l'interazione lontano dagli umani — **il 79,7% delle domande era rivolto agli agenti (*p* = ,017)** — mentre i partecipanti riferivano un compromesso tra ampiezza e profondità in un formato a turni impilati in cui ciascun parlante prendeva la parola. Una squadra che indirizza quasi quattro domande su cinque a una macchina non si sta più esercitando nell'interrogazione tra pari che il lavoro di gruppo esiste per sviluppare.
+
+**"Un output di gruppo rifinito è prova di buona collaborazione."** L'output rifinito è il rischio epistemico, non la rassicurazione. Un gruppo può produrre un artefatto eccellente mentre la regolazione del lavoro — chi ha deciso cosa, come si è risolto il disaccordo, il cui ragionamento è stato messo alla prova — è avvenuta dentro la risposta del modello e non ha lasciato traccia nel deliverable.
+
+**"L'IA aiuta soprattutto quando coordina il gruppo."** Il supporto al coordinamento e il supporto epistemico tirano in direzioni opposte. Ridurre il costo di coordinamento della collaborazione può abbassare la pressione sul gruppo a negoziare il significato, che è il processo oggetto di valutazione. Il compromesso efficienza–regolazione è la tensione progettuale centrale, non un dettaglio implementativo.
+
+**"Il lavoro di gruppo è difficile per colpa delle persone."** Una parte dipende dalla progettazione del compito, ed è per questo che l'IA cambia il profilo di difficoltà anziché limitarsi ad attenuarlo: uno strumento che risponde velocemente alle domande cambia ciò su cui il gruppo spende il tempo, e se questo sia un miglioramento dipende da quali abilità il compito era costruito per sviluppare.
 
 ## Concetti collegati
 

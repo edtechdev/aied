@@ -1,18 +1,23 @@
 ---
 title: Apprendimento adattivo
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -62,6 +67,7 @@ L'apprendimento adattivo è spesso confuso con l'[[personalized-learning|apprend
 ### Evidenze di ricerca
 
 - **Evidenze [[meta-analysis-systematic-review|meta-analitiche]] su strumenti adattivi + IA.** [[burneo-can-edtech-close-learning-gaps-2026|Una meta-analisi della Banca Mondiale]] su 14 [[rct|RCT]] mette in comune apprendimento assistito dal computer adattivo, intelligent tutoring e IA generativa su una scala comune, stimando un guadagno medio di apprendimento di ~0,125 sd senza differenze significative tra le due generazioni tecnologiche — evidenza che è il meccanismo di adattamento, non la generazione specifica dello strumento, a determinare i guadagni.
+- **Valutazione interpretabile più instradamento con budget di tempo.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] mantengono pochi scalari espliciti del discente — sensibilità alla valutazione, qualità della risposta e momentum — e instradano le domande entro un budget di tempo, dimezzando circa la volatilità degli aggiornamenti di valutazione rispetto all'Elo fisso e restando indietro rispetto al knowledge tracing neurale nella previsione (AUC 0,7532 contro 0,8658 di GKT).
 - **Algoritmi adattivi confrontati in domini dinamici.** La [[graph-its-adaptive-algorithms-2026|ricerca sugli ITS basati su grafi]] confronta molteplici algoritmi di apprendimento adattivo (inclusa la propagazione bayesiana della conoscenza e la logica fuzzy intuizionistica) in un framework di rappresentazione della conoscenza basato su grafi per curricoli dinamici.
 
 - **Il reinforcement learning come meccanismo di adattamento, mappato empiricamente.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025)]] sintetizzano 89 studi sul RL in educazione e rilevano che l'adattamento si divide in meccanismi relativi ai contenuti (sequenziamento didattico/pianificazione dei contenuti, n = 53) e relativi alla guida (suggerimenti, [[feedback]], selezione delle attività, n = 36) — con il RL che mostra superiorità statisticamente significativa sui baseline più spesso per l'adattamento relativo alla guida che per la pianificazione dei contenuti. Raccomandano il RL model-free per l'apprendimento adattivo e avvertono che il RL classico ha superato il Deep RL negli studi esaminati.
@@ -85,6 +91,29 @@ L'apprendimento adattivo è spesso confuso con l'[[personalized-learning|apprend
 
 - **Adattamento a partire da sequenze di processo, non da punteggi aggregati.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] hanno derivato regole di scaffolding analizzando l'*ordine* dei turni di dialogo di 65 studenti in triadi, spostando l'apprendimento adattivo da misure comportamentali o di prestazione aggregate verso sequenze di processo individuali; lo scaffolding massimale aumentava il comportamento on-task ma anche la rigidità degli script, e il design è non testato.
 
+## Idee sbagliate comuni
+
+- **"Adattivo significa personalizzato significa individualizzato."** [[khalifeh-redefining-personalized-learning-ai-2026|Le revisioni sistematiche]] rilevano che questi quattro termini sono usati **in modo incoerente nella letteratura**, il che significa che le dimensioni dell'effetto riportate dipendono fortemente da come è stato operazionalizzato l'adattamento piuttosto che dall'adattamento in sé. Una meta-analisi che mette in comune studi che usavano le parole in modo diverso mette in comune trattamenti diversi, e la media non descrive nessuno di essi.
+- **"La padronanza raggiunta nel sistema è padronanza appresa."** In un **esperimento sul campo con 6.000 studenti della scuola media**, una regola di padronanza supportata dall'IA basata su tre risposte corrette consecutive ha aumentato il **raggiungimento definito dalla piattaforma di circa 28,7 punti percentuali senza migliorare** una misura di transfer. La regola ottimizzava il criterio proprio della piattaforma. È la dimostrazione più chiara disponibile che un segnale di padronanza è un modello dell'apprendimento, non l'apprendimento.
+- **"L'adattività basata sulla correttezza sa quando fermarsi."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] hanno rilevato che i sistemi che inferiscono la padronanza dalla correttezza rischiano di **terminare la pratica troppo presto**: il sistema legge una serie corretta come comprensione e ritira la pratica di cui il discente aveva ancora bisogno. Un'adattività che si ferma sul successo può sottrarre esattamente le prove che producono ritenzione.
+- **"Il collo di bottiglia è quanto è buona l'adattività."** In un **RCT distrettuale di due anni**, il vincolo stringente era l'**adozione**: ridurre l'iscrizione a un solo passaggio ha portato l'adozione alla prima sessione da circa **45% a 83%** sulla base delle sole modifiche progettuali, e i guadagni in intent-to-treat sono cresciuti di conseguenza. L'adattamento più ingegnoso non serve nessuno che non vi arrivi mai.
+- **"L'engagement persiste una volta stabilito."** Una revisione allineata a PRISMA su **44 studi** ha rilevato che la letteratura sull'engagement è sbilanciata verso l'engagement comportamentale e più carente su quello agentico, e riporta un **effetto novità**: l'engagement che diminuisce nel tempo negli studi longitudinali su ALEX e sistemi simili. L'engagement iniziale non è una proprietà stabile del progetto.
+
+## Implicazioni per la pratica
+
+**Per docenti e progettisti**
+
+- Definisca la padronanza in base a ciò che deve essere vero, non a ciò che la piattaforma può vedere. Il guadagno di 28,7 punti nel raggiungimento senza alcun miglioramento nel transfer è la modalità di fallimento contro cui progettare: se il criterio sono tre risposte di fila, tre risposte di fila è ciò che otterrà.
+- Prosegua la pratica oltre il segnale di correttezza per tutto ciò che deve essere ritenuto. Usi il ripasso [[desirable-difficulties|distanziato e intervallato]] anziché fidarsi di un sistema adattivo per decidere quando un discente ha finito.
+- Rimuova l'attrito nell'iscrizione prima di ottimizzare l'algoritmo. L'adozione passata dal 45% all'83% eliminando un passaggio ha superato la maggior parte dei miglioramenti pedagogici di questa letteratura.
+- Preveda il decadimento dell'engagement. Il lavoro longitudinale ne documenta il calo; un progetto che dipende da un uso volontario sostenuto ha bisogno di una ragione per continuare a essere usato.
+- Verifichi su quale costrutto un sistema dichiara di adattarsi. L'engagement comportamentale è il più studiato e il meno informativo sull'apprendimento; l'engagement agentico è il più carente nella base di evidenze.
+
+**Per gli sviluppatori**
+
+- Riporti la definizione operativa di "adattivo" accanto a ogni dimensione dell'effetto che cita, perché le definizioni della letteratura divergono e i numeri aggregati ne ereditano l'ambiguità.
+- Distingua il proprio criterio di padronanza dagli esiti di apprendimento nella propria validazione. Se la misura di validazione è lo stesso segnale che guida l'adattamento, non è un'evidenza indipendente.
+
 ## Concetti collegati
 
 - [[online-teaching-and-learning]] — Insegnamento e apprendimento online
@@ -104,6 +133,7 @@ L'apprendimento adattivo è spesso confuso con l'[[personalized-learning|apprend
 - [[recommender-systems-and-learning-paths]]
 
 ## Articoli collegati
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: un sistema di valutazione adattiva consapevole del momentum per la valutazione personalizzata
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
@@ -115,7 +145,7 @@ L'apprendimento adattivo è spesso confuso con l'[[personalized-learning|apprend
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[chudziak-ai-math-tutoring-platform]] — Adaptive/personalized multi-agent math tutoring (Chudziak & Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[deeptutor]]
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]

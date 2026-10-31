@@ -1,6 +1,7 @@
 ---
 title: Sostegno e successo degli studenti
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -23,8 +24,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -91,6 +96,16 @@ La durevolezza in questa letteratura è una proprietà organizzativa, non tecnic
 ## Connessioni con i concetti correlati
 
 Il sostegno agli studenti si collega all'[[student-experience|esperienza studentesca]] come controparte rivolta allo studente — le medesime tecnologie viste dal lato dello studente anziché da quello dell'istituzione — e alla [[help-seeking|ricerca di aiuto]] come meccanismo attraverso cui gli studenti che necessitano di sostegno lo ottengono effettivamente; sia il contatto attivo sia gli assistenti specifici per corso sono tentativi di ridurre il costo del chiedere. L'[[learning-analytics|analisi dell'apprendimento]] possiede la previsione che alimenta l'allocazione, lo [[student-modeling|modellamento dello studente]] e il [[knowledge-tracing|tracciamento della conoscenza]] i modelli che stanno alla sua base, e i [[recommender-systems-and-learning-paths|sistemi di raccomandazione e percorsi di apprendimento]] lo strato di raccomandazione. Si collega al [[well-being|benessere]] attraverso i sistemi di salute mentale e di prevenzione sul campus, allo [[career-development-and-readiness|sviluppo professionale e alla preparazione]] come esito che segue il completamento, all'[[equity-in-ai-education|equità nell'istruzione con IA]] e alla [[privacy|privacy]] attraverso i rischi dell'agire in base ai punteggi, e all'[[administrator|amministratore]], agli [[stakeholders|portatori di interesse]] e al [[change-management|change management]] come ruoli e processi che decidono se tutto ciò viene sostenuto. I [[learning-gains|guadagni di apprendimento]] sono il nodo di misurazione adiacente: gli esiti di questa pagina sono amministrativi anziché didattici, e i due non si muovono insieme.
+
+## Idee sbagliate comuni
+
+**«Prevedere quali studenti avranno difficoltà è l'intervento.»** La previsione è l'input del sostegno e non è sostegno. Il corpus separa deliberatamente le due cose: un promemoria di iscrizione e un programma di ritenzione sono interventi diversi con evidenze diverse, e la ricerca suggerisce che l'uno non procura l'altro. Una dashboard di allerta precoce che finisce in un punteggio ha aggiunto misurazione senza aggiungere aiuto.
+
+**«Un programma di ritenzione che ha alzato la persistenza dimostra che l'IA ha funzionato.»** Dimostra che ha funzionato il programma, e lo strato di IA va valutato separatamente dal contatto attivo che innesca. Uno studio randomizzato quadriennale su CSUNny, un chatbot via SMS non generativo della California State University, Northridge, ha seguito **due coorti di studenti universitari (N = 8.708)** per **otto semestri** con **tassi annui di rifiuto mai superiori al 4%** — un risultato forte di ricettività riguardo alla *messaggistica*, e non un'evidenza che un sistema generativo o predittivo otterrebbe lo stesso.
+
+**«La scala degli esiti collassa: il coinvolgimento è la persistenza.»** Ogni gradino misura una cosa diversa — aderire, rispondere, persistere, completare — e un programma può muovere i gradini più bassi lasciando piatti quelli più alti. Riportare la quota di chi risponde come un successo commette esattamente questa sostituzione.
+
+**«Una preoccupazione di equità è un motivo per smettere di usare i dati.»** È un motivo per agire sui punteggi con cautela. Agire su un predittore può distribuire sostegno e può distribuire sospetto, e il rischio si concentra sugli studenti che il modello classifica meno favorevolmente — il che rende il rimedio una governance dell'uso, non l'abbandono della misurazione.
 
 ## Concetti collegati
 

@@ -1,6 +1,7 @@
 ---
 title: Calibrazione della fiducia
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -9,7 +10,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-09T01:55:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -60,15 +65,23 @@ Una fiducia maggiore non garantisce un giudizio migliore: tra 432 studenti unive
 
 La ricerca sulla calibrazione tratta solitamente la fiducia come un giudizio unico. [[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor (2026)]] mostrano che la valutazione si divide in dimensioni non ugualmente vincolanti. Intervistando 17 studenti universitari EFL dopo un semestre di uso di GROK per il feedback sulla loro scrittura, hanno riscontrato l'*expertise* percepita alta — gli studenti attribuivano allo strumento il merito di migliorare il lessico, la grammatica, la struttura e la coerenza, e leggevano le sue spiegazioni delle revisioni suggerite come prova di competenza — mentre l'affidabilità (*trustworthiness*), riguardante principalmente ciò che avveniva ai loro dati, e la *goodwill*, con il feedback vissuto come impersonale e a volte demotivante, restavano basse. La dipendenza seguiva le dimensioni deboli anziché quella forte: gli studenti autorizzavano lo strumento per un feedback linguistico ampio e riservavano la guida individualizzata e relazionale al docente. L'implicazione per la calibrazione è che migliorare l'accuratezza non sposta il tetto sull'uso; la trasparenza sui dati e l'inquadramento didattico attorno a uno strumento sono essi stessi interventi di calibrazione.
 
+Le percezioni sociali legate all'agente, non l'accuratezza, hanno costruito la credibilità del feedback per [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]: la competenza percepita raggiungeva direttamente la credibilità, mentre il calore percepito agiva solo attraverso l'empatia simile a quella umana (SEM, 230 studenti).
+
 [[du-yuan-epistemic-dependence-2026|Du e Yuan (2026)]] separano la *dipendenza produttiva* dalla *dipendenza dannosa* usando sei criteri diagnostici — contestabilità, recuperabilità, trasferibilità, tracciabilità, responsabilità distribuita e pluralismo epistemico — e distinguono l'assistenza strumentale (aiutare a produrre un output) dall'assistenza portatrice di giudizio (fornire gli standard in base ai quali l'output è giudicato), essendo quest'ultima il punto in cui la dipendenza diventa rilevante dal punto di vista educativo.
+- **Gli studenti possono leggere la fallibilità deliberata di un agente pari come un malfunzionamento.** Nello studio Copa, agli studenti veniva detto che l'agente poteva sbagliare e chiesto di valutare i suoi suggerimenti. Quando un suggerimento degradava il loro modello, diversi hanno concluso che l'agente aveva dato informazioni errate e sono passati al tentativo ed errore anziché riesaminare il ragionamento. Un progetto che protegge l'agentività epistemica trattenendo le risposte presuppone quindi una competenza di calibrazione che gli studenti di questo studio non avevano ancora, il che è un vincolo più forte per i progetti con agenti pari che per quelli con agenti di tutoring ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 
 ### La calibrazione come problema di progettazione
 
 Trattare la miscalibrazione puramente come un deficit dell'utente — qualcosa da correggere insegnando alle persone a controllare gli output dell'IA — può essere un errore di categoria. [[trust-calibration-chatbots-design-problem-2026|Jaidka & Cai (2026)]] sostengono che le affordance di trasparenza sono *inerte*: attendono che un utente agisca su di esse, e la maggior parte non lo fa. In uno studio di tracciamento passivo su 900 adulti statunitensi, i lettori che vedevano un riassunto generato dall'IA cliccavano una fonte citata al suo interno solo nell'1% delle visite, e cliccavano qualsiasi link tra i risultati circa la metà delle volte rispetto ai lettori che non vedevano alcun riassunto. Le evidenze da sondaggio mostrano lo stesso divario su larga scala — in uno studio su 81.000 persone in 159 paesi, l'inaffidabilità era la preoccupazione più citata sull'IA, mentre oltre 48.000 rispondenti in 47 paesi usavano l'IA quotidianamente anche quando dichiaravano di non fidarsi. Fiducia e dipendenza si sono separate, e l'articolo individua la causa nei segnali superficiali: fluenza, sicurezza e velocità si sostituiscono alla verificabilità, così che sicurezza e correttezza si dissociano. È noto che la paternità di una macchina possa gonfiare la credibilità — i lettori valutavano i riassunti scientifici come più credibili e più affidabili quando scritti da GPT che da un umano, soprattutto perché il modello scriveva in un linguaggio più semplice.
 
 L'implicazione per la progettazione è una tipologia di utenti bidimensionale — l'*abilità* di verificare gli output di un [[conversational-ai|chatbot]] incrociata con la *motivazione* a farlo — che prevede quali utenti si calibreranno male e in quale direzione. Gli autori la abbinano a due famiglie di interventi che devono operare insieme: affordance di [[explainable-ai|interpretabilità]] (razionali, citazioni, segnali di incertezza) che rendono possibile la valutazione, e meccanismi di coinvolgimento che la fanno effettivamente avvenire, stratificati attraverso il modello del formaggio svizzero di Reason in otto proposizioni verificabili. L'[[ai-literacy|alfabetizzazione all'IA]] è posizionata come lo strato duraturo al di sotto di entrambi, spostando gli utenti tra le celle della tipologia. Il cambio di prospettiva è importante per l'educazione perché sposta la responsabilità: se le citazioni trasparenti non vengono cliccate nella popolazione generale, allora semplicemente esporre gli studenti alle spiegazioni dell'IA non li calibra — l'affordance deve essere progettata per obbligare al controllo.
+- **Una motivazione può assorbire la punta della contraddizione senza rendere la fiducia meglio calibrata.** In quattro esperimenti basati su scenari (N = 859), una raccomandazione dell'IA in conflitto con il giudizio di un educatore fisico abbassava la fiducia nella macchina da 5,42 a 4,31 (d = 1,061); fornire una motivazione riduceva quella penalità da -0,811 a -0,182, sebbene l'accuratezza del consiglio non sia mai stata stabilita ([[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang (2026)]]).
 
-[[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] forniscono una leva di progettazione che ha effettivamente mosso la calibrazione: mostrare ai revisori criteri di affidabilità co-progettati mentre confrontavano le risposte di LLM ha aumentato la concordanza tra valutatori dall'alfa di Krippendorff 0,3987 a 0,4931, sebbene la concordanza aggregata sia rimasta sotto 0,67 e le misure aggiuntive abbiano introdotto overhead.
+Una terza leva agisce sulla struttura stessa dell'interazione: sostituire una singola raccomandazione con un [[tuo-armada-multi-agent-debate-overreliance-2026|dibattito multi-agente la cui posizione aggregata viene trattenuta (Tuo et al., 2026)]] ha ridotto il passaggio dannoso a una posizione errata dell'IA dal 42-60,5% al 5,7-8,2% tra 186 partecipanti. La leva è protettiva anziché correttiva — i partecipanti che partivano da un giudizio sbagliato recuperavano la decisione corretta solo nel 30,6% e nel 24,7% delle prove, sotto la casualità per una scelta binaria.
+
+[[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] forniscono una leva di progettazione che ha effettivamente mosso la calibrazione: mostrare ai revisori criteri di affidabilità co-progettati mentre confrontavano le risposte di LLM ha aumentato la concordanza tra valutatori dall'alfa di Krippendorff 0,3987 a 0,4931, sebbene la concordanza aggregata sia rimasta sotto 0,67 e le misure aggiuntive abbiano introdotto overhead. Per i bambini, la leva progettuale può essere il registro stesso dell'agente: in una prova basata sul gioco con 12 bambini di 8-10 anni, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] hanno trovato che una formulazione da pari li orientava a interrogare direttamente l'IA, mentre una formulazione da strumento li orientava a cercare evidenze. I bambini che *progettano* chatbot mostrano il pattern in un altro registro: tra 115 apprendenti di 8-18 anni, gli studenti più giovani impostavano una fiducia significativamente più alta, e alcuni costruivano deliberatamente bot che davano risposte sbagliate pur valutandoli comunque affidabili ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
+
+La provenienza è trattata come requisito di prima classe non appena l'IA tocca la valutazione o la certificazione: le istituzioni devono ricostruire come sono state prese le decisioni consequenziali e chi aveva l'autorità di confermarle, cosa che un design basato su blockchain di consorzio ancora come registri a prova di manomissione di eventi educativi, output dell'IA, azioni di valutazione e certificati ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
 
 Con gli agenti autonomi l'oggetto della calibrazione cambia. [[agentic-literacy-debt|Nama (2026)]] sostiene che l'utente diventa un mandante che ha delegato l'autorità a un sistema le cui azioni sono in gran parte non osservate e irreversibili, spostando la competenza dal giudicare gli output al comprendere ciò che è stato autorizzato, sorvegliarlo e attribuire la responsabilità quando si verifica un danno.
 
@@ -91,6 +104,40 @@ La calibrazione della fiducia è centrale per l'[[ai-literacy|alfabetizzazione a
 - **L'ansia come condizione limite sull'alfabetizzazione che si traduce in fiducia (2026):** in un sondaggio su 450 studenti universitari della Cina continentale che già usavano ChatGPT, [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] ha riscontrato che il percorso da alfabetizzazione all'IA a fiducia era l'associazione più forte nel modello (beta = 0,50) e che l'[[anxiety-and-stress|ansia verso l'IA]] indeboliva quel legame (interazione beta = -0,25), con le pendenze semplici che scendevano da 0,76 a una deviazione standard sotto la media dell'ansia a 0,25 sopra di essa, mentre un percorso seriale da alfabetizzazione a fiducia ad autoefficacia a uso continuato era significativo. La calibrazione è quindi in parte affettiva: la stessa conoscenza si traduceva in una fiducia minore tra gli studenti più ansiosi, e il disegno cross-sectional lascia aperta la questione se l'ansia blocchi la valutazione che trasforma la conoscenza in dipendenza o rifletta una valutazione che gli studenti scelgono di non mettere in atto.
 - **La rotazione dei ruoli come struttura per esercitare la critica (2026):** in uno studio design-based su 62 psicologi dell'educazione in formazione che attraversavano quattro ruoli professionali a rotazione nell'arco di otto settimane, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] hanno fatto confrontare ai partecipanti le raccomandazioni generate dall'IA con la teoria psicologica e modificare o rifiutare quelle che non si adattavano al caso, registrando tuttavia un sovraffidamento sulle risposte dell'IA apparentemente autorevoli, con alcuni studenti che cercavano conferma dall'IA prima di offrire la propria interpretazione anche nei cicli successivi. La rotazione crea occasioni ripetute per il giudizio di accettazione o rifiuto senza garantirlo, e lo studio riporta il coinvolgimento durante l'intervento anziché guadagni di competenza misurati.
 - **Segnali di identità superficiale muovono la fiducia indipendentemente dalla capacità.** Attraverso due esperimenti (N = 396), i discenti valutavano gli avatar bianchi — e gli avatar maschili asiatici nelle discipline STEM — come più credibili e competenti, penalizzavano gli avatar di donne nere anziane su ogni misura, e adottavano più prontamente le indicazioni del proprio gruppo razziale ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **Un'etichetta di fonte muove l'accettazione senza migliorare la discriminazione.** Quando 103 partecipanti giudicavano risposte etichettate come ChatGPT o come computer, l'accettazione era più alta con l'etichetta ChatGPT (68,0% contro 63,4%, p = 0,002), eppure la teoria della detezione del segnale non trovava differenze di fonte nella sensibilità (p = 0,930) né nel criterio (p = 0,082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio e Bruno, 2026]]). L'etichetta alza la fiducia senza alzare l'accuratezza.
+- **La dipendenza è una decisione con un prezzo, non solo una credenza.** In un benchmark di 324 scenari, cinque modelli su sette compravano la verifica con valore atteso dell'informazione pari a zero o acquistavano salvaguardie in eccesso, e fornire posterior espliciti correggeva alcuni errori creandone altri ([[llm-calibrated-reliance-imperfect-partners-2026|Chu e Huang (2026)]]).
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Insegna il controllo, non l'atteggiamento. Una fiducia maggiore prediceva una dipendenza appropriata *minore* (r = −,42) tra 432 studenti universitari che accettavano l'86,03% dei suggerimenti deliberatamente fuorvianti, quindi un'istruzione che costruisce fiducia generalizzata peggiora il problema.
+- Incorpora la verifica in compiti dove è economica e visibile: richiedi la fonte di un'affermazione, il controesempio o la riesecuzione. I lettori a cui è stato mostrato un riassunto dell'IA cliccavano una fonte citata al suo interno solo **nell'1% delle visite** e cliccavano i link dei risultati circa la metà delle volte, quindi "ha citato qualcosa" non certifica nulla.
+- Ricorda che la leva è protettiva, non correttiva. I partecipanti che partivano da un giudizio sbagliato recuperavano quello corretto solo nel **30,6%** e nel **24,7%** delle prove — sotto la casualità per una scelta binaria — quindi intervieni prima che lo studente si impegni nel modello sbagliato, non dopo.
+- Tratta anche la sotto-fiducia come un errore di calibrazione; evitare uno strumento capace non è l'opzione predefinita sicura, è lo stesso errore che punta nell'altra direzione.
+
+**Per chi sviluppa**
+
+- Cambia la struttura dell'interazione, non solo l'etichetta. Trattenere la posizione aggregata di un dibattito multi-agente ha ridotto il passaggio dannoso a posizioni errate dell'IA dal 42-60,5% al 5,7-8,2%, una leva strutturale che non richiede fiducia da parte dell'utente.
+- Rendi la provenienza ispezionabile nel punto d'uso, poiché i tassi di clic sulle citazioni crollano quando il riassunto è presentato come autorevole.
+- Preserva la posizione dichiarata dallo studente e mettila a contrasto, anziché sostituire la sua bozza con una risposta sicura; i dati sul recupero mostrano che la sostituzione raramente viene disfatta.
+
+**Per chi fa ricerca**
+
+- Misura la dipendenza appropriata come esito comportamentale rispetto alla verità di riferimento, non come punteggio di fiducia. Le due correlano negativamente nell'unico studio che le ha misurate entrambe.
+- Riporta i tassi di recupero dei partecipanti inizialmente sbagliati separatamente dall'accuratezza complessiva, perché l'aggregato nasconde la cifra sotto la casualità che conta di più.
+
+## Idee sbagliate comuni
+
+**"Più fiducia significa un uso migliore dello strumento."** Fiducia e calibrazione divergono, e la correlazione va nella direzione sbagliata. Tra **432 studenti universitari** che risolvevano problemi in Python con suggerimenti dell'IA accurati e deliberatamente fuorvianti, una fiducia maggiore prediceva una dipendenza appropriata **minore** (**r = -,42**), e gli studenti accettavano l'**86,03%** dei suggerimenti fuorvianti. La fiducia generalizzata non è l'obiettivo; lo è quella corrispondente.
+
+**"La sotto-fiducia è l'opzione sicura."** Evitare del tutto uno strumento capace è un errore di calibrazione che punta nell'altra direzione. Entrambe le discrepanze costano a chi apprende — una attraverso la dipendenza, l'altra attraverso la capacità rinunciata — il che rende "sii scettico" un'istruzione povera quanto "fidati".
+
+**"La calibrazione può essere corretta a posteriori."** La leva è protettiva, non correttiva. I partecipanti che partivano da un giudizio sbagliato recuperavano la decisione corretta solo nel **30,6%** e nel **24,7%** delle prove — sotto la casualità per una scelta binaria. Una volta che uno studente si è impegnato nel modello sbagliato, la correzione è inaffidabile, quindi l'intervento deve arrivare prima dell'impegno anziché dopo.
+
+**"Controllare è facile, quindi gli studenti che ci tengono lo faranno."** Il controllo è economico e raramente eseguito. In uno studio di tracciamento passivo su **900 adulti statunitensi**, i lettori che vedevano un riassunto generato dall'IA cliccavano una fonte citata al suo interno solo nell'**1% delle visite**, e cliccavano un link dei risultati circa la metà delle volte rispetto ai lettori senza riassunto. Il riassunto sopprime la verifica anziché sollecitarla, quindi il controllo va costruito dentro il compito anziché dato per scontato dalla diligenza.
+
+**"Presentazione e sostanza possono essere separate da un lettore attento."** La fluidità è ciò che guadagna fiducia non guadagnata, ed è per questo che la calibrazione è un problema di progettazione e non solo una competenza di chi apprende. Un sistema la cui interfaccia segnala autorità sarà creduto a quel livello indipendentemente dalle istruzioni contrarie.
 
 ## Concetti collegati
 
@@ -109,7 +156,9 @@ La calibrazione della fiducia è centrale per l'[[ai-literacy|alfabetizzazione a
 - [[cognitive-surrender]]
 
 ## Articoli collegati
+- [[children-verification-ai-suggestions-game-2026]] — I comportamenti di verifica dei bambini nella collaborazione uomo-IA basata sul gioco
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — La calibrazione riformulata: trattenere la posizione del sistema è protettivo, non correttivo
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
@@ -137,3 +186,5 @@ La calibrazione della fiducia è centrale per l'[[ai-literacy|alfabetizzazione a
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
+- [[children-design-trustworthy-ai-chatbots-2026]] — Come i bambini progettano e ragionano su chatbot di IA affidabili
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Quando il consiglio dell'IA concorda o diverge dal giudizio umano: fiducia, auto-efficacia, resilienza psicologica e risposte adattive in educazione fisica

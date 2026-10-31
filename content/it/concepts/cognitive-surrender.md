@@ -1,6 +1,7 @@
 ---
 title: Resa cognitiva
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,13 +13,17 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,13 +73,15 @@ Tre esperimenti preregistrati hanno adattato il Cognitive Reflection Test e rand
 
 La lettura pratica è che la resa è un **fallimento di discriminazione** piuttosto che un fallimento di motivazione. I partecipanti che si arrendevano non stavano cercando di evitare il lavoro; non riuscivano a distinguere il consiglio buono da quello cattivo, e l'interfaccia non dava loro alcuna ragione di provarci.
 
+Un esperimento preregistrato di [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fornisce una configurazione contrastante. Con l'assistente confinato tramite retrieval augmentation al foglio di lavoro assegnato, la condizione IA abbassava lo scaricamento cognitivo (mediana −0,27) anziché alzarlo, e nessun percorso di scaricamento portava l'aumento della disorganizzazione (0,84). La resa ha bisogno di un assistente il cui consiglio possa essere adottato in blocco; un sistema che risponde solo dal materiale presente dà al discente meno da adottare e più da riconciliare.
+
 ## La resa fuori dal laboratorio
 
 I risultati di laboratorio si allineano con lavori sul campo e osservativi che autonomamente hanno raggiunto la stessa parola.
 
 - **Dislocazione a livello di popolazione.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analizzano 3,2 milioni di interazioni di apprendimento ALEKS e 12,2 milioni [[assessment|tempi di risposta]] ai test di collocamento attraverso un panel decennale, con problemi basati su grafici a fare da controllo per quelli basati su testo. Gli studenti completavano più rapidamente il lavoro suscettibile all'IA e vi ottenevano punteggi più alti, mentre gli item di ritenzione supervisionati mostravano un calo cumulativo del 25% nelle probabilità di una risposta corretta; gli autori chiamano il pattern resa cognitiva su scala di popolazione.
 - **La verifica come variabile discriminante.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] trovano che *come* gli studenti usano l'IA generativa predice la [[learning-gains|performance]] mentre *quanto* la usano non predice nulla: un'assunzione a bassa verifica — accettare l'output senza criticarlo — era associata a esiti peggiori, e l'integrazione valutativa a esiti migliori.
-- **L'uso senza riflessione erode le risorse di cui l'autodirezione ha bisogno.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao e Gu (2026)]] modellano direttamente l'adottare-senza-valutare: su 487 studenti universitari, l'uso senza riflessione dell'IA generativa era associato a un minore [[self-regulated-learning|apprendimento autodiretto]] (β = −0,42), in parte attraverso la ridotta [[motivation|motivazione]] e [[self-efficacy|autoefficacia]].
+- **L'uso senza riflessione erode le risorse di cui l'autodirezione ha bisogno.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao e Gu (2026)]] modellano direttamente l'adottare-senza-valutare: su 487 studenti universitari, l'uso senza riflessione dell'IA generativa era associato a un minore [[self-directed-learning|apprendimento autodiretto]] (β = −0,42), in parte attraverso la ridotta [[motivation|motivazione]] e [[self-efficacy|autoefficacia]].
 - **La traccia neurale e di paternità.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|lo studio EEG sul debito cognitivo]] misurò la [[writing-education|scrittura di saggi]] con un [[llm]], un motore di ricerca e senza strumenti: il gruppo con LLM mostrava la connettività neurale più debole, riportava la più bassa paternità del proprio lavoro, e faticava a citare ciò che aveva scritto.
 - **La resa può arrivare non richiesta.** [[ai-advice-suppresses-ikt-suspension-2026|I lavori sulla sospensione del giudizio]] trovarono che la mera disponibilità di un consiglio dell'IA faceva collassare la disponibilità delle persone a dire «non lo so» (0,06 contro 0,36, e 0,03 contro 0,44 in due studi), mentre la correttezza calava e la fiducia saliva da circa 30 a 76. La posta in gioco non ristabiliva la sospensione, benché gli incentivi migliorassero l'accuratezza incoraggiando le sovrascritture. Un quarto studio mostrava l'effetto senza alcuna consultazione, il pattern di un completamento automatico o del riepilogo di una ricerca anziché di un prompt di chat.
 - **Le modalità dipendente e autonoma si distinguono solo nelle conseguenze.** [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] seguono 589 studenti e lavoratori all'inizio della carriera attraverso tre ondate: lo scaricamento dipendente delegava il pensiero centrale e si associava a una minore motivazione intrinseca, mentre lo scaricamento autonomo no, e la performance immediata appariva identica in entrambi.
@@ -139,3 +146,4 @@ L'evidenza della resa come costrutto nominato poggia pesantemente su un unico pr
 - [[brcic-effortless-trap-productive-struggle-2026]] — placing AI so the task stays effortful
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
 - [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — A worksheet-grounded assistant lowered offloading rather than raising it, a boundary condition for the surrender signature (Braun 2026)

@@ -1,6 +1,7 @@
 ---
 title: "Pedagogie e strategie didattiche"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -8,13 +9,17 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -79,6 +84,8 @@ Strategie pedagogiche diverse producono tipi e dimensioni diverse di [[learning-
 
 Il risultato trasversale chiave, coerente con la ricerca della base di conoscenza sui [[learning-gains|guadagni di apprendimento]], è che **l'effetto della strategia sull'apprendimento dipende più da quanto essa preserva lo sforzo e la lotta produttiva di chi apprende che dall'etichetta che porta** — ogni pedagogia, anche una "buona", fallisce se l'IA è configurata per bypassare il lavoro cognitivo che quella pedagogia intendeva elicitare (si vedano il [[cognitive-offloading|sovraccarico per delega]] e le [[desirable-difficulties|difficoltà desiderabili]]).
 
+L'[[student-ai-interaction|interazione studente–IA]] è meglio letta come un processo mutevole di distribuzione cognitiva che come una dipendenza fissa: attraverso 53 conversazioni con ChatGPT tratte da un corso di [[engineering-education|ingegneria]] transdisciplinare, l'estensione (co-pensiero stretto e iterativo) era il tipo di interazione più frequente, al 53,3% di 321 codici a livello di prompt, davanti all'esternalizzazione al 29,6% ([[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane e Arikan (2026)]]).
+
 Quell'enfasi sullo sforzo preservato non è assoluta: un disegno [[mixed-methods-research|metodologico misto]] su quattro studi (N = 912) ha trovato che inquadrare la GenAI come partner pedagogico attivava al contempo vigilanza critica e delega strategica, con la delega al di sopra di una soglia che liberava capacità per la riflessione di ordine superiore anziché eroderla ([[wang-zhang-pedagogical-partnerships-genai-2026|Wang e Zhang (2026)]]).
 
 ## Implicazioni per l'educazione con IA
@@ -87,6 +94,12 @@ Quell'enfasi sullo sforzo preservato non è assoluta: un disegno [[mixed-methods
 - **Mantenere centrale l'agency di chi apprende:** le pedagogie attive, socratiche e di scaffolding preservano la lotta produttiva e l'[[agency|agency]] che l'IA può altrimenti erodere (si vedano il [[cognitive-offloading|sovraccarico per delega]] e le [[desirable-difficulties|difficoltà desiderabili]]).
 - **Progettare l'IA perché metta in atto una buona pedagogia:** gli agenti e i tutor di IA dovrebbero essere fondati su framework istruttivi consolidati, non sulla generazione di risposte predefinita.
 - **Insegnare con e sull'IA:** le pedagogie dovrebbero sia usare l'IA per insegnare sia insegnare a chi apprende a usare l'IA in modo responsabile.
+
+## Idee sbagliate comuni
+
+- **"La conoscenza tecnica dell'IA è ciò di cui gli insegnanti hanno più bisogno."** Su **46 insegnanti e 2.832 studenti**, la **conoscenza pedagogica dell'IA degli insegnanti** prediceva le percezioni degli studenti dell'IA per il bene sociale. La conoscenza pedagogica superava quella tecnica, il che inverte dove va la maggior parte dell'investimento formativo.
+- **"Il contributo principale dell'IA nell'educazione è istruttivo."** Una **revisione PRISMA di 28 studi** ha trovato che l'IA migliorava più spesso la **pianificazione didattica e la progettazione della valutazione** — il contributo più chiaro è **scaricare il lavoro amministrativo**, non insegnare. Un caso costruito sui guadagni istruttivi poggia sul ramo più debole dell'evidenza.
+- **"L'istruzione sull'alfabetizzazione all'IA si trasferisce automaticamente in un insegnamento migliore."** Una meta-analisi a tre livelli di **59 studi (172 dimensioni dell'effetto)** ha trovato che **gli interventi centrati sulla conoscenza (g ≈ ,97)** superavano nettamente gli altri approcci nel muovere la conoscenza. Muovere la conoscenza è l'esito misurato; se abbia raggiunto la pratica è la domanda successiva.
 
 ## Concetti collegati
 - [[pedagogical-partnerships]] — Partnership pedagogiche
@@ -128,3 +141,4 @@ Quell'enfasi sullo sforzo preservato non è assoluta: un disegno [[mixed-methods
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
+- [[cognitive-distribution-student-genai-interaction-2026]] — L'interazione studente-IA come distribuzione cognitiva mutevole, non dipendenza fissa (53,3% estensione)

@@ -1,6 +1,7 @@
 ---
 title: Valutazione orientata al processo
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -11,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,6 +55,8 @@ Il vocabolario di design più esplicito viene da Thapa e Lewis, i cui quattro im
 
 Il canale scelto per l'evidenza di processo cambia ciò che può essere evidenziato: nello stesso studio sull'IA generativa con 79 studenti, il monitoraggio e la pianificazione ad alta profondità erano più comuni nelle unità think-aloud mentre la regolazione ad alta profondità era più comune nei log di interazione, perciò nessun singolo registro cattura l'intero processo ([[metacognitive-processes-genai-interaction-logs-2026|Li e Liu (2026)]]). Le tracce possono anche divergere dai punteggi in modo netto: attraverso 150 conversazioni studente-IA, il 41% recava un punteggio di compito di esattamente 1,00 mentre la partecipazione cognitiva osservabile variava, perciò punteggi uguali possono nascondere processi diversi ([[epistemic-ownership-ai-mediated-education-2026|Fábrega, 2026]]). DraftTrace risponde allo stesso problema per la scrittura integrata con l'IA allineando misure di processo a livello di battitura con il prodotto finale e con le tracce di interazione con l'IA, mostrando che la copia-digitazione è identificabile solo quando prodotto e processo sono letti insieme ([[drafttrace-ai-writing-analytics-2026|Chandarana et al. (2026)]]), un'istanza concreta della misurazione a tracce comportamentali di cui il campo è ancora privo.
 
+La documentazione richiesta si è dimostrata fattibile alla scala del corso: attraverso sei semestri di corsi asincroni di metodi di ricerca per laureati di sei settimane che servivano circa 440 insegnanti K-12, le consegne ai checkpoint raggiungevano in media il 96% di completamento, e le iterazioni successive che aggiungevano template espliciti di prompt producevano riflessioni più lunghe e visibilmente più sostanziali ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
 I resoconti di praticanti e framework completano i manufatti. Il framework LEARN di Uden e Hwang (2026), rivolto alla [[assessment|valutazione]] dell'[[problem-based-learning|apprendimento basato sui problemi]], chiede rubriche focalizzate sul processo, giustificazioni orali, consegne in fasi e tracce di ragionamento con [[ai-use-disclosure|divulgazione dell'uso dell'IA]], e tratta la riflessione attraverso diari di apprendimento e protocolli think-aloud come il motore [[metacognition|metacognitivo]] della sequenza. Moganadas e colleghi (2026) rendono la valutazione trasparente rispetto all'IA e orientata al processo una di cinque proposizioni ricercabili, richiedendo documentazione, verifica e giustificazione riflessiva anziché proibizione o uso di rilevatori. Padhy (2026) raccomanda di catturare la storia delle revisioni, i pattern di interazione e il tempo sul compito, abbinati a una divulgazione trasparente. Goldstein, Marae-Haj e Zidan (2026) riferiscono gli stessi manufatti emergenti dalla pratica dopo una crisi di [[trust|fiducia]]: registri di prompting, storia delle versioni dei documenti, contributi di gruppo monitorati, e "diari di viaggio" riflessivi tenuti in quaderni fisici — insieme al rinvenimento piano che il lavoro scritto a casa non poteva più evidenziare l'apprendimento.
 
 Sta emergendo strumentazione concreta: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operazionalizzano la risoluzione dei problemi come quattro fasi e otto sotto-abilità diagnostiche, cosicché un LLM possa generare domande e rubriche specifiche per fase; cinque insegnanti e 64 studenti hanno usato il sistema su 90 problemi e 720 sotto-domande, con un punteggio medio alla System Usability Scale di 83,5.
@@ -58,11 +65,15 @@ Sta emergendo strumentazione concreta: [[stepwise-teacher-diagnosis-math-2026|Ki
 
 Tenere separati gli assi conta, perché confonderli è il modo in cui una riprogettazione appare fatta mentre l'esposizione resta. Sharma (2026) opera la distinzione complementare tra autenticità e design orientato all'integrità: l'autenticità chiede se un compito rispecchi una pratica valida, mentre il design orientato all'integrità chiede se gli studenti possano giustificare le proprie decisioni e assumersi responsabilità in relazione agli standard disciplinari, ed è per questo che le pratiche che egli offre — tracce di decisione annotate, verifica delle affermazioni contribuite dalla GenAI, difesa orale, differenze tra bozze con storia delle versioni — sono selezionate per il [[evaluative-judgment|giudizio]] che rendono visibile piuttosto che per il loro realismo. La revisione decennale di Espino e Espino (2026) della [[business-education|formazione in economia aziendale]] perviene alla stessa conclusione di design dal versante della letteratura, trovando che il campo converge su compiti autentici e a processo visibile che richiedono interpretazione, applicazione contestuale e raffinamento iterativo, e trattando l'adozione isolata di strumenti dentro strutture di valutazione immutate come il suo fallimento più persistente.
 
+La matrice Fade–Visibility di Salameh (2026) incrocia la stessa domanda di design con una seconda variabile — se il [[scaffolding|supporto dell'IA persista o si dissolva]] — e nomina la combinazione a cui la maggior parte dei corsi approda per default, un supporto che non si dissolve mai e che viene valutato solo dal suo prodotto: Dipendenza silenziosa ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
+
 Il costrutto è anche distinguibile dalla domanda di come l'evidenza venga punteggiata. Il ragionamento sull'[[assessment-validity|validità]] è il punto in cui i due si incontrano: Brunnström e Palmqvist (2026) sostengono che quando un [[conversational-ai|chatbot]] può produrre una risposta d'esame plausibile, il prodotto consegnato diventa un indicatore più debole di ciò che lo studente ha appreso — un problema di validità della valutazione anziché solo un problema di [[academic-integrity|integrità]]. È la stessa inferenza a rischio nell'argomentazione [[genai-performance-vs-learning|prestazione rispetto ad apprendimento]] di Yan, Greiff, Lodge e Gašević, dove i [[learning-gains|guadagni di prestazione]] che si riducono una volta ritirato il sostegno mostrano un guadagno che vive nello strumento anziché nello studente, e dove il rimedio proposto sono misure di processo come i [[transfer-of-learning|test di ritenzione e trasferimento]] anziché il successo immediato nel compito.
 
 ## Perché il rilevamento non può reggere questo carico
 
 La valutazione orientata al processo è di solito proposta come l'alternativa al rilevamento, e l'evidenza sul rilevamento spiega perché. La letteratura sul [[ai-detection|rilevamento]] trova tassi di errore, dipendenza dal compito e [[bias-mitigation|pregiudizio]] strutturato contro chi scrive non essendo madrelingua e contro gli scrittori disabili, e il lavoro più recente approda a una conclusione procedurale: il punteggio di un rilevatore può sollecitare un esame più attento ma non è un rinvenimento. Munoz e colleghi (2026) mostrano cosa ciò costi nella pratica. Codificando 1.162 accuse di cattiva condotta con l'IA generativa, hanno trovato che i tipi di evidenza più forti sono generati dall'indagine o dalla supervisione, che evidenza di processo come bozze, incontri di supervisione e presentazioni compare solo l dove quelle pratiche esistono già — perciò in una valutazione non riprogettata è semplicemente assente — e che l'output dei rilevatori ha ottenuto le valutazioni probatorie più basse di qualsiasi categoria. La conseguenza di design è l'ordinamento: l'evidenza di processo deve esistere prima che un caso ne abbia bisogno, e il ragionamento di Weidlich (2026) su quale inferenza sia a rischio fa lo stesso punto dal versante della validità, poiché i tentativi di ripristinare la sicurezza della valutazione attraverso il rilevamento introducono varianza irrilevante al costrutto anziché evidenza sullo studente.
+
+I criteri della rubrica stessa possono essere ricostruiti attorno alla traiettoria. [[rubrics-genai-process-based-assessment-2026|Oviedo e Díaz (2026)]] leggono il modello 3P di Biggs come tre dimensioni di valutazione — agenzia e supervisione critica, scaffolding dialogico e sovranità cognitiva — così che venga valutata la traiettoria anziché l'esito statico.
 
 ## I costi di design e di carico di lavoro
 
@@ -73,6 +84,12 @@ I costi operativi sono dettagliati altrove. Boysen elenca nuova tecnologia, comp
 ## Cosa resta irrisolto
 
 Il resoconto di Thapa e Lewis è concettuale: nessun partecipante, nessuna raccolta dati e nessuna prova di implementazione, perciò i quattro principi sono argomentati anziché testati, e l'articolo stesso sollecita lavoro empirico sull'[[student-experience|esperienza dello studente]], il carico di lavoro degli educatori e la vitalità a lungo termine. La fattibilità resta indifferenziata attraverso i contesti — il trasferimento a grandi lezioni, laboratori, studi o tirocini clinici non è affrontato. Il position paper di Lane (2026) nota il soffitto istituzionale: la valutazione basata sul processo è smussata da strutture di votazione e di trascrizione che premiano i manufatti finali rifiniti, perciò la sola riprogettazione in classe non cambia l'incentivo. Anche la [[educational-measurement|misurazione]] è sottile: la revisione di Jin e colleghi (2026) degli strumenti di [[ai-literacy|alfabetizzazione sull'IA]] sollecita valutazione basata sulle prestazioni e orientata al processo e misurazione a tracce comportamentali del [[prompt-engineering|prompting]] e della verifica, ma riferisce che gli strumenti esistenti si appoggiano sull'[[self-report-measures|auto-riferimento]]. Nessuna fonte qui riporta uno [[rct|studio controllato]] di una riprogettazione orientata al processo rispetto a una orientata al prodotto, il che lascia l'affermazione centrale — che l'evidenza di processo è sia più difficile da contraffare sia più equa da giudicare — argomentata dal principio, dal resoconto dei praticanti e dall'evidenza dei fascicoli di caso anziché dimostrata su larga scala.
+
+## Idee sbagliate comuni
+
+- **"Un punteggio alto implica che lo studente abbia fatto il lavoro che abbiamo progettato."** Le tracce possono **divergere dai punteggi in modo netto**: attraverso **150 conversazioni studente-IA**, **il 41% recava un punteggio di compito di esattamente 1,00 mentre la partecipazione cognitiva osservabile variava**. Il punteggio satura mentre il processo che avrebbe dovuto produrlo no.
+- **"I dati di processo sono ingestibili su larga scala."** La documentazione richiesta si è dimostrata fattibile alla scala del corso attraverso **sei semestri di corsi asincroni di metodi di ricerca per laureati di sei settimane che servivano circa 440 insegnanti K-12**. La logistica era risolvibile; l'obiezione esagera il costo.
+- **"La risoluzione di problemi è troppo olistica per essere valutata sul processo."** Può essere operazionalizzata come **quattro fasi e otto sotto-abilità diagnostiche**, permettendo a un LLM di generare **domande e rubriche specifiche per fase** — usate con **cinque insegnanti e 64 studenti**. È la scomposizione che ha reso il processo leggibile e valutabile.
 
 ## Concetti collegati
 - [[pedagogical-patterns]] — Staged checkpoints and process evidence as sequenced designs
@@ -93,6 +110,7 @@ Il resoconto di Thapa e Lewis è concettuale: nessun partecipante, nessuna racco
 - [[equity-in-ai-education]]
 
 ## Articoli collegati
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Una revisione narrativa critica che sostiene come il fallimento per default sia un supporto dell'IA che non si dissolve mai accoppiato a una valutazione del solo prodotto (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
@@ -108,3 +126,5 @@ Il resoconto di Thapa e Lewis è concettuale: nessun partecipante, nessuna racco
 - [[drafttrace-ai-writing-analytics-2026]] — DraftTrace: A Multi-View Analytics Environment for AI-Integrated Writing
 - [[epistemic-ownership-ai-mediated-education-2026]] — Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
+- [[packard-thinking-partner-framework-adult-learners-2026]] — La documentazione ai checkpoint del dialogo con l'IA ha tenuto un completamento del 96% su sei semestri e circa 440 insegnanti
+- [[rubrics-genai-process-based-assessment-2026]] — Tre dimensioni di rubrica dal modello 3P di Biggs: agenzia e supervisione, scaffolding dialogico, sovranità cognitiva (Oviedo e Díaz 2026)

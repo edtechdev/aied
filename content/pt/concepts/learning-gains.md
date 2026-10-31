@@ -1,7 +1,7 @@
 ---
 title: "Ganhos de aprendizagem"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-28T00:51:33-04:00"
+updated: "2026-10-31T07:30:00-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -66,6 +70,7 @@ Ao longo dos [[rct|RCTs]], [[meta-analysis-systematic-review|metanálises]] e es
 - **A eficácia percebida e a real divergem.** O [[ai-literacy-assessment-misalignment|desempenho autorrelatado se desalinha do desempenho medido]], e a [[absent-cognitive-baseline-2026|linha de base cognitiva ausente]] mostra que estudantes nativos de IA superestimam sua aprendizagem — de modo que afirmações de eficácia baseadas em autorrelato são não confiáveis sem medidas de desfecho objetivas. A [[self-report-measures|medidas de autorrelato]] reúne os casos em que desfechos relatados e medidos se separam.
 
 - **Os ganhos podem vir da realocação do tempo do professor, e não da correção por IA.** Em um experimento aleatorizado em 178 escolas brasileiras (~19.000 concluintes), a correção de redações por IA e por humanos produziu ganhos idênticos em provas, mas as salas de aula com IA tiveram ~35% mais conversas individuais de professores sobre escrita, e o quartil inferior melhorou em nenhuma das condições ([[ai-changing-teaching-workflows|Ler, 2026]]).
+- **Na IA mediada por professor, a preparação moveu os ganhos e a ferramenta não.** Em 19 turmas brasileiras de numeracia da rede pública, estudantes ensinados por professores treinados superaram o grupo de controle, mas acrescentar o sistema AIED-U a esse treinamento não produziu nenhum ganho de aprendizagem adicional, e a carga de trabalho do professor foi negativamente associada aos ganhos ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 **Conclusão:** o peso da evidência apoia **ganhos de aprendizagem modestos, condicionais e dependentes do design** a partir da IA — reais quando a IA é estruturada para treinar em vez de responder, protegida por guarda-corpos e pareada com medidas de desfecho sem auxílio, e ausentes ou negativos quando ela substitui o esforço de quem aprende. É por isso que os ganhos de aprendizagem como desfecho precisam ser medidos com instrumentos válidos e resistentes à IA, e por que a [[ai-ed-evaluation|avaliação de IA na educação]] pareia afirmações de eficácia com escrutínio [[research-methods-aied|metodológico]].
 
@@ -111,6 +116,7 @@ Os números de ganho de aprendizagem que dominam o resumo de eficácia desta pá
 - A [[oneill-presumed-effective-meta-analysis-2026|auditoria forense de 14 metanálises de AIED de alto impacto]] conclui que nenhuma forneceu uma base válida para sua afirmação de ganho de aprendizagem agrupado: nenhuma tinha um construto de desfecho coerente, todas tinham heterogeneidade extrema não resolvida (I² variou de 77,2% a 94,4% nas 13 metanálises que a relataram, e 12 dessas 13 excederam 80%), doze trataram tamanhos de efeito dependentes como independentes, e nenhuma avaliou validamente o viés de publicação. A maioria dos estudos primários vistoriados aleatoriamente era incompatível com a afirmação metanalítica. Os erros chegaram à política: duas das metanálises auditadas trataram o tamanho da amostra do estudo como tamanho de turma e, com base em um estudo primário mal calculado, concluíram que 21 a 40 estudantes é o tamanho ideal de intervenção e recomendaram que intervenções de IA generativa fossem projetadas para esse número.
 - **Uma síntese de [[stem-education|STEM]] de 2026 que corrige dois dos defeitos auditados — e ainda ilustra um terceiro.** A [[ai-supported-instruction-stem-meta-analysis-2026|Doğan e colegas (2026)]] agruparam 35 estudos experimentais e quase experimentais de STEM com um tamanho de efeito por estudo para evitar o problema de tamanhos de efeito dependentes, e rodaram uma bateria completa de testes de viés de publicação (gráfico de funil, testes de Begg e Egger, *trim-and-fill*, N de falha segura de Rosenthal = 2404) em vez de afirmar simetria — os dois atalhos que a auditoria acima encontrou em toda metanálise que examinou. Duas cautelas sobrevivem. Primeiro, os autores não aplicaram apreciação formal de qualidade e trataram os critérios de inclusão como limiar de rigor, de modo que estudos de designs muito diferentes entraram no agrupamento sem ponderação por qualidade. Segundo, a heterogeneidade principal depende inteiramente de qual modelo você lê: os mesmos 35 estudos são relatados como I² = 82,98% sob o modelo de efeito fixo e I² = 15,75% sob o modelo de efeitos aleatórios, de modo que quem encontra os números sem o rótulo do modelo pode concluir que o corpus é homogêneo quando não é. Sua estimativa agrupada (g = 0,670, IC 95% [0,491, 0,848]) é portanto o tipo de figura que a seção acima descreve: melhor construída que a maioria, e ainda assim um limite superior.
 - A [[weidlich-chatgpt-effect-search-cause-2025|crítica de mídia/métodos]] mostra que muitos "ganhos de aprendizagem" não foram medidos validamente — os desfechos eram frequentemente habilidades autorrelatadas ou desempenho medido *durante* a assistência da IA, em vez de aprendizagem duradoura e sem auxílio.
+- **A primeira onda de síntese sobre o ChatGPT mediu desempenho, não aprendizagem.** [[epistemological-audit-genai-meta-analyses-2026|Fütterer et al. (2026)]] reconstruíram a base de evidências das cinco metanálises que agruparam os efeitos educacionais do ChatGPT: entre 69 estudos primários classificáveis, 79,7% mediram desempenho exclusivamente e apenas 11,6% mediram aprendizagem. Sua estimativa agrupada reproduzida (g = 0,83, IC 95% [0,68, 0,97], I² = 94,06%) descreve, portanto, desempenho em teste, e seu intervalo de predição [−0,75, 2,41] cruza zero.
 
 **Conclusão para os números de ganho acima:** trate grandes tamanhos de efeito agrupados de IA como limites superiores, não como estimativas pontuais. Prefira a evidência de ganhos de aprendizagem de [[rct|RCTs]] bem projetados e estudos de campo com medidas de desfecho sem auxílio e padronizadas (o RCT de guarda-corpos, os experimentos Khanmigo e NUMI e a metanálise de EdTech do Banco Mundial citados acima), e leia os ganhos metanalíticos como provisórios e provavelmente superestimados até que a qualidade da síntese melhore. O problema também sobrevive à correção: dos artigos publicados depois que uma metanálise auditada foi retratada, 60% ainda a citavam como apoio autoritativo para grandes ganhos de aprendizagem com ChatGPT e nenhum reconheceu a retratação, de modo que uma estimativa retirada continua se propagando. É por isso que a página [[limitations-in-aied-research|Limitações na pesquisa em AIED]] agora documenta em detalhe a crise da evidência metanalítica.
 
@@ -119,6 +125,36 @@ Os números de ganho de aprendizagem que dominam o resumo de eficácia desta pá
 Os ganhos de aprendizagem se conectam à [[assessment-validity|validade da avaliação]] — se as [[assessment|avaliações]] deixam de capturar entendimento mais profundo, as medidas de ganho de aprendizagem são enganosas. Eles também se cruzam com a [[cognitive-offloading|dependência excessiva]] e o [[cognitive-offloading|descarregamento cognitivo]], onde melhorias aparentes de desempenho podem mascarar perdas de aprendizagem, e com [[rct|RCT]] (ensaios aleatorizados como o design padrão-ouro para detectar ganhos de aprendizagem causais), e com [[meta-analysis-systematic-review|metanálise e revisão sistemática]] (agrupar tamanhos de efeito entre estudos para estabelecer a evidência de eficácia do campo).
 
 - **Ganhos significativos pré/pós a partir de [[pedagogy|pedagogia]] de IA baseada em erros:** [[pedagogy-ai-mistakes|Hosseini (2026)]] em seu curso de design de banco de dados (n = 13) mostrou ganhos de aprendizagem grandes e significativos em itens idênticos pré/pós (média 4,25→6,83/7, *d* de Cohen = 1,49, *p* < 0,001), com ganhos não correlacionados à confiança prévia em IA ou em banco de dados — o design de crítica-refinamento integrado à IA beneficiou estudantes independentemente das percepções iniciais.
+
+## Ideias equivocadas comuns
+
+**"As notas subiram, então a intervenção produziu aprendizagem."** Este é o erro definicional que a página existe para prevenir, e os dados de campo mostram ambas as direções ao mesmo tempo: o uso de IA melhora as notas em lições de casa assistidas por IA ao mesmo tempo que *reduz* as notas em medidas supervisionadas, sem consulta e sem auxílio ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). A escolha da medida determina se a inflação fica visível, de modo que um ganho em uma tarefa em que a IA é permitida é uma afirmação sobre desempenho na tarefa, e não sobre [[genai-performance-vs-learning|aprendizagem]].
+
+**"A metanálise resolve a questão: o efeito é grande."** A direção da agregação e a magnitude da agregação são fatos diferentes, e a magnitude raramente sobrevive ao escrutínio. A [[genai-meta-analysis-programming-learning|metanálise de IA generativa em programação]] encontra grandes ganhos de *produtividade* ao lado de **nenhum ganho de aprendizagem significativo** (g ≈ 0). A [[burneo-can-edtech-close-learning-gaps-2026|metanálise do Banco Mundial]], agrupando 191 tamanhos de efeito de 14 RCTs, estima ~0,125 dp para EdTech adaptativa e com IA — respeitável diante da mediana dos RCTs educacionais, mas **sem vantagem para a IA generativa sobre ferramentas adaptativas anteriores**. Citar estudos da era do GPT como um salto de categoria exagera o que a evidência agrupada mostra.
+
+**"Mais prática e mais personalização sempre ajudam."** Os ganhos são interações conteúdo–tratamento, não constantes. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] mostram que a proporção ótima exemplo–problema depende do que está sendo aprendido: a prática de recuperação vence para fatos literais, a prática integrada a exemplos vence para habilidades generalizáveis. E a [[lak2026-hint-button-unproductive-use|pesquisa sobre botões de dica]] encontra volume de dicas negativamente associado à aprendizagem. O mesmo "apoio" que ajuda um componente de conhecimento pode desperdiçar o outro.
+
+**"Um resultado de pós-teste tardio é automaticamente um resultado de aprendizagem duradoura."** O atraso é necessário e não suficiente. O que distingue a aprendizagem duradoura neste corpus é a medição *sem auxílio* sob condições de atraso, junto com evidência de que o efeito não é carregado pelo andaime que estará ausente na transferência.
+
+## Implicações para a prática
+
+**Para instrutores**
+
+- Separe a nota que você dá da afirmação que você faz. O trabalho de curso assistido por IA pode avaliar com justiça a qualidade do produto enquanto não diz nada sobre a capacidade sem auxílio; se você precisa da segunda, é preciso medi-la separadamente.
+- Combine o formato da prática com o tipo de conhecimento. Use recuperação para fatos e alternância de exemplos resolvidos para procedimentos transferíveis, em vez de um padrão único para ambos.
+- Acompanhe o volume de dicas como diagnóstico, e não apenas como apoio. O uso crescente de dicas com desempenho sem auxílio estagnado é a assinatura de uma dependência que parece produtiva.
+
+**Para desenvolvedores**
+
+- Relate produtividade e desfechos de aprendizagem como métricas distintas, já que o corpus repetidamente encontra a primeira e falha em encontrar a segunda (g ≈ 0 na metanálise de programação). Um painel que confunde as duas será lido como evidência de aprendizagem.
+- Não presuma que seu sistema generaliza entre componentes de conhecimento. O resultado da proporção exemplo–problema implica que a programação ótima é uma propriedade do conteúdo, e não da plataforma.
+- Torne o uso de dicas e andaimes visível para instrutores, porque o volume é um dos poucos sinais comportamentais empiricamente ligados a desfechos mais fracos.
+
+**Para pesquisadores**
+
+- Pré-registre a medida de desfecho e declare se ela permite IA ou é sem auxílio. A direção do achado pode se inverter só por essa escolha.
+- Relate tamanhos de efeito contra uma comparação nomeada, e não contra "abordagens tradicionais" no abstrato. O resultado do Banco Mundial só é interpretável porque nomeia sua classe de comparação.
+- Distinga explicitamente a inflação de desempenho do deslocamento de aprendizagem, já que os dois implicam remédios diferentes — redesenho de tarefa versus reensino.
 
 ## Conceitos conectados
 
@@ -179,6 +215,5 @@ Os ganhos de aprendizagem se conectam à [[assessment-validity|validade da avali
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Uma síntese de STEM que controlou tamanhos de efeito dependentes e testou viés de publicação, mas não aplicou apreciação de qualidade (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Metanálise de segunda ordem de 45 metanálises de IA na educação, com efeitos corrigidos por sobreposição e uma apreciação de qualidade da camada de síntese (Emslander et al. 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: tutoria por IA e humana geram ganhos de aprendizagem equivalentes no GRE
-
-- **The first ChatGPT synthesis wave measured performance, not learning.** [[epistemological-audit-genai-meta-analyses-2026|Fütterer et al. (2026)]] rebuilt the evidence base of the five meta-analyses that pooled ChatGPT's educational effects: among 69 classifiable primary studies, 79.7% measured performance exclusively and only 11.6% measured learning. Their reproduced pooled estimate (g = 0.83, 95% CI [0.68, 0.97], I² = 94.06%) therefore describes test performance, and its prediction interval [−0.75, 2.41] crosses zero.
-- [[epistemological-audit-genai-meta-analyses-2026]] — A Critical Epistemological Audit of Early Evidence Syntheses in Generative AI Educational Research (Fütterer et al. 2026)
+- [[rodrigues-aied-unplugged-numeracy-2026]] — Na IA mediada por professor, a preparação moveu os ganhos e a ferramenta não
+- [[epistemological-audit-genai-meta-analyses-2026]] — Uma auditoria epistemológica crítica das primeiras sínteses de evidência na pesquisa educacional com IA generativa (Fütterer et al. 2026)

@@ -1,19 +1,24 @@
 ---
 title: Fiducia
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T09:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,6 +39,8 @@ ai_assist:
 
 La fiducia nell'IA è plasmata dalla competenza percepita, dalla trasparenza, dalla coerenza e dal fatto che il sistema appaia allineato agli obiettivi del discente; è strettamente legata all'[[ai-literacy|alfabetizzazione all'IA]] (sapere di cosa fidarsi), al [[critical-thinking|pensiero critico]] (valutare gli output) e alla progettazione di un'IA responsabile. La fiducia interpersonale, al contrario, si costruisce attraverso relazioni, divulgazione, feedback e cura [[pedagogy|pedagogica]] — le qualità su cui gli studenti fanno affidamento quando decidono se un insegnante o un'IA sia una fonte affidabile di guida. I due domini interagiscono sempre di più: l'IA è intrecciata nelle relazioni docente-studente, così che il modo in cui gli studenti si fidano del proprio insegnante modella il modo in cui si fidano (o mettono in discussione) gli strumenti di IA che quell'insegnante avvalla.
 
+La fiducia è una vittima misurata, non solo un principio. In [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], gli studenti hanno detto di fidarsi meno dei compagni dopo aver scoperto un uso non dichiarato della GenAI nel lavoro di gruppo, definendolo «dannoso per la fiducia e l'etica dell'accademia», mentre alcuni sospettavano che gli insegnanti usassero la GenAI e lo nascondessero agli studenti.
+
 ## La fiducia nei sistemi di IA
 
 La [[research-methods-aied|ricerca]] in questa base di conoscenze esamina quando i discenti si fidano appropriatamente delle indicazioni generate dall'IA. Gli [[ai-fallibility-warning-help-seeking|avvertimenti sulla fallibilità dell'IA]] possono migliorare la calibrazione: un semplice intervento di trasparenza che comunicava agli studenti che un tutor IA potesse commettere errori ha aumentato la [[help-seeking|ricerca di aiuto]] in un ITS matematico, a suggerire che limiti onesti favoriscono anziché minare l'affidamento appropriato. La [[calibrating-trustworthiness-llm-education-2026|co-progettazione di metriche di affidabilità]] con learning engineer mostra che la fiducia si costruisce meglio su criteri osservabili e concordati piuttosto che su una capacità presunta. Gli studi sulla [[fouad-bentley-trust-utility-gap-physics-2026|fisica]] e sulla [[t2i-competence-paradox-2026|generazione di immagini]] rivelano un persistente *trust-utility gap* — gli utenti devono soppesare la competenza apparente di uno strumento rispetto alla sua affidabilità effettiva in un compito. Tra gli utenti più giovani, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] hanno riscontrato che il 52% dei bambini (età 6–14) si fidava in generale di un chatbot su misura per la loro età e il 35% si fidava di esso come di un insegnante o un amico, con circa un terzo disposto a confidarsi; i bambini ne testavano attivamente la credibilità con domande a risposta nota, e la fiducia non mostrava differenze statisticamente significative per livello scolastico — illustrando come la fiducia precoce possa formarsi prima della valutazione critica.
@@ -51,9 +58,15 @@ Quanto un sistema sia spiegabile — e in quali termini — modella anch'esso se
 
 La fiducia nell'IA si comporta come un percorso dalla valutazione all'affidamento piuttosto che come un singolo atteggiamento: la percezione di empowerment dell'IA e la percezione di minaccia dell'IA erano quasi indipendenti (r = 0,030) eppure muovevano la fiducia in direzioni opposte (β = 0,576 e β = −0,328), e la fiducia portava associazioni indirette significative con la dipendenza dalla GenAI in entrambe le direzioni ([[ai-empowerment-threat-genai-dependence-2026|Zhu et al. (2026)]]).
 
+Un modello strutturale dà a quel ruolo di ponte una prova empirica. Nell'indagine di [[trust-calibration-genai-collaborative-regulation-2026|Bu e Li (2026)]] su 642 studenti universitari, il supporto contestuale prediceva la calibrazione della fiducia (β = 0,56), la calibrazione della fiducia prediceva la [[collaborative-learning|regolazione]] [[regulation|collaborativa]] (β = 0,49) e i guadagni di [[transfer-of-learning|trasferimento]] percepiti (β = 0,22), e il percorso diretto dal supporto contestuale ai guadagni non era significativo.
+
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] sostiene un'interpretazione della fiducia negli algoritmi **legata alla funzione anziché globale**: né l'avversione agli algoritmi né l'apprezzamento per gli algoritmi descrivevano questi 13 studenti, che si fidavano simultaneamente di ChatGPT per il feedback di superficie e diffidavano di esso come valutatore. La loro fiducia era condizionata dalla supervisione dell'istruttore, e il loro scetticismo derivava dai limiti contestuali dell'IA — la lettura errata della scrittura a mano scansionata («ha sbagliato a scrivere il mio cognome e pensa che abbia commesso errori di ortografia quando non ne ho commessi»), il non conoscere il sistema di valutazione dell'istruttore, e la positività cronica — piuttosto che dalla tecnofobia, a suggerire che le misure di fiducia dovrebbero essere scomposte per funzione svolta dall'IA e posta in gioco a essa collegata.
 
 Le tre dimensioni della credibilità della fonte possono dissociarsi: diciassette studenti universitari EFL concedevano a un assistente di scrittura IA un'ampia expertise, dubitavano della sua affidabilità principalmente per ciò che la piattaforma conservava, e ne valutavano la goodwill al livello più basso — il tetto del loro affidamento risiedeva nella cura, non nella competenza ([[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor, 2026]]).
+
+Gli indizi di credibilità possono aumentare l'affidamento su risposte sbagliate: aggiungere citazioni e segnali di autorità a un'interfaccia di dibattito ha fatto salire l'abbandono di un giudizio corretto per la posizione dell'IA dal 15,0% al 31,8%, mentre omettere una posizione raccomandata ha ridotto quello spostamento al 5,7–8,2% ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+La fiducia nell'IA non segue nemmeno l'adozione nazionale: i rumeni, con il 17,8% di uso della IA generativa contro il 48,4% della Danimarca, valutavano la propria fiducia nell'IA leggermente più alta (4,1 contro 3,8 su una scala a sette punti), mentre la fiducia istituzionale si divideva di 28 contro 45 punti nella direzione opposta ([[lucau-uneven-use-similar-trust-genai-2026|Lucau, Voicu e Christensen (2026)]]).
 
 ## La fiducia nell'IA segue lo stato psicologico, non la categoria demografica
 
@@ -62,8 +75,10 @@ Le tre dimensioni della credibilità della fonte possono dissociarsi: diciassett
 ## La fiducia interpersonale nell'educazione
 
 La fiducia è anche fondamentalmente relazionale. Il divario di fiducia in classe è documentato nelle [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|visioni di insegnanti e studenti su controllo e agency nell'IA in classe K-12]]: gli studenti desiderano maggiore [[agency|autonomia]] e flessibilità mentre gli insegnanti danno priorità alla supervisione e al monitoraggio, un disallineamento che entrambe le parti devono affrontare perché l'adozione dell'IA abbia successo. Il [[qu-wang-disclose-or-not-genai-2026|perché gli studenti divulghino o nascondano il proprio uso dell'IA]] mostra che la divulgazione è guidata meno dalle policy che da fattori relazionali — le norme percepite dei pari e la **comodità con gli insegnanti** sono i predittori più forti, a indicare una bassa fiducia interpretativa nelle istituzioni [[governance|istituzionali]]. I [[vetter-hidden-cost-disclosure-genai-2026|costi nascosti della divulgazione]] aggiungono sfumature su quando l'onestà sia socialmente costosa.
- Una risposta che mette al primo posto il rilevamento funziona al contrario: rilevatori inaffidabili che segnalano in modo sproporzionato i parlanti non madrelingua bloccano i casi di scorrettezza per mancanza di prove, producendo «sospetto senza rimedio», mentre conversazioni di verifica di cinque-dieci minuti annunciate come pedagogia piuttosto che come sorveglianza restauravano l'autorità del corpo docente e suscitavano una divulgazione più aperta dell'uso dell'IA ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
- L'affidamento su rilevatori e sorveglianza, sostengono [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], alimenta un clima di sospetto che erode la fiducia degli studenti nella valutazione e nell'istituzione — l'opposto della fiducia che i processi di integrità intendono proteggere.
+
+Una risposta che mette al primo posto il rilevamento funziona al contrario: rilevatori inaffidabili che segnalano in modo sproporzionato i parlanti non madrelingua bloccano i casi di scorrettezza per mancanza di prove, producendo «sospetto senza rimedio», mentre conversazioni di verifica di cinque-dieci minuti annunciate come pedagogia piuttosto che come sorveglianza restauravano l'autorità del corpo docente e suscitavano una divulgazione più aperta dell'uso dell'IA ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
+
+L'affidamento su rilevatori e sorveglianza, sostengono [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], alimenta un clima di sospetto che erode la fiducia degli studenti nella valutazione e nell'istituzione — l'opposto della fiducia che i processi di integrità intendono proteggere.
 
 Il feedback è un sito chiave della fiducia interpersonale. Le [[genai-teacher-feedback-comparison|percezioni degli studenti sul feedback della GenAI rispetto a quello dell'insegnante]] evidenziano che i due servono esigenze diverse — complementari ma non intercambiabili — con gli studenti che si fidano del feedback dell'insegnante per il giudizio relazionale e personalizzato e della [[generative-ai|GenAI]] per la velocità e l'[[accessibility|accessibilità]]. Un resoconto [[care-full-feedback-genai|del feedback "care-full"]] sostiene che un feedback affidabile è una pratica [[ethics|etica]] e relazionale: costruisce relazioni educative ed è rispettato come mestiere professionale, valori che un'IA non può semplicemente replicare. Per questo la fiducia docente-studente — costruita sulla cura e sul giudizio professionale — resta centrale anche mentre l'IA entra nel circuito del feedback.
 
@@ -74,6 +89,37 @@ La fiducia tra pari passa per un canale diverso: tra 406 studenti universitari c
 La sfida unificante è la **calibrazione**: far corrispondere la fiducia all'affidabilità effettiva, che la parte fidata sia un modello o una persona. La [[trust-calibration|calibrazione della fiducia]] è la capacità [[metacognition|metacognitiva]] di sapere quando fidarsi e quando mettere in discussione. Gli studi sull'[[feedback]] e sugli [[intelligent-tutoring|ITS]] esaminano quando i discenti si affidano appropriatamente o mettono in discussione le indicazioni dell'IA, mentre la letteratura interpersonale mostra che la fiducia degli studenti in un insegnante dipende dalla fiducia relazionale costruita nel tempo. Con l'IA che si inserisce nell'[[teacher-role|insegnamento]], questi domini convergono: un insegnante che spiega in modo trasparente ciò che uno strumento di IA può e non può fare, e che dimostra affidabilità nel proprio giudizio, costruisce il tipo di fiducia che si trasferisce agli strumenti che avvalla. Costruire una fiducia appropriata — nell'IA e gli uni negli altri — è un obiettivo centrale della progettazione responsabile dell'IA nell'educazione.
 
 La calibrazione è messa alla prova anche dagli incentivi del sistema fidato stesso. Quando il personale scettico verso l'adozione dell'IA consulta l'[[conversational-ai|IA conversazionale]] — costruita da organizzazioni con un interesse commerciale nell'adozione — c'è il rischio che il sistema sia predisposto a incoraggiarla. Un audit di dieci modelli di frontiera ha riscontrato che la maggior parte riconosceva le preoccupazioni di un membro del personale [[k-12|K-12]] rurale (la minaccia al lavoro, l'essere 'non per persone come me') prima di dirottare verso il coinvolgimento. Questo sfida la fiducia ingenua nell'affidamento e sottolinea l'importanza della [[human-in-the-loop-ai|supervisione umana]] e di una [[ai-ed-evaluation|valutazione indipendente]] dei consigli dell'IA.
+
+## Idee sbagliate comuni
+
+**"Fiducia e diffidenza stanno agli estremi opposti di un'unica scala."** Sono separabili, e confonderle fraintende ciò che gli studenti riportano davvero. **La percezione del rischio e la fiducia non sono opposti:** uno studio sulla percezione di 130 studenti sulla GenAI [[agentic-ai|agente]] nell'[[higher-ed|istruzione superiore]] ha rilevato un rischio percepito moderatamente elevato (M = 3,33, SD 0,89) *accanto* a una fiducia e a un'adozione più favorevoli. Un discente può provare entrambe le cose insieme, ed è per questo che un singolo punteggio di fiducia non può dirti se il suo affidamento sia appropriato.
+
+**"La diffidenza verso l'accuratezza dell'IA significa che gli studenti non vi si appoggeranno."** Gli studenti distinguono l'output dalla propria capacità di pilotarlo. In un sondaggio su **8.021 studenti di quattro università australiane, il 51% diffidava dell'accuratezza fattuale della GenAI mentre il 76% era fiducioso nella propria capacità di ottenere gli output desiderati.** È il secondo numero a predire il comportamento: la fiducia nell'estrazione coesiste con il dubbio sulla verità, e solo una delle due è una proprietà di sicurezza.
+
+**"Regole e politiche più chiare sono ciò che costruisce la fiducia degli studenti."** Domina l'utilità. Un sondaggio su 2.121 studenti, docenti e personale di un'università ha trovato l'utilità percepita come il **correlato più forte della fiducia nell'IA (β = 0,402)**, con la chiarezza percepita delle politiche dietro di essa. Le istituzioni che investono nella produzione di regole mentre distribuiscono strumenti che nessuno trova utili hanno puntato alla leva più debole.
+
+**"Se i discenti si fidano di più, lo useranno con più attenzione — o almeno in modo appropriato."** Lo schema documentato è l'opposto. Tra 432 studenti universitari che risolvevano problemi in Python con suggerimenti accurati e deliberatamente fuorvianti, una maggiore fiducia prediceva un affidamento appropriato **inferiore** (r = −,42), e gli studenti accettavano l'86,03% dei suggerimenti fuorvianti. La fiducia non è un proxy della calibrazione; vedi [[trust-calibration|calibrazione della fiducia]].
+
+**"Avvertimenti onesti sulla fallibilità minerebbero la fiducia in un tutor."** Migliorano il comportamento. Gli [[ai-fallibility-warning-help-seeking|avvertimenti sulla fallibilità dell'IA]] in un ITS matematico hanno aumentato la [[help-seeking|ricerca di aiuto]] anziché ridurre l'uso, il che suggerisce che dichiarare i limiti favorisce l'affidamento appropriato anziché eroderlo.
+
+## Implicazioni per la pratica
+
+**Per gli insegnanti**
+
+- Misura due cose, non una: ciò che gli studenti credono sull'accuratezza dell'IA, e ciò che credono sulla propria capacità di usarla. La divisione 51%/76% mostra che divergono nettamente e solo la seconda guida il comportamento.
+- Dichiara i limiti dello strumento fin da subito. Gli avvertimenti sulla fallibilità hanno aumentato la ricerca di aiuto nelle evidenze sugli ITS, quindi la trasparenza è uno strumento di calibrazione, non un rischio per la fiducia.
+- Osserva la fiducia alta accompagnata da verifiche superficiali; quella combinazione è la modalità di fallimento della calibrazione, non un segnale di successo.
+
+**Per gli sviluppatori**
+
+- Costruisci la fiducia su criteri osservabili e concordati anziché sulla capacità apparente, seguendo il lavoro di co-progettazione dell'affidabilità con i learning engineer. La fluidità non è un segnale di affidabilità e gli studenti la leggono come tale.
+- Dai priorità all'utilità nell'onboarding rispetto al testo delle politiche, poiché l'utilità è il correlato di fiducia più forte misurato.
+- Non trattare la fiducia alta come successo di coinvolgimento; abbina ogni metrica di fiducia a una misura dell'affidamento appropriato.
+
+**Per i ricercatori**
+
+- Riporta fiducia, percezione del rischio e affidamento appropriato come costrutti distinti, perché covariano in direzioni non ovvie — anche negativamente.
+- Riporta l'esito comportamentale (il tasso di accettazione dei suggerimenti sbagliati) accanto alla fiducia autodichiarata; le scale di fiducia da sole invertono la conclusione.
 
 ## Concetti collegati
 
@@ -91,6 +137,7 @@ La calibrazione è messa alla prova anche dagli incentivi del sistema fidato ste
 - [[social-norms-ai-use]] — il rischio sociale su cui si reggono le norme e la divulgazione
 
 ## Articoli collegati
+- [[lucau-uneven-use-similar-trust-genai-2026]] — Uso diseguale, fiducia simile: la IA generativa in Danimarca e Romania (Lucau, Voicu e Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy
@@ -119,3 +166,5 @@ La calibrazione è messa alla prova anche dagli incentivi del sistema fidato ste
 
 - [[ai-empowerment-threat-genai-dependence-2026]] — Empowerment and threat appraisals moved trust in opposite directions, carrying GenAI dependence
 - [[observer-perceptions-genai-interpersonal-trust-2026]] — Peers' GenAI use lowers interpersonal trust through perceived warmth and competence, buffered by AI literacy
+- [[trust-calibration-genai-collaborative-regulation-2026]] — Contextual support to trust calibration to collaborative regulation and perceived transfer, with the direct path non-significant (Bu & Li 2026)
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority cues doubled abandonment of correct judgments for the AI's position (Tuo et al. 2026)

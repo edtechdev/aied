@@ -1,6 +1,7 @@
 ---
 title: Formazione aziendale
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -8,13 +9,17 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -45,9 +50,11 @@ L'AI nella formazione aziendale è uno strand [[discipline-specific-aied|discipl
 - **Adozione organizzativa.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] esamina i fattori organizzativi e tecnologici dell'adozione dell'AI nell'[[higher-ed|istruzione superiore]] (utilizzando i framework TOE + Diffusion of Innovations, n=300 tra il personale), rilevante per come le business school e le loro istituzioni adottano il supporto decisionale guidato dall'AI e le piattaforme di apprendimento intelligenti.
 - **Agenti conversazionali nei giochi di [[simulation]] aziendali.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger e Liening (2026)]] sviluppano e valutano un [[conversational-ai|agente conversazionale]] potenziato dall'AI (Lara) per il supporto didattico adattivo nei giochi di simulazione aziendale utilizzati per l'apprendimento imprenditoriale esperienziale. Basato su un approccio [[equity-in-ai-education|equity]]-by-design e sullo [[universal-design-for-learning|Universal Design for Learning]], il framework CAIS-GBL punta al [[student-engagement|coinvolgimento]] cognitivo, [[motivation|motivazionale]], [[affective-computing|affettivo]] e [[sociocultural-learning|socio-culturale]] degli studenti, con valutazioni tra studenti insegnanti e partecipanti a BSG che mostrano percezioni positive della presenza cognitiva/[[community-of-inquiry|sociale]] e del supporto all'[[self-regulated-learning]] — un modello per scalare il feedback [[formative-assessment|formativo]] nella formazione aziendale [[game-based-learning|basata sulla simulazione]].
 - **GAI agentica per compiti applicati complessi.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] sviluppano il framework AGAI-HE attorno a un corso di **e-commerce**, in cui il compito di apprendimento richiede di confrontare modelli di business, soppesare vincoli di mercato e operativi, e difendere raccomandazioni strategiche — lavoro applicato in più fasi che i chatbot prompt-risposta supportano male. Il loro studio sulle percezioni di 130 studenti ha rilevato che sia il supporto chatbot che quello agentico erano valutati al di sopra del tradizionale [[online-teaching-and-learning|e-learning]] per miglioramento dell'apprendimento, personalizzazione, supporto alle decisioni e organizzazione del flusso di lavoro, pur senza una differenza significativa tra agente e chatbot, e il più forte endorsement è andato alla combinazione di tutte e tre le modalità. Per i programmi di business, la lettura è che l'adozione è una questione di [[curriculum-design|progettazione didattica]] su come il supporto dell'AI viene sequenziato e governato, non semplicemente un aggiornamento degli strumenti ([[agentic-ai]]).
+- **Un chatbot [[rag|RAG]] costruito per il corso ha spostato le aspettative, non gli esiti.** In una [[rct|sperimentazione randomizzata]] della durata di un semestre con 454 studenti universitari in un corso di Principi di Marketing, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni e Fryer (2026)]] non hanno rilevato alcun effetto gruppo-per-tempo significativo su interesse, [[self-efficacy|autoefficacia]], engagement o prestazione al test, sebbene gli studenti accedessero 0,89 volte a settimana e valutassero il divertimento 80,4.
 - **L'innovazione nella valutazione e nel grading è sotto-ricercata.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] esaminano 58 articoli relativi alla valutazione in 20 anni su quattro riviste leader nella formazione manageriale (AMLE, JME, Management Learning, IJME) — circa tre all'anno, molti nei numeri speciali del 2010 e 2014 — rilevando che la valutazione e il grading sono sotto-ricercati rispetto al loro ruolo centrale nel plasmare l'apprendimento. L'autovalutazione e la valutazione tra pari dominano il discorso (quasi metà del corpus, principalmente per la valutazione [[summative-assessment|sommativa]] del [[group-work|lavoro di gruppo]]); la [[authentic-assessment|valutazione autentica]] compare principalmente attraverso [[simulation|simulazioni]] mediate dalla tecnologia ed è spesso confusa con l'[[experiential-learning|apprendimento esperienziale]]; mentre la rivalutazione, il grading basato su standard e l'ungrading sono praticamente assenti. Gli autori esortano gli educatori manageriali a impegnarsi più attivamente e reciprocamente con queste innovazioni, raccomandando una sperimentazione incrementale (compiti non valutati, rivalutazione per un singolo compito, rubriche basate su standard) sostenuta da un coordinamento a livello di programma e da evidenze documentate di Scholarship of Teaching and Learning.
 
 - **Il punteggio automatizzato dei lavori di corso in business richiede una validazione specifica per il corpus.** Su 60 post di marketing di studenti da una simulazione BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] ha rilevato che un [[llm|LLM]] raggiungeva solo ICC(2,1) = 0,435 rispetto alla media umana — regole deterministiche 0,091, un ibrido a pari peso 0,266 — mentre l'aggiunta di ancore redatte dai ricercatori portava l'LLM a 0,846 senza modificare il punteggio di nessuno studente.
+- **Un'alternativa nella formazione aziendale valuta il processo, non il tema.** In un apprendistato di primo anno per Analista Aziendale, la valutazione richiedeva iterazione documentata e [[collaborative-learning|collaborazione]] tra pari, e gli studenti che usavano la GenAI contestavano le sue controargomentazioni anziché consegnarle ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Insegnare l'AI come elemento di progettazione dei processi a tutti gli effetti.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] colloca un checkpoint sulle decisioni dell'AI in ogni fase del ciclo di vita BPM attraverso sei moduli di un corso con 152 studenti, così che gli studenti costruiscano un agente di intake funzionante basato su LLM e scoprano poi, a un checkpoint, che il collo di bottiglia effettivo è una coda di due persone addette alle indagini sulle frodi.
 
 ## Formazione in economia e management
@@ -64,6 +71,12 @@ Il business è uno dei campi in cui l'adozione dell'AI generativa è più rapida
 - **Allineare il curriculum in modo costruttivo.** La [[zhou-constructive-alignment-genai-business-2026|ricerca sull'allineamento costruttivo]] rileva che il grado di integrazione nel curriculum modella se i benefici o i rischi della GenAI prevalgono — integrare, non aggiungere.
 - **Affrontare le lacune persistenti.** [[espino-ai-business-education-review-2026|Un decennio di ricerca]] segnala lacune in coerenza curricolare, preparazione dei docenti e validità della valutazione — dare loro priorità nella progettazione dei programmi.
 - **Preparare gli studenti a un ambiente di lavoro integrato con l'AI.** Sottolineare alfabetizzazione sull'AI, uso etico e applicazione di dominio (finanza, marketing, management, economia) come competenze cardine, non come elettive.
+
+## Idee sbagliate comuni
+
+- **"Gli studenti vogliono l'IA perché vogliono scorciatoie."** Un framework informato dagli studenti ha rilevato studenti **altamente coinvolti e consapevoli di aver bisogno di competenze in GenAI per la carriera**, che però desideravano anche **usare l'IA senza commettere involontariamente una violazione dell'integrità accademica**. La domanda è di competenza con confini chiari, non di permesso di evitare il lavoro.
+- **"Aggiungere moduli sull'IA a un curricolo di business ne cattura il beneficio."** La ricerca sull'allineamento costruttivo ha rilevato che **l'equilibrio tra benefici e rischi dipendeva dal grado di integrazione nel curriculum** — la distinzione operativa è **integrare, non aggiungere**. Un modulo appiccicato lascia immutata la progettazione della valutazione.
+- **"La sofisticazione dello strumento batte l'e-learning convenzionale."** Uno studio sulle percezioni con **130 studenti** ha rilevato che **sia il supporto chatbot sia quello agentico erano valutati al di sopra dell'e-learning tradizionale** per miglioramento, personalizzazione e supporto alle decisioni. Vale la pena notare che cosa misura: la *percezione* degli studenti rispetto a una linea di base convenzionale, non l'apprendimento rispetto a essa.
 
 ## Concetti collegati
 
@@ -93,3 +106,5 @@ Il business è uno dei campi in cui l'adozione dell'AI generativa è più rapida
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
 - [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
+- [[alam-process-oriented-collaborative-essays-2026]] — Saggi collaborativi orientati al processo in un apprendistato per Analista Aziendale: valutare l'iterazione documentata, non il tema
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]] — Un chatbot RAG costruito per il corso ha spostato le aspettative, non gli esiti

@@ -1,6 +1,7 @@
 ---
 title: Motivazione
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -9,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -44,12 +49,15 @@ La motivazione è un costrutto fondativo nella ricerca sull'istruzione, e l'asce
 
 Una meta-analisi di 42 studi (56 dimensioni dell'effetto, 6.059 studenti) ha trovato che l'apprendimento supportato da GenAI aumentava la motivazione di g di Hedges = 0,764 (IC 95% [0,566, 0,962]) — ma con I² = 93,7% e un intervallo di predizione al 95% di [−0,689, 2,217], la media nasconde contesti in cui l'effetto è vicino allo zero o negativo ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **L'uso non riflessivo erode la motivazione — più negli uomini.** L'uso di GenAI senza riflessione (accettare le risposte senza esaminarle) prediceva una motivazione più bassa (β = −0,54) e una [[self-efficacy|autoefficacia]] più bassa (β = −0,37) tra 487 studenti universitari, e l'effetto sulla motivazione era significativamente più forte per gli studenti maschi mentre l'effetto sull'autoefficacia era più forte per le studentesse ([[genai-thoughtless-use-self-directed-learning-2026|Zhao e Gu, 2026]]).
+- **Ridurre la frustrazione non è la stessa cosa che sostenere la motivazione.** Un [[rct|RCT]] a tre bracci ha trovato che un tutor con scaffolding e ChatGPT senza restrizioni riducevano la frustrazione allo stesso modo (3,21 e 3,13 contro 4,09), ma solo il tutor con scaffolding alzava la motivazione intrinseca (2,82 contro 2,42, p < ,001); ChatGPT no (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Il motivo per cui un lettore ricorre all'AI è esso stesso una variabile misurabile: la scala AIR distingue quattro motivazioni per la lettura assistita da GenAI — Task-oriented (orientata al compito), Feel-good (benessere), Translation e Low-effort (basso sforzo) — e solo Low-effort, usare l'AI quando si è stanchi o disimpegnati, era correlata negativamente al bisogno di cognizione (r = −0,18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar e Sidi (2026)]]).
 
 **La motivazione nel coinvolgimento mediato dall'AI** esamina come la qualità motivazionale (non solo la quantità) cambi con l'AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** hanno combinato la teoria dell'autodeterminazione con la [[network-analysis|network analysis epistemica]] per studiare il coinvolgimento con l'[[generative-ai|AI generativa]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** hanno seguito la motivazione in ottica evolutiva tramite latent transition analysis su **2.086 studenti della [[k-12|scuola secondaria]]** in un curricolo sull'AI di un anno, trovando tre profili stabili (Disimpegnato, In sviluppo, Autodeterminato) e che il raggiungimento del profilo Autodeterminato prediceva i maggiori guadagni in [[ai-literacy|alfabetizzazione AI]]. **[[wang-goal-setting-ai-engagement-2026|Wang e Wang (2026)]]** hanno usato la teoria del goal-setting con **758 apprendenti di inglese dell'[[higher-ed|università]]**, mostrando che il **supporto del docente** guida il coinvolgimento assistito dall'AI principalmente attraverso obiettivi di padronanza e di prestazione (gli orientamenti di approccio, non di evitamento). Complessivamente questi studi mostrano che la motivazione nei contesti di AI è insieme evolutiva e socialmente supportata — cambia nel tempo e risponde al supporto del docente e all'inquadramento degli obiettivi, non solo al design dello strumento.
 
-L'orientamento all'obiettivo instrada anche il modo in cui lo strumento viene usato: gli obiettivi di padronanza e di prestazione normativa tendono a sostenere l'elaborazione e il perfezionamento, mentre gli obiettivi di prestazione legati all'apparenza rendono più probabili la minimizzazione dello sforzo e la protezione della competenza percepita — quindi lo stesso assistente fornisce supporto al pensiero o lo sostituisce a seconda del clima motivazionale ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+L'orientamento all'obiettivo instrada anche il modo in cui lo strumento viene usato: gli obiettivi di padronanza e di prestazione normativa tendono a sostenere l'elaborazione e il perfezionamento, mentre gli obiettivi di prestazione legati all'apparenza rendono più probabili la minimizzazione dello sforzo e la protezione della competenza percepita — quindi lo stesso assistente fornisce supporto al pensiero o lo sostituisce a seconda del clima motivazionale ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). La motivazione basata sulla ricompensa può smorzare la portata del feedback dell'AI: per [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]], il legame credibilità–apprendimento percepito si indeboliva con l'aumentare della sensibilità alla ricompensa basata sul voto — pendenze semplici b = 0,733, 0,607 e 0,483 a sensibilità bassa, media e alta.
+
+La [[educational-policy-ai|politica sull'IA generativa]] istituzionale è essa stessa uno stressor che gli [[learners|apprendenti]] valutano: [[gai-advocacy-practice-art-education-2026|Chen (2026)]] ha trovato che il divario tra l'advocacy delle università sulla GAI e la loro pratica in classe alzava sia le valutazioni di sfida sia quelle di ostacolo tra studenti cinesi di arte e design, con effetti indiretti opposti sul coinvolgimento nel processo [[creativity|creativo]], mentre il pensiero sui percorsi amplificava solo la via della sfida.
 
 Un formato dialogico può aumentare la motivazione senza migliorare la valutazione complessiva: in 222 studenti del primo anno delle scuole superiori, il dialogo docente-docente ha aumentato la motivazione ARCS più del formato docente-studente per gli apprendenti con alta esperienza concreta (b = 0,162, p < 0,001) pur ottenendo un punteggio significativamente inferiore nella valutazione complessiva (b = −0,126, p = 0,005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
@@ -70,9 +78,17 @@ Un intervento di utility-value non è uniformemente benefico: una versione con s
 
 **La letteratura misura la motivazione senza una teoria di essa.** Una revisione di tipo scoping di 156 studi dal 2003 al 2025 ha trovato che 133 (85,3%) non erano guidati da alcuna teoria motivazionale specifica, la variabile più comune era una motivazione accademica generalizzata (n = 89), e 88 studi (56,4%) provenivano da un unico contesto nazionale ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 
+La motivazione agisce anche a monte della percezione della tecnologia, non solo accanto ad essa. In un campione di 340 studenti di fisica, il valore d'uso prediceva l'utilità percepita (β = 0,43) e il valore intrinseco prediceva l'atteggiamento (β = 0,20), mentre il costo percepito abbassava la facilità d'uso (β = −0,16) e l'atteggiamento (β = −0,27) senza alcun percorso diretto verso l'intenzione ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi e Lu (2026)]]).
+
 ## Collegamenti con concetti correlati
 
 La motivazione è il costrutto genitore della [[self-determination-theory]], che specifica i bisogni psicologici (autonomia, competenza, relazionalità) che sostengono la motivazione intrinseca. Si collega alla [[student-experience|esperienza dello studente]] come strato esperienziale del coinvolgimento motivato, allo [[student-engagement|coinvolgimento dello studente]] come sua dimensione misurabile, e all'[[affective-computing]] per i meccanismi emotivi che plasmano la motivazione. La motivazione si collega inoltre a [[cognitive-offloading|Over-Reliance]] (l'AI che riduce le [[desirable-difficulties|difficoltà desiderabili]]), all'[[self-regulated-learning|apprendimento autoregolato]] (gli apprendenti motivati si autoregolano), e al [[teacher-role|ruolo del docente]] (la motivazione si applica agli educatori oltre che agli studenti).
+
+## Idee sbagliate comuni
+
+- **"L'effetto della GenAI sulla motivazione è un guadagno netto e grande."** Una meta-analisi di 42 studi (56 dimensioni dell'effetto, 6.059 studenti) ha trovato un effetto sulla motivazione di g = 0,764 (IC 95% [0,566, 0,962]) **ma con I² = 93,7%**. Un'eterogeneità così alta significa che la cifra aggregata descrive un insieme di studi che non concordano tra loro, quindi è una media su trattamenti incoerenti anziché un effetto riproducibile.
+- **"Ridurre la frustrazione equivale a sostenere la motivazione."** Un [[rct|RCT]] a tre bracci ha trovato che un tutor con scaffolding e ChatGPT senza restrizioni **riducevano la frustrazione allo stesso modo** (3,21 e 3,13). Due disegni molto diversi hanno prodotto lo stesso risultato affettivo, quindi i dati sulla frustrazione non possono distinguerli.
+- **"Un progetto motivante è un buon progetto."** In **222 studenti del primo anno delle superiori**, un formato di dialogo tra docenti **alzava più** la motivazione ARCS rispetto all'alternativa **senza migliorare la valutazione complessiva**. La motivazione si è mossa, la qualità giudicata no.
 
 ## Concetti collegati
 
@@ -91,6 +107,9 @@ La motivazione è il costrutto genitore della [[self-determination-theory]], che
 - [[social-emotional-learning]] — Apprendimento socio-emotivo
 
 ## Articoli collegati
+- [[high-school-genai-acceptance-tam-physics-2026]] — Le credenze di aspettativa-valore come antecedenti dell'accettazione della GenAI
+- [[gai-advocacy-practice-art-education-2026]] — I divari tra advocacy e pratica sulla GAI agiscono come stressor che gli studenti valutano
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Il tutor con scaffolding ha alzato la motivazione intrinseca dove ChatGPT senza restrizioni non ci è riuscito
 - [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — The effort paradox and the vicious cycle of frictionless assistance

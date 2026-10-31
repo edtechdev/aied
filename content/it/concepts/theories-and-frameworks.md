@@ -1,6 +1,7 @@
 ---
 title: Teorie e quadri di riferimento
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -8,13 +9,17 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,6 +52,8 @@ Queste spiegano i meccanismi: nominano le parti che fanno il lavoro e prevedono 
 - **[[community-of-inquiry|Community of inquiry]]** — le presenze sociale, cognitiva e didattica che fanno funzionare un'esperienza online; una teoria dell'esperienza e una cornice di progetto allo stesso tempo.
 - **[[self-determination-theory|Teoria dell'autodeterminazione]]** — autonomia, competenza e relazionalità come precondizioni motivazionali. Spesso la spiegazione offerta quando l'uso dell'IA accresce il coinvolgimento senza accrescere l'apprendimento.
 - **[[cognitive-psychology|Cognitivismo]]** — elaborazione dell'informazione, memoria di lavoro, e il divario tra la sensazione di apprendere e l'apprendimento effettivo.
+- **Teoria della percezione sociale (calore e competenza)** — importata dalla cognizione sociale e dalla ricerca sui robot di servizio, inquadra come gli utenti giudicano la credibilità di un agente di IA: la competenza percepita prediceva direttamente la credibilità del feedback di ChatGPT mentre il calore operava solo attraverso l'empatia simil-umana (SEM, 230 studenti; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Una quarta categoria di affordance è stata proposta, non testata.** Codificando 24 studi rispetto a uno schema di affordance in tre parti, i revisori hanno trovato che coinvolgimento, sicurezza e autoefficacia non rientravano nelle categorie tecnologica, pedagogica o sociale, e hanno proposto affordance emotive fondate sul determinismo reciproco di Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 ## Modelli dello studente e del processo di apprendimento
 
@@ -114,6 +121,16 @@ I quadri di riferimento non sono evidenza. Sono di solito presi a prestito da co
 
 L'allineamento tra meccanismo e teoria può comunque essere decisivo: una sintesi tematica di 55 studi sull'apprendimento basato sul gioco supportato dall'IA ha rilevato che l'efficacia dipendeva dal fatto che il meccanismo di IA attuasse la pedagogia che avrebbe dovuto servire, anziché dalla raffinatezza algoritmica ([[ai-game-based-learning-systematic-review-2026|Kaşarcı e Yurt (2026)]]).
 
+## Idee sbagliate comuni
+
+**"Applicare a uno strumento di IA una teoria presa a prestito significa usare la teoria."** Gran parte di questo campo applica teoria presa a prestito anziché verificarla, e la differenza sta nel fatto se il quadro di riferimento abbia formulato una previsione che avrebbe potuto fallire. Quando uno studio riporta un guadagno sotto la bandiera di un quadro ma non si impegna in alcuna previsione falsificabile, non si è appreso nulla su quel quadro — un esito compatibile con ogni teoria del catalogo non è evidenza per nessuna di esse.
+
+**"Il valore di un quadro di riferimento è quanto bene descrive un sistema che hai già costruito."** Quella è etichettatura ex post. Una tassonomia che accoglie qualsiasi progetto non ha potere discriminante, ed è per questo che i quadri descrittivi vanno giudicati per ciò che escludono. La domanda valutativa non è "il mio sistema rientra in questo?", ma "quale tipo di sistema questo quadro direbbe sbagliato?".
+
+**"Teorie dell'apprendimento, modelli dello studente e quadri di adozione sono lenti intercambiabili."** Rispondono a domande diverse — come avviene l'apprendimento, qual è lo stato dello studente, e perché una pratica si diffonde — e i loro tipi di evidenza differiscono di conseguenza. Scegliere lo strato sbagliato produce uno studio che misura la variabile giusta rispetto alla previsione sbagliata, il che si legge come un risultato nullo quando è un errore di categoria.
+
+**"Più quadri di riferimento significa un campo più maturo."** I quadri coniati per l'era dell'IA si accumulano più in fretta di quanto vengano testati, e l'accumulo senza falsificazione è un sintomo anziché un progresso. La maturità si mostra quando previsioni concorrenti vengono risolte, non con la crescita del vocabolario.
+
 ## Concetti collegati
 
 - [[theory-development-aied]] — costruire e rivedere teoria nel campo
@@ -129,6 +146,7 @@ L'allineamento tra meccanismo e teoria può comunque essere decisivo: una sintes
 
 ## Articoli collegati
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Affordance emotive proposte come quarta categoria in una tassonomia di affordance
 - [[ai-game-based-learning-systematic-review-2026]] — L'allineamento tra meccanismo e teoria, non la raffinatezza algoritmica, ha determinato l'efficacia in 55 studi sull'apprendimento basato sul gioco con IA
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — quattro decenni di AIED attraverso il framework AI×Ed
 - [[educating-minds-generative-ai-2026]] — sintesi densa di teoria sull'IA generativa e l'apprendimento

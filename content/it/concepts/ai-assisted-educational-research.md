@@ -1,6 +1,7 @@
 ---
 title: Ricerca educativa assistita dall'IA
 created: "2026-10-14T23:30:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -18,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 translation_of: "concepts/ai-assisted-educational-research"
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 
 
@@ -153,6 +158,12 @@ Ciò che può essere trasportato è una disposizione anziché un risultato: nomi
 - **Una lacuna di reporting, non un audit della pratica.** PRISMA-LLM legge il silenzio a livello di articolo; un flusso di lavoro senza valutazione nel proprio articolo può essere comunque validato altrove.
 - **La ricerca del praticante è sotto-rappresentata.** Solo una manciata di pagine qui menziona il SoTL o la ricerca in classe, per cui il corpus non può fondare asserzioni su docenti che studiano la propria pratica.
 - **Un bersaglio mobile.** Gli strumenti migliorano più in fretta di quanto si pubblichi, per cui un risultato su un flusso di lavoro del 2025 descrive una generazione di sistemi che potrebbe non esistere più in quella forma.
+
+## Idee sbagliate comuni
+
+- **«Gli articoli sugli LLM e quelli sul software sono valutati altrettanto bene.»** Dal 2023, **il 38,0% degli articoli su software e prodotti non riportava alcuna valutazione, contro il 9,3% degli articoli sugli LLM**. Il divario è ampio e va contro l'assunto che gli strumenti più recenti siano testati con meno rigore.
+- **«Stratificare per compito risolve il divario.»** **Il divario sopravvive alla stratificazione**: nella selezione e nello screening, gli articoli sul software avevano in media **3,2 elementi di valutazione sostanziali con il 39,3% che non ne riportava nessuno**, mentre gli articoli sugli LLM ne avevano di più. La differenza è una proprietà sistematica della classe di articoli, non del compito.
+- **«Una valutazione positiva significa che il flusso di lavoro ha raggiunto la soglia prevista.»** Tra **118 articoli sugli LLM con valutazioni solo positive, il 52% riportava comunque almeno una preoccupazione sul fatto che il flusso di lavoro restasse sotto la soglia richiesta per il suo ruolo**. Metà delle valutazioni positive conteneva la propria confutazione.
 
 ## Citazione
 

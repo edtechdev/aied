@@ -1,6 +1,7 @@
 ---
 title: "Bibliotecari"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -11,13 +12,17 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +68,16 @@ Altri due filoni pongono i limiti del ruolo. Il [[pearls-epistemic-verification-
 - **Progettare per percorsi eterogenei.** Con gruppi all'incirca pari che preferiscono l'IA, i bibliotecari o entrambi, l'instradamento delle consulenze per disciplina e carico di lavoro ha assorbito 312 consulenze a 10,4 per partecipante; un unico percorso imposto sotto-servirebbe alcuni studenti.
 - **Rendere visibili confidenza e fonti.** Il filone "ricerca come apprendimento" del workshop si chiede quali processi cognitivi non debbano essere delegati e chiede interfacce che preservino i punti di decisione: un'[[scaffolding|impalcatura]] che i bibliotecari possono specificare a partire dal loro ordinario standard professionale di visibilità delle fonti.
 - **Prevedere un budget per il livello umano, non solo per il modello.** Le consulenze hanno ricevuto risposta in poche ore, su larga scala, perché il personale era instradato deliberatamente; presumere che gli studenti gestiscano da soli il giudizio di credibilità trasferisce quel costo alle persone meno attrezzate per sostenerlo.
+
+## Idee sbagliate comuni
+
+**"I bibliotecari sono periferici rispetto all'IA nell'educazione."** Hanno un ruolo specifico e verificabile, e il corpus lo misura. Su **312 consulenze (10,4 per partecipante)**, la valutazione delle fonti e della qualità rappresentava il **38,5%**, la formazione della strategia di ricerca il **29,2%**, la gestione delle citazioni il **18,6%** e la navigazione dell'archivio il **13,7%** — e il **73,4% riceveva risposta entro sei ore**. Non è un servizio periferico; è la funzione di alfabetizzazione informativa che si fa carico del lavoro che l'IA non riusciva a fare.
+
+**"La ricerca con l'IA risponde alle domande che gli studenti portavano un tempo al bibliotecario."** Nello studio sul bibliotecario integrato, **le domande di valutazione delle fonti hanno dominato le consulenze (38,5%) proprio nei casi in cui l'IA era meno sicura**. L'incertezza dello strumento instradava il lavoro verso la capacità umana in grado di risolverlo, il che rende lo schema osservato una divisione del lavoro anziché un'obsolescenza.
+
+**"L'alfabetizzazione informativa è una sessione di orientamento una tantum."** È istruzione, non assistenza: le domande con cui gli studenti arrivano sono problemi di valutazione e strategia — questa fonte è credibile, come cerco questo — che sono competenze insegnabili anziché transazioni da completare. Trattare il servizio come assistenza converte un curricolo in un helpdesk e perde la capacità durevole.
+
+**"Chi paga la verifica è un problema di qualcun altro."** Il carico delle consulenze ricade sull'organico della biblioteca, e la domanda del paper stesso è se chiedere alle biblioteche di sostenerlo ecceda il loro numero di persone. La co-progettazione e la partnership sono le risposte che la letteratura raccomanda proprio perché il costo della verifica è reale e ricade su un'unità che non lo ha messo a budget.
 
 ## Concetti collegati
 

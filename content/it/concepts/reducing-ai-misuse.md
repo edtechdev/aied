@@ -1,6 +1,7 @@
 ---
 title: Ridurre l'uso improprio dell'IA
 created: "2026-10-14T22:25:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,13 +10,17 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,6 +44,7 @@ Il concetto poggia sull'evidenza che l'uso improprio dell'IA danneggia attivamen
 ### Perché le leve strutturali contano di più
 
 Gli interventi possono essere ordinati secondo **evidenza causale × portata strutturale × scalabilità × [[sustainability|sostenibilità]]**. Su questa base, le due leve *strutturali* si collocano al vertice perché funzionano che gli studenti scelgano o meno il comportamento giusto — vincolano l'ambiente anziché dipendere dalla motivazione interna. Le leve *educative* sono essenziali ma efficaci solo quando gli studenti aderiscono, quindi sono trattate come secondo livello nonostante la loro promessa concettuale. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher e Calderon (2025)]] spingono l'argomentazione strutturale a un livello superiore, trattando la governance anziché il comportamento degli studenti come vincolo stringente e proponendo un quadro di indicatori di integrità di 130 voci, così che i responsabili dell'integrità accademica possano verificare se la valutazione è autentica, se gli studenti sono conosciuti individualmente dagli insegnanti che li valutano, e se l'integrità compare nell'induction e nell'orientamento. Le loro riforme puntano sulle architetture di governance, sulle persone e sulle [[ai-technologies|tecnologie e risorse]], e propongono di prendere in prestito il [[guardrails|red teaming]] dalla sicurezza informatica per esporre le vulnerabilità della valutazione prima che lo facciano gli studenti — un promemoria che la base strutturale è mantenuta da istituzioni che hanno bisogno sia dell'informazione sia della volontà di mantenerla.
+La letteratura sull'uso responsabile stessa raramente mette alla prova la catena che questa graduatoria presuppone. Di 122 record di approcci tratti da 31 studi, 51 erano sia implementati sia valutati, per lo più tramite autovalutazione, e solo quattro studi definivano un confine, progettavano un intervento attorno ad esso e verificavano se le decisioni degli studenti vi si allineassero ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega e Zhao (2026)]]).
 
 ### Livello 1 — Direttamente dimostrato nel ridurre il danno all'apprendimento
 
@@ -147,3 +153,4 @@ Le leve educative appaiono diverse ancora una volta che l'integrità è trattata
 - [[li-genai-assessment-language-equity-2026]] — Where language support ends and substitution begins for EAL writers (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection as a misuse vector against AI grading (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance as the binding constraint on integrity: a 130-item indicator framework (Coates, Croucher & Calderon 2025)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps

@@ -1,18 +1,23 @@
 ---
 title: Ricerca con metodi misti
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: "concepts/mixed-methods-research"
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -31,6 +36,8 @@ ai_assist:
 ## Introduzione
 
 I progetti con metodi misti integrano l'ampiezza, la precisione e il potere causale dei metodi quantitativi con la profondità, il contesto e il significato dei metodi qualitativi. La proposta di valore è la **triangolazione**: quando filoni indipendenti convergono sulla stessa conclusione, la fiducia aumenta; quando divergono, la discrepanza stessa è informativa.
+
+Su 394 studi sull'IA generativa nell'istruzione superiore, i metodi misti sono stati il disegno di ricerca più comune (213 studi, 54%), seguiti dal quantitativo (109, 28%) e dal qualitativo (72, 18%) ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
 ## Pattern di progetto comuni
 
@@ -54,10 +61,17 @@ I progetti con metodi misti integrano l'ampiezza, la precisione e il potere caus
 - **Punti di forza:** la triangolazione aumenta la fiducia; ampiezza quantitativa più profondità qualitativa; può spiegare risultati inattesi e collegare meccanismo e magnitudine; produce al tempo stesso effetti e significato; ben adatto a fenomeni complessi e contestuali dell'IA nell'educazione.
 - **Limiti:** complesso, dispendioso in risorse ed esigente dal punto di vista metodologico; l'integrazione può essere superficiale se i filoni sono meramente riportati uno accanto all'altro anziché genuinamente fusi; eredita comunque le debolezze di ciascun filone (ad esempio, il pregiudizio dell'auto-dichiarazione nelle indagini, la dipendenza dal ricercatore nei colloqui); richiede competenza in entrambe le tradizioni metodologiche.
 - **Un limite di clustering che vincola l'inferenza.** [[human-ai-collaboration-academic-writing-2026|Alshehri e colleghi (2026)]] assegnano due classi intatte (n = 31, n = 22), sicché con soli due cluster i test t riportati ignorano il nidificamento intra-classe e i modelli multilivello non sono stimabili, rendendo i test di significatività ottimistici rispetto a ciò che il progetto può sostenere.
+- **La scelta dello strumento può invertire un filone computazionale.** VADER e un RoBERTa sottoposto a fine-tuning hanno assegnato valenza opposta allo stesso post (0,9413 fortemente positivo con VADER, −0,9209 con RoBERTa), quindi la lettura quantitativa di un corpus può dipendere da quale classificatore si usa ([[bluesky-aied-discourse-social-media-analysis-2026|Geraili Meykola et al., 2026]]).
 
 ## Rapporto con il paesaggio metodologico più ampio
 
 I metodi misti si collocano tra le tradizioni [[quantitative-research|quantitativa]] e [[qualitative-research|qualitativa]], attingendo ai punti di forza di ciascuna e aggiungendo la disciplina di progetto dell'integrazione intenzionale. Sono una risposta metodologica al riconoscimento che i fenomeni dell'IA nell'educazione sono al tempo stesso efficaci e carichi di significato — e che il campo avanza più rapidamente quando ampiezza e profondità si combinano (vedi [[research-methods-aied|i metodi di ricerca sull'IA nell'educazione]]). Si collega alla [[educational-measurement|misurazione educativa]] (strumenti quantitativi), allo [[theory-development-aied|sviluppo della teoria nell'IA educativa]] (costruzione teorica qualitativa), e alla [[ai-ed-evaluation|valutazione dell'IA nell'educazione]] (integrazione di evidenza di esito e di esperienza).
+
+## Idee sbagliate comuni
+
+- **"I metodi misti sono una scelta di nicchia nella ricerca sull'IA in educazione."** Su **394 studi sull'IA generativa nell'istruzione superiore**, i metodi misti sono stati il **disegno di ricerca più comune (213 studi, 54%)**, seguiti dal quantitativo (109, 28%) e dal qualitativo (72, 18%). Il disegno dominante del campo non è quello che i suoi dibattiti metodologici presuppongono.
+- **"Evidenza osservativa e di colloquio può sostenere un'affermazione di sistema."** Abbinare l'osservazione del sistema e le discussioni con gli amministratori a una **valutazione randomizzata quadriennale di 8.708 studenti su otto semestri**, potenziata per rilevare effetti di **0,05 deviazioni standard**, mostra ciò che il filone qualitativo non può fare da solo: rilevare in modo affidabile un effetto piccolo. Mescolare i metodi non è un modo per trasferire potenza tra i filoni.
+- **"La triangolazione significa che due metodi deboli producono un'affermazione forte."** Il valore dell'abbinamento è che ciascun filone risponde a una domanda diversa. Un disegno che esegue entrambi e poi riporta il risultato qualitativo come conferma di quello quantitativo non ha triangolato, ha ripetuto.
 
 ## Concetti collegati
 
@@ -80,3 +94,4 @@ I metodi misti si collocano tra le tradizioni [[quantitative-research|quantitati
 - [[hazra-safetutors-pedagogical-safety-2026]] — La sicurezza dei tutor di IA e i danni pedagogici
 - [[becker-chatgpt-typology-physics-2026]] — Una tipologia qualitativa dell'adozione di ChatGPT in fisica
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[bluesky-aied-discourse-social-media-analysis-2026]] — VADER e un RoBERTa sottoposto a fine-tuning hanno assegnato valenza opposta allo stesso post di Bluesky (Geraili Meykola et al., 2026)

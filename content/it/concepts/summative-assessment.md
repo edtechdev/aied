@@ -1,6 +1,7 @@
 ---
 title: Valutazione sommativa
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -9,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -43,6 +48,7 @@ La ricerca della base di conoscenze documenta come l'IA generativa abbia rimodel
 - **La concordanza sugli esiti può sopravvivere a una correzione imprecisa dei singoli item.** Rispetto ai voti ufficiali moderati, un LLM multimodale che correggeva 10.364 pagine manoscritte delle Olimpiadi di Fisica e di esami universitari correlava a r = 0,93–0,96 e recuperava la stessa squadra internazionale di cinque studenti, sebbene la concordanza esatta sulle singole parti di quesito raggiungesse il 70% — un correttore va giudicato dalle decisioni che esso informa ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **L'IA come elusione.** Poiché l'IA generativa è in grado di produrre risposte a domande scritte, i compiti sommativi non sorvegliati e da svolgere a casa perdono validità: [[generative-ai-reduced-study-time-math|misure proctored e senza assistenza sono essenziali]] perché le prestazioni non sorvegliate risultano gonfiate dall'IA, e gli [[generative-ai-guardrails-harm-learning|strumenti con guardrail (suggerimento anziché risposta)]] possono eliminare la penalizzazione d'esame causata dall'IA priva di vincoli. Il quasi-esperimento di [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] su oltre 500.000 voti rende concreto il meccanismo: dopo il rilascio di ChatGPT, i corsi con una maggiore presenza di compiti esposti all'IA hanno visto la quota di voti A aumentare di 13 punti percentuali, e l'effetto si è concentrato nei **corsi a forte carico di compiti a casa** (ulteriori 16 pp nella stima a triple differenze) — prova diretta del fatto che i compiti a casa non sorvegliati, e non i reali [[learning-gains|guadagni di apprendimento]], sono il punto in cui l'IA gonfia gli esiti sommativi.
 - **Esami generati dall'IA.** [[assessing-quality-ai-generated-exams-field-2025|Un ampio studio sul campo]] e la [[ai-vs-human-assessment-efl-tpck-2026|ricerca sulla valutazione in EFL]] esaminano se l'IA possa *generare* esami e compiti di valutazione di alta qualità — un uso emergente dell'IA nella progettazione sommativa.
+- **Gli studenti non riconoscono in modo affidabile gli item scritti dall'IA.** In un esame accreditato di medicina di famiglia, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] non hanno trovato alcuna differenza significativa nell'attribuzione della fonte tra 30 item a scelta multipla generati dall'IA e 30 item di esame di abilitazione, con un riconoscimento corretto medio dal 68,6 al 77,5 per cento, e il 18,2 per cento degli item generati eliminato in [[human-in-the-loop-ai|revisione umana]].
 
 ## Formati sommativi resistenti all'IA
 
@@ -66,9 +72,15 @@ La letteratura sulla valutazione della base di conoscenze sottolinea costantemen
 - **Il formato sommativo è una leva di validità e integrità:** i formati sommativi resistenti all'IA (orale, sorvegliato, a libro chiuso, in presenza) preservano il legame tra prestazione valutata e apprendimento effettivo.
 - **Le misure sorvegliate e senza assistenza sono il segnale affidabile:** quando gli studenti usano l'IA, sono gli esami sommativi senza assistenza — e non i compiti a casa — a rivelare l'apprendimento genuino.
 - **La correzione automatica richiede un esame psicometrico:** usare gli LLM per correggere esami ad alto impatto richiede una valutazione di affidabilità, equità e validità, e non soltanto di accuratezza.
- Gli errori di correzione sono inoltre dipendenti dal voto: su 32 elaborati di esami di sanità pubblica, gli LLM evitavano gli estremi della scala — nessun E o F compariva in modalità rapida — mentre il modello migliore coincideva esattamente con il voto umano nel 50,0% dei casi e si manteneva entro ±1 voto nel 90,6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- Gli errori di correzione sono inoltre dipendenti dal voto: su 32 elaborati di esami di sanità pubblica, gli LLM evitavano gli estremi della scala — nessun E o F compariva in modalità rapida — mentre il modello migliore coincideva esattamente con il voto umano nel 50,0% dei casi e si manteneva entro ±1 voto nel 90,6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **L'IA può anche generare esami:** la generazione di esami e compiti assistita dall'IA è un'applicazione emergente nella progettazione sommativa che richiede essa stessa una valutazione della qualità.
 - **Riconsiderare lo scopo della valutazione, non solo il formato.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] criticano la valutazione sommativa tradizionale basata sulla norma per aver incoraggiato un apprendimento superficiale e frammentato, aver offerto agli studenti scarso controllo e scarsa trasparenza, aver danneggiato la [[motivation|motivazione]] intrinseca, alimentato lo stress e l'[[well-being|ansia]] e perpetuato le disuguaglianze, valutando in larga misura la rievocazione anziché l'applicazione a problemi reali. Essi propongono la ripetizione della valutazione, la [[mastery-learning|valutazione basata su standard]] e la pratica dell'ungrading come innovazioni incentrati sulla valutazione in grado di attenuare una pratica eccessivamente sommative, pur riconoscendo che queste restano marginali nella formazione manageriale a causa di barriere normative — la distribuzione dei voti a campana, la segnalazione esterna (classifiche, tirocini, accreditamento) e la mentalità strumentale degli studenti — e raccomandano una sperimentazione incrementale con il supporto dell'istituzione.
+
+## Idee sbagliate comuni
+
+- **"Un LLM non può correggere secondo gli standard ufficiali."** Rispetto ai **voti ufficiali moderati**, un LLM multimodale che correggeva **10.364 pagine manoscritte** delle Olimpiadi di Fisica e di esami universitari correlava fortemente. La concordanza sugli esiti può sopravvivere a una correzione imprecisa dei singoli item — il che significa che la domanda utile è dove la precisione a livello di item sia davvero richiesta.
+- **"L'inflazione dei voti dovuta all'IA è speculazione."** Il quasi-esperimento di [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] su **oltre 500.000 voti** rende concreto il meccanismo: dopo il rilascio di ChatGPT, **i corsi con più compiti esposti all'IA hanno visto crescere la quota di voti alti**. L'effetto si è concentrato dove i compiti erano esposti, che è lo schema che un meccanismo predirebbe.
+- **"Gli studenti che usano l'IA non si distinguono da chi non la usa, quindi la provenienza è un vicolo cieco."** Il risultato che **non c'era alcuna differenza significativa nell'attribuzione della fonte** tra item generati dall'IA e item di esame di abilitazione, con un riconoscimento corretto del **68,6-77,5 per cento** e un tasso di attribuzione errata del **18,2 per cento**, riguarda il fallimento del riconoscimento — non l'inutilità della provenienza. Semmai alza il requisito di una provenienza verificata.
 
 ## Concetti collegati
 
@@ -109,3 +121,4 @@ La letteratura sulla valutazione della base di conoscenze sottolinea costantemen
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students cannot reliably tell AI-drafted items from licensing-exam items (Vogt et al. 2026)

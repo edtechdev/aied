@@ -1,6 +1,7 @@
 ---
 title: Conoscenze pregresse
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T07:30:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -14,6 +15,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -60,6 +65,16 @@ L'IA generativa ha reso le conoscenze pregresse una considerazione centrale di d
 2. **Modella lo stato di conoscenze pregresse dello studente.** Costruisci la modellazione dello studente e l'adattamento sulle conoscenze pregresse stimate (e sui loro misconcepimenti), non su un'assunta uniformità, per rendere la personalizzazione genuinamente responsiva.
 3. **Porta alla luce e affronta i misconcepimenti.** Quando le conoscenze pregresse sono errate, interferiranno; l'istruzione dovrebbe elicitare e correggere i misconcepimenti anziché aggiungere nuovi contenuti sopra fondamenta difettose.
 4. **Pesa il compromesso sull'attrito.** Attivare le conoscenze pregresse aggiunge una difficoltà desiderabile (recupero, integrazione) che le impostazioni predefinite dell'IA di rimozione dell'attrito tendono a cancellare — una tensione da gestire deliberatamente anziché lasciare che l'automazione la risolva per default.
+
+## Idee sbagliate comuni
+
+**«Le conoscenze pregresse predicono chi svolge il lavoro cognitivo.»** Predicono gli esiti più affidabilmente di quanto predicano il comportamento. In uno studio di cinque giorni sull'apprendimento mediante insegnamento con **23 tutor di scuola media**, i punteggi dei test precedenti **non** predicevano la quota di risposte di costruzione della conoscenza prodotta da un tutor, e i tutor con conoscenze pregresse basse lavoravano a costruire conoscenza anziché ripiegare su un impegno minore. Chi si impegna nella lotta produttiva non è semplicemente chi arriva sapendo di più.
+
+**«Lo scaricamento è un tratto stabile dello studente, quindi lo stesso studente scarica la stessa quantità ovunque.»** Segue le conoscenze pregresse dentro il compito. In uno studio sulla scrittura per sintesi, il **cluster ad alta conoscenza e scaricamento minimo ha prodotto l'80% del proprio saggio contro il 2% del cluster con scaricamento più pesante**. Lo scaricamento è quindi in larga misura una risposta a ciò che lo studente già possiede e a ciò che il compito richiede, il che lo rende una variabile di progettazione anziché un tratto di carattere.
+
+**«Gli studenti con meno conoscenze pregresse hanno bisogno di più supporto dall'IA.»** È la direzione più probabile per ampliare il divario, poiché il pattern di scaricamento misurato concentra la perdita di autorialità dove le conoscenze pregresse sono più sottili. Un supporto che fornisce il lavoro allo studente meno attrezzato per rilevare la sostituzione rimuove l'attività che costruirebbe la conoscenza mancante.
+
+**«Le conoscenze pregresse sono un input fisso che il corso non può muovere.»** Sono il fattore più pesantemente ponderato nel nuovo apprendimento, il che rende costruirle il compito a massima leva anziché una condizione di sfondo — la ragione per cui la conoscenza di dominio è l'intervento in sé, non solo la covariata.
 
 ## Concetti collegati
 

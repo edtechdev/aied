@@ -1,18 +1,23 @@
 ---
 title: Tecnologie
 created: "2026-10-14T21:57:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: "concepts/ai-technologies"
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +68,16 @@ Il filone tecnico è inseparabile dagli altri temi della knowledge base:
 - **Scegliere la tecnologia per intento pedagogico:** il sistema e la tecnica di IA dovrebbero seguire la [[pedagogy|strategia di insegnamento]], non il contrario.
 - **Valutare lo strato tecnico:** la ricerca su [[ai-ed-evaluation]] e i [[benchmark|benchmark]] valuta i sistemi di IA su affidabilità, pedagogia ed [[equity-in-ai-education|equità]], non solo sull'accuratezza principale.
 - **Robot e agenti fanno parte dello stack:** i sistemi [[educational-robotics|incarnati]] e [[agentic-ai|agentici]] estendono il repertorio tecnico oltre il testo — e portano le proprie considerazioni di design e sicurezza.
+
+## Idee sbagliate comuni
+
+**«Il modello è tutta la storia.»** Tecniche come la generazione aumentata da recupero e il prompt engineering esistono proprio per controllare e fondare l'output di un LLM, e l'architettura attorno al modello determina spesso se è utilizzabile in classe. Due sistemi sullo stesso modello possono differire del tutto in affidabilità per ciò che li circonda.
+
+**«La maturità tecnica del campo è accertata.»** La mappatura è sottile dove conta: su **474 studi**, i modelli serie-GPT e LangChain erano dominanti mentre **l'orchestrazione di strumenti governata, la memoria persistente e la pianificazione a lungo orizzonte erano largamente assenti**, e solo **138 su 474 (29%)** attingevano a teoria educativa. Lo stack in uso è molto più ristretto dello stack di cui il campo ha bisogno.
+
+**«Le scelte tecniche sono affare del tecnologo, non dell'educatore.»** L'inquadramento di questa pagina è che si può essere educatori eccellenti senza saper costruire un LLM, e le proprie scelte tecniche continuano a plasmare ciò che l'IA può e non può fare nella propria classe. Se un sistema fonda le sue risposte nel materiale del corso è una decisione con conseguenze pedagogiche che qualcuno deve prendere.
+
+**«Un modello più capace risolverà le lacune del campo.»** Orchestrazione, memoria e pianificazione a lungo orizzonte sono problemi architetturali anziché di capacità — l'assenza documentata è di sistemi che governano il proprio uso di strumenti nel tempo, cosa che un modello migliore non fornisce da solo.
 
 ## Concetti collegati
 

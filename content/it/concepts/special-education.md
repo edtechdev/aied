@@ -1,6 +1,7 @@
 ---
 title: Istruzione speciale
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_resources: [teacherserver]
 type: concept
 foundations: [ai-education]
@@ -9,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,9 @@ L'istruzione speciale è un dominio in cui la capacità dell'IA di personalizzar
 **Offloading cognitivo per studenti con disturbi dell'apprendimento (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], una revisione concettuale in una serie speciale di *Learning Disability Quarterly* sull'IA per studenti con LD, reinquadrano l'uso dell'[[generative-ai|IA generativa]] per gli SWLD attraverso la lente del [[cognitive-offloading]]. Sostengono che l'IA generativa può essere un **aiuto compensativo o una scorciatoia** a seconda di come le decisioni di offloading interagiscono con i profili cognitivi e [[motivation|motivazionali]] degli SWLD (sfide nelle funzioni esecutive e nella memoria di lavoro, carico cognitivo accresciuto, obiettivi di performance che evitano lo sforzo, minore autoefficacia accademica e aspettative gonfiate verso l'IA generativa) e con la progettazione didattica. Per lettura e scrittura, l'IA generativa può sostenere l'accesso con uno scaffold (adeguamento del livello del testo, sintesi, output [[multimodal]], pianificazione, stesura, feedback di revisione) preservando al tempo stesso l'[[student-engagement|impegno]] di ordine superiore — ma un offloading eccessivo rischia di bypassare i processi di comprensione, pianificazione e monitoraggio che sono già fragili per questi apprendenti, favorendo la "pigrizia [[metacognition|metacognitiva]]" e aggravando le difficoltà di alfabetizzazione tra i domini. L'articolo posiziona le **[[guardrails|protezioni didattiche]]** come fattore moderante chiave e raccomanda di [[teacher-role|insegnare]] l'offloading strategico, costruire l'[[ai-literacy]] per calibrare la fiducia negli strumenti, sequenziare le esperienze di padronanza per costruire l'[[self-efficacy]], e allineare compiti e valutazione agli obiettivi IEP che privilegiano lo sviluppo delle competenze sulla sostituzione. Questo estende la copertura dell'istruzione speciale nella knowledge base alla dimensione di equità dell'offloading: lo stesso strumento che abbassa le barriere all'accesso può, se non sorvegliato, sostituirsi alla pratica di cui gli SWLD hanno più bisogno.
 **I contenuti di intervento generati dall'IA necessitano di controlli prima della generazione, non solo di revisione.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] hanno rilevato che i professionisti hanno valutato lo strumento Social Story co-progettato altamente usabile (SUS 86,8) eppure ne hanno definito le immagini genericamente occidentali e il suo tracciatore di comportamenti disallineato dal giudizio clinico legato agli obiettivi — vincoli che avrebbero impostato prima della generazione.
 
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] parte dai materiali anziché dalla conversazione: un modello visione-linguaggio legge le fotografie di Shoebox Tasks — progettati in modo che l'obiettivo sia visibile negli oggetti — e le trasforma in un piano che un robot umanoide Nao esegue o dimostra, riportando l'accuratezza del piano su sei compiti e nessun dato sugli studenti.
+- **Il comportamento di sfida è il punto in cui i benchmark dei tutor si fermano.** Su 923 dialoghi ancorati a casi tratti dalla letteratura di istruzione speciale e di psicologia dell'educazione, il migliore di 11 modelli soddisfaceva un intervento documentato nel 55,8% dei casi aperti e nel 43,3% dei piani a lungo termine ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
+
 ## Implicazioni per gli insegnanti di istruzione speciale
 
 - **Co-progettare l'IA con gli studenti di riferimento e la comunità.** La [[llm-question-generation-deaf-hard-of-hearing-2026|generazione di domande per studenti sordi/con problemi di udito]] mostra il valore del raffinamento iterativo dell'IA con la comunità per colmare il divario tra i prompt testuali e le prime lingue basate sulla lingua dei segni — coinvolgete chi apprende e le sue comunità nella progettazione anziché presumere che l'IA si adatti a loro.
@@ -56,6 +64,12 @@ L'istruzione speciale è un dominio in cui la capacità dell'IA di personalizzar
 - **Usare l'IA per ridurre (non allargare) i divari di performance.** I [[adhd-video-segmentation-computing-education|video segmentati dall'IA]] hanno eliminato il divario di performance nell'ADHD — impiegate l'IA adattiva dove l'evidenza mostra che equalizza gli esiti, non dove si limita ad automatizzare.
 - **Centrare il design incarnato guidato dalla disabilità.** La ricerca sui [[embodied-string-learning-blindness-low-vision-musicians|musicisti ciechi/ipovedenti]] mostra che le strategie non visive guidate dalla disabilità superano le interfacce visive predefinite — costruite e adattate l'IA con le competenze degli studenti disabili.
 - **Guardarsi dall'emarginazione epistemica.** Le [[genai-minoritized-knowledges-disability|prospettive critiche]] avvertono che i dati di addestramento occidentocentrici possono emarginare la conoscenza centrata sulla disabilità — verificate contenuti e strumenti di IA per la giustizia epistemica insieme all'[[equity-in-ai-education]].
+
+## Idee sbagliate comuni
+
+- **"I giudizi di usabilità validano uno strumento assistivo."** I professionisti hanno valutato uno strumento Social Story co-progettato **altamente usabile (SUS 86,8)** eppure ne hanno definito le **immagini genericamente occidentali** e il **tracciatore di comportamenti disallineato dal giudizio clinico legato agli obiettivi**. Un'usabilità alta coesisteva con fallimenti sostanziali, quindi un punteggio SUS non è un avallo di adeguatezza.
+- **"I benchmark generici ti dicono come un tutor gestisce i casi di istruzione speciale."** Su **923 dialoghi ancorati a casi** tratti dalla letteratura di istruzione speciale e di psicologia dell'educazione, **il migliore di 11 modelli** soddisfaceva un criterio documentato — e **il comportamento di sfida è il punto in cui i benchmark dei tutor si fermano**. Le valutazioni standard non raggiungono i casi in cui i professionisti hanno più bisogno di aiuto.
+- **"Chi apprende neurodivergente ha bisogno di accomodamenti, non di requisiti di progettazione."** [[neurodivergent-computing-students|Zastudil et al.]] hanno rilevato che gli studenti neurodivergenti di informatica hanno bisogno di **compiti strutturati, team piccoli e stabili e definizioni di ruolo esplicite** — requisiti generali di progettazione che avvantaggiano tutti, non aggiustamenti individuali concessi dopo la diagnosi.
 
 ## Concetti collegati
 - [[differential-effects-across-learner-groups]]
@@ -73,6 +87,7 @@ L'istruzione speciale è un dominio in cui la capacità dell'IA di personalizzar
 - [[discipline-specific-aied]]
 
 ## Articoli collegati
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: evaluating LLM tutors on students with challenging behaviors (Park et al. 2026)
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
@@ -83,3 +98,4 @@ L'istruzione speciale è un dominio in cui la capacità dell'IA di personalizzar
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — A vision-language model plans Shoebox Tasks for a Nao robot (Kudláčková 2026)

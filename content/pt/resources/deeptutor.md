@@ -43,7 +43,7 @@ Instrutores e pesquisadores do ensino superior que querem uma versão implantáv
 
 ## Observações
 
-Licenciado sob Apache 2.0, na versão 1.6.9 em setembro de 2026, com cerca de 40.000 estrelas no GitHub. A avaliação publicada por trás dele — 10,8% de melhoria média em métricas personalizadas sobre baselines fortes e 29,4% de raciocínio agentivo geral mais forte em cinco modelos de backbone, no benchmark TutorBench — está resumida em [[deeptutor|a página do artigo]], cujas limitações valem aqui também. Como em qualquer pilha de IA open-source, você fornece as chaves dos provedores de modelo, e uma implantação em desktop ou servidor espera Python 3.11 e Node.
+Licenciado sob Apache 2.0, na versão 1.6.9 em setembro de 2026, com cerca de 40.000 estrelas no GitHub. A avaliação publicada por trás dele — 10,8% de melhoria média em métricas personalizadas sobre baselines fortes e 29,4% de raciocínio agentivo geral mais forte em cinco modelos de backbone, no benchmark TutorBench — está resumida em [[zhao-deeptutor-agentic-personalized-tutoring-2026|a página do artigo]], cujas limitações valem aqui também. Como em qualquer pilha de IA open-source, você fornece as chaves dos provedores de modelo, e uma implantação em desktop ou servidor espera Python 3.11 e Node.
 
 ## Conceitos conectados
 [[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

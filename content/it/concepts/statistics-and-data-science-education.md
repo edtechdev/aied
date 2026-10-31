@@ -8,15 +8,19 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:55:14-04:00"
-updated: "2026-10-27T03:55:14-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-10-26T14:15:00-04:00"
+source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-26"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Sviluppo della teoria nell'IA nell'educazione
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -9,13 +10,17 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -35,6 +40,7 @@ ai_assist:
 ## Introduzione
 
 Lo sviluppo della teoria in AIEd si colloca al confine tra le [[learning-theories|teorie dell'apprendimento]] applicate su cui il campo si fonda e i nuovi costrutti che l'era dell'IA sta producendo. Laddove le [[learning-theories|teorie dell'apprendimento]] catalogano le teorie consolidate applicate all'IA (comportamentismo, costruttivismo, carico cognitivo, autodeterminazione, ecc.), questo concetto segue il *processo e il prodotto della teorizzazione stessa*: quali nuove teorie e quadri di riferimento stanno nascendo, come le teorie consolidate vengono fatte avanzare, e la questione metodologica se la ricerca in AIEd teorizzi bene.
+- **Un quadro che specifica la propria condizione di confronto.** Nakamura (2026) tratta la partizione del lavoro cognitivo come unità esplicativa, colloca le operazioni su un continuum graduato tra periferico e costitutivo, nomina la condizione di confronto rispetto alla quale aumento ed erosione sono definiti, e ne deriva sette proposizioni verificabili e condizionate ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Poiché le proposizioni predicono differenze tra configurazioni, uno studio che riporta solo un effetto medio non può confermarle né confutarle.
 
 ## Nuove teorie dell'apprendimento con l'IA
 
@@ -52,6 +58,7 @@ La posizione sintetica aggiunge una candidatura rivale che enuncia invece propos
 La teorizzazione dal lato dell'insegnante fa ora lo stesso impegno di verificabilità: il Capability–Decision Model colloca la capacità [[tpack|AI-TPACK]] a monte dell'atteggiamento e del controllo comportamentale percepito e nomina quattro condizioni di disconferma — fallimento della mediazione, collasso discriminante, nullità della moderazione e ridondanza del contesto — sebbene il modello resti non verificato ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 - **Co-agentività epistemica.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] costruisce "verso una teoria della co-agentività epistemica", un modello informato dalla teoria su come studenti e sistemi GenAI producono congiuntamente conoscenza e comprensione.
+- **Ciclo di partnership cognitiva.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] propone il Cognitive Partnership Cycle, un modello ricorsivo a sei fasi — Domanda umana, Espansione dell'IA, Riflessione umana, Integrazione, Revisione e Nuova domanda — che colloca l'apprendimento in un cambiamento della posizione cognitiva del discente anziché nella sofisticazione del prompt, e nomina quattro modalità di fallimento in cui la stessa ricorsione sostituisce o distorce il pensiero.
 - **La linea di base cognitiva assente (ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] teorizza un divario strutturale nell'autovalutazione accademica degli studenti nativi digitali con l'IA — un quadro a tre dimensioni che spiega perché gli studenti sovrastimino il proprio apprendimento quando l'IA gonfia la performance.
 - **Il commons cognitivo.** [[cognitive-commons-ai-expertise-regeneration|Commons cognitivo e rigenerazione dell'expertise]] attinge alla teoria delle risorse comuni e alla [[distributed-cognition|cognizione distribuita]] per spiegare come decisioni razionali di adozione dell'IA possano depauperare il bacino di expertise condiviso di cui le professioni hanno bisogno per rinnovarsi.
 - **Performance vs. apprendimento.** [[genai-performance-vs-learning|Performance-vs-learning]] teorizza la netta divergenza tra performance nei compiti gonfiata dall'IA e apprendimento duraturo, una distinzione che ricorre nelle evidenze della knowledge base sugli [[learning-gains|guadagni di apprendimento]].
@@ -70,6 +77,10 @@ Altri lavori estendono la teoria esistente nel contesto dell'IA anziché fondare
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin e Chang (2026)]] estendono l'[[self-regulated-learning|apprendimento autoregolato]] e la regolazione umano–IA nominando ciò che lo studente governa — standard, giudizi valutativi e autorizzazione del controllo — anziché solo ciò che l'IA fa.
 
+Il paradosso dell'attrito offre un'altra estensione di una teoria consolidata: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] applica le [[desirable-difficulties|difficoltà desiderabili]] di Bjork e Bjork e il [[productive-failure|fallimento produttivo]] di Kapur agli incontri relazionali nell'educazione all'estero, sostenendo che ciò che conta è quanta agenzia interpretativa uno studente [[transfer-of-learning|trasferisce]] a un assistente generativo, non quanto spesso lo usi. Il quadro è concettuale ed enuncia cinque proposizioni come ipotesi concorrenti.
+
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri e Biagini (2026)]] fanno avanzare la tassonomia funzionale del campo di Zawacki-Richter et al. (2019): tra le 154 pubblicazioni con una funzione applicativa classificabile, 90 (58,4%) sfuggivano alle sue quattro categorie, e il loro quadro incrocia la funzione con il controllo delegato, la posizione epistemica e la pedagogia incorporata.
+
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren e Stamper (2026)]] fanno avanzare ACT-R e il quadro Knowledge-Learning-Instruction teorizzando la *sovrageneralizzazione ingannevole* — una modalità di fallimento in cui la compilazione della conoscenza produce una produzione sovrageneralizzata che genera azioni corrette omettendo un vincolo applicativo critico — e validando empiricamente una procedura di rilevamento/rimedio su sistemi ITS adattivi e su un dataset di apprendimento dei decimali in [[k-12|K-12]].
 
 **Postfenomenologia e mediazione tecnologica.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] fanno avanzare il quadro postfenomenologico consolidato della mediazione tecnologica (Ihde 1990; Verbeek 2006, 2011; Rosenberger & Verbeek 2015) nel contesto dell'educazione con l'IA. Anziché proporre una nuova teoria, lo applicano per riconcettualizzare i [[conversational-ai|chatbot]] GAI come *artefatti tecnologici multistabili* i cui "script" (rapidità di risposta, testo dal suono naturale in grado di ottenere voti sufficienti) mediano le percezioni degli insegnanti e riconfigurano le loro pratiche — destabilizzando la fiducia degli insegnanti, rimodellando ciò che significa competenza, e spingendo gli insegnanti oltre le domande strumentali sull'uso accettabile verso una rivalutazione del proprio ruolo e del significato dell'insegnamento. Questo è un contributo di *avanzamento* della teoria: dimostra come un resoconto filosofico delle relazioni umano–tecnologia spieghi il disagio emotivo e professionale che gli insegnanti sperimentano quando GAI entra in una pratica educativa consolidata.
@@ -85,6 +96,32 @@ La teorizzazione del campo è diseguale. [[limitations-in-aied-research|I limiti
 ## Relazione con la filosofia dell'IA nell'educazione
 
 Lo sviluppo della teoria e [[philosophy-of-ai-in-education|la filosofia dell'IA nell'educazione]] sono filoni complementari ma distinti del lavoro fondativo della knowledge base. **Lo sviluppo della teoria** produce e verifica empiricamente i *meccanismi* dell'apprendimento-con-IA — teorie e quadri di riferimento nominati come il generativismo, la co-agentività epistemica e la linea di base cognitiva assente che spiegano e prevedono come studenti e IA interagiscono. **La filosofia** interroga le *presupposizioni* su cui quei meccanismi poggiano: cosa conta come conoscenza, chi conta come conoscente, e cosa lo studente fondamentalmente è. Una teoria come [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|la co-agentività epistemica]] propone un meccanismo adottando implicitamente impegni filosofici sulla cognizione distribuita e sull'[[agency|agentività]]; la filosofia rende quegli impegni espliciti e contestabili. Laddove lo sviluppo della teoria chiede se un quadro di riferimento spieghi bene l'apprendimento, la filosofia chiede se colga ciò che apprendimento e mente realmente sono — i due filoni si incontrano negli articoli più fondativi del campo, che spesso fanno entrambe le cose allo stesso tempo.
+
+## Idee sbagliate comuni
+
+**"Un risultato che dimostra che lo strumento ha funzionato è un contributo teorico."** Non lo è, e la ragione è strutturale. Laddove le proposizioni di un quadro predicono *differenze tra configurazioni*, uno studio che riporta solo un effetto medio **non può confermarle né confutarle** — il disegno non vede la distinzione di cui la teoria parla. Una sperimentazione che mostra un guadagno medio dice che qualcosa è accaduto, non quale meccanismo lo ha causato, quindi la teoria resta esattamente tanto sostenuta quanto lo era prima.
+
+**"Applicare una teoria consolidata all'IA è sviluppo della teoria."** Il problema dell'uso della teoria che questa pagina stessa documenta dice il contrario: l'applicazione non è avanzamento, e il modello ricorrente del campo è quello di costrutti presi in prestito usati come vocabolario anziché come predizioni verificabili. La distinzione conta perché un quadro preso in prestito che non riesce a generare una differenza falsificabile è decorazione, non teoria.
+
+**"Le tassonomie esistenti della funzione pedagogica dell'IA coprono già ciò che questi sistemi fanno."** Non ne coprono gran parte. Tra 154 pubblicazioni con una funzione applicativa classificabile, **90 (58,4%) sfuggivano alle quattro categorie** del quadro precedente, ed è per questo che il lavoro più recente incrocia la funzione con il controllo delegato, la posizione epistemica e la pedagogia incorporata. Una tassonomia che classifica male quasi tre casi su cinque non può servire come vocabolario comune del campo, e quel divario è un risultato sul fenomeno, non una lacuna di un articolo.
+
+## Implicazioni per la pratica
+
+**Per insegnanti e progettisti didattici**
+
+- Quando uno studio riporta un effetto medio, non trattarlo come un'indicazione sulla *tua* configurazione. Le affermazioni a livello teorico riguardano differenze tra configurazioni, e una media non ti dice quale stai mettendo in atto.
+- Chiedi di qualsiasi quadro tu adotti se predice qualcosa che potrebbe rivelarsi falso nel tuo contesto. Se non ci riesce, non ti aiuterà a decidere nulla.
+- Aspettati che le categorie esistenti manchino il tuo caso; oltre la metà delle pubblicazioni classificate non entrava nella suddivisione standard in quattro.
+
+**Per gli sviluppatori**
+
+- Riporta configurazioni anziché un unico effetto di punta. Se il tuo progetto incarna una specifica combinazione di controllo delegato e postura epistemica, dillo — è l'unità di cui la teoria parla e l'unità che un altro gruppo deve poter riprodurre.
+- Non promuovere un'affermazione sul meccanismo sulla forza di un esito medio; il tipo di evidenza richiesto per il meccanismo è un contrasto, non una media.
+
+**Per i ricercatori**
+
+- Progetta contrasti tra configurazioni se intendi dare un contributo teorico. Una sperimentazione a effetto medio pubblicata come sviluppo della teoria è l'output più comune e meno utile del campo.
+- Allega proposizioni falsificabili esplicite a qualsiasi quadro tu introduca, e riporta quali differenze tra configurazioni le avrebbero confutate.
 
 ## Concetti collegati
 
@@ -104,6 +141,7 @@ Lo sviluppo della teoria e [[philosophy-of-ai-in-education|la filosofia dell'IA 
 
 ## Articoli collegati
 
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Estendere la tassonomia funzionale: 90 delle 154 pubblicazioni classificabili (58,4%) cadono fuori dalle quattro categorie originali (Ranieri e Biagini 2026)
 - [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
@@ -131,4 +169,6 @@ Lo sviluppo della teoria e [[philosophy-of-ai-in-education|la filosofia dell'IA 
 
 - [[synthetic-position-self-authorship-2026]] — The synthetic position: a dialogical-self bid naming synthetic promotion and authorial suspension with a crossover prediction
 - [[capability-decision-model-teacher-readiness-2026]] — Falsifiable capability-first teacher readiness model with four disconfirmation conditions
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — Ciclo di partnership cognitiva
+- [[friction-paradox-generative-ai-education-abroad-2026]] — Difficoltà desiderabili e fallimento produttivo applicati all'agenzia interpretativa nell'educazione all'estero
 - [[ai-connectedness-adolescent-mental-health-2026]] — Artificial intelligence connectedness: a three-dimensional construct with six falsifiable propositions for later testing

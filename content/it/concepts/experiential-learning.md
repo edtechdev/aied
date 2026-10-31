@@ -6,13 +6,18 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,6 +43,7 @@ L'apprendimento esperienziale è strettamente connesso all'[[active-learning|app
 - **Progetti di robotica:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] usa un approccio pratico basato su progetti per insegnare robotica, affrontando la mancanza di esperienza pratica nei programmi classici.
 - **Simulazione e apprendimento incarnato:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] permette ai principianti di sperimentare con robot simulati, e l'interazione [[embodied-learning|incarnata]] con i robot radica l'apprendimento nell'esperienza diretta.
 
+- **Un laboratorio virtuale può superare quello fisico quando l'apparato non è il punto.** Studenti di terza superiore sulla legge di Ohm hanno ottenuto 23,45, 20,51 e 16,57 su 30 nel laboratorio virtuale assistito dall'IA, nello stesso laboratorio senza IA e nel laboratorio fisico, con ogni coppia significativa ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li e Ahmad (2026)]]); gli autori ammettono che lo svantaggio del laboratorio fisico può ridursi là dove maneggiare l'apparato è esso stesso l'obiettivo.
 - **L'IA come infrastruttura per l'incertezza, non per l'efficienza.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] affidano a un ruolo di IA generativa il compito di generare eventi dirompenti e conseguenze a cascata in una simulazione aziendale, così che i team rivedano i piani sotto informazione incompleta, e avvertono che le simulazioni protette possono lasciare abitudini decisionali che diventano un passivo fuori dalla classe.
 
 ### Due forme di apprendimento pratico in un curriculum supportato dall'IA
@@ -57,6 +63,33 @@ educativo. Coerentemente con ciò, il solo [[prompt-engineering|prompting]] non 
 L'apprendimento esperienziale si collega all'[[active-learning|apprendimento attivo]], all'[[project-based-learning|apprendimento basato su progetti]], all'[[embodied-learning|apprendimento incarnato]], alla [[simulation|simulazione]], all'[[educational-robotics|robotica educativa]] e alla preparazione professionale per l'[[higher-ed|istruzione superiore]].
 
 L'esperienza integrata nel lavoro può essere la condizione vincolante per la competenza avanzata: su 89 progetti di tirocinio sponsorizzati in un laboratorio di produzione intelligente, il passaggio dal Livello di Prontezza al Lavoro 6 al 7 era condizionato dai tirocini inseriti nell'industria anziché da corsi aggiuntivi ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+## Idee sbagliate comuni
+
+**"L'apprendimento esperienziale significa attività pratica."** L'attività è la superficie; il meccanismo di apprendimento è il ciclo di fare, riflettere, concettualizzare e verificare. Una sessione di laboratorio senza riflessione strutturata produce familiarità anziché cambiamento concettuale, ed è per questo che "abbiamo aggiunto una componente pratica" non è evidenza di apprendimento esperienziale.
+
+**"L'IA può sostituire l'esperienza nell'apprendimento esperienziale."** Può simulare alcuni sistemi e non può fornire l'esperienza che forma la competenza in domini applicati come l'IA, la cybersecurity e la robotica, dove gli studenti sviluppano abilità lavorando con gli strumenti e i sistemi reali. Un ambiente di sicurezza simulato insegna la procedura; un sistema funzionante insegna la conseguenza di una configurazione errata.
+
+**"Più compiti autentici sono senz'altro meglio."** L'autenticità alza insieme il valore di trasferimento e il problema della valutazione: i sistemi reali producono evidenze variabili e difficili da valutare, e più il compito è autentico meno l'esito somiglia a un punteggio. Il design deve tenere entrambe le cose, ed è per questo che la struttura di riflessione pesa quanto il compito.
+
+**"Il tutoring IA si adatta all'apprendimento esperienziale come si adatta ai contenuti frontali."** L'adattamento è più debole, perché un tutor può fornire spiegazioni e non può fornire l'incontro con il sistema. Il suo posto naturale in questa pedagogia è attorno alle fasi di riflessione e concettualizzazione, dove chi apprende dà senso a ciò che è accaduto — non al posto del fare. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generano l'incontro anziché sceneggiarlo: a partire dagli obiettivi di chi apprende, GELLI costruisce scene situate con personaggi, supporto e riflessione a runtime, e in uno studio within-subjects con 40 studenti giapponesi ha superato i video scritti da esperti sul richiamo lessicale (d = 0,45) e sulla fiducia (d = 0,45) ma non sul parlato.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Struttura il ciclo anziché l'attività: fare, poi riflettere, poi concettualizzare, poi verificare in una situazione nuova. Una sessione che si ferma dopo il fare ha prodotto familiarità, non apprendimento.
+- Aggiungi la componente pratica dove il concetto è astratto e rimuovila dove il pratico è diventato l'intero corso. Il fare è un mezzo con un costo in tempo e un beneficio in trasferimento, e il rapporto è una decisione di design.
+- Riserva l'IA alla fase di riflessione, dove chi apprende dà senso a ciò che è accaduto.
+
+**Per gli sviluppatori**
+
+- Costruisci prompt di riflessione e una registrazione di ciò che chi apprende ha fatto, così che la fase di costruzione di senso abbia materiale e l'evidenza sia verificabile.
+- Non presentare una simulazione come sostituto dell'operare su un sistema reale in domini dove la conseguenza dell'errore è il curriculum.
+
+**Per i progettisti di programmi**
+
+- Verifica che i programmi applicati contengano lavoro applicato anziché proxy di laboratorio; l'affermazione di trasferimento poggia sull'autenticità dell'incontro.
 
 ## Concetti collegati
 - [[active-learning]]
@@ -81,4 +114,7 @@ L'esperienza integrata nel lavoro può essere la condizione vincolante per la co
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[ai-personas-fieldwork-experiential-learning-2026]] — AI personas substituting for community fieldwork, with a five-indicator rubric for where the substitution fails (Elhajj et al. 2026)
 - [[hands-on-learning-necessity-age-of-ai-review-2026]] — Thematic review distinguishing Embodied Hands-on from Cognitive Hands-on in AI-supported design education (Yu, Liu & Zhu 2026)
+- [[gelli-experiential-language-learning-2026]] — GELLI: un generatore di interazioni per l'apprendimento esperienziale delle lingue (Symonette et al. 2026)
 - [[shi-genai-experiential-learning-management-education-2026]] — a strategic management course reconfigured around three generative AI mechanisms
+
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Laboratorio virtuale assistito dall'IA per l'apprendimento capovolto della fisica: effetti su rendimento, motivazione e carico cognitivo degli studenti della scuola media

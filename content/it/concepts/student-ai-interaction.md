@@ -1,6 +1,7 @@
 ---
 title: Interazione studente-IA
 created: "2026-10-14T22:25:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -9,13 +10,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -75,9 +80,18 @@ I prompt scritti dagli insegnanti sono una di queste leve, ma il rigore messo in
 
 Il non-uso è esso stesso uno schema di interazione che la [[pedagogy]] deve prevedere. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou e colleghi (2026)]], studiando 85 [[teacher-education|studenti che si formano come insegnanti]] in tre corsi in cui l'uso della GenAI nella [[assessment]] era esplicitamente consentito, hanno rilevato che il 62,4% (53 su 85) ha rifiutato di usarla del tutto, ben al di sotto dell'adozione del 79–83% osservata in indagini analoghe nel Regno Unito e in Australia, e che l'uso da parte di chi l'aveva adottata era superficiale e correttivo anziché generativo (correzione di bozze 43,8%, controlli di chiarezza 34,4%, generazione di testo solo 18,8%). Le loro scelte seguivano la progettazione della valutazione e la cultura istituzionale piuttosto che la difficoltà tecnica: il 41,5% dei non adottanti temeva di essere accusato ingiustamente di [[academic-integrity|plagio]], e nove degli undici intervistati leggevano la politica permissiva stessa come una possibile «trappola». Il divario tra 32 utenti dichiarati nel questionario e 28 autodichiarazioni mostra che l'interazione con l'IA *riportata* dagli studenti è plasmata dalle conseguenze sulla valutazione — un'avvertenza di misura per i resoconti di learning analytics sull'interazione studente-IA.
 
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang e Guo (2026)]] documentano che cosa aggiunge il dialogo aperto con l'IA generativa nella revisione tra pari: gli studenti che interrogavano il modello anziché accettare il suo primo suggerimento producevano feedback che i pari valutavano più alto, e riportavano più piacere nel compito e meno ansia.
+
 ## Disciplina e coinvolgimento cognitivo nella chat studente-IA
 
 - **Coinvolgimento cognitivo associato alla disciplina nella chat studente-IA.** Chang e Li (2026) analizzano i prompt degli studenti rivolti all'IA in 116 corsi con un disegno within-person e cross-disciplina, mostrando che le conversazioni studente-IA riflettono un coinvolgimento cognitivo **associato alla disciplina** piuttosto che stili di interazione individuali fissi. Circa il 62% dei prompt codificava complessivamente una richiesta cognitiva di ordine superiore, ma i profili al livello di Bloom differivano nettamente per disciplina: i corsi [[stem-education|STEM]] elicitavano prompt prevalenti nell'Applicare (20,8%), i corsi di lingue nel Comprendere (31,7%) e i corsi di scienze sociali nel Creare (33,8%). I confronti appaiati within-person hanno confermato che gli stessi studenti producevano significativamente più prompt di ordine superiore nei corsi di scienze sociali che in quelli STEM (n aggregato = 16, p < 0,001), e la variazione a livello di corso superava la variazione a livello di studente — un argomento forte a favore del fatto che gli assistenti didattici basati sull'IA dovrebbero essere progettati e valutati tenendo presente il contesto disciplinare.
+- **Quanto gli studenti usano l'IA non prediceva come la vivevano.** Tra 819 studenti, genere, competenza autovalutata nell'IA e frequenza d'uso non hanno raggiunto la significatività in una MANOVA (Lambda di Wilks 0,997, p = 0,551; 0,990, p = 0,295). Gli utilizzatori intensivi e quelli occasionali di quel campione avevano le stesse opinioni ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
+
+## Idee sbagliate comuni
+
+- **"Le tassonomie dell'interazione sono un fatto acquisito."** **Su 46 categorizzazioni tratte da 33 studi, etichette simili nominano fenomeni diversi**, ed è per questo che la revisione propone l'*episodio di interazione* come unità. Uno schema di codifica preso in prestito da una tassonomia può stare misurando un costrutto diverso.
+- **"Gli studenti usano l'IA come un tutor."** Tra **38 studenti universitari** che scrivevano saggi argomentativi senza supervisione, **il 76,32% ha usato un pattern a turno singolo chiedi-ottieni-risposta-fermati**, tipicamente incollando il titolo della prova. Il pattern dominante è il recupero a turno singolo, che non è tutoraggio.
+- **"Un uso maggiore dell'IA indica un maggiore coinvolgimento con il materiale."** Un'analisi di **200 sessioni di chat di co-programmazione** ha trovato che **il 78,8% delle interazioni studente-GenAI seguiva obiettivi e strategie non orientati alla padronanza**. Il volume dell'interazione misurava qualcos'altro rispetto all'orientamento all'apprendimento, quindi il conteggio delle sessioni è un proxy di coinvolgimento fuorviante.
 
 ## Concetti collegati
 - [[learners]] — Chi apprende: l'ombrello per i concetti del lato di chi apprende
@@ -94,6 +108,7 @@ Il non-uso è esso stesso uno schema di interazione che la [[pedagogy]] deve pre
 - [[ai-literacy]]
 
 ## Articoli collegati
+- [[ai-chatbots-emotional-support-human-connection-2025]] — Usage frequency and self-rated expertise predicted nothing across 819 students
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]

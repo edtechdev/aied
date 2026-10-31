@@ -1,6 +1,7 @@
 ---
 title: "Comunità di indagine"
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -9,13 +10,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: "concepts/community-of-inquiry"
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -66,6 +71,16 @@ Gli stessi autori del framework forniscono una tassonomia di ruoli per quella co
 - Il rapporto tra coinvolgimento della GenAI e qualità dell'inquiry è **condizionato dalla responsabilità umana**, non lineare: una presenza forte può verificarsi con un coinvolgimento alto o basso della GenAI quando la responsabilità è forte, e una presenza debole con l'uno o l'altro quando la responsabilità è debole.
 - La [[assessment|valutazione]] dell'inquiry dovrebbe spostarsi dagli output finali rifiniti a **evidenze sensibili al processo** — tracce di [[prompt-engineering|prompting]] e revisione, pratiche di divulgazione e attribuzione, mosse di verifica e log di interazione. Questo si allinea al più ampio movimento della knowledge base verso una valutazione [[authentic-assessment|autentica]], [[process-oriented-assessment|rivelatrice del processo]] e lontano da risposte fondate sul rilevamento.
 - Dal punto di pedagogico, chi apprende ha spesso bisogno di una formazione esplicita (ad esempio pratica basata su [[simulation|simulazioni]] con ruoli scriptati e punti decisionali sulla GenAI) per sostenere un inquiry autentico in condizioni di GenAI — e i docenti dovrebbero modellare come interrogare gli output generati, il che dipende dalla costruzione di [[ai-literacy|alfabetizzazione sull'IA]], [[critical-thinking|valutazione critica]] e [[trust-calibration|fiducia]] calibrata.
+
+## Idee sbagliate comuni
+
+**«La presenza didattica è una proprietà umana.»** Nell'era dell'IA generativa il framework è in corso di riconcettualizzazione perché il discorso prodotto dalle macchine può imitare una presenza autentica, quindi le presenze vanno intese meglio come realizzazioni sociotecniche di assemblaggi umano–GenAI che come attività puramente umana. Un corso può riportare un'alta presenza didattica con il docente in gran parte assente e un modello che fa il discorso.
+
+**«Una spiegazione coerente dell'IA crea presenza cognitiva.»** La coerenza non è correttezza, ed è precisamente la proprietà che rende difficile sostenere un inquiry riflessivo: a uno studente che percepisce una spiegazione come ovviamente giusta è stata data poca occasione di risolvere un evento scatenante. La presenza cognitiva richiede la risoluzione del dubbio, non la sua rimozione.
+
+**«La presenza è distribuita in modo uniforme nella coorte.»** Essa si separa *dentro* la condizione anziché tra le condizioni. In un quasi-esperimento con **63 studenti undergraduate cinesi (33 con un chatbot GPT-4o mini, 30 senza)** che annotavano letture condivise attraverso cinque compiti settimanali, le presenze divergevano per rendimento del gruppo: i gruppi ad alto rendimento hanno avviato **1.407 richieste di feedback su 2.319 annotazioni (60,7%)** contro **737 su 2.167 (34,0%)** nei gruppi a basso rendimento. L'accesso allo stesso strumento ha riprodotto un divario già esistente nel comportamento sociale che il framework misura.
+
+**«Aggiungere un chatbot a un corso online aggiunge una presenza.»** Ne cambia la composizione. Il valore del framework sotto la GenAI è che rende visibile la sostituzione: una presenza soddisfatta da un modello è una configurazione diversa dello stesso costrutto, e i dati della coorte mostrano che la sostituzione ripaga in modo disomogeneo.
 
 ## Concetti collegati
 

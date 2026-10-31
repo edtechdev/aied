@@ -1,6 +1,7 @@
 ---
 title: Engagement degli Studenti
 created: "2026-10-14T22:04:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -10,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: "concepts/student-engagement"
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -43,6 +48,7 @@ L'engagement è un costrutto multidimensionale radicato nella psicologia dell'ed
 - **Guadagno di engagement senza guadagno di apprendimento, in uno studio in classe randomizzato a cluster:** [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker e Becker-Genschow (2025)]] hanno randomizzato 195 classi di nona (gruppo sperimentale di 102 studenti) a un chatbot di matematica specifico di dominio o a materiali di differenziazione convenzionali per una singola lezione sul metodo di Erone per stimare le radici quadrate. L'interesse situazionale è aumentato sensibilmente nella condizione con chatbot (M = 2,63 vs 2,43, p = 0,00005, d di Cohen = 0,63) e l'accettazione su tutte e quattro le dimensioni del [[technology-acceptance-model|Technology Acceptance Model]] era alta, eppure il confronto delle prestazioni pre-post non ha trovato un'interazione significativa gruppo×tempo (F(1194) = 2,84, p = 0,094) e il carico cognitivo estrinseco era leggermente più alto. Lo studio è uno dei pochi test randomizzati a cluster di un chatbot personalizzato nella [[math-education|matematica]] [[k-12|secondaria]], e il suo risultato scisso è il punto: interesse e [[learning-gains|rendimento]] si sono mossi su tempi diversi, quindi un risultato di engagement non è evidenza di apprendimento.
 
 - **Qualità anziché quantità:** l'[[critical-engagement-code-completion|engagement critico nel completamento di codice con IA]], l'[[icap-cognitive-engagement-llm-agents|analisi del discorso sull'engagement cognitivo]] e lo [[scaffolding-critical-engagement-genai-minority-students|scaffolding dell'engagement critico]] mostrano che l'engagement *profondo* (cognitivo) con l'IA predice l'apprendimento, mentre l'engagement *superficiale* (comportamentale) predice l'[[cognitive-offloading|Over-Reliance]] e lo spostamento dell'apprendimento che dominano la letteratura sui rischi della knowledge base.
+- **Engagement agentico e alfabetizzazione al feedback dell'IA si sviluppano insieme.** Tre ondate a sei settimane di distanza su 399 studenti universitari hanno mostrato percorsi entro-persona in entrambe le direzioni (β = 0,222 e β = 0,263), quindi l'engagement non è solo un esito del design ma parte di ciò che costruisce la capacità di usare il feedback ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
 - **Fragile e dipendente dal contesto:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] e i [[genai-tutor-engagement-patterns|pattern di engagement multi-istituzione]] rilevano che l'engagement varia per compito, contesto e studente — uno strumento di IA che coinvolge profondamente uno studente può produrre un comportamento superficiale e teso all'output in un altro.
 
@@ -110,6 +116,35 @@ L'engagement degli studenti si collega alla [[motivation|motivazione]] e alla [[
 
 - **Il disimpegno come mossa a livello di turno, non come stato stabile:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] hanno codificato 5.522 enunciati di studenti rivolti a un agente insegnabile basato sull'IA in Math Nation in sei categorie di disimpegno conversazionale (False Answering, Mocking, Ghosting, Mirroring, Withholding, Random/Noisy) e hanno rilevato che il tasso di engagement dominava al 75,7% degli enunciati. Le associazioni basate sulla prevalenza di False Answering e Mocking con i punteggi al post-test non sopravvivevano a una verifica di sensibilità con annotazione umana. L'analisi sequenziale è il risultato rilevante per l'engagement: il cluster con le prestazioni più alte combinava un disimpegno moderato con forti transizioni di recupero verso l'engagement (Withholding → Engagement p = 0,83), mentre il più basso mostrava auto-loop persistenti senza recupero (Engagement auto-loop p = 0,96). Il Withholding era l'unico tipo di disimpegno che tendeva a persistere anziché risolversi — persistenza vs riparazione, non presenza vs assenza, è la distinzione che separa le traiettorie di engagement.
 
+## Idee sbagliate comuni
+
+**"Se l'engagement è salito, è salito l'apprendimento."** È l'inferenza più costosa della letteratura sull'engagement con l'IA, e la knowledge base ne contiene un controesempio pulito. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker e Becker-Genschow (2025)]] hanno randomizzato 195 classi di nona a un chatbot di matematica specifico di dominio o a materiali di differenziazione convenzionali per una lezione sul metodo di Erone. L'interesse situazionale è salito sostanzialmente nella condizione con chatbot (M = 2,63 vs 2,43, p = 0,00005, d di Cohen = 0,63) e l'accettazione era alta su tutte e quattro le dimensioni del [[technology-acceptance-model|Technology Acceptance Model]] — eppure il confronto pre-post non ha trovato **alcuna interazione significativa gruppo×tempo** (F(1194) = 2,84, p = 0,094), e il carico cognitivo estrinseco era leggermente più alto. Interesse e rendimento si sono mossi su calendari diversi. Un risultato di engagement non è evidenza di [[learning-gains|apprendimento]].
+
+**"L'engagement è una cosa sola, e il tempo sul compito lo misura."** Il costrutto è multidimensionale e le sue dimensioni divergono per costruzione: uno studente può essere comportamentalmente attivo — cliccando, accumulando tempo — mentre è cognitivamente superficiale, accettando passivamente l'output. Le misure del costrutto basate su [[self-report-measures|autovalutazione]] e sui log di interazione non sono intercambiabili, ed è per questo che un'affermazione sull'"engagement" è ininterpretabile finché non si nominano la dimensione e lo strumento.
+
+**"Più attività comportamentale significa engagement più profondo."** Spesso il contrario. L'engagement cognitivo profondo con l'IA predice l'apprendimento, mentre l'engagement comportamentale superficiale predice il [[cognitive-offloading|sovra-affidamento]] e lo spostamento dell'apprendimento che dominano la letteratura sul rischio; gli [[polished-artifacts-fragile-engagement-2026|artefatti rifiniti]] sono il caso canonico, dove un output pulito segnala attività mentre il pensiero non è avvenuto. Log di interazione pieni sono compatibili con il disimpegno.
+
+**"L'IA rende l'apprendimento più coinvolgente per impostazione predefinita."** [[ai-availability-student-motivation|Disponibilità dell'IA e motivazione]] mostrano che il solo sapere che l'IA è disponibile può ridurre il valore percepito dell'engagement faticoso, in particolare per i discenti novizi. L'engagement è plasmato da aspettativa, valore e competenza percepita tanto quanto dalle caratteristiche dello strumento, e varia per compito, contesto e discente — l'engagement profondo di uno studente è la rincorsa all'output di un altro.
+
+## Implicazioni per la pratica
+
+**Per gli insegnanti**
+
+- Scegliete la misura dell'esito prima dell'intervento. Se l'obiettivo è un apprendimento duraturo, misurate la performance non assistita; i sondaggi su interesse e soddisfazione non vi diranno se lo strumento ha funzionato.
+- Trattate con sospetto un aumento del divertimento quando sale anche il carico cognitivo. Nell'esempio randomizzato a cluster, un interesse più alto si accompagnava a un carico estrinseco leggermente più alto e a nessun effetto sul rendimento — piacevole ma non ovviamente produttivo.
+- Distinguete lo studente che sta lavorando dallo studente che guarda comparire un artefatto rifinito. Chiedete il ragionamento, non l'output.
+
+**Per gli sviluppatori**
+
+- Strumentate la dimensione che dichiarate. Confezionare una metrica di tempo sul compito o di clic e chiamarla engagement confonde l'attività comportamentale con l'investimento cognitivo, che è esattamente l'errore contro cui l'evidenza avverte.
+- Aspettatevi nessun transfer tra i tipi di engagement. Alzare l'interesse situazionale non implica alzare l'engagement cognitivo, quindi ottimizzare solo per l'interesse può alzare l'uso lasciando l'apprendimento piatto.
+- Cercate la svalutazione dello sforzo specificamente nei novizi, poiché la sola disponibilità può abbassare il valore percepito dello sforzo.
+
+**Per i ricercatori**
+
+- Riportate la dimensione e lo strumento, ed evitate il sostantivo nudo. Dato che autovalutazione e log divergono, "l'engagement è aumentato" ha bisogno della sua operativizzazione nella stessa frase.
+- Evitate di inferire il rendimento dall'affetto. Il risultato scisso dello studio randomizzato a cluster è il modello per riportare entrambi, incluso il nullo.
+
 ## Concetti collegati
 
 - [[learners]] — Learners: l'ombrello per i concetti relativi a chi apprende
@@ -135,6 +170,7 @@ L'engagement degli studenti si collega alla [[motivation|motivazione]] e alla [[
 - [[productive-failure]]
 
 ## Articoli collegati
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — AI feedback literacy and agentic engagement: a three-wave random-intercept panel (Xu 2026)
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Disengaged conversational behaviors and learning in student-AI dialogues (Rho et al. 2026)
 

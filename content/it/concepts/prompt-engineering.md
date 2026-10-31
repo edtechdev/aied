@@ -1,6 +1,7 @@
 ---
 title: Prompt engineering
 created: "2026-10-14T22:50:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -11,13 +12,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,6 +52,7 @@ Il prompt engineering è centrale per un uso efficace dell'[[generative-ai|IA ge
 - **La cognizione nel prompting segue la disciplina, non lo studente.** [[student-ai-conversations-cognitive-engagement-2026|Chang e Li (2026)]] hanno classificato 60.087 prompt provenienti da 116 corsi e hanno rilevato che i profili di livello di Bloom differivano per disciplina — STEM a prevalenza Apply (20,8%), scienze sociali a prevalenza Create (33,8%) — con una varianza a livello di corso superiore alla varianza a livello di studente.
 - **Il prompting come alfabetizzazione:** la ricerca [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] e quella [[aaai2026-prompting-literacy-k12|sull'alfabetizzazione nel prompting nel K-12]] inquadrano il prompting come componente centrale dell'[[ai-literacy|alfabetizzazione sull'IA]]
 - **I principianti ricorrono per default a tentativi ed errori, e danno la colpa al modello.** In un seminario di linguistica testuale, dieci principianti con l'IA generativa perfezionavano i prompt per tentativi ed errori, ricorrevano raramente a esempi in contesto, e attribuivano in modo schiacciante gli scarsi output all'LLM piuttosto che alla propria formulazione del prompt ([[llms-text-linguistics-teaching-2026|Brocca e Garassino (2026)]]).
+- **I prompt vaghi lasciano una traccia nel dialogo.** La firma del gruppo di qualità inferiore era un ciclo di chiarimento auto-ripetuto (IC→IC, Z = 3,25), ricondotto a prompt vaghi e a fraintendimenti dell'IA, e con il divario di frustrazione più ampio dello studio (2,12 vs 3,82); il debug dei prompt su log autentici lo affronta mentre accade ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 
 - **Quando il docente modella il prompt, gli studenti lo riusano verbatim.** Tra 310 prompt registrati di dodici gruppi STEAM di scuola media, la copia esatta dell'istruzione del docente era il punto di vista più frequente tra gli studenti, al 47,1%, prima dell'indagine spontanea al 28,7% ([[middle-school-genai-steam-interactions-2026|Zhao e Li (2026)]]).
@@ -85,6 +91,16 @@ Il prompt engineering si collega allo [[scaffolding|scaffolding]] — i prompt b
 - **Lo stile del prompting, non solo la qualità del prompt, traccia gli esiti.** I tratti derivati da 1.540 sessioni di tutoraggio collegavano l'interrogazione concettuale alla performance d'esame, mentre i comportamenti di delega del compito correlavano negativamente — ma gli stessi tratti non si replicavano nel semestre successivo, per cui si tratta di pattern comportamentali piuttosto che di competenze stabili ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du e Lan (2026)]]).
 - **Una tassonomia utilizzabile, e quali categorie di prompt rendono davvero.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] traducono le strategie tecniche nel modello 3K (*Kontext, Kernauftrag, Klarheit* — contesto, compito centrale, chiarezza): undici categorie orientate alla pratica, ciascuna con una rubrica buono/medio/subottimale, e ciascuna testata come variazione sperimentale sul feedback generato per gli obiettivi di apprendimento di insegnanti in formazione. Il linguaggio tecnico specifico del dominio era la categoria decisiva — sostituire la terminologia disciplinare con parafrasi quotidiane riduceva significativamente la qualità del feedback su tre modelli (β = −0,412) — mentre aggiungere esempi concreti e rimuovere l'istruzione chain-of-thought non produceva alcuna differenza significativa rispetto alla baseline nel primo studio; gli esempi aiutavano una volta che l'analisi era rieseguita con le combinazioni modello-prompt migliori (β = 0,52). La qualità del prompt e la scelta del modello spiegavano insieme il 42,8% della varianza nella qualità del feedback valutato, ed è questo l'argomento dell'articolo per cui il prompt engineering è una competenza misurabile e insegnabile piuttosto che una preferenza stilistica — e per cui le sue categorie non sono intercambiabili in termini di dimensione dell'effetto.
 
+- **Prompt migliori hanno ridotto le iterazioni senza alzare la qualità dell'output.** I docenti che avevano ricevuto formazione sull'IA prima di un esperimento di preparazione delle lezioni scrivevano prompt più lunghi e dettagliati che richiedevano meno affinamento, mentre i docenti non formati usavano prompt più brevi e richiedevano più iterazioni successive, eppure le valutazioni in cieco degli esperti sui materiali risultanti erano uguali ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). L'arte del prompt ha comprato qui meno giri di correzione, non una prima bozza più forte.
+
+- **Gli studenti indicano l'allineamento dell'intento come difficoltà, non la sintassi.** Intervistando 234 studenti universitari cinesi, [[lei-fan-genai-prompting-strategies-2026|Fan e Liu (2026)]] hanno trovato che l'affinamento dopo un output scarso era la capacità più sostenuta (72,2%) mentre impostare vincoli sull'output era la meno sostenuta (66,2%, con il 22,2% neutrale). Le preferenze strategiche si muovevano a stento tra un compito di ricerca e un brief creativo: di quattro coppie abbinate solo la specifica del formato di output differiva dopo correzione (0,26 punti, dz = 0,233, p corretto BH = ,002). Un template fisso ruolo-compito-formato raccoglieva il sostegno più debole di qualsiasi strategia generale, al 59,4%. Tra il 12,8% che ha risposto a una domanda aperta, l'allineamento dell'intento del prompt compariva nel 40,0% dei commenti, e aggiungere più dettaglio non correggeva in modo affidabile uno scambio bloccato. Tutto ciò è autovalutazione da un unico questionario.
+
+## Idee sbagliate comuni
+
+- **"La qualità del prompt è un attributo dello studente."** **La cognizione del prompting segue la disciplina, non lo studente**: [[student-ai-conversations-cognitive-engagement-2026|Chang e Li (2026)]] hanno classificato **60.087 prompt da 116 corsi** e hanno trovato che la disciplina prediceva la sofisticazione dei prompt. Insegnare agli studenti a fare prompt migliori affronta una variazione che sta nella materia.
+- **"Gli studenti sviluppano da soli la propria pratica di prompting."** Quando il docente modellava il prompt, **gli studenti lo riutilizzavano alla lettera** — tra **310 prompt registrati da dodici gruppi STEAM della scuola media**, la copia esatta dell'istruzione del docente era comune. Il modellamento produce riproduzione, ed è per questo che è una leva di progettazione del sistema anziché un'abilità trasferibile.
+- **"Il prompting è prima un'abilità del discente e poi una proprietà del sistema."** Questo sposta il prompting **in una leva di progettazione adattiva del sistema**, con effetti misurati su **coinvolgimento ed efficienza (28,1% vs 19,6% di conversione degli esercizi)**. Le affordance di prompting dell'interfaccia muovevano il comportamento più di quanto facesse l'istruzione al prompting.
+
 ## Concetti collegati
 - [[pedagogical-patterns]] — Lo strato di scaffolding all'interno delle sequenze di uso strutturato
 - [[vibe-coding]]
@@ -104,6 +120,8 @@ Il prompt engineering si collega allo [[scaffolding|scaffolding]] — i prompt b
 - [[ai-technologies]] — Ombrello: tecnologie e tecniche di IA (modelli, addestramento di LLM, robotica, RAG, agenti)
 
 ## Articoli collegati
+
+- [[lei-fan-genai-prompting-strategies-2026]] — 234 studenti su ciò che trovano difficile: l'allineamento dell'intento, non la sintassi del prompt
 - [[wang-teacher-student-centered-agents-physics-2026]] — Agent role and constraint prompts as the design variable in physics learning (Wang et al. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
@@ -132,3 +150,4 @@ Il prompt engineering si collega allo [[scaffolding|scaffolding]] — i prompt b
 
 - [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Prompt vaghi hanno prodotto cicli di chiarimento auto-ripetuti con il divario di frustrazione più ampio

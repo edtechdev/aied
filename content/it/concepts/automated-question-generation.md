@@ -2,6 +2,7 @@
 connected_resources: [teacherserver]
 title: Generazione automatizzata di domande
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -9,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,6 +83,16 @@ L'AQG è un abilitatore chiave dell'apprendimento [[adaptive-learning|adattivo]]
 - **Progetta per la profondità cognitiva:** i prompt e le pipeline dovrebbero puntare al pensiero di ordine superiore, non solo al richiamo, per sostenere l'apprendimento genuino.
 - **Calibra la difficoltà:** usa le stime di difficoltà dell'IA per selezionare item di sfida appropriata, con una forte validazione prima dell'uso ad alto impatto.
 - **Personalizza tramite i modelli del discente:** combina l'AQG con il knowledge tracing e i modelli degli interessi per generare item adattivi e individualizzati.
+
+## Idee sbagliate comuni
+
+**"Le domande generate sono utilizzabili alla scala a cui possono essere prodotte."** Il volume non è il vincolo; la calibrazione lo è. La qualità varia drasticamente tra i tipi di item e richiede validazione per evitare item allucinati o mal calibrati: per questo le pipeline che funzionano spendono il loro sforzo sulla verifica anziché sulla generazione — una ha ridotto l'allucinazione del **62%** aggiungendo un ciclo genera-poi-valida-e-rifinisci.
+
+**"Un ciclo di raffinamento rende affidabili gli item generati."** Li rende meno sbagliati. Una riduzione del 62% dell'allucinazione lascia un residuo sostanziale, e nessun ciclo risolve il problema più difficile, cioè se la difficoltà dichiarata di un item corrisponda a ciò che gli studenti fanno davvero — la questione di [[assessment-validity|validità]] su cui l'evidenza sulle etichette di difficoltà mostra i metadati generati fallire. La validazione riduce il contenuto fabbricato; la calibrazione richiede i dati di risposta degli studenti.
+
+**"La generazione di domande personalizza naturalmente la pratica."** Genera offerta, e la personalizzazione è un problema di abbinamento. Produrre più item non dice quale item un dato studente debba vedere dopo, e la questione della selezione adattiva è un meccanismo separato con la propria evidenza.
+
+**"La generazione scala la valutazione senza cambiare ciò che la valutazione misura."** Cambia la composizione di ciò che viene misurato, perché gli item che si generano bene non sono un campione rappresentativo degli item che valutano bene. I formati facili da generare spiazzeranno progressivamente quelli più difficili da generare, il che rimodella silenziosamente il costrutto.
 
 ## Concetti collegati
 

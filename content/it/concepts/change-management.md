@@ -1,6 +1,7 @@
 ---
 title: Gestione del cambiamento
 created: "2026-10-14T22:03:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -9,13 +10,17 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,15 +61,25 @@ Un workshop sulle pratiche di valutazione con 73 educatori di informatica fornis
 ## Implicazioni
 
 La gestione del cambiamento nell'AI education comporta sia implicazioni positive che negative. **Positivamente**, i framework strutturati offrono alle istituzioni un percorso dalla gestione reattiva delle crisi a una governance proattiva e partecipativa; il [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi]] e la [[baroudi-anticipatory-governance-ai-higher-ed-2026|governance anticipatoria]] supportano entrambi il trattamento dell'[[ai-literacy|alfabetizzazione sull'AI]] e dell'[[ethics|etica]] come capacità istituzionali trasversali piuttosto che come regole isolate. **Negativamente**, un'adozione frammentata amplia le disparità esistenti: l'[[adarkwah-genai-unesco-policy-2026|analisi del framework UNESCO]] di 30 università leader rileva che i principi etici fondamentali e di [[governance|governance]] sono ampiamente abbracciati ma l'[[inclusive-learning|inclusione]], l'equità e la [[sustainability|sostenibilità]] (accesso a internet, parità di genere, impatto ambientale) sono spesso trascurate — e le classifiche nazionali di preparedness per l'AI non predicono una policy istituzionale robusta. Il [[league-ethical-governance-student-data-2026|framework LEAGUE]] estende questa preoccupazione ai [[learning-analytics|learning analytics]], sostenendo che la governance deve andare oltre la compliance (FERPA/GDPR) verso liceità, equità, [[agency|agentività]], utilità ed etica by design, esaminando le pratiche sui dati degli studenti in modo trasparente ed educativo.
- Nelle istituzioni dove la strategia corre più avanti dell'infrastruttura il lavoro si aggrava: gli sviluppatori accademici di due istituzioni storicamente svantaggiate del Sudafrica definivano la strategia AI «più performance che pratica», e l'articolo insiste sul tenere separata la disuguaglianza digitale — un problema distributivo — dalla colonialità algoritmica, un problema epistemico che sopravvive anche al pieno accesso ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
+
+Nelle istituzioni dove la strategia corre più avanti dell'infrastruttura il lavoro si aggrava: gli sviluppatori accademici di due istituzioni storicamente svantaggiate del Sudafrica definivano la strategia AI «più performance che pratica», e l'articolo insiste sul tenere separata la disuguaglianza digitale — un problema distributivo — dalla colonialità algoritmica, un problema epistemico che sopravvive anche al pieno accesso ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 
 **Per gli [[administrator|amministratori]] e i [[educational-policy-ai|decisori politici]]**, le evidenze sostengono una governance partecipativa, investimenti infrastrutturali e rafforzamento delle capacità rispetto a documenti di strategia aspirazionali, traducendo la policy nazionale in supporto concreto per i docenti piuttosto che emanando mandati top-down. **Per i docenti**, la gestione del cambiamento significa passare da adottante a sperimentatore guidato dall'indagine, coinvolgendo gli [[pedagogical-partnerships|studenti come partner]] e ancorando la riforma a principi pedagogici durevoli piuttosto che a strumenti che potrebbero essere obsoleti entro mesi — con l'avvertenza che lo sviluppo professionale deve mirare a un ciclo di progettazione completo (valutazione dei bisogni, feedback) piuttosto che al solo uso degli strumenti, come dimostra l'[[dot-framework-survey-2026|indagine sul framework DOT]].
 
 Un case study istituzionale traccia un arco di diffusione lungo un decennio nella matematica undergraduate, passando dall'iniziativa individuale e dai workshop tra pari alle licenze docenti congiunte e al finanziamento centrale ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+La riprogettazione di un corso comporta un costo che le istituzioni dovrebbero mettere a budget, non dare per scontato: adottare un corso integrato con l'IA è arrivato a circa 15-20 ore di lavoro di riprogettazione per corso prima di qualsiasi aggiustamento continuo ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+- **L'engagement si spiega con la capacità e la disposizione, non con l'entusiasmo.** Un framework per la pratica valutativa sostiene che l'adozione disomogenea della GenAI riflette quattro condizioni — capacità, disposizione e i supporti e i vincoli che le circondano — anziché resistenza, e che un singolo workshop costruisce vocabolario ma non giudizio ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Nominare la condizione mancante dice a un'istituzione se formare, dotare di risorse o cambiare l'incentivo.
+
 ## Connessioni ad altri concetti
 
 La gestione del cambiamento è il complemento istituzionale dell'integrazione a livello di aula. Mette in funzione le condizioni sistemiche — governance, sviluppo docente, [[student-engagement|coinvolgimento]] degli stakeholder e salvaguardie di equità — che permettono all'innovazione pedagogica di attecchire, collegando la progettazione di policy dell'[[educational-policy-ai]] alla [[governance|governance]], allo [[educational-development|sviluppo educativo]] e agli esiti di [[equity-in-ai-education|equità nell'AI education]].
+
+## Idee sbagliate comuni
+
+- **"L'intento strategico crea capacità."** Solo il **7% delle istituzioni** ha creato ruoli di leadership senior per l'AI nonostante il **49% consideri l'AI una priorità strategica**. Il divario è tra dichiarazione e struttura, ed è il fallimento ricorrente della gestione del cambiamento nell'AI.
+- **"Adottare uno strumento di IA è un evento."** **La sostenibilità è una proprietà dell'organizzazione, non dello strumento** — una valutazione randomizzata quadriennale di un chatbot di messaggistica testuale non generativo basato sull'AI presso la California State University, Northridge illustra la scala temporale. La valutazione è durata quattro anni perché la durevolezza era ciò che andava messa alla prova.
+- **"Le istituzioni devono reagire più in fretta, non anticipare."** La **leadership anticipatoria** è il filo complementare: la [[baroudi-anticipatory-governance-ai-higher-ed-2026|scoping review]] rileva che le istituzioni devono passare da una governance **reattiva a una basata sulla lungimiranza**. Reagire competentemente a una tecnologia che è già arrivata è ciò che le evidenze documentano come fallimentare.
 
 ## Concetti collegati
 
@@ -95,3 +110,4 @@ La gestione del cambiamento è il complemento istituzionale dell'integrazione a 
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
 - [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
 - [[flipped-classroom-ai-assessment-math-2026]] — A decade-long diffusion arc from individual initiative to central funding in undergraduate mathematics (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Budget 15 to 20 hours of redesign per AI-integrated course before ongoing adjustment

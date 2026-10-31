@@ -1,19 +1,24 @@
 ---
 title: Apprendimento socioculturale
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: "concepts/sociocultural-learning"
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -66,6 +71,16 @@ La teoria socioculturale plasma la [[research-methods-aied|ricerca]] AIED in div
 Il filone socioculturale è strettamente accoppiato alla Teoria del [[cognitive-offloading|Carico Cognitivo]] (il supporto dovrebbe gestire il carico senza eliminare lo sforzo produttivo) e alla [[metacognition|metacognizione]] (chi si trova nella zona sta attivamente monitorando e regolando la propria comprensione). [[stanford-evidence-base-ai-k12-2026]] sintetizza l'evidenza [[k-12|K-12]] secondo cui gli strumenti di IA funzionano meglio quando mantengono chi apprende nella ZPD anziché rispondere al posto suo, e la ricerca su [[human-in-the-loop-ai|l'umano nel ciclo dell'IA]] affronta il modo in cui il supporto umano e quello dell'IA definiscono congiuntamente la zona del discente.
 
 - **L'IA generativa come agente mediatore (2026):** Basandosi sulla mediazione vygotskijana, un articolo teorico propone di ridefinire l'IA generativa non semplicemente come strumento/mezzo di mediazione, ma come *agente mediatore* che partecipa attivamente all'attività di apprendimento, sfumando il confine strumento-contro-interazione sociale centrale per la teoria socioculturale ([[generative-ai-mediational-agent-sociocultural-2026]]). Questo colloca i modelli generativi come co-partecipanti anziché come strumenti passivi, con implicazioni per il modo in cui mediazione, [[agency|agentività]] e la relazione fra discente e IA vengono teorizzati nelle [[learning-sciences|scienze dell'apprendimento]].
+
+## Idee sbagliate comuni
+
+**"La teoria socioculturale riguarda i fattori sociali nell'apprendimento come supplemento alla cognizione individuale."** L'affermazione più forte è che la cognizione è **distribuita tra persone, artefatti e ambienti** anziché risiedere dentro teste individuali. In questa visione un'IA non è un aiuto esterno aggiunto alla cognizione di un discente; è un componente del sistema in cui la cognizione si svolge, il che cambia che cosa dovrebbe essere misurato.
+
+**"Se la cognizione è distribuita, la valutazione individuale misura la cosa sbagliata."** Ne cambia l'interpretazione anziché rimuovere la misurazione. Ciò che la valutazione cattura dipende da che cosa è presente nel sistema in quel momento, ed è per questo che la prestazione assistita e quella non assistita divergono — sono misure di configurazioni diverse.
+
+**"Aggiungere uno strumento a un gruppo ne cambia solo l'efficienza."** Ne cambia la divisione del lavoro, che è l'unità che la teoria analizza. Un gruppo che indirizza la maggior parte delle proprie domande a un agente ha ridistribuito il lavoro cognitivo anche quando l'output resta invariato.
+
+**"La cognizione distribuita implica che l'individuo non conti."** Implica che il contributo dell'individuo non possa essere letto dalla sola prestazione individuale; l'unità di analisi è il sistema di attività, non la persona isolata.
 
 ## Concetti collegati
 

@@ -1,6 +1,7 @@
 ---
 title: Apprendimento basato sull'indagine
 created: "2026-10-14T22:04:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -8,13 +9,17 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -60,6 +65,16 @@ La struttura dell'IBL guidata dalle domande e focalizzata sul processo è la cas
 Il [[productive-failure|fallimento produttivo (PF)]] è il cugino più strutturato dell'apprendimento basato sull'indagine: gli studenti esplorano problemi e generano soluzioni *prima* dell'istruzione diretta, poi consolidano. Entrambi condividono la premessa che i tentativi generati dallo studente (anche quelli falliti) [[prior-knowledge|attivino le conoscenze pregresse]] e preparino gli studenti a imparare dall'istruzione. La [[research-methods-aied|ricerca]] sull'PF nell'era dell'IA affina come l'IA debba fornire impalcatura all'indagine senza cortocircuitarla: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derivano principi progettuali dell'IA per preservare la lotta attraverso l'esplorazione dei problemi e la generazione di soluzioni; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] mostrano che i tutor LLM possono essere orientati a trattenere le risposte e a elicitare tentativi multipli; i compiti [[lukesova-clue-before-correction-2026|clue-before-correction]] esemplificano l'impalcatura basata su indizi (vs. diretta) che mantiene gli studenti nel ragionamento. Questi collegano indagine e PF all'imperativo più ampio che l'IA non deve rimuovere le [[desirable-difficulties|difficoltà desiderabili]] attraverso cui si forma l'apprendimento durevole.
 
 In contesti di campo all'aperto lo stesso imperativo diventa spaziale: la GenAI può pre-strutturare ciò che gli studenti notano prima che incontrino l'evidenza, così una sequenza campo-per-prima che trattiene la spiegazione generata fino a quando osservazioni e interpretazioni iniziali sono registrate protegge l'indagine ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## Idee sbagliate comuni
+
+**"L'IA è un adattamento naturale per l'apprendimento basato sull'indagine perché entrambi sono esplorativi."** L'adattamento dipende interamente dalla progettazione: gli strumenti di [[generative-ai|IA generativa]] e [[llm|LLM]] possono servire come co-indagatori interattivi che supportano l'interrogazione e l'indagine **solo quando sono progettati per preservare la proprietà della domanda da parte dello studente**. Usati altrimenti, uno studente esplorativo sta seguendo una risposta anziché conducendo un'indagine, e le due cose sembrano simili dall'esterno.
+
+**"Qualsiasi IA aggiunta a un'unità di indagine la migliora."** Il contributo dell'IA va isolato dall'indagine stessa. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] lo ha fatto con un disegno a tre gruppi in uno studio sul clima: l'indagine assistita dall'IA ha superato i pari della sola indagine sul **processo decisionale (d = 0,69)**, con l'evidenza collocata in un esito specifico anziché nella superiorità generale dell'approccio.
+
+**"L'indagine è per definizione non strutturata."** Il docente fornisce impalcatura, e la struttura sta nella progettazione della domanda e nel ciclo di riflessione, non nell'erogazione dei contenuti. Rimuovere l'impalcatura non rende l'indagine più autentica; la rende priva di impalcatura.
+
+**"Le domande guidate dagli studenti saranno ben formulate se gli studenti sono interessati."** Generare una domanda trattabile è la competenza che si sta sviluppando, ed è per questo che un sistema che fornisce buone domande ha svolto la competenza d'indagine che l'attività esiste per insegnare.
 
 ## Concetti collegati
 

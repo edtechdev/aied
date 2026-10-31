@@ -1,6 +1,7 @@
 ---
 title: Transfer dell'apprendimento
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -8,13 +9,17 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: "concepts/transfer-of-learning"
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,7 +73,6 @@ Tutti e cinque gli studi mostrano un pattern di **transfer negativo o nullo** qu
 **Performance dipendente dallo strumento.** Gli studenti possono ottimizzare per le affordance specifiche dello strumento di IA ([[prompt-engineering|prompt engineering]], affidamento sulla struttura del codice generato) anziché costruire generalizzazione nel dominio — una forma di [[cognitive-offloading-speedup-illusion|esternalizzazione cognitiva]] che appare produttiva ma sostituisce l'apprendimento duraturo.
 
 Un'aula protetta può anche insegnare l'abitudine sbagliata: [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] avvertono che simulazioni con regole fissate in anticipo filtrano l'incertezza e rafforzano il rispetto delle regole, quindi le abitudini decisionali formate al loro interno possono diventare una passività cognitiva una volta che gli studenti incontrano interessi in competizione e informazioni incomplete in contesti reali.
-
 **Esternalizzazione sensibile al livello e transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] verifica direttamente la distinzione di Salomon, Perkins & Globerson tra "effetti con vs. effetti della tecnologia" nella scrittura assistita da [[generative-ai|GenAI]]: un quasi-esperimento di otto settimane ha rilevato che la collaborazione aperta con l'IA massimizzava la performance nella scrittura assistita ma produceva gli esiti di near-transfer indipendente *più bassi* senza IA, mentre il supporto delimitato con riflessione preservava la competenza indipendente. Livelli di esternalizzazione più profondi (ragionamento, struttura) prevedevano transfer peggiore rispetto ai livelli superficiali (grammatica). Questa è evidenza diretta dalla classe che i guadagni di performance *con* supporto dell'IA non si trasferiscono alla performance indipendente *senza* supporto — e che la profondità della delega, non solo il fatto che l'IA venga usata, plasma il transfer.
 
 Un'istanza complementare, per quanto confusa, viene dalla [[physics-education|fisica]]: la riprogettazione alla Ruhr University Bochum di un corso introduttivo di fisica nucleare e delle particelle ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) ha visto gli studenti completare con successo problemi di ricerca collaborativi e ricchi di risorse con l'assistenza dell'IA, eppure quegli stessi studenti ottenevano in media 20,6/80 in un esame scritto convenzionale senza aiuti, con diversi tentativi seri incapaci di completare calcoli standard. Gli autori leggono questo come evidenza che la performance assistita non si trasferisce automaticamente alla performance non sollecitata, e il loro rimedio è la progettazione deliberata: rendere l'esame scritto l'unico determinante del voto, rilasciare in anticipo i problemi dei tutorial così che il tempo in classe diventi discussione preparata, e aggiungere preparazione sui prerequisiti, esempi risolti e consolidamento attorno al lavoro esplorativo in cui l'IA è permessa.
@@ -99,6 +103,16 @@ Questo si allinea con la ricerca sul [[intelligent-tutoring|tutoring con IA]] ch
 ### Collegamenti ai concetti correlati
 
 Il transfer dell'apprendimento si collega alla [[metacognition|metacognizione]] (auto-monitoraggio della comprensione), alla Teoria del Carico Cognitivo (carico pertinente vs. estraneo), alle [[desirable-difficulties|difficoltà desiderabili]] (lotta produttiva), allo [[scaffolding|scaffolding]] (dissolvenza del supporto), al [[cognitive-offloading|sovra-affidamento]] (dipendenza dallo strumento), e all'[[sociocultural-learning|apprendimento socioculturale]] (l'IA di uso generale opera al di fuori della ZPD completando il lavoro al posto degli studenti). È il ponte tra performance assistita e apprendimento genuino — la distinzione tra [[stanford-evidence-base-ai-k12-2026]] e la questione centrale per l'efficacia del [[intelligent-tutoring|tutoring con IA]].
+
+## Idee sbagliate comuni
+
+**"I guadagni nei compiti assistiti dall'IA dimostrano un apprendimento trasferibile."** Il pattern opposto è quello che il corpus trova: **tutti e cinque gli studi** della sintesi qui riportata mostrano un transfer **negativo o nullo** quando l'intervento è l'IA di uso generale — studenti di matematica delle superiori con voti di pratica più alti che ottengono **circa il 17% in meno** agli esami finali a libro chiuso, e uno studio sulla scrittura di saggi in cui l'**83% non è riuscito a ricordare** le proprie citazioni. La performance assistita immediata è la misura di transfer meno trasferibile disponibile.
+
+**"Se uno studente riesce a farlo con l'IA, allora sa farlo."** Questa è la definizione del fallimento, non la sua assenza. Il transfer richiede che la capacità sopravviva alla rimozione del supporto, e gli studi che ne testano la rimozione trovano che la capacità era nello strumento. Un discente che riesce a produrre un manufatto mentre il ragionamento viene svolto altrove è stato addestrato a un'abilità diversa: usare lo strumento.
+
+**"Il transfer viene da modelli più capaci."** Il transfer viene dalle condizioni che lo producono — la generalità della pratica, la variabilità dei contesti e la misura in cui il discente ha generato il ragionamento da sé. La capacità del modello alza il tetto della performance assistita e non fa nulla di particolare per ciò che rimane quando il modello non c'è.
+
+**"La guida sostiene sempre il transfer, quindi più guida è meglio."** La guida che svolge il ragionamento si sostituisce al processo da cui dipende il transfer. La distinzione è tra l'aiuto che lascia al discente la generazione del passo successivo e l'aiuto che lo genera per lui — e solo il primo sta dal lato del transfer di quella linea.
 
 ## Concetti collegati
 

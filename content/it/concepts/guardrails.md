@@ -1,6 +1,7 @@
 ---
 title: Salvaguardie
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -8,13 +9,17 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -70,6 +75,8 @@ La [[rag|generazione aumentata da recupero]] (RAG) ancora le risposte del tutor 
 
 Le salvaguardie stesse non sono neutrali: l'audit di [[paternalistic-filter-llm-history-education|Paternalistic Filter]] mostra che rifiuti e risposte attenuate sono modellati dall'identità dello studente e dalla sensibilità dell'argomento, riproducendo ingiustizia epistemica mentre «proteggono». Le salvaguardie sicure devono essere sottoposte ad audit per il trattamento differenziale — un argomento diretto a favore della [[bias-mitigation]] e dell'[[equity-in-ai-education]] nel [[governance]] e nella [[regulation]].
 
+**La soglia di un classificatore di salvaguardia è una decisione di politica.** Spostare una soglia di tossicità da 0,3 a 0,7 ha ridotto i prompt etichettati dal 35,62% al 12,4%; su un rilevatore di truffe ha scambiato 15 falsi allarmi e 18 truffe mancate con 2 e 36, nessuna soglia rimuove entrambi, e una cifra di robustezza significa poco senza il suo attacco ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan & Kalathas (2026)]]).
+
 ## Salvaguardie vs. sicurezza pedagogica
 
 - La **[[pedagogical-safety]]** è il *principio/obiettivo* — che i sistemi di educazione con IA proteggano chi apprende da danni (contenuti, distorsioni, consigli non sicuri, manipolazione).
@@ -78,7 +85,6 @@ Le salvaguardie stesse non sono neutrali: l'audit di [[paternalistic-filter-llm-
 I due sono strettamente accoppiati: quasi ogni tecnica di salvaguardia è un modo di realizzare la sicurezza [[pedagogy|pedagogica]], e la sicurezza pedagogica viene erogata quasi interamente attraverso le salvaguardie. Le salvaguardie sono quindi da intendersi al meglio come lo **strato di progettazione e ingegneria** al di sotto del principio di sicurezza pedagogica, e sono anche il termine più ampio usato nell'ambito della sicurezza IA generale (moderazione dei contenuti, resistenza al jailbreak) prima di essere specializzato per l'educazione.
 
 **Le salvaguardie come distribuzione di autorità.** [[instructional-governance-design-computing-education-2026|Dickey (2026)]] tratta le salvaguardie come allocazioni su sei dimensioni separabili — ancoraggio pedagogico, autorità didattica dell'IA, responsabilità umana, autonomia di chi apprende, confini di contesto e visibilità della valutazione — anziché come punti su una linea che va dal restrittivo al permissivo, così che strumenti che condividono un modello possano distribuire l'autorità in modo molto diverso. Alla scala del corso, il confine deve coprire lo spazio delle richieste, lo spazio delle risposte e la visibilità dell'educatore, non solo il contenuto generato.
-
 **Le salvaguardie possono reindirizzare chi apprende anziché fermarlo.** [[guardrails-ai-teaching-assistants-programming-2026|Eastwood et al. (2026)]] hanno randomizzato 132 studenti in un corso introduttivo di programmazione su quattro assistenti didattici con IA che variavano per stile pedagogico (socratico vs. istruzione diretta) e consapevolezza del contesto. Gli studenti hanno valutato l'assistente socratico con pieno contesto come il meno gradito, e quella stessa condizione ha mostrato in modo descrittivo il più alto stress interazionale, il più alto tasso di uso di LLM di uso generale esterni e la quota più bassa di spiegazioni post-compito che dimostravano piena comprensione — differenze che lo studio riporta come descrittive anziché statisticamente significative. L'attrito non rimuove la domanda di aiuto; può trasferire quella domanda verso strumenti che il corso non può vedere, il che rende la calibrazione una questione di sicurezza pedagogica e non solo di progettazione.
 
 ## Principi di progettazione
@@ -90,6 +96,36 @@ I due sono strettamente accoppiati: quasi ogni tecnica di salvaguardia è un mod
 5. **Richiedere supervisione umana.** QA con il docente nel circuito prima della distribuzione e audit continuo per il trattamento differenziale.
 
 - **Dotare di salvaguardie il tutoraggio procedurale con regole incorporate.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu e Sun (2026)]] istanziano questi principi come un insieme concreto e controllabile di salvaguardie per un tutor di matematica con [[llm]]: un **cancello di correttezza numerica** con una salvaguardia di incertezza così che il tutor non prenda mai un impegno epistemico ingiustificato, **vincoli di output** che impongono brevità e progressione a micro-passi per la gestione del carico cognitivo, un **confine anti-spoiler** che istituzionalizza il principio «prima la logica» restituendo l'autonomia computazionale allo studente, e un **cancello di congedo** che codifica la distinzione tra completamento autentico e terminazione prematura. Queste regole sono state consolidate come regole di architettura dei prompt riproducibili, validate in un pilota in classe con 40 studenti — un modello di traduzione dei principi di [[pedagogical-safety|sicurezza]] in salvaguardie controllabili e replicabili.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Giudica un tutor dalla prestazione senza assistenza, non dalla prestazione in esercitazione. Nell'RCT sul campo un tutor GPT-4 senza salvaguardie ha alzato la prestazione in esercitazione del **+48%** *riducendo* del **17%** i punteggi successivi all'esame senza assistenza, e la versione «indizio, non risposta» ha eliminato il danno. Ogni segnale di classe generato con lo strumento presente è quello gonfiato.
+- Quando non puoi cambiare lo strumento, cambia che cosa viene valutato senza di esso. La misura senza assistenza è ciò che rende visibile la questione delle salvaguardie.
+- Tratta la «gentilezza» come un parametro di progettazione con una modalità di fallimento: un tutor che non contraddice mai né corregge può soddisfare gli studenti mentre rimuove il [[feedback]] correttivo di cui l'apprendimento ha bisogno.
+
+**Per gli sviluppatori**
+
+- Costruisci la salvaguardia nel percorso di interazione, non in un'istruzione di prompt che uno studente determinato può aggirare. Lo schema «indizio, non risposta» è il default empiricamente sostenuto.
+- Riconosci che le soglie sono decisioni di politica, non ottimizzazioni. Spostare una soglia di tossicità da 0,3 a 0,7 ha ridotto i prompt etichettati dal 35,62% al 12,4%; su un rilevatore di truffe ha scambiato 15 falsi allarmi e 18 truffe mancate con 2 e 36. Nessuna soglia elimina il compromesso, quindi esponi la scelta all'istituzione anziché seppellirla in una costante.
+- Progetta per il fallimento silenzioso. I fallimenti dannosi qui non sono output tossici ma tutor che rispondono correttamente ed erodono l'apprendimento, o che rifiutano in modo uniforme e consolidano la disuguaglianza.
+
+**Per i ricercatori e gli auditor**
+
+- Riporta le valutazioni delle salvaguardie rispetto agli esiti senza assistenza; una salvaguardia che tiene in sessione lasciando l'apprendimento piatto è un successo parziale che i numeri della pratica rappresenteranno male.
+- Audita l'equità nei pattern di rifiuto e di supporto, poiché una salvaguardia applicata in modo uniforme può comunque distribuire il beneficio in modo diseguale.
+- Riporta la soglia del classificatore usata accanto a qualsiasi affermazione di sicurezza, perché il tasso di danno riportato non è confrontabile tra soglie diverse.
+
+## Idee sbagliate comuni
+
+**"Una salvaguardia è un filtro che si attacca a un modello."** Le salvaguardie sono un insieme stratificato di controlli che abbracciano la progettazione dei prompt, l'ancoraggio alla conoscenza, la modellazione delle ricompense, la QA in fase di distribuzione e l'audit continuo, e gli strati non sono intercambiabili. Un filtro di contenuto sta sull'output; lo schema «indizio, non risposta» sta nel prompt e modella che cosa il sistema sia disposto a fare. Nell'RCT sul campo la versione con salvaguardie ha eliminato il danno all'apprendimento creato da quella senza, che è una proprietà del design dell'interazione anziché del filtro.
+
+**"Se il modello non produce contenuti dannosi, il sistema è sicuro per chi apprende."** Il danno è spesso silenzioso. I fallimenti di tutoraggio più dannosi non sono output tossici ma tutor che rispondono correttamente ed erodono l'apprendimento, o che rifiutano in modo uniforme e consolidano la disuguaglianza — fallimenti a cui una schermata di tossicità è strutturalmente cieca, perché nulla in essi è offensivo. Superare un audit dei contenuti è una condizione necessaria riportata come se fosse sufficiente.
+
+**"Le soglie delle salvaguardie sono scelte ingegneristiche da mettere a punto."** Una soglia è una decisione di politica con un costo distributivo. Spostare una soglia di tossicità da 0,3 a 0,7 ha ridotto i prompt etichettati dal **35,62% al 12,4%**; su un rilevatore di truffe ha scambiato **15 falsi allarmi e 18 truffe mancate con 2 e 36**. Nessuna soglia elimina il compromesso — decide solo quale errore l'istituzione preferisce, e quella decisione appartiene all'istituzione anziché a una costante di default.
+
+**"L'audit di equità è una preoccupazione separata dall'adeguatezza delle salvaguardie."** I pattern di rifiuto e di supporto distribuiscono il beneficio in modo diseguale anche quando applicati in modo uniforme, e un tasso medio di danno nasconde quali studenti lo assorbono. L'audit deve far parte della specifica della salvaguardia, non essere uno studio commissionato dopo.
 
 ## Concetti collegati
 
@@ -115,6 +151,7 @@ I due sono strettamente accoppiati: quasi ogni tecnica di salvaguardia è un mod
 
 ## Articoli collegati
 
+- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails

@@ -1,18 +1,23 @@
 ---
 title: Ricerca basata sul design
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: "concepts/design-based-research"
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,7 +59,7 @@ L'esempio canonico nell'ambito dell'educazione all'IA è lo [[ai-assisted-collab
 - **[[curriculum-design|Progettazione curricolare]] guidata dai giovani e dagli esperti.** [[science-integrated-ai-literacy-curriculum-dbr-2026|Moore et al. (2026)]] usano un processo DBR di due anni con un comitato consultivo di giovani ed esperti di IA per progettare un curriculum di alfabetizzazione all'[[ai-literacy|IA]] / ML integrato con le scienze per la scuola secondaria, affinando il design attraverso coorti diverse e misurando i guadagni di conoscenza sull'ML — un esempio di DBR come co-design partecipativo che integra la voce dei giovani nel ciclo di design.
 - **Il co-perfezionamento iterativo della rubrica come DBR.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] esemplificano il carattere di perfezionamento iterativo della DBR applicato allo strumento di valutazione stesso: hanno trattato la rubrica come un artefatto di design rivedibile e sono passati attraverso il co-perfezionamento con un [[llm|LLM]] — chiarendo i descrittori di performance e accettando esplicitamente indicatori impliciti di apprendimento — il che ha elevato la concordanza LLM–umano su 80 poster di progetto degli studenti dal 54,75% all'81,25% (Alfa di Cronbach 0,393 → 0,798). Lo studio posiziona la rubrica come un'interfaccia mediatrice tra l'intenzione pedagogica umana e l'inferenza della macchina, e il suo [[prompt-engineering|prompting]] differenziato per ruolo (istruttore, revisore tra pari, revisore di sovvenzioni) mostra come le scelte di design modellino l'output valutativo — una dimostrazione in stile DBR del fatto che lo strumento di valutazione, e non solo l'intervento, è un oggetto di design.
 - **Co-progettare l'alfabetizzazione all'IA nella prima infanzia.** [[play-ai-pre-k-kindergarten-ai-literacy-2026|Lee (2026)]] usa la DBR per co-progettare, testare e affinare il curriculum Play With AI (PL-AI) attraverso cicli iterativi con due insegnanti di pre-K e due di scuola dell'infanzia, attingendo a questionari per insegnanti, 32 ore di video in aula, appunti sul campo e trascrizioni degli incontri di design. Lo studio documenta come la DBR supporti il perfezionamento iterativo di attività di alfabetizzazione all'IA appropriate allo sviluppo e produca principi di design trasferibili (gioco [[embodied-learning|incorporato]], coding tangibile, dialogo guidato, co-design con gli insegnanti).
-- **La revisione tra pari come evidenza del perfezionamento — e un'onesta dichiarazione di portata.** [[teaching-rl-humanoid-robotics-high-school-2026|Dong et al. (2026)]] sottopongono il loro curriculum robotico iniziale a quattro percorsi a cinque esperti che lo valutano su otto dimensioni, per poi rivederlo di conseguenza: l'implementazione indipendente del PPO passa a un'estensione e viene aggiunto un prerequisito di Python dopo che quattro esperti su cinque segnalano il carico cognitivo. La dispersione guida le revisioni tanto quanto le medie — il contesto motivazionale aveva una media di 4,00 con DS = 1,73 e un isolato punteggio di 1/5 — e gli autori affermano apertamente che il quadro rivisto resta non valutato in attesa dei dati degli studenti.
+- **La revisione esperta come evidenza del perfezionamento — e un'onesta dichiarazione di portata.** [[teaching-rl-humanoid-robotics-high-school-2026|Dong et al. (2026)]] sottopongono il loro curriculum robotico iniziale a quattro percorsi a cinque esperti che lo valutano su otto dimensioni, per poi rivederlo di conseguenza: l'implementazione indipendente del PPO passa a un'estensione e viene aggiunto un prerequisito di Python dopo che quattro esperti su cinque segnalano il carico cognitivo. La dispersione guida le revisioni tanto quanto le medie — il contesto motivazionale aveva una media di 4,00 con DS = 1,73 e un isolato punteggio di 1/5 — e gli autori affermano apertamente che il quadro rivisto resta non valutato in attesa dei dati degli studenti.
 - **La triangolazione, e il limite che non può attraversare.** [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] conducono un modello a rotazione dei ruoli attraverso cinque fasi DBR — analisi del problema, design pedagogico, implementazione, valutazione, perfezionamento — lungo otto settimane con 62 partecipanti, triangolando diari riflessivi, interviste, note osservative e prodotti generati dagli studenti con il member checking. La lezione di design sta in ciò che gli autori rivendicano per esso: in assenza di una misura di competenza pre-post e di un gruppo di confronto, presentano l'evidenza come coinvolgimento durante l'intervento anziché come guadagni di competenza dimostrati, che è esattamente il confine che un design DBR multi-fonte può e non può attraversare.
 
 ## Punti di forza e limiti
@@ -67,6 +72,16 @@ La DBR scambia il controllo causale degli [[rct|esperimenti]] con l'autenticità
 ## Relazione con altri metodi
 
 La DBR è il metodo distintivo delle [[learning-sciences|scienze dell'apprendimento]] — il campo interdisciplinare che studia l'apprendimento e il design degli ambienti di apprendimento, e che tratta la costruzione di un intervento e il suo studio come un'attività unica anziché due. È complementare, non rivale, degli altri metodi di ricerca (si veda [[research-methods-aied]] per il quadro completo). Dove gli [[rct|esperimenti]] stabiliscono la causalità e le indagini [[quantitative-research|quantitative]] stabiliscono l'ampiezza, la DBR stabilisce la *fattibilità e la conoscenza di design* — se un intervento possa essere costruito per funzionare nella pratica autentica e quali principi di design lo sostengano. Si abbina di frequente alla [[usability-research|valutazione dell'usabilità]] (per affinare l'interfaccia) e ai [[qualitative-research|metodi qualitativi]] (per comprendere come gli apprendenti vivano l'intervento). Un programma DBR maturo tipicamente culmina in una [[rct|prova di efficacia]] o in uno studio di [[educational-measurement|misurazione]] che testa su larga scala gli effetti causali dell'intervento sviluppato.
+
+## Idee sbagliate comuni
+
+**"La design-based research è un metodo qualitativo."** La DBR è una tradizione di *progettazione*, non una tradizione di dati: non rientra affatto nel contrasto quantitativo/qualitativo/sperimentale, perché la sua unità di lavoro è l'artefatto iterato anziché un unico piano di misurazione. Gli studi dentro la DBR possono essere quantitativi, qualitativi o sperimentali; ciò che li rende DBR è che il progetto viene revisionato mentre il risultato viene prodotto.
+
+**"Il perfezionamento iterativo rende il progetto immune dai confondenti che affliggono altri metodi."** L'iterazione scambia una minaccia con un'altra. Perfezionare un progetto a metà studio significa che la versione finale differisce da quella che ha prodotto l'evidenza iniziale, quindi un'affermazione sull'"intervento" copre più interventi. Riportare quale revisione ha prodotto quale esito è responsabilità della disciplina, ed è spesso lasciato implicito.
+
+**"Poiché la DBR produce un artefatto funzionante, ha dimostrato l'efficacia."** Un progetto che funziona nel sito che lo ha co-prodotto ha dimostrato una vitalità locale, che è un'affermazione diversa dall'efficacia. L'artefatto porta con sé gli adattamenti fatti per quel contesto, e trasferirlo trasferisce assunzioni che non erano mai state dichiarate come assunzioni.
+
+**"Trattare uno strumento come un artefatto di progettazione revisabile è un allontanamento dalla DBR."** È il carattere iterativo della DBR applicato alla misurazione anziché all'intervento: uno studio di questo corpus ha trattato la rubrica stessa come l'artefatto, ciclando attraverso co-perfezionamenti con un [[llm|LLM]]. Quell'estensione vale la pena di essere notata perché rende lo sviluppo dello strumento stesso parte dell'evidenza.
 
 ## Concetti collegati
 

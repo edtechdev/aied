@@ -1,6 +1,7 @@
 ---
 title: Valutazione autentica
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -10,13 +11,17 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -97,6 +102,12 @@ Il ripiegamento porta un costo probatorio che l'evidenza dei fascicoli rende vis
 - **La valutazione autentica si adatta ai campi orientati alla pratica.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] trovano la valutazione autentica particolarmente adatta all'[[business-education|educazione manageriale]]: i compiti che rispecchiano problemi professionali reali (progetti di consulenza dal vivo, [[visualization|dashboard]] con briefing dirigenziali) si allineano al focus del campo sulla pratica e sulla [[career-development-and-readiness|occupabilità]] e possono sostenere alternative inclusive e preservatrici dell'integrità alla valutazione centrata sull'esame nell'era dell'IA generativa. Nella loro revisione di 58 articoli di quattro riviste di educazione manageriale, tuttavia, la valutazione autentica appariva principalmente attraverso [[simulation|simulazioni]] mediate dalla tecnologia ed era spesso confusa con l'[[experiential-learning|apprendimento esperienziale]] — un divario terminologico che può oscurare il suo valore più ampio e la sua adozione.
 
 - **L'autenticità non è sicurezza, e il divario è visibile su scala di settore.** Dove l'audit del singolo corso di laurea di cui sopra trovava il 90% dei compiti del corso superabile, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] colloca presentazioni registrate, progetti di gruppo a distanza e artefatti digitali non sorvegliati nella fascia ad alta esposizione su 53.915 item, perché il registro pubblico non dice nulla su come la produzione è stata sorvegliata.
+
+## Idee sbagliate comuni
+
+- **"L'autenticità riguarda compiti realistici."** La revisione di scoping di [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud e Du (2025)]] su **37 studi empirici (2000-2024)** propone un modello di progettazione a **sei dimensioni**, e solo **3 studi su 37** affrontavano l'autenticità sociale — se la valutazione aiuti gli studenti a contribuire alla trasformazione della società. Il realismo è una dimensione, e la dimensione più avanzata è a malapena studiata.
+- **"La valutazione autentica resiste all'IA."** L'esposizione è misurabile e ampia: una **laurea triennale in psicologia** si è rivelata **superabile al 90%**, con ChatGPT che produceva output adeguato su **36 valutazioni del corso su 40**, e solo le valutazioni restanti resistevano. La maggior parte della valutazione di una laurea era soddisfacibile dall'IA.
+- **"La riprogettazione è facoltativa se il lavoro è del mondo reale."** Il risultato di 36 su 40 è stato trovato su corsi il cui carattere autentico non era presumibilmente in discussione. Il realismo del compito non ha protetto dal completamento tramite IA; lo ha fatto la progettazione di ciò che viene valutato.
 
 ## Concetti collegati
 

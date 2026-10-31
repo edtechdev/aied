@@ -2,6 +2,7 @@
 connected_resources: [drawsplat]
 title: "Privacy"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -10,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: "concepts/privacy"
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -18,11 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **Privacy** — la protezione dei dati, dell'identità e dell'[[agency|autonomia]] dello studente negli ambienti di apprendimento potenziati dall'IA. Le preoccupazioni per la privacy si intensificano man mano che i sistemi di IA raccolgono dati comportamentali sempre più granulari per la [[personalized-learning|personalizzazione]], le [[learning-analytics|analitiche]] e l'[[student-modeling|istruzione adattiva]]. È un vincolo etico e normativo fondamentale sull'[[ai-education|IA nell'educazione]]: quasi ogni strumento di IA che personalizza, prevede o valuta dipende dai dati dello studente, e questo rende la minimizzazione dei dati, il consenso, la trasparenza e la sicurezza requisiti progettuali fondamentali anziché ripensamenti.
+> **Privacy** — la protezione dei dati, dell'identità e dell'[[agency|autonomia]] dello studente negli ambienti di apprendimento potenziati dall'IA. Le preoccupazioni per la privacy si intensificano man mano che i sistemi di IA raccolgono dati comportamentali sempre più granulari per la [[personalized-learning|personalizzazione]], le [[learning-analytics|analitiche]] e l'[[adaptive-learning|istruzione adattiva]]. È un vincolo etico e normativo fondamentale sull'[[ai-education|IA nell'educazione]]: quasi ogni strumento di IA che personalizza, prevede o valuta dipende dai dati dello studente, e questo rende la minimizzazione dei dati, il consenso, la trasparenza e la sicurezza requisiti progettuali fondamentali anziché ripensamenti.
 
 ## Domande da considerare
 
@@ -47,8 +52,11 @@ La privacy è la precondizione per un'IA affidabile nell'educazione. Poiché i s
 - **Il compromesso tra personalizzazione e privacy.** La [[personalized-learning|personalizzazione]] richiede dati dettagliati sullo studente per funzionare, creando una tensione strutturale con la privacy. La knowledge base esplora approcci che bilanciano personalizzazione e minimizzazione dei dati — dati sufficienti per adattarsi, non così tanti da esporre completamente lo studente. Questa è la forma pratica della domanda "quanto è proporzionato?".
 - **La gestione responsabile dei dati come valore etico centrale.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], una [[meta-analysis-systematic-review|revisione sistematica]] di 25 articoli, individuano la gestione responsabile dei dati (data stewardship, definizioni basate su dati/informazioni) come uno dei sei valori etici principali per l'[[ai-education|IA nell'educazione]], insieme a non discriminazione, supervisione umana, buona volontà, esplicabilità e appropriatezza educativa. La revisione rileva che i valori sono strettamente collegati e possono entrare in conflitto — ad esempio esplicabilità vs. accuratezza/privacy e non discriminazione vs. gestione dei dati — producendo dilemmi etici, e che nessuna norma sulla gestione dei dati si rivolge direttamente agli utenti finali, lasciando gli studenti largamente passivi nella letteratura etica.
 - **La privacy viene rimandata anziché decisa.** Dodici interviste a professionisti dell'edtech e un audit di 48 informative sulla privacy delle piattaforme mostrano la privacy riconosciuta come importante e poi rinviata lungo l'intero ciclo di vita del prodotto, con la responsabilità delegata ai fornitori di cloud, ai documenti politici e alle scuole a valle — uno schema che un debole feedback sulla privacy rende invisibile, perché il silenzio sembra una prova di sicurezza ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
+- **L'autonomia amplia la superficie dei dati.** Un sistema agentico di compilazione di moduli mantiene una base di conoscenza personale multimodale attraverso i servizi istituzionali, valutata su 1.301 campi unici tratti dai siti di reclutamento di 44 aziende, e i suoi autori indicano la gestione dei dati che preserva la privacy, il controllo degli accessi e la conferma umana come requisiti di dispiegamento irrisolti ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
+- **La decodifica EEG espone l'attenzione.** La decodifica neurale estende il problema della privacy oltre i log comportamentali: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] hanno ricostruito ciò che gli apprendenti stavano guardando dal loro EEG durante l'istruzione video, rendendo le rappresentazioni decodificate insolitamente rivelatrici e lasciando irrisolta la governance dei neurodati sensibili.
 
 - **La base di evidenze sul proctoring è debole sul piano etico.** Una revisione di 80 studi ha rilevato che il 35% non dichiarava il proprio dataset, il 40% valutava un singolo modello, il 30% non era riproducibile e solo il 25% affrontava questioni etiche; i falsi positivi — segnalare comportamenti normali — restano un rischio centrale per l'affidabilità ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).
+- **Le interfacce di chat fanno trapelare la conversazione stessa.** Verificando 42 piattaforme di chat con IA, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] hanno trovato che 21 inviavano i titoli delle conversazioni a tracker di terze parti, e le sette piattaforme educative totalizzavano in media circa 367 richieste a tracker ciascuna, con cinque che facevano trapelare il contesto.
 
 ## Sicurezza dei bambini e protezioni K-12
 
@@ -64,6 +72,13 @@ Gli ambienti [[k-12]] richiedono garanzie di privacy più forti perché chi appr
 ## Collegamenti
 
 La privacy si collega alle [[learning-analytics|learning analytics]] (il raccoglitore di dati), alla [[personalized-learning|personalizzazione]] (il consumatore di dati), al [[k-12]] (protezioni rafforzate), all'[[ethics|etica]] (il quadro normativo), alla [[regulation|regolamentazione]] (requisiti legali), alla [[governance|governance]] (responsabilità istituzionale), all'[[equity-in-ai-education|equità]] (chi è protetto), alla [[pedagogical-safety|sicurezza pedagogica]] (protezione dei bambini) e alla [[educational-policy-ai|politica educativa sull'IA]] (risposte politiche). È uno dei vincoli fondativi che qualsiasi dispiegamento responsabile di IA nell'educazione deve soddisfare — il motivo per cui, nell'inquadramento della knowledge base, un'IA affidabile inizia da dati affidabili.
+
+## Idee sbagliate comuni
+
+- **"Il proctoring cattura una porzione di dati limitata e ben compresa."** Un catalogo di ciò che i sistemi di [[remote-proctoring|proctoring]] catturano davvero elenca **immagini del volto, documenti di identità, scansioni dell'ambiente comprese riprese a 360 gradi, audio del microfono, riconoscimento facciale** e altro. La portata è più ampia di quanto descrivano la maggior parte dei processi di consenso.
+- **"La letteratura sul proctoring stabilisce l'etica del proctoring."** Una revisione di **80 studi** ha trovato che il **35% non dichiarava il proprio dataset, il 40% valutava un singolo modello, il 30% non era riproducibile e solo il 25%** soddisfaceva lo standard di reporting. La base di evidenze è debole proprio sulle domande a cui un'istituzione deve rispondere prima del dispiegamento.
+- **"La privacy è una casella di conformità anziché un vincolo di progetto."** Quasi ogni strumento di IA che personalizza, prevede o valuta dipende dai dati dello studente, il che rende la minimizzazione dei dati una decisione di progetto. Uno strumento che richiede quei dati non ha un'impostazione privacy opzionale; ha una dipendenza dai dati che il progetto ha scelto.
+- **La consapevolezza delle pratiche sui dati non deriva dal vederle.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] ha trovato il **66% di 47 studenti del settimo anno** selezionare l'opzione meno protettiva sui chatbot che leggono i loro testi, e il **47%** liquidare l'influenza algoritmica come "solo divertimento" — misurato **un mese dopo** una lezione in cui la classe aveva visto il proprio comportamento registrato proiettato in diretta, aveva reagito che era "spaventoso", e diversi erano rimasti durante l'intervallo per continuare a usare la piattaforma. Un'istruzione sulla privacy che rende visibile il meccanismo senza rendere concreto il costo lascia la posizione immutata. L'autore nota che i punteggi bassi qui possono essere **più affidabili di quelli alti**, poiché per questi item non esiste una risposta socialmente attesa, mentre responsabilità e governance invitano alla risposta che suona corretta.
 
 ## Concetti collegati
 
@@ -83,6 +98,7 @@ La privacy si collega alle [[learning-analytics|learning analytics]] (il raccogl
 
 ## Articoli collegati
 
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny for your prompts: fuga di contesto nelle piattaforme di chat con IA (Bekos et al. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]

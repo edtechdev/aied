@@ -1,6 +1,7 @@
 ---
 title: Costruttivismo
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_resources: [vibes-diy]
 type: concept
 foundations: [learning-design]
@@ -8,13 +9,17 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -43,7 +48,6 @@ Il costruttivismo è una famiglia di teorie piuttosto che una singola dottrina, 
 - **La conoscenza pregressa plasma il nuovo apprendimento.** Le nuove idee sono interpretate attraverso i modelli mentali esistenti di chi apprende, per cui l'istruzione deve portare in superficie e costruire su ciò che chi apprende già sa — un principio direttamente rilevante per le [[misconceptions|misconcezioni]] e per i tutor basati sull'IA che si adattano a chi apprende.
 - **L'interazione sociale sostiene la costruzione.** Un filone importante — il costruttivismo sociale — sostiene che il significato sia co-costruito attraverso dialogo, collaborazione e attività culturalmente [[situated-learning|situate]]. Questo collega il costruttivismo al [[collaborative-learning|collaborative learning]] e agli approcci [[socratic-method|socratici]] in cui l'IA stimola anziché dettare. ([[ai-agents-constructive-conflict-design-education-2026]])
 - **La costruzione è visibile nell'attività.** Chi apprende rivela (e consolida) la propria comprensione generando, spiegando e producendo — ed è per questo che il [[icap-framework|quadro ICAP]] colloca [[student-engagement|il coinvolgimento]] «costruttivo» e «interattivo» al di sopra delle modalità «attiva» e «passiva». ([[hingle-collaborative-ai-literacy-2025]]) ([[icap-cognitive-engagement-llm-agents]])
-
 Un confine della teoria è che il costruttivismo presuppone un'agentività epistemica centrata sull'umano, il che lo lascia insufficiente a dar conto di un'IA che simula il ragionamento e co-costruisce significato; il supplemento proposto è la co-agentività epistemica, in cui chi apprende tratta l'output dell'IA come contestabile e conserva la sovranità epistemica su ciò che conta come conoscenza ([[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel (2026)]]).
 
 ## Costruzionismo
@@ -110,6 +114,12 @@ Il costruttivismo plasma anche il modo in cui l'alfabetizzazione sull'IA stessa 
 2. **Usare la lente del [[icap-framework|quadro ICAP]].** ICAP classifica il coinvolgimento in modalità costruttiva, interattiva, attiva e passiva — usatelo per valutare se le interazioni con l'IA eliciti effettivamente le modalità costruttiva e interattiva anziché il consumo passivo. Chi progetta dovrebbe favorire le modalità più profonde (costruttiva e interattiva) laddove l'obiettivo di apprendimento lo giustifichi. ([[hingle-collaborative-ai-literacy-2025]])
 3. **Allineare teoria e implementazione.** I ricercatori dovrebbero guardare oltre il fatto che l'IA «funzioni» a *come* essa incarni una teoria dell'apprendimento, verificando il divario costruttivismo-a-nome / comportamentismo-nei-fatti. ([[ai-vocational-education-training-review]])
 4. **Studiare l'agentività di chi apprende e il trasferimento.** Gli impegni costruttivisti implicano valutare non solo i guadagni immediati ai test ma se chi apprende sappia trasferire e applicare in modo indipendente la comprensione che ha costruito. ([[research-methods-aied]])
+
+## Idee sbagliate comuni
+
+- **«Si può riconoscere l'insegnamento costruttivista dalle domande che vengono poste.»** Un classificatore DeBERTa **ha classificato le domande fattuali di trasmissione della conoscenza con una precisione del 96,67%, ma le domande di facilitazione solo con il 78,79%**, e **ogni modello ha confuso i due ruoli di ordine superiore**. Il costrutto che conta di più è quello che il rilevamento automatizzato gestisce peggio.
+- **«I tratti superficiali di una lezione ne rivelano la pedagogia.»** Il fallimento del classificatore non è un dettaglio implementativo. I ruoli di facilitatore e di costruttivista sono i casi difficili proprio perché sono definiti da ciò che l'insegnante fa con il pensiero di chi apprende, e quella relazione non è recuperabile dal solo testo della domanda.
+- **«Il costruttivismo significa che l'insegnante non spiega.»** La teoria colloca l'apprendimento nella costruzione che chi apprende fa a partire dall'esperienza, il che è compatibile con l'istruzione diretta. Trattarlo come un divieto di dire fraintende sia la teoria sia le evidenze sugli esempi svolti.
 
 ## Concetti collegati
 

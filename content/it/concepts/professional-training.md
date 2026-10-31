@@ -2,6 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Apprendimento sul posto di lavoro
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -10,13 +11,17 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T16:44:25-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,6 +44,7 @@ ai_assist:
 - **Simulazione e pratica:** l'[[adaptive-virtual-patient-psychotherapy-training|addestramento con pazienti virtuali]] e i [[astra-atco-training-simulator|simulatori di addestramento ATCO]] creano ambienti di pratica professionale basati sull'IA. Nella [[teacher-education|formazione degli insegnanti]], la simulazione di role-play con l'IA estende questo approccio all'insegnamento basato sulla pratica: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulava uno studente di matematica della scuola media portatore di un [[misconceptions|concetto erroneo]], così che gli insegnanti in formazione potessero esercitarsi a diagnosticare e correggere gli errori degli studenti, in linea con le "approssimazioni della pratica" dell'apprendimento professionale dell'[[teacher-role|insegnante]] basato sulla pratica, come complemento economico a piattaforme costose come TeachLivE.
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] aggiungono una lezione sulle politiche di coaching: la riduzione graduale dell'assistenza in base alla competenza stimata dello studente ha ridotto del 27,9% il tempo sul giro del simulatore (p = 0,005) e i guasti di 3,52 per giro, mentre una riduzione graduale basata su regole e su un calendario fisso non ha prodotto alcuna variazione affidabile del tempo sul giro.
+- **Una prova volontaria e solo testuale non ha mosso nulla.** Su 201 studenti di medicina del primo anno a cui è stato offerto un paziente GPT-4o prima della loro prima lezione con pazienti standardizzati, 49 lo hanno usato, e nervosismo, preparazione, autoefficacia e competenza autopercepita non differivano dagli 84 del gruppo di controllo; 6 dei 19 non utilizzatori che hanno indicato una ragione hanno citato problemi tecnici o di accesso ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
 - **Integrazione con l'apprendimento permanente:** la [[lifelong-learning]] e la [[research-methods-aied|ricerca]] sull'[[adult-learning]] collegano la formazione professionale all'educazione continua.
 - **Settore pubblico:** l'[[ai-adoption-training-public-sector|adozione dell'IA nel settore pubblico]] esamina la formazione nei contesti governativi.
 - **Framework di preparazione alla forza lavoro:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propongono un framework Workforce Readiness Level (WRL) che adatta la scala Technology Readiness Level in nove stadi di competenza valutati su quattro pilastri (alfabetizzazione [[ai-literacy|sull'IA]] e digitale, fluidità cyber-fisica, [[human-ai-collaboration|collaborazione uomo-macchina]], processo decisionale basato sui dati), secondo una regola del "pilastro non sottile". Le evidenze dei capstone sulla manifattura intelligente mostrano che gli stadi di preparazione più elevati sono condizionati dall'esperienza radicata nel settore piuttosto che dai corsi — il che indica l'apprendimento integrato nel lavoro come essenziale per la formazione professionale all'IA.
@@ -49,6 +55,7 @@ ai_assist:
 - **Previsione sulla forza lavoro:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] esaminano la letteratura grigia statunitense sull'IA e sulla forza lavoro dell'ingegneria e dell'informatica, inquadrando il "Problema del doppio treno" (cambiamento rapido vs. urgenza delle politiche) e raccomandando che l'[[higher-ed|istruzione superiore]] dia priorità a competenze durevoli in ambito IA, all'[[ethics|etica]] e alla [[governance|governance]], e a credenziali basate sulle competenze allineate ai ruoli emergenti (ad esempio [[prompt-engineering]], audit dell'IA, [[educational-policy-ai|politiche sull'IA]]) per sostenere un lavoro centrato sull'essere umano in un'economia automatizzata.
 - **Le progettazioni che preservano le competenze soccombono sotto metriche di produttività.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] sostiene che l'interazione riflessiva contraddice la promessa di decisioni più rapide e di maggiore produttività che guida l'adozione dell'IA nel lavoro professionale: uno studio controllato può assorbire quell'attrito, un ambiente che misura la performance in termini di velocità o di quantità no, e laddove i concorrenti offrono un supporto equivalente senza attrito, le progettazioni che preservano le competenze diventano uno svantaggio competitivo — un problema che, secondo l'autore, potrebbe appartenere alla politica organizzativa o al governo piuttosto che alla progettazione dell'interazione.
 - **Valutazione orale per la capacità professionale.** Uno studio progettuale sulla formazione tecnica e professionale (TVET) affronta un disallineamento storico tra una valutazione dominata dal testo e le capacità verbali e situazionali che le qualifiche professionali certificano, usando un [[llm]] a supporto di una valutazione orale interattiva. Su quattro coorti, il formato vocale è stato giudicato realistico da 21 studenti su 33, senza risposte dissenzienti sul suo vantaggio rispetto a un [[eportfolio|portfolio]] scritto, e il sistema girava completamente offline su un singolo portatile per un massimo di 12 studenti simultanei, cancellando le registrazioni dopo 90 giorni e lasciando la valutazione ai valutatori ([[ai-supported-oral-assessment-tvet-2026]]). È un esempio concreto di IA che amplia la gamma di competenze valutabili nella formazione professionale, anziché limitarsi ad automatizzare i formati scritti esistenti. Le sue coorti, però, erano classi di automazione e ingegneria di Livello 3, per cui le evidenze si collocano nell'[[vocational-education|offerta formativa professionale iniziale]] anziché nell'aggiornamento professionale sul posto di lavoro di cui si occupa questa pagina.
+- **È nell'incontro che la comprensione diventa valutabile.** Quando uno strumento generativo redige l'analisi, un aggiornamento di ricerca rifinito non mostra più se un tirocinante comprende il lavoro, così [[prunuske-cognitive-windows-research-meetings-2026|Prunuske e Adams-Phillips (2026)]] propongono tre finestre diagnostiche per le riunioni di ricerca (calibrazione metacognitiva, spiegazione concettuale, sensemaking collaborativo) con prompt che fanno emergere ciò che un riassunto ha omesso.
 
 - **Sono le condizioni istituzionali, non il contesto nazionale, a spiegare i divari di preparazione.** Un'indagine comparativa su 568 docenti universitari
   di centri di sviluppo della docenza cinesi (n = 340) e kazaki (n = 228) ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu e Xiu, 2026]])
@@ -72,8 +79,17 @@ ai_assist:
 La formazione professionale differisce dalla formazione accademica per l'attenzione alle competenze applicate, alla rilevanza immediata per il posto di lavoro e alle caratteristiche dello studente adulto. La teoria dell'[[adult-learning]] e i principi dell'[[adult-learning]] informano la progettazione della formazione professionale all'IA. Il suo altro confine è la [[vocational-education|formazione e istruzione professionale]]: la VET ammette persone che non ricoprono ancora il mestiere e si conclude con una qualifica artigianale o tecnica, per cui porta con sé la preparazione professionale iniziale e i quadri delle qualifiche che la certificano, mentre la formazione professionale parte da un ruolo esistente — riqualificazione, formazione professionale continua o certificazione del fornitore — e presuppone la competenza che la VET conferisce.
 
 **La rigenerazione dell'expertise come questione formativa.** Il framework dei beni comuni cognitivi ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) sostiene che lo sviluppo delle risorse umane (HRD) debba andare oltre la riqualificazione organizzativa per arrivare alla tutela a livello di professione: eliminare le posizioni junior di sviluppo nei settori esposti all'IA può impoverire il patrimonio condiviso di expertise da cui tutte le organizzazioni dipendono, con un effetto ritardato nel tempo che si manifesta solo dopo 5–20 anni. Questo ridefinisce la formazione professionale, dallo sviluppo della competenza individuale alla manutenzione di un bene comune collettivo.
-
 **Abbinare la produzione con l'IA alla verifica, e cercare misure esterne.** [[crewscaler-ai-upskilling-framework|Nguyen et al. (2026)]] inseriscono controlli automatizzati delle allucinazioni e una verifica da parte di esperti di materia (SME) tra la stesura e l'erogazione lungo una pipeline di aggiornamento professionale in cinque fasi, e fanno poggiare le affermazioni più forti del framework su un accreditamento NASBA CPE e su un esame di certificazione del fornitore, piuttosto che su misure di successo autodefinite.
+
+## Idee sbagliate comuni
+
+**"I corsi producono competenza occupazionale."** Il framework su questa pagina colloca i più alti stadi di competenza dietro l'esperienza radicata nel settore anziché dietro i corsi, il che è un limite reale a ciò che un programma di formazione può rivendicare. Un corso può costruire i prerequisiti; lo stadio vincolato richiede il lavoro.
+
+**"Ridurre l'assistenza secondo un calendario equivale a ridurla secondo l'evidenza."** Non è così. La riduzione dell'assistenza in base alla competenza *stimata* dello studente ha ridotto il tempo sul giro del simulatore del **27,9% (p = 0,005)** e i guasti di **3,52 per giro**, mentre una riduzione basata su regole e su un calendario fisso non ha prodotto alcuna variazione affidabile. La stessa quantità di supporto, rilasciata su un segnale diverso, è un intervento diverso.
+
+**"La formazione sull'alfabetizzazione sull'IA si generalizza tra i ruoli."** La maggior parte degli strumenti non misura la competenza specifica del ruolo: in una revisione sistematica di **33 strumenti di alfabetizzazione sull'IA per insegnanti**, **29 (87,9%)** erano rivolti a concetti generali sull'IA mentre solo **4 (12,1%)** affrontavano l'uso pedagogico o occupazionale che il lavoro richiede davvero. Un programma costruito su strumenti generali sta misurando un proxy.
+
+**"Un simulatore è un sostituto della formazione sul posto di lavoro."** Sviluppa la procedura e rimuove la conseguenza, il che è prezioso ed è esattamente la parte che non può trasferirsi — la conseguenza è il curriculum nel lavoro a rischio di sicurezza.
 
 ## Concetti collegati
 - [[lifelong-learning]]
@@ -90,6 +106,7 @@ La formazione professionale differisce dalla formazione accademica per l'attenzi
 - [[virtual-and-augmented-reality]] — dove la pratica immersiva è più consolidata
 
 ## Articoli collegati
+- [[prunuske-cognitive-windows-research-meetings-2026]] — Moving research meetings from data updates to cognitive windows in the age of artificial intelligence
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[crewscaler-ai-upskilling-framework]]
@@ -109,3 +126,4 @@ La formazione professionale differisce dalla formazione accademica per l'attenzi
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Survey linking prior AI training and frequency of use to Turkish primary teachers' positive perceptions
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as the structuring mechanism for AI-supported professional preparation
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[jongkind-genai-patient-medical-communication-2026]] — Use of a GenAI patient for medical communication training for undergraduate medical students: a quasi-experimental study

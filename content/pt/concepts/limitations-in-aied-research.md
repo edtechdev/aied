@@ -1,7 +1,7 @@
 ---
 title: Limitações na Pesquisa em AIEd
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-10-31T07:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,7 @@ A página de [[research-methods-aied|métodos de pesquisa]] da base de conhecime
 - **O rigor ao nível de síntese é um eixo separado do rigor do estudo primário.** Uma meta-análise pode satisfazer seus próprios critérios de inclusão e ainda assim agrupar estudos que diferem em design, fidelidade de implementação e medida de resultado sem ponderar nada disso: [[ai-supported-instruction-stem-meta-analysis-2026|Doğan e colegas (2026)]] declaram abertamente que não usaram nenhuma ferramenta formal de avaliação de qualidade e trataram os critérios de inclusão como o limiar de rigor, de modo que um estudo quase-experimental e um randomizado contribuíram igualmente para a estimativa agrupada de [[stem-education|STEM]]. A mesma revisão mostra um risco de reporte relacionado: sua heterogeneidade é citada como I² = 82,98% sob um modelo de efeitos fixos e I² = 15,75% sob o modelo de efeitos aleatórios, o que significa que leitores que retiram um único número de heterogeneidade sem seu modelo não podem dizer quão inconsistente o corpus de fato é. Avalie uma síntese por como ela tratou tamanhos de efeito dependentes, qualidade e heterogeneidade, e não apenas por se seguiu um protocolo de busca.
 - **O design de recuperação define os números principais de uma síntese.** Em uma revisão de escopo de 195 estudos de formação de professores, competência digital e [[tpack|TPACK]] foram descritores de busca explícitos, enquanto design instrucional e avaliação não tiveram equivalente, de modo que os 46,5% e 1,9% relatados descrevem o corpus recuperado, e não o campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 - **Tamanhos de amostra pequenos.** Muitos estudos de AIEd são subpotentes — participantes poucos demais para detectar de forma confiável efeitos significativos ou para apoiar as afirmações fortes que às vezes deles se tiram.
+- **O aumento de dados pode fabricar a métrica principal.** Em um corretor automático de redações cuja partição de treino continha o trabalho de 83 estudantes, respostas de nível 1 geradas — templates, truncamento, remoção de palavras-chave — elevaram a concordância de Foco em +0,346 de kappa quadrático ponderado a partir de uma linha de base de 0,028, de modo que o sinal ordinal mais forte repousava sobre texto que nenhum estudante escreveu ([[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]]).
 - **Escores de endpoint podem esconder a coisa estudada.** Em uma revisão PRISMA de 103 estudos de [[higher-ed|ensino superior]], 56% relataram ganhos que eram condicionais a suporte ou verificação, e diferenças nulas de notas frequentemente acompanharam mudanças reais de processo — mais depuração, mais ciclos de verificação —, de modo que as notas por si só não podem dizer se a [[generative-ai|GenAI]] fortaleceu ou esvaziou a prática ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi e Samaha (2026)]]).
 - **O design de validação pode fabricar o número principal.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara e Halloluwa (2026)]] fizeram benchmark de quinze modelos em familiaridade baseada em EEG e mostram que a validação cruzada estratificada padrão permite vazamento temporal e relata até 0,9853 de F1, enquanto a validação Group K-Fold independente de teste derruba o pico para 0,6038 de F1 — ainda acima do acaso, mas longe do resultado citado.
 - **Benchmarks podem fornecer as falhas que relatam.** A renotação por especialistas de 250 itens de física rejeitados atribuiu 238 (95,20%) a erros de benchmark ou de corretor e apenas 12 (4,80%) a erros genuínos do modelo, de modo que a taxa de erro medida de um modelo não pode cair abaixo da taxa de defeito do instrumento. ([[frontier-models-physics-benchmark-audit-2026|Ansari et al. (2026)]]).
@@ -57,6 +62,7 @@ A página de [[research-methods-aied|métodos de pesquisa]] da base de conhecime
 - **A riqueza de reporte é mensurável, e o tipo de método a prediz.** Em 888 artigos de automação de revisão, 38,0% dos artigos de software/produto desde 2023 não relataram nenhuma avaliação, contra 9,3% dos artigos de LLM, e 52% dos 118 artigos de LLM apenas positivos ainda sinalizaram uma barra de confiabilidade não atendida — o padrão por trás dos cinco níveis de divulgação da PRISMA-LLM ([[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta e Lin (2026)]]).
 - **Padronizar dentro de cada conjunto de dados pode esconder uma declaração equivocada de dispersão.** Quando coortes educacionais sintéticas foram padronizadas por sua própria dispersão, o fato de que sua estrutura semanal variava 2,6 a 4,9 vezes menos que a das coortes reais tornou-se invisível às estatísticas relatadas — pré-processamento rotineiro, nas palavras dos autores, e não uma preocupação hipotética ([[synthetic-educational-data-structural-fidelity-2026|Inoue e Yasutake, 2026]]).
 - **Rótulos gerados por modelo não são verdade de base.** Onde os rótulos que treinam ou avaliam um sistema são eles próprios produzidos por modelos de linguagem, a concordância entre anotadores não pode estabelecer validade: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] nunca validaram suas anotações de asserção contra rótulos ouro humanos, e os 49 classificadores de encoder que eles liberam herdam essa procedência e podem não ser válidos onde as aplicações diferem em dimensões significativas. Seu schema também teve desempenho estritamente inferior ao classificador ajustado treinado em dados anotados por especialistas (macro-F1 0,673 contra 0,76), deixando os corpora rotulados por especialistas como algo que vale a pena quando alta confiança é exigida.
+- **A própria base de evidências é distribuída de forma desigual.** Uma revisão de escopo de 407 estudos de avaliação formativa apoiada por tecnologia recorreu apenas à Web of Science e à Scopus. Ela também excluiu 61 registros por critérios de idioma, de modo que o desequilíbrio geográfico que o campo relata pode refletir em parte quais veículos estão indexados ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 
 ## O problema da velocidade: a IA evolui mais rápido do que os achados
 
@@ -104,6 +110,22 @@ Uma limitação adicional, prática, é o **desafio de aplicar a pesquisa ao [[t
 
 O propósito desta base de conhecimento é ajudar a fechar essa lacuna — tornar mais fácil acompanhar, interpretar e aplicar a pesquisa em IA na educação à prática — ao curar achados de acesso aberto em resumos estruturados e acessíveis, conectar trabalhos relacionados por meio de [[ai-education|páginas de conceito]], e sinalizar as limitações que os leitores deveriam pesar. Ela visa apoiar a prática informada por evidência no ensino e no design instrucional e, ao fazê-lo, também trazer à tona lacunas e questões que podem informar nova pesquisa e desenvolvimento. Compreender os limites da pesquisa não é, portanto, um fim em si mesmo: é o que permite aos praticantes aplicar os achados de forma apropriada e permite aos pesquisadores projetar estudos mais fortes que melhor sirvam à prática.
 
+## Duas armadilhas de auditoria que vale conhecer
+
+Duas práticas específicas de reporte inflam ou distorcem uma síntese, e ambas são visíveis no registro publicado, e não hipotéticas.
+
+**A cifra de heterogeneidade depende do modelo, e o modelo raramente é citado.** A heterogeneidade de uma revisão é citada como **I² = 82,98% sob um modelo de efeitos fixos e I² = 15,75% sob o modelo de efeitos aleatórios**. Esses números descrevem os mesmos dados. Um leitor que retira um único número de heterogeneidade sem seu modelo recebeu uma afirmação técnica sem interpretação anexada, e a diferença entre "a maior parte da variância é inexplicada" e "pouca variância é inexplicada" é a diferença entre descartar e confiar no campo.
+
+**A porcentagem principal pode ser um artefato dos termos de busca.** Em uma revisão de escopo de 195 estudos de formação de professores, competência digital e [[tpack|TPACK]] foram descritores de busca explícitos, enquanto design instrucional e avaliação não tiveram equivalente, de modo que os **46,5% e 1,9%** relatados descrevem a estratégia de recuperação antes de descreverem o campo. Uma afirmação de prevalência só é tão significativa quanto a consulta que produziu o corpus.
+
+**E a taxa-base é o número que ninguém declara.** Os limites metodológicos aqui são mensuráveis, e não impressionistas: em uma revisão crítica de 80 estudos de HCI sobre pensamento crítico com IA, **42 (52%) não rodaram nenhum grupo de controle** e a maior parte do resto se apoiou em autorrelato. Quando mais da metade dos achados positivos de um campo vem de designs que não conseguem separar o efeito da IA da atividade ordinária, o prior apropriado sobre qualquer achado isolado é ceticismo, e não aceitação provisória.
+
+## Ideias equivocadas comuns
+
+- **"Seções de limitações são texto de praxe."** Os limites metodológicos são **mensuráveis, e não impressionistas**: em uma revisão crítica de **80 estudos de HCI** sobre pensamento crítico com IA, **42 (52%) não rodaram nenhum grupo de controle**. Uma contagem precisa é o que torna o limite acionável.
+- **"A heterogeneidade é um único número que você pode citar."** A mesma revisão mostra um risco de reporte: a heterogeneidade é citada como **I² = 82,98% sob um modelo de efeitos fixos e I² = 15,75% sob o modelo de efeitos aleatórios**. Os mesmos dados rendem uma história de nove pontos ou uma de dois pontos, dependendo do modelo escolhido, de modo que um I² citado sem seu modelo é ininterpretável.
+- **"Um efeito grande relatado é o número em que se confiar."** Uma manchete como um efeito vindo de **30 estudantes em um curso de um único local** é a forma comum de uma afirmação frágil, e a contagem de estudos sem controles mostra com que frequência essa fragilidade fica sem relato.
+
 ## Conceitos conectados
 
 - [[interpreting-and-applying-aied-research]]
@@ -146,3 +168,4 @@ O propósito desta base de conhecimento é ajudar a fechar essa lacuna — torna
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Scoping review of 195 teacher-education studies where search-string design shapes the reported frequencies
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematic review of 103 GenAI higher-education studies: 56% conditional gains, grades masking process change (Hawi & Samaha 2026)
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — O aumento de dados pode fabricar a métrica principal

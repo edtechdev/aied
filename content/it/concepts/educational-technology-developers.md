@@ -2,6 +2,7 @@
 connected_resources: [playlab]
 title: "Sviluppatori di Tecnologia Educativa"
 created: "2026-10-14T21:58:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -10,13 +11,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: "concepts/educational-technology-developers"
-source_updated: "2026-09-17T15:20:00-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -60,11 +65,34 @@ Il ruolo è anche distinto dai suoi vicini. [[learning-design]] e [[curriculum-d
 
 **Le spiegazioni devono parlare il linguaggio dell'insegnante.** [[xai-teachers-trust-edtech-recommendations-2026]] ha condotto un esperimento within-subject con 41 insegnanti di chimica su uno strumento di raccomandazione con ML: comprensibilità, [[trust|fiducia]] e accettazione correlavano positivamente, e spiegazioni guidate dal dominio nel linguaggio curricolare producevano comprensibilità, [[trust-calibration|fiducia]] appresa e accettazione significativamente maggiori delle spiegazioni basate sulle feature importance. La fiducia era anche dinamica — diversi insegnanti hanno detto che solo l'esperienza in classe l'avrebbe stabilita — e l'accettazione dipendeva dall'allineamento pedagogico e dalla riduzione del carico di lavoro.
 
+**I segnali di credibilità non sono prove di correttezza.** L'aggiunta di citazioni e segnali di autorevolezza a un dibattito [[agentic-ai|multi-agente]] ha innalzato l'abbandono di un giudizio corretto a favore della posizione dell'IA dal 15,0% al 31,8%, quindi la provenienza deve essere verificabile nel punto d'uso ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Co-design su scala istituzionale.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] alla Open University è stato costruito attraverso sei studi di design-based research in 18 mesi con 498 studenti e 20 membri del personale. Circa il 20% era inizialmente scettico; dopo l'uso diretto il 96% voleva che fosse mantenuto, e un RCT esplorativo ha trovato il doppio del tempo di utilizzo ma nessuna differenza significativa sui dati di processo dell'apprendimento. I fattori abilitanti erano organizzativi — sponsorizzazione senior, collaborazione tra unità, iterazione informata dai dati — con lacune nella capacità di pensiero sistemico.
 
 ### Acquisti, apertura e dopo la fine dei finanziamenti
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] fornisce gli input di cui una decisione di acquisto ha bisogno: una soglia hardware di 12 GB di VRAM, un tetto di accuratezza per un modello di classe 7B, energia per query, e un ordinamento delle scelte — retrieval per primo (senza di esso il modello otteneva il 52,3%, al di sotto di una baseline TF-IDF), poi fine-tuning, poi compressione quantization-aware; la licenza aperta è la precondizione per servire un corpus localmente. [[reclaiming-epistemic-agency-co-agency-2026]] inquadra la stessa decisione come governance: i requisiti di trasparenza trasformano l'acquisto in governance epistemologica, la contestabilità e la provenienza diventano condizioni, e i distretti con minore capacità si trovano di fronte alla soglia più alta. [[credential-cognitive-stewardship-ai-assessment]] aggiunge che la governance dei fornitori è apparsa in solo il 29% di 30 pacchetti di policy verificati, i quali specificavano molto più prontamente cosa l'IA possa fare che quale evidenza di apprendimento rimanesse. [[genai-mindtool-generative-learning]] pone la domanda di design — il prodotto incoraggia l'apprendimento *con* lo strumento o scarica il lavoro cognitivo — e [[vocabulary-difficulty-prediction]] mostra il compromesso in miniatura: il modello black-box col punteggio più alto (r > 0,91) era meno spiegabile di quello interpretabile (r > 0,77).
+
+## Idee sbagliate comuni
+
+- **"Le meta-analisi sostengono l'affermazione di prodotto."** Non lo fanno, e la ragione è specifica più che una questione di grado. Un audit di **14 meta-analisi** che affermano che l'IA migliora l'educazione ha trovato che **nessuna giustificava le proprie affermazioni** — tutte tranne due fallivano sul piano metodologico — e una **meta-analisi ritrattata era ancora citata come autorevole dal 60% degli articoli successivi campionati**. La ritrattazione si è propagata più in fretta della correzione, il che significa che la letteratura che una roadmap è probabilmente destinata a citare contiene affermazioni che il campo ha già ritirato.
+- **"Aggiungere citazioni e provenienza rende un sistema più affidabile."** In un contesto di dibattito [[agentic-ai|multi-agente]], aggiungere citazioni e segnali di autorevolezza alla posizione dell'IA **ha innalzato l'abbandono di un giudizio corretto dal 15,0% al 31,8%**. La provenienza non era informazione neutrale: rendeva la risposta sbagliata più persuasiva. I segnali di credibilità devono essere prove di correttezza, non decorazione attorno a un'affermazione.
+- **"La co-progettazione con gli utenti valida il progetto."** La co-progettazione risponde a una domanda diversa da quella dell'efficacia. Quando uno strumento è co-progettato con gli studenti e **il 96% dice di volerlo mantenuto**, quello è un risultato sull'accettabilità. Se l'apprendimento sia migliorato è una misurazione separata, e le due possono puntare in direzioni opposte senza che nessuna sia sbagliata.
+- **"Gli agenti sono il livello di capacità successivo."** L'ablazione di [[instructional-agents-multi-agent-course-gen|Instructional Agents]] è il controesempio utile: la baseline ad agente singolo ha ottenuto il **punteggio peggiore** e la configurazione Full Co-Pilot ha **superato** quella Autonomous. Più autonomia non era il progetto migliore; lo era l'assetto co-pilot. Le scelte di architettura vanno valutate anziché date per migliori con l'aumentare della capacità.
+
+## Implicazioni per la pratica
+
+**Per sviluppatori e progettisti**
+
+- Fonda un'affermazione di progetto su uno studio che hai letto, non su una dimensione dell'effetto che hai citato. Con 14 meta-analisi verificate che falliscono sul metodo e una ritirata ancora in circolazione, il numero di citazioni non è un segnale di validità.
+- Verifica l'autonomia come variabile anziché distribuirla come aggiornamento. Esegui l'ablazione: agente singolo, co-pilot, autonomo. Il risultato di Instructional Agents mostrava la configurazione co-pilot vincente, quindi il default dovrebbe essere quella che ha misurato meglio, non quella che suona più capace.
+- Separa l'accettabilità dall'efficacia nel tuo piano di valutazione. Un numero alto di disponibilità a mantenere lo strumento è un risultato reale e non è evidenza di apprendimento, e confonderli in un rapporto è il modo in cui un prodotto debole sembra forte.
+- Tratta i segnali di credibilità come una manipolazione con un effetto misurato. Aggiungere citazioni ha spostato l'abbandono di una risposta corretta dal 15,0% al 31,8%, quindi esporre la provenienza cambia il giudizio dell'utente — progetta per questo anziché presumere che informi.
+
+**Per i docenti che valutano uno strumento**
+
+- Chiedi come lo strumento è stato valutato sul compito che intendi usare, e se la valutazione era co-pilot o autonoma. Le due non sono intercambiabili.
+- Chiedi quando è avvenuta la valutazione. Le affermazioni di capacità legate a una versione del modello non dichiarata invecchiano in fretta e descrivono un sistema che non eseguirai.
 
 ## Concetti collegati
 
@@ -106,3 +134,4 @@ Il ruolo è anche distinto dai suoi vicini. [[learning-design]] e [[curriculum-d
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — I segnali di credibilità hanno aumentato la deferenza verso consigli errati dell'IA; verifica la provenienza nel punto d'uso

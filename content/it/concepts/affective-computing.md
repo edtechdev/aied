@@ -1,6 +1,7 @@
 ---
 title: "Computazione affettiva"
-created: "2026-10-14T22:31:00-04:00"
+created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -8,13 +9,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: "concepts/affective-computing"
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,6 +62,12 @@ L'affective computing si trova all'intersezione tra [[affective-tutoring]] (la s
 - **Agenti di valutazione emotivamente intelligenti.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un agente [[conversational-ai|conversazionale]] emotivamente intelligente potenziato da [[llm]], ha ridotto l'ansia e la pressione sociale degli studenti durante valutazioni basate sulla performance, preservando al contempo l'[[usability-research|usabilità]].
 - **Empatia ingegnerizzata attraverso la progettazione del prompt, non attraverso la percezione.** Il supporto affettivo non richiede il rilevamento dell'affetto: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] hanno ottenuto una grande differenza nella *percezione di empatia* (21.27 contro 18.24; r = 0.53) tra due agenti LLM di [[physics-education|fisica]] che differivano solo per il ruolo e le mosse conversazionali specificate nel prompt — aperture di assunzione di prospettiva ("Hai questa domanda perché…"), diagnosi delle [[misconceptions|concezioni errate]] e una verifica di comprensione al termine di ogni turno — mantenendo costanti modello, piattaforma e temperatura. Questo è un utile contrappeso all'affective computing guidata dai sensori: la qualità emotiva percepita di un [[pedagogical-agent|agente pedagogico]] può essere progettata nello script dell'interazione, ricordando al contempo ai progettisti che l'empatia percepita è un costrutto auto-riportato piuttosto che una prova di genuina comprensione affettiva ([[student-ai-interaction]]).
 - **Avvisi che orientano un docente anziché adattare un tutor.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] ha dispiegato Dash4Emotion in una classe di geometria della scuola secondaria superiore, dove rettangoli con cornice rossa segnalavano gli studenti letti come in preda a un'emozione negativa; su venti episodi identificati (cinque riportati), ciò che ha spostato l'engagement è stata la risposta del docente a un avviso, non l'avviso stesso. Il punto di progettazione è che la percezione dell'affetto può alimentare una decisione umana anziché la mossa successiva di un tutor adattivo — con l'avvertenza dello studio stesso allegata: non riporta alcuna validazione del rilevamento dell'espressione facciale, per cui il segnale è uno stimolo all'interpretazione del docente piuttosto che una prova dello stato interno di uno studente.
+
+## Idee sbagliate comuni
+
+- **"Più engagement significa più apprendimento."** Uno studio con sensori cerebrali ha trovato che un'**interfaccia vincolata e adattiva alzava l'engagement cognitivo (p = ,018) mentre il chatbot senza vincoli produceva guadagni di apprendimento superiori**. L'interfaccia che coinvolgeva di più insegnava di meno. L'engagement non è un proxy dell'apprendimento, e ottimizzarlo può muovere l'esito nella direzione sbagliata.
+- **"Il supporto emotivo è un'aggiunta morbida al supporto cognitivo."** In un piccolo [[rct]] in classe (**42 completanti su 252 partecipanti**), la versione mindfulness ha raggiunto un **apprendimento dell'algebra simile in meno tempo e con un minor numero di hint richiesti** rispetto al solo supporto cognitivo. La componente affettiva ha cambiato l'efficienza anziché il tetto, il che è un'affermazione diversa e più interessante di "aiuta l'apprendimento".
+- **"I risultati affettivi su piccoli campioni si trasferiscono."** 42 completanti su 252 partecipanti è un disegno al tempo stesso incoraggiante e fragile: il tasso di completamento è esso stesso un risultato su chi ha persistito, e l'effetto è limitato a quel gruppo.
 
 ## Concetti collegati
 

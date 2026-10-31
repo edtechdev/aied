@@ -1,6 +1,7 @@
 ---
 title: Metodi di ricerca nell'AIED
 created: "2026-10-14T22:10:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -11,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: "concepts/research-methods-aied"
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -184,6 +189,19 @@ Un filone metodologico distinto — la [[usability-research|ricerca su usabilit�
 - **Usabilità/HCI:** benefici — identifica le barriere all'adozione, guida progettuale azionabile, veloce ed economica. Limiti — non stabilisce effetti sull'apprendimento, campioni piccoli, la soddisfazione auto-riportata può trarre in inganno.
 
 Nella pratica, la ricerca sull'IA nell'istruzione ricade raramente in modo netto in una sola tradizione. Le evidenze più forti triangolano: una valutazione computazionale o di usabilità stabilisce che un sistema funziona, un esperimento stabilisce che causa apprendimento, gli strumenti quantitativi misurano i costrutti, e il lavoro qualitativo rivela i meccanismi e i significati — rispondendo insieme sia se uno strumento aiuti l'apprendimento sia come e perché.
+
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] aggiunge un filone bibliometrico che si colloca a parte rispetto a questi quattro: mappando 407 record per rete di co-parole e co-autorialità per tracciare lo sviluppo concettuale di un campo. L'autore è esplicito che la lettura SWOT costruita su di esso è un dispositivo interpretativo anziché una tecnica analitica indipendente, il che segna il confine tra sintesi e analisi in questa tradizione.
+
+
+## Idee sbagliate comuni
+
+**"Un'alta accuratezza su un benchmark dimostra l'efficacia educativa."** Non lo fa, e il divario è il problema di misurazione centrale del campo: un sistema può ottenere un'alta accuratezza senza produrre apprendimento, perché l'accuratezza su un benchmark misura la performance sul compito nelle condizioni fissate dal benchmark. L'efficacia educativa richiede un esito del discente in condizioni che la tecnologia non controlla.
+
+**"Una tradizione di ricerca è metodologicamente superiore."** Le tradizioni si scambiano un limite con un altro per costruzione. La ricerca basata su progetti itera su un intervento reale ma non può attribuire i guadagni a uno specifico meccanismo, mentre un [[rct|RCT]] isola le cause ma opera in condizioni artificiali. Scegliere tra loro significa scegliere quale affermazione puoi fare, non quale metodo è migliore.
+
+**"Una regola di misurazione indulgente è una scelta metodologica minore."** Cambia il risultato. Accreditare qualsiasi completamento prediceva la performance successiva non assistita **appena sopra una costante di difficoltà dell'abilità (AUC aggregata 0,604 contro 0,595)** dichiarando al contempo **il 93,9% delle coppie studente-abilità padroneggiate contro il 72,8%** con una regola rigorosa. La regola ha prodotto una differenza di 21 punti in chi veniva dichiarato pronto e quasi nessun miglioramento predittivo da mostrarne in cambio.
+
+**"La significatività statistica stabilisce se un intervento ha funzionato."** Stabilisce se un effetto era rilevabile. Se fosse un effetto di *apprendimento* dipende dalla misura dell'esito, dal confronto e dalle condizioni in cui è stata presa — ed è per questo che le scelte di disegno e di rendicontazione nelle sezioni di questa pagina pesano quanto l'analisi.
 
 ## Concetti collegati
 

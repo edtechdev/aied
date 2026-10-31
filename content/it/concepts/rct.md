@@ -1,6 +1,7 @@
 ---
 title: "ECA (Studio Clinico Randomizzato Controllato)"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -9,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,10 +44,12 @@ La randomizzazione è ciò che distingue un RCT da altri disegni: assegnando cas
 
 - **Micro-RCT come risposta alla tecnologia in rapida evoluzione:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] sostengono che le sperimentazioni su larga scala convenzionali non riescono a tenere il passo delle [[edtech-platform|piattaforme]] di tutoring che cambiano in modo rilevante durante uno studio, e impiegano micro-randomized controlled trial condotti dagli [[teacher-role|insegnanti]] nelle scuole secondarie inglesi (644 studenti su 929 che hanno completato il post-test, g = 0,33) per mantenere ripetibile la stima causale. I compromessi sono dichiarati nel loro stesso disegno: 30,7% di abbandono, esiti allineati al [[curriculum-design|curricolo]] anziché standardizzati in modo indipendente, e solo quattro settimane di follow-up.
 - **Affermazioni di efficacia causale:** gli RCT nell'AIED verificano se un tutor di IA, uno strumento o un trattamento pedagogico migliori gli esiti. [[generative-ai-education-productivity-gaps|Un esperimento randomizzato sull'IA generativa]] con 1.174 partecipanti ha rilevato che la GenAI riduce sensibilmente i divari di produttività legati all'educazione, colmando circa tre quarti della differenza iniziale di rendimento — una chiara stima causale dell'effetto dell'IA.
+- **Un esito misurato dopo un ritardo, non alla fine della sessione.** Randomizzando 120 [[higher-ed|studenti universitari]] allo studio assistito dall'IA o tradizionale degli stessi argomenti e testando la ritenzione 45 giorni dopo, il gruppo assistito dall'IA ha ottenuto il 57,5% contro il 68,5%, un divario di circa 11 punti percentuali ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
 - **Confronto con lo standard di riferimento:** la pagina sui [[research-methods-aied|metodi di ricerca]] colloca gli RCT come il disegno più forte per la validità interna, notandone al contempo i compromessi — costo, condizioni artificiali, IA in rapida evoluzione, campioni piccoli e sotto-dimensionati, e limiti etici nel negare strumenti potenzialmente utili.
 
 - **Una sperimentazione progettata per l'equivalenza, non per la differenza.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]] hanno randomizzato 2.383 adulti assegnandoli a tutoring con IA, tutoring umano dal vivo o un controllo video, hanno redatto nuovi item GRE con ex sviluppatori di test ETS e Kaplan per tenere fuori la contaminazione da test pubblicati, hanno controbilanciato le due forme e hanno verificato l'equivalenza con due test unilaterali contro ±0,25 DS anziché una differenza: le scelte di disegno che rendono interpretabile un risultato di "nessuna differenza significativa".
 - **Randomizzazione per gruppi, bassa adozione e cosa significa allora una stima intent-to-treat.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] hanno randomizzato 2.379 studenti universitari in 13 blocchi assegnando gli *insegnanti* anziché gli studenti, così che ogni studente di una sezione ereditava la condizione del proprio insegnante — il disegno che rende fattibile una sperimentazione di dispiegamento su più sezioni, e quello che genera i problemi di inferenza che lo studio poi documenta. Solo circa il 15% degli studenti delle sezioni trattate ha effettivamente usato lo strumento, quindi gli effetti riportati stimano l'*offerta* di accesso anziché l'uso; gli autori leggono l'intervento come l'uso più ampio dell'IA che la sua introduzione ha indotto, e trattano le sessioni individuali come una questione a parte. Poiché il trattamento era assegnato a livello di insegnante, l'inferenza poggia su 34 cluster — un contesto in cui gli errori standard robusti al cluster sovrastimano la precisione — quindi lo studio riporta insieme a essi l'inferenza per randomizzazione e ne trova robuste le conclusioni. I due effetti principali, un calo di 0,37 DS nei voti finali nel campione con corrispondenza esatta e un calo di 0,90 DS nella partecipazione registrata sulla piattaforma in entrambi i campioni, sono conseguenze a livello di sezione che una randomizzazione per studente dello stesso strumento non avrebbe potuto isolare senza contaminazione tra compagni trattati e di controllo.
+- **Uno strumento scolastico volontario può comunque muovere il carico di lavoro con una dose del 7%.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]] hanno randomizzato 464 insegnanti in 108 scuole primarie inglesi a livello di scuola. Il tempo di preparazione è risultato 0,76 volte quello del gruppo di confronto (IC 95% da 0,64 a 0,89) anche se lo strumento copriva il 7% delle lezioni e l'uso calava lungo le dieci settimane, quindi la stima delimita ciò che offrirlo ha fatto per il carico di lavoro, non ciò che farebbe un'adozione completa.
 - **L'adoione delimita ciò che una sperimentazione può verificare, e il supporto al coinvolgimento non è dosaggio.** [[access-not-enough-ai-tutoring-2026|Robinson et al. (2026)]] hanno condotto due RCT su piattaforme di lettura in cui solo il 60,7% e il 53,3% degli studenti di controllo ha mai usato la piattaforma; un tutor per il coinvolgimento ha aumentato del 71–80% le storie lette senza però produrre alcun guadagno di rendimento, in linea con i 2–5 minuti settimanali raggiunti.
 - **Una scala che converte i nulli in evidenza.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] hanno seguito 8.708 studenti su otto semestri con una potenza tale da rilevare effetti di 0,05 DS e hanno trovato ampi movimenti immediati su compiti binari datati — 34 punti percentuali in più di iscrizioni entro il 16 agosto dopo un singolo promemoria — mentre rendimento accademico, persistenza e laurea non mostravano alcun effetto rilevabile. La scala è la lezione di disegno: a questo N i nulli accademici sono risultati precisi anziché mancati rilevamenti, ed è ciò che consente la conclusione che uno strumento di comunicazione muove ciò che può affrontare e non gli esiti di apprendimento cumulativi.
 - **Una media nulla può mascherare un'eterogeneità che si compensa.** Un RCT pre-registrato che ha randomizzato 538 insegnanti in 24 scuole turche a livello di dipartimento scolastico ha rilevato che il rendimento è sceso di 0,129 DS tra gli insegnanti al di sotto della mediana mentre è salito di 0,054 tra quelli al di sopra, e la motivazione è scesa di 0,111 DS, con un esito compresso dal soffitto (media di controllo 89,2/100) che limitava la potenza.([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]])
@@ -57,6 +64,12 @@ La randomizzazione è ciò che distingue un RCT da altri disegni: assegnando cas
 
 Per il trattamento più completo del disegno sperimentale nell'IA nell'educazione — incluso quando un RCT sia appropriato rispetto a disegni quasi-sperimentali, basati su indagine o computazionali — si veda [[research-methods-aied]].
 
+## Idee sbagliate comuni
+
+- **«La randomizzazione garantisce una stima valida di ciò che lo strumento fa.»** La randomizzazione bilancia i confondenti; non garantisce che qualcuno abbia usato il trattamento. Una sperimentazione randomizzata per gruppi con bassa adozione stima **l'effetto dell'offrire** lo strumento, e intent-to-treat e treatment-on-treated rispondono a domande diverse.
+- **«Una sperimentazione grande è sempre il disegno migliore.»** Alcuni sostengono che le sperimentazioni convenzionali su larga scala **non riescano a tenere il passo di piattaforme di tutoring che cambiano sostanzialmente durante lo studio**, e usano invece disegni guidati dagli insegnanti che restano validi mentre il sistema evolve. Una sperimentazione su un bersaglio mobile può avere potenza adeguata e misurare comunque un sistema che non esiste più.
+- **«RCT ed evidenza osservazionale sono sostituibili.»** Un RCT con **1.174 partecipanti** ha rilevato che la GenAI ha **colmato circa tre quarti di un divario di produttività legato all'educazione** — un'affermazione causale precisa su uno specifico periodo. L'osservazione spiega il meccanismo e l'adozione; non può portare quella stima, e l'RCT non può spiegare il perché.
+
 ## Concetti collegati
 
 - [[research-methods-aied]]
@@ -69,9 +82,11 @@ Per il trattamento più completo del disegno sperimentale nell'IA nell'educazion
 
 ## Articoli collegati
 
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Il tempo di pianificazione delle lezioni è sceso a 0,76 di quello del gruppo di confronto in 108 scuole primarie, con una dose d'uso dello strumento del 7%
 - [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Group randomization by instructor: a 0.37 SD fall in final grades and a 0.90 SD fall in platform participation, with 15% uptake and inference on 34 clusters (Liu et al. 2026)
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Un esito misurato dopo un ritardo, non alla fine della sessione

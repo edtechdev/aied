@@ -1,7 +1,7 @@
 ---
 title: "Conhecimento prévio"
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-28T01:09:26-04:00"
+updated: "2026-10-31T07:30:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -15,6 +15,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,16 @@ A IA generativa tornou o conhecimento prévio uma consideração central de desi
 2. **Modele o estado de conhecimento prévio de quem aprende.** Construa modelagem de estudantes e adaptação sobre conhecimento prévio estimado (e seus mal-entendidos), não sobre uniformidade presumida, para tornar a personalização genuinamente responsiva.
 3. **Traga à tona e enfrente os mal-entendidos.** Quando o conhecimento prévio está incorreto, ele vai interferir; a instrução deveria eliciar e corrigir mal-entendidos em vez de acrescentar conteúdo novo sobre fundações defeituosas.
 4. **Pondere a troca de atrito.** Ativar o conhecimento prévio acrescenta dificuldade desejável (recuperação, integração) que os padrões de remoção de atrito da IA tendem a apagar — uma tensão a gerenciar deliberadamente, em vez de deixar a automação resolvê-la por padrão.
+
+## Ideias equivocadas comuns
+
+**"O conhecimento prévio prevê quem faz o trabalho cognitivo."** Ele prevê desfechos com mais confiabilidade do que prevê comportamento. Em um estudo de aprendizagem por ensino de cinco dias com **23 tutores do ensino fundamental 2**, as notas prévias em teste **não** previram a proporção de respostas de construção de conhecimento que um tutor produziu, e tutores de conhecimento prévio baixo se dedicaram a construir conhecimento em vez de assumir menos. Quem se engaja na luta produtiva não é simplesmente quem chega sabendo mais.
+
+**"A terceirização cognitiva é um traço estável de quem aprende, então o mesmo estudante terceiriza a mesma quantidade em qualquer situação."** Ela acompanha o conhecimento prévio dentro da tarefa. Em um estudo de escrita de síntese, o **agrupamento de alto conhecimento e mínima terceirização escreveu 80% da sua redação contra 2% do agrupamento de maior terceirização**. A terceirização é, portanto, substancialmente uma resposta ao que quem aprende já tem e ao que a tarefa exige, o que a torna uma variável de design, e não de caráter.
+
+**"Estudantes com menos conhecimento prévio precisam de mais apoio de IA."** Essa é a direção mais propensa a ampliar a lacuna, já que o padrão de terceirização medido concentra a perda de autoria onde o conhecimento prévio é mais fino. Um apoio que entrega o trabalho a quem está menos equipado para detectar a substituição retira justamente a atividade que construiria o conhecimento que falta.
+
+**"O conhecimento prévio é um insumo fixo que o curso não pode mover."** Ele é o fator de maior peso na aprendizagem nova, o que faz de construí-lo a tarefa de maior alavancagem, e não uma condição de fundo — a razão pela qual o conhecimento de domínio é a intervenção por direito próprio, e não meramente a covariável.
 
 ## Conceitos conectados
 

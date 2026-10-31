@@ -1,6 +1,7 @@
 ---
 title: "Addestramento e fine-tuning degli LLM"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -12,13 +13,17 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -73,6 +78,7 @@ Quando un modello generale non può essere indotto a mantenere una proprietà ch
 Il pattern si ripete su compiti molto diversi:
 
 - **Ancoraggio al curriculum.** Un dataset di istruzioni multilingue di 24.795 esempi ancorato agli Indian Knowledge Systems ha prodotto un fine-tune da 7B che segnava **6,39** su un panel esterno di cinque giudici (mediana su 1.201 item stratificati). È entro **0,15** da un forte modello generale di riferimento a una frazione del costo di deployment — mentre lo stesso modello base segnava **vicino allo zero sulle dimensioni specifiche degli IKS** senza il fine-tune ([[iks-instruct-dataset-indian-knowledge]]). Quel divario tra "competente in generale" e "competente qui" è l'intero argomento a favore dell'adattamento al dominio. Notate anche il dettaglio controintuitivo che gli autori riportano: la qualità **non** cresceva in modo monotono con la cura dei dati.
+- **I dati strutturati dal [[curriculum-design|curricolo]] sono efficienti in termini di campioni.** Con un budget abbinato di circa 2.300 campioni, il fine-tuning su coppie domanda–risposta derivate da un [[knowledge-graph|grafo di conoscenza]] K–12 dei libri di testo People's Education Press ha superato fette di pari dimensione di otto corpus di istruzioni mainstream, e i guadagni si sono trasferiti oltre le materie addestrate, prova che la struttura curricolare è ciò che distingue i dati di addestramento educativi ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 - **Affidabilità della valutazione, a basso costo.** Un singolo adattatore LoRA addestrato su circa **3.900** esempi valutati raccolti ha portato cinque piccoli modelli aperti (4B–30B) alla parità o meglio con un valutatore umano su due esami di informatica, e ha quasi annullato la sensibilità alla persona (drift ≤ 0,32 MAE) ([[llm-graders-computer-science-exams-2026]]). Un adattatore, un dataset, diversi modelli base — questa è la forma di un deployment pratico.
 - **Automazione selettiva.** La confidenza era un predittore affidabile dell'errore di valutazione (β = −0,602, p < 0,001). L'instradamento del **20%** meno fiducioso delle risposte alla revisione umana ha portato un modello GPT-3.5 fine-tuned da r = 0,781 a **r = 0,822** (RMSE 0,5990 → 0,5544) riducendo il lavoro manuale di valutazione di circa l'**80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]). Il fine-tuning qui non sostituisce l'umano; rende conveniente l'attenzione dell'umano.
 - **Misurare costrutti che altrimenti valutereste a mano.** Trasformatori ungheresi fine-tuned (hubert-base-cc, PULI-BERT-Large) sono stati messi a benchmark contro feature TF-IDF ed embedding Qwen3 per la valutazione della scrittura riflessiva nella [[teacher-education|formazione degli insegnanti]] ([[reflection-level-classification-hungarian-essays-2026]]), e un modello multimodale fine-tuned (basato su Qwen3.5) ha dimostrato di ricostruire le curve caratteristiche degli item per item a scelta multipla, apprendendo i pattern di risposta codificati nelle curve 3PL e MCM piuttosto che essendone informato ([[multimodal-item-parameter-estimation-2026]]).
@@ -151,6 +157,13 @@ Distillata dalle evidenze sopra, nell'ordine che evita di sprecare calcolo:
 
 Questa pagina è la compagna *come un modello viene fatto* di [[llm]], che copre cosa sono i grandi modelli linguistici e come si comportano. Si colloca sotto [[ai-technologies]] come nodo dell'addestramento e dell'adattamento, accanto a [[rag]] (l'alternativa di recupero che di solito viene prima), [[prompt-engineering]] (la leva più economica), e [[reinforcement-learning]] (la metà RL del post-addestramento). I suoi output alimentano [[intelligent-tutoring]] e [[adaptive-learning]]; le sue applicazioni educative più comuni sono [[automated-assessment]], [[automated-essay-scoring]] e [[ai-feedback-quality]]; e i suoi parenti concettuali più stretti sono [[educational-nlp]], [[simulating-students]], [[open-source]] e [[student-modeling]]. I rischi che crea sono detenuti da [[pedagogical-safety]], [[ai-sycophancy]], [[hallucination-risk]] e [[privacy]].
 
+## Idee sbagliate comuni
+
+- **«Il fine-tuning è il modo per rendere un modello bravo nel tuo compito.»** Recupero e prompting vengono **prima nell'ordine decisionale**, e il risultato più chiaro della knowledge base è che il post-addestramento è una **terza scelta, non la prima**. Il fine-tuning di un modello sui dati di valutazione ha migliorato **formattazione e similarità** mentre un fine-tune separato **falliva del tutto nel generare feedback** — il metodo ha cambiato la superficie e non la competenza.
+- **«Il modello è il principale determinante dei guadagni di apprendimento.»** La scelta del modello e del prompt spiega solo **circa il 15%** del divario tra un LLM e i guadagni di apprendimento degli studenti. Ottimizzare il restante 85% è dove sta il lavoro, e non è nei pesi.
+- **«Un modello locale andrà peggio di uno ospitato, quindi il recupero è una leva minore.»** In una valutazione a tre configurazioni, **il recupero, non il modello, è stata la decisione progettuale di primo ordine**: l'LLM locale **senza recupero raggiungeva solo il 52,3% di accuratezza, sotto una baseline TF-IDF**. Aggiungere il recupero ha portato lo stesso modello oltre una soglia che nessuno scambio di modello avrebbe raggiunto da solo.
+- **«Più dati di addestramento significano un comportamento didattico migliore.»** Il fine-tune sulla valutazione che migliorava la formattazione peggiorando la generazione di feedback è il controesempio in miniatura: l'ottimizzazione contro un bersaglio dall'aspetto simile può migliorare il proxy e degradare la cosa che volevate.
+
 ## Concetti collegati
 
 - [[llm]] — cosa sono questi modelli; questa pagina spiega come sono fatti
@@ -219,3 +232,4 @@ Questa pagina è la compagna *come un modello viene fatto* di [[llm]], che copre
 - [[simulated-students-tutoring-dialogues-2026]] — whether simulated students behave like students
 - [[inside-llm-student-simulator-reasoning-2026]] — fine-tuning a model to act and think like a student
 - [[history-aware-student-simulation]] — simulation conditioned on a learner's trajectory
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — I dati strutturati dal curricolo sono efficienti in termini di campioni

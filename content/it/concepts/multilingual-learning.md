@@ -1,6 +1,7 @@
 ---
 title: Apprendimento multilingue
 created: "2026-10-14T22:40:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_resources: [mglearn]
 type: concept
 technology: [llm]
@@ -8,13 +9,17 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -48,6 +53,8 @@ L'apprendimento multilingue è una dimensione fondativa di equità dell'[[ai-edu
 
 L'AI multilingue deve andare oltre la traduzione per riflettere una [[culturally-relevant-pedagogy|pedagogia culturalmente rilevante]] — generando contenuti che siano appropriati linguisticamente e contestualmente. Gli studi sulla [[llm-cultural-relevance-k12|rilevanza culturale degli LLM nella K-12]] e sullo [[scaffolding-critical-engagement-genai-minority-students|engagement critico con GenAI tra gli studenti appartenenti a minoranze]] mostrano che l'allineamento linguistico e culturale plasma il fatto che gli studenti ne traggano effettivamente beneficio. Se non affrontato, il bias monolingue nell'AI approfondisce il [[digital-divide|divario digitale]] e mina l'[[equity-in-ai-education|equità]] nel [[global-south|Sud del mondo]].
 
+Il translanguaging è una possibilità che i chatbot generativi aggiungono e che gli strumenti linguistici precedenti non offrivano. In una revisione sistematica di 24 studi, gli apprendenti chiedevano frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo — un uso che i revisori classificano come una nuova sotto-possibilità anziché come una versione riconfezionata di una esistente ([[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]]).
+
 ## Bias nella valutazione
 
 Le preoccupazioni multilingui riguardano anche la [[automated-assessment|valutazione automatizzata]]: la [[ai-scoring-language-bias-physics|valutazione tramite AI può esibire un bias linguistico]] (ad es. nella [[physics-education|fisica]]), penalizzando chi non è madrelingua. Garantire che gli strumenti di valutazione siano equi tra le lingue fa parte della [[assessment-validity|validità della valutazione]].
@@ -61,6 +68,12 @@ Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea
 - **Riflettere cultura e contesto, non solo traduzione.** L'AI multilingue deve andare oltre la traduzione verso una [[culturally-relevant-pedagogy|pedagogia culturalmente rilevante]] — generare contenuti appropriati linguisticamente e contestualmente ([[llm-cultural-relevance-k12|rilevanza culturale nella K-12]]).
 - **Abbinare l'AI a strutture di supporto multilingui.** Usare modalità vocali e orali ([[kutti-ai-voice-first-learning-companion|compagni vocali]]) dove l'AI basata sul testo fallisce, e supportare l'[[self-regulated-learning|autoregolazione]] in contesti bilingui ([[bilingual-llm-lecture-companion-srl-2026|compagno di lezione bilingue]]).
 - **Osservare il divario digitale.** Il bias monolingue nell'AI approfondisce il [[digital-divide|divario digitale]] e mina l'accesso nel [[global-south|Sud del mondo]] — pianificare infrastrutture e accesso equi insieme alla scelta degli strumenti.
+
+## Idee sbagliate comuni
+
+- **"La lingua d'arrivo deve dominare fin dal primo giorno."** In una **revisione sistematica di 24 studi**, gli apprendenti chiedevano **frasi e spiegazioni contestualizzate nella propria lingua come ponte verso la lingua d'arrivo** — un uso che i revisori classificano come una sotto-possibilità genuinamente nuova anziché come un espediente. Il supporto nella lingua di casa funzionava da scaffolding, non da evitamento.
+- **"La valutazione linguistica con l'IA è distorta contro chi scrive in più lingue."** Qui il bias seguiva la **linea di base umana anziché il modello**: il giudizio comparativo basato su LLM su **testi informativi delle classi 3-6 convergeva con le rubriche dei ricercatori (r = ,59-,73)** e mostrava lo stesso pattern dei valutatori umani. Non è una prova di equità in termini assoluti, ma la prova che il modello non ha introdotto una distorsione nuova sopra quella esistente.
+- **"La parte utile è l'output tradotto."** L'uso-ponte è esplicativo e situato, non sostitutivo. Uno strumento che sostituisce la produzione dell'apprendente elimina la pratica che il ponte doveva rendere possibile.
 
 ## Concetti collegati
 
@@ -76,6 +89,7 @@ Il giudizio comparativo basato su LLM è un caso in cui il bias seguiva la linea
 
 ## Articoli collegati
 
+- [[genai-chatbots-language-learning-affordances-review-2026]] — I chatbot GenAI offrono il translanguaging, un uso che gli strumenti linguistici precedenti non supportavano
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
 - [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion

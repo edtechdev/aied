@@ -1,6 +1,7 @@
 ---
 title: Autovalutazione
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -11,13 +12,17 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -95,6 +100,16 @@ Introduce anche un rischio di denominazione che vale la pena enunciare chiaramen
 - **Usare l'autovalutazione dove è onesta.** Sicurezza, competenza percepita e disponibilità a dichiarare l'uso dell'IA sono cose legittime da misurare chiedendole. Il rendimento non lo è.
 - **Chiedere giudizio, non opinione.** L'autovalutazione più difendibile nell'era dell'IA chiede a uno studente di valutare uno specifico pezzo di lavoro rispetto a criteri e di motivare la decisione, il che è addestrabile, ispezionabile e collegato al [[evaluative-judgment|giudizio valutativo]].
 - **Attenzione all'effetto coorte.** Per studenti i cui anni formativi hanno incluso un uso sostitutivo dell'IA, una stima di sé accurata può essere indisponibile piuttosto che semplicemente ottimistica, il che sposta il compito didattico dal correggere la sovrastima di sé al ricostruire la registrazione esperienziale di cui essa ha bisogno.
+
+## Idee sbagliate comuni
+
+**«Un'autodichiarazione misura l'abilità che nomina.»** Misura una credenza sull'abilità, e le due cose divergono molto. In uno studio su **288 insegnanti K-12**, l'[[ai-literacy|alfabetizzazione in IA]] autodichiarata correlava con una misura oggettiva della stessa abilità solo a **r = 0,07–0,24** — un intervallo in cui l'autodichiarazione spiega quasi nulla della varianza nella capacità. L'autodichiarazione è utilizzabile come misura della percezione e non come proxy della competenza.
+
+**«Gli studenti sanno giudicare accuratamente il proprio apprendimento.»** L'accuratezza del giudizio su di sé è essa stessa un'abilità, e le evidenze sulla calibrazione puntano nella direzione opposta: in un confronto sperimentale, la formazione esplicita allo scaffolding centrato sul ragionamento ha prodotto una calibrazione dell'autovalutazione migliore dell'accesso senza restrizioni, il che significa che la calibrazione migliora con l'istruzione anziché essere disponibile per default.
+
+**«Aggiungere un ciclo di feedback IA migliora automaticamente l'autovalutazione.»** Un ciclo di feedback cambia ciò contro cui lo studente confronta, il che può migliorare la calibrazione e può anche ancorarlo al giudizio del sistema. Lo studio comparativo qui (**118 studenti universitari del primo anno, 56 in un gruppo GenAI e 62 in un gruppo tra pari**, tre cicli lungo un semestre) è progettato proprio per verificare se faccia il lavoro il ciclo o il confronto sociale — e la risposta non è «il ciclo, per il fatto di essere un ciclo».
+
+**«L'autovalutazione è un'alternativa più morbida al test.»** È un bersaglio diverso. L'autovalutazione sviluppa l'abilità regolatoria di giudicare il proprio lavoro; un test misura la capacità che viene giudicata. Una ricerca che sostituisce l'una con l'altro confonde la capacità di valutare la prestazione con la prestazione stessa.
 
 ## Concetti collegati
 

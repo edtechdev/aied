@@ -1,6 +1,7 @@
 ---
 title: "Istruzione e Formazione Professionale"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -10,13 +11,17 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: "concepts/vocational-education"
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-27T13:25:06-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,6 +61,35 @@ Ciò che è distintivo dell'IA nella VET è un divario tra ciò che il settore d
 
 - **Accelerare la produzione curriculare senza cedere la verifica.** [[crewscaler-ai-upskilling-framework]] applica l'IA attraverso tutte e cinque le fasi dell'upskilling professionale — acquisizione di conoscenza, sviluppo di contenuti, revisione e verifica, [[intelligent-tutoring|tutoraggio]] e sviluppo della valutazione — mantenendo la progettazione del blueprint, la revisione disciplinare e l'autoring dei misconcepiti con gli umani. La sua validazione esterna include l'accreditamento NASBA CPE, tre discenti su tre che hanno superato un esame di certificazione NVIDIA usando solo la knowledge base del framework, e una banca di 530 domande taggata su un blueprint di 53 competenze. Appartiene a questa pagina perché tratta la verifica come una fase di prima classe: il rilevamento delle [[hallucination-risk|allucinazioni]] è largamente assente dalle pipeline educative, e l'articolo riporta che il tutoraggio LLM predefinito raggiunge solo il 52-70% di azioni pedagogiche corrette.
 
+- **Il rinnovo curriculare come obbligo continuo, non come revisione periodica.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifica cinque dimensioni di rinnovo che interagiscono — trasformazione occupazionale, attualità del curricolo, allineamento delle capacità del corpo docente, architettura del programma e allineamento esterno — e sei test di leadership per decidere se un corso vada mantenuto, revisionato, integrato, sostituito o ritirato.
+
+## Idee sbagliate comuni
+
+**«La base di evidenze sull'IA nella VET ci dice qualcosa sull'istruzione professionale.»** Ci dice qualcosa su dei proxy di aula, il che è un divario serio e non un dettaglio: **nessuno studio nella base di evidenze sull'IA nella VET è ambientato in un luogo di lavoro**, eppure la VET è *definita* dall'apprendimento basato sul lavoro. Un risultato su uno strumento di IA in un compito commerciale simulato non ha ancora incontrato le condizioni che rendono distintivo il settore — clienti reali, conseguenze reali per la sicurezza, variazione reale nelle attrezzature dei luoghi di lavoro.
+
+**«Un effetto significativo sulla capacità progettuale o creativa si trasferisce alla competenza occupazionale.»** Il risultato quantitativo più forte qui viene da un **quasi-esperimento a due gruppi di 12 settimane con 63 risposte valide (31 contro 32)**, in cui la condizione con agente immersivo otteneva punteggi più alti in capacità progettuale (η²p = 0,138) e capacità creativa (η²p = 0,111) sotto ANCOVA, con engagement cognitivo d = 0,90. Trentuno studenti per braccio su un compito d'aula è evidenza su quel compito, e la competenza occupazionale non è tra gli esiti misurati.
+
+**«I discenti faranno un uso eccessivo dell'IA nella formazione pratica.»** L'evidenza dei piloti indica il contrario. I piloti esplorativi (**N = 30**, Italia e Cina, **20 sessioni delimitate**) hanno trovato partecipanti che trattavano il sistema come uno strumento di supporto delimitato, con **nessuna aspettativa riportata di sostituzione o dipendenza**. È esplorativo e piccolo, e suggerisce che l'inquadramento dello strumento da parte dei discenti vocazionali come attrezzatura anziché come autorità è una risorsa su cui vale la pena progettare.
+
+**«L'approvazione dei discenti per un compito simulato significa che ha valutato la cosa giusta.»** Dei **33 discenti intervistati, 21 (64%)** concordavano che il compito vocale fosse realistico e la stessa proporzione diceva che dava un modo chiaro per comunicare ciò che sapevano — e nessuno dissentiva sul fatto che parlare in tempo reale si adattasse a questa [[authentic-assessment|valutazione autentica]]. Realismo e chiarezza comunicativa valgono la pena di essere conosciuti e non sono validità: un compito può sembrare autentico e comunque non campionare la prestazione occupazionale che rappresenta.
+
+## Implicazioni per la pratica
+
+**Per i docenti**
+
+- Trattate gli studi basati sul luogo di lavoro come l'evidenza mancante e progettate i vostri piloti per includerli; i guadagni d'aula sono necessari e non sufficienti per una qualifica professionale.
+- Inquadrate gli strumenti di IA come attrezzatura delimitata anziché come autorità. L'evidenza dei piloti suggerisce che i discenti li approcciano già così, e quell'inquadramento vale la pena di renderlo esplicito.
+- Tenete i controlli di autenticità separati dai controlli di validità: chiedetevi quale prestazione occupazionale il compito campiona, non solo se gli studenti lo hanno trovato realistico.
+
+**Per gli sviluppatori**
+
+- Costruite per un'assistenza delimitata e circoscritta al compito, con una fine chiara, che corrisponde a come i discenti vocazionali hanno effettivamente usato i sistemi in questi piloti.
+- Progettate contro la variazione dei luoghi di lavoro — attrezzature, regole di sicurezza, interazione con i clienti — anziché contro una configurazione di laboratorio, perché è lì che avverrà il dispiegamento.
+
+**Per i ricercatori**
+
+- Ambientate almeno alcuni studi nei luoghi di lavoro. Un settore definito dall'apprendimento basato sul lavoro la cui base di evidenze non contiene studi nei luoghi di lavoro non ha ancora messo alla prova la propria affermazione centrale.
+
 ## Concetti collegati
 
 - [[professional-training]]
@@ -71,6 +105,7 @@ Ciò che è distintivo dell'IA nella VET è un divario tra ciò che il settore d
 
 ## Articoli collegati
 
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Rinnovo adattivo del curricolo CTE, cinque dimensioni e sei test di leadership
 - [[ai-vocational-education-training-review]] — First systematic review of AI in VET: purposes, theory and empirical effectiveness
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersive project-based learning and design creativity
 - [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET

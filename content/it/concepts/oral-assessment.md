@@ -1,6 +1,7 @@
 ---
 title: Valutazione orale
 created: "2026-10-14T21:57:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -21,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -61,6 +66,8 @@ I formati nel corpus abbracciano un'ampia gamma di automazione e sincronicità, 
 
 **L'evidenza orale come difesa anziché esame.** [[tool-invariant-framework-agentic-ai|Un framework di valutazione invariante rispetto agli strumenti]] abbina quiz in classe senza IA a difese orali di dieci minuti di lavori assistiti dall'IA e privati dei commenti, valutate su comprensione del codice, comprensione del metodo, terminologia, interpretazione e verifica, con la verifica richiesta per il superamento a prescindere dal totale. Il progetto è argomentato anziché validato; l'aritmetica dello stesso articolo per quindici studenti è di due ore e mezza di contatto per elaborato e circa ventotto ore di contatto per semestre su undici elaborati difesi.
 
+Il formato di interazione decide che cosa può certificare un compito di parlato mediato dall'IA. I compiti dialogici del Duolingo English Test, 713 nel pilota, richiedevano la selezione di una risposta anziché un parlato reattivo, il che, secondo i revisori, disallinea le richieste cognitive del compito dal costrutto che il test dichiara di misurare ([[ai-second-language-listening-speaking-assessment-2025|Goh e Aryadoust (2025)]]).
+
 ## Ansia, bias, e chi svantaggia il formato
 
 Gli orali vengono sostenuti per ragioni di inclusione, perché una risposta parlata è più difficile da comprare di una scritta, e avversati per le stesse ragioni. [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]] catalogha le sfide direttamente: carico di pianificazione, ansia, e bias lungo genere, etnia, lingua e velocità di risposta, oltre agli effetti della correzione non anonima. Contro ciò, le evidenze citate dall'articolo suggeriscono che gli orali possono essere inclusivi quanto gli esami scritti, anche per studenti con dislessia, e che sia la non familiarità, piuttosto che il formato stesso, a guidare la maggior parte dell'ansia riportata; gli studenti di uno studio citato erano meno ansiosi ai loro esami orali successivi.
@@ -75,7 +82,17 @@ Tre risultati vanno contro la lettura dei punteggi orali come guadagni di appren
 
 Il vincolo stringente è il personale e l'hardware piuttosto che la pedagogia, e il corpus è insolitamente candido sull'aritmetica: ventotto ore di contatto per semestre per quindici studenti, undici assistenti didattici per una classe di oltre cento nel progetto CS1, e un singolo portatile a servire dodici apprendenti simultanei nel deployment professionale offline. Non esiste alcuno studio randomizzato che confronti la valutazione orale con quella scritta in questo corpo di lavoro, e ogni studio che misura la differenza è un progetto mono-istituzionale senza gruppo di controllo. La valutazione orale è ben supportata come risposta alla sostituzione assistita dall'IA, e scarsamente supportata come miglioramento dell'apprendimento.
 
+Nessun formato ha una posizione fissa in questo compromesso: l'osservabilità della valutazione orale è una scelta progettuale, e il suo costo di fattibilità è un costo che un programma distribuisce anziché accettare — la fattibilità è una priorità educativa, non il vincolo che erode la buona pratica ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
+Anche la ragione d'integrità dell'orale ha un limite temporale: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] sostengono che occhiali e auricolari con IA possono consegnare suggerimenti nascosti in tempo reale dentro un viva voce dal vivo, perché l'IA indossabile non produce spostamenti dello sguardo né segnali rilevabili, quindi gli orali interattivi non sono più immuni.
+
 - **Il soffitto della scala è il vincolo progettuale.** In un workshop con 73 educatori di [[cs-education|informatica]], la valutazione orale e interattiva è stata riportata come la più forte evidenza disponibile della comprensione individuale e il rimedio meno scalabile; le mitigazioni descritte dai partecipanti erano la distribuzione e il campionamento - pool condivisi di assistenti didattici, valutazione tra pari pesata al di sotto di un esame finale, e chiamare a rispondere un sottoinsieme rotante di studenti ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+## Idee sbagliate comuni
+
+- **"La valutazione orale non è scalabile."** Nello [[code-review-genai-cs1|studio CS1 sul colloquio orale di revisione del codice]], **interviste settimanali di quindici minuti portavano il settanta per cento del voto di ogni elaborato**, e i caratteri incollati rispetto al totale restavano comunque informativi. Il costo è reale e il progetto è attuabile alla scala del corso.
+- **"Gli esami orali sono più indulgenti di quelli scritti."** Nel pilota riportato, i punteggi **superavano quelli dei test a scelta multipla in presenza: mediana del midterm 92,5 contro 70 (p < ,001) e mediana del finale 94,2 contro 86,4 (p = ,002)**. La valutazione orale non era l'opzione indulgente.
+- **"Un incontro simulato equivale ai casi a divulgazione progressiva."** In [[ai-standardized-patient-scaffolding-medical-2026|un RCT con cento studenti di medicina del terzo anno]] il sistema con paziente simulato è stato confrontato **con materiale di caso a divulgazione progressiva** — un test diretto dell'equivalenza anziché un'assunzione della stessa.
 
 ## Concetti collegati
 
@@ -93,6 +110,8 @@ Il vincolo stringente è il personale e l'hardware piuttosto che la pedagogia, e
 - [[higher-ed]] — il contesto da cui proviene quasi tutta questa evidenza
 
 ## Articoli collegati
+- [[ai-second-language-listening-speaking-assessment-2025]] — I compiti dialogici non ramificati dell'IA disallineano le richieste del compito dal costrutto del parlato
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — I viva voce dal vivo non sono più immuni: occhiali e auricolari con IA consegnano suggerimenti nascosti in tempo reale (Corbin, Sharpe & Dawson 2026)
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the use of oral exams and assessments (Fenton 2025)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments: integrity, engagement and professional communication
 - [[ai-supported-oral-assessment-tvet-2026]] — Designing AI-supported oral assessment in vocational education
@@ -104,3 +123,4 @@ Il vincolo stringente è il personale e l'hardware piuttosto che la pedagogia, e
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
 - [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[assessment-feedback-trilemma-model-2026]] — Nega a ogni formato una posizione fissa e riformula la fattibilità come priorità educativa

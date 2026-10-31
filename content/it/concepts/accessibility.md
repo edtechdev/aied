@@ -2,6 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibilità
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -9,13 +10,17 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -71,6 +76,13 @@ Un video con sottotitoli accurati e una trascrizione correttamente etichettata �
 - **La diffusione dell'IA sta superando le politiche di accessibilità dell'IA a livello istituzionale.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] ha codificato tutte le 100 università classificate nel Times Higher Education 2026 e ha rilevato che lo 0% pubblica una politica di accessibilità dell'IA autonoma mentre il 93% distribuisce servizi campus basati sull'IA (chatbot per immatricolazioni, alloggi, IT). La lettura caritatevole dell'autrice è che gli obblighi di accessibilità risiedano dentro le politiche generali sui servizi per la disabilità, ma come misurato, i requisiti per gli strumenti di IA non compaiono in alcun punto del record istituzionale pubblico. Una breve dichiarazione istituzionale secondo cui gli strumenti di IA nell'insegnamento e nell'amministrazione devono essere accessibili agli studenti con disabilità sarebbe avanti rispetto all'intero campo misurato.
 
 - **Trascrizione matematico-accessibile di video di [[physics-education|fisica]] (2026):** un flusso di lavoro basato sull'IA che usa Gemini (campionamento audio + video a 1 fps) e LuaLaTeX compila video didattici di fisica in PDF/UA-2 e PDF matematico-accessibili ISO 32005 che superano abitualmente la validazione di accessibilità — un percorso pratico e gratuito per rendere leggibili da screen reader i contenuti video ricchi di equazioni per studenti ciechi e ipovedenti ([[gemini-lualatex-physics-video-transcription-2026]]).
+
+## Idee sbagliate comuni
+
+- **"Una funzionalità di accessibilità che sembra peggiore è peggiore."** Le sovrapposizioni a strisce **hanno degradato l'estrazione più di ogni altra cosa (+35,9% di errore sui caratteri, +38,3% di errore sulle parole)**, eppure **quattro esperti di tipografia e design hanno giudicato leggibili le strisce verticali**, mentre i motivi diagonali fallivano. La leggibilità per la macchina e la leggibilità per la persona sono misurazioni separate, e ottimizzare l'una può danneggiare l'altra. Le affermazioni sull'accessibilità devono dire a quale lettore si rivolgono.
+- **"Accessibilità significa accomodamento."** Una revisione di scoping di **40 studi** sulle tecnologie assistive digitali per studenti neurodivergenti ha trovato che **28 rendevano una diagnosi formale una condizione di partecipazione**. È un modello vincolato alla diagnosi, ed esclude ogni discente che ha bisogni ma nessuna etichetta — l'opposto della progettazione universale.
+- **"Gli effetti medi chiudono la questione."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analizzano **29 studi** e trovano un effetto positivo medio, che è reale e insieme non dice nulla su quale strumento serva a quale bisogno. La media tra interventi eterogenei non è una raccomandazione.
+- **"Velocità e immediatezza sono comodità."** In uno studio di caso qualitativo su **21 studenti universitari ipovedenti** in tre università palestinesi, i discenti inquadravano l'immediatezza come un **requisito fondante di accessibilità, non una comodità**. Ciò che dall'esterno sembra una gentilezza è una precondizione per la partecipazione.
 
 ## Concetti collegati
 - [[differential-effects-across-learner-groups]]

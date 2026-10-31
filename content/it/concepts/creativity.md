@@ -1,6 +1,7 @@
 ---
 title: Creatività
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -9,13 +10,17 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -77,6 +82,12 @@ Il principio di design ricorrente attraverso questi risultati è **mantenere l'a
 ### Collegamenti
 
 La creatività si collega al [[critical-thinking|pensiero critico]] e all'apprendimento [[constructivist|costruttivista]]. È protetta dagli stessi [[reducing-ai-misuse|scaffold]] [[scaffolding]] che preservano l'apprendimento, e dai design di [[authentic-assessment|valutazione autentica]] che premiano il ragionamento originale sui prodotti rifiniti.
+
+## Idee sbagliate comuni
+
+- **"Disturbare gli studenti produce guadagni creativi."** **L'attrito non è guadagno creativo.** Personas di IA contrarie hanno guidato discorsi di sfida-e-riflessione nel **38,2% dei gruppi** eppure non hanno prodotto **alcun miglioramento misurabile della performance creativa**. Il discorso è cambiato e l'esito misurato no.
+- **"La letteratura K-12 stabilisce che la GenAI migliora la creatività."** Una revisione di scoping guidata da PRISMA su **45 studi (2017-2025)** mostra che la GenAI per lo più **migliora** la creatività e **raramente la misura**. Il risultato dominante del campo è un'inferenza dal miglioramento percepito, che non è una misurazione di esito.
+- **"Più dipendenza dalla GenAI significa più output creativo."** Tra **1.157 studenti laureati cinesi**, la dipendenza dalla GenAI era **associata positivamente alla creatività nella ricerca auto-riferita** — e l'associazione è con l'**autovalutazione**, che è la misura più debole disponibile del costrutto.
 
 ## Concetti collegati
 

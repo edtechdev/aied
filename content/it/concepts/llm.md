@@ -1,6 +1,7 @@
 ---
 title: Grandi modelli di linguaggio (LLM)
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -9,13 +10,17 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: "concepts/llm"
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -56,6 +61,12 @@ La knowledge base copre sia LLM generali (GPT-4, Claude) sia adattamenti specifi
 Una linea di lavoro complementare rifonda gli LLM da correttori statici a emulatori di ragionamento [[pedagogy|pedagogico]]. [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hanno mostrato che GPT-4, sostenuto da una rubrica semanticamente precisa e co-perfezionata iterativamente, poteva approssimare il [[evaluative-judgment|giudizio valutativo]] umano nell'[[design-based-research|apprendimento basato sulla progettazione]]: l'accordo iniziale LLM–umano era scarso (Alfa di Cronbach = 0,393; Kappa da −0,06 a 0,18), ma il perfezionamento iterativo della rubrica innalzava l'accordo medio dal 54,75% all'81,25% (Alfa finale = 0,798, Kappa 0,40–0,55), e il clustering K-means delle matriche di punteggi umani e LLM mostrava centroidi altamente correlati (r = 0,89). Lo studio posiziona la rubrica come interfaccia mediatrice tra intenzione pedagogica umana e inferenza della macchina — una prova che gli LLM pronti all'uso non sono intercambiabili nemmeno come valutatori, e che il loro comportamento valutativo è un esito della progettazione plasmato dalla rubrica e dai prompt che ricevono. Anche la capacità grezza del modello differenzia la correzione: [[benchmark|mettendo a benchmark]] undici modelli di IA generativa e di sentence-embedding su 1.885 [[automated-assessment|risposte]] aperte, [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] hanno rilevato che solo GPTo1 raggiungeva un accordo quasi perfetto con i valutatori umani esperti (Kappa di Fleiss 0,82), con Claude3 e PaLM2 poco dietro, mentre i modelli allineati al riferimento come BERT restavano molto indietro — a mostrare che la sensibilità al contesto dei modelli di frontiera conta per una valutazione affidabile delle risposte aperte. Le differenze tra modelli contano anche per gli usi a valle ad alto rischio. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] hanno mostrato che tre LLM producevano prescrizioni di supporto allo studente nettamente divergenti per lo stesso input di [[learning-analytics|learning analytics]], e ciascuno imponeva distinti priori demografici sui profili di studente che generava — una prova che gli LLM pronti all'uso non sono intercambiabili come consulenti prescrittivi. Analogamente, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] hanno rilevato che la correzione da parte di GPT-4 di domande mediche aperte pre-tirocinio [[medical-education|mediche]] saliva ad accordo tra valutatori da sostanziale a quasi perfetto con la facoltà (kappa pesata fino a 0,94) solo dopo tre cicli di perfezionamento iterativo della rubrica, e cadeva a moderato (κw = 0,54) su un item a rubrica olistica — a ribadire che la progettazione della rubrica, non la sola capacità grezza, è la leva decisiva per l'affidabilità della correzione con LLM. Il comportamento specifico del modello emerge anche nel modo in cui gli LLM rispondono agli utenti scettici: un audit algoritmico ha interrogato dieci LLM di frontiera 500 volte ciascuno con una persona di utente scettico sull'IA del Montana rurale [[k-12]] per verificare se i [[ai-technologies|sistemi IA]] consultati da utenti scettici siano predisposti a incoraggiare l'adozione. Otto su dieci riconoscevano le preoccupazioni dell'utente per poi riorientarsi verso inquadrature di [[student-engagement|coinvolgimento con l'IA]]; i punteggi compositi andavano da 3,85 (Claude Sonnet) a 7,52 (Gemini 3.1 Pro Preview), con un panel di correttori IA cross-famiglia che superava il kappa di Cohen >= 0,70. Lo schema era un esito della progettazione dipendente dal modello. La capacità del modello dipende anche da come i modelli sono combinati: Bird (2026) ha effettuato il fine-tuning di otto trasformatori allo stato dell'arte (BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer) per classificare la letteratura inglese per Key Stage del Regno Unito, rilevando che il miglior trasformatore unimodale (BERT) raggiungeva solo un F1 di 0,75 — mentre la fusione di un ELECTRA fine-tuned con una rete neurale di linguistica computazionale innalzava l'F1 a 0,996, a mostrare che la sola classificazione testuale con trasformatori è limitata e che la fusione con caratteristiche complementari è dove risiedono i guadagni.
 
 Gli LLM affermano anche preferenzialmente: su 11 modelli, le risposte dell'IA affermavano le posizioni degli utenti il 49% in più rispetto alle risposte umane, e le risposte più compiacenti ottenevano valutazioni più alte, accrescendo fiducia e uso continuato — una modalità di errore per il coaching, il tutoring o il feedback, dove la sfida costruttiva è il punto ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+
+## Idee sbagliate comuni
+
+- **"La capacità grezza del modello determina quanto bene riesce a diagnosticare gli errori."** È il **grounding** a determinarlo: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora e MacLellan (2025)]] hanno mostrato che fornire a GPT-4 l'interfaccia del tutor **cambiava sostanzialmente** la sua diagnosi degli errori. Ciò che al modello viene dato sul contesto del discente fa più lavoro di quale modello sia.
+- **"Qualsiasi modello di frontiera si comporta allo stesso modo come partner di apprendimento."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash e Connell Pensky (2025)]] hanno studiato **tre famiglie di frontiera** — ChatGPT, Gemini e Claude — in un confronto in classe, proprio perché le famiglie non sono intercambiabili come collaboratori.
+- **"Modelli migliori significano meno scaffolding necessario."** GPT-4 **sostenuto da una rubrica semanticamente precisa e co-perfezionata iterativamente** poteva approssimare il [[evaluative-judgment|giudizio valutativo]] umano nella [[design-based-research|ricerca basata sulla progettazione]]. L'approssimazione veniva dalla rubrica perfezionata nel corso delle iterazioni, non dal solo modello.
 
 ## Concetti collegati
 

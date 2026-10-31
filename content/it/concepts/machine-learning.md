@@ -5,13 +5,18 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-10-14T22:05:00-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +68,16 @@ La [[generative-ai|IA generativa]] — i grandi modelli linguistici e i sistemi 
 ## Formazione degli insegnanti e alfabetizzazione all'apprendimento automatico
 
 L'apprendimento automatico compare nell'educazione anche come *materia*. Nella [[microbit-robotics-machine-learning-teacher-training-2026|formazione iniziale degli insegnanti]], interventi pratici di coding e robotica con il Micro:bit e progetti di classificazione di immagini supervisionata hanno migliorato significativamente la conoscenza che i futuri insegnanti avevano dei concetti computazionali e dell'apprendimento automatico introduttivo, e i loro atteggiamenti verso l'insegnarlo. Con l'ingresso dell'[[ai-literacy|alfabetizzazione all'IA]] nei curricoli, dotare i [[teacher-education|docenti]] di una padronanza operativa dell'apprendimento automatico diventa un prerequisito per insegnarlo agli studenti. Una via contrastante raggiunge gli stessi concetti senza alcun software: nella [[sung-ai-literacy-unplugged-ml-k12-pd-2026|formazione professionale online di Sung and Gunpinar (2026)]], dieci educatori della scuola primaria e secondaria costruirono a mano una "matrice di feature spiegabile" — una tabella sì/no di feature di forma che *è* il classificatore, testabile e rivedibile anziché opaca — con il gioco di ordinamento di Code.org e Google Slides come unici strumenti. La loro [[self-efficacy|autoefficacia verso l'IA]] salì da moderatamente bassa (M = 3,13) a al di sopra della moderata (M = 3,71) e i descrittori negativi in un compito di associazione di parole scesero dal 30% dei partecipanti a zero, sebbene l'evidenza sia limitata, non controllata e interamente [[self-report-measures|auto-riportata]].
+
+## Idee sbagliate comuni
+
+**"Una previsione accurata richiede un modello opaco."** Interpretabilità e performance sono più separabili di quanto quell'assunto consenta. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries e Koprinska (2025)]] mostrano che alberi decisionali intrinsecamente interpretabili — **potati a soli 3-5 nodi foglia** — tengono il passo nella previsione del progresso degli studenti nella programmazione. Quando un albero a cinque nodi uguaglia una scatola nera sul tuo compito, la scatola nera sta comprando opacità anziché accuratezza, e in un contesto educativo dove una decisione deve essere spiegata a uno studente la scatola di vetro è lo scambio migliore.
+
+**"Il machine learning in educazione è una tecnologia di previsione neutrale."** Le sue applicazioni portano con sé i fallimenti di governance della disciplina, e la sorveglianza degli esami è il caso più chiaro: un modello che inferisce qualcosa su uno studente da segnali comportamentali o fisiologici sta formulando un'accusa con un punteggio di confidenza allegato, e la base di evidenze per quell'inferenza è molto più debole di quanto suggerisca il tasso di adozione.
+
+**"L'IA generativa ha reso obsoleto il machine learning classico in educazione."** Fanno lavori diversi. La previsione degli stati del discente, la stima della difficoltà e la previsione del progresso restano problemi di ML classico, e la letteratura sul knowledge tracing e sulla calibrazione degli item che questo corpus documenta non è servita da un modello linguistico. L'IA generativa è un sottoinsieme del machine learning, non un suo sostituto.
+
+**"La formazione degli insegnanti dovrebbe insegnare agli studenti gli LLM anziché il machine learning."** Limitare l'alfabetizzazione allo strato generativo lascia i professionisti incapaci di interrogare i sistemi predittivi che decidono sui loro studenti — che è dove si concentrano gli errori conseguenti.
 
 ## Concetti collegati
 

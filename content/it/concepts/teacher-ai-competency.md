@@ -1,6 +1,7 @@
 ---
 title: "Competenza in IA dei docenti"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -12,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,6 +57,7 @@ La ricerca della base di conoscenza converge su diverse dimensioni interconnesse
 - **Alfabetizzazione valutativa:** valutare i contenuti generati dall'IA e gli output che gli studenti producono con l'IA, e comprendere come cambi la [[assessment-validity|validità]] quando gli studenti usano l'IA. Questo si collega alla [[automated-assessment|valutazione automatizzata]], al [[ai-detection|rilevamento dell'IA]] e al più ampio progetto di riprogettazione della [[assessment|valutazione]]. Per i sistemi di raccomandazione, ciò si estende al giudizio su se le spiegazioni di un'IA siano genuinamente comprensibili e pedagogicamente significative: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] hanno rilevato che i docenti si fidavano di più delle raccomandazioni di raggruppamento dell'IA quando le spiegazioni erano formulate nel linguaggio del dominio (curricolare) piuttosto che quando esponevano le caratteristiche grezze del modello — una competenza nell'esigere e valutare la [[explainable-ai|qualità della spiegazione]] anziché accettare un output opaco.
 - **La selezione del modello e la progettazione dei prompt come abilità dimostrabili:** l'[[ai-literacy|alfabetizzazione in IA]] strumentale include il sapere quale modello usare e come formulare il compito. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] hanno sottoposto a critica gli obiettivi di pianificazione di lezione di 153 docenti in formazione tramite ChatGPT-4, Claude 3 e Gemini Advanced con quattro prompt variati sistematicamente (N = 240 feedback nello Studio 1, 345 nello Studio 2), con il [[feedback|feedback]] valutato su nove categorie di qualità. La sola scelta del modello spiegava il 26,9% della varianza nella qualità valutata (18,4% nello Studio 2), e la progettazione del prompt aggiungeva un significativo 15,9% (5,7%) in più; la caratteristica decisiva del prompt era il linguaggio tecnico specifico del dominio, la cui rimozione abbassava significativamente la qualità (β = −0,412), mentre aggiungere esempi ed eliminare l'istruzione di chain-of-thought non produceva differenze significative nello Studio 1. La loro lettura — che la terminologia disciplinare sblocca al contempo i contenuti rilevanti dei dati di addestramento e inquadra la richiesta in modo professionale, come fa il role prompting — insieme alla regola pratica di usare il modello di frontiera più capace attualmente disponibile, rende la scelta del modello una decisione didattica anziché tecnica.
 - **Uso etico e critico:** riconoscere i [[bias-mitigation|pregiudizi]] negli output dell'IA, proteggere i dati degli studenti ([[privacy|privacy]]) e garantire risultati equi ([[equity-in-ai-education|equità]]). [[llm-cultural-relevance-k12|L'uso culturalmente rilevante dell'IA]] esamina come i docenti possano usare gli LLM per diversificare i materiali anziché rafforzare le norme dominanti.
+- **La rappresentazione visiva è una dimensione misurabile a sé.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] hanno validato una scala a cinque dimensioni per generare, giudicare e agire sulle rappresentazioni visive con 566 docenti in cinque province della Cina occidentale, con alfa delle sottoscale da 0,911 a 0,934; misura la capacità dichiarata, senza test-retest e senza osservazione della pratica.
 - **La responsabilità etica è distribuita, non individuale.** In sette casi nazionali i docenti sono posti nel ruolo di custodi morali dell'uso dell'IA pur mancando di supporto istituzionale ed epistemico, per cui l'alfabetizzazione etica sull'IA deve estendersi all'agenzia critica e politica anziché alla sola competenza tecnica ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Fiducia e atteggiamenti:** la [[self-efficacy|fiducia]] dei docenti influenza l'adozione. La [[teacher-ai-adoption-confidence|ricerca sull'adozione]] rileva che fiducia, supporto e utilità percepita guidano il fatto che i docenti usino effettivamente l'IA, e gli [[ai-pedagogical-orientation|orientamenti del corpo docente]] influenzano l'adozione nella ricerca e nell'insegnamento.
 
@@ -218,3 +224,4 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Four TALIS 2024 teacher belief profiles link professional learning and profile-specific barriers to AI use
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Progettazione di moduli di microlearning sull'IA per i docenti universitari nella formazione professionale: uno studio di design-based research
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: come i chatbot configurati dai docenti falliscono nell'uso reale e come ripararli
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — Development and validation of the AI-empowered teacher visualization teaching competency scale

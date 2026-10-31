@@ -1,6 +1,7 @@
 ---
 title: Amministratori
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -12,13 +13,17 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -39,6 +44,8 @@ ai_assist:
 
 L'adozione dell'IA in educazione non è una decisione puramente di classe; è anche una decisione istituzionale. Gli amministratori — provost, presidi di facoltà, CIO e leader istituzionali — definiscono le condizioni in cui corpo docente e studenti usano l'IA, bilanciando l'opportunità pedagogica con la governance, le risorse e il rischio.
 
+[[students-at-stake-ai-deployment-risks-2026|Student Defense (2026)]] fornisce uno screening di approvvigionamento portabile proprio per la decisione che gli amministratori affrontano: prima di distribuire un prodotto di IA, chiedersi quale problema viene risolto, se esiste capacità di governance, se l'istituzione è trasparente e se il dispiegamento crea valore per gli studenti — inquadrando la scelta come una questione di diritti, opzioni, finanze e futuri degli studenti anziché come una transazione di approvvigionamento.
+
 ### Come appare la prospettiva dell'amministratore nella ricerca
 
 - **Politiche e processi decisionali istituzionali:** la [[ai-uk-higher-education-policy-2026|ricerca sulle politiche di IA nell'istruzione superiore britannica]] rileva che l'integrazione dell'IA sta accelerando ma è frammentata, con un divario tra l'ambizione delle politiche di alto livello e l'implementazione istituzionale — un tema ricorrente per gli amministratori che navigano la strategia senza una guida operativa chiara.
@@ -52,6 +59,22 @@ L'adozione dell'IA in educazione non è una decisione puramente di classe; è an
 ### Collegamenti
 
 La prospettiva dell'amministratore si collega alle [[educational-policy-ai|politiche educative sull'IA]] (formazione delle politiche), alla [[governance|governance]] e alla [[regulation|regolamentazione]] (governance), alle [[edtech-platform|piattaforme edtech]] (approvvigionamento e infrastrutture), alle [[learning-analytics|learning analytics]] (dati istituzionali) e all'[[higher-ed|istruzione superiore]]. Le decisioni degli amministratori abilitano o limitano il lavoro su [[educational-development|sviluppo educativo]], [[teacher-role|ruolo del docente]] e [[ai-literacy|alfabetizzazione sull'IA]] trattato altrove nella knowledge base.
+
+## Idee sbagliate comuni
+
+- **"La priorità strategica implica capacità strategica."** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] ha rilevato che solo il **7% delle istituzioni aveva creato ruoli dirigenziali senior per l'IA** anche se il **49% trattava l'IA come priorità strategica**. Il divario non è indifferenza: è che l'intento è stato dichiarato mentre la struttura che dovrebbe portarlo non è stata finanziata. Leggere una strategia di IA pubblicata come evidenza di prontezza istituzionale sopravvaluta ciò che esiste.
+- **"Le cifre di adozione misurano la prontezza."** L'uso dichiarato e l'uso governato sono quantità diverse, e le evidenze di questa pagina le separano: le istituzioni riportano intento strategico in circa metà della popolazione e capacità di leadership in meno di un decimo. Un'indagine che mostra che il personale usa l'IA dice che cosa gli individui hanno già fatto senza permesso, non che cosa l'istituzione possa sostenere o supervisionare.
+- **"L'approvvigionamento è un passaggio amministrativo."** Dove la capacità si acquista anziché costruirla, i termini contrattuali decidono che cosa diventa possibile in seguito — proprietà dei dati, accesso all'audit e se lo strumento possa essere valutato in assoluto. Una decisione sui fornitori presa come compito d'acquisto preclude domande di valutazione che l'istituzione non ha ancora posto.
+- **"La governance può seguire l'adozione."** L'affermazione sulla sequenza è comune e qui non è supportata: le evidenze documentano il modello opposto, con politiche e strutture di leadership che inseguono un uso già in corso. Una governance inquadrata come qualcosa da costruire dopo il dispiegamento è una governance costruita da una posizione di minore leva.
+
+## Implicazioni per la pratica
+
+**Per gli amministratori**
+
+- Metta a budget il ruolo di leadership, non solo il documento di strategia. Quando il 49% dichiara l'IA come priorità e il 7% crea ruoli senior, il vincolo stringente è l'allocazione anziché la convinzione.
+- Chieda su che cosa uno strumento possa essere valutato prima di firmare. Se il contratto non consente l'accesso agli esiti, ai dati di audit o ai dettagli d'uso, l'istituzione ha acquistato una capacità che non può valutare.
+- Indaghi l'uso effettivo anziché l'uso autorizzato, perché i due divergono e il numero non autorizzato è quello che porta un rischio a cui si è già esposti.
+- Anticipi la politica rispetto al dispiegamento dove la leva esiste ancora. Una volta che l'uso è diffuso, la politica diventa negoziazione con una pratica già assestata.
 
 ## Concetti collegati
 
@@ -80,3 +103,4 @@ La prospettiva dell'amministratore si collega alle [[educational-policy-ai|polit
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[students-at-stake-ai-deployment-risks-2026]] — Uno screening di approvvigionamento in quattro domande, inquadrato come diritti degli studenti anziché come gestione del rischio

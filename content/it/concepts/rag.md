@@ -1,6 +1,7 @@
 ---
 title: "RAG (Generazione Aumentata da Recupero)"
 created: "2026-10-14T22:08:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -8,13 +9,17 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: "concepts/rag"
-source_updated: "2026-10-05T11:00:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,14 +44,24 @@ ai_assist:
 - **L'ancoraggio vale solo quanto l'ispezione delle fonti:** solo 1 dei 12 partecipanti ha notato una scheda di fonte volutamente non corrispondente, quindi un'etichetta di provenienza può agire da sigillo di autorità anziché da invito a verificare il materiale recuperato ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
 - **Tutoring ancorato al curricolo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera i materiali curricolari rilevanti per informare le risposte di tutoring, assicurando l'allineamento con i contenuti del corso.
 - **Dispiegamento on-premise per il controllo istituzionale:** CourseChat esegue un tutor RAG multi-corso per l'[[business-education|educazione economica e aziendale]] universitaria su host edge locali, con un database vettoriale locale e un modello 8B servito da Ollama, mantenendo i materiali del corso e il dialogo degli studenti sull'infrastruttura del campus; la scelta del modello è diventata una decisione congiunta di hardware e serving quando i candidati più grandi non hanno superato una soglia di latenza ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
+- **Il recupero fondato sul curricolo non si è distinto sui tempi.** Aila recupera dai piani curricolari di qualità garantita dell'Oak National Academy, e gli insegnanti del suo trial hanno speso 0,76 del tempo di preparazione delle lezioni del gruppo di confronto ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). Il rapporto lo legge come simile allo 0,69 del trial generale su ChatGPT, quindi l'ancoraggio a contenuti curricolari verificati non è stato ciò che li ha separati.
 - **Indicizzazione di libri di testo e materiali:** [[book-level-synthetic-textbook-organization|l'organizzazione sintetica di libri di testo]] indicizza i contenuti educativi per il recupero. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] estende il recupero ai diagrammi strutturati.
 - **Integrazione nella pipeline di addestramento:** l'[[llm-training-and-fine-tuning|addestramento di LLM pedagogiche]] usa il RAG per ancorare l'addestramento del tutor alle migliori pratiche educative.
 - **Supporto accademico specifico del corso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dai materiali didattici approvati di un singolo modulo di programmazione per servire gli studenti che esitano ad avvicinare un docente, e l'89% dei 15 studenti valutatori ha giudicato le sue risposte fortemente allineate ai materiali del corso; il punto di design è che l'ancoraggio è una risposta istituzionale al disallineamento tra le [[llm|LLM]] di uso generale e le aspettative a livello di modulo.
 - **Struttura in fase di ingestione vs. recupero in fase di interrogazione:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] ha compilato lo stesso corpus del corso di machine learning DS3001 in sette pagine di concetti wiki incrociate e provviste di citazioni alle fonti, e lo ha messo a confronto con una baseline RAG vettoriale ottimizzata basata sul recupero per chunk con embedding. Su 59 domande redatte da umani il wiki compilato ha risposto meglio dell'indice ottimizzato (9,95 vs. 9,05 su 10, con un intervallo di confidenza bootstrap sulla differenza che esclude lo zero) ed è stato più spesso ancorato al materiale che il rispondente aveva effettivamente visto (98% vs. 81%), con entrambi gli scarti che si sono pressoché triplicati sulle domande che richiedevano materiale da più di una pagina (punteggi cross-page 9,93 vs. 8,14, dove il tasso di ancoraggio del RAG è sceso dall'87% al 64%). Lo scarto di ancoraggio non era un fallimento del recupero: solo 2 delle 11 risposte non ancorate del RAG vettoriale erano mancati recuperi, mentre le altre 9 avevano gli estratti rilevanti nel contesto e aggiungevano comunque dettagli non supportati — evidenza che la struttura in fase di ingestione vincola l'elaborazione, non solo l'accesso.
 
+- **Recuperare su un riassunto anziché sulle parole dello studente (LC-RAG).** Il discorso collaborativo spesso non ha legame semantico con la base di conoscenza: gli studenti dicono «metti quel blocco di posizione lì», quindi un retriever basato solo sul discorso restituisce frammenti non pertinenti, e l'esempio degli autori è un passaggio su un cartone animato degli anni Novanta estratto da un manuale di fisica e informatica. Il RAG contestualizzato dal log fa riassumere a un LLM ogni segmento di lavoro a partire dal suo discorso più il log dell'ambiente (quale componente del modello viene modificato), poi recupera su quel riassunto. Su 216 segmenti di modellazione collaborativa e cinque modelli di embedding giudicati da GPT-4o, ha battuto la baseline del discorso in quattro modelli, con tassi di vittoria da 0,403 a 0,620, e ha recuperato un insieme più stretto di frammenti (167 unici contro 267 su 7.386). Ha perso in un modello perché i riassunti diventavano più specifici del compito di quanto lo fosse il corpus generale dei manuali: l'ambito della query e l'ambito del corpus vanno allineati deliberatamente ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+
 ### RAG vs. fine-tuning
 
 Il RAG ha un ruolo complementare al fine-tuning delle [[llm]] — il recupero fornisce un ancoraggio aggiornato e specifico di dominio senza riaddestramento, mentre il fine-tuning incorpora i comportamenti [[pedagogy|pedagogici]]. La ricerca della knowledge base esplora entrambi gli approcci e la loro combinazione.
+
+## Idee sbagliate comuni
+
+- **«Mostrare la fonte rende la risposta verificabile.»** Solo **1 partecipante su 12** ha notato una scheda di fonte volutamente non corrispondente. Un'etichetta di provenienza può agire come **sigillo di autorità anziché come invito a verificare** — la visualizzazione dell'ancoraggio ha aumentato la fiducia senza aumentare lo scrutinio, il che è peggio di nessuna etichetta perché fabbrica sicurezza.
+- **«La qualità del recupero è l'intero problema.»** Il recupero è necessario e non sufficiente. La risposta ancorata ha ottenuto **9,05 su 10 con un intervallo di confidenza bootstrap sulla differenza che esclude lo zero** ed è stata **più spesso ancorata al materiale che il rispondente aveva effettivamente visto (98% vs. 81%)** — quindi il guadagno misurato è nella fedeltà all'evidenza, e l'evidenza deve essere corretta perché quella fedeltà significhi qualcosa.
+- **«Il recupero su pagina singola generalizza.»** Entrambi gli scarti **si sono quasi triplicati su domande che richiedevano materiale da più di una pagina** (punteggi cross-page 9,93 contro una baseline inferiore). Il ragionamento multi-documento è dove i sistemi ancorati degradano, ed è esattamente dove i corsi pongono le domande più difficili.
+- **«Il recupero elimina la necessità di scrutinio.»** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera dai materiali approvati di un singolo modulo per servire studenti che esitano a chiedere a una persona — un ambito difendibile. I corpus ristretti e approvati sono ciò che rende significativo l'ancoraggio; la sola etichetta no.
 
 ## Concetti collegati
 
@@ -64,6 +79,7 @@ Il RAG ha un ruolo complementare al fine-tuning delle [[llm]] — il recupero fo
 
 ## Articoli collegati
 
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un assistente per le lezioni fondato sul curricolo il cui risparmio di tempo non ha superato quello di un chatbot generale
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]
 - [[retrieval-augmented-tutoring-algorithm-kite]]

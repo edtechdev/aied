@@ -1,6 +1,7 @@
 ---
 title: Sorveglianza degli esami a distanza
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -9,13 +10,17 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: "concepts/remote-proctoring"
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +41,8 @@ ai_assist:
 
 La sorveglianza degli esami a distanza esiste su uno spettro. **La sorveglianza online** comporta tipicamente un sorvegliante umano che controlla uno studente attraverso una webcam o da una sala di controllo. **La sorveglianza automatizzata/basata sull'IA (AIPS)** sostituisce o potenzia l'essere umano con sistemi di [[machine-learning]] e deep learning (CNN, RNN, LSTM) che analizzano segnali visivi — movimenti degli occhi, postura della testa, espressioni facciali e linguaggio del corpo — per rilevare comportamenti sospetti in tempo reale. Piattaforme comuni includono ProctorU e Kryterion. Gli AIPS combinano tipicamente quattro funzioni: (1) autenticazione dell'identità (per es., verifica facciale tramite telecamera), (2) restrizioni alla navigazione, (3) autorizzazione/controllo remoto dell'esame e (4) generazione di report dalle sessioni registrate.
 
+- **La stima della posa sostituisce le regole a soglia, e la rivendicazione di accuratezza è più stretta di quanto sembri.** Arif et al. (2026) tracciano diciassette punti di riferimento del corpo per fotogramma con YOLOv11, derivano caratteristiche di deviazione della postura, tendenza della testa e movimento della parte superiore del corpo, e impiegano un KNN del vicino più prossimo su 30 caratteristiche selezionate per informazione mutua, riportando un'accuratezza del 99,56% e un AUC di 0,9957 da una singola webcam ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Queste cifre descrivono la riproduzione delle etichette su un insieme di scenari costruito ad hoc, non il rilevamento di una condotta scorretta.
+
 ## Vantaggi e opportunità
 
 - **Recupera validità e integrità nella valutazione online.** La sorveglianza degli esami a distanza risponde a un genuino problema di validità. Nella [[online-teaching-and-learning|valutazione online]], l'[[generative-ai|IA generativa]] rende i lavori non sorvegliati inaffidabili come misura dell'apprendimento: misure a libro chiuso, non assistite e sorvegliate sono il segnale più forte di ciò che gli studenti sanno effettivamente (si vedano la [[summative-assessment]] e le [[generative-ai-reduced-study-time-math|proctored retention evidence]]). Senza una qualche forma di supervisione, gli esami online possono gonfiare i voti catturando una prestazione assistita dall'IA anziché indipendente.
@@ -53,6 +60,7 @@ La sorveglianza degli esami a distanza esiste su uno spettro. **La sorveglianza 
 - **La giustificazione fondata sull'integrità non ha superato il test più grande.** Attraverso quattro ondate e 1.760 studenti in 105 corsi, la sorveglianza ha aumentato l'ansia da esame (β = 0,60, p < 0,001) ma non ha avuto alcun effetto sulla tentazione di barare, sulla difficoltà percepita o sui voti, quindi il costo della sorveglianza non è stato compensato dall'effetto deterrente ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Equità e divario digitale.** La dipendenza dai dispositivi, la connessione internet instabile, l'illuminazione e la variabilità dell'hardware svantaggiano in modo sproporzionato gli studenti delle aree rurali e a banda limitata; l'accuratezza dei modelli può variare tra dati demografici e ambienti, rischiando segnalazioni ingiuste.([[digital-divide]]), [[equity-in-ai-education]] Una revisione di scopo sulla sorveglianza nella valutazione dell'[[nursing-education|infermieristica]] mostra che questo non è un caso limite: quattro dei suoi sei studi inclusi hanno riportato problemi di connettività internet, uno ha riportato interruzioni di corrente insieme a pacchetti dati limitati, e incompatibilità dei dispositivi, malfunzionamenti delle estensioni del browser e scansioni ambientali fallite erano routine — quindi è la disuguaglianza infrastrutturale, non solo il bias dei modelli, a determinare chi possa essere valutato.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Lacune di rilevamento e la corsa agli armamenti.** Lo spoofing dell'identità (mascheramento con foto/video), l'uso del browser e il copia-incolla restano difficili da intercettare in modo affidabile; l'accuratezza del rilevamento è limitata dalle lacune dei dataset, dalla valutazione su modello singolo e dalle mancanze di riproducibilità. La sorveglianza non risolve pienamente l'integrità e può creare un falso senso di sicurezza.
+- L'IA indossabile rimuove il segnale comportamentale da cui dipende la sorveglianza: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] sostengono che occhiali con IA, auricolari e apparecchi acustici abilitati all'IA forniscono assistenza occulta senza spostamento dello sguardo, spostamento dell'attenzione o indizio posturale, così la vigilanza e la consegna dei dispositivi perdono gli indizi su cui si basano.
 - **La questione della governance.** Se la sorveglianza sia la risposta giusta rispetto a una [[authentic-assessment|riprogettazione della valutazione]] (orale, basata sul processo, [[eportfolio|portfolio]]) è una decisione istituzionale aperta; la sorveglianza degli esami a distanza è uno strumento, non una soluzione completa.([[governance]]) L'esposizione che segue quando l'applicazione va male — accuse che poggiano su punteggi e log degli eventi, conservazione e trattamento ulteriore dei dati catturati, e regole che ricadono in modo diseguale sugli studenti con disabilità o non madrelingua — è mappata sui [[legal-issues-and-risks]].
 
 ## Base di evidenze
@@ -69,6 +77,12 @@ La sorveglianza degli esami a distanza esiste su uno spettro. **La sorveglianza 
 - **Architettura che preserva la privacy.** L'elaborazione in edge computing, l'anonimizzazione e la gestione sul dispositivo riducono l'invasività della cattura continua di dati.
 - **Distribuzione consapevole dell'equità.** Dataset diversificati e geograficamente inclusivi e modelli leggeri per ambienti a basse risorse; alternative accessibili per gli studenti senza dispositivi o connettività affidabili.
 - **Educare prima di sorvegliare.** Preferire la promozione dell'[[ai-literacy]] e dell'[[reducing-ai-misuse|uso responsabile]] attraverso la cultura e la costruzione di fiducia, riservando la sorveglianza ai casi ad alte poste in gioco che la richiedono genuinamente.
+
+## Idee sbagliate comuni
+
+- **"La sorveglianza protegge l'integrità accademica."** **La giustificazione dell'integrità non ha superato il test più grande.** Attraverso **quattro ondate e 1.760 studenti in 105 corsi**, la sorveglianza **ha aumentato l'ansia da esame (β = 0,60, p < 0,001) ma non ha avuto** alcun beneficio rilevabile sull'integrità. L'effetto misurato era sugli studenti, non sull'imbroglio.
+- **"Una migliore capacità di rilevamento significa una migliore sorveglianza."** Una revisione sistematica decennale di **80 studi peer-reviewed (2014-2024)** rileva che la sorveglianza avanzata basata su ML/DL **rileva l'imbroglio in modo più** accurato e non dice nulla sul fatto che dispiegarla cambi la condotta. La prestazione di rilevamento è una proprietà del classificatore, non del regime di valutazione.
+- **"I segnali comportamentali sono indicatori affidabili di condotta scorretta."** I sistemi **tracciano diciassette punti di riferimento del corpo per fotogramma** con YOLOv11 per derivare caratteristiche di **deviazione della postura, tendenza della testa e movimento della parte superiore del corpo**. Quei costrutti sono proxy, e una postura segnalata è una classificazione su un corpo anziché l'osservazione di una trasgressione.
 
 ## Concetti collegati
 - [[anxiety-and-stress]]
@@ -89,6 +103,7 @@ La sorveglianza degli esami a distanza esiste su uno spettro. **La sorveglianza 
 
 ## Articoli collegati
 
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI removes the behavioral signal proctoring depends on (Corbin, Sharpe & Dawson 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review

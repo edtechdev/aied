@@ -8,13 +8,18 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -84,6 +89,16 @@ L'enfasi di ICAP sul coinvolgimento generativo e a livello di processo è stata 
 2. **Coinvolgere gli studenti attraverso le modalità.** L'istruzione efficace sull'[[ai-literacy|alfabetizzazione in IA]] coinvolge gli studenti a livelli ICAP multipli — esposizione passiva, manipolazione attiva, generazione costruttiva e dialogo interattivo — selezionando la modalità che si adatta all'obiettivo di apprendimento. ([[hingle-collaborative-ai-literacy-2025]])
 3. **Misurare il coinvolgimento onestamente.** ICAP offre a ricercatori e progettisti un vocabolario comune per distinguere il coinvolgimento cognitivo genuino dalla mera attività — un correttivo al superficiale [[student-engagement|coinvolgimento dello studente]]. ([[icap-cognitive-engagement-llm-agents]])
 4. **Attenzione al divario di annotazione umano-LLM.** Se i sistemi automatizzati sono usati per codificare il coinvolgimento, il loro scarto sistematico rispetto agli umani addestrati deve essere tenuto in conto. ([[icap-cognitive-engagement-llm-agents]])
+
+## Idee sbagliate comuni
+
+**"L'ICAP è una tassonomia per etichettare le attività."** È una lente di progettazione e valutazione con un'affermazione di ordinamento: l'impegno passivo, attivo, costruttivo e interattivo differiscono nell'apprendimento che producono, quindi "costruisci strumenti che elicitano impegno costruttivo e interattivo anziché consumo passivo" è un bersaglio di progettazione anziché un esercizio di classificazione. Etichettare una lezione con una modalità senza cambiare ciò che gli studenti fanno non ha applicato il framework.
+
+**"Il tempo sul compito o il volume di interazione indicizzano il livello di impegno."** Il volume conta l'attività, non la modalità. Scorrere è attivo e passivo in sensi diversi nello stesso momento, e uno studente che genera molti clic può comunque stare ricevendo anziché costruendo. Il valore del framework è precisamente che distingue tipi di impegno che le metriche di attività confondono.
+
+**"Un tutor IA produce automaticamente impegno interattivo perché conversa."** La conversazione è il mezzo, non la modalità. Un dialogo in cui il sistema fornisce ogni contributo sostanziale è passivo per il discente che indossa un'interfaccia interattiva, che è la stessa confusione che la [[student-engagement|letteratura sull'impegno]] documenta tra attività comportamentale e investimento cognitivo.
+
+**"Le modalità ICAP più alte sono sempre migliori."** Costano di più, e l'ordinamento riguarda l'apprendimento per unità di elaborazione rilevante, non ciò a cui una lezione dovrebbe sempre puntare. La fluenza fondativa può richiedere ripetizione attiva prima che il lavoro costruttivo sia possibile; l'errore è fermarsi lì, non passarvi attraverso.
 
 ## Concetti collegati
 

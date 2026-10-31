@@ -1,6 +1,7 @@
 ---
 title: Tecnologia assistiva
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -8,13 +9,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,6 +57,13 @@ Una revisione di scopo del 2026 sulle [[ai-technologies|tecnologie]] assistive d
 - **Sfruttare l'IA per abbassare il costo degli adattamenti assistivi.** L'IA può sottotitolare automaticamente, semplificare il testo e generare alternative, ma valuta la qualità dell'output quanto ad accuratezza pedagogica.
 - **Fondare la fornitura sulla policy.** Fai riferimento all'Assistive Technology Act, all'IDEA e alle WCAG quando acquisti o costruisci strumenti di IA.
 - **Dichiara quale funzione il supporto serve — e valuta rispetto a quella funzione.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguono la compensazione (valutata da accesso e partecipazione) dallo scaffolding (decisioni con supporto) dallo sviluppo (uso di strategie dopo la dissolvenza o il trasferimento). Aggiungono una regola mirata alla cautela di questa pagina: il supporto all'accessibilità non è una remediation — che uno strumento sia un accomodamento, un'istruzione strategica o un supporto di pratica temporaneo "dovrebbe essere dichiarato nel piano di apprendimento".
+
+## Idee sbagliate comuni
+
+- **"La tecnologia assistiva prende di mira dove stanno le barriere."** Una revisione di scoping del 2026 sulle tecnologie assistive digitali per studenti neurodivergenti mappa la produzione del decennio e trova un **disallineamento tra ciò che gli strumenti prendono di mira e dove si collocano le barriere**: **27 studi supportavano direttamente l'apprendimento**, 13 affrontavano lettura e scrittura e 12 la gestione dello studio, mentre **l'attenzione (n = 4)** e altre barriere centrali erano appena affrontate. L'obiettivo più studiato non è quello più limitante.
+- **"Una dimensione dell'effetto media identifica lo strumento giusto."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] rilevano che gli interventi basati sull'IA producono un effetto positivo medio sugli esiti di apprendimento degli studenti con disabilità (**g = 0,588**) tra robot, software e VR intelligente. È una media su tecnologie molto diverse che servono bisogni molto diversi, quindi sostiene la categoria e non una scelta dentro di essa.
+- **"L'accesso vincolato alla diagnosi è una progettazione difendibile."** Richiedere una diagnosi formale per partecipare esclude i discenti con bisogni reali e nessuna etichetta, il che confligge con il [[universal-design-for-learning|progetto universale]] e sposta il costo dell'accesso sulla documentazione dello studente.
+- **"Più strumenti assistivi significa più inclusione."** Una revisione di scoping ha vagliato **766 record** in cinque database, e il volume della produzione non è la copertura del bisogno — il conteggio degli studi per barriera è la cifra più informativa.
 
 ## Concetti collegati
 

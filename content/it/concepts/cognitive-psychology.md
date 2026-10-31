@@ -1,18 +1,23 @@
 ---
 title: Psicologia cognitiva
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-10-31T06:30:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -33,6 +38,8 @@ ai_assist:
 
 La psicologia cognitiva è la tradizione teorica dell'apprendimento che tratta l'apprendimento come un cambiamento delle rappresentazioni mentali interne — concetti, schemi e procedure detenuti in memoria — anziché come un cambiamento del comportamento osservabile. Il suo vocabolario di elaborazione dell'informazione (attenzione, codifica, recupero, memoria di lavoro limitata) ha fornito sia il linguaggio diagnostico per la difficoltà di apprendimento sia l'architettura dietro [[intelligent-tutoring|l'intelligent tutoring]] e il [[knowledge-tracing]]: sistemi che inferiscono lo stato interno di chi apprende e vi si adattano. Resta il quadro di riferimento per [[metacognition|la metacognizione]], [[desirable-difficulties|le difficoltà desiderabili]] e [[self-regulated-learning|l'apprendimento autoregolato]] in tutta questa knowledge base.
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] hanno ricostruito immagini dall'EEG di chi apprende durante video scientifici e hanno rilevato che la fedeltà della rappresentazione seguiva la performance al test (coefficiente di regressione 0,8481, R² = 0,79) — evidenza diretta che una misura della rappresentazione interna può indicizzare la codifica.
+
 ## Idee fondamentali
 
 - **L'apprendimento è un cambiamento delle rappresentazioni mentali interne.** Il cognitivismo sostiene che l'apprendimento comporti l'acquisizione, l'immagazzinamento e la riorganizzazione della conoscenza in memoria — concetti, schemi e procedure — anziché un mero cambiamento della risposta osservabile. Ciò che chi apprende *sa e sa richiamare* conta, non solo ciò che fa.
@@ -50,6 +57,8 @@ Il cognitivismo è forse la teoria più responsabile dell'esistenza stessa dell'
 ### Carico cognitivo e progettazione dell'istruzione
 
 La teoria del carico cognitivo (CLT) è il quadro cognitivista più ampiamente applicato nel [[learning-design|design didattico]]: distingue carico intrinseco (complessità del compito), carico estraneo (attrito nella presentazione) e carico pertinente (sforzo di costruzione degli schemi). Un'IA ben progettata dovrebbe ridurre il carico estraneo preservando l'elaborazione pertinente; un'IA mal integrata riduce tutti e tre, lasciando compiti completati con apprendimento vuoto. L'inquadratura della memoria di lavoro della CLT è centrale anche nei dibattiti sul [[cognitive-offloading|cognitive offloading]] — se l'IA riduca il carico estraneo dannoso o cortocircuiti l'elaborazione pertinente che produce apprendimento.
+
+Il carico seguiva come lo sforzo era organizzato, non quanto se ne spendeva: tra 67 docenti in formazione che progettavano piani di lezione con la GenAI, il gruppo di qualità superiore non differiva sullo sforzo dichiarato (2,85 vs 3,26) ma riportava una domanda mentale inferiore (3,09 vs 4,03) e una frustrazione inferiore (2,12 vs 3,82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 La teoria cognitiva dell'apprendimento multimediale di Mayer (CTML) applica gli stessi assunti sulla memoria di lavoro ai materiali stessi, e le sue prescrizioni sono insolitamente concrete: chi apprende ottiene risultati migliori da parole e immagini insieme piuttosto che dalle sole parole, quando il materiale estraneo è escluso, quando una lezione è segmentata e al ritmo dell'utente anziché presentata come un'unità continua, quando parole e immagini corrispondenti appaiono vicine e nello stesso momento, e quando la narrazione è conversazionale e con una voce umana amichevole anziché formale o generata da una macchina.
 
@@ -69,6 +78,12 @@ La [[generative-ai|IA generativa]] estende e al contempo sfida il cognitivismo. 
 2. **Rappresentare chi apprende, non solo rispondere.** Associare [[student-modeling|modellazione dello studente]] e [[knowledge-tracing]] strutturati al dialogo con l'IA, affinché il sistema si adatti alla conoscenza inferita anziché rispondere in modo fluido ma alla cieca. ([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Rispettare i limiti della memoria di lavoro.** Applicare la teoria del carico cognitivo all'esperienza utente dell'IA: ridurre il carico estraneo (attrito, interfacce sovraccariche) preservando l'elaborazione pertinente ([[desirable-difficulties|la lotta produttiva]], la pratica di recupero) anziché minimizzare ogni richiesta cognitiva.
 4. **Calibrare la metacognizione.** Poiché la [[metacognition|metacognizione]] governa quando chi apprende sceglie di scaricare, insegnare la calibrazione (sapere ciò che si è effettivamente in grado di fare senza aiuto) è una risposta cognitivista all'eccessiva dipendenza (si veda il [[cognitive-offloading|cognitive offloading]]).
+
+## Idee sbagliate comuni
+
+- **«Le rappresentazioni mentali sono inosservabili, quindi le affermazioni cognitive sull'apprendimento sono assunzioni.»** Ricostruire immagini dall'**EEG** di chi apprende durante video scientifici ha mostrato che la **fedeltà della rappresentazione seguiva la performance al test** (coefficiente di regressione **0,8481, R² = 0,79**). La premessa cognitivista della rappresentazione interna è misurabile, e la misurazione prediceva l'esito.
+- **«Un R² alto significa che la rappresentazione spiega l'apprendimento.»** R² = 0,79 è una forte associazione tra fedeltà e performance sullo stesso materiale. Non stabilisce che alzare la fedeltà alzi la performance, che è l'affermazione interventistica.
+- **«Le componenti di conoscenza sono una comoda finzione modellistica.»** È la decomponibilità a rendere possibili [[knowledge-tracing]] e [[cognitive-diagnosis]], e i metodi funzionano nella misura in cui l'assunzione regge. Trattarla come finzione scarta la ragione per cui i metodi producono stime utilizzabili — mentre trattarla come fatto sovrastima ciò che un modello stimato dice di una mente.
 
 ## Concetti collegati
 
@@ -100,3 +115,4 @@ La [[generative-ai|IA generativa]] estende e al contempo sfida il cognitivismo. 
 - [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — L'organizzazione dello sforzo, non la sua quantità, seguiva il carico e la frustrazione

@@ -6,13 +6,18 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: "concepts/situated-learning"
-source_updated: "2026-09-30T09:53:03-04:00"
+updated: "2026-10-31T06:30:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,6 +39,8 @@ L'apprendimento situato è una delle teorie dell'attività e del contesto all'in
 
 Nella letteratura sull'[[ai-education|IA nell'educazione]], l'apprendimento situato conta perché fornisce una lente progettuale per l'IA: i [[adaptive-learning|sistemi adattivi]], i [[intelligent-tutoring|tutor intelligenti]] in scenari autentici e le [[virtual-and-augmented-reality|immersive]] [[simulation|simulazioni]] possono ancorare l'educazione guidata dall'IA in contesti reali, mentre a sua volta l'apprendimento situato offre all'IA un ancoraggio significativo nella pratica autentica e nella complessità. I due sono ampiamente trattati come complementari, con la guida umana che resta essenziale per il fondamento [[ethics|etico]].
 
+- **Contestualizzare il materiale stesso è una mossa di apprendimento situato.** DagFlow-AI genera un dataset statistico costruito attorno a un interesse dichiarato dallo studente — un caso di studio usava la preoccupazione di uno studente per il cambiamento climatico e la salute — mentre mantiene fissi gli obiettivi di apprendimento e il livello di abilità ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Far corrispondere i *dati* a chi apprende, anziché far corrispondere la spiegazione, tratta il contesto della pratica come la cosa che va situata. Gli autori ammettono il limite: i dati sintetici non possono insegnare la raccolta dei dati, la misurazione o il disegno dello studio, quindi il contesto è reale per chi apprende ma non per il mondo.
+
 ### L'apprendimento situato come lente progettuale per l'IA
 
 La ricerca della knowledge base tratta l'apprendimento situato non semplicemente come una teoria astratta, ma come un quadro concreto di progettazione e valutazione dell'IA nell'educazione:
@@ -46,6 +53,15 @@ La ricerca della knowledge base tratta l'apprendimento situato non semplicemente
 - **Etica dell'IA situata.** Il ragionamento etico sull'IA è esso stesso trattato al meglio come *situato* — ancorato nel contesto storico-culturale ed ecologico anziché in principi astratti.([[raffaghelli-situated-ai-ethics-2026]])
 
 L'apprendimento situato si collega strettamente all'[[embodied-learning|apprendimento incarnato]] (entrambi sottolineano l'ancoraggio della cognizione nel contesto e nell'azione), alla [[distributed-cognition|cognizione distribuita]] (apprendimento distribuito fra persone, strumenti e contesti), all'[[experiential-learning|apprendimento esperienziale]] e alla teoria [[constructivist|costruttivista]]. Nell'educazione all'IA fonda la critica all'apprendimento decontestualizzato e disincarnato: una progettazione dell'IA che mantiene chi apprende ancorato nella pratica autentica preserva la situatezza che l'apprendimento durevole richiede.
+
+- **Scenari e asset riutilizzabili come infrastruttura.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] operazionalizza l'apprendimento situato come uno scenario — obiettivo, agenti specializzati per ruolo, conoscenza interrogabile e una workbench con stato — più una memoria di asset che conserva registrazioni di processo e tracce di esperienza con la loro provenienza, così che scenari successivi possano recuperare la pratica precedente. Due prove randomizzate preregistrate a tre bracci hanno trovato un vantaggio di 7,0 punti nei guadagni di apprendimento rispetto a un assistente generico nel ragionamento giuridico (d = 0,56) e una quota maggiore che raggiungeva la padronanza criteriale nella programmazione competitiva (68% contro 45%), mentre chiedere allo stesso modello di agire come insegnante non produceva alcun beneficio rilevabile. È un raro test dell'affermazione che la situazione e il workspace portano più apprendimento di quanto faccia la spiegazione conversazionale.
+
+## Idee sbagliate comuni
+
+- **"L'apprendimento situato significa aggiungere uno scenario realistico a una lezione astratta."** L'affermazione della teoria è più forte del vestire il contesto: l'apprendimento è costituito dalla partecipazione a una comunità di pratica, e ciò che si impara è ciò che quella partecipazione rende possibile. Un esempio svolto con una cornice da luogo di lavoro attaccata sopra insegna ancora l'esempio, non la pratica.
+- **"L'autenticità è una proprietà del compito."** L'autenticità è una relazione tra l'attività e il lavoro legittimo di una comunità reale. Un compito può essere elaborato e restare di forma scolastica — valutato da un insegnante, per un voto, senza conseguenze nel mondo che dichiara di rappresentare.
+- **"La valutazione che emerge dal compito significa nessuna valutazione."** Significa che il criterio è quello della comunità, non quello dell'aula: se il lavoro è accettabile per chi fa quel lavoro. È uno standard diverso e di solito più severo di una rubrica.
+- **"L'apprendistato richiede un contesto fisico."** Il meccanismo è la partecipazione periferica legittima — spostarsi dal margine di una pratica verso il suo centro con responsabilità reale. Contesti online e simulati possono sostenerla o possono simulare la periferia senza mai concedere la partecipazione, e la differenza sta nel fatto che il contributo di chi apprende sia effettivamente usato.
 
 ## Concetti collegati
 - [[learner-identity]] — identità di chi apprende in evoluzione, disciplinari, professionali, creative e accademiche
@@ -63,6 +79,7 @@ L'apprendimento situato si collega strettamente all'[[embodied-learning|apprendi
 - [[virtual-and-augmented-reality]] — ambienti immersivi come via al contesto autentico
 
 ## Articoli collegati
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Scenari più asset riutilizzabili con provenienza battono un assistente semplice in due prove
 
 - [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (riferimento principale per questa pagina)
 - [[genai-educational-outcomes-meta-analysis]]
