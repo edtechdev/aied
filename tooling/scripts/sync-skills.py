@@ -138,10 +138,11 @@ def iter_files(root):
             yield full, os.path.relpath(full, root)
 
 
-def pairs_of(cfg, wiki, installed):
+def pairs_of(cfg, wiki, installed, research_root=None):
     """[(label, repo_dir_or_file, installed_dir_or_file)] to compare."""
     tooling = os.path.join(wiki, 'tooling')
     rw = os.path.join(installed, 'research-wiki')
+    research = research_root or os.path.join(installed, 'research')
     out = [('tooling/SKILL.md', os.path.join(tooling, 'SKILL.md'),
             os.path.join(rw, 'SKILL.md'))]
     for sub in ('scripts', 'cron', 'references'):
@@ -152,7 +153,7 @@ def pairs_of(cfg, wiki, installed):
         for name in sorted(os.listdir(repo_research)):
             out.append((f'skills/research/{name}',
                         os.path.join(repo_research, name),
-                        os.path.join(installed, 'research', name)))
+                        os.path.join(research, name)))
     return out
 
 
@@ -303,11 +304,18 @@ def main():
     if not skills_dir or not os.path.isdir(skills_dir):
         sys.exit(f"agent.skills_dir is not set or missing in wiki.config.yaml "
                  f"({skills_dir!r}) — cannot locate the installed skills")
+    research_dir = os.path.expanduser(
+        (cfg.get('agent') or {}).get('skills_research_dir')
+        or os.path.join(skills_dir, 'research'))
+    if not os.path.isdir(research_dir):
+        sys.exit(f"the installed research category is missing: {research_dir!r} — "
+                 f"the skill tree was purged; restore it with --to-installed before "
+                 f"trusting any check (agent.skills_research_dir in wiki.config.yaml)")
 
     global pairs_conf, AGENT
     pairs_conf = redaction_pairs(cfg, wiki)
     AGENT = agent_tokens(cfg)
-    groups = pairs_of(cfg, wiki, skills_dir)
+    groups = pairs_of(cfg, wiki, skills_dir, research_dir)
     selected = args.to_repo if args.to_repo is not None else args.to_installed
     to_repo = args.to_repo is not None
 
@@ -336,6 +344,7 @@ def main():
         drift, missing, accepted = check(groups, bool(args.diff),
                                          [args.diff] if args.diff else [], baseline)
         print(f"\nrepo mirrors: {len(groups)} skill group(s) vs {skills_dir}")
+        print(f"  research category resolves to: {research_dir}")
         for label in accepted:
             print(f"  accepted  {label}  (redaction/agent-name difference on record)")
         for label, n in drift:

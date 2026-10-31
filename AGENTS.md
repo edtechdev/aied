@@ -219,6 +219,15 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
   **maintained by hand** (there is no registry block for article merges or renames;
   `[slug].astro` reads its keys so old URLs keep resolving). Concept redirects are
   the opposite — generated from the registry's `redirects:` block.
+- **Skills shipped with the repo** live in `skills/research/<name>/` and `tooling/SKILL.md`,
+  and are the authoritative redacted copies of what the agent runs. The agent's
+  installed copies can be deleted by an agent-side curator without any build noticing,
+  and the symptom is a skill that the index lists and `skill_view` cannot open. Run
+  `python3 tooling/scripts/ensure-skills-mirror.py` to detect that (missing mirrors are
+  restored from the repo; content drift is reported and left alone, because a sync
+  normalizes paths and agent names and would silently rewrite real tool names). The
+  research category has its own root (`agent.skills_research_dir` in `wiki.config.yaml`)
+  so a purged category fails loudly instead of reading as "every skill is new".
 
 ### Rules
 - NO duplicate H1 headings in body (template adds the title)

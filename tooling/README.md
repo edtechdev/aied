@@ -350,6 +350,35 @@ you point the tooling at a different knowledge base, these two files plus
 `site.config.json` are the whole customisation surface. `tooling/scripts/sync-skills.py`
 keeps the repo's `skills/` mirrors in step with the agent's installed copies.
 
+### The installed skill tree can be emptied without warning
+
+The skills in `skills/research/` are the authoritative, redacted copies; the agent
+runs installed copies in its own tree, and the research category is its own
+directory (`agent.skills_research_dir`, not inferred from `skills_dir`). An
+agent-side curator or hub sync can delete that directory's contents, and the loss
+is silent in the worst way: the skill index still lists the names at session
+start, `skill_view` then fails because the file is gone, and no build or gate
+notices, because no page depends on a skill. It cost 24 of 25 skills on
+2026-10-31 and only surfaced when a skill was next needed.
+
+`tooling/scripts/ensure-skills-mirror.py` is the guard, and it separates two
+findings that need different treatment:
+
+```bash
+python3 tooling/scripts/ensure-skills-mirror.py   # exit 0 intact, 3 restored, 1 needs a human
+```
+
+- **missing** (the repo has content the installed tree does not): the purge
+  signature, repaired automatically from the repo and re-checked.
+- **drift** (both sides differ, or the installed tree holds content the repo never
+  mirrored): reported and left alone. A sync normalizes paths and agent names, so
+  writing normalized text back silently rewrites real tool names into
+  placeholders; reconciling a mirror is an editorial decision.
+
+A script-only cron job (`skills-mirror-guard.sh`, daily) runs it and stays silent
+unless something needs attention, so a purge is caught within a day rather than at
+the next session that needs a skill.
+
 ### Keeping the live preview in step
 
 If you keep an `astro dev` preview running, it will not notice content written by a
@@ -400,6 +429,7 @@ in AGENTS.md, which uses `/usr/bin/python3` (it has both packages).
 |---------|-------|
 | Site not updating | GitHub Actions deploy workflow ran? Actions tab → astro-deploy |
 | Search index stale | Pagefind-based — run `npm run build` so `dist/pagefind/` regenerates |
+| A skill that used to load now fails | Its installed copy was deleted: `python3 tooling/scripts/ensure-skills-mirror.py` detects and restores it |
 | llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
 | Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `content/en/articles/` or `content/en/concepts/` |
 | Numbered list shows every item as `1.` | Blank lines between consecutive list items split them into separate lists — run `check_list_formatting.py` and remove the blank lines |

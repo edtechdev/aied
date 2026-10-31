@@ -219,6 +219,11 @@ preview:
 agent:
   name: Hermes                    # e.g. Hermes, Claude Code, Codex, Aider...
   skills_dir: ~/.hermes/skills    # where this agent installs skills (sync target)
+  # The research category is its own directory in this agent's tree (the wiki
+  # skills install there through a symlink, and that symlink's target is what a
+  # skill-tree purge empties). Name it so the sync never has to infer it, and so
+  # a missing category fails loudly instead of reading as "every skill is new".
+  skills_research_dir: ~/.agents/skills/research
   # The pipeline is described in terms of capabilities, never tool names. Map
   # each capability onto the tool YOUR agent provides.
   capabilities:
