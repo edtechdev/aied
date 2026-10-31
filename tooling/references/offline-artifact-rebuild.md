@@ -18,6 +18,32 @@ rebuild is a release step with its own verification. This file is the checklist 
 
 Confirm no site build or content edit is in flight before starting; check with `pgrep -af "astro|build-epub"`.
 
+## Why a rebuild is now minutes, not half an hour
+
+`build-epub.py` parses the markdown export in parallel chunks (`tooling/pdf_parallel.py`,
+`AIED_PARALLEL_CHUNKS`, default 8). Measured on the English export: pandoc's parse of the whole
+7 MB / 36,000-line file is **757 s**, and it is that single parse — not WeasyPrint — that dominates
+both stages, because the cost grows superlinearly with document size. Split into 8 chunks the same
+parse takes **30-60 s**, and WeasyPrint's pagination of the assembled book is another **89 s**. A
+full English rebuild went from **24.9 min to 3.9 min**.
+
+Two properties make this safe rather than clever, and both must be re-checked if the module changes:
+
+* **The output is one document, not N merged PDFs.** Chunks are parsed to HTML and reassembled with
+  the front matter, an explicit title block and one TOC before a single WeasyPrint pass, so TOC
+  anchors, `` target-counter`` page numbers and internal links stay continuous.
+* **Ids and shortcut references are pinned before the split.** Pandoc's auto ids are unique per
+  parse, so a repeated heading (`Connected Concepts` on every concept page) gets `-1`, `-2` … in a
+  full parse but not in a chunk; and `implicit_header_references` cannot resolve `[Some Heading]`
+  across chunks. `assign_heading_ids()` and `resolve_shortcut_refs()` fix both up front, and
+  `markdown-tex_math_dollars` is dropped (the corpus' single `$…$` is rewritten to `\(…\)`) because
+  that extension is what triggers the superlinear parse.
+
+Verify a chunked build against the artifact it replaces, not against itself: extract text from both
+PDFs (`pdftotext`) and compare word multisets plus page counts, which must match exactly; for the
+EPUB compare per-`.xhtml` word counts and the file count. `AIED_PARALLEL_CHUNKS=1` restores the old
+single-pass path if a difference ever needs isolating.
+
 ## What to verify, and why each check exists
 
 - **Glued headings in the export** — pandoc will not let an ATX heading interrupt a paragraph or list
