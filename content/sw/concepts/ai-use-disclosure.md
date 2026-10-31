@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-04T16:22:53-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,7 @@ Kazi ya kuunda mifano ya [[mohamed-temimi-assessment-imperfect-information-discl
 Kukagua mwongozo wa GenAI wa vyuo 50 vya Marekani vilivyo orodha kuwa vya uvumbuzi zaidi, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] anaweka kudhihirisha katika mpaka kati ya msaada na uwasilishaji mbaya: pale AI inaporuhusiwa, taasisi huwaagiza wanafunzi kutambua, kutaja au kudhibitisha vinginevyo msaada wa AI badala ya kuwasilisha matokeo kama yao yote, huku maktaba — si ofisi za uadilifu — zikiwa na mamlaka juu ya viwango vya kutaja na asili. Mfumo wa Maktaba za MIT kuwa AI si mwandishi, na kuwaacha waandishi wajibu wa kudhibitisha jinsi zana zilivyochangia, ni mfano wa mtindo huo, na Qian anasoma kudhihirisha kwa wakati mmoja kama kanuni ya uadilifu, kanuni ya kubuni inayopunguza utata kabla ya kuwasilisha, na moja ya nguzo nne za uadilifu pamoja na uwajibikisho, [[equity-in-ai-education|usawa]] na [[privacy]]. Hii ni matumizi yale yale yasiyo ya kijinai yaliyoelezewa katika sehemu hii, na ndiyo sababu Qian anapendekeza kuweka maktaba kama mamlaka ya kutaja badala ya kupanua kugundua.
 
 - **Kudhihirisha kina adhabu ya uaminifu, na uhalali ni mfumo unaodaiwa.** Katika majaribio kumi na matatu, mengi na washiriki wa paneli mtandaoni wa Marekani na yaliyounganyika kwa uchunguzi 4,093 (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), mtu aliyeudhihirisha matumizi ya AI aliaminiwa kidogo kuliko aliyekaa kimya ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke na Reimann (2025)]]). Athari ilidumu mifumo sita ya kudhihirisha, mtathmini ambaye tayari alijua AI imetumika, na mifumo ya lazima na ya hiari. Ni mwenzio wa majaribio kwa ugunduzi wa dodoso hapo juu kuwa wanafunzi wanaodhihirisha daima walikabiliwa na uwezekano zaidi ya mara tatu wa shutuma: uwazi wenyewe unaweza kumgharimu anayedhihirisha. Matokeo moja ya wanafunzi ya karatasi ni kuwa wanafunzi waliamini profesa kidogo alipodhihirisha alama ya AI.
+- **Lebo ya maudhui hubadilisha maelezo, si hukumu.** Watu wazima 617 waliopangwa kwa bahati nasibu kuona au kutokiona lebo ya "Maudhui Yaliyozalishwa na AI/Video Bandia", lebo hiyo ilipunguza uhalisi unaohisiwa (wastani 4.92 bila na 4.21 na) lakini ikaacha uaminifu (B = -0.130, p = 0.216), hatari, upokeaji na ugawaji bila kubadilika ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang na Zhang (2026)]]).
 
 ## Kubuni kudhihirisha kwa ufanisi
 
@@ -75,11 +76,19 @@ Kukagua mwongozo wa GenAI wa vyuo 50 vya Marekani vilivyo orodha kuwa vya uvumbu
 - **Shughulikia kizuizi cha kihisia.** Sera za kudhihirisha zinazolenga tabia pekee hazitoshi — zifanye matumizi ya AI ya kawaida, kupunguza hukumu inayoonekana na stigma, na kuwahakikishia wanafunzi kuwa kudhihirisha kwa unyoofu hakutadhibiwa.
 - **Fanya kudhihirisha kiwe cha kuendelea, si kufuata tu.** Tumia ilani za kutafakari na matangazo yenye muundo (mfano/ingizo/tathmini) ili kudhihirisha kujenge [[ai-literacy]] na kujidhibiti badala ya kufanya kazi kama ufuatiliaji.
 - **Waelimishe wataalamu kujenga uaminifu, si kutegemea kugundua.** Kudhihirisha kamwe hakupaswi kufuatiwa na shutuma; wataalamu wanapaswa kujifunza mazungumzo ya kujenga uaminifu badala ya kutegemea zana za kugundua za AI zisizo za kuaminika.
+- **Kudhihirisha pia hukwenda upande mwingine.** Kila ukurasa hapa hutendea kudhihirisha kama wajibu wa mwanafunzi, na maprofesa wa uandishi waliowasilianiwa na [[wu-lam-genai-writing-assessment-professors-2026|Wu na Lam (2026)]] waliomba kioo chake: wanafunzi wanapaswa kuambiwa lini na jinsi zana inavyotumika kuthamini kazi yao, na ridhaa yao ikuombwe kabla ya kazi kupakiwa. Uwazi ule ule unaofanya matumizi ya mwanafunzi yaeleweke ndio unaofanya mazoezi ya tathmini ya taasisi yaeleweke kwa mwanafunzi.
 - **Buni kwa usawa.** Angalia kudhihirisha kwa kiwango tofauti kati ya taaluma, hali ya lugha, na mazingira ya wanafunzi, na epuka mifumo inaoweka mizigo usio sawa kwa wanafunzi walio tayari watiwa pembeni.
 
 ## Mahusiano
 
 Kudhihirisha matumizi ya AI upo katika mwinuko wa [[academic-integrity]] (wasilisho la uzazi wake), [[ethics]], [[trust]] na [[trust-calibration]] (kudhihirisha kama kitendo cha udhaifu), [[governance]] na [[educational-policy-ai]] (miundo ya sera ya taasisi), na [[assessment]] (mahali kudhihirisha kutekelezwa). Inaungana na [[ai-literacy]] (wanafunzi wanahitaji kuelewa nini na jinsi ya kudhihirisha), [[self-regulated-learning]] na [[help-seeking]] (kudhihirisha kama kutafuta msaada kwa njia inayoonekana), na [[equity-in-ai-education]] (kudhihirisha kwa kiwango tofauti). Ni tofauti na, lakini inahusiana na, [[ai-misuse-learning-harm]] (madhara ambayo kudhihirisha kinakusudiwa kufanya yaonekane) na [[ai-detection]] (mbadala zinazotegemea kugundua ambazo miundo ya kudhihirisha inachukua nafasi yake kwa kiasi kinazidi).
+
+## Dhana Potofu za Kawaida
+
+- **"Sera za lazima za kutangaza huzalisha udhihirishaji."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] alirekodi **kutokfuata kwa 74%** kwa tangazo la lazima katika shule ya biashara. Sharti halikuzalisha tabia lililolazimisha.
+- **"Wanafunzi huficha matumizi ya AI kwa sababu hawana unyoofu."** Vichocheo vimeandikwa na ni mahususi: **takriban 34% tu ya wanafunzi wa uchumi walikiri matumizi ya AI** huku udhihirishaji ukiwa nadra zaidi, ukichochewa na **wasiwasi wa adhabu**, wakati utafiti mwingine uligundua **66% hawakudhihirisha kamwe au mara chache** huku **hofu ya adhabu ya kitaaluma ikiwa sababu kuu**. Ubuni wa sera, si tabia, ndio data inaonyesha.
+- **"Sharti la kudhihirisha ni udhibiti wa gharama ndogo."** **Kiwango cha kutokfuata cha 74%** hufanya rekodi inayotokana kuwa mbaya zaidi kuliko kutokuwa na rekodi: ni seti ya data inayoonekana kamili na haiko, kwa hivyo taasisi inafanya maamuzi juu ya sampuli ambayo haiwezi kuiamini.
+- **"Kudhihirisha jinsi mfano ulivyotumika kunatosha."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] anadai kudhihirisha kunarekodi matumizi ya mfano wakati matumizi yenye uwajibikaji yanahitaji uthibitisho wa mwandishi katika kiwango cha dai, uwezo wa mchangiaji kuelewa, kuhalalisha na kutetea madai, ukitenganisha ukabidhi wa kiakili, ambapo matokeo huunda chaguo za msingi, kutoka ukabidhi wa kawaida, ambao haufanyi hivyo.
 
 ## Dhana Zilizounganishwa
 
@@ -103,6 +112,10 @@ Kudhihirisha matumizi ya AI upo katika mwinuko wa [[academic-integrity]] (wasili
 - [[social-norms-ai-use]] — kwa nini wanafunzi wanachagua kuficha badala ya kudhihirisha
 
 ## Makala Zilizounganishwa
+- [[wu-lam-genai-writing-assessment-professors-2026]] — Upande wa kioo: kuwaambia wanafunzi lini AI inapima kazi yao, na kuomba ridhaa kabla ya kuipakia
+- [[obhdp-ai-disclosure-erodes-trust-2025]] — Majaribio kumi na matatu: kudhihirisha matumizi ya AI hupunguza uaminifu wa anayedhihirisha, kupitia uhalali
+- [[authorial-warrant-ai-supported-scholarship-2026]] — Wakati Kanuni za Kudhihirisha Hazitoshi: Uthibitisho wa Mwandishi na Hukumu katika Utafiti Unaosaidiwa na AI (Mirończuk 2026)
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Lebo za kudhihirisha AI, uhalisi unaohisiwa, na uaminifu katika video za kielimu zilizozalishwa na AI
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Zaidi ya kugundua: jinsi wanafunzi wanavyotumia na kuficha AI katika tathmini mtandaoni
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Kudhihirisha AI kwa mwanafunzi, stigma, na kujifunza kwa kujidhibiti
 - [[vetter-hidden-cost-disclosure-genai-2026]] — Gharama iliyofichwa ya kudhihirisha: kudhihirisha na shutuma za wataalamu
@@ -113,4 +126,3 @@ Kudhihirisha matumizi ya AI upo katika mwinuko wa [[academic-integrity]] (wasili
 - [[qian-governing-genai-higher-ed-policy-2026]] — Kudhihirisha kama mpaka kati ya msaada na uwasilishaji mbaya katika vyuo 50 vya Marekani vilivyo vya uvumbuzi (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Hakuna makubaliano kuhusu kudhihirisha na kutaja AI katika sera za shule za sheria (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — Insha za kuingia zilizoandikwa na AI zimeenea lakini zinaadhibiwa
-- [[obhdp-ai-disclosure-erodes-trust-2025]] — Majaribio kumi na matatu: kudhihirisha matumizi ya AI hupunguza uaminifu wa anayedhihirisha, kupitia uhalali

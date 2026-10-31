@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,16 @@ AQG ni kiwezeshaji muhimu cha kujifunza [[adaptive-learning|kwa kubadilika]] na 
 - **Rekebisha ugumu:** tumia makadirio ya ugumu ya AI kuteua vipengele vyenye changamoto inayofaa, na uthibitishaji mkubwa kabla ya matumizi ya hatua kuu.
 - **Binafsisha kupitia mifano ya mwanafunzi:** changanya AQG na ufuatiliaji wa maarifa na mifano ya masilahi ili kuzalisha vipengele vinavyobadilika na vya kibinafsi.
 
+## Dhana Potofu za Kawaida
+
+**"Maswali yaliyozalishwa yanafaa kwa kiwango kinachoweza kuzalishwa."** Kiasi si kizuizi; usawazishaji ndio. Ubora hutofautiana sana kati ya aina za vipengele na unahitaji uthibitishaji ili kuepuka vipengele vilivyobuniwa au visivyosawazishwa vizuri, ndiyo sababu mitiririko inayofanya kazi hutumia jitihada zake kwenye uthibitishaji badala ya uzalishaji: mmoja ulipunguza ubunifu wa vitu visivyokuwepo kwa **62%** kwa kuongeza mzunguko wa zalisha-kisha-thibitisha-kisha-boresha.
+
+**"Mzunguko wa uboreshaji hufanya vipengele vilivyozalishwa kuwa vya kuaminika."** Unavifanya visiwe na makosa mengi. Kupunguzwa kwa 62% kwa ubunifu wa vitu visivyokuwepo kunaacha mabaki makubwa, na hakuna mzunguko unaotatua tatizo gumu zaidi la kama ugumu uliotajwa wa kipengele unalingana na kile wanafunzi hufanya kwa kweli: swali la [[assessment-validity|uhalali]] ambalo ushahidi wa lebo za ugumu unaonyesha metadata zilizozalishwa zikishindwa. Uthibitishaji hupunguza maudhui yaliyobuniwa; usawazishaji unahitaji data ya majibu ya wanafunzi.
+
+**"Uundaji wa maswali huleta ubinafsishaji wa mazoezi kiotomatiki."** Huu zalisha ugavi, na ubinafsishaji ni tatizo la kulinganisha. Kuzalisha vipengele zaidi hakukuambii kipengele gani mwanafunzi fulani anapaswa kuona kijacho, na swali la uteuzi unaobadilika ni utaratibu tofauti wenye ushahidi wake.
+
+**"Uzalishaji hupanua tathmini bila kubadilisha kile tathmini inapima."** Hubadilisha muundo wa kile kinachopimwa, kwa kuwa vipengele vinavyozalishwa vizuri si sampuli wakilishi ya vipengele vinavyotathmini vizuri. Miundo rahisi kuzalisha itaendelea kuendelea kuzidi ile ngumu kuzalisha, jambo linalounda upya kwa utulivu kile kinachopimwa.
+
 ## Dhana Zinazohusiana
 
 - [[llm]]
@@ -101,7 +111,6 @@ AQG ni kiwezeshaji muhimu cha kujifunza [[adaptive-learning|kwa kubadilika]] na 
 - [[ai-education]]
 
 ## Makala Zinazohusiana
-
 - [[genai-medical-education-transformation-review-2026]] — Ukaguzi wa upeo wa ripoti 153 za elimu ya tiba juu ya uzalishaji wa vipengele na AI ikilinganishwa na ubora wa vipengele vya wanafunzi wa tiba
 
 - [[assessing-quality-ai-generated-exams-field-2025]] — Uthibitishaji wa shamba kwa kiwango kikubwa wa ubora wa mtihani uliozalishwa na AI kupitia IRT

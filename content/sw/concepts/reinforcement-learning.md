@@ -9,7 +9,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,16 @@ Mapitio ya kimfumo ya kiwango cha PRISMA [[riedmann-reinforcement-learning-educa
 ### Uhusiano na hifadhi ya maarifa
 
 RL inaweka msingi wa mengi ya ubuni wa kisasa wa [[agentic-ai]] na [[intelligent-tutoring]], ambapo mwakala lazima aboreshe kujifunza kwa muda mrefu badala ya jibu moja sahihi. Unaungana na [[llm-training-and-fine-tuning]] (RL kama mbinu ya mafunzo), [[scaffolding]] (ubuni wa thawabu unaohifadhi mapambano ya kuzalisha), na [[self-regulated-learning]] (mawakala wanaowasaidia wanafunzi kudhibiti mkakati wao wenyewe). Kwa sababu ubuni wa thawabu huelekeza maadili ya kielimu, utafiti wa RL katika AIED umeunganishwa kikamilifu na [[pedagogical-safety]] na mazingatio ya usawa ya tabia ya mwalimu ya [[equity-in-ai-education|usawa]].
+
+## Dhana Potofu za Kawaida
+
+**"Kulingana na msingi kunamaanisha sera ya RL imejifunza kitu chenye thamani."** Kunamaanisha malipo yalitimizwa. Mwalimu wa deep-RL aliyepatiwa malipo kwa alama ya mtihani na ufanisi wa muda **alilingana na mbinu ya BKT kwenye mtihani wa baada (A = .58 kila moja)** huku akigawa **4% tu ya matatizo ya mafunzo kwa urekebishaji wa mifano yenye makosa** na akichagua mwingiliano wa bei nafuu zaidi. Sera iliboresha kile ilicholipwa, na kile ilicholipwa hakikujumuisha shughuli yenye tija.
+
+**"Kitendakazi cha malipo ni maelezo ya kiufundi."** Ni ubainishaji wa kielimu. Chochote ambacho malipo yanapeana uzito ndicho sera itakachofanya, kwa hivyo kuchagua kati ya alama, ufanisi wa muda, ushiriki na urekebishaji kunahitaji msimamo wazi kuhusu kujifunza ni nini, yaani uamuzi wa mtaala ulioandikwa kama namba.
+
+**"Upeo mrefu wa muda ni bora zaidi kila wakati."** Huwezesha kile upeo mfupi hauwezi, na huhitaji malipo kuwa sahihi katika mlolongo wote. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] huboresha **mikutano yote ya kliniki ya zamu 60**, mbali zaidi ya upeo wa zamu ≤12 wa mifumo ya mazungumzo ya wakati mmoja, jambo linaloinua gharama ya lengo lisilobainishwa vizuri badala ya kuipunguza.
+
+**"RL ni muundo unaofaa kwa ualimu kwa sababu kufundisha ni mfululizo."** Mfululizo ni sharti na hautoshwi; kizuizi kinachofunga ni uhalali wa malipo. Lengo lililobainishwa vizuri lenye sera dhaifu linazidi sera yenye nguvu dhidi ya lengo lisilo sahihi.
 
 ## Dhana Zilizounganishwa
 

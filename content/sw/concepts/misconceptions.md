@@ -10,7 +10,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -111,6 +111,12 @@ Kwa sababu dhana potofu hushikiliwa kwa njia inayojitendea na zinapinga, njia ya
 **"Si wizi ikiwa mtu hakuandika."** *Hiyo ni dhana potofu.* Uadilifu wa kitaaluma ni kuhusu uzalishaji wa kazi kwa njia ya ukweli na yenye kuthibitishwa, si kuhusu kutokanakili mtu tu. *Marekebisho:* kuwasilisha kazi iliyotengenezwa na AI bila kufichuliwa inaweza kukiuka [[academic-integrity]] hata wakati hakuna binadamu aliyenakiliwa; swali ni ikiwa kazi ni ya mwanafunzi kweli. Unapokuwa na shaka, fichua na kagua sera ya taasisi yako.
 
 Marekebisho haya yameandikwa kwa makusudi katika muundo wa [[refutation-text]] ili yanaweza wenyewe kutumiwa (au kubadilishwa kuwa [[conversational-ai|mazungumzo ya AI]] ya mwingiliano) kukabiliana na na kurekebisha dhana potofu kuhusu AI — na kuhusu kujifunza, kufundisha, na elimu kwa ujumla.
+
+## Dhana Potofu za Kawaida
+
+- **"Dhana potofu za walimu zinaweza kurekebishwa kwa kuwasilisha ushahidi."** Katika jaribio la awali na **waelimishaji 123 wa Italia**, kutokubaliana kulijikita zaidi katika **mitindo ya kujifunza ya kiakili (78% ya walimu walitetea ulinganifu wa kuona/kusikia)**, ushirikishaji na kazi za kikundi (68%) na mzigo wa ziada wa EdTech (54%). Kutokubaliana kwa nguvu zaidi ndizo zilizopinga ushahidi zaidi, ambayo ndiyo sababu [[refutation-text|maandishi ya kukanusha]] hushinda madai.
+- **"Pingamizi za walimu dhidi ya ushahidi zote ni upinzani."** Vipengele vile vile vilipotolewa kupitia AI ya mazungumzo iliyothibitisha muktadha wa mwalimu kabla ya kuleta tena ushahidi, **41% ya pingamizi zilihusu vikwazo halisi vya muktadha**: ukubwa wa darasa, mahitaji mahususi, mahitaji ya mtaala. Sehemu kubwa ya dhana potofu inayoonekana ilikuwa pingamizi sahihi.
+- **"Dhana potofu zinaweza kugunduliwa kwa uaminifu kutoka mazungumzo."** **Kati ya sehemu 241 zilizochochewa, 221 (91.7%) zilithibitishwa kama dhana potofu za kimkakati kwa kura nyingi za wataalam (Fleiss' κ = 0.9487)**, bila **tofauti kubwa** kati ya makundi. Uaminifu wa juu unawezekana chini ya uamuzi wa wataalam, na hilo ndilo sharti ambalo dai hutegemea.
 
 ## Dhana Zilizounganishwa
 

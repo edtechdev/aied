@@ -8,7 +8,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 Uhalisia wa kawaida na wa nyongeza ni **hali ya kuonyesha**, si mfano: ni tabaka ambalo kupitia yake mazingira ya kujifunza yanafikia mwanafunzi. Hii inafanya iwe mhimili tofauti na [[simulation]], ambayo ni kile kinachofuatiliwa kwanza. Mbili mara nyingi huchanganyika, kwa sababu mazingira ya kuzamisha ni magari ya kawaida ya kufikisha uigishaji, lakini hubadilika kwa njia huru — kigeuzi cha wagonjwa cha eneo-kazi ni uigishaji bila VR, na nakala ya AR kwenye chombo halisi ni VR bila uigishaji. Kuziweka mhimili mbali ni muhimu kwa ubuni: kuamua kufanya mazoezi bila hatari ni uamuzi tofauti na kuamua kufanya yajumuishe mwili, na mbili zinabeba gharama tofauti, hali tofauti za kushindwa, na ushahidi tofauti. VR/AR ni **tabaka la kufikisha** la uigishaji na jamaa wa karibu wa [[game-based-learning|kujifunza kwa msingi wa michezo]]; inafanya kazi [[embodied-learning|ujumuishaji wa mwili]] na akaunti [[situated-learning|zilizowekwa katika hali]] za kujifunza, na iko ndani ya mazoezi ya [[experiential-learning|uzoefu]] na [[active-learning]].
 
 AI sasa inaunda hali hii ya kuonyesha kutoka pande zote mbili. **Inatengeneza** maudhui ya kuzamisha, kwa sababu [[generative-ai|AI ya kizalishaji]] hubadilisha ilani ya lugha ya kawaida yenye muundo kuwa kitu cha AR au VR kinachoweza kukimbia, ikipunguza ujuzi wa upangaji wa programu wa kitaalamu ambao ulikuwa ukizuia uzalishaji. Na **inaishi** katika mazingira, kama [[agentic-ai|mawakala]], [[pedagogical-agent|mawakala wa kielimu]] na maarifa [[rag|ya taaluma yaliyorudishwa]] yakitoa mwongozo ndani yake — bila mikono, kwa muda halisi, yameegemezwa katika vyanzo ambavyo mwanafunzi hawezi kuvishauria wakati akiwa na kichwa cha VR.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang na Ju (2026)]] wanajaribu darasa lililopinduliwa lililoimarishwa kwa AI-VR na wanafunzi wachanga wa EFL na wanaripoti ongezeko la mafanikio ya Kiingereza, kujidhibiti kwa metaji na motisha, huku ujuzi wa kiteknolojia ukisawazisha kiasi ambacho wanafunzi walipata kutoka sehemu ya kuzamisha.
 
 ## Kile ambacho hali hii ya kuonyesha inaongeza
 
@@ -71,6 +73,12 @@ Matokeo hasi yaliyo wazi zaidi katika hifadhi hii ya maarifa yanatoka utekelezaj
 Ambapo mazoezi ya kuzamisha yanatumiwa kwa ujuzi wa kisheria na wa taratibu, kizuizi cha kuzuia si uaminifu wa kuona bali uhalisia unaohisiwa. Mapitio ya [[mixed-methods-research|mbinu mchanganyiko]] ya uigishaji wa uuguzi unaoendeshwa na AI (masudio 19, N = 1,253) yalipata AI yenye ufanisi kwa maarifa ya kiakili na matokeo ya kihisia lakini hayakuwa thabiti kwa ujuzi ngumu wa psychomotor, na yalitaja sababu: **pengo la uhalisia** linalojumuisha msisamko wa kihisia, utambuzi wa ishara zisizo za maneno, na vipimo vya kugusa na vya [[summative-assessment|uchunguzi]] wa kimwili. Pendekezo lake la kivitendo ni **mzozo unaoendelea wa uigishaji** — AI inafaa vizuri kwa malengo yenye muundo mkubwa kama mawasiliano ya msingi na kuchukua historia, huku hali ngumu za psychomotor na za kihisia zikiwa mali ya wagonjwa wa kiwango cha binadamu na uwekaji wa kliniki. Kutokuwa na utulivu wa kiufundi kuongeza tatizo: ucheleweshaji wa utambuzi wa hotuba huingiza mzigo [[cognitive-offloading|wa kiakili]] wa nje na wasiwasi, ambao hufanya uthabiti na ucheleweshaji kuwa vileo vya kubuni badala ya maelezo ya utekelezaji.
 
 Mantiki iyo hiyo inaeleza kwa nini uwepo si mzuri kiotomatiki. Kichefuchefu cha mwendo, kutokuwa na uthabiti wa UI, gharama ya vifaa, na ufikikaji tofauti wa vifaa huamua ni nani anaweza kutumia mazingira ya kuzamisha kabisa, ndiyo maana maswali ya [[equity-in-ai-education|usawa]] ya hali hii ya kuonyesha yanaungana na [[accessibility]] na [[inclusive-learning]] badala ya kuwamo mbali nao.
+
+## Dhana Potofu za Kawaida
+
+- **"Kuhisi jambo kunamaanisha kulielewa."** Jaribio la awali liligundua wanafunzi waliripoti **kuhisi** urefu wa mawimbi na ukubwa wake kwa ishara ya mkono kwa nguvu zaidi kuliko kwa kitelezi, lakini **kilipima utambuzi, si mafanikio**. Hisia ni uwezo wa mazingira, na kama ilizalisha uelewa ni jaribio tofauti.
+- **"Alama za juu za urahisi wa matumizi zinathibitisha zana ya VR ya kielimu."** Katika **kipindi cha saa moja na wanafunzi 10** kwenye Meta Quest 3, utafiti uliripoti **urahisi mzuri wa matumizi kwenye Kipimo cha Urahisi wa Matumizi ya Mfumo na ugonjwa mdogo wa uigaji**. Urahisi na faraja ni masharti ya awali na hakuna kinachopima kujifunza.
+- **"Kukubali kwa wanafunzi ni ushahidi wa uwezo wa mazingira."** Kwa **wanafunzi 29 wa mwaka wa pili wa upigaji picha wa matibabu**, wote 29 **walikubali ishara iliwasaidia "kuhisi" urefu wa mawimbi ni nini (wastani 4.52)**. Kukubali kwa kauli moja kuhusu hisia ni taarifa ya kujiripoti kuhusu uzoefu, na dai la uwezo wa mazingira linahitaji matokeo yasiyotegemea hukumu ya mwanafunzi kuhusu uelewa wake.
 
 ## Dhana Zilizounganishwa
 

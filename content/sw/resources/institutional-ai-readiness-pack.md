@@ -2,7 +2,7 @@
 title: "The Institutional AI Readiness Pack"
 created: "2026-10-13T06:30:00-04:00"
 type: resource
-summary: "A university-wide AI readiness assessment and implementation toolkit: maturity self-assessment, researcher and supervisor surveys, gap analysis, role briefings and model policy."
+summary: "Vifaa vya tathmini na utekelezaji wa utayari wa AI kwa chuo kikuu kizima: tathmini binafsi ya ukomavu, dodoso za watafiti na wasimamizi, uchanganuzi wa pengo, maelezo ya majukumu na sera ya mfano."
 url: https://mzyphur.github.io/ai-readiness/instruments.html
 source_code: https://github.com/mzyphur/ai-readiness
 author: "Michael J. Zyphur (Instats)"

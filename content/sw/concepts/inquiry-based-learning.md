@@ -8,7 +8,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,16 @@ Muundo wa IBL unaoelekezwa na maswali na unaozingatia mchakato ni nyenzo halisi 
 [[productive-failure|Kushindwa kwa uzalifu (PF)]] ni ndugu wa karibu zaidi aliye na muundo wa kujifunza kwa uchunguzi: wanafunzi huchunguza matatizo na kutoa suluhisho *kabla ya* mafunzo ya moja kwa moja, kisha huyashikilia. Vyote viwili vinashiriki msingi kwamba majaribio yaliyotolewa na mwanafunzi (hata yale yaliyoshindwa) [[prior-knowledge|huanzisha maarifa ya awali]] na kuwaandaa wanafunzi kujifunza kutoka kwa mafunzo. [[research-methods-aied|Utafiti]] wa PF katika zama za AI unaboresha jinsi AI inapaswa kutoa ngazi za msaada kwa uchunguzi bila kuukata kifupi: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] wanatoa kanuni za ubuni za AI za kuhifadhi pigano kupitia uchunguzi wa matatizo na utoaji wa suluhisho; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] wanaonyesha kuwa walimu wa LLM wanaweza kuelekezwa kuzuia majibu na kudai majaribio mengi; kazi za [[lukesova-clue-before-correction-2026|dokezo-kabla-ya-marekebisho]] ni mfano wa ngazi za msaada za dokezo (badala ya za moja kwa moja) zinazoweka wanafunzi kuendelea kufanya hoja. Hizi zinaunganisha uchunguzi na PF na amri pana kuwa AI haiwezi kuondoa [[desirable-difficulties|pigano la uzalifu]] ambalo kupitia wake kujifunza kwa kudumu hujengwa.
 
 Katika miktadha ya shamba ya nje, amri ileile inakuwa ya kijiografia: GenAI inaweza kupanga mapema kile wanafunzi wanachogundua kabla ya kukutana na ushahidi, hivyo mlolongo wa shamba-kwanza unaozuia maelezo yaliyotolewa hadi uchunguzi na tafsiri za awali zimeandikwa unahifadhi uchunguzi ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## Dhana Potofu za Kawaida
+
+**"AI inafaa kwa asili kwa kujifunza kwa uchunguzi kwa kuwa zote ni za uchunguzi."** Ufaafu hutegemea kabisa ubuni: [[generative-ai|AI ya kizalishaji]] na zana za [[llm|LLM]] zinaweza kutumika kama wachunguzi wenza wa mwingiliano wanaosaidia kuhoji na kuchunguza **pale tu zinapobuniwa kuhifadhi umiliki wa mwanafunzi wa swali**. Zikitumika vinginevyo, mwanafunzi mchunguzi anafuata jibu badala ya kufanya uchunguzi, na mawili yanaonekana sawa kutoka nje.
+
+**"AI yoyote inayoongezwa kwenye kitengo cha uchunguzi huiboresha."** Mchango wa AI lazima utengwe na uchunguzi wenyewe. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] alifanya hivi kwa ubuni wa makundi matatu katika masudio ya tabianchi: uchunguzi unaosaidiwa na AI ulizidi wenzao wa uchunguzi peke yake kwa **ufanyaji wa maamuzi (d = 0.69)**, huku ushahidi ukipatikana katika matokeo mahususi badala ya ubora wa jumla wa mbinu.
+
+**"Uchunguzi hauna muundo kwa ufafanuzi."** Mwalimu huweka ngazi za msaada, na muundo upo katika ubuni wa swali na mzunguko wa tafakuri badala ya uwasilishaji wa maudhui. Kuondoa ngazi za msaada hakufanyi uchunguzi kuwa wa kweli zaidi; kunaufanya usiwe na ngazi za msaada.
+
+**"Maswali yanayoongozwa na wanafunzi yatakuwa na muundo mzuri kama wanafunzi wanavutiwa."** Kuzalisha swali linaloweza kushughulikiwa ndio ujuzi unaoendelezwa, ndio sababu mfumo unaotoa maswali mazuri umefanya ujuzi wa uchunguzi ambao shughuli hiyo ipo kufundisha.
 
 ## Dhana Zilizounganishwa
 

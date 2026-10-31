@@ -12,7 +12,7 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,33 @@ Nyanja hii pia inarekebisha dhana tatu za jirani. Kutoka kwa [[simulation]] inar
 - **Ushahidi umegeukana.** Ramani ya pengo ya mapitio huo huo inapata hakuna utafiti wa nasibu au nusu-ya-kielelezo wa utambulisho wa taaluma au [[career-development-and-readiness|maendeleo ya kazi]], matatu tu ya ujuzi wa mahusiano na maadili, na hakuna ufuatiliaji zaidi ya miezi 12 — wakati ushahidi uliodhibitiwa unakusanyika katika matokeo ya kifikra na kiufundi.
 - **Ufuatiliaji umethibitishwa kama mtazamo, si kama tabia iliyoboreshwa.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] walipanga [[remote-proctoring]] katika tathmini ya uuguzi katika masomo sita (wanafunzi 1,567) na kupata kuzuia kunaripotiwa karibu kila mahali na wanafunzi waliopatwa (makubaliano ya 98–100% katika mpango mmoja wa shahada ya juu), wakati utafiti mmoja wa kulinganisha utendaji ulipata kikundi kilichopatwa ana kwa ana kinapata alama za juu kwa kiwango kikubwa katika mtihani wa utayarishaji kuliko kilichopatwa kwa mbali. Wasiwasi ulienda kwa njia zote mbili — wanafunzi fulani walikuwa wazaa zaidi nyumbani na wameachiliwa kwa safari, wengine hawakuweza kuzingatia wakiwa wanaangaliwa na wanaogopa [[legal-issues-and-risks|shtaka lisilo sahihi]] — na nne kati ya masomo sita yaliripoti kushindwa kwa muunganisho, moja kupunguza mzigo, na hivyo kufanya upatikanaji [[equity-in-ai-education|wa usawa]] kuwa kikomo cha kuendesha badala ya usalama wa mtihani. Msimamo wa waandishi ni kwamba upatikanaji wa mbali unapaswa kuwa chombo kimoja kati ya vingi, kinasimamiwa na viwango vya ulinzi wa data na kuunganishwa na uadilifu-kwa-kubuni na [[authentic-assessment|tathmini halisi]] badala ya kutendewa kama ulinzi wa chaguo-msingi.
 - **Masharti ya mpaka.** Mwelekeo unakusanyika kwenye kizuizi kimoja. AI imara zaidi kwa malengo yaliyopangwa, yanayoweza kurudiwa — mawasiliano ya msingi, kuchukua historia, elimu ya afya, upatikanaji wa ujuzi — na dhaifu zaidi kwa ujuzi mgumu wa mwili, mwingiliano wenye mzigo wa kihisia, na uundaji wa taaluma wa muda mrefu. Kukubalika ni mara kwa mara cha wastani hadi juu, lakini kukubalika kwa maoni ya AI kunategemea uaminifu: wanafunzi wanapendelea vyanzo vya binadamu vinavyoonekana kama vya wema juu ya AI inayoonekana kama yenye uwezo tu. Mapitio pia ni nyembamba kijiografia, yanadhibitiwa na mizango isiyodhibitiwa na [[self-report-measures|kujiripotiwa]] na — katika mapitio ya simulation — yanaonyesha mtindo wa chanya wa karibu uwiano ambao huongeza wasiwasi wa upendeleo wa kuchapisha.
+
+## Dhana Potofu za Kawaida
+
+**"Uigaji unaosaidiwa na AI unaboresha umahiri wa uuguzi kwa ujumla."** Faida inakoma kwenye mpaka uliothibitishwa. Uigaji unaosaidiwa na AI unaboresha kwa uthabiti maarifa na [[self-efficacy]] lakini unaonyesha **athari zisizo thabiti, wakati mwingine hasi, kwenye ujuzi mgumu wa kiakili na viungo**, na umahiri wa kiakili na viungo si matokeo ya pembeni katika taaluma inayofafanuliwa nao. Programu inayopitisha uigaji kwa nguvu ya faida za maarifa ina ushahidi kwa mwisho tofauti na ule unaopimwa na leseni.
+
+**"Wasiwasi wa nguvu kazi kuhusu AI katika uuguzi kwa hakika ni pengo la ujuzi, hivyo mafunzo ya ujuzi wa AI ndiyo dawa."** Wasiwasi ni kuhusu ajira, si kuhusu umahiri. Dodoso ya **wanafunzi 821 wa sayansi za afya** iligundua uhusiano wa wastani chanya kati ya [[anxiety-and-stress|wasiwasi wa AI]] na wasiwasi wa kutafuta kazi (**r = 0.233, p < 0.001**), huku wasiwasi wa AI ukiwa kitabiri cha umuhimu baada ya vidhibiti. Kufundisha ujuzi kunashughulikia hofu ya kutoweza kutumia zana; hakushughulikii hofu ya kutokuwa na kazi, na mfumo wa utambulisho wa kitaaluma wa fasihi, yaani nani anakuwa muuguzi badala ya kile mwanafunzi anaweza kufanya, ndipo swali hilo linapostahili kuwa.
+
+**"Wanaojifunza wanataka mawakala wa AI kama washirika."** Wanawataka kama zana. Kati ya **wanajifunza 165 (158 walikamilisha)**, mwakala alipimwa kuwa muhimu zaidi *kama zana* (**M = 3.49**), kisha kwa manufaa ya maoni (**M = 3.21**), na kidogo zaidi *kama sehemu ya timu* (**M = 2.88**), huku tofauti zote za jozi zikiwa na umuhimu (**F(2, 156) = 26.01, p < .001**). Ubuni unaoweka mwakala kama mwanatimu unaenda kinyume na mapendeleo ya wanaojifunza, si mbele yao.
+
+**"Utafiti wowote wa uigaji unaenea hadi mazoezi ya kliniki."** Msingi wa ushahidi uliopitiwa hapa, **tafiti 19, N = 1,253, hasa wanafunzi kabla ya leseni**, ni wa darasani na maabara kwa kiasi kikubwa, na tafsiri kutoka umahiri wa uigaji hadi mazoezi yanayosimamiwa ndilo hatua ambayo uigaji unaosaidiwa na AI hauifanyi yenyewe.
+
+## Maana kwa Mazoezi
+
+**Kwa walimu**
+
+- Usipitishe uigaji wa AI ili kuendeleza ujuzi mgumu wa kiakili na viungo kwa nguvu ya faida za maarifa na uwezo binafsi. Weka mazoezi ya makusudi yanayosimamiwa kwa miisho ya kiakili na viungo na tumia AI pale ushahidi wake ulipo imara zaidi.
+- Shughulikia wasiwasi wa ajira moja kwa moja badala ya kuupitisha kupitia moduli za ujuzi wa AI; uhusiano na wasiwasi wa kutafuta kazi unasema wasiwasi ni kuhusu mustakabali wa taaluma, si ufasaha wa zana wa mwanafunzi.
+- Weka mawakala kama zana na vyanzo vya maoni, jambo linaloendana na mapendeleo ya wanaojifunza na ubuni uliozalisha alama imara zaidi.
+
+**Kwa wabuni**
+
+- Ripoti matokeo ya kiakili na viungo na ya maarifa kwa kutenganisha, kwa kuwa yanatofautiana katika fasihi hii.
+- Buni kwa ajili ya majukumu ya zana na maoni kwanza; uwekaji wa mwakala kama mwanatimu si kile wanaojifunza waliomba.
+
+**Kwa watafiti**
+
+- Ripoti sampuli za wanafunzi kabla ya leseni na za wauguzi wanaofanya kazi kwa kutenganisha, na soma mpito hadi mazoezi yanayosimamiwa ikiwa dai la umahiri linapaswa kuwa na maana ya kliniki.
 
 ## Dhana Zilizounganishwa
 

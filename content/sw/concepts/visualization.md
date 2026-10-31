@@ -6,7 +6,7 @@ technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-10-13T05:45:00-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,13 @@ Mifumo ya vitendo inatumia kanuni hizi kwa kiwango kikubwa. AISSA inaunganisha a
 ## Maana
 
 Katika kazi zote zilizojadiliwa hapa, uwasilishaji wa data kwa michoro unajitokeza kama nyenzo ya matumizi mawili: AI inazidi kuzalisha na kutafsiri michoro, huku dashibodi na michoro inayoingiliana zikihudumu kama uso wa pamoja wa kuelewa kwa binadamu-AI. Maandishi-hadi-picha yanayozalisha na uchanganuzi wa multimodal unapanua wigo wa uwasilishaji wa data kwa michoro hadi maudhui maalum ya [[stem-education|STEM]] na [[ai-feedback-quality|maoni ya kiotomatiki]], lakini uwezo usio sawa wa mifano, kushindwa kwa usawazishaji wa ukali, na [[ethics|wasiwasi wa maadili]] kuhusu habari potofu na uhusiano wa uandishi unahitaji uthibitishaji wa makini na wa tabaka. Kwa wabuni na waelimishaji, hitimisho lenye nguvu zaidi ni kwamba mwingiliano na mahusiano — kuvuta hoja ya mwanafunzi juu ya data ya picha, kuwaruhusu watumiaji kudhibiti juhudi ya kiakili, na kuchukua michoro yaliyozalishwa na AI kama miundombinu ya pamoja badala ya malengo — ni muhimu zaidi kuliko uaminifu wa chati yenyewe.
+
+## Dhana Potofu za Kawaida
+
+- **"AI haiwezi kuwasilisha maudhui mahususi kwa usahihi."** Inaweza, kwa mbinu sahihi: kurekebisha modeli ya maandishi-hadi-picha kwa dhana za nyuklia **kulipandisha usahihi wa uwanja kutoka 12% hadi 78%**. Pengo ni msingi wa uwanja, si uwezo wa kuzalisha, na linaweza kushughulikiwa.
+- **"Uwasilishaji bora wa data kwa michoro huzalisha matokeo bora."** Walimu **walipendelea kwa utaratibu uwasilishaji rahisi na wa jadi zaidi** (ploti za baa, chati za pai, vielelezo) **hata pale miundo tata kama ramani za joto ilitoa maarifa ya kina zaidi**. Kifaa chenye taarifa zaidi hakikuwa kile kilichotumika, hivyo kupitishwa ni tatizo tofauti na ubora wa ubuni.
+- **"Wanafunzi huangalia pale ngazi za msaada zilipo."** Somo moja liligundua wanafunzi **walitumia sehemu kubwa ya mtazamo wao kwenye msimbo licha ya ngazi za msaada za kuona zilizoandaliwa kwa kina**; misaada hiyo haikuvuta umakini. Msaada wa kuona uliopo lakini usioangaliwa haubadilishi chochote.
+- **"Ushiriki na ufahamu husogea pamoja."** Washiriki waliona katuni za data zilizozalishwa na AI **zenye ushirikiano zaidi na zinaeleweka zaidi, lakini wengi pia walibainisha hatari ya taarifa potofu na mzigo wa taarifa**. Mitikio yote miwili ilitoka kwenye kifaa kimoja, hivyo mapokezi chanya si usomaji uliothibitishwa.
 
 ## Dhana Zilizounganishwa
 - [[learning-analytics]]

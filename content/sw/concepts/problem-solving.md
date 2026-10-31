@@ -7,7 +7,7 @@ pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,31 @@ Utatuzi wa matatizo ni matokeo ya kutumika ya [[critical-thinking|ufikiri mahusu
 ### Uwekaji wa Kodi wa Ujuzi wa CPS wa Kiotomatiki
 
 - Kupima uwezo wa [[collaborative-learning|utatuzi wa matatizo wa ushirikiano (CPS)]] kwa kawaida kunahitaji kuweka kodi ya tabia kutoka data ya mchakato wa kazi ya kuiga katika ujuzi mahususi wa CPS. [[prompt-engineering|Ilani inayotambua muktadha]] ya mifano ya lugha iliyofunzwa mapema inaweza kuendelesha uwekaji huu wa kodi, ikifuatilia utegemezi wa muktadha na kuunganisha uwezo wa kiakili na wa kijamii ili kufikia utendaji bora zaidi ya viwango thabiti vya data za kazi za CPS — ikishughulikia uzito wa kazi ya uwekaji wa kodi wa mikono na kuwezesha tathmini ya kiwango kikubwa, ya wakati halisi.
+
+## Dhana Potofu za Kawaida
+
+**"AI inayosaidia wanafunzi kuchunguza mitazamo inawasaidia kufikiri."** Tabia ile ile inasaidia matokeo mawili tofauti sana: zana za AI huwasaidia wanafunzi kuchunguza mitazamo mingi na kuzalisha matatizo yao wenyewe, na zinaweza pia kuhimiza uvivu wa metaji. Swali la kutofautisha ni kama mwanafunzi ndiye anayefanya uundaji wa mfumo au anapokea, kwa kuwa mfumo unaotoa mitazamo tarajali umefanya hatua ya kuzalisha ambayo zoezi lilikuwepo kuidai.
+
+**"Utatuzi wa matatizo ndio lengo, kwa hivyo kuweka matatizo ni nyongeza."** Kuweka matatizo ndipo uhamishaji hujengwa, kwa kuwa kunahitaji mwanafunzi kuunda muundo badala ya kufanya kazi ndani ya ule ambao mfumo umetoa. Mtaala unaotoa tu matatizo yaliyoundwa vizuri hufunza utendaji kwenye matatizo yaliyoundwa vizuri, ambayo si hali ambayo wanafunzi hukutana nayo baadaye.
+
+**"Uigaji wa utatuzi wa matatizo wa ushirikiano ni mbadala wa ushirikiano."** Uigaji huiga muundo wa mwingiliano, na ujuzi unaoendelezwa ni udhibiti wa tatizo la pamoja na washiriki waliopo kweli. Mawakala mahususi kwa mshiriki wanaoiga washirika halisi ni chombo cha utafiti cha kusoma udhibiti huo, chenye manufaa kwa kile kinachofichua kuhusu mchakato, si njia ya kuwapa wanafunzi mazoezi bila wenzao.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji**
+
+- Waulize wanafunzi kuweka tatizo kabla ya kulitatua. Kuweka kunahitaji kuunda muundo, ambapo uhamishaji hujengwa, na ndiyo hatua ambayo AI hufanya kwa urahisi zaidi kwa niaba yao.
+- Tofautisha mshirika wa kufikiri na mbadala katika kazi yenyewe: hitaji uundaji wa mfumo wa mwanafunzi, mbinu na uhalali wake kwenye kumbukumbu, ili kumbukumbu ionyeshe nani alifanya kazi ya kuzalisha.
+- Angalia mwanafunzi anayechunguza mitazamo mingi kwa ufasaha na hazalishi msimamo wake mwenyewe; huo ni uvivu wa metaji uliovaa sura ya ushirikiano.
+
+**Kwa waendelezaji**
+
+- Buni kwa ajili ya matatizo na miundo inayozalishwa na wanafunzi badala ya vidokezo bora tu kwa matatizo yaliyotolewa.
+- Pima hatua ya uundaji wa mfumo, si hatua za suluhisho peke yake; mfumo unaofuatilia majibu na si uundaji wa tatizo hauwezi kuona matokeo ambayo ni muhimu.
+
+**Kwa watafiti**
+
+- Uigaji wa mawakala mahususi kwa mshiriki ni chombo chenye nguvu cha kusoma udhibiti wa ushirikiano. Ripoti kama hivyo badala ya kama ushahidi kuhusu ushirikiano wa wanafunzi usiosimamiwa.
 
 ## Dhana Zilizounganishwa
 

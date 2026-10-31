@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-**Miundo ya kupokea teknolojia** ni mifumo ya kinadharia inayotumika kueleza na kutabiri kwa nini watu na taasisi hukubali, hupokea, na huendelea kutumia [[ai-technologies|teknolojia]] mpya — na, katika utafiti wa AI katika elimu, kwa nini wanafunzi, walimu, na mashirika hupokea zana za [[generative-ai|generative AI]]. Badala ya mfano mmoja, huu ni familia ya nadhari zenye mizizi ya pamoja katika utafiti wa mifumo ya habari na saikolojia ya kijamii, ambapo **Mfano wa Kukubalika kwa Teknolojia (TAM)** ni iliyotumika zaidi. Hifadhi hii ya maarifa inazishughulikia miundo hii pamoja kwa sababu masudio ya kupokea GenAI kwa kawaida huichanganya (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) na kwa sababu dhana zao za msingi — ufaafu unaotambatika, urahisi wa matumizi unaotambatika, na ushawishi wa kijamii — hurudiaruka katika karibu kila somo la kukubalika kwa AI katika elimu.
+**Miundo ya kupokea teknolojia** ni mifumo ya kinadharia inayotumika kueleza na kutabiri kwa nini watu na taasisi hukubali, hupokea, na huendelea kutumia [[ai-technologies|teknolojia]] mpya — na, katika [[ai-education|AI katika elimu]], kwa nini wanafunzi, walimu, na mashirika hupokea zana za [[generative-ai|generative AI]]. Badala ya mfano mmoja, huu ni familia ya nadhari zenye mizizi ya pamoja katika utafiti wa mifumo ya habari na saikolojia ya kijamii, ambapo **Mfano wa Kukubalika kwa Teknolojia (TAM)** ni iliyotumika zaidi. Hifadhi hii ya maarifa inazishughulikia miundo hii pamoja kwa sababu masudio ya kupokea GenAI kwa kawaida huichanganya (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) na kwa sababu dhana zao za msingi — ufaafu unaotambatika, urahisi wa matumizi unaotambatika, na ushawishi wa kijamii — hurudiaruka katika karibu kila somo la kukubalika kwa AI katika elimu.
 
 ## Maswali ya Kutafakari
 
@@ -36,28 +36,25 @@ ai_assist:
 
 **Ushahidi wa [[meta-analysis-systematic-review|meta-analysis]] juu ya kupokea AI.** [[teo-ai-adoption-tertiary-meta-analysis-2026|Meta-analysis ya kupokea AI kwa wanafunzi wa elimu ya juu]] (mahusiano 233, masudio 32, N = 16,977) inapata mahusiano chanya ya wastani kwa mambo ya kibinafsi (r = 0.57), ya muktadha (r = 0.53), na ya kiteknolojia (r = 0.50), huku nia za matumizi zikiwa mtabiri mwenye nguvu zaidi (r = 0.64) na hatari/uaminifu unaotambatika ukiwa dhaifu kuliko inavyotarajiwa. Upinzani wake wa kati ni kwamba uwanja **unategemea kupita kiasi mifumo ya jadi ya TAM/UTAUT** iliyotangulia mifumo ya kisasa ya akili, na inapuuzia mambo maalum ya AI kama vile ubinadamu-na-ufananishaji na maadili — ikidai kuwa mapengo haya ni muhimu kwa kuendeleza nadharia na sera zinazotegemea ushahidi.
 
+- **Urahisi wa matumizi uliacha kutabiri mara sampuli ilipokuwa imekwisha pitisha.** Wei, Zhang na Heo (2026) wanapanua TAM kwa wanafunzi 526 wa ubuni wenye matumizi ya awali ya AIGC na kugundua kuwa mtazamo wa urahisi wa matumizi ulikuwa mtazamo pekee wa kiteknolojia usiohusishwa kwa umuhimu na uwezo binafsi, wakati maarifa, uaminifu, kuegemea, ufaafu, akili na wasiwasi kila moja kilihusishwa ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Nia ya matumizi ilihusishwa kwa nguvu na utegemezi ulioripotiwa katika data za sehemu-mfumo.
+
 ## Familia ya mifano
 
 ### Mfano wa Kukubalika kwa Teknolojia (TAM)
-
 Uliopendekezwa na Davis (1989), TAM inaeleza kupokea kupitia imani mbili za msingi — **Ufaafu Unaotambatika (PU)** na **Urahisi wa Matumizi Unaotambatika (PEOU)** — ambazo huunda **Mitazamo (ATT)** ya watumiaji, kisha **Nia ya Tabia (BI)**, kisha matumizi halisi. Ikiwa imejengwa juu ya nadharia ya mifumo ya habari (kurekebishwa kutoka Nadharia ya Kitendo chenye Hoja), TAM imekuwa mfumo unaotawala kwa kupokea [[generative-ai|GenAI]] katika elimu. Katika utafiti wa GenAI wa kielimu mara nyingi inapanuliwa kwa [[ai-literacy]], [[trust]], ushawishi wa kijamii, [[self-determination-theory|kujitambua]], na **matumizi mahususi** ili kukamata utata wa kupokea zaidi ya kupitishwa rahisi.
 
 ### UTAUT / UTAUT2 / UTAUT3
-
 **Nadharia Iliyounganishwa ya Kukubalika na Matumizi ya Teknolojia** inaunganisha TAM na mifano minane ya awali katika vigezo vinne vya msingi — matarajio ya utendaji, matarajio ya juhudi, ushawishi wa kijamii, na hali zinazorahisisha (na UTAUT2 ikiongeza motisha ya kufurahia, thamani ya bei, na tabia; UTAUT3 ikiongeza ubunifu binafsi). Hifadhi ya maarifa inatumia UTAUT katika idadi ya walimu na wanafunzi: [[mathematics-teachers-chatbot-motivation-2026|walimu wa hisabati wa sekondari wa Austria]] (UTAUT na walimu 448), [[pre-service-science-teachers-ai-perceptions-2026|walimu wa sayansi wa kabla ya huduma nchini Ghana]] (UTAUT + TPB), na [[tian-genai-learning-adoption-pathways-2026|wanafunzi nchini Lesotho]] (UTAUT3 + ARCS, wakitumia PLS-SEM na fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] wanapanua UTAUT2 na AI inayoeleweka (Random Forest, SHAP, NCA, IPMA, K-Means) kwa wanafunzi 522 wa chuo kikuu, wakipata **tabia** kuwa mtabiri mwenye nguvu zaidi wa nia ya ChatGPT na kuonyesha kuwa **matarajio ya juhudi ni hali muhimu badala ya msukumo wa mstari** — matokeo yanayoonekana tu wakati XAI inakamilisha uchanganuzi wa kurudia.
 
 ### Nadharia ya Kitendo chenye Mpango (TPB)
-
 TPB inaeleza nia kupitia mitazamo, kanuni za kibinafsi, na udhibiti wa tabia unaotambatika. Mara nyingi hufungwa na TAM/UTAUT katika masudio ya kupokea AI — mfano [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] wanaunganisha TAM, TPB, UTAUT, na mfumo wa FATE ([[bias-mitigation|Haki]], Uwajibikisho, Uwazi, Maadili) kuunda mfano wa vigezo vya tabia na [[ethics|maadili]] vya kupokea ChatGPT kwa wanafunzi.
 
 Utafiti wa kupokea kwa kawaida husimama katika nia; upanuzi wa TPB ambao badala yake ulipima ucheleweshaji licha ya nia ya kweli ulipata udhibiti wa tabia unaotambatika kuwa mtabiri hasi mwenye nguvu zaidi ya ucheleweshaji wa kujifunza unaosaidiwa na GenAI (β = −0.331) katika wanafunzi 1,243 wa chuo kikuu, huku kiungo cha nia–ucheleweshaji kikiwa na umuhimu tu katika wasiwasi wa kujifunza GenAI wa wastani-hadi-juu ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### Kusambaa kwa Ubunifu (DOI)
-
 Nadharia ya DOI ya Rogers inaeleza kupokea kama mchakato wa kijamii ambao ubunifu unasambaa kupitia idadi ya watu kwa wakati, ikisisitiza sifa za ubunifu (faida ya uhusiano, utangamano, utata, uwezekano wa kujaribiwa, uwezekano wa kuchunguzwa) na makundi ya wapokeaji. Inaonekana katika uchanganuzi wa kiwango cha [[governance|taasisi]] cha hifadhi ya maarifa, mfano [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] wanaunganisha mfumo wa Teknolojia–Shirika–Mazingira (TOE) na DOI kuunda mfano wa kupokea AI wa shirika katika vyuo vikuu vya Saudi.
 
 ### Teknolojia–Shirika–Mazingira (TOE)
-
 TOE inaweka kupokea kama kitu kilichoundwa na miktadha ya kiteknolojia, ya shirika, na ya mazingira — kilichoanzia kama nyongeza ya TAM/UTAUT ya kiwango cha mtu binafsi kwa ajili ya kusoma kupokea kwa taasisi (angalia [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
 ## Matumizi katika hifadhi ya maarifa
@@ -88,6 +85,14 @@ Mwelekeo wa kikognitivi wa TAM pia unakamata kwa kiwango kidogo vipimo vya kihis
 
 Kiungo cha hatari na matumizi pia kinategemea mfumo: katika mifumo 49 ya TALIS 2024 iliyotoa vitu hivyo, ufaafu wa AI unaotambatika ulihusishwa chanya na matumizi ya AI katika yote 49, wakati hatari inayotambatika ilihusishwa hasi katika 40 na chanya katika tisa ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
+Upanuzi wa hivi karibuni unapindua mwelekeo wa kawaida, ukiweka imani za motisha mahususi kwa somo juu ya mitazamo ya TAM badala ya kando yao. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] wanaripoti thamani ya manufaa ikitabiri ufaafu unaohisiwa kwa β = 0.43 na matarajio ya mafanikio yakitabiri urahisi wa matumizi kwa β = 0.39, wakati njia za msingi za TAM zikipungua lakini zikibaki na umuhimu.
+
+## Dhana Potofu za Kawaida
+
+- **"Miundo ya TAM inaeleza upitishaji."** [[socio-cognitive-genai-adoption-engineering-2026|Asag na Al Mamun]] waliunganisha TAM na UTAUT kwa wanafunzi wa uhandisi nchini Bangladesh na wakaeleza **64% ya** tofauti. Kubwa na kutokamilika kwa wakati mmoja: takriban theluthi moja ya kile kinachosukuma upitishaji kiko nje ya miundo ya kawaida ya kukubalika.
+- **"Miundo ya kukubalika haihitaji marekebisho ya kikoa."** Kuongeza **uhuru bandia unaohisiwa**, yaani jinsi walimu wanavyoamini GenAI inaweza kutekeleza kazi ya kufundisha iliyopewa kwa uhuru, na **kuepuka hatari** kwenye miundo ya kawaida kulibadilisha mfano kwa kiasi kikubwa. Miundo ya awali ilibuniwa kwa zana zisizo na wakala, na GenAI ina wakala unaohisiwa.
+- **"Kadirio la upitishaji la meta-analysis linaelezea idadi yoyote."** [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis ya wanafunzi wa elimu ya juu]] ni kadirio la ngazi ya idadi; matokeo ya uhandisi yanayoeleza 64% ni idadi mahususi. Kuhamisha moja kwenye lingine hudhani uthabiti ambao ushahidi hauthibitishi.
+
 ## Dhana Zilizounganishwa
 
 - [[business-education]]
@@ -105,6 +110,8 @@ Kiungo cha hatari na matumizi pia kinategemea mfumo: katika mifumo 49 ya TALIS 2
 - [[framing-ai-use-for-students]]
 
 ## Makala Zilizounganishwa
+
+- [[high-school-genai-acceptance-tam-physics-2026]] — Subject-specific beliefs placed upstream of the TAM perceptions
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI kama \"rafiki-mtesi\": uhuru bandia na kupuuza hatari yanapanua TAM kwa walimu (Dai et al. 2026)
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Uzoefu wa AI katika uuguzi; upanuzi wa kisaikolojia-kijamii wa TAM
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Wahusika wa kupokea GenAI kupitia makundi

@@ -6,7 +6,7 @@ technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-05T08:24:47-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -54,10 +54,19 @@ IRT inachukulia uwezo (θ) na vigezo vya kipengele (ugumu, ubaguzi, wakati mwing
 - **Urekebishaji wa gawa-na-shinda kwa benki zinazobadilika bila kukoma:** [[bayesian-consensus-irt-item-banks-2026|Jewsbury et al. (2026)]] wanachukulia urekebishaji upya wa IRT kama tatizo la kuweka skela badala ya tatizo la kufunga. Wakati uzalishaji wa vipengele unaotegemea AI na utabiri wa vigezo unaotegemea sifa hufanya benki kuwa kubwa, nyembamba zaidi na inayosasishwa bila kukoma, kufunga upya historia kamili ya majibu katika kila sasisho kunakuwa ghali kwa kasi; *urekebishaji wa makubaliano* wao badala yake unarekebisha kila kipindi cha mara moja na kuunganisha kipindi kipya na posteriors za awali zilizokwishakadiriwa. Sifa mbili zinatofautisha hii na kazi iliyopo ya gawa-na-shinda ya IRT: vipindi havishiriki metriki ya kificho, hivyo kila kimoja huelekezwa kwa metriki ya rejea kwa kigezo thabiti cha Haebara kilichotatuliwa *kwa kila chujio la posterior* (ikibeba hitilafu ya kuunganisha kwenye posteriors zilizounganishwa), na kila kipindi ni ufungaji wake wa kihierarkia unaochangia prior inayokadiriwa, hivyo bidhaa ya kawaida ya posteriors lazima iwe na prior hiyo ikigawanywa na prior ya makubaliano ikirejeshwa — ikipunguza kwa kanuni ya kamati ya Bayesian ya mashine wakati prior zimewekwa. Dhidi ya benchmark iliyounganishwa kwenye vipindi vinne vya robo mwaka ya Duolingo English Test, wastani wa posterior ulikubaliana kwa r = .998 (ugumu) na .991 (ubaguzi wa logi) na SD za posterior kwa r = .970 na .920, na kuacha under-dispersion ndogo (uwiano wa SD 0.91–0.98) ambao ulikuwa mkubwa zaidi katika tertile ya chini ya mwonekano wa kila kipindi. Ni urekebishaji wa IRT uliotengenezwa upya kwa hali za kuwasilisha ambazo benki za vipengele zilizotolewa na AI huzalisha.
 - **Jinsi IRT mara chache inavyowekea uthibitishaji wa kipimo nanga:** tathmini ya vyombo vya ujuzi wa AI vya walimu inahesabu kutokuwepo kwa IRT badala ya matumizi yake. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore na Maat (2026)]] walitia daraja vyombo 33 dhidi ya matriki ya uamuzi iliyobadilishwa kutoka COSMIN na Terwee et al. (2007); uhalali wa muundo ulikuwa imara, na 24 (72.7%) kwa Daraja A kupitia mifano ya CFA, PLS-SEM au IRT, lakini hakuna hata moja iliyotumia IRT au Rasch kama ushahidi wake msingi, na vyombo vitano tu (15.2%) viliripoti kutokuwa na mabadiliko ya upimaji au ushahidi wa utendaji tofauti wa kipengele. Waandishi wanadai mahitaji ya IRT na kazi za utendaji pamoja na tathmini binafsi ili kutenganisha uwezo uliothibitishwa na uaminifu ulioripotiwa.
 - **Njia mbadala ya sababu kwa IRT ya kihusiano.** [[causal-modeling-competency-assessment-2026|Mangili et al. (2026)]] wanadai kuwa IRT na miundo ya mwanafunzi ya Bayesian haiwezi kueleza uingiliaji au counterfactual, na wanatoa mianzo ya misumbo ya kimuundo kutoka kwa wataalam; kwenye betri ya majaribio ya wanafunzi 109, mfano uliotolewa ulikuwa wa utabiri kidogo mdogo (−287 dhidi ya −277 test log-likelihood) lakini ulisaidia maswali ya counterfactual kuhusu msaada.
+- **Majukumu ya mazungumzo kwenye mizani sawa na maswali.** [[unified-irt-framework-question-tutoring-dialogue-2026|Duan et al. (2026)]] wanaandika upya majukumu ambayo wakufunzi huweka katikati ya mazungumzo kuwa maswali yanayojitegemea na kuyaweka kwenye mizani moja ya 1PL IRT ambayo ugumu wake unatoka kwenye maandishi ya swali, wakitumia hatua za msaada-baada-ya-kutangatanga na msukumo-wa-ukamilifu kama usimamizi wa upangaji wa ugumu.
+- **[[benchmark|Kipimo cha msingi]] kinacholingana na viwango kinaweza kujaa.** Kwenye seti za sayansi za [[k-12|shule ya kati]] na sekondari zinazolingana na NGSS, mifano mingi ya uzito-wazi zilipata zaidi ya 90%, zikiacha vipimo vya kipengele vya kawaida dhaifu, ugumu juu, ubaguzi chini, na seli rahisi zaidi ya 90%, hivyo waandishi hawawezi kutenganisha vipengele hafifu na taaluma ambayo imekuwa rahisi kushughulika ([[llm-benchmark-secondary-science-topics-2026|Schroeder et al. (2026)]]).
 
 ### Mahusiano
 
 IRT ni msingi wa [[educational-measurement]] na [[assessment-validity]], inaweka msingi wa [[adaptive-learning]] (uchaguzi wa kipengele unaobadilika) na [[student-modeling]], na inaungana na [[psychometrically-aware-ai]] (tathmini ya AI iliyoungana na nadharia ya upimaji) na [[knowledge-tracing]]. Inajitokeza katika [[llm-difficulty-calibration-programming-exams-2026|urekebishaji wa ugumu wa LLM]] kwa tathmini ya programu.
+
+## Dhana Potofu za Kawaida
+
+- **"IRT inahitaji utawala wa kawaida wa mtihani."** Uwezo na ugumu vinaweza kurejeshwa kutoka **logits za tokeni inayofuata**: kutoa **uwezo wa mwanafunzi θ = z^GOOD − z^BAD** na **ugumu wa zamu ya mwalimu d = z^HARD − z^EASY** na kuvichanganya katika kitabiri cha 1PL Rasch hufanya ufuatiliaji wa maarifa unaotegemea mazungumzo uweze kueleweka kwa maneno ya IRT. Fremu ya kipiskometri inatumika kwa data ya mwingiliano, si kwa majibu ya vipengele tu.
+- **"Kipimo cha msingi ambacho mifano mingi hupita ni kipimo kizuri."** Kipimo cha msingi kinacholingana na viwango kinaweza **kujaa**: kwenye seti za sayansi za shule ya kati na sekondari zinazolingana na NGSS, **mifano mingi ya uzito-wazi zilipata zaidi ya 90%**, zikiacha vipimo vya kipengele vya kawaida dhaifu. Kujaa hakumaanishi mifano ni bora; kunamaanisha vipengele havibagui tena.
+- **"Ugumu wa kipengele ni sifa ya ndani ya kipengele."** Uchunguzi wa sababu uliohariri **maswali 50 ya mtihani kwa kila seti ya data** kuelekea au mbali na dhana uligundua **mabadiliko ya kuongeza ugumu yalipunguza usahihi wa wastani kwa pointi 15.27 na 23.88** kwenye GSM8K na BBH-structured. Ugumu ni uhusiano kati ya kipengele na mfano, na hubadilika kipengele kinapobadilika.
+- **"IRT ni ya kukadiria wanafunzi tu."** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] hutumia **mfano wa Bayesian wa ngazi mbili wa 2PL wenye vipengele vya nanga vya kabla ya mtihani kuweka wanafunzi 1,686**, ambayo ni uhakikisho wa ubora wa tathmini yenyewe badala ya kukadiria mwanafunzi.
 
 ## Dhana Zilizounganishwa
 
@@ -71,7 +80,9 @@ IRT ni msingi wa [[educational-measurement]] na [[assessment-validity]], inaweka
 - [[intelligent-tutoring]]
 
 ## Makala Zilizounganishwa
+- [[unified-irt-framework-question-tutoring-dialogue-2026]] — Fremu ya Pamoja ya Majibu kwa Maswali na Mazungumzo ya Ufundishaji
 - [[explaining-question-difficulty-natural-language-2026]] — Kueleza ugumu wa swali la LLM katika lugha ya kawaida kupitia IRT na mabadiliko ya sababu (Cui et al. 2026)
+- [[llm-benchmark-secondary-science-topics-2026]] — Kipimo cha msingi kinacholingana na viwango kinaweza kujaa
 - [[item-writing-flaws-irt-difficulty-2026]] — Athari ya vipungufu vya uandishi wa kipengele kwa ugumu na ubaguzi wa IRT (Schmucker & Moore 2026)
 - [[causal-modeling-competency-assessment-2026]] — Uundaji wa Mifano ya Sababu wa Uingiliaji wa Msaada kwa Tathmini ya Uwezo wa Mwanafunzi
 - [[assessment-latent-structure-human-llm-2026]] — Vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)

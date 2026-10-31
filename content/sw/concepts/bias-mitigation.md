@@ -10,7 +10,7 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,10 @@ ai_assist:
 ## Utangulizi
 
 Kupunguza upendeleo ni muhimu kwa sababu [[ai-education|AI katika elimu]] si ya neutral: mifumo iliyofunzwa kwa data ya lugha na utamaduni inayotawala inaweza kuwahatarisha wanafunzi waliotengwa kwa njia ya mfumo, kuanzia utiaji alama unaotegemea AI unaoadhibu waandishi wasio wa asili hadi [[llm|makufunzi wa LLM]] wanaojibu kwa njia tofauti kwa vikundi tofauti. Upendeleo ni wasiwali unaopita nyanja nyingi unaoonekana katika [[automated-assessment|Kupanga Alama kwa Kiotomatiki]], [[automated-essay-scoring]], [[knowledge-tracing]], mifumo ya mapendekezo, na [[conversational-ai|makufunzi wa mazungumzo wa AI]].
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst na wenzake (2026)]] wanaonyesha kuwa kupunguza upendeleo kunaweza kufundishwa badala ya kuundwa tu: vijana waliohimizwa kuchunguza matokeo ya modeli ya maandishi-hadi-picha walizalisha tathmini za utaratibu za uwakilishi, na maombi yao ya picha za watu yalielekea weupe kabla ya uingiliaji.
+
+Haki ni kipimo kinachochunguzwa kwa uchache zaidi katika fasihi ya utiaji alama wa AI dhidi ya binadamu: kati ya masomo kumi na mawili yaliyopitiwa, kumi hayakuzungumzia upendeleo wa idadi ya watu, wa lugha au wa kijamii, na jinsia lilikuwa kipimo pekee kilichojaribiwa ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu na Abdi, 2026]]).
 
 ## Vyanzo vya upendeleo
 
@@ -91,6 +95,12 @@ Kupunguza upendeleo ni mbinu ya kiufundi ambayo [[equity-in-ai-education|Usawa]]
 - **Tenganisha uelewa kutoka lugha katika utiaji alama:** utiaji alama wa kiotomatiki haupaswi kuwaadhibu waandishi wasio wa asili au wasio na ufasaha kwa uelewa wa dhana wanaouonyesha.
 - **Fanya mifumo kuwa ya uwazi:** uwazi katika maamuzi ya AI ni muhimu kwa kugundua na kurekebisha upendeleo.
 - **Unganisha mbinu za kiufundi na za binadamu:** unganisha algoriti za kupunguza upendeleo na usimamizi wa binadamu-ndani-ya-mzunguko, hasa kwa hali za matokeo makubwa au za uaminifu wa chini.
+
+## Dhana Potofu za Kawaida
+
+- **"Upendeleo ni tatizo la utiaji alama na maoni."** Upendeleo unaingia **katika madaraja ya kazi nje ya utiaji alama**: LLM tatu zilizoweka madarasa ya uhandisi wa programu ya wanafunzi 28 katika timu nne zilipanga wanaume angalau 80% mara chache zaidi kuliko usambazaji wa marejeleo. Uundaji wa timu ulibeba upendeleo kwa ukubwa unaolingana na utiaji alama.
+- **"Kutoa ujuzi husika kunaondoa upendeleo."** Kutoa ujuzi **kulipunguza lakini hakukuondoa**: **99.2% ya majukumu yaliyotegemea ujuzi yalilingana na mojawapo ya timu mbili za ukweli wa msingi, hata hivyo jinsia bado iliamua kati ya chaguo halali sawa (OR 2.53)**. Ulinganishaji wa kazi karibu kamili uliambatana na athari ya kijinsia, hivyo usahihi katika kigezo cha msingi si ushahidi wa haki.
+- **"Mbinu moja ya kupunguza inatosha."** Utafiti unaonyesha **mikakati inayokamilishana**, ikiwemo uundaji wa mifano unaozingatia haki, kwa sababu upendeleo unaoingia wakati wa uundaji haushughulikiwi na marekebisho yanayolenga maandishi ya matokeo.
 
 ## Dhana Zilizounganishwa
 - [[differential-effects-across-learner-groups]]

@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -64,6 +64,8 @@ Utayari unapaswa kupangwa na kupimwa kwa kulingana: Mfano wa Uwezo–Uamuzi unaw
 **Utayari wa kihisia na wa maadili ni kipimo tofauti.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] alichunguza wafanyakazi wa kitaaluma wa chuo kikuu ([[higher-ed|chuo kikuu]]) nchini Malta (watahiniwa 109) na akajenga Kielelezo cha Hatia ya AI (α = 0.88) kutoka vitu vinne vya hisia za maadili, na kugundua kuwa hatia *ya kutabiri* ilizidi majuto yaliyohisiwa baada ya matumizi: ukubalisho mkubwa zaidi ulikuwa wasiwasi kuwa matumizi ya AI yanadhofu uaminifu wa mtu (34.9% wakikubali), kisha kujisikia kama mtu anadanganya ([[academic-integrity|anadanganya]]) anapotumia (25.7%), wakati majuto ya baada ya matumizi yalipata 9.2% tu. Matokeo yanayomuhimu kwa mifumo ya uwezo ni kuwa wasiotumia waliripoti hatia *kubwa zaidi* kuliko watumiaji (M = 3.25 dhidi ya M = 2.32) na kuwa hatia ilipungua kadiri ustawi wa kazi ulivyopanda — wataalam wa mapema waliripoti zaidi (M = 2.71) na wataalam wa juu waliripoti kidogo (M = 2.03). Utayari wa kihisia kwa hivyo haunakamatwi na vipimo vya ujuzi au ujasiri, na karatasi inadai kuwa mifumo ya uwezo inapaswa kuchukua hatia na wasiwasi wa utambulisho kama majibu ya kawaida ya mpito badala ya makosa ya kusahihisha.
 
 Toleo laini zaidi la uwekaji upya hilo linaishia kuwa GenAI ni dhana ya kizingiti badala ya pengo la ujuzi: kisaikolojia binafsi inadai kuwa [[anxiety-and-stress|hofu]] na upinzani wa wataalam ni sehemu ya kuvuka kizingiti, kwa hivyo mafunzo yanayotegemea ujuzi yanashindwa na kutotumia kwa kanuni kunapaswa kuheshimiwa badala ya kusahihishwa ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
+
+- **Uwakilishi wa kuona ni kipimo chake chenye kupimika.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen na wenzake (2026)]] walithibitisha kipimo cha vipimo vitano cha kuzalisha, kuhukumu na kutenda kwa uwakilishi wa kuona kwa walimu 566 katika majimbo matano ya magharibi ya China, na alpha ya vijipimo kuanzia 0.911 hadi 0.934; kinapima uwezo ulioripotiwa, bila jaribio la kurudiwa na bila uchunguzi wa mazoezi.
 
 ## Pengo la uwezo
 
@@ -219,3 +221,4 @@ Mazingira ya vyombo yenyewe yamekaguliwa tangu hapo. [[assessing-teachers-ai-lit
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Wasifu wanne wa imani za walimu wa TALIS 2024 wanaunganisha mafunzo ya kitaalamu na vikwazo maalum vya wasifu kwa matumizi ya AI
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Kubuni Moduli za Microlearning kuhusu AI kwa Walimu wa Chuo katika Elimu ya Walimu ya Mafao: Utafiti wa Ubini unaotegemea Utafiti
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Jinsi chatbot zilizowekwa na walimu zinavyoshindwa katika matumizi halisi ya ulimwengu na jinsi ya kuzirekebisha
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — Uendelezaji na uthibitishaji wa kipimo cha uwezo wa kufundisha kwa uwakilishi wa kuona unaosaidiwa na AI

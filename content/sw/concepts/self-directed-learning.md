@@ -9,7 +9,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,33 @@ Kwa sababu SDL inasisitiza mwelekeo unaoanzishwa na mwanafunzi, uingiliaji wa ku
 ## Utafiti wa Ngazi za Msaada za Utoaji wa AI katika Kujifunza Kulingana na Utafiti
 
 - **Utoaji wa AI kama ngazi za msaada kwa kujifunza kulingana na utafiti.** An na wenzake (2026) wanabuni mfumo wa utoaji wa taarifa unaotumia AI ambao hubadilisha machapisho ya utafiti kuwa seti za data zilizopangwa, zenye ufuatiliaji ili kuunga mkono ukamilishaji wa tasnifu ya shahada ya kwanza katika [[stem-education|STEM]], na kuwekwa kama **ngazi za msaada za maarifa** zinazoruhusu ukaguzi wa uhusiano kati ya ushahidi na madai huku zikipunguza mahitaji ya kiwango cha chini ya kushughulikia data. Katika jaribio la [[mixed-methods-research|mbinu mchanganyiko]] la wanafunzi 20 kwenye nyaraka 80, wanafunzi walitoa zaidi ya 90% ya vigezo vilivyolengwa, muda wa mapitio ya fasihi walioripotiwa wenyewe ulipungua kwa ~65%, na uwezo wao wa kutambua vigezo vya kuathiri uliongezeka kwa 50% — jambo linalounga mkono wazo kwamba [[generative-ai|AI]] inaweza kusawazisha upya mzigo wa kiakili kuelekea ufikiri wa utafiti wa kiwango cha juu, wa kujiongoza mwenyewe, badala ya muhtasari wa kawaida.
+
+## Dhana Potofu za Kawaida
+
+**"Kujifunza kwa kujiongoza mwenyewe na kujifunza kwa kujidhibiti ni dhana moja."** Hufanya kazi kwa mizani ya muda tofauti: SRL inahusu udhibiti wa kujifunza wa wakati huo, wakati SDL inahusu uwajibikaji mpana kwa wakati, kuchagua cha kujifunza, kuweka lengo, na kushikilia mwelekeo kwa miezi. Uingiliaji unaoboresha udhibiti wa dakika kwa dakika hauhitaji kuzalisha mwanafunzi anayejiongoza, na mwanafunzi anaweza kujiongoza katika programu nzima wakati akidhibiti vibaya ndani ya kipindi.
+
+**"AI inafanya kujifunza kwa kujiongoza kuwa rahisi kwa kuwa inatoa muundo."** Inaweza kuondoa mazoezi ya ujuzi huo. [[genai-thoughtless-use-self-directed-learning-2026|Zhao na Gu (2026)]] wanaonyesha kuwa **matumizi ya GenAI bila kufikiri, kupokea matokeo bila tathmini mahususi, hudhoofisha SDL kwa umuhimu**. Kuelekeza kujifunza kwa mtu mwenyewe hufanywa kwa kufanya maamuzi ambayo GenAI inaweza sasa kufanya kwa ajili yake, hivyo msaidizi anayetoa mwelekeo kila wakati hutoa mwelekeo badala ya uwezo.
+
+**"Kutotumia AI kunaonyesha ukosefu wa upatikanaji."** Miongoni mwa wanafunzi wasiotumia, sababu inayotajwa mara nyingi ni chaguo chanya la kielimu, kutaka kufanya kazi wenyewe, badala ya kikwazo. Kusoma kutotumia kama upungufu kunafafanua vibaya msimamo ambao, katika ushahidi wa [[student-experience]], ni wenye hoja.
+
+**"Kujiongoza kunamaanisha kufanya kazi peke yako."** Kunamaanisha kumiliki mwelekeo, ambao unaweza kufanywa katika mazingira yenye msaada mkubwa. Sifa inayotofautisha ni nani anayeweka na kurekebisha lengo, si iwapo msaada unapatikana.
+
+## Athari kwa mazoezi
+
+**Kwa wakufunzi**
+
+- Tofautisha unachokiendeleza: udhibiti wa ndani ya kipindi au umiliki wa kwa wakati. Vinahitaji miundo tofauti, na kuboresha kimoja hakuzalishi kingine.
+- Linda maamuzi yanayounda kujiongoza, kama vile cha kujifunza, jinsi ya kuhukumu maendeleo, na wakati wa kubadilisha mwelekeo, hata pale AI inaweza kuyafanya. Kuyakabidhi kunaondoa mazoezi.
+- Fundisha tathmini pamoja na matumizi, kwa kuwa kupokea matokeo bila kufikiri ndio utaratibu uliorekodiwa ambao GenAI hudhoofisha SDL.
+
+**Kwa watengenezaji**
+
+- Fanya maamuzi ya mwanafunzi yaonekane na yaweze kurekebishwa badala ya kuyaweka kwa chaguo-msingi. Mfumo unaotoa mwelekeo kila wakati hutoa mwelekeo badala ya uwezo unaoendelezwa.
+- Jenga vituo vya kutafakari ambapo mwanafunzi anataja lengo lake na ushahidi wake, ili mwelekeo ubaki wake.
+
+**Kwa watafiti**
+
+- Ripoti ni dhana ipi uingiliaji ulilenga; matokeo ya SDL na SRL hayapaswi kutumika kama visawe.
 
 ## Dhana Zilizounganishwa
 

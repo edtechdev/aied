@@ -9,7 +9,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-09-19T05:10:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 ## Utangulizi
 
 Uendelevu katika AIED unahusisha mifumo mitatu inayojirudia: **elimu endelevu** (mradi wa kieledu unaozingatia thamani na binadamu), **uendelevu katika elimu** (kutumia elimu kama chombo cha uendelevu), na **elimu kwa maendeleo endelevu** (ESD, mpango wa sera ya kimataifa, hasa [[k-12|Lengo la Maendeleo Endelevu 4]]). AI inaingia katika kila moja ya hizi kwa njia tofauti — na uwanja unatofautisha njia mbili kuu: **AI kwa uendelevu** (AI kama zana ya kufikia matokeo ya uendelevu) na **AI endelevu** (kupunguza athari za mazingira na maadili za AI yenyewe).
+
+Njia ya mazingira ina pengo lililoandikwa: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] wanaripoti kwamba athari za kimazingira za genAI hazikujadiliwa katika nyaraka za sera za chuo kikuu katika eneo la utafiti, na wanadai kwamba mwongozo wa kitaasisi unaoziacha bila kuzungumziwa unashindwa kushughulikia wasiwasi ambao walimu na wanafunzi wanayo.
 
 ## Taksonomia ya sehemu mbili
 
@@ -66,6 +68,12 @@ Mwelekeo unaohusiana unaweka uendelevu sio tu kama wasiwasi wa mazingira au wa t
 
 Uendelevu na AI katika elimu inapatikana katika muunganiko wa [[ethics]], [[governance]], [[ai-education]], na sayansi za mazingira/nishati. Inategemea [[teacher-education]] na [[teacher-role]] kwa ujenzi wa uwezo, [[learning-design]] kwa kieledu, na inaungana na matibabu ya hifadhi ya maarifa ya [[cognitive-offloading]] na [[critical-thinking]] kupitia lenzi ya "kujifunza endelevu". Kwa sababu njia zote mbili ni za pana-kila, uendelevu ni mada ya msingi inayoonekana katika [[higher-ed|elimu ya juu]], K-12, na miktadha ya kitaalamu.
 
+## Dhana Potofu za Kawaida
+
+- **"Maarifa ya AI ya dhulma yanatabiri uwezo wa walimu kufundisha uendelevu."** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] aligundua kwamba **matumizi ya vitendo ya AI** ya walimu katika miktadha ya sayansi na nishati ya kijani na **ushiriki wao katika kuendeleza nyenzo zilizolingana na ESD**, **zaidi ya maarifa ya AI ya dhulma au mitazamo**, yalitabiri uwezo wao. Kujua kuhusu AI na kuweza kujenga nayo vilitofautiana, na njia ya vitendo ilitabiri zaidi.
+- **"Ubuni wa mafunzo unaosaidiwa na AI chini ya pedagogia ya uendelevu unazalisha pedagogia ya uendelevu."** Kazi hiyo hiyo iligundua kwamba [[learning-design|ubuni wa mafunzo]] unaosaidiwa na AI chini ya Pedagogia ya Maendeleo Endelevu **ulibana** ubuni kwa njia maalum badala ya kuupanua. Mfano uliofunzwa kwa nyenzo za kawaida unazalisha miundo ya kawaida isipokuwa kazi ya ubuni iurekebishe.
+- **"Uendelevu ni mada, si mandhari inayopita kila kitu."** Kwa sababu njia zote mbili zinapita viwango vyote, uendelevu unaonekana katika [[higher-ed|elimu ya juu]], K-12 na miktadha ya kitaalamu, ambayo inamaanisha kwamba ni mada ya msingi inayopaswa kushughulikiwa ndani ya kila taaluma badala ya kufundishwa kama somo tofauti.
+
 ## Dhana Zilizounganishwa
 
 - [[ethics]]
@@ -84,6 +92,7 @@ Uendelevu na AI katika elimu inapatikana katika muunganiko wa [[ethics]], [[gove
 
 ## Makala Zilizounganishwa
 
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Utafiti wa uchunguzi na vikundi lengwa wa Uswidi unaodai kwamba maadili ya ushirikiano, si fremu ya udanganyifu, yanapaswa kuongoza maamuzi ya kitaasisi kuhusu genAI
 - [[daniel-ai-sustainability-scoping-review-2026]] — Mapitio ya upeo ya AI kwa uendelevu na AI endelevu katika elimu ya juu
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Mbinu ya ukosoaji wa thamani kwa elimu endelevu na AI
 - [[liu-ai-sustainable-engineering-education-2026]] — Mfumo wa AI-SEE kwa elimu ya uhandisi endelevu

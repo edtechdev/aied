@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,16 @@ Waandishi wenyewe wa mfumo wanatoa taksonomia ya majukumu kwa hali hiyo: [[ai-co
 - Uhusiano kati ya ushiriki wa GenAI na ubora wa uchunguzi **unategemea uwajibikisho wa binadamu**, si wa mstari: uwepo mkubwa unaweza kutokea na ushiriki mkubwa au mdogo wa GenAI wakati uwajibikisho ni mkubwa, na uwepo dhaifu na mmoja wowote wakati uwajibikisho ni dhaifu.
 - [[assessment]] ya uchunguzi inapaswa kubadilika kutoka matokeo ya mwisho yaliyoboreshwa hadi **ushahidi unaoonyesha mchakato** — [[prompt-engineering|kutoa ilani]] na alama za marekebisho, mazoezi ya kufichua na kuhusisha, hatua za uthibitishaji, na kumbukumbu za mwingiliano. Hii inalingana na mwendo mpana zaidi wa hifadhi ya maarifa kuelekea [[authentic-assessment|halisi]], [[process-oriented-assessment|inayoonyesha mchakato]] tathmini na mbali na mwitiko unaotegemea kugundua.
 - Kwa mbinu za kufundisha, wanaojifunza mara nyingi wanahitaji mafunzo ya wazi (mfano, mazoezi ya [[simulation|kulingana na mfano]] yenye majukumu yaliyoandikwa na pointi za maamuzi ya GenAI) ili kudumisha uchunguzi halisi chini ya hali za GenAI — na waongozaji wanapaswa kuonyesha jinsi ya kuhoji matokeo yaliyozalishwa, ambayo inategemea kujenga [[ai-literacy]], [[critical-thinking|utathmini mahususi]], na [[trust-calibration|uaminifu]] uliorekebishwa.
+
+## Dhana Potofu za Kawaida
+
+**"Uwepo wa kufundisha ni sifa ya binadamu."** Katika enzi ya AI inayozalisha mfumo unadhaniwa upya kwa sababu mazungumzo yanayozalishwa na mashine yanaweza kuiga uwepo halisi, hivyo uwepo hueleweka vyema kama mafanikio ya kiufundi-kijamii ya miungano ya binadamu na GenAI badala ya shughuli ya kibinadamu pekee. Kozi inaweza kuripoti uwepo wa kufundisha wa juu huku mwalimu akiwa hayupo kwa kiasi kikubwa na mfano ukifanya mazungumzo.
+
+**"Maelezo ya AI yenye mwendelezo huunda uwepo wa kiakili."** Mwendelezo si usahihi, na ndio sifa hasa inayofanya uchunguzi wa kutafakari kuwa mgumu kuendelezwa: mwanafunzi anayehisi maelezo ni sahihi kwa wazi amepewa nafasi ndogo ya kutatua tukio la kichocheo. Uwepo wa kiakili unahitaji kutatuliwa kwa shaka, si kuondolewa kwake.
+
+**"Uwepo umegawanywa kwa usawa katika kundi."** Unatofautiana *ndani* ya hali badala ya kati ya hali. Katika jaribio la nusu la kielelezo na **wanafunzi 63 wa Kichina wa shahada ya kwanza (33 na chatbot ya GPT-4o mini, 30 bila)**, wakichambua usomaji unaoshirikiwa katika kazi tano za kila wiki, uwepo ulitofautiana kwa mafanikio ya kundi: makundi yenye mafanikio ya juu yalianzisha **maombi 1407 ya maoni kati ya alama 2319 (60.7%)** dhidi ya **737 kati ya 2167 (34.0%)** katika makundi yenye mafanikio ya chini. Upatikanaji wa zana ile ile ulizalisha upya pengo lililopo katika tabia ya kijamii ambayo mfumo hupima.
+
+**"Kuongeza chatbot kwenye kozi ya mtandaoni huongeza uwepo."** Hubadilisha mchanganyiko. Thamani ya mfumo chini ya GenAI ni kwamba hufanya ubadilishaji uonekane: uwepo unaokidhiwa na mfano ni usanidi tofauti wa muundo ule ule, na data ya kundi inaonyesha ubadilishaji ukilipa kwa njia isiyo sawa.
 
 ## Dhana Zilizounganishwa
 - [[online-teaching-and-learning]]

@@ -11,7 +11,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,16 @@ Mistari miwili zaidi inaweka mipaka ya nafasi. [[pearls-epistemic-verification-2
 - **Buni kwa njia tofauti za kujifunza.** Kwa vikundi vilivyo takribani sawa vinavyopendelea AI, wakala wa makazi ya vitabu, au yote mawili, kuelekeza mashauriano kwa somo na mzigo kulipata 312 kati yao kwa 10.4 kwa kila mshiriki; njia moja iliyoamriwa itahudumia wanafunzi wengine kwa kiwango kidogo.
 - **Fanya uhakika na vyanzo viwonekane.** Mkondo wa warsha wa utafutaji-kama-kujifunza unauliza ni michakato gani ya kiakili isipaswi kuhamishwa na unaitia kiolesura kinachohifadhi hatua za uamuzi — [[scaffolding|ngazi za msaada]] ambazo wakala wa makazi ya vitabu wanaweza kubainisha kutoka kiwango chao cha kawaida cha kazi cha kuonekana kwa vyanzo.
 - **Weka bajeti ya tabaka la binadamu, si mfano tu.** Mashauriano yalijibiwa katika masaa, kwa kiwango kikubwa, kwa sababu wafanyakazi walielekezwa kwa makusudi; kudhani wanafunzi watashughulikia uamuzi wa kuaminika peke yao kuhamisha gharama hiyo kwa watu walio na uwezo mdogo zaidi wa kulipia.
+
+## Dhana Potofu za Kawaida
+
+**"Wakala wa makazi ya vitabu ni pembezoni mwa AI katika elimu."** Wana jukumu maalum linaloweza kupimwa, na mkusanyiko wa maandishi unalipima. Katika **mashauriano 312 (10.4 kwa kila mshiriki)**, tathmini na ubora wa vyanzo vilichukua **38.5%**, uundaji wa mikakati ya utafutaji **29.2%**, usimamizi wa nukuu **18.6%**, na urambazaji wa hifadhi **13.7%**, na **73.4% yalijibiwa ndani ya saa sita**. Hiyo si huduma ya pembezoni; ni kazi ya ujuzi wa habari inayobeba mzigo ambao AI haikuweza.
+
+**"Utafutaji wa AI hujibu maswali ambayo wanafunzi walikuwa wakiwaletea wakala wa makazi ya vitabu."** Katika somo la wakala wa makazi ya vitabu aliyeingizwa, **maswali ya tathmini ya vyanzo yalitawala mashauriano (38.5%) hasa katika kesi ambazo AI ilikuwa na uhakika mdogo zaidi**. Kutokuwa na uhakika kwa zana kulielekeza kazi kwa uwezo wa binadamu ambao ungeweza kuutatua, jambo ambalo linafanya mfumo ulioonekana kuwa mgawanyo wa kazi badala ya kuondolewa.
+
+**"Ujuzi wa habari ni kipindi cha kuingizwa cha mara moja."** Ni mafunzo, si msaada: maswali ambayo wanafunzi huja nayo ni matatizo ya tathmini na mkakati, yaani je, chanzo hiki ni cha kuaminika, nitautafutaje huu, ambayo ni ujuzi unaofundishika badala ya miamala ya kukamilisha. Kuchukulia huduma kama msaada hubadilisha mtaala kuwa dawati la msaada na kupoteza uwezo wa kudumu.
+
+**"Nani analipia uthibitishaji ni tatizo la mtu mwingine."** Mzigo wa mashauriano unaangukia wafanyakazi wa maktaba, na swali la karatasi yenyewe ni kama kuomba maktaba kubeba mzigo huo kunazidi idadi yao ya wafanyakazi. Ubini wa pamoja na ushirikiano ni majibu ambayo maandishi yanapendekeza hasa kwa sababu gharama ya uthibitishaji ni halisi na inaangukia kitengo ambacho hakikuweka bajeti kwa ajili yake.
 
 ## Dhana Zilizounganishwa
 

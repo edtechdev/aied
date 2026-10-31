@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -77,10 +77,19 @@ Ilani zilizoandikwa na walimu ni kituo kimoja kama hilo, lakini ukali unaotekele
 
 Kutotumia ni mfumo wa mwingiliano ambao [[pedagogy]] lazima ipange. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], wakichunguza wanafunzi 85 wa [[teacher-education|walimu]] katika kozi tatu ambapo matumizi ya GenAI katika [[assessment]] yaliruhusiwa kwa uwazi, waligundua kuwa 62.4% (53 ya 85) walikataa kuitumia kabisa, chini sana ya kupitishwa kwa 79–83% kunakoonwa katika utafiti wa Uingereza na Australia, na kuwa matumizi ya wanaopitisha yalikuwa ya juu na ya kurekebisha badala ya kuzalisha (kupanga 43.8%, ukaguzi wa uwazi 34.4%, uzalishaji wa maandishi 18.8% tu). Chaguzi zao zilifuatilia ubini wa tathmini na utamaduni wa taasisi badala ya ugumu wa kiufundi: 41.5% ya wasiopitisha waliogopa kushutumiwa vibaya kwa [[academic-integrity|wizi wa kitaaluma]], na tisa kati ya wanahojiwa kumi na moja walisoma sera yenye ruhusa yenyewe kama "mtego" unaowezekana. Pengo kati ya watumiaji 32 waliyoripotiwa na matangazo 28 ya kibinafsi linaonyesha kuwa mwingiliano wa AI *ulioripotiwa* na wanafunzi unaundwa na matokeo yaliyopimwa — onyo la kupima kwa akaunti za uchanganuzi wa kujifunza za mwingiliano wa mwanafunzi na AI.
 
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanarekodi kile mazungumzo ya wazi na AI ya kizalishaji huongeza katika ukaguzi wa rika: wanafunzi waliouliza mfano maswali badala ya kukubali pendekezo lake la kwanza walizalisha maoni ambayo rika walipima kuwa ya juu, na waliripoti furaha zaidi ya kazi na wasiwasi mdogo.
+
 
 ## Nidhamu na Ushiriki wa Kiakili katika Mazungumzo ya Mwanafunzi na AI
 
 - **Ushiriki wa kiakili unaohusiana na nidhamu katika mazungumzo ya mwanafunzi na AI.** Chang na Li (2026) wanachanganua ilani za wanafunzi kwa AI katika kozi 116 na ubini wa ndani ya mtu, kati ya nidhamu, wakionyesha kuwa mazungumzo ya mwanafunzi na AI yanaonyesha ushiriki wa kiakili **unaohusiana na nidhamu** badala ya mitindo ya mwingiliano ya kibinafsi isiyobadilika. Takribani 62% ya ilani zilizosimamba mahitaji ya kiakili ya mpangilio wa juu kwa ujumla, lakini wasifu wa ngazi ya Bloom zilitofautiana kwa mkazo kwa nidhamu: kozi za [[stem-education|STEM]] zilitoa ilani zinazotawala kwa Tekeleza (20.8%), kozi za lugha zilizotawala kwa Elewa (31.7%), na kozi za sayansi ya kijamii zilizotawala kwa Unda (33.8%). Kulinganisha kwa jozi ndani ya mtu kulithibitisha kuwa wanafunzi wale wale walizalisha ilani za mpangilio wa juu zaidi kwa kiwango chenye umuhimu katika sayansi ya kijamii kuliko kozi za STEM (n iliyounganishwa = 16, p < .001), na tofauti ya ngazi ya kozi ilizidi tofauti ya ngazi ya mwanafunzi — hoja nzuri kwamba wasaidizi wa kufundisha wa AI wanapaswa kubuniwa na kutathminiwa kwa muktadha wa nidhamu akilini.
+- **Kiasi cha matumizi ya AI hakutabiri jinsi wanafunzi walivyohisi kuhusu hiyo.** Miongoni mwa wanafunzi 819, jinsia, utaalamu wa AI uliojipima na mara ya matumizi yote yalishindwa kufikia umuhimu katika MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). Watumiaji wazito na wepesi katika sampuli hiyo walikuwa na mitazamo ile ile ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
+
+## Dhana Potofu za Kawaida
+
+- **"Uainishaji wa mwingiliano umeamuliwa."** **Kote ya uainishaji 46 kutoka masudio 33, lebo zinazofanana hutaja matukio tofauti**, ambayo ndiyo sababu mapitio yanapendekeza *kipindi cha mwingiliano* kama kipimo. Mpango wa kusimba ulioazimwa kutoka uainishaji mmoja unaweza kuwa unapima dhana tofauti.
+- **"Wanafunzi hutumia AI kama mfunzi."** Miongoni mwa **wanafunzi 38 wa shahada ya kwanza** waliokamilisha insha za hoja bila usimamizi, **76.32% walitumia muundo wa zamu moja wa kuuliza-kupata jibu-kusimama**, kwa kawaida wakibandika kichwa cha tathmini. Muundo tawala ni urejeshaji wa zamu moja, ambao si ufundishaji.
+- **"Matumizi zaidi ya AI yanaonyesha ushiriki zaidi na maudhui."** Uchanganuzi wa **vikao 200 vya mazungumzo ya upangaji programu ya pamoja** uligundua **78.8% ya mwingiliano wa mwanafunzi na GenAI uliendeshwa kwa malengo na mikakati isiyo ya umahiri**. Kiasi cha mwingiliano kilipima kitu kingine zaidi ya mwelekeo wa kujifunza, kwa hivyo hesabu za vikao ni kipimo cha ushiriki kinachopotosha.
 
 ## Dhana Zilizounganishwa
 - [[learners]] — Wanafunzi: bega la dhana za upande wa mwanafunzi
@@ -97,6 +106,7 @@ Kutotumia ni mfumo wa mwingiliano ambao [[pedagogy]] lazima ipange. [[zou-is-thi
 - [[ai-literacy]]
 
 ## Makala Zilizounganishwa
+- [[ai-chatbots-emotional-support-human-connection-2025]] — Mara ya matumizi na utaalamu uliojipima haukutabiri chochote kwa wanafunzi 819
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Cognitive outsourcing vs. reallocation in unsupervised student–GenAI assessments (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — “Is this a trap?”: student teachers’ non-adoption of GenAI in assessments (Zou et al. 2026)
 - [[tutortrace-learner-behavioral-states-2026]]

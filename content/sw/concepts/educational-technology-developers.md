@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-09-17T15:20:00-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -60,11 +60,34 @@ Wadhifa pia unatofautiana na majirani zake. [[learning-design]] na [[curriculum-
 
 **Maelezo yanapaswa kuzungumza lugha ya mwalimu.** [[xai-teachers-trust-edtech-recommendations-2026]] ilifanya jaribio la ndani-ya-mtu na walimu 41 wa kemia kwenye zana ya mapendekezo ya ML: ueleweka, [[trust]] na kupitisha vilihusiana kwa njia chanya, na maelezo yanayoendeshwa na mada katika lugha ya mitaala yalizalisha ueleweka juu zaidi, [[trust-calibration|uaminifu]] uliojifunzwa na kupitisha kuliko maelezo ya umuhimu wa vipengele. Uaminifu pia ulikuwa unaobadilika — walimu kadhaa walisema uzoefu wa darasa tu ungeutatua — na kupitisha kulitegemea kulingana kwa mbinu za kufundisha na kupunguza kazi.
 
+**Ishara za uaminifu si ushahidi wa usahihi.** Kuongeza nukuu na ishara za mamlaka kwenye mjadala wa [[agentic-ai|mawakala wengi]] kuliongeza kuachana na hukumu sahihi kwa ajili ya msimamo wa AI kutoka 15.0% hadi 31.8%, kwa hivyo asili inapaswa kuwa inayoweza kuthibitishwa mahali pa matumizi ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
 **Kubuni pamoja katika kiwango cha taasisi.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] katika Open University ilijengwa kupitia masudio sita ya ubuni katika miezi 18 na wanafunzi 498 na wafanyakazi 20. Karibu 20% mwanzoni walikuwa na shaka; baada ya matumizi ya mikono 96% walitaka ibakishwe, na RCT ya uchunguzi iligundua muda wa matumizi mara mbili lakini hakuna tofauti zenye maana katika data ya michakato ya kujifunza. Vigezo vinavyowezesha vilikuwa vya shirika — uongozi wa juu, ushirikiano wa vitengo mbalimbali, mazoezio yanayoendeshwa na data — pamoja na mapengo katika uwezo wa mawazo ya mifumo.
 
 ### Ununuzi, uwazi na baada ya fedha kumalizika
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] inatoa ingizo ambazo uamuzi wa ununuzi unahitaji: sakafu ya vifaa ya VRAM ya GB 12, kizingiti cha usahihi kwa mfano wa darasa la 7B, nishati kwa kila swali, na mpangilio wa chaguo — urejeshaji kwanza (bila huo mfano ulipata 52.3%, chini ya msingi wa TF-IDF), kisha mafunzo ya kina, kisha compression inayozingatia quantization; leseni wazi ni sharti la kutoa corpus eneo la kati. [[reclaiming-epistemic-agency-co-agency-2026]] inaweka uamuzi ule ule kama utawala: mahitaji ya uwazi yanageukia ununuzi kuwa utawala wa maarifa, kupigania na uasili vinaisha masharti, na wilaya zenye uwezo mdogo zaidi zinakabili kizingiti cha juu. [[credential-cognitive-stewardship-ai-assessment]] inaongeza kuwa utawala wa wauzaji ulionekana katika 29% tu ya vifurushi 30 vya sera yaliyokaguliwa, ambavyo vilibainisha kile AI inaweza kufanya kwa urahisi zaidi ya kile ushahidi wa kujifunza uliobaki. [[genai-mindtool-generative-learning]] inaweka swali la ubuni — je, bidhaa inahimiza kujifunza *na* zana au kupunguza kazi ya kiakili — na [[vocabulary-difficulty-prediction]] inaonyesha biashara kwa kiwango kidogo: mfano wa juu wa sanduku jeusi (r > 0.91) ulikuwa wa kutafsirika kidogo zaidi ya ule wa kutafsirika (r > 0.77).
+
+## Dhana Potofu za Kawaida
+
+- **"Meta-analysis zinaunga mkono dai la bidhaa."** Haziungi, na sababu ni maalum badala ya suala la kiwango. Ukaguzi wa **meta-analysis 14** zinazodai AI inaboresha elimu uligundua **hakuna iliyohalalisha madai yake**, zote isipokuwa mbili zilishindwa kwa mbinu, na **meta-analysis iliyoondolewa bado ilitajwa kama yenye mamlaka na 60% ya makala za baadaye zilizosampuliwa**. Kuondolewa kulienea kwa kasi zaidi kuliko marekebisho, ambayo inamaanisha maandishi ambayo ramani ya njia ina uwezekano wa kutaja yana madai ambayo uwanja umekwisha yaondoa.
+- **"Kuongeza nukuu na asili kunafanya mfumo uwe wa kuaminika zaidi."** Katika mazingira ya mjadala wa [[agentic-ai|mawakala wengi]], kuongeza nukuu na ishara za mamlaka kwenye msimamo wa AI **kuliongeza kuachana na hukumu sahihi kutoka 15.0% hadi 31.8%**. Asili haikuwa taarifa isiyoegemea upande: ilifanya jibu lisilo sahihi kuwa la kushawishi zaidi. Ishara za uaminifu zinapaswa kuwa ushahidi wa usahihi, si mapambo kuzunguka dai.
+- **"Ubuni wa pamoja na watumiaji unathibitisha ubuni."** Ubuni wa pamoja unajibu swali tofauti na ufanisi. Zana inapobuniwa pamoja na wanafunzi na **96% wanasema wanataka ibaki**, hilo ni ugunduzi kuhusu kukubalika. Kama kujifunza kuliboreshwa ni kipimo tofauti, na vyote viwili vinaweza kuelekeza pande tofauti bila kimoja kuwa kosa.
+- **"Mawakala ni kiwango kijacho cha uwezo."** Upunguzaji wa [[instructional-agents-multi-agent-course-gen|Instructional Agents]] ni mfano kinyume unaofaa: msingi wa wakala mmoja ulipata alama **mbaya zaidi** na usanidi wa Full Co-Pilot **ulishinda** ule wa Autonomous. Uhuru zaidi haukuwa ubuni bora; mpangilio wa co-pilot ulikuwa. Uchaguzi wa usanifu unapaswa kupimwa badala ya kudhaniwa kuwa unaboreka pamoja na uwezo.
+
+## Maana kwa Mazoezi
+
+**Kwa wasanidi na wabunifu**
+
+- Weka dai la ubuni kwenye somo ulilosoma, si ukubwa wa athari ulionukuu. Kwa kuwa meta-analysis 14 zilizokaguliwa zilishindwa kwa mbinu na moja iliyoondolewa bado inaenea, idadi ya nukuu si ishara ya uhalali.
+- Pima uhuru kama kigezo badala ya kuutoa kama uboreshaji. Endesha upunguzaji: wakala mmoja, co-pilot, autonomous. Tokeo la Instructional Agents lilionyesha usanidi wa co-pilot ukishinda, kwa hivyo chaguo la kwanza linapaswa kuwa lile lililopimwa vizuri zaidi, si lile linalosikika kuwa na uwezo zaidi.
+- Tofautisha kukubalika na ufanisi katika mpango wako wa tathmini. Idadi kubwa ya utayari wa kuendelea kutumia ni ugunduzi halisi na si ushahidi wa kujifunza, na kuzichanganya katika ripoti ndiyo njia ambayo bidhaa dhaifu huonekana imara.
+- Chukulia ishara za uaminifu kama uingiliaji wenye athari iliyopimwa. Kuongeza nukuu kulihamisha kuachana na jibu sahihi kutoka 15.0% hadi 31.8%, kwa hivyo kuonyesha asili hubadilisha hukumu ya mtumiaji; buni kwa ajili ya hilo badala ya kudhani inatoa taarifa.
+
+**Kwa wakufunzi wanaotathmini zana**
+
+- Uliza jinsi zana ilipimwa kwenye kazi unayokusudia kuitumia, na kama tathmini ilikuwa ya co-pilot au autonomous. Vyote viwili havibadilishani.
+- Uliza tathmini ilifanyika lini. Madai ya uwezo yanayohusishwa na toleo la mfano lisilotajwa huzeeka haraka na kueleza mfumo ambao hutakuwa unaendesha.
 
 ## Dhana Zilizounganishwa
 
@@ -106,3 +129,4 @@ Wadhifa pia unatofautiana na majirani zake. [[learning-design]] na [[curriculum-
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Ishara za uaminifu ziliongeza utiifu kwa ushauri usio sahihi wa AI; thibitisha asili mahali pa matumizi

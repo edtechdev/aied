@@ -9,7 +9,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -74,6 +74,14 @@ Nadharia ya shughuli iko ndani ya familia ya [[sociocultural-learning|kijamii-ki
 ### Athari za vitendo
 
 Kwa wabuni na waelimishaji, nadharia ya shughuli inashauri kutazama zaidi ya zana ya AI yenyewe hadi mfumo mzima wa shughuli ambao unaingia: kanuni zinazosimamia matumizi yanayokubalika, jamii na viwango vyake, mgawanyo wa kazi kati ya binadamu na mashine, na lengo/kusudi la shughuli. Ujumuishaji wa AI unaodumu unahitaji *kubuni upya mfumo* — kushughulikia migongano, kusasisha viwango, na kusawazisha upya majukumu — si tu kutoa zana bora zaidi au mafunzo ya mtu binafsi. Kwa watafiti, nadharia ya shughuli inatoa kitengo madhubuti cha uchanganuzi (mfumo wa shughuli, si mtu binafsi) na mbinu (uingiliaji wa [[formative-assessment|umma]], uchanganuzi wa mgongano) kwa kujifunza na kuunda jukumu la AI katika elimu.
+
+## Dhana Potofu za Kawaida
+
+**"Kukubaliwa kwa AI na mwalimu ni swali la mtazamo wa mtu binafsi."** Nadharia ya shughuli inabadilisha hilo kuwa sifa ya mfumo wote wa shughuli, yaani mhusika, zana, kanuni, jamii na mgawanyo wa kazi, kwa hivyo upinzani mara nyingi ni jibu la busara kwa mfumo ambao haujabadilika. Mwalimu anayekataa chombo kinachoongeza kazi, kinachogawanya umakini wake vibaya, au kinachopingana na kanuni za idara anasoma mfumo kwa usahihi; dodoso za mtazamo zitarekodi hilo kama mwelekeo na kukosa sababu.
+
+**"Ukibadilisha imani za mwalimu, mazoezi yatafuata."** Kipimo cha mabadiliko ni kikubwa kuliko mtu. Uingiliaji unaobadilisha kanuni, mgawanyo wa mzigo wa kazi na kanuni za pamoja hubadilisha mazoezi kwa uhakika zaidi kuliko ule unaolenga imani ya mtu binafsi, kwa sababu kitu cha shughuli huzalishwa kwa pamoja. Hii pia inaeleza kwa nini wapitishaji wenye shauku ya mtu binafsi hurudi nyuma pale idara yao haisogei pamoja nao.
+
+**"Nadharia ya shughuli ni lenzi ya kuelezea isiyo na matokeo ya kubuni."** Inaelekeza ubuni kwenye migongano kati ya vipengele vya mfumo, yaani chombo kinachopingana na kanuni, mgawanyo wa kazi unaopingana na kitu, ambapo mabadiliko hufanywa kweli. Lenzi inayobaini migongano inakupa mahali pa kuingilia, si msamiati peke yake.
 
 ## Dhana Zilizounganishwa
 

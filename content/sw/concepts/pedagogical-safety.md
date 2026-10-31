@@ -10,7 +10,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 ## Utangulizi
 
 Usalama wa kawaida wa [[llm]] — vichujio vya sumu, upinzani wa jailbreak, na kukataa maudhui — ni ya lazima lakini haitoshi kwa elimu. [[hazra-safetutors-pedagogical-safety-2026|Taksonomia za madhara]] zinazojitokeza kutoka makala za hifadhi ya maarifa yenyewe zinaonyesha kuwa kushindwa kunakodhuru zaidi katika ufundishaji ni kimya: mwalimu anayejibu kwa usahihi lakini anaharibu kujifunza, au anakataa kwa usawa lakini anaimarisha ukosefu wa usawa. Ushahidi hapa chini unapanga matokeo haya katika masuala manne ya usalama yanayoambatana.
+
+- **Madhara ya watoto mara chache huingia kupitia mfano.** Katika matukio 1,331 ya AI yanayohusiana na watoto yaliyowekwa kodi, madhara yalijikita katika kategoria za uwakilishi, utu na kisaikolojia na yalitokea pamoja na kushindwa kwa utekelezaji, utawala na matumizi mabaya badala ya kasoro za mfano, hivyo vichujio vya kila matokeo vinakosa njia inayotawala ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
 
 ### Usalama wa maudhui na vizui
 
@@ -67,6 +69,16 @@ Buni usalama wa kipatolojia kama mahitaji yanayoweza kupimwa, yanayojua taaluma 
 ### Mahusiano na dhana zinazohusiana
 
 Usalama wa kipatolojia ni tabaka la ulinzi linalounganisha [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], na [[llm]] na maswali ya kiwango cha mwingiliano ya [[trust]], [[scaffolding]], [[metacognition]], na [[self-regulated-learning]]. Inafanya kazi kupitia [[llm-training-and-fine-tuning|mafunzo]] na [[reinforcement-learning|RL]], inategemea [[bias-mitigation]] na [[equity-in-ai-education]], na inahamasishwa na madhara yaliyoorodheshwa katika [[ai-misuse-learning-harm]] na [[hazra-safetutors-pedagogical-safety-2026|taksonomia za madhara ya mwalimu]].
+
+## Dhana Potofu za Kawaida
+
+**"Vichujio vya sumu na upinzani wa jailbreak humfanya mwalimu kuwa salama."** Usalama wa kawaida wa [[llm]] ni wa lazima lakini hautoshi kwa elimu. Unashughulikia kile mfano utakachosema; usalama wa ufundishaji unashughulikia kile mwingiliano unachokifanya kwa mwanafunzi, ikiwemo kushindwa ambako hakuna kichujio cha maudhui kinachoweza kuona. Mwalimu anaweza kupita kila ukaguzi wa maudhui huku akimomonyoa kujifunza kwa utaratibu au akaimarisha ukosefu wa usawa.
+
+**"Kama mfumo unafanya vizuri katika mabadilishano moja, uko salama katika matumizi."** Hatari huongezeka kwa zamu: viwango vya madhara vilipanda kutoka takriban **18% katika tathmini za zamu moja hadi takriban 78% katika zile za zamu nyingi**. Vipimo vya zamu moja kwa hivyo huripoti takwimu yenye utulivu mara nne kupita kiasi kwa mwingiliano ambao wanafunzi wanauwa kweli, na seti ya timu nyekundu iliyojengwa juu ya ilani zilizotengwa itathibitisha mfumo unaoshindwa katika kikao cha dakika kumi.
+
+**"Mwalimu salama zaidi ni yule anayekataa zaidi."** Mfumo unaokataa kwa usawa unaweza bado kuimarisha ukosefu wa usawa, ambayo ni nusu ya pili ya maelezo ya ukurasa kuhusu kushindwa kwa utulivu. Hali ya kushindwa si tu mwalimu anayejibu kwa usahihi na kumomonyoa kujifunza; ni pia mwalimu ambaye kukataa kwake kunagawanya msaada kwa njia isiyo sawa kati ya wanafunzi, na sera ya kukataa kwa jumla hubadilisha hatari inayoonekana kwa ile isiyoonekana.
+
+**"Kazi yoyote ya usalama wa kiwango cha mfano ni hatua ya mahusiano ya umma."** Baadhi yake inaweza kupimwa. Kazi ya [[llm-unlearning-math-privacy|kufuta hesabu]] inatumia kufuta kwa msingi wa gradient ili kuondoa taarifa za utambulisho na maudhui yenye madhara, ikiripoti matokeo ya PII yakishuka hadi **0.1%** na viwango vya sumu hadi **0.0%** huku ikihifadhi uwezo. Udhibiti wa kiwango cha mfano ni tabaka moja la ulinzi wa matabaka: hautoshi peke yake, na si kitu cha bure.
 
 ## Dhana Zilizounganishwa
 

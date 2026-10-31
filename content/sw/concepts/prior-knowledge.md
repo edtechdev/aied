@@ -61,6 +61,16 @@ AI inayozalisha imefanya maarifa ya awali kuwa kigezo cha kubuni cha kati badala
 3. **Washati na ushughulikie dhanapotofu.** Wakati maarifa ya awali ni ya kosa, yatazuia; mafunzo yanapaswa kuvuta na kusahihisha dhanapotofu badala ya kuongeza maudhui mapya juu ya misingi yenye hitilafu.
 4. **Pima biashara ya mwingiliano.** Kuwasha maarifa ya awali huongeza ugumu unaotamanika (kukumbua, kuunganisha) ambao chaguo za msingi za AI za kuondoa mwingiliano huenda zikafuta — msongo wa mawazo wa kudhibiti kwa makusudi badala ya kuruhusu otomatiki kusuluhisha kwa chaguo-msingi.
 
+## Dhana Potofu za Kawaida
+
+**"Maarifa ya awali hutabiri nani anayefanya kazi ya kiakili."** Yanatabiri matokeo kwa uhakika zaidi kuliko yanavyotabiri tabia. Katika somo la siku tano la kujifunza kwa kufundisha lenye **waelimishaji 23 wa shule ya kati**, alama za awali za majaribio **hazikutabiri** sehemu ya majibu ya kujenga maarifa ambayo mwalimu alitoa, na waelimishaji wenye maarifa madogo ya awali walifanya kazi ya kujenga maarifa badala ya kujiridhisha na kazi ndogo zaidi. Nani anashiriki katika mapambano yenye tija si tu yule anayefika akijua zaidi.
+
+**"Kuachia kazi kwa AI ni sifa thabiti ya mwanafunzi, hivyo mwanafunzi yule yule huachia kiasi kile kile kila mahali."** Hii inafuatana na maarifa ya awali ndani ya kazi. Katika somo la uandishi wa muundo, **kikundi chenye maarifa makubwa na upunguzaji mdogo wa mzigo kiliandika 80% ya insha yake dhidi ya 2% kwa kikundi kilichopunguza mzigo zaidi**. Upunguzaji wa mzigo kwa hivyo ni sehemu kubwa mwitikio kwa kile mwanafunzi tayari anacho na kile kazi inavyohitaji, jambo linaloufanya kuwa kigezo cha kubuni badala ya sifa ya tabia.
+
+**"Wanafunzi wenye maarifa ya awali kidogo wanahitaji msaada zaidi wa AI."** Hiyo ni mwelekeo unaoweza kupanua pengo zaidi, kwa kuwa mtindo uliopimwa wa upunguzaji wa mzigo unakusanya upotevu wa uandishi pale maarifa ya awali yalipo dhaifu zaidi. Msaada unaompa kazi mwanafunzi asiye na vifaa vya kutosha vya kutambua uingizwaji unaondoa shughuli ambayo ingejenga maarifa yanayokosekana.
+
+**"Maarifa ya awali ni kiingilio kisichobadilika ambacho kozi haiwezi kukisogeza."** Ni kigezo chenye uzito mkubwa zaidi katika kujifunza kipya, jambo linaloufanya ujenzi wake kuwa kazi yenye kujiinua zaidi badala ya hali ya usuli: sababu ambayo maarifa ya nyanja ni uingiliaji wenyewe, na si kigezo cha pamoja tu.
+
 ## Dhana Zilizounganishwa
 
 - [[learners]] — Wanafunzi: mnara kwa dhana za upande wa mwanafunzi

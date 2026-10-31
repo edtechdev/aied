@@ -9,7 +9,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -38,6 +38,8 @@ ai_assist:
 Tathmini ya marika ni chaguo la muundo wa tathmini ambalo wanafunzi huchukua sehemu ya kazi ya kutathmini ambayo kwa kawaida huhifadhiwa kwa waalimu. Aina zake hutofautiana kulingana na kile wanafunzi wanachozalisha na kile kilicho hatarini: maoni ya marika (maoni kuhusu rasimu, kwa kawaida ya [[formative-assessment|kuunda]] na yenye hatari ndogo), upimaji wa marika (alama inayochangia daraja), ukaguzi wa kanuni wa marika, na tathmini ya kikundi au timu (ambapo wanafunzi hupima bidhaa ya pamoja au michango ya wenzao). Aina huamua wanafunzi hufanya mazoezi ya nini — kutoa maoni yanayotegemea vigezo hujenga [[evaluative-judgment|hukumu ya kutathmini]] kwa njia tofauti na kutoa namba, na kutetea kanuni zako mwenyewe kwa mdomo hujenga kitu kingine tofauti. [[self-assessment|Tathmini binafsi]], mazoezi wa ndugu, huelekeza uchunguzi ule ule unaotegemea vigezo kwenye kazi ya mwanafunzi mwenyewe, wakati tathmini ya marika inaelekeza kwenye kuwasilishwa kwa mwanafunzi mwenzake na ufahamu wa hadhira unaokuja nao.
 
 Msingi wa utafiti unakubaliana kuwa tathmini ya marika huzalisha ujifunza na unakubaliana juu ya kiasi gani kinategemea muundo. Inawapa wanafunzi hadhira halisi, inaendeleza hukumu ya kutathmini kupitia majibu yanayotegemea vigezo, na inajenga muktadha wa kijamii unaounga mkono [[student-engagement|ushirikiano]] na [[motivation]]. Ubora wake unategemea sana [[scaffolding]] — jinsi inavyopangwa vizuri, na iwapo wanafunzi wanapata vigezo wazi na mafunzo. Utegemezi huo ni mahali AI inapoingia, kama nyongeza thabiti, inayoendeshwa na rubriki ya maoni mahususi na yenye ufahamu wa muktadha ambayo wanafunzi hutoa, na kwa kiwango kinachoongezeka kama ngazi za msaada zilizojengwa ndani ya mchakato wa tathmini ya marika yenyewe.
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang na Guo (2026)]] wanagundua kuwa wanafunzi wa EFL waliokagua maandishi ya rika kupitia mazungumzo ya wazi na AI ya kizalishaji walizalisha maoni ambayo wapokeaji waliyapima kuwa ya ubora wa juu, na faida katika mwitikio wa kihisia na ufahamu wa maoni zilitofautiana kwa ubora wa mazungumzo.
 
 ## Wanafunzi hujifunza nini kutoka kuwatathmini wenzao
 
@@ -88,6 +90,12 @@ Hatua kadhaa za muundo zinafuata. Wapa watathmini mafunzo, vielelezo, na vigezo 
 Ukaguzi unaoendeshwa na GenAI pia unarithi kanuni za lugha za zana: wachangiaji katika mazungumzo ya World Englishes wanadai kuwa wakaguzi wanaotumia GenAI wanakabiliwa na upendeleo ule ule kuelekea aina za Kiingereza zinazotawala kama vile mifano, na wanapendekeza kuhariri au kuandika upya maandishi yaliyotengenezwa ili kuonyesha utambulisho wa lugha wa mwandishi mwenyewe ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Maswali yaliyo wazi yanahusu nguvu ya ushahidi, si muundo tu. Ushahidi mwingi wa marika-na-AI ni mdogo na unaotegemea muktadha: walimu wanafunzi 45 katika kozi moja, wanafunzi 34 katika kozi moja ya uandishi wa biashara, waalimu 52 wa mapema katika vikundi 15 vya mazungumzo. Dodoso la PAIRR ni seti kubwa zaidi ya data hapa na inapima mtazamo wa wanafunzi, si ubora wa matokeo ya AI ambayo wanafunzi walihukumu. Jaribio la maeneo mengi lenye wanafunzi 1,176 tu ndilo linakaribia kiwango cha kulinganisha kwa kusababu, na linapima muundo wa maoni kwa hoja za kisayansi badala ya tathmini ya marika kama yenyewe. Wakati huo huo [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] alikagua meta-analysis 14 zilizokaguliwa na marika zinazodai kuwa AI inaboresha elimu na hakuna moja iliyotoa msingi halali wa madai yake — zote mbila zilizobaki zilifafanua matibabu kama zana badala ya muingilio wa kielimu, heterogeneity ilikuwa juu katika kila meta-analysis inayoripoti I² (77.2% hadi 94.4%), na ukaguzi wa masudio 59 ya msingi uligundua 61% yalikuwa na [[assessment-validity|wasiwasi wa uhalali]], mara nyingi zaidi kutokuwiano kati ya matokeo yaliyopimwa na dai lililotolewa. Madai kuhusu kile AI inafanya katika tathmini ya marika yanapaswa kuchukuliwa kama madai kuhusu shughuli iliyoundwa, iliyopimwa katika masharti ya shughuli hiyo.
+
+## Dhana Potofu za Kawaida
+
+- **"Utetezi wa mdomo huzuia kazi inayosaidiwa na AI."** Herufi zilizobandikwa kwa jumla **zilipanda kutoka 61.0% hadi 68.1% (p < 0.0001)** baada ya kila kuwasilisha kwa CS1 kuwekwa chini ya **ukaguzi wa mdomo wa msimbo wa dakika 15 wenye thamani ya 70% ya alama**. Tabia iliyolengwa iliongezeka, na **alama za mtihani hazikupungua na muda wa kazi ulibaki tulivu**, wakati **90% ya wanafunzi walisema ukaguzi uliwahamasisha**. Uingiliaji ulifanya kazi kwa ufahamu, si kwa kubandika.
+- **"Kugundua udanganyifu ndiko kusudi la tathmini ya mdomo."** Matokeo yaliyopimwa yalikuwa ufahamu na motisha, si kupungua kwa maandishi yaliyobandikwa. Kuhukumu ubuni kwa kiwango chake cha ugunduzi husoma vibaya kile kilichofikiwa.
+- **"Ukaguzi wa rika ni mbadala wa bei nafuu wa maoni ya mkufunzi."** [[learning-by-teaching|Kujifunza kwa kufundisha]] ndio mitambo, na huonekana hata miongoni mwa mashine: mazungumzo yanayofanana na kujifunza kwa rika miongoni mwa **mawakala wa AI zaidi ya milioni 2.4** yalikuwa zaidi **madai badala ya uchunguzi**. Kuzalisha uhakiki ni kitendo tofauti na kuupokea.
 
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — PAIRR na maoni ya pamoja ya marika-na-AI: mlolongo na ushahidi wao wa kulinganisha

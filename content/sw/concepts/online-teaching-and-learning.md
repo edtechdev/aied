@@ -10,7 +10,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Ufundishaji na kujifunza mtandaoni huchukua miundo kadhaa inayohusiana ambayo in
 - **Msaada wa kila wakati, uliowekwa katika miktadha.** Katika miktadha ya mbali na ya [[adult-learning|kujifunza kwa watu wazima]] ambapo wanafunzi wanajifunza kazini au nyumbani, msaada wa 24/7 uliowekwa katika kozi ni faida kuu. [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Msaidizi wa AIDA wa Open University]] aligundua msaada wa GenAI uliotengenezwa kwa makusudi, uliowekwa katika miktadha, uliongeza [[student-engagement|ushirikiano]] (muda wa matumizi uliongezeka mara mbili katika jaribio la uchunguzi), huku 96% ya wanafunzi wakitaka iwe katika masomo yao rasmi.
 - **Ufundishaji wa mazungumzo na mazungumzo kwa kiwango kikubwa.** Wakufunzi wa [[conversational-ai]] waliojengwa juu ya teknolojia ya [[intelligent-tutoring]] iliyothibitishwa ([[conversational-ai-tutors-framework|mfumo wa kuweka/kubadilisha/kuzingatia/kusoma]]) wanaahidi ufundishaji wa hali ya juu unaotegemea mazungumzo — kushirikisha mawazo, maswali, na [[misconceptions]] za wanafunzi — ambao unaoweza kupanuliwa zaidi ya ufundishaji wa kibinadamu.
 - **Kurahisisha na uchanganuzi.** AI inaweza kuunga mkono [[collaborative-learning|majadiliano mtandaoni]] na [[learning-analytics]], kutabiri ushirikiano, na kusaidia wakufunzi kugawa umakini. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] wanaongeza kuwa muhtasari wa majadiliano unaozalishwa na LLM unaweza kufanya kazi kama [[scaffolding|ngazi za msaada]] za urambazaji katika vikao vikubwa vya si wakati mmoja — kupanua mfiduo wa wenzao wa wanafunzi na hali za mtandao kwa mtaji wa kuunganisha bila kuwabebesha wanafunzi au wakufunzi na mzigo wa kufupisha.
-- **Uchanganuzi wa onyo la mapema kwa wanafunzi mtandaoni wenye hatari.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries na Koprinska (2025)]] wanaonyesha kuwa [[reinforcement-learning|kujifunza kwa mashine]] unaoweza kufasirika juu ya kumbukumbu za mwingiliano wa maudhui unatabiri maendeleo ya kiwango cha moduli na kutambua matokeo ya kujitoa ("Hakuna uwasilishaji") katika kozi kubwa za [[cs-education|upangaji]] mtandaoni hadi siku 7–8 kabla ya tarehe za kumaliza moduli, na hivyo kuwapa wakufunzi mtandaoni dirisha halisi la kuingilia kati kwa wanafunzi [[teacher-role|wasiomjibu]] badala ya kugundua kushindwa tu baada ya tukio.
+- **Uchanganuzi wa onyo la mapema kwa wanafunzi mtandaoni wenye hatari.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries na Koprinska (2025)]] wanaonyesha kuwa [[machine-learning|kujifunza kwa mashine]] unaoweza kufasirika juu ya kumbukumbu za mwingiliano wa maudhui unatabiri maendeleo ya kiwango cha moduli na kutambua matokeo ya kujitoa ("Hakuna uwasilishaji") katika kozi kubwa za [[cs-education|upangaji]] mtandaoni hadi siku 7–8 kabla ya tarehe za kumaliza moduli, na hivyo kuwapa wakufunzi mtandaoni dirisha halisi la kuingilia kati kwa wanafunzi [[teacher-role|wasiomjibu]] badala ya kugundua kushindwa tu baada ya tukio.
 - **Upatikanaji wa bei na kasi.** AI inaweza kuzalisha nyenzo za kozi kwa gharama ndogo ya jadi — MAIC ilipunguza uzalishaji wa kozi ya MOOC kutoka takribani \\$25K/saa 60 hadi chini ya \\$2/dakika 30.
 
 ## Changamoto za ufundishaji mtandaoni katika enzi ya AI
@@ -101,6 +101,7 @@ Iwapo usimamizi hauwezi kufanyika na mwakala anaweza kumaliza kazi, jibu ambalo 
 Mchanganyiko wowote ambao mkufunzi anachagua, kikomo kimoja kinapaswa kuunda. Masomo mtandaoni mara nyingi ni chaguo pekee linalopatikana — wanafunzi wanachagua kwa sababu ya ajira, wajibu wa utunzaji, ulemavu au jiografia — kwa hivyo uthibitisho lazima uwe **mdogo na unaolingana**: maelezo mafupi yaliyorekodiwa, matumizi yanayobinafsishwa, jibu kwa swali lililochaguliwa na mkufunzi, njia iliyobainishwa ya uamuzi, ukaguzi binafsi wa hatari ndogo. Kugundua hubeba gharama zake za usawa hapa, kwa sababu zana zinazotambua waandishi wasio wazawa huenda zinatengeneza matokeo ya uongo kwa uwiano mkubwa ([[ai-detection]], [[digital-divide]]).
 
 ## Mikakati ya kielimu yanayopendekezwa kwa ufundishaji na kujifunza mtandaoni
+- **Muundo wa majukumu ndio uingiliaji, si zana.** Katika kozi ya mtandaoni ya shahada ya pili, kugawa majukumu yanayozunguka ya mratibu, mchanganuzi na mbishi kwa [[learners|wanafunzi]] na mshirika wa AI ya uzalishaji kulipandisha alama za maudhui ya ramani ya akili ya kikundi kutoka M = 3.65 hadi M = 4.59 kwenye kipimo cha SOLO cha 1-5 (z = 3.771, p < 0.001), wakati hesabu za nodi na matawi zilikosa kubadilika kitakwimu ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al. (2026)]]).
 
 - **Kujifunza kwa bidii na kwa mwingiliano.** Pendelea mikakati inayowafanya wanafunzi kufanya na kufikiri badala ya kupokea kwa upole — [[active-learning]], mazoezi ya mwingiliano, na mazungumzo ya [[socratic-method|Socratic]]. AI inayoashiria ufikiri (badala ya kutoa majibu) huhifadhi mapambano yenye tija na [[desirable-difficulties]] yanayojenga kujifunza kwa kudumu.
 - **Msaada uliopangwa na ulioongozwa.** Tumia [[scaffolding]] inayopungua wanafunzi wanapoendelea, na buni msaada wa [[self-regulated-learning]] ili wanafunzi waongoze kujifunza kwao wenyewe badala ya kutegemea zana.
@@ -114,6 +115,7 @@ Mchanganyiko wowote ambao mkufunzi anachagua, kikomo kimoja kinapaswa kuunda. Ma
 - **Utawala wa binadamu ndani ya mzunguko.** Weka waelimishaji na [[teacher-role|wakufunzi]] katika mzunguko wa zana za AI, wakizingatia [[tpack|maarifa ya maudhui ya kielimu]], ili nia ya kielimu — si chaguo-msingi la zana — iendese ubuni.
 
 ## Athari kwa wakufunzi mtandaoni na wabuni wa maagizo
+- **Miundo iliyobanwa inahitaji ubunifu upya, si kubanwa.** Kozi za shahada ya pili za si wakati mmoja za wiki sita kwa walimu wanaofanya kazi ni kikwazo cha kitaasisi kinachohitaji ubunifu wa kusudi badala ya kozi ya wiki kumi na tano iliyobanwa, na mazungumzo ya AI yanabeba uwepo wa kielimu hadi saa za usiku ambazo mkufunzi hawezi kuzihudumia ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
 
 - **Weka vizuwezi kwa AI, usiibandike tu.** Tumia [[scaffolding]] ya dokezo-si-jibu inayoweka kazi ya kiakili ya mwanafunzi katika mzunguko; RCT ya mkufunzi mwenye [[guardrails|vizuwezi]] inaonyesha hii inaondoa adhabu ya mtihani ambayo upatikanaji usio na ulinzi husababisha. Ona dhana ya [[guardrails]] kwa safu kamili ya ubuni ([[prompt-engineering|kutoa ilani]], msingi wa [[rag]], mafunzo, QA).
 - **Buni tathmini zinazopinga AI na zilizo chini ya usimamizi/bila msaada.** Kwa sababu kuweka alama mtandaoni mara nyingi hauwezi kutofautisha kazi iliyosaidiwa na huru, jumuisha tathmini za kitabu kilichofungwa, zilizo chini ya usimamizi, au zinazofichua mchakato ili kufichua na kukataza matumizi mabaya ([[ai-misuse-learning-harm]]).
@@ -125,6 +127,16 @@ Mchanganyiko wowote ambao mkufunzi anachagua, kikomo kimoja kinapaswa kuunda. Ma
 - **Dhana kwamba mwakala atajaribu kila shughuli isiyo chini ya usimamizi, na buni kutoka dhana hiyo.** Mtihani wa maswali matatu ni wa haraka na unafichua shughuli dhaifu: je, mfumo wa AI unaweza kumaliza hii bila mwanafunzi kuelewa nyenzo; ni shughuli gani ya kiakili inayotarajiwa kuzalisha kujifunza; ni ushahidi upi utaonyesha mwanafunzi alifanya. Iwapo jibu la kwanza ni ndiyo na mengine mawili ni ngumu kujibiwa, tatizo ni ubuni wa kujifunza badala ya sera ya AI.
 - **Weka uthibitisho unaolingana na hatari.** Mahali uwezo unapaswa kuthibitishwa, pendelea kazi ya mapacha, utetezi wa mdomo wa si wakati mmoja au ukaguzi mfupi wa ufahamu juu ya ufuatiliaji wa jumla; weka sehemu zilizosalia za kozi zinazobadilika kwa wanafunzi wanaotegemea kubadilika huko.
 - **Tumia uchanganuzi kuunga mkono, si kuchukua nafasi ya ufundishaji.** Tumia [[learning-analytics]] kutabiri ushirikiano na kulenga msaada, lakini weka [[human-in-the-loop-ai|usimamizi wa binadamu]] kuwa wa kati.
+
+## Dhana Potofu za Kawaida
+
+**"Ufundishaji mtandaoni ni ufundishaji wa darasani unaowasilishwa kupitia skrini."** Ni mazingira tofauti ya mbinu za kufundisha, na AI huingia kwa njia tofauti ndani yake. TPACK inayojiripoti kwa ufundishaji wa sayansi unaojumuisha AI ilikuwa juu zaidi miongoni mwa walimu wanafunzi wa mwaka wa mwisho katika chuo kikuu cha kampasi (**asilimia 64.0**) kuliko katika chuo kikuu cha elimu ya mbali (**asilimia 47.4**), huku kikoa dhaifu zaidi katika mazingira yote mawili kikiwa cha mbinu za kufundisha. Mazingira ya mbali yanaongeza pengo la maandalizi lililopo badala ya kupokea msaada ule ule.
+
+**"Kuongeza msaidizi wa AI kwenye kozi huongeza ushirikiano."** Ushirikiano unategemea msaidizi kuwa umejengwa kwa madhumuni mahususi na ndani ya mazingira. Msaidizi wa AIDA wa Open University ulipandisha ushirikiano, ukiongeza mara mbili muda wa matumizi katika jaribio la kuchunguza, na hali hiyo ya muundo ndio ugunduzi: uwezo ule ule uliobandikwa kama zana ya nje hauvuti tabia ile ile. Kiungo cha chatbot ya jumla katika ganda la kozi si uingiliaji uliosomwa.
+
+**"AI inapandisha utendaji, kwa hiyo inapandisha ujifunzaji."** Katika mazingira ya mtandaoni mgawanyiko ni ule ule kama darasani: [[rct]] iligundua msaada wa AI usio na vizuizi ulipandisha utendaji wa mazoezi lakini *ulipunguza* alama za mtihani bila msaada, wakati mfunzi wa "dokezo-si-jibu" uliondoa adhabu hiyo. Kozi za mtandaoni zinategemea zaidi tathmini ya si wakati mmoja, hivyo pengo kati ya utendaji uliosaidiwa na usiosaidiwa ndipo uhalali unapopatikana au kupotea.
+
+**"Uhalali wa tathmini ni suala la sera ya kuweka alama."** Ni suala la muundo linaloundwa na chombo chenyewe: pale mawasilisho yanapoweza kuzalishwa bila mwanafunzi kuwepo, uhalali unategemea kama kazi inazalisha ushahidi kwamba mwanafunzi alifanya kazi hiyo. Kubuni upya kazi kunashughulikia hili; kukaza adhabu ya mwenendo mbaya hakushughulikii.
 
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — Miktadha inayofanya mpangilio kuwa wenye uzito, kwa sababu mfumo hauwezi kuona jaribio
@@ -173,7 +185,9 @@ Mchanganyiko wowote ambao mkufunzi anachagua, kikomo kimoja kinapaswa kuunda. Ma
 - [[conversational-ai-tutors-framework]] — Njia ya Wakufunzi wa Mazungumzo ya AI
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Kutekeleza AIDA katika Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Miongozo ya Kubuni Teknolojia za AI Zinazounga Mkono Kujifunza kwa Watu Wazima
-- [[deeptutor]] — DeepTutor: Kuelekea Ufundishaji Unaobinafsishwa wa Mawakala
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: Kuelekea Ufundishaji Unaobinafsishwa wa Mawakala
+- [[cheng-symbiotic-role-design-human-genai-collaboration-2026]] — Muundo wa majukumu ndio uingiliaji, si zana
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Kozi za shahada ya pili za si wakati mmoja za wiki sita kwa walimu wanaofanya kazi: buni upya muundo badala ya kuubana
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Kufanya matokeo ya ML yapatikane kwa walimu katika madarasa yaliyochanganywa
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Wanafunzi wanapendelea video za AI zilizobinafsishwa juu zile za kibinadamu zisizobinafsishwa (Tomlinson et al. 2026)

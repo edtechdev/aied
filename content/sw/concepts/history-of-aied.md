@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T13:10:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,34 @@ Kufika kwa [[generative-ai|AI ya kizalishaji]] — familia pana inayojumuisha [[
 - **Ona uchaguzi wa muundo kama uchaguzi wa thamani.** Maamuzi ya kiufundi kuhusu AI katika elimu yanajumuisha msimamo wa kiitikadi kuhusu kusudi la kujifunza — yafichue na yakague.
 - **Pima udhibiti dhidi ya wakala kwa makusudi.** Ikiwa AI inapaswa kuboresha kuelekea matokeo ya kawaida au kuruhusu matokeo mbalimbali yanayoongozwa na mwanafunzi ni uchaguzi halisi wenye athari za kitaaluma na za kisiasa, si kigezo cha kiufundi.
 - **Hifadhi wakala wa mwanafunzi.** Upinzani unaojirudia kwa usanifu na udhibiti kwa upendeleo wa mbinu za wazi zinazozingatia mwanafunzi ni mstari wa kudumu unaostahili kutetea.
+
+## Dhana Potofu za Kawaida
+
+**"AI katika elimu ilianza na ChatGPT."** Haikuwa hivyo, na imani hiyo ni ya gharama kwa sababu inafanya kila somo la awali lisionekane. [[intelligent-tutoring|Ualimu wa akili]] unatokana na kazi ya utafiti-heuristi na mifumo ya wataalam ya miaka ya 1960 na 1970, na jumuiya ya AIED iliundwa kuzunguka kazi hiyo miongo kadhaa kabla ya [[llm|mifano mikubwa ya lugha]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] wanaonyesha mijadala ya sasa ikizalisha upya mgawanyiko uliokuwa wazi tayari katika walimu wa kielektroniki wa Anderson na ujenzi wa Papert, kwa hivyo msomaji anayeweka mwanzo wa uwanja mwaka 2022 atarudia hoja ambazo uwanja ulikwisha ziamua, ziacha, au zishindwa mara moja.
+
+**"Uwanja umeacha polepole AI-kama-mfano kwa ajili ya zana za matumizi, na AI ya kizalishaji inaendeleza mwelekeo huo."** Hii ni marekebisho yenye mafunzo zaidi katika ukurasa huu, kwa sababu mwelekeo ni wa kweli lakini si wa mstari mmoja. [[rismanchian-ai-education-four-decades-aixed-2026|Uchanganuzi wa nafasi wa Rismanchian na Doroudi]] wa AIED 1985, 1993, 2021 na 2024 na IJAIED 2004, 2014 na 2021 unaonyesha kweli kuhama kutoka uwanja mchanganyiko kuelekea utumiaji wa zana karibu wa pekee ifikapo miaka ya 2000. Lakini katika AIED 2024, makala tatu kati ya nne katika kvadranti ya AI-kama-mfano zilikuwa za msingi wa LLM, ikijumuisha kazi ya karatasi bora juu ya mawakala wanafundishwa wa msingi wa LLM. AI ya kizalishaji ina **geuza** mwelekeo kwa sehemu badala ya kuuendeleza, ndiyo sababu kuichukulia kama "mwalimu wa kielektroniki ajaye" kunakosea mahali ambapo mpaka wa utafiti ulihamia kweli.
+
+**"Ubinafsishaji unamaanisha kubadilisha ugumu kwa kila mwanafunzi."** Hiyo ni maana moja tu kati ya mbili zisizolingana, na kuzichanganya kunaficha uchaguzi wa kisiasa. Katika maana ya kwanza matokeo yanabaki yale yale na njia pekee inabadilika, nasaba ikienda kutoka mashine za kufundisha za Skinner hadi ualimu unaozingatia ustadi. Katika ya pili matokeo yenyewe yanatawanyika, wanafunzi wakifuatilia maslahi binafsi bila kizuizi cha mtaala wa kawaida (Zhao, 2024). [[intelligent-tutoring|ITS]] inatekeleza ya kwanza; [[constructivist|ujenzi]] ya pili. Zana inayoelezewa kama "ya kibinafsi" haijakuambia kitu mpaka ujue ni ipi inayomaanisha.
+
+**"'Artificial intelligence' lilikuwa jina la wazi la uwanja."** Neno hilo lilikuwa uchaguzi wa makusudi. Wakati McCarthy alipopanga mradi wa Dartmouth wa 1956 alipendelea *artificial intelligence* badala ya *cybernetics* kwa sehemu ili kuutenga kazi hiyo kutoka mapokeo ya maoni ya analogi ya Wiener. Uamuzi huo mmoja uliweka mashine katika kulinganisha la moja kwa moja na ufahamu wa binadamu, na ufafanuzi wa kibinadamu uliouweka bado unaunda kipaumbele za utafiti, lugha ya bidhaa, na maswali ya maadili ambayo umma unauliza.
+
+## Kuweka katika Mazoezi
+
+**Kwa wakufunzi na wabunifu wa mafunzo**
+
+- Taja mapokeo ambayo zana yako inahusika nayo kabla ya kuipitisha. Uliza kama inaboresha kuelekea matokeo yasiyobadilika au inafungua mwelekeo wa mwanafunzi, kwa sababu jibu hilo, si orodha ya vipengele, huamua itakachofanya kwa ubuni wako wa tathmini.
+- Chunguza neno "ya kibinafsi" katika kila dai la muuzaji, na pata jibu kwa mujibu wa maana mbili zilizo juu. Bidhaa inayobadilisha mwendo kuelekea kiwango cha pamoja na moja inayoruhusu wanafunzi kutofautiana si mbadala.
+- Wanafunzi wanapowasilisha GenAI kama isiyo na kifani, historia ni maudhui yanayofundishika yenyewe. Fremu ya Anderson-Papert inawapa msamiati wa kubishana kuhusu AI badala ya kuitumia tu.
+
+**Kwa wasanidi**
+
+- Lugha ya kiolesura ni uamuzi wa ubuni wenye nasaba. Kuita mfumo wako "mwalimu wa AI" unarithi fremu ya Anderson na matarajio ya kuboresha kuelekea matokeo ya kawaida; kuiita "microworld" au "mazingira ya kujifunza" unarithi ya Papert. Hakuna isiyoegemea upande, kwa hivyo chagua kwa makusudi.
+- Ikiwa unajenga katika mapokeo ya mfano (mifano ya kujifunza, mawakala wanafundishwa, simulizi za upatikanaji wa maarifa), sema hivyo. Kvadranti hiyo ilikuwa karibu tupu kwa miongo miwili na inajaa tena; nafasi hiyo ni tofautisho na vigezo vya tathmini ni tofauti.
+
+**Kwa watafiti**
+
+- Tumia makusanyo ya kihistoria kama msingi badala ya kuchukulia sasa kama kulinganisha pekee kunakopatikana. Maandiko ya AIED ya 1985, 1993, 2021 na 2024 na IJAIED ya 2004, 2014 na 2021 ni sampuli ya muda iliyo tayari ya madai ya uwanja wenyewe.
+- Taja nasaba unapodai ugeni. Dai kwamba mfumo "unabinafsisha kujifunza" au "unamfano wa mwanafunzi" ni geni tu kuhusiana na mapokeo maalum ya awali, na mapokeo hayo yameandikwa.
 
 ## Dhana Zilizounganishwa
 - [[ai-education]]

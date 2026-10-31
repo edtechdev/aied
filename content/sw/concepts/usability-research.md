@@ -8,7 +8,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,16 @@ Utafiti wa utekelezaji unashiriki mbinu za kukusanya data na [[qualitative-resea
 
 - **Nguvu:** inabainisha moja kwa moja vizuizi vya utekelezaji vinavyozuia kupata na kujifunza; huzalisha mwongozo wa vitendo wa ubuni; inayeyelekeza utafiti wa ufanisi na wa kina kwa kueleza *kwa nini* zana inafanya kazi au inashindwa katika matumizi; ni ya haraka na ya bei ndogo kwa kulinganishwa na majaribio makubwa.
 - **Vikomo:** matokeo ya utafiti wa utekelezaji hayathibitishi athari za kujifunza (zana inayotekelezwa bado inaweza kushindwa kufundisha); sampuli ndogo na mipangilio mahususi ya kazi vinazuia uwezo wa kujumlisha; kuridhika kunakojitangaza kunaweza kutofautiana na utendaji wa kusudi; utegemezi wa mtafiti na wa ubuni wa kazi.
+
+## Dhana Potofu za Kawaida
+
+**"Mfumo unaotumika ni mfumo mzuri wa kielimu."** Utafiti wa utekelezaji unashughulikia mwingiliano kati ya mtu na mfumo, si matokeo ya kujifunza, na hivyo hutengana pande zote mbili: zana yenye nguvu ya kufundisha inaweza kuachwa kwa sababu ya kuchusha, na zana isiyo na msuguano inaweza kufundisha chochote. Urahisi ni sharti la matumizi, si ushahidi kuwa matumizi hayo yalifaa.
+
+**"Utekelezaji ni shughuli ya kung'arisha mwishoni wa maendeleo."** Ni familia ya mbinu yenye tekniki za msingi, uchunguzi, uchanganuzi wa kazi, kufikiri kwa sauti, na mapitio ya kiheuristiki, zinazounda ubuni badala ya kuukamilisha. Kugundua msuguano baada ya ufundishaji kuamuliwa huelekea kuzalisha ama ubuni upya wa kiolesura kuzunguka tatizo au kuachwa kwa zana.
+
+**"Wanafunzi wanaoacha zana walikosa motisha."** Kuacha mara nyingi ni usomaji sahihi wa mtumiaji wa gharama ya mwingiliano ambayo mbunifu hakupima. Kwa kuwa zana ambayo hakuna anayetumia haiwezi kuwa na athari, kiwango cha kuacha ni matokeo ya kielimu yenyewe.
+
+**"Upimaji wa utekelezaji ni sawa na kupima kujifunza."** Hujibu maswali tofauti na hakuna kimoja kinachochukua nafasi ya kingine; hali ya kushindwa ni kuchukulia kimoja wapo kuwa cha kutosha kwa kupitisha.
 
 ## Dhana Zilizounganishwa
 

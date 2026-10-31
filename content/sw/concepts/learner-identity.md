@@ -9,7 +9,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ Sharti tofauti la uandishi, si tishio tu kwa uandishi: mazungumzo ya kuunda nafs
 
 - **Utambulisho wa ubunifu:** **[[t2i-competence-paradox-2026|paradoks ya uwezo ya T2I]]** inanasa jinsi urahisi wa matumizi unaweza kudhoofisha utambulisho unaotegemea ufundi wa wanafunzi wa sanaa na ubunifu.
 - **Uandishi unaohisiwa unaweza kutenganishwa na ubunifu halisi.** Wanafunzi wa ubunifu wanaojenga tovuti na AI walipima uandishi wao kuwa wa juu (67/100, kuridhika 6.4/7, ubora unaoonekana 6.1/7), lakini vipimo hivyo havikuonyesha chochote kinachoweza kupimwa: miundo yao ilikuwa ya aina moja zaidi kuliko bila AI, na uandishi unaohisiwa ulihusiana na ubunifu uliopimwa kwa r ≤ +0.13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).
-- **Utambulisho wa kitaalama:** masudio kadhaa yanashughulikia athari ya AI juu ya **utambulisho wa kitaalama** — kwa mfano, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** wanadai kuwa wahitimu wanahitaji *uwezo wa kurekebisha* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) hasa ili waweze kudumisha utambulisho wa kitaalama unaoweza kudumu katika mustakabali unaojumuisha AI, badala ya kutengwa na — au kufutwa na — zana zao.
+- **Utambulisho wa kitaalama:** masudio kadhaa yanashughulikia athari ya AI juu ya **utambulisho wa kitaalama** — kwa mfano, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** wanadai kuwa wahitimu wanahitaji *uwezo wa kurekebisha* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) hasa ili waweze kudumisha utambulisho wa kitaalama unaoweza kudumu katika mustakabali unaojumuisha AI, badala ya kutengwa na — au kufutwa na — zana zao. Hukumu za GenAI zinaweza kugawanyika kwa muktadha wa wakati pamoja na uandishi: waliohojiwa walihukumu matumizi ya AI hayafai kwa kujifunza lakini ni halali au yanatarajiwa katika kazi ya kitaalamu ya baadaye, "Kama mwanafunzi lazima nijifunze, kama mtaalamu lazima nitoe matokeo" ([[sun-governing-genai-policy-cross-national-2026|Sun et al. (2026)]]).
 - **Utambulisho wa baada ya binadamu na mseto:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** wanatazama **mwanafunzi wa baada ya binadamu**, ambaye ufahamu wake ni wa mseto na wa kusambazwa kweli katika mifumo ya [[biology-education|kibiolojia]] na bandia — ufafanuzi upya wa uundaji wa utambulisho yenyewe katika enzi ya AI ya kiakili.
 - **Utambulisho wa mwanafunzi na wa kitaaluma:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|tathmini halisi]]** [[research-methods-aied|utafiti]] unaungana na utambulisho kwa sababu kazi za [[assessment]] zinazohitaji utendaji halisi na wa kibinafsi zinawasaidia wanafunzi kujiona kama watazamaji wenye uwezo; **[[paternalistic-filter-llm-history-education|utafiti wa elimu ya historia]]** unaonyesha jinsi matumizi ya AI ya kibaba yanaweza kuunda jinsi wanafunzi wanajenga utambulisho wao kama watazamaji wa taaluma.
 - **Jinsi wanafunzi wanavyoelezea zana inaumba kuwa kitaalama kwao.** Wanafunzi wanaoweka GenAI kama mshirika wa kihisia-kijamii peke yake walizalisha tafakari zisizo na tofauti juu ya kujifunza kwao kitaalama kuliko wale ambao pia waliiweka kama mbinu, nyenzo ya kujifunza, au muundo ([[genai-professionalization-metaphors-2026|Bohmer et al. (2026)]]).
@@ -74,6 +74,16 @@ Utambulisho wa mwanafunzi ni mwenzake **wa upande wa mwanafunzi** wa utambulisho
 ## Viungo
 
 Utambulisho wa mwanafunzi unaungana na [[agency]] (utambulisho unatekelezwa kupitia uandishi wa wakala), [[self-efficacy]] (imani za uwezo zinazodumisha utambulisho), [[motivation]] na [[self-determination-theory]] (uundaji wa utambulisho unatimiza mahitaji ya uhuru na uwezo), [[student-experience]] na [[student-engagement]], na [[stem-education]] (ambapo utambulisho wa taaluma ni matokeo muhimu na kitabiri wa kudumu). Pia unaundwa na [[situated-learning]] na [[critical-pedagogy]] (utambulisho kama ushiriki na kama majadiliano yenye nguvu) na unaungana na [[authentic-assessment]] (kazi zinazowaruhusu wanafunzi kutenda na hivyo kudai utambulisho). Uhusiano wake wa [[higher-ed]] na [[k-12]] unahusu shule na maandalizi ya kitaalama.
+
+## Dhana Potofu za Kawaida
+
+**"Utambulisho wa mwanafunzi ni sifa isiyobadilika ambayo kozi inaweza kuibeba."** Ni bora kuchukuliwa kama kitu **kinachojengwa kila wakati kupitia ushiriki, utambuzi, na uandishi**. Mabadiliko hayo hubadilisha swali la ubuni kutoka kulinganisha utambulisho uliopo hadi kuunda ule ambao kozi inaufanya upatikane, na AI inayokamilisha kazi huondoa kimoja kati ya viambato vitatu, kwa kuwa uandishi ndipo dai la utambulisho linapotoka.
+
+**"Masuala ya utambulisho ni ya wanafunzi kutoka makundi yasiyowakilishwa vya kutosha."** Utambulisho huundwa kwa kila mwanafunzi kwa iwapo ushiriki wake unatambuliwa, jambo linaloufanya kuwa sharti la jumla la ubuni badala ya mpango maalum. Kuuona kama wasiwasi unaolengwa ndiyo njia ambayo huahirishwa.
+
+**"Msaada wa AI hupunguza vizuizi na kwa hivyo hupanua ushiriki."** Unaweza kupunguza kizuizi cha kuzalisha kazi huku ukibana kizuizi cha kudai uandishi. Mwanafunzi anayewasilisha kazi ya ufasaha ambayo hakuandika amepewa ufikiaji wa matokeo na kunyimwa utambuzi unaojenga utambulisho nyuma yake.
+
+**"Kutambua utambulisho wa mwanafunzi ni suala la uwakilishi katika maudhui."** Uwakilishi ni muhimu na utambuzi hutekelezwa katika mazoezi: maswali ya nani yanachukuliwa, mchango wa nani unatambuliwa, na nani anachukuliwa kama mwenye uwezo. Mtaala unaweza kuwa wa uwakilishi na bado ukanyima utambuzi ambao uundaji wa utambulisho unahitaji.
 
 ## Dhana Zilizounganishwa
 

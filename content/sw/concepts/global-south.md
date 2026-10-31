@@ -8,7 +8,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,16 @@ Utafiti wa kawaida wa AI na wa teknolojia ya elimu umeelekezwa kihistoria na dat
 Kuzingatia miktadha ya Kusini ya Dunia kunahitaji kuenda zaidi ya kudhani kuwa mifano na vigezo vya Magharibi vinahamishika moja kwa moja. Inahitaji data zilizojengwa mahali pa kitu, [[pedagogy]] inayofaa kitamaduni, viwango vya tathmini vinavyozingatia jamii, na utafiti unaochukua maarifa ya maisha na ya jamii ya wanafunzi kama yenye mamlaka — yakilingana na miundo kama kujifunza AI kwa msingi wa jamii na utafiti wa [[technology-acceptance-model|kukubalika kwa teknolojia]] uliobadilishwa kuendana na masharti ya mahali pa kitu.
 
 Rekodi ya upanuzi ni sehemu ya picha hiyo, na ni ya kukasirisha. Programu zinazofanya kazi kwenye kiwango cha jaribio mara nyingi huacha kufanya kazi serikali zinapozitekeleza: mpango wa Kenya ambao ulizalisha mapato makubwa chini ya utekelezaji wa mashirika yasiyo ya serikali haukuonyesha mapato yanayotambulika kwa kiwango cha serikali (Bold et al.), viwango vya athari vinaelekea kushuka kadiri programu zinavyokua (Vivalt), na ubora wa utekelezaji hupungua kadiri maeneo yakiongezeka (Al-Ubaydli, List & Suskind). Kigezo cha Amerika ya Kilatini chenyewe ni mpango wa One Laptop per Child wa Peru — takribani laptop 800,000 zilisambazwa bila athari inayotambulika kwa [[math-education|hisabati]] au kusoma — ambalo somo lililovutwa ni kwamba upatikanaji wa teknolojia sio mafunzo. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] wanaongeza somo la kuripoti kwa somo la upanuzi: katika tukio la 2026 la El Salvador, jaribio la mafunzo ya AI katika shule 171 lilitangazwa kuwa linalinganishwa na Ujerumani na Uswidi huku sampuli ya uwakilishi ya PISA 2025 ya nchi hiyo hiyo ikionesha hakuna mabadiliko katika masomo mawili kati ya matatu, na data ya jaribio zilikuwa nyembamba mno (wanafunzi 7.0 waliotathminiwa kwa shule dhidi ya 25.4 kitaifa) kuzuia uteuzi kama maelezo. Kwa mifumo ya Kusini ya Dunia inayokubali AI kwa kiwango kubwa athari ni mbili: ushahidi kwamba mabadiliko yanafanya kazi kwa kawaida unahusu vipengele inavyojumuisha badala ya teknolojia katika kichwa chake, na utekelezaji wa awamu uliopangwa kabla ya kuweka unatambua athari kwa gharama karibu sifuri — jambo linalomuhimu zaidi pale muunganisho unaelekea awamu vile vile.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi na van der Merwe (2026)]] wanadai kutoka darasa la Daraja 9 la Afrika Kusini kwamba sera ya kitaasisi inayozuia kwanza hufunga milango ya hali ambazo AI inaweza kupanua badala ya kuchukua nafasi ya walimu chini ya uhaba wa kielimu, na kwamba data ya mwingiliano ambayo wajifunzaji huzalisha huhifadhiwa chini ya taratibu za utawala wa kigeni.
+
+## Dhana Potofu za Kawaida
+
+- **"Miktadha yenye rasilimali chache haina mfumo wa maadili ya AI na inahitaji uletwe."** Walimu wa STEAM wa sekondari wanaofanya kazi katika muktadha wenye rasilimali chache **hufikiri kuhusu maadili ya AI kupitia utambulisho wa kitaaluma, hali halisi za darasa na kanuni za kitamaduni badala ya kanuni rasmi**. Hoja ipo na imewekwa katika muktadha; orodha ya kanuni za jumla huhamishwa vibaya juu yake.
+
+- **"Aina ya utawala hutabiri ujumuishaji wa AI katika vyuo vikuu."** Uchanganuzi wa maudhui wa kulinganisha wa **vyuo vikuu 45 vya Nigeria** (shirikishi, vya serikali za majimbo na vya kibinafsi) uligundua ujumuishaji wa AI ukitabiriwa na **umri wa taasisi na eneo la kijiografia, si aina ya utawala**. Dhana kwamba taasisi za umma na za kibinafsi hutofautiana inapingwa.
+
+- **"Mgawanyiko wa kidijitali ndio kizuizi kikuu."** Utafiti wa kisa wa [[qualitative-research|kitabia]] wa **wanafunzi 21 wa shahada ya kwanza wenye ulemavu wa kuona katika vyuo vikuu vitatu vya Palestina** uligundua GenAI huziba vizuizi vya **kidijitali, kijiografia na kijamii-kichumi** kwa wakati mmoja. Vizuizi vimewekwa katika tabaka, na kuchukulia upatikanaji kama kizuizi kimoja huacha vingine bila kuguswa.
 
 ## Dhana Zilizounganishwa
 - [[differential-effects-across-learner-groups]]

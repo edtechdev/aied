@@ -7,7 +7,7 @@ assessment: [assessment]
 confidence: medium
 created: "2026-10-13T06:25:00-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,16 @@ Mwishowe, ushahidi unaonya dhidi ya kudhani msaada unaozalishwa na AI ni wa manu
 - **Kujifunza kwa ustadi kwa udhibiti wa pamoja ni wa ufanisi kama mkakati wa uteuzi wa kazi wa mwanafunzi tu.** Utafiti wa mfano (wanafunzi 1,000 walioigwa kwa kila mzunguko, vigezo vya AFM na BKT vilivyolingana na kumbukumbu halisi za MathTutor na DataShop) ulilinganisha mikakati tisa ya uteuzi wa kazi. Ufanisi unatofautiana kwa kiwango cha ukubwa: mkakati unaokwepa hatari wa "Kupunguza Hasara ya Mbaya Zaidi" — kuchagua ujuzi ambao hasara ya ustadi ya mbaya zaidi ni ndogo zaidi — unazalisha mazoezi ya kupita mara 30.28 katika kutatua equations (mara 28.93 katika kutafsiri grafu), dhidi ya 1.73 +/- 0.38 kwa wastani kwa mikakati mingine. Vizuri vilivyolengwa vinaamua kwa upasuaji: vizazi vya uteuzi wa kazi vinapunguza mazoezi ya kupita hadi 12.88/14.46x, na upendeleo wa "Pendelea Ngumu" wa uteuzi wa tatizo unapunguza hadi 1.98x (Cohen's d = 1.86) — wakati mikakati iliyo na ufanisi tayari haiathiriwi. Athari ya kubuni: vizazi vinapaswa kujua mkakati, kulinda wajidhibiti wenye magonjwa bila kutoza wazuri, na kubuni upya kwa mfano-kwanza inakwepa kuwafichua wanafunzi kwa mazoezi ya kupita mara 30 kugundua suluhisho. ([[noh-simulating-task-selection-2026]])
 
 Kupima alama kwa msingi wa viwango ni mwenzake wa tathmini wa kujifunza kwa ustadi, na [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais na Galy (2026)]] wanatambua kati ya mbinu tano za uvumbuzi zilizolingana na "tathmini kwa kujifunza" ambazo waelimishaji wa elimu ya juu wanaweza kupitisha — lakini wanagundua ni karibu kutokuwepo katika majadiliano ya elimu ya usimamizi. Wanaihakia kwa vizazi vya kawaida: "kupima alama kwa mkondo" wa kurejelea kiwango, ishara za nje (viwango, mafunzo, uthibitisho), na mtazamo wa nyenzo wa wanafunzi wote wanapinga mbinu za ustadi, zisizo na alama. Pendekezo lao ni majaribio ya kuongezeka — mfano, kuanzisha rubriki za msingi wa viwango kwa kazi moja kabla ya kupanua — zinazosaidiwa na kuratibu ya kiwango cha mpango na ushahidi uliorekodiwa wa Scholarship ya [[teacher-role|Ufundishaji]] na Kujifunza.
+
+## Dhana Potofu za Kawaida
+
+**"Kizingiti cha ustadi ni sifa halisi ya mwanafunzi."** Kizingiti ni sifa ya *kanuni* inayotumika kukisasisha. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] alitumia **kanuni nne za kusasisha juu ya mfuatano wa matukio sawa** kutoka kumbukumbu za data ya ASSISTments, na kanuni hizo hazikubaliani kuhusu nani yuko tayari. Ustadi kwa hivyo ni uamuzi uliorekodiwa katika namba, si ukweli uliogunduliwa kuhusu mwanafunzi, na kanuni inapaswa kuchukuliwa kama sera iliyotajwa badala ya maelezo ya kiufundi ya utekelezaji.
+
+**"Kama mfumo unasema amestadi, mwanafunzi yuko tayari kupanda."** Ni kwa kulingana na kanuni ya kusasisha inayotumika tu. Pale kanuni inapokiri kazi iliyosaidiwa, "amestadi" inaweza kuelezea mwanafunzi aliyefanikiwa kwa msaada na si kwa uhuru, tofauti ile ile kati ya utendaji uliosaidiwa na uwezo usiosaidiwa ambayo fasihi ya [[learning-gains|faida za kujifunza]] inaandika.
+
+**"Kujifunza kwa ustadi ni mbinu za kufundisha ambazo AI hatimaye inazifanya ziwezekane."** Utaratibu wake ulitangulia AI kwa muda mrefu, Bloom alirasimisha mfumo miongo kadhaa iliyopita, na AI unauboresha kwa kuendesha maamuzi ya tathmini na mwendo kwa njia ya kiotomatiki badala ya kutekeleza muundo ambao haukuwezekana awali. Uwekaji upya huo ni muhimu kwa sababu uendeshaji otomatiki unarithi chaguo la kanuni, na kanuni ndipo hukumu inapoishi.
+
+**"Tathmini ya mara kwa mara chini ya ustadi hufanya kizingiti kiwe cha kuaminika zaidi."** Mara kwa mara huboresha kadirio na hairekebishi kanuni iliyobainishwa vibaya. Kuhesabu ustadi upya mara nyingi kutokana na matukio yanayojumuisha kazi iliyosaidiwa hukusanyika haraka kuelekea jibu lile lile lisilo sahihi.
 
 ## Dhana Zilizounganishwa
 

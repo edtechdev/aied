@@ -11,10 +11,14 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -29,7 +33,7 @@ ai_assist:
 
 Ni wiki ya sita. Una mkusanyiko wa rasimu, rubriki unayoiamini, na shaka inayokua kwamba theluthi moja ya maoni yako yanapitishwa kwa macho haraka na kusahauka. Mwenzako anataja kwamba zana sasa inatoa maoni kwenye kila rasimu ndani ya saa moja. Mkutano wa idara unahitaji jibu: hii ni uboreshaji, au njia ya haraka zaidi ya kuzalisha maandishi ambayo hakuna anayeyasoma?
 
-Jibu fupi la kumpa mwenzako: maoni ya AI yanapata nafasi yake kwa ufikiaji, wakati na uthabiti, ndani ya bendi nyembamba. Kazi ya lugha ya kiwango cha uhariri wa nakala na maoni ya awali yanayoongozwa na rubriki zinafaa kuwekwa kiotomatiki. Kufikia ni sehemu ya bei nafuu. Katika jaribio la kubahatisha kwa makundi lenye wanafunzi 1,176 wa shahada ya kwanza mwaka wa kwanza, miundo ya kufikiri na ya mseto ilishinda ukosoaji wa moja kwa moja wa AI katika [[transfer-of-learning|uhamisho]] ulioahirishwa bila AI. Katika jaribio la kubahatisha la insha lenye wanafunzi 70, maoni ya AI yaliyopewa ukadiriaji wa juu hayakuzalisha marekebisho bora zaidi ya yale ya mwalimu mwenye uzoefu. Kile mwanafunzi anachofanya na maoni ndicho kinaamua matokeo, na [[feedback-literacy|ufahamu wa maoni]] hutenganisha wanafunzi wanaopata faida na wale wanaonakili.
+Jibu fupi la kumpa mwenzako: maoni ya AI yanapata nafasi yake kwa ufikiaji, uwakati na uthabiti, ndani ya bendi nyembamba. Kazi ya lugha ya kiwango cha uhariri wa nakala na maoni ya awali yanayoongozwa na rubriki zinafaa kuwekwa kiotomatiki. Kufikia ni sehemu ya bei nafuu. Katika jaribio la kubahatisha kwa makundi lenye wanafunzi 1,176 wa shahada ya kwanza mwaka wa kwanza, miundo ya kufikiri na ya mseto ilishinda ukosoaji wa moja kwa moja wa AI katika [[transfer-of-learning|uhamisho]] ulioahirishwa bila AI. Katika jaribio la kubahatisha la insha lenye wanafunzi 70, maoni ya AI yaliyopewa ukadiriaji wa juu hayakuzalisha marekebisho bora zaidi ya yale ya mwalimu mwenye uzoefu. Kile mwanafunzi anachofanya na maoni ndicho kinaamua matokeo, na [[feedback-literacy|ufahamu wa maoni]] hutenganisha wanafunzi wanaopata faida na wale wanaonakili.
 
 ## Toleo fupi
 
@@ -91,11 +95,13 @@ Aldino na wenzake wanapata mtindo ule ule wa kusaidia-kisha-kuhakiki katika mazo
 
 Waalimu 12 kati ya 21 wa Aldino na wenzake walifanya marekebisho zaidi ya kiwango cha sentensi, na mtindo uliotawala ulikuwa kusawazisha toni: kuhariri sifa za kupita kiasi chini (f = 11), kuondoa mapendekezo (f = 9), kuondoa moyo wa kuwatia shime (f = 8). Marekebisho yalijikita katika kipimo cha kihusiano, hasa Uhusiano wa Mwanafunzi na Mwalimu (f = 24). Walikuwa wakilinda uhalisi na sauti ya kitaaluma, na kazi hiyo haiwekwi kiotomatiki.
 
+Wanafunzi ni upande wa pili wa uthibitishaji huo, na maelezo yao kuhusu mgawanyo wa kazi yanakaribia yale ambayo ukurasa huu unapendekeza. Katika vikundi vya majadiliano vya wanafunzi 20 wa shahada ya kwanza, maoni ya mwalimu yalithaminiwa kwa kuwa ya kihusiano, ya mtu binafsi na yanayoongozwa na mtaalamu, wakati maoni yaliyozalishwa na AI yalionekana kuwa yasiyo ya mtu binafsi na yanayoweza kuwa yasiyo ya haki; wanafunzi hao hao walikuwa tayari kwa muundo mseto ambapo mwalimu husoma kazi yao na kuongeza kwenye maoni ya mfano ([[fong-chatgpt-feedback-evaluations-2026|Fong na wenzake (2026)]]). Utafiti huo huo uligundua kwamba hukumu zao ziliendana na zile za ChatGPT kuhusu ubainifu na uwezo wa kutekelezeka lakini zilitofautiana kuhusu uwakati na mwelekeo chanya, kwa hiyo vipimo ambapo hukumu ya mfano yenyewe inaweza kuaminiwa ni nyembamba kuliko rubriki kamili.
+
 ## Wafundishe wanafunzi kusoma maoni
 
 Ufahamu wa maoni ni sharti la awali, na hausambazwi sawa.
 
-[[hawkins-feedback-literacy-ai-essay-writing|Hawkins, Taylor-Griffiths na Lodge (2026)]] waliwafanya wanafunzi 32 wa saikolojia kufanya kazi ya insha ya dakika 25 iliyorekodiwa kwenye skrini wakiwa na ufikivu usio na vikomo wa ChatGPT, kisha wakatazama rekodi hiyo katika mahojiano ya kuchochewa na video. Ufahamu wa maoni ulikuwa mtakuiri pekee muhimu chanya wa alama ya insha (β = 0.46, p = .017). Mara ya kutumia GenAI, [[trust|uaminifu wa chanzo]] na [[prior-knowledge|maarifa ya awali]] hazikutabiri utendaji, jambo ambalo [[feedback-futures-genai|Zhan, Wood, Carless na Yan (2026)]] pia wanalitaja katika makala yao ya uhariri ya toleo maalum. Chini ya theluthi moja ya wanafunzi walilinganisha matokeo ya AI na chanzo kingine cha mtandao. Nusu walieleza kuepuka AI kwa makusudi kwa ajili ya [[academic-integrity|uadilifu wa kitaaluma]] au kwa sababu walitaka insha iwe kwa maneno yao wenyewe. Wengi waliomba maoni ya kiwango cha kazi, ambayo huhamishika vibaya kwenda kazi zingine.
+[[hawkins-feedback-literacy-ai-essay-writing|Hawkins, Taylor-Griffiths na Lodge (2026)]] waliwafanya wanafunzi 32 wa saikolojia kufanya kazi ya insha ya dakika 25 iliyorekodiwa kwenye skrini wakiwa na ufikivu usio na vikomo wa ChatGPT, kisha wakatazama rekodi hiyo katika mahojiano ya kuchochewa na video. Ufahamu wa maoni ulikuwa kitabiri pekee muhimu chanya cha alama ya insha (β = 0.46, p = .017). Mara ya kutumia GenAI, [[trust|uaminifu wa chanzo]] na [[prior-knowledge|maarifa ya awali]] hazikutabiri utendaji, jambo ambalo [[feedback-futures-genai|Zhan, Wood, Carless na Yan (2026)]] pia wanalitaja katika makala yao ya uhariri ya toleo maalum. Chini ya theluthi moja ya wanafunzi walilinganisha matokeo ya AI na chanzo kingine cha mtandao. Nusu walieleza kuepuka AI kwa makusudi kwa ajili ya [[academic-integrity|uadilifu wa kitaaluma]] au kwa sababu walitaka insha iwe kwa maneno yao wenyewe. Wengi waliomba maoni ya kiwango cha kazi, ambayo huhamishika vibaya kwenda kazi zingine.
 
 Mikondo iliyokithiri inaonekana kwa jozi ya waandishi wa IELTS wanaoelezewa na Zhan na wenzake. Mwanafunzi mwenye ufahamu mdogo aliandika kidokezo kisicho wazi, akapata maoni ya jumla, akaamini au kunakili kupita kiasi, na akashiriki kwa juujuu. Mwanafunzi mwenye ufahamu mkubwa aliandika kidokezo kinachorejelea vigezo, akafuatilia, akalinganisha vyanzo na kufuatilia marekebisho. Tofauti ilikuwa mafundisho na tabia, si ufikivu wa zana.
 
@@ -141,6 +147,6 @@ Ukadiriaji wa kuridhika unakuambia maoni ni sahihi. Katika jaribio la awali la D
 
 ## Wapi kwenda baadaye
 
-[[feedback]] ni dhana mwavuli ya mfumo wote: utoaji, mzunguko, upokeaji na mazingira ya tathmini. [[ai-feedback-quality|Ubora wa maoni ya AI]] unashughulikia kinachofanya maoni yaliyozalishwa kuwa sahihi, yenye manufaa, ya wakati na yenye msingi wa kialimu, na ukurasa huu ni katikati ya kiutendaji, kuhusu mchanganyiko upi wa sehemu hizo unazalisha maoni bora kwa kiwango kikubwa.
+[[feedback]] ni dhana mwavuli ya mfumo wote: utoaji, mzunguko, upokeaji na mazingira ya tathmini. [[ai-feedback-quality|Ubora wa maoni ya AI]] unashughulikia kinachofanya maoni yaliyozalishwa kuwa sahihi, yenye manufaa, ya wakati na yenye msingi wa kielimu, na ukurasa huu ni katikati ya kiutendaji, kuhusu mchanganyiko upi wa sehemu hizo unazalisha maoni bora kwa kiwango kikubwa.
 
 Maswali kuhusu alama inapaswa kumaanisha nini pindi AI inapohusika, ikiwemo ubadilishaji wa dhana, ushahidi wa mchakato uliothibitishwa na kanuni za uadilifu, ni ya [[redesign-assessment-ai-era|kubuni upya tathmini katika enzi ya AI]] na [[assessment-validity|uhalali wa tathmini]] badala ya hapa. Kwa hali maalum ya kufundisha uandishi, tazama [[writing-instruction-ai-best-practices|mbinu bora za kufundisha uandishi katika muktadha wa AI]].

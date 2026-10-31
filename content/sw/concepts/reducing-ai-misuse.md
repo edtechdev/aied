@@ -9,7 +9,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,7 @@ Dhana hii inategemea ushahidi kwamba matumizi mabaya ya AI yanaharibu kujifunza 
 ### Kwa nini vileo vya kimuundo vinaomuhimu zaidi
 
 Uingiliaji vinaweza kupangwa kulingana na **ushahidi wa sababisha × ufikikaji wa kimuundo × uwezo wa kupanua × [[sustainability]]**. Kwa msingi huu, vileo viwili vya *kimuundo* vimepangiwa juu zaidi kwa sababu hufanya kazi iwe au iwe wanafunzi wanachagua tabia sahihi — vinazuia mazingira badala ya kutegemea motisha ya ndani. Vileo vya *kielimu* ni muhimu lakini vina ufanisi tu wanafunzi wanapovikubali, hivyo vinachukuliwa kama daraja la pili licha ya ahadi yao ya dhana. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher na Calderon (2025)]] wanasukuma hoja ya kimuundo hadi ngazi ya juu, wakitendea utawala badala ya tabia ya mwanafunzi kama kizuizi kinachofunga, na kupendekeza mfumo wa viashiria 130 vya uadilifu ili watawala wa kitaaluma waweze kuona kama tathmini ni halisi, kama wanafunzi wanatambulana binafsi na walimu wanaowatathmini, na kama uadilifu unaonekana katika mapokezi na uelekezaji. Maboresho yao yanalenga miundo ya utawala, watu, na [[ai-technologies|teknolojia na rasilimali]], na wanapendekeza kukopa [[guardrails|utekelezaji wa red teaming]] kutoka usalama wa mtandao ili kufichua udhaifu wa tathmini kabla ya wanafunzi kuwapata — ukumbusho kwamba sakafu ya kimuundo inadumishwa na taasisi ambazo zinahitaji habari na mapenzi ya kuidumisha.
+Fasihi ya matumizi ya kuwajibika yenyewe mara chache hujaribu mnyororo ambao upangaji huu unadhani. Kati ya rekodi 122 za mbinu zilizotolewa kutoka masomo 31, 51 zilitekelezwa na kutathminiwa zote mbili, nyingi kwa kujiripoti, na masomo manne tu yalibainisha mpaka, yakabuni uingiliaji kuzunguka mpaka huo na kujaribu kama maamuzi ya wanafunzi yalilingana nao ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega na Zhao (2026)]]).
 
 ### Daraja la 1 — Imethibitishwa moja kwa moja kupunguza madhara ya kujifunza
 
@@ -119,6 +120,7 @@ Vileo vya kielimu vinaonekana tofauti tena mara uadilifu unapotendewa kama mazoe
 - [[cognitive-surrender]]
 
 ## Makala Zilizounganishwa
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Matumizi ya kuwajibika ya AI inayozalisha katika uandishi wa kitaaluma na wanafunzi: mapitio ya upeo ya mipaka, mbinu za kielimu na mapengo ya ushahidi
 - [[ivory-psychology-assessment-integrity-2026]] — Njia za ushahidi za vidhibiti vya matoleo na nyaraka za uchanganuzi zinazoweza kurudiwa kama vizuri vya kuzuia matumizi mabaya (Ivory et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Kuzuia pendekezo kulipunguza kwa kiasi kikubwa kutegemea kupita kiasi bila kujenga hukumu inayoiunga mkono
 - [[generative-ai-guardrails-harm-learning]] — GenAI Bila Vizazi Inaweza Kudhuru Kujifunza

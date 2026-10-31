@@ -2,7 +2,7 @@
 title: "Process Feedback"
 created: "2026-10-13T08:10:00-04:00"
 type: resource
-summary: "A free, process-based alternative to AI detection: it records how a piece of writing was produced and turns that into a report for a conversation about learning rather than a verdict."
+summary: "Njia mbadala ya bure inayotegemea mchakato badala ya utambuzi wa AI: inarekodi jinsi andishi lilivyotengenezwa na kugeuza hilo kuwa ripoti kwa mazungumzo kuhusu kujifunza badala ya uamuzi."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
 resource_type: [software]

@@ -2,7 +2,7 @@
 title: Mwongozo wa Kazi Zilizounganishwa na AI
 created: "2026-10-13T06:28:00-04:00"
 type: resource
-summary: "Sarah Lewis's 95-page guide (CC BY 4.0) for designing assignments where students use generative AI openly and still do the thinking, built on a learning-as-network-construction thesis and shipped as 17 adaptable assignment templates with rubrics, documentation tables and knowledge checks."
+summary: "Mwongozo wa kurasa 95 wa Sarah Lewis (CC BY 4.0) kwa kubuni kazi ambapo wanafunzi hutumia AI ya kizalishaji kwa uwazi na bado wanafanya kufikiri wenyewe, uliojengwa juu ya hoja ya kujifunza kama ujenzi wa mtandao na kutolewa kama violezo 17 vya kazi vinavyoweza kubadilishwa pamoja na rubriki, majedwali ya nyaraka na ukaguzi wa maarifa."
 url: https://zenodo.org/records/23218828
 author: "Sarah Lewis"
 author_url: https://ror.org/04r1hh402

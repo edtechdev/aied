@@ -8,7 +8,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:29:22-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -66,9 +66,39 @@ Mbinu za kufundisha za ujuzi mahusisi ni tofauti na [[critical-thinking]]. Ufiki
 
 - **Elimu ya haki za binadamu kama jaribio la utawala wa AI kama uundaji.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] anafanya kazi kupitia mfumo wa Umoja wa Mataifa wa *kuhusu, kupitia, kwa ajili ya* katika programu ya sheria na kuweka ugumu si katika teknolojia bali katika mbinu za kufundisha: wanafunzi walitoa kazi za maandishi zilizoboreshwa na mipango ya vipindi iliyoboreshwa bila mahusiano ambayo vitu hivyo vinapaswa kuthibitisha, na ufikiri mahusisi zaidi ulionekana katika maandishi ya mwisho wa kozi badala ya majadiliano ya darasa. Hitimisho lake inaelekeza nafasi ya mwalimu badala ya kuipunguza — [[governance|utawala wa AI]] unakuwa uwajibikisho wa kitaalamu ambao wanafunzi wanafundishwa kupinga, na [[llm|zana]] inaelekezwa badala ya kuzuiwa.
 
+### Tathmini kama uwanja wa ukosoaji
+
+Mbinu mahusisi huingia katika tathmini kupitia swali la maslahi ya nani uundaji upya unautumikia. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] hujenga hoja hiyo kwa kuunganisha Nadharia ya Miundo ya Mazoezi na mbinu mahusisi, hivyo mageuzi ya tathmini yanapaswa kusogeza vitu vitatu kwa wakati mmoja: lugha ya kitamaduni-mazungumzo inayofanya mazoezi fulani yafikiriwe, mipangilio ya kimwili-kiuchumi ya zana na rasilimali, na mgawanyo wa kijamii-kisiasa wa mamlaka. Onyo la fremu ni mahususi. Rasilimali zinapopita kupitia miundo ya mamlaka iliyopo bila umakini wa wazi wa usawa, uundaji upya wenye nia nzuri hukuza ukosefu wa usawa ambao ulikusudiwa kushughulikiwa, jambo linalofanya makutano ya rasilimali na mamlaka kuwa sehemu kubwa zaidi ya kujiinua na hatari kubwa zaidi. Matrix yake ya awamu nne inaendesha uchanganuzi mahusisi, ubunifu wa muingiliaji, utekelezaji unaolenga usawa na tathmini, na anachukulia mabadiliko ya hatua kwa hatua na mvutano wenye tija kama matokeo halali badala ya kushindwa kubadilika haraka.
+
 ### Nafasi ya mwalimu
 
 Chini ya mbinu za kufundisha za ujuzi mahusisi, waelimishaji si wawasilishaji wasio na upande wa ujuzi wa AI bali ni wazungumzaji mahusisi na wawezeshaji wanaowasaidia wenye kujifunza kuhoji siasa za AI. Hii inaungana na dhana za [[teacher-role]] na [[ai-literacy]] za hifadhi ya maarifa, na wasiwasi mpana zaidi wa [[equity-in-ai-education]] na [[reducing-ai-misuse]]. Kazi ya mwalimu ni kulima nafasi ambapo jamii zinaweza pamoja kuuliza, kuchukua, au kukataa AI — kuhifadhi elimu kama eneo la mawazo na mabadiliko ya kijamii.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] wanaongeza masharti ya vitendo kwa nafasi hiyo: kazi ya ujuzi mahusisi wa AI ya wazi haitaji waelimishaji kufika kama wataalam wa AI, tu kuwa tayari kuchunguza pamoja na wanafunzi — uchunguzi wa pamoja wa mwanafunzi–mwalimu wa mfumo mmoja maalum, "pashe za kielektroniki" (sio zote ni AI), zilifichua na kushughulikia [[misconceptions]] huku zikizidisha maarifa ya kiufundi. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran na Arar (2026)]] wanatoa nafasi hiyo umbo la ujenzi na la maadili ya malezi: wanachukulia ujuzi wa ilani ([[prompt-engineering|ujuzi wa ilani]]) kama mchakato wa kifasihi, wa maadili na wa kutafakari badala ya ujuzi wa kuboresha kiufundi, na hatua ya mwisho ya mfumo ina wanafunzi wakibuni pamoja na mwalimu wao Sera Binafsi ya Matumizi ya AI, kwa hivyo kanuni zinazosimamia matumizi ya AI ya darasa zinaandikwa na watu wanaozisimamia badala ya kutolewa kwao. 
+
+## Dhana Potofu za Kawaida
+
+**"Kutumia AI kwa mahususi kunamaanisha kuitumia kidogo."** Ushiriki mahusisi ni hali ya matumizi, si kiasi cha matumizi. Katika **vipindi 42 vya darasa** katika utafiti wa Romania wa sekondari ya chini, **15 (35.71%) vilikuwa vya kutegemea AI** na **16 (38.10%) viliongezwa na AI**, huku **11 (26.19%) tu vikiwa vya mahususi kwa AI**, hivyo vipindi vilivyoongezwa na vile vya mahusisi vyote vinahusisha zana, na tofauti ni kama wanafunzi waliichunguza. Uhaba wa hali mahusisi ni tatizo la kufundisha, si tatizo la matumizi.
+
+**"Ujuzi wa AI ni seti ya ujuzi isiyoegemea upande."** Mbinu mahusisi huuchukulia kama mazoezi ya upinzani na mabadiliko ya kijamii, jambo linalofanya fremu yenyewe ibishwe. Mtaala wa ujuzi unaofundisha mbinu ya kuandika ilani na kuacha maslahi ambayo mfumo unautumikia umefundisha ufasaha katika zana huku ukikubali siasa zake bila kuchambua.
+
+**"Mbinu mahusisi ni ukosoaji unaotolewa kutoka nje ya mazoezi."** Ni msimamo kuhusu jukumu la mwalimu: kuuliza nani ananufaika, maarifa ya nani yanapewa kipaumbele, na jinsi shule inavyozalisha au kupinga mamlaka. Ikitekelezwa kwenye upitishaji wa AI, hiyo inamaanisha kuchunguza mantiki ya kibiashara na ya kibepari inayounda ununuzi: maswali ambayo mwalimu anaweza kuuliza kuhusu chaguzi za taasisi yake mwenyewe, si kuhusu teknolojia kwa ujumla tu.
+
+**"Kuweka epistemolojia zilizotengwa katikati ni nyongeza ya maudhui ya mtaala."** Inabadilisha maarifa ya nani yanahesabika kuwa maarifa, ambayo ni swali kuhusu muundo wa kozi badala ya usomaji ulioongezwa. Nyongeza za maudhui huacha fremu ikiwa kama ilivyo; dai la mbinu mahusisi liko kwenye fremu.
+
+## Athari kwa Mazoezi
+
+**Kwa walimu**
+
+- Hesabu vipindi vyako vya mahusisi. Kama takwimu ya 26.19% inaelezea mazoezi yako, lengo ni mabadiliko ya hali ya matumizi badala ya matumizi machache.
+- Fanya ununuzi kuwa kitu kinachoweza kufundishwa: uliza pamoja na wanafunzi ni maslahi ya nani zana iliyochaguliwa inayatumikia, na nani anabeba gharama ya hitilafu zake.
+- Chukulia ujuzi wa AI kama uchunguzi wa mfumo, si uwezo wa kuitumia tu.
+
+**Kwa watengenezaji na wasimamizi**
+
+- Tarajia mbinu mahusisi ichunguze muundo wako wa motisha badala ya orodha yako ya vipengele, na ijibu swali kuhusu maarifa ya nani yanayosimbwa na matokeo ya chaguo-msingi.
+
+**Kwa watafiti**
+
+- Ripoti mgawanyo wa hali za ushiriki katika madarasa, si matumizi ya wastani tu, kwa kuwa wastani huficha kama mazoezi yoyote mahusisi yapo.
 
 ## Dhana Zilizounganishwa
 

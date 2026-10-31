@@ -5,7 +5,7 @@ type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,12 @@ Onyo nne, kila moja lilitolewa katika kurasa za chanzo:
 2. **Pendelea mbinu zinazozingatia mtu wakati matokeo ni utofauti.** Masudio ya wataalamu wanaojiandaa na ya meneja yote yanawasilisha badiliko hilo kama mchango wao wa mbinu, kwa sababu watabiri wa wastani hawawezi kufichua mipangilio inayothibitisha msaada uliotofautishwa.
 3. **Ripoti ushahidi wa kukaa kwa ukamilifu.** Chapisha kulinganisha kwa BIC/AIC, entropy, ukubwa wa wasifu, na ukaguzi wa uthabiti, na sema kwa uwazi wakati idadi ya tabaka ni ya uchunguzi.
 4. **Itende wasifu kama vigezo vya uchunguzi, si lebo.** Wasifu ni muundo wa utafiti wenye mpaka unaokadiriwa, hivyo zana inayopanga watu binafsi katika kategoria za majina inabeba onyo la kifaa chochote cha [[educational-measurement|upimaji]] — na [[differential-effects-across-learner-groups|athari tofauti kati ya vikundi vya wanafunzi]] zinastahili uangalifu wa uchanganuzi wowote wa vikundi vidogo.
+
+## Dhana Potofu za Kawaida
+
+- **"Uchanganuzi wa wasifu fiche hugundua makundi yaliyopo."** LPA hubadilisha utofauti wa wanafunzi kutoka dai la balagha hadi ugunduzi unaopimika, na wasifu ni **mfano wa mwendelezo uliogawanywa kwenye mipaka iliyochaguliwa**, si aina za asili. Idadi ya wasifu ni uamuzi wa uchanganuzi.
+- **"Mwanachama yeyote wa familia ya viambishi fiche ni sawa."** Unachotumia **hufuata viashiria**: **LCA kwa viashiria vya kategoria**, LPA kwa vinavyoendelea. Kuchagua mbinu kwanza na viashiria baadaye hufanya matokeo kuwa zao la chaguo.
+- **"Wasifu hulinganishwa kati ya masomo."** Chen na wenzake waliweka wasifu wa **walimu 128 wa kabla ya utumishi wa Taiwan** kwenye viambajengo vitano vya [[technology-acceptance-model|TAM]]/UTAUT2, wakati Acquah na wenzake waliweka wasifu wa **wanafunzi 509 wa shahada ya kwanza wa Ghana**. Viashiria tofauti katika makundi tofauti havizalishi lebo za wasifu zinazoweza kulinganishwa.
 
 ## Dhana Zilizounganishwa
 

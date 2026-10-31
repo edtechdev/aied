@@ -8,7 +8,7 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Kujifunza kwa lugha nyingi ni kipengele kikuu cha usawa cha [[ai-education|AI ka
 
 AI ya lugha nyingi lazima izidi tafsiri ili kuonyesha [[culturally-relevant-pedagogy|mafunzo yanayohusiana na tamaduni]] — kuzalisha maudhui yanayofaa kwa lugha na miktadha. Masomo ya [[llm-cultural-relevance-k12|uhusiano wa tamaduni wa LLM katika K-12]] na [[scaffolding-critical-engagement-genai-minority-students|ushiriki mahususi na GenAI kati ya wanafunzi wa makundi madogo]] yanaonyesha kwamba upatanisho wa lugha na tamaduni huba jinsi wanafunzi wanavyonufaika kweli. Bila kushughulikiwa, upendeleo wa lugha moja katika AI unazamisha [[digital-divide]] na kudhoofisha [[equity-in-ai-education|Usawa]] katika [[global-south|Global South]].
 
+Ubadilishaji wa lugha (translanguaging) ni fursa ambayo chatbots za kizalishaji huongeza ambayo zana za zamani za lugha hazikuwa nazo. Katika mapitio ya kimfumo ya masomo 24, wanafunzi waliomba misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya badala ya ile iliyofungwa upya ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
 ## Upendeleo wa tathmini
 
 Wasiwasi wa lugha nyingi yanaathiri pia [[automated-assessment|tathmini za kiotomatiki]]: [[ai-scoring-language-bias-physics|alama za AI zinaweza kuonyesha upendeleo wa lugha]] (k.m., katika [[physics-education|fizikia]]), na kuwadhibiti wasemaji wasio wa asili. Kuhakikisha zana za tathmini ni za usawa katika lugha zote ni sehemu ya [[assessment-validity]].
@@ -61,6 +63,12 @@ Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi
 - **Onyesha tamaduni na miktadha, si tafsiri tu.** AI ya lugha nyingi lazima izidi tafsiri hadi [[culturally-relevant-pedagogy|mafunzo yanayohusiana na tamaduni]] — zalisha maudhui yanayofaa kwa lugha na miktadha ([[llm-cultural-relevance-k12|uhusiano wa tamaduni wa K-12]]).
 - **Unganisha AI na miundo ya msaada ya lugha nyingi.** Tumia hali za sauti-kwanza na za mdomo ([[kutti-ai-voice-first-learning-companion|wenzio wa sauti-kwanza]]) pale AI inayotegemea maandishi inashindwa, na saidia [[self-regulated-learning|kujidhibiti]] katika miktadha ya lugha mbili ([[bilingual-llm-lecture-companion-srl-2026|mwenzio wa somo wa lugha mbili]]).
 - **Angalia pengo la kidijitali.** Upendeleo wa lugha moja katika AI unazamisha [[digital-divide]] na kudhoofisha upatikanaji katika [[global-south]] — panga miundombinu na upatikanaji wa usawa pamoja na uchaguzi wa zana.
+
+## Dhana Potofu za Kawaida
+
+- **"Lugha lengwa inapaswa kutawala kuanzia siku ya kwanza."** Katika **mapitio ya kimfumo ya masomo 24**, wanafunzi waliomba **misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa**, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya kwa kweli badala ya njia ya kukwepa. Msaada wa lugha ya nyumbani ulifanya kazi kama ngazi ya msaada, si kama kuepuka.
+- **"Tathmini ya lugha ya AI ina upendeleo dhidi ya waandishi wa lugha nyingi."** Hapa upendeleo ulifuatia **msingi wa binadamu badala ya modeli**: uamuzi wa kulinganisha unaotegemea LLM kwa **uandishi wa habari wa Madaraja 3-6 ulikubaliana na rubriki za watafiti (r = .59-.73)** na ukaonyesha mwelekeo ule ule wa wataalam wa binadamu. Huo si ushahidi wa haki kwa maneno kamili; ni ushahidi kuwa modeli haikuleta upotoshaji mpya juu ya ule uliopo.
+- **"Matokeo ya ubora wa tafsiri ndiyo sehemu yenye manufaa."** Matumizi ya daraja ni ya ufafanuzi na ya kimuktadha, si ya kuchukua nafasi. Zana inayochukua nafasi ya uzalishaji wa mwanafunzi mwenyewe huondoa mazoezi ambayo daraja lililenga kuwezesha.
 
 ## Dhana Zilizounganishwa
 
@@ -85,3 +93,4 @@ Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
 - [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
 - [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Chatbots za GenAI huwezesha ubadilishaji wa lugha, matumizi ambayo zana za zamani za lugha hazikuunga mkono

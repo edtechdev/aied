@@ -7,7 +7,7 @@ assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, fe
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 Hii ni dhana kuu ya mawazo yanayohusiana na maoni katika hifadhi hii ya maarifa. Maoni hukaa katika makutano ya tathmini na kujifunza: bila maoni, tathmini hupima utendaji lakini haiboreshi; na maoni yenye ufanisi, tathmini inakuwa tukio la kujifunza. Hifadhi hii ya maarifa inachukulia maoni kama **mfumo** wenye pande nyingi — ubora wa maoni yenyewe ([[ai-feedback-quality]]), mzunguko ambao kwa njia yake unafunga pengo la kujifunza, uwezo wa mwanafunzi wa kuyatumia ([[feedback-literacy]]), na miktadha ya tathmini ambamo yanafanya kazi ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** wanaonyesha kuwa mtazamo wa wanafunzi kuhusu *chanzo* cha maoni (AI dhidi ya binadamu) kinaunda kujifunza kwa kujidhibiti kutoka maoni ya [[generative-ai|GenAI]] — kizuizi muhimu kwa madai ya ufanisi wa maoni.
-- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** wanatenga chanzo kutoka maudhui: wanafunzi 472 wa EPFL walikadiria maoni ya binadamu na ya GPT-4.0 yanayolingana kwa maudhui juu ya kazi zao wenyewe, kwanza bila ufahamu wa chanzo na kisha tena baada ya chanzo kufichuliwa, na wengi hawakuweza kuwatofautisha kwa uhakika (287 kati ya 472 walibashiri kwa usahihi). Baada ya lebo kufichuliwa, ukadiriaji wa toleo la AI ulishuka na la binadamu likapanda — kwa kiasi chenye umuhimu kwa Ukweli (p < .01) — na uaminifu wa mtoaji ulitenganika wazi (binadamu μ = 3.28 dhidi ya AI μ = 2.25, Cohen's d = 0.57). Upendeleo unashikamana na mtoaji badala ya maandishi, kwani matoleo mawili yalilingana kwa usahihi na ubora wa kiakili.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** wanatenga chanzo kutoka maudhui: wanafunzi 472 wa EPFL walikadiria maoni ya binadamu na ya GPT-4.0 yanayolingana kwa maudhui juu ya kazi zao wenyewe, kwanza bila ufahamu wa chanzo na kisha tena baada ya chanzo kufichuliwa, na wengi hawakuweza kuwatofautisha kwa uhakika (287 kati ya 472 walibashiri kwa usahihi). Baada ya lebo kufichuliwa, ukadiriaji wa toleo la AI ulishuka na la binadamu likapanda — kwa kiasi chenye umuhimu kwa Ukweli (p < .01) — na uaminifu wa mtoaji ulitenganika wazi (binadamu μ = 3.28 dhidi ya AI μ = 2.25, Cohen's d = 0.57). Upendeleo unashikamana na mtoaji badala ya maandishi, kwani matoleo mawili yalilingana kwa usahihi na ubora wa kiakili. [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]] wanaendeleza uaminifu wa maoni hadi kujifunza: kati ya wanafunzi 230 wa biashara baada ya insha iliyosaidiwa na AI, uaminifu ulitabiri kujifunza kunakohisiwa, huku uwezo unaohisiwa na huruma inayofanana na ya binadamu vikiwa vitangulizi vyake.
 
 ## Mfumo wa maoni
 
@@ -46,6 +46,9 @@ Maoni yanaeleweka vyuri zaidi si kama tukio moja bali kama mfumo unaoungana wa s
 - **[[formative-assessment]]** — muktadha wa tathmini ambamo maoni yanatumika kuboresha kujifunza wakati bado unaendelea, badala ya kuhukumu tu.
 - **[[peer-assessment]]** — maoni yanayobadilishwa kati ya [[learners]], yanavyoongezeka na AI na ni mahali pa kukuza ujuzi wa maoni.
 - **[[automated-assessment]]** — alama na maoni yanayoendeshwa na AI, kutoka [[automated-essay-scoring|alama za insha zinazoendeshwa kiotomatiki]] hadi kuweka alama kwa majibu mafupi yanayotambua uhakika.
+
+- **Sehemu hizo hubadilishana.** Kubuni maoni kunamaanisha kuchagua kati ya urahisi wa matumizi, vyanzo na uendelevu badala ya kuongeza vyote vitatu; [[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]] wanachukua uendelevu kama nguzo ambayo haipaswi kutegemea mtu, rasilimali au hali ya kitaasisi yoyote moja.
+- **Maoni yasiyoweza kuona marekebisho hurudiwa.** Katika mchezo wa kujifunza sayansi ambao mawakala wake walikosoa rasimu za hoja, wanafunzi walirekebisha katika mizunguko kadhaa, lakini mfano wa 8B uliopunguzwa ulirudisha ukosoaji ule ule kwa rasimu iliyoboreshwa, hivyo mzunguko uliohamasisha marekebisho pia ulizalisha kufadhaika kulikokomesha ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 ### Mzunguko wa maoni
 
@@ -133,6 +136,12 @@ Maoni ni moja ya mbinu zenye athari zaidi na zenye ushahidi bora zaidi katika el
 
 - **Maoni yanaweza kulenga yule anayetoa maoni.** Mafunzo ya walimu ni muktadha wa maoni usiochunguzwa vya kutosha: mifumo ya kiotomatiki inayopanga-lebo majibu ya wazi ya walimu ili kuainisha aina za sifa (sifa ya msingi wa juhudi — aina inayotarajiwa inayoelekea mchakato — dhidi ya msingi wa matokeo dhidi ya msingi wa mtu, aina isiyotarajiwa zaidi inayomtaja mtu) inaweza kutoa maoni ya maelezo yanayobadilisha tabia ya kufundisha. Kizuizi kinachofunga ni data yenye lebo ya mtaalam. Mbinu ya kuongeza — GPT-4o inazalisha majibu ya lebo ya bandia ikipanua seti ya chini ya rasilimali 13 hadi 520, kisha inaboresha GPT-3.5 — inarejesha mengi ya pengo: F2 +20.5% kwa sifa ya msingi wa juhudi, +17.3% kwa msingi wa matokeo, na +16.5% kwa kategoria ya msingi wa mtu *isiyoonekana*. Jaribio la ujumla kwa aina ya sifa isiyoonekana ni ukaguzi wa uhalali unaotenga hii kutoka kufaa kupita kiasi, na mbinu ni karibu kwa distilishaji ya mfano wa mwalimu kuliko kuongeza kwa kawaida. ([[xu-automated-feedback-tutor-training-2025]])
 
+## Dhana Potofu za Kawaida
+
+- **"Wanafunzi hawawezi kutofautisha maoni ya AI na maoni ya binadamu."** Wanaweza, na lebo hubadilisha hukumu: **mara lebo ilipofichuliwa, ukadiriaji wa toleo la AI ulishuka na la binadamu likapanda, kwa kiasi chenye umuhimu kwa Ukweli (p < .01)**. Uaminifu wa mtoaji uliunda tathmini ya maoni yenye mtindo sawa.
+- **"Kibali cha maabara kinatabiri matumizi ya muhula."** **Kibali cha maabara si matumizi ya muhula**: **wanafunzi 18 wote** walitikia kwa chanya kazi ya maelezo ya GenAI katika vipindi vya maabara, **hata hivyo nusu tu waliitumia wakati wa muhula**. Pengo la nia na matumizi ni tatizo la ubuni.
+- **"Maoni ya marekebisho ya papo hapo yametatuliwa na LLM."** Kuyazalisha ndani ya mkufunzi ni **yanayowezekana lakini si kamili**: katika **miamala 6,926 iliyorekodiwa** katika mkusanyiko wa Apprentice Tutor, maoni yalikuwa mazuri vya kutosha kutumika na hayakuwa mazuri vya kutosha kudhani usahihi.
+
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — Milolongo ya maoni iliyopimwa, ikijumuisha kwa nini maoni ya AI ya ubora wa juu zaidi hayakutoa marekebisho zaidi
 - [[eportfolio]]
@@ -152,6 +161,9 @@ Maoni ni moja ya mbinu zenye athari zaidi na zenye ushahidi bora zaidi katika el
 - [[writing-education]]
 
 ## Makala Zilizounganishwa
+
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Agent feedback that repeated itself across revisions (Humburg et al. 2025)
+- [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Maoni ya kiotomatiki kwenye uandishi wa maelezo: jukumu la upokeaji na mtazamo wa maoni kwa wanafunzi wa sekondari
 - [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini ya furaha, na nafasi ya tatu
 - [[student-perspectives-ai-writing-grading-2026]] — Mitazamo ya wanafunzi kuhusu tathmini ya uandishi inayosaidiwa na AI iliyo wazi (AlGhamdi 2026)

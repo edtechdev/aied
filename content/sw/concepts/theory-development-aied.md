@@ -9,7 +9,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-09-30T12:20:22-04:00"
+source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ ai_assist:
 
 Uundaji wa nadharia katika AIEd unakaa katika mpaka kati ya [[learning-theories|nadhari za kujifunza]] za kivitendo ambazo uwanja huzitegemea na dhana mpya ambazo enzi ya AI inazalisha. Hapo [[learning-theories]] inapoorodhesha nadhari zilizokwishakithiri zinazotumika kwa AI (behaviorism, ujenzi, mzigo wa kiakili, kujitenda, n.k.), dhana hii inafuatilia *mchakato na bidhaa ya kutunga nadharia yenyewe*: ni nadhari na miundo ipi inayozaliwa, jinsi nadhari zilizokwishakithiri zinasukumwaje mbele, na swali la mbinu ya kama utafiti wa AIEd unatunga nadharia vizuri.
 
+- **Mfumo unaobainisha hali yake ya ulinganisho.** Nakamura (2026) anachukua mgawanyo wa kazi ya kiakili kama kipimo cha maelezo, anaweka shughuli kwenye mwendelezo wa kiwango cha pembezoni hadi msingi, anataja hali ya ulinganisho ambayo kwayo uimarishaji na mmomonyoko hufafanuliwa, na anatoa madai saba ya majaribio yenye masharti ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Kwa kuwa madai hayo yanatabiri tofauti kati ya usanidi, somo linaloripoti athari ya wastani pekee haliwezi kuyathibitisha au kuyakanusha.
+
 ## Nadharia mpya za kujifunza na AI
 
 Kundi linalokua la makala linaunda wazi nadharia mpya kwa enzi ya AI badala ya kutumia mirifumo iliyopo:
@@ -43,6 +45,8 @@ Kundi linalokua la makala linaunda wazi nadharia mpya kwa enzi ya AI badala ya k
 - **Generativism.** [[generativism-learning-theory|Generativism]] inapendekezwa kama nadharia mpya ya kujifunza, ikidai kuwa behaviorism, cognitivism, [[constructivist|ujenzi]], na connectivism kila moja hutegemea dhana moja ambayo AI inayozalisha inavunja: kuwa matokeo yanayoweza kuonekana yanathibitisha kujifunza (behaviorism), kuwa shughuli za kiakili hutokea ndani ya mwanafunzi (cognitivism), kuwa maana inajengwa badala ya kutolewa (ujenzi), na kuwa sehemu ngumu ni kupitia maelezo ya maarifa yaliyopo badala ya kuzalisha maarifa (connectivism). Inataja dhana nne — ushirikiano wa kiakili, wakala uliogawanywa, ujuzi wa kuzalisha, na metaji inayobadilika — na inatoa kigezo cha tathmini kwa kila moja, ombi la moja kwa moja la kuita paradigma ya kinadharia tofauti ya kujifunza kwa njia ya AI. Kile ambacho haifanyi ni kutangaza madai ambayo yanaweza kushindwa: ni karatasi ya msimamo inayounganisha ushahidi uliopo, hivyo tofauti na Agentivism hapa chini inatoa msamiati na mpango wa upimaji badala ya nadharia inayoweza kukanushwa.
 
 - **Muunganisho wa AI.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] wanajenga upya muunganisho kwa enzi ya AI kupitia maadili ya utunzaji na nadharia ya neo-ikolojia, wakifafanua "muunganisho wa akili bandia" kama muunganisho wa kisaikolojia halisi lakini usio na usawa wa maadili wenye vipimo vitatu na madhai sita yanayoweza kukanushwa yanayosubiri maendeleo ya skela.
+
+- **Mzunguko wa ushirikiano wa kiakili.** [[page-cognitive-partnership-cycle-human-ai-2026|Page (2026)]] anapendekeza Mzunguko wa Ushirikiano wa Kiakili, mfano wa kurudia wa awamu sita, Swali la Binadamu, Upanuzi wa AI, Tafakari ya Binadamu, Muunganisho, Marekebisho, na Swali Jipya, unaoweka kujifunza katika mabadiliko ya msimamo wa kiakili wa mwanafunzi badala ya ustadi wa ilani, na unataja hali nne za kushindwa ambapo urudiaji ule ule unachukua nafasi ya ufikiri au kuupotosha.
 
 Msimamo wa bandia unaongeza ombi la ushindani ambalo linatangaza madai: linataja *matangazo ya bandia* na *usimamizi wa uandishi* — nafsi inayosautiwa kwa wingi lakini isiyoandikwa — na linatabiri mwingiliano wa kupishana ambapo uandishi na ulinganifu wa hadithi ya maamuzi ya maisha vilivyokadiriwa husonga kwa mwelekeo tofauti ([[synthetic-position-self-authorship-2026|Du et al. (2026)]]).
 - **Agentivism.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] wanapendekeza Agentivism kama nadharia ya kujifunza ya kiwango cha kati ya mwingiliano wa binadamu-AI, wakifafanua kujifunza kama ukuaji wa kudumu wa uwezo wa binadamu badala ya kukamilisha kazi kwa mafanikio na AI, na wakitaja mifumo minne: wakala uliokabidhiwa, ufuatiliaji na uhakiki wa kiakili, uingizaji upya wa ndani, na uhamisho chini ya msaada uliopunguzwa. Kile kinachoitenga kwa maombi mengine kwenye ukurasa huu ni uwezo wa kukanushwa: inatangaza madhai sita, ikijumuisha kuwa kujifunza ni imara zaidi wakati AI inahifadhi uwajibikisho wa mwanafunzi kwa kuweka muundo wa shida, kuweka vigezo na udhibitisho kuliko inapotolea majibu, na kuwa kuhitaji uhakiki kunapaswa kuboresha utendaji ulioahirika huku ukabidhiwa mara kwa mara bila upya usio na mwendo usiozui ukiwapunguza wanafunzi urekebishaji wao wa uwezo wao wenyewe.
@@ -76,6 +80,10 @@ Mchango zaidi wa mfumo ni [[rismanchian-ai-education-four-decades-aixed-2026|tak
 
 **Falsafa ya kulinganisha kama njia ya utofauti wa kinadharia.** Xie (2026) anaiga njia tofauti ya maendeleo ya nadharia: badala ya kutunga nadharia ya AI katika elimu kutoka ndani ya tamaduni moja, karatasi huelekeza mazungumzo ya kulinganisha ambapo kila tamaduni "hufanya kuonekana kile ambacho nyingine huficha," ikikataa wazi kuziunganisha katika mfumo mmoja — mbinu inayochukua utofauti wa kinadharia kama msimamo wa mbinu badala ya makubaliano yasiyotatuliwa. Anadai tamaduni zisizo za Magharibi zinaweza kufanya zaidi ya kuongeza mseto wa mijadala; zinaweza kuunda upya msingi wa dhana za nadharia ya AIEd, zikijenga upya "asili ya Dao" (道性) ya Kitaoisti, ukuzaji wa nafsi (修道) na "Zhenren" (真人) kama rasilimali za kufikiri upya [[agency]], malengo ya kiakili ya elimu na [[ethics|tendo]] la maadili chini ya hali zinazoendeshwa na AI. Anataja pia mipaka kwa uwazi: mchango ni wa mwandishi mmoja, usio wa kimaandishi, na anaonya kuwa utafsiri kama huo unahitaji kuwekwa muktadha ili kuepuka kupendeza na Orientalism.([[daoism-ai-education-philosophy-2026]])
 
+Kitendawili cha msuguano kinatoa upanuzi mwingine wa nadharia iliyokwishakithiri: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] anatumia [[desirable-difficulties|ugumu unaotamanika]] wa Bjork na Bjork na [[productive-failure|kushindwa kwa tija]] ya Kapur kwa mikutano ya mahusiano katika elimu ya nje ya nchi, akidai kuwa kinachojalisha ni kiasi cha [[transfer-of-learning|uhamishaji]] wa wakala wa kufasiri kutoka kwa mwanafunzi hadi kwa msaidizi wa kizalishaji badala ya mara anazotumia. Mfumo ni wa kimawazo na unataja madai matano kama dhana shindani.
+
+[[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] wanasukuma mbele uainishaji wa kiutendaji wa uwanja wa Zawacki-Richter et al. (2019): miongoni mwa machapisho 154 yenye kazi ya matumizi inayoweza kuainishwa, 90 (58.4%) yalitoroka makundi yake manne, na mfumo wao unavuka kazi na udhibiti uliokabidhiwa, msimamo wa kiakili na ufundishaji ulioingizwa.
+
 ## Tatizo la matumizi ya nadharia katika AIEd
 
 Utungaji wa nadharia wa uwanja hautofautiani kikamilifu. [[limitations-in-aied-research|Vikomo katika utafiti wa AIEd]] vinarekodi kuwa masudio ya AIEd mara nyingi yanatumia nadharia kwa udhaifu au bila kufikiri — udhaifu wa mbinu unaojirudia pamoja na mapengo ya kurudia na ya upimaji. Mapitio yanagundua masudio mengi ya AIEd yanatumia nadharia kwa unene au pasipo kabisa (mfano, [[llm-critical-thinking-teamwork-review|mapitio ya fasihi]] yanayoonya masudio machache yanaweka uingiliaji katika nadharia ya kujifunza). Hii inafanya maendeleo ya nadharia — na matumizi ya nadharia — kuwa wasiwasi wa ubora kiasi kile kama pato la kitaaluma, ikihusiana na [[research-methods-aied|mbinu za utafiti]] na [[ai-ed-evaluation]].
@@ -84,7 +92,34 @@ Utungaji wa nadharia wa uwanja hautofautiani kikamilifu. [[limitations-in-aied-r
 
 Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika elimu]] ni mistari inayojazana lakini tofauti ya kazi ya msingi ya hifadhi hii ya maarifa. **Maendeleo ya nadharia** yanazalisha na kufanyiwa majaribio kimaandishi *mifumo* ya kujifunza-pamoja-na-AI — nadhari na mirifumo iliyotajwa kama generativism, wakala mwenza wa kiakili, na msingi wa kiasali uliopungua ambayo yanaeleza na kutabiri jinsi wanafunzi na AI wanavyoshirikiana. **Falsafa** inajiuliza *dhan za msingi* ambazo mifumo hiyo hutegemea: kile kinachohesabiwa kama maarifa, nani anahesabiwa kama mjuzi, na kile mwanafunzi alivyo kwa msingi. Nadharia kama [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|wakala mwenza wa kiakili]] inapendekeza mfumo huku ikipitisha kwa kimya dhamana za kifalsafa kuhusu akili iliyogawanywa na [[agency]]; falsafa inafanya dhamana hizo kuwa wazi na zinazoweza kupingwa. Hapo maendeleo ya nadharia yanauliza kama mfumo unaeleza kujifunza vizuri, falsafa inauliza kama inakamata kile kujifunza na akili zilivyo kweli — mistari miwili hukutana katika makala ya msingi zaidi ya uwanja, ambayo mara nyingi hufanya yote mawili kwa wakati mmoja.
 
+## Dhana Potofu za Kawaida
+
+**"Ugunduzi kwamba zana ilifanya kazi ni mchango wa kinadharia."** Sivyo, na sababu ni ya kimuundo. Pale madai ya mfumo yanatabiri *tofauti kati ya usanidi*, somo linaloripoti athari ya wastani pekee **haliwezi kuthibitisha au kukanusha** hayo, kwa kuwa muundo hauwezi kuona tofauti ambayo nadharia inaihusu. Jaribio linaloonyesha faida ya wastani linakuambia jambo fulani lilitokea, si utaratibu upi uliisababisha, hivyo nadharia inabaki kama ilivyokuwa awali.
+
+**"Kutumia nadharia iliyokwishakithiri kwa AI ni uundaji wa nadharia."** Tatizo la matumizi ya nadharia la ukurasa huu linasema kinyume: matumizi si maendeleo, na mtindo unaojirudia wa uwanja ni dhana zilizokopwa zinazotumika kama msamiati badala ya utabiri unaoweza kujaribiwa. Tofauti hii ni muhimu kwa sababu mfumo uliokopwa ambao hauwezi kuzalisha tofauti inayoweza kukanushwa ni mapambo, si nadharia.
+
+**"Uainishaji uliopo wa kazi ya kielimu ya AI tayari unafunika kile mifumo hii inachofanya."** Haufuniki sehemu kubwa yake. Miongoni mwa machapisho 154 yenye kazi ya matumizi inayoweza kuainishwa, **90 (58.4%) yalitoroka makundi manne** ya mfumo uliotangulia, ndiyo sababu kazi mpya inavuka kazi na udhibiti uliokabidhiwa, msimamo wa kiakili na ufundishaji ulioingizwa. Uainishaji unaokosea takriban watatu kati ya watano hauwezi kutumika kama msamiati wa pamoja wa uwanja, na pengo hili ni ugunduzi kuhusu jambo lenyewe badala ya pengo katika karatasi.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji na wabuni wa mafunzo**
+
+- Somo linaporipoti athari ya wastani, usiichukue kama mwongozo kuhusu usanidi *wako*. Madai ya ngazi ya nadharia yanahusu tofauti kati ya usanidi, na wastani hauwezi kukuambia unaendesha upi.
+- Uliza kuhusu mfumo wowote unaoutumia kama unatabiri jambo ambalo linaweza kutokea kuwa la uongo katika mazingira yako. Kama hauwezi, hautakusaidia kuamua chochote.
+- Tarajia makundi yaliyopo kukosa kesi yako; zaidi ya nusu ya machapisho yaliyoainishwa hayakuingia katika mgawanyo wa kawaida wa nne.
+
+**Kwa watengenezaji**
+
+- Ripoti usanidi badala ya athari moja ya kichwa. Kama ubunifu wako unajumuisha mchanganyiko mahususi wa udhibiti uliokabidhiwa na msimamo wa kiakili, sema hivyo; hicho ni kipimo ambacho nadharia inakihusu na kipimo ambacho timu nyingine inahitaji kuzalisha upya.
+- Usitangaze dai la utaratibu kwa nguvu ya matokeo ya wastani; aina ya ushahidi inayohitajika kwa utaratibu ni utofautishaji, si wastani.
+
+**Kwa watafiti**
+
+- Buni kwa ajili ya utofautishaji wa usanidi kama unakusudia mchango wa kinadharia. Jaribio la athari ya wastani linalochapishwa kama uundaji wa nadharia ni pato la kawaida zaidi na lisilo na manufaa zaidi la uwanja.
+- Ambatanisha madai wazi yanayoweza kukanushwa kwa mfumo wowote unaouanzisha, na ripoti ni tofauti zipi za usanidi ambazo zingeyakanusha.
+
 ## Dhana Zilizounganishwa
+
 - [[learning-theories]]
 - [[philosophy-of-ai-in-education]]
 - [[limitations-in-aied-research]]
@@ -100,6 +135,9 @@ Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika el
 - [[cognitive-surrender]]
 
 ## Makala Zilizounganishwa
+- [[ranieri-biagini-ai-higher-education-taxonomy-review-2026]] — Kupanua uainishaji wa kiutendaji: machapisho 90 kati ya 154 yanayoweza kuainishwa (58.4%) yako nje ya makundi manne ya awali (Ranieri & Biagini 2026)
+- [[page-cognitive-partnership-cycle-human-ai-2026]] — Mzunguko wa ushirikiano wa kiakili
+- [[friction-paradox-generative-ai-education-abroad-2026]] — Ugumu unaotamanika na kushindwa kwa tija vikitumika kwa wakala wa kufasiri katika elimu ya nje ya nchi
 - [[yan-agentivism-learning-theory-ai-2026]] — Nadharia ya kujifunza ya kiwango cha kati ya mwingiliano wa binadamu-AI, yenye mifumo minne na madhai sita yanayoweza kufanyiwa majaribio (Yan and Gašević 2026)
 
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Kupitisha kwa ujumla kwa udanganyifu: ustadi unaobadilika unaweza kusitisha mazoezi kabla ya wanafunzi kujua lini kukana kitendo (An, McLaren & Stamper 2026)

@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [designing-ai-into-learning]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -184,6 +184,12 @@ Mifumo hapa chini inakuja kutoka mwongozo wa wataalam uliotolewa na mtunzaji wa 
 - **Mpango + jaribu + badilisha** (mafanikio ya chuo kikuu). Badilisha tafakari ya usimamizi wa muda ya jumla na mpango wa kusoma wa wiki moja, rekodi fupi ya kujaribu, na marekebisho yaliyoungwa na yaliyotokea; AI inaweza kupendekeza chaguo za kupanga baada ya mwanafunzi kutambua vikomo.
 
 Onyo la mwongozo lenyewe linatumika: video zilizorekodiwa, tafakari na kumbukumbu zinaweza kuwa za kusaidiwa na AI zenyewe, hivyo katika kozi zisizo na kufuatana kabisa rekodi haipaswi kutendewa kama uthibitishaji wa ujuzi huru. Mbili za mifumo yake — mapacha ya tathmini na tathmini ya mdomo bila kufuatana kama kinga dhidi ya udanganyifu — zinabaki mifumo inayosubiri uthibitishaji; masudio ya tathmini ya mdomo bila kufuatana yaliyotajwa hapo juu yalipima alama za umbo na hayakupima udanganyifu kabisa.
+
+## Dhana Potofu za Kawaida
+
+- **"Mazoezi yoyote yanayotolewa na AI ni mazoezi."** Hali ya kurejesha kumbukumbu kwa vipindi iliyobadilika ilizalisha **alama za juu zaidi za mtihani wa baada (M = 78.19)** na **ilishinda kwa kiasi kikubwa masomo ya AI yanayoongozwa na mwanafunzi (M = 67.28)**. Mpangilio unaoongozwa na mwanafunzi ulifanya vibaya kuliko ule uliopangwa, hivyo uhuru si ubuni bora kiotomatiki.
+- **"Kusoma na chatbot ni bora kuliko kusoma bila."** **Kesi pinzani ni ya maamuzi**: katika [[rct|jaribio la nasibu]] la **wanafunzi 120**, kikundi kilichosoma **na** ChatGPT isiyo na mipaka kilihifadhi **kidogo zaidi kwenye mtihani wa ghafla**. Zana ilikuwa na madhara kwa uhifadhi katika mpangilio uliojaribiwa.
+- **"Ushahidi wa muundo ni jaribio kubwa la pamoja."** **Msaada imara zaidi ni wa moja kwa moja** na unatoka katika **jaribio la nasibu la ndani ya washiriki lenye wanafunzi 26**, ambapo [[scaffolding|ngazi za msaada]] za jibu la papo zilifanya kazi kwa njia tofauti kwa kiasi kikubwa. Ushahidi unaunga mkono muundo na unabaki mwembamba kwa kiwango, na ukurasa unapaswa kusomwa hivyo.
 
 ## Dhana Zilizounganishwa
 

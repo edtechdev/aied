@@ -12,7 +12,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -68,13 +68,15 @@ Majratibu matatu yaliyosajiliwa mapema yalibadilisha Jaribio la Tafakari ya Kiak
 
 Somo la vitendo ni kwamba kujisalimisha ni **kushindwa kwa kutofautisha** badala ya kushindwa kwa motisha. Washiriki waliokujisalimu hawakujaribu kuepuka kazi; hawakuweza kutofautisha ushauri mzuri na mbaya, na kiolesura hakuwapa sababu ya kujaribu.
 
+Jaribio lililosajiliwa mapema la [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] linatoa mipangilio pinzani. Msaidizi alipozungushwa na uongezaji wa urejeshaji hadi kwenye karatasi ya kazi iliyoteuliwa, hali ya AI ilipunguza upitishaji wa kazi ya kiakili (wastani −0.27) badala ya kuuongeza, na hakuna njia ya upitishaji iliyobeba kupanda kwa upungufu wa mpangilio (0.84). Kujisalimisha kunahitaji msaidizi ambaye ushauri wake unaweza kukubaliwa kikamilifu; mfumo unaojibu tu kutoka nyenzo iliyopo unampa mwanafunzi kidogo cha kukubali na kingi cha kupatanisha.
+
 ## Kujisalimisha nje ya maabara
 
 Matokeo ya maabara yanalingana na kazi ya uwanja na ya uchunguzi ambayo kwa njia huru ilifikia neno lile lile.
 
 - **Uhamisho wa kiwango cha idadi ya watu.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] wanachanganua muingiliano milioni 3.2 wa kujifunza wa ALEKS na muda wa majibu milioni 12.2 wa [[assessment|tathmini ya uwekaji]] katika paneli ya miaka kumi, huku matatizo yanayotegemea grafu yakihudumu kama vidhibiti vya yale yanayotegemea maandishi. Wanafunzi walikamilisha kazi inayoweza kuathiriwa na AI kwa haraka zaidi na kupata alama za juu juu yake wakati vipengele vya uhifadhi vilivyosimamiwa vilionyesha kupungua kwa jumla kwa 25% katika nafasi ya jibu sahihi; waandishi wanaiita muundo huo kujisalimisha kwa kiakili katika kiwango cha idadi ya watu.
 - **Uhakiki kama kigezo kinachotofautisha.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] wanagundua kuwa *jinsi* wanafunzi wanavyotumia AI ya kizalishaji inatabiri [[learning-gains|utendaji]] wakati *ni kiasi gani* wanavyotumia hautabiri chochote: upokeaji wa uhakiki mdogo — kukubali matokeo bila uhakiki — ulihusishwa na matokeo mabaya zaidi, na muunganisho wa kutathmini na matokeo mazuri zaidi.
-- **Matumizi bila mawazo hupunguza rasilimali zinazohitaji kujiongoza.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao na Gu (2026)]] wanaunda kukubali-bila-kutathmini moja kwa moja: katika wanafunzi 487 wa chuo kikuu, matumizi bila mawazo ya AI ya kizalishaji yalihusishwa na [[self-regulated-learning|kujifunza kwa kujiongoza]] cha chini (β = −0.42), sehemu kupitia kupungua kwa [[motivation|motisha]] na [[self-efficacy|uwezo binafsi]].
+- **Matumizi bila mawazo hupunguza rasilimali zinazohitaji kujiongoza.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao na Gu (2026)]] wanaunda kukubali-bila-kutathmini moja kwa moja: katika wanafunzi 487 wa chuo kikuu, matumizi bila mawazo ya AI ya kizalishaji yalihusishwa na [[self-directed-learning|kujifunza kwa kujiongoza]] cha chini (β = −0.42), sehemu kupitia kupungua kwa [[motivation|motisha]] na [[self-efficacy|uwezo binafsi]].
 - **Ufuatiliaji wa neva na umilikaji.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|utafiti wa deni ya kiakili wa EEG]] ulipima [[writing-education|kuandika insha]] na [[llm|LLM]], injini ya utafutaji na bila zana: kikundi cha LLM kilionesha muunganisho dhaifu zaidi wa neva, kuripoti umilikaji wa chini zaidi wa kazi zao wenyewe, na kupata shida kunukuu walichoandika.
 - **Kujisalimisha kunaweza kufika bila kuombwa.** [[ai-advice-suppresses-ikt-suspension-2026|Kazi juu ya kusimamisha hukumu]] iligundua kuwa upatikanaji wa ushauri wa AI tu uliangusha nia ya watu ya kusema "sijui" (0.06 dhidi ya 0.36, na 0.03 dhidi ya 0.44 katika masudio mawili), wakati usahihi ulishuka na uaminifu ukipanda kutoka kama 30 hadi 76. Maslahi hayakurejesha kusimamisha, ingawa motisha iliboresha usahihi kwa kuhimiza kuzuia. Utafiti wa nne ulionyesha athari bila ushauri wowote, muundo wa ukamilishaji-otomatiki au muhtasari wa utafutaji badala ya ilani ya gumzo.
 - **Hali za kutegemea na huru zinatofautishwa tu katika matokeo.** [[family-school-autonomy-support-genai-2026|Fan, Li na Zhang (2026)]] wanafuatia wanafunzi 589 na wafanyakazi wa mapema wa kazi katika mawimbi matatu: kupunguza mzigo kwa kutegemea kuliteua mawazo ya msingi na kufuatana na motisha ya asili ya chini, wakati kupunguza mzigo kwa uhuru hakufanya hivyo, na utendaji wa haraka ulionekana sawa katika zote mbili.
@@ -124,6 +126,7 @@ Ushahidi wa kujisalimisha kama muundo uliotajwa unategemea kwa kiasi kikubwa mpa
 - [[generative-ai]]
 
 ## Makala Zilizounganishwa
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Msaidizi aliyewekwa kwenye karatasi ya kazi alipunguza upitishaji badala ya kuuongeza, hali ya mpaka kwa alama ya kujisalimisha (Braun 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Nadhamia ya Mifumo-Mitatu na alama ya kimaanishi ya kujisalimisha
 - [[generative-ai-reduced-study-time-math]] — uhamisho wa kiwango cha idadi ya watu katika ALEKS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — mfumo wa kujisalimisha/kupunguza mzigo/wakala katika PreK-12

@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ Utafiti wa hifadhi hii ya maarifa unarekodi jinsi AI ya kizalishaji imeunda upya
 - **Makubaliano ya matokeo yanaweza kudumu licha ya ukadiriaji wa kipengele usio sahihi.** Dhidi ya alama rasmi zilizopimwa, LLM ya multimodal iliyokadiri kurasa 10,364 za Mkumbo wa Fizikia na za chuo kikuu ilihusishwa kwa r = 0.93–0.96 na ikapata timu ile ile ya wanafunzi watano ya kimataifa, ingawa makubaliano ya sehemu za swali kamili yalifika 70% — mkadiriaji hukumiwa na maamuzi anayoleta ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
 - **AI kama kuepuka.** Kwa sababu AI ya kizalishaji inaweza kuzalisha majibu ya maswali ya maandishi, kazi za mwisho zisizo na uangalizi na za nyumbani zinapoteza uhalali: [[generative-ai-reduced-study-time-math|vipimo vilivyo na uangalizi na bila msaada ni muhimu]] kwa sababu utendaji usio na uangalizi unapandishwa na AI, na zana [[generative-ai-guardrails-harm-learning|zilizo na vizagi (dokezo-si-jibu)]] zinaweza kuondoa adhabu ya mtihani ambayo AI bila vizagi inasababisha. [[chirikov-ai-grade-inflation-2026|Majaribio ya karibu-ya-majaribio ya Chirikov (2026)]] kwenye alama 500,000+ yanafanya mbinu iwe halisi: baada ya kutolewa kwa ChatGPT, kozi zilizo na kazi zenye mfiduo zaidi ya AI ziliona sehemu ya alama za A ikipanda kwa pointi 13 za asilimia, na athari ilijilimbikizia katika **kozi zenye kazi za nyumbani nyingi** (pointi 16 za ziada zaidi katika kadirio la tofauti tatu) — ushahidi wa moja kwa moja kwamba kazi za nyumbani zisizo na uangalizi, si [[learning-gains|faida halisi za kujifunza]], ndipo AI inapopandisha matokeo ya mwisho.
 - **Mitihani iliyozalishwa na AI.** [[assessing-quality-ai-generated-exams-field-2025|Utafiti wa uwanja wa kiwango kikubwa]] na [[ai-vs-human-assessment-efl-tpck-2026|utafiti wa tathmini ya EFL]] vinachunguza kama AI inaweza *kuzalisha* mitihani na kazi za tathmini zenye ubora wa juu — matumizi ya kubuni ya mwisho yanayoibuka ya AI.
+- **Wanafunzi hawawezi kutambua kwa kuaminika vipengele vilivyoandikwa na AI.** Katika mtihani wa Dawa ya Familia wenye alama, [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt et al. (2026)]] hawakupata tofauti kubwa katika ugawaji wa chanzo kati ya vipengele 30 vilivyozalishwa na AI na vipengele 30 vya mtihani wa leseni wa chaguo-nyingi, wastani wa utambuzi sahihi wa asilimia 68.6 hadi 77.5, na asilimia 18.2 ya vipengele vilivyozalishwa viliondolewa katika [[human-in-the-loop-ai|mapitio ya binadamu]].
 
 ## Mipangilio ya tathmini ya mwisho inayostahimili AI
 
@@ -66,9 +67,15 @@ Fasihi ya tathmini ya hifadhi hii ya maarifa inasisitiza kwa uthabiti kwamba [[a
 - **Muundo wa tathmini ya mwisho ni lever ya uhalali na uadilifu:** mipangilio ya tathmini ya mwisho inayostahimili AI (ya mdomo, ya uangalizi, ya vitabu vya kufungwa, ya mtu-mtu) inahifadhi uhusiano kati ya utendaji uliotathminiwa na kujifunza halisi.
 - **Vipimo vilivyo na uangalizi/bila msaada ni ishara inayoaminika:** wanafunzi wanapotumia AI, mitihani ya mwisho bila msaada — si kazi za nyumbani — yanafichua kujifunza halisi.
 - **Ukadiriaji wa kiotomatiki unahitaji uchunguzi wa kisaikolojia:** kutumia LLM kukadiria mitihani yenye hatari kubwa kunahitaji tathmini ya uaminifu, haki, na uhalali, si usahihi tu.
- Makosa ya ukadiriaji pia hutegemea alama: katika uwasilishaji 32 wa mtihani wa afya ya umma, LLM ziliepuka miisho ya skela — hakuna E au F ilitokea katika hali ya haraka — huku mfano bora zaidi ukilingana na alama ya binadamu kwa usahihi kwa 50.0% na ndani ya alama ±1 kwa 90.6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- Makosa ya ukadiriaji pia hutegemea alama: katika uwasilishaji 32 wa mtihani wa afya ya umma, LLM ziliepuka miisho ya skela — hakuna E au F ilitokea katika hali ya haraka — huku mfano bora zaidi ukilingana na alama ya binadamu kwa usahihi kwa 50.0% na ndani ya alama ±1 kwa 90.6% ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **AI inaweza pia kuzalisha mitihani:** uzalishaji wa mitihani na kazi unaosaidiwa na AI ni matumizi ya kubuni ya mwisho yanayoibuka ambayo yenyewe yanahitaji tathmini ya ubora.
 - **Zingatia upya madhumuni ya ukadiriaji, si muundo tu.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais na Galy (2026)]] wanakosoa ukadiriaji wa jadi wa mwisho, unaorejelea kiwango cha sanifu, kwa kuhimiza kujifunza kwa urahisi na kwa vipande, kuwapa wanafunzi udhibiti au uwazi mdogo, kudhuru [[motivation]] ya ndani, kuchochea mafadhaiko na [[well-being|wasiwasi]], na kuendeleza kutokuwa na usawa huku wakipima zaidi kukariri badala ya matumizi ya ulimwengu halisi. Wanaweka tathmini upya, [[mastery-learning|ukadiriaji unaotegemea viwango]], na kuacha kukadiria kama maboresho yanayolenga ukadiriaji ambayo yanaweza kupunguza mazoezi yenye uzito wa mwisho, huku wakitambua kwamba haya yanabaki ya kando katika elimu ya usimamizi kwa sababu ya vizingiti vya kawaida — ukadiriaji kwa mkunjo, ishara za nje (orodha, mafunzo ya kazi, uthibitisho), na mawazo ya zana ya wanafunzi — na wanapendekeza majaribio ya kupungua yenye msaada wa taasisi.
+
+## Dhana Potofu za Kawaida
+
+- **"LLM haiwezi kupima alama kwa viwango rasmi."** Dhidi ya **alama rasmi zilizosimamiwa**, LLM ya njia nyingi iliyopima alama **kurasa 10,364 zilizoandikwa kwa mkono** za Olympiad ya Fizikia na chuo kikuu ilihusiana kwa nguvu. Makubaliano ya tokeo yanaweza kudumu bila upimaji sahihi wa kiwango cha kipengele, ambayo inamaanisha swali la manufaa ni mahali usahihi wa kiwango cha kipengele unahitajika kwa hakika.
+- **"Ongezeko la alama la AI ni uzushi."** Jaribio la nusu-ufanisi la [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] kwenye **alama zaidi ya 500,000** hufanya mitambo iwe halisi: baada ya ChatGPT kutolewa, **kozi zenye kazi zilizofichuliwa zaidi kwa AI ziliona sehemu ya alama za juu ikipanda**. Athari ilijikita pale kazi zilipofichuliwa, ambayo ni muundo ambao mitambo ingetabiri.
+- **"Wanafunzi wanaotumia AI hawawezi kutofautishwa na wale wasiotumia, kwa hivyo asili haina matumaini."** Ugunduzi kwamba **hakukuwa na tofauti kubwa katika utambuzi wa chanzo** kati ya vipengele vilivyozalishwa na AI na vile vya mtihani wa leseni, ukiwa na utambuzi sahihi wa **asilimia 68.6-77.5** na kiwango cha utambuzi mbovu cha **asilimia 18.2**, unahusu utambuzi unaoshindwa, si asili kuwa isiyohitajika. Kama kuna chochote, inainua sharti la asili iliyothibitishwa.
 
 ## Dhana Zilizounganishwa
 
@@ -109,3 +116,4 @@ Fasihi ya tathmini ya hifadhi hii ya maarifa inasisitiza kwa uthabiti kwamba [[a
 - [[ai-grading-handwritten-physics-2026]] — Ukadiriaji wa AI wa tathmini za fizikia za mkono (Mkumbo)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Wanafunzi hawawezi kutambua kwa kuaminika vipengele vilivyoandikwa na AI

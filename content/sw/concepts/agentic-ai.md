@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,8 @@ Hatua zaidi ya kuandaa mawakala wachache maalum ni **mfumo kamili wa mawakala we
 - **Mawakala wa LLM mahususi kwa kila mshiriki kwa utatuzi wa matatizo kwa ushirikiano.** Fang (2026) anarekebisha mawakala binafsi wa LLM juu ya data halisi ya majadiliano ya washiriki ili kuwakilisha kila mshiriki katika uigizaji wa utatuzi wa matatizo kwa ushirikiano, kwa uteuzi wa uwezekano wa msemaji na msimbo wa mada na kumbukumbu ya dirisha linalosogea pamoja na muhtasari. Imethibitishwa kwa [[network-analysis|Uchanganuzi wa Mtandao wa Maarifa]], majadiliano ya kuigiza hayatofautiani kwa takwimu na yale halisi (umbali wa ENA 0.17, p = 0.65 ya permutation) — onyesho la AI inayojitegemaa ikirudia majadiliano halisi ya kielimu ya ushirikiano.
 
 - **Kufundisha kwa mawakala wengi wenye akili ya kijamii.** Kigezo cha kufundisha kwa mawakala wengi wenye akili ya kijamii kama ASTRA kinachunguza jinsi wanafunzi wanavyoratibu na AI katika jozi, kwa kutumia mawakala tofauti wa Mwalimu na Mwezeshaji ili kuhimiza uratibu na ushiriki wenye usawa. Tathmini ya mfumo kulingana na ufuatiliaji inaruhusu uchanganuzi unaoweza kurudiwa wa mwingiliano, usawa wa ushiriki, na uhakiki katika programu ya kuanzia.
+
+**Jibu la kitaasisi: mwanafunzi kama mwanachama anayeshiriki badala ya mpokeaji.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] wanaunda shirika la mawakala wengi lenye ushiriki wa binadamu ambapo mawakala maalum wanadumisha Programu ya Uwezo inayoweza kurekebishwa inayounganisha malengo ya kibinafsi, shughuli za njia nyingi na tathmini yenye tabaka, pamoja na "Nodi ya Binadamu" inayoweza kurekebishwa inayobeba ushahidi wa mwanafunzi mwenyewe na changamoto katika marekebisho ya baadaye. Dhidi ya msingi wa karibu zaidi wa mawakala wengi katika kesi 96 za wanafunzi walioigwa, faida ilikusanyika katika ubuni wa tathmini: pointi 19.32 juu kwenye Uhalali wa Tathmini (95% CI [17.55, 21.04]) na 5.89 kwenye upana wa uwezo, wakati ubinafsishaji haukutofautisha (pointi 1.35, kipindi kikivuka sifuri). Katika utafiti wa nasibu wa wanafunzi 32 faida ya maarifa kwenye mtihani wa lengo wa pointi 50 ilikuwa 12.19 dhidi ya pointi 5.61.
 
 ## Msongo wa mawazo kuu: kuotomatisha dhidi ya kujifunza
 
@@ -240,6 +242,7 @@ AI inayojitegemaa si tiba wala dhara isiyoweza kuepukika: thamani yake inategeme
 - [[educational-policy-ai]]
 
 ## Makala Zilizounganishwa
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Mawakala waliopangwa kuzunguka programu ya uwezo inayoweza kurekebishwa, na mwanafunzi kama mwanachama
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Uhuru, uwezo, uhusiano na uwepo wa kijamii kama njia kutoka AI inayojitegemaa hadi kuhusika (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — Mawakala wa AI, tathmini yenye furaha, na nafasi ya tatu

@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -64,10 +64,11 @@ Kazi ya hivi karibuni ya nadharia inapanua uzi wa kiklasiki katika mienendo kadh
 
 - **Ushirikiano wa binadamu–AI na [[regulation]].** Mfumo wa maendeleo unaelekeza AI si kama chombo cha nje bali kama **mshirika wa kiakili** ambaye hushirikiana kudhibiti kufikiri, kujifunza, na kujidhibiti katika muda wote wa maisha.([[ai-cognitive-partner-co-regulation-learning]]) Kwa kujitegemea kwenye kazi ya utendaji, [[metacognition]], utambuzi wa kusambaa, na maendeleo ya kijamii-kitamaduni, unamweka AI katika majukumu manne — ngazi za msaada, msaada wa metaji, kumbukumbu ya nje / mfumo wa [[cognitive-offloading]], na mshirika wa maamuzi — na mfumo unafaa zaidi kutoka utotoni wa katikati na kuendelea.
 - **Utambuzi wa Pamoja.** Mfumo wa [[philosophy-of-ai-in-education|falsafa]] unaundaa upya kufikiri kama kinachotokea kutoka mwingiliano wa nguvu kati ya mawakala wa binadamu na bandia badala ya kukaa tu katika akili za watu binafsi.([[ensemble-cognition-philosophy-ai-education]]) Inashindwa "paradigm ya fahamu" (dhana za uhuru, fahamu, na utulivu) na inaeleza sifa tano — wakala wa kusambaa, umuhimu wa nguvu, uendeshaji wa kiakili, uunganishaji wa uwakilishi mwingi, na kubadilisha kulingana na muktadha — huku ikitofautisha **wakala wa kazi** wa AI na uwajibikaji wa maadili.
-- **Ukuaji wa [[self-directed-learning|Kujielekea]] / A2PL.** Upanuzi wa [[self-regulated-learning|kujifunza kwa kujielekea]] unaunganisha Generative AI na [[learning-analytics|uchanganuzi wa kujifunza]] ili kulima **Ukuaji wa Kujielekea**, unaotekelezwa kupitia mfano wa Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Inaweka upya matamanio ya mwanafunzi (ya kibinadamu), kufikiri changamano (constructivist), na tathmini binafsi (ya vitendo) katika uwezo mmoja, ikieka GAI kama ngazi za msaada za ushirikiano zisizo na agizo badala ya mtoaji wa maudhui.
+- **Ukuaji wa [[self-directed-learning|Kujielekea]] / A2PL.** Upanuzi wa [[self-directed-learning|kujifunza kwa kujielekea]] unaunganisha Generative AI na [[learning-analytics|uchanganuzi wa kujifunza]] ili kulima **Ukuaji wa Kujielekea**, unaotekelezwa kupitia mfano wa Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Inaweka upya matamanio ya mwanafunzi (ya kibinadamu), kufikiri changamano (constructivist), na tathmini binafsi (ya vitendo) katika uwezo mmoja, ikieka GAI kama ngazi za msaada za ushirikiano zisizo na agizo badala ya mtoaji wa maudhui.
+
 - **Uundaji mbaya wa kupita kiasi.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, na Stamper (2026)]] wanapanua mila ya ACT-R / Maarifa-Kujifunza-Mafunzo kwa kutabiri lini usahihi unaoonekana unaficha uelewa usio kamili wa masharti: wanafunzi wanakusanya uzalishaji uliopitisha kiasi ambao unapitisha kizuizi cha matumizi lakini bado unafanya kazi kwa usahihi — mwenendo wa kushindwa ambao mifumo ya ustadi inayobadilika, na hata mafunzo ya jadi, inaweza kupita isipokuwa yanapima *lini kuzuia* kitendo.
 - **Nadharia inayoweza kutekelezwa ya KLI.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] wanaweka mfumo wa Maarifa-Kujifunza-Mafunzo katika mfano wa kikokotoo unaoweza kutekelezwa (mfano wa Apprentice Learner wenye mienendo ya kumbukumbu ya mtindo wa ACT-R) ambao unarudia mwingiliano wa kuvuka katika data ya binadamu: mazoezi ya asili husaidia kumbukumbu ya ukweli wa verbatim (kwa kuchelewa kusahau) huku mazoezi yaliyounganishwa na mifano yakisaidia uvumbuzi wa ujuzi unaoweza kusambaa. Kwa sababu KLI inaunganisha maarifa ya mara kwa mara (ya ukweli) na mienendo ya kumbukumbu na maarifa ya kubadilika (ya ujuzi) na uvumbuzi, matokeo ni mwingiliano wa maudhui-matibabu uliotabiriwa badala ya kupingana kati ya mapendekezo ya kupima na mifano iliyofanya kazi — na mafanikio ya mfano tu wakati mienendo ya kumbukumbu ipo yanaonyesha kuwa mazoezi na mifano yanajukumu tofauti, ya kujazana.
-- **Mwili kama changamoto ya upangishaji wa paradigimu ya AI.** [[videla-embodied-ai-education-choreography|Videla, Penny na Ross (2026)]] wanadai kuwa mgawanyo wa upangishaji unatenga utambuzi wa kimwili, wa kuchochea kutoka istilahi ya uwakilishi ambayo AI inawakilisha, hivyo AI inapaswa kutolewa kama kituo cha maarifa badala ya kutendewa kama zana ya upande wa kati.
+- **Mwili kama changamoto ya kiontolojia kwa dhana ya AI.** [[videla-embodied-ai-education-choreography|Videla, Penny na Ross (2026)]] wanadai kuwa mgawanyiko wa kiontolojia unatenganisha utambuzi wa kimwili na wa kiutendaji kutoka kwa lugha ya uwakilishi ambayo AI inaijumuisha, hivyo AI inapaswa kuondolewa kama kituo cha maarifa badala ya kuchukuliwa kama zana isiyo na upendeleo.
 
 ### Jinsi hifadhi ya maarifa inavyoandaa uzi huu
 
@@ -84,6 +85,32 @@ Nadharia za kujifunza pia zinaonekana kama maudhui katika mitaala ya [[ai-litera
 Pamoja na familia za kiklasiki, hifadhi ya maarifa inarekodi nadharia zilizoandikwa mahususi kwa kujifunza na mifumo ya AI, na hizi zinabeba athari za ubuni ambazo nadharia za zamani zinaziacha wazi. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan na Gašević 2026)]] ni mfano wa kiwango cha kati: inafafanua kujifunza kama ukuaji endelevu wa uwezo wa binadamu badala ya kukamilika kwa kazi, inataja mienendo manne (wakala uliokabidhiwa, ufuatiliaji wa maarifa na uthibitishaji, uandamanishaji wa kujenga upya, na uhamishaji chini ya msaada uliopunguzwa), na inatangaza mausia sita yanayoweza kupimwa, miongoni mwao kuwa msaada wa AI unaohifadhi uwajibikaji wa mwanafunzi kwa kuweka muundo wa tatizo, kuweka vigezo na kuthibitisha unazalisha kujifunza thabiti zaidi ya msaada unaotoa majibu.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] **Pedagogical Symbiosis** inatoa dai kali la upangishaji: mwanafunzi ni chombo cha *Post-Human* ambaye utambuzi wake ni wa mseto badala ya kusaidiwa na zana, ulioandaliwa na kanuni nne: kupunguza mzigo wa kiakili na kuongeza, uundaji wa pamoja wa maarifa, ushirikiano wa metaji, na uundaji wa utambulisho wa nguvu; unaotekelezwa kama rubriki ya Symbiotic Portfolio na jukumu la mwalimu wa "Cognitive Choreographer"; ni wazi kuwa haijapimwa.
+
+## Dhana Potofu za Kawaida
+
+**"Moja ya nadharia za kujifunza ni sahihi, hivyo kuchagua nadharia ni suala la ladha."** Nadharia zinatoa madai tofauti kuhusu kile kinachojumuishwa kama ushahidi, hivyo data ile ile inaweza kuunga mkono hitimisho pinzani. Mfano ulio wazi zaidi: alama za kazi za nyumbani zilizopandishwa zinasomwa kama **kujifunza chini ya behaviorism** na kama **kushindwa kujenga ufahamu wa kudumu chini ya constructivism**. Kuchagua nadharia kwa hivyo huamua kama uingiliaji ulifanikiwa, jambo linalolifanya uamuzi wa upimaji badala ya upendeleo wa kimtindo.
+
+**"Chombo kinachosaidia kujifunza kwa kina kitaonekana kama kujifunza kwa kina chini ya mfumo wowote."** Kitaonekana kama mafanikio chini ya mmoja na kushindwa chini ya mwingine, kama ilivyo juu. Ndio sababu vipimo vya matokeo vya uwanja vinahitaji kuhesabiwa haki dhidi ya nadharia iliyotajwa badala ya kuazimwa kana kwamba haviegemei kwa nadharia.
+
+**"Nadharia zaidi zinamaanisha uwanja unaoeleweka zaidi."** Mkusanyiko bila uamuzi ni kinyume cha maendeleo. Nadharia zinazopendekezwa kwa enzi ya AI zinaongezeka kwa kasi zaidi kuliko zinavyopimwa, na dalili ya ukomavu ni utabiri pinzani kutatuliwa, jambo linalohitaji miundo inayoweza kuvitofautisha, si katalogi zinazovibeba.
+
+**"Elimu kuhusu AI ni sawa na AI katika elimu, kwa nadharia."** Zinategemea nyuzi tofauti: moja inauliza jinsi wanafunzi wanavyoelewa AI kama somo, nyingine jinsi AI inavyobadilisha jinsi kujifunza kunavyotokea. Kuzichanganya kunazalisha mapitio ya fasihi yanayochanganya besi mbili tofauti za ushahidi na kuripoti picha iliyoshikamana ya hakuna.
+
+## Hii inamaanisha nini kwa mazoezi
+
+**Kwa wakufunzi**
+
+- Chagua nadharia kwa kile unachohitaji ifanye: kueleza jinsi kujifunza kunavyotokea, kueleza hali ya mwanafunzi, au kueleza kwa nini mazoezi yanaenea. Kutumia tabaka lisilo sahihi hupima kigezo sahihi dhidi ya utabiri usio sahihi.
+- Taja kwa uwazi kujitolea kwa nadharia kwa kipimo cha matokeo, kwa kuwa alama zilizopandishwa za kazi za nyumbani zinasomwa kama mafanikio chini ya behaviorism na kushindwa chini ya constructivism kutoka data ile ile.
+- Pale mfumo hauwezi kutabiri tofauti kati ya mipangilio, hauwezi kupimwa katika mazingira yako na hautakusaidia kuamua.
+
+**Kwa watengenezaji**
+
+- Chapisha nadharia ambayo mfumo wako unaijumuisha na utabiri ambao ungeuibatilisha; "imejikita katika constructivism" bila tofauti inayoweza kubatilishwa ni dai lisilo na maudhui.
+
+**Kwa watafiti**
+
+- Buni kwa ajili ya uamuzi kati ya nadharia badala ya mkusanyiko wa miundo. Ukomavu unaonekana kama utabiri pinzani uliotatuliwa, si kama ukuaji wa msamiati.
 
 ## Dhana Zilizounganishwa
 

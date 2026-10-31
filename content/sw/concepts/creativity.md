@@ -9,7 +9,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,14 @@ Kanuni ya kubuni inayojirudia katika matokeo haya ni **kudumisha kitendo cha kiz
 ### Mahusiano
 
 Ubunifu unaunganisha na [[critical-thinking]] na kujifunza [[constructivist]]. Unalindwa na [[scaffolding|ngazi za msaada]] za [[reducing-ai-misuse]] zile zile zinazohifadhi kujifunza, na na miundo ya [[authentic-assessment]] inayothamisha mantiki ya awali juu ya bidhaa zilizosuguliwa.
+
+## Dhana Potofu za Kawaida
+
+- **"Kuwavuruga wanafunzi huzalisha faida za kibunifu."** **Msuguano si faida ya kibunifu.** Wahusika wa AI wapinzani walichochea mazungumzo ya changamoto na tafakari katika **38.2% ya vikundi** lakini hawakuzalisha **uboreshaji wowote wa utendaji wa kibunifu unaopimika**. Mazungumzo yalibadilika na matokeo yaliyopimwa hayakubadilika.
+
+- **"Fasihi ya K-12 inathibitisha kuwa GenAI inaboresha ubunifu."** Mapitio ya upeo yaliyoongozwa na PRISMA ya **masudio 45 (2017-2025)** yanaonyesha GenAI mara nyingi **huboresha** ubunifu na **mara chache huupima**. Ugunduzi mkuu wa uwanja ni makisio kutokana na uboreshaji unaoonwa, ambao si kipimo cha matokeo.
+
+- **"Utegemezi mkubwa kwa GenAI unamaanisha matokeo zaidi ya kibunifu."** Miongoni mwa **wanafunzi 1,157 wa shahada ya pili wa China**, utegemezi wa GenAI **ulihusishwa vyema na ubunifu wa utafiti unaojiripoti**, na uhusiano huo ni wa **kujiripoti**, ambao ni kipimo dhaifu zaidi kinachopatikana cha dhana hii.
 
 ## Dhana Zilizounganishwa
 

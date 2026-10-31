@@ -6,7 +6,7 @@ pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-09-26T01:51:49-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,8 @@ ai_assist:
 
 Saikolojia ya kiakili ni mapokeo ya kinadharia ya kujifunza yanayochukulia kujifunza kama mabadiliko katika uwakilishi wa akili ya ndani — dhana, schemata na taratibu zilizowekwa kwenye kumbukumbu — badala ya mabadiliko ya tabia inayoweza kuonekana. Msamiati wake wa kuchakata habari (mwelekeo, kusimba, kurejesha, kumbukumbu ya kazi yenye kikomo) ulitoa lugha ya utambuzi kwa ugumu wa kujifunza na muundo nyuma ya [[intelligent-tutoring]] na [[knowledge-tracing]]: mifumo inayobaini hali ya ndani ya mwanafunzi na kubadilika nayo. Inabaki kuwa fremu ya kurejelea kwa [[metacognition]], [[desirable-difficulties]] na [[self-regulated-learning]] katika hifadhi hii ya maarifa.
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su na wenzake (2026)]] walijenga upya picha kutoka EEG ya wanafunzi wakati wa video za sayansi na waligundua kuwa uaminifu wa uwakilishi ulifuatana na utendaji wa jaribio (mgawo wa urejeshaji 0.8481, R² = 0.79), ushahidi wa moja kwa moja kwamba kipimo cha uwakilishi wa ndani kinaweza kuonyesha usimbaji.
+
 ## Mawazo ya msingi
 
 - **Kujifunza ni mabadiliko katika uwakilishi wa akili ya ndani.** Cognitivism inashikilia kuwa kujifunza kunahusisha upatikanaji, uhifadhi, na mpangilio upya wa maarifa kwenye kumbukumbu — dhana, schemata, na taratibu — badala ya mabadiliko tu ya majibu yanayoweza kuonekana. Kile mwanafunzi *anachojua na anaweza kukirejesha* ni muhimu, si tu kile anachofanya.
@@ -50,6 +52,8 @@ Cognitivism labda ni nadharia inayowajibika zaidi kwa kuwepo kwa AI katika elimu
 ### Mzigo wa kiakili na muundo wa mafunzo
 
 Nadharia ya Mzigo wa Kiakili (CLT) ni fremu ya kiakili inayotumika zaidi katika [[learning-design|muundo wa mafunzo]]: inatofautisha mzigo wa asili (ugumu wa kazi), mzigo wa nje (msuguano wa uwasilishaji), na mzigo unaojenga (jitihada za kujenga schema). AI iliyoundwa vizuri inapaswa kupunguza mzigo wa nje huku ikihifadhi kuchakata kwa mzigo unaojenga; AI iliyounganishwa vibaya hupunguza yote matatu, ikiacha kazi zilizokamilika bila kujifunza. Muundo wa kumbukumbu ya kazi wa CLT ni muhimu pia katika mijadala juu ya [[cognitive-offloading]] — kama AI inapunguza mzigo wa nje wenye madhara au inazuia kuchakata kwa mzigo unaojenga kunakozalisha kujifunza.
+
+Mzigo ulifuata jinsi jitihada zilivyopangwa, si kiasi kilichotumika: kati ya walimu 67 wa mafunzo ya awali waliokuwa wakibuni mipango ya masomo kwa GenAI, kikundi chenye ubora wa juu hakikutofautiana kwa jitihada zilizoripotiwa (2.85 dhidi ya 3.26) lakini kiliripoti mahitaji ya kiakili ya chini (3.09 dhidi ya 4.03) na kuchanganyikiwa kidogo (2.12 dhidi ya 3.82) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang na wenzake (2026)]]).
 
 Nadharia ya Kiakili ya Mayer ya Kujifunza kwa Vyombo vingi (CTML) inatumia dhana zile zile za kumbukumbu ya kazi kwa nyenzo zenyewe, na maagizo yake ni ya kipekee kwa uwazi: wanafunzi hufanya vizuri zaidi kutoka maneno na picha pamoja kuliko maneno peke yake, wakati nyenzo za nje zimeondolewa, wakati somo limegawanywa na linaendeshwa na mtumiaji badala ya kuwasilishwa kama kipimo kimoja cha kuendelea, wakati maneno na picha yanayolingana yanaonekana karibu na kwa wakati ule ule, na wakati simulizi ni ya mazungumzo na ya sauti ya kibinadamu ya kirafiki badala ya rasmi au iliyozalishwa na mashine.
 
@@ -69,6 +73,12 @@ Nadharia ya Kiakili ya Mayer ya Kujifunza kwa Vyombo vingi (CTML) inatumia dhana
 2. **Wakilishe mwanafunzi, si kujibu tu.** Ambatisha [[student-modeling]] ya muundo na [[knowledge-tracing]] kwa mazungumzo ya AI ili mfumo ubadilike na maarifa yaliyobainishwa badala ya kujibu kwa ufasaha lakini bila ufahamu.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Heshimu vikomo vya kumbukumbu ya kazi.** Tumia Nadharia ya Mzigo wa Kiakili kwa uzoefu wa mtumiaji wa AI: punguza mzigo wa nje (msuguano, violesura vilivyopakiwa) huku ukihifadhi kuchakata kwa mzigo unaojenga ([[desirable-difficulties|mapambano yenye tija]], mazoezi ya kurejesha) badala ya kupunguza mahitaji yote ya kiakili.
 4. **Sawazisha metaji.** Kwa sababu [[metacognition]] inadhibiti wanafunzi wanapochagua kupunguza mzigo, kufundisha usawazishaji (kujua kile mtu anaweza kufanya bila msaada) ni jibu la kiakili kwa kutegemea kupita kiasi (tazama [[cognitive-offloading]]).
+
+## Dhana Potofu za Kawaida
+
+- **"Uwakilishi wa kiakili hauwezi kuonekana, kwa hivyo madai ya kiakili kuhusu kujifunza ni dhana tu."** Kuunda upya picha kutoka **EEG** ya wanafunzi wakati wa video za sayansi kuligundua kuwa **uaminifu wa uwakilishi ulifuatana na utendaji wa jaribio** (mgawo wa urejeshaji **0.8481, R² = 0.79**). Msingi wa kiakili wa uwakilishi wa ndani unapimika, na kipimo hicho kilitabiri matokeo.
+- **"R² ya juu inamaanisha uwakilishi unaeleza kujifunza."** R² = 0.79 ni uhusiano wenye nguvu kati ya uaminifu na utendaji kwenye nyenzo zile zile. Haukuthibitishi kuwa kuinua uaminifu kunainua utendaji, ambayo ndiyo dai la uingiliaji.
+- **"Vipengele vya maarifa ni uongo wa kiufundi unaofaa kwa uigaji."** Ugawanyikaji ndio unaofanya [[knowledge-tracing]] na [[cognitive-diagnosis]] ziwezekane, na mbinu hizo hufanya kazi kwa kiwango ambacho dhana hiyo inashikilia. Kuichukulia kama uongo hutupa sababu mbinu hizo huzalisha makadirio yanayotumika, wakati kuichukulia kama ukweli hupita kiasi kile mfano uliofungwa unakuambia kuhusu akili.
 
 ## Dhana Zilizounganishwa
 - [[behaviorism]]
@@ -99,3 +109,4 @@ Nadharia ya Kiakili ya Mayer ya Kujifunza kwa Vyombo vingi (CTML) inatumia dhana
 - [[nie-personavlm-long-term-personalization-2026]] — Kuiga mwanafunzi na kumbukumbu ya LLM
 - [[ai-cognitive-partner-co-regulation-learning]] — AI kama mshirika wa kiakili katika kujifunza kwa udhibiti wa pamoja
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: kufikiri kama mwingiliano wa binadamu–AI
+- [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Mpangilio wa jitihada, si kiasi cha jitihada, ulifuatilia mzigo na kuchanganyikiwa

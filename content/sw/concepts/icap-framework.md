@@ -8,7 +8,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -84,6 +84,16 @@ Msititi wa ICAP juu ya mwingiliko wa uzalishaji na wa kiwango cha mchakato umech
 2. **Shirikisha wanafunzi katika hali zote.** Mafunzo ya [[ai-literacy|ujuzi wa AI]] yenye ufanisi yanashirikisha wanafunzi katika viwango vingi vya ICAP — mwonekano wa kupitisha, mabadiliko ya kuendeshwa, uzalishaji wa kuunda, na majadiliano ya kuingiliana — huku yanachagua hali inayolingana na lengo la kujifunza.([[hingle-collaborative-ai-literacy-2025]])
 3. **Pima mwingiliko kwa ukweli.** ICAP inawapa watafiti na wabuni msamiati wa pamoja wa kutofautisha mwingiliko halisi wa kiakili na shughuli tu — marekebisho ya [[student-engagement]] iliyo dhaifu.([[icap-cognitive-engagement-llm-agents]])
 4. **Angalia pengo la uwekaji wa lebo la kibinadamu–LLM.** Kama mifumo ya kiotomatiki yanatumika kuweka kodi ya mwingiliko, upungufu wao wa mpangilio kulingana na wataalam waliofunzwa lazima uhesabiwe.([[icap-cognitive-engagement-llm-agents]])
+
+## Dhana Potofu za Kawaida
+
+**"ICAP ni tasnonomia ya kuweka lebo kwenye shughuli."** Ni lenzi ya ubuni na tathmini yenye dai la mpangilio: ushiriki wa kupokea, tendaji, wa kujenga na wa mwingiliano hutofautiana katika kujifunza kunakozalisha, kwa hivyo "jenga zana zinazochochea ushiriki wa kujenga na wa mwingiliano badala ya matumizi ya kupokea" ni lengo la ubuni badala ya zoezi la uainishaji. Kuweka lebo ya hali kwenye somo bila kubadilisha wanafunzi wanachofanya hakujatumia mfumo huo.
+
+**"Muda wa kufanya kazi au kiasi cha mwingiliano huonyesha kiwango cha ushiriki."** Kiasi huhesabu shughuli, si hali. Kusogeza skrini ni tendaji na la kupokea kwa maana tofauti kwa wakati mmoja, na mwanafunzi anayezalisha mibofyo mingi anaweza bado kuwa anapokea badala ya kujenga. Thamani ya mfumo huu ni hasa kwamba unatenganisha aina za ushiriki ambazo vipimo vya shughuli huzikusanya pamoja.
+
+**"Mwalimu wa AI huzalisha ushiriki wa mwingiliano kiotomatiki kwa sababu anazungumza."** Mazungumzo ni chombo badala ya hali. Mazungumzo ambapo mfumo hutoa kila mchango wa maudhui ni ya kupokea kwa mwanafunzi aliyevaa kiolesura cha mwingiliano, ambayo ni mkanganyiko ule ule ambao [[student-engagement|fasihi ya ushiriki]] inadokumenti kati ya shughuli ya kitabia na uwekezaji wa kiakili.
+
+**"Hali za juu za ICAP huwa bora kila wakati."** Hugharimu zaidi, na mpangilio unahusu kujifunza kwa kila kitengo cha usindikaji husika badala ya kile somo linapaswa kulenga kila wakati. Umahiri wa msingi unaweza kuhitaji marudio tendaji kabla kazi ya kujenga haiwezekani; kosa ni kukaa hapo, si kupita.
 
 ## Dhana Zilizounganishwa
 

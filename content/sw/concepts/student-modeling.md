@@ -6,7 +6,7 @@ connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -88,6 +88,7 @@ Ishara zilizokusudiwa zinaweza kushindwa kurejeshwa kutoka mazungumzo kabisa: ja
 Dhana potofu zilizofichwa zinaonyesha kushindwa huo huo kutoka upande mwingine: [[correct-answer-trap-misconceptions|Imran na Bulathwela (2026)]] waligundua kuwa kigawanyaji kilichorekebishwa kwa ufafanuzi kilikamata 57.4% ya majibu sahihi yaliyofikiwa kupitia hoja zenye kasoro, na kwa kiwango cha kuenea cha 1.6% hata mfano wa hoja wenye usahihi wa 83.6% uliacha tahadhari 8 za uongo kwa kila kugunduliwa — hivyo ishara za umahiri zinazotegemea usahihi ni zisizo kamili na ghali kurekebisha.
 
 **Jinsi mfano unavyothibitishwa yenyewe ni swali la uhalali.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, na Carvalho (2025)]] wanaonyesha kuwa mifano maarufu ya wanafunzi (BKT, BKT-na-Kusahau, AFM) inaonekana kukamata kujifunza kwa binadamu tu inapolinganishwa nyuma na seti kamili ya data ya vipindi vingi; chini ya uthibitishaji wa msalaba unaotegemea wakati (kuelekea mbele) — kutabiri kipindi cha baadaye kutoka yale ya awali, jinsi mifano hii inavyotumika kwa kweli — inakadiri kupita utendaji, haikubali [[retrieval-spacing-interleaving|athari ya nafasi]], na hupanga vibaya mpangilio wa masharti ya mazoezi. Kwa sababu mifano yenye ongezeko la kusahau na yasiyo na kusahau yalifanya kazi kwa kiasi kile kile kati ya vipindi, waandishi wanahitimisha kuwa kusahau mara nyingi hunyunyuliwa ndani ya vigezo vya mwanafunzi badala ya kuwakilishwa kwa kweli. Somo kwa familia ni kwamba uwakilishi unaoaminika wa mwanafunzi lazima uthibitishwe jinsi unavyotumika — na kwamba kuchanganya utendaji wa muda huo na kuhifadhi kwa muda mrefu huzalisha mifano yanayoonekana sahihi lakini yanayowakilisha vibaya wanafunzi.
+[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi na Robb (2026)]] wanaonyesha kushindwa huko huko kutoka upande wa kigawanyaji: kuamua vipimo vya mtindo wa kujifunza kutoka kwa mazungumzo ya utatuzi wa matatizo ya wanafunzi 153 wa shahada ya kwanza kulionekana kuwa wastani katika usahihi hadi ukumbukaji wa kila darasa ulipofichua utabiri wa lebo inayotawala, huku wanafunzi wa Intuitive na Global wakibainishwa vibaya kwa utaratibu na mifano ya few-shot wakati mwingine ikiongeza upendeleo wa darasa la wengi.
 
 ## Kuunda mifano katika zama za LLM
 
@@ -108,6 +109,12 @@ Kadirio la sanduku jeusi linaweza pia kufinyika kuwa mfano mdogo unaojieleza: ml
 ## Mahusiano na dhana zingine
 
 Uundaji wa mfano wa mwanafunzi na mafunzo yanayobadilika huchangia katika [[learning-analytics]] ([[visualization|dashibodi]] na uingiliaji), [[formative-assessment]] (tathmini inayoendeshwa na uchanganuzi), na [[feedback]] (kile ambacho mfumo humwambia mwanafunzi). Inaungana na [[ai-education]] kama mwelekeo msingi wa AI kwa elimu.
+
+## Dhana Potofu za Kawaida
+
+- **"Mfano mwaminifu unahitaji mbinu tata zaidi."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries na Koprinska (2025)]] wanaonyesha kwamba **uwakilishi mwaminifu hauhitaji mbinu tata zaidi**. Utata si kipimo cha uaminifu, na mfano rahisi unaokamata muundo unaohusika unaweza kuwa chombo bora.
+- **"Mifano ya mwanafunzi inahitaji data ya ufuatiliaji."** Mfano wa mwanafunzi wa utabiri unaweza kutegemea **muundo wa uandikishaji** badala ya data ya ufuatiliaji: TRACE huweka kodi kila muhula kama **kikapu cha kozi kisicho na mpangilio** na kutabiri kutoka hapo. Ishara ya utabiri inaweza kuishi katika kumbukumbu za kiutawala za taasisi.
+- **"Hali ya kihisia inahitaji hisi za kifiziolojia."** Mwalimu wa hesabu **alihitimisha hisia kutoka maandishi ya mazungumzo na sura ya uso** na akaoanisha hali iliyojumuishwa na maamuzi ya kufundisha. Ishara ya hisia iliweza kupatikana kutoka kile wanafunzi walikuwa tayari wanakizazisha.
 
 ## Dhana Zilizounganishwa
 - [[learners]] — Wanafunzi: mbioni kwa dhana za upande wa mwanafunzi
@@ -161,3 +168,4 @@ Uundaji wa mfano wa mwanafunzi na mafunzo yanayobadilika huchangia katika [[lear
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: Mwalimu wa Mawakala Anayejifunza Mwanafunzi Wake katika Mzunguko wa Kujifunza Pamoja wa Binadamu-AI
 
 - [[ai-game-based-learning-systematic-review-2026]] — Tathmini ya siri ilifikia AUC ya 0.848–0.913, lakini ukaguzi wa upendeleo ulikuwa karibu hakuna katika masudio 55
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Uamuzi wa mtindo wa kujifunza kupitia mazungumzo unashindwa kwenye vipimo vilivyosawazishwa (Zamanifard, Goudarzi & Robb 2026)

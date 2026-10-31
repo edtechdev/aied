@@ -10,7 +10,7 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-10-26T14:15:00-04:00"
+source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:

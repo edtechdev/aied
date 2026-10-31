@@ -10,7 +10,7 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,8 @@ Makala nyingi za elimu ya uandishi ni za Kiingreza-kwanza (mfano, [[marked-pedag
 
 Utawala wa Kiingreza wa AI ni sifa inayoelekeza mwelekeo huu. Kwa sababu mifano ni yenye nguvu zaidi katika Kiingreza na hasa Kiingreza cha kawaida cha kitaaluma, elimu ya Kiingereza inafaidika kwa wingi (ngazi zenye nguvu za msaada za EAP) na inabeba hatari za kipekee (upendeleo wa lugha moja, ubaguzi dhidi ya World Englishes na waandishi wa lugha nyingi). Utafiti hapa unaungana na [[equity-in-ai-education|usawa]], [[bias-mitigation|kupunguza upendeleo]], [[automated-assessment|tathmini ya kiotomatiki]], [[ai-feedback-quality|ubora wa maoni ya AI]], na [[academic-integrity|uadilifu wa kitaaluma]].
 
+Muunganisho wa Scopus wa masudio 54 ya EFL unaweka [[limitations-in-aied-research|vikomo]] vinavyoripotiwa zaidi vya uwanja katika uhuru wa mwanafunzi: [[cognitive-offloading|kutegemea kupita kiasi]] AI katika tafiti 27 (50%) na kufifia kwa [[critical-thinking|kufikiri kwa mahusisi]] katika 25 (46%), dhidi ya matokeo yasiyoaminika yaliyozalishwa na AI katika 22 (41%) kama tatizo kuu la kiufundi ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Athari kwa wakufunzi wa Kiingreza / EAP / EFL-ESL
 
 - **Tumia nguvu ya AI kwa Kiingreza cha kitaaluma, kwa makusudi.** Kwa sababu mifano ni yenye nguvu zaidi katika Kiingreza na Kiingreza cha kawaida cha kitaaluma, wakufunzi wa EAP wanaweza kutumia AI kwa uandishi unaotegemea aina, kutofautisha nyenzo za kusoma ([[genai-differentiated-eap-reading-materials-2026|nyenzo za EAP]]), na maoni ya kuboresha — lakini wanapaswa kuweka AI kama mshirika wa kuandika/maoni, si injini ya majibu.
@@ -92,6 +94,13 @@ Utawala wa Kiingreza wa AI ni sifa inayoelekeza mwelekeo huu. Kwa sababu mifano 
 - **Tofautisha kwa ujuzi na mahitaji.** [[ai-vs-human-assessment-efl-tpck-2026|Tathmini ya EFL]] na utafiti wa ufundishaji unaojifunga unasaidia kubadilisha msaada na tathmini ya AI kwa kiwango cha mwanafunzi badala ya moja inayofaa wote.
 
 - **Zima teknolojia kuelekea uzalishaji.** Meta-analysis ya masudio 33 ya TEFL iligundua athari ya jumla ya ndogo-hadi-wastani (g = 0.38, iliyopunguzwa hadi 0.28 na trim-and-fill) ambayo ilipanda na kiwango cha elimu na ilipendelea ujuzi wa uzalishaji — kusema na kuandika — juu ya yale ya kupokea ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## Dhana Potofu za Kawaida
+
+- **"Katika EFL, AI inatishia udanganyifu pekee."** [[limitations-in-aied-research|Kikomo]] kinachoripotiwa zaidi na uwanja wenyewe ni **uhuru wa mwanafunzi**, kikionekana kama [[cognitive-offloading|kutegemea kupita kiasi]] katika **tafiti 27** kati ya **masudio 54** ya muunganisho wa Scopus. Gharama iliyoandikwa ni utegemezi badala ya ukosefu wa uaminifu, jambo linalohitaji muingiliaji tofauti.
+- **"Walimu wa lugha hupitisha kwa shauku au hawapitishi kabisa."** [[li-language-educators-genai-review-2026|Mapitio ya kimfumo ya tafiti 23]] (Li et al.) yanagundua **upitishaji wa tahadhari, unaotanguliza maandalizi** kama mfumo. Walimu walikuwa na wasiwasi kwa njia iliyofikiriwa, hawakugawanywa katika wapenda na wakataaji.
+- **"Athari ya jumla inahalalisha jitihada."** Uchanganuzi-makubwa wa **tafiti 33 za TEFL** uligundua **athari ndogo hadi ya kati kwa ujumla (g = 0.38, iliyopunguzwa hadi 0.28 kwa trim-and-fill)** ambayo **ilipanda pamoja na ngazi ya elimu**. Athari ni ya kiasi baada ya marekebisho na imejikita katika ngazi za juu, hivyo dai kwa wanafunzi wa mwanzo haliungwi mkono na takwimu iliyounganishwa.
+- **"Matumizi yoyote ya AI ni yenye tija sawa kwa kujifunza lugha."** Kazi hiyo hiyo inatoa hoja ya **kuelekeza teknolojia kwenye uzalishaji**: uandishi na kuzungumza badala ya matumizi. Njia ndiyo iliyoamua athari zaidi kuliko uwepo wa AI.
 
 ## Dhana Zilizounganishwa
 
@@ -127,7 +136,7 @@ Utawala wa Kiingreza wa AI ni sifa inayoelekeza mwelekeo huu. Kwa sababu mifano 
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Kutawala Yasiyoonekana: Ujuzi wa AI kati ya Walimu wa Lugha
 - [[structural-silence-underrepresented-language-ai-2026]] — Ukimya wa Kimuundo: Lugha Zisizowakilishwa katika Miundombinu ya AI
 - [[liu-emerging-tech-tefl-review-2026]] — Teknolojia zinazoibuka kwa TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Nadhamia ya kuweka malengo: msaada wa mwalimu, malengo ya mafanikio, na shirikiano katika kujifunza Kiingreza kunakosaidiwa na AI (wanafunzi 758 Wachina)
+- [[ai-limitations-efl-higher-education-review-2026]] — Kutegemea kupita kiasi AI (50% ya tafiti 54) na kufifia kwa kufikiri kwa mahusisi vinaongoza vikomo vinavyoripotiwa
 - [[bird-multimodal-educational-literature-2026]] — Muunganisho wa hali nyingi kwa kugawa fasihi ya kieledu
 - [[li-language-educators-genai-review-2026]] — Mazoezi na maendeleo ya waelimishaji wa lugha na GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Marekebisho ya mwanafunzi-mwenza na ya AI ya insha za EFL za kubishana yanatofautiana katika uwekaji wa mazungumzo (Zhao & Ji 2026)

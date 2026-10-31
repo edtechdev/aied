@@ -2,7 +2,7 @@
 title: "Clarity"
 created: "2026-10-13T05:55:00-04:00"
 type: resource
-summary: "An open-source Agent Skill and private browser editor that turn eighteen rules for clearer writing into draft, rewrite and review modes for prose."
+summary: "Ujuzi wa Wakala wa chanzo huria na kiharuhi cha kivinjari cha faragha vinavyogeuza kanuni kumi na nane za uandishi ulio wazi kuwa hali za kuandika rasimu, kuandika upya na kupitia maandishi."
 url: https://clarity.addy.ie/
 source_code: https://github.com/addyosmani/clarity
 author: "Addy Osmani"
@@ -38,7 +38,7 @@ translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo h
 
 **Clarity** inaunganisha Ujuzi wa Wakala na kiharuhi cha kivinjari, vyote viwili vilivyojengwa kuzunguka kanuni kumi na nane za uandishi ambao \"hustahili msomaji wake.\" Ujuzi unasanikishwa katika mawakala wa msimbo kama Claude Code na Codex na `npx skills add addyosmani/clarity`, kisha hufanya kazi katika hali tatu: hali ya mapitio inakosoa rasimu na kuacha faili isiguse, hali ya kuandika upya inarekebisha rasimu mahali pale, na hali ya mahojiano inauliza mwandishi maswali kwanza na kuandika pamoja kutoka majibu. [[feedback|Maoni]] ambayo mwandishi anapata yanalengwa kwa maudhui kabla ya mtindo. Kanuni zinauliza kipengele ni kwa ajili ya nani na wanajua nini tayari, zinasukumia madai badala ya mada na mahususi badala ya dhana, na zinatendea mazao kuwa shida ya kutojua kile kipengele ni kwa ajili yake badala ya ya msamiati.
 
-Kiharuhi cha kivinjari hufanya kazi kwa ndani katika ukurasa na haipaki rasimu. Inaripoti ishara za maandishi yaliyoandikwa na mashine, usomaji, na pengo la maudhui, ambayo hufanya iwe ya manufaa kwa kupitia maandishi yaliyozalishwa na [[generative-ai|AI ya kizalishaji]] kabla ya kumfikia msomaji. Mradi ni wazi kuwa lengo ni uandishi unaobaki kuwa wa mwandishi mwenyewe kwa njia inayotambulika badala ya maandishi yaliyoundwa kupitisha [[ai-literacy|utambuzi wa AI]], tofauti ambao waelimishaji wanatambua wanapoweka sera juu ya uandishi unaosaidiwa na [[writing-education|AI]].
+Kiharuhi cha kivinjari hufanya kazi kwa ndani katika ukurasa na haipaki rasimu. Inaripoti ishara za maandishi yaliyoandikwa na mashine, usomaji, na pengo la maudhui, ambayo hufanya iwe ya manufaa kwa kupitia maandishi yaliyozalishwa na [[generative-ai|AI ya kizalishaji]] kabla ya kumfikia msomaji. Mradi ni wazi kuwa lengo ni uandishi unaobaki kuwa wa mwandishi mwenyewe kwa njia inayotambulika badala ya maandishi yaliyoundwa kupitisha [[ai-detection|ugunduzi wa AI]], tofauti ambao waelimishaji wanatambua wanapoweka sera juu ya uandishi unaosaidiwa na [[writing-education|AI]].
 
 ## Kitu cha kujua kabla ya kuipitisha
 

@@ -10,7 +10,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,12 @@ Kurejea hubeba gharama ya ushahidi ambayo ushahidi wa faili unaifanya kuonekana.
 - **Tathmini halisi inafaa kwa nyanja zinazoelekea mazoezi.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] wanagundua tathmini halisi inafaa hasa kwa [[business-education|elimu ya usimamizi]]: kazi zinazoakisi matatizo halisi ya kitaaluma (miradi ya ushauri ya moja kwa moja, [[visualization|dashibodi]] zenye maelezo ya utendaji) zinalingana na mwelekeo wa mazoezi na wa [[career-development-and-readiness|uajiri]] wa uwanja na zinaweza kusaidia mbadala jumuishi, inayohifadhi uadilifu ya tathmini inayoelekea mtihani katika zama za AI inayozalisha. Katika mapitio yao ya makala 58 kutoka majarida manne ya elimu ya usimamizi, hata hivyo, tathmini halisi ilionekana hasa kupitia [[simulation|michezo]] iliyoendeshwa na teknolojia na mara nyingi ilichanganywa na [[experiential-learning|kujifunza kwa uzoefu]] — pengo la istilahi ambalo linaweza kuficha thamani yake pana na kukubalika.
 
 - **Uhalisi si usalama, na pengo linaonekana kwa kiwango cha sekta.** Ambapo ukaguzi wa shahada moja hapo juu uligundua 90% ya kozi inaweza kupimwa, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] anapima uwasilishaji uliorekodiwa, miradi ya kikundi ya mbali na vitu vya kidijitali visivyosimamiwa katika bendi ya hatari ya juu katika vipengele 53,915, kwa sababu rekodi ya umma haionyeshi chochote kuhusu jinsi uzalishaji ulivyosimamiwa.
+
+## Dhana Potofu za Kawaida
+
+- **"Uhalisi unahusu kazi zinazofanana na halisi."** Mapitio ya wigo ya [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud na Du (2025)]] ya **masudio 37 ya kimajaribio (2000-2024)** yanapendekeza mfano wa ubuni wa **vipimo sita**, na **masudio 3 tu kati ya 37** yalishughulikia uhalisi wa kijamii, yaani kama tathmini inasaidia wanafunzi kuchangia mabadiliko ya kijamii. Uhalisia ni kipimo kimoja na kipimo kilichoendelea zaidi hakijasomwa kwa karibu.
+- **"Tathmini halisi inapinga AI."** Mfiduo unapimika na ni mkubwa: **shahada ya miaka mitatu ya saikolojia** ilithibitika kuwa **asilimia 90 inaweza kupitishwa**, huku ChatGPT ikitoa **pato la kutosha katika tathmini 36 kati ya 40 za kazi za kozi**, na tathmini zilizobaki peke yake zikistahimili. Sehemu kubwa ya tathmini ya shahada ilikuwa inaweza kutoshelezwa na AI.
+- **"Ubunifu upya ni wa hiari ikiwa kazi ni ya ulimwengu halisi."** Matokeo ya 36 kati ya 40 yalipatikana kwenye kazi za kozi ambazo uhalisi wake haukuwa na shaka. Uhalisia wa kazi haukulinda dhidi ya ukamilishaji wa AI; ubuni wa kile kinachotathminiwa ndio uliolinda.
 
 ## Dhana Zilizounganishwa
 - [[learner-identity]] — utambulisho wa mwanafunzi wa taaluma, wa kitaaluma, wa kibunifu, na wa kielimu vinavyobadilika

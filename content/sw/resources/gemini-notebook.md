@@ -2,7 +2,7 @@
 title: "Gemini Notebook"
 created: "2026-10-13T06:05:00-04:00"
 type: resource
-summary: "Google's source-grounded notebook assistant (NotebookLM until July 2026): upload a set of documents and ask questions, generate study aids, and produce audio, video and slide outputs grounded in those sources."
+summary: "Msaidizi wa daftari wa Google anayetegemea vyanzo (NotebookLM hadi Julai 2026): pakia seti ya hati na uulize maswali, zalisha vifaa vya kujifunza, na toa matokeo ya sauti, video na slaidi yanayotegemea vyanzo hivyo."
 url: https://notebook.google/
 author: "Google Labs"
 author_url: https://notebook.google/

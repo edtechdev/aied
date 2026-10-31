@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -181,6 +181,18 @@ Mwelekeo tofauti wa mbinu — [[usability-research|utafiti wa urahisi na wa HCI]
 - **Urahisi/HCI:** faida — hutambua vizuizi vya kupitisha, miongozo ya ubini yanayoweza kutekelezwa, za haraka na za bei ndogo. Mapungufu — haithibitishi athari za kujifunza, sampuli ndogo, kuridhika kwa kujitangaza kunaweza kupotosha.
 
 Kwa mazoezi, utafiti wa AI katika elimu mara chache huanguka kwa uwazi katika mila moja. Ushahidi wenye nguvu zaidi huunganisha mbinu nyingi: tathmini ya kikokotozi au ya urahisi inaweka kwamba mfumo inafanya kazi, jaribio linaweka kwamba inasababisha kujifunza, vyombo vya kiasi hupima dhana, na kazi ya ubora inafichua mbinu na maana — pamoja zikijibu iwapo zana inawasaidia kujifunza na *jinsi na kwa nini*.
+
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] anaongeza uzi wa bibliometriki unaokaa kando na hizi nne: kuchora kumbukumbu 407 kwa mtandao wa maneno-mshirika na wa uandishi-mshirika ili kufuatilia maendeleo ya dhana ya uwanja. Mwandishi anaeleza wazi kuwa usomaji wa SWOT uliojengwa juu yake ni chombo cha tafsiri badala ya mbinu huru ya uchanganuzi, jambo linaloweka mpaka kati ya muunganisho na uchanganuzi katika mila hii.
+
+## Dhana Potofu za Kawaida
+
+**"Usahihi wa juu wa benchmark unaonyesha ufanisi wa kielimu."** Hauonyeshi, na pengo hilo ndilo tatizo kuu la upimaji la uwanja: mfumo unaweza kupata alama ya juu ya usahihi wakati hauzalishi ujifunzaji wowote, kwa sababu usahihi wa benchmark hupima utendaji wa kazi chini ya hali ambazo benchmark iliweka. Ufanisi wa kielimu unahitaji tokeo la mwanafunzi chini ya hali ambazo teknolojia haidhibiti.
+
+**"Mila moja ya utafiti ni bora kimbinu."** Mila hizo hubadilishana kikomo kimoja kwa kingine kwa muundo wake. Utafiti unaotegemea ubini hujirudia juu ya uingiliaji halisi lakini hauwezi kuhusisha faida na utaratibu mahususi, wakati [[rct|RCT]] hutenganisha sababu lakini hufanyika katika hali za bandia. Kuchagua kati yao ni kuchagua ni dai gani unaweza kutoa, si ni mbinu ipi iliyo bora.
+
+**"Kanuni laini ya upimaji ni chaguo dogo la mbinu."** Hubadilisha ugunduzi. Kuhesabu ukamilishaji wowote kulitabiri utendaji wa baadaye bila msaada **karibu tu juu ya kigezo cha ugumu wa ujuzi (AUC ya pamoja 0.604 dhidi ya 0.595)** wakati kutangaza **asilimia 93.9 ya jozi za ujuzi wa mwanafunzi kama zilizobobea dhidi ya asilimia 72.8** chini ya kanuni kali. Kanuni ilizalisha tofauti ya pointi 21 katika nani alitangazwa kuwa tayari na karibu hakuna uboreshaji wa utabiri wa kuonyesha kwa hilo.
+
+**"Umuhimu wa kitakwimu huamua kama uingiliaji ulifanya kazi."** Huamua kama athari iligundulika. Kama ilikuwa athari ya *kujifunza* inategemea kipimo cha tokeo, ulinganisho na hali ilipopimwa, ndiyo sababu chaguo za muundo na ripoti katika sehemu za ukurasa huu zina uzito kama ule wa uchanganuzi.
 
 ## Dhana Zilizounganishwa
 

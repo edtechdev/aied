@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 **Kupunguza mzigo wa kimaarifa kwa wanafunzi wenye ugumu wa kujifunza (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung na Basham (2026)]], mapitio ya dhana katika mfululizo maalum wa *Learning Disability Quarterly* juu ya AI kwa wanafunzi wenye LD, wanabadilisha mfumo wa matumizi ya [[generative-ai|GenAI]] kwa SWLDs kupitia [[cognitive-offloading]] lensi. Wanadai kuwa GenAI inaweza kuwa **msaada wa kurekebisha au njia fupi** kulingana na jinsi maamuzi ya kupunguza mzigo yanavyoingiliana na profaili za kimaarifa na [[motivation|motisha]] za SWLDs (changamoto za kazi ya utendaji na kumbukumbu ya kazi, mzigo mkubwa wa kimaarifa, malengo ya utendaji ya kuepuka juhudi, ujasiri mdogo wa kielimu kwa nafsi yao, na matarajio makubwa ya GenAI) na na ubunifu wa mafunzo. Kwa kusoma na kuandika, GenAI inaweza kutoa ngazi za msaada za upatikanaji (kupanga viwango vya maandishi, kufupisha, matokeo ya [[multimodal]], kupanga, kuchora, maoni ya marekebisho) huku ikihifadhi ushirikiano wa [[student-engagement|kielimu]] cha kiwango cha juu — lakini kupunguza mzigo kupita kiasi kunahatari kuepuka michakato ya ufahamu, kupanga, na kufuatilia ambayo tayari ni dhaifu kwa wanafunzi hawa, ikikuza "[[metacognition|ulevivu wa metakognitioni]]" na kuongeza ugumu wa usomi katika nyanja mbalimbali. Karatasi hii inaweka **[[guardrails]] za mafunzo** kama sababu kuu ya kupunguza na inapendekeza [[teacher-role|kufundisha]] kupunguza mzigo kwa mkakati, kujenga [[ai-literacy]] ili kupima uaminifu wa zana, kupanga uzoefu wa umakinifu ili kujenga [[self-efficacy]], na kulinganisha majukumu na tathmini na malengo ya IEP yanayopendelea maendeleo ya ustadi badala ya kubadilishwa. Hii inaeneza ufunzaji wa elimu maalum katika hifadhi ya maarifa hadi kipengele cha usawa cha kupunguza mzigo: zana hiyo hiyo inayopunguza vikwazo vya upatikanaji inaweza, ikiwa haijalindwa, kuchukua nafasi ya mazoezi ambayo SWLDs wanayahitaji zaidi.
 
 **Maudhui ya uingiliaji yanayozalishwa na AI yanahitaji vidhibiti vya kabla ya kuzalisha, si tu mapitio.** [[adapted-stories-social-story-intervention-2026|Enkhjargal na wenzake (2026)]] waligundua wataalam wameipima zana ya Hadithi za Kijamii iliyobuniwa pamoja kuwa na urahisi wa matumizi mkubwa (SUS 86.8) hata hivyo waliiita picha zake za kijumla za Kimagharibi na kifuatiliaji cha tabia yake hakilingani na hukumu ya kliniki inayohusiana na malengo — vikwazo ambavo wangaviweka kabla ya kuzalisha.
+[[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] anaanza kutoka kwenye nyenzo badala ya mazungumzo: mfano wa lugha na kuona husoma picha za Kazi za Sanduku la Viatu, zilizobuniwa ili lengo lionekane katika vitu, na kuzigeuza kuwa mpango ambao Nao humanoid hutekeleza au kuonyesha, akiripoti usahihi wa mpango katika kazi sita na hakuna data ya mwanafunzi.
+- **Tabia yenye changamoto ndipo vipimo vya walimu vinapoishia.** Kati ya majadiliano 923 yaliyotegemea kesi yaliyotolewa kutoka fasihi ya elimu maalum na saikolojia ya elimu, bora kati ya mifano 11 ilitimiza uingiliaji ulioandikwa katika 55.8% ya kesi zilizo wazi na 43.3% ya mipango ya muda mrefu ([[tutor-case-bench-challenging-behaviors-2026|Park na wenzake (2026)]]).
 
 ## Mabadiliko kwa waalimu wa elimu maalum
 
@@ -57,6 +59,14 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 - **Tumia AI kufunga (si kupanua) mapengo ya utendaji.** [[adhd-video-segmentation-computing-education|Video zilizogawanywa na AI]] ziliondoa pengo la utendaji la ADHD — weka AI inayobadilika mahali ambapo ushahidi unaonyesha inalinganisha matokeo, si mahali ambapo inaendesha tu kiotomatiki.
 - **Weka ubunifu wa kimwili unaoongozwa na ulemavu katika kituo.** Utafiti wa [[embodied-string-learning-blindness-low-vision-musicians|wanamuziki vipofu/wenye uoni mdogo]] unaonyesha mikakati bila kuona inayoongozwa na ulemavu inazidi miradi ya kawaida ya kuona — jenga na urekebishe AI na utaalamu wa wanafunzi wenye ulemavu.
 - **Linda dhidi ya kutenga kwa maarifa.** [[genai-minoritized-knowledges-disability|Mitazamo ya kuchunguzi]] inaonya kuwa data ya mafunzo inayoelekea Magharibi inaweza kutenga maarifa yanayojikita kwenye ulemavu — kagua maudhui na zana za AI kwa haki ya maarifa pamoja na [[equity-in-ai-education]].
+
+## Dhana Potofu za Kawaida
+
+- **"Ukadiriaji wa urahisi wa matumizi huthibitisha zana ya msaada."** Wataalam walikadiria zana ya Hadithi za Kijamii iliyobuniwa pamoja kama **yenye urahisi mkubwa wa matumizi (SUS 86.8)** lakini wakasema **picha zake ni za kijumla za Kimagharibi** na **kifuatiliaji chake cha tabia hakingiani na hukumu ya kliniki inayohusiana na malengo**. Urahisi mkubwa wa matumizi uliishi pamoja na kushindwa kwa maudhui, kwa hivyo alama ya SUS si uthibitisho wa ufaafu.
+
+- **"Vipimo vya jumla vinakuambia jinsi mwalimu anavyoshughulikia kesi za elimu maalum."** Kati ya **majadiliano 923 yaliyotegemea kesi** yaliyotolewa kutoka fasihi ya elimu maalum na saikolojia ya elimu, **bora kati ya mifano 11** ilitimiza kigezo kilichoandikwa, na **tabia yenye changamoto ndipo vipimo vya walimu vinapoishia**. Tathmini za kawaida hazifikii kesi ambazo wataalam wanahitaji msaada nazo zaidi.
+
+- **"Wanafunzi wenye tofauti za neva wanahitaji marekebisho, si mahitaji ya ubuni."** [[neurodivergent-computing-students|Zastudil na wenzake]] waligundua wanafunzi wa kompyuta wenye tofauti za neva wanahitaji **majukumu yaliyo na muundo, timu ndogo thabiti na ufafanuzi wa wazi wa majukumu**, mahitaji ya jumla ya ubuni yanayowanufaisha wote, si marekebisho ya mtu binafsi yanayotolewa baada ya utambuzi.
 
 ## Dhana Zilizounganishwa
 
@@ -74,7 +84,7 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 - [[generative-ai]]
 - [[discipline-specific-aied]]
 
-## Makali Yaliyounganishwa
+## Makala Zilizounganishwa
 
 - [[seung-basham-cognitive-offloading-swld-2026]] — Kupunguza mzigo wa kimaarifa kwa GenAI kwa wanafunzi wenye ugumu wa kujifunza
 - [[special-r1-rl-special-education]]
@@ -86,3 +96,5 @@ Elimu maalum ni uwanja ambao uwezo wa AI wa kubinafsisha na kubadilika unatoa ah
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — AI ya kizazi, uhalisia wa mtandaoni, na zaidi: Mapitio ya teknolojia za kusaidia za kidijitali kwa wanafunzi wenye tofauti za neva katika elimu ya juu
 - [[adapted-stories-social-story-intervention-2026]] — Uingiliaji wa Hadithi za Kijamii unaosaidiwa na AI kwa Elimu Maalum: Ubunifu wa AdaptED Stories
+- [[tutor-case-bench-challenging-behaviors-2026]]: TutorCaseBench, kutathmini walimu wa LLM kwa wanafunzi wenye tabia zenye changamoto (Park na wenzake 2026)
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]]: Mfano wa lugha na kuona hupanga Kazi za Sanduku la Viatu kwa roboti ya Nao (Kudláčková 2026)

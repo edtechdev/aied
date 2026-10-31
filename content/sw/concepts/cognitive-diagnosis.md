@@ -6,7 +6,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, studen
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -45,6 +45,7 @@ Wakati ufuatiliaji wa maarifa kwa kawaida hukadiria ustadi wa kiwango kimoja kwa
 - **DINA ya Bayesian kwa njia za kujifunza zinazoweza kubinafsishwa:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng na Huang (2026)]] wanaunganisha mfano wa DINA ya Bayesian (uliofunzwa kwenye seti ya data ya EdNet, N=5,000) na nadharia ya nafasi ya maarifa na algoriti ya njia fupi ya marekebisho ili kuzalisha njia za kujifunza zinazoweza kubinafsishwa, na kujaribu kwa njia ya kiakili nafasi ya mpatanishi ya [[cognitive-offloading|mzigo wa kiakili]] kupitia mabadiliko ya hali ya Mfano wa Hidden Markov (uliothibitishwa kwa wanafunzi 120) — yakishughulikia shida ya mkanganyiko ya kupotoka ya mifano ya kawaida ya DINA na mbinu ya kisaikolojia isiyojaribiwa nyuma ya ufanisi wa njia inayoweza kubinafsishwa.
 - **Utambuzi unaoelekezwa na lugha badala ya embeddings za ID.** [[process-grounded-language-cognitive-diagnosis-2026|Liu na wenzake (2026)]] wanabadilisha vitambulishi vya mwanafunzi, zoezi, na dhana vilivyo na mgawo mahususi na miundo ya dhana iliyojengwa na LLM na ushahidi unaoelekezwa na mchakato, wakirekebisha hali ya baada ya kila mwanafunzi kutoka rekodi za majibu. Katika seti za data tatu za [[math-education|hisabati]] za [[online-teaching-and-learning|jukwaa]] mfumo huo unafikia 83.51% ACC / 85.37% AUC kwenye XES3G5M na 87.16% ACC kwenye MOOC, na maendeleo yanakusanyika hasa ambapo mifano ya kawaida ya utambuzi wa kiakili inapungua: dhana mpya (+4.60 ACC juu ya KCD) na maingizo ya Q-matrix yaliokosekana (+4.52). Kuondoa ushahidi uliopangwa kunaangusha usahihi wa MOOC kutoka 87.16% hadi 78.95%, hivyo kuboresha hutoka katika muundo unaotokana na lugha badala ya kipimo cha mfano. ([[process-grounded-language-cognitive-diagnosis-2026]])
 - **Kazi zilizowekwa kitamaduni zinaweza kutangulia uchanganuzi wa AI.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] waliwaalika wanafunzi 178 wa shule ya msingi wa juu nchini Indonesia kukamilisha kazi za wazi zilizowekwa katika muktadha wa kitamaduni kabla ya uchanganuzi wa majibu ya AI; utambuzi wa AI ulikubaliana na tathmini ya wataalam (ICC = 0.81), huku kuwekwa kitamaduni kukihusishwa na utendaji wa hisabati za ishara (β = 0.42) na ushirikiano (β = 0.37).
+- **Usanidi wa mkakati unaweza kutambuliwa, si hali ya maarifa pekee.** Vipimo vitano vilivyokadiriwa kutoka vitendo 36,234 vya mchezo wa sarufi vilitabiri mafanikio yajayo kwa AUC 0.826 huku vikitenga hesabu za makosa ya sasa, na vilitofautiana ndani ya wanafunzi (ICC = 0.14) badala ya kati yao ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre et al. (2026)]]).
 
 ## Kwa nini ina umuhimu
 
@@ -61,6 +62,30 @@ Utambuzi wa kiakili uko katika moyo wa usanifu wa [[intelligent-tutoring]] na ni
 ## Mahusiano
 
 Utambuzi wa kiakili unaunganisha na [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], na [[assessment]]. Ufahamu wake unalisha [[intelligent-tutoring]] na [[adaptive-learning]], na kazi ya zama ya LLM inaunganisha na utambuzi wa dhana potofu katika [[intelligent-tutoring|AI Tutoring]].
+
+## Dhana Potofu za Kawaida
+
+- **"Utambuzi ni uwezo uliotatuliwa kwa mifano."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] ulisimamia hoja ya kiutambuzi kama mmoja wa vipimo vinne vya uwezo katika familia wazi ya 4B/9B/27B, na **utambuzi wa hali ya maarifa ulibaki mdhaifu zaidi** kati ya hivyo vinne. Utambuzi ni uwezo uliokataa mafunzo yaliyozalisha vingine.
+
+- **"Mifano inaweza kuiga makosa ya mwanafunzi, hivyo inaweza kuyatambua."** Kizuizi ni kinyume chake. Mifano ilijenga suluhisho katika **95.2% ya alama za vichocheo** na ikaiga dhana potofu mahususi ya Eedi kwa **usahihi 0.92**, lakini **kutoa suluhisho sahihi**, si kuiga kosa, ndiko kulikowazuia. Kuzalisha jibu lisilo sahihi linalowezekana ni rahisi kuliko kutambua moja.
+
+- **"Utambuzi unahitaji orodha ya dhana potofu iliyojengwa kwa mkono."** Kwenye **jozi 6,106** za uundaji rasmi wa mantiki ya pendekezo sahihi na zisizo sahihi, mtiririko wa kazi uligundua **makundi 248 ya mabadiliko yanayoelezea jozi 5,156 (84.44%)**, dhidi ya **4,370 (71.57%)** kwa makosa yaliyochaguliwa kwa mkono ya seti ya marejeleo. Ugunduzi ulilingana au kuzidi utunzaji wa wataalamu, na uhamishwa hadi mantiki ya modali, hivyo orodha ni mahali pa kuanzia, si dari.
+
+- **"Utambuzi unafaa tu ikiwa unataja dhana potofu."** Kutambua ni matokeo gani ya kozi ambayo mwajifunzaji ameyafikia huchukulia matokeo kama dhana za maarifa badala yake, kikitoa mahusiano ya dhana kupitia ramani za uhusiano zilizothibitishwa na wataalamu. Kwa programu zinazotegemea matokeo hicho ni kipimo kinachotumika zaidi, hata ikiwa ni kivivu zaidi.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji**
+
+- Chukulia utambuzi wa mfumo kama dhana ya kukagua, si hukumu. Utambuzi wa hali ya maarifa ulikuwa uwezo mdhaifu zaidi katika familia iliyofunzwa kwa ajili yake.
+- Uliza kama utambuzi unataja muundo unaoweza kuutendea. Utambuzi wa kiwango cha matokeo unaolingana na programu yako mara nyingi ni muhimu zaidi kuliko lebo ya dhana potofu ya undani mkubwa.
+- Pale somo lako linapokuwa na kanuni, tarajia ugunduzi unaotegemea mabadiliko kupata mifumo ya makosa ambayo hukuitarajia; makundi 248 yaliyogunduliwa ni ushahidi kwamba orodha zilizotunzwa hazijakamilika.
+
+**Kwa watengenezaji**
+
+- Pima pande zote mbili: kutambua jibu lisilo sahihi na kuzalisha lilo sahihi. Takwimu ya 95.2% ya kurejesha suluhisho inapendekeza kwamba uzalishaji ni nusu rahisi na hali ya kushindwa iko katika utambuzi.
+- Pendelea ugunduzi kuliko orodha isiyobadilika pale muundo wa nyanja unaruhusu, na ripoti ufikiaji dhidi ya seti ya marejeleo ili ulinganisho uwe wazi.
+- Usitoe alama ya kiutambuzi bila kutaja muundo unaoupima na jinsi ilivyothibitishwa kwa njia huru kutoka kwa ishara iliyoizalisha.
 
 ## Dhana Zilizounganishwa
 

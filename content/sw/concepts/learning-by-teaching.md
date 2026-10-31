@@ -8,7 +8,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,16 @@ Kujifunza kwa kufundisha ni mwelekeo wa kina, [[active-learning]] unaopingana na
 - **LbT ni dawa inayoweza kupanuliwa dhidi ya kutegemea kupita kiasi kwa AI** — inabadilisha wajibu wa mwalimu/mwanafunzi na kumweka mwanafunzi kuwa na nguvu ya kiakili, jambo linalomuhimu zaidi kadiri AI inavyokuwa na ufasaha zaidi na "msaada" zaidi.
 - **Kukosea ni kipengele, si hitilafu.** Mwanafunzi ambaye ni *sahihi kupita kiasi* anaondoa kurekebisha makosa na kugundua mapengo ambayo yanafanya LbT ifanye kazi; buni kwa mapambano yenye tija badala ya kupinga yake.
 - **Maswali yanabaki wazi:** Jinsi mwingiliano wa LbT unavyodumu zaidi ya muhula kadiri uboreshaji unapopungua kabisa? Je, LbT inahamishwa kwa nyanja zisizo za CS, zisizo na muundo mkubwa kwa kiwango kile kile? Je, uwekaji wa kodi wa mazungumzo kiotomatiki unaweza kuwa mfuatiliaji wa kiwango cha mwingiliano wa wakati halisi unaoweza kutumika kwa waelimishaji? Na tunawezaje kuweka wajibu wa kufundisha kuwa na maana kwa *kila* mwanafunzi badala ya wachache wenye motisha?
+
+## Dhana Potofu za Kawaida
+
+**"Mwanafunzi yeyote anayefundishwa anafaa, kwa kuwa faida iko katika kueleza."** Faida hutegemea majibu ya mwanafunzi anayefundishwa kuwa na taarifa. Mwanafunzi anayeelewa kila kitu tayari hampatii mwalimu pengo la kutambua, ndiyo sababu kufanya LLM kuwa mwanafunzi mzuri kunahitaji **ubunifu wa kukosea**: makosa na mkanganyiko uliobuniwa ambao mwalimu-mwanafunzi anapaswa kutambua na kurekebisha. Athari ya protégé inatokana na ujinga wa mwanafunzi anayefundishwa, hivyo mwanafunzi mwenye uwezo huondoa utaratibu.
+
+**"Makosa yaliyozalishwa yanatosha kwa kuwa si sahihi."** Ikiwa yanawezekana tu. Katika utafiti wa uandishi uliofichwa, wataalamu **waliainisha vibaya 164 kati ya 196 (83.7%) ya mawasilisho ya Java yaliyozalishwa na LLM kama kazi halisi** za wanafunzi, jambo ambalo ni ushahidi kwamba makosa ni ya uhalisia na onyo kwamba mwanafunzi anayefundishwa anaweza kuwa si sahihi kwa njia zinazofundisha utambuzi usio sahihi.
+
+**"Kumwomba LLM kuonekana amechanganyikiwa ni ilani rahisi."** Ni tatizo la ubunifu, kwa kuwa hali ya kukosea inapaswa kusawazishwa na dhana inayofundishwa na na mfano wa sasa wa mwanafunzi-mwalimu. Makosa ya bahati nasibu huzalisha mazoezi ya utatuzi wa hitilafu; makosa yanayoakisi dhana potofu inayowezekana mahususi huzalisha upangaji upya wa dhana, na ya pili peke yake ndiyo lengo la kielimu.
+
+**"Kujifunza kwa kufundisha ni shughuli laini kuliko kufundishwa."** Ni inayodai zaidi. Kujiandaa kufundisha hulazimisha upangaji wa maarifa na upatikanaji wa mapengo ya mtu mwenyewe, ndiyo sababu mbinu hii huibua kutoelewana ambako upokeaji tulivu huficha: ugumu ndio utaratibu badala ya gharama ya kupunguzwa.
 
 ## Dhana Zilizounganishwa
 

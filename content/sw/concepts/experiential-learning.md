@@ -6,7 +6,7 @@ pedagogy: [active-learning, embodied-learning, experiential-learning, project-ba
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,7 @@ Kujifunza kwa uzoefu una uhusiano wa karibu na [[active-learning]], [[project-ba
 - **Maabara ya usalama wa mtandao:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|Ufundishaji wa usalama wa mtandao unaosaidiwa na LLM]] unajumuisha wasaidizi wa ufundishaji wa [[generative-ai]] katika jukwaa la maabara pepe, likiunga mkono ujenzi wa ujuzi wa vitendo na wa uzoefu.
 - **Miradi ya roboti:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] inatumia mbinu ya msingi wa mradi na ya vitendo kufundisha roboti, ikishughulikia upungufu wa uzoefu wa vitendo katika mipango ya kawaida.
 - **Simulizi na kujifunza kwa mwili:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] inawaruhusu wanaoanza kufanya majaribio na roboti zilizotengwa, na mwingiliano wa roboti wa [[embodied-learning|kile kinachohusisha mwili]] huanzisha kujifunza katika uzoefu wa moja kwa moja.
+- **Maabara ya mtandao inaweza kushinda ile ya kimaumbile pale chombo chenyewe kisipokuwa lengo.** Wanafunzi wa Daraja 9 kuhusu sheria ya Ohm walipata 23.45, 20.51 na 16.57 kati ya 30 katika maabara ya mtandao inayosaidiwa na AI, maabara hiyo hiyo bila AI, na maabara ya kimaumbile, huku kila jozi ikiwa na umuhimu ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li na Ahmad (2026)]]); waandishi wanakubali kwamba upungufu wa maabara ya kimaumbile unaweza kupungua pale kushughulikia vyombo ndiko kunakokuwa lengo lenyewe.
 - **AI kama miundo msingi kwa kutokuwa na uhakika, si ufanisi.** [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] wanatoa GenAI jukumu la kuzalisha matukio ya kuvuruga na matokeo ya mtiririko katika simulizi ya biashara, ili timu zirekebishe mipango chini ya taarifa zisizokamilika, na wanaonya kuwa simulizi zilizolindwa zinaweza kuacha tabia za kufanya maamuzi ambazo huwa mzigo nje ya darasa.
 
 ### Aina mbili za kujifunza kwa vitendo katika mtaala unaosaidiwa na AI
@@ -46,6 +47,33 @@ Mapitio ya mada ya masudio 32 yaliyopitishwa na wataalam ya kujifunza kwa vitend
 Kujifunza kwa uzoefu unaungana na [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], na maandalizi ya kitaaluma ya [[higher-ed]].
 
 Uzoefu uliounganishwa na kazi unaweza kuwa sharti la kuunganisha kwa uwezo wa hali ya juu: katika miradi 89 ya capstone iliyofadhiliwa katika maabara ya utengenezaji mahiri, maendeleo kutoka Ngazi ya Upatikanaji wa Wajenzi 6 hadi 7 yalipatikana kupitia mahali pa kazi yaliyoingizwa katika sekta badala ya kozi za ziada ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
+
+## Dhana Potofu za Kawaida
+
+**"Kujifunza kwa uzoefu maana yake shughuli ya vitendo."** Shughuli ni uso tu; utaratibu wa kujifunza ni mzunguko wa kufanya, kutafakari, kutunga dhana na kujaribu. Kipindi cha maabara kisichokuwa na tafakari iliyopangwa huzalisha ujuzi wa kawaida badala ya mabadiliko ya dhana, ndiyo sababu "tumeongeza sehemu ya vitendo" si ushahidi wa kujifunza kwa uzoefu.
+
+**"AI inaweza kuchukua nafasi ya uzoefu katika kujifunza kwa uzoefu."** Inaweza kuiga baadhi ya mifumo na haiwezi kutoa uzoefu unaounda umahiri katika nyanja za matumizi kama AI, usalama wa mtandao na roboti, ambapo wanafunzi hukuza ujuzi kwa kufanya kazi na zana na mifumo halisi. Mazingira ya usalama yaliyoigwa hufundisha utaratibu; mfumo unaofanya kazi hufundisha tokeo la usanidi mbovu.
+
+**"Kazi halisi zaidi ni bora kwa njia iliyo wazi."** Uhalisia hupandisha thamani ya uhamisho na tatizo la tathmini kwa wakati mmoja: mifumo halisi huzalisha ushahidi unaobadilika na mgumu wa kutoa alama, na kadri kazi inavyokuwa halisi ndivyo tokeo linavyokosa kufanana na alama. Muundo unapaswa kushikilia yote mawili, ndiyo sababu muundo wa tafakari una uzito sawa na kazi.
+
+**"Ufundishaji wa AI unafaa kujifunza kwa uzoefu kama unavyofaa maudhui ya mihadhara."** Ufanisi ni mdogo zaidi, kwa sababu mwalimu anaweza kutoa maelezo na hawezi kutoa kukutana na mfumo. Nafasi yake ya asili katika mbinu hii ni kuzunguka hatua za tafakari na utungaji wa dhana, ambapo mwanafunzi anafanya maana ya kilichotokea, si badala ya kufanya. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] huzalisha kukutana badala ya kukiandika: kutoka malengo ya mwanafunzi, GELLI hujenga mandhari zilizowekwa na wahusika, msaada na tafakari wakati wa utekelezaji, na katika utafiti wa ndani ya washiriki na wanafunzi 40 wa Kijapani ilishinda video zilizoandikwa na wataalamu katika ukumbusho wa msamiati (d = 0.45) na kujiamini (d = 0.45) lakini si katika kuzungumza.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji**
+
+- Panga mzunguko badala ya shughuli: kufanya, kisha kutafakari, kisha kutunga dhana, kisha kujaribu katika hali mpya. Kipindi kinachoishia baada ya kufanya kimezalisha ujuzi wa kawaida, si kujifunza.
+- Ongeza sehemu ya vitendo pale dhana ilipo dhahania na iondoe pale vitendo vilipokuwa kozi yote. Kufanya kwa mikono ni njia yenye gharama ya muda na faida ya uhamisho, na uwiano ni uamuzi wa muundo.
+- Hifadhi AI kwa hatua ya tafakari, ambapo mwanafunzi anafanya maana ya kilichotokea.
+
+**Kwa watengenezaji**
+
+- Jenga vichocheo vya tafakari na rekodi ya kile mwanafunzi alifanya, ili hatua ya kufanya maana iwe na nyenzo na ushahidi uweze kukaguliwa.
+- Usiwasilishe uigaji kama mbadala wa kuendesha mfumo halisi katika nyanja ambapo tokeo la kosa ndilo mtaala.
+
+**Kwa wabunifu wa programu**
+
+- Kagua kwamba programu za matumizi zina kazi za matumizi badala ya mbadala za maabara; dai la uhamisho linategemea uhalisia wa kukutana.
 
 ## Dhana Zilizounganishwa
 - [[active-learning]]
@@ -59,6 +87,8 @@ Uzoefu uliounganishwa na kazi unaweza kuwa sharti la kuunganisha kwa uwezo wa ha
 - [[virtual-and-augmented-reality]] — mazoezi ya kuingilia kama uzoefu wa makusudi
 
 ## Makala Zilizounganishwa
+- [[gelli-experiential-language-learning-2026]] — GELLI: Kizalisha cha Mwingiliano wa Kujifunza Lugha kwa Uzoefu (Symonette et al. 2026)
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — Maabara ya mtandao inayosaidiwa na AI kwa kujifunza fizikia kwa mtindo uliopinduliwa: athari kwa mafanikio, motisha na mzigo wa kiakili wa wanafunzi wa shule ya kati
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Mfumo wa Ngazi ya Upatikanaji wa Wajenzi kwa utengenezaji mahiri katika enzi ya AI
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Ukuzaji wa Kujifunza Endelevu kupitia Akili ya Mwili (E3-HOT)

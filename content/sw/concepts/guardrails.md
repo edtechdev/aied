@@ -8,7 +8,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,8 @@ Muundo wa Mfunzi wa GPT wa [[generative-ai-guardrails-harm-learning|Bastani]] un
 - **Maagizo yanayoweza kuthibitishwa tu.** [[reflection-agent-fidelity-career-2026|Nepal na wenzake (2026)]] wanakagua mwakala wa tafakari wa GPT-4o dhidi ya ilani yake ya mfumo na wagundua uaminifu ulifuatia uwezekano wa kukaguliwa: kanuni za mitambo (kizuizi cha urefu wa majibu) zilifuatwa, huku kanuni za tabia ("usipendelee", "pinga kwa upole") zikivunjwa katika nusu ya mizunguko yake bila alama yoyote katika matokeo, na ukiukaji wa tabia ulitokea pamoja na matokeo duni zaidi ya washiriki. Athari ya kubuni ni kubainisha tabia katika maneno yanayoweza kuthibitishwa na kukagua hati za mazungumzo mara kwa mara, kwa kuwa kizuizi cha usalama ambacho hakiwezi kukaguliwa hakiwezi kutegemewa.
 - **Safu ya kuaminika kuzunguka mfano ambao waelimishaji hawawezi kukagua.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten na Bardyn (2026)]] wanazunguka LLM na uthibitisho wa nje, ukarabati uliolengwa, na kurudi nyuma salama, wakiongozwa na mfumo wa maendeleo na kielimu na kukiweka bila kujali mfano na kuhifadhi faragha. Katika jaribio la darasa la watoto wenye umri 12–16 wakifanya kazi na roboti ya kijamii inayoendeshwa na LLM katika kazi ya kuunda pamoja, kigezo kilichoongozwa kilivuta shughuli zaidi, [[student-engagement|ushirikiano]] na ushiriki juu ya mada kuliko msingi wa ilani tu. Hatua ya usanifu ni kwamba usalama unaweza kuambatishwa *kuzunguka* mfumo badala ya kuhitaji ufikiaji wa ndani, ambayo ndiyo inayofanya vizuizi vya tabaka viweze kutekelezwa katika mipangilio ya [[k-12|K-12]].
 
+**Kizingiti cha kizuizi cha usalama cha kiklasifishaji ni uamuzi wa sera.** Kuhamisha kikomo cha sumu kutoka 0.3 hadi 0.7 kulipunguza ilani zilizoalamishwa kutoka 35.62% hadi 12.4%; kwenye kigunduzi cha ulaghai kulibadilisha tahadhari za uongo 15 na ulaghai 18 uliokosekana kwa 2 na 36, hakuna kikomo kinachoondoa vyote viwili, na takwimu ya uimara haina maana bila shambulio lake ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan na Kalathas (2026)]]).
+
 ### 5. Kukagua vizuizi kwa usawa
 
 Vizuizi vya usalama wenyewe si ya upande mmoja: ukaguzi wa [[paternalistic-filter-llm-history-education|Kichujio cha Kibaba]] unaonyesha kukataa na kufifisha majibu kunapangwa na utambulisho wa mwanafunzi na hisia za mada, na kurudisi udhaifu wa maarifa huku "ukilinda." Vizuizi salama vya usalama ni lazima vikaguliwe kwa matibabu tofauti — hali ya moja kwa moja kwa [[bias-mitigation]] na [[equity-in-ai-education]] katika [[governance]] na [[regulation]].
@@ -89,6 +91,36 @@ Haya mawili yamefungwa kwa karibu: karibu kila mbinu ya kizuizi cha usalama ni n
 5. **Hitaji uangalizi wa kibinadamu.** Uhakiki wa mwalimu-anayehusika kabla ya utekelezaji na ukaguzi wa kuendelea kwa matibabu tofauti.
 
 - **Kuweka mafunzo ya taratibu kwenye kanuni zilizojengewa.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, na Sun (2026)]] wanatekeleza kanuni hizi kama seti halisi, inayoweza kukaguliwa ya vizuizi vya usalama kwa mfunzi wa [[llm]] wa hesabu: **lango la usahihi wa namba** na kizuizi cha kutokuwa na uhakika ili mfunzi asifanye kamwe ahadi ya maarifa isiyo na msingi, **vizuizi vya matokeo** vinavyolazimisha ufupi na maendeleo ya hatua ndogo kwa ajili ya usimamizi wa mzigo wa kiakili, **mpaka wa kupinga kufichua** ambao unadumisha kanuni ya kwanza-ya-hoja kwa kurejesha nafasi ya kihesabu kwa mwanafunzi, na **lango la kwaheri** unaoweka tofauti kati ya kukamilisha halisi na kumaliza mapema. Kanuni hizi zilikusanywa kama kanuni zinazoweza kurudiwa za usanifu wa ilani zilizothibitishwa katika jaribio la darasa la wanafunzi 40 — mfano wa kutafsiri kanuni za [[pedagogical-safety|usalama]] kuwa vizuizi vya usalama vinavyoweza kukaguliwa na kurudiwa.
+
+## Athari kwa mazoezi
+
+**Kwa wakufunzi**
+
+- Pima mfunzi kwa utendaji wa bila msaada, si kwa utendaji wa mazoezi. Katika jaribio la uwanja la RCT mfunzi wa GPT-4 asiye na kizuizi alipandisha utendaji wa mazoezi **+48%** huku *akipunguza* alama za mtihani wa baadaye bila msaada kwa **17%**, na toleo la "kidokezo-si-jibu" liliondoa madhara. Kila ishara ya darasani inayozalishwa wakati zana ipo ni ile iliyopandishwa.
+- Pale huwezi kubadilisha zana, badilisha kile kinachopimwa bila yake. Kipimo cha bila msaada ndicho kinachofanya swali la kizuizi cha usalama lionekane kabisa.
+- Tendea "upole" kama parameta ya ubuni yenye hali ya kushindwa: mfunzi asiyepinga kamwe au kurekebisha anaweza kuridhisha wanafunzi huku akiondoa [[feedback|maoni]] ya kurekebisha ambayo kujifunza kunahitaji.
+
+**Kwa watengenezaji**
+
+- Jenga kizuizi cha usalama ndani ya njia ya mwingiliano, si ndani ya maagizo ya ilani ambayo mwanafunzi mkaidi anaweza kuizungumza. Mfumo wa kidokezo-si-jibu ndio chaguo-msingi linaloungwa mkono kwa uzoefu.
+- Tambua kwamba vizingiti ni maamuzi ya sera, si uboreshaji. Kuhamisha kikomo cha sumu kutoka 0.3 hadi 0.7 kulipunguza ilani zilizoalamishwa kutoka 35.62% hadi 12.4%; kwenye kigunduzi cha ulaghai kulibadilisha tahadhari za uongo 15 na ulaghai 18 uliokosekana kwa 2 na 36. Hakuna kikomo kinachoondoa ubadilishaji huo, kwa hivyo weka chaguo wazi kwa taasisi badala ya kukizika katika kigezo kisichobadilika.
+- Buni kwa ajili ya kushindwa kwa utulivu. Kushindwa kwa madhara hapa si matokeo yenye sumu bali mafunzi yanayojibu kwa usahihi na kudhoofisha kujifunza, au yanayokataa kwa usawa na kuimarisha ukosefu wa usawa.
+
+**Kwa watafiti na wakaguzi**
+
+- Ripoti tathmini za vizuizi vya usalama dhidi ya matokeo ya bila msaada; kizuizi kinachoshikilia ndani ya kikao huku kikiacha kujifunza kisichobadilika ni mafanikio ya sehemu ambayo namba za mazoezi zitaitafsiri vibaya.
+- Kagua usawa katika mifumo ya kukataa na msaada, kwa kuwa kizuizi kinachotumika kwa usawa bado kinaweza kusambaza manufaa bila usawa.
+- Ripoti kizingiti cha kiklasifishaji kilichotumika pamoja na dai lolote la usalama, kwa sababu kiwango cha madhara kilichoripotiwa hakiwezi kulinganishwa kote ya vizingiti.
+
+## Dhana Potofu za Kawaida
+
+**"Kizuizi cha usalama ni kichujio unachobandika kwenye mfano."** Vizuizi vya usalama ni seti ya tabaka za vidhibiti vinavyohusisha ubuni wa ilani, kuweka maarifa kwenye msingi, kuunda thawabu, uhakiki wa utekelezaji na ukaguzi unaoendelea, na tabaka hizo hazibadilishani. Kichujio cha maudhui kinakaa juu ya matokeo; mfumo wa "kidokezo-si-jibu" unakaa ndani ya ilani na kuunda kile mfumo uko tayari kufanya kabisa. Katika jaribio la uwanja la RCT toleo lenye kizuizi liliondoa madhara ya kujifunza yaliyoundwa na toleo lisilo na kizuizi, ambayo ni sifa ya ubuni wa mwingiliano badala ya ya kichujio.
+
+**"Kama mfano hautoi maudhui yenye madhara, mfumo ni salama kwa wanafunzi."** Madhara mara nyingi ni ya kimya. Kushindwa kwa ufundishaji kwa madhara zaidi si matokeo yenye sumu bali mafunzi yanayojibu kwa usahihi na kudhoofisha kujifunza, au yanayokataa kwa usawa na kuimarisha ukosefu wa usawa, kushindwa ambako kichujio cha sumu hakioni kwa muundo, kwa sababu hakuna kitu ndani yao chenye kukera. Kupita ukaguzi wa maudhui ni sharti la lazima linaloripotiwa kana kwamba linatosha.
+
+**"Vizingiti vya vizuizi vya usalama ni chaguo za uhandisi zinazopaswa kurekebishwa."** Kizingiti ni uamuzi wa sera wenye gharama ya usambazaji. Kuhamisha kikomo cha sumu kutoka 0.3 hadi 0.7 kulipunguza ilani zilizoalamishwa kutoka **35.62% hadi 12.4%**; kwenye kigunduzi cha ulaghai kulibadilisha **tahadhari za uongo 15 na ulaghai 18 uliokosekana kwa 2 na 36**. Hakuna kikomo kinachoondoa ubadilishaji huo, kinaamua tu ni kosa gani taasisi inapendelea, na uamuzi huo ni wa taasisi badala ya kigezo cha msingi.
+
+**"Ukaguzi wa usawa ni jambo tofauti na utoshelevu wa kizuizi cha usalama."** Mifumo ya kukataa na msaada husambaza manufaa bila usawa hata inapotumika kwa usawa, na kiwango cha wastani cha madhara huficha ni wanafunzi gani wanaobeba. Ukaguzi unapaswa kuwa sehemu ya vipimo vya kizuizi cha usalama, si utafiti unaoagizwa baadaye.
 
 ## Dhana Zinazohusiana
 
@@ -114,6 +146,7 @@ Haya mawili yamefungwa kwa karibu: karibu kila mbinu ya kizuizi cha usalama ni n
 
 ## Makala Zinazohusiana
 
+- [[ai-security-literacy-k12-framework-2026]] — AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[generative-ai-guardrails-harm-learning]] — jaribio la RCT la uwanja la kigezo juu ya vizuizi vya usalama

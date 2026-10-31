@@ -9,7 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -72,6 +72,13 @@ Video yenye manukuu sahihi na nakala iliyowekwa lebo ipasavyo ni *inayopatikana*
 
 
 - **Unakili wa hesabu unaopatikana kwa video za [[physics-education|fizikia]] (2026):** Mtiririko wa kazi wa AI unaotumia Gemini (sauti + sampuli ya video ya fps 1) na LuaLaTeX hukusanya video za kufundisha fizikia kuwa PDF za PDF/UA-2 na ISO 32005 zinazopatikana kwa hesabu ambazo kwa kawaida hupita uthibitishaji wa ufikivu — njia ya vitendo, ya bure ya kufanya maudhui ya video yenye mlinganyo mwingi yaweze kusomwa kwa skrini na wanafunzi wasio na uoni na wenye uoni hafifu ([[gemini-lualatex-physics-video-transcription-2026]]).
+
+## Dhana Potofu za Kawaida
+
+- **"Kipengele cha ufikiaji kinachoonekana kibaya zaidi ni kibaya zaidi."** Mipako ya mistari ya Stripe **ilidhoofisha uchimbaji zaidi (+35.9% makosa ya herufi, +38.3% makosa ya maneno)**, lakini **wataalam wanne wa typografia na ubuni walihukumu mistari ya wima kuwa inayosomeka**, wakati mifumo ya diagonal ilishindwa. Usomekaji wa mashine na usomekaji wa binadamu ni vipimo tofauti, na kuboresha kimoja kunaweza kuumiza kingine. Madai ya ufikiaji yanahitaji kutaja ni msomaji upi yanayomlenga.
+- **"Ufikiaji unamaanisha upatanisho."** Mapitio ya wigo ya **masomo 40** ya teknolojia za usaidizi za kidijitali kwa wanafunzi wenye tofauti za neva yaligundua **28 zilihitaji utambuzi rasmi kama sharti la kushiriki**. Huo ni mfumo unaozuia kwa utambuzi, na haujumuishi kila mwanafunzi mwenye mahitaji bila lebo, kinyume cha ubuni wa ulimwengu.
+- **"Athari za wastani hutatua swali."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang na wenzake]] wanachambua kwa meta **masomo 29** na kugundua athari chanya ya wastani, ambayo ni halisi na pia haisemi chochote kuhusu zana ipi kwa hitaji lipi. Wastani wa uingiliaji tofauti sana si pendekezo.
+- **"Kasi na upesi ni urahisishaji."** Katika somo la kifani la kimaumbile la **wanafunzi 21 wa shahada ya kwanza wenye uoni hafifu** katika vyuo vitatu vya Palestina, wanafunzi walifasiri upesi kama **sharti la msingi la ufikiaji badala ya urahisishaji**. Kinachoonekana kama anasa kutoka nje ni sharti la awali la kushiriki.
 
 ## Dhana Zinazohusiana
 - [[differential-effects-across-learner-groups]]

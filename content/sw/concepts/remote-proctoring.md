@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,7 @@ ai_assist:
 ## Utangulizi
 
 Usimamizi wa mitihani wa nje upo kwenye wigo. **Usimamizi mtandaoni** kwa kawaida unahusisha msimamizi wa binadamu anayefuatilia mwanafunzi kupitia kamera ya mtandao au kutoka kituo cha kudhibiti. **Usimamizi wa otomatiki/unaotegemea AI (AIPS)** unabadilisha au kuongeza binadamu na mifumo ya [[machine-learning]] na kujifunza kwa kina (CNN, RNN, LSTM) inayochanganua ishara za kuona — miendo ya macho, mkao wa kichwa, mielekeo ya uso, na lugha ya mwili — kugundua tabia ya kutiliwa shaka katika muda halisi. Mifumo ya kawaida inajumuisha ProctorU na Kryterion. AIPS kwa kawaida inaunganisha kazi nne: (1) uthibitishaji wa utambulisho (mfano, uthibitishaji wa uso kwa kamera), (2) vikomo vya kuvinjari, (3) uidhinishaji/udhibiti wa mbali wa mtihani, na (4) uzalishaji wa ripoti kutoka vipindi vilivyorekodiwa.
+- **Ukadiriaji wa mkao huchukua nafasi ya kanuni za kizingiti, na dai la usahihi ni jembamba kuliko linavyosikika.** Arif et al. (2026) hufuatilia alama kumi na saba za mwili kwa kila fremu kwa YOLOv11, hupata vipengele vya mkengeuko wa mkao, mwelekeo wa kichwa na mwendo wa sehemu ya juu ya mwili, na hutumia KNN ya jirani wa karibu mmoja juu ya vipengele 30 vilivyochaguliwa kwa habari za pande zote, wakiripoti usahihi wa 99.56% na AUC 0.9957 kutoka kamera moja ya mtandao ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Takwimu hizo zinaelezea kuzalishwa upya kwa lebo katika seti ya hali iliyoundwa mahsusi, si kugundua makosa.
 
 ## Faida na fursa
 
@@ -53,6 +54,7 @@ Usimamizi wa mitihani wa nje upo kwenye wigo. **Usimamizi mtandaoni** kwa kawaid
 - **Misingi ya uadilifu haikustahimili jaribio kubwa zaidi.** Katika wimbo nne na wanafunzi 1,760 katika kozi 105, usimamizi uliinua wasiwasi wa mtihani (β = 0.60, p < 0.001) lakini haikuwa na athari juu ya majaribu ya kudanganya, ugumu unaohisiwa, au alama, hivyo gharama ya ufuatiliaji haikufidiwa na kuzuia ([[conijn-fear-big-brother-proctored-exams-2022|Conijn et al. (2022)]]).
 - **Usawa na mgawanyo wa kidijitali.** Utegemezi wa vifaa, mtandao usio imara, mwanga, na tofauti za vifaa vinawadhuru wanafunzi wa vijijini na wenye bendi ndogo kwa uwiano mkubwa; usahihi wa mfano unaweza kutofautiana katika demografia na mazingira, na kuhatarisha kuashiriwa kwa njia isiyo ya haki.([[digital-divide]]), [[equity-in-ai-education]] Mapitio ya upeo wa usimamizi katika [[nursing-education|ueugani]] ya tathmini yanaonyesha hii si kisa cha pembeni: nne kati ya masudio yake sita yaliyojumuishwa yaliripoti matatizo ya muunganisho wa mtandao, moja liliripoti kupungua kwa mzako pamoja na vifurushi vya data vilivyopunguzwa, na kutokubaliana kwa vifaa, kasoro za viendelezi vya kivinjari na uchanganuzi wa mazingira ulioshindwa vilikuwa ya kawaida — hivyo kutokuwa na usawa wa miundombinu, si upendeleo wa mfano tu, unaamua nani anaweza kutathminiwa kabisa.([[harerimana-remote-proctoring-nursing-scoping-2026]])
 - **Pengo la kugundua na mbio za silaha.** Udanganyifu wa utambulisho (picha/video za kuficha), matumizi ya kivinjari, na nakala-bandika bado ni vigumu kugundua kwa uaminifu; usahihi wa kugundua unazuiliwa na vikomo vya seti ya data, tathmini ya mfano mmoja, na mapengo ya kurudia. Usimamizi hautatui uadilifu kikamilifu, na unaweza kuunda hisia ya uongo ya usalama.
+- AI inayovaliwa huondoa ishara ya tabia ambayo usimamizi unategemea: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] wanadai kwamba miwani ya AI, vipokea sauti vya sikioni na vifaa vya kusikia vinavyowezeshwa na AI hutoa msaada wa kificho bila mabadiliko ya mtazamo, mabadiliko ya umakini au ishara ya mkao, hivyo uangalizi na kukabidhi vifaa hupoteza ishara wanazozitegemea.
 - **Swali la utawala.** Kama ufuatiliaji ni jibu sahihi dhidi ya [[authentic-assessment|kubuni upya tathmini]] (mdomo, msingi wa mchakato, [[eportfolio|kwingineko]]) ni uamuzi wa taasisi wazi; usimamizi wa mitihani wa nje ni chombo kimoja, si suluhisho kamili.([[governance]]) Mwanga unaofuata wakati utekelezaji unapokwenda vibaya — mashtaka yanayotegemea alama na kumbukumbu za matukio, kuhifadhi na usindikaji wa mbele wa data iliyorekodiwa, na kanuni zinazoangukia wanafunzi walio na ulemavu au wasio wazungumzaji wa asili kwa uwiano tofauti — imeainishwa katika [[legal-issues-and-risks]].
 
 ## Msingi wa ushahidi
@@ -69,6 +71,14 @@ Usimamizi wa mitihani wa nje upo kwenye wigo. **Usimamizi mtandaoni** kwa kawaid
 - **Mifumo inayohifadhi faragha.** Usindikaji wa ukingo, kutofautisha, na usimamizi wa kifaa hupunguza uvamizi wa kukamata data ya mfululizo.
 - **Uwekaji unaozingatia usawa.** Seti za data zinazojumuisha kijiografia na mifumo nyepesi kwa mazingira yenye rasilimali ndogo; mbadala zinazopatikana kwa wanafunzi bila vifaa/muunganisho wa kuaminika.
 - **Fundisha kabla ya kufuatilia.** Pendelea kukuza [[ai-literacy]] na [[reducing-ai-misuse|matumizi yenye uwajibikisho]] kupitia utamaduni na kujenga uaminifu, na kuhifadhi usimamizi kwa matukio ya hatua kubwa yanayohitaji kweli.
+
+## Dhana Potofu za Kawaida
+
+- **"Usimamizi wa mitihani hulinda uadilifu wa kitaaluma."** **Sababu ya uadilifu haikustahimili jaribio kubwa zaidi.** Katika **mawimbi manne na wanafunzi 1,760 katika kozi 105**, usimamizi **ulipandisha wasiwasi wa mtihani (β = 0.60, p < 0.001) lakini haukuwa na** faida ya uadilifu inayoweza kuonekana. Athari iliyopimwa ilikuwa kwa wanafunzi, si kwa udanganyifu.
+
+- **"Uwezo bora wa kugundua maana yake usimamizi bora."** Mapitio ya kimfumo ya muongo mmoja ya **masomo 80 yaliyopitiwa na wenza (2014-2024)** yanagundua usimamizi wa hali ya juu wa ML/DL **hugundua udanganyifu kwa** usahihi zaidi na hayasemi chochote kuhusu kama kuutumia kunabadilisha mwenendo. Utendaji wa kugundua ni sifa ya kigawanyaji, si ya utaratibu wa tathmini.
+
+- **"Ishara za tabia ni viashiria vya kuaminika vya makosa."** Mifumo **hufuatilia alama kumi na saba za mwili kwa kila fremu** kwa YOLOv11 ili kupata vipengele vya **mkengeuko wa mkao, mwelekeo wa kichwa na mwendo wa sehemu ya juu ya mwili**. Dhana hizo ni mbadala, na mkao ulioashiriwa ni uainishaji kuhusu mwili badala ya uchunguzi wa kosa.
 
 ## Dhana Zilizounganishwa
 - [[anxiety-and-stress]]
@@ -88,6 +98,7 @@ Usimamizi wa mitihani wa nje upo kwenye wigo. **Usimamizi mtandaoni** kwa kawaid
 - [[higher-ed]]
 
 ## Makala Zilizounganishwa
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — AI inayovaliwa huondoa ishara ya tabia ambayo usimamizi unategemea (Corbin, Sharpe & Dawson 2026)
 
 - [[automated-online-exam-proctoring-decade-review-2026]] — Mapitio ya kimfumo ya muongoja wa usimamizi wa mitihani mtandaoni wa otomatiki
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Mapitio kamili ya udanganyifu wa kitaaluma katika usimamizi wa otomatiki

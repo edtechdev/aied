@@ -1,7 +1,7 @@
 ---
 title: Mila ya Matumizi ya AI
 created: "2026-10-13T05:30:00-04:00"
-updated: "2026-10-07T08:00:00-04:00"
+updated: "2026-10-31T13:07:22-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -23,7 +23,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -95,6 +95,18 @@ Gharama ya kubadilisha huko inajitokeza katika mahali wataalam na wanafunzi wana
 - **Heshimu tofauti ya kitaaluma.** Uenezi wa 27% hadi 5% katika idara sio kutolingana kunakopaswa kutolewa, ni maamuzi tofauti kuhusu kile cheti kinathibitisha. Maagizo ya taasisi nzima yanajitahidi kuandikwa kwa taaluma ambayo haipo.
 - **Usifikie ufuatiliaji kuweka mila.** Usimamizi wa mitihani uliongeza wasiwasi bila kubadilisha jaribio la wizi katika utafiti wenye nguvu zaidi unaopatikana, na unakusanya gharama hiyo kwa wanafunzi wenye hasara zaidi.
 - **Uliza ni nani anayokosekana katika norm.** Fashti ya maadili inawapa wanafunzi karibu hakuna wajibu na huchukulia kidogo hukumu yao, wakati darasa inawapa mengi na kuitumia kijamii. Kufunga pengo hilo ni swali la mtaala, si swali la kuzingatia.
+
+## Dhana Potofu za Kawaida
+
+**"Wanafunzi wanajua wenzao wanatumia AI kiasi gani."** Wanakadiria kupita kiasi ujuzi wao wenyewe kuhusu hilo. Uhusiano wa wastani kati ya makadirio ya mtazamaji na wasifu wake mwenyewe wa matumizi ulioripotiwa ulikuwa **r = .73 katika mawimbi yote mawili**, wakati usahihi wa daraja kwa *aina* ya matumizi ya AI ulikuwa **r = .34** pekee. Wanafunzi wanaweza kusema takribani kiasi, na hawawezi kusema aina, jambo linalomaanisha mila hujengeka kuzunguka taswira iliyo mbovu kwa utaratibu.
+
+**"Kuchapisha sera kunathibitisha mila."** Kitabu cha kanuni cha mahali hapo huandikwa katika mazoezi, si katika maandishi ya sera, na nyanja zinatofautiana sana: kazi zilizounganishwa na AI zilionekana katika **asilimia 27 ya silabasi za biashara na asilimia 5 ya silabasi za sayansi za binadamu** katika **kozi 31,000**. Mila inayotumika ya mwanafunzi ni ya taaluma yake mwenyewe, na hati ya taasisi yote haiipindui.
+
+**"Aibu na hatia huzuia matumizi ya AI."** Hudhibiti uonekano badala ya matumizi: [[shame-guilt-ai-regulation-computing-education|aibu na hatia hudhibiti uonekano]], zikizalisha kujificha na kufichua kwa uteuzi badala ya mabadiliko ya tabia. Athari inayoonekana ya mila ya kuaibisha ni kuripoti kwa uaminifu kidogo, si matumizi machache.
+
+**"Ufuatiliaji ungetatua mila kwa kufanya matumizi yaonekane."** Kufanya tabia ionekane hakutatui mila inapaswa kuwa nini; hubadilisha kile watu wako tayari kufichua. Muundo uliopimwa ni kufichua kwa uteuzi tayari, hivyo utaratibu wa ufuatiliaji unaotumika juu yake hupima ufichaji badala ya mwenendo.
+
+**"Mila ni zisizo rasmi, hivyo ziko nje ya ufikiaji wa taasisi."** Zinatekelezwa mahali hapo na zinaweza kubadilishwa mahali hapo, jambo linalozifanya ziwe rahisi kushughulikia kuliko sera: mazoezi ya wazi ya timu ya kozi ni kielekeo hasa kwa sababu ndipo kanuni inayotumika inapowekwa.
 
 ## Dhana Zilizounganishwa
 

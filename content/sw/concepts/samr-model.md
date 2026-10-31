@@ -9,7 +9,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,16 @@ SAMR inaeleweka vyema zaidi kama lenzi ya kina cha kuunganisha inayotumika katik
 - **Unganisha na ICAP.** SAMR inaelezea kile ambacho *kazi* inakuwa; ICAP inaelezea jinsi mwanafunzi *anashiriki*. Zikitumika pamoja zinatofautisha ubadilishaji wa juu ya uso kutoka ujenzi wa pamoja wa mwingiliano wa kina.
 - **Ijumuishe na lenzi za kupitisha na usawa.** SAMR haisemi lolote kuhusu kwa nini zana inapitishwa au nani anafaidika. Iunganishe na [[technology-acceptance-model|mifano ya kupitisha]] na uchanganuzi wa [[equity-in-ai-education|usawa]] ili kuepuka lebo ya kina kuchukua nafasi ya [[critical-thinking|tathmini mahususi]].
 - **Chukulia ushahidi wa kuunganisha kwa nyongeza kama ugunduzi, si kama kushindwa.** Kama kuunganisha AI kwingi kinakusanyika katika Ubadilishaji/Uboreshaji, kazi ya kubuni si kulazimisha Ufafanuzi upya bali kutambua kuwa matumizi ya ubadilishaji yanahitaji mibuni tofauti ya kazi, si zana bora tu.
+
+## Dhana Potofu za Kawaida
+
+**"Juu zaidi kwenye SAMR ni ufundishaji bora."** SAMR ni lenzi ya kuuliza kama AI *inakibadilisha kifikra* kujifunza au *inaboresha* mazoezi yaliyopo; si cheo cha ubora, na Ufafanuzi-Upya si jibu sahihi kwa kila kazi. Mbadala unaoondoa hatua isiyo na tija ni mafanikio yanayohukumiwa kwa kujifunza, si kwa kiwango inachokaa.
+
+**"Upokeaji wa AI unaendelea kupanda ngazi."** Mgawanyo umejikita chini. Mapitio ya kimfumo ya muunganiko wa AI katika [[higher-ed|elimu ya juu]] yaligundua **matumizi mengi yalikaa katika Ubadilishaji au Ongezeko, huku somo moja tu likikaribia Ufafanuzi-Upya**. Matumizi ya vitendo ya SAMR katika fasihi hii kwa hiyo ni ya utambuzi kwa kiasi kikubwa: yanataja mahali uwanja ulipo kwa kweli.
+
+**"SAMR na TPACK ni miundo shindani."** Zinaeleza vitu tofauti: SAMR inaeleza *kiwango cha mabadiliko* katika kazi, wakati [[tpack|TPACK]] inaeleza *maarifa* ambayo mwalimu anahitaji ili kuunganisha teknolojia vizuri. Mwalimu anaweza kuwa na uwezo mkubwa wa TPACK na bado kufanya kazi katika Ubadilishaji, ndiyo sababu hizo mbili hutumika pamoja badala ya kuchagua kati yake.
+
+**"Zana inayobadilisha katika kiwango kimoja inabadilisha katika viwango vyote."** Zana ile ile ya uzalishaji inaweza kuunga mkono Ubadilishaji katika kozi moja na Ufafanuzi-Upya katika nyingine, kwa sababu kiwango ni sifa ya muundo wa kazi badala ya teknolojia. Kuhusisha kiwango na zana huzalisha maamuzi ya upokeaji badala ya maamuzi ya ubuni.
 
 ## Dhana Zilizounganishwa
 - [[ai-education]] — AI katika elimu (mbioni)

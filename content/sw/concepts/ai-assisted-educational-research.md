@@ -23,7 +23,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 
 
@@ -184,6 +184,12 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
+
+## Dhana Potofu za Kawaida
+
+- **"Makala za LLM na za programu hupimwa kwa usawa sawa."** Tangu 2023, **38.0% ya makala za programu na bidhaa hazikuripoti tathmini yoyote, dhidi ya 9.3% ya makala za LLM**. Pengo ni kubwa na linapinga dhana kuwa zana mpya hujaribiwa kwa ukali mdogo.
+- **"Kugawanya kwa kazi kunarekebisha pengo."** **Pengo linaendelea baada ya kugawanya**: katika uchunguzi na uteuzi, makala za programu zilikuwa na wastani wa **vipengele 3.2 vya tathmini yenye maudhui huku 39.3% zikiripoti hakuna**, wakati makala za LLM zilikuwa na wastani mkubwa zaidi. Tofauti ni sifa ya kimfumo ya aina ya makala, si ya kazi.
+- **"Tathmini chanya inamaanisha mtiririko ulifikia kizingiti kilichokusudiwa."** Miongoni mwa **makala 118 za LLM zenye tathmini chanya pekee, 52% bado ziliripoti angalau wasiwasi mmoja kwamba mtiririko ulikuwa chini ya kizingiti kinachohitajika kwa jukumu lake**. Nusu ya tathmini chanya zilikuwa na kukanusha kwao wenyewe.
 
 ## Dhana Zilizounganishwa
 

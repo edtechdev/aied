@@ -6,7 +6,7 @@ research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,16 @@ DBR hubadilisha udhibiti wa sababu wa [[rct|majaribio]] kwa uhalisi wa kiikoloji
 ## Uhusiano na mbinu zingine
 
 DBR ni mbinu ya alama ya [[learning-sciences|sayansi za kujifunza]] — uwanja wa fani mbalimbali unaochunguza kujifunza na ubini wa mazingira ya kujifunza, na unaochukulia kujenga uingiliaji na kuuchunguza kama shughuli moja badala ya mbili. Ni ya kukamiliana, si mshindani, na mbinu zingine za utafiti (angalia [[research-methods-aied]] kwa mazingira kamili). Ambapo [[rct|majaribio]] yanaanzisha sababu na [[quantitative-research|dodoso]] zinaanzisha upana, DBR inaanzisha *uwezekano na maarifa ya ubini* — iwapo uingiliaji unaweza kujengwa kufanya kazi katika mazoezi halisi na kanuni zipi za ubini zinasaidia. Mara nyingi inaungana na [[usability-research|tathmini ya urahisi wa matumizi]] (kuboresha kiolesura) na [[qualitative-research|mbinu za kina]] (kuelewa jinsi wanaojifunza wanavyoona uingiliaji). Programu iliyokomaa ya DBR kwa kawaida hukamilika na [[rct|jaribio la ufanisi]] au utafiti wa [[educational-measurement|kipimo]] unaopima athari za sababu za uingiliaji uliendelezwa katika kiwango kikubwa.
+
+## Dhana Potofu za Kawaida
+
+**"Utafiti unaotegemea ubuni ni mbinu ya kina."** DBR ni mila ya *ubuni*, si mila ya data: haifungii kabisa katika utofautishaji wa kiwango, kina na majaribio, kwa sababu kitengo chake cha kazi ni kitu cha ubuni kinachorudiwa badala ya mpango mmoja wa upimaji. Masudio ndani ya DBR yanaweza kuwa ya kiwango, ya kina au ya majaribio; kinachoyafanya kuwa DBR ni kwamba ubuni unarekebishwa wakati ugunduzi unazalishwa.
+
+**"Kuboresha kwa kurudia kunafanya ubuni usiathirike na mkanganyiko unaowakumba mbinu zingine."** Kurudia hubadilisha tishio moja kwa lingine. Kuboresha ubuni katikati ya utafiti kunamaanisha toleo la mwisho linatofautiana na lile lililozalisha ushahidi wa awali, kwa hivyo dai kuhusu "uingiliaji" linavuka uingiliaji kadhaa. Kuripoti ni marekebisho gani yalizalisha matokeo gani ni wajibu wa taaluma hii, na mara nyingi huachwa bila kutajwa.
+
+**"Kwa kuwa DBR huzalisha kitu kinachofanya kazi, imeonyesha ufanisi."** Ubuni unaofanya kazi katika tovuti iliouzalisha kwa pamoja umeonyesha uwezekano wa ndani, ambayo ni dai tofauti na ufanisi. Kitu hicho kinabeba marekebisho yaliyofanywa kwa muktadha huo, na kuki hamisha kunahamisha dharia ambazo hazikuwahi kutajwa kama dharia.
+
+**"Kuchukulia kifaa kama kitu cha ubuni kinachoweza kuboreshwa ni kupotoka kutoka DBR."** Ni tabia ya kurudia ya DBR ikitumika kwenye upimaji badala ya uingiliaji: utafiti mmoja katika korpusi hii ulichukulia rubriki yenyewe kama kitu cha ubuni, ukizunguka kupitia kuboresha kwa pamoja na [[llm|LLM]]. Nyongeza hiyo inafaa kutajwa kwa sababu inafanya maendeleo ya kifaa chenyewe kuwa sehemu ya ushahidi.
 
 ## Dhana Zilizounganishwa
 

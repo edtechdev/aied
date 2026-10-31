@@ -10,7 +10,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **Faragha** — ulinzi wa data ya mwanafunzi, utambulisho, na [[agency|uhuru]] katika miktadha ya kujifunza inayoimarishwa na AI. Masuala ya faragha yanazidi kukua kadiri mifumo ya AI inavyokusanya data ya tabia yenye undani unaoongezeka kwa ajili ya [[personalized-learning|ubinafsishaji]], [[learning-analytics|uchanganuzi wa kujifunza]], na [[student-modeling|mafundisho yanayobadilika]]. Ni kikomo muhimu cha maadili na cha kisheria kwa [[ai-education|AI katika elimu]]: karibu kila zana ya AI inayobinafsisha, inatabiri, au inatathmini hutegemea data ya mwanafunzi, ambayo inafanya kupunguza data, ridhaa, uwazi, na usalama kuwa mahitaji ya msingi ya ubuni badala ya mawazo ya baadaye.
+> **Faragha** — ulinzi wa data ya mwanafunzi, utambulisho, na [[agency|uhuru]] katika miktadha ya kujifunza inayoimarishwa na AI. Masuala ya faragha yanazidi kukua kadiri mifumo ya AI inavyokusanya data ya tabia yenye undani unaoongezeka kwa ajili ya [[personalized-learning|ubinafsishaji]], [[learning-analytics|uchanganuzi wa kujifunza]], na [[adaptive-learning|mafundisho yanayobadilika]]. Ni kikomo muhimu cha maadili na cha kisheria kwa [[ai-education|AI katika elimu]]: karibu kila zana ya AI inayobinafsisha, inatabiri, au inatathmini hutegemea data ya mwanafunzi, ambayo inafanya kupunguza data, ridhaa, uwazi, na usalama kuwa mahitaji ya msingi ya ubuni badala ya mawazo ya baadaye.
 
 ## Maswali ya Kutafakari
 
@@ -50,6 +50,10 @@ Faragha ni sharti la awali la AI inayoaminika katika elimu. Kwa sababu mifumo ya
 
 - **Ushahidi wa msingi wa ufuatiliaji ni hafifu kuhusu maadili.** Mapitio ya masudio 80 yaligundua 35% hayakufichua seti yao ya data, 40% yalitathmini mfano mmoja, 30% hayakuweza kurudiwa na 25% tu yalishughulikia masuala ya maadili; matokeo ya uongo — kutambua tabia ya kawaida — yanabaki kuwa hatari kuu ya uaminifu ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).
 
+- **Uhuru unapanua uso wa data.** Mfumo wa wakala wa kujaza fomu hudumisha hifadhi ya maarifa binafsi ya namna nyingi katika huduma za kitaasisi, ikitathminiwa kwa sehemu 1,301 za kipekee zilizotolewa kutoka tovuti 44 za uajiri za makampuni, na waandishi wake wanataja usimamizi wa maarifa unaohifadhi faragha, udhibiti wa ufikiaji na uthibitisho wa binadamu kama mahitaji ya utekelezaji yasiyotatuliwa ([[large-language-models-teaching-learning-higher-ed|Li et al. (2026)]]).
+- **Uwekaji kodi wa EEG hufichua umakini.** Uwekaji kodi wa neva unapanua tatizo la faragha zaidi ya kumbukumbu za tabia: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] waliunda upya kile wanafunzi walichokuwa wanakitazama kutoka EEG yao wakati wa mafunzo ya video, jambo linalofanya uwakilishi uliowekwa kodi kufichua kwa njia isiyo ya kawaida na kuacha utawala wa data nyeti ya neva bila kutatuliwa.
+- **Violezo vya mazungumzo huvujisha mazungumzo yenyewe.** Kuweka ukaguzi kwa majukwaa 42 ya mazungumzo ya AI, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] waligundua 21 yakituma vichwa vya mazungumzo kwa vifuatiliaji vya wahusika wengine, na majukwaa saba ya elimu yalikuwa na wastani wa takriban maombi 367 ya vifuatiliaji kila moja, huku matano yakivujisha muktadha.
+
 ## Usalama wa watoto na ulinzi wa K-12
 
 Miktadha ya [[k-12]] inahitaji ulinzi thabiti zaidi wa faragha kwa sababu wanafunzi ni watoto wadogo. Hii inaeneza faragha zaidi ya ulinzi wa data hadi [[pedagogical-safety]]: zana ambazo watoto zinazitumia lazima zisilinze data yao tu bali pia ziwalinde na madhara. [[child-safety-genai|Utafiti wa usalama wa watoto]] unaonyesha kuwa vifaa vya jumla vya kutambua usalama mara nyingi hushindwa kugundua ilani zisizo salama zinazohusiana na elimu kutoka kwa watoto, na kuonya kuwa shule haziwezi kudhani kuwa ulinzi wa kawaida wa mfano unawalinda watumiaji wadogo — wanahitaji tathmini maalum ya watoto, majaribio yaliyoingizwa na matukio, na [[human-in-the-loop-ai|usimamizi wa binadamu]]. Mfumo huu unaunganisha faragha na [[equity-in-ai-education|usawa]]: nani anayelindwa na usalama na faragha ya chaguo-msingi unaakisi usalama na uhuru wa nani ambao mfumo unachukulia kuwa hauwezi kupinganishwa.
@@ -64,6 +68,13 @@ Miktadha ya [[k-12]] inahitaji ulinzi thabiti zaidi wa faragha kwa sababu wanafu
 ## Mahusiano
 
 Faragha inaunganishwa na [[learning-analytics]] (mkusanyaji wa data), [[personalized-learning]] (mtumiaji wa data), [[k-12]] (ulinzi ulioimarishwa), [[ethics]] (mfumo wa kimaadili), [[regulation]] (mahitaji ya kisheria), [[governance]] (wajibu wa taasisi), [[equity-in-ai-education]] (nani analindwa), [[pedagogical-safety]] (ulinzi wa watoto), na [[educational-policy-ai]] (majibu ya sera). Ni moja ya vikomo vya msingi ambavyo utekelezaji wowote wa AI unaowajibika katika elimu lazima ukidhi — sababu, katika mfumo wa hifadhi hii ya maarifa, AI inayoaminika inaanza na data inayoaminika.
+
+## Dhana Potofu za Kawaida
+
+- **"Ufuatiliaji unakamata sehemu ndogo, inayoeleweka ya data."** Orodha ya kile mifumo ya [[remote-proctoring|ufuatiliaji]] inakamata kweli inataja **picha za uso, nyaraka za utambulisho, skanning za chumba ikiwemo ufagio wa digrii 360, sauti ya maikrofoni, utambuzi wa uso** na zaidi. Wigo ni mpana kuliko jinsi michakato mingi ya ridhaa inavyoeleza.
+- **"Fasihi ya ufuatiliaji inathibitisha maadili ya ufuatiliaji."** Mapitio ya **masudio 80** yaligundua **35% hayakufichua seti yao ya data, 40% yalitathmini mfano mmoja, 30% hayakuweza kurudiwa na 25% tu** yalifikia kiwango cha kuripoti. Msingi wa ushahidi ni mwembamba hasa kwa maswali ambayo taasisi inahitaji majibu kabla ya utekelezaji.
+- **"Faragha ni kisanduku cha utiifu badala ya sharti la ubuni."** Karibu kila chombo cha AI kinachobinafsisha, kutabiri au kutathmini kinategemea data ya mwanafunzi, jambo linalofanya upunguzaji wa data kuwa uamuzi wa ubuni. Chombo kinachohitaji data hakina mpangilio wa faragha wa hiari; kina utegemezi wa data ambao ubuni uliuchagua.
+- **Uelewa wa mazoea ya data haufuati kwa kuyaona.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] aligundua **66% ya wanafunzi 47 wa mwaka wa 7** wakichagua chaguo lisilo na ulinzi wowote kwa chatbot zinazosoma maandishi yao, na **47%** wakipuuza ushawishi wa algoriti kama "burudani tu", jambo lililopimwa **mwezi mmoja baada** ya somo ambalo darasa lilijiangalia tabia yake iliyorekodiwa ikiwasilishwa moja kwa moja, likaitikia kwamba ni "ya kutisha", na wengi walibaki wakati wa mapumziko kuendelea kutumia jukwaa. Mafundisho ya faragha yanayofanya utaratibu uonekane bila kufanya gharama iwe thabiti huacha msimamo bila mabadiliko. Mwandishi anabainisha kwamba alama za chini hapa zinaweza kuwa **za kuaminika zaidi kuliko za juu**, kwa kuwa hakuna jibu linalotarajiwa kijamii kwa vitu hivi ilhali uwajibikaji na utawala hualika jibu linalosikika sahihi.
 
 ## Dhana Zilizounganishwa
 
@@ -97,3 +108,4 @@ Faragha inaunganishwa na [[learning-analytics]] (mkusanyaji wa data), [[personal
 - [[agarwal-ethical-values-norms-aied-2026]] — Thamani na kanuni za maadili za AI katika elimu
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Kile mifumo ya ufuatiliaji inayokusanya, na kutokuwepo kwa fasihi ya faragha katika msingi wa ushahidi
 - [[edtech-privacy-deferral-2026]] — "Tutarekebisha Baadaye": Elimu, AI, na Kuahirishwa kwa Faragha ya Mwanafunzi katika EdTech
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Senti kwa ajili ya ilani zako: uvujaji wa muktadha katika majukwaa ya mazungumzo ya AI (Bekos et al. 2026)

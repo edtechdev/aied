@@ -8,7 +8,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-10T14:20:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,6 +37,12 @@ Wanafunzi bandia ni zana ya [[research-methods-aied|mbinu]]: mawakala wanaosimam
 Ukaribu unaoendeshwa na AI unaboresha swali ambalo ukurasa unajali: ni nani anayewakilishwa na uigaji, na nini mwalimu anatarajiwa kugundua. Katika elimu ya walimu wa hisabati, [[bondurant-shaughnessy-ai-pedagogies-practice-2026|kazi za wanafunzi zilizotengwa kwa maandishi na washirika wa chatbot]] zinazotumika katika mazoezi huongeza ukaribu wa mazoezi ambao tayari unaandaa mafunzo ya kitaalamu. Utafiti mmoja wa [[conversational-ai|chatbot]] ulizalisha mifumo minne tofauti ya kuuliza maswali, lakini [[self-assessment|tathmini binafsi]] za walimu wanaojiandaa hazikulingana na ubora wa mwingiliano ambao watazamaji walirekodi, na hivyo kufanya maoni yanayotolewa kiotomatiki baada ya mazoezi ambayo yaliongeza maswali ya kuchunguza na kuchunguza zaidi yawe ya mwongozo lakini yasiyosadifu. Kifaa cha kuiga, mgombea, na maoni vyote vinabidi visomwe pamoja. Kile ambacho uigaji humruhusu mwalimu kugundua pia huwekwa na ubuni wake: katika [[preservice-teachers-noticing-ai-simulations-2026|uingiliaji wa Galiç et al. (2026) wa wiki tatu wa ishara ya usawa]] na walimu 17 wa hisabati wanaojiandaa, wagombea walihamia kati ya kushiriki, kutafsiri na kuunda badala ya kupitia mlolongo uliowekwa, lakini mpangilio wa moja-kwa-moja, wa maandishi ulimaanisha kuunda kulipungua kuwa kuuliza maswali na [[prompt-engineering|kutoa ilani]], na ubuni unaoweka dhana potofu kwanza ulivuta umakini kuelekea kugundua makosa badala ya nguvu za mwanafunzi. Kifaa cha kuiga huchagua kipande cha kufundisha ambacho mgombea hupata nafasi ya kufanya mazoezi.
 
 Kuboresha kwa usimamizi peke yake huweka hali dhaifu ya kifaa cha kuiga kwa uwezo unaotakiwa, kwa sababu lengo lake linazawadia kurudia maandishi ya majibu badala ya kufunga ubora wa majibu kwa uwezo; [[cross-ability-preferences-item-difficulty-2026|Fernandez et al. (2026)]] badala yake wanaunganisha kifaa cha kuiga kupitia uboreshaji wa moja kwa moja wa mapendeleo juu ya jozi zilizoundwa kutoka mapengo ya uwezo wa IRT ya wanafunzi, na katika CodeWorkout jozi hiyo inashinda misingi yote ya moja kwa moja ya kutabiri ugumu na, katika kiwango cha 1B, kifaa cha kuiga cha SMART katika kila kipimo cha ugumu huku ikizalisha majibu yenye uhalali zaidi wa usambazaji.
+
+- **Tabiri mwanafunzi badala ya kufanya kama mmoja.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]] walibadilisha uigaji kuwa utabiri wa nafsi ya tatu: mfano wa mwanafunzi uliojengwa kutoka historia ya mwanafunzi hutoa msingi, hali ya mwanafunzi iliyohitimishwa huzuia kitendo kinachofuata, na usambazaji wa uwezo ulioigwa unakaribia ule halisi kwa 2.4–8.4× kwa umbali wa Wasserstein-1.
+
+**Wateja waliyoigwa huondoa awamu ya ufafanuzi, na tabia ya mwanafunzi inafuata.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] walilinganisha maigizo 64 ya ushauri wa mazungumzo kati ya binadamu na binadamu na mazungumzo 74 ya binadamu na LLM (Mixtral 8x7B, 4-bit) chini ya mfumo wa kategoria wa GeCCo na kugundua kwamba wateja wa LLM walifichua tatizo lililopachikwa katika ilani yao badala ya kulizunguka. Washauri kwa hivyo walifikia Utatuzi wa Matatizo katika 17.63% ya tabia zilizowekwa kodi dhidi ya 10.67% na wateja wa binadamu, walitegemea zaidi tafakuri ya kitendo kuliko upatanishi wa kuwezesha, na walifunga vikao kwa taratibu rasmi mara nyingi zaidi (11.95% dhidi ya 5.95%). Matokeo ya ubuni ni kwamba mtaala uliojengwa hasa juu ya wateja waliyoigwa hufundisha nusu ya pili ya kikao: kuchochea maelezo yenye kusita ndilo hasa ambalo mteja aliyeigwa huliruka, hivyo ilani inayomfanya mteja kuficha hulirejesha.
+
+Jaribio la uhalali lenye ukali zaidi linauliza kama mfano unazalisha *uchaguzi* wa binadamu hata kidogo: katika mchezo uliobadilishwa wa kujifunza kwa kujielekea, mifano mitano ya mbele ilitumia suluhisho moja ambapo washiriki 175 wa binadamu walichunguza katika malengo mbalimbali, hivyo mfano unaosimama badala ya wanafunzi uliacha tabia ambayo uigaji upo kuizalisha ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al. (2026)]]).
 
 ### Kwa nini kutengeneza wanafunzi bandia
 
@@ -115,6 +121,12 @@ Kazi ya 2026 ya ujuzi wa kudumu inabadilisha mwelekeo wa kawaida wa uigaji. Bada
 
 Mafunzo dhidi ya kifaa cha kuiga yanaweza pia kusafiri: wakala wa kujifunza kwa kuimarisha wa TutorLoop, aliyefunzwa nje ya mtandao dhidi ya mwanafunzi bandia, alihamishwa bila kubadilishwa kwenye kazi mpya halisi ya kujifunza bila kufunzwa upya (N = 187), ambapo maoni yake machache lakini yenye muda bora yalishinda maoni mengi zaidi ([[tutorloop-sensor-cognitive-feedback-2026|Xu & Zhang, 2026)]]).
 
+## Dhana Potofu za Kawaida
+
+- **"Wanafunzi wa LLM ni mwakilishi mzuri wa kutosha."** **Uigaji unashughulikia wanafunzi rahisi zaidi, na wachache wamethibitishwa**: **walimu kumi na wawili** waliowafundisha wanafunzi wa LLM waliripoti **lugha ngumu kupita kiasi, hisia zinazokosekana** na tofauti nyingine kutoka kwa wanafunzi halisi. Mwakilishi anaiga kesi inayoweza kushughulikiwa.
+- **"Mwanafunzi aliyeigwa mwenye pengo la maarifa hufanya kama mwanafunzi mwenye pengo hilo."** Kuzuia **viainishi 16 vya maarifa vilivyolengwa katika Mistral-7B kulishusha usahihi kutoka takriban 0.75 katika uwiano wa kusahau wa 10% hadi chini ya 0.5 katika 40%**, huku mfano wa msingi ukishikilia. Uharibifu uliundwa kwa makusudi, jambo linalolifanya kuwa uingiliaji unaodhibitiwa badala ya uigaji.
+- **"Utulivu wa wasifu ni tatizo la uchaguzi wa mfano."** Ni **tatizo la ubuni wa mwingiliano**: kuchanganya **LLM tano na miundo mitatu ya ilani na wasifu wanne wa ukali wa ADHD**, tofauti zilizoandikwa zilifuata muundo wa ilani badala ya mfano. Kuchagua mfano bora hakurekebishi wasifu usio imara.
+
 ## Dhana Zilizounganishwa
 
 - [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
@@ -165,5 +177,8 @@ Mafunzo dhidi ya kifaa cha kuiga yanaweza pia kusafiri: wakala wa kujifunza kwa 
 - [[simulating-novice-students-machine-unlearning-2026]] — kusahaulisha kwa mashine kama njia ya kuweka kifaa cha kuiga katika kiwango thabiti cha maarifa ya mwanafunzi mpya, na kujifunza upya kupitia mazungumzo ya kufundisha
 - [[student-development-agent-risk-free-simulation-2025]] — kutabiri matokeo ya maendeleo ya baada ya kozi ya wanafunzi kwenye jukwaa la mawakala wengi bila kuwahusisha na uingiliaji
 - [[preservice-teachers-noticing-ai-simulations-2026]] — wiki tatu za walimu wanaojiandaa kushiriki, kutafsiri na kuunda katika uigaji wa chatbot ya ishara ya usawa, na jinsi ubuni unavyoelekeza wanachogundua
-- [[beagle-grounded-learner-emulation-2026]] — kifaa cha kuiga cha neuro-simboliki kinachotekeleza muundo wa SRL kwa muundo badala ya kutoa ilani, na kinapita jaribio la Turing la wanadamu
+- [[beagle-grounded-learner-emulation-2026]] — kifaa cha kuiga cha neuro-simboliki kinachotekeleza muundo wa SRL kwa mwanafunzi
+- [[rudolph-llm-simulated-counselling-clients-2026]] — Wateja waliyoigwa wa ushauri hufichua haraka, hivyo wanaofunzwa huruka upatanishi wa kuwezesha
+- [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: Kutoka maigizo hadi uundaji wa tabia ya mwanafunzi kwa uigaji mwaminifu
+- [[llm-goal-selection-self-directed-learning-2026]] — Uteuzi wa malengo wa mfano wa lugha unatofautiana na binadamu katika kazi ya kujifunza kwa kujielekeando badala ya kutoa ilani, na kinapita jaribio la Turing la wanadamu
 

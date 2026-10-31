@@ -10,7 +10,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -34,6 +34,8 @@ ai_assist:
 ## Utangulizi
 
 Tathmini ya mchakato ni kituo cha [[ai-education|AI katika elimu]] kwa sababu inapatikana katika muunganiko wa [[assessment]] na [[feedback|maoni ya kujifunza]]. Kusudi lake ni kufunga dundu: kufichua wanafunzi wanavyojua na wasiojua, na kutoa maoni wanayoweza kuyatekeleza ili kuboresha. AI hufanya hii kuwa ya kwenda-enda kwa kiwango kikubwa — kuzalisha vipengele, kuainisha majibu, na kutoa maoni binafsi — lakini utafiti wa hifadhi hii ya maarifa unaonyesha kuwa ubora unatofautiana kwa kiasi kikubwa kati ya aina za vipengele, na kuwa maoni yanafaa tu wanafunzi wanapoyatekeleza kweli.
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] wanatoa ushahidi kwamba mfumo wa kuandika wa kiotomatiki unaweza kutumikia lengo halisi la mchakato: ukuaji ulionekana katika ubora wa marekebisho na si katika alama za vipengele pekee, lakini pale tu walimu walipojenga maoni hayo katika majadiliano ya darasa.
 
 ## Vipengele vya tathmini ya mchakato vilivyozalishwa na AI
 
@@ -98,10 +100,13 @@ Tathmini ya mchakato katika elimu ya AI inaungana na mchakato wa kujifunza wenye
 - **Uhalali na ubora:** [[ai-feedback-quality|ubora]] na [[assessment-validity|uhalali]] wa vipengele vya tathmini ya mchakato vilivyozalishwa na AI na maoni lazima vitathminiwe; [[ai-ed-evaluation]] inatoa mbinu.
 - **Kuainisha kwa AI kinaongeza tishio la uhalali.** Kwa sababu mfano wa kuainisha wa AI unaweza kuthawabisha sifa zisizohusiana na dhana kama ufasaha wa lugha badala ya ufahamu wa kisayansi, karatasi nyeupe ya Stanford/ETS iliyochambuliwa kutoka kwenye mkutano wa viongozi ~100 inadai tathmini inapaswa kukusanya ushahidi endelevu, wenye muktadha badala ya kuthibitisha matokeo ya wakati mmoja ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 - **Weka kazi yenye udhaifu na ongeza pacha.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] wanadai insha za nyumbani na ripoti za utafiti zinabeba thamani kubwa ya mchakato na zinapaswa kuhifadhiwa kwa kujifunza, zikishirikishwa na kazi ya pili inayotathmini matokeo yale yale na inayotoa ushahidi thabiti wa mwisho.
+- **Tathmini ya mchakato inayosaidiwa na teknolojia ni sifa ya mfumo, si zana.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] anaifafanua kama zao la pamoja la uwezo wa kiteknolojia, udhibiti wa kielimu, wakala wa mwajifunzaji na hukumu ya binadamu, na anadai thamani yake iko katika kuendeleza mzunguko wa ushahidi, maoni, tafakari na hatua badala ya uotomatiki.
 
 ## Hatari: Tathmini kama ufuatiliaji
 
 Mifumo ya tathmini ya mchakato inaweza kubadilika kutoka zana za msaada wa kujifunza hadi miundombinu ya ufuatiliaji wa tabia. Mtiririko ule ule wa data unaoruhusu mafunzo yanayobadilika unaweza kuruhusu ufuatiliaji wa adhabu ikiwa [[governance]] ni dhaifu. Hii inaungana na [[privacy]] na [[well-being|afya ya mwanafunzi]], na inatia mkazo mifumo ya mchakato inayounga mkono kujifunza badala ya kufuatilia.
+
+Uwezo wa kuonekana unaweza kubuniwa bila ufuatiliaji: ni ushahidi ambao tathmini huzalisha kweli kwa hukumu inayotetekeleka kuhusu kujifunza, ukichukuliwa kama kipaumbele cha muundo ambao gharama yake hulipwa kwa uwezekano wa utekelezaji badala ya maadili ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
 
 ## Athari kwa AI katika elimu
 
@@ -112,6 +117,14 @@ Mifumo ya tathmini ya mchakato inaweza kubadilika kutoka zana za msaada wa kujif
 - **Tathmini ubora na uhalali:** tathmini vipengele na maoni vilivyozalishwa na AI kwa ubora, uhalali, na [[equity-in-ai-education|usawa]], sio kasi ya uzalishaji tu.
 - **Chukua tathmini ya mchakato kama falsafa, sio zana.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] huunganisha fasihi pana ya elimu ya juu katika falsafa ya "tathmini kwa kujifunza" inayoiweka [[feedback]] ya mchakato, endelevu, na binafsi kama falsafa kuu badala ya zana tu — ikisawazisha malengo ya mchakato na ya [[summative-assessment|mwisho]] na ikitia mkazo [[agency|wakala wa mwanafunzi]], kujidhibiti, na ujuzi wa [[metacognition|metaji]]. Wanatambua mazoezi matano yanayoimarisha kwa pande zote ([[authentic-assessment|tathmini halisi]], tathmini binafsi na [[peer-assessment]], tathmini upya, [[mastery-learning|kuainisha kulingana na viwango]], kuacha alama) ambayo kwayo falsafa hii inaweza kutekelezwa, wakibainisha kuwa kupokelewa kwake kunabaki kutolingana sana katika uwanja wa elimu ya juu.
 - **Tathmini endelevu inaweka upya rekodi ya mchakato yenyewe.** Mfumo wa rejeleo wa AIM-CAI (karatasi ya nafasi, sio utekelezaji) unapendekeza kubadilisha tathmini ya awamu kama msingi wa ushahidi kuu na miundombinu ya tabaka sita: uzalishaji wa ushahidi katika mifumo, mfululijo unaohifadhi muktadha wa chanzo, tafsiri ya maana inayoongozwa na AI, tafsiri ya kimetriki, profaili za uwezo za muda mrefu, na utawala wa muungano. Jedwali lake la mabadiliko linaeleza mabadiliko: maoni ya kila-kazi yanakuwa maoni ya muda mrefu yanayounga mkono ushauri na tafakari; alama zilizo kuwa profaili za uwezo zinazobadilika; vyeti vilivyo kuwa rekodi za maendeleo wazi. Tabaka la utawala ni msukumo wa karatasi — mivutano saba iliyotajwa (utangamano dhidi ya uhuru wa kienyeji, faragha dhidi ya manufaa, wakala wa mwanafunzi dhidi ya uotomatiki wa utabiri, ufuatiliaji dhidi ya msaada, n.k.) kila moja imeingizwa na hatari na majibu, na onyo kwamba makusudi endelevu bila utawala yanafaa tabia za kitamaduni zinazotawala. Dai la ubunifu ni wa kuunganisha: vipengele vipo; mchango ni mifumo na ramani ya utawala. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
+## Dhana Potofu za Kawaida
+
+- **"Vipengele vilivyozalishwa vya mazoezi hutoa ishara muhimu ya mchakato."** **Benki rahisi ya vipengele vilivyozalishwa haitoi ishara yoyote ya mchakato**: katika **utangazaji wa wiki 10 takriban 70% ya vipengele vya mazoezi vilivyozalishwa na AI vilijibiwa kwa usahihi na kila mwanafunzi**. Benki ambayo kila mtu anaipita haibebi habari yoyote kuhusu nani anahitaji nini.
+
+- **"Uaminifu wa uzalishaji wa vipengele ni sawa katika miundo yote."** Mifumo ya AI huzalisha vipengele vya mchakato katika modaliti mbalimbali **huku uaminifu ukitofautiana kwa aina**, ikiwemo chaguo-nyingi. Kuchukulia vipengele vilivyozalishwa kama vinavyobadilishana katika miundo yote huficha pale uzalishaji unapoweza kuaminiwa.
+
+- **"Kuwapa wanafunzi maoni ya AI huzalisha utekelezaji."** **Tatizo la utekelezaji** limeandikwa tofauti na ubora wa maoni: kupokea maoni na kuyatekeleza ni hatua tofauti, na ya pili ndipo tathmini ya mchakato inapofanikiwa au kushindwa.
 
 ## Dhana Zilizounganishwa
 
@@ -177,3 +190,4 @@ Mifumo ya tathmini ya mchakato inaweza kubadilika kutoka zana za msaada wa kujif
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Matumizi ya LLM ya wanafunzi na Mipaka ya Ugumu wa Maswali Yaliyozalishwa na AI katika Kozi za Sayansi ya Data
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — Miundombinu ya Tathmini Endelevu Inayoongozwa na AI (AIM-CAI): Kuunganisha Ushahidi wa Kujifunza Katika Miktadha na Muda (McNamara & Hasnine 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Kitambulisho cha mazungumzo cha AI kwa dhana za ufundishaji zisizo sahihi, chenye mazungumzo yanayotegemea ushahidi (Miranda & Calvani 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Kinyume chanya cha hatari ya ufuatiliaji: uwezo wa kuonekana kama muundo wa ushahidi, si uangalizi

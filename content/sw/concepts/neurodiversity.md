@@ -8,7 +8,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,7 @@ Upande wa hatari una fasihi yake. [[seung-basham-cognitive-offloading-swld-2026|
 - **Zana zinaweza kutenga kwa kielimu, si tu vibaya.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] anadai kuwa data ya mafunzo ya Kiingereza na ya magharibi inaharibu njia za kujua ambazo si za kiwango cha juu, na kuweka hali ya wanafunzi wenye ulemavu katikati ya upinzani huo — onyo kuwa AI "ya kuunganisha" bado inaweza kusimamia maarifa ya nani yanahitajika.
 - **Ishara za tabia zinasomwa na mifumo ambayo haijui mwanafunzi.** Ufafanuzi wa [[student-engagement|ushirikiano]], mapambano au umakini katika [[learning-analytics]] na [[student-modeling]] unadhani mtindo wa kawaida wa kujibu; tazama [[differential-effects-across-learner-groups|Athari Tofauti Katika Vikundi vya Wanafunzi]] kwa ushahidi wa usawa kuhusu dhana hiyo.
 - **Kutegemea ni matokeo ya ubuni, si kushindwa kwa mwanafunzi.** Kwa njia ya kutegemea iliyo hapo juu, swali la kumuuliza kipengele chochote cha AI ni ikiwa kinachukua nafasi ya michakato ya kiwango cha juu ambayo kazi imeundwa kujenga — hoja ambayo Seung na Basham wanatoa kwa ulemavu wa kujifunza.
+- **Michakato inayoendeshwa na vigunduzi inaweza kuzuia matumizi halali ya marekebisho.** Uchanganuzi unaoendeshwa na kifaa cha kugundua unaweza kuzuia matumizi halali ya marekebisho. Pale teknolojia ya lugha inafanya kazi kama marekebisho bora kwa mwanafunzi mwenye utofauti wa neva, katazo la jumla au mchakato unaoendeshwa na kifaa cha kugundua unaozuia matumizi yake halali huongeza masuala ya usawa; kesi ya mwenendo iliyobatilishwa ambayo fasihi ya [[ai-detection|kugundua]] inarekodi ilihusisha mwanafunzi katika mpango wa msaada wa wigo wa tawahudi ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 
 ## Ushahidi unako pungua
 
@@ -78,6 +79,12 @@ Upande wa hatari una fasihi yake. [[seung-basham-cognitive-offloading-swld-2026|
 ## Mahusiano
 
 Utofauti wa neva inaungana na [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], na [[equity-in-ai-education]]. Inaelekeza jinsi AI inavyotumika kwa [[student-experience]] na jinsi tathmini na programu za ujuzi zinavyobuniwa kuwa za haki katika mabadiliko ya kiakili. Kwa jinsi matokeo haya yanavyokaa pamoja na vikundi vingine vya wanafunzi — lugha, jinsia, hali ya kiuchumi, jiografia — tazama [[differential-effects-across-learner-groups|Athari Tofauti Katika Vikundi vya Wanafunzi]].
+
+## Dhana Potofu za Kawaida
+
+- **"Utafiti wa utofauti wa neva ni pembe ndogo ya AIED."** Uwanja **umejipanga upya kuzunguka [[generative-ai|AI ya uzalishaji]], masomo 15 kati ya 40**, huku miundo ya uzoefu wa kuzama ikifuata ya pili kwa 11. Fasihi ilisogea pamoja na teknolojia badala ya kujikusanya kuzunguka maswali thabiti.
+- **"AI zaidi kwa dyslexia inamaanisha msaada bora."** [[dabaghi-ai-dyslexia-education-review-2026|Mapitio ya nyanja mbalimbali ya AI kwa dyslexia (Dabaghi, D'Urso na Sciarrone, 2026)]] yanajumuisha **masomo 72 kati ya 2018 hadi 2024** na yanagundua AI ikitumika katika wigo mpana wa madhumuni. Upana wa matumizi si ushahidi wa ufanisi kwa lolote kati yao.
+- **"Marekebisho ni fremu sahihi kwa wanafunzi wenye utofauti wa neva."** [[neurodivergent-computing-students|Utafiti wa wanafunzi 24 wa kompyuta wenye utofauti wa neva na wenzao 20 wa neva ya kawaida]] pamoja na mahojiano manne ya kina uligundua mahitaji ambayo ni **mahitaji ya jumla ya ubuni**, kazi zilizopangwa, timu ndogo zinazolingana, majukumu wazi, badala ya marekebisho ya mtu binafsi yanayotolewa baada ya utambuzi.
 
 ## Dhana Zilizounganishwa
 
@@ -105,3 +112,4 @@ Utofauti wa neva inaungana na [[special-education]], [[inclusive-learning]], [[u
 - [[genai-minoritized-knowledges-disability]] — AI ya kizalishaji na kutengwa kwa maarifa ya wengi
 - [[tactile-statistical-graphs-accessibility]] — Grafu za Takwimu za Kuhisi kwa Ufikivu
 - [[ai-learning-tools-engineering-education-needs]] — Kubuni Zana za Kujifunza za AI Zinazotaka Mahitaji na Umakini
+- [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Michakato inayoendeshwa na vifaa vya kugundua inaweza kuzuia matumizi halali ya marekebisho

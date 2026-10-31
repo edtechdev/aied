@@ -8,7 +8,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ Hizi zinaeleza mifumo: zinataja sehemu zinazofanya kazi na kutabiri nini kinacho
 - **[[community-of-inquiry|Jamii ya utafiti]]** — uwepo wa kijamii, wa kiakili, na wa ufundishaji unaofanya uzoefu wa mtandaoni ufanye kazi; nadharia ya uzoefu na fremu ya ubuni kwa wakati mmoja.
 - **[[self-determination-theory|Nadharia ya kujitambua]]** — uhuru, uwezo, na uhusiano kama mahitaji ya awali ya motisha. Mara nyingi ni ufafanuzi unaotolewa wakati matumizi ya AI yanaongeza ushiriki bila kuongeza kujifunza.
 - **[[cognitive-psychology|Kanuni ya kiakili]]** — uchakataji wa habari, kumbukumbu ya kazi, na tofauti kati ya hisia ya kujifunza na kujifunza halisi.
+- **Nadharia ya utambuzi wa kijamii (utulivu na uwezo)** — iliyoletwa kutoka kwa utambuzi wa kijamii na utafiti wa roboti za huduma, inaunda jinsi watumiaji wanavyohukumu uaminifu wa wakala wa AI: uwezo unaohisiwa ulitabiri uaminifu wa maoni ya ChatGPT moja kwa moja wakati utulivu ulifanya kazi tu kupitia huruma inayofanana na ya binadamu (SEM, wanafunzi 230; [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]]).
+- **Aina ya nne ya uwezekano ilipendekezwa, haikujaribiwa.** Kwa kusimba masudio 24 dhidi ya mpango wa uwezekano wa sehemu tatu, wakaguzi waligundua ushirikishaji, usalama na kujiamini hakukuendana na makundi ya kiteknolojia, kielimu au kijamii, na walipendekeza uwezekano wa kihisia unaotegemea uamuzi wa kubadilishana wa Bandura ([[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]]).
 
 ## Mifano ya mwanafunzi na ya mchakato wa kujifunza
 
@@ -115,6 +117,16 @@ Miundo si ushahidi. Kwa kawaida yanakopwa kutoka miktadha ya kabla ya LLM na kue
 
 Ulinganifu wa mbinu-hadi-nadharia unaweza kuwa wa kuamua hata hivyo: muunganisho wa mada wa masudio 55 ya kujifunza kwa michezo unaosaidiwa na AI ulipata kuwa ufanisi ulitegemea kama mbinu ya AI ilitekeleza mbinu za kielimu ambayo ilikusudiwa kuhudumia badala ya ustadi wa algoriti ([[ai-game-based-learning-systematic-review-2026|Kaşarcı na Yurt (2026)]]).
 
+## Dhana Potofu za Kawaida
+
+**"Kutumia nadharia iliyoazimwa kwenye zana ya AI ni kutumia nadharia."** Sehemu kubwa ya uwanja huu hutumia nadharia iliyoazimwa badala ya kuijaribu, na tofauti ni iwapo mfumo ulitoa utabiri ambao ungeweza kushindwa. Utafiti unaporipoti faida chini ya bendera ya mfumo huku usijitolea utabiri wowote unaoweza kukanushwa, hakuna kilichojifunza kuhusu mfumo huo, tokeo linaloendana na kila nadharia katika orodha ni ushahidi kwa hakuna yoyote.
+
+**"Thamani ya mfumo ni jinsi unavyoelezea vizuri mfumo ambao tayari umeujenga."** Hiyo ni kuweka lebo baada ya tukio. Uainishaji unaokubali ubuni wowote hauna nguvu ya kutofautisha, ambayo ndiyo sababu miundo ya maelezo inapaswa kuhukumiwa kwa kile inachokataa. Swali la tathmini si "mfumo wangu unalingana na huu?" bali "mfumo wa aina gani mfumo huu ungesema ni mbaya?"
+
+**"Nadharia za kujifunza, mifano ya mwanafunzi, na miundo ya upokeaji ni lenzi zinazobadilishana."** Hujibu maswali tofauti, jinsi kujifunza kunatokea, hali ya mwanafunzi ikoje, na kwa nini mazoezi huenea, na aina zao za ushahidi hutofautiana ipasavyo. Kuchagua tabaka lisilo sahihi huzalisha utafiti unaopima kigezo sahihi dhidi ya utabiri usio sahihi, ambao husomwa kama tokeo la sifuri wakati ni kosa la kategoria.
+
+**"Miundo zaidi inamaanisha uwanja ulioiva zaidi."** Miundo iliyotungwa kwa zama za AI hukusanyika kwa kasi zaidi kuliko inavyojaribiwa, na mkusanyiko bila kukanusha ni dalili badala ya maendeleo. Uvumilivu huonekana pale utabiri unaopingana unapotatuliwa, si katika ukuaji wa msamiati.
+
 ## Dhana Zilizounganishwa
 
 - [[theory-development-aied]] — kujenga na kubadilisha nadharia katika uwanja
@@ -141,3 +153,4 @@ Ulinganifu wa mbinu-hadi-nadharia unaweza kuwa wa kuamua hata hivyo: muunganisho
 - [[yan-agentivism-learning-theory-ai-2026]] — nadharia ya kujifunza ya wastani kwa mwingiliano wa binadamu-AI
 - [[ai-literacy-instrument-development-systematic-review-2026]] — maendeleo ya kifaa katika dhana mchanga
 - [[mishra-control-vs-agency-history-2025]] — mvutano wa msingi wa uwanja wa kudhibiti-dhidi ya wakala
+- [[genai-chatbots-language-learning-affordances-review-2026]] — Uwezekano wa kihisia uliopendekezwa kama aina ya nne katika uainishaji wa uwezekano

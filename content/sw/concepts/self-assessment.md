@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,16 @@ Pia inaleta hatari ya majina inayostahili kutajwa wazi. **Kujitathmini kwa AI** 
 - **Tumia kipimo cha kujitangaza mahali kinapokuwa wa uwazi.** Uaminifu, ujuzi unaohisiwa, na utayari wa kufichua matumizi ya AI ni vitu halali vya kupimwa kwa kuuliza. Mafanikio sivyo.
 - **Omba hukumu, si maoni.** Tathmini binafsi ya zama ya AI inayoweza kutetea zaidi inamwomba mwanafunzi atathmini kipande mahususi cha kazi kulingana na vigezo na kuhalalisha uamuzi wake, ambayo inaweza kufundishwa, kukaguliwa, na kuunganishwa na [[evaluative-judgment]].
 - **Angalia athari ya makundi.** Kwa wanafunzi ambao miaka yao ya kufanya ilijumuisha matumizi ya kubadilisha ya AI, kadirio sahihi la kujitathmini linaweza kutopatikana badala ya kuwa la matumaini tu, na hili hubadilisha kazi ya kufundisha kutoka kurekebisha ujazo kupita kiasi hadi kujenga upya rekodi ya uzoefu inayoihitaji.
+
+## Dhana Potofu za Kawaida
+
+**"Kipimo cha kujitangaza hupima ujuzi kinachoutaja."** Hupima imani kuhusu ujuzi, na hizo mbili hutengana vibaya. Katika utafiti wa **walimu 288 wa K-12**, [[ai-literacy|ujuzi wa AI]] ulioripotiwa kwa kujitangaza ulihusiana na kipimo cha lengo cha ujuzi ule ule kwa **r = 0.07 hadi r = 0.24** pekee, masafa ambapo kipimo cha kujitangaza hakielezi karibu chochote cha tofauti katika uwezo. Kipimo cha kujitangaza kinatumika kama kipimo cha mtazamo na si kama mbadala wa umahiri.
+
+**"Wanafunzi wanaweza kuhukumu kujifunza kwao kwa usahihi."** Usahihi wa kujihukumu ni ujuzi wenyewe, na ushahidi kuhusu usawazishaji unaonyesha upande mwingine: katika ulinganisho wa majaribio, mafunzo ya wazi katika ngazi za msaada zinazozingatia hoja yalizalisha usawazishaji bora wa tathmini binafsi kuliko upatikanaji usio na kikomo, ambayo inamaanisha usawazishaji huboreka kutokana na mafunzo badala ya kupatikana kwa chaguo-msingi.
+
+**"Kuongeza mzunguko wa maoni ya AI huboresha tathmini binafsi kiotomatiki."** Mzunguko wa maoni hubadilisha kile mwanafunzi anacholinganisha nacho, jambo ambalo linaweza kuboresha usawazishaji na pia kuwaunganisha kwenye hukumu ya mfumo. Utafiti wa ulinganisho hapa (**wanafunzi 118 wa shahada ya kwanza, 56 katika kundi la GenAI na 62 katika kundi la wenzi**, mizunguko mitatu katika muhula mmoja) umeundwa mahsusi kujaribu kama mzunguko au ulinganisho wa kijamii ndio unaofanya kazi, na jibu si "mzunguko, kwa kuwa ni mzunguko".
+
+**"Tathmini binafsi ni mbadala mwororo wa mtihani."** Ni lengo tofauti. Tathmini binafsi hukuza ujuzi wa udhibiti wa kuhukumu kazi yako mwenyewe; mtihani hupima uwezo unaohukumiwa. Utafiti unaobadilisha mmoja kwa mwingine unachanganya uwezo wa kutathmini utendaji na utendaji wenyewe.
 
 ## Dhana Zilizounganishwa
 

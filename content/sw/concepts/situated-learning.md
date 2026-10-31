@@ -6,7 +6,7 @@ foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -44,8 +44,17 @@ Utafiti wa hifadhi ya maarifa huchukulia mafunzo ya hali halisi si tu kama nadha
 - **Vifaa vya [[curriculum-design|mtaala]] vya hali halisi.** [[ai-literacy|Ujuzi wa AI]] unaweza kuendelezwa kupitia *Vipindi vya Mafunzo ya Hali Halisi* — vyombo vikazi vya [[teacher-role|ufundishaji]] (taja mapema, zalisha, tafakari) vinavyojenga uwezo wa AI kupitia [[problem-solving]] halisi ya ulimwengu badala ya mafunzo ya kuchukua.([[panciroli-ai-literacy-episodes-situated-learning]])
 - **Tathmini ya hali halisi katika mafunzo [[design-based-research|yanayotegemea ubuni]].** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar na wenzake (2026)]] waliweka utafiti wao katika nadharia ya mafunzo ya hali halisi na [[pedagogy]] ya ubuni inayojirudia, wakitathmini posta 80 za ubuni za wanafunzi katika majukumu ya mkufunzi, mwanafunzi-mhakiki, na mhakiki-wa-ruhusa. [[prompt-engineering|Ilani]] zinazojua jukumu zilizalisha maoni ya tathmini yenye tofauti ya ubora — mkufunzi akihimiza na mwenye mwelekeo wa mchakato, wenzi wakiwa na msaada na wa mazungumzo, wakaguzi wa ruhusa wakiwa rasmi na wanaoelekea matokeo — tofauti ambazo zilikuwa za kielelezo, si za mtindo tu, zikitiza mambo tofauti ya mazoezi ya ubuni. Hii inaonyesha jinsi tathmini ya hali halisi, maalum ya jukumu, inaweza kuigwa na [[llm|LLM]] inapopangwa na rubriki sahihi ya kimantiki, na jinsi tathmini katika mafunzo yanayotegemea ubuni inavyotoka kwenye kazi halisi na majukumu yake badala ya kutenganishwa nayo.
 - **Maadili ya AI ya hali halisi.** Fikra za maadili kuhusu AI yenyewe ni bora kutendewa kama *hali halisi* — iliyowekwa katika muktadha wa kihistoria-kitamaduni na kiikolojia badala ya kanuni za kuchukua.([[raffaghelli-situated-ai-ethics-2026]])
+- **Kuweka nyenzo yenyewe katika muktadha ni hatua ya mafunzo ya hali halisi.** DagFlow-AI huzalisha seti ya data ya takwimu iliyojengwa kuzunguka shauku iliyotajwa na mwanafunzi mwenyewe, huku malengo ya kujifunza na kiwango cha ujuzi vikibaki bila kubadilika; kesi moja ilitumia wasiwasi wa mwanafunzi kuhusu mabadiliko ya tabianchi na afya ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Kuoanisha *data* na mwanafunzi, badala ya kuoanisha maelezo, kunachukulia muktadha wa mazoezi kama kitu kinachohitaji kuwekwa katika hali halisi. Waandishi wanakiri kikomo: data ya kuiga haiwezi kufundisha ukusanyaji wa data, upimaji au ubunifu wa somo, hivyo muktadha ni halisi kwa mwanafunzi lakini si kwa ulimwengu.
+- **Mandhari na rasilimali zinazoweza kutumika tena kama miundombinu.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] hutekeleza mafunzo ya hali halisi kama mandhari — lengo, mawakala waliobobea kwa majukumu, maarifa yanayoweza kuulizwa na benchi ya kazi yenye hali — pamoja na kumbukumbu ya rasilimali inayohifadhi kumbukumbu za mchakato na athari za uzoefu pamoja na asili yake ili mandhari za baadaye ziweze kupata mazoezi ya awali. Majaribio mawili ya nasibu ya mikono mitatu yaliyosajiliwa mapema yaligundua faida ya pointi 7.0 za maendeleo ya kujifunza juu ya msaidizi wa kawaida katika ufikiri wa kisheria (d = 0.56) na sehemu kubwa zaidi iliyofikia ustadi wa kigezo katika programu ya ushindani (asilimia 68 dhidi ya 45), wakati kuelekeza mfano ule ule kutenda kama mwalimu hakukuzalisha faida inayogundulika. Ni jaribio adimu la dai kwamba hali na benchi ya kazi zinabeba sehemu kubwa ya kujifunza kuliko maelezo ya mazungumzo.
 
 Mafunzo ya hali halisi inaunganisha kwa karibu na [[embodied-learning]] (zote zinasisitiza kueka fikra katika muktadha na kitendo), [[distributed-cognition]] (mafunzo yaliyogawanyika katika watu, zana, na miktadha), [[experiential-learning]], na nadharia ya [[constructivist]]. Katika elimu ya AI inaeka chunguzi cha mafunzo yasiyo na muktadha, yasiyo na mwili: muundo wa AI unaowaweka wanafunzi katika mazoezi halisi unahifadhi hali halisi ambayo mafunzo ya kudumu yanahitaji.
+
+## Dhana Potofu za Kawaida
+
+- **"Mafunzo ya hali halisi ni kuongeza mandhari halisi kwenye somo la dhahania."** Dai la nadharia ni imara zaidi kuliko kupamba muktadha: kujifunza kunajengwa na ushiriki katika jamii ya mazoezi, na kinachojifunzwa ni kile ambacho ushiriki huo unaruhusu. Mfano uliofanyiwa kazi wenye fremu ya mahali pa kazi bado unafundisha mfano, si mazoezi.
+- **"Uhalisi ni sifa ya kazi."** Uhalisi ni uhusiano kati ya shughuli na kazi halali ya jamii halisi. Kazi inaweza kuwa tata na bado iwe ya umbo la shule, ikipimwa na mwalimu, kwa alama, bila tokeo lolote katika ulimwengu inao dai kuwakilisha.
+- **"Tathmini inayotokana na kazi inamaanisha hakuna tathmini."** Inamaanisha kigezo ni cha jamii, si cha darasa: kama kazi inakubalika kwa watu wanaofanya kazi hiyo. Hicho ni kigezo tofauti na kwa kawaida kali zaidi kuliko rubriki.
+- **"Uanagenzi unahitaji mazingira ya kimwili."** Utaratibu ni ushiriki wa pembeni halali, kusogea kutoka ukingo wa mazoezi kuelekea kitovu chake ukiwa na uwajibikaji halisi. Mazingira ya mtandaoni na ya kuiga yanaweza kuunga mkono hilo au yanaweza kuiga pembeni bila kuwahi kutoa ushiriki, na tofauti ni kama mchango wa mwanafunzi unatumika kwa kweli.
 
 ## Dhana Zilizounganishwa
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -63,6 +72,7 @@ Mafunzo ya hali halisi inaunganisha kwa karibu na [[embodied-learning]] (zote zi
 - [[virtual-and-augmented-reality]] — immersive environments as a route to authentic context
 
 ## Makala Zilizounganishwa
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Mandhari pamoja na rasilimali zinazoweza kutumika tena zenye asili huwashinda msaidizi wa kawaida katika majaribio mawili
 
 - [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this page)
 - [[genai-educational-outcomes-meta-analysis]]

@@ -11,7 +11,7 @@ level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
 translation_of: concepts/information-technology
-source_updated: "2026-09-17T14:06:00-04:00"
+source_updated: "2026-10-29T05:15:49-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ Kilicho mahususi kuhusu AI katika uwanja huu ni kuwa teknolojia ile ile ni maudh
 
 - **Mafunzo ya usalama wa mtandaoni ya mchezo.** Li na wenzake walijenga michezo kadhaa mifupi, rafiki ya simu inayojumuisha usalama wa nywila hadi utambuzi wa ulaghai wa maandishi na simu, wakichanganya miundo ya maswali, ya hadithi, na ya [[simulation]] na fomati za mwingiliano kama TikTok Mini-Games, yakimotishwa na ushiriki mdogo na ufanisi mdogo wa mafunzo ya kawaida ya video ([[ai-gamification-security-education-2026]]). Tathmini yao ya viwango viwili na wanafunzi 59 wa chuo (9 wataalam wa kiufundi, 50 watumiaji wa jumla) inaripoti uwezekano wa kuboresha ushiriki na umakini kwa usalama wa mtandaoni badala ya manufaa ya kujifunza yaliyoonyeshwa.
 - **GenAI kama ngazi za msaada au njia fupi katika kujifunza kwa kujidhibiti.** Utafiti wa mbinu mchanganyiko wa wanafunzi 187 wa baada ya shahada ya IT nchini Australia unatofautisha [[cognitive-offloading]] yenye ngazi za msaada (wanafunzi wanafafanua malengo, wanazalisha mawazo, wanapata [[feedback]] wanayokosoa na kubadilisha, hivyo [[agency]] unabaki nao) na kupunguza mzigo wa kubadilisha (matokeo yanakubaliwa na uthibitishaji mdogo, udhibiti ukihamia kwa zana) ([[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]). Kujiamini kuliumba mwelekeo: wanafunzi wenye kujiamini walitekeleza uhuru katika kuweka malengo na kufuatilia, huku wenzao wenye kujiamini kidogo wakimwona GenAI kama njia fupi au kama [[academic-integrity|mwenendo mbaya]]. Kikundi kilikuwa cha tofauti, si chenye ujuzi wa AI wa kawaida; waandishi wanapendekeza kuhitaji wanafunzi kuthibitisha au kubadilisha matokeo ya AI kama hatua ya [[learning-design]] ya wazi.
-- **Njia zilizopunguzwa za utaalam katika mazoezi ya kitaalamu.** Mahojiano kumi na nne ya nusu-iliyoandaliwa na wataalam wa IT yaligundua GenAI ikitenda kama mfunzi kama mwalimu na zana ya kupunguza ngazi katika utatuzi wa matatizo, uandishi wa hati, na uthibitishaji wa mfumo ([[genai-expertise-pathways-sysadmin]]). Utendaji wa haraka katika vikoa visivyojulikana unapunguza mfiduo kwa mizunguko ya kujenga-kushindwa-kurekebisha ambayo kihistoria ilijenga utaalam; kasi ya kusaidiwa na AI pia inaweka upya matarajio ya timu na binafsi, ikizalisha utamaduni wa kasi mbili na hatia ya tija. Utafiti unabeba wasiwasi wa darasa kuhusu gharama ya [[metacognition|metaji]] na kudhoofika kwa ujuzi kwenda [[professional-training]] na [[lifelong-learning|kujifunza kazini]].
+- **Njia zilizopunguzwa za utaalam katika mazoezi ya kitaalamu.** Mahojiano kumi na nne ya nusu-iliyoandaliwa na wataalam wa IT yaligundua GenAI ikitenda kama mfunzi kama mwalimu na zana ya kupunguza ngazi katika utatuzi wa matatizo, uandishi wa hati, na uthibitishaji wa mfumo ([[genai-expertise-pathways-sysadmin]]). Utendaji wa haraka katika vikoa visivyojulikana unapunguza mfiduo kwa mizunguko ya kujenga-kushindwa-kurekebisha ambayo kihistoria ilijenga utaalam; kasi ya kusaidiwa na AI pia inaweka upya matarajio ya timu na binafsi, ikizalisha utamaduni wa kasi mbili na hatia ya tija. Utafiti unabeba wasiwasi wa darasa kuhusu gharama ya [[metacognition|metaji]] na kudhoofika kwa ujuzi kwenda [[professional-training]] na kujifunza kazini.
 
 ### Tathmini na upande wa mwanafunzi wa matumizi ya AI ya IT
 
@@ -57,6 +57,33 @@ Kilicho mahususi kuhusu AI katika uwanja huu ni kuwa teknolojia ile ile ni maudh
 
 - **Miongozo, si sera.** Uchunguzi wa mazingira ya programu 48 zote za uzamifu wa uidhinishaji wa informatics ya afya na usimamizi wa taarifa za afya uligundua 40 (83%) zenye hati moja au zaidi za AI zinazopatikana kwa umma, lakini kifaa cha mtindo kilikuwa miongozo ya ushauri (21, 53%) badala ya sera rasmi (7, 18%) ([[institutional-ai-policy-health-informatics-2026]]). Uadilifu wa kitaaluma ulitawala msamiati (n = 139), mbele ya nukuu (n = 59) na [[assessment]] (n = 50), huku HIPAA (n = 5), FERPA (n = 11), upatikanaji wa haki (n = 2), na mahitaji ya ufunuo (n = 1) yakiwa karibu hayapo, na rekodi za afya za kielektroniki hazikuelezewa kabisa. Latent Dirichlet Allocation ilizalisha mada nne zilizozunguka uadilifu, matumizi ya GenAI ya wanafunzi, zana za utafiti za chuo kikuu, na ushiriki wa ChatGPT. Kwa sababu hati za umma tu zilichanganuliwa, waandishi wanatendea kutokuwepo kwa lugha ya faragha na haki kama matokeo kuhusu miongozo iliyochapishwa, si kuhusu mazoezi ya taasisi.
 - **Kituo kipofu cha usawa.** Ujumuishaji (n = 9), upatikanaji (n = 9), marekebisho (n = 4), na upatikanaji wa haki (n = 2) yanaonekana kwa viwango ambavyo haviwezi kusaidia dai yoyote kuwa [[equity-in-ai-education]] imeshughulikiwa, ingawa programu kadhaa zinahitaji matumizi ya AI katika kazi za kozi. Pamoja na matibabu membamba ya uwezo wa kitaalamu wa [[governance]], hii ni kazi wazi zaidi ya ubini ambayo kifurushi kinaiacha wazi: kuunganisha kanuni za uadilifu na masharti ya upatikanaji, faragha, na utawala wa data ambazo wahitimu hao watawajibika kutekeleza.
+
+## Dhana Potofu za Kawaida
+
+**"Elimu ya teknolojia ya habari ni elimu ya sayansi ya kompyuta yenye zana za wauzaji zaidi."** Mpaka ni kitu cha kusomewa. Elimu ya sayansi ya kompyuta inazingatia algoriti, programu na msingi rasmi; elimu ya IT inazingatia usanidi wa vitendo, usalama wa mtandaoni, usimamizi wa data na taarifa, na utawala wa kitaasisi wa mifumo ya kiufundi-kijamii. Tofauti hiyo inabadilisha kile ambacho mkufunzi wa AI anapaswa kuwa mahiri nacho: mwanafunzi wa IT anahitaji hukumu kuhusu hali za kushindwa za mfumo uliosambazwa, si uthibitisho kuhusu hesabu.
+
+**"Kibainishi chenye usahihi wa kutosha kutambua aina za maswali kina usahihi wa kutosha kuendesha maoni ya uundaji kwa njia ya kiotomatiki."** Usahihi wa jumla huficha makosa ya kila darasa yenye umuhimu. Katika ulinganisho ambao ukurasa huu unataja, DeBERTa iliongoza kwa **usahihi wa 86.36% na usahihi wa 96.67% kwenye maswali ya ukweli**, lakini usahihi wa mwezeshaji ulishuka hadi **78.79%**; BERT iliyorekebishwa ilifika **kurudia kwa 92.00% kwenye vipengele vya mwanafunzi-wenzake kwa usahihi wa 74.19% tu**. Uendeshaji otomatiki ungeelekeza takribani mmoja kati ya wanne wa hao kwenye uingiliaji usio sahihi, na makosa yanakusanyika kwenye kategoria zenye mvuto wa kielimu, si zile rahisi.
+
+**"Programu nyingi kuwa na hati ya AI kunamaanisha utawala wa AI umewekwa."** Katika uchunguzi wa mazingira wa **programu 48 zote zilizoidhinishwa** za uzamifu wa uidhinishaji wa informatics ya afya na usimamizi wa taarifa za afya, **40 (83%)** zilikuwa na hati moja au zaidi ya AI inayopatikana kwa umma, lakini ugunduzi umeitwa miongozo, si sera. Seti iliyochapishwa ya mapendekezo si utaratibu wa utawala: haitoi uwajibikisho wala haibainishi kinachotokea mfumo unaposhindwa.
+
+**"Wanafunzi wanaoshindwa kueleza uamuzi unaoungwa na AI wanatumia AI vibaya."** Maelezo mbadala ni kwamba hawawezi kueleza uamuzi ambao waliufanya kwa usahihi. Kazi ya IT imejaa mazoezi mahiri ambayo sababu zake ni za kimya, na kuchukulia uwezo usioelezeka kama mwenendo mbaya kunatambua vibaya lengo la kufundisha kama tatizo la nidhamu: kunahitaji mazoezi ya kueleza, si sera.
+
+## Athari kwa Mazoezi
+
+**Kwa wakufunzi**
+
+- Ripoti usahihi wa kila darasa, si usahihi wa kichwa, kabla ya kuendesha uelekezaji wowote wa maoni kwa njia ya kiotomatiki. Takwimu ya usahihi wa mwezeshaji ndiyo inayoamua ni wanafunzi wangapi wanapata msaada usio sahihi.
+- Fundisha ufafanuzi kama zao la kujitegemea, ili uwezo usioelezeka utofautishwe na matumizi mabaya.
+- Tofautisha miongozo na utawala unaposoma sera ya taasisi, na uliza ni nani anawajibika zana iliyo kwenye mtiririko inapokosea.
+
+**Kwa wasanidi**
+
+- Chapisha matriki ya kuchanganya kwa kategoria ya mwanafunzi; mfano wenye nguvu kwenye maswali ya ukweli na dhaifu kwenye michango ya mwanafunzi-wenzake utakosa kwa utaratibu kesi za ushirikiano.
+- Usiweke kibainishi cha uelekezaji kama mbadala wa mwezeshaji. Kwa usahihi wa 74-79% ni msaada wa kupanga vipaumbele.
+
+**Kwa wabunifu wa programu**
+
+- Jenga zao la utawala ambalo sekta inalikosa: uwajibikisho uliotajwa, mzunguko wa mapitio, na njia ya matukio. Hati ya miongozo ya AI inajibu swali la uidhinishaji na si swali la uwajibikisho.
 
 ## Dhana Zilizounganishwa
 

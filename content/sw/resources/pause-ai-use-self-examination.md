@@ -2,7 +2,7 @@
 title: "PAUSE: Mifumo ya Matumizi ya AI — Uchunguzi wa Kibinafsi"
 created: "2026-10-13T07:52:00-04:00"
 type: resource
-summary: "A ten-minute, browser-only self-check on what you offload to AI, with every item traced to the research paper behind it."
+summary: "Ukaguzi wa kibinafsi wa dakika kumi ndani ya kivinjari pekee kuhusu kile unachohamishia kwa AI, ambapo kila kipengele kinafuatilizwa hadi kwenye karatasi ya utafiti iliyo nyuma yake."
 url: https://anondo1969.github.io/pause/
 source_code: https://github.com/anondo1969/pause
 author: "Mahbub Ul Alam"

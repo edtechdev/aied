@@ -8,7 +8,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-07T09:45:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -45,9 +45,11 @@ AI katika elimu ya biashara ni mfululizo unaokua wa [[discipline-specific-aied|A
 - **Kupitishwa kwa shirika.** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]] alichunguza viongozi wa shirika na wa kiteknolojia vya kupitishwa kwa AI katika [[higher-ed|elimu ya juu]] (akitumia mifumo ya TOE + Diffusion of Innovations, n=300 wafanyakazi), yanayohusika na jinsi vyuo vya biashara na taasisi zao zinavyopitisha msaada wa uamuzi unaosukumwa na AI na majukwaa mahiri ya kujifunza.
 - **Mawakala wa mazungumzo katika michezo ya [[simulation]] ya biashara.** [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, na Liening (2026)]] wanatengeneza na kutathmini [[conversational-ai|wakala wa mazungumzo]] wa AI (Lara) kwa msaada wa mafunzo unaobadilika katika michezo ya simulation ya biashara yanayotumika kwa kujifunza kwa ujasiriamali wa uzoefu. Ikiwa na msingi wa [[equity-in-ai-education|usawa]]-kwa-ubuni na [[universal-design-for-learning|ubuni wa ulimwengu wa kujifunza]], mfumo wa CAIS-GBL unalenga ushiriki wa kiakili, wa [[motivation|motisha]], wa [[affective-computing|kihisia]], na wa [[sociocultural-learning|kitamaduni-kijamii]] wa [[student-engagement|wanafunzi]], na tathmini miongoni mwa wanafunzi wa walimu na washiriki wa BSG zinaonyesha mitazamo chanya ya uwepo wa kiakili/wa [[community-of-inquiry|kijamii]] na msaada wa [[self-regulated-learning]] — mfano wa kupanua maoni ya [[formative-assessment|kituo]] katika elimu ya biashara ya [[game-based-learning|msingi wa simulation]].
 - **GAI yenye wakala kwa kazi changamano za matumizi.** [[ilieva-agentic-genai-higher-education-2026|Ilieva et al. (2026)]] wanatengeneza mfumo wa AGAI-HE kuzunguka kozi ya **biashara ya mtandaoni**, ambapo kazi ya kujifunza inahitaji kulinganisha mifano ya biashara, kupima vizuizi vya soko na vya uendeshaji, na kutetea mapendekezo ya kimkakati — kazi changamano za hatua nyingi ambazo chatbot za jibu-ilani zinaunga mkono vibaya. Utafiti wao wa mtazamo wa wanafunzi 130 uligundua msaada wa chatbot na wa wakala vyote vilipimwa juu ya [[online-teaching-and-learning|e-learning]] ya jadi kwenye uboreshaji wa kujifunza, ubinafsishaji, msaada wa uamuzi, na mpangilio wa mtiririko wa kazi, hata hivyo hakukuwa na tofauti yenye umuhimu ya wakala-dhidi-ya-chatbot, na uidhinishaji mkubwa zaidi ulienda kwa kuunganisha hali zote tatu. Kwa mipango ya biashara usomaji ni kuwa kupitishwa ni swali la [[curriculum-design|ubini wa mafunzo]] kuhusu jinsi msaada wa AI unavyopangwa na kusimamiwa, si kuboreshaji tu kwa zana ([[agentic-ai]]).
+- **Chatbot ya [[rag|RAG]] iliyojengwa kwa kozi ilihamisha matarajio, si matokeo.** Katika [[rct|jaribio la nasibu]] la muhula mzima na wanafunzi 454 wa shahada ya kwanza katika kozi ya Misingi ya Masoko, [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni na Fryer (2026)]] hawakupata athari kubwa ya kikundi-kwa-muda kwenye maslahi, [[self-efficacy]], ushiriki au utendaji wa mtihani, ingawa wanafunzi waliingia 0.89 mara kwa wiki na wakakadiria kufurahia kwa 80.4.
 - **Uboreshaji wa tathmini na alama haujatafitiwa vya kutosha.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] walitafiti makala 58 yanayohusiana na tathmini katika miaka 20 katika majarida manne yanayoongoza ya elimu ya usimamizi (AMLE, JME, Management Learning, IJME) — takribani tatu kwa mwaka, nyingi katika matoleo maalum ya 2010 na 2014 — wakigundua tathmini na alama hazijatafitiwa vya kutosha ikilinganishwa na jukumu lao la kati la kuunda kujifunza. Tathmini ya kibinafsi na ya marika zinatawala mazungumzo (karibu nusu ya mkusanyiko, hasa kwa tathmini ya [[summative-assessment|mwisho]] ya [[group-work|kazi za kikundi]]); [[authentic-assessment|tathmini ya kweli]] inaonekana hasa kupitia [[simulation|simulations]] zinazowasilishwa na teknolojia na mara nyingi huchanganywa na [[experiential-learning|kujifunza kwa uzoefu]]; wakati tathmini upya, alama za msingi wa viwango, na kuondoa alama ni karibu hazipo. Waandishi wanahimiza waelimishaji wa usimamizi kushirikiana kwa bidii na kwa njia ya kubahatisha na maboresho haya, wakipendekeza majaribio ya kuongeza (kazi zisizo na alama, tathmini upya kwa kazi moja, rubriki za msingi wa viwango) zinazoungwa mkono na uratibu wa ngazi ya mipango na ushahidi ulioandikwa wa Scholarship of Teaching and Learning.
 
 - **Alama za kiotomatiki za kazi za kozi za biashara zinahitaji uthibitishaji maalum wa mkusanyiko.** Kwenye machapisho 60 ya uuzaji ya wanafunzi kutoka simulation ya BrandSim, [[automated-scoring-marketing-posts-agreement-2026|Li (2026)]] aligundua [[llm|LLM]] ilifika tu ICC(2,1) = .435 na wastani wa binadamu — kanuni za kikomo .091, mseto wa uzito sawa .266 — huku kuongeza viweko vilivyoandikwa na watafiti vikipandisha LLM hadi .846 bila kubadilisha alama yoyote ya mwanafunzi.
+- **Mbadala wa elimu ya biashara hupima mchakato, si mada.** Katika mwaka wa kwanza wa shahada ya Usanidi wa Biashara, upimaji ulihitaji kurudia kwa kurudia ulioandikwa na [[collaborative-learning|ushirikiano]] wa wenza, na wanafunzi waliotumia GenAI walipinga hoja zake za kupinga badala ya kuziwasilisha ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 - **Kufundisha AI kama kipengele cha kwanza cha kubuni mchakato.** [[ai-decision-checkpoints-bpm-education-2026|Jalali (2026)]] anaweka kituo cha uamuzi wa AI katika kila hatua ya mzunguko wa BPM katika moduli sita za kozi ya wanafunzi 152, ili wanafunzi wajenge wakala wa kuingiza wa LLM anayefanya kazi na kisha wagundue katika kituo kwamba kizuizi halisi ni foli ya uchunguzi wa wizi ya watu wawili.
 
 ## Elimu ya uchumi na usimamizi
@@ -65,6 +67,14 @@ Biashara ni mojawapo ya sehemu ambapo kupitishwa kwa AI ya kizazi ni kasi zaidi,
 - **Shughulikia pengo endelevu.** [[espino-ai-business-education-review-2026|Muongo mmoja wa utafiti]] unataja pengo katika uthabiti wa mtaala, utayari wa waelimishaji, na uhalali wa tathmini — zipa kipaumbele katika ubini wa mipango.
 - **Andaa wanafunzi kwa mahali pa kazi palipounganishwa na AI.** Sisitiza ujuzi wa AI, matumizi ya maadili, na matumizi ya taaluma (fedha, uuzaji, usimamizi, uchumi) kama uwezo wa msingi, si chaguo za hiari.
 
+## Dhana Potofu za Kawaida
+
+- **"Wanafunzi wanataka AI kwa sababu wanataka njia za mkato."** Mfumo unaoelekezwa na wanafunzi uligundua wanafunzi **wana ushiriki mkubwa na wanatambua wanahitaji ujuzi wa GenAI kwa ajili ya kazi zao**, huku pia wakitaka **kutumia AI bila kujikuta wakifanya makosa ya kitaaluma kwa bahati mbaya**. Hitaji ni umahiri wenye mipaka wazi, si ruhusa ya kuepuka kazi.
+
+- **"Kuongeza moduli za AI kwenye mtaala wa biashara kunakamata faida."** Utafiti wa usawa wa kuunda uligundua kuwa iwapo **faida au hatari zilitawala kuliundwa na kiwango cha muunganisho wa mtaala**; tofauti ya kiutendaji ni **unganisha, usiongeze**. Moduli iliyobandikwa juu inaacha ubuni wa tathmini bila mabadiliko.
+
+- **"Utaalamu wa zana unazidi e-learning ya kawaida."** Utafiti wa mitazamo wa **wanafunzi 130** uligundua **msaada wa chatbot na wa wakala wote ulikadiriwa juu ya e-learning ya jadi** kwenye uboreshaji, ubinafsishaji na kufanya maamuzi. Inafaa kutambua kile kinachopimwa: **mtazamo** wa mwanafunzi dhidi ya msingi wa kawaida, si kujifunza dhidi yake.
+
 ## Dhana Zilizounganishwa
 
 - [[ai-education]]
@@ -80,7 +90,7 @@ Biashara ni mojawapo ya sehemu ambapo kupitishwa kwa AI ya kizazi ni kasi zaidi,
 - [[higher-ed]]
 - [[stem-education]]
 
-## Makala Zilizounganzwa
+## Makala Zilizounganishwa
 
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation
 
@@ -94,3 +104,5 @@ Biashara ni mojawapo ya sehemu ambapo kupitishwa kwa AI ya kizazi ni kasi zaidi,
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
 - [[shi-genai-experiential-learning-management-education-2026]] — three generative AI mechanisms for reconfiguring management education pedagogy
+- [[alam-process-oriented-collaborative-essays-2026]]: Insha za ushirikiano zinazozingatia mchakato katika shahada ya Usanidi wa Biashara: kupima kurudia kwa kurudia kulikoandikwa, si mada
+- [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026]]: Chatbot ya RAG iliyojengwa kwa kozi ilihamisha matarajio, si matokeo

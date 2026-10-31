@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-30T10:52:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -85,8 +85,11 @@ Badala ya kuondoa msaada, utafiti unapendekeza kubuni upya jinsi unavyotolewa:
 
 - **Upatikanaji wa vidokezo ulioahirishwa** — kuhitaji muda wa chini wa ushirikiano au majaribio ya suluhisho kabla vidokezo (hasa vya mwisho vinavyofichua jibu) kupatikana.([[lak2026-hint-button-unproductive-use]])
 - **Kuhamisha kutoka *kama* hadi *jinsi*** — swali muhimu la kubuni ni jinsi ya kupanga utoaji wa vidokezo unaolingana na kanuni za mapambano yenye tija, si kama vidokezo vitolewe kabisa.([[lak2026-hint-button-unproductive-use]])
+- **Urefu wa ujumbe ni kianzio ambacho utafiti wa uwasilishaji umepima kweli.** Katika kozi ya programu ya moja kwa moja, vidokezo virefu vya LLM vilitabiri usahihi mbaya zaidi wa uwasilishaji unaofuata, majaribio mengi yaliyobaki na uwasilishaji upya wa polepole, kwa kila mkengeuko wa kawaida wa herufi 204.9 katika jozi 14,809 za mwanafunzi na zoezi ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Usomevu haukuhamisha matokeo yoyote kwa kiasi, kwa hivyo kiasi kilikuwa na umuhimu zaidi kuliko ugumu.
+- **Vidokezo vya awali kwenye sehemu ile ile ya kozi vilihusishwa na mafanikio ya chini kwenye hatua ya ujumuishaji.** Wanafunzi waliopewa maoni kuhusu hatua za awali za mradi walitatua hatua yao ya mwisho kwa 95.6% ya muda dhidi ya 98.1% kwa wale wasio na maoni hayo, mgawo wa log-odds wa -1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Waandishi hawasomi hilo kama madhara, kwa kuwa wanafunzi wanaotafuta vidokezo kwa hakika ni wale ambao wangepambana hapo hata hivyo, swali la [[self-regulated-learning|ufuatiliaji]] ambalo ukurasa huu unauliza.
 
 ### Tatizo la kupokea katika watahiniwa wa LLM
+- **Kitufe cha msaada cha hiari hakibofywa.** Katika madarasa matatu ya darasa la tano, wanafunzi mara chache walimwita wakala msaidizi ambaye ubunifu ulikuwa umeacha kwa hiari kwa makusudi ili kulinda uwakala, wakimwita mwalimu badala yake wakati mkanganyiko ambao ulijengwa kwa ajili yake ukiendelea ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
 Wanafunzi wa ulimwengu halisi mara nyingi **wanapita [[conversational-ai|chatbot]] ya [[scaffolding]]** — si lazima kwa njia ya kudhuru, lakini mara nyingi kwa sababu ya kutolingana kati ya muundo wa kieledu wa chatbot na malengo ya mwanafunzi mwenyewe ya kujifunza. Mistari ya tathmini lazima ipime si kama katahini anaweka ngazi za msaada tu, bali kama wanafunzi *wanachukua* ngazi hizo za msaada, badala ya kudhaniwa kuwa watazichukua.([[rethinking-scaffolding-llm-tutors]])
 
@@ -104,6 +107,10 @@ Katika [[english-education|uandishi]] wa mtandaoni kamili, upatikanaji wa zana s
 
 [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] wanashughulikia kituo cha tabia kabla ya utafiti msaada katika [[cs-education|elimu ya programu inayosaidiwa na AI]]: watahiniwa wa binadamu wanabadilika na tabia ya wanafunzi inayoweza kuchunguzwa, si maombi yao ya wazi tu, lakini watahiniwa wa AI hawana muktadha huo. **TutorTrace** ni hifadhi ya data na mtiririko wa kazi unaofanya muktadha wa tabia ya wanafunzi uhesabike kwa muda halisi kutoka telemetri ya IDE ya kiwango cha chini (matumizi manne, N=480; ~180K matukio, sehemu 13,633 za tabia, vipimo 27), ikitoa taksonomia ya shughuli ya mwanafunzi *kabla* ya swali la kwanza la AI, *kati ya* maswali yanayofuatana, na *katika* kipindi. Hii inawezesha mifumo kugawa kama swali linaakisi utafiti msaada **uliokongozwa** (liliyotangulia kazi huru) au utafiti msaada **unaotegemea** (hakuna kazi huru) — AUROC=.717 katika utabiri uliotengwa — na kutabiri maswali yanayokaribia (AUROC=.726). Tathmini ya awali ya darasa iligundua kwamba ilani zinazojua tabia zilipunguza vipindi kati ya maswali bila kazi huru kutoka 50.0% hadi 20.7%. Hii inaunganisha telemetri ya [[learning-analytics]] na [[intelligent-tutoring|katahini inayobadilika]], ikionyesha kwamba muktadha wa tabia unaweza kuendeshwa kwa kiwango kikubwa kuweka ngazi za msaada *jinsi* wanafunzi wanavyotafuta msaada badala ya kujibu tu maswali yao ya wazi.
 
+**Mwenendo wa utafiti msaada hutabiri uhamishaji, si kiwango chake tu.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani na wenzake (2026)]] waliweka lebo kwa zamu 880 kutoka kwa wanafunzi 112 wa shule ya sekondari wanaounda mifano ya matatizo ya hisabati kwa LLM na kugundua mchanganyiko tuli hauna taarifa: 81.5% ya zamu zilikuwa maombi, 2.2% tu tathmini wazi, na 54% ya maombi yalielekezwa kwenye uelewa dhidi ya 46% ya kutafuta majibu. Utendaji kwenye jaribio la baada lililofanywa bila AI ulitabiriwa na mteremko wa ndani ya kipindi badala ya kiwango chake. Utafiti msaada unaoelekezwa kwenye uelewa ulishuka (M = -0.20) katika mazungumzo, na mwenendo huo uliongeza ΔR2 = .110 kwenye mfano ambao tayari ulikuwa na alama ya jaribio la awali (β = .34, p < .001). Vipengele tuli vya mwingiliano viliongeza ΔR2 = .023 tu (p = .684). Ubora wa utafiti msaada kwa hivyo unapaswa kusomwa kama mkunjo: kipindi kinachoanza na maswali ya kimawazo na kuishia na maombi ya majibu huashiria utendaji hafifu bila msaada, na kupanda kidogo kwa kujidhibiti wazi (M = +0.103) hakukulipunguza.
+
+**Mtiririko wa pili unauliza swali lile lile kutoka upande wa miundombinu.** [[taufer-human-ai-interaction-haidl-2026|Taufer na wenzake (2026)]] wanadai kuwa mabadilishano ya binadamu na AI ni daraja la data lake lenyewe: uwakilishi wao hurekodi hali ya kihesabu iliyochochea ombi, ombi lenyewe, jibu, tathmini ya mtumiaji juu yake na utekelezaji uliofuata, kama kitu kimoja. Maswali kisha huainishwa kama urejeshaji wa kosa, hatua inayofuata iliyokwama, msaada wa kimawazo au uthibitishaji kutokana na muktadha huo. Katika usambazaji wa JupyterLab wa wanafunzi 35 unaojumuisha jozi 140 za mwanafunzi na kazi, hesabu za mwingiliano tuli zilihusiana na seli zilizotekelezwa kwa mafanikio kwa r = 0.12 tu, wakati jozi 37 zilikuwa na ufikiaji na hazikutumia kamwe na 26 zilitumia nje ya hali waliyopangiwa.
+
 ## Athari za kubuni na utafiti
 
 1. **Buni uwezo wa utafiti msaada kwa makusudi.** Vitufe vya msaada vinavyoendelea na vinavyoonekana wazi vinaweza kuwezesha mikakati ya kupita; ahirisha upatikanaji na upange utoaji kuunga mkono [[desirable-difficulties|mapambano yenye tija]].([[lak2026-hint-button-unproductive-use]])
@@ -111,6 +118,14 @@ Katika [[english-education|uandishi]] wa mtandaoni kamili, upatikanaji wa zana s
 3. **Tumia uwazi kusawazisha uaminifu.** Onyo kuhusu udhaifu wa AI unaweza kuongeza utafiti msaada unaofaa na ushirikiano.([[ai-fallibility-warning-help-seeking]])
 4. **Pima kupokea, si ngazi za msaada tu.** Tathmini kama wanafunzi wanashirikiana kweli na muundo wa kieledu, si kama katahini anayatoa tu.([[rethinking-scaffolding-llm-tutors]])
 5. **Unga mkono ufuatiliaji na uwakala.** Ngazi za msaada za utafiti msaada zinapaswa kuimarisha [[metacognition]] na [[self-regulated-learning]], na kuzuia [[cognitive-offloading|Kutegemea Kupita Kiasi]].
+
+## Dhana Potofu za Kawaida
+
+- **"Wanafunzi wanaohitaji msaada hawauombi."** **Jaribio lililosajiliwa mapema** katika kozi za shahada ya kwanza zenye wanafunzi wengi liliwatumia wanafunzi ujumbe kupitia chatbot ya kitaaluma na kugundua **kupokea kwa kiwango kikubwa zaidi huduma za katahini na msaada wa nyongeza**. Msukumo ulibadilisha tabia, kwa hivyo kizuizi kilikuwa kuchochea badala ya nia.
+
+- **"Maombi ya msaada yanahusu kujifunza."** **Mahitaji ya msaada wa kiendeshaji** yanachanganya dhana hiyo: katika **maswali 4,093**, angalau **20.4% yaliuliza kuhusu hali ya kuwasilisha inayosubiri badala ya maarifa**. Moja ya tano ya mahitaji ya msaada ilikuwa ya kiutawala.
+
+- **"Kutumia katahini wa AI kunamaanisha kufuatilia kujifunza kwako mwenyewe."** Katika utafiti wa **wanafunzi 98 wa Darasa la 9** wanaotumia katahini wa GenAI, mwingiliano **ulitawaliwa na maombi ya kifaa karibu bila ufuatiliaji au tathmini ya kujifunza kwao wenyewe**. Kuomba majibu si kutafuta msaada kwa maana ambayo dhana hii inakusudia.
 
 ## Dhana Zilizounganishwa
 
@@ -154,3 +169,7 @@ Katika [[english-education|uandishi]] wa mtandaoni kamili, upatikanaji wa zana s
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Kuweka Ngazi za Msaada kwa Utafiti Msaada wa AI Uliolengwa Wakati wa Kutatua Matatizo
 - [[guided-ai-tutor-impasse-resolution-2026]] — Kuchunguza Tofauti katika Jinsi Watahiniwa wa AI Waliokongozwa Wanavyotatua Kizuizi cha Wanafunzi
 - [[student-query-demand-hybrid-ai-support-2026]] — Wanafunzi Huuliza Nini Kweli: Muundo wa Mahitaji na Uwezekano wa Uendeshaji Otomatiki katika Mfumo wa Msaada wa Mchanganyiko
+- [[taufer-human-ai-interaction-haidl-2026]]: Mwingiliano kama data ya daraja la kwanza, kuainisha swali kwa hali ya utekelezaji inayoizunguka
+- [[abdelghani-student-llm-epistemic-proactivity-math-2026]]: Mwenendo wa utafiti msaada, si kiwango chake, hutabiri utendaji wa hisabati bila msaada
+- [[mihaylova-llm-feedback-live-programming-course-2026]]: Urefu wa vidokezo umepimwa dhidi ya usahihi wa uwasilishaji unaofuata, majaribio na muda, katika kozi ya programu ya moja kwa moja
+- [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]]: Wakala msaidizi ambaye hakuna aliyemuomba (Humburg et al. 2025)

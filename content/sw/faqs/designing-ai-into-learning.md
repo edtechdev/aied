@@ -6,10 +6,14 @@ weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T10:40:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -21,6 +25,8 @@ ai_assist:
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
+
+Muhtasari wa moduli una mstari unaosema "Shughuli ya AI" na hakuna anayeweza kusema inachukua nafasi ya nini. Au mwalimu ameomba kuongeza roboti ya mazungumzo kwenye kozi ambayo tayari inafanya kazi, na kazi yako ni kuiweka mahali bila kuvunja sehemu iliyoifanya kozi ifanye kazi.
 
 Anza kutoka kwa lengo la kujifunza na kutoka kwa shughuli inayolizalisha. Mfano huo huo unaweza kuwa ngazi za msaada, mwenza wa [[socratic-method|Kisokrata]], msomaji wa rasimu, [[simulation|uigaji]], au mashine ya majibu, na ni upi unaoupata inategemea ubunifu badala ya mfano. Taja hali unayojenga, weka jaribio la mwanafunzi kabla msaada wowote haujatokea, na hifadhi angalau njia moja katika kozi inayoendeshwa bila zana.
 
@@ -41,6 +47,8 @@ Anza kutoka kwa lengo la kujifunza na kutoka kwa shughuli inayolizalisha. Mfano 
 Dhana ya [[pedagogy|Mbinu za Kufundisha na Mikakati ya Kufunza]] katika hifadhi ya maarifa hutoa jaribio: je, mpangilio unahifadhi shughuli inayozalisha kujifunza kunakokusudiwa? Jibu hilo kwa karatasi, kabla mtu yeyote hajachagua kipengele.
 
 [[finkelstein-principled-ai-education-2025|Mfumo wa Elimu ya AI yenye Kanuni]] unatoa kanuni ya jumla: teknolojia inapaswa kuongeza badala ya kuchukua nafasi ya uwezo wa binadamu ambao elimu inakusudia kuukuza. Ukiandikwa kama jaribio la moduli, hiyo inamaanisha kutaja uwezo, kutaja shughuli inayoujenga, na kuuliza kama AI inakaa ndani ya shughuli hiyo au kando yake.
+
+Itumie kwa kila kazi badala ya mara moja kwa kila zana. Katika hali nne zinazomkabili mwalimu, uwekaji kiotomatiki na uongezaji vilijitokeza pamoja: ubadilishaji ulibaki ndani ya kazi ndogo za uchanganuzi zenye mipaka, na uongezaji ulionekana katika kile mwalimu alichofanya na matokeo, ndiyo sababu zana moja inaweza kuweka kiotomatiki hatua moja na kuongeza nyingine ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers na wenzake (2026)]]).
 
 ## Weka jaribio kabla ya msaada
 

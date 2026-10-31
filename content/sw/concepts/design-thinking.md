@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,16 @@ Kwa waelimishaji, ushahidi wa pamoja unashauri dhidi ya zuio la jumla au kupitis
 ## Muunganisho na dhana zinazohusiana
 
 Fikra za kubuni katika elimu ya AI zimeunganishwa kwa kina na [[human-ai-collaboration]]: zana za kizalishaji zinapanua kubuni wakati wanadamu wanahifadhi mamlaka ya epistemological na [[agency]]. Inategemea [[scaffolding]] na [[feedback]] yanayofaa kwa hatua ili kuwa na ufanisi, mara nyingi inapatikana kupitia mwingiliano wa [[socratic-method|Socratic]] na wa kupingana katika [[higher-ed]] na [[k-12]], na mafanikio yake mara nyingi yanaelezewa kama kuhifadhi [[creativity]] na kukuza [[ai-literacy]] chini ya utawala wa [[human-in-the-loop-ai]].
+
+## Dhana Potofu za Kawaida
+
+**"AI ya kizalishaji inaharakisha mawazo ya ubunifu katika awamu zake zote."** Inaharakisha uzalishaji wa mawazo na inaweza kudhoofisha hukumu ambayo awamu za baadaye zinategemea: **inafanya vizuri katika uzalishaji wa mawazo wa awamu ya mwanzo lakini inaweza kusababisha kufungwa kwa ubuni au kufungwa kwa urembo ikiwa itatumika bila uchunguzi**. Kufungwa ni hatari mahususi ya zana ya haraka ya mawazo: mwelekeo wa kwanza unaowezekana unakuwa mfumo, na seti kubwa ya tofauti kwenye dhana moja si nafasi pana ya utafutaji.
+
+**"Chaguo nyingi zilizozalishwa zinamaanisha uchunguzi mpana."** Upana wa matokeo na upana wa kuzingatia ni viwango tofauti. Mwanafunzi anayezalisha mielekeo thelathini na kuchukua ile ya kwanza inayoshawishi amechunguza mwelekeo mmoja, na viwango vya juu vya kukubalika ni alama ya hilo hasa.
+
+**"Mawazo ya ubunifu ni mchakato wa kuendesha kiotomatiki awamu kwa awamu."** Ni taaluma ya kuweka na kuweka upya muundo wa matatizo, ndilo kufungwa kunazuia. Kuendesha awamu kiotomatiki huku ukiacha mfumo bila kuchunguzwa huzalisha matokeo yenye uwezo kwa tatizo lisilofaa.
+
+**"Mawakala wa AI wanaokubaliana na mwanafunzi wanaunga mkono hoja zake za ubuni."** Matumizi yenye tija yaliyorekodiwa hapa yanaenda kinyume: [[ai-agents-constructive-conflict-design-education-2026|migongano yenye kujenga na mawakala wa AI]] hujaribu ilani za upinzani zinazolazimisha kufikiria upya. Wakala anayekubali huimarisha kufungwa; wakala anayeelekea upinzani ni ubuni wenye dai la kielimu nyuma yake.
 
 ## Dhana Zilizounganishwa
 

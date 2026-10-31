@@ -6,7 +6,7 @@ pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 - **Kubinafsika katika kiwango kikubwa:** mifumo ya [[personalized-learning]] hutumia algoriti za kufaa ili kutoa njia za kipekee za kujifunza kwa kila mwanafunzi. [[deeptutor]] na [[ai-powered-personalized-learning-elementary-fractions-2026|walimu wa vipimo vya msingi]] wanaonyesha kubinafsika kwa kufaa katika mazoezi.
 - **Mpangilio wa maudhui:** [[adaptive-pretesting-retention|Upimaji wa awali unaokufaa]] na [[adapt-adaptive-lesson-plan-transformer|wabadilishaji wa mipango ya somo]] huboresha mpangilio na aina ya maudhui yanayoonyeshwa.
 - **Muunganisho wa ITS:** [[intelligent-tutoring|Mifumo ya ufundishaji yenye akili]] ni jukwaa la kawaida la kujifunza kufaa, ikichanganya uchunguzi na kubadilika.
-- **Uundaji wa wasifu na uchunguzi unaoendeshwa na AutoML:** Mifumo ya kielimu ya jadi inashindwa kuchakata data ya tabia ya kujifunza ya chanzo mbalimbali na isiyo sawa, ambayo inazuia uundaji wa wasifu wa mwanafunzi na maendeleo ya mifano ya uchunguzi. Mfumo wa utafutaji wa usanifu wa akili ya neva unaoelekezwa na [[reinforcement-learning|mifumo inayojifunza]] kiotomatiki unaunganisha data ya kielimu ya [[multimodal|hali nyingi]] na mbinu za aina mbalimbali, ikizalisha mifano ya uchunguzi yaliyoundwa kwa wasifu mbalimbali wa wanafunzi na ikisaidia uchanganuzi unaobadilika badala ya usio na mabadiliko ya michakato ya kujifunza.
+- **Uundaji wa wasifu na uchunguzi unaoendeshwa na AutoML:** Mifumo ya kielimu ya jadi inashindwa kuchakata data ya tabia ya kujifunza ya chanzo mbalimbali na isiyo sawa, ambayo inazuia uundaji wa wasifu wa mwanafunzi na maendeleo ya mifano ya uchunguzi. Mfumo wa utafutaji wa usanifu wa akili ya neva unaoelekezwa na [[machine-learning|mifumo inayojifunza]] kiotomatiki unaunganisha data ya kielimu ya [[multimodal|hali nyingi]] na mbinu za aina mbalimbali, ikizalisha mifano ya uchunguzi yaliyoundwa kwa wasifu mbalimbali wa wanafunzi na ikisaidia uchanganuzi unaobadilika badala ya usio na mabadiliko ya michakato ya kujifunza.
 
 ### Ushahidi wa ufanisi
 
@@ -62,6 +62,7 @@ Kujifunza kufaa mara nyingi huchanganyika na [[personalized-learning|kujifunza k
 ### Ushahidi wa utafiti
 
 - **Ushahidi wa [[meta-analysis-systematic-review|meta-uchanganuzi]] kuhusu zana za kufaa + AI.** [[burneo-can-edtech-close-learning-gaps-2026|Uchanganuzi wa meta wa Benki ya Dunia]] wa [[rct|RCT]] 14 unachanganya kujifunza kwa kompyuta kunaokufaa, ufundishaji wenye akili, na AI ya kizalishaji kwenye kipimo cha pamoja, ukikadiria wastani wa maendeleo ya kujifunza ya ~0.125 SD bila tofauti yenye umuhimu kati ya vizazi viwili vya teknolojia — ushahidi kwamba mbinu ya kufaa, si kizazi maalum cha zana, inayoongoza maendeleo.
+- **Ukadiriaji unaoeleweka pamoja na uelekezaji uliowekewa bajeti ya muda.** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu et al. (2026)]] huhifadhi viambajengo vichache vya wazi vya mwanafunzi, yaani unyeti wa ukadiriaji, ubora wa jibu na mwendo, na huelekeza maswali chini ya bajeti ya muda, hivyo kupunguza kwa karibu nusu tetemeko la kusasisha ukadiriaji dhidi ya Elo isiyobadilika huku ikibaki nyuma ya ufuatiliaji wa maarifa wa neva katika utabiri (AUC 0.7532 dhidi ya 0.8658 ya GKT).
 - **Algoriti za kufaa zilizolinganishwa katika nyanja zinazobadilika.** [[graph-its-adaptive-algorithms-2026|Utafiti wa ITS unaotegemea grafu]] unalinganisha algoriti kadhaa za kujifunza kufaa (ikijumuisha uenezaji wa maarifa ya Bayesian na mantiki ya fuzzy ya intuitionistic) katika mfumo wa uwakilishi wa maarifa unaotegemea grafu kwa mitaala inayobadilika.
 
 - **RL kama mbinu ya kufaa, iliyochorwa kwa uhalisia.** [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper na Lugrin (2025)]] wanachanganua masudio 89 ya RL katika elimu na wanagundua kubadilika kugawanyika katika mbinu zinazohusiana na maudhui (mpangilio wa mafunzo/kupanga maudhui, n = 53) na zinazohusiana na mwongozo (vidokezo, [[feedback]], uteuzi wa shughuli, n = 36) — huku RL ikionyesha ubora wa kiwango cha hisabati juu ya msingi zaidi kwa kubadilika kunahusiana na mwongozo kuliko kwa kupanga maudhui. Wanapendekeza RL bila mfano kwa kujifunza kufaa na wanaonya kuwa RL ya kawaida ilizidi Deep RL katika masudio yaliyopitiwa.
@@ -76,6 +77,33 @@ Kujifunza kufaa mara nyingi huchanganyika na [[personalized-learning|kujifunza k
 - **Weka maamuzi ya ustadi kwa msingi wa kanuni na zuia mifumo inayojifunza katika ufuatiliaji.** Programu ya STEM inayokufaa ya wiki nane kwa wanafunzi 30 wa darasa la sita ilisimamia njia kwa ustadi wa msingi wa kanuni huku mifumo inayojifunza ikiendelea kufuatilia utendaji, ikihifadhi kubadilika kuwa na uwezo wa ukaguzi, lakini bila upimaji wa awali na darasa moja kwa kila hali, maendeleo yake ni kiolezo cha majaribio cha kuthibitishwa mahali pa eneo hilo ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026|Bin Bakheet et al., 2026)]]).
 - **Badilisha sifa ya kizuizi, si wastani dhaifu.** Uundaji wa mfano wa hali za maarifa ulipanga ufikiri wa kichanganuzi kama mgumu zaidi kupata na rahisi zaidi kupoteza — uwezekano wa mwendo wa mbele wa chini zaidi 0.31 na wa nyuma wa juu zaidi 0.22-0.23 — ikifanya mazoezi upya ya sifa iliyoashiriwa kuwa lengo la kubadilika lenye kina zaidi kuliko ustadi wa jumla ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng na Huang, 2026)]]).
 - **Kubadilika kutoka mfululizo wa michakato, si alama za jumla.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela na Cukurova (2026)]] walizalisha kanuni za ngazi za msaada kwa kuchimba *mpangilio* wa zamu za mazungumzo 65 za wanafunzi katika vikundi vya watatu, wakiondoza kujifunza kufaa kutoka vipimo vya tabia au utendaji vilivyounganishwa kuelekea mfululizo wa michakato ya kibinafsi; ngazi za msaada za juu zilipandisha tabia ya kazi lakini pia kuandika maandishi, na ubuni haujapimwa.
+
+## Dhana Potofu za Kawaida
+
+- **"Kufaa maana yake kubinafsika, maana yake kuwa kibinafsi."** [[khalifeh-redefining-personalized-learning-ai-2026|Mapitio ya kimfumo]] yanagundua maneno haya manne yakitumika **bila uthabiti katika fasihi**, ambayo inamaanisha kwamba ukubwa wa athari unaoripotiwa unategemea pakubwa jinsi kubadilika kulivyofafanuliwa kiutendaji badala ya kubadilika wenyewe. Uchanganuzi wa meta unaochanganya masomo yaliyotumia maneno tofauti unachanganya matibabu tofauti, na wastani haufafanui hata moja yao.
+
+- **"Ustadi unaofikiwa katika mfumo ni ustadi uliojifunzwa."** Katika **jaribio la uwanja la wanafunzi 6,000 wa shule ya kati**, kanuni ya ustadi ya AI ya sahihi tatu mfululizo ilipandisha **ufikiaji uliofafanuliwa na jukwaa kwa takriban pointi 28.7 za asilimia bila kuboresha** kipimo cha uhamishaji. Kanuni iliboresha kigezo cha jukwaa lenyewe. Hii ni onyesho lililo wazi zaidi linalopatikana kwamba ishara ya ustadi ni mfano wa kujifunza, si kujifunza.
+
+- **"Kubadilika kulingana na usahihi hujua lini kuacha."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, na Stamper (2026)]] waligundua mifumo inayokisia ustadi kutoka usahihi ikiwa katika hatari ya **kumaliza mazoezi mapema sana**: mfumo husoma mfululizo sahihi kama ufahamu na huondoa mazoezi ambayo mwanafunzi alikuwa bado anayahitaji. Kubadilika kunakokoma kwa mafanikio kunaweza kuondoa majaribio yale yale yanayozalisha uhifadhi.
+
+- **"Kizuizi ni jinsi kubadilika kunavyokuwa bora."** Katika **jaribio la nasibu la wilaya la miaka miwili**, kizuizi kilichofunga kilikuwa **kupitishwa**: kupunguza uandikishaji hadi hatua moja kulipandisha kupitishwa kwa kipindi cha kwanza kutoka takriban **45% hadi 83%** kwa mabadiliko ya muundo pekee, na faida za nia-ya-kutibu zilikua sawia. Kubadilika kwa werevu zaidi hakumhudumii yeyote asiyefika kwake.
+
+- **"Ushiriki hudumu pindi unapowekwa."** Mapitio yanayolingana na PRISMA ya **masomo 44** yaligundua fasihi ya ushiriki ikielekea ushiriki wa kitabia na nyembamba zaidi kwa ushiriki wa kiakili wa mwakala, na yanaripoti **athari ya ubunifu**: ushiriki unaopungua kwa muda katika masomo ya muda mrefu ya ALEX na mifumo kama hiyo. Ushiriki wa mwanzo si sifa thabiti ya muundo.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji na wabunifu**
+
+- Fafanua ustadi kwa kile unachohitaji kiwe kweli, si kwa kile jukwaa linachoweza kuona. Faida ya pointi 28.7 za ufikiaji bila uboreshaji wa uhamishaji ni hali ya kushindwa ambayo muundo unapaswa kujilinda nayo: ikiwa kigezo ni tatu mfululizo, tatu mfululizo ndicho utakachopata.
+- Endeleza mazoezi kupita ishara ya usahihi kwa kitu chochote unachohitaji kihifadhiwe. Tumia mapitio ya [[desirable-difficulties|nafasi na mwingiliano]] badala ya kutumaini mfumo unaokufaa kuamua mwanafunzi amemaliza.
+- Ondoa msuguano wa uandikishaji kabla ya kurekebisha algoriti. Kupitishwa kutoka 45% hadi 83% kwa kupunguza hatua moja kulishinda maboresho mengi ya kielimu katika fasihi hii.
+- Panga kupungua kwa ushiriki. Kazi za muda mrefu zinaandika kupungua; muundo unaotegemea matumizi ya hiari yanayodumu unahitaji sababu ya kuendelea kutumika.
+- Kagua ni muundo upi ambao mfumo unadai kuubadilisha. Ushiriki wa kitabia ndio unaosomwa zaidi na usio na taarifa nyingi kuhusu kujifunza; ushiriki wa kiakili wa mwakala ni mwembamba zaidi katika msingi wa ushahidi.
+
+**Kwa watengenezaji**
+
+- Ripoti ufafanuzi wa kiutendaji wa "kufaa" pamoja na ukubwa wowote wa athari unaoutaja, kwa sababu ufafanuzi wa fasihi unatofautiana na nambari zilizochanganywa zinarithi utata huo.
+- Tofautisha kigezo chako cha ustadi na matokeo ya kujifunza katika uthibitishaji wako mwenyewe. Ikiwa kipimo chako cha uthibitishaji ni ishara ile ile inayoongoza kubadilika, si ushahidi huru.
 
 ## Dhana Zilizounganishwa
 
@@ -96,6 +124,7 @@ Kujifunza kufaa mara nyingi huchanganyika na [[personalized-learning|kujifunza k
 - [[recommender-systems-and-learning-paths]]
 
 ## Makala Zilizounganishwa
+- [[mars-momentum-aware-adaptive-rating-assessment-2026]] — MARS: Mfumo wa Ukadiriaji Unaojali Mwendo kwa Tathmini ya Kibinafsi
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Kupita kiasi kwa udanganyifu: ustadi unaokufaa unaweza kuacha mazoezi kabla ya wanafunzi kujua lini kuzuia hatua (An, McLaren & Stamper 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — Ufundishaji wa AI si Moja: Tulicho Jua Kweli (hati fupi ya Stanford SCALE/NSSA)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
@@ -107,7 +136,7 @@ Kujifunza kufaa mara nyingi huchanganyika na [[personalized-learning|kujifunza k
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Kufanya ufundishaji wa AI kuwa na tija: mazoezi ya hisabati kulingana na ustadi
 - [[chudziak-ai-math-tutoring-platform]] — Ufundishaji wa hisabati unaokufaa/kubinafsika wa mawakala wengi (Chudziak & Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Kufafanua upya kujifunza kwa kibinafsi: mapitio ya kimfumo
-- [[deeptutor]]
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]

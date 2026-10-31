@@ -10,7 +10,7 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,8 @@ Kwa walimu wenye umbo la kimwili, uchanganuzi-makubwa wa masomo 11 ya RALL (N = 
 Ulinganisho wa kazi 52 za tathmini za EFL zilizokadiriwa na walimu 20 wenye uzoefu haukupata tofauti kubwa ya ubora kwa ujumla kati ya vipengele vilivyotengenezwa na AI na vilivyotengenezwa na binadamu, lakini ulionesha mgawanyo wazi wa kazi: AI ilipendekezwa kwa sarufi na msamiati (69%) na maendeleo ya binadamu kwa kusoma, kuandika, kusikiliza na kusema (75–83%) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia na Darvishi (2026)]]).
 
 **Tathmini ya kiotomatiki ya uandishi kwa wanafunzi wa L2** inatathmini uwezo wa AI wa kutathmini uandishi usio wa asili. **[[self-referential-l2-writing-llm-assessment|Bannò na wenzake]]** walipendekeza mbinu ya kujirejelea inayolinganisha uandishi wa mwanafunzi na kazi zao za awali badala ya viwango vya wazungumzaji asili. **[[ai-scoring-language-bias-physics|Feser na Tschisgale]]** waligundua alama za AI zinadharau kwa mpango wanafunzi wenye udhaifu wa lugha — ugunduzi unaoungana na wasiwasi wa [[assessment-validity]] na [[bias-mitigation]]. **[[genai-linguistic-diversity-academic-writing]]** huchunguza jinsi AI inavyoathiri urasilishaji wa lugha katika miktadha ya kitaaluma.
- Mfumo wa kiwango cha mazungumzo unaenda mbali zaidi kwa kutaja kasoro badala ya kuweka alama kwenye maandishi: uainishaji wa uhusiano wa jozi za sentensi ulibainisha uvunjaji wa mwendelezo - kuruka kwa mantiki, viunganishi vilivyokosekana, marejeleo ya kutoeleweka - na kupokelewa na walimu kwa maoni yaliyotengenezwa kulikuwa 71.2%-88.4% ([[bert-discourse-english-teaching-2026|Wang na wenzake, 2026]]).
+
+Mfumo wa kiwango cha mazungumzo unaenda mbali zaidi kwa kutaja kasoro badala ya kuweka alama kwenye maandishi: uainishaji wa uhusiano wa jozi za sentensi ulibainisha uvunjaji wa mwendelezo - kuruka kwa mantiki, viunganishi vilivyokosekana, marejeleo ya kutoeleweka - na kupokelewa na walimu kwa maoni yaliyotengenezwa kulikuwa 71.2%-88.4% ([[bert-discourse-english-teaching-2026|Wang na wenzake, 2026]]).
 
 **[[accessibility]] kwa wanafunzi wa lugha** inaungana na [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** ilichanganua jinsi wanafunzi wenye dyslexia wanavyotumia AI kwa msaada wa usomi, na **[[ai-tools-arab-english-classrooms]]** ilichunguza zana za AI katika miktadha ya madarasa ya Kiarabu-Kiingereza. Masomo haya yanaungana kujifunza lugha na [[equity-in-ai-education]] na [[special-education]].
 
@@ -63,12 +64,14 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 - **Teknolojia zinazoibuka [[ai-technologies|technologies]] hutoa faida ndogo hadi za wastani, zinazotegemea kiwango.** [[liu-emerging-tech-tefl-review-2026|Uchanganuzi-makubwa wa masomo 33 ya TEFL]] (N = 3,181) hupata athari ya jumla ya Hedges' g = 0.38 inayoongezeka na kiwango cha elimu (msingi 0.29, sekondari 0.35, chuo kikuu 0.44), zikiwa na VR/AR zikitoa athari kubwa zaidi na ujuzi wa uzalishaji (kusema, kuandishi) zikipata zaidi kuliko ujuzi wa upokeaji — zikiaunga mkono matumizi ya teknolojia inayoibuka, hasa katika kiwango cha chuo kikuu, huku zikishikilia matarajio ya kweli.
 - **Mapitio ya mpango yanatazama wapi elimu ya lugha ya msingi kupitia AI inapungua.** Katika masomo 31 (2013-2025), kazi katika madarasa ya lugha ya msingi ilikusanyika kwenye kusema, usomi na msamiati wakati sarufi, uelewa wa kusikiliza na lugha ya ishara zilisomwa kidogo, na mifumo mingi haikuwa na uainishaji wa kiwango cha darasa ([[ai-elementary-language-education-review-2026|Hamasha na wenzake, 2026]]).
 - **Tumia AI kupanua mazoezi ya mawasiliano, si kuchukua nafasi yake.** [[ai-interlocutor-l2-spoken-dialogue|Washirika wa AI]] na [[tact-pedagogically-adaptive-esl-tutoring|walimu wa ESL wanaobadilika]] wanapanua mazoezi ya mwingiliano kwa kiwango kikubwa — waunganishe na mwingiliano wa binadamu ili ufasaha na upokeaji uhamie katika mazungumzo halisi.
-
+- **Panua [[scaffolding|kiunzi]] cha AI hadi usomaji wa kushirikiana.** Na wanafunzi 63 wa Kiingereza wa China katika utafiti wa uwekaji maelezo ya kijamii unaoungwa mkono na GenAI, [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] waligundua kwamba chatbot ilipandisha ushiriki wa kiakili na kihisia na utendaji wa usomaji na iliunganisha [[community-of-inquiry|uwepo wa kijamii]] na ujumuishaji na utatuzi, ingawa makundi yenye mafanikio ya juu yalitumia kiunzi hicho kwa kiasi kikubwa zaidi.
+- **Utayari, si utendaji ulioonekana.** Kwa wanafunzi 708, mazoezi zaidi ya kusema yanayoungwa mkono na AI yalifuatilia utayari wa juu wa kuwasiliana unaoelekezwa kwa binadamu (β = 0.384) na [[anxiety-and-stress|wasiwasi]] mdogo wa kusema lugha ya kigeni (β = −0.416), wakati hali za msaidizi wa sauti wa AI zilipunguza wasiwasi unaotarajiwa zaidi; hakuna utafiti ulioona kusema halisi kwa binadamu ([[ai-speaking-practice-communicative-readiness-2026|Wang na Li (2026)]]).
 
 - **Angalia matokeo ya AI kwa kasoro za pragmatic, si tu za kisarufi.** Walimu katika mbinu tano za kufundisha lugha mtandaoni walitaja upofu wa pragmatic, ambapo matokeo ya AI ni sahihi kisarufi lakini sahihi vibaya katika toni, umaridadi au utamaduni ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi na Khan (2026)]]).
 - **Wekeza ubora wa maoni juu ya wingi katika kusema unaoungwa mkono na ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen na wenzake (2026)]] wanapata kwamba marekebisho sahihi ya makosa na kazi za kutafakari zilizopangwa zinaboresha kufyonzwa kwa [[feedback]] na tabia ya kutafakari katika kusema Kiingereza cha chuo kikuu, wakati matumizi ya marudio ya ASR na usahihi wa utambuzi yanaongeza motisha au kutafakari tu kwa sehemu — usahihi wa kiufundi pekee hausukumi kushiriki kwa kina kwa kiakili, na ustadi wa lugha unasimamia faida (wanafunzi wenye nguvu zaidi wanafyonza maoni kwa ufanisi zaidi). Hii inahesabiwa kwa maoni ya kielimu yenye mantiki (k.m., maelezo ya kisayansi ya matamshi yakitumika badala ya alama rahisi za makosa), kutafakari kwa ngazi za msaada, na msaada unaotofautiana na ustadi.
 - **Toa viashiria kabla ya marekebisho.** Kazi ya ChatGPT ya 'kiashiria kabla ya marekebisho', ambapo wanafunzi hutarajia marekebisho kutoka viashiria vilivyoongozwa badala ya kupokea marekebisho ya moja kwa moja, ilipunguza mzigo wa kiakili na kuunga mkono marekebisho yaliyobinafsishwa — lakini faida ilidumu hasa kwa wanafunzi ambao tayari walikuwa na maarifa ya awali ya kutosha (wanafunzi 58, CEFR A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová na Jennings (2026)]]).
 - **Toa maoni ya matamshi yanayobainisha tofauti kwa karibu.** Profy hujifunza ustadi kutoka hotuba zisizo na maelezo mengi na unaonyesha *wapi* mwanafunzi anatofautiana na usambazaji wa wazungumzaji asili; vipindi vyake vya kujiamini kabla/baada vya ufahamu havikuweza kugusana, tofauti na msingi wa kuiga — ushahidi kwamba mazoezi ya kuiga yanaweza kuungwa mkono bila wakadiriaji wenye ujuzi ([[ai-guided-learning-audiovideo-2026|Kawamura (2026)]]).
+- **Tumia chaneli ya nakala kama ishara ya pili, si mbadala.** Kifaa cha uainishaji wa sauti cha WavLM kilizidi kifaa cha uainishaji cha GPT-4o cha hatua-sifuri kinachosoma nakala kwenye korpusi ya wanafunzi yenye usawa wa CEFR, kwa hivyo athari za kileksika za lugha ya kwanza ni halisi lakini dhaifu kuliko matamshi, mdundo na kiimbo ([[acoustic-lexical-native-language-identification-learners-2026|Uluslu na wenzake (2026)]]).
 - **Unga mkono mabadiliko ya kisaikolojia ya wanafunzi kwa mazoezi ya AI.** [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] hufuatilia wanafunzi wa Kijapani kwa muhula na hupata wanajipanga katika profaili za mabadiliko ya kudhibitiwa, ya wastani, na chanya, zikiongozwa na usawa wa technostress na ustahimilivu, zikiwa na wanafunzi wengi wakibadilika taratibu kuelekea mabadiliko chanya na kuripoti [[self-efficacy]] ya juu na uchovu wa chini — ishara ya kubuni mazoezi ya lugha yaliyoandaliwa na AI yanayosimamia msongo wa kiteknolojia, si upatikanaji wa zana tu.
 - **Kuwa makini na upendeleo wa alama na maoni dhidi ya wanafunzi.** [[ai-scoring-language-bias-physics|Alama za AI]] zinaweza kuadhibu mifumo yasiyo ya asili; [[genai-linguistic-diversity-academic-writing|utafiti wa urasilishaji wa lugha]] unatahadharisha kwamba AI inafadhili Kiingereza sanifu — tumia tathmini ya kujirejelea au inayosimamiwa na binadamu.
 - **Unga mkono spektra kamili ya wanafunzi.** [[dyslexlens-dyslexic-learners-ai|Masomo ya dyslexia na upatikanaji]] na ubunifu [[culturally-relevant-pedagogy|unaojibu utamaduni]] ([[ai-tools-arab-english-classrooms|miktadha ya Kiarabu-Kiingereza]]) yanaonyesha kwamba AI inapaswa kubadilishwa kwa mahitaji mbalimbali ya wanafunzi, si kudhaniwa kuwa ya jumla.
@@ -79,6 +82,15 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 
 - **Profaili nne za mwingiliano katika kazi ya lugha mbili yenye shinikizo kubwa.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li na Weng (2026)]] walitumia ufuatiliaji wa jicho, kurekodi kalamu na kurekodi sauti na wanafunzi 22 wa tafsiri kuonyesha kwamba wanafunzi hugawa mshiko kati ya matokeo ya AI na kumbukumbu zao wenyewe katika njia nne tofauti — Washiriki Wenye Mshiko Mkubwa, Watafutaji wa Haraka, Wafuasi wa Jadi, na Wabadilishaji wa Marudio — na kwamba asilimia 58.3 ya uchunguzi wa kiwango cha hatua ulibadilika kati ya hatua za uelewa na uzalishaji wa kazi ileile. Mifumo ya hatua ya uelewa pekee ilitabiri ubora wa bidhaa, na kundi lililokuwa na uzito mkubwa wa AI lilipata alama za chini kabisa katika ufasaha wa uwasilishaji na ubora wa lugha lengwa, jambo linalounda kesi ya kufundisha wanafunzi kuelezea na kutafakari mkakati wao wenyewe badala ya kuagiza njia moja ya kufanya kazi na zana.
 - **Pitisha mzunguko kamili wa ujuzi wa kipekee nne kuzunguka gharama na muunganisho.** [[llmersion-local-first-language-learning-2026|Guo na wenzake (2026)]] wanatoa LLMersion-1, kiolezo cha kwanza kinachotangulia ndani ya nchi kinachofanya kazi kusikiliza, kusoma, kusema na kuandia kwenye hati yao wenyewe kwenye vifaa vya watumiaji — mwalimu wa 1B unapunguza hadi 808 MB na mfumo mzima wa kukaa unadumu chini ya 4 GB — na unaweka bei ya mazoezi ya kila siku ya miaka mitano kwa takribani \\$18 ya umeme, dhidi ya \\$1,200 ya usajili wa wingu. Hakuna matokeo ya wanafunzi yanayoripotiwa na maoni ya matamshi ni ya sehemu tu.
+- **Ushahidi kuhusu faida za kusema za chatbot hautofanana kwa kipengele.** Katika muhtasari pekee wa kimfumo wa swali hili, masudio kumi kati ya 2021 na 2024 yaliboresha upeo na ueleweka kwa kuaminika zaidi, wakati ulinganifu ulichunguzwa mara moja na mwingiliano karibu kamwe; manne kati ya kumi yaliripoti alama moja ya jumla ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
+
+## Dhana Potofu za Kawaida
+
+- **"Walimu wa roboti wanaofanya kazi kwa sababu ya mwili."** Meta-analysis ya **masudio 11 ya RALL (N = 595)** iligundua athari kubwa iliyokusanywa kwenye kujifunza L2 (**g = 0.83**) ikiwa na **tofauti kubwa**, na muhimu zaidi, **vipengele vya ngazi ya mwingiliano pekee** vilipunguza athari hiyo. Morfolojia na namna ya uwasilishaji hazikufanya hivyo, kwa hivyo vifaa siyo kiungo tendaji.
+
+- **"Vipengele vya tathmini vilivyozalishwa na AI ni vibaya kuliko vilivyoandikwa na mwalimu."** Ulinganisho wa **kazi 52 za tathmini ya EFL zilizokadiriwa na walimu 20 wenye uzoefu** uligundua **hakuna tofauti kubwa ya ubora kwa jumla** kati ya vipengele vilivyozalishwa na AI na vya binadamu, lakini tofauti katika vipimo mahususi. Usawa wa jumla pamoja na udhaifu mahususi ni dai tofauti na uboreshaji au upungufu.
+
+- **"Maoni ya LLM yanaweza kupima uandishi tu."** Mfumo wa ngazi ya mazungumzo huenda mbali zaidi kwa **kutaja kasoro badala ya kupima maandishi**, huku uainishaji wa uhusiano wa jozi za sentensi ukibainisha **mikondo ya ulinganifu** kama kuruka kwa kimantiki na viungo vinavyokosekana. Matokeo yenye manufaa ni ya utambuzi, si ya namba.
 
 ## Dhana Zilizounganishwa
 
@@ -105,10 +117,8 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
-- [[alharbi-ethical-genai-eap-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[chatbots-oral-proficiency-efl-systematic-review]]: Faida za chatbot katika ufasaha wa kusema hujikita kwenye upeo na ueleweka
+- [[acoustic-lexical-native-language-identification-learners-2026]]: Sauti inazidi kifaa cha uainishaji cha nakala cha GPT-4o cha hatua-sifuri kwa utambuzi wa L1 (Uluslu na wenzake 2026)
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-guided-learning-audiovideo-2026]]
@@ -124,7 +134,6 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
@@ -134,3 +143,5 @@ Ubora wa ubunifu, si marudio ya matumizi, ulibeba athari ya motisha katika mwali
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Pragmatic blindness: AI language output can be grammatically correct but culturally wrong
+- [[ai-speaking-practice-communicative-readiness-2026]] — Utayari, si utendaji ulioonekana
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — Panua kiunzi cha AI hadi usomaji wa kushirikiana

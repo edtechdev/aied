@@ -2,7 +2,7 @@
 title: "OpenMAIC"
 created: "2026-10-13T05:30:00-04:00"
 type: resource
-summary: "The open-source release of MAIC: a multi-agent classroom that turns a topic or document into slides, quizzes, interactive simulations and project-based activities, delivered by AI teachers and classmates."
+summary: "Toleo la chanzo huria la MAIC: darasa la mawakala wengi linalogeuza mada au hati kuwa slaidi, maswali ya mtihani, mifano inayoshirikika na shughuli za kujifunza kwa mradi, likisambazwa na walimu wa AI na wanafunzi wenzako wa AI."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
 resource_type: [software, collection of tools]

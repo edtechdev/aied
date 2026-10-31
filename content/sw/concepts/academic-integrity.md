@@ -10,7 +10,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -165,6 +165,10 @@ Utafiti wa kwanza wa Nadharia ya Tabia Iliyopangwa wa nia ya makosa ya kitaaluma
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] wanaandika utaratibu huo kutoka ndani ya kitivo kimoja: walimu waliokuwa wamebadilisha miundo ya tathmini walisema ilikuwa "karibu haiwezekani kusema kama mwanafunzi ametumia AI katika uandishi wa kazi", huku wanafunzi waliokasirika wakiomba rufaa kwa dhamiri na "kuaibisha" badala ya kugundua.
 - **Uwezo bora wa kugundua hauibadilishi kile tathmini inachoweza kuthibitisha.** Mfumo wa uangalizi wa pozi la YOLOv11 unaoripoti usahihi wa uainishaji wa 99.56% unaonyesha kikomo cha njia ya ugunduzi: hupima mkao dhidi ya lebo ya tabia, hauripoti ukweli wa msingi juu ya makosa, na hautoi uchanganuzi wa vikundi vidogo ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Tiba anayoitetea Villanueva ni ushahidi wa kutosha wa kujifunza katika hatua muhimu, si uangalizi wa kiwango cha juu wa kila wasilisho.
 
+**Lugha ya uadilifu katika sera za kimataifa haiweki maana ya kiutendaji, na hilo ndilo ugunduzi badala ya pengo.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] alichanganua machapisho manne ya UNESCO na OECD kati ya 2023 na 2026 kwa uchanganuzi wa kidiskosi unaokosoa na akagundua istilahi nane zinazojirudia (uwajibikaji, uwazi, uaminifu, wakala wa kibinadamu, uhalisi wa asili, uhalisi, matumizi yenye uwajibikaji, na uongezaji) zinazobeba uzito wa kikanuni huku zikibadilisha referenti kati ya nyaraka. UNESCO inaweka watoa huduma kuwa na uwajibikaji kwa maadili ya msingi na waelimishaji kwa mwingiliano unaofaa kielimu; OECD inahamishia istilahi hiyo hiyo katika hukumu ya kitaalamu ya walimu.
+
+OECD (2023) inarekodi kwamba hadi mwanzo wa 2024 hakuna hata moja kati ya nchi kumi na nane zilizochunguzwa iliyokuwa na udhibiti mahususi wa AI ya kizalishaji kwa elimu na tisa zilipeleka utawala hadi ngazi ya shule. Ikisomwa kupitia dhana ya Ahmed ya kutotenda kwa njia inayoonekana, msamiati huo unaonyesha mwitikio wa kimaadili bila utaratibu wowote wa kuutekeleza, hivyo uwajibikaji unatajwa na kila mhusika kwa wakati mmoja na haupatikani kwa yeyote. Hashem anaita tokeo hilo **habitus ya udanganyifu** inayobadilika: mielekeo kuelekea ushiriki halali inayosawazishwa upya chini ya kutokuwa na uhakika kwa muda mrefu, ikitofautishwa kwa mtaji wa kitaaluma ambao wanafunzi wanakuja nao, huku udanganyifu na kudanganywa vikitendewa kama hali zinazotokea kwa wakati mmoja badala ya njia mbadala. Yote yanapendekezwa kutoka maandishi ya sera, si kuzingatiwa kwa wanafunzi.
+
 ## Dhana Potofu za Kawaida
 
 - **"Zana za ugunduzi hutambua uandishi wa AI."** Maandishi yaliyozalishwa na AI **yamepita kama ya mwandishi wa binadamu katika hadi 80% ya kesi**, wakati ushahidi wa ugunduzi unaweka **ugunduzi wa mashine katika takriban 80% dhidi ya 78.4% kwa wakadiriaji wa binadamu**. Hukumu ya binadamu na ya mashine ni karibu sawa kwa kutokuaminika, hivyo hukumu ya ugunduzi si ushahidi wa uandishi.
@@ -235,4 +239,5 @@ Utafiti wa kwanza wa Nadharia ya Tabia Iliyopangwa wa nia ya makosa ya kitaaluma
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Utabiri wa mapema wa hatari ya wizi wa kitaaluma unaosaidiwa na AI kutoka alama za LMS, ikiwekwa kama mwongozo wa kitaaluma badala ya ushahidi wa makosa ya kitaaluma
 - [[reddit-genai-education-discourse-analysis-2026]] — Miaka mitatu na nusu ya elimu ya Reddit: utekelezaji unatawala, na mizozo ya uadilifu ni ukumbi mkuu wa waelimishaji–wanafunzi (Yüce et al. 2026)
 - [[boyd-swan-employer-responses-genai-2026]] — Jaribio la utafiti: fremu ya ubadilishaji ya matumizi ya AI ya mwanafunzi inaadhibu waombaji wenye GPA ya juu katika kuajiri na mshahara; mtihani wa ana kwa ana ni tiba pekee ambayo makundi yote mawili yalichagua
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Nyaraka nne za UNESCO na OECD zinasomwa kama diskosi: viashiria vinayoelea, kutofanya-kinachotamkwa na habitus ya udanganyifu inayobadilika
 - [[airri-machine-resistant-reading-interface-2026]] — AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface

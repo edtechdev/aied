@@ -9,7 +9,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-03T12:32:09-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -44,12 +44,17 @@ Motisha ni dhana ya msingi katika utafiti wa elimu, na kupanda kwa AI katika eli
 
 Meta-analysis ya masudio 42 (ukubwa 56 wa athari, wanafunzi 6,059) ilipata kuwa kujifunza kunakosaidiwa na GenAI kulipandisha motisha kwa Hedges' g = 0.764 (95% CI [0.566, 0.962]) — lakini kwa I² = 93.7% na kipindi cha utabiri wa 95% ya [−0.689, 2.217], wastani unaficha mazingira ambapo athari ni karibu sifuri au hasi ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **Matumizi bila kutafakari yanaharibu motisha — zaidi kwa wanaume.** Matumizi ya GenAI bila kufikiri (kukubali majibu bila kuchunguza) yalitabiri motisha ya chini (β = −0.54) na [[self-efficacy]] ya chini (β = −0.37) miongoni mwa wanafunzi 487 wa chuo kikuu, na athari ya motisha ilikuwa yenye nguvu zaidi kwa kiasi kinachoweza kuthibitishwa kwa wanafunzi wanaume wakati athari ya ujuzi wa uwezo binafsi ilikuwa yenye nguvu zaidi kwa wanafunzi wanawake ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
+- **Kupunguza kufadhaika si sawa na kudumisha motisha.** [[rct|RCT]] ya mikono mitatu iligundua mfunzi mwenye ngazi za msaada na ChatGPT isiyo na mipaka zilipunguza kufadhaika kwa usawa (3.21 na 3.13 dhidi ya 4.09), lakini mfunzi mwenye ngazi za msaada pekee ndio ulipandisha motisha ya asili (2.82 dhidi ya 2.42, p < .001); ChatGPT haikufanya hivyo (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 
 Sababu msomaji anafikia AI yenyewe ni kigezo kinachoweza kupimwa: kipimo cha AIR kinatatua nia nne za kusoma kunakosaidiwa na GenAI — Kuelekezwa na Kazi, Kuhisi-Vizuri, Tafsiri na Juhudi-Ndogo — na Kuhisi-Vizuri pekee, kutumia AI mtu akichoka au bila kushiriki, ilihusishwa kwa njia hasi na mahitaji ya kiakili (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar na Sidi (2026)]]).
 
 **Motisha katika ushirikiano unaopitishwa na AI** inachunguza jinsi ubora wa motisha (si wingi tu) unavyobadilika na AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** waliunganisha nadharia ya kujitambua na [[network-analysis|uchanganuzi wa mtandao wa maarifa]] kuchunguza ushirikiano na [[generative-ai|AI ya kizalishaji]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** walifuatilia motisha katika maendeleo kupitia uchanganuzi wa mpito wa siri wa **wanafunzi 2,086 wa [[k-12|sekondari]]** katika mtaala wa AI wa mwaka mzima, wakipata mifumo mitatu thabiti (Isiyoshiriki, Inayokua, Inayojitambua) na kuwa kufikia mfumo wa Inayojitambua ulitabiri maendeleo makubwa zaidi ya [[ai-literacy]]. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** walitumia nadharia ya kuweka malengo na **wanafunzi 758 wa [[higher-ed|chuo kikuu]]** wa Kiingereza, wakionyesha kuwa **msaada wa mwalimu** unaelekeza ushirikiano unaosaidiwa na AI hasa kupitia malengo ya mbinu ya ustadi na malengo ya mbinu ya utendaji (mbinu, si kuepuka, mwelekeo wa malengo). Pamoja masudio haya yanaonyesha kuwa motisha katika miktadha ya AI ni ya maendeleo na ya kijamii iliyowekwa kwa ngazi za msaada — inabadilika kwa muda na inaitikia msaada wa mwalimu na kuweka muktadha wa malengo, si ubuni wa zana tu.
 
-Mwelekeo wa malengo pia huelekeza jinsi zana inavyotumika: malengo ya mbinu ya ustadi na ya kawaida ya utendaji huunga mkono ufafanuzi na uboreshaji, wakati malengo ya utendaji wa mwonekano hufanya upunguzaji wa juhudi na kulinda uwezo unaoonekana kuwa na uwezekano mkubwa zaidi — hivyo msaidizi yule yale huweka ngazi za msaada au huchukua nafasi ya kufikiri kulingana na hali ya motisha ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]).
+Mwelekeo wa malengo pia huelekeza jinsi zana inavyotumika: malengo ya mbinu ya ustadi na ya kawaida ya utendaji huunga mkono ufafanuzi na uboreshaji, wakati malengo ya utendaji wa mwonekano hufanya upunguzaji wa juhudi na kulinda uwezo unaoonekana kuwa na uwezekano mkubwa zaidi — hivyo msaidizi yule yale huweka ngazi za msaada au huchukua nafasi ya kufikiri kulingana na hali ya motisha ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). Motisha ya zawadi inaweza kupunguza ufikiaji wa maoni ya AI: kwa [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]], uhusiano wa uaminifu na ujifunzaji unaotambulika ulidhoofika kadiri usikivu wa zawadi unaotegemea alama ulivyopanda, miteremko rahisi b = 0.733, 0.607 na 0.483 katika usikivu wa chini, wastani na juu.
+
+Sera ya kitaasisi ya [[educational-policy-ai|AI]] ya uzalishaji yenyewe ni kichocheo cha msongo ambacho [[learners|wanafunzi]] hukitathmini: [[gai-advocacy-practice-art-education-2026|Chen (2026)]] aligundua kuwa pengo kati ya utetezi wa GAI wa vyuo vikuu na mazoezi yao darasani ulipandisha tathmini za changamoto na vikwazo miongoni mwa wanafunzi wa sanaa na ubunifu wa Kichina, zikiwa na athari zisizo za moja kwa moja zinazopingana juu ya ushirikiano wa mchakato wa [[creativity|ubunifu]], wakati ufikiri wa njia uliongeza njia ya changamoto pekee.
+
+Motisha pia hufanya kazi kabla ya mtazamo wa teknolojia, si pamoja nayo pekee. Katika sampuli ya wanafunzi 340 wa fizikia, thamani ya matumizi ilitabiri manufaa yanayoonekana (β = 0.43) na thamani ya asili ilitabiri mtazamo (β = 0.20), wakati gharama inayoonekana ilipunguza urahisi wa matumizi (β = −0.16) na mtazamo (β = −0.27) bila njia ya moja kwa moja kuelekea nia ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
 
 Muundo wa mazungumzo unaweza kupandisha motisha bila kuboresha tathmini ya jumla: katika wanafunzi 222 wa mwaka wa kwanza wa shule ya sekondari, mazungumzo ya mwalimu–mwalimu yalipandisha motisha ya ARCS zaidi kuliko muundo wa mwalimu–mwanafunzi kwa wanafunzi wenye uzoefu halisi wa juu (b = 0.162, p < .001) lakini yalipata alama za chini kwa kiasi kinachoweza kuthibitishwa kwenye tathmini ya jumla (b = -0.126, p = .005) ([[tts-dialogue-lessons-learner-characteristics-2026|Watanabe et al. (2026)]]).
 
@@ -73,6 +78,14 @@ Uingiliaji wa thamani-ya-matunda haufaidishi kwa njia ya usawa: toleo lililo na 
 
 Motisha ni dhana ya mzazi ya [[self-determination-theory]], ambayo inabainisha mahitaji ya kisaikolojia (uhuru, uwezo, uhusiano) yanayodumisha motisha ya ndani. Inahusishwa na [[student-experience]] kama safu ya uzoefu ya ushirikiano wenye motisha, na [[student-engagement]] kama kipimo chake kinachoweza kupimwa, na [[affective-computing]] kwa mitiririko ya kihisia inayoanza motisha. Motisha pia inahusishwa na [[cognitive-offloading|Kutegemea Kupita Kiasi]] (AI inapunguza [[desirable-difficulties|mapigano yenye tija]]), [[self-regulated-learning]] (wanafunzi wenye motisha hujidhibiti), na [[teacher-role]] (motisha inatumika kwa waelimishaji vile vile kama wanafunzi).
 
+## Dhana Potofu za Kawaida
+
+- **"Athari ya motisha ya GenAI ni faida safi na kubwa."** Meta-analysis ya masudio 42 (ukubwa 56 wa athari, wanafunzi 6,059) ilipata athari ya motisha ya g = 0.764 (95% CI [0.566, 0.962]) **lakini kwa I² = 93.7%**. Utengano mkubwa kiasi hicho unamaanisha takwimu ya pamoja inaeleza seti ya masudio yanayopingana, hivyo ni wastani wa matibabu yasiyolingana badala ya athari inayoweza kurudiwa.
+
+- **"Kupunguza kufadhaika ni sawa na kudumisha motisha."** [[rct|RCT]] ya mikono mitatu iligundua mfunzi mwenye ngazi za msaada na ChatGPT isiyo na mipaka **zilipunguza kufadhaika kwa usawa** (3.21 na 3.13). Miundo miwili tofauti sana ilizalisha tokeo lile lile la kihisia, hivyo data ya kufadhaika haiwezi kutofautisha kati yao.
+
+- **"Muundo wenye motisha ni muundo mzuri."** Katika **wanafunzi 222 wa mwaka wa kwanza wa shule ya sekondari**, muundo wa mazungumzo ya mwalimu-kwa-mwalimu **ulipandisha motisha ya ARCS zaidi** kuliko mbadala wake wakati **haukuboresha tathmini ya jumla**. Motisha ilisogea na ubora uliohukumiwa haukusogea.
+
 ## Dhana Zilizounganishwa
 
 - [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi
@@ -90,6 +103,10 @@ Motisha ni dhana ya mzazi ya [[self-determination-theory]], ambayo inabainisha m
 - [[social-emotional-learning]] — Kujifunza Kihisia-Kijamii
 
 ## Makala Zilizounganishwa
+- [[high-school-genai-acceptance-tam-physics-2026]] — Imani za thamani ya matarajio kama vitangulizi vya kukubalika kwa GenAI
+
+- [[gai-advocacy-practice-art-education-2026]] — Mapengo ya sera na mazoezi katika utetezi wa GAI hufanya kazi kama kichocheo cha msongo wanachotathmini wanafunzi
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Mfunzi mwenye ngazi za msaada ulipandisha motisha ya asili pale ChatGPT isiyo na mipaka haikufanya hivyo
 - [[liu-ai-assistance-reduces-persistence-2026]] — Matumizi ya AI ya muda mfupi yalipunguza uvumilivu katika matatizo ya baadaye bila msaada (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Maoni otomatiki kwenye uandishi wa hoja: jukumu la upokeaji wa maoni na mtazamo wa maoni wa wanafunzi wa sekondari
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Dhana potofu ya juhudi na mzunguku mbaya wa msaada bila msuguano

@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ Uthibitishaji unaweza kubadilisha jinsi wanafunzi wanavyoona swali: ombi la kuel
 
 ### Athari za kijamii na za mahusiano
 
-- **Chanya:** AI inaweza kuwasilisha [[collaborative-learning|ushirikiano]] na [[student-ai-interaction|mwingiliano wa binadamu–AI]], ikiunga mkono kazi ya timu, mwingiliano wa wanafunzi, na upatikanaji wa mitazamo mbalimbali.
+- **Chanya:** AI inaweza kuwasilisha [[collaborative-learning|ushirikiano]] na [[human-ai-collaboration|mwingiliano wa binadamu–AI]], ikiunga mkono kazi ya timu, mwingiliano wa wanafunzi, na upatikanaji wa mitazamo mbalimbali.
 - **Hasi:** AI inaweza kupunguza mwingiliano halisi wa wanafunzi na waalimu, kuunda [[ai-sycophancy|tabia za kubembeleza]] za, na — inapotenda kama mwanachama wa timu asiyejulikana — kuunda upya mazungumzo ya kikundi na [[agency]] kwa njia wanafunzi wasioweza kuona au kupinga (tazama [[jin-emergent-learner-agency-implicit-hai-2026|wakala anayejitokeza wa mwanafunzi katika HAI isiyo wazi]]).
 
 ### Athari za muda mrefu / uwezo
@@ -93,6 +93,33 @@ Matokeo ya muda mrefu zaidi ambayo mwanafunzi huyapata — iwapo atarejea kipind
 ## Mahusiano
 
 Uzoefu wa mwanafunzi unaungana na [[cognitive-offloading|Kutegemea Kupita Kiasi]] (utegemezi kupita kiasi wa AI), [[ai-literacy]] (ujuzi wa matumizi yenye ufanisi), [[cognitive-offloading]] (jinsi AI inavyobadilisha kazi ya kiakili), na [[student-engagement|ushirikiano]] (jinsi mifumo ya AI inavyopima na kujibu tabia ya mwanafunzi). Ni mwanachama wa upande wa mwanafunzi wa [[stakeholders]] mwanya, na ni nyumba ya kuelezwa kwa njia zote ambazo AI inaathiri wanafunzi.
+
+## Dhana Potofu za Kawaida
+
+**"Wanafunzi wanaokwepa AI wamebaki nyuma."** Kutotumia mara nyingi ni msimamo wenye hoja badala ya pengo: dodoso la kitaasisi mbalimbali nchini Uingereza la **wanafunzi 7,087** liligundua **32% hawakutumia GenAI kwa masomo kabisa**, huku wasiotumia wakitaja kutaka kufanya kazi wenyewe. Kuchukulia hilo kama upungufu wa upitishaji hubadilisha ugunduzi na kuwashinikiza wanafunzi kutoka kwenye chaguo linaloweza kutetewa.
+
+**"Taarifa za wanafunzi ni kipimo kinachofaa cha kujifunza."** Ni [[self-report-measures|vipimo vya kujiripoti]]: hukamata mitazamo na nia vizuri na tabia kwa kadirio tu. Pengo la utendaji dhidi ya kujifunza katika fasihi hii, wanafunzi wanaofanya vizuri zaidi na AI na vibaya zaidi kwenye kazi za baadaye bila msaada, ni hasa kesi ambapo taarifa ya kujiripoti na matokeo hutofautiana, hivyo kikundi cha wanafunzi kilichoridhika si ushahidi wa kikundi cha wanafunzi kinachojifunza.
+
+**"Kama wanafunzi wanahisi AI inasaidia, basi inasaidia."** Kuhisi kusaidiwa ni data halisi kuhusu uzoefu na uamuzi usioaminika kuhusu matokeo. Pengo limeandikwa na wanafunzi katika kikundi kilichoathirika hawautambui kwa uhakika, hivyo mtazamo na matokeo yanapaswa kukusanywa kama vipimo tofauti badala ya kimoja kusimama kwa kingine.
+
+**"Uzoefu wa mwanafunzi ni jambo laini kuhusiana na matokeo."** Ni kiashiria cha mbele cha upitishaji na ufichuzi: wanafunzi wanaohisi matumizi yao yanahukumiwa huficha, na matumizi yaliyofichwa ndiyo hali ambayo [[reducing-ai-misuse|matumizi mabaya]] na madhara hayanaonekana zaidi kwa taasisi.
+
+## Athari kwa Mazoezi
+
+**Kwa walimu**
+
+- Usichukulie kutotumia kama pengo la kuziba. Takribani theluthi moja ya wanafunzi huchagua kufanya kazi wenyewe, na shinikizo la kupitisha hubadilisha msimamo wenye hoja kuwa tatizo la utiifu.
+- Kusanya mtazamo na matokeo kando. Dodoso za kuridhika zinaelezea uzoefu na haziwezi kusimama kwa utendaji bila msaada.
+- Fanya ufichuzi kuwa salama, kwa kuwa wanafunzi wanaotarajia hukumu huficha matumizi yao, na matumizi yaliyofichwa ndipo tofauti kati ya utendaji unaosaidiwa na usiosaidiwa hujificha.
+
+**Kwa watengenezaji**
+
+- Ripoti matokeo ya kujifunza pamoja na vipimo vya uzoefu katika kila kitu unachochapisha kwa wanafunzi, kwa kuwa matokeo yanayohisiwa na yanayopimwa hutofautiana mara kwa mara.
+- Saidia kukataa msaidizi bila kupoteza ufikiaji wa kozi.
+
+**Kwa watafiti**
+
+- Ripoti ukubwa na sababu za kikundi cha wasiotumia kwa uwazi; 32% ya sampuli ya wanafunzi 7,087 ni idadi, si mabaki.
 
 ## Dhana Zilizounganishwa
 - [[learners]] — Wanafunzi: mwanya wa dhana za upande wa mwanafunzi

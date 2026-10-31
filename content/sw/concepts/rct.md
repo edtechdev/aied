@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Kugawa kwa nasibu ndicho kinachotofautisha RCT na miundo mingine: kwa kugawa wan
 - **Usajili wa awali unaofunga swali na athari inayoweza kugunduliwa.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] walisajilia majaribio yote mawili ya kozi na Registry of Efficacy and Effectiveness Studies, wakijitolea mapema kwa kadirio la nia-ya-matibabu na ukubwa wa athari unaoweza kugunduliwa wa chini wa takribani 0.157, na waligawa kwa nasibu wanafunzi walioridhia kila muhula kwa wimbi la pili wakati wa kuongeza/kudondosha ili wanafunzi wa kuajiriwa wanaoingia katika muundo badala ya sampuli chaguo-msingi ya uchanganuzi. Kukusanya wanafunzi 2,483 katika kozi mbili, athari iko katika kizingiti cha A/B (pointi nne za asilimia) wakati mabadiliko ya alama ya namba yaliyokusanywa hayatawala marekebisho ya kulinganisha nyingi — ukumbusho kwamba matokeo ya msingi yaliyosajiliwa yanadhibiti ni ipi kati ya matokeo kadhaa yanayohusiana inaaminika.
 - **Kugawa kwa nasibu ndani ya sehemu kamili, na msingi wa kabla ya matibabu.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] waligawa kwa nasibu wanafunzi 454 wa chuo kikuu ndani ya sehemu tatu kamili za biashara baada ya kuongeza/kudondosha na walipima matokeo yote manne katika T1, kabla ya mwanafunzi yeyote kupata ufikiaji wa chatbot, hivyo kulinganisha kwa muhula mzima kunategemea msingi uliopimwa badala ya uliodhaniwa. Matokeo tambi (hakuna mwingiliano wa kikundi × wakati uliofika umuhimu; athari kubwa zaidi iliyoripotiwa ilikuwa d = 0.050, juu ya hamu) inaripotiwa kandanda ya kupitishwa — kuingia 0.89 kwa wiki dhidi ya kugawiwa mara moja kwa wiki — ambayo huzuia nulii kuhusu matibabu yaliyotumiwa kidogo kusomwa kama nulii kuhusu zana.
 - **Mabadiliko ya ndani ya mwanafunzi, na seti ya kudhibiti yenye mazoezi bora zaidi.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] walimfanya kila mmoja wa wanafunzi 194 wa sayansi za maisha wa Harvard kufanya masomo mawili ya fizikia — mara katika kipindi cha [[active-learning]] cha darasani na mara na mwalimu wa AI wa kozi yenyewe, kwa mpangilio uliosawazishwa na mitihani ya kabla na baada kuzunguka kila moja — hivyo kila mwanafunzi anakuwa kudhibiti chake chenyewe na kulinganisha kwa *hali za kufikisha* hakuchanganyiki na nani aliyegawiwa ipi. Chaguo la pili la muundo ni muhimu kiasi kile: kilicholinganishwa ni mazoezi ya kujifunza yanayotegemea utafiti badala ya hotuba, hivyo faida (wastani wa baada ya mtihani 4.5 dhidi ya 3.5) inapimwa dhidi ya mazoezi bora ya sasa na haiwezi kusomwa kama "AI inashinda ufundishaji."
+- **Tokeo lililopimwa baada ya kuchelewa, si mwisho wa kikao.** Kugawa kwa nasibu wanafunzi 120 wa [[higher-ed|shahada ya kwanza]] kwenye masomo yanayosaidiwa na AI au ya jadi ya mada zile zile na kupima uhifadhi siku 45 baadaye, kikundi kilichosaidiwa na AI kilipata asilimia 57.5 dhidi ya 68.5, pengo la takribani pointi 11 za asilimia ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]]).
+- **Zana ya shule ya hiari inaweza bado kusogeza mzigo wa kazi kwa dozi ya asilimia 7.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et al. (2026)]] waligawa kwa nasibu walimu 464 katika shule 108 za msingi za Kiingereza kwa kiwango cha shule. Muda wa maandalizi ulitokea 0.76 ya ule wa kikundi cha ulinganisho (95% CI 0.64 hadi 0.89) ingawa zana ilishughulikia asilimia 7 ya masomo na matumizi yalipungua katika wiki kumi, hivyo kadirio linaweka mpaka wa kile kutoa zana kulifanya kwa mzigo wa kazi, si kile upokeaji kamili ungefanya.
 
 ### Nguvu na mapungufu
 
@@ -55,6 +57,12 @@ Kugawa kwa nasibu ndicho kinachotofautisha RCT na miundo mingine: kwa kugawa wan
 - **Mapungufu:** ya gharama na ya polepole; mipangilio ya bandia inaweza kupunguza uhalali wa mazingira halisi; zana za AI zinabadilika haraka kuliko majaribio yanavyoweza kuendeshwa; sampuli ndogo mara nyingi hazina nguvu ya kugundua athari zenye maana; vikwazo vya maadili juu ya kuzuia AI inayoweza kufaa kutoka kwa kikundi cha kudhibiti. Mbili kati ya vikomo hivi hubadilika umbo wakati mgawanyo unapopangwa kwa vikundi: sampuli yenye ufanisi inakuwa idadi ya *vikundi* badala ya idadi ya wanafunzi, hivyo jaribio linaweza kuwa kubwa kwa hesabu ya vichwa na nyembamba kwa kipimo hicho — wanafunzi 2,379 wa Liu et al. hutegemea vikundi 34 vya kiwango cha mwalimu — na wakati upokeaji ni wa hiari na mdogo, kadirio la nia-ya-matibabu hujibu iwapo kutoa zana kulibadilisha matokeo, si iwapo kuitumia kulitenda hivyo.
 
 Kwa matibabu kamili ya muundo wa majaribio katika Akili Bandia katika elimu — ikijumuisha ni lini RCT inafaa ikilinganishwa na karibu-majaribio, dodoso, au miundo ya kikokotozi — ona [[research-methods-aied]].
+
+## Dhana Potofu za Kawaida
+
+- **"Kugawa kwa nasibu kunathibitisha kadirio halali la kile zana inachofanya."** Kugawa kwa nasibu husawazisha vigezo vinavyochangia; hakutathminiwi kuwa mtu yeyote alitumia matibabu. Jaribio lililogawiwa kwa vikundi lenye upokeaji mdogo hukadiria **athari ya kutoa** zana, na nia-ya-kutibu na matibabu-kwa-waliotibiwa hujibu maswali tofauti.
+- **"Jaribio kubwa daima ni muundo bora."** Baadhi wanadai kuwa majaribio makubwa ya kawaida **hayawezi kwenda sambamba na mifumo ya ufundishaji inayobadilika kwa kiasi kikubwa wakati wa somo**, na badala yake hutumia miundo inayoongozwa na walimu inayobaki halali mfumo unapoendelea kubadilika. Jaribio la lengo linalosogea linaweza kuwa na nguvu ya kutosha na bado likapima mfumo ambao haupo tena.
+- **"RCT na ushahidi wa uchunguzi zinaweza kubadilishana."** RCT yenye **washiriki 1,174** iligundua GenAI **ilifunga takribani robo tatu ya pengo la tija linalotokana na elimu**, dai mahususi la sababu kwa kipindi mahususi. Uchunguzi unaeleza utaratibu na upokeaji; hauwezi kubeba kadirio hilo, na RCT haiwezi kueleza kwa nini.
 
 ## Dhana Zilizounganishwa
 
@@ -67,6 +75,8 @@ Kwa matibabu kamili ya muundo wa majaribio katika Akili Bandia katika elimu — 
 - [[student-support-and-success]] — muundo nyuma ya ushahidi wenye nguvu zaidi wa msaada wa mwanafunzi
 
 ## Makala Zilizounganishwa
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Muda wa kupanga somo ulipungua hadi 0.76 ya ule wa kikundi cha ulinganisho katika shule 108 za msingi, kwa dozi ya asilimia 7 ya matumizi ya zana
+- [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]] — Tokeo lililopimwa baada ya kuchelewa, si mwisho wa kikao
 
 - [[generative-ai-education-productivity-gaps]] — Je, AI ya kizalishaji inapunguza mapengo ya tija yanayotokana na elimu? Ushahidi kutoka kwa jaribio la nasibu
 - [[genai-can-harm-teaching-rct-2026]] — AI ya kizalishaji inaweza kudhuru ufundishaji: RCT

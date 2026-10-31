@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,8 @@ SEL inaunga kujifunza kwa mahusiano na muungano wa kijamii. [[finkelstein-princi
 ### Uendelevu, mwelekeo wa mawazo, na mapambano yenye tija
 SEL inajumuisha na kipimo cha juhudi cha kujifunza. [[framing-5-percent-problem-teachers-persistence|Kuweka muktadha wa tatizo la 5%]] inatambua uendelevu mdogo wa wanafunzi kama changamoto inayojirudia katika teknolojia ya kielimu, iliyoundwa na motisha/kununua, vikwazo vya kiakili, ustahimilivu chini ya changamoto, na muungano. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero na wenzake]] wanaonya kuwa AI ambayo huchukua nafasi ya juhudi inaharibu uwezo uleule ambao elimu inajenga — ikilingana na [[metacognition]] na thamani ya mapambano yenye tija juu ya [[cognitive-offloading|kutegemea kupita kiasi]].
 
+Kuna ukali zaidi kwa kuhisi kuwa wa pamoja hapa: huruma inayotafutwa kwa AI inaweza kuadhibiwa. [[shastry-gray-empathy-offloading-2026|Shastry na Gray (2026)]] waliwafanya washiriki kusoma kuhusu mwanafunzi aliyefadhaika aliyekwenda kwa chatbot, kwa rafiki, kwa mtaalamu wa tiba, au kwa mtu yeyote. Katika hali ya chatbot washiriki waliripoti kwa faragha nia ndogo zaidi ya kuhamisha huruma, kisha walitumia maneno mengi zaidi ya kutojali kuhusu mwanafunzi huyo na wakampanga kama mgeni na mwenye kukata tamaa zaidi. Hukumu ya marika kwa njia ya kumtafuta AI inaongeza juu ya ufichaji uliorekodiwa juu, ndiyo sababu kanuni za ufichuzi zinapaswa kuwa katika ubuni wa SEL badala ya katika sera ya uadilifu peke yake.
+
 ## Athari kwa walimu na kubuni kwa ufundishaji
 
 - **Chukua SEL kama lengo la kwanza la kubuni, si nyongeza.** Jumuisha uwezo wa kihisia na kijamii katika mitaala ya [[ai-literacy]] (kama [[sec-ai-literacy-narrative-review-2026|Palmquist na wenzake]]), ili wanafunzi wajifunze si tu *jinsi* ya kutumia AI bali *lini* na *kwa nini* — kwa umakini kwa hisia zao wenyewe, juhudi, na mahusiano.
@@ -90,6 +92,16 @@ SEL inajumuisha na kipimo cha juhudi cha kujifunza. [[framing-5-percent-problem-
 
 SEL inaungana na [[ai-literacy]] (kama nyongeza inayofanya ujuzi wa AI kuwa wa mahusiano na wa maadili), [[affective-computing]] na [[well-being]] (vipimo vya kihisia vya AI), [[self-regulated-learning]] (usimamizi wa nafsi na udhibiti wa juhudi), [[self-efficacy]] na [[motivation]] (imani za mwanafunzi zinazodhibiti [[student-ai-interaction|mwingiliano wa AI]]), [[agency]] (kulinda udhibiti wa mwanafunzi dhidi ya utegemezi), [[ethics]] (kufanya maamuzi yenye uwajibikisho), [[teacher-ai-competency]] (uwezo wa waelimishaji wa kuunga SEL), [[student-experience]] (ustawi na kuhisi kuwa wa pamoja), na [[learning-gains]] (ushahidi kwamba SEL inaunga mafanikio). Inahusiana na [[higher-ed]] na [[k-12]] kama mipangilio ambapo ujuzi wa AI uliojumuisha na SEL unalimwa.
 
+## Dhana Potofu za Kawaida
+
+**"SEL na akili ya kihisia ni kitu kimoja."** Zinahusiana na zinatafautiana: SEL/SEC inataja seti ya uwezo, uwezo wa kulandanisha mawazo, hisia na matendo kwa mwingiliano chanya, wakati akili ya kihisia inataja uwezo wa mtu binafsi wa kutambua na kusimamia hisia. Zana inaweza kuinua ufahamu wa kihisia wa mwanafunzi bila kukuza uwezo wowote wa kihisia na kijamii, na programu inaweza kujenga uwezo wa ushirikiano kwa wanafunzi ambao mtazamo wao wa kihisia haujabadilika. Kwa kuwa viwili hivyo hupimwa kwa njia tofauti, ushahidi wa kimoja si ushahidi wa kingine.
+
+**"Mkufunzi wa AI anayejibu kwa huruma hukuza kujifunza kihisia na kijamii."** Mwitikio wa kihisia ni sifa ya utoaji; SEL ni matokeo ya uwezo, na viwili hivyo haviunganishwi kiotomatiki. Vipimo vya mahusiano vya kujifunza ni vile ambavyo fasihi hii inasema AI lazima *ijumuisha badala ya kuchukua nafasi*, jambo linalofanya huruma ndani ya zana kuwa swali kuhusu kile inachukua nafasi yake badala ya faida yenyewe. Angalia [[affective-tutoring|ufundishaji unaotambua hisia]] kwa utaratibu ambao mwitikio wa joto unaweza kupunguza mapambano yanayojenga uendelevu.
+
+**"Uendelevu mdogo ni tatizo la motisha ambalo kutia moyo kunaweza kurekebisha."** Uendelevu ni kikwazo kinachojirudia katika teknolojia ya kielimu, mtindo ambao [[framing-5-percent-problem-teachers-persistence|tatizo la 5%]] unautaja, na unaundwa na motisha na kununua, vikwazo vya kiakili, *na* ustahimilivu chini ya changamoto. Kutia moyo kunashughulikia kimoja kati ya matatu. Mwanafunzi anayeacha kwa sababu tatizo lilizidi kumbukumbu yake ya kazi hakosi faraja.
+
+**"Kujua AI inapatikana hakubadilishi jinsi wanafunzi wanavyowekeza juhudi."** Kunaweza kubadilisha, na athari inakwenda upande mbaya kwa wanafunzi dhaifu zaidi: [[ai-availability-student-motivation|upatikanaji wa AI]] unaweza kupunguza thamani inayohisiwa ya ushiriki wa juhudi, hasa kwa wanaoanza. Upatikanaji peke yake ni uingiliaji wa motisha wenye ishara hasi, ndiyo sababu ubuni unaokaribiana na SEL hauwezi kuchukua uwepo wa mfumo wenye msaada kama jambo la upande wowote.
+
 ## Dhana Zilizounganishwa
 - [[anxiety-and-stress]]
 - [[ai-literacy]]
@@ -110,6 +122,8 @@ SEL inaungana na [[ai-literacy]] (kama nyongeza inayofanya ujuzi wa AI kuwa wa m
 - [[higher-ed]]
 
 ## Makala Zilizounganishwa
+
+- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
 
 - [[sec-ai-literacy-narrative-review-2026]] — Kujumuisha Uwezo wa Kihisia na Kijamii katika Ujuzi wa AI
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Zingatia Pengo la Uaminifu: Mionekano ya Mwalimu–Mwanafunzi

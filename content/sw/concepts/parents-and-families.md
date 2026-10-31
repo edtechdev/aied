@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,16 @@ Kile kinakosekana ni cha kushangaza zaidi. Maelezo ya wazazi wenyewe ni nadra: w
 Mapitio ya upeo wa 2026 yanaonyesha umbali ambao uwanja umefika. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] walichanganua masudio 53 ya HCI kutoka rekodi 6,540 katika vikao 19 kupitia nadharia ya shughuli, na waligundua fasihi ikizunguka mwingiliano wa mtoto–mzazi na lugha, [[ai-literacy]], na kujifunza kwa mahusiano, huku 44 ya masudio 53 (83%) yakiwa katika mipangilio ya mtoto–mzazi. Mifumo ya mazungumzo, ya kimwili na ya nafasi huzalisha msaada kutoka muktadha wa mwingiliano unaoendelea, na LLM zinasambaza upya kazi ya kielimu huku familia na taasisi zikibaki na uwajibikishaji wa kutafsiri matokeo na kuamua jinsi yanaingia katika mazoezi. Kubinafsisha kwa [[personalized-learning|muda]] kunadumu, kazi ya urekebishaji, na jinsi familia zinaponyanyua mamlaka na kanuni ni mapengo ambayo mapitio yanayataja, ambayo ni kutokuwepo kule kule sehemu hii inayorekodi kutoka upande mwingine.
 
 **Uhusiano na kurasa zingine.** [[stakeholders]] ni muhtasari mfupi wa seti nzima ya wenye maslahi, familia zikitajwa kama hadhira ambayo haijashughulikiwa kwa kina; ukurasa huu ndio kina hicho. [[early-childhood-elementary-ai-education]] inashughulikia kikoa cha maendeleo na [[pedagogy|cha mbinu za kufundisha]] kwa wanafunzi wadogo katika shule na nyumbani; ukurasa huu unafuatilia familia katika umri wote, kutoka shughuli za kucheza za utotoni hadi kazi za nyumbani za sekondari. [[ai-use-disclosure]] inashughulikia kama wanafunzi wanawaambia wengine kuwa walitumia AI; ukurasa huu unashughulikia swali lililokaribu la kama habari hiyo inawafikia watu wazima nyumbani, na kile familia wanaambiwa kuhusu matumizi ya AI ya shule.
+
+## Dhana Potofu za Kawaida
+
+**"Familia zitashiriki ikiwa toleo litatolewa."** Upokeaji huanguka kwenye kila makabidhiano. Katika Mwaka wa 1 wa programu inayotajwa hapa, takriban **asilimia 45 tu ya wanafunzi walioteuliwa na walimu walihudhuria kikao hata kimoja**, huku familia zikipotea katika kila hatua: mwaliko, shauku, uundaji wa akaunti kwenye [[edtech-platform|jukwaa la mtu wa tatu]], na kupatanisha. Kila makabidhiano ni mahali pa kupoteza familia, hivyo toleo linalofikishwa lina thamani ndogo sana kuliko toleo linalotolewa.
+
+**"Uratibu wa familia na shule kuhusu GenAI ni mazoezi yaliyoimarika."** [[family-school-autonomy-support-genai-2026|Fan, Li na Zhang (2026)]] wanauchukulia kama **dhana isiyojaribiwa** badala ya mazoezi yaliyoimarika. Programu zinaundwa kwa dhana ambayo fasihi haijajaribu bado, jambo linalofaa kujulikana kabla ya kuipitisha kama yenye msingi wa ushahidi.
+
+**"Wazazi wataona kama AI inadhuru kujifunza kwa mtoto wao."** Wao ndio wenye nafasi ndogo zaidi ya kuona. Katika data ya [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei na Wu (2026)]], alama za kazi za nyumbani zilipanda **asilimia 18** wakati alama za [[summative-assessment|mtihani wa kitabu kilichofungwa]] zilishuka **asilimia 20** ndani ya miezi sita, na namba inayopanda ndiyo inayoonekana nyumbani. Mzazi anayetazama kazi za nyumbani anaona uboreshaji wakati matokeo ya kudumu yanashuka.
+
+**"Matumizi ya AI nyumbani ni swali la idhini ya wazazi."** Ni swali la ujuzi na utetezi. Ujuzi wa AI wa wazazi wenyewe unaamua kile wanachoweza kuchunguza kuhusu zana iliyotolewa na shule, na ukosefu wa usawa wa upatikanaji kati ya familia unaunda ni watoto gani wanapata upatanishi wa watu wazima kabisa.
 
 ## Dhana Zilizounganishwa
 - [[stakeholders]] — ukurasa wa jumla wa hadhira na washiriki katika AI katika elimu

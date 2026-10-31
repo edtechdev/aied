@@ -7,7 +7,7 @@ research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -37,29 +37,32 @@ Utafiti wa kiasi unajumuisha miundo ya kuelezea (kupima uwepo na mifumo), miundo
 ## Mbinu kuu za kiasi
 
 ### Utafiti wa dodoso na wa uhusiano
-
 Dodoso za makundi ya kupitisha hupima mitazamo, mitazamo ya kisaikolojia, motisha, [[self-efficacy]], na kukubaliwa kwa teknolojia yanayojitangaza, mara nyingi yakipakwa na regression au structural equation modeling (SEM/PLS-SEM) kupima uhusiano uliodhaniwa na waamuzi. Hizi zinatawala mkusanyiko wa hifadhi ya maarifa, hasa kwa maswali ya kukubaliwa, motisha, na michakato ya kisaikolojia. [[acceptance-ai-english-tools-2026|Kukubaliwa kwa zana za Kiingereza zinazosaidiwa na AI]] unajenga juu ya [[technology-acceptance-model|TAM]] na SEM; [[tian-genai-learning-adoption-pathways-2026|Njia za kupitisha GenAI]] unatumia PLS-SEM, fsQCA, na ramani ya umuhimu-utendaji; [[teacher-education-ai-literacy-sdt-2026|ujuzi wa AI wa walimu]] unatumia dodoso zilizothibitishwa kwa kipengele zilizowekwa katika [[self-determination-theory]].
 
 - **Nguvu:** sampuli kubwa; ufikiaji mpana, wa bei ndogo; hupima mifano mgumu ya ujumla; inawezekana kwa mitazamo ambayo ni ngumu kutazamwa.
 - **Vikomo:** data za makundi ya kupitisha haziwezi kuthibitisha sababu; upendeleo wa kujitangaza; sampuli za urahisi zinazuia uwezo wa kujumuishwa; waamuzi wanaohitimishwa kutoka covariance, si udhibiti. Ona [[self-report-measures]] kwa matibabu ya upande wa kipimo vya vikomo hivi.
 
-### Utafiti wa majaribio na wa karibu-jaribio
+- **Muundo wa upatanishi uliojaa hauwezi kupima mpangilio wake wenyewe.** Dodoso ya wimbi moja ya wanafunzi 1,020 wa uuguzi iligawanya athari ya jumla ya 1.36 katika ya moja kwa moja 0.92 na isiyo ya moja kwa moja 0.44 kupitia kujifunza kwa kujidhibiti, asilimia 32.35 ya jumla, kwa muundo wenye vigezo huru vingi kama ushirikiano wa data zilizoonekana na hivyo unazalisha data kwa muundo wake ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 
+**Athari ya jumla isiyo ya moja kwa moja karibu na sifuri inaweza kuficha njia mbili hai.** Katika wimbi moja la kujitangaza la wanafunzi 568 wa ubuni, uhusiano usio wa moja kwa moja ulikwenda 0.0929 kupitia mwelekeo wa kukuza na -0.0884 kupitia mwelekeo wa kuzuia, ukijumlisha 0.0045 wakati njia ya moja kwa moja ilibeba asilimia 98.7 ya jumla ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
+
+### Utafiti wa majaribio na wa karibu-jaribio
 Majraribio hugawa wanafunzi kwa nasibu kwa hali (mfano, mwalimu wa AI dhidi ya mwalimu wa binadamu, au AI-inayosaidiwa dhidi ya isiyosaidiwa) ili kukadiria athari za sababu kwa matokeo. **Majraribio ya nasibu yaliyodhibitiwa ([[rct]])** ni kiwango cha dhahabu kwa uhalali wa ndani. [[access-not-enough-ai-tutoring-2026|Utafiti wa uwanja wa nasibu wa msaada wa binadamu pamoja na ufundishaji wa AI]] na [[genai-can-harm-teaching-rct-2026|RCT juu ya AI ya kizalishaji katika ufundishaji]] hutumia mgawanyo kutenganisha athari za sababu. Miundo ya **karibu-jaribio** (pre/post, makundi yaliyolinganishwa bila nasibu) ni inawezekana zaidi katika madarasa kamili lakini dhaifu zaidi kwa madai ya sababu. [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] wanachukua crossover ya ndani ya mtu badala: kila mwanafunzi anakutana na maudhui yale yale ya fizikia mara mbili, mara katika somo la kujifunza hai la darasani na mara kupitia mwalimu wa AI wa kozi yenyewe, na pre- na post-test kuzunguka kila moja, hivyo kila mwanafunzi anahudumu kama kudhibiti chake na tofauti kati ya watu zinaghairi.
 
 - **Nguvu:** uhojofu wa nguvu zaidi wa sababu; upimaji safi wa matokeo; unategemeza kukadiria ukubwa wa athari na madai ya ufanisi.
 - **Vikomo:** ghali na polepole; hali bandia zinapunguza uhalali wa kiikolojia; zana za AI zinazobadilika haraka huzua umri kwa majaribio kwa haraka; sampuli ndogo hazina nguvu ya kugundua athari; vikomo vya maadili vya kunyima zana za msaada.
+- **Jaribio la ufikiaji lililogawanywa kwa vikundi linahitaji ukaguzi wa matumizi.** Huku takriban 15% ya wanafunzi katika madarasa yaliyopewa matibabu wakiwa wamewahi kutumia mwalimu huyo, kadirio la nia-ya-kutibu la utafiti linaonyesha athari ya kuanzisha zana, ikiwemo ruhusa na uingizwaji iliyokuwa nayo, badala ya athari iliyotengwa ya vipindi vya mwanafunzi mmoja mmoja ([[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]).
 
 ### Utafiti wa wimbo
-
 Miundo ya wimbo hufuatilia wanafunzi hao wale kwa muda, na kukamata mabadiliko, ukuaji, na kujifunza kudumu ambacho upimaji wa muda mmoja haupati. [[ai-lms-middle-school-longitudinal|Utafiti wa wimbo wa LMS]] unafuatilia wanafunzi katika mwaka wa shule. Miundo ya wimbo ni muhimu kwa kutofautisha utendaji ulioinuliwa na AI na [[genai-performance-vs-learning|kujifunza kudumu]].
 
 
 Mlinganisho kati ya seti za data unahitaji pointi maalum ya kufanya kazi: ukaguzi wa muundo wa data ya elimu ya kisintetiki uligundua kuwa kuchanganua kila seti ya data kwenye kizingiti chake kulipinduka mlinganisho ulioshikilia katika pointi ya pamoja, na kuwa kulinganisha kwake kwa surrogate kulihitaji data ya kisintetiki tu na permutations zake - null inayotegemea permutation badala ya kizingiti kamili ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Upimaji wa kikokotzi na wa kisaikolojia
-
 Mbinu za kiasi pia zinajumuisha upimaji wa moja kwa moja wa dhana kupitia vyombo — uwanja wa [[educational-measurement]] na [[item-response-theory]]. [[jin-glat-genai-literacy-assessment|GLAT]] ya hifadhi ya maarifa ni kipimo cha kiasi cha vipengele 20 kilichothibitishwa na IRT; [[educational-measurement|vyombo vya kupima]] katika [[ai-literacy|ujuzi wa AI]], kukubaliwa, na uwezo binafsi zinatoa skela zilizothibitishwa ambazo utafiti wa dodoso na wa majaribio hutegemea.
+
+Uchanganuzi wa bibliometriki ni familia nyingine ya kiasi: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] wanachora ramani ya machapisho 1,403 ya [[medical-education]] kupitia mitandao ya ushirikiano wa nchi, taasisi na maneno muhimu, wakisoma umbo la fasihi badala ya kutathmini masomo yake; hivyo hitimisho lao kwamba masomo ya [[governance]] hayajafuatana na upimaji wa uwezo ni dai kuhusu uwanja na si kuhusu kujifunza.
 
 ## Jinsi utafiti wa kiasi unaonekana katika hifadhi ya maarifa
 
@@ -79,6 +82,12 @@ Mbinu za kiasi pia zinajumuisha upimaji wa moja kwa moja wa dhana kupitia vyombo
 - **Vikomo:** inakamata kile kinachoweza kupimwa, mara nyingi ikipoteza mchakato, maana, na muktadha (ona [[qualitative-research]]); upendeleo wa kujitangaza; vyombo vinaweza kupima dhana isiyo sahihi (ona [[educational-measurement|masuala ya upimaji]]); uhusiano bila sababu; inaweza kuwa bandia na polepole kulingana na mabadiliko ya AI.
 
 Mbinu za kiasi na [[qualitative-research|kina]] ni zinazojumuisha — kazi ya kiasi hutoa upana na nguvu ya sababu, kazi ya kina hutoa kina na maana. [[mixed-methods-research|Miundo ya mbinu mchanganyiko]] inaunganisha. Ona [[research-methods-aied]] kwa kulinganisha kamili kwa mbinu na tofauti kati ya majaribio, dodoso, kina, na miundo mingine.
+
+## Dhana Potofu za Kawaida
+
+- **"Kadirio la nia-ya-kutibu linaeleza kile zana inachofanya."** Katika jaribio la upatikanaji lililogawanywa kwa vikundi ambapo **takriban asilimia 15 ya wanafunzi katika madarasa yaliyotibiwa waliwahi kutumia mwalimu**, kadirio la ITT linaakisi **athari ya kuanzisha** zana badala ya athari ya kuitumia. Upatikanaji mdogo hufanya takwimu ya ITT kuwa taarifa kuhusu utekelezaji, na kuiripoti kama athari ya zana kunazidisha kile kilichopimwa.
+- **"Utendaji katika kazi ndio matokeo."** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] anagawanya kwa nasibu **wanafunzi 120** kwa kujifunza kunaosaidiwa na AI au cha kawaida na anapima **uhifadhi**, muundo unaotenganisha utendaji wa papo hapo na kujifunza kudumu. Utafiti unaokoma kwenye kazi umepima kiasi kilicho rahisi zaidi.
+- **"Kulinganisha seti za data mbalimbali ni jambo la moja kwa moja."** Ukaguzi wa kimuundo wa data za kielimu za sanisi uligundua kuwa **kuchanganua kila seti ya data kwenye kizingiti chake kuligeuza utofautishaji ulioendelea kwenye sehemu moja ya kazi iliyoshirikiwa**. Ishara ya kulinganisha ilitegemea chaguo la uchanganuzi, ambayo ni aina ya udhaifu ambao sehemu ya kazi iliyosajiliwa mapema ipo kwa ajili ya kuuzuia.
 
 ## Dhana Zilizounganishwa
 
@@ -105,3 +114,7 @@ Mbinu za kiasi na [[qualitative-research|kina]] ni zinazojumuisha — kazi ya ki
 - [[ai-lms-middle-school-longitudinal]] — Utafiti wa wimbo wa LMS unaojumuisha AI katika shule ya kati
 - [[adaptive-pretesting-retention]] — Kupima kabla kwa kubadilika na kuhifadhi
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — Jaribio la ufikiaji lililogawanywa kwa vikundi linahitaji ukaguzi wa matumizi
+- [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Uchanganuzi wa bibliometriki ni familia nyingine ya kiasi: Sriram et al.
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Matumizi ya AI ya kizalishaji na mwingiliano wa kielimu kati ya wanafunzi wa uuguzi: kujifunza kwa kujidhibiti kama mpatanishi wa kitakwimu
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Ufahamu wa usumbufu wa kiteknolojia wa AI, mwelekeo wa fikira za ubuni, na umahiri wa uvumbuzi wa ubuni kati ya wanafunzi wa ubuni

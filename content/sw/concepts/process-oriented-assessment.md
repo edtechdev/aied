@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -54,15 +54,21 @@ Akaunti za wataalam na za miundo zinajaza bidhaa. Mfumo wa LEARN wa Uden na Hwan
 
 Zana halisi zinajaanza: [[stepwise-teacher-diagnosis-math-2026|Kim na wenzake (2026)]] wanafanya kutatua matatizo kuwa hatua nne na ujuzi ndogo manane ya utambuzi ili LLM iweze kuzalisha maswali na rubriki za kiwango cha hatua; walimu watano na wanafunzi 64 walitumia mfumo huo kwenye matatizo 90 na maswali ndogo 720, na alama ya wastani ya Skela ya Urahisi wa Mfumo (System Usability Scale) ilikuwa 83.5.
 
+Nyaraka zinazohitajika zilithibitika kuwa za kutekelezeka kwa kiwango cha kozi: katika mihula sita ya kozi za mbinu za utafiti za shahada ya pili za si wakati mmoja za wiki sita zinazohudumia takribani walimu 440 wa K-12, mawasilisho ya vituo yalifikia wastani wa asilimia 96 ya ukamilishaji, na matoleo ya baadaye yaliyoongeza violezo vya ilani zilizo wazi yalizalisha tafakuri ndefu na zenye maudhui zaidi kwa wazi ([[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]]).
+
 ## Mlia tofauti na uhalisia, na na kuweka alama
 
 Kuweka milia tofauti ni muhimu, kwa sababu kuchanganya ni jinsi kubuni upya kuonekana kumekamilika huku hatari ikibaki. Sharma (2026) anafanya tofauti inayokamiliana kati ya uhalisia na kubuni unaozingatia uadilifu: uhalisia huuliza kama kazi inaakisi mazoezi yenye thamani, huku kubuni unaozingatia uadilifu ukiuliza kama wanafunzi wanaweza kuhalalisha maamuzi yao na kuchukua uwajibikisho kuhusiana na viwango vya taaluma, ambayo ni kwa nini mazoezi anayoyatoa — njia za maamuzi zilizo na maelezo, uthibitishaji wa madai yaliyochanganywa na GenAI, utetezi wa mdomo, tofauti za rasimu zilizo na historia ya toleo — yamechaguliwa kwa [[evaluative-judgment|hukumu]] wanayoifanya iwe inayoonekana badala ya kwa uhakika wao. Ukaguzi wa miaka kumi wa Espino na Espino (2026) wa [[business-education|elimu ya biashara]] unafikia hitimisho lile lile la kubuni kutoka upande wa fasihi, ukigundua uwanja unakusanyika kwenye kazi za kweli, zinazoonekana kwa mchakato ambazo zinahitaji tafsiri, matumizi ya muktadha, na uboreshaji wa kurudia, na kutendea kupitishwa kwa zana zilizotengwa ndani ya miundo ya tathmini isiyobadilika kama kushindwa kwao kwa kuendelea.
 
 Dhana inaweza pia kutofautishwa na swali la jinsi ushahidi unavyopewa alama. [[assessment-validity|Uhalali]] wa ufikiri ni mahali milia hii inakutana: Brunnström na Palmqvist (2026) wanadai kwamba wakati [[conversational-ai|chatbot]] inaweza kuzalisha jibu la mtihani linaloweza kueleweka, bidhaa iliyowasilishwa inakuwa kiashiria dhaifu cha kile mwanafunzi alichojifunza — tatizo la uhalali wa tathmini badala ya tu [[academic-integrity|uadilifu]] wa kitaaluma. Huo ni uamuzi ule ule unaoweza kupotea katika hoja ya Yan, Greiff, Lodge na Gašević ya [[genai-performance-vs-learning|utendaji-dhidi-ya-kujifunza]], ambapo [[learning-gains|faida za utendaji]] zinazopungua mara msaada unapoondolewa zinaonyesha faida inayoishi katika zana badala ya katika mwanafunzi, na ambapo tiba iliyopendekezwa ni vipimo vya mchakato kama vile [[transfer-of-learning|mitihani ya kuhifadhi na kuhamisha]] badala ya mafanikio ya haraka ya kazi.
 
+Matrix ya Fade–Visibility ya Salameh (2026) inavuka swali lile lile la ubuni na kigezo cha pili, kama [[scaffolding|msaada wa AI unaendelea au unafifia]], na inataja mchanganyiko ambao kozi nyingi huchagua kwa chaguo-msingi, msaada usiofifia kamwe unaopimwa kwa bidhaa yake pekee, Utegemezi wa Kimya ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
+
 ## Kwa nini kugundua hakiwezi kubeba mzigo huu
 
 Tathmini inayozingatia mchakato kwa kawaida inapendekezwa kama mbadala wa kugundua, na ushahidi kuhusu kugundua unaeleza kwa nini. Fasihi ya [[ai-detection|kugundua]] inagundua viwango vya makosa, utegemezi wa kazi, na [[bias-mitigation|upendeleo]] wenye mifumo dhidi ya waandishi wasio wazawa na wenye ulemavu, na kazi ya hivi karibuni zaidi inafikia hitimisho la utaratibu: alama ya kifaa cha kugundua inaweza kusababisha ukaguzi wa karibu lakini si utafiti. Munoz na wenzake (2026) wanaonyesha gharama yake katika mazoezi. Kuweka kodi mashtaka 1,162 ya matumizi mabaya ya AI ya kizalishaji, waligundua aina zenye nguvu zaidi za ushahidi hutengenezwa na uchunguzi au na usimamizi, kwamba ushahidi wa mchakato kama rasimu, mikutano ya usimamizi, na mawasilisho unaonekana tu pale mazoezi hayo yapo tayari — hivyo katika tathmini isiyobuniwa upya ni hayupo tu — na kwamba matokeo ya kifaa cha kugundua yalipata viwango vya chini zaidi vya uzito wa kipekee katika kategoria yoyote. Matokeo ya kubuni ni mpangilio: ushahidi wa mchakato lazima uwepo kabla ya kesi kuhitaji, na ufikiri wa Weidlich (2026) kuhusu ni uamuzi upi unaoweza kupotea unafanya hoja ile ile kutoka upande wa uhalali, kwa kuwa jaribio la kurejesha usalama wa tathmini kupitia kugundua linaingiza tofauti isiyohusiana na dhana badala ya ushahidi kuhusu mwanafunzi.
+
+Vigezo vya rubriki vyenyewe vinaweza kujengwa upya kuzunguka mwelekeo. [[rubrics-genai-process-based-assessment-2026|Oviedo na Díaz (2026)]] wanasoma mfano wa 3P wa Biggs kama vipimo vitatu vya kuweka alama, wakala na usimamizi makini, ngazi za msaada za mazungumzo, na uhuru wa kiakili, hivyo mwelekeo unawekewa alama badala ya tokeo tuli.
 
 ## Gharama za kubuni na za mzigo wa kazi
 
@@ -73,6 +79,12 @@ Gharama za kiendeshaji zimeorodheshwa mahali pengine. Boysen anaorodhesha teknol
 ## Kile kinachobaki bila kutatuliwa
 
 Akaunti ya Thapa na Lewis ni ya dhana: hakuna washiriki, hakuna ukusanyaji wa data, na hakuna jaribio la utekelezaji, hivyo kanuni nne zinahojiwa badala ya kupimwa, na karatasi yenyewe inaita kazi ya kiushahidi kuhusu [[student-experience|ujuzi wa mwanafunzi]], mzigo wa kazi wa waelimishaji, na uwezekano wa muda mrefu. Uwezekano umeachwa bila kutofautishwa katika miktadha tofauti — kuhamisha kwa mihadhhara mikubwa, maabara, studio, au nafasi za kliniki hayashughulikiwi. Karatasi ya nafasi ya Lane (2026) inaonyesha kizuizi cha taasisi: tathmini ya msingi wa mchakato hupunguzwa na miundo ya kuweka alama na ya hati za kitaaluma inayowapa thawabu bidhaa za mwisho zilizopangwa vizuri, hivyo kubuni upya kwa darasa peke yake habadilishi motisha. [[educational-measurement|Upimaji]] ni hafifu pia: ukaguzi wa Jin na wenzake (2026) wa vyombo vya [[ai-literacy|ujuzi wa AI]] unaita tathmini ya msingi wa utendaji na ya mchakato na upimaji wa alama za tabia za [[prompt-engineering|kuashiria]] na uthibitishaji, lakini unaripoti kwamba vyombo vilivyopo vinategemea [[self-report-measures|kujitangaza]]. Hakuna chanzo hapa kinachoripoti [[rct|jaribio lililodhibitiwa]] la kubuni upya kwa mchakato dhidi ya lile la bidhaa, ambayo linahitaji dai la kiini — kwamba ushahidi wa mchakato ni mgumu zaidi kuiga na haki zaidi kuhukumu — kuhojiwa kutoka kanuni, ripoti ya wataalam, na ushahidi wa faili za kesi badala ya kuonyeshwa kwa kiwango kikubwa.
+
+## Dhana Potofu za Kawaida
+
+- **"Alama ya juu inamaanisha mwanafunzi alifanya kazi tuliyobuni."** Athari zinaweza **kutofautiana kabisa na alama**: katika **mazungumzo 150 ya mwanafunzi na AI**, **asilimia 41 yalikuwa na alama ya kazi ya 1.00 hasa wakati ushiriki wa kiakili unaoonekana ukitofautiana**. Alama ilifika kikomo wakati mchakato uliopaswa kuizalisha haukufanya hivyo.
+- **"Data ya mchakato haiwezi kusimamiwa kwa kiwango kikubwa."** Nyaraka zinazohitajika zilithibitika kuwa za kutekelezeka kwa kiwango cha kozi katika **mihula sita ya kozi za mbinu za utafiti za shahada ya pili za si wakati mmoja za wiki sita zinazohudumia takribani walimu 440 wa K-12**. Upangaji ulikuwa unawezekana; pingamizi linakadiria gharama kupita kiasi.
+- **"Utatuzi wa matatizo ni jumla mno kupimwa kwa mchakato."** Unaweza kutekelezwa kama **hatua nne na ujuzi ndogo manane ya utambuzi**, ikiruhusu LLM kuzalisha **maswali na rubriki mahususi ya hatua**, zilizotumika na **walimu watano na wanafunzi 64**. Utengano ndio uliofanya mchakato uwe dhahiri na unaoweza kupimwa.
 
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — Sehemu za hatua na ushahidi wa mchakato kama miundo iliyopangwa
@@ -93,6 +105,9 @@ Akaunti ya Thapa na Lewis ni ya dhana: hakuna washiriki, hakuna ukusanyaji wa da
 - [[equity-in-ai-education]]
 
 ## Makala Zilizounganishwa
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Mapitio ya simulizi makini yanayodai kushindwa kwa chaguo-msingi ni msaada wa AI usiofifia kamwe unaoambatana na tathmini ya bidhaa pekee (Salameh 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Nyaraka za vituo za mazungumzo ya AI zilishikilia asilimia 96 ya ukamilishaji katika mihula sita na takribani walimu 440
+- [[rubrics-genai-process-based-assessment-2026]] — Vipimo vitatu vya rubriki kutoka mfano wa 3P wa Biggs: wakala na usimamizi, ngazi za msaada za mazungumzo, uhuru wa kiakili (Oviedo & Díaz 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — Insha ya mchakato iliyoandikwa kwa ushirikiano, iliyopewa alama, katika mafunzo ya digrii ya mwaka wa kwanza: kurudia na ushirikiano katika rubriki, GenAI inaruhusiwa ndani ya mipaka iliyoainishwa (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — utendaji sio kujifunza: mpango wa utafiti uliojengwa juu ya vipimo vya mchakato (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — waelimishaji wa walimu wanaoomba kazi za msingi wa mchakato zinazopinga AI, zilizojengwa juu ya hoja na tafakari (Baran et al. 2026)

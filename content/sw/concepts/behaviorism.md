@@ -8,7 +8,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,16 @@ Behaviorism pia inaonekana katika jinsi wanafunzi wanavyokutana na AI kama somo.
 2. **Angalia pengo la nadharia-mazoezi.** Watafiti wanapaswa kuchunguza kama mbinu za behaviorism za utekelezaji wa AI zinahudumia lengo la kujifunza lililohubiriwa au zinarudia kwa siri "Mtego wa Turing" wa AI kama mashine ya majibu.([[ai-vocational-education-training-review]])
 3. **Unganisha behaviorism na ngazi za msaada zilizo tajiri zaidi.** Mifumo ya maoni ya papo hapo ni yenye ufanisi zaidi inapoingizwa katika muktadha mpana wa [[scaffolding]] na [[self-regulated-learning]], badala ya kusimama peke yake kama mazoezi safi.
 4. **Tathmini matokeo yanayoweza kuonekana *na* yanayoweza kuhamishwa.** Vigezo vya mafanikio ya behaviorism (kasi, usahihi) yanapaswa kukamilika na vipimo vya kama kujifunza kinahamishwa na kinajumuisha, kulingana na [[transfer-of-learning]] na [[research-methods-aied]].
+
+## Dhana Potofu za Kawaida
+
+**"Behaviorism imepitwa na wakati, hivyo ushawishi wake kwa AI katika elimu ni tanbihi ya kihistoria."** Mbinu za behaviorism zinatawala mazoezi huku zikiwa nje ya mtindo katika nadharia: mizunguko ya kuimarisha, vihesabu vya mfululizo, maoni ya papo ya sahihi au si sahihi na vizuizi vya ustadi ndio muundo wa chaguo-msingi wa mifumo mingi iliyotekelezwa. Kukataa nadharia huku ukitekeleza mbinu zake ndio kutopatana kunaenea zaidi katika uwanja, na kunamaanisha ukosoaji si wa kitaaluma.
+
+**"Mabadiliko ya tabia yanayoonekana huthibitisha kujifunza."** Hilo ndilo hasa AI inalovunja. Usawa wa matokeo ndio hali ya kushindwa: pale mfano unapoweza kuzalisha tabia ambayo mfumo unaiaza, jibu lililoonekana halithibitishi tena mabadiliko ya ndani ambayo behaviorism iliyafikiri kutokana nalo. Muundo wa behaviorism ni halali kwa kadiri dhana kwamba tabia ililazimika kuzalishwa na mwanafunzi inavyoshikilia, na AI ya uzalishaji huondoa dhana hiyo bila kubadilisha muundo.
+
+**"Miundo ya behaviorism ni dhaifu tu kuliko ile ya ukustruktivisti."** Inafaa malengo mahususi vizuri: ufasaha, ukumbukaji wa ukweli, uotomatiki wa taratibu, pale maoni ya papo na kurudia ndivyo kazi inahitaji kwa kweli. Hitilafu si utaratibu; ni kutumia utaratibu ambao sharti lake la uhalali, kwamba mwanafunzi lazima azalishe jibu, limeacha kushikilia kimya kimya.
+
+**"Kwa kuwa nadharia imekataliwa, mifumo iliyojengwa juu yake inaweza kuhukumiwa kwa matokeo pekee."** Matokeo ndiyo hasa yanayoharibiwa na usawa wa matokeo. Mfumo unaweza kuripoti matokeo bora ya tabia wakati kujifunza kumehamia mahali pengine, hivyo mifumo inayoathiriwa na behaviorism inahitaji kipimo kisichosaidiwa zaidi kuliko aina nyingine yoyote.
 
 ## Dhana Zilizounganishwa
 

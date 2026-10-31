@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-09-26T07:13:32-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,33 @@ Utafiti wa hifadhi hii ya maarifa unaonyesha kuwa kasha za kielektroniki zinazid
 ## Kwa nini kasha za kielektroniki ni muhimu kwa muunganishaji wa AI
 
 Kwa sababu kasha za kielektroniki zinaweka mbele **mchakato, tafakari, na ufahamu ulioonyeshwa** badala ya bidhaa moja ya mwisho, zinashughulikia moja kwa moja tatizo kuu la AI: wakati AI inaweza kutengeneza bidhaa iliyosuguliwa, bidhaa haitoki tena ushahidi wa ushirikiano uliokuwa nyuma yake. Kasha za kielektroniki huhamisha tathmini kuelekea ushahidi unaodumu — rasimu, marekebisho, alama za kufikiri, na tathmini binafsi ya tafakari — huku AI yenyewe ikiweza kusaidia katika kutoa maoni, kutoa ngazi za msaada za tafakari, na (kwa ubuni unaofaa wa rubriki) kusaidia tathmini. Hii inafanya kasha za kielektroniki ziwe nguzo ya [[authentic-assessment|tathmini halisi]], [[formative-assessment|tathmini ya kujifunza]], na [[process-oriented-assessment|tathmini inayotegemea mchakato]] katika zama za [[generative-ai|AI ya kizalishaji]], na nyumba ya asili ya [[feedback-literacy|ujuzi wa maoni]] na [[self-regulated-learning|kujifunza kwa kujidhibiti]].
+
+## Dhana Potofu za Kawaida
+
+**"Kasha la kielektroniki ni folda ya kidijitali ya kazi zilizokamilika."** Thamani ya tathmini inatokana na kunasa *mchakato*, yaani kufikiri, kuandaa rasimu, marekebisho na tafakari, badala ya bidhaa ya mwisho. Ndio sababu hasa kasha za kielektroniki ni thabiti kwa AI kwa kiwango cha kulinganisha: pale bidhaa inapoweza kuzalishwa, tathmini iliyojengwa juu ya mchakato huhifadhi ushahidi ambao tathmini iliyojengwa juu ya bidhaa imeupoteza.
+
+**"AI inafanya kasha za kielektroniki kuwa rahisi kughushi kama insha."** Hali ya kushindwa ni tofauti na ushahidi unaonyesha muundo ukielekea upande mwingine. Kuchanganya ChatGPT na tathmini ya kasha la kielektroniki (mfano wa CEA) katika uongeleaji wa EFL kulizalisha faida kubwa katika utendaji wa uongeleaji (**F(1) = 48.554, p < .001**) na [[feedback-literacy|ujuzi wa maoni]] (**F(1) = 16.135, p < .001**), huku kasha za kielektroniki zikisaidia tabaka la tafakari. Kasha halikuwa kiungo dhaifu baada ya AI kuongezwa kwenye kozi; lilibeba tathmini.
+
+**"Matokeo makubwa ya vigezo vingi yanathibitisha kuwa kasha lilikuwa kiungo tendaji."** Yanathibitisha kuwa mchanganyiko ulisogeza matokeo. Utafiti ulichanganya zana ya AI, muundo wa kasha na kazi za uongeleaji, na muundo wa aina hiyo hauwezi kutenga ni kipengele gani kilizalisha faida. Dai linaloweza kutetewa ni kuhusu mchanganyiko, na tahadhari ya [[learning-gains|faida za kujifunza]] inatumika: faida zilizoripotiwa zinahitaji kufuatiliwa hadi kwenye kipengele kabla ya kutumika upya.
+
+**"Kasha za kielektroniki zinachukua nafasi ya hitaji la tathmini isiyosaidiwa."** Zinakamilisha hilo. Kasha hutoa ushahidi wa mchakato na ukuaji kwa wakati; hakitoi ushahidi wa kile mwanafunzi anachoweza kufanya bila msaada, na kuchanganya mambo hayo mawili hurejesha tatizo la bidhaa-kama-kiashiria ambalo muundo ulipitishwa kuutatua.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji**
+
+- Hitaji mchakato, si bidhaa tu: rasimu zenye tarehe, maelezo ya marekebisho, na tafakari juu ya kile kilichobadilika na kwa nini. Hizo ni bidhaa ambazo AI haiwezi kuzitoa kwa niaba ya mwanafunzi.
+- Oanisha kasha na kipimo kimoja cha utendaji kisichosaidiwa, ili ushahidi wa mchakato na ushahidi wa uwezo vyote viwe kwenye kumbukumbu.
+- Tumia AI *ndani* ya mtiririko wa kazi wa kasha, kwa maoni juu ya rasimu, badala ya nje yake, ambayo ni mipangilio ambayo utafiti uliotajwa uliijaribu.
+
+**Kwa waendelezaji**
+
+- Jenga kwa ajili ya historia ya marekebisho na utoaji wa matoleo badala ya mwonekano wa mwisho uliong'aa; mbinu za kufundisha zinaishi katika tofauti.
+- Fanya ilani za tafakari ziwe na muundo wa kutosha kutathminiwa, kwa kuwa tafakari isiyo na muundo ndipo maandishi yaliyozalishwa na AI hupita kwa urahisi zaidi.
+
+**Kwa watafiti**
+
+- Buni kwa ajili ya kutenga vipengele unaposoma mchanganyiko wa AI na kasha; vinginevyo uwanja hukusanya athari za mchanganyiko ambao hauwezi kuugawanya.
 
 ## Dhana Zilizounganishwa
 

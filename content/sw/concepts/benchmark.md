@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -40,6 +40,7 @@ Vigezo vya kupima hutumika kama msingi wa ushahidi wa [[ai-education|utafiti wa 
 - **[[teaching-feedback-classification-benchmark|Vigezo vya maoni ya kufundisha]]** hupima uhamisho wa lugha-zaidi wa uainishaji wa [[ai-feedback-quality|ubora wa maoni]].
 - **[[cdpk-pedagogy-benchmark-llms|Kigezo cha Mbinu za Kufundisha (CDPK + SEND)]]** hupima maarifa ya kibinufu cha mbinu za kufundisha — mikakati ya kufundisha, mbinu za tathmini, na [[special-education|mbinu za kufundisha za elimu maalum]] — badala ya maarifa ya maudhui, na huripoti "mpaka wa thamani" wa gharama dhidi ya usahihi kati ya mifano 97 (vigezo vingi vya jumla hupima maarifa ya maudhui; mbinu za kufundisha ni kipimo tofauti, muhimu kwa elimu).
 - **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** hupima mawakala wa ubuni wa [[learning-design|mafunzo]] wanaotegemea [[llm]] katika hali 25,795 za ubuni wa mafunzo, na kuonyesha kuwa mawakala mchanganyiko walioungwa na miundo ya kitambo ya ISD (ADDIE, Dick & Carey, Rapid Prototyping) wanashinda nadharia peke yake au mbinu peke yake — matokeo ya kigezo yenye athari za moja kwa moja kwa ubuni wa [[agentic-ai|mawakala wa AI]] katika elimu.
+- **[[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]]** huweka tathmini ya mfunzi kwenye fasihi ya kesi zilizoandikwa badala ya watu wa kuiga: mazungumzo 923 kutoka kesi za elimu maalum na saikolojia ya elimu, ambapo imara zaidi kati ya mifano 11 ilikutana na uingiliaji ulioandikwa katika asilimia 55.8 ya kesi zisizo na mwisho maalum.
 
 - **Kurekebisha kwa mwanafunzi kama kigezo wazi cha kupima.** Teaching Monster Challenge hupima urekebishaji kwa hadhira ya mwanafunzi iliyobainishwa, lakini hakimu lake la LLM linalotumika kiotomatiki lilitenganisha tu mkia dhaifu — mifumo ya juu ilipata alama karibu na kiwango chake cha juu, na mpangilio wake haukukubaliana na upendeleo wa umati (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin et al. (2026)]]).
 
@@ -70,6 +71,12 @@ Vigezo vya kupima vinaungana na [[ai-ed-evaluation]] na [[assessment-validity]] 
 - **Ripoti uwezo wa mfano kama kiwango kilichosahihishwa, si usahihi peke yake.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] wanapanga vipengele 624 vilivyowekwa lebo na wataalam kwenye viwango vilivyonwa vya ufasaha kwa kutumia majibu 2,050 ya wanafunzi, na kupata kuwa mifano ya juu inazidi kiwango cha juu kilichosahihishwa — kikomo ambacho asilimia inaficha.
 - **Kanuni ya kupima inaweza kuchezewa na mfano unaioifunza.** Kipimo cha kurekebisha kilichozidishwa kwa kurudia uamuzi mmoja bora kinaonyesha kuwa ubini wa kigezo unapaswa kuchapisha argmax, kupima urekebishaji kama tofauti, na kuripoti misingi ya juu ya nasibu ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
+## Dhana Potofu za Kawaida
+
+- **"Nafasi kwenye orodha ya viongozi inakuambia mfunzi ni mzuri kiasi gani."** StudentBench **hugawa kwa nasibu watu wazima 2,383 kati ya ufundishaji wa AI, ufundishaji wa binadamu mtaalamu na hali ya video** na hupima dhidi ya wakufunzi wa binadamu badala ya dhidi ya mifumo mingine. Kigezo kilichopimwa kwa mifano mingine hujibu swali ambalo hakuna aliyelihitaji.
+- **"Watu wa kuiga ni msingi wa kutosha wa tathmini ya mfunzi."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] huweka tathmini kwenye **fasihi ya kesi zilizoandikwa badala ya watu wa kuiga**, kikitumia **mazungumzo 923**. Watu wa kuiga wa wanafunzi waliotungwa huruhusu mfumo kupita kesi ambazo hazitokei.
+- **"Vigezo vya kupima vinaweza kuaminiwa bila kukagua mwamuzi."** Utungaji wa vitu visivyokuwepo ulipimwa kama **umakinifu dhidi ya vipande vilivyorejeshwa vya leseni huria (κ = 0.76 na hukumu ya mtaalamu)**: mwamuzi alithibitishwa dhidi ya wataalamu kabla alama zake kutumika. Mwamuzi otomatiki asiyethibitishwa huzalisha namba zenye maana isiyojulikana.
+
 ## Dhana Zilizounganishwa
 
 - [[ai-ed-evaluation]]
@@ -81,6 +88,7 @@ Vigezo vya kupima vinaungana na [[ai-ed-evaluation]] na [[assessment-validity]] 
 - [[automated-essay-scoring]]
 
 ## Makala Zilizounganishwa
+- [[tutor-case-bench-challenging-behaviors-2026]] — TutorCaseBench: kutathmini wakufunzi wa LLM kwa wanafunzi wenye tabia zenye changamoto (Park et al. 2026)
 - [[standardized-assessment-llm-english-proficiency-2026]] — Kigezo cha 624 vipengele cha ufasaha wa Kiingereza kinachoripoti uwezo wa mfano kama kiwango kilichosahihishwa (Min et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Je, vyombo vya tathmini vinapima kitu kile kile kwa binadamu na LLM? (Strugatski et al. 2026)

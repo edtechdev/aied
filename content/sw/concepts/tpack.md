@@ -8,7 +8,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ TPACK inadai kuwa uunganishaji wenye ufanisi wa teknolojia sio jumla ya nyanja t
 - **Maarifa ya Yaliyomo ya Teknolojia (TCK)** — jinsi teknolojia inavyoumba na kuwakilisha yaliyomo.
 - **Maarifa ya Kipadia ya Teknolojia (TPK)** — jinsi teknolojia inavyounga mkono au kuzuia mikakati ya ufundishaji.
 - **TPACK** — maarifa yanayojitokeza, yaliyounganishwa katikati, ambapo nyanja zote tatu zinashirikiana ili kuwezesha ufundishaji unaoimarishwa na teknolojia na maalum kwa yaliyomo.
+- **Mfumo hutawala nyanja kwa chaguo-msingi, na unakunjuliwa kuulinganisha.** Katika mapitio yanayoongozwa na PRISMA ya masomo 78 ya ubuni wa kielimu unaosaidiwa na AI, 19 pekee yalitumia mfumo wowote wa umahiri uliotajwa, na TPACK pamoja na aina zake zilichukua **17 kati ya 19 hizo**, zikitumika kwa tija kama lenzi ya uchanganuzi lakini zikikunjuliwa zaidi ya wigo wake wa awali, kwa kuwa TPACK haukuundwa kwa uwezo mahususi wa AI. Nyongeza zilizoundwa mahsusi ni nadra kwa uwiano huo: **Intelligent-TPACK ulionekana katika masomo matano tu**, mara nyingi ukiunganishwa na [[ai-literacy]] kushughulikia maendeleo ya kimaendeleo ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Utafiti unaendelea bila nadharia wakati miundo ya sera haijajaribiwa.** Mapitio hayo hayo yaligundua **76% ya masomo yalikisia uwezo kutoka mazoezi bila ramani yoyote ya kinadharia**, na wala DigCompEdu wala Mfumo wa Umahiri wa AI kwa Walimu wa UNESCO haukutumika kama mfumo wa uchanganuzi katika masomo yoyote ya 78 hayo, mtengano unaoenda pande zote mbili, kwa kuwa kazi za kimajaribio hazikusanyi msamiati unaoshirikiwa wakati miundo iliyokusudiwa kuongoza mazoezi inabaki bila kujaribiwa kimajaribio katika muktadha huu.
 
 ## AI-TPACK na GenAI-TPACK
 
@@ -85,6 +87,14 @@ TPACK ni mfumo wa kupanga upande wa waelimishaji katika msingi wa ushahidi wa hi
 2. **Tendea AI kama wakala, si kifaa.** AI-TPACK inapanua mfumouelekeo kuelekea uendeshaji wa [[agentic-ai|mawakala wa AI]], inahitaji ufikiri wa mifumo na hukumu ya kipadia kuhusu lini AI inapaswa kutenda.
 3. **Toa PD kwa wasifu wa mwalimu.** Mifano tofauti ya waelimishaji (waboreshaji, waundaji, waangalizi) hufaidika na ngazi za msaada tofauti — miundo ya juu, maoni ya haraka, au ufafanuzi wazi kwa mtiririko.
 4. **Tathmini uwezo uliounganishwa.** Matokeo yanayoelekezwa na TPACK (mfano, mapato ya AI-PCK) yanapaswa kupimwa kama uwezo uliounganishwa, si ufahamu wa zana ulioripotiwa na mwenyewe.
+
+## Dhana Potofu za Kawaida
+
+- **"Utawala wa TPACK unaakisi uwezo wake wa kueleza."** Utawala huo ni **sehemu ya upatikanaji wa utafutaji**: katika mapitio ya wigo ya PRISMA ya **masomo 195 ya mafunzo ya waelimishaji yanayosaidiwa na teknolojia**, umahiri wa kidijitali, TPACK na DigComp **hutawala fasihi iliyoorodheshwa**. Kuenea katika utafutaji ni sifa ya msamiati ambao nyanja inatumia, si uthibitisho kwamba mfumo unaeleza zaidi.
+
+- **"Mfumo unaojulikana ni uliothibitishwa kwa AI."** TPACK haukuundwa kwa ajili ya uwezo mahususi wa AI, ndiyo sababu Intelligent-TPACK uliundwa, na unaonekana katika **masomo matano** pekee katika mapitio ya masomo 78. Kutumia TPACK kwa umahiri wa GenAI kunaukunjua zaidi ya ujenzi wake.
+
+- **"Kutumia mfumo maana yake utafiti umefafanuliwa kinadharia."** Mapitio hayo hayo yaligundua **76% ya masomo yalikisia uwezo kutoka mazoezi bila ramani ya kinadharia**, hivyo uwepo wa TPACK katika nyanja unaenda pamoja na utafiti mwingi kuwa bila nadharia. Mfumo uliotajwa si sawa na mfumo unaofanya kazi.
 
 ## Dhana Zilizounganishwa
 

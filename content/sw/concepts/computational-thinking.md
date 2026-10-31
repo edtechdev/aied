@@ -8,7 +8,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,13 @@ Kwa waalimu, ujumbe unaofaa ni kuwa CT huendelezwa kupitia kujihusisha *waliowaz
 Fikra za kihesabu ni msingi wa pamoja wa kiakili chini ya [[ai-literacy]] na [[critical-thinking]], kiini cha mtaala cha [[cs-education]] na hesabu za [[k-12]], na lengo la dhana ambalo [[educational-robotics]], [[game-based-learning]], na [[project-based-learning]] zimebuniwa vyuri kutumikia. Zinatiwa moyo na [[llm|miundo mikubwa ya lugha]] na [[generative-ai]] zinapotumika kama zana za ngazi za msaada, na ni ujuzi ambao taksonomia za dhana potofu za wanafunzi na tathmini zinazojua CT zinalenga kupima. Walimu huendeleza kupitia [[teacher-education]] na [[professional-training]], na inahamishika katika nyanja ikiwa ni pamoja na [[physics-education]] na [[stem-education|STEM]] kwa ujumla.
 
 - **Fikra za kihesabu zinatabiri mafunzo ya msaidizi wa AI.** [[computational-thinking-aica-2026|Wanafunzi wa darasa la nane]] wenye fikra za kihesabu za juu walizidi wenzi wao wa CT ya chini kwa kiasi kikubwa katika kozi ya msaidizi wa kuandika kanzi za AI, wakitumia msaidizi kwa uelewao badala ya upatao wa majibu.
+
+## Dhana Potofu za Kawaida
+
+- **"AI inaondoa hitaji la fikra za kihesabu."** [[chat-debugging-human-ai-collaboration-circuits|Masudio ya utatuzi wa hitilafu kwa mazungumzo]] yaligundua kwamba wanafunzi wa shahada ya kwanza walipotatua hitilafu za mizunguko kwa msaada wa LLM, **upungufu wao katika dhana za msingi na ufikiri mahususi, si chombo, ndio uliokuwa kikwazo**. CT ndiyo inayomwezesha mwanafunzi kutathmini matokeo badala ya kuyakubali, uwezo hasa unaofanya msaada wa AI utumike hata kidogo.
+- **"Msaada wa AI husawazisha uwanja katika mazingira yenye rasilimali chache."** Unaweza, chini ya masharti. **Jaribio la nusu-ya-kisayansi la wiki 14 na wanafunzi 103 wa mwaka wa kwanza nchini Nigeria** liligundua kujifunza kunakotegemea matatizo kunakosaidiwa na AI (ChatGPT na Teachable Machine) kulizalisha faida, na AI kama "mwenza mwenye uwezo zaidi" hubeba CT pale ambapo huduma nyingine haipo. Lakini hilo ni ugunduzi kuhusu uingiliaji uliopangwa, si sifa ya kuwapa wanafunzi chatbot.
+- **"LLM haziwezi kutathmini CT kwa kuaminika."** [[llm-computational-thinking-physics-2026|Utafiti wa tathmini ya CT ya fizikia]] uligundua LLM zinaweza **kuiga wapimaji wa binadamu** katika kupanga ukuaji wa Mazoea ya Data na Mazoea ya Utatuzi wa Matatizo ya Kikokotoo katika kozi zenye uandikishaji mkubwa. Kikwazo cha kupanua tathmini ya CT kimekuwa uwezo wa wapimaji, na kikwazo hicho kinapungua, jambo linalohamisha tatizo la ubuni kuelekea kama chombo kinapima CT badala ya utiifu.
+- **"CT ni ujuzi wa kuandika kodi ambao robotiiki hufundisha kwa bahati."** **Mapitio ya kimfumo ya masudio 95** yanathibitisha robotiiki inakuza CT, ubunifu na utatuzi wa matatizo, lakini pia kwamba **mazingira hurekebisha matokeo**: uwasilishaji wa [[game-based-learning|kujifunza kwa mchezo]] unafaa mazingira yasiyo rasmi ilhali uchezaji wa mchezo unatofautiana katika yale rasmi. CT ni seti ya mazoea yanayohamishika kwa njia isiyo sawa, hivyo dai la uhamishaji linahitaji ubuni wa kazi uliotumika kweli.
 
 ## Dhana Zilizounganishwa
 

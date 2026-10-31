@@ -12,7 +12,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -102,7 +102,7 @@ Mwelekeo huu ni mdogo kwa idadi ya makala na mkubwa kwa mbinu, kwa sababu ushahi
 
 Historia ya kielimu ni mhimili tofauti ambao ramani ya kikundi-kwa-kikundi ya ukurasa huu haikuweza kubeba bado: zana ile ile inaweza kusambaza manufaa yake bila usawa katika fani badala ya kati ya demografia za wanafunzi.
 
-- **Zana inaweza kuvutia fani moja na kupunguza nyingine.** Katika utafiti wa quasi-mjaribio wa wiki mbili na wanafunzi 150 wa kwanza katika timu za fani mchanganyiko, [[generative-ai|ChatGPT]] iliongeza [[student-engagement|mvutano]] wa kimwili kwa wanafunzi wa STEM na ikapunguza kwa wanafunzi wasio-STEM (Q = 9.87, p < .05), na maelezo yaliyoandikwa bila ChatGPT yalipata alama za juu zaidi katika utofauti na muunganiko wa mawazo ya fani ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu na wengine (2026)]]).
+- **Zana inaweza kuvutia fani moja na kupunguza nyingine.** Katika utafiti wa quasi-mjaribio wa wiki mbili na wanafunzi 130 wa kwanza katika timu za fani mchanganyiko, [[generative-ai|ChatGPT]] iliongeza [[student-engagement|mvutano]] wa kimwili kwa wanafunzi wa STEM na ikapunguza kwa wanafunzi wasio-STEM (Q = 9.87, p < .05), na maelezo yaliyoandikwa bila ChatGPT yalipata alama za juu zaidi katika utofauti na muunganiko wa mawazo ya fani ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu na wengine (2026)]]).
 
 ## Pale ambapo ushahidi unakosekana
 
@@ -123,6 +123,12 @@ Kupatikana kwa kweli kwa utafiti huu ni jinsi baadhi ya vikundi vilivyo finyu. K
 - **Pendea miundo ya kufananisha ambapo ushahidi unaruhusu.** Matokeo ya kugawanya video ya ADHD — kila mtu anaboreshwa, pengo hufungwa — ni lengo linalofaa zaidi kwa darasa la jumla kuliko nyongeza inayolenga kikundi.
 - **Kuwa makini na ubinafsishaji unaotumia sifa za kidemografia.** Kupatikana kwa [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]] ni moja kwa moja kuhusu mbinu hiyo, na inatumika kwa vikao vya [[well-being|ustaarabu]] vya kuangalia hali, [[affective-computing|wakufunzi wa kihisia]], na [[recommender-systems-and-learning-paths|mifumo ya kupendekeza]] inayofanya profaili za wanafunzi.
 - **Pima ndani, kwa kikundi unachojali, na matokeo yanayopimwa bila zana.** Ona [[interpreting-and-applying-aied-research|Kuelewa na Kutumia Utafiti wa AIEd]] kwa tabia za kutathmini na [[research-methods-aied|Mbinu za Utafiti katika AI katika Elimu]] kwa miundo inayofanya mtihani wa ndani kuwa wa kudhaminiwa.
+
+## Dhana Potofu za Kawaida
+
+- **"Lebo za vikundi hukamata tofauti inayojalisha."** **Lebo za vikundi huficha tofauti ndani yao**: katika meta-analysis ya ulemavu, wanafunzi wenye **ulemavu mahususi wa kujifunza, ulemavu wa akili na maendeleo** na kategoria nyingine wamekusanywa pamoja, hivyo wastani wa kikundi hauwakilishi hata mmoja wao.
+- **"Uchanganuzi wa vikundi vidogo hujibu swali la athari tofauti."** Kwa kawaida **ni vidogo sana kujibu hilo**: [[ai-tutoring-micro-rct-gcse-science-2026|micro-RCT ya sayansi ya GCSE]] ni wazi kwa njia isiyo ya kawaida kuwa mlinganisho wake wa **matibabu** una nguvu kwa athari ya jumla na si kwa tofauti za vikundi. Ugunduzi wa kikundi kidogo usio na nguvu ni dhana, si matokeo.
+- **"Athari ya wastani ya kati inakuambia iwapo kikundi fulani kinafaidika."** [[zhang-ai-students-disabilities-meta-analysis-2024|masudio 29 ya (quasi-)majaribio]] yalikusanywa hadi **Hedges' g = 0.588 (95% CI [0.349, 0.826])** katika kategoria za ulemavu. Kipindi hicho kinaeleza wastani juu ya kategoria hizo, na "kikundi kipi, hitaji lipi" ni uchanganuzi tofauti.
 
 ## Dhana Zinazohusiana
 

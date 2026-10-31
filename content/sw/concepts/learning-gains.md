@@ -65,6 +65,7 @@ Katika [[rct|RCT]] zote, [[meta-analysis-systematic-review|meta-analysis]], na m
 - **Ufanisi unaohisiwa na ule halisi yanatofautiana.** [[ai-literacy-assessment-misalignment|Utendaji unaojitangaza haulingani na utendaji uliopimwa]], na [[absent-cognitive-baseline-2026|msingi wa kiakili unaokosekana]] unaonyesha kuwa wanafunzi wa asili ya AI wanakadiri kupita ujuzi wao — kwa hivyo madai ya ufanisi yanayotegemea kujitangaza hayaaminiki bila vipimo vya matokeo vya kiasilia. [[self-report-measures]] inakusanya matukio ambapo matokeo yanayoripotiwa na yaliyopimwa yanatofautiana.
 
 - **Faida zinaweza kutoka kwa kugawa upya muda wa mwalimu, si kutoka kwa alama za AI.** Katika jaribio la nasibu katika shule 178 za Brazil (~wanafunzi 19,000 wa mwaka wa mwisho), alama za insha za AI na za binadamu zilizalisha faida za mtihani zinazolingana, lakini madarasa ya AI yaliona ~35% zaidi ya mazungumzo ya moja kwa moja kati ya mwalimu na mwanafunzi kuhusu uandishi, na robo ya chini iliboreshwa chini ya hali zote mbili ([[ai-changing-teaching-workflows|Ler, 2026]]).
+- **Katika AI inayopitia mwalimu, maandalizi yalisogeza faida na zana haikusogeza.** Katika madarasa 19 ya hesabu ya shule za umma za Brazil, wanafunzi waliokuwa wakifundishwa na walimu waliopata mafunzo walifanya vizuri zaidi ya kikundi cha kudhibiti, lakini kuongeza mfumo wa AIED-U kwenye mafunzo hayo hakukuzalisha faida yoyote zaidi ya kujifunza, na mzigo wa kazi wa mwalimu ulihusiana hasi na faida ([[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]]).
 
 **Hitimisho:** uzito wa ushahidi unaunga mkono **faida za kujifunza za wastani, za masharti, na zinazotegemea ubuni** kutoka kwa AI — halisi wakati AI imepangwa kufundisha na kusaidia mwanafunzi badala ya kujibu, yenye ulinzi, na imeunganishwa na vipimo vya matokeo visivyosaidiwa, na hazipo au hasi wakati inachukua nafasi ya juhudi za mwanafunzi mwenyewe. Hii ndiyo sababu faida za kujifunza kama matokeo zinapaswa kupimwa kwa vyombo sahihi, vinavyostahimili AI, na kwa nini [[ai-ed-evaluation]] huunganisha madai ya ufanisi na uchanganuzi wa [[research-methods-aied|mbinu]].
 
@@ -120,6 +121,36 @@ Faida za kujifunza zinaunganisha na [[assessment-validity]] — iwapo [[assessme
 
 - **Faida kubwa za umuhimu kabla/baada kutoka [[pedagogy]] za AI zinazotegemea makosa:** [[pedagogy-ai-mistakes|Hosseini (2026)]] kozi yake ya ubini wa hifadhidata (n=13) ilionesha faida kubwa, zenye umuhimu za kujifunza kwenye vipimo sawa kabla/baada (wastani 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), na faida zisizohusiana na uaminifu wa awali wa AI au wa hifadhidata — ubini wa kukosoa-kuboresha uliojumuishwa na AI uliwafaidisha wanafunzi bila kujali mtazamo wao wa awali.
 
+## Dhana Potofu za Kawaida
+
+**"Alama zilipanda, kwa hivyo uingiliaji ulizalisha kujifunza."** Hili ni kosa la ufafanuzi ambao ukurasa huu upo kuzuia, na data ya shamba zinaonyesha mielekeo yote miwili kwa wakati mmoja: matumizi ya AI yanaboresha alama kwenye kazi za nyumbani zinazosaidiwa na AI huku *yakipunguza* alama kwenye vipimo vilivyo na uangalizi, vya kitabu kilichofungwa, visivyosaidiwa ([[generative-ai-reduced-study-time-math]]; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Uchaguzi wa kipimo huamua iwapo upandishaji huo unaonekana, kwa hivyo faida kwenye kazi inayoruhusu AI ni dai kuhusu utendaji wa kazi, si kuhusu [[genai-performance-vs-learning|kujifunza]].
+
+**"Meta-analysis inaamua jambo: athari ni kubwa."** Mwelekeo wa muunganisho na ukubwa wa muunganisho ni ukweli tofauti, na ukubwa mara chache hustahimili uchunguzi. [[genai-meta-analysis-programming-learning|Meta-analysis ya GenAI katika upangaji wa programu]] inapata faida kubwa za *tija* pamoja na **hakuna faida kubwa ya kujifunza** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|Meta-analysis ya Benki ya Dunia]], ikiunganisha vipimo 191 vya athari kutoka RCT 14, inakadiria ~0.125 sd kwa EdTech ya adaptifu na inayoendeshwa na AI, jambo la kuheshimika dhidi ya wastani wa RCT za elimu, lakini **bila faida ya AI ya kizalishaji juu ya zana za adaptifu za awali**. Kutaja masudio ya zama za GPT kama kuruka kwa kitengo kunapita kile ushahidi wa pamoja unaonyesha.
+
+**"Mazoezi zaidi na ubinafsishaji zaidi husaidia kila mara."** Faida ni mwingiliano wa maudhui na matibabu, si vigezo thabiti. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] wanaonyesha kuwa uwiano bora wa mfano kwa tatizo unategemea kile kinachojifunzwa: mazoezi ya kurejesha maarifa yanashinda kwa ukweli wa maneno yalivyo, na mazoezi yaliyounganishwa na mifano yanashinda kwa ujuzi unaoweza kuenea. Na [[lak2026-hint-button-unproductive-use|utafiti wa kitufe cha vidokezo]] unapata wingi wa vidokezo ukiwa na uhusiano hasi na kujifunza. "Msaada" ule ule unaosaidia kipengele kimoja cha maarifa unaweza kupoteza kingine.
+
+**"Matokeo ya mtihani wa baada uliocheleweshwa ni matokeo ya kujifunza kwa kudumu moja kwa moja."** Kucheleweshwa ni lazima na hakutoshi. Kinachotofautisha kujifunza kwa kudumu katika mkusanyiko huu ni upimaji *usiosaidiwa* chini ya hali zilizocheleweshwa, pamoja na ushahidi kwamba athari haibebwi na ngazi ya msaada ambayo haitakuwepo wakati wa uhamisho.
+
+## Athari kwa mazoezi
+
+**Kwa wakufunzi**
+
+- Tenganisha alama unayotoa na dai unalotoa. Kazi ya kozi inayosaidiwa na AI inaweza kupima ubora wa bidhaa kwa haki huku ikikueleza chochote kuhusu uwezo usiosaidiwa; ikiwa unahitaji jambo la pili, lazima ulipime kando.
+- Linganisha muundo wa mazoezi na aina ya maarifa. Tumia kurejesha maarifa kwa ukweli na mabadilishano ya mifano iliyofanyiwa kazi kwa taratibu zinazoweza kuhamishwa badala ya chaguo moja la msingi kwa vyote viwili.
+- Fuatilia wingi wa vidokezo kama kipimo cha utambuzi, si msaada tu. Kuongezeka kwa matumizi ya vidokezo pamoja na utendaji usiosaidiwa usiobadilika ni ishara ya utegemezi unaoonekana kuwa wenye tija.
+
+**Kwa watengenezaji**
+
+- Ripoti matokeo ya tija na ya kujifunza kama vipimo tofauti, kwa kuwa mkusanyiko unapata mara kwa mara cha kwanza ukishindwa kupata cha pili (g ≈ 0 katika meta-analysis ya upangaji wa programu). Dashibodi inayochanganya vyote viwili itasomwa kama ushahidi wa kujifunza.
+- Usidhani mfumo wako unaenea kwenye vipengele vyote vya maarifa. Matokeo ya uwiano wa mfano kwa tatizo yanaashiria kuwa ratiba bora ni sifa ya maudhui, si ya jukwaa.
+- Fanya matumizi ya vidokezo na ngazi za msaada yaonekane kwa wakufunzi, kwa kuwa wingi ni mojawapo ya ishara chache za tabia zinazohusishwa kwa nguvu na matokeo dhaifu.
+
+**Kwa watafiti**
+
+- Sajili mapema kipimo cha matokeo na ueleze iwapo kinaruhusu AI au hakisaidiwi. Mwelekeo wa ugunduzi unaweza kubadilika kwa uchaguzi huu peke yake.
+- Ripoti ukubwa wa athari dhidi ya mlinganisho uliotajwa, si dhidi ya "mbinu za jadi" kwa ujumla. Matokeo ya Benki ya Dunia yanaweza kutafsirika tu kwa sababu yanataja darasa lake la mlinganisho.
+- Tofautisha upandishaji wa utendaji na kuhamishwa kwa kujifunza kwa uwazi, kwa kuwa vyote viwili vinaashiria tiba tofauti: kubuni upya kazi dhidi ya kufundisha upya.
+
 ## Dhana Zilizounganishwa
 
 - [[rct]]
@@ -137,6 +168,7 @@ Faida za kujifunza zinaunganisha na [[assessment-validity]] — iwapo [[assessme
 - [[student-support-and-success]] — matokeo ya kiutawala (kukamilisha kazi, alama, kudumu, kuhitimu) tofauti na faida za kujifunza
 
 ## Makala Zilizounganishwa
+- [[rodrigues-aied-unplugged-numeracy-2026]] — Katika AI inayopitia mwalimu, maandalizi yalisogeza faida na zana haikusogeza
 - [[epistemological-audit-genai-meta-analyses-2026]] — Ukaguzi wa Kiakili Muhimu wa Ushahidi wa Mapema wa Muhtasari katika Utafiti wa Kielimu wa AI ya Kizalishaji (Fütterer et al. 2026)
 - [[contractor-learning-impact-generative-ai-2026]] — Upatikanaji wa chatbot ya rejareja ulipandisha alama za mtihani bila msaada zilizodumu wiki moja (Contractor & Reyes 2026)
 - [[kestin-ai-tutoring-outperforms-active-learning-rct-2025]] — Ualumu wa AI unashinda kujifunza kwa njia ya shughuli darasani: RCT inayoanzisha ubini mpya wa msingi wa utafiti katika muktadha halisi wa kielimu (Kestin et al. 2025)

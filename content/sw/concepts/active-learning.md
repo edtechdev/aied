@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,13 @@ Kujifunza hai kinatekelezwa kwa usahihi na [[icap-framework|mfumo wa ICAP]] (Int
 Kujifunza hai kimeunganishwa kwa undani na [[collaborative-learning]] (kujifunza hai kingi ni kijamii), [[learning-by-teaching]] (kuelezea kwa wengine ni hai kwa kiwango cha juu), [[project-based-learning]] na [[experiential-learning]] (kujifunza kwa kufanya katika miktadha halisi), [[embodied-learning]] (ushirikiano wa mwili), [[game-based-learning]], na [[simulation]]. Kinategemea [[scaffolding]] na [[feedback]] ya wakati, na kinahatariwa na [[cognitive-offloading|kutegemea kupita kiasi]] wakati AI inachukua nafasi ya juhudi. Kikiwa kimejengwa juu ya [[constructivist]] na [[learning-theories]], kinajumuisha [[higher-ed]], [[k-12]], na [[stem-education]].
 
 Kujifunza hai ni mojawapo ya mifumo mikubwa zaidi ya [[learning-gains|mapato ya kujifunza]] katika zama ya AI. Kwa sababu mikakati hai hujenga ufahamu kupitia kufanya kwa juhudi, ni thabiti zaidi dhidi ya AI kukata njia — na ushahidi wa hifadhi ya maarifa unaonyesha kuwa kuhifadhi juhudi hiyo hulinda kujifunza kwa kudumu huku kumwachia AI kuipokea kunaidhoofisha ([[generative-ai-reduced-study-time-math|muda wa kusoma uliopungua]], [[stromberg-generative-ai-learning-penalty-secondary-2026|adhabu ya kujifunza]], [[lak2026-hint-button-unproductive-use|matumizi mabaya ya vidokezo]]). Walimu wanaounganisha miundo ya kujifunza hai na [[learning-gains|mapato yaliyopimwa]] katika matokeo yasiyosaidiwa hupata picha wazi zaidi ya iwapo shughuli inayosaidiwa na AI iliboresha kujifunza kweli.
+
+## Dhana Potofu za Kawaida
+
+- **"Kuweka AI katika shughuli kunafanya iwe ya vitendo."** Utafiti wa EEG uligundua kuwa **ushirikiano wa mwingiliano kati ya mwanafunzi na AI ulizalisha mahusiano ya kiakili ya juu zaidi, wakati uotomatishaji kamili uliyapunguza**. Mahusiano yalitokana na mwingiliano, si uwepo wa AI, na kuotomatisha sehemu ya mwanafunzi ya kazi kulihamisha mahusiano kuelekea upande mbaya.
+- **"Uchunguzi unaosaidiwa na AI ni wa hali ya juu kiotomatiki."** Jaribio la nusu lililofanyika na **wanafunzi 120 wa Darasa la 8** liligundua kuwa [[inquiry-based-learning|kujifunza kwa msingi wa uchunguzi]] unaosaidiwa na AI uliinua utendaji wa ubunifu wa hisabati **na** kipimo chembamba zaidi: matibabu yalisogeza matokeo mengine na si mengine. Uhusiano na lebo ya hali ya juu si sawa na kazi ya hali ya juu.
+- **"Wanafunzi wanaobuni ualimu ni zoezi la kiufundi."** Katika utafiti wa ubadilishaji, **wanafunzi 345** katika kozi yenye wanafunzi 700 kila mmoja alibuni mwakala wa mazungumzo kufundisha mifumo mitatu ya ubuni kwa mwenzio. Kujifunza kwa vitendo kulitokana na kazi ya ubuni, ambayo ni kufikiri kwa kieledu badala ya uhandisi wa ilani.
+- **"Ugunduzi wa mahusiano ni ugunduzi wa kujifunza."** Msingi huo huo wa ushahidi unaonya kuwa ubuni **usio na kikundi cha udhibiti na wenye sampuli ya kujitolea** unasaidia madai ya mahusiano peke yake. Wanafunzi walithamini uhuru wa ubuni usio na mpaka (**asilimia 22.3** mada kuu chanya) na walilalamika zaidi kuhusu maelekezo yasiyo wazi (**asilimia 23.7**), na yote mawili ni kuhusu uzoefu.
 
 ## Dhana Zilizounganishwa
 - [[learning-gains]]

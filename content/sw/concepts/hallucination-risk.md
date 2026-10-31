@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,15 @@ Ulinzi dhidi ya uandishi kama huo unabeba mabadilishano yake: mtiririko wa ulinz
 
 **Ufuatiliaji usio na uhakika uliopewa lebo ulipunguza utegemezi ulioripotiwa badala ya kuuongeza.** Washiriki 546 waliposoma mazungumzo yale yale ya GAI yaliyopewa lebo kama yanayojumuisha habari iliyoandaliwa au kama sahihi iliyothibitishwa, lebo ya kuliandaliwa ilizalisha [[trust]] ya chini na uwezo wa kudhibiti unaohisiwa na kushindwa kwa kiakili na kutoridhika kwa juu pamoja na alama za chini za utegemezi (M = 2.935 dhidi ya 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Matokeo yanapunguza mantiki ya kutegemea kupita kiasi ya ukurasa huu: kuona kwamba matokeo yanaweza kuwa yaliyoandaliwa si sawa na kuendelea kutegemea.
 
+**Vidokezo vya uaminifu vinaweza kuongeza utii badala yake.** Mwendo kinyume unaonekana pale matokeo yasiyotegemewa yanapopambwa: kuongeza marejeleo na ishara za uaminifu kwenye kiolesura cha mijadala ya ARMADA kulipandisha sehemu ya washiriki waliohama kutoka hukumu sahihi ya awali kuelekea msimamo usio sahihi wa AI kwa asilimia 112 (asilimia 31.8 dhidi ya 15.0), na ukaguzi wa mkono uligundua baadhi ya kesi zilizotajwa zikihusishwa vibaya na marejeleo yasiyohusika au ya kutunga ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+## Dhana Potofu za Kawaida
+
+- **"Wanafunzi wataona makosa."** Mapitio ya **masomo 125** yanaweka viwango vya utungaji wa vitu visivyokuwepo kati ya **asilimia 10 na 40**, huku **wanafunzi wa tiba, miongoni mwa wanafunzi waliochaguliwa kwa uangalifu zaidi katika elimu ya juu, wakigundua makosa ya AI asilimia 44 hadi 55 ya wakati**. Viwango vya ugunduzi vilivyo chini sana ya uaminifu wa kiwango cha bahati nasibu vinamaanisha mzigo hauwezi kubaki kwa msomaji.
+- **"Makosa yanaonekana wazi yanapotokea."** AI inayochanganua hisabati ya mkono inaweza **kutunga nukuu za ushahidi ambazo hazikuwepo wakati ikidai kujiamini**. Kushindwa hakukuwa jibu linaloaminika lakini lisilo sahihi; lilikuwa ushahidi uliotungwa uliowasilishwa kwa uhakika, ambao ni aina ngumu zaidi kukamata kwa sababu unasomwa kama ushahidi hasa ambao msomaji makini angemtaka.
+- **"Matokeo yasiyo na marejeleo ni tatizo la muundo."** Katika kozi ya shahada ya pili iliyobadilisha kitabu chake cha biashara kwa masomo yaliyozalishwa na AI, ni **takribani asilimia 0.80 ya kurasa 4,487 zilizoorodheshwa zilizokuwa na marejeleo ya ndani ya mtindo wa APA**. Hiyo ni ukosefu wa asili kwa kiwango cha korpusi, si kuachwa kwa hapa na pale, na inamaanisha uthibitishaji hauna mahali pa kuanzia.
+- **"Utungaji wa vitu visivyokuwepo ni tatizo la uzalishaji wa mfano ambalo mifano mipya hutatua."** Masafa ya viwango yanajumuisha asilimia 10 hadi 40 katika masomo 125, ambayo ni sifa ya kazi na utekelezaji kama vile ya mfano. Kupunguza kiwango ni maendeleo halisi na hakubadilishi kwamba msomaji lazima aweze kuhakiki.
+
 ## Dhana Zilizounganishwa
 
 - [[cognitive-offloading]]
@@ -71,7 +80,8 @@ Ulinzi dhidi ya uandishi kama huo unabeba mabadilishano yake: mtiririko wa ulinz
 - [[productive-failure]]
 
 ## Makala Zilizounganishwa
-- [[frontiers-gai-hallucination-dependence-2026]] — Kuwapa lebo mazungumzo ya GAI kama yaliyoandaliwa kulipunguza uaminifu na utegemezi pamoja
+- [[frontiers-gai-hallucination-dependence-2026]] — Kuweka lebo ya kutunga kwenye mazungumzo ya GAI kulipunguza uaminifu na utegemezi pamoja
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Vidokezo vya uaminifu vilipandisha utii kwa matokeo ya AI, huku baadhi ya kesi zilizotajwa zikihusishwa vibaya au kutunga
 - [[ivory-psychology-assessment-integrity-2026]] — Nukuu zilizoandaliwa na matokeo yanayojipinga ndani ya kazi ya mwanafunzi inayosalimisha kupata alama (Ivory et al. 2026)
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

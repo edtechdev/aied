@@ -8,7 +8,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,16 @@ Hii inalingana na utafiti wa [[intelligent-tutoring|Mafunzo ya AI]] unaoonyesha 
 ### Mahusiano na dhana zinazohusiana
 
 Uhamishaji wa kujifunza unaungana na [[metacognition]] (kujifuatilia mwenyewe ufahamu), Nadharia ya Mzigo wa Kiakili (mzigo wa faida dhidi ya wa nje), [[desirable-difficulties]] (mapambano yenye tija), [[scaffolding]] (kupunguza msaada polepole), [[cognitive-offloading|Kutegemea Kupita Kiasi]] (utegemezi wa zana), na [[sociocultural-learning]] (AI ya matumizi ya jumla hufanya kazi nje ya ZPD kwa kukamilisha kazi kwa wanafunzi). Ni daraja kati ya utendaji unaosaidiwa na kujifunza halisi — tofauti kati ya [[stanford-evidence-base-ai-k12-2026]] na swali kuu kwa ufanisi wa [[intelligent-tutoring|Mafunzo ya AI]].
+
+## Dhana Potofu za Kawaida
+
+**"Mapato katika kazi zinazosaidiwa na AI yanaonyesha kujifunza kunakohamishika."** Muundo kinyume ndio mkusanyiko unaoupata: **masudio yote matano** katika muhtasari ulioripotiwa hapa yanaonyesha **uhamishaji hasi au sufuri** pale AI ya matumizi ya jumla ndiyo uingiliaji, wanafunzi wa hisabati wa shule ya upili wenye alama za juu za mazoezi wakipata **takriban 17% chini** katika mitihani ya mwisho iliyofungwa, na utafiti wa uandishi wa insha ambapo **83% walishindwa kukumbuka nukuu zao wenyewe**. Utendaji wa papo hapo unaosaidiwa ni kipimo kisichohamishika zaidi kilichopo.
+
+**"Kama mwanafunzi anaweza kuifanya na AI, anaweza kuifanya."** Hiyo ni fasili ya kushindwa badala ya kutokuwepo kwake. Uhamishaji unahitaji uwezo uendelee baada ya kuondolewa msaada, na masudio yanayojaribu kuondolewa yanagundua uwezo ulikuwa katika zana. Mwanafunzi anayeweza kuzalisha bidhaa wakati ufikiri unafanywa mahali pengine amefunzwa ujuzi tofauti: kuendesha zana.
+
+**"Uhamishaji hutoka kwa mifano yenye uwezo zaidi."** Uhamishaji hutoka kwa hali zinazouzalisha, upana wa mazoezi, tofauti za miktadha, na kiwango ambacho mwanafunzi alizalisha ufikiri mwenyewe. Uwezo wa mfano huinua dari ya utendaji unaosaidiwa na haufanyi jambo maalum kwa kile kinachobaki mfano ukiwa haupo.
+
+**"Mwongozo kila wakati unauunga mkono uhamishaji, kwa hivyo mwongozo zaidi ni bora."** Mwongozo unaofanya ufikiri unachukua nafasi ya mchakato ambao uhamishaji unautegemea. Tofauti ni kati ya msaada unaomfanya mwanafunzi azalishe hatua inayofuata na msaada unaoizalisha kwa ajili yake, na wa kwanza pekee uko upande wa uhamishaji wa mstari huo.
 
 ## Dhana Zilizounganishwa
 

@@ -8,7 +8,7 @@ pedagogy: [active-learning, collaborative-learning, experiential-learning, learn
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,6 @@ Ujenzi wa maarifa ni familia ya mianadhamisho badala ya mafundisho moja, lakini 
 - **Maarifa ya awali yanaunda kujifunza kupya.** Mawazo mapya yatafsiriwa kupitia mifano ya akili iliyopo ya mwanafunzi, hivyo mafunzo yanapaswa kufichua na kujenga juu ya kile wanafunzi wanavyojua tayari — kanuni inayohusika moja kwa moja na [[misconceptions|dhana potofu]] na na mwalimu wa AI wanaojifunga na mwanafunzi.
 - **Mwingiliano wa kijamii unasaidia ujenzi.** Mwelekeo mkubwa — ujenzi wa kijamii — unadai maana hujengwa pamoja kupitia mazungumzo, ushirikiano, na shughuli [[situated-learning|zilizowekwa katika muktadha]] wa kitamaduni. Hii inaunganisha ujenzi wa maarifa na [[collaborative-learning|ushirikiano]] na mbinu za [[socratic-method|Socratic]] ambapo AI huuliza badala ya kutangaza.([[ai-agents-constructive-conflict-design-education-2026]])
 - **Ujenzi unaonekana katika shughuli.** Wanafunzi hufichua (na kuimarisha) ufahamu wao kwa kuzalisha, kueleza, na kutengeneza — ndiyo maana [[icap-framework|mfumo wa ICAP]] unaweka [[student-engagement|shirikiano]] la "ujenzi" na "mwingiliano" juu ya hali za "shughuli" na "kupitisha".([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
-
 Kikomo cha nadhamia ni kwamba ujenzi wa maarifa unadhani wakala wa epistemolojia unaozingatia binadamu, ambayo inaacha haitoshi kueleza AI inayoiga ufikiri na kujenga maana pamoja; nyongeza iliyopendekezwa ni ujenzi pamoja wa epistemolojia (epistemic co-agency), ambapo wanafunzi huchukua matokeo ya AI kama ya kushindana na kudumisha ukuu wa epistemolojia juu ya kile kinachochukuliwa kuwa maarifa ([[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel (2026)]]).
 
 ## Constructionism
@@ -107,6 +106,12 @@ Ujenzi wa maarifa pia unaunda jinsi ujuzi wa AI unavyofundishwa. Ikiwa maarifa h
 2. **Tumia lenzi ya [[icap-framework|ICAP]].** ICAP inagawa shirikiano katika hali za ujenzi, mwingiliano, shughuli, na kupitisha — itumie kutathmini kama mwingiliano wa AI unazalisha kweli hali za ujenzi na mwingiliano badala ya matumizi ya kupitisha. Wabuni wanapaswa kupendelea hali za kina zaidi (ujenzi na mwingiliano) pale lengo la kujifunza linahitaji.([[hingle-collaborative-ai-literacy-2025]])
 3. **Linganisha nadhamia na utekelezaji.** Watafiti wanapaswa kuangaza zaidi ya kama AI "inafanya kazi" hadi *jinsi* inavyowakilisha nadhamia ya kujifunza, na kuchunguza pengo la ujenzi kwa jina, behaviorism kwa vitendo.([[ai-vocational-education-training-review]])
 4. **Soma wakala wa mwanafunzi na uhamisho.** Kujitolea kwa ujenzi kunamaanisha kutathmini si faida za majaribio ya haraka tu bali kama wanafunzi wanaweza kuhamisha na kutumia kwa uhuru ufahamu wao uliojengwa.([[research-methods-aied]])
+
+## Dhana Potofu za Kawaida
+
+- **"Unaweza kubaini ufundishaji wa kiujenzi kutokana na maswali yanayoulizwa."** Kigawanya cha DeBERTa **kiliainisha maswali ya uhamishaji wa maarifa ya ukweli kwa usahihi wa 96.67% lakini maswali ya mwezeshaji kwa 78.79% tu**, na **kila mfano ulichanganya majukumu mawili ya ngazi ya juu**. Dhana inayojalisha zaidi ni ile ambayo utambuzi wa kiotomatiki unashughulikia vibaya zaidi.
+- **"Sifa za uso za somo hufichua mbinu zake za kufundisha."** Kushindwa kwa kigawanya si maelezo ya kiufundi ya utekelezaji. Majukumu ya mwezeshaji na ya kiujenzi ni kesi ngumu hasa kwa sababu hufafanuliwa na kile mwalimu anachofanya na ufikiri wa mwanafunzi, na uhusiano huo hauwezi kupatikana tena kutoka kwa maandishi ya swali peke yake.
+- **"Ujenzi unamaanisha mwalimu haelezi."** Nadharia inaweka kujifunza katika ujenzi wa mwanafunzi kutoka kwa uzoefu, ambao unapatana na mafundisho ya moja kwa moja. Kuichukulia kama katazo la kueleza kunasoma vibaya nadharia na ushahidi kuhusu mifano iliyofanyiwa kazi.
 
 ## Dhana Zilizounganishwa
 - [[community-of-inquiry]] — Jamii ya Uchunguzi (iliyotegemea ujenzi/pragmatisi ya Dewey)

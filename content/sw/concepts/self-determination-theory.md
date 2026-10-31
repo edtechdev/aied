@@ -8,7 +8,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,8 @@ ai_assist:
 
 SDT inatumika zaidi katika utafiti wa Akili Bandia katika elimu [[research-methods-aied|(utafiti)]] kama lenzi ya nadharia kwa mifumo ya AI inayokabili wanafunzi na waelimishaji. Dai la kati la nadhari — kuwa motisha si kiasi tu wanafunzi walio nacho bali ubora unaoundwa na mazingira ya kijamii na kiteknolojia — unaifanya ihusiane moja kwa moja na maswali kuhusu jinsi zana za AI zinavyoathiri [[student-engagement|ushiriki]], kudumu, na [[learning-gains|matokeo ya kujifunza]]. Makala katika hifadhi hii ya maarifa yanatumia SDT katika miktadha mitatu kuu: maendeleo ya kitaalama ya walimu, ushiriki wa kujifunza unaopatanishwa na AI, na kompyuta ya kihisia.
 
+Uhuru, si urahisi, ndio uliobeba faida ya motisha hapa. [[rct|Jaribio la nasibu]] la mikono mitatu liligundua kuwa mwalimu anayezuia vidokezo, aliyewaacha wanafunzi wakijenga suluhisho lao wenyewe, alikuwa kikundi pekee kilichoinua motisha ya ndani (2.82 dhidi ya 2.42), wakati ChatGPT isiyo na vikomo, inayotoa jibu, haikuinua (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+
 ### Mada kuu za utafiti
 
 **Maendeleo ya kitaalama ya walimu yanayotegemea SDT** yanatumia kanuni za nadhari za kuunga mkono mahitaji ili kuandaa waelimishaji kwa AI. **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** walisoma walimu 382 wa [[k-12|shule ya sekondari]], na waligundua kuwa maendeleo ya kitaalama yanayounga mkono mahitaji yaliyokuwa na msingi wa SDT yanaongeza [[ai-literacy]] ya walimu na hukuza ushiriki wa tabia unaodumu katika jamii za kujifunza za kitaalama mtandaoni. Uchanganuzi wa [[qualitative-research|kina]] ulitambua mikakati tisa ya ubini inayounga mkono uhuru, uwezo, na uhusiano — ikifungua pengo kati ya maendeleo ya kitaalama yaliyotengwa na jamii za kujifunza za kitaalama.
@@ -60,6 +62,12 @@ Mfumo wa wakala-wa-pamoja unaweka mipaka ya ufikivu wa SDT katika elimu inayopat
 ## Mahusiano na dhana zinazohusiana
 
 SDT inahusiana moja kwa moja na [[motivation]] kama dhana yake ya mama, na [[affective-computing]] na [[affective-tutoring]] kwa ubini wa AI unaotambua hisia, na [[student-experience]] kwa jinsi wanafunzi wanavyouzoefu mazingira ya AI. Msisitizo wa nadhari juu ya uhuru unahusiana na [[self-regulated-learning]], huku kipengele chake cha uwezo kinahusiana na [[self-efficacy-tutoring-learning]] na [[teacher-ai-competency]]. SDT ni muhimu hasa kwa [[professional-training]] na [[educational-development]] kwa sababu ubini unaounga mkono mahitaji ni kanuni inayohamishika ya kuandaa waelimishaji kutumia AI.
+
+## Dhana Potofu za Kawaida
+
+- **"Aina ya motisha ni ya muhimu kidogo kuliko kiasi cha motisha."** Utafiti wa mwaka mmoja uligundua **wasifu vitatu vya motisha, Wasiohusika, Wanaokua, na Wanaojiamua**, thabiti kwa muda, na wanafunzi waliotaka katika wasifu wa **Wanaojiamua** walionyesha **faida kubwa zaidi za [[ai-literacy]]**. Ubora wa motisha ulitabiri kujifunza, na wasifu haukuteleza juu tu.
+- **"Msaada wa uhuru unamaanisha kuondoa muundo."** Utaratibu wa SDT ni uhuru, uwezo na uhusiano pamoja, na ushahidi wa muda mrefu unaonyesha kuwa kuvikidhi kulitabiri faida badala ya kuziandamana tu. Uhuru bila msaada wa uwezo ni ulegevu, na hautimizi masharti ya nadharia.
+- **"Chatbot inaweza kutoa mahitaji matatu kiotomatiki."** Utafiti mmoja uligundua ChatGPT inaweza kusaidia uhuru, uhusiano na uwezo katika kujifunza lugha: uwezekano, si sifa. Kama mwingiliano fulani unayasaidia ni swali la kimajaribio kuhusu jinsi unavyotumika.
 
 ## Dhana Zilizounganishwa
 - [[motivation]]
@@ -89,3 +97,4 @@ SDT inahusiana moja kwa moja na [[motivation]] kama dhana yake ya mama, na [[aff
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Motisha ya wanafunzi na kuridhika kwa mahitaji katika madarasa ya GenAI (Schweder, Hagenauer & Raufelder 2026)
 - [[genai-learning-engagement-medical-undergraduates-2026]] — Matumizi ya GAI yanahusishwa kwa udhaifu na kuridhika kwa mahitaji na hayana lazima kwa ushiriki wa juu (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Njia mbili kutoka ushirikiano wa mwalimu–AI hadi ushiriki wa kazi, zikimodareishwa na ujuzi wa kidijitali
+- [[bassner-performance-learning-dissociation-ai-programming-2026]] — Kuzuia vidokezo kulihifadhi uhuru ambapo kutoa majibu hakuifanya

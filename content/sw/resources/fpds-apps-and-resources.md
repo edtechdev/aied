@@ -28,27 +28,32 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-10-24T11:51:12-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
+updated: "2026-10-31T13:02:36-04:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-**FPDS Apps and Resources** ni kituo cha umma kwa zana za kufundisha zilizojengwa na kukusanywa na Huduma za Maendeleo ya Kitaalamu ya Wataalam katika Chuo cha Hillsborough. Ukurasa mmoja unazikusanya chini ya vichwa vitatu, AI, kufundisha na upatikanaji, ili mwalimu aweze kupata programu na kozi za ofisi yenyewe pamoja na miongozo na wasaidizi inayowashauri.
+**FPDS Apps and Resources** ni kituo cha umma kwa zana zilizojengwa na kukusanywa na Huduma za Maendeleo ya Kitaalamu ya Wataalam katika Chuo cha Hillsborough. Maingizo kumi na tano yako chini ya vichwa vitatu, AI, upatikanaji na kufundisha, na kila moja inafungua zana yenyewe.
 
 ## Unaweza kufanya nini nayo
 
-Sehemu ya AI inaelekeza kwa *AI-Era Assignment Design Coach*, Gemu ya Gemini inayoongoza waelimishaji katika kubuni upya kazi za kufundisha katika ulimwengu unaoweza kutumia AI; kocha huyo huyo pia anapatikana kama mradi wa Playlab, na kijitabu cha kazi cha [[academic-integrity]] kisichotoa AI kinashughulikia kazi hiyo kwa vipengele vilivyo pungufu. Sehemu pia inaorodha ziara ya kasi ya zana za AI na kazi za kufundisha, *Hifadhi ya Maarifa ya AI katika Elimu*, na Gemu ya pili ya Gemini kwa kubuni moduli za mtandaoni. Sehemu ya upatikanaji inakusanya orodha ya Canvas inayoanza na kile unachofanya nayo na kuisha na ukaguzi wa binadamu, mwongozo wa [[universal-design-for-learning]] uliochapishwa chini ya leseni ya Creative Commons isiyo ya kibiashara, na Gemu nyingine ya Gemini inayoandika maandishi mbadala kwa picha. Sehemu ya kufundisha inakusanya kozi mbili za Canvas ofisi inazodumisha, kifurushi cha kuanzia cha kunakili kwenye kozi yako mwenyewe na kozi ya mbinu za kufundisha zilizothibitishwa na ushahidi zilizo na vipengele vya Canvas vinavyoweza kubadilishwa, pamoja na orodha ya kufundisha mtandaoni iliyowekwa katika hati. Kila ingizo ni ukurasa unaofanya kazi badala ya tangazo, na sehemu zinaunganishwa mbele kwa nyenzo ofisi isiyoihifadhi.
+Sehemu ya AI ina washauri wanne wa mazungumzo kwenye Playlab: Kocha wa Kufundisha anayeunganisha kizuizi cha mafanikio ya mwanafunzi na mkakati wenye ushahidi, Kocha wa Ubunifu wa Uelewa wa AI anayebadilisha [[ai-literacy]] kwa kozi, Kocha wa Tabia za Kielimu kwa wanafunzi, na Kocha wa Ubunifu wa Kazi wa Enzi ya AI, aliyepo pia kama daftari la NotebookLM na karatasi isiyo na AI, anayeshughulikia kazi kama suala la usawa badala ya kuzuia AI. Sehemu ina kozi ya Canvas ya nyenzo tayari za uelewa wa AI, ziara ya kujipangia ya AI Petting Zoo, Gemu ya Gemini kwa kubuni moduli za mtandaoni, na hifadhi hii. Upatikanaji unaanza na orodha ya ukaguzi ya Canvas ya ofisi, inayouliza unafanya nini na inapitia kurasa, picha, hati, slaidi, PDF, video na viungo; kando yake ni kitabu cha Pressbooks cha chuo kuhusu [[universal-design-for-learning|upatikanaji wa kidijitali]] na Gemu ya Gemini inayoandika maandishi mbadala. Kufundisha kunakusanya kozi ya mwongozo wa [[online-teaching-and-learning|kufundisha kwa Canvas]], kifurushi cha kuanzia cha kunakili kwenye kozi yako, kozi ya mikakati yenye ushahidi na vipengele tayari vya Canvas, na orodha ya ukaguzi ya kufundisha mtandaoni.
 
 ## Ni kwa ajili ya nani
 
-Tovuti inahudumia wafanyakazi wa [[educational-development]] na waelimishaji katika Chuo cha Hillsborough. Ni ya manufaa pia kwa waelimishaji mahali pengine kama mfano wa kufanya kazi wa tovuti ndogo ya maendeleo ya wataalam, kwa kuwa ni seti ya kurasa za wima zinazoweza kunakiliwa badala ya kujengwa upya.
+Waelimishaji na wafanyakazi wa [[educational-development]] katika Chuo cha Hillsborough, na waelimishaji wengine wanaotafuta mfano wa tovuti ndogo ya maendeleo ya wataalam iliyojengwa kwa kurasa tuli zinazoweza kunakiliwa.
 
 ## Vidokezo na tahadhari
 
-Kusoma tovuti hauhitaji akaunti, na kozi za Canvas na hati ya orodha inayounganishika ni za umma pia. Gemu za Gemini na daftari la NotebookLM ni huduma za Google, na hizo zinahitaji akaunti. Hifadhi ina leseni ya MIT kama programu, huku miongozo ya nje inayounganishika ikiwa na leseni zao wenyewe. Ofisi inadumisha kurasa bila ratiba ya kuchapisha, kwa hivyo hubadilika bila taarifa.
+Kusoma hakuhitaji akaunti, na kozi za Canvas na orodha ni za umma. Wasahauri wa Playlab, Gemu za Gemini na daftari ni huduma za watu wengine zinazohitaji akaunti. Kadi zinatengenezwa kutoka `apps.json`, hivyo orodha kamili inahitaji JavaScript na njia mbadala inataja nane kati ya kumi na tano; kiungo kifupi `tinyurl.com/fpdapps` na msimbo wa QR wa kichwa vinaifungua kwenye simu. Hifadhi ni programu ya leseni ya MIT, wakati miongozo inayounganisha ina leseni zake, kitabu cha Pressbooks kikiwa chini ya leseni ya Creative Commons isiyo ya kibiashara. Hakuna ratiba ya kuchapisha, hivyo ukurasa hubadilika bila taarifa.
 
 ## Dhana Zilizounganishwa
 
-[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]]
+[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

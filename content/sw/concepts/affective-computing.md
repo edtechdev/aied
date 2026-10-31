@@ -8,7 +8,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,12 @@ Kompyuta ya hisia iko katika muingiliano wa [[affective-tutoring]] (matumizi yak
 - **Mawakala wa tathmini wenye akili ya kihisia.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], [[llm]] iliyoongezwa na mwakala wa mazungumzo [[conversational-ai|mazungumzo]] mwenye akili ya kihisia, ilipunguza wasiwasi na shinikizo la kijamii la wanafunzi wakati wa tathmini za utendaji huku ikihifadhi [[usability-research|urahisi wa matumizi]].
 - **Huruma iliyoundwa kupitia ubunifu wa ilani, si kugundua.** Msaada wa kihisia hauhitaji kugundua hisia: [[wang-teacher-student-centered-agents-physics-2026|Wang na wenzake (2026)]] walipata tofauti kubwa katika *kuhisiwa kwa huruma* (21.27 dhidi ya 18.24; r = 0.53) kati ya mawakala wawili wa [[physics-education|fizikia]] ya LLM waliotofautiana tu katika jukumu lililowekwa na ilani na hatua za mazungumzo — mianzio ya kuchukua mtazamo ("Una swali hili kwa sababu…"), utambuzi wa [[misconceptions|dhana potofu]], na ukaguzi wa ufahamu mwishoni mwa kila mzunguko — huku mfano, jukwaa, na halijoto zikiwa zilizowekwa mara moja. Hili ni kizuio chenye manii kwa kompyuta ya hisia inayoendeshwa na vihisi: ubora wa kihisia unaohisiwa wa [[pedagogical-agent|mwakala wa kielumu]] unaweza kubuniwa ndani ya hati ya mwingiliano, na pia kuwakumbusha wabunifu kwamba huruma inayohisiwa ni muundo wa kuripoti binafsi badala ya ushahidi wa ufahamu wa kweli wa kihisia ([[student-ai-interaction]]).
 - **Tahadhari zinazoelekeza mwalimu badala ya kubadilisha mkufunzi.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] alitumia Dash4Emotion katika darasa la jiometri la shule ya upili, ambapo miraba iliyowekwa rangi nyekundu iliweka alama kwa wanafunzi wanaosomewa kama wanahisi hisia hasi; katika matukio ishirini yaliyotambuliwa (matano yaliyoripotiwa), kilichobadilisha ushiriki lilikuwa mwitikio wa mwalimu kwa tahadhari, si tahadhari yenyewe. Hoja ya muundo ni kwamba kugundua hisia kunaweza kulisha uamuzi wa binadamu badala ya hatua inayofuata ya mkufunzi anayebadilika — na onyo la utafiti lenyewe likiambatana: haliripoti uhakiki wowote wa kugundua uelewa wa uso, na hivyo ishara ni ilani ya tafsiri ya mwalimu badala ya ushahidi kuhusu hali ya ndani ya mwanafunzi.
+
+## Dhana Potofu za Kawaida
+
+- **"Ushiriki zaidi unamaanisha kujifunza zaidi."** Utafiti wa kuhisi ubongo uligundua **kiolesura kilichowekewa mipaka, kinachobadilika kiliinua ushiriki wa kiutambuzi (p = .018) huku chatbot isiyo na mipaka ikizalisha ongezeko kubwa la kujifunza**. Kiolesura kilichoshirikisha zaidi kilifundisha kidogo. Ushiriki si kiwakilishi cha kujifunza, na kuuboresha kunaweza kusogeza matokeo upande usiofaa.
+- **"Msaada wa kihisia ni nyongeza laini kwa msaada wa kiutambuzi."** Katika [[rct|jaribio la bahati nasibu]] dogo la darasani (**wahitimu 42 kati ya washiriki 252**), toleo la uangalifu lilifikia **kujifunza algebra sawa kwa muda mfupi na kwa vidokezo vichache vilivyoombwa** kuliko msaada wa kiutambuzi peke yake. Sehemu ya kihisia ilibadilisha ufanisi badala ya kikomo cha juu, ambayo ni dai tofauti na la kuvutia zaidi kuliko "inasaidia kujifunza".
+- **"Matokeo ya kihisia ya sampuli ndogo huhamishwa."** Wahitimu 42 kati ya washiriki 252 ni ubunifu unaotia moyo na dhaifu kwa wakati mmoja: kiwango cha ukamilishaji chenyewe ni ugunduzi kuhusu nani aliendelea, na athari ina kikomo kwa kikundi hicho.
 
 ## Dhana Zinazohusiana
 - [[anxiety-and-stress]]

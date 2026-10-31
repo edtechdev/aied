@@ -9,7 +9,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,6 @@ Uchunguzi unakubaliana juu ya vigezo kadhaa vya usimamizi wa mabadiliko. **Miund
 **Masomo ya taasisi ya mabadiliko ya taasisi** yanaonyesha jinsi vigezo hivi vinavyofanya kazi katika mazoezi. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] anachanganua mabadiliko ya kimkakati ya Chuo Kikuu cha Lingnan katika vipengele vinne — kuboresha kufundisha kupitia AI, kupeana kipaumbele uwezo wa binadamu ambao hauwezi kuchukuliwa, kufanya upya mtaala, na kudumisha maadili na thamani za kitamaduni — ikionesha jinsi taasisi iliyoanzishwa kwa muda mrefu inaweza kusimamia mabadiliko yanayoendeshwa na [[generative-ai|GenAI]] bila kuacha utambulisho wake. Inaweka mabadiliko kama ya kiakili badala ya ya kiteknolojia, ikitoa viongozi wa taasisi mfano wa hatua za kutangaza ujuzi wa AI huku ikihifadhi dhamira ya kibinadamu.
 
 **Ushahidi wa utekelezaji wa mfumo wa shule** unahamia swali kutoka bidhaa gani kupata hadi jinsi inavyotumika. Utafiti wa uwanja wa [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]] — madarasa 32 katika mifumo ya shule 16 katika majimbo saba — uligundua bidhaa moja ikianguka vizuri au vibaya kulingana na jinsi mwalimu alivyopanga kusudi, kutazama dashibodi, na kuchukua hatua juu ya kile iliripoti, na shughuli za dakika kumi zikinyooka darasa lote ambapo taratibu na nafasi wazi katika mpangilio na mlolongo zilikuwa hazipo. Bidhaa zilizobainisha hatua za mwalimu wakati wa matumizi zilitumika karibu zaidi na mbinu yao iliyokusudiwa, na walimu walihitaji mafunzo endelevu ya Kocha badala ya kuanzishwa kwa mara moja; mahali viongozi walijua bidhaa vizuri, walimu walichukua hatua zinazotakiwa mara nyingi zaidi.
-
 **Uendelevu ni sifa ya shirika, si ya zana.** Tathmini ya nasibu ya miaka minne ya chatbot ya ujumushaji wa maandishi bila AI ya kizalishaji katika Chuo Kikuu cha California, Northridge, inafuatilia udumu hadi nyumba ya utawala (usimamizi wa pamoja na Ofisi ya Masomo ya Chuo Kikuu na Ofisi ya Msajili), mtaalamu mmoja wa mawasiliano akiandika kila kampeni kwa sauti thabiti, na unyumbufu wa kutosha katika mchanganyiko wa ujumbe ili kuchukua mshtuko wa COVID-19 — huku kushirikiana data kati ya ofisi kwa ajili ya kufikia watu kulionekana kubwa kiasi kwamba kampeni zilizolengwa zilipungua kutoka 36% hadi 6% ya jumla ya mwaka ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell na Page 2026]], karatasi ya kazi ambayo matokeo yake ya utekelezaji hutegemea uchunguzi wa mfumo na majadiliano ya wasimamizi badala ya jaribio). Matokeo yake ya ushiriki yanaimarisha somo lile lile: viwango vya mwaka vya kujitoa (opt-out) havikuwa zaidi ya 4% katika miaka minne, ambayo waandishi wanasoma kama kupokea kudumishwa na jinsi taasisi ilivyobadilisha utekelezaji badala ya teknolojia yenyewe.
 
 **Mageuzo ya tathmini** ni uwanja wa mapigano wa kati wa usimamizi wa mabadiliko. [[ai-assessment-scale-reform|Utafiti wa Scale ya Tathmini ya AI]] unaonyesha utekelezaji wa mfumo umezuiwa na kutolingana kwa idara, shinikizo la mzigo, na kutokuwa na uhakika, na wafanyakazi wakielezea mchakato kama "utapiafu na ugumu." [[ethical-ai-higher-ed-game-theory|Mfano wa mchezo wa uratibu]] unatoa maelezo rasmi kwa nini kauli za sera peke yake zimeshindwa: matumizi ya AI ya wanafunzi ni mchakato wa pamoja wa kuunda kanuni, na mabadiliko madogo, yaliyosawazishwa vizuri ya motisha ya tathmini ya kutafakari yanaweza kuchochea mabadiliko haraka ya kiwango cha kikundi kuelekea matumizi yenye uwajibikisho, huku motisha dhaifu au zisizolingana zikiruhusu mazoezi ya fursa kudumu. Hii inasaidia utawala unaoongozwa na kieledu kuliko ufuatiliaji. [[ai-adaptation-gap-higher-education-2026|Utafiti wa pengo la mabadiliko ya AI]] unaongeza kipengele cha [[stakeholders|wadau]]: wanafunzi wanaripoti nguvu ya juu ya matumizi ya AI na ufaafu unaohisiwa kuliko wataalamu na wafanyakazi wa utawala, huku wengine wakiripoti wasiwasi mkubwa wa [[academic-integrity]] — na ufaafu unaohisiwa unaendesha [[trust]] (β = 0.402) kwa nguvu zaidi ya uwazi wa sera ya taasisi (β = 0.223).
@@ -64,9 +63,21 @@ Katika taasisi ambapo mkakati unaenda mbele ya miundombinu kazi inazidi: waendel
 
 Somo la taasisi linafuatia mzunguko wa kusambaa wa muongo mmoja katika hisabati ya chuo kikuu, likihamia kutoka mipango ya mtu binafsi na warsha za marika hadi upatikanaji wa pamoja wa wataalamu na ufadhili wa kati ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
+Kubuni upya kozi kunabeba gharama ambayo taasisi zinapaswa kuiweka katika bajeti, si kuidhani: kupitisha kozi iliyounganishwa na AI kuligharimu takriban saa 15 hadi 20 za kazi ya kubuni upya kwa kila kozi kabla ya marekebisho yoyote endelevu [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
+- **Ushiriki unafafanuliwa na uwezo na mwelekeo, si shauku.** Mfumo wa mazoezi ya tathmini unadai kuwa kupitishwa kwa GenAI kusiko sawa kunaakisi masharti manne, yaani uwezo, mwelekeo, na msaada na vikwazo vinavyovizunguka, badala ya upinzani, na kwamba warsha moja hujenga msamiati lakini si hukumu ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Kutaja sharti linalokosekana humwambia taasisi iwafunze, iwagawie rasilimali, au ibadilishe kichocheo.
+
 ## Mahusiano na dhana zingine
 
 Usimamizi wa mabadiliko ni kipengele cha taasisi cha muunganisho wa ngazi ya darasa. Inafanya masharti ya mfumo — utawala, maendeleo ya wataalamu, ushiriki wa [[student-engagement|wadau]], na ulinzi wa usawa — yanayoruhusu uvumbuzi wa kieledu kuchukua mizizi, ikihusisha ubini wa sera ya [[educational-policy-ai]] na [[governance]], [[educational-development]], na matokeo ya [[equity-in-ai-education]].
+
+## Dhana Potofu za Kawaida
+
+- **"Nia ya kimkakati huzaa uwezo."** **7% tu ya taasisi** zimeunda nafasi za uongozi wa juu wa AI licha ya **49% kuchukulia AI kama kipaumbele cha kimkakati**. Pengo liko kati ya tamko na muundo, na ndiyo kushindwa kunarudia kwa usimamizi wa mabadiliko ya AI.
+
+- **"Kupitisha zana ya AI ni tukio."** **Uendelevu ni sifa ya shirika, si ya zana**: tathmini ya nasibu ya miaka minne ya chatbot ya ujumbe wa maandishi isiyo ya kizazi katika Chuo Kikuu cha California State, Northridge inaonyesha kipimo cha muda. Tathmini ilidumu miaka minne kwa sababu uendelevu ndicho kilichohitaji kupimwa.
+
+- **"Taasisi zinahitaji kuitikia kwa kasi zaidi, si kutabiri."** **Uongozi wa kutarajia** ni uzi unaokamilisha: [[baroudi-anticipatory-governance-ai-higher-ed-2026|mapitio ya upeo]] yanagundua taasisi lazima zihamie kutoka utawala unaoitikia hadi utawala unaotegemea maono ya mbele. Kuitikia kwa uwezo teknolojia ambayo tayari imefika ndiko ushahidi unaodokumenti kushindwa.
 
 ## Dhana Zilizounganishwa
 
@@ -96,3 +107,4 @@ Usimamizi wa mabadiliko ni kipengele cha taasisi cha muunganisho wa ngazi ya dar
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — utafiti wa uwanja wa mifumo mbalimbali juu ya jinsi utekelezaji na hatua za mwalimu huamua kama bidhaa ya AI inasaidia
 - [[dot-framework-survey-2026]] — ushahidi wa utafiti kuwa maendeleo ya kitaalama lazima yashughulikie mzunguko kamili wa ubini badala ya matumizi ya zana peke yake
 - [[flipped-classroom-ai-assessment-math-2026]] — Mzunguko wa kusambaa wa muongo mmoja kutoka mipango ya mtu binafsi hadi ufadhili wa kati katika hisabati ya chuo kikuu (Law 2026)
+- [[packard-thinking-partner-framework-adult-learners-2026]] — Weka bajeti ya saa 15 hadi 20 za kubuni upya kwa kila kozi iliyounganishwa na AI kabla ya marekebisho endelevu

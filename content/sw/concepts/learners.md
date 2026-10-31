@@ -11,7 +11,7 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,34 @@ Kwa sababu faida hufuata faida ya awali, kazi ya upande wa mwanafunzi haitengani
 ## Ukurasa huu upo wapi
 
 Soma na [[stakeholders]] kwa watu wanaomzunguka mwanafunzi, na na [[pedagogy]] na [[learning-design]] kwa kile walimu wanafanya na matokeo haya. [[assessment]] huamua ni uwezo gani wa mwanafunzi unaonekana; [[limitations-in-aied-research]] inaeleza kwa nini ushahidi mwingi wa upande wa mwanafunzi ni wa muda mfupi, unaojiripoti na umefanywa kwa sampuli za urahisi; na [[misconceptions]] ni sehemu ya kawaida ya kuingilia kwa wanafunzi wenyewe.
+
+## Dhana Potofu za Kawaida
+
+**"Wanafunzi na wajifunzaji ni idadi moja."** Hazibadilishani kwa njia yenye manufaa: *wanafunzi* hutaja nafasi ya kitaasisi, *wajifunzaji* hutaja shughuli, na mtu anaweza kuwa mmoja bila mwingine: mfanyakazi katika [[professional-training|mafunzo ya mahali pa kazi]] ni mwajifunzaji lakini si mwanafunzi. Kuchanganya haya kunapunguza msingi wa ushahidi kwa watu walio na rekodi za uandikishaji na kwa utulivu kunawaondoa watu wazima, wataalamu na wajifunzaji wanaojiongoza ambao utafiti wa [[lifelong-learning|kujifunza kwa maisha yote]] unahusu.
+
+**"Wajifunzaji huripoti AI inaboresha ufahamu wao, hivyo inawaokolea muda."** Madai mawili hutenganishwa katika data ya utafiti. Katika kazi kuhusu tija ya kusoma, **92.3%** walisema AI iliboresha ufahamu wao, wakati **38.5%** pekee walisema ilipunguza muda wao wote wa kusoma. Nambari kuu inaelezea ufahamu unaohisiwa; pengo chini yake linaonyesha kwamba ufahamu ulioboreka na muda uliorejeshwa ni matokeo tofauti, na dai la "AI huokoa muda" linalorudiwa sana linabebwa na nambari ndogo.
+
+**"Wanafunzi wanaotumia AI kwa njia za mkato ni kasoro ya maadili."** Hifadhi ya maarifa inachukulia mvuto wa juhudi ndogo kama tatizo la muundo na sera badala ya tatizo la tabia: wanafunzi hulieleza kwa maneno yao wenyewe, na fasihi ya [[reducing-ai-misuse|matumizi mabaya]] na [[academic-integrity|uadilifu]] inaweka kiungo katika muundo wa kazi na mazingira. Kuiweka kwa mtazamo wa maadili hakuelezi chochote kuhusu kwa nini mwanafunzi yule yule hufanya tofauti katika kozi mbili.
+
+**"Pale shutuma ya makosa inatolewa, ushahidi upo."** Uchanganuzi wa faili za kesi za shutuma 1,162 za GenAI unaonyesha kile wajifunzaji hukutana nacho kweli pale mwitikio wa kitaasisi unapofika, na upande wa mwanafunzi katika taratibu za makosa ni mwembamba zaidi katika fasihi kuliko upande wa mwanafunzi katika matumizi. Ukurasa kuhusu wajifunzaji unaoandika matumizi yao tu na si kukutana kwao na shutuma umeandika nusu ya uzoefu.
+
+## Athari kwa mazoezi
+
+**Kwa waelimishaji**
+
+- Uliza wajifunzaji *hufanya* nini, si kile wanachoripoti kuhisi tu. Ufahamu unaohisiwa (92.3%) na muda uliorejeshwa (38.5%) hutofautiana vya kutosha kwamba kutenda kwa kimoja huku ukidhani kingine kutapotosha muundo wa kozi.
+- Buni dhidi ya mvuto wa juhudi ndogo kimuundo badala ya kutegemea wema wa mwajifunzaji, kwa kuwa mvuto huo umeandikwa kama mwitikio wa kawaida kwa muundo wa kazi.
+- Wajulishe wajifunzaji mchakato wataokutana nao ikiwa watashutumiwa, kwa kuwa ushahidi wa taratibu unaonyesha kwamba mwitikio wa kitaasisi ndipo madhara mara nyingi huangukia.
+
+**Kwa watengenezaji**
+
+- Usitangaze uokoaji wa muda ambao wajifunzaji wenyewe hawaripoti. Toa vipimo vya ufahamu na vya muda, na uviweke na lebo tofauti.
+- Buni kwa ajili ya mwajifunzaji asiye mwanafunzi: watumiaji wa mahali pa kazi na wanaojiongoza hawana muktadha wa uandikishaji ambao chaguo-msingi zako zinaweza kudhani.
+
+**Kwa watafiti**
+
+- Weka tofauti ya mwajifunzaji na mwanafunzi wazi katika upigaji sampuli, na ripoti nani anaachwa nayo.
+- Soma upande wa mshtakiwa pamoja na upande wa mtumiaji; upande wa taratibu ni nusu nyembamba ya fasihi hii.
 
 ## Dhana Zinazohusiana
 

@@ -7,7 +7,7 @@ level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,18 @@ Elimu ya SSH inatangaza mbele uwezo ambao AI ya kizalishaji inautia changamoto z
 - **Tumia AI kwa makusudi katika kazi ya chanzo.** [[paternalistic-filter-llm-history-education|Utafiti wa historia]] unaonyesha AI inaweza kuunda ufikiri na tafsiri ya chanzo — fundisha wanafunzi kuchunguza madai ya kihistoria yanayopitishwa na AI na vichujio inavyotumia.
 - **Zingatia athari zinazohusiana na wanafunzi.** [[genai-impact-chinese-students-hss|Masudio ya uzoefu wa mwanafunzi]] yanarekodi jinsi GenAI inavyoathiri wanafunzi wa SSH; badilisha msaada na ufafanuzi wa uadilifu ili kulingana na matumizi halisi badala ya dhana.
 
+## Dhana Potofu za Kawaida
+
+**"Sayansi za binadamu ni sehemu ya mtaala isiyowekwa wazi kwa AI kwa kiwango cha chini zaidi."** Uwepo umepimwa na umekusanywa badala ya kusambaa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] alikagua **rekodi 15,587 za vitengo vya Sanaa na Sayansi za Binadamu** ili kubaini mahali uwepo upo. Umesambazwa bila usawa kati ya vitengo badala ya kusambaa kwa usawa, jambo linalofanya kubuni upya tathmini kuwa tatizo linalolengwa badala ya la sekta nzima.
+
+**"AI katika elimu ya sayansi za binadamu ni nyongeza inayozingatia teknolojia."** Karatasi ya msimamo ambayo ukurasa huu unategemea inadai kuwa mabadiliko ni *mabadiliko ya kiakili* badala ya nyongeza, ikiiweka [[ai-literacy|uwezo wa kidijitali]] kama ujuzi msingi wa sanaa za huruma. Kuongeza zana kwenye kozi isiyobadilika hukosea mabadiliko kwa chombo chake.
+
+**"Elimu ya maadili inaweza kukabidhiwa kwa mfano kama maudhui."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] anaweka upya elimu ya maadili kama mazoezi ya mahusiano yenye masharti matatu, uwajibikaji, mfano bora na kuhutubiwa, na anasoma kila moja ya fursa tano za GenAI kama inayochukua nafasi ya uhusiano: mtazamo ulioigwa unachukua nafasi ya mdau anayeweza kuathirika.
+
+**"Uchanganuzi mahususi ndio AI inautishia zaidi, hivyo unapaswa kuzuiwa."** Uchanganuzi mahususi pia ndio matumizi ya kusudi yanaukuza zaidi, pale kazi inapobuniwa kuongeza kina badala ya kukipunguza. Mfano wa [[human-in-the-loop-ai|binadamu-katika-mzunguko]] unaweka mchango wa taaluma katika hukumu ya mwanafunzi badala ya pato la zana.
+
+**"Mfano wa matumizi ya jumla ni muhimu kwa usomi wa maandishi kama ilivyo kwa muhtasari."** Ufafanuzi unahitaji msimamo wa msomaji, na tabaka la msaada linalotoa usomaji limefanya tendo la ufafanuzi ambalo taaluma ipo kufundisha.
+
 ## Dhana Zilizounganishwa
 
 - [[higher-ed]]
@@ -68,6 +80,8 @@ Elimu ya SSH inatangaza mbele uwezo ambao AI ya kizalishaji inautia changamoto z
 - [[discipline-specific-aied]]
 
 ## Makala Zilizounganishwa
+
+- [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Mfano wa maendeleo-mahususi wa ufahamu wa tafsiri kwa elimu ya SSH
 - [[paternalistic-filter-llm-history-education]] — Matumizi ya LLM na ufikiri wa kihistoria katika elimu ya historia

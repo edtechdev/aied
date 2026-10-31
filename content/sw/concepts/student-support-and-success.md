@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -91,6 +91,16 @@ Kudumu katika nyaraka hizi ni sifa ya shirika, sio ya kiufundi. Programu ya CSUN
 ## Mahusiano na dhana zinazohusiana
 
 Msaada kwa wanafunzi unaungana na [[student-experience]] kama mwenzake unaowakabili wanafunzi — teknolojia zile zile zikionekana kutoka upande wa mwanafunzi badala ya taasisi — na [[help-seeking]] kwa mfumo ambao wanafunzi wanaohitaji msaada wanapata msaada; mawasiliano ya kuwafikia na wasaidizi wa kozi maalum ni majaribio yote ya kupunguza gharama ya kuuliza. [[learning-analytics]] inamiliki utabiri unaotoa mgawanyo, [[student-modeling]] na [[knowledge-tracing]] mifano iliyochini yake, na [[recommender-systems-and-learning-paths]] tabaka la mapendekezo. Inaungana na [[well-being]] kupitia mifumo ya afya ya akili ya chuo na kuzuia, [[career-development-and-readiness]] kama matokeo yanayofuata kukamilisha, [[equity-in-ai-education]] na [[privacy]] kupitia hatari za kutenda juu ya alama, na [[administrator]], [[stakeholders]], na [[change-management]] kama majukumu na michakato inayoamua kama yote hayo yanaendelea. [[learning-gains]] ni nodi ya kupima iliyo karibu: matokeo ya ukurasa huu ni ya kiutawala badala ya ya mafunzo, na hayaendi pamoja.
+
+## Dhana Potofu za Kawaida
+
+**"Kutabiri ni nani atakayepata shida ndicho uingiliaji."** Utabiri ni pembejeo ya msaada na si msaada. Korpusi inatenganisha haya kwa makusudi: ukumbusho wa usajili na programu ya kuhifadhi wanafunzi ni uingiliaji tofauti wenye ushahidi tofauti, na utafiti unadokeza kuwa mmoja haununui mwingine. Dashibodi ya tahadhari ya mapema inayoishia kwenye alama imeongeza upimaji bila kuongeza msaada.
+
+**"Programu ya kuhifadhi iliyoinua uendelevu inathibitisha AI ilifanya kazi."** Inathibitisha programu ilifanya kazi, na tabaka la AI lazima litathminiwe kwa kutenganisha na ufikiaji unaouchochea. Utafiti wa nasibu wa miaka minne wa CSUNny, chatbot ya ujumbe wa maandishi isiyo ya kizalishaji katika Chuo Kikuu cha California State, Northridge, ulifuatilia **makundi mawili ya shahada ya kwanza (N = 8,708)** katika **semesta nane** huku **viwango vya kujiondoa vya kila mwaka visivyozidi asilimia 4**, matokeo imara ya upokeaji kuhusu *ujumbe*, na si ushahidi kuwa mfumo wa kizalishaji au wa utabiri utafikia vile vile.
+
+**"Ngazi ya matokeo inaanguka: mahusiano ni uendelevu."** Kila ngazi inapima kitu tofauti: kujiunga, kujibu, kudumu, kukamilisha, na programu inaweza kusogeza ngazi za chini huku ikiacha za juu zimesimama. Kuripoti sehemu inayojibu kama mafanikio hufanya uingizwaji huo hasa.
+
+**"Wasiwasi wa usawa ni sababu ya kuacha kutumia data."** Ni sababu ya kutenda juu ya alama kwa uangalifu. Kutenda juu ya kitabiri kunaweza kugawa msaada na kunaweza kugawa tuhuma, na hatari inajikita kwa wanafunzi ambao mfumo unawaainisha vibaya zaidi, jambo linalofanya dawa kuwa utawala wa matumizi, si kuachana na upimaji.
 
 ## Dhana Zinazohusiana
 

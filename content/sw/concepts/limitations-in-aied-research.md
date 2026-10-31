@@ -51,6 +51,7 @@ Ukurasa wa [[research-methods-aied|mbinu za utafiti]] wa hifadhi ya maarifa unae
 
 - **Muundo wa upatanishaji unaweka namba kuu za muunganisho.** Katika mapitio ya upeo wa masudio 195 ya elimu ya walimu, ujuzi wa kidijitali na [[tpack|TPACK]] vilikuwa vivigezi wazi vya utafutaji huku ubuni wa kufundisha na tathmini zisina kitu kinacholingana, hivyo asilimia 46.5 na 1.9 zinazoripotiwa zinazielezea mkusanyiko uliopatikana badala ya uwanja ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández na wenzake (2026)]]).
 - **Ukubwa mdogo wa sampuli.** Masudio mengi ya AIED hayana nguvu ya kutosha — washiriki wachache mno kugundua kwa uaminifu athari muhimu au kusaidia madai makubwa wakati mwingine yanavyotolewa kutoka kwayo.
+- **Uongezaji wa data unaweza kutengeneza kipimo kikuu.** Katika kipimo cha insha kinachojitengeneza ambacho sehemu yake ya mafunzo ilikuwa na kazi za wanafunzi 83, majibu ya ngazi ya 1 yaliyozalishwa, yaani violezo, upunguzaji, na kuondolewa kwa maneno muhimu, yalipandisha makubaliano ya Focus kwa +0.346 quadratic weighted kappa kutoka msingi wa 0.028, hivyo ishara yenye nguvu zaidi ya mpangilio ilitegemea maandishi ambayo hakuna mwanafunzi aliyeyaandika ([[automated-essay-scoring-critical-thinking-physics-2026|Firdausi et al. (2026)]]).
 - **Alama za mwisho zinaweza kuficha kile kinachochunguzwa.** Katika mapitio ya PRISMA ya masudio 103 ya [[higher-ed|elimu ya juu]], 56% yaliripoti mafanikio yaliyokuwa na masharti ya ngazi za msaada au uthibitishaji, na tofauti zisizo ya alama mara nyingi ziliambatana na mabadiliko halisi ya mchakato — utatuzi zaidi wa hitilafu, mizunguko zaidi ya ukaguzi — hivyo alama peke yake haziwezi kuonyesha kama [[generative-ai|GenAI]] ilimarisha au kupunguza mazoezi ([[hawi-genai-higher-ed-uses-outcomes-risks-2026|Hawi na Samaha (2026)]]).
 
 - **Muundo wa uthibitishaji unaweza kutengeneza namba kuu.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara na Halloluwa (2026)]] walipima mifano kumi na mitano juu ya ujuzi wa EEG na kuonyesha kuwa uthibitishaji wa kawaida wa stratified cross-validation unaruhusu uvujaji wa muda na kuripoti hadi 0.9853 F1, huku uthibitishaji wa Group K-Fold usiotegemea majaribio ukidondosha kilele hadi 0.6038 F1 — bado juu ya bahati, lakini mbali na matokeo yaliyonukuliwa.
@@ -62,6 +63,7 @@ Ukurasa wa [[research-methods-aied|mbinu za utafiti]] wa hifadhi ya maarifa unae
 - **Kusanifisha ndani ya kila seti ya data kunaweza kuficha taarifa potofu ya usambazaji.** Wakati vikundi vya elimu vya bandia vilisanifishwa na usambazaji wao wenyewe, ukweli kuwa muundo wao wa kila wiki ulitofautiana mara 2.6 hadi 4.9 kidogo zaidi ya vikundi halisi ulificha kwenye takwimu zilizoripotiwa - uchakataji wa kawaida wa awali, kwa maneno ya waandishi si wasiwasi wa nadharia ([[synthetic-educational-data-structural-fidelity-2026|Inoue na Yasutake, 2026]]).
 
 - **Lebo zinazozalishwa na mfano si ukweli wa msingi.** Pale lebo zinazofundisha au kutathmini mfumo zikizalishwa na mifano ya lugha, makubaliano kati ya waainishaji hayawezi kuanzisha uhalali: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado na wenzake (2026)]] hawakuthibitisha kamwe maelezo yao ya madai dhidi ya lebo za dhahabu za kibinadamu, na vyombo 49 vya encoder wanavyotoa vinarithi asili hiyo na vinaweza kukosa uhalali pale matumizi yanatofautiana katika vipimo muhimu. Mpangilio wao pia ulishindwa wazi kuliko kigawanyaji kilichoboreshwa kilichofunzwa na data iliyoainishwa na wataalam (macro-F1 0.673 dhidi ya 0.76), ikiacha makusanyo yenye lebo za wataalam kuwa ya thamani wakati ujasiri wa hali ya juu unahitajika.
+- **Msingi wa ushahidi wenyewe umegawanyika kwa njia isiyo sawa.** Mapitio ya upeo wa masudio 407 ya tathmini ya uundaji inayosaidiwa na teknolojia yalitumia Web of Science na Scopus tu. Pia yalitia nje kumbukumbu 61 kwa vigezo vya lugha, hivyo usawa wa kijiografia ambao uwanja unaripoti unaweza kuakisi kwa sehemu ni vyombo gani vimeorodheshwa ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 
 ## Tatizo la kasi: AI inabadilika haraka kuliko matokeo
 
@@ -109,6 +111,22 @@ Kikwazi kingine, cha vitendo, ni **changamoto ya kutumia utafiti kwa [[teacher-r
 
 Kusudi la hifadhi hii ya maarifa ni kusaidia kufunga pengo hilo — kufanya iwe rahisi kuendelea, kutafsiri, na kutumia utafiti wa AI katika elimu kwa mazoezi — kwa kuandaa matokeo ya ufikiaji huria katika muhtasari uliopangwa, unaoweza kufikiwa, kuunganisha kazi zinazohusiana kupitia [[ai-education|kurasa za dhana]], na kubainisha vizingiti ambavyo wasomaji wanapaswa kupima. Inakusaidia kusaidia mazoezi yanayotegemea ushahidi katika kufundisha na kubuni kufundisha, na kwa kufanya hivyo pia kufichua mianya na maswali ambayo yanaweza kuelekeza utafiti na maendeleo mapya. Kuelewa vikomo vya utafiti kwa hivyo si lengo lenyewe: ndicho kinachoruhusu watekelezaji kutumia matokeo ipasavyo na kuruhusu watafiti kubuni masudio yenye nguvu zaidi ambayo yanahudumia mazoezi vizuri zaidi.
 
+## Mitego Miwili ya Ukaguzi Inayostahili Kujulikana
+
+Mbinu mbili mahususi za kuripoti zinapandisha au kupotosha muunganisho, na zote zinaonekana katika kumbukumbu iliyochapishwa badala ya kuwa za kudhaniwa.
+
+**Kielelezo cha kutokubaliana kinategemea mfano, na mfano mara chache hunukuliwa.** Kutokubaliana kwa mapitio moja kunanukuliwa kama **I² = 82.98% chini ya mfano wa athari thabiti na I² = 15.75% chini ya mfano wa athari za nasibu**. Hizo zinaelezea data zile zile. Msomaji anayechukua namba moja ya kutokubaliana bila mfano wake amepewa dai la kiufundi lisilo na tafsiri, na tofauti kati ya "tofauti nyingi hazijaelezewa" na "tofauti chache hazijaelezewa" ni tofauti kati ya kukataa na kuamini uwanja.
+
+**Asilimia kuu inaweza kuwa zao la maneno ya utafutaji.** Katika mapitio ya upeo wa masudio 195 ya elimu ya walimu, ujuzi wa kidijitali na [[tpack|TPACK]] vilikuwa vivigezi wazi vya utafutaji wakati ubuni wa kufundisha na tathmini hazikuwa na kitu kinacholingana, hivyo **46.5% na 1.9%** zinazoripotiwa zinaelezea mkakati wa upataji kabla ya kuelezea uwanja. Dai la kiwango cha matukio lina maana kwa kadiri swali lililozalisha mkusanyiko linavyokuwa na maana.
+
+**Na kiwango cha msingi ni namba ambayo hakuna anayeitaja.** Vizingiti vya mbinu hapa vinapimwa badala ya kuwa hisia: katika mapitio mahususi ya masudio 80 ya HCI kuhusu ufikiri mahususi na AI, **42 (52%) hayakuruhusu kikundi cha kudhibiti** na mengi kati ya yaliyosalia yalitegemea kujitangaza. Wakati zaidi ya nusu ya matokeo chanya ya uwanja yanatoka kwenye miundo ambayo haiwezi kutenganisha athari ya AI kutoka shughuli ya kawaida, dhana inayofaa kwa ugunduzi wowote mmoja ni kutilia shaka, si kukubali kwa muda.
+
+## Dhana Potofu za Kawaida
+
+- **"Sehemu za vizingiti ni maneno ya kawaida."** Vizingiti vya mbinu **vinapimwa badala ya kuwa hisia**: katika mapitio mahususi ya **masudio 80 ya HCI** kuhusu ufikiri mahususi na AI, **42 (52%) hayakuruhusu kikundi cha kudhibiti**. Hesabu sahihi ndiyo inayofanya kizingiti kiwe cha kutekelezwa.
+- **"Kutokubaliana ni namba moja unayoweza kunukuu."** Mapitio yale yale yanaonyesha hatari ya kuripoti: kutokubaliana kunanukuliwa kama **I² = 82.98% chini ya mfano wa athari thabiti na I² = 15.75% chini ya mfano wa athari za nasibu**. Data zile zile hutoa simulizi la pointi tisa au la pointi mbili kutegemea mfano uliochaguliwa, hivyo I² iliyonukuliwa bila mfano wake haiwezi kutafsirika.
+- **"Athari kubwa iliyoripotiwa ni namba ya kuamini."** Kichwa kama athari kutoka **wanafunzi 30 katika kozi moja katika eneo moja** ni muundo wa kawaida wa dai dhaifu, na hesabu ya masudio yasiyokuwa na vidhibiti inaonyesha jinsi udhaifu huo mara nyingi hauripotiwi.
+
 ## Dhana Zilizounganishwa
 
 - [[interpreting-and-applying-aied-research]]
@@ -152,3 +170,4 @@ Kusudi la hifadhi hii ya maarifa ni kusaidia kufunga pengo hilo — kufanya iwe 
 - [[digital-competence-ai-responsive-pedagogy-2026]] — Mapitio ya upeo wa masudio 195 ya elimu ya walimu ambapo ubuni wa tungo za utafutaji unaunda mzunguko ulioripotiwa
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Dodoso ya walimu wa K-12 ya kanda nyingi: vitu vilivyotafsiriwa na mashine, vipimo vya wasiwasi vya kitu kimoja, hakuna upimaji wa kutokubaliana
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Mapitio ya kimfumo ya masudio 103 ya GenAI ya elimu ya juu: 56% mafanikio ya masharti, alama zikificha mabadiliko ya mchakato (Hawi & Samaha 2026)
+- [[automated-essay-scoring-critical-thinking-physics-2026]] — Uongezaji wa data unaweza kutengeneza kipimo kikuu

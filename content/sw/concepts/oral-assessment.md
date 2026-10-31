@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/oral-assessment
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -61,6 +61,8 @@ Umbile katika mkusanyiko zinatandaza mfululizo mpana wa otomatiki na ulinganifu 
 
 **Ushahidi wa mdomo kama utetezi badala ya uchunguzi.** [[tool-invariant-framework-agentic-ai|Mfumo wa tathmini usio na mabadiliko ya zana]] hufunga dodoso za ndani ya darasa bila AI na utetezi wa mdomo wa dakika kumi ya kazi zilizosaidiwa na AI zenye maelezo yaliyoondolewa, zilizopangwa kwenye ufahamu wa msimbo, ufahamu wa mbinu, istilahi, tafsiri na uthibitishaji, ukitaka uthibitishaji kupitisha bila kujali jumla. Muundo unadaiwa badala ya kuthibitishwa; hesabu ya karatasi yenyewe kwa wanafunzi 15 ni saa mbili na nusu za mawasiliano kwa kila kazi na takribani saa 28 za mawasiliano kwa muhula katika kazi 11 zinazotetelewa.
 
+Muundo wa mwingiliano huamua kile kazi ya kuzungumza inayopatanishwa na AI inaweza kuthibitisha. Kazi za mazungumzo za Duolingo English Test, 713 kati yao katika jaribio la awali, zilihitaji uteuzi wa majibu badala ya mazungumzo yanayoitikia, jambo ambalo wakaguzi wanadai kutolinganisha mahitaji ya kiakili ya kazi na kigezo ambacho mtihani unadai kupima ([[ai-second-language-listening-speaking-assessment-2025|Goh na Aryadoust (2025)]]).
+
 ## Wasiwasi, upendeleo, na ni nani ambaye umbile inamdhalilisha
 
 Orals zinadaiwa kwa misingi ya ujumuishaji, kwa sababu jibu la kusema ni ngumu kununua kuliko la maandishi, na zinapingwa kwa misingi yale yale. [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton]] anayorodha changamoto moja kwa moja: mzigo wa kupanga ratiba, wasiwasi, na upendeleo kwa jinsia, kabila, lugha na kasi ya kujibu, pamoja na athari za kupanga bila utambulisho. Dhidi ya hilo, ushahidi ambao karatasi inarejea unapendekeza kuwa orals zinaweza kuwa za ujumuishaji kama mitihani ya maandishi, ikijumuisha wanafunzi wenye dyslexia, na kuwa kutokujua badala ya umbile yenyewe ndiyo inayosababisha wasiwasi wengi waliyoripotiwa; wanafunzi katika somo moja lililorejelewa walikuwa na wasiwasi mdogo zaidi kwa mitihani yao ya baadaye ya mdomo.
@@ -76,6 +78,16 @@ Uchunguzi watatu hupunguza kusoma alama za mdomo kama faida za kujifunza. [[asyn
 Kizuizi kinachofunga ni wafanyakazi na vifaa badala ya mbinu za kufundisha, na mkusanyiko ni wa kweli kwa kiwango cha kushangaza juu ya hesabu: saa 28 za mawasiliano kwa muhula kwa wanafunzi 15, wasaidizi 11 wa kufundisha kwa darasa la zaidi ya mia moja katika muundo wa CS1, na kompyuta moja inayowatumia wanafunzi 12 wa wakati ule ule katika utekelezaji wa ufundi wa nje ya mtandao. Hakuna jaribio la nasibu la tathmini ya mdomo dhidi ya ya maandishi lililopo mahali popote katika kaya hii ya kazi, na kila somo linalopima tofauti ni muundo wa taasisi moja bila kikundi cha kudhibiti. Tathmini ya mdomo inasaidiwa vizuri kama jibu la kubadilishwa kunasaidiwa na AI, na inasaidiwa kidogo kama maboresho katika kujifunza.
 
 - **Kikomo cha kiwango ni kizuizi cha kubuni.** Katika warsha ya waelimishaji 73 wa [[cs-education|kompyuta]], tathmini ya mdomo na ya mwingiliano iliripotiwa kama ushahidi thabiti zaidi unaopatikana wa ufahamu wa mtu binafsi na dawa ndogo zaidi ya kupanda; mipango ya kupunguza ambayo washiriki walieleza ilikuwa usambazaji na sampuli — mabwawa ya pamoja ya wasaidizi wa kufundisha, tathmini ya marika iliyowekwa chini ya mtihani wa mwisho, na kuwaita kwenye sehemu ndogo ya wanafunzi inayozunguka ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+Hakuna muundo unaoshikilia nafasi isiyobadilika katika mabadilishano haya: uonekano wa tathmini ya mdomo ni chaguo la ubuni, na gharama yake ya uwezekano ni ile ambayo programu inaigawa badala ya kuikubali, kwamba uwezekano ni kipaumbele cha kielimu, si kikwazo kinachomomonyoa mazoezi mazuri ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
+
+Sababu ya uadilifu ya mdomo pia ina kikomo cha muda: [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al. (2026)]] wanadai kwamba miwani na vipokea sauti vya AI vinaweza kuwasilisha vidokezo vya siri vya wakati halisi ndani ya viva ya moja kwa moja, kwa kuwa AI inayovaliwa haizalishi mabadiliko ya mtazamo au ishara inayotambulika, hivyo viva za mwingiliano haziko tena salama.
+
+## Dhana Potofu za Kawaida
+
+- **"Tathmini ya mdomo haiwezi kupanuka."** Katika [[code-review-genai-cs1|masudio ya ukaguzi wa msimbo wa mdomo wa CS1]], **mahojiano ya dakika kumi na tano kila wiki yalibeba asilimia sabini ya alama ya kila kazi**, na uwiano wa herufi zilizopachikwa kwa jumla bado ulibaki na maana. Gharama ni halisi na ubuni unatekelezwa katika kiwango cha kozi.
+- **"Mitihani ya mdomo ni laini zaidi kuliko ya maandishi."** Katika jaribio lililoripotiwa, alama **zilizidi zile za mitihani ya chaguo nyingi ya ana kwa ana: wastani wa mtihani wa kati 92.5 dhidi ya 70 (p < .001) na wastani wa mwisho 94.2 dhidi ya 86.4 (p = .002)**. Tathmini ya mdomo haikuwa chaguo la upole.
+- **"Kukutana kwa uigaji ni sawa na kesi zinazofichua hatua kwa hatua."** Katika [[ai-standardized-patient-scaffolding-medical-2026|jaribio la nasibu linalodhibitiwa na wanafunzi mia moja wa mwaka wa tatu wa tiba]] mfumo wa mgonjwa aliyeigwa ulilinganishwa **na nyenzo za kesi zinazofichua hatua kwa hatua**, jaribio la moja kwa moja la usawa badala ya dhana yake.
 
 ## Dhana Zilizounganishwa
 
@@ -105,3 +117,6 @@ Kizuizi kinachofunga ni wafanyakazi na vifaa badala ya mbinu za kufundisha, na m
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
 - [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[ai-second-language-listening-speaking-assessment-2025]] — Kazi za mazungumzo ya AI zisizo na matawi hazioanishi mahitaji ya kazi na kigezo cha kuzungumza
+- [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Viva za moja kwa moja haziko tena salama: miwani na vipokea sauti vya AI huwasilisha vidokezo vya siri vya wakati halisi (Corbin, Sharpe & Dawson 2026)
+- [[assessment-feedback-trilemma-model-2026]] — Haipi muundo wowote nafasi isiyobadilika na inabadilisha uwezekano kuwa kipaumbele cha kielimu

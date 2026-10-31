@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,16 @@ Faragha inaweza kujengwa katika mtiririko badala ya sera: kifaa cha kugundua mat
 5. **Eleza mapendekezo katika lugha ya somo la mwalimu.** Vipengele vya AI vya jukwaa hupata uaminifu na kupokelewa maelezo yao yanapoeleweka na yenye maana ya kieledu: katika jaribio la ndani ya mtu na zana ya kupendekeza makundi ya AI (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] walipata maelezo yanayoendeshwa na somo yaliyowekwa katika lugha ya mitaala yaliongeza ufahamu, uaminifu, na ukubali wa walimu kwa kiasi kikubwa zaidi kuliko maelezo ya umuhimu wa kipengele ghafi — na kuwa matumizi halisi ya darasa bado yalikuwa muhimu kwa ukubali kamili.([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Tenga mfumo unaozalisha ushahidi na ule unaoutathmini.** Wakati mawakala wanaweza kumaliza kozi kwa niaba ya mwanafunzi, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]] anadai jukwaa lazima litoa ushahidi wa wakati wa sasa, unaoweza kukaguliwa, wa mantiki ya mwanafunzi na halipaswi kuwa mtathmini wake pekee — mazingira, mtoaji, na mthibitishaji yanapaswa kuwa huru.([[credentials-carry-evidence-ai-agents-2026]])
 7. **Zalisha uwakilishi wakati wa ubini, si wakati wa utekelezaji.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] wanadai kubadilika wakati wa utekelezaji hakuwezi kuthibitishwa kwa kiwango kikubwa na wanapendekeza kusimamia maudhui kama kadi za maana zisizo na muktadha, ambazo tofauti za mwingiliano, sauti, maandishi yaliyorahisishwa na bandwidth ndogo huzalishwa na kukubaliwa na mwalimu kabla ya kutoa — ikiondoa gharama ya utabiri kwa kila mwanafunzi, ingawa hakuna kiolezo kilichoripotiwa.
+
+## Dhana Potofu za Kawaida
+
+**"Ikiwa jukwaa lina ufanisi kimsingi, wanafunzi watalitumia."** Uwezo na matumizi ni matatizo tofauti, na matumizi mara nyingi ndiyo yanayofunga. Katika RCT ya nguzo ya miaka miwili, **96% ya wanafunzi walijaribu Khanmigo**, matumizi karibu ya jumla, hata hivyo mwanafunzi wa wastani alituma ujumbe kwake katika **17% tu ya vipindi ambapo alifanya kosa**, wakati hasa ambao zana ilijengwa kwa ajili yake. Jukwaa linaloandika darasa haliwezi kuibadilisha.
+
+**"Upitishaji hupimwa kwa kuingia."** Pengo lenye taarifa liko katika ngazi ya ujumbe, si ngazi ya akaunti. Katika jaribio lile lile **takriban 14.5% tu ya jumbe zilibeba swali halisi la kihesabu**. Asilimia 96 ya wanafunzi walizalisha tukio la ufikiaji; takriban mmoja kati ya saba wa mwingiliano wao ulifanya kazi ya kiakili. Kuripoti takwimu ya kuingia hapa kungeelezea mafanikio ambayo hayakuwepo.
+
+**"Wazi dhidi ya miliki ni maelezo ya leseni yasiyoathiri matokeo."** Muundo wa jukwaa unaunda kile taasisi zinazoweza kufanya na mfumo: majukwaa ya [[open-source|wazi]] kama OATutor, mkufunzi unaobadilika wenye leseni ya MIT na maktaba ya maudhui ya algebra ya Creative Commons, [[knowledge-tracing|ukadiriaji wa umahiri]] na upimaji wa A/B uliojengwa ndani, huruhusu idara kupima na kubadilisha mbinu zake za kufundisha, jambo ambalo jukwaa lililofungwa haliwezi. Leseni huamua nani anaweza kufanya jaribio.
+
+**"Jukwaa linalofanya kazi katika taasisi moja litafanya kazi kama lilivyopitishwa."** Athari za jukwaa hupitia utawala wa ndani: usanifu unaotanguliza faragha, upunguzaji wa data, kumbukumbu zinazoweza kukaguliwa na ufikiaji unaotegemea jukumu ndivyo vinavyofanya jukwaa lililounganishwa na AI liweze kutumika kabisa, na ni maamuzi ya kitaasisi badala ya vipengele unavyoweza kudhania kutoka onyesho la muuzaji.
 
 ## Dhana Zilizounganishwa
 

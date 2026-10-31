@@ -8,7 +8,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -61,6 +61,16 @@ Nakala za kukanusha ni mwanachama mmoja ya zana ya mabadiliko ya dhana, pamoja n
 ### Athari za vitendo
 
 Kwa waelimishaji, nakala za kukanusha zinabaki njia ya kuaminika, yenye kikomo kidogo ya kurekebisha dhana potofu zinazopinga. Kwa wale wanao jumuisha AI, ushahidi unapendekeza: (1) tumia AI *kuzalisha* maudhui yenye ufanisi ya kukanusha/mabadiliko ya dhana kwa kipimo kikubwa; (2) pale inawezekana, toa kukanusha kupitia mazungumzo ya kibinafsi ya AI kwa mahusiano ya haraka na mabadiliko ya imani yenye nguvu zaidi; (3) tarajia dhana potofu zilizozalishwa na AI kuwa za manufaa ya kielimu zinapotumika mjadala wenye muundo ili kuzishughulikia; na (4) buni kwa mwanafunzi — athari za kukanusha zinaweza kukusanyika kwa wanafunzi wenye mafanikio makubwa na kudhibitiwa na epistemology na metaji, hivyo ngazi za msaada na ufuatiliaji yanamuhimu.
+
+## Dhana Potofu za Kawaida
+
+**"Kurekebisha dhana potofu kunamaanisha kuwasilisha jibu sahihi."** Kama ingekuwa hivyo, dhana potofu zisingeendelea baada ya mafundisho, na zinaendelea mara kwa mara. Dhana potofu si mapengo bali imani zinazoshikiliwa kwa bidii zinazopinga mafundisho ya kawaida: mwanafunzi ambaye tayari ana maelezo yanayofanya kazi haipokei ile mpya kama mbadala, anaipokea kama dai linaloshindana, na mara nyingi hutupa lile lisilojulikana zaidi.
+
+**"Nakala ya kukanusha ni kuandika tu 'hii si sahihi' kabla ya taarifa sahihi."** Muundo ni muhimu: dhana potofu inapaswa kutajwa jinsi mwanafunzi anavyoishikilia, kushughulikiwa moja kwa moja, na ndipo tu kuondolewa. Marekebisho matupu hutaja imani ambayo mwanafunzi anaweza kuikataa kama toleo la majani la lake mwenyewe, ndiyo sababu kukanusha kunapaswa kuakisi hisia yake halisi badala ya toleo lililopangwa vizuri.
+
+**"Taarifa zaidi kuhusu dhana sahihi hutatua upinzani."** Kiasi cha taarifa sahihi ni muingiliaji ambao tayari unashindwa. Mabadiliko ya dhana yanahitaji mfano uliopo wa mwanafunzi kuwekwa wazi na kuonekana kuwa hautoshelezi, ambayo ni hatua tofauti ya kufundisha kutoka kwa kuongeza ushahidi.
+
+**"Dhana potofu na ujinga wa kawaida zinahitaji tiba moja."** Zinahitaji tofauti: ujinga hushughulikiwa kwa kutoa maarifa, na dhana potofu inapaswa kuondolewa kwanza. Kuchukulia ya pili kama ya kwanza ndiyo sababu somo lililoelezwa vizuri linaweza kuacha mfano wa awali wa mwanafunzi ukiwa kama ulivyo.
 
 ## Dhana Zilizounganishwa
 - [[pedagogical-patterns]] — Mifuatano ya kukanusha, ikijumuisha matokeo mawili yanayopingana moja kwa moja

@@ -12,7 +12,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,7 @@ Mtindo huo unajirudia kwenye kazi tofauti sana:
 - **Uaminifu wa tathmini, kwa urahisi.** Kifaa kimoja cha LoRA kilichofunzwa kwa takriban mifano 3,900 ya alama zilizokusanywa kiliwafikisha mifano madogo mitano ya wazi (4B–30B) kwenye usawa au bora kuliko mwanadamu anayewapa alama katika mitihani miwili ya sayansi ya kompyuta, na karibu kusawazisha unyeti wa persona (kushika ≤ 0.32 MAE) ([[llm-graders-computer-science-exams-2026]]). Kifaa kimoja, seti moja ya data, mifano kadhaa ya msingi — huu ni muundo wa matumizi ya vitendo.
 - **Uotomatiki wa kuchagua.** Ujasiri ulikuwa kiashiria cha kuaminika cha kosa la kupima alama (β = −0.602, p < .001). Kuelekeza majibu yasiyo na ujasiri wa **20%** kwa uhakiki wa binadamu kulisogeza mfano wa GPT-3.5 uliorekebishwa kutoka r = 0.781 hadi **r = 0.822** (RMSE 0.5990 → 0.5544) huku ikipunguza kazi ya kupima kwa mkono kwa takriban **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]). Urekebishaji mahususi hapa hauchukui nafasi ya binadamu; inafanya uangalifu wa binadamu kuwa na gharama nafuu.
 - **Kupima dhana ambazo vingine ungepima kwa mkono.** Transfoma za Kihungari zilizorekebishwa (hubert-base-cc, PULI-BERT-Large) zililinganishwa na vipimo vya TF-IDF na embeddings za Qwen3 kwa kupima alama uandishi wa tafakari katika [[teacher-education|mafunzo ya walimu]] ([[reflection-level-classification-hungarian-essays-2026]]), na mfano wa mtandaoni wenye njia nyingi uliorekebishwa (uliotokana na Qwen3.5) ulionyesha kuwa unaweza kujenga upya mikondo ya sifa za kitu kwa maswali ya chaguo nyingi, ukijifunza mitindo ya majibu yaliyoandikwa katika mikondo ya 3PL na MCM badala ya kuambiwa ([[multimodal-item-parameter-estimation-2026]]).
+- **Data iliyopangwa kwa [[curriculum-design|mtaala]] ni nafuu kwa sampuli.** Chini ya bajeti iliyolinganishwa ya takriban sampuli 2,300, urekebishaji mahususi kwa jozi za swali na jibu zilizotokana na [[knowledge-graph|grafu ya maarifa]] ya K-12 ya vitabu vya People's Education Press ulishinda vipande vya ukubwa sawa vya korpora nane kuu za maelekezo, na faida zilihamishwa zaidi ya masomo yaliyofunzwa, ushahidi kwamba muundo wa mtaala ndio unaotofautisha data ya mafunzo ya kielimu ([[liang-k12-kgraph-curriculum-knowledge-graph-2026|Liang et al. (2026)]]).
 
 ## Marekebisho yanayoboresha ufanisi wa vigezo kwa vitendo
 
@@ -151,6 +152,16 @@ Umetolewa kutoka ushahidi uliopo juu, katika mpangilio unaozuia kupoteza nguvu y
 
 Ukurasa huu ni mwenzake wa *jinsi mfano unavyofanywa* ya [[llm]], ambayo inashughulikia mifano mikubwa ya lugha ni nini na jinsi inavyotenda. Inatia chini ya [[ai-technologies]] kama nodi ya mafunzo-na-marekebisho, kando ya [[rag]] (mbadala wa upatikanaji ambao kwa kawaida huja kwanza), [[prompt-engineering]] (kigeuzi cha bei rahisi zaidi), na [[reinforcement-learning]] (nusu ya RL ya mafunzo ya baadae). Matokeo yake hulisha [[intelligent-tutoring]] na [[adaptive-learning]]; matumizi yake ya kielimu ya kawaida zaidi ni [[automated-assessment]], [[automated-essay-scoring]] na [[ai-feedback-quality]]; na jamaa zake wa dhana walioko karibu zaidi ni [[educational-nlp]], [[simulating-students]], [[open-source]] na [[student-modeling]]. Hatari inazozalisa zinaoshikiliwa na [[pedagogical-safety]], [[ai-sycophancy]], [[hallucination-risk]] na [[privacy]].
 
+## Dhana Potofu za Kawaida
+
+- **"Urekebishaji mahususi ndiyo njia ya kufanya mfano uwe mzuri kwa kazi yako."** Upataji na uundaji wa ilani huja **mapema katika mpangilio wa maamuzi**, na tokeo lililo wazi zaidi la hifadhi ya maarifa ni kwamba mafunzo ya baadae ni **chaguo la tatu, si la kwanza**. Kurekebisha mfano kwa data ya tathmini kuliboresha **muundo na ufanano** wakati urekebishaji mahususi tofauti **ulishindwa kabisa kuzalisha maoni**; mbinu ilibadilisha uso na si umahiri.
+
+- **"Mfano ndio kigezo kikuu cha faida za kujifunza."** Chaguo la mfano na la ilani huchangia **takriban 15%** pekee ya pengo kati ya LLM na faida za kujifunza za mwanafunzi. Kuboresha 85% iliyobaki ndipo kazi ilipo, na haiko katika uzito.
+
+- **"Mfano wa ndani utafanya vibaya kuliko ule unaohudumiwa, hivyo upataji ni kianzio kidogo."** Katika tathmini ya usanidi tatu, **upataji, si mfano, ulikuwa uamuzi wa kwanza wa muundo**: LLM ya ndani **bila upataji ilifikia usahihi wa 52.3% pekee, chini ya msingi wa TF-IDF**. Kuongeza upataji kulikusogeza mfano ule ule kupita kizingiti ambacho hakuna kubadilisha mfano kungefikia peke yake.
+
+- **"Data zaidi ya mafunzo inamaanisha tabia bora ya kufundisha."** Urekebishaji mahususi wa tathmini ulioboresha muundo huku ukiboronga uzalishaji wa maoni ni mfano mdogo wa kinyume: uboreshaji dhidi ya lengo linalofanana kwa uso unaweza kuboresha mbadala na kudhoofisha kile ulichokitaka.
+
 ## Dhana Zilizounganishwa
 
 - [[llm]] — mifano hii ni nini; ukurasa huu ni jinsi yanavyofanywa
@@ -179,6 +190,7 @@ Ukurasa huu ni mwenzake wa *jinsi mfano unavyofanywa* ya [[llm]], ambayo inashug
 - [[ai-education]] — uwanja ambao kazi hii inahudumia
 
 ## Makala Zilizounganishwa
+- [[liang-k12-kgraph-curriculum-knowledge-graph-2026]] — Data iliyopangwa kwa mtaala ni nafuu kwa sampuli
 
 - [[singh-eduqwen-pedagogical-rl-2026]] — mchakato wa RL–SFT–RL: 96.52% kwenye CDPK, kupita Gemini-3 Pro
 - [[learnlm-improving-gemini-learning]] — kufuata maelekezo ya kipolojia ndani ya mafunzo ya baadae ya Gemini

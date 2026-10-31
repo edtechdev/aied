@@ -5,7 +5,7 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-10-13T05:35:00-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,16 @@ Mazoezi ya uthibitisho ni chanzo kingine cha ujasiri kupita kiasi. [[schuetze-kn
 ## Elimu ya walfunzi na ujuzi wa kujifunza kwa mashine
 
 Kujifunza kwa mashine pia huonekana katika elimu kama *somo*. Katika [[microbit-robotics-machine-learning-teacher-training-2026|mafunzo ya awali ya walfunzi]], uingiliaji wa vitendo wa upangaji na roboti ukitumia Micro:bit na miradi ya ugawaji wa picha ya usimamizi viliboresha kwa kiasi kikubwa maarifa ya walfunzi wajio wa dhana za kikokotozi na kujifunza kwa mashine cha utangulizi, na mitazamo yao ya kukifundisha. Kadiri [[ai-literacy|ujuzi wa AI]] unavyoingia katika mitaala, kuwapa [[teacher-education|walfunzi]] ufahamu wa kazi wa kujifunza kwa mashine kunakuwa sharti la kuwafundisha wanafunzi. Njia tofauti inafikia dhana zile zile bila programu yoyote: katika [[sung-ai-literacy-unplugged-ml-k12-pd-2026|maendeleo ya kitaaluma ya mtandaoni ya Sung na Gunpinar (2026)]], waelimishaji kumi wa K-12 walijenga "matrix ya vipengele inayoweza kufasiriwa" kwa mkono — jedwali la ndiyo/hap ya vipengele vya umbo ambalo *ni* mgawanyi, inayoweza kujaribiwa na kurekebishwa badala ya isiyo na uwazi — na mchezo wa kupanga wa Code.org na Google Slides vikiwa zana pekee. [[self-efficacy|Uwezo binafsi wa AI]] wao ulipanda kutoka wastani chini (M = 3.13) hadi wastani juu (M = 3.71) na maelezo hasi katika kazi ya uhusiano wa maneno yalishuka kutoka 30% ya washiriki hadi hakuna, ingawa ushahidi ni mdogo, usio na kudhibiti, na [[self-report-measures|unajitangaza wenyewe]] kabisa.
+
+## Dhana Potofu za Kawaida
+
+**"Utabiri sahihi unahitaji mfano usiofafanuka."** Uwezekano wa kufasiriwa na utendaji vinaweza kutenganishwa zaidi ya dhana hiyo inavyoruhusu. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries na Koprinska (2025)]] wanaonyesha kuwa miti ya maamuzi inayoweza kufasiriwa kwa asili, **iliyopunguzwa hadi nodi 3-5 za majani tu**, inashikilia nafasi yake katika utabiri wa maendeleo ya mwanafunzi katika upangaji programu. Pale mti wa nodi tano unalingana na sanduku jeusi kwenye kazi yako, sanduku jeusi linanunua kutokufafanuka badala ya usahihi, na katika mazingira ya kielimu ambapo uamuzi unapaswa kuelezewa kwa mwanafunzi, sanduku la kioo ni biashara bora.
+
+**"Kujifunza kwa mashine katika elimu ni teknolojia ya utabiri isiyoegemea upande."** Matumizi yake hubeba kushindwa kwa utawala wa nidhamu pamoja nayo, na uangalizi wa mitihani ndio kesi iliyo wazi zaidi: mfano unaodhania jambo kuhusu mwanafunzi kutoka kwa ishara za tabia au za kisaikolojia unatoa tuhuma yenye alama ya kujiamini iliyoambatishwa, na msingi wa ushahidi wa udhania huo ni dhaifu zaidi kuliko kiwango cha utekelezaji kinavyoonyesha.
+
+**"AI ya kizalishaji imefanya kujifunza kwa mashine cha zamani kuwa kisichotumika katika elimu."** Wanafanya kazi tofauti. Utabiri wa hali za mwanafunzi, ukadiriaji wa ugumu na utabiri wa maendeleo bado ni matatizo ya ML ya zamani, na fasihi ya kufuatilia maarifa na ya kurekebisha vipengele ambayo hifadhi hii ya maarifa inaandika haihudumiwi na mfano wa lugha. AI ya kizalishaji ni sehemu ndogo ya kujifunza kwa mashine badala ya mbadala wake.
+
+**"Elimu ya walimu inapaswa kuwafundisha wanafunzi kuhusu LLM badala ya kujifunza kwa mashine."** Kuweka ujuzi ndani ya tabaka la kizalishaji tu huwaacha wataalamu hawana uwezo wa kuhoji mifumo ya utabiri inayofanya maamuzi kuhusu wanafunzi wao, ambapo makosa yenye matokeo makubwa hukusanyika.
 
 ## Dhana Zilizounganishwa
 - [[student-modeling]]

@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -73,17 +73,17 @@ Kwa maelezo haya, wataalam wanaouliza "lengo la kufundisha katika ulimwengu wa G
 
 ### Mwongozo wa vitendo kwa wabuni wa programu
 
-Kwa wasanidi programu za wataalam, viongozi wa kitaaluma, na [[stakeholders|wabuni wa mafunzo]] wanaopanga maendeleo ya kitaalamu ya [[professional-training|AI]], ushahidi wa hifadhi ya maarifa unapendekeza:
+Kwa wasanidi programu za wataalam, viongozi wa kitaaluma, na [[stakeholders|wabuni wa mafunzo]] wanaopanga maendeleo ya kitaalamu ya [[educational-development|AI]], ushahidi wa hifadhi ya maarifa unapendekeza:
+**Taja hali ya kushindwa, si ukubwa wa athari peke yake.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe na Martínez-Pérez (2026)]] wanaiita uvumbuzi wa kughushi: uwepo wa zana unaashiria maendeleo, muundo wa kufundisha na tathmini unabaki kama ulivyo, viwango vya kupitishwa na dashibodi huchukua nafasi ya kujifunza, na mzunguko wa kutolewa kwa teknolojia unaweka mwelekeo. Uchunguzi wao unaiomba programu ya maendeleo kuhalalisha kila zana dhidi ya tatizo lililotajwa la kujifunza kabla ya kuipitisha.
 
 **Shughulikia vichochezi vinne vya kupitishwa, si maarifa tu.** Kujiamini, mitazamo, msaada, na wasiwasi unatabiri kama wataalam wanatumia AI kweli — warsha ya maarifa tu inayopuuza hivi haiwezi kubadilisha mazoezi. Buni maendeleo kujenga kujiamini kupitia matumizi ya vitendo, toa msaada unaoendelea (si mafunzo ya mara moja), na leta wazi na kujibu wasiwasi wa wataalam kwa njia ya kazini.([[teacher-ai-adoption-confidence]])
 
-
 Kujiamini na ujuzi si malengo yanayoweza kubadilishwa: katika SEM ya wanafunzi 502 wa wataalam wa chuo kikuu, ujuzi wa AI ulikuwa mtabiri mkuu wa ustawi wa AI (β = 0.713) huku [[self-efficacy|ujuzi binafsi wa kiteknolojia]] ukichangia kidogo (β = 0.082), na msaada ukifika ustawi tu kwa njia isiyo ya moja kwa moja ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 **Chukua mahitaji ya miongozo na ufaa wake kama matatizo tofauti.** Wataalam katika chuo kikuu kimoja walisaidia kwa nguvu hatua za taasisi dhidi ya matumizi ya maadili ya AI (M = 4.59) huku wakipima miongozo iliyopo kuwa ya chini zaidi (M = 2.99), na walitaja faragha ya data na ujumuishaji wa kitamaduni kama maarifa yao dhaifu zaidi - lengo halisi la maendeleo ya kitaalamu ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
 **Chukua utayari kama tatizo la upatanishi wa kiteknolojia-jamii.** [[sangwa-epiq-ai-faculty-readiness-2026|Mfumo wa EPIQ-AI]] unaonyesha kuwa utayari wa wataalam unashika vikoa vya maarifa, kielimu, taasisi, na ubora-na-utio. Programu zinazofundisha tu mtu binafsi hukosa nguzi za taasisi (sera, mzigo wa kazi, motisha, viwango vya ubora) zinazowezesha au kuzuia mabadiliko — zilinganishe pamoja na mafunzo.([[sangwa-epiq-ai-faculty-readiness-2026]])
+
 **Usichukue uwekezaji wa miundombinu sawa na mageuzi.** Katika masudio 125, uwekezaji wa taasisi katika miundombinu ya GenAI na maendeleo ya kielimu ulihusiana kwa udhaifu tu na mabadiliko halisi ya kielimu (r = 0.12), huku 60–70% ya wakufunzi wakihisi hawajatayari kuunganisha GenAI — na hivyo kufanya maendeleo, si manunuzi, kuwa kizuizi kinachofunga.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
 
 **Jenga kuelekea kubuni upya mitaala, si kupitishwa kwa zana.** Lengo ni wataalam kubuni upya kozi na tathmini, si kuongeza tu zana za AI. Weka msingi wa maendeleo ya kitaalamu katika kazi ya kubuni upya kwenye kiwango cha kozi na mageuzi ya tathmini, na wape wataalam miundo iliyopangwa ya kufanya hivyo (mfano [[ai-assessment-scale-reform|skela za tathmini]], [[institutional-change-framework-ai|miundo ya mabadiliko ya taasisi]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
@@ -173,3 +173,4 @@ Kujiamini na ujuzi si malengo yanayoweza kubadilishwa: katika SEM ya wanafunzi 5
 
 - [[faculty-ai-well-being-social-supports-2026]] — Ustawi wa AI wa wataalam unafuatilia ujuzi wa AI badala ya ujuzi binafsi wa kiteknolojia
 - [[ai-competence-framework-landscape-2026]]
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Je, elimu inaweza kuweka ajenda ya AI? Uvumbuzi wa kughushi na mwelekeo wa ufundishaji katika elimu ya walimu

@@ -2,7 +2,7 @@
 title: "DeepTutor"
 created: "2026-10-13T06:45:00-04:00"
 type: resource
-summary: "The open-source release of the DeepTutor agentic tutoring framework: one workspace for tutoring, question generation, mastery practice, research and visualization, with inspectable learner memory."
+summary: "Toleo la chanzo huria la mfumo wa ualimu wa wakala wa DeepTutor: nafasi moja ya kazi kwa ualimu, uzalishaji wa maswali, mazoezi ya umahiri, utafiti na taswira, pamoja na kumbukumbu ya mwanafunzi inayoweza kukaguliwa."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
 resource_type: [software, collection of tools]
@@ -42,7 +42,7 @@ Wanachuo wa elimu ya juu na watafiti wanaotaka toleo la kupeleka la mfumo ambao 
 
 ## Vidokezo
 
-Imewezeshwa Apache 2.0, katika toleo 1.6.9 kuanzia Septemba 2026 na takriban nyota 40,000 za GitHub. Tathmini iliyochapishwa iliyo nyuma yake — kuboresha kwa wastani wa 10.8% kwenye vipimo vya ubinafsishaji juu ya msingi imara na hoja za kawaida za wakala za ujumla zenye nguvu zaidi ya 29.4% katika mifano mitano ya msingi, kwenye kipimo cha TutorBench — imemuhtasariwa kwenye [[deeptutor|ukurasa wa makala]], na vikomo vyake vinatumika hapa pia. Kama kila mrundo wa AI wa chanzo-wazi, wewe hutoa funguo za mtoa huduma za mfano, na kupeleka kwa eneo-la-kazi au seva kunatarajia Python 3.11 na Node.
+Imewezeshwa Apache 2.0, katika toleo 1.6.9 kuanzia Septemba 2026 na takriban nyota 40,000 za GitHub. Tathmini iliyochapishwa iliyo nyuma yake — kuboresha kwa wastani wa 10.8% kwenye vipimo vya ubinafsishaji juu ya msingi imara na hoja za kawaida za wakala za ujumla zenye nguvu zaidi ya 29.4% katika mifano mitano ya msingi, kwenye kipimo cha TutorBench — imemuhtasariwa kwenye [[zhao-deeptutor-agentic-personalized-tutoring-2026|ukurasa wa makala]], na vikomo vyake vinatumika hapa pia. Kama kila mrundo wa AI wa chanzo-wazi, wewe hutoa funguo za mtoa huduma za mfano, na kupeleka kwa eneo-la-kazi au seva kunatarajia Python 3.11 na Node.
 
 ## Dhana Zilizounganishwa
 [[agentic-ai]], [[intelligent-tutoring]], [[personalized-learning]], [[rag]], [[open-source]], [[mastery-learning]], [[knowledge-tracing]], [[automated-question-generation]]

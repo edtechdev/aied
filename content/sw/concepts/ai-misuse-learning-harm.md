@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,8 @@ ai_assist:
 - AI yenye vizuizi ya "dokezo-si-jibu" iliondoa madhara huku ikihifadhi faida. Ingechukua nini kubuni msaada wa AI unaosaidia kujifunza bila kuwa tegemeo?
 
 ## Utangulizi
+
+Matarajio ya madhara yenyewe yanaandikwa: katika data ya dodoso na vikundi lengwa vya Uswidi, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] waligundua asilimia 51 ya washiriki (n = 106) wakiwa na wasiwasi kuwa matumizi ya genAI yanaweza kuzuia maendeleo ya mtu binafsi, wakitaja upotevu wa [[critical-thinking|ufikiri wa kina]], ubunifu na uhuru badala ya kuvunja kanuni.
 
 Matumizi mabaya ya AI ni tofauti na matumizi ya AI. Matumizi yanaelezea kutumia AI kama nyongeza ya kujifunza — [[feedback]], kuzalisha mawazo, au msaada wa marekebisho unaoendelea kumuweka mwanafunzi katika kazi ya kiakili. Matumizi mabaya yanaelezea kubadilisha: kuhamisha kwa AI michakato hiyo hiyo ya kiakili (kuandika, kukumbuka, kuchanganua, marekebisho) ambayo hujenga ufahamu unaodumu. Madhara yaliyorekodiwa katika msingi wa ushahidi wa hifadhi ya maarifa si kuwa matumizi mabaya yanashindwa kusaidia; ni kwamba matumizi mabaya yanaharibu kwa njia inayotenda mafanikio ya baadaye yasiyosaidiwa.
 
@@ -74,7 +76,37 @@ Ufafanuzi wa vitendo muhimu zaidi ni kwamba madhara **yanateua kwa aina ya tathm
 
 Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa zama ya mazungumzo: kutokuwa na mahusiano ya mazungumzo — kumdhalilisha wakala, kujibu kwa makusudi vibaya, kumtenga, kuiga maandishi yake, au kuzuia majibu. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] wanatoa toleo la kwanza la kimfumo la jambo hili katika mazungumzo ya mwanafunzi–AI, na somo lake kuu ni la tafsiri badala ya la tahadhari. *Geugeu* lisilo na mahusiano ni hatua ya mwingiliano, si hali thabiti ya kutokuwa na mahusiano. Uhusiano unaoonekana wa Kujibu Kwa Makosa na alama za baada ya jaribio haukustahimili ukaguzi wa ufahamu wa binadamu, na waandizi wanaisoma kama kuchunguza *ndani ya* njia ambazo mara nyingi hurudi kwenye mahusiano (kikundi chenye utendaji wa juu zaidi kilirudi kwa p = 0.42). Tabia ambayo kweli ilitenganisha njia ilikuwa Kuzuia — kukataa kujibu, ambayo kilidumu badala ya kutatuliwa. Kwa wabuni hii hubadilisha kipaumbele cha kawaida: kutokuwa na mahusiano kwa kelele, kinachoonekana, mara nyingi hujirekebisha, huku kujiondoa kwa utulivu kukiashiria kuwa mwingiliano umevunjika.
 
-## Dhana Zilizounganzwa
+## Dhana Potofu za Kawaida
+
+**"Wanafunzi wangeona kama AI ingekuwa inadhuru kujifunza kwao."** Hawaoni, na hili ni jambo lenye matokeo makubwa zaidi katika ukurasa huu: **wanafunzi katika kikundi kilichodhurika hawakuhisi kuwa walijifunza kidogo.** Kujitangaza kwa hivyo si ishara ya mapema inayoweza kutumika. Muundo wa mazoezi yaliyo juu kwa asilimia 48 na mtihani ulio chini kwa asilimia 17 hauonekani kwa mtu anayeupitia, ndiyo sababu ugunduzi wa madhara unapaswa kutegemea upimaji badala ya ushuhuda.
+
+**"Hatari ni kiasi cha AI anachotumia mwanafunzi."** Hatari ni kile ambacho AI inabadilishwa nacho. Matumizi mabaya hapa yanamaanisha kukabidhi uandishi wa rasimu, ukumbusho au uchanganuzi unaojenga ufahamu wa kudumu: uingizwaji badala ya nyongeza, na mwanafunzi anaweza kuweka uingizwaji mwingi katika kazi moja na kuongeza kwa tija katika inayofuata. Kiasi cha matumizi ni kigezo kibaya; mgawanyo wa kazi ya kiakili ndicho kigezo sahihi.
+
+**"Ikiwa utendaji wa mazoezi unaimarika, zana inafanya kazi."** Katika jaribio la uwanja la nasibu la sababu lenye takriban wanafunzi 1,000 wa hisabati wa shule ya upili, mwalimu wa mtindo wa ChatGPT asiye na ulinzi ulipandisha utendaji wa mazoezi unaosaidiwa kwa **asilimia 48** huku *ikipunguza* alama za [[summative-assessment|mtihani wa kitabu kilichofungwa]] usiosaidiwa kwa **asilimia 17**. Mielekeo ni kinyume, hivyo tathmini yoyote inayosoma namba ya mazoezi kama matokeo itathibitisha madhara hasa ambayo inakusudiwa kuyagundua.
+
+**"Wanaojifunza wanaotumia AI wana wasiwasi hasa kuhusu kukamatwa."** Wasiwasi wao wanaoutaja ni wa maendeleo. Katika utafiti mmoja **asilimia 51 ya washiriki (n = 106)** walikuwa na wasiwasi kuwa matumizi ya GenAI yanaweza kuzuia maendeleo ya mtu binafsi, wakitaja upotevu wa [[critical-thinking|ufikiri wa kina]], ubunifu na uhuru badala ya kuvunja kanuni. Mfumo wa [[academic-integrity|uadilifu]] unaotawala mazungumzo ya kitaasisi si ule ambao wanafunzi wenyewe wanaufikia.
+
+## Maana kwa Mazoezi
+
+**Kwa walimu**
+
+- Usiwaulize wanafunzi kama zana ilisaidia; pima utendaji usiosaidiwa. Ripoti ya kibinafsi ya kikundi kilichodhurika ilikuwa ya kutuliza na isiyo sahihi.
+- Buni kwa ajili ya nyongeza badala ya uingizwaji kazi kwa kazi, ukibainisha kile mwanafunzi lazima azalishe kabla AI haijatumika.
+- Angalia alama za mazoezi zinazopanda pamoja na alama zisizosaidiwa zilizosimama au zinazoshuka: mgawanyiko huo ndio ishara ya kutenda, si tatizo la ubora wa data.
+- Chukulia wasiwasi wa maendeleo kwa uzito katika uwekaji wa mambo. Wanafunzi wanaotaja upotevu wa ufikiri wa kina na uhuru wanaelezea utaratibu wa madhara, si kupinga kanuni.
+
+**Kwa wabuni**
+
+- Pima utendaji unaosaidiwa na usiosaidiwa na usiwahi kuwasilisha ule wa kwanza peke yake kama kujifunza.
+- Usiongeze "uliona hii ya msaada?" kama kipimo cha kujifunza; kilikuwa thabiti wakati kujifunza kulikuwa kikishuka.
+- Jenga mpaka wa uingizwaji ndani ya mwingiliano: muundo wa kidokezo-bila-jibu wenye ulinzi uliondoa madhara katika familia hiyo hiyo ya majaribio.
+
+**Kwa watafiti**
+
+- Ripoti kila wakati kipimo kisichosaidiwa, na ripoti mtazamo pamoja nacho badala ya badala yake.
+- Ripoti muundo wa uingizwaji wa kazi, si mara ya matumizi tu, unapohusisha madhara.
+
+## Dhana Zilizounganishwa
 
 - [[self-directed-learning]]
 - [[remote-proctoring]]
@@ -89,7 +121,8 @@ Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa za
 - [[student-experience]]
 - [[cognitive-surrender]]
 
-## Makala Zilizounganzwa
+## Makala Zilizounganishwa
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Utafiti wa dodoso na vikundi lengwa vya Uswidi unaodai kuwa maadili ya ushirika, si mfumo wa udanganyifu, yanapaswa kuongoza maamuzi ya kitaasisi kuhusu genAI
 
 - [[rho-disengaged-conversational-behaviors-2026]] — Tabia za kutokuwa na mahusiano ya mazungumzo na kujifunza katika mazungumzo ya mwanafunzi–AI (Rho et al. 2026)
 

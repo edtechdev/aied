@@ -8,7 +8,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -42,6 +42,16 @@ Kusimulia hadithi kumejikita katika nadharia za [[motivation]], [[student-engage
 - **Hadithi za kidijitali kama kizuizi dhidi ya AI:** Kadiri [[generative-ai|AI ya kizazi]] inavyopanda, hadithi za kidijitali zinatafsiriwa upya kama gari la uwezo wa kihisia, wa kitamaduni, na wa hadithi ambao AI kinakosa. Katika mfano wa [[project-based-learning|kujifunza kwa msingi wa mradi]] kwa elimu ya sanaa na ubunifu, wanafunzi walitafsiri urithi wa kitamaduni wa ndani kuwa simulizi za [[multimodal]] katika kazi 92 za hadithi za kidijitali, na kuonyesha jinsi hadithi zinavyodumisha ubunifu wa binadamu katika nyakati za AI.
 
 Kusimulia hadithi kinaungana na [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], na [[educational-robotics]].
+
+## Dhana Potofu za Kawaida
+
+**"Hadithi iliyoundwa kwa pamoja ni hadithi iliyosimuliwa."** Kinachopatikana ni ufasaha na wingi; kinachowekwa hatarini ni uandishi wa msimulizi. Hadithi ni upangaji wa uzoefu unaofanywa na mtu aliyechagua mfuatano na msisitizo, hivyo mashine inayotoa muundo imetoa sehemu inayobeba maana.
+
+**"Usimulizi ni nyongeza laini kwa maudhui."** Simulizi ni kifaa cha kumbukumbu na ufafanuzi, na mwanafunzi anayesimulia anafanya kazi ya kupanga. Kukabidhi usimulizi ni kukabidhi kujifunza.
+
+**"Uzalishaji wa AI unafanya usimulizi upatikane kwa wanafunzi wasioweza kuandika."** Unafanya *kuzalisha kitu cha maandishi* kupatikane, ambayo ni faida tofauti. Usimulizi wa mdomo, kuchora na kuamuru kwa sauti ni njia zilizoimarika za kufikia lengo lile lile, na zinahifadhi uandishi ambao uzalishaji unaondoa.
+
+**"Thamani ya kielimu ya hadithi iko kwenye matokeo yaliyopangwa."** Iko kwenye ujenzi: uteuzi na upangaji ambao msimulizi anaufanya. Hadithi iliyopangwa ambayo mwanafunzi hakuipanga imeonyesha umahiri wa mfano badala ya wa mwanafunzi.
 
 ## Dhana Zilizounganishwa
 - [[student-engagement]]

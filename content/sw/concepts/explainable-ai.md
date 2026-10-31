@@ -10,7 +10,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-09-30T14:23:52-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ Mfumo wa XAI-ED unorodhesha njia kuu za maelezo: **ya kuona** (ramani za joto, m
 
 Ushahidi halisi wa AIED unafika zote hizi. **Ufuatiliaji wa maarifa unaoweza kuelezekana** (Interpretable [[knowledge-tracing|knowledge tracing]]) unafanya mifano ya maarifa ya mwanafunzi ikaguliwe moja kwa moja ([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). **Vishika vinavyojieleza wenyewe** hugawanya mfano wa sanduku jeusi katika [[llm|mfano mdogo wa lugha]] unaoweza kuelezekana kwa [[learning-analytics]] ([[distilling-self-explaining-lm-learning-analytics-2026]]). **Maelezo ya counterfactual** — "nini kingehitaji kubadilika kwa matokeo tofauti" — yanaunga mkono msaada wa maamuzi ya kielimu na marejesho ([[sc2r-counterfactual-recourse-educational-2026]]). **Uchanganuzi wa kujifunza wa mfumo uliosambazwa na unaoelezekana** unaonyesha ubora wa maelezo unaweza kubadilika (upangaji unapungua) hata wakati uthabiti wa kipimo unadumu, na kusisitiza kwamba maelezo si sifa ya kudumu bali ni matokeo ya mfumo yanayopaswa kupimwa ([[villegas-ch-federated-explainable-learning-analytics-2026]]). Na **ITS ya [[affective-computing|kihisia]] inayoelezekana** inaonyesha maelezo katika ufundishaji wa [[affective-tutoring|unaotambua hisia]] ([[multimodal-affective-its-presentation]]).
 
+- **Upimaji wa nje unaepuka tatizo la maelezo yasiyoaminika.** Kumbukumbu za Maamuzi Zilizochujwa hujenga upya athari za zana kuwa mti wa asili na kupanga ushahidi kwa ishara nne za deterministic, hivyo alama ya ushawishi inaweza kuthibitishwa kwa kujitegemea na pendekezo, na kuondoa zana kwa counterfactual kulithibitisha kuwa upangaji ulifuata utegemezi ([[filtered-decision-logs-transparency-genai-2026|Anbalagan na wenzake (2026)]]).
+
 ## Ubora wa maelezo, si upatikanaji
 
 Somo linalojirudia katika ushahidi: **kuwa na maelezo hatoshi**; maelezo yanapaswa kufaa kwa hadhira yao, kuwa sahihi, na kupangwa kulingana na hatari. Mfumo wa XAI-ED unataja mifereji wazi:
@@ -79,6 +81,8 @@ Ubora wa maelezo pia una kipengele cha usawa: maelezo yaliyopo kiufundi lakini h
 
 Maelezo si kila wakati wa usawa. Katika jaribio la hali 2 × 2 lenye wanafunzi 250 wa darasa la saba, maelezo ya maandishi ya alama ya hesabu yaliongeza kukubalika na usawa unaohisiwa katika hali zote mbili lakini yalipanua badala ya kufunga pengo kati ya maamuzi yaliyofanywa na [[teacher-role|mwalimu]] na yale yaliyofanywa na AI ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
 
+Rejea hufanya kazi kama kidokezo cha uaminifu badala ya ushahidi wa usahihi: kuambatisha rejea na ishara za mamlaka kwenye kiolesura cha majadiliano kulipandisha kuachana na hukumu sahihi kwa ajili ya msimamo wa AI kutoka 15.0% hadi 31.8%, na kesi zilizotajwa wakati mwingine zilihusishwa vibaya au zilikuwa za kubuni ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo na wenzake, 2026]]).
+
 Onyo mawili yanapunguza hili zaidi, wote wawili yanayofanya kitu kuu katika mchango mpya zaidi wa wiki juu ya mada hii. Kwanza, mitambo ya maelezo yenyewe haijajiruhusu: mbinu za baada ya tukio kama LIME na SHAP zinaweza kushindwa kuwa za kweli kwa tabia halisi ya mfano, na hivyo maelezo yaliyopo kiufundi yanaweza kupotosha badala ya kuelimisha ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], yakitegemea Chuan et al. 2024). Pili, **maelezo si uwajibikisho**. Maelezo ya ni kigezo gani kilisababisha utabiri hayafichui kama kigezo hivyo vilikuwa vya kufaa kutumika, kama data ya mafunzo ilikuwa ya uwakilishi, au kama ubini wa mfumo ulionyesha hukumu yenye sauti; maelezo yanaweza kuunda muonekano wa uwazi huku yakichiacha hali za muundo zilizozalisha uamuzi bila kuguswa (Mittelstadt et al. 2019). Kwa elimu hii inamaanisha swali la kuendelea kuuliza si kama maelezo yalizalishwa bali kama mtu anayepokea — mwanafunzi, mwalimu, mshauri — angeweza kuelewa, kutenda, au kupinga uamuzi unaofuata. Kushindwa kule kule kwa kusomka kunaonekana kwenye upande wa usalama wa [[automated-assessment|tathmini ya kiotomatiki]]: [[humble-prompt-injection-ai-grading-red-team-2026|upimaji mkuu wa Humble (2026) wa zana ya kupima ya AI]] uligundua inazima gumzi kimya baada ya kuzuia uingizaji wa ilani, na — baada ya kutangaza kuwa haitafuata maagizo yaliyojumuishwa — ikiyafuata katika mbio sita zaidi kwenye faili ile ile, na kumuacha mtumiaji bila ishara ya kuaminika ya kutegemea.
 
 **Inayoelezekana kwa ubini** ni jibu moja kwa tatizo la uaminifu wa baada ya tukio. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang na Fang (2025)]] wanabainisha msomaji wa maelezo na uwakilishi uliounganishwa na alama iliyotabiriwa ule ule unaoamua [[assessment|tathmini]], na hivyo alama ya chini katika [[formative-assessment|maswali ya kiumbo]] hutoa maelezo yanayotaja maswali ya kuchunguza yasiyo ya kutosha, na kuunganisha na uangalifu wa lenzi mbili kwenye viwango vya mtaala na hatua za rubriki mahususi za taaluma. Ulinganifu wa uangalifu-kwa-rubriki unafikia 78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT, na uaminifu hupimwa na kufuta kwa counterfactual sehemu muhimu za rubriki pamoja na alama za binadamu kwenye orodha ya ukaguzi iliyoungwa na rubriki, na kutoa alama ya uaminifu wa maelezo ya 0.78 — ongezeko la 0.31 juu ya BERT-base. Ukaguzi pia unaonyesha mahali madai ya usanifu yanapungua: kwenye ishara za kihisia mfano hutoa 28.4% ya uzito wa uangalifu dhidi ya 15.2% ya mtaalam (ulinganifu 0.53), na hali moja ya kushindwa ikitoa 28% kwa tokeni "kukasirika", ambayo waandishi wanasoma kuwa na mifano kupita kiasi ya kihisia badala ya kielimu na wanaita kama eneo la kuboresha. Kujumlisha maelezo katika njia ya uamuzi huyafanya kuwa ya kweli zaidi ya maelezo ya baada ya tukio; haifanyi sahihi.
@@ -92,6 +96,13 @@ Kwa kuelezekana hasa, kazi zinazomaanisha ni zile zinazolazimisha maelezo kutoka
 ## Nukuu
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
+## Dhana Potofu za Kawaida
+
+- **"Rejea hufanya maelezo yaaminike."** Rejea hufanya kazi kama **kidokezo cha uaminifu badala ya ushahidi wa usahihi**: kuambatisha rejea na ishara za mamlaka kwenye kiolesura cha majadiliano **kulipandisha kuachana na hukumu sahihi kwa ajili ya msimamo wa AI kutoka 15.0% hadi 31.8%**. Chanzo kilifanya jibu lisilo sahihi kuwa la kushawishi zaidi, ambayo ni kinyume cha athari iliyokusudiwa.
+- **"Maelezo yanayoridhisha watumiaji yameeleza mfumo."** Kushindwa kule kule kwa kusomeka kunaonekana kwenye upande wa usalama wa [[automated-assessment|tathmini ya kiotomatiki]]: [[humble-prompt-injection-ai-grading-red-team-2026|upimaji mkuu wa Humble (2026)]] uligundua kuwa mtiririko wa kawaida wa kupima alama unaweza kuendeshwa kwa maagizo yaliyoingizwa. Simulizi linalowezekana na linaloweza kukaguliwa ni bidhaa tofauti.
+- **"Mazoezi ya jumla ya XAI yanahamishwa kwenye elimu."** [[xai-education-framework|Mfumo wa XAI-ED]] (Khosravi et al., 2022) unasisitiza kuwa elimu ina **mahitaji ya kipekee ya kuelezekana** zaidi ya XAI ya jumla, kwa sababu hadhira inajumuisha wanafunzi wanaopaswa kutenda kwa maelezo badala ya wakaguzi wanaopaswa kuyathibitisha.
+- **"Uaminifu ni sifa unayoweza kudai bila kupima."** Uaminifu uliopimwa unahitaji **kufuta kwa counterfactual sehemu muhimu za rubriki** pamoja na alama za binadamu. Ulinganifu wa uangalifu-kwa-rubriki unaofikia **78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT** ni matokeo ya kulinganisha kutoka kwa upimaji wa aina hiyo, si kutoka kwa dai kuhusu uwezekano wa kufasiriwa.
 
 ## Dhana Zilizounganishwa
 - [[trust-calibration]]
@@ -132,3 +143,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[bloom-classifier-ai-assisted-questions-2026]] — Tathmini ya mifano iliyofunzwa awali kwa tathmini ya kielimu ya maswali mapya ya kielimu yanayosaidiwa na AI
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Maamuzi ya kupima ya mwalimu dhidi ya ya AI: maelezo ya maandishi yalipanua pengo la usawa
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Rejea na ishara za mamlaka zilipandisha kukubali pato lisilo sahihi, baadhi ya marejeo yakihusishwa vibaya au kuwa ya kubuni

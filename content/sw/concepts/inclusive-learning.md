@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -87,6 +87,16 @@ Kujifunza kwa ujumla kimeunganishwa kwa kina na [[equity-in-ai-education]] — u
 - **Chukulia biashara ya usalama/upatikanaji kwa uwazi.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] inafanya mfano wa jinsi hatua za kupinga wizi zinaweza kutenga bila kukusudia wanafunzi wenye mahitaji ya uchakataji wa kuona — pima uadilifu dhidi ya upatikanaji.
 - **Upatikanaji unaweza kutegemea namna ya kusema, si muundo tu.** Wakati kazi ya msingi ikishikiliwa thabiti, usahihi wa mfano ulipanda kutoka 82.4% kwa maneno ya kiwango cha chini cha kusoma hadi 83.4% kwa maneno ya mtaalam, hivyo kuwataka wanafunzi kutoa ilani bora kunongeza kutengwa kipya; mfumo wa kuandika upya upande wa mfumo unaorahisisha maombi uliondoa pengo lenye maana bila kubadilisha maudhui ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Linda dhidi ya AI inayozalisha kutengwa.** [[genai-minoritized-knowledges-disability|Ukosoaji unaozingatia ulemavu]] unaonya kuwa data ya mafunzo ya Kiingereza na ya Magharibi inatenga njia za kujua za wenye ulemavu — kagua zana za AI kwa haki ya maarifa pamoja na [[equity-in-ai-education]].
+
+## Dhana Potofu za Kawaida
+
+**"Zana inayoweza kufikiwa ni kozi inayojumuisha."** Ufikivu hujibu swali moja, kama kila mtu anaweza kuona na kuendesha muundo huo, ambalo ni la lazima na halitoshi kabisa. Kujifunza kwa ujumla pia huuliza ni zana gani zinazovuka [[digital-divide|pengo la upatikanaji]] la mtu binafsi na jinsi ubuni unapaswa kutazamia tofauti badala ya kuirekebisha baadaye. Kiolesura kinachooana na kisomaji cha skrini katika kozi ambayo muundo wake wa tathmini unadhania chumba tulivu, mtandao wa kuaminika na muda usiokatizwa kimetatua tatizo la uonyeshaji na kikacha tatizo la ushiriki likiwa kama lilivyo.
+
+**"Kutoa teknolojia saidizi ni kutoa wakala."** Hizi mbili ni tofauti, na fremu ya ukurasa yenyewe inasema hivyo: teknolojia saidizi haihakikishi wakala wenye maana. Zana inayomruhusu mwanafunzi kukamilisha kazi inayohitajika inaweza pia kumuelekeza kwenye toleo jembamba zaidi la kazi hiyo, na tofauti kati ya ngazi ya msaada na dari haionekani katika kipimo cha upokeaji.
+
+**"Wanafunzi wanaosumbuka wanapaswa kujifunza kuandika ilani bora."** Hilo hubadilisha kasoro ya mfumo kuwa upungufu wa mwanafunzi. Kazi ya msingi ikiwa imeshikiliwa bila kubadilika, usahihi wa mfano ulipanda tu kutoka **asilimia 82.4 kwa maneno ya ujuzi mdogo hadi asilimia 83.4 kwa maneno ya kitaalamu**, tofauti ya pointi moja, wakati kuhitaji ilani bora kunaongeza ubaguzi mpya juu ya ule uliopo. Kielekeo kiko katika utunzaji wa upande wa mfumo kwa tofauti za lugha, si katika mafunzo ya ilani ya marekebisho.
+
+**"Zana iliyojengwa kwa madarasa yenye rasilimali nyingi itahudumia mazingira yenye rasilimali chache pindi itakapotafsiriwa."** Muktadha hubadilisha kikwazo cha ubuni. [[suacode-african-students-motivations|SuaCode]] ilifikia wanafunzi katika mazingira ya Afrika yenye rasilimali chache ambapo **chini ya asilimia 1 wana ujuzi wa uandishi wa programu** kwa kujenga kwa simu janja badala ya kompyuta za maabara, ambao ni ubuni tofauti, si toleo dogo la ule ule.
 
 ## Dhana Zilizounganishwa
 

@@ -7,7 +7,7 @@ audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -66,6 +66,16 @@ Utambulisho ni nanga ya kibinadamu ya mazingira ya wahusika: ni kile ambacho AI 
 - **Jenga uwezo wa jukumu mahususi:** walimu, wanafunzi, wabuni, na viongozi kila mmoja anahitaji ujuzi wa AI na msaada uliopangwa (ona [[ai-literacy]], [[teacher-ai-competency]], [[educational-development]]).
 - **Linganisha katika viwango:** utafiti wa utawala wa hifadhi ya maarifa unaonyesha AI inafaulu wakati uongozi wa taasisi, mazoezi ya mwalimu, na uzoefu wa mwanafunzi vinapoliganishwa badala ya kutengwa.
 - **Zingatia wazazi na jamii pana:** familia ni wahusika katika kupokelewa kwa AI ambao jukumu na wasiwasi wao wanastahili umakini mahususi.
+
+## Dhana Potofu za Kawaida
+
+**"Wahusika katika AI katika elimu wanashiriki nia katika tokeo moja."** Maslahi yao mara nyingi yanapingana moja kwa moja, na kipengele kile kile husomwa tofauti kwa jukumu: "msaada wa kibinafsi" wa mwanafunzi unaweza wakati mmoja kuwa "hatari ya uadilifu" ya mwalimu. Michakato ya ubuni inayodhani lengo la pamoja itatatua mvutano huo kwa bahati kwa upande wa anayesema kwa sauti kubwa zaidi.
+
+**"Kumpa kila kundi la wahusika sauti hutatua mgogoro."** Ushauri si upimaji wa uzito. Muundo wa ukurasa wenyewe unaweka swali la ubuni katika jinsi ya kumpa kila wasiwasi **uzito wa kweli badala ya kuacha sauti kubwa ishinde**, ambayo ni tatizo la utaratibu, nani anaamua, kwa ushahidi gani, na kwa rufaa gani, si tatizo la mawasiliano.
+
+**"Uchanganuzi wa wahusika ni zoezi la awamu ya awali."** Mivutano huendelea hadi utekelezaji, kwa sababu majukumu yanaendelea kufasiri mfumo ule ule tofauti. Tabaka la ubinafsishaji linalowakabili wanafunzi na dashibodi ya uadilifu inayowakabili wataalam ni data ile ile inayotazamwa kutoka nafasi mbili, na mgogoro hujirudia kila moja inaporekebishwa.
+
+**"Utambulisho kote ya hadhira unamaanisha ujumbe mmoja unaweza kuwahudumia wote."** Mawasiliano kote ya hadhira yanahitaji kutafsiri uamuzi ule ule katika maneno tofauti bila kuupotosha, ambayo ni zaidi ya kuandika upya ujumbe mmoja kwa njia nne.
 
 ## Dhana Zilizounganishwa
 

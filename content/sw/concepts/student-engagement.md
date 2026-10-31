@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-08T09:45:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -55,8 +55,9 @@ Ngazi za msaada [[scaffolding]] hizo zina mwenzake wa taasisi wenye njia mbili. 
 - **Mahusiano ya kiakili yanayohusiana na taaluma katika mazungumzo ya mwanafunzi-AI.** [[student-ai-conversations-cognitive-engagement-2026|Chang na Li (2026)]] wanaonyesha kuwa ilani za wanafunzi kwa AI zina mahitaji ya kiakili ya kiwango cha juu ya ~62% kwa wastani, lakini miundo ya mahusiano ya kiwango cha Bloom hutofautiana kwa kiasi kikubwa kwa taaluma ([[stem-education|STEM]] inayotawala Kutumia 20.8%, lugha inayotawala Kuelewa 31.7%, sayansi ya kijamii inayotawala Kuunda 33.8%). Kwa kutumia ubini wa ndani ya mtu, waligundua wanafunzi wale wale walitoza ilani za kiwango cha juu zaidi katika sayansi ya kijamii kuliko katika kozi za STEM (p < .001), huku tofauti ya kiwango cha kozi ikizidi tofauti ya kiwango cha mwanafunzi — ushahidi kwamba mahusiano ya kiakili na AI yanaundwa na muktadha wa taaluma, si mtindo wa mtu binafsi tu.
 
 - **[[ai-feedback-quality|Maoni ya AI]] yanaendeleza uanzishaji wa tabia.** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] waliofanya jaribio la muda mrefu la semesta ya maabara-uwanini waligundua kuwa wanafunzi waliopokea maoni binafsi ya GPT-4 kwenye kazi za wazi walidumisha ushiriki wa juu zaidi katika kazi nane za kila wiki (~50% kwa ya mwisho, vs ~30% kwa vikundi vya maoni ya mwalimu au ya marika) na waliandika ~29 herufi zaidi kwa kila jibu — maoni binafsi ya AI yalianzisha mahusiano kwenye ukingo wa upana (ushiriki) na ukingo wa kina (juhudi kwa kila jibu), ingawa wanafunzi waliipa alama ya juu kidogo [[peer-assessment|maoni ya marika]].
+- **Mahusiano ya wakala na usomi wa maoni ya AI yanakua pamoja.** Mawimbi matatu yenye mapengo ya wiki sita kwa wanafunzi 399 wa chuo kikuu yalionyesha njia za ndani ya mtu katika mielekeo miwili (β = 0.222 na β = 0.263), hivyo mahusiano si matokeo ya ubuni tu bali ni sehemu ya kile kinachojenga uwezo wa kutumia maoni ([[ai-feedback-literacy-agentic-engagement-panel-2026|Xu (2026)]]).
 
-- **Kutabiri matumizi ya kiakili ya AI kutoka kwa dhana za kujifunza.** Mfumo wa uchunguzi wa [[reinforcement-learning|kujifunza kwa mashine]] ulichanganua data ya dodoso kutoka kwa wanafunzi 166 wa chuo kikuu ili kutambua dhana zinazohusiana na kujifunza zinazohusiana na matumizi ya kiakili ya ChatGPT yaliyokusudiwa, kwa kutumia uchanganuzi wa SHAP ili kudumisha [[explainable-ai|uwezekano wa kueleweka]]. Matokeo yanaeleza jinsi mahusiano, msaada wa kujifunza, na dhana nyingine zinaunda ujumuishaji wa zana za AI kwa wanafunzi katika kazi ya kiakili.
+- **Kutabiri matumizi ya kiakili ya AI kutoka kwa dhana za kujifunza.** Mfumo wa uchunguzi wa [[machine-learning|kujifunza kwa mashine]] ulichanganua data ya dodoso kutoka kwa wanafunzi 166 wa chuo kikuu ili kutambua dhana zinazohusiana na kujifunza zinazohusiana na matumizi ya kiakili ya ChatGPT yaliyokusudiwa, kwa kutumia uchanganuzi wa SHAP ili kudumisha [[explainable-ai|uwezekano wa kueleweka]]. Matokeo yanaeleza jinsi mahusiano, msaada wa kujifunza, na dhana nyingine zinaunda ujumuishaji wa zana za AI kwa wanafunzi katika kazi ya kiakili.
 
 - **Upatikanaji wa zana ya AI unaweza *kupunguza* mahusiano yaliyopimwa, na viwango vya ukamilishaji havitaonyesha.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] waligawanya kwa nasibu upatikanaji wa mwalimu wa zana katika vitalu 13 katika chuo kikuu kikuu cha umma la Marekani na waligundua ushiriki wa jukwaa uliorekodiwa ulipungua kwa SD 0.90, mionekano ya kurasa kwa SD 0.37–0.38 na siku zinazotumika kwa SD 0.51–0.61 — huku kuwasilisha kazi za nyumbani na kuwasilisha kwa wakati hakikuathiriwa. Kutengwa ni somo la kupima: kozi inayofuatilia tu ukamilishaji wa kazi haikuona chochote, kwa sababu kupungua kulikuwa katika shughuli ya majadiliano, jaribio na mwingiliano wa mkufunzi ambayo jukwaa lilirekodi. Wanafunzi katika sehemu zilizotibiwa pia waliripoti kuuliza mkufunzi maswali machache ya maudhui (karibu 57% dhidi ya 44%), hivyo kupungua kulikuwa pamoja na kubadilishwa kutoka kwa mawasiliano ya binadamu badala ya kutokuhusika na kozi.
 
@@ -107,6 +108,35 @@ Mahusiano ya mwanafunzi yanaungana na [[motivation]] na [[self-determination-the
 - **Mazoezi ya kabla ya darasa ya AI yanaweza kuongeza ushiriki hai (2026):** Jaribio la uwanini lililosajiliwa mapema na wanafunzi 759 wa MBA liligundua kuwa kuandaa na mwenzi wa majadiliano ya AI wa sauti kuliongeza michango ya hiari kwa karibu 31% katika vipindi vya baadaye, lakini tu baada ya matumizi ya pili; matumizi ya kwanza yalitangulia ushiriki wa chini ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
 
 - **Kutokuhusika kama hatua ya kiwango cha mazungumzo, si hali thabiti:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] waliweka kodi kauli 5,522 za wanafunzi kwa wakala wa kufundishwa wa AI katika Math Nation katika kategoria sita za kutokuhusika kwa mazungumzo (Kujibu Kwa Uongo, Kudhihaki, Kutotoka, Kuiga, Kuzuia, Nasibu/Kelele) na waligundua kiwango cha mahusiano kilitawala kwa 75.7% ya kauli. Uhusiano wa kiwango cha kutawala wa Kujibu Kwa Uongo na Kudhihaki na alama za baada ya jaribio haukudumu katika uchanganuzi wa uwezo wa binadamu. Uchanganuzi wa mlolongo ndiyo matokeo yanayohusiana na mahusiano: kikundi chenye utendaji wa juu zaidi kilichanganya kutokuhusika wa wastani na mpito wenye nguvu wa kurudi-kwa-mahusiano (Kuzuia → Mahusiano p = 0.83), huku cha chini zaidi kikionyesha miduara ya kujirudia bila kurudi (miduara ya Mahusiano p = 0.96). Kuzuia ilikuwa aina moja ya kutokuhusika ambayo ilionekana kudumu badala ya kutatuliwa — kudumu dhidi ya kutengeneza, si kuwepo dhidi ya kutokuwepo, ni tofauti inayotenganisha njia za mahusiano.
+
+## Dhana Potofu za Kawaida
+
+**"Ikiwa mahusiano yalipanda, kujifunza kulipanda."** Hii ni hitimisho la gharama kubwa zaidi katika fasihi ya mahusiano ya AI, na hifadhi ya maarifa ina mfano kinyume safi. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker na Becker-Genschow (2025)]] waligawanya kwa nasibu madarasa 195 ya darasa la tisa kwa chatbot ya hisabati mahususi ya taaluma au vifaa vya kawaida vya kupambanua kwa somo moja la mbinu ya Heron. Hamu ya hali ilipanda kwa kiasi kikubwa katika hali ya chatbot (M = 2.63 vs 2.43, p = 0.00005, Cohen's d = 0.63) na kukubalika kulikuwa juu katika vipimo vyote vinne vya [[technology-acceptance-model|Mfumo wa Kukubali Teknolojia]], lakini kulinganisha utendaji wa awali na wa baada hakukupata **mwingiliano wenye umuhimu wa kikundi kwa muda** (F(1194) = 2.84, p = 0.094), na mzigo wa kiakili wa nje ulikuwa juu kidogo. Hamu na mafanikio yalisogea kwa ratiba tofauti. Ugunduzi wa mahusiano si ushahidi wa [[learning-gains|kujifunza]].
+
+**"Mahusiano ni kitu kimoja, na muda wa kufanya kazi unayapima."** Dhana hii ina vipimo vingi na vipimo vyake vinatofautiana kwa ubuni: mwanafunzi anaweza kuwa hai kwa tabia, akibofya na kukusanya muda, huku akiwa mdogo kwa kiakili na akipokea pato kwa kupitisha. Vipimo vya [[self-report-measures|kujitangaza]] na vya kumbukumbu za mwingiliano havibadilishani, ndiyo sababu dai kuhusu "mahusiano" haliwezi kufasiriwa hadi kipimo na chombo vitajwe.
+
+**"Shughuli nyingi za kitabia zina maana ya mahusiano ya kina zaidi."** Mara nyingi ni kinyume. Mahusiano ya kina ya kiakili na AI yanataabiri kujifunza, wakati mahusiano ya kina kidogo ya kitabia yanataabiri [[cognitive-offloading|kutegemea kupita kiasi]] na kuhamishwa kwa kujifunza kunakotawala fasihi ya hatari; [[polished-artifacts-fragile-engagement-2026|vitu vilivyopangwa]] ni mfano wa kawaida, ambapo pato safi linaashiria shughuli wakati mawazo hayakutokea. Kumbukumbu za mwingiliano zenye shughuli nyingi zinaweza kuendana na kutokuhusika.
+
+**"AI inafanya kujifunza kuvutia zaidi kwa kawaida."** [[ai-availability-student-motivation|Upatikanaji wa AI na motisha]] unaonyesha kuwa kujua tu AI inapatikana kunaweza kupunguza thamani inayoonekana ya ushiriki wenye juhudi, hasa kwa wanaojifunza wapya. Mahusiano yanaundwa na matarajio, thamani na uwezo unaoonekana kiasi kile kama sifa za zana, na yanatofautiana kwa kazi, muktadha na mwanafunzi: mahusiano ya kina ya mwanafunzi mmoja ni kufuatilia matokeo kwa mwingine.
+
+## Maana kwa Mazoezi
+
+**Kwa walimu**
+
+- Chagua kipimo chako cha matokeo kabla ya uingiliaji wako. Kama lengo ni kujifunza kudumu, pima utendaji usiosaidiwa; dodoso za hamu na kuridhika hazitakuambia kama zana ilifanya kazi.
+- Chukulia ongezeko la furaha kwa mashaka pale mzigo wa kiakili unapopanda pia. Katika mfano uliogawanywa kwa nguzo, hamu ya juu ilikuja na mzigo wa nje ulio juu kidogo na hakuna athari ya mafanikio: ya kupendeza lakini si dhahiri yenye tija.
+- Tofautisha mwanafunzi anayefanya kazi na yule anayetazama kitu kilichopangwa kikitokea. Omba mantiki, si pato.
+
+**Kwa wabuni**
+
+- Pima kipimo unachodai. Kusambaza kipimo cha muda wa kazi au mibofyo na kukiita mahusiano kunachanganya shughuli ya kitabia na uwekezaji wa kiakili, ambayo ndiyo kosa hasa ambalo ushahidi unaonya dhidi yake.
+- Tarajia hakuna uhamisho kati ya aina za mahusiano. Kuinua hamu ya hali hakumaanishi kuinua mahusiano ya kiakili, hivyo kuboresha hamu peke yake kunaweza kuinua matumizi huku kujifunza kikibaki palepale.
+- Angalia kupungua kwa thamani ya juhudi kwa wanaojifunza wapya hasa, kwa sababu upatikanaji peke yake unaweza kupunguza thamani inayoonekana ya juhudi.
+
+**Kwa watafiti**
+
+- Ripoti kipimo na chombo, na epuka nomino tupu. Kwa kuwa kujitangaza na kumbukumbu zinatofautiana, "mahusiano yaliongezeka" yanahitaji utekelezaji wake wa kiutendaji katika sentensi hiyo hiyo.
+- Epuka kuhitimisha mafanikio kutoka kwa hisia. Matokeo ya mgawanyiko wa jaribio lililogawanywa kwa nguzo ni mfano wa kuripoti vyote viwili, pamoja na tupu.
 
 ## Dhana Zilizounganishwa
 
@@ -168,3 +198,4 @@ Mahusiano ya mwanafunzi yanaungana na [[motivation]] na [[self-determination-the
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — Ujuzi wa AI unaongoza mahusiano moja kwa moja na kupitia mtaji wa kisaikolojia, unaoimarishwa na kujitolea kitaaluma (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: mafunzo ya AI na ya binadamu yanatoa maendeleo ya GRE yanayofanana
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Upatikanaji wa mwalimu wa zana ya AI ulipunguza ushiriki wa jukwaa uliorekodiwa kwa SD 0.90 huku kuwasilisha kazi za nyumbani kikidumu (Liu et al. 2026)
+- [[ai-feedback-literacy-agentic-engagement-panel-2026]] — Usomi wa maoni ya AI na mahusiano ya wakala: paneli ya mawimbi matatu yenye kizuizi cha nasibu (Xu 2026)

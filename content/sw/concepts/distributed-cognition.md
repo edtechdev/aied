@@ -6,7 +6,7 @@ foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -43,6 +43,7 @@ Mifumo ya AI ya kizazi na ya mwingiliano inasambaza upya kazi ya kiutambuzi kwa 
 - **Usanidi wa upatikanaji husambaza utambuzi ndani ya kikundi.** [[xu-genai-collaborative-space-2026|Xu na wenzake (2026)]] wanaonyesha kuwa *jinsi* timu inavyoshiriki GenAI inaamua usambazaji wa utambuzi: kufanya kazi kwa pamoja kwenye kiolesura kimoja kilichoshirikiwa kunadumisha mfano wa kawaida wa kiutambuzi (ilani za pamoja, kumbukumbu ya nje iliyoshirikiwa), wakati matumizi ya faragha yasiyo ya wakati mmoja yanagawanya, na matokeo huchaguliwa na kupewa lebo upya kabla ya kushirikiwa. Kwa hivyo GenAI hutenda kama mshirika wa kiutambuzi uliosambaa na pia nafasi ya ushirikiano ya mwingiliano ambao upenyo wake lazima ubuniwe (muktadha ulioshirikiwa huingia, ufahamu wa faragha haurejei kiotomatiki).
 - **Waalimu pia hupitia usambazaji unaotawaliwa na AI dhidi ya unaojaza.** Mantiki ile ile ya ufanisi na kujidhibiti inatumika kwa upande wa mwalimu katika ubunifu wa somo: [[choi-teacher-ai-interaction-lesson-design-2026|Choi na wenzake (2026)]] waligundua kuwa waalimu wapya wanakabidhi sehemu kubwa ya mzigo wa kiutambuzi wa ubunifu wa mafunzo kwa mfumo wa AI (usambazaji unaotawaliwa na AI, wakikubali majibu kwa ujumla), wakati waalimu wenye uzoefu na ujuzi wa AI wanafikia usambazaji unaojaza ambapo utaalamu wa kitaaluma na msaada wa kihesabu wa AI hujaza kwa pamoja — na kwa sababu [[generative-ai|GenAI]] huzalisha na hujenga kwa pamoja badala ya kuhifadhi tu taarifa, wanaielezea hii kama *utambuzi wa pamoja unaoshirikiwa*, si matumizi ya zana tu.
 - **Aina za mwingiliano, si matokeo, kama kitengo cha chini.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane na Arikan (2026)]] walijenga **Mfumo wa Usambazaji wa Kiutambuzi** kutoka kwa kumbukumbu 53 za matumizi ya ChatGPT yaliyoendeshwa na mwanafunzi: aina tano za mwingiliano (upanuzi, ukabidhi, ulinganifu, mabadiliko, kutengana) na majukumu manne ya mtumiaji, ili mwanafunzi mmoja aweze kupunguza mzigo katika mazungumzo moja na kufikiri kwa pamoja katika yanayofuata.
+- **Kiasi cha matumizi ya AI hakifichui ni aina gani ya kazi iliyosambaa inayotokea:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]] waligundua wasifu wa msingi wa kiasi wa wanafunzi 97 ulitofautiana kwa maarifa ya awali na uandishi lakini si kwa kuuliza kwa jukumu amilifu au ngazi ya uelewa, hivyo shughuli iliyoshirikiwa na mgawanyo wa kazi unaweza kuandamana na kiasi kile kile cha matumizi.
 
 ### Utambuzi uliosambaa na mitazamo inayohusiana
 
@@ -60,6 +61,12 @@ Utambuzi uliosambaa hutoa chombo cha ubunifu na chombo cha tathmini. Kwa ubunifu
 Fowlin na wenzake (2026) wanafanya uwekaji wa vitendo wa mgawanyo huo kama mlolongo wa awamu mbili: jenga uwezo wa msingi bila AI kwanza, kisha ingiza AI kama mshirika wa kiutambuzi ambaye mapenzi yake wanafunzi wanayathamini kwa njia mahususi, ili kuzuia upungufu wa ujuzi unaohusiana na ubunifu ([[fowlin-operationalizing-learning-principles-ai|Fowlin na wenzake (2026)]]).
 
 **Ufasaha uliokwisha kuchukuliwa ndani dhidi ya uliosambaa.** Mfumo wa Mali ya Pamoja ya Kiutambuzi ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) unatofautisha Ufasaha Uliokwisha Kuchukuliwa Ndani (maarifa ya kina ya kikoa katika akili za watu binafsi) na Ufasaha Uliosambaa (kuandaa mifumo ya binadamu–AI), na unadai kuwa wa pili unategemea wa kwanza kupitia "Kifungo cha Uthibitishaji": usimamizi wa ufanisi wa mifumo iliyosambaa/ya AI unahitaji utaalamu uliokwisha kuchukuliwa ndani ambao mifumo hiyo inaweza kupunguza. Hii inakoleza swali la ubunifu la DCog — usambazaji wa utambuzi haupaswi kuja kwa gharama ya utaalamu unaouthibitisha.
+
+## Dhana Potofu za Kawaida
+
+- **"Hati iliyoshirikiwa inamaanisha utambuzi ulioshirikiwa."** Wasifu wa msingi wa kiasi wa **wanafunzi 97** ulitofautiana kwa **maarifa ya awali na uandishi** lakini **si kwa kuuliza kwa jukumu amilifu au ngazi ya uelewa**. Kiasi cha ushiriki kilipima ufikiaji, si mgawanyo wa kazi ya kiutambuzi, hivyo uchanganuzi wa matumizi ya zana shirikishi husema kidogo kuhusu nani alikuwa akifikiri.
+- **"Kila mtu hupunguza mzigo kwa AI kwa kiasi sawa."** Walimu wapya **huagiza sehemu kubwa ya mzigo wa kiutambuzi wa ubunifu wa kielimu kwa mfumo wa AI**, wakifika kwenye **mgawanyo unaotawaliwa na AI** ambapo hukubali majibu kwa kiasi kikubwa, huku walimu wenye uzoefu na wanaojua AI wakigawa kwa njia tofauti. Utaalamu huonekana pale mzigo unapowekwa, si kwa kiasi cha AI kinachotumika tu.
+- **"Ushiriki zaidi wa AI unamaanisha msaada zaidi."** Mgawanyo unaotawaliwa na AI ndio mfumo wa kuangalia, kwa kuwa sehemu ya binadamu ya kazi ya kiutambuzi hupungua wakati kiasi cha matokeo kinapopanda. Mfumo unaweza kuonekana mwenye uwezo zaidi hasa wakati mtumiaji anafanya kidogo.
 
 ## Dhana Zinazohusiana
 

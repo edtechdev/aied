@@ -7,7 +7,7 @@ pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learnin
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,16 @@ Nadharia ya kitamaduni na kijamii inaumba [[research-methods-aied|utafiti]] wa A
 Mwezi wa kitamaduni na kijamii unahusishwa kikamilifu na Nadharia ya [[cognitive-offloading|Mzigo wa Kiakili]] (msaada unapaswa kudhibiti mzigo bila kuondoa juhui ya kuzalisha) na na [[metacognition]] (wanafunzi walio katika eneo huo wanafuatilia na kudhibiti uelewa wao kwa njia inayotumika). [[stanford-evidence-base-ai-k12-2026]] inaunganisha ushahidi wa [[k-12|K-12]] kuwa zana za AI hufanya vizuri zaidi zinapoweka wanafunzi katika ZPD badala ya kujibia kwao, na utafiti wa [[human-in-the-loop-ai]] unashughulikia jinsi msaada wa binadamu na wa AI unavyoeleza pamoja eneo la mwanafunzi.
 
 - **AI ya kizalishaji kama wakala wa kupatia (2026):** Kwa kujitegemea na kupatia kwa Vygotsky, karatasi ya nadharia inapendekeza kufikiria upya AI ya kizalishaji si kama zana/njia ya kupatia tu bali kama *wakala wa kupatia* anayeshiriki kwa njia inayotumika katika shughuli ya kujifunza, ikificha mpaka wa zana-dhidi-ya-mwingiliano wa kijamii ambao ni kiini cha nadharia ya kitamaduni na kijamii ([[generative-ai-mediational-agent-sociocultural-2026]]). Hii inaweka miundo ya kizalishaji kama washiriki-wa-pamoja badala ya vyombo vya kupitisha, na athari kwa jinsi kupatia, [[agency]], na uhusiano wa mwanafunzi–AI vinavyofikiriwa katika [[learning-sciences|sayansi za kujifunza]].
+
+## Dhana Potofu za Kawaida
+
+**"Nadharia ya kitamaduni na kijamii inahusu vipengele vya kijamii katika kujifunza kama nyongeza ya utambuzi wa mtu binafsi."** Dai lenye nguvu zaidi ni kwamba utambuzi **umesambazwa kati ya watu, vifaa na mazingira** badala ya kukaa ndani ya vichwa vya watu binafsi. Kwa mtazamo huo AI si msaidizi wa nje aliyeongezwa kwenye utambuzi wa mwanafunzi; ni sehemu ya mfumo ambao utambuzi unafanyika ndani yake, jambo linalobadilisha kile kinachopaswa kupimwa.
+
+**"Ikiwa utambuzi umesambazwa, tathmini ya mtu binafsi inapima kitu kisichofaa."** Inabadilisha tafsiri badala ya kuondoa upimaji. Kile tathmini inakamata kinategemea kile kilichopo katika mfumo wakati huo, ndiyo sababu utendaji unaosaidiwa na usiosaidiwa hutofautiana: ni vipimo vya miundo tofauti.
+
+**"Kuongeza zana kwenye kikundi kunabadilisha ufanisi wa kikundi peke yake."** Kunabadilisha mgawanyo wa kazi, ambayo ndiyo kipimo cha uchanganuzi wa nadharia. Kikundi kinachoelekeza maswali yake mengi kwa wakala kimesambaza upya kazi ya kiakili hata pale matokeo hayabadiliki.
+
+**"Utambuzi uliosambazwa unamaanisha mtu binafsi hahusiki."** Unamaanisha mchango wa mtu binafsi hauwezi kusomwa kutoka utendaji wa mtu binafsi peke yake; kipimo cha uchanganuzi ni mfumo wa shughuli, si mtu peke yake.
 
 ## Dhana Zilizounganishwa
 

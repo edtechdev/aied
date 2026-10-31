@@ -6,7 +6,7 @@ foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,16 @@ Safu ya kiufundi haiwezi kutenganishwa na mada zingine za hifadhi ya maarifa:
 - **Chagua teknolojia kwa nia ya mbinu za kufundisha:** mfumo wa AI na mbinu inapaswa kufuata [[pedagogy|mkakati wa kufundisha]], si kinyume chake.
 - **Thamini safu ya kiufundi:** utafiti wa [[ai-ed-evaluation]] na [[benchmark]] unathamini mifumo ya AI kwa uaminifu, mbinu za kufundisha, na [[equity-in-ai-education|usawa]], si usahihi wa kichwa tu.
 - **Roboti na wakala ni sehemu ya safu:** mifumo ya [[educational-robotics|kihisia]] na ya [[agentic-ai|wakala]] inapanua hisia ya kiufundi zaidi ya maandishi — na huleta mazingira yao ya ubini na usalama.
+
+## Dhana Potofu za Kawaida
+
+**"Mfano ndilo kisa kizima."** Mbinu kama uzalishaji unaoongozwa na urejeshaji na uhandisi wa ilani zipo hasa kudhibiti na kuzuia matokeo ya LLM, na usanifu unaozunguka mfano mara nyingi huamua kama unaweza kutumika darasani. Mifumo miwili kwenye mfano mmoja inaweza kutofautiana kabisa kwa uaminifu kwa sababu ya kile kinachouzunguka.
+
+**"Ukomavu wa kiufundi wa uwanja umethibitishwa."** Ramani ni nyembamba pale inapohitajika: kwenye **masudio 474**, mifano ya mfululizo wa GPT na LangChain zilitawala huku **usimamizi wa zana unaosimamiwa, kumbukumbu inayoendelea na upangaji wa muda mrefu vikikosekana kwa kiasi kikubwa**, na **masudio 138 tu kati ya 474 (29%)** yalitegemea nadharia ya elimu. Safu inayotumika ni nyembamba zaidi kuliko safu ambayo uwanja unahitaji.
+
+**"Chaguzi za kiufundi ni jambo la mtaalamu wa teknolojia, si la mwalimu."** Fremu ya ukurasa ni kwamba unaweza kuwa mwalimu bora bila uwezo wa kujenga LLM na chaguzi zako za kiufundi bado zinaunda kile AI inaweza na haiwezi kufanya darasani mwako. Kama mfumo unazuia majibu yake katika nyenzo za kozi ni uamuzi wenye matokeo ya kielimu ambao mtu anapaswa kuufanya.
+
+**"Mfano wenye uwezo zaidi utatatua mapengo ya uwanja."** Usimamizi, kumbukumbu na upangaji wa muda mrefu ni matatizo ya usanifu badala ya uwezo: ukosefu ulioandikwa ni wa mifumo inayosimamia matumizi yao ya zana kwa muda, ambao mfano bora hautoi peke yake.
 
 ## Dhana Zilizounganishwa
 

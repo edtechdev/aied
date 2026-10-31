@@ -1,7 +1,7 @@
 ---
 title: "AI katika Elimu"
 created: "2026-10-13T06:05:00-04:00"
-updated: "2026-10-27T04:13:56-04:00"
+updated: "2026-10-31T13:07:22-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -94,11 +94,13 @@ Ukurasa wa [[ai-technologies|Teknolojia]] ni mwanya wa tabaka la kiufundi:
 - **Mifumo na mbinu:** [[generative-ai|AI ya kizalishaji]], [[llm|mifumo mikubwa ya lugha]], [[rag|kizalishaji kilichoboreshwa kwa urejeshaji]], [[multimodal|mifumo ya multimodal]], [[educational-nlp|NLP ya elimu]], [[reinforcement-learning|kujifunza kwa kuimarisha]], [[knowledge-graph|grafu za maarifa]], [[educational-robotics|roboti katika elimu]], [[conversational-ai|AI ya mazungumzo]], [[simulation]], na [[llm-training-and-fine-tuning|mafunzo ya LLM na kurekebisha]]. Mbinu za msingi pia ni muhimu: [[machine-learning|kujifunza kwa mashine]] ni mahali mifumo hii inajengwa, [[speech-and-voice-technologies|teknolojia za hotuba na sauti]] hubeba ufundishaji wa mdomo na mazoezi ya lugha, [[visualization]] inashughulikia dashibodi na uchanganuzi wa kuona kwa wanafunzi na waelimishaji, na [[virtual-and-augmented-reality|halivirtuali na virtuali iliyoongezwa]] inashughulikia mazoezi ya kuzama ambayo tabaka la kuona sasa linaweza kuzalishwa na mfano. Mitindo mipya ya mwingiliano ni hapa pia — kwa namna inayoonekana zaidi [[vibe-coding|vibe coding]], mtiririko wa kazi unaoendeshwa na lugha ya asili ambao mtumiaji anabainisha programu kwa kutoa ilani kwa LLM na kuhukumu tabia inayotokea badala ya kusoma au kuhariri msimbo. Hii inaweka upya [[cs-education|upangaji programu]] kama kitendo cha kujieleza na uhakiki na inapunguza kizuizi kwa [[teacher-role|watumiaji wa mwisho]] kujenga zana zao wenyewe. Miundo ya kina cha uunganishaji kama [[samr-model|SAMR]] na nadharia za kupitishwa kama [[technology-acceptance-model|TAM]] inagawanya jinsi AI inavyotumika kwa kina na kiasi gani inayobadilisha kazi.
 - **Kuunda mifano ya mwanafunzi na mifumo yanayorekebisha:** mifumo ya kiufundi ambayo yanawakilisha na kuwarekebisha mwanafunzi imewekwa chini ya mwanya wa [[student-modeling|Kuunda Mifano ya Mwanafunzi na Mafunzo Yanayorekebishwa]] — [[knowledge-tracing|kufuatilia maarifa]], [[cognitive-diagnosis|uchanganuzi wa kognitivu]], [[simulating-students|kufanya mifano ya wanafunzi]], [[intelligent-tutoring|ufundishaji wa akili]], [[adaptive-learning|kujifunza kwa kurekebisha]], [[personalized-learning|kujifunza binafsi]], [[recommender-systems-and-learning-paths|mifumo ya upendekezaji na njia za kujifunza]], [[pedagogical-agent|mawakala wa kieledu]], [[affective-tutoring|ufundishaji wa kihisia]], [[affective-computing|kompyuta ya kihisia]], [[human-in-the-loop-ai|AI ya binadamu-ndani-ya-mzunguko]], na [[learning-analytics|uchanganuzi wa kujifunza]]. Hizi zinapatana na tabaka la kiufundi kwa sababu ni mifumo ya AI yenyewe, tofauti na mbinu za kufundisha ambazo zinatekeleza.
 
+- **Mijukwaa, uwazi na upitishaji:** tabaka linalozunguka mfano, ambapo rasilimali ya kufundisha inapewa leseni, inahifadhiwa na kulipwa badala ya kujengwa. [[open-education|Elimu huria]] inashughulikia kufundisha kwa maudhui yenye leseni huria na mbinu za kufundisha zinazowachukulia wanafunzi kama wazalishaji wake, ndipo maswali ya leseni na urekebishaji ambayo nyenzo zilizozalishwa sasa yanazua yanajadiliwa. Inakaa kando ya uwazi kwa maana ya programu, uchanganuzi wa ngazi ya jukwaa katika [[edtech-platform|mijukwaa ya edtech]], na utafiti wa upitishaji unaobebwa na [[technology-acceptance-model|TAM]].
+
 ## AI katika taaluma
 
 AI inatumika katika taaluma na viwango vya elimu. [[discipline-specific-aied|Muhtasari wa hifadhi ya maarifa juu ya AIEd katika taaluma]] unapanga chanjo cha maeneo ya masomo — pamoja na [[learning-sciences|sayansi za kujifunza]], ambazo si somo la kufundishwa bali uwanja wa utafiti wa kupitulia ambao hujifunza kujifunza yenyewe na huchukua mada ya somo kama mojawapo ya vigezo vingine:
 
-- **Maeneo ya masomo:** [[math-education|hisabati]], [[physics-education|fizikia]], [[chemistry-education|kemia]], [[biology-education|biolojia]], [[cs-education|sayansi ya kompyuta]], [[engineering-education|uhandisi]], [[stem-education|STEAM]], [[writing-education|uandishi]], [[language-learning|kujifunza lugha]], [[english-education|elimu ya Kiingereza (EAP/EFL/ESL)]], [[science-education|elimu ya sayansi]], [[business-education|biashara, uchumi, na usimamizi]], [[humanities-education|sayansi za kibinadamu na jamii]], [[arts-design-and-media-education|sanaa, kubuni na elimu ya media]], [[medical-education|taaluma za matibabu na afya]], [[legal-education|elimu ya kisheria]], na vituo vya kitaalamu na vya matumizi — [[nursing-education|uuguzi]], [[information-technology|teknolojia ya habari]], [[vocational-education|elimu ya amali na mafunzo]], na [[design-education|elimu ya kubuni]].
+- **Maeneo ya masomo:** [[math-education|hisabati]], [[statistics-and-data-science-education|takwimu na sayansi ya data]], [[physics-education|fizikia]], [[chemistry-education|kemia]], [[biology-education|biolojia]], [[cs-education|sayansi ya kompyuta]], [[engineering-education|uhandisi]], [[stem-education|STEAM]], [[writing-education|uandishi]], [[language-learning|kujifunza lugha]], [[english-education|elimu ya Kiingereza (EAP/EFL/ESL)]], [[science-education|elimu ya sayansi]], [[environmental-education|elimu ya mazingira]], [[business-education|biashara, uchumi, na usimamizi]], [[humanities-education|sayansi za kibinadamu na jamii]], [[arts-design-and-media-education|sanaa, kubuni na elimu ya media]], [[medical-education|taaluma za matibabu na afya]], [[legal-education|elimu ya kisheria]], na vituo vya kitaalamu na vya matumizi — [[nursing-education|uuguzi]], [[information-technology|teknolojia ya habari]], [[vocational-education|elimu ya amali na mafunzo]], na [[design-education|elimu ya kubuni]].
 
 ## Viwango na miktadha
 

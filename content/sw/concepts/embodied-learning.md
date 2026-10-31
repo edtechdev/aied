@@ -7,7 +7,7 @@ pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -32,11 +32,13 @@ ai_assist:
 
 Kujifunza kwa mwili kunahusiana kwa karibu na [[active-learning]], [[experiential-learning]], na nadharia za hali/[[constructivist]]. Dai kuu ni kuwa wakala wa kimwili na anayeweza kudhibitiwa anawasaidia wanafunzi kuunganisha mawazo ya kufikiri na matokeo halisi — programu inayofanya roboti kusonga, au kuigiza jukumu na roboti ya kimwili — kwa njia ambazo mwingiliko wa skrini pekee hauwezi. Roboti ni uwili wazi zaidi wa AI katika elimu, na kuwapa wanafunzi kitu cha kuona, kugusa, na kuchunguza.
 
+- **Sifa za umwilisho si zinazoendesha matokeo.** Uchanganuzi wa jumla wa masudio 11 ya RALL (N = 595, g = 0.83, I² = 84.4%) uligundua kwamba umbo la roboti, namna, uhuru na jukumu la kijamii hakuruhusu kujifunza lugha ya pili; miundo ya kikundi ilishinda ya mmoja kwa mmoja, hivyo nafasi ya roboti, si umwilisho wake, ndiyo iliyobeba athari ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
+- **Ufuatiliaji wa mwili hugeuza udhibiti kuwa ishara inayopimika.** Katika uigaji wa mseto wa uhalisia wa usanisinuru ambapo lebo za mwendo zilisogeza mawakala wa wanafunzi katika mfano ulioonyeshwa, mtiririko wa LLM uliweka lebo sehemu 470 za tabia ya kujidhibiti katika dakika 40 za video, ukitekeleza kutawala kwa 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
 ### Jinsi kujifunza kwa mwili kinaonekana katika utafiti wa hifadhi ya maarifa
 
 - **Programu iliyoanza:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] inaweka programu ya [[cs-education|bloku]] katika utekelezaji wa roboti ya uwili, na kuunda mzunguko thabiti wa kuandika, kuendesha, kuchunguza, na kurekebisha ili wanafunzi waone msimbo wao unakuwa tabia.
 - **Mwingiliko wa roboti za kijamii:** [[educational-robotics|Roboti za kijamii]] zinazotumika kwa [[storytelling-in-education|hadithi]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), kuigiza jukumu ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), na lugha ya ishara ([[pepper-robot-sign-language-lis-2025|Pepper]]) zinatoa mwingiliko wa kijamii wa uwili unaosaidia kujifunza kwa mahusiano na [[social-emotional-learning|hisia]].
-- **Vipengele vya uwili si vinavyosababisha matokeo.** Meta-analysis ya masudio 11 ya RALL (N = 595, g = 0.83, I² = 84.4%) ilipata kuwa maumbo ya roboti, mtindo, uhuru, na jukumu la kijamii havikuwasilisha kujifunza kwa L2; miundo ya vikundi ilishinda ya moja-kwa-moja, hivyo nafasi ya roboti, si uwili wake, ilibeba athari ([[robot-assisted-language-learning-meta-analysis-2026|Wang et al. (2026)]]).
 - **Uwili na uandishi wa ubunifu:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Utafiti juu ya muunganisho wa roboti-LLM katika uandishi wa ubunifu]] unachunguza jinsi uwili unaathiri mwingiliko na matokeo ya wanafunzi.
 - **Mwingiliko wa binadamu-roboti:** Utafiti wa [[educational-robotics|HRI]] ([[task-context-trust-educational-hri-2026|uaminifu]], [[human-autonomy-agency-hri-review-2025|wakala]]) unachunguza jinsi uwili wa kimwili unaumba uaminifu, [[student-engagement|mwingiliko]], na [[agency|uhuru]].
 - **Ishara kama ushahidi wa ufahamu:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] wanaunganisha ufuatiliaji wa ishara wa kompyuta-na-macho na uchanganuzi wa [[llm]] wa hotuba ili kuonyesha kuwa ufahamu wa wanafunzi wa uhandisi wa dhana za takwimu unaonyeshwa kupitia hotuba na ishara zote mbili. Ishara za ufafanuzi za uaminifu wa juu zinakusanyika kuzunguka dhana mahususi (hasa wastani), na uhusiano wa karibu wa ishara–hotuba unaashiria mazungumzo ya dhana yanayoendana wakati kutengwa kunashughulikia mawazo yanayostawi — na kuweka hatua za uwili kama ushahidi katika [[assessment-validity|tathmini]] kupitia uchanganuzi wa kujifunza wa [[multimodal|mtindo mwingi]], si kama mbinu ya kujifunza tu.
@@ -50,6 +52,12 @@ Mnyororo wa pili, wa kina zaidi wa nadharia, wa utafiti wa uwili wa hifadhi ya m
 - **Uwili, kuweka katika hali, na ujenzi wa kijamii.** Katika [[science-education|kujifunza sayansi]], zana za AI hufanya kazi kama \"vifaa vya kupatanisha\" vinavyowezesha jamii za mazoezi za kidijitali na kuvuka mipaka, na kuunganisha uchunguzi halisi wa uwili na miktadha halisi na ya taaluma mbalimbali.([[li-ai-science-situated-learning-teachers-2025]]) Hii inaunganisha uwili na [[situated-learning]] na [[distributed-cognition]].
 
 Kujifunza kwa mwili kinaungana na [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], na [[social-emotional-learning]].
+
+## Dhana Potofu za Kawaida
+
+- **"Mwili ndio unaofanya kujifunza kwa mwili kufanya kazi."** Uchanganuzi wa jumla wa **masudio 11 ya RALL (N = 595, g = 0.83, I² = 84.4%)** uligundua kwamba **umbo la roboti, namna, uhuru na jukumu la kijamii hakuruhusu** matokeo ya kujifunza lugha ya pili. Sifa za umwilisho hazikuwa kiungo tendaji, na utofauti ulikuwa mkubwa vya kutosha (I² = 84.4%) kwamba athari iliyounganishwa inaeleza seti mchanganyiko sana ya uingiliaji.
+- **"Athari kubwa hutatua utaratibu."** g = 0.83 na washiriki 595 katika masudio 11 ni ishara halisi na haitambui kile iliyoizalisha. Kwa kuwa sifa za ubuni hazikuruhusu athari, utaratibu unaowezekana upo katika shughuli ya ufundishaji badala ya vifaa, jambo linalobadilisha kile cha kuwekeza.
+- **"Umwilisho hauwezi kupimwa, hivyo unabaki wa kinadharia."** Ufuatiliaji wa mwili unaweza kugeuza udhibiti kuwa **ishara inayopimika**: katika uigaji wa mseto wa uhalisia wa usanisinuru ambapo lebo za mwendo zilisogeza mawakala wa wanafunzi katika mfano ulioonyeshwa, mtiririko wa LLM uliweka lebo **sehemu 470** za tabia ya udhibiti. Kigezo kinaweza kutekelezwa hata pale ambapo ni vigumu kukifafanua.
 
 ## Dhana Zilizounganishwa
 - [[educational-robotics]]
@@ -77,3 +85,4 @@ Kujifunza kwa mwili kinaungana na [[educational-robotics]], [[educational-roboti
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+- [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Uigaji wa usanisinuru unaofuatiliwa kwa mwendo ukichanganuliwa kwa mtiririko wa LLM (Fonteles et al. 2026)

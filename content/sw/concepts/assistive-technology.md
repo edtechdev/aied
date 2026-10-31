@@ -8,7 +8,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,13 @@ Mapitio ya wigo ya mwaka 2026 ya teknolojia za usaidizi za kidijitali [[ai-techn
 - **Tumia AI kupunguza gharama ya mabadiliko ya usaidizi.** AI inaweza kuweka manukuu kiotomatiki, kurahisisha maandishi, na kutengeneza mbadala, lakini tathmini ubora wa pato kwa usahihi wa kielimu.
 - **Weka upatikanaji kwenye sera.** Rejea Sheria ya Teknolojia ya Usaidizi, IDEA, na WCAG unaponunua au kujenga zana za AI.
 - **Taja kazi ambayo msaada unahudumia — na tathmini dhidi ya kazi hiyo.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] wanatofautisha fidia (inayotathminiwa kwa ufikivu na ushiriki) na ngazi za msaada (maamuzi yenye msaada) na maendeleo (matumizi ya mkakati baada ya kupungua au kuhamishwa). Wanaongeza kanuni inayolenga onyo la ukurasa huu: msaada wa ufikivu si urekebishaji — kama zana ni marekebisho, mafunzo ya mkakati, au msaada wa mazoezi ya muda \"inapaswa kutajwa katika mpango wa kujifunza.\"
+
+## Dhana Potofu za Kawaida
+
+- **"Teknolojia ya usaidizi inalenga pale vizuizi vilipo."** Mapitio ya wigo ya 2026 ya teknolojia za usaidizi za kidijitali kwa wanafunzi wenye tofauti za neva yanachora ramani ya pato la muongo na kugundua **kutolingana kati ya kile zana zinalenga na pale vizuizi vilipo**: **masudio 27 yalisaidia kujifunza moja kwa moja**, 13 yalishughulikia kusoma na kuandika na 12 usimamizi wa masomo, wakati **umakini (n = 4)** na vizuizi vingine vya msingi vilishughulikiwa kwa kiasi kidogo sana. Lengo lililosomwa zaidi si lile linalozuia zaidi.
+- **"Ukubwa wa athari wa wastani hutambua chombo sahihi."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] wanagundua uingiliaji unaotegemea AI unazalisha athari chanya ya wastani katika matokeo ya kujifunza kwa wanafunzi wenye ulemavu (**g = 0.588**) kote kwa roboti, programu na VR yenye akili. Hiyo ni wastani juu ya teknolojia tofauti sana zinazohudumia mahitaji tofauti sana, kwa hivyo inasaidia kategoria na si chaguo ndani yake.
+- **"Upatikanaji unaotegemea utambuzi ni muundo unaoweza kutetewa."** Kuhitaji utambuzi rasmi ili kushiriki kunawaondoa wanafunzi wenye mahitaji halisi na wasio na lebo, jambo linalopingana na [[universal-design-for-learning|ubuni wa jumla kwa kujifunza]] na kusukuma gharama ya upatikanaji kwenye nyaraka za mwanafunzi.
+- **"Zana zaidi za usaidizi inamaanisha ujumuishaji zaidi."** Mapitio ya wigo yalichuja **rekodi 766** katika hifadhidata tano, na wingi wa pato si sawa na chanjo ya hitaji; idadi ya masudio kwa kila kizuizi ni takwimu inayofahamisha zaidi.
 
 ## Dhana Zilizounganishwa
 
