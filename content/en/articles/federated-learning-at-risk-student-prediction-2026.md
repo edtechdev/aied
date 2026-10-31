@@ -1,7 +1,7 @@
 ---
 title: "Federated learning for privacy-preserving at-risk student prediction in health professional education: A multi-scenario evaluation of FedAvg and FedProx"
 created: "2026-10-04T09:12:00-04:00"
-updated: "2026-10-04T09:12:00-04:00"
+updated: "2026-10-31T15:45:40-04:00"
 type: article
 sources: ['raw/papers/federated-learning-at-risk-student-prediction-2026.md']
 confidence: medium
@@ -44,6 +44,8 @@ Two aggregation strategies are compared — FedAvg and FedProx — under two mod
 The paper's most reassuring result is that federated logistic regression barely gives anything up. Across all four scenarios it retained 99.3-99.9% of centralized performance, with a maximum gap of 0.64 percentage points of AUC-PR. For an institution weighing whether cross-institutional risk modeling is worth the privacy machinery, that is close to a free trade.
 
 The nuance is that the trade-off depends on the model family. FedProx, a proximal-regularization method, delivered no significant benefit over plain FedAvg for logistic regression in any scenario. Its value appeared only for the neural network under data-quality heterogeneity, where it gained up to 6.40 percentage points of AUC-PR and cut training variance fortyfold. The authors frame proximal regularization as a stability mechanism for non-linear architectures, not a general improvement — a distinction that matters for anyone choosing an aggregation strategy.
+
+The scenarios are built to mirror a health-professions faculty rather than a distance university. The authors' own illustration is that [[nursing-education|nursing programs]] within one faculty might carry 30-35% at-risk rates while a concurrent [[medical-education|medicine program]] carries 15-18%, a spread they call pedagogical heterogeneity. That is the reason a single pooled threshold misfires: a model calibrated on a medicine cohort flags a nursing cohort almost everywhere. It also explains the study's odd result, covered below, in which forum activity carries no signal at all.
 
 ## What predicts risk, and the forum surprise
 

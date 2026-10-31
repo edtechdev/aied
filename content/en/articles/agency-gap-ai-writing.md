@@ -1,22 +1,28 @@
 ---
 title: "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-10-31T15:37:04-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, rag]
 ethics: [equity-in-ai-education]
 research_method: [experiment]
-discipline: [writing education, medical education]
+discipline: [writing education, medical education, nursing education]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']
 confidence: high
 institutions: [regulation]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-31"
+    agent: hermes-agent
 ---
 
-> **Synthesis:** A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualizations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalize AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
+> **Synthesis:** A randomized experiment (n = 79 students and recent graduates of [[medical-education|medical]] and [[nursing-education|nursing]] programs) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks over data captured in a high-fidelity ward [[simulation]] run by teams of four nursing students, which produced a bar chart of time spent per behavior, a communication network and a ward heatmap. Each student worked with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalize AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
 
 ## Key findings
 
@@ -46,6 +52,7 @@ institutions: [regulation]
 - **Process ≠ outcome**: agent design produced large differences in the relational organization of dialogue but no significant direct effect on immediate writing scores — the mechanism is how epistemic work is distributed, not output quality.
 - The agency gap frames the failure modes: **under-support** (low literacy × strongly reactive design) and **over-direction** (high capability × rigidly proactive design), echoing [[scaffolding]]'s expertise-reversal effect and adaptive-scaffolding accounts.
 - Practice: make initiative **visible and adjustable** (request/skip/pause [[prompt-engineering|prompting]]), structure proactive prompts to orient–interpret–connect–synthesize rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of [[writing-education|academic writing]] ([[ai-literacy]], [[agentic-ai]]).
+- **The testbed was health-professions training, which sharpens the near-transfer limit.** The three visuals were generated from a high-fidelity simulation in which teams of four nursing students (two primary and two secondary nurses) managed acute clinical scenarios in a ward, combining positional tracking, headset audio and Fitbit-measured heart rate into a bar chart of time per behavior, a communication network and a heatmap of communication intensity and peak arousal. Writing analytically over that material rehearses exactly the chart-reading a clinician does, but the post-test ran immediately after the agent was withdrawn, so the design indexes near transfer in a domain whose licensed competency is unaided performance.
 - Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorized, not directly measured; no manipulation-check coding of agent turns.
 
 ## What this means for practice

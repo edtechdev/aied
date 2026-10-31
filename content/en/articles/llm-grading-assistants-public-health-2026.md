@@ -1,14 +1,14 @@
 ---
 title: "Large language models as grading assistants in public health education: a method-comparison study of essay-style exam assessment"
 created: "2026-09-30T11:13:23-04:00"
-updated: "2026-09-30T11:13:23-04:00"
+updated: "2026-10-31T15:46:10-04:00"
 type: article
 sources: ['raw/papers/10.3389_feduc.2026.1904452.md']
 confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [experiment]
-discipline: [medical education, nursing education]
+discipline: [medical education]
 level: [graduate]
 audience: [instructors, assessment designers, assessment professionals, faculty developers, researchers]
 foundations: [ai-education, human-ai-collaboration, limitations-in-aied-research, teacher-role]

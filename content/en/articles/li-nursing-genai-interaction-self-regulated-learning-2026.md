@@ -2,7 +2,7 @@
 title: "Generative artificial intelligence use and interpersonal educational interaction among nursing students: self-regulated learning as a statistical mediator"
 published: "2026-10-20"
 created: "2026-10-28T12:16:14-04:00"
-updated: "2026-10-28T12:16:14-04:00"
+updated: "2026-10-31T15:38:35-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [self-regulated-learning, student-ai-interaction]
@@ -10,6 +10,7 @@ technology: [generative-ai]
 assessment: [self-report-measures]
 methods: [quantitative-research]
 research_method: [survey, structural equation modeling]
+discipline: [nursing education]
 level: [undergraduate, higher ed]
 audience: [instructors, faculty developers]
 page_kind: [evaluation]
@@ -26,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Li and colleagues asked whether nursing students who interact more with generative AI report more educational interaction, and whether self-regulated learning sits between the two. They surveyed 1,020 undergraduates at one medical college in Hunan Province once, in January 2025, with three self-report scales. Correlations ran at r = 0.378 between student-GAI interaction and educational interaction, r = 0.236 between student-GAI interaction and self-regulated learning and r = 0.580 between self-regulated learning and educational interaction, and the model split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through self-regulated learning, 32.35% of the total. The word statistical is load-bearing: the model is just-identified, so it cannot show that self-regulated learning is the right intermediary rather than a compatible alternative, and one wave cannot order the three variables: this is a pattern of association among three self-assessments, not a mechanism.
+> **Synthesis:** Li and colleagues asked whether [[nursing-education|nursing students]] who interact more with generative AI report more educational interaction, and whether self-regulated learning sits between the two. They surveyed 1,020 undergraduates at one medical college in Hunan Province once, in January 2025, with three self-report scales. Correlations ran at r = 0.378 between student-GAI interaction and educational interaction, r = 0.236 between student-GAI interaction and self-regulated learning and r = 0.580 between self-regulated learning and educational interaction, and the model split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through self-regulated learning, 32.35% of the total. The word statistical is load-bearing: the model is just-identified, so it cannot show that self-regulated learning is the right intermediary rather than a compatible alternative, and one wave cannot order the three variables: this is a pattern of association among three self-assessments, not a mechanism.
 
 ## Key Findings
 
@@ -56,7 +57,10 @@ The predictor is four items: interaction is becoming more frequent, the student 
 
 ## What this means for practice
 
-Read this as a hypothesis about sequencing, not an effect. Instructors can reasonably design assignments that make students plan, monitor and evaluate their AI use, and the paper's own recommendation is that GAI complement rather than replace unmediated contact. It cannot support the claim that teaching self-regulation raises interaction quality, and 32.35% should not be quoted as a third of a benefit that was never measured. Faculty developers should not move effort away from peer work: that channel carried the largest total association (0.72). For researchers, longitudinal or experimental designs with confounder control are the paper's own remedy, and a log of prompts, revisions and refusals would measure the construct the scale only approximates.
+- **Instructors.** Read this as a hypothesis about sequencing, not an effect. Designing assignments that make students plan, monitor and evaluate their AI use is reasonable, and the paper's own recommendation is that GAI complement rather than replace unmediated contact, but the study cannot show that teaching self-regulation raises interaction quality.
+- **Instructors.** Do not quote 32.35% as a third of a benefit that was never measured.
+- **Faculty developers.** Do not move effort away from peer work: that channel carried the largest total association (0.72), and its small mediated share reflects a large direct path rather than an unimportant one.
+- **Researchers.** Longitudinal or experimental designs with confounder control are the paper's own remedy, and a log of prompts, revisions and refusals would measure the construct the scale only approximates.
 
 ## Limitations
 
