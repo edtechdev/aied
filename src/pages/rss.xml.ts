@@ -183,20 +183,18 @@ type FeedEntry = {
 };
 
 /**
- * How many pages of each type the feed carries.
+ * The feed carries every page in the corpus, newest first, with no per-type window.
  *
- * A plain "newest 50" window is right for articles and wrong for everything else: a
- * single ingest day adds dozens of articles, so concepts, FAQs, resources and issues
- * would never surface at all. Each type gets its own newest-N, and the union is then
- * sorted by date so the feed still reads chronologically.
+ * The per-type windows this replaced guaranteed a type surfaced, but they also made the
+ * feed miss articles: ingest runs at roughly 130 articles a week, so a 30-item article
+ * window covered less than two days and a reader polling weekly silently lost most of a
+ * week's additions. A subscriber to a knowledge base wants everything that appeared.
+ *
+ * MAX_ITEMS is an emergency valve, not a policy: at ~730 bytes per item a corpus of 5,000
+ * pages is a 3.6 MB feed, which is near the limit most readers will parse happily. Nothing
+ * older than the newest 5,000 pages has a subscriber, so truncation there costs nothing.
  */
-const FEED_LIMIT_BY_KIND: Record<string, number> = {
-  Article: 30,
-  Concept: 10,
-  FAQ: 10,
-  Resource: 10,
-  Newsletter: 5,
-};
+const MAX_ITEMS = 5000;
 
 export async function GET() {
   const [articles, concepts, faqs, resources, newsletters] = await Promise.all([
@@ -272,12 +270,7 @@ export async function GET() {
 
   const items = entries
     .sort((a, b) => b.date.localeCompare(a.date))
-    .reduce<FeedEntry[]>((kept, entry) => {
-      const limit = FEED_LIMIT_BY_KIND[entry.kind] ?? 0;
-      const already = kept.filter(other => other.kind === entry.kind).length;
-      if (already < limit) kept.push(entry);
-      return kept;
-    }, [])
+    .slice(0, MAX_ITEMS)
     .map(entry =>
       [
         '    <item>',
