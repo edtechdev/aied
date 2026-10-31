@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-30T10:20:00-04:00"
+updated: "2026-10-31T14:31:45-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -70,12 +70,14 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - **Leverage AI for clinical skills training.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] and [[hdr-brachytherapy-agentic-ai-simulation-2026|agentic simulation]] show AI as a skills-training partner in real clinical workflows — embed it where it adds safe, scalable practice.
 - **Balance high-stakes benefits against over-reliance.** HPE is competency-based and high-stakes; guard against AI substituting for hands-on clinical skill and judgment, and apply [[feedback]], [[assessment]], and [[ethics]] considerations with particular care.
 - **Adapt gamified and interdisciplinary AI thoughtfully.** [[medgame-llm-medical-education-gamification|Gamified LLM learning]] and [[alrazeeni-transforming-nursing-education-ai-2026|nursing-education transformation]] show promise but need evaluation for safety and skill outcomes; for nursing specifically, that safety-and-skill evidence — including the RCT in which AI-assisted simulation underperformed standardized patients — is gathered on [[nursing-education]].
+- **Order the curriculum by the evidence, not by the tools on hand.** The same KAS map shows where the evidence is thick and thin: ethics knowledge (14 studies), responsibility (14), application skills (16) and evaluation skills (18) carry consensus, while technical knowledge, application knowledge and operational skills sit at 9 each and collaboration at 7. Where infrastructure is unreliable, reach the technical layer through screen-based cases and open-access model demonstration rather than waiting for high-fidelity simulation.
 
 ## Common Misconceptions
 
 - **"Simulation benefits are established in medical education, so AI simulation will too."** A mixed-methods systematic review of **19 studies (N = 1,253)** finds AI-driven simulations produce effects in that literature — a modest base, and 1,253 participants across 19 studies is a narrow foundation for a technology being deployed at scale.
 - **"The question is what LLMs can do in clinical training."** A critical integrative review of **489 studies across 47 countries** shifts the question **from what LLMs can do to** what they should be trusted with. The capability question is largely answered; the governance question is not.
 - **"Standardized patients are too costly to scale."** A **randomized controlled trial with 95 analyzed medical students** used **multi-agent AI standardized patients** in clinical interview training. The constraint being addressed is the availability of trained human actors, which is a staffing problem rather than a fidelity one.
+- **"Adopting a published AI competency framework settles the curriculum question."** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et al. (2026)]] screened 1,750 records to 23 studies — 15 reviews, 4 qualitative and 4 quantitative, across 15 countries and 2022 to 2026 — and mapped them onto the Knowledge, Attitude and Skill model. Application domains concentrated in medical education (n = 11, 47.8%), general education (n = 9, 39.1%) and other education (n = 3, 13.0%), and the named nursing frameworks they compared — N.U.R.S.E.S., AI-ABCs and CARE — either lack clear pathways for pedagogical implementation or cover isolated skills without assessment methods. The 12-sub-dimension map they build is a proposal awaiting validation, which makes it something to teach against rather than a settled curriculum.
 
 ## Connected Concepts
 
@@ -119,3 +121,5 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Bibliometric map of AI ethics in medical education: output rose 113 (2023) to 500 (2025), 39 countries, and citations reward capability testing over governance (Sriram et al. 2026)
 - [[llm-grading-assistants-public-health-2026]] — Repeated runs do not reproduce the same grade
+- [[xiang-ai-nursing-education-kas-framework-2026]] — Scoping review mapping educational AI competency frameworks onto a 12-part KAS map
+- [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
