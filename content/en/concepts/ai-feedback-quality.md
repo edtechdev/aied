@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-10-31T09:55:00-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -57,6 +57,7 @@ A controlled comparison isolates the feedback component from the adaptive system
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 - **The relational layer resists delegation:** across 21 higher-education teachers using an AI feedback tool, 12 rewrote the model's text, revisions clustered on tone and encouragement (Student–Teacher Relationship f = 24), and the more experienced teachers flagged editing burden, trust and misinformation risk while novices deferred to the tool ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
+- **Students and the model agree on some dimensions and not others.** Undergraduates judged feedback constructive on the same terms ChatGPT did for specificity and actionability, but diverged on timeliness and positivity, and valued instructor feedback for its relational, personalized and expert-driven character while reading AI feedback as impersonal ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]).
 - **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat [[peer-assessment|peer feedback]] because it was *consistently* delivered — nearly all AI-feedback respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
 - **Quality parity can give way over rounds.** On a shared rubric, peer-group feedback matched ChatGPT-4o's across five dimensions in round one, but the model pulled ahead on constructiveness, accuracy and concreteness in round two — a shift they attribute to rubric-aligned prompting and practice, not a fixed model property ([[peer-group-vs-ai-feedback-2026|Li et al. (2026)]]).
 - **The advantage can come from a worked example, not corrective feedback.** Practicing cover letters with AI beat feedback from experienced human editors on a later unaided task (d = .20), and merely viewing one AI-revised letter matched practicing with the tool, so the gain tracked the example ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).

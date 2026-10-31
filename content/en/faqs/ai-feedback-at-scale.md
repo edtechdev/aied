@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help Me Give Better Feedback at Scale?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:29:19-04:00"
+updated: "2026-10-31T10:05:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -17,6 +17,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -83,6 +87,8 @@ Farrokhnia et al.'s quality gain came from a chain-of-thought prompt that walked
 Aldino et al. find the same assist-then-verify pattern in ordinary practice. The machine-learning component most often flagged "Meeting Learning Objective" as missing (20 of 21 teachers had omitted it; 16 accepted the flag) and "Student-Teacher Relationship" (14 omitted; 12 accepted). Teachers decided each suggestion on professional judgment, which is the point of putting them in the loop.
 
 Twelve of Aldino et al.'s 21 teachers made further sentence-level revisions, and the dominant pattern was calibrating tone: editing praise down (f = 11), removing suggestions (f = 9), removing encouragement (f = 8). Revisions clustered in the relational dimension, especially Student-Teacher Relationship (f = 24). They were protecting authenticity and professional voice, and that work does not automate.
+
+Students are the other side of that verification, and their account of the division of labor is close to the one this page recommends. In focus groups of 20 undergraduates, instructor feedback was valued for being relational, personalized and expert-driven, while AI-generated feedback read as impersonal and potentially unfair; those same students were open to a hybrid model in which the instructor reads their work and supplements the model's comments ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). The same study found their judgments aligned with ChatGPT's on specificity and actionability but diverged on timeliness and positivity, so the dimensions where a model's own verdict can be trusted are narrower than the full rubric.
 
 ## Teach students to read the comment
 

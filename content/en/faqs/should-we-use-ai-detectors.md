@@ -1,7 +1,7 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-10-28T11:14:23-04:00"
+updated: "2026-10-31T10:05:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -16,6 +16,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,8 @@ There is a reference-data problem underneath all of it. Detectors are trained an
 
 The strongest controlled test in the knowledge base examined 642 published English abstracts across four domains and two time periods. At a 0.50 threshold, two commercial detectors flagged guideline-compliant light AI editing at 38-80%, flagged unmodified 2023-25 originals at 9-15% (non-[[stem-education|STEM]] far above STEM, p<0.001), and, once text had been run through a humanizing service, caught fewer than 4% of AI-labeled rewrites, a false-negative rate above 96%. The authors call this an integrity catch-22: the students who disclose and edit lightly are the ones the tool catches, and the students who set out to evade it are not. Their recommendation is explicit, that detector scores should never serve as standalone misconduct evidence ([[karr-ai-detection-humanization-2026]]).
 
+Reviews have stopped trying to rank the tools at all. A systematic review of 90 studies published between 2020 and 2026 reports that false-positive rates vary so widely across tools and evaluation settings that direct quantitative comparison is impossible, naming algorithmic and language bias, limited contextual understanding, surface-level linguistic features and insufficiently diverse training data among the causes ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). The remedies it names are procedural rather than technical: transparent detection practice, human review, AI literacy, clear institutional policy and an accessible appeal route.
+
 An independent [[benchmark]] reaches the same place from a different direction. None of 14 tools reached 80% accuracy, and simple paraphrasing, minor editing or a humanizing service roughly halves even that performance. At realistic base rates, false positives outnumber true positives ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Catch rates on wholesale generation are worse than the headline error rates suggest. In a covert field study, researchers injected wholly AI-generated submissions into a live online [[summative-assessment|examination]] system across five psychology modules: 94% went undetected, and the AI work on average outscored the real students. Contract cheating had already shown the same structural problem, since it leaves no reliable trace to find ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -56,6 +62,8 @@ Catch rates on wholesale generation are worse than the headline error rates sugg
 Accuracy also moves with the task. When researchers tested whether [[generative-ai|generative AI]] can detect its own output, results were dependable for programming and longer reflective writing and poor for short answers, where the model often rated its own text as more human-like than authentic student work. Minor prompt variations sharply reduced accuracy ([[llm-detecting-llm-generated-content-education]]). A threshold that holds for one assignment will fail on another, and you will not know which until the appeal.
 
 Then there is expiry. A 2026 study reframes detection as an adaptation problem: a [[ren-test-time-adaptation-ai-text-detection-2026|black-box rewriting attack]] dropped the commercial detector Pangram to a balanced accuracy of 63.5% and an AI recall of 27.0%, and a detector trained on Llama 3.3 70B Instruct reached only 55% recall on abstracts from a newer model. Test-time adaptation recovered to 94.4% balanced accuracy and 99% recall on that same text, which is the encouraging half. The same paper shows what the fix costs: as simulated LLM adoption spreads, a fixed supervised detector's recall on human text decays from 85.9% to 73.4% across the decade. Its expiry condition is stated bluntly, that balanced accuracy cannot exceed half of one plus the total-variation distance between the human and AI distributions, so convergence of the two would defeat every learning-based detector. A validated score holds until the models move, and they move every few months ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+The comparison also depends on the task the reader is given. In a controlled design where 30 pre-2022 article introductions were rewritten across five plausible conditions, blinded human raters scored 19% overall, indistinguishable from chance, while three commercial detectors separated the same five conditions (p < 0.001 for all) yet agreed only weakly with one another on the absolute score, ICC 0.57 to 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). That task asked raters to place text among five editing conditions rather than to pass a yes-or-no judgment on one student's essay, so it does not overturn the marker studies below, but it removes any comfort that a human in the room is the reliable instrument.
 
 And the machine has never clearly beaten a careful reader. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall and Parapadakis (2025)]] report machine detection of AI or paraphrased text at roughly 80% against 78.4% for human reviewers, and cite evidence that AI-generated text has passed as human-authored in up to 80% of cases. That margin disappears into the error band the human already brings, which is too thin to ground a finding ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

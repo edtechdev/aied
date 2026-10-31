@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-26T13:50:00-04:00"
+updated: "2026-10-31T09:55:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -36,6 +36,8 @@ AI literacy has rapidly emerged as a core competency for learners, educators, an
 AI literacy [[research-methods-aied|research]] in this knowledge base spans four interconnected dimensions:
 
 Frameworks increasingly trace how these dimensions are enacted in practice: [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]] show how postgraduate researchers enact all four dimensions when using [[generative-ai]] across the research workflow and scaffold research-specific responsible-use guidelines from them, while [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Şan & Orhan Karsak (2026)]] use Word-Association mapping to show that Turkish undergraduates' AI cognition is instrumentally "black-box" dominated, with ethical-governance concepts structurally isolated (τ=−0.819) — evidence that credential design must deliberately bridge experiential tool use and ethical frameworks.
+
+**Experts converge on the competencies and not on where they sit.** Eleven experts rated a nine-competency, three-domain framework's content favorably yet disagreed on competency placement (M = 3.73, SD = 1.19, IQR = 1.50) while endorsing non-exclusive domain relations (M = 4.45, SD = 0.52), reading the domains as functional roles rather than fixed buckets ([[lee-ai-literacy-expert-convergence-2026|Lee, Son and Hong (2026)]]).
 
 **The demand depends on what the student and the system are jointly doing.** Literacy frameworks usually describe one generic set of competences, but what a GenAI-supported activity actually requires varies with how epistemic work is distributed inside it. [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified 102 empirical higher-education studies against Strobel et al.'s taxonomy of GenAI applications and found Assistant and Enabler entanglements dominating at 42.16% of the corpus each, while Generator, Reimaginator and Synthesizer together accounted for under a fifth — a skew they attribute to institutional legitimacy rather than model capability, since the same models support all five. Reading each type through Dohn's three context levels (domain-internal, activity-internal, activity-framing) shows demands cohering for Assistant work and fracturing for the marginal types, where what the activity asks of students diverges from what the institution recognizes as legitimate competence. Their conclusion moves literacy away from tool fluency altogether: GenAI literacy is the capacity to recognize how epistemic work and responsibility are distributed in a given entanglement, and to act appropriately within it.
 
