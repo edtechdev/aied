@@ -1,19 +1,23 @@
 ---
 title: "KI-Bildung in den Disziplinen"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -85,7 +89,7 @@ Jede Disziplin bringt unterscheidende [[pedagogy|pädagogische]] Traditionen ein
 
 ## Vertretene Disziplinen in der Wissensbasis
 
-Die stärkste disziplinspezifische Abdeckung der Wissensbasis liegt in **[[stem-education|STEM]]** insgesamt — besonders **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]** und **[[cs-education]]** — gefolgt von **[[writing-education]]**, **[[language-learning]]** (mit einem unterscheidbaren **[[english-education]]**-Strang für EAP/EFL/ESL) und jünger **[[engineering-education]]**, **[[teacher-education]]** (mit einem umfangreichen Korpus an KI-Trainingsforschung vor und im Dienst), **[[medical-education]]** und **[[humanities-education]]**. Ingenieurwesen und Design haben ebenfalls einen wachsenden Korpus an Artikeln. Diese Konzentration verfolgt die breitere Literatur: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.s (2026)]] Review fand STEM als häufigste interdisziplinäre Form in KI-unterstützter Hochschulbildung (n = 26), deutlich vor Nicht-STEM-Fächern (n = 10) und STEAM (n = 2) — eine Warnung auf Disziplinebene, dass KI-Bildungsevidenz dort am schnellsten akkumuliert, wo rechnerisches Werkzeug am leichtesten einzubetten ist, nicht notwendigerweise dort, wo der pädagogische Wert von KI am größten ist. Die jüngsten Ergänzungen verbreitern den Strang über akademische Fächer hinaus in professionelle und angewandte Bildung — [[nursing-education|Pflege]], [[information-technology|Informationstechnologie]] und [[vocational-education|Berufsbildung]] —, wo Lernende an demonstrierter Praxis statt an Richtigkeit bewertet werden, und wo der Arbeitgeber und die Zulassungsbehörde, nicht nur die Akademie, definieren, was als Kompetenz zählt.
+Die stärkste disziplinspezifische Abdeckung der Wissensbasis liegt in **[[stem-education|STEM]]** insgesamt — besonders **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]** und **[[cs-education]]**. Danach folgt **[[statistics-and-data-science-education]]** — ein Strang, der sich von der Mathematik unterscheidet, weil seine Signaturpädagogik die Datenuntersuchung ist statt das Schlussfolgern auf eine bestimmte Antwort hin; ein Beispiel für das Designproblem des Strangs selbst: [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] nutzt eine agentische Pipeline, um kontextpassende synthetische Datensätze zu erzeugen, was das Material adressiert, das ein Statistikkurs braucht, nicht dessen Erklärung — und kann nach dem eigenen Bekunden der Autorinnen und Autoren Datenerhebung, Messung oder Studiendesign nicht lehren. Danach folgen **[[writing-education]]**, **[[language-learning]]** (mit einem unterscheidbaren **[[english-education]]**-Strang für EAP/EFL/ESL) und jünger **[[engineering-education]]**, **[[teacher-education]]** (mit einem umfangreichen Korpus an KI-Trainingsforschung vor und im Dienst), **[[medical-education]]** und **[[humanities-education]]**. Ingenieurwesen und Design haben ebenfalls einen wachsenden Korpus an Artikeln. Diese Konzentration verfolgt die breitere Literatur: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.s (2026)]] Review fand STEM als häufigste interdisziplinäre Form in KI-unterstützter Hochschulbildung (n = 26), deutlich vor Nicht-STEM-Fächern (n = 10) und STEAM (n = 2) — eine Warnung auf Disziplinebene, dass KI-Bildungsevidenz dort am schnellsten akkumuliert, wo rechnerisches Werkzeug am leichtesten einzubetten ist, nicht notwendigerweise dort, wo der pädagogische Wert von KI am größten ist. Die jüngsten Ergänzungen verbreitern den Strang über akademische Fächer hinaus in professionelle und angewandte Bildung — [[nursing-education|Pflege]], [[information-technology|Informationstechnologie]] und [[vocational-education|Berufsbildung]] —, wo Lernende an demonstrierter Praxis statt an Richtigkeit bewertet werden, und wo der Arbeitgeber und die Zulassungsbehörde, nicht nur die Akademie, definieren, was als Kompetenz zählt.
 
 Der berufliche Strang ist der dünnste in dieser Evidenz: ein systematisches Review von 26 Studien in Berufsbildung fand keine in Arbeitsplatzsettings trotz des arbeitsbasierten Charakters der Berufsbildung, nur fünf randomisierte Experimente und nur drei Designs, die Lernenden eine aktive Rolle gaben ([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
 
@@ -99,6 +103,12 @@ Mehrere Disziplinen bleiben dünn in der Wissensbasis und sind gute Kandidaten f
 - **Die Künste (bildende Kunst, Design, Musik)** — aufkommende Abdeckung: [[ai-interior-design-malaysia-2026|KI in der Innenarchitekturbildung]], [[genai-architectural-design-studios|GenAI in Architektur-Designstudios]], [[ai-vocal-pedagogy-2026|KI-Gesangspädagogik]], [[musical-education-ai-digital-transformation-2026|KI in der Musikbildung]], [[t2i-competence-paradox-2026|Text-zu-Bild-Kompetenzparadox]]. Die Designseite der Studien in dieser Liste hat inzwischen ihr eigenes Zuhause: [[design-education]] zieht die Architektur-, Innenarchitektur- und Text-zu-Bild-Studioarbeit in eine Seite über professionelle Designformation, wobei bildende Kunst, Musik und Performance als dünner Rest bleiben.
 
 Diese unterrepräsentierten Disziplinen würden von eigenen Konzeptseiten und zusätzlicher Artikel-Einlagerung profitieren, während die Wissensbasis wächst.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Disziplin zählt vor allem für Inhaltbeispiele."** Forschung mit **560 Studierenden** fand, dass die disziplinäre Zugehörigkeit **vorhersagt, wie häufig und wie offen Studierende** [[generative-ai|generative KI]] nutzen. Die Disziplin prägt, ob das Werkzeug überhaupt genutzt wird und ob diese Nutzung offengelegt wird, nicht nur, wonach es gefragt wird.
+- **„Interdisziplinarität ist ein allgemeines institutionelles Ziel."** Die **Form des „Interdisziplinären" ist selbst disziplinbestimmt**: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.s (2026)]] [[meta-analysis-systematic-review|Review]] findet, dass die Gestalt, die sie annimmt, nach Fach variiert. Eine einzige institutionelle Definition missversteht mindestens einige der Disziplinen, die sie abdeckt.
+- **„Berufsbildung hat eine Forschungsbasis, die mit der akademischer Disziplinen vergleichbar ist."** Der berufliche Strang ist **der dünnste in dieser Evidenz**: ein systematisches Review von **26 Studien** in der Berufsbildung fand **keine in Arbeitsplatzsettings** — den Settings, in denen die Kompetenz tatsächlich ausgeübt wird. Das Fehlen der Literatur ist eine Lücke, kein Nullergebnis.
 
 ## Verbundene Konzepte
 

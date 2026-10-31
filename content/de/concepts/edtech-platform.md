@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Edtech-Plattform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T22:09:03-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,13 +12,17 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,16 @@ Datenschutz kann in die Pipeline statt in die Richtlinie eingebaut werden: Ein K
 5. **Erklären Sie Empfehlungen in der Fachsprache der Lehrkraft.** Die KI-Funktionen einer Plattform verdienen Vertrauen und Annahme, wenn ihre Erklärungen verständlich und pädagogisch sinnhaltig sind: In einem Within-Subject-Experiment mit einem KI-Gruppierungsempfehlungswerkzeug (GrouPer) fanden [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]], dass domänengetriebene, in curriculare Sprache gefasste Erklärungen Verständlichkeit, Vertrauen und Akzeptanz bei Lehrkräften signifikant stärker erhöhten als rohe Merkmalsbedeutungs-Erklärungen —, und dass echte Klassenzimmernutzung für volle Akzeptanz weiterhin zählte.([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Trennen Sie das System, das Evidenz erzeugt, von dem, das sie bewertet.** Wenn Agenten einen Kurs anstelle einer lernenden Person absolvieren können, argumentiert [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]], muss eine Plattform zeitnahe, einsehbare Evidenz der Argumentation der lernenden Person ausgeben und darf nicht ihr alleiniger Bewerter sein — Umgebung, Aussteller und Prüfer sollten unabhängig sein.([[credentials-carry-evidence-ai-agents-2026]])
 7. **Erzeugen Sie Repräsentationen zur Entwurfszeit, nicht zur Laufzeit.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] argumentieren, Laufzeitanpassung könne nicht in großem Maßstab verifiziert werden, und schlagen vor, Inhalte als modalitätsagnostische semantische Karten zu kodieren, aus denen interaktive, Audio-, vereinfachte Text- und niedrigbandbreitige Varianten vor der Veröffentlichung erzeugt und von Lehrenden freigegeben werden —, was Inferenzkosten pro lernende Person eliminiert, obwohl kein Prototyp berichtet wird.
+
+## Verbreitete Fehlvorstellungen
+
+**„Wenn eine Plattform prinzipiell wirksam ist, werden Studierende sie nutzen."** Fähigkeit und Annahme sind getrennte Probleme, und die Annahme ist oft das bindende. In einem zweijährigen Cluster-RCT **probierte 96% der Studierenden Khanmigo** — nahezu universelle Annahme —, doch die mediane Studierende bzw. der mediane Studierende schrieb ihm nur in **17% der Sitzungen, in denen ein Fehler gemacht wurde**, genau im Moment, für den das Werkzeug gebaut wurde. Eine Plattform, die die Klasse protokolliert, hat sie nicht verändert.
+
+**„Annahme wird an Logins gemessen."** Die informative Lücke liegt auf Nachrichtenebene, nicht auf Kontoebene. In demselben Versuch trugen nur **~14,5% der Nachrichten eine echte mathematische Frage**. Sechsundneunzig Prozent der Studierenden erzeugten das Zugriffsereignis; etwa eine von sieben ihrer Interaktionen leistete die intellektuelle Arbeit. Eine Login-Zahl zu berichten hätte hier einen Erfolg beschrieben, den es nicht gab.
+
+**„Offen versus proprietär ist ein Lizenzdetail ohne Folgen für die Ergebnisse."** Das Plattformmodell prägt, was Institutionen mit dem System tun können: [[open-source|offene]] Plattformen wie OATutor — ein MIT-lizenzierter adaptiver Tutor mit einer Creative-Commons-Algebra-Inhaltsbibliothek, [[knowledge-tracing|Knowledge-Tracing]]-Meisterschaftsschätzung und eingebautem A/B-Testing — lassen ein Fach seine eigene Pädagogik instrumentieren und verändern, was eine geschlossene Plattform nicht kann. Die Lizenz bestimmt, wer das Experiment durchführen darf.
+
+**„Eine Plattform, die an einer Institution funktioniert, funktioniert auch wie übernommen."** Plattformeffekte laufen durch lokale Governance: Datenschutz-zuerst-Architektur, Datenminimierung, prüfbare Protokolle und rollenbasierter Zugang sind das, was eine KI-integrierte Plattform überhaupt einsetzbar macht, und sie sind institutionelle Entscheidungen statt Merkmale, die sich aus einer Anbieterdemonstration ableiten lassen.
 
 ## Verbundene Konzepte
 

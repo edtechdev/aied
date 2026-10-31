@@ -1,7 +1,7 @@
 ---
 title: Wohlbefinden
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-24T22:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,12 @@ Wohlbefinden verbindet sich mit [[student-experience]] (als Dimension der Gesamt
 **Reibung, Bedeutung und Einsamkeit als Signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom und Inzlicht (2026)]] geben dem Wohlbefindensfall einen Mechanismus: Anstrengung signalisiert, dass unsere Handlungen zählen, daher fühlen Menschen, die auf eine Aufgabe hinarbeiten, sich kompetenter, schätzen das Produkt mehr und sehen es als zweckvoller — und selbst bei objektiv bedeutungslosen Aufgaben erhöht das Hinzufügen von Reibung die zugeschriebene Bedeutung. Bei Beziehungen behandeln sie Einsamkeit nicht nur als Geißel (verbunden mit Herz-Kreislauf-Erkrankung, Demenz, Schlaganfall und vorzeitigem Tod), sondern als ein **[[biology-education|biologisches]] Signal** gleich Hunger oder Schmerz: Unbehagen, das motiviert, auf andere zuzugehen, Einladungen anzunehmen, in bestehende Beziehungen zu investieren und schwierige Gespräche zu ertragen. KI-Begleiter können dieses Unbehagen lindern, was die Autoren in manchen Fällen als echten Fortschritt ansehen, während sie auch das Signal zum Schweigen bringen, das Verbindung antreibt — und sie mäßigen das Argument nach Stufe, indem sie festhalten, dass es für Menschen, die durch Umstände statt Wahl isoliert sind, grausam wäre, solchen Technologien den Zugang zu verweigern ([[motivation]], [[social-emotional-learning]]).
 
 Emotionale Unterstützung und Verbindung können innerhalb einer Stichprobe in entgegengesetzte Richtungen laufen. Unter 819 saudischen Studierenden der Hochschulbildung lag die Zufriedenheit mit Chatbots im Mittel bei 4,29 und ihre Erfahrung mit den Werkzeugen bei 4,19, während die Sorge, Chatbots verringern menschliche Verbindung, das am höchsten bewertete Konstrukt bei 4,36 war ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). Diese Sorge stieg mit Erfahrung, statt mit Zufriedenheit zu fallen (standardisierte Koeffizienten von .64 gegenüber .11).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Zustimmung der Studierenden zeigt, dass Wohlbefinden unterstützt wird.“** Unter **551 Erstsemesterstudierenden** befürworteten **82,76% die Integration** digitaler und intelligenter Inhalte — und **hohe Zustimmung ging mit Belastung einher, während KI-Aufgabendruck den Nutzen schwächte**. Zustimmung und Belastung steigen gemeinsam, sodass Zufriedenheitsbefragungen genau hier in die Irre führen.
+- **„Unterstützung für das Wohlbefinden ist kulturell neutral.“** [[culturally-aware-student-stress-chatbot-2026|Bashir und Afzal (2026)]] beschreiben Sukoon, ein hybrides Werkzeug zur Unterstützung des Wohlbefindens, als **kulturell verortet** — und die Rahmung dieser Seite benennt seine Grenzen. Ein Unterstützungsdesign, das eine universelle Studierendenschaft annimmt, verfehlt die Population.
+- **„Aufgabendruck ist von der Technologie getrennt.“** Der Befund ist, dass KI-**Aufgabendruck** den Nutzen der Integration schwächte, was die Arbeitslast in die Wirkungen der Technologie hineinlegt statt neben sie.
 
 ## Verbundene Konzepte
 

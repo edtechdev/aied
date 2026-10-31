@@ -1,7 +1,7 @@
 ---
 title: AIED-Forschung interpretieren und anwenden
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,13 +13,17 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -146,6 +150,16 @@ Die Prüfungen oben sind kein Volkswissen; sie kommen von dokumentierten Fehlsch
 7. Kalkulieren Sie es: Lizenzen, Stufen, Personalzeit, Datenregeln.
 8. Pilotieren Sie klein mit einem Maß ohne Hilfe, dann entscheiden Sie.
 9. Notieren Sie ein Review-Datum ein Jahr hinaus, und seien Sie bereit, die Behauptung zu pensionieren.
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine veröffentlichte Metaanalyse ist gesicherte Evidenz über KI in der Bildung.“** Die Synthesen des Felds haben die Prüfung nicht überstanden. [[oneill-presumed-effective-meta-analysis-2026|O'Neills (2026)]] Prüfung von **14 begutachteten Metaanalysen**, die behaupten, KI verbessere Bildung, fand, dass **keine** eine gültige Basis für diese Schlussfolgerung lieferte. Eine gepoolte Effektstärke ist nur so gut wie die gepoolten Studien, und in dieser Literatur hat das Pooling routinemäßig Designs eingeschlossen, die das Ergebnis nicht auf KI zurückführen konnten. Bevor Sie eine meta-analytische Zahl zitieren, fragen Sie, was sie aggregiert hat.
+
+**„Die größere Effektstärke gehört zur besseren Intervention.“** Oft das Gegenteil. Im Review-Kontext, den diese Seite dokumentiert, hatten nur **21%** der Studien eine wohldefinierte Treatment-Bedingung, eine Kontrollgruppe und ein valides Lernmaß — und der berichtete Vorteil für „ChatGPT nutzen“ fiel *größer* aus als für zweckgebaute [[intelligent-tutoring|intelligente Tutoring-Systeme]]. Schwach spezifizierte Treatments neigen zu aufgeblähten Effekten, weil der Vergleich vager und das Ergebnismaß lockerer ist. Eine größere Zahl ist ein Grund, das Design anzusehen, kein Grund, die Intervention zu bevorzugen.
+
+**„Höhere Noten bei Nutzung des Werkzeugs zeigen, dass das Werkzeug mehr gelehrt hat.“** In einer [[k-12|K-12]]-Mathematikstudie erzielten Studierende, die mit einem allgemeinen [[conversational-ai|Chatbot]] übten, bessere Übungsnoten und schnitten dann in einer Bewertung ohne Hilfe **etwa 17% schlechter** ab. Die mit dem Werkzeug gemessene Übungsleistung ist das aufgeblähte Maß; die ohne Hilfe ist das Ergebnis, und nur eines von beiden stieg.
+
+**„Wenn der Effekt real ist, spielen die Umsetzungsdetails kaum eine Rolle.“** Sie *sind* der Effekt. Eine Studie, die 30 Studierende in einem Kurs an einer Institution auf einer Version des Werkzeugs begleitete, die heute niemand mehr nutzt, hat einen Befund über eine Konfiguration erzeugt, die nicht mehr existiert. Treatment-Spezifikation, Version und Setting sind Teil der Behauptung und nicht Kontext um sie herum.
 
 ## Verbundene Konzepte
 

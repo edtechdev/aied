@@ -1,19 +1,23 @@
 ---
 title: "Modellierung der Lernenden und adaptive Instruktion"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T22:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -110,6 +114,12 @@ Ein Black-Box-Schätzer kann auch in ein kleines selbst-erklärendes Modell dest
 ## Verbindungen zu anderen Konzepten
 
 Modellierung der Lernenden und adaptive Instruktion speisen [[learning-analytics|Learning Analytics]] ([[visualization|Dashboards]] und Interventionen), [[formative-assessment|formatives Assessment]] (analyticsgetriebenes Assessment), und [[feedback|Feedback]] (was das System der lernenden Person sagt). Es verbindet sich mit [[ai-education|KI in der Bildung]] als Kernstrang von KI für die Bildung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein treues Modell braucht die komplexeste Methode."** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries und Koprinska (2025)]] zeigen, dass **treue Repräsentation nicht den komplexesten** Ansatz erfordert. Komplexität ist kein Proxy für Treue, und ein einfacheres Modell, das die relevante Struktur erfasst, kann das bessere Instrument sein.
+- **„Lernendenmodelle brauchen Spurdaten."** Ein prädiktives Lernendenmodell kann auf **der Struktur der Einschreibung** statt auf Spurdaten ruhen: TRACE kodiert jedes Semester als **ungeordneten Korb von Kursen** und sagt daraus vorher. Das prädiktive Signal kann in der administrativen Aufzeichnung der Institution liegen.
+- **„Affektiver Zustand verlangt physiologische Sensorik."** Ein Mathematik-Tutor **schloss Emotion aus Gesprächstext und Gesichtsausdruck** und bildete den aggregierten Zustand auf Tutoring-Entscheidungen ab. Das Affektsignal war aus dem rekonstruierbar, was Lernende ohnehin produzierten.
 
 ## Verbundene Konzepte
 

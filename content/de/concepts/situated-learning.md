@@ -1,19 +1,23 @@
 ---
 title: Situiertes Lernen
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-24T22:39:12-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,6 +38,7 @@ ai_assist:
 Situiertes Lernen ist eine der Tätigkeits- und Kontexttheorien im Strang [[learning-theories]] der Wissensbasis. Es nimmt Wygotskische Themen sozialer Konstruktion auf, setzt aber einen starken Akzent auf die enge Integration von „Tun“ und „Lernen“ und auf die Bedeutung von Communities of Practice. Als pädagogische Haltung konfrontiert es traditionelle, standardisierte Beschulung, indem es den [[sociocultural-learning|soziokulturellen]] Kontext der Lernenden als Schlüsselelement für den Erwerb von Fähigkeiten und die Aneignung von Wissen in den Vordergrund stellt, das für ihre Realität relevant ist.
 
 In der Literatur zu [[ai-education|KI in der Bildung]] ist situiertes Lernen bedeutsam, weil es eine Designlinse für KI bietet: [[adaptive-learning|adaptive Systeme]], [[intelligent-tutoring|intelligentes Tutoring]] in authentischen Szenarien und [[virtual-and-augmented-reality|immersive]] [[simulation|Simulationen]] können KI-getriebene Bildung in realen Kontexten verankern, während situiertes Lernen KI umgekehrt einen sinnvollen Anker in authentischer Praxis und Komplexität bietet. Beide werden weithin als komplementär behandelt, wobei menschliche Begleitung für die [[ethics|ethische]] Fundierung unverzichtbar bleibt.
+- **Die Kontextualisierung des Materials selbst ist ein situiertes Manöver.** DagFlow-AI erzeugt einen Statistikdatensatz, der um ein von der lernenden Person selbst genanntes Interesse herum gebaut ist — eine Fallstudie nutzte die Sorge einer lernenden Person um Klimawandel und Gesundheit —, während die Lernziele und das Fähigkeitsniveau konstant gehalten werden ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Die *Daten* an die lernende Person anzupassen statt die Erklärung behandelt den Kontext der Praxis als das, was situiert werden muss. Die Autoren räumen die Grenze ein: Synthetische Daten können Datenerhebung, Messung oder Studiendesign nicht lehren, der Kontext ist also real für die lernende Person, aber nicht für die Welt.
 
 ### Situiertes Lernen als Designlinse für KI
 
@@ -47,6 +52,16 @@ Die Forschung der Wissensbasis behandelt situiertes Lernen nicht bloß als abstr
 - **Situierte KI-Ethik.** Ethisches Nachdenken über KI ist selbst am besten als *situiert* zu behandeln – verankert in kulturell-historischem und ökologischem Kontext statt in abstrakten Prinzipien.([[raffaghelli-situated-ai-ethics-2026]])
 
 Situiertes Lernen verbindet sich eng mit [[embodied-learning|verkörpertem Lernen]] (beide betonen die Verankerung der Kognition in Kontext und Handlung), [[distributed-cognition|verteilter Kognition]] (Lernen verteilt über Menschen, Werkzeuge und Kontexte), [[experiential-learning|erfahrungsbasiertem Lernen]] und [[constructivist]]-Theorie. In der KI-Bildung fundiert es die Kritik an dekontextualisiertem, entkörpertem Lernen: KI-Design, das Lernende in authentischer Praxis verankert hält, bewahrt die Situiertheit, die dauerhaftes Lernen erfordert.
+
+- **Szenarien und wiederverwendbare Assets als Infrastruktur.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] operationalisiert situiertes Lernen als Szenario — Ziel, rollenspezialisierte Agenten, abfragbares Wissen und eine zustandsbehaftete Werkbank — plus ein Asset-Gedächtnis, das Prozessaufzeichnungen und Erfahrungsspuren mit ihrer Provenienz bewahrt, sodass spätere Szenarien auf frühere Praxis zugreifen können. Zwei vorregistrierte randomisierte Drei-Arm-Studien fanden einen Lernzuwachsvorteil von 7,0 Punkten gegenüber einem einfachen Assistenten im juristischen Schlussfolgern (d = 0,56) und einen größeren Anteil, der Kriteriumsmeisterschaft im kompetitiven Programmieren erreichte (68% gegenüber 45%), während das Prompten desselben Modells, als Lehrkraft zu agieren, keinen nachweisbaren Nutzen brachte. Es ist eine seltene Prüfung der Behauptung, dass Situation und Arbeitsbereich mehr vom Lernen tragen als konversationelle Erklärung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Situiertes Lernen bedeutet, einer abstrakten Lektion ein realistisches Szenario hinzuzufügen."** Die Behauptung der Theorie ist stärker als Kontextdekoration: Lernen wird durch Teilhabe an einer Community of Practice konstituiert, und gelernt wird, was diese Teilhabe ermöglicht. Ein durchgerechnetes Beispiel mit einem arbeitsplatzbezogenen Rahmen lehrt weiterhin das Beispiel, nicht die Praxis.
+- **„Authentizität ist eine Eigenschaft der Aufgabe."** Authentizität ist eine Relation zwischen der Aktivität und der legitimen Arbeit einer realen Gemeinschaft. Eine Aufgabe kann aufwendig und dennoch schulförmig sein — von einer Lehrkraft bewertet, für eine Note, ohne Folgen in der Welt, die sie zu repräsentieren behauptet.
+- **„Bewertung, die aus der Aufgabe hervorgeht, bedeutet keine Bewertung."** Sie bedeutet, dass das Kriterium das der Gemeinschaft ist, nicht das des Klassenzimmers: ob die Arbeit für die Menschen akzeptabel ist, die die Arbeit tun. Das ist ein anderes und meist strengeres Maß als eine Rubrik.
+- **„Lehre erfordert einen physischen Ort."** Der Mechanismus ist legitime periphere Teilhabe — vom Rand einer Praxis zu ihrem Zentrum zu wandern, mit echter Verantwortung. Online- und simulierte Settings können sie unterstützen oder die Peripherie simulieren, ohne je Teilhabe zu gewähren, und der Unterschied ist, ob der Beitrag der lernenden Person tatsächlich genutzt wird.
+
 
 ## Verbundene Konzepte
 - [[learner-identity]] — sich entwickelnde disziplinäre, professionelle, kreative und akademische Lernendenidentitäten
@@ -65,6 +80,7 @@ Situiertes Lernen verbindet sich eng mit [[embodied-learning|verkörpertem Lerne
 
 ## Verbundene Artikel
 
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Szenarien plus wiederverwendbare, provenienztragende Assets schlagen einen einfachen Assistenten in zwei Studien
 - [[vargas-situated-learning-ai-review-2024]] — PRISMA-systematischer Review zu situiertem Lernen und KI in der Bildung (Primärreferenz für diese Seite)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]

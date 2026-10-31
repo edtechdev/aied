@@ -1,7 +1,7 @@
 ---
 title: Vertrauenskalibrierung
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T21:55:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-24T06:26:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,11 +72,11 @@ Agentenbezogene soziale Wahrnehmungen, nicht Genauigkeit, bildeten die Glaubwür
 Fehlkalibrierung rein als Nutzendendefizit zu behandeln — etwas, das dadurch behoben wird, dass man Menschen beibringt, KI-Ausgabe zu prüfen —, mag ein Kategorienfehler sein. [[trust-calibration-chatbots-design-problem-2026|Jaidka & Cai (2026)]] argumentieren, Transparenzangebote seien *inert*: sie warten darauf, dass eine nutzende Person auf sie einwirkt, und die meisten tun das nicht. In einer passiven Tracking-Studie mit 900 US-Erwachsenen klickten Lesende, die eine KI-erzeugte Zusammenfassung sahen, in nur 1% der Besuche auf eine darin zitierte Quelle, und klickten etwa halb so oft auf irgendeinen Ergebnislink wie Lesende, die keine Zusammenfassung sahen. Befragungsevidenz zeigt dieselbe Lücke im Maßstab — in einer Studie mit 81,000 Personen über 159 Länder war Unzuverlässigkeit die am häufigsten genannte Sorge über KI, während über 48,000 Antwortende über 47 Länder KI weitgehend täglich nutzten, selbst wenn sie sagten, sie vertrauten ihr nicht. Vertrauen und Verlassenheit sind auseinandergedriftet, und das Paper verortet die Ursache in Oberflächenhinweisen: Flüssigkeit, Zuversicht und Geschwindigkeit treten an die Stelle von Verifizierbarkeit, sodass Zuversicht und Korrektheit sich entkoppeln. Bemerkenswert: maschinelle Autorschaft kann Glaubwürdigkeit aufblähen — Lesende bewerteten naturwissenschaftliche Zusammenfassungen als glaubwürdiger und vertrauenswürdiger, wenn sie von GPT statt von einem Menschen geschrieben waren, hauptsächlich weil das Modell in einfacherer Sprache schrieb.
 
 Die Designimplikation ist eine zweidimensionale Nutzendentypologie — die *Fähigkeit*, die Ausgabe eines [[conversational-ai|Chatbots]] zu verifizieren, gekreuzt mit der *Motivation*, dies zu tun —, die vorhersagt, welche Nutzenden in welche Richtung fehlkalibrieren werden. Die Autoren paaren sie mit zwei Interventionsfamilien, die zusammen wirken müssen: [[explainable-ai|Interpretierbarkeits]]angebote (Begründungen, Zitate, Unsicherheitssignale), die Bewertung möglich machen, und Engagementmechanismen, die sie tatsächlich geschehen lassen, geschichtet über Reasons Swiss-cheese-Modell in acht prüfbare Propositionen. [[ai-literacy|KI-Kompetenz]] wird als die dauerhafte Schicht unter beiden positioniert, die Nutzende über Typologiezellen hinweg bewegt. Die Neurahmung zählt für die Bildung, weil sie die Verantwortung verschiebt: wenn transparente Zitierungen in der Allgemeinbevölkerung ungeklickt bleiben, dann wird bloßes Aussetzen von Studierenden gegenüber KI-Erklärungen sie nicht kalibrieren — das Angebot muss so gestaltet sein, dass es die Prüfung erzwingt.
+- **Eine Begründung kann den Stachel des Widerspruchs abfedern, ohne das Vertrauen besser zu kalibrieren.** In vier Szenarioexperimenten (N = 859) senkte eine KI-Empfehlung, die dem Urteil einer Sportpädagogin oder eines Sportpädagogen widersprach, das Maschinenvertrauen von 5.42 auf 4.31 (d = 1.061); das Beifügen einer Begründung verkleinerte diese Strafe von -0.811 auf -0.182, obwohl die Genauigkeit des Ratschlags nie festgestellt wurde ([[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang (2026)]]).
 
 Ein dritter Hebel wirkt auf der Interaktionsstruktur selbst: eine einzelne Empfehlung durch eine [[tuo-armada-multi-agent-debate-overreliance-2026|Mehr-Agenten-Debatte, deren aggregierte Position vorenthalten wird (Tuo et al., 2026)]] zu ersetzen, senkte das schädliche Umschalten auf eine falsche KI-Position unter 186 Teilnehmenden von 42–60.5 % auf 5.7–8.2 %. Der Hebel ist schützend statt korrigierend — Teilnehmende, die mit einem falschen Urteil begannen, erholten die richtige Entscheidung nur in 30.6 % und 24.7 % der Versuche, unter dem Zufallswert für eine binäre Wahl.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] liefern einen Designhebel, der Kalibrierung tatsächlich bewegte: Bewertenden mit-entworfene Trustworthiness-Kriterien zu zeigen, während sie LLM-Antworten verglichen, erhöhte die Inter-Rater-Übereinstimmung von Krippendorff's alpha 0.3987 auf 0.4931, obwohl die gebündelte Übereinstimmung unter 0.67 blieb und zusätzliche Maße Mehraufwand hinzufügten.
-
 Für Kinder mag der Designhebel im Register des Agenten selbst liegen: In einer spielebasierten Erkundungsstudie mit 12 Kindern im Alter von 8–10 Jahren fanden [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]], dass partnerähnliche Formulierungen sie dazu leiteten, die KI direkt in Frage zu stellen, während werkzeugähnliche Formulierungen sie dazu leiteten, nach Belegen zu suchen. Kinder, die Chatbots *entwerfen*, zeigen das Muster in einem anderen Register: Unter 115 Lernenden im Alter von 8–18 Jahren setzten jüngere Lernende signifikant höhere Zuversicht, und einige bauten absichtlich Bots, die falsche Antworten gaben, aber sie dennoch als vertrauenswürdig einstuften ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
 
 Mit autonomen Agenten verändert sich der Gegenstand der Kalibrierung. [[agentic-literacy-debt|Nama (2026)]] argumentiert, die nutzende Person werde zu einem Auftraggeber, der Autorität an ein System delegiert habe, dessen Handlungen weitgehend unbeobachtet und unumkehrbar sind, was die Kompetenz vom Beurteilen von Ausgaben hin zum Verstehen dessen verschiebt, was autorisiert wurde, seiner Aufsicht und der Zuschreibung von Verantwortlichkeit, wenn Schaden entsteht.
@@ -100,6 +104,40 @@ Vertrauenskalibrierung ist zentral für [[ai-literacy|KI-Kompetenz]] und sitzt n
 - **Angst als Randbedingung dafür, dass Kompetenz in Vertrauen mündet (2026):** In einer Befragung von 450 Universitätsstudierenden auf dem chinesischen Festland, die ChatGPT bereits nutzten, fand [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]], dass der Pfad von KI-Kompetenz zu Vertrauen die größte Assoziation im Modell war (beta = 0.50) und dass [[anxiety-and-stress|KI-Angst]] diese Verbindung schwächte (Interaktion beta = -0.25), wobei einfache Steigungen von 0.76 bei einer Standardabweichung unter dem Mittel der Angst auf 0.25 darüber fielen, während ein serieller Pfad von Kompetenz zu Vertrauen zu Selbstwirksamkeit zu fortgesetzter Nutzung signifikant war. Kalibrierung ist daher teils affektiv: dasselbe Wissen übersetzte sich bei ängstlicheren Studierenden in weniger Vertrauen, und das Querschnittdesign lässt offen, ob Angst die Bewertung blockiert, die Wissen in Verlassenheit verwandelt, oder eine Bewertung widerspiegelt, auf die Studierende nicht zu handeln wagen.
 - **Rollenrotation als Struktur zum Üben von Kritik (2026):** In einer designbasierten Studie mit 62 angehenden Bildungspsychologinnen und -psychologen, die über acht Wochen durch vier rotierende professionelle Rollen gingen, hatten [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] Teilnehmende KI-erzeugte Empfehlungen mit psychologischer Theorie vergleichen und diejenigen modifizieren oder zurückweisen lassen, die nicht zum Fall passten, zeichneten aber dennoch übermäßige Verlassenheit auf scheinbar autoritative KI-Antworten auf, wobei manche Studierende KI-Bestätigung suchten, bevor sie ihre eigene Interpretation anboten, selbst in späteren Zyklen. Rotation schafft wiederholte Gelegenheiten für das Annehmen-oder-Zurückweisen-Urteil, ohne es zu garantieren, und die Studie berichtet Engagement während der Intervention statt gemessener Kompetenzzugewinne.
 - **Oberflächliche Identitätshinweise bewegen Vertrauen unabhängig von Fähigkeit.** Über zwei Experimente (N = 396) bewerteten Lernende weiße Avatare — und asiatische männliche Avatare in STEM — als glaubwürdiger und kompetenter, bestraften ältere schwarze weibliche Avatare bei jedem Maß, und nahmen Orientierung der eigenen ethnischen Ingruppe bereitwilliger an ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+- **Ein Quellenetikett bewegt die Akzeptanz, ohne die Diskrimination zu verbessern.** Als 103 Teilnehmende Antworten bewerteten, die als ChatGPT oder als Computer gekennzeichnet waren, war die Akzeptanz unter dem ChatGPT-Etikett höher (68,0 % gegenüber 63,4 %, p = 0.002), doch die Signalentdeckung fand keinen Quellenunterschied in der Sensitivität (p = 0.930) oder im Kriterium (p = 0.082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio & Bruno, 2026]]). Das Etikett hebt Vertrauen, ohne die Genauigkeit zu heben.
+- **Verlassenheit ist eine bepreiste Entscheidung, nicht nur eine Überzeugung.** In einem Benchmark mit 324 Szenarien kauften fünf von sieben Modellen Verifikation bei erwartetem Informationswert von null oder überkauften Absicherungen, und das Bereitstellen expliziter Posterior-Werte behob einige Fehler, während es andere erzeugte ([[llm-calibrated-reliance-imperfect-partners-2026|Chu & Huang (2026)]]).
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Bringen Sie die Prüfung bei, nicht die Haltung. Größeres Vertrauen sagte *geringere* angemessene Verlassenheit voraus (r = −.42) bei 432 Studierenden im Grundstudium, die 86,03 % absichtlich irreführender Vorschläge akzeptierten; Unterricht, der allgemeines Zutrauen aufbaut, macht das Problem also schlimmer.
+- Bauen Sie Verifikation in Aufgaben ein, wo sie günstig und sichtbar ist: verlangen Sie die Quelle für eine Behauptung, das Gegenbeispiel oder den erneuten Lauf. Lesende, denen eine KI-Zusammenfassung gezeigt wurde, klickten in nur **1 % der Besuche** auf eine darin zitierte Quelle und klickten etwa halb so oft auf Ergebnislinks, sodass „es hat etwas zitiert" nichts belegt.
+- Denken Sie daran: Der Hebel ist schützend, nicht korrigierend. Teilnehmende, die mit einem falschen Urteil begannen, fanden das richtige nur in **30,6 %** und **24,7 %** der Versuche zurück — unter dem Zufallswert für eine binäre Wahl —, greifen Sie also ein, bevor die lernende Person sich auf das falsche Modell festlegt, und nicht danach.
+- Behandeln Sie Untervertrauen ebenfalls als Kalibrierungsfehler; ein fähiges Werkzeug zu meiden ist nicht die sichere Voreinstellung, sondern derselbe Fehler in die andere Richtung.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Ändern Sie die Interaktionsstruktur, nicht nur das Etikett. Das Vorenthalten der aggregierten Position einer Mehr-Agenten-Debatte senkte das schädliche Umschalten auf inkorrekte KI-Positionen von 42–60,5 % auf 5,7–8,2 %, ein struktureller Hebel, der kein Vertrauen der nutzenden Person braucht.
+- Machen Sie Provenienz am Nutzungsort inspizierbar, da die Klickraten auf Zitate zusammenbrechen, wenn die Zusammenfassung als autoritativ präsentiert wird.
+- Erhalten Sie die eigene Position der lernenden Person und stellen Sie Kontraste dazu her, statt ihren Entwurf durch eine zuversichtliche Antwort zu ersetzen; die Erholungsdaten zeigen, dass eine Ersetzung selten rückgängig gemacht wird.
+
+**Für Forschende**
+
+- Messen Sie angemessene Verlassenheit als Verhaltensergebnis gegen den Grundwahrheitswert, nicht als Vertrauenswert. Die beiden korrelieren in der einen Studie, die beides gemessen hat, negativ.
+- Berichten Sie Erholungsraten für anfänglich falsch liegende Teilnehmende getrennt von der Gesamtgenauigkeit, weil der Aggregatswert die Unter-Zufall-Zahl verbirgt, auf die es am meisten ankommt.
+
+## Verbreitete Fehlvorstellungen
+
+**„Mehr Vertrauen bedeutet bessere Nutzung des Werkzeugs."** Vertrauen und Kalibrierung divergieren, und die Korrelation läuft in die falsche Richtung. Unter **432 Studierenden im Grundstudium**, die Python-Probleme mit genauen und absichtlich irreführenden KI-Vorschlägen lösten, sagte größeres Vertrauen *geringere* angemessene Verlassenheit voraus (**r = -.42**), und die Studierenden akzeptierten **86,03 %** der irreführenden Vorschläge. Allgemeines Zutrauen ist nicht das Ziel; passendes Zutrauen ist es.
+
+**„Untervertrauen ist die sichere Voreinstellung."** Ein fähiges Werkzeug gänzlich zu meiden ist ein Kalibrierungsfehler in die andere Richtung. Beide Fehlpassungen kosten die lernende Person — die eine durch Abhängigkeit, die andere durch verschenkte Fähigkeit —, was „sei skeptisch" zu einer ebenso schlechten Anweisung macht wie „vertrau es".
+
+**„Kalibrierung lässt sich im Nachhinein korrigieren."** Der Hebel ist schützend, nicht korrigierend. Teilnehmende, die mit einem falschen Urteil begannen, erholten die richtige Entscheidung nur in **30,6 %** und **24,7 %** der Versuche — unter dem Zufallswert für eine binäre Wahl. Sobald eine lernende Person sich auf das falsche Modell festgelegt hat, ist Korrektur unzuverlässig, sodass die Intervention vor der Festlegung landen muss statt danach.
+
+**„Prüfen ist einfach, also werden Studierende, denen es wichtig ist, es tun."** Prüfen ist günstig und wird selten ausgeführt. In einer passiven Tracking-Studie mit **900 US-Erwachsenen** klickten Lesende, die eine KI-generierte Zusammenfassung sahen, in nur **1 % der Besuche** auf eine darin zitierte Quelle und klickten etwa halb so oft auf irgendeinen Ergebnislink wie Lesende, die keine Zusammenfassung sahen. Die Zusammenfassung unterdrückt Verifikation, statt sie anzuregen, sodass die Prüfung in die Aufgabe eingebaut werden muss statt aus Sorgfalt angenommen.
+
+**„Präsentation und Substanz lassen sich von einer sorgfältigen Leserin trennen."** Flüssigkeit ist es, was unverdientes Vertrauen einbringt, weshalb Kalibrierung ein Designproblem ist und nicht nur eine Lernendenfähigkeit. Ein System, dessen Oberfläche Autorität signalisiert, wird auf diesem Niveau vertraut, ungeachtet gegenteiliger Anweisungen.
 
 ## Verbundene Konzepte
 
@@ -149,3 +187,4 @@ Vertrauenskalibrierung ist zentral für [[ai-literacy|KI-Kompetenz]] und sitzt n
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Nutzung von LLMs durch Studierende und die Grenzen KI-generierter Aufgabenschwierigkeit in Data-Science-Kursen
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Studierenden zugewandtes Instrument, das Vertrauen in KI-Bildungstechnologie als vier Faktoren validiert, mit Vertrauen stromaufwärts der wahrgenommenen Nützlichkeit (Nazaretsky et al. 2025)
 - [[children-design-trustworthy-ai-chatbots-2026]] — Wie Kinder vertrauenswürdige KI-Chatbots entwerfen und über sie urteilen
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Wenn KI-Rat mit menschlichem Urteil übereinstimmt oder ihm widerspricht: Vertrauen, Selbstwirksamkeit, psychologische Resilienz und adaptive Reaktionen im Sportunterricht

@@ -1,7 +1,7 @@
 ---
 title: Problembasiertes Lernen
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,13 +10,17 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 ## Einführung
 
 PBL entstand in der Medizinbildung (McMaster University, 1960er Jahre) und hat sich seitdem über [[medical-education|Gesundheitsberufe]], Ingenieurwesen und [[k-12]] ausgebreitet. Die lernende Person übernimmt Verantwortung dafür, Lernbedarfe zu diagnostizieren, Ressourcen zu identifizieren und Lösungen zu konstruieren, während die moderierende Person den Prozess stützt. Der kennzeichnende Anspruch von PBL ist, dass das *Problem* der Curriculums-Treiber ist — nicht eine Illustration anderswo vermittelten Inhalts, sondern der Kontext, in dem Inhalt gelernt wird.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi und van der Merwe (2026)]] liefern einen direkten Vergleich: zehn problembasierte Chats hielten den Dialog aufrecht und erreichten tiefere Erklärung, während dreißig strukturierte prozedurale Chats zu Frage-Antwort-Dank kollabierten und endeten.
 
 ## PBL im KI-Zeitalter
 
@@ -67,6 +73,12 @@ Weil PBL Prozess, Kollaboration und demonstriertes Verstehen gegenüber Artefakt
 ### Produktives Scheitern und PBL
 
 [[productive-failure|Produktives Scheitern (PF)]] teilt PBLs [[constructivist|konstruktivistischen]] Kern — [[learners|Lernende]] gehen Probleme vor dem Unterricht an —, unterscheidet sich aber in der Struktur: PF enthält Unterricht und Scaffolding absichtlich zurück bis *nachdem* Lernende gerungen haben, Lösungen zu generieren, während PBL Moderation durchgehend einbettet. Die PF-Literatur des KI-Zeitalters informiert direkt, wie sich KI in problembasierten Settings verhalten sollte: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] zeigen, dass KI [[desirable-difficulties|produktives Ringen]] mit nicht-direktiver Unterstützung über die PF-Phasen hinweg erhalten sollte; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrieren, dass [[llm|LLM]]-[[intelligent-tutoring|Tutoren]] dazu angeleitet werden können, Antworten zurückzuhalten und mehrere Lösungsversuche hervorzulocken; und [[rhaimi-productivemath-2025|ProductiveMath]] nutzt KI, um beim Design hochwertiger PF-/PBL-artiger Probleme zu helfen. Die Designfrage — wann KI ein Problem, einen Hinweis oder eine Antwort geben sollte — ist beiden [[pedagogy|Pädagogiken]] gemeinsam.
+
+## Verbreitete Fehlvorstellungen
+
+- **„PBL-Ergebnisse sollten mit Ergebnissen des projektbasierten Lernens gepoolt werden."** Die dreistufige Metaanalyse hält **Produkt- und Lösungserbringung in einem separaten Modell**, gerade weil sie **Mensch-KI-Kollaboration** statt des eigenen Schlussfolgerns der lernenden Person misst. Sie zusammenzuführen würde ein gemeinsam erzeugtes Artefakt der lernenden Person zuschreiben.
+- **„Kollaborative Gewinne sind ein Nebeneffekt der KI-Nutzung."** Eine Studie fand höheres wahrgenommenes kollaboratives Problemlösen (**M = 3.62 gegenüber 3.05, d = 0.88**) und gemeinsames Problemlösen (**3.40, d = 1.02**), mit **den größten Interaktionseffekten bei gemeinsamem Wissensaufbau und sozialer Regulation** — den Dimensionen des kollaborativen Prozesses, die das Design vorhersagt. Der Mechanismus ist die strukturierte Kollaboration, nicht das Werkzeug.
+- **„PBL mit KI spart vor allem der moderierenden Person Zeit."** Die messbaren Gewinne liegen in der Prozessqualität auf Dimensionen, die nur existieren, wenn die Gruppenstruktur für sie gestaltet ist. Eine PBL-Umsetzung, die KI hinzufügt, ohne gemeinsamen Wissensaufbau zu strukturieren, sollte nicht denselben Effekt erwarten.
 
 ## Verbundene Konzepte
 

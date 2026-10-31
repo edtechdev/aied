@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe-Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-24T21:28:11-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-10-04T16:17:27-04:00"
+source_updated: "2026-10-25T14:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -66,6 +70,35 @@ Eine zweite Grenze zeigt sich im Bauen selbst: Die Code-Hürde zu entfernen kann
 Vibe Coding verbindet sich natürlich mit [[prompt-engineering]] (Promptqualität ist der Mechanismus prosagetriebener Entwicklung), [[cs-education]] (als der Domäne, in der die Technik am meisten genutzt und am meisten bestritten wird), [[computational-thinking]] (die mentale Modellierung, die Erfolg selbst ohne Codezugang vorhersagt), [[writing-education]] (Schreiben wird zur Programmierfähigkeit) und [[agentic-ai]] (ein Modell auf ein Artefakt hin anzuleiten statt es von Hand zu bauen). Es überschneidet sich außerdem mit [[ai-literacy]] und [[teacher-role]], da die Fähigkeit, eigene Werkzeuge zu bauen, verändert, was Lehrkräfte und Lernende tun können. Schließlich wirft es dieselben Fragen zu [[academic-integrity|akademischer Integrität]] und Assessment auf, die KI-Codegenerierung in der gesamten Informatikbildung aufwirft.
 
 Eine Fallstudie auf Ebene der Fakultät in dieser Wissensbasis liefert die organisationelle Schicht. [[zimmer-ai-intrapreneurship-faculty-innovation-2026|Zimmer (2026)]] beschreibt *AI Intrapreneurship* — Lehrende bauen eigene Werkzeuge, statt auf institutionelle Beschaffung zu warten —, einschließlich einer Autorin, die nicht programmiert und Claude Code nutzte, um einen Prüfer für 321 Kurslinks zu bauen. Die entscheidenden Ermöglicher waren organisationeller statt technischer Art: Handlungsspielraum in der Arbeit, Belohnungen und verfügbare Zeit, wobei Letztere in akademischen Settings am offensichtlichsten im Defizit und durch Beförderung und Tenure untergraben ist. Das Bild zur Sicherheit blieb nüchtern, da Veracodes Analyse von 2025 nur 55% des KI-erzeugten Codes als sicher fand, sodass per Vibe Coding gebaute Unterrichtswerkzeuge weiterhin einen Prüfdurchgang brauchen, bevor sie mit Daten von Lernenden umgehen oder sich mit einem LMS verbinden.
+
+## Verbreitete Fehlvorstellungen
+
+**„Vibe Coding senkt die Fähigkeitsbarriere, es geht also vor allem um gutes Schreiben.“** Kompetenz in schriftlicher Kommunikation hilft und trägt das Ergebnis nicht allein. In einer vorregistrierten Querschnittstudie (N = 100 Studierende im Tertiärbereich) sagten sowohl [[writing-education|Kompetenz in schriftlicher Kommunikation]] (r = .29) als auch Leistung in der Informatik (r = .39) die Leistung an expertengeprüften, GUI-orientierten Vibe-Coding-Aufgaben signifikant voraus, und in einem gemeinsamen Modell trug die Informatikleistung etwa **doppelt so viel eindeutige Varianz** bei wie die Schreibfähigkeit, während beide unabhängigen Vorhersagewert behielten. Die Barriere hat sich verschoben, nicht aufgelöst, und ein Teil von ihr bleibt technisch.
+
+**„Weil jetzt alle Software bauen können, wird das Gebaute vielfältiger.“** Zugang und Vielfalt sind getrennte Ergebnisse, und Zugang kann das zweite sogar zusammendrücken. Die Belege zur Design-Homogenisierung in diesem Korpus beschreiben genau dieses Muster: eine breitere Gruppe von Erstellenden, die mit denselben Modellen, denselben Komponentenkonventionen und denselben Prompting-Voreinstellungen arbeitet, tendiert zu konvergierenden Designs. Urheberschaft zu demokratisieren diversifiziert Artefakte nicht automatisch.
+
+**„‚Reines‘ Vibe Coding ist, was der Begriff meint, also spielt die Unterscheidung keine Rolle.“** Sie spielt für die Evaluation und für die Sicherheit eine Rolle. Die Seite unterscheidet reines Vibe Coding, bei dem die nutzende Person den erzeugten Quellcode absichtlich nicht inspiziert oder bearbeitet und sich ganz auf iteratives Prompting und Verhaltensbewertung stützt, von code-sichtbarer Arbeit, in der die nutzende Person liest, was erzeugt wurde. Das sind verschiedene Aktivitäten mit verschiedenen Fehlerprofilen, und eine Studie über die eine rechtfertigt keine Aussagen über die andere.
+
+**„Wenn die App läuft, ist der erzeugte Code in Ordnung.“** Laufen ist ein schwacher Test. Veracodes Analyse von 2025 fand nur 55% des KI-erzeugten Codes als sicher, sodass per Vibe Coding gebaute Unterrichtswerkzeuge weiterhin einen Prüfdurchgang brauchen, bevor sie mit Daten von Lernenden umgehen oder sich mit einem System verbinden, das Schutz verdient. Verhaltensbewertung bestätigt die Pfade, die eine nutzende Person zufällig ausübt, und sagt nichts über die, die sie nicht ausübt.
+
+## Vibe Coding in die Praxis umsetzen
+
+**Für Lehrende und Lehrkräftebildende**
+
+- Lehren Sie den Unterschied zwischen reinem und code-sichtbarem Vibe Coding explizit, und verlangen Sie das zweite für alles, was mit Daten von Lernenden umgehen wird. Die Unterscheidung ist eine lehrbare Gewohnheit und keine philosophische Feinheit.
+- Halten Sie einen echten Programmierstrang neben der Vibe-Coding-Arbeit aufrecht, denn die Informatikleistung trug etwa doppelt so viel eindeutige Vorhersagevarianz. Natürlichsprachige Spezifikation als vollen Ersatz zu behandeln verwirft den stärkeren Prädiktor.
+- Lassen Sie Studierende das Artefakt verhaltensbezogen bewerten *und* den Quellcode von allem inspizieren, was sie einsetzen. Erzeugten Code zu lesen ist eine Prüfkompetenz, und sie ist für Studierende, die prompten können, nicht automatisch gegeben.
+
+**Für Entwicklerinnen, Entwickler und Administration**
+
+- Führen Sie einen Sicherheitsprüfdurchgang für jedes per Vibe Coding gebaute Werkzeug durch, bevor es Studierendendaten berührt, im Einklang mit dem Befund von 55% sicherem Code.
+- Rechnen Sie mit Homogenisierung: Wenn mehrere Mitarbeitende dieselbe Art von Werkzeug aus denselben Voreinstellungen per Vibe Coding bauen, erwarten Sie ähnliche Ausgabe und planen Sie, wie Differenzierung bewusst erreicht wird.
+- Bevorzugen Sie code-sichtbare Arbeitsabläufe für gepflegte Werkzeuge und behalten Sie reines Vibe Coding Wegwerf-Prototypen vor.
+
+**Für Forschende**
+
+- Berichten Sie die Vibe-Coding-Bedingung (rein versus code-sichtbar) zusammen mit den Ergebnissen und nutzen Sie expertengeprüfte, GUI-orientierte Aufgaben statt selbst berichteten Erfolg, damit Ergebnisse über Studien hinweg vergleichbar sind.
+- Messen Sie die Vielfalt der Artefakte und nicht nur die Zahl der Artefakte oder der Erstellenden, wenn das Zugangsargument geprüft wird.
 
 ## Verbundene Konzepte
 

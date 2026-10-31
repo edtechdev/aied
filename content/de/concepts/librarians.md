@@ -1,7 +1,7 @@
 ---
 title: "Bibliothekarinnen"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,13 +12,17 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,16 @@ Zwei weitere Stränge setzen die Grenzen der Rolle. [[pearls-epistemic-verificat
 - **Auf heterogene Pfade gestalten.** Bei etwa gleich großen Gruppen, die KI, Bibliothekarinnen oder beides bevorzugen, absorbierte die Routung von Beratungen nach Fach und Arbeitslast 312 davon bei 10,4 pro Teilnehmendem; eine einzelne verordnete Route wird manche Lernenden unterversorgen.
 - **Konfidenz und Quellen sichtbar machen.** Der Such-als-Lernen-Faden des Workshops fragt, welche kognitiven Prozesse nicht ausgelagert werden sollten, und fordert Schnittstellen, die Entscheidungspunkte bewahren — ein [[scaffolding|Gerüst]], das Bibliothekarinnen aus ihrem gewöhnlichen Arbeitsstandard der Quellensichtbarkeit spezifizieren können.
 - **Die menschliche Schicht budgetieren, nicht bloß das Modell.** Die Beratungen wurden in Stunden beantwortet, in großem Maßstab, weil Personal absichtsvoll geroutet wurde; anzunehmen, Lernende würden Glaubwürdigkeitsurteil allein handhaben, überträgt jene Kosten auf die Menschen, die am wenigsten gerüstet sind, sie zu zahlen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Bibliothekarinnen sind für KI in der Bildung nebensächlich.“** Sie haben eine spezifische, prüfbare Rolle, und das Korpus misst sie. Über **312 Beratungen (10,4 pro Teilnehmendem)** machten Quellenevaluation und -qualität **38,5 %** aus, Bildung von Suchstrategien **29,2 %**, Zitationsmanagement **18,6 %** und Repositorium-Navigation **13,7 %** — und **73,4 % wurden innerhalb von sechs Stunden beantwortet**. Das ist kein nebensächlicher Dienst; es ist die Informationskompetenzfunktion, die die Last trägt, die KI nicht tragen konnte.
+
+**„KI-Suche beantwortet die Fragen, die Studierende früher zu einer Bibliothekarin brachten.“** In der Studie zur eingebetteten Bibliothekarin **dominierten Fragen zur Quellenevaluation die Beratungen (38,5 %) genau in den Fällen, in denen die KI am wenigsten sicher war**. Die Unsicherheit des Werkzeugs lenkte Arbeit an die menschliche Kapazität, die sie auflösen konnte, was das beobachtete Muster zu einer Arbeitsteilung statt zu einer Obsoleszenz macht.
+
+**„Informationskompetenz ist eine einmalige Einführungssitzung.“** Sie ist Instruktion, nicht Assistenz: Die Fragen, mit denen Studierende ankommen, sind Evaluations- und Strategieprobleme — ist diese Quelle glaubwürdig, wie suche ich danach —, die lehrbare Fähigkeiten sind statt Transaktionen, die abzuschließen sind. Den Dienst als Assistenz zu behandeln, verwandelt ein Curriculum in einen Helpdesk und verliert die dauerhafte Fähigkeit.
+
+**„Wer für Verifikation zahlt, ist das Problem anderer.“** Die Beratungslast landet auf der Personalausstattung der Bibliothek, und die eigene Frage des Beitrags ist, ob es die Personalstärke übersteigt, Bibliotheken damit zu beauftragen. Mitgestaltung und Partnerschaft sind die Antworten, die die Literatur empfiehlt, gerade weil die Verifikationskosten real sind und auf eine Einheit fallen, die sie nicht budgetiert hat.
 
 ## Verbundene Konzepte
 

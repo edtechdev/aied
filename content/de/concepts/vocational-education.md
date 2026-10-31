@@ -1,7 +1,7 @@
 ---
 title: "Berufliche Aus- und Weiterbildung"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-10-24T21:55:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -11,13 +11,17 @@ audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/vocational-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-27T13:25:06-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,6 +54,34 @@ Was an KI in der VET charakteristisch ist, ist eine Lücke zwischen dem, was der
 - **Begrenzte Begleitung statt Substitution.** [[ai-pedagogical-accompaniment-amico]] argumentiert, der Wert von KI in technischen und beruflichen Settings hänge von verantwortlicher [[pedagogy|pädagogischer]] Vermittlung ab statt von Menschähnlichkeit. Sein Amico-Prototyp paart AmicoMio, ausgerichtet auf technische Klarheit und schrittweise Aufgabenanleitung, mit AmicoTuo, ausgerichtet auf reflexiven Dialog und mäeutisches Fragen. Das Designprinzip ist eine *relationale Brücke*: Interaktion bewusst temporär, gerichtet auf menschlichen Kontakt und begrenzt durch Schutzmechanismen, wobei Erwachsene die Mensch-im-Kommando-Verantwortung behalten. Exploratorische Pilotstudien (N = 30, Italien und China, 20 begrenzte Sitzungen) fanden, dass Teilnehmende das System als begrenztes Unterstützungswerkzeug behandelten, ohne berichtete Erwartung von Substitution oder Abhängigkeit.
 - **KI-assistiertes Lernen trägt eine psychologische Kosten, wenn es Anstrengung ersetzt.** [[ai-autonomous-learning-accomplishment-2026]] befragte 1.264 Berufscollege-Studierende in China unter Nutzung von Strukturgleichungsmodellierung und fand KI-assistiertes autonomes Lernen negativ assoziiert mit Härte (Engagement, Kontrolle, Herausforderung) und positiv assoziiert mit reduzierter akademischer Leistungserfüllung, einer Burnout-Dimension negativer Selbstbewertung. Härte vermittelte die Beziehung teilweise. Das Design ist querschnittlich, auf Selbstauskunft beruhend und auf eine einzige Einrichtung beschränkt, daher ist Kausalität nicht etabliert, doch die Rahmung zählt für die VET: Wo Vertrauen durch wiederholte Praxis aufgebaut wird, kann KI als Substitut sowohl die Disposition zum Durchhalten als auch das gefühlte Erleben von Meisterschaft reduzieren.
 - **Curriculumproduktion beschleunigen, ohne Verifikation aufzugeben.** [[crewscaler-ai-upskilling-framework]] wendet KI über alle fünf Stufen beruflicher Weiterbildung an – Wissenserwerb, Inhaltsentwicklung, Review und Verifikation, [[intelligent-tutoring|Tutor-Coaching]] und Assessmententwicklung –, während Blaupausendesign, Fachreview und das Verfassen von Fehlvorstellungen bei Menschen bleiben. Seine externe Validierung umfasst NASBA-CPE-Akkreditierung, drei von drei Lernenden, die eine NVIDIA-Zertifizierungsprüfung nur unter Nutzung der Wissensbasis des Rahmenwerks bestanden, und eine Aufgabenbank von 530 Fragen, verknüpft mit einem Blueprint von 53 Fähigkeiten. Es gehört hierher, weil es Verifikation als erstklassige Stufe behandelt: [[hallucination-risk|Halluzinations]]detektion ist in Bildungspipelines weitgehend abwesend, und das Papier berichtet, dass Standard-LLM-Tutoring nur 52–70% korrekte pädagogische Aktionen erreicht.
+- **Curriculum-Erneuerung als fortlaufende Pflicht, nicht als periodische Überprüfung.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifiziert fünf interagierende Erneuerungsdimensionen — berufliche Transformation, Aktualität des Curriculums, Passung der Lehrkräftefähigkeiten, Programmarchitektur und externe Ausrichtung — und sechs Führungstests, um zu entscheiden, ob ein Kurs beibehalten, überarbeitet, integriert, ersetzt oder ausgemustert werden sollte.
+
+## Verbreitete Fehlvorstellungen
+
+**„Die Evidenzbasis zu KI in der VET sagt uns etwas über berufliche Bildung."** Sie sagt uns etwas über Klassenzimmer-Stellvertreter dafür, was eine ernste Lücke statt ein Detail ist: **keine Studie der Evidenzbasis zu KI in der VET spielt an einem Arbeitsplatz**, obwohl VET durch arbeitsplatznahres Lernen *definiert* ist. Ein Befund über ein KI-Werkzeug in einer simulierten Fachaufgabe hat die Bedingungen noch nicht getroffen, die den Sektor unterscheidbar machen — echte Klientinnen und Klienten, echte Sicherheitsfolgen, echte Variation der Ausstattung am Arbeitsplatz.
+
+**„Ein signifikanter Effekt auf Design- oder Kreativitätsfähigkeit überträgt sich auf berufliche Kompetenz."** Das stärkste quantitative Ergebnis hier stammt aus einem **zwölfwöchigen Zweigruppen-Quasiexperiment mit 63 gültigen Antworten (31 vs. 32)**, in dem die Bedingung mit immersiven Agenten unter ANCOVA höher bei Designfähigkeit (η²p = .138) und Kreativitätsfähigkeit (η²p = .111) punktete, mit kognitivem Engagement d = 0.90. Einunddreißig Studierende pro Arm in einer Klassenzimmeraufgabe ist Evidenz über diese Aufgabe, und berufliche Kompetenz ist keines der gemessenen Ergebnisse.
+
+**„Lernende werden sich in der praktischen Ausbildung übermäßig auf KI verlassen."** Die Pilotevidenz zeigt in die andere Richtung. Explorierende Pilotstudien (**N = 30**, Italien und China, **20 begrenzte Sitzungen**) fanden Teilnehmende, die das System als begrenztes Unterstützungswerkzeug behandelten, mit **keiner berichteten Erwartung von Substitution oder Abhängigkeit**. Das ist explorierend und klein, und es legt nahe, dass die Rahmung eines Werkzeugs als Ausstattung statt als Autorität durch berufliche Lernende eine Ressource ist, um die herum sich designen lässt.
+
+**„Zustimmung der Lernenden zu einer simulierten Aufgabe heißt, dass sie das Richtige geprüft hat."** Von **33 befragten Lernenden stimmten 21 (64%)** zu, dass die Sprachaufgabe realistisch war, und derselbe Anteil sagte, sie gebe eine klare Möglichkeit zu kommunizieren, was sie wussten — und niemand widersprach, dass Sprechen in Echtzeit zu diesem [[authentic-assessment|authentischen Assessment]] passte. Realismus und Kommunikationsklarheit sind wissenswert und keine Validität: Eine Aufgabe kann authentisch wirken und dennoch die berufliche Leistung nicht erfassen, für die sie steht.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Behandeln Sie arbeitsplatzbasierte Studien als die fehlende Evidenz und gestalten Sie Ihre Pilotprojekte so, dass sie sie einschließen; Klassenzimmergewinne sind notwendig und für eine Berufsqualifikation nicht ausreichend.
+- Rahmen Sie KI-Werkzeuge als begrenzte Ausstattung statt als Autorität. Die Pilotevidenz legt nahe, dass Lernende sie bereits so behandeln, und diese Rahmung ist es wert, explizit gemacht zu werden.
+- Halten Sie Authentizitätsprüfungen getrennt von Validitätsprüfungen: Fragen Sie, welche berufliche Leistung die Aufgabe erfasst, nicht nur, ob Studierende sie realistisch fanden.
+
+**Für Entwickelnde**
+
+- Bauen Sie auf begrenzte, aufgabenbezogene Assistenz mit einem klaren Ende, was dazu passt, wie berufliche Lernende die Systeme in diesen Pilotstudien tatsächlich nutzten.
+- Designen Sie gegen Variation am Arbeitsplatz — Ausstattung, Sicherheitsregeln, Interaktion mit Klientinnen und Klienten — statt gegen eine Laborkonfiguration, denn dort findet der Einsatz statt.
+
+**Für Forschende**
+
+- Verankern Sie mindestens einige Studien an Arbeitsplätzen. Ein Sektor, der durch arbeitsplatznahres Lernen definiert ist und dessen Evidenzbasis keine Arbeitsplatzstudien enthält, hat seine zentrale Behauptung noch nicht geprüft.
 
 ## Verbundene Konzepte
 
@@ -65,6 +97,7 @@ Was an KI in der VET charakteristisch ist, ist eine Lücke zwischen dem, was der
 - [[self-efficacy]]
 
 ## Verbundene Artikel
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Adaptive CTE-Curriculum-Erneuerung, fünf Dimensionen und sechs Führungstests
 
 - [[ai-vocational-education-training-review]] — Erstes systematisches Review zu KI in der VET: Zwecke, Theorie und empirische Wirksamkeit
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL: immersives projektbasiertes Lernen und Designkreativität

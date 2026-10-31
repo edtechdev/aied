@@ -1,7 +1,7 @@
 ---
 title: Mündliche Prüfung
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-24T22:31:15-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -14,13 +14,17 @@ connected_resources: [code-viva]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,12 @@ Auch die Integritätsbegründung der Mündlichen ist zeitlich begrenzt: [[corbin
 
 
 - **Die Skalendecke ist die Gestaltungsrestriktion.** In einem Workshop mit 73 [[cs-education|Informatik]]-Lehrenden wurde mündliche und interaktive Prüfung als die stärkste verfügbare Evidenz individuellen Verständnisses und als die am wenigsten skalierbare Abhilfe berichtet; die von Teilnehmenden beschriebenen Abmilderungen waren Verteilung und Stichprobenziehung —, geteilte Lehrenden-Pools, Peer-Prüfung unterhalb einer Abschlussprüfung gewichtet, und einen rotierenden Teil der Studierenden aufrufen ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Mündliche Prüfung lässt sich nicht skalieren."** In [[code-review-genai-cs1|der CS1-Studie zum mündlichen Code-Review]] trugen **wöchentliche fünfzehnminütige Interviews siebzig Prozent der Note jeder Aufgabe**, und das Verhältnis eingefügter zu Gesamtzeichen blieb dennoch informativ. Die Kosten sind real, und das Design ist auf Kursebene umsetzbar.
+- **„Mündliche Prüfungen sind weicher als schriftliche."** Im berichteten Pilot übertrafen die Werte **jene persönlicher Multiple-Choice-Tests: Zwischenprüfungsmedian 92,5 gegenüber 70 (p < .001) und Abschlussmedian 94,2 gegenüber 86,4 (p = .002)**. Mündliche Prüfung war nicht die nachsichtige Option.
+- **„Eine simulierte Begegnung ist gleichwertig zu Fällen mit progressiver Offenlegung."** In [[ai-standardized-patient-scaffolding-medical-2026|einem RCT mit hundert Medizinstudierenden im dritten Jahr]] wurde das Simulierte-Patienten-System **gegen progressive Offenlegung von Fallmaterialien** verglichen — ein direkter Test der Äquivalenz statt einer Annahme derselben.
 
 ## Verbundene Konzepte
 

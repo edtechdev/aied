@@ -1,19 +1,23 @@
 ---
 title: NLP in der Bildung
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-10-23T08:05:20-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,12 @@ NLP in der Bildung untermauert sowohl die Analyse der Sprache von Lernenden ([[s
 Embeddings können studentischen Text außerdem nach seiner Oberflächenform ordnen statt nach dem zu lehrenden Konstrukt. An einem synthetischen Carnot-Motor-Set gruppierte dieselbe Pipeline Aussagen nach Wortlaut statt nach Physik — eine novizenhafte Repräsentation, wie [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] argumentieren —, was Clustering zu einem Werkzeug der Erkundung macht, nicht der Bewertung.
 
 Modellkompression gehört in denselben Werkzeugkasten: eine zweistufige Pipeline destilliert einen angepassten Black-Box-Schätzer und seine nachgelagerte Interpretation in ein kleines offenes Gewichtsmodell, sodass ein „Mentee“ mit 2B Parametern sowohl eine Schätzung als auch eine Erklärung in natürlicher Sprache offline auf einem handelsüblichen Laptop liefert ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Semantische Ähnlichkeit kann Curriculum-Ausrichtung screenen."** Beim Screening von **3.837 Zahnmedizin-Ziel-Abstract-Paaren** beurteilten Embedding-Retrieval plus eine Natural-Language-Inference-Prüfung **22,9% der Items** als ausgerichtet — semantische Ähnlichkeit ist ein **schwaches Signal** für Ausrichtung. Eine flüssige thematische Übereinstimmung und eine echte Lernziel-Übereinstimmung sind verschiedene Relationen.
+- **„Klassifikation auf Äußerungsebene ist die natürliche Einheit."** **Modellierung ganzer Unterrichtseinheiten schlägt Klassifikation auf Äußerungsebene**: das Bewerten ganzer Transkripte statt isolierter Äußerungen **hob die Erkennung von Schlussfolgerungsketten um 14,2 Prozentpunkte**. Der Kontext über die Stunde trägt Information, die jeder einzelne Zug zerstört.
+- **„NLP im großen Maßstab auf Evaluationskommentaren erzeugt Wirkung."** Ein PRISMA-ScR-Scoping-Review und eine Evidenzkarte von **421 Studien** (2015–2026), die NLP auf offene studentische Lehrveranstaltungsevaluationen anwenden, fanden Skalierung **ohne erreichte Nutzung**. Volumen methodischer Ausgabe ist keine Adoption, und die Lücke ist der Deployment-Schritt, nicht die Modellierung.
 
 ## Verbundene Konzepte
 - [[intelligent-tutoring]]

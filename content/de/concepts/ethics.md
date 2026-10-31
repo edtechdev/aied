@@ -1,7 +1,7 @@
 ---
 title: Ethik
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T20:49:56-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,13 +9,17 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,6 +38,8 @@ ai_assist:
 ## Einführung
 
 Ethik ist das normative Rückgrat von KI in der Bildung: jedes KI-Werkzeug, jede Politik und jede [[pedagogy|pädagogische]] Entscheidung kodiert Annahmen darüber, was fair, transparent, rechenschaftspflichtig und sicher ist. Die Wissensbasis behandelt Ethik sowohl als Satz von Prinzipien (Fairness, Datenschutz, Transparenz, Autonomie, Rechenschaftspflicht) als auch als Satz von *Praktiken* – wie Beteiligte tatsächlich über KI schlussfolgern, wie Institutionen sie steuern und wie Lernende darauf vorbereitet werden, sie verantwortungsvoll zu nutzen. Jüngste [[research-methods-aied|Forschung]] dokumentiert eine doppelte Bewegung: einerseits eine vertiefte Sorge, dass prinzipienbasierte „Checklisten"-Ethik unzureichend ist; andererseits eine wachsende Betonung [[situated-learning|situierter]] und ökologischer Darstellungen ethischen Urteilens sowie der strukturellen und institutionellen Bedingungen, die verantwortungsvolle Nutzung möglich machen.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] argumentieren anhand schwedischer Umfrage- und Fokusgruppendaten, dass Institutionen Fragen zu generativer KI über eine Partnerschaftsethik statt über einen Betrugsrahmen entscheiden sollten, gestützt auf Carolyn Merchants gegenseitige Interdependenz, Respekt für Vielfalt, Inklusivität, Rechenschaftspflicht und Bindung an langfristige [[sustainability|Nachhaltigkeit]]: 31% der Teilnehmenden brachten Ethik unaufgefordert zur Sprache, und die meisten wünschten sich klarere institutionelle Leitlinien, als sie hatten.
 
 ## Zentrale ethische Dimensionen
 - **Ethik als produktiv, nicht nur als Beschränkung.** [[learning-analytics-genai-learning-design|Rienties, Divjak und Law (2026)]] kommen zu dem Schluss, dass ethische Eignung und Vertrauenswürdigkeit konstitutiv für Bildungsqualität sind – ethische Eignung sagt die Balance zwischen Technik und Kunst im kreativen Schaffen vorher, Ethik ist also eine Designvariable und keine letzte Compliance-Stufe.
@@ -77,8 +83,9 @@ Die Forschung der Wissensbasis lokalisiert Ethik zunehmend in Institutionen und 
 
 Eine wichtige theoretische Verschiebung in der Wissensbasis ist die Kritik universalistischer, prinzipienbasierter „Checklisten"-Ethik zugunsten situierter, ökologischer und transformativer Darstellungen:
 
-- **Situierte KI-Ethik.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] verschmelzen Bronfenbrenners ökologische Systemtheorie mit kulturhistorischer [[activity-theory-aied|Aktivitätstheorie]], um KI als nicht-neutrales soziotechnisches Ensemble zu rahmen, dessen ethische Implikationen historisch produziert und lokal ausgehandelt werden. Über sieben nationale Fälle hinweg werden Lehrkräfte als moralische Torwächterinnen und Torwächter der KI-Nutzung positioniert, während ihnen strukturelle, institutionelle und epistemische Unterstützung fehlt – und der Rahmen erweitert [[ai-education|KI-Kompetenz]] über technische Fähigkeiten hinaus hin zu kritischer, politischer und ökologischer Handlungsfähigkeit, einschließlich Widerstand gegen Überwachungskapitalismus und Umweltschaden.
+- **Situierte KI-Ethik.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] verschmelzen Bronfenbrenners ökologische Systemtheorie mit kulturhistorischer [[activity-theory-aied|Aktivitätstheorie]], um KI als nicht-neutrales soziotechnisches Ensemble zu rahmen, dessen ethische Implikationen historisch produziert und lokal ausgehandelt werden. Über sieben nationale Fälle hinweg werden Lehrkräfte als moralische Torwächterinnen und Torwächter der KI-Nutzung positioniert, während ihnen strukturelle, institutionelle und epistemische Unterstützung fehlt – und der Rahmen erweitert [[ai-literacy|KI-Kompetenz]] über technische Fähigkeiten hinaus hin zu kritischer, politischer und ökologischer Handlungsfähigkeit, einschließlich Widerstand gegen Überwachungskapitalismus und Umweltschaden.
 - **Die Verschiebung hin zu situierter Praxis.** [[ai-ethics-bibliometric-2026|Eine bibliometrische Analyse von 282 Artikeln]] zeigt, dass der KI-Ethik-Diskurs nach 2021 Ethik zunehmend um professionelles Urteilsvermögen, Vertrauen, [[human-ai-collaboration|Mensch-KI-Zusammenarbeit]] und interpretative Praxis herum rahmt statt nur um technische Compliance – mit Bildung als konzeptuell wichtigem Kontext.
+- **Partnerschaftsethik.** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] stützen sich auf die Umweltethikerin Carolyn Merchant, um Partnerschaftsethik vorzuschlagen – gegenseitige Interdependenz, Respekt für Vielfalt, Inklusivität, Rechenschaftspflicht und langfristige Nachhaltigkeit – als dialogbasierte Alternative, und berichten schwedische Umfrage- und Fokusgruppendaten, in denen 31% der Teilnehmenden Ethik unaufgefordert zur Sprache brachten.
 - **Eine kulturhistorische Darstellung von Verantwortung.** Diese Neurahmung verbindet Ethik mit [[learning-theories|Lerntheorien]] und [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]]: verantwortungsvolle KI-Nutzung wird als kontextsensitive, kollektive und transformative Handlungsfähigkeit behandelt statt als individuelle Compliance mit Checklisten. Eine Erhebung von 454 Universitätslehrkräften stützt diese Rahmung: KI-ethisches Wissen vermittelte den Pfad von technischem KI-Wissen zu integrierter Unterrichtskompetenz (β = 0.186) und kanalisierte ihn weiter durch pädagogisches und Fachwissen ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]).
 - **Eine ontologische Neurahmung ethischer Verpflichtung.** Xie (2026) treibt die Kritik situierter Ethik weiter, indem er sie in Ontologie verlegt: wo viel Wissenschaft Gleichheit, Machtasymmetrien und Umweltkosten als zu bewältigende Externalitäten behandelt, macht ein daoistisches relationales Selbst sie intern dazu, wer wir sind, sodass „zurückgelassen werden" ontologisch unhaltbar wird statt bloß unfair. Die ethische Aufgabe ist dann nicht abgekoppelte Optimierung, sondern Wuwei (无为) – nicht-erzwungenes, auf Natürlichkeit ausgerichtetes Handeln –, gesetzt gegen das Youwei (有为) algorithmischer Monokultur, kognitiver Entlastung und extraktiver Infrastruktur, angewandt über drei Domänen: Wissen (epistemische Monokultur und synthetische Fehlinformation), Wissen-Können (Entlastung, die [[critical-thinking|kritisches Denken]] degradiert) und Auswirkung (Umweltkosten und Nord-Süd-Asymmetrien).([[daoism-ai-education-philosophy-2026]])
 
@@ -95,6 +102,12 @@ Ethisches Bewusstsein, reflexives Schlussfolgern und [[self-report-measures|selb
 ## Verbindungen
 
 Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Datenschutz]], [[bias-mitigation|Minderung von Bias]], [[regulation|Regulierung]], [[pedagogical-safety|pädagogischer Sicherheit]], [[academic-integrity|akademischer Integrität]] und [[governance|Governance]]. Sie ist die normative Grundlage für alle anderen Konzepte der KI-Bildung – der Rahmen, innerhalb dessen Fragen von Fairness, Transparenz, Autonomie und Sicherheit erhoben und gelöst werden.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Der Betrugsrahmen ist eine hinreichende Art, über GenAI-Ethik nachzudenken."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] argumentieren, Institutionen sollten Fragen zu generativer KI über eine **Partnerschaftsethik statt über einen Betrugsrahmen** entscheiden. Der Rahmen bestimmt, welche Fragen gestellt werden, und ein Fehlverhaltensrahmen kann nicht nach dem Bildungszweck fragen.
+- **„Fakultät und Studierende sind sich darüber einig, was ethisch ist."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç und Sever (2026)]], eine [[mixed-methods-research|Mixed-Methods]]-Studie mit **971 Studierenden und 135 Fakultätsmitgliedern**, finden, dass die ethischen Dimensionen zwischen den Gruppen auseinandergehen. Eine aus einer Perspektive geschriebene Politik wird die andere falsch darstellen.
+- **„Ethische Übereinstimmung geht der Nutzung voraus."** **Die Nutzung steigt schneller als der ethische Konsens**: über vier Semester hinweg in einem US-Programm der Lehrkräftebildung stieg die GenAI-Nutzung der Studierenden **von 57% auf 83% bei der Prüfungsvorbereitung**. Die Normen werden durch die Praxis geformt statt umgekehrt.
 
 ## Verbundene Konzepte
 
@@ -115,6 +128,7 @@ Ethik verbindet sich mit [[equity-in-ai-education|Gerechtigkeit]], [[privacy|Dat
 - [[biology-education]] — Biologiebildung und KI: Labor-Lehrassistenten, KI-Kompetenz in der Biologie, kritisches Denken, spezialisierte Werkzeuge
 
 ## Verbundene Artikel
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die argumentiert, dass Partnerschaftsethik statt eines Betrugsrahmens institutionelle GenAI-Entscheidungen leiten sollte
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — Ethisches Bewusstsein verstärkte KI-Angst, wo kein Bewältigungsrahmen gelehrt wurde: ausschließlich indirekte Mediation unter 584 Studierenden
 - [[learning-analytics-to-educational-interventions-2026]] — Von Learning Analytics zu Bildungsinterventionen: Ermöglicher vertrauenswürdiger LA-basierter Interventionen (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Wie Studierende KI in Online-Prüfungen nutzen und verbergen

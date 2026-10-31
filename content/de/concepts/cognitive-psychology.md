@@ -1,19 +1,23 @@
 ---
 title: Kognitionspsychologie
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-24T21:19:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -74,6 +78,12 @@ Mayers Cognitive Theory of Multimedia Learning (CTML) wendet dieselben Arbeitsge
 2. **Die lernende Person repräsentieren, nicht nur antworten.** Strukturierte [[student-modeling|Lernendenmodellierung]] und [[knowledge-tracing|Knowledge Tracing]] an den KI-Dialog anbinden, damit sich das System an erschlossenes Wissen anpasst, statt flüssig, aber blind zu antworten.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Arbeitsgedächtnisgrenzen respektieren.** Cognitive Load Theory auf die KI-UX anwenden: extrinsische Last reduzieren (Reibung, überladene Interfaces) und germane Verarbeitung bewahren ([[desirable-difficulties|produktives Ringen]], Abrufübung), statt jede kognitive Anforderung zu minimieren.
 4. **Metakognition kalibrieren.** Weil [[metacognition|Metakognition]] bestimmt, wann Lernende sich zur Auslagerung entscheiden, ist das Lehren von Kalibrierung (zu wissen, was man tatsächlich allein kann) eine kognitivistische Antwort auf Überabhängigkeit (siehe [[cognitive-offloading]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Mentale Repräsentationen sind nicht beobachtbar, also sind kognitive Aussagen über Lernen Annahmen.“** Das Rekonstruieren von Bildern aus dem **EEG** von Lernenden während Wissenschaftsvideos ergab, dass die **Treue der Repräsentation mit der Testleistung einherging** (Regressionskoeffizient **0,8481, R² = 0,79**). Die kognitivistische Prämisse einer internen Repräsentation ist messbar, und die Messung sagte das Ergebnis vorher.
+- **„Ein hohes R² bedeutet, dass die Repräsentation das Lernen erklärt.“** R² = 0,79 ist ein starker Zusammenhang zwischen Treue und Leistung auf demselben Material. Er belegt nicht, dass eine Erhöhung der Treue die Leistung erhöht — und genau das wäre die Interventionsbehauptung.
+- **„Wissenskomponenten sind eine bequeme Modellierungsfiktion.“** Zerlegbarkeit ist das, was [[knowledge-tracing]] und [[cognitive-diagnosis]] möglich macht, und die Verfahren funktionieren in dem Maß, in dem die Annahme gilt. Sie als Fiktion zu behandeln verwirft den Grund, warum die Verfahren brauchbare Schätzungen liefern; sie als Tatsache zu behandeln überzeichnet, was ein angepasstes Modell über einen Kopf aussagt.
 
 ## Verbundene Konzepte
 

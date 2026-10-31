@@ -1,7 +1,7 @@
 ---
 title: Randomisierte kontrollierte Studie (RCT)
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T21:41:34-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,12 @@ Randomisierung ist es, was eine RCT von anderen Designs unterscheidet: indem Ler
 - **Grenzen:** kostspielig und langsam; künstliche Settings können die ökologische Validität verringern; KI-Werkzeuge verändern sich schneller, als Studien laufen können; kleine Stichproben sind oft unterpowered, um aussagekräftige Effekte zu detektieren; ethische Beschränkungen beim Vorenthalten potenziell nützlicher KI von einer Kontrollgruppe. Zwei dieser Grenzen verändern ihre Form, wenn die Zuweisung geclustert ist: die effektive Stichprobe wird die Anzahl der *Cluster* statt die Anzahl der Studierenden, sodass eine Studie groß nach Kopfzahl und dünn nach diesem Maß sein kann — Liu et al.s 2.379 Studierende ruhen auf 34 Clustern auf Lehrendenebene —, und wenn die Annahme freiwillig und gering ist, beantwortet eine Intent-to-treat-Schätzung, ob das Anbieten des Werkzeugs Ergebnisse veränderte, nicht ob seine Nutzung es tat.
 
 Für die ausführlichere Behandlung experimentellen Designs in der KI in der Bildung — einschließlich wann eine RCT gegenüber quasi-experimentellen, Befragungs- oder rechnerischen Designs angemessen ist — siehe [[research-methods-aied]].
+
+## Verbreitete Fehlvorstellungen
+
+- **„Randomisierung garantiert eine valide Schätzung dessen, was das Werkzeug bewirkt."** Randomisierung balanciert Störvariablen; sie stellt nicht sicher, dass irgendjemand die Behandlung genutzt hat. Eine gruppenrandomisierte Studie mit geringer Annahme schätzt **den Effekt des Angebots** des Werkzeugs, und Intent-to-treat und Treatment-on-treated beantworten unterschiedliche Fragen.
+- **„Eine große Studie ist immer das bessere Design."** Manche argumentieren, konventionelle großmaßstäbliche Studien **könnten mit Tutoringplattformen, die sich während einer Studie materiell verändern, nicht Schritt halten**, und nutzen stattdessen lehrkraftgeführte Designs, die gültig bleiben, während das System sich weiterentwickelt. Eine Studie über ein bewegliches Ziel kann gut gepowert sein und dennoch ein System messen, das nicht mehr existiert.
+- **„RCTs und Beobachtungsevidenz sind austauschbar."** Eine RCT mit **1.174 Teilnehmenden** fand, dass GenAI **etwa drei Viertel einer bildungsbasierten Produktivitätslücke schloss** — eine präzise Kausalbehauptung über einen bestimmten Zeitraum. Beobachtung erklärt Mechanismus und Übernahme; sie kann diese Schätzung nicht tragen, und die RCT kann nicht erklären, warum.
 
 ## Verbundene Konzepte
 

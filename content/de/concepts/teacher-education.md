@@ -1,7 +1,7 @@
 ---
 title: "Lehrkräftebildung"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-10-28T19:12:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -9,13 +9,17 @@ audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,13 +56,15 @@ Lehramtsausbildung vor dem Dienst (initial) bereitet angehende Lehrkräfte währ
 - **Strukturierte benutzerdefinierte GPT-Zyklen erzeugten vier Rollen kognitiver Partner.** In einer designbasierten Studie über ein Semester nutzten 14 angehende Digital-Technologies-Lehrkräfte LMS-integrierte personalisierte GPT-Agenten über Prompt–Reflect–Refine-Zyklen und nahmen mit wachsender Expertise die Rollen konzeptioneller Tutor, Co-Designer, reflexiver Spiegel und kognitiver Herausforderer ein ([[zagami-generative-ai-cognitive-partner-2026|Zagami]]), und 82% der finalen Artefakte bildeten Inhaltsdeskriptoren, Assessmentaufgaben und Erfolgskriterien ab.
 - **[[educational-robotics|Pädagogische Robotik]] und ML.** Initiale Lehrkräfteausbildung bettet Coding-, Robotik- und [[machine-learning|Machine-Learning]]-Aktivitäten ein (z. B. micro:bit), um [[computational-thinking|Computational Thinking]] in angehenden Lehrkräften aufzubauen.([[microbit-robotics-machine-learning-teacher-training-2026]])
 - **Authentisches Assessment und Metakognition.** KI-vermittelte Assessmentmodelle (z. B. AAIWA) integrieren [[authentic-assessment|authentisches rubrikbasiertes Assessment]], bedingungsresponsives [[ai-feedback-quality|KI-Feedback]] und [[metacognition|metakognitive Reflexion]] in Programmen vor dem Dienst.([[aaiwa-ai-authentic-assessment-metacognition-2026]])
-- **KI-gestützte Inquiry in der [[stem-education|Naturwissenschaftsbildung]].** Ein Quasi-Experiment mit 48 angehenden Naturwissenschaftslehrkräften in der Türkei ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrierte problem- und designbasiertes Lernen in ein 8-wöchiges KI-gestütztes gelenktes Inquiry-Programm zu Photosynthese und Respiration. Es produzierte signifikante Zuwächse im konzeptionellen Verstehen der zwei [[biology-education|biologischen]] Prozesse, aber *keinen* signifikanten Effekt auf KI-Kompetenz oder selbstwahrgenommenes [[computational-thinking|Computational Thinking]] —, eine Erinnerung daran, dass KI-IBL das Fachverstehen in Lehramtskandidatinnen und -kandidaten vertiefen kann, ohne automatisch ihre KI-/CT-Kompetenzen aufzubauen, die explizites, gezieltes Design erfordern.
+- **KI-gestützte Inquiry in der [[science-education|Naturwissenschaftsbildung]].** Ein Quasi-Experiment mit 48 angehenden Naturwissenschaftslehrkräften in der Türkei ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrierte problem- und designbasiertes Lernen in ein 8-wöchiges KI-gestütztes gelenktes Inquiry-Programm zu Photosynthese und Respiration. Es produzierte signifikante Zuwächse im konzeptionellen Verstehen der zwei [[biology-education|biologischen]] Prozesse, aber *keinen* signifikanten Effekt auf KI-Kompetenz oder selbstwahrgenommenes [[computational-thinking|Computational Thinking]] —, eine Erinnerung daran, dass KI-IBL das Fachverstehen in Lehramtskandidatinnen und -kandidaten vertiefen kann, ohne automatisch ihre KI-/CT-Kompetenzen aufzubauen, die explizites, gezieltes Design erfordern.
 
 - **[[generative-ai|Generative KI]] für konstruktivistisches Instruktionsdesign.** Das [[sahab-model-genai-constructivist-id-2026|SAHAB-Modell]] ist eine quasi-experimentelle Weiterbildungsintervention, in der generative KI Lehrkräfte ermächtigt, [[constructivist|konstruktivistische]] Instruktion zu gestalten, mit großen Zuwächsen (d = 1,18). Es zeigt, dass GenAI [[scaffolding|gerüsten]] kann [[learning-design|Instruktionsdesign]] für Lehramtskandidatinnen und -kandidaten und praktizierende Lehrkräfte gleichermaßen —, nicht nur Inhalte liefern, sondern das *Design* studierendenzentrierter Lernaktivitäten stützen.
 - **Smart-Classroom-Training für Graduierte in [[math-education|Mathematik]] (M.Ed.).** [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao und Wang (2026)]] zeigen, wie ein Mathematik-M.Ed.-Kurs mit intelligenten Bildungstechnologien [[ai-technologies|Technologien]] ([[automated-assessment|automatisierte Benotung]], personalisierte Empfehlungen, Multi-KI-Feedback) über Vor-, In- und Nachklassenstufen hinweg verbessert werden kann, was statistisch signifikante Zuwächse in der Kompetenz zum Design instruktionaler Ziele ergibt. Das transferierbare D-T-E-Modell (Disciplinary Demand–Technological Empowerment–Evaluation Loop) bietet Bildungsfachleuten ein [[discipline-specific-aied|fachspezifisches]] Rahmenwerk für die Integration von Smart Education in die graduierte Lehrkräftevorbereitung.
 - **Übernahme unter einer permissiven Politik ist dünner, als Umfragen nahelegen, und Assessmentkompetenz transferiert nicht.** [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] befragten 85 Lehramtsstudierende in drei Hongkonger Lehrkräftebildungskursen, wo generative KI im Assessment explizit erlaubt war: 62,4% (53) wählten, sie überhaupt nicht zu nutzen, und die Nutzung der Übernehmenden war flach und korrektiv (Korrekturlesen 43,8%, Klarheitsprüfungen 34,4%, Textgenerierung 18,8%, Brainstorming 12,5%). Angst, fälschlich des Plagiats beschuldigt zu werden (41,5% der Nichtübernehmenden) und eine Präferenz für Einzelarbeit (77,4%) überwogen fehlende Fähigkeiten (13,2%), und neun von elf Interviewten lasen die permissive Politik als mögliche „Falle“ —, ein Beleg dafür, dass Lehramtsstudierende [[academic-integrity|Integritäts]]angst, nicht nur Werkzeugbereitschaft, in KI-erlaubte Studienarbeit mitbringen.
 - **Klassenzimmer-KI-Politik-Schreiben als Linse auf angehendes Denken.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] ließen 27 angehende Sekundarstufen-Englischlehrkräfte im Capstone-Jahr eines Sekundarstufen-Englischvorbereitungsprogramms die [[educational-policy-ai|KI-Politiken]] schreiben, die sie in ihren eigenen 6–12-Klassenzimmern nutzen würden, in einem Bundesstaat ohne staatliche KI-Anleitung. 26 der 27 erlaubten etwas KI-Nutzung, fast immer beschränkt auf von der Lehrkraft spezifizierte Aufgaben, Zeiten und Orte, und nur eine verbannte sie kategorisch aus ethischen Gründen, verbunden mit Arbeitspraktiken und Urheberrecht; 22 erlaubten KI zum Generieren von Ideen, während 22 KI-Nutzung zum Komponieren von Sätzen, Absätzen oder Papers nicht erlaubten oder unklar ließen, und die begleitenden Reflexionen lesen sich als Aushandlungen zwischen pädagogischen Verpflichtungen und einer gefühlten Verpflichtung, [[generative-ai|KI]] zu integrieren. Angehende Lehrkräfte zu bitten, eine Politik zu verfassen —, statt KI im Abstrakten zu debattieren —, brachte ihre Philosophien, Überzeugungen und curricularen Annahmen an die Oberfläche, was Politikschieben zu einer hochwertigen Aktivität für Methodenkurse macht.
 - **Politik regiert Praxis nicht.** Vier Semester Umfragedaten aus einem US-Lehrkräftebildungsprogramm zeigen GenAI-Nutzung für Assessmentvorbereitung, die von 57% auf 83% stieg, und zum Lernen von 44% auf 76%, selbst während Institutionen KI-Detektionssoftware erwogen, mit ethischer Unsicherheit, die über die Wellen hinweg stieg ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]]).
+
+- **Keine Studie vor dem Dienst maß das Lernen von Schülerinnen und Schülern.** Ein Review, das nur sieben Quellen einbeziehen konnte, fand Ethik zwar anerkannt, aber selten gelehrt oder bewertet, und angehende Lehrkräfte überschätzten sich beim Kritisieren von KI ([[shukla-ai-teacher-education-frameworks-review-2026|Shukla (2026)]]).
 
 ### Berufliche Weiterbildung im Dienst
 
@@ -101,6 +107,12 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 - **Klassenzimmer-Politikschreiben zu einer Kern-Lehrkräftebildungsaktivität machen und Mehrdeutigkeit als Politikdefekt behandeln.** [[nash-preservice-teachers-classroom-ai-policies-2026|Nash & Burriss (2026)]] fanden, dass das Bitten angehende Lehrkräfte, ihre eigenen Klassenzimmer-KI-Politiken zu schreiben, als rhetorisches Weltenschaffen darüber funktioniert, wozu Schreiben da ist —, ein Fenster in entstehende Überzeugungen, das abstrakte Diskussion nicht öffnet. Weil KI Schreiben-als-Produkt von Schreiben-als-Prozess trennt, sollten Programme Lehrkräften helfen, zu verorten, wo Denken, Lernen und Wert tatsächlich über Brainstorming, Entwurf, Überarbeitung und Editierung hinweg leben, statt Denken nur in finalem Text zu verorten, und sie darin stützen, Überzeugungen in operative, eindeutige Regeln zu übersetzen, gepaart mit [[ai-literacy|KI-Kompetenz]]instruktion: Widersprüche wie das Verbot KI-generierten Texts, während Studierende für die KI-generierten Inhalte, die sie einreichen, verantwortlich gehalten werden, lassen Studierende unfähig, zu entsprechen.
 - **Lehrkräfte beibringen, die Primärforschung hinter KI-Politik zu lesen.** Ein sechswöchiger graduierter Forschungsmethodenkurs zielte auf Forschungskonsum statt -produktion: eine Lehrkraft wandte das Kritische-Evaluation-Framework auf ein districtseitig vorgeschriebenes Curriculum an und präsentierte die Analyse ihrer Schulleitung, und mehrere übernahmen sokratisches Fragen mit ihren eigenen Studierenden [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
+## Verbreitete Fehlvorstellungen
+
+- **„Die Akzeptanz von KI bei angehenden Lehrkräften ist eine einzige Haltung."** **128 angehende Lehrkräfte** wurden in vier ChatGPT-Akzeptanzgruppen profiliert, darunter **Resistant Skeptics (14,06%), die eine hohe wahrgenommene Nutzungsfreundlichkeit, aber eine sehr geringe Verhaltensabsicht** berichteten. Nutzungsfreundlichkeit und Absicht fielen in dieser Gruppe auseinander, sodass eine nutzungsfreundlichkeitsgetriebene Intervention sie unverändert ließe.
+- **„KI hilft angehenden Lehrkräften vor allem beim Inhaltswissen."** Ein **Scoping Review von 55 Studien** findet, dass KI **Instruktionsdesign, Fachunterricht und praktisches Lehren** verbessert —, die Design- und Praxiskapazitäten, nicht die Inhaltsexpertise.
+- **„Ein Scoping Review von 55 Studien belegt einen Nutzen."** Es dokumentiert, was über das Feld hinweg berichtet wird. Die Breite der berichteten Verbesserung ist eine Aussage über den Konsens der Literatur, und 55 Studien in einem Scoping Review sind kein gepoolter Effekt.
+
 ## Verbundene Konzepte
 
 - [[teacher-role]]
@@ -115,6 +127,7 @@ Ein zentraler Befund über die Lehrkräftebildungsforschung hinweg ist die Lück
 - [[chemistry-education]] — Chemiebildung und KI: Labore, formatives Assessment, LLM-Grenzen, Philosophie des Experimentierens
 
 ## Verbundene Artikel
+- [[shukla-ai-teacher-education-frameworks-review-2026]] — KI in der Lehrkräftebildung: pädagogische Rahmenwerke, empirische Evidenz und Ethik, 2020-2026 (Shukla 2026)
 - [[bicer-genai-pd-math-creativity-2026]] — Wie generativ-KI-gestützte berufliche Weiterbildung das Engagement von Lehrkräften mit mathematischer Kreativität, Inhaltswissen und pädagogischem Fachwissen unterstützt
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Englischlehrkräfte im Vorbereitungsdienst verfassen Klassenzimmer-KI-Politiken: erlaubte, eingeschränkte und verbotene Nutzungen (Nash & Burriss 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — 85 Lehramtsstudierende: flache GenAI-Übernahme, Integritätsangst und Assessmentkompetenz, die nicht transferiert

@@ -1,7 +1,7 @@
 ---
 title: Roboter in der Bildung
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,13 +11,17 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,12 @@ Zwei Stränge prägen die soziale Seite der Robotik in der Bildung.
 Ein bestimmendes Thema ist, dass Roboter wirksam sind, wenn sie echte Lernziele unterstützen – nicht als isolierte technische Übungen. Ein tischmontierter Robotik-Projektor, der mit einem Laptop-ChatGPT verknüpft war, während Hilfe verfügbar war (6.7 gegenüber 7.3/10, p = .41), aber seine Punktzahl nach dem Abzug hielt (7.0 gegenüber 4.4/10, p = .003), eine 60% höhere kurzfristige Transferpunktzahl – ein aufgabenabhängiger Zuwachs, den die Autoren räumlicher Ko-Lokation statt allgemeinem Ersatz zurechnen ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). Der Wert eines Roboters hängt vom pädagogischen Kontext ab: computational thinking unterrichten ([[computational-thinking]]), [[stem-education|STEAM]] unterstützen, Fähigkeiten im [[cs-education|Programmieren]] aufbauen, Lernende motivieren ([[motivation|Motivation]], [[student-engagement|Engagement]]) oder [[social-emotional-learning|sozial-emotionales Lernen]] und [[equity-in-ai-education|Inklusion]] unterstützen. Robotik verbindet sich außerdem mit [[project-based-learning|projektbasiertem Lernen]], [[game-based-learning|spielbasiertem Lernen]] und [[experiential-learning|erfahrungsbasiertem Lernen]]. Zentrale Designaspekte sind der Erhalt der [[agency|Handlungsfähigkeit]] der Lernenden, der Aufbau von [[trust|Vertrauen]], die Unterstützung von [[self-efficacy|Selbstwirksamkeit]] und die Verankerung des Lernens in [[embodied-learning|verkörperter Interaktion]]. Im [[language-learning|Sprachenlernen]] weist [[robot-assisted-language-learning-meta-analysis-2026|meta-analytische Evidenz]] auf die Wirksamkeit verkörperten robotergestützten Sprachenlernens hin.
 
 - **Wege zum Lernen KI-gestützter Robotik.** [[educational-robotics-pathways-2026|Eine qualitative Studie]] mit Schülerinnen und Schülern der Highschool in einem Robotik- und KI-Curriculum fand Lernen durch reale Praxis, Gestalten und spielerischen kreativen Ausdruck (konstruktivistische, erkenntnispluralistische Linse).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Robotik lehrt computational thinking allein dadurch, dass es Roboter sind."** Ein systematischer Review von **53 Studien** fand **problembasiertes Lernen, Storytelling und Scaffolding** als die am häufigsten genutzten Strategien — die Pädagogik trug das Ergebnis, und sie ist es, was die Studien tatsächlich taten.
+- **„Physische Roboter schlagen bildschirmbasierte Alternativen durchweg."** Die Zugewinne waren **aufgabenabhängig**: eine kurzfristige Transferpunktzahl **60% höher** bei [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4,4/10, p = .003), die die Autoren **räumlicher Ko-Lokation statt allgemeinem Ersatz** zuschreiben. Die Aussage betrifft Ko-Lokation bei bestimmten Aufgaben, nicht physische Verkörperung im Allgemeinen.
+- **„Computational Thinking im Kindergarten ist zu früh, um bedeutsam zu sein."** Die begutachtete Evidenz deckt Robotik im Kindergarten direkt ab, was bedeutet, dass die Altersgruppe untersucht und nicht als ungeeignet vorausgesetzt wird.
 
 ## Verbundene Konzepte
 - [[early-childhood-elementary-ai-education]] — KI-Bildung in der frühen Kindheit und in der Grundschule

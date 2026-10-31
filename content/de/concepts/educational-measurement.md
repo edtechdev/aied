@@ -1,7 +1,7 @@
 ---
 title: Bildungsmessung
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,13 +9,17 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -127,6 +131,12 @@ Kurz gesagt kann Bildungsmessung **verpassen**, was sie nicht sampled (Prozess, 
 
 Bildungsmessung ist das Fundament für [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]] und [[student-modeling]]. Sie verbindet sich mit [[learning-analytics]] (Messung von Lerndaten), [[educational-nlp]] (Sprache messen) und [[psychometrically-aware-ai]] (mit der Messtheorie abgeglichene KI). Ihre Validitäts- und Reliabilitätsanliegen stützen [[ai-ed-evaluation]] und die [[limitations-in-aied-research|Messgrenzen]] des Feldes. Für die Konstrukte, die sie misst, überschneidet sie sich mit [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]] und [[student-engagement]].
 - **Kausale Modellierung von Unterstützungsinterventionen (2026):** ein Protokoll struktureller kausaler Modellierung bewegt Bildungsprüfung über assoziatives Item-Response-Theory-Glaubens-Update hinaus hin zu interventionalem und kontrafaktischem Schlussfolgern (z. B. die Wirkung von Hinweisen), mit strukturellen Gleichungen, die von Expertinnen und Experten unter Nutzung rein logischer Information elizitiert wurden —, veranschaulicht an Aufgaben zu algorithmischen Fähigkeiten in der Pflichtschule ([[causal-modeling-competency-assessment-2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Modelle können die Aufgabenschwierigkeit schätzen."** Vier Frontier-Modelle wurden gegen **IRT-Ground-Truth bei 2.548 Mathematikaufgaben** bewertet: Sie erreichen **68,6 % bei der relativen Schwierigkeit**, fallen aber bei der absoluten Kalibrierung **unter den Zufall**. Ranking und Kalibrierung sind getrennte Fähigkeiten, und die zweite ist das, was ein Assessment-Design braucht.
+- **„Ein taxonomisches Label sagt voraus, wie schwer eine Aufgabe ist."** Über **265 Mathematikaufgaben** erklärte die beabsichtigte Bloom-Stufe **unter 5 % der Varianz in der Schwierigkeit**. Eine Aufgabe nach Bloom-Stufe zu labeln sagt fast nichts über ihre empirische Schwierigkeit.
+- **„Die Qualität einer Aufgabe wird an ihrem Wortlaut beurteilt."** **Beurteilen Sie generierte Aufgaben am Lösungsweg, nicht am Wortlaut**: die Kodierung des **verifizierten Argumentationsbaums** jeder Aufgabe hob die Leistung um einen Vorsprung über die zweitbeste Methode. Die Argumentationsstruktur trug das Signal, nicht der Oberflächentext.
 
 ## Verbundene Konzepte
 

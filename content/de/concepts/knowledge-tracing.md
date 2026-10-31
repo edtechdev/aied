@@ -1,20 +1,24 @@
 ---
 title: Wissensstandsverfolgung
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-24T22:43:16-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,13 +61,42 @@ Knowledge Tracing ist eng mit [[student-modeling|Modellierung von Lernenden]] ve
 
 **Eine Vorsichtsmaßnahme: Beherrschung ist nicht Korrektheit.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] zeigen, dass BKTs Annahme zweier Zustände (gelernt/ungelernt) durch *täuschende Übergeneralisierung* verletzt werden kann — Lernende können als gemeistert erscheinen und dennoch eine Fähigkeit systematisch falsch anwenden, wenn eine verborgene Anwendungsbeschränkung verletzt wird. Das spricht dafür, bedingtes Verstehen zu verfolgen (zu wissen, *wann eine Handlung zu unterlassen* ist), nicht nur Handlungskorrektheit, wenn Beherrschungsschätzungen [[adaptive-learning|adaptive]] Abbruchregeln antreiben.
 
-**Eine verwandte Vorsichtsmaßnahme betrifft *wie* Tracing-Modelle validiert gegenüber eingesetzt werden.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] fitten BKT, BKT-mit-Vergessen und das Additive-Factors-Modell auf einen Datensatz aus aufeinanderfolgendem Wiedererlernen über mehrere Sitzungen und fanden, dass sie Lerntrends reproduzieren, wenn sie rückwirkend auf alle Sitzungen gefittet werden (akzeptables AUC ≈ 0,74–0,79); aber unter **zeitbasierter Kreuzvalidierung** — auf einer Sitzung trainieren, um die nächste vorherzusagen, das realistische Anwendungssetting — überschätzen alle drei die künftige Leistung um etwa 47–58%, erfassen den [[desirable-difficulties|Spacing-Effekt]] nicht und können sogar die falsche Rangordnung über Übungsbedingungen hinweg vorhersagen. Bezeichnenderweise schnitten Modelle *ohne* expliziten Vergessensmechanismus etwa genauso gut ab wie die mit Vergessen erweiterten Versionen, wenn sich Sitzungen anhäuften, was nahelegt, dass Vergessen teilweise in andere Parameter absorbiert wurde (etwa Per-Studierenden-Interzepte im AFM), statt echt modelliert zu werden. Die Autoren verbinden das mit der Unterscheidung zwischen Lernen und Leistung: Beliebte Modelle verwechseln hohe Leistung im Moment mit hoher Wahrscheinlichkeit langfristigen Behaltens. Die praktische Implikation ist, dass ein Tracer, der bei rückwirkendem Fit gut aussieht, die adaptiven Systeme in die Irre führen kann, die seine Beherrschungsschätzungen konsumieren, was für Walk-Forward-Evaluation und Modelle spricht, die Retentionsintervall, Spacing und Vergessen zwischen Sitzungen berücksichtigen.
+**Eine verwandte Vorsichtsmaßnahme betrifft *wie* Tracing-Modelle validiert gegenüber eingesetzt werden.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] fitten BKT, BKT-mit-Vergessen und das Additive-Factors-Modell auf einen Datensatz aus aufeinanderfolgendem Wiedererlernen über mehrere Sitzungen und fanden, dass sie Lerntrends reproduzieren, wenn sie rückwirkend auf alle Sitzungen gefittet werden (akzeptables AUC ≈ 0,74–0,79); aber unter **zeitbasierter Kreuzvalidierung** — auf einer Sitzung trainieren, um die nächste vorherzusagen, das realistische Anwendungssetting — überschätzen alle drei die künftige Leistung um etwa 47–58%, erfassen den [[retrieval-spacing-interleaving|Spacing-Effekt]] nicht und können sogar die falsche Rangordnung über Übungsbedingungen hinweg vorhersagen. Bezeichnenderweise schnitten Modelle *ohne* expliziten Vergessensmechanismus etwa genauso gut ab wie die mit Vergessen erweiterten Versionen, wenn sich Sitzungen anhäuften, was nahelegt, dass Vergessen teilweise in andere Parameter absorbiert wurde (etwa Per-Studierenden-Interzepte im AFM), statt echt modelliert zu werden. Die Autoren verbinden das mit der Unterscheidung zwischen Lernen und Leistung: Beliebte Modelle verwechseln hohe Leistung im Moment mit hoher Wahrscheinlichkeit langfristigen Behaltens. Die praktische Implikation ist, dass ein Tracer, der bei rückwirkendem Fit gut aussieht, die adaptiven Systeme in die Irre führen kann, die seine Beherrschungsschätzungen konsumieren, was für Walk-Forward-Evaluation und Modelle spricht, die Retentionsintervall, Spacing und Vergessen zwischen Sitzungen berücksichtigen.
 
 **Eine weitere Vorsichtsmaßnahme betrifft die Evidenzregel, die das Update speist.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] führte vier Update-Regeln über identische ASSISTments-Ereignisfolgen aus 2012–13, die sich nur darin unterschieden, wie sie mit Hilfe abgeschlossene Zeilen bewerten, auf einer konfirmatorischen Hälfte von 12.716 Studierenden und 985.813 bewerteten Ereignissen. Eine Zeile mit Hinweis oder erneutem Versuch als gescheiterten ersten Versuch zu lesen, sagte die spätere Leistung ohne Hilfe am besten vorher (gepooltes AUC 0.658); jeden Abschluss anzurechnen sagte sie am schlechtesten vorher (0.604), knapp über einer Konstanten, die nur Fähigkeitsschwierigkeit kennt (0.595). Dieselbe Wahl bestimmt die Beherrschungszahl: Abschlüsse anzurechnen erklärte 93,9% von 113.428 Studierenden-Fähigkeiten-Paaren für gemeistert gegenüber 72,8% unter der strengen Regel, und die Paare, die die nachsichtige Regel der strengen gegenüber vorauserklärte, erreichten später 70,9% Genauigkeit ohne Hilfe gegenüber 85,7%, wo beide übereinstimmten, unter der Basisrate von 0,744. Ein verfolgter Zustand ist daher zum Teil eine Funktion der Bewertungskonvention statt der lernenden Person allein, sodass eine Beherrschungsschätzung, die von einem [[adaptive-learning|adaptiven]] Gate konsumiert wird, die Regel tragen sollte, die sie erzeugt hat.
 
 **Eine Fähigkeiten-Vorsichtsmaßnahme: Allgemeine Sprachmodelle verfolgen Wissen kaum über einer trivialen Baseline.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et al. (2026)]] veröffentlichten FoundationalASSIST, das den vollständigen Fragetext, die Antworten, die Studierende tatsächlich gaben, und ihre Distraktor-Wahlen wiederherstellt, die frühere Tracing-Datensätze verworfen hatten, und testeten vier Frontier-[[llm|LLMs]] als Zero-Shot-Tracer. Das beste, GPT-OSS-120B, erreichte 56,2 Prozent gegenüber den 51,3 Prozent, die eine Immer-richtig-vorhersagen-Regel bereits erzielt (AUC-ROC 0.559), ohne Verbesserung durch längere Historien, und Llama-3.3-70B lag zu 85,4 Prozent der Zeit richtig, wenn eine lernende Person richtig antwortete, aber nur zu 12,6 Prozent, wenn sie sich irrte — ein Beleg dafür, dass ein fertiges Modell Optimismus statt Verständnis verfolgt, sodass die scheinbare Fähigkeit eines Tracers gegen die triviale Baseline gelesen werden muss, die seine Aufgabe zulässt.
 
 - **Ein Einmal-Durchlauf-LLM kann Wissen verfolgen, bevor Lernende protokolliert sind.** Als eine getippte Frage ohne Zieldaten der Plattform abgefragt, erreichte Jev ein mittleres AUC von .706, über dem Besten von 28 tiefen Tracing-Modellen, die auf 8 Lernenden trainiert wurden (.689), und voraus, bis überwachtes Tracing bei 64–128 Lernenden aufholt ([[system-one-llm-knowledge-tracing-2026|Lee & Park (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein Beherrschungslabel bedeutet, dass die lernende Person es weiß.“** Beherrschung ist nicht Korrektheit — eine lernende Person kann gemeistert erscheinen und eine Fähigkeit systematisch falsch anwenden, sobald eine verborgene Bedingung verletzt wird —, und der Wert des Labels hängt von der Zählregel dahinter ab. Das Anrechnen erklärter Abschlüsse markierte **93,9% von 113.428 Studierenden-Fähigkeiten-Paaren** als gemeistert gegenüber **72,8%** unter einer strengen Regel, und die Paare, die die nachsichtige Regel vorauserklärte, erreichten nur **70,9% Genauigkeit ohne Hilfe**. Zwei vertretbare Regeln erzeugten einen Unterschied von 21 Punkten darin, wer für bereit erklärt wurde.
+
+**„Sequenzmodelle sind das, was Tracing genau macht.“** Ein großer Teil des scheinbaren Gewinns ist billiger zu haben. Auf 1.927.265 Mathematikantworten von 8.996 finnischen Studierenden erreichte die Item-Identität allein **AUC .8362**, und das Hinzufügen eines einzigen Rezenz-Maßes relativ zur Itemschwierigkeit hob das auf **.866**. Ein großer Anteil dessen, was tiefe Sequenzmodelle kaufen, ist über eine Itemschwierigkeits-Baseline plus Rezenz verfügbar, sodass Architekturvergleiche diese Baseline brauchen, um aussagekräftig zu sein.
+
+**„Das beste Modell auf einem Datensatz ist das beste Modell für Ihren Kurs.“** Genauigkeit ist settingspezifisch. OKT erreichte **89,81% AUC** auf Live-LMS-Daten eines [[engineering-education|Ingenieurwesen]]-Programms (2.416 Studierende, 966 Outcomes) und schlug DKT, DKVMN, EKT und SimpleKT — lieferte aber auf ASSISTments nur konkurrenzfähige Ergebnisse. Dieselbe Architektur, die auf einer Datensatzfamilie gewinnt, ist auf einer anderen unauffällig, sodass ein Headline-AUC von anderswo schwache Evidenz über Ihre Studierenden ist.
+
+**„Wissen bleibt bestehen, solange es keine Belege für Vergessen gibt.“** Vergessen ist der Standard, den es zu modellieren lohnt. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] fitteten BKT, BKT-mit-Vergessen und das Additive-Factors-Modell über eine Sequenz mehrerer Sitzungen und fanden, dass sich der Modellfit ändert, wenn Retention repräsentiert wird, und dass sich die *Validierung* dieser Modelle von ihrem *Einsatz* unterscheidet.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Behandeln Sie ein Beherrschungslabel als Behauptung mit einer Provenienz, nicht als Fakt. Das Anrechnen erklärter Abschlüsse markierte **93,9% von 113.428 Studierenden-Fähigkeiten-Paaren** als gemeistert, gegenüber **72,8%** unter einer strengen Regel — und die Paare, die die nachsichtige Regel vorauserklärte, erreichten anschließend **70,9% Genauigkeit ohne Hilfe** gegenüber dem strengeren Satz. Die Regel, die Sie gewählt haben, ist in der Zahl sichtbar, die Sie sehen.
+- Bevorzugen Sie ein Modell, das in einem Setting wie Ihrem validiert wurde. OKT erreichte **89,81% AUC** auf Live-LMS-Daten eines [[engineering-education|Ingenieurwesen]]-Programms (2.416 Studierende, 966 Outcomes) und übertraf DKT, DKVMN, EKT und SimpleKT — lieferte aber auf ASSISTments nur konkurrenzfähige Ergebnisse. Der Vorteil ist settingspezifisch, sodass kontextübergreifende Genauigkeitsbehauptungen nicht Ihre Validierung sein sollten.
+- Denken Sie daran, dass Beherrschung nicht Korrektheit ist: eine lernende Person kann gemeistert erscheinen und eine Fähigkeit systematisch falsch anwenden, sobald eine verborgene Bedingung verletzt wird.
+
+**Für Entwickelnde**
+
+- Zahlen Sie nicht für Sequenzmodell-Komplexität ohne Baseline. Auf 1.927.265 Mathematikantworten von 8.996 finnischen Studierenden erreichte die Item-Identität allein **AUC .8362**, und ein einziges Rezenz-Maß relativ zur Itemschwierigkeit hob das auf **.866** — ein großer Anteil dessen, was Sequenzmodelle kaufen, für einen Bruchteil der Maschinerie.
+- Modellieren Sie Vergessen explizit, statt anzunehmen, Wissen bleibe bestehen; die BKT-mit-Vergessen-Vergleiche zeigen, dass sich der Fit ändert, wenn Retention im Modell ist.
+- Berichten Sie die Einsatzregel zusammen mit dem Modell. Die Diskrepanz zwischen Validierung und Einsatz in den Vergessensstudien ist ebenso ein Berichtsversäumnis wie ein Modellierungsproblem.
+
+**Für Forschende**
+
+- Berichten Sie Ergebnisse auf mehr als einer Datensatzfamilie, bevor Sie Architekturüberlegenheit behaupten, da sich der OKT-Kontrast zwischen Ingenieurwesen-LMS-Daten und ASSISTments umkehrt.
+- Berichten Sie die Beherrschungs-Zählregel als Parameter des Ergebnisses, nicht als methodische Fußnote.
 
 ## Verbundene Konzepte
 

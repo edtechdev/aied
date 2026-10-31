@@ -1,7 +1,7 @@
 ---
 title: Akademische Integrität
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-29T04:19:20-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,13 +11,17 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-26T12:30:00-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -171,6 +175,10 @@ Die erste Theory-of-Planned-Behavior-Studie zu GAIT-basierten Fehlverhaltensabsi
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] dokumentieren das Regime von innen aus einer Fakultät: Lehrende, die ihre Assessmentformate geändert hatten, sagten, es sei „praktisch unmöglich zu sagen, ob eine studierende Person bei der Ausarbeitung von Aufgaben KI verwendet hat“, während verärgerte Studierende statt Detektion Appelle an das Gewissen und „Beschämung“ verlangten.
 - **Bessere Sensorik ändert nicht, was das Assessment zertifizieren kann.** Ein YOLOv11-Pose-Estimation-System zur Prüfungsaufsicht mit einer berichteten Klassifikationsgenauigkeit von 99,56% veranschaulicht die Grenze des Detektionswegs: Es misst die Körperhaltung gegen ein Verhaltenslabel, berichtet keine Grundwahrheit über Fehlverhalten und bietet keine Subgruppenanalyse ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Die Abhilfe, für die Villanueva argumentiert, ist ausreichende Evidenz für Lernen an Schlüsselstellen und nicht maximale Überwachung jeder Abgabe.
 
+**Integritätssprache in der internationalen Politik schafft keine operationale Bedeutung, und genau das ist der Befund und nicht die Lücke.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] analysierte vier UNESCO- und OECD-Publikationen von 2023 bis 2026 durch kritische Diskursanalyse und fand acht wiederkehrende Begriffe — Verantwortung, Transparenz, Vertrauen, menschliche Handlungsfähigkeit, Originalität, Authentizität, verantwortungsvolle Nutzung und Augmentation —, die normatives Gewicht tragen, während ihr Bezugsobjekt zwischen den Dokumenten wechselt. Die UNESCO macht Anbieter für Kernwerte und Bildungsfachkräfte für pädagogisch angemessene Interaktion verantwortlich; die OECD verschiebt denselben Begriff in das professionelle Urteil der Lehrkräfte.
+
+Die OECD (2023) hält fest, dass Anfang 2024 keines von achtzehn untersuchten Ländern eine spezifische Regulierung generativer KI für Bildung hatte und neun die Governance auf die Schulebene delegiert hatten. Gelesen durch Ahmeds Begriff der Non-Performativität drückt das Vokabular ethische Responsivität ohne irgendeinen Mechanismus aus, sie umzusetzen, sodass Verantwortung von jedem Akteur zugleich angerufen und in keinem verortet wird. Hashem benennt das Ergebnis einen sich wandelnden **cheating habitus**: Dispositionen zu legitimer Teilnahme, neu kalibriert unter chronischer Unbestimmtheit, geschichtet nach dem akademischen Kapital, das Studierende mitbringen, wobei Schummeln und betrogen zu werden als gleichzeitige Bedingungen statt als Alternativen behandelt werden. Alles davon wird aus Politiktext vorgeschlagen, nicht an Studierenden beobachtet.
+
 ## Verbreitete Fehlvorstellungen
 
 - **„Detektionswerkzeuge identifizieren KI-Schreiben.“** KI-generierter Text hat **in bis zu 80% der Fälle als menschlich verfasst gegolten**, während die Evidenz zur Detektion **maschinelle Detektion bei etwa 80% gegenüber 78,4% für menschliche Bewertende** verortet. Menschliches und maschinelles Urteil sind nahezu gleich (un)zuverlässig, sodass ein Detektionsurteil kein Beleg für Autorschaft ist.
@@ -203,6 +211,7 @@ Die erste Theory-of-Planned-Behavior-Studie zu GAIT-basierten Fehlverhaltensabsi
 
 ## Verbundene Artikel
 
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Vier UNESCO- und OECD-Dokumente als Diskurs gelesen: schwebende Signifikanten, Non-Performativität und ein sich wandelnder cheating habitus
 - [[ivory-psychology-assessment-integrity-2026]] — Ein gesamtes Psychologie-Studiengang mit minimalem Aufwand bestehbar, und die Benotungskriterien, die das durchgehen ließen (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Lehramtsstudierende lehnten GenAI unter einer permissiven Politik ab; „Falle“-Rahmung und die Lücke zwischen Umfrage und Erklärung
 - [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudiges Assessment und Dritter Raum

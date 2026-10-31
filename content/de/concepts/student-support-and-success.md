@@ -1,7 +1,7 @@
 ---
 title: Unterstützung und Erfolg von Studierenden
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-24T21:19:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -20,8 +20,12 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 ---
 
@@ -88,6 +92,16 @@ Dauerhaftigkeit ist in dieser Literatur eine organisationelle Eigenschaft, keine
 ## Verbindungen zu verwandten Konzepten
 
 Studierendenunterstützung verbindet sich mit [[student-experience|Erleben der Studierenden]] als studierendenzugewandtem Pendant — dieselben Technologien gesehen von der Seite der Studierenden statt der Einrichtung —, und mit [[help-seeking|Hilfesuche]] für den Mechanismus, durch den Studierende, die Unterstützung brauchen, sie tatsächlich erhalten; Ansprache und kursspezifische Assistentinnen sind beides Versuche, die Kosten des Fragens zu senken. [[learning-analytics|Learning Analytics]] besitzt die Vorhersage, die Zuteilung speist, [[student-modeling|Modellierung von Lernenden]] und [[knowledge-tracing|Knowledge Tracing]] die Modelle darunter, und [[recommender-systems-and-learning-paths|Empfehlungssysteme und Lernpfade]] die Empfehlungsschicht. Sie verbindet sich mit [[well-being|Wohlbefinden]] über Campus-Systeme für psychische Gesundheit und Prävention, mit [[career-development-and-readiness|Berufsvorbereitung und Berufsfähigkeit]] als dem Ergebnis, das auf Abschluss folgt, mit [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]] und [[privacy|Datenschutz]] über die Risiken, auf Werte hin zu handeln, und mit [[administrator|Administration]], [[stakeholders|Akteuren in der KI-Bildung]] und [[change-management|Change-Management]] als den Rollen und Prozessen, die entscheiden, ob irgendetwas davon aufrechterhalten wird. [[learning-gains|Lernzuwächse]] ist der benachbarte Messknoten: die Ergebnisse dieser Seite sind administrativ statt instruktional, und die beiden bewegen sich nicht zusammen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Vorherzusagen, welche Studierenden Schwierigkeiten haben werden, ist die Intervention."** Vorhersage ist der Input für Unterstützung und ist nicht Unterstützung. Der Korpus trennt beides bewusst: Eine Erinnerung zur Anmeldung und ein Bleibeprogramm sind verschiedene Interventionen mit verschiedener Evidenz, und die Forschung legt nahe, dass das eine das andere nicht kauft. Ein Frühwarn-Dashboard, das in einem Score endet, hat Messung hinzugefügt, ohne Hilfe hinzuzufügen.
+
+**„Ein Bleibeprogramm, das die Persistenz erhöht hat, beweist, dass die KI funktioniert hat."** Es beweist, dass das Programm es getan hat, und die KI-Schicht muss getrennt von der Weitervermittlung bewertet werden, die sie auslöst. Eine vierjährige randomisierte Studie zu CSUNny, einem nicht-generativen Textnachrichten-Chatbot an der California State University, Northridge, begleitete **zwei Bachelor-Kohorten (N = 8.708)** über **acht Semester** mit **jährlichen Opt-out-Raten, die nie 4% überstiegen** — ein starkes Aufnahmeergebnis zum *Messaging* und kein Beleg dafür, dass ein generatives oder prädiktives System dasselbe erreichen würde.
+
+**„Die Ergebnisleiter fällt zusammen: Engagement ist Retention."** Jede Sprosse misst etwas anderes — Einwilligen, Antworten, Verbleiben, Abschließen —, und ein Programm kann die unteren Sprossen bewegen, während die oberen flach bleiben. Den Anteil der Antwortenden als Erfolg zu berichten, begeht genau diese Substitution.
+
+**„Eine Gerechtigkeitssorge ist ein Grund, die Daten nicht mehr zu nutzen."** Sie ist ein Grund, sorgfältig auf Scores zu handeln. Auf einen Prädiktor zu handeln, kann Unterstützung verteilen und kann Verdacht verteilen, und das Risiko konzentriert sich auf die Studierenden, die das Modell am ungünstigsten klassifiziert — was die Abhilfe zu Governance der Nutzung macht statt zur Aufgabe der Messung.
 
 ## Verbundene Konzepte
 - [[higher-ed]] — die Überblicksseite des Sektors, unter der diese Seite sitzt

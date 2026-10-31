@@ -1,7 +1,7 @@
 ---
 title: Wünschenswerte Schwierigkeiten
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T22:09:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,13 +9,17 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,7 +65,7 @@ Weil KI darauf ausgelegt ist, reibungslos zu sein — sofort Zusammenfassungen z
 | Die „Bedrohung" | Die Illusion der Kompetenz (zu glauben, man wisse es, weil es sich jetzt leicht anfühlt) | Automation bias (die Maschine das Denken für einen machen lassen) |
 | KI-Implementierung | Algorithmen, die Übung zeitlich ansetzen und strukturieren (Spacing, Interleaving, Abruf) | [[conversational-ai|Chatbot]]-Leitplanken und UI-Stolpersteine, die die lernende Person die Arbeit leisten lassen |
 
-**Desirable difficulties: der Gedächtnisoptimierer.** Geprägt von Robert und Elizabeth Bjork (1994), stammt dieses Rahmenwerk aus der [[cognitive-offloading|Kognitionspsychologie]]. Seine Kernidee ist, dass Lernstrategien, die sich schwerer anfühlen und die anfängliche Leistung verlangsamen, tatsächlich bessere langfristige Behaltensleistung und [[transfer-of-learning|Transfer]] erzeugen. Desirable difficulties handeln davon, *wie das Gehirn Information kodiert und abruft*: wenn Lernen im Moment zu leicht oder flüssig anfühlt (wie das erneute Lesen eines markierten Lehrbuchs), leistet das Gehirn vermutlich nicht die tiefe Verarbeitung, die nötig ist, damit die Erinnerung haftet. In der KI verändert ein Werkzeug, das dieses Rahmenwerk nutzt, die *[[pedagogy|Pädagogik]]* der Sitzung — zum Beispiel die lernende Person zu bitten, vor dem Anbieten einer Zusammenfassung aus dem Gedächtnis abzurufen (Abrufübung), Review knapp vor dem Vergessen anzusetzen (Spacing), oder Aufgabentypen zu mischen (Interleaving), statt sie nach Kategorie zu gruppieren. Bemerkenswert ist, dass der Nutzen dieser anstrengenden Strategien selbst inhaltsabhängig ist: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] zeigen, dass Abrufübungen vor allem wörtliches Gedächtnis stärken (indem sie Vergessen verzögern), während der Erwerb einer generalisierbaren Fähigkeit erfordert, ausgearbeitete Beispiele mit Übung zu integrieren — sodass die „Schwierigkeit", die hilft, zum Typ des gelernten Wissens passen muss, statt einheitlich angewandt zu werden.
+**Desirable difficulties: der Gedächtnisoptimierer.** Geprägt von Robert und Elizabeth Bjork (1994), stammt dieses Rahmenwerk aus der [[cognitive-psychology|Kognitionspsychologie]]. Seine Kernidee ist, dass Lernstrategien, die sich schwerer anfühlen und die anfängliche Leistung verlangsamen, tatsächlich bessere langfristige Behaltensleistung und [[transfer-of-learning|Transfer]] erzeugen. Desirable difficulties handeln davon, *wie das Gehirn Information kodiert und abruft*: wenn Lernen im Moment zu leicht oder flüssig anfühlt (wie das erneute Lesen eines markierten Lehrbuchs), leistet das Gehirn vermutlich nicht die tiefe Verarbeitung, die nötig ist, damit die Erinnerung haftet. In der KI verändert ein Werkzeug, das dieses Rahmenwerk nutzt, die *[[pedagogy|Pädagogik]]* der Sitzung — zum Beispiel die lernende Person zu bitten, vor dem Anbieten einer Zusammenfassung aus dem Gedächtnis abzurufen (Abrufübung), Review knapp vor dem Vergessen anzusetzen (Spacing), oder Aufgabentypen zu mischen (Interleaving), statt sie nach Kategorie zu gruppieren. Bemerkenswert ist, dass der Nutzen dieser anstrengenden Strategien selbst inhaltsabhängig ist: [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] zeigen, dass Abrufübungen vor allem wörtliches Gedächtnis stärken (indem sie Vergessen verzögern), während der Erwerb einer generalisierbaren Fähigkeit erfordert, ausgearbeitete Beispiele mit Übung zu integrieren — sodass die „Schwierigkeit", die hilft, zum Typ des gelernten Wissens passen muss, statt einheitlich angewandt zu werden.
 
 **Productive (cognitive) friction: die Engagement-Leitplanke.** Dieses Rahmenwerk stammt aus UX- und Interaktionsdesign, wo „friction" normalerweise der Feind ist (One-Click-Checkout, sofortige Suche). In der Bildungstechnologie bedeutet null Reibung null Denken: productive friction führt absichtsvoll „speed bumps" in die Software ein, um zu verhindern, dass der Nutzer Kognition an die Maschine auslagert. Sie handelt von der *Interaktion zwischen Mensch und Maschine*, hält den Nutzenden aktiv engagiert und verhindert automation bias — das blinde Vertrauen in die Ausgabe der KI, ohne sie zu bewerten. In der KI verändert ein Werkzeug, das dieses Rahmenwerk nutzt, sein *Verhalten und Design*, um Abkürzungen zu verhindern — zum Beispiel eine [[socratic-method|sokratische]] Leitplanke, die die direkte Antwort zurückhält und fragt, welche Symbole die lernende Person bemerkt hat, Aufwands-Checkpoints, die sich weigern, einen Entwurf zu generieren, bevor eine These und eine Gliederung eingegeben sind, oder verzögertes [[feedback|Feedback]], das verlangt, sich auf eine Antwort festzulegen und das Schlussfolgern zu erklären, bevor die Lösung offenbart wird.
 
@@ -85,6 +89,16 @@ Die zentrale Spannung für KI-gestütztes Lernen ist, dass [[generative-ai|gener
 4. **Passen Sie Reibung an die Bereitschaft der Lernenden an.** Desirable difficulties nützen Lernenden, die anstrengende Verarbeitung leisten können; Überforderung ohne Unterstützung riskiert Frustration. [[scaffolding|Scaffolding]] muss Lernende in der Zone produktiven Ringens halten, nicht darüber hinaus.
 
 TutorMoments operationalisiert Prinzipien wünschenswerter Schwierigkeiten als Evaluationskriterien: [[zhang-tutormoments-2026|Zhang et al. (2026)]] testen, ob KI-Tutoren produktives Ringen bewahren, indem sie für Zugang gerüsten (wenn nötig) und auf Strenge drängen (wenn bereit), und finden, dass LM-Tutoren standardmäßig over-scaffolden — also die anstrengende Verarbeitung beseitigen, die desirable difficulties erfordern.
+
+## Verbreitete Fehlvorstellungen
+
+**„Leichtigkeit und Flüssigkeit beim Lernen zeigen an, dass Lernen stattfindet.“** Sie zeigen oft das Gegenteil an. Flüssigkeit ist ein Hinweis, der schwach oder negativ mit dauerhafter Behaltensleistung korreliert, und die KI-Variante hat einen direkten verzögerten Test: [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcauis (2025)]] randomisierte Studie fand, dass **120 Studierende**, die KI/ML-Themen mit uneingeschränktem ChatGPT lernten, bei der verzögerten Behaltensleistung schlechter abschnitten — mit der **größten Beeinträchtigung bei technischen Themen (d = 0.92)**, dem Material, bei dem KI die meiste Unterstützung bot. Die Bedingung, die sich am hilfreichsten anfühlte, erzeugte das größte Defizit.
+
+**„Ringen ist also gut, und Unbehagen sollte bewahrt werden.“** Nicht jede Reibung ist wünschenswert. Das Konstrukt ist spezifisch: Schwierigkeiten sind wünschenswert, wenn sie Abruf, Spacing, Interleaving oder Generierung verlangen, und nicht wünschenswert, wenn sie beiläufige Verwirrung, eine schlechte Schnittstelle oder eine fehlende Voraussetzung sind. Verwirrung zu bewahren, die nichts lehrt, ist ein ebenso großer Fehler wie die Anstrengung zu entfernen, die lehrt.
+
+**„Kognitive Reibung und produktives Ringen sind dieselbe Idee.“** Sie stammen aus unterschiedlicher Literatur und machen unterschiedliche Vorhersagen. Produktives Ringen betrifft anstrengendes Sinnverstehen, das Verständnis aufbaut; kognitive Reibung betrifft die Diskrepanz zwischen dem, was eine Aufgabe verlangt, und dem, was die aktuellen Ressourcen der lernenden Person tragen. Sie als Synonyme zu behandeln verliert die diagnostische Frage — ringt diese lernende Person auf eine Weise, die aufbaut, oder ist sie blockiert auf eine Weise, die nur kostet?
+
+**„Wenn das Entfernen von Ringen die unmittelbare Leistung erhöht, hat die Intervention funktioniert.“** Das ist der Kompromiss, um den es auf dieser ganzen Seite geht: Leistung, die in Anwesenheit der Unterstützung gemessen wird, ist systematisch aufgebläht gegenüber späterer Leistung ohne Unterstützung. Jede Evaluation einer KI, die Anstrengung reduziert, muss verzögert und ohne das Werkzeug messen, sonst berichtet sie das Entfernen von Übung als Erzeugung von Lernen.
 
 ## Verbundene Konzepte
 

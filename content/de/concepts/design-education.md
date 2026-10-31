@@ -1,7 +1,7 @@
 ---
 title: "Designeducation"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-24T21:15:40-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,13 +12,17 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,7 @@ Sie ist auch verschieden von [[design-thinking|Design Thinking]], einer menschze
 - **Ein strukturierter Prozess hält die Autorschaft bei den Studierenden, und das skalierbar.** [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] untersuchten ein 15-wöchiges Storytelling-Capstone, in dem 426 Studierende und 48 Mentorinnen und Mentoren (etwa 1:9) lokales Erbe in [[multimodal|multimediale]] Narrative verwandelten. Expertenbewertungen der 92 Werke waren am stärksten bei Neuheit (M = 4.21) und am schwächsten bei Ganzheitlichkeit (M = 3.68) — Ideen kamen leichter als Integration. Kreativitätsdenken-Punktewerte in einer 31-köpfigen Untergruppe stiegen von 77.23 auf 94.68 (d = 0.82). KI organisierte Information und redigierte; Studierende behielten Themenwahl, Interpretation und abschließende Entscheidungen, und 31 Werke wurden von einem regionalen Kultur- und Tourismusbüro übernommen.
 - **Übernahme ist häufig, über den Prozess hinweg ungleich und verdächtig.** [[genai-usage-design-students-survey|Broadbent et al. (2026)]] befragten 280 Designstudierende des Politecnico di Milano und lasen 100 KI-Nutzungsjournale von Masterstudierenden: 71% nutzten GenAI täglich oder wöchentlich, 65% misstrauten ihr, 85% modifizierten ihre Ausgabe. Nutzung häufte sich in Forschung und Schreiben — Schreiben redigieren 77.5%, Information finden 74.5%, Brainstorming 68.0% —, mit seltener Nutzung für die gesamte Aufgabe (18.6%). Eigenverantwortung überlebte weitgehend: 31% berichteten verlorene Eigenverantwortung oder kreative Handlungsfähigkeit, und nur Prototypengenerierung war signifikant mit ihr assoziiert. Planung und Interpretation primärer Forschung blieben bei den Studierenden, was die Autoren als Beleg dafür lesen, dass Studierende Forschung möglicherweise nicht als Teil des kreativen Prozesses zählen.
 - **Der Nettoeffekt ist Divergenz statt Anhebung.** [[ai-mediated-cognitive-divergence-2026|Crolla, Xia & Jiang (2026)]] zeichneten aus 24 Interviews und einer Befragung von 32 Lehrenden einer Fakultät für gebaute Umwelt *kognitive Divergenz* nach: KI verstärkt vorherige Unterschiede, lässt stärkere Studierende ihr Schlussfolgern ausdehnen, während schwächere formative Arbeit delegieren und kohärente Ausgaben ohne Verständnis produzieren — ein „false sense of capability", das unter Befragung zusammenbricht. Verlust von Prozesssichtbarkeit, in einem Feld, das auf sichtbarem Prozess als primärer Evidenz des Lernens beruhte, und Erosion der Reibungsstufen, die als [[desirable-difficulties|wünschenswerte Schwierigkeiten]] wirken, verstärken es. Positivität des Lehrkörpers spürte pädagogische Relevanz (β = 0.534, p = .004), nicht Dienstalter, und die Gegenmaßnahmen der Fakultät skalieren nicht über studioskalige Kohorten hinaus — was für institutionalisierte Anforderungen an Prozessevidenz argumentiert. Grenzen: eine Institution, n = 32, Wahrnehmung des Lehrkörpers.
+- **Bewusstsein für Disruption ist nicht einfach entmutigend.** Unter 568 chinesischen Designstudierenden war das Bewusstsein, dass KI Teile der Designarbeit ersetzen könnte, positiv mit selbst eingeschätzter Innovationskompetenz assoziiert (β = 0,375), über einen Promotionsfokus-Pfad von 0,0929 und einen Präventionsfokus-Pfad von -0,0884, die sich nahezu gegenseitig aufhoben ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]). Jedes Maß stammte aus einer einzigen Selbstauskunftswelle.
 - **Disziplinen unterscheiden sich darin, welche Verhaltensweisen sich auszahlen.** [[same-ai-different-pathways|Shen (2026)]] verglich 221 Designstudierende mit 222 Wirtschaftsstudierenden und fand, dass [[ai-literacy|KI-Kompetenz]] sowohl Prompting-Proficiency als auch Verifikationsverhalten vorhersagte (p < .001). Verifikation sagte Aufgabenqualität direkt in der Designkohorte vorher, Kalibrierungsgenauigkeit in der Wirtschaftskohorte — offene Ideation gegenüber auditartigen analytischen Standards —, und Verifikation funktionierte als metakognitiver Schutz gegen [[cognitive-offloading|kognitives Offloading]].
 - **Studio-Urteil kann angenähert werden, wenn eine Rubrik vermittelt.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] hoben die LLM–Mensch-Übereinstimmung bei 80 Designpostern von 54.75% auf 81.25%, indem sie Rubrikdeskriptoren iterativ verfeinerten; Prompts von Lehrenden, Peer-Reviewern und Gutachtenden erzeugten epistemisch unterschiedliches Feedback zu derselben Arbeit. Die Autoren behandeln die Rubrik als revidierbare Schnittstelle zwischen pädagogischer Absicht und maschineller Inferenz und behalten [[human-in-the-loop-ai|menschliche Aufsicht]] gegen halluzinierte Begründungen.
 - **Studierende verhandeln die Werkzeuge, statt sie einfach anzunehmen.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] befragten 417 Kunst- und Designstudierende: Leistungserwartung, sozialer Einfluss, Neuheitswert und kreative Kompetenz sagten die Nutzungsabsicht für Text-zu-Bild-Werkzeuge vorher, während Aufwandserwartung negativ vorhersagte, gelesen als abkürzungsorientierte Nutzung im Kurs. Ihr Kompetenzparadox ist, dass kreative Kompetenz die Absicht stützt, aber selektivere Nutzung vorhersagt, wenn Studierende Autorschaft und Erhalt von Fähigkeiten abwägen — ein [[assessment-validity|Validitäts]]problem in einem Studio, wo der Prozess der bewertete Gegenstand ist. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] kamen aus 112 Reflexionen in einem 12-wöchigen [[design-thinking|Design-Thinking]]-Kurs zu einer kompatiblen Schlussfolgerung: Vorteile dominierten (86% positive Stimmung), ethische Bedenken trieben 62% der negativen Stimmung, und gerüstete Integration bewegte Studierende von Skepsis zu 72% positiver Orientierung.
@@ -57,6 +62,13 @@ Sie ist auch verschieden von [[design-thinking|Design Thinking]], einer menschze
 ## Professionelle Formierung und Regulierung
 
 Assessmentprobleme sind hier von professionellen untrennbar. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] beschreibt malaysische Innendesignerinnen und -designer, die sich von primären Formgenerierenden hin zu kritischen Vermittelnden und Kuratorinnen und Kuratoren maschineller Ausgabe verlagern, wobei [[visualization|Visualisierungs]]plattformen Zeitlinien komprimieren, während generierten Entwürfen weiterhin kulturelle Spezifität, klimatische Responsivität und verlässliche Konstruierbarkeit fehlen. Ihre Curriculum-Empfehlung ist Sequenzierung statt Substitution — CAD/BIM, Konstruktionswissen und Human Factors vor generativer Erkundung, und Kriterien, die [[critical-thinking|kritisches Denken]] und ethische Reflexion belohnen. Die professionelle Seite ist ungeklärt: Regulierung des Innendesigns ist weniger formalisiert als die der Architektur, was Fragen der Offenlegung, der Verantwortung für algorithmische Fehler und der Dequalifizierung unter frühkarrierenden Praktikerinnen und Praktikern offenlässt. Die Analyse ist dokumentbasiert und auf ein Land beschränkt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI in einem Designstudio ist vor allem eine Schreibhilfe."** Eine Befragung von **280 Designstudierenden des Politecnico di Milano** plus **100 KI-Nutzungstagebüchern von Masterstudierenden** fand die Nutzung in Recherche und Schreiben konzentriert — **Texte redigieren 77,5%, Informationen finden 74,5%, Brainstorming 68,0%** — bei **seltener Nutzung für ganze Aufgaben mit 18,6%**. Das Muster ist Anreicherung von Teilen, nicht Ersatz des Ganzen, und die Zahlen zeigen, wo die tatsächliche Praxis liegt.
+- **„Designstudierende sind begeisterte Übernehmer."** Dieselbe Kohorte zeigt **71%, die GenAI täglich oder wöchentlich nutzen, 65%, die ihr misstrauen, und 85%, die ihre Ausgabe modifizieren**. Häufige Nutzung und geringes Vertrauen bestehen nebeneinander, ein Werkzeug, dessen Wertversprechen Vertrauen voraussetzt, hat die Nutzenden also falsch gelesen.
+- **„GenAI ist über den Designprozess hinweg generisch hilfreich."** Die über eine Längsschnitt-Studiostudie entwickelte GAI-A-Plattform fand **nur zwei produktive Verwendungen**: GenAI als visueller Stimulus in der frühen Ideenfindung und als **kombinatorischer Erweiterer des Lösungsraums während der Entwicklung**. Nützlichkeit war phasenspezifisch.
+- **„Kreativitätsgewinne sind zu diffus, um messbar zu sein."** In einer **Untergruppe von 31 Studierenden** stiegen die Werte kreativen Denkens von **77,23 auf 94,68 (d = 0,82)**. Der Gewinn ist messbar und auf eine Untergruppe begrenzt, was die ehrliche Form der Behauptung ist.
 
 ## Verbundene Konzepte
 
@@ -97,3 +109,5 @@ Assessmentprobleme sind hier von professionellen untrennbar. [[ai-interior-desig
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit: artefaktbewusster KI-Kritik-Arbeitsraum für Studio-Feedback; simulationsbasierte Bereitschaftsstudie, nicht Lernzuwächse
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Ein Architekturdesign-Experiment, in dem ein DALL-E-3-Arbeitsablauf generelles kreatives Selbstwirksamkeitsvertrauen senkte
 - [[human-ai-collaboration-design-education-rubric-2026]] — Eine Prozess-Rubrik kann KI-Verifikation zum bewerteten Gegenstand machen
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Bewusstsein für technologische KI-Disruption, Design-Thinking-Mindset und Design-Innovationskompetenz unter Designstudierenden

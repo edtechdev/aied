@@ -1,19 +1,23 @@
 ---
 title: Kognitive Diagnose
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T21:15:40-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,7 @@ Während Knowledge Tracing typischerweise einen skalaren Beherrschungswert über
 - **Bayessches DINA für personalisierte Lernpfade:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng und Huang (2026)]] integrieren ein Bayessches DINA-Modell (trainiert am EdNet-Datensatz, N=5,000) mit Wissensraumtheorie und einem Algorithmus für den kürzesten Förderpfad, um personalisierte Lernpfade zu erzeugen, und prüfen empirisch die vermittelnde Rolle [[cognitive-offloading|kognitiver Last]] über Hidden-Markov-Modell-Zustandsübergänge (validiert an 120 Studierenden) — was sowohl das sparsamkeitsgetriebene Konvergenzproblem traditioneller DINA-Modelle adressiert als auch den ungetesteten psychologischen Mechanismus hinter der Wirksamkeit personalisierter Pfade.
 - **Sprachverankerte Diagnose anstelle von ID-Embeddings.** [[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]] ersetzen diskrete Studierenden-, Aufgaben- und Konzeptidentifikatoren durch LLM-erstellte Konzeptschemata und prozessverankerte Belege und kalibrieren den posterioren Zustand jeder Person aus Antwortdatensätzen. Über drei [[math-education|Mathematik]]-[[online-teaching-and-learning|Plattform]]-Datensätze hinweg erreicht das Framework 83.51% ACC / 85.37% AUC auf XES3G5M und 87.16% ACC auf MOOC, wobei der Zugewinn genau dort konzentriert ist, wo klassische kognitive Diagnosemodelle degradieren: neue Konzepte (+4.60 ACC gegenüber KCD) und fehlende Q-Matrix-Einträge (+4.52). Das Abtragen der strukturierten Belege lässt die MOOC-Genauigkeit von 87.16% auf 78.95% fallen, sodass die Verbesserung von der sprachabgeleiteten Struktur kommt und nicht von der Modellskala. ([[process-grounded-language-cognitive-diagnosis-2026]])
 - **Kulturell eingebettete Aufgaben können der KI-Analyse vorausgehen.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] ließen 178 Schülerinnen und Schüler der Sekundarstufe in Indonesien kulturell kontextualisierte offene Aufgaben bearbeiten, bevor die KI-Antwortanalyse erfolgte; die KI-Diagnosen stimmten mit der Expertinnen- und Expertenbewertung überein (ICC = 0,81), während kulturelle Einbettung mit symbolischer mathematischer Leistung (β = 0,42) und Engagement (β = 0,37) assoziiert war.
+- **Strategiekonfiguration lässt sich diagnostizieren, nicht nur der Wissenszustand.** Fünf Dimensionen, geschätzt aus 36.234 Grammatikspiel-Aktionen, sagten den nächsten Erfolg mit AUC 0.826 vorher, während aktuelle Fehlerzahlen ausgeschlossen blieben, und variierten innerhalb von Studierenden (ICC = 0.14) statt zwischen ihnen ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre et al. (2026)]]).
 
 
 ## Warum das wichtig ist
@@ -65,6 +70,27 @@ Kognitive Diagnose sitzt im Herzen der Architektur [[intelligent-tutoring|intell
 ## Verbindungen
 
 Kognitive Diagnose verbindet sich mit [[knowledge-tracing|Knowledge Tracing]], [[student-modeling|Modellierung von Lernenden]], [[educational-measurement|Bildungsmessung]] und [[assessment|Assessment]]. Ihre Einsichten speisen [[intelligent-tutoring|intelligentes Tutoring]] und [[adaptive-learning|adaptives Lernen]], und Arbeit in der LLM-Ära verlinkt sie mit der Identifikation von Missverständnissen im [[intelligent-tutoring|KI-Tutoring]].
+
+## Verbreitete Fehlvorstellungen
+
+- **„Diagnose ist für Modelle eine gelöste Fähigkeit."** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] überwachte diagnostisches Schließen als eine von vier Fähigkeiten in einer offenen 4B/9B/27B-Familie, und **die Wissenszustandsdiagnose blieb die schwächste** der vier. Diagnose ist die Fähigkeit, die sich dem Training widersetzte, das die anderen hervorbrachte.
+- **„Modelle können Schülerfehler simulieren, also können sie sie diagnostizieren."** Der Engpass liegt umgekehrt. Modelle konstruierten eine Lösung in **95.2% der Distraktor-Abläufe** und simulierten ein konkretes Eedi-Missverständnis mit **0.92 Genauigkeit**, doch **das Liefern der richtigen Lösung** — nicht die Simulation des Fehlers — war, was sie begrenzte. Eine plausible falsche Antwort zu erzeugen ist leichter, als eine zu erkennen.
+- **„Diagnose braucht einen handgebauten Katalog von Missverständnissen."** An **6.106 Paaren** richtiger und falscher aussagenlogischer Formalisierungen entdeckte ein Arbeitsablauf **248 Cluster von Transformationen, die 5.156 Paare erklärten (84,44%)**, gegenüber **4.370 (71,57%)** für die handverlesenen Fehler des Referenzsets. Entdeckung erreichte oder übertraf die Expertenkuratierung, und sie übertrug sich auf Modallogik — der Katalog ist also ein Ausgangspunkt, keine Obergrenze.
+- **„Eine Diagnose ist nur nützlich, wenn sie ein Missverständnis benennt."** Zu diagnostizieren, welche Kursoutcomes eine lernende Person erreicht hat, behandelt stattdessen Outcomes als Wissenskonzepte und liefert Konzeptbeziehungen über expertenvalidierte Affinitätsabbildungen. Für outcomebasierte Programme ist das die handlungsnähere Einheit, auch wenn sie gröber ist.
+
+## Was das für die Praxis bedeutet
+
+**Für Lehrende**
+
+- Behandeln Sie die Diagnose eines Systems als zu prüfende Hypothese, nicht als Urteil. Die Wissenszustandsdiagnose war die schwächste Fähigkeit in einer Familie, die dafür trainiert wurde.
+- Fragen Sie, ob die Diagnose ein Konstrukt benennt, auf das Sie reagieren können. Eine Diagnose auf Outcome-Ebene, die auf Ihr Programm abbildet, ist oft nützlicher als ein feinkörniges Missverständnis-Etikett.
+- Wo Ihr Fach Regeln hat, rechnen Sie damit, dass transformationsbasierte Entdeckung Fehlermuster findet, die Sie nicht vorhergesehen haben; die 248 entdeckten Cluster sind Beleg dafür, dass kuratierte Kataloge unvollständig sind.
+
+**Für Entwickelnde**
+
+- Instrumentieren Sie beide Richtungen: eine falsche Antwort erkennen und die richtige erzeugen. Die Zahl von 95.2% wiederhergestellter Lösungen legt nahe, dass die Generierung die leichte Hälfte ist und der Fehlermodus im Erkennen liegt.
+- Bevorzugen Sie Entdeckung gegenüber einem statischen Katalog, wo die Domänenstruktur es erlaubt, und berichten Sie die Abdeckung gegen ein Referenzset, damit der Vergleich lesbar bleibt.
+- Liefern Sie keinen diagnostischen Wert aus, ohne zu benennen, welches Konstrukt er misst und wie er unabhängig von dem Signal validiert wurde, das ihn erzeugt hat.
 
 ## Verbundene Konzepte
 - [[knowledge-tracing]]

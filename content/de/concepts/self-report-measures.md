@@ -1,7 +1,7 @@
 ---
 title: Selbstauskunftsmaße
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-24T23:32:01-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,13 +14,17 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -100,7 +104,7 @@ Zufriedenheit ist das am häufigsten selbst berichtete Ergebnis in diesem Korpus
 - [[preferred-scaffolding-ai-mathematical-modeling|Eine Scaffolding-Studie]] argumentiert, dass wahrgenommene Nützlichkeit, leichte Nutzung und unmittelbare Zufriedenheit nicht als hinreichende Indikatoren für [[scaffolding|Scaffolding-]]Wirksamkeit behandelt werden sollten.
 - [[nie-personavlm-long-term-personalization-2026|Zu persönlichkeitsausgerichteter Modellierung von Lernenden]] beobachtet, dass für Nutzendenzufriedenheit zu optimieren nicht dasselbe ist wie für Lernleistungen zu optimieren, und dass die beiden auseinanderfallen können.
 
-Das Muster, das es mitzunehmen gilt: Zufriedenheit reagiert auf die falschen Dinge, wenn Lernen das Ziel ist. Ein System, das schnell antwortet, bereitwillig zustimmt und Anstrengung reduziert, wird hoch bewertet werden, und genau diese Eigenschaften sind jene, die die Wissensbasis mit reduziertem [[cognitive-offloading|produktivem Ringen]] und aufgeblähter Leistung bei KI-assistierter Arbeit verbindet. Berichtete Zufriedenheit und gemessenes Lernen sind keine Feinde; sie sind einfach keine Substitute, und das erste als Evidenz für das zweite zu behandeln ist das häufigste Abrutschen, das diese Seite dokumentiert.
+Das Muster, das es mitzunehmen gilt: Zufriedenheit reagiert auf die falschen Dinge, wenn Lernen das Ziel ist. Ein System, das schnell antwortet, bereitwillig zustimmt und Anstrengung reduziert, wird hoch bewertet werden, und genau diese Eigenschaften sind jene, die die Wissensbasis mit reduziertem [[desirable-difficulties|produktivem Ringen]] und aufgeblähter Leistung bei KI-assistierter Arbeit verbindet. Berichtete Zufriedenheit und gemessenes Lernen sind keine Feinde; sie sind einfach keine Substitute, und das erste als Evidenz für das zweite zu behandeln ist das häufigste Abrutschen, das diese Seite dokumentiert.
 
 ## Was ein Selbstauskunftsinstrument glaubwürdig macht
 
@@ -145,6 +149,12 @@ Die konstruktiven Antworten der Wissensbasis sind konsistent, und keine erforder
 - Auf Eingruppendesigns achten. Wenn Prädiktoren und Ergebnisse beide aus demselben Fragebogen zu einem Zeitpunkt kommen, sind die Assoziationen mit Varianz gemeinsamer Methode ebenso konsistent wie mit der vorgeschlagenen Theorie.
 - Zufriedenheit als Design-Signal behandeln, nicht als Lernleistung. Hohe Zufriedenheit plus ungetestetes Lernen ist die Standardkonfiguration in der Evaluation von KI-Werkzeugen, und dieser Korpus zeigt, dass die beiden divergieren.
 - Studien bevorzugen, die ihre Rechnung zeigen: angegebene Antwortquoten, angegebene Grenzen, und mindestens eine Evidenzquelle, die nicht aus Fragen kommt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Umfrageevidenz ist schwach, aber ungefähr unverzerrt.“** Die Antwortstruktur begrenzt die Schätzung vor jeder Verzerrung: eine Umfrage erhält **112 Antworten bei einer Antwortquote von 31%**, oder **90 Antworten aus 572 Einladungen**. Der Pool der Antwortenden ist eine selbst selektierte Teilmenge, sodass die Zahl diese Teilmenge beschreibt.
+- **„Umfragen sind in diesem Feld eine Minderheitsmethode.“** Ein Scoping Review über **394 GenAI-Studien zur Hochschulbildung** fand **Umfrageskalen als die am häufigsten berichtete Assessment-Methode (269 Studien, 68,3%)**, vor Tests und Quizzen. Die dominierende Evidenz des Feldes ist Selbstauskunft.
+- **„Selbstauskunft und gemessene Konstrukte stimmen überein.“** **Selbst berichtete kognitive Last unterschied sich nicht signifikant zwischen Offloading-Profilen, die bei der Essay-Autorenschaft von 80% bis 2% reichten**, während sich die stärksten Offloader messbar unterschieden. Das subjektive Maß blieb flach, wo das Verhalten um den Faktor vierzig variierte.
 
 ## Verbundene Konzepte
 

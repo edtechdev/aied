@@ -1,20 +1,24 @@
 ---
 title: Berufsentwicklung und Berufsfähigkeit
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-24T22:09:03-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,12 @@ Ein wiederkehrendes Thema ist, dass Berufsentwicklung im KI-Zeitalter ein **bewu
 ## Verbindungen zu verwandten Konzepten
 
 Berufsentwicklung und Berufsfähigkeit verbindet sich mit [[professional-training]] (die beruflichen Fähigkeiten), [[ai-literacy]] (die KI-Kompetenz), [[self-efficacy]] und [[motivation]] (die psychologischen Ressourcen, die Anpassung stützen), [[anxiety-and-stress]] (Karriereangst als zentrale Komponente), [[higher-ed]] und [[k-12]] (die Settings, in denen Berufsfähigkeit aufgebaut wird), und [[student-experience]] (Karrieresorgen als Teil des Erlebens der Lernenden).
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI-Angst ist eine allgemeine Disposition, die man wegreassurieren kann.“** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] bestätigen mit SEM, dass KI-Angst **Karriereentscheidungen vor allem über eine erodierte Karriere-Adaptabilität beeinträchtigt (63,35% des Gesamteffekts)**. Der Mechanismus ist spezifisch: Angst wirkt, indem sie die Fähigkeit zur Anpassung entfernt, sodass eine auf Gefühle gerichtete Beruhigung genau den Mediator verfehlt, der den Effekt trägt.
+- **„Karriere-Adaptabilität ist eine weiche Fähigkeit zweiter Ordnung hinter technischer Kompetenz.“** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] zeigt, dass Karriere-Adaptabilität **KI-Angst reduziert**, was sie zu einer vorgelagerten Intervention statt zu einem nachgelagerten Ergebnis macht. Adaptabilität aufzubauen adressiert den Mechanismus; sie als nice-to-have zu behandeln lässt den Mediator intakt.
+- **„Angst vor KI ist gleichmäßig verteilt.“** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] finden, dass KI-Angst und negative KI-Einstellungen die Angst vor der Jobsuche nach dem Abschluss über **1.057 Studierende** hinweg vorhersagen, mit unterschiedlichen Mustern für **Frauen und Studierende der Sozialwissenschaften**. Eine einheitliche Intervention weist Unterstützung fehl zu.
 
 ## Verbundene Konzepte
 - [[professional-training]]

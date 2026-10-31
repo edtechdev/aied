@@ -1,7 +1,7 @@
 ---
 title: Technologisches pädagogisches Inhaltswissen (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-22T09:11:45-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-26T10:50:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -50,6 +54,9 @@ TPACK hält, dass wirksame Technologieintegration nicht die Summe getrennter Wis
 - **Technological Content Knowledge (TCK)** — wie Technologie Inhalte formt und repräsentiert.
 - **Technological Pedagogical Knowledge (TPK)** — wie Technologie Unterrichtsstrategien stützt oder begrenzt.
 - **TPACK** — das emergente, integrierte Wissen im Zentrum, wo alle drei Domänen interagieren, um technologieverstärkten, fachspezifischen Unterricht zu ermöglichen.
+
+- **Der Rahmen dominiert das Feld per Default und wird überdehnt.** In einem PRISMA-geleiteten Review von 78 Studien zu KI-gestütztem Instruktionsdesign wandten nur 19 ein benanntes Kompetenzrahmenwerk an — und TPACK und seine Varianten machten **17 dieser 19** aus, produktiv als analytische Linse genutzt, aber über ihren ursprünglichen Geltungsbereich hinaus gedehnt, da TPACK nicht für KI-spezifische Fähigkeiten entworfen wurde. Maßgeschneiderte Erweiterungen sind entsprechend selten: **Intelligent-TPACK erschien in nur fünf Studien**, meist mit [[ai-literacy|KI-Kompetenz]] gepaart, um Entwicklungsprogression zu erfassen ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **Forschung verläuft untheoretisiert, während Politikrahmen ungetestet bleiben.** Derselbe Review fand, dass **76% der Studien Kompetenzen aus der Praxis ableiteten, ohne jede theoretische Abbildung**, und weder DigCompEdu noch das UNESCO-Kompetenzrahmenwerk für Lehrkräfte zu KI in irgendeiner der 78 Studien als analytisches Rahmenwerk angewandt wurde — eine Trennung in beide Richtungen, da empirische Arbeit kein gemeinsames Vokabular anhäuft, während die Rahmenwerke, die die Praxis leiten sollen, in diesem Kontext empirisch ungetestet bleiben.
 
 ## AI-TPACK und GenAI-TPACK
 
@@ -96,6 +103,12 @@ TPACK ist der organisierende Rahmen für die Lehrkraftseite der Evidenzbasis der
 2. **Behandeln Sie KI als Agenten, nicht als Gerät.** AI-TPACK erweitert den Rahmen hin zur Orchestrierung von [[agentic-ai|KI-Agenten]] und verlangt Systemdenken und pädagogisches Urteil darüber, wann KI handeln sollte.
 3. **Differenzieren Sie PD nach Lehrkraftprofil.** Verschiedene Lehrkraft-Archetypen (Optimierer, Schöpfer, Beobachter) profitieren von verschiedener Gerüstbildung —, beziehungsweise fortgeschrittenen Rahmen, rascher Rückmeldung oder ausdrücklicher Modellierung.
 4. **Bewerten Sie integrierte Kompetenz.** TPACK-orientierte Ergebnisse (z. B. AI-PCK-Gewinne) sollten als integrierte Fähigkeit gemessen werden, nicht als selbstberichtete Werkzeugvertrautheit.
+
+## Verbreitete Fehlvorstellungen
+
+- **„TPACKs Dominanz spiegelt seine Erklärungskraft.“** Diese Dominanz ist **teils ein Retrieval-Artefakt**: In einem PRISMA-Scoping-Review von **195 technologiegestützten Studien zur Lehrkräftebildung** dominieren digitale Kompetenz, TPACK und DigComp **die indexierte Literatur**. Prävalenz in einer Suche ist eine Eigenschaft des Vokabulars, das das Feld nutzt, kein Beleg dafür, dass das Rahmenwerk mehr erklärt.
+- **„Ein bekanntes Rahmenwerk ist ein für KI validiertes.“** TPACK wurde nicht für KI-spezifische Fähigkeiten entworfen, weshalb Intelligent-TPACK entwickelt wurde — und es erscheint in nur **fünf Studien** im Review von 78 Studien. TPACK für GenAI-Kompetenz zu nutzen, dehnt es über seine Konstruktion hinaus.
+- **„Ein Rahmenwerk anzuwenden heißt, die Forschung ist theoretisiert.“** Derselbe Review fand, dass **76% der Studien Kompetenzen aus der Praxis ableiteten, ohne theoretische Abbildung**, sodass TPACKs Präsenz im Feld damit koexistiert, dass die meiste Forschung untheoretisiert ist. Ein benanntes Rahmenwerk ist nicht dasselbe wie ein Rahmenwerk, das Arbeit leistet.
 
 ## Verbundene Konzepte
 

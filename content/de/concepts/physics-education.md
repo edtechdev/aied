@@ -1,7 +1,7 @@
 ---
 title: Physikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T23:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -12,13 +12,17 @@ connected_resources: [teacher-dev]
 level: [higher ed]
 confidence: high
 translation_of: concepts/physics-education
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -44,7 +48,6 @@ Physikbildungs-[[research-methods-aied|Forschung]] ist ein Erprobungsgelände f�
 **Sokratisches KI-Tutoring in Physik** ist das am stärksten entwickelte Thema, mit drei Artikeln, die [[llm|LLM]]-gestützten sokratischen Dialog in echten Physikkursen einsetzen. **[[hashmi-socratic-physics-chatbot-2025|Hashmi et al.]]** demonstrierten, dass nachhaltige sokratische Interaktion mit einem KI-Chatbot die Fragenspezifität in der Einführungsmechanik dramatisch verbessert, bei 150 MINT-Majors in einem laufenden Kurs. **[[socratic-ai-physics-tutor-taxonomy-2026|Hashmi & Rebello]]** bauten eine Bottom-up-Taxonomie von 357 Studierendendiskurs-Kategorien aus derselben Anwendung auf und offenbarten, dass meta-prozedurale Züge — in denen Studierende strategische Kontrolle an den Tutor abtreten — die Interaktionen der Studierenden dominieren. Beide tragen zu breiterer [[socratic-method|Sokratische-Methode]]-Forschung bei und verbinden sich mit [[intelligent-tutoring|KI-Tutoring]] und Rahmenwerken für [[intelligent-tutoring|intelligentes Tutoring]].
 
 **KI-Übernahme und Vertrauen der Studierenden** erkundet, wie Physikstudierende KI-Werkzeuge tatsächlich nutzen. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** fanden eine Vertrauens-Nutzen-Lücke von 50 Punkten: 91% nutzen KI für Kursarbeiten, aber nur 41% vertrauen ihr, wobei Studierende spontan KI-Fehlermodi im visuell-räumlichen Schlussfolgern und in Schaltkreisen identifizierten. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** entwickelten eine Zwei-Profil-Typologie — 70% „Pragmatic Users" und 30% „Skeptical Non-Users" — aus 1.189 Befragungsantworten und zeigten, dass beide Gruppen kalkulierte Risiko-Nutzen-Abwägungen treffen. Diese Studien bringen [[ai-literacy|KI-Kompetenz]]- und [[trust-calibration|Vertrauenskalibrierungs]]forschung voran und stellen one-size-fits-all-[[educational-policy-ai|KI-Richtlinien]] infrage.
-
 **Erkenntnistheoretische Überzeugungen spüren Chatbot-Verhaltenspräferenz.** In einem großen Analysis-basierten Kurs bevorzugten 52% der Studierenden einen Chatbot, der mit geleiteter Forschung beginnt und nur antwortet, wenn gefragt, und sie erzielten höhere EBAPS-Gesamtwerte (p = 0.029) — Unterschiede, die eine Bonferroni-Korrektur nicht überlebten, was die Assoziation aufschlussreich, nicht schlüssig macht ([[physics-chatbot-epistemological-beliefs-2026|Sirnoorkar und Mamidpalliwar (2026)]]).
 
 Annahme wurde inzwischen modelliert statt nur beschrieben: Eine Strukturgleichungsstudie mit 340 Studierenden der Klasse 10 in Physikklassen in Hangzhou erklärt 58% der Varianz der Absicht, DeepSeek zu nutzen. Ihr bemerkenswertes Ergebnis ist, dass Überzeugungen über Physik — Nutzwert, Erwartung, Kosten — vorhersagen, wie nützlich und wie einfach das Werkzeug erscheint, nicht nur ob Studierende die Absicht haben, es zu nutzen ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
@@ -71,7 +74,6 @@ Probleme formulieren macht die lernende Person zur Problemautorin: 76% von 49 Ph
 **Maßgeschneiderte Simulationen für die Themen, die PhET nicht abdeckt.** LLM-generierte HTML/JavaScript-Modelle lassen Lehrende die Simulation produzieren, die ein Kurs braucht, statt der nächsten veröffentlichten, vorbehaltlich technischer und physikalischer Validierung; in einem Piloten bauten 53 Studierende in 26 Paaren ihre Freifallmodelle und verfeinerten sie, ohne dass Programmierhintergrund nötig war ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
 Ein wiederverwendbarer Vierelement-Prompt — Werkzeuge, Anzeige, Handsteuerung, Optimierung — lässt eine Lehrkraft ohne Code eine browserbasierte AR-Simulation generieren, deren Pinch-and-Spread-Gesten die Physik treiben; in einem 29-Studierenden-Piloten half die Geste allen 29, Wellenlänge zu „fühlen" (Mittelwert 4.52), und 86% berichteten größeres Engagement ([[genai-ar-physics-simulation-prompt-2026|Levy et al. (2026)]]).
-
 **KI-generierte Instrumentierung aus einem Prompt.** Ein durch natürliches Prompting eines KI-Assistenten generiertes Rotationslabor, ohne manuelle Codierung, maß gleichförmige und beschleunigte Kreisbewegung bis auf 1% unabhängiger Tracker-Videoanalyse, wobei Lehrende die Schnittstelle um ihre pädagogischen Variablen herum bauen konnten, statt sich an eine vorkompilierte Sensor-App anzupassen ([[ai-generated-smartphone-circular-motion-lab-2026|Suñer et al. (2026)]]).
 
 **Unterstützte Leistung gegenüber ununterstütztem Wissen in einem neu gestalteten Kurs.** Eine Neugestaltung des Einführungskurses in Kern- und Teilchenphysik an der Ruhr-Universität Bochum aus dem Jahr 2026 (Mikhasenko et al.) erlaubte [[generative-ai|generative KI]] bei zehn absichtsvoll KI-resistenten, forschungsgeformten Hausaufgabenblättern, die so entworfen waren, dass naives [[prompt-engineering|Prompting]] nicht genügen würde. [[student-engagement|Engagement]] und Ambition waren hoch — 24 von 42 Studierenden erwarben Leistungspunkte bei allen zehn Blättern, und eine Herleitung füllte mehr als zwei Meter Tafel —, aber eine ununterstützte 90-minütige Klausur war eine „serious warning": ein Mittelwert von 20.6/80, wobei nur zwei von 27 Prüflingen 40 erreichten. Die Autoren schließen, dass unterstützte Leistung und unabhängig abrufbares Wissen distincte Leistungen sind, die nicht als einander trainierend oder demonstrierend angenommen werden können, und dass Physikkurse etwas Übung für ununterstützte Arbeit reservieren müssen —, was die breitere [[transfer-of-learning|Transfer]]evidenz der Wissensbasis verstärkt.
@@ -100,6 +102,12 @@ Physikbildung sitzt innerhalb der breiteren [[stem-education|STEM]]-Domäne, hat
 - **Reservieren Sie ununterstützte Übung und Assessment.** Die Bochum-Neugestaltung ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al. 2026]]) zeigt, dass KI-erlaubte, forschungsgeformte Hausaufgaben, die mit hohem Engagement erledigt wurden, Studierende in einer ununterstützten Prüfung weit zurücklassen können (Mittelwert 20.6/80) — behandeln Sie unterstützte Leistung und unabhängig abrufbares Wissen als distinct, und bauen Sie absichtsvolle ununterstützte Übung und eine Klausur in den Kurs ein.
 
 - **Verifizieren Sie Facilitator-Fidelity; halten Sie die Modellaufbauphase KI-frei.** Gedrängt, „einfach zu sagen", welches Gewicht mehr wog, erfand ein zweckkonfiguriertes Gem Massenwerte, die niemand gemessen hatte, sodass die Fidelity eines sprachbasierten Facilitators geprüft statt angenommen werden muss, und die KI-freie Aufbauphase die praktische Arbeit bewahrt, die sie nicht erreichen kann ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende vertrauen KI genug, um sich unkritisch auf sie zu verlassen."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad und Bentley]] fanden eine **50-Punkte-Vertrauens-Nutzen-Lücke**: **91% nutzen KI für Kursarbeiten, aber nur 41% vertrauen ihr**. Weite Verbreitung koexistiert mit geringem Vertrauen, eine Intervention, die auf Begeisterung zielt, adressiert also die falsche Variable.
+- **„Physikstudierende sind eine Population."** [[becker-chatgpt-typology-physics-2026|Becker et al.]] entwickelten aus **1.189 Befragungsantworten** eine Zwei-Profil-Typologie: **70% „Pragmatic Users" und 30% „Skeptical Non-Users"**. Eine einzige Klassenrichtlinie muss zwei Gruppen mit entgegengesetzter Haltung bedienen.
+- **„Die Lücke zwischen Nutzung und Vertrauen ist irrational."** Die beiden Zahlen messen Verschiedenes — ob das Werkzeug hilft, Arbeit zu erledigen, und ob man glaubt, dass es das korrekt tut. Studierende unterscheiden Nutzen von Verlässlichkeit, was die analytisch korrekte Unterscheidung ist und kein Widerspruch.
 
 ## Verbundene Konzepte
 

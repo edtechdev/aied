@@ -1,7 +1,7 @@
 ---
 title: Administration
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-10-24T21:37:05-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,6 +58,22 @@ Die Übernahme von KI in der Bildung ist nicht allein eine Entscheidung des Klas
 ### Verbindungen
 
 Die Perspektive der Administration verbindet sich mit [[educational-policy-ai|Bildungspolitik zur KI]] (Politikgestaltung), [[governance|KI-Governance]] und [[regulation|Regulierung]] (Governance), [[edtech-platform|Edtech-Plattformen]] (Beschaffung und Infrastruktur), [[learning-analytics|Learning Analytics]] (institutionelle Daten) und [[higher-ed|Hochschulbildung]]. Entscheidungen der Administration ermöglichen oder begrenzen die Arbeit zu [[educational-development|Lehr- und Curriculumsentwicklung]], [[teacher-role|Lehre]] und [[ai-literacy|KI-Kompetenz]], die an anderer Stelle der Wissensbasis behandelt wird.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Strategische Priorität bedeutet strategische Kapazität."** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] fand, dass nur **7% der Einrichtungen höhere KI-Leitungsrollen geschaffen hatten**, obwohl **49% KI als strategische Priorität behandelten**. Die Lücke ist nicht Gleichgültigkeit — sie besteht darin, dass die Absicht erklärt wurde, während die Struktur, die sie tragen würde, nicht finanziert ist. Eine veröffentlichte KI-Strategie als Beleg institutioneller Bereitschaft zu lesen überschätzt, was existiert.
+- **„Übernahmequoten messen Bereitschaft."** Erklärte Nutzung und governierte Nutzung sind verschiedene Größen, und die Evidenz dieser Seite trennt sie: Einrichtungen berichten strategische Absicht bei etwa der Hälfte der Population und Leitungskapazität bei unter einem Zehntel. Eine Befragung, die zeigt, dass Personal KI nutzt, sagt Ihnen, was Einzelpersonen bereits ohne Erlaubnis getan haben, nicht, was die Einrichtung unterstützen oder beaufsichtigen kann.
+- **„Beschaffung ist ein administrativer Schritt."** Wo Fähigkeit gekauft statt aufgebaut wird, entscheiden die Vertragsbedingungen, was später möglich wird — Dateneigentum, Prüfzugang und ob das Werkzeug überhaupt evaluiert werden kann. Eine Anbieterentscheidung, die als Einkaufsaufgabe getroffen wird, schließt Evaluationsfragen aus, die die Einrichtung noch nicht gestellt hat.
+- **„Governance kann der Übernahme folgen."** Die Sequenzbehauptung ist verbreitet und hier unbelegt: Die Evidenz dokumentiert das umgekehrte Muster, mit Politik- und Leitungsstrukturen, die der bereits stattfindenden Nutzung hinterherlaufen. Governance, die als etwas nach dem Rollout Aufzubauendes gerahmt wird, ist Governance aus einer Position geringeren Hebels.
+
+## Was das für die Praxis bedeutet
+
+**Für die Administration**
+
+- Budgetieren Sie die Leitungsrolle, nicht nur das Strategiedokument. Wenn 49% KI zur Priorität erklären und 7% höhere Rollen schaffen, ist die bindende Beschränkung die Mittelzuweisung statt die Überzeugung.
+- Fragen Sie, worauf ein Werkzeug evaluiert werden kann, bevor Sie unterschreiben. Wenn der Vertrag keinen Zugang zu Ergebnissen, Prüfdaten oder Nutzungsdetails erlaubt, hat die Einrichtung eine Fähigkeit gekauft, die sie nicht beurteilen kann.
+- Erheben Sie tatsächliche Nutzung statt genehmigter Nutzung, denn die beiden divergieren, und die nicht genehmigte Zahl ist die, die Risiko trägt, dem Sie bereits ausgesetzt sind.
+- Sequenzieren Sie Politik vor dem Rollout, solange noch Hebel besteht. Sobald die Nutzung weit verbreitet ist, wird Politik zur Verhandlung mit einer Praxis, die sich bereits eingestellt hat.
 
 ## Verbundene Konzepte
 - [[educational-policy-ai]]

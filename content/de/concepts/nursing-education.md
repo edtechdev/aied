@@ -1,7 +1,7 @@
 ---
 title: "Pflegebildung"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-10-24T20:47:39-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -13,13 +13,17 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-25T19:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,33 @@ Das Feld verfeinert auch drei benachbarte Konzepte. Von [[simulation|Simulation]
 - **Die Evidenz ist invertiert.** Die Lückenkarte desselben Reviews findet keine randomisierte oder quasi-experimentelle Studie zu professioneller Identität oder [[career-development-and-readiness|Karriereentwicklung]], nur drei zu relationaler und ethischer Kompetenz, und keine Nachverfolgung über 12 Monate hinaus — während kontrollierte Evidenz sich in kognitiven und technischen Ergebnissen häuft.
 - **Überwachung ist als Wahrnehmung dokumentiert, nicht als verbessertes Verhalten.** [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] kartierten [[remote-proctoring|Fernaufsicht bei Prüfungen]] in der Pflegebildung über sechs Studien (1.567 Studierende) und fanden Abschreckung von beaufsichtigten Studierenden fast universell berichtet (98–100% Übereinstimmung in einem Graduiertenprogramm), während die einzelne vergleichende Leistungsstudie eine persönlich beaufsichtigte Kohorte fand, die in einer Bereitschaftsprüfung signifikant höher erzielte als eine fernbeaufsichtigte. Angst lief in beide Richtungen — manche Studierende ruhiger zuhause und der Reise entbunden, andere unfähig sich zu konzentrieren, während sie beobachtet wurden, und furchtsam vor [[legal-issues-and-risks|falscher Bezichtigung]] —, und vier der sechs Studien berichteten Verbindungsfehler, eine Lastabschaltung, was [[equity-in-ai-education|gerechten]] Zugang zur operativen Randbedingung machte statt Prüfungssicherheit. Die Position der Autoren ist, dass Fernaufsicht eines von mehreren Instrumenten sein sollte, governiert von Datenschutzstandards und gepaart mit Integrität-durch-Design und [[authentic-assessment|authentischem Assessment]], statt als Standardsicherung behandelt zu werden.
 - **Randbedingungen.** Die Stränge laufen auf dieselbe Zurückhaltung zu. KI ist am besten belegt für strukturierte, wiederholbare Ziele — grundlegende Kommunikation, Anamnese, Gesundheitserziehung, Wissenserwerb — und am wenigsten belegt für komplexe psychomotorische Fähigkeit, emotional belastete Interaktion und langfristige professionelle Formierung. Akzeptanz ist konsistent mäßig bis hoch, aber Akzeptanz von KI-*Feedback* ist konditioniert durch Vertrauen: Lernende bevorzugen als wohlwollend wahrgenommene menschliche Quellen gegenüber als bloß kompetent wahrgenommener KI. Die Reviews sind auch geografisch eng, dominiert von unkontrollierten Designs und [[self-report-measures|Selbstauskunft]] und — im Simulationsreview — zeigen ein nahezu gleichförmig positives Muster, das Bedenken zu Publikationsbias aufwirft.
+
+## Verbreitete Fehlvorstellungen
+
+**„KI-unterstützte Simulation verbessert die Pflegekompetenz durchgängig."** Der Nutzen endet an einer dokumentierten Grenze. KI-unterstützte Simulation verbessert verlässlich Wissen und [[self-efficacy|Selbstwirksamkeit]], zeigt aber **inkonsistente, manchmal negative Effekte auf komplexe psychomotorische Fähigkeit** — und psychomotorische Kompetenz ist in einem Beruf, der durch sie definiert ist, kein Nebenresultat. Ein Programm, das Simulation auf Basis von Wissensgewinnen einführt, hat Evidenz für einen anderen Endpunkt als den, den die Zulassung prüft.
+
+**„Die Arbeitskräfteangst um KI in der Pflege ist eigentlich eine Kompetenzlücke, also ist KI-Kompetenztraining das Gegenmittel."** Die Angst gilt der Beschäftigung, nicht der Kompetenz. Eine Befragung von **821 Studierenden der Gesundheitswissenschaften** fand eine mäßig positive Korrelation zwischen [[anxiety-and-stress|KI-Angst]] und Angst vor der Jobsuche (**r = 0.233, p < 0.001**), wobei KI-Angst auch nach Kontrollen ein signifikanter Prädiktor war. Kompetenzvermittlung adressiert die Angst, ein Werkzeug nicht bedienen zu können; sie adressiert nicht die Angst, keine Stelle zu haben — und die professionelle Identitätsrahmung der Literatur, wer eine Pflegekraft wird statt was eine Auszubildende kann, ist der Ort, an den diese Frage gehört.
+
+**„Lernende wollen KI-Agenten als Kolleginnen und Kollegen."** Sie wollen sie als Werkzeuge. Von **165 Lernenden (158 mit vollständiger Befragung)** wurde der Agent am nützlichsten *als Werkzeug* bewertet (**M = 3.49**), dann für die Hilfsnützlichkeit von Feedback (**M = 3.21**) und am wenigsten *als Teil des Teams* (**M = 2.88**), wobei alle paarweisen Unterschiede signifikant waren (**F(2, 156) = 26.01, p < .001**). Ein Design, das einen Agenten als Teammitglied positioniert, läuft gegen die Präferenz der Lernenden statt ihr voraus.
+
+**„Jede Simulationsstudie lässt sich auf die klinische Praxis verallgemeinern."** Die hier reviewte Evidenzbasis — **19 Studien, N = 1.253, überwiegend Studierende vor der Zulassung** — ist weitgehend klassenzimmer- und laborbasiert, und die Übersetzung von simulierter Kompetenz in beaufsichtigte Praxis ist genau der Schritt, den eine KI-unterstützte Simulation nicht von sich aus einübt.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Führen Sie KI-Simulation nicht ein, um komplexe psychomotorische Fähigkeit zu entwickeln, und zwar nicht auf Basis von Wissens- und Selbstwirksamkeitsgewinnen. Behalten Sie bewusstes beaufsichtigtes Üben für die psychomotorischen Endpunkte und setzen Sie KI dort ein, wo ihre Evidenz am stärksten ist.
+- Adressieren Sie Beschäftigungsangst direkt, statt sie durch KI-Kompetenzmodule zu leiten; die Korrelation mit Angst vor der Jobsuche sagt, dass die Sorge der Zukunft des Berufs gilt, nicht der Werkzeugflüssigkeit der lernenden Person.
+- Positionieren Sie Agenten als Werkzeuge und Feedbackquellen, was sowohl der Präferenz der Lernenden als auch dem Design entspricht, das die stärkeren Bewertungen hervorbrachte.
+
+**Für Entwickelnde**
+
+- Berichten Sie psychomotorische und Wissensoutcomes getrennt, da sie in dieser Literatur auseinanderlaufen.
+- Gestalten Sie zuerst für die Rollen Werkzeug und Feedback; die Rahmung des Agenten als Teammitglied ist nicht, worum Lernende gebeten haben.
+
+**Für Forschende**
+
+- Berichten Sie Stichproben vor der Zulassung und berufstätiger Pflegekräfte getrennt und untersuchen Sie den Übergang in beaufsichtigte Praxis, wenn die Kompetenzbehauptung klinisch etwas bedeuten soll.
 
 ## Verbundene Konzepte
 

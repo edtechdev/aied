@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop-KI
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T22:30:38-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm]
@@ -12,13 +12,17 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-24T06:14:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -76,7 +80,7 @@ Platzierung kann mehr zählen als Präsenz: Praktikerinnen und Praktiker bewerte
 
 ## Warum HITL im KI-Zeitalter zählt
 
-Human-in-the-Loop-Design ist aus mehreren konvergierenden Gründen für die Diskussionen der Wissensbasis zu [[agentic-ai|agentischer KI]] und [[reducing-ai-misuse|verantwortungsvoller KI-Nutzung]] zentral geworden:
+Human-in-the-Loop-Design ist aus mehreren konvergierenden Gründen für die Diskussionen der Wissensbasis zu [[agentic-ai|agentischer KI]] und [[ai-literacy|verantwortungsvoller KI-Nutzung]] zentral geworden:
 - **Pädagogische Sicherheit.** [[pedagogical-safety]] erfordert, dass KI mit echter Instruktionsautorität menschliche Aufsicht behält, damit Fehler, Biases oder schädliche Ausgaben gefangen werden, bevor sie Lernende erreichen. Das ist besonders wichtig für autonome Agenten, die [[agentic-ai|proaktiv Ziele verfolgen]].
 - **Aufsicht ist selten in der Praxis, nicht nur in der Theorie.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] fanden, dass robuste eingebettete Governance und Human-in-the-Loop-Aufsicht über 474 pädagogische agentische KI-Systeme hinweg selten ausgeprägt waren, selbst als Einzelaufgaben-Autonomie und Multi-Agent-Kollaboration wuchsen – die Lücke zwischen dem Designprinzip und der eingesetzten Praxis.
 - **Die kritische Frage ist, wie die Schleife handlungsleitend gemacht wird, nicht wie sehr Menschen teilnehmen.** Eine lernwissenschaftliche Sicht argumentiert, dass die Organisation von Lernen um Datenerfassung, rechnerische Interpretation und wahrscheinliche Antwort herum pädagogisches Handeln davon abhängig macht, was Systeme erkennen und worauf sie reagieren können, und dass Alerts und Engagement-Klassifikationen die lernende Person deuten, bevor eine Lehrkraft oder eine studierende Person handelt ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
@@ -116,6 +120,12 @@ Human-in-the-Loop-Design ist nicht bloß eine Sicherheitsmaßnahme – er ist ei
 - **Lernende als Human-in-the-Loop ihres eigenen Tutorings.** [[ko-hughes-vsd-student-centered-its-2026|Value Sensitive Design]] mit Community-College-Studierenden produzierte eine vollständige Familie Lernenden zugewandter HITL-Merkmale für ein ITS (Kontrolle über Neubewertung und Review, personalisierte Ziele/Tempo, Lesezeichen für Review, Bestätigen von Vertrauen über Meisterschaft und eine Steuerung des Beteiligungsniveaus der KI-Assistenz), was die bzw. den Studierende als aktive Steuernden der Tutoringschleife positioniert statt als passive Konsumierende adaptiver Entscheidungen. Die Studie fand auch Lehrende gespalten darüber, ob solche Lernendenkontrolle die Integrität des systemgesteuerten Lernpfads untergraben könnte – ein Beispiel für die breitere Ressourcenzuteilungsfrage, wo menschliches Urteil (Lernende gegenüber Lehrende) am meisten Wert hinzufügt.
 - **Eskalation von KI zu Experte ist ein Human-in-the-Loop-Zug.** Das SCAN-Rahmenwerk weist Aufgaben vier generative-KI-Modi nach Lernendendistanz zu und liest passives [[student-engagement|Engagement]] innerhalb einer korrekt zugewiesenen KI-Aufgabe als Fehlqualifizierungssignal, die bzw. den Lernende von KI zu Expertenhilfe zu verschieben, mit einem Menschen als epistemischem Prüfer ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Aufsicht über Ratschläge zur KI-Übernahme.** Weil [[conversational-ai|konversationelle KI]]-Systeme, die von skeptischen Nutzenden konsultiert werden, dafür prädisponiert sein können, die Übernahme zu befördern, sind menschliche Aufsicht und unabhängige Evaluation unverzichtbar. Ein Audit, das zeigt, dass die meisten Grenzmodellmodelle skeptisches [[k-12]]-Personal zu [[student-engagement|Engagement]] umlenken, unterstreicht das Erfordernis transparenter, prüfbarer KI-Ratschläge statt unkritischen Vertrauens.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Empfehlung des Systems zu zeigen hilft dem Menschen, es zu beaufsichtigen."** **Die bevorzugte Antwort eines Systems zurückzuhalten ist schützend statt korrigierend**: In einer Multi-Agenten-Debatte, die **nie eine empfohlene Position offenlegte**, **sank** das schädliche Wechseln zur Antwort der KI. Offenlegung lud zu Devotion ein; Zurückhalten stützte das Urteil.
+- **„Human-in-the-Loop muss einen Menschen und eine Entscheidung bedeuten."** Ein Multi-Agenten-Klassenzimmer aus [[teacher-role|Lehrenden]]-Agent, Tutor-Assistenz-Agent und Archetypen von Mitschülerinnen und Mitschülern wurde an der Tsinghua-Universität mit **mehr als 500 Studierenden und mehr als 100.000 Lernaufzeichnungen** eingesetzt. Aufsicht skaliert durch die Anordnung, nicht durch die Vermehrung von Aufsichtspersonen.
+- **„KI-Ausgaben zu prüfen ist intuitiv."** In einer **Within-Subject-Studie mit 23 Bildungspersonen** **verbesserte** ein reviewbasierter Ansatz **jedes CTML-Prinzip (mittlere Bewertung 3,07 auf 3,86, p < .01)**, wobei die Bildungspersonen die Produktionseffizienz günstig bewerteten. Review ist eine Fähigkeit, die sich unter einer strukturierten Methode verbesserte.
 
 ## Verbundene Konzepte
 - [[pedagogical-patterns]] — Wo menschliches Review in erprobten Sequenzen sitzt, und was nie isoliert getestet wurde

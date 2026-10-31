@@ -1,7 +1,7 @@
 ---
 title: Angst und Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-24T22:09:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-24T06:36:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -124,6 +128,12 @@ Die positive Seite: KI-Systeme erkennen und helfen zunehmend, Stress und Angst z
 - **Produktive Angst nutzen.** Statt KI-Angst nur zu senken, die Verifikation, Überarbeitung und Selbst-[[regulation|Regulation]] stützen, die ängstliche, aber engagierte Studierende bereits zeigen.
 - **KI nutzen, um Stress zu erkennen und zu lindern** — über affective computing, tragbare Sensorik und Campus-Werkzeuge für Wohlbefinden — und dabei den Datenschutz schützen.
 - **Die Sorge der Lehrenden** bei der KI-Übernahme und -Politik mitbedenken, nicht nur das Erleben der Studierenden.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI-Angst ist ausschließlich schädlich."** Diese Angst ist **nicht rein negativ**: [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] findet, dass **KI-Angst produktiv sein kann**, wobei höhere Angst mit stärkerer strategischer Regulation einherging. Angst wirkt als Signal zur Prüfung, nicht nur als Belastung.
+- **„Alle ängstlichen Studierenden reagieren gleich."** Kims **vier Regulationstypen — unkritische Abhängigkeit 18.7%, selektive Integration 34.6%, evaluative Transformation 31.8%, strategische Ablehnung 14.9%** — zeigen, dass angstgetriebene Prüfung **vier unterschiedliche** Muster hervorbringt. Eine Intervention, die auf „ängstliche Studierende" zielt, verfehlt, dass die größte Einzelgruppe selektiv integriert.
+- **„Angst unterdrückt immer die Beteiligung."** Diese Umrahmung hat eine **Grenze im Sprechen**: Unter **708 Englischlernenden** verlief der Zusammenhang zwischen Sprechangst und Sprechbereitschaft bei **−0.371 bei geringer Sprech-Selbstwirksamkeit, aber bei +0.137 bei hoher**. Angst kann mit Sprechbereitschaft einhergehen, wenn die Selbstwirksamkeit hoch ist; die Wirkungsrichtung hängt also vom Zutrauen ab.
 
 ## Verbundene Konzepte
 - [[career-development-and-readiness]] — Berufsvorbereitung als protektiver Faktor gegen KI-Angst

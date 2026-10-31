@@ -1,7 +1,7 @@
 ---
 title: Leitplanken
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-10-24T21:37:05-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,13 +9,17 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,36 @@ Die zwei sind eng gekoppelt: fast jede Leitplankentechnik ist ein Weg, [[pedagog
 5. **Menschliche Aufsicht erfordern.** Lehrkraft-in-der-Schleife-QA vor dem Deployment und laufendes Auditing auf unterschiedliche Behandlung.
 
 - **Leitplanken für prozedurales Tutoring mit eingebetteten Regeln.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu und Sun (2026)]] instanziieren diese Prinzipien als eine konkrete, auditierbare Menge von Leitplanken für einen [[llm]]-Mathetutor: ein **numerisches Korrektheitsgate** mit einer Unsicherheitsleitplanke, sodass der Tutor niemals eine ungerechtfertigte epistemische Bindung eingeht, **Outputbedingungen**, die Kürze und Mikroschrittprogression für kognitives Lastmanagement durchsetzen, eine **Anti-Spoiler-Grenze**, die das Logik-zuerst-Prinzip institutionalisiert, indem sie Rechenagentur an die oder den Studierenden zurückgibt, und ein **Auf-Wiedersehen-Gate**, das die Unterscheidung zwischen authentischer Fertigstellung und verfrühter Terminierung kodiert. Diese Regeln wurden als reproduzierbare Prompt-Architekturregeln konsolidiert, validiert in einem 40-Studierenden-Klassenpiloten — ein Modell dafür, [[pedagogical-safety|Sicherheits]]prinzipien in auditierbare, replizierbare Leitplanken zu übersetzen.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Beurteilen Sie einen Tutor an unbegleiteter Leistung, nicht an der Übungsleistung. Im Feld-RCT hob ein ungeschützter GPT-4-Tutor die Übungsleistung um **+48%**, während er spätere unbegleitete Prüfungsergebnisse um **17%** *senkte*, und die „Hinweis-statt-Antwort"-Version beseitigte den Schaden. Jedes Klassenzimmersignal, das mit dem Werkzeug anwesend erzeugt wird, ist das aufgeblähte.
+- Wenn Sie das Werkzeug nicht ändern können, ändern Sie, was ohne es bewertet wird. Das unbegleitete Maß ist es, das die Leitplankenfrage überhaupt sichtbar macht.
+- Behandeln Sie „Freundlichkeit" als Designparameter mit einem Fehlermodus: ein Tutor, der nie widerspricht oder korrigiert, kann Studierende zufriedenstellen und dabei das korrigierende [[feedback|Feedback]] entfernen, das Lernen braucht.
+
+**Für Entwickelnde**
+
+- Bauen Sie die Leitplanke in den Interaktionspfad, nicht in eine Prompt-Anweisung, die eine entschlossene studierende Person umgehen kann. Das Hinweis-statt-Antwort-Muster ist der empirisch gestützte Standard.
+- Erkennen Sie, dass Schwellen politische Entscheidungen sind, keine Optimierungen. Eine Toxizitätsschwelle von 0.3 auf 0.7 zu verschieben senkte markierte Prompts von 35.62% auf 12.4%; bei einem Betrugsdetektor tauschte es 15 Fehlalarme und 18 übersehene Betrugsfälle gegen 2 und 36. Keine Schwelle beseitigt den Zielkonflikt, legen Sie die Wahl also der Institution offen, statt sie in einer Konstante zu vergraben.
+- Gestalten Sie für leises Versagen. Die schädlichen Fehler hier sind keine toxischen Ausgaben, sondern Tutoren, die korrekt antworten und Lernen erodieren, oder gleichmäßig ablehnen und Ungleichheit verfestigen.
+
+**Für Forschende und Auditierende**
+
+- Berichten Sie Leitplanken-Evaluationen gegen unbegleitete Ergebnisse; eine Leitplanke, die in der Sitzung hält, während das Lernen flach bleibt, ist ein Teilerfolg, den Übungszahlen falsch darstellen.
+- Auditieren Sie Fairness in Ablehnungs- und Unterstützungsmustern, denn eine gleichmäßig angewandte Leitplanke kann Nutzen dennoch ungleich verteilen.
+- Berichten Sie die verwendete Klassifikatorschwelle zusammen mit jeder Sicherheitsbehauptung, denn die berichtete Schadensrate ist über Schwellen hinweg nicht vergleichbar.
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine Leitplanke ist ein Filter, den man an ein Modell anhängt."** Leitplanken sind ein geschichtetes Set von Kontrollen über Prompt-Design, Wissensverankerung, Reward-Shaping, Deployment-QA und laufende Audits, und die Schichten sind nicht austauschbar. Ein Inhaltsfilter sitzt auf der Ausgabe; das „Hinweis-statt-Antwort"-Muster sitzt im Prompt und prägt, was das System überhaupt zu tun bereit ist. Im Feld-RCT beseitigte die Version mit Leitplanken den Lernschaden, den die Version ohne sie erzeugte, und das ist eine Eigenschaft des Interaktionsdesigns, nicht des Filters.
+
+**„Wenn das Modell keine schädlichen Inhalte erzeugt, ist das System für Lernende sicher."** Schaden ist oft leise. Die schädlichsten Tutoring-Fehler sind keine toxischen Ausgaben, sondern Tutoren, die korrekt antworten und Lernen erodieren, oder die gleichmäßig ablehnen und Ungleichheit verfestigen — Fehler, für die ein Toxizitätsfilter strukturell blind ist, weil an ihnen nichts Beleidigendes ist. Ein bestandenes Inhaltsaudit ist eine notwendige Bedingung, die berichtet wird, als wäre sie hinreichend.
+
+**„Leitplanken-Schwellen sind Ingenieursentscheidungen, die man abstimmt."** Eine Schwelle ist eine politische Entscheidung mit einem Verteilungspreis. Eine Toxizitätsschwelle von 0.3 auf 0.7 zu verschieben senkte markierte Prompts von **35.62% auf 12.4%**; bei einem Betrugsdetektor tauschte es **15 Fehlalarme und 18 übersehene Betrugsfälle gegen 2 und 36**. Keine Schwelle beseitigt den Zielkonflikt — sie entscheidet nur, welchen Fehler die Institution bevorzugt, und diese Entscheidung gehört der Institution, nicht einer Vorgabekonstante.
+
+**„Fairness-Auditing ist ein von der Angemessenheit der Leitplanken getrenntes Anliegen."** Ablehnungs- und Unterstützungsmuster verteilen Nutzen ungleich, auch wenn sie gleichmäßig angewandt werden, und eine durchschnittliche Schadensrate verbirgt, welche Studierenden sie tragen. Auditing muss Teil der Leitplanken-Spezifikation sein, nicht eine nachträglich beauftragte Studie.
 
 ## Verbundene Konzepte
 

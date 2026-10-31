@@ -1,7 +1,7 @@
 ---
 title: Behaviorismus
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -9,13 +9,17 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-09-28T21:37:06-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-25T20:50:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -77,6 +81,16 @@ Der Behaviorismus tritt auch darin auf, wie Lernende KI als Thema begegnen. Die 
 2. **Die Lücke zwischen Theorie und Praxis beobachten.** Forschende sollten prüfen, ob die behavioristischen Mechaniken einer KI-Implementierung dem vertretenen Lernziel dienen oder unbemerkt die „Turing-Falle" von KI als Antwortmaschine replizieren.([[ai-vocational-education-training-review]])
 3. **Behaviorismus mit reicheren Gerüsten paaren.** Designs mit unmittelbarem Feedback sind am wirksamsten, wenn sie in einen breiteren Kontext aus [[scaffolding]] und [[self-regulated-learning|Selbstreguliertem Lernen]] eingebettet sind, statt isoliert als reines Üben zu stehen.
 4. **Beobachtbare *und* transferierbare Ergebnisse evaluieren.** Behavioristische Erfolgskriterien (Geschwindigkeit, Genauigkeit) sollten durch Maße dafür ergänzt werden, ob Lernen transferiert und generalisiert, gemäß [[transfer-of-learning]] und [[research-methods-aied]].
+
+## Verbreitete Fehlvorstellungen
+
+**„Der Behaviorismus ist überholt, sein Einfluss auf KI in der Bildung ist also eine historische Fußnote.“** Behavioristische Mechanik dominiert die Praxis, während sie in der Theorie aus der Mode ist — Verstärkungsschleifen, Streak-Zähler, sofortiges Richtig/Falsch-Feedback und Meisterschaftsgates sind die Standardarchitektur der meisten eingesetzten Systeme. Die Theorie zu verwerfen und zugleich ihre Mechanismen auszuliefern, ist die am weitesten verbreitete Inkonsistenz des Felds, und sie bedeutet, dass die Kritik nicht akademisch ist.
+
+**„Beobachtbare Verhaltensänderung bescheinigt Lernen.“** Genau das bricht KI. Output-Äquivalenz ist der Fehlermodus: Wenn ein Modell das Verhalten erzeugen kann, das das System belohnt, bescheinigt die beobachtete Reaktion nicht länger die interne Veränderung, aus der der Behaviorismus sie erschloss. Ein behavioristisches Design ist nur so gültig wie die Annahme, dass die lernende Person das Verhalten erzeugen musste, und generative KI entfernt diese Annahme, ohne das Design zu verändern.
+
+**„Behavioristische Designs sind konstruktivistischen einfach unterlegen.“** Sie passen gut zu bestimmten Zielen — Flüssigkeit, Faktenabruf, prozedurale Automatizität —, wo sofortiges Feedback und Wiederholung wirklich das sind, was die Aufgabe verlangt. Der Fehler ist nicht der Mechanismus; es ist die Verwendung eines Mechanismus, dessen Gültigkeitsbedingung (die lernende Person muss die Reaktion erzeugen) stillschweigend nicht mehr gilt.
+
+**„Weil die Theorie diskreditiert ist, lassen sich auf ihr gebaute Systeme allein an Ergebnissen beurteilen.“** Ergebnisse sind genau das, was Output-Äquivalenz verfälscht. Ein System kann hervorragende behaviorale Ergebnisse berichten, während das Lernen woandershin gewandert ist, sodass behavioristisch beeinflusste Systeme das ungestützte Maß mehr brauchen als jedes andere.
 
 ## Verbundene Konzepte
 

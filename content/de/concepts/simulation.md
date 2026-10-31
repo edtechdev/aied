@@ -2,19 +2,23 @@
 connected_resources: [openmaic]
 title: "Simulation"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T23:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-10-04T15:54:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -33,10 +37,12 @@ ai_assist:
 ## Einführung
 
 Simulation sitzt im Kern [[experiential-learning|erfahrungsbasierter]] und [[active-learning|aktiven]] [[pedagogy|Pädagogiken]]. Sie liefert die absichtliche Übung, [[productive-failure|produktives Scheitern]] und [[feedback|Feedbackschleifen]], die Fähigkeit und Urteilsvermögen aufbauen. KI hat Simulation auf zwei Weisen transformiert: sie treibt realistischere und adaptive simulierte Umgebungen an, und sie erzeugt [[simulating-students|simulierte Lernende]], Patienten oder Gesprächspartner, die Übung skalierbar machen. Verhaltens-Evidenz zeigt, dass *wie* Lernende sich mit einer Simulation engagieren, systematisch statt gleichförmig variiert: beim Verfolgen von Online-Lernenden, die ökologische Modelle in VERA bauen, klassifizierten [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] [[student-engagement|Engagement]] in Beobachtung (häufige Läufe und Parameteranpassung mit wenig Modellbau), Konstruktion (hands-on Bauen mit wenig Simulation) und Exploration (vollständige Konstruktion-Parametrisierung-Simulation-Zyklen), wobei Explorierende die komplexesten und vielfältigsten Modelle produzierten und beobachtungsstarke Lernende weitgehend bestehende kopierten – ein Argument, Simulationsumgebungen so zu gestalten, dass sie Lernende zu vollzyklischer Aktivität treiben.
+- **Ein expliziter Mechanismus ist prüfbar, ein gelernter Generator nicht.** DagFlow-AI baut synthetische Daten aus einem gerichteten azyklischen Graphen plus Verteilungen und Formeln pro Variable, sodass der Datenerzeugungsprozess ein Dokument ist, das eine Lehrkraft lesen und korrigieren kann ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Das steht in bewusstem Kontrast zur GAN- und VAE-Synthese, die einen Seed-Datensatz braucht und einen opaken Prozess liefert. Der Preis ist, dass es mehrere Iterationen brauchte, bis eine stabile Simulation stand.
 
 ### KI und Simulation
 
 - **KI-angetriebene Umgebungen:** adaptive Simulationen passen Schwierigkeit und Szenarien an den Zustand einer lernenden Person an und verbinden sich mit [[adaptive-learning|adaptivem Lernen]] und auf [[reinforcement-learning|bestärkendem Lernen]] basierendem Coaching.
+- **Die virtuelle Umgebung und die KI-Schicht sind trennbare Gewinne.** In einer dreiwöchigen Einheit zum Ohmschen Gesetz in Klasse 9 betrug die adjustierte Leistung 23,45 von 30 mit einem KI-gestützten virtuellen Labor, 20,51 mit demselben Labor ohne KI und 16,57 in einem physischen Labor ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li und Ahmad (2026)]]). Die intakten Klassen wurden jeweils einer anderen Lehrkraft zugewiesen, sodass dies drei Klassenzimmer-Arrangements beschreibt, nicht den Agenten allein.
 
 - **Prompt-generierte Simulationen bringen ein maßgeschneidertes Labor in Reichweite.** Lehrende können browsergestützte Modelle des Themas aus einer wiederverwendbaren Prompt-Vorlage erzeugen, das ein Kurs braucht (Schieberegler, Animation, zeitabhängige Graphen), und jedes zweimal validieren – technisch, dann gegen die bekannte analytische Lösung –, statt die nächstliegende publizierte Simulation zu akzeptieren ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion et al., 2025]]).
 
@@ -58,10 +64,17 @@ Simulation sitzt im Kern [[experiential-learning|erfahrungsbasierter]] und [[act
 
 - **Steuerung durch Lernende in Simulation ist vollzogen, nicht gewährt.** Ein 2 × 2-Experiment in einer Schwarm-Simulation ([[learner-agency-ai-simulation-2026|Su, Nair und Nagashima 2026]]) gab manchen Studierenden Parameter-Schieberegler, manchen einen optionalen konversationellen Agenten und manchen beides; jede Bedingung verbesserte sich, aber keine der Ermöglichungen produzierte einen verlässlichen Unterschied, sobald Vorwissen kontrolliert war (p = .849 und p = .108). Was [[learning-gains|Zuwächse]] vorhersagte, war, wo und wie lange Lernende Parameter manipulierten: aufrechterhaltene Schiebereglernutzung in der konzeptuell komplexesten Lektion war positiv mit Zuwächsen assoziiert, und dasselbe Verhalten in der leichteren Lektion negativ. Für Simulationsbauerinnen und -bauer ist die Implikation, dass das Anbieten von Steuerung nicht die Intervention ist – Lernenden zu helfen zu entscheiden, was zu ändern ist, und zu registrieren, was sich änderte, ist es.
 - **Ein digitaler Zwilling ist eine Simulation mit einer Hardware-Rechnung, und die Rechnung prägt, wer teilnehmen kann.** Ein [[meta-analysis-systematic-review|systematischer Review]] von 11 Studien zu digitalen Zwillingen in [[engineering-education|Ingenieurwesen]]- und STEM-Hochschulbildung fand, dass jede Implementierung einen funktionierenden Prototypen mit Echtzeit-Synchronisation lieferte, doch nur drei statistisch signifikante [[learning-gains|Lernzuwächse]] berichteten. Physische Rigs begrenzten den Zugang in fünf Studien auf 1–3 gleichzeitige Studierende, und reduzierte soziale Interaktion war die am häufigsten genannte pädagogische Herausforderung, in sechs ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al. (2026)]]).
+- **Agentenbasierte Simulation kann eine Metakognitionstheorie als prüfbares System modellieren.** Ein agentenbasiertes, an digitalen Zwillingen orientiertes Rahmenwerk, das das fünfstufige AMERT-Modell mit einer NetLogo-Simulation verbindet, erlaubte es Forschenden, Lernenden-Archetypen und Aufgabenbedingungen zu variieren und metakognitive Verläufe zu beobachten, wobei die Autorinnen und Autoren betonen, dass der Output Hypothesengenerierung ist und keine Evidenz über reale Lernende ([[agent-based-digital-twin-metacognition-2026|Guo, 2026]]). Simulation wird damit zum virtuellen Labor für eine Theorie, die sonst schwer zu beobachten ist.
 
 ### Verbindungen
 
 Simulation verbindet sich mit [[active-learning|aktivem Lernen]], [[adaptive-learning|adaptivem Lernen]] und [[pedagogical-agent|pädagogischen Agenten]]. Sie ist ein Mechanismus für erfahrungsbasiertes und [[constructivist|konstruktivistisches]] Lernen und wird durch KI-Fähigkeit verstärkt, adaptive, realistische Übungsumgebungen zu erzeugen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Simulation ist billiger und deshalb zweitklassig."** Autonome [[llm|LLM]]-Sim-Piloten **ersetzen die spezialisierten menschlichen Rollenspielerinnen und Rollenspieler, die Fluglotsensimulationen bestücken, und beseitigen damit einen Trainingskapazitätsengpass** — die Einschränkung war die Personalausstattung, nicht die Treue. Wo menschliche Rollenspieler knapp sind, ist die LLM-Simulation kein Ersatz, sondern die einzig verfügbare Option.
+- **„Simulatoren sollten sich wie Durchschnittsfälle verhalten."** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] paart einen Policy-Agenten mit **LLM-Patientensimulatoren, die gebaut sind, um sich adversarial zu verhalten**. Ein Simulator, der kooperativ gestaltet ist, macht die Übung der Lernenden leichter als die Klinik, was das Gegenteil dessen ist, was Training braucht.
+- **„Geskriptete Szenarien lehren Entscheiden unter Unsicherheit."** Die kontextuellen Multi-Agenten von SupplyNet erzeugen **Dynamik, die aus Entscheidungen der Lernenden emergent ist statt geskriptet**. Geskriptete Szenarien proben einen bekannten Pfad; die emergenten proben die Entscheidung.
 
 ## Verbundene Konzepte
 - [[active-learning]]
@@ -98,3 +111,5 @@ Simulation verbindet sich mit [[active-learning|aktivem Lernen]], [[adaptive-lea
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — KI-gestützte Simulation in der Pflegebildung: Mixed-Methods-Systematischer-Review (Authentizitätslücke, gestuftes Kontinuum)
 - [[sophie-clinical-communication-ai-assessment-2026]] — Skalierbares KI-basiertes Training klinischer Kommunikation und automatisches Assessment
 - [[caee-digital-twins-stem-education-systematic-review-2026]] — Digitale Zwillinge in der STEM-Bildung: Alle Prototypen funktionierten, Lernzuwächse meist nicht
+
+- [[li-ahmad-ai-virtual-lab-flipped-physics-2026]] — KI-gestütztes virtuelles Labor für umgedrehtes Physiklernen: Effekte auf Leistung, Motivation und kognitive Last bei Mittelstufenstudierenden

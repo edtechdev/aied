@@ -2,20 +2,24 @@
 connected_resources: [vibes-diy]
 title: Konstruktivismus
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T21:28:11-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -108,6 +112,12 @@ Der Konstruktivismus prägt auch, wie KI-Kompetenz selbst gelehrt wird. Wenn Wis
 2. **Die [[icap-framework|ICAP]]-Linse nutzen.** ICAP klassifiziert Engagement in konstruktive, interaktive, aktive und passive Modi — nutzen Sie sie, um zu evaluieren, ob KI-Interaktionen tatsächlich konstruktive und interaktive Modi hervorrufen statt passiven Konsum. Designerinnen und Designer sollten die tieferen (konstruktiven und interaktiven) Modi bevorzugen, wo das Lernziel es rechtfertigt.([[hingle-collaborative-ai-literacy-2025]])
 3. **Theorie und Implementierung abstimmen.** Forschende sollten über die Frage hinausblicken, ob KI „funktioniert“, zu *wie* sie eine Lerntheorie verkörpert, und nach der konstruktivistisch-dem-Namen-nach, behavioristisch-in-der-Praxis-Lücke prüfen.([[ai-vocational-education-training-review]])
 4. **Handlungsfähigkeit und Transfer der Lernenden studieren.** Konstruktivistische Verpflichtungen implizieren, nicht nur unmittelbare Testzuwächse zu evaluieren, sondern ob Lernende ihr konstruiertes Verstehen transferieren und unabhängig anwenden können.([[research-methods-aied]])
+
+## Verbreitete Fehlvorstellungen
+
+- **„Konstruktivistischen Unterricht erkennt man an den gestellten Fragen."** Ein DeBERTa-Klassifikator **klassifizierte faktische Wissensvermittlungsfragen mit 96,67% Präzision, Facilitator-Fragen jedoch nur mit 78,79%**, und **jedes Modell verwechselte die beiden höherstufigen Rollen**. Das Konstrukt, das am meisten zählt, ist das, mit dem automatisierte Erkennung am schlechtesten umgeht.
+- **„Oberflächenmerkmale einer Stunde offenbaren ihre Pädagogik."** Das Scheitern des Klassifikators ist kein Implementierungsdetail. Facilitator- und konstruktivistische Rollen sind gerade deshalb die schwierigen Fälle, weil sie dadurch definiert sind, was die Lehrkraft mit dem Denken der Lernenden tut, und diese Relation ist aus dem Fragetext allein nicht rekonstruierbar.
+- **„Konstruktivismus heißt, dass die Lehrkraft nicht erklärt."** Die Theorie verortet Lernen in der Konstruktion der Lernenden aus Erfahrung, was mit direkter Instruktion vereinbar ist. Sie als Verbot des Erklärens zu behandeln verliest sowohl die Theorie als auch die Evidenz zu ausgearbeiteten Beispielen.
 
 ## Verbundene Konzepte
 - [[community-of-inquiry]] — Untersuchungsgemeinschaft (gegründet in konstruktivistischem/Deweyschem Pragmatismus)

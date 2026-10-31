@@ -1,7 +1,7 @@
 ---
 title: Automatisiertes Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,13 +11,17 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-26T12:30:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -104,6 +108,7 @@ Die Qualität automatisierten Assessments hängt von [[assessment-validity]] und
 Wie viel Ausrichtung eine Einrichtung verlangen sollte, hängt davon ab, was das System entscheiden darf. In einer [[mixed-methods-research|Mixed-Methods]]-Studie zu [[opraise-automated-marking-ai-assessment-2026|761 authentischen Undergraduate-Essays an drei britischen Universitäten]] erreichten drei Grenzmodellmodelle mit je 27 Promptkonfigurationen nur 35–65 Prozent Übereinstimmung mit menschlichen Markern beim Notenband, und Genauigkeit transferierte nicht zwischen Institutionen – daher behandelt der Bericht Kandidatennutzungen als getrennte Szenarien statt als eine Entscheidung. **Qualitätssicherung menschlicher Benotung**, bei der KI parallel benotet und signifikante Unterschiede menschliche Prüfung auslösen, ist die konservativste. **Ein Benotungsassistent**, der Einsendungen nach vorhergesagter Qualität oder Unsicherheit ordnet oder kategorisiert, komplexe Fälle triagiert oder kurze menschliche Kommentare zu vollständigerem Feedback ausbaut, ist ein echter Mittelweg. **KI als primärer Marker**, mit menschlicher Prüfung einer Stichprobe oder der Notenverteilungen, wurde nur dann als akzeptabel beurteilt, wenn sich die Systemleistung verbessert, und keine [[stakeholders|Akteurs]]gruppe befürwortete KI als alleinigen Marker.
 
 Drei Anforderungen folgen für alle davon. Weil Ausrichtung modell- und institutionsspezifisch ist, muss Validierung lokal und kontinuierlich sein – Genauigkeitskennzahlen von anderswo sind kein Beleg für Einsatzreife. Weil Noten zur Mitte hin komprimiert waren, war KI an den Notengrenzen und bei den stärksten und schwächsten Einsendungen am ungenauesten, also dort, wo Assessmententscheidungen die größte Tragweite tragen. Und weil eine Abweichung zwischen einer KI- und einer menschlichen Note unterschiedliches Urteil statt bloßen Fehler widerspiegelt, sollten Diskrepanzen menschliche Interpretation auslösen statt algorithmische Übersteuerung, wobei die letzte Autorität über die Note bei Menschen bleibt. Die Übernahme bringt auch [[governance]]-Verpflichtungen mit sich, die die technischen Metriken nicht erfassen: ein Recht auf Erklärung nach DSGVO Artikel 22, wo automatisierte Entscheidungen Studierende betreffen, Pflichten aus dem Equality Act, sobald Leistungsniveau und Sprachgebrauch als Einfluss auf Noten gezeigt sind, revidierte Beschwerdeprozesse für nicht leicht auffindbare Fehler, und ein Irreversibilitätsrisiko – sobald sich Personal und Investitionen verlagern, kann eine Einrichtung Mühe haben, weiterhin die menschliche Benotung zu erheben, die sie bräuchte, um zurückzukehren.
+
 Die Kombination der drei Modelle beseitigte jenen Fehler nicht: weil ihre Fehler korreliert waren — gleich gerichtet bei 63,4 % der Aufgaben —, war das [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]]-Ensemble statistisch nicht vom besten Einzelmodell unterscheidbar, sodass die geteilte Kompression zur Mitte bestehen blieb.
 
 
@@ -128,6 +133,13 @@ Automatisiertes Assessment verbindet sich mit [[assessment-validity]] (Qualität
 - **Übereinstimmungsstatistiken kleiner Korpora können Einsatzentscheidungen in die Irre führen.** Die Bewertung von 60 Marketing-Posts (15 Studierende plus 15 von Forschenden verfasste Anker geringer Qualität) gegen zwei unabhängige menschliche Beurteilende ergab absolute Übereinstimmung ICC(2,1) von 0,435 für das LLM, 0,266 für einen gleichgewichteten Regel-plus-LLM-Hybrid und 0,091 für deterministische Regeln, mit MAE von 6,28, 10,53 bzw. 17,22 Punkten auf einer 0-100-Skala; der Hybrid war signifikant schlechter als das LLM allein (paarige ICC-Differenz −0,169, 95%-KI [−0,260, −0,106]). Das Hinzufügen von Ankern hob die Inter-Rater-ICC von 0,338 auf 0,902 und die LLM-Übereinstimmung von 0,435 auf 0,846, und ein fast leerer Post erhielt 75 gegen einen menschlichen Mittelwert von 30,5, was zeigt, dass eine einzelne degenerierte Antwort eine kleine Evaluation dominieren kann. ([[automated-scoring-marketing-posts-agreement-2026]])
 
 - **Strukturierte LLM-Benotung kann analytisch aussehen, ohne diagnostisch zu sein (2026):** Die Bewertung von 3.041 Antworten auf 50 Informatikfragen erzeugte bei drei kommerziellen LLMs Rubrik-Subdimensionen, die nahezu redundant waren (r = 0,82–0,99, VIF bis 45), und benannte Fehlvorstellungen in nur 4,8–7,4% der Kommentare gegenüber 15,0% bei Dozentinnen und Dozenten ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein automatisierter Score ist eine einzelne zuverlässige Zahl.“** Eine praktische Prüfung im Computer Vision (**570 doppelt benotete Studierende**) wurde unter **171 Konfigurationen** benotet, eine zweite Prüfung im maschinellen Lernen unter weiteren — die Konfiguration trieb den Score. Eine als Zahl präsentierte Note verbirgt die Konfiguration, die sie erzeugt hat.
+- **„Die bewertende Instanz ist die Quelle der Unzuverlässigkeit.“** Bei 378 festen Würfelentscheidungen veränderte ein erneuter Lauf **2,9 bis 6,1 Prozent** der Ergebnisse unter einer halbstarren Methode und **13,5 bis 15,9 Prozent** unter freier Adjudikation, während der Austausch der bewertenden KI nur etwa 3 Punkte hinzufügte ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — das Verfahren, nicht die bewertende Instanz, bestimmt die Reproduzierbarkeit.
+- **„Konfidenzangaben sind eine Nettigkeit.“** Ein Score, der angab, **zu 70% sicher** zu sein, würde verändern, wie er genutzt wird, und das Fehlen dieser Information zwingt die lesende Person, alle Scores als gleich sicher zu behandeln.
+- **„Automatisierte Kurzantwortbewertung ist ein geklärtes Feld.“** Ein Scoping Review zur automatisierten Kurzantwortbewertung in der [[science-education|Naturwissenschaft]] (**2017 bis Anfang 2024**) dokumentiert die Geschichte des Felds, und diese ist ein Protokoll dessen, was versucht wurde, statt dessen, was validiert ist.
 
 ## Verbundene Konzepte
 - [[explainable-ai]]
@@ -194,4 +206,5 @@ Automatisiertes Assessment verbindet sich mit [[assessment-validity]] (Qualität
 - [[ai-marking-accuracy-gcse-physics-2026]] — KI-Benotung im Vergleich mit Noten der Prüfungsausschüsse und dem Urteil von Lehrkräften im GCSE-Physik
 
 - [[llm-grading-assistants-public-health-2026]] — Reasoning-Modus hob die Übereinstimmung zwischen LLM und Mensch bei der Benotung von weighted Kappa 0,269 auf 0,718
+- [[wargaming-adjudication-ai-judged-grading-2026]] — Daumen auf der Waage: traditionelle Wargaming-Adjudikationspraktiken zur Verbesserung KI-bewerteter Evaluationen und Benotungen (Epstein 2026)
 - [[machine-human-marking-agreement-institutions-2026]] — Maschinen-Mensch-Übereinstimmung bei der Benotung von Studierenden-Arbeiten ist spezifisch für Modell, Prompt und Einrichtung

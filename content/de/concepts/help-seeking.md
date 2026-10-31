@@ -1,7 +1,7 @@
 ---
 title: Hilfesuche
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-24T20:27:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,13 +11,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-24T08:52:00-04:00"
+source_updated: "2026-10-30T10:52:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -109,6 +113,11 @@ In vollständig online stattfindender [[english-education|Komposition]] ist die 
 
 [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] bearbeiten den Verhaltensvorläufer der Hilfesuche in der [[cs-education|KI-gestützten Programmierbildung]]: menschliche Tutoren passen sich an beobachtbares Verhalten der Lernenden an, nicht nur an ihre expliziten Anfragen, aber KI-Tutoren fehlt dieser Kontext. **TutorTrace** ist ein Datensatz und eine Pipeline, die den Verhaltenskontext Lernender in Echtzeit aus niedrigschwelliger IDE-Telemetrie berechenbar macht (vier Einsätze, N=480; ~180K Ereignisse, 13.633 Verhaltenssegmente, 27 Kennzahlen) und eine Taxonomie der Lernendenaktivität *vor* der ersten KI-Anfrage, *zwischen* aufeinanderfolgenden Anfragen und *über* die Sitzung hinweg ableitet. Das ermöglicht Systemen zu klassifizieren, ob eine Anfrage **geleitete** Hilfesuche spiegelt (vorangegangen von unabhängiger Arbeit) oder **abhängige** Hilfesuche (keine unabhängige Arbeit) — AUROC=.717 bei zurückgehaltener Vorhersage —, und unmittelbar bevorstehende Anfragen vorherzusagen (AUROC=.726). Eine vorläufige Klassenzimmerevaluation fand, dass verhaltensbewusste Prompts die Intervalle zwischen Anfragen ohne unabhängige Arbeit von 50.0% auf 20.7% senkten. Das verbindet [[learning-analytics|Learning-Analytics]]-Telemetrie mit [[intelligent-tutoring|adaptivem Tutoring]] und zeigt, dass Verhaltenskontext im großen Maßstab operationalisiert werden kann, um *wie* Studierende Hilfe suchen zu scaffolden statt bloß auf ihre expliziten Fragen zu antworten.
 
+**Der Verlauf der Hilfesuche sagt Transfer vorher, nicht nur ihr Niveau.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] kodierten 880 Züge von 112 Schülerinnen und Schülern der Sekundarstufe, die Mathematikprobleme mit einem LLM modellierten, und fanden die statische Mischung nicht aussagekräftig: 81,5% der Züge waren Anfragen, nur 2,2% explizite Bewertung, und 54% der Anfragen verstehensorientiert gegenüber 46% antwortsuchend. Die Leistung in einem Posttest ohne KI sagte der Verlauf innerhalb der Sitzung vorher, nicht ihr Niveau. Verstehensorientierte Hilfesuche nahm über den Chat hinweg ab (M = −0,20), und dieser Verlauf fügte ΔR2 = .110 zu einem Modell hinzu, das bereits den Prätest-Wert enthielt (β = .34, p < .001). Statische Interaktionsmerkmale fügten nur ΔR2 = .023 hinzu (p = .684). Die Qualität der Hilfesuche muss daher als Kurve gelesen werden: eine Sitzung, die mit konzeptuellen Fragen beginnt und in Antwortanfragen mündet, markiert schwächere Leistung ohne Hilfe, und ein bescheidener Anstieg expliziter Selbstregulation (M = +0,103) glich das nicht aus.
+
+
+**Eine zweite Pipeline stellt dieselbe Frage von der Infrastrukturseite.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] argumentieren, dass ein Mensch-KI-Austausch eine eigene Datenklasse ist: ihre Repräsentation zeichnet den Rechenzustand auf, der die Anfrage ausgelöst hat, die Anfrage, die Antwort, die Bewertung durch die nutzende Person und die darauf folgende Ausführung, als ein Objekt. Anfragen werden dann aus diesem Kontext als Fehlerbehebung, festhängender nächster Schritt, konzeptuelle Hilfe oder Validierung klassifiziert. In einem JupyterLab-Einsatz mit 35 Studierenden über 140 Studierenden-Aufgaben-Paare korrelierten reine Interaktionszählungen nur mit r = 0,12 mit erfolgreich ausgeführten Zellen, während 37 Paare Zugang hatten und ihn nie nutzten und 26 ihn außerhalb ihrer zugewiesenen Bedingung nutzten.
+
 ## Folgerungen für Design und Forschung
 
 1. **Hilfesuche-Affordanzen absichtsvoll gestalten.** Dauerhafte, auffällige Hilfe-Knöpfe können Umgehungsstrategien ermöglichen; Zugang verzögern und Lieferung strukturieren, um [[desirable-difficulties|produktives Kämpfen]] zu stützen.([[lak2026-hint-button-unproductive-use]])
@@ -116,6 +125,12 @@ In vollständig online stattfindender [[english-education|Komposition]] ist die 
 3. **Transparenz nutzen, um Vertrauen zu kalibrieren.** Vor KI-Fallibilität zu warnen kann angemessene Hilfesuche und Engagement erhöhen.([[ai-fallibility-warning-help-seeking]])
 4. **Annahme messen, nicht nur Scaffolding.** Evaluieren, ob Studierende sich tatsächlich mit pädagogischer Rahmung einlassen, nicht nur ob der Tutor sie bereitstellt.([[rethinking-scaffolding-llm-tutors]])
 5. **Überwachung und Handlungsfähigkeit stützen.** Hilfesuche-Scaffolds sollten [[metacognition|Metakognition]] und [[self-regulated-learning|selbstreguliertes Lernen]] stärken und gegen [[cognitive-offloading|übermäßige Abhängigkeit]] schützen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende, die Hilfe brauchen, fragen nicht danach.“** Ein **vorregistriertes Experiment** in großen Grundstudienkursen schrieb Studierende über einen akademischen Chatbot an und fand **größere Inanspruchnahme von Tutoring und ergänzender** Unterstützung. Nudging bewegte das Verhalten, also war die Hürde das Anstupsen und nicht die Bereitschaft.
+- **„Hilfesuche-Anfragen betreffen das Lernen.“** **Operativer Unterstützungsbedarf** stellt diese Annahme infrage: über **4.093 Anfragen** fragten mindestens **20,4% nach dem Status einer ausstehenden Abgabe statt nach Wissen**. Ein Fünftel der Nachfrage nach Hilfe war administrativ.
+- **„Einen KI-Tutor zu nutzen bedeutet, das eigene Lernen zu überwachen.“** In einer Studie mit **98 Neuntklässlerinnen und Neuntklässlern**, die einen GenAI-Tutor nutzten, waren die Interaktionen **von instrumentellen Anfragen dominiert, mit fast keiner Überwachung oder Bewertung des eigenen Lernens**. Nach Antworten zu fragen ist keine Hilfesuche in dem Sinn, den das Konstrukt meint.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden
@@ -139,6 +154,9 @@ In vollständig online stattfindender [[english-education|Komposition]] ist die 
 - [[student-support-and-success]] — institutionelle Ansprache und Unterstützungszuteilung, jenseits der Hilfesuche im Kurs
 
 ## Verbundene Artikel
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Interaktionen als Daten erster Klasse: eine Anfrage über den Ausführungszustand um sie herum klassifizieren
+- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — Der Verlauf der Hilfesuche, nicht ihr Niveau, sagt Mathematikleistung ohne Unterstützung vorher
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Hinweislänge gemessen gegen Korrektheit, Versuche und Zeit der nächsten Einreichung, in einem laufenden Programmierkurs
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Ein Helfer-Agent, den niemand anrief (Humburg et al. 2025)
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry: ein stiftbasiertes interaktives kontextuelles Frage-Antwort-System auf Basis von LLMs

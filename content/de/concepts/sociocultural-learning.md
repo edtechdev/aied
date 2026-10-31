@@ -1,20 +1,24 @@
 ---
 title: Soziokulturelles Lernen
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T21:15:40-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,16 @@ Soziokulturelle Theorie prägt die [[research-methods-aied|Forschung]] zur AIED 
 Der soziokulturelle Strang ist eng mit [[cognitive-offloading|Cognitive-Load-Theorie]] gekoppelt (Unterstützung sollte Last bewältigen, ohne produktive Anstrengung zu beseitigen) und mit [[metacognition|Metakognition]] (Lernende in der Zone überwachen und regulieren ihr Verständnis aktiv). [[stanford-evidence-base-ai-k12-2026]] synthetisiert [[k-12|K-12]]-Belege dafür, dass KI-Werkzeuge am besten funktionieren, wenn sie Lernende in der ZPD halten, statt für sie zu antworten, und Forschung zu [[human-in-the-loop-ai|Human-in-the-Loop-KI]] adressiert, wie menschliche und KI-Unterstützung gemeinsam die Zone der lernenden Person definieren.
 
 - **Generative KI als mediationaler Agent (2026):** Aufbauend auf Wygotskischer Vermittlung schlägt ein Theoriepapier vor, generative KI nicht bloß als Werkzeug/Vermittlungsmittel zu rahmen, sondern als *mediationalen Agenten*, der aktiv an Lerntätigkeit teilhat und damit die werkzeug- gegenüber sozialer Interaktion betreffende Grenze verwischt, die für soziokulturelle Theorie zentral ist ([[generative-ai-mediational-agent-sociocultural-2026]]). Das positioniert generative Modelle als Ko-Teilnehmende statt passive Instrumente, mit Implikationen dafür, wie Vermittlung, [[agency|Handlungsfähigkeit]] und die Beziehung zwischen Lernenden und KI in [[learning-sciences|den Lernwissenschaften]] theoretisiert werden.
+
+## Verbreitete Fehlvorstellungen
+
+**„Soziokulturelle Theorie handelt von sozialen Faktoren im Lernen als Ergänzung zur individuellen Kognition."** Die stärkere Behauptung ist, dass Kognition **über Menschen, Artefakte und Umgebungen verteilt** ist, statt in individuellen Köpfen zu liegen. In dieser Sicht ist eine KI kein externer Helfer, der der Kognition einer lernenden Person hinzugefügt wird; sie ist eine Komponente des Systems, in dem die Kognition läuft, was verändert, was gemessen werden sollte.
+
+**„Wenn Kognition verteilt ist, misst individuelles Assessment das Falsche."** Es verändert die Interpretation, statt die Messung zu entfernen. Was das Assessment erfasst, hängt davon ab, was im System zu diesem Zeitpunkt präsent ist, weshalb gestützte und ungestützte Leistung divergieren — sie sind Messungen unterschiedlicher Konfigurationen.
+
+**„Ein Werkzeug zu einer Gruppe hinzuzufügen verändert nur die Effizienz der Gruppe."** Es verändert die Arbeitsteilung, die die Einheit ist, die die Theorie analysiert. Eine Gruppe, die die meisten ihrer Fragen an einen Agenten leitet, hat die kognitive Arbeit umverteilt, selbst wenn die Ausgabe unverändert bleibt.
+
+**„Verteilte Kognition impliziert, dass das Individuum keine Rolle spielt."** Es impliziert, dass der Beitrag des Individuums nicht allein aus individueller Leistung abgelesen werden kann; die Analyseeinheit ist das Tätigkeitssystem, nicht die Person isoliert.
 
 ## Verbundene Konzepte
 

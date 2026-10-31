@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Inklusives Lernen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,16 @@ Inklusives Lernen ist tief mit [[equity-in-ai-education]] verbunden — Zugängl
 - **Den Sicherheits-/Zugänglichkeits-Trade-off explizit behandeln.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] modelliert, wie Maßnahmen gegen Betrug Lernende mit Bedürfnissen der visuellen Verarbeitung unbeabsichtigt ausschließen können — Integrität gegen Zugang abwägen.
 - **Zugang kann an der Formulierung hängen, nicht nur am Format.** Bei festgehaltener zugrundeliegender Aufgabe stieg die Modellgenauigkeit von 82,4 % bei Formulierung für geringe Schriftlichkeit auf 83,4 % bei Expertenformulierung, also fügt das Verlangen, dass Studierende besser prompten, einen neuen Ausschluss hinzu; ein systemseitiger Umschreiber, der Anfragen normalisiert, beseitigte die signifikante Lücke, ohne den Inhalt zu verändern ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Dagegen wachen, dass KI Ausschluss reproduziert.** [[genai-minoritized-knowledges-disability|Behindertenzentrierte Kritik]] warnt, dass anglophone, westlich-zentrierte Trainingsdaten behinderte Arten des Wissens marginalisieren — KI-Werkzeuge auf epistemische Gerechtigkeit prüfen neben [[equity-in-ai-education]].
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein zugängliches Werkzeug ist ein inklusiver Kurs."** Zugänglichkeit beantwortet eine Frage — können alle das Format wahrnehmen und bedienen —, was notwendig und bei weitem nicht hinreichend ist. Inklusives Lernen fragt auch, welche Werkzeuge den [[digital-divide|Zugangsspalt]] einer Person überbrücken und wie das Design Variation vorwegnehmen soll, statt sie nachzurüsten. Eine screenreader-kompatible Oberfläche in einem Kurs, dessen Assessmentstruktur einen stillen Raum, verlässliches Breitband und ununterbrochene Zeit voraussetzt, hat das Anzeigeproblem gelöst und das Teilhabeproblem unberührt gelassen.
+
+**„Assistive Technologie zu liefern liefert Handlungsfähigkeit."** Beides ist verschieden, und die Rahmung dieser Seite sagt es selbst: Assistive Technologie garantiert keine bedeutsame Handlungsfähigkeit. Ein Werkzeug, das eine lernende Person die geforderte Aufgabe erledigen lässt, kann sie auch zur engsten Version davon leiten, und der Unterschied zwischen einem Gerüst und einer Decke ist in einer Übernahmekennzahl unsichtbar.
+
+**„Studierende, die Schwierigkeiten haben, sollten einfach besser prompten lernen."** Das verwandelt einen Systemdefekt in ein Lernendendefizit. Bei festgehaltener zugrunde liegender Aufgabe stieg die Modellgenauigkeit nur von **82,4 % bei Formulierung für geringe Schriftlichkeit auf 83,4 % bei Expertenformulierung** — ein Unterschied von einem Punkt —, während das Verlangen nach besserem Prompting einen neuen Ausschluss auf den bestehenden legt. Der Hebel liegt im systemseitigen Umgang mit Sprachvariation, nicht in nachholendem Prompt-Training.
+
+**„Ein Werkzeug, das für gut ausgestattete Klassenräume gebaut wurde, dient ressourcenarmen Kontexten, sobald es übersetzt ist."** Der Kontext verändert die Designrandbedingung. [[suacode-african-students-motivations|SuaCode]] erreichte Studierende in ressourcenarmen afrikanischen Kontexten, wo **weniger als 1 % Programmierfähigkeiten haben**, indem es für Smartphones statt für Desktop-Labormaschinen baute — ein anderes Design, nicht eine kleinere Version desselben.
 
 ## Verbundene Konzepte
 

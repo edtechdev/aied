@@ -1,19 +1,23 @@
 ---
 title: Mixed-Methods-Forschung
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-24T20:27:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,12 @@ Mixed-Methods-Designs integrieren die Breite, Präzision und kausale Kraft quant
 ## Beziehung zur weiteren Methodenlandschaft
 
 Mixed Methods sitzt zwischen den [[quantitative-research|quantitativen]] und [[qualitative-research|qualitativen]] Traditionen, schöpft aus den Stärken jeder und fügt die Designdisziplin absichtlicher Integration hinzu. Sie ist eine methodologische Antwort auf die Erkenntnis, dass Phänomene der KI-Bildung sowohl wirkungsvoll als auch bedeutungsgeladen sind – und dass das Feld am schnellsten vorankommt, wenn Breite und Tiefe kombiniert werden (siehe [[research-methods-aied|Forschungsmethoden in der KI-Bildung]]). Sie verbindet sich mit [[educational-measurement|Bildungsmessung]] (quantitative Instrumente), [[theory-development-aied|Theorieentwicklung]] (qualitativer Theorieaufbau) und [[ai-ed-evaluation|Evaluation von KI in der Bildung]] (Integration von Ergebnis- und Erlebens-Evidenz).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Mixed Methods ist eine Nischenwahl in der KI-Bildungsforschung."** Über **394 GenAI-Hochschulstudien** war Mixed Methods das **häufigste Forschungsdesign (213 Studien, 54%)**, gefolgt von quantitativ (109, 28%) und qualitativ (72, 18%). Das dominante Design des Felds ist nicht das, von dem seine methodologischen Debatten ausgehen.
+- **„Beobachtungs- und Interviewevidenz können eine Systembehauptung tragen."** Die Paarung von Systembeobachtung und Gesprächen mit Administratorinnen und Administratoren gegen eine **vierjährige randomisierte Evaluation von 8.708 Studierenden über acht Semester**, ausgelegt auf die Erkennung von Effekten von **0,05 Standardabweichungen**, zeigt, was der qualitative Strang allein nicht leisten kann: einen kleinen Effekt verlässlich zu erkennen. Methoden zu mischen ist kein Weg, Aussagekraft zwischen Strängen zu übertragen.
+- **„Triangulation heißt, zwei schwache Methoden ergeben eine starke Behauptung."** Der Wert der Paarung liegt darin, dass jeder Strang eine andere Frage beantwortet. Ein Design, das beide durchführt und dann den qualitativen Befund als Bestätigung des quantitativen berichtet, hat nicht trianguliert, sondern wiederholt.
 
 ## Verbundene Konzepte
 

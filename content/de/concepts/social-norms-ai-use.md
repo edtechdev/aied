@@ -1,7 +1,7 @@
 ---
 title: Soziale Normen der KI-Nutzung
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-24T21:19:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,13 +13,17 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,18 @@ Die Kosten dieser Substitution zeigen sich darin, wo Lehrende und Studierende ta
 - **Disziplinäre Variation respektieren.** Eine Spanne von 27% bis 5% über Departments hinweg ist keine Inkonsistenz, die zu normalisieren ist, sondern verschiedene Urteile darüber, was der Berechtigungsschein bescheinigt. Institutionsweite Mandate tendieren dazu, für eine Disziplin geschrieben zu sein, die nicht existiert.
 - **Nicht nach Monitoring greifen, um Normen zu setzen.** Proctoring erhöhte Angst, ohne die Versuchung zum Schummeln zu verändern, in der stärksten verfügbaren Studie, und konzentriert diese Kosten auf die am wenigsten begünstigten Studierenden.
 - **Fragen, wer in der Norm fehlt.** Die Ethikliteratur weist Studierenden fast keine Verpflichtungen zu und berücksichtigt ihr Urteil wenig, während das Klassenzimmer ihnen viel zuweist und es sozial durchsetzt. Diese Lücke zu schließen ist eine Curriculumfrage, keine Compliancefrage.
+
+## Verbreitete Fehlvorstellungen
+
+**„Studierende wissen, wie viel ihre Peers KI nutzen.“** Sie überschätzen ihr eigenes Wissen darüber. Die mediane Korrelation zwischen den Schätzungen einer wahrnehmenden Person und ihrem eigenen selbstberichteten Nutzungsprofil lag **in beiden Wellen bei r = .73**, während die Ranggenauigkeit für die *Art* der KI-Nutzung nur **r = .34** betrug. Studierende können grob sagen, wie viel, aber nicht, welche Art — was bedeutet, dass sich Normen um einen systematisch groben Eindruck bilden.
+
+**„Eine veröffentlichte Richtlinie etabliert die Norm.“** Das lokale Regelbuch wird in der Praxis geschrieben, nicht im Richtlinientext, und die Domänen divergieren scharf: KI-integrierte Aufgaben erschienen in **27% der Lehrpläne im Bereich Wirtschaft und 5% der Lehrpläne in den Geisteswissenschaften** über **31.000 Kurse** hinweg. Die operative Norm einer lernenden Person ist die ihrer eigenen Disziplin, und ein institutionsweites Dokument setzt sie nicht außer Kraft.
+
+**„Scham und Schuld halten von KI-Nutzung ab.“** Sie regulieren die Sichtbarkeit statt die Nutzung: [[shame-guilt-ai-regulation-computing-education|Scham und Schuld regulieren Sichtbarkeit]], was Verbergen und selektive Offenlegung statt Verhaltensänderung erzeugt. Die beobachtbare Wirkung einer beschämenden Norm ist weniger ehrliches Berichten, nicht weniger Nutzung.
+
+**„Überwachung würde die Norm klären, indem sie Nutzung sichtbar macht.“** Verhalten sichtbar zu machen löst nicht, was die Norm sein sollte; es verändert, was Menschen bereit sind offenzulegen. Das gemessene Muster ist bereits selektive Offenlegung, sodass ein darauf angewandtes Überwachungsregime das Verbergen misst statt das Verhalten.
+
+**„Normen sind informell und damit institutionell unerreichbar.“** Sie werden lokal durchgesetzt und sind lokal veränderbar, was sie handhabbarer macht als Richtlinien: die explizite Praxis eines Kursteams ist gerade deshalb ein Hebel, weil dort die operative Regel gesetzt wird.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: "Bildungsstufen"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-24T23:50:47-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,13 +14,17 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,16 @@ Ein Muster gilt auf jeder untersuchten Stufe: Die menschliche Schicht absorbiert
 - **Steuern Sie KI nach Aktivität, nicht nach Begeisterung**, und skalieren Sie Datenschutzpflichten mit dem Alter ([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **Gestalten Sie für den vermittelnden Erwachsenen jenes Bandes** – Elternteil, Lehrkraft, Bibliothekarin oder Betreuende – und messen Sie dessen Bereitschaft getrennt von der der Institution ([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Sagen Sie klar, wenn ein Band keine Evidenz hat**, und **verwechseln Sie Absicht nicht mit Leistung**: Mehrere stufenspezifische Studien berichten Haltungs- oder [[self-report-measures|Selbstauskunfts]]-Ergebnisse statt Lernen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein Bandlabel sagt Ihnen, was eine lernende Person kann."** Band und Wissensniveau korrelieren, sind aber nicht gleich. Im Zweitklass-Tutoring-Versuch dominierte [[prior-knowledge|Vorwissen]] die Nachtestleistung (**F(1, 124) = 206.99, p < .001, η²p = .63**) — ein großer Effekt, der das Klassenstufenlabel neben dem tatsächlichen Vorwissen der lernenden Person zu einem schwachen Prädiktor macht. Für das Band zu gestalten und die Streuung innerhalb des Bands zu ignorieren, heißt für den Durchschnitt einer breiten Verteilung zu gestalten.
+
+**„Das unterrichtete Fach zählt mehr als die Bildungsstufe."** Der Bruch zwischen Schule und Universität zählt mehr. Was sich über diese Grenze hinweg ändert, ist nicht der Inhalt, sondern die Kapazität zur Selbstregulation, die Natur des Assessment-Vertrags und wer für das Lernen verantwortlich ist — weshalb ein Werkzeug, das einem Graduiertenseminar hilft, einer Zweitklass-Stunde auch bei vergleichbarem Inhalt schaden kann.
+
+**„Ein adaptiver Tutor hilft jeder Stufe gleichermaßen."** Der Vergleich, der die Variable isoliert, ist aufschlussreich: zwei Versionen desselben Zweitklass-Mathematiktutors — identischer Inhalt, identische Oberfläche, identisches Feedback und identische gesprochene Hinweise —, die sich **nur darin unterschieden, ob die Aufgabenauswahl einem Bayesschen [[knowledge-tracing]]-Modell folgte**. Adaptive Aufgabenauswahl ist eine stufenempfindliche Intervention, und ihr Nutzen hängt davon ab, ob Lernende auf dieser Stufe auf die Anpassung reagieren können.
+
+**„Evidenz, die sich in der Hochschulbildung konzentriert, lässt sich nach unten verallgemeinern."** Das lässt sie nicht, und die Verteilung der Literatur ist eine Warnung statt einer Bequemlichkeit. Wo die Evidenz dicht und wo sie dünn ist, ist eine Eigenschaft der Forschungsökonomie, nicht dessen, wo KI am häufigsten genutzt wird; eine Aussage über K-12, die aus Universitätsstichproben gezogen wird, ist also eine Extrapolation über die Grenze, die am meisten zählt.
 
 ## Verbundene Konzepte
 - [[k-12]]

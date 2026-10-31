@@ -1,20 +1,24 @@
 ---
 title: Akteure in der KI-Bildung
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-24T19:40:06-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,16 @@ Identität ist der menschliche Anker der Akteurslandschaft: Sie ist das, was KI 
 - **Bauen Sie rollenspezifische Kompetenzen auf:** Lehrende, Studierende, Gestaltende und Leitungen brauchen jeweils zugeschnittene KI-Kompetenz und Unterstützung (siehe [[ai-literacy]], [[teacher-ai-competency]], [[educational-development]]).
 - **Richten Sie über Ebenen hinweg aus:** Die Governance-Forschung der Wissensbasis zeigt, dass KI gelingt, wenn institutionsleitende Führung, Lehrpraxis und Studierendenerfahrung ausgerichtet statt fragmentiert sind.
 - **Beziehen Sie Eltern und die breitere Gemeinschaft ein:** Familien sind Akteure der KI-Übernahme, deren Rolle und Anliegen explizite Aufmerksamkeit verdienen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Akteure in der KI-Bildung teilen ein Interesse am selben Ergebnis."** Ihre Interessen stehen häufig in direkter Spannung, und dasselbe Merkmal liest sich je nach Rolle anders: Was für eine lernende Person „personalisierte Unterstützung" ist, kann gleichzeitig für eine Lehrkraft ein „Integritätsrisiko" sein. Designprozesse, die ein gemeinsames Ziel annehmen, lösen diese Spannung versehentlich zugunsten derjenigen auf, die am lautesten sprechen.
+
+**„Jeder Akteursgruppe eine Stimme zu geben, löst den Konflikt."** Konsultation ist keine Gewichtung. Die Rahmung dieser Seite selbst legt die Designfrage darauf, wie jedem Anliegen **echtes Gewicht gegeben wird, statt die lauteste Stimme gewinnen zu lassen**, was ein Verfahrensproblem ist — wer entscheidet, mit welcher Evidenz und mit welcher Berufungsmöglichkeit —, kein Kommunikationsproblem.
+
+**„Akteursanalyse ist eine Übung der frühen Phase."** Die Spannungen bestehen im Betrieb fort, weil die Rollen dasselbe System weiterhin unterschiedlich interpretieren. Eine studierendengerichtete Personalisierungsschicht und ein lehrkräftegerichtetes Integritäts-Dashboard sind dieselben Daten aus zwei Positionen betrachtet, und der Konflikt kehrt zurück, sobald eines davon angepasst wird.
+
+**„Eine Identität über Zielgruppen hinweg heißt, dass eine Botschaft allen dienen kann."** Über Zielgruppen hinweg zu kommunizieren verlangt, dieselbe Entscheidung in verschiedene Begriffe zu übersetzen, ohne sie falsch darzustellen, was mehr ist als das Umschreiben einer Botschaft in vier Varianten.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: Erleben der Studierenden
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T23:29:54-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -80,7 +84,7 @@ Verifikation kann verschieben, wie Studierende die Frage erleben: Eine Bitte, ih
 
 ### Soziale und relationale Effekte
 
-- **Positiv:** KI kann [[collaborative-learning|Zusammenarbeit]] und [[student-ai-interaction|Mensch-KI-Interaktion]] vermitteln und Teamarbeit, Peer-Interaktion und Zugang zu vielfältigen Perspektiven stützen.
+- **Positiv:** KI kann [[collaborative-learning|Zusammenarbeit]] und [[human-ai-collaboration|Mensch-KI-Interaktion]] vermitteln und Teamarbeit, Peer-Interaktion und Zugang zu vielfältigen Perspektiven stützen.
 - **Negativ:** KI kann echte Peer- und Lehrenden-Interaktion reduzieren, [[ai-sycophancy|sykophantische]] Dynamiken erzeugen und — wenn sie als nicht offengelegtes Teammitglied operiert — Gruppendiskurs und [[agency|Handlungsfähigkeit]] auf Weisen umformen, die Lernende nicht sehen oder anfechten können (siehe [[jin-emergent-learner-agency-implicit-hai-2026|emergent learner agency in implicit HAI]]).
 
 ### Langfristige / Fähigkeits-Effekte
@@ -95,6 +99,33 @@ Die am längsten laufenden Ergebnisse, die eine Person im Studium erfährt — o
 ## Verbindungen
 
 Erleben der Studierenden verbindet sich mit [[cognitive-offloading|übermäßiger Abhängigkeit]] (exzessive KI-Abhängigkeit), [[ai-literacy|KI-Kompetenz]] (Fähigkeiten für wirksame Nutzung), [[cognitive-offloading|kognitiver Entlastung]] (wie KI kognitive Arbeit verändert), und [[student-engagement|Engagement]] (wie KI-Systeme studentisches Verhalten messen und darauf reagieren). Es ist das lernendenzugewandte Mitglied der Überblicksseite [[stakeholders|Akteure in der KI-Bildung]] und die Heimat für die Zusammenfassung aller Wege, wie KI Studierende beeinflusst.
+
+## Verbreitete Fehlvorstellungen
+
+**„Studierende, die KI meiden, sind im Rückstand."** Nicht-Nutzung ist häufig eine begründete Position statt eine Lücke: eine institutionsübergreifende UK-Umfrage unter **7.087 Studierenden** fand, dass **32% GenAI überhaupt nicht zum Studieren nutzten**, wobei Nicht-Nutzende angaben, die Arbeit selbst machen zu wollen. Das als Übernahme-Defizit zu behandeln kehrt den Befund um und drängt Studierende aus einer vertretbaren Wahl.
+
+**„Berichte von Studierenden sind ein vernünftiges Maß für Lernen."** Sie sind [[self-report-measures|Selbstauskunftsmaße]]: sie erfassen Wahrnehmungen und Absichten gut und Verhalten nur näherungsweise. Die Leistungs-Lern-Lücke in dieser Literatur — Studierende, denen es mit KI besser geht und die bei späteren unassistierten Aufgaben schlechter abschneiden — ist genau der Fall, in dem Selbstauskunft und Outcome auseinanderfallen, sodass eine zufriedene Studierendenschaft kein Beleg für eine lernende Studierendenschaft ist.
+
+**„Wenn Studierende das Gefühl haben, KI hilft, hilft sie."** Das Gefühl, geholfen zu bekommen, ist ein echtes Datum über die Erfahrung und eine unzuverlässige Inferenz über das Ergebnis. Die Lücke ist dokumentiert, und Studierende in der geschädigten Gruppe nehmen sie nicht verlässlich wahr, sodass Wahrnehmung und Ergebnis als getrennte Maße erhoben werden müssen, statt dass eines für das andere einsteht.
+
+**„Das Erleben der Studierenden ist ein weiches Anliegen gegenüber Ergebnissen."** Es ist ein Frühindikator für Übernahme und Offenlegung: Studierende, die ihre Nutzung verurteilt fühlen, verbergen sie, und verborgene Nutzung ist die Bedingung, in der [[reducing-ai-misuse|Missbrauch]] und Schaden für die Einrichtung am wenigsten sichtbar sind.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Behandeln Sie Nicht-Nutzung nicht als Lücke, die zu schließen ist. Etwa ein Drittel der Studierenden entscheidet sich, die Arbeit selbst zu machen, und Druck zur Übernahme verwandelt eine begründete Position in ein Compliance-Problem.
+- Erheben Sie Wahrnehmung und Ergebnis getrennt. Zufriedenheitsbefragungen beschreiben die Erfahrung und können unassistierte Leistung nicht ersetzen.
+- Machen Sie Offenlegung sicher, denn Studierende, die Urteil erwarten, verbergen ihre Nutzung, und in verborgener Nutzung versteckt sich die Divergenz zwischen assistierter und unassistierter Leistung.
+
+**Für Entwickelnde**
+
+- Berichten Sie Lernoutcomes neben Erfahrungsmetriken in allem, was Sie Studierenden veröffentlichen, weil das gefühlte und das gemessene Ergebnis regelmäßig auseinanderfallen.
+- Unterstützen Sie die Ablehnung des Assistenten, ohne den Zugang zum Kurs zu verlieren.
+
+**Für Forschende**
+
+- Berichten Sie Größe und Gründe der Gruppe der Nicht-Nutzenden ausdrücklich; 32% einer Stichprobe von 7.087 Studierenden sind eine Population, kein Rest.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden

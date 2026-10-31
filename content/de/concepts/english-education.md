@@ -1,7 +1,7 @@
 ---
 title: Englischunterricht (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-24T23:48:52-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 connected_resources: [teacher-dev]
 ---
@@ -95,6 +99,13 @@ Eine auf Scopus basierende Synthese von 54 EFL-Studien verortet die am häufigst
 - **Vorsichtige, vorbereitungsfirstige Übernahme erwarten.** Ein [[li-language-educators-genai-review-2026|systematischer Review von 23 Studien]] (Li et al. 2026) findet, dass Sprachlehrende [[generative-ai|GenAI]] am meisten für hinter-den-Kulissen-Vorbereitung schätzen — Unterrichtsplanung, Materialerstellung und Unterstützung/Feedback beim Schreiben —, während sie bei direkter Nutzung im Kursraum zögern, wobei sich die zentralen Bedenken auf [[academic-integrity|akademische Integrität]] (Plagiat und [[assessment-validity|Assessment-Validität]]) konzentrieren. Übernahme wird durch berufsidentitätsbezogene, [[pedagogy|pädagogische]], technische, [[governance|institutionelle]] und integritätsbezogene Faktoren geprägt, und Kompetenzlücken bilden sich ab auf episteme (Fähigkeiten und Grenzen der KI verstehen), techne ([[prompt-engineering]], KI-ergänztes Aufgaben-/Assessment-Design, Erkennen KI-erzeugter Texte) und phronesis ([[ethics|ethisches]] Urteilen, Umgang mit Bias/Datenschutz) — EAP/EFL-Lehrende sollten diese Kompetenzen daher absichtlich aufbauen und eine Umsetzung nach dem Muster „zuerst Backend, dann Kursraum“ planen.
 - **Nach Leistungsstand und Bedarf differenzieren.** [[ai-vs-human-assessment-efl-tpck-2026|EFL-Assessment]] und Forschung zu adaptivem Tutoring stützen es, KI-Unterstützung und -Bewertung an das Niveau der Lernenden anzupassen statt nach dem Gießkannenprinzip.
 - **Technologie auf Produktion hin gewichten.** Eine Metaanalyse von 33 TEFL-Studien fand einen kleinen bis moderaten Gesamteffekt (g = 0.38, auf 0.28 reduziert durch trim-and-fill), der mit der Bildungsstufe stieg und produktive Fähigkeiten — Sprechen und Schreiben — gegenüber rezeptiven bevorzugte ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Im EFL-Unterricht bedroht KI vor allem das Abschreiben.“** Die am häufigsten berichtete [[limitations-in-aied-research|Grenze]] des Feldes selbst ist die **Autonomie der Lernenden**, die als [[cognitive-offloading|Übernutzung]] in **27** von **54 Studien** einer Synthese auf Scopus-Basis erscheint. Die dokumentierten Kosten sind Abhängigkeit statt Unehrlichkeit, was eine andere Art von Intervention verlangt.
+- **„Sprachlehrende übernehmen enthusiastisch oder gar nicht.“** Ein [[li-language-educators-genai-review-2026|systematischer Review von 23 Studien]] (Li et al.) findet **vorsichtige, vorbereitungsfirstige Übernahme** als Muster. Die Lehrenden waren auf bedachte Weise zurückhaltend, nicht in Enthusiasten und Verweigerer gespalten.
+- **„Der Gesamteffekt rechtfertigt den Aufwand.“** Eine Metaanalyse von **33 TEFL-Studien** fand einen **kleinen bis moderaten Gesamteffekt (g = 0.38, durch trim-and-fill auf 0.28 reduziert)**, der **mit der Bildungsstufe stieg**. Der Effekt ist nach der Korrektur bescheiden und konzentriert sich auf höhere Stufen, sodass die gepoolte Zahl keine Aussage für Anfänger stützt.
+- **„Jede KI-Nutzung ist für das Sprachenlernen gleichermaßen produktiv.“** Dieselbe Arbeit plädiert dafür, **Technologie auf Produktion hin zu gewichten** — Schreiben und Sprechen statt Konsum. Die Modalität bestimmte den Effekt stärker als die Anwesenheit von KI.
 
 ## Verbundene Konzepte
 

@@ -2,19 +2,23 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Rückmeldung
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-24T20:42:10-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-10-26T12:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -137,6 +141,12 @@ Ein zweischichtiges Modell zeigt, wie das Paar um eine Maschine herum organisier
 Feedback ist einer der folgenreichsten und am besten belegten Mechanismen in der Bildung, und KI verstärkt und kompliziert ihn gleichermaßen. Gut architektoniertes KI-Feedback kann menschliches Feedback erreichen oder übertreffen und über Kohorten hinweg skalieren, aber es verlangt neue Fähigkeiten der Lernenden ([[feedback-literacy|Feedback-Kompetenz]], [[ai-literacy|KI-Kompetenz]]) und birgt Risiken (unkritische Akzeptanz, [[cognitive-offloading|übermäßiges Vertrauen]]). Während KI-erzeugtes Feedback allgegenwärtig wird, rahmt die Wissensbasis Feedback als ganzes System — Qualität, Schleife, Kompetenz und Assessmentkontext, die zusammenwirken — statt als eine einzelne Komponente.
 - **Feedback kann die Feedbackgebenden adressieren.** Tutor:innen-Training ist ein wenig erforschter Feedbackkontext: automatisierte Systeme, die die offenen Antworten von Tutor:innen sequenzweise markieren, um Lobtypen zu kennzeichnen (anstrengungsbasiertes Lob — die wünschenswerte prozessfokussierte Art — gegenüber ergebnisbasiertem gegenüber personenbasiertem, der am wenigsten wünschenswerten eigenschaftszuschreibenden Art), können erklärendes Feedback liefern, das Tutoringsverhalten verändert. Die bindende Randbedingung sind von Expertinnen und Experten markierte Daten. Ein Augmentationsansatz — GPT-4o erzeugt synthetische markierte Antworten und erweitert einen Datensatz von 13 Instanzen mit geringen Ressourcen auf 520, dann wird GPT-3.5 feinabgestimmt — überwindet den größten Teil der Lücke: F2 +20,5% bei anstrengungsbasiertem Lob, +17,3% bei ergebnisbasiertem und +16,5% bei der *ungesehenen* personenbasierten Kategorie. Der Generalisierungstest auf einen ungesehenen Lobtyp ist die Validitätsprüfung, die dies von Überanpassung trennt, und der Mechanismus ist näher an der Destillation von Lehrkraft-Modellen als an klassischer Augmentation. ([[xu-automated-feedback-tutor-training-2025]])
 - **Feedback, das die Überarbeitung nicht sehen kann, wird wiederholt.** In einem naturwissenschaftlichen Lernspiel, dessen Agenten Entwurfsargumente kritisierten, überarbeiteten Studierende über mehrere Runden hinweg, doch ein quantisiertes 8B-Modell lieferte einer verbesserten Fassung im Wesentlichen dieselbe Kritik, sodass die Schleife, die zur Überarbeitung motivierte, auch die Frustration erzeugte, die sie beendete ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende können KI-Feedback nicht von menschlichem Feedback unterscheiden."** Sie können es, und das Label verändert das Urteil: **Sobald das Label offengelegt wurde, sanken die Bewertungen der KI-Variante und stiegen die der menschlichen Variante — signifikant für Authentizität (p < .01)**. Die Glaubwürdigkeit des Anbieters formte die Bewertung stilidentischen Feedbacks.
+- **„Zustimmung im Labor sagt die Nutzung im Semester voraus."** **Zustimmung im Labor ist nicht Nutzung im Semester**: **alle 18 Studierenden** reagierten in den Laborsitzungen positiv auf die GenAI-Erklärungsfunktion, **doch nur die Hälfte nutzte sie im Semester**. Die Lücke zwischen Absicht und Nutzung ist das Designproblem.
+- **„Sofortiges korrigierendes Feedback ist mit LLMs gelöst."** Es in einem Tutor zu erzeugen ist **machbar, aber unvollkommen**: über **6.926 protokollierte Transaktionen** in der Apprentice-Tutor-Sammlung war das Feedback gut genug zum Ausrollen und nicht gut genug, um Korrektheit anzunehmen.
 
 ## Verbundene Konzepte
 

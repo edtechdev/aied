@@ -1,7 +1,7 @@
 ---
 title: KI-Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,19 +11,23 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-23T09:20:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-28T19:28:52-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **KI-Governance** — die Rahmen, Politiken, institutionellen Strukturen und Normen, die die verantwortungsvolle Gestaltung, den Einsatz und die Nutzung von [[ai-education|künstlicher Intelligenz in der Bildung]] leiten. Governance erstreckt sich über formale institutionelle Mechanismen (KI-Steuerungsgruppen, Politiken zu akademischer Integrität und akzeptabler Nutzung, ethische Prüfung) und informelle Normen (Leitlinien für Fakultätsmitglieder, berufliche Weiterentwicklung, Kulturen [[reducing-ai-misuse|verantwortungsvoller KI-Nutzung]]). In der KI-Ära ist wirksame Governance eine Vorbedingung für ethische, [[equity-in-ai-education|gerechte]] und nachhaltige Adoption generativer KI – sie entscheidet, ob KI transparent und mit Rechenschaftspflicht integriert wird oder reaktiv in Weisen adoptiert wird, die Ungerechtigkeiten vertiefen.
+> **KI-Governance** — die Rahmen, Politiken, institutionellen Strukturen und Normen, die die verantwortungsvolle Gestaltung, den Einsatz und die Nutzung von [[ai-education|künstlicher Intelligenz in der Bildung]] leiten. Governance erstreckt sich über formale institutionelle Mechanismen (KI-Steuerungsgruppen, Politiken zu akademischer Integrität und akzeptabler Nutzung, ethische Prüfung) und informelle Normen (Leitlinien für Fakultätsmitglieder, berufliche Weiterentwicklung, Kulturen [[ai-literacy|verantwortungsvoller KI-Nutzung]]). In der KI-Ära ist wirksame Governance eine Vorbedingung für ethische, [[equity-in-ai-education|gerechte]] und nachhaltige Adoption generativer KI – sie entscheidet, ob KI transparent und mit Rechenschaftspflicht integriert wird oder reaktiv in Weisen adoptiert wird, die Ungerechtigkeiten vertiefen.
 
 ## Fragen zum Nachdenken
 
@@ -43,8 +47,9 @@ KI-Governance in der Bildung wird zunehmend dringend, weil [[generative-ai|gener
 - **Antizipatorische Governance durch Prototyp und Pilot.** [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson et al., 2026]] lesen Englands DfE als durch Design regierend: KI-Prototypen und Schul-Piloten nehmen eine gewählte Zukunft vorweg, behandeln Klassenräume als Testfelder und erzeugen Just-in-time-„versprechende" Belege für die Skalierung statt eines gefestigten „Was funktioniert".
 - **Co-Design von Politik durch Studierende:** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] zeigen, wie eine angeleitete Untersuchungsaktivität, in der Studierende eine GenAI-Kurspolitik co-designten, studentische Werte offenlegte – mit Priorisierung von Training, standardisierten [[ai-use-disclosure|Offenlegung]]sverfahren, stärkerer institutioneller Unterstützung und größerer Beteiligung an Entscheidungsfindung. Das positioniert [[pedagogical-partnerships|Studierende als Partnerinnen und Partner]] in der Governance statt als passive Subjekte und ergänzt Politik auf institutioneller Ebene durch studentische Stimme von unten.
 
-- **Neugestaltung läuft auf drei Dimensionen gleichzeitig.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] rahmt Assessment-Neugestaltung im KI-Zeitalter über kulturell-diskursive (Sprache und Annahmen), materiell-ökonomische (Ressourcen) und sozial-politische (Governance und Macht) Dimensionen, und benennt die Schnittmenge von Ressourcen und Macht als größten Hebelpunkt und größtes Risiko zugleich: Ressourcen, die durch bestehende Machtstrukturen fließen, verstärken Ungleichheiten.
 - **Die techno-lösungsorientierte Falle und das Politikdefizit:** Ein systematischer Review von 65 Studien zu KI × [[social-emotional-learning|sozial-emotionalem Lernen]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) findet, dass Forschung oft technisches Potenzial in den Vordergrund stellt, während die institutionellen Bedingungen verantwortungsvoller Implementierung unterbestimmt bleiben – eine „techno-solutionist"-Falle. Die Autorinnen und Autoren verbinden politisches [[student-engagement|Engagement]] mit Publikationsort und schlagen einen „WH-Fragen"-Rahmen vor, um Governance-Implikationen aktorspezifisch zu machen, was den weiteren Befund der Wissensbasis aufnimmt, dass institutionelle Governance der KI-Adoption hinterherhinkt.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] zeigen eher eine Governance-Fehlpassung als ein Governance-Vakuum: Studierende wollten, dass die Universität „mehr tut", doch die Institution hält daran fest, dass Entscheidungen auf Ebene von Fachbereich, Programm und Kurs liegen, sodass Nachfrage und Mandat auf verschiedene Stellen zeigen, während Schweigen die Lücke füllt.
 
 ## Wie KI-Governance in der Forschung erscheint
 
@@ -54,6 +59,8 @@ KI-Governance in der Bildung wird zunehmend dringend, weil [[generative-ai|gener
 - **KI-Kompetenz als Governance-Kapazität („das 18. SDG"):** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed und Islam (2026)]] konzeptionalisieren KI-Kompetenz als systemischen Governance-Mechanismus statt als Klassenraumfähigkeit neu, schlagen eine sechsstufige AIRE-Taxonomie vor (Recognize → Comprehend → Apply → Analyze → Integrate → Govern), die Blooms Hierarchie um ethische Synthese und strategische Vorausschau erweitert, sowie eine AI–SDG-Nexus-Abbildung, die Kompetenzen auf alle siebzehn [[sustainability|Ziele für nachhaltige Entwicklung]] abbildet. Indem sie KI-Kompetenz als „18. SDG"-Heuristik rahmen – eine querschneidende Kapazität, die Lernen in Governance und nachhaltige Entwicklung kanalisiert –, fand die Erhebung von 300 Fachkräften Governance-Kompetenz als stärksten Prädiktor des Bewusstseins für den KI-SDG-Nexus (β = 0.64, r = 0.67 mit Nexus-Bewusstsein) und identifizierte ethisches Schlussfolgern und reflexives Denken als stärkste Prädiktoren vertrauenswürdiger KI-Nutzung. Das bindet institutionelle Governance an die Kultivierung öffentlicher [[ai-literacy|KI-Kompetenz]] und nimmt den Befund der Wissensbasis auf, dass verantwortungsvolle KI-Ausrichtung [[stakeholders|Politikerinnen und Politiker]] und Bürgerinnen und Bürger erfordert, die algorithmische Systeme kritisch interpretieren können, statt bloß compliance-orientierter technischer Kontrolle.
 - **Die meisten Governance-Formen in der Bildung sind Orientierung, nicht Gesetz.** Über 160 englischsprachige Dokumente hinweg nahmen nur 4 formale rechtliche oder regulatorische Form an, während 92 Leitlinien, Rahmenwerke oder Toolkits waren; Rechenschaftspflicht erschien in 146 Dokumenten, war aber in 100 mit einem benannten Aufsichtsakteur verbunden ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
 - **Akademische Integrität und Assessment:** Governance ist zentral dafür, wie Einrichtungen mit KI-bezogenen Anliegen der [[academic-integrity|akademischen Integrität]] umgehen und [[assessment|Assessment]] neugestalten – mit einer Bewegung von Verbot/Polizieren hin zu Anleitung, KI-Kompetenz und prozessorientierten Designs, wie Forschung zu [[student-rationalization-ai-writing|Rationalisierung durch Studierende]] und [[beyond-detection-authentic-assessment-ai-2025|Neugestaltung authentischen Prüfens]] zeigt.
+- **Neugestaltung läuft auf drei Dimensionen gleichzeitig.** [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] rahmt Assessment-Neugestaltung im KI-Zeitalter über kulturell-diskursive (Sprache und Annahmen), materiell-ökonomische (Ressourcen) und sozial-politische (Governance und Macht) Dimensionen, und benennt die Schnittmenge von Ressourcen und Macht als größten Hebelpunkt und größtes Risiko zugleich: Ressourcen, die durch bestehende Machtstrukturen fließen, verstärken Ungleichheiten.
+
 - **Der Instrumentenmix schriftlicher Governance:** [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] prüften KI-bezogene Dokumente aus allen 48 CAHIIM-akkreditierten Master-Programmen für Gesundheitsinformatik und Gesundheitsinformationsmanagement in den Vereinigten Staaten. Vierzig der 48 (83%) hatten mindestens ein öffentlich verfügbares Dokument, und über die 40 analysierten Dokumente hinweg wurde Governance meist als Anleitung statt als verbindliche Regel realisiert: 21 Leitlinien (53%), 9 Informationsdokumente (23%) und nur 7 formale Politiken (18%). Die meisten Dokumente adressierten Fakultätsmitglieder und Studierende gemeinsam (20, 51%) statt Studierende allein (6, 15%), und weder Politiktyp noch Zielgruppe variierten mit der Vermittlungsweise (Fisher's exact P = .85 und P = .71), was nahelegt, dass der Instrumentenmix institutioneller Gewohnheit folgt statt den Anforderungen von Online-, Campus- oder Hybridprogrammen. Inhalte häuften sich auf akademische Integrität, verantwortungsvolle KI-Nutzung und studentisches Verhalten, mit wenig Anleitung zu KI-Nutzung in angewandtem Lernen, Forschung und simulierten Umgebungen, genau dort, wo curriculare und datengovernance-bezogene Anliegen sich schneiden. Die Autorinnen und Autoren berichten außerdem, dass regionale Akkreditierer den größten Teil des Korpus stellten (Higher Learning Commission n = 14 und SACSCOC n = 13, zusammen etwa 60%, mit keinen aus der WASC-Region), und argumentieren, Akkreditierung sei der externe Hebel, der am besten platziert ist, um Variation zwischen Programmen zu reduzieren.
 - **Governance als verteiltes Unterstützungsökosystem:** [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] kodierte die KI-Anleitung der 50 innovativsten US-Universitäten und fand Governance weniger als Regel denn als Interpretation und Unterstützung realisiert: nur 6 von 50 rahmten ihre Hauptseite als „Politik", 33 von 50 positionierten Lehrende als primäre Übersetzer institutioneller Erwartungen in Kursregeln, und die Unterstützung dafür häufte sich über vier ineinandergreifende Einheiten – Lehre- und Lernzentren, die Syllabus-Sprache und Kurs-Politik-Menüs liefern, Bibliotheken, die Zitier- und Provenienzstandards setzen, IT- und Enterprise-Governance-Büros, die Datenklassifizierungsregeln und geprüfte Werkzeug-Stacks betreiben, sowie Büros für akademische Integrität, die rechtliches Gehör und auf Bildung zuerst setzende Remediation tragen. Qian argumentiert, dass es das [[scaffolding|Scaffolding]] ist, nicht die Haltung, das Mehrdeutigkeit reduziert, und berichtet, dass es ungleich verteilt ist: 33 von 50 Einrichtungen veröffentlichten Syllabus- oder Kurs-Politik-Materialien, während nur 4 Anleitung für Studierende in den Vordergrund stellten. Das ist der Instrumentenmix-Befund von oben in organisatorischer Form – Governance-Kapazität verortet in Einheiten statt in Dokumenten.
 - **Ethik, Datenschutz und Bias:** Governance-Mechanismen operationalisieren die ethischen Prinzipien ([[ethics|Ethik]], [[privacy|Datenschutz]], [[bias-mitigation|Minderung von Bias]]), die oft anerkannt, aber nicht durchgesetzt werden, und verbinden sich mit verantwortungsvoller KI und [[regulation|regulatorischen]] Debatten in der Bildung.
@@ -82,6 +89,8 @@ KI-Governance wirkt auf mehreren Ebenen – von **national/regulatorisch** (Regi
 
 Einrichtungsweit positioniert das **AIGEM-Framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) verantwortungsvolle KI als strategische organisatorische Fähigkeit für Bildungsmanagement und integriert KI-Strategieführung, verantwortungsvolle Governance, Entscheidungsintelligenz, kollaborative Intelligenz zwischen Mensch und KI, Kompetenzentwicklung und nachhaltige Wertschöpfung – und verbindet verantwortungsvolle Implementierung mit den SDGs. Es unterstreicht, dass Governance nicht nur eine Compliance-Schicht über dem Unterricht ist, sondern eine Führungsfunktion von Bildungseinrichtungen.
 
+**Die Ethik der Sorge legt die Verantwortung bei der Einrichtung, die das Werkzeug übernommen hat.** [[jones-care-ethics-ai-governance-higher-education-2026|Jones (2026)]] verortet Verantwortung bei der Institution, die das System gewählt hat, nicht beim Anbieter oder bei der Lehrkraft, die das Muster bemerkt hat, und fragt, ob dieselben Regeln die Administratorinnen und Administratoren binden, die sie schreiben, wie die Studierenden, die unter ihnen leben.
+
 ### Verbindungen zu verwandten Konzepten
 
 KI-Governance verbindet sich mit [[ethics|Ethik]] (den Prinzipien, die sie operationalisiert), [[higher-ed|Hochschulbildung]] (dem institutionellen Kontext), [[privacy|Datenschutz]] und [[bias-mitigation|Minderung von Bias]] (spezifischen Governance-Anliegen) sowie [[academic-integrity|akademischer Integrität]] (einer primären Governance-Arena). Sie ist zentral für [[change-management|institutionellen Wandel]] und verantwortungsvolle KI und schneidet sich mit [[ai-literacy|KI-Kompetenz]] (Governance unterstützt die Entwicklung kritischer, informierter Nutzung). Sie verbindet sich außerdem mit [[learning-analytics|Learning Analytics]] (Datengovernance) und [[student-experience|Erleben der Studierenden]] (Governance prägt, wie Studierende akzeptable Nutzung navigieren).
@@ -98,6 +107,14 @@ Governance unterscheidet sich von – ist aber untrennbar mit – [[educational-
 
 
 - **Governance kann in das Werkzeug gestaltet werden.** Ein sechsdimensionales Governance-Profil – pädagogische Verankerung, instruktionale Autorität, menschliche Rechenschaftspflicht und Kontrolle, Handlungsfähigkeit und kognitives Engagement der Lernenden, Kontextspezifität und Sichtbarkeit der Evaluation – verortet Governance im Interaktionsmodell, den Prompts, Rubriken, Freigabetoren und Dashboards eines Lehrwerkzeugs und fragt, ob die Mechanismen zur instruktionalen Funktion passen, statt wie strikt oder freizügig ein Werkzeug ist ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+
+- **Ein menschzentriertes Rahmenwerk stellt die Interpretation, nicht das Werkzeug, ins Zentrum.** An einem missionsgetriebenen Liberal-Arts-College nutzten Lehrende während eines strukturierten Education Day einen generative-KI-gestützten Assessment Wizard, und die Autorinnen und Autoren schließen, dass menschliches Urteil die nicht verhandelbare interpretative Autorität bleiben muss, mit Verifikationskontrollpunkten und Governance an Ort und Stelle vor breiter Implementierung ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). Die Reihenfolge ist erst Formation und Verifikation, dann Skalierung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Universitäten haben verbindliche KI-Politik übernommen."** Von **48 Einrichtungen** hatten **40 (83%)** mindestens ein öffentlich verfügbares Dokument, und über diese 40 hinweg **wurde Governance meist als Orientierung statt als verbindliche** Regel realisiert. Veröffentlichte Orientierung ist keine durchsetzbare Politik.
+- **„Politik wird studierendenzuerst geschrieben, weil Studierende das Risiko sind."** Die meisten Dokumente adressierten **Fakultätsmitglieder und Studierende gemeinsam (20, 51%) statt Studierende allein (6, 15%)**, und weder Politiktyp noch Zielgruppe variierten mit der Vermittlungsweise. Die Rahmung ist gemeinsam, was bedeutet, dass die Pflichten geteilt sind.
+- **„Mehrdeutige Politik lässt das Erleben der Studierenden unberührt."** Politikmehrdeutigkeit zeigt sich direkt im **Erleben der Studierenden**: [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|das Engagement der Studierenden mit GenAI]] wird von der Unsicherheit geformt, sodass Mehrdeutigkeit eine aktive Bedingung statt eine neutrale Lücke ist.
 
 ## Verbundene Konzepte
 - [[pedagogical-partnerships]] — Pädagogische Partnerschaften
@@ -121,6 +138,7 @@ Governance unterscheidet sich von – ist aber untrennbar mit – [[educational-
 - [[student-support-and-success]] — Aufsicht für institutionelle KI-Unterstützungssysteme
 
 ## Verbundene Artikel
+- [[jones-care-ethics-ai-governance-higher-education-2026]] — Ethik der Sorge für institutionelle KI-Governance, die fünf Komponenten und die institutionellen Fragen, zu denen sie werden
 - [[generative-ai-governance-education-scoping-review-2026]] — Governance generativer KI in der Bildung: ein Scoping Review zu Prinzipien, Mechanismen und Risiken (Elmahjub et al. 2026)
 - [[ai-literacy-sdg-governance-framework-2026]] — KI-Kompetenz als Governance-Kapazität für nachhaltige Entwicklung: die AIRE-Taxonomie und der KI–SDG-Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — AIGEM-Rahmenwerk für KI-Governance im Bildungsmanagement

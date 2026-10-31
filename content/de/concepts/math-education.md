@@ -1,7 +1,7 @@
 ---
 title: Mathematikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-29T04:19:20-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -11,8 +11,8 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/math-education
-source_updated: "2026-10-28T00:58:16-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-29T10:45:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -44,6 +48,8 @@ Mathematikbildung ist ein primäres Gebiet für [[ai-education|KI in der Bildung
 ### Zentrale Forschungsthemen
 
 **KI-Mathematiktutoring und Scaffolding** ist das größte Cluster, mit vier Artikeln, die untersuchen, wie KI-Tutoren Mathematiklernen unterstützen oder untergraben. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** zeigt, dass das Hinzufügen affektiven Bewusstseins — Erkennen von Emotionen der Lernenden aus Text und Gesichtsausdrücken — einen Vorteil von +23 Prozentpunkten bei der Gewinnrate in Mathematik Tutoring erzeugt, und verbindet sich damit mit [[affective-computing|affective computing]] und [[affective-tutoring|affektivem Tutoring]]. **[[zhang-tutormoments-2026|TutorMoments]]** evaluiert 462 von Lehrenden annotierte Transkripte aus Mathematik-Tutoring der Klassenstufen 2–7 und findet, dass Frontier-Modelle zu Überfürsorglichkeit voreingestellt sind und selten auf Rigorität drängen, selbst wenn Lernende bereit sind — was die Ausrichtung zwischen KI-Hilfsbereitschaft und [[scaffolding|Scaffolding]]-Prinzipien direkt infrage stellt. **[[lak2026-hint-button-unproductive-use|An et al.]]** analysierten 999 Lernende über drei Semester im *Decimal Point* ITS und fanden, dass vorzeitige Hinweisanfragen und oberflächliches Hinweislesen konsistent reduzierte [[learning-gains|Lernzuwächse]] vorhersagen, selbst nach Kontrolle auf [[prior-knowledge|Vorwissen]] — ein Befund, der sich mit [[help-seeking|Hilfesuche]] und [[learning-analytics|Learning Analytics]] verbindet.
+
+**Aufgabendesign, nicht nur Tutoring.** Ledezma et al. (2026) analysierten 158 kodierte Texteinheiten von 13 angehenden Primarstufenlehrkräften und fanden, dass von GenAI entworfene Geometrieaufgaben hohe kognitive Anforderung anstrebten, aber geschlossene Anweisungen formulierten, und eine eine falsche Skala einbettete (4 m als 8 cm gezeichnet, angegeben als 1 m = 4 cm) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al., 2026]]).
 
 **Ein Zufriedenheits-Nachteil.** Ein LLM-Tutor, der durch einen [[productive-failure|produktives-Scheitern]]-Plan gesteuert wurde, statt ihn antworten zu lassen, erhöhte die Strategietreue und erzeugte 2,6 Lösungsversuche pro Sitzung in einer High-School-Studie mit 17 Lernenden, doch die Studierenden bewerteten den produktives-Scheitern-Tutor als weniger hilfreich als eine Baseline ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
 
@@ -135,6 +141,7 @@ Mathematikbildung sitzt innerhalb der breiteren Domäne [[stem-education|STEM]] 
 
 ## Verbundene Artikel
 
+- [[ledezma-geometry-task-design-genai-preservice-2026]] — Von angehenden Primarstufenlehrkräften mit GenAI entworfene Geometrieaufgaben: hohe kognitive Anforderung, geschlossene Anweisungen, ein eingebetteter Skalenfehler (Ledezma et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Was die Einreichung nicht zeigt: kognitives Offloading im mathematischen Arbeiten von Lernenden mit LLMs komplexifizieren (Kontorovich & Wallach 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — Das Denken der Lernenden unterstützen oder ersetzen? Kognitives Offloading im KI-unterstützten Beweislernen (Chen et al. 2026)
 - [[preservice-math-teachers-genai-communication-2026]] — Mathematische Kommunikation zwischen Lehramtsstudierenden für Mathematik und GenAI analysieren: eine Fallstudie im Kurs Abstrakte Algebra

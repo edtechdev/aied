@@ -1,7 +1,7 @@
 ---
 title: Selbstbewertung
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,13 +12,17 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-25T22:20:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -96,6 +100,16 @@ Sie führt auch eine Namensfalle ein, die offen ausgesprochen werden sollte. **K
 - **Nutzen Sie Selbstauskunft, wo sie ehrlich ist.** Vertrauen, wahrgenommene Kompetenz und Bereitschaft, KI-Nutzung offenzulegen, sind legitime Dinge, die durch Fragen messbar sind. Leistung ist es nicht.
 - **Fordern Sie Urteil, nicht Meinung.** Die vertretbarste Selbstbewertung des KI-Zeitalters bittet einen Studierenden, ein bestimmtes Stück Arbeit gegen Kriterien zu beurteilen und die Entscheidung zu begründen, was trainierbar, inspizierbar und mit [[evaluative-judgment|evaluativem Urteil]] verbunden ist.
 - **Beachten Sie den Kohorteneffekt.** Bei Studierenden, deren formative Jahre substitutiven KI-Einsatz einschlossen, mag eine genaue Selbsteinschätzung nicht verfügbar statt bloß optimistisch sein, was die unterrichtliche Aufgabe von der Korrektur von Übervertrauen zum Wiederaufbau der erfahrungsbasierten Aufzeichnung verschiebt, die sie braucht.
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine Selbstauskunft misst die Fähigkeit, die sie benennt.“** Sie misst eine Überzeugung über die Fähigkeit, und die beiden fallen deutlich auseinander. In einer Studie mit **288 K-12-Lehrenden** korrelierte selbstberichtete [[ai-literacy|KI-Kompetenz]] mit einem objektiven Maß derselben Fähigkeit nur mit **r = 0,07 bis r = 0,24** — ein Bereich, in dem die Selbstauskunft fast keine Varianz der Fähigkeit erklärt. Selbstauskunft ist als Wahrnehmungsmaß brauchbar und nicht als Stellvertreter für Kompetenz.
+
+**„Studierende können ihr eigenes Lernen genau beurteilen.“** Genauigkeit des Selbsturteils ist selbst eine Fähigkeit, und die Evidenz zur Kalibrierung zeigt in die andere Richtung: In einem experimentellen Vergleich erzeugte ausdrückliches Training in schlussfolgerungsorientiertem Scaffolding eine bessere Kalibrierung der Selbstbewertung als uneingeschränkter Zugang, was bedeutet, dass Kalibrierung durch Anleitung besser wird, statt standardmäßig verfügbar zu sein.
+
+**„Eine KI-Feedbackschleife verbessert die Selbstbewertung automatisch.“** Eine Feedbackschleife verändert, womit der Studierende vergleicht, was die Kalibrierung verbessern und ihn ebenso an das Urteil des Systems verankern kann. Die hier referierte Vergleichsstudie (**118 Erstsemester, 56 in einer GenAI-Gruppe und 62 in einer Peer-Gruppe**, drei Zyklen über ein Semester) ist genau darauf angelegt zu prüfen, ob die Schleife oder der soziale Vergleich die Arbeit tut — und die Antwort ist nicht „die Schleife, weil sie eine Schleife ist“.
+
+**„Selbstbewertung ist eine weichere Alternative zum Prüfen.“** Sie ist ein anderes Ziel. Selbstbewertung entwickelt die regulatorische Fähigkeit, die eigene Arbeit zu beurteilen; eine Prüfung misst die Fähigkeit, die beurteilt wird. Forschung, die das eine durch das andere ersetzt, verwechselt die Fähigkeit, Leistung zu bewerten, mit der Leistung selbst.
 
 ## Verbundene Konzepte
 

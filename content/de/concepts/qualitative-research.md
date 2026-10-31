@@ -1,19 +1,23 @@
 ---
 title: Qualitative Forschung
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-24T21:41:34-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,7 @@ Beobachtungsstudien beobachten Verhalten im Kontext; Ethnografie erweitert das z
 
 ### Fallstudien
 Eine Fallstudie ist eine vertiefte Untersuchung eines begrenzten Falls (ein Kurs, eine Institution, eine einzelne lernende Person) unter Nutzung mehrerer Datenquellen. [[drummond-genai-business-schools-framework-2026|Eine Business-School-Fallstudie]] erzeugt ein von Studierenden informiertes Lehr- und Lernrahmenwerk für GenAI; [[zha-ai-literacy-biology-case-study|eine Biologie-Fallstudie]] dokumentiert die Integration von KI-Kompetenz. Fallstudien tauschen Breite gegen Tiefe und sind stark für Theoriegenerierung und übertragbare Einsicht statt Generalisierung. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] bieten eine qualitative Fallstudie von 21 sehbeeinträchtigten Studierenden an drei palästinensischen Universitäten und nutzen thematische Analyse halbstrukturierter Interviews, um zu zeigen, wie GenAI als [[assistive-technology|assistive Technologie]] für [[inclusive-learning|inklusives Lernen]] funktioniert — ein Beispiel für Fallstudienforschung, die Mechanismen sichtbar macht (personalisierte Anpassung, Augmentation der Lehrkraft, Bildungsparität), die quantitative Maße übersehen.
+- Gewählte Variation ist nicht gefundene Variation: drei EFL-Lernende, aus 241 befragten Studierenden wegen unterschiedlicher Sprachkompetenz, Geschlecht und GenAI-Vorgeschichte ausgewählt, folgten über drei Aufgaben hinweg scharf divergenten emotionalen Verläufen, doch Fälle maximaler Variation können nicht schätzen, wie häufig ein Verlauf ist ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang und Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] trianguliert Video, die eigenen Protokolle des Alarmsystems und Stimulus-Recall-Interviews für eine Lehrkraft und acht Studierende und zeigt, dass ein affektives Signal erst durch die Reaktion der Lehrkraft Bedeutung erwarb; die zweistufige Episodenkodierung durch eine einzelne Autorin, ohne unabhängige Kodierung oder validierte Affekterkennung, markiert die Grenze dessen, was eine Ein-Kodierende-Fallanalyse begründen kann.
 
@@ -85,6 +90,16 @@ Eine unverwechselbare neuere Entwicklung ist, [[llm|LLMs]] zu nutzen, um qualita
 - **Grenzen:** begrenzte statistische Generalisierbarkeit; interpretativ und forscherabhängig (Verlässlichkeitsbedenken); kleine Stichproben; schwächere Unterstützung für Kausalbehauptungen; Befunde können schwer über Studien hinweg zu synthetisieren sein; zeit- und arbeitsintensiv.
 
 Qualitative und quantitative Methoden sind Ergänzungen, keine Rivalen — siehe [[research-methods-aied|Forschungsmethoden in der AIED]] dafür, wie sie sich gegenüberstellen und triangulieren, und [[mixed-methods-research|Mixed-Methods]] für Designs, die sie kombinieren.
+
+## Verbreitete Fehlvorstellungen
+
+**„Qualitative Befunde sind nicht generalisierbar, weil die Stichproben klein sind."** Sie sind meist nicht *statistisch* generalisierbar und häufig *konzeptuell* generalisierbar — die Mechanismen und Dynamiken, die sie identifizieren, übertragen sich auf andere Settings, auch wo die Häufigkeiten es nicht tun. Eine Fokusgruppe, die erklärt, warum Studierende einem Tutor misstrauen, hat einen Mechanismus hervorgebracht, den eine Umfrage nicht liefern kann; sie wegen eines fehlenden Konfidenzintervalls zu verwerfen, verwirft den Teil, der sich übertragen lässt.
+
+**„KI kann qualitative Analyse inzwischen erledigen, also skaliert die Methode."** Sie skaliert das Kodieren und nicht die Interpretation. Wo der Korpus zeigt, dass dies gut funktioniert, liegt es daran, dass die Kodieraufgabe zuerst vergleichbar gemacht wurde — eine Studie wandte **15 feste Vignetten** auf die öffentlichen Richtlinien von **20 Universitäten** an und erhielt **300 vergleichbare Klassifikationen**, was ein Design mit strukturiertem Instrument statt ein offenes interpretatives ist. Die Einsicht qualitativer Arbeit liegt in der Konstruktion der Kategorien, und das ist es, was ein Modell erbt statt erzeugt.
+
+**„Sättigung ist eine Eigenschaft der Zahl der Teilnehmenden."** Sie ist eine Eigenschaft der Analyse: Man hört auf, wenn neue Daten keine neuen Codes mehr produzieren. Zwei Studien mit identischen Stichprobengrößen können gleich weit von der Sättigung entfernt sein, weshalb ein Bericht, der eine Teilnehmendenzahl als Beleg für Adäquatheit anführt, nichts über Abdeckung gezeigt hat.
+
+**„Quantitative und qualitative Befunde konkurrieren."** Sie beantworten unterschiedliche Fragen: Eine Umfrage sagt Ihnen, wie viele Studierende einem Tutor misstrauen, und Interviews sagen Ihnen, warum. Sie als rivalisierende Darstellungen derselben Sache zu behandeln, erzeugt die falsche Wahl, die Reviewabschnitte immer wieder reproduzieren.
 
 ## Verbundene Konzepte
 
@@ -122,3 +137,4 @@ Qualitative und quantitative Methoden sind Ergänzungen, keine Rivalen — siehe
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Kritische KI-Tutoren: empowern oder versklaven
 - [[genai-runaway-object-math-higher-ed]] — GenAI als „runaway object" in der Mathematik der Hochschulbildung
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI für sehbeeinträchtigte Lernende
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — Emotionales Engagement von EFL-Lernenden beim GenAI-gestützten Schreiben: eine longitudinale Mehrfallstudie

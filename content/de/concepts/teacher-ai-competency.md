@@ -1,7 +1,7 @@
 ---
 title: KI-Kompetenz von Lehrkräften
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-28T15:48:01-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,7 @@ Die Forschung der Wissensbasis konvergiert auf mehrere verbundene Dimensionen:
 - **Assessment-Kompetenz:** KI-erzeugte Inhalte und KI-Ausgaben der lernenden Person bewerten, und verstehen, wie sich [[assessment-validity|Validität]] verschiebt, wenn Lernende KI nutzen. Das verbindet sich mit [[automated-assessment|automatisiertem Prüfen]], [[ai-detection|KI-Detektion]] und der weiteren [[assessment|Assessment-]]Neugestaltungsagenda. Für Empfehlungssysteme erstreckt sich das darauf, zu beurteilen, ob die Erklärungen einer KI wirklich verständlich und pädagogisch sinnhaft sind: [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] fanden, dass Lehrkräfte KI-Gruppierungsempfehlungen mehr vertrauten, wenn Erklärungen in der Sprache der Domäne (des Curriculums) gerahmt waren, als wenn sie rohe Modellmerkmale exponieren —, eine Fähigkeit, [[explainable-ai|Erklärungsqualität]] einzufordern und zu bewerten, statt opake Ausgabe hinzunehmen.
 - **Modellauswahl und Prompt-Design als demonstrierbare Fähigkeiten:** instrumentelle [[ai-literacy|KI-Kompetenz]] schließt ein, welches Modell zu nutzen ist und wie die Aufgabe zu formulieren ist. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] ließen die Unterrichtsplanungsziele von 153 angehenden Lehrkräften von ChatGPT-4, Claude 3 und Gemini Advanced unter vier systematisch variierten Prompts kritisieren (N = 240 Feedbacks in Studie 1, 345 in Studie 2), mit [[feedback|Feedback]], das auf neun Qualitätskategorien bewertet wurde. Modellwahl allein erklärte 26.9% der Varianz in der bewerteten Qualität (18.4% in Studie 2), und Prompt-Design fügte signifikante 15.9% (5.7%) hinzu; das einzelne entscheidende Promptmerkmal war domänenspezifische technische Sprache, deren Entfernung die Qualität signifikant senkte (β = −0.412), während das Hinzufügen von Beispielen und das Weglassen der Chain-of-Thought-Anweisung in Studie 1 keinen signifikanten Unterschied machte. Ihre Lesart —, dass Fachterminologie sowohl relevante Trainingsdateninhalte erschließt als auch die Anfrage professionell rahmt, wie Rollen-Prompting —, plus eine Faustregel, das leistungsfähigste aktuelle Frontier-Modell zu nutzen, macht Modellwahl zu einer didaktischen Entscheidung statt zu einer technischen.
 - **Ethische und kritische Nutzung:** [[bias-mitigation|Bias]] in KI-Ausgaben erkennen, Daten der lernenden Person schützen ([[privacy|Datenschutz]]), und gerechte Ergebnisse sicherstellen ([[equity-in-ai-education|Gerechtigkeit]]). [[llm-cultural-relevance-k12|Kulturell relevante KI-Nutzung]] untersucht, wie Lehrkräfte LLMs nutzen können, um Materialien zu diversifizieren statt dominante Normen zu verstärken.
+- **Visuelle Repräsentation ist eine eigene messbare Dimension.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] validierten eine fünfdimensionale Skala für das Erzeugen, Beurteilen und Handeln auf visuellen Repräsentationen mit 566 Lehrkräften in fünf westchinesischen Provinzen, mit Subskalen-Alpha von 0,911 bis 0,934; sie misst berichtete Fähigkeit, ohne Retest und ohne Beobachtung der Praxis.
 - **Ethische Verantwortung ist verteilt, nicht individuell.** Über sieben nationale Fälle hinweg werden Lehrkräfte als moralische Torhüterinnen und Torhüter der KI-Nutzung positioniert, während es ihnen an institutioneller und erkenntnistheoretischer Unterstützung mangelt, sodass ethische KI-Kompetenz sich auf kritische und politische Handlungsfähigkeit erstrecken muss statt auf technische Fähigkeit ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **Zuversicht und Haltungen:** [[self-efficacy|Zuversicht]] der Lehrkraft prägt Übernahme. [[teacher-ai-adoption-confidence|Adoptionsforschung]] findet, dass Zuversicht, Unterstützung und wahrgenommener Nutzen treiben, ob Lehrkräfte KI tatsächlich nutzen, und [[ai-pedagogical-orientation|Orientierungen der Fakultät]] Übernahme in Forschung und Lehren prägen.
 
@@ -160,6 +165,7 @@ Die Instrumentenlandschaft selbst ist inzwischen reviewt worden. [[assessing-tea
 - [[pedagogy]] — Schirm: Pädagogiken und Lehrstrategien in der KI-Bildung
 
 ## Verbundene Artikel
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — Entwicklung und Validierung der Skala zur KI-gestützten visuellen Lehrkompetenz
 
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Welche Lehrkräfte Planungszeit gewannen: niedrigeres Fachwissensvertrauen, niedrigeres pädagogisches Wissen, Berufseinsteigerinnen und Berufseinsteiger oder hohes Technologievertrauen
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Lehrkräfte akzeptieren KI, während sie missverstehen, wie sie funktioniert (Aji et al. 2026)

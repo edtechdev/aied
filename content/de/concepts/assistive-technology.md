@@ -1,7 +1,7 @@
 ---
 title: Assistive Technologien
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,13 +9,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,13 @@ Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven [[ai-technologies|T
 - **Nutzen Sie KI, um die Kosten assistiver Anpassungen zu senken.** KI kann automatisch untertiteln, Texte vereinfachen und Alternativen erzeugen, prüfen Sie aber die Qualität der Ausgabe auf pädagogische Genauigkeit.
 - **Verankern Sie die Bereitstellung in der Politik.** Beziehen Sie sich auf den Assistive Technology Act, IDEA und WCAG, wenn Sie KI-Werkzeuge beschaffen oder bauen.
 - **Benennen Sie, welche Funktion die Unterstützung erfüllt — und evaluieren Sie gegen diese Funktion.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] unterscheiden Kompensation (evaluiert über Zugang und Teilhabe) von Gerüstbau (Entscheidungen mit Unterstützung) von Entwicklung (Strategienutzung nach Ausblenden oder Transfer). Sie fügen eine Regel hinzu, die auf die Mahnung dieser Seite abzielt: Unterstützung bei Barrierefreiheit ist keine Remediation — ob ein Werkzeug eine Anpassung, Strategieinstruktion oder vorübergehende Übungsunterstützung ist, „sollte im Lernplan festgehalten werden“.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Assistive Technologie zielt dorthin, wo die Barrieren liegen.“** Ein Scoping Review aus dem Jahr 2026 zu digitalen assistiven Technologien für neurodivergente Studierende kartiert die Erträge des Jahrzehnts und findet eine **Nichtübereinstimmung zwischen dem, worauf Werkzeuge zielen, und dem, wo die Barrieren liegen**: **27 Studien unterstützten das Lernen direkt**, 13 behandelten Lesen und Schreiben und 12 das Studienmanagement, während **Aufmerksamkeit (n = 4)** und andere Kernbarrieren kaum adressiert wurden. Das am meisten untersuchte Ziel ist nicht das am stärksten einschränkende.
+- **„Eine mittlere Effektstärke identifiziert das richtige Werkzeug.“** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] finden, dass KI-basierte Interventionen einen mittleren positiven Effekt auf Lernleistungen von Studierenden mit Behinderungen erzielen (**g = 0,588**) — über Roboter, Software und intelligente VR hinweg. Das ist ein Durchschnitt über sehr unterschiedliche Technologien für sehr unterschiedliche Bedarfe, der die Kategorie stützt und nicht die Wahl innerhalb der Kategorie.
+- **„Ein Zugang, der eine Diagnose voraussetzt, ist ein vertretbares Design.“** Eine formale Diagnose zu verlangen, um teilnehmen zu dürfen, schließt Lernende mit realem Bedarf und ohne Etikett aus, was [[universal-design-for-learning|Universal Design for Learning]] widerspricht und die Kosten des Zugangs auf die Dokumentation der oder des Studierenden verlagert.
+- **„Mehr assistive Werkzeuge bedeuten mehr Inklusion.“** Ein Scoping Review prüfte **766 Datensätze** über fünf Datenbanken, und die Menge der Erträge ist nicht dasselbe wie die Abdeckung des Bedarfs — die Zahl der Studien pro Barriere ist die aussagekräftigere Größe.
 
 ## Verbundene Konzepte
 - [[accessibility]] — die Gestaltungseigenschaft, die assistive Technologien operationalisieren

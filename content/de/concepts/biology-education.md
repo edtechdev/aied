@@ -1,7 +1,7 @@
 ---
 title: Biologiebildung
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,12 @@ Biologiebildung liegt innerhalb der weiteren [[stem-education]]-Domäne und teil
 - **Kritisches Denken im Zeitalter der KI absichtsvoll kultivieren.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]] argumentieren, Skepsis, kontextuelles Verständnis und ethisches Schlussfolgern müssten explizit gelehrt werden, mit menschlicher Aufsicht, um KI-Ausgaben zu validieren und Bias vorzubeugen.
 - **Verantwortungsvolle Nutzung neben challenge-basiertem Lernen lehren.** [[chatgpt-math-biology-challenge-based-learning-2025|CBL-Studien]] finden, dass Studierende Unmittelbarkeit schätzen, sich aber um Wahrheitsgehalt und Kompetenzerosion sorgen — Codes akademischer Integrität und Ethik der KI-Nutzung parallel zur Einführung aktualisieren.
 - **Die Landschaft spezialisierter Werkzeuge überblicken.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]] kartieren Werkzeuge (iNaturalist, Google Lens, Bioimaging, Risikovorhersage), die Lehrende für Feldarbeit, Artbestimmung und Unterstützung von Studierenden einsetzen können — zweckgebaute Werkzeuge allgemeinen Chatbots vorziehen, wo sie passen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende können KI nicht von einem menschlichen Lehrassistenten unterscheiden."** Eine Studie zu einem virtuellen Labor-Lehrassistenten fand **menschliche Tutoren genauer und wirksamer als ChatGPT**, doch **bevorzugten Studierende die KI-Antwort in 40 % der Fälle** und konnten **KI-Ausgabe nur in 45 % der Fälle erkennen**. Die Erkennung lag nahe an einem Münzwurf, und die Präferenz lief zur weniger genauen Quelle — Zufriedenheitsdaten können hier also nicht für Qualität einstehen.
+- **„Präferenz zeigt Qualität an."** Dieselbe Studie trennt beides direkt: Die bevorzugte Ausgabe war die schlechtere. Jede Evaluation eines Biologie-KI-Werkzeugs, die Zufriedenheit der Studierenden ohne Genauigkeitsmaß berichtet, berichtet die falsche Größe.
+- **„KI-Kompetenz muss als eigenes Fach unterrichtet werden."** Das Einbetten von Konzepten maschinellen Lernens **in einen Biologiekurs der Oberstufe** ergab, dass der Biologiekontext das KI-Lernen **unterstützte** — ein Beleg dafür, KI-Kompetenz in das Curriculum einzubetten, statt eine eigenständige Einheit anzubolzen. Die Disziplin gab den Konzepten etwas, woran sie sich anhängen konnten.
 
 ## Verbundene Konzepte
 

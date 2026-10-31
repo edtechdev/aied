@@ -1,7 +1,7 @@
 ---
 title: "Entwicklerinnen und Entwickler von Bildungstechnologien"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-10-24T21:37:05-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,13 +11,17 @@ confidence: high
 methods: [design-based-research]
 connected_resources: [playlab]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,27 @@ Die Rolle ist auch von ihren Nachbarinnen und Nachbarn verschieden. [[learning-d
 ### Beschaffung, Offenheit und nach dem Ende der Förderung
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] liefert die Inputs, die eine Beschaffungsentscheidung braucht: eine Hardware-Untergrenze von 12 GB VRAM, eine Genauigkeitsobergrenze für ein Modell der 7B-Klasse, Energie pro Anfrage und eine Reihenfolge der Entscheidungen – zuerst Retrieval (ohne es erzielte das Modell 52,3%, unter einer TF-IDF-Baseline), dann Feinabstimmung, dann quantisierungsbewusste Kompression; offene Lizenzierung ist die Vorbedingung, ein Korpus lokal auszuliefern. [[reclaiming-epistemic-agency-co-agency-2026]] rahmt dieselbe Entscheidung als Governance: Transparenzanforderungen verwandeln Kaufen in epistemologische Governance, Anfechtbarkeit und Herkunft werden zu Bedingungen, und Bezirke mit der geringsten Kapazität stehen vor der höchsten Hürde. [[credential-cognitive-stewardship-ai-assessment]] ergänzt, dass Anbietergovernance in nur 29% von 30 auditierten Richtlinienpaketen auftauchte, die weit bereitwilliger angaben, was KI tun darf, als welche Belege des Lernens erhalten blieben. [[genai-mindtool-generative-learning]] stellt die Designfrage – fördert das Produkt Lernen *mit* dem Werkzeug oder lädt es kognitive Arbeit ab –, und [[vocabulary-difficulty-prediction]] zeigt den Handel im Kleinen: Das am besten abschneidende Black-Box-Modell (r > 0,91) war weniger erklärbar als das interpretierbare (r > 0,77).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Metaanalysen stützen die Produktbehauptung."** Tun sie nicht, und der Grund ist spezifisch statt eine Frage des Grades. Eine Prüfung von **14 Metaanalysen**, die behaupten, KI verbessere Bildung, fand, dass **keine ihre Behauptungen rechtfertigte** — alle außer zwei scheiterten methodisch —, und eine **zurückgezogene Metaanalyse wurde von 60 % der untersuchten späteren Arbeiten weiterhin als autoritativ zitiert**. Die Rücknahme verbreitete sich schneller als die Korrektur, was bedeutet, dass die Literatur, die eine Roadmap wahrscheinlich zitiert, Behauptungen enthält, die das Feld bereits zurückgezogen hat.
+- **„Zitationen und Herkunft hinzuzufügen macht ein System vertrauenswürdiger."** In einem [[agentic-ai|Multi-Agent]]-Debattensetting **hob das Hinzufügen von Zitationen und Autoritätssignalen zur KI-Position die Abkehr von einem korrekten Urteil von 15,0 % auf 31,8 %**. Herkunft war keine neutrale Information: sie machte die falsche Antwort überzeugender. Glaubwürdigkeitssignale müssen Belege für Richtigkeit sein, nicht Dekoration um eine Behauptung.
+- **„Co-Design mit Nutzenden validiert das Design."** Co-Design beantwortet eine andere Frage als Wirksamkeit. Wenn ein Werkzeug mit Studierenden co-gestaltet wird und **96 % sagen, sie wollen es behalten**, ist das ein Befund über Akzeptanz. Ob das Lernen besser wurde, ist eine separate Messung, und die beiden können in entgegengesetzte Richtungen zeigen, ohne dass eine von ihnen falsch ist.
+- **„Agenten sind die nächste Fähigkeitsstufe."** Die Ablation der [[instructional-agents-multi-agent-course-gen|Instructional Agents]] ist das nützliche Gegenbeispiel: die Single-Agent-Baseline schnitt **am schlechtesten** ab, und die Full-Co-Pilot-Konfiguration **schlug die autonome**. Mehr Autonomie war nicht das bessere Design; die Co-Pilot-Anordnung war es. Architekturentscheidungen müssen bewertet werden, statt anzunehmen, dass sie mit der Fähigkeit besser werden.
+
+## Was das für die Praxis bedeutet
+
+**Für Entwicklerinnen, Entwickler und Gestaltende**
+
+- Gründen Sie eine Designbehauptung in einer Studie, die Sie gelesen haben, nicht in einer Effektstärke, die Sie zitiert haben. Bei 14 geprüften Metaanalysen, die methodisch scheitern, und einer zurückgezogenen, die noch immer kursiert, ist die Zahl der Zitationen kein Validitätssignal.
+- Testen Sie Autonomie als Variable, statt sie als Upgrade auszuliefern. Führen Sie die Ablation durch: Single-Agent, Co-Pilot, autonom. Das Ergebnis der Instructional Agents zeigte, dass die Co-Pilot-Konfiguration gewann, also sollte die Voreinstellung die sein, die am besten gemessen wurde, nicht die, die am fähigsten klingt.
+- Trennen Sie Akzeptanz und Wirksamkeit in Ihrem eigenen Evaluationsplan. Eine hohe Bereitschaft, das Werkzeug zu behalten, ist ein echter Befund und kein Beleg für Lernen, und beides in einem Bericht zu vermengen, ist der Weg, auf dem ein schwaches Produkt stark aussieht.
+- Behandeln Sie Glaubwürdigkeitssignale als eine Manipulation mit gemessenem Effekt. Das Hinzufügen von Zitationen verschob die Abkehr von einer korrekten Antwort von 15,0 % auf 31,8 %, sodass das Sichtbarmachen von Herkunft das Urteil der Nutzenden verändert — gestalten Sie dafür, statt anzunehmen, dass es informiert.
+
+**Für Lehrkräfte, die ein Werkzeug prüfen**
+
+- Fragen Sie, wie das Werkzeug für die Aufgabe evaluiert wurde, für die Sie es nutzen wollen, und ob die Evaluation Co-Pilot oder autonom war. Die beiden sind nicht austauschbar.
+- Fragen Sie, wann die Evaluation stattfand. Fähigkeitsbehauptungen, die an eine ungenannte Modellversion gebunden sind, veralten schnell und beschreiben ein System, das Sie nicht betreiben werden.
 
 ## Verbundene Konzepte
 

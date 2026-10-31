@@ -1,7 +1,7 @@
 ---
 title: ICAP-Rahmen
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-10-24T20:27:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,13 +9,17 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,16 @@ ICAPs Betonung generativen, prozessbezogenen Engagements wurde von Assessmentrah
 2. **Lernende über Modi hinweg engagieren.** Wirksamer [[ai-literacy|KI-Kompetenz]]-Unterricht engagiert Lernende auf mehreren ICAP-Stufen – passive Exposition, aktive Manipulation, konstruktive Erzeugung und interaktiven Dialog –, wobei der Modus gewählt wird, der zum Lernziel passt.([[hingle-collaborative-ai-literacy-2025]])
 3. **Engagement ehrlich messen.** ICAP gibt Forschenden und Gestaltenden ein gemeinsames Vokabular, um echtes kognitives Engagement von bloßer Aktivität zu unterscheiden – ein Korrektiv zu flachem [[student-engagement|Engagement]].([[icap-cognitive-engagement-llm-agents]])
 4. **Die Mensch-LLM-Annotationslücke beobachten.** Wenn automatisierte Systeme genutzt werden, um Engagement zu kodieren, muss ihre systematische Unterlegenheit gegenüber trainierten Menschen berücksichtigt werden.([[icap-cognitive-engagement-llm-agents]])
+
+## Verbreitete Fehlvorstellungen
+
+**„ICAP ist eine Taxonomie zum Etikettieren von Aktivitäten."** Es ist eine Design- und Evaluationslinse mit einer Ordnungsbehauptung: passive, aktive, konstruktive und interaktive Engagement unterscheiden sich in dem Lernen, das sie erzeugen, weshalb „Werkzeuge bauen, die konstruktives und interaktives Engagement auslösen statt passiven Konsum" ein Designziel ist statt eine Klassifikationsübung. Eine Lektion mit einem Modus zu etikettieren, ohne zu ändern, was Studierende tun, hat das Rahmenwerk nicht angewandt.
+
+**„Zeit auf der Aufgabe oder Interaktionsvolumen indiziert das Engagementsniveau."** Volumen zählt Aktivität, nicht Modus. Scrollen ist in verschiedenen Sinnen gleichzeitig aktiv und passiv, und eine lernende Person, die viele Klicks erzeugt, empfängt möglicherweise noch statt zu konstruieren. Der Wert des Rahmenwerks liegt gerade darin, Arten des Engagements zu unterscheiden, die Aktivitätsmetriken zusammenwerfen.
+
+**„Ein KI-Tutor erzeugt automatisch interaktives Engagement, weil er sich unterhält."** Gespräch ist das Medium, nicht der Modus. Ein Dialog, in dem das System jeden substanziellen Beitrag liefert, ist passiv für die lernende Person mit einer interaktiven Oberfläche, was dieselbe Verwechslung ist, die die [[student-engagement|Engagement-Literatur]] zwischen verhaltensbezogener Aktivität und kognitiver Investition dokumentiert.
+
+**„Höhere ICAP-Modi sind immer besser."** Sie kosten mehr, und die Ordnung betrifft das Lernen pro Einheit der relevanten Verarbeitung statt das, worauf eine Lektion immer zielen sollte. Grundlegende Flüssigkeit kann aktive Wiederholung erfordern, bevor konstruktive Arbeit möglich ist; der Fehler ist, dort stehenzubleiben, nicht, hindurchzugehen.
 
 ## Verbundene Konzepte
 

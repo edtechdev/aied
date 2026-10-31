@@ -1,19 +1,23 @@
 ---
 title: Wissensgraph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-10-24T22:37:29-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
 translation_of: concepts/knowledge-graph
-source_updated: "2026-10-09T09:25:11-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,33 @@ Neuere Forschung untersucht den Einsatz von [[llm|LLMs]], um Wissensgraphen auto
 ## Beziehung zu anderen Konzepten
 
 Wissensgraphen verbinden sich mit [[learning-design|Lerndesign]] (definieren, was zu lehren ist), [[curriculum-design|Curriculum-Design]] (wie es zu sequenzieren ist) und [[learning-analytics|Learning Analytics]] (Einsichten aus Interaktionsdaten der Studierenden extrahieren). Sie sind grundlegend für Systeme des [[intelligent-tutoring|intelligenten Tutorings]], die strukturierte Repräsentationen bildungspolitischer Bereiche brauchen. Da KI-Agenten in der Bildung üblicher werden, liefern Wissensgraphen die Bereichsstruktur, über die [[agentic-ai|agentische Systeme]] schließen — ein Muster, das in [[quantum-education-its|ITAS]] und Lehrassistenten zur Erkennung von Wissenslücken zu sehen ist.
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein Wissensgraph ist eine Concept Map mit besserem Werkzeug."** Die entscheidende Behauptung ist relational und computational: ein Graph ist nützlich, weil Voraussetzungen, Ähnlichkeit und Hierarchie explizit genug sind, dass ein Algorithmus sie durchlaufen kann, nicht weil er verbundene Knoten zeichnet. Daraus folgt die operative Frage, zu der diese Seite immer wieder zurückkehrt — welcher Traversierungs- oder Propagationsalgorithmus über den Graphen läuft —, denn in dieser Wahl liegt der instruktionale Effekt tatsächlich.
+
+**„Der Graph zu haben ist das, was Ergebnisse verbessert."** Der Algorithmus über dem Graphen verändert das Ergebnis. In G4L erzeugte die Propagation von Mastery durch einen Evolving Knowledge Space Graph mit Bayesscher Wissenspropagation **+24 % gemessenes Wissen** (0.717 → 0.887), gegenüber **+5 %** für einen Vergleich auf Basis eines Knowledge Space. Dieselbe allgemeine Idee eines strukturierten Wissensraums, materiell unterschiedliches Ergebnis je nach Propagationsmethode. Einen Graphen zu kaufen oder zu bauen ist der Anfang des Designproblems, nicht seine Lösung.
+
+**„Ein von einem LLM gebauter Graph, der ein strukturelles Audit besteht, ist ein validierter Graph."** Strukturelle Validität und instruktionale Validität fallen genau so auseinander. Das nachgerechnete Audit eines solchen Graphen fand, dass jeder Endpunkt sich auflöst und kein Duplikat oder Selbstlink bleibt — eine saubere Struktur —, doch 1,448 seiner 1,455 Axiome ordnen sich genau einem Werk zu, sodass kreuzwerkliche Wiederverwendung spärlich ist, seine Kontext-Taxonomie ihre zwei Kontexttypen nicht trennen kann und zentrale Behauptungen unbewiesen bleiben. Tote Links und Duplikate sind die Fehler, die ein automatisiertes Audit fängt; dünne Wiederverwendung und undifferenzierte Kategorien sind die, die es durchwinkt.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Fragen Sie, wofür der Graph genutzt wird, bevor Sie fragen, ob er korrekt ist: Empfehlung, Voraussetzungssequenzierung oder Diagnose. Die Evidenz unterscheidet sich je nach Nutzung deutlich, und die Voraussetzungssequenzierung trägt das stärkste Ergebnis.
+- Wenn ein Werkzeug adaptive Sequenzierung behauptet, verlangen Sie den gemessenen Vergleich gegen eine nicht-adaptive Baseline statt einer Beschreibung der Wissensstruktur.
+- Rechnen Sie mit Spärlichkeit bei kreuzwerklicher Wiederverwendung, und behandeln Sie einen Graphen, dessen Entitäten eins zu eins auf einzelne Quellen abbilden, als Katalog mit Kanten statt als integrierte Karte.
+
+**Für Entwickelnde**
+
+- Behandeln Sie den Propagationsalgorithmus als eine Designentscheidung erster Klasse und berichten Sie den Algorithmus als Teil der Intervention; die Lücke von +24 % gegenüber +5 % ist ihm zuzuschreiben.
+- Auditieren Sie über die Auflösbarkeit hinaus. Prüfen Sie, ob Kategorien trennbar sind und ob Entitäten werkübergreifend wiederverwendet werden, denn strukturelle Sauberkeit koexistiert konsistent mit instruktionaler Dünnheit.
+- Validieren Sie den Graphen gegen Lernergebnisse, nicht gegen Graphstatistiken.
+
+**Für Forschende**
+
+- Berichten Sie Graph-Baseline-Kontraste auf der Ebene des Algorithmus. „Wissensgraphbasiert" ist keine Behandlung; die Traversierungsstrategie ist es.
+- Berichten Sie Axiom-zu-Quelle-Zuordnungen und die Trennbarkeit der Taxonomie neben Präzision und Recall, denn die Auditfehler hier waren für konventionelle Graphmetriken unsichtbar.
 
 ## Verbundene Konzepte
 

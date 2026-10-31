@@ -1,7 +1,7 @@
 ---
 title: Refutationstext
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-10-10T09:04:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,16 @@ Refutationstexte sind ein Mitglied des Conceptual-Change-Werkzeugkastens, neben 
 ### Praktische Implikationen
 
 Für Lehrende bleiben Refutationstexte ein verlässlicher, niedrigschwelliger Weg, hartnäckige Missverständnisse zu korrigieren. Für diejenigen, die KI integrieren, legt die Evidenz nahe: (1) KI nutzen, um wirksame Widerlegungs- bzw. Conceptual-Change-Inhalte im Maßstab zu *erzeugen*; (2) wo möglich, Widerlegung über personalisierten KI-Dialog zu vermitteln, für stärkeres unmittelbares Engagement und Überzeugungsänderung; (3) erwarten, dass KI-generierte Missverständnisse pädagogisch nützlich sind, wenn strukturierte Diskussion genutzt wird, um sie zu konfrontieren; und (4) für die lernende Person gestalten — Refutationseffekte können bei leistungsstarken Lernenden konzentriert sein und werden durch Epistemologie und Metakognition moderiert, daher sind Scaffolding und Nachbereitung wichtig.
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein Missverständnis zu korrigieren heißt, die richtige Antwort zu präsentieren."** Wäre es so, würden Missverständnisse den Unterricht nicht überleben, und sie tun es regelmäßig. Missverständnisse sind keine Lücken, sondern aktiv gehaltene Überzeugungen, die gewöhnlichem Unterricht widerstehen: eine lernende Person, die bereits eine funktionierende Erklärung hat, erhält die neue nicht als Ersatz, sondern als konkurrierende Behauptung und verwirft oft die weniger vertraute.
+
+**„Refutationstext ist einfach ‚das ist falsch' vor die richtige Information zu schreiben."** Die Struktur zählt — das Missverständnis muss so formuliert werden, wie die lernende Person es hält, direkt adressiert und erst dann verdrängt werden. Eine bloße Korrektur benennt eine Überzeugung, die die lernende Person als Strohmann ihrer eigenen zurückweisen kann, weshalb die Widerlegung ihre Intuition reproduzieren muss statt die aufgeräumte Version davon.
+
+**„Mehr Information über die richtige Vorstellung behebt den Widerstand."** Die Menge korrekter Information ist die Intervention, die bereits scheitert. Konzeptueller Wandel erfordert, dass das bestehende Modell der lernenden Person explizit gemacht und als unzureichend befunden wird, was ein anderer instruktionaler Schritt ist als das Hinzufügen von Evidenz.
+
+**„Missverständnisse und gewöhnliche Unwissenheit brauchen dasselbe Gegenmittel."** Sie brauchen unterschiedliche: Unwissenheit wird durch Wissenszufuhr adressiert, ein Missverständnis muss zuerst aus dem Sattel gehoben werden. Das Zweite wie das Erste zu behandeln ist der Grund, warum eine gut erklärte Lektion das ursprüngliche Modell einer oder eines Studierenden intakt lassen kann.
 
 ## Verbundene Konzepte
 

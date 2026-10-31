@@ -5,15 +5,19 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T23:29:54-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,13 @@ Praktische Systeme wenden diese Prinzipien in großem Maßstab an. AISSA kombini
 ## Implikationen
 
 Über die hier diskutierten Arbeiten hinweg tritt Visualisierung als doppelt genutztes Medium hervor: KI erzeugt und interpretiert zunehmend Visualisierungen, während Dashboards und interaktive Visuelles als die geteilte Oberfläche für gemeinsame Sinnstiftung von Mensch und KI dienen. Generative Text-zu-Bild- und multimodale Analyse erweitern die Reichweite der Visualisierung in spezialisierte [[stem-education|MINT]]-Inhalte und [[ai-feedback-quality|automatisiertes Feedback]], aber unebene Modellkompetenz, Versagen der Schweregradkalibrierung und [[ethics|ethische]] Bedenken zu Fehlinformation und Autorschaft verlangen sorgfältige, geschichtete Verifikation. Für Gestaltende und Bildungsfachkräfte ist die stärkste Schlussfolgerung, dass Interaktivität und Engagement — Schlussfolgern der Lernenden über visuelle Daten hervorlocken, Nutzern kognitive Anstrengung kontrollieren lassen und KI-erzeugte Visuelles als geteilte Infrastruktur behandeln statt als Endpunkte — mehr zählen als die Genauigkeit des Diagramms selbst.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI kann spezialisierte Inhalte nicht genau darstellen."** Sie kann es, mit der richtigen Methode: Das Feintunen eines Text-zu-Bild-Modells auf nuklearen Konzepten **hob die Domänengenauigkeit von 12 % auf 78 %**. Die Lücke ist die Domänenverankerung, nicht die generative Fähigkeit, und sie ist adressierbar.
+- **„Bessere Visualisierungen erzeugen bessere Ergebnisse."** Lehrkräfte **bevorzugten systematisch einfachere, traditionellere Visualisierungen** (Balkendiagramme, Kreisdiagramme, Legenden), **selbst wenn komplexe Designs wie Heatmaps detailliertere Einsichten erbrachten**. Das informativere Artefakt war nicht das genutzte, sodass die Übernahme ein eigenes Problem ist, getrennt von der Designqualität.
+- **„Studierende schauen dorthin, wo das Gerüst ist."** Eine Studie fand, dass Studierende **den Großteil ihres Blicks auf Code richteten, trotz aufwendiger visueller Gerüste** — die Hilfen erfassten die Aufmerksamkeit schlicht nicht. Visuelle Unterstützung, die vorhanden, aber unbeachtet ist, ändert nichts.
+- **„Engagement und Verständnis bewegen sich gemeinsam."** Teilnehmende fanden KI-erzeugte Daten-Comics **engagierender und verständlicher, doch viele markierten auch Fehlinformationsrisiko und Informationsüberlastung**. Beide Reaktionen kamen vom selben Artefakt, sodass eine positive Rezeption keine verifizierte Lesart ist.
 
 ## Verbundene Konzepte
 

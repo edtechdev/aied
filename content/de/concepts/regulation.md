@@ -1,7 +1,7 @@
 ---
 title: KI-Regulierung in der Bildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T22:31:15-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-16T07:28:51-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-26T08:20:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,12 @@ Ein Audit der Datenschutzrichtlinien von EdTech-Plattformen gibt dieser Abhängi
 ### Verbindungen
 
 Regulierung verbindet sich mit [[educational-policy-ai|Bildungspolitik zur KI]], [[governance|KI-Governance]], [[ethics|Ethik]], [[privacy|Datenschutz]], [[pedagogical-safety|pädagogischer Sicherheit]] und [[academic-integrity|akademischer Integrität]]. Sie ist die institutionelle Schicht, die prägt, wie alle anderen KI-Bildungspraktiken operieren. Regulierung begrenzt und ermöglicht zugleich: Sie setzt die Grenzen akzeptabler KI-Nutzung und schafft zugleich die Bedingungen — durch [[ai-literacy|KI-Kompetenz]] und Erwartungen verantwortungsvoller Nutzung — für [[equity-in-ai-education|gerechte]], sichere Integration.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Institutionelle KI-Politik ist der Ort, an dem die Regeln leben."** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson und Rainies (2026)]] Befragung von **1.057 US-amerikanischen Fakultätsangehörigen** misst, wie weit unterhalb der institutionellen Ebene die effektiven Regeln sitzen: **87% der Antwortenden schrieben** ihre eigene Orientierung. Die operative Politik ist weitgehend von Fakultätsangehörigen verfasst, was bedeutet, dass die dokumentierte institutionelle Ebene weniger beschreibt, als es scheint.
+- **„Eine Politik zu schreiben deckt die riskante Fläche ab."** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] zeigt, warum Assessment-Werkzeuge in die regulierte Menge gehören: In einem Red-Team-Test gelangen **zwei von fünf indirekten Prompt-Injections**, die in einer Einreichung versteckt waren. Eine Regel, die Werkzeuge benennt, aber nicht Injektionsflächen, lässt den Exploit unadressiert.
+- **„Agentische Systeme sind durch die Erweiterung bestehender Regeln abgedeckt."** In einer dokumentarischen Analyse von **12 Universitäten** fanden [[wong-sun-agentic-ai-assessment-governance-2026|Wong und Sun (2026)]] **keinen Vergleichsfall, der einen Agenten behandelte, der sich in ein Lernmanagementsystem einloggt**. Die Governance-Lücke ist strukturell: Bestehende Kategorien haben keinen Platz für einen autonomen Akteur mit Zugangsdaten.
 
 ## Verbundene Konzepte
 - [[educational-policy-ai]]

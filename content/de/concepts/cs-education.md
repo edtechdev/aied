@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: Informatikbildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,13 +11,17 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-24T08:54:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,6 +82,7 @@ Die Frage „was sollten Studierende noch von Hand lernen?“ formt heute Comput
 
 - **Von der Produktion zum Urteil: Verstehenschuld und AASEE.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] argumentiert, das Feld sollte von einem produktionszentrierten zu einem urteilszentrierten Modell wechseln, und erweitert Verstehenschuld — die aufgeschobenen Lern- und Wartungskosten, wenn KI-unterstützte Produktion die Fähigkeit der lernenden Person überholt, Software zu erklären, zu testen, zu modifizieren und zu rechtfertigen — zu einer [[assessment]]-Linse, gegründet in 621 reflektiven Tagebüchern von 207 Studierenden. Der Review verfeinert das AASEE-Rahmenwerk zu fünf nichtlinearen Integrationsniveaus, gekreuzt von vier Evidenzverpflichtungen — erklären, verifizieren, modifizieren und Rechenschaft ablegen —, und berichtet eine bedingte Evidenzbasis: eine STEM-[[meta-analysis-systematic-review|Metaanalyse]] mit extremer Heterogenität (I² = 96,32%) verliert ihren gepoolten Nutzen, sobald Publikationsbias korrigiert wird, und Synthesen von 76, 72 und 64 Studien zeigen kurzfristige Effizienzgewinne, die nicht auf unassistierte Leistung [[transfer-of-learning|transferieren]].
 - **Neue Pädagogiken und Assessmentmodelle:** [[test-driven-ai-assisted-learning|Test-Driven AI-Assisted Learning]] ersetzt Vorlesungen durch [[self-directed-learning|selbstgesteuertes]] KI-unterstütztes Studium, eingegrenzt durch wöchentliche Closed-Book-Tests, wobei individuelle Rechenschaftspflicht bewahrt wird, während KI-Agenten Materialproduktion und Benotung unter [[human-in-the-loop-ai|menschlicher Aufsicht]] skalieren.
+- **Mündliche Prüfungen als Rechenschaftsmechanismus.** Ein projektbasiertes AI-Engineering-Programm führte Studierende des zweiten Semesters durch sieben zweiwöchige Sprints mit KI in Anforderungen, Architektur, Coding und Testen und machte individuelle mündliche Prüfungen verpflichtend, nachdem drei Durchläufe zeigten, dass Artefakte allein Verstehen nicht mehr belegten; die durchschnittlich fehlenden ECTS fielen von 25% auf 3% ([[project-based-ai-engineering-curriculum-agile-2026|Rausch (2026)]]).
 - **Die Mechanik des Modells offline lehren.** Eine Praktikerressourcensuite lehrt die vollständige LLM-Trainings→Generierungs-Pipeline unplugged — händisch ausgezählte n-gram-Raster und würfelbasiertes Sampling, ohne Programmierung oder Mathematik vorauszusetzen —, und berichtet Auslieferung an etwa 400 Teilnehmende, wobei Engagement erst auf der Generierungsstufe begann ([[llms-unplugged-teaching-resources-2026|Swift (2026)]]).
 - **Was [[vibe-coding]]-Erfolg vorhersagt — und was weiter zu lehren ist:** [[vibe-coding-writing-cs-achievement-2026|Eine vorregistrierte CHI-2026-Studie (N=100)]] zu reinem „No-Code“-Vibe-Coding fand, dass sowohl Informatikleistung (r = .39) als auch schriftliche Kommunikationskompetenz (r = .29) Leistung unabhängig vorhersagten, wobei Informatikleistung signifikant blieb, selbst nach Kontrolle domänenallgemeiner kognitiver Fähigkeit, und etwa die doppelte eindeutige Varianz der Schreibfähigkeit beitrug. Weil die Umgebung generierten Code verbarg, konnte Informatikwissen nur indirekt helfen (Problemzerlegung, algorithmisches Denken) — was die CS-Schätzung zu einer *unteren Grenze* für KI-unterstützte Arbeitsabläufe macht, die auch Bearbeitung erlauben. Die Autoren argumentieren, Curricula sollten schriftliche Kommunikation neben Informatikgrundlagen gewichten, statt Vibe Coding als obsolet gewordene Syntaxmeisterschaft zu behandeln.
 
@@ -128,6 +133,13 @@ Informatikbildung verbindet sich mit [[computational-thinking|Computational Thin
 - **Kollaboration für alle Lernenden strukturieren.** Kleinere konstante Teams, explizite Rollen und KI-Nutzungstransparenz stützen [[neurodiversity|neurodivergente]] Studierende und faire Kollaboration, besonders wo fehlabgestimmte KI-Nutzungsüberzeugungen Projektnoten senken.
 
 - **LLM-adaptive Erklärungen zu Programmierfehlern (2026):** Eine crowdsourcing-basierte Studie (N=103) fand, dass LLM-umgeschriebene Fehlermeldungen die Lesbarkeit verbessern, objektive Debugging-Leistung aber davon abhängt, den Erklärungsstil (pragmatisch vs. kontingent) auf die Fähigkeit der Programmiererin oder des Programmierers abzustimmen — eine Gerüstbaueinsicht für KI-unterstützte Programmierbildung ([[llm-adaptive-programming-error-explanations-2026]]).
+- **Aufsicht dreht sich um Passung, nicht um Korrektheit (2026):** [[novice-se-students-oversight-genai-2026|Shakiba und Chaffey (2026)]] kodierten 962 Studierenden-KI-Wendungen von 145 Erstsemester-Studierenden der Softwaretechnik und fanden, dass 74,4 % der Eingriffe Passungsprobleme benannten gegenüber 16,9 %, die Korrektheit benannten, und dass 51,0 % der Antworten die Ausgabe statt den Prompt änderten.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende, die mit KI pair-programmieren, lernen Programmieren."** Beim gemeinsamen Programmieren von Studierenden mit KI stützten sich **fast 80% der Interaktionen auf nicht-lernfördernde Strategien wie das Auslagern von Antworten**, und nur **etwa jede neunte zeigte tiefes epistemisches** Engagement. Das dominante Muster ist das Handeln auf Ausgabe.
+- **„Konversationelle Agenten für Anfängerinnen und Anfänger gründen in Lerntheorie."** **Nur 4 von 23 Studien gründen ihr Design in [[learning-theories|Lerntheorie]]**, sodass die meisten der Evidenzbasis dokumentieren, was ein System tat, ohne eine Theorie dafür, warum es wirken sollte.
+- **„Die Werkzeugliteratur spiegelt die globale Verteilung des Felds."** **17 von 23 Prototypen sind nur englischsprachig, obwohl die meiste Forschung außerhalb** englischsprachiger Kontexte entsteht. Die Prototypen bedienen eine engere Population als die Forschung.
 
 ## Verbundene Konzepte
 
@@ -208,3 +220,4 @@ Informatikbildung verbindet sich mit [[computational-thinking|Computational Thin
 - [[educator-guided-llm-pedagogical-agent-2026]] — Von Lehrenden verfasstes gestuftes Feedback für konzeptionelles Datenbankdesign: verborgene Diagnose, kontrollierte Freigabe, 71,1% Zielniveau über 383 Episoden
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planbasiertes sokratisches Tutoring für das Debugging von Programmen und die Reparatur von Missverständnissen
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Kleine Sprachmodelle und WebLLM für werkzeugaugmentierte KI-gestützte Programmierbildung
+- [[novice-se-students-oversight-genai-2026]] — Jenseits von Korrektheit: Wie Erstsemester-Studierende der Softwaretechnik Aufsicht über generative KI ausüben (Shakiba und Chaffey 2026)

@@ -1,7 +1,7 @@
 ---
 title: Nachhaltigkeit
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-10-24T23:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-09-19T05:10:00-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -35,6 +39,8 @@ ai_assist:
 ## Einführung
 
 Nachhaltigkeit in der AIED erstreckt sich über drei überlappende Rahmungen: **nachhaltige Bildung** (ein wertbasiertes, menschenzentriertes Bildungsprojekt), **Nachhaltigkeit in der Bildung** (Bildung als Instrument für Nachhaltigkeit nutzen), und **Bildung für nachhaltige Entwicklung** (BNE, die globale Politikagenda, besonders [[k-12|Nachhaltigkeitsziel 4]]). KI schneidet jede davon unterschiedlich — und das Feld unterscheidet zwei Kernwege: **KI für Nachhaltigkeit** (KI als Werkzeug, um Nachhaltigkeitsergebnisse zu erreichen) und **nachhaltige KI** (den eigenen ökologischen und ethischen Fußabdruck von KI verringern).
+
+Der ökologische Weg hat eine dokumentierte Lücke: [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] berichten, dass die ökologischen Folgen von GenAI in den Richtliniendokumenten der Universität am Studienstandort nicht diskutiert wurden, und argumentieren, dass institutionelle Orientierung, die sie auslässt, die Anliegen von Lehrenden und Studierenden nicht adressiert.
 
 ## Die zweiteilige Taxonomie
 
@@ -56,7 +62,7 @@ Ein wachsender Korpus von Arbeit behandelt KI als Werkzeug *für* Nachhaltigkeit
 Der zweite Weg betrifft KIs eigenen Fußabdruck in Bildungssettings:
 
 - **Ökologische Auswirkungen großer Modelle.** [[llm-environmental-impact-student-usage-2026|Studien zur LLM-Nutzung]] dokumentieren den CO₂- und Wasserfußabdruck großer Sprachmodelle, der angesichts hoher Annahme unter Universitätsstudierenden signifikant ist. Das ist die direkte ökologische Dimension nachhaltiger KI.
-- **Energieeffizienter Einsatz vor Ort.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrieren, dass KI-Wissensbasis-Assistenten auf [[open-source|offenen Bildungsressourcen]] mit Verbraucher:innen-Hardware laufen können, was den ökologischen und Kostenfußabdruck von KI in der Bildung verringert — ein konkretes Designmuster nachhaltiger KI.
+- **Energieeffizienter Einsatz vor Ort.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrieren, dass KI-Wissensbasis-Assistenten auf [[open-education|offenen Bildungsressourcen]] mit Verbraucher:innen-Hardware laufen können, was den ökologischen und Kostenfußabdruck von KI in der Bildung verringert — ein konkretes Designmuster nachhaltiger KI.
 - **Ethische und Governance-Rahmenwerke.** Nachhaltige KI ist nicht nur ökologisch: sie verlangt [[governance|Governance]]- und [[ethics|Ethik]]rahmenwerke, die Transparenz, Verantwortlichkeit, [[human-in-the-loop-ai|menschliche Aufsicht]] und [[equity-in-ai-education|gerechten]] Zugang sicherstellen, wie [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] festhalten, in aktuellen Universitätsanwendungen oft fehlt.
 
 ## Nachhaltiges Lernen als pädagogisches Ziel
@@ -66,6 +72,12 @@ Ein verwandter Strang rahmt Nachhaltigkeit nicht nur als ökologisches oder inst
 ## Verbindungen zu anderen Konzepten
 
 Nachhaltigkeit und KI in der Bildung sitzt an der Schnittmenge von [[ethics|Ethik]], [[governance|Governance]], [[ai-education|KI in der Bildung]] und den Umwelt-/Energiewissenschaften. Sie stützt sich auf [[teacher-education|Lehrkräftebildung]] und die [[teacher-role|Rolle der Lehrenden]] für den Aufbau von Fähigkeiten, auf [[learning-design|Lerndesign]] für Pädagogik, und verbindet sich mit der Behandlung von [[cognitive-offloading|kognitiver Entlastung]] und [[critical-thinking|kritischem Denken]] in der Wissensbasis durch die Linse „nachhaltiges Lernen“. Weil beide Wege querschneidend sind, ist Nachhaltigkeit ein grundlegendes Thema, das über [[higher-ed|Hochschulbildung]], K-12 und professionelle Kontexte hinweg auftritt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Abstraktes KI-Wissen sagt die Fähigkeit von Lehrenden vorher, Nachhaltigkeit zu lehren.“** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] fand, dass der **praktische Einsatz von KI** durch Lehrende in naturwissenschaftlichen und grün-energetischen Kontexten und ihre **Beteiligung an der Entwicklung BNE-ausgerichteter Materialien** — **mehr als abstraktes KI-Wissen oder Einstellungen** — ihre Fähigkeit vorhersagten. Über KI Bescheid zu wissen und mit ihr bauen zu können, divergierten, und der praktische Weg sagte mehr vorher.
+- **„KI-assistiertes Unterrichtsdesign unter einer Nachhaltigkeitspädagogik erzeugt Nachhaltigkeitspädagogik.“** Dieselbe Arbeit fand, dass KI-assistiertes [[learning-design|Unterrichtsdesign]] unter den Beschränkungen der Nachhaltigkeitsentwicklungspädagogik das Design auf spezifische Weisen **beschränkte**, statt es zu erweitern. Ein auf konventionellen Materialien trainiertes Modell reproduziert konventionelle Rahmungen, sofern die Designarbeit nicht dagegen korrigiert.
+- **„Nachhaltigkeit ist ein Thema, kein querschneidendes Anliegen.“** Weil beide Wege über Ebenen hinweg laufen, erscheint Nachhaltigkeit in der [[higher-ed|Hochschulbildung]], in K-12 und in professionellen Kontexten — was bedeutet, dass sie ein grundlegendes Thema ist, das innerhalb jeder Disziplin adressiert werden muss, statt als separates Fach gelehrt zu werden.
 
 ## Verbundene Konzepte
 - [[ethics]]
@@ -83,6 +95,7 @@ Nachhaltigkeit und KI in der Bildung sitzt an der Schnittmenge von [[ethics|Ethi
 - [[open-source]]
 
 ## Verbundene Artikel
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Umfrage- und Fokusgruppenstudie, die argumentiert, dass Partnerschaftsethik statt eines Betrugsrahmens institutionelle GenAI-Entscheidungen leiten sollte
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping Review zu KI für Nachhaltigkeit und nachhaltiger KI in der Hochschulbildung
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Wertkritischer Zugang zu nachhaltiger Bildung und KI
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE-Framework für nachhaltige Ingenieurbildung

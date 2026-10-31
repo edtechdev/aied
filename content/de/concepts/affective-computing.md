@@ -1,7 +1,7 @@
 ---
 title: Affektives Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T20:56:30-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,13 +9,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -58,6 +62,12 @@ Affective Computing liegt an der Schnittstelle von [[affective-tutoring]] (seine
 - **Emotional intelligente Assessment-Agenten.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], ein [[llm]]-gestützter, emotional intelligenter [[conversational-ai|konversationeller Agent]], reduzierte Prüfungsangst und sozialen Druck bei performanzbasierten Assessments und bewahrte dabei [[usability-research|Usability]].
 - **Empathie durch Prompt-Design statt durch Erfassung.** Affektive Unterstützung erfordert keine Affekt-Detektion: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] erzielten einen großen Unterschied in der *Empathiewahrnehmung* (21.27 vs. 18.24; r = 0.53) zwischen zwei LLM-[[physics-education|Physik]]-Agenten, die sich nur in der per Prompt festgelegten Rolle und den konversationellen Zügen unterschieden — perspektivische Eröffnungen („You have this question because…"), [[misconceptions|Fehlkonzept]]-Diagnose und eine Verständnisprüfung am Ende jeder Runde —, während Modell, Plattform und Temperatur konstant gehalten wurden. Dies ist ein nützliches Gegengewicht zur sensorgesteuerten affektiven Datenverarbeitung: die wahrgenommene emotionale Qualität eines [[pedagogical-agent|pädagogischen Agenten]] kann in das Interaktionsskript hineindesignt werden, wobei es Designerinnen und Designer zugleich daran erinnert, dass wahrgenommene Empathie ein Selbstauskunftskonstrukt ist und kein Beleg für echtes affektives Verstehen ([[student-ai-interaction]]).
 - **Alarme, die eine Lehrkraft ansprechen statt einen Tutor anzupassen.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] setzte Dash4Emotion in einem Geometrieklassenzimmer der Oberstufe ein, wo rot umrahmte Rechtecke Schülerinnen und Schüler markierten, die als negative Emotion erlebend gelesen wurden; über zwanzig identifizierte Episoden (fünf berichtet) hinweg war es die Reaktion der Lehrkraft auf einen Alarm, die das Engagement veränderte, nicht der Alarm selbst. Der Designtpunkt ist, dass Affekt-Erfassung eine menschliche Entscheidung speisen kann statt den nächsten Schritt eines adaptiven Tutors — mit der eigenen Einschränkung der Studie versehen: sie berichtet keine Validierung der Gesichtsausdrucks-Detektion, sodass das Signal ein Anstoß zur Interpretation durch die Lehrkraft ist und kein Beleg für den inneren Zustand einer Schülerin oder eines Schülers.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Mehr Engagement bedeutet mehr Lernen.“** Eine gehirnsensorische Studie fand, dass eine **eingeschränkte, adaptive Schnittstelle kognitives Engagement erhöhte (p = .018), während der uneingeschränkte Chatbot höhere Lernzuwächse erzielte**. Die Schnittstelle, die stärker band, lehrte weniger. Engagement ist kein Stellvertreter für Lernen, und es zu optimieren kann das Ergebnis in die falsche Richtung bewegen.
+- **„Emotionale Unterstützung ist ein weiches Add-on zur kognitiven Unterstützung.“** In einer kleinen [[rct]] im Klassenzimmer (**42 Abschließende von 252 Teilnehmenden**) erreichte die achtsame Variante **ähnliches Algebra-Lernen in weniger Zeit und mit weniger angeforderten Hinweisen** als kognitive Unterstützung allein. Die affektive Komponente veränderte die Effizienz statt der Obergrenze, was eine andere und interessantere Aussage ist als „es hilft beim Lernen“.
+- **„Affektive Befunde aus kleinen Stichproben übertragen sich.“** 42 Abschließende von 252 Teilnehmenden sind ein ebenso ermutigendes wie fragiles Design: die Abschlussquote ist selbst ein Befund dazu, wer durchgehalten hat, und der Effekt bleibt auf diese Gruppe begrenzt.
 
 ## Verbundene Konzepte
 - [[anxiety-and-stress]]

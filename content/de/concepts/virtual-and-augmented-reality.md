@@ -1,7 +1,7 @@
 ---
 title: Virtual und Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-10-24T23:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,13 +9,17 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 Virtual und Augmented Reality sind eine **Modalität**, kein Modell: Sie sind die Schicht, durch die eine Lernumgebung den bzw. die Lernende erreicht. Das macht sie zu einer anderen Achse als [[simulation|Simulation]], die das ist, was überhaupt modelliert wird. Beide werden oft verwechselt, denn immersive Umgebungen sind verbreitete Lieferfahrzeuge für Simulationen, doch sie variieren unabhängig –, ein Desktop-Patientensimulator ist Simulation ohne VR, und eine AR-Überlagerung auf einem realen Instrument ist VR ohne Simulation. Die Achsen auseinanderzuhalten zählt für das Design: Zu entscheiden, Praxis risikofrei zu machen, ist eine andere Entscheidung als zu entscheiden, sie zu verkörpern, und beide tragen unterschiedliche Kosten, unterschiedliche Fehlermodi und unterschiedliche Evidenz. VR/AR ist die **Lieferschicht** für eine Simulation und ein enger Verwandter von [[game-based-learning|spielbasiertem Lernen]]; sie operationalisiert [[embodied-learning|verkörperte]] und [[situated-learning|situierte]] Darstellungen des Lernens und sitzt im Inneren von [[experiential-learning|erfahrungsbasierter]] und [[active-learning|aktiver]] Praxis.
 
 KI prägt diese Modalität nun von beiden Enden. Sie *autorisiert* immersive Inhalte, denn [[generative-ai|generative KI]] verwandelt einen strukturierten Prompt in natürlicher Sprache in ein lauffähiges AR- oder VR-Artefakt, wodurch die spezialisierte Programmierfähigkeit zusammenfällt, die früher die Produktion kontrollierte. Und sie *bewohnt* die Umgebung, da [[agentic-ai|Agenten]], [[pedagogical-agent|pädagogische Agenten]] und [[rag|abgerufenes Domänenwissen]] Anleitung im Inneren liefern –, freihändig, in Echtzeit, verankert in Quellen, die der bzw. die Lernende nicht konsultieren kann, während er bzw. sie ein Headset trägt.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang und Ju (2026)]] testen ein KI-VR-gestütztes Flipped Classroom mit jungen EFL-Lernenden und berichten Zugewinne in englischer Leistung, metakognitiver Selbstregulation und Motivation, wobei technologische Kompetenz moderierte, wie viel die Lernenden aus der immersiven Komponente gewannen.
 
 ## Was die Modalität ergänzt
 
@@ -72,6 +78,12 @@ Das klarste negative Ergebnis in der Wissensbasis kommt aus einem Atelier-Einsat
 Wo immersive Praxis für interpersonale und prozedurale Fähigkeit genutzt wird, ist der begrenzende Faktor nicht visuelle Treue, sondern gefühlte Authentizität. Ein [[mixed-methods-research|Mixed-Methods]]-Review KI-gestützter Pflegesimulation (19 Studien, N = 1.253) fand KI wirksam für kognitives Wissen und affektive Ergebnisse, aber inkonsistent für komplexe psychomotorische Fähigkeiten, und benannte den Grund: eine **Authentizitätslücke**, die emotionale Resonanz, Erkennung nonverbaler Hinweise und taktile sowie physische [[summative-assessment|Untersuchungs]]dimensionen abdeckt. Ihre praktische Empfehlung ist ein **gestuftes Simulationskontinuum** –, KI ist gut geeignet für hoch strukturierte Ziele wie grundlegende Kommunikation und Anamneseerhebung, während fortgeschrittene psychomotorische und emotional komplexe Szenarien zu menschlichen standardisierten Patienten und klinischer Praktika gehören. Technische Instabilität verschärft das Problem: Verzögerungen der Spracherkennung injizieren fremde [[cognitive-offloading|kognitive Last]] und Angst, was Stabilität und Latenz zu Designhebeln statt zu Implementierungsdetails macht.
 
 Dieselbe Logik erklärt, warum Präsenz nicht automatisch gut ist. Bewegungskrankheit, Inkonsistenz der Nutzerschnittstelle, Hardwarekosten und ungleicher Gerätezugang entscheiden, wer eine immersive Umgebung überhaupt nutzen kann, weshalb sich die [[equity-in-ai-education|Gerechtigkeits]]fragen der Modalität mit [[accessibility|Barrierefreiheit]] und [[inclusive-learning|inklusivem Lernen]] verbinden statt abseits davon zu sitzen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Das Phänomen zu fühlen heißt, es zu verstehen."** Ein Pilot fand, dass Studierende Wellenlänge und Amplitude durch eine Handgeste stärker **fühlten** als durch einen Schieberegler — doch **gemessen wurde die Wahrnehmung, nicht die Leistung**. Das Gefühl ist die Affordanz, und ob es Verständnis erzeugte, ist ein eigener Test.
+- **„Hohe Usability-Werte validieren ein pädagogisches VR-Werkzeug."** In einer **einstündigen Sitzung mit 10 Studierenden** auf einer Meta Quest 3 berichtete die Studie **gute Usability auf der System Usability Scale und minimale Simulationskrankheit**. Usability und Komfort sind Voraussetzungen, und keines von beiden ist ein Lernmaß.
+- **„Die Zustimmung der Studierenden ist Evidenz für die Affordanz."** Mit **29 Medizinbildungs-Studierenden des zweiten Jahres** stimmten alle 29 zu, die Geste helfe ihnen, zu „fühlen", was Wellenlänge ist (Mittel 4,52). Einstimmige Zustimmung zu einem Gefühl ist Selbstauskunft über Erleben, und die Affordanzbehauptung braucht ein Ergebnis, das nicht vom Urteil der Studierenden über ihr eigenes Verständnis abhängt.
 
 ## Verbundene Konzepte
 - [[simulation]] — was immersive Umgebungen üblicherweise anzeigen; das Modell, nicht die Modalität

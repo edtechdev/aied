@@ -1,7 +1,7 @@
 ---
 title: SAMR-Modell
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-24T22:43:16-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,13 +10,17 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,16 @@ SAMR ist am besten als Integrationsstufen-Linse zu verstehen, genutzt in Planung
 - **Paaren Sie es mit ICAP.** SAMR beschreibt, was die *Aufgabe* wird; ICAP beschreibt, wie die lernende Person *sich engagiert*. Zusammen genutzt unterscheiden sie oberflächliche Substitution von tiefer interaktiver Ko-Konstruktion.
 - **Ergänzen Sie es mit Adoptions- und Gerechtigkeitslinsen.** SAMR sagt nichts darüber, warum ein Werkzeug übernommen wird oder wer Nutzen hat. Paaren Sie es mit [[technology-acceptance-model|Adoptionsmodellen]] und [[equity-in-ai-education|Gerechtigkeits]]analyse, um zu vermeiden, dass ein Stufenetikett für eine [[critical-thinking|kritische Bewertung]] substituiert.
 - **Behandeln Sie Evidenz inkrementeller Integration als Befund, nicht als Versagen.** Wenn die meiste KI-Integration auf Substitution/Augmentation ballt, ist die Gestaltungsaufgabe nicht, Redefinition zu erzwingen, sondern zu erkennen, dass transformative Nutzung verschiedene Aufgabengestaltungen verlangt, nicht nur bessere Werkzeuge.
+
+## Verbreitete Fehlvorstellungen
+
+**„Höher auf SAMR bedeutet besserer Unterricht."** SAMR ist eine Linse, um zu fragen, ob KI Lernen *rekonzeptualisiert* oder bestehende Praxis *verbessert*; es ist kein Qualitätsranking, und Redefinition ist nicht für jede Aufgabe die richtige Antwort. Eine Substitution, die einen unproduktiven Schritt entfernt, ist ein am Lernen gemessener Erfolg, nicht an der Stufe, die sie belegt.
+
+**„Die KI-Übernahme schreitet die Leiter hinauf."** Die Verteilung konzentriert sich unten. Ein systematischer Review zur KI-Integration in der [[higher-ed|Hochschulbildung]] fand, dass **die meisten Nutzungen auf Substitution oder Augmentation lagen, wobei nur eine Studie sich der Redefinition annäherte**. SAMRs praktischer Nutzen in dieser Literatur ist daher weitgehend diagnostisch — er benennt, wo das Feld tatsächlich steht.
+
+**„SAMR und TPACK sind konkurrierende Rahmenwerke."** Sie beschreiben Unterschiedliches: SAMR beschreibt das *Ausmaß der Transformation* in einer Aufgabe, während [[tpack|TPACK]] das *Wissen* beschreibt, das eine Lehrkraft braucht, um Technologie gut zu integrieren. Eine Lehrkraft kann hoch TPACK-fähig sein und dennoch auf Substitution arbeiten, weshalb die beiden zusammen genutzt statt zwischen ihnen gewählt werden.
+
+**„Ein Werkzeug, das auf einer Stufe transformativ ist, ist auf allen Stufen transformativ."** Dasselbe generative Werkzeug kann in einem Kurs eine Substitution und in einem anderen eine Redefinition stützen, weil die Stufe eine Eigenschaft des Aufgabendesigns ist statt der Technologie. Die Stufe dem Werkzeug zuzuschreiben erzeugt Übernahmeentscheidungen anstelle von Designentscheidungen.
 
 ## Verbundene Konzepte
 

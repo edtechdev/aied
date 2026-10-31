@@ -1,7 +1,7 @@
 ---
 title: Forschungsmethoden in der AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-24T22:20:44-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,13 +12,17 @@ confidence: high
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -183,6 +187,18 @@ Ein eigener methodischer Strang –, [[usability-research|Usability- und HCI-For
 - **Usability/HCI:** Nutzen –, identifiziert Übernahmebarrieren, handlungsleitende Designanleitung, schnell und billig. Grenzen –, etabliert keine Lerneffekte, kleine Stichproben, selbstberichtete Zufriedenheit kann in die Irre führen.
 
 In der Praxis fällt Forschung zu KI in der Bildung selten saufig in eine Tradition. Die stärkste Evidenz trianguliert: Eine rechnerische oder Usability-Evaluation etabliert, dass ein System funktioniert, ein Experiment etabliert, dass es Lernen verursacht, quantitative Instrumente messen die Konstrukte, und qualitative Arbeit legt die Mechanismen und Bedeutungen offen –, und beantwortet zusammen sowohl *ob* ein Werkzeug Lernen hilft als auch *wie und warum*.
+
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] ergänzt einen bibliometrischen Strang, der sich von diesen vier abhebt: 407 Datensätze über Co-Word- und Co-Autorenschaftsnetzwerke zu kartieren, um die konzeptuelle Entwicklung eines Feldes nachzuzeichnen. Der Autor ist ausdrücklich, dass die darauf aufgebaute SWOT-Lesart ein interpretatives Instrument ist und keine unabhängige Analysetechnik, was die Grenze zwischen Synthese und Analyse in dieser Tradition markiert.
+
+## Verbreitete Fehlvorstellungen
+
+**„Hohe Benchmark-Genauigkeit zeigt pädagogische Wirksamkeit."** Tut sie nicht, und die Lücke ist das zentrale Messproblem des Feldes: ein System kann bei der Genauigkeit hoch punkten, ohne Lernen zu erzeugen, weil Benchmark-Genauigkeit Aufgabenleistung unter den Bedingungen des Benchmarks misst. Pädagogische Wirksamkeit verlangt ein Lernendenergebnis unter Bedingungen, die die Technologie nicht kontrolliert.
+
+**„Eine Forschungstradition ist methodologisch überlegen."** Die Traditionen tauschen konstruktionsbedingt eine Begrenzung gegen eine andere. Designbasierte Forschung iteriert an einer echten Intervention, kann Gewinne aber nicht einem bestimmten Mechanismus zuschreiben, während eine [[rct|RCT]] Ursachen isoliert, aber unter künstlichen Bedingungen läuft. Zwischen ihnen zu wählen heißt zu wählen, welche Behauptung Sie machen können, nicht welche Methode besser ist.
+
+**„Eine großzügige Messregel ist eine kleine methodische Entscheidung."** Sie verändert den Befund. Jede Vollendung zu honorieren sagte spätere ungestützte Leistung **kaum über einer Fähigkeit-Schwierigkeit-Konstante vorher (gepoolte AUC 0,604 gegenüber 0,595)**, während sie **93,9% der Studierenden-Fähigkeits-Paare als gemeistert erklärte gegenüber 72,8%** unter einer strengen Regel. Die Regel erzeugte einen Unterschied von 21 Punkten darin, wer als bereit erklärt wurde, und fast keinen prädiktiven Gewinn dafür.
+
+**„Statistische Signifikanz entscheidet, ob eine Intervention gewirkt hat."** Sie entscheidet, ob ein Effekt nachweisbar war. Ob es ein *Lern*effekt war, hängt vom Ergebnismaß, vom Vergleich und von den Bedingungen ab, unter denen er erhoben wurde — weshalb die Design- und Berichtsentscheidungen in den Abschnitten dieser Seite so viel Gewicht tragen wie die Analyse.
 
 ## Verbundene Konzepte
 

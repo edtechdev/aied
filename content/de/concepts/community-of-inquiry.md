@@ -1,7 +1,7 @@
 ---
 title: Untersuchungsgemeinschaft
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-24T22:20:44-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,16 @@ Die Autoren des Frameworks selbst liefern eine Rollentaxonomie für diese Beding
 - Das Verhältnis zwischen GenAI-Beteiligung und Erkundungsqualität ist **bedingt durch menschliche Verantwortlichkeit**, nicht linear: starke Präsenz kann bei hoher oder niedriger GenAI-Beteiligung auftreten, wenn Verantwortlichkeit stark ist, und schwache Präsenz bei beiden, wenn Verantwortlichkeit schwach ist.
 - [[assessment]] von Erkundung sollte sich von polierten Endprodukten hin zu **prozesssensitiver Evidenz** verschieben — [[prompt-engineering|Prompting]]- und Revisionsspuren, Offenlegungs- und Zuschreibungspraktiken, Verifikationsbewegungen und Interaktionslogs. Das steht im Einklang mit der breiteren Bewegung der Wissensbasis hin zu [[authentic-assessment|authentischem]], [[process-oriented-assessment|prozessoffenbarem]] Assessment und weg von erkennungsbasierten Antworten.
 - Pädagogisch brauchen Lernende oft explizites Training (z. B. [[simulation|simulationsbasierte]] Praxis mit skriptierten Rollen und GenAI-Entscheidungspunkten), um authentische Erkundung unter GenAI-Bedingungen aufrechtzuerhalten — und Lehrende sollten modellieren, wie erzeugte Ausgaben zu hinterfragen sind, was vom Aufbau von [[ai-literacy]], [[critical-thinking|kritischer Prüfung]] und kalibriertem [[trust-calibration|Vertrauen]] abhängt.
+
+## Verbreitete Fehlvorstellungen
+
+**„Teaching Presence ist eine menschliche Eigenschaft."** Im Zeitalter generativer KI wird das Framework neu konzeptualisiert, weil maschinell erzeugter Diskurs authentische Präsenz nachahmen kann; die Präsenzen sind daher besser als soziotechnische Errungenschaften von Mensch-GenAI-Gefügen zu verstehen denn als rein menschliche Aktivität. Ein Kurs kann hohe Teaching Presence berichten, während die Lehrkraft weitgehend abwesend ist und ein Modell den Diskurs führt.
+
+**„Kohärente KI-Erklärung erzeugt kognitive Präsenz."** Kohärenz ist nicht Korrektheit, und sie ist genau die Eigenschaft, die reflexive Erkundung schwer aufrechtzuerhalten macht: Eine lernende Person, die eine Erklärung für offensichtlich richtig hält, hat wenig Anlass bekommen, ein auslösendes Ereignis zu lösen. Kognitive Präsenz verlangt die Auflösung von Zweifel, nicht seine Beseitigung.
+
+**„Präsenz verteilt sich gleichmäßig über eine Kohorte."** Sie trennt sich *innerhalb* der Bedingung statt zwischen Bedingungen. In einem Quasi-Experiment mit **63 chinesischen Studierenden im Grundstudium (33 mit einem GPT-4o-mini-Chatbot, 30 ohne)**, die über fünf wöchentliche Aufgaben geteilte Lektüren annotierten, divergierten die Präsenzen nach Gruppenleistung: leistungsstarke Gruppen initiierten **1407 Feedbackanfragen über 2319 Annotationen (60,7%)** gegenüber **737 über 2167 (34,0%)** in leistungsschwachen Gruppen. Der Zugang zum selben Werkzeug reproduzierte eine bestehende Lücke im sozialen Verhalten, das das Framework misst.
+
+**„Einen Chatbot zu einem Online-Kurs hinzuzufügen fügt eine Präsenz hinzu."** Es verändert die Mischung. Der Wert des Frameworks unter GenAI liegt darin, dass es die Substitution sichtbar macht: Eine Präsenz, die ein Modell erfüllt, ist eine andere Konfiguration desselben Konstrukts, und die Kohortendaten zeigen, dass die Substitution sich ungleich auszahlt.
 
 ## Verbundene Konzepte
 

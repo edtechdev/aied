@@ -1,7 +1,7 @@
 ---
 title: Offenlegung der KI-Nutzung
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-10-24T08:08:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,7 @@ Die Modellierung von [[mohamed-temimi-assessment-imperfect-information-disclosur
 In einer Erhebung der GenAI-Leitlinien der 50 innovativsten US-Universitäten verortet [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] Offenlegung an der Grenze zwischen Unterstützung und Falschdarstellung: wo KI erlaubt ist, weisen Institutionen Studierende an, KI-Unterstützung anzuerkennen, zu zitieren oder anderweitig zu dokumentieren, statt Ausgaben als ganz eigene darzustellen, wobei Bibliotheken — nicht Integritätsbüros — die Autorität über Zitations- und Provenienzstandards halten. Das Framing der MIT Libraries, dass KI kein Urheber ist und Urheber für die Dokumentation verantwortlich bleiben, wie Werkzeuge beitrugen, exemplifiziert das Muster, und Qian liest Offenlegung zugleich als Integritätsnorm, als Designprinzip, das Mehrdeutigkeit vor der Einreichung reduziert, und als eine von vier Integritätssäulen neben Verantwortung, [[equity-in-ai-education|Gerechtigkeit]] und [[privacy|Datenschutz]]. Das ist dieselbe nicht-forensische Verwendung, die der Abschnitt beschreibt, und es ist der Grund, warum Qian empfiehlt, Bibliotheken als Zitationsautorität zu institutionalisieren, statt Detektion auszubauen.
 
 - **Offenlegung trägt eine Vertrauensstrafe, und Legitimität ist der argumentierte Mechanismus.** In dreizehn Experimenten, überwiegend mit US-Online-Panelisten und gebündelt bei 4.093 Beobachtungen (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), wurde einer Akteurin, die KI-Nutzung offenlegte, weniger vertraut als einer, die schwieg ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke und Reimann (2025)]]). Der Effekt überstand sechs Offenlegungs-Framings, eine bewertende Person, die bereits wusste, dass KI benutzt worden war, und sowohl verbindliche als auch freiwillige Regimes. Er ist das experimentelle Gegenstück zum obigen Befund aus der Befragung, dass immer offenlegende Lernende über dreifach höhere Chancen einer Bezichtigung gegenüberstanden: Transparenz selbst kann die offenlegende Person kosten. Das eine studierendenbezogene Ergebnis der Studie ist, dass Studierende einer Professorin weniger vertrauten, als diese KI-Bewertung offenlegte.
+- **Ein Inhaltslabel ändert die Beschreibung, nicht das Urteil.** Mit 617 Erwachsenen, die zufällig zugewiesen wurden, ein Label „AI-Generated Content/Synthetic Video" zu sehen oder nicht, senkte das Label die wahrgenommene Authentizität (Mittelwerte 4,92 ohne und 4,21 mit), ließ aber Vertrauen (B = -0,130, p = 0,216), Risiko, Übernahme und Teilen unverändert ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang und Zhang (2026)]]).
 
 ## Wirksame Offenlegung gestalten
 
@@ -82,6 +87,13 @@ In einer Erhebung der GenAI-Leitlinien der 50 innovativsten US-Universitäten ve
 ## Verbindungen
 
 Offenlegung der KI-Nutzung liegt an der Schnittstelle von [[academic-integrity|akademischer Integrität]] (ihrem übergeordneten Anliegen), [[ethics|Ethik]], [[trust|Vertrauen]] und [[trust-calibration|Vertrauenskalibrierung]] (Offenlegung als Akt der Verletzlichkeit), [[governance|Governance]] und [[educational-policy-ai|Bildungspolitik zur KI]] (institutionelle Richtlinienrahmenwerke) sowie [[assessment|Assessment]] (wo Offenlegung operationalisiert wird). Sie verbindet sich mit [[ai-literacy|KI-Kompetenz]] (Lernende müssen verstehen, was und wie sie offenlegen), [[self-regulated-learning|selbstreguliertem Lernen]] und [[help-seeking|Hilfesuche]] (Offenlegung als sichtbare Hilfesuche) und [[equity-in-ai-education|Gerechtigkeit]] (unterschiedliche Offenlegung). Sie ist verschieden von, aber verwandt mit, [[ai-misuse-learning-harm|KI-Missbrauch und Lernschaden]] (der Schaden, den Offenlegung sichtbar machen soll) und [[ai-detection|KI-Detektion]] (detektionsbasierte Alternativen, die Offenlegungsrahmenwerke zunehmend ersetzen).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Pflichtangaben-Richtlinien erzeugen Offenlegung."** [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] dokumentierte **74% Nichtbefolgung** einer Pflichtangabe an einer Wirtschaftshochschule. Die Vorgabe erzeugte nicht das Verhalten, das sie vorschrieb.
+- **„Studierende verbergen KI-Nutzung, weil sie unehrlich sind."** Die Treiber sind dokumentiert und spezifisch: nur **etwa 34% der Wirtschaftsstudierenden gaben KI-Nutzung zu**, wobei Offenlegung seltener war, getrieben von **Strafangst**, während eine andere Studie **66%** fand, die **nie oder selten offenlegten**, mit **Angst vor akademischer Strafe als häufigstem Grund**. Das Politikdesign, nicht der Charakter, ist es, was die Daten belasten.
+- **„Eine Offenlegungspflicht ist eine billige Kontrolle."** Eine **Nichtbefolgungsquote von 74%** macht den resultierenden Datensatz schlechter als keinen Datensatz: Es ist ein Datensatz, der vollständig wirkt und es nicht ist, sodass die Institution Entscheidungen auf einer Stichprobe trifft, der sie nicht trauen kann.
+- **„Zu offenzulegen, wie das Modell genutzt wurde, reicht."** [[authorial-warrant-ai-supported-scholarship-2026|Mirończuk (2026)]] argumentiert, Offenlegung dokumentiere die Modellnutzung, während verantwortungsvolle Nutzung einen Urheberschaftsanspruch auf Aussagenebene erfordere — die Fähigkeit der beitragenden Person, die Aussagen zu verstehen, zu begründen und zu verteidigen —, was kognitive Delegation, bei der Ausgaben substanzielle Entscheidungen prägen, von routinemäßiger Delegation trennt, bei der das nicht geschieht.
 
 ## Verbundene Konzepte
 
@@ -118,3 +130,6 @@ Offenlegung der KI-Nutzung liegt an der Schnittstelle von [[academic-integrity|a
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Kein Konsens zu Offenlegung und KI-Zitierung in der Politik von Law Schools (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — KI-geschriebene Studienbewerbungen sind verbreitet, aber werden bestraft
 - [[obhdp-ai-disclosure-erodes-trust-2025]] — Dreizehn Experimente: Die Offenlegung von KI-Nutzung senkt die Vertrauenswürdigkeit der Offenlegenden, über Legitimität
+- [[authorial-warrant-ai-supported-scholarship-2026]] — Wenn Offenlegungsregeln nicht genügen: Urheberschaftsanspruch und Urteil in KI-unterstützter Wissenschaft (Mirończuk 2026)
+
+- [[fu-ai-label-authenticity-trust-generated-videos-2026]] — KI-Offenlegungslabels, wahrgenommene Authentizität und Vertrauen in KI-generierte Lehrvideos

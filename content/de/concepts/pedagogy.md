@@ -1,7 +1,7 @@
 ---
 title: Pädagogiken und Lehrstrategien
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,13 +9,17 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -58,7 +62,6 @@ Die [[research-methods-aied|Forschung]] der Wissensbasis untersucht Pädagogik a
 - **Pädagogik bestimmt die Wirkung von KI.** Ein wiederkehrender Befund ist, dass *wie* KI genutzt wird ebenso viel zählt wie *ob* sie genutzt wird. [[instructional-guidance-genai-learning|Forschung zu Instruktionsanleitung]] und [[generative-ai-guardrails-harm-learning|RCTs zu Tutoren mit Leitplanken]] zeigen, dass dieselbe KI je nach pädagogischer Hülle helfen oder schaden kann (Hinweise gegenüber Antworten, strukturierte gegenüber offener Nutzung).
 - **Pädagogisches Wissen überwiegt technisches Wissen.** Über 46 Lehrkräfte und 2,832 Lernende sagte pädagogisches KI-Wissen der Lehrkräfte die Wahrnehmungen der Lernenden von KI für das Gemeinwohl und ihre Absicht voraus, KI zu lernen, während technisches Wissen allein unzureichend war — und keines sagte das KI-Wissen der Lernenden voraus ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]]).
 - **KIs klarster Beitrag ist das Auslagern administrativer Arbeit.** Ein PRISMA-Review von 28 Studien fand, dass KI am häufigsten Unterrichtsplanung und Assessment-Design verbesserte, wobei ihr am meisten berichteter Nutzen die Automatisierung von Benotung, Feedback und Fortschrittsüberwachung war (18 Studien, 64.2%) —, während pädagogische Ausrichtung die am häufigsten genannte Herausforderung war (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]]).
-
 **Automation und Lernen stehen in direktem Kompromiss.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] führen sechs pädagogische Prinzipien — Aktivierung von Vorwissen, [[collaborative-learning|kollaboratives Lernen]], [[problem-based-learning|problemlösendes Lernen]], [[formative-assessment|formatives Prüfen]], [[scaffolding|Scaffolding]], [[metacognition|Metakognition]] — durch, was proaktive agentische Initiative mit jedem einzelnen tut, und argumentieren, je mehr ein Agent automatisiere, desto weniger kognitive Arbeit leiste die lernende Person, sofern nicht Reibung, dynamisches Ausblenden und menschliche Aufsicht eingebaut würden.
 
 - **Lehrstrategien für KI-Kompetenz.** Lernenden beizubringen, *KI gut zu nutzen*, ist selbst eine pädagogische Aufgabe — Forschung zu [[ai-literacy|KI-Kompetenz]] und [[reducing-ai-misuse|Missbrauch reduzieren]] entwickelt Strategien (erst denken/KI danach/reflektieren, KI-Deklaration, Kalibrierungstraining), die zu diesem Schirm gehören.
@@ -91,6 +94,12 @@ Jene Betonung erhaltener Anstrengung ist nicht absolut: ein vierstudien-[[mixed-
 - **Handlungsfähigkeit der lernenden Person zentral halten:** aktive, sokratische und Scaffolding-Pädagogiken erhalten jenes produktive Ringen und jene [[agency|Handlungsfähigkeit]], die KI sonst erodieren kann (siehe [[cognitive-offloading|kognitive Entlastung]], [[desirable-difficulties|wünschenswerte Schwierigkeiten]]).
 - **KI so entwerfen, dass sie gute Pädagogik vollzieht:** KI-Agenten und Tutoren sollten in etablierten Instruktionsrahmenwerken fundiert sein, nicht in standardmäßiger Antwortgenerierung.
 - **Mit und über KI unterrichten:** Pädagogiken sollten sowohl KI nutzen, um zu unterrichten, als auch Lernenden beibringen, KI verantwortungsvoll zu nutzen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Technisches KI-Wissen ist, was Lehrkräfte am meisten brauchen.“** Über **46 Lehrkräfte und 2.832 Lernende** hinweg sagte **pädagogisches KI-Wissen der Lehrkräfte** die Wahrnehmungen der Lernenden von KI für das sozial Gute voraus. Pädagogisches Wissen übertraf technisches Wissen, was umkehrt, wohin die meisten Trainingsinvestitionen gehen.
+- **„Der Hauptbeitrag von KI in der Bildung ist instruktional.“** Ein **PRISMA-Review von 28 Studien** fand, dass KI am häufigsten **Unterrichtsplanung und Assessment-Design** verbesserte — der klarste Beitrag ist das **Auslagern administrativer Arbeit**, nicht das Lehren. Ein Fall, der auf instruktionalen Gewinnen aufbaut, steht auf dem schwächeren Zweig der Evidenz.
+- **„KI-Kompetenz-Unterricht überträgt sich automatisch auf besseres Lehren.“** Eine Metaanalyse auf drei Ebenen von **59 Studien (172 Effektstärken)** fand, dass **wissensfokussierte Interventionen (g ≈ .97)** andere Ansätze beim Bewegen von Wissen klar übertrafen. Wissen zu bewegen ist das gemessene Ergebnis; ob es die Praxis erreichte, ist die nächste Frage.
 
 ## Verbundene Konzepte
 

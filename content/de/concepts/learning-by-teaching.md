@@ -1,7 +1,7 @@
 ---
 title: Lernen durch Lehren
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -105,6 +109,16 @@ Die obige [[research-methods-aied|Forschung]] konvergiert auf einige wiederverwe
 - **LbT ist ein skalierbares Gegenmittel gegen KI-Überabhängigkeit** —, es kehrt die Tutor/Studierenden-Rolle um und hält die lernende Person kognitiv aktiv, was mehr zählt, je flüssiger und „hilfsbereiter“ KI wird.
 - **Fehlbarkeit ist ein Merkmal, kein Bug.** Ein Unterrichteter, der *zu* korrekt ist, entfernt die Fehlerkorrektur und Lückenerkennung, die LbT wirken lassen; gestalten Sie für das produktive Ringen statt dagegen.
 - **Offene Fragen bleiben:** Wie halten sich LbT-Interaktionen über ein Semester hinaus, wenn Neuheit vollständig verblasst? Überträgt sich LbT in gleichem Maßstab auf nicht-Informatik-, weniger strukturierte Domänen? Kann automatisierte Dialogkodierung ein praktischer, echtzeitnaher Engagement-Monitor für Lehrende werden? Und wie halten wir die Lehrrolle für *jede*n Studierende*n* sinnhaft statt für eine motivierte Minderheit?
+
+## Verbreitete Fehlvorstellungen
+
+**„Jeder Unterrichtete funktioniert, denn der Nutzen liegt im Erklären."** Der Nutzen hängt davon ab, dass die Antworten des Unterrichteten informativ sind. Ein Unterrichteter, der bereits alles versteht, gibt dem Tutor keine Lücke zu entdecken, weshalb es **Ingenieursarbeit an der Fehlbarkeit** braucht, um ein LLM zu einem guten Unterrichteten zu machen — entworfene Fehler und Verwirrung, die die Lehr-Studierende diagnostizieren und korrigieren muss. Der Protégé-Effekt kommt aus der Unwissenheit des Unterrichteten; ein fähiger Unterrichteter entfernt den Mechanismus.
+
+**„Generierte Fehler sind gut genug, weil sie falsch sind."** Nur wenn sie plausibel sind. In einer verblindeten Annotationsstudie **klassifizierten Expertinnen und Experten 164 von 196 (83,7%) der LLM-generierten Java-Einreichungen als authentische** Studierendenarbeit — was zugleich Beleg dafür ist, dass die Fehler realistisch sind, und eine Warnung, dass ein Unterrichteter auf Weisen falsch liegen kann, die die falsche Diagnose lehren.
+
+**„Ein LLM zu bitten, sich verwirrt zu geben, ist ein trivialer Prompt."** Es ist ein Designproblem, weil die Fehlbarkeit auf das unterrichtete Konzept und auf das aktuelle Modell der Lernend-Lehrenden kalibriert sein muss. Zufällige Fehler erzeugen Debugging-Übung; Fehler, die eine spezifische plausible Fehlvorstellung widerspiegeln, erzeugen konzeptuelle Umstrukturierung, und nur das zweite ist das pädagogische Ziel.
+
+**„Lernen durch Lehren ist eine weichere Aktivität als unterrichtet zu werden."** Es ist anspruchsvoller. Sich aufs Unterrichten vorzubereiten erzwingt die Organisation des Wissens und das Auffinden der eigenen Lücken, weshalb der Ansatz Missverständnisse sichtbar macht, die passives Rezipieren verdeckt — die Schwierigkeit ist der Mechanismus, nicht ein zu minimierender Kostenfaktor.
 
 ## Verbundene Konzepte
 

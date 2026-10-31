@@ -1,7 +1,7 @@
 ---
 title: Simulation von Lernenden
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-24T20:55:56-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -9,13 +9,17 @@ audience: [instructors]
 confidence: high
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 translation_of: concepts/simulating-students
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,8 @@ Validität ist das zentrale Anliegen: Ein bzw. eine simulierte Studierende ist n
 
 Der Fehler ist quantifiziert: Über sieben Modelle von 4B bis 120B Parametern hinweg kippten Simulatoren unabhängig vom Feedback mit nahezu gleichförmigen Raten zur richtigen Antwort, daher sagt Output-Ähnlichkeit nichts über den dahinterliegenden Glaubenszustand aus, während Training gegen den Selective Flip Score die Treue um bis zu +0,56 hob ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar & Sachan (2026)]]).
 
+**Simulierte Klientinnen und Klienten entfernen die Klärungsphase, und das Verhalten der Trainierten folgt.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] verglichen 64 Mensch-Mensch-Chat-Rollenspiele in der Beratung mit 74 Mensch-LLM-Gesprächen (Mixtral 8x7B, 4-Bit) unter dem GeCCo-Kategoriesystem und fanden, dass LLM-Klientinnen und -Klienten das in ihrem Prompt eingebettete Problem offenlegten, statt es zu umkreisen. Beratende erreichten folglich Problem-Solving in 17,63% des kodierten Verhaltens gegenüber 10,67% mit menschlichen Klientinnen und Klienten, stützten sich stärker auf sachliches Spiegeln als auf fördernde Moderation und schlossen Sitzungen häufiger mit Formalitäten (11,95% gegenüber 5,95%). Die Designfolge ist, dass ein Curriculum, das vor allem auf simulierten Klientinnen und Klienten aufbaut, die zweite Hälfte einer Sitzung trainiert: das Herauslocken eines zögerlichen Berichts ist genau das, was der simulierte Klient überspringt, sodass ein Prompt, der die Klientin oder den Klienten zurückhalten lässt, es wiederherstellt.
+
 ### Verbindung zur Wissensbasis
 
 Simulation von Lernenden sitzt an der Schnittstelle von [[simulation|Simulation]], [[student-modeling|Modellierung von Studierenden]] und [[knowledge-tracing|Knowledge Tracing]]. Es ist eine eigene Nutzung [[generative-ai|generativer KI]] in der Bildung (Lernende modellieren statt sie zu betreuen) und eine Anwendung von [[agentic-ai|Multi-Agent-Systemen]]. Sie stützt [[intelligent-tutoring|intelligentes Tutoring]], [[adaptive-learning|adaptives Lernen]], [[personalized-learning|personalisiertes Lernen]] und [[teacher-role|Lehrkräfte]]entwicklung, und sie überlappt sich mit Patientensimulation für [[professional-training|berufliche Weiterbildung]] (z. B. in [[special-education|Sonderpädagogik]]- und [[medical-education|medizinischen Bildungskontexten]]). Auf der Paradigmenebene erweitern [[agent-based-educational-science-2026|Zhang, Jiang und Tang (2026)]] dies über die Evaluation hinaus: Ihr Positionspapier argumentiert, die Bildungswissenschaft leide an einer strukturellen Fehlpassung zwischen ihrer Theorie und ihrem Daten- und Methodenapparat, und schlägt agentbasierte Bildungswissenschaft vor, in der Agenten Lernende, Lehrende, [[parents-and-families|Eltern]] und Peers modellieren, während der Simulationsapparat selbst –, nicht der einzelne Agent –, als Forschungsinstrument dient, zeitlich ausgedehnte Entwicklungstrajektorien und kontrafaktische Designs erzeugend, die in Klassenzimmern langsam, kostspielig oder ethisch nicht durchführbar sind, wobei empirische Daten als Kalibrierung, Validierung und Randbedingungen neu gefasst werden. Das Papier berichtet keine empirische Validierung irgendetwas davon: Student Development Agents sind nur konzeptuell spezifiziert, und der eigene Review der Autoren räumt ein, [[llm|LLMs]] verfehlten weiterhin interindividuelle Variabilität und die Validierung generativer sozialer Simulation bleibe die ungelöste Herausforderung des Feldes, daher ist die Behauptung, Simulation würde verändern, wie Evidenz und Replikation funktionieren, ein Vorschlag statt ein demonstriertes Ergebnis.
@@ -119,6 +125,12 @@ Die Durable-Skills-Arbeit aus dem Jahr 2026 kehrt die übliche Richtung der Simu
 
 Training gegen einen Simulator kann auch wandern: Der Verstärkungslern-Agent von TutorLoop, offline gegen einen simulierten Studierenden trainiert, transferierte unverändert auf eine neue echte Lernaufgabe ohne Neutrainieren (N = 187), wo sein spärlicheres, aber besser getaktetes Feedback dichteres Feedback übertraf ([[tutorloop-sensor-cognitive-feedback-2026|Xu & Zhang, 2026]]).
 
+## Verbreitete Fehlvorstellungen
+
+- **„LLM-Studierende sind gute genug Stellvertreter."** **Simulationen decken die einfachsten Studierenden ab, und wenige sind validiert**: **zwölf Lehrende**, die LLM-Studierende betreuten, berichteten **übermäßig komplexe Sprache, fehlende Emotion** und weitere Abweichungen von echten Lernenden. Der Stellvertreter modelliert den handhabbaren Fall.
+- **„Ein simulierter Studierender mit einer Wissenslücke verhält sich wie ein Lernender mit dieser Lücke."** Das Unterdrücken von **16 gezielten Wissenskomponenten in Mistral-7B senkte die Genauigkeit von etwa 0,75 bei einem Vergessensverhältnis von 10% auf unter 0,5 bei 40%**, während das Basismodell hielt. Die Verschlechterung war konstruiert, und das macht sie zu einer kontrollierten Manipulation statt zu einer Emulation.
+- **„Persona-Stabilität ist ein Modellwahlproblem."** Es ist ein **Interaktionsdesignproblem**: Beim Kreuzen von **fünf LLMs mit drei Promptdesigns und vier ADHS-Intensitäts-Personas** folgten die skriptgesteuerten Unterschiede dem Promptdesign statt dem Modell. Ein besseres Modell zu wählen behebt keine instabile Persona.
+
 ## Verbundene Konzepte
 - [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
 - [[simulation]]
@@ -137,6 +149,7 @@ Training gegen einen Simulator kann auch wandern: Der Verstärkungslern-Agent vo
 - [[teacher-role]]
 
 ## Verbundene Artikel
+- [[rudolph-llm-simulated-counselling-clients-2026]] — Simulierte Beratungsklienten legen ihr Problem schneller offen, sodass Trainierte die fördernde Moderation überspringen
 - [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: vom Rollenspiel zur Modellierung von Lernendenverhalten für eine treue Simulation von Lernenden
 - [[tutorloop-sensor-cognitive-feedback-2026]] — Ein gegen einen Simulator trainierter Tutor mit Verstärkungslernen transferierte offline auf eine neue echte Aufgabe (Xu & Zhang 2026)
 

@@ -1,19 +1,23 @@
 ---
 title: Netzwerkanalyse
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-10-24T23:14:18-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,7 @@ Netzwerkmethoden werden über die Evidenzbasis der Wissensbasis hinweg genutzt, 
 - **Das Instrument validieren, bevor sein Netzwerk gelesen wird.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai & Alshahri (2026)]] bauten die 45-Item AI-STEM-MLCS über die volle Skalenentwicklungsroute — Inhaltsvaliditätsverhältnisse von Experten, explorative dann konfirmatorische Faktorenanalyse (CFI = 0.983, RMSEA = 0.019), McDonalds ω von 0.888–0.905, und Zwei-Wochen-Test-Retest-ICCs von 0.751–0.900 —, bevor sie die vier Dimensionen mit explorativer Graphanalyse modellierten. Struktur von einem Netzwerk abzuleiten, dessen Knoten unvalidierte Skalenpunktewerte sind, ist das, wovor jene Ordnung schützt, und die Autoren benennen die Saudi-spezifische Validierung als die Grenze für die Übertragung der Struktur.
 - **Mit Sorgfalt interpretieren.** Knotengranularität (z. B. ein grober „chat"-Knoten) kann Absicht verdecken; automatisierte Klassifikation trägt einige Mehrdeutigkeit; und querschnittliche Netzwerkstruktur etabliert keine Kausalität.
 - **Netzwerke, die offenlegen, was ein Aggregat verbirgt.** [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] fanden, dass die GenAI-annotierende Klasse ihre Kontrolle übertraf und stärker engagierte, teilten dann die experimentelle Klasse am Median der Leistung und zeigten, dass der Zuwachs nicht geteilt wurde: leistungsstarke Gruppen initiierten 60.7 Prozent der Feedbackanfragen über ihre Annotationen hinweg gegenüber 34.0 Prozent bei leistungsschwachen Gruppen, die in einer selbstbezüglichen Schleife blieben (Gruppentrennung signifikant auf der ENA-X-Achse, U = 25.00, p = 0.01). Die Designlehre ist, dass ein Effekt auf Gruppenebene zwei verschiedene Interaktionsstrukturen zusammenfassen kann — und die beiden Gruppen waren intakte Klassen, sodass der Vergleich das Muster identifiziert, ohne es kausal zuzuschreiben.
+- **Co-Wort- und Co-Autorenschafts-Cluster halten Veröffentlichungspraxis ebenso fest wie intellektuelle Nähe.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] warnt, dass bibliometrische Zentralität und Clusterbildung widerspiegeln, welche Organe, Sprachen und Regionen indexiert sind, sodass eine Karte eines Felds keine neutrale Messung desselben ist.
 
 ## Implikationen für die KI-in-der-Bildung-Forschung
 
@@ -75,6 +80,12 @@ Netzwerkmethoden werden über die Evidenzbasis der Wissensbasis hinweg genutzt, 
 ## ENA-Validierung simulierten kollaborativen Dialogs
 
 - **ENA als Validierung für simulierten Dialog.** Fang (2026) wendet Epistemic Network Analysis an, um zu evaluieren, ob feinjustierte LLM-Agenten die Struktur echten kollaborativen [[problem-solving|Problemlöse]]dialogs reproduzieren. Simulierte Adjazenzvektoren mit dem empirischen Netzwerk vergleichend berichtet er eine ENA-Distanz von 0.17 — innerhalb der 95-Perzentil-Schwelle der Nullverteilung, mit einem Permutations-p-Wert von 0.65 —, was ENAs Kraft als [[quantitative-research|quantitative]] Prüfung der Fidelity generativer [[simulation|Simulationen]] von Diskurs demonstriert, neben anderen Anwendungen von ENA/SNA/TNA in der Bildungsforschung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Netzwerkanalyse ist objektiv, weil sie computational ist."** **Die Codierung ist das Fundament**: alle Netzwerkvarianten hängen davon ab, Rohdaten (Äußerungen, Ereignisse, Beziehungen) verlässlich in diskrete Knoten zu codieren, und automatisierte Codierung erbt ihre Definitionen von denen, die sie gesetzt haben. Die Visualisierung sieht wie eine emergente Struktur aus, und ihre Knoten sind interpretative Entscheidungen.
+- **„Eine Verschiebung der Netzwerkstruktur ist für sich genommen ein Lernzuwachs."** In einer Falldiskussion mit **zwanzig Graduierten aus gemischten Disziplinen** stieg der **Anteil geteilter Begriffe der Größe 3 von 5,2% auf 8,0%**, während **Inhaltstoken auf etwa das 0,65-Fache ihres Niveaus nach der Lektüre fielen**. Zwei strukturelle Maße bewegten sich in entgegengesetzte Richtungen, sodass „das Netzwerk hat sich verändert" kein Befund ist, bevor man sagt, entlang welches Maßes und warum es zählt.
+- **„Mehr geteilte Begriffe bedeuten bessere Zusammenarbeit."** Ein steigender Anteil geteilter Begriffe neben fallender Vielfalt der Inhaltstoken ist mit Konvergenz auf ein kleineres Vokabular vereinbar. Konsens und Verengung sind strukturell ähnlich, weshalb das Maß den Inhalt braucht, aus dem es berechnet wurde.
 
 ## Verbundene Konzepte
 

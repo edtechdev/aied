@@ -1,18 +1,22 @@
 ---
 title: Latent-Profile-Analyse
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,12 @@ Vier Vorsichtsmaßnahmen, jede in den Quellseiten genannt:
 2. **Personenzentrierte Methoden bevorzugen, wenn das Ergebnis Differenzierung ist.** Die Lehramtsstudierenden- und Managerstudien präsentieren beide diese Verschiebung als ihren methodischen Beitrag, weil durchschnittliche Prädiktoren die Konfigurationen nicht offenbaren können, die differenzierte Unterstützung rechtfertigen.
 3. **Retentionsevidenz vollständig berichten.** BIC/AIC-Vergleiche, Entropie, Profilgrößen und eine Stabilitätsprüfung publizieren, und klar sagen, wann eine Klassenzahl explorativ ist.
 4. **Profile als Diagnostik behandeln, nicht als Etiketten.** Ein Profil ist ein Forschungskonstrukt mit geschätzter Grenze, sodass ein Werkzeug, das Individuen benannten Kategorien zuordnet, die Vorsicht jedes [[educational-measurement|Mess]]instruments trägt —, und [[differential-effects-across-learner-groups|unterschiedliche Effekte zwischen Gruppen von Lernenden]] die Prüfung jeder Subgruppenanalyse verdienen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Latent Profile Analysis entdeckt Gruppen, die existieren."** LPA verwandelt Lernendendiversität aus einer rhetorischen Behauptung in einen messbaren Befund, und die Profile sind ein **Modell eines Kontinuums, das an gewählten Grenzen geteilt wird**, keine natürlichen Arten. Die Anzahl der Profile ist eine analytische Entscheidung.
+- **„Jedes Mitglied der Familie latenter Variablen ist geeignet."** Welche Methode Sie nutzen, **folgt aus den Indikatoren**: **LCA für kategoriale Indikatoren**, LPA für kontinuierliche. Zuerst die Methode und dann die Indikatoren zu wählen macht das Ergebnis zu einem Artefakt der Wahl.
+- **„Profile sind über Studien hinweg vergleichbar."** Chen und Kolleginnen und Kollegen profilierten **128 taiwanesische Lehramtsstudierende** über fünf Konstrukte aus [[technology-acceptance-model|TAM]]/UTAUT2, während Acquah und Kolleginnen und Kollegen **509 ghanaische Studierende im Grundstudium** profilierten. Verschiedene Indikatoren in verschiedenen Populationen erzeugen keine kommensurablen Profilbezeichnungen.
 
 ## Verbundene Konzepte
 

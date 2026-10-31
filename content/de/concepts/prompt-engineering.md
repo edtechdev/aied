@@ -1,7 +1,7 @@
 ---
 title: Prompt-Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T21:57:17-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -20,14 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
 > **Prompt Engineering** — die Praxis, Eingaben an große Sprachmodelle zu entwerfen und zu verfeinern, um gewünschte Ausgaben zu erreichen. In der Bildung dient Prompt Engineering doppelten Rollen: als Fähigkeit der lernenden Person (Lernende müssen lernen, wirksam zu prompten) und als Hebel des Systemdesigns (Entwickelnde bauen Prompts, die das Verhalten [[intelligent-tutoring|KI-Tutorings]] prägen).
-
-- **Vage Prompts hinterlassen eine Spur im Dialog.** Das Signatur der qualitativ schwächeren Gruppe war eine sich selbst wiederholende Klärungsschleife (IC→IC, Z = 3,25), zurückzuführen auf vage Prompts und Fehllesungen durch die KI, und sie trug die größte Frustrationslücke der Studie (2,12 vs 3,82); Prompt-Debugging an authentischen Protokollen greift es dabei auf, wie es entsteht ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
-
 ## Fragen zum Nachdenken
 
 - Sie haben kürzlich wahrscheinlich einen Prompt in ein KI-Werkzeug getippt. Bedenken Sie nun: die Art, wie Sie ihn formuliert haben, ist nicht neutral — sie kann verraten, wie Sie geplant, gedacht und Ihre Anstrengung verteilt haben. Was könnten Ihre eigenen Prompting-Gewohnheiten darüber sagen, wie Sie an Probleme herangehen?
@@ -50,6 +51,7 @@ Prompt Engineering ist zentral für den wirksamen Einsatz [[generative-ai|genera
 - **Prompt-Kognition folgt der Disziplin, nicht dem Lernenden.** [[student-ai-conversations-cognitive-engagement-2026|Chang und Li (2026)]] klassifizierten 60,087 Prompts aus 116 Kursen und fanden, dass sich Bloom-Stufen-Profile nach Disziplin unterschieden — MINT Apply-prävalent (20.8%), Sozialwissenschaften Create-prävalent (33.8%) —, wobei die Varianz auf Kursebene die auf Lernendenebene übertraf.
 - **Prompting als Kompetenz:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] und [[aaai2026-prompting-literacy-k12|K-12-Prompting-Kompetenz]] rahmen Prompting als Kernbestandteil der [[ai-literacy|KI-Kompetenz]].
 - **Novizinnen und Novizen setzen auf Versuch-und-Irrtum und geben dem Modell die Schuld.** In einem Seminar zu Textlinguistik verfeinerten zehn GenAI-Novizinnen und -Novizen Prompts durch Versuch und Irrtum, griffen selten zu In-Context-Beispielen und schrieben schlechte Ausgaben überwältigend dem LLM statt ihrer eigenen Promptformulierung zu ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
+- **Vage Prompts hinterlassen eine Spur im Dialog.** Die Signatur der qualitativ schwächeren Gruppe war eine sich selbst wiederholende Klärungsschleife (IC→IC, Z = 3,25), zurückzuführen auf vage Prompts und Fehllesungen durch die KI, und sie trug die größte Frustrationslücke der Studie (2,12 vs 3,82); Prompt-Debugging an authentischen Protokollen greift es dabei auf, wie es entsteht ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
 - **Wenn die Lehrkraft den Prompt vormacht, nutzen Lernende ihn wörtlich wieder.** Unter 310 aufgezeichneten Prompts aus zwölf STEAM-Gruppen der Mittelstufe war exaktes Kopieren der Anweisung der Lehrkraft die häufigste Perspektive der Lernenden bei 47.1%, vor spontaner Untersuchung bei 28.7% ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
 
@@ -86,6 +88,16 @@ Prompt Engineering verbindet sich mit [[scaffolding|Scaffolding]] — gut gestal
 - **Prompting-Stil, nicht nur Promptqualität, verfolgt Ergebnisse.** Aus 1,540 Tutoringsitzungen abgeleitete Merkmale verbanden konzeptuelles Fragen mit Prüfungsleistung, während Aufgabendelegationsverhalten negativ korrelierte —, doch dieselben Merkmale replizierten im folgenden Semester nicht, weshalb es sich um Verhaltensmuster statt um stabile Fähigkeiten handelt ([[principal-trait-analysis-human-ai-skills-2026|McNichols, Du und Lan (2026)]]).
 - **Eine nutzbare Taxonomie, und welche Prompt-Kategorien tatsächlich sich auszahlen.** [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] übersetzen technische Strategien in das 3K-Modell (*Kontext, Kernauftrag, Klarheit* — context, core task, clarity): elf praxisorientierte Kategorien, jede mit einer gut/durchschnittlich/suboptimal-Rubrik, und jede getestet als experimentelle Variation an für Lehramtsstudierende erzeugtem Feedback zu deren Lernzielen. Domänenspezifische technische Sprache war die entscheidende Kategorie — das Ersetzen von Fachterminologie durch alltägliche Paraphrasen reduzierte die Feedbackqualität über drei Modelle hinweg signifikant (β = −0.412) —, während das Hinzufügen konkreter Beispiele und das Entfernen der Chain-of-Thought-Anweisung in der ersten Studie keinen signifikanten Unterschied zur Basislinie erzeugte; Beispiele halfen, sobald die Analyse mit den besten Modell-Prompt-Kombinationen wiederholt wurde (β = 0.52). Promptqualität und Modellwahl erklärten zusammen 42.8% der Varianz in der bewerteten Feedbackqualität, was der Fall des Papiers dafür ist, dass Prompt Engineering eine messbare und lehrbare Kompetenz ist statt eine stilistische Präferenz — und dass seine Kategorien in der Effektstärke nicht austauschbar sind.
 
+- **Bessere Prompts reduzierten die Iteration, ohne die Ausgabequalität zu erhöhen.** Lehrkräfte, die vor einem Experiment zur Unterrichtsvorbereitung eine KI-Schulung erhielten, schrieben längere, detailliertere Prompts, die weniger Verfeinerung brauchten, während untrainierte Lehrkräfte kürzere Prompts nutzten und mehr nachfolgende Iterationen benötigten, doch verblindete Expertenbewertungen der entstandenen Materialien waren gleich ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). Prompt-Handwerk kaufte hier weniger Korrekturrunden, nicht einen stärkeren ersten Entwurf.
+
+- **Studierende nennen Intent-Ausrichtung als die Schwierigkeit, nicht Syntax.** In einer Befragung von 234 chinesischen Universitätsstudierenden fanden [[lei-fan-genai-prompting-strategies-2026|Fan und Liu (2026)]], dass Verfeinerung nach einer schlechten Ausgabe die am stärksten befürwortete Fähigkeit war (72,2%), während das Setzen von Ausgabebeschränkungen die schwächste war (66,2%, mit 22,2% neutral). Strategiepräferenzen bewegten sich zwischen einer Forschungsaufgabe und einem kreativen Brief kaum: von vier gematchten Paaren unterschied sich nach Korrektur nur die Angabe des Ausgabeformats (0,26 Punkte, dz = 0,233, BH-korrigiertes p = .002). Eine feste Rolle-Aufgabe-Format-Vorlage erhielt die schwächste Unterstützung aller allgemeinen Strategien mit 59,4%. Unter den 12,8%, die eine offene Frage beantworteten, erschien Prompt-Intent-Ausrichtung in 40,0% der Kommentare, und mehr Detail hinzuzufügen löste einen festgefahrenen Austausch nicht zuverlässig. All dies ist Selbstauskunft aus einem Fragebogen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Promptqualität ist ein Merkmal der Studierenden."** **Prompt-Kognition folgt der Disziplin, nicht der studierenden Person**: [[student-ai-conversations-cognitive-engagement-2026|Chang und Li (2026)]] klassifizierten **60.087 Prompts aus 116 Kursen** und fanden, dass die Disziplin die Prompt-Sophistication vorhersagte. Studierenden besser prompten beizubringen adressiert eine Variation, die im Fach selbst liegt.
+- **„Studierende entwickeln ihre eigene Prompting-Praxis."** Wenn die Lehrkraft den Prompt vormachte, **nutzten Studierende ihn wörtlich wieder** — unter **310 aufgezeichneten Prompts aus zwölf STEAM-Gruppen der Mittelstufe** war exaktes Kopieren der Anweisung der Lehrkraft verbreitet. Modellierung erzeugt Reproduktion, weshalb sie ein Hebel des Systemdesigns ist statt eine übertragbare Fähigkeit.
+- **„Prompting ist zuerst eine Fähigkeit der Lernenden und erst zweitens eine Systemeigenschaft."** Das verschiebt Prompting **zu einem adaptiven Hebel des Systemdesigns**, mit gemessenen Effekten auf **Engagement und Effizienz (28,1% gegenüber 19,6% Übungskonversion)**. Die Prompting-Angebote der Schnittstelle bewegten das Verhalten stärker als die Instruktion im Prompten.
+
 ## Verbundene Konzepte
 
 - [[pedagogical-patterns]] — Die Stützungsschicht innerhalb von Sequenzen strukturierter Nutzung
@@ -107,6 +119,7 @@ Prompt Engineering verbindet sich mit [[scaffolding|Scaffolding]] — gut gestal
 
 ## Verbundene Artikel
 
+- [[lei-fan-genai-prompting-strategies-2026]] — 234 Studierende darüber, was sie schwer finden: Intent-Ausrichtung, nicht Prompt-Syntax
 - [[wang-teacher-student-centered-agents-physics-2026]] — Agentenrolle und Constraints-Prompts als Designvariable im Physiklernen (Wang et al. 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. Feinjustierung bei der GPT-basierten Erzeugung von L2-Hörverstehens-Items (Aryadoust & Wong 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — Was Studierende fragen, zählt: Interaktionstiefe mit LLMs, Aufgabenqualität und unmittelbarer Abruf (Tsiligkiris 2026)

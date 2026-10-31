@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Hochschulbildung
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,12 @@ Ein dritter Weg härten die Aufgabe selbst: das Rendern von Prompts als perturbi
 - **Nutzen Sie KI, um Feedbackqualität und -quantität zu erhöhen.** [[ai-assistance-discretionary-feedback|KI-assistiertes Feedback]] kann das Feedback erhöhen, das Lehrende liefern; koppeln Sie es mit [[human-in-the-loop-ai|menschlichem Urteilsvermögen]], damit es Lernen verbessert statt bloß zu automatisieren.
 - **Gehen Sie mit Bewertungs- und Assessment-Innovation absichtsvoll um.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argumentieren, [[assessment|Assessment]] und Bewertung zählten zu den einflussreichsten Faktoren, die Lernen in der Hochschulbildung prägen, dennoch blieben sie in Feldern wie [[business-education|Managementbildung]] untererforscht (nur 58 Artikel über 20 Jahre in vier führenden Zeitschriften). Traditionelle, [[summative-assessment|summativ]]-lastige und normreferenzierte Ansätze untergraben tiefes Lernen, [[well-being|Wohlbefinden]], Gerechtigkeit und [[academic-integrity|Integrität]] im Zeitalter generativer KI; die Autoren drängen Lehrende, aktiver und reziprok mit fünf innovativen Praktiken umzugehen (authentisches Prüfen, Selbst- und Peer-Bewertung, Neubewertung, standardsbasierte Bewertung, ungrading), und halten fest, dass Umsetzung institutionelle und kulturelle Unterstützung und inkrementelles Experimentieren verlangt.
 - **Behandeln Sie Forschungsschulung und -betreuung als eigenen KI-Kompetenz-Ort.** [[dai-chan-responsible-genai-research-ai-literacy-2026|Postgraduierte Forschende]] vollziehen [[ai-literacy|KI-Kompetenz]] als [[situated-learning|situierte]] Praxis statt als statisches Fähigkeiten-Set, und institutionelle Leitlinien halten weitgehend bei Lehren und Assessment. Leitlinien für Bachelorarbeit, Dissertation und Publikationsarbeit sollten Verifikation, Attribution und Offenlegung konkret für jede KI-Kompetenzdimension [[scaffolding|stützen]] —, und [[engagement-intensity-learner-modeling|einfache Signale vor der Instruktion]] können diese Unterstützung in Forschungsethik-Kursen adressieren —, statt binäre Regeln auszugeben.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die institutionelle KI-Übernahme ist gereift."** Die **symbolische Ebene ist gesättigt, während die strukturelle Ebene dünn bleibt**: **100% haben eine KI-Taskforce und einen KI-Masterabschluss, aber nur 12% haben eine KI-Leitung auf Führungsebene**, und nur 5% verlangen einen weiteren institutionellen Schritt. Ankündigungen sind den Strukturen um eine Größenordnung voraus.
+- **„Prestige sagt die institutionelle KI-Reife vorher."** Die Institutionalisierung erwies sich als **unabhängig vom Prestige (Rangkorrelation r ≈ 0.04)**, mit signifikanter **regionaler Variation (ANOVA F = 5.86, p < .001)**. Reputation ist kein Stellvertreter für Bereitschaft, und Geografie sagt mehr voraus als Status.
+- **„Wie KI epistemische Arbeit verteilt, ist über Institutionen hinweg gleichförmig."** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn und Rehm (2026)]] klassifizierten **102 empirische Studien zur Hochschulbildung** danach, wie epistemische Arbeit verteilt wurde, und die Variation ist der Befund, nicht ein Detail.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: Erkundungsbasiertes Lernen
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-24T21:55:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,13 +9,17 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,16 @@ Die fragengesteuerte, prozessfokussierte Struktur des IBL ist das natürliche Zu
 [[productive-failure|Produktives Scheitern (PF)]] ist der strukturierteste Vetter des erkundungsbasierten Lernens: Lernende erkunden Probleme und erzeugen Lösungen *vor* direkter Instruktion und konsolidieren dann. Beide teilen die Prämisse, dass von Lernenden erzeugte Versuche (selbst gescheiterte) [[prior-knowledge|Vorwissen aktivieren]] und Lernende darauf vorbereiten, von Instruktion zu lernen. Die KI-Zeitalter-PF-[[research-methods-aied|Forschung]] schärft, wie KI Erkundung begleiten sollte, ohne sie kurzzuschließen: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] leiten KI-Designprinzipien ab, um den Kampf durch Problemerkundung und Lösungserzeugung zu bewahren; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] zeigen, dass LLM-Tutoren so gesteuert werden können, dass sie Antworten zurückhalten und mehrere Versuche hervorlocken; [[lukesova-clue-before-correction-2026|Hinweis-vor-Korrektur]]-Aufgaben exemplifizieren hinweisbasierte (statt direkte) Begleitung, die Lernende weiter schlussfolgern lässt. Diese verbinden Erkundung und PF mit dem übergreifenden Imperativ, dass KI den [[desirable-difficulties|produktiven Kampf]] nicht beseitigen darf, durch den dauerhaftes Lernen entsteht.
 
 In Außen-Settings wird derselbe Imperativ räumlich: GenAI kann vorstrukturieren, was Lernende bemerken, bevor sie der Evidenz begegnen, daher schützt eine Feld-zuerst-Sequenz, die erzeugte Erklärung zurückhält, bis Beobachtungen und erste Interpretationen aufgezeichnet sind, die Erkundung ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+**„KI passt natürlich zu erkundungsbasiertem Lernen, weil beides explorativ ist.“** Die Passung hängt vollständig am Design: [[generative-ai|generative KI]] und [[llm|LLM]]-Werkzeuge können als interaktive Mit-Erkundende dienen, die Fragen und Untersuchung unterstützen, **nur wenn sie so gestaltet sind, dass die Eigentümerschaft der Frage bei den Studierenden bleibt**. Anders genutzt folgt eine explorierende lernende Person einer Antwort, statt eine Untersuchung durchzuführen, und von außen sehen beide gleich aus.
+
+**„Jede KI, die man einer Erkundungseinheit hinzufügt, verbessert sie.“** Der KI-Beitrag muss von der Erkundung selbst isoliert werden. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] tat dies mit einem Drei-Gruppen-Design in einer Klimastudie: KI-unterstützte Erkundung übertraf reine Erkundung bei der **Entscheidungsfindung (d = 0,69)**, wobei der Beleg in einem spezifischen Ergebnis liegt und nicht in der allgemeinen Überlegenheit des Ansatzes.
+
+**„Erkundung ist per Definition unstrukturiert.“** Die Lehrperson gibt Scaffolding, und die Struktur liegt im Fragedesign und im Reflexionszyklus statt in der Vermittlung von Inhalten. Das Scaffold zu entfernen macht die Erkundung nicht authentischer; es macht sie ungescaffoldet.
+
+**„Von Studierenden geleitete Fragen werden wohlgeformt sein, wenn sie interessiert sind.“** Eine bearbeitbare Frage zu generieren ist die Fähigkeit, die entwickelt wird, weshalb ein System, das gute Fragen liefert, die Erkundungsfähigkeit bereits ausgeübt hat, für die die Aktivität existiert.
 
 ## Verbundene Konzepte
 

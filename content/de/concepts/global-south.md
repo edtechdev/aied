@@ -1,7 +1,7 @@
 ---
 title: Globaler Süden
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-24T21:37:05-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -54,11 +58,19 @@ Mainstream-Forschung zu KI und Bildungstechnologie ist historisch von westlichen
 
 - **Gerechtigkeit ist die am wenigsten untersuchte Dimension in der Region.** Ein PRISMA-ScR-Scoping-Review von 75 Studien aus dem Globalen Süden (2022–2025) fand Gerechtigkeit als am wenigsten untersuchtes seiner fünf Gebiete trotz ihrer Zentralität für inklusive Bildung und berichtete eine Lücke zwischen den von Studierenden angegebenen ethischen Positionen und ihrem Verhalten ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi und van der Merwe (2026)]] argumentieren aus einem südafrikanischen Klassenraum der Klasse 9, dass eine restriktionsorientierte institutionelle Politik die Bedingungen verschließt, unter denen KI Lehrende unter pädagogischer Knappheit erweitern statt ersetzen könnte, und dass die Interaktionsdaten, die Lernende erzeugen, unter fremden Governance-Regimen gehalten werden.
+
 ### Implikationen
 
 Globalen-Süden-Kontexte zu beachten erfordert, über die Annahme hinauszugehen, westliche Modelle und Benchmarks übertrugen sich direkt. Es verlangt lokal gegründete Datensätze, kulturell relevante [[pedagogy|Pädagogik]], gemeinschaftszentrierte Evaluationsstandards und Forschung, die die gelebten und gemeinschaftlichen Epistemologien der Lernenden als autoritativ behandelt — in Übereinstimmung mit Rahmenwerken wie gemeinschaftsbasiertem KI-Lernen und [[technology-acceptance-model|Technologieakzeptanz]]-Forschung, die an lokale Bedingungen angepasst sind.
 
 Die Skalierungsbilanz ist Teil dieses Bildes, und sie ist ernüchternd. Programme, die im Pilotmaßstab funktionieren, funktionieren häufig nicht mehr, wenn Regierungen sie durchführen: Das kenianische Programm, das unter nichtstaatlicher Umsetzung erhebliche Zuwächse erzeugte, zeigte im staatlichen Maßstab keinen nachweisbaren Zuwachs (Bold et al.), Effektstärken fallen tendenziell, wenn Programme wachsen (Vivalt), und die Umsetzungsqualität verdünnt sich, wenn Standorte sich vervielfachen (Al-Ubaydli, List & Suskind). Lateinamerikas eigener Präzedenzfall ist das peruanische One-Laptop-per-Child-Programm — etwa 800.000 verteilte Laptops ohne nachweisbaren Effekt auf [[math-education|Mathematik]] oder Lesen —, aus dem die gezogene Lehre war, dass Zugang zu Technologie kein Unterricht ist. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] fügen der Skalierungslehre eine Berichtslehre hinzu: In der El-Salvador-Episode 2026 wurde ein KI-Tutoring-Pilot in 171 Schulen als vergleichbar mit Deutschland und Schweden angekündigt, während die repräsentative PISA-2025-Stichprobe desselben Landes in zwei von drei Fächern keine Bewegung zeigte, und die Pilotdaten waren zu dünn (7,0 bewertete Studierende pro Schule gegenüber 25,4 landesweit), um Selektion als Erklärung auszuschließen. Für Systeme des Globalen Südens, die KI im großen Maßstab übernehmen, ist die Implikation doppelt: Die Evidenz, dass eine Reform funktioniert, betrifft meist die Komponenten, die sie bündelt, statt die Technologie in ihrer Überschrift, und ein vor dem Einsatz geplantes schrittweises Ausrollen identifiziert Effekte zu fast keinen Kosten — was am meisten dort zählt, wo Konnektivität die Phasierung ohnehin diktiert.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Kontexte mit wenig Ressourcen haben keinen KI-Ethikrahmen und brauchen einen importierten."** Praktizierende STEAM-Lehrkräfte der Sekundarstufe in einem ressourcenarmen Kontext **schlussfolgern über KI-Ethik durch professionelle Identität, Kursraumrealitäten und kulturelle Normen statt durch formelle Prinzipien**. Das Schlussfolgern existiert und ist situiert; eine universelle Prinzipienliste überträgt sich schlecht darauf.
+- **„Der Governance-Typ sagt die KI-Integration an Universitäten vorher."** Eine vergleichende Inhaltsanalyse von **45 nigerianischen Universitäten** (Bundesstaat, staatlich und privat) fand KI-Integration vorhergesagt durch **Alter der Institution und geografischen Standort — nicht durch den Governance-Typ**. Die Annahme, öffentliche und private Institutionen divergierten, wird widerlegt.
+- **„Die digitale Kluft ist die Haupthürde."** Eine [[qualitative-research|qualitative]] Fallstudie mit **21 sehbeeinträchtigten Studierenden an drei palästinensischen Universitäten** fand, dass GenAI **digitale, geografische und sozioökonomische** Barrieren gleichzeitig überbrückt. Die Barrieren sind geschichtet, und Zugang als das einzige Hindernis zu behandeln lässt die anderen unberührt.
 
 ## Verbundene Konzepte
 

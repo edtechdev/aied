@@ -1,7 +1,7 @@
 ---
 title: Evaluatives Urteilsvermögen
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-24T23:50:47-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-10-24T08:06:00-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 
 Assessments, die von Studierenden verlangen, Arbeit zu produzieren, setzen voraus, dass sie gute von schlechter Arbeit unterscheiden können, zuerst bei anderen und schließlich bei sich selbst. Diese Voraussetzung ist nicht mehr verlässlich: Wenn [[generative-ai|generative KI]] kompetente Prosa, Code und Analyse auf Abruf erzeugen kann, ist die Fähigkeit, ein Produkt zu *produzieren*, ein schwaches Signal für Lernen, während die Fähigkeit, ein Produkt zu *beurteilen*, ein starkes ist. Evaluatives Urteilsvermögen benennt diese Fähigkeit, und die Assessment-Forschung der Wissensbasis stößt bei der Frage, was bewertbar und bewertenswert bleibt, immer wieder auf sie. Sie sitzt dort, wo [[feedback|Feedback]], [[formative-assessment|formatives Assessment]] und [[self-regulated-learning|selbstreguliertes Lernen]] sich treffen, weil Urteil dadurch entwickelt wird, Arbeit gegen Standards zu vergleichen und auf dem Unterschied zu handeln, und weil sie das ist, was wirklich [[critical-thinking|kritische]] [[student-engagement|Auseinandersetzung]] mit KI-Ausgaben möglich macht statt aspirativ.
 
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu und Abdi (2026)]] argumentieren auf Basis eines Scoping Reviews über zwölf Studien, dass KI-Schreibpunktzahlen ein enges Konstrukt reproduzieren: Sie verfolgen prüfbare Oberflächenmerkmale und gewichten Organisation, Kohärenz und Argumentation zu gering, also genau die Dimensionen, an denen ein Urteil über Schreibqualität hängt.
+
 ## Was das Konstrukt ist
 
 Evaluatives Urteilsvermögen ist die Fähigkeit, Qualität zu beurteilen — die eigene Arbeit, die Arbeit von Peers und zunehmend die Arbeit eines KI-Systems —, und zwar anhand von Kriterien, über die man schlussfolgern kann, statt sie aufzusagen. Drei Merkmale unterscheiden es von benachbarten Ideen.
@@ -55,6 +61,7 @@ Vier Argumente konvergieren.
 - **Es ist die Fähigkeit, die KI-Nutzung regelt.** Zu entscheiden, ob ein KI-Vorschlag es wert ist, angenommen, angepasst oder verworfen zu werden, *ist* evaluatives Urteilsvermögen, angewandt auf maschinelle Ausgabe. Kurse, die es nicht sichtbar machen können, können verantwortungsvollen Nutzung nicht von Substitution unterscheiden, weshalb [[academic-integrity|Integritäts]]forscherinnen und -forscher kritische KI-Nutzung zunehmend als bewertbares Ergebnis behandeln statt als zu überwachende Regel.
 - **Es ist der Dreh- und Angelpunkt von Durchsetzung zu Design.** Wo verbotene Nutzung nicht entdeckt werden kann, benennt [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] das Kultivieren evaluativen Urteilsvermögens als einen der drei Designstränge, die Institutionen von [[ai-detection|detektionsgestützter Durchsetzung]] zu validitätszentriertem Assessment verlagern — denn wo die Institution nicht detektieren kann, ist die Fähigkeit, die der Prüfung standhält, ob die studierende Person die Arbeit und ihre Qualität verantworten kann.
 - **Es verwandelt Offenlegung von Geständnis in Evidenz.** Wenn eine Aufgabe von Studierenden verlangt zu erklären, wofür sie KI genutzt haben, welche Vorschläge sie angenommen oder verworfen haben und wie die endgültige Einreichung ihr eigenes Urteil widerspiegelt, wird die [[ai-use-disclosure|Erklärung]] zu einer Demonstration von Urteil statt zu einem Eingeständnis, das punitiv interpretiert wird — und genau das senkt die [[academic-integrity|Kosten der Ehrlichkeit]], die Offenlegung sonst in den Untergrund treiben.
+- **Urteil wird durch gesetzte Beschränkungen kultiviert, nicht durch ihr Entfernen.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] argumentiert, dass generative Beschränkungen wie ein kurzer visueller Entwurf vor einem finalen Artefakt oder ein Limit von drei Interviewclips kognitive Arbeit takten und Urteil sichtbar machen, weil Beschränkungen die Momente schaffen, in denen Beurteilung geübt wird.
 
 Eine weitere Ebene betrifft die *Quelle* eines Urteils, nicht nur seinen Inhalt. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] gibt dieser Ebene ein schärferes Vokabular: seine 13 saudiischen Informatikstudierenden fällten zwei unabhängige Urteile innerhalb eines einzigen Evaluationsereignisses — ob das Feedback nützlich war, und ob seine Quelle die Autorität hatte zu benoten. Sie alle akzeptierten das rubricabasierte Feedback von ChatGPT als klar und spezifisch, während sie die Note überwältigend der Lehrenden vorbehielten („Ich stimme ihm zu, aber mit einer Bedingung, dass die Doktorin das Feedback prüft“), was nahelegt, dass evaluatives Urteilsvermögen in KI-vermitteltem Assessment nun auch das Schlussfolgern über die evaluative Autorität selbst umfassen muss, nicht nur über die Qualität des empfangenen Feedbacks.
 
@@ -98,6 +105,12 @@ Verdrängung hat eine lehrkörperseitige Version, und sie ist es, was mehrere Sc
 
 - **Zurückgehaltenes Urteil mit Sonden auf Verständnisschulden sichtbar machen.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] definiert vier querschneidende Verpflichtungen — erklären, verifizieren, modifizieren und verantworten —, die zurückgehaltene Kompetenz auf jeder Stufe der KI-Integration sichtbar machen, und schlägt verzögerte Änderungsanfragen, Code-Durchgänge, unabhängig entworfene Tests, Defektlokalisierung und Live-Debugging als Sonden vor, die vergleichen, was erzeugt wurde mit dem, was später demonstriert werden kann. Unter [[agentic-ai|agentischer]] Fähigkeit verschiebt sich das Assessmentziel hin zur Aufsicht — Aufgabenverträge, Berechtigungsgrenzen, Sandboxes, Evaluations-Harnesses, Diff-Review, Rollback und menschliche Verantwortlichkeit —, was Assessment von sichtbarer Autorschaft hin zu sichtbarem Urteil verlagert.
 
+## Verbreitete Fehlvorstellungen
+
+- **„Evaluatorischer Fehler ist zufälliges Rauschen."** **Das Urteil von Bewertenden trägt eine eigene messbare Richtung**: Fünf Zulassungsverantwortliche, die **50 menschliche von 50 KI-Zulassungsaufsätzen** unterscheiden sollten, erreichten **AUC 0,70**, konnten die Quellen also nur schwach unterscheiden — und weil niemand die Einreichungen screenete, war **dieses ungestützte Urteil der gesamte Durchsetzungsmechanismus**, wobei jeder markierte Aufsatz eine um **1,5 Prozentpunkte geringere Zulassungswahrscheinlichkeit** trug. Ein schwaches Signal wurde zu einer realen Strafe.
+- **„Peer-Review und KI-Review sind Substitute."** Das PAIRR-Modell [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **kombiniert Peer-Review mit KI-Review**, um Kalibrierung zu strukturieren. Sie zu kombinieren ist das Design, was impliziert, dass keines allein es liefert.
+- **„Urteilsqualität ist eine Eigenschaft der urteilenden Person."** Der Zulassungsbefund verortet das Problem in der Anordnung — ein unvalidiertes Urteil, das folgenreich angewandt wird, ohne Screeningstufe —, nicht in der Fähigkeit der Individuen.
+
 ## Verbundene Konzepte
 
 - [[pedagogical-patterns]] — Der Bewertungsschritt, den Studierende an KI-Ausgabe innerhalb dieser Sequenzen vollziehen
@@ -118,6 +131,7 @@ Verdrängung hat eine lehrkörperseitige Version, und sie ist es, was mehrere Sc
 - [[higher-ed]]
 
 ## Verbundene Artikel
+- [[elkington-human-centred-assessment-value-2026]] — Menschzentriertes Assessment, Assemblagen und generative Beschränkungen (Elkington 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Warum Schreibprofessorinnen und -professoren das Auslagern der Benotung ablehnen: es ist die Weise, auf die sie ihre Lernenden kennenlernen
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT versus Peer-Feedback als Übungsplätze für verschiedene Dimensionen evaluativen Urteilsvermögens
 - [[ai-internal-feedback-evaluative-judgments]] — Wie KI-gestütztes internes Feedback evaluatives Urteilsvermögen entwickelt, und wo das Schlussfolgern dünn bleibt

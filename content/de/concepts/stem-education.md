@@ -1,7 +1,7 @@
 ---
 title: MINT-Bildung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T21:15:40-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,13 +11,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,12 @@ Eine konzentrierte Charge von Studien aus dem Jahr 2026 in der *International Jo
 - **MINTs Vorteil der strukturierten Passung nutzen, aber Schlussfolgern schützen.** MINTs verifizierbare Antworten machen es zur am besten KI-handhabbaren Domäne; gegen Überabhängigkeit und Antwortersetzung wachen, indem KI in strukturierte, beherrschungsorientierte Arbeitsabläufe eingebettet wird.
 - **KI-Kompetenz über MINT-Kurse hinweg einbetten.** Studien ([[zha-ai-literacy-biology-case-study|Biologie]], [[ai-tpack-preservice-math-teachers|Vorbereitung von Mathematiklehrkräften]]) zeigen, dass MINT-Kontext KI-Lernen unterstützt — KI-Konzepte dort integrieren, wo sie natürlich auftreten, statt sie zu isolieren.
 - **Auf [[equity-in-ai-education|Gerechtigkeit]] und Zugang bei der KI-Einführung achten.** MINT-KI-Werkzeuge sind nicht neutral; Bias in der Bewertung, [[digital-divide]]-Zugang und [[culturally-relevant-pedagogy|kulturell relevantes]] Design beim Einsatz überwachen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Intelligentes Tutoring wirkt in MINT einheitlich."** Ein strukturiertes narratives Review von **20 Publikationen (2020–April 2026)** fand den klarsten gemessenen Vorteil speziell für **Echtzeit-diagnostisches** Tutoring. Die Evidenz ist **begrenzt und bedingt**, und sie auf alle Mathematik-ITS zu verallgemeinern, überzeichnet das, was begutachtet wurde.
+- **„Simulation ist ein blasser Ersatz für praktische Arbeit."** Die Simulationsgruppe **übertraf die praktische Gruppe bei curriculumangeglichenem MINT-Wissen (M = 3.00 gegenüber 2.06; t(28) = 2.23, p = .034, d = 0.82)**. Die Simulation war kein Rückfall hinter das echte Ding.
+- **„Ein KI-gestützter Literaturarbeitsablauf spart vor allem Zeit."** Ergebnisse von **20 Studierenden über 80 Dokumente** zeigten **über 90% Extraktion experimenteller Parameter, rund 65% weniger Zeit für die Literaturübersicht und einen Anstieg der Fähigkeit, einflussreiche** Arbeiten zu erkennen, um 50%. Der Kompetenzgewinn war das größere Ergebnis, die Zeitersparnis das kleinere.
 
 ## Verbundene Konzepte
 

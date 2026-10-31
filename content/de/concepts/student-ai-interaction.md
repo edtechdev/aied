@@ -1,7 +1,7 @@
 ---
 title: Interaktion zwischen Studierenden und KI
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-24T22:09:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,13 +10,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,11 +82,19 @@ Von Lehrkräften verfasste Prompts sind ein solcher Hebel, aber vollzogene Rigor
 
 Nichtnutzung ist selbst ein Interaktionsmuster, für das [[pedagogy|Pädagogik]] planen muss. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], 85 [[teacher-education|Lehramtsstudierende]] in drei Kursen untersuchend, wo GenAI-Nutzung in [[assessment|Assessment]] explizit erlaubt war, fanden, dass 62,4% (53 von 85) ablehnten, sie überhaupt zu nutzen, weit unter der 79–83%-Übernahme in vergleichbaren britischen und australischen Umfragen, und dass die Nutzung der Übernehmenden flach und korrektiv war statt generativ (Korrekturlesen 43,8%, Klarheitsprüfungen 34,4%, Textgenerierung nur 18,8%). Ihre Entscheidungen verfolgten Assessmentdesign und institutionelle Kultur statt technische Schwierigkeit: 41,5% der Nichtübernehmenden fürchteten, fälschlich des [[academic-integrity|Plagiats]] beschuldigt zu werden, und neun von elf Interviewten lasen die permissive Politik selbst als mögliche „Falle“. Die Lücke zwischen 32 umfrageberichteten Nutzenden und 28 Selbsterklärungen zeigt, dass die *berichtete* KI-Interaktion der Studierenden durch benotete Folgen geformt ist —, ein Messvorbehalt für Learning-Analytics-Accounts der Interaktion zwischen Studierenden und KI.
 
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang und Guo (2026)]] dokumentieren, was offener Dialog mit generativer KI in der Peer-Review hinzufügt: Studierende, die das Modell befragten statt seinen ersten Vorschlag zu akzeptieren, produzierten Feedback, das Peers höher bewerteten, und berichteten mehr Freude an der Aufgabe und weniger Angst.
+
 
 ## Disziplin und kognitives Engagement im Studierenden-KI-Chat
 
 - **Disziplinassoziiertes kognitives Engagement im Studierenden-KI-Chat.** Chang und Li (2026) analysieren Studierendenprompts an KI über 116 Kurse hinweg mit einem within-person, cross-discipline Design und zeigen, dass Studierenden-KI-Gespräche **disziplinassoziiertes** kognitives Engagement widerspiegeln statt fixe individuelle Interaktionsstile. Etwa 62% der Prompts enkodierten insgesamt höherstufige kognitive Anforderung, aber Bloom-Niveau-Profile unterschieden sich scharf nach Disziplin: [[stem-education|STEM]]-Kurse riefen Apply-prävalente Prompts hervor (20,8%), Sprachkurse Understand-prävalente (31,7%), und Sozialwissenschaftskurse Create-prävalente (33,8%). Gepaarte within-person-Vergleiche bestätigten, dass dieselben Studierenden in Sozialwissenschaftskursen signifikant mehr höherstufige Prompts produzierten als in STEM-Kursen (gepooltes n = 16, p < .001), und Kursvariation übertraf Studierendenvariation —, ein starkes Argument, dass KI-Lehrassistenten mit disziplinärem Kontext im Blick gestaltet und evaluiert werden sollten.
 - **Wie viel Studierende KI nutzten, sagte nicht vorher, wie sie sich dabei fühlten.** Unter 819 Studierenden erreichten Geschlecht, selbst eingeschätzte KI-Expertise und Nutzungshäufigkeit in einer MANOVA alle nicht das Signifikanzniveau (Wilks' Lambda 0,997, p = 0,551; 0,990, p = 0,295). Schwere und leichte Nutzende in dieser Stichprobe vertraten dieselben Ansichten ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Interaktionstaxonomien sind geklärt."** **Über 46 Kategorisierungen aus 33 Studien benennen ähnliche Labels unterschiedliche Phänomene**, weshalb der Review die *Interaktionsepisode* als Einheit vorschlägt. Ein Kodierschema, das einer Taxonomie entlehnt ist, misst möglicherweise ein anderes Konstrukt.
+- **„Studierende nutzen KI als Tutor."** Unter **38 Undergraduates**, die unbeaufsichtigte argumentative Aufsätze erledigten, nutzten **76,32% ein einstufiges Fragen-Antwort-erhalten-Stopp-Muster**, typischerweise den Assessmenttitel einfügend. Das dominante Muster ist einstufiger Abruf, und das ist kein Tutoring.
+- **„Mehr KI-Nutzung zeigt mehr Engagement mit dem Stoff."** Eine Analyse von **200 Ko-Programmier-Chatsitzungen** fand, dass **78,8% der Studierenden-GenAI-Interaktionen auf nicht-meisterschaftsorientierten Zielen und Strategien liefen**. Das Volumen der Interaktion maß etwas anderes als Lernorientierung, sodass Sitzungszahlen ein irreführender Engagement-Proxy sind.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: das Dach für die lernendenseitigen Konzepte
@@ -99,6 +111,7 @@ Nichtnutzung ist selbst ein Interaktionsmuster, für das [[pedagogy|Pädagogik]]
 - [[ai-literacy]]
 
 ## Verbundene Artikel
+
 - [[ai-chatbots-emotional-support-human-connection-2025]] — Nutzungshäufigkeit und selbst eingeschätzte Expertise sagten über 819 Studierende hinweg nichts voraus
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — Kognitives Outsourcing vs. Reallokation in unbewachten Studierenden–GenAI-Assessments (Yan et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — „Is this a trap?“: Nichtübernahme von GenAI durch Lehramtsstudierende in Assessments (Zou et al. 2026)

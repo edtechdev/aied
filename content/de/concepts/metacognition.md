@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metakognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T20:27:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,13 +13,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -55,7 +59,6 @@ Eine fundamentalere Rolle für Metakognition erscheint, wenn der Ort der Koordin
 Wenn KI Schlussfolgerungsaufgaben für Lernende erledigt — Mathematikprobleme lösen, Essays schreiben, Code generieren —, verliert die lernende Person die Übung darin, ihr eigenes Verständnis zu überwachen und Strategien auszuwählen.([[stanford-evidence-base-ai-k12-2026]])
 
 Verlassenheit ist kein Scheitern: [[du-yuan-epistemic-dependence-2026|Du und Yuan (2026)]] beurteilen KI-vermitteltes Lernen nach sechs diagnostischen Kriterien — Bestreitbarkeit, Wiederherstellbarkeit, Transfer, Nachverfolgbarkeit, verteilte Verantwortung und epistemische Pluralität — und unterscheiden instrumentelle Unterstützung, die hilft, Ausgabe zu produzieren, von urteil tragender Unterstützung, die die Standards liefert, nach denen Ausgabe beurteilt wird.
-
 **Die Governance-Frage benennen.** [[metacognitive-ownership-human-ai-regulation-2026|Lin und Chang (2026)]] schlagen **metakognitive Eigenverantwortung** (metacognitive ownership) vor — die Governance der Standards, evaluativen Urteile und Handlungen, die eine KI beisteuert, durch die lernende Person —, wobei Standardsaneignung, Überwachungs-Urteil-Governance und Kontrollautorisierung getrennt werden und eine realistische Gelegenheit verlangt wird, anders zu handeln.
 
 
@@ -93,6 +96,9 @@ Wenn KI darauf ausgelegt ist, Reflexion zu unterstützen, statt sie zu ersetzen,
 - **Ein selektiver Gewinn: metakognitives Wissen ohne Planung und Überwachung.** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] teilten 68 angehende Lehrkräfte in eine Gruppe, die einem novizen Generativ-KI-Lernenden das Flipped Classroom erklärte (n=33), und eine Gruppe, die eine Generative-KI-Lehrkraft befragte (n=35). Die Novizen-Lernenden-Gruppe erzielte höhere Werte bei metakognitivem Wissen und Lernstrategien (p < 0.001, Cohens *d* = 0.41), aber nicht bei Planung und Überwachung (M = 4.01 vs. 3.78, p = 0.062), obwohl die Erklärungs- und Anwendungswerte derselben Gruppe stiegen (r = 0.47 und r = 0.642), während faktischer Abruf die Gruppen nicht trennte (p = 0.416). Die Spaltung folgt den beiden Komponenten in der Einführung: jemandem zu erklären, der zurückfragt, baute deklaratives Bewusstsein dessen auf, was man weiß, aber nichts im Design brachte die lernende Person dazu, eine Route zu setzen oder Fortschritt zu prüfen, was die Autoren Aufgabendesign und kognitiver Last zuschreiben statt der Rolle selbst. [[learning-by-teaching|Lernen durch Lehren]] mit KI ist daher ein Hebel auf metakognitives Wissen, nicht automatisch auf [[self-regulated-learning|Regulation]], und die Autoren empfehlen, explizite Planungsprompts und Fortschrittsfeedback hinzuzufügen.
 - **Lautes Denken stützt frühes Bewusstsein, aber nicht tiefe Evaluation.** [[karaki-think-aloud-ethical-genai-2026|Karaki and Baroudi (2026)]] führten eine Mixed-Methods-Aktionsforschungsstudie mit 44 Studierenden des ersten Jahres im Entrepreneurship durch, die die Think-Aloud-Methode während KI-unterstützter Kursarbeit nutzten. Lautes Denken machte die Promptkonstruktion, Verifikationspraktiken und ethischen Entscheidungen der Studierenden sichtbarer, aber die kritische Evaluation von KI-Ausgaben „blieb oft auf Oberflächenniveau, besonders bei Studierenden, die zusätzliche Unterstützung benötigen" — Studierende erkannten generische oder fehlausgerichtete Antworten, verließen sich aber weiterhin stark auf sie. Das selbst berichtete metakognitive Bewusstsein war das höchste von drei befragten Konstrukten (M = 3.79), aber die einzelne Post-Interventions-Befragung kann Wahrnehmung nicht von Veränderung trennen. Die Schlussfolgerung der Autoren — Lautes Denken ist keine alleinstehende Lösung und muss mit expliziter Instruktion in KI-Kompetenz, Promptkonstruktion und Verifikationsstrategien kombiniert werden — erweitert die Prozessevidenz-Linie oben von *was Aufzeichnungen erfassen* zu *was lautes Denken allein verändert*.
 - **Früheres metakognitives Training bestimmt den Nutzen eines KI-Reflexionspartners.** In einem 2 × 2-Experiment mit 60 angehenden Lehrkräften fanden [[metacognitive-training-ai-socratic-scaffolding-preservice-2026|Zhang et al. (2026)]] eine signifikante Metakognition-×-Werkzeug-Interaktion: Ein sokratischer KI-Partner besiegte traditionelle digitale Werkzeuge um 0,56 Punkte nur nach Training, ohne Vorteil ohne es (ΔM = −0.03).
+
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] unterzieht das Unterdrückungskonto einem vorregistrierten Kausalitätstest (N = 317) gegen Arbeitsblätter. Desorganisation stieg um 0,84 (95%-Kredibilitätsintervall 0,47 bis 1,21) und war der klarste Effekt im Modell, während tiefe Verarbeitung nicht direkt, sondern über eine Kette vom Offloading zum kritischen Denken fiel. Der Autor nennt den Zustand kognitive Dormanz, in dem Überwachung und Strategiewahl verstummen, während die Verarbeitung weiterläuft, und verortet seine Ursache in den Affordanzen der Umgebung statt in der lernenden Person.
 
 ## Die Engagement–Motivation-Unterscheidung
 
@@ -144,6 +150,12 @@ Proaktive [[agentic-ai|agentische KI]] kann die eigene metakognitive Schleife de
 - **Reflexion stieg mit KI-Zugang, und sie speiste Schlussfolgern statt Testpunktewerte.** [[melanou-genai-learning-dynamics-longitudinal-2026|Melanou, Beege und Kimmig (2026)]] folgten drei Klassen (N = 87) über einen neunwöchigen Kurs und maßen an drei Zeitpunkten. Wissen verbesserte sich in allen Bedingungen ohne Vorteil für eine der KI-Bedingungen und ohne Matthäus-Effekt (BF01 = 8.70), aber reflexive Nutzung (Quellen prüfen und KI-Ausgabe vor ihrer Übernahme verifizieren) war in der KI-Bedingung weit höher als in der Kontrollgruppe (M = 3.72 vs. 2.82, F(1, 40) = 20.21, p < 0.001) und sagte kritisches Denken vorher (β = 0.43, p < 0.001, R² = 0.183), während sie keinen Wissenszuwachs vorhersagte. Reflexion erschien aus Werkzeugzugang allein statt aus Gerüsten, und weil ihre Auszahlung im Schlussfolgern landet, wird ein Wissenstest den metakognitiven Nutzen eines KI-unterstützten Kurses nicht registrieren.
 - **Innerhalb eines metakognitiven Selbstauskunftsinstruments sagt Bewusstsein den Rest vorher.** [[alatoai-ai-learning-environments-self-regulation-2026|Alatoai und Alshahri (2026)]] validierten ein 45-Item-Maß KI-unterstützten STEM-Lernens mit 649 saudischen Sekundarstufenschülerinnen und -schülern (CFI = 0.983, RMSEA = 0.019; Subskala ω = 0.888–0.905) und nutzten es, um die Komponenten zu ordnen. Die vier Dimensionen erklärten 68% der Varianz in den Punktewerten selbstregulierten Lernens, mit KI-basiertem metakognitivem Bewusstsein am stärksten (β = 0.38, p < 0.001), kognitivem Transfer und Anpassungsfähigkeit als nächstes (β = 0.29, p = 0.008), und kreativem und kritischem KI-STEM-Schlussfolgern nicht signifikant (β = 0.14, p = 0.135). Bewusstsein ist die Komponente, die adaptive Leistung trägt, die Autoren raten, Subskalen separat zu berichten statt einen globalen Punktewert, und sie reservieren höherstufiges Schlussfolgern für Aufgaben der Schlussfolgerungsqualität; das Maß ist dennoch Selbstauskunft, sodass es wie die Workshop-Studie oben wahrgenommene Fähigkeit statt beobachteter Strategienutzung erfasst.
 - **Die eigene Überwachung der bewertenden Person ist auch metakognitive Arbeit.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl und Leuders (2026)]] argumentieren, dass eine KI-generierte diagnostische Inferenz keine rohe Evidenz ist, sondern eine bereits getroffene Interpretation, sodass Lehrkräfte sie mit ihren eigenen Beobachtungen in einem Prozess integrieren müssen, den sie *Metadiagnose* nennen, wobei sie absichtsvoll entscheiden, ob sie sie annehmen, ablehnen oder modifizieren. Das platziert eine zweite metakognitive Schleife neben die der lernenden Person: nicht nur, wie die lernende Person Denken mit KI reguliert, sondern wie die Lehrkraft bewertet, was das System über dieses Denken behauptet.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI-Unterstützung lässt die zugrunde liegende Fähigkeit intakt."** Studierende, die KI-Unterstützung für Essays nutzten, waren **zu 83% nicht in der Lage, Zitate aus ihren eigenen Essays wiederzugeben, gegenüber 11% bei Nicht-KI-Nutzenden**, was darauf hindeutet, dass **sie sich während der Produktion nicht mit dem Inhalt befassten**. Der Produktionsprozess ist, wo das Engagement stattfindet, und ihn zu umgehen zeigt sich später.
+- **„Offloading verschlechtert alles."** Die Kosten erscheinen **begrenzt statt global**: Offloading verschlechtert **die jeweils geübte Fähigkeit, nicht die zugrunde liegenden domänenallgemeinen Fähigkeiten**, und zeigt sich bei Transfertests **mit** etwas. Die Verortung ist wichtig, weil sie sagt, was zu schützen ist, statt vor allgemeinem Verfall zu warnen.
+- **„Fähigkeit zu produzieren impliziert Fähigkeit zu behalten."** Die Erinnerungslücke von 83% gegenüber 11% ist das direkte Gegenbeispiel: Ausgabe wurde in beiden Bedingungen produziert, und die Gedächtnisspur unterschied sich enorm.
 
 ## Verbundene Konzepte
 
@@ -199,3 +211,4 @@ Proaktive [[agentic-ai|agentische KI]] kann die eigene metakognitive Schleife de
 - [[ai-cognitive-partner-reflective-thought-2026]] — vier Praktiken und elf Prozesse reflexiven Denkens, wenn Lernende KI als kognitiven Partner behandeln
 - [[karaki-think-aloud-ethical-genai-2026]] — Lautes Denken machte Promptkonstruktion, Verifikation und ethisches Denken sichtbar, doch die kritische Evaluation blieb oberflächlich; keine alleinstehende Lösung
 - [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Metakognitives Training und KI-basierte sokratische Gerüstung in der reflexiven Praxis angehender Lehrkräfte: ein zweistudienartiges experimentelles Design
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Kognitive Dormanz: ein experimentelles Konto ausgesetzten metakognitiven Engagements und steigender Desorganisation (Braun 2026)

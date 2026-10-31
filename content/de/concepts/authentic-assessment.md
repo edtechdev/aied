@@ -1,7 +1,7 @@
 ---
 title: Authentisches Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [metacognition, self-regulated-learning]
@@ -11,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -98,6 +102,12 @@ Der Rückzug trägt einen evidentiellen Preis, den die Aktenbelege sichtbar mach
 - **Authentisches Assessment passt zu praxisorientierten Fächern.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] finden authentisches Assessment besonders geeignet für [[business-education|Managementbildung]]: Aufgaben, die reale berufliche Probleme spiegeln (lebendige Beratungsprojekte, [[visualization|Dashboards]] mit Führungskräfte-Briefings), passen zum praxisorientierten, auf [[career-development-and-readiness|Beschäftigungsfähigkeit]] gerichteten Fokus des Feldes und können inklusive, Integrität wahrende Alternativen zu prüfungszentriertem Assessment im Zeitalter generativer KI stützen. In ihrem Review von 58 Artikeln aus vier Zeitschriften der Managementbildung trat authentisches Assessment jedoch hauptsächlich über technologievermittelte [[simulation|Simulationen]] auf und wurde oft mit [[experiential-learning|erfahrungsbasiertem Lernen]] gleichgesetzt – eine Terminologielücke, die seinen weiteren Wert und seine weitere Verbreitung verdecken kann.
 
 - **Authentizität ist nicht Sicherheit, und die Lücke ist auf Sektorebene sichtbar.** Wo das Audit des einzelnen Studiengangs oben 90% der Kursarbeiten als bestehen lassend fand, stuft [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] aufgezeichnete Präsentationen, entfernte Gruppenprojekte und unbetreute digitale Artefakte über 53.915 Einträge hinweg ins hohe Expositionsband, weil die öffentliche Akte nichts darüber zeigt, wie die Produktion betreut wurde.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Authentizität dreht sich um realistische Aufgaben."** Der Scoping-Review von [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud und Du (2025)]] über **37 empirische Studien (2000–2024)** schlägt ein **sechsdimensionales** Designmodell vor, und nur **3 von 37 Studien behandelten soziale Authentizität** — ob Assessment Studierenden hilft, zur gesellschaftlichen Transformation beizutragen. Realismus ist eine Dimension, und die avancierteste Dimension ist kaum untersucht.
+- **„Authentisches Assessment widersteht KI."** Die Exposition ist messbar und groß: ein **dreijähriger Psychologie-Studiengang** erwies sich als **zu 90 % bestehbar**, wobei ChatGPT **bei 36 von 40 Kursarbeiten ausreichende Ausgabe** erzeugte und nur die übrigen Assessments überlebten. Der Großteil der Assessments eines Studiengangs war KI-befriedigbar.
+- **„Redesign ist optional, wenn die Arbeit realweltlich ist."** Das Ergebnis von 36 aus 40 wurde an Kursarbeiten gefunden, deren Authentizität vermutlich nicht infrage stand. Aufgabenrealismus schützte nicht vor KI-Erledigung; das Design dessen, was bewertet wird, tat es.
 
 ## Verbundene Konzepte
 - [[learner-identity]] — sich entwickelnde disziplinäre, professionelle, kreative und akademische Lernendenidentitäten

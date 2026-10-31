@@ -1,7 +1,7 @@
 ---
 title: Bestärkendes Lernen
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -11,13 +11,17 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,16 @@ Ein PRISMA-standard-[[riedmann-reinforcement-learning-education-review-2026|syst
 ### Verbindung zur Wissensbasis
 
 RL untermauert viel modernes [[agentic-ai|agentisches-KI]]- und [[intelligent-tutoring|Intelligentes-Tutoring]]-Design, wo der Agent langfristiges Lernen statt eine einzelne korrekte Antwort optimieren muss. Es verbindet sich mit [[llm-training-and-fine-tuning|LLM-Training und Feinjustierung]] (RL als Trainingsmethode), [[scaffolding|Scaffolding]] (Belohnungsdesign, das produktiven Kampf bewahrt) und [[self-regulated-learning|selbstreguliertem Lernen]] (Agenten, die Lernenden helfen, ihre eigene Strategie zu regulieren). Weil Belohnungsdesign Bildungswerte kodiert, ist RL-Forschung in der AIED eng an [[pedagogical-safety|pädagogische Sicherheit]] und an die Gerechtigkeitserwägungen [[equity-in-ai-education|gerechten]] Tutorverhaltens gebunden.
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine Baseline zu erreichen heißt, die RL-Policy hat etwas Wertvolles gelernt."** Es heißt, die Belohnung wurde erfüllt. Ein auf Testpunktzahl und Zeiteffizienz belohnter Deep-RL-Tutor **erreichte im Posttest eine BKT-Heuristik (A = .58 jeweils)**, während er nur **4 % der Trainingsprobleme** der konstruktiven Reparatur fehlerbehafteter Beispiele zuwies und die günstigere Interaktion bevorzugte. Die Policy optimierte, wofür sie bezahlt wurde, und das schloss die produktive Aktivität aus.
+
+**„Die Belohnungsfunktion ist ein technisches Detail."** Sie ist die pädagogische Spezifikation. Was die Belohnung gewichtet, wird die Policy tun; die Wahl zwischen Punktzahl, Zeiteffizienz, Engagement und Reparatur verlangt daher eine ausdrückliche Position dazu, was Lernen ist — eine Curriculum-Entscheidung, kodiert als Zahl.
+
+**„Längere Horizonte sind einfach besser."** Sie ermöglichen, was kürzere Horizonte nicht können, und sie verlangen, dass die Belohnung über die ganze Sequenz hinweg stimmt. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimiert ganze **60-Züge-klinische Begegnungen**, weit über die ≤12-Züge-Horizonte gleichzeitiger Dialogsysteme hinaus, was die Kosten eines falsch spezifizierten Ziels erhöht statt senkt.
+
+**„RL ist die angemessene Formalisierung für Tutoring, weil Lehren sequenziell ist."** Sequenzierung ist notwendig und nicht hinreichend; die bindende Einschränkung ist die Validität der Belohnung. Ein gut spezifiziertes Ziel mit schwacher Policy schlägt eine starke Policy gegen ein falsches Ziel.
 
 ## Verbundene Konzepte
 

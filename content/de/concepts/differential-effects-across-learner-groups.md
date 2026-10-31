@@ -1,7 +1,7 @@
 ---
 title: Unterschiedliche Effekte zwischen Gruppen von Lernenden
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-24T23:55:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,13 +13,17 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -87,16 +91,10 @@ Geschlechterforschung teilt sich hier darin, ob Werkzeuge Lernende unterschiedli
 
 Dieser Strang ist klein in der Artikelzahl und stark im Mechanismus, weil die Belege davon handeln, was KI *mit* einem demografischen Attribut tut, sobald sie eines hat.
 
-- **[[personalized-learning|Personalisierung]] ist ein Bias-Vektor.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] zeigt, wie [[llm|LLM]]-Schreibfeedback-Werkzeuge hin zu stereotypausgerichtetem Lob und zurückgehaltener Kritik kippen, wenn Feedback mit Rasse, Sprache, Behinderung, Leistung oder [[motivation|Motivation]] einer Person personalisiert wird — an identischen Aufsätzen.
+- **[[personalized-learning|Personalisierung]] ist ein Bias-Vektor.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] zeigt, wie [[llm|LLM]]-Schreibfeedback-Werkzeuge hin zu stereotypausgerichtetem Lob und zurückgehaltener Kritik kippen, wenn Feedback mit Rasse, Sprache, Behinderung, Leistung oder [[motivation]] einer Person personalisiert wird — an identischen Aufsätzen.
 - **Der demografische Hinweis kann implizit sein.** Das obige kontrafaktische Audit fand, dass Gesprächshistorien, nicht nur explizite Personas, Bewertungs- und Feedbackverhalten bewegten — dasselbe Ergebnis von [[demographic-signals-llm-student-assessment-2026|192.480 Inferenzaufrufen]], und ein Grund, weshalb eine Offenlegungsregel über *deklarierte* Demografien nicht ausreicht.
 - **Migrations- und Sprachlücken können dominieren.** In EduFair-Bench verband das 70B-Modell die größten Sprach- und Einwanderungslücken mit den kleinsten Pädagogiklücken, sodass ein Tutor, der pädagogisch stark aussieht, der sein kann, der am empfindlichsten dafür ist, wer die lernende Person zu sein scheint.
 - **Epistemischer Ausschluss, nicht nur Fehler: siehe [[genai-minoritized-knowledges-disability|die Marginalisierung minoritärter Wissensformen]] oben.**
-
-## Fachlicher Hintergrund
-
-Der fachliche Hintergrund ist eine Differenzachse, die die gruppenweise Karte dieser Seite noch nicht trug: Dasselbe Werkzeug kann seinen Nutzen ungleich über Fächer hinweg verteilen, statt über demografische Merkmale der Studierenden.
-
-- **Ein Werkzeug kann ein Fach engagieren und ein anderes desengagieren.** In einem zweiwöchigen Quasi-Experiment mit 130 Studierenden in gemischtfachlichen Teams erhöhte [[generative-ai|ChatGPT]] das physische [[student-engagement|Engagement]] für MINT-Studierende und senkte es für Nicht-MINT-Studierende (Q = 9,87, p < .05), und Notizen, die ohne ChatGPT geschrieben wurden, erzielten höhere Werte bei Vielfalt und Integration disziplinärer Ideen ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
 
 ## Sozioökonomischer Status, Geografie und Alter
 
@@ -104,6 +102,12 @@ Der fachliche Hintergrund ist eine Differenzachse, die die gruppenweise Karte di
 - **Geografie kann die bindende Einschränkung sein.** [[arc-hubs-k12-ai-robotics-rural-2026|ARCs Darstellung]] von Robotik und KI-Bildung im [[k-12|K-12]]-Bereich berichtet, dass ländliche Teilnahme an der FIRST LEGO League in der Fernsaison 2020 fiel und sich nie erholte, während urbane Teilnahme allmählich zurückkam, und identifiziert nachhaltige lokale technische Mentorschaft — nicht Bausätze oder [[curriculum-design|Curriculum]] — als die Einschränkung, die geografisch verteilt ist.
 - **Erwachsene Lernende sind ein eigener Designfall,** abgedeckt durch [[adult-learning|Erwachsenenbildung]] und die Andragogie-Arbeit der Wissensbasis statt durch K-12-Studien.
 - **Zugang bestimmt weiterhin alles andere: siehe [[digital-divide|Digitale Kluft]] und den Befund, dass [[access-not-enough-ai-tutoring-2026|Zugang zu KI-Tutoring nicht genug ist]] ohne [[pedagogy|pädagogische]] Integration.**
+
+## Fachlicher Hintergrund
+
+Der fachliche Hintergrund ist eine Differenzachse, die die gruppenweise Karte dieser Seite noch nicht trug: Dasselbe Werkzeug kann seinen Nutzen ungleich über Fächer hinweg verteilen, statt über demografische Merkmale der Studierenden.
+
+- **Ein Werkzeug kann ein Fach engagieren und ein anderes desengagieren.** In einem zweiwöchigen Quasi-Experiment mit 130 Studierenden in gemischtfachlichen Teams erhöhte [[generative-ai|ChatGPT]] das physische [[student-engagement|Engagement]] für MINT-Studierende und senkte es für Nicht-MINT-Studierende (Q = 9,87, p < .05), und Notizen, die ohne ChatGPT geschrieben wurden, erzielten höhere Werte bei Vielfalt und Integration disziplinärer Ideen ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
 
 ## Wo die Belege fehlen
 
@@ -124,6 +128,12 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 - **Egalisierende Designs bevorzugen, wo die Belege es erlauben.** Das ADHS-Videosegmentierungs-Ergebnis — alle verbessern sich, die Lücke schließt sich — ist ein besser passendes Ziel für ein allgemeines Klassenzimmer als ein gruppenspezifisches Add-on.
 - **Vorsichtig sein mit Personalisierung, die demografische Attribute konsumiert.** Der [[marked-pedagogies-linguistic-bias-writing-feedback|Marked-Pedagogies]]-Befund handelt direkt von diesem Mechanismus, und er gilt für [[well-being|Wohlbefindens]]-Check-ins, [[affective-computing|affektive Tutoren]] und [[recommender-systems-and-learning-paths|Empfehlungssysteme]], die Lernende profilieren.
 - **Lokal testen, an der Gruppe, die Ihnen wichtig ist, mit einem Ergebnis, das ohne das Werkzeug gemessen wird.** Siehe [[interpreting-and-applying-aied-research|Interpretation und Anwendung von AIEd-Forschung]] für die Bewertungsgewohnheiten und [[research-methods-aied|Forschungsmethoden in der KI-Bildung]] für die Designs, die einen lokalen Test vertretbar machen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Gruppenlabels erfassen die Variation, auf die es ankommt."** **Gruppenlabels verbergen die Variation in ihrem Inneren**: In der Metaanalyse zu Behinderung sind Studierende mit **spezifischen Lernbehinderungen, intellektuellen und Entwicklungsbehinderungen** und anderen Kategorien zusammengefasst, sodass der Gruppendurchschnitt keine von ihnen beschreibt.
+- **„Subgruppenanalysen beantworten die Frage nach differentiellen Effekten."** Sie sind meist **zu klein, um sie zu beantworten**: Der [[ai-tutoring-micro-rct-gcse-science-2026|GCSE-Physik-Mikro-RCT]] sagt ungewöhnlich ausdrücklich, dass sein **Treatment**-Kontrast auf den Gesamteffekt ausgelegt ist und nicht auf Subgruppenunterschiede. Ein unterpowertes Subgruppenergebnis ist eine Hypothese, kein Ergebnis.
+- **„Ein mittlerer gepoolter Effekt sagt Ihnen, ob eine bestimmte Gruppe profitiert."** [[zhang-ai-students-disabilities-meta-analysis-2024|29 (quasi-)experimentelle Studien]] poolten zu **Hedges' g = 0,588 (95% CI [0,349, 0,826])** über Behinderungskategorien hinweg. Das Intervall beschreibt den Durchschnitt über diese Kategorien, und „welche Gruppe, welcher Bedarf" ist eine eigene Analyse.
 
 ## Verbundene Konzepte
 - [[equity-in-ai-education]]

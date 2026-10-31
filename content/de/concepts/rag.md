@@ -1,7 +1,7 @@
 ---
 title: RAG (retrieval-augmented generation / abrufgesteuerte Generierung)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T20:57:39-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,13 +9,17 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -51,6 +55,13 @@ ai_assist:
 ### RAG gegenüber Fine-Tuning
 
 RAG spielt eine ergänzende Rolle zum [[llm|LLM]]-Fine-Tuning — Retrieval liefert aktuelle, domänenspezifische Verankerung ohne erneutes Training, während Fine-Tuning [[pedagogy|pädagogische]] Verhaltensweisen einbettet. Die Forschung der Wissensbasis untersucht beide Ansätze und ihre Kombination.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Quelle anzuzeigen macht die Antwort überprüfbar."** Nur **1 von 12 Teilnehmenden bemerkte eine absichtlich falsch zugeordnete Quellenkarte**. Ein Provenienz-Label kann als **Siegel der Autorität statt als Einladung zum Prüfen** wirken —, die Anzeige der Fundierung erhöhte das Vertrauen, ohne die Prüfung zu erhöhen, was schlimmer ist als kein Label, weil es Zuversicht erzeugt.
+- **„Die Abrufqualität ist das ganze Problem."** Abruf ist notwendig und nicht hinreichend. Fundiertes Antworten erreichte **9,05 von 10 mit einem Bootstrap-Konfidenzintervall für die Differenz, das die Null ausschließt**, und war **häufiger in dem Material fundiert, das die antwortende Person tatsächlich gesehen hatte (98% vs. 81%)** —, der gemessene Gewinn liegt also in der Treue zur Evidenz, und die Evidenz muss korrekt sein, damit diese Treue etwas bedeutet.
+- **„Einseitiger Abruf verallgemeinert."** Beide Lücken **verdreifachten sich ungefähr bei Fragen, die Material von mehr als einer Seite verlangten** (seitenübergreifende Scores 9,93 gegenüber einer niedrigeren Baseline). Mehrdokumenten-Schlussfolgern ist der Punkt, an dem fundierte Systeme degradieren, und genau dort stellen Kurse die schwierigsten Fragen.
+- **„Abruf beseitigt die Notwendigkeit der Prüfung."** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] ruft aus den freigegebenen Materialien eines einzelnen Moduls ab, um Studierende zu bedienen, die zögern, eine Person zu fragen —, ein vertretbarer Umfang. Enge, freigegebene Korpora sind es, was die Fundierung bedeutsam macht; das Label allein nicht.
 
 ## Verbundene Konzepte
 

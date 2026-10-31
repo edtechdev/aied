@@ -1,7 +1,7 @@
 ---
 title: Aktivitätstheorie
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-10-24T20:49:56-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,13 +10,17 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-09-30T09:53:03-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -75,6 +79,14 @@ Aktivitätstheorie sitzt innerhalb der [[sociocultural-learning|soziokulturellen
 ### Praktische Implikationen
 
 Für Gestaltende und Lehrende rät Aktivitätstheorie, über das KI-Werkzeug selbst hinaus auf das gesamte Aktivitätssystem zu blicken, in das es eintritt: die Regeln, die akzeptable Nutzung bestimmen, die Gemeinschaft und ihre Normen, die Arbeitsteilung zwischen Mensch und Maschine sowie Objekt und Motiv der Aktivität. Nachhaltige KI-Integration erfordert *Neugestaltung des Systems* — Widersprüche adressieren, Normen aktualisieren, Rollen neu austarieren — statt bloß besserer Werkzeuge oder individuellen Trainings. Für Forschende bietet Aktivitätstheorie eine strenge Analyseeinheit (das Aktivitätssystem, nicht die Einzelperson) und eine Methode ([[formative-assessment|formative]] Intervention, Widerspruchsanalyse), um die Rolle der KI in der Bildung zu untersuchen und zu gestalten.
+
+## Verbreitete Fehlvorstellungen
+
+**„Die Übernahme von KI durch eine Lehrkraft ist eine Frage individueller Einstellung."** Aktivitätstheorie rahmt sie stattdessen als Eigenschaft des gesamten Aktivitätssystems — Subjekt, Werkzeuge, Regeln, Gemeinschaft und Arbeitsteilung —, weshalb Widerstand häufig eine rationale Antwort auf ein System ist, das sich nicht verändert hat. Eine Lehrkraft, die ein Werkzeug ablehnt, das Arbeit hinzufügt, ihre Aufmerksamkeit schlecht umverteilt oder mit Fachbereichsnormen kollidiert, liest das System korrekt; Einstellungsbefragungen werden das als Disposition erfassen und die Ursache verfehlen.
+
+**„Wenn Sie die Überzeugungen der Lehrkraft ändern, folgt die Praxis."** Die Einheit der Veränderung ist größer als die Person. Interventionen, die Normen, Arbeitslastverteilung und gemeinsame Regeln verändern, verändern die Praxis verlässlicher als solche, die auf individuelle Überzeugung zielen, weil das Objekt der Aktivität kollektiv erzeugt wird. Das erklärt auch, warum individuelle begeisterte Übernehmer zurückfallen, wenn sich ihr Fachbereich nicht mit ihnen bewegt.
+
+**„Aktivitätstheorie ist eine beschreibende Linse ohne Designfolgen."** Sie richtet das Design auf die Widersprüche zwischen den Elementen des Systems — das Werkzeug, das mit den Regeln kollidiert, die Arbeitsteilung, die mit dem Objekt kollidiert —, und genau dort wird Veränderung tatsächlich gehebelt. Eine Linse, die Widersprüche lokalisiert, gibt Ihnen einen Ort zum Eingreifen, nicht bloß ein Vokabular.
 
 ## Verbundene Konzepte
 

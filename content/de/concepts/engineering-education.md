@@ -1,7 +1,7 @@
 ---
 title: Ingenieurbildung
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-24T23:55:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,13 +12,17 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-30T10:14:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Ingenieurbildungsforschung ist unverwechselbar, weil sie an der Schnittstelle vo
 - **KI für Nachhaltigkeit, integriert statt modular.** Das vier Säulen umfassende AI-SEE-Rahmenwerk (intelligenzgetrieben, grün-befähigt, verantwortungsführend, praxisintegriert) verteilt KI über Ingenieurstudienarbeit; in einem 144-Studierende-Transport-Engineering-Fall berichteten Studierende Engagement über persönliche, akademische, professionelle und soziale Ebenen hinweg, wobei Nachhaltigkeitsschlussfolgern in Familien und Peer-Netzwerke getragen wurde ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **Ein werkzeugreiches Studio kann Wirksamkeit senken, ohne das Produkt zu verbessern.** In einem 27-Studierende-Architekturdesignstudio zeigten Teams, die eine generative-KI-plus-[[virtual-and-augmented-reality|XR]]-Pipeline nutzten, größere Vorher-Nachher-Rückgänge in Design[[self-efficacy|Selbstwirksamkeit]] (β = −1,675) und Outcome-Expectancy (β = −2,088) als Kontrollen, während ein Headset pro Studierende keine koordinierte Kollaboration erzeugte ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
 
+- **Modellwahl, nicht Prompting, bestimmt die Feedback-Zuverlässigkeit unter Gegenwind.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] bauten 200 geprüfte zweidimensionale Fachwerkprobleme und schickten dreizehn Modelle durch drei Haltungen: lösen, eine korrekte Lösung bestätigen, die die lernende Person für falsch hält, und einen eingefügten Fehler lokalisieren. Die Lösegenauigkeit reichte von 64,5% bis 97,0%, und jedes Modell fand mindestens 90,4% der eingefügten Fehler, sodass keines von beiden das Feld trennte; die Widerstandsfähigkeit gegen Gegenwind tat es, mit einer Spanne von 46,5% bis 98,5%. Für einen Kurs in Statik ist das Tutoring-Risiko nicht eine falsche Endantwort, sondern ein Modell, das zustimmt, wenn eine lernende Person korrekte Arbeit zu Unrecht anzweifelt, und die Autoren merken an, dass, wenn die Zuverlässigkeit den bezahlten Tarifen folgt, das Feedback, das Studierende erhalten, danach variiert, was ihre Institution lizenzieren kann.
+
 ## Charakteristische Anliegen
 
 Die charakteristischen Anliegen der Ingenieurbildung prägen, wie KI aufgegriffen wird: **praktisches und Laborlernen** (und was verloren geht, wenn KI Praxis simuliert), **professionelle Formierung** (ethische Verantwortung, Sicherheit und gesellschaftliche Auswirkung), **Design und Problemlösen** (wie viel kognitive Arbeit KI tun sollte), und **kompetenzbasierte Vorbereitung auf den Arbeitsmarkt**. Diese machen die Ingenieurbildung zu einem reichen Ort, um zu studieren, ob KI die kognitive Arbeit erweitert oder verdrängt, die essenziell für professionelle Expertise ist — parallel zu Debatten in [[physics-education|Physikbildung]], [[math-education|Mathematikbildung]] und [[cs-education|Informatikbildung]].
@@ -77,6 +83,12 @@ Diese Lücke ist in einem Bereich nicht mehr leer: Ein dreijähriges biomedizini
 
 - **KI-Nutzung als Fähigkeit innerhalb der Unterrichtszeit lehren.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] führten neun lehrkraftgeleitete Demonstrationen durch, jede 10–15 Minuten am Ende einer Vorlesung und sequenziert von Werkzeugkompetenz über strategische Delegation bis Modellevaluation — aber Studierende, die keine Verbindung zum Assessment sahen, berichteten sie als redundant, sie also an benotete Arbeit binden.
 
+## Verbreitete Fehlvorstellungen
+
+- **„Die KI-Übernahme unter Ingenieurstudierenden ist ein Technologieakzeptanzproblem."** [[socio-cognitive-genai-adoption-engineering-2026|Asag und Al Mamun]] integrieren TAM mit [[technology-acceptance-model|UTAUT]], um die Übernahme bangladeschischer Ingenieurstudierender zu modellieren, und **erklären 64%** der Varianz — ein substanzieller Anteil liegt also außerhalb der Akzeptanzkonstrukte, in sozialen und kognitiven Faktoren, die das Modell nicht abdeckt.
+- **„Studierende nutzen KI für das, worin sie am besten ist."** [[ai-engineering-education-balancing-act|Kudina (2026)]] fand, dass **100 Ingenieurstudierende** LLMs am meisten für **Schreibunterstützung** schätzten, nicht für ingenieurwissenschaftliches Schlussfolgern. Ihre Metaphern für das Werkzeug übertrafen, was es lieferte, und ihre tatsächliche Nutzung folgte Bequemlichkeit statt Fähigkeit.
+- **„Ein reicherer Werkzeugstapel verbessert die Design-Ergebnisse."** In einem **27-Studierende**-Architekturdesignstudio zeigten Teams, die eine generative-KI-plus-[[virtual-and-augmented-reality|XR]]-Pipeline nutzten, **gedrückte Wirksamkeit ohne ein verbessertes Produkt**. Werkzeugreichtum kann Zuversicht kosten und das Artefakt unverändert lassen.
+
 ## Verbundene Konzepte
 
 - [[problem-based-learning]]
@@ -94,6 +106,7 @@ Diese Lücke ist in einem Bereich nicht mehr leer: Ein dreijähriges biomedizini
 - [[generative-ai]]
 
 ## Verbundene Artikel
+- [[apostolakis-trusstutor-bench-statics-2026]] — Statik-Benchmark: Lösen und Fehlererkennung sättigen, Widerstand gegen Gegenwind nicht
 - [[mechanical-engineering-ai-curriculum-2026]] — Projektbasiertes KI-Bildungscurriculum im Maschinenbau (Thermodynamik)
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Fakultätsmetaphern in der Ingenieurbildung konstruieren (und begrenzen) das KI-Verständnis

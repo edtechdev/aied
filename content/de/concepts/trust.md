@@ -1,20 +1,24 @@
 ---
 title: Vertrauen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T23:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T09:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -34,6 +38,8 @@ ai_assist:
 ## Einführung
 
 Vertrauen in KI wird geformt von wahrgenommener Kompetenz, Transparenz, Konsistenz, und davon, ob das System mit den Zielen der lernenden Person abgestimmt zu sein scheint; es ist eng an [[ai-literacy|KI-Kompetenz]] gebunden (wissen, was zu vertrauen ist), an [[critical-thinking|kritisches Denken]] (Ausgabe bewerten), und an das Design verantwortungsvoller KI. Interpersonales Vertrauen dagegen wird durch Beziehungen, Offenlegung, Feedback und [[pedagogy|pädagogische]] Sorge aufgebaut — die Qualitäten, auf die sich Studierende stützen, wenn sie entscheiden, ob eine Lehrkraft oder eine KI eine vertrauenswürdige Quelle von Orientierung ist. Die zwei Bereiche interagieren zunehmend: KI ist in Lehrkraft-Studierende-Beziehungen eingewoben, weshalb das Vertrauen der Studierenden in ihre Lehrkraft formt, wie sie den KI-Werkzeugen vertrauen (oder sie hinterfragen), die diese Lehrkraft empfiehlt.
+
+Vertrauen ist ein messbarer Verlust, nicht nur ein Prinzip. In [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] sagten Studierende, sie vertrauten Kommilitoninnen und Kommilitonen weniger, nachdem sie nicht offengelegte GenAI-Nutzung in Gruppenarbeit entdeckt hatten, und nannten es „schädlich für das Vertrauen und die Ethik der Wissenschaft“, während einige vermuteten, Lehrende nutzten GenAI und hielten das vor den Studierenden geheim.
 
 ## Vertrauen in KI-Systeme
 
@@ -62,6 +68,8 @@ Die drei Dimensionen der Quellenglaubwürdigkeit können dissoziieren: siebzehn 
 
 Glaubwürdigkeitssignale können die Verlassenheit auf falsche Antworten erhöhen: das Hinzufügen von Zitationen und Autoritätssignalen zu einer Debattenoberfläche erhöhte den Wechsel von einer korrekten Beurteilung zur Position der KI von 15,0% auf 31,8%, während das Zurückhalten einer empfohlenen Position diesen Wechsel auf 5,7–8,2% senkte ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 
+Vertrauen in KI folgt auch nicht der nationalen Nutzung: Rumänien, mit 17,8% generativer KI-Nutzung gegenüber 48,4% in Dänemark, bewertete sein Vertrauen in KI leicht höher (4,1 gegenüber 3,8 auf einer Sieben-Punkte-Skala), während das institutionelle Vertrauen in die andere Richtung mit 28 zu 45 Punkten auseinanderfiel ([[lucau-uneven-use-similar-trust-genai-2026|Lucau, Voicu & Christensen (2026)]]).
+
 ## Vertrauen in KI folgt psychischem Zustand, nicht demografischer Kategorie
 
 [[trust-in-ai-psychological-profiles-ml-2026|Kumar et al. (2026)]] clusterten 107 Studierende an einer öffentlichen HBCU nach Resilienz, wahrgenommenem Stress und KI-Vertrauen und fanden drei Profile, in denen **Vertrauen in KI von Zuversicht in sich selbst dissoziierte**: eine Gruppe mit hoher Resilienz und geringem Stress mit günstigem KI-Vertrauen, eine mäßig gestresste Gruppe, die trotz Anspannung das *höchste* KI-Vertrauen der drei hielt, und eine psychisch resiliente Gruppe, die fast so resilient war wie die Annehmenden, aber deutlich geringeres KI-Vertrauen hatte. Stress und KI-Vertrauen trennten die Cluster am stärksten (partielles eta-Quadrat 0.528 und 0.521 gegenüber 0.315 für Resilienz), und Geschlecht war die einzige demografische Variable, die signifikant mit der Mitgliedschaft assoziiert war, während [[stem-education|STEM]]-Zugehörigkeit, akademisches Niveau, Beschäftigungsstatus und Altersgruppe alle nicht signifikant waren. Zwei Implikationen zählen für diese Seite: erstens ist geringes Vertrauen in KI kein Proxy für geringe Zuversicht oder geringe technische Vertrautheit, da die Skeptiker:innen die resilienteste und die am stärksten STEM-lastige Gruppe waren, was die Autoren als kalibrierte Skepsis statt als Widerstand lesen; zweitens sollten sie, weil die Cluster nur schwach getrennt waren (Silhouette 0.288, wobei der Calinski-Harabasz-Index zwei Cluster bevorzugte), als überlappende Profile statt als ausgeprägte Studierendentypen behandelt werden. Die Befunde stammen von einer Institution und einer querschnittlichen [[self-report-measures|Selbstauskunfts]]befragung, weshalb sie etablieren, dass Vertrauen mit psychischem Zustand variiert, nicht warum.
@@ -69,8 +77,10 @@ Glaubwürdigkeitssignale können die Verlassenheit auf falsche Antworten erhöhe
 ## Interpersonales Vertrauen in der Bildung
 
 Vertrauen ist auch grundsätzlich relational. Die Klassenraum-Vertrauenslücke ist dokumentiert in [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Lehrkraft-Studierende-Sichten auf Kontrolle und Handlungsfähigkeit in KI im K-12-Klassenraum]]: Studierende wollen größere [[agency|Autonomie]] und Flexibilität, während Lehrende Aufsicht und Überwachung priorisieren, eine Fehlausrichtung, die beide Seiten navigieren müssen, damit KI-Annahme gelingt. [[qu-wang-disclose-or-not-genai-2026|Warum Studierende ihre KI-Nutzung offenlegen oder verbergen]] zeigt, dass Offenlegung weniger von Richtlinien getrieben wird als von relationalen Faktoren — wahrgenommene Peer-Normen und **Komfort mit Lehrenden** sind die stärksten Prädiktoren, was auf geringes interpretatives Vertrauen in [[governance|institutionelle]] Settings zeigt. [[vetter-hidden-cost-disclosure-genai-2026|Die verborgenen Kosten der Offenlegung]] fügen Nuanz darüber hinzu, wann Ehrlichkeit sozial kostspielig ist.
- Eine Detektion-zuerst-Antwort wirkt in die andere Richtung: unzuverlässige Detektoren, die überproportional nicht-muttersprachliche Personen markieren, lassen Fehlverhaltensfälle aus Mangel an Beweisen stocken und erzeugen „Verdacht ohne Regress“, während fünf- bis zehnminütige Verifikationsgespräche, die als Pädagogik statt als Überwachung angekündigt wurden, die Autorität der Fakultät wiederherstellten und offenere KI-Offenlegung zogen ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
- Verlassenheit auf Detektoren und Überwachung, argumentieren [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], fördert ein Klima des Verdachts, das das Vertrauen der Studierenden in Assessment und Institution erodiert — das Gegenteil des Vertrauens, das Integritätsprozesse schützen sollen.
+
+Eine Detektion-zuerst-Antwort wirkt in die andere Richtung: unzuverlässige Detektoren, die überproportional nicht-muttersprachliche Personen markieren, lassen Fehlverhaltensfälle aus Mangel an Beweisen stocken und erzeugen „Verdacht ohne Regress“, während fünf- bis zehnminütige Verifikationsgespräche, die als Pädagogik statt als Überwachung angekündigt wurden, die Autorität der Fakultät wiederherstellten und offenere KI-Offenlegung zogen ([[best-response-student-ai-dialog-2026|Mandernach, 2026]]).
+
+Verlassenheit auf Detektoren und Überwachung, argumentieren [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]], fördert ein Klima des Verdachts, das das Vertrauen der Studierenden in Assessment und Institution erodiert — das Gegenteil des Vertrauens, das Integritätsprozesse schützen sollen.
 
 Feedback ist ein zentraler Ort interpersonalen Vertrauens. [[genai-teacher-feedback-comparison|Wahrnehmungen von Studierenden zu GenAI gegenüber Lehrkräftefeedback]] finden, dass die zwei unterschiedliche Bedürfnisse bedienen — komplementär, aber nicht austauschbar —, wobei Studierende Lehrkräftefeedback für relationales, personalisiertes Urteil vertrauen und [[generative-ai|GenAI]] für Geschwindigkeit und [[accessibility|Barrierefreiheit]]. [[care-full-feedback-genai|Eine „Care-full“-Darstellung von Feedback]] argumentiert, vertrauenswürdiges Feedback sei eine [[ethics|ethische]], relationale Praxis: es baut bildende Beziehungen auf und wird als professionelles Handwerk respektiert, Werte, die eine KI nicht einfach replizieren kann. Das ist der Grund, warum Vertrauen zwischen Lehrenden und Studierenden — auf Sorge und professionellem Urteil aufgebaut — zentral bleibt, selbst wenn KI in die Feedbackschleife eintritt.
 
@@ -82,6 +92,37 @@ Peer-Vertrauen läuft über einen anderen Kanal: unter 406 Universitätsstudiere
 Die einende Herausforderung ist **Kalibrierung**: Vertrauen an tatsächliche Verlässlichkeit anzugleichen, ganz gleich, ob die vertraute Partei ein Modell oder eine Person ist. [[trust-calibration|Vertrauenskalibrierung]] ist die [[metacognition|metakognitive]] Fähigkeit zu wissen, wann zu vertrauen und wann zu hinterfragen ist. Studien zu KI-[[feedback|Feedback]] und [[intelligent-tutoring|intelligentem Tutoring]] untersuchen, wann Lernende KI-Orientierung angemessen nutzen oder herausfordern, während die interpersonale Literatur zeigt, dass das Vertrauen der Studierenden in eine lehrende Person von relationalem Vertrauen abhängt, das über Zeit aufgebaut wird. Während KI im [[teacher-role|Unterrichten]] eingebettet wird, konvergieren diese Bereiche: eine lehrende Person, die transparent erklärt, was ein KI-Werkzeug kann und nicht kann, und die Verlässlichkeit im eigenen Urteil demonstriert, baut die Art von Vertrauen auf, die auf die von ihr empfohlenen Werkzeuge übergreift. Angemessenes Vertrauen aufzubauen — in KI und ineinander — ist ein Kernziel verantwortungsvollen KI-Designs in der Bildung.
 
 Kalibrierung wird auch durch die Anreize des vertrauten Systems selbst geprüft. Wenn Personal, das der KI-Annahme skeptisch gegenübersteht, [[conversational-ai|konversationelle KI]] konsultiert — gebaut von Organisationen mit kommerziellem Interesse an Annahme —, besteht das Risiko, dass das System dazu veranlagt ist, sie zu fördern. Ein Audit von zehn Grenzmodellen fand, dass die meisten die Bedenken einer ländlichen [[k-12|K-12]]-Kraft (drohender Arbeitsplatzverlust, „nicht für Leute wie mich“) anerkannten, bevor sie hin zu Engagement umlenkten. Das fordert naive Verlassenheit auf Vertrauen heraus und unterstreicht die Wichtigkeit von [[human-in-the-loop-ai|menschlicher Aufsicht]] und unabhängiger [[ai-ed-evaluation|Evaluation von KI]]-Ratschlägen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Vertrauen und Misstrauen liegen an entgegengesetzten Enden einer Skala.“** Sie sind trennbar, und sie zu verwechseln missdeutet, was Studierende tatsächlich berichten. **Risikowahrnehmung und Vertrauen sind keine Gegensätze:** Eine Wahrnehmungsstudie mit 130 Studierenden zu [[agentic-ai|agentischer]] GenAI in der [[higher-ed|Hochschulbildung]] fand wahrgenommenes Risiko mäßig erhöht (M = 3,33, SD 0,89) *neben* günstigerem Vertrauen und günstigerer Annahme. Eine lernende Person kann beides zugleich halten, weshalb ein einzelner Vertrauenswert nicht sagen kann, ob ihre Verlassenheit angemessen ist.
+
+**„Misstrauen gegenüber der Genauigkeit von KI bedeutet, dass Studierende sich nicht auf sie stützen.“** Studierende unterscheiden die Ausgabe von ihrer Fähigkeit, sie zu steuern. In einer Befragung von **8.021 Studierenden an vier australischen Universitäten misstrauten 51% der faktischen Genauigkeit von GenAI, während 76% zuversichtlich in ihre Fähigkeit waren, die Ausgaben zu bekommen, die sie wollten.** Die zweite Zahl ist die, die Verhalten vorhersagt: Zuversicht im Herausholen koexistiert mit Zweifel an der Wahrheit, und nur eine davon ist eine Sicherheitseigenschaft.
+
+**„Klarere Regeln und Richtlinien sind es, was das Vertrauen der Studierenden aufbaut.“** Nützlichkeit dominiert. Eine Befragung von 2.121 Studierenden, Lehrenden und Personal an einer Universität fand wahrgenommene Nützlichkeit als **stärkstes Korrelat des Vertrauens in KI (β = 0.402)**, während wahrgenommene Klarheit der Richtlinien dahinter zurückblieb. Institutionen, die in Regelsetzung investieren, während sie Werkzeuge ausliefern, die niemand nützlich findet, haben auf den schwächeren Hebel gezielt.
+
+**„Wenn Lernende ihr mehr vertrauen, werden sie sie sorgfältiger nutzen — oder wenigstens angemessen.“** Das Gegenteil ist das dokumentierte Muster. Unter 432 Studierenden im Grundstudium, die Python-Probleme mit korrekten und absichtlich irreführenden Vorschlägen lösten, sagte größeres Vertrauen **geringere** angemessene Verlassenheit voraus (r = −.42), und die Studierenden akzeptierten 86,03% der irreführenden Vorschläge. Vertrauen ist kein Stellvertreter für Kalibrierung; siehe [[trust-calibration|Vertrauenskalibrierung]].
+
+**„Ehrliche Warnungen über Fehlbarkeit würden das Vertrauen in einen Tutor untergraben.“** Sie verbessern das Verhalten. [[ai-fallibility-warning-help-seeking|Warnungen über die Fehlbarkeit von KI]] in einem Mathematik-ITS erhöhten die [[help-seeking|Hilfesuche]], statt die Nutzung zu senken, was nahelegt, dass das Benennen von Grenzen angemessene Verlassenheit fördert statt sie zu erodieren.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Messen Sie zwei Dinge, nicht eines: was Studierende über die Genauigkeit von KI glauben, und was sie über ihre eigene Fähigkeit glauben, sie zu nutzen. Die Aufteilung von 51%/76% zeigt, dass diese scharf auseinandergehen, und nur die zweite treibt Verhalten.
+- Benennen Sie die Grenzen des Werkzeugs vorab. Fehlbarkeitswarnungen erhöhten in der ITS-Evidenz die Hilfesuche, sodass Offenlegung ein Kalibrierungswerkzeug und kein Vertrauensrisiko ist.
+- Achten Sie auf hohes Vertrauen gepaart mit oberflächlichem Prüfen; diese Kombination ist das Kalibrierungsfehlermuster, kein Erfolgssignal.
+
+**Für Entwickelnde**
+
+- Bauen Sie Vertrauen auf beobachtbaren, vereinbarten Kriterien auf statt auf scheinbarer Fähigkeit, in Anlehnung an die Arbeit zum Mitentwerfen von Vertrauenswürdigkeit mit Learning Engineers. Flüssigkeit ist kein Vertrauenswürdigkeitssignal, und Studierende lesen sie als eines.
+- Priorisieren Sie Nützlichkeit im Onboarding über Richtlinientexte, da Nützlichkeit das stärkste gemessene Vertrauenskorrelat ist.
+- Behandeln Sie hohes Vertrauen nicht als Engagement-Erfolg; paaren Sie jede Vertrauensmetrik mit einem Maß angemessener Verlassenheit.
+
+**Für Forschende**
+
+- Berichten Sie Vertrauen, Risikowahrnehmung und angemessene Verlassenheit als getrennte Konstrukte, weil sie in nicht offensichtliche Richtungen kovariieren — auch negativ.
+- Berichten Sie das behaviorale Ergebnis (Akzeptanzrate falscher Vorschläge) zusammen mit selbstberichtetem Vertrauen; Vertrauensskalen allein kehren die Schlussfolgerung um.
 
 ## Verbundene Konzepte
 
@@ -99,6 +140,8 @@ Kalibrierung wird auch durch die Anreize des vertrauten Systems selbst geprüft.
 - [[social-norms-ai-use]] — das soziale Risiko, auf dem Normen und Offenlegung laufen
 
 ## Verbundene Artikel
+
+- [[lucau-uneven-use-similar-trust-genai-2026]] — Ungleichmäßige Nutzung, ähnliches Vertrauen: generative KI in Dänemark und Rumänien (Lucau, Voicu & Christensen 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Wahrgenommenes Risiko korreliert positiv mit der Absicht zur fortgesetzten Nutzung: informierte Annahme (Ilieva et al. 2026)
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Die Vertrauenslücke zwischen Lehrkraft und Studierenden über Kontrolle und Handlungsfähigkeit in KI im K-12-Klassenraum
 - [[qu-wang-disclose-or-not-genai-2026]] — Offenlegung von KI-Nutzung wird durch relationale Faktoren und das Wohlbefinden mit Lehrenden getrieben, nicht durch Richtlinien

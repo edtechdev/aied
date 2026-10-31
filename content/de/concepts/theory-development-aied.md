@@ -1,7 +1,7 @@
 ---
 title: Theorieentwicklung in der KI in der Bildung
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-24T23:48:52-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,13 +10,17 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-10-16T08:47:09-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-25T15:55:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,7 @@ ai_assist:
 ## Einführung
 
 Theorieentwicklung in der AIED sitzt an der Grenze zwischen den angewandten [[learning-theories|Lerntheorien]], auf die das Feld sich stützt, und den neuartigen Konstrukten, die das KI-Zeitalter produziert. Wo [[learning-theories|Lerntheorien]] die etablierten, auf KI angewandten Theorien katalogisiert (Behaviorismus, Konstruktivismus, kognitive Last, Selbstbestimmung etc.), verfolgt dieses Konzept den *Prozess und das Produkt des Theoretisierens selbst*: welche neuen Theorien und Rahmenwerke geboren werden, wie etablierte Theorien vorangebracht werden, und die methodologische Frage, ob AIEd-Forschung gut theoretisiert.
+- **Ein Rahmenwerk, das seine eigene Vergleichsbedingung spezifiziert.** Nakamura (2026) behandelt die Aufteilung kognitiver Arbeit als die erklärende Einheit, ordnet Operationen auf einem abgestuften Kontinuum von peripher bis konstitutiv ein, benennt die Vergleichsbedingung, gegen die Augmentation und Erosion definiert werden, und leitet sieben konditionierte prüfbare Propositionen ab ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Weil die Propositionen Unterschiede zwischen Konfigurationen vorhersagen, kann eine Studie, die nur einen Durchschnittseffekt berichtet, sie weder bestätigen noch widerlegen.
 
 ## Neue Theorien des Lernens mit KI
 
@@ -93,6 +98,32 @@ Das Theoretisieren des Felds ist ungleich. [[limitations-in-aied-research|Grenze
 ## Beziehung zur Philosophie der KI in der Bildung
 
 Theorieentwicklung und [[philosophy-of-ai-in-education|die Philosophie der KI in der Bildung]] sind komplementäre, aber distincte Stränge der grundlegenden Arbeit der Wissensbasis. **Theorieentwicklung** produziert und testet empirisch die *Mechanismen* des Lernens-mit-KI — benannte Theorien und Rahmenwerke wie Generativismus, epistemische Ko-Handlungsfähigkeit und die abwesende kognitive Baseline, die erklären und vorhersagen, wie Lernende und KI interagieren. **Philosophie** befragt die *Voraussetzungen*, auf denen jene Mechanismen ruhen: was als Wissen zählt, wer als Wissende zählt, und was die lernende Person grundlegend ist. Eine Theorie wie [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemische Ko-Handlungsfähigkeit]] schlägt einen Mechanismus vor, während sie implizit philosophische Verpflichtungen zu verteilter Kognition und [[agency|Handlungsfähigkeit]] annimmt; Philosophie macht jene Verpflichtungen explizit und bestreitbar. Wo Theorieentwicklung fragt, ob ein Rahmenwerk Lernen gut erklärt, fragt Philosophie, ob es einfängt, was Lernen und Geist wirklich sind —, die beiden Stränge treffen sich in den grundlegendsten Artikeln des Felds, die oft beides auf einmal tun.
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein Befund, dass das Werkzeug funktionierte, ist ein theoretischer Beitrag.“** Das ist er nicht, und der Grund ist strukturell. Wo die Propositionen eines Rahmenwerks *Unterschiede zwischen Konfigurationen* vorhersagen, **kann eine Studie, die nur einen Durchschnittseffekt berichtet, sie weder bestätigen noch widerlegen** — das Design kann die Unterscheidung, um die es der Theorie geht, nicht sehen. Ein Versuch, der einen mittleren Zuwachs zeigt, sagt Ihnen, dass etwas geschah, nicht welcher Mechanismus es bewirkte, sodass die Theorie genau so gestützt bleibt wie zuvor.
+
+**„Eine etablierte Theorie auf KI anzuwenden ist Theorieentwicklung.“** Das Theorie-nutzungs-Problem dieser Seite sagt etwas anderes: Anwendung ist keine Weiterentwicklung, und das wiederkehrende Muster des Felds sind geliehene Konstrukte, die als Vokabular statt als prüfbare Vorhersagen verwendet werden. Die Unterscheidung ist wichtig, weil ein geliehener Rahmen, der keinen falsifizierbaren Unterschied erzeugen kann, Dekoration ist, nicht Theorie.
+
+**„Die bestehenden Taxonomien der pädagogischen Funktion von KI decken bereits ab, was diese Systeme tun.“** Sie decken viel davon nicht ab. Unter 154 Publikationen mit einer klassifizierbaren Anwendungsfunktion **entkamen 90 (58,4%) den vier Kategorien** des früheren Rahmenwerks, weshalb die neuere Arbeit Funktion mit delegierter Kontrolle, epistemischer Position und eingebetteter Pädagogik kreuzt. Eine Taxonomie, die fast drei von fünf Fällen falsch klassifiziert, kann nicht als gemeinsames Vokabular des Felds dienen, und die Lücke ist ein Befund über das Phänomen statt eine Lücke in einem Papier.
+
+## Implikationen für die Praxis
+
+**Für Lehrende und Instruktionsdesignerinnen und -designer**
+
+- Wenn eine Studie einen Durchschnittseffekt berichtet, behandeln Sie ihn nicht als Orientierung für *Ihre* Konfiguration. Die Aussagen auf Theorieebene betreffen Unterschiede zwischen Konfigurationen, und ein Durchschnitt kann Ihnen nicht sagen, welche Sie gerade betreiben.
+- Fragen Sie bei jedem Rahmenwerk, das Sie übernehmen, ob es etwas vorhersagt, das sich in Ihrem eigenen Setting als falsch erweisen könnte. Wenn nicht, wird es Ihnen bei keiner Entscheidung helfen.
+- Rechnen Sie damit, dass bestehende Kategorien Ihren Fall verfehlen; mehr als die Hälfte der klassifizierten Publikationen passte nicht in die übliche Vierteilung.
+
+**Für Gestaltende**
+
+- Berichten Sie Konfigurationen statt einen einzigen Schlagzeileneffekt. Wenn Ihr Design eine bestimmte Kombination aus delegierter Kontrolle und epistemischer Haltung verkörpert, sagen Sie es — das ist die Einheit, von der die Theorie spricht, und die Einheit, die ein anderes Team reproduzieren muss.
+- Vermarkten Sie keine Mechanismusbehauptung auf der Grundlage eines durchschnittlichen Ergebnisses; der für den Mechanismus erforderliche Evidenztyp ist ein Kontrast, kein Mittelwert.
+
+**Für Forschende**
+
+- Entwerfen Sie auf Konfigurationskontraste hin, wenn Sie einen theoretischen Beitrag beabsichtigen. Ein Durchschnittseffekt-Versuch, der als Theorieentwicklung veröffentlicht wird, ist der häufigste und am wenigsten nützliche Output des Felds.
+- Hängen Sie an jedes Rahmenwerk, das Sie einführen, ausdrückliche falsifizierbare Propositionen und berichten Sie, welche Konfigurationsunterschiede sie widerlegt hätten.
 
 ## Verbundene Konzepte
 

@@ -1,20 +1,24 @@
 ---
 title: Problemlösen
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,31 @@ Problemlösen ist das angewandte Ergebnis [[critical-thinking|kritischen Denkens
 ### Automatisierte CPS-Fertigkeitskodierung
 
 - Die Messung der Kompetenz im [[collaborative-learning|kollaborativen Problemlösen (CPS)]] verlangt typischerweise, Verhalten aus Prozessdaten simulierter Aufgaben in spezifische CPS-Fertigkeiten zu kodieren. [[prompt-engineering|Kontextbewusstes Prompting]] vorab trainierter Sprachmodelle kann diese Kodierung automatisieren, indem es kontextuelle Abhängigkeiten modelliert und kognitive und soziale Fähigkeiten fusioniert, um überlegene Leistung gegenüber starken Baselines auf CPS-Aufgabendatensätzen zu erreichen —, was die Arbeitsintensität manueller Kodierung adressiert und großskalige, echtzeitnahe Prüfung ermöglicht.
+
+## Verbreitete Fehlvorstellungen
+
+**„KI, die Studierenden hilft, Perspektiven zu erkunden, hilft ihnen zu denken.“** Dasselbe Verhalten stützt zwei sehr unterschiedliche Ergebnisse: KI-Werkzeuge helfen Studierenden, mehrere Perspektiven zu erkunden und eigene Probleme zu generieren, und sie können ebenso metakognitive Faulheit begünstigen. Die entscheidende Frage ist, ob die lernende Person die Rahmung vornimmt oder sie erhält — ein System, das mögliche Perspektiven liefert, hat den generativen Schritt bereits vollzogen, den die Übung verlangte.
+
+**„Problemlösen ist das Ziel, Problemfinden ist ein Bonus.“** Problemfinden ist der Ort, an dem Transfer entsteht, weil es von der lernenden Person verlangt, die Struktur zu konstruieren, statt in einer vom System bereitgestellten zu operieren. Ein Curriculum, das immer nur wohlgeformte Probleme liefert, trainiert Leistung auf wohlgeformten Problemen, und das ist nicht die Bedingung, der Studierende danach begegnen.
+
+**„Die Simulation kollaborativen Problemlösens ersetzt die Kollaboration.“** Eine Simulation reproduziert das Interaktionsmuster, und die entwickelte Fähigkeit ist die Regulation eines gemeinsamen Problems durch Teilnehmende, die tatsächlich anwesend sind. Teilnehmerspezifische Agenten, die reale Mitwirkende modellieren, sind ein Forschungsinstrument zur Untersuchung dieser Regulation — nützlich für das, was sie über den Prozess zeigen, nicht ein Weg, Studierenden die Übung ohne die Peers zu geben.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Lassen Sie Studierende das Problem stellen, bevor sie eines lösen. Problemfinden verlangt die Konstruktion der Struktur, und dort entsteht Transfer; es ist zugleich der Schritt, den KI am ehesten an ihrer Stelle vollzieht.
+- Unterscheiden Sie im Aufgabendesign einen Denkpartner von einem Ersatz: Verlangen Sie Rahmung, Vorgehen und Begründung der lernenden Person zu Protokoll, sodass das Protokoll zeigt, wer die generative Arbeit geleistet hat.
+- Achten Sie auf die lernende Person, die viele Perspektiven flüssig erkundet und keine eigene Position hervorbringt; das ist metakognitive Faulheit im Gewand des Engagements.
+
+**Für Entwickelnde**
+
+- Gestalten Sie für von Studierenden generierte Probleme und Strukturen statt nur für bessere Hinweise zu gegebenen.
+- Instrumentieren Sie den Rahmungsschritt, nicht nur die Lösungsschritte; ein System, das Antworten verfolgt und nicht Problemformulierung, kann das Ergebnis, auf das es ankommt, nicht sehen.
+
+**Für Forschende**
+
+- Simulationen mit teilnehmerspezifischen Agenten sind ein starkes Instrument zur Untersuchung kollaborativer Regulation. Berichten Sie sie als solche und nicht als Beleg über unbeaufsichtigte studentische Zusammenarbeit.
 
 ## Verbundene Konzepte
 

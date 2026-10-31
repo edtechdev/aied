@@ -1,7 +1,7 @@
 ---
 title: Benchmark (Vergleichsmaßstab)
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-24T20:13:33-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-23T09:35:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -71,6 +75,12 @@ Benchmarks verbinden sich mit [[ai-ed-evaluation|Evaluation von KI in der Bildun
 - **Die Scoring-Regel ist Teil des Instruments.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] lässt vier Knowledge-Tracing-Aktualisierungsregeln über dieselben ASSISTments-2012/13-Ereignissequenzen laufen, die sich nur darin unterscheiden, wie sie Zeilen mit Hinweis-Unterstützung bewerten, und präregistriert die Vergleiche hinter einem Zaun, der die konfirmatorische Hälfte der Studierenden zurückhält, bis die Registrierungsdatei vorliegt. Jede Vervollständigung anzurechnen schlägt eine Konstante aus Fähigkeit und Schwierigkeit knapp (gepoolter AUC 0.604 gegenüber 0.595 über 985,813 bewertete Ereignisse) und erklärt 93.9 Prozent der Studierenden-Fähigkeits-Paare für gemeistert gegenüber 72.8 Prozent unter einer Regel, die assistierte Zeilen als gescheiterte Erstversuche liest (0.658) — die allgemeine Lektion ist, dass ein Mastery-Label durch die Evidenzregel definiert wird, nicht durch das Log.
 - **Modellfähigkeit als kalibriertes Niveau berichten, nicht nur als Genauigkeit.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] bilden 624 expertenannotierte Items auf benannte Kompetenzniveaus ab, wobei sie 2,050 Antworten von Lernenden nutzen, und finden, dass Frontier-Modelle die kalibrierte Decke übertreffen — eine Grenze, die eine Prozentzahl verbirgt.
 - **Eine Scoring-Regel kann von dem Modell überlistet werden, das sie trainiert.** Eine Adaptivitätsmetrik, die durch Wiederholung einer besten Entscheidung maximiert wird, zeigt, dass Benchmark-Design das Argmax veröffentlichen, Adaptivität als Differenz bewerten und über-zufällige Basislinien berichten sollte ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Der Rang auf einer Bestenliste sagt Ihnen, wie gut ein Tutor ist."** StudentBench **randomisiert 2.383 Erwachsene über eine Bedingung mit KI-Tutoring, eine mit menschlichem Experten-Tutoring live und eine mit Video** und bewertet gegen menschliche Tutoren statt gegen andere Systeme. Ein auf andere Modelle normierter Benchmark beantwortet eine Frage, die niemand beantwortet haben wollte.
+- **„Simulierte Personas sind eine adäquate Grundlage für Tutor-Evaluation."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] begründet Evaluation in **dokumentierter Fall-Literatur statt simulierten Personas** und nutzt **923 Dialoge**. Erfundene Studierenden-Personas lassen ein System Fälle bestehen, die nicht vorkommen.
+- **„Benchmarks können ohne Prüfung des Richters vertraut werden."** Halluzination wurde als **Entailment gegen die abgerufenen Chunks mit offener Lizenz bewertet (κ = 0,76 mit Expertenurteil)** —, der Richter wurde gegen Expertinnen und Experten validiert, bevor seine Scores verwendet wurden. Ein unvalidierter automatischer Richter produziert Zahlen von unbekannter Bedeutung.
 
 ## Verbundene Konzepte
 

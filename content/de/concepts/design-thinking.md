@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design-Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T23:29:54-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -51,6 +55,16 @@ Für Bildungspersonal rät die Gesamtevidenz gegen pauschale Einschränkung oder
 ## Verbindungen zu verwandten Konzepten
 
 Design Thinking in der KI-Bildung ist tief mit [[human-ai-collaboration|Mensch-KI-Zusammenarbeit]] verschränkt: generative Werkzeuge verbreitern Ideation, während Menschen epistemische Autorität und [[agency|Handlungsfähigkeit]] behalten. Es beruht auf [[scaffolding|Scaffolding]] und stufenangemessenem [[feedback|Feedback]], um wirksam zu sein, wird oft über [[socratic-method|sokratische]] und adversariale Interaktionen in der [[higher-ed|Hochschulbildung]] und im [[k-12|K-12-Bereich]] vermittelt, und sein Erfolg wird häufig als Bewahrung von [[creativity|Kreativität]] und Förderung von [[ai-literacy|KI-Kompetenz]] unter [[human-in-the-loop-ai|Human-in-the-Loop]]-Governance gerahmt.
+
+## Verbreitete Fehlvorstellungen
+
+**„Generative KI beschleunigt Design Thinking in allen seinen Stufen."** Sie beschleunigt die Ideation und kann das Urteil beeinträchtigen, auf dem die späteren Stufen beruhen: sie **zeichnet sich bei der Ideation in der Frühphase aus, kann aber Design Fixation oder ästhetisches Lock-in verursachen, wenn sie unkritisch genutzt wird**. Fixation ist die spezifische Gefahr eines schnellen Ideationswerkzeugs — die erste plausible Richtung wird zum Rahmen, und eine große Zahl von Varianten eines Konzepts ist kein breiterer Suchraum.
+
+**„Mehr generierte Optionen bedeuten eine breitere Erkundung."** Breite der Ausgabe und Breite der Abwägung sind verschiedene Größen. Eine studierende Person, die dreißig Richtungen generiert und die erste überzeugende übernimmt, hat eine Richtung erkundet, und hohe Annahmequoten sind genau dafür die Signatur.
+
+**„Design Thinking ist ein Stufe für Stufe zu automatisierender Prozess."** Es ist eine Disziplin des Rahmens und Umrahmens von Problemen, und genau das schließt Fixation aus. Die Stufen zu automatisieren, während der Rahmen ungeprüft bleibt, erzeugt kompetente Ergebnisse für das falsche Problem.
+
+**„KI-Agenten, die der studierenden Person zustimmen, stützen ihr Designdenken."** Die hier dokumentierte produktive Nutzung läuft in die andere Richtung: [[ai-agents-constructive-conflict-design-education-2026|konstruktive Konflikte mit KI-Agenten]] testen adversariales Prompting, das Überdenken erzwingt. Ein zustimmender Agent verstärkt die Fixation; ein dissentorientierter ist das Design, hinter dem ein Bildungsanspruch steht.
 
 ## Verbundene Konzepte
 

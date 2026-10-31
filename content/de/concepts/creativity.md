@@ -1,7 +1,7 @@
 ---
 title: Kreativität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T20:56:30-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,13 +10,17 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,12 @@ Das wiederkehrende Designprinzip über diese Befunde hinweg ist, **den eigenen g
 ### Verbindungen
 
 Kreativität verbindet sich mit [[critical-thinking|kritischem Denken]] und mit [[constructivist|konstruktivistischem]] Lernen. Sie wird geschützt von denselben [[scaffolding|Scaffolds]] zur [[reducing-ai-misuse|Reduktion von KI-Missbrauch]], die Lernen bewahren, und von [[authentic-assessment|authentischem Assessment]], das originale Schlussfolgerung gegenüber polierten Produkten belohnt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende zu stören erzeugt kreative Gewinne."** **Reibung ist kein kreativer Gewinn.** Konträre KI-Personas trieben in **38,2% der Gruppen** Herausforderungs- und Reflexionsdiskurs, erzeugten aber **keine messbare Verbesserung der Kreativleistung**. Der Diskurs änderte sich, das gemessene Ergebnis nicht.
+- **„Die K-12-Literatur belegt, dass GenAI Kreativität verbessert."** Ein PRISMA-geleitetes Scoping-Review von **45 Studien (2017–2025)** zeigt, dass GenAI Kreativität meist **verbessert** und sie **selten misst**. Der dominante Befund des Felds ist eine Schlussfolgerung aus wahrgenommener Verbesserung, keine Ergebnismessung.
+- **„Mehr Abhängigkeit von GenAI bedeutet mehr kreative Ausgabe."** Unter **1.157 chinesischen Graduiertenstudierenden** war GenAI-Abhängigkeit **positiv mit selbst berichteter Forschungskreativität assoziiert** — und die Assoziation gilt für **Selbstauskunft**, das schwächste verfügbare Maß des Konstrukts.
 
 ## Verbundene Konzepte
 

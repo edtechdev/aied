@@ -1,7 +1,7 @@
 ---
 title: Technologieadoptionsmodelle
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-24T23:50:47-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,30 +40,26 @@ ai_assist:
 ## Einleitung
 
 **[[meta-analysis-systematic-review|Meta-analytische]] Evidenz zu KI-Adoption.** Eine [[teo-ai-adoption-tertiary-meta-analysis-2026|Metaanalyse der KI-Adoption von Tertiärstudierenden]] (233 Korrelationen, 32 Studien, N = 16.977) findet mäßige positive Korrelationen für individuelle (r = 0.57), kontextuelle (r = 0.53) und technologische (r = 0.50) Faktoren, wobei Nutzungsabsichten der stärkste Prädiktor sind (r = 0.64) und wahrgenommene Risiken/Vertrauen schwächer als erwartet. Ihre zentrale Kritik ist, dass das Feld **traditionelle TAM/UTAUT-Rahmen übernutzt**, die modernen intelligenten Systemen vorausgehen, und KI-spezifische Faktoren wie Anthropomorphismus und Ethik vernachlässigt —, mit dem Argument, diese Lücken zählten für die Weiterentwicklung von Theorie und evidenzbasierter Politik.
+- **Leichtigkeit der Nutzung sagte nichts mehr vorher, sobald die Stichprobe bereits adoptiert hatte.** Wei, Zhang und Heo (2026) erweitern TAM an 526 Designstudierenden mit vorheriger AIGC-Nutzung und finden, dass wahrgenommene Nutzungsleichtigkeit die einzige technologische Wahrnehmung war, die nicht signifikant mit Selbstwirksamkeit zusammenhing, während Wissen, Vertrauen, Zuverlässigkeit, Nützlichkeit, Intelligenz und Angst es jeweils waren ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Nutzungsabsicht hing in Querschnittsdaten stark mit berichteter Abhängigkeit zusammen.
 
 ## Die Modellfamilie
 
 ### Technology Acceptance Model (TAM)
-
 Von Davis (1989) vorgeschlagen, erklärt TAM Adoption über zwei Kernüberzeugungen —, **Perceived Usefulness (PU)** und **Perceived Ease of Use (PEOU)** —, die die **Attitude (ATT)** der Nutzenden formen, dann die **Behavioral Intention (BI)**, dann die tatsächliche Nutzung. Gegründet in der Informationssystemtheorie (adaptiert aus der Theory of Reasoned Action), ist TAM zum dominanten Rahmen für [[generative-ai|GenAI]]-Adoption in der Bildung geworden. In der Bildungs-GenAI-Forschung wird er häufig um [[ai-literacy|KI-Kompetenz]], [[trust|Vertrauen]], sozialen Einfluss, [[self-determination-theory|Selbstbestimmung]] und **kritischen Gebrauch** erweitert, um Adoptionskomplexität über einfache Übernahme hinaus zu erfassen.
 
 ### UTAUT / UTAUT2 / UTAUT3
-
 Die **Unified Theory of Acceptance and Use of Technology** konsolidiert TAM mit acht früheren Modellen zu vier Kerndeterminanten —, Leistungserwartung, Aufwandserwartung, sozialer Einfluss und erleichternde Bedingungen (wobei UTAUT2 hedonische Motivation, Preisnutzen und Gewohnheit hinzufügt; UTAUT3 persönliche Innovationsfreude). Die Wissensdatenbank wendet UTAUT über Lehrkraft- und Studierendenpopulationen an: [[mathematics-teachers-chatbot-motivation-2026|österreichische Sekundarstufen-Mathematiklehrkräfte]] (UTAUT mit 448 Lehrkräften), [[pre-service-science-teachers-ai-perceptions-2026|angehende Naturwissenschaftslehrkräfte in Ghana]] (UTAUT + TPB) und [[tian-genai-learning-adoption-pathways-2026|Studierende in Lesotho]] (UTAUT3 + ARCS, unter Nutzung von PLS-SEM und fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] erweitern UTAUT2 um erklärbare KI (Random Forest, SHAP, NCA, IPMA, K-Means) für 522 Universitätsstudierende und finden **Gewohnheit** als stärksten Prädiktor der ChatGPT-Absicht, und zeigen, dass **Aufwandserwartung eine notwendige Bedingung statt eines linearen Treibers ist** —, ein Ergebnis, das nur sichtbar wird, wenn XAI die Regression ergänzt.
 
 ### Theory of Planned Behavior (TPB)
-
 TPB erklärt Absicht über Einstellung, subjektive Normen und wahrgenommene Verhaltenskontrolle. Sie wird in KI-Adoptionsstudien häufig mit TAM/UTAUT gepaart —, z. B. integrieren [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] TAM, TPB, UTAUT und den FATE-Rahmen ([[bias-mitigation|Fairness]], Rechenschaftspflicht, Transparenz, Ethik), um die verhaltensbezogenen und [[ethics|ethischen]] Treiber der ChatGPT-Adoption durch Studierende zu modellieren.
 
 
 Adoptionsforschung endet üblicherweise bei der Absicht; eine TPB-Erweiterung, die stattdessen Verzögerung trotz echter Absicht maß, fand wahrgenommene Verhaltenskontrolle als stärksten negativen Prädiktor von GenAI-gestützter Lernprokrastination (β = −0.331) über 1.243 Studierende, wobei die Absicht-Verzögerung-Verbindung nur bei mäßiger bis hoher Lern-GenAI-Angst signifikant war ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### Diffusion of Innovation (DOI)
-
 Rogers' DOI-Theorie erklärt Adoption als sozialen Prozess, in dem Innovationen über die Zeit durch Populationen diffundieren, und betont Innovationsattribute (relativer Vorteil, Kompatibilität, Komplexität, Erprobbarkeit, Beobachtbarkeit) und Übernehmerkategorien. Sie erscheint in den [[governance|institutionellen]]-Analysen der Wissensdatenbank, z. B. kombinieren [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] den Technology–Organization–Environment-Rahmen (TOE) mit DOI, um organisatorische KI-Adoption an saudischen Hochschulen zu modellieren.
 
 ### Technology–Organization–Environment (TOE)
-
 TOE rahmt Adoption als geformt durch technologische, organisatorische und ökologische Kontexte —, eine Ergänzung zu individuellem TAM/UTAUT für das Studium institutioneller Adoption (siehe [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
 ## Anwendungen in der Wissensdatenbank
@@ -92,6 +92,12 @@ Eine jüngere Erweiterung kehrt die übliche Richtung um und platziert fachspezi
 
 
 Die Verbindung von Risiko zu Nutzung hängt auch am System: Über die 49 TALIS-2024-Systeme, die die Items administrierten, war wahrgenommener KI-Nutzen in allen 49 positiv mit KI-Nutzung assoziiert, während wahrgenommenes Risiko in 40 negativ und in neun positiv assoziiert war ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Konstrukte von TAM erklären Adoption."** [[socio-cognitive-genai-adoption-engineering-2026|Asag und Al Mamun]] integrierten TAM mit UTAUT für Ingenieurstudierende in Bangladesch und erklärten **64% der** Varianz. Erheblich und zugleich unvollständig: rund ein Drittel dessen, was Adoption treibt, liegt außerhalb der klassischen Akzeptanzkonstrukte.
+- **„Akzeptanzmodelle brauchen keine Domänenmodifikation."** **Wahrgenommene künstliche Autonomie** — wie selbstständig Lehrkräfte glauben, dass GenAI eine zugewiesene Unterrichtsaufgabe ausführen kann — und **Risikoaversion** zu den klassischen Konstrukten hinzuzufügen veränderte das Modell substanziell. Die ursprünglichen Konstrukte wurden für Werkzeuge ohne Handlungsfähigkeit gebaut, und GenAI hat wahrgenommene Handlungsfähigkeit.
+- **„Eine metaanalytische Adoptionsschätzung beschreibt jede Population."** Die [[teo-ai-adoption-tertiary-meta-analysis-2026|Metaanalyse unter Studierenden]] ist die Schätzung auf Populationsebene; das Ingenieurergebnis, das 64% erklärt, ist eine spezifische Population. Das eine auf das andere zu übertragen setzt eine Stabilität voraus, die die Evidenz nicht belegt.
 
 ## Verbundene Konzepte
 

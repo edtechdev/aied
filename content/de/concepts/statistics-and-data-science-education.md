@@ -8,15 +8,19 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:54:45-04:00"
-updated: "2026-10-27T03:54:45-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-10-26T14:15:00-04:00"
+source_updated: "2026-10-27T03:57:35-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-26"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -79,7 +83,7 @@ Die Qualität der Stützung zählt unabhängig vom Zugang. Ein experimenteller V
 
 - **„Zufriedenheit und wahrgenommener Nutzen zeigen, dass ein Datenwissenschafts-KI-Werkzeug funktioniert.“** Lernende nutzten LLMs stark zum Debuggen und für Konzeptfragen und **berichteten hohe Zufriedenheit, während ihr wahrgenommener Nutzen für tiefes Lernen über das Semester abnahm**. Die Zufriedenheit hielt und die selbst eingeschätzte Lernkurve fiel, sodass keine der beiden Zahlen allein das Ergebnis ist.
 - **„Ein uneingeschränktes Modell ist so gut wie ein geführter Tutor.“** Ein experimenteller Vergleich fand, dass **explizites Training in schlussfolgerungsorientierter Stützung — schrittweise Hinweise, Verifikation — bessere unabhängige** Performanz erzeugte als uneingeschränkter Zugang. Die Führung und das Training darin, sie zu nutzen, trugen den Effekt.
-- **„Sich gegen Antwortgeben zu wappnen genügt.“** Ein zweckgebauter Tutor, um eine gehostete API gewickelt und per Systemprompt angewiesen, zu **führen statt zu antworten**, wurde in einem einsemestrigen R-Kurs für Psychologie-Studierende im Grundstudium eingesetzt, wo **76% bis 84% der Lernenden ihn in prüfungsrelevanten Wochen nutzten. Das ist Adoption, kein Beleg dafür, dass die Absicherung Lernen bewirkt hat:** Wachen auf Prompt-Ebene ist einer von mehreren Hebeln und erzeugt für sich genommen kein Lernen.
+- **„Sich gegen Antwortgeben zu wappnen genügt.“** Ein zweckgebauter Tutor, um eine gehostete API gewickelt und per Systemprompt angewiesen, zu **führen statt zu antworten**, wurde in einem einsemestrigen R-Kurs für Psychologie-Studierende im Grundstudium eingesetzt, wo **76% bis 84%** der Lernenden ihn in prüfungsrelevanten Wochen nutzten. Das ist Adoption, kein Beleg dafür, dass die Absicherung Lernen bewirkt hat: Wachen auf Prompt-Ebene ist einer von mehreren Hebeln und erzeugt für sich genommen kein Lernen.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: Produktives Scheitern
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-10-24T21:19:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,13 +9,17 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,12 @@ Das macht produktives Scheitern zu einer zentralen Linse für die [[ai-ed-evalua
 ## Verbindungen zu verwandten Konzepten
 
 Produktives Scheitern verbindet sich mit [[learning-theories|Lerntheorien]] (Konstruktivismus), [[desirable-difficulties|wünschenswerten Schwierigkeiten]] (Schwierigkeit im Lernen wertschätzen), [[problem-based-learning|problembasiertem Lernen]] und [[inquiry-based-learning|forschungsbasiertem Lernen]] (lernendengesteuertes Problemlösen), [[metacognition|Metakognition]] (Reflexion über die eigenen Versuche), [[cognitive-offloading|kognitiver Entlastung]] (das Risiko, dass KI Ringen löscht), [[scaffolding|Scaffolding]] (Unterstützung, die Anstrengung bewahrt), [[feedback|Feedback]] (elaborativ, korrigierend), [[prior-knowledge|Vorwissen]] (Aktivierung und Differenzierung), [[transfer-of-learning|Lerntransfer]] (dauerhafte Ergebnisse), und [[socratic-method|sokratischer Methode]] (Fragen, um Schlussfolgern zu provozieren). Im KI-Zeitalter ist es eine zentrale evaluative Linse: hilft die KI auf eine Weise, die das Ringen bewahrt, durch das dauerhaftes Lernen aufgebaut wird?
+
+## Verbreitete Fehlvorstellungen
+
+- **„Hilfe zurückzuhalten frustriert Lernende und kostet Motivation.“** Eine dreifacharmige [[rct|RCT]] fand, dass ein Hinweise zurückhaltender Tutor **beim Rückgang von Frustration mit uneingeschränktem ChatGPT gleichzog** und bei der Motivation — die Kosten zeigten sich **allein in der Präferenz**. Lernende hatten weniger Freude daran und litten nicht darunter, was bedeutet, dass Präferenzdaten das Design verworfen hätten, das funktionierte.
+- **„Mehr Frustration bedeutet mehr Lernen.“** Der eskalierende Tutor war **0,42 Skalenpunkte frustrierender als der Tutor, der auf Anfrage antwortete (p < .001), und 0,29 weniger frustrierend als** der frustrierendste Arm. Der produktive Bereich ist eine Mitte, kein Maximum, sodass „wünschenswerte Schwierigkeit“ es nicht rechtfertigt, die Aufgabe unbegrenzt schwerer zu machen.
+- **„Produktives Scheitern heißt, dass Lehrkräfte nicht helfen sollten.“** Das Design hält *die Antwort* zurück und liefert zugleich Struktur und Eskalation. Einen Hinweis zurückzuhalten und Unterstützung zurückzuhalten sind verschiedene Interventionen, und nur die erste ist diejenige mit Belegen an dieser Stelle.
 
 ## Verbundene Konzepte
 

@@ -1,20 +1,24 @@
 ---
 title: Geschichte der KI in der Bildung
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-10-24T23:48:52-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T13:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,34 @@ Das Aufkommen [[generative-ai|generativer KI]] — einer breiten Familie, die [[
 - **Sehen Sie Designentscheidungen als Wertentscheidungen.** Technische Entscheidungen über KI in der Bildung betten ideologische Positionen über den Zweck des Lernens ein — legen Sie sie offen und befragen Sie sie.
 - **Wägen Sie Kontrolle gegen Handlungsfähigkeit absichtsvoll.** Ob KI auf Standardergebnisse hin optimieren oder vielfältige, lernendengeleitete Ergebnisse ermöglichen sollte, ist eine echte Wahl mit institutionellen und politischen Folgen, keine technische Gegebenheit.
 - **Bewahren Sie Handlungsfähigkeit der Lernenden.** Der wiederkehrende Widerstand gegen Standardisierung und Kontrolle zugunsten offener, lernendenzentrierter Ansätze ist ein dauerhafter Faden, den es zu verteidigen lohnt.
+
+## Verbreitete Fehlvorstellungen
+
+**„KI in der Bildung begann mit ChatGPT.“** Das stimmt nicht, und die Überzeugung ist kostspielig, weil sie jede frühere Lektion unsichtbar macht. [[intelligent-tutoring|Intelligentes Tutoring]] stammt aus der heuristischen Such- und Expertensystemarbeit der 1960er und 1970er Jahre, und die AIED-Gemeinschaft bildete sich Jahrzehnte vor den [[llm|großen Sprachmodellen]] um sie herum. [[mishra-control-vs-agency-history-2025|Mishra et al.]] zeigen, dass die aktuellen Debatten eine Spaltung reproduzieren, die in Andersons kognitiven Tutoren und Paperts Konstruktionismus bereits explizit war; wer das Feld auf 2022 datiert, wird Argumente neu herleiten, die das Feld zuvor bereits entschieden, aufgegeben oder verloren hat.
+
+**„Das Feld hat KI-als-Analogie stetig zugunsten angewandter Werkzeuge aufgegeben, und generative KI setzt diesen Trend fort.“** Dies ist die lehrreichste Korrektur auf dieser Seite, weil die Trajektorie real, aber nicht monoton ist. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian und Doroudis]] Positionsanalyse von AIED 1985, 1993, 2021 und 2024 sowie IJAIED 2004, 2014 und 2021 zeigt tatsächlich eine Drift von einem gemischten Feld hin zu nahezu ausschließlicher angewandter Instrumentalität bis in die 2000er. Doch auf der AIED 2024 waren drei der vier Beiträge im Quadranten KI-als-Analogie LLM-basiert, einschließlich Best-Paper-Arbeit zu LLM-basierten lehrbaren Agenten. Generative KI **kehrt** den Trend teilweise um, statt ihn fortzusetzen, weshalb es die Forschungsfront verkennt, sie als „den nächsten intelligenten Tutor" zu behandeln.
+
+**„Personalisierung bedeutet, die Schwierigkeit an jede lernende Person anzupassen.“** Das ist nur eine von zwei unvereinbaren Bedeutungen, und ihre Vermengung verdeckt eine politische Wahl. In der ersten Bedeutung bleibt das Ergebnis fest und nur der Weg variiert, mit einer Linie von Skinners Lehrmaschinen bis zum meisterschaftsbasierten Tutoring. In der zweiten diversifizieren sich die Ergebnisse selbst, indem Lernende individuelle Interessen ungebunden durch das Standardcurriculum verfolgen (Zhao, 2024). Ein [[intelligent-tutoring|ITS]] setzt die erste um, [[constructivist|Konstruktionismus]] die zweite. Ein als „personalisiert" beschriebenes Werkzeug hat Ihnen nichts gesagt, bis Sie wissen, welche gemeint ist.
+
+**„‚Künstliche Intelligenz‘ war einfach der offensichtliche Name für das Feld.“** Der Begriff war eine absichtsvolle Wahl. Als McCarthy das Dartmouth-Projekt 1956 plante, bevorzugte er *künstliche Intelligenz* gegenüber *Kybernetik*, teils um die Arbeit von Wieners Tradition des analogen Feedbacks zu distanzieren. Diese einzelne Entscheidung rahmte Maschinen im direkten Vergleich zu menschlicher Kognition, und die anthropomorphe Rahmung, die sie installierte, formt bis heute Forschungsprioritäten, Produktsprache und die ethischen Fragen, die die Öffentlichkeit stellt.
+
+## Implikationen für die Praxis
+
+**Für Lehrende und Instruktionsdesignerinnen und -designer**
+
+- Benennen Sie die Tradition, zu der Ihr Werkzeug gehört, bevor Sie es übernehmen. Fragen Sie, ob es auf feste Ergebnisse hin optimiert oder Lernendemrichtung öffnet, denn diese Antwort — nicht die Funktionsliste — bestimmt, was es mit Ihrem Assessment-Design tun wird.
+- Hinterfragen Sie das Wort „personalisiert" in jeder Anbieteraussage und verlangen Sie eine Antwort in den beiden oben genannten Bedeutungen. Ein Produkt, das das Tempo auf einen gemeinsamen Standard hin variiert, und eines, das Studierende divergieren lässt, sind keine Substitute.
+- Wenn Studierende GenAI als beispiellos darstellen, ist die Geschichte selbst lehrbarer Inhalt. Die Anderson-Papert-Rahmung gibt ihnen ein Vokabular, um über KI zu streiten, statt sie nur zu nutzen.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Die Sprache der Oberfläche ist eine Designentscheidung mit einer Linie. Ihr System „KI-Tutor" zu nennen, erbt Andersons Rahmung und die Erwartung, auf Standardergebnisse hin zu optimieren; es „microworld" oder „Lernumgebung" zu nennen, erbt Paperts. Nichts davon ist neutral, wählen Sie also absichtsvoll.
+- Wenn Sie in der Analogietradition bauen (Lernmodelle, lehrbare Agenten, Simulationen des Wissenserwerbs), sagen Sie es. Dieser Quadrant war zwei Jahrzehnte nahezu leer und füllt sich wieder; die Positionierung ist ein Unterscheidungsmerkmal, und die Evaluationskriterien sind andere.
+
+**Für Forschende**
+
+- Nutzen Sie die historischen Korpora als Baseline, statt die Gegenwart als einzigen verfügbaren Vergleich zu behandeln. Die AIED-Tagungsbände 1985, 1993, 2021 und 2024 sowie IJAIED 2004, 2014 und 2021 sind eine fertige Längsschnittstichprobe der eigenen Aussagen des Felds.
+- Nennen Sie die Linie, wenn Sie Neuheit beanspruchen. Die Behauptung, ein System „personalisiere Lernen" oder „modelliere die lernende Person", ist nur relativ zu einer bestimmten früheren Tradition neu, und die Tradition ist dokumentiert.
 
 ## Verbundene Konzepte
 

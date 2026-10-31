@@ -1,7 +1,7 @@
 ---
 title: Validität von Assessments
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:00:37-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -10,13 +10,17 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-10-23T08:05:20-04:00"
+source_updated: "2026-10-28T19:00:37-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -90,6 +94,8 @@ KI stellt Validität auf epistemischer Ebene infrage: [[end-of-assessment-ai-dis
 
 **Wenn KI das bewertbare Artefakt erzeugt.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot und Nanthaamornphong (2026)]] geben dem Validitätsproblem seinen schärfsten fachlichen Fall: In der [[cs-education|Computing-Bildung]] erzeugt die KI das Artefakt, das bewertet wird — den Quellcode —, sodass Werkzeugnutzung, Lernen und Assessment in eine einzige Interaktion verschmelzen, und eine eingereichte Codebasis Lernen nicht mehr von Delegation trennt. Über 72 Studien finden sie Effizienzgewinne, die sich nicht auf ungeleistete Leistung übertragen (21 Studien), [[prior-knowledge|Vorwissen]] moderiert, ob KI-Hilfe zu Fähigkeit wird (6 Studien), und Detektionsforschung praktisch abwesend von der Evidenzbasis (3 Studien), während Assessment-Neugestaltung vergleichsweise gut belegt ist (25 Studien). Ihre Schlussfolgerung für die Praxis ist konstruktspezifisch und technisch einfach: Fügen Sie mindestens einem hochstrapazierten Assessment pro Kurs eine mündliche Komponente oder ein anderes prozessichtbares Element hinzu — die einzelne wirksamste Intervention im Review —, und verlangen Sie kritisches [[student-engagement|Engagement]] mit KI-Ausgabe als bewertete, beobachtbare Komponente statt als optionale Disposition ([[academic-integrity|akademische Integrität]], [[assessment|Assessment]]).
 
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] replizieren und erweitern ein Validitätsargument für eRevise, ein automatisiertes Schreibbewertungssystem für argumentatives Schreiben in der oberen Grundschule, über 34 Lehrkräfte und 609 Schülerinnen und Schüler in acht Pfarreien Louisianas hinweg, und prüfen, ob dieselben soziokulturellen Mechanismen über drei verschiedene Schreiboutcomes statt über eines hinweg halten.
+
 ## Validität unter unvollständiger Information
 
 Die schärfste neue Umrahmung behandelt das generative KI-Problem als ein evidentielles. Die lernende Person weiß, wie ein Stück Arbeit produziert wurde; die Institution beobachtet das Artefakt und allenfalls Teilspuren des Prozesses — eine Produkt-Prozess-Lücke, die [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed und Temimi (2026)]] als Assessmentvalidität unter unvollständiger Information formalisieren. Nach dieser Darstellung ist die Frage nicht, ob eine Regel gebrochen wurde, sondern ob das Assessment noch glaubwürdige Evidenz für Schlussfolgern, Anstrengung und Urteilsvermögen der lernenden Person erzeugt, und jeder [[governance|institutionelle]] Mechanismus — Verbot, Überwachung, Offenlegung, Neugestaltung — wird danach bewertet, welche Studierendenantwort er am attraktivsten macht. Die Validitätslinse löst auch eine falsche Trennung auf: Integrität und Validität sind dasselbe Problem aus verschiedenen Enden gesehen, weil eine Feststellung von Fehlverhalten selbst eine Validitätsbehauptung darüber ist, was die Arbeit belegt.
@@ -111,9 +117,18 @@ Stabilität von Lauf zu Lauf ist jedoch nicht garantiert: Dieselbe Bewertung fü
 - **Modellgröße ist kein Stellvertreter für Assessmentvalidität.** Über acht Konfigurationen von vier Familien an 114 bewerteten Aufsätzen erstreckte sich exakte Bandübereinstimmung von 18,4% bis 54,4% und folgte der Familie statt der Parameterzahl — das größte Modell, GPT-OSS 120B, bewertete um 1,316 Bänder zu niedrig, und Temperatur war keine Abhilfe ([[llm-grade-bands-calibration-bias-2026|Kerwat et al. (2026)]]).
 - **Übereinstimmung und Benchmark-Fehler maskieren sich als Lernen.** Zwei Studien aus 2026 zeigen verschiedene Wege, auf denen eine Punktzahl valide aussehen kann, während sie etwas anderes etabliert. Eine offene Marketing-Schreib-Studie fand LLM-Mensch-Absolutübereinstimmung von nur ICC(2,1) .435 und ein Hybrid, der signifikant schlechter war als das LLM allein, wobei [[writing-education|Ankerzusammensetzung]] die Übereinstimmung von .338 auf .902 bewegte ([[automated-scoring-marketing-posts-agreement-2026]]). Ein Experten-Audit von sechs Physik-Benchmarks attribuierte 95,20% der auditierten Ablehnungen defekten Items oder Bewertenden statt Modellfehlern und bewegte CritPt mean@5 von 32,29% auf 87,50% ([[frontier-models-physics-benchmark-audit-2026]]). In beiden Fällen ist die Bedrohung konstruktirrelevante Varianz außerhalb des bewerteten Modells.
 - **Übereinstimmung unter LLM-Kodierenden ist Konsistenz, nicht Validität.** An einem expertenmarkierten Korpus Bildungsdialoge behielt ein kreuzmodeller Übereinstimmungsfilter nur 33 von 74 korpusabgeleiteten Verhaltensbehauptungen und 11 von 48 konstruktabgeleiteten, und geteilte Modellfehler überlebten den Filter, sodass Übereinstimmung zwischen Modellen nicht für Konstruktvalidität einstehen kann ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
+- **Automatisierte Sentiment-Labels sind eine Messbehauptung, keine Beschreibung.** An 1.220 offenen Antworten aus Studierendenbefragungen erreichte das beste Standard-Sentimentwerkzeug (BERT-nlptown) nur mäßige Übereinstimmung mit menschlicher Kodierung (κ = .42), und Lexikon-Werkzeuge klassifizierten rund 20% der Antworten wegen fehlender Vokabularabdeckung falsch ([[aalhe-ai-sentiment-analysis-student-voice-2026|You & Horissian, 2026]]). Ein Sentiment-Label ist ein Messergebnis, sodass Klassifikationsfehler eine Validitätsbedrohung sind, kein Tuning-Problem.
+- **Kontamination ist die Validitätsbedrohung, die aggregierte Daten verbergen.** Wenn Studierende KI nutzen, um die bewertete Arbeit zu erledigen, ist ein Anstieg der mittleren Rubrikpunkte Evidenz über das Werkzeug, nicht über das Lernen, und ein Modell, das die Ausgabe eines Modells bewertet, ist ein „Spiegelsaal" statt eines Assessments ([[aalhe-genai-assessment-continuous-improvement-2026|Jenkins & de Mello-e-Souza Wildermuth, 2026]]). Die Autoren merken an, dass Kontamination in den aggregierten Daten, die Programme üblicherweise nutzen, unsichtbar ist.
 - **Exposition ist messbar, und das Abhilfemittel ist ausreichende Evidenz statt maximale Sicherheit.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] bewertete 53,915 Assessmentitems nach veröffentlichtem Format, Beaufsichtigung und Notengewicht und fand, dass die meisten bewerteten Noten auf Arbeit ruhen, deren Urheberschaft nach Einreichung nicht verifiziert werden kann; er argumentiert, Programme brauchten genug Evidenz für Lernen an Schlüsselstellen, nicht jede Einheit gesichert.
+- **Ein Modell kann Items vorab testen und Defekte aufdecken, die die Lehrkräfteprüfung übersieht.** Eine Institution ließ eine Unternehmens-KI-Plattform Prüfungsitems vor der Durchführung beantworten und verglich dann ihre Begründung mit dem beabsichtigten Konstrukt und der vorgesehenen Antwort ([[aalhe-ai-co-designer-feedback-partner-2026|Ford, Helms & Moseley, 2026]]). Die Übung brachte mehrdeutige Formulierungen, mehrere plausible Antworten, unbeabsichtigte Hinweise und Items zutage, deren vorgesehene Antwort nicht klar verteidigt werden konnte. Die Autoren behandeln die Antwort als Anlass, ein Item erneut zu prüfen, nicht als Beweis dafür, dass es fehlerhaft ist.
 - **Ein gültiges Maß kann dennoch unsicher zu optimieren sein.** Ein LLM-Tutor gegen eine rubric-artige Adaptivitätsmetrik feinzujustieren erhöhte die Metrik (+0,05 bis +0,42), während blinde Expertenbewertungen fielen (4,46 auf 3,03), weil eine Metrik, die Entscheidungen unabhängig bewertet, durch Wiederholung der einzelnen besten Entscheidung maximiert wird ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026)]]).
 - **Die Geometrie eines Embeddings sind nicht die Unterscheidungen einer Rubrik.** Gegen 992 handschriftliche Physiklösungen unter fünf textuellen Darstellungen und neun Embedding-Mechanismen berichten [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] eine beste gewichtete Spearman-Korrelation mit menschlichen Punktzahlen von 0,198, wobei Cluster punktzahl-angereichert statt punktzahl-äquivalent waren.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Bias in der LLM-Bewertung ist ein Grund, sie aufzugeben."** In einer **nationalen Schreibbewertung im großen Maßstab** zeigte ein LLM-Bewerter einen **systematischen konservativen (unterbewertenden) Bias** — problematisch als endgültige Note und potenziell **nützlich als Screening**signal. Ein Bias mit bekannter Richtung ist ein anderes Instrument als ein unvorhersehbares.
+- **„Noteninflation nach KI ist Spekulation."** In einer **Differenz-von-Differenzen-Studie über 500.000+ Noten in 319 Kursen (2018-2025)** **sah in Kursen mit mehr KI-exponierten Aufgaben (Schreiben, Programmieren) den Anteil an A-Noten steigen**. Der Effekt konzentrierte sich dort, wo Aufgaben exponiert waren.
+- **„Die Lehrenden haben KI breit übernommen."** **62,4% (53)** verzichteten gänzlich auf generative KI, und die Nutzung der Übernehmenden war **weitgehend auf Korrekturlesen (43,8%) und Klarheitsprüfungen (34,4%) beschränkt**. Das Übernahmemuster ist vorsichtig und eng, was verändert, was ein Validitätsargument abdecken muss.
 
 ## Verbundene Konzepte
 

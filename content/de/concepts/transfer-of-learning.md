@@ -1,7 +1,7 @@
 ---
 title: Lerntransfer
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-24T23:14:18-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,13 +9,17 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -98,6 +102,16 @@ Das richtet sich an der Forschung zu [[intelligent-tutoring|KI-Tutoring]] aus, d
 ### Verbindungen zu verwandten Konzepten
 
 Lerntransfer verbindet sich mit [[metacognition|Metakognition]] (Selbstüberwachung des Verständnisses), der Theorie der kognitiven Last (germane gegenüber fremder Last), [[desirable-difficulties|wünschenswerten Schwierigkeiten]] (produktives Ringen), [[scaffolding|Scaffolding]] (ausblendende Unterstützung), [[cognitive-offloading|übermäßiger Abhängigkeit]] (Werkzeugabhängigkeit) und [[sociocultural-learning|soziokulturellem Lernen]] (allgemeine KI operiert außerhalb der ZPD, indem sie Arbeit für Studierende vollzieht). Es ist die Brücke zwischen assistierter Leistung und echtem Lernen –, die Unterscheidung zwischen [[stanford-evidence-base-ai-k12-2026]] und die zentrale Frage für die Wirksamkeit von [[intelligent-tutoring|KI-Tutoring]].
+
+## Verbreitete Fehlvorstellungen
+
+**„Gewinne bei KI-gestützten Aufgaben belegen transferierbares Lernen."** Das Gegenteil ist das Muster, das der Korpus findet: **alle fünf Studien** in der hier berichteten Synthese zeigen **negativen oder ausbleibenden Transfer**, wenn allgemeine KI die Intervention ist — Oberstufenschülerinnen und -schüler in Mathematik mit höheren Übungsnoten schnitten in geschlossenen Abschlussprüfungen **etwa 17 % schlechter** ab, und in einer Essay-Schreibstudie **konnten sich 83 % nicht an ihre eigenen Zitate erinnern**. Unmittelbare assistierte Leistung ist das am wenigsten transferierbare Maß, das verfügbar ist.
+
+**„Wenn eine lernende Person es mit der KI kann, kann sie es."** Das ist die Definition des Scheiterns statt seiner Abwesenheit. Transfer verlangt, dass die Fähigkeit das Entfernen der Unterstützung überlebt, und die Studien, die das Entfernen testen, finden, dass die Fähigkeit im Werkzeug lag. Eine lernende Person, die ein Artefakt produzieren kann, während das Schlussfolgern anderswo vollzogen wird, wurde in einer anderen Fähigkeit trainiert: dem Bedienen des Werkzeugs.
+
+**„Transfer kommt von leistungsfähigeren Modellen."** Transfer kommt von Bedingungen, die ihn erzeugen — der Allgemeinheit der Übung, der Variabilität der Kontexte und dem Ausmaß, in dem die lernende Person das Schlussfolgern selbst erzeugt hat. Modellfähigkeit hebt die Decke der assistierten Leistung und tut nichts Bestimmtes für das, was bleibt, wenn das Modell weg ist.
+
+**„Anleitung stützt Transfer immer, also ist mehr Anleitung besser."** Anleitung, die das Schlussfolgern vollzieht, ersetzt den Prozess, von dem Transfer abhängt. Die Unterscheidung ist die zwischen Hilfe, die die lernende Person den nächsten Schritt erzeugen lässt, und Hilfe, die ihn für sie erzeugt — und nur die erste steht auf der Transferseite dieser Linie.
 
 ## Verbundene Konzepte
 

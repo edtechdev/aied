@@ -1,19 +1,23 @@
 ---
 title: Psychometrisch bewusste KI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-24T20:45:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,12 @@ Während KI-Systeme zunehmend Antworten benoten, Schwierigkeit vorhersagen und [
 ### Verbindungen
 
 Psychometrisch bewusste KI sitzt an der Schnittstelle von [[educational-measurement|Bildungsmessung]], [[assessment-validity|Validität]], [[item-response-theory|Item-Response-Theorie]] und [[automated-assessment|Confidence Aware AI Assessment]]. Sie ist zentral für [[ai-ed-evaluation|Evaluation von KI in der Bildung]] (ob KI-Assessment vertrauenswürdig ist) und verbindet sich mit [[llm]]-basiertem [[automated-assessment]] und [[automated-assessment|automatisiertem Benoten]]. Ihre Betonung von Validität spricht auch zu den [[limitations-in-aied-research|Messbeschränkungen]] der [[ai-education|AIED]]-Forschung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein Modell, das gut punktet, misst dasselbe."** Auf **demselben Assessmentinstrument** **divergieren** die Antwortstrukturen von Mensch und LLM — ein Modell kann gut punkten und dabei etwas anderes messen als das, was das Instrument beabsichtigt. Übereinstimmende Scores sind die Beobachtung; Konstruktäquivalenz ist eine separate Behauptung, die Belege auf Strukturebene verlangt.
+- **„Kalibrierung lässt sich an einer einzelnen Genauigkeitszahl ablesen."** **Ausbalancierte Metriken fangen ein Modell, das nur kalibriert aussieht**: Die Aufforderung an GPT-4o und Gemini 2.0 Flash, Lernstildimensionen aus den Dialogen von **153 Grundstudierenden** abzuleiten, erzeugte **moderate Genauigkeit, die sich unter ausbalancierten Metriken anders verhielt**. Aggregierte Genauigkeit verbarg ein Differential, das ausbalancierte Metriken offenlegten.
+- **„Automatisierte Benotungspipelines können psychometrisches Vorgehen nicht reproduzieren."** Die Autoren reproduzierten eine etablierte Pipeline in automatisierter Form (**eine 67%-Wahrscheinlichkeit, mindestens 7 Rubrik-Items korrekt zu beantworten für den unteren Cut und mindestens 10 für den oberen**), was KI- und menschliche Itemscores auf derselben Grundlage vergleichbar macht. Das Vorgehen war reproduzierbar; die Konstruktfrage bleibt.
 
 ## Verbundene Konzepte
 

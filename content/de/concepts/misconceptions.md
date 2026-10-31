@@ -1,7 +1,7 @@
 ---
 title: Missverständnisse über KI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-10-15T08:25:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -72,6 +76,7 @@ KI-Missverständnisse sind nicht auf Lernende beschränkt — sie sind durchdrin
 - **Die breite Öffentlichkeit** absorbiert Medien- und Anbietererzählungen über Fähigkeiten und Risiken von KI. Weil Studierende innerhalb dieses Diskurses lernen, werden öffentliche Mythen zum Substrat, aus dem Studierendenmissverständnisse wachsen. KI-Missverständnisse zu korrigieren ist daher eine [[ai-literacy|KI-Kompetenz]]aufgabe, die auf das gesamte Bildungsökosystem zielt, nicht nur auf Lernende.
 
 Diese Breite ist, warum die Wissensbasis Missverständnisse als querschneidendes fundamentales Thema behandelt statt als ein rein studierendenseitiges: dieselben Kalibrierungsfehler kehren über Lernende, Lehrende, Institutionen und die Öffentlichkeit hinweg wieder, und ihre Korrektur erfordert, sowohl individuelle Überzeugungen als auch den Diskurs zu konfrontieren, der sie nährt.
+
 Pädagogische Missverständnisse von Lehrenden sind das Spiegelbild davon: nicht Missverständnisse über KI, sondern evidenz-ungestützte Überzeugungen über Lehren, die unabhängig von KI fortbestehen. [[etq-ai-conversational-teacher-training-2026|Miranda and Calvani (2026)]] instrumentieren dies mit dem Effective Teaching Questionnaire, wo 50 binäre Items auf meta-analytische Effektstärken abgebildet sind (d ≥ 0.40), sodass die Antwort einer Lehrkraft mit einem evidenz-ausgerichteten Benchmark verglichen werden kann —, und ihr Befund ist, dass die Missverständnisse tief und spezifisch sind. In einem Piloten mit 123 italienischen Bildungsakteurinnen und -akteuren häufte sich die Ablehnung am stärksten bei kognitiven Lernstilen (78% der Lehrenden verteidigten visuelle/auditive Passung), Inklusion und Gruppenarbeit (68%) und EdTech-Überlastung (54%), mit durchschnittlicher Ausrichtung nahe 50% über die Dimensionen Planung, kognitiv, evaluativ und Management hinweg. Zwei Details zählen für das Korrekturdesign. Erstens überleben die Missverständnisse Universitätsbildung und Unterrichtspraxis —, die Autoren beschreiben einen „verinnerlichten Hausverstand", der „dem Schuleintritt vorausgeht" und fortbesteht —, es sind also keine Wissenslücken, die eine Vorlesung schließt. Zweitens, als dieselben Items durch eine konversationelle KI geliefert wurden, die den Kontext der Lehrkraft validierte, bevor sie die Evidenz erneut einführte, betrafen 41% der Einsprüche reale kontextuelle Randbedingungen (Klassengröße, besondere Bedürfnisse, Curriculumsabdeckung) statt die Evidenz selbst, und 5.9% lehnten das System als „algorithmische Dogmamaschine" ab —, die Randbedingung, wo normative Rahmung Defensivität statt Reflexion erzeugt. Für die Entwicklung von [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] ist die Implikation, dass Diagnostik-plus-Dialog sichtbar machen kann, welche Überzeugungen evidenzbasierte Ablehnung sind und welche Missverständnis, eine Unterscheidung, die ein Punktewert allein nicht treffen kann.
 
 ### Missverständnisse korrigieren
@@ -111,6 +116,12 @@ Weil Missverständnisse aktiv gehalten und resistent sind, ist die direkteste We
 **„Es ist kein Schummeln, wenn keine Person es geschrieben hat.“** *Das ist ein Missverständnis.* Akademische Integrität betrifft die ehrliche, zuschreibbare Produktion von Arbeit, nicht nur, keine Person zu kopieren. *Die Korrektur:* eine nicht offengelegte KI-generierte Einreichung kann [[academic-integrity|akademische Integrität]] verletzen, selbst wenn keine Person kopiert wurde; die Frage ist, ob die Arbeit echt die der lernenden Person ist. Im Zweifel offenlegen und die Politik Ihrer Institution prüfen.
 
 Diese Refutationen sind bewusst in der [[refutation-text|Refutationstext]]form geschrieben, damit sie selbst genutzt (oder in interaktiven [[conversational-ai|KI-Dialog]] adaptiert) werden können, um Missverständnisse über KI zu konfrontieren und zu korrigieren —, und über Lernen, Lehren und Bildung breiter.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Didaktische Missverständnisse von Lehrenden lassen sich durch das Präsentieren von Evidenz korrigieren."** In einem Piloten mit **123 italienischen Bildungsakteurinnen und -akteuren** häufte sich die Ablehnung am stärksten bei **kognitiven Lernstilen (78 % der Lehrenden verteidigten visuelle/auditive Passung)**, Inklusion und Gruppenarbeit (68 %) und EdTech-Überlastung (54 %). Die stärksten Ablehnungen waren die gegenüber Evidenz resistentesten, weshalb [[refutation-text|Refutation]] besser wirkt als Behauptung.
+- **„Einwände von Lehrenden gegen Evidenz sind alles Widerstand."** Als dieselben Items durch eine konversationelle KI geliefert wurden, die **den Kontext der Lehrkraft validierte, bevor sie die Evidenz erneut einführte**, betrafen **41 % der Einsprüche reale kontextuelle Randbedingungen** — Klassengröße, besondere Bedürfnisse, Curriculumsanforderungen. Ein erheblicher Teil des scheinbaren Missverständnisses war berechtigter Einwand.
+- **„Missverständnisse lassen sich aus Dialogen zuverlässig erkennen."** **Von 241 geprompteten Segmenten wurden 221 (91,7 %) per Expertenmehrheitsvotum als strategische Missverständnisse bestätigt (Fleiss' κ = 0.9487)**, mit **keinen signifikanten Unterschieden** zwischen den Gruppen. Hohe Reliabilität ist unter Expertenentscheidung erreichbar, und auf diese Bedingung stützt sich die Behauptung.
 
 ## Verbundene Konzepte
 

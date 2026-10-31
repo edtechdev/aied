@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Leistungsbeurteilung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T23:50:47-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,13 +13,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -43,7 +47,7 @@ Assessment ist aus zwei Gründen zentral für KI in der Bildung. Erstens wird KI
 ## Wie KI im Assessment eingesetzt wird
 
 - **Automatisiertes Assessment:** [[automated-assessment|KI-basiertes Assessment]] erstreckt sich über mehrere Modalitäten — Multiple-Choice, Kurzantwort, Aufsatz, Code und leistungsbasierte Bewertung — durch [[automated-assessment|automatisches Benoten]], [[automated-essay-scoring]] und [[automated-question-generation]].
-- **Formatives Assessment:** [[formative-assessment|KI-Systeme]] erzeugen, validieren und adaptieren formative Aufgaben in großem Maßstab und informieren den laufenden Unterricht statt nur [[summative-assessment|summative]] Bewertung.
+- **Formatives Assessment:** [[ai-technologies|KI-Systeme]] erzeugen, validieren und adaptieren formative Aufgaben in großem Maßstab und informieren den laufenden Unterricht statt nur [[summative-assessment|summative]] Bewertung.
 - **Learning Analytics und Messung:** [[learning-analytics]] und [[educational-measurement]] verbinden Assessmentdaten mit Lernprozessen und nutzen [[item-response-theory]], [[knowledge-tracing]] und [[student-modeling]], um Leistung zu interpretieren. [[razavi-powers-item-difficulty-llm-2026|Razavi und Powers (2026)]] demonstrieren die LLM-basierte Schätzung von Aufgabenschwierigkeit als Messinput: über 5.170 K-5-Mathematik- und Leseverstehensaufgaben hinweg, die unter dem Rasch-IRT-Modell kalibriert wurden, korrelierten die Zero-Shot-Bewertungen von GPT-4o mäßig bis stark mit den tatsächlichen Schwierigkeiten (r = 0.83 Mathematik, r = 0.81 Lesen), variierten aber nach Jahrgangsstufe, während ein merkmalsbasierter Ansatz (LLM-extrahierte Merkmale in baumbasierten Modellen) Korrelationen bis zu r = 0.87 erreichte. Die Studie bietet einen praktischen siebenstufigen Arbeitsablauf für Prüfungsfachleute und warnt zugleich, dass die Generalisierbarkeit über K-5-Mathematik und Lesen hinaus unklar bleibt.
 - **Feedbackschleifen:** KI-Assessment speist zunehmend [[feedback|Feedbackschleifen]], die den Zyklus von Assessment zu Lernen schließen.
 - **E-Portfolio-Assessment:** [[eportfolio|E-Portfolios]] bündeln Arbeit und Reflexionen der Lernenden über die Zeit als prozessbasierte, KI-robuste Assessmentform. Generative KI kann den Portfolio*prozess* unterstützen — Feedback erzeugen, Reflexion [[scaffolding|gerüsten]] und (bei geeigneter Rubrikgestaltung) die Bewertung unterstützen —, während die Betonung des Portfolios auf Begründungsspuren und Entwürfen KI-Fabrikation widersteht. [[ni-lam-multiliteracies-ai-portfolio-2026|KI-gestützte Portfolio-Bewertung]] und [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT + E-Portfolio für EFL-Sprechen]] zeigen, dass KI sowohl das Portfolio-Erlebnis als auch die [[feedback-literacy|Feedback-Kompetenz]] der Lernenden verbessern kann.
@@ -65,7 +69,8 @@ KI wirft grundlegende [[assessment-validity|Validitätsfragen]] auf: Messen KI-b
 ## Integrität und die Debatte um Detektion
 
 KI im Assessment hat die [[academic-integrity|Integritätsdebatte]] verschärft. Ein Strang konzentriert sich auf [[ai-detection|die Detektion KI-erzeugten Texts]], während ein wachsender Korpus an [[research-methods-aied|Forschung]] argumentiert, dass Detektion ein begrenztes, situatives Werkzeug ist — keine Strategie erster Wahl. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] und [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argumentieren, dass Authentizität nicht polizeilich erzwungen werden kann; sie muss neu gestaltet werden, wobei KI als erklärte Mitarbeitende positioniert und [[authentic-assessment|authentisches]], [[process-oriented-assessment|prozessbasiertes]] Assessment gegenüber Überwachung priorisiert wird. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** belegen dies empirisch an **wie Studierende tatsächlich urteilen**, wenn sie mit GenAI durch Assessments navigieren: Scroll-back-Interviews mit 26 Studierenden offenbarten ein Spektrum von sechs Urteilsereignissen — von der kritischen Bewertung von KI-Wissen und dem Lernen an KI-Grenzen bis zur unkritischen Übernahme von Ideen und der Fehleinschätzung von KI-Beiträgen als eigene. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** fügen ein [[quantitative-research|quantitatives]] Gegenstück hinzu: über 157 Studierende hinweg sagte vorher, *wie* GenAI genutzt wird (evaluative Integration zur Unterstützung des Verstehens gegenüber Kurzstreckenübernahme mit geringer Verifikation) die Leistung vorher, während die einfache Nutzungs**häufigkeit weder** Leistung noch akademische [[self-efficacy|Selbstwirksamkeit]] vorhersagte. Zusammen rahmen diese Studien die Assessmentfrage neu, von *ob* Studierende KI nutzen zu *wie sie diese Nutzung beurteilen und gestalten*.
- [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] gehen weiter und argumentieren, Detektion solle überhaupt nicht eingesetzt werden: ihre probabilistische Ausgabe kann nicht unabhängig verifiziert werden, weil die Herkunft realen Textes unbekannt ist, und Detektorwerte — allein oder mit sprachlichen Markern, Stilvergleichen, der Behauptung eines LLM oder dem Schweigen der Studierenden — erfüllen nicht den Standard der überwiegenden Wahrscheinlichkeit, den Integritätsuntersuchungen erfordern.
+
+[[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] gehen weiter und argumentieren, Detektion solle überhaupt nicht eingesetzt werden: ihre probabilistische Ausgabe kann nicht unabhängig verifiziert werden, weil die Herkunft realen Textes unbekannt ist, und Detektorwerte — allein oder mit sprachlichen Markern, Stilvergleichen, der Behauptung eines LLM oder dem Schweigen der Studierenden — erfüllen nicht den Standard der überwiegenden Wahrscheinlichkeit, den Integritätsuntersuchungen erfordern.
 
 Ein PRISMA-Review von 25 Studien fügt einen Risikofaktor hinzu, den die Detektionsdebatte auslässt: Nicht-Muttersprachlerinnen und -Muttersprachler des Englischen zeigten eine hohe Tendenz, Integrität zu verletzen, wenn sie beim Schreiben auf Englisch kämpften; Integritätserwartungen sollten daher mit konkreter Unterstützung beim akademischen Schreiben gepaart werden statt allein mit Durchsetzung ([[ssaho-ai-academic-integrity-review-2025|Balalle und Pannilage (2025)]]).
 
@@ -78,6 +83,7 @@ Die konstruktive Frage in der Assessmentliteratur der Wissensbasis lautet nicht 
 - **KI-Freigaben auf Aufgabenebene, abgeleitet aus den Assessmentzielen:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] zeigt die Assessment-Design-Arbeit, die einer [[educational-policy-ai|KI-Richtlinie]] vorausgeht — jede Aufgabe in einem Projekt zu inventarisieren, festzulegen, was bewertet wird und gegen welches Ziel, und KI auf dieser Grundlage pro Aufgabe zu erlauben oder zu verbieten (Brainstorming und Bildkuratierung erlaubt; das Formulieren von Lernzielen und Foliendesign nicht). Dieselbe Abstimmungsübung dient zugleich als Prüfung des Rückschlusses, den das Assessment stützt, weil sie die Lehrenden zwingt, die Leistung zu benennen, die eine Note beglaubigen soll ([[assessment-validity]]).
 - **Assessment, das über die sprachliche Modalität hinausgeht:** Jiang et al. (2026) definieren multimodale Assessmentkompetenz für Lehrkräfte des Zweitsprachenunterrichts als Wissen, Wert und Kompetenz für Aufgaben, die Antworten über sprachliche, visuelle, auditive, gestische und räumliche Modalitäten hinweg hervorrufen. Ein einjähriges Programm mit 30 Hongkonger Englischlehrkräften hob das Wissen über Assessmentstrategien von 3,13 auf 4,15 von 5 (partielles η² = 0,571) und die Kompetenz in der Unterstützung Studierender von 3,05 auf 3,98 (0,482), während alle drei Wert-Subdomänen flach blieben. Die eigene Erfahrung der Lehrkräfte fügte dem Rahmenwerk zwei Dimensionen hinzu: das Aufrechterhalten der Praxis gegenüber konkurrierenden curricularen Prioritäten und den kritischen Einsatz von GenAI ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al. (2026)]]).
 - **Koautorschaft und Erklärung** als Teil des Assessmentvertrags
+- **Prozessbasierte Rubrik-Kriterien, die die Interaktion bewerten, nicht das Artefakt.** [[rubrics-genai-process-based-assessment-2026|Oviedo und Díaz (2026)]] lesen Biggs' 3P-Modell als drei kritische Beurteilungsdimensionen — menschliche Handlungsfähigkeit und kritische Aufsicht, dialogisches Scaffolding mit Bezug zu [[prompt-engineering|Prompt Engineering]] und kognitive Souveränität, gegründet auf [[academic-integrity|Integrität]] und Transparenz —, und argumentieren, dass eine fertige Datei keine Information mehr darüber trägt, wessen Schlussfolgern sie hervorgebracht hat.
 - **Produktion als Kompetenz** — die Bewertung der Fähigkeit Lernender, Werkzeuge zu steuern und Arbeit in professionellem Standard zu erzeugen ([[competency-based-education-genai-production-2026]])
 - **Die Bewertung des Interaktionsprozesses, nicht nur des Artefakts** — das [[assessing-student-drive-framework-2025|DRIVE-Rahmenwerk]] (Directive Reasoning Interaction + Visible Expertise) behandelt die Qualität des *Engagements einer lernenden Person mit GenAI* als das bewertete Konstrukt. Es unterscheidet oberflächlichen Konsum von tiefer, reflexiver Interaktion, indem es prüft, ob Studierende Prompts strategisch steuern (DRI) und eigene disziplinäre Ideen in den Austausch integrieren und weiterentwickeln (VE), wodurch prozessfokussierte Kriterien in Theorien des [[self-directed-learning|selbstgesteuerten Lernens]] und kognitiven Engagements entlang der [[icap-framework|ICAP]]-Hierarchie gründen. Das macht DRIVE zu einem Beispiel für *KI-vermitteltes authentisches Assessment* — eine Rubrik zur Bewertung, wie Lernende mit GenAI partnerschaftlich umgehen, statt eines Detektionswerkzeugs.
 
@@ -92,6 +98,12 @@ Ein Vorschlag in dieser Literatur geht über Neugestaltung innerhalb des gegenw�
 - **Innovative Praktiken können mehrere Probleme gleichzeitig adressieren.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] argumentieren, dass eine Reihe von fünf sich gegenseitig verstärkenden Praktiken — [[authentic-assessment|authentisches Assessment]], Selbst- und [[peer-assessment|Peer-Bewertung]], Neubewertung, [[mastery-learning|standardsbasiertes Benoten]] und Ungrading —, abgestimmt auf das Paradigma des „Assessment for Learning“, den Schaden traditionellen, summativlastigen, normbezogenen Benotens (oberflächliches Lernen, erodierte [[motivation|intrinsische Motivation]], Stress und Angst, Ungerechtigkeit und beeinträchtigte [[academic-integrity|Integrität]]) im Zeitalter generativer KI entgegenwirken können. Sie finden, dass die Verbreitung über Fächer hinweg ungleich ist — Selbst- und Peer-Bewertung dominieren, während die benotungsfokussierten Innovationen marginal bleiben — und fordern Lehrende auf, sich aktiver und reziprok mit Assessment- und Benotungsinnovation auseinanderzusetzen, gestützt auf inkrementelles Experimentieren und [[governance|institutionelle]] Unterstützung.
 
 - **KI-vermitteltes Assessment diversifiziert sich.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] zeigt, dass ein LLM-erweiterter [[conversational-ai|konversationeller Agent]] die Angst Studierender während leistungsbasierter Assessments reduzierte; [[asynchronous-oral-assessment-2026|Pentland (2026)]] findet, dass asynchrone mündliche Prüfungen höheres Engagement boten und als beruflich relevant wahrgenommen wurden; [[graph-its-adaptive-algorithms-2026|graphbasiertes ITS]] nutzt adaptive Wissensstandsverfolgung zur Information des Assessments.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Integrität ist vor allem ein Detektionsproblem.“** **Scroll-back-Interviews mit 26 Studierenden** zeigen, dass Studierende sich mit GenAI entlang eines **Spektrums** durch Assessment urteilen, und über **157 Studierende** hinweg sagte *wie* GenAI genutzt wird — **evaluative Integration zur Unterstützung des Verstehens gegenüber** Substitution — das Ergebnis vorher. Die Nutzungsart trennt Studierende schärfer als die bloße Präsenz der Nutzung.
+- **„Nicht-Muttersprachlerinnen und -Muttersprachler des Englischen sind das Betrugsrisiko.“** Ein **PRISMA-Review von 25 Studien** fügt einen Risikofaktor hinzu, den die Detektionsdebatte auslässt: Nicht-Muttersprachlerinnen und -Muttersprachler zeigten eine **hohe Tendenz, Integrität zu verletzen, wenn sie** mit der Sprachanforderung **kämpften**. Das ist ein Sprachunterstützungsproblem, das als Ehrlichkeitsproblem gelesen wird.
+- **„Eine Richtlinie, die GenAI verbietet, klärt die Frage.“** Studierende berichten ein Spektrum von Urteilen statt eines Regelfolge-Musters, sodass eine Regel, die das evaluative Schlussfolgern nicht einbezieht, das Studierende ohnehin schon betreiben, nicht konsistent befolgt wird.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: das Dach für die Konzepte auf der Seite der Lernenden
@@ -129,6 +141,7 @@ Ein Vorschlag in dieser Literatur geht über Neugestaltung innerhalb des gegenw�
 - [[genai-assessment-governance]] — Evidenzzentrierte Governance generativer KI im Assessment
 - [[ssaho-ai-academic-integrity-review-2025]] — Review zu KI-Integrität: Detektion muss mit Assessment-Neugestaltung gepaart werden
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: KI-Detektoren in der Bildung (Bassett et al. 2026)
+- [[rubrics-genai-process-based-assessment-2026]] — Rubrik-Kriterien, die die Interaktion bewerten, nicht das Artefakt
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-erweitertes Assessment von Studierendenangst (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graphbasiertes intelligentes Tutoring für dynamische Domänen (2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchrone mündliche Assessments im KI-Zeitalter (Pentland 2026)

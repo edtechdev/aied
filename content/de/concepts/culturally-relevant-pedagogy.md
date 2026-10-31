@@ -1,7 +1,7 @@
 ---
 title: Kulturell relevante Pädagogik
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T22:18:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,13 +10,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-23T22:38:41-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-25T16:25:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,35 @@ Auf der Grundlage der eigenen Artikel der Wissensdatenbank können Lehrende und 
 - **Machen Sie Community-Wissen zum Bewertungsmaßstab.** Entsprechend community-basiertem KI-Lernen sollen Lernende KI-Ergebnisse an lokal begründeten Kriterien von Relevanz, Schaden und Nützlichkeit messen, und Kontexte ehren, in denen Ablehnung oder Nicht-Nutzung die richtige Entscheidung ist.
 - **Übernehmen und evaluieren Sie kulturell begründete Datensets.** IKS-Instruct und NSMQ Riddles veranschaulichen, dass [[discipline-specific-aied|domänenspezifische]], nicht-westliche Daten sowohl die Relevanz als auch eine ehrliche Evaluation sinnvoll verbessern.
 - **Lassen Sie die KI die Lehrkraft befragen, bevor sie entwirft.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] beschreiben einen kulturell responsiven Unterrichtsplaner, dessen interaktive, halbautomatisierte Prompt-Architektur zuerst nach Kontext und Kultur fragt und dann aus den eigenen Antworten der Lehrkraft entwirft, statt einen generischen Plan zu erzeugen.
+
+## Verbreitete Fehlvorstellungen
+
+**„KI-Ausgaben sind kulturell neutral, solange man nicht nach Kultur fragt.“** Der Standard ist nicht neutral, sondern dominant. Eine Analyse von **310 KI-generierten Unterrichtsplänen für politische Bildung (2.230 Aktivitäten)** fand **94% ohne erkennbaren multikulturellen Inhalt** — und von den 144 Aktivitäten, die welchen hatten, lagen **137 auf der niedrigsten „Additive“-Stufe, nur eine erreichte „Transformation“, und keine erreichte „Social Action“.** Ohne entsprechenden Prompt reproduzierten die Modelle einen nicht-diversen Standard, sodass das Fragen nach Kultur keine Bias-Minderung ist, sondern der einzige Grund, warum überhaupt etwas davon auftaucht.
+
+**„Multikulturelle Beispiele hinzuzufügen ist kulturell relevante Pädagogik.“** Die Hierarchie des Rahmenwerks sagt etwas anderes, und die generierte Ausgabe zeigt, warum die Unterscheidung operativ wichtig ist. Additiver Inhalt lässt Struktur und Annahmen der Einheit unberührt; Transformation verändert, wie der Inhalt gerahmt wird; Social Action verlangt von Lernenden, darauf zu handeln. Repräsentation mit Transformation zu verwechseln, ist der Grund, warum ein Korpus zu 6% nicht leer an Diversität sein und dennoch weit von kulturell responsiv entfernt sein kann.
+
+**„Institutionelle KI-Nutzungspolitik bestimmt, was Studierende für ethisch halten.“** Kultur leistet mehr als der Politiktext. Eine kulturvergleichende Befragung kanadischer und südkoreanischer [[cs-education|Informatik]]-Studierender fand, dass **Kultur, nicht Politik, die Wahrnehmung der Ethik von KI-Nutzung trieb** — identische Verhaltensweisen wurden über Kohorten hinweg unterschiedlich beurteilt. Eine einheitliche institutionenweite Politik erzeugt daher keine geteilte Ethik, und sie so zu behandeln, als täte sie es, wird Ihre Studierenden falsch lesen.
+
+**„Ein Pilot mit vier Lehrkräften, in dem sich Lehrkräfte zuversichtlicher fühlen, ist Beleg dafür, dass der Ansatz funktioniert.“** Er ist Beleg über die Wahrnehmung von Lehrkräften, was wertvoll ist und nicht dasselbe. In jenem Pilot verbesserte sich das Vertrauen der Lehrkräfte, Gelegenheiten für kulturelle Responsivität zu erkennen, und **78% fanden die KI-Vorschläge hilfreich zur Diversifizierung von Materialien** — während die Autorinnen und Autoren einräumen, dass die kulturelle Anpassung **im Prompt statt in der NLP-Pipeline** lebt und dass kulturelle Angemessenheit eher eingeschätzt als technisch umgesetzt wurde. Zuversicht plus Nützlichkeit ist keine demonstrierte kulturelle Relevanz für Studierende.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Liefern Sie niemals einen ungeprompteten KI-Unterrichtsplan als kulturell responsiv aus. Die 94%-Zahl ist das Standardverhalten, sodass kultureller Inhalt ausdrücklich spezifiziert und Punkt für Punkt geprüft werden muss.
+- Sortieren Sie Ihre eigenen Ergänzungen an der Leiter Additive/Transformation/Social Action ein und zielen Sie mindestens eine Sprosse höher, als sich natürlich anfühlt. Die meiste generierte Diversität sitzt unten.
+- Gehen Sie nicht davon aus, dass die Politik Ihrer Einrichtung mit Ihren Studierenden reist. Der kulturelle Kontext prägt ihre ethischen Urteile mehr als das Regelwerk.
+
+**Für Gestaltende**
+
+- Behandeln Sie kulturelle Angemessenheit als Anliegen der Pipeline, nicht des Prompts. Die eigene Grenze des Pilots ist, dass die Anpassung im Prompt saß, was bedeutet, dass sie verschwindet, wenn der Prompt sich ändert.
+- Evaluieren Sie generierte Inhalte gegen die ganze Leiter und berichten Sie, wie viele Items Transformation oder Social Action erreichen — eine Diversitätszählung, die bei Additive endet, wird zufriedenstellend aussehen und sehr wenig bedeuten.
+- Machen Sie die Lehrkraft-Studierenden-Beziehung in allem sichtbar, was Sie instrumentieren; die Merkmalsbedeutung platzierte sie in der zitierten Arbeit auf Rang zwei der Stressprädiktoren, und sie ist das Gut, das generische Generierung nicht liefern kann.
+
+**Für Forschende**
+
+- Berichten Sie kulturellen Inhalt nach Stufe statt als Anwesenheit oder Abwesenheit, denn 94% gegenüber 6% Anwesenheit sagt nichts darüber, welche 6%.
+- Unterscheiden Sie in der Berichterstattung über Piloten ausdrücklich Ergebnisse der Lehrkraftwahrnehmung von Ergebnissen bei Studierenden.
 
 ## Verbundene Konzepte
 

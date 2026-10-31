@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Muster
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-10-24T20:13:33-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -12,13 +12,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -178,6 +182,12 @@ Die Muster unten stammen aus einem Leitfaden für Lehrende, den die Betreiberin 
 - **Plan + Versuch + Anpassung** (College-Erfolg). Ersetzen Sie eine generische Zeitmanagement-Reflexion durch einen einwöchigen Studienplan, eine kurze Aufzeichnung des Versuchens, und eine Überarbeitung, gebunden an das, was geschah; KI darf Terminierungsoptionen vorschlagen, nachdem die studierende Person Beschränkungen identifiziert hat.
 
 Die eigenen Vorsichten des Leitfadens gelten: aufgezeichnete Videos, Reflexionen und Logs können selbst KI-assistiert sein, weshalb in vollständig asynchronen Kursen eine Aufzeichnung nicht als Verifikation unabhängiger Meisterschaft behandelt werden sollte. Zwei seiner Rahmungen — Assessment-Zwillinge und asynchrone mündliche Bewertung als Abschreckung gegen Betrug — bleiben Rahmenwerke, die auf Validierung warten; die oben zitierten Studien zur asynchronen mündlichen Bewertung maßen Formatwerte und maßen Betrug überhaupt nicht.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Jede von KI gelieferte Übung ist Übung."** Eine adaptive Spaced-Retrieval-Bedingung erzeugte **die höchsten Nachtestwerte (M = 78,19)** und **übertraf lernendengesteuertes KI-Studium signifikant (M = 67,28)**. Die lernendengesteuerte Anordnung schnitt schlechter ab als eine strukturierte, sodass Autonomie nicht automatisch das bessere Design ist.
+- **„Mit einem Chatbot zu lernen ist besser als ohne."** Der **Kontrastfall ist entscheidend**: In einem [[rct|randomisierten Versuch]] mit **120 Studierenden** behielt die Gruppe, die **mit** uneingeschränktem ChatGPT lernte, **weniger in einem Überraschungstest**. Das Werkzeug war in der getesteten Anordnung dem Behalten abträglich.
+- **„Die Evidenz für das Muster ist eine große gepoolte Studie."** Die **stärkste Stützung ist indirekt** und stammt aus einem **randomisierten Within-Subjects-Experiment mit 26 Studierenden**, in dem [[scaffolding]] mit unmittelbarer Antwort sich signifikant anders verhielt. Die Evidenz stützt das Muster und bleibt im Umfang dünn, und die Seite sollte so gelesen werden.
 
 ## Verbundene Konzepte
 

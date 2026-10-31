@@ -1,19 +1,23 @@
 ---
 title: Technologien
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-24T21:46:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,16 @@ Der technische Strang ist untrennbar mit den anderen Themen der Wissensbasis ver
 - **Technologie nach pädagogischer Absicht wählen:** das KI-System und das Verfahren sollten der [[pedagogy|Lehrstrategie]] folgen, nicht umgekehrt.
 - **Die technische Ebene bewerten:** [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[benchmark|Benchmark]]-Forschung bewerten KI-Systeme an Verlässlichkeit, Pädagogik und [[equity-in-ai-education|Gerechtigkeit]], nicht nur an herausgestellter Genauigkeit.
 - **Roboter und Agenten sind Teil des Stacks:** [[educational-robotics|verkörperte]] und [[agentic-ai|agentische]] Systeme erweitern das technische Repertoire über Text hinaus — und bringen eigene Gestaltungs- und Sicherheitserwägungen mit.
+
+## Verbreitete Fehlvorstellungen
+
+**„Das Modell ist die ganze Geschichte."** Verfahren wie Retrieval-Augmented Generation und Prompt Engineering existieren genau dafür, die Ausgabe eines LLM zu steuern und zu verankern, und die Architektur um das Modell herum entscheidet oft, ob es in einem Klassenzimmer nutzbar ist. Zwei Systeme auf demselben Modell können sich in ihrer Zuverlässigkeit vollständig unterscheiden, weil es das unterscheidet, was sie umgibt.
+
+**„Die technische Reife des Felds ist etabliert."** Die Kartierung ist dünn, wo es zählt: über **474 Studien** hinweg dominierten GPT-Modelle und LangChain, während **gesteuerte Werkzeug-Orchestrierung, persistenter Speicher und langfristige Planung weitgehend fehlten**, und nur **138 von 474 (29 %)** schöpften aus Bildungstheorie. Der verwendete Stack ist weit schmaler als der Stack, den das Feld braucht.
+
+**„Technische Entscheidungen sind Sache der Technologinnen und Technologen, nicht der Bildungspraxis."** Die Rahmung dieser Seite ist, dass Sie eine ausgezeichnete Lehrkraft sein können, ohne ein LLM bauen zu können, und dass Ihre technischen Entscheidungen dennoch formen, was KI in Ihrem Klassenzimmer kann und nicht kann. Ob ein System seine Antworten im Kursmaterial verankert, ist eine Entscheidung mit pädagogischen Folgen, die jemand treffen muss.
+
+**„Ein fähigeres Modell wird die Lücken des Felds schließen."** Orchestrierung, Speicher und langfristige Planung sind architektonische statt Fähigkeitsprobleme — das dokumentierte Fehlen betrifft Systeme, die ihren Werkzeuggebrauch über Zeit selbst steuern, was ein besseres Modell nicht von allein liefert.
 
 ## Verbundene Konzepte
 - [[llm]]

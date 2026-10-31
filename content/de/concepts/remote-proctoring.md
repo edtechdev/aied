@@ -1,7 +1,7 @@
 ---
 title: Fernaufsicht bei Prüfungen
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-24T21:19:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,13 +10,17 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-15T21:52:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 ## Einführung
 
 Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischerweise eine menschliche Aufsicht, die eine lernende Person per Webcam oder von einer Leitstelle aus beobachtet. **Automatisierte/KI-basierte Aufsicht (AIPS)** ersetzt oder ergänzt den Menschen durch [[machine-learning|maschinelle Lernsysteme]] und Deep-Learning-Systeme (CNNs, RNNs, LSTMs), die visuelle Signale — Augenbewegungen, Kopfhaltung, Gesichtsausdrücke und Körpersprache — analysieren, um verdächtiges Verhalten in Echtzeit zu erkennen. Gängige Plattformen sind ProctorU und Kryterion. AIPS kombinieren typischerweise vier Funktionen: (1) Identitätsauthentisierung (etwa Gesichtsverifikation per Kamera), (2) Browsing-Beschränkungen, (3) Fernautorisierung/-steuerung der Prüfung und (4) Berichtserzeugung aus aufgezeichneten Sitzungen.
+
+- **Posenschätzung ersetzt Schwellenregeln, und die Genauigkeitsbehauptung ist enger, als sie klingt.** Arif et al. (2026) verfolgen siebzehn Körperlandmarken pro Frame mit YOLOv11, leiten Merkmale der Haltungsabweichung, des Kopftrends und der Oberkörperbewegung ab und setzen einen K-Nearest-Neighbor-Klassifikator mit einfachem nächsten Nachbarn über 30 per gegenseitiger Information ausgewählte Merkmale ein, mit einer berichteten Genauigkeit von 99,56% und AUC 0,9957 aus einer Webcam ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Diese Zahlen beschreiben die Reproduktion von Labels auf einem maßgeschneiderten Szenariosatz, nicht die Erkennung von Fehlverhalten.
 
 ## Vorteile und Chancen
 
@@ -71,6 +77,12 @@ Fernaufsicht existiert auf einem Spektrum. **Online-Aufsicht** umfasst typischer
 - **Datenschutzbewahrende Architektur.** Edge-Verarbeitung, Anonymisierung und On-Device-Handhabung reduzieren die Invasivität kontinuierlicher Datenerfassung.
 - **Gerechtigkeitsbewusster Einsatz.** Vielfältige, geografisch inklusive Datensätze und leichtgewichtige Modelle für ressourcenarme Umgebungen; barrierefreie Alternativen für Studierende ohne verlässliche Geräte/Konnektivität.
 - **Bilden Sie, bevor Sie überwachen.** Bevorzugen Sie, [[ai-literacy|KI-Kompetenz]] und [[reducing-ai-misuse|verantwortungsvollen Umgang]] durch Kultur und Vertrauensaufbau zu fördern, und reservieren Sie Aufsicht für die hochstrapazierten Fälle, die sie tatsächlich erfordern.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Aufsicht schützt akademische Integrität."** **Die Integritätsbegründung überlebte den größten Test nicht.** Über **vier Wellen und 1.760 Studierende in 105 Kursen** **erhöhte Aufsicht die Prüfungsangst (β = 0,60, p < 0,001), hatte aber keinen** erkennbaren Integritätsnutzen. Der gemessene Effekt betraf die Studierenden, nicht das Fälschen.
+- **„Bessere Erkennungsfähigkeit bedeutet bessere Aufsicht."** Ein ein Jahrzehnt umfassender systematischer Review von **80 begutachteten Studien (2014–2024)** findet, dass fortgeschrittene ML/DL-Aufsicht Fälschen **genauer erkennt** und nichts darüber sagt, ob ihr Einsatz das Verhalten ändert. Erkennungsleistung ist eine Eigenschaft des Klassifikators, nicht des Assessmentregimes.
+- **„Verhaltenssignale sind verlässliche Indikatoren für Fehlverhalten."** Systeme **verfolgen siebzehn Körperlandmarken pro Frame** mit YOLOv11, um Merkmale der **Haltungsabweichung, des Kopftrends und der Oberkörperbewegung** abzuleiten. Diese Konstrukte sind Stellvertreter, und eine markierte Haltung ist eine Klassifikation über einen Körper statt eine Beobachtung eines Verstoßes.
 
 ## Verbundene Konzepte
 

@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automatische Aufgabengenerierung
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T20:49:56-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,16 @@ AQG ist ein zentraler Befähiger [[adaptive-learning|adaptiven]] und [[personali
 - **Für kognitive Tiefe entwerfen:** Prompts und Pipelines sollten höherordentliches Denken adressieren, nicht bloß Erinnern, um echtes Lernen zu stützen.
 - **Schwierigkeit kalibrieren:** Nutzen Sie KI-Schwierigkeitsschätzungen, um angemessen herausfordernde Aufgaben auszuwählen, mit starker Validierung vor hochrelevantem Einsatz.
 - **Über Lernendenmodelle personalisieren:** Kombinieren Sie AQG mit Knowledge Tracing und Interessenmodellen, um adaptive, individualisierte Aufgaben zu erzeugen.
+
+## Verbreitete Fehlvorstellungen
+
+**„Generierte Aufgaben sind in dem Maßstab nutzbar, in dem sie produziert werden können."** Das Volumen ist nicht die Beschränkung; die Kalibrierung ist es. Die Qualität variiert dramatisch über Aufgabentypen und verlangt Validierung, um halluzinierte oder schlecht kalibrierte Aufgaben zu vermeiden, weshalb die Pipelines, die funktionieren, ihren Aufwand in die Verifikation statt in die Generierung stecken — eine senkte die Halluzination um **62 %**, indem sie eine generate-then-validate-refine-Schleife ergänzte.
+
+**„Eine Verfeinerungsschleife macht generierte Aufgaben vertrauenswürdig."** Sie macht sie weniger falsch. Eine 62-prozentige Verringerung der Halluzination lässt einen erheblichen Rest, und keine Schleife löst das schwierigere Problem, ob die angegebene Schwierigkeit einer Aufgabe dem entspricht, was Studierende tatsächlich tun — die [[assessment-validity|Validitäts]]-Frage, an der die Evidenz zu Schwierigkeitsmarkierungen generierte Metadaten scheitern lässt. Validierung reduziert Erfundenes; Kalibrierung braucht Antwortdaten von Studierenden.
+
+**„Aufgabengenerierung personalisiert das Üben von selbst."** Sie erzeugt Angebot, und Personalisierung ist ein Zuordnungsproblem. Mehr Aufgaben zu produzieren sagt Ihnen nicht, welche Aufgabe eine gegebene lernende Person als Nächstes sehen sollte, und die Frage der adaptiven Auswahl ist ein eigener Mechanismus mit eigener Evidenz.
+
+**„Generierung skaliert Assessment, ohne zu verändern, was Assessment misst."** Sie verändert die Zusammensetzung dessen, was gemessen wird, weil die Aufgaben, die sich gut generieren lassen, keine repräsentative Stichprobe der Aufgaben sind, die gut messen. Leicht zu generierende Formate werden die schwerer zu generierenden fortschreitend verdrängen, was das Konstrukt still umformt.
 
 ## Verbundene Konzepte
 

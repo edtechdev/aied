@@ -1,7 +1,7 @@
 ---
 title: Storytelling in der Bildung
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T20:13:33-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,13 +9,17 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -43,6 +47,16 @@ Storytelling gründet in [[motivation]], [[student-engagement]] und [[constructi
 - **Digitales Storytelling als Gegengewicht zur KI:** Während [[generative-ai|generative KI]] aufsteigt, wird digitales Storytelling als Träger jener emotionalen, kulturellen und erzählerischen Fähigkeiten neu gerahmt, an denen es KI mangelt. In einem Modell [[project-based-learning|projektbasierten Lernens]] für Kunst- und Designbildung übersetzten Studierende lokales kulturelles Erbe in [[multimodal|multimodale]] Erzählungen über 92 Werke digitalen Storytellings hinweg und zeigten damit, wie Storytelling menschliche Kreativität im KI-Zeitalter erhält.
 
 Storytelling verbindet sich mit [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]] und [[educational-robotics]].
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine gemeinsam gebaute Geschichte ist eine erzählte Geschichte.“** Gewonnen werden Flüssigkeit und Umfang; gefährdet ist die Urheberschaft der erzählenden Person. Eine Geschichte ist eine Strukturierung von Erfahrung durch jemanden, der die Abfolge und die Betonung gewählt hat, sodass eine Maschine, die die Struktur liefert, genau den Teil geliefert hat, der die Bedeutung trägt.
+
+**„Storytelling ist eine weiche Ergänzung zum Inhalt.“** Erzählung ist ein Gedächtnis- und Sinnstiftungsinstrument, und die lernende Person, die erzählt, leistet die ordnende Arbeit. Wer das Erzählen abgibt, gibt das Lernen ab.
+
+**„KI-Generierung macht Storytelling für Lernende verfügbar, die nicht schreiben könnten.“** Sie macht *das Herstellen eines schriftlichen Artefakts* verfügbar, was ein anderer Nutzen ist. Mündliches Erzählen, Zeichnen und Diktieren sind die etablierten Wege zum selben Ziel, und sie bewahren die Urheberschaft, die die Generierung entfernt.
+
+**„Der Bildungswert einer Geschichte liegt im polierten Ergebnis.“** Er liegt in der Konstruktion — der Auswahl und Anordnung, die eine erzählende Person vornimmt. Eine polierte Geschichte, die die lernende Person nicht strukturiert hat, belegt die Kompetenz des Modells und nicht die der Lernenden.
 
 ## Verbundene Konzepte
 

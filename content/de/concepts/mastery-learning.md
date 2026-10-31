@@ -6,15 +6,19 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T20:47:39-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,7 +51,6 @@ Mit einem laufenden Mastery-Modell wird die Aufgabe des Systems, zu entscheiden,
 **Ein kritischer Vorbehalt zur Mastery-Inferenz: Richtigkeit ist nicht Mastery.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] zeigen, dass Lernende, die eine Fähigkeit überverallgemeinern — richtige Handlungen ausführen und dabei eine zentrale Anwendungsrandbedingung weglassen —, gemeistert erscheinen können, sodass auf [[knowledge-tracing|Knowledge Tracing]] beruhende Mastery-Stoppregeln die Übung beenden, bevor sie auf einen Fall treffen, in dem die Handlung *unterlassen* werden sollte. Die Abhilfe besteht darin, zu bewerten, *wann die Handlung zu unterlassen ist*, nicht nur wie sie auszuführen ist: nehmen Sie „Nicht-handeln“-Detektoraufgaben vor dem Auslösen der Mastery-Schwelle auf, gepaart mit [[feedback|Feedback]], das die fehlende Randbedingung benennt. Mastery ist besser als Unterscheidung von Anwendungsrandbedingungen plus Handlungsausführung zu verstehen, nicht als Richtigkeit allein.
 
 **Ein zweiter Vorbehalt betrifft die Evidenzregel hinter der Schwelle.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ließ vier Aktualisierungsregeln über identische Ereignissequenzen aus den ASSISTments-2012/13-Mathematik-Logs laufen — eine konfirmatorische Hälfte von 12,716 Studierenden und 985,813 bewerteten Ereignissen — und fand, dass die erklärte Mastery-Zahl mit der Regel bewegte statt mit den Lernenden: Jede Vervollständigung anzurechnen setzte 93.9% von 113,428 Studierenden-Fähigkeits-Paaren über die 0.95-Posteriorwahrscheinlichkeit, gegenüber 72.8%, wenn Zeilen mit Hinweis oder Wiederholung als gescheiterte Erstversuche gelesen wurden. Die Paare, die die nachsichtige Regel vor der strengen Regel erklärte, erreichten danach 70.9% ungestützte Genauigkeit gegenüber 85.7%, wo die Regeln übereinstimmten — unter der Basisrate von 0.744. Ein Fortschrittsgate, das assistierte Vervollständigungen zählt, zertifiziert damit Lernende, deren spätere unabhängige Arbeit unter dem Durchschnitt liegt, was die Behandlung von [[help-seeking|Hilfesuche]] innerhalb der Aktualisierungsregel — nicht die numerische Schwelle selbst — zur Entscheidung macht, die festlegt, was ein Mastery-Abzeichen zertifiziert.
-- **Mastery Learning mit geteilter Kontrolle ist nur so effizient wie die Aufgabenauswahlstrategie der lernenden Person.** Eine Simulationsstudie (1.000 simulierte Lernende pro Lauf, AFM- und BKT-Parameter gefittet an echte MathTutor- und DataShop-Logs) verglich neun Aufgabenauswahlstrategien. Die Effizienz variiert um eine Größenordnung: Die risikoaverse Strategie „Minimize Worst Case Loss" — die Fähigkeit zu wählen, deren Verlust im schlechtesten Fall am kleinsten ist — produziert 30.28x Überübung beim Gleichungslösen (28.93x bei der Graphinterpretation), gegenüber 1.73 +/- 0.38 im Schnitt bei den anderen Strategien. Gezielte Systemrandbedingungen retten sie chirurgisch: Aufgabenauswahl-Randbedingungen senken die Überübung auf 12.88/14.46x, und ein Problemauswahl-Bias „Prefer Harder" senkt sie auf 1.98x (Cohens d = 1.86) —, während bereits effiziente Strategien unberührt bleiben. Die Designimplikation: Randbedingungen sollten strategiebewusst sein und pathologische Selbstregulierende schützen, ohne gute zu belasten, und simulations-zuerst-Umgestaltung vermeidet es, Studierende 30x Überübung auszusetzen, um die Lösung zu entdecken. ([[noh-simulating-task-selection-2026]])
 
 ## Übung, Behaltensleistung und die Grenzen der KI-Unterstützung
 
@@ -55,7 +58,19 @@ Mastery hängt auch von dauerhafter Behaltensleistung ab, nicht bloß von einer 
 
 Schließlich warnt die Evidenz davor anzunehmen, KI-erzeugte Unterstützung sei durchweg nützlich. In einer multi-[[governance|institutionellen]] Studie zu KI-erzeugten animierten Ablaufspuren für Programmieranfängerinnen und -anfänger waren die Vorteile kontextabhängig und kurzfristig, und Lernende mit mittlerem [[student-engagement|Engagement]] erlebten einen Leistungsabfall, der Koordinationskosten zugeschrieben wurde — ein Effekt im Stil der Expertise-Umkehr, der die Notwendigkeit unterstreicht, Unterstützung an den aktuellen Stand der lernenden Person anzupassen, statt ein Werkzeug pauschal anzuwenden. Ebenso positioniert ein Entwicklungskontinuum der [[ai-literacy|KI-Kompetenz]] in der [[higher-ed|Hochschulbildung]] Mastery nicht bloß als flüssige Übernahme von KI-Werkzeugen, sondern als Fortschreiten durch Stufen informierter und kritischer Nutzung, jede mit eigenen Strategien [[formative-assessment|formativen Prüfens]]. Zusammen rahmen diese Befunde KI-ermöglichtes Mastery Learning als System, das an einzelne Lernende kalibriert, nachhaltig verteilt und auf echte Kompetenz statt flüssige Ausgabe hin bewertet werden muss.
 
+- **Mastery Learning mit geteilter Kontrolle ist nur so effizient wie die Aufgabenauswahlstrategie der lernenden Person.** Eine Simulationsstudie (1.000 simulierte Lernende pro Lauf, AFM- und BKT-Parameter gefittet an echte MathTutor- und DataShop-Logs) verglich neun Aufgabenauswahlstrategien. Die Effizienz variiert um eine Größenordnung: Die risikoaverse Strategie „Minimize Worst Case Loss" — die Fähigkeit zu wählen, deren Verlust im schlechtesten Fall am kleinsten ist — produziert 30.28x Überübung beim Gleichungslösen (28.93x bei der Graphinterpretation), gegenüber 1.73 +/- 0.38 im Schnitt bei den anderen Strategien. Gezielte Systemrandbedingungen retten sie chirurgisch: Aufgabenauswahl-Randbedingungen senken die Überübung auf 12.88/14.46x, und ein Problemauswahl-Bias „Prefer Harder" senkt sie auf 1.98x (Cohens d = 1.86) —, während bereits effiziente Strategien unberührt bleiben. Die Designimplikation: Randbedingungen sollten strategiebewusst sein und pathologische Selbstregulierende schützen, ohne gute zu belasten, und simulations-zuerst-Umgestaltung vermeidet es, Studierende 30x Überübung auszusetzen, um die Lösung zu entdecken. ([[noh-simulating-task-selection-2026]])
+
 Standards-based grading ist das Assessment-Gegenstück zu Mastery Learning, und [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] zählen es zu fünf innovativen Praktiken, die an „assessment for learning“ ausgerichtet sind und die Lehrende in der Hochschulbildung übernehmen könnten — doch sie finden es im Diskurs zur Managementbildung praktisch abwesend. Sie führen das auf normative Barrieren zurück: normbezogenes „grading on a curve“, externe Signalisierung (Rankings, Praktika, Akkreditierung) und die instrumentelle Haltung der Studierenden widerstehen alle mastery-orientierten, notenfreien Ansätzen. Ihre Empfehlung ist inkrementelles Experimentieren — etwa die Einführung standardsbasierter Rubriken für eine einzelne Aufgabe vor der Skalierung —, gestützt auf Koordination auf Programmebene und dokumentierte Belege aus Scholarship of [[teacher-role|Teaching]] und Learning.
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine Mastery-Schwelle ist eine objektive Eigenschaft der lernenden Person."** Die Schwelle ist eine Eigenschaft der *Regel*, mit der sie aktualisiert wird. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ließ **vier Aktualisierungsregeln über identische Ereignissequenzen** aus dem ASSISTments-Datensatz laufen, und die Regeln widersprechen sich darin, wer bereit ist. Mastery ist daher eine in einer Zahl festgehaltene Entscheidung, keine über eine lernende Person entdeckte Tatsache, und die Regel sollte als ausgesprochene Politik behandelt werden statt als Implementierungsdetail.
+
+**„Wenn das System ‚gemeistert' sagt, ist die lernende Person bereit voranzuschreiten."** Nur relativ zu der Regel, die gerade gilt. Wo eine Regel assistierte Arbeit anrechnet, kann „gemeistert" eine lernende Person beschreiben, die mit Unterstützung erfolgreich war und nicht selbstständig — dieselbe Divergenz zwischen assistierter Leistung und ungestützter Fähigkeit, die die [[learning-gains|Literatur zu Lernzuwächsen]] dokumentiert.
+
+**„Mastery Learning ist die Pädagogik, die KI endlich möglich macht."** Ihre Mechanik ist deutlich älter als KI — Bloom formalisierte das Rahmenwerk vor Jahrzehnten —, und KI operationalisiert sie, indem sie die Assessment- und Tempoentscheidungen automatisiert, statt ein zuvor unmögliches Design zu verwirklichen. Diese Neurahmung zählt, weil die Automatisierung die Regelwahl erbt, und in der Regel liegt das Urteil.
+
+**„Häufigeres Prüfen unter Mastery macht die Schwelle zuverlässiger."** Häufigkeit verbessert die Schätzung und behebt keine falsch spezifizierte Regel. Mastery öfter aus Ereignissen neu zu berechnen, die assistierte Arbeit einschließen, konvergiert schneller auf dieselbe falsche Antwort.
 
 ## Verbundene Konzepte
 

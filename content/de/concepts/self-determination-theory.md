@@ -1,7 +1,7 @@
 ---
 title: Selbstbestimmungstheorie
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-24T22:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,13 +9,17 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,12 @@ Ein Ko-Handlungsfähigkeits-Rahmenwerk begrenzt die Reichweite von SDT in der KI
 ## Verbindungen zu verwandten Konzepten
 
 SDT verbindet sich unmittelbar mit [[motivation|Motivation]] als ihrem übergeordneten Konstrukt, mit [[affective-computing|affective computing]] und [[affective-tutoring|affektivem Tutoring]] für emotionsbewusstes KI-Design und mit [[student-experience|dem Erleben der Studierenden]] dafür, wie Lernende KI-vermittelte Umgebungen erfahren. Die Betonung der Autonomie in der Theorie verbindet sich mit [[self-regulated-learning|selbstreguliertem Lernen]], während sich ihre Kompetenzdimension mit [[self-efficacy-tutoring-learning|Selbstwirksamkeit]] und [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] verbindet. SDT ist besonders relevant für [[professional-training|berufliche Weiterbildung]] und [[educational-development|Lehr- und Curriculumsentwicklung]], weil bedürfnisunterstützendes Design ein übertragbares Prinzip ist, um Lehrende auf die Nutzung von KI vorzubereiten.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Art der Motivation zählt weniger als ihre Menge.“** Eine einjährige Studie fand **drei Motivationsprofile — Disengaged, Developing, Self-Determined —, die über die Zeit stabil blieben**, und Studierende, die das **Self-Determined**-Profil erreichten, zeigten die **größten [[ai-literacy|KI-Kompetenz]]-Zuwächse**. Die Qualität der Motivation sagte das Lernen vorher, und die Profile drifteten nicht einfach nach oben.
+- **„Autonomieunterstützung bedeutet, Struktur zu entfernen.“** Der SDT-Mechanismus ist Autonomie, Kompetenz und Verbundenheit zusammen, und die Längsschnitt-Evidenz zeigt, dass ihre Befriedigung Zuwächse vorhersagte, statt sie nur zu begleiten. Autonomie ohne Kompetenzunterstützung ist Permissivität, und sie erfüllt die Bedingungen der Theorie nicht.
+- **„Ein Chatbot kann die drei Bedürfnisse automatisch liefern.“** Eine Studie fand, dass ChatGPT Autonomie, Verbundenheit und Kompetenz im Sprachenlernen unterstützen konnte — eine Möglichkeit, keine Eigenschaft. Ob eine gegebene Interaktion sie unterstützt, ist eine empirische Frage darüber, wie sie genutzt wird.
 
 ## Verbundene Konzepte
 

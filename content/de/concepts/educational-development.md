@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Lehr- und Curriculumsentwicklung
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T22:09:03-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -74,7 +78,7 @@ Nach dieser Darstellung sind Fakultäten, die fragen „what's the point of teac
 
 ### Praktische Anleitung für Programmgestalterinnen und Programmgestalter
 
-Für Fakultätsentwickelnde, akademische Leitungen und [[stakeholders|Instructional Designerinnen und Designer]], die KI-[[professional-training|Berufsbildung]] planen, legt die Evidenz der Wissensbasis nahe:
+Für Fakultätsentwickelnde, akademische Leitungen und [[stakeholders|Instructional Designerinnen und Designer]], die KI-[[educational-development|professionelle Entwicklung]] planen, legt die Evidenz der Wissensbasis nahe:
 
 **Adressieren Sie die vier Übernahmetreiber, nicht nur Wissen.** Zuversicht, Einstellungen, Unterstützung und Bedenken sagen vorher, ob Fakultäten KI tatsächlich übernehmen — ein rein wissensbasierter Workshop, der diese ignoriert, wird Praxis unwahrscheinlich verändern. Gestalten Sie Entwicklung so, dass sie Zuversicht durch praktische Nutzung aufbaut, laufende Unterstützung bietet (nicht einmalige Schulung), und Bedenken der Fakultäten aktiv an die Oberfläche bringt und darauf antwortet.([[teacher-ai-adoption-confidence]])
 
@@ -85,6 +89,7 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 **Behandeln Sie Bereitschaft als soziotechnisches Ausrichtungsproblem.** Das [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI-Rahmenwerk]] zeigt, dass Bereitschaft der Fakultäten epistemische, pädagogische, institutionelle und Qualitäts-und-Compliance-Domänen umfasst. Programme, die nur das Individuum schulen, übersehen die institutionellen Hebel (Politik, Arbeitslast, Anreize, Qualitätsstandards), die Wandel ermöglichen oder blockieren — richten Sie diese neben der Schulung aus.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **Setzen Sie Infrastrukturinvestition nicht mit Transformation gleich.** Über 125 Studien korrelierte institutionelle Investition in GenAI-Infrastruktur und Bildungsentwicklung nur schwach mit tatsächlichem pädagogischem Wandel (r = 0,12), während 60–70% der Lehrenden sich unvorbereitet fühlten, GenAI zu integrieren —, was Entwicklung, nicht Beschaffung, zur bindenden Beschränkung macht.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+**Benennen Sie den Fehlermodus, nicht nur die Effektstärke.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe und Martínez-Pérez (2026)]] nennen es simulierte Innovation: Werkzeugpräsenz signalisiert Fortschritt, Lehr- und Assessmentformate bleiben unverändert, Übernahmeraten und Dashboards stehen für Lernen, und der Veröffentlichungszyklus der Technologie setzt die Richtung. Ihre Diagnose verlangt von einem Entwicklungsprogramm, jedes Werkzeug vor der Übernahme gegen ein benanntes Lernproblem zu rechtfertigen.
 
 **Bauen Sie auf Curriculumneugestaltung zu, nicht auf Werkzeugübernahme.** Das Ziel ist, dass Fakultäten Kurse und Assessment neu gestalten, nicht nur KI-Werkzeuge hinzufügen. Verankern Sie Berufsbildung in Neugestaltungsarbeit auf Kursebene und Assessmentreform, und geben Sie Fakultäten strukturierte Rahmenwerke dafür (etwa [[ai-assessment-scale-reform|Assessment-Skalen]], [[institutional-change-framework-ai|Rahmenwerke institutionellen Wandels]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -174,3 +179,5 @@ Zuversicht und Kompetenz sind keine austauschbaren Ziele: In einem SEM mit 502 A
 
 - [[faculty-ai-well-being-social-supports-2026]] — Das KI-Wohlbefinden der Fakultäten folgt der KI-Kompetenz eher als der technologischen Selbstwirksamkeit
 - [[ai-competence-framework-landscape-2026]] — Prüfen Sie, was die Stufen eines Rahmenwerks beschreiben, bevor Sie es übernehmen
+
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Kann Bildung die Agenda für KI setzen? Simulierte Innovation und pädagogische Richtungsgebung in der Lehrkräftebildung

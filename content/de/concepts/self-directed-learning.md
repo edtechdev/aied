@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Selbstgesteuertes Lernen
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-24T23:29:54-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,13 +10,17 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-25T23:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -55,6 +59,33 @@ Weil SDL lernendeninitiierte Steuerung betont, fokussieren Interventionen zu ihr
 ## AI-Extraktionsgerüst für forschungsbasiertes Lernen
 
 - **KI-Extraktion als Gerüst für forschungsbasiertes Lernen.** An und Kolleginnen und Kollegen (2026) gestalten ein KI-gestütztes Informationsextraktionssystem, das Forschungspublikationen in strukturierte, nachvollziehbare Datensätze verwandelt, um Undergraduatethesis-Abschluss in [[stem-education|STEM]] zu stützen, positioniert als **epistemisches Gerüst**, das die Inspektion von Beleg-Behauptungs-Beziehungen ermöglicht, während es Anforderungen auf niedriger Datenebene reduziert. In einem 20-Studierende-[[mixed-methods-research|Mixed-Methods]]-Piloten über 80 Dokumente hinweg extrahierten Studierende über 90% der Zielparameter, sank die selbstberichtete Literaturreview-Zeit ~65%, und stieg ihre Fähigkeit, einflussreiche Variablen zu identifizieren, um 50% —, was die Idee stützt, dass [[generative-ai|KI]] kognitive Last hin zu höherstufigem, selbstgesteuertem Forschungsschlussfolgern rebalancieren kann statt zu routinemäßiger Zusammenfassung.
+
+## Verbreitete Fehlvorstellungen
+
+**„Selbstgesteuertes Lernen und selbstreguliertes Lernen sind dasselbe Konstrukt."** Sie arbeiten auf unterschiedlichen Zeitskalen: SRL betrifft die Regulierung des Lernens im Moment, während SDL die übergreifende Verantwortung über die Zeit betrifft — zu wählen, was gelernt wird, das Ziel zu setzen und die Richtung über Monate hinweg zu halten. Eine Intervention, die die Regulation von Moment zu Moment verbessert, muss keine selbstgesteuerte lernende Person hervorbringen, und eine studierende Person kann über ein Programm hinweg selbstgesteuert sein, während sie innerhalb einer Sitzung schlecht reguliert.
+
+**„KI macht selbstgesteuertes Lernen leichter, weil sie Struktur liefert."** Sie kann die Ausübung der Fähigkeit entfernen. [[genai-thoughtless-use-self-directed-learning-2026|Zhao und Gu (2026)]] zeigen, dass der **gedankenlose Einsatz von GenAI — Outputs ohne kritische Evaluation zu übernehmen — SDL erheblich untergräbt**. Das eigene Lernen zu steuern übt man, indem man die Entscheidungen trifft, die GenAI heute für einen treffen kann, sodass ein Assistent, der immer Richtung liefert, sie anstelle der Kompetenz liefert.
+
+**„Nichtnutzung von KI zeigt fehlenden Zugang an."** Unter Studierenden, die sie nicht nutzen, ist der genannte Grund oft eine positive Bildungsentscheidung — die Arbeit selbst machen zu wollen — statt eine Barriere. Nichtnutzung als Defizit zu lesen beschreibt eine Position falsch, die in der Evidenz der [[student-experience|Studierendenerfahrung]] begründet ist.
+
+**„Selbststeuerung heißt, allein zu arbeiten."** Es heißt, die Richtung zu besitzen, was in einer stark unterstützten Umgebung ausgeübt werden kann. Das unterscheidende Merkmal ist, wer das Ziel setzt und anpasst, nicht ob Hilfe verfügbar ist.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Unterscheiden Sie, was Sie entwickeln: Regulierung in der Sitzung oder Besitz über die Zeit. Sie brauchen unterschiedliche Designs, und das eine zu verbessern erzeugt nicht das andere.
+- Schützen Sie die Entscheidungen, die Selbststeuerung ausmachen — was zu lernen ist, wie Fortschritt zu beurteilen ist, wann der Kurs zu ändern ist —, selbst dort, wo KI sie treffen könnte. Sie zu delegieren entfernt die Übung.
+- Lehren Sie Evaluation zusammen mit der Nutzung, da die dokumentierte Übernahme von Outputs ohne Prüfung der Mechanismus ist, durch den GenAI SDL untergräbt.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Machen Sie die Entscheidungen der Lernenden sichtbar und revidierbar, statt sie standardmäßig zu setzen. Ein System, das immer Richtung liefert, liefert sie anstelle der Kompetenz, die entwickelt wird.
+- Bauen Sie Reflexionskontrollpunkte ein, an denen die lernende Person ihr Ziel und ihre Evidenz benennt, damit die Richtung ihre bleibt.
+
+**Für Forschende**
+
+- Berichten Sie, auf welches Konstrukt eine Intervention zielte; SDL- und SRL-Outcomes sollten nicht austauschbar verwendet werden.
 
 ## Verbundene Konzepte
 

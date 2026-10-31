@@ -1,7 +1,7 @@
 ---
 title: "Abruf, Spacing und Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-24T21:55:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,13 +12,17 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -89,6 +93,16 @@ Die Aufnahme von Interleaving hier beruht daher auf derselben Theoriefamilie wie
 - **Instrumentierungs- und Modellierungsgrenzen.** [[knowledge-tracing|Knowledge-Tracing]]-Modelle im Korpus scheitern genau dort, wo Spacing-Entscheidungen sie brauchen, und die Autoren schreiben vergangene Erfolge retroaktivem Fitten des vollständigen Datensatzes zu statt einsatzrealistischer Validierung. Die Karteikartenqualität des bilingualen Begleiters ist unverifiziert gegen Ground Truth, ohne automatisierte Faktenprüfschicht, und es hat überhaupt keine Outcomes-Studie gegeben.
 - **Interleaving hat hier im Wesentlichen keine direkte Evidenz.** Wie oben gesagt, enthält der Korpus keinen Vergleich zwischen geblocktem und interleaved, nur eine Simulation, in der Interleaving eine wählbare Strategie unter mehreren ist.
 - **Subjektpopulationen und Inhalt.** Die Evidenzbasis konzentriert sich auf [[higher-ed|Hochschulbildung]], auf MINT- und Statistikmaterial und auf Fakten-gegenüber-Fähigkeiten-Unterscheidungen aus Geometrie- und multiplen Regressionsinhalten; Generalisierung auf [[k-12|K-12]]-Settings, auf [[humanities-education|Geisteswissenschaften]] und Schreiben, und auf nichtwestliche Kursräume ist durch diese Studien nicht etabliert.
+
+## Verbreitete Fehlvorstellungen
+
+**„Besseres KI-Fragen erzeugt besseres Behalten."** Es erzeugt bessere Arbeit. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] fand, dass tieferes LLM-Fragen die unabhängig benotete Aufgabenqualität verbesserte (**β = 6,27, p = .006**), während es eine **Null-Assoziation mit dem unmittelbaren Nachtest-Abruf hatte (β = −0,014, p = .728)**, wobei die Abrufzuwächse stattdessen von Vorwissen getrieben waren. Die Qualität des Artefakts und die Dauerhaftigkeit des Gedächtnisses sind verschiedene Ergebnisse, und ein besserer Dialog bewegt das erste, ohne das zweite zu bewegen.
+
+**„Es gibt ein bestes Übungsformat."** Das Format hängt davon ab, was gelernt wird. Eine Inhalts-Behandlungs-Interaktion (**β = 0,41, p = .038, d = 0,38**) zeigt, dass **reines Übungstesten höhere Zuwächse für Fakten** erbrachte, während **beispielintegrierte Übung höhere Zuwächse für Fähigkeiten** erbrachte. Abrufübung für alles zu verordnen, oder ausgearbeitete Beispiele für alles, macht die Hälfte des Materials falsch.
+
+**„Abrufübung heißt Quizzen, und jedes Quizzen zählt."** Der Mechanismus ist, eine Antwort aus dem Gedächtnis zu produzieren statt eine zu erkennen, weshalb eine Multiple-Choice-Erkennungsaufgabe eine schwächere Version derselben Aktivität ist. Eine KI, die endlose Erkennungsitems generiert, hat eine Aktivität mit dem richtigen Namen und dem falschen Mechanismus erzeugt.
+
+**„KI kann diese Techniken getreu liefern, da sie gut spezifiziert sind."** Sie kann sie auch stillschweigend aushebeln. Spacing verlangt vom System, das Material zurückzuhalten, das es am ehesten auf Abruf liefern kann, und Abrufübung verlangt, nicht zu antworten — die Wirksamkeit der Technik hängt also von Einschränkungen ab, die ein gefälliger Assistent keinen Anreiz hat, sich aufzuerlegen.
 
 ## Verbundene Konzepte
 

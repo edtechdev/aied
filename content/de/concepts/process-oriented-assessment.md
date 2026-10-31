@@ -1,7 +1,7 @@
 ---
 title: Prozessorientiertes Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-24T21:15:40-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -56,11 +60,15 @@ Erforderliche Dokumentation erwies sich im Kursmaßstab als machbar: über sechs
 
 Die Achsen auseinanderzuhalten ist bedeutsam, weil ihre Vermischung dazu führt, dass eine Neugestaltung fertig aussieht, während die Ausgesetztheit bleibt. Sharma (2026) macht die komplementäre Unterscheidung zwischen Authentizität und integritätsorientiertem Design: Authentizität fragt, ob eine Aufgabe lohnenswerte Praxis spiegelt, während integritätsorientiertes Design fragt, ob Lernende ihre Entscheidungen begründen und Verantwortung im Verhältnis zu fachlichen Standards übernehmen können, weshalb die von ihm angebotenen Praktiken — kommentierte Entscheidungspfade, Verifikation GenAI-beigetragener Behauptungen, mündliche Verteidigung, Entwurfsunterschiede mit Versionsgeschichte — für das [[evaluative-judgment|Urteil]] ausgewählt werden, das sie sichtbar machen, statt für ihren Realismus. Espinos und Espinos (2026) Zehnjahres-Review zu [[business-education|Wirtschaftsbildung]] gelangt von der Literaturseite her zur gleichen Design-Schlussfolgerung und findet, dass das Feld auf authentische, prozesssichtbare Aufgaben konvergiert, die Interpretation, kontextuelle Anwendung und iterative Verfeinerung verlangen, und dass es isolierte Werkzeugübernahme innerhalb unveränderter Assessmentstrukturen als sein persistentestes Scheitern behandelt.
 
+Salamehs (2026) Fade–Visibility-Matrix kreuzt dieselbe Designfrage mit einer zweiten Variablen — ob [[scaffolding|KI-Unterstützung bestehen bleibt oder ausläuft]] — und benennt die Kombination, zu der die meisten Kurse standardmäßig greifen: Unterstützung, die nie ausläuft und allein an ihrem Produkt beurteilt wird, Silent Dependency ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
+
 Das Konstrukt ist auch von der Frage unterscheidbar, wie Evidenz bewertet wird. [[assessment-validity|Validitäts-]]Argumentieren ist der Ort, an dem sich beide treffen: Brunnström und Palmqvist (2026) argumentieren, dass, wenn ein [[conversational-ai|Chatbot]] eine plausible Prüfungsantwort erzeugen kann, das eingereichte Produkt zu einem schwächeren Indikator dessen wird, was die lernende Person gelernt hat — ein Assessment-Validitätsproblem statt nur ein [[academic-integrity|Integritäts]]problem. Das ist derselbe Schluss, der in Yan, Greiff, Lodge und Gaševićs Argument [[genai-performance-vs-learning|Leistung gegenüber Lernen]] auf dem Spiel steht, wo [[learning-gains|Leistungszuwächse]], die schrumpfen, sobald Unterstützung zurückgezogen wird, einen Zuwachs zeigen, der im Werkzeug statt in der lernenden Person lebt, und wo die vorgeschlagene Abhilfe Prozessmaße wie [[transfer-of-learning|Behaltens- und Transfertests]] sind statt unmittelbarer Aufgabenerfolg.
 
 ## Warum Detektion diese Last nicht tragen kann
 
 Prozessorientiertes Assessment wird üblicherweise als die Alternative zur Detektion vorgeschlagen, und die Evidenz über Detektion erklärt, warum. Die [[ai-detection|Detektions-]]Literatur findet Fehlerraten, Aufgabenabhängigkeit und gemusterten [[bias-mitigation|Bias]] gegen nicht-muttersprachliche und behinderte Schreibende, und die jüngste Arbeit landet bei einer verfahrensbezogenen Schlussfolgerung: ein Detektorscore kann eine genauere Prüfung anstoßen, ist aber kein Befund. Munoz und Kollegen (2026) zeigen, was das in der Praxis kostet. Beim Kodieren von 1,162 Vorwürfen zu Fehlverhalten mit generativer KI fanden sie, dass die stärksten Evidenzarten von der Untersuchung oder von der Betreuung erzeugt werden, dass Prozessbelege wie Entwürfe, Betreuungssitzungen und Präsentationen nur dort auftreten, wo jene Praktiken bereits existieren — in einem nicht neugestalteten Assessment also schlicht fehlen —, und dass Detektorausgabe die niedrigsten Beweiskraft-Bewertungen aller Kategorien zog. Die Designfolge ist Ordnung: Prozessbelege müssen existieren, bevor ein Fall sie braucht, und Weidlichs (2026) Argumentieren darüber, welcher Schluss auf dem Spiel steht, macht denselben Punkt von der Validitätsseite, da Versuche, Assessmentsicherheit durch Detektion wiederherzustellen, konstruktirrelevante Varianz einführen statt Evidenz über die lernende Person.
+
+Die Rubrik-Kriterien selbst lassen sich um die Trajektorie herum neu bauen. [[rubrics-genai-process-based-assessment-2026|Oviedo und Díaz (2026)]] lesen Biggs' 3P-Modell als drei Benotungsdimensionen — Handlungsfähigkeit und kritische Aufsicht, dialogisches Scaffolding und kognitive Souveränität —, sodass die Trajektorie benotet wird statt das statische Ergebnis.
 
 ## Die Kosten für Design und Arbeitslast
 
@@ -71,6 +79,12 @@ Die operationalen Kosten werden anderswo aufgeschlüsselt. Boysen nennt neue Tec
 ## Was ungelöst bleibt
 
 Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datenerhebung und keine Implementierungsstudie, sodass die vier Prinzipien argumentiert statt getestet sind, und das Papier selbst ruft zu empirischer Arbeit über [[student-experience|Erleben der Studierenden]], Arbeitslast von Lehrenden und langfristige Tragfähigkeit auf. Machbarkeit bleibt über Settings hinweg undifferenziert — Übertragung auf große Vorlesungen, Labore, Studios oder klinische Praktika wird nicht adressiert. Lanes (2026) Positionspapier vermerkt die institutionelle Decke: prozessbasiertes Assessment wird durch Benotungs- und Transcript-Strukturen abgestumpft, die polierte Endartefakte belohnen, sodass Neugestaltung im Kursraum allein den Anreiz nicht verändert. [[educational-measurement|Messung]] ist ebenfalls dünn: Jin und Kollegen (2026) Review zu [[ai-literacy|KI-Kompetenz]]-Instrumenten ruft zu leistungsbasiertem und prozessorientiertem Assessment und Verhaltensspurmessung von [[prompt-engineering|Prompting]] und Verifikation auf, berichtet aber, dass die bestehenden Instrumente auf [[self-report-measures|Selbstauskunft]] bauen. Keine Quelle hier berichtet eine [[rct|kontrollierte Studie]] einer prozessorientierten Neugestaltung gegenüber einer produktorientierten, was die zentrale Behauptung — dass Prozessbelege sowohl schwerer zu fälschen als auch fairer zu beurteilen sind — aus Prinzip, Praktikerbericht und Aktenevidenz argumentiert statt im Maßstab demonstriert lässt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein hoher Score bedeutet, dass die lernende Person die von uns gestaltete Arbeit geleistet hat."** Spuren können **von Scores direkt abweichen**: über **150 Konversationen zwischen Lernenden und KI** trugen **41% eine Aufgabenbewertung von exakt 1.00, während die beobachtbare kognitive Partizipation variierte**. Der Score sättigt, während der Prozess, der ihn hätte erzeugen sollen, es nicht tut.
+- **„Prozessdaten sind im Maßstab nicht bewältigbar."** Erforderliche Dokumentation erwies sich im Kursmaßstab als machbar, über **sechs Semester von sechswöchigen asynchronen Graduiertenforschungsmethoden-Kursen mit etwa 440 Lehrkräften der Grund- und Sekundarstufe**. Die Logistik war lösbar; der Einwand überschätzt die Kosten.
+- **„Problemlösen ist zu ganzheitlich, um es prozessual zu bewerten."** Es lässt sich als **vier Stufen und acht diagnostische Teilfähigkeiten** operationalisieren, sodass ein LLM **stufenspezifische Fragen und Rubriken** erzeugen kann — genutzt mit **fünf Lehrkräften und 64 Studierenden**. Die Zerlegung war es, die den Prozess lesbar und bewertbar machte.
 
 ## Verbundene Konzepte
 
@@ -93,6 +107,7 @@ Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datener
 
 ## Verbundene Artikel
 
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Ein kritisches narratives Review, das argumentiert, der Standardfehler sei KI-Unterstützung, die nie ausläuft, gepaart mit produktorientiertem Assessment (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — Ein benoteter, kollaborativ verfasster Prozess-Aufsatz in einem Degree-Apprenticeship im ersten Jahr: Iteration und Kollaboration in der Rubrik, GenAI innerhalb erklärter Grenzen erlaubt (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — Leistung ist nicht Lernen: eine Forschungsagenda aufgebaut auf Prozessmaßen (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — Lehrkräftebildnerinnen und -bildner, die nach KI-resistenten, prozessbasierten Aufgaben auf der Grundlage von Begründung und Reflexion fragen (Baran et al. 2026)
@@ -109,3 +124,4 @@ Thapa und Lewis' Darstellung ist konzeptuell: keine Teilnehmenden, keine Datener
 - [[epistemic-ownership-ai-mediated-education-2026]] — Gleiche Leistung, unterschiedlicher Prozess: epistemisches Eigentum in KI-vermittelter Bildung
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Unterstützung von Lehrkräften bei der Diagnose mathematischer Problemlösefähigkeiten von Lernenden durch LLM-generierte Fragen
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Kontrollpunkt-Dokumentation der KI-Dialoge hielt sich über sechs Semester und etwa 440 Lehrkräfte bei 96 % Vollständigkeit
+- [[rubrics-genai-process-based-assessment-2026]] — Drei Rubrik-Dimensionen aus Biggs' 3P-Modell: Handlungsfähigkeit und Aufsicht, dialogisches Scaffolding, kognitive Souveränität (Oviedo & Díaz 2026)

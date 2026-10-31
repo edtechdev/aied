@@ -1,7 +1,7 @@
 ---
 title: "Umweltbildung"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-24T23:55:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,13 +11,17 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -80,6 +84,12 @@ Der [[meta-analysis-systematic-review|Scoping Review]], der diese Literatur orga
 3. **Für die ungeduldige lernende Person gestalten.** Wenn die kohlenstoffärmere Option wahrgenommene Latenz kostet, werden die meisten Studierenden sie nicht nehmen: Latenz niedrig halten, Kontrollen exponieren, und Wirkung in konkreten Ergebnisbegriffen beschreiben, nicht in abstrakten Kohlenstoffeinheiten.
 4. **Leichtere Einsatzweise bevorzugen, wo Pädagogik es erlaubt.** Ein Modell in einem lizenzierten lokalen Korpus zu gründen und mit Feinabstimmung zu quantisieren ergab nutzbare Genauigkeit bei einem Bruchteil der Energie — dieses Muster wiederverwenden, bevor Cloud-Inferenz skaliert wird.
 5. **Lehrkräftekapazität durch Materialentwicklung aufbauen, nicht durch Bewusstseinskampagnen,** und die [[global-south|Global-Süden]]-Lücke füllen, statt Evidenz aus nordamerikanischen und europäischen Kontexten zu importieren.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI in der Umweltbildung liefert vor allem Informationen.“** Die gemessenen Zuwächse liegen in der **Entscheidungsfindung**: Studierende, die innerhalb einer strukturierten [[inquiry-based-learning|Erkundungs]]aufgabe mit einem KI-Partner arbeiteten, übertrafen Peers mit reiner Erkundung (**d = 0,69**) und traditionellen Unterricht (**d = 1,88**) in einem Entscheidungsmaß, wobei sich die Zuwächse **auf die schwächsten Schritte konzentrierten**. Der Effekt liegt in der Qualität des Schlussfolgerns, an den Stellen, an denen Studierende am schwächsten waren.
+- **„Die Erkundung allein ist der Wirkstoff.“** KI-unterstützte Erkundung **verbesserte die Klima-Entscheidungsfindung gegenüber Erkundung allein**, sodass der KI-Beitrag zusätzlich zur pädagogischen Struktur kam und nicht mit ihr austauschbar war.
+- **„Große Effekte aus kleinen Stichproben sind immer noch große Effekte.“** KI-unterstütztes [[learning-design|Instruktionsdesign]] unter nachhaltigkeitsorientierter Pädagogik **verbesserte die Unterrichtsplanung angehender Lehrkräfte mit d = 2,80 bei 28** Teilnehmenden — das eigene Wort der Reviewenden ist *unplausibel groß*, und ein Effekt dieser Größe aus dieser Stichprobe sollte als Signal und nicht als Schätzung behandelt werden.
 
 ## Verbundene Konzepte
 

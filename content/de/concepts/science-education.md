@@ -6,10 +6,10 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T21:28:11-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_resources: [teacher-dev]
 translation_of: concepts/science-education
-source_updated: "2026-10-23T22:38:41-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -17,11 +17,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **[[stem-education|Naturwissenschaftsbildung]]** — das Studium und die Praxis dessen, wie Lernende Naturwissenschaft lernen und wie man sie unterrichtet, jetzt neu geformt durch generative KI (LLMs, Simulationen, virtuelle Labore und KI-Bewertung) über [[physics-education|Physik]], Chemie und [[biology-education|Biologie]] hinweg. Die Artikel zur Naturwissenschaftsbildung in dieser Wissensbasis offenbaren ein Feld, das eine Kernspannung verhandelt: KI unterstützt erkennbar Erkundung, Korrektur von Missverständnissen und Assessment im großen Maßstab, doch ihr Wert hängt vom Unterrichtsdesign ab, und sie birgt reale Risiken von [[cognitive-offloading|Over-Reliance]], Halluzination und entmenschlichtem, profitorientiertem Lernen.
+> **[[science-education|Naturwissenschaftsbildung]]** — das Studium und die Praxis dessen, wie Lernende Naturwissenschaft lernen und wie man sie unterrichtet, jetzt neu geformt durch generative KI (LLMs, Simulationen, virtuelle Labore und KI-Bewertung) über [[physics-education|Physik]], Chemie und [[biology-education|Biologie]] hinweg. Die Artikel zur Naturwissenschaftsbildung in dieser Wissensbasis offenbaren ein Feld, das eine Kernspannung verhandelt: KI unterstützt erkennbar Erkundung, Korrektur von Missverständnissen und Assessment im großen Maßstab, doch ihr Wert hängt vom Unterrichtsdesign ab, und sie birgt reale Risiken von [[cognitive-offloading|Over-Reliance]], Halluzination und entmenschlichtem, profitorientiertem Lernen.
 
 ## Fragen zum Nachdenken
 
@@ -71,6 +75,12 @@ Bereitschaft der Lehrenden ist entscheidend. [[pre-service-science-teachers-ai-p
 In einer 42-Studien-Meta-Analyse zu GenAI und Motivation war der kleinste fachdomänenbezogene Effekt in Naturwissenschaft (g = 0,109, 95%-KI [−0,107, 0,325], k = 3), die einzige Domäne, deren Intervall die Null schnitt, sodass die gepoolte Evidenz kein [[motivation|motivationsbezogenes]] Argument für GenAI speziell in Naturwissenschaft stützt ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 Als Rahmenwerk statt als Studie rahmen [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] das Ziel neu: Vision I Naturwissenschaftskompetenz für Kompetenz in naturwissenschaftlichen Berufen, Vision II für Naturwissenschaft im alltäglichen und bürgerlichen Leben und Vision III für Wissen und Handeln auf Gemeinschafts- und Gesellschaftsebene. Sie argumentieren, dass [[generative-ai|generative KI]] nur dann ihren Platz im naturwissenschaftlichen Unterricht verdient, wenn sie Curriculum, Unterricht und Assessment mit einer dieser Visionen in Einklang bringt, und dass das anhaltende Problem des Feldes Prüfungen sind, die Auswendiglernen von Terminologie belohnen, während Standards Erklärung und Untersuchung verlangen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI in der Naturwissenschaftsbildung hat keine kausale Evidenz."** Eine **vierwöchige randomisierte Evaluation** einer KI-Überarbeitungsplattform im GCSE-Naturwissenschaftsunterricht liefert eine kausale Schätzung von **Hedges' g = 0.33**, ohne **Belege dafür, dass der Effekt nach Fach differierte**. Der Effekt ist bescheiden, und er ist kausal.
+- **„Geben Sie den Lernenden Zugang, und die Gewinne folgen."** **Strukturierter Zugang, nicht der Zugang selbst, treibt den Gewinn**: vom Team berichtetes Wachstum lag im Mittel bei **17 % bei unbegrenztem individuellem Zugang, aber bei 34 % und 31 %, wenn der Zugang strukturiert war**. Die Struktur war die Intervention.
+- **„Wissenschaftliche Simulation braucht Spezialsoftware."** Ein **vierteiliger natürlichsprachlicher Prompt** kann eine **handgesteuerte Physiksimulation in erweiterter Realität** erzeugen. Die Hürde beim Verfassen einer Simulation fiel auf das Prompt-Design, was die verlangte Fähigkeit vom Programmieren auf das Spezifizieren des Phänomens verschiebt.
 
 ## Verbundene Konzepte
 

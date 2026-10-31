@@ -1,7 +1,7 @@
 ---
 title: Evaluation von KI in der Bildung
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T20:54:14-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -106,6 +110,13 @@ Kontextkonditionierte Benchmarks sind nötig: [[zhang-tutormoments-2026|Zhang et
 - **Eine bibliometrische Karte kann aufdecken, was eine Evaluationskultur belohnt.** Über 1.403 Publikationen im Bereich der medizinischen Bildung hinweg maßen die meistzitierten Arbeiten Modellfähigkeiten — vor allem ChatGPTs Leistung in Lizenzierungsprüfungen —, während die [[governance|Governance]]-Forschung zurückblieb; die Autoren fordern daher eine empirische Evaluation von Governance-Rahmenwerken statt weiterer Fähigkeitstests ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Expertenurteils-Evaluationen brauchen ihre eigene Verlässlichkeitsrechnung.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ließen 25 domänenpassende Fachleute 92 generierte [[video-education|Vorlesungsvideos]] gegen eine an „der Qualität einer Standard-MOOC-Vorlesung“ verankerte Rubrik bewerten und beurteilten 87% auf oder über der Schwelle (Mittel 3,42 von 5). Jedes Video wurde von einem einzigen Gutachter bewertet (k = 1), daher verteilt das Design das Gremium über das Korpus auf Kosten einer Inter-Rater-Übereinstimmungskennzahl; ein Modell mit zufälligem Intercept führte etwa 35% der Restvarianz dem Gutachter zu (ICC = 0,35), und die Arbeit berichtet gutachter-geclusterte Intervalle statt einer einzelnen Präzisionskennzahl. Eine auf Expertenurteil gebaute Evaluation ist nur so stark wie die Verlässlichkeitsanalyse, die sie veröffentlicht.
 
+## Verbreitete Fehlvorstellungen
+
+- **„Hohe Scores in Lehrerexamen bedeuten, dass das Modell pädagogisch kompetent ist."** **97 Modelle** wurden an Aufgaben chilenischer Lehrerexamen bewertet (**CDPK 28–89%**), viele über einer geschätzten menschlichen Baseline von rund **50%** — doch die **statischen Multiple-Choice-Items können** vollzogenes Urteil **nicht** prüfen. Gut im Examen abzuschneiden ist durch das begrenzt, was das Examen misst.
+- **„Das Bewertungskriterium ist eine Formalie."** Strenger Abgleich bewertete dieselben 2.250 Tutoringdialoge mit **42,1%**, wo ein menschlich kalibrierter LLM-as-judge **81,3%** vergab ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et al., 2026]]) — das Kriterium verschiebt die Zahl stärker als das Tutor-Modell, die Strategie oder die Pipeline.
+- **„Erkennung und Generierung sind vergleichbare Fähigkeiten."** **Erkennung ist nicht Generierung.** Bei TutorCaseBench wählte das beste von **11 Modellen** in **63,0% der Vier-Optionen-Items** eine dokumentierte Strategie, erfüllte ein dokumentiertes Implementierungskriterium aber weit seltener. Die richtige Antwort unter vier auszuwählen und sie zu produzieren sind verschiedene Aufgaben.
+- **„Modell-Scores sind ohne validiertes Instrument bedeutsam."** Kursmaßgeschneiderte Prüfungen wurden für **71 Klassen** erzeugt und gegen von Menschen verfasste AP-Statistik-Items mit einem **bayesianischen hierarchischen 2PL**-Modell gebenchmarkt — das Instrument wurde angepasst, bevor die Scores interpretiert wurden.
+
 ## Verbundene Konzepte
 - [[interpreting-and-applying-aied-research]]
 - [[ai-assisted-educational-research]] — KI-gestützte Bildungsforschung
@@ -169,3 +180,4 @@ Kontextkonditionierte Benchmarks sind nötig: [[zhang-tutormoments-2026|Zhang et
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation vortrainierter Modelle zur pädagogischen Bewertung neuartiger KI-gestützter Bildungsfragen
 - [[llm-judge-evaluation-educational-ai-2026]] — Wenn Bewerter „Wolf" rufen: Lehren aus der LLM-as-Judge-Evaluation im Produktionseinsatz im Bildungsbereich
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Eine bibliometrische Karte kann aufdecken, was eine Evaluationskultur belohnt
+- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue: Evaluationskriterien prägen den gemessenen Erfolg im LLM-Mathematik-Tutoring (Lee et al. 2026)

@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: KI-Erkennung
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T21:55:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,13 +14,17 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-22T12:02:21-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,7 @@ Forschung mahnt durchweg gegen die alleinige Abhängigkeit von Erkennung:
 - **Aufgabenabhängigkeit:** Wie die Selbsterkennungsstudie zeigt, variiert die Genauigkeit stark nach Aufgabentyp, sodass kein einzelner Detektor über alle Assessments hinweg verlässlich ist.
 - **Selbst ein validierter Detektor beruht auf einer historischen Baseline:** Eine sechsjährige CS2-Studie validierte ihren Detektor an einer Baseline von vor den LLMs: Die H-Scores lagen nahe null, bevor LLMs öffentlich waren, und stiegen bis 2026 auf einen Mittelwert von 11,9 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **Das Catch-22 der Integrität, quantifiziert.** [[karr-ai-detection-humanization-2026|Eine kontrollierte Studie mit 642 veröffentlichten Abstracts (Karr et al. 2026)]] zeigt, dass das [[educational-policy-ai|politische]] Versagen nicht nur begrifflich, sondern gemessen ist: richtlinienkonformes leichtes KI-Editieren wird zu 38–80 % markiert, unveränderte aktuelle Originale zu 9–15 % (nicht-MINT weit über MINT), und mensch mit Humanizer assistierter KI-Text entgeht der Erkennung in >96 % der Fälle. Weil Detektoren an Oberflächenstil ansetzen (Dichte langer Tokens und akademischer Wörter) statt an Autorschaftsabsicht, zieht ehrliche KI-Assistenz Sanktionen nach sich, während bewusste Humanizer-Umgehung entgeht — die Autoren argumentieren, Detektorwerte sollten niemals alleinstehender Beleg für Fehlverhalten sein.
+- **Durchsetzung sortiert Studierende möglicherweise nach akademischem Kapital statt nach Verhalten (vorgeschlagen, nicht gemessen).** Gestützt auf vier UNESCO- und OECD-Publikationen argumentiert [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]], dass stärkeres disziplinäres Wissen und Prompt-Kompetenz einer Person erlauben, KI-Ausgabe in ein akzeptiertes akademisches Register zu überarbeiten. Wenn dem so ist, folgt die Sichtbarkeit von KI-Assistenz dem [[equity-in-ai-education|akademischen Kapital]] statt dem Umfang der genommenen Hilfe, und erkennungsgeleitete Durchsetzung wird zu einem Filter für dieses Kapital. Die Arbeit ist eine Diskursanalyse ohne Daten zu Markierungen oder Sanktionsergebnissen und formuliert die Behauptung als Hypothese, die vergleichende Evidenz zu KI-Nutzungsmustern, Erkennungsergebnissen und Fehlverhaltensentscheidungen benötigt.
 
 - **Ein Lektorat verschiebt das Urteil, was Stil von Autorschaft trennt.** Unter Haltung von Autor, Thema und Inhalt über 135.389 bearbeitete Manuskriptpaare schoben dieselben Bearbeitungen 13 Detektoren bei menschlichem Text in entgegengesetzte Richtungen — MAGE −10,7 Prozentpunkte False Positives, RADAR −4,7, gegen Fast-DetectGPT +4,6 ([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong und Kim (2026)]]). Die Basisraten reichten von 0,0 % bis 100,0 % und skalierten mit der Bearbeitungsintensität.
 
@@ -111,6 +116,8 @@ Die konstruktive Frage verschiebt sich von „wie verhindern wir, dass Studieren
 
 - **Erkennbarkeit ist eine Eigenschaft des Aufgabendesigns, nicht nur des Detektors.** [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] fanden modellübergreifende Übereinstimmung von 87,79–88,14 % bei generiertem Code, aber nur 1–14 distinkte abstrakte Syntaxbäume pro 1.000 Dateien bei eng eingegrenzten Funktionen gegenüber 151–804 unter Einreichungen von 2021.
 
+- **Die Modelle, die den Text erzeugen, rangieren Erkennung als Gegenmaßnahme an letzter Stelle.** [[lieske-ai-proposals-counter-ai-cheating-2026|Lieske und Wadley (2026)]] legten einen Prompt acht LLMs und Suchwerkzeugen von Anthropic, Microsoft, Google, Meta, OpenAI, Perplexity und DeepSeek vor. Jedes sollte sechs Techniken zur Verhinderung von KI-Betrug in nicht beaufsichtigten Aufgaben benennen und rangieren, und die 48 Antworten wurden zu 15 zusammengesetzten Ansätzen gepoolt. Erkennung war der einzige Ansatz, der in der sechsten Rangposition wiederkehrte, viermal über die acht Modelle, während Personalisierung, KI-gestützte Prozessmaße und mündliche Nachfrage führten. Die Arbeit enthält keine empirischen Daten, und ihr Ranking misst Modellkonsens statt Wirksamkeit; sie gehört hierher als Beleg dafür, wie die Systeme, die den Text produzieren, Erkennung gegen die Alternativen abwägen.
+
 ## Implikationen für KI in der Bildung
 
 - **Erkennung ist situativ:** Institutionen sollten Erkennungswerkzeuge sparsam und im Bewusstsein ihrer Fehlerraten, Fairnessgrenzen und Aufgabenabhängigkeit einsetzen — nicht als automatisches, alleinstehendes Tor.
@@ -121,6 +128,16 @@ Die konstruktive Frage verschiebt sich von „wie verhindern wir, dass Studieren
 - **Vorsicht bei der Erkennungszuverlässigkeit.** Ein [[meta-analysis-systematic-review|systematisches Review]] zu KI und akademischer Integrität schlussfolgert, dass Plagiats-/KI-Erkennungswerkzeuge für KI-generierte Arbeit nicht verlässlich sind und mit mehreren Assessmentmethoden und manueller Prüfung gepaart werden sollten — was bekräftigt, dass Erkennung ein begrenztes, situatives Werkzeug ist.([[ssaho-ai-academic-integrity-review-2025]])
 - **Jenseits der Erkennung: Dialog statt Überwachung.** Ein Praxisbericht über den Lernverifikationsrahmen der Grand Canyon University ([[best-response-student-ai-dialog-2026|Mandernach 2026)]] argumentiert, die beste Antwort auf [[student-ai-interaction|KI-Nutzung durch Studierende]] sei Dialog, nicht Erkennung. Weil Detektoren unzuverlässig (und gegen nicht-muttersprachliche Schreibende verzerrt) sind, fragte GCU nicht mehr „hat die Studentin KI genutzt?“, sondern bat Studierende stattdessen, Verständnis in einem kurzen Gespräch zu zeigen — eine Erweiterung der [[authentic-assessment|Neugestaltung des Assessments]], die Erkennung als Sackgasse und Verifikation als gute Lehre behandelt.
 - **Vertrauen übersteigt die Sicherheit, auf Kosten der Lehre.** In einer Befragung von 20 Fachkräften der Hochschulbildung berichteten 15 von starker institutioneller Abhängigkeit von KI-Erkennungssoftware, während nur 4 Vertrauen in sie äußerten, und die Antwortenden beschrieben „pädagogisches Burnout“ durch Überwachung, das Instruktionsdesign und Mentoring von Studierenden verdrängte ([[evaluation-age-ai-output-evidence-2026|Chowdhury & Khan (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+**„Detektoren sind unzuverlässig, aber sie werden besser."** Das Versagen ist strukturell und keine Frage der Reife, und eine Modellfamilie zeigt es sauber: ihre KI-Markierungsrate **fiel von 94,9 % auf 6,8 %**, je detaillierter der menschliche Plan hinter KI-geschriebenem Text wurde — sie erkennt die menschliche Planung, nicht das KI-Schreiben —, während ein konkurrierender Detektor nahe 92 % blieb und dasselbe System **94,7 % der KI-polierten menschlichen Dokumente als menschlich bezeichnete**. Genauigkeitsaussagen hängen vollständig davon ab, welche Konstruktion des Problems das Testset verwendete.
+
+**„False Positives sind selten, das Risiko ist also klein."** Sie sind häufig genau bei der Arbeit, die Sie fördern wollen. Richtlinienkonformes leichtes KI-Editieren wird zu **38–80 %** markiert, *unveränderte* aktuelle Originale zu **9–15 %**, wobei nicht-MINT-Schreiben weit über MINT liegt. Ein Detektor, der ein Zehntel unberührter menschlicher Arbeit und den Großteil der erlaubten Bearbeitung beschuldigt, macht keine kleine Fehlerrate; er bestraft das Verhalten, zu dem die Politik einlädt.
+
+**„Die Frage, die ein Detektor beantwortet, ist, ob Schreiben menschlich oder KI ist."** Diese Binärität ist begrifflich unhaltbar statt bloß schwer zu berechnen. Schreibassistenz liegt auf einem Kontinuum, die Politik der meisten Institutionen erlaubt einen Teil davon, und kein Schwellenwert auf einem Ausgabewert bildet eine verteidigbare Grenze ab. Das gemessene Versagen ist ein Politikversagen: die Kategorien, die Detektoren versprechen, existieren in der Arbeit, die Studierende tatsächlich einreichen, nicht.
+
+**„Ein Erkennungsregime schützt Integrität."** Es kann sie untergraben. Erkennung fördert ein Klima des Verdachts, das [[trust|Vertrauen]] zwischen Studierenden und Personal erodiert, und die [[academic-integrity|Integrität]]-Literatur, die dieser Korpus berichtet, verortet die dauerhaften Hebel in der Neugestaltung des Assessments statt in der Überwachung. Der Mechanismus des Wettrüstens bedeutet zudem, dass das Regime fortlaufend mehr kostet, während es weniger misst: die Basis-Markierungsraten reichten über Bearbeitungsintensitäten hinweg von **0,0 % bis 100,0 %**, was kein Diskriminationssignal ist.
 
 ## Verbundene Konzepte
 
@@ -139,6 +156,9 @@ Die konstruktive Frage verschiebt sich von „wie verhindern wir, dass Studieren
 - [[legal-issues-and-risks]]
 
 ## Verbundene Artikel
+
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Eine Hypothese, dass Durchsetzung nach akademischem Kapital filtert, nicht nach Verhalten
+- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Acht LLMs rangieren sechs Anti-Betrugs-Techniken; KI-Erkennung landet zuletzt
 
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Zwanzig Korrigierende über Intuition, tote Detektoren und erfundene Quellen
 - [[tench-ai-policy-isnt-a-playbook-2026]] — Eine national repräsentative Befragung von US-Lehrkräften und Schulleitungen zu Abdeckung, Handlungsfähigkeit und fünf Classroom Plays in der KI-Politik (Tench, Weinstein & James 2026)

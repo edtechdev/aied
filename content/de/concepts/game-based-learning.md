@@ -1,19 +1,23 @@
 ---
 title: Spielbasiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-09-30T12:53:22-04:00"
+source_updated: "2026-10-30T06:18:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,7 @@ GBL gründet in [[motivation|Motivation]]-, [[student-engagement|Studierendeneng
 
 
 - **KI-GBL-Wirksamkeit:** Ein systematischer Review von 55 Studien zu KI-unterstütztem spielbasiertem Lernen findet positive Effekte auf Wissen, intrinsische Motivation und affektives Engagement, doch nur 4 Studien (7%) erreichten seine Hochqualitäts-Schwelle und nur 4 (7%) waren [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). Wirksamkeit hing daran, den KI-Mechanismus mit einer benannten [[learning-theories|Lerntheorie]] auszurichten.
+- **Studierende als Spielgestaltende statt als Spielende:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] ließen 22 Grundschulkinder im Alter von 8–12 Jahren ein erweitertes Escape-Brettspiel zum Thema Desinformation gestalten und stapelten dabei [[project-based-learning|projektbasiertes Lernen]] mit [[design-thinking|Design Thinking]] und dem Room2Educ8-Escape-Room-Rahmenwerk. Die zusammengesetzte [[ai-literacy|KI-Kompetenz]] auf einem 20-Item-DigComp-3.0-Fragebogen stieg von 3,684 auf 4,309 auf einer 5-Punkte-Skala, t(21) = −21,086, p < .001, wobei sich alle fünf Kompetenzbereiche verbesserten. Die Klasse erzeugte 11 Vorschläge mit KI-Prompts und führte sie zu einem baubaren Spiel zusammen. Selbstauskunft, eine Klasse und keine Kontrollgruppe.
 
 ### Gamifizierung
 
@@ -51,6 +56,33 @@ Gamifizierung gründet in Motivationstheorie, besonders [[self-determination-the
 - **Engagement und Motivation:** Gamifizierung wird über die Wissensdatenbank genutzt, um Engagement und Motivation von Lernenden in KI-, [[cs-education|Programmier-]] und [[stem-education|STEM]]-Lernkontexten zu steigern. [[genai-motivation-engagement-2026|Forschung zu generativer KI, Motivation und Engagement]] untersucht, wie sich spielartige Elemente mit KI verbinden, um das Interesse Lernender aufrechtzuerhalten. Zwei Studien von 2026 erweitern dies, indem sie gamifizierte und KI-unterstützte Bedingungen mit traditionellem Unterricht vergleichen: [[nasa-tlx-workload-gamified-ai-2026|eine NASA-TLX-Studie]] maß wahrgenommene Arbeitslast über traditionelle, gamifizierte und KI-unterstützte Lernbedingungen, und [[arcs-motivational-ergonomics-gamified-ai-2026|eine ARCS-Studie]] untersuchte motivationale „Ergonomie“ in gamifiziertem und KI-unterstütztem Lernen mit Implikationen für [[professional-training|Arbeitsplatz-Weiterbildung]]. Zusammen verdeutlichen sie, dass der motivationale Nutzen spielartiger und KI-unterstützter Designs davon abhängt, wie sie [[motivation|wahrgenommenen Aufwand]], Arbeitslast und Aufmerksamkeit formen (z. B. ARCS-Aufmerksamkeits-/Relevanzdimensionen), nicht von Gamifizierung allein.
 
 GBL und Gamifizierung verbinden sich zusammen mit [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]] und [[computational-thinking]].
+
+## Verbreitete Fehlvorstellungen
+
+**„KI-unterstütztes spielbasiertes Lernen hat eine solide Evidenzbasis."** Die Synthese hinter dieser Behauptung ist zugleich groß und dünn. Ein **systematischer Review von 55 Studien** findet positive Effekte auf Wissen, intrinsische Motivation und affektives Engagement — doch nur **4 Studien (7%) erreichten seine Hochqualitäts-Schwelle**. Ein gepoolter positiver Effekt aus einem Korpus, in dem 93% der Studien unter der eigenen Qualitätsschwelle des Reviews liegen, ist eine Hypothese mit angehängter Literatur, kein Befund, gegen den man gestaltet.
+
+**„Positive Effekte auf Motivation und Wissen verstärken sich gegenseitig."** Sie werden getrennt gemessen und sind in der weiteren Literatur getrennt getaktet: [[student-engagement|Engagement und Leistung]] bewegen sich auf unterschiedlichen Zeitlinien, sodass ein Spiel, das die intrinsische Motivation hebt, ein Ergebnis nachgewiesen hat. Das Motivationsergebnis als Bestätigung des Wissensergebnisses zu behandeln bläht einen zweiteiligen Befund zu einem stärkeren auf, als das Design stützt.
+
+**„Wenn ein Spiel Studierende engagiert, folgt das Lernen aus dem Spaß."** Spaß ist der Liefermechanismus für die Wiederholung, die ein Spiel erträglich macht, nicht der Mechanismus des Lernens. Ein Spiel, das Engagement hinzufügt, ohne produktive Übung hinzuzufügen, hat den Teil hinzugefügt, an dem es nie mangelte.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Fragen Sie, was das Spiel Studierende wiederholen lässt, nicht, ob es ihnen gefällt. Wiederholung der richtigen Operation ist der Mechanismus; Freude ist das, was die Wiederholung erträglich macht.
+- Behandeln Sie motivationale und Wissensergebnisse als getrennte Behauptungen, und lassen Sie einen Anstieg intrinsischer Motivation nicht als Beleg für Lernen berichten.
+- Prüfen Sie die Qualität an der eigenen Messlatte des Reviews, bevor Sie einen Titel wegen einer positiven Synthese übernehmen: nur 7% der Studien erfüllten sie.
+
+**Für Entwickelnde**
+
+- Instrumentieren Sie Lernoutcomes getrennt von Engagement und Affekt, und veröffentlichen Sie beides.
+- Bauen Sie die produktive Übung zuerst und die Spielschicht danach; eine Spielschicht über schwacher Übung hat den Teil automatisiert, an dem es nie mangelte.
+
+**Für Forschende**
+
+- Heben Sie die Designqualität des Felds statt seines Umfangs; eine Hochqualitätsquote von 7% ist die bindende Einschränkung dessen, was geschlossen werden kann.
+
+- **Konversationelles Feedback in einer Simulation hebt die germane Last, ohne die extrinsische zu senken.** In einem fünfwöchigen betriebswirtschaftlichen Simulationsspiel mit **234 Studierenden** berichteten regelmäßige Nutzende eines GPT-4o-basierten Feedback-Chatbots von **signifikant höherer germaner kognitiver Last** als Nutzende mit Zugang, die sich nicht einließen (β = −.468, p < .001), und als die statische Feedback-Kontrolle (β = −.253, p = .028) — während die **extrinsische Last in beiden Spezifikationen keinen Effekt zeigte** (F(1, 219) = 0.499, p = .481). Beide Lasten **sanken über die fünf Wochen** (extrinsisch β = −.388, p < .001), ein Neuheitseffekt, gemessen auf kognitiver Last statt auf Engagement ([[wenzel-conversational-ai-feedback-cognitive-load-game-2026|Wenzel, Geiger und Liening, 2026]]). Der Designpunkt ist, dass das Feedback Personalisierung, Signalisierung, Segmentierung und Feed-Forward-Struktur über 19 konkrete Indikatoren trug — die Chatbot-Oberfläche allein ist nicht die Behandlung.
 
 ## Verbundene Konzepte
 - [[educational-robotics]]
@@ -66,6 +98,7 @@ GBL und Gamifizierung verbinden sich zusammen mit [[educational-robotics]], [[st
 - [[virtual-and-augmented-reality]] — Immersives und gamifiziertes Üben überschneiden sich in Design und Evidenz
 
 ## Verbundene Artikel
+- [[karampa-students-game-designers-ai-literacy-2026]] — Grundschulkinder gestalten ein Escape-Brettspiel; KI-Kompetenz steigt in einem einzelnen E-Kurs-Labor
 - [[ai-game-based-learning-systematic-review-2026]] — Systematischer Review von 55 Studien zu KI-unterstütztem spielbasiertem Lernen: positive Ergebnisse, eine dünne Evidenzbasis
 
 - [[game-based-gamified-robotics-education-review-2026]] — Spielbasierte und gamifizierte Robotikbildung

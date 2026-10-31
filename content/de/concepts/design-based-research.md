@@ -1,19 +1,23 @@
 ---
 title: Designbasierte Forschung
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,16 @@ DBR tauscht die kausale Kontrolle von [[rct|Experimenten]] gegen ökologische Au
 ## Beziehung zu anderen Methoden
 
 DBR ist die Leitmethode der [[learning-sciences|Lernwissenschaften]] — des interdisziplinären Felds, das Lernen und das Design von Lernumgebungen untersucht und das den Aufbau einer Intervention und ihr Studium als eine einzige Tätigkeit behandelt statt als zwei. Sie ist komplementär zu anderen Forschungsmethoden, nicht ihre Rivalin (siehe [[research-methods-aied]] für die gesamte Landschaft). Wo [[rct|Experimente]] Kausalität und [[quantitative-research|Befragungen]] Breite etablieren, etabliert DBR *Machbarkeit und Designwissen* — ob eine Intervention so gebaut werden kann, dass sie in authentischer Praxis funktioniert, und welche Designprinzipien sie stützen. Sie paart sich häufig mit [[usability-research|Usability-Evaluation]] (um die Schnittstelle zu verfeinern) und [[qualitative-research|qualitativen Methoden]] (um zu verstehen, wie Lernende die Intervention erleben). Ein reifes DBR-Programm gipfelt typischerweise in einer [[rct|Wirksamkeitsstudie]] oder [[educational-measurement|Mess]]-Studie, die die kausalen Effekte der entwickelten Intervention im Maßstab prüft.
+
+## Verbreitete Fehlvorstellungen
+
+**„Designbasierte Forschung ist eine qualitative Methode."** DBR ist eine *Design*-Tradition, keine Datentradition: sie passt überhaupt nicht in den Gegensatz quantitativ/qualitativ/experimentell, weil ihre Arbeitseinheit das iterierte Artefakt ist statt ein einzelner Messplan. Studien innerhalb von DBR können quantitativ, qualitativ oder experimentell sein; was sie zu DBR macht, ist, dass das Design überarbeitet wird, während der Befund entsteht.
+
+**„Iterative Verfeinerung macht das Design immun gegen die Konfundierung, unter der andere Methoden leiden."** Iteration tauscht eine Bedrohung gegen eine andere. Ein Design mitten in der Studie zu verfeinern heißt, dass die endgültige Fassung sich von der unterscheidet, die die frühe Evidenz erzeugt hat, sodass eine Aussage über „die Intervention" mehrere Interventionen umspannt. Zu berichten, welche Überarbeitung welches Ergebnis erzeugt hat, ist Verantwortung der Disziplin, und sie bleibt häufig implizit.
+
+**„Weil DBR ein funktionierendes Artefakt hervorbringt, hat es Wirksamkeit belegt."** Ein Design, das an dem Ort funktioniert, der es mitproduziert hat, hat lokale Tragfähigkeit belegt, was eine andere Behauptung ist als Wirksamkeit. Das Artefakt trägt die Anpassungen, die für diesen Kontext vorgenommen wurden, und es zu übertragen überträgt Annahmen, die nie als Annahmen ausgesprochen wurden.
+
+**„Ein Instrument als überarbeitbares Designartefakt zu behandeln, ist eine Abweichung von DBR."** Es ist der iterative Charakter von DBR, angewendet auf die Messung statt auf die Intervention: eine Studie in diesem Korpus behandelte die Rubrik selbst als das Artefakt und durchlief eine Ko-Verfeinerung mit einem [[llm|LLM]]. Diese Erweiterung ist erwähnenswert, weil sie die eigene Entwicklung des Instruments zu einem Teil der Evidenz macht.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: Informatisches Denken
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T21:28:11-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,13 +9,17 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,13 @@ Für Lehrende ist die konsistente Botschaft, dass CT durch *explizites, gescaffo
 Computational Thinking ist das geteilte kognitive Fundament unter [[ai-literacy|KI-Kompetenz]] und [[critical-thinking|kritischem Denken]], der curriculare Kern von [[cs-education|Informatikunterricht]] und Rechnen in der [[k-12|K-12]] und das konzeptuelle Ziel, dem [[educational-robotics|Bildungsrobotik]], [[game-based-learning|spielbasiertes Lernen]] und [[project-based-learning|projektbasiertes Lernen]] am besten dienen sollten. Es wird durch [[llm|große Sprachmodelle]] und [[generative-ai|generative KI]] vertieft, wenn diese als Scaffolding-Werkzeuge genutzt werden, und es ist die Fähigkeit, die Taxonomien von Studierendenmissverständnissen und CT-bewusste Assessments zu messen anstreben. Lehrkräfte entwickeln es durch [[teacher-education|Lehrkräftebildung]] und [[professional-training|berufliche Weiterbildung]], und es transferiert über Domänen hinweg, einschließlich [[physics-education|Physikunterricht]] und [[stem-education|STEM]] insgesamt.
 
 - **Computational Thinking prognostiziert Lernen mit KI-Assistenten.** [[computational-thinking-aica-2026|Achtklässlerinnen und Achtklässler]] mit hohem computational thinking übertrafen Peers mit niedrigem CT in einem Kurs mit KI-Coding-Assistenten signifikant, wobei sie den Assistenten für Verständnis statt für Antwortabruf nutzten.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI macht computational thinking überflüssig."** Die [[chat-debugging-human-ai-collaboration-circuits|Studie zum Chat-Debugging]] fand, dass bei Studierenden, die mit LLM-Hilfe Schaltkreise debuggten, **ihre Defizite in grundlegenden Konzepten und kritischem Denken — nicht das Werkzeug — der begrenzende Faktor waren**. CT ist das, was eine lernende Person eine Ausgabe bewerten statt annehmen lässt, und genau diese Fähigkeit macht KI-Unterstützung überhaupt nutzbar.
+- **„KI-Unterstützung gleicht das Spielfeld in unterausgestatteten Settings aus."** Sie kann es, unter Bedingungen. Ein **14-wöchiges Quasi-Experiment mit 103 Erstsemesterstudierenden in Nigeria** fand Gewinne durch KI-gestütztes problembasiertes Lernen (ChatGPT und Teachable Machine), und KI als „fähigere Peerin" trägt CT, wo andere Angebote fehlen. Das ist aber ein Befund zu einer strukturierten Intervention, keine Eigenschaft davon, Studierenden einen Chatbot zu geben.
+- **„LLMs können CT nicht zuverlässig bewerten."** [[llm-computational-thinking-physics-2026|Forschung zum CT-Assessment in Physik]] fand, dass LLMs menschliche Raterinnen und Rater **spiegeln** können, wenn sie Wachstum in Data Practices und Computational Problem-Solving Practices in Kursen mit großer Teilnehmendenzahl bewerten. Das Hindernis für die Skalierung von CT-Assessment war die Raterkapazität, und diese Einschränkung weicht auf — was das Designproblem dahin verschiebt, ob das Instrument CT statt Compliance misst.
+- **„CT ist eine Programmierfähigkeit, die Robotik zufällig vermittelt."** Ein **systematischer Review von 95 Studien** bestätigt, dass Robotik CT, Kreativität und Problemlösen fördert, aber auch, dass **das Setting das Ergebnis moderiert**: [[game-based-learning|spielbasierte]] Vermittlung passt zu informellen Settings, während Gamification sich in formalen unterscheidet. CT ist eine Menge von Praktiken, die ungleichmäßig transferieren, sodass die Transferbehauptung das Aufgabendesign braucht, das tatsächlich verwendet wurde.
 
 ## Verbundene Konzepte
 

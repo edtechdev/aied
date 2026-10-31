@@ -1,7 +1,7 @@
 ---
 title: Erwachsene Lernende
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-10-24T22:09:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,13 +11,17 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-10-16T19:47:08-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,12 @@ Erwachsenenbildung liegt an der Schnittstelle mehrerer eng verbundener Konzepte 
 
 - **KI-Designprinzipien für die Andragogik.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] finden, dass erwachsene Lernende KI als kollaborativen Lernagenten schätzen, und leiten drei KI-Designprinzipien für die Andragogie ab: Human-in-the-Loop (geteilte mentale Modelle, Mensch-KI-Co-Kreation), emotionales Design (Kalibrieren von KI-Vertrauen, empathische Kommunikation) und Anpassungsfähigkeit (kontinuierliche Anpassung, Interoperabilität). Ihre elf Szenario-Prototypen bilden außerdem jedes andragogische Prinzip auf ein konkretes KI-Angebot ab: [[intelligent-tutoring|KI-Tutoren]] und [[learning-by-teaching|lehrbare Agenten]] für Beteiligung, Monitoring- und [[learning-analytics|Analytics-Werkzeuge]] für Autonomie und Selbstbewertung, empathische [[conversational-ai|Chatbots]] und [[simulation|Simulationen]] für Erfahrung, Fallsammlungen und Generatoren für Fragen höherer Ordnung für problemzentrierte Arbeit sowie KI-Planer und Karriere-Coaches für Relevanz.
 - **Bewahren Sie den produktiven Kampf.** Die produktive-Fehler-Studie derselben Gruppe bildet KI-Unterstützung auf die beiden PF-Phasen ab und schließt, dass das Design den Kampf nicht auflösen darf: Konversationelle Agenten agieren in Generierung und Exploration als nicht-direktive Denkpartnerinnen und -partner, unterstützen dann in der Konsolidierung Vergleich, Reorganisation und Transfer ([[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein gutes Werkzeug bedient erwachsene Lernende.“** Die Forschung fand **kein einziges KI-System für Erwachsenenlernen, das alle Designleitlinien erfüllte** — das gesamte Ökosystem war nötig. Erwachsene kommen mit Verpflichtungen, diskontinuierlichen Zeitplänen und heterogenen Zielen, sodass ein einzelnes Produkt den Designraum nicht abdecken kann.
+- **„Digitale Kompetenz lässt sich auf Erwachsenenniveau voraussetzen.“** [[community-centered-ai-education-adults|Eine Fallstudie aus dem Mittleren Westen]] ko-konstruierte ein KI-Kompetenzprogramm für **54 Erwachsene in einer unterversorgten Gemeinschaft** und fand, dass gerechtigkeitsorientierte KI-Bildung für Erwachsene **zuerst grundlegende digitale Kompetenz und Datenvertrauen** adressieren muss. Alter ist kein Proxy für digitale Flüssigkeit.
+- **„Übernahme ist ein Motivationsproblem.“** [[ai-literacy|KI-Kompetenz]] und [[trust|Vertrauen]] rund um Datenprivatsphäre müssen aufgebaut werden, bevor Übernahme erwartet werden kann. Bereitschaft folgt aus Zuversicht darüber, was mit den eigenen Daten geschieht, nicht aus Begeisterung für die Technologie.
 
 ## Verbundene Konzepte
 

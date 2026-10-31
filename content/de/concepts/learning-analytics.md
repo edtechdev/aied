@@ -1,7 +1,7 @@
 ---
 title: Lernanalyse
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T23:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-24T06:12:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,7 +42,7 @@ ai_assist:
 
 ### KI-verstärkte Analytics
 
-- **Prädiktive Analytics:** [[reinforcement-learning|Maschinelles Lernen]] auf Interaktionsdaten der Lernenden sagt Ergebnisse voraus — von der [[at-risk-students-ml-prediction|Identifikation gefährdeter Studierender]] bis zur [[knowledge-tracing|Schätzung des Wissenszustands]].
+- **Prädiktive Analytics:** [[machine-learning|Maschinelles Lernen]] auf Interaktionsdaten der Lernenden sagt Ergebnisse voraus — von der [[at-risk-students-ml-prediction|Identifikation gefährdeter Studierender]] bis zur [[knowledge-tracing|Schätzung des Wissenszustands]].
 - **Validierung zählt ebenso viel wie Vorhersage.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan und Carvalho (2025)]] zeigen, dass prädiktive Wissenszustandsmodelle (BKT, BKT-with-Forgetting, AFM) genau aussehen, wenn sie rückwirkend auf eine vollständige Sitzungshistorie angepasst werden, doch unter **zeitbasierter Kreuzvalidierung** — die nächste Sitzung aus vorherigen vorherzusagen, wie Analytics tatsächlich eingesetzt werden — überschätzen sie die Leistung der Lernenden, verfehlen Spacing-/Vergessensdynamiken und können Übungsbedingungen falsch ordnen. Die Vorsicht für Analytics: rückwirkende Anpassung kann schlechte vorwärtsgerichtete prädiktive Validität auf longitudinalen Daten verdecken, weshalb Indikator- und Dashboard-Modelle walk-forward validiert werden sollten.
 - **Die Item-Attribut-Zuordnung hinter der Schätzung validieren.** Die Q-Matrix, die Items mit Attributen verknüpft, ist eine Annahme, keine Daten: zurückgewiesene Einträge bei 14 von 918 analytischen Denkitems senkten, einmal korrigiert, ein scheinbares Wissenszustandsmuster von 14.2% auf 3.8% — weshalb Meisterschafts-Analytics ihre Q-Matrix auditieren sollten, nicht nur ihre prädiktive Anpassung ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 - **[[curriculum-design|Curriculum]]-verankerte prädiktive Analytics:** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] schätzen Wissenszustände innerhalb von Outcome-Based Education, indem sie Kursergebnisse direkt aus LMS-Interaktions- und Leistungsdaten verfolgen, OBE-Affinitätszuordnungen (Kurs-Programm-Ergebnis-Beziehungen) nutzen, um Konzeptverknüpfungen zu strukturieren, und ein speichergestärktes Netzwerk, um kreuz-ergebnisbezogene Auswirkungen zu modellieren — und erreichen 89.81% AUC und übertreffen DKT, DKVMN, EKT und SimpleKT auf Live-Ingenieurdaten einer Universität, während sie auf allgemeinen ASSISTments-Daten nur wettbewerbsfähig (nicht überlegen) bleiben.
@@ -53,6 +57,8 @@ ai_assist:
 - **Ein Governance-Review-Rahmenwerk für Daten Studierender.** LEAGUE schlägt sechs Säulen vor — Lawfulness, Equity, Agency, Governance, Utility und Ethics by Design —, behandelt FERPA- und GDPR-Konformität als Untergrenze und empfiehlt geplante Neubewertung, während die Modelle driften ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
 
 **Kurs-Konkurrenz modellieren, nicht nur Sequenz.** TRACE gibt jedem Kurs in einem Semester dieselbe Positionskodierung, und das gemeinsame Vorhersagen von Kursen und Noten senkte den Notenvorhersagefehler auf 0.1339 MAE — eine Reduktion um 46.4% gegenüber einem Nur-Noten-Transformer — auf zehn Jahren institutioneller Daten ([[trace-course-grade-prediction-2026|Savala (2026)]]).
+
+**Interaktionsdaten sind zuerst ein Repräsentationsproblem, dann ein Modellierungsproblem.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] behandeln jeden Mensch-KI-Austausch als einen strukturierten Datensatz, der die Berechnung, die die Anfrage motivierte, die Anfrage, die Antwort, das Feedback der nutzenden Person und die folgende Ausführung trägt, statt als isolierten Prompt. Über 140 Studierenden-Aufgaben-Paare in einem Einsatz mit 35 Studierenden korrelierte die Interaktionszahl allein mit erfolgreich ausgeführten Zellen bei r = 0.12, und derselbe Aufruf konnte je nach umgebendem Zustand eine Fehlerbehebung, ein nächster Schritt, eine Konzeptprüfung oder eine Validierung sein. Siebenunddreißig Paare mit Zugang erzeugten überhaupt keine Interaktionen, sodass die Abwesenheit von KI-Nutzung in einem Log nicht als Abwesenheit von Bedarf gelesen werden kann.
 
 ### Der Learning-Analytics-Zyklus
 
@@ -105,6 +111,12 @@ Learning Analytics verbindet sich mit [[knowledge-tracing|Knowledge Tracing]] (d
 
 Prozessebene Instrumentierung ist der nächste Schritt nach unten der beschreibenden Schicht. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] erweiterten eine [[open-source|Open-Source]]-Parsons-Problem-Plattform, um jede Blockplatzierung, -entfernung und -einreichung als chronologische Spur aufzuzeichnen, jede Einreichung mit korrektheitsbezogener Einfärbung pro Block und einer Versuchshistorie zu paaren, und optional die Spuren durch eine [[llm|LLM]]-Pipeline zu schicken, die wiederkehrende Schwierigkeitsmuster zur Prüfung durch Lehrende etikettiert. Über 68 Studierende in einem Java-Softwaredesign-Kurs im fortgeschrittenen Studium und 36 in einem einführenden Python-Kurs förderte die Analyse dieselben drei Schwierigkeiten zutage — das Wählen des falschen Exception-Typs, das Substituieren von `return` für `throw`, und inkorrekte Kontrollfluss-Ordnung —, was Korrektheits- und Versuchszählungen nicht offenlegen können, weil sie *ob* die Anordnung richtig war beantworten statt *was der Prozess war*. Die KI handelt als Interpret für die [[teacher-role|lehrende Person]] statt als Benotende der studierenden Person, und ihre Ausgabe wird als prüfbare Hypothese über die Schwierigkeiten einer Klasse gerahmt statt als Note.
 - **Die Mauer des Lernsystems: Logdaten generalisieren nicht über Plattformen hinweg.** MATHia, i-Ready und IXL definieren selbst grundlegende Konstrukte — einen „Versuch“, einen „Hinweis“ — unterschiedlich, daher können Modelle nicht zwischen ihnen transferieren. Eine Antwort im Entwurfsstadium greift das Problem von der Videoseite an: eine Gemini-Pipeline destilliert Aufzeichnungen von Tutorings-Bildschirmen in ein einzelnes Screenplay-Transkript, ausgerichtet an nativen MATHia-Logs als Ground Truth. Was Video wiederherstellt, was kein einzelner Strom tut: Whiteboard-[[scaffolding|Scaffolding]], stille Rechnerarbeit in externen Werkzeugen und Kontext außerhalb des Bildschirms, den native Logs zu „Untätigkeit“ reduzieren. Offene Herausforderungen bleiben in zeitlicher Verankerung, Uhrenabweichung und der Trennung von Plattformereignissen von anderen Lernprozessen. ([[thomas-breaking-learning-system-wall-2026]])
+- **Interaktionslogs können gegen eine konstante Basislinie verlieren.** Semesterebene Merkmale aus 16.851 LLM-Tutor-Austauschen schlugen einen Median-Prädiktor für Aufgabennoten um 0,114 Punkte, ein Intervall, das die Null kreuzt, wobei 62,1 % des Fehlers im untersten Quartil lagen ([[llm-tutoring-interaction-predictive-value-2026|Dong et al. (2026)]]).
+## Verbreitete Fehlvorstellungen
+
+- **„Eine Wissenszustandsschätzung erbt ihre Validität von den Daten."** **Die Q-Matrix, die Items mit Attributen verknüpft, ist eine Annahme, keine Daten**: zurückgewiesene Einträge bei **14 von 918 analysierten Items** bedeuten, dass die Zuordnung selbst einer Entscheidung bedurfte. Die Zuordnung zu validieren ist ein Schritt, keine Formsache.
+- **„Analytics brauchen Clickstream-Spuren."** Wissenszustände lassen sich innerhalb von Outcome-Based Education schätzen, indem **Kursergebnisse direkt aus LMS-Interaktions- und Leistungsdaten verfolgt werden**, mit OBE-Affinitätszuordnungen — der institutionelle Datensatz liefert das Signal.
+- **„Vorhersage ohne Handlungsfenster ist nützlich."** Fortschrittsvorhersage ist am brauchbarsten, wenn sie **interpretierbar und mit einem Handlungsfenster gepaart** ist: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries und Koprinska (2025)]] sagen modulweise Ergebnisse voraus, eine Form, auf die Beratende reagieren können, anders als ein Rohwert.
 
 ## Verbundene Konzepte
 
@@ -126,6 +138,8 @@ Prozessebene Instrumentierung ist der nächste Schritt nach unten der beschreibe
 - [[student-support-and-success]] — die Unterstützungsseite, die Vorhersage speist: Überweisung, Zuweisung, und die Ergebnisse, die sie bewegen oder nicht
 
 ## Verbundene Artikel
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Mensch-KI-Austausche als strukturierte Datensätze: Prompt-Zählungen tragen fast kein Signal über Fortschritt
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — KI-Analysen in kollektive Argumentation wahrnehmen und orchestrieren (Lee, Park & Lee 2026)
 - [[factria-responsible-institutional-analytics-2026]] — Verantwortungsvolle institutionelle Analytics: Bias mit KI-Unterstützung deuten
 

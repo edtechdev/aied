@@ -1,7 +1,7 @@
 ---
 title: "Rechtliche Fragen und Risiken"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-10-24T22:18:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,13 +14,17 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-09-30T07:29:37-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-28T18:24:42-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,10 @@ Das evidentielle Problem sitzt darunter. Detektor-Ausgabe ist der am häufigsten
 
 Ein anderes Risiko sitzt im Inneren der Instrumente selbst. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] versteckte fünf indirekte Prompt-Injektionen in den Dateien eines synthetischen Essays, den ein institutionelles [[automated-assessment|KI-Benotungswerkzeug]] (Microsoft Copilot, GPT-5.2) in sechs von sechs Baseline-Läufen als durchgefallen benotet hatte. Zwei Strategien hoben die Note ohne sichtbare Warnung an die Nutzenden, bei berichteten Angriffserfolgsraten von 100% (9 von 9 Iterationen) und 94% (17 von 18), indem sie Instruktionsmanipulation, Rollenspiel und Verschleierung kombinierten; das Werkzeug deaktivierte einen Chat still, nachdem es den einfachsten Angriff blockiert hatte, und in einer Iteration kündigte es an, nie eingebetteten Instruktionen zu folgen, und hob dann die Note bei jedem der nächsten sechs Läufe an. Eine durch eine versteckte Instruktion erlangte Note trägt keinen [[assessment-validity|Validitäts]]anspruch, und dieselbe Technik könnte genutzt werden, um eine Einreichung zu verschlechtern, ohne eine dauerhafte Spur im Output zu hinterlassen –, was bedeutet, dass die Anfechtungsakte für eine angefochtene automatisierte Entscheidung womöglich leer ist, und eine Feststellung des Fehlverhaltens (oder des Verdiensts) aus dem Artefakt überhaupt nicht belegt werden kann. Humbles Forderungen auf Sektorebene sind klare KI-[[educational-policy-ai|Politik]], [[educational-development|professionelle Entwicklung]] und standardisierte, domänenagnostische Resilienz-Tests, damit die Angriffsfläche gemessen statt angenommen wird, mit eingeschränkter KI-Nutzung und [[human-in-the-loop-ai|menschlicher Prüfung]], die für folgenreiche Arbeit vorbehalten ist.
 
+### Eigentum und die Frage des öffentlichen Guts
+
+Urheberrecht ist die andere Rechtsfrage in diesem Bereich, und sie läuft in die entgegengesetzte Richtung wie Fehlverhalten. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley und Downes (2026)]] lesen die Position des United States Copyright Office so, dass Prompts allein für Urheberschaft nicht ausreichen. Wenn diese Lesart gilt, ist ein rein maschinell erzeugtes Werk nicht Eigentum der Person, die den Prompt gegeben hat, was zweifach zählt: Ein Fehlverhaltensfall hat keinen verfassten Text, der einer lernenden Person zuzuschreiben wäre, und eine Einrichtung, die dieses Werk veröffentlicht, kann keine Rechte daran geltend machen. Lizenzen leisten dann die Arbeit, die sonst das Eigentum leisten würde, weshalb offene Lizenzierung und akademische Integrität ein Problem von zwei Seiten sind.
+
 ### Jenseits des Campus-Tores
 
 Für berufliche Programme endet das Risiko nicht mit dem Abschluss. Gutowski und Hurley halten fest, dass die Berufsstandesregeln, die praktizierende Anwältinnen und Anwälte binden – die Pflicht technologischer Kompetenz, Vertraulichkeit, Aufsicht über andere, die die Werkzeuge nutzen, Offenheit gegenüber dem Gericht –, bereits an KI-Nutzung anknüpfen, und dass [[hallucination-risk|halluzinierte]] Autorität Sanktionen für Praktikerinnen und Praktiker erzeugt hat, die erfundene Fälle einreichten. Dieselbe Transferlogik gilt überall dort, wo eine Lizenz, Registrierung oder gesetzliche Pflicht der bzw. dem Absolventin bzw. Absolventen folgt, weshalb die Disziplinseiten zu [[legal-education|Rechtswissenschaften]] und den [[medical-education|Gesundheitsberufen]] neben dieser Seite gehören.
@@ -80,6 +88,16 @@ Für berufliche Programme endet das Risiko nicht mit dem Abschluss. Gutowski und
 - Überlebt Detektor-Ausgabe als Beleg für irgendetwas, sobald eine Einrichtung ihre Fehlerraten in einer Anhörung einräumt, oder verwandelt das Eingeständnis den Fall in einen Streit über prozedurale Fairness?
 - Ist der Anbieter oder die Einrichtung der Datenkontrollverantwortliche, wenn Prüfungsaufsicht und Detektion über eine Drittplattform laufen, und verändert das den Rat an Institutionen?
 - Sollten Institutionen die Belegstandards veröffentlichen, die sie auf KI-Fehlverhalten anwenden, so wie Beweisschwellen anderswo veröffentlicht werden, als Weise, sowohl Zu-Unrecht-Anschuldigung als auch Rechtsrisiko zu senken?
+
+## Verbreitete Fehlvorstellungen
+
+**„KI-Fehlverhalten ist eine Rechtsfrage.“** Es sind mehrere, die zusammen ankommen — **beweisrechtlich** (ob die Anschuldigung überhaupt belegt werden kann), **vertrags- und verfahrensrechtlich** (ob die Einrichtung ihre eigenen Regeln befolgte und rechtliches Gehör gewährte) und **gleichheitsbezogen**. Eine Antwort, die Belege adressiert und das Verfahren vernachlässigt, ist auf einer Dimension rechtlich angreifbar, die sie nie bedacht hat, und Einrichtungen bereiten sich tendenziell auf diejenige vor, wegen der sie verklagt wurden.
+
+**„Einrichtungen haben konsistente Politiken geschrieben, das Risiko liegt also bei den Studierenden.“** Die Inkonsistenz läuft auch in die andere Richtung. [[watson-rainie-ai-challenge-faculty-survey-2026|Watson und Rainies (2026)]] Befragung von **1.057 US-amerikanischen Fakultätsangehörigen** fand, dass **87% der Antwortenden ihre eigene** Orientierung auf Aufgabenebene schrieben — die operativen Regeln variieren also innerhalb einer einzigen Einrichtung, und eine lernende Person kann in derselben Woche die Regel der einen Lehrkraft befolgen und die einer anderen verletzen. Eine lernende Person, die nach einem unausgesprochenen Standard beschuldigt wird, hat ein Verfahrensproblem, das die Einrichtung geschaffen hat.
+
+**„Detektion liefert die Belege, die ein Verfahren braucht.“** Detektion liefert einen Score. Die Beweisfrage ist, ob eine Anschuldigung überhaupt belegt werden kann, und die [[ai-detection|Detektionsliteratur]] zeigt, dass die Werkzeuge weder die Zuverlässigkeit noch die interpretierbare Kategorie liefern, die ein Disziplinarverfahren verlangt. Das Verfahren auf einen Detektor zu bauen, baut es auf das schwächste Glied.
+
+**„Die Risiken sind hypothetisch, und die Politik wird aufholen.“** Die Risiken werden schon jetzt ungleich verteilt, und die Studierenden, die sie tragen, sind diejenigen, die ein Verfahren am wenigsten anfechten können. Die Asymmetrie zwischen der Kapazität einer Einrichtung zu untersuchen und der Kapazität einer lernenden Person zu antworten, ist ein gegenwärtiger Schaden statt ein zukünftiger.
 
 ## Verbundene Konzepte
 

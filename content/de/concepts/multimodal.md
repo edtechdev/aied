@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodale KI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T21:37:05-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,13 +11,17 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,7 @@ Multimodale KI ermöglicht Lernenden, Inhalte über Text, Bild, Audio und Video 
 - **[[ai-literacy|KI-Kompetenz]] in multimodalen Kontexten** ist geschichtet: grundlegendes Bewusstsein multimodaler Plattformen, intermediäre Ko-Kreation und [[critical-thinking|kritische Evaluation]] von Outputs, und fortgeschrittenes Design multimodaler Aktivitäten und Assessments.([[multimodal-learning-genai]])
 - **Multimodales Prompting** ist selbst eine anspruchsvolle epistemische Praxis. Studierende, die für Bilder ebenso wie für Text prompten, entdecken, dass „Prompt-Literacy sich zwischen Prompten für Text und Prompten für Bilder unterscheidet“ — abstrakte Bedeutung in maschinenlesbare multimodale Prompts zu übersetzen erfordert ein präzises visuelles Vokabular und exponiert Systemgrenzen und -bias.([[multimodal-prompting-ai-literacy]])
 - **Multimodales Assessment** verschiebt sich von Aufsätzen zu Artefakten, die Text, Bild, Audio und Video kombinieren, wobei Lehrende KI nutzen, um Erzeugung und Feedback zu [[scaffolding|gerüsten]] statt die eigene Produktion der lernenden Person zu ersetzen.([[multimodal-learning-genai]])
+- **Modalitätswahl ist ein pädagogisches Urteil, kein Behälter.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] argumentiert, dass die Wahl zwischen schriftlichen, mündlichen, digitalen und multimodalen Formaten entscheidet, was für Lernende möglich und für Bewertende sichtbar wird, und zählt kontrollierte Wahlmöglichkeit zwischen Modalitäten als generative Einschränkung statt als Verwaltungsdetail.
 - **Multimodales Komponieren der Lernenden als Gerüst für kritisches Denken trägt einen Trade-off.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] zeigen, dass es, wenn Schülerinnen und Schüler der oberen Grundstufe schriftliche Erzählungen in KI-generierte Bilder und kurze Videos verwandeln, anhaltende Zuwächse in Interpretation, Analyse, Evaluation und Erklärung stützte —, aber nicht Inferenz. Weil die Visuals Geschichtsverstehen explizit machten, berichteten Studierende geringere Notwendigkeit, implizite Bedeutung aus Text allein zu inferieren; Peer-Kollaboration, nicht das multimodale Werkzeug, stellte Gelegenheiten für Inferenz wieder her. Der Wert multimodaler KI als Sinnstiftungspartner ist damit dimensionsspezifisch und hängt von [[learning-design|Instruktionsdesign]] ab, das die inferenzielle und [[self-regulated-learning|selbstregulatorische]] Arbeit bewusst wieder einführt, die die Externalisierung kurzschließen kann.
 - **Multimodale [[writing-education|Komposition]] der Lernenden als kritische KI-Kompetenz.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] analysieren 90-Sekunden- bis 3-minütige Video-Public-Service-Ankündigungen von 22 Elftklässlerinnen und Elftklässlern zu selbstgewählten KI-[[ethics|Ethik]]themen — Überwachung durch schulregulierte Laptops und elektronische „Hall-Passes“, [[privacy|informierte Einwilligung]] und punitive algorithmische Anschuldigung —, als [[ai-literacy|kritische KI-Kompetenz]], vollzogen durch Komposition über bewegtes Bild, Ton, Text und die eigenen Körper der Studierenden. Über alle sieben Filme hinweg wurde Schaden als aus Mensch-Maschine-Verstrickung entstehend dargestellt statt aus dem Werkzeug allein (ein anthropomorphisierter „KI-Stalker“ wurde in drei von sieben von einem menschlichen Schauspieler gespielt), und 15 von 18 Einheitsende-Antworten sagten, Komposition habe ihr Verständnis von KI-Ethik verändert. Die Autoren argumentieren, multimodale Produkte *demonstrierten* und *kommunizierten* kritische Kompetenz sowohl —, produktive Artefakte, Reflexionen und bürgerschaftlicher Diskurs können als [[assessment|Assessment]]beleg dienen, den rein textliche Kompetenz strukturell übersieht.
 
@@ -91,6 +96,16 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 5. **Gerechtigkeit und Datenschutz beobachten.** Unzuverlässige Unterstützung bei bildreichen Problemen und die Datenanforderungen multimodalen Sensings tragen beide Gerechtigkeits- und Datenschutzimplikationen.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Die Pipeline auf den Inhalt abstimmen.** Das multimodale LLM eines Cybersecurity-Labassistenten handhabte dichte visuelle Folien besser, während eine OCR-plus-LLM-Pipeline auf textzentrierten Folien vergleichbaren instruktionalen Wert bei signifikant geringeren Rechenkosten lieferte.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
 
+## Verbreitete Fehlvorstellungen
+
+**„Ein multimodales Modell handhabt multimodale Probleme."** Die Genauigkeit sinkt scharf, wenn Bedeutung vom Bild statt vom Text getragen wird. Ein [[physics-education|Physik]]-Tutor beantwortet textbasierte Probleme in **96%** der Fälle, fällt aber auf etwa **74%** bei Problemen, die Bedeutung in Diagramme einbetten — der **Multimodale-Interferenz-Effekt**. Zweiundzwanzig Punkte Fähigkeit verschwinden genau dort, wo der Fachinhalt lebt.
+
+**„Ein Bild zum Prompt hinzuzufügen löst das Diagrammproblem."** Die Eingabemodalität ist nicht der Engpass; die Interferenz ist es. Ein Modell, das das Diagramm erhält und dennoch aus der umgebenden Prosa schlussfolgert, hat die Information bekommen und nicht genutzt, weshalb das Versagen unsichtbar bleibt, sofern niemand die beiden Problemformate vergleicht.
+
+**„Multimodale Fähigkeit ist eine einzige Leiter, also ist das insgesamt beste Modell das beste für die bildreiche Aufgabe."** Fähigkeit ist aufgabenspezifisch, und ein Modell, das in allgemeinen Benchmarks führt, kann bei Kraftediagrammen zurückliegen. Für bildreiche Disziplinen ist der einschlägige Test der mit der in das Bild eingebetteten Bedeutung.
+
+**„Grenzen rein textlichen Tutorings sind ein Ärgernis statt ein Curriculumproblem."** In Disziplinen, in denen das Diagramm *das Problem ist* — Physik, Chemie, Geometrie, Ingenieurwesen, Medizin —, fällt die Kompetenzgrenze eines rein textlichen Tutors quer durch den bewerteten Inhalt statt an seine Ränder.
+
 ## Verbundene Konzepte
 - [[generative-ai]]
 - [[llm]]
@@ -118,6 +133,7 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 - [[arts-design-and-media-education]]
 
 ## Verbundene Artikel
+- [[elkington-human-centred-assessment-value-2026]] — Menschzentriertes Assessment, Assemblagen und generative Einschränkungen (Elkington 2026)
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Video-PSA-Komposition zu KI-Ethik als Pädagogik kritischer KI-Kompetenz (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Gerechtigkeitsbewusste multimodale Transformer-Modellierung zur Echtzeit-Schätzung der Aufmerksamkeit Studierender
 - [[omniphys-multimodal-physics-benchmark-2026]]

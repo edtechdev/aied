@@ -1,7 +1,7 @@
 ---
 title: KI in der Bildung
 created: "2026-09-22T14:35:11-04:00"
-updated: "2026-10-27T04:14:20-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -100,11 +104,13 @@ Die Seite [[ai-technologies|Technologien]] ist die Überblicksseite für die tec
 - **Modelle und Verfahren:** [[generative-ai|generative KI]], [[llm|große Sprachmodelle]], [[rag|retrieval-augmented generation]], [[multimodal|multimodale Modelle]], [[educational-nlp|NLP in der Bildung]], [[reinforcement-learning|bestärkendes Lernen]], [[knowledge-graph|Wissensgraphen]], [[educational-robotics|Robotik in der Bildung]], [[conversational-ai|konversationelle KI]], [[simulation|Simulation]] und das [[llm-training-and-fine-tuning|Training pädagogischer LLMs]]. Auch die zugrunde liegenden Verfahren zählen: [[machine-learning|maschinelles Lernen]] ist der Ort, an dem diese Systeme entstehen, [[speech-and-voice-technologies|Sprach- und Stimmtechnologien]] tragen gesprochenes Tutoring und Sprachpraxis, [[visualization|Visualisierung]] umfasst Dashboards und visuelle Analytik für Lernende und Lehrende, und [[virtual-and-augmented-reality|Virtual und Augmented Reality]] beherbergt immersive Übungsumgebungen, deren visuelle Ebene das Modell heute selbst erzeugen kann. Auch neuere Interaktionsformen gehören hierher, allen voran [[vibe-coding|Vibe Coding]], der Ablauf in natürlicher Sprache, in dem die nutzende Person ein Programm beschreibt, indem sie ein LLM anweist, und das daraus resultierende Verhalten beurteilt, statt Quellcode zu lesen oder zu bearbeiten; das ordnet [[cs-education|Programmieren]] als Akt des Ausdrucks und der Überprüfung neu und senkt die Hürde für [[teacher-role|Endnutzende]], eigene Werkzeuge zu bauen. Rahmenwerke zur Integrationstiefe wie [[samr-model|SAMR]] und Adoptionstheorien wie [[technology-acceptance-model|TAM]] ordnen ein, wie tiefgreifend KI übernommen wird und wie stark sie die Aufgabe verändert.
 - **Lernendenmodellierung und adaptive Systeme:** Die technischen Systeme, die Lernende repräsentieren und sich an sie anpassen, sind unter der Überblicksseite [[student-modeling|Modellierung und adaptive Instruktion]] gebündelt: [[knowledge-tracing|Knowledge Tracing]], [[cognitive-diagnosis|kognitive Diagnose]], [[simulating-students|Simulation von Lernenden]], [[intelligent-tutoring|intelligentes Tutoring]], [[adaptive-learning|adaptives Lernen]], [[personalized-learning|personalisiertes Lernen]], [[recommender-systems-and-learning-paths|Empfehlungssysteme und Lernpfade]], [[pedagogical-agent|pädagogische Agenten]], [[affective-tutoring|affektives Tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|Human-in-the-Loop-KI]] und [[learning-analytics|Learning Analytics]]. Sie gehören zur technischen Ebene, weil sie die KI-Systeme selbst sind und sich von den Pädagogiken unterscheiden, die sie umsetzen.
 
+- **Plattformen, Offenheit und Adoption:** die Schicht um das Modell herum, in der eine Lehrressource lizenziert, gehostet und bezahlt wird, statt gebaut zu werden. [[open-education|Offene Bildung]] umfasst das Lehren mit offen lizenzierten Inhalten und die Pädagogik, die Studierende als Erzeugende solcher Inhalte behandelt — dort werden die Lizenz- und Anpassungsfragen verhandelt, die erzeugtes Material nun aufwirft. Sie steht neben Offenheit im softwarebezogenen Sinn, der Analyse auf Plattformebene in [[edtech-platform|EdTech-Plattformen]] und der Adoptionsforschung, die über [[technology-acceptance-model|TAM]] getragen wird.
+
 ## KI in den Fächern
 
 KI wird in vielen Fächern und auf vielen Bildungsstufen eingesetzt. Der [[discipline-specific-aied|Überblick über die AIED in den Fächern]] in dieser Wissensbasis kartiert die Abdeckung nach Fächern, ergänzt um die [[learning-sciences|Lernwissenschaften]], die kein Unterrichtsfach sind, sondern das übergreifende Forschungsfeld, das Lernen selbst untersucht und den Fachinhalt als eine Variable unter anderen behandelt:
 
-- **Fächer:** [[math-education|Mathematik]], [[physics-education|Physik]], [[chemistry-education|Chemie]], [[biology-education|Biologie]], [[cs-education|Informatik]], [[engineering-education|Ingenieurwesen]], [[stem-education|STEM]], [[writing-education|Schreiben]], [[language-learning|Sprachenlernen]], [[english-education|Englischunterricht (EAP/EFL/ESL)]], [[science-education|Naturwissenschaften]], [[business-education|Wirtschaft, Ökonomie und Management]], [[humanities-education|Geistes- und Sozialwissenschaften]], [[arts-design-and-media-education|Kunst, Design und Medien]], [[medical-education|Medizin- und Gesundheitsberufe]], [[legal-education|Rechtswissenschaften]] sowie die berufsbezogenen und angewandten Stränge: [[nursing-education|Pflege]], [[information-technology|Informationstechnik]], [[vocational-education|berufliche Aus- und Weiterbildung]] und [[design-education|Designeducation]].
+- **Fächer:** [[math-education|Mathematik]], [[statistics-and-data-science-education|Statistik und Datenwissenschaft]], [[physics-education|Physik]], [[chemistry-education|Chemie]], [[biology-education|Biologie]], [[cs-education|Informatik]], [[engineering-education|Ingenieurwesen]], [[stem-education|STEM]], [[writing-education|Schreiben]], [[language-learning|Sprachenlernen]], [[english-education|Englischunterricht (EAP/EFL/ESL)]], [[science-education|Naturwissenschaften]], [[environmental-education|Umweltbildung]], [[business-education|Wirtschaft, Ökonomie und Management]], [[humanities-education|Geistes- und Sozialwissenschaften]], [[arts-design-and-media-education|Kunst, Design und Medien]], [[medical-education|Medizin- und Gesundheitsberufe]], [[legal-education|Rechtswissenschaften]] sowie die berufsbezogenen und angewandten Stränge: [[nursing-education|Pflege]], [[information-technology|Informationstechnik]], [[vocational-education|berufliche Aus- und Weiterbildung]] und [[design-education|Designeducation]].
 
 ## Bildungsstufen und Kontexte
 
@@ -209,13 +215,8 @@ KI in der Bildung ist mit jedem Konzept der Wissensbasis verbunden: Sie ist das 
 
 Feldweite Reviews zu KI in der Bildung, also Studien, die das gesamte Feld oder eine ganze Bildungsstufe untersuchen statt ein einzelnes Thema:
 
-- typology-generative-ai-tools-education-2026 – Typology of Generative AI Tools for Education
-- raza-farooq-aied-review-2020-2025 – Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Die Entwicklung der KI-und-Bildung-Forschung über vier Jahrzehnte (AIxEd-Rahmenwerk)
 - [[mishra-control-vs-agency-history-2025]] — Kontrolle vs. Handlungsfähigkeit: eine Geschichte von KI in der Bildung
-- liang-genai-systematic-review-human-ai-2026 – Generative AI in education: systematic review of 56 empirical studies
 - [[genai-higher-education-systematic-review-2026]] — Generative KI in der Hochschulbildung: systematischer Review von 125 Studien
 - [[stanford-evidence-base-ai-k12-2026]] — Die Evidenzbasis zu KI in K-12: ein Review von 818 Papieren
-- caruana-pre-university-ai-education-slr-2026 – Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]] — Generative KI und Bildungsergebnisse: umfassende Metaanalyse
-- caeai-ai-companions-learning-over-performance-2026 – a research agenda for AI companions built around learning rather than performance

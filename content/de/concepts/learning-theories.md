@@ -1,7 +1,7 @@
 ---
 title: Lerntheorien
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [research-gaps-aied]
 translation_of: concepts/learning-theories
-source_updated: "2026-09-30T09:59:35-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-28T19:24:33-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -65,7 +69,7 @@ Jüngere theoretische Arbeit erweitert den klassischen Strang in mehrere Richtun
 
 - **Mensch-KI-Ko-[[regulation|Regulation]].** Ein Entwicklungsrahmenwerk positioniert KI nicht als externes Instrument, sondern als **kognitive Partnerin**, die Denken, Lernen und Selbstkontrolle über die Lebensspanne hinweg ko-reguliert.([[ai-cognitive-partner-co-regulation-learning]]) Gestützt auf Exekutivfunktion, [[metacognition|Metakognition]], verteilte Kognition und soziokulturelle Entwicklung wirft es KI in vier Rollen — Scaffold, metakognitive Unterstützung, externes Gedächtnis / [[cognitive-offloading|Entlastungssystem]], und Entscheidungspartnerin —, wobei das Rahmenwerk am relevantesten ab mittlerer Kindheit ist.
 - **Ensemble Cognition.** Ein [[philosophy-of-ai-in-education|philosophisches]] Rahmenwerk rekonzeptualisiert Denken als aus dynamischen Interaktionen zwischen menschlichen und künstlichen Agenten entstehend, statt allein in individuellen Köpfen zu liegen.([[ensemble-cognition-philosophy-ai-education]]) Es fordert das „Bewusstseinsparadigma“ (die Annahmen von Autonomie, Bewusstsein und Stabilität) heraus und artikuliert fünf Merkmale — verteilte Handlungsfähigkeit, dynamische Zentralität, kognitive Orchestrierung, multirepräsentationale Integration und kontextsensibles Umschalten —, während es KIs **funktionale Handlungsfähigkeit** von moralischer Verantwortung unterscheidet.
-- **[[self-directed-learning|Selbstgesteuertes]] Wachstum / A2PL.** Eine Erweiterung [[self-regulated-learning|selbstgesteuerten Lernens]] integriert generative KI mit [[learning-analytics|Learning Analytics]], um **selbstgesteuertes Wachstum** zu kultivieren, operationalisiert durch das Modell Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Es rekonfiguriert Aspirationen der Lernenden (humanistisch), komplexes Denken (konstruktivistisch), und Selbstevaluation (pragmatisch) zu einer einzigen Kompetenz und positioniert GAI als nicht-präskriptives kollaboratives Scaffold statt als Inhaltsanbieterin.
+- **[[self-directed-learning|Selbstgesteuertes]] Wachstum / A2PL.** Eine Erweiterung [[self-directed-learning|selbstgesteuerten Lernens]] integriert generative KI mit [[learning-analytics|Learning Analytics]], um **selbstgesteuertes Wachstum** zu kultivieren, operationalisiert durch das Modell Aspire to Potentials for Learners (A2PL).([[self-directed-growth-generative-ai-learning-analytics]]) Es rekonfiguriert Aspirationen der Lernenden (humanistisch), komplexes Denken (konstruktivistisch), und Selbstevaluation (pragmatisch) zu einer einzigen Kompetenz und positioniert GAI als nicht-präskriptives kollaboratives Scaffold statt als Inhaltsanbieterin.
 
 - **Trügerische Übergeneralisierung.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] erweitern die ACT-R / Knowledge-Learning-Instruction-Tradition, indem sie theoretisieren, wann beobachtete Korrektheit unvollständiges bedingtes Verständnis verdeckt: Lernende kompilieren eine übergeneralisierte Produktion, die eine Anwendungsbeschränkung auslässt, und erbringen dennoch korrekte Leistung — eine Versagensart, die adaptive Meisterschaftssysteme und sogar traditioneller Unterricht übersehen können, wenn sie nicht prüfen, *wann eine Handlung zu unterlassen ist*.
 - **Ausführbare KLI-Theorie.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] gründen das Knowledge-Learning-Instruction-Rahmenwerk in einem ausführbaren Rechenmodell (das Apprentice-Learner-Rahmenwerk mit einem ACT-R-artigen Gedächtnismechanismus), das eine Cross-over-Interaktion in menschlichen Daten reproduziert: reine Übung unterstützt wörtliches Faktengedächtnis (indem sie Vergessen verzögert), während beispielintegrierte Übung die Induktion verallgemeinerbarer Fertigkeit unterstützt. Weil KLI konstantes (Fakten-)Wissen an Gedächtnisprozesse und variables (Fertigkeits-)Wissen an Induktion bindet, ist das Ergebnis eine vorhergesagte Inhalt-Behandlung-Interaktion statt ein Widerspruch zwischen Test- und Worked-Example-Empfehlungen — und der Erfolg des Modells nur bei Vorhandensein eines Gedächtnismechanismus zeigt, dass Übung und Beispiele ausgeprägte, komplementäre Rollen spielen.
@@ -86,6 +90,32 @@ Lerntheorien erscheinen auch als Inhalt in Curricula zur [[ai-literacy|KI-Kompet
 Neben den klassischen Familien dokumentiert die Wissensbasis Theorien, die eigens für das Lernen mit KI-Systemen geschrieben wurden, und diese tragen die Designimplikationen, die die älteren Theorien offen lassen. [[yan-agentivism-learning-theory-ai-2026|Agentivism (Yan und Gašević 2026)]] ist ein Beispiel mittlerer Reichweite: es definiert Lernen als dauerhaftes Wachstum menschlicher Fähigkeit statt als erfolgreichen Aufgabenabschluss, benennt vier Mechanismen (delegierte Handlungsfähigkeit, erkenntnistheoretische Überwachung und Verifikation, rekonstruktive Internalisierung, und Transfer unter reduzierter Unterstützung), und stellt sechs prüfbare Propositionen auf, darunter dass KI-Unterstützung, die die Verantwortung der Lernenden für Problemrahmung, Kriteriensetzung und Rechtfertigung bewahrt, stärkeres Lernen erzeugt als Unterstützung, die Antworten liefert.
 
 [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]s **Pädagogische Symbiose** erhebt eine stärkere ontologische Behauptung: die lernende Person ist eine *posthumane* Entität, deren Kognition hybrid ist statt werkzeuggestützt, organisiert durch vier Prinzipien: kognitive Entlastung und Augmentation, erkenntnistheoretische Ko-Konstruktion, metakognitive Symbiose, und dynamische Identitätsbildung; operationalisiert als Symbiotic-Portfolio-Rubrik und eine Lehrrolle als „Cognitive Choreographer“; sie ist ausdrücklich ungeprüft.
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine der Lerntheorien ist die richtige, also ist die Theoriewahl Geschmackssache.“** Die Theorien machen unterschiedliche Aussagen darüber, was als Evidenz zählt, sodass dieselben Daten entgegengesetzte Schlüsse stützen können. Das klarste Beispiel: aufgeblähte Hausaufgabenwerte lesen sich **unter dem Behaviorismus als Lernen** und **unter dem Konstruktivismus als Versäumnis, dauerhaftes Verständnis aufzubauen**. Die Theoriewahl entscheidet damit, ob eine Intervention erfolgreich war, was sie zu einer Messentscheidung statt zu einer stilistischen Vorliebe macht.
+
+**„Ein Werkzeug, das tiefes Lernen unterstützt, wird unter jedem Rahmenwerk wie tiefes Lernen aussehen.“** Es wird unter dem einen Rahmenwerk wie Erfolg und unter dem anderen wie Versagen aussehen, wie oben. Deshalb müssen die Ergebnismaße des Felds gegen eine ausdrücklich benannte Theorie begründet werden, statt so übernommen zu werden, als wären sie neutral.
+
+**„Mehr Theorien bedeuten ein besser verstandenes Feld.“** Anhäufung ohne Entscheidung ist das Gegenteil von Fortschritt. Für das KI-Zeitalter vorgeschlagene Theorien vermehren sich schneller, als sie geprüft werden, und das Zeichen von Reife ist, dass konkurrierende Vorhersagen aufgelöst werden — was Designs verlangt, die sie unterscheiden können, nicht Kataloge, die sie alle aufnehmen.
+
+**„Bildung über KI ist theoretisch dasselbe wie KI in der Bildung.“** Sie speisen sich aus unterschiedlichen Strängen: der eine fragt, wie Lernende KI als Gegenstand verstehen lernen, der andere, wie KI verändert, wie Lernen geschieht. Ihre Vermischung erzeugt Literaturreviews, die zwei getrennte Evidenzbasen mischen und von keiner ein kohärentes Bild berichten.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Wählen Sie die Theorie danach, was sie leisten soll: erklären, wie Lernen geschieht, den Zustand der Lernenden beschreiben, oder erklären, warum sich eine Praxis verbreitet. Die falsche Ebene anzuwenden misst die richtige Variable gegen die falsche Vorhersage.
+- Benennen Sie die Theoriebindung des Ergebnismaßes ausdrücklich, denn aufgeblähte Hausaufgabenwerte lesen sich aus identischen Daten unter dem Behaviorismus als Erfolg und unter dem Konstruktivismus als Versagen.
+- Wenn ein Rahmenwerk keinen Unterschied zwischen Konfigurationen vorhersagen kann, ist es in Ihrem Setting nicht prüfbar und wird Ihnen nicht bei der Entscheidung helfen.
+
+**Für Gestaltende**
+
+- Veröffentlichen Sie die Theorie, die Ihr System verkörpert, und die Vorhersage, die es widerlegen würde; „im Konstruktivismus begründet" ohne einen falsifizierbaren Unterschied ist eine Behauptung ohne Inhalt.
+
+**Für Forschende**
+
+- Entwerfen Sie auf die Entscheidung zwischen Theorien hin statt auf Anhäufung von Rahmenwerken. Reife zeigt sich in aufgelösten konkurrierenden Vorhersagen, nicht in wachsendem Vokabular.
 
 ## Verbundene Konzepte
 

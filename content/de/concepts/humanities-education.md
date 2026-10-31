@@ -1,20 +1,24 @@
 ---
 title: Bildung in Geistes- und Sozialwissenschaften
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-10-26T09:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -55,6 +59,18 @@ SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI 
 - **KI absichtsvoll in der Quellenarbeit nutzen.** [[paternalistic-filter-llm-history-education|Geschichtsforschung]] zeigt, dass KI Schlussfolgern und Quelleninterpretation prägen kann — Studierenden lehren, KI-vermittelte historische Behauptungen und die Filter, die sie anwendet, zu hinterfragen.
 - **Studierendenseitige Wirkungen bedenken.** [[genai-impact-chinese-students-hss|Studien zu Studierendenerfahrung]] dokumentieren, wie GenAI SSH-Lernende beeinflusst; Unterstützung und Integritätsrahmung an echte Nutzung anpassen statt an Annahmen.
 
+## Verbreitete Fehlvorstellungen
+
+**„Die Geisteswissenschaften sind der am wenigsten KI-exponierte Teil des Curriculums."** Die Exposition ist gemessen worden, und sie ist konzentriert statt diffus: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditierte **15.587 Einheitenaufzeichnungen aus Kunst und Geisteswissenschaften**, um festzustellen, wo die Exposition liegt. Sie ist ungleich über Einheiten verteilt statt dünn gestreut, was Assessment-Neugestaltung zu einem gezielten Problem macht statt zu einem sektorweiten.
+
+**„KI in der geisteswissenschaftlichen Bildung ist technozentrische Anreicherung."** Das Positionspapier, auf das diese Seite sich stützt, argumentiert, die Verschiebung sei eine *intellektuelle Transformation* statt einer Anreicherung, und positioniert [[ai-literacy|digitale Geläufigkeit]] als Kernkompetenz der freien Künste. Ein Werkzeug zu einem unveränderten Kurs hinzuzufügen verwechselt die Transformation mit ihrem Instrument.
+
+**„Werteerziehung lässt sich als Inhalt an ein Modell übergeben."** [[genai-values-education-affordances-risks-2026|Chen (2026)]] rahmt Werteerziehung als relationale Praxis mit drei Bedingungen — Antwortbarkeit, Exemplarität und Ansprache — neu und liest jede von GenAIs fünf Affordanzen als Ersatz einer Relation: die simulierte Perspektive ersetzt die Anspruchsgruppe, der Unrecht geschehen kann.
+
+**„Kritische Analyse ist, was KI am meisten bedroht, also sollte sie eingeschränkt werden."** Kritische Analyse ist auch das, was absichtsvolle Nutzung am meisten entwickelt, wenn die Aufgabe darauf ausgelegt ist, sie zu vertiefen statt abzuflachen. Ein [[human-in-the-loop-ai|Human-in-the-Loop]]-Modell verortet den Beitrag der Disziplin im Urteil der lernenden Person statt in der Ausgabe des Werkzeugs.
+
+**„Ein Allzweckmodell ist für textwissenschaftliche Arbeit so nützlich wie für Zusammenfassungen."** Interpretation verlangt die Position der lesenden Person, und eine Assistenzschicht, die die Lesart liefert, hat den interpretativen Akt vollzogen, den die Disziplin zu lehren existiert.
+
 ## Verbundene Konzepte
 
 - [[higher-ed]]
@@ -75,3 +91,4 @@ SSH-Bildung stellt genau die Fähigkeiten in den Vordergrund, die generative KI 
 - [[genai-impact-chinese-students-hss]] — GenAIs Wirkung auf Studierende der Geistes- und Sozialwissenschaften
 - [[acceptance-ai-english-tools-2026]] — KI-Akzeptanz unter Sprach- und Geisteswissenschaftslernenden
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Rechnerisches Audit von 15.587 Go8-Einheiten aus Kunst und Geisteswissenschaften: 58,6 % der Assessment-Aufgaben von 2026 hoch KI-ausgesetzt, konzentriert in Aufsätzen und Berichten
+- [[genai-values-education-affordances-risks-2026]] — Generative KI in der Werteerziehung: Affordanzen, ethische Risiken und Implikationen für den Unterricht (Chen 2026)

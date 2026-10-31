@@ -1,7 +1,7 @@
 ---
 title: Aktives Lernen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -77,6 +81,13 @@ Aktives Lernen wird präzise durch das [[icap-framework|ICAP-Rahmenwerk]] (Inter
 Aktives Lernen ist tief mit [[collaborative-learning|kollaborativem Lernen]] verbunden (viel aktives Lernen ist sozial), [[learning-by-teaching|Lernen durch Lehren]] (anderen erklären ist maximal aktiv), [[project-based-learning|projektbasiertem Lernen]] und [[experiential-learning|erfahrungsbasiertem Lernen]] (Lernen durch Tun in authentischen Kontexten), [[embodied-learning|verkörpertem Lernen]] (physisches Engagement), [[game-based-learning|spielbasiertem Lernen]] und [[simulation|Simulation]]. Es stützt sich auf [[scaffolding|Scaffolding]] und rechtzeitiges [[feedback|Feedback]] und wird von [[cognitive-offloading|Over-Reliance]] bedroht, wenn KI Anstrengung ersetzt. Gegründet in [[constructivist|Konstruktivismus]] und [[learning-theories|Lerntheorien]], erstreckt es sich über [[higher-ed|Hochschulbildung]], [[k-12|K-12]] und [[stem-education|STEM]].
 
 Aktives Lernen ist einer der stärksten Hebel auf [[learning-gains|Lernzuwächse]] im KI-Zeitalter. Weil aktive Strategien Verständnis durch anstrengendes Tun aufbauen, sind sie am robustesten gegenüber Kurzschlüssen durch KI — und die Evidenz der Wissensbasis zeigt, dass diese Anstrengung zu bewahren dauerhaftes Lernen schützt, während sie KI absorbieren zu lassen es erodiert ([[generative-ai-reduced-study-time-math|reduzierte Lernzeit]], [[stromberg-generative-ai-learning-penalty-secondary-2026|the learning penalty]], [[lak2026-hint-button-unproductive-use|hint abuse]]). Lehrende, die Designs aktiven Lernens mit [[learning-gains|gemessenen Zuwächsen]] bei unassistierten Ergebnissen koppeln, bekommen das klarste Bild davon, ob KI-unterstützte Tätigkeit das Lernen tatsächlich verbessert hat.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI in die Aktivität zu setzen macht sie aktiv."** Eine EEG-Studie fand, dass **interaktive Zusammenarbeit von Studierenden und KI das höchste kognitive Engagement erzeugte, während volle Automatisierung es senkte**. Das Engagement kam aus der Interaktion, nicht aus der Anwesenheit von KI, und den Teil der lernenden Person zu automatisieren, bewegte das Engagement in die falsche Richtung.
+- **„KI-unterstützte Erkundung ist automatisch höherstufig."** Ein Quasi-Experiment mit **120 Lernenden der 8. Jahrgangsstufe** fand, dass KI-unterstütztes [[inquiry-based-learning|forschungsbasiertes Lernen]] kreative mathematische Leistung **und** ein engeres Maß erhöhte — die Behandlung bewegte einige Ergebnisse und andere nicht. Korrelation mit einem höherstufigen Etikett ist nicht dasselbe wie eine höherstufige Aufgabe.
+- **„Studierende das Lehren entwerfen zu lassen ist eine technische Übung."** In der Umkehrstudie entwarf **jede bzw. jeder von 345 Studierenden** in einem 700-köpfigen Kurs einen konversationellen Agenten, der einer Peer-Person drei Entwurfsmuster beibringen sollte. Das aktive Lernen kam aus der Entwurfsarbeit, und das ist pädagogisches Schlussfolgern statt Prompt Engineering.
+- **„Befunde zum Engagement sind Befunde zum Lernen."** Dieselbe Evidenzbasis mahnt, dass ein Design **ohne Kontrollgruppe und mit Freiwilligenstichprobe** nur Aussagen zum Engagement trägt. Studierende schätzten offene Gestaltungsfreiheit (**22,3 %** als stärkstes positives Thema) und beklagten am häufigsten unklare Anweisungen (**23,7 %**) — beides betrifft das Erleben.
 
 ## Verbundene Konzepte
 

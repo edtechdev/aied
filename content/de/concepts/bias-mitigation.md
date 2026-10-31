@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Minderung von Bias
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,10 @@ ai_assist:
 ## Einführung
 
 Minderung von Bias ist bedeutsam, weil [[ai-education|KI in der Bildung]] nicht neutral ist: Systeme, die auf dominanten Sprach- und Kulturdaten trainiert sind, können marginalisierte Lernende systematisch benachteiligen, von KI-basierter Bewertung, die Menschen ohne Muttersprache bestraft, bis zu [[llm|LLM]]-Tutoren, die für verschiedene Gruppen unterschiedlich antworten. Bias ist ein querschneidendes Anliegen, das in [[automated-assessment|Automatisierter Benotung]], [[automated-essay-scoring|automatisierter Aufsatzbewertung]], [[knowledge-tracing|Knowledge Tracing]], Empfehlungssystemen und [[conversational-ai|konversationellen KI]]-Tutoren auftritt.
+
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst et al. (2026)]] zeigen, dass Bias-Minderung gelehrt statt nur technisch umgesetzt werden kann: Jugendliche, die dazu angeleitet wurden, die Ausgaben eines Text-zu-Bild-Modells zu hinterfragen, produzierten systematische Bewertungen von Repräsentation, und ihre Anfragen nach Bildern von Menschen neigten vor der Intervention zu weiß.
+
+Fairness ist die am wenigsten untersuchte Dimension in der Literatur zum Vergleich von KI- und menschlichem Scoring: Von zwölf begutachteten Studien schwiegen zehn zu demografischem, sprachlichem oder sozialem Bias, und Geschlecht war die einzige getestete Dimension ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu und Abdi, 2026]]).
 
 ## Quellen von Bias
 
@@ -91,6 +99,12 @@ Minderung von Bias ist der technische Mechanismus, durch den [[equity-in-ai-educ
 - **Verständnis von Sprache in der Bewertung trennen:** automatisierte Bewertung darf Menschen ohne Muttersprache oder mit geringerer Geläufigkeit nicht für konzeptuelles Verständnis bestrafen, das sie zeigen.
 - **Systeme erklärbar machen:** Transparenz über KI-Entscheidungen ist unverzichtbar, um Bias zu erkennen und zu korrigieren.
 - **Technische und menschliche Minderung kombinieren:** paaren Sie Debiasing-Algorithmen mit menschlicher Aufsicht in der Schleife, besonders bei Fällen mit hohem Einsatz oder geringer Konfidenz.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Bias ist ein Problem von Scoring und Feedback."** Bias tritt in **Aufgabenklassen außerhalb des Scorings** ein: Drei LLMs, die **28-köpfige Software-Engineering-Kurse auf vier Teams verteilten, ordneten Männer mindestens 80% seltener zu** als die Referenzverteilung. Teamzusammenstellung trug Bias in einer Größenordnung, die dem Benoten vergleichbar war.
+- **„Die relevante Fähigkeit bereitzustellen, beseitigt den Bias."** Das Bereitstellen von Fähigkeiten **reduzierte ihn, beseitigte ihn aber nicht**: **99,2% der fähigkeitsbasierten Zuweisungen trafen eines von zwei Ground-Truth-Teams, dennoch entschied das Geschlecht zwischen gleichwertig gültigen Optionen (OR 2,53)**. Nahezu perfektes Aufgaben-Matching koexistierte mit einem Geschlechtereffekt, sodass Genauigkeit beim Hauptkriterium kein Beleg für Fairness ist.
+- **„Ein Minderungsansatz genügt."** Die Forschung illustriert **komplementäre Strategien** — darunter fairness-bewusste Modellierung —, weil der Bias, der bei der Zusammenstellung eintritt, nicht durch eine Maßnahme behoben wird, die auf Ausgabetext zielt.
 
 ## Verbundene Konzepte
 - [[differential-effects-across-learner-groups]]

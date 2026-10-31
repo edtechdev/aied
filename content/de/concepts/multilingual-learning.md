@@ -2,20 +2,24 @@
 connected_resources: [mglearn]
 title: Mehrsprachiges Lernen
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-24T20:49:56-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,12 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 - **Kultur und Kontext abbilden, nicht nur Übersetzung.** Mehrsprachige KI muss über Übersetzung hinaus zu [[culturally-relevant-pedagogy|kulturell relevanter Pädagogik]] gelangen — Inhalte erzeugen, die sprachlich und kontextuell angemessen sind ([[llm-cultural-relevance-k12|K-12-Kulturrelevanz]]).
 - **KI mit mehrsprachigen Unterstützungsstrukturen paaren.** Nutzen Sie sprachdominante und mündliche Modi ([[kutti-ai-voice-first-learning-companion|sprachdominierte Begleiter]]), wo textbasierte KI versagt, und stützen Sie [[self-regulated-learning|Selbstregulation]] in bilingualen Kontexten ([[bilingual-llm-lecture-companion-srl-2026|bilingualer Vorlesungsbegleiter]]).
 - **Die digitale Kluft im Blick behalten.** Monolinguale Voreingenommenheit in der KI vertieft die [[digital-divide]] und untergräbt Zugang im [[global-south]] — planen Sie gerechte Infrastruktur und Zugang neben der Werkzeugwahl ein.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Zielsprache sollte vom ersten Tag an dominieren."** In einem **systematischen Review von 24 Studien** forderten Lernende **kontextualisierte Phrasen und Erklärungen in ihrer eigenen Sprache als Brücke in die Zielsprache** an — eine Nutzung, die die Rezensentinnen und Rezensenten als echte neue Teil-Angebotsform einstufen statt als Behelf. Herkunftssprachliche Unterstützung funktionierte als Gerüst, nicht als Vermeidung.
+- **„KI-Sprachassessment ist gegenüber mehrsprachigen Schreibenden voreingenommen."** Hier folgte der Bias der **menschlichen Baseline statt dem Modell**: LLM-basiertes komparatives Urteilen zu **informationsorientiertem Schreiben der Klassenstufen 3–6 konvergierte mit den Rubriken der Forschenden (r = .59–.73)** und zeigte dasselbe Muster wie die menschlichen Bewertenden. Das ist kein Beleg für Fairness in absoluten Begriffen — es ist ein Beleg dafür, dass das Modell keine neue Verzerrung auf die bestehende legte.
+- **„Die Übersetzungsqualität der Ausgabe ist der nützliche Teil."** Die Brückennutzung ist erklärend und situiert, nicht substitutiv. Ein Werkzeug, das die eigene Produktion der lernenden Person ersetzt, entfernt die Übung, die die Brücke ermöglichen sollte.
 
 ## Verbundene Konzepte
 

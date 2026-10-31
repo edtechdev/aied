@@ -1,7 +1,7 @@
 ---
 title: Identität der Lernenden
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-24T22:09:25-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,13 +10,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,16 @@ Identität der Lernenden ist das **Studierenden zugewandte** Pendant zur Identit
 ## Verbindungen
 
 Identität der Lernenden verbindet sich mit [[agency|Handlungsfähigkeit]] (Identität wird durch agentische Autorschaft vollzogen), [[self-efficacy|Selbstwirksamkeit]] (Kompetenzüberzeugungen, die Identität aufrechterhalten), [[motivation|Motivation]] und [[self-determination-theory|Selbstbestimmungstheorie]] (Identitätsbildung befriedigt Bedürfnisse nach Autonomie und Kompetenz), [[student-experience|Erleben der Studierenden]] und [[student-engagement|studentischem Engagement]], und [[stem-education|STEM-Bildung]] (wo fachliche Identität ein zentrales Ergebnis und Prädiktor von Persistenz ist). Sie wird auch durch [[situated-learning|situiertes Lernen]] und [[critical-pedagogy|kritische Pädagogik]] geformt (Identität als Partizipation und als machtbeladene Aushandlung) und verbindet sich mit [[authentic-assessment|authentischem Assessment]] (Aufgaben, die Lernenden erlauben zu performen und damit eine Identität zu beanspruchen). Ihre Relevanz für [[higher-ed|Hochschulbildung]] und [[k-12|K-12]] überspannt sowohl Schulbildung als auch professionelle Vorbereitung.
+
+## Verbreitete Fehlvorstellungen
+
+**„Die Identität der Lernenden ist ein stabiles Merkmal, das ein Kurs berücksichtigen kann."** Besser behandelt man sie als etwas, das **durch Partizipation, Anerkennung und Autorschaft fortlaufend aufgebaut wird**. Diese Verschiebung ändert die Designfrage von der Passung an eine bestehende Identität hin zur Gestaltung derjenigen, die der Kurs ermöglicht — und eine KI, die die Arbeit erledigt, entfernt eine der drei Zutaten, weil die Autorschaft der Ursprung des Identitätsanspruchs ist.
+
+**„Identitätsfragen gehören zu Studierenden aus unterrepräsentierten Gruppen."** Identität entsteht bei jeder lernenden Person daraus, ob ihre Partizipation anerkannt wird, was sie zu einer allgemeinen Designbedingung statt zu einer Sonderregel macht. Sie als gezieltes Anliegen zu rahmen, ist der Weg, auf dem sie aufgeschoben wird.
+
+**„KI-Unterstützung senkt Barrieren und erweitert daher die Teilhabe."** Sie kann die Barriere zum Erzeugen von Arbeit senken und zugleich die Barriere zum Beanspruchen von Autorschaft verengen. Eine lernende Person, die ein flüssiges Artefakt einreicht, das sie nicht verfasst hat, hat Zugang zum Ergebnis erhalten und die Anerkennung verweigert bekommen, die die Identität dahinter aufbaut.
+
+**„Die Identität einer lernenden Person anzuerkennen ist eine Frage der Repräsentation im Inhalt."** Repräsentation zählt, und Anerkennung wird in der Praxis vollzogen: wessen Fragen aufgegriffen werden, wessen Beitrag zugeschrieben wird und wer als fähig behandelt wird. Ein Curriculum kann repräsentativ sein und dennoch die Anerkennung vorenthalten, die Identitätsbildung verlangt.
 
 ## Verbundene Konzepte
 - [[learners]] — Lernende: die Überblicksseite für die Konzepte auf der Seite der Lernenden

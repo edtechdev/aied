@@ -1,7 +1,7 @@
 ---
 title: LLM-Training und Feinabstimmung
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T22:39:12-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,13 +13,17 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -152,6 +156,13 @@ Destilliert aus der Evidenz oben, in der Ordnung, die verschwendete Rechenleistu
 ## Verbindungen zu verwandten Konzepten
 
 Diese Seite ist der *wie ein Modell gemacht wird*-Begleiter zu [[llm]], das behandelt, was große Sprachmodelle sind und wie sie sich verhalten. Sie sitzt unter [[ai-technologies]] als der Trainings-und-Anpassungs-Knoten, neben [[rag]] (die Abruf-Alternative, die meist zuerst kommt), [[prompt-engineering]] (der günstigste Hebel) und [[reinforcement-learning]] (die RL-Hälfte von Post-Training). Ihre Ausgaben speisen [[intelligent-tutoring]] und [[adaptive-learning]]; ihre häufigsten Bildungsanwendungen sind [[automated-assessment]], [[automated-essay-scoring]] und [[ai-feedback-quality]]; und ihre engsten konzeptionellen Verwandten sind [[educational-nlp]], [[simulating-students]], [[open-source]] und [[student-modeling]]. Die Risiken, die sie erzeugt, werden von [[pedagogical-safety]], [[ai-sycophancy]], [[hallucination-risk]] und [[privacy]] gehalten.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Feinabstimmung ist der Weg, ein Modell gut für Ihre Aufgabe zu machen."** Abruf und Prompting kommen **früher in der Entscheidungsreihenfolge**, und das klarste Ergebnis der Wissensbasis ist, dass Post-Training eine **dritte Wahl ist, nicht die erste**. Die Feinabstimmung eines Modells auf Bewertungsdaten verbesserte **Formatierung und Ähnlichkeit**, während eine separate Feinabstimmung **beim Erzeugen von Feedback schlicht scheiterte** — die Methode veränderte die Oberfläche und nicht die Kompetenz.
+- **„Das Modell ist die Hauptdeterminante von Lernzuwächsen."** Modell- und Prompt-Wahl erklären nur **etwa 15%** der Lücke zwischen einem LLM und Lernzuwächsen von Studierenden. Die verbleibenden 85% zu optimieren ist die Arbeit, und sie steckt nicht in den Gewichten.
+- **„Ein lokales Modell wird schlechter abschneiden als ein gehostetes, Abruf ist also ein geringerer Hebel."** In einer Evaluation mit drei Konfigurationen war **der Abruf, nicht das Modell, die Designentscheidung erster Ordnung**: das lokale LLM **ohne Abruf erreichte nur 52,3% Genauigkeit, unterhalb einer TF-IDF-Baseline**. Abruf hinzuzufügen brachte dasselbe Modell über eine Schwelle, die kein Modelltausch aus eigener Kraft erreicht hätte.
+- **„Mehr Trainingsdaten bedeuten besseres Lehrverhalten."** Die Bewertungs-Feinabstimmung, die die Formatierung verbesserte und die Feedbackerzeugung verschlechterte, ist das Gegenbeispiel im Kleinen: Optimierung gegen ein ähnlich aussehendes Ziel kann den Stellvertreter verbessern und die Sache verschlechtern, die Sie wollten.
 
 ## Verbundene Konzepte
 

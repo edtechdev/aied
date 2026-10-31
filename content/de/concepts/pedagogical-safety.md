@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Sicherheit
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T23:14:18-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,17 @@ Gestalten Sie pädagogische Sicherheit als messbare, disziplinbewusste Anforderu
 ### Verbindungen zu verwandten Konzepten
 
 Pädagogische Sicherheit ist die Schutzschicht, die [[hallucination-risk|Halluzinationsrisiko]], [[rag]], [[k-12]], [[ethics|Ethik]], [[governance|Steuerung]], [[regulation|Regulierung]] und [[llm]] mit den interaktionsebenen Anliegen von [[trust|Vertrauen]], [[scaffolding|Gerüstbildung]], [[metacognition|Metakognition]] und [[self-regulated-learning|Selbstregulation]] verbindet. Sie operiert durch [[llm-training-and-fine-tuning|Training]] und [[reinforcement-learning|RL]], hängt von [[bias-mitigation|Bias-Milderung]] und [[equity-in-ai-education|Gerechtigkeit]] ab, und ist motiviert durch die in [[ai-misuse-learning-harm|KI-Missbrauch-Lernschaden]] und den [[hazra-safetutors-pedagogical-safety-2026|Tutor-Schadenstaxonomien]] katalogisierten Schäden.
+- **Kinderschaden dringt selten über das Modell ein.** In 1.331 kodierten kindbezogenen KI-Vorfällen konzentrierte sich der Schaden auf repräsentationale, würdebezogene und psychologische Kategorien und trat gemeinsam mit Einsatz-, Governance- und Missbrauchsfehlern auf statt mit Modelldefekten, sodass Filter pro Ausgabe den dominanten Pfad verfehlen ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+**„Toxizitätsfilter und Jailbreak-Resistenz machen einen Tutor sicher.“** Konventionelle [[llm|LLM]]-Sicherheit ist notwendig, aber für Bildung nicht hinreichend. Sie adressiert, was ein Modell *sagt*; pädagogische Sicherheit adressiert, was die Interaktion mit der lernenden Person macht, einschließlich Fehlern, die kein Inhaltsklassifikator sehen kann. Ein Tutor kann jede Inhaltsprüfung bestehen und dabei systematisch Lernen erodieren oder Ungleichheit verfestigen.
+
+**„Wenn sich ein System in einem einzelnen Austausch gut verhält, ist es im Einsatz sicher.“** Risiko summiert sich über Züge: Die Schadensraten stiegen von etwa **18% in Ein-Zug-Evaluationen auf etwa 78% in Mehr-Zug-**Evaluationen. Ein-Zug-Benchmarks berichten daher eine Zahl, die viermal zu beruhigend für die Interaktion ist, die Studierende tatsächlich haben, und eine Red-Team-Suite aus isolierten Prompts zertifiziert ein System, das in einer zehnminütigen Sitzung versagt.
+
+**„Der sicherste Tutor ist der, der am meisten verweigert.“** Ein System, das „gleichmäßig verweigert“, kann Ungleichheit dennoch verfestigen, und das ist die zweite Hälfte der Beschreibung des stillen Versagens auf dieser Seite. Der Fehlermodus ist nicht nur ein Tutor, der korrekt antwortet und Lernen erodiert; es ist auch ein Tutor, dessen Verweigerungen Unterstützung ungleich über Studierende verteilen, und eine pauschale Verweigerungspolitik tauscht ein sichtbares Risiko gegen ein unsichtbares.
+
+**„Jede Sicherheitsarbeit auf Modellebene ist eine PR-Maßnahme.“** Einiges davon ist messbar. Die Arbeit zum [[llm-unlearning-math-privacy|Mathe-Unlearning]] wendet gradientenbasiertes Unlearning an, um identifizierende Informationen und schädliche Inhalte zu entfernen, und berichtet PII-Ausgaben bis hinunter zu **0,1%** und Toxizitätsraten bis **0,0%** bei erhaltener Fähigkeit. Kontrollen auf Modellebene sind eine Schicht einer geschichteten Verteidigung — allein unzureichend und nicht nichts.
 
 ## Verbundene Konzepte
 - [[guardrails]] — die Gestaltungsmechanismen, die Sicherheit implementieren

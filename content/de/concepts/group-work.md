@@ -1,7 +1,7 @@
 ---
 title: Gruppenarbeit
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-10-10T09:04:22-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-09-30T16:25:27-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-25T20:20:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -104,9 +108,19 @@ Eine zweite Forschungsrichtung behandelt KI als Teilnehmer statt als Werkzeug, u
 - **[[neurodiversity|Neurodivergente]] Lernende aufnehmen.** Strukturierte Aufgaben, kleine konstante Teams und explizite Rollendefinitionen sind Anforderungen, die KI-Kollaborationswerkzeuge stützen müssen.
 - **Zurückhaltung sorgfältig lesen.** Studierende, die KI in Gruppen vermeiden, können normative Selbstregulation ausüben — oder sich gegen Risiko und Unvertrautheit schützen. Die zwei verlangen verschiedene [[teacher-role|Lehrenden]]reaktionen.
 
+## Verbreitete Fehlvorstellungen
+
+**„KI ist eine neutrale Ergänzung des Arbeitsablaufs einer Gruppe.“** Sie restrukturiert, wohin die Interaktion der Gruppe geht. In der hier zitierten Studie verlagerte die Gruppendynamik die Interaktion von Menschen weg — **79,7% der Fragen richteten sich an Agenten (*p* = .017)** —, während Teilnehmende in einem Format des gestapelten Sprechens, in dem jede Person das Wort ergriff, einen Breite-Tiefe-Kompromiss berichteten. Ein Team, das fast vier von fünf seiner Fragen an eine Maschine richtet, übt das Nachfragen unter Peers nicht mehr ein, für das Gruppenarbeit existiert.
+
+**„Politierter Gruppen-Output ist Beleg für gute Zusammenarbeit.“** Polierter Output ist das epistemische Risiko, nicht die Beruhigung. Eine Gruppe kann ein hervorragendes Artefakt produzieren, während die Regulation der Arbeit — wer was entschieden hat, wie Dissens aufgelöst wurde, wessen Schlussfolgern geprüft wurde — in der Antwort des Modells geschah und keine Spur im Ergebnis hinterließ.
+
+**„KI hilft am meisten, wenn sie die Gruppe koordiniert.“** Koordinationsunterstützung und epistemische Unterstützung ziehen in entgegengesetzte Richtungen. Die Koordinationskosten der Zusammenarbeit zu senken kann den Druck der Gruppe senken, Bedeutung auszuhandeln, und genau dieser Prozess wird bewertet. Der Effizienz-Regulations-Trade-off ist die zentrale Designspannung, kein Implementierungsdetail.
+
+**„Gruppenarbeit ist wegen der Menschen schwierig.“** Ein Teil davon ist Aufgabendesign, weshalb KI das Schwierigkeitsprofil verändert statt es einfach zu erleichtern: Ein Werkzeug, das Fragen schnell beantwortet, verändert, womit die Gruppe ihre Zeit verbringt, und ob das eine Verbesserung ist, hängt davon ab, welche Fähigkeiten die Aufgabe entwickeln sollte.
+
 ## Verbundene Konzepte
 
-- [[pedagogical-patterns]] — Role scripts for groups sharing one AI
+- [[pedagogical-patterns]] — Rollenskripte für Gruppen, die sich eine KI teilen
 - [[ai-education]] — AI in education (umbrella)
 - [[collaborative-learning]]
 - [[assessment]]

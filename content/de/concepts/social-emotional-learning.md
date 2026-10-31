@@ -1,7 +1,7 @@
 ---
 title: Sozial-emotionales Lernen
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-24T23:32:01-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-29T06:19:06-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -57,27 +61,23 @@ Sozial-emotionales Lernen ist eng verwandt mit, aber unterschieden von emotional
 Die Forschung der Wissensbasis clustert SEL in mehrere verschiedene Unterthemen, jedes mit eigener Evidenzbasis:
 
 ### Selbstwirksamkeit und Konfidenz
-
 Eine zentrale SEL-Kompetenz (Selbstwahrnehmung/Selbststeuerung), die stark bedingt, wie Studierende mit KI interagieren. [[student-dependency-on-ai-literacy-self-efficacy-2026|Studentische Abhängigkeit von KI]] (478 israelische HE-Studierende) fand, dass während fähigkeitsbasierte KI-Kompetenz-Dimensionen *positiv* mit KI-Abhängigkeit assoziiert waren, sowohl akademische als auch KI-spezifische **Selbstwirksamkeit** und Anstrengungs-[[regulation|Regulation]] *negativ* assoziiert waren –, was bedeutet, dass KI-Kompetenz allein nicht gegen Abhängigkeit schützt; [[self-efficacy|Selbstwirksamkeit]] tut es. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] fanden, dass Studierende mit geringerer Baseline-Selbstwirksamkeit unabhängig vom Übungsformat größere Lernzuwächse erzielten, und dass Präferenz für den Tutor für tutor-basiertes Üben mehr zählte –, was den Wert unterstreicht, Übung auf motivationale Profile zuzuschneiden. Verbundene Konzepte: [[self-efficacy|Selbstwirksamkeit]], [[motivation|Motivation]], [[agency|Handlungsfähigkeit]].
 
 ### Motivation und der „KI-Verfügbarkeit"-Effekt
-
 Motivation schneidet sich mit SELs verantwortungsvoller Entscheidungsfindung und Selbststeuerung. Forschung zu [[ai-availability-student-motivation|KI-Verfügbarkeit und studentischer Motivation]] und [[ai-perceptions-students-teachers-motivation-2026|Motivation und Selbstwirksamkeit von Studierenden und Lehrkräften]] zeigt, dass die bloße Verfügbarkeit von KI die motivationale Orientierung und die wahrgenommene Anstrengung der Studierenden umformen kann – relevant dafür, wie KI intrinsische Motivation untergraben oder stützen könnte. [[student-dependency-on-ai-literacy-self-efficacy-2026|Selbstwirksamkeitsforschung]] rahmt Anstrengungsregulation als Gegengewicht zu KI-Abhängigkeit.
 
 ### Emotionsregulation und affektive Unterstützung
-
 Emotionsregulation ist eine Schlüssel-SEL-Kompetenz mit direkten Lernfolgen und bildet eine direkte SEL→[[learning-gains|Leistung]]-Verbindung. [[affective-computing|Affective-Computing]]-Werkzeuge wie [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] modellieren studentische Emotionen, um [[pedagogy|pädagogische]] Antworten zu formen, und [[ai-campus-wellbeing-tools|KI-gestützte Campus-Wohlbefinden-Werkzeuge]] (z. B. PsychoGPT, AURA) umspannen Prävention und Intervention.
 
 ### Scham, Schuld und emotionale Reaktionen auf KI-Nutzung
-
 Emotionen regulieren, *wie* Studierende KI-Nutzung sichtbar machen. [[shame-guilt-ai-regulation-computing-education|„Stuck in a Spiral"]] (19 Informatik-Studierende) fand, dass Scham und Schuld als soziale Regulatoren der KI-Nutzung wirken, Verbergensverhalten und selektive Offenlegung antreiben und Zyklen reduzierter Handlungsfähigkeit erzeugen. [[ai-anxiety-strategic-regulation-writing-2026|KI-Angst]] kann in strategische Regulation von KI als Lernressource transformiert werden. Diese verbinden SELs soziale Wahrnehmung und Selbststeuerung mit [[academic-integrity|akademischer Integrität]] und verantwortungsvoller KI-Nutzung.
 
 ### Vertrauen und Zugehörigkeit
-
 SEL stützt relationales Lernen und sozialen Zusammenhalt. [[finkelstein-principled-ai-education-2025|Principled AI education]] und [[ai-chatbot-collective-efficacy-collaborative-learning|KI-Chatbots für kollaboratives Lernen]] verbinden sich mit **Zugehörigkeit** und kollektiver Wirksamkeit – der geteilten Überzeugung in die Fähigkeit eines Teams, Aufgaben zu bewältigen. Das Premortem von Brookings betont, dass Überabhängigkeit von KI sozial-emotionales Wohlbefinden, Beziehungen zwischen Lehrkräften und Peers sowie [[privacy|Datenschutz]]/Sicherheit der Studierenden bedroht – Dimensionen von Zugehörigkeit und Verbundenheit. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Vertrauen zwischen Lehrkraft und Studierenden]] ist zentral dafür, ob KI als unterstützend wahrgenommen wird.
 
-### Persistenz, Mindset und produktiver Kampf
+Es gibt hier eine schärfere Kante der Zugehörigkeit: Empathie, die von KI gesucht wird, kann bestraft werden. [[shastry-gray-empathy-offloading-2026|Shastry und Gray (2026)]] ließen Teilnehmende über eine bedürftige Studierende lesen, die zu einem Chatbot, einer Freundin, einer Therapeutin oder zu niemandem ging. In der Chatbot-Bedingung berichteten Teilnehmende im Stillen die geringste Bereitschaft zum Empathie-Offloading, verwendeten dann aber die meisten Gleichgültigkeitswörter über diese Studierende und bewerteten sie als fremder und verzweifelter. Das Peer-Urteil über den Weg der KI-Suche verstärkt das oben dokumentierte Verbergen, weshalb Offenlegungsnormen in die SEL-Gestaltung gehören und nicht allein in die Integritätspolitik.
 
+### Persistenz, Mindset und produktiver Kampf
 SEL überlappt sich mit der anstrengungsvollen Dimension des Lernens. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifiziert geringe studentische Persistenz als wiederkehrende Herausforderung in der Bildungstechnologie, geprägt von Motivation/Zustimmung, kognitiven Straßensperren, Resilienz unter Herausforderung und Verbindung. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] warnen, dass KI, die für Anstrengung einspringt, genau die Kapazitäten erodiert, die Bildung aufbaut –, was sich an [[metacognition|Metakognition]] und dem Wert produktiven Kampfs gegenüber [[cognitive-offloading|Überabhängigkeit]] ausrichtet.
 
 ## Implikationen für Lehrende und Instruktionsdesign
@@ -101,6 +101,16 @@ SEL überlappt sich mit der anstrengungsvollen Dimension des Lernens. [[framing-
 ### Verbindungen zu verwandten Konzepten
 
 SEL verbindet sich mit [[ai-literacy|KI-Kompetenz]] (als Komplement, das KI-Kompetenz relational und ethisch macht), [[affective-computing|affective computing]] und [[well-being|Wohlbefinden]] (den affektiven Dimensionen von KI), [[self-regulated-learning|selbstreguliertem Lernen]] (Selbststeuerung und Anstrengungsregulation), [[self-efficacy|Selbstwirksamkeit]] und [[motivation|Motivation]] (Lernendenüberzeugungen, die [[student-ai-interaction|KI-Interaktion]] moderieren), [[agency|Handlungsfähigkeit]] (Schutz der Steuerung durch Lernende gegen Abhängigkeit), [[ethics|Ethik]] (verantwortungsvolle Entscheidungsfindung), [[teacher-ai-competency|KI-Kompetenz von Lehrkräften]] (Kapazität der Lehrenden, SEL zu unterstützen), [[student-experience|Erleben der Studierenden]] (Wohlbefinden und Zugehörigkeit) und [[learning-gains|Lernzuwächsen]] (der Evidenz, dass SEL Leistung stützt). Sie bezieht sich auf [[higher-ed|Hochschulbildung]] und [[k-12|K-12]] als die Settings, in denen SEL-durchtränkte KI-Kompetenz kultiviert wird.
+
+## Verbreitete Fehlvorstellungen
+
+**„SEL und emotionale Intelligenz sind dasselbe Konstrukt."** Sie sind verwandt und verschieden: SEL/SEC benennt eine Menge von Kompetenzen — die Fähigkeit, Gedanken, Emotionen und Handlungen für positive Interaktion zu synchronisieren —, während emotionale Intelligenz eine individuelle Fähigkeit benennt, Emotionen wahrzunehmen und zu steuern. Ein Werkzeug kann die emotionale Selbstwahrnehmung einer lernenden Person erhöhen, ohne irgendeine sozial-emotionale Kompetenz zu entwickeln, und ein Programm kann kollaborative Kompetenz bei Studierenden aufbauen, deren emotionales Selbstbild unverändert bleibt. Weil beide unterschiedlich gemessen werden, ist Evidenz für das eine keine Evidenz für das andere.
+
+**„Ein KI-Tutor, der empathisch antwortet, entwickelt sozial-emotionales Lernen."** Emotionale Responsivität ist eine Eigenschaft der Darbietung; SEL ist ein Kompetenzergebnis, und beide sind nicht automatisch verknüpft. Die relationalen Dimensionen des Lernens sind genau jene, von denen diese Literatur sagt, KI müsse sie *ergänzen statt ersetzen*, was Empathie im Werkzeug zu einer Frage danach macht, was sie ersetzt, statt zu einem Nutzen an sich. Siehe [[affective-tutoring|affektives Tutoring]] für den Mechanismus, durch den eine warme Antwort den Kampf reduzieren kann, der Persistenz aufbaut.
+
+**„Geringe Persistenz ist ein Motivationsproblem, das Ermutigung beheben kann."** Persistenz ist die wiederkehrende Restriktion in der Bildungstechnologie — das Muster, das [[framing-5-percent-problem-teachers-persistence|das 5%-Problem]] benennt —, und sie wird geprägt von Motivation und Zustimmung, kognitiven Straßensperren *und* Resilienz unter Herausforderung. Ermutigung adressiert eines von drei. Eine lernende Person, die aufhört, weil das Problem ihr Arbeitsgedächtnis überstieg, leidet nicht an fehlender Beruhigung.
+
+**„Zu wissen, dass KI verfügbar ist, ändert nicht, wie Studierende Anstrengung investieren."** Es kann, und der Effekt läuft für die schwächsten Lernenden in die falsche Richtung: [[ai-availability-student-motivation|KI-Verfügbarkeit]] kann den wahrgenommenen Wert anstrengungsvollen Engagements senken, besonders bei Novizinnen und Novizen. Verfügbarkeit allein ist eine motivationale Intervention mit negativem Vorzeichen, weshalb SEL-nahes Design die Anwesenheit eines hilfreichen Systems nicht als neutral behandeln darf.
 
 ## Verbundene Konzepte
 - [[anxiety-and-stress]]
@@ -137,3 +147,4 @@ SEL verbindet sich mit [[ai-literacy|KI-Kompetenz]] (als Komplement, das KI-Komp
 - [[policy-deficit-ai-sel-2026]] — Das Politikdefizit in der KI-×-SEL-Forschung
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Mensch-KI-Komplementarität im frühen sozial-emotionalen Lernen (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Emotionale Mikro-Interventionen in Echtzeit und ein Phrasenbuch für Lehrende
+- [[shastry-gray-empathy-offloading-2026]] — Menschen lagern Empathie ab, wenn sie glauben, KI könne sie stattdessen geben (Shastry & Gray 2026)

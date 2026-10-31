@@ -1,19 +1,23 @@
 ---
 title: Item-Response-Theorie
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T20:43:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -65,6 +69,13 @@ IRT behandelt Fähigkeit (θ) und Itemparameter (Schwierigkeit, Trennschärfe, m
 ### Verbindungen
 
 IRT ist ein Fundament von [[educational-measurement|Bildungsmessung]] und [[assessment-validity|Assessmentvalidität]], untermauert [[adaptive-learning|adaptives Lernen]] (adaptive Itemauswahl) und [[student-modeling|Modellierung von Studierenden]] und verbindet sich mit [[psychometrically-aware-ai|psychometrisch bewusster KI]] (Assessment ausgerichtet an der Messtheorie) und [[knowledge-tracing|Knowledge Tracing]]. Es erscheint in [[llm-difficulty-calibration-programming-exams-2026|LLM-Schwierigkeitskalibrierung]] für Assessment in der Programmierung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„IRT setzt eine konventionelle Testdurchführung voraus."** Fähigkeit und Schwierigkeit lassen sich aus **Next-Token-Logits** zurückgewinnen: Studierendenfähigkeit θ = z^GOOD − z^BAD und Tutorzug-Schwierigkeit d = z^HARD − z^EASY zu extrahieren und in einem 1PL-Rasch-Prädiktor zu kombinieren macht dialogbasiertes Knowledge Tracing in IRT-Begriffen interpretierbar. Das psychometrische Rahmenwerk gilt für Interaktionsdaten, nicht nur für Itemantworten.
+- **„Ein Benchmark, den die meisten Modelle bestehen, ist ein guter Benchmark."** Ein standardsabgestimmter Benchmark kann **saturieren**: auf NGSS-abgestimmten Mittel- und High-School-Naturwissenschaftssets erzielten **die meisten offengewichteten Modelle über 90%**, was die klassischen Itemmetriken schwach werden ließ. Saturation bedeutet nicht, dass die Modelle exzellent sind; sie bedeutet, dass die Items nicht mehr trennen.
+- **„Itemschwierigkeit ist eine intrinsische Eigenschaft des Items."** Eine kausale Sonde, die **50 Testfragen pro Datensatz** in Richtung oder weg von einer Hypothese bearbeitete, fand, dass **schwierigkeitserhöhende Bearbeitungen die mittlere Genauigkeit um 15,27 bzw. 23,88 Prozentpunkte auf GSM8K und BBH-structured senkten**. Schwierigkeit ist eine Beziehung zwischen Item und Modell, und sie verschiebt sich, wenn sich das Item verschiebt.
+- **„IRT dient nur dem Scoring von Lernenden."** [[assessing-quality-ai-generated-exams-field-2025|Assessment KI-generierter Prüfungen]] nutzt ein **bayesianisches hierarchisches 2PL-Modell mit Pre-Test-Ankeritems, um 1.686 Studierende zu platzieren**, was Qualitätssicherung für das Assessment selbst ist statt Scoring für die studierende Person.
 
 ## Verbundene Konzepte
 

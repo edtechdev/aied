@@ -1,7 +1,7 @@
 ---
 title: Feedback-Kompetenz
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-24T23:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,13 +10,17 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,14 @@ KI verändert Feedback in zwei Richtungen, die beide die Einsätze der Feedback-
 Feedback-Kompetenz verbindet sich mit [[ai-feedback-quality]] und [[feedback|Feedbackschleife]] (die Gebeseite, die sie ergänzt), [[formative-assessment]] (der Assessmentzyklus, den sie speist) und [[self-regulated-learning]] (die [[self-assessment|Selbstbewertung]] und Anpassung, die sie stützt). Sie ist eine Teilmenge von [[ai-literacy|KI-Kompetenz]], wenn sie auf KI-generiertes Feedback angewandt wird, überschneidet sich mit [[peer-assessment|Peer-Bewertung]] in kollaborativen Kontexten und ist besonders folgenreich für [[writing-education|Schreibbildung]]. Sie verbindet sich auch mit [[metacognition|Metakognition]] und [[trust-calibration|Vertrauenskalibrierung]] — der Fähigkeit zu beurteilen, ob Feedback vertrauenswürdig ist.
 
 Danach zu handeln ist nicht dasselbe wie das Artefakt zu verbessern. Unter 22 Mathematik-Lehramtsstudierenden war selektive Annahme von KI- und Peer-Feedback die Norm (32 von 44 Episoden), dennoch verbesserten nur fünf ihre gestaltete-Aufgabe-Qualität — eine Übersetzungslücke, die die Autoren evaluativem [[evaluative-judgment|Urteilsvermögen]] statt Übernahme zuschreiben ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang und Guo (2026)]] behandeln Feedback-Kompetenz als durch Praxis entwickelbar: EFL-Peer-Reviewende, die dialogisch mit generativer KI zusammenarbeiteten, um Kommentare zu erzeugen, verbesserten ihre eigene Fähigkeit, Feedback zu beurteilen und zu nutzen, nicht nur die Kommentare, die sie lieferten.
+
+## Verbreitete Fehlvorstellungen
+
+- **„KI-Feedback verbessert kritisches Denken direkt."** Bei **421 chinesischen Undergraduates** lief die Assoziation der GenAI-Nutzung mit [[self-report-measures|selbst berichtetem]] kritischem Denken **durch die Feedback-Kompetenz**. Die Kompetenz ist der Mediator, sodass eine Intervention, die KI-Feedback hinzufügt, ohne die Fähigkeit aufzubauen, es zu lesen, den falschen Term adressiert.
+- **„Kompetenz ist eine Vorbedingung, kein Ergebnis."** Ein **Drei-Wellen-Random-Intercept-Panel von 399 chinesischen Undergraduates** fand, dass KI-Feedback-Kompetenz **späteres** agentisches Engagement vorhersagte (**β = 0,222**), sodass die Schleife in beide Richtungen läuft. Sie ist dynamisch statt ein Tor, das einmal passiert wird.
+- **„Umsetzbarkeit ist es, was Feedback das Schreiben verändern lässt."** Über drei Feedback-Überarbeitungs-Zyklen in **zwei intakten Klassen mit je 48 Studierenden** war **Verständnis die Dimension**, die den Überarbeitungsertrag trug. Feedback, das eine studierende Person nicht entschlüsseln kann, wird nicht dadurch besser, dass man es umsetzbarer macht.
 
 ## Verbundene Konzepte
 

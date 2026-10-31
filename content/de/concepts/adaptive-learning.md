@@ -1,19 +1,23 @@
 ---
 title: Adaptives Lernen
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -38,7 +42,7 @@ ai_assist:
 - **Personalisierung im großen Maßstab:** Systeme für [[personalized-learning|personalisiertes Lernen]] nutzen adaptive Algorithmen, um für jede lernende Person individuelle Lernpfade bereitzustellen. [[deeptutor]] und [[ai-powered-personalized-learning-elementary-fractions-2026|Tutoren für Brüche in der Grundschule]] zeigen adaptive Personalisierung in der Praxis.
 - **Inhaltssequenzierung:** [[adaptive-pretesting-retention|Adaptives Pretesting]] und [[adapt-adaptive-lesson-plan-transformer|Unterrichtsplan-Transformatoren]] optimieren Reihenfolge und Art der präsentierten Inhalte.
 - **Integration in intelligente Tutoring-Systeme:** [[intelligent-tutoring|Intelligente Tutoring-Systeme]] sind die kanonische Plattform für adaptives Lernen und verbinden Diagnose mit Anpassung.
-- **AutoML-gestützte Profilierung und Diagnose:** Traditionelle Bildungsmodelle haben Mühe, multisource und heterogene Daten zum Lernverhalten zu verarbeiten, was die Lernendenprofilierung und die Entwicklung diagnostischer Modelle einschränkt. Ein personalisiertes Framework zur neuronalen Architektursuche, getrieben von automatisiertem [[reinforcement-learning|maschinellen Lernen]], integriert [[multimodal|multimodale]] Bildungsdaten mit heterogenen Methoden, erzeugt diagnostische Modelle, die auf heterogene Lernendenprofile zugeschnitten sind, und unterstützt eine dynamische statt statische Analyse von Lernprozessen.
+- **AutoML-gestützte Profilierung und Diagnose:** Traditionelle Bildungsmodelle haben Mühe, multisource und heterogene Daten zum Lernverhalten zu verarbeiten, was die Lernendenprofilierung und die Entwicklung diagnostischer Modelle einschränkt. Ein personalisiertes Framework zur neuronalen Architektursuche, getrieben von automatisiertem [[machine-learning|maschinellen Lernen]], integriert [[multimodal|multimodale]] Bildungsdaten mit heterogenen Methoden, erzeugt diagnostische Modelle, die auf heterogene Lernendenprofile zugeschnitten sind, und unterstützt eine dynamische statt statische Analyse von Lernprozessen.
 
 ### Evidenz zur Wirksamkeit
 
@@ -78,6 +82,29 @@ Adaptives Lernen wird häufig mit [[personalized-learning|personalisiertem Lerne
 - **Passen Sie das Engpassmerkmal an, nicht den schwachen Durchschnitt.** Übergangsmodellierung von Wissenszuständen stufte analytisches Denken als am schwersten zu erwerben und am leichtesten zu verlieren ein – niedrigste Vorwärtsübergangswahrscheinlichkeit 0,31 und höchste Rückwärtsübergangswahrscheinlichkeit 0,22–0,23 –, was das erneute Üben des markierten Merkmals zu einem schärferen Anpassungsziel macht als die Gesamtbeherrschung ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
 - **Anpassung aus Prozesssequenzen, nicht aus aggregierten Punktzahlen.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] leiteten Scaffolding-Regeln aus der Analyse der *Reihenfolge* von 65 Dialogbeiträgen von Studierenden in Dreiergruppen ab und bewegten adaptives Lernen von aggregierten Verhaltens- oder Leistungsmaßen hin zu individuellen Prozesssequenzen; maximales Scaffolding erhöhte on-task-Verhalten, aber auch Skripting, und das Design ist ungetestet.
 
+## Verbreitete Fehlvorstellungen
+
+- **„Adaptiv bedeutet personalisiert bedeutet individualisiert.“** [[khalifeh-redefining-personalized-learning-ai-2026|Systematische Reviews]] finden diese vier Begriffe **inkonsistent über die Literatur hinweg verwendet**, was bedeutet, dass berichtete Effektstärken stark davon abhängen, wie Anpassung operationalisiert wurde, und nicht von der Anpassung selbst. Eine Metaanalyse, die Studien mit unterschiedlicher Wortverwendung poolt, poolt unterschiedliche Behandlungen, und der Durchschnitt beschreibt keine davon.
+- **„Im System erreichte Beherrschung ist gelernte Beherrschung.“** In einem **Feldexperiment mit 6.000 Mittelschullernenden** hob eine KI-unterstützte Drei-richtig-hintereinander-Regel die **plattformdefinierte Zielerreichung um etwa 28,7 Prozentpunkte, ohne** ein Transfermaß zu verbessern. Die Regel optimierte das eigene Kriterium der Plattform. Dies ist die klarste verfügbare Demonstration dafür, dass ein Beherrschungssignal ein Modell des Lernens ist und nicht das Lernen.
+- **„Auf Korrektheit basierende Adaptivität weiß, wann aufzuhören ist.“** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] fanden, dass Systeme, die Beherrschung aus Korrektheit ableiten, riskieren, **die Übung zu früh zu beenden** — das System liest eine korrekte Serie als Verständnis und zieht jene Übung zurück, die die lernende Person noch brauchte. Adaptivität, die bei Erfolg stoppt, kann genau jene Durchgänge abziehen, die Behaltensleistung erzeugen.
+- **„Der Engpass ist, wie gut die Anpassung ist.“** In einem **zweijährigen Distrikt-RCT** war die bindende Beschränkung die **Teilnahme**: das Zusammenlegen der Einschreibung auf einen einzigen Schritt hob die Teilnahme an der ersten Sitzung von etwa **45% auf 83%** allein durch Designänderungen, und die Intention-to-treat-Gewinne wuchsen entsprechend. Die klügste Anpassung dient niemandem, der sie nie erreicht.
+- **„Engagement bleibt bestehen, sobald es etabliert ist.“** Ein PRISMA-konformer Review von **44 Studien** fand die Engagementliteratur zum behavioralen Engagement verschoben und am dünnsten beim agentischen Engagement, und berichtet einen **Neuheitseffekt** — Engagement, das über die Zeit in Längsschnittstudien zu ALEX und ähnlichen Systemen abnimmt. Frühes Engagement ist keine stabile Eigenschaft des Designs.
+
+## Was das für die Praxis bedeutet
+
+**Für Lehrende und Gestaltende**
+
+- Definieren Sie Beherrschung danach, was wahr sein muss, nicht danach, was die Plattform sehen kann. Der Zuwachs von 28,7 Punkten ohne Transferverbesserung ist das Fehlermuster, gegen das zu gestalten ist: Wenn das Kriterium drei hintereinander lautet, werden Sie drei hintereinander bekommen.
+- Halten Sie die Übung über das Korrektheitssignal hinaus am Laufen, für alles, was behalten werden soll. Nutzen Sie [[desirable-difficulties|verteiltes und verschränktes]] Wiederholen, statt einem adaptiven System zu vertrauen, das entscheidet, wann eine lernende Person fertig ist.
+- Entfernen Sie Friktion bei der Einschreibung, bevor Sie den Algorithmus abstimmen. 45% → 83% Teilnahme durch das Zusammenlegen eines Schritts übertraf die meisten pädagogischen Verbesserungen in dieser Literatur.
+- Planen Sie Engagementzerfall ein. Längsschnittarbeit dokumentiert die Abnahme; ein Design, das von anhaltender freiwilliger Nutzung abhängt, braucht einen Grund, weiter genutzt zu werden.
+- Prüfen Sie, auf welchem Konstrukt ein System zu adaptieren behauptet. Behaviorales Engagement ist das am meisten untersuchte und das am wenigsten über Lernen informative; agentisches Engagement ist in der Evidenzbasis am dünnsten.
+
+**Für Entwickelnde**
+
+- Berichten Sie die operationale Definition von „adaptiv“ zusammen mit jeder Effektstärke, die Sie zitieren, weil die Definitionen in der Literatur auseinandergehen und gepoolte Zahlen diese Ambiguität erben.
+- Unterscheiden Sie Ihr Beherrschungskriterium von Lernergebnissen in Ihrer eigenen Validierung. Wenn Ihr Validierungsmaß dasselbe Signal ist, das die Anpassung antreibt, ist es keine unabhängige Evidenz.
+
 ## Verbundene Konzepte
 
 - [[online-teaching-and-learning]] — Online-Lehre und -Lernen
@@ -109,7 +136,7 @@ Adaptives Lernen wird häufig mit [[personalized-learning|personalisiertem Lerne
 - [[making-ai-tutoring-productive-mastery-math-2026]] — KI-Tutoring produktiv machen: beherrschungsbasiertes Mathematiküben
 - [[chudziak-ai-math-tutoring-platform]] — Adaptives/personalisiertes Multi-Agenten-Mathematik-Tutoring (Chudziak & Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Personalisiertes Lernen neu definiert: systematischer Review
-- [[deeptutor]]
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]

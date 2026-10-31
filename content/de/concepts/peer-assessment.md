@@ -1,7 +1,7 @@
 ---
 title: Peer-Prüfung
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-24T21:28:11-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,6 +43,8 @@ ai_assist:
 Peer-Prüfung ist eine Prüfungsgestaltungswahl, in der Studierende einen Teil der üblicherweise Lehrenden vorbehaltenen Bewertungsarbeit übernehmen. Ihre Formen unterscheiden sich darin, was Studierende produzieren und was auf dem Spiel steht: Peer-Feedback (Kommentare zu einem Entwurf, üblicherweise [[formative-assessment|formativ]] und mit geringem Einsatz), Peer-Benotung (eine zur Note beitragende Markierung), Peer-Code-Review und Gruppen- oder Teamprüfung (wo Peers das kollektive Produkt oder die Beiträge der jeweils anderen bewerten). Die Form bestimmt, was Studierende üben —, das Geben eines kriterienbasierten Kommentars baut [[evaluative-judgment|Bewertungsurteil]] anders auf als das Zuweisen einer Zahl, und die mündliche Verteidigung des eigenen Codes baut wieder etwas anderes auf. [[self-assessment|Selbstprüfung]], die Geschwisterpraxis, wendet dieselbe kriterienbasierte Prüfung auf die eigene Arbeit der lernenden Person an, während Peer-Prüfung sie auf die Einreichung einer Peer-Person und das damit einhergehende Publikumsbewusstsein richtet.
 
 Die Forschungsbasis ist sich einig, dass Peer-Prüfung Lernen erzeugt, und uneinig darüber, wie viel davon vom Design abhängt. Sie gibt Studierenden ein authentisches Publikum, entwickelt Bewertungsurteil durch kriterienbasiertes Antworten, und baut den sozialen Kontext, der [[student-engagement|Engagement]] und [[motivation|Motivation]] stützt. Ihre Qualität hängt stark von [[scaffolding|Gerüstbildung]] ab —, wie gut sie strukturiert ist, und ob Studierende klare Kriterien und Training erhalten. Jene Abhängigkeit ist, wo KI eintritt, als konsistente, rastergetriebene Ergänzung zum spezifischen, kontextbewussten Feedback, das Peers geben, und zunehmend als Gerüst, eingebaut in den Peer-Prüfungs-Prozess selbst.
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang und Guo (2026)]] finden, dass EFL-Studierende, die die Texte ihrer Peers in einem offenen Dialog mit einer generativen KI prüften, Feedback produzierten, das die Empfängerinnen und Empfänger als qualitativ besser bewerteten, mit Gewinnen in emotionaler Reaktion und Feedbackkompetenz, die mit der Qualität des Dialogs variierten.
 
 ## Was Studierende aus dem Bewerten von Peers lernen
 
@@ -90,6 +96,12 @@ Mehrere Gestaltungszüge folgen. Geben Sie Bewertenden Training, Beispiele und K
 GenAI-vermittelte Review erbt auch die sprachlichen Normen des Werkzeugs: Beitragende zu einem World-Englishes-Dialog argumentieren, dass GenAI nutzende Reviewer demselben Bias hin zu dominanten englischen Varietäten ausgesetzt sind wie die Modelle, und empfehlen, generierten Text zu editieren oder umzuschreiben, um die eigene sprachliche Identität der Schreibenden widerzuspiegeln ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Die offenen Fragen betreffen die Stärke der Evidenz, nicht nur das Design. Viel der Peer-und-KI-Evidenz ist klein und kontextgebunden: 45 Studierende-Lehrkräfte in einem Kurs, 34 Studierende in einem Wirtschaftsschreibkurs, 52 angehende Lehrkräfte in 15 Fokusgruppen. Die PAIRR-Befragung ist der größte Datensatz hier und misst Studierendenwahrnehmungen, nicht die Qualität der KI-Ausgaben, die Studierende beurteilten. Nur die 1.176 Studierenden des multizentrischen Experiments nähern sich kausal-vergleichender Skala, und es testet Feedbackgestaltung für wissenschaftliches Argumentieren statt Peer-Prüfung als solche. Unterdessen fand [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] beim Audit von 14 begutachteten Metaanalysen, die behaupten, KI verbessere Bildung, dass keine eine valide Basis für ihre Behauptungen bot —, alle bis auf zwei definierten die Behandlung als Werkzeug statt als pädagogische Intervention, Heterogenität war in jeder Metaanalyse hoch, die I² berichtete (77.2% bis 94.4%), und ein Audit von 59 Primärstudien fand 61% mit [[assessment-validity|Validitäts]]bedenken, am häufigsten eine Fehlanpassung zwischen dem gemessenen Ergebnis und der erhobenen Behauptung. Behauptungen darüber, was KI in Peer-Prüfung tut, sollten als Behauptungen über eine gestaltete Aktivität behandelt werden, getestet in den Begriffen jener Aktivität.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Eine mündliche Verteidigung stoppt KI-gestützte Arbeit."** Der Anteil eingefügter Zeichen **stieg von 61,0% auf 68,1% (p < 0,0001)**, nachdem jede CS1-Einreichung einer **15-minütigen mündlichen Code-Review im Wert von 70% der Note** unterworfen wurde. Das Verhalten, auf das sie zielte, nahm zu — und **die Prüfungsergebnisse fielen nicht, und die Bearbeitungszeit blieb stabil**, während **90% der Studierenden sagten, die Reviews motivierten** sie. Die Intervention wirkte auf das Verständnis, nicht auf das Einfügen.
+- **„Betrugserkennung ist der Zweck mündlicher Prüfung."** Die gemessenen Ergebnisse waren Verständnis und Motivation, nicht die Verringerung eingefügten Textes. Das Design an seiner Erkennungsrate zu beurteilen, verfehlt, was es erreicht hat.
+- **„Peer-Review ist ein billigerer Ersatz für Feedback von Lehrenden."** [[learning-by-teaching|Lernen durch Lehren]] ist der Mechanismus, und er zeigt sich selbst unter Maschinen: peer-lernartiger Diskurs unter über **2,4 Millionen KI-Agenten** war überwiegend **Behauptung statt Erkundung**. Kritik zu produzieren ist ein anderer Akt, als sie zu empfangen.
 
 ## Verbundene Konzepte
 

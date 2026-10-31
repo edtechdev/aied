@@ -1,7 +1,7 @@
 ---
 title: Missbrauch von KI reduzieren
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,13 +10,17 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,7 @@ Das Konzept ruht auf der Evidenz, dass KI-Missbrauch dauerhaftes Lernen aktiv sc
 ### Warum strukturelle Hebel am meisten zählen
 
 Interventionen können nach **kausaler Evidenz × struktureller Reichweite × Skalierbarkeit × [[sustainability|Nachhaltigkeit]]** geordnet werden. Auf dieser Basis rangieren die zwei *strukturellen* Hebel am höchsten, weil sie wirken, ob Studierende das richtige Verhalten wählen oder nicht – sie beschränken die Umgebung, statt von innerer Motivation abzuhängen. Die *bildenden* Hebel sind unverzichtbar, aber nur wirksam, wenn Studierende zustimmen, deshalb werden sie trotz ihres konzeptuellen Versprechens als zweite Stufe behandelt. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher und Calderon (2025)]] treiben das strukturelle Argument eine Ebene höher, behandeln Governance statt studentisches Verhalten als bindende Einschränkung und schlagen einen 130-Item-Integritätsindikator-Rahmen vor, damit akademische Verantwortungsträgerinnen und -träger sehen können, ob Assessment authentisch ist, ob Studierende den sie bewertenden Lehrkräften individuell bekannt sind, und ob Integrität in Einführung und Orientierung vorkommt. Ihre Reformen adressieren Governance-Architekturen, Menschen und [[ai-technologies|Technologien und Ressourcen]], und sie schlagen vor, [[guardrails|Red Teaming]] aus der Cyber-Sicherheit zu borgen, um Verwundbarkeiten des Assessments offenzulegen, bevor Studierende sie finden – eine Erinnerung, dass der strukturelle Boden von Institutionen aufrechterhalten wird, die sowohl die Information als auch den Willen brauchen, ihn aufrechtzuerhalten.
+Die Literatur zur verantwortlichen Nutzung selbst prüft diese Kette, die die Rangfolge annimmt, selten. Von 122 Ansatzdatensätzen aus 31 Studien waren 51 sowohl umgesetzt als auch evaluiert, meist über Selbstauskunft, und nur vier Studien definierten eine Grenze, gestalteten eine Intervention darum herum und testeten, ob die Entscheidungen der Studierenden dazu passten ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega und Zhao (2026)]]).
 
 ### Stufe 1 — Direkt belegt, Lernschaden zu reduzieren
 
@@ -148,3 +153,5 @@ Bildende Hebel sehen wieder anders aus, sobald Integrität als zu lehrende Praxi
 - [[li-genai-assessment-language-equity-2026]] — Wo für EAL-Schreibende Sprachunterstützung endet und Substitution beginnt (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-Injection als Missbrauchsvektor gegen KI-Benotung (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance als bindende Einschränkung von Integrität: ein Indikatorrahmenwerk mit 130 Items (Coates, Croucher & Calderon 2025)
+
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — Verantwortliche Nutzung generativer KI durch Studierende im akademischen Schreiben: ein Scoping Review zu Grenzen, Bildungsansätzen und Evidenzlücken

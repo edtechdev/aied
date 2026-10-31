@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentische KI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-24T19:40:06-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,13 +13,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,8 @@ Einen Schritt über die Orchestrierung weniger spezialisierter Agenten hinaus ge
 
 - **Teilnehmendenspezifische LLM-Agenten für kollaboratives Problemlösen.** Fang (2026) feintunt individuelle LLM-Agenten an echten Dialogdaten von Teilnehmenden, um jeden Teilnehmenden in Simulationen kollaborativen Problemlösens zu repräsentieren, mit probabilistischer Auswahl von Sprecher und thematischem Code sowie Gedächtnis aus gleitendem Fenster plus Zusammenfassung. Validiert mit [[network-analysis|Epistemic Network Analysis]] sind die simulierten Dialoge statistisch nicht von echten zu unterscheiden (ENA-Distanz 0,17, Permutation p = 0,65) — ein Beleg dafür, dass agentische KI authentischen kollaborativen Diskurs reproduzieren kann.
 - **Sozial intelligentes Multi-Agenten-Tutoring.** Prototypen sozial intelligenten Multi-Agenten-Tutorings wie ASTRA untersuchen, wie Lernende sich in Dyaden mit KI koordinieren, und nutzen differenzierte Tutor- und Facilitator-Agenten, um Koordination und ausgewogene Beteiligung anzuregen. Die spurbasierte Evaluation des Frameworks ermöglicht reproduzierbare Analysen von Interaktion, Beteiligungsbalance und Verifikation in der Einführungsprogrammierung.
+
+**Eine organisatorische Antwort: die lernende Person als teilnehmendes Mitglied statt als Empfängerin.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] setzen eine human-partizipative Multi-Agenten-Organisation um, in der spezialisierte Agenten ein revidierbares Capability Program pflegen, das persönliche Ziele, multimodale Aktivitäten und geschichtetes Assessment verbindet, wobei ein korrigierbarer „Human Node“ die eigenen Belege und Einwände der lernenden Person in spätere Revisionen trägt. Gegenüber der nächstliegenden Multi-Agenten-Baseline über 96 simulierte Lernendenfälle konzentrierte sich der Vorteil auf das Assessment-Design: 19,32 Punkte höher bei der Assessment-Validität (95%-KI [17,55; 21,04]) und 5,89 bei der Abdeckung von Fähigkeiten, während sich die Personalisierung nicht trennte (1,35 Punkte, Intervall über null). In einer randomisierten Studie mit 32 Lernenden betrug der Wissenszuwachs in einem objektiven 50-Punkte-Test 12,19 gegenüber 5,61 Punkten.
 
 ## Die zentrale Spannung: Automatisierung versus Lernen
 
@@ -205,6 +211,7 @@ Agentische KI ist weder Allheilmittel noch unvermeidlicher Schaden: Ihr Wert hä
 
 ## Verbundene Artikel
 
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenten, organisiert um ein revidierbares Capability Program, mit der lernenden Person als Mitglied
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, Kompetenz, Verbundenheit und soziale Präsenz als Pfade von agentischer KI zu Engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — KI-Agenten, freudiges Assessment und Dritter Raum
 - [[ilieva-agentic-genai-higher-education-2026]] — Das AGAI-HE-Framework: begrenzte, menschlich überwachte agentische GAI in der Hochschulbildung (Ilieva et al. 2026)

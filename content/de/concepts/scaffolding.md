@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding (Gerüstbildung)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T23:14:18-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,13 +11,17 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-10-24T06:40:00-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -94,6 +98,12 @@ Die Unterscheidung regelgeleitet versus ad-hoc reicht über den Tutor hinaus bis
 - **Ein korrekt beschränkter Scaffold scheitert dennoch, wenn die Beschränkung nicht administriert wird.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] baute, was die obige Unterscheidung vorschreibt — ein Budget von 25 Hinweisen pro Sitzung, eine 15-Minuten-Obergrenze für KI-Nutzung, eine verpflichtende Reflexion am Sitzungsende, und keinen erzeugten Code —, und randomisierte 33 Masterstudierende zwischen ihm und unbeschränkter [[generative-ai|generativer KI]]-Nutzung über sieben Wochen. Aufgabenleistung und Konzept-Inventar-Zugewinne unterschieden sich nicht zwischen den Bedingungen. Das Hinweisbudget wirkte nicht als Rationierungsmechanismus: manche Studierenden gaben den Großteil für die ersten Probleme aus und hatten keine mehr für die anspruchsvollen übrig, andere endeten mit den meisten ungenutzt, und innerhalb der Coach-Bedingung waren es die Studierenden, die bereits eine absichtsvolle Strategie für das Ausgeben eines Hinweises hatten, die höher punkteten. Die Beschränkung hob berichtetes [[self-efficacy|Vertrauen]] und folgte den Studierenden aus dem Klassenzimmer hinaus als Gewohnheit des Sich-selbst-Befragens (ob eine Frage es wert war, das Werkzeug zu fragen), aber sie belohnte bestehende Selbststeuerung statt sie zu entwickeln. Auditierbarkeit eines Scaffolds und die Kapazität einer lernenden Person, ihn zu nutzen, sind getrennte Bedingungen.
 
 - **Ein Scaffold, den die lernende Person nicht verifizieren kann, ist ein flüssiges Substitut.** Weil [[chemistry-education|Chemie]] über beobachtbare Phänomene, Teilchenmodelle und symbolische Notation hinweg denkt, kann eine erzeugte Antwort lokal überzeugend und global falsch sein. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit und Rivera Álvarez (2026)]] platzieren Scaffolding auf der produktiven Seite ihrer Presage-Process-Produkt-Analyse und unkritisches Kopieren auf der Fehlerseite, und verlangen von Scaffolds, repräsentationale Übersetzung in beide Richtungen zu verlangen, da eine Antwort, die Neutralisation korrekt beschreibt, dennoch behaupten kann, dass jeder Äquivalenzpunkt einen pH von 7 hat. Verifikation ist in die Aufgabe gestaltet statt als Regel angekündigt: Studierende identifizieren eine falsche Annahme, korrigieren einen Einheiten- oder Mechanismusfehler, vergleichen eine symbolische Struktur mit einem submikroskopischen Modell, oder begründen die Ablehnung einer erzeugten Antwort. Weil Studierende nicht verifizieren können, was sie noch nicht verstehen, kommen [[prior-knowledge|Vorwissen]] und Scaffolding zuerst, und Prompting wird als epistemischer Akt behandelt, in dem die lernende Person die Einschränkungen spezifiziert, die die Antwort erfüllen muss.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Scaffolding ist ein konstanter Unterstützungsgrad."** Die Expertenannotation von **207 Konsultationen** zeigte, dass der Scaffolding-Bedarf **stark phasenabhängig war und früh in der Begegnung von etwa 16,1% der Studierendenäußerungen anstieg**. Ein einziger Scaffold-Grad ist an beiden Enden derselben Konsultation fehlallokiert.
+- **„Jede strukturierte Kontrollbedingung ist ein fairer Vergleich für Scaffolding."** Die Scaffolding-Bedingung übertraf eine **strukturierte Progressive-Disclosure-Kontrolle** in der abschließenden OSCE-konformen [[summative-assessment|Prüfung]] (**71,8% gegenüber 55,6%**), sodass der Zuwachs gegen eine echte pädagogische Alternative gemessen wurde statt gegen nichts.
+- **„Scaffolding-Effekte sind allgemein."** Der Zuwachs betrug **16,4 Prozentpunkte (P = 3,30e-4)**, mit der größten Verbesserung in der **Kommunikation (Hedges' g = -0.79)**. Der Effekt konzentrierte sich auf ein Outcome, sodass ein Mittelwert über Outcomes unterschätzt, wo er wirkt, und überschätzt, wo nicht.
 
 ## Verbundene Konzepte
 - [[pedagogical-patterns]] — Wo in der Sequenz Unterstützung hingehört, und warum Versuch-vor-Hilfe die lasttragende Regel ist

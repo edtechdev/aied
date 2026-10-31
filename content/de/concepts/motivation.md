@@ -1,7 +1,7 @@
 ---
 title: Lernmotivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-24T22:38:30-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-23T08:03:41-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-26T10:00:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -63,7 +67,6 @@ Motivation formt, wie Lernende das Werkzeug rahmen, und die Rahmung trägt die m
 **Motivationsgewinne sind konstruktspezifisch, nicht allgemein.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] fanden, dass ein neunwöchiges GenAI-unterstütztes [[writing-education|Schreib]]programm für 301 Lernende der Klassen 5 und 6 ihr ideales L2-Schreib-Selbst und akademische Auftriebskraft erhöhte — die aspirationalen und die Resilienz-Komponenten der Motivation —, während das Growth Mindset unverändert blieb; der einzige Growth-Mindset-Zuwachs erschien in der Kontrollgruppe und überlebte die Korrektur für multiple Vergleiche nicht. Lernende führten die Verschiebung darauf zurück, flüssigen Text aus Vokabular gebaut zu sehen, das sie bereits kannten, was erfolgreiches Schreiben erreichbar anfühlen ließ. Motivation ist also kein einzelner Regler, den KI aufdreht: was sich verbesserte, war der Glaube, dass man *gut schreiben kann*, nicht der Glaube, dass Fähigkeit mit Anstrengung wächst. Dieselbe Konstruktspezifität erscheint, wenn GenAI selbst die Relevanzintervention ist. [[genai-math-relevance-intervention-2026|Guo, Fryer und Shum (2026)]] ließen **218 Oberstufenschülerinnen und -schüler** eine Stunde in semi-strukturiertem Dialog mit einem [[conversational-ai|Chatbot]] verbringen, der auf persönliche Relevanz zur [[math-education|Mathematik]] zielte; die kollektive, klasseneebene Version erhöhte Relevanz als Identifikation (F = 4.35, p = .014, η² = 0.04; gegenüber der Kontrolle, F = 11.11, p = .001, η² = 0.073 — ein mittlerer Effekt) und sagte im SEM Relevanz für eine spezifische Lektion eine Woche später vorher (β = 0.18, p < .01), während das Interesse am Mathematikunterricht sich nicht bewegte (F = 0.29, p = .75, η² = 0.003). Die Autoren führen die Entkopplung auf die Dosis zurück: eine einzelne einstündige Sitzung ist zu kurz, damit sich Relevanzgewinne zu Interesse am Unterricht konsolidieren.
 
 Eine Nutzenwert-Intervention ist nicht gleichförmig vorteilhaft: eine gerüstete Version produzierte keinen Gesamtzuwachs in der Wissensintegration angehender Lehrkräfte und *schadete* ihr bei Lernenden, die mit hohem wahrgenommenem Nutzenwert hereinkamen, eine Aptitude-Treatment-Interaktion, die dafür argumentiert, motivationale Unterstützung an die Startpunkte der Lernenden anzupassen ([[utility-value-intervention-teach-responsibly-genai-2026|Boos, Eder & Lachner (2026)]]).
-
 **Eine Feedbacknachricht bewegt Interesse über ihre wahrgenommene Nützlichkeit, nicht über die Dispositionen der lernenden Person.** [[jansen-argumentative-writing-feedback-receptivity-2026|Jansen et al. (2026)]] gaben 1.507 Sekundarstufenschülerinnen und -schülern eine standardisierte automatisierte Feedbacknachricht nach einem ersten Entwurf eines argumentativen Textes: globale Rezeptivität war die einzige Rezeptivitätsdimension, die mit situativer Interessenveränderung verwandt war (etwa 0.11 Punkte auf der beobachteten Skala, grob das 54. gegenüber dem 46. Perzentil), und dieser Effekt war vollständig durch wahrgenommene Nützlichkeit vermittelt (indirekt β = 0.09, 95% CI [0.06, 0.13]) ohne signifikanten direkten Pfad mehr (β = 0.06, 95% CI [−0.07, 0.16]), sodass das, was Interesse verschob, der gefühlte Wert der Nachricht war statt der allgemeinen Haltung der lernenden Person gegenüber Feedback.
 
 **Motivation und Beharrlichkeit von Lehrkräften** untersucht Motivation unter Bildungsakteuren. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studiert Beharrlichkeit von Lehrkräften mit KI-Werkzeugen, und **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** fanden, dass bedürfnisunterstützende [[educational-development|professionelle Entwicklung]] nachhaltiges verhaltensbezogenes Engagement in professionellen Lerngemeinschaften fördert.
@@ -82,6 +85,12 @@ Motivation wirkt auch stromaufwärts der Technologiewahrnehmung, nicht nur neben
 
 Motivation ist das Elternkonstrukt der [[self-determination-theory|Selbstbestimmungstheorie]], die die psychologischen Bedürfnisse (Autonomie, Kompetenz, Verbundenheit) spezifiziert, die intrinsische Motivation aufrechterhalten. Sie verbindet sich mit [[student-experience|dem Erleben der Studierenden]] als der Erlebnisschicht motivierten Engagements, mit [[student-engagement|studentischem Engagement]] als seiner messbaren Dimension, und mit [[affective-computing|Affective Computing]] für die emotionalen Mechanismen, die Motivation formen. Motivation verbindet sich auch mit [[cognitive-offloading|Überabhängigkeit]] (KI, die [[desirable-difficulties|produktives Ringen]] reduziert), [[self-regulated-learning|selbstreguliertem Lernen]] (motivierte Lernende regulieren sich selbst) und der [[teacher-role|Lehrkräftenschaft]] (Motivation gilt für Bildungsakteure ebenso wie für Studierende).
 
+## Verbreitete Fehlvorstellungen
+
+- **„Der Motivationseffekt von GenAI ist ein sauberer, großer Gewinn.“** Eine Metaanalyse über 42 Studien (56 Effektstärken, 6.059 Lernende) fand einen Motivationseffekt von g = 0,764 (95% KI [0,566, 0,962]) **aber mit I² = 93,7%**. So hohe Heterogenität bedeutet, dass die gepoolte Zahl eine Menge von Studien beschreibt, die einander widersprechen, sodass sie ein Durchschnitt über inkonsistente Behandlungen ist statt ein reproduzierbarer Effekt.
+- **„Frustration zu senken ist dasselbe wie Motivation aufrechtzuerhalten.“** Ein dreiarmiges [[rct|RCT]] fand, dass ein gerüsteter Tutor und uneingeschränktes ChatGPT **Frustration gleichermaßen senkten** (3,21 und 3,13). Zwei sehr unterschiedliche Designs erzeugten dasselbe affektive Ergebnis, sodass Frustrationsdaten nicht zwischen ihnen unterscheiden können.
+- **„Ein motivierendes Design ist ein gutes Design.“** Bei **222 Erstsemestlerinnen und Erstsemestern der Oberstufe** erhöhte ein Lehrkraft-Lehrkraft-Dialogformat die ARCS-Motivation stärker als die Alternative, ohne die Gesamtevaluation zu verbessern. Motivation bewegte sich, beurteilte Qualität nicht.
+
 ## Verbundene Konzepte
 
 - [[learners]] — Lernende: der Überblick über die Konzepte auf der Seite der Lernenden
@@ -99,6 +108,7 @@ Motivation ist das Elternkonstrukt der [[self-determination-theory|Selbstbestimm
 - [[social-emotional-learning]] — Sozial-emotionales Lernen
 
 ## Verbundene Artikel
+
 
 - [[high-school-genai-acceptance-tam-physics-2026]] — Erwartungs-Nutzenwert-Überzeugungen als Vorläufer der GenAI-Akzeptanz
 - [[liu-ai-assistance-reduces-persistence-2026]] — Kurze KI-Nutzung reduzierte die Beharrlichkeit bei späteren ununterstützten Problemen (Liu et al. 2026)

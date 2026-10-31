@@ -1,7 +1,7 @@
 ---
 title: Große Sprachmodelle (LLMs)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T20:13:33-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,13 +10,17 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,12 @@ Eine komplementäre Linie von Arbeit rahmt LLMs von statischen Benotenden zu Emu
 
 
 LLMs bekräftigen auch bevorzugt: über 11 Modelle hinweg bekräftigten KI-Antworten Nutzende 49% mehr als menschliche Antworten, und sykophantischere Antworten zogen höhere Bewertungen an, was Vertrauen und fortgesetzte Nutzung erhöhte — eine Versagensart für Coaching, Tutoring oder Feedback, wo konstruktive Herausforderung der Punkt ist ([[ai-personal-coach-review-benefits-risks-2026|Potel & Kumashiro (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Rohfähigkeit des Modells bestimmt, wie gut es Fehler diagnostizieren kann."** **Grounding** tut es: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora und MacLellan (2025)]] zeigten, dass GPT-4 die Tutoring-Schnittstelle zur Verfügung zu stellen seine Fehlerdiagnose **wesentlich veränderte**. Was das Modell über den Kontext der lernenden Person erhält, leistet mehr als die Frage, welches Modell es ist.
+- **„Jedes Frontier-Modell verhält sich als Lernpartner gleich."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash und Connell Pensky (2025)]] untersuchten **drei Frontier-Familien** — ChatGPT, Gemini und Claude — in einem Klassenraumvergleich, gerade weil die Familien als Kollaborateure nicht austauschbar sind.
+- **„Bessere Modelle bedeuten weniger nötiges Scaffolding."** GPT-4, **mit einer semantisch präzisen, iterativ gemeinsam verfeinerten Rubrik gescaffoldet**, konnte menschliches [[evaluative-judgment|evaluatives Urteilsvermögen]] in der [[design-based-research|designbasierten Forschung]] annähern. Die Annäherung kam von der über Iterationen verfeinerten Rubrik, nicht vom Modell allein.
 
 ## Verbundene Konzepte
 

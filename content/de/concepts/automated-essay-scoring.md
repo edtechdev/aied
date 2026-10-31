@@ -1,7 +1,7 @@
 ---
 title: Automatisierte Bewertung von Aufsätzen
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T23:32:01-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,13 +10,17 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,10 @@ ai_assist:
 Automatisierte Bewertung von Aufsätzen hat eine lange Geschichte in der Bildungstechnologie, von frühen statistischen Modellen bis zu modernen LLM-basierten Ansätzen, die Aufsätze ganzheitlich bewerten können, ohne große vorab bewertete Datensätze. Die zentrale Spannung in der AES-Forschung ist die zwischen Genauigkeit und Zugänglichkeit — während feinabgestimmte Modelle starke Ergebnisse erzielen, sind sie ressourcenintensiv und für die meisten Lehrenden unpraktisch.
 
 - **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES nutzt Belohnungsabstimmung, um LLM-Aufsatzbewertung sowohl genau als auch konsistent zu machen, und adressiert damit ein zentrales AES-Validitätsanliegen.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu und Abdi (2026)]] reviewten zwölf Studien, die KI- und menschliche Bewertung von akademischem EFL-Schreiben vergleichen, und berichten insgesamt mäßige Übereinstimmung, am stärksten bei oberflächlichen sprachlichen Merkmalen und am schwächsten bei Organisation, Kohärenz und Argumententwicklung, wobei Fairness selten untersucht wurde.
+
+Beim Antwort-auf-Text-Schreiben der oberen Grundschule finden [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]], dass automatisiertes Feedback zur Verwendung von Belegen durch die Studierenden die Merkmalspunktzahlen verbesserte und dass die Revisionsqualität davon abhing, ob Lehrkräfte das Feedback in der Diskussion aufgriffen, nicht vom System allein.
 
 ## Zentrale Forschungsthemen
 
@@ -74,6 +82,12 @@ AES liegt an der Schnittstelle von [[automated-assessment|automatisiertem Prüfe
 - **Übereinstimmung, Fehler und was ein hybrider Scorer hinzufügt.** In einem kleinen offenen Korpus von Marketing-Texten übertraf das LLM sowohl deterministische Regeln als auch einen Hybrid mit gleicher Gewichtung bei absoluter Übereinstimmung mit menschlichen Bewertenden (ICC(2,1) .435 gegenüber .266 und .091), wobei der Hybrid signifikant schlechter war als das LLM allein, während Streuung der Bewertungen und eine einzige nahezu leere Antwort zeigten, wie stark solche Schätzungen von der Zusammensetzung des Korpus abhängen ([[automated-scoring-marketing-posts-agreement-2026]]).
 
 Offene Systeme gehören ebenfalls in dieses Bild: AiAWE bewertet Argumentationsaufsätze mit einem LoRA-angepassten Gemma-3-27B-it und erreicht QWK 0.828 und Übereinstimmung innerhalb von ±0.5 der menschlichen Bewertung bei 90.56% von 360 Evaluationsaufsätzen — und berichtet, dass Modellskala die nachgelagerte Leistung unter LoRA-Anpassung nicht verlässlich vorhersagte ([[aiawe-automated-writing-evaluation]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ergebnisse automatisierter Bewertung spiegeln das Schreiben der Studierenden."** Das ordinale Signal kann **hergestellt statt beobachtet** sein — synthetische Level-1-Aufsätze, gebaut durch Vorlagenerzeugung, Degradierung auf **20–40% der Originallänge** und Entfernen von Schlüsselwörtern. Ein System, das an konstruierten Extremen validiert wurde, ist möglicherweise nie an der Verteilung getestet worden, auf die es treffen wird.
+- **„Aggregierte Genauigkeit ist die Kennzahl, die zu berichten ist."** **Eine schiefe Rubrikverteilung kann aggregierte Bewertungskennzahlen irreführend machen**: Die automatisierte Evaluation einer Rubrikdimension ist oft eine Klassifikationsaufgabe mit einseitiger Labelverteilung, bei der hohe Genauigkeit und brauchbare Diskrimination auseinanderfallen.
+- **„Feldeinsätze sind nicht evaluiert worden."** Feldbelege existieren aus einem realen folgenreichen Einsatz (**Uruguays Acredita EB, 2024**), was die stärkste Evidenzform in dieser Literatur ist und die, die die meisten Studien zur Bewertungsgenauigkeit nie liefern.
 
 ## Verbundene Konzepte
 - [[bias-mitigation]]

@@ -1,7 +1,7 @@
 ---
 title: Theorien und Rahmenwerke
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-24T19:40:06-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,13 +9,17 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -117,6 +121,16 @@ Rahmenwerke sind keine Evidenz. Sie sind meist aus Vor-LLM-Kontexten geborgt und
 
 
 Mechanismus-zu-Theorie-Ausrichtung kann dennoch entscheidend sein: eine thematische Synthese von 55 KI-unterstützten Spielbasiertes-Lernen-Studien fand, dass Wirksamkeit davon abhing, ob der KI-Mechanismus die Pädagogik umsetzte, der er dienen sollte, statt von algorithmischer Ausgefeiltheit ([[ai-game-based-learning-systematic-review-2026|Kaşarcı und Yurt (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+**„Eine geborgte Theorie auf ein KI-Werkzeug anzuwenden ist Theoriearbeit."** Viel von diesem Feld wendet geborgte Theorie an, statt sie zu testen, und der Unterschied liegt darin, ob das Rahmenwerk eine Vorhersage gemacht hat, die hätte scheitern können. Wenn eine Studie unter der Fahne eines Rahmenwerks einen Gewinn berichtet, sich aber auf keine falsifizierbare Vorhersage festlegt, ist über das Rahmenwerk nichts gelernt worden — ein Ergebnis, das zu jeder Theorie im Katalog passt, ist Evidenz für keine von ihnen.
+
+**„Der Wert eines Rahmenwerks ist, wie gut es ein System beschreibt, das Sie bereits gebaut haben."** Das ist Post-hoc-Etikettierung. Eine Taxonomie, die jedes Design aufnimmt, hat keine Unterscheidungskraft, weshalb deskriptive Rahmenwerke daran zu messen sind, was sie ausschließen. Die Evaluationsfrage lautet nicht „passt mein System hier hinein?", sondern „welche Art von System würde dieses Rahmenwerk für falsch erklären?"
+
+**„Lerntheorien, Modelle der lernenden Person und Übernahmerahmenwerke sind austauschbare Linsen."** Sie beantworten unterschiedliche Fragen — wie Lernen geschieht, was der Zustand der lernenden Person ist und warum sich eine Praxis verbreitet —, und ihre Evidenztypen unterscheiden sich entsprechend. Die falsche Schicht zu wählen erzeugt eine Studie, die die richtige Variable gegen die falsche Vorhersage misst, was als Nullergebnis liest, wo es ein Kategorienfehler ist.
+
+**„Mehr Rahmenwerke bedeuten ein reiferes Feld."** Für das KI-Zeitalter geprägte Rahmenwerke häufen sich schneller, als sie getestet werden, und Anhäufung ohne Falsifikation ist ein Symptom statt Fortschritt. Reife zeigt sich darin, dass konkurrierende Vorhersagen aufgelöst werden, nicht im Wachstum des Vokabulars.
 
 ## Verbundene Konzepte
 

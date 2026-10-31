@@ -1,20 +1,24 @@
 ---
 title: Projektbasiertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-25T00:25:09-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,27 @@ PBL verbindet sich mit [[active-learning|aktivem Lernen]], [[experiential-learni
 ### PBL mit digitalem Storytelling im KI-Zeitalter
 
 - Projektbasiertes Lernen, kombiniert mit [[storytelling-in-education|digitalem Storytelling]], bietet eine pädagogische Antwort auf [[generative-ai|generative KI]] in der Kunst- und Designbildung. Eine 15-wöchige eingebettete Fallstudie mit 426 Studierenden im Bachelorstudium implementierte ein PBL-DS-Rahmenwerk, in dem digitales Storytelling als primäre Methodik diente, damit Studierende lokales kulturelles Erbe in emotional resonante, [[multimodal|multimodale]] Narrative übersetzen und so die kreativen Fähigkeiten kultivieren, die KI fehlen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Der PBL-Effekt ist groß, also ist PBL mit KI zuverlässig groß."** Die einzige Drei-Ebenen-Metaanalyse zu dieser Paarung bündelt **22 kontrollierte Studien (66 Effektstärken)** und schätzt einen großen Effekt, **g = 0.819, 95% CI [0.655, 0.983]** — doch eine PET-PEESE-Korrektur reduziert ihn, und die Schätzung beschreibt die gebündelten Studien statt das Design im Allgemeinen.
+- **„Das Werkzeug anzupassen verbessert das Ergebnis."** Der Werkzeugtyp moderierte den Effekt signifikant (**QM = 14.301, p < .001**), und die Richtung ist kontraintuitiv: ein **direkt genutzter allgemeiner Chatbot bündelte höher (g = 0.970)** als Systeme, die **in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0.455)**. Das nackte Werkzeug übertraf das konstruierte, was dagegen spricht, zweckgebaute Produkte als den besseren Kauf anzunehmen.
+- **„Studierende finden Offenheit das Schwierige."** In den Studierendenwahrnehmungsdaten war **Offenheit das stärkste positive Thema (22,3%)**, während **unklare Instruktionen die negativen anführten (23,7%)**. Studierende begrüßten die Freiheit und beanstandeten die Mehrdeutigkeit — eine Unterscheidung, die zählt, weil die Abhilfe eine andere ist: klarere Aufgabenrahmung, nicht weniger offene Arbeit.
+- **„Studierende, denen es gefiel, lernten mehr."** Wahrgenommenes Lernen korrelierte nur **bescheiden (r = 0,161–0,315)** mit Quizwerten. Zufriedenheit und gemessenes Lernen sind hier schwach verbunden, sodass eine positive PBL-Evaluation für sich genommen kein Beleg dafür ist, dass die Lernziele erreicht wurden.
+
+## Was das für die Praxis bedeutet
+
+**Für Lehrende**
+
+- Schreiben Sie die Aufgabenrahmung vor der Werkzeugwahl. Offenheit war das stärkste positive Thema (22,3%) und unklare Instruktionen das stärkste negative (23,7%), die Mehrdeutigkeit ist also der Punkt, an dem PBL mit KI tatsächlich scheitert.
+- Bewerten Sie Lernen getrennt von Zufriedenheit. Wahrgenommenes Lernen korrelierte nur bei r = 0,161–0,315 mit Quizwerten, eine zufriedene Kohorte ist also kein gemessenes Ergebnis.
+- Erwägen Sie den allgemeinen Chatbot vor der angepassten Plattform. Ein direkt genutzter allgemeiner Chatbot bündelte höher (g = 0.970) als Systeme, die in Kursplattformen, virtuelle Patientinnen und Patienten oder Agenten angepasst wurden (g = 0.455).
+- Behandeln Sie g = 0.819 als Obergrenze. Eine PET-PEESE-Korrektur reduziert ihn, und 22 Studien mit 66 Effektstärken sind eine schmale Basis für eine Designbehauptung.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Der Moderationsbefund ist eine Produktwarnung: einen Chatbot in eine maßgeschneiderte Umgebung zu bauen ging mit einem *kleineren* gebündelten Effekt einher. Prüfen Sie, ob die Anpassung Lernwert hinzufügt, statt Bequemlichkeit anzunehmen.
+- Wenn Sie ein PBL-Modul ausliefern, ist die Instruktionsschicht das Merkmal, das das Ergebnis erzielt, nicht das Modell.
 
 ## Verbundene Konzepte
 

@@ -1,19 +1,23 @@
 ---
 title: Verteilte Kognition
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-24T23:50:47-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-21T11:40:00-04:00"
-translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
+source_updated: "2026-10-26T08:20:00-04:00"
+translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,12 @@ Verteilte Kognition bietet sowohl eine Gestaltungs- als auch eine Evaluationslin
 Fowlin et al. (2026) operationalisieren diese Verteilung als zweiphasige Abfolge: Baue zuerst Kernkompetenzen ohne KI auf, führe dann KI als kognitiven Partner ein, dessen Vorschläge Studierende kritisch evaluieren, um automatisierungsbedingten Kompetenzverlust (Deskilling) zu verhindern ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Internalisierte gegenüber verteilter Meisterschaft.** Der Cognitive-Commons-Rahmen ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) unterscheidet Internalized Mastery (tiefes Domänenwissen in individuellen Köpfen) von Distributed Mastery (das Orchestrieren von Mensch-KI-Systemen) und argumentiert, Letzteres hänge über eine „Validation Tether“ von Ersterem ab: wirksame Überwachung verteilter/KI-Systeme setzt die internalisierte Expertise voraus, die diese Systeme möglicherweise untergraben. Das verschärft die Gestaltungsfrage von DCog — die Verteilung der Kognition darf nicht auf Kosten der Expertise gehen, die sie validiert.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein geteiltes Dokument bedeutet geteilte Kognition.“** Volumenbasierte Profile von **97 Lernenden** unterschieden sich in **Vorwissen und Autorschaft**, aber **nicht im Prompting auf aktiver Rollen- oder Verständnisebene**. Beteiligungsvolumen maß Exposition, nicht die Verteilung kognitiver Arbeit — Nutzungsanalytik eines kollaborativen Werkzeugs sagt daher wenig darüber, wer dachte.
+- **„Alle lagern gleichermaßen an KI aus.“** Novizinnen und Novizen unter Lehrkräften **delegieren einen großen Teil der kognitiven Last des Instruktionsdesigns an das KI-System** und gelangen zu einer **KI-dominanten Verteilung**, in der sie Antworten weitgehend annehmen, während erfahrene und KI-kundige Lehrkräfte anders verteilen. Expertise zeigt sich darin, wo die Last liegt, nicht nur darin, wie viel KI genutzt wird.
+- **„Mehr KI-Beteiligung bedeutet mehr Unterstützung.“** Eine KI-dominante Verteilung ist das Muster, auf das zu achten ist, weil der Anteil der menschlichen kognitiven Arbeit schrumpft, während das Outputvolumen steigt. Das System kann genau dann leistungsfähiger aussehen, wenn die nutzende Person weniger tut.
 
 ## Verbundene Konzepte
 

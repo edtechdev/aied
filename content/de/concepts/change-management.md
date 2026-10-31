@@ -1,7 +1,7 @@
 ---
 title: Veränderungsmanagement
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T09:04:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -9,13 +9,17 @@ level: [higher ed]
 confidence: medium
 institutions: [change-management]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 ---
@@ -48,7 +52,6 @@ Die Forschungsliteratur konvergiert auf mehrere Hebel des Veränderungsmanagemen
 **Fallstudien institutioneller Transformation** zeigen, wie diese Hebel in der Praxis spielen. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] analysiert den strategischen Wandel der Lingnan University über vier Dimensionen — Unterrichtsaufwertung durch KI, Priorisierung unersetzbarer menschlicher Kompetenzen, Curriculum-Erneuerung und Beibehaltung ethischer/kultureller Werte —, und veranschaulicht, wie eine alteingesessene Institution [[generative-ai|GenAI]]-getriebenen Veränderung steuern kann, ohne ihre Identität aufzugeben. Es rahmt die Transformation als intellektuell statt technozentrisch und gibt institutionellen Leitenden ein gestuftes Modell, um KI-Kompetenz zu verordnen und zugleich die humanistische Mission zu bewahren.
 
 **Evidenz zur Implementierung in Schulsystemen** verschiebt die Frage von „welches Produkt einführen“ zu „wie wird es genutzt“. Feldforschung von [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]] — 32 Klassenzimmer in 16 Schulsystemen über sieben Bundesstaaten — fand, dass dasselbe Produkt je nachdem gut oder schlecht ankam, wie die Lehrkraft den Zweck rahmte, das Dashboard beobachtete und auf das Berichtete reagierte, wobei zehnminütige Aktivitäten sich über eine ganze Stunde streckten, wo Routinen und ein klarer Platz im Rahmen und in der Sequenz fehlten. Produkte, die während der Nutzung Lehrkräftehandlungen spezifizierten, wurden näher an ihrem vorgesehenen Ansatz genutzt, und Lehrende brauchten anhaltendes Coaching statt eines einmaligen Rollouts; wo Leitende ein Produkt gut kannten, ergriffen Lehrende die gewünschten Handlungen häufiger.
-
 **Nachhaltigkeit ist eine Eigenschaft der Organisation, nicht des Werkzeugs.** Eine vierjährige randomisierte Evaluation eines nicht-generativen KI-Textnachrichten-Chatbots an der California State University, Northridge, führt Dauerhaftigkeit auf eine administrative Heimat zurück (gemeinsame Aufsicht durch das Office of Undergraduate Studies und das Office of the Registrar), eine Kommunikationsspezialistin, die jede Kampagne für eine konsistente Stimme schrieb, und genug Flexibilität im Nachrichtenmix, um den COVID-19-Schock aufzufangen — während der datenteilende Austausch über Büros hinweg für gezielte Ansprache sich als belastend genug erwies, dass gezielte Kampagnen von 36 % auf 6 % des Jahrestotals fielen ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell & Page 2026]], ein Arbeitspapier, dessen Implementierungsbefunde auf Systembeobachtung und Gesprächen mit der Verwaltung beruhen statt auf der Studie). Ihr Engagement-Ergebnis bekräftigt dieselbe Lektion: Die jährlichen Opt-out-Raten überschritten in vier Jahren nie 4 %, was die Autoren als Aufnahmebereitschaft lesen, die durch die Art, wie die Institution die Implementierung anpasste, getragen war, statt durch die Technologie selbst.
 
 **Assessmentreform** ist ein zentrales Schlachtfeld des Veränderungsmanagements. Die [[ai-assessment-scale-reform|AI-Assessment-Scale-Studie]] zeigt, dass die Implementierung des Frameworks durch inkonsistente Fachbereiche, Arbeitslastdruck und Unsicherheit behindert wurde, wobei Mitarbeitende den Prozess als „a bit of chaos and madness“ beschrieben. Das [[ethical-ai-higher-ed-game-theory|Koordinierungsspiel-Modell]] bietet eine formale Darstellung, warum politische Erklärungen allein scheitern: KI-Nutzung durch Studierende ist ein kollektiver Normbildungsprozess, und kleine, gut kalibrierte Veränderungen an Anreizen zu reflektierendem Assessment können rasche cohortweite Verschiebungen hin zu verantwortungsvoller Nutzung auslösen, während schwache oder falsch ausgerichtete Anreize es opportunistischen Praktiken erlauben zu bestehen. Das stützt pädagogiegeführte Governance gegenüber Überwachung. Die [[ai-adaptation-gap-higher-education-2026|Umfrage zur KI-Anpassungslücke]] fügt eine [[stakeholders|Stakeholder]]-Dimension hinzu: Studierende berichten höhere KI-Nutzungsintensität und wahrgenommene Nützlichkeit als Fakultät und Verwaltungspersonal, während letztere stärkere [[academic-integrity]]-Sorgen berichten — und wahrgenommene Nützlichkeit treibt [[trust]] (β = 0,402) stärker als Klarheit institutioneller Politik (β = 0,223).
@@ -58,17 +61,25 @@ Ein Workshop zu Assessmentpraxis mit 73 Lehrenden der Informatik liefert das Geg
 ## Implikationen
 
 Veränderungsmanagement in der KI-Bildung trägt sowohl positive als auch negative Implikationen. **Positiv** geben strukturierte Frameworks Institutionen einen Weg von reaktivem Krisenmanagement zu proaktiver, partizipativer Governance; sowohl [[crompton-governing-genai-higher-ed-delphi-2026|Delphi-Konsens]] als auch [[baroudi-anticipatory-governance-ai-higher-ed-2026|antizipatorische Governance]] stützen es, [[ai-literacy]] und [[ethics]] als übergreifende institutionelle Fähigkeiten zu behandeln statt als isolierte Regeln. **Negativ** vergrößert fragmentierte Einführung bestehende Lücken: Die [[adarkwah-genai-unesco-policy-2026|UNESCO-Framework-Analyse]] von 30 führenden Universitäten findet zentrale ethische und [[governance]]-Prinzipien weithin umarmt, aber [[inclusive-learning|Inklusion]], Gerechtigkeit und [[sustainability]] (Internetzugang, Geschlechterparität, Umweltwirkung) oft übersehen — und nationale KI-Bereitschaftsrankings sagen robuste institutionelle Politik nicht vorher. Das [[league-ethical-governance-student-data-2026|LEAGUE-Framework]] erweitert diese Sorge auf [[learning-analytics]] und argumentiert, Governance müsse über Compliance (FERPA/GDPR) hinaus zu Rechtmäßigkeit, Gerechtigkeit, [[agency]], Nutzen und Ethik durch Design gehen und Praktiken mit Studierendendaten transparent und pädagogisch reviewen.
- In Institutionen, wo Strategie der Infrastruktur vorausläuft, vervielfacht sich die Arbeit: Akademische Entwickelnde an zwei südafrikanischen Historically Disadvantaged Institutions nannten KI-Strategie „mehr Performance als Praxis“, und die Arbeit besteht darauf, digitale Ungleichheit — ein distributives Problem — von algorithmischer Kolonialität getrennt zu halten, einem epistemischen Problem, das vollen Zugang überdauert ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
+
+In Institutionen, wo Strategie der Infrastruktur vorausläuft, vervielfacht sich die Arbeit: Akademische Entwickelnde an zwei südafrikanischen Historically Disadvantaged Institutions nannten KI-Strategie „mehr Performance als Praxis“, und die Arbeit besteht darauf, digitale Ungleichheit — ein distributives Problem — von algorithmischer Kolonialität getrennt zu halten, einem epistemischen Problem, das vollen Zugang überdauert ([[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole, 2026]]).
 
 **Für [[administrator|Verwaltung]] und [[educational-policy-ai|Politik]] argumentiert die Evidenz für partizipatorische Governance, Infrastrukturinvestition und Kapazitätsaufbau gegenüber aspirativen Strategiedokumenten, und für die Übersetzung nationaler Politik in konkrete Unterstützung von Lehrenden statt des Erlasses von Mandaten von oben. **Für Lehrende** bedeutet Veränderungsmanagement, von Adoptierenden zu erkundungsgetriebenen Experimentierenden überzugehen, [[pedagogical-partnerships|Studierende als Partner]] einzubinden und Reform in dauerhaften pädagogischen Prinzipien zu verankern statt in Werkzeugen, die binnen Monaten obsolet sein können — mit der Einschränkung, dass professionelle Entwicklung einen vollen Designzyklus adressieren muss (Bedarfserhebung, Feedback) statt Werkzeugnutzung allein, wie die [[dot-framework-survey-2026|DOT-Framework-Umfrage]] zeigt.
 
 Eine institutionelle Fallstudie verfolgt einen jahrzehntelangen Diffusionsbogen in der Mathematik des Grundstudiums, von individueller Initiative und Peer-Workshops zu gemeinsamer Fakultätslizenzierung und zentraler Finanzierung ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
 Die Umgestaltung eines Kurses verursacht Kosten, die Institutionen einplanen sollten, nicht annehmen: Die Einführung eines KI-integrierten Kurses führte zu etwa 15 bis 20 Stunden Umgestaltungsarbeit pro Kurs, bevor laufende Anpassungen nötig wurden [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+- **Engagement erklärt sich aus Kapazität und Disposition, nicht aus Begeisterung.** Ein Rahmenwerk für Assessmentpraxis argumentiert, dass ungleichmäßige GenAI-Einführung vier Bedingungen widerspiegelt — Kapazität, Disposition und die Unterstützungen und Einschränkungen um sie herum —, nicht Widerstand, und dass ein einzelner Workshop Vokabular aufbaut, aber kein Urteil ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Die fehlende Bedingung zu benennen, sagt einer Institution, ob sie schulen, mit Ressourcen ausstatten oder den Anreiz ändern soll.
 
 ## Verbindungen zu anderen Konzepten
 
 Veränderungsmanagement ist das institutionelle Komplement zur Integration auf Klassenzimmerebene. Es operationalisiert die systemischen Bedingungen — Governance, Fakultätsentwicklung, [[student-engagement|Engagement]] von Stakeholdern und Gerechtigkeitssicherungen —, die pädagogische Innovation greifen lassen, und verbindet Politikdesign von [[educational-policy-ai]] mit [[governance]], [[educational-development]] und [[equity-in-ai-education]]-Ergebnissen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Strategische Absicht erzeugt Kapazität."** Nur **7% der Institutionen** haben leitende KI-Führungsrollen geschaffen, obwohl **49% KI als strategische Priorität** ansehen. Die Lücke liegt zwischen Erklärung und Struktur, und sie ist das wiederkehrende Versagen von KI-Veränderungsmanagement.
+- **„Ein KI-Werkzeug einzuführen ist ein Ereignis."** **Nachhaltigkeit ist eine Eigenschaft der Organisation, nicht des Werkzeugs** — eine vierjährige randomisierte Evaluation eines nicht-generativen KI-Textnachrichten-Chatbots an der California State University, Northridge illustriert den Zeithorizont. Die Evaluation lief vier Jahre, weil Dauerhaftigkeit das war, was geprüft werden musste.
+- **„Institutionen müssen schneller reagieren, nicht antizipieren."** **Antizipatorische Führung** ist der komplementäre Faden: Das [[baroudi-anticipatory-governance-ai-higher-ed-2026|Scoping-Review]] findet, Institutionen müssen von **reaktiver zu vorausschauender** Governance übergehen. Kompetent auf eine Technologie zu reagieren, die bereits angekommen ist, ist das, was die Evidenz als scheiternd dokumentiert.
 
 ## Verbundene Konzepte
 

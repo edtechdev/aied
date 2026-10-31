@@ -1,7 +1,7 @@
 ---
 title: Sokratische Methode
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T20:49:56-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,13 +12,17 @@ connected_resources: [matt-pocock-skills]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -39,6 +43,8 @@ ai_assist:
 Die sokratische Methode ist eine der ältesten pädagogischen Techniken — sie geht auf Sokrates im antiken Athen zurück — und sie hat im Zeitalter [[generative-ai|generativer KI]] neue Bedeutung gewonnen. In der [[research-methods-aied|Forschung]] zu KI in der Bildung bezeichnet die sokratische Methode KI-Systeme, die Lernende durch gelenkten Dialog einbeziehen und Fragen stellen, die die Lernenden selbst Antworten entdecken lassen, statt sie direkt zu liefern. Strukturiertes Fragen statt Antwortgeben ist eines der stärksten pädagogischen Scaffolds für tiefes Lernen; durch KI automatisiert, erzeugt es messbare Zuwächse im Schlussfolgern, erfordert aber auch sorgfältige Kalibrierung, damit Lernende nicht frustriert werden und menschliche Begleitung nicht verdrängt wird.([[hashmi-socratic-physics-chatbot-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
 
 Sokratisches und direktives Feedback veränderten unterschiedliche Dinge: Sokratisches Feedback erhöhte die Verständnisüberwachung und die Aufgabenorientierung, direktives Feedback schnitt bei der Priorisierung wesentlicher Merkmale besser ab, und nur die direktive Bedingung profitierte von einem angepassten Agenten ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi und van der Merwe (2026)]] erfassen sokratisches Fragen, das in derselben Mathematikklasse der 9. Klasse gelingt und scheitert: als eine lernende Person mit einer Hypothese ankam, zerlegte der Tutor sie in Unterfragen, bei einer strukturierten Pythagoras-Aufgabe aber wiederholte er sie nur und driftete vom Thema ab.
 
 ## Wie es im KI-Tutoring funktioniert
 
@@ -95,6 +101,7 @@ Der **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** liefer
 **[[syal-multimodal-dialogue-stem-2026|Multimodale Dialogsysteme]]** erweitern sokratisches Tutoring auf visuelle Bereiche und nutzen dabei ein Interventionsprotokoll ohne erneutes Training, das Modelle auffordert, zu beschreiben, zu schlussfolgern und sich selbst zu korrigieren — ein [[multimodal|multimodales]] sokratisches Scaffold.
 
 **[[retrieval-augmented-tutoring-algorithm-kite|Retrieval-gestütztes Tutoring]]** operationalisiert sokratische Prinzipien durch Retrieval und verankert jede Antwort in maßgeblichen Kursinhalten, statt sich allein auf das parametrische Wissen des Modells zu stützen — und adressiert damit die Lücke, dass pädagogische Qualität ohne Inhaltstreue nicht ausreicht.
+
 **Sokratisches Tutoring in der Biologielehrkräftebildung.** Ein Quasi-Experiment mit 124 angehenden Biologielehrkräften fand, dass ein ChatGPT-4-Sokratischer Tutor zu soziowissenschaftlichen Themen die Offline-Peer-Diskussion bei Argumentationsqualität übertraf (F(1,121) = 14,23, p < .001), wobei die Zugewinne sich auf Widerlegung und Gegen-Evidenz-Evaluation konzentrierten statt auf Behauptungsbildung ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 
 [[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] wendet sokratisches Fragen auf ein Thema an, bei dem das Zurückhalten der Antwort die ganze Aufgabe ist: Laien beizubringen, den logischen Fehlschluss in einem überzeugenden Text zu erkennen, den sie für stichhaltig halten. Sein Dialogagent zerlegt das eigene Argument der lernenden Person mit dem Toulmin-Modell (Behauptung, Gründe, Schlussregel), erkennt die Absicht der lernenden Person und wählt dann genau eine von vier Strategien — Responding, Evidence, Assumption, Refutation — in einer festen Prioritätsreihenfolge aus, die die Toulmin-Struktur spiegelt, wobei ein separater Prüfagent nach der Generierung kontrolliert, ob die Antwort die gewählte Strategie tatsächlich ausgeführt hat, und sie umformuliert, wenn das nicht der Fall war. Die Evaluationsmetriken sind die sokratischen Fehlschlagmodi statt der Lernzuwächse: Abweichen vom Thema, Positionswechsel (Nachgeben gegenüber der Position der lernenden Person), Wiederholung, Scheitern der Widerlegung, Scheitern der Bitte um Belege, Strategie-Fixierung, unerklärte Fehlschluss-Terminologie und passive Lenkung. Über 1.000 simulierte Dialoge pro Rahmenwerk mit einem GPT-4o-Backend bestand LFTutor durchschnittlich 84,5% der Dialoge gegenüber 61,5% bei einem Prompt, der dieselben Fallstricke auflistete, und 31,2% bei einfachem Rollenspiel-Prompting; die Ablation zeigt, dass der Zuwachs nicht aus der Toulmin-Terminologie stammt, sondern aus verifizierter Strategieausführung und absichtsbasierter Auswahl. Bei 20 menschlichen Teilnehmenden, die mit dem Tutor diskutierten, erzielte LFTutor bei acht von neun Likert-Metriken signifikant bessere Werte, darunter Hilfsbereitschaft (4,15 gegenüber 1,65), wobei Wiederholung die einzige Dimension war, bei der der Unterschied nicht signifikant war.
@@ -116,6 +123,12 @@ Die sokratische Methode ist eng mit [[scaffolding|Scaffolding]] (gerade so viel 
 3. Kann sokratische KI mit [[becerra-aicofe-feedback-2026|Peer-Feedback]] für soziale Verstärkung kombiniert werden?
 
 - **Antworten zurückhalten, um Schlussfolgern auszulösen.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] konstruieren LLM-Tutoren so, dass sie [[productive-failure|Productive-Failure]]-Pädagogik folgen, indem sie Lösungen zurückhalten und mehrere Versuche einfordern — eine sokratische Weigerung, Hilfe zu geben, außer wenn es strikt nötig ist; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] empfehlen sokratische und adversariale KI-Architekturen, die konstruktive kognitive Reibung bewahren.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Sokratisches Fragen ist einfach die Abwesenheit von Antworten."** Ein maßgeschneiderter sokratischer KI-Chatbot, in einem einführenden Mechanikkurs mit großer Hörerzahl eingesetzt (**150 Erstsemester-[[stem-education|MINT-Studierende]]**), erzeugte **messbare** Zuwächse, und das Design ist strukturiertes Fragen — eine eingeschränkte Interaktion, kein schweigendes Modell.
+- **„Der Effekt liegt hinter dem Engagement."** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna und Maes, 2026)]] ist eine **randomisierte EEG-Studie mit 50 Teilnehmenden**, die einen uneingeschränkten ChatGPT-artigen Bot mit einem **sokratischen** vergleicht und damit den Mechanismus misst, statt ihn aus Ergebnissen zu erschließen.
+- **„Einschränkungen sind das Problem, das zu entfernen ist."** Die stärkste kausale Stütze für Einschränkung weist in die andere Richtung: in einem K-12-Review schnitten Gymnasiastinnen und Gymnasiasten mit einem zweckallgemeinen Chatbot **etwa 17% schlechter in Closed-Book-Klausuren** ab als Peers mit einem eingeschränkten Werkzeug. Das uneingeschränkte Werkzeug war die schädliche Bedingung.
 
 ## Verbundene Konzepte
 

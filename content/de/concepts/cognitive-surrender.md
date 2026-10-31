@@ -1,7 +1,7 @@
 ---
 title: Kognitive Kapitulation
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,13 +13,17 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-10-29T10:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -69,13 +73,15 @@ Drei vorregistrierte Experimente adaptierten den Cognitive Reflection Test und r
 
 Die praktische Lesart ist, dass Kapitulation ein **Diskriminierungsversagen** ist statt ein Motivationsversagen. Die Teilnehmenden, die kapitulierten, versuchten nicht, Arbeit zu vermeiden; sie konnten gute von schlechten Ratschlägen nicht unterscheiden, und die Schnittstelle gab ihnen keinen Grund, es zu versuchen.
 
+Ein vorregistriertes Experiment von [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] liefert eine kontrastierende Konfiguration. Mit einem Assistenten, der durch Retrieval-Augmentierung auf das zugewiesene Arbeitsblatt begrenzt war, senkte die KI-Bedingung die kognitive Entlastung (Median −0.27), statt sie zu erhöhen, und kein Entlastungspfad trug den Anstieg der Desorganisation (0.84). Kapitulation braucht einen Assistenten, dessen Rat sich als Ganzes übernehmen lässt; ein System, das nur aus dem gegenwärtigen Material antwortet, gibt der lernenden Person weniger zu übernehmen und mehr in Einklang zu bringen.
+
 ## Kapitulation außerhalb des Labors
 
 Die Laborbefunde decken sich mit Feld- und Beobachtungsarbeiten, die unabhängig voneinander nach demselben Wort griffen.
 
 - **Verdrängung auf Populationsebene.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analysieren 3.2 Millionen ALEKS-Lerninteraktionen und 12.2 Millionen Reaktionszeiten in [[assessment|Einstufungstests]] über ein Zehnjahrespanel, wobei graphenbasierte Probleme als Kontrolle für textbasierte dienen. Studierende erledigten KI-anfällige Arbeit schneller und erzielten darauf höhere Werte, während beaufsichtigte Behaltensitems einen kumulativen Rückgang der Chancen auf eine korrekte Antwort um 25% zeigten; die Autoren nennen das Muster kognitive Kapitulation auf Populationsebene.
 - **Verifikation als die unterscheidende Variable.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] finden, dass *wie* Studierende generative KI nutzen, die [[learning-gains|Leistung]] vorhersagt, während *wie viel* sie sie nutzen, beides nicht vorhersagt: eine Nutzung mit geringer Verifikation — das unkritische Akzeptieren von Ausgaben — war mit schlechteren Ergebnissen assoziiert, evaluative Integration mit besseren.
-- **Gedankenloser Gebrauch erodiert die Ressourcen, die Selbststeuerung braucht.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao und Gu (2026)]] modellieren Annehmen-ohne-Bewerten direkt: über 487 Studierende im Grundstudium war gedankenloser Gebrauch generativer KI mit geringerem [[self-regulated-learning|selbstgesteuertem Lernen]] assoziiert (β = −0.42), teilweise über reduzierte [[motivation|Motivation]] und [[self-efficacy|Selbstwirksamkeit]].
+- **Gedankenloser Gebrauch erodiert die Ressourcen, die Selbststeuerung braucht.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao und Gu (2026)]] modellieren Annehmen-ohne-Bewerten direkt: über 487 Studierende im Grundstudium war gedankenloser Gebrauch generativer KI mit geringerem [[self-directed-learning|selbstgesteuertem Lernen]] assoziiert (β = −0.42), teilweise über reduzierte [[motivation|Motivation]] und [[self-efficacy|Selbstwirksamkeit]].
 - **Die neuronale Spur und die der Autorschaft.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|die EEG-Studie zur kognitiven Schuld]] maß [[writing-education|Aufsatzschreiben]] mit einem [[llm|LLM]], einer Suchmaschine und ohne Werkzeug: die LLM-Gruppe zeigte die schwächste neuronale Konnektivität, berichtete die geringste Autorschaft an der eigenen Arbeit und hatte Mühe, das Geschriebene zu zitieren.
 - **Kapitulation kann ungebeten kommen.** [[ai-advice-suppresses-ikt-suspension-2026|Arbeiten zur Aussetzung des Urteils]] fanden, dass die bloße Verfügbarkeit von KI-Ratschlägen die Bereitschaft der Menschen zusammensinken ließ, „Ich weiß es nicht“ zu sagen (0.06 gegenüber 0.36, und 0.03 gegenüber 0.44 über zwei Studien), während die Korrektheit fiel und die Zuversicht von etwa 30 auf 76 stieg. Einsatz brachte die Aussetzung nicht zurück, obwohl Anreize die Genauigkeit durch Förderung von Übersteuerungen verbesserten. Eine vierte Studie zeigte den Effekt ganz ohne Konsultation, das Muster einer Autovervollständigung oder einer Suchzusammenfassung statt eines Chat-Prompts.
 - **Abhängige und autonome Modi sind nur in der Folge unterscheidbar.** [[family-school-autonomy-support-genai-2026|Fan, Li und Zhang (2026)]] begleiten 589 Studierende und Berufseinsteigerinnen und Berufseinsteiger über drei Wellen: abhängige Entlastung delegiert Kerndenken und ging mit geringerer intrinsischer Motivation einher, autonome Entlastung tat das nicht, und die unmittelbare Leistung sah in beiden identisch aus.
@@ -140,3 +146,4 @@ Die Evidenz für Kapitulation als benanntes Konstrukt stützt sich stark auf ein
 - [[brcic-effortless-trap-productive-struggle-2026]] — KI so platzieren, dass die Aufgabe anstrengend bleibt
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Kalibrierungstraining
 - [[family-school-autonomy-support-genai-2026]] — abhängige gegenüber autonomer Entlastung
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Ein arbeitsblattgebundener Assistent senkte die Entlastung, statt sie zu erhöhen: eine Randbedingung der Kapitulationssignatur (Braun 2026)

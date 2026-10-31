@@ -1,7 +1,7 @@
 ---
 title: Usability-Forschung
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-10-24T21:45:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,13 +9,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,16 @@ Usability-Forschung teilt Methoden der Datenerhebung mit [[qualitative-research|
 
 - **Stärken:** benennt unmittelbar Usability-Barrieren, die Annahme und Lernen blockieren; liefert umsetzbare Designanleitung; ergänzt Wirksamkeits- und qualitative Forschung, indem sie erklärt, *warum* ein Werkzeug im Einsatz funktioniert oder scheitert; vergleichsweise schnell und kostengünstig gegenüber großen Experimenten.
 - **Grenzen:** Usability-Befunde belegen keine Lernwirkungen (ein bedienbares Werkzeug kann dennoch scheitern, etwas beizubringen); kleine Stichproben und aufgabenspezifische Settings begrenzen die Generalisierbarkeit; berichtete Zufriedenheit kann von objektiver Leistung abweichen; Abhängigkeit von Forschenden und Aufgabendesign.
+
+## Verbreitete Fehlvorstellungen
+
+**„Ein benutzbares System ist ein gutes Bildungssystem."** Usability-Forschung behandelt die Interaktion zwischen Person und System, nicht Lernendenergebnisse, und beides fällt in beide Richtungen auseinander: Ein pädagogisch mächtiges Werkzeug kann aufgegeben werden, weil es frustrierend ist, und ein reibungsloses Werkzeug kann gar nichts lehren. Leichtigkeit ist eine Vorbedingung der Nutzung, kein Beleg dafür, dass die Nutzung wertvoll war.
+
+**„Usability ist eine Politur-Aktivität am Ende der Entwicklung."** Sie ist eine Methodenfamilie mit Kerntechniken — Beobachtung, Aufgabenanalyse, lautes Denken, heuristische Prüfung —, die das Design formen statt es abzuschließen. Die Reibung erst zu entdecken, nachdem die Pädagogik festgelegt ist, führt tendenziell entweder zur Neugestaltung der Oberfläche um das Problem herum oder zur Aufgabe des Werkzeugs.
+
+**„Studierende, die ein Werkzeug aufgeben, hatten keine Motivation."** Aufgabe ist oft die korrekte Lesart der Nutzenden von Interaktionskosten, die das Design nie gemessen hat. Da ein Werkzeug, das niemand nutzt, keine Wirkung haben kann, ist die Abbruchrate selbst ein Bildungsoutcome.
+
+**„Usability-Testing ist dasselbe wie Lernen zu messen."** Sie beantworten unterschiedliche Fragen, und keines ersetzt das andere; der Fehlermodus besteht darin, eines von beiden als ausreichend für die Übernahme zu behandeln.
 
 ## Verbundene Konzepte
 

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: Kritisches Denken
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T19:40:06-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,13 +11,17 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-30T10:52:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -96,6 +100,14 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 
 **Die größte von Expertinnen und Experten bewertete Verletzlichkeit in der Wissensbasis ist kritisches Denken.** Über 65 von 30 Expertinnen und Experten bewertete Lernprozesse hinweg zogen Kritisches Denken und kritisch-analytisches Denken die höchste Störungsbewertung des Berichts auf sich (Mittelwert 4.00 von 5; 96% der Bewertenden bei 3 oder darüber), mit Verbesserung unter der Schwelle (2.40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Zehn von achtzehn höherstufigen Prozessen erreichten Konsens nur über Verletzlichkeit, was der Bericht als einseitiges Risiko liest statt als Trade-off.
 
+- **Die Struktur der Partnerschaft, nicht die Exposition, trägt den Zusammenhang.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun und Toker (2026)]] modellierten 891 US-amerikanische und türkische Studierende mit der Theorie transaktiver Gedächtnissysteme und fanden, dass weder die selbst eingeschätzte Denkfähigkeit noch das Vertrauen in die KI-Partnerschaft kritisches Denken direkt vorhersagten. Beide speisten die Vertrautheit mit GenAI, die wiederum nur zwei Verhaltensweisen vorhersagte: Spezialisierung und Koordination der Arbeit (b = 0.636) und reflexive Transformation der Ausgabe (b = 0.367). Diese Verhaltensweisen sagten kritisches Denken vorher (b = 0.230 und b = 0.175), ohne dass ein direkter Pfad übrig blieb (CFI = 0.974, RMSEA = 0.048). Dies ist die mechanismusbezogene Fassung der wiederkehrenden Nullbefunde des Feldes: Nutzungsstunden und selbst eingeschätzte Kompetenz sind keine Stellvertreter für kritisches Denken, und was eine Studie misst, wenn sie nach Exposition fragt, ist der Input der Kette und nicht ihr Ergebnis.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein besserer Prompt erzeugt besseres kritisches Denken.“** **Strukturierte Dialogsteuerung, nicht ein besserer Prompt**, trennt einen Fehlschluss-Tutor von einem debattierenden Chatbot: Jeden Zug durch **Toulmin-basierte Absichtserkennung** zu leiten, leistete die Arbeit. Der Mechanismus ist die Interaktionsstruktur und nicht der Wortlaut.
+- **„GenAI-Nutzung steigert kritisches Denken direkt.“** Die Verbindung von GenAI-Nutzung zu **selbst berichtetem** kritischem Denken lief **fast vollständig über die GenAI-[[feedback-literacy|Feedback-Kompetenz]]** — bei **421 chinesischen Studierenden** im Grundstudium vermittelte die Feedback-Kompetenz **71%** des Zusammenhangs. Die Kompetenz ist der Pfad.
+- **„Der meta-analytische Effekt ist uniform.“** Über **29 Experimente** hinweg steigerte GenAI höherstufiges Denken moderat (**g = 0.609**), wobei kritisches Denken bei **ES = 0.691** lag. Moderate gepoolte Effekte über heterogene Interventionen hinweg stützen die Kategorie und nicht ein bestimmtes Design.
+
 ## Verbundene Konzepte
 - [[metacognition]]
 - [[cognitive-offloading]]
@@ -112,6 +124,7 @@ Kritisches Denken überschneidet sich mit [[scaffolding|Scaffolding]] (KI-Unters
 - [[cognitive-surrender]]
 
 ## Verbundene Artikel
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — Kritisches Denken läuft über Arbeitsteilung und das Überarbeiten der Ausgabe, nicht über Exposition
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Ein Konsens von 30 Expertinnen und Experten: Kritisches Denken trägt die höchste Disruptionsbewertung des Berichts (Mittelwert 4,00)
 - [[pearls-epistemic-verification-2026]] — PEARLS-Rahmenwerk für epistemische Handlungsfähigkeit und die Verifikation von KI-Ausgabe (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Schichtsensitives kognitives Offloading im GenAI-unterstützten Schreiben (Chen 2026)

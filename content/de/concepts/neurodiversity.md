@@ -1,7 +1,7 @@
 ---
 title: Neurodiversität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T19:40:06-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,13 +9,17 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -80,6 +84,12 @@ Die Risikoseite hat ihre eigene Literatur. [[seung-basham-cognitive-offloading-s
 ## Verbindungen
 
 Neurodiversität verbindet sich mit [[special-education|Sonderpädagogik]], [[inclusive-learning|inklusivem Lernen]], [[universal-design-for-learning|Universal Design for Learning]] und [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]]. Sie prägt sowohl, wie KI für [[student-experience|das Erleben der Studierenden]] eingesetzt wird, als auch wie Assessments und Kompetenzprogramme gestaltet werden, um über kognitive Variabilität hinweg fair zu sein. Dafür, wie diese Befunde neben anderen Lernendengruppen sitzen – Sprache, Geschlecht, sozioökonomischer Status, Geografie –, siehe [[differential-effects-across-learner-groups|Unterschiedliche Effekte zwischen Gruppen von Lernenden]].
+
+## Verbreitete Fehlvorstellungen
+
+- **„Forschung zu Neurodiversität ist eine Nische in der AIED.“** Das Feld hat sich **um [[generative-ai|generative KI]] neu organisiert — 15 der 40 Studien** —, mit immersiven Formaten an zweiter Stelle (11). Die Literatur bewegte sich mit der Technologie, statt sich um stabile Fragen zu sammeln.
+- **„Mehr KI bei Legasthenie bedeutet bessere Unterstützung.“** [[dabaghi-ai-dyslexia-education-review-2026|Der interdisziplinäre Review zu KI bei Legasthenie (Dabaghi, D'Urso und Sciarrone, 2026)]] umfasst **72 Studien aus 2018–2024** und findet KI über eine breite Spanne von Zwecken eingesetzt. Breite der Anwendung ist kein Beleg für Wirksamkeit in einem dieser Zwecke.
+- **„Anpassungen sind der richtige Rahmen für neurodivergente Lernende.“** [[neurodivergent-computing-students|Eine Befragung von 24 neurodivergenten Informatikstudierenden und 20 neurotypischen Peers]] mit vier Tiefeninterviews fand Bedürfnisse, die **allgemeine Designanforderungen** sind — strukturierte Aufgaben, kleine konsistente Teams, explizite Rollen —, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
 
 ## Verbundene Konzepte
 - [[special-education]]

@@ -1,20 +1,24 @@
 ---
 title: Generative KI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T22:18:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -73,7 +77,28 @@ Inhaltserzeugung reicht ebenfalls über die [[math-education|Mathematik]] hinaus
 
 ### Generative KI in spezialisierten Bereichen: Legasthenie-Unterstützung
 
-Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso & Sciarrone, PRISMA-gestützt, 2018–2024, n=72) findet, dass **generative KI im Bereich der Legasthenie-Unterstützung untergenutzt ist**. GAI-Forschung (alle aus 2024) bündelt sich in intelligente [[conversational-ai|Chatbots]], Unterstützung für [[teacher-role|Lehrkräfteschulung]] und explorative Studien und überholt rasch klassisches [[machine-learning|ML]] als Werkzeug der Wahl — doch bleiben rigoroses Experimentieren und reale Validierung weitgehend abwesend. Die Zukunfts-Trend-Analyse des Reviews zeigt auf GAI-gestützte personalisierte Materialien und Echtzeit-adaptives Feedback, [[multimodal|multimodale]] diagnostische Modelle, die Blickbewegungsmessung, EEG und verhaltensbezogene [[learning-analytics|Analytics]] integrieren, NLP-getriebene [[intelligent-tutoring|intelligente Tutoring-Systeme]] und konversationelle Agenten, und auf Lehrende zielende Unterstützungswerkzeuge. Das illustriert sowohl das Versprechen generativer KI für Inhaltserzeugung und interaktive Unterstützung in einem spezialisierten Bereich mit hohem Bedarf als auch das Risiko, dass ihre Annahme der Evidenzbasis davonläuft.
+Ein interdisziplinärer systematischer Review aus dem Jahr 2026 (Dabaghi, D'Urso & Sciarrone, PRISMA-gestützt, 2018–2024, n=72) findet, dass **generative KI im Bereich der Legasthenie-Unterstützung untergenutzt ist**. GAI-Forschung (alle aus 2024) bündelt sich in intelligente [[conversational-ai|Chatbots]], Unterstützung für [[teacher-education|Lehrkräfteschulung]] und explorative Studien und überholt rasch klassisches [[machine-learning|ML]] als Werkzeug der Wahl — doch bleiben rigoroses Experimentieren und reale Validierung weitgehend abwesend. Die Zukunfts-Trend-Analyse des Reviews zeigt auf GAI-gestützte personalisierte Materialien und Echtzeit-adaptives Feedback, [[multimodal|multimodale]] diagnostische Modelle, die Blickbewegungsmessung, EEG und verhaltensbezogene [[learning-analytics|Analytics]] integrieren, NLP-getriebene [[intelligent-tutoring|intelligente Tutoring-Systeme]] und konversationelle Agenten, und auf Lehrende zielende Unterstützungswerkzeuge. Das illustriert sowohl das Versprechen generativer KI für Inhaltserzeugung und interaktive Unterstützung in einem spezialisierten Bereich mit hohem Bedarf als auch das Risiko, dass ihre Annahme der Evidenzbasis davonläuft.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Eine große Effektstärke bedeutet, dass das Werkzeug das Lernen verbessert."** Die größte Schätzung des Felds — eine [[meta-analysis-systematic-review|Metaanalyse]] von 69 Studien, die *g* = 0.7 für ChatGPT und ähnliche Werkzeuge berichtet — bündelt **unmittelbaren Aufgabenerfolg**, nicht Behalten, Transfer oder Verstehen. Dasselbe Problem gilt für die über 53 Studien gebündelte Schätzung (*g* = 0.40 Leistung, 0.72 höherrangiges Denken, 0.81 Motivation, 0.76 Schreiben): Das sind Ergebnisse, die nahe an der Intervention gemessen wurden, an Aufgaben, die der Intervention ähneln. Eine Prüfung von 14 Metaanalysen, die behaupten, KI verbessere Bildung, fand, dass **keine ihre Behauptungen belegte**. Behandeln Sie jede Schlagzeilenzahl als Beleg für Leistung unter Bedingungen, und fragen Sie, was gemessen wurde und wann.
+- **„Das neuere Modell wird es beheben."** Die Modellgeneration ist nicht die bindende Beschränkung. ChatGPT-5 erreichte bei objektiven Apothekenprüfungsitems menschliche Fakultätsangehörige (CCC 0.935–1.000), aber nicht bei Kurzantwortitems (≈0) oder Aufsätzen (0.341–0.854), und **eine strukturierte Rubrik schloss die Lücke nicht verlässlich**. Fähigkeitsgewinne bei geschlossenen Aufgaben haben sich nicht proportional auf offene Arbeit übertragen, und dort liegt der größte Teil des Assessments tatsächlich.
+- **„Nutzungsdaten zeigen, dass es funktioniert."** In der Kartierung von 394 Studien tauchte ChatGPT mit nicht genannter Version in 94 Studien auf und die 3/3.5-Familie in 66 — ein großer Teil der veröffentlichten Fähigkeitsbehauptungen beschreibt also **Modellgenerationen, die inzwischen abgelöst sind**, und viele Studien berichten die Version gar nicht. Berichtetes Verhalten ist an ein bestimmtes Modell und ein bestimmtes Datum gebunden, was undatierte Aussagen über „generative KI" unfalsifizierbar statt allgemein macht.
+- **„Es ist sicher, weil Expertinnen und Experten den Korpus annotiert haben."** Ein von mehreren Expertinnen und Experten annotierter Korpus von 4,815 Studierenden-KI-Nachrichten fand, dass nur etwa 0.68% der Nachrichten die schädlichen oder aufgabenfremden Inhalte enthielten, für deren Erkennung das Kodierschema gebaut war. Das ist ein Befund über die Basisrate, nicht über Sicherheit: Seltene Ereignisse sind selten, und die Fehlerverteilung eines Systems liegt genau in den Fällen, die ein Korpus dieser Größe kaum charakterisieren kann.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Gestalten Sie Assessment und Werkzeug gemeinsam. Wo KI bei objektiven Items stark und bei Aufsätzen unzuverlässig ist, muss ein Assessmentplan, der Aufsätze gewichtet, explizite Verifikation tragen statt eines generierten Entwurfs.
+- Nennen Sie Modell und Version in Ihren eigenen Klassenzimmerbelegen und in allem, was Sie berichten. Undatierte Aussagen lassen sich nicht prüfen, und die Version erklärt das Ergebnis oft besser als die Pädagogik.
+- Behandeln Sie den Neuheitshorizont als real und kurz. Gebündelte Effekte werden nahe an der Intervention gemessen; planen Sie den Rückgang ein, den Längsschnittarbeit dokumentiert, statt von ihm überrascht zu werden.
+
+**Für Entwickelnde**
+
+- Planen Sie nicht gegen gebündelte Effektstärken. Eine Prüfung von 14 Metaanalysen fand, dass keine ihre Behauptungen belegte, sodass eine Produktbehauptung, die auf einem Schlagzeilen-*g* ruht, auf einer Methodik ruht, die der Prüfung nicht standhält.
+- Messen Sie die Basisrate, bevor Sie sie optimieren. Eine Inzidenzrate von 0.68% bedeutet, dass der größte Teil der Qualitätsarbeit in der Fehlerverteilung stattfindet, und deren Verhalten entscheidet, ob ein Einsatz akzeptabel ist.
+- Berichten Sie Version, Datum und Aufgabentyp mit jeder Benchmarkzahl, die Sie veröffentlichen, denn eine Fähigkeitsbehauptung ohne sie ist nicht reproduzierbar.
 
 ## Verbundene Konzepte
 

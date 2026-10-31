@@ -1,7 +1,7 @@
 ---
 title: "Rechtswissenschaftliche Bildung"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-24T23:48:52-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,13 +15,17 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-16T06:18:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -81,6 +85,12 @@ In einem Experiment im Rechtskontext folgten 186 laische Entscheidungsträger in
 - Entwickelt KI-unterstützter Unterricht im juristischen Schreiben noch die Analyse, von der die Zulassung ausgeht, oder trainiert er eine Flüssigkeit, die die Bar Exam auch nicht erkennen kann?
 - Was geschieht mit sokratischem Unterricht, wenn die vorbereitende Lektüre routinemäßig delegiert wird, und ist das Schweigen des Klassenzimmers darüber ein Messproblem oder ein Designproblem?
 - Rechtswissenschaftliche Bildung produziert die Menschen, die KI in der Bildung prozessieren und [[ai-education|regulieren]] werden. Macht sie das zum natürlichen Ort, um die Arbeit der Wissensbasis zu Rechtsrisiken zu testen, oder verzerrt es die Aufmerksamkeit hin zu den Law Schools mit den lautesten Richtlinien?
+
+## Verbreitete Fehlvorstellungen
+
+- **„Law Schools haben eine Position gefunden."** Die meisten nahmen **allgemein prohibitive Haltungen** ein, oft erklärt als **Zeitkauf zum Studium der Technologie**, während **fast alle Richtlinien den einzelnen Lehrenden Entscheidungsspielraum vorbehielten**. Ein Verbot mit Lehrenden-Override ist keine gefestigte Position, sondern ein Aufschub mit Vorgabewert.
+- **„Umfrageevidenz beschreibt das Feld."** Die **Befragung der ABA von 2024** zog Antworten von nur **29 Schulen, etwa 15% der von der ABA zugelassenen Law Schools** ein, und eine LexisNexis-Befragung von **800** Praktizierenden misst eine andere Population. Keine von beiden kann als repräsentativ für rechtswissenschaftliche Bildung behandelt werden, und beide werden so zitiert, als wären sie es.
+- **„Eine KI-Empfehlung zurückzuhalten ist neutral."** In einem Experiment im Rechtskontext folgten **186 laiche Entscheidungsträger in Zivilverfahren** einer falschen KI-Position deutlich seltener, wenn das System die eigene Position zurückhielt (**5,7–8,2% gegenüber 42,0–60,5%**). Zurückhalten erzeugte keine Neutralität; es erzeugte eine starke Verringerung der Gefolgschaft, was für sich genommen ein Effekt ist.
 
 ## Verbundene Konzepte
 

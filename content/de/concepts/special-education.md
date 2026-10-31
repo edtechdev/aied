@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Sonderpädagogik
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T22:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -47,7 +51,8 @@ Sonderpädagogik ist eine Domäne, in der KI-Fähigkeit zu Personalisierung und 
 **KI für Legasthenie über Detektion, Unterstützung und personalisiertes Lernen hinweg.** Ein interdisziplinärer [[meta-analysis-systematic-review|systematischer Review]] von 2026 (Dabaghi, D'Urso & Sciarrone, PRISMA-geleitet, 2018–2024, n=72) kartiert, wie KI Studierende mit Legasthenie in der Bildung unterstützt, und findet KI genutzt für Detektion, assistive Unterstützung und personalisiertes Lernen –, aber mit diesen Strängen, die parallel statt in Integration evolvieren, stärker getrieben durch technologische Gelegenheit als durch konsolidierte Bildungstheorie. ML-basierte Hilfs-Bildung-Werkzeuge fallen in fünf Bereiche (spezifische Anwendungen, Engagement, Personalisierung, Empfehlung, generische Unterstützung), betonen dennoch technische Leistung und Klassifikationsgenauigkeit, während sie ökologische Validität und praktische Einsatz in Klassenräumen übersehen. Detektionsforschung (EEG, Eye-Tracking, ML-Modelle) priorisiert frühe Intervention und zeigt diagnostisches Versprechen, erfordert aber oft spezialisierte Ausstattung und kontrollierte Umgebungen, was Skalierbarkeit und Barrierefreiheit in typischen Schulumgebungen begrenzt. Offene Herausforderungen schließen begrenzte experimentelle Validierung, Skalierbarkeit, [[ethics|Ethik]]-/Datenschutzbedenken bei sensiblen studentischen Daten, begrenzte Unterstützung und Training für Lehrkräfte und Sprach-/Kulturschranken ein (die meiste Forschung zielt auf englischsprachige Populationen).
 
 **Kognitive Entlastung für Studierende mit Lernbehinderungen (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], ein konzeptueller Review in einer *Learning Disability Quarterly*-Sonderreihe zu KI für Studierende mit LD, rahmen [[generative-ai|GenAI]]-Nutzung für SWLDs durch die Linse der [[cognitive-offloading|kognitiven Entlastung]] neu. Sie argumentieren, dass GenAI je nachdem, wie Entlastungsentscheidungen mit den kognitiven und [[motivation|motivationalen]] Profilen von SWLDs interagieren (Exekutivfunktions- und Arbeitsgedächtnis-Herausforderungen, erhöhte kognitive Last, anstrengungsvermeidende Leistungsziele, geringere akademische Selbstwirksamkeit und aufgeblasene Erwartungen gegenüber GenAI) und mit Instruktionsdesign, eine **kompensatorische Hilfe oder ein Kurzweg** sein kann. Für Lesen und Schreiben kann GenAI Zugang stützen (Textnivellierung, Zusammenfassen, [[multimodal|multimodale]] Ausgaben, Planen, Entwerfen, Revisionsfeedback), während höherstufiges [[student-engagement|Engagement]] bewahrt wird –, aber exzessive Entlastung riskiert, die Verstehens-, Planungs- und Monitoringprozesse zu umgehen, die für diese Lernenden bereits fragil sind, „[[metacognition|metakognitive]] Faulheit" zu fördern und Literalitätsschwierigkeiten über Domänen hinweg zu verschärfen. Das Papier positioniert **instruktionale [[guardrails|Leitplanken]]** als den Schlüssel-moderierenden Faktor und empfiehlt, strategische Entlastung zu [[teacher-role|lehren]], [[ai-literacy|KI-Kompetenz]] aufzubauen, um Vertrauen in Werkzeuge zu kalibrieren, Beherrschungserfahrungen zu sequenzieren, um [[self-efficacy|Selbstwirksamkeit]] aufzubauen, und Aufgaben und Assessment an IEP-Zielen auszurichten, die Kompetenzentwicklung gegenüber Substitution priorisieren. Das erweitert die Sonderpädagogik-Abdeckung der Wissensbasis auf die Gerechtigkeitsdimension der Entlastung: dasselbe Werkzeug, das Barrieren für Zugang senkt, kann, wenn ungesichert, für die Übung einspringen, die SWLDs am meisten brauchen.
-**KI-generierte Interventionsinhalte brauchen Vorgenerierungs-Kontrollen, nicht nur Review.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] fanden, dass Praktikerinnen und Praktiker das co-gestaltete Social-Story-Werkzeug als hoch gebrauchstauglich bewerteten (SUS 86.8), seine Bilder dennoch als generisch westlich und seinen Verhaltenstracker als fehlangepasst an zielverbundene klinische Urteilskraft bezeichneten – 
+**KI-generierte Interventionsinhalte brauchen Vorgenerierungs-Kontrollen, nicht nur Review.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] fanden, dass Praktikerinnen und Praktiker das co-gestaltete Social-Story-Werkzeug als hoch gebrauchstauglich bewerteten (SUS 86.8), seine Bilder dennoch als generisch westlich und seinen Verhaltenstracker als fehlangepasst an zielverbundene klinische Urteilskraft bezeichneten — Einschränkungen, die sie schon vor der Generierung festgelegt hätten.
+
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] startet bei den Materialien statt bei der Konversation: Ein Vision-Language-Modell liest Fotografien von Shoebox-Tasks — so gestaltet, dass das Ziel in den Objekten sichtbar ist — und verwandelt sie in einen Plan, den ein Nao-Humanoid ausführt oder vorführt, wobei sie Planungsgenauigkeit über sechs Aufgaben berichtet und keine Lernendendaten.
 - **Herausforderndes Verhalten ist, wo Tutor-Benchmarks aufhören.** Von 923 fallgegründeten Dialogen aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte das beste von 11 Modellen eine dokumentierte Intervention in 55,8 % der offenen Fälle und 43,3 % der Langzeitpläne ([[tutor-case-bench-challenging-behaviors-2026|Park et al. (2026)]]).
 
@@ -59,6 +64,12 @@ Sonderpädagogik ist eine Domäne, in der KI-Fähigkeit zu Personalisierung und 
 - **KI nutzen, um Leistungslücken zu schließen (nicht zu verbreitern).** [[adhd-video-segmentation-computing-education|KI-segmentierte Videos]] beseitigten die ADHS-Leistungslücke –, adaptive KI dort einsetzen, wo Evidenz zeigt, dass sie Ergebnisse egalisiert, nicht wo sie bloß automatisiert.
 - **Behinderten-geführtes verkörpertes Design zentrieren.** [[embodied-string-learning-blindness-low-vision-musicians|Blinde/sehbehinderte Musikerinnen und Musiker]]-Forschung zeigt, dass nicht-visuelle, behinderten-geführte Strategien visuelle Standard-Schnittstellen übertreffen –, KI mit der Expertise von Lernenden mit Behinderung bauen und adaptieren.
 - **Gegen epistemische Marginalisierung absichern.** [[genai-minoritized-knowledges-disability|Kritische Perspektiven]] warnen, dass westlich-zentrierte Trainingsdaten behinderten-zentriertes Wissen marginalisieren können –, KI-Inhalte und -Werkzeuge auf epistemische Gerechtigkeit neben [[equity-in-ai-education|Gerechtigkeit]] prüfen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Gebrauchstauglichkeitsbewertungen validieren ein assistives Werkzeug."** Praktikerinnen und Praktiker bewerteten ein co-gestaltetes Social-Story-Werkzeug als **hoch gebrauchstauglich (SUS 86,8)** und nannten seine **Bilder generisch westlich** und seinen **Verhaltenstracker fehlangepasst an zielverbundene klinische Urteilskraft**. Hohe Gebrauchstauglichkeit bestand neben substanziellen Mängeln, ein SUS-Wert ist also keine Bestätigung der Passung.
+- **„Generische Benchmarks sagen Ihnen, wie ein Tutor mit sonderpädagogischen Fällen umgeht."** Von **923 fallgegründeten Dialogen** aus der Literatur der Sonderpädagogik und Bildungspsychologie erfüllte **das beste von 11 Modellen** ein dokumentiertes Kriterium — und **herausforderndes Verhalten ist, wo Tutor-Benchmarks aufhören**. Standardevaluationen erreichen die Fälle nicht, bei denen Praktikerinnen und Praktiker am meisten Hilfe brauchen.
+- **„Neurodivergente Lernende brauchen Nachteilsausgleiche, keine Designanforderungen."** [[neurodivergent-computing-students|Zastudil et al.]] fanden, dass neurodivergente Informatik-Studierende **strukturierte Aufgaben, kleine konsistente Teams und explizite Rollendefinitionen** brauchen — allgemeine Designanforderungen, die allen nützen, statt individueller Anpassungen, die nach einer Diagnose gewährt werden.
 
 ## Verbundene Konzepte
 

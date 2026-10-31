@@ -1,7 +1,7 @@
 ---
 title: Kritische Pädagogik
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-10T09:04:24-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,13 +9,17 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-28T19:29:22-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -58,9 +62,39 @@ Kritische Pädagogik unterscheidet sich von [[critical-thinking|Kritischem Denke
 - **Design-Abhilfen allein genügen nicht.** Menschzentrierte Designansätze wie value-sensitive design sind unzureichend: sie lassen die systemischen Treiber – Arbeitsproduktivitäts-Rahmungen und ökonomische Anreize – unberührt, und [[agency|Handlungsfähigkeit]] kann Nullsumme sein, sodass dem Werkzeug übergebene Fähigkeit Fähigkeit ist, die die lernende Person nicht behält ([[emancipatory-ai-learner-flourishing-2026|Prieto & Dimitriadis (2026)]]).
 - **Menschenrechtsbildung als Testfall für KI-Governance als Formierung.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] arbeitet sich durch den *about, through, for*-Rahmen der Vereinten Nationen in einem rechtswissenschaftlichen Programm und lokalisiert die Schwierigkeit nicht in der Technologie, sondern in der Pädagogik: Studierende reichten polierte schriftliche Arbeiten und polierte Sitzungsdesigns ein, ohne das Engagement, das diese Artefakte belegen sollen, und das kritischste Denken erschien in Schreiben am Kursende statt im Dialog in der Sitzung. Ihre Schlussfolgerung verschiebt die Rolle der Lehrenden, statt sie zu verkleinern – [[governance|KI-Governance]] wird zu einer professionellen Verantwortung, zu deren Anfechtung Studierende ausgebildet werden, und das [[llm|Werkzeug]] wird geleitet statt verboten.
 
+### Bewertung als Ort der Kritik
+
+Kritische Pädagogik gelangt über die Frage in die Bewertung, wessen Interessen eine Neugestaltung dient. [[assessment-redesign-critical-practice-2026|Laidlaw (2026)]] begründet das, indem sie die Theory of Practice Architectures mit kritischer Pädagogik verbindet, sodass eine Bewertungsreform drei Dinge zugleich bewegen muss: die kulturell-diskursive Sprache, die bestimmte Praktiken denkbar macht, die materiell-ökonomischen Arrangements von Werkzeugen und Ressourcen und die sozial-politische Verteilung von Macht. Die Warnung des Rahmenwerks ist konkret. Wenn Ressourcen durch bestehende Machtstrukturen fließen, ohne dass Gerechtigkeit ausdrücklich Beachtung findet, verstärkt eine gut gemeinte Neugestaltung die Ungleichheiten, die sie beheben sollte, was die Schnittstelle von Ressourcen und Macht sowohl zum größten Hebel als auch zum größten Risiko macht. Ihre vierphasige Matrix umfasst kritische Analyse, Interventionsdesign, gerechtigkeitsorientierte Umsetzung und Evaluation, und sie behandelt inkrementelle Veränderung und produktive Spannung als legitime Ergebnisse statt als Scheitern rascher Transformation.
+
 ### Die Rolle der Lehrenden
 
 Unter kritischer Pädagogik sind Lehrende keine neutralen Überträger von KI-Fähigkeiten, sondern kritische Gesprächspartnerinnen und Gesprächspartner und Facilitators, die Lernenden helfen, die Politik der KI zu befragen. Das verbindet sich mit den Konzepten [[teacher-role|Lehre]] und [[ai-literacy|KI-Kompetenz]] der Wissensbasis sowie mit dem weiteren Anliegen [[equity-in-ai-education|Gerechtigkeit]] und [[reducing-ai-misuse|Missbrauch reduzieren]]. Die Aufgabe der Lehrenden ist es, Räume zu kultivieren, in denen Gemeinschaften KI gemeinsam befragen, sich aneignen oder verweigern können – und Bildung einen Ort der Imagination und sozialen Transformation bleiben lassen.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] fügen dieser Rolle eine praktische Bedingung hinzu: offene kritische KI-Kompetenz-Arbeit verlangt von Lehrenden nicht, als KI-Expertinnen und -Experten anzukommen, nur bereit zu sein, gemeinsam mit den Lernenden zu erkunden – eine gemeinsame Untersuchung von Lernenden und Lehrkraft eines konkreten Systems, elektronischer „hall passes" (nicht alle davon KI), legte [[misconceptions|Missverständnisse]] offen und arbeitete daran, während sie zugleich technisches Wissen vertiefte. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran und Arar (2026)]] geben dieser Rolle eine konstruktivistische, sorgende Form: sie behandeln [[prompt-engineering|Prompt-Kompetenz]] als rhetorischen, ethischen und reflexiven Prozess statt als technische Optimierungsfähigkeit, und die abschließende Phase des Rahmens lässt Studierende zusammen mit ihrer Lehrkraft eine persönliche KI-Nutzungsrichtlinie co-designen, sodass die Normen, die KI-Nutzung im Klassenraum regeln, von den Menschen verfasst werden, die sie regeln, statt ihnen erteilt zu werden. 
+
+## Verbreitete Fehlvorstellungen
+
+**„KI kritisch zu nutzen heißt, sie weniger zu nutzen."** Kritisches Engagement ist ein Modus der Nutzung, keine Menge der Nutzung. Über **42 Klassenraumepisoden** in einer rumänischen Studie der unteren Sekundarstufe waren **15 (35.71%) KI-abhängig** und **16 (38.10%) KI-erweitert**, sodass nur **11 (26.19%) KI-kritisch** blieben – die erweiterten und die kritischen Episoden beziehen also beide das Werkzeug ein, und der Unterschied liegt darin, ob die Schülerinnen und Schüler es befragten. Die Seltenheit des kritischen Modus ist ein Unterrichtsproblem, kein Nutzungsproblem.
+
+**„KI-Kompetenz ist ein neutraler Fähigkeitssatz."** Kritische Pädagogik behandelt sie als Praxis des Widerstands und der sozialen Transformation, was die Rahmung selbst anfechtbar macht. Ein Kompetenzcurriculum, das Prompting-Technik vermittelt und auslässt, wessen Interessen das System dient, hat Flüssigkeit in einem Werkzeug gelehrt und dabei dessen Politik unkritisch übernommen.
+
+**„Kritische Pädagogik ist eine von außerhalb der Praxis vorgetragene Kritik."** Sie ist eine Haltung zur Rolle der Lehrenden: fragen, wem es nützt, wessen Wissen privilegiert wird und wie Schule Macht reproduziert oder ihr widersteht. Auf die KI-Adoption angewandt heißt das, die unternehmerischen und kapitalistischen Logiken zu befragen, die die Beschaffung prägen – Fragen, die eine Lehrkraft über die Entscheidungen der eigenen Institution stellen kann, nicht nur über die Technologie im Abstrakten.
+
+**„Die Zentrierung marginalisierter Epistemologien ist eine Ergänzung des Curriculum-Inhalts."** Sie verändert, wessen Wissen als Wissen zählt, was eine Frage nach der Struktur des Kurses ist und nicht nach einer zusätzlichen Lektüre. Inhaltsergänzungen lassen den Rahmen intakt; der Anspruch der kritischen Pädagogik richtet sich auf den Rahmen.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Zählen Sie Ihre kritischen Episoden. Wenn die Zahl von 26.19% Ihre Praxis beschreibt, ist das Ziel eine Verschiebung des Nutzungsmodus statt weniger Nutzung.
+- Machen Sie die Beschaffung zu einem lehrbaren Gegenstand: fragen Sie gemeinsam mit Studierenden, wessen Interessen ein gewähltes Werkzeug dient und wer die Kosten seiner Fehler trägt.
+- Behandeln Sie KI-Kompetenz als Befragung des Systems, nicht nur als Kompetenz im Umgang damit.
+
+**Für Entwicklerinnen, Entwickler und Administratorinnen und Administratoren**
+
+- Erwarten Sie, dass kritische Pädagogik Ihre Anreizstruktur befragt statt Ihre Funktionsliste, und beantworten Sie die Frage, wessen Wissen die Standardausgabe kodiert.
+
+**Für Forschende**
+
+- Berichten Sie die Verteilung der Engagement-Modi in Klassenräumen, nicht nur die durchschnittliche Nutzung, da der Mittelwert verbirgt, ob überhaupt eine kritische Praxis existiert.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: Halluzinationsrisiko
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T22:20:44-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,13 +11,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -40,9 +44,6 @@ Halluzination in Bildungs-KI nimmt mehrere Formen an, die in den Artikeln dieser
 
 Ein Review von 125 Studien grenzt die Prävalenz und die Erkennungslücke ein: Halluzinationsraten von 10–40%, wobei Medizinstudierende KI-Fehler nur in 44–55% der Fälle erkannten ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
-**Markierte Unzuverlässigkeit senkte die berichtete Abhängigkeit, statt sie zu erhöhen.** Als 546 Teilnehmende denselben GAI-Dialog lasen, der entweder als gefälschte Informationen enthaltend oder als verifiziert korrekt markiert war, erzeugte die Fälschungsmarkierung geringeres [[trust|Vertrauen]] und geringere wahrgenommene Kontrollierbarkeit sowie höhere kognitive Dissonanz und Frustration neben *geringeren* Abhängigkeitswerten (M = 2,935 gegenüber 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Das Ergebnis qualifiziert die Überverlass-Logik dieser Seite: zu sehen, dass eine Ausgabe gefälscht sein könnte, ist nicht dasselbe, wie weiter auf sie zu bauen.
-
-**Glaubwürdigkeitssignale können Gefolgschaft stattdessen verstärken.** Die entgegengesetzte Bewegung zeigt sich, wenn eine unzuverlässige Ausgabe aufgehübscht wird: Das Hinzufügen von Zitaten und Glaubwürdigkeitssignalen zur ARMADA-Debattenoberfläche erhöhte den Anteil der Teilnehmenden, die von einem korrekten anfänglichen Urteil zu einer inkorrekten KI-Position wechselten, um 112 % (31,8 % gegenüber 15,0 %), und manuelle Prüfung fand einige zitierte Fälle, die irrelevanten oder fiktiven Referenzen zugeordnet waren ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
 **Assessment-Halluzination** ist besonders schädlich. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** fand, dass LLMs beim Diagnostizieren kognitiver Fähigkeiten Belegzitate erfinden, die in der Handschrift der Studierenden nicht vorkommen, wobei 58.5% der falschen Diagnosen von falschen Behauptungen beleglicher Konfidenz begleitet waren. **[[llm-fallacy-misattribution]]** dokumentierte systematische Überattribution von Belegen im [[llm|LLM]]-Schließen — Modelle behaupten belegliche Unterstützung, wo keine existiert. Beides verbindet sich mit Anliegen an [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[knowledge-tracing|Knowledge Tracing]] hinsichtlich der [[assessment-validity|Validität von Assessments]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] fügen zwei Fehlermodi hinzu, die sichtbar werden, wenn KI-Ausgaben bewertet statt inspiziert werden: erfundene Einzelheiten, die die Bewertung überleben — ein rezensiertes Paper, das es nicht gibt, samt nicht auflösbarer DOI, und ein als 378 berichteter Stichprobenumfang, wo die Quelle 329 sagte —, und Selbstwiderspruch innerhalb einer einzelnen Antwort, wo das Modell sich zur richtigen Option hinschloss und dann in seiner abschließenden Zusammenfassung eine andere berichtete. Weil Literaturlisten derzeit auf Formatierung statt auf Genauigkeit bewertet werden, erreicht diese Fehlerklasse eine bestehende Note, während sie die Person in die Irre führt, die dasselbe Werkzeug zum Wiederholen nutzt.
 
 In einem Design-Piloten für Assessments fanden [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] erfundene Referenzen und unrealistische Zeitschätzungen, die wiederholtes Prompting überlebten und erhebliche akademische Überarbeitung erforderten — Halluzination in einem auf Lehrende gerichteten Entwurfswerkzeug statt in studentischer Arbeit.
@@ -56,6 +57,17 @@ Verteidigungen gegen solche Manipulation tragen ihren eigenen Trade-off: eine me
 **Tutoring-Halluzination** beeinflusst das Lernen unmittelbar. **[[yasir-llm-tutoring-agents-2026]]** fand, dass LLMs falsche Lösungen übervalidierten, während sie gültige, aber suboptimale Argumentation übermäßig zurückwiesen — systemische Fehler, die sowohl Studierende als auch Lehrende in die Irre führen würden. **[[eduframetrap-llm-sycophancy-educational-safety]]** und **[[eduguard-safe-rag-llm-tutor]]** adressieren Sicherheitsmechanismen für Bildungs-LLMs. Diese Risiken verbinden sich mit [[pedagogical-safety|pädagogischer Sicherheit]] und Anforderungen an [[human-in-the-loop-ai|Human-in-the-Loop-KI]].
 
 **Milderungsansätze** umfassen [[human-in-the-loop-ai|Human-in-the-Loop]]-Designs, in denen KI das Urteil der [[teacher-role|Lehrkräfte]] stützt statt es zu ersetzen, belegbewusste Architekturen, die Konfidenz an der Qualität der Belege kalibrieren (wie von MathCog befürwortet), und [[rag|RAG]]-basierte Verankerung, die LLM-Ausgaben auf verifizierte Quellen begrenzt. Das Konzept [[cognitive-offloading|übermäßige Abhängigkeit]] ist eng verwandt — Halluzination ist am gefährlichsten, wenn Nutzende KI-Ausgaben unkritisch vertrauen. [[sidorkin-ai-generated-course-readings-2026|Sidorkin (2026)]] fügt einen Fehlermodus hinzu, den der Milderungs-Stack nicht vollständig abdeckt: über-spezifische institutionelle Behauptungen, wobei etwa 1.03% der protokollierten Seiten einen benannten Campus wie „Sacramento State“ mit assertiven Politikverben über überarbeitete Bleibe-, Tenure- und Beförderungsregeln oder CSU Executive Orders paaren, von denen keine aus dem Text verifizierbar ist. Spezifität ist es, was dies kostspielig macht, da eine erfundene lokale Einzelheit exakt genug aussieht, um die Plausibilitätsprüfung einer Leserin oder eines Lesers zu überstehen, und das von der Studie vorgeschlagene Gegenmittel ist prozedural statt technisch: Erzeugung als Entwurfsproduktion unter Prüfung durch die Lehrkraft behandeln, dann Quellen zu einem retrieval-gestützten Design kuratieren.
+
+**Markierte Unzuverlässigkeit senkte die berichtete Abhängigkeit, statt sie zu erhöhen.** Als 546 Teilnehmende denselben GAI-Dialog lasen, der entweder als gefälschte Informationen enthaltend oder als verifiziert korrekt markiert war, erzeugte die Fälschungsmarkierung geringeres [[trust|Vertrauen]] und geringere wahrgenommene Kontrollierbarkeit sowie höhere kognitive Dissonanz und Frustration neben *geringeren* Abhängigkeitswerten (M = 2,935 gegenüber 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Das Ergebnis qualifiziert die Überverlass-Logik dieser Seite: zu sehen, dass eine Ausgabe gefälscht sein könnte, ist nicht dasselbe, wie weiter auf sie zu bauen.
+
+**Glaubwürdigkeitssignale können Gefolgschaft stattdessen verstärken.** Die entgegengesetzte Bewegung zeigt sich, wenn eine unzuverlässige Ausgabe aufgehübscht wird: Das Hinzufügen von Zitaten und Glaubwürdigkeitssignalen zur ARMADA-Debattenoberfläche erhöhte den Anteil der Teilnehmenden, die von einem korrekten anfänglichen Urteil zu einer inkorrekten KI-Position wechselten, um 112 % (31,8 % gegenüber 15,0 %), und manuelle Prüfung fand einige zitierte Fälle, die irrelevanten oder fiktiven Referenzen zugeordnet waren ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Studierende werden Fehler bemerken."** Ein **Review von 125 Studien** verortet die Halluzinationsraten bei **10–40 %**, wobei **Medizinstudierende — unter den am sorgfältigsten ausgewählten Lernenden der Hochschulbildung — KI-Fehler nur in 44–55 % der Fälle erkennen**. Erkennungsraten weit unter einer zuverlässigen Zufallsschwelle bedeuten, dass die Last nicht bei der lesenden Person liegen kann.
+- **„Fehler sind offensichtlich, wenn sie auftreten."** Eine KI, die handgeschriebene Mathematik diagnostizierte, konnte **Belegzitate erfinden, die nicht vorhanden waren, und dabei Konfidenz behaupten**. Der Fehler war keine plausibel-falsche Antwort, sondern erfundene Unterstützung, mit Gewissheit präsentiert — die am schwersten zu fangende Art, weil sie genau als der Beleg liest, den eine sorgfältige Leserin oder ein sorgfältiger Leser suchen würde.
+- **„Ausgaben ohne Zitate sind ein Formatierungsproblem."** In einem Graduiertenkurs, der sein kommerzielles Lehrbuch durch KI-generierte Lektüren ersetzte, trugen nur **etwa 0,80 % von 4.487 protokollierten Seiten ein In-Text-Zitat im APA-Stil**. Das ist eine Absenz von Provenienz auf Korpusebene, keine gelegentliche Auslassung, und sie bedeutet, dass Verifikation keinen Ausgangspunkt hat.
+- **„Halluzination ist ein Problem der Modellgenerierung, das neuere Modelle lösen."** Die Raten reichen über **125 Studien hinweg von 10–40 %**, was ebenso eine Eigenschaft der Aufgabe und des Einsatzes ist wie des Modells. Die Senkung der Rate ist echter Fortschritt und ändert nichts daran, dass eine lesende Person prüfen können muss.
 
 ## Verbundene Konzepte
 - [[cognitive-offloading]]

@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Barrierefreiheit
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-24T22:09:03-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,13 +10,17 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,13 @@ Ein Video mit korrekten Untertiteln und einem ordnungsgemäß ausgezeichneten Tr
 - **Der Einsatz von KI überholt die KI-Barrierefreiheitspolitik auf institutioneller Ebene.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] kodierte alle 100 Universitäten des Times Higher Education Rankings 2026 und fand 0 %, die eine eigenständige Richtlinie zur Barrierefreiheit von KI veröffentlichen, während 93 % KI-gestützte Campusdienste einsetzen (Chatbots für Einschreibung, Wohnen, IT). Die wohlwollende Lesart des Beitrags ist, dass Barrierefreiheitsverpflichtungen innerhalb allgemeiner Richtlinien der Behindertendienste liegen; wie gemessen erscheinen Anforderungen an KI-Werkzeuge jedoch nirgends im öffentlichen institutionellen Protokoll. Eine kurze institutionelle Erklärung, dass KI-Werkzeuge in Lehre und Verwaltung für Studierende mit Behinderungen barrierefrei sein müssen, würde dem gesamten gemessenen Feld voraus sein.
 
 - **Mathematisch barrierefreie Transkription von [[physics-education|Physik]]videos (2026):** Ein KI-Arbeitsablauf mit Gemini (Audio + 1-Bild-pro-Sekunde-Videoabtastung) und LuaLaTeX übersetzt Physik-Lehrvideos in mathematisch barrierefreie PDFs nach PDF/UA-2 und ISO 32005, die regelmäßig die Barrierefreiheitsvalidierung bestehen — ein praktischer, kostenloser Weg, um videobasierte Inhalte mit vielen Gleichungen für blinde und sehbehinderte Studierende screenreader-lesbar zu machen ([[gemini-lualatex-physics-video-transcription-2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein Barrierefreiheitsmerkmal, das schlechter aussieht, ist schlechter."** Streifen-Overlays **beeinträchtigten die Extraktion am stärksten (+35,9 % Zeichenfehler, +38,3 % Wortfehler)**, dennoch **beurteilten vier Typografie- und Design-Expertinnen und -Experten vertikale Streifen als lesbar**, während diagonale Muster scheiterten. Maschinelle Lesbarkeit und menschliche Lesbarkeit sind getrennte Messungen, und die Optimierung der einen kann der anderen schaden. Aussagen zur Barrierefreiheit müssen benennen, für welche Leserschaft sie gelten.
+- **„Barrierefreiheit bedeutet Nachteilsausgleich."** Ein Scoping Review von **40 Studien** zu digitalen assistiven Technologien für neurodivergente Studierende fand, dass **28 eine formale Diagnose zur Bedingung der Teilnahme machten**. Das ist ein diagnosegebundenes Modell, und es schließt jede lernende Person aus, die Bedarfe, aber kein Etikett hat — das Gegenteil von universellem Design.
+- **„Mittlere Effekte klären die Frage."** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] meta-analysieren **29 Studien** und finden einen mittleren positiven Effekt, der real ist und zugleich nichts darüber sagt, welches Werkzeug für welchen Bedarf. Der Durchschnitt über heterogene Interventionen ist keine Empfehlung.
+- **„Geschwindigkeit und Unmittelbarkeit sind Annehmlichkeiten."** In einer qualitativen Fallstudie mit **21 sehbehinderten Studierenden im Grundstudium** an drei palästinensischen Universitäten rahmten Lernende Unmittelbarkeit als **grundlegende Anforderung der Barrierefreiheit statt als Annehmlichkeit**. Was von außen wie ein Komfort aussieht, ist eine Voraussetzung für Teilhabe.
 
 ## Verbundene Konzepte
 - [[differential-effects-across-learner-groups]]

@@ -1,7 +1,7 @@
 ---
 title: Medizinische und Gesundheitsberufebildung
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,12 +72,20 @@ HPE ist eine hochrelevante, kompetenzbasierte Domäne, in der der Nutzen der KI 
 
 [[wang-safety-gap-productive-struggle-2026|Wang and Shan (2026)]] benennen die resultierende „Sicherheitslücke“ —, die Divergenz zwischen der KI-unterstützten Leistung einer Person und ihrer ununterstützten Fähigkeit, sie zu verifizieren —, und verordnen das Zurückhalten von Lösungen, konstruktive kognitive Reibung und sokratische oder gegnerische KI-Architekturen für hochrelevantes klinisches Training.
 
+- **Was die Curricula über Datenherkunft lehren.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] kodierten die öffentlich beworbenen Curricula von 36 US-amerikanischen Gesundheits-KI-Programmen und fanden Ethik in 29 abgedeckt (80,6%), Datenherkunft auf struktureller Ebene oder Ebene der Datensatzgrenzen aber nur in 8 (22,2%), wobei kein Programm die Umweltkosten der Berechnung adressierte und keines der sieben Masterprogramme die Herkunftsschwelle erreichte. Von 92 namentlich genannten Lehrenden kamen 76,1% aus rechnerischen Disziplinen und 3,3% aus den Sozial- oder Geisteswissenschaften. Die Lücke ist klinisch folgenreich: Die Einsetzungsfehler, mit denen der Beitrag beginnt, entstanden vorgelagert, darin, wie Trainingsdaten erzeugt oder gelabelt wurden, was eine lehrbare Kompetenz ist, die das Curriculum offenbar nicht trägt.
+
 ## Implikationen für Gesundheitsberufebildende
 
 - **Nutzen Sie KI, um Lernprinzipien zu operationalisieren, nicht um die Lehrkraft zu ersetzen.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] argumentieren, KI solle erfahrungsorientiertes, situiertes und verteilt-kognitives Lernen operationalisieren, während die Lehrkraft zentral für Engagement und Ergebnisse bleibt.
 - **Nutzen Sie KI für klinisches Fertigkeitstraining.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] und [[hdr-brachytherapy-agentic-ai-simulation-2026|agentische Simulation]] zeigen KI als Fertigkeitstrainingspartner in echten klinischen Workflows —, betten Sie sie dort ein, wo sie sichere, skalierbare Übung hinzufügt.
 - **Balancieren Sie hochrelevanten Nutzen gegen Überabhängigkeit.** HPE ist kompetenzbasiert und hochrelevant; schützen Sie davor, dass KI für praktische klinische Fertigkeit und Urteil substituiert, und wenden Sie [[feedback|Feedback]]-, [[assessment|Prüfungs]]- und [[ethics|Ethik]]überlegungen mit besonderer Sorgfalt an.
 - **Passen Sie gamifizierte und interdisziplinäre KI überlegt an.** [[medgame-llm-medical-education-gamification|Gamifiziertes LLM-Lernen]] und [[alrazeeni-transforming-nursing-education-ai-2026|Transformation der Pflegebildung]] zeigen Versprechen, brauchen aber Evaluation für Sicherheit und Fertigkeitsergebnisse; für Pflege spezifisch wird jene Sicherheits-und-Fertigkeit-Evidenz —, einschließlich des RCT, in dem KI-unterstützte Simulation hinter standardisierten Patientinnen und Patienten zurückblieb —, auf [[nursing-education]] gesammelt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Vorteile von Simulation sind in der medizinischen Bildung etabliert, also werden es KI-Simulationen auch sein."** Ein Mixed-Methods-Review mit **19 Studien (N = 1.253)** findet, dass KI-getriebene Simulationen in dieser Literatur Effekte erzeugen — eine bescheidene Basis, und 1.253 Teilnehmende über 19 Studien sind ein schmales Fundament für eine Technologie, die im Maßstab eingesetzt wird.
+- **„Die Frage ist, was LLMs im klinischen Training können."** Ein kritisch integrativer Review über **489 Studien in 47 Ländern** verschiebt die Frage **von dem, was LLMs können, dorthin, womit sie betraut werden sollten**. Die Fähigkeitsfrage ist weitgehend beantwortet; die Governancefrage nicht.
+- **„Standardisierte Patientinnen und Patienten sind zu kostspielig, um zu skalieren."** Eine **randomisierte kontrollierte Studie mit 95 analysierten Medizinstudierenden** nutzte **Multi-Agenten-KI-standardisierte Patientinnen und Patienten** im Training klinischer Gespräche. Die adressierte Beschränkung ist die Verfügbarkeit geschulter menschlicher Darstellender, was ein Personalproblem ist statt ein Treueproblem.
 
 ## Verbundene Konzepte
 
@@ -95,6 +107,7 @@ HPE ist eine hochrelevante, kompetenzbasierte Domäne, in der der Nutzen der KI 
 - [[virtual-and-augmented-reality]] — immersives und AR-gestütztes klinisches Training
 
 ## Verbundene Artikel
+- [[giancotti-data-provenance-health-ai-curricula-2026]] — Gesundheits-KI-Curricula lehren Ethik (80,6%), aber selten Datenherkunft (22,2%)
 - [[virtual-standardized-patients-osce-evaluation-2026]] — Eine geschichtete Multi-Rater-Evaluation LLM-basierter virtueller standardisierter Patientinnen und Patienten mit einer eingesetzten Datengenerierungsplattform
 - [[genai-medical-education-transformation-review-2026]] — Scoping Review von 153 GenAI-Berichten zur medizinischen Bildung: Simulation führt, Nachhaltigkeit und patientenbezogene Ergebnisse nicht gemessen
 

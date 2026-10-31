@@ -1,7 +1,7 @@
 ---
 title: Curriculum-Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-24T19:50:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-21T13:42:59-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -95,6 +99,12 @@ Struktur, nicht Prompt-Formulierung, ist, was KI-Entwerfen in der Produktion ver
 ### Verbindungen zu verwandten Konzepten
 
 Curriculum-Design verbindet sich unmittelbar mit [[learning-design|Lerndesign]] — Curriculum definiert was, Unterricht definiert wie. Es verbindet sich mit [[ai-literacy|KI-Kompetenz]], weil das Einbetten von KI-Kompetenzen eine primäre Curriculum-Herausforderung ist, mit [[teacher-role|Lehre]] und [[educational-development|Lehr- und Curriculumsentwicklung]], weil Curriculumveränderung Vorbereitung der Lehrenden erfordert, und mit [[scaffolding|Scaffolding]], weil gut gestaltete Curricula Fähigkeitsentwicklung über Kurse und Jahre stützen. Die Verbindungen zu [[higher-ed|Hochschulbildung]] und [[k-12|K-12]] spiegeln die Relevanz von Curriculum-Design über Bildungsstufen hinweg wider.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein LLM kann ein Curriculum abbilden, sobald es mit hoher Reliabilität validiert ist."** GPT-o3-mini verteilte **100 % über sieben Unternehmenskompetenzen für jede von 48 Assessments** und erreichte **ein Krippendorffs Alpha von 0.81** gegenüber Expertengewichtungen — und die **Übereinstimmung** brach bei bestimmten Kompetenzen zusammen. Hohe Gesamtreliabilität bei ungleichmäßiger Übereinstimmung ist das Muster, das Sie prüfen sollten, bevor Sie der Abbildung trauen.
+- **„KI-Kompetenz einzubetten bedeutet, einen Kurs hinzuzufügen."** LearnAI zeigt die eingebettete Form: eine **breite Expositionsebene aus Kurzpräsentationen in 18 bestehenden Kursen über fünf Disziplinen (293 Studierende)**. Die Exposition war über das Curriculum verteilt statt in einer Einheit gesammelt.
+- **„Studierende kommen bereits in der Lage an, Medien kritisch zu bewerten."** Nur **13,8 % der befragten Studierenden der Bildung und des Journalismus** gaben an, ihre Kursarbeit habe kritische Medienanalyse behandelt, gegenüber **97,8 %, die sie für wichtig hielten**. Die Lücke zwischen dem Wertschätzen einer Fähigkeit und ihrer Vermittlung ist die curriculare Öffnung.
 
 ## Verbundene Konzepte
 

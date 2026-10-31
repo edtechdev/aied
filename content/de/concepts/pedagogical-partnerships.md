@@ -1,7 +1,7 @@
 ---
 title: "Pädagogische Partnerschaften"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-24T21:37:05-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T18:53:18-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -18,11 +18,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **[[pedagogy|Pädagogische]] Partnerschaften** (auch bekannt als **Studierende als Partner** oder **SaP**) — ein beziehungszentrierter Ansatz zu Lehren und Lernen, in dem Studierende und Bildungsfachkräfte als Kollaborierende zusammenarbeiten, um Curriculum, Lehrtätigkeiten, [[assessment]], offene Bildungsressourcen und Bildungsrichtlinien mit zu erzeugen, statt Studierende als passive Empfängerinnen von fakultätsgestalteter Instruktion zu behandeln. Verankert in den Werten **Respekt, Reziprozität und Verantwortung** (Cook-Sather et al., 2014), positioniert pädagogische Partnerschaft Studierende als Mit-Erzeugende von Wissen und Bildungsinnovation neu und stellt traditionelle Machtdynamiken von oben nach unten in der Bildung infrage. Im KI-Zeitalter ist Partnerschaft ein zentrales Gegennarrativ zu Defizitsichten auf Studierende als KI-Betrüger oder Opfer geworden — positioniert Studierende als Partner in der Mitgestaltung von KI-Politik, -Werkzeugen und -Praxis.
+> **[[pedagogy|Pädagogische]] Partnerschaften** (auch bekannt als **Studierende als Partner** oder **SaP**) — ein beziehungszentrierter Ansatz zu Lehren und Lernen, in dem Studierende und Bildungsfachkräfte als Kollaborierende zusammenarbeiten, um Curriculum, Lehrtätigkeiten, [[assessment]], [[open-education|offene Bildungsressourcen]] und Bildungsrichtlinien mit zu erzeugen, statt Studierende als passive Empfängerinnen von fakultätsgestalteter Instruktion zu behandeln. Verankert in den Werten **Respekt, Reziprozität und Verantwortung** (Cook-Sather et al., 2014), positioniert pädagogische Partnerschaft Studierende als Mit-Erzeugende von Wissen und Bildungsinnovation neu und stellt traditionelle Machtdynamiken von oben nach unten in der Bildung infrage. Im KI-Zeitalter ist Partnerschaft ein zentrales Gegennarrativ zu Defizitsichten auf Studierende als KI-Betrüger oder Opfer geworden — positioniert Studierende als Partner in der Mitgestaltung von KI-Politik, -Werkzeugen und -Praxis.
 
 ## Fragen zum Nachdenken
 
@@ -72,7 +76,7 @@ Diese Stränge teilen eine Kernbehauptung: dass die Menschen, die mit [[ai-educa
 Pädagogische Partnerschaft ist verwandt mit, aber unterscheidbar von mehreren benachbarten Konzepten:
 
 - **[[agency|Handlungsfähigkeit der Lernenden]] und [[self-directed-learning]]:** Partnerschaft unterstützt Handlungsfähigkeit der Lernenden, indem sie Studierenden eine Stimme darin gibt, was und wie sie lernen, und überlappt mit selbstgesteuertem Lernen. Partnerschaft ist jedoch fundamental *relational* — Handlungsfähigkeit und Richtung entstehen durch die Beziehung zwischen Instruktorin und Studentin statt in Isolation. Einige Frameworks konzeptualisieren dies als „geteilte Handlungsfähigkeit“, die in der Beziehung zwischen Studentin und Instruktorin existiert, nicht innerhalb einer Partei allein.
- Anastasia (2026) benennt die acht Bedingungen, die eine solche Partnerschaft erfordert — Anwesenheit der Instruktorin, Vertrauen, psychologische Sicherheit, Dialog, Stimme und Wahl, bedeutungsvolles Feedback, Reflexion und geteilte Verantwortung —, und argumentiert, dass Wahl allein keine Autonomie schafft: Studierende können Optionen erhalten, während ihnen Information, Vertrauen oder psychologische Sicherheit fehlt, sie auszuüben ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
+- Anastasia (2026) benennt die acht Bedingungen, die eine solche Partnerschaft erfordert — Anwesenheit der Instruktorin, Vertrauen, psychologische Sicherheit, Dialog, Stimme und Wahl, bedeutungsvolles Feedback, Reflexion und geteilte Verantwortung —, und argumentiert, dass Wahl allein keine Autonomie schafft: Studierende können Optionen erhalten, während ihnen Information, Vertrauen oder psychologische Sicherheit fehlt, sie auszuüben ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **[[collaborative-learning]]:** Beide beinhalten Zusammenarbeit, aber kollaboratives Lernen bezieht sich typischerweise auf Studierende, die *miteinander* innerhalb einer gestalteten Aktivität lernen, während pädagogische Partnerschaft Studierende und Personal zentriert, die am *Design* von Bildung selbst kollaborieren.
 - **[[student-engagement]]:** Partnerschaft ist eine tiefe Form des Engagements, aber Engagement beschreibt die Beteiligung einer Studentin am Lernen, während Partnerschaft eine veränderte Machtbeziehung beschreibt, in der Studierende Verantwortung dafür teilen, dieses Lernen zu prägen.
 - **[[teacher-role]]:** Partnerschaft definiert die Rolle der Lehrkraft neu, von alleiniger Autorität und Torhüterin von Wissen zu Mit-Gestaltender und intellektueller Führerin, ohne die Expertise der Fakultät zu mindern.
@@ -88,6 +92,7 @@ Pädagogische Partnerschaft ist verwandt mit, aber unterscheidbar von mehreren b
 - Gerechtigkeit in Partnerschaft: welche Studierende teilhaben dürfen, wessen Stimmen zentriert werden, und wie Formen der ganzen Klasse versus selektive Formen den Nutzen verteilen.
 - Die Ressourcen- und Institutionseinschränkungen von Partnerschaft, einschließlich der zeitintensiven Natur echter Mitgestaltung.
 - Wie Partnerschaft sich auf dekolonialisierende, kritische und [[critical-pedagogy|kritische Pädagogiken]] bezieht, die traditionelle Hierarchien infrage stellen und multiple Arten des Wissens zentrieren.
+- **Mentoring kann in beide Richtungen laufen.** In einem Programm mit 20 Fellows und 15 Praktikantinnen und Praktikanten über 14 Columbia-Fachbereiche hinweg brachten Praktikantinnen und Praktikanten Lehrenden KI-Werkzeuge bei, während Lehrende fachliche Standards vermittelten, und die meisten Paare fanden zu einem Translator-Modell ([[learning-by-collaborating-ai-research-mentorship-2026|Zheng (2026)]]).
 
 ## Praktische Implikationen
 
@@ -98,6 +103,12 @@ Für Bildungsfachkräfte und Institutionen, die pädagogische Partnerschaft einf
 3. **Mit Beziehung und Vertrauen führen.** Partnerschaft wirkt, wenn Vertrauen, psychologische Sicherheit, Dialog und geteilte Verantwortung absichtsvoll kultiviert werden — nicht angenommen.
 4. **Im KI-Zeitalter Studierende einladen statt sie zu überwachen.** KI-Politik, -Werkzeuge und -Assessment mit Studierenden mitzugestalten ist sowohl gerechter als auch wirksamer als defizitbasierte Antworten.
 5. **Gerechtigkeit der Teilhabe bedenken.** Partnerschaft der ganzen Klasse bietet die breiteste Teilhabe; selektive Programme müssen darauf achten, welche Studierenden eingeladen und einbezogen werden.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Partnerschaft bedeutet, die Stimme der Studierenden zu erheben.“** Eine pädagogische Partnerschaft ist eine **begrenzte, ausgehandelte Beziehung** mit definierten Rollen und reziproker Verpflichtung, keine Konsultation. Stimme ohne Rolle, Mandat und Anteil an der Entscheidung verändert strukturell nichts.
+- **„Partnerschaft ist eine Haltung, die man einnehmen kann.“** Sie erfordert institutionelle Bedingungen — Zeit, Anerkennung für die studentische Partnerin oder den Partner und eine Veränderung, die die Partner tatsächlich bewirken können. Erklärte Partnerschaft ohne diese Bedingungen reproduziert die Hierarchie, die sie zu unterbrechen behauptet.
+- **„Machtteilung kann keine Fakultätsentwicklung sein.“** Die Behauptung der Literatur ist, dass Partnerschaft Entwicklung ist, *weil* sie das Verständnis der Lehrenden durch die Beziehung verändert. Sie nur als Nutzen für Studierende zu rahmen verwirft den Mechanismus.
 
 ## Verbundene Konzepte
 

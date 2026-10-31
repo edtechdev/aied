@@ -1,7 +1,7 @@
 ---
 title: "Lernwissenschaften"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-24T22:37:29-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,13 +13,17 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -58,9 +62,9 @@ Diese Seite deckt das substanzielle Wissen ab, das solche Methoden erzeugt haben
 - **Wie Studierende ein generatives Modell nutzen, zählt mehr als ob.** Die Kodierung von 50 Austauschen Studierender ergab, dass 64 % passives Wiederholen oder transaktionale Fragen waren und nur 36 % strategischer Dialog, und eine refektionsstrukturierte Aufgabe verschob die Bilanz hin zum Dialog ([[three-pathways-student-ai-interaction-2026|Zahra, 2026]]).
 - **Innerhalb-personale Abhängigkeit geht einem Rückgang wahrgenommener [[agency|Handlungsfähigkeit]] voraus.** Über drei Erhebungswellen mit Daten von 342 Studierenden in 85 festen Gruppen in einem KI-unterstützten [[collaborative-learning|kooperativen]] [[writing-education|Schreib]]kurs hinweg sagte eine über das Übliche hinausgehende Abhängigkeit von generativer KI einen niedrigeren nachfolgenden wahrgenommenen menschlichen Handlungsspielraum voraus, während der umgekehrte Pfad schwächer war und statistisch nicht gestützt wurde ([[genai-reliance-human-agency-collaborative-learning-2026|Wu und Lu (2026)]]).
 
-**Die Verteilung generativer KI-Nutzung ist eine institutionelle Entscheidung.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn und Rehm (2026)]] klassifizierten 102 Hochschulbildung-Studien danach, wie epistemische Arbeit zwischen Studierendem und System verteilt wurde, und fanden, dass „Assistant“- und „Enabler“-Verflechtungen mit je 42,16 % dominierten, wobei sie die Schieflage als institutionelle Legitimität lesen statt als technologische Fähigkeit.
+- **Die Verteilung generativer KI-Nutzung ist eine institutionelle Entscheidung.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn und Rehm (2026)]] klassifizierten 102 Hochschulbildung-Studien danach, wie epistemische Arbeit zwischen Studierendem und System verteilt wurde, und fanden, dass „Assistant“- und „Enabler“-Verflechtungen mit je 42,16 % dominierten, wobei sie die Schieflage als institutionelle Legitimität lesen statt als technologische Fähigkeit.
 
-**Prozessevidenz ist kanalabhängig.** Bei der Kodierung einer GenAI-unterstützten Instruktionsdesign-Aufgabe mit 79 Studierenden in Interaktionsprotokollen und gleichzeitigem lauten Denken fanden [[metacognitive-processes-genai-interaction-logs-2026|Li und Liu (2026)]], dass Monitoring-Evidenz höherer Tiefe im Protokoll des lauten Denkens häufiger war, Evidenz höherer Tiefe für [[regulation|Regulation]] jedoch häufiger in den Protokollen, sodass keiner der beiden Spuren allein das Kriterium für eine [[metacognition|metakognitive]] Behauptung ist.
+- **Prozessevidenz ist kanalabhängig.** Bei der Kodierung einer GenAI-unterstützten Instruktionsdesign-Aufgabe mit 79 Studierenden in Interaktionsprotokollen und gleichzeitigem lauten Denken fanden [[metacognitive-processes-genai-interaction-logs-2026|Li und Liu (2026)]], dass Monitoring-Evidenz höherer Tiefe im Protokoll des lauten Denkens häufiger war, Evidenz höherer Tiefe für [[regulation|Regulation]] jedoch häufiger in den Protokollen, sodass keiner der beiden Spuren allein das Kriterium für eine [[metacognition|metakognitive]] Behauptung ist.
 
 ## Wie sich die Lernwissenschaften zu ihren Nachbarinnen und Nachbarn verhalten
 
@@ -75,6 +79,28 @@ Das Feld baut auch Theorie, statt nur geborgte Rahmenwerke zu testen: [[theory-d
 [[pedagogy|Pädagogik]] und [[learning-design|Lerndesign]] decken Praxis ab – welche Lehrstrategie zu nutzen ist, und wie Ziele, Aktivitäten und Assessment zu einem Kurs zu sequenzieren sind. Beide sind das, was die Lernwissenschaften von außen studieren, als Objekte der Beschreibung und Evaluation; das Feld sagt einer Lehrkraft nicht, zu welcher Taktik sie als Nächstes greifen soll, es berichtet, was die Taktiken nachweislich tun. Lerndesign ist der engere Verwandte, da beide etwas produzieren, das implementiert und getestet werden kann, doch die Ausgabe des Designers ist ein lehrbarer Kurs und die Ausgabe des Feldes ist Wissen über Entwürfe im Allgemeinen.
 
 Die Befunde zählen erst, wenn sie das Lehren erreichen, und diese Reise läuft über drei Seiten. [[educational-development|Lehr- und Curriculumsentwicklung]] ist die institutionelle Praxis, die sie trägt – Fakultätsentwicklung, Standards, Politik und Identitätsarbeit entscheiden, ob ein validiertes Design je ein Klassenzimmer erreicht, weshalb die Evidenz des Feldes routinemäßig dem voraus ist, was Institutionen implementiert haben. [[teacher-education|Lehrkräftebildung]] ist, wo das Wissen landen muss, bevor eine Lehrkraft den Raum betritt, und [[teacher-role|Lehre]] ist, wo es danach landet, im momentweisen Urteil darüber, wann einzugreifen ist, welches Instrument zu nutzen ist, und wann ein Lernender allein zu lassen ist. Keine der drei erzeugt lernwissenschaftliche Befunde; alle drei entscheiden, ob jene Befunde die Praxis verändern.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Eine hohe Meisterschaftsschwelle garantiert, dass die lernende Person unterscheiden kann."** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren und Stamper (2026)]] führten **elf Experimente (N = 192)** mit [[intelligent-tutoring|intelligenten Tutoringsystemen]] durch und fanden, dass das System bei einer **95%-Meisterschaftsschwelle die Praxis beendete, bevor Lernende einen Fall trafen, der erfordert, die Handlung zu unterlassen**, sodass der Defekt unentdeckt blieb. Die Beherrschung der Handlung schloss nicht ein zu wissen, wann man sie nicht anwendet, und die Schwelle zertifizierte das falsche Konstrukt.
+- **„Mehr Beispiele sind sicherer."** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger und Carvalho (2025)]] behandeln das Beispiel-Problem-Verhältnis als **Inhalt-Behandlung-Interaktion**, und in einem 2×2-Experiment **hing das Optimum vom Inhalt ab**. Es gibt kein global richtiges Verhältnis, sodass eine feste Unterrichtsvorlage eine Wette gegen eine Interaktion ist.
+- **„Eine Fehlvorstellung zu korrigieren heißt, den Studierenden die richtige Antwort zu sagen."** Kurze Nicht-Handeln-Praxis mit [[feedback|Feedback]], das die fehlende Beschränkung benennt, senkte die Fehlanwendung auf **0,0%-23,1% (Cohens h 1,70-2,44)**, und eine Sekundäranalyse von **dreizehn K-12-*Decimal-Point*-Datensätzen** fand dasselbe strukturelle Muster. Die wirksame Intervention war unterscheidende Praxis mit gezieltem Feedback, nicht Korrektur durch Behauptung — was die [[refutation-text|Refutation]]-Arbeit allgemein etabliert.
+- **„Eine höhere Bloom-Ebene bedeutet mehr aktives Lernen."** Der Lerntyp verfolgte die beabsichtigte Ergebnisebene, wobei **Erwerb von etwa 50% der Aktivitäten auf Bloom-Ebene 1 auf rund 20% auf Ebene 6 fiel**. Kognitive Anforderung und Aktivitätstyp bewegen sich zusammen, sind aber nicht dieselbe Achse, sodass das Etikettieren einer Aufgabe nach Bloom-Ebene nicht sagt, was Lernende damit tun werden.
+
+## Was das für die Praxis bedeutet
+
+**Für Lehrende**
+
+- Lehren Sie den negativen Fall ausdrücklich. Das Scheitern bei der 95%-Schwelle ist der Grund: Bauen Sie Bedingungen ein, in denen die richtige Bewegung darin besteht, die Handlung zu unterlassen, oder die lernende Person wird sie überall anwenden.
+- Legen Sie das Beispiel-Problem-Verhältnis nicht kursweit fest. Die Inhalt-Behandlung-Interaktion bedeutet, dass das richtige Verhältnis für Prozeduren nicht das richtige für Konzepte ist.
+- Nutzen Sie unterscheidende Praxis mit Feedback, das die fehlende Beschränkung benennt, statt die Regel zu wiederholen. Das ist die Intervention mit den hier gemessenen Effektstärken.
+- Prüfen Sie, was Ihr Meisterschaftskriterium tatsächlich zertifiziert, bevor Sie ihm trauen.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Beenden Sie die Praxis nicht allein aufgrund von Richtigkeit. Modellieren Sie die Unterlassungsbedingung als eigene Fähigkeit, oder das System wird Übergeneralisierung zertifizieren.
+- Lassen Sie das Verhältnis einen Parameter statt eine Konstante sein, weil die Evidenz sagt, dass das Optimum inhaltsabhängig ist.
+- Berichten Sie, welches Konstrukt Ihr Kriterium misst, getrennt davon, welches Konstrukt Ihre Validierung misst.
 
 ## Verbundene Konzepte
 

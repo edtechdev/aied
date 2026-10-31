@@ -1,7 +1,7 @@
 ---
 title: Online-Lehre und -Lernen
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-10-24T23:29:54-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,13 +11,17 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -59,7 +63,7 @@ Online-Lehre und -Lernen nimmt mehrere verwandte Formen an, die das Medium teile
 - **Immer verfügbare, kontext-eingebettete Unterstützung.** In Fern- und [[adult-learning|Erwachsenenlern]]-Kontexten, wo Lernende am Arbeitsplatz oder zu Hause studieren, ist 24/7-Unterstützung, eingebettet in den Kurs, ein großer Vorteil. Der [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA-Assistent der Open University]] fand, dass zweckgebaute, in der Umgebung verankerte GenAI-Unterstützung [[student-engagement|Engagement]] erhöhte (verdoppelte Nutzungszeit in einer explorativen Studie), wobei 96% der Studierenden sie in ihrem formalen Studium haben wollten.
 - **Konversationelles, dialogisches Tutoring im Maßstab.** [[conversational-ai|Konversationelle KI]]-Tutoren, gebaut auf bewährter [[intelligent-tutoring|Intelligentes-Tutoring]]-Technologie ([[conversational-ai-tutors-framework|keep/change/center/study-Framework]]), versprechen hochwertiges, dialogbasiertes Tutoring – das die Gedanken, Fragen und [[misconceptions|Missverständnisse]] der Studierenden einbezieht –, das weit skalierbarer ist als menschliches Tutoring.
 - **Facilitation und Analytik.** KI kann [[collaborative-learning|Online-Diskussionen]] und [[learning-analytics|Learning Analytics]] unterstützen, Engagement prognostizieren und Lehrenden helfen, Aufmerksamkeit zu allokieren. [[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] fügen hinzu, dass LLM-generierte Diskussionszusammenfassungen als navigationale [[scaffolding|Gerüste]] in großen asynchronen Foren wirken können – und so die Peer-Exposition der Studierenden und die Netzwerkbedingungen für bridging social capital verbreitern, ohne Studierende oder Lehrende mit der Zusammenfassungslast zu belasten.
-- **Frühwarn-Analytik für gefährdete Online-Lernende.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] zeigen, dass interpretierbares [[reinforcement-learning|maschinelles Lernen]] auf Inhalts-Interaktions-Logs modulbezogenen Fortschritt vorhersagt und Dropout („No submission")-Ergebnisse in großskaligen Online-[[cs-education|Programmier]]kursen bis zu 7–8 Tage vor Modulfristen markiert, was Online-Lehrenden ein konkretes Fenster gibt, bei desengagierten Studierenden zu [[teacher-role|intervenieren]], statt Scheitern erst nachträglich zu entdecken.
+- **Frühwarn-Analytik für gefährdete Online-Lernende.** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] zeigen, dass interpretierbares [[machine-learning|maschinelles Lernen]] auf Inhalts-Interaktions-Logs modulbezogenen Fortschritt vorhersagt und Dropout („No submission")-Ergebnisse in großskaligen Online-[[cs-education|Programmier]]kursen bis zu 7–8 Tage vor Modulfristen markiert, was Online-Lehrenden ein konkretes Fenster gibt, bei desengagierten Studierenden zu [[teacher-role|intervenieren]], statt Scheitern erst nachträglich zu entdecken.
 - **Erschwinglichkeit und Geschwindigkeit.** KI kann Kursmaterialien zu einem Bruchteil traditioneller Kosten erzeugen – MAIC reduzierte MOOC-Kursproduktion von ~\$25K/60 Stunden auf unter \$2/30 Minuten.
 
 ## Herausforderungen der Online-Lehre in der KI-Ära
@@ -129,6 +133,16 @@ Welche Kombination eine Lehrkraft auch wählt, eine Einschränkung sollte sie pr
 - **Verifikation verhältnismäßig zum Risiko halten.** Wo Kompetenz zertifiziert werden muss, eine Zwillingsaufgabe, eine asynchrone mündliche Verteidigung oder eine kurze Verständnisprüfung gegenüber flächiger Überwachung bevorzugen; den Rest des Kurses flexibel halten für die Lernenden, die auf dieser Flexibilität angewiesen sind.
 - **Analytik nutzen, um Lehre zu unterstützen, nicht zu ersetzen.** [[learning-analytics|Learning Analytics]] nutzen, um Engagement zu prognostizieren und Unterstützung zu adressieren, aber [[human-in-the-loop-ai|menschliche Aufsicht]] zentral halten.
 
+## Verbreitete Fehlvorstellungen
+
+**„Online-Lehre ist Präsenzlehre, nur durch einen Bildschirm geliefert."** Sie ist ein eigenständiges pädagogisches Setting, und KI landet dort anders. Selbst berichtetes TPACK für KI-integrierten Naturwissenschaftsunterricht war bei Lehramtsstudierenden im Abschlussjahr an einer campusbasierten Universität höher (**64,0%**) als an einer Fernuniversität (**47,4%**), wobei in beiden Settings die pädagogische Domäne die schwächste war. Das Fernsetting verschärft eine bestehende Vorbereitungslücke, statt dieselbe Unterstützung zu erhalten.
+
+**„Ein KI-Assistent im Kurs erhöht das Engagement."** Engagement hängt davon ab, dass der Assistent zweckgebaut und in der Umgebung verankert ist. Der AIDA-Assistent der Open University erhöhte das Engagement — verdoppelte Nutzungszeit in einer explorativen Studie —, und diese Designbedingung ist der Befund: dieselbe Fähigkeit als externes Werkzeug angeschraubt ruft nicht dasselbe Verhalten hervor. Ein generischer Chatbot-Link in einer Kurshülle ist nicht die Intervention, die untersucht wurde.
+
+**„KI erhöht die Leistung, also erhöht sie das Lernen."** In Online-Settings ist die Divergenz dieselbe wie im Klassenzimmer: Ein [[rct|RCT]] fand, dass ungesicherte KI-Unterstützung die Übungsleistung erhöhte, aber die Prüfungspunktzahlen ohne Hilfe *senkte*, während ein Hinweis-statt-Antwort-Tutor den Schaden beseitigte. Online-Kurse stützen sich stärker auf asynchrones Assessment, weshalb die Lücke zwischen assistierter und nicht assistierter Leistung dort entscheidet, ob Validität gewonnen oder verloren wird.
+
+**„Assessment-Validität ist eine Frage der Benotungspolitik."** Sie ist eine Designfrage, die das Medium erzeugt: Wenn eine Abgabe ohne die Anwesenheit der lernenden Person produziert werden kann, hängt Validität davon ab, ob die Aufgabe Evidenz dafür erzeugt, dass die lernende Person die Arbeit getan hat. Die Aufgabe neu zu gestalten adressiert das; die Strafe für Fehlverhalten zu verschärfen nicht.
+
 ## Verbundene Konzepte
 - [[pedagogical-patterns]] — Der Kontext, der Sequenzierung tragend macht, da das System einen Versuch nicht sehen kann
 - [[assessment-validity]] — Validität der Inferenz von eingereichter Arbeit zu Lernen
@@ -176,7 +190,7 @@ Welche Kombination eine Lehrkraft auch wählt, eine Einschränkung sollte sie pr
 - [[conversational-ai-tutors-framework]] — Der Weg zu konversationellen KI-Tutoren
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementierung von AIDA an der Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Leitlinien für das Design von KI-Technologien zur Unterstützung des Lernens Erwachsener
-- [[deeptutor]] — DeepTutor: auf dem Weg zu agentischem personalisiertem Tutoring
+- [[zhao-deeptutor-agentic-personalized-tutoring-2026]] — DeepTutor: auf dem Weg zu agentischem personalisiertem Tutoring
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — ML-Befunde für Lehrkräfte in Blended-Classrooms zugänglich machen
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Studierende bevorzugen personalisierte KI-erzeugte Videos gegenüber nicht personalisierten, von Menschen aufgenommenen (Tomlinson et al. 2026)

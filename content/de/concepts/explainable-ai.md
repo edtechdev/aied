@@ -1,7 +1,7 @@
 ---
 title: Erklärbare KI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 
 ---
@@ -63,6 +67,7 @@ Das XAI-ED-Framework katalogisiert die wichtigsten Erklärungsmodalitäten: **vi
 - **Glass-Box**-Ansätze versuchen, Genauigkeit mit Transparenz auszubalancieren.
 
 Die konkrete KIED-Evidenzbasis überspannt alle davon. **Interpretierbares [[knowledge-tracing|Knowledge Tracing]]** macht Modelle des Lernendenwissens direkt inspizierbar ([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). **Selbsterklärende Surrogate** destillieren ein Black-Box-Modell in ein kleines, interpretierbares [[llm|Sprachmodell]] für [[learning-analytics]] ([[distilling-self-explaining-lm-learning-analytics-2026]]). **Kontrafaktische Erklärungen** — „was müsste sich für ein anderes Ergebnis ändern“ — unterstützen Bildungs-Entscheidungsunterstützung und Regress ([[sc2r-counterfactual-recourse-educational-2026]]). **Federierte + erklärbare Learning Analytics** zeigt, dass Erklärungsqualität driften kann (Kalibrierung degradiert), selbst wenn Ranking-Stabilität hält, und unterstreicht, dass Erklärungen keine feste Eigenschaft sind, sondern eine Systemausgabe, die zu messen ist ([[villegas-ch-federated-explainable-learning-analytics-2026]]). Und **interpretierbare [[affective-computing|affektive]] ITS** demonstriert Erklärungen im [[affective-tutoring|emotionsbewussten]] Tutoring ([[multimodal-affective-its-presentation]]).
+- **Externe Messung umgeht das Problem der untreuen Begründung.** Filtered Decision Logs bauen Werkzeugspuren zu einem Provenienzbaum um und ordnen Belege mit vier deterministischen Signalen, sodass der Einflusswert unabhängig von der Empfehlung überprüfbar ist, und kontrafaktisches Entfernen von Werkzeugen bestätigte, dass das Ranking die Abhängigkeit abbildete ([[filtered-decision-logs-transparency-genai-2026|Anbalagan et al. (2026)]]).
 
 ## Erklärungsqualität, nicht Verfügbarkeit
 
@@ -89,6 +94,13 @@ Zwei Vorsichtshinweise schärfen dies weiter, die beide den neuesten Beitrag des
 Wenn Erklärungsqualität entscheidet, ob XAI nützlich ist, muss das Erzeugen von Erklärungen als professionelle Gewohnheit gelehrt werden statt als Fähigkeit demonstriert. [[lund-socially-accountable-data-science-xai-2026|Lund und Kollegen (2026)]] schlagen vor, dies über vier Säulen zu tun — **Antwortbarkeit** (die Pflicht, Gründen denen zu geben, die betroffen sind), **Verantwortung** (Schaden über den Lebenszyklus hinweg antizipiert, nicht nachträglich verteidigt), **Durchsetzung** (Konsequenzen innerhalb des Kurses) und **Reflexivität** (dokumentierte Prüfung der eigenen Annahmen) —, jede mit ihren eigenen Aufgaben und ihren eigenen Kosten im Klassenzimmer.
 
 Für Erklärbarkeit spezifisch sind die Aufgaben, die zählen, jene, die Erklärung aus dem Notebook herauszwingen: benotete Model Cards, die neben Genauigkeitskennzahlen gewichtet werden, und strukturierte Erklärungsaudits, in denen Studierende Interpretierbarkeitswerkzeuge auf ihre eigenen Modelle anwenden und die Ergebnisse dann einem Publikum ohne gemeinsamen technischen Hintergrund präsentieren. Durchsetzung ist die Säule, die in ethiknahen Kursen am häufigsten fehlt, und diejenige, die den Rest mehr als symbolisch macht — Rubriken, die verantwortungsvolle Dokumentation belohnen, Projekte, die aus [[ethics|ethischen]] Gründen zur Überarbeitung zurückgegeben werden können, und [[peer-assessment|Peer-Review]], die gegen Verantwortlichkeitskriterien geführt wird statt nur gegen technische. Das Papier ist offen, dass sich die Werkzeuge in den Kosten stark unterscheiden: Model Cards und Positionality Statements brauchen keine neue Software und riskieren nur oberflächliche Compliance, während Peer-Panels und Stakeholder-Engagement Koordination und institutionelles Buy-in erfordern, weshalb es eine gestufte Einführung empfiehlt statt eines Entweder-Oder-Engagements. Siehe [[curriculum-design]] dafür, wo diese in ein Programm passen.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Zitate machen eine Erklärung vertrauenswürdig."** Zitate wirken als **Glaubwürdigkeitssignal statt als Beleg für Korrektheit**: das Anhängen von Zitaten und Autoritätssignalen an eine Debattenoberfläche **erhöhte die Abkehr von einem korrekten Urteil zugunsten der Position der KI von 15,0 % auf 31,8 %**. Provenienz machte die falsche Antwort überzeugender, was das Gegenteil des beabsichtigten Effekts ist.
+- **„Eine Erklärung, die Nutzende zufriedenstellt, hat das System erklärt."** Dasselbe Versagen der Lesbarkeit erscheint auf der Sicherheitsseite von [[automated-assessment|automatisiertem Assessment]]: [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026) Red-Team]] fand, dass ein alltäglicher Benotungsworkflow durch eingeschleuste Anweisungen manipulierbar war. Eine plausible Erzählung und eine auditierbare sind verschiedene Artefakte.
+- **„Allgemeine XAI-Praxis lässt sich auf die Bildung übertragen."** Das [[xai-education-framework|XAI-ED-Framework]] (Khosravi et al., 2022) besteht darauf, dass Bildung **unterscheidende Erklärbarkeitsbedarfe** über allgemeines XAI hinaus hat, weil das Publikum Lernende einschließt, die nach der Erklärung handeln müssen, statt Auditorinnen und Auditoren, die sie zertifizieren müssen.
+- **„Treue ist eine Eigenschaft, die man ohne Prüfung behaupten kann."** Gemessene Treue verlangt **kontrafaktisches Löschen rubrik-kritischer Spannen** neben menschlichen Bewertungen. Eine Aufmerksamkeit-zu-Rubrik-Ausrichtung von **78,0 % gegenüber 41,7 % bei GPT-4 Zero-Shot und 32,1 % bei BERT** ist ein Vergleichsergebnis aus solcher Prüfung, nicht aus einer Behauptung über Interpretierbarkeit.
 
 ## Zitation
 

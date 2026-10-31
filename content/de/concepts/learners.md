@@ -1,7 +1,7 @@
 ---
 title: "Lernende"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-25T00:10:53-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,13 +12,17 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -78,6 +82,34 @@ Weil Vorteile vorherigem Vorteil folgen, ist lernendenseitige Arbeit von [[equit
 ## Wo diese Seite sitzt
 
 Lesen Sie sie mit [[stakeholders|Akteure]] für die Menschen um die lernende Person herum, und mit [[pedagogy|Pädagogik]] und [[learning-design|Lerndesign]] für das, was Lehrende mit diesen Befunden tun. [[assessment|Assessment]] bestimmt, welche Fähigkeiten der lernenden Person überhaupt sichtbar gemacht werden; [[limitations-in-aied-research|Grenzen in der AIED-Forschung]] erklärt, warum so viel der lernendenseitigen Evidenz kurzfristig, selbst berichtet und an Gelegenheitsstichproben erhoben ist; und [[misconceptions|Missverständnisse]] ist der übliche Einstiegspunkt für Lernende selbst.
+
+## Verbreitete Fehlvorstellungen
+
+**„Lernende und Studierende sind dieselbe Population."** Sie sind nicht auf nützliche Weise austauschbar: *Studierende* benennt eine institutionelle Rolle, *Lernende* benennt eine Tätigkeit, und eine Person kann das eine ohne das andere sein — ein Angestellter in der [[professional-training|betrieblichen Weiterbildung]] ist eine lernende Person, aber kein Studierender. Sie zu verwechseln, verengt die Evidenzbasis auf Menschen mit Einschreibungsakten und lässt genau die Erwachsenen, Berufstätigen und selbstgesteuert Lernenden stillschweigend fallen, um die es in der Forschung zum [[lifelong-learning|lebenslangen Lernen]] geht.
+
+**„Lernende berichten, dass KI ihr Verständnis verbessert, also spart sie ihnen Zeit."** Die beiden Behauptungen trennen sich in den Umfragedaten. In Arbeiten zur Lernproduktivität sagten **92,3%**, KI habe ihr Verständnis verbessert, während nur **38,5%** sagten, sie habe ihre gesamte Lernzeit reduziert. Die Schlagzeilenzahl beschreibt gefühltes Verstehen; die Lücke darunter zeigt, dass verbessertes Verständnis und zurückgewonnene Zeit verschiedene Ergebnisse sind, und die viel wiederholte Behauptung „KI spart Zeit" wird von der kleineren Zahl getragen.
+
+**„Dass Studierende KI für Abkürzungen nutzen, ist ein moralisches Versagen."** Die Wissensbasis behandelt den Sog des geringsten Aufwands als Design- und Politikproblem statt als Charakterproblem — Studierende beschreiben ihn mit eigenen Worten, und die Literatur zu [[reducing-ai-misuse|Missbrauch]] und [[academic-integrity|Integrität]] verortet den Hebel im Design von Aufgaben und Umgebung. Ihn moralisch zu rahmen, erklärt nichts darüber, warum dieselbe Person sich in zwei Kursen unterschiedlich verhält.
+
+**„Wenn eine Fehlverhaltensanschuldigung erhoben wird, ist der Beleg da."** Die Aktenanalyse von 1.162 GenAI-Anschuldigungen zeigt, womit Lernende tatsächlich konfrontiert sind, wenn die institutionelle Reaktion eintritt, und die Studierendenseite des Fehlverhaltensverfahrens ist in der Literatur weit dünner als die Studierendenseite der Nutzung. Eine Seite über Lernende, die nur ihre Nutzung und nicht ihre Anschuldigungserfahrung dokumentiert, hat die Hälfte der Erfahrung dokumentiert.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Fragen Sie, was Lernende *tun*, nicht nur, was sie zu fühlen berichten. Gefühltes Verstehen (92,3%) und zurückgewonnene Zeit (38,5%) gehen weit genug auseinander, dass es das Kursdesign in die Irre führt, auf das eine zu handeln und das andere anzunehmen.
+- Entwerfen Sie strukturell gegen den Sog des geringsten Aufwands, statt auf die Tugend der Lernenden zu setzen, da der Sog als normale Reaktion auf Aufgabendesign dokumentiert ist.
+- Klären Sie Lernende über das Verfahren auf, das sie im Fall einer Anschuldigung erwartet, weil die Verfahrensevidenz zeigt, dass die institutionelle Reaktion oft der Ort ist, an dem der Schaden landet.
+
+**Für Entwicklerinnen und Entwickler**
+
+- Bewerben Sie keine Zeitersparnis, die Lernende selbst nicht berichten. Liefern Sie Kennzahlen sowohl für Verstehen als auch für Zeit und halten Sie sie getrennt gekennzeichnet.
+- Entwerfen Sie für die nicht studierende lernende Person: Nutzende in Betrieben und selbstgesteuert Lernende haben nicht den Einschreibekontext, den Ihre Voreinstellungen möglicherweise annehmen.
+
+**Für Forschende**
+
+- Halten Sie die Unterscheidung zwischen Lernenden und Studierenden in der Stichprobenziehung explizit und berichten Sie, wer dadurch ausgeschlossen wird.
+- Untersuchen Sie die Angeklagten ebenso wie die Nutzenden; die Verfahrensseite ist die dünnere Hälfte dieser Literatur.
 
 ## Verbundene Konzepte
 

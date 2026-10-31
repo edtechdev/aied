@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Datenschutz
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T20:27:31-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,11 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
+    agent: hermes-agent
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **Datenschutz** — der Schutz von Studierendendaten, Identität und [[agency|Autonomie]] in KI-augmentierten Lernumgebungen. Datenschutzbedenken intensivieren sich, während KI-Systeme zunehmend granulare Verhaltensdaten für [[personalized-learning|Personalisierung]], [[learning-analytics|Analytik]] und [[student-modeling|adaptiven Unterricht]] sammeln. Er ist eine zentrale ethische und regulatorische Restriktion für [[ai-education|KI in der Bildung]]: Nahezu jedes KI-Werkzeug, das personalisiert, vorhersagt oder prüft, hängt von Lernendendaten ab, was Datenminimierung, Einwilligung, Transparenz und Sicherheit zu fundamentalen Gestaltungsanforderungen statt zu Nachgedanken macht.
+> **Datenschutz** — der Schutz von Studierendendaten, Identität und [[agency|Autonomie]] in KI-augmentierten Lernumgebungen. Datenschutzbedenken intensivieren sich, während KI-Systeme zunehmend granulare Verhaltensdaten für [[personalized-learning|Personalisierung]], [[learning-analytics|Analytik]] und [[adaptive-learning|adaptiven Unterricht]] sammeln. Er ist eine zentrale ethische und regulatorische Restriktion für [[ai-education|KI in der Bildung]]: Nahezu jedes KI-Werkzeug, das personalisiert, vorhersagt oder prüft, hängt von Lernendendaten ab, was Datenminimierung, Einwilligung, Transparenz und Sicherheit zu fundamentalen Gestaltungsanforderungen statt zu Nachgedanken macht.
 
 ## Fragen zum Nachdenken
 
@@ -53,6 +57,8 @@ Datenschutz ist die Vorbedingung für vertrauenswürdige KI in der Bildung. Weil
 
 - **Die Prüfungsaufsichts-Evidenzbasis ist dünn bei Ethik.** Ein Review von 80 Studien fand 35%, die ihren Datensatz nicht offenlegten, 40%, die ein einzelnes Modell evaluierten, 30%, die nicht reproduzierbar waren, und nur 25%, die ethische Fragen adressierten; Falschmeldungen —, normales Verhalten zu markieren —, bleiben ein zentrales Reliabilitätsrisiko ([[automated-online-exam-proctoring-decade-review-2026|Malhotra & Chhabra (2026)]]).
 
+- **Chat-Oberflächen geben das Gespräch selbst preis.** Ein Audit von 42 KI-Chat-Plattformen durch [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] fand 21, die Gesprächstitel an Drittanbieter-Tracker sendeten, und die sieben Bildungsplattformen kamen im Schnitt auf etwa 367 Tracker-Anfragen je Plattform, wobei fünf Kontext preisgaben.
+
 ## Kindersicherheit und K-12-Schutz
 
 [[k-12|K-12]]-Umgebungen verlangen stärkere Datenschutzsicherungen, weil Lernende minderjährig sind. Das erstreckt Datenschutz über Datenschutz hinaus in [[pedagogical-safety|pädagogische Sicherheit]]: die Werkzeuge, die Kinder nutzen, müssen nicht bloß ihre Daten schützen, sondern sie auch vor Schaden schützen. [[child-safety-genai|Kindersicherheitsforschung]] zeigt, dass allgemeine Sicherheitsklassifikatoren oft bildungsbezogene unsichere Prompts von Kindern verpassen, und warnt, dass Schulen nicht annehmen können, Standard-Modellsicherungen schützten jüngere Nutzende —, sie brauchen kinderspezifische Evaluation, vorfallbegründetes Testen und [[human-in-the-loop-ai|menschliche Aufsicht]]. Die Rahmung verbindet Datenschutz mit [[equity-in-ai-education|Gerechtigkeit]]: wer durch Standardsicherheit und -datenschutzpraxis geschützt wird, reflektiert, wessen Sicherheit und Autonomie ein System als unverhandelbar behandelt.
@@ -67,6 +73,13 @@ Datenschutz ist die Vorbedingung für vertrauenswürdige KI in der Bildung. Weil
 ## Verbindungen
 
 Datenschutz verbindet sich mit [[learning-analytics|Lernanalytik]] (dem Datensammler), [[personalized-learning|Personalisierung]] (dem Datenkonsumenten), [[k-12]] (verstärktem Schutz), [[ethics|Ethik]] (dem normativen Rahmen), [[regulation|Regulierung]] (Rechtsanforderungen), [[governance|Steuerung]] (institutioneller Verantwortung), [[equity-in-ai-education|Gerechtigkeit]] (wer geschützt wird), [[pedagogical-safety|pädagogische Sicherheit]] (Kinderschutz) und [[educational-policy-ai|Bildungspolitik zu KI]] (Politikantworten). Er ist eine der fundamentalen Restriktionen, die jede verantwortliche KI-Einsatz in der Bildung erfüllen muss —, der Grund, weshalb vertrauenswürdige KI, in der Rahmung der Wissensdatenbank, mit vertrauenswürdigen Daten beginnt.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Prüfungsaufsicht erfasst einen begrenzten, gut verstandenen Ausschnitt von Daten."** Ein Katalog dessen, was [[remote-proctoring|Prüfungsaufsichts]]systeme tatsächlich erfassen, listet **Gesichtsbilder, Ausweisdokumente, Raumscans einschließlich 360-Grad-Abtastungen, Mikrofon-Audio, Gesichtserkennung** und mehr. Der Umfang ist breiter, als die meisten Einwilligungsverfahren beschreiben.
+- **„Die Prüfungsaufsichtsliteratur belegt die Ethik der Prüfungsaufsicht."** Ein Review von **80 Studien** fand **35%, die ihren Datensatz nicht offenlegten, 40%, die ein einzelnes Modell evaluierten, 30%, die nicht reproduzierbar waren, und nur 25%**, die die Berichtsschwelle erfüllten. Die Evidenzbasis ist dünn genau bei den Fragen, die eine Institution vor dem Einsatz beantwortet haben muss.
+- **„Datenschutz ist ein Compliance-Häkchen statt eine Gestaltungsanforderung."** Nahezu jedes KI-Werkzeug, das personalisiert, vorhersagt oder prüft, hängt von Lernendendaten ab, was Datenminimierung zu einer Gestaltungsentscheidung macht. Ein Werkzeug, das die Daten benötigt, hat keine optionale Datenschutzeinstellung; es hat eine Datenabhängigkeit, die das Design gewählt hat.
+- **Bewusstsein für Datenpraktiken folgt nicht daraus, sie zu sehen.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] fand **66% von 47 Siebtklässlerinnen und Siebtklässlern**, die bei Chatbots, die ihr Schreiben lasen, die am wenigsten schützende Option wählten, und **47%**, die algorithmischen Einfluss als „just fun" abtaten — gemessen **einen Monat nach** einer Unterrichtsstunde, in der die Klasse ihr eigenes protokolliertes Verhalten live projiziert sah, es als „scary" bezeichnete und mehrere über die Pause hinaus blieben, um die Plattform weiter zu nutzen. Datenschutzunterricht, der den Mechanismus sichtbar macht, ohne die Kosten konkret zu machen, lässt die Haltung unverändert. Der Autor merkt an, dass die niedrigen Werte hier **verlässlicher sein könnten als die hohen**, da es für diese Items keine sozial erwartete Antwort gibt, während Verantwortung und Governance die richtig klingende Antwort einladen.
 
 ## Verbundene Konzepte
 
@@ -85,6 +98,7 @@ Datenschutz verbindet sich mit [[learning-analytics|Lernanalytik]] (dem Datensam
 - [[student-support-and-success]] — Studierendenakten, datenübergreifende gemeinsame Nutzung zwischen Ämtern und föderiertes Risikomodellieren
 
 ## Verbundene Artikel
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Penny für Ihre Prompts: kontextuelles Leck in KI-Chat-Plattformen (Bekos et al. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Föderiertes und erklärbares Learning Analytics für datenschutzwahrendes akademisches Risikomodellieren (Villegas-Ch et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — Vom Learning Analytics zu Bildungsinterventionen: Faktoren, die vertrauenswürdige LA-basierte Interventionen ermöglichen (Svetec, Divjak & Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]

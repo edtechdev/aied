@@ -1,7 +1,7 @@
 ---
 title: Sprach- und Stimmtechnologien
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-24T19:40:06-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,13 +11,17 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-10-23T09:14:19-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,12 @@ Umfangsprüfung. Diese Seite handelt vom gesprochenen Kanal und der Technologie,
 ## Was ungewiss bleibt
 
 Fast jede starke Behauptung hier ruht auf einer kurzen Studie. Die beiden TTS-Lernstunden-Studien liefen in einzelnen japanischen Oberstufenschulen mit fester Darbietungsreihenfolge, die Format mit Inhalt konfundierte, und ihre Lernergebnis-Maße waren selbst berichtet auf hauseigenen Skalen. Das ASR-Feedbackmodell kam von einer chinesischen Universität und war querschnittlich, sodass sein Proficiency-Moderationsbefund Kovarianz statt Kausalität beschreibt. Die Kommunikationsbereitschafts-Studie maß Wahrnehmungen von Feedback, nicht Feedbackqualität. Die Interaktionsprofil-Studie ist eine explorative Analyse mit 22 Teilnehmenden, in der Ausgabestadien-Effekte keine Signifikanz erreichten. Die AOA- und AkoVoice-Einsätze sind einzelne Institutionen, und AkoVoice berichtet keine [[summative-assessment|summative]] Lernevidenz, weil seine Sprachassessments parallel zu tatsächlichen Assessments liefen. Kutti AI ist ein Systembeitrag ohne jede Ergebnisevaluation. Was die Sammlung stützt, ist eine Reihe von Designbehauptungen: Feedbackqualität schlägt Übungsvolumen in der ASR-Nutzung, Dialogerzählung kann Verständnis auf Kosten von Natürlichkeit fördern, Format sollte an Lernendencharakteristiken abgestimmt werden statt fixiert, KI sollte Evidenz an die Oberfläche bringen statt die menschliche Bewertende zu ersetzen, und Sprechen in Echtzeit misst etwas, was Schreiben nicht tut —, einschließlich einer Genauigkeit, die erstaunlich gleichgültig darin ist, wie viele Wörter die lernende Person nutzt. Ob irgendetwas davon an einem anderen Standort, einer anderen Sprache oder einem anderen Jahr hält, ist ungetestet.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Bezahlte Sprachdienste leisten mehr als kostenlose."** **Die beiden freien Dienste gaben nahezu vollständige Transkripte zurück (87,96 % und 88,34 % Abdeckung, bei Wortfehlerraten von 15,23 % und 15,00 %)**, während die beiden bezahlten Dienste nur Vorschauen exportierten, bei 32 % Abdeckung. Der Preis sagte den Nutzen nicht voraus, und die bezahlte Stufe begrenzte die Ausgabe, statt sie zu verbessern.
+- **„Jeder Sprachlern-Chatbot verbessert die Aussprache."** Über **zehn Studien** hinweg **verbesserten nur für Sprachenlernen konzipierte Chatbots — Andy English Bot und Xiaoying — die Genauigkeit**, mit einer **Fehlerabnahme von 14 % in einer Kontrollgruppe** im Vergleich. Generische Konversationsagenten erzeugten den Gewinn nicht.
+- **„Zugewinne bei der Selbstwirksamkeit bedeuten Zugewinne bei der Fähigkeit."** Die Assoziation zwischen der Technologie und den Ergebnissen war positiv, wobei **Selbstwirksamkeit sie teilweise vermittelte: der indirekte Pfad machte 69,9 % des Gesamteffekts aus, während ein direkter Effekt blieb**. Der Großteil des Effekts lief über Zuversicht, was ein Mechanismus und zugleich ein Vorbehalt ist.
 
 ## Verbundene Konzepte
 

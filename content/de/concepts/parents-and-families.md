@@ -1,7 +1,7 @@
 ---
 title: Eltern und Familien
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-24T22:30:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,13 +11,17 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -83,6 +87,16 @@ Was fehlt, ist auffälliger. Eigene Berichte der Eltern sind selten: Die Lehrend
 Ein Scoping-Review 2026 kartiert, wie weit das Feld gekommen ist. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] analysierten 53 HCI-Studien aus 6,540 Datensätzen über 19 Veranstaltungen hinweg durch Aktivitätstheorie und fanden die Literatur zentriert auf Kind-Eltern-Interaktion und auf Sprache, [[ai-literacy|KI-Kompetenz]] und relationales Lernen, wobei 44 der 53 Studien (83%) in Kind-Eltern-Konfigurationen angesiedelt waren. Konversationelle, verkörperte und räumliche Systeme erzeugen Unterstützung aus dem Kontext einer sich entfaltenden Interaktion, und LLMs verteilen Bildungsarbeit neu, während Familien und Institutionen dafür verantwortlich bleiben, Ausgaben zu interpretieren und zu entscheiden, wie sie in die Praxis eingehen. Anhaltende [[personalized-learning|Personalisierung]], Reparaturarbeit, und wie Familien Autorität und Regeln verhandeln, sind die Lücken, die der Review nennt, was dieselbe Abwesenheit ist, die dieser Abschnitt aus der anderen Richtung dokumentiert.
 
 **Beziehung zu anderen Seiten.** [[stakeholders|Akteure in der KI-Bildung]] ist der kurze Überblick über die gesamte Stakeholdermenge, mit Familien als Publikum, das noch nicht vertieft abgedeckt ist; diese Seite ist diese Tiefe. [[early-childhood-elementary-ai-education|Frühe Kindheit und Grundschule]] umfasst die Entwicklungs- und [[pedagogy|pädagogische]] Domäne für junge Lernende über Schule und Zuhause hinweg; diese Seite folgt der Familie über Alter hinweg, von Vorschulspielaktivitäten bis zu Sekundarstufenhausaufgaben. [[ai-use-disclosure|Offenlegung der KI-Nutzung]] umfasst, ob Lernende anderen sagen, dass sie KI genutzt haben; diese Seite umfasst die angrenzende Frage, ob diese Information die Erwachsenen zu Hause erreicht, und was Familien über KI-Nutzung in der Schule gesagt wird.
+
+## Verbreitete Fehlvorstellungen
+
+**„Familien beteiligen sich, wenn das Angebot gemacht wird.“** Die Teilnahme bricht über die Übergaben hinweg zusammen. Im ersten Jahr des hier zitierten Programms nahmen nur etwa **45% der von Lehrkräften nominierten Lernenden an auch nur einer Sitzung teil**, wobei Familien an jedem Schritt verloren gingen — Einladung, Interesse, Kontoerstellung auf einer [[edtech-platform|Drittplattform]], Zuordnung. Jede Übergabe ist ein Ort, an dem eine Familie verloren gehen kann, sodass ein zugestelltes Angebot weit weniger zählt als ein gemachtes.
+
+**„Die Koordination von Familie und Schule rund um GenAI ist eine etablierte Praxis.“** [[family-school-autonomy-support-genai-2026|Fan, Li und Zhang (2026)]] behandeln sie als **ungetestete Hypothese** statt als etablierte Praxis. Programme werden auf einer Annahme entworfen, die die Literatur noch nicht geprüft hat, was man wissen sollte, bevor man eines als evidenzbasiert übernimmt.
+
+**„Eltern werden bemerken, wenn KI dem Lernen ihres Kindes schadet.“** Sie sind am wenigsten in der Lage, es zu bemerken. In den Daten von [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei und Wu (2026)]] stiegen die Hausaufgabennoten um **18%**, während die Ergebnisse in [[summative-assessment|Prüfungen ohne Hilfsmittel]] innerhalb von sechs Monaten um **20%** fielen — und die steigende Zahl ist die, die zu Hause sichtbar ist. Ein Elternteil, das die Hausaufgaben beobachtet, sieht Verbesserung, während das dauerhafte Ergebnis sinkt.
+
+**„KI-Nutzung zu Hause ist eine Frage elterlicher Erlaubnis.“** Sie ist eine Frage von Kompetenz und Interessenvertretung. Die eigene KI-Kompetenz der Eltern bestimmt, was sie an einem von der Schule ausgegebenen Werkzeug hinterfragen können, und Zugangsungleichheiten zwischen Familien prägen, welche Kinder überhaupt erwachsene Vermittlung erhalten.
 
 ## Verbundene Konzepte
 

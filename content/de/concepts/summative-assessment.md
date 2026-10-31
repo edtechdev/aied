@@ -1,7 +1,7 @@
 ---
 title: Summatives Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-24T20:13:33-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -68,9 +72,15 @@ Die Assessmentliteratur der Wissensbasis betont konsistent, dass [[assessment|As
 - **Summatives Format ist ein Hebel für Validität und Integrität:** KI-resistente summative Formate (mündlich, beaufsichtigt, geschlossen, persönlich) bewahren die Verbindung zwischen bewerteter Leistung und tatsächlichem Lernen.
 - **Beaufsichtigte/ungestützte Maße sind das verlässliche Signal:** wenn Studierende KI nutzen, offenbaren ungestützte summative Prüfungen — nicht Hausaufgaben — echtes Lernen.
 - **Automatisierte Benotung braucht psychometrische Prüfung:** LLMs zu nutzen, um hochriskante Prüfungen zu benoten, verlangt die Bewertung von Verlässlichkeit, Fairness und Validität, nicht nur Genauigkeit.
- Benotungsfehler ist auch notenabhängig: über 32 Einreichungen bei einer Prüfung in öffentlicher Gesundheit vermieden die LLMs die Enden der Skala — kein E oder F erschien im schnellen Modus —, während das beste Modell die menschliche Note bei 50.0% exakt und innerhalb ±1 Note bei 90.6% traf ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- Benotungsfehler ist auch notenabhängig: über 32 Einreichungen bei einer Prüfung in öffentlicher Gesundheit vermieden die LLMs die Enden der Skala — kein E oder F erschien im schnellen Modus —, während das beste Modell die menschliche Note bei 50.0% exakt und innerhalb ±1 Note bei 90.6% traf ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **KI kann auch Prüfungen erzeugen:** KI-assistierte Erzeugung von Prüfungen und Aufgaben ist eine aufkommende summativ-designende Anwendung, die selbst Qualitätsbewertung braucht.
 - **Den Zweck der Benotung überdenken, nicht nur das Format.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] kritisieren traditionelle summative, normreferenzielle Benotung dafür, oberflächliches, fragmentiertes Lernen zu fördern, Studierenden wenig Kontrolle oder Transparenz zu geben, intrinsische [[motivation|Motivation]] zu schädigen, Stress und [[well-being|Angst]] zu befeuern und Ungerechtigkeiten zu verewigen, während sie weitgehend Abruf bewertet statt Anwendung in der echten Welt. Sie positionieren Neubewertung, [[mastery-learning|standardsbasierte Benotung]] und Ungrading als auf Benotung fokussierte Innovationen, die summative schwere Praxis abmildern können, während sie anerkennen, dass diese in der Managementbildung wegen normativer Barrieren marginal bleiben — Benotung auf einer Kurve, externes Signalisieren (Ranglisten, Praktika, Akkreditierung) und instrumentelle Denkweise der Studierenden —, und empfehlen inkrementelles Experimentieren mit institutioneller Unterstützung.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Ein LLM kann nicht nach offiziellen Standards benoten."** Gegen **moderierte offizielle Noten** korrelierte ein multimodales LLM, das **10.364 handgeschriebene** Seiten von Physik-Olympiade und Universität benotete, stark. Outcome-Übereinstimmung kann ungenaues Scoring auf Itemebene überstehen — was bedeutet, dass die nützliche Frage ist, wo Item-genaue Präzision tatsächlich nötig ist.
+- **„KI-Noteninflation ist Spekulation."** [[chirikov-ai-grade-inflation-2026|Chirikovs (2026)]] Quasi-Experiment über **über 500.000 Noten** macht den Mechanismus konkret: nach der Veröffentlichung von ChatGPT **stieg in Kursen mit stärker KI-exponierten Aufgaben der Anteil höherer Noten**. Der Effekt konzentrierte sich dort, wo Aufgaben exponiert waren, was genau das Muster ist, das ein Mechanismus vorhersagen würde.
+- **„Studierende, die KI nutzen, lassen sich nicht von denen unterscheiden, die es nicht tun, also ist Provenienz hoffnungslos."** Der Befund, dass es **keinen signifikanten Unterschied in der Quellenzuschreibung** zwischen KI-generierten und Lizenzprüfungs-Items gab, bei korrekter Erkennung von **68,6–77,5 Prozent** und einer Fehlzuschreibungsrate von **18,2 Prozent**, betrifft das Versagen der Erkennung — nicht die Entbehrlichkeit von Provenienz. Wenn überhaupt, erhöht er die Anforderung an verifizierte Provenienz.
 
 ## Verbundene Konzepte
 

@@ -1,7 +1,7 @@
 ---
 title: Pädagogische Agenten
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-24T21:19:23-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: medium
 connected_faqs: [ai-agents-support-students-instructors]
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-24T06:24:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,7 @@ ai_assist:
 ## Einführung
 
 Ein pädagogischer Agent ist eine interaktive KI-Komponente innerhalb eines Lernsystems, die Lernende über Dialog, Fragen oder Prompts anspricht, um kognitive und [[metacognition|metakognitive Prozesse]] zu stützen. Anders als passive [[visualization|Dashboards]] oder statisches Feedback setzen pädagogische Agenten evidenzbasierte Tutoringstrategien ein – etwa das Hervorlocken von Selbst[[assessment|bewertungen]] der Lernenden, bevor sie [[feedback]] geben, oder [[scaffolding|Scaffolding]] von [[problem-solving|Problemlösen]] durch sokratischen Dialog. Der Dachbegriff deckt nun alles ab, von einem einzelnen konversationellen [[intelligent-tutoring|intelligenten Tutor]] bis zu Flotten rollenspezialisierter [[agentic-ai|Agenten]], die dozieren, mentorieren, Zusammenarbeit erleichtern und sogar Kursgenerierung orchestrieren, alles verankert in jahrzehntelanger [[research-methods-aied|Forschung]] zu intelligenten Tutoringsystemen.
+- **Ein Agent, dessen Rolle Regulierung statt Erklärung ist.** Chen et al. (2026) bauten SSRLAgent, um den geteilten Regulationszustand einer Gruppe zu diagnostizieren und entsprechend zu prompten, und hielten in beiden Bedingungen einen inhaltsunterstützenden Agenten konstant ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). Weil beide Arme einen Agenten und eine strukturierte Plattform hatten, hängen die Gewinne an der Adaptivität der Regulations-Prompts, nicht an der Anwesenheit eines konversationellen Agenten.
 
 ## Wie pädagogische Agenten in der Wissensbasis untersucht werden
 
@@ -68,7 +73,8 @@ Eine komplementäre Nutzung rollenbasierter Agenten zielt auf [[teacher-educatio
 Gestalten Sie für die Handlungsfähigkeit des Lernenden, nicht für die Bequemlichkeit des Modells. Begünstigen Sie tutoringspezifische Leitplanken – [[scaffolding|Scaffolding]], Hinweise, [[socratic-method|sokratisches Fragen]], [[misconceptions|Fehlvorstellungen]]-Adressierung – gegenüber roher Antwortgenerierung, da Lösen und Lehren divergieren. Verteilen Sie Unterstützung nach Nutzendenrolle (Elternteil gegenüber Kind, Peer gegenüber Peer) statt über ein einzelnes generisches Interface, und behandeln Sie Zusammenarbeit als gültiges Ziel für Scaffolding. Nehmen Sie nicht an, dass Studierende Scaffolding aufnehmen; evaluieren Sie Übernahme in echten Kontexten. Bauen Sie [[human-in-the-loop-ai|menschliche Aufsicht]] in das Autorenverfahren ein –, wie [[ai-tutor-authoring-promptdecipher|PromptDecipher]] es tut, indem es Lehrenden-QA von Bot-Antworten zu einer erstklassigen Aktivität macht –, und wählen Sie günstigere Backends, wo die Qualität hält. Berichten Sie Lehren- und Lösen-Scores separat, und validieren Sie generierte Inhalte mit Nutzenden, statt anzunehmen, Generierung sei gleich Nützlichkeit.
 
 Lernendenpräferenz ist ein schlechter Stellvertreter für Scaffolding-Qualität: Studierende in KI-gestützter mathematischer Modellierung erbrachten mit Peer- und Teaching-Assistant-Rollen die besten Leistungen, bewerteten aber die direktiveren Tutor- und Excellent-Student-Rollen am höchsten bei Nützlichkeit und Selbstwirksamkeit ([[preferred-scaffolding-ai-mathematical-modeling|Zhu, Yang und Yang (2026)]]).
- Ein Review von 46 Studien zu KI-Agenten im computergestützten kollaborativen Lernen unterscheidet kognitives Scaffolding, soziale Erleichterung und Instruktionsorchestrierung und findet kognitive Gewinne konsistent, während verhaltensbezogene, soziale und emotionale Ergebnisse kontextabhängig sind –, daher sollte die Funktion des Agenten nach dem Ergebnis gewählt werden, das er erzeugen soll ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
+
+Ein Review von 46 Studien zu KI-Agenten im computergestützten kollaborativen Lernen unterscheidet kognitives Scaffolding, soziale Erleichterung und Instruktionsorchestrierung und findet kognitive Gewinne konsistent, während verhaltensbezogene, soziale und emotionale Ergebnisse kontextabhängig sind –, daher sollte die Funktion des Agenten nach dem Ergebnis gewählt werden, das er erzeugen soll ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
 
 ## Verbindungen zu verwandten Konzepten
 
@@ -77,6 +83,12 @@ Pädagogische Agenten sitzen an der Schnittstelle von [[intelligent-tutoring|int
 Entscheidend werden pädagogische Agenten nach ihren [[learning-gains|Lernzuwächsen]] beurteilt, nicht danach, wie flüssig sie antworten. Die Evidenz der Wissensbasis ist, dass Agenten dauerhafte Gewinne erzeugen, wenn sie als tutoringspezifische Coaches mit Leitplanken gestaltet sind –, [[stanford-evidence-base-ai-k12-2026|tutoringspezifische KI schlägt durchgängig allgemeine Chatbots]] –, und Lernen schädigen können, wenn sie für die Anstrengung des Lernenden einspringen ([[generative-ai-guardrails-harm-learning|die Leitplanken-RCT]], [[jost-llm-programming-education-learning-outcomes|LLM-Abhängigkeit und Noten]]). Das Messen der [[learning-gains|Lernzuwächse]] eines Agenten erfordert daher unassistierte, übertragbare Ergebnismaße, nicht Leistung im Werkzeug.
 
 Besseres Feedback ist nicht dasselbe wie besseres Lernen: Das Anpassen eines Agenten mit Wissensbasen und einem Arbeitsablauf hob die Genauigkeit und Spezifität des Feedbacks, ließ aber selbstregulierende Verhaltensweisen, Lernerfahrungen und Ergebnisse unverändert, und sein Gewinnvorteil erschien nur unter direktivem Feedback ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Die Autorierungsabsicht bestimmt, was ein pädagogischer Agent tut."** **Autorierungsabsicht garantiert keine vollzogene Pädagogik.** Als **27 Mittelschullehrende** ein lehrkräftegerichtetes Chatbot-Autorenwerkzeug konfigurierten, zeigte die Evaluation von 108 Bot-Kriterien, dass das vollzogene Verhalten von dem abwich, was die Lehrenden beabsichtigten. Das Werkzeug vermittelte die Pädagogik.
+- **„Ein pädagogischer Agent, der eine Diskussion moderiert, ist eine gelöste Rolle."** [[ethics-training-agents-group-ethics-discussion-2026|Ethics Training Agents (Seo et al., 2026)]] zeigt, was geschieht, wenn ein Agent **moderieren statt** lehren soll — eine qualitativ andere Anforderung als das Beantworten von Fragen, und eine, die die Literatur als ungeklärt behandelt.
+- **„Die Evidenzbasis für computergestützten Unterricht ist dünn."** Eine Synthese (**2025, 34 Reviews**) quantifiziert die CAI-Nutzung über Lehr- und Lernunterstützung (**97,1% der Reviews**), psychologische und motivationale Unterstützung (**91,2%**) und **metakognitive** Unterstützung. Die Breite der begutachteten Anwendung ist umfangreich, was die Lücke zu einer der vollzogenen Qualität statt der Abdeckung macht.
 
 ## Verbundene Konzepte
 - [[learning-gains]]

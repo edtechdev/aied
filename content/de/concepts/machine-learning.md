@@ -4,15 +4,19 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T23:55:00-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,16 @@ Validierungspraxis ist eine weitere Quelle von Übervertrauen. [[schuetze-knowle
 ## Lehrkräftebildung und Machine-Learning-Kompetenz
 
 Maschinelles Lernen erscheint in der Bildung auch als *Fach*. In der [[microbit-robotics-machine-learning-teacher-training-2026|ersten Lehrkräfteausbildung]] verbesserten handlungsnahe Coding- und Robotikinterventionen mit dem Micro:bit und überwachte Bildklassifikationsprojekte das Wissen angehender Lehrkräfte über rechnerische Konzepte und Einführung in maschinelles Lernen signifikant, ebenso wie ihre Einstellungen dazu, es zu unterrichten. Während [[ai-literacy|KI-Kompetenz]] in Curricula Einzug hält, wird die Ausstattung von [[teacher-education|Lehrkräften]] mit einem Arbeitsverständnis maschinellen Lernens zur Vorbedingung, es Studierenden zu lehren. Ein kontrastierender Weg erreicht dieselben Konzepte ohne jede Software: In [[sung-ai-literacy-unplugged-ml-k12-pd-2026|Sung and Gunpinar's (2026) Online-Weiterbildung]] bauten zehn K-12-Lehrkräfte von Hand eine „erklärbare Merkmalsmatrix“ —, eine Ja/Nein-Tabelle von Formmerkmalen, die der Klassifikator *ist*, testbar und überarbeitbar statt opak —, mit Code.orgs Sortierspiel und Google Slides als einzigen Werkzeugen. Ihre [[self-efficacy|KI-Selbstwirksamkeit]] stieg von unter-moderat (M = 3.13) auf über-moderat (M = 3.71), und negative Deskriptoren in einer Wortassoziationaufgabe fielen von 30% der Teilnehmenden auf keine, obwohl die Evidenz klein, unkontrolliert und vollständig [[self-report-measures|selbstberichtet]] ist.
+
+## Verbreitete Fehlvorstellungen
+
+**„Genaue Vorhersage verlangt ein opakes Modell."** Interpretierbarkeit und Leistung sind trennbarer, als diese Annahme zulässt. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries und Koprinska (2025)]] zeigen, dass intrinsisch interpretierbare Entscheidungsbäume —, **auf nur 3-5 Blattknoten beschnitten** —, bei der Vorhersage von Studierendenfortschritt im Programmieren mithalten. Wenn ein Baum mit fünf Knoten auf Ihrer Aufgabe mit einer Black Box gleichzieht, kauft die Black Box Opazität statt Genauigkeit, und in einem pädagogischen Setting, in dem eine Entscheidung gegenüber einer lernenden Person erklärt werden muss, ist die Glass Box der bessere Tausch.
+
+**„Maschinelles Lernen in der Bildung ist eine neutrale Vorhersagetechnologie."** Seine Anwendungen tragen die Governance-Versäumnisse der Disziplin mit sich, und die Prüfungsaufsicht ist der klarste Fall: Ein Modell, das aus Verhaltens- oder physiologischen Signalen etwas über eine studierende Person schließt, erhebt eine Anschuldigung mit einem Konfidenzwert, und die Evidenzbasis für diesen Schluss ist weit schwächer, als die Einsatzrate nahelegt.
+
+**„Generative KI hat klassisches maschinelles Lernen in der Bildung obsolet gemacht."** Sie tun verschiedene Arbeit. Die Vorhersage von Lernendenzuständen, die Schwierigkeitsschätzung und die Fortschrittsprognose bleiben klassische ML-Probleme, und die Literatur zu Knowledge Tracing und Item-Kalibrierung, die dieser Korpus dokumentiert, wird von einem Sprachmodell nicht bedient. Generative KI ist eine Teilmenge des maschinellen Lernens statt ein Ersatz dafür.
+
+**„Die Lehrkräftebildung sollte Studierende über LLMs statt über maschinelles Lernen unterrichten."** Die Kompetenz auf die generative Schicht zu begrenzen, lässt Praktikerinnen und Praktiker unfähig, die prädiktiven Systeme zu befragen, die Entscheidungen über ihre Studierenden treffen —, und dort konzentrieren sich die folgenreichen Fehler.
 
 ## Verbundene Konzepte
 

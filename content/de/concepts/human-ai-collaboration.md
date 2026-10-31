@@ -1,20 +1,24 @@
 ---
 title: Mensch-KI-Zusammenarbeit
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T21:41:34-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -93,6 +97,12 @@ Das macht Mensch-KI-Zusammenarbeit zu einem *pädagogischen* Konstrukt ebenso se
 ### Verbindungen
 
 Mensch-KI-Zusammenarbeit verbindet sich mit [[human-in-the-loop-ai|Mensch in der Schleife]] (Aufsicht), [[agentic-ai|agentischer KI]] (Autonomie), [[teacher-role|Lehre]] (sich verändernde Arbeit der Lehrkräfte), [[scaffolding|Scaffolding]] und [[metacognition|Metakognition]] (wie Zusammenarbeit Lernen unterstützt) sowie [[cognitive-offloading|Überabhängigkeit]] (dem Fehlschlagmodus, wenn Zusammenarbeit zu Einspringen wird). Sie ist ein zentrales Thema über [[ai-literacy|KI-Kompetenz]], [[self-regulated-learning|selbstreguliertes Lernen]] und [[student-experience|Erleben der Studierenden]] hinweg.
+
+## Verbreitete Fehlvorstellungen
+
+- **„Kollaboration heißt, dass die KI einen Teil der Arbeit macht."** **Die lernende Person behält die entscheidende Rolle**, und das skaliert aufs Schreiben: [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash und Connell Pensky (2025)]] zeigen, dass es hält, wenn die Anordnung darauf ausgelegt ist. Arbeitsteilung ist keine Kollaboration, solange der Mensch das Urteil behält.
+- **„In einer umgedrehten Anordnung erklärt die KI."** **Studierende, die der KI etwas beibrachten, erklärten besser** — Definitionen im Flipped Classroom bei **M = 4,18 gegenüber 3,29**, Lehraktivitäten bei **M = 4,91 gegenüber 3,06, beide p < 0,001**. Das Lernen fiel der erklärenden Person zu.
+- **„Menschliche und KI-Beiträge sind Substitute."** Zwei Studien von 2026 kartieren **komplementäre Hälften** der Klassenraumkollaboration, was das Designproblem als Zuteilung statt als Ersetzung rahmt.
 
 ## Verbundene Konzepte
 - [[pedagogical-partnerships]] — Pädagogische Partnerschaften

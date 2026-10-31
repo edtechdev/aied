@@ -1,7 +1,7 @@
 ---
 title: KI-Missbrauch und Lernschaden
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-24T23:29:54-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,13 +10,17 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 ## Einführung
 
 KI-Missbrauch ist von KI-Nutzung verschieden. Nutzung beschreibt den Einsatz von KI als Ergänzung zum Lernen — [[feedback|Feedback]], Brainstorming oder Überarbeitungshilfe, die die kognitive Arbeit der lernenden Person in der Schleife hält. Missbrauch beschreibt Substitution: das Delegieren genau jener mentalen Prozesse (Entwurf, Abruf, Analyse, Überarbeitung) an KI, die dauerhaftes Verstehen aufbauen. Der in der Evidenzbasis der Wissensbasis dokumentierte Schaden ist nicht, dass Missbrauch nicht hilft; er ist, dass Missbrauch spätere, ungestützte Leistung aktiv verschlechtert.
+
+Antizipierter Schaden ist selbst dokumentiert: In schwedischen Befragungs- und Fokusgruppendaten fanden [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]], dass 51% der Teilnehmenden (n = 106) befürchteten, die GenAI-Nutzung könne die individuelle Entwicklung behindern, und dabei Verluste bei [[critical-thinking|kritischem Denken]], Kreativität und Autonomie nannten statt Regelverstöße.
 
 ### Die Leistungs-Lern-Lücke
 
@@ -86,6 +92,36 @@ Die wichtigste praktische Differenzierung ist, dass der Schaden **selektiv nach 
 
 Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) hat ein Pendant im Dialogzeitalter: konversationelles Desengagement — den Agenten verhöhnen, absichtlich falsch antworten, ihn ignorieren, seinen Text spiegeln oder Antworten vorenthalten. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] geben diesem Phänomen in der Dialogforschung zu Studierenden und KI seine erste systematische Behandlung, und seine zentrale Lehre ist interpretativ statt alarmistisch. Eine desengagierte *Wendung* ist ein interaktionaler Zug, kein stabiler Zustand des Desengagements. Die scheinbare Assoziation des False Answering mit Post-Test-Punkten überlebte eine menschlich annotierte Sensitivitätsprüfung nicht, und die Autor:innen lesen sie als Sondierung *innerhalb* von Trajektorien, die oft zum Engagement zurückkehren (das leistungsstärkste Cluster erholte sich bei p = 0.42). Das Verhalten, das die Trajektorien tatsächlich trennte, war Withholding — die Weigerung zu antworten, die eher persistierte, als dass sie sich auflöste. Für Gestaltende kehrt das die übliche Priorität um: lautes, sichtbares Desengagement korrigiert sich oft selbst, während stiller Rückzug signalisiert, dass die Interaktion zusammengebrochen ist.
 
+## Verbreitete Fehlvorstellungen
+
+**„Studierende würden bemerken, wenn KI ihrem Lernen schadet."** Sie bemerken es nicht, und das ist der folgenreichste Einzelbefund dieser Seite: **Studierende in der geschädigten Gruppe nahmen nicht wahr, dass sie weniger lernten.** Selbstauskunft ist damit kein brauchbares Frühwarnsignal. Das Muster von 48% höherer Übungsleistung und 17% niedrigerem Prüfungsergebnis ist für die Person, die es erlebt, unsichtbar, weshalb Schadenserkennung messbasiert statt aussagebasiert sein muss.
+
+**„Das Risiko ist, wie viel KI eine studierende Person nutzt."** Das Risiko ist, wofür die KI substituiert wird. Missbrauch bedeutet hier, das Entwerfen, Abrufen oder Analysieren zu delegieren, das dauerhaftes Verständnis aufbaut — Substitution statt Ergänzung, und eine studierende Person kann in einer Aufgabe stark substituieren und in der nächsten produktiv ergänzen. Die Nutzungsmenge ist die falsche Variable; die Teilung der kognitiven Arbeit ist die richtige.
+
+**„Wenn die Übungsleistung steigt, funktioniert das Werkzeug."** Im kausalen Feld-RCT mit rund 1.000 Mathematik-Lernenden der Oberstufe hob ein ungeschützter Tutor im ChatGPT-Stil die assistierte Übungsleistung um **+48%**, während er unbegleitete [[summative-assessment|Klausurergebnisse]] um **17%** *senkte*. Die Richtungen sind entgegengesetzt, sodass jede Evaluation, die die Übungszahl als Ergebnis liest, genau den Schaden zertifiziert, den sie erkennen soll.
+
+**„Lernende, die KI nutzen, sorgen sich vor allem darum, erwischt zu werden."** Ihre geäußerten Sorgen sind entwicklungsbezogen. In einer Studie befürchteten **51% der Teilnehmenden (n = 106)**, dass GenAI-Nutzung die individuelle Entwicklung behindern könne, und nannten Verluste bei [[critical-thinking|kritischem Denken]], Kreativität und Autonomie statt Regelverstöße. Die [[academic-integrity|Integritäts]]-Rahmung, die den institutionellen Diskurs dominiert, ist nicht die, zu der Studierende selbst greifen.
+
+## Implikationen für die Praxis
+
+**Für Lehrende**
+
+- Fragen Sie Studierende nicht, ob das Werkzeug geholfen hat; messen Sie unbegleitete Leistung. Der subjektive Bericht der geschädigten Gruppe war beruhigend und falsch.
+- Gestalten Sie Aufgabe für Aufgabe auf Ergänzung statt Substitution und legen Sie fest, was die studierende Person produzieren muss, bevor die KI genutzt werden darf.
+- Achten Sie auf steigende Übungsnoten bei gleichbleibenden oder fallenden unbegleiteten Ergebnissen — diese Divergenz ist die Signatur, auf die zu reagieren ist, kein Datenqualitätsproblem.
+- Nehmen Sie die entwicklungsbezogene Sorge in der Rahmung ernst. Studierende, die Verluste bei kritischem Denken und Autonomie ansprechen, beschreiben den Mechanismus des Schadens, nicht Widerstand gegen eine Regel.
+
+**Für Entwickelnde**
+
+- Instrumentieren Sie assistierte und unbegleitete Leistung und stellen Sie nie nur die erste als Lernen dar.
+- Fügen Sie „fanden Sie das hilfreich?" nicht als Lernmaß hinzu; es blieb stabil, während das Lernen fiel.
+- Bauen Sie die Substitutionsgrenze in die Interaktion — das mit Leitplanken versehene Hinweis-statt-Antwort-Design beseitigte den Schaden in derselben Experimentfamilie.
+
+**Für Forschende**
+
+- Berichten Sie immer das unbegleitete Maß und berichten Sie die Wahrnehmung daneben statt an seiner Stelle.
+- Berichten Sie die Substitutionsstruktur der Aufgabe, nicht nur die Nutzungshäufigkeit, wenn Sie Schaden zuschreiben.
+
 ## Verbundene Konzepte
 
 - [[self-directed-learning]]
@@ -103,6 +139,7 @@ Die Literatur zum Gaming-the-System (Hinweismissbrauch, systematisches Raten) ha
 
 ## Verbundene Artikel
 
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Schwedische Befragungs- und Fokusgruppenstudie, die argumentiert, dass Partnerschaftsethik statt einer Betrugsrahmenung institutionelle GenAI-Entscheidungen leiten sollte
 - [[rho-disengaged-conversational-behaviors-2026]] — Desengagierte Gesprächsverhalten und Lernen in Dialogen zwischen Studierenden und KI (Rho et al. 2026)
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI ohne Leitplanken kann Lernen schaden

@@ -1,7 +1,7 @@
 ---
 title: Formatives Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T23:48:52-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,13 +11,17 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-17T03:49:06-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -35,6 +39,8 @@ ai_assist:
 ## Einführung
 
 Formatives Assessment ist für [[ai-education|KI in der Bildung]] zentral, weil es an der Verbindung von [[assessment|Assessment]] und [[feedback|Lernfeedback]] liegt. Sein Zweck ist, den Kreislauf zu schließen: an die Oberfläche bringen, was Lernende wissen und nicht wissen, und Feedback geben, auf das sie zur Verbesserung handeln können. KI macht das im großen Maßstab machbar — Items generieren, Antworten bewerten und individualisiertes Feedback liefern —, aber die Forschung der Wissensbasis zeigt, dass die Qualität über Item-Typen hinweg dramatisch variiert, und dass Feedback nur hilft, wenn Studierende es tatsächlich umsetzen.
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] liefern Evidenz dafür, dass ein automatisiertes Schreibsystem einem authentischen formativen Zweck dienen kann: Zuwachs zeigte sich in der Überarbeitungsqualität und nicht nur in Feature-Punktwerten, aber nur dort, wo Lehrkräfte das Feedback in die Klassenzimmerdiskussion einbauten.
 
 ## KI-generierte formative Items
 
@@ -106,11 +112,12 @@ Formatives Assessment in der KI-Bildung verbindet sich mit dem Lernprozess selbs
 - **KI-Bewertung fügt eine Validitätsbedrohung hinzu.** Weil ein KI-Bewerter konstruktirrelevante Merkmale wie Sprachflüssigkeit statt naturwissenschaftliches Schlussfolgern belohnen kann, argumentiert ein von einer Zusammenkunft von etwa 100 Führungskräften destilliertes White Paper aus Stanford/ETS, dass Assessment kontinuierliche, kontextreiche Evidenz akkumulieren sollte statt einmalige Ausgaben zu zertifizieren ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 
 - **Behalten Sie die verwundbare Aufgabe und fügen Sie einen Zwilling hinzu.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] argumentieren, dass Take-Home-Essays und Forschungsberichte erheblichen formativen Wert tragen und für das Lernen beibehalten werden sollten, gepaart mit einer zweiten Aufgabe, die dieselben Ergebnisse bewertet und verlässliche summative Evidenz liefert.
-- **Kontinuierliches Assessment rahmt die formativen Aufzeichnungen selbst neu.** Die AIM-CAI-Referenzarchitektur (ein Positionspaper, keine Implementierung) schlägt vor, episodisches Assessment als primäre Evidenzbasis durch eine sechsschichtige Infrastruktur zu ersetzen: Evidenzerzeugung über Plattformen hinweg, Serialisierung, die den Quellkontext bewahrt, KI-vermittelte semantische Übersetzung, psychometrische Interpretation, longitudinale Kompetenzprofile und föderierte Governance. Ihre Verschiebungstabelle benennt den Wandel: Feedback je Aufgabe wird longitudinales Feedback, das Beratung und Reflexion stützt; Noten werden sich entwickelnde Kompetenzprofile; Anerkennungen werden transparente Entwicklungsaufzeichnungen. Die Governance-Schicht ist das Beharren des Papers — sieben benannte Spannungen (Interoperabilität gegenüber lokaler Autonomie, Datenschutz gegenüber Nutzen, Handlungsfähigkeit der Lernenden gegenüber prädiktiver Automatisierung, Überwachung gegenüber Unterstützung etc.), jede abgebildet auf Risiken und Antworten, mit der Warnung, dass ungoverned kontinuierliche Inferenz dominante kulturelle Normen privilegiert. Der Neuheitsanspruch ist integrativ: die Komponenten existieren; der Beitrag ist die Architektur und die Governance-Karte. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+- **Technologiegestütztes formatives Assessment ist eine Systemeigenschaft, kein Werkzeug.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] definiert es als das gemeinsame Produkt aus technologischer Kapazität, pädagogischer Regulation, Handlungsfähigkeit der Lernenden und menschlichem Urteil, und argumentiert, dass sein Wert darin liegt, den Zyklus Evidenz–Feedback–Reflexion–Handlung aufrechtzuerhalten, statt in Automatisierung.
 
 ## Risiko: Assessment als Überwachung
 
 Systeme formativen Assessments können sich von Lernunterstützungswerkzeugen zu Verhaltensüberwachungsinfrastruktur verschieben. Dieselben Datenströme, die adaptives Tutoring ermöglichen, können strafende Nachverfolgung ermöglichen, wenn [[governance|Governance]] schwach ist. Das verbindet sich mit [[privacy|Datenschutz]] und dem [[well-being|Wohlbefinden der Lernenden]] und argumentiert für formative Systeme, die Lernen unterstützen, statt es zu überwachen.
+
 Beobachtbarkeit lässt sich ohne Überwachung gestalten: Sie ist die Evidenz, die ein Assessment tatsächlich für ein verteidigbares Urteil über Lernen erzeugt, behandelt als Designpriorität, deren Kosten in Machbarkeit statt in Ethik bezahlt werden ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
 
 ## Implikationen für KI in der Bildung
@@ -121,6 +128,13 @@ Beobachtbarkeit lässt sich ohne Überwachung gestalten: Sie ist die Evidenz, di
 - **Behalten Sie Bildungspersonal in der Schleife:** curriculum-verankerte, bildungspersonalsgeführte Systeme verbessern Relevanz und reduzieren Rauschen.
 - **Evaluieren Sie Qualität und Validität:** bewerten Sie KI-generierte Items und Feedback auf Qualität, Validität und [[equity-in-ai-education|Gerechtigkeit]], nicht nur auf Generierungsgeschwindigkeit.
 - **Behandeln Sie formatives Assessment als Philosophie, nicht als Werkzeugkasten.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] synthetisieren die breitere Hochschulliteratur zu einem „assessment for learning"-Paradigma, das formatives, laufendes und individualisiertes [[feedback|Feedback]] als übergreifende Philosophie rahmt statt als bloßen Werkzeugkasten — formatives mit [[summative-assessment|summativen]] Zwecken ausbalancierend und [[agency|Handlungsfähigkeit der Lernenden]], Selbstregulation und [[metacognition|metakognitive Fähigkeit]] in den Vordergrund stellend. Sie identifizieren fünf sich gegenseitig verstärkende Praktiken ([[authentic-assessment|authentisches Assessment]], Selbst- und [[peer-assessment|Peer-Bewertung]], Neubewertung, [[mastery-learning|standardsbasiertes Benoten]], ungrading), durch die diese Philosophie umgesetzt werden kann, während sie feststellen, dass ihre Aufnahme über Hochschulfelder hinweg höchst ungleich bleibt.
+- **Kontinuierliches Assessment rahmt die formativen Aufzeichnungen selbst neu.** Die AIM-CAI-Referenzarchitektur (ein Positionspaper, keine Implementierung) schlägt vor, episodisches Assessment als primäre Evidenzbasis durch eine sechsschichtige Infrastruktur zu ersetzen: Evidenzerzeugung über Plattformen hinweg, Serialisierung, die den Quellkontext bewahrt, KI-vermittelte semantische Übersetzung, psychometrische Interpretation, longitudinale Kompetenzprofile und föderierte Governance. Ihre Verschiebungstabelle benennt den Wandel: Feedback je Aufgabe wird longitudinales Feedback, das Beratung und Reflexion stützt; Noten werden sich entwickelnde Kompetenzprofile; Anerkennungen werden transparente Entwicklungsaufzeichnungen. Die Governance-Schicht ist das Beharren des Papers — sieben benannte Spannungen (Interoperabilität gegenüber lokaler Autonomie, Datenschutz gegenüber Nutzen, Handlungsfähigkeit der Lernenden gegenüber prädiktiver Automatisierung, Überwachung gegenüber Unterstützung etc.), jede abgebildet auf Risiken und Antworten, mit der Warnung, dass ungoverned kontinuierliche Inferenz dominante kulturelle Normen privilegiert. Der Neuheitsanspruch ist integrativ: die Komponenten existieren; der Beitrag ist die Architektur und die Governance-Karte. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
+## Verbreitete Fehlvorstellungen
+
+- **„Generierte Übungsitems liefern ein brauchbares formatives Signal."** **Eine leichte Item-Bank aus generierten Items liefert kein formatives Signal**: In einem **10-wöchigen Einsatz wurden etwa 70% der KI-generierten Übungsitems von allen Studierenden richtig beantwortet**. Eine Bank, die jeder besteht, trägt keine Information darüber, wer was braucht.
+- **„Die Reliabilität der Itemgenerierung ist über Formate hinweg einheitlich."** KI-Systeme generieren formative Items über Modalitäten hinweg **mit je nach Typ variierender Reliabilität** — Multiple-Choice eingeschlossen. Generierte Items als über Formate hinweg austauschbar zu behandeln verbirgt, wo die Generierung verlässlich ist.
+- **„Studierenden KI-Feedback zu geben erzeugt Umsetzung."** Das **Umsetzungsproblem** ist separat von der Feedbackqualität dokumentiert: Feedback zu erhalten und darauf zu handeln sind getrennte Schritte, und der zweite ist der, an dem formatives Assessment gelingt oder scheitert.
 
 ## Verbundene Konzepte
 

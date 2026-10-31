@@ -1,20 +1,24 @@
 ---
 title: Verkörpertes Lernen
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T20:10:02-04:00"
+updated: "2026-10-30T23:30:00-04:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-23T22:31:18-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-30"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,12 @@ Ein zweiter, theoretischerer Strang der Verkörperungsforschung der Wissensbasis
 
 Verkörpertes Lernen verbindet sich mit [[educational-robotics|Bildungsrobotik]], [[educational-robotics|Robotik in der Bildung]], [[educational-robotics|robotischen Systemen]], [[active-learning|aktivem Lernen]], [[experiential-learning|erfahrungsbasiertem Lernen]], [[situated-learning|situiertem Lernen]], [[distributed-cognition|verteilter Kognition]], [[computational-thinking|computational thinking]] und [[social-emotional-learning|sozial-emotionalem Lernen]].
 - **Körperverfolgung macht Selbstregulation zu einem messbaren Signal.** In einer Mixed-Reality-Photosynthese-Simulation, in der Bewegungs-Tags Lernenden-Agenten über ein projiziertes Modell bewegten, klassifizierte eine LLM-Pipeline 470 Segmente selbstregulierten Verhaltens in 40 Minuten Video, wobei das Segment-Label „dominating" mit 66,4 % am häufigsten vertreten war ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+## Verbreitete Fehlvorstellungen
+
+- **„Der Körper ist das, was verkörpertes Lernen zum Funktionieren bringt."** Eine Metaanalyse von **11 RALL-Studien (N = 595, g = 0,83, I² = 84,4%)** fand, dass **Robotermorphologie, Modalität, Autonomie und soziale Rolle** die Ergebnisse des Zweitsprachenlernens **nicht moderierten**. Die Verkörperungsmerkmale waren nicht der wirksame Bestandteil, und die Heterogenität war hoch genug (I² = 84,4%), dass der gepoolte Effekt eine sehr gemischte Gruppe von Interventionen beschreibt.
+- **„Ein großer Effekt entscheidet über den Mechanismus."** g = 0,83 mit 595 Teilnehmenden über 11 Studien ist ein echtes Signal, und es identifiziert nicht, was es erzeugt hat. Da die Designmerkmale den Effekt nicht moderierten, sitzt der plausible Mechanismus in der pädagogischen Aktivität statt in der Hardware — was verändert, worin zu investieren ist.
+- **„Verkörperung lässt sich nicht messen und bleibt deshalb theoretisch."** Körperverfolgung kann Regulation in ein **messbares Signal** verwandeln: In einer Mixed-Reality-Photosynthese-Simulation, in der Bewegungs-Tags Studierendenagenten über ein projiziertes Modell bewegten, labelte eine LLM-Pipeline **470 Segmente** Regulationsverhalten. Das Konstrukt ist operationalisierbar, auch wo es schwer zu definieren ist.
 
 ## Verbundene Konzepte
 - [[educational-robotics]]
