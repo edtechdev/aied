@@ -20,7 +20,7 @@ confidence: high
 connected_resources: [writing-rhetoric-studies-in-the-loop, id-toolbox]
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_of: resources/pedagogical-promptbook
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

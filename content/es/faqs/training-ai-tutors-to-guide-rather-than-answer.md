@@ -17,7 +17,7 @@ methods: [benchmark]
 ethics: [ai-sycophancy, pedagogical-safety]
 source_updated: "2026-10-28T11:26:02-04:00"
 translation_of: faqs/training-ai-tutors-to-guide-rather-than-answer
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

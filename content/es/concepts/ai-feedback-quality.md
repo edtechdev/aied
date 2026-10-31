@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -9,8 +9,8 @@ technology: [generative-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-10-28T19:24:33-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-31T09:55:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -72,6 +72,7 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 - **Provisión discrecional de retroalimentación:** [[ai-assistance-discretionary-feedback|la investigación sobre retroalimentación asistida por IA en educación superior]] examina si la IA aumenta la cantidad y la calidad de la retroalimentación que ofrecen los docentes.
 - **La capa relacional resiste la delegación:** entre 21 docentes de educación superior que usaban una herramienta de retroalimentación con IA, 12 reescribieron el texto del modelo, las revisiones se concentraron en el tono y el ánimo (Relación estudiante-docente f = 24), y los docentes con más experiencia señalaron la carga de edición, la confianza y el riesgo de desinformación, mientras que los novatos se plegaron a la herramienta ([[learner-centered-feedback-ai|Aldino et al. (2026)]]).
 
+- **El estudiantado y el modelo coinciden en algunas dimensiones y no en otras.** El estudiantado de grado juzgó la retroalimentación constructiva en los mismos términos que ChatGPT para la especificidad y la accionabilidad, pero divergió en puntualidad y positividad, y valoró la retroalimentación del profesorado por su carácter relacional, personalizado y experto mientras leía la retroalimentación de IA como impersonal ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]).
 - **Lo que da ventaja a la IA es la provisión fiable, no una superioridad inherente:** el experimento de campo de un semestre de [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] encontró que la retroalimentación de GPT-4 superó a la [[peer-assessment|retroalimentación entre pares]] porque se entregaba de forma *consistente*: casi todos los encuestados que recibieron retroalimentación de IA (369/398) recibieron retroalimentación textual y numérica, mientras que menos de dos tercios de los estudiantes con retroalimentación entre pares no recibieron ninguna, y buena parte de la retroalimentación entre pares consistió en elogios no dirigidos. Cuando sí se recibió retroalimentación textual de alta calidad entre pares, los resultados de los pares igualaron a los de la IA, lo que indica que la ventaja de la IA es la fiabilidad y no la calidad en el margen. Los estudiantes también valoraron ligeramente más la retroalimentación entre pares en validez percibida y emoción (una leve [[trust|aversión a los algoritmos]]), y aun así se activaron más y aprendieron más con la IA, lo que muestra que la calidad percibida y los resultados conductuales pueden divergir.
 - **La paridad de calidad puede ceder con las rondas.** Con una rúbrica compartida, la retroalimentación de los grupos de pares igualó a la de ChatGPT-4o en cinco dimensiones en la primera ronda, pero el modelo se adelantó en constructividad, exactitud y concreción en la segunda, un cambio que los autores atribuyen a la indicación alineada con la rúbrica y a la práctica, no a una propiedad fija del modelo ([[peer-group-vs-ai-feedback-2026|Li et al. (2026)]]).
 - **La ventaja puede venir de un ejemplo resuelto y no de la retroalimentación correctiva.** Practicar cartas de presentación con IA superó a la retroalimentación de editores humanos experimentados en una tarea posterior sin ayuda (d = 0,20), y solo ver una carta revisada por IA igualó a practicar con la herramienta, de modo que la ganancia siguió al ejemplo ([[coach-not-crutch-ai-writing|Lira et al. (2025)]]).

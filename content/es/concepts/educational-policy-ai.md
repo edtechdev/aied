@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,8 +12,8 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-10-26T12:05:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T09:15:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -53,6 +53,10 @@ La IA en la educación se gobierna mediante una pila de instrumentos: legislaci�
 La investigación sobre política de la base de conocimiento documenta esa brecha desde ambos lados. Las políticas institucionales van por detrás del uso real de la IA, y donde existen reglas suelen ser orientaciones y no política exigible, escritas a nivel de curso por docentes concretos y no por la institución. El mismo patrón aparece en [[k-12]], donde solo una minoría de los centros declara tener alguna política, y en los programas profesionales, donde los documentos de asesoramiento superan en número a las reglas vinculantes.
 
 Esta página trata la política como algo distinto de la [[governance|gobernanza]]. Una política responde a *cuáles son las reglas*; la gobernanza responde a *quién decide y cómo surten efecto realmente las reglas*. Mantenerlas separadas importa porque la investigación muestra repetidamente que las políticas fracasan no por falta de contenido sino por falta de maquinaria: ciclos de revisión, desarrollo profesional, vías de apelación y seguimiento. Las secciones siguientes exponen los niveles en que se hace la política, la brecha de madurez que separa las reglas escritas de la práctica en el aula, las cuestiones de política de evaluación que la IA impone y las estructuras de gobernanza que deciden si algo de ello se sostiene.
+
+La brecha tiene una forma discursiva además de organizativa. [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] lee cuatro publicaciones de la UNESCO y la OCDE a través de los significantes flotantes de Laclau y encuentra que el vocabulario compartido de gobernanza (responsabilidad, transparencia, confianza, autenticidad, uso responsable, aumentación) adquiere fuerza normativa por repetición sin adquirir nunca una definición operativa. La OCDE (2026) documenta veintitrés países y jurisdicciones que convergen en ese vocabulario mientras dejan su significado a la interpretación contextual, y la OCDE (2023) informa de que a comienzos de 2024 ninguno de los dieciocho países encuestados contaba con regulación específica de IA generativa en educación, y nueve delegaban la responsabilidad principal en el ámbito escolar. El efecto es la no-performatividad de Ahmed: los compromisos se formulan en lenguaje modal, sin un mecanismo mediante el cual pudieran hacerse efectivos o evaluarse, y la responsabilidad se distribuye entre proveedores, instituciones, profesorado y estudiantado hasta que ningún actor la sostiene.
+
+La conclusión práctica de Hashem es un desplazamiento de la implementación de políticas a la puesta en acto de las políticas, con las instituciones escribiendo los límites de divulgación, autoría y evaluación que los textos internacionales dejan abiertos.
 
 ## Niveles de política
 
@@ -196,3 +200,5 @@ El mismo déficit tiene un lado de demanda. [[gillette-partnership-ethics-genai-
 - [[genai-use-changing-institutional-policy-physics-2026]] — Nivel de política frente a diseño de tarea: para qué usó el estudiantado la IA generativa en tres evaluaciones de física (Quince y Faulconer 2026)
 - [[genai-pisa-decline-countries-2026]] — Un mayor uso a nivel de país de IA generativa acompañó a declives mayores en PISA 2022-2025, una correlación que se desvaneció al controlar el rendimiento previo (Guerra y Aslanov 2026)
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — El EdTech Impact Testbed de Inglaterra como gobernanza anticipatoria: pilotos que producen evidencia promisoria (Williamson et al., 2026)
+
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Los textos de la UNESCO y la OCDE comparten un vocabulario de gobernanza y ninguna definición operativa; veintitrés jurisdicciones convergen sin ella

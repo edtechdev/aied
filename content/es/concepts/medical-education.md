@@ -1,7 +1,7 @@
 ---
 title: Educación médica y en profesiones de la salud
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,8 +11,8 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-10-26T10:25:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:20:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -72,6 +72,8 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 
 [[wang-safety-gap-productive-struggle-2026|Wang y Shan (2026)]] nombran la «brecha de seguridad» resultante —la divergencia entre el rendimiento asistido por IA de un estudiante y su capacidad no asistida de verificarlo— y prescriben retener las soluciones, fricción cognitiva constructiva y arquitecturas de IA socráticas o adversariales para la formación clínica de alto riesgo.
 
+- **Qué enseñan los planes de estudios sobre la procedencia de los datos.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] codificaron los planes de estudios anunciados públicamente de 36 programas estadounidenses de IA en salud y encontraron que la ética aparecía en 29 (80,6%) pero la procedencia de los datos, en un nivel estructural o de limitaciones del conjunto de datos, solo en 8 (22,2%), sin ningún programa que abordara el costo ambiental de la computación y sin que ninguno de los siete másteres alcanzara el umbral de procedencia. De 92 docentes nombrados, el 76,1% procedía de disciplinas computacionales y el 3,3% de las ciencias sociales o las humanidades. La brecha tiene consecuencias clínicas: los fallos de despliegue con los que abre el artículo se introdujeron aguas arriba, en cómo se generaron o etiquetaron los datos de entrenamiento, que es una competencia enseñable que el plan de estudios parece no recoger.
+
 ## Implicaciones para el profesorado de profesiones de la salud
 
 - **Use la IA para operacionalizar principios de aprendizaje, no para sustituir al educador.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] sostienen que la IA debería operacionalizar el aprendizaje experiencial, situado y de cognición distribuida mientras el profesorado sigue siendo central para la implicación y los resultados.
@@ -128,3 +130,5 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 - [[sophie-clinical-communication-ai-assessment-2026]] — Entrenamiento en comunicación clínica y evaluación automatizada escalables basados en IA
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Mapa bibliométrico de la ética de la IA en la educación médica: la producción pasó de 113 (2023) a 500 (2025), 39 países, y las citas premian las pruebas de capacidad por encima de la gobernanza (Sriram et al. 2026)
 - [[llm-grading-assistants-public-health-2026]] — Las ejecuciones repetidas no reproducen la misma nota
+
+- [[giancotti-data-provenance-health-ai-curricula-2026]] — Los planes de estudios de IA en salud enseñan ética (80,6%) pero rara vez procedencia de los datos (22,2%)

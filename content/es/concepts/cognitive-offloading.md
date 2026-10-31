@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-10-31T11:53:21-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,8 +12,8 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-10-29T10:20:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:53:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -122,9 +122,17 @@ Los artículos de la base de conocimiento documentan la descarga cognitiva en m�
 - **El efecto está en la división del trabajo, no en la herramienta.** Nakamura (2026) sostiene que la heterogeneidad de los efectos de la IA generativa en el aprendizaje se disuelve cuando la unidad de análisis pasa a ser el reparto del trabajo cognitivo entre estudiante y máquina. La externalización aumenta el aprendizaje cuando descarga operaciones periféricas al objetivo actual, y arriesga la erosión cuando se salta el procesamiento constitutivo de ese objetivo ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Procesar sustantivamente la salida, o reconstruirla después, es lo que rescata una externalización que de otro modo sería constitutiva.
 - **Lo que una persona puede entregar depende de su experiencia con la tarea.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] hace que el orden de las tareas sea relativo a la persona: lo que es de orden superior para un novato es de orden inferior para quien ya domina el procedimiento, así que la externalización permitida debería crecer con la experiencia y detenerse en el núcleo del trabajo.
 
+**El capital cognitivo es el acervo del que tira la descarga.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] reformulan la descarga como un cambio en un acervo y no como un acto. El capital cognitivo es conocimiento, capacidad y práctica acumulados, renovables y agotables, que poseen las personas y las organizaciones, y se mantiene separado de la capacidad del sistema humano-IA para que una ganancia de rendimiento conjunto pueda verse junto a una pérdida de capacidad humana. Sus cuatro mecanismos (sustitución de la práctica, andamiaje y retroalimentación, calibración metacognitiva y agregación organizativa) producen siete principios, entre ellos que el rendimiento asistido no es competencia retenida y que descargar una tarea difiere de descargar la práctica que construye la habilidad. La estadística que lo motiva es un despliegue escalonado en 5.172 agentes de atención al cliente en el que un asistente elevó los casos resueltos por hora un 15%; esa cifra describe el sistema conjunto, y si los agentes podían seguir haciendo el trabajo sin ayuda es una medición que la literatura revisada no contiene.
+
 ### Cuando la descarga cognitiva disminuye en lugar de aumentar
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] informa de un experimento preregistrado (N = 317) en el que adultos aprendieron contenido nuevo a partir de hojas de trabajo convencionales o de un asistente de propósito general restringido a esas mismas hojas. La condición con IA redujo la descarga cognitiva medida en lugar de aumentarla (mediana de −0,27, intervalo creíble del 95% de −0,58 a 0,04). El procesamiento profundo cayó aun así, pero por una cadena en la que una menor descarga se asoció con un menor [[critical-thinking|pensamiento crítico]], que a su vez predijo un procesamiento profundo más débil (0,78). La desorganización aumentó en 0,84 sin que ningún mediador canalizara el efecto. El hallazgo es una advertencia para el relato estándar: la descarga no es la única vía por la que un entorno de [[generative-ai|IA]] erosiona el procesamiento, y una condición puede dejar la descarga intacta mientras suprime aquello que se suponía que la descarga protegía.
+
+### Externalizar la empatía, no solo la cognición
+
+El mismo trueque se aplica al trabajo emocional, y ahí la evidencia es más reciente. [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] denominan externalización de la empatía a este fenómeno: cuando un sistema puede ofrecer apoyo emocional, las personas aportan menos del suyo (N = 2.223 en cuatro estudios). La disposición a entregar la empatía a un modelo siguió a la creencia en la capacidad del modelo para tenerla (b = 0,44), y un experimento que elevó esa creencia mediante una cobertura informativa ordinaria desplazó la externalización a través de ella (indirecto 0,73, directo no creíble). La parte instructiva está en dónde se separan el autoinforme y la conducta: al saber que un estudiante había recibido apoyo de un chatbot, los participantes valoraron su propia externalización como menor que ante un amigo o un terapeuta, y después eligieron menos palabras de empatía y más palabras de indiferencia sobre ese estudiante.
+
+- **La descarga se divide en una ganancia visible y una pérdida invisible.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] sostiene que el fallo de calibración que documenta esta página es una inferencia *transdimensional* y no un exceso de confianza general. La competencia operativa (formular instrucciones, iterar, integrar) devuelve retroalimentación inmediata e inequívoca, mientras que la competencia evaluativa (juzgar si una salida es exacta) devuelve una retroalimentación tardía, escasa o ausente. La descarga eleva la comprensión percibida y reduce el procesamiento profundo a la vez, y solo la primera se experimenta. Por eso las advertencias sobre las limitaciones de la IA son intervenciones débiles: abordan creencias sobre el sistema mientras la ilusión la genera una ausencia en la propia experiencia de quien la usa. La revisión es conceptual y no aporta datos propios.
 
 ## Dependencia excesiva: cuando la externalización se vuelve dañina
 
@@ -220,6 +228,7 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[ai-proof-learning-cognitive-offloading-2026]] — ¿Apoyar o sustituir el razonamiento de los estudiantes? La descarga cognitiva en el aprendizaje de demostraciones asistido por IA (Chen et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Lo que la entrega no muestra: complejizar la descarga cognitiva en el trabajo matemático de los estudiantes con LLM (Kontorovich y Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 expertos sobre 65 procesos de aprendizaje: la externalización en ambos extremos de la secuencia de aprendizaje
+- [[shastry-gray-empathy-offloading-2026]] — Las personas externalizan la empatía cuando creen que la IA puede ofrecerla (Shastry y Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — El yo alquilado: la externalización que cuesta el yo de dominio del estudiante y no solo la habilidad
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Grupos que empezaron iguales divergieron: 74,1% de adopción del modelo en un perfil frente a 80,8% de externalización y bloqueo en otro (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — La asistencia de IA redujo la persistencia y el rendimiento sin ayuda en tres ECA (Liu et al. 2026)
@@ -260,3 +269,6 @@ La misma lógica convierte el moldeado de recompensas en una herramienta de dise
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Los niños mostraron una conectividad frontoparietal, de saliencia y de atención dorsal más débil que los adultos mientras hablaban con ChatGPT, con puntuaciones de creatividad equivalentes
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — La IA generativa y el pensamiento creativo infantil: dependencia excesiva y dependencia del prompt en una revisión de alcance (Niu et al. 2026)
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Dormancia cognitiva: un experimento preregistrado en el que las affordances de la IA redujeron el procesamiento profundo y aumentaron la desorganización sin aumentar la descarga cognitiva (Braun 2026)
+
+- [[riva-cognitive-capital-generative-ai-review-2026]] — Capital cognitivo: la descarga como retirada de un acervo renovable de capacidad
+- [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Descalibración transdimensional: la fluidez operativa se lee como competencia evaluativa y de dominio (revisión conceptual)

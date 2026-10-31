@@ -10,8 +10,8 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-10-26T12:30:00-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+source_updated: "2026-10-30T09:15:00-04:00"
+updated: "2026-10-31T11:53:21-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -180,6 +180,10 @@ El primer estudio de la teoría de la conducta planificada sobre la intención d
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] documentan el régimen desde dentro de una facultad: el profesorado que había cambiado los formatos de evaluación afirmaba que era «prácticamente imposible decir si un estudiante ha usado IA al escribir sus tareas», mientras que el estudiantado, indignado, pedía apelaciones a la conciencia y «señalamiento» en lugar de detección.
 - **Detectar mejor no cambia lo que la evaluación puede certificar.** Un sistema de supervisión con estimación de postura YOLOv11 que declara una precisión de clasificación del 99,56% ilustra el límite de la vía de la detección: mide la postura frente a una etiqueta conductual, no aporta ninguna referencia real sobre la mala conducta y no ofrece análisis por subgrupos ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). El remedio que defiende Villanueva es una evidencia suficiente de aprendizaje en etapas clave, no la vigilancia máxima de cada entrega.
 
+**El lenguaje de la integridad en la política internacional no fija un significado operativo, y ese es el hallazgo y no la carencia.** [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] analizó cuatro publicaciones de la UNESCO y la OCDE entre 2023 y 2026 mediante análisis crítico del discurso y encontró ocho términos recurrentes (responsabilidad, transparencia, confianza, agencia humana, originalidad, autenticidad, uso responsable y aumentación) que portan peso normativo mientras cambian de referente entre documentos. La UNESCO atribuye a los proveedores la responsabilidad sobre los valores fundamentales y al profesorado la de una interacción pedagógicamente adecuada; la OCDE reubica el mismo término en el juicio profesional docente. La OCDE (2023) registra que a comienzos de 2024 ninguno de los dieciocho países encuestados contaba con regulación específica de IA generativa para la educación y nueve habían delegado el gobierno en el ámbito escolar.
+
+Leído a través de la no-performatividad de Ahmed, el vocabulario expresa sensibilidad ética sin ningún mecanismo para hacerla efectiva, de modo que la responsabilidad es invocada por todos los actores a la vez y no se sitúa en ninguno. Hashem denomina el resultado un **habitus de trampa** cambiante: disposiciones hacia la participación legítima recalibradas bajo una indeterminación crónica, estratificadas por el capital académico que aporta el estudiantado, con la trampa y el ser engañado tratados como condiciones concurrentes y no como alternativas. Todo ello se propone desde el texto político y no se observa en el estudiantado.
+
 ## Concepciones erróneas
 
 - **«Las herramientas de detección identifican la escritura con IA.»** El texto generado por IA ha **pasado por escrito por una persona en hasta el 80% de los casos**, mientras que la evidencia sobre la detección sitúa la **detección automática en torno al 80% frente al 78,4% de quienes revisan de forma humana**. El juicio humano y el automático son casi igual de (poco) fiables, así que un veredicto de detección no es prueba de autoría.
@@ -211,6 +215,7 @@ El primer estudio de la teoría de la conducta planificada sobre la intención d
 
 ## Artículos conectados
 
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Cuatro documentos de la UNESCO y la OCDE leídos como discurso: significantes flotantes, no-performatividad y un habitus de trampa cambiante
 - [[ivory-psychology-assessment-integrity-2026]] — Todo un programa de psicología aprobable con un esfuerzo mínimo, y los criterios de calificación que lo permiten (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Futuros docentes rechazaron la IA generativa bajo una política permisiva; el encuadre de «trampa» y la brecha entre encuesta y declaración
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio

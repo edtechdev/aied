@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-10-31T09:55:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ Los problemas definicionales y procedimentales conviven con los estadísticos. [
 
 La investigación sobre detección también contiene un argumento de validez que sobrevive a las cuestiones de exactitud. [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] trata la salida del detector como una señal condicional y probabilística que puede motivar una indagación posterior pero que no puede por sí sola establecer una conducta indebida ni una competencia, lo que hace de la gobernanza centrada en la detección una base insuficiente para sostener la [[assessment-validity|validez de la evaluación]]. El desempeño de la clasificación varía sistemáticamente entre herramientas, tipos de tarea, disciplinas, versiones de modelo y prácticas de edición humano-IA, y la escritura formulaica de las áreas STEM resulta especialmente susceptible al sesgo algorítmico. Los intentos de restablecer la seguridad de la evaluación mediante la detección corren entonces el riesgo de introducir varianza irrelevante para el constructo, amenazando la equidad y la interpretación de las puntuaciones.
 
+- **La aplicación de las normas puede ordenar al estudiantado por capital académico y no por conducta (propuesto, no medido).** A partir de cuatro publicaciones de la UNESCO y la OCDE, [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] sostiene que un conocimiento disciplinar más sólido y una alfabetización en la formulación de instrucciones permiten a un estudiante reescribir la salida de IA en un registro académico aceptado. Si eso es así, la visibilidad de la asistencia de IA sigue el [[equity-in-ai-education|capital académico]] y no la cantidad de ayuda recibida, y la aplicación basada en la detección se convierte en un filtro de ese capital. El trabajo es un análisis del discurso sin datos sobre marcados ni sobre resultados sancionadores, y formula la afirmación como una hipótesis que requiere evidencia comparada sobre patrones de uso de IA, resultados de detección y decisiones por mala conducta.
+
 ## Por qué no usar (o intentar usar) detectores de IA
 
 [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] sostienen que la detección de IA generativa **no debería usarse en la educación en absoluto**, con argumentos que van más allá del «ten cuidado» hasta el «esto es conceptualmente insostenible». Su caso consolida las razones para no depender de los detectores de IA:
@@ -107,6 +109,8 @@ La adaptación en tiempo de prueba es el contraejemplo que esa afirmación deja 
 
 - **El detector está apagado y solo queda la intuición.** El personal docente contratado por sesión perdió su detector de IA en una institución porque marcaba herramientas de corrección gramatical, así que se quedó leyendo en busca de referencias inventadas (diecinueve de veinte) y de desconexión con los materiales del curso ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora y Andriamora, 2026]]).
 
+- **Las herramientas coinciden en el orden y discrepan en la cifra.** Tres detectores comerciales separaron cinco condiciones calificadas de uso de IA (p < 0,001 en todas) pero coincidieron solo débilmente en la puntuación absoluta, ICC de 0,57 a 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]), y una revisión sistemática de 90 estudios concluye que las tasas publicadas de falsos positivos varían tanto según la herramienta y el contexto que la comparación directa resulta imposible ([[maghami-ai-detection-false-positives-2026|Maghami, Ho y Camilleri (2026)]]).
+
 ## Más allá de la detección: rediseño de la evaluación
 
 Un tema clave en la base de conocimientos es que la detección debería ser una **herramienta limitada y situacional, no una estrategia de primer recurso**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] sostienen que la vigilancia y la detección **diagnostican mal el problema**: en un mundo mediado por la IA, la autenticidad no puede imponerse por decreto; debe rediseñarse. Reconceptualizan la autenticidad como algo construido allí donde la IA se espera, se declara y se examina, y ofrecen patrones de diseño para el aprendizaje, agnósticos respecto a la disciplina, que posicionan la IA como colaboradora en lugar de como una aplicación para hacer trampas. Esto conecta la detección con la [[authentic-assessment|evaluación auténtica]], la [[assessment-validity|validez de la evaluación]], la [[responsible-assessment-ai-era-stanford-2026|evaluación responsable]] y la [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|integridad de la coautoría]].
@@ -114,6 +118,8 @@ Un tema clave en la base de conocimientos es que la detección debería ser una 
 La pregunta constructiva se desplaza de «¿cómo impedimos que los estudiantes usen la IA?» a «¿cómo les permitimos usarla de forma reflexiva, responsable y eficaz en contextos que reflejen su trabajo futuro?». La detección conecta por tanto con la [[ai-literacy|alfabetización en IA]] (ayudar al estudiantado a [[reducing-ai-misuse|usar la IA de forma responsable]]), con la [[cognitive-offloading|dependencia excesiva]] (comprender cuándo el uso de la IA socava el aprendizaje) y con el objetivo más amplio de apoyar el aprendizaje genuino en lugar de vigilar las entregas. También se vincula con fenómenos del lado del estudiantado como la [[student-rationalization-ai-writing|racionalización estudiantil de la escritura con IA]] y el desafío de la detección de identidad en la [[socially-fluent-ai-identity-detection|detección de identidad con IA socialmente fluida]].
 
 - **La detectabilidad es una propiedad del diseño de la tarea, no solo del detector.** [[student-llm-code-detection-cs1-2026|Ye et al. (2026)]] encontraron una concordancia entre modelos del 87,79–88,14% sobre el código generado, y aun así solo 1–14 árboles de sintaxis abstracta distintos por cada 1.000 archivos en funciones fuertemente restringidas, frente a 151–804 entre las entregas estudiantiles de 2021.
+
+- **Los propios modelos que generan el texto sitúan la detección en último lugar entre las contramedidas.** [[lieske-ai-proposals-counter-ai-cheating-2026|Lieske y Wadley (2026)]] plantearon una misma instrucción a ocho LLM y herramientas de búsqueda de Anthropic, Microsoft, Google, Meta, OpenAI, Perplexity y DeepSeek. A cada uno se le pidió nominar y ordenar seis técnicas para frenar las trampas con IA en tareas sin supervisión, y las 48 respuestas se agruparon en 15 enfoques compuestos. La detección fue el único enfoque que se repitió en la sexta posición, cuatro veces entre los ocho modelos, mientras que la personalización, las medidas de proceso asistidas por IA y el seguimiento oral encabezaron el orden. El trabajo no contiene datos empíricos y su ordenación mide el consenso entre modelos y no la eficacia; figura aquí como evidencia de cómo los sistemas que producen el texto sopesan la detección frente a las alternativas.
 
 ## Implicaciones para la IA en la educación
 
@@ -183,3 +189,6 @@ La pregunta constructiva se desplaza de «¿cómo impedimos que los estudiantes 
 - [[argus-academic-integrity-genai-2026]] — Argus: integridad académica en la era de la IA generativa
 - [[student-llm-code-detection-cs1-2026]] — El código de los LLM converge en tareas muy restringidas (de 1 a 14 formas AST por cada 1.000 archivos), pero no en las libres: la detectabilidad depende del diseño de la tarea
 - [[kazakh-ai-text-detectors-2026]] — ¿Sin revisar o acusados injustamente? Evaluación de detectores de texto generado por IA en kazajo
+
+- [[hashem-cheating-habitus-ai-governance-discourse-2026]] — La hipótesis de que la aplicación de las normas filtra por capital académico y no por conducta
+- [[lieske-ai-proposals-counter-ai-cheating-2026]] — Ocho LLM ordenan seis técnicas contra las trampas con IA; la detección queda en último lugar

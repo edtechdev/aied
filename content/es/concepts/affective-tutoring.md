@@ -1,7 +1,7 @@
 ---
 title: Tutoría afectiva
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,8 +10,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-10-25T13:10:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-29T06:19:06-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -61,6 +61,8 @@ Favero et al. (2025) advierten de que la [[student-engagement|implicación]] emo
 | La monitorización facial indica atención | La captura continua de vídeo plantea **problemas de privacidad** |
 
 Los autores sostienen que los riesgos emocionales forman parte de un patrón más amplio de **erosión de la [[self-efficacy|autoeficacia]], la [[agency|agencia]] y el [[well-being|bienestar]]** cuando el uso de la IA no se controla.
+
+**El riesgo también recae sobre quien nunca abre el tutor.** [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] encontraron que la disposición a ofrecer apoyo emocional por cuenta propia disminuye a medida que se cree que un sistema puede ofrecerlo, y esa creencia fue causal en su segundo experimento: leer cobertura periodística ordinaria sobre IA empática bastó para elevar la descarga, enteramente a través de la capacidad percibida. Su cuarto estudio añade un costo social que el encuadre individual no capta. Al saber que un estudiante había acudido a un chatbot en busca de apoyo, las personas participantes dijeron que descargarían menos que si hubiera acudido a una amistad. Después escribieron menos palabras de empatía y más de indiferencia sobre ese estudiante, y lo valoraron como más ajeno y más desesperado. La provisión de [[social-emotional-learning|aprendizaje socioemocional]] puede por tanto adelgazar en torno al tutor incluso cuando nadie que lo use declara un cambio.
 
 ## Principios de diseño
 
@@ -127,3 +129,5 @@ La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|Saf
 - [[ecnuclaw-k12-personalized-companion]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
+
+- [[shastry-gray-empathy-offloading-2026]] — Las personas descargan la empatía cuando creen que la IA puede ofrecerla (Shastry y Gray 2026)

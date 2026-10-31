@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,8 +12,8 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-10-28T19:24:33-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-29T10:45:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -108,6 +108,7 @@ Como la escritura no tiene una única respuesta correcta, las herramientas de es
 - **Anclar la retroalimentación en la tarea.** Recuperar el enunciado real, la rúbrica, las lecturas del curso, las convenciones de cita y de género y la política de uso de IA, para que la retroalimentación se refiera a la tarea concreta en lugar de inventar expectativas genéricas.
 - **Tratar de forma distinta las etapas de la escritura.** La participación de la IA en la planificación reduce menos la titularidad percibida que en la redacción, y la redacción generada por IA produce la mayor caída de titularidad. Así, un acompañante puede hacer preguntas y criticar esquemas en la planificación, mientras exige a quien aprende producir primero la prosa en la redacción.
 - **Hacer la retroalimentación priorizada y reflexiva.** Cada ronda puede ofrecer una fortaleza que preservar, un problema de alto impacto, una pregunta que exija el juicio de quien escribe y un objetivo de revisión concreto, y el acompañante debería pedir a quienes aprenden que valoren si están de acuerdo con una sugerencia, desarrollando el [[evaluative-judgment|juicio evaluativo]] en lugar de la obediencia.
+- **Enseñar el proceso, y no solo la herramienta.** Una unidad de proceso y género de cinco semanas que construyó la planificación, el análisis de género y la revisión en torno a la escritura multimodal apoyada por IA elevó los tres resultados en un cuasi-experimento con 32 estudiantes de séptimo grado (texto informativo r = 0,66; multimodal r = 0,84; escritura asistida por IA r = 0,86) ([[gunay-ozden-process-genre-ai-writing-2026|Günay y Özden, 2026]]).
 - **Preservar la voz autoral y proteger frente a la homogeneización.** El acompañante debería distinguir errores, problemas de claridad, elecciones retóricas y preferencias de estilo, y no «corregir» automáticamente estas últimas, sobre todo en el caso de quienes escriben de forma [[multilingual-learning|multilingüe]] y de estilos retóricos no estándar.
 
 Dos síntesis recientes matizan hasta qué punto se sigue esta orientación de diseño en la práctica. Una revisión de 23 estudios empíricos de personalización ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]) encuentra que, aunque los objetivos se han desplazado hacia los procesos de escritura y las habilidades de orden superior, la vía técnica dominante sigue siendo la [[prompt-engineering|ingeniería de prompts]] (13 de 23 estudios) orientada a optimizar la calidad de la salida, con la [[learning-theories|teoría del aprendizaje]] confinada a la interfaz, de modo que el sistema se comporta «en gran medida de forma ajena a la teoría»: un desajuste que ayuda a explicar la [[cognitive-offloading|dependencia excesiva]] y la revisión superficial que notifican esos mismos estudios. Su reformulación consiste en tratar la personalización como arquitectura y no como redacción: secuenciar etapas, retener respuestas e incorporar bucles de revisión. Un flujo de trabajo estructurado en cinco partes, probado durante 11 semanas con 53 estudiantes saudíes de grado de inglés como lengua extranjera ([[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]), muestra la alternativa en la práctica: el estudiantado enmarca problemas y diseña prompts, redacta, revisa, verifica afirmaciones y citas contra bases de datos académicas y regula su propia dependencia, registrando qué acepta o rechaza y por qué. La competencia en escritura y el [[critical-thinking|pensamiento crítico]] digital subieron juntos en esa condición (15,23 frente a 11,91 y 89,84 frente a 56,18 en la posprueba), mientras que el grupo de control sin IA apenas se movió, aunque el resultado de una sola sede y en parte [[self-report-measures|autoinformado]] es un límite superior preliminar y no un efecto establecido.
@@ -212,3 +213,5 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 - [[biology-undergraduates-ai-enabled-feedback-scientific-writing-2026]] — Uso de la retroalimentación habilitada por IA por parte de estudiantes de grado de biología para revisar escritura científica: recepción y barreras (Weston y Long 2026)
 
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Uso responsable de la IA generativa por parte del estudiantado en la escritura académica: una revisión de alcance de límites, enfoques educativos y lagunas de evidencia
+
+- [[gunay-ozden-process-genre-ai-writing-2026]] — Un cuasi-experimento con 32 estudiantes: la instrucción de proceso y género elevó la escritura informativa, multimodal y asistida por IA (Günay y Özden 2026)

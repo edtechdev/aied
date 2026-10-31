@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje socioemocional
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,8 +12,8 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-10-25T17:00:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-29T06:19:06-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -70,6 +70,8 @@ Las emociones regulan *cómo* el estudiantado hace visible su uso de la IA. [[sh
 
 ### Confianza y pertenencia
 El SEL sostiene el aprendizaje relacional y la cohesión social. [[finkelstein-principled-ai-education-2025|La educación en IA basada en principios]] y los [[ai-chatbot-collective-efficacy-collaborative-learning|chatbots de IA para el aprendizaje colaborativo]] conectan con la **pertenencia** y la eficacia colectiva, es decir, la creencia compartida en la capacidad de un equipo para lograr tareas. El premortem de Brookings subraya que la dependencia excesiva de la IA amenaza el bienestar socioemocional, las relaciones entre profesorado y pares y la [[privacy|privacidad]] y la seguridad del estudiantado, dimensiones de la pertenencia y la conexión. La [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confianza entre profesorado y estudiantado]] es central para que la IA se perciba como un apoyo.
+
+Aquí hay un filo más agudo en la pertenencia: buscar empatía en la IA puede penalizarse. [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] hicieron que las personas participantes leyeran sobre un estudiante angustiado que acudía a un chatbot, a una amistad, a un terapeuta o a nadie. En la condición del chatbot, las personas participantes informaron en privado de la menor disposición a descargar la empatía, y después usaron más palabras de indiferencia sobre ese estudiante y lo valoraron como más ajeno y más desesperado. El juicio de los pares sobre la vía de búsqueda en la IA agrava el ocultamiento documentado más arriba, y por eso las normas de divulgación pertenecen al diseño del aprendizaje socioemocional y no solo a la política de integridad.
 
 ### Persistencia, mentalidad y esfuerzo productivo
 El SEL se solapa con la dimensión esforzada del aprendizaje. [[framing-5-percent-problem-teachers-persistence|Enmarcar el problema del 5%]] identifica la baja persistencia del estudiantado como un reto recurrente en la tecnología educativa, moldeado por la motivación y la adhesión, los bloqueos cognitivos, la resiliencia ante el reto y la conexión. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] advierten de que la IA que sustituye el esfuerzo erosiona las capacidades mismas que construye la educación, en línea con la [[metacognition|metacognición]] y el valor del esfuerzo productivo frente a la [[cognitive-offloading|dependencia excesiva]].
@@ -141,3 +143,5 @@ El SEL conecta con la [[ai-literacy|alfabetización en IA]] (como complemento qu
 - [[policy-deficit-ai-sel-2026]] — El déficit de política en la investigación sobre IA × SEL
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Complementariedad entre personas e IA en el aprendizaje socioemocional temprano (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Microintervenciones emocionales en tiempo real y un repertorio de frases para el profesorado
+
+- [[shastry-gray-empathy-offloading-2026]] — Las personas descargan la empatía cuando creen que la IA puede ofrecerla (Shastry y Gray 2026)

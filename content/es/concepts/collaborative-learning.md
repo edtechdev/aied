@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,8 +11,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-10-26T11:15:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:20:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -84,6 +84,8 @@ Una revisión de alcance de 18 estudios mapea la misma disyuntiva en el trabajo 
 El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (interactivo–constructivo–activo–pasivo): el modo *interactivo* —coconstruir significado mediante el diálogo, defender una posición o resolver de forma conjunta— produce el cambio de conocimiento más profundo en la taxonomía de Chi. Esto convierte el ICAP tanto en una justificación de las pedagogías colaborativas como en una restricción de diseño para la IA. Una IA que media la discusión (como hacen [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] o [[golrang-propact-pair-programming-2026|ProPACT]]) es valiosa precisamente cuando sostiene la implicación *interactiva*; una IA que responde por el grupo o suaviza el conflicto cognitivo puede degradar la colaboración a un modo meramente *activo* o *pasivo*. La anotación basada en ICAP (véase [[icap-cognitive-engagement-llm-agents|la medición extendida del ICAP del diálogo colaborativo]]) y la investigación sobre el momento de la facilitación tratan ambas la calidad del discurso interactivo como el resultado de interés, lo que fundamenta el aprendizaje colaborativo en la [[student-engagement|implicación del estudiantado]] y en la jerarquía del ICAP.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
 - **La IA generativa puede ocupar el asiento del moderador en lugar del del tutor.** Chen et al. (2026) realizaron un cuasiexperimento de 16 semanas con 64 estudiantes de grado en el que ambas condiciones contaban con un agente de IA y una plataforma estructurada, y solo difería el andamiaje de regulación: un agente adaptativo de SSRL frente a hojas de trabajo digitales estáticas ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). El grupo adaptativo mostró una mayor igualdad de participación pero no una mayor intensidad, la firma de una redistribución y no de más conversación.
 
+
+**Qué hace que una IA se reconozca como par y no como tutor.** [[lin-ai-peer-collaborative-mathematics-2026|Lin et al. (2026)]] hicieron trabajar a siete personas expertas de dominio con un agente de personalidad de los cinco grandes cuya postura motivacional cambiaba a lo largo de la previsión, el desempeño y la autorreflexión mientras resolvían ecuaciones cuadráticas. Las personas participantes juzgaron al agente por su comportamiento social y no por su matemática: un espacio sin juicios, un razonamiento tentativo, una imperfección adecuada y el respeto por el ritmo de quien aprende se leyeron como propios de un par, mientras que la conformidad ciega y la sobreinstrucción lo devolvían hacia el tutor. Los autores informan además de una tensión que conviene retener: la semejanza con un par y su utilidad no siempre coincidieron, que es el riesgo de siempre en la colaboración entre pares, que los pares pueden confirmarse mutuamente sus errores.
 
 ## Orientaciones prácticas
 
@@ -162,3 +164,5 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
 - [[chen-bertopic-ai-online-learning-research-topics-2026]] — El trabajo socialmente orientado sobre colaboración con IA nunca se convirtió en tema dominante entre 1.048 publicaciones
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas encuentra un riesgo social unilateral: procesos de colaboración vulnerables sin vía de potenciación
+
+- [[lin-ai-peer-collaborative-mathematics-2026]] — Qué hace que un agente LLM se lea como par: seguridad, razonamiento tentativo, imperfección adecuada

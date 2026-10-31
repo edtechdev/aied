@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de prompts
 created: "2026-09-25T03:54:13-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-10-26T10:25:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ La ingeniería de prompts se conecta con el [[scaffolding]]: los prompts bien di
 
 - **Mejores prompts redujeron la iteración sin elevar la calidad del resultado.** El profesorado que recibió formación en IA antes de un experimento de preparación de clases escribió prompts más largos y detallados que necesitaron menos refinamiento, mientras que el profesorado sin formación usó prompts más cortos y requirió más iteraciones posteriores, y aun así las valoraciones de expertos a ciegas sobre los materiales resultantes fueron iguales ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel et al., 2026]]). El oficio del prompt compró aquí menos rondas de corrección, no un primer borrador más sólido.
 
+- **El estudiantado señala la alineación de la intención como la dificultad, no la sintaxis.** Al encuestar a 234 estudiantes universitarios chinos, [[lei-fan-genai-prompting-strategies-2026|Fan y Liu (2026)]] encontraron que refinar tras una salida deficiente era la capacidad más respaldada (72,2%) mientras que fijar restricciones a la salida era la menos respaldada (66,2%, con un 22,2% neutral). Las preferencias de estrategia apenas se movieron entre una tarea de investigación y un encargo creativo: de cuatro pares emparejados solo la especificación del formato de salida difirió tras la corrección (0,26 puntos, dz = 0,233, p ajustada por BH = 0,002). Una plantilla fija de rol, tarea y formato obtuvo el apoyo más débil de cualquier estrategia general, con un 59,4%. Entre el 12,8% que respondió a una pregunta abierta, la alineación de la intención apareció en el 40,0% de los comentarios, y añadir más detalle no arreglaba de forma fiable un intercambio atascado. Todo ello es autoinforme de un único cuestionario.
+
 ## Concepciones erróneas
 
 - **«La calidad del prompt es un atributo del estudiantado.»** **La cognición del prompt sigue a la disciplina, no al estudiantado**: [[student-ai-conversations-cognitive-engagement-2026|Chang y Li (2026)]] clasificaron **60.087 prompts de 116 cursos** y encontraron que la disciplina predecía la sofisticación del prompt. Enseñar al estudiantado a formular mejores prompts aborda una variación que reside en la materia.
@@ -136,3 +138,5 @@ La ingeniería de prompts se conecta con el [[scaffolding]]: los prompts bien di
 - [[middle-school-genai-steam-interactions-2026]] — Los grupos STEAM de secundaria copiaron literalmente la instrucción del docente en el 47,1% de los prompts
 - [[ecd-prompts-automated-essay-scoring-2026]] — Uso del Diseño Centrado en la Evidencia para guiar la ingeniería de prompts en medición: una ilustración con puntuación automatizada de ensayos
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Los prompts vagos produjeron bucles de aclaración autorrepetitivos con la mayor brecha de frustración
+
+- [[lei-fan-genai-prompting-strategies-2026]] — 234 estudiantes sobre qué les resulta difícil: la alineación de la intención, no la sintaxis del prompt

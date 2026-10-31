@@ -21,7 +21,7 @@ level: [higher ed, undergraduate, adult learning]
 confidence: high
 connected_resources: [clarity]
 translation_of: resources/writing-rhetoric-studies-in-the-loop
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 source_updated: "2026-09-24T05:36:18-04:00"
 contributors: [editor]
 ai_assist:

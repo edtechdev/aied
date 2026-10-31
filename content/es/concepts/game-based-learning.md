@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje basado en juegos
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-10-26T13:50:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T06:18:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -39,6 +39,8 @@ El GBL se fundamenta en las teorías de la [[motivation]], la [[student-engageme
 - **[[conversational-ai|Agentes conversacionales]] de IA en juegos de simulación:** Wenzel, Geiger y Liening (2026) derivan el marco CAIS-GBL —cuatro principios de diseño y quince características de diseño para agentes conversacionales de IA en el aprendizaje digital basado en juegos— a partir de metarrequisitos guiados por la teoría que abarcan la implicación cognitiva, motivacional, [[affective-computing|afectiva]] y [[sociocultural-learning|sociocultural]], con una postura de [[equity-in-ai-education|equidad]] por diseño. Su agente instanciado (Lara) en un juego de simulación empresarial tuvo una acogida positiva por su apoyo cognitivo, su [[community-of-inquiry|presencia social]] y su apoyo al [[self-regulated-learning]], y aborda la brecha habitual de retroalimentación [[formative-assessment|formativa]] limitada y reflexión estructurada en los juegos de simulación.
 
 - **Eficacia del AI-GBL:** una revisión sistemática de 55 estudios sobre aprendizaje basado en juegos apoyado por IA encuentra efectos positivos sobre el conocimiento, la motivación intrínseca y la implicación afectiva, pero solo 4 estudios (7%) alcanzaron su umbral de alta calidad y solo 4 (7%) eran [[rct|ECA]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı y Yurt, 2026]]). La eficacia dependía de alinear el mecanismo de IA con una [[learning-theories|teoría del aprendizaje]] declarada.
+
+- **El estudiantado como diseñador de juegos y no como jugador:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] hicieron que 22 estudiantes de primaria de entre 8 y 12 años diseñaran un juego de mesa de escape aumentado sobre desinformación, combinando el [[project-based-learning|aprendizaje basado en proyectos]] con el [[design-thinking|pensamiento de diseño]] y el marco de escape Room2Educ8. La [[ai-literacy|alfabetización en IA]] compuesta en un cuestionario DigComp 3.0 de 20 ítems subió de 3,684 a 4,309 en una escala de 5 puntos, t(21) = −21,086, p < 0,001, con mejora en las cinco áreas de competencia. La clase generó 11 propuestas con instrucciones de IA y las fusionó en un único juego construible. Se trata de autoinforme, de una sola clase y sin grupo de control.
 
 ### Gamificación
 
@@ -102,3 +104,5 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 - [[genai-motivation-engagement-2026]] — IA generativa, motivación e implicación
 - [[nasa-tlx-workload-gamified-ai-2026]] — Carga de trabajo NASA-TLX en condiciones gamificadas y con IA
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivación ARCS y gamificación apoyada por IA
+
+- [[karampa-students-game-designers-ai-literacy-2026]] — Estudiantes de primaria diseñan un juego de mesa de escape; la alfabetización en IA sube dentro de un laboratorio de curso en línea

@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-10-26T21:37:14-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,8 +13,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:50:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -81,6 +81,8 @@ Un paso más allá de orquestar unos pocos agentes especializados es el **ecosis
 - **Agentes LLM específicos de cada participante para la resolución colaborativa de problemas.** Fang (2026) ajusta agentes LLM individuales con los datos de diálogo de participantes reales para representar a cada participante en simulaciones de resolución colaborativa de problemas, con selección probabilística de hablante y de código temático y una memoria de ventana deslizante más resumida. Validados con el [[network-analysis|Análisis de Redes Epistémicas]], los diálogos simulados son estadísticamente indistinguibles de los reales (distancia ENA 0,17, p de permutación = 0,65): una demostración de que la IA agéntica reproduce discurso colaborativo auténtico.
 - **Tutoría multiagente socialmente inteligente.** Los prototipos de tutoría multiagente socialmente inteligente, como ASTRA, estudian cómo coordina quien aprende con la IA en díadas, usando agentes diferenciados de tutor y de facilitador para propiciar la coordinación y una participación equilibrada. La evaluación basada en trazas del marco permite un análisis reproducible de la interacción, el equilibrio de participación y la verificación en programación introductoria.
 
+
+**Una respuesta organizativa: quien aprende como miembro participante y no como receptor.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instancian una organización multiagente de participación humana en la que agentes especializados mantienen un Programa de Capacidades revisable que vincula metas personales, actividades multimodales y evaluación por capas, con un «Nodo Humano» corregible que traslada la evidencia y los desafíos de quien aprende a las revisiones posteriores. Frente a la línea base multiagente más cercana, en 96 casos de estudiantes simulados, la ventaja se concentró en el diseño de la evaluación: 19,32 puntos más en validez de la evaluación (IC del 95% [17,55, 21,04]) y 5,89 en cobertura de capacidades, mientras que la personalización no marcó diferencias (1,35 puntos, con un intervalo que cruza cero). En un estudio aleatorizado con 32 estudiantes, la ganancia de conocimiento en una prueba objetiva de 50 puntos fue de 12,19 frente a 5,61 puntos.
 
 ## La tensión central: automatización frente a aprendizaje
 
@@ -232,3 +234,5 @@ La IA agéntica no es ni una panacea ni un daño inevitable: su valor depende de
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — El desarrollo guiado por especificaciones con agentes de IA en el ABP de software; automatización frente a comprensión
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluar un sistema multiagente de modelos de lenguaje orientado al andamiaje para la formación en entrevista clínica
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agentes organizados en torno a un programa de capacidades revisable, con quien aprende como miembro

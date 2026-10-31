@@ -11,9 +11,9 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-28T19:24:33-04:00"
-updated: "2026-10-29T05:22:38-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-31T09:55:00-04:00"
+updated: "2026-10-31T11:51:17-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -55,6 +55,8 @@ ai_assist:
 ### Analítica mejorada con IA
 
 - **Analítica predictiva:** el [[machine-learning|aprendizaje automático]] sobre datos de interacción del estudiantado predice resultados, desde la [[at-risk-students-ml-prediction|identificación de estudiantes en riesgo]] hasta la [[knowledge-tracing|estimación del estado de conocimiento]].
+
+- **La aprobación no predice el patrón de implicación.** Los datos de rastro de una herramienta de analítica orientada al estudiantado en un curso de programación apoyado por IA generativa dividieron a 27 estudiantes en exploradores profundos, autoorientados y orientados a pares, más un perfil final de exploradores limitados, y sin embargo las percepciones favorables del asistente no difirieron de forma significativa entre esos perfiles ([[sun-gai-learning-analytics-behaviors-2026|Sun et al. (2026)]]).
 - **La validación importa tanto como la predicción.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan y Carvalho (2025)]] muestran que los modelos predictivos de estado de conocimiento (BKT, BKT-with-Forgetting, AFM) parecen precisos cuando se ajustan de forma retrospectiva a un historial completo de sesiones, pero bajo **validación cruzada basada en el tiempo**, es decir, prediciendo la sesión siguiente a partir de las anteriores, que es como se despliega realmente la analítica, sobreestiman el rendimiento de quienes aprenden, pierden las dinámicas de espaciamiento y olvido y pueden ordenar mal las condiciones de práctica. La advertencia para la analítica es esta: el ajuste retrospectivo puede enmascarar una validez predictiva futura pobre con datos longitudinales, así que los modelos de indicadores y de paneles deberían validarse de forma progresiva y hacia adelante.
 
 - **Valide el mapeo entre ítems y atributos que sostiene la estimación.** La matriz Q que vincula ítems con atributos es un supuesto y no un dato: las entradas rechazadas para 14 de 918 ítems de pensamiento analítico, una vez corregidas, redujeron un patrón espurio de estado de conocimiento del 14,2% al 3,8%, de modo que la analítica de dominio debería auditar su matriz Q y no solo su ajuste predictivo ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng y Huang, 2026]]).
@@ -130,6 +132,8 @@ La instrumentación a nivel de proceso es el siguiente escalón hacia abajo de l
 - **El muro de los sistemas de aprendizaje: los datos de registro no se generalizan entre plataformas.** MATHia, i-Ready e IXL definen de manera distinta incluso constructos básicos como "intento" o "pista", así que los modelos no pueden transferirse entre ellas. Una respuesta en curso ataca el problema desde el lado del vídeo: una cadena con Gemini destila grabaciones de pantalla de tutoría en una única transcripción de guion alineada con los registros nativos de MATHia como verdad de referencia. Lo que el vídeo recupera y ningún flujo único aporta: el [[scaffolding|andamiaje]] en pizarra, el trabajo silencioso con calculadora en herramientas externas y el contexto fuera de pantalla que los registros nativos reducen a "inactividad". Quedan retos abiertos en el anclaje temporal, la deriva de reloj y la separación de los eventos de la plataforma respecto de otros procesos de aprendizaje. ([[thomas-breaking-learning-system-wall-2026]])
 - **Los registros de interacción pueden perder frente a una línea de base constante.** Las características semestrales de 16.851 intercambios con un tutor LLM superaron a un predictor mediano de las calificaciones de las tareas en 0,114 puntos, un intervalo que cruza el cero, con el 62,1% del error en el cuartil más bajo ([[llm-tutoring-interaction-predictive-value-2026|Dong et al. (2026)]]).
 
+**Los datos de interacción son un problema de representación antes que de modelado.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] tratan cada intercambio humano-IA como un registro estructurado único que porta el cómputo que motivó la solicitud, la solicitud, la respuesta, la retroalimentación de quien la usa y la ejecución que siguió, y no como una instrucción aislada. A lo largo de 140 pares estudiante-tarea en un despliegue con 35 estudiantes, el recuento de interacciones por sí solo se correlacionó con las celdas ejecutadas con éxito en r = 0,12, y la misma llamada podía ser una recuperación de error, un paso siguiente, una comprobación de concepto o una validación según el estado que la rodeaba. Treinta y siete pares con acceso no produjeron ninguna interacción, de modo que la ausencia de uso de IA en un registro no puede leerse como ausencia de necesidad.
+
 ## Concepciones erróneas
 
 - **"Una estimación del estado de conocimiento hereda su validez de los datos."** **La matriz Q que vincula ítems con atributos es un supuesto, no un dato**: las entradas rechazadas para **14 de 918 ítems analizados** significan que el mapeo mismo requirió adjudicación. Validar el mapeo es un paso, no una formalidad.
@@ -193,3 +197,5 @@ La instrumentación a nivel de proceso es el siguiente escalón hacia abajo de l
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026), predecir el riesgo de copia asistida por IA a partir de rastros del LMS de inicio de semestre (AUC 0,763)
 - [[thomas-breaking-learning-system-wall-2026]] — hacia la ruptura del muro de los sistemas de aprendizaje mediante transcripciones multimodales de tutoría (Thomas et al. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — las tasas de finalización pueden esconder un colapso del compromiso
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Los intercambios humano-IA como registros estructurados: los recuentos de instrucciones apenas aportan señal sobre el progreso

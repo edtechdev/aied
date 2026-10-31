@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje situado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-26T08:20:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:20:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -49,6 +49,8 @@ La investigación de la base de conocimiento trata el aprendizaje situado no sol
 
 El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendizaje corporeizado]] (ambos subrayan el anclaje de la cognición en el contexto y la acción), con la [[distributed-cognition|cognición distribuida]] (el aprendizaje distribuido entre personas, herramientas y contextos), con el [[experiential-learning|aprendizaje experiencial]] y con la teoría [[constructivist|constructivista]]. En la educación con IA fundamenta la crítica del aprendizaje descontextualizado y descorporeizado: un diseño de IA que mantiene a quien aprende anclado en la práctica auténtica preserva la situacionalidad que exige un aprendizaje duradero.
 
+- **Escenarios y activos reutilizables como infraestructura.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] operacionaliza el aprendizaje situado como un escenario (objetivo, agentes especializados por rol, conocimiento consultable y un banco de trabajo con estado) más una memoria de activos que preserva los registros de proceso y las trazas de experiencia con su procedencia para que los escenarios posteriores puedan recuperar la práctica previa. Dos ensayos aleatorizados de tres brazos preregistrados encontraron una ventaja de 7,0 puntos en ganancia de aprendizaje frente a un asistente básico en razonamiento jurídico (d = 0,56) y una proporción mayor que alcanzó el dominio del criterio en programación competitiva (68% frente a 45%), mientras que pedir al mismo modelo que actuara como docente no produjo ningún beneficio detectable. Es una prueba poco frecuente de la afirmación de que la situación y el espacio de trabajo portan más del aprendizaje que la explicación conversacional.
+
 ## Concepciones erróneas
 
 - **«El aprendizaje situado significa añadir un escenario realista a una lección abstracta.»** La afirmación de la teoría es más fuerte que vestir de contexto: el aprendizaje se constituye por la participación en una comunidad de práctica, y lo que se aprende es lo que esa participación permite. Un ejemplo resuelto con un marco de lugar de trabajo adjunto sigue enseñando el ejemplo, no la práctica.
@@ -80,3 +82,5 @@ El aprendizaje situado conecta estrechamente con el [[embodied-learning|aprendiz
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes del diseño pedagógico iterativo
+
+- [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Escenarios más activos reutilizables con procedencia superan a un asistente simple en dos ensayos

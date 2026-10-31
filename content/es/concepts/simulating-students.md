@@ -1,7 +1,7 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 type: concept
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-30T10:20:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -128,6 +128,8 @@ El trabajo de 2026 sobre habilidades duraderas invierte la dirección habitual d
 
 El entrenamiento contra un simulador también puede transferirse: el agente de aprendizaje por refuerzo de TutorLoop, entrenado offline contra un estudiante simulado, se transfirió sin cambios a una nueva tarea de aprendizaje real sin reentrenamiento (N = 187), donde su retroalimentación más escasa pero mejor sincronizada superó a la retroalimentación más densa ([[tutorloop-sensor-cognitive-feedback-2026|Xu y Zhang, 2026]]).
 
+**Los clientes simulados eliminan la fase de aclaración, y el comportamiento de quien se entrena sigue esa pauta.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] compararon 64 juegos de rol de consejería en chat entre personas con 74 conversaciones persona-LLM (Mixtral 8x7B, 4 bits) bajo el sistema de categorías GeCCo y encontraron que los clientes LLM revelaban el problema incrustado en su prompt en lugar de darle vueltas. En consecuencia, quienes aconsejaban llegaron a la resolución de problemas en el 17,63% del comportamiento codificado frente al 10,67% con clientes humanos, se apoyaron más en la reflexión factual que en la moderación facilitadora, y cerraron las sesiones con formalidades con más frecuencia (11,95% frente a 5,95%). La consecuencia de diseño es que un plan de estudios construido principalmente sobre clientes simulados entrena la segunda mitad de una sesión: lograr que alguien relate algo con reticencia es justo lo que el cliente simulado se salta, de modo que un prompt que haga al cliente reservado lo restaura.
+
 ## Concepciones erróneas
 
 - **«Los estudiantes de LLM son sustitutos suficientemente buenos.»** **Las simulaciones cubren a los estudiantes más fáciles, y pocas están validadas**: **doce docentes** que tutorizaron a estudiantes de LLM informaron de **lenguaje excesivamente complejo, ausencia de emoción** y otras desviaciones de los estudiantes reales. El sustituto modela el caso tratable.
@@ -187,3 +189,5 @@ El entrenamiento contra un simulador también puede transferirse: el agente de a
 - [[preservice-teachers-noticing-ai-simulations-2026]] — tres semanas de atención, interpretación y modelado de docentes en formación en una simulación de chatbot sobre el signo igual, y cómo el diseño orienta lo que notan
 - [[beagle-grounded-learner-emulation-2026]] — un simulador neuro-simbólico que impone la estructura de aprendizaje autorregulado arquitectónicamente en lugar de mediante prompting, y supera un test de Turing humano
 - [[llm-goal-selection-self-directed-learning-2026]] — La selección de objetivos de los modelos de lenguaje difiere de la humana en una tarea de aprendizaje autodirigido
+
+- [[rudolph-llm-simulated-counselling-clients-2026]] — Los clientes simulados de consejería revelan antes, así que quien se entrena se salta la moderación facilitadora

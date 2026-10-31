@@ -11,8 +11,8 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-updated: "2026-10-26T22:02:40-04:00"
-source_updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-10-31T11:51:17-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,8 @@ La documentación exigida resultó viable a escala de curso: a lo largo de seis 
 ## Un eje distinto del de la autenticidad y del de la calificación
 
 Mantener los ejes separados importa, porque confundirlos es la manera de que un rediseño parezca terminado mientras la exposición permanece. Sharma (2026) establece la distinción complementaria entre autenticidad y diseño orientado a la integridad: la autenticidad pregunta si una tarea refleja una práctica que vale la pena, mientras que el diseño orientado a la integridad pregunta si quien aprende puede justificar sus decisiones y asumir responsabilidad en relación con los estándares disciplinares, razón por la cual las prácticas que ofrece —rastros de decisión anotados, verificación de las afirmaciones aportadas por la IA generativa, defensa oral, diferencias entre borradores con historial de versiones— se eligen por el [[evaluative-judgment|juicio]] que hacen visible y no por su realismo. La revisión de diez años de Espino y Espino (2026) sobre la [[business-education|educación en negocios]] llega a la misma conclusión de diseño desde el lado de la literatura, y encuentra que el campo converge hacia tareas auténticas y de proceso visible que exigen interpretación, aplicación contextual y refinamiento iterativo, y trata la adopción aislada de herramientas dentro de estructuras de evaluación sin cambios como su fallo más persistente.
+
+La matriz de Desvanecimiento y Visibilidad de Salameh (2026) cruza la misma pregunta de diseño con una segunda variable, si el [[scaffolding|apoyo de IA persiste o se desvanece]], y nombra la combinación a la que recurren por defecto la mayoría de los cursos, un apoyo que nunca se desvanece evaluado solo por su producto, como Dependencia Silenciosa ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
 
 El constructo también se distingue de la cuestión de cómo se puntúa la evidencia. El razonamiento sobre la [[assessment-validity|validez]] es donde ambos se encuentran: Brunnström y Palmqvist (2026) sostienen que cuando un [[conversational-ai|chatbot]] puede producir una respuesta de examen plausible, el producto entregado se convierte en un indicador más débil de lo que aprendió el estudiantado, un problema de validez de la evaluación y no solo de [[academic-integrity|integridad]]. Es la misma inferencia en riesgo en el argumento de [[genai-performance-vs-learning|desempeño frente a aprendizaje]] de Yan, Greiff, Lodge y Gašević, donde las [[learning-gains|ganancias de desempeño]] que se reducen cuando se retira la asistencia muestran una ganancia que vive en la herramienta y no en quien aprende, y donde el remedio propuesto son medidas de proceso como las [[transfer-of-learning|pruebas de retención y transferencia]] y no el éxito inmediato en la tarea.
 
@@ -123,3 +125,5 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: apoyo al profesorado en el diagnóstico de las habilidades de resolución de problemas matemáticos del estudiantado mediante preguntas generadas por LLM
 - [[packard-thinking-partner-framework-adult-learners-2026]] — La documentación de los puntos de control del diálogo con IA mantuvo un 96% de finalización en seis semestres y unos 440 docentes
 - [[rubrics-genai-process-based-assessment-2026]] — Tres dimensiones de rúbrica a partir del modelo 3P de Biggs: agencia y supervisión, andamiaje dialógico y soberanía cognitiva (Oviedo y Díaz 2026)
+
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Una revisión narrativa crítica que sostiene que el fallo por defecto es un apoyo de IA que nunca se desvanece combinado con una evaluación solo del producto (Salameh 2026)

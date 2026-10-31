@@ -1,7 +1,7 @@
 ---
 title: Educación en ingeniería
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,8 +12,8 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-10-26T08:45:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:14:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -53,6 +53,8 @@ La investigación sobre educación en ingeniería es peculiar porque se sitúa e
 - **[[intelligent-tutoring|Tutoría con IA]] y retroalimentación para cursos de ingeniería [[quantitative-research|cuantitativos]]:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] presentan a Arthur, un asistente docente de IA que ofrece retroalimentación personalizada y en tiempo real sobre preguntas de fórmula calculada en un curso universitario de economía de la ingeniería, un ámbito donde las soluciones manuscritas y no estructuradas habían bloqueado el apoyo previo con IA. Su cadena de procesamiento de ciclo completo (curar entregas manuscritas ya calificadas, [[machine-learning|aumento de datos]] con enmascaramiento aleatorio, motores de diagnóstico XGBoost por pregunta y una interfaz web de banco de preguntas basada en diálogo) ofrece una vía escalable para la [[ai-feedback-quality|retroalimentación con IA]] en cursos de ingeniería que carecen de datos digitales estructurados, y el marco está diseñado para generalizarse a preguntas de fórmula calculada de otras disciplinas de la ingeniería.
 - **IA para la sostenibilidad, integrada y no modular.** El marco AI-SEE de cuatro pilares (impulsado por la inteligencia, capacitado para lo verde, guiado por la responsabilidad e integrado en la práctica) distribuye la IA por los cursos de ingeniería; en un caso de ingeniería del transporte con 144 estudiantes, el estudiantado informó de implicación en los niveles personal, académico, profesional y social, con el razonamiento sobre sostenibilidad trasladado a las familias y a las redes de pares ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **Un taller con muchas herramientas puede deprimir la autoeficacia sin mejorar el producto.** En un taller de diseño arquitectónico con 27 estudiantes, los equipos que usaron un flujo de IA generativa más [[virtual-and-augmented-reality|XR]] mostraron mayores descensos antes y después en la [[self-efficacy|autoeficacia]] de diseño (β = −1,675) y en la expectativa de resultado (β = −2,088) que los controles, mientras que un visor por estudiante no produjo ninguna colaboración coordinada ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]).
+
+- **La elección del modelo, y no la formulación de instrucciones, fija la fiabilidad de la retroalimentación bajo réplica.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] construyeron 200 problemas de armadura bidimensional verificados y sometieron a trece modelos a tres posturas: resolver, confirmar una solución correcta que el estudiante insiste en que es errónea, y localizar un error inyectado. La exactitud al resolver fue del 64,5% al 97,0% y todos los modelos detectaron al menos el 90,4% de los errores inyectados, de modo que ninguna de las dos cosas separó al conjunto; la resistencia a la réplica sí lo hizo, con un rango del 46,5% al 98,5%. Para un curso de estática el riesgo de la tutoría no es una respuesta final equivocada sino un modelo que da la razón cuando un estudiante duda erróneamente de un trabajo correcto, y los autores señalan que, si la fiabilidad sigue a los niveles de pago, la retroalimentación que recibe el estudiantado variará según lo que su institución pueda licenciar.
 
 ## Preocupaciones características
 
@@ -115,3 +117,5 @@ Ese vacío ya no está vacío en un área: un programa de tres años de ingenier
 - [[liu-ai-sustainable-engineering-education-2026]] — Marco AI-SEE para una educación en ingeniería sostenible (Liu et al. 2026)
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[genai-xr-architectural-design-education-2026]] — IA generativa y realidad extendida en la educación colaborativa en diseño arquitectónico: un estudio exploratorio de taller
+
+- [[apostolakis-trusstutor-bench-statics-2026]] — Referencia de evaluación en estática: la resolución y la detección de errores se saturan, la resistencia a la réplica no

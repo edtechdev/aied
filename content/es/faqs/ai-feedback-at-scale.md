@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puede ayudarme la IA a dar mejor retroalimentación a escala?"
 created: "2026-09-22T18:40:51-04:00"
-updated: "2026-10-28T12:58:23-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -11,11 +11,15 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -26,9 +30,9 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
-Es la sexta semana. Tiene una pila de borradores, una rúbrica en la que cree y la sospecha creciente de que un tercio de sus comentarios se leen en diagonal y se olvidan. Un colega menciona que una herramienta ya comenta todos los borradores en menos de una hora. La reunión de departamento necesita una respuesta: ¿es una mejora o una forma más rápida de producir texto que nadie lee?
+Es la sexta semana. Tiene una pila de borradores, una rúbrica en la que cree y la sospecha creciente de que un tercio de sus comentarios se leen por encima y se olvidan. Un colega menciona que una herramienta ya comenta todos los borradores en menos de una hora. La reunión de departamento necesita una respuesta: ¿es una mejora o una forma más rápida de producir texto que nadie lee?
 
 Respuesta breve para dar a un colega: la retroalimentación con IA se gana su lugar en cobertura, puntualidad y consistencia, dentro de una banda estrecha. El trabajo lingüístico de nivel de corrección y los comentarios de primera pasada guiados por rúbrica merecen automatizarse. El alcance es la parte barata. En un experimento aleatorizado por conglomerados con 1.176 estudiantes universitarios de primer año, los diseños reflexivos e híbridos superaron a la crítica directa de la IA en la [[transfer-of-learning|transferencia]] diferida y sin IA. En un experimento aleatorizado de ensayos con 70 estudiantes, una retroalimentación de IA mejor valorada no produjo mejores revisiones que la de un docente experimentado. Lo que un estudiante hace con un comentario decide el resultado, y la [[feedback-literacy|alfabetización en retroalimentación]] separa a los estudiantes que ganan de los que copian.
 
@@ -91,6 +95,8 @@ La ganancia de calidad de Farrokhnia et al. vino de una indicación con cadena d
 Aldino et al. encuentran el mismo patrón de asistencia y verificación en la práctica ordinaria. El componente de aprendizaje automático señaló con más frecuencia como ausente "Cumple el objetivo de aprendizaje" (20 de 21 docentes lo habían omitido; 16 aceptaron la señal) y "Relación entre estudiante y docente" (14 lo omitieron; 12 aceptaron). Los docentes decidieron cada sugerencia con juicio profesional, que es el sentido de ponerlos en el bucle.
 
 Doce de los 21 docentes de Aldino et al. hicieron además revisiones de nivel de frase, y el patrón dominante fue calibrar el tono: rebajar el elogio (f = 11), eliminar sugerencias (f = 9), eliminar ánimos (f = 8). Las revisiones se agruparon en la dimensión relacional, sobre todo en la relación entre estudiante y docente (f = 24). Estaban protegiendo la autenticidad y la voz profesional, y ese trabajo no se automatiza.
+
+Los estudiantes son el otro lado de esa verificación, y su relato del reparto del trabajo se acerca al que recomienda esta página. En grupos focales con 20 estudiantes de grado, la retroalimentación del docente se valoró por ser relacional, personalizada y basada en la pericia, mientras que la retroalimentación generada por IA se percibió como impersonal y potencialmente injusta; esos mismos estudiantes se mostraron abiertos a un modelo híbrido en el que el docente lee su trabajo y complementa los comentarios del modelo ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). El mismo estudio encontró que sus juicios coincidían con los de ChatGPT en especificidad y accionabilidad, pero divergían en puntualidad y positividad, así que las dimensiones en las que se puede confiar en el veredicto del propio modelo son más estrechas que la rúbrica completa.
 
 ## Enseñe a los estudiantes a leer el comentario
 

@@ -1,17 +1,21 @@
 ---
 title: "¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-28T13:43:49-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T10:40:00-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-10-31"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
@@ -22,7 +26,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+*Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 El esquema del módulo tiene una línea que dice "actividad con IA" y nadie sabe decir qué reemplaza. O un docente ha pedido añadir un chatbot a un curso que ya funciona, y su trabajo consiste en colocarlo sin romper la parte que hacía funcionar el curso.
 
@@ -45,6 +49,8 @@ Empiece por el objetivo de aprendizaje y por la actividad que lo produce. El mis
 El concepto [[pedagogy|Pedagogías y estrategias de enseñanza]] de la base de conocimiento aporta la prueba: ¿la configuración preserva la actividad que produce el aprendizaje buscado? Responda eso por escrito, antes de que nadie elija una función.
 
 [[finkelstein-principled-ai-education-2025|El marco de educación principiada en IA]] enuncia la regla general: la tecnología debe aumentar, y no desplazar, las capacidades humanas que la educación pretende desarrollar. Expresada como prueba para un módulo, esa regla exige nombrar la capacidad, nombrar la actividad que la construye y preguntar si la IA se sitúa dentro de esa actividad o al margen de ella.
+
+Aplíquelo por tarea y no una sola vez por herramienta. En cuatro casos dirigidos al profesorado, la automatización y la aumentación coexistieron: la sustitución se mantuvo dentro de subtareas analíticas acotadas, y la aumentación apareció en lo que el docente hacía con la salida, y por eso la misma herramienta puede automatizar un paso y aumentar otro ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
 
 ## Ponga el intento antes de la ayuda
 

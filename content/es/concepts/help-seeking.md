@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,8 +11,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-26T10:50:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:52:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
@@ -109,6 +109,10 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 
 [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] abordan el precursor conductual de la búsqueda de ayuda en la [[cs-education|educación en programación asistida por IA]]: los tutores humanos se adaptan a la conducta observable de quienes aprenden, y no solo a sus peticiones explícitas, pero los tutores de IA carecen de ese contexto. **TutorTrace** es un conjunto de datos y una canalización que hacen computable en tiempo real el contexto conductual de quienes aprenden a partir de la telemetría de bajo nivel del IDE (cuatro despliegues, N=480; ~180.000 eventos, 13.633 segmentos conductuales, 27 métricas), y derivan una taxonomía de la actividad del estudiantado *antes* de la primera consulta a la IA, *entre* consultas consecutivas y *a lo largo* de la sesión. Esto permite a los sistemas clasificar si una consulta refleja una búsqueda de ayuda **guiada** (precedida de trabajo independiente) o **dependiente** (sin trabajo independiente) —AUROC = 0,717 en predicción sobre datos reservados— y predecir consultas inminentes (AUROC = 0,726). Una evaluación preliminar en el aula encontró que las indicaciones conscientes de la conducta redujeron los intervalos entre consultas sin trabajo independiente del 50,0% al 20,7%. Esto conecta la telemetría de [[learning-analytics|analítica del aprendizaje]] con la [[intelligent-tutoring|tutoría adaptativa]] y muestra que el contexto conductual puede operacionalizarse a escala para andamiar *cómo* busca ayuda el estudiantado, en lugar de limitarse a responder a sus preguntas explícitas.
 
+**La trayectoria de la búsqueda de ayuda predice la transferencia, no solo su nivel.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] codificaron 880 turnos de 112 estudiantes de secundaria que modelaban problemas de matemáticas con un LLM y encontraron que la mezcla estática no informaba: el 81,5% de los turnos eran solicitudes, solo el 2,2% evaluación explícita, y el 54% de las solicitudes estaban orientadas a la comprensión frente al 46% orientadas a la respuesta. El rendimiento en una prueba posterior realizada sin IA se predijo por la pendiente intra-sesión y no por su nivel. La búsqueda de ayuda orientada a la comprensión disminuyó (M = −0,20) a lo largo del chat, y esa trayectoria añadió ΔR2 = 0,110 a un modelo que ya contenía la puntuación del pretest (β = 0,34, p < 0,001). Los rasgos estáticos de la interacción añadieron solo ΔR2 = 0,023 (p = 0,684). La calidad de la búsqueda de ayuda debe leerse por tanto como una curva: una sesión que se abre con preguntas conceptuales y se asienta en solicitudes de respuesta marca un rendimiento posterior más débil sin ayuda, y un aumento modesto de la autorregulación explícita (M = +0,103) no lo compensó.
+
+**Una segunda canalización plantea la misma pregunta desde el lado de la infraestructura.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] sostienen que un intercambio humano-IA es una clase de datos propia: su representación registra el estado computacional que motivó la solicitud, la solicitud, la respuesta, la valoración que hace la persona usuaria y la ejecución que siguió, como un solo objeto. Las consultas se clasifican después como recuperación de error, paso siguiente bloqueado, ayuda conceptual o validación a partir de ese contexto. En un despliegue de JupyterLab con 35 estudiantes que abarcó 140 pares estudiante-tarea, los recuentos simples de interacción se correlacionaron con las celdas ejecutadas con éxito solo en r = 0,12, mientras que 37 pares tenían acceso y nunca lo usaron y 26 lo usaron fuera de la condición asignada.
+
 ## Implicaciones para el diseño y la investigación
 
 1. **Diseñar deliberadamente las affordances de la búsqueda de ayuda.** Los botones de ayuda permanentes y destacados pueden habilitar estrategias de elusión; retrase el acceso y estructure la entrega para apoyar el [[desirable-difficulties|esfuerzo productivo]].([[lak2026-hint-button-unproductive-use]])
@@ -167,3 +171,6 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: andamiar una búsqueda de ayuda específica con IA durante la resolución de problemas
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examinar la variación en cómo los tutores de IA guiados resuelven los bloqueos del estudiantado
 - [[student-query-demand-hybrid-ai-support-2026]] — Qué pide de verdad el estudiantado: estructura de la demanda y potencial de automatización en un sistema de apoyo híbrido
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Las interacciones como datos de primera clase: clasificar una consulta por el estado de ejecución que la rodea
+- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — La trayectoria de la búsqueda de ayuda, y no su nivel, predice el rendimiento matemático sin asistencia

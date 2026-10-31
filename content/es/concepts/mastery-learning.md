@@ -9,7 +9,7 @@ created: "2026-09-28T21:04:13-04:00"
 updated: "2026-10-26T22:02:40-04:00"
 translation_of: concepts/mastery-learning
 source_updated: "2026-10-25T21:20:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

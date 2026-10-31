@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-10-26T22:02:40-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,8 +10,8 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-26T10:50:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-30T10:52:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,8 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 
 **La mayor vulnerabilidad calificada por personas expertas en la base de conocimiento es el pensamiento crítico.** A lo largo de 65 procesos de aprendizaje valorados por 30 expertos, el Pensamiento Crítico y el Pensamiento Crítico-Analítico obtuvieron la mayor calificación de disrupción del informe (media 4,00 de 5; el 96% de quienes valoraron en 3 o más) con la potenciación por debajo del umbral (2,40, 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Diez de los dieciocho procesos de orden superior alcanzaron consenso únicamente sobre la vulnerabilidad, lo que el informe interpreta como un riesgo unilateral y no como una contrapartida.
 
+- **La estructura de la asociación, y no la exposición, es lo que sostiene la relación.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun y Toker (2026)]] modelaron a 891 estudiantes universitarios estadounidenses y turcos con la teoría de los sistemas de memoria transactiva y encontraron que ni la capacidad de pensamiento autoevaluada ni la confianza en la asociación con la IA predecían directamente la puesta en acto del pensamiento crítico. Ambas alimentaban la familiaridad con la IA generativa, que a su vez predecía solo dos comportamientos: la especialización y la coordinación del trabajo (b = 0,636) y la transformación reflexiva de la salida (b = 0,367). Esos comportamientos predecían el pensamiento crítico (b = 0,230 y b = 0,175) sin que quedara una ruta directa (CFI = 0,974, RMSEA = 0,048). Esta es la versión a nivel de mecanismo del nulo recurrente del campo: las horas de uso y la competencia autoevaluada no son indicadores indirectos del pensamiento crítico, y lo que un estudio mide cuando pregunta por la exposición es la entrada de la cadena y no su resultado.
+
 ## Concepciones erróneas
 
 - **«Un mejor prompt produce mejor pensamiento crítico.»** **El control estructurado del diálogo, y no un mejor prompt**, es lo que separa a un tutor de falacias de un chatbot de debate: enrutar cada turno por una **detección de intención basada en Toulmin** hizo el trabajo. El mecanismo es la estructura de la interacción, no la formulación.
@@ -156,3 +158,5 @@ El pensamiento crítico se cruza con el [[scaffolding|andamiaje]] (diseñar apoy
 - [[genai-dependence-research-creativity-2026]] — La dependencia de la IA generativa se asocia positivamente con el pensamiento crítico en 1.157 estudiantes de posgrado
 - [[genai-use-critical-thinking-moderation-2026]] — El uso de IA generativa y el pensamiento crítico a través de la alfabetización en retroalimentación, con una vía directa solo para el estudiantado menos reflexivo
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Un consenso de 30 personas expertas: el pensamiento crítico carga con la mayor calificación de disrupción del informe (media 4,00)
+
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — El pensamiento crítico pasa por la división del trabajo y la reelaboración de la salida, no por la exposición

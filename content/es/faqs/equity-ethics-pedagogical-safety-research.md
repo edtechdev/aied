@@ -9,7 +9,7 @@ ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy,
 methods: [research-methods-aied]
 source_updated: "2026-10-28T11:47:13-04:00"
 translation_of: faqs/equity-ethics-pedagogical-safety-research
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

@@ -1,7 +1,7 @@
 ---
 title: Alfabetización en IA
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-10-29T05:22:38-04:00"
+updated: "2026-10-31T11:51:17-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,8 +11,8 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, edugems, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-10-26T13:50:00-04:00"
-translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+source_updated: "2026-10-31T09:55:00-04:00"
+translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -57,6 +57,8 @@ La alfabetización en inteligencia artificial (IA) ha emergido rápidamente como
 ### Dimensiones de la alfabetización en IA
 
 **La alfabetización dirigida a la salida y la dirigida al sistema son dimensiones separadas, y hay evidencia de la escisión.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] encontró que 47 estudiantes suecos de séptimo grado eran sólidos en evaluación de fuentes (Mdn = 3) y gobernanza (Mdn = 4, 57% en la opción más alta) pero débiles en **privacidad de datos (Mdn = 1, 66% en la más baja)** y en **manipulación algorítmica (Mdn = 2, 47% en la más baja)**. Agrupados por dominio, la mediana de la puntuación dirigida a la salida fue 3 frente a 2 de la dirigida al sistema. El hallazgo no es que este estudiantado careciera de alfabetización, sino que **la alfabetización para leer la salida de la IA no se extendía a cuestionar cómo se había producido esa salida**: una distinción con consecuencias directas para cómo se delimita y se mide un programa, ya que una única puntuación promediaría ambos registros e informaría de un punto medio que no describe a ninguno.
+
+**Las personas expertas coinciden en las competencias y no en dónde se sitúan.** Once personas expertas valoraron favorablemente el contenido de un marco de nueve competencias y tres dominios, pero discreparon sobre la ubicación de las competencias (M = 3,73, DE = 1,19, IQR = 1,50) mientras respaldaban relaciones no exclusivas entre dominios (M = 4,45, DE = 0,52), leyendo los dominios como roles funcionales y no como compartimentos fijos ([[lee-ai-literacy-expert-convergence-2026|Lee, Son y Hong (2026)]]).
 
 La [[research-methods-aied|investigación]] sobre la alfabetización en IA en esta base de conocimiento abarca cuatro dimensiones interconectadas:
 
