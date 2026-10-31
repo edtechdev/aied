@@ -1,7 +1,7 @@
 ---
 title: "How Should AI Be Designed Into the Learning Experience?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-28T11:26:02-04:00"
+updated: "2026-10-31T10:40:00-04:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-10-31"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ Start from the learning goal and from the activity that produces it. The same mo
 The knowledge base's [[pedagogy|Pedagogies and Teaching Strategies]] concept supplies the test: does the configuration preserve the activity that produces the intended learning? Answer that on paper, before anyone picks a feature.
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] states the general rule: technology should augment rather than displace the human capabilities that education intends to develop. Written as a test for a module, that means naming the capability, naming the activity that builds it, and asking whether the AI sits inside that activity or beside it.
+
+Apply it per task rather than once per tool. Across four teacher-facing cases automation and augmentation co-occurred: replacement stayed inside bounded analytical subtasks, and augmentation appeared in what the teacher did with the output, which is why the same tool can automate one step and augment another ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
 
 ## Put the attempt before the help
 
