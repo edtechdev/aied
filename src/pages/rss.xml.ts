@@ -6,6 +6,14 @@ import { smartTitle } from '../lib/markdown';
 /**
  * The knowledge base RSS feed.
  *
+ * Every NEW page is an item, not only articles: concept pages, FAQs, resources and
+ * newsletter issues join the same feed, because a reader who subscribes wants to know
+ * what appeared in the knowledge base rather than what appeared in one collection.
+ * Each item carries its type as a `<category>`, and the description stays a summary
+ * (the page's synthesis blockquote, a resource's one-sentence summary, or the issue
+ * summary) rather than the page body, so the feed never becomes a second full-text copy
+ * of the site.
+ *
  * Written by hand rather than through @astrojs/rss for two reasons.
  *
  * 1. `pubDate`. The library calls `.toUTCString()`, which shifts an Eastern-evening
@@ -166,12 +174,37 @@ function leadParagraph(body: string): string {
     .trim();
 }
 
+type FeedEntry = {
+  title: string;
+  url: string;
+  date: string;
+  kind: string;
+  description: string;
+};
+
+/**
+ * How many pages of each type the feed carries.
+ *
+ * A plain "newest 50" window is right for articles and wrong for everything else: a
+ * single ingest day adds dozens of articles, so concepts, FAQs, resources and issues
+ * would never surface at all. Each type gets its own newest-N, and the union is then
+ * sorted by date so the feed still reads chronologically.
+ */
+const FEED_LIMIT_BY_KIND: Record<string, number> = {
+  Article: 30,
+  Concept: 10,
+  FAQ: 10,
+  Resource: 10,
+  Newsletter: 5,
+};
+
 export async function GET() {
-  const [articles, concepts, faqs, resources] = await Promise.all([
+  const [articles, concepts, faqs, resources, newsletters] = await Promise.all([
     getCollection('articles'),
     getCollection('concepts'),
     getCollection('faqs'),
     getCollection('resources'),
+    getCollection('newsletters'),
   ]);
 
   const idx: LinkIndex = {
@@ -187,24 +220,76 @@ export async function GET() {
     ),
   };
 
-  const pages = articles
-    .sort((a, b) => b.data.created.localeCompare(a.data.created))
-    .slice(0, 40);
+  // One list of every new page, whatever its collection. A concept page, an FAQ, a
+  // resource and a newsletter issue are all new pages, and a subscriber to the main
+  // feed should not have to subscribe to five feeds to learn that.
+  const slugOf = (page: { id: string }) => page.id.replace(/\.md$/, '');
+  const bodySummary = (body: string | undefined) => summarize(leadParagraph(body || ''), idx);
 
-  const items = pages
-    .map(page => {
-      const url = `${BASE}/articles/${page.id.replace('.md', '')}/`;
-      const description = summarize(leadParagraph(page.body || ''), idx);
-      return [
+  const entries: FeedEntry[] = [
+    ...articles.map(page => ({
+      title: page.data.title,
+      url: `${BASE}/articles/${slugOf(page)}/`,
+      date: page.data.created,
+      kind: 'Article',
+      description: bodySummary(page.body),
+    })),
+    ...concepts.map(page => ({
+      title: page.data.title,
+      url: `${BASE}/concepts/${slugOf(page)}/`,
+      date: page.data.created,
+      kind: 'Concept',
+      description: bodySummary(page.body),
+    })),
+    ...faqs.map(page => ({
+      title: page.data.title,
+      url: `${BASE}/faqs/${slugOf(page)}/`,
+      date: page.data.created,
+      kind: 'FAQ',
+      description: bodySummary(page.body),
+    })),
+    // A resource and a newsletter issue each carry a one-sentence `summary` written for
+    // listings, which is a better description than their opening prose.
+    ...resources.map(page => ({
+      title: page.data.title,
+      url: `${BASE}/resources/${slugOf(page)}/`,
+      date: page.data.created,
+      kind: 'Resource',
+      description: summarize(page.data.summary, idx),
+    })),
+    // Drafts stay out of the feed for the same reason they stay off /news/: the issue
+    // is not published until its status says so.
+    ...newsletters
+      .filter(page => page.data.status !== 'draft')
+      .map(page => ({
+        title: page.data.title,
+        url: `${BASE}/news/${slugOf(page)}/`,
+        date: page.data.created,
+        kind: 'Newsletter',
+        description: summarize(page.data.summary, idx),
+      })),
+  ];
+
+  const items = entries
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .reduce<FeedEntry[]>((kept, entry) => {
+      const limit = FEED_LIMIT_BY_KIND[entry.kind] ?? 0;
+      const already = kept.filter(other => other.kind === entry.kind).length;
+      if (already < limit) kept.push(entry);
+      return kept;
+    }, [])
+    .map(entry =>
+      [
         '    <item>',
-        `      <title>${escapeXml(page.data.title)}</title>`,
-        `      <link>${escapeXml(url)}</link>`,
-        `      <guid isPermaLink="true">${escapeXml(url)}</guid>`,
-        `      <pubDate>${toRfc822Local(page.data.created)}</pubDate>`,
-        `      <description>${cdata(description)}</description>`,
+        `      <title>${escapeXml(entry.title)}</title>`,
+        `      <link>${escapeXml(entry.url)}</link>`,
+        `      <guid isPermaLink="true">${escapeXml(entry.url)}</guid>`,
+        `      <category>${escapeXml(entry.kind)}</category>`,
+        `      <pubDate>${toRfc822Local(entry.date)}</pubDate>`,
+        `      <description>${cdata(entry.description)}</description>`,
         '    </item>',
-      ].join('\n');
-    })
+      ].join('\n')
+    )
     .join('\n');
 
   const xml = [
@@ -213,7 +298,7 @@ export async function GET() {
     '  <channel>',
     `    <title>${escapeXml(siteConfig.name)}</title>`,
     `    <link>${escapeXml(`${BASE}/`)}</link>`,
-    `    <description>${escapeXml(`${siteConfig.name} - research article summaries and concept syntheses`)}</description>`,
+    `    <description>${escapeXml(`${siteConfig.name} - new and updated pages: article summaries, concept syntheses, FAQs, resources, and newsletter issues`)}</description>`,
     '    <language>en-us</language>',
     items,
     '  </channel>',

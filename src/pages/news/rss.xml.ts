@@ -4,8 +4,8 @@ import { renderMarkdown } from '../../lib/markdown';
 import siteConfig from '../../config/siteConfig';
 
 // The newsletter-only feed: /aied/news/rss.xml. One item per issue, dated by the
-// issue date. Kept separate from /aied/rss.xml, which carries every new article
-// summary as it is ingested, so a reader can subscribe to either rate.
+// issue date. Kept separate from /aied/rss.xml, which carries every newly added page
+// of any type as it lands, so a reader can subscribe to either rate.
 //
 // Each item carries the WHOLE issue in `<content:encoded>`, not just the summary
 // line: a newsletter is written to be read, and a subscriber who has to click
