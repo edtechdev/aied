@@ -909,13 +909,92 @@ def _faq_created(path):
     return m.group(1).strip() if m else os.path.basename(path)
 
 # Order FAQs by weight (most useful/important first), tie-breaking by creation
-# date -- matching the site's FAQ index and sidebar (see faq.astro / BaseLayout).
+# date -- matching the site's FAQ sidebar (see BaseLayout). This is the order of
+# the trailing section only; questions filed in faqIndex.ts keep the index's order.
 faq_paths = sorted(glob.glob(os.path.join(FAQS_DIR, '*.md')),
                    key=lambda p: (-_faq_weight(p), _faq_created(p)))
-for path in faq_paths:
-    slug = os.path.basename(path)[:-3]
-    title, body = process_md(path, slug, 3)  # FAQ at H3
-    parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
+
+# --- FAQ sections (mirrors the FAQ index page) ---
+# src/data/faqIndex.ts groups the questions by the job the reader is trying to do,
+# and /faq renders that arrangement. The book used to print one flat list by weight,
+# so a reader scanning the TOC could not tell a policy question from a research-methods
+# one. Same sections, same order, same blurbs; a slug with no page is dropped rather
+# than linked, and anything the index failed to file is collected at the end instead
+# of disappearing (both rules are the index page's own).
+FAQ_INDEX_TS = os.path.join(WIKI, 'src', 'data', 'faqIndex.ts')
+
+
+def _faq_index_sections():
+    """[(heading, blurb, [slugs])] from src/data/faqIndex.ts, order preserved."""
+    src = open(FAQ_INDEX_TS, encoding='utf-8').read()
+    out = []
+    for m in re.finditer(
+            r"\{\s*heading:\s*'((?:[^'\\]|\\.)*)',\s*"
+            r"blurb:\s*'((?:[^'\\]|\\.)*)',\s*items:\s*\[(.*?)\]",
+            src, re.S):
+        heading = m.group(1).replace("\\'", "'")
+        blurb = m.group(2).replace("\\'", "'")
+        out.append((heading, blurb, re.findall(r"'([^']+)'", m.group(3))))
+    return out
+
+
+def _faq_section_strings(key):
+    """The locale's sectionHeadings/sectionBlurbs from src/i18n/pages/faq.<LOCALE>.ts.
+
+    English is not read: the default edition prints the index's own strings, which
+    are exactly what the English index page falls back to, so its bytes never change.
+    """
+    if IS_DEFAULT:
+        return {}
+    try:
+        with open(os.path.join(WIKI, 'src', 'i18n', 'pages', f'faq.{LOCALE}.ts'),
+                  encoding='utf-8') as fh:
+            txt = fh.read()
+    except FileNotFoundError:
+        return {}
+    m = re.search(r'\b' + key + r':\s*\{(.*?)\n  \}', txt, re.S)
+    if not m:
+        return {}
+    return {k.replace('\\"', '"'): v.replace('\\"', '"') for k, v in
+            re.findall(r'"((?:[^"\\]|\\.)*)":\s*"((?:[^"\\]|\\.)*)"', m.group(1))}
+
+
+_FAQ_SECTION_HEADINGS = _faq_section_strings('sectionHeadings')
+_FAQ_SECTION_BLURBS = _faq_section_strings('sectionBlurbs')
+
+
+def _faq_section_heading(heading):
+    """The locale's section label, with an explicit anchor derived from the English
+    text so links into the book survive the translation."""
+    translated = _FAQ_SECTION_HEADINGS.get(heading) or heading
+    if translated == heading:
+        return heading
+    anchor = re.sub(r'[^a-z0-9]+', '-', heading.lower()).strip('-')
+    return f'{translated} {{#{anchor}}}'
+
+
+_faq_by_slug = {os.path.basename(p)[:-3]: p for p in glob.glob(os.path.join(FAQS_DIR, '*.md'))}
+_filed = set()
+for _heading, _blurb, _items in _faq_index_sections():
+    _present = [s for s in _items if s in _faq_by_slug]
+    if not _present:
+        continue
+    parts.append(f"\n## {_faq_section_heading(_heading)}\n")
+    _text = _FAQ_SECTION_BLURBS.get(_heading) or _blurb
+    if _text:
+        parts.append(f"\n{_text}\n")
+    for slug in _present:
+        _filed.add(slug)
+        title, body = process_md(_faq_by_slug[slug], slug, 3)  # FAQ at H3
+        parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
+
+_unfiled = [os.path.basename(p)[:-3] for p in faq_paths
+            if os.path.basename(p)[:-3] not in _filed]
+if _unfiled:
+    parts.append("\n## More questions\n\nQuestions not yet filed into a section.\n")
+    for slug in _unfiled:
+        title, body = process_md(_faq_by_slug[slug], slug, 3)
+        parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
 
 # --- Resources chapter (2026-09-20) ---
 # Free tools, collections, instruments and open formats, listed LAST: they point
