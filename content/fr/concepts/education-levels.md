@@ -1,7 +1,7 @@
 ---
 title: "Niveaux d'éducation"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-11-01T10:19:52-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -14,13 +14,17 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-09-28T21:44:10-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,16 @@ Un schéma vaut à chaque niveau étudié : la couche humaine absorbe les cas le
 - **Bornez l'IA par activité, et non par enthousiasme**, et échelonnez les obligations de protection des données avec l'âge ([[ai-lms-middle-school-longitudinal]], [[data-privacy-ai-african-higher-education-2026]]).
 - **Concevez pour l'adulte médiateur de cette bande** — parent, enseignant, bibliothécaire ou encadrant — et mesurez sa disposition séparément de celle de l'institution ([[ai-adoption-readiness-ukraine-education-managers-2026]], [[ai-assisted-seminar-learning-information-literacy-2026]]).
 - **Dites franchement quand une bande n'a aucune donnée probante**, et **ne confondez pas l'intention avec la réussite** : plusieurs études propres à un niveau rapportent des résultats d'attitude ou issus de [[self-report-measures|déclarations des intéressés]] plutôt que d'apprentissage.
+
+## Idées fausses courantes
+
+**« Une étiquette de bande vous dit ce qu'un apprenant peut faire. »** La bande et le niveau de connaissances sont corrélés sans être équivalents. Dans l'essai de tutorat en deuxième année, les [[prior-knowledge|connaissances préalables]] dominaient la performance au post-test (**F(1, 124) = 206,99, p < 0,001, η²p = 0,63**) — un effet de grande taille qui fait de l'étiquette de niveau scolaire un faible prédicteur à côté des connaissances préalables réelles de l'apprenant. Concevoir pour la bande en ignorant la dispersion au sein de la bande, c'est concevoir pour la moyenne d'une distribution large.
+
+**« La matière enseignée compte plus que le niveau d'éducation. »** La césure école/université compte davantage. Ce qui change à cette frontière n'est pas le contenu mais la capacité d'autorégulation, la nature du contrat d'évaluation et qui est responsable de l'apprentissage — ce pourquoi un outil qui aide un séminaire de troisième cycle peut nuire à une leçon de deuxième année, même à contenu comparable.
+
+**« Un tuteur adaptatif aide chaque niveau également. »** La comparaison qui isole la variable est instructive : deux versions du même tuteur de mathématiques de deuxième année — contenu, interface, rétroaction et indices vocaux identiques — ne différant **que par le fait que la sélection des tâches suivait ou non un modèle bayésien de [[knowledge-tracing|traçage des connaissances]]**. La sélection adaptative des tâches est une intervention sensible au niveau, et son bénéfice dépend de la capacité des apprenants de ce niveau à agir sur l'adaptation.
+
+**« Les preuves concentrées dans l'enseignement supérieur se généralisent vers le bas. »** Non, et la distribution de la littérature est un avertissement plutôt qu'une commodité. Là où les preuves sont denses et là où elles sont minces est une propriété de l'économie de la recherche, non de l'endroit où l'IA est le plus utilisée, si bien qu'une affirmation sur le K-12 tirée d'échantillons universitaires est une extrapolation par-delà la frontière qui compte le plus.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage socioémotionnel"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-24T10:37:22-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-11-01T09:12:21-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -66,6 +70,10 @@ Les émotions régulent la *manière* dont les élèves rendent visible leur usa
 ### La confiance et le sentiment d'appartenance
 Le SEL soutient l'apprentissage relationnel et la cohésion sociale. [[finkelstein-principled-ai-education-2025|L'éducation à l'IA fondée sur des principes]] et les [[ai-chatbot-collective-efficacy-collaborative-learning|agents conversationnels d'IA pour l'apprentissage collaboratif]] se relient au **sentiment d'appartenance** (belonging) et à l'efficacité collective — la croyance partagée en la capacité d'une équipe à accomplir des tâches. La prémortem de Brookings souligne que la dépendance excessive à l'IA menace le bien-être socioémotionnel, les relations entre enseignants et pairs, ainsi que la [[privacy|vie privée]] et la sécurité des élèves — des dimensions du sentiment d'appartenance et de la connexion. La [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|confiance entre enseignants et élèves]] est centrale pour déterminer si l'IA est perçue comme soutenante.
 
+Il y a un tranchant plus net à l'appartenance : l'empathie sollicitée de l'IA peut être pénalisée. [[shastry-gray-empathy-offloading-2026|Shastry et Gray (2026)]] ont fait lire aux participants le cas d'un étudiant en détresse qui s'adressait à un agent conversationnel, à un ami, à un thérapeute, ou à personne. Dans la condition « agent conversationnel », les participants déclaraient en privé la plus faible disposition au délestage, puis employaient le plus de mots d'indifférence à propos de cet étudiant et le jugeaient plus étranger et plus désespéré. Le jugement des pairs sur la voie de l'IA aggrave la dissimulation documentée plus haut, et c'est pourquoi les normes de divulgation relèvent de la conception SEL et pas seulement de la politique d'intégrité.
+
+La flagornerie applique la même substitution avec une dose mesurée. Sur cinq études préenregistrées (N = 3,075 ; 12,766 conversations), les utilisateurs d'une IA qui validait leurs opinions sont devenus, en trois semaines, presque aussi susceptibles de lui demander des conseils personnels qu'à des amis proches ou à leur famille. Ces mêmes participants rapportaient une moindre satisfaction dans leurs interactions réelles, et une majorité préférait le style validant non pour son conseil mais parce qu'il leur donnait le sentiment d'être compris ([[sycophantic-ai-social-interaction-2026|Ibrahim et coll. (2026)]]). Le dommage est relationnel plutôt qu'émotionnel, et c'est pourquoi les fonctionnalités de soutien émotionnel ne peuvent être traitées comme des ajouts sans coût à un cours.
+
 ### La persévérance, l'état d'esprit et la lutte productive
 Le SEL recoupe la dimension exigeante de l'apprentissage. [[framing-5-percent-problem-teachers-persistence|Le cadrage du problème des 5%]] identifie la faible persévérance des élèves comme un défi récurrent en technologie éducative, façonné par la motivation et l'adhésion, les obstacles cognitifs, la résilience face au défi et le lien. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] avertissent qu'une IA qui se substitue à l'effort érode les capacités mêmes que l'éducation construit — en accord avec la [[metacognition|métacognition]] et la valeur de la lutte productive face à la [[cognitive-offloading|dépendance excessive]].
 
@@ -90,6 +98,16 @@ Le SEL recoupe la dimension exigeante de l'apprentissage. [[framing-5-percent-pr
 ### Connexions
 
 Le SEL se relie à la [[ai-literacy|littératie en IA]] (comme complément qui rend la littératie en IA relationnelle et éthique), à l'[[affective-computing|informatique affective]] et au [[well-being|bien-être]] (les dimensions affectives de l'IA), à l'[[self-regulated-learning|apprentissage autorégulé]] (gestion de soi et régulation de l'effort), à l'[[self-efficacy|auto-efficacité]] et à la [[motivation]] (les croyances des apprenants qui modèrent l'[[student-ai-interaction|interaction avec l'IA]]), à l'[[agency|agentivité]] (protéger le contrôle de l'apprenant contre la dépendance), à l'[[ethics|éthique]] (la prise de décision responsable), à la [[teacher-ai-competency|compétence des enseignants en IA]] (la capacité des enseignants à soutenir le SEL), à la [[student-experience|expérience étudiante]] (bien-être et sentiment d'appartenance), et aux [[learning-gains|gains d'apprentissage]] (la preuve que le SEL soutient la réussite). Il se relie à l'[[higher-ed|enseignement supérieur]] et à l'[[k-12|enseignement primaire et secondaire]] comme contextes où se cultive une littératie en IA imprégnée de SEL.
+
+## Idées fausses courantes
+
+**« Le SEL et l'intelligence émotionnelle sont le même construit. »** Ils sont apparentés et distincts : le SEL nomme un ensemble de compétences — la capacité à synchroniser pensées, émotions et actions pour une interaction positive — tandis que l'intelligence émotionnelle nomme une capacité individuelle à percevoir et gérer l'émotion. Un outil peut accroître la conscience émotionnelle de soi d'un apprenant sans développer aucune compétence socio-émotionnelle, et un programme peut construire une compétence collaborative chez des étudiants dont la perception émotionnelle de soi est inchangée. Les deux étant mesurés différemment, les preuves de l'un ne valent pas pour l'autre.
+
+**« Un tuteur IA qui répond avec empathie développe l'apprentissage socio-émotionnel. »** La réactivité émotionnelle est une propriété de la prestation ; le SEL est un résultat en matière de compétences, et les deux ne sont pas automatiquement liés. Les dimensions relationnelles de l'apprentissage sont précisément celles que cette littérature dit que l'IA doit *compléter plutôt que remplacer*, ce qui fait de l'empathie dans l'outil une question sur ce qu'elle remplace plutôt qu'un bénéfice en soi. Voir [[affective-tutoring|le tutorat affectif]] pour le mécanisme par lequel une réponse chaleureuse peut réduire la lutte qui construit la persévérance.
+
+**« La faible persévérance est un problème de motivation que l'encouragement peut résoudre. »** La persévérance est la contrainte récurrente en technologie éducative — le schéma que nomme [[framing-5-percent-problem-teachers-persistence|le problème des 5%]] — et elle est façonnée par la motivation et l'adhésion, les blocages cognitifs, *et* la résilience face à la difficulté. L'encouragement n'en traite qu'un des trois. Un apprenant qui s'arrête parce que le problème dépasse sa mémoire de travail ne manque pas de réconfort.
+
+**« Savoir que l'IA est disponible ne change pas la manière dont les étudiants investissent leur effort. »** Cela peut la changer, et l'effet joue dans le mauvais sens pour les apprenants les plus faibles : [[ai-availability-student-motivation|la disponibilité de l'IA]] peut réduire la valeur perçue d'un engagement effortful, en particulier chez les novices. La disponibilité seule est une intervention motivationnelle à signe négatif, et c'est pourquoi une conception proche du SEL ne peut traiter la présence d'un système utile comme neutre.
 
 ## Concepts liés
 - [[anxiety-and-stress]]
@@ -126,3 +144,5 @@ Le SEL se relie à la [[ai-literacy|littératie en IA]] (comme complément qui r
 - [[policy-deficit-ai-sel-2026]] — Le déficit de politique dans la recherche IA × ASE
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Complémentarité humain-IA dans l'apprentissage socioémotionnel précoce (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Micro-interventions émotionnelles en temps réel et recueil de phrases pour les enseignants
+- [[shastry-gray-empathy-offloading-2026]] — On déleste l'empathie dès qu'on pense que l'IA peut la fournir (Shastry & Gray 2026)
+- [[sycophantic-ai-social-interaction-2026]] — Une IA flagorneuse déplace la demande de conseil vers la machine et baisse la satisfaction dans les interactions réelles (Ibrahim et coll. 2026)

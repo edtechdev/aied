@@ -1,19 +1,23 @@
 ---
 title: Recherche qualitative
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-10-24T10:37:28-04:00"
+updated: "2026-11-01T10:12:59-05:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
 translation_of: concepts/qualitative-research
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,7 @@ Les études par observation regardent le comportement en contexte ; l'ethnograph
 
 ### Les études de cas
 Une étude de cas est une investigation approfondie d'un cas borné (un cours, une institution, un seul apprenant) utilisant de multiples sources de données. [[drummond-genai-business-schools-framework-2026|Une étude de cas en école de commerce]] génère un cadre d'enseignement et d'apprentissage informé par les étudiants pour l'IA générative ; [[zha-ai-literacy-biology-case-study|une étude de cas en biologie]] documente l'intégration de la littératie IA. Les études de cas échangent l'ampleur contre la profondeur et sont fortes pour la génération de théorie et l'insight transférable plutôt que pour la généralisation. [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] proposent une étude de cas qualitative portant sur 21 étudiants de premier cycle malvoyants dans trois universités palestiniennes, utilisant l'analyse thématique d'entretiens semi-structurés pour montrer comment l'IA générative fonctionne comme une [[assistive-technology|technologie d'assistance]] pour l'[[inclusive-learning|apprentissage inclusif]] — un exemple de recherche par étude de cas faisant émerger des mécanismes (adaptation personnalisée, augmentation de l'enseignant, parité éducative) que les mesures quantitatives manquent.
+- Une variation choisie n'est pas une variation trouvée : trois apprenants d'anglais langue étrangère, retenus parmi 241 étudiants interrogés pour leurs différences de niveau, de genre et d'historique avec l'IA générative, ont suivi des trajectoires émotionnelles nettement divergentes sur trois tâches, et pourtant des cas de variation maximale ne peuvent pas estimer la fréquence d'une trajectoire ([[wu-efl-emotional-dynamics-genai-writing-2026|Wu, Yang et Lin (2026)]]).
 
 [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] triangule la vidéo, les journaux propres du système d'alerte et des entretiens de rappel par stimulus pour un enseignant et huit étudiants, montrant qu'un signal affectif n'acquérait de sens qu'à travers la réponse de l'enseignant ; le codage épisodique en deux étapes par un auteur unique, sans codage indépendant ni détection d'affect validée, marque la limite de ce qu'une analyse de cas à un seul codeur peut garantir.
 
@@ -84,6 +89,16 @@ Un développement récent distinctif est l'usage des [[llm|LLM]] pour assister l
 - **Limites :** généralisabilité statistique limitée ; caractère interprétatif et dépendant du chercheur (problèmes de fiabilité) ; petits échantillons ; soutien plus faible aux affirmations causales ; résultats difficiles à synthétiser d'une étude à l'autre ; exigeant en temps et en travail.
 
 Les méthodes qualitatives et quantitatives sont complémentaires, et non rivales — voir [[research-methods-aied]] pour comprendre comment elles contrastent et se triangulent, et les [[mixed-methods-research|méthodes mixtes]] pour les conceptions qui les combinent.
+
+## Idées fausses courantes
+
+**« Les résultats qualitatifs ne sont pas généralisables parce que les échantillons sont petits. »** Ils ne sont généralement pas généralisables *statistiquement* et sont souvent généralisables *conceptuellement* — les mécanismes et les dynamiques qu'ils identifient se transfèrent à d'autres contextes même lorsque les fréquences ne se transfèrent pas. Un groupe de discussion qui explique pourquoi les étudiants se méfient d'un tuteur a produit un mécanisme qu'une enquête ne peut pas produire, et l'écarter faute d'intervalle de confiance revient à écarter la part qui voyage.
+
+**« L'IA peut désormais faire l'analyse qualitative, donc la méthode passe à l'échelle. »** Elle met à l'échelle le codage, pas l'interprétation. Là où le corpus montre que cela fonctionne bien, c'est parce que la tâche de codage avait d'abord été rendue comparable — une étude a appliqué **15 vignettes fixes** aux politiques publiques de **20 universités** pour produire **300 classifications comparables**, ce qui relève d'une conception par instrument structuré plutôt que d'une interprétation ouverte. L'insight du travail qualitatif réside dans la construction des catégories, et c'est ce qu'un modèle hérite plutôt qu'il ne produit.
+
+**« La saturation est une propriété du nombre de participants. »** C'est une propriété de l'analyse : on s'arrête quand les nouvelles données cessent de produire de nouveaux codes. Deux études de taille identique peuvent être également éloignées de la saturation, ce qui explique pourquoi un rapport qui cite un nombre de participants comme preuve de suffisance n'a rien démontré sur la couverture.
+
+**« Les résultats quantitatifs et qualitatifs sont en concurrence. »** Ils répondent à des questions différentes : une enquête vous dit combien d'étudiants se méfient d'un tuteur, et des entretiens vous disent pourquoi. Les traiter comme des récits rivaux de la même chose produit le faux choix que les sections de revue ne cessent de reproduire.
 
 ## Concepts liés
 - [[research-methods-aied]]
@@ -119,3 +134,5 @@ Les méthodes qualitatives et quantitatives sont complémentaires, et non rivale
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Tuteurs critiques en IA : émanciper ou asservir
 - [[genai-runaway-object-math-higher-ed]] — L'IA générative comme objet emballé dans les mathématiques de l'enseignement supérieur
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+
+- [[wu-efl-emotional-dynamics-genai-writing-2026]] — L'engagement émotionnel des apprenants d'anglais langue étrangère dans l'écriture assistée par IA générative : une étude de cas multiples longitudinale

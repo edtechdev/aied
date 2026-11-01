@@ -1,7 +1,7 @@
 ---
 title: "Transfert des apprentissages"
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-10T03:26:18-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,13 +9,17 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-11-01T09:06:43-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,7 +73,6 @@ Les cinq études montrent un schéma de **transfert négatif ou nul** lorsque l'
 **Performance dépendante de l'outil.** Les étudiants peuvent optimiser pour les affordances spécifiques de l'outil d'IA ([[prompt-engineering|l'ingénierie des invites]], la dépendance à la structure de code générée) plutôt que de bâtir une généralisation disciplinaire — une forme de [[cognitive-offloading-speedup-illusion|délestage cognitif]] qui semble productive mais qui déplace l'apprentissage durable.
 
 Une classe protégée peut aussi inculquer une mauvaise habitude : [[shi-genai-experiential-learning-management-education-2026|Shi, Dai & Zhang (2026)]] avertissent que les simulations dont les règles sont fixées à l'avance filtrent l'incertitude et renforcent le respect des règles, de sorte que les habitudes de décision qui s'y forment peuvent devenir un handicap cognitif lorsque les étudiants rencontrent des intérêts concurrents et une information incomplète dans des contextes réels.
-
 **Délestage sensible à la couche et transfert.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] teste directement la distinction « effets avec / effets de la technologie » de Salomon, Perkins & Globerson dans la rédaction assistée par [[generative-ai|IA générative]] : une quasi-expérience de huit semaines a montré que la collaboration ouverte avec l'IA maximisait la performance de rédaction assistée, mais produisait les *plus faibles* résultats de transfert proche indépendant, sans IA, tandis qu'un soutien borné accompagné de réflexion préservait la compétence indépendante. Les couches de délestage plus profondes (raisonnement, structure) prédisaient un transfert moins bon que les couches de surface (grammaire). C'est la preuve directe, en classe, que les gains de performance obtenus *avec* le soutien de l'IA ne se transfèrent pas à la performance indépendante obtenue *sans* ce soutien — et que la profondeur de la délégation, et pas seulement le fait d'utiliser l'IA, façonne le transfert.
 
 Un exemple complémentaire, bien que confondu, vient de la [[physics-education|physique]] : la refonte par l'université de la Ruhr à Bochum d'un cours d'introduction à la physique nucléaire et des particules ([[ai-particle-physics-education-redesign-2026|Mikhasenko et al., 2026]]) a permis à des étudiants de mener à bien, avec l'aide de l'IA, des problèmes de recherche collaboratifs et riches en ressources, mais ces mêmes étudiants obtenaient en moyenne 20,6/80 à un examen écrit conventionnel sans aide, plusieurs tentatives sérieuses n'ayant pas pu mener à bien des calculs standard. Les auteurs y lisent la preuve que la performance assistée ne se transfère pas automatiquement à la performance non sollicitée, et leur remède est un choix délibéré de conception : faire de l'examen écrit le seul déterminant de la note, publier à l'avance les problèmes de tutorat pour que le temps de cours devienne une discussion préparée, et ajouter une préparation préalable, des exemples résolus et de la consolidation autour du travail exploratoire où l'IA est permise.
@@ -97,9 +100,21 @@ Cela rejoint la recherche sur l'[[intelligent-tutoring|tutorat par IA]] montrant
 3. **Différences individuelles :** les étudiants à [[prior-knowledge|connaissances préalables]] élevées souffrent-ils moins d'une perte de transfert que les novices ?
 4. **Remédiation des compétences :** des séances de pratique explicitement « sans IA » peuvent-elles inverser la dépendance à l'outil ?
 
+La question de l'échelle de temps dispose désormais d'une formalisation. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nomme *lessivage cognitif* l'intervalle qui suit le retrait de l'outil et lui donne quatre issues candidates : rebond élastique, plateau partiel, étayage latent et sur-récupération. La réversibilité, soutient l'article, est ce qui détermine la gravité, et il propose un protocole préenregistrable à trois bras sur vingt-deux semaines pour la mesurer. Les études ci-dessus ont testé le transfert quelques heures après la fin de l'assistance, de sorte que les semaines suivantes constituent la part de la première question ouverte de cette page qui reste véritablement non mesurée.
+
 ### Connexions avec les concepts liés
 
 Le transfert des apprentissages est lié à la [[metacognition]] (auto-surveillance de la compréhension), à la théorie de la charge cognitive (charge germane vs extrinsèque), aux [[desirable-difficulties|difficultés souhaitables]] (lutte productive), à l'[[scaffolding|étayage]] (soutien qui s'estompe), au [[cognitive-offloading|sur-appui]] (dépendance à l'outil) et à l'[[sociocultural-learning|apprentissage socioculturel]] (l'IA généraliste opère en dehors de la ZPD en accomplissant le travail à la place des étudiants). Il est le pont entre la performance assistée et l'apprentissage authentique — la distinction entre le [[stanford-evidence-base-ai-k12-2026]] et la question centrale de l'efficacité de l'[[intelligent-tutoring|tutorat par IA]].
+
+## Idées fausses courantes
+
+**« Des gains sur des tâches assistées par l'IA démontrent un apprentissage transférable. »** C'est le schéma inverse que le corpus trouve : **les cinq études** de la synthèse présentée ici rapportent un transfert **négatif ou nul** lorsque l'IA généraliste constitue l'intervention — des lycéens de mathématiques ayant de meilleures notes de pratique obtenant **environ 17 % de moins** aux examens sans documents, et une étude de rédaction où **83 %** des étudiants ne parvenaient pas à se rappeler leurs propres citations. La performance assistée immédiate est la mesure la moins transférable dont on dispose.
+
+**« Si un étudiant peut le faire avec l'IA, il sait le faire. »** C'est la définition de l'échec, non son absence. Le transfert exige que la capacité survive au retrait du soutien, et les études qui testent ce retrait constatent que la capacité se trouvait dans l'outil. Un apprenant capable de produire un artefact pendant que le raisonnement s'accomplit ailleurs a été formé à une autre compétence : opérer l'outil.
+
+**« Le transfert vient de modèles plus capables. »** Le transfert vient des conditions qui le produisent — la généralité de la pratique, la variabilité des contextes et la mesure dans laquelle l'apprenant a lui-même généré le raisonnement. La capacité du modèle relève le plafond de la performance assistée et ne fait rien de particulier pour ce qui subsiste lorsque le modèle disparaît.
+
+**« Le guidage soutient toujours le transfert, donc plus de guidage vaut mieux. »** Un guidage qui accomplit le raisonnement se substitue au processus dont dépend le transfert. La distinction est entre une aide qui maintient l'apprenant producteur de l'étape suivante et une aide qui la produit à sa place — seule la première se situe du côté du transfert de cette ligne.
 
 ## Concepts liés
 
@@ -132,3 +147,4 @@ Le transfert des apprentissages est lié à la [[metacognition]] (auto-surveilla
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — La pratique orale assistée par IA a accru la volonté de communiquer avec des humains, mais aucune étude n'a observé de prise de parole humaine
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred : apprentissage augmenté par incarnation robotique fonctionnelle au bureau
+- [[cognitive-washout-ai-skill-decay-2026]] — Lessivage cognitif : l'intervalle qui suit le retrait de l'outil et un protocole de mesure sur 22 semaines (Yajee 2026)

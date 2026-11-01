@@ -1,7 +1,7 @@
 ---
 title: "Apprenants"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-10-24T10:43:33-04:00"
+updated: "2026-11-01T10:17:09-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,13 +12,17 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T15:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,7 +73,7 @@ Le [[cognitive-offloading|délestage cognitif]] rassemble les données probantes
 
 ## Les apprenants comme modèles
 
-Les concepts du côté apprenant ayant la plus longue filiation technique sont ceux qui représentent l'apprenant au système. La [[student-modeling|modélisation de l'étudiant]] couvre la famille : le [[knowledge-tracing|traçage des connaissances]] estimant l'acquisition de compétences au fil du temps, le [[cognitive-diagnosis|diagnostic cognitif]] localisant des idées fausses spécifiques, et les systèmes adaptatifs et d'[[personalized-learning|apprentissage personnalisé]] qui consomment ces estimations. Les [[simulating-students|étudiants simulés]] et [[simulating-students-llm-review-2026|sa revue]] traitent la [[simulation|simulation]] comme une manière de tester des [[intelligent-tutoring|tuteurs]] et de générer des données lorsque de vrais apprenants ne sont pas disponibles — un substitut explicitement provisoire, non un remplacement. Deux mises en garde traversent cette littérature : les estimations des modèles sont des inférences tirées du comportement, sensibles à la manière dont les items et les interfaces sont construits, et [[demographic-signals-llm-student-assessment-2026|les études sur les signaux démographiques]] montrent que les systèmes d'évaluation peuvent capter des indicateurs de substitution de l'identité de l'apprenant (la langue, l'origine) qui n'ont jamais été destinés à faire partie du construit. Les [[self-report-measures|mesures auto-déclarées]] couvrent le problème en miroir du côté de la recherche : ce que les apprenants disent de leur propre apprentissage diverge souvent de ce qu'ils peuvent faire.
+Les concepts du côté apprenant ayant la plus longue filiation technique sont ceux qui représentent l'apprenant au système. La [[student-modeling|modélisation de l'étudiant]] couvre la famille : le [[knowledge-tracing|traçage des connaissances]] estimant l'acquisition de compétences au fil du temps, le [[cognitive-diagnosis|diagnostic cognitif]] localisant des idées fausses spécifiques, et les systèmes adaptatifs et d'[[personalized-learning|apprentissage personnalisé]] qui consomment ces estimations. Les [[simulating-students|étudiants simulés]] et [[simulating-students-llm-review-2026|sa revue]] traitent la [[simulation]] comme une manière de tester des [[intelligent-tutoring|tuteurs]] et de générer des données lorsque de vrais apprenants ne sont pas disponibles — un substitut explicitement provisoire, non un remplacement. Deux mises en garde traversent cette littérature : les estimations des modèles sont des inférences tirées du comportement, sensibles à la manière dont les items et les interfaces sont construits, et [[demographic-signals-llm-student-assessment-2026|les études sur les signaux démographiques]] montrent que les systèmes d'évaluation peuvent capter des indicateurs de substitution de l'identité de l'apprenant (la langue, l'origine) qui n'ont jamais été destinés à faire partie du construit. Les [[self-report-measures|mesures auto-déclarées]] couvrent le problème en miroir du côté de la recherche : ce que les apprenants disent de leur propre apprentissage diverge souvent de ce qu'ils peuvent faire.
 
 ## L'équité entre apprenants
 
@@ -78,6 +82,34 @@ Parce que les bénéfices suivent l'avantage préalable, le travail du côté ap
 ## Où se situe cette page
 
 À lire avec la page [[stakeholders|acteurs de l'éducation]] pour les personnes autour de l'apprenant, et avec la [[pedagogy|pédagogie]] et la [[learning-design|conception pédagogique]] pour ce que les enseignants font de ces résultats. L'[[assessment|évaluation]] détermine quelles capacités de l'apprenant sont jamais rendues visibles ; les [[limitations-in-aied-research|limites de la recherche en AIED]] expliquent pourquoi une si grande part des données probantes du côté apprenant est de court terme, auto-déclarée et menée sur des échantillons de commodité ; et les [[misconceptions|idées fausses]] sont le point d'entrée habituel pour les apprenants eux-mêmes.
+
+## Idées fausses courantes
+
+**« Les apprenants et les étudiants sont la même population. »** Ils ne sont pas interchangeables de manière utile : *étudiants* nomme un rôle institutionnel, *apprenants* nomme une activité, et une personne peut être l'un sans l'autre — un salarié en [[professional-training|formation en milieu de travail]] est un apprenant mais pas un étudiant. Les confondre restreint la base de preuves aux personnes inscrites dans un établissement et écarte silencieusement précisément les adultes, les professionnels et les apprenants autonomes dont traite la recherche sur la [[lifelong-learning|formation tout au long de la vie]].
+
+**« Les apprenants déclarent que l'IA améliore leur compréhension, donc elle leur fait gagner du temps. »** Les deux affirmations se séparent dans les données d'enquête. Dans les travaux sur la productivité des études, **92,3 %** déclaraient que l'IA améliorait leur compréhension, tandis que seulement **38,5 %** déclaraient qu'elle réduisait leur temps d'étude total. Le chiffre principal décrit une compréhension ressentie ; l'écart en dessous montre que mieux comprendre et récupérer du temps sont des résultats différents, et l'affirmation très répandue selon laquelle « l'IA fait gagner du temps » est portée par le chiffre le plus faible.
+
+**« L'usage de l'IA par les étudiants pour prendre des raccourcis est une faute morale. »** La base de connaissances traite l'attrait du moindre effort comme un problème de conception et de politique plutôt que de caractère — les étudiants le décrivent dans leurs propres mots, et la littérature sur le [[reducing-ai-misuse|mésusage]] et l'[[academic-integrity|intégrité]] situe le levier dans la conception de la tâche et de l'environnement. Le cadrage moral n'explique rien du fait qu'un même étudiant se comporte différemment dans deux cours.
+
+**« Quand une allégation de faute est formulée, les preuves sont là. »** L'analyse des dossiers de 1 162 allégations liées à l'IA générative montre ce que les apprenants affrontent réellement lorsque la réponse institutionnelle arrive, et le versant étudiant de la procédure de faute est bien plus mince dans la littérature que le versant étudiant de l'usage. Une page sur les apprenants qui documente seulement leur usage et non leur exposition à l'accusation n'a documenté que la moitié de l'expérience.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Demandez ce que les apprenants *font*, et pas seulement ce qu'ils déclarent ressentir. La compréhension ressentie (92,3 %) et le temps récupéré (38,5 %) divergent assez pour qu'agir sur l'une en supposant l'autre induise en erreur la conception du cours.
+- Concevez contre l'attrait du moindre effort de manière structurelle plutôt qu'en comptant sur la vertu de l'apprenant, puisque cet attrait est documenté comme une réponse normale à la conception de la tâche.
+- Informez les apprenants de la procédure qu'ils affronteront s'ils sont accusés, parce que les preuves sur la procédure montrent que la réponse institutionnelle est là où le préjudice atterrit souvent.
+
+**Pour les développeurs**
+
+- Ne vantez pas des gains de temps que les apprenants eux-mêmes ne rapportent pas. Livrez des métriques pour la compréhension et pour le temps, et conservez-les étiquetées séparément.
+- Concevez pour l'apprenant non étudiant : les usagers en milieu de travail et autonomes n'ont pas le contexte d'inscription que vos réglages par défaut peuvent présumer.
+
+**Pour les chercheurs**
+
+- Maintenez explicitement la distinction apprenant/étudiant dans l'échantillonnage, et rapportez qui elle exclut.
+- Étudiez les accusés autant que les usagers ; le versant procédural est la moitié mince de cette littérature.
 
 ## Concepts liés
 

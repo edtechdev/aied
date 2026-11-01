@@ -1,19 +1,23 @@
 ---
 title: IA psychométriquement informée
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-10-24T10:37:22-04:00"
+updated: "2026-11-01T10:18:31-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -51,6 +55,12 @@ ai_assist:
 ### Connexions
 
 L'IA psychométriquement informée se situe à l'intersection de l'[[educational-measurement|évaluation éducative]], de l'[[assessment-validity|évaluation de la validité]], de la [[item-response-theory|théorie de la réponse aux items]] et de l'[[automated-assessment|Confidence Aware AI Assessment]]. Elle est centrale pour l'[[ai-ed-evaluation|évaluation de l'IA dans l'éducation]] (la question de la fiabilité de l'évaluation par l'IA) et se relie à l'[[automated-assessment|évaluation automatisée]] fondée sur les [[llm|LLM]] et à l'[[automated-assessment|notation automatisée]]. Son accent mis sur la validité parle également des [[limitations-in-aied-research|limites de mesure]] des travaux d'[[ai-education|AIED]].
+
+## Idées fausses courantes
+
+- **« Un modèle qui obtient un bon score mesure la même chose. »** Sur **le même instrument d'évaluation**, les structures de réponse humaines et celles des LLM **divergent** — un modèle peut obtenir un bon score tout en mesurant autre chose que ce que l'instrument vise. La concordance des scores est l'observation ; l'équivalence de construit est une affirmation distincte qui exige des preuves au niveau de la structure.
+- **« La calibration se lit sur un seul chiffre d'exactitude. »** **Des métriques équilibrées démasquent un modèle qui ne fait que paraître calibré** : demander à GPT-4o et Gemini 2.0 Flash d'inférer des dimensions de style d'apprentissage à partir des dialogues de **153 étudiants de premier cycle** produisait **une exactitude modérée qui se comportait différemment sous des métriques équilibrées**. L'exactitude agrégée masquait un différentiel que les métriques équilibrées révélaient.
+- **« Les chaînes de notation automatisée ne peuvent pas reproduire une procédure psychométrique. »** Les auteurs ont reproduit une chaîne établie sous forme automatisée (**une probabilité de 67 % de répondre correctement à au moins 7 items de barème pour le seuil inférieur et à au moins 10 pour le seuil supérieur**), permettant de comparer les scores d'items par l'IA et par des humains sur le même pied. La procédure était reproductible ; la question du construit demeure.
 
 ## Concepts liés
 

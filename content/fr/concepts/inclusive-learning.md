@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage inclusif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:27:22-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,16 @@ L'apprentissage inclusif est profondément relié à [[equity-in-ai-education|l'
 - **Traiter explicitement le compromis sécurité/accessibilité.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] modélise comment les mesures anti-tricherie peuvent exclure par inadvertance des apprenants ayant des besoins de traitement visuel — pesez l'intégrité face à l'accès.
 - **L'accès peut tenir à la formulation, pas seulement au format.** La tâche sous-jacente étant maintenue fixe, l'exactitude du modèle est passée de 82.4% pour une formulation à faible littératie à 83.4% pour une formulation experte ; exiger des étudiants qu'ils formulent mieux ajoute donc une nouvelle exclusion, tandis qu'un réécrivain côté système qui normalise les requêtes a supprimé l'écart significatif sans altérer le contenu ([[prompt-privilege-equitable-ai-access-2026|Jin et al. (2026)]]).
 - **Se garder d'une IA qui reproduit l'exclusion.** La [[genai-minoritized-knowledges-disability|critique centrée sur le handicap]] avertit que des données d'entraînement anglophones et occidentalo-centrées marginalisent les savoirs du handicap — auditez les outils d'IA au regard de la justice épistémique, en lien avec [[equity-in-ai-education|l'équité dans l'IA en éducation]].
+
+## Idées fausses courantes
+
+**« Un outil accessible est un cours inclusif. »** L'accessibilité répond à une question — chacun peut-il percevoir le format et agir sur lui — ce qui est nécessaire et très loin de suffire. L'apprentissage inclusif demande aussi quels outils comblent l'[[digital-divide|écart d'accès]] d'un individu et comment la conception doit anticiper la variation plutôt que la rattraper après coup. Une interface compatible avec un lecteur d'écran, dans un cours dont la structure d'évaluation présuppose une pièce calme, un haut débit fiable et un temps ininterrompu, a résolu le problème d'affichage et laissé intact le problème de participation.
+
+**« Fournir une technologie d'assistance fournit de la capacité d'agir. »** Les deux sont distincts, et le cadrage même de la page le dit : la technologie d'assistance ne garantit pas une capacité d'agir significative. Un outil qui permet à un apprenant d'accomplir la tâche requise peut aussi l'orienter vers la version la plus étroite de celle-ci, et la différence entre un étayage et un plafond est invisible dans une métrique d'adoption.
+
+**« Les étudiants en difficulté devraient simplement apprendre à mieux formuler leurs invites. »** Cela convertit un défaut du système en déficit de l'apprenant. À tâche sous-jacente tenue fixe, l'exactitude du modèle n'a progressé que de **82,4 % pour une formulation de faible littératie à 83,4 % pour une formulation experte** — un écart d'un point — tandis qu'exiger de mieux formuler ajoute une nouvelle exclusion à celle qui existe déjà. Le levier réside dans le traitement, côté système, de la variation linguistique, non dans un entraînement correctif aux invites.
+
+**« Un outil conçu pour des classes bien dotées servira les contextes à faibles ressources une fois traduit. »** Le contexte change la contrainte de conception. [[suacode-african-students-motivations|SuaCode]] a atteint des étudiants de contextes africains à faibles ressources où **moins de 1 % possèdent des compétences en programmation**, en concevant pour des smartphones plutôt que pour des ordinateurs de laboratoire, ce qui est une conception différente, non une version réduite de la même.
 
 ## Concepts liés
 

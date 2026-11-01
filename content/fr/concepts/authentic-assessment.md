@@ -1,7 +1,7 @@
 ---
 title: "Évaluation authentique"
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-11-01T10:18:05-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,13 +11,17 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -100,6 +104,12 @@ Le repli porte un coût probatoire que les preuves issues des dossiers d'affaire
 - **L'évaluation authentique convient aux champs orientés vers la pratique.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] constatent que l'évaluation authentique convient particulièrement bien à l'[[business-education|enseignement de la gestion]] : des tâches reflétant de vrais problèmes professionnels (projets de conseil en direct, [[visualization|tableaux de bord]] accompagnés d'exposés destinés à la direction) s'alignent sur l'orientation pratique du champ et son intérêt pour l'[[career-development-and-readiness|employabilité]], et peuvent soutenir des alternatives incluses et préservant l'intégrité à une évaluation centrée sur l'examen, à l'ère de l'IA générative. Dans leur revue de 58 articles issus de quatre revues d'enseignement de la gestion, cependant, l'évaluation authentique apparaissait principalement par le biais de [[simulation|simulations]] médiées par la technologie, et était souvent confondue avec l'[[experiential-learning|apprentissage expérientiel]] — un écart terminologique qui peut obscurcir sa valeur et son adoption plus larges.
 
 - **L'authenticité n'est pas la sécurité, et l'écart est visible à l'échelle du secteur.** Là où l'audit d'un diplôme unique ci-dessus a trouvé 90% des travaux de cours passables, [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] situe les présentations enregistrées, les projets de groupe à distance et les artefacts numériques non surveillés dans la bande de forte exposition, sur 53,915 items, parce que les données publiques ne disent rien de la manière dont la production a été surveillée.
+
+## Idées fausses courantes
+
+- **« L'authenticité, c'est des tâches réalistes. »** La revue de portée de [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud et Du (2025)]] portant sur **37 études empiriques (2000-2024)** propose un modèle de conception à **six dimensions**, et seules **3 des 37 études traitaient de l'authenticité sociale** — la question de savoir si l'évaluation aide les étudiants à contribuer à une transformation sociétale. Le réalisme est une dimension, et la dimension la plus avancée est à peine étudiée.
+- **« L'évaluation authentique résiste à l'IA. »** L'exposition est mesurable et importante : un **diplôme de psychologie de trois ans** s'est révélé **passable à 90%**, ChatGPT produisant **une production adéquate sur 36 des 40 évaluations de cours**, seules les évaluations restantes y résistant. L'essentiel de l'évaluation d'un diplôme était satisfaisable par l'IA.
+- **« La refonte est facultative si le travail est ancré dans le réel. »** Le résultat de 36 sur 40 a été obtenu sur des travaux dont l'authenticité n'était vraisemblablement pas en cause. Le réalisme de la tâche n'a pas protégé contre l'achèvement par l'IA ; c'est la conception de ce qui est évalué qui l'a fait.
 
 ## Concepts liés
 - [[learner-identity]] — identités d'apprenant disciplinaires, professionnelles, créatives et académiques en évolution

@@ -1,14 +1,14 @@
 ---
 title: Connaissances antérieures
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-28T01:09:26-04:00"
+updated: "2026-11-01T10:11:25-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-10-28T01:09:26-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -16,6 +16,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -38,6 +43,7 @@ L'activation des connaissances antérieures est l'un des résultats les plus rob
 ## Le rôle des connaissances antérieures
 
 - **C'est le prédicteur le plus puissant de l'apprentissage.** Des décennies de [[research-methods-aied|recherche]] montrent que ce qu'un apprenant sait déjà est corrélé aux [[learning-gains|résultats d'apprentissage]] plus fortement que presque tout autre facteur, parce que l'information nouvelle est encodée relativement aux modèles mentaux existants. Les systèmes d'IA qui s'adaptent à l'état de connaissances antérieures de chaque apprenant recèlent donc une promesse particulière d'efficience et de [[transfer-of-learning|transfert]].
+- **De combien plus fort, dans une comparaison randomisée.** Deux tuteurs de mathématiques de deuxième année autrement identiques, ne différant que par le fait que la sélection des tâches suivait ou non une estimation de maîtrise par traçage bayésien des connaissances, n'ont produit aucune différence aux scores post-test. Les connaissances antérieures prédisaient ces scores à η²p = .63 (F(1, 124) = 206.99, p < .001) tandis que la séquence adaptative en rendait compte à η²p = .00 ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner et Schmalfeldt (2026)]]). L'adaptation réorganise l'ordre de la pratique ; ce que l'apprenant y apportait portait encore le résultat.
 - **L'activation importe, pas seulement la possession.** Avoir des connaissances antérieures ne suffit pas — elles doivent être activement récupérées et reliées à la matière nouvelle. C'est pourquoi « activer les connaissances antérieures » est un geste [[pedagogy|pédagogique]] standard, et pourquoi la pratique de récupération (se rappeler ce que l'on sait avant d'y ajouter) améliore l'apprentissage au-delà d'une simple ré-exposition.
 - **Elles ne prédisent pas toujours qui accomplit le travail qui produit l'apprentissage.** Dans une étude de cinq jours sur l'apprentissage par l'enseignement auprès de 23 tuteurs de collège, les scores aux tests antérieurs n'ont pas prédit la part de réponses de construction de connaissances qu'un tuteur produisait, et les tuteurs à faibles connaissances antérieures qui construisaient des connaissances ont fini statistiquement au niveau de leurs pairs à fortes connaissances antérieures ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **Elles façonnent l'interprétation.** Les apprenants interprètent l'information nouvelle à travers ce qu'ils croient déjà. Lorsque ces croyances sont fausses ([[misconceptions]]), les connaissances antérieures peuvent *interférer* avec l'apprentissage, ce qui explique pourquoi l'enseignement doit faire émerger et traiter les idées fausses plutôt que de présupposer un point de départ neutre.
@@ -61,6 +67,16 @@ L'IA générative a fait des connaissances antérieures une considération centr
 2. **Modéliser l'état de connaissances antérieures de l'apprenant.** Bâtir la modélisation de l'étudiant et l'adaptation sur les connaissances antérieures estimées (et leurs idées fausses), et non sur une uniformité présupposée, afin de rendre la personnalisation véritablement réactive.
 3. **Faire émerger et traiter les idées fausses.** Lorsque les connaissances antérieures sont incorrectes, elles interfèrent ; l'enseignement devrait susciter et corriger les idées fausses plutôt que d'ajouter un contenu nouveau par-dessus des fondations défectueuses.
 4. **Peser le compromis de friction.** Activer les connaissances antérieures ajoute une difficulté souhaitable (récupération, intégration) que les réglages par défaut suppresseurs de friction de l'IA tendent à effacer — une tension à gérer délibérément plutôt qu'à laisser l'automatisation la résoudre par défaut.
+
+## Idées fausses courantes
+
+**« Les connaissances antérieures prédisent qui accomplit le travail cognitif. »** Elles prédisent les résultats plus fiablement qu'elles ne prédisent le comportement. Dans une étude de cinq jours sur l'apprentissage par l'enseignement auprès de **23 tuteurs de collège**, les scores aux tests antérieurs n'ont **pas** prédit la part de réponses de construction de connaissances qu'un tuteur produisait, et les tuteurs à faibles connaissances antérieures se sont appliqués à construire des connaissances plutôt qu'à en faire moins par défaut. Qui s'engage dans la lutte productive n'est pas simplement qui arrive en sachant le plus.
+
+**« Le délestage est un trait stable de l'apprenant : le même étudiant déleste autant partout. »** Il suit les connaissances antérieures dans la tâche. Dans une étude d'écriture de synthèse, le **groupe à fortes connaissances et faible délestage a rédigé 80 % de sa dissertation contre 2 % pour le groupe au délestage le plus lourd**. Le délestage est donc largement une réponse à ce que l'apprenant possède déjà et à ce que la tâche exige, ce qui en fait une variable de conception plutôt qu'une variable de caractère.
+
+**« Les étudiants ayant moins de connaissances antérieures ont besoin de plus de soutien par l'IA. »** C'est la direction la plus susceptible d'élargir l'écart, puisque le schéma de délestage mesuré concentre la perte de paternité là où les connaissances antérieures sont les plus minces. Un soutien qui fournit le travail à l'apprenant le moins équipé pour détecter la substitution supprime l'activité qui construirait les connaissances manquantes.
+
+**« Les connaissances antérieures sont une donnée fixe que le cours ne peut pas faire bouger. »** C'est le facteur le plus lourdement pondéré dans l'apprentissage nouveau, ce qui fait de leur construction la tâche à plus fort levier plutôt qu'une condition de fond — la raison pour laquelle la connaissance du domaine est l'intervention à part entière, et pas seulement la covariable.
 
 ## Concepts liés
 - [[learners]] — Les apprenants : le parapluie des concepts du côté de l'apprenant
@@ -90,3 +106,4 @@ L'IA générative a fait des connaissances antérieures une considération centr
 - [[bridging-instructional-design-framework-math]] — Un cadre de conception pédagogique pour les mathématiques
 - [[knowledge-building-tutor-learning-2026]] — la construction de connaissances plutôt que les connaissances antérieures prédit l'apprentissage des tuteurs, et les tuteurs à faibles connaissances antérieures qui construisent des connaissances rattrapent leur retard
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — les connaissances antérieures portaient le post-test (η²p = .63) tandis que la sélection adaptative des tâches n'en portait aucune (Sibley et al. 2026)

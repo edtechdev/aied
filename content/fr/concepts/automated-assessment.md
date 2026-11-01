@@ -1,7 +1,7 @@
 ---
 title: "Évaluation automatisée"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:49:43-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,13 +11,17 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -142,6 +146,15 @@ L'évaluation automatisée se relie à la [[assessment-validity|validité de l'�
 
 - **Une notation structurée par LLM peut sembler analytique sans être diagnostique (2026) :** en notant 3,041 réponses à 50 questions d'informatique, trois LLM commerciaux ont produit des sous-dimensions de grilles quasi redondantes (r = 0.82 à 0.99, VIF allant jusqu'à 45) et n'ont nommé d'idées fausses que dans 4.8 à 7.4% des commentaires, contre 15.0% pour les enseignants ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026)]]).
 
+- **« Un seul kappa suffit à justifier un correcteur. »** C'est une vérification parmi d'autres, et un banc d'essai de **22 modèles sollicités par invite** sur trois corpus publics montre pourquoi. Tous les modèles passaient des sondes dont la bonne réponse est connue : une demande polie de note maximale, une consigne de notation falsifiée, une réponse vide, un mot absurde, une objection nue. **Quatorze** ont été signalés pour avoir gagné plus de **5 % de l'échelle** grâce à une note, jusqu'à **83,2 %** sur du code, et **sept** créditaient des réponses vides ou dénuées de sens ; [[porcaro-ai-grading-benchmark-2026|le chiffre d'accord et les tests de défaillance doivent donc être lus ensemble]]. Un système de notation déployé a une entrée de plus à tester : partager avec le correcteur l'estimation d'un modèle d'apprenant déplaçait les notes de **0,28 à 0,75 point** sur un travail identique, et [[porcaro-ai-grader-reliability-2026|l'ablation qui l'a mis au jour]] laissait l'accord entre évaluateurs presque inchangé.
+
+## Idées fausses courantes
+
+- **« Une note automatisée est un nombre unique et fiable. »** Un examen pratique de vision par ordinateur (**570 étudiants doublement notés**) a été noté sous **171 configurations**, et un second examen d'apprentissage automatique sous d'autres encore — la configuration déterminait la note. Une note présentée comme un nombre dissimule la configuration qui l'a produite.
+- **« C'est l'arbitre qui est la source du manque de fiabilité. »** Sur 378 décisions à dés fixés, une nouvelle exécution changeait **2,9 à 6,1 pour cent** des issues avec une méthode semi-rigide et **13,5 à 15,9 pour cent** avec un arbitrage libre, tandis que changer l'IA arbitre n'ajoutait qu'environ 3 points ([[wargaming-adjudication-ai-judged-grading-2026|Epstein, 2026]]) — c'est la procédure, et non l'arbitre, qui fixe la reproductibilité.
+- **« Signaler la confiance est un raffinement superflu. »** Une note qui dirait qu'elle est **sûre à 70 %** changerait la manière dont elle est utilisée, et l'absence de cette information force le lecteur à traiter toutes les notes comme également certaines.
+- **« La correction automatique de réponses courtes est un domaine réglé. »** Une revue de cadrage de la correction automatique de réponses courtes en [[science-education|sciences]] (**de 2017 au début de 2024**) documente l'histoire du domaine, qui est un relevé de ce qui a été tenté plutôt que de ce qui a été validé.
+
 ## Concepts liés
 
 - [[explainable-ai]]
@@ -209,3 +222,5 @@ L'évaluation automatisée se relie à la [[assessment-validity|validité de l'�
 
 - [[llm-grading-assistants-public-health-2026]] — Le mode de raisonnement a élevé l'accord de notation LLM-humain d'un kappa pondéré de 0.269 à 0.718
 - [[machine-human-marking-agreement-institutions-2026]] — L'accord machine-humain dans la notation des travaux de premier cycle est propre au modèle, à l'invite et à l'institution
+- [[wargaming-adjudication-ai-judged-grading-2026]] — Le doigt sur la balance : mobiliser les pratiques traditionnelles d'arbitrage des jeux de guerre pour améliorer l'évaluation et la notation jugées par l'IA (Epstein 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs sollicités par invite affrontent des sondes dont la réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)

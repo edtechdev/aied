@@ -1,7 +1,7 @@
 ---
 title: Normes sociales de l'usage de l'IA
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:16:47-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,13 +13,17 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-10-07T08:00:00-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,8 @@ Le côté enseignant de la même émotion est mesurable. [[vassallo-ai-guilt-com
 
 Une norme qui fait se sentir coupables des gens qui n'ont pas agi accomplit son travail par l'anticipation. C'est un véritable mécanisme régulateur, et il est invisible à tout audit de politique qui ne regarde que ce que font le corps professoral et les étudiants.
 
+Une enquête auprès de 409 étudiants de premier cycle inscrit le même mécanisme dans une régression : la divulgation perçue chez les pairs et le confort avec les enseignants étaient les prédicteurs les plus forts de la divulgation d'un étudiant lui-même, devant le désengagement moral ([[qu-wang-disclose-or-not-genai-2026|Qu et Wang (2026)]]). Ce qu'un étudiant tient pour la norme est ce qu'il croit que ses pairs font, c'est-à-dire précisément l'impression que l'étude de perception ci-dessus montre systématiquement grossière. La divulgation, selon ces données, est une réponse à une norme crue plutôt qu'à une règle écrite ou à un standard éthique personnel.
+
 ## Le livre de règles local : disciplines et classes
 
 Les normes sont locales, et les preuves sur la mesure de ce caractère local sont exceptionnellement concrètes. [[chirikov-regulate-ai-syllabi-2026|Une analyse de 31 000 syllabus de cours]] a constaté que les devoirs intégrant l'IA allaient de 27% en gestion à 5% en humanités. L'étendue n'est pas une lacune de conformité aux politiques ; elle traduit des jugements disciplinaires différents sur ce qu'est le travail, sur ce que vaut la pratique, et sur les compétences qu'un titre est censé certifier. La recommandation des auteurs en découle : accorder aux enseignants une autonomie au sein de [[governance|normes disciplinaires]] plutôt que d'émettre des injonctions uniformes, parce que l'injonction devrait être rédigée pour une moyenne qui n'existe pas.
@@ -92,6 +98,18 @@ Le coût de cette substitution apparaît là où le corps professoral et les ét
 - **Ne pas se tourner vers le contrôle pour établir des normes.** La surveillance a accru l'anxiété sans changer la tentation de tricher dans la plus forte étude disponible, et elle concentre ce coût sur les étudiants les moins avantagés.
 - **Demander qui manque à la norme.** La littérature d'éthique n'assigne aux étudiants presque aucune obligation et tient peu compte de leur jugement, tandis que la classe leur en assigne beaucoup et l'applique socialement. Combler cet écart est une question de curriculum, non une question de conformité.
 
+## Idées fausses courantes
+
+**« Les étudiants savent à quel point leurs pairs utilisent l'IA. »** Ils surestiment leur propre connaissance en la matière. La corrélation médiane entre les estimations d'un percepteur et son propre profil d'usage auto-déclaré était de **r = .73 aux deux vagues**, tandis que la précision du rang pour le *type* d'usage de l'IA n'était que de **r = .34**. Les étudiants peuvent dire à peu près combien, et ne peuvent pas dire quel type — ce qui signifie que les normes se forment autour d'une impression systématiquement grossière.
+
+**« Publier une politique établit la norme. »** Le livre de règles local s'écrit dans la pratique, non dans le texte d'une politique, et les domaines divergent nettement : les devoirs intégrant l'IA apparaissaient dans **27 % des programmes d'administration des affaires et 5 % des programmes de sciences humaines** sur **31 000 cours**. La norme opératoire d'un étudiant est celle de sa discipline, et un document institutionnel ne la supplante pas.
+
+**« La honte et la culpabilité découragent l'usage de l'IA. »** Elles régulent la visibilité plutôt que l'usage : [[shame-guilt-ai-regulation-computing-education|la honte et la culpabilité régulent la visibilité]], produisant dissimulation et divulgation sélective plutôt qu'un changement de comportement. L'effet observable d'une norme fondée sur la honte est moins de déclarations honnêtes, non moins d'usage.
+
+**« La surveillance trancherait la norme en rendant l'usage visible. »** Rendre un comportement visible ne résout pas ce que la norme devrait être ; cela change ce que les gens acceptent de divulguer. Le schéma mesuré est déjà celui d'une divulgation sélective, si bien qu'un régime de surveillance appliqué à cela mesure la dissimulation plutôt que la conduite.
+
+**« Les normes sont informelles, donc hors de portée des institutions. »** Elles sont appliquées localement et modifiables localement, ce qui les rend plus traitables qu'une politique : la pratique explicite d'une équipe de cours est un levier précisément parce que c'est là que la règle opératoire se fixe.
+
 ## Concepts liés
 
 - [[academic-integrity]] — le livre de règles formel aux côtés duquel ces normes se développent
@@ -124,3 +142,4 @@ Le coût de cette substitution apparaît là où le corps professoral et les ét
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Tricher ou rivaliser ? L'IA dans la formation en marketing
 - [[chen-zou-genai-group-assessment-agency-2026]] — L'agentivité dans l'évaluation de groupe appuyée par l'IA générative
 - [[reddit-genai-education-discourse-analysis-2026]] — Analyse du discours sur Reddit : le contact entre corps professoral et étudiants se concentre sur les différends de détection et d'application (Yüce et coll. 2026)
+- [[qu-wang-disclose-or-not-genai-2026]] — 409 étudiants de premier cycle : la divulgation perçue chez les pairs et le confort avec l'enseignant prédisaient la divulgation devant le désengagement moral (Qu & Wang 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Devrait-on utiliser des détecteurs d'IA ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-01T10:11:41-05:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -25,6 +25,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,8 @@ Il y a un problème de données de référence sous tout cela. Les détecteurs s
 
 Le test contrôlé le plus solide de la base de connaissances a examiné 642 résumés publiés en anglais, dans quatre domaines et sur deux périodes. À un seuil de 0.50, deux détecteurs commerciaux ont signalé une révision légère par IA conforme aux consignes dans 38-80% des cas, signalé des originaux 2023-25 non modifiés dans 9-15% des cas (hors [[stem-education|STEM]] bien au-dessus du STEM, p<0.001) et, une fois le texte passé par un service d'humanisation, attrapé moins de 4% des réécritures étiquetées IA, soit un taux de faux négatifs supérieur à 96%. Les auteurs parlent d'un cercle vicieux de l'intégrité : les étudiants qui déclarent et révisent légèrement sont ceux que l'outil attrape, et ceux qui cherchent à l'esquiver ne le sont pas. Leur recommandation est explicite : les scores de détecteurs ne devraient jamais servir de preuve autonome d'inconduite ([[karr-ai-detection-humanization-2026]]).
 
+Les revues ont cessé d'essayer de classer les outils entre eux. Une revue systématique de 90 études publiées entre 2020 et 2026 rapporte que les taux de faux positifs varient si largement selon les outils et les cadres d'évaluation qu'une comparaison quantitative directe est impossible, citant parmi les causes les biais algorithmiques et linguistiques, une compréhension contextuelle limitée, des traits linguistiques de surface et des données d'entraînement insuffisamment diversifiées ([[maghami-ai-detection-false-positives-2026|Maghami, Ho et Camilleri (2026)]]). Les remèdes qu'elle nomme sont procéduraux plutôt que techniques : une pratique de détection transparente, une relecture humaine, une littératie en IA, une politique institutionnelle claire et une voie de recours accessible.
+
 Un [[benchmark]] indépendant arrive au même point par un autre chemin. Aucun des 14 outils n'atteint 80% d'exactitude, et une simple paraphrase, une révision mineure ou un service d'humanisation divise à peu près par deux même cette performance. Aux taux de base réalistes, les faux positifs dépassent les vrais positifs ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Les taux de détection sur la génération intégrale sont pires que ne le suggèrent les taux d'erreur affichés. Dans une étude de terrain dissimulée, des chercheurs ont injecté des copies entièrement générées par IA dans un système d'[[summative-assessment|évaluation sommative]] en ligne réel, sur cinq modules de psychologie : 94% sont passées inaperçues, et le travail d'IA a en moyenne mieux noté que les vrais étudiants. La tricherie par commande avait déjà montré le même problème structurel, puisqu'elle ne laisse aucune trace fiable à trouver ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -67,6 +73,8 @@ Les taux de détection sur la génération intégrale sont pires que ne le sugg�
 L'exactitude bouge aussi avec la tâche. Quand des chercheurs ont testé si l'[[generative-ai|IA générative]] peut détecter sa propre production, les résultats étaient fiables pour la programmation et les écrits réflexifs longs, et médiocres pour les réponses courtes, où le modèle jugeait souvent son propre texte plus humain que le travail authentique d'un étudiant. De légères variations d'invite réduisaient fortement l'exactitude ([[llm-detecting-llm-generated-content-education]]). Un seuil qui tient pour un devoir échouera sur un autre, et vous ne le saurez qu'à l'appel.
 
 Il y a ensuite la péremption. Une étude de 2026 reformule la détection comme un problème d'adaptation : une [[ren-test-time-adaptation-ai-text-detection-2026|attaque par réécriture en boîte noire]] a fait tomber le détecteur commercial Pangram à une exactitude équilibrée de 63.5% et un rappel IA de 27.0%, et un détecteur entraîné sur Llama 3.3 70B Instruct n'a atteint que 55% de rappel sur des résumés issus d'un modèle plus récent. L'adaptation au moment du test remontait à 94.4% d'exactitude équilibrée et 99% de rappel sur ce même texte, ce qui est la moitié encourageante. Le même article montre ce que le correctif coûte : à mesure que l'adoption simulée des LLM s'étend, le rappel d'un détecteur supervisé fixe sur du texte humain se dégrade de 85.9% à 73.4% sur la décennie. Sa condition de péremption est énoncée sans détour : l'exactitude équilibrée ne peut pas dépasser la moitié de un plus la distance de variation totale entre les distributions humaine et IA, si bien qu'une convergence des deux déferait tout détecteur fondé sur l'apprentissage. Un score validé tient jusqu'à ce que les modèles bougent, et ils bougent tous les quelques mois ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+La comparaison dépend aussi de la tâche confiée au lecteur. Dans un plan contrôlé où 30 introductions d'articles antérieures à 2022 ont été réécrites selon cinq conditions plausibles, des évaluateurs humains en aveugle ont obtenu 19% au total, indiscernable du hasard, tandis que trois détecteurs commerciaux séparaient ces mêmes cinq conditions (p < 0.001 pour tous) mais ne s'accordaient que faiblement entre eux sur le score absolu, ICC 0.57 à 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Cette tâche demandait aux évaluateurs de situer un texte parmi cinq conditions de révision plutôt que de porter un jugement par oui ou non sur la dissertation d'un étudiant ; elle ne renverse donc pas les études de correcteurs citées ci-dessous, mais elle ôte tout réconfort à l'idée qu'un humain dans la salle serait l'instrument fiable.
 
 Et la machine n'a jamais clairement battu un lecteur attentif. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall et Parapadakis (2025)]] rapportent une détection automatique de texte IA ou paraphrasé à environ 80%, contre 78.4% pour des réviseurs humains, et citent des preuves que du texte généré par IA est passé pour de l'écriture humaine dans jusqu'à 80% des cas. Cette marge se dissout dans la bande d'erreur que l'humain apporte déjà, et elle est trop mince pour fonder une conclusion ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

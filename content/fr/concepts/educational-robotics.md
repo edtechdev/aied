@@ -1,7 +1,7 @@
 ---
 title: "Les robots en éducation"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T10:38:02-04:00"
+updated: "2026-11-01T10:12:21-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,13 +11,17 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-21T10:45:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,12 @@ L'**interaction humain-robot (IHR)** est l'étude interdisciplinaire de la mani�
 Un thème définitoire est que les robots sont efficaces lorsqu'ils soutiennent de véritables objectifs d'apprentissage — et non comme des exercices techniques isolés. Un projecteur robotique fixé sur bureau, couplé à ChatGPT sur ordinateur portable alors que de l'aide était disponible (6.7 contre 7.3/10, p = .41), mais a conservé son score après retrait (7.0 contre 4.4/10, p = .003), soit un score de transfert à court terme supérieur de 60% — un gain dépendant de la tâche que les auteurs attribuent à la colocalisation spatiale plutôt qu'à un remplacement général ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). La valeur d'un robot dépend du contexte pédagogique : enseigner la pensée informatique ([[computational-thinking]]), soutenir les [[stem-education|STIM]], construire des compétences de [[cs-education|programmation]], motiver les apprenants ([[motivation]], [[student-engagement|engagement]]), ou soutenir l'[[social-emotional-learning|apprentissage socioémotionnel]] et l'[[equity-in-ai-education|inclusion]]. La robotique rejoint aussi l'[[project-based-learning|apprentissage par projets]], l'[[game-based-learning|apprentissage par le jeu]] et l'[[experiential-learning|apprentissage expérientiel]]. Les considérations clés de conception incluent la préservation de l'[[agency]] de l'apprenant, la construction de la [[trust|confiance]], le soutien à l'[[self-efficacy|auto-efficacité]], et l'ancrage de l'apprentissage dans l'[[embodied-learning|interaction incarnée]]. Dans l'[[language-learning|apprentissage des langues]], des [[robot-assisted-language-learning-meta-analysis-2026|données méta-analytiques]] indiquent l'efficacité de l'apprentissage incarné des langues assisté par robot.
 
 - **Les voies vers l'apprentissage de la robotique alimentée par l'IA.** [[educational-robotics-pathways-2026|Une étude qualitative]] menée auprès d'élèves de lycée dans un programme de robotique et d'IA a montré un apprentissage par la pratique réelle, la conception et l'expression créative ludique (selon une lecture constructionniste et épistémologique-pluraliste).
+
+## Idées fausses courantes
+
+- **« La robotique enseigne la pensée informatique du simple fait d'être robotique. »** Une revue systématique de **53 études** a trouvé **l'apprentissage par problèmes, la narration et l'étayage** parmi les stratégies les plus utilisées — la pédagogie portait le résultat, et c'est ce que les études faisaient réellement.
+- **« Les robots physiques surpassent systématiquement les alternatives sur écran. »** Les gains étaient **dépendants de la tâche** : un score de transfert à court terme **60% plus élevé** pour [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4.4/10, p = .003), que les auteurs attribuent à la **co-localisation spatiale plutôt qu'à un remplacement général**. L'affirmation porte sur la co-localisation dans des tâches précises, non sur la physicalité en général.
+- **« La pensée informatique à la maternelle arrive trop tôt pour être significative. »** Les données probantes examinées couvrent directement la robotique à la maternelle, ce qui signifie que cette tranche d'âge est étudiée plutôt que présumée inadaptée.
 
 ## Concepts liés
 

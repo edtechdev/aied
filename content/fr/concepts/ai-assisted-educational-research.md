@@ -1,7 +1,7 @@
 ---
 title: "Recherche éducative assistée par IA"
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -13,14 +13,19 @@ level: [higher ed]
 page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
+connected_resources: [learning-design-wiki]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 
 
@@ -154,6 +159,12 @@ Ce qui peut être transposé est une disposition plutôt qu'un résultat : nomme
 - **Une lacune de reporting, et non un audit de la pratique.** PRISMA-LLM lit le silence au niveau de l'article ; un flux de travail sans évaluation dans son article peut encore être validé ailleurs.
 - **La recherche des praticiens est sous-représentée.** Seule une poignée de pages ici mentionnent la recherche sur l'enseignement et l'apprentissage ou la recherche en classe, si bien que le corpus ne peut fonder des affirmations sur les enseignants étudiant leur propre pratique.
 - **Une cible mouvante.** Les outils s'améliorent plus vite que la publication, si bien qu'un constat portant sur un flux de travail de 2025 décrit une génération de systèmes qui peuvent ne plus exister sous cette forme.
+
+## Idées fausses courantes
+
+- **« Les articles sur les LLM et sur les logiciels sont aussi bien évalués. »** Depuis 2023, **38,0 % des articles sur les logiciels et les produits ne rapportaient aucune évaluation, contre 9,3 % des articles sur les LLM**. L'écart est important et il va à l'encontre de l'hypothèse selon laquelle les outils plus récents seraient testés moins rigoureusement.
+- **« Stratifier par tâche corrige l'écart. »** **L'écart survit à la stratification** : dans le tri et la sélection, les articles sur les logiciels totalisaient en moyenne **3,2 items d'évaluation substantielle, avec 39,3 % n'en rapportant aucun**, tandis que les articles sur les LLM en totalisaient davantage. La différence est une propriété systématique de la classe d'articles, non de la tâche.
+- **« Une évaluation positive signifie que le flux de travail a atteint la barre visée. »** Parmi **118 articles sur les LLM à évaluation uniquement positive, 52 % rapportaient encore au moins une réserve indiquant que le flux de travail restait sous la barre exigée par son rôle**. La moitié des évaluations positives contenaient leur propre réfutation.
 
 ## Citation
 

@@ -1,7 +1,7 @@
 ---
 title: "Jugement évaluatif"
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-11-01T10:16:44-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-10-24T08:06:00-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 ## Introduction
 
 Les évaluations qui demandent aux étudiants de produire un travail présupposent qu'ils savent distinguer un bon travail d'un mauvais, d'abord chez les autres et finalement dans le leur. Cette présupposition n'est plus fiable : lorsque l'[[generative-ai|IA générative]] peut produire à la demande des analyses, du code et des textes compétents, la capacité de *produire* un produit est un faible signal d'apprentissage, tandis que la capacité de *juger* un produit en est un signal fort. Le jugement évaluatif nomme cette capacité, et les travaux d'évaluation de la base de connaissances n'ont de cesse d'y aboutir lorsqu'ils demandent ce qui reste évaluable et digne de l'être. Il se situe à la rencontre de la [[feedback|rétroaction]], de l'[[formative-assessment|évaluation formative]] et de l'[[self-regulated-learning|apprentissage autorégulé]], parce que le jugement se développe en comparant un travail à des références et en agissant sur l'écart constaté, et parce que c'est lui qui rend réellement possible un [[critical-thinking|engagement]] [[student-engagement|critique]] avec les productions de l'IA, plutôt que de le laisser à l'état d'aspiration.
+
+[[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu et Abdi (2026)]] soutiennent, à partir d'une revue de cadrage de douze études, que les scores d'écriture produits par l'IA reproduisent un construit étroit : ils suivent des traits de surface vérifiables et sous-pondèrent l'organisation, la cohérence et l'argumentation, qui sont les dimensions sur lesquelles se joue un jugement de la qualité d'écriture.
 
 ## Ce qu'est le construit
 
@@ -59,6 +65,7 @@ Quatre arguments convergent.
 Une couche supplémentaire concerne la *source* d'un jugement, et pas seulement son contenu. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] donne à cette couche un vocabulaire plus précis : ses 13 étudiants saoudiens en informatique ont rendu deux jugements indépendants au sein d'un même événement d'évaluation — si la rétroaction était utile, et si sa source avait l'autorité pour noter. Tous ont accepté la rétroaction fondée sur la grille de ChatGPT comme claire et précise, tout en réservant dans leur immense majorité la note à l'enseignant (« Je suis d'accord avec elle, mais à une condition : que le docteur vérifie la rétroaction »), ce qui suggère que le jugement évaluatif, dans l'évaluation médiée par l'IA, doit désormais inclure le raisonnement sur l'autorité évaluative elle-même, et pas seulement sur la qualité de la rétroaction reçue.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] donne au construit sa place la plus forte dans la littérature sur l'intégrité. Étendant le cadrage post-plagiat d'Eaton (2023) d'une orientation [[ethics|éthique]] à la conception de l'évaluation, il soutient que les modèles d'[[academic-integrity|intégrité]] fondés sur la détection et la vérification sont mal ajustés à des travaux où le jugement humain et la production machine s'entremêlent, et reconçoit l'intégrité comme une pratique pédagogique mise en œuvre par le jugement évaluatif — la capacité de l'apprenant à peser les options, à justifier des choix académiques et à assumer ses responsabilités face à l'incertitude épistémique. Ses quatre pratiques (pistes de décision annotées, vérification et reddition de comptes, soutenance orale et responsabilité dialogique, différences entre brouillons avec historique des versions) rendent ce jugement visible comme preuve, plutôt que de l'inférer de l'artefact, et il distingue le jugement des construits auxquels on le réduit souvent : la pratique réflexive considère sa propre pensée rétrospectivement, la [[metacognition]] est la conscience et la régulation des processus cognitifs, tandis que le jugement évalue des options au regard de références et en assume les conséquences dans l'incertitude. Il nomme aussi le mode d'échec que cette page suit — exiger un raisonnement documenté risque « le remplacement d'un régime de conformité par un autre », puisque le jugement comme preuve « demeure relationnel et situé plutôt que mécaniquement vérifiable ».
+- **Le jugement se cultive par des contraintes composées, et non en les supprimant.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] soutient que des contraintes génératives — un court brouillon visuel avant un artefact final, ou une limite de trois extraits d'entretien — rythment le travail cognitif et rendent le jugement visible, parce que les contraintes créent les moments où l'appréciation se pratique.
 
 ## Données probantes : comment le jugement se développe, et ce que l'IA lui fait
 
@@ -98,6 +105,12 @@ Le déplacement a une version du côté de l'enseignant, et c'est elle qui a ret
 
 - **Rendez le jugement conservé visible par des sondages de la dette de compréhension.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] définit quatre obligations transversales — expliquer, vérifier, modifier et rendre compte — qui rendent visible la compétence conservée à chaque niveau d'intégration de l'IA, et propose des demandes de modification différées, des revues de code, des tests conçus indépendamment, la localisation de défauts et le débogage en direct comme autant de sondages comparant ce qui a été produit à ce qui peut être démontré ultérieurement. Sous la capacité [[agentic-ai|agentique]], la cible de l'évaluation se déplace vers la supervision — contrats de tâche, frontières d'autorisation, bacs à sable, harnais d'évaluation, revue des diffs, retour en arrière et responsabilité humaine — déplaçant l'évaluation de l'auteur visible vers le jugement visible.
 
+## Idées fausses courantes
+
+- **« L'erreur de l'évaluateur est un bruit aléatoire. »** **Le jugement des évaluateurs porte une direction mesurable qui lui est propre** : cinq responsables des admissions départageant **50 dissertations humaines de 50 dissertations générées par IA** ont atteint une **AUC de 0,70**, c'est-à-dire qu'ils ne distinguaient que faiblement les sources — et comme personne n'avait filtré les travaux soumis, ce **jugement sans assistance constituait l'intégralité du mécanisme d'application**, chaque dissertation signalée portant **1,5 point de pourcentage de probabilité d'admission en moins**. Un signal faible est devenu une pénalité réelle.
+- **« L'évaluation par les pairs et l'évaluation par IA sont substituables. »** Le modèle PAIRR [[pairr-ai-peer-review-2025|(Sperber et al., 2025)]] **combine l'évaluation par les pairs et l'évaluation par l'IA** pour structurer la calibration. Les combiner est la conception, ce qui implique que ni l'une ni l'autre ne la fournit seule.
+- **« La qualité du jugement est une propriété du juge. »** Le résultat sur les admissions situe le problème dans l'agencement — un jugement non validé appliqué à des conséquences sans étape de filtrage — plutôt que dans la capacité des individus.
+
 ## Concepts liés
 
 - [[pedagogical-patterns]] — L'étape d'appréciation que les étudiants exercent sur les sorties de l'IA dans ces séquences
@@ -118,6 +131,7 @@ Le déplacement a une version du côté de l'enseignant, et c'est elle qui a ret
 - [[higher-ed]]
 
 ## Articles liés
+- [[elkington-human-centred-assessment-value-2026]] — L'évaluation centrée sur l'humain, les agencements et les contraintes génératives (Elkington 2026)
 
 - [[wu-lam-genai-writing-assessment-professors-2026]] — Pourquoi les professeurs d'écriture refusent d'externaliser la notation : c'est ainsi qu'ils apprennent à connaître leurs étudiants
 - [[chatgpt-peer-feedback-evaluative-judgement-2025]] — ChatGPT contre la rétroaction entre pairs comme terrains d'entraînement de différentes dimensions du jugement évaluatif

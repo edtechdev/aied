@@ -1,16 +1,16 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-10-10T04:00:00-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: resource
-summary: "La page de ressources publique des Faculty Professional Development Services du Hillsborough College, qui réunit ses ressources sur l'IA, l'enseignement et l'accessibilité en un seul endroit."
+summary: "La page de ressources publique des Faculty Professional Development Services du Hillsborough College, qui réunit ses coachs de conception assistés par IA, ses cours Canvas et ses guides d'accessibilité en un seul endroit."
 url: https://fpdshc.github.io/apps/
 source_code: https://github.com/fpdshc/apps
 author: "Faculty Professional Development Services at Hillsborough College"
 resource_type: [collection of tools]
 access: [free]
 license: "MIT"
-last_verified: "2026-09-26"
+last_verified: "2026-10-24"
 foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
@@ -20,7 +20,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [edugems, gemini-notebook, liascript]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-10-24T11:51:12-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,29 +28,28 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-**FPDS Apps and Resources** est le pivot public des outils pédagogiques construits et pilotés par les Faculty Professional Development Services du Hillsborough College. Une seule page les rassemble sous trois intitulés — IA, enseignement et accessibilité — de sorte qu'un enseignant peut trouver les propres applications et cours du bureau en même temps que les guides et assistants qu'il recommande.
+**FPDS Apps and Resources** est le pivot public des outils pédagogiques construits et pilotés par les Faculty Professional Development Services du Hillsborough College. Quinze entrées figurent sous trois intitulés — IA, accessibilité et enseignement — et chacune ouvre l'outil lui-même.
 
 ## Ce que vous pouvez en faire
 
-La section IA renvoie au *AI-Era Assignment Design Coach*, un Gem Gemini qui guide les enseignants dans la reconception de devoirs dans un monde doté d'IA ; ce même coach est aussi disponible comme projet Playlab, et une fiche de travail [[academic-integrity]] sans IA couvre la tâche avec moins de fonctionnalités. La section liste aussi un parcours à rythme libre sur les outils d'IA et les tâches d'enseignement, la *AI in Education Knowledge Base*, et un second Gem Gemini pour concevoir des modules en ligne. La section accessibilité réunit une liste de contrôle Canvas qui commence par ce avec quoi vous travaillez et se termine par une vérification humaine, un guide de l'[[universal-design-for-learning]] publié sous licence Creative Commons non commerciale, et un autre Gem Gemini qui rédige du texte alternatif pour les images. La section enseignement réunit deux cours Canvas que le bureau maintient, un kit de départ à copier dans votre propre cours et un cours de stratégies d'enseignement fondées sur des preuves avec des éléments Canvas adaptables, ainsi qu'une liste de contrôle pour l'enseignement en ligne conservée dans un document. Chaque entrée est une page fonctionnelle plutôt qu'une annonce, et les sections renvoient à du matériel que le bureau n'héberge pas.
+La section IA regroupe quatre coachs conversationnels sur Playlab : un AI Teaching Coach qui associe ce qui bloque la réussite des étudiants à une stratégie fondée sur des preuves, un AI Literacy Design Coach qui adapte l'[[ai-literacy|littératie en IA]] à un cours, un Academic Habits Coach pour les étudiants, et le AI-Era Assignment Design Coach, qui existe aussi sous forme de carnet NotebookLM et de fiche de travail sans IA et traite les devoirs comme une question d'équilibre plutôt que d'invulnérabilité à l'IA. La section porte aussi un cours Canvas de supports de littératie en IA prêts à l'emploi, un parcours à rythme libre AI Petting Zoo, un Gem Gemini pour concevoir des modules en ligne, et cette base de connaissances. L'accessibilité est menée par la propre liste de contrôle Canvas du bureau, qui demande avec quoi vous travaillez et parcourt pages, images, documents, diapositives, PDF, vidéo et liens avant un balayage à l'échelle du cours ; à côté figurent le livre Pressbooks du collège sur l'[[universal-design-for-learning|accessibilité numérique]] et un Gem Gemini qui rédige du texte alternatif. L'enseignement réunit un cours-manuel pour l'[[online-teaching-and-learning|enseignement sur Canvas]], un kit de départ à copier dans votre propre cours, un cours de stratégies fondées sur des preuves avec des éléments Canvas prêts à l'emploi, et une liste de contrôle pour l'enseignement en ligne.
 
 ## À qui cela s'adresse
 
-Le site sert le personnel de [[educational-development]] et les enseignants du Hillsborough College. Il est aussi utile aux enseignants d'ailleurs comme exemple concret d'un petit site de développement pédagogique, puisqu'il s'agit d'un ensemble de pages statiques que l'on peut copier plutôt que reconstruire.
+Les enseignants et le personnel d'[[educational-development|ingénierie pédagogique]] du Hillsborough College, ainsi que les enseignants d'ailleurs en quête d'un exemple concret d'un petit site de développement pédagogique bâti sur des pages statiques que l'on peut copier plutôt que reconstruire.
 
 ## Remarques et réserves
 
-Consulter le site n'exige aucun compte, et les cours Canvas et le document de liste de contrôle auquel il renvoie sont publics aussi. Les Gems Gemini et le carnet NotebookLM sont des services Google, et ceux-là en exigent un. Le dépôt est sous licence MIT en tant que logiciel, tandis que les guides externes auxquels il renvoie portent leurs propres licences. Le bureau maintient les pages sans calendrier de publication, si bien qu'elles changent sans préavis.
+La consultation n'exige aucun compte, et les cours Canvas et les listes de contrôle auxquelles la page renvoie sont publics. Les coachs Playlab, les Gems Gemini et les carnets sont des services tiers qui, eux, en exigent un. Les cartes sont rendues à partir de `apps.json`, si bien que la liste complète exige JavaScript et que le repli sans script nomme huit des quinze entrées ; le lien court `tinyurl.com/fpdapps` et un QR code d'en-tête l'ouvrent sur un téléphone. Le dépôt est sous licence MIT en tant que logiciel, tandis que les guides auxquels il renvoie portent leurs propres licences, dont le livre Pressbooks, sous licence Creative Commons non commerciale. Il n'y a pas de calendrier de publication, si bien que la page change sans préavis.
 
 ## Concepts liés
 
-- [[academic-integrity]]
-- [[learning-design]]
-- [[generative-ai]]
-- [[accessibility]]
-- [[educational-development]]
-- [[online-teaching-and-learning]]
+[[academic-integrity]], [[learning-design]], [[generative-ai]], [[accessibility]], [[educational-development]], [[online-teaching-and-learning]], [[ai-literacy]]

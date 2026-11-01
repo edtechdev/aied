@@ -1,20 +1,24 @@
 ---
 title: "Parties prenantes"
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:18:23-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,16 @@ L'identité est l'ancre humaine du paysage des parties prenantes : c'est ce que 
 - **Construire des compétences spécifiques aux rôles :** enseignants, étudiants, concepteurs et dirigeants ont chacun besoin d'une littératie en IA et d'un accompagnement sur mesure (voir [[ai-literacy|littératie en IA]], [[teacher-ai-competency|compétence IA des enseignants]], [[educational-development|développement pédagogique]]).
 - **Aligner les niveaux :** la recherche sur la gouvernance menée par la base de connaissances montre que l'IA réussit lorsque le leadership institutionnel, la pratique enseignante et l'expérience étudiante sont alignés plutôt que fragmentés.
 - **Prendre en compte les parents et la communauté au sens large :** les familles sont des parties prenantes de l'adoption de l'IA, dont le rôle et les préoccupations méritent une attention explicite.
+
+## Idées fausses courantes
+
+**« Les parties prenantes de l'IA en éducation partagent un intérêt pour le même résultat. »** Leurs intérêts sont fréquemment en tension directe, et la même fonctionnalité se lit différemment selon le rôle : le « soutien personnalisé » d'un étudiant peut être simultanément un « risque d'intégrité » pour un enseignant. Les processus de conception qui postulent un objectif commun résoudront cette tension par accident, au profit de qui parle le plus fort.
+
+**« Donner une voix à chaque groupe de parties prenantes résout le conflit. »** La consultation n'est pas une pondération. Le cadrage de cette page situe la question de conception dans la manière de donner à chaque préoccupation **un poids réel plutôt que de laisser la voix la plus forte l'emporter**, ce qui est un problème de procédure — qui décide, avec quelles preuves et avec quel recours — et non un problème de communication.
+
+**« L'analyse des parties prenantes est un exercice de début de projet. »** Les tensions persistent en exploitation, parce que les rôles continuent d'interpréter différemment le même système. Une couche de personnalisation côté étudiant et un tableau de bord d'intégrité côté corps professoral sont les mêmes données vues de deux positions, et le conflit revient chaque fois que l'une est ajustée.
+
+**« Une identité à travers les publics signifie qu'un seul message peut les servir tous. »** Communiquer à travers plusieurs publics exige de traduire la même décision en termes différents sans la dénaturer, ce qui est plus que réécrire un message de quatre façons.
 
 ## Concepts liés
 

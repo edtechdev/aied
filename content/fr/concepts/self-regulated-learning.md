@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage autorégulé"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-29T19:37:38-04:00"
+updated: "2026-11-01T10:18:36-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -12,7 +12,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [process-feedback]
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-10-29T19:16:33-04:00"
+source_updated: "2026-11-01T07:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -149,6 +153,8 @@ Par exemple :
 - **Le déclin d'apprentissage autorégulé est compositionnel.** Parce que les répondants pairs fournissent environ 70% de phrases codées comme autorégulation, contre 20 à 27% pour ceux qui ouvrent les fils, le langage régulatoire agrégé est passé de 49% à 36% (p < 0,001). Le taux propre à chaque rôle est resté stable : la baisse reflète donc qui écrivait, non un changement dans la manière d'écrire. L'autorégulation prédisait toujours la note (β = 2,63, p = 0,017), et les réponses des pairs modéraient cette relation (β = 1,45, p = 0,013). La pénalité de note attachée aux fils dominés par l'IA (β ≈ −1,38, p = 0,038) a ensuite disparu une fois 17 apprenants fortement autorégulés retirés (β ≈ −1,29, p = 0,454), ce que les auteurs lisent comme un coût dû à la perte de co-régulation, non à l'IA. L'étude est observationnelle, le mécanisme reste donc non démontré.
 - **L'étayage émotionnel déplace les phases de l'apprentissage autorégulé mesurées par traces, ce que l'étayage cognitif seul ne fait pas, et l'auto-déclaration le perçoit à peine.** Une expérience préenregistrée auprès de 144 lycéens a comparé un ChatGPT simple, un agent d'étayage de l'apprentissage autorégulé et une version émotionnelle qui interrogeait les émotions à trois moments et adaptait le ton et le niveau de défi selon les lignes du contrôle-valeur. Le codage des traces a révélé de forts effets de condition dans les trois phases (ε2 = 0,44 en préparation, 0,34 en performance, 0,34 en auto-réflexion). Les invites d'apprentissage autorégulé ont à elles seules porté la fixation d'objectifs et la planification au niveau de la version émotionnelle, tandis que la couche émotionnelle ajoutait davantage d'activité en phase de performance (r = 0,22) et d'auto-réflexion (r = 0,31). L'apprentissage autorégulé auto-déclaré ne séparait les conditions qu'en phase de performance ; les corrélations entre traces et auto-déclaration étaient de 0,313 dans cette phase, de 0,22 pour la préparation et de 0,04 pour l'auto-réflexion. Les auteurs lisent ces différences de traces comme une mise en œuvre co-régulée plutôt que comme une capacité de régulation indépendante ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt et Makransky, 2026]]).
 
+- **En groupe, la régulation est déclenchée par l'invite de l'IA elle-même, et la diversité des préconceptions change la manière dont cette invite atterrit.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et coll. (2026)]] ont comparé 8 groupes de futurs enseignants à préconceptions différentes et 6 groupes à préconceptions similaires travaillant avec un chatbot métacognitif à la demande et un agent vocal proactif. La fonction des invites convergeait entre les conditions à 39 invites, 18 contre 21, tandis que la structure séquentielle ne convergeait pas : les groupes divers maintenaient une évaluation positive ou neutre de la production et les groupes similaires maintenaient une évaluation négative parallèlement à un accord récurrent sur la tâche. L'inspection des données brutes a rattaché une partie de la boucle négative à l'agent vocal proactif, si bien que les auteurs la lisent comme un décalage de temporalité et de modalité plutôt qu'un rejet du soutien. Leur implication de conception est que le soutien à la régulation partagée dans les groupes déjà convergés devrait rester facultatif.
+
 ## L'apprentissage autorégulé médiatisé par les grands modèles de langue : étayage, raccourci ou partenaire ?
 
 Une grappe d'études Learning Letters (2026) converge vers une tension centrale : l'[[generative-ai|IA générative]] peut étayer, court-circuiter ou faire équipe avec l'autorégulation selon la conception et la manière dont les apprenants régulent son usage. Les données probantes désignent l'apprentissage autorégulé lui-même — non l'outil — comme la variable décisive.
@@ -257,3 +263,4 @@ C'est le soutien en jeu qui décide du médiateur qui porte l'association : sur 
 - [[borchers-srl-language-generalization-2025]] — Les grands modèles de langue généralisent la prédiction de l'apprentissage autorégulé à de nouvelles langues à l'intérieur d'un domaine, mais pas entre domaines (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — Un modèle d'apprentissage hybride fondé sur les projets utilisant l'intelligence artificielle pour améliorer l'apprentissage autorégulé des étudiants
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — Un assistant d'enseignement par IA comme premier répondant a déplacé les réponses des pairs, et avec elles la co-régulation qui amplifiait la valeur de l'autorégulation pour la note (Davis et coll. 2026)
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — La diversité des préconceptions a changé la manière dont une invite métacognitive atterrissait : mêmes fonctions d'invite, évaluation durable opposée de la production de l'IA (Wang et coll. 2026)

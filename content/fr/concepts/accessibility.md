@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibilité
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:10:32-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -58,6 +63,7 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 **Politiques publiques et aménagements pour les élèves handicapés.** **[[shin-ai-policies-sld-2026|Shin et al.]]** analysent des documents américains de politique publique relatifs à l'IA pour mettre au jour un vide d'orientation concernant les élèves présentant des troubles spécifiques de l'apprentissage, et proposent des aménagements et des recommandations de [[educational-policy-ai|politique publique]] fondés sur l'[[assistive-technology|Assistive Technology Act]] et sur l'IDEA. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** réalisent une méta-analyse de 29 études portant sur des interventions fondées sur l'IA auprès d'élèves handicapés, et constatent un effet positif moyen sur les [[learning-gains|résultats d'apprentissage]] (g = 0.588) — tout en soutenant que l'IA doit faire davantage que garantir l'accessibilité : elle doit permettre une participation [[agency|agente]].
 
 **Interdictions excessivement larges de l'IA et transcription assistive.** **[[wright-transcription-not-generation-2026|Wright (2026)]]** soutient que les interdictions générales de « l'usage de l'IA » sont excessivement inclusives, parce qu'elles ne distinguent pas la transcription de la parole en texte et l'OCR de la rédaction générative : les technologies de reconnaissance convertissent le format d'un contenu que l'élève a déjà produit, au lieu de produire un contenu nouveau, alors qu'une politique rédigée autour de l'identité de la plateforme englobe les deux de la même manière. Les élèves présentant des troubles affectant le contrôle de la motricité fine, la lisibilité de l'écriture manuscrite ou la précision de la frappe — notamment les troubles du spectre de l'autisme, la dyspraxie, l'infirmité motrice cérébrale et les troubles musculosquelettiques dus à des mouvements répétitifs — ont compté sur des outils autonomes de dictée vocale et d'OCR, et plusieurs signalements laissent penser que des produits autonomes de dictée vocale ont été abandonnés ou dégradés, laissant à la transcription assistée par l'IA le soin de combler ce manque fonctionnel. Traiter cette substitution comme une faute soulève des inquiétudes d'équité au regard de l'obligation d'aménagements raisonnables prévue par l'Equality Act 2010 au Royaume-Uni, de l'obligation préventive du Public Sector Equality Duty, de l'Americans with Disabilities Act aux États-Unis et du Disability Discrimination Act 1992 en Australie, bien que l'article n'affirme pas que cette qualification ait été mise à l'épreuve devant une juridiction. Il relève que l'intersection du handicap, des technologies d'assistance et des politiques de lutte contre les mauvais usages de l'IA reste insuffisamment explorée, que l'ampleur de ce déplacement n'est pas mesurée, et que cette même imprécision produit un risque différentiel de faux positifs, puisque les détecteurs interprètent le texte à faible perplexité des rédacteurs non natifs de l'anglais comme une production machinique. L'exposition juridique que crée cette inclusion excessive est cartographiée sur [[legal-issues-and-risks|la page Questions juridiques et risques]].
+
 **La résistance à la machine a un coût en lisibilité.** Les superpositions de bandes ont le plus dégradé l'extraction (+35,9 % d'erreur sur les caractères, +38,3 % d'erreur sur les mots), mais quatre experts en typographie et en design ont jugé les bandes verticales lisibles, tandis que les bandes diagonales déformaient les lettres et étaient jugées illisibles, et la variation extrême d'opacité n'aidait qu'à des intensités qui nuisaient aussi à la lisibilité humaine ([[airri-machine-resistant-reading-interface-2026|Salaun et al. (2026)]]).
 
 
@@ -76,6 +82,13 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 - **Le déploiement de l'IA devance la politique d'accessibilité de l'IA au niveau institutionnel.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] a codé les 100 universités classées au Times Higher Education 2026 et a constaté que 0% d'entre elles publient une politique d'accessibilité de l'IA autonome, tandis que 93% déploient des services de campus alimentés par l'IA (chatbots pour les inscriptions, le logement et l'informatique). Une lecture bienveillante voudrait que les obligations d'accessibilité figurent au sein des politiques générales de services aux personnes handicapées, mais, telles que mesurées, les exigences applicables aux outils d'IA n'apparaissent nulle part dans les archives institutionnelles publiques. Une courte déclaration institutionnelle indiquant que les outils d'IA employés dans l'enseignement et l'administration doivent être accessibles aux étudiants handicapés devancerait l'ensemble du champ mesuré.
 
 - **Transcription mathématiquement accessible de vidéos de [[physics-education|physique]] (2026) :** un flux de travail fondé sur l'IA, utilisant Gemini (audio et échantillonnage vidéo à 1 image par seconde) et LuaLaTeX, compile des vidéos pédagogiques de physique en PDF mathématiquement accessibles aux formats PDF/UA-2 et ISO 32005, qui passent régulièrement les contrôles d'accessibilité — une voie concrète et gratuite pour rendre lisibles par lecteur d'écran des contenus vidéo très riches en équations à destination des étudiants aveugles et malvoyants ([[gemini-lualatex-physics-video-transcription-2026]]).
+
+## Idées fausses courantes
+
+- **« Une fonctionnalité d'accessibilité qui a l'air moins bonne est moins bonne. »** Les superpositions de Stripe **dégradaient le plus l'extraction (+35,9 % d'erreurs de caractères, +38,3 % d'erreurs de mots)**, alors que **quatre experts en typographie et en design jugeaient les rayures verticales lisibles**, tandis que les motifs diagonaux échouaient. La lisibilité machine et la lisibilité humaine sont des mesures distinctes, et optimiser l'une peut nuire à l'autre. Les affirmations d'accessibilité doivent préciser à quel lecteur elles s'adressent.
+- **« Accessibilité signifie aménagement. »** Une revue de cadrage de **40 études** sur les technologies d'assistance numériques pour les étudiants neurodivergents a trouvé que **28 faisaient d'un diagnostic formel une condition de participation**. C'est un modèle conditionné au diagnostic, qui exclut tout apprenant ayant des besoins sans étiquette — l'inverse de la conception universelle.
+- **« Des effets moyens tranchent la question. »** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]] méta-analysent **29 études** et trouvent un effet positif moyen, réel et qui ne dit rien sur quel outil pour quel besoin. La moyenne d'interventions hétérogènes n'est pas une recommandation.
+- **« La rapidité et l'immédiateté sont des commodités. »** Dans une étude de cas qualitative portant sur **21 étudiants de premier cycle malvoyants** de trois universités palestiniennes, les apprenants ont présenté l'immédiateté comme une **exigence d'accessibilité fondamentale plutôt qu'une commodité**. Ce qui ressemble de l'extérieur à un agrément est une condition préalable à la participation.
 
 ## Concepts liés
 - [[differential-effects-across-learner-groups]]

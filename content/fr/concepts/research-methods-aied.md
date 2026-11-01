@@ -1,7 +1,7 @@
 ---
 title: "Les méthodes de recherche en AIED"
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-10T03:05:31-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-10-05T10:25:44-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -184,6 +188,20 @@ Un volet méthodologique distinct — la [[usability-research|recherche d'utilis
 
 Dans la pratique, la recherche sur l'IA en éducation tombe rarement proprement dans une seule tradition. Les données probantes les plus solides triangulent : une évaluation computationnelle ou d'utilisabilité établit qu'un système fonctionne, une expérience établit qu'il cause l'apprentissage, les instruments quantitatifs mesurent les construits, et le travail qualitatif révèle les mécanismes et les significations — répondant ensemble à la fois à *si* un outil aide l'apprentissage et à *comment et pourquoi*.
 
+[[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] ajoute une veine bibliométrique distincte de ces quatre traditions : cartographier 407 enregistrements par réseaux de co-mots et de co-autorat pour retracer le développement conceptuel d'un champ. L'auteur précise que la lecture SWOT construite par-dessus est un dispositif interprétatif plutôt qu'une technique analytique indépendante, ce qui marque la frontière entre synthèse et analyse dans cette tradition.
+
+- **« Une statistique est fiable dès qu'elle est calculée. »** Le banc d'essai vérifie d'abord le contrôle. Chaque sonde et chaque verdict, à l'exception de six ensembles de statistiques nommés, ont été passés sur des correcteurs simulés avec un effet implanté et sans effet, et une mesure dont le contrôle n'a pas retrouvé l'effet implanté a été rapportée comme non mesurée plutôt que comme un résultat. Ses rapports sont générés à partir de leur propre markdown et de leur code, si bien que chaque nombre imprimé renvoie au fichier et au champ dont il provient et est recalculé à la compilation. [[porcaro-ai-grading-benchmark-2026|Un verdict est une décision de conception qui peut être testée]] avant qu'un résultat réel ne soit lu.
+
+## Idées fausses courantes
+
+**« Une exactitude élevée sur un référentiel démontre l'efficacité pédagogique. »** Non, et cet écart constitue le problème de mesure central du champ : un système peut obtenir une exactitude élevée sans produire aucun apprentissage, car l'exactitude sur un référentiel mesure la performance sur la tâche dans les conditions fixées par le référentiel. L'efficacité pédagogique exige un résultat d'apprenant dans des conditions que la technologie ne contrôle pas.
+
+**« Une tradition de recherche est méthodologiquement supérieure. »** Les traditions échangent par construction une limite contre une autre. La recherche par la conception itère sur une intervention réelle mais ne peut attribuer les gains à un mécanisme précis, tandis qu'un [[rct|ECR]] isole des causes mais se déroule dans des conditions artificielles. Choisir entre elles, c'est choisir quelle affirmation vous pouvez faire, non quelle méthode est meilleure.
+
+**« Une règle de mesure indulgente est un choix méthodologique mineur. »** Elle change le résultat. Créditer toute complétion prédisait la performance ultérieure sans aide **à peine au-dessus d'une constante de difficulté de compétence (AUC regroupée 0.604 contre 0.595)** tout en déclarant **93.9% des paires étudiant–compétence maîtrisées contre 72.8%** sous une règle stricte. La règle produisait un écart de 21 points sur qui était déclaré prêt, pour presque aucune amélioration prédictive en retour.
+
+**« La signification statistique tranche la question de l'efficacité d'une intervention. »** Elle tranche la question de savoir si un effet était détectable. Savoir s'il s'agissait d'un effet d'*apprentissage* dépend de la mesure du résultat, de la comparaison et des conditions dans lesquelles elle a été prise — c'est pourquoi les choix de conception et de rapport exposés dans les sections de cette page pèsent autant que l'analyse.
+
 ## Concepts liés
 
 - [[interpreting-and-applying-aied-research]]
@@ -232,3 +250,4 @@ Dans la pratique, la recherche sur l'IA en éducation tombe rarement proprement 
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Méta-méta-analyse de l'effet de l'IA sur l'apprentissage
 - [[oneill-presumed-effective-meta-analysis-2026]] — Présumé efficace : audit d'une méta-analyse en AIED défectueuse
 - [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : une vérification structurelle des données éducatives synthétiques
+- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : des sondes dont la bonne réponse est connue, des contrôles à effet implanté sur des correcteurs simulés, et 22 modèles sollicités (Porcaro 2026)

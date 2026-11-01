@@ -1,7 +1,7 @@
 ---
 title: "Agent pédagogique"
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-24T10:55:00-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,13 +11,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-10-24T06:24:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,8 @@ ai_assist:
 ## Introduction
 
 Un agent pédagogique est un composant d'IA interactif au sein d'un système d'apprentissage qui engage les apprenants par le dialogue, des questions ou des invites pour soutenir les processus cognitifs et [[metacognition|métacognitifs]]. À la différence des [[visualization|tableaux de bord]] passifs ou de la rétroaction statique, les agents pédagogiques emploient des stratégies de tutorat fondées sur les preuves — comme solliciter l'auto-[[assessment|évaluation]] de l'apprenant avant de fournir une [[feedback|rétroaction]], ou [[scaffolding|étayer]] la [[problem-solving|résolution de problèmes]] par un dialogue socratique. Le parapluie couvre désormais tout, d'un [[intelligent-tutoring|tuteur intelligent]] conversationnel unique à des flottes d'[[agentic-ai|agents]] spécialisés par rôle qui font cours, mentorisent, animent la collaboration et orchestrent même la génération de cours, le tout ancré dans des décennies de [[research-methods-aied|recherche]] sur les systèmes de tutorat intelligent.
+
+- **Un agent dont le rôle est la régulation plutôt que l'explication.** Chen et al. (2026) ont construit SSRLAgent pour diagnostiquer l'état de régulation partagée d'un groupe et relancer en conséquence, en maintenant constant un agent de soutien au contenu dans les deux conditions ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). Comme les deux bras disposaient d'un agent et d'une plateforme structurée, les gains s'attachent à l'adaptativité des relances de régulation plutôt qu'à la présence d'un agent conversationnel.
 
 ## Comment les agents pédagogiques sont étudiés dans la base de connaissances
 
@@ -67,6 +73,7 @@ Un usage complémentaire des agents fondés sur les rôles cible la pratique de 
 Concevez pour l'autonomie de l'apprenant, et non pour la commodité du modèle. Privilégiez les garde-fous propres au tutorat — [[scaffolding|étayage]], indices, [[socratic-method|questionnement socratique]], ciblage des [[misconceptions|idées fausses]] — plutôt que la génération brute de réponses, puisque la résolution et l'enseignement divergent. Distribuez le soutien selon le rôle de l'utilisateur (parent contre enfant, pair contre pair) plutôt que par une interface générique unique, et traitez la collaboration comme une cible valide pour l'étayage. Ne présumez pas que les étudiants s'approprieront l'étayage ; évaluez l'appropriation dans des contextes réels. Intégrez une [[human-in-the-loop-ai|supervision humaine]] à la rédaction — comme le fait [[ai-tutor-authoring-promptdecipher|PromptDecipher]] en faisant du contrôle qualité par l'enseignant des réponses de l'agent une activité de premier ordre — et choisissez des dorsales moins coûteuses là où la qualité tient. Rapportez séparément les scores d'enseignement et de résolution, et validez le contenu généré avec les utilisateurs plutôt que de présumer que la génération équivaut à l'utilité.
 
 La préférence de l'apprenant est un mauvais indicateur indirect de la qualité de l'étayage : des étudiants en modélisation mathématique assistée par l'IA obtenaient les meilleurs résultats avec les rôles de Pair et d'Assistant enseignant, tout en jugeant les rôles plus directifs de Tuteur et d'Excellent étudiant les plus élevés sur l'utilité et le sentiment d'efficacité personnelle ([[preferred-scaffolding-ai-mathematical-modeling|Zhu, Yang et Yang (2026)]]).
+
 Une revue de 46 études sur les agents d'IA dans l'apprentissage collaboratif assisté par ordinateur distingue l'étayage cognitif, l'animation sociale et l'orchestration pédagogique, et constate que les gains cognitifs sont cohérents tandis que les résultats comportementaux, sociaux et émotionnels dépendent du contexte — si bien que la fonction de l'agent devrait être choisie en fonction du résultat qu'elle vise à produire ([[ba-ai-agents-cscl-review-2026|Ba et al. (2026)]]).
 
 ## Connexions aux concepts liés
@@ -76,6 +83,12 @@ Les agents pédagogiques se situent à l'intersection de l'[[intelligent-tutorin
 De manière cruciale, les agents pédagogiques sont jugés sur leurs [[learning-gains|gains d'apprentissage]], et non sur la fluidité de leurs réponses. Les preuves de la base de connaissances sont que les agents produisent des gains durables lorsqu'ils sont conçus comme des coachs propres au tutorat, dotés de garde-fous — [[stanford-evidence-base-ai-k12-2026|l'IA spécifique au tutorat surpasse systématiquement les agents conversationnels généralistes]] — et peuvent nuire à l'apprentissage lorsqu'ils se substituent à l'effort de l'apprenant ([[generative-ai-guardrails-harm-learning|l'ECR sur les garde-fous]], [[jost-llm-programming-education-learning-outcomes|la dépendance aux grands modèles de langue et les notes]]). Mesurer les [[learning-gains|gains d'apprentissage]] d'un agent exige donc des mesures de résultats sans assistance et transférables, et non la performance au sein de l'outil.
 
 Une meilleure rétroaction n'est pas la même chose qu'un meilleur apprentissage : personnaliser un agent avec des bases de connaissances et un flux de travail a fait monter l'exactitude et la spécificité de la rétroaction mais a laissé inchangés les comportements autorégulateurs, les expériences d'apprentissage et les résultats, et son avantage de gains n'est apparu que sous une rétroaction directive ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
+
+## Idées fausses courantes
+
+- **« L'intention de l'auteur détermine ce que fait un agent pédagogique. »** **L'intention de l'auteur ne garantit pas la pédagogie mise en acte.** Lorsque **27 enseignants du collège** ont configuré un outil de rédaction de chatbot destiné aux enseignants, l'évaluation de 108 critères au niveau des agents a montré que le comportement effectif divergeait de l'intention des enseignants. L'outil a médiatisé la pédagogie.
+- **« Un agent pédagogique qui anime une discussion est un rôle résolu. »** [[ethics-training-agents-group-ethics-discussion-2026|Les agents de formation à l'éthique (Seo et al., 2026)]] montrent ce qui se produit lorsqu'on demande à un agent d'**animer plutôt que** d'instruire — une exigence qualitativement différente de celle de répondre à des questions, et que la littérature tient pour non résolue.
+- **« Les données probantes sur l'enseignement assisté par ordinateur sont minces. »** Une synthèse (**2025, 34 revues**) quantifie l'utilisation de l'EAC dans le soutien à l'enseignement et à l'apprentissage (**97,1 % des revues**), le soutien psychologique et motivationnel (**91,2 %**) et le soutien **métacognitif**. L'étendue des applications recensées est considérable, ce qui fait de l'écart un problème de qualité effective plutôt que de couverture.
 
 ## Concepts liés
 

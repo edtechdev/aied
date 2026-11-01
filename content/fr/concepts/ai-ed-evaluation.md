@@ -1,7 +1,7 @@
 ---
 title: "Évaluation de l'IA en éducation"
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-24T10:39:20-04:00"
+updated: "2026-11-01T10:17:46-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,9 +20,13 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
 ---
 
-*Traduction automatique de la page anglaise, non relue par un locuteur natif.*
+*Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **L'évaluation de l'IA en éducation (AI-ed evaluation)** — l'ensemble des méthodes, des référentiels et des critères utilisés pour évaluer si les outils d'[[ai-education|IA en éducation]] (tuteurs fondés sur les [[llm]], [[automated-assessment|correcteurs automatisés]], systèmes de rétroaction, agents) fonctionnent réellement — pas seulement au regard de la précision affichée, mais de la fiabilité, de la qualité [[pedagogy|pédagogique]], de la validité et de l'impact réel sur l'apprentissage. Un thème récurrent de la recherche de la base de connaissances est que l'évaluation doit être spécifique au domaine, sensible à la fiabilité, et ancrée dans le jugement humain et les résultats éducatifs plutôt que dans des chiffres de précision agrégés uniques.
 
@@ -114,6 +118,13 @@ Des référentiels conditionnés au contexte sont nécessaires : [[zhang-tutormo
 - **Une cartographie bibliométrique peut révéler ce qu'une culture d'évaluation récompense.** Sur 1,403 publications en éducation médicale, les travaux les plus cités mesuraient la capacité des modèles, surtout la performance de ChatGPT aux examens d'autorisation d'exercice, tandis que la recherche sur la [[governance|gouvernance]] restait en retrait ; les auteurs appellent donc à une évaluation empirique des cadres de gouvernance plutôt qu'à davantage de tests de capacité ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
 - **Les évaluations fondées sur le jugement d'experts ont besoin de leur propre comptabilité de fiabilité.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait noter par 25 experts appariés au domaine 92 [[video-education|vidéos de cours]] générées, selon un barème ancré sur « la qualité d'un cours MOOC standard », jugeant 87% au niveau ou au-dessus du seuil (moyenne 3.42 sur 5). Chaque vidéo n'a été notée qu'une seule fois par un seul évaluateur (k = 1) ; la conception répartit donc le panel sur l'ensemble du corpus au prix d'une statistique d'accord inter-évaluateurs ; un modèle à intercepts aléatoires a attribué environ 35% de la variance résiduelle à l'évaluateur (ICC = 0.35) et l'article rapporte des intervalles groupés par évaluateur plutôt qu'un chiffre de précision unique. Une évaluation fondée sur le jugement d'experts n'est aussi solide que l'analyse de fiabilité qu'elle publie.
 
+## Idées fausses courantes
+
+- **« Des scores élevés aux examens d'enseignants signifient que le modèle est pédagogiquement compétent. »** **97 modèles** ont été notés sur des items d'examens d'enseignants chiliens (**CDPK 28-89 %**), beaucoup dépassant une référence humaine estimée à **~50 %** — mais les **items statiques à choix multiples ne peuvent pas** tester un jugement mis en acte. Bien scorer à l'examen reste borné par ce que l'examen mesure.
+- **« Le critère de notation est une technicalité. »** Une correspondance stricte a noté les mêmes 2 250 dialogues de tutorat à **42,1 %** là où un juge LLM calibré sur des humains a noté **81,3 %** ([[misconcept-dialogue-llm-math-tutoring-2026|Lee et coll., 2026]]) — le critère déplace le chiffre plus que ne le font le modèle de tutorat, la stratégie ou le pipeline.
+- **« Reconnaissance et génération sont des capacités comparables. »** **Reconnaître n'est pas générer.** Sur TutorCaseBench, le meilleur de **11 modèles** a choisi une stratégie documentée sur **63,0 % des items à quatre options** mais a satisfait un critère de mise en œuvre documenté bien moins souvent. Choisir la bonne réponse parmi quatre et la produire sont des tâches différentes.
+- **« Les scores d'un modèle sont signifiants sans instrument validé. »** Des examens adaptés aux cours ont été générés pour **71 classes** et comparés à des items d'AP Statistics rédigés par des humains avec un modèle **bayésien hiérarchique 2PL** — l'instrument a été ajusté avant que les scores ne soient interprétés.
+
 ## Concepts liés
 
 - [[interpreting-and-applying-aied-research]] — Interpréter et appliquer la recherche en AIED
@@ -178,3 +189,4 @@ Des référentiels conditionnés au contexte sont nécessaires : [[zhang-tutormo
 - [[bloom-classifier-ai-assisted-questions-2026]] — Évaluation de modèles pré-entraînés pour l'évaluation pédagogique de nouvelles questions éducatives assistées par l'IA
 - [[llm-judge-evaluation-educational-ai-2026]] — Quand les évaluateurs crient au loup : leçons d'une évaluation LLM-as-judge en production dans l'IA éducative
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — Une cartographie bibliométrique peut révéler ce qu'une culture d'évaluation récompense
+- [[misconcept-dialogue-llm-math-tutoring-2026]] — MisconceptDialogue : les critères d'évaluation façonnent le succès mesuré du tutorat mathématique par LLM (Lee et coll. 2026)

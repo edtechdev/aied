@@ -1,7 +1,7 @@
 ---
 title: "Conception universelle de l'apprentissage"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T10:43:33-04:00"
+updated: "2026-11-01T10:19:17-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,13 +10,17 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-09-30T08:39:04-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -47,7 +51,8 @@ L'UDL repose sur l'idée que la variabilité des apprenants est la norme, et non
 
 L'[[generative-ai|IA générative]] crée de nouvelles opportunités et de nouveaux risques pour l'UDL. L'IA peut personnaliser la représentation et offrir des voies alternatives, au service de l'[[personalized-learning|apprentissage personnalisé]] et de l'accessibilité. Mais elle peut aussi encoder des biais, présupposer des styles de communication dominants et — si elle réduit l'autonomie de l'apprenant — saper le principe d'engagement. La [[research-methods-aied|recherche]] sur l'[[ai-misuse-learning-harm|usage néfaste de l'IA]] et l'équité montre que les outils d'IA doivent être conçus selon des principes inclusifs, sans quoi ils reconduisent les écarts d'[[equity-in-ai-education|équité]]. L'UDL éclaire donc à la fois la manière dont l'IA est déployée et la façon dont la littératie en IA et l'évaluation sont conçues pour être équitables face à la variabilité des apprenants.
 
-L'équité par la conception est une manière concrète d'opérationnaliser cette position. Wenzel, Geiger et Liening (2026) fondent leur cadre CAIS-GBL pour les [[conversational-ai|agents conversationnels]] d'IA dans des jeux de [[simulation|simulation]] en gestion sur une approche explicite d'**équité par la conception** alignée sur la conception universelle de l'apprentissage, et en dérivent des méta-exigences couvrant l'engagement cognitif, [[motivation|motivationnel]], [[affective-computing|affectif]] et [[sociocultural-learning|socioculturel]]. Leurs principes et fonctionnalités de conception visent à prendre en charge les différences individuelles de forces, de difficultés et d'intérêts — une application concrète des principes de l'UDL à la conception d'un [[game-based-learning|apprentissage par le jeu]] adaptatif et assisté par l'IA.
+L'équité par la conception est une manière concrète d'opérationnaliser cette position. Wenzel, Geiger et Liening (2026) fondent leur cadre CAIS-GBL pour les [[conversational-ai|agents conversationnels]] d'IA dans des jeux de [[simulation]] en gestion sur une approche explicite d'**équité par la conception** alignée sur la conception universelle de l'apprentissage, et en dérivent des méta-exigences couvrant l'engagement cognitif, [[motivation|motivationnel]], [[affective-computing|affectif]] et [[sociocultural-learning|socioculturel]]. Leurs principes et fonctionnalités de conception visent à prendre en charge les différences individuelles de forces, de difficultés et d'intérêts — une application concrète des principes de l'UDL à la conception d'un [[game-based-learning|apprentissage par le jeu]] adaptatif et assisté par l'IA.
+Un outil peut servir les trois principes de la CUA et néanmoins restreindre ce qu'un enseignant décide. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] soutient pour cette raison que rattacher un outil à un principe de la CUA est nécessaire mais non suffisant, et propose un audit annuel de déprofessionnalisation ainsi qu'un registre de dépendance aux fournisseurs parmi ses contrôles.
 
 L'IA apparaît aussi dans cette littérature comme un obstacle à l'UDL plutôt que comme un instrument de celui-ci. Dans l'étude à méthodes mixtes de [[faculty-accessible-course-design-ai-2026|Sidhu, Atif et Newland (2026)]] portant sur 69 professeurs d'une université ontarienne, l'un des quatre thèmes clés est que l'[[generative-ai|IA générative]] inverse les progrès réalisés en matière de conception de cours accessibles ; la citation qui donne son titre à l'article, « AI is reducing options I had used », vient de leurs entretiens, parce que les devoirs fondés sur la prise à domicile et la rédaction étaient précisément ceux qui faisaient le travail d'inclusion que l'IA peut désormais accomplir entièrement. Leurs résultats au niveau des enseignants montrent pourquoi ce revers s'abat sur une base déjà mince : 90 % des répondants estiment créer un environnement d'apprentissage accessible et 87 % disent prendre activement en compte l'accessibilité, mais moins de la moitié (46 %) pensent que l'université offre des ressources suffisantes à cet égard, et environ un cinquième n'avait jamais entendu parler de techniques aussi élémentaires que les PDF lisibles par OCR ou les liens indépendants de la couleur. La demande dépasse l'offre — les inscriptions dans les universités ontariennes ont augmenté de 17 % entre 2013 et 2022, tandis que les inscriptions aux services d'accessibilité progressaient de 126 % — si bien que la thèse de l'étude est que le soutien à l'UDL doit être doté en ressources pour compenser les options d'évaluation que l'IA a supprimées.
 
@@ -82,6 +87,16 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 
 - **Cibler les obstacles fonctionnels, et non les diagnostics.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] ont constaté que le corpus de 40 études sur les technologies d'assistance destinées aux élèves neurodivergents s'organisait autour de l'aménagement et d'outils conditionnés par le diagnostic, et soutiennent que concevoir en fonction des obstacles transversaux que les élèves rencontrent réellement est ce qui rend un outil plausiblement universel.
 
+## Idées fausses courantes
+
+**« Un cours doté de supports accessibles a mis en œuvre la CUA. »** L'accessibilité est l'un des trois principes de la CUA et le plus facile à auditer, si bien qu'elle est souvent le seul à être réalisé. Construire des moyens flexibles d'engagement et d'action et d'expression constitue la plus grande part du cadre, et un cours dont les PDF sont balisés mais dont les évaluations n'admettent qu'un seul format a accompli la fraction mesurable.
+
+**« Les enseignants qui croient être accessibles le sont. »** Croyance et pratique se séparent systématiquement. Les constats au niveau du corps enseignant dans ce corpus montrent que **90 % des répondants croyaient créer un environnement d'apprentissage accessible et 87 % déclaraient prendre activement en compte l'accessibilité** — des taux d'auto-attestation qui ne peuvent pas tous être exacts au vu de ce que les audits trouvent, et un rappel que la mise en œuvre de la CUA ne peut pas être évaluée par enquête de la manière dont elle l'est habituellement.
+
+**« La CUA signifie concevoir plus soigneusement pour l'étudiant moyen. »** L'affirmation centrale est l'inverse : la variabilité des apprenants est la norme et non l'exception, si bien que la conception offre de multiples parcours dès le départ au lieu de corriger un parcours pour ceux qui échouent. Le rattrapage est ce que la CUA existe pour remplacer, et un parcours unique bien réglé reste un parcours unique.
+
+**« L'IA rend la CUA automatique, puisqu'elle peut générer des formats alternatifs. »** Elle rend le principe de représentation bon marché et laisse l'engagement et l'expression intacts. Convertir du texte en audio traite un des trois moyens ; un cours peut désormais être entièrement multiformat et exiger encore de chaque étudiant qu'il démontre son apprentissage de la même manière unique.
+
 ## Concepts liés
 
 - [[inclusive-learning]]
@@ -109,3 +124,5 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 - [[ai-learning-tools-engineering-education-needs]] — Concevoir des outils d'apprentissage IA conscients des besoins et de l'attention
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — IA générative, réalité virtuelle et au-delà : une revue exploratoire des technologies d'assistance numériques pour les étudiants neurodivergents dans l'enseignement supérieur
 - [[faculty-accessible-course-design-ai-2026]] — « L'IA réduit des options que j'utilisais » : explorer les perceptions des enseignants sur la conception de cours accessibles à l'ère de ChatGPT
+
+- [[alenezi-ai-universal-design-learning-kuwait-2026]] — L'intelligence artificielle et la conception universelle de l'apprentissage dans l'enseignement supérieur au Koweït : vers un cadre d'éducation inclusive habilité par l'IA

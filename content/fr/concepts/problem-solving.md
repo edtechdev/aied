@@ -1,20 +1,24 @@
 ---
 title: Résolution de problèmes
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -41,7 +45,9 @@ Pourtant, ces mêmes outils peuvent éroder la compétence même qu'ils prétend
 
 Les articles de la base de connaissances abordent la résolution de problèmes par des lentilles distinctes mais convergentes. Une [[llm-critical-thinking-teamwork-review|revue systématique PRISMA]] constate que les LLM produisent souvent des réponses incomplètes ou incorrectes, incitant les étudiants à questionner, vérifier et améliorer l'information — transformant les imperfections du modèle en cycles de validation-et-correction qui renforcent la [[critical-thinking|pensée critique]] et l'indépendance intellectuelle. Plutôt que de traiter les problèmes comme donnés, d'autres travaux mettent au premier plan la *formulation de problèmes* : [[genai-assisted-problem-posing-physics-2026|entraîner les étudiants à générer leurs propres problèmes de physique]] soutient le [[transfer-of-learning|transfert]] et l'auto-apprentissage, et les [[dai-chatbots-problem-posing-primary-2026|chatbots d'IA générative]] ont amélioré la qualité de formulation de problèmes des élèves du primaire et réduit la charge cognitive dans l'[[inquiry-based-learning|apprentissage par investigation]].
 
-Le soutien et l'évaluation sont également centraux. Les [[adaptive-ai-scaffold-collaborative-problem-solving-2026|soutiens IA adaptatifs]] dérivés de la fouille de séquences appliquée aux profils de processus d'étudiants individuels augmentent la performance sur la tâche en résolution de problèmes collaboratifs en [[math-education|mathématiques]] — bien qu'un soutien maximal ait aussi accru les comportements scriptés. Du côté de la mesure, les [[llm-computational-thinking-physics-2026|LLM peuvent refléter les évaluateurs humains]] dans la détection de la croissance de la [[computational-thinking|pensée computationnelle]] dans de grands cours de [[physics-education|physique]], tandis que la [[computational-thinking-educational-robotics-secondary-2026|pensée computationnelle]] est proposée comme le liant conceptuel explicite qui fait que l'[[educational-robotics|robotique éducative]] favorise une véritable résolution de problèmes plutôt que des exercices techniques isolés.
+Le soutien et l'évaluation sont également centraux. Les [[adaptive-ai-scaffold-collaborative-problem-solving-2026|soutiens IA adaptatifs]] dérivés de la fouille de séquences appliquée aux profils de processus d'étudiants individuels augmentent la performance sur la tâche en résolution de problèmes collaboratifs en [[math-education|mathématiques]] — bien qu'un soutien maximal ait aussi accru les comportements scriptés. C'est la structure interne du soutien, et non sa seule présence, qui l'empêche de se réduire à donner la réponse. Un tuteur LLM guidé par des règles, construit comme un enchaînement de diagnostic, de sélection d'intention et de génération de réponses contraintes, a maintenu le tuteur et les élèves dans le script de tours de parole prévu dans 36 des 40 séances réelles de CM2 (90 %), et ses garde-fous anti-spoiler et de complétion seule ont réduit les réponses données prématurément ([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu et Sun, 2026]]). La thèse de conception la plus forte des auteurs est soustractive : l'arithmétique est restée hors du rôle du tuteur et a été rendue à l'élève, après que le tuteur a produit une arithmétique incorrecte dans 4 des 40 séances.
+
+Du côté de la mesure, les [[llm-computational-thinking-physics-2026|LLM peuvent refléter les évaluateurs humains]] dans la détection de la croissance de la [[computational-thinking|pensée computationnelle]] dans de grands cours de [[physics-education|physique]], tandis que la [[computational-thinking-educational-robotics-secondary-2026|pensée computationnelle]] est proposée comme le liant conceptuel explicite qui fait que l'[[educational-robotics|robotique éducative]] favorise une véritable résolution de problèmes plutôt que des exercices techniques isolés.
 
 ### Comment l'IA aide et gêne tout à la fois
 
@@ -63,6 +69,31 @@ La résolution de problèmes est le résultat appliqué de la [[critical-thinkin
 ### Codage automatisé des compétences de CPS
 
 - Mesurer la compétence de [[collaborative-learning|résolution de problèmes collaborative (CPS)]] requiert typiquement de coder des comportements issus de données de processus de tâches simulées en compétences CPS spécifiques. Le [[prompt-engineering|pilotage contextualisé]] de modèles de langage pré-entraînés peut automatiser ce codage, en modélisant les dépendances contextuelles et en fusionnant les capacités cognitives et sociales pour atteindre une performance supérieure à de solides lignes de base sur les jeux de données de tâches CPS — répondant au caractère laborieux du codage manuel et permettant une évaluation à grande échelle et en temps réel.
+
+## Idées fausses courantes
+
+**« Une IA qui aide les étudiants à explorer des perspectives les aide à penser. »** Le même comportement soutient deux issues très différentes : les outils d'IA aident les étudiants à explorer de multiples perspectives et à générer leurs propres problèmes, et ils peuvent aussi encourager la paresse métacognitive. La question qui tranche est de savoir si c'est l'étudiant qui fait le cadrage ou s'il le reçoit — un système qui fournit des perspectives candidates a accompli l'étape générative que l'exercice existait pour exiger.
+
+**« La résolution de problèmes est la cible, donc la formulation de problèmes est un bonus. »** C'est dans la formulation que se construit le transfert, parce qu'elle exige de l'apprenant qu'il construise la structure plutôt qu'il n'opère à l'intérieur d'une structure fournie par le système. Un curriculum qui ne fournit jamais que des problèmes bien posés entraîne la performance sur des problèmes bien posés, ce qui n'est pas la condition que les étudiants rencontrent ensuite.
+
+**« La simulation de la résolution de problèmes collaborative se substitue à la collaboration. »** Une simulation reproduit le schéma d'interaction, et la compétence en jeu est la régulation d'un problème conjoint par des participants réellement présents. Les agents propres à chaque participant qui modélisent de vrais collaborateurs sont un instrument de recherche pour étudier cette régulation — utiles par ce qu'ils révèlent du processus, et non un moyen de donner aux étudiants la pratique sans les pairs.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Demandez aux étudiants de poser le problème avant d'en résoudre un. Poser exige de construire la structure, et c'est là que se construit le transfert ; c'est aussi l'étape que l'IA accomplit le plus volontiers à leur place.
+- Distinguez un partenaire de réflexion d'un substitut dans la tâche elle-même : exigez que le cadrage, la démarche et la justification de l'étudiant figurent au dossier, pour que le dossier montre qui a fait le travail génératif.
+- Surveillez l'étudiant qui explore beaucoup de perspectives avec fluidité sans produire de position propre ; c'est la paresse métacognitive sous les apparences de l'engagement.
+
+**Pour les concepteurs**
+
+- Concevez pour des problèmes et des structures générés par les étudiants, plutôt que pour de meilleurs indices sur des problèmes donnés.
+- Instrumentez l'étape de cadrage, et pas seulement les étapes de solution ; un système qui suit les réponses et non la formulation du problème ne peut pas voir l'issue qui compte.
+
+**Pour les chercheurs**
+
+- Les simulations d'agents propres à chaque participant sont un instrument solide pour étudier la régulation collaborative. Rapportez-les comme tel, et non comme une preuve sur la collaboration étudiante non supervisée.
 
 ## Concepts liés
 - [[critical-thinking]]

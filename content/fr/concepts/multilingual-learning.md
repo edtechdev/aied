@@ -2,20 +2,24 @@
 title: "Apprentissage multilingue"
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-10-24T10:43:44-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,12 @@ Le jugement comparatif fondé sur les grands modèles de langue est un cas où l
 - **Reflétez la culture et le contexte, pas seulement la traduction.** L'IA multilingue doit aller au-delà de la traduction vers la [[culturally-relevant-pedagogy|pédagogie culturellement pertinente]] — générez un contenu linguistiquement et contextuellement approprié ([[llm-cultural-relevance-k12|pertinence culturelle dans le primaire et le secondaire]]).
 - **Associez l'IA à des structures de soutien multilingues.** Utilisez des modes vocaux d'abord et oraux ([[kutti-ai-voice-first-learning-companion|compagnons vocaux d'abord]]) là où l'IA fondée sur le texte échoue, et soutenez l'[[self-regulated-learning|autorégulation]] dans les contextes bilingues ([[bilingual-llm-lecture-companion-srl-2026|compagnon de cours bilingue]]).
 - **Surveillez la fracture numérique.** Le biais monolingue dans l'IA creuse la [[digital-divide|fracture numérique]] et sape l'accès dans les pays du [[global-south|Sud global]] — planifiez des infrastructures et un accès équitables en même temps que le choix de l'outil.
+
+## Idées fausses courantes
+
+- **« La langue cible doit dominer dès le premier jour. »** Dans une **revue systématique de 24 études**, les apprenants demandaient des **expressions contextualisées et des explications dans leur propre langue comme passerelle vers la langue cible** — un usage que les auteurs de la revue classent comme une véritable nouvelle sous-affordance plutôt que comme un contournement. Le soutien dans la langue d'origine fonctionnait comme étayage, non comme évitement.
+- **« L'évaluation linguistique par l'IA est biaisée contre les scripteurs multilingues. »** Ici, le biais suivait **la référence humaine plutôt que le modèle** : le jugement comparatif fondé sur un LLM appliqué à des **écrits informatifs de la 3e à la 6e année** convergeait avec les grilles des chercheurs (r = .59-.73) et montrait le même schéma que les évaluateurs humains. Ce n'est pas une preuve d'équité en termes absolus — c'est la preuve que le modèle n'a pas introduit une nouvelle distorsion par-dessus celle qui existait déjà.
+- **« La qualité de traduction de la sortie est la partie utile. »** L'usage de passerelle est explicatif et situé, non substitutif. Un outil qui remplace la production propre de l'apprenant supprime la pratique que la passerelle était censée rendre possible.
 
 ## Concepts liés
 

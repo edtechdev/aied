@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Les développeurs de technologie éducative"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-11-01T10:16:24-05:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,13 +11,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-10-26T06:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -61,13 +65,34 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 
 **Les explications doivent parler le langage de l'enseignant.** [[xai-teachers-trust-edtech-recommendations-2026]] a mené une expérience intra-sujet auprès de 41 enseignants de chimie sur un outil de recommandation par apprentissage automatique : la compréhensibilité, la [[trust|confiance]] et l'acceptation corrélaient positivement, et des explications ancrées dans le domaine, formulées dans le langage des programmes, produisaient une compréhensibilité, une [[trust-calibration|confiance]] apprise et une acceptation significativement plus élevées que des explications fondées sur l'importance des variables. La confiance était aussi dynamique — plusieurs enseignants ont dit que seule l'expérience de classe la réglerait — et l'acceptation dépendait de l'alignement pédagogique et de la réduction de la charge de travail.
 
-**Les indices de crédibilité ne sont pas une preuve d'exactitude.** L'ajout de citations et de signaux d'autorité à un débat [[agentic-ai|multi-agents]] a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15.0% à 31.8%, de sorte que la provenance doit être vérifiable au point d'usage ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et coll., 2026]]).
+**Les indices de crédibilité ne sont pas une preuve d'exactitude.** L'ajout de citations et de signaux d'autorité à un débat [[agentic-ai|multi-agents]] a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15.0% à 31.8%, si bien que la provenance doit être vérifiable au point d'usage ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et coll., 2026]]).
 
 **La co-conception à l'échelle institutionnelle.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]], à l'Open University, a été construit au moyen de six études fondées sur la conception, sur 18 mois, avec 498 étudiants et 20 membres du personnel. Environ 20% étaient initialement sceptiques ; après un usage pratique, 96% voulaient le conserver, et un ECR exploratoire a montré un temps d'usage double, mais aucune différence significative sur les données de processus d'apprentissage. Les facteurs favorables étaient organisationnels — parrainage par la direction, collaboration entre unités, itération informée par les données — avec des lacunes dans les capacités de pensée systémique.
 
 ### Approvisionnement, ouverture et après la fin du financement
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] fournit les intrants dont une décision d'approvisionnement a besoin : un plancher matériel de 12 Go de VRAM, un plafond d'exactitude pour un modèle de classe 7B, l'énergie par requête, et un ordonnancement des choix — la recherche documentaire d'abord (sans elle, le modèle obtenait 52.3%, sous une référence TF-IDF), puis l'ajustement fin, puis la compression consciente de la quantification ; la licence ouverte est la condition préalable pour servir un corpus localement. [[reclaiming-epistemic-agency-co-agency-2026]] formule la même décision comme une question de gouvernance : les exigences de transparence font de l'achat une gouvernance épistémologique, la contestabilité et la provenance deviennent des conditions, et les districts disposant des capacités les plus faibles font face à l'exigence la plus élevée. [[credential-cognitive-stewardship-ai-assessment]] ajoute que la gouvernance par le fournisseur n'apparaissait que dans 29% des 30 paquets de politiques audités, qui spécifiaient bien plus aisément ce que l'IA pouvait faire que ce qu'il restait comme preuves d'apprentissage. [[genai-mindtool-generative-learning]] pose la question de conception — le produit encourage-t-il un apprentrentissage *avec* l'outil, ou délègue-t-il le travail cognitif — et [[vocabulary-difficulty-prediction]] montre l'arbitrage en miniature : le modèle boîte noire le mieux classé (r > 0.91) était moins explicable que le modèle interprétable (r > 0.77).
+
+## Idées fausses courantes
+
+- **« Les méta-analyses étayent l'argumentaire produit. »** Non, et la raison est précise plutôt qu'affaire de degré. Un audit de **14 méta-analyses** affirmant que l'IA améliore l'éducation a constaté qu'**aucune ne justifiait ses affirmations** — toutes sauf deux échouaient sur la méthode — et qu'une **méta-analyse rétractée était encore citée comme faisant autorité par 60% des articles ultérieurs échantillonnés**. La rétractation s'est propagée plus vite que la correction, ce qui signifie que la littérature qu'une feuille de route risque de citer contient des affirmations que le champ a déjà retirées.
+- **« Ajouter des citations et de la provenance rend un système plus digne de confiance. »** Dans un débat [[agentic-ai|multi-agents]], l'ajout de citations et de signaux d'autorité à la position de l'IA **a fait passer l'abandon d'un jugement correct de 15.0% à 31.8%**. La provenance n'était pas une information neutre : elle rendait la mauvaise réponse plus persuasive. Les indices de crédibilité doivent être des preuves d'exactitude, non une décoration autour d'une affirmation.
+- **« La co-conception avec les utilisateurs valide la conception. »** La co-conception répond à une autre question que l'efficacité. Lorsqu'un outil est co-conçu avec des étudiants et que **96% déclarent vouloir le garder**, c'est un résultat sur l'acceptabilité. Savoir si l'apprentissage s'est amélioré est une mesure distincte, et les deux peuvent pointer en sens opposé sans qu'aucune des deux soit fausse.
+- **« Les agents sont le niveau de capacité suivant. »** L'ablation des [[instructional-agents-multi-agent-course-gen|Instructional Agents]] est le contre-exemple utile : la base mono-agent obtenait le score **le plus mauvais** et la configuration Full Co-Pilot **battait** la configuration autonome. Plus d'autonomie n'était pas la meilleure conception ; l'arrangement en co-pilote l'était. Les choix d'architecture doivent être évalués plutôt que supposés s'améliorer avec la capacité.
+
+## Ce que cela signifie pour la pratique
+
+**Pour les concepteurs et développeurs**
+
+- Fondez une affirmation de conception sur une étude que vous avez lue, non sur une taille d'effet que vous avez citée. Avec 14 méta-analyses auditées échouant sur la méthode et une méta-analyse retirée qui circule encore, le nombre de citations n'est pas un signal de validité.
+- Testez l'autonomie comme une variable plutôt que de la livrer comme une amélioration. Faites l'ablation : mono-agent, co-pilote, autonome. Le résultat des Instructional Agents montrait la configuration en co-pilote gagnante, le choix par défaut devrait donc être celle qui a le mieux mesuré, non celle qui sonne le plus capable.
+- Séparez l'acceptabilité de l'efficacité dans votre propre plan d'évaluation. Un chiffre élevé de volonté de conserver est un résultat réel et n'est pas une preuve d'apprentissage ; les confondre dans un rapport est la manière dont un produit faible paraît solide.
+- Traitez les indices de crédibilité comme une manipulation à effet mesuré. L'ajout de citations a fait passer l'abandon d'une réponse correcte de 15.0% à 31.8%, si bien qu'exposer la provenance change le jugement de l'utilisateur — concevez pour cela plutôt qu'en supposant que cela informe.
+
+**Pour les enseignants qui évaluent un outil**
+
+- Demandez comment l'outil a été évalué sur la tâche à laquelle vous le destinez, et si l'évaluation était en co-pilote ou autonome. Les deux ne sont pas interchangeables.
+- Demandez quand l'évaluation a eu lieu. Les affirmations de capacité liées à une version de modèle non précisée vieillissent vite et décrivent un système que vous n'exécuterez pas.
 
 ## Concepts liés
 
@@ -109,4 +134,5 @@ Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception péd
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]]
 - [[vocabulary-difficulty-prediction]]
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]]
-- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers un conseil d'IA incorrect ; vérifier la provenance au point d'usage
+- [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les indices de crédibilité ont accru la déférence envers des conseils d'IA incorrects ; vérifier la provenance au point d'usage
+

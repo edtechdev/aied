@@ -1,7 +1,7 @@
 ---
 title: "Littératie en rétroaction"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-24T10:38:26-04:00"
+updated: "2026-11-01T10:17:58-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,13 +10,17 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -77,6 +81,13 @@ L'IA fait évoluer la rétroaction dans deux directions qui renforcent l'une et 
 La littératie en rétroaction se relie à [[ai-feedback-quality]] et à [[feedback|la boucle de rétroaction]] (le versant production qu'elle complète), à [[formative-assessment|l'évaluation formative]] (le cycle d'évaluation qu'elle alimente) et à [[self-regulated-learning|l'apprentissage autorégulé]] (l'[[self-assessment|auto-évaluation]] et l'adaptation qu'elle soutient). Elle est un sous-ensemble de [[ai-literacy|la littératie en IA]] lorsqu'elle s'applique à une rétroaction générée par l'IA, recoupe [[peer-assessment|l'évaluation par les pairs]] dans les contextes collaboratifs, et revêt une importance particulière pour [[writing-education|l'enseignement de l'écrit]]. Elle se relie également à [[metacognition|la métacognition]] et à [[trust-calibration|la calibration de la confiance]] — la capacité de juger si une rétroaction est digne de confiance.
 
 Agir sur une rétroaction ne revient pas à améliorer l'artefact. Parmi 22 professeurs de mathématiques en formation initiale, l'acceptation sélective de la rétroaction produite par l'IA et par les pairs était la norme (32 épisodes sur 44), et pourtant cinq seulement ont amélioré la qualité de la tâche qu'ils avaient conçue — un décalage de traduction que les auteurs attribuent à l'[[evaluative-judgment|jugement évaluatif]] plutôt qu'à la reprise de la rétroaction ([[ai-peer-feedback-stem-teacher-education-2026|Oh, 2026]]).
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] traitent la littératie en rétroaction comme développable par la pratique : les relecteurs pairs d'anglais langue étrangère qui travaillaient dialogiquement avec l'IA générative pour produire des commentaires ont amélioré leur propre capacité à juger et à utiliser la rétroaction, et pas seulement les commentaires qu'ils ont livrés.
+## Idées fausses courantes
+
+- **« La rétroaction de l'IA améliore directement la pensée critique. »** Chez **421 étudiants chinois de premier cycle**, l'association entre usage de l'IA générative et pensée critique [[self-report-measures|auto-déclarée]] **passait par la littératie en rétroaction**. La littératie est le médiateur : une intervention qui ajoute de la rétroaction par l'IA sans construire la capacité de la lire agit sur le mauvais terme.
+- **« La littératie est une condition préalable, pas un résultat. »** Un **panel à trois vagues à ordonnée aléatoire sur 399 étudiants chinois de premier cycle** a trouvé que la littératie en rétroaction de l'IA prédisait l'engagement agentique **ultérieur** (**β = 0,222**) : la boucle joue donc dans les deux sens. Elle est dynamique plutôt qu'une porte à franchir une fois.
+- **« C'est la capacité d'agir qui fait que la rétroaction change l'écriture. »** Sur trois cycles écriture-rétroaction-révision dans **deux classes intactes de 48 étudiants chacune**, **c'est la compréhension qui était la dimension** portant le bénéfice de révision. Une rétroaction qu'un étudiant ne peut pas décoder ne s'améliore pas en la rendant plus actionnable.
 
 ## Concepts liés
 

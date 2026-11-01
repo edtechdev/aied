@@ -1,7 +1,7 @@
 ---
 title: "Entraînement et ajustement fin des grands modèles de langue"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T10:43:16-04:00"
+updated: "2026-11-01T10:19:12-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,13 +13,17 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -152,6 +156,13 @@ Distillée des preuves ci-dessus, dans l'ordre qui évite le calcul gaspillé :
 ## Connexions aux concepts liés
 
 Cette page est le pendant *comment un modèle est fabriqué* de la page [[llm]], qui couvre ce que sont les grands modèles de langue et comment ils se comportent. Elle se situe sous [[ai-technologies]] comme le nœud entraînement-et-adaptation, à côté de [[rag]] (l'alternative de la recherche documentaire qui vient généralement d'abord), de l'[[prompt-engineering|ingénierie des invites]] (le levier le moins coûteux) et de l'[[reinforcement-learning|apprentissage par renforcement]] (la moitié apprentissage par renforcement du post-entraînement). Ses sorties alimentent l'[[intelligent-tutoring|tutorat intelligent]] et l'[[adaptive-learning|apprentissage adaptatif]] ; ses applications éducatives les plus courantes sont l'[[automated-assessment|évaluation automatisée]], la [[automated-essay-scoring|notation automatisée de dissertations]] et l'[[ai-feedback-quality|évaluation de la qualité de la rétroaction]] ; et ses parents conceptuels les plus proches sont l'[[educational-nlp|TAL en éducation]], la [[simulating-students|simulation d'étudiants]], l'[[open-source|open source]] et la [[student-modeling|modélisation de l'apprenant]]. Les risques qu'il crée sont portés par la [[pedagogical-safety|sécurité pédagogique]], l'[[ai-sycophancy|sycophancie de l'IA]], le [[hallucination-risk|risque d'hallucination]] et la [[privacy|vie privée]].
+
+## Idées fausses courantes
+
+- **« L'ajustement fin est le moyen de rendre un modèle bon à votre tâche. »** La récupération et la sollicitation viennent **plus tôt dans l'ordre de décision**, et le résultat le plus clair de la base de connaissances est que le post-entraînement est un **troisième choix, non le premier**. Ajuster un modèle sur des données d'évaluation améliorait le **formatage et la similarité** tandis qu'un autre ajustement **échouait purement et simplement à générer de la rétroaction** — la méthode changeait la surface, non la compétence.
+- **« Le modèle est le principal déterminant des gains d'apprentissage. »** Le choix du modèle et de l'invite ne représente que **environ 15 %** de l'écart entre un LLM et les gains d'apprentissage des étudiants. Optimiser les 85 % restants, voilà où se situe le travail, et ce n'est pas dans les poids.
+- **« Un modèle local sera inférieur à un modèle hébergé, donc la récupération est un levier secondaire. »** Dans une évaluation à trois configurations, **la récupération, et non le modèle, était la décision de conception de premier ordre** : le LLM local **sans récupération n'atteignait que 52,3 % d'exactitude, en dessous d'une référence TF-IDF**. Ajouter la récupération a fait franchir au même modèle un seuil qu'aucun changement de modèle n'allait atteindre seul.
+- **« Plus de données d'entraînement signifie un meilleur comportement pédagogique. »** L'ajustement fin sur l'évaluation qui améliorait le formatage tout en dégradant la génération de rétroaction en est le contre-exemple en miniature : optimiser contre une cible d'apparence similaire peut améliorer le proxy et dégrader ce que vous vouliez.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Le récit en éducation"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-11-01T10:17:32-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,13 +9,17 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-11-01T09:06:43-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,23 @@ Le récit prend appui sur la [[motivation|motivation]], l'[[student-engagement|e
 ### Comment le récit apparaît dans les recherches de la base de connaissances
 
 - **Le récit médié par les robots :** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] utilise un robot de récit numérique interactif d'apparence humaine et constate des gains significatifs d'engagement comportemental et cognitif par rapport aux méthodes sur papier et sur PowerPoint ; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] permet aux enseignants de créer, à partir de contenus de [[curriculum-design|programme]], des activités de récit scénarisées propulsées par des LLM.
+- **Les gains d'engagement ont une taille, et la motivation ne suivait pas.** MotiBo a devancé de 27,06% et 30,00% les méthodes sur papier et sur PowerPoint pour l'engagement comportemental et cognitif (p < .05 dans les deux cas), tandis que la motivation intrinsèque augmentait de 20,21% sans atteindre la signification (p = .07). L'engagement a bougé, la motivation n'a pas franchi son seuil, et la quasi-expérience de cinq jours n'a mesuré aucune issue d'apprentissage ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
 - **La co-création narrative en interaction homme-robot :** [[icub-humanoid-storytelling-llm-hri-2025|l'étude narrative iCub]] explore la co-création d'histoires entre l'humain et le robot, en intégrant des modèles génératifs pour une interaction contextuellement appropriée.
 - **Le récit et la créativité :** le récit soutient la [[creativity|créativité]] et le développement de la [[language-learning|langue]], et sert à renforcer la motivation et l'engagement dans les contextes de [[k-12|primaire et secondaire]].
 - **Le récit numérique comme contrepoint à l'IA :** à mesure que l'[[generative-ai|IA générative]] progresse, le récit numérique est requalifié comme un véhicule des capacités émotionnelles, culturelles et narratives qui manquent à l'IA. Dans un modèle d'[[project-based-learning|apprentissage par projets]] pour l'enseignement de l'art et du design, les étudiants ont traduit le patrimoine culturel local en récits [[multimodal|multimodaux]] répartis sur 92 œuvres de récit numérique, montrant comment le récit préserve la créativité humaine à l'ère de l'IA.
+- **Un récit généré est facile à produire et difficile à garder cohérent.** Avec 22 étudiants en STIM, la fiction interactive générée par l'IA était bien notée sur la clarté narrative (M = 4.11) et la longueur (M = 4.14), mais l'engagement se tenait au point neutre médian (M = 3.08) et la cohérence du contenu de l'histoire était la plus faible (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). La co-création hérite de cette faiblesse à la couche où l'histoire est censée faire son travail.
 
 Le récit est en lien avec l'[[student-engagement|engagement des étudiants]], la [[motivation|motivation]], la [[creativity|créativité]], la [[educational-robotics|robotique éducative]], l'[[language-learning|apprentissage des langues]], l'[[social-emotional-learning|apprentissage socioémotionnel]] et les [[educational-robotics|robots éducatifs]].
+
+## Idées fausses courantes
+
+**« Une histoire co-construite est une histoire racontée. »** Ce qui est gagné, c'est la fluidité et le volume ; ce qui est en jeu, c'est la qualité d'auteur du conteur. Une histoire est une structuration de l'expérience par quelqu'un qui a choisi la séquence et l'accent, si bien qu'une machine qui fournit la structure a fourni la part qui porte le sens.
+
+**« Le récit est un ajout accessoire au contenu. »** Le récit est un dispositif de mémoire et de mise en sens, et l'apprenant qui raconte fait le travail d'organisation. Céder la narration, c'est céder l'apprentissage.
+
+**« La génération par l'IA rend le récit accessible aux étudiants qui ne savent pas écrire. »** Elle rend disponible la *production d'un artefact écrit*, ce qui est un bénéfice différent. La narration orale, le dessin et la dictée sont les voies établies vers le même but, et elles préservent la qualité d'auteur que la génération supprime.
+
+**« La valeur éducative d'une histoire est dans le résultat poli. »** Elle est dans la construction — la sélection et l'ordonnancement qu'un conteur opère. Une histoire polie que l'étudiant n'a pas structurée a démontré la compétence du modèle, non celle de l'apprenant.
 
 ## Concepts liés
 
@@ -60,3 +76,4 @@ Le récit est en lien avec l'[[student-engagement|engagement des étudiants]], l
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotique et IA en éducation
+- [[ai-generated-interactive-fiction-education-2026]] — La fiction interactive générée par l'IA : la cohérence comme dimension faible dans un pilote de 22 étudiants

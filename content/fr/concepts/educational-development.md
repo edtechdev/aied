@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Le développement éducatif
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:48:30-04:00"
+updated: "2026-11-01T10:16:02-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-10-26T04:35:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -74,7 +78,7 @@ Dans cette perspective, les enseignants qui demandent « à quoi bon enseigner �
 
 ### Des orientations pratiques pour les concepteurs de programmes
 
-Pour les responsables du développement des enseignants, les dirigeants académiques et les [[stakeholders|concepteurs pédagogiques]] qui planifient un [[professional-training|développement professionnel]] des enseignants sur l'IA, les preuves de la base de connaissances suggèrent ceci :
+Pour les responsables du développement des enseignants, les dirigeants académiques et les [[stakeholders|concepteurs pédagogiques]] qui planifient un [[educational-development|développement professionnel]] des enseignants sur l'IA, les preuves de la base de connaissances suggèrent ceci :
 
 **Traiter les quatre moteurs de l'adoption, et pas seulement la connaissance.** La confiance, les attitudes, le soutien et les préoccupations prédisent si les enseignants adoptent effectivement l'IA — un atelier purement cognitif qui les ignore a peu de chances de changer la pratique. Concevoir le développement de manière à construire la confiance par l'usage pratique, fournir un soutien continu (et non une formation ponctuelle), et mettre activement au jour les préoccupations des enseignants pour y répondre. ([[teacher-ai-adoption-confidence]])
 
@@ -86,6 +90,8 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 
 **Traiter la préparation comme un problème d'alignement socio-technique.** Le [[sangwa-epiq-ai-faculty-readiness-2026|cadre EPIQ-AI]] montre que la préparation des enseignants couvre les domaines épistémique, pédagogique, institutionnel et qualité-conformité. Les programmes qui ne forment que l'individu manquent les leviers institutionnels (politique, charge de travail, incitations, normes de qualité) qui permettent ou bloquent le changement — alignez-les aux côtés de la formation. ([[sangwa-epiq-ai-faculty-readiness-2026]])
 **Ne pas assimiler investissement infrastructurel et transformation.** Sur 125 études, l'investissement institutionnel dans l'infrastructure IAG et le développement éducatif n'était que faiblement corrélé au changement pédagogique réel (r = 0.12), tandis que 60–70% des enseignants se sentaient peu préparés à intégrer l'IAG — ce qui fait du développement, et non de l'approvisionnement, la contrainte déterminante. ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+
+**Nommer le mode d'échec, et pas seulement la taille de l'effet.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe et Martínez-Pérez (2026)]] la nomment innovation simulée : la présence d'outils signale le progrès, les formats d'enseignement et d'évaluation restent intacts, les taux d'adoption et les tableaux de bord tiennent lieu d'apprentissage, et le cycle de sortie des technologies fixe la direction. Leur diagnostic demande à un programme de développement de justifier chaque outil par rapport à un problème d'apprentissage nommé avant l'adoption.
 
 **Œuvrer vers la refonte du curriculum, et non vers l'adoption d'outils.** L'objectif est que les enseignants repensent les cours et l'évaluation, et pas seulement qu'ils y ajoutent des outils d'IA. Ancrez le développement professionnel dans un travail de refonte au niveau du cours et dans une réforme de l'évaluation, et donnez aux enseignants des cadres structurés pour le faire (par exemple des [[ai-assessment-scale-reform|échelles d'évaluation]], des [[institutional-change-framework-ai|cadres de changement institutionnel]]). ([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
@@ -174,3 +180,4 @@ La confiance et la littératie ne sont pas des cibles interchangeables : dans un
 
 - [[faculty-ai-well-being-social-supports-2026]] — Le bien-être des enseignants face à l'IA suit la littératie en IA plutôt que l'auto-efficacité technologique
 - [[ai-competence-framework-landscape-2026]] — Vérifier ce que décrivent les niveaux d'un cadre avant de l'adopter
+- [[fajardo-ramos-teacher-education-ai-agenda-2026]] — L'éducation peut-elle fixer l'agenda de l'IA ? Innovation simulée et fixation des directions pédagogiques en formation des enseignants

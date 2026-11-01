@@ -1,7 +1,7 @@
 ---
 title: "Informatique affective"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-11-01T10:20:04-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,13 +9,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -60,6 +64,12 @@ L'informatique affective se situe à l'intersection du [[affective-tutoring|tuto
 - **Agents d'évaluation émotionnellement intelligents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un [[conversational-ai|agent conversationnel]] émotionnellement intelligent augmenté par [[llm|LLM]], a réduit l'anxiété et la pression sociale des étudiants pendant des évaluations fondées sur la performance, tout en préservant l'[[usability-research|utilisabilité]].
 - **L'empathie conçue par l'invite, et non par la perception.** Le soutien affectif n'exige pas la détection de l'affect : [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] ont obtenu une grande différence de *perception de l'empathie* (21.27 contre 18.24 ; r = 0.53) entre deux agents d'IA de [[physics-education|physique]] qui ne différaient que par le rôle et les mouvements conversationnels spécifiés dans l'invite — des ouvertures par prise de perspective (« Vous posez cette question parce que… »), un diagnostic des [[misconceptions|idées fausses]], et une vérification de la compréhension à la fin de chaque tour — le modèle, la plateforme et la température restant constants. Cela constitue un utile contrepoids à l'informatique affective fondée sur les capteurs : la qualité émotionnelle perçue d'un [[pedagogical-agent|agent pédagogique]] peut être conçue dans le script d'interaction, tout en rappelant aussi aux concepteurs que l'empathie perçue est un construit auto-déclaré plutôt qu'une preuve d'une authentique compréhension affective ([[student-ai-interaction]]).
 - **Des alertes qui signalent un enseignant au lieu d'adapter un tuteur.** [[ai-emotional-alerts-teachers-mathematics-classroom-2026|Swidan (2026)]] a déployé Dash4Emotion dans une classe de géométrie du lycée, où des rectangles encadrés de rouge marquaient les élèves considérés comme éprouvant une émotion négative ; sur vingt épisodes identifiés (cinq rapportés), ce qui a fait changer l'engagement est la réaction de l'enseignant à une alerte, et non l'alerte elle-même. L'enjeu de conception est que la perception de l'affect peut alimenter une décision humaine au lieu du prochain geste d'un tuteur adaptatif — avec la mise en garde propre à l'étude : elle ne rend compte d'aucune validation de la détection des expressions faciales, si bien que le signal est une invitation à l'interprétation par l'enseignant plutôt qu'une preuve de l'état intérieur d'un élève.
+
+## Idées fausses courantes
+
+- **« Plus d'engagement signifie plus d'apprentissage. »** Une étude de détection cérébrale a constaté qu'une **interface contrainte et adaptative élevait l'engagement cognitif (p = 0,018) tandis que l'agent conversationnel sans restriction produisait de meilleurs gains d'apprentissage**. L'interface qui engageait davantage enseignait moins. L'engagement n'est pas un substitut de l'apprentissage, et l'optimiser peut déplacer le résultat dans le mauvais sens.
+- **« Le soutien émotionnel est un ajout doux au soutien cognitif. »** Dans un petit [[rct|essai randomisé]] en classe (**42 participants ayant terminé sur 252**), la version « pleine conscience » a atteint **un apprentissage de l'algèbre similaire en moins de temps et avec moins d'indices demandés** que le soutien cognitif seul. La composante affective a changé l'efficience plutôt que le plafond, ce qui est une affirmation différente et plus intéressante que « cela aide l'apprentissage ».
+- **« Les constats affectifs sur petits échantillons se transfèrent. »** 42 personnes ayant terminé sur 252 est un dispositif à la fois encourageant et fragile : le taux d'achèvement est lui-même un constat sur qui a persévéré, et l'effet est borné à ce groupe.
 
 ## Concepts liés
 - [[anxiety-and-stress]]

@@ -1,7 +1,7 @@
 ---
 title: Modèle SAMR
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,13 +10,17 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-10-06T18:35:00-04:00"
+source_updated: "2026-10-26T00:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,16 @@ SAMR se comprend au mieux comme une lentille de profondeur d'intégration utilis
 - **L'associer à ICAP.** SAMR décrit ce que devient la *tâche* ; ICAP décrit comment l'apprenant *s'engage*. Utilisés ensemble, ils distinguent la substitution de surface de la co-construction interactive profonde.
 - **Le compléter par des lentilles d'adoption et d'équité.** SAMR ne dit rien des raisons pour lesquelles un outil est adopté ni de qui en bénéficie. Associez-le aux [[technology-acceptance-model|modèles d'adoption]] et à l'analyse de l'[[equity-in-ai-education|équité]] pour éviter qu'une étiquette de profondeur ne se substitue à une évaluation [[critical-thinking|critique]].
 - **Traiter les preuves d'une intégration incrémentale comme un constat, non comme un échec.** Si la plupart des intégrations de l'IA se regroupent au niveau Substitution/Augmentation, la tâche de conception n'est pas de forcer la Redefinition, mais de reconnaître qu'un usage transformatif exige des conceptions de tâches différentes, et pas seulement de meilleurs outils.
+
+## Idées fausses courantes
+
+**« Plus haut sur SAMR, meilleur est l'enseignement. »** SAMR est une lentille pour se demander si l'IA *reconceptualise* l'apprentissage ou *améliore* une pratique existante ; ce n'est pas un classement de qualité, et la Redefinition n'est pas la bonne réponse pour toute tâche. Une substitution qui supprime une étape improductive est une réussite jugée sur l'apprentissage, non sur le niveau qu'elle occupe.
+
+**« L'adoption de l'IA progresse dans l'échelle. »** La distribution est concentrée en bas. Une revue systématique de l'intégration de l'IA dans l'[[higher-ed|enseignement supérieur]] a constaté que **la plupart des usages se situaient à la Substitution ou à l'Augmentation, une seule étude approchant la Redefinition**. L'usage pratique de SAMR dans cette littérature est donc largement diagnostique — il nomme l'endroit où le domaine se trouve réellement.
+
+**« SAMR et TPACK sont des cadres concurrents. »** Ils décrivent des choses différentes : SAMR décrit le *degré de transformation* d'une tâche, tandis que [[tpack|TPACK]] décrit le *savoir* dont un enseignant a besoin pour bien intégrer la technologie. Un enseignant peut être très compétent en TPACK et opérer néanmoins à la Substitution, ce qui explique qu'on les utilise ensemble plutôt qu'on ne choisisse entre eux.
+
+**« Un outil transformatif à un niveau est transformatif à tous les niveaux. »** Le même outil génératif peut soutenir une Substitution dans un cours et une Redefinition dans un autre, parce que le niveau est une propriété de la conception de la tâche plutôt que de la technologie. Attribuer le niveau à l'outil produit des décisions d'adoption à la place de décisions de conception.
 
 ## Concepts liés
 

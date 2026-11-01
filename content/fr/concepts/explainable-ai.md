@@ -1,7 +1,7 @@
 ---
 title: "IA explicable"
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-29T04:21:31-04:00"
+updated: "2026-11-01T10:14:14-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-10-16T06:45:00-04:00"
+source_updated: "2026-11-01T09:13:16-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 
 
@@ -64,6 +68,7 @@ Le cadre XAI-ED répertorie les principales modalités d'explication : **visuell
 - Les approches en **boîte de verre** tentent d'équilibrer précision et transparence.
 
 La base de données probantes concrète de l'AIED couvre l'ensemble de ces modalités. Le **[[knowledge-tracing|traçage des connaissances]] interprétable** rend les modèles de connaissance de l'apprenant directement inspectables ([[huang-interpretable-knowledge-tracing-2026]], [[explainable-probabilistic-kt]], [[neural-symbolic-knowledge-tracing]]). Les **substituts auto-explicatifs** distillent un modèle en boîte noire en un petit [[llm|modèle de langue]] interprétable pour l'[[learning-analytics|analytique de l'apprentissage]] ([[distilling-self-explaining-lm-learning-analytics-2026]]). Les **explications contrefactuelles** — « que faudrait-il changer pour obtenir un résultat différent » — soutiennent l'aide à la décision éducative et les recours possibles ([[sc2r-counterfactual-recourse-educational-2026]]). L'**analytique de l'apprentissage fédérée et explicable** montre que la qualité de l'explication peut se dégrader (la calibration se dégrade) même lorsque la stabilité du classement se maintient, ce qui souligne que les explications ne sont pas une propriété figée mais une sortie du système qu'il faut mesurer ([[villegas-ch-federated-explainable-learning-analytics-2026]]). Et les **tuteurs intelligents [[affective-computing|affectifs]] interprétables** démontrent des explications dans le tutorat [[affective-tutoring|sensible aux émotions]] ([[multimodal-affective-its-presentation]]).
+- **La mesure externe contourne le problème du compte infidèle.** Les journaux de décision filtrés reconstruisent les traces de l'outil en un arbre de provenance et classent les preuves selon quatre signaux déterministes, de sorte que le score d'influence est vérifiable indépendamment de la recommandation, et le retrait contrefactuel de l'outil a confirmé que le classement suivait la dépendance ([[filtered-decision-logs-transparency-genai-2026|Anbalagan et coll. (2026)]]).
 
 ## La qualité de l'explication, non sa disponibilité
 
@@ -85,11 +90,20 @@ Deux mises en garde aiguisent encore ce constat, que la contribution la plus ré
 
 **L'explicabilité par la conception** est une réponse au problème de fidélité des méthodes a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang et Fang (2025)]] paramètrent un décodeur d'explication par la même représentation fusionnée et la même note prédite qui décident de l'[[assessment|évaluation]], de sorte qu'une note faible sur un questionnement [[formative-assessment|formatif]] produit une justification nommant l'insuffisance des questions de sondage, et l'associent à une attention à double volet portant sur les références des programmes et sur les gestes propres à la grille disciplinaire. L'alignement de l'attention sur la grille atteint 78.0% contre 41.7% pour GPT-4 en zero-shot et 32.1% pour BERT, et la fidélité est sondée par suppression contrefactuelle des passages critiques pour la grille, parallèlement à des évaluations humaines sur une liste de contrôle ancrée dans la grille, ce qui donne un score de crédibilité de l'explication de 0.78 — une augmentation de 0.31 par rapport à BERT-base. L'audit montre aussi où l'affirmation architecturale s'amincit : sur les indices émotionnels, le modèle alloue 28.4% du poids d'attention contre 15.2% pour un expert (alignement 0.53), avec un cas d'échec attribuant 28% au token « frustrated », ce que les auteurs lisent comme un surajustement à l'affect plutôt qu'à la pédagogie, et qu'ils désignent comme un axe d'amélioration. Intégrer les explications dans le chemin de décision les rend plus fidèles que les justifications a posteriori ; cela ne les rend pas correctes.
 
+**Ce qu'un modèle dit avoir utilisé dépend autant de la famille que des données.** Sur sept modèles appliqués à une même cohorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et coll. (2026)]] ont constaté que les approches symboliques s'appuyaient sur des facteurs cognitifs et motivationnels, les modèles sous-symboliques sur des aspects cognitifs, les connaissances apprises et le genre, et que les deux négligeaient largement les facteurs métacognitifs, tandis que le modèle neuro-symbolique en utilisait un ensemble plus intégré. Les mêmes étudiants et les mêmes indicateurs produisaient des comptes rendus différents de ce qui importait, si bien que l'alignement avec la théorie de l'apprentissage devient une affirmation sur les attributions plutôt que sur la précision.
+
 ## Enseigner l'explicabilité comme pratique de reddition de comptes
 
 Si la qualité de l'explication décide de l'utilité de la XAI, alors produire des explications doit s'enseigner comme une habitude professionnelle plutôt que se démontrer comme une capacité. [[lund-socially-accountable-data-science-xai-2026|Lund et ses collègues (2026)]] proposent de le faire selon quatre piliers — l'**obligation de répondre** (l'obligation de donner des raisons à ceux qui sont affectés), la **responsabilité** (le préjudice anticipé sur l'ensemble du cycle de vie, et non défendu après coup), l'**application** (des conséquences à l'intérieur du cours) et la **réflexivité** (l'examen documenté de ses propres présupposés) — chacun avec ses propres travaux et son propre coût en classe.
 
 Pour l'explicabilité spécifiquement, les travaux qui comptent sont ceux qui forcent l'explication à sortir du carnet de notes : des fiches de modèle notées au même titre que les métriques de précision, et des audits d'explication structurés dans lesquels les étudiants appliquent des outils d'interprétabilité à leurs propres modèles, puis en présentent les résultats à un public sans bagage technique partagé. L'application est le pilote le plus souvent absent des cours voisins de l'éthique et celui qui rend le reste plus que symbolique — des grilles qui récompensent la documentation responsable, des projets pouvant être renvoyés en révision pour des motifs [[ethics|éthiques]], et une [[peer-assessment|révision par les pairs]] conduite selon des critères de reddition de comptes et pas seulement techniques. L'article reconnaît honnêtement que les outils diffèrent fortement en coût : les fiches de modèle et les déclarations de positionnement ne requièrent aucun nouveau logiciel et ne risquent qu'une conformité superficielle, tandis que les panels de pairs et la mobilisation des acteurs exigent une coordination et une adhésion institutionnelle — c'est pourquoi il recommande une adoption par étapes plutôt qu'un engagement de type tout ou rien. Voir [[curriculum-design]] pour savoir où ces éléments s'insèrent dans un programme.
+
+## Idées fausses courantes
+
+- **« Les citations rendent une explication digne de confiance. »** Les citations se comportent comme un **indice de crédibilité plutôt que comme une preuve d'exactitude** : l'ajout de citations et de signaux d'autorité à une interface de débat **a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15.0% à 31.8%**. La provenance a rendu la mauvaise réponse plus persuasive, soit l'effet inverse de celui recherché.
+- **« Une explication qui satisfait les utilisateurs a expliqué le système. »** La même défaillance de lisibilité apparaît du côté de la sécurité de l'[[automated-assessment|évaluation automatisée]] : [[humble-prompt-injection-ai-grading-red-team-2026|le test d'intrusion de Humble (2026)]] a montré qu'un flux de notation ordinaire pouvait être manipulé par des instructions injectées. Un récit plausible et un récit auditable sont des artefacts différents.
+- **« La pratique générale de la XAI se transpose à l'éducation. »** Le [[xai-education-framework|XAI-ED]] (Khosravi et coll., 2022) insiste sur le fait que l'éducation a des **besoins d'explicabilité distincts** au-delà de la XAI générale, parce que le public comprend des apprenants qui doivent agir sur l'explication plutôt que des auditeurs qui doivent la certifier.
+- **« La fidélité est une propriété que l'on peut revendiquer sans la sonder. »** La fidélité mesurée exige la **suppression contrefactuelle des passages critiques pour la grille** parallèlement à des évaluations humaines. Un alignement attention–grille atteignant **78.0% contre 41.7% pour GPT-4 en zero-shot et 32.1% pour BERT** est un résultat comparatif issu de ce type de sondage, non d'une affirmation sur l'interprétabilité.
 
 ## Citation
 
@@ -137,3 +151,4 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Décisions de notation prises par l'enseignant ou par l'IA : une justification écrite a élargi l'écart d'équité
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Les citations et les signaux d'autorité ont accru la déférence envers une sortie incorrecte, certaines références étant mal attribuées ou fictives
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - Les modèles symboliques, sous-symboliques et neuro-symboliques d'une même cohorte attribuaient leurs prédictions à des facteurs différents

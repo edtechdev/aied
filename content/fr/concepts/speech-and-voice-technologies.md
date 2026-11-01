@@ -1,7 +1,7 @@
 ---
 title: "Les technologies de la parole et de la voix"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-24T10:39:45-04:00"
+updated: "2026-11-01T10:17:36-05:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,13 +11,17 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-10-23T09:14:19-04:00"
+source_updated: "2026-10-26T11:40:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,12 @@ Vérification de portée. Cette page porte sur le canal parlé et la technologie
 ## Ce qui reste incertain
 
 Presque chaque affirmation forte ici repose sur une seule étude courte. Les deux études de leçons TTS ont été menées dans des lycées japonais uniques, avec un ordre de présentation fixe qui confondait le format avec le contenu, et leurs mesures de résultats d'apprentissage étaient autodéclarées sur des échelles maison. Le modèle de rétroaction ASR provenait d'une seule université chinoise et était transversal, si bien que son constat de modération par la maîtrise décrit une covariance plutôt qu'une causalité. L'étude sur la volonté de communiquer mesurait les perceptions de la rétroaction, non la qualité de la rétroaction. L'étude des profils d'interprétation est une analyse exploratoire à 22 participants dans laquelle les effets au stade de la production n'atteignaient pas la significativité. Les déploiements AOA et AkoVoice relèvent d'une seule institution, et AkoVoice ne rapporte aucune preuve d'apprentissage [[summative-assessment|sommative]] parce que ses évaluations vocales se déroulaient en parallèle des évaluations réelles. Kutti AI est une contribution de système sans aucune évaluation de résultats. Ce que l'ensemble soutient est un ensemble d'affirmations de conception : dans l'usage de l'ASR, la qualité de la rétroaction bat le volume de pratique, la narration dialoguée peut aider la compréhension au prix du naturel, le format devrait être adapté aux caractéristiques de l'apprenant plutôt que figé, l'IA devrait révéler des preuves plutôt que remplacer l'évaluateur humain, et parler en temps réel mesure quelque chose que l'écriture ne mesure pas — y compris une exactitude étonnamment indifférente au nombre de mots utilisés par l'apprenant. Que tout cela tienne sur un autre site, dans une autre langue ou une autre année reste non testé.
+
+## Idées fausses courantes
+
+- **« Les services vocaux payants surpassent les gratuits. »** **Les deux services gratuits renvoyaient des transcriptions quasi complètes (87.96% et 88.34% de couverture, avec des taux d'erreur de mots de 15.23% et 15.00%)**, tandis que les deux services payants n'exportaient que des aperçus, à 32% de couverture. Le prix ne prédisait pas l'utilité, et l'offre payante bridait la sortie plutôt que de l'améliorer.
+- **« Tout chatbot d'apprentissage des langues améliore la prononciation. »** Sur **dix études**, **seuls les chatbots conçus pour l'apprentissage des langues — Andy English bot et Xiaoying — amélioraient l'exactitude**, avec une **baisse d'erreur de 14% dans un groupe témoin** en comparaison. Les agents conversationnels génériques ne produisaient pas ce gain.
+- **« Des gains d'auto-efficacité signifient des gains de compétence. »** L'association entre la technologie et les résultats était positive, l'**auto-efficacité la médiant partiellement : la voie indirecte comptait pour 69.9% de l'effet total tandis qu'un effet direct subsistait**. L'essentiel de l'effet passait par la confiance, qui est un mécanisme et aussi une mise en garde.
 
 ## Concepts liés
 

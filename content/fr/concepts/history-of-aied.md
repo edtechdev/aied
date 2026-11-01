@@ -1,20 +1,24 @@
 ---
 title: "Histoire de l'IA en éducation"
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:11:16-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-09-03T15:00:00-04:00"
+source_updated: "2026-10-25T13:10:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,34 @@ L'arrivée de l'[[generative-ai|IA générative]] — une large famille qui incl
 - **Voyez les choix de conception comme des choix de valeur.** Les décisions techniques relatives à l'IA en éducation intègrent des positions idéologiques sur la finalité de l'apprentissage — mettez-les au jour et interrogez-les.
 - **Pesez délibérément le contrôle contre l'autonomie.** La question de savoir si l'IA devrait optimiser vers des résultats standards ou permettre des résultats divers et dirigés par l'apprenant est un choix authentique, aux conséquences institutionnelles et politiques, et non une donnée technique.
 - **Préservez l'autonomie de l'apprenant.** La résistance récurrente à la standardisation et au contrôle en faveur d'approches ouvertes et centrées sur l'apprenant est un fil durable qui vaut la peine d'être défendu.
+
+## Idées fausses courantes
+
+**« L'IA en éducation a commencé avec ChatGPT. »** Non, et cette croyance coûte cher parce qu'elle rend invisible tout ce que les périodes antérieures ont appris. Les [[intelligent-tutoring|tuteurs intelligents]] descendent des travaux de recherche heuristique et de systèmes experts des années 1960 et 1970, et la communauté AIED s'est constituée autour d'eux des décennies avant les [[llm|grands modèles de langage]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] montrent que les débats actuels reproduisent une division déjà explicite chez les tuteurs cognitifs d'Anderson et le constructionnisme de Papert : un lecteur qui date le champ de 2022 redécouvrira des arguments que le champ avait tranchés, abandonnés ou perdus une première fois.
+
+**« Le champ a progressivement abandonné l'IA-comme-analogie au profit d'outils appliqués, et l'IA générative prolonge cette tendance. »** C'est la correction la plus instructive de la page, parce que la trajectoire est réelle mais non monotone. L'analyse positionnelle de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian et Doroudi]] portant sur AIED 1985, 1993, 2021 et 2024 et sur IJAIED 2004, 2014 et 2021 montre bien une dérive d'un champ mixte vers une instrumentalité appliquée quasi exclusive dans les années 2000. Mais à AIED 2024, trois des quatre communications du quadrant IA-comme-analogie reposaient sur des LLM, dont un travail primé sur des agents enseignables fondés sur les LLM. L'IA générative **inverse** en partie la tendance plutôt qu'elle ne la prolonge, ce qui explique pourquoi la traiter comme « le prochain tuteur intelligent » se trompe sur l'endroit où la frontière de la recherche s'est réellement déplacée.
+
+**« La personnalisation signifie adapter la difficulté à chaque apprenant. »** Ce n'est que l'un de deux sens incompatibles, et les confondre masque un choix politique. Dans le premier sens, le résultat est tenu fixe et seul le chemin varie, lignée qui va des machines à enseigner de Skinner aux tuteurs fondés sur la maîtrise. Dans le second, les résultats eux-mêmes se diversifient, les apprenants poursuivant des intérêts individuels sans être contraints par un programme standard (Zhao, 2024). Un [[intelligent-tutoring|STI]] met en œuvre le premier ; le [[constructivist|constructionnisme]] le second. Un outil décrit comme « personnalisé » ne vous a rien dit tant que vous ignorez lequel des deux il désigne.
+
+**« Le terme "intelligence artificielle" était simplement le nom évident du champ. »** Ce fut un choix délibéré. Lorsque McCarthy prépara le projet de Dartmouth en 1956, il préféra *intelligence artificielle* à *cybernétique*, en partie pour distancier ces travaux de la tradition du retour analogique de Wiener. Cette décision unique a cadré les machines en comparaison directe avec la cognition humaine, et le cadrage anthropomorphique qu'elle a installé façonne encore les priorités de recherche, le langage des produits et les questions éthiques que pose le public.
+
+## Mettre en pratique
+
+**Pour les enseignants et les concepteurs pédagogiques**
+
+- Nommez la tradition à laquelle appartient votre outil avant de l'adopter. Demandez-vous s'il optimise vers des résultats fixes ou s'il ouvre la direction à l'apprenant, car c'est cette réponse, et non la liste des fonctionnalités, qui déterminera ce qu'il fera à votre conception de l'évaluation.
+- Interrogez le mot « personnalisé » dans chaque argumentaire de fournisseur, et exigez une réponse en termes des deux sens ci-dessus. Un produit qui fait varier le rythme vers un standard commun et un produit qui laisse les étudiants diverger ne sont pas substituables.
+- Quand les étudiants présentent l'IA générative comme inouïe, l'histoire est elle-même un contenu enseignable. Le cadrage Anderson-Papert leur donne un vocabulaire pour discuter de l'IA plutôt que seulement l'utiliser.
+
+**Pour les développeurs**
+
+- Le langage de l'interface est une décision de conception qui a une lignée. Appeler votre système un « tuteur IA » hérite du cadrage d'Anderson et de l'attente d'optimisation vers des résultats standard ; l'appeler un « micro-monde » ou un « environnement d'apprentissage » hérite de celui de Papert. Aucun n'est neutre : choisissez délibérément.
+- Si vous construisez dans la tradition de l'analogie (modèles de l'apprentissage, agents enseignables, simulations de l'acquisition de connaissances), dites-le. Ce quadrant est resté presque vide pendant deux décennies et se repeuple ; ce positionnement est un facteur de différenciation et les critères d'évaluation sont différents.
+
+**Pour les chercheurs**
+
+- Utilisez les corpus historiques comme référence plutôt que de traiter le présent comme la seule comparaison disponible. Les actes d'AIED pour 1985, 1993, 2021 et 2024 et ceux d'IJAIED pour 2004, 2014 et 2021 constituent un échantillon longitudinal tout prêt des propres affirmations du champ.
+- Citez la lignée lorsque vous revendiquez une nouveauté. Une affirmation selon laquelle un système « personnalise l'apprentissage » ou « modélise l'apprenant » n'est nouvelle que par rapport à une tradition antérieure précise, et cette tradition est documentée.
 
 ## Concepts liés
 

@@ -1,20 +1,24 @@
 ---
 title: Recherche quantitative
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-10-24T10:38:02-04:00"
+updated: "2026-11-01T10:14:49-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,10 +46,13 @@ Les enquêtes transversales mesurent les attitudes auto-déclarées, les percept
 
 - **Forces :** de grands échantillons ; une couverture large et peu coûteuse ; le test de modèles médiationnels complexes ; la faisabilité pour des attitudes difficiles à observer.
 - **Limites :** les données transversales ne peuvent établir de causalité ; le biais d'auto-déclaration ; l'échantillonnage de commodité limite la généralisabilité ; les médiateurs sont inférés de la covariance, non de la manipulation. Voir [[self-report-measures]] pour le traitement côté instrument de ces limites.
+- **Un modèle de médiation saturé ne peut pas tester son propre ordonnancement.** Une enquête à une seule vague portant sur 1 020 étudiants en soins infirmiers a décomposé un effet total de 1.36 en un effet direct de 0.92 et un effet indirect de 0.44 via l'apprentissage autorégulé, soit 32.35% du total, avec un modèle qui compte autant de paramètres libres que de covariances observées et reproduit donc les données par construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et coll. (2026)]]).
+**Un effet indirect total proche de zéro peut masquer deux chemins actifs.** Dans une vague d'auto-déclaration portant sur 568 étudiants en design, l'association indirecte passait par 0.0929 via la focalisation sur la promotion et -0.0884 via la focalisation sur la prévention, pour une somme de 0.0045 tandis que le chemin direct portait 98.7% du total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et coll. (2026)]]).
 
 ### La recherche expérimentale et quasi-expérimentale
 Les expériences assignent aléatoirement des apprenants à des conditions (par ex., tuteur IA contre tuteur humain, ou assisté par l'IA contre non assisté) pour estimer des effets causaux sur les résultats. Les **essais contrôlés randomisés ([[rct]])** constituent l'étalon-or pour la validité interne. [[access-not-enough-ai-tutoring-2026|Une étude de terrain randomisée sur le soutien humain associé au tutorat par IA]] et [[genai-can-harm-teaching-rct-2026|un essai randomisé sur l'IA générative dans l'enseignement]] utilisent l'assignation pour isoler des effets causaux. Les conceptions **quasi-expérimentales** (pré/post, groupes appariés sans randomisation) sont plus faisables dans des classes intactes mais plus faibles sur les affirmations causales.
- [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adoptent à la place un croisement intra-sujet : chaque étudiant rencontre le même contenu de physique deux fois, une fois dans une leçon d'apprentissage actif en classe et une fois par le biais du propre tuteur IA du cours, avec des pré- et post-tests autour de chacune, si bien que chaque apprenant sert de propre témoin et que les différences interindividuelles s'annulent.
+
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adoptent à la place un croisement intra-sujet : chaque étudiant rencontre le même contenu de physique deux fois, une fois dans une leçon d'apprentissage actif en classe et une fois par le biais du propre tuteur IA du cours, avec des pré- et post-tests autour de chacune, si bien que chaque apprenant sert de propre témoin et que les différences interindividuelles s'annulent.
 
 - **Forces :** l'inférence causale la plus forte ; une mesure nette des résultats ; le soutien à l'estimation des tailles d'effet et aux affirmations d'efficience.
 - **Limites :** coûteuses et lentes ; des conditions artificielles réduisent la validité écologique ; des outils d'IA évoluant rapidement datent rapidement les expériences ; de petits échantillons sous-alimentent la détection d'effets ; des contraintes éthiques sur le retrait d'outils utiles.
@@ -81,6 +88,12 @@ L'analyse bibliométrique est une autre famille quantitative : [[sriram-ethical-
 
 Les méthodes quantitatives et [[qualitative-research|qualitatives]] sont complémentaires — le travail quantitatif fournit l'ampleur et la puissance causale, le travail qualitatif fournit la profondeur et le sens. Les [[mixed-methods-research|conceptions mixtes]] les combinent. Voir [[research-methods-aied]] pour la comparaison complète des méthodes et les contrastes entre les conceptions expérimentales, par enquête, qualitatives et autres.
 
+## Idées fausses courantes
+
+- **« Une estimation en intention de traiter décrit ce que fait l'outil. »** Dans un essai randomisé par groupes sur l'accès où **environ 15% des étudiants des classes traitées ont un jour utilisé le tuteur**, l'estimation en intention de traiter reflète **l'effet d'introduire** l'outil plutôt que l'effet de l'utiliser. Une appropriation faible fait d'un chiffre en intention de traiter un énoncé sur la mise en œuvre, et le présenter comme un effet de l'outil surestime ce qui a été mesuré.
+- **« La performance à la tâche est le résultat. »** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomise **120 étudiants** entre étude assistée par IA et étude traditionnelle et mesure la **rétention** — la conception qui sépare la performance immédiate de l'apprentissage durable. Une étude qui s'arrête à la tâche a mesuré la quantité la plus facile.
+- **« Les comparaisons entre jeux de données sont simples. »** Un contrôle structurel de données éducatives synthétiques a constaté qu'**analyser chaque jeu de données à son propre seuil inversait un contraste qui tenait à un point de travail partagé**. Le signe de la comparaison dépendait d'un choix analytique, ce qui est le type de fragilité qu'un point de travail préenregistré existe pour prévenir.
+
 ## Concepts liés
 - [[research-methods-aied]]
 - [[qualitative-research]]
@@ -107,3 +120,7 @@ Les méthodes quantitatives et [[qualitative-research|qualitatives]] sont compl�
 - [[synthetic-educational-data-structural-fidelity-2026]] — Ce que les métriques de fidélité manquent : une vérification structurelle des données éducatives synthétiques
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Un essai randomisé par groupes sur l'accès exige une vérification de l'appropriation
 - [[sriram-ethical-ai-medical-education-bibliometric-2026]] — L'analyse bibliométrique comme autre famille quantitative : Sriram et al.
+
+- [[li-nursing-genai-interaction-self-regulated-learning-2026]] — Usage de l'intelligence artificielle générative et interaction éducative interpersonnelle chez les étudiants en soins infirmiers : l'apprentissage autorégulé comme médiateur statistique
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Conscience de la disruption technologique par l'IA, état d'esprit de conception et compétence d'innovation en design chez les étudiants en design

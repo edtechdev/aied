@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la biologie"
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-11-01T10:09:59-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -65,6 +70,12 @@ L'enseignement de la biologie se situe dans le domaine plus large des [[stem-edu
 - **Cultiver délibérément la pensée critique à l'ère de l'IA.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou et Nicolaou]] soutiennent que le scepticisme, la compréhension contextuelle et le raisonnement éthique doivent être enseignés explicitement, sous supervision humaine pour valider les productions de l'IA et prévenir les biais.
 - **Enseigner l'usage responsable aux côtés de l'apprentissage par défi.** Les [[chatgpt-math-biology-challenge-based-learning-2025|études sur l'apprentissage par défi]] constatent que les étudiants valorisent l'immédiateté mais s'inquiètent de la véracité et de l'érosion des compétences — actualisez les codes d'intégrité académique et l'éthique d'usage de l'IA en parallèle de l'adoption.
 - **Explorer le paysage des outils spécialisés.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton et Cotton]] recensent des outils (iNaturalist, Google Lens, bio-imagerie, prédiction du risque) que les enseignants peuvent déployer pour le travail de terrain, l'identification d'espèces et le soutien aux étudiants — choisissez des outils conçus à dessein plutôt que des chatbots généralistes lorsque cela convient.
+
+## Idées fausses courantes
+
+- **« Les étudiants ne peuvent pas distinguer une IA d'un auxiliaire d'enseignement humain. »** Une étude sur un auxiliaire virtuel de laboratoire a constaté que les **auxiliaires humains étaient plus exacts et plus efficaces que ChatGPT**, alors que les étudiants **préféraient la réponse de l'IA 40% du temps** et ne pouvaient **détecter la production de l'IA que 45% du temps**. La détection tenait presque du hasard et la préférence allait vers la source la moins exacte : les données de satisfaction ne peuvent donc pas remplacer la qualité.
+- **« La préférence indique la qualité. »** La même étude les sépare directement : la production préférée était la moins bonne. Toute évaluation d'un outil d'IA en biologie qui rapporte la satisfaction des étudiants sans mesure d'exactitude mesure la mauvaise quantité.
+- **« La littératie en IA doit être enseignée comme une matière à part. »** L'intégration de concepts d'apprentissage automatique **à un cours de biologie de lycée** a montré que le contexte biologique **soutenait** l'apprentissage de l'IA — une preuve en faveur de l'ancrage de la littératie en IA dans le programme plutôt que d'un module autonome ajouté par-dessus. La discipline donnait aux concepts quelque chose à quoi s'accrocher.
 
 ## Concepts liés
 

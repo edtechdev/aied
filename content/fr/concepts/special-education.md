@@ -1,7 +1,7 @@
 ---
 title: "Éducation spécialisée"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:50:00-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -9,13 +9,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -46,7 +50,6 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 **L'IA au service de la dyslexie, entre détection, soutien et apprentissage personnalisé.** Une [[meta-analysis-systematic-review|revue systématique]] interdisciplinaire de 2026 (Dabaghi, D'Urso & Sciarrone, guidée par PRISMA, 2018–2024, n = 72) cartographie la manière dont l'IA aide les élèves dyslexiques dans le cadre éducatif et constate que l'IA est utilisée pour la détection, le soutien assistif et l'apprentissage personnalisé — mais que ces axes évoluent en parallèle plutôt qu'en intégration, davantage poussés par l'opportunité technologique que par une théorie éducative consolidée. Les outils d'aide à l'éducation fondés sur l'apprentissage automatique se répartissent en cinq domaines (applications spécifiques, engagement, personnalisation, recommandation, soutien générique) mais privilégient la performance technique et la précision du classement tout en négligeant la validité écologique et le déploiement pratique en classe. La recherche sur la détection (EEG, oculométrie, modèles d'apprentissage automatique) privilégie l'intervention précoce et montre un potentiel diagnostique prometteur, mais exige souvent un équipement spécialisé et des environnements contrôlés, ce qui limite l'extensibilité et l'accessibilité dans les contextes scolaires ordinaires. Les défis ouverts incluent une validation expérimentale limitée, l'extensibilité, les préoccupations d'[[ethics|éthique]] et de confidentialité liées aux données sensibles des élèves, un soutien et une formation insuffisants des enseignants, et les obstacles linguistiques et culturels (la plupart des recherches ciblent des populations anglophones).
 
 **Le délestage cognitif chez les élèves ayant des troubles de l'apprentissage (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], une revue conceptuelle parue dans une série spéciale de *Learning Disability Quarterly* consacrée à l'IA pour les élèves présentant des troubles de l'apprentissage, recadrent l'usage de l'[[generative-ai|IA générative]] par les SWLDs à travers la grille du [[cognitive-offloading|délestage cognitif]]. Ils soutiennent que l'IA générative peut être une **aide compensatoire ou un raccourci** selon la manière dont les décisions de délestage interagissent avec les profils cognitifs et [[motivation|motivationnels]] des SWLDs (difficultés de fonctions exécutives et de mémoire de travail, charge cognitive accrue, buts de performance évitant l'effort, auto-efficacité académique plus faible et attentes exagérées envers l'IA générative) et avec la conception pédagogique. Pour la lecture et l'écriture, l'IA générative peut étayer l'accès (nivellement des textes, résumé, productions [[multimodal|multimodales]], planification, rédaction, rétroaction sur la révision) tout en préservant l'[[student-engagement|engagement]] d'ordre supérieur — mais un délestage excessif risque de court-circuiter les processus de compréhension, de planification et de contrôle, déjà fragiles chez ces apprenants, en favorisant une « [[metacognition|paresse métacognitive]] » et en aggravant les difficultés de littératie dans tous les domaines. L'article positionne les **[[guardrails|garde-fous]] pédagogiques** comme le facteur modérateur clé et recommande d'[[teacher-role|enseigner]] un délestage stratégique, de développer l'[[ai-literacy|littératie en IA]] afin de calibrer la confiance accordée aux outils, d'ordonnancer les expériences de maîtrise pour construire l'[[self-efficacy|auto-efficacité]], et d'aligner les tâches et l'évaluation sur les objectifs des IEP en privilégiant le développement des compétences plutôt que la substitution. Cet article étend la couverture de l'éducation spécialisée dans la base de connaissances à la dimension d'équité du délestage : l'outil même qui abaisse les obstacles à l'accès peut, faute de garde-fous, se substituer à la pratique dont les SWLDs ont le plus besoin.
-
 **Le contenu d'intervention généré par l'IA a besoin de contrôles en amont de la génération, et pas seulement d'une relecture.** [[adapted-stories-social-story-intervention-2026|Enkhjargal et al. (2026)]] ont constaté que les praticiens jugeaient l'outil Social Story co-conçu très utilisable (SUS 86,8) tout en qualifiant ses images de génériquement occidentales et son suivi comportemental de déconnecté du jugement clinique rattaché aux objectifs — des contraintes qu'ils auraient posées avant la génération.
 
 [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] part du matériel plutôt que de la conversation : un modèle vision-langage lit des photographies de Shoebox Tasks, conçues pour que l'objectif soit visible dans les objets, et les transforme en un plan qu'un humanoïde Nao exécute ou démontre, en rapportant l'exactitude du plan sur six tâches et aucune donnée d'apprenant.
@@ -60,6 +63,12 @@ L'éducation spécialisée est un domaine où la capacité de l'IA à personnali
 - **Utiliser l'IA pour réduire (et non creuser) les écarts de performance.** Les [[adhd-video-segmentation-computing-education|vidéos segmentées par l'IA]] ont éliminé l'écart de performance lié au TDAH — déployez une IA adaptative là où les données montrent qu'elle égalise les résultats, et non là où elle se contente d'automatiser.
 - **Placer au centre la conception incarnée portée par le handicap.** La recherche sur les [[embodied-string-learning-blindness-low-vision-musicians|musiciens aveugles et malvoyants]] montre que les stratégies non visuelles, portées par le handicap, surpassent les interfaces visuelles par défaut — construisez et adaptez l'IA avec l'expertise des apprenants handicapés.
 - **Se prémunir contre la marginalisation épistémique.** Les [[genai-minoritized-knowledges-disability|perspectives critiques]] avertissent que des données d'entraînement à dominance occidentale peuvent marginaliser les savoirs centrés sur le handicap — auditez les contenus et outils d'IA au regard de la justice épistémique, en lien avec l'[[equity-in-ai-education|équité]].
+
+## Idées fausses courantes
+
+- **« Une note d'utilisabilité valide un outil d'aide. »** Les praticiens ont jugé un outil Social Story co-conçu **très utilisable (SUS 86,8)** tout en qualifiant ses **images de génériquement occidentales** et son **suivi comportemental de déconnecté du jugement clinique rattaché aux objectifs**. Une utilisabilité élevée coexistait avec des défaillances substantielles : un score SUS n'est pas une validation de l'adéquation.
+- **« Les référentiels génériques disent comment un tuteur traite les cas d'éducation spécialisée. »** Sur **923 dialogues ancrés dans des cas** issus de la littérature en éducation spécialisée et en psychologie de l'éducation, **le meilleur de 11 modèles** satisfaisait un critère documenté — et **les comportements difficiles sont là où les référentiels de tuteurs s'arrêtent**. Les évaluations standard n'atteignent pas les cas pour lesquels les praticiens ont le plus besoin d'aide.
+- **« Les apprenants neurodivergents ont besoin d'aménagements, pas d'exigences de conception. »** [[neurodivergent-computing-students|Zastudil et al.]] ont constaté que les étudiants en informatique neurodivergents ont besoin de **devoirs structurés, d'équipes restreintes et stables et de définitions explicites des rôles** — des exigences générales de conception qui bénéficient à tous, et non des ajustements individuels accordés après diagnostic.
 
 ## Concepts liés
 

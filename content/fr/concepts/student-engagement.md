@@ -1,7 +1,7 @@
 ---
 title: "L'engagement des étudiants"
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-24T10:44:27-04:00"
+updated: "2026-11-01T10:10:38-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-11-01T09:06:35-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -58,7 +62,7 @@ Cet [[scaffolding|étayage]] a un pendant institutionnel doté d'une double voie
 
 - **La [[ai-feedback-quality|rétroaction par IA]] soutient l'activation comportementale.** L'expérience en laboratoire in situ menée sur un semestre par [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]] a montré que les étudiants recevant une rétroaction individuelle de GPT-4 sur des tâches ouvertes ont maintenu la participation la plus élevée sur huit tâches hebdomadaires (environ 50% à la fin, contre environ 30% pour les groupes recevant une rétroaction de l'enseignant ou des pairs) et ont écrit environ 29 caractères de plus par réponse — la rétroaction individuelle par IA a activé l'engagement à la fois sur la marge extensive (participation) et sur la marge intensive (effort par réponse), même si les étudiants ont évalué la [[peer-assessment|rétroaction par les pairs]] légèrement plus favorablement.
 
-- **Prédire l'usage académique de l'IA à partir des construits d'apprentissage.** Un cadre exploratoire d'[[reinforcement-learning|apprentissage automatique]] a analysé les données d'enquête de 166 étudiants universitaires afin d'identifier les construits liés à l'apprentissage associés à l'usage académique prévu de ChatGPT, en recourant à l'analyse SHAP pour préserver l'[[explainable-ai|interprétabilité]]. Les résultats éclairent la manière dont l'engagement, le soutien à l'apprentissage et d'autres construits façonnent l'intégration des outils d'IA dans le travail académique des étudiants.
+- **Prédire l'usage académique de l'IA à partir des construits d'apprentissage.** Un cadre exploratoire d'[[machine-learning|apprentissage automatique]] a analysé les données d'enquête de 166 étudiants universitaires afin d'identifier les construits liés à l'apprentissage associés à l'usage académique prévu de ChatGPT, en recourant à l'analyse SHAP pour préserver l'[[explainable-ai|interprétabilité]]. Les résultats éclairent la manière dont l'engagement, le soutien à l'apprentissage et d'autres construits façonnent l'intégration des outils d'IA dans le travail académique des étudiants.
 
 - **L'accès à un outil d'IA peut *abaisser* l'engagement mesuré, et les taux d'achèvement ne le montreront pas.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] ont randomisé l'accès au tuteur sur 13 blocs dans une grande université publique américaine et ont constaté que la participation enregistrée sur la plateforme avait chuté de 0.90 écart-type, les pages vues de 0.37–0.38 écart-type et les jours d'activité de 0.51–0.61 écart-type — tandis que la remise des devoirs et leur remise dans les délais n'étaient pas affectées. Cette dissociation constitue la leçon de mesure : un cours ne surveillant que l'achèvement des travaux n'aurait rien remarqué, car la réduction se situait dans l'activité de discussion, de quiz et d'interaction avec l'enseignant que la plateforme enregistrait. Les étudiants des sections traitées ont également déclaré poser moins de questions de contenu à l'enseignant (environ 57% contre 44%), si bien que le déclin coïncidait avec une substitution au contact humain plutôt qu'avec un désengagement du cours.
 
@@ -74,6 +78,8 @@ L'engagement est opérationnalisé par une gamme de signaux observables. **Les m
 - **Six familles d'applications d'IA et une mesure multi-méthodes :** la [[ai-student-engagement-online-learning-review-2025|revue systématique de Zhou (2025)]] portant sur 24 études de la base WoS cartographie six applications de l'IA à l'engagement — [[conversational-ai|agents conversationnels]] dans la conception de cours, reconnaissance des émotions, du visage et de la voix et oculométrie, apprentissage automatique pour l'analyse des données, soutien à l'interaction enseignant-étudiant, rétroaction et recommandations personnalisées, et robots à base d'IA dans les environnements d'apprentissage intelligents. Elle constate que l'intégration de multiples modalités et sources de données d'IA donne une vision plus exacte et en temps réel de l'engagement cognitif, émotionnel et comportemental que les approches fondées sur une source unique — ce qui renforce le problème du choix de métrique évoqué plus haut.
 
 Le choix de la métrique est définitoire : une étude qui mesure l'engagement en termes de *temps consacré à la tâche* peut conclure qu'un outil d'IA améliore l'engagement lorsque les étudiants passent plus de temps à interagir avec lui, tandis qu'une étude qui mesure l'engagement en termes de *traitement critique* peut aboutir à la conclusion inverse pour le même outil. C'est pourquoi la recherche de la base de connaissances distingue l'engagement (participation) de l'apprentissage (gain cognitif réel) — voir [[genai-performance-vs-learning|performance contre apprentissage]] — et pourquoi les métriques d'engagement doivent être validées par rapport à ce qu'elles prétendent mesurer.
+
+**L'auto-déclaration et les traces comportementales du même usage peuvent diverger presque complètement.** Keith, Wood et Posey (2026) ont mesuré deux fois les modes d'engagement avec l'IA chez les mêmes 171 étudiants : une fois avec un instrument auto-déclaratif de 29 items, et une fois en classant 1,353 tours de transcription. Aucune corrélation appariée de profil n'a survécu à la correction à |r| ≥ .30, la distance moyenne de variation totale était de .701 et seulement .002 plus proche qu'un réappariement aléatoire, et la composition comportementale augmentait la variance expliquée de .166 contre .031 pour l'auto-déclaration ; seuls les profils observés suivaient les scores de quiz, où les tours de recherche d'explication accompagnaient des scores plus élevés (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026]]). Une auto-déclaration de la manière dont un étudiant s'engage ne portait presque aucune information sur la manière dont cet étudiant s'engageait réellement, ce qui fait de l'avertissement sur le choix de métrique ci-dessus un résultat mesuré plutôt qu'une mise en garde.
 
 - **L'engagement comme signal fragile et situation-dépendant :** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] et [[genai-tutor-engagement-patterns|les profils d'engagement multi-institutions]] constatent que l'engagement varie selon le contexte, la tâche et l'apprenant — le même outil produit un engagement fort chez certains étudiants et un comportement superficiel de course à la production chez d'autres.
 
@@ -108,6 +114,35 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 - **La littératie en IA agit sur l'engagement par les ressources psychologiques (2026) :** une étude de médiation modérée portant sur 1,198 étudiants de premier cycle à Zhengzhou, en Chine ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]), a modélisé l'engagement comme un résultat de la [[ai-literacy|littératie en IA]] plutôt que comme un sous-produit de l'usage de l'outil. La littératie en IA prédisait l'engagement d'apprentissage directement, mais aussi indirectement en construisant le capital psychologique, la voie indirecte portant environ la moitié de l'effet total — médiation partielle, si bien qu'une compétence technologique ne se convertit en engagement qu'en partie par les ressources psychologiques qu'elle génère. L'engagement professionnel, variable fondée sur l'identité, modérait le lien entre capital psychologique et engagement sans avoir d'effet direct propre, et la conversion du capital psychologique en engagement était nettement plus forte chez les étudiants qui se voyaient s'orienter vers la profession. Ce schéma est l'exemple le plus clair du point évoqué plus haut selon lequel les caractéristiques de l'apprenant conditionnent la manière dont l'IA affecte l'engagement.
 
 - **La pratique pré-cours avec l'IA peut accroître la participation en présentiel (2026) :** une expérience de terrain préenregistrée menée auprès de 759 étudiants en MBA a montré que la préparation avec un partenaire de discussion vocal à base d'IA augmentait d'environ 31% les contributions volontaires lors des séances ultérieures, mais seulement après un deuxième usage ; un premier usage s'était accompagné d'une participation plus faible ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
+
+## Idées fausses courantes
+
+**« Si l'engagement a augmenté, l'apprentissage a augmenté. »** C'est l'inférence la plus coûteuse de la littérature sur l'engagement et l'IA, et la base de connaissances contient un contre-exemple net. [[domain-specific-chatbot-stem-enthusiasm-2025|Rücker et Becker-Genschow (2025)]] ont randomisé 195 classes de neuvième année vers un chatbot de mathématiques spécifique au domaine ou vers des supports de différenciation conventionnels pour une leçon sur la méthode de Héron. L'intérêt situationnel a augmenté substantiellement dans la condition chatbot (M = 2.63 vs 2.43, p = 0.00005, d de Cohen = 0.63) et l'acceptation était élevée sur les quatre dimensions du [[technology-acceptance-model|modèle d'acceptation de la technologie]] — pourtant la comparaison de performance pré-post n'a trouvé **aucune interaction groupe × temps significative** (F(1194) = 2.84, p = 0.094), et la charge cognitive extrinsèque était légèrement plus élevée. Intérêt et réussite ont progressé selon des calendriers différents. Un résultat d'engagement n'est pas une preuve d'[[learning-gains|apprentissage]].
+
+**« L'engagement est une seule chose, et le temps consacré à la tâche le mesure. »** Le construit est multidimensionnel et ses dimensions divergent par construction : un étudiant peut être comportementalement actif — cliquer, accumuler du temps — tout en restant cognitivement superficiel, acceptant passivement la production. Les mesures [[self-report-measures|auto-déclarées]] et celles issues des journaux d'interaction ne sont pas interchangeables, ce qui explique qu'une affirmation sur l'« engagement » soit ininterprétable tant que la dimension et l'instrument ne sont pas nommés.
+
+**« Plus d'activité comportementale signifie un engagement plus profond. »** Souvent l'inverse. L'engagement cognitif profond avec l'IA prédit l'apprentissage, tandis que l'engagement comportemental superficiel prédit la [[cognitive-offloading|dépendance excessive]] et le déplacement de l'apprentissage qui dominent la littérature sur les risques ; les [[polished-artifacts-fragile-engagement-2026|artefacts polis]] en sont le cas canonique, où une production propre signale de l'activité alors que la pensée n'a pas eu lieu. Des journaux d'interaction bien remplis sont compatibles avec le désengagement.
+
+**« L'IA rend l'apprentissage plus engageant par défaut. »** [[ai-availability-student-motivation|La disponibilité de l'IA et la motivation]] montre que le simple fait de savoir l'IA disponible peut réduire la valeur perçue d'un engagement coûteux, en particulier chez les apprenants novices. L'engagement est façonné par l'attente, la valeur et la compétence perçue autant que par les caractéristiques de l'outil, et il varie selon la tâche, le contexte et l'apprenant — l'engagement profond d'un étudiant est la course à la production d'un autre.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Choisissez votre mesure de résultat avant votre intervention. Si l'objectif est un apprentissage durable, mesurez la performance non assistée ; les enquêtes d'intérêt et de satisfaction ne vous diront pas si l'outil a fonctionné.
+- Traitez avec méfiance une hausse du plaisir lorsque la charge cognitive augmente aussi. Dans l'exemple randomisé en grappes, un intérêt plus élevé s'accompagnait d'une charge extrinsèque légèrement supérieure et d'aucun effet sur la réussite — agréable mais pas manifestement productif.
+- Distinguez l'étudiant qui travaille de celui qui regarde apparaître un artefact poli. Demandez le raisonnement, pas la production.
+
+**Pour les concepteurs**
+
+- Instrumentez la dimension que vous prétendez mesurer. Livrer une métrique de temps consacré à la tâche ou de clics et l'appeler engagement confond l'activité comportementale avec l'investissement cognitif, ce qui est précisément l'erreur que les données probantes signalent.
+- N'attendez aucun transfert entre types d'engagement. Augmenter l'intérêt situationnel n'implique pas d'augmenter l'engagement cognitif, si bien qu'optimiser pour l'intérêt seul peut accroître l'usage tout en laissant l'apprentissage plat.
+- Surveillez la dévalorisation de l'effort chez les novices en particulier, puisque la seule disponibilité peut abaisser la valeur perçue de l'effort.
+
+**Pour les chercheurs**
+
+- Rapportez la dimension et l'instrument, et évitez le nom nu. Étant donné que l'auto-déclaration et les journaux divergent, « l'engagement a augmenté » exige son opérationnalisation dans la même phrase.
+- Évitez d'inférer la réussite à partir de l'affect. Le résultat scindé de l'essai randomisé en grappes est le modèle pour rapporter les deux, y compris l'effet nul.
 
 ## Concepts liés
 
@@ -168,3 +203,4 @@ L'engagement des étudiants est en lien avec la [[motivation|motivation]] et la 
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — La littératie en IA stimule l'engagement directement et par le capital psychologique, effet amplifié par l'engagement professionnel (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench : le tutorat par IA et le tutorat humain produisent des gains d'apprentissage GRE équivalents
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — L'accès à un tuteur d'IA a réduit la participation enregistrée sur la plateforme de 0.90 écart-type tandis que la remise des devoirs restait stable (Liu et al. 2026)
+- [[eight-mode-ai-engagement-typology-2026]] — Les profils d'engagement avec l'IA auto-déclarés et observés ne correspondaient pas, et seul le comportement suivait les scores de quiz (Keith, Wood & Posey 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Les mesures auto-déclarées"
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-24T10:37:28-04:00"
+updated: "2026-11-01T10:13:25-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,13 +14,17 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-11-01T09:14:19-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -94,6 +98,8 @@ Les mesures de résultats héritent du même écart. [[pramod-agentic-ai-motivat
 
 L'intention est le cas le plus net de cet écart, car un même score d'intention peut recouvrir des comportements opposés. En réadministrant les items à 68 des 340 étudiants et en interrogeant huit d'entre eux, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi et Lu (2026)]] ont trouvé que la même intention déclarée recouvrait un usage orienté vers l'apprentissage, un usage orienté vers le raccourci et un usage mixte, les utilisateurs du raccourci invoquant un manque de confiance plutôt qu'un désintérêt.
 
+- **« Les étudiants déclarent ce qu'ils ont fait. »** La trace a contredit l'enquête dans une direction instructive. Dans une étude de dissertation où **15 étudiants sur 77 (19,5 %)** ont remis des dissertations sans avoir tapé un seul mot, l'appropriation perçue ne baissait que dans ce groupe de délégation totale, tandis que les rédacteurs qui avaient utilisé le modèle pour planifier ou relire déclaraient une appropriation au niveau des étudiants qui ne l'avaient jamais ouvert. L'auto-déclaration distinguait donc les extrêmes et aplatissait tout ce qui se trouvait entre eux, ce qu'une mesure de perception peut faire et ce qu'elle ne peut pas. [[jelson-students-chatgpt-essay-writing-2026|L'écart perception-comportement, mesuré au clavier]].
+
 ## La satisfaction et l'apprentissage perçu comme résultats
 
 La satisfaction est le résultat le plus fréquemment auto-déclaré dans ce corpus, apparaissant sur 63 pages d'articles. C'est aussi le plus faible comme substitut de l'apprentissage, et la base de connaissances contient des arguments explicites en ce sens.
@@ -103,7 +109,9 @@ La satisfaction est le résultat le plus fréquemment auto-déclaré dans ce cor
 - [[preferred-scaffolding-ai-mathematical-modeling|Une étude sur l'étayage]] soutient que l'utilité perçue, la facilité d'usage et la satisfaction immédiate ne devraient pas être traitées comme des indicateurs suffisants de l'efficacité du [[scaffolding|scaffolding]].
 - [[nie-personavlm-long-term-personalization-2026|Un travail sur la modélisation étudiante alignée sur la personnalité]] observe qu'optimiser pour la satisfaction des utilisateurs n'est pas la même chose qu'optimiser pour les résultats d'apprentissage, et que les deux peuvent se séparer.
 
-Le schéma à retenir : la satisfaction est sensible aux mauvaises choses lorsque l'apprentissage est l'objectif. Un système qui répond vite, acquiesce volontiers et réduit l'effort sera noté haut, et ces mêmes propriétés sont celles que la base de connaissances associe à une [[cognitive-offloading|lutte productive]] réduite et à une performance gonflée sur le travail assisté par l'IA. La satisfaction rapportée et l'apprentissage mesuré ne sont pas ennemis ; ils ne sont simplement pas des substituts, et traiter la première comme une preuve du second est le glissement le plus commun que documente cette page.
+Le schéma à retenir : la satisfaction est sensible aux mauvaises choses lorsque l'apprentissage est l'objectif. Un système qui répond vite, acquiesce volontiers et réduit l'effort sera noté haut, et ces mêmes propriétés sont celles que la base de connaissances associe à une [[desirable-difficulties|lutte productive]] réduite et à une performance gonflée sur le travail assisté par l'IA. La satisfaction rapportée et l'apprentissage mesuré ne sont pas ennemis ; ils ne sont simplement pas des substituts, et traiter la première comme une preuve du second est le glissement le plus commun que documente cette page.
+
+**Les mesures de perception sont plus nombreuses que les mesures de compétence dans la littérature sur l'apprentissage par investigation avec l'IA générative.** Dans une revue de 66 études, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] trouvent que les perceptions des utilisateurs constituent le domaine de résultats le plus rapporté (32 études, 48,5 %), suivi des résultats affectifs à 25, tandis que 8 études seulement (12,1 %) mesuraient des compétences d'investigation et que 4 d'entre elles comportaient une condition de comparaison. Les auteurs n'attribuent aucun niveau de certitude aux preuves : les dénombrements de perceptions décrivent donc ce qui a été demandé, non ce qui a été obtenu.
 
 ## Ce qui rend crédible un instrument d'auto-déclaration
 
@@ -113,6 +121,8 @@ Quatre propriétés séparent un sondage qui peut étayer une affirmation d'un q
 - **La fiabilité et la structure.** Les instruments validés par factorisation reviennent dans ce corpus, des [[teacher-education-ai-literacy-sdt-2026|mesures de littératie en IA des enseignants fondées sur la théorie de l'autodétermination]] aux échelles d'acceptation modélisées par le [[technology-acceptance-model|modèle TAM]] et des équations structurelles dans des [[acceptance-ai-english-tools-2026|études des outils d'apprentissage des langues assisté par IA]].
 - **L'invariance, lorsque des groupes sont comparés.** Une échelle qui se comporte différemment selon les populations ne peut étayer une comparaison. Le [[same-ai-different-pathways|travail par équations structurelles multigroupes]] rapporte des tests d'invariance de mesure (configurationnelle, métrique, scalaire) aux côtés de ses effets indirects, et une [[genai-thoughtless-use-self-directed-learning-2026|comparaison Suisse–Chine]] n'a trouvé que la valeur intrinsèque atteignant l'invariance métrique et non l'invariance scalaire — une limitation énoncée plutôt que cachée, et qui contraint ce que ses différences entre pays peuvent signifier.
 - **Une alternative de performance lorsque la compétence est le construit.** Les 20 items à choix multiples de GLAT existent précisément parce que l'auto-déclaration ne peut porter une affirmation de compétence.
+
+**La plupart des instruments de ce domaine rapportent la fiabilité et presque aucun ne rapporte la validité.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] citent la revue de Su et al. portant sur 36 études de littératie en IA, qui a trouvé que 63,8 % des outils rapportaient des preuves de fiabilité et moins de 20 % des preuves de validité. La même revue ne trouvait qu'un seul instrument propre à l'IA générative, le GAIAS à 27 items, parmi 50 cadres destinés au K-12. Qu'une échelle soit cohérente en interne ne dit rien sur la question de savoir si elle mesure le construit nommé dans son titre.
 
 ## Échantillonnage, réponse et non-réponse
 
@@ -148,6 +158,12 @@ Les réponses constructives de la base de connaissances sont constantes, et aucu
 - Soyez attentif aux dispositifs à source unique. Si les prédicteurs et les résultats proviennent tous deux du même questionnaire au même point temporel, les associations sont compatibles avec la variance de méthode commune aussi bien qu'avec la théorie proposée.
 - Traitez la satisfaction comme un signal de conception, non comme un résultat d'apprentissage. Une satisfaction élevée plus un apprentissage non testé est la configuration standard dans l'évaluation d'outils d'IA, et ce corpus montre les deux divergeant.
 - Préférez les études qui montrent leur travail : taux de réponse énoncés, limitations énoncées, et au moins une source de données probantes qui ne vient pas du fait de demander.
+
+## Idées fausses courantes
+
+- **« Les données d'enquête sont faibles mais à peu près non biaisées. »** La structure des réponses borne l'estimation avant même le biais : une enquête obtient **112 réponses à un taux de réponse de 31 %**, ou **90 réponses sur 572 invitations**. Le vivier de répondants est un sous-ensemble auto-sélectionné, le chiffre décrit donc ce sous-ensemble.
+- **« Les enquêtes sont une méthode minoritaire dans ce domaine. »** Une revue de cadrage de **394 études sur l'IA générative dans l'enseignement supérieur** trouve **les échelles d'enquête comme méthode d'évaluation la plus fréquemment rapportée (269 études, 68,3 %)**, devant les tests et les quiz. La preuve dominante du domaine est l'auto-déclaration.
+- **« L'auto-déclaration et les construits mesurés concordent. »** **La charge cognitive auto-déclarée ne différait pas significativement entre des profils de délégation allant de 80 % à 2 % de rédaction de dissertation**, alors que les plus gros délégataires différaient de façon mesurable. La mesure subjective restait plate là où le comportement variait d'un facteur quarante.
 
 ## Concepts liés
 
@@ -194,3 +210,6 @@ Les réponses constructives de la base de connaissances sont constantes, et aucu
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE : un outil d'autoréflexion préservant la confidentialité pour le délestage cognitif associé à l'IA
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Un instrument d'auto-évaluation de 15 items pour des étudiants de fin de primaire, explicite sur ce que la compétence perçue peut établir
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Revue montrant que 31 des 33 instruments de littératie en IA des enseignants reposent sur l'auto-déclaration et qu'aucun n'est fondé sur la performance
+- [[jelson-students-chatgpt-essay-writing-2026]] — L'appropriation perçue séparait la délégation de la dissertation entière de tout le reste, tandis que la trace séparait bien davantage (Jelson et al. 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — des perceptions rapportées dans 32 études sur 66, contre 8 qui mesuraient des compétences d'investigation
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 63,8 % des outils de littératie en IA rapportent des preuves de fiabilité et moins de 20 % des preuves de validité

@@ -41,7 +41,7 @@ Parcourez par type de connaissance plutôt que par mot-clé. Les principes énon
 
 ## À qui cela s'adresse
 
-Aux concepteurs pédagogiques et aux enseignants qui veulent une décision de conception avec ses preuves attachées, et aux chercheurs qui veulent un corpus cartographié de [[theories-and-frameworks|théories de l'apprentissage]] en termes de conception. Les équipes qui construisent des assistants de conception en [[generative-ai|IA générative]] peuvent l'utiliser comme référence structurée, puisque le site publie un paquet lisible par machine plutôt qu'un ensemble de pages web.
+Aux concepteurs pédagogiques et aux enseignants qui veulent une décision de conception avec ses preuves attachées, et aux chercheurs qui veulent un corpus cartographié de [[learning-theories|théories de l'apprentissage]] en termes de conception. Les équipes qui construisent des assistants de conception en [[generative-ai|IA générative]] peuvent l'utiliser comme référence structurée, puisque le site publie un paquet lisible par machine plutôt qu'un ensemble de pages web.
 
 ## Remarques et réserves
 

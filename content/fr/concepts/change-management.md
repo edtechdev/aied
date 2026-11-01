@@ -1,7 +1,7 @@
 ---
 title: "Conduite du changement"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T10:45:59-04:00"
+updated: "2026-11-01T10:17:06-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,13 +10,17 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-31T14:48:08-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -39,7 +43,9 @@ La littérature empirique montre systématiquement qu'une conduite du changement
 
 Un obstacle récurrent au changement est l'écart entre l'intention politique descendante et la réalité de la classe. L'[[genai-policies-higher-ed-computing|analyse comparative des politiques]] a constaté que, si 63% des politiques des universités américaines R1 encouragent l'usage de l'IA générative, la moitié des programmes de cours d'informatique l'interdisent purement et simplement, laissant les enseignants improviser des règles locales incohérentes. De même, l'[[ai-uk-higher-education-policy-2026|examen de la politique d'enseignement supérieur au Royaume-Uni]] documente une division entre établissements à dominante recherche et établissements à dominante enseignement, les orientations nationales étant critiquées pour leur manque de spécificité et de pouvoir de mise en application, tandis que l'[[institutional-governance-ai-universities|analyse de la gouvernance institutionnelle]] montre que les politiques à l'échelle de l'université mettent l'accent sur la sécurité des données et l'atténuation des risques alors que les politiques au niveau [[k-12|scolaire]] (lorsqu'elles existent) se concentrent sur la pédagogie — un désalignement structurel qui reste en deçà des attentes d'accréditation pour une intégration unifiée du [[curriculum-design|programme]], de la politique, de l'évaluation et des infrastructures.
 
-## Change management in AI education research
+Une réponse publiée à une étude en sciences infirmières rend explicite l'unité d'analyse : [[shankar-institutional-ecosystems-ai-nursing-2026|Shankar (2026)]] soutient qu'un cadre comme le [[tpack]] saisit les éducateurs individuels et laisse l'institution hors du modèle. Lu à travers la science de la mise en œuvre, l'adoption dépend de quatre niveaux à la fois : l'intervention, le cadre organisationnel interne, l'environnement politique externe et les individus concernés. La proposition concrète est d'opérationnaliser le Consolidated Framework for Implementation Research en une liste de contrôle de préparation couvrant l'engagement de la direction, les infrastructures disponibles et la capacité du corps enseignant avant qu'aucun outil ne soit adopté, ce qui déplace la question de qui a besoin de formation vers celle de savoir si l'organisation est prête à déployer.
+
+## La conduite du changement dans la recherche en IA en éducation
 
 Les travaux académiques convergent vers plusieurs leviers de conduite du changement. **Les cadres de gouvernance** fournissent des modèles fondés sur le consensus : l'[[crompton-governing-genai-higher-ed-delphi-2026|étude Delphi mondiale]] propose un cadre de gouvernance de l'IA générative en huit domaines (intégrité académique, usage éthique, [[privacy|vie privée]], accès équitable, littératie, intégration, [[human-in-the-loop-ai|supervision humaine]], soutien institutionnel) ainsi qu'un mécanisme de réexamen en six parties pour maintenir la politique à jour, positionnant les politiques comme des structures habilitantes au sein d'un écosystème institutionnel interconnecté. **Le leadership anticipateur** est le volet complémentaire : l'[[baroudi-anticipatory-governance-ai-higher-ed-2026|examen de cadrage]] constate que les établissements doivent passer d'une gouvernance réactive à une gouvernance fondée sur la prospective, le leadership habilitant et distributif augmentant l'adoption — or seuls 7% des établissements ont créé des postes de direction de l'IA de haut niveau alors que 49% considèrent l'IA comme une priorité stratégique.
 
@@ -48,8 +54,7 @@ Les travaux académiques convergent vers plusieurs leviers de conduite du change
 **Les études de cas de transformation institutionnelle** montrent comment ces leviers se déploient dans la pratique. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] analyse le changement stratégique de l'université Lingnan selon quatre dimensions — la montée en gamme de l'enseignement par l'IA, la priorisation des compétences humaines irremplaçables, le renouvellement des programmes et la préservation des valeurs éthiques et culturelles — illustrant comment un établissement de longue date peut conduire un changement [[generative-ai|sous l'effet de l'IA générative]] sans renoncer à son identité. Il formule la transformation comme intellectuelle plutôt que technocentrique, offrant aux dirigeants institutionnels un modèle par étapes pour imposer la littératie en IA tout en préservant la mission humaniste.
 
 **Les données probantes de la mise en œuvre dans les systèmes scolaires** déplacent la question du produit à adopter vers la manière dont il est utilisé. Le travail de terrain mené par [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]] — 32 classes dans 16 systèmes scolaires répartis sur sept États — a constaté qu'un même produit aboutissait bien ou mal selon la manière dont l'enseignant formulait l'objectif, observait le tableau de bord et agissait sur ce qu'il rapportait, des activités de dix minutes s'étirant sur toute une classe là où manquaient des routines et une place claire dans la progression pédagogique. Les produits qui précisaient les actions attendues de l'enseignant pendant l'usage étaient employés plus près de l'approche envisagée, et les enseignants avaient besoin d'un accompagnement soutenu plutôt que d'un déploiement unique ; là où les dirigeants connaissaient bien un produit, les enseignants réalisaient plus souvent les actions souhaitées.
-
-**La durabilité est une propriété de l'organisation, et non de l'outil.** Une évaluation randomisée sur quatre ans d'un chatbot de messagerie textuelle à IA non générative à la California State University, Northridge, rattache la pérennité à un rattachement administratif (supervision conjointe par l'Office of Undergraduate Studies et l'Office of the Registrar), à un spécialiste de la communication rédigeant chaque campagne pour une voix cohérente, et à une souplesse suffisante dans le mélange des messages pour absorber le choc de la COVID-19 — alors que le partage de données entre services pour la sensibilisation ciblée s'est révélé assez lourd pour que les campagnes ciblées tombent de 36% à 6% du total annuel ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell et Page 2026]], document de travail dont les constats de mise en œuvre reposent sur l'observation du système et des entretiens avec les administrateurs plutôt que sur l'essai). Son résultat d'engagement renforce la même leçon : les taux de désinscription annuels n'ont jamais dépassé 4% sur quatre ans, ce que les auteurs lisent comme une réceptivité soutenue par la manière dont l'établissement a adapté la mise en œuvre plutôt que par la technologie elle-même.
+**La durabilité est une propriété de l'organisation, et non de l'outil.** Une évaluation randomisée sur quatre ans d'un chatbot non génératif de soutien étudiant par messages à la California State University, Northridge ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell et Page, 2026]]) suit cette échelle de temps ; la durabilité est ce que l'évaluation devait éprouver, et non la fonctionnalité du produit.
 
 **La réforme de l'évaluation** est un champ de bataille central de la conduite du changement. L'[[ai-assessment-scale-reform|étude sur l'AI Assessment Scale]] montre la mise en œuvre du cadre entravée par des incohérences entre départements, des pressions de charge de travail et de l'incertitude, les personnels décrivant le processus comme « un peu de chaos et de folie ». L'[[ethical-ai-higher-ed-game-theory|modèle de jeu de coordination]] offre un compte formel de la raison pour laquelle les déclarations de politique échouent seules : l'usage de l'IA par les étudiants est un processus collectif de formation des normes, et de petits changements bien calibrés des incitations à l'évaluation réflexive peuvent déclencher des bascules rapides à l'échelle de la cohorte vers un usage responsable, alors que des incitations faibles ou désalignées laissent persister les pratiques opportunistes. Cela soutient une gouvernance menée par la pédagogie plutôt que par la surveillance. L'[[ai-adaptation-gap-higher-education-2026|enquête sur l'écart d'adaptation à l'IA]] ajoute une dimension de [[stakeholders|parties prenantes]] : les étudiants déclarent une intensité d'usage de l'IA et une utilité perçue plus élevées que le corps enseignant et le personnel administratif, alors que ces derniers font état de préoccupations plus fortes en matière d'[[academic-integrity|intégrité académique]] — et l'utilité perçue pilote la [[trust|confiance]] (β = 0.402) plus fortement que la clarté de la politique institutionnelle (β = 0.223).
 
@@ -66,10 +71,17 @@ Dans les établissements où la stratégie devance les infrastructures, le trava
 Une étude de cas institutionnelle retrace un arc de diffusion de dix ans en mathématiques de premier cycle, allant de l'initiative individuelle et des ateliers entre pairs à l'acquisition conjointe de licences par le corps enseignant et au financement central ([[flipped-classroom-ai-assessment-math-2026|Law, 2026]]).
 
 La refonte d'un cours a un coût que les établissements devraient budgéter plutôt que présumer : adopter un cours intégrant l'IA représentait environ 15 à 20 heures de travail de refonte par cours avant tout ajustement continu [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+- **L'engagement s'explique par la capacité et la disposition, non par l'enthousiasme.** Un cadre pour la pratique de l'évaluation soutient qu'une adoption inégale de l'IA générative reflète quatre conditions — la capacité, la disposition, et les soutiens et contraintes qui les entourent — plutôt qu'une résistance, et qu'un atelier unique construit un vocabulaire mais pas un jugement ([[aalhe-capacity-disposition-genai-assessment-2026|Miller, 2026]]). Nommer la condition manquante indique à un établissement s'il doit former, doter en ressources ou changer l'incitation.
 
 ## Connections to other concepts
 
 La conduite du changement est le complément institutionnel de l'intégration au niveau de la classe. Elle opérationnalise les conditions systémiques — gouvernance, développement du corps enseignant, [[student-engagement|engagement]] des parties prenantes et garde-fous en matière d'équité — qui permettent à l'innovation pédagogique de prendre racine, reliant la conception des politiques de l'[[educational-policy-ai|IA dans l'éducation]] à la [[governance|gouvernance]], à l'[[educational-development|développement pédagogique]] et aux résultats en matière d'[[equity-in-ai-education|équité]].
+
+## Idées fausses courantes
+
+- **« L'intention stratégique crée la capacité. »** Seuls **7 % des établissements** ont créé des postes de direction senior en IA alors que **49 % considèrent l'IA comme une priorité stratégique**. L'écart est entre la déclaration et la structure, et c'est l'échec récurrent de la conduite du changement en IA.
+- **« Adopter un outil d'IA est un événement. »** **La durabilité est une propriété de l'organisation, non de l'outil** — une évaluation randomisée sur quatre ans d'un chatbot non génératif par messages à la California State University, Northridge, illustre l'échelle de temps. L'évaluation a duré quatre ans parce que la durabilité était ce qu'il fallait tester.
+- **« Les établissements doivent réagir plus vite, pas anticiper. »** Le **leadership anticipatoire** est le fil complémentaire : la [[baroudi-anticipatory-governance-ai-higher-ed-2026|revue de cadrage]] constate que les établissements doivent passer d'une gouvernance **réactive à une gouvernance fondée sur la prospective**. Réagir avec compétence à une technologie déjà arrivée est précisément ce que les preuves documentent comme un échec.
 
 ## Concepts liés
 

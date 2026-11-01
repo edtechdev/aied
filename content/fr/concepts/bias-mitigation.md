@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: "Réduction des biais"
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-10-24T10:43:38-04:00"
+updated: "2026-11-01T10:11:15-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-10-01T09:59:06-04:00"
+source_updated: "2026-11-01T09:13:16-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -38,6 +42,10 @@ ai_assist:
 
 La réduction des biais importe parce que l'[[ai-education|IA en éducation]] n'est pas neutre : les systèmes entraînés sur des données de langue et de culture dominantes peuvent désavantager systématiquement les apprenants marginalisés, depuis la notation par IA qui pénalise les rédacteurs non natifs jusqu'aux tuteurs [[llm|LLM]] qui répondent différemment selon les groupes. Le biais est une préoccupation transversale qui apparaît dans la [[automated-assessment|notation automatisée]], l'[[automated-essay-scoring|notation automatisée de dissertations]], le [[knowledge-tracing|traçage des connaissances]], les systèmes de recommandation et les tuteurs en [[conversational-ai|IA conversationnelle]].
 
+[[solyst-youth-systematic-evaluation-genai-2026|Solyst et coll. (2026)]] montrent que la réduction des biais peut s'enseigner et pas seulement s'ingénier : des jeunes invités à interroger les productions d'un modèle texte-image ont produit des évaluations systématiques de la représentation, alors que leurs demandes d'images de personnes penchaient vers le blanc avant l'intervention.
+
+L'équité est la dimension la moins examinée de la littérature comparant notation par IA et notation humaine : sur douze études recensées, dix étaient muettes sur le biais démographique, linguistique ou social, et le genre était la seule dimension testée ([[xu-recentering-humans-ai-assisted-writing-scoring-2026|Xu, Lu et Abdi, 2026]]).
+
 ## Sources of bias
 
 La recherche de la base de connaissances documente l'entrée du biais à de multiples points de la chaîne de traitement :
@@ -53,6 +61,8 @@ La recherche de la base de connaissances documente l'entrée du biais à de mult
 - **Les indices d'identité des avatars reproduisent les biais hors ligne.** Sur deux expériences (N = 396), les avatars blancs — et, dans les contextes STIM, les avatars d'hommes asiatiques — ont été jugés plus crédibles et plus compétents, alors que les avatars de femmes noires âgées étaient pénalisés ; les tâches STIM et procédurales amplifiaient le biais et les tâches réflexives et interpersonnelles l'atténuaient ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis et Kyriakidou-Zacharoudiou (2026)]]).
 - **La non-discrimination comme valeur éthique centrale.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], une [[meta-analysis-systematic-review|revue systématique]] de 25 articles, identifient la non-discrimination (définitions mobilisant les termes biais/discrimination/diversité) comme l'une des six principales valeurs éthiques pour l'[[ai-education|IA en éducation]], aux côtés de la gestion des données, de la supervision humaine, de la bienveillance, de l'explicabilité et de l'adéquation éducative. La revue note que ces valeurs sont étroitement liées et peuvent entrer en conflit — par ex. non-discrimination contre gestion des données — produisant des dilemmes éthiques, et qu'aucune norme sur la non-discrimination ne s'adresse directement aux utilisateurs finaux, laissant les apprenants largement passifs dans la littérature éthique.
 - **Le biais d'allocation dans la constitution d'équipes assistée par IA.** [[genai-social-bias-software-engineering-education-2026|Entezami et al. (2026)]] montrent le biais entrant dans une classe de tâches distinctes de la notation et de la rétroaction : trois LLM répartissant des classes d'ingénierie logicielle de 28 étudiants en quatre équipes ont orienté les hommes au moins 80% moins souvent que les femmes vers la Conception d'interface plutôt que vers le Développement central (OR GPT-5.2 < 0.01), et la nationalité décalait les répartitions indépendamment du mérite. Fournir les compétences réduisait le biais sans le supprimer — 99.2% des affectations fondées sur les compétences correspondaient à l'une des deux équipes de vérité de terrain, mais le genre décidait encore entre des options également valables (OR 2.53 GPT-4.1, 2.81 GPT-5.2, 1.43 DeepSeek) — et la génération d'images parallèle penchait vers des images masculines et à peau claire pour les personnes seules (V de genre = 0.64 et 0.65 ; V de teinte de peau = 0.57 et 0.61) alors que les images à plusieurs personnes restaient comparativement équilibrées.
+
+**Une exactitude agrégée peut masquer un modèle incapable de repérer les étudiants en difficulté.** [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et coll. (2026)]] ont entraîné trois familles de modèles sur une même cohorte estonienne et l'ont scindée de deux façons. Sur l'ensemble équilibré, les familles étaient comparables. Sur la partition déséquilibrée, avec 125 étudiants sous le premier quartile contre 328 au-dessus, les arbres de décision, un réseau bayésien et des forêts aléatoires atteignaient 8 %, 12 % et 16 % de rappel pour les élèves faibles à 80 % de précision, et seul le modèle neuro-symbolique dépassait 50 %.
 
 ## Mitigation approaches
 
@@ -90,6 +100,12 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - **Séparer la compréhension de la langue dans la notation :** la notation automatisée ne doit pas pénaliser les rédacteurs non natifs ou moins fluides pour la compréhension conceptuelle qu'ils démontrent.
 - **Rendre les systèmes explicables :** la transparence sur les décisions de l'IA est essentielle pour détecter et corriger les biais.
 - **Combiner réduction technique et humaine :** associer les algorithmes de débiaisement à une supervision avec intervention humaine, en particulier pour les cas à enjeux élevés ou peu confiants.
+
+## Idées fausses courantes
+
+- **« Le biais est un problème de notation et de rétroaction. »** Le biais entre dans des **classes de tâches extérieures à la notation** : trois LLM répartissant des **classes d'ingénierie logicielle de 28 étudiants en quatre équipes ont orienté les hommes au moins 80 % moins souvent** que la distribution de référence. La constitution d'équipes portait un biais d'une ampleur comparable à celle de la notation.
+- **« Fournir la compétence pertinente supprime le biais. »** Fournir les compétences **réduisait le biais sans le supprimer** : **99,2 % des affectations fondées sur les compétences correspondaient à l'une des deux équipes de vérité de terrain, mais le genre décidait encore entre des options également valables (OR 2.53)**. Une correspondance quasi parfaite sur la tâche coexistait avec un effet de genre, si bien que l'exactitude sur le critère principal n'est pas une preuve d'équité.
+- **« Une seule approche de réduction suffit. »** La recherche illustre des **stratégies complémentaires** — dont la modélisation soucieuse d'équité — parce que le biais qui entre au moment de la formation n'est pas traité par un correctif visant le texte de sortie.
 
 ## Concepts liés
 
@@ -135,3 +151,4 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — De la classification des sentiments à une rétroaction exploitable et responsable : revue de cadrage et carte des données probantes sur le TAL dans l'évaluation de l'enseignement par les étudiants, 2015–2026
 - [[genai-social-bias-software-engineering-education-2026]] — L'IA générative peut renforcer les biais sociaux dans l'enseignement du génie logiciel
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - sous déséquilibre de classes, trois familles de modèles ne parvenaient pas à identifier les élèves faibles alors que les métriques équilibrées semblaient saines

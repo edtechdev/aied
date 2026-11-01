@@ -1,7 +1,7 @@
 ---
 title: "La vie privée"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:45:41-04:00"
+updated: "2026-11-01T10:14:29-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,13 +11,17 @@ confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 connected_resources: [drawsplat]
 translation_of: concepts/privacy
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -27,7 +31,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **La vie privée (Privacy)** — la protection des données, de l'identité et de l'[[agency|autonomie]] des étudiants dans les environnements d'apprentissage augmentés par l'IA. Les préoccupations relatives à la vie privée s'intensifient à mesure que les systèmes d'IA collectent des données comportementales de plus en plus fines à des fins de [[personalized-learning|personnalisation]], d'[[learning-analytics|analytique]] et d'[[student-modeling|enseignement adaptatif]]. Elle constitue une contrainte éthique et réglementaire centrale pour l'[[ai-education|IA en éducation]] : presque tout outil d'IA qui personnalise, prédit ou évalue dépend de données d'apprenant, ce qui fait de la minimisation des données, du consentement, de la transparence et de la sécurité des exigences de conception fondamentales plutôt que des réflexions après coup.
+> **La vie privée (Privacy)** — la protection des données, de l'identité et de l'[[agency|autonomie]] des étudiants dans les environnements d'apprentissage augmentés par l'IA. Les préoccupations relatives à la vie privée s'intensifient à mesure que les systèmes d'IA collectent des données comportementales de plus en plus fines à des fins de [[personalized-learning|personnalisation]], d'[[learning-analytics|analytique]] et d'[[adaptive-learning|enseignement adaptatif]]. Elle constitue une contrainte éthique et réglementaire centrale pour l'[[ai-education|IA en éducation]] : presque tout outil d'IA qui personnalise, prédit ou évalue dépend de données d'apprenant, ce qui fait de la minimisation des données, du consentement, de la transparence et de la sécurité des exigences de conception fondamentales plutôt que des réflexions après coup.
 
 ## Questions à examiner
 
@@ -57,6 +61,8 @@ La vie privée est la condition préalable d'une IA digne de confiance en éduca
 
 - **La base de données probantes sur la surveillance est mince en matière d'éthique.** Une revue de 80 études a montré que 35% ne divulguaient pas leur jeu de données, 40% évaluaient un seul modèle, 30% ne pouvaient être reproduites et que seulement 25% traitaient de questions éthiques ; les faux positifs — signaler un comportement normal — demeurent un risque de fiabilité central ([[automated-online-exam-proctoring-decade-review-2026|Malhotra et Chhabra (2026)]]).
 
+- **Les interfaces de chat divulguent la conversation elle-même.** En auditant 42 plateformes de chat par IA, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et coll. (2026)]] ont constaté que 21 envoyaient les titres des conversations à des traceurs tiers, et que les sept plateformes éducatives recevaient en moyenne environ 367 requêtes de traceurs chacune, cinq divulguant du contexte.
+
 ## La sécurité des enfants et les protections du primaire et du secondaire
 
 Les contextes du [[k-12|primaire et du secondaire]] exigent des garanties de protection de la vie privée plus fortes parce que les apprenants sont mineurs. Cela étend la vie privée au-delà de la protection des données vers la [[pedagogical-safety|sécurité pédagogique]] : les outils que les enfants utilisent doivent non seulement protéger leurs données mais aussi les protéger du préjudice. La [[child-safety-genai|recherche sur la sécurité des enfants]] montre que les classificateurs de sécurité généralistes échouent souvent à détecter les invites non sûres liées à l'éducation émanant d'enfants, avertissant que les écoles ne peuvent pas présumer que les garanties standard des modèles protègent les utilisateurs plus jeunes — ils ont besoin d'une évaluation spécifique à l'enfance, de tests ancrés dans des incidents et d'une [[human-in-the-loop-ai|supervision humaine]]. Ce cadrage rattache la vie privée à l'[[equity-in-ai-education|équité]] : qui est protégé par la sécurité et les pratiques de confidentialité par défaut reflète dont la sécurité et l'autonomie un système traite comme non négociables.
@@ -71,6 +77,13 @@ Les contextes du [[k-12|primaire et du secondaire]] exigent des garanties de pro
 ## Connexions
 
 La vie privée se rattache à l'[[learning-analytics|analytique de l'apprentissage]] (le collecteur de données), à la [[personalized-learning|personnalisation]] (la consommatrice de données), au [[k-12|primaire et secondaire]] (protections renforcées), à l'[[ethics|éthique]] (le cadre normatif), à la [[regulation|réglementation]] (exigences légales), à la [[governance|gouvernance]] (responsabilité institutionnelle), à l'[[equity-in-ai-education|équité]] (qui est protégé), à la [[pedagogical-safety|sécurité pédagogique]] (protection de l'enfance) et à la [[educational-policy-ai|politique éducative]] (réponses politiques). C'est l'une des contraintes fondamentales que tout déploiement responsable de l'IA en éducation doit satisfaire — la raison pour laquelle l'IA digne de confiance, dans le cadrage de la base de connaissances, commence par des données dignes de confiance.
+
+## Idées fausses courantes
+
+- **« La surveillance ne capture qu'une tranche de données limitée et bien comprise. »** Un inventaire de ce que les systèmes de [[remote-proctoring|surveillance]] capturent réellement énumère **les images faciales, les pièces d'identité, les scans de la pièce y compris des balayages à 360 degrés, l'audio de microphone, la reconnaissance faciale** et davantage. La portée est plus large que ce que la plupart des processus de consentement décrivent.
+- **« La littérature sur la surveillance établit l'éthique de la surveillance. »** Une revue de **80 études** a constaté que **35% ne divulguaient pas leur jeu de données, 40% évaluaient un seul modèle, 30% ne pouvaient être reproduites et seulement 25%** atteignaient le seuil de déclaration. La base de données probantes est mince précisément sur les questions auxquelles un établissement doit répondre avant de déployer.
+- **« La vie privée est une case à cocher de conformité plutôt qu'une contrainte de conception. »** Presque tout outil d'IA qui personnalise, prédit ou évalue dépend de données d'apprenant, ce qui fait de la minimisation des données une décision de conception. Un outil qui exige ces données n'a pas un réglage de confidentialité optionnel ; il a une dépendance aux données que la conception a choisie.
+- **La conscience des pratiques de données ne découle pas du fait de les voir.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] a constaté que **66% des 47 élèves de septième année** choisissaient l'option la moins protectrice pour des chatbots lisant leurs écrits, et que **47%** écartaient l'influence algorithmique comme « juste amusante » — mesuré **un mois après** une leçon où la classe avait vu son propre comportement journalisé projeté en direct, avait réagi en le trouvant « effrayant », et où plusieurs élèves étaient restés pendant la récréation pour continuer à utiliser la plateforme. Un enseignement de la vie privée qui rend le mécanisme visible sans rendre son coût concret laisse la posture inchangée. L'auteur note que les scores faibles sont peut-être ici **plus fiables que les scores élevés**, puisque aucune réponse socialement attendue n'existe pour ces items, alors que la responsabilité et la gouvernance invitent à la réponse qui sonne juste.
 
 ## Concepts liés
 
@@ -89,6 +102,7 @@ La vie privée se rattache à l'[[learning-analytics|analytique de l'apprentissa
 - [[student-support-and-success]] — dossiers des étudiants, partage de données entre services, et modélisation fédérée du risque
 
 ## Articles liés
+- [[bekos-contextual-leakage-ai-chat-platforms-2026]] — Un penny pour vos invites : la fuite contextuelle dans les plateformes de chat par IA (Bekos et coll. 2026)
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Analytique de l'apprentissage fédérée et explicable pour la modélisation préservant la vie privée du risque académique (Villegas-Ch et coll. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — De l'analytique de l'apprentissage aux interventions éducatives : facilitateurs d'interventions fondées sur une analytique digne de confiance (Svetec, Divjak et Kadoić 2026)
 - [[automated-online-exam-proctoring-decade-review-2026]]

@@ -1,7 +1,7 @@
 ---
 title: "Sécurité pédagogique"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:18:40-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,17 @@ Concevez la sécurité pédagogique comme une exigence mesurable et consciente d
 ### Connexions aux concepts liés
 
 La sécurité pédagogique est la couche protectrice qui relie le [[hallucination-risk|risque d'hallucination]], la [[rag|RAG (génération augmentée par récupération)]], l'[[k-12|enseignement primaire et secondaire]], l'[[ethics|éthique]], la [[governance|gouvernance]], la [[regulation|réglementation]] et les [[llm|grands modèles de langue]] aux préoccupations au niveau de l'interaction que sont la [[trust|confiance]], l'[[scaffolding|étayage]], la [[metacognition|métacognition]] et l'[[self-regulated-learning|apprentissage autorégulé]]. Elle opère par l'[[llm-training-and-fine-tuning|entraînement]] et l'[[reinforcement-learning|apprentissage par renforcement]], dépend de l'[[bias-mitigation|atténuation des biais]] et de l'[[equity-in-ai-education|équité]], et est motivée par les préjudices catalogués dans l'[[ai-misuse-learning-harm|usage abusif de l'IA et les préjudices pour l'apprentissage]] et dans les [[hazra-safetutors-pedagogical-safety-2026|taxonomies de préjudices des tuteurs]].
+- **Le préjudice envers les enfants entre rarement par le modèle.** Dans 1 331 incidents liés à l'IA et concernant des enfants et codés, le préjudice se concentrait dans les catégories représentationnelle, liée à la dignité et psychologique, et co-occurrent avec des défaillances de déploiement, de gouvernance et d'usage plutôt qu'avec des défauts de modèle, de sorte que des filtres par production manquent la voie dominante ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao et al. (2026)]]).
+
+## Idées fausses courantes
+
+**« Les filtres de toxicité et la résistance au jailbreak rendent un tuteur sûr. »** La sécurité conventionnelle des [[llm|LLM]] est nécessaire mais non suffisante pour l'éducation. Elle traite ce qu'un modèle va *dire* ; la sécurité pédagogique traite ce que l'interaction fait à l'apprenant, y compris des défaillances qu'aucun classifieur de contenu ne voit. Un tuteur peut passer tous les contrôles de contenu tout en érodant systématiquement l'apprentissage ou en ancrant les inégalités.
+
+**« Si un système se comporte bien dans un seul échange, il est sûr à l'usage. »** Le risque s'accumule au fil des tours : les taux de préjudice passaient d'environ **18% dans les évaluations à un seul tour à environ 78% à plusieurs tours**. Les références à un seul tour rapportent donc un chiffre quatre fois trop rassurant par rapport à l'interaction que vivent réellement les étudiants, et une suite de tests de robustesse bâtie sur des invites isolées certifiera un système qui échoue en dix minutes de session.
+
+**« Le tuteur le plus sûr est celui qui refuse le plus. »** Un système qui « refuse uniformément » peut encore ancrer les inégalités, ce qui est la seconde moitié de la description des défaillances silencieuses de cette page. Le mode de défaillance n'est pas seulement un tuteur qui répond correctement et érode l'apprentissage ; c'est aussi un tuteur dont les refus répartissent le soutien de façon inégale entre les étudiants, et une politique de refus systématique échange un risque visible contre un risque invisible.
+
+**« Tout travail de sécurité au niveau du modèle est une mesure de relations publiques. »** Une partie est mesurable. Les travaux d'[[llm-unlearning-math-privacy|oubli mathématique]] appliquent un oubli fondé sur le gradient pour retirer les informations identifiantes et les contenus nuisibles, rapportant une production d'informations personnelles réduite à **0,1%** et des taux de toxicité à **0,0%** tout en préservant la capacité. Les contrôles au niveau du modèle sont une couche d'une défense en profondeur — insuffisants seuls, et pas rien.
 
 ## Concepts liés
 

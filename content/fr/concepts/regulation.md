@@ -1,7 +1,7 @@
 ---
 title: Réglementation de l'IA dans l'éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-11-01T10:18:49-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-26T08:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,12 @@ Un audit des politiques de confidentialité des plateformes EdTech donne à cett
 ### Connexions
 
 La réglementation se relie à l'[[educational-policy-ai|évaluation de la politique éducative de l'IA]], à la [[governance|gouvernance]], à l'[[ethics|éthique]], à la [[privacy|confidentialité]], à la [[pedagogical-safety|sécurité pédagogique]] et à l'[[academic-integrity|intégrité académique]]. C'est la couche institutionnelle qui façonne le fonctionnement de toutes les autres pratiques d'éducation à l'IA. La réglementation contraint et rend possible à la fois : elle fixe les frontières de l'usage acceptable de l'IA tout en créant les conditions — par l'[[ai-literacy|littératie en IA]] et les attentes d'usage responsable — d'une intégration [[equity-in-ai-education|équitable]] et sûre.
+
+## Idées fausses courantes
+
+- **« La politique institutionnelle sur l'IA est là où vivent les règles. »** L'enquête de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson et Rainie (2026)]] auprès de **1 057 enseignants américains** mesure à quel point les règles effectives se situent sous la couche institutionnelle : **87 % des répondants rédigeaient leur propre orientation**. La politique opérante est largement rédigée par les enseignants, ce qui signifie que la couche institutionnelle documentée décrit moins qu'elle n'en a l'air.
+- **« Rédiger une politique couvre la surface à risque. »** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] montre pourquoi l'outillage d'évaluation appartient à l'ensemble régulé : lors d'un test de red team, **deux des cinq injections d'invite indirectes** cachées dans une copie ont réussi. Une règle qui nomme les outils mais pas les surfaces d'injection laisse l'exploit sans réponse.
+- **« Les systèmes agentiques sont couverts en étendant les règles existantes. »** Dans une analyse documentaire de **12 universités**, [[wong-sun-agentic-ai-assessment-governance-2026|Wong et Sun (2026)]] constatent qu'**aucune politique comparée ne traitait d'un agent se connectant à un système de gestion de l'apprentissage**. Le fossé de gouvernance est structurel : les catégories existantes n'ont pas de case pour un acteur autonome disposant d'identifiants.
 
 ## Concepts liés
 

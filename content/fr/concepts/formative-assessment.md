@@ -1,7 +1,7 @@
 ---
 title: L'évaluation formative
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T10:52:00-04:00"
+updated: "2026-11-01T10:15:44-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,13 +11,17 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-10-17T03:49:06-04:00"
+source_updated: "2026-10-26T13:35:09-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -35,6 +39,8 @@ ai_assist:
 ## Introduction
 
 L'évaluation formative est centrale dans l'[[ai-education|IA en éducation]] parce qu'elle se situe à la jonction de l'[[assessment|évaluation]] et de la [[feedback|rétroaction d'apprentissage]]. Sa finalité est de boucler la boucle : faire apparaître ce que les étudiants savent et ignorent, et fournir une rétroaction sur laquelle ils peuvent agir pour s'améliorer. L'IA rend cela réalisable à grande échelle — générer des items, noter les réponses et délivrer une rétroaction individualisée — mais la recherche de la base de connaissances montre que la qualité varie considérablement selon les types d'items, et que la rétroaction n'aide que lorsque les étudiants la mettent effectivement en œuvre.
+
+[[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] apportent la preuve qu'un système automatisé d'écriture peut servir une finalité formative authentique : la progression apparaissait dans la qualité de la révision et pas seulement dans les scores de caractéristiques, mais uniquement là où les enseignants intégraient la rétroaction à la discussion de classe.
 
 ## Les items formatives générés par l'IA
 
@@ -95,7 +101,6 @@ L'évaluation formative en éducation par l'IA rejoint le processus d'apprentiss
 - **L'apprentissage autorégulé :** la rétroaction formative soutient l'[[self-regulated-learning|apprentissage autorégulé]] lorsque les étudiants suivent leurs progrès et s'ajustent ; la rétroaction de l'IA devrait cultiver le [[ai-internal-feedback-evaluative-judgments|jugement évaluatif]], et non le déplacer.
 - **La notation automatisée atteint certaines phases du cycle, et non toutes :** [[chen-automated-scoring-interpreting-self-regulated-learning-2026|Chen & Liu (2026)]] ont mené une quasi-expérimentation de 14 semaines dans laquelle 46 étudiants en interprétation soumettaient des prestations hebdomadaires à un système de notation automatisée qui renvoyait une note immédiate, une transcription, les erreurs signalées et une prestation de référence, tandis qu'un groupe témoin ne recevait qu'une rétroaction de l'enseignant à l'échelle de la classe. Le groupe automatisé s'est plus amélioré dans l'ensemble (d = 1.03), mais le gain est resté là où le déficit était décomposable, le signal fiable et l'échelle sensible : l'exactitude linguistique et la cohérence logique ont augmenté, tandis que la fidélité de l'information (accord avec les évaluateurs humains r = 0.12) et la fluidité de la présentation n'ont pas bougé. L'[[self-regulated-learning|apprentissage autorégulé]] était inégal de manière concordante, l'exécution et le suivi étant corrélés aux gains de note (r = 0.42), tandis que la planification et la motivation émotionnelle se situaient près du point médian de l'échelle, et plusieurs étudiants ont différé leur engagement après de faibles notes au lieu d'en analyser les causes. Le système a atteint la phase de performance du cycle, et non la planification qui la précède.
 
-- **L'évaluation continue recadre le dossier formatif lui-même.** L'architecture de référence AIM-CAI (un article de position, et non une implémentation) propose de remplacer l'évaluation épisodique comme base de preuves primaire par une infrastructure à six couches : génération de preuves à travers les plateformes, sérialisation préservant le contexte de la source, traduction sémantique médiée par l'IA, interprétation psychométrique, profils de compétence longitudinaux, et gouvernance fédérée. Son tableau de changements explicite la transformation : la rétroaction par devoir devient une rétroaction longitudinale soutenant le conseil et la réflexion ; les notes deviennent des profils de compétence évolutifs ; les certifications deviennent des relevés de développement transparents. La couche de gouvernance est l'insistance de l'article — sept tensions nommées (interopérabilité contre autonomie locale, vie privée contre utilité, agence de l'apprenant contre automatisation prédictive, surveillance contre soutien, etc.), chacune rattachée à des risques et à des réponses, avec l'avertissement qu'une inférence continue non gouvernée privilégie les normes culturelles dominantes. La revendication de nouveauté est intégrative : les composantes existent ; la contribution est l'architecture et la carte de gouvernance. ([[mcnamara-aim-cai-continuous-assessment-2026]])
 - **Du diagnostic automatisé à la pratique générée :** [[zhu-adaptive-teaching-assistance-genai-big-data-2026|Zhu, Luo & Li (2026)]] ont câblé l'alignement audio-notes, la quantification des erreurs et une couche d'optimisation par politique proximale dans une seule boucle fermée pour l'éducation musicale, transformant les signaux d'erreur rythmique (rappel 91.2%, spécificité 98.4%) en récompenses qui orientent les pistes de pratique générées, et rapportent une interaction significative Groupe × Temps favorable au groupe doté du système (beta = 0.52) sur une quasi-expérimentation de 12 semaines portant sur 120 étudiants en musique de premier cycle. Les auteurs présentent cela comme une faisabilité technique, et la lecture pratique est celle d'un triage plutôt que d'une évaluation : une précision de 89.7% signifie qu'environ une erreur rythmique signalée sur dix est une fausse alerte, et les évaluateurs experts de l'étude ont jugé le soutien à l'expression musicale le domaine le plus faible, si bien que les boucles automatisées conviennent aux exercices techniques tandis que le jugement expressif demeure du ressort des enseignants.
 - **L'étayage :** l'[[scaffolding|étayage]] et l'évaluation formative fonctionnent de concert — l'IA peut fournir des indices et des invites au moment opportun, bien que la recherche sur la rétroaction séquencée mette en garde contre une structuration excessive.
 
@@ -106,6 +111,7 @@ L'évaluation formative en éducation par l'IA rejoint le processus d'apprentiss
 
 - **La notation par l'IA ajoute une menace pesant sur la validité.** Parce qu'un correcteur doté d'IA peut récompenser des caractéristiques indépendantes du construit, telles que la fluidité langagière, plutôt que le raisonnement scientifique, un livre blanc de Stanford/ETS distillé d'une réunion rassemblant environ 100 dirigeants soutient que l'évaluation devrait accumuler des preuves continues et riches de contexte plutôt que de certifier des productions ponctuelles ([[responsible-assessment-ai-era-stanford-2026|McGee et al. (2026)]]).
 - **Conserver la tâche vulnérable et ajouter un jumeau.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] soutiennent que les dissertations à la maison et les rapports de recherche portent une valeur formative substantielle et devraient être conservés pour l'apprentissage, associés à une seconde tâche évaluant les mêmes résultats et fournissant des preuves sommatives fiables.
+- **L'évaluation formative soutenue par la technologie est une propriété du système, non un outil.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] la définit comme le produit conjoint de la capacité technologique, de la régulation pédagogique, de l'agentivité de l'apprenant et du jugement humain, et soutient que sa valeur réside dans le maintien du cycle preuve-rétroaction-réflexion-action plutôt que dans l'automatisation.
 
 ## Risque : l'évaluation comme surveillance
 
@@ -121,6 +127,13 @@ L'observabilité peut être conçue sans surveillance : c'est la preuve qu'une �
 - **Maintenir les éducateurs dans la boucle :** les systèmes ancrés dans le curriculum et avec l'éducateur dans la boucle améliorent la pertinence et réduisent le bruit.
 - **Évaluer la qualité et la validité :** évaluer les items et les rétroactions générés par l'IA au regard de la qualité, de la validité et de l'[[equity-in-ai-education|équité]], et pas seulement de la vitesse de génération.
 - **Traiter l'évaluation formative comme une philosophie, et non comme une boîte à outils.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] synthétisent la littérature plus large de l'enseignement supérieur en un paradigme d'« évaluation pour l'apprentissage » qui conçoit la [[feedback|rétroaction]] formative, continue et individualisée comme une philosophie globale plutôt que comme une simple boîte à outils — équilibrant les finalités formatives et [[summative-assessment|sommatives]] et mettant au premier plan l'[[agency|agentivité des étudiants]], l'autorégulation et la compétence [[metacognition|métacognitive]]. Ils identifient cinq pratiques mutuellement renforcées (l'[[authentic-assessment|évaluation authentique]], l'auto-évaluation et l'[[peer-assessment|évaluation par les pairs]], la réévaluation, la [[mastery-learning|notation fondée sur les standards]], l'ungrading) par lesquelles cette philosophie peut être mise en œuvre, tout en notant que leur adoption demeure très inégale selon les domaines de l'enseignement supérieur.
+- **L'évaluation continue recadre le dossier formatif lui-même.** L'architecture de référence AIM-CAI (un article de position, et non une implémentation) propose de remplacer l'évaluation épisodique comme base de preuves primaire par une infrastructure à six couches : génération de preuves à travers les plateformes, sérialisation préservant le contexte de la source, traduction sémantique médiée par l'IA, interprétation psychométrique, profils de compétence longitudinaux, et gouvernance fédérée. Son tableau de changements explicite la transformation : la rétroaction par devoir devient une rétroaction longitudinale soutenant le conseil et la réflexion ; les notes deviennent des profils de compétence évolutifs ; les certifications deviennent des relevés de développement transparents. La couche de gouvernance est l'insistance de l'article — sept tensions nommées (interopérabilité contre autonomie locale, vie privée contre utilité, agence de l'apprenant contre automatisation prédictive, surveillance contre soutien, etc.), chacune rattachée à des risques et à des réponses, avec l'avertissement qu'une inférence continue non gouvernée privilégie les normes culturelles dominantes. La revendication de nouveauté est intégrative : les composantes existent ; la contribution est l'architecture et la carte de gouvernance. ([[mcnamara-aim-cai-continuous-assessment-2026]])
+
+## Idées fausses courantes
+
+- **« Les items d'entraînement générés fournissent un signal formatif utile. »** **Une banque d'items générés faciles ne fournit aucun signal formatif** : dans un **déploiement de 10 semaines, environ 70 % des items d'entraînement générés par l'IA étaient réussis par tous les étudiants**. Une banque que tout le monde réussit ne porte aucune information sur qui a besoin de quoi.
+- **« La fiabilité de la génération d'items est uniforme selon les formats. »** Les systèmes d'IA génèrent des items formatifs dans plusieurs modalités **avec une fiabilité qui varie selon le type** — le choix multiple en fait partie. Traiter les items générés comme interchangeables d'un format à l'autre masque les endroits où la génération est fiable.
+- **« Donner une rétroaction par l'IA aux étudiants produit son enactment. »** Le **problème de l'enactment** est documenté séparément de la qualité de la rétroaction : recevoir une rétroaction et agir sur elle sont deux étapes distinctes, et c'est à la seconde que l'évaluation formative réussit ou échoue.
 
 ## Concepts liés
 

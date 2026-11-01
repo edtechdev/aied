@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: La métacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T10:43:38-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,13 +13,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-11-01T09:06:35-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -86,6 +90,8 @@ Lorsque l'IA est conçue pour soutenir la réflexion plutôt que pour la remplac
 
 - **Rendre visibles les schémas d'interaction que les apprenants ne peuvent voir.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li et Weng (2026)]] ont suivi les mouvements oculaires, la prise de notes et la parole de 22 stagiaires en interprétation travaillant avec un système de reconnaissance vocale et de traduction automatique, et ont constaté que la manière dont les élèves répartissaient l'[[cognitive-psychology|attention]] entre les sorties de l'IA et leurs propres notes leur était invisible : 58,3 % changeaient de profil entre les étapes de la tâche, et les plus grands lecteurs de sorties de l'IA obtenaient les scores les plus faibles en fluidité de livraison et en qualité de la langue cible. La conséquence pédagogique est que la réflexion doit être étayée par des preuves externes, parce que la stratégie d'un apprenant n'est pas introspectable — les auteurs plaident pour guider les élèves à décrire et évaluer pourquoi ils ont travaillé d'une certaine manière à chaque étape.
 
+**À l'échelle de la synthèse, le schéma tient, et il s'amincit à mesure que la mesure s'affine.** Une méta-analyse à trois niveaux de 54 études (quasi-)expérimentales (121 tailles d'effet, 7.431 apprenants) situe l'effet de l'IA sur la métacognition à g = 0.624 (IC à 95% [0.431, 0.817]), avec 107 des 121 effets positifs et des gains croissant avec l'exposition, de g = 0.381 sous une semaine à g = 1.638 entre 15 et 20 semaines ([[ai-metacognition-three-level-meta-analysis-2026|Li et coll. (2026)]]). La source de mesure était le modérateur décisif : auto-évaluation g = 0.776, observation comportementale g = 0.514, et notations d'exactitude, soit l'écart entre performance jugée et performance réelle, g = 0.035 et non significatif. Le gain est maximal là où il est le plus facile à revendiquer et proche de zéro là où le suivi est noté contre la performance, ce qui est le problème d'auto-évaluation auquel les études ci-dessus ne cessent de se heurter.
+
 - **Les preuves de processus sont conditionnelles au canal.** Chez 79 étudiants de premier cycle travaillant avec de l'[[generative-ai|IA générative]], le suivi et la planification de plus grande profondeur apparaissaient plus souvent dans les unités de pensée à voix haute, tandis que la régulation de plus grande profondeur apparaissait plus souvent dans les journaux d'interaction : un seul enregistrement sous-estime donc certains processus ([[metacognitive-processes-genai-interaction-logs-2026|Li et Liu (2026)]]).
 
 - **Les pratiques réflexives peuvent émerger d'un usage ordinaire de la matière.** Dans huit établissements danois de l'enseignement secondaire supérieur, les élèves travaillant avec de l'[[generative-ai|IA générative]] comme partenaire cognitive ont développé quatre pratiques — explication, création, inspiration et amélioration, se déployant en onze processus — dans lesquelles la réflexion apparaissait à la fois dans les registres disciplinaires et processuels, bien que chaque pratique puisse également servir la substitution ([[ai-cognitive-partner-reflective-thought-2026|Dalsgaard & Prilop, 2026]]).
@@ -95,6 +101,8 @@ Lorsque l'IA est conçue pour soutenir la réflexion plutôt que pour la remplac
 - **Un étai réflexif peut s'habituer et remplacer l'auto-surveillance qu'il protège.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] avertit que les invitations répétées à réfléchir peuvent s'user par habituation — de même que des avertissements répétés sont écartés automatiquement — de sorte qu'un professionnel qui ne réfléchit que lorsque le système le demande peut se retrouver sans l'outil ni l'habitude d'auto-surveillance ; l'article soutient que les invites réflexives devraient être traitées comme une intervention de renforcement de compétences à estomper, et testées pour vérifier si les utilisateurs réfléchissent sans elles.
 
 - **Un gain sélectif : connaissances métacognitives sans planification ni suivi.** [[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al. (2026)]] ont réparti 68 futurs enseignants entre un groupe qui expliquait la classe inversée à un apprenant novice en IA générative (n=33) et un groupe qui interrogeait un enseignant en IA générative (n=35). Le groupe de l'apprenant novice a obtenu des scores plus élevés en connaissances métacognitives et en stratégies d'apprentissage (p < 0,001, *d* de Cohen = 0,41) mais pas en planification et suivi (M = 4,01 contre 3,78, p = 0,062), bien que les scores d'explication et d'application du même groupe aient augmenté (r = 0,474 et r = 0,642) tandis que le rappel factuel ne séparait pas les groupes (p = 0,416). La scission suit les deux composantes de l'introduction : expliquer à quelqu'un qui réplique a construit une conscience déclarative de ce que l'on sait, mais rien dans la conception n'a conduit l'apprenant à fixer une trajectoire ou à vérifier ses progrès, ce que les auteurs attribuent à la conception de la tâche et à la charge cognitive plutôt qu'au rôle lui-même. L'[[learning-by-teaching|apprentissage par l'enseignement]] avec l'IA est donc un levier sur les connaissances métacognitives, et non automatiquement sur la [[self-regulated-learning|régulation]], et les auteurs recommandent d'ajouter des invites de planification explicites et un retour d'information sur les progrès.
+
+[[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] donne à ce récit de la suppression un test causal préenregistré (N = 317) face à des fiches d'exercices. La désorganisation a augmenté de 0.84 (intervalle de crédibilité à 95% de 0.47 à 1.21) et constituait l'effet le plus net du modèle, tandis que le traitement profond baissait par une chaîne allant du délestage à la pensée critique plutôt que directement. L'auteur nomme cet état *dormance cognitive* : le suivi et la sélection de stratégies se taisent tandis que le traitement se poursuit, et il en situe la cause dans les affordances de l'environnement plutôt que chez l'apprenant.
 
 ## La distinction engagement–motivation
 
@@ -153,6 +161,12 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 
 - **Le suivi propre de l'évaluateur est aussi un travail métacognitif.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl et Leuders (2026)]] soutiennent qu'une inférence diagnostique générée par l'IA n'est pas une preuve brute mais une interprétation déjà faite, si bien que les enseignants doivent l'intégrer à leurs propres observations dans un processus qu'ils nomment *meta-diagnosis* (méta-diagnostic), décidant délibérément de l'accepter, de la rejeter ou de la modifier. Cela place une seconde boucle métacognitive à côté de celle de l'apprenant : non seulement la manière dont l'élève régule sa pensée avec l'IA, mais aussi la manière dont l'enseignant évalue ce que le système affirme au sujet de cette pensée.
 
+## Idées fausses courantes
+
+- **« L'assistance par l'IA laisse intacte la capacité sous-jacente. »** Les étudiants ayant utilisé une assistance par l'IA pour rédiger un essai étaient **83% à ne pas pouvoir citer de passages de leurs propres essais, contre 11% chez les non-utilisateurs**, ce qui indique **qu'ils ne se sont pas engagés sur le contenu pendant la production**. C'est le processus de production qui porte l'engagement, et le contourner se voit plus tard.
+- **« Le délestage dégrade tout. »** Le coût apparaît **borné plutôt que global** : le délestage dégrade **la compétence spécifique exercée, et non les capacités générales du domaine**, et se manifeste sur les tests de transfert **avec** un support. Cette localisation importe, car elle indique quoi protéger au lieu de signaler un déclin général.
+- **« Savoir produire implique savoir retenir. »** L'écart de rappel de 83% contre 11% en est le contre-exemple direct : la production était identique dans les deux conditions et la trace mnésique très différente.
+
 ## Concepts liés
 
 - [[pedagogical-patterns]] — Les étapes de réflexion que ces séquences construisent
@@ -207,3 +221,5 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 - [[ai-cognitive-partner-reflective-thought-2026]] — quatre pratiques et onze processus de pensée réflexive lorsque les élèves traitent l'IA comme un partenaire cognitif
 - [[karaki-think-aloud-ethical-genai-2026]] — La méthode Think Aloud a rendu visibles la construction des invites, la vérification et le raisonnement éthique, mais l'évaluation critique est restée superficielle ; ce n'est pas une solution autonome
 - [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Entraînement métacognitif et étayage socratique par IA dans la pratique réflexive des enseignants en formation initiale : une conception expérimentale à deux études
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — La dormance cognitive : une approche expérimentale de l'engagement métacognitif suspendu et de la désorganisation croissante (Braun 2026)
+- [[ai-metacognition-three-level-meta-analysis-2026]] — Méta-analyse à trois niveaux : g regroupé = 0.624, tombant à la non-significativité pour le suivi noté par exactitude (Li et coll. 2026)

@@ -1,20 +1,24 @@
 ---
 title: "Développement de carrière et préparation professionnelle"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-11-01T10:17:48-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-10-22T10:05:00-04:00"
+source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -41,6 +45,7 @@ ai_assist:
 - **La préparation suivait l'engagement, et non le niveau de menace.** Dans [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], le profil le plus anxieux face à l'IA rapportait néanmoins le modelage de carrière (career crafting) le plus élevé (4.222) et l'employabilité perçue de soi la plus forte (3.964), tout comme le profil favorable dont il ne différait pas significativement — le niveau d'anxiété n'indexait donc pas la préparation de carrière.
 - **La littératie en IA est nécessaire mais insuffisante.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] soutiennent que la littératie en IA ne suffit pas à la préparation de carrière — les étudiants ont aussi besoin d'adaptabilité et d'évaluations positives de soi, reliant directement la [[ai-literacy|littératie en IA]] aux résultats de carrière. [[ai-literacy-graduate-employability-2026|Hendrawan et Lestari (2026)]] l'éprouvent quantitativement auprès de 455 étudiants en dernière année à Jakarta : l'adaptabilité de carrière porte un effet indirect significatif (β = 0.173), et l'état d'esprit de croissance ne modère pas du tout le chemin, si bien que c'est l'adaptabilité, et non l'état d'esprit, qui fait le travail.
 - **Les perspectives des employeurs et des diplômés.** Le [[ithaka-sr-ai-skills-college-graduates-2026|rapport ITHAKA S+R]] (500 enseignants de collèges américains de quatre ans, comparés à 200 employeurs américains) documente un **écart systématique de priorisation des compétences** entre enseignants et employeurs, qui signale les exigences du monde du travail façonnant les programmes de l'[[higher-ed|enseignement supérieur]]. Enseignants et employeurs ne s'accordent sur l'importance que d'une seule des 26 compétences en IA (fixer des attentes réalistes pour le travail augmenté par l'IA) : les enseignants privilégient une orientation d'*usage critique et responsable* (attribution, responsabilité humaine, limites de l'IA), alors que les employeurs favorisent les compétences de *flux de travail, d'automatisation et de travail en équipe humain–IA*. Le rapport constate que seulement trois des 26 compétences sont enseignées par la moitié ou plus des enseignants — les catégories sous-enseignées (refonte des flux de travail, automatisation, intégration technique) sont précisément celles où les attentes des employeurs divergent le plus — et que la plupart des établissements n'ont ni consensus sur ce à quoi ressemblent les compétences en IA ni de cadre d'évaluation pour celles-ci. Pour le développement de carrière, cela signifie que la préparation des diplômés dépend de la réduction d'un écart réel et mesurable entre ce que les employeurs valorisent et ce que les programmes enseignent, et pas seulement de l'ajout d'une littératie en IA.
+- **Les employeurs réagissent au signal, et pas seulement à la liste de compétences.** [[boyd-swan-employer-responses-genai-2026|Boyd-Swan et Reynolds (2026)]] ont randomisé environ 1 750 professionnels américains du recrutement entre deux cadrages de l'usage de l'IA par un étudiant avant qu'ils n'évaluent des CV par ailleurs similaires. Présenter l'IA comme un outil d'assistance n'élevait les réserves que modérément et ne pénalisait pas les candidats ; la présenter comme un substitut à l'effort et à la capacité de l'étudiant abaissait la probabilité d'entretien et, plus nettement, la volonté de négocier le salaire, les candidats à forte moyenne subissant les pénalités les plus lourdes. Les deux groupes de traitement nommaient l'épreuve en présentiel comme le remède qui les rassurait, ce qui fait dépendre la préparation de la question de savoir si un diplôme porte encore une preuve que les employeurs accepteront.
 - **Les filtres de recrutement sans IA cessent de certifier ce que le travail exige.** Dans des entretiens menés auprès de 23 étudiants et jeunes diplômés indiens en ingénierie, tous sauf un ont utilisé l'IA pour se préparer à des filtres de placement qui l'excluaient, tandis que les diplômés décrivaient des lieux de travail qui attendaient l'IA dès le premier jour ; aussi, en théorie du signal, une moyenne générale produite avec l'aide de l'IA ne distingue plus les candidats par le coût ([[ai-free-gates-engineering-students-india-2026|Goutham & Gu (2026)]]).
 - **La politique de cours comme décision de compétence professionnelle.** Le cas de conception de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] rend explicite l'arbitrage au niveau de la tâche : pour chaque étape d'un projet semestriel, l'enseignant associe une compétence professionnelle émergente en [[generative-ai|IA générative]] (interrogation pour des objectifs, génération d'images, écriture de scripts, narration par synthèse vocale) au besoin d'évaluer une compétence fondamentale, et n'autorise l'IA que lorsque la compétence professionnelle l'emporte — une manière concrète d'intégrer dans les devoirs existants les compétences de flux de travail que les employeurs valorisent ([[prompt-engineering|ingénierie des invites]], évaluation des productions de [[llm|LLM]]) plutôt que d'ajouter un cours d'IA distinct.
 - **L'IA médiatise déjà la préparation de carrière elle-même.** [[loidl-chatgpt-career-development-2026|Loidl, Cao et Huang (2026)]] ont interrogé 102 étudiants de premier cycle dans une université R1 du Midwest et ont constaté qu'environ 81% avaient utilisé ChatGPT pour des activités liées à l'employabilité au cours des 12 mois précédents, en tête desquelles les curriculum vitae (52.94%), la communication au travail (38.24%) et les lettres de motivation (35.29%), ce que les entretiens lisent comme un travail d'adaptation et de répétition plutôt que comme une externalisation ; la préparation de carrière doit donc se fonder sur une préparation que l'outil médiatise déjà, et pas seulement sur les capacités que cette page décrit par ailleurs.
@@ -57,6 +62,12 @@ Un thème récurrent est que le développement de carrière à l'ère de l'IA de
 
 Le développement de carrière et la préparation professionnelle rejoignent la [[professional-training|formation professionnelle]] (la dimension des compétences professionnelles), la [[ai-literacy|littératie en IA]] (la dimension de compétence en IA), le [[self-efficacy|sentiment d'efficacité personnelle]] et la [[motivation|motivation]] (les ressources psychologiques qui soutiennent l'adaptation), l'[[anxiety-and-stress|anxiété et le stress]] (l'anxiété de carrière comme composante clé), l'[[higher-ed|enseignement supérieur]] et le [[k-12|primaire et secondaire]] (les contextes où la préparation se construit), et l'[[student-experience|expérience étudiante]] (les préoccupations de carrière comme partie de l'expérience de l'apprenant).
 
+## Idées fausses courantes
+
+- **« L'anxiété liée à l'IA est une disposition générale que l'on peut rassurer. »** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirment par SEM que l'anxiété liée à l'IA **entrave les décisions de carrière largement par l'érosion de l'adaptabilité de carrière (63,35% de l'effet total)**. Le mécanisme est précis : l'anxiété agit en retirant la capacité de s'adapter, si bien qu'une réassurance dirigée vers les émotions manque le médiateur qui porte l'effet.
+- **« L'adaptabilité de carrière est une compétence douce secondaire par rapport à la compétence technique. »** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] montre que l'adaptabilité de carrière **réduit l'anxiété liée à l'IA**, ce qui en fait une intervention en amont plutôt qu'un résultat en aval. Bâtir l'adaptabilité traite le mécanisme ; la traiter comme un agrément laisse le médiateur intact.
+- **« L'anxiété face à l'IA est également répartie. »** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün et Danacıoğlu]] constatent que l'anxiété liée à l'IA et les attitudes négatives envers l'IA prédisent l'anxiété de recherche d'emploi après l'obtention du diplôme chez **1 057 étudiants**, avec des schémas différents pour **les femmes et les étudiants en sciences sociales**. Une intervention uniforme alloue mal le soutien.
+
 ## Concepts liés
 
 - [[professional-training]]
@@ -70,6 +81,7 @@ Le développement de carrière et la préparation professionnelle rejoignent la 
 - [[student-support-and-success]] — les résultats qui suivent l'achèvement : la persévérance, la rétention et l'obtention du diplôme
 
 ## Articles liés
+- [[boyd-swan-employer-responses-genai-2026]] — Expérience par enquête auprès d'environ 1 750 professionnels américains du recrutement : le cadrage en termes de substitution a réduit la volonté d'entretien et de négociation salariale, surtout pour les candidats à forte moyenne (Boyd-Swan & Reynolds 2026)
 
 - [[ai-free-gates-engineering-students-india-2026]] — Des filtres sans IA au travail avec l'IA dès le premier jour : comment les étudiants en ingénierie en Inde naviguent entre études universitaires et placements sur le campus sans lignes directrices sur l'IA
 - [[ai-literacy-graduate-employability-2026]] — Preuves PLS-SEM que la littératie en IA atteint l'employabilité perçue par l'adaptabilité de carrière, l'état d'esprit de croissance n'ajoutant rien (Hendrawan et Lestari 2026)

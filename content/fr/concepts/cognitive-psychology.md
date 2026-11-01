@@ -1,13 +1,13 @@
 ---
 title: "Psychologie cognitive"
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-11-01T10:15:16-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-10-16T20:19:49-04:00"
+source_updated: "2026-11-01T09:12:21-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -15,13 +15,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **La psychologie cognitive / le cognitivisme** — la famille de théories qui expliquent l'apprentissage par des processus mentaux internes — attention, perception, mémoire, raisonnement et métacognition — plutôt que par le seul comportement observable. Dans le champ de l'[[ai-education|IA en éducation]], les postulats cognitivistes sous-tendent les contributions les plus distinctives du domaine : les systèmes d'[[intelligent-tutoring|tutorat intelligent]] qui modélisent les connaissances de l'apprenant, le [[knowledge-tracing|traçage des connaissances]] et le [[cognitive-diagnosis|diagnostic cognitif]] qui suivent ce qu'un apprenant sait, les conceptions de [[feedback|rétroaction]] fondées sur le diagnostic des erreurs, et toute la famille de la [[student-modeling|modélisation de l'apprenant et de l'enseignement adaptatif]]. Le cognitivisme est le terrain médian entre le [[behaviorism|behaviorisme]] (l'apprentissage comme changement comportemental) et le [[constructivist|constructivisme]] (l'apprentissage comme construction active de sens), et c'est la lentille théorique la plus étroitement liée à la métaphore informatique de l'esprit qui a animé les débuts de l'AIED.
-
-[[seeing-cognitive-representations-eeg-reconstruction|Su et coll. (2026)]] ont reconstruit des images à partir de l'EEG d'apprenants pendant des vidéos de sciences et ont constaté que la fidélité des représentations suivait la performance au test (coefficient de régression 0.8481, R² = 0.79) : preuve directe qu'une mesure de la représentation interne peut indexer l'encodage.
 
 ## Questions à examiner
 
@@ -36,13 +38,15 @@ ai_assist:
 
 La psychologie cognitive est la tradition théorique de l'apprentissage qui traite l'apprentissage comme un changement des représentations mentales internes — concepts, schémas et procédures détenus en mémoire — plutôt que comme un changement du comportement observable. Son vocabulaire de traitement de l'information (attention, encodage, récupération, mémoire de travail bornée) a fourni à la fois le langage diagnostique de la difficulté d'apprentissage et l'architecture sous-jacente de l'[[intelligent-tutoring|tutorat intelligent]] et du [[knowledge-tracing|traçage des connaissances]] : des systèmes qui infèrent l'état interne d'un apprenant et s'y adaptent. Elle reste le cadre de référence de la [[metacognition|métacognition]], des [[desirable-difficulties|difficultés souhaitables]] et de l'[[self-regulated-learning|apprentissage autorégulé]] dans l'ensemble de cette base de connaissances.
 
+[[seeing-cognitive-representations-eeg-reconstruction|Su et coll. (2026)]] ont reconstruit des images à partir de l'EEG d'apprenants pendant des vidéos de sciences et ont constaté que la fidélité des représentations suivait la performance au test (coefficient de régression 0.8481, R² = 0.79) : preuve directe qu'une mesure de la représentation interne peut indexer l'encodage.
+
 ## Core ideas
 
 - **L'apprentissage est un changement des représentations mentales internes.** Le cognitivisme soutient que l'apprentissage implique l'acquisition, le stockage et la réorganisation des connaissances en mémoire — concepts, schémas et procédures — et pas seulement un changement de la réponse observable. Ce qu'un apprenant *sait et peut retrouver* compte, et pas seulement ce qu'il fait.
 - **La métaphore du traitement de l'information (informatique).** L'esprit est traité comme un système de traitement de l'information doté de capacités et de goulots d'étranglement — [[item-response-theory|mesure]] de l'aptitude latente, limites de la mémoire de travail, encodage et récupération — ce qui est précisément le modèle qui a rendu le tutorat par IA (un programme informatique qui modélise la cognition de l'apprenant et s'y adapte) naturellement adapté.
 - **L'attention et la mémoire sont bornées.** La mémoire de travail a une capacité limitée ; un apprentissage durable exige un encodage en mémoire à long terme par la répétition, l'élaboration et la [[retrieval-spacing-interleaving|pratique de récupération]]. Cela rattache le cognitivisme à la [[research-methods-aied|recherche]] sur le [[cognitive-offloading|délestage cognitif]] (la délégation de la mémoire et du traitement à des outils externes) et à l'« écart entre performance et apprentissage » lorsque l'IA court-circuite la récupération et la pratique.
 - **La métacognition régule la cognition.** La [[metacognition|métacognition]] — surveiller et contrôler sa propre pensée — est un construit distinctivement cognitiviste, et elle explique pourquoi le calibrage, par les apprenants, du moment où il faut compter sur l'IA importe pour l'apprentissage (voir [[cognitive-offloading|délestage cognitif]] et [[self-regulated-learning|apprentissage autorégulé]]).
-- **Les connaissances sont décomposables et traçables.** L'AIED cognitiviste postule que les connaissances de l'apprenant peuvent être représentées comme des composantes et suivies au fil du temps — le fondement du [[knowledge-tracing|traçage des connaissances]], du [[cognitive-diagnosis|diagnostic cognitif]] et de l'[[item-response-theory|théorie de la réponse à l'item]].
+- **Les connaissances sont décomposables et traçables.** L'AIED cognitiviste postule que les connaissances de l'apprenant peuvent être représentées comme des composantes et suivies au fil du temps — le fondement du [[knowledge-tracing|traçage des connaissances]], du [[cognitive-diagnosis|diagnostic cognitif]] et de l'[[item-response-theory|théorie de la réponse à l'item]]. La traçabilité est aussi une règle de scoring. Quatre règles de mise à jour du [[knowledge-tracing|traçage des connaissances]] appliquées aux mêmes séquences d'événements ASSISTments : créditer toute réalisation assistée déclarait 93.9% des paires étudiant-compétence maîtrisées, contre 72.8% lorsque les lignes assistées étaient lues comme des premières tentatives échouées. Les paires que la règle indulgente déclarait tôt atteignaient ensuite une exactitude non assistée de 0.709, contre 0.857 là où les règles concordaient ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). Le modèle ne suit que ce que la règle de preuve lui permet de compter.
 
 ## Cognitivism and AI in education
 
@@ -75,6 +79,12 @@ L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la
 3. **Respecter les limites de la mémoire de travail.** Appliquez la théorie de la charge cognitive à l'expérience utilisateur de l'IA : réduisez la charge extrinsèque (friction, interfaces surchargées) tout en préservant le traitement pertinent ([[desirable-difficulties|lutte productive]], pratique de récupération) plutôt que de minimiser toute demande cognitive.
 4. **Calibrer la métacognition.** Parce que la [[metacognition|métacognition]] gouverne le moment où les apprenants choisissent de déléguer, enseigner le calibrage (savoir ce qu'on peut réellement faire sans aide) constitue une réponse cognitiviste à la dépendance excessive (voir [[cognitive-offloading|délestage cognitif]]).
 
+## Idées fausses courantes
+
+- **« Les représentations mentales étant inobservables, les affirmations cognitives sur l'apprentissage sont des postulats. »** La reconstruction d'images à partir de l'**EEG** d'apprenants pendant des vidéos scientifiques a montré que la **fidélité de la représentation suivait la performance au test** (coefficient de régression **0.8481, R² = 0.79**). Le postulat cognitiviste de la représentation interne est mesurable, et la mesure prédisait le résultat.
+- **« Un R² élevé signifie que la représentation explique l'apprentissage. »** R² = 0.79 est une forte association entre fidélité et performance sur le même matériel. Cela n'établit pas qu'augmenter la fidélité augmente la performance, ce qui est l'affirmation d'intervention.
+- **« Les composantes de connaissances sont une fiction de modélisation commode. »** La décomposabilité est ce qui rend possibles le [[knowledge-tracing|traçage des connaissances]] et le [[cognitive-diagnosis|diagnostic cognitif]], et ces méthodes fonctionnent dans la mesure où le postulat tient. Le traiter comme une fiction écarte la raison pour laquelle ces méthodes produisent des estimations utilisables — tandis que le traiter comme un fait surestime ce qu'un modèle ajusté dit d'un esprit.
+
 ## Concepts liés
 
 - [[behaviorism]]
@@ -106,3 +116,4 @@ L'[[generative-ai|IA générative]] étend et met au défi le cognitivisme à la
 - [[ai-cognitive-partner-co-regulation-learning]] — L'IA comme partenaire cognitif dans l'apprentissage co-régulé
 - [[ensemble-cognition-philosophy-ai-education]] — Cognition d'ensemble : la pensée comme interaction humain-IA
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — L'organisation de l'effort, et non son volume, suivait la charge et la frustration
+- [[crediting-assisted-work-inflates-mastery-2026]] — Les affirmations de maîtrise issues du traçage des connaissances dépendent de la manière dont le travail assisté est crédité (Srivastava 2026)

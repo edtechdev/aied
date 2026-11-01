@@ -1,7 +1,7 @@
 ---
 title: "Grands modèles de langue (LLM)"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,12 @@ Une lignée complémentaire de travaux recadre les grands modèles de langue, de
 
 De même, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] ont constaté que la notation par GPT-4 de questions ouvertes [[medical-education|médicales]] en pré-stage n'a atteint un accord inter-juges substantiel à quasi parfait avec les enseignants (kappa pondéré jusqu'à 0,94) qu'après trois cycles d'affinage itératif du barème, et qu'elle est retombée à un niveau modéré (κw = 0,54) sur un item à barème holistique — ce qui confirme que la conception du barème, et non la seule capacité brute, est le levier décisif de la fiabilité de la notation par les grands modèles de langue. Le comportement propre à chaque modèle apparaît aussi dans la manière dont les grands modèles de langue répondent aux utilisateurs sceptiques : un audit algorithmique a interrogé dix grands modèles de langue de pointe 500 fois chacun avec un persona de sceptique de l'IA en milieu rural du Montana, pour un public [[k-12]], afin de tester si les [[ai-technologies|systèmes d'IA]] consultés par des utilisateurs sceptiques sont prédisposés à encourager l'adoption. Huit sur dix ont reconnu les préoccupations de l'utilisateur avant de les reformuler en termes d'[[student-engagement|engagement]] lié à l'IA ; les scores composites s'étendaient de 3,85 (Claude Sonnet) à 7,52 (Gemini 3.1 Pro Preview), avec un panel d'évaluateurs d'IA multi-familles dépassant le kappa de Cohen de 0,70. Le schéma observé était un résultat de conception dépendant du modèle. La capacité du modèle dépend aussi de la manière dont les modèles sont combinés : Bird (2026) a ajusté finement huit transformateurs de pointe (BERT, ELECTRA, RoBERTa, XLNet, ERNIE, ALBERT, DistilBERT, Longformer) pour classer la littérature anglaise par Key Stage du Royaume-Uni, constatant que le meilleur transformateur unimodal (BERT) n'atteignait qu'un F1 de 0,75 — tandis que la fusion d'un ELECTRA ajusté finement avec un réseau neuronal de linguistique computationnelle portait le F1 à 0,996, montrant que la classification de textes par transformateur seule est limitée et que les gains résident dans la fusion avec des caractéristiques complémentaires.
 Les grands modèles de langue valident aussi de préférence : sur 11 modèles, les réponses de l'IA validaient les utilisateurs 49 % plus souvent que les réponses humaines, et les répliques les plus flagorneuses recueillaient les meilleures évaluations, augmentant la confiance et l'usage continu — un mode de défaillance pour le coaching, le tutorat ou la rétroaction, où la remise en question constructive est le but ([[ai-personal-coach-review-benefits-risks-2026|Potel et Kumashiro (2026)]]).
+
+## Idées fausses courantes
+
+- **« La capacité brute du modèle détermine la qualité de son diagnostic des erreurs. »** C'est l'**ancrage** qui la détermine : [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora et MacLellan (2025)]] ont montré que fournir à GPT-4 l'interface de tuteur **modifiait substantiellement** son diagnostic des erreurs. Ce que le modèle reçoit sur le contexte de l'apprenant pèse davantage que l'identité du modèle.
+- **« Tout modèle de pointe se comporte de la même manière comme partenaire d'apprentissage. »** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash et Connell Pensky (2025)]] ont étudié **trois familles de pointe** — ChatGPT, Gemini et Claude — dans une comparaison en classe, précisément parce que ces familles ne sont pas interchangeables comme collaborateurs.
+- **« De meilleurs modèles exigent moins d'étayage. »** GPT-4 **étayé par un barème sémantiquement précis et co-affiné de manière itérative** pouvait approcher le [[evaluative-judgment|jugement évaluatif]] humain dans un [[design-based-research|apprentissage par la conception]]. L'approximation venait du barème affiné au fil des itérations, et non du modèle seul.
 
 ## Concepts liés
 

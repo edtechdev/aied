@@ -1,7 +1,7 @@
 ---
 title: "La mesure en éducation"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T10:49:43-04:00"
+updated: "2026-11-01T10:18:45-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -127,6 +131,12 @@ En somme, la mesure en éducation peut **manquer** ce qu'elle n'échantillonne p
 
 La mesure en éducation est le fondement de la [[item-response-theory|théorie de la réponse aux items]], de la [[assessment-validity|validité de l'évaluation]], du [[knowledge-tracing|traçage des connaissances]] et de la [[student-modeling|modélisation de l'apprenant]]. Elle rejoint l'[[learning-analytics|analytique de l'apprentissage]] (la mesure des données d'apprentissage), l'[[educational-nlp|évaluation]] (la mesure du langage) et l'[[psychometrically-aware-ai|IA psychométriquement consciente]] (une IA alignée sur la théorie de la mesure). Ses préoccupations de validité et de fiabilité sous-tendent l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et les [[limitations-in-aied-research|limites de mesure]] du domaine. Pour les construits qu'elle mesure, elle croise l'[[ai-literacy|littératie en IA]], le [[technology-acceptance-model|modèle d'acceptation de la technologie]], l'[[self-efficacy|auto-efficacité]], la [[motivation]] et l'[[student-engagement|engagement étudiant]].
 - **La modélisation causale des interventions de soutien (2026) :** un protocole de modélisation causale structurelle fait passer l'évaluation éducative au-delà de la mise à jour de croyances associative fondée sur la théorie de la réponse aux items, vers un raisonnement interventionnel et contrefactuel (par exemple l'effet des indices), avec des équations structurelles suscitées auprès d'experts à partir d'informations purement logiques — illustré sur des tâches de compétences algorithmiques en scolarité obligatoire ([[causal-modeling-competency-assessment-2026]]).
+
+## Idées fausses courantes
+
+- **« Les modèles peuvent estimer la difficulté des items. »** Quatre modèles de pointe ont été notés contre une **vérité de terrain IRT sur 2 548 items de mathématiques** : ils atteignent **68,6% sur la difficulté relative** mais tombent **sous le hasard** en calibration absolue. Le classement et la calibration sont des capacités distinctes, et c'est la seconde dont une conception d'évaluation a besoin.
+- **« Une étiquette taxonomique prédit la difficulté d'un item. »** Sur **265 items de mathématiques**, le niveau de Bloom visé expliquait **moins de 5% de la variance de la difficulté**. Étiqueter un item par son niveau de Bloom ne dit presque rien de sa difficulté empirique.
+- **« La qualité d'un item se juge sur sa formulation. »** **Jugez les items générés sur le chemin de solution, non sur la formulation** : encoder **l'arbre de raisonnement vérifié** de chaque item a élevé la performance au-delà de la deuxième meilleure méthode d'une marge nette. La structure du raisonnement portait le signal, non le texte de surface.
 
 ## Concepts liés
 

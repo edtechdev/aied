@@ -2,13 +2,13 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: La rétroaction
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-24T10:38:02-04:00"
+updated: "2026-11-01T10:16:22-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-10-23T22:48:50-04:00"
+source_updated: "2026-11-01T09:13:16-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -16,6 +16,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -61,6 +66,7 @@ L'efficacité d'une boucle de rétroaction dépend de l'[[ai-feedback-quality|qu
 
 **L'humain dans la boucle :** les boucles de rétroaction ne sont pas purement automatisées — les enseignants médiatisent souvent la rétroaction générée par l'IA avant qu'elle n'atteigne les apprenants. Les [[learner-centered-feedback-ai|études sur les outils de rétroaction par l'IA destinés aux enseignants]] (par exemple, l'outil PolyFeed, qui combine un détecteur par apprentissage automatique à un reformulateur fondé sur un [[llm]]) constatent que les enseignants utilisent leur jugement professionnel pour **accepter, modifier ou rejeter** les suggestions de l'IA — un schéma « assister mais vérifier » — et modèrent systématiquement les éloges exagérés et les suggestions génériques pour préserver l'authenticité et la voix. La dimension relationnelle et [[affective-computing|affective]] de la rétroaction (relation étudiant–enseignant, encouragement) est celle qui résiste le plus fortement à la délégation à l'IA, ce qui suggère que cette partie de la boucle demeure intrinsèquement humaine. Cette médiation avec humain dans la boucle rejoint l'[[human-in-the-loop-ai|humain dans la boucle]] et le [[teacher-role|rôle de l'enseignant]].
 
+- **La pénalité relationnelle est mesurable, et séparable de la qualité.** Dans un [[rct|essai randomisé]] à trois bras auprès de 287 rédacteurs, la rétroaction de l'IA et celle de l'enseignant ont élevé également la qualité des dissertations révisées (*d* = 0,60 et 0,59), mais la rétroaction de l'enseignant a élevé la motivation intrinsèque par la relation perçue ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu & Shi (2026)]]).
 
 La revue de politique de Luo et Eaton précise le même point : seules 14 des 50 universités les mieux classées disposaient d'orientations spécifiques sur l'usage de l'IA par les enseignants pour la rétroaction, et les étudiants ont décrit la rétroaction par l'IA non divulguée comme « disingenuous », faisant de la transparence et du consentement des conditions préalables de la pratique éthique plutôt que des politesses ([[luo-eaton-ai-student-feedback-ethics-2026|Luo & Eaton (2026)]]).
 
@@ -140,6 +146,16 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 
 - **La rétroaction peut cibler celui qui la donne.** La formation des tuteurs est un contexte de rétroaction peu exploré : des systèmes automatisés qui étiquettent séquentiellement les réponses ouvertes des tuteurs pour signaler les types d'éloges (éloge fondé sur l'effort — la variété souhaitable, axée sur le processus — contre éloge fondé sur le résultat contre éloge fondé sur la personne, la variété la moins souhaitable, qui attribue des traits) peuvent délivrer une rétroaction explicative qui change le comportement de tutorat. La contrainte liante est constituée par les données étiquetées par des experts. Une approche par augmentation — GPT-4o génère des réponses étiquetées synthétiques, faisant passer un ensemble peu doté de 13 instances à 520, puis affine GPT-3.5 — récupère l'essentiel de l'écart : F2 +20,5% sur l'éloge fondé sur l'effort, +17,3% sur l'éloge fondé sur le résultat, et +16,5% sur la catégorie *inédite* de l'éloge fondé sur la personne. Le test de généralisation à un type d'éloge inédit est le contrôle de validité qui distingue ce résultat d'un surapprentissage, et le mécanisme est plus proche de la distillation d'un modèle enseignant que de l'augmentation classique. ([[xu-automated-feedback-tutor-training-2025]])
 - **Une rétroaction qui ne voit pas la révision se répète.** Dans un jeu d'apprentissage scientifique dont les agents critiquaient des arguments en brouillon, les étudiants révisaient sur plusieurs tours, mais un modèle 8B quantifié renvoyait sensiblement la même critique à un brouillon amélioré, si bien que la boucle qui motivait la révision produisait aussi la frustration qui y mettait fin ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- **« Le ton est un détail de la qualité de la rétroaction. »** Dans le benchmark, il suivait le chiffre qu'on lui donnait : tous les modèles, à qui l'on annonçait une note contredisant le travail, produisaient une rétroaction dont le ton suivait cette note, et pour **huit modèles sur 22**, le décalage par point égalait ou dépassait le décalage lié à la qualité du travail. Seule la règle de ton était validée auprès d'annotateurs formés, sur **1 655** réponses de tuteurs ; la substance n'est donc pas mesurée. [[porcaro-ai-grading-benchmark-2026|Un correcteur qui rédige une rétroaction à partir d'une note fausse blanchit l'erreur en éloge ou en critique]].
+
+**La rétroaction peut être construite à partir du processus plutôt que du produit.** Dans [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]], un bras recevait des visualisations personnalisées de sa propre activité de frappe et d'écran avec une réflexion structurée, tandis que l'autre recevait des commentaires écrits de l'enseignant sur l'exactitude, la clarté et la qualité éditoriale. Le bras « processus » a gagné 5,64 points sur une notation éditoriale aveugle de 0 à 100 contre 1,91 pour le bras « produit », avec une interaction Groupe × Temps (F(1, 20) = 4,94, p = 0,038, êta-carré partiel 0,198) et le gain du bras témoin non significatif (p = 0,123). Onze étudiants par bras signifient que la direction est le résultat, non la taille.
+
+
+## Idées fausses courantes
+
+- **« Les étudiants ne distinguent pas une rétroaction d'IA d'une rétroaction humaine. »** Ils la distinguent, et l'étiquette change le jugement : **une fois l'étiquette révélée, les notes de la variante IA ont baissé et celles de la variante humaine ont monté — significativement pour la sincérité (p < .01)**. La crédibilité de la source façonnait l'évaluation d'une rétroaction de style identique.
+- **« Une approbation en laboratoire prédit l'usage au semestre. »** **L'approbation en laboratoire n'est pas l'usage au semestre** : **les 18 étudiants** ont réagi positivement à la fonction d'explication par IA générative en séances de laboratoire, **et pourtant la moitié seulement l'a utilisée pendant le semestre**. L'écart entre intention et usage est le problème de conception.
+- **« La rétroaction corrective immédiate est résolue par les grands modèles de langue. »** La générer au sein d'un tuteur est **faisable mais imparfait** : sur **6 926 transactions journalisées** de la collection Apprentice Tutor, la rétroaction était assez bonne pour être déployée et pas assez bonne pour présumer son exactitude.
 
 ## Concepts liés
 
@@ -214,3 +230,6 @@ La rétroaction est l'un des mécanismes les plus conséquents et les mieux éta
 - [[xu-automated-feedback-tutor-training-2025]] — Améliorer les systèmes de rétroaction automatisée pour la formation des tuteurs dans des scénarios peu dotés, par augmentation des données (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
 - [[assessment-feedback-trilemma-model-2026]] — Nomme le compromis entre utilisabilité, sources et soutenabilité, faisant de la soutenabilité un pôle de conception
+- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs guidés par invite affrontent des sondes dont la bonne réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Rétroaction de l'IA et de l'enseignant égales en qualité de révision, inégales en motivation (Liu & Shi 2026)
+- [[xian-process-visualization-feedback-news-translation-2026]] - rétroaction générée à partir des traces de frappe et d'écran, supérieure aux commentaires écrits sur le produit, 11 par bras

@@ -1,7 +1,7 @@
 ---
 title: "Éducation à l'environnement"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-24T10:51:40-04:00"
+updated: "2026-11-01T10:18:48-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,13 +11,17 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -80,6 +84,12 @@ La [[meta-analysis-systematic-review|revue de cadrage]] qui organise cette litt�
 3. **Concevez pour l'apprenant impatient.** Si l'option la moins carbonée coûte de la latence perçue, la plupart des étudiants ne la prendront pas : maintenez la latence basse, exposez les contrôles et décrivez l'impact en termes de résultats concrets, non en unités de carbone abstraites.
 4. **Préférez un déploiement plus léger là où la pédagogie le permet.** Ancrer un modèle dans un corpus local sous licence et le quantifier avec ajustement fin a donné une précision utilisable pour une fraction de l'énergie — réutilisez ce schéma avant de passer à l'inférence en nuage à grande échelle.
 5. **Développez la capacité des enseignants par l'élaboration de matériels, non par des campagnes de sensibilisation,** et comblez le manque de données du [[global-south|Sud global]] plutôt que d'importer des données probantes des contextes nord-américain et européen.
+
+## Idées fausses courantes
+
+- **« L'IA en éducation à l'environnement fournit surtout de l'information. »** Les gains mesurés portent sur la **prise de décision** : les étudiants travaillant avec un partenaire d'IA au sein d'une tâche d'[[inquiry-based-learning|enquête]] structurée ont surpassé leurs camarades en enquête seule (**d = 0.69**) et l'enseignement traditionnel (**d = 1.88**) sur une mesure de prise de décision, les gains étant **concentrés sur les étapes les plus faibles**. L'effet porte sur la qualité du raisonnement, aux points où les étudiants étaient les plus faibles.
+- **« L'enquête seule est l'ingrédient actif. »** L'enquête assistée par IA **a amélioré la prise de décision climatique par rapport à l'enquête seule**, la contribution de l'IA s'ajoutait donc à la structure pédagogique plutôt que de s'y substituer.
+- **« De grands effets issus de petits échantillons restent de grands effets. »** La [[learning-design|conception pédagogique]] assistée par IA sous contraintes de pédagogie du développement durable **a amélioré les plans de cours d'enseignants en formation initiale avec un d = 2.80 sur 28** participants — le mot des évaluateurs eux-mêmes est *invraisemblablement élevé*, et un effet de cette taille issu de cet échantillon doit être traité comme un signal plutôt que comme une estimation.
 
 ## Concepts liés
 

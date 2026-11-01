@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: "L'enseignement de l'informatique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:38:23-04:00"
+updated: "2026-11-01T10:12:39-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-10-24T08:54:00-04:00"
+source_updated: "2026-11-01T06:59:43-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -82,6 +86,7 @@ La question « que les étudiants devraient-ils encore apprendre à faire à la 
 - **L'ingénierie logicielle agentique comme discipline :** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formalise le pilotage d'agents plutôt que l'écriture de code — enseignant l'auditabilité, l'ingénierie du contexte, la vérification, les flux de travail multi-agents et l'AgentOps — et positionne la compétence en [[agentic-ai|IA agentique]] comme un programme structuré et étayé plutôt que comme la maîtrise de la syntaxe.
 
 - **De la production au jugement : la dette de compréhension et AASEE.** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] soutient que le domaine devrait passer d'un modèle centré sur la production à un modèle centré sur le jugement, et étend la notion de dette de compréhension — l'apprentissage différé et le coût de maintenance qu'entraîne une production assistée par l'IA dépassant la capacité d'un apprenant à expliquer, tester, modifier et justifier le logiciel — à une grille d'[[assessment|évaluation]], fondée sur 621 journaux réflexifs tenus par 207 étudiants. La revue affine le cadre AASEE en cinq niveaux d'intégration non linéaires croisés par quatre obligations de preuve — expliquer, vérifier, modifier et rendre compte — et rend compte d'une base de preuves conditionnelle : une [[meta-analysis-systematic-review|méta-analyse]] sur les STIM d'une hétérogénéité extrême (I² = 96,32 %) perd son bénéfice poolé dès que le biais de publication est corrigé, et des synthèses portant sur 76, 72 et 64 études montrent des gains d'efficacité à court terme qui ne [[transfer-of-learning|se transfèrent]] pas à la performance sans aide.
+- **Les examens oraux comme mécanisme de responsabilisation.** Un programme d'ingénierie de l'IA par projets a fait passer des étudiants de deuxième semestre par sept sprints de deux semaines, l'IA étant intégrée aux exigences, à l'architecture, à la programmation et aux tests, et a rendu obligatoires des examens oraux individuels après que trois itérations eurent montré que les artefacts seuls ne témoignaient plus de la compréhension ; la moyenne des crédits ECTS manquants est passée de 25% à 3% ([[project-based-ai-engineering-curriculum-agile-2026|Rausch (2026)]]).
 - **Nouvelles pédagogies et modèles d'évaluation :** l'[[test-driven-ai-assisted-learning|apprentissage assisté par l'IA piloté par les tests]] remplace les cours magistraux par une étude [[self-directed-learning|autodirigée]] assistée par l'IA, conditionnée par des tests hebdomadaires à livre fermé, préservant la responsabilité individuelle tandis que des agents d'IA assurent la production et la notation des matériaux sous [[human-in-the-loop-ai|supervision humaine]].
 - **Enseigner les mécanismes du modèle hors ligne.** Une suite de ressources pour praticiens enseigne le pipeline complet d'entraînement puis de génération d'un LLM sans connexion — des grilles de n-grammes comptées à la main et un échantillonnage aux dés, sans présupposer de programmation ni de mathématiques — et rend compte d'une diffusion à environ 400 participants, l'engagement ne débutant qu'à l'étape de génération ([[llms-unplugged-teaching-resources-2026|Swift (2026)]]).
 - **Ce qui prédit la réussite en [[vibe-coding|programmation intuitive]] — et ce qu'il faut continuer d'enseigner :** [[vibe-coding-writing-cs-achievement-2026|une étude CHI 2026 préenregistrée (N=100)]] portant sur du vibe coding pur « sans code » a montré que la réussite en informatique (r = .39) et la compétence en communication écrite (r = .29) prédisaient indépendamment la performance, la réussite en informatique demeurant significative même après contrôle des capacités cognitives générales et contribuant environ au double de la variance unique de la compétence rédactionnelle. Parce que l'environnement masquait le code généré, la connaissance en informatique ne pouvait aider qu'indirectement (décomposition du problème, pensée algorithmique) — ce qui fait de l'estimation pour l'informatique une *borne inférieure* pour les flux de travail assistés par l'IA qui autorisent aussi l'édition. Les auteurs soutiennent que les programmes devraient peser la communication écrite autant que les fondamentaux d'informatique, plutôt que de traiter le vibe coding comme une maîtrise de la syntaxe rendue obsolète.
@@ -132,6 +137,17 @@ L'enseignement de l'informatique se relie à la [[computational-thinking|pensée
 - **Structurez la collaboration pour tous les apprenants.** Des équipes réduites et stables, des rôles explicites et la transparence sur l'usage de l'IA soutiennent les étudiants [[neurodiversity|neurodivergents]] et une collaboration équitable, en particulier là où des croyances divergentes sur l'usage de l'IA abaissent les scores de projet.
 
 - **Explications adaptatives par LLM des erreurs de programmation (2026) :** une étude participative (N=103) a montré que les messages d'erreur réécrits par LLM améliorent la lisibilité, mais que la performance objective au débogage dépend de l'adéquation du style d'explication (pragmatique ou contingent) à la compétence du programmeur — un aperçu d'étayage pour l'enseignement de la programmation assistée par IA ([[llm-adaptive-programming-error-explanations-2026]]).
+- **La supervision porte sur l'adéquation, non sur l'exactitude (2026) :** en codant 962 tours étudiant-IA de 145 étudiants de première année en génie logiciel, [[novice-se-students-oversight-genai-2026|Shakiba et Chaffey (2026)]] ont constaté que 74.4% des interventions nommaient des problèmes d'adéquation contre 16.9% nommant l'exactitude, et que 51.0% des réponses modifiaient la sortie plutôt que l'invite.
+
+- **« Un accord sur le code signifie que le correcteur lit le code. »** Les deux évaluateurs enseignants du banc d'essai s'accordaient à **0.815** sur des réponses en C++ : **quatre** modèles les dépassaient avec un intervalle entièrement au-dessus de ce plafond et **quatorze** tombaient en dessous, jusqu'à **33%**. Sur la même tâche de code, une note demandant la totalité des points a relevé la note de Qwen3 235B de **83.2% de l'échelle**, et sept modèles de la batterie ont crédité des réponses vides, de sorte que [[porcaro-ai-grading-benchmark-2026|une passe de notation sur le code des étudiants exige des tests d'échec à côté du chiffre d'accord]].
+
+- **« L'effet est le même à chaque étape d'un cours. »** Il croissait avec le travail : sur **60 programmes Java complets** notés selon une grille à **14 niveaux**, l'effet de l'étiquette valait **2.8 fois** sa taille sur réponses courtes chez GPT-4.1-mini et **2.4 fois** chez Qwen, mais seulement **0.4 fois** chez Gemini. [[porcaro-ai-grader-reliability-2026|La tâche et la grille font partie de ce que l'effet mesure]], si bien qu'une ampleur validée sur des réponses courtes ne se transfère pas aux programmes.
+
+## Idées fausses courantes
+
+- **« Des étudiants qui programment en binôme avec l'IA apprennent à programmer. »** Dans la co-programmation étudiant-IA, **près de 80% des interactions reposaient sur des stratégies non apprenantes comme la sous-traitance des réponses**, et seulement **environ 1 sur 9 montrait un engagement épistémique** profond. Le schéma dominant est la transaction en vue d'un résultat.
+- **« Les agents conversationnels pour débutants sont ancrés dans une théorie de l'apprentissage. »** **Seules 4 des 23 études ancrent leur conception dans une [[learning-theories|théorie de l'apprentissage]]**, si bien que l'essentiel de la base de données probantes documente ce qu'un système a fait sans théorie expliquant pourquoi cela devrait fonctionner.
+- **« La littérature sur les outils reflète la distribution mondiale du champ. »** **17 des 23 prototypes existent uniquement en anglais alors que l'essentiel de la recherche provient de contextes** non anglophones. Les prototypes servent une population plus étroite que la recherche.
 
 ## Concepts liés
 
@@ -212,3 +228,6 @@ L'enseignement de l'informatique se relie à la [[computational-thinking|pensée
 - [[educator-guided-llm-pedagogical-agent-2026]] — Rétroaction étagée rédigée par les éducateurs pour la conception conceptuelle de bases de données : diagnostic caché, divulgation contrôlée, 71,1 % au niveau cible sur 383 épisodes
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair : tutorat socratique guidé par la planification pour le débogage de programmes et la réparation des idées fausses
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Agents de la taille du navigateur : petits modèles de langage et WebLLM pour l'enseignement de la programmation assistée par IA augmenté d'outils
+- [[novice-se-students-oversight-genai-2026]] — Au-delà de l'exactitude : comment des étudiants novices en génie logiciel exercent une supervision sur l'IA générative (Shakiba et Chaffey 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs invités à répondre à des sondes dont la bonne réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Le contexte de l'apprenant change les notes d'un correcteur LLM sur un travail identique, et l'accord avec l'enseignant ne le détecte pas (Porcaro 2026, article VI)

@@ -1,7 +1,7 @@
 ---
 title: "Comment gérer l'IA dans les travaux de groupe et collaboratifs ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-01T10:17:20-05:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,7 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_of: faqs/group-work-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -28,6 +28,11 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
@@ -95,6 +100,17 @@ Leurs limites voyagent avec la citation : une seule base de données, des articl
 La détection est le mauvais instrument pour trier les contributions individuelles : aucune de ces six études ne teste les détecteurs en contexte de groupe, et les problèmes de détection au niveau individuel sont documentés ailleurs dans cette base de connaissances. La retenue demande à être interprétée avant d'être corrigée. Chen et Zou avertissent qu'un groupe qui renonce à l'IA peut éviter quelque chose d'inconnu plutôt qu'exercer une [[self-regulated-learning|autorégulation]] délibérée, et les deux appellent des réponses différentes : l'une est un problème d'enseignement, l'autre une position réfléchie que vous pouvez noter.
 
 Les coéquipiers simulés ne tranchent pas la question non plus. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] a affiné des agents LLM sur des dialogues réels de participants (adaptateurs LoRA/QLoRA sur LLaMA 3.2-3B) pour modéliser 48 participants sur 3.824 tours et six codes thématiques, puis a comparé les discours réels et simulés par analyse de réseau épistémique. Le réseau simulé atteignait une distance de 0.17 par rapport au réseau empirique, sous le seuil de 0.30, avec une valeur p de permutation de 0.65, statistiquement indiscernable, bien qu'il ait légèrement surestimé les liens « contraintes techniques » et « conception » et sous-représenté les paramètres de données et de performance. C'est un article de cadre à confiance moyenne, et il soutient une seule affirmation : des agents propres à chaque participant peuvent reproduire un discours collaboratif réaliste. Il ne montre pas que les étudiants apprennent davantage avec des coéquipiers simulés.
+
+## Former les groupes sur ce que les membres croient, non sur leurs amitiés
+
+Qu'une IA devienne un point de référence partagé ou une simple consultation dépend en partie de l'accord préalable de vos groupes. Dans l'étude de [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], quatorze groupes d'enseignants en formation initiale ont mené une enquête par simulation de 60 minutes avec un agent conversationnel métacognitif disponible à la demande. Les groupes dont les membres avaient des [[prior-knowledge|préconceptions]] différentes sur la physique faisaient passer l'usage de l'IA par une conversation conceptuelle, l'IA se trouvant au centre de leur réseau d'interaction ; les groupes déjà d'accord suivaient un chemin linéaire de requête puis de réponse et maintenaient une évaluation négative de la production, ce que les auteurs attribuent en partie à des invites proactives arrivant après que le consensus s'était formé. Les deux types de groupes posaient les mêmes types de questions : ce qui changeait était donc l'[[collaborative-learning|appropriation plutôt que le volume]].
+
+Deux gestes en découlent, tous deux peu coûteux :
+
+- Faites passer un court pré-test sur le concept central et mélangez les profils de réponses entre les groupes, plutôt que de laisser les étudiants se répartir par affinité.
+- Dans les groupes qui convergent vite, gardez les [[self-regulated-learning|invites d'autorégulation partagée]] à la demande plutôt que poussées, car une relance qui arrive après l'accord se lit comme une interruption.
+
+Traitez cela comme une hypothèse plutôt que comme une règle. Ce sont quatorze groupes, une tâche de 60 minutes sur un seul sujet, des enseignants en formation initiale d'un seul pays, et des transcriptions traduites du finnois avant codage.
 
 ## Ce que les enseignants et les administrateurs comprennent mal ici
 

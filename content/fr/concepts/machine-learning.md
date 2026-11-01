@@ -4,15 +4,19 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T10:46:40-04:00"
+updated: "2026-11-01T10:18:21-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,16 @@ L'[[generative-ai|IA générative]] — les grands modèles de langage et les sy
 ## Formation des enseignants et littératie en apprentissage automatique
 
 L'apprentissage automatique apparaît aussi dans l'éducation comme une *matière*. Dans la [[microbit-robotics-machine-learning-teacher-training-2026|formation initiale des enseignants]], des interventions pratiques de codage et de robotique utilisant le Micro:bit et des projets de classification d'images supervisée ont significativement amélioré les connaissances des futurs enseignants sur les concepts informatiques et l'apprentissage automatique d'introduction, ainsi que leurs attitudes à l'égard de son enseignement. À mesure que la [[ai-literacy|littératie en IA]] entre dans les programmes, doter les [[teacher-education|enseignants]] d'une maîtrise opérationnelle de l'apprentissage automatique devient une condition pour pouvoir l'enseigner aux élèves. Une voie contrastée atteint les mêmes concepts sans aucun logiciel : dans le [[sung-ai-literacy-unplugged-ml-k12-pd-2026|développement professionnel en ligne de Sung et Gunpinar (2026)]], dix éducateurs de la K-12 ont construit à la main une « matrice de caractéristiques explicable » — un tableau oui/non de caractéristiques de forme qui *est* le classificateur, testable et révisable plutôt qu'opaque — avec le jeu de tri de Code.org et Google Slides comme seuls outils. Leur [[self-efficacy|auto-efficacité en IA]] est passée de modérément faible (M = 3,13) à au-delà de modérée (M = 3,71) et les descripteurs négatifs dans une tâche d'association de mots sont tombés de 30 % des participants à zéro, bien que les données soient limitées, non contrôlées et entièrement fondées sur l'[[self-report-measures|auto-déclaration]].
+
+## Idées fausses courantes
+
+**« Une prédiction exacte exige un modèle opaque. »** Interprétabilité et performance sont plus séparables que ce postulat ne le permet. [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries et Koprinska (2025)]] montrent que des arbres de décision intrinsèquement interprétables — **élagués à seulement 3-5 nœuds feuilles** — tiennent leur rang sur la prédiction de la progression des étudiants en programmation. Lorsqu'un arbre à cinq nœuds égale une boîte noire sur votre tâche, la boîte noire achète de l'opacité plutôt que de l'exactitude, et dans un contexte éducatif où une décision doit être expliquée à un étudiant, la boîte de verre est le meilleur compromis.
+
+**« L'apprentissage automatique en éducation est une technologie de prédiction neutre. »** Ses applications portent avec elles les défaillances de gouvernance de la discipline, et la surveillance des examens en est le cas le plus clair : un modèle qui infère quelque chose sur un étudiant à partir de signaux comportementaux ou physiologiques formule une accusation assortie d'un score de confiance, et la base de données probantes de cette inférence est bien plus faible que ne le suggère le rythme de déploiement.
+
+**« L'IA générative a rendu l'apprentissage automatique classique obsolète en éducation. »** Ils font des métiers différents. La prédiction des états de l'apprenant, l'estimation de la difficulté et la prévision de la progression restent des problèmes d'apprentissage automatique classique, et la littérature sur le traçage des connaissances et la calibration des items que documente ce corpus n'est pas servie par un modèle de langue. L'IA générative est un sous-ensemble de l'apprentissage automatique plutôt qu'un remplacement.
+
+**« La formation des enseignants devrait enseigner les LLM plutôt que l'apprentissage automatique. »** Limiter la littératie à la couche générative laisse les praticiens incapables d'interroger les systèmes prédictifs qui prennent des décisions sur leurs étudiants — et c'est là que se concentrent les erreurs lourdes de conséquences.
 
 ## Concepts liés
 

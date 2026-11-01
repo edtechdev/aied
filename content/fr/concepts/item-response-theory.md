@@ -1,19 +1,23 @@
 ---
 title: "Théorie de la réponse à l'item"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-10-16T09:45:00-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,13 @@ L'IRT traite l'aptitude (θ) et les paramètres des items (difficulté, discrimi
 ### Connexions
 
 L'IRT est un fondement de la [[educational-measurement|mesure en éducation]] et de l'[[assessment-validity|validité de l'évaluation]], sous-tend l'[[adaptive-learning|apprentissage adaptatif]] (sélection adaptative des items) et la [[student-modeling|modélisation de l'étudiant]], et se relie à l'[[psychometrically-aware-ai|IA consciente de la psychométrie]] (évaluation par l'IA alignée sur la théorie de la mesure) et au [[knowledge-tracing|traçage des connaissances]]. Elle intervient dans la [[llm-difficulty-calibration-programming-exams-2026|calibration de la difficulté par les grands modèles de langue]] pour l'évaluation en programmation.
+
+## Idées fausses courantes
+
+- **« L'IRT suppose une passation classique de test. »** La capacité et la difficulté peuvent être récupérées des **logits du jeton suivant** : extraire la **capacité de l'étudiant θ = z^GOOD − z^BAD** et la **difficulté du tour de tuteur d = z^HARD − z^EASY** puis les combiner dans un prédicteur de Rasch 1PL rend le traçage des connaissances fondé sur le dialogue interprétable en termes d'IRT. Le cadre psychométrique s'applique aux données d'interaction, pas seulement aux réponses aux items.
+- **« Un référentiel que la plupart des modèles réussissent est un bon référentiel. »** Un référentiel aligné sur les normes peut **saturer** : sur des ensembles scientifiques alignés sur les NGSS au collège et au lycée, **la plupart des modèles à poids ouverts ont dépassé 90%**, ce qui laissait les métriques classiques des items médiocres. La saturation ne signifie pas que les modèles sont excellents ; elle signifie que les items ne discriminent plus.
+- **« La difficulté d'un item est une propriété intrinsèque de l'item. »** Une sonde causale qui a **modifié 50 questions de test par jeu de données** vers ou à l'écart d'une hypothèse a constaté que les **modifications augmentant la difficulté réduisaient l'exactitude moyenne de 15.27 et 23.88 points de pourcentage** sur GSM8K et BBH-structured. La difficulté est une relation entre l'item et le modèle, et elle évolue quand l'item évolue.
+- **« L'IRT ne sert qu'à noter les apprenants. »** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] utilise un **modèle 2PL hiérarchique bayésien avec des items d'ancrage pré-test pour placer 1,686 étudiants**, ce qui est une assurance qualité de l'évaluation elle-même plutôt qu'une notation de l'étudiant.
 
 ## Concepts liés
 

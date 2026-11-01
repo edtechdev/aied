@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-11-01T10:16:35-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,13 +11,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-10-24T08:52:00-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -84,6 +88,7 @@ Une expérience de classe menée auprès de 252 étudiants a montré qu'**averti
 Plutôt que de retirer l'aide, la recherche recommande de repenser la manière dont elle est délivrée :
 
 - **La disponibilité différée des indices** — exiger un temps d'engagement minimal ou des tentatives de solution avant que les indices (en particulier les indices finals) ne soient accessibles.([[lak2026-hint-button-unproductive-use]])
+- **On grimpe d'autant moins haut dans une échelle d'estompage qu'elle s'élève.** Dans CoMeT, un tuteur qui montait d'un échelon à chaque décision laissée sans réponse et redescendait lorsque l'apprenant la reprenait, seuls 282 des 515 épisodes d'estompage codés suivaient une réponse : le taux de reprise était de 37,0 % après la première demande et de 21,8 % après la troisième ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Retarder l'aide dépend donc d'un apprenant qui continue de répondre à l'invite, et la décroissance mesurée signifie que les échelons supérieurs d'un étayage n'atteignent que peu des étudiants encore bloqués.
 - **Passer du *s'il faut* au *comment*** — la question clé de conception est de savoir comment structurer la délivrance des indices conformément aux principes de lutte productive, et non s'il faut fournir des indices du tout.([[lak2026-hint-button-unproductive-use]])
 - **La longueur du message est le levier que la recherche sur la délivrance a réellement mesuré.** Dans un cours de programmation en direct, des indices de LLM plus longs prédisaient une moins bonne exactitude à la soumission suivante, davantage de tentatives restantes et une resoumission plus lente, par écart-type de 204.9 caractères sur 14 809 paires étudiant-exercice ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). La lisibilité ne déplaçait presque aucun résultat, si bien que le volume comptait plus que la difficulté.
 - **Des indices antérieurs sur la même partie du cours étaient associés à une moindre réussite à l'étape intégrative.** Les étudiants ayant reçu une rétroaction sur les étapes antérieures d'un projet résolvaient leur étape finale dans 95.6% des cas, contre 98.1% pour ceux qui n'en avaient pas reçu, avec un coefficient log-odds de −1.096 ([[mihaylova-llm-feedback-live-programming-course-2026|Mihaylova et al., 2026]]). Les auteurs ne lisent pas cela comme un préjudice, puisque les étudiants qui demandent des indices sont plausiblement ceux qui auraient de toute façon buté à cet endroit, ce qui est la question de [[self-regulated-learning|surveillance]] que cette page soulève.
@@ -108,6 +113,11 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 
 [[tutortrace-learner-behavioral-states-2026|Barron et coll. (2026)]] s'attaquent au précurseur comportemental de la recherche d'aide dans l'[[cs-education|enseignement de la programmation assisté par l'IA]] : les tuteurs humains s'adaptent au comportement observable des apprenants, et pas seulement à leurs demandes explicites, mais les tuteurs par IA manquent de ce contexte. **TutorTrace** est un ensemble de données et un pipeline qui rendent le contexte comportemental des apprenants calculable en temps réel à partir de la télémétrie de bas niveau de l'environnement de développement intégré (quatre déploiements, N=480 ; environ 180 000 événements, 13 633 segments comportementaux, 27 métriques), dérivant une taxonomie de l'activité de l'apprenant *avant* la première requête à l'IA, *entre* les requêtes consécutives, et *sur l'ensemble de* la session. Cela permet aux systèmes de classer si une requête traduit une recherche d'aide **guidée** (précédée d'un travail indépendant) ou une recherche d'aide **dépendante** (sans travail indépendant) — AUROC=.717 en prédiction sur données retenues — et de prédire les requêtes imminentes (AUROC=.726). Une évaluation préliminaire en classe a montré que des invites sensibles au comportement ont réduit de 50.0% à 20.7% les intervalles entre requêtes sans travail indépendant. Cela relie la télémétrie de l'[[learning-analytics|analytique de l'apprentissage]] au [[intelligent-tutoring|tutorat adaptatif]], montrant que le contexte comportemental peut être opérationnalisé à grande échelle pour étayer *la manière dont* les étudiants cherchent de l'aide, plutôt que de simplement répondre à leurs questions explicites.
 
+**La trajectoire de la recherche d'aide prédit le transfert, et pas seulement son niveau.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] ont codé 880 tours de parole de 112 élèves du secondaire modélisant des problèmes de mathématiques avec un LLM et ont trouvé la composition statique peu informative : 81,5 % des tours étaient des demandes, seulement 2,2 % des évaluations explicites, et 54 % des demandes orientées vers la compréhension contre 46 % vers la réponse. La performance à un post-test passé sans IA était prédite par la pente intra-séance plutôt que par son niveau. La recherche d'aide orientée vers la compréhension a décliné (M = −0,20) au fil de la conversation, et cette trajectoire a ajouté ΔR2 = 0,110 à un modèle contenant déjà le score au pré-test (β = 0,34, p < 0,001). Les traits statiques de l'interaction n'ajoutaient que ΔR2 = 0,023 (p = 0,684). La qualité de la recherche d'aide doit donc se lire comme une courbe : une séance qui s'ouvre sur des questions conceptuelles et se stabilise sur des demandes de réponse marque une performance sans assistance plus faible, et une hausse modeste de l'autorégulation explicite (M = +0,103) ne la compensait pas.
+
+
+**Un second pipeline pose la même question du côté de l'infrastructure.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] soutiennent qu'un échange humain-IA est une classe de données à part entière : leur représentation enregistre l'état computationnel qui a suscité la requête, la requête, la réponse, l'évaluation qu'en fait l'utilisateur et l'exécution qui a suivi, comme un seul objet. Les requêtes sont ensuite classées en récupération d'erreur, étape suivante bloquée, aide conceptuelle ou validation à partir de ce contexte. Dans un déploiement JupyterLab de 35 étudiants couvrant 140 paires étudiant-devoir, de simples décomptes d'interaction ne corrélaient avec les cellules exécutées avec succès qu'à r = 0,12, tandis que 37 paires avaient accès à l'outil et ne l'ont jamais utilisé et 26 l'ont utilisé hors de leur condition assignée.
+
 ## Implications pour la conception et la recherche
 
 1. **Concevez délibérément les affordances de la recherche d'aide.** Des boutons d'aide persistants et visibles peuvent permettre des stratégies de contournement ; retardez l'accès et structurez la délivrance pour soutenir la [[desirable-difficulties|lutte productive]].([[lak2026-hint-button-unproductive-use]])
@@ -115,6 +125,12 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 3. **Employez la transparence pour calibrer la confiance.** Avertir de la faillibilité de l'IA peut accroître la recherche d'aide appropriée et l'engagement.([[ai-fallibility-warning-help-seeking]])
 4. **Mesurez le recours, pas seulement l'étayage.** Évaluez si les étudiants s'engagent réellement avec le cadrage pédagogique, et pas seulement si le tuteur le fournit.([[rethinking-scaffolding-llm-tutors]])
 5. **Soutenez le suivi et l'autonomie.** Les étayages de la recherche d'aide devraient renforcer la [[metacognition|métacognition]] et l'[[self-regulated-learning|apprentissage autorégulé]], en se gardant de la [[cognitive-offloading|dépendance excessive]].
+
+## Idées fausses courantes
+
+- **« Les étudiants qui ont besoin d'aide ne la demandent pas. »** Une **expérience préenregistrée** dans des cours de premier cycle à fort effectif a adressé des messages aux étudiants via un agent conversationnel académique et a constaté **un recours plus élevé au tutorat et aux dispositifs de soutien complémentaire**. L'incitation a déplacé le comportement, si bien que l'obstacle était la sollicitation plutôt que la volonté.
+- **« Les demandes d'aide portent sur l'apprentissage. »** **La demande de soutien opérationnel** complique cette hypothèse : sur **4 093 requêtes**, au moins **20,4 % portaient sur le statut d'une remise en attente plutôt que sur un savoir**. Un cinquième de la demande d'aide était administratif.
+- **« Utiliser un tuteur d'IA signifie surveiller son propre apprentissage. »** Dans une étude portant sur **98 élèves de 9e année** utilisant un tuteur GenAI, les interactions étaient **dominées par des demandes instrumentales avec presque aucune surveillance ni évaluation de leur propre apprentissage**. Demander des réponses n'est pas de la recherche d'aide au sens où ce construit l'entend.
 
 ## Concepts liés
 
@@ -139,6 +155,9 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 - [[student-support-and-success]] — La démarche institutionnelle et l'allocation des soutiens, au-delà de la recherche d'aide dans le cours
 
 ## Articles liés
+
+- [[taufer-human-ai-interaction-haidl-2026]] — Les interactions comme données de première classe : classer une requête par l'état d'exécution qui l'entoure
+- [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — La trajectoire de la recherche d'aide, et non son niveau, prédit la performance en mathématiques sans assistance
 
 - [[mihaylova-llm-feedback-live-programming-course-2026]] — Longueur des indices mesurée à l'aune de l'exactitude de la soumission suivante, des tentatives et du temps, dans un cours de programmation en direct
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — Un agent d'aide que personne n'a sollicité (Humburg et al. 2025)

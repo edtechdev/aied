@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Apprentissage en milieu professionnel
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-10T03:24:46-04:00"
+updated: "2026-11-01T10:12:13-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -11,13 +11,17 @@ audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
 translation_of: concepts/professional-training
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-31T14:04:31-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -40,7 +44,9 @@ ai_assist:
 - **Simulation et pratique :** la [[adaptive-virtual-patient-psychotherapy-training|formation par patient virtuel]] et les [[astra-atco-training-simulator|simulateurs de formation ATCO]] créent des environnements de pratique professionnelle propulsés par l'IA. Dans la [[teacher-education|formation des enseignants]], la simulation de jeu de rôle par l'IA l'étend à un enseignement fondé sur la pratique : [[zhuang-zhang-chatgpt-math-teacher-education-2026|Student GPT]] simulait un élève de mathématiques de collège [[misconceptions|porteur d'une idée fausse]] afin que les enseignants en formation initiale puissent s'entraîner à diagnostiquer et à remédier aux erreurs des élèves, en phase avec les « approximations de la pratique » de l'apprentissage [[teacher-role|enseignant]] fondé sur la pratique, comme complément abordable à des plateformes coûteuses comme TeachLivE.
 
 [[ai-coaching-rl-skill-development|Wang et al. (2026)]] ajoutent une leçon sur les politiques d'accompagnement : l'estompement de l'assistance ajusté à la compétence estimée de l'apprenant a réduit de 27,9 % le temps par tour de simulateur (p = 0,005) et les échecs de 3,52 par tour, tandis qu'un estompement fondé sur des règles suivant un calendrier fixe n'a produit aucun changement fiable du temps par tour.
+- **Une répétition volontaire, purement textuelle, n'a rien déplacé.** Sur 201 étudiants de première année de médecine à qui un patient GPT-4o a été proposé avant leur premier cours avec patient standardisé, 49 l'ont utilisé, et la nervosité, la préparation, l'auto-efficacité et la compétence auto-perçue ne différaient pas des 84 témoins ; 6 des 19 non-utilisateurs ayant donné une raison ont cité des problèmes techniques ou de connexion ([[jongkind-genai-patient-medical-communication-2026|Jongkind et al. (2026)]]).
 - **Intégration de la formation tout au long de la vie :** la [[lifelong-learning]] et la [[research-methods-aied|recherche]] sur l'[[adult-learning]] relient la formation professionnelle à l'éducation continue.
+- **Des agents conçus pour délibérer plutôt que pour répondre.** [[cowhitt-deliberative-instructional-agents-2026|Cowhitt et Gibson (2026)]] conçoivent des agents pédagogiques pour le développement professionnel des enseignants qui retiennent la réponse et pressent l'enseignant de justifier une décision, à partir de 33 codes de délibération répartis en 8 grappes.
 - **Secteur public :** l'[[ai-adoption-training-public-sector|adoption de l'IA dans le secteur public]] examine la formation dans les contextes gouvernementaux.
 - **Cadres de préparation à l'emploi :** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] proposent un cadre de Workforce Readiness Level (WRL) qui adapte l'échelle Technology Readiness Level en neuf stades de compétence évalués sur quatre piliers (littératie numérique/[[ai-literacy|IA]], maîtrise cyber-physique, collaboration [[human-ai-collaboration|humain–machine]], prise de décision fondée sur les données), sous une règle de « pas de pilier faible ». Les données issues des projets de fin d'études en fabrication intelligente montrent que les stades de préparation les plus élevés sont conditionnés par une expérience intégrée au secteur plutôt que par des cours — ce qui désigne l'apprentissage intégré au travail comme essentiel à la formation professionnelle à l'IA.
 - **Les priorités des enseignants et des employeurs divergent.** Une enquête menée auprès de 500 enseignants américains et d'un panel d'employeurs s'est accordée sur l'importance d'une seule des 26 compétences en IA — fixer des attentes réalistes quant au travail augmenté par l'IA — et seulement trois des 26 étaient enseignées par la moitié ou plus des enseignants ([[ithaka-sr-ai-skills-college-graduates-2026|Fried (2026)]]).
@@ -50,6 +56,7 @@ ai_assist:
 - **Prévision de la main-d'œuvre :** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] passent en revue la littérature grise américaine sur l'IA et la main-d'œuvre en ingénierie et informatique, en formulant le « Dual Train Problem » (changement rapide contre urgence politique) et en recommandant que l'[[higher-ed|enseignement supérieur]] priorise les compétences durables en IA, l'[[ethics|éthique]] et la [[governance]], ainsi que des certifications fondées sur les compétences alignées sur les rôles émergents (par ex., le [[prompt-engineering]], l'audit d'IA, la politique de l'IA dans l'éducation ([[educational-policy-ai]])) pour soutenir un travail centré sur l'humain dans une économie automatisée.
 - **Les conceptions de maintien des compétences perdent sous des métriques de débit.** [[skill-sustaining-reliance-reflective-ai-engagement-2026|de Jong (2026)]] soutient que l'interaction réflexive contredit la promesse de décisions plus rapides et de débit plus élevé qui pilote l'adoption de l'IA dans le travail professionnel : une étude contrôlée peut absorber la friction, un environnement mesurant la performance par la vitesse ou la quantité ne le peut pas, et lorsque des concurrents offrent un soutien équivalent sans friction, les conceptions de maintien des compétences deviennent un désavantage concurrentiel — un problème qui, selon l'article, relève peut-être de la politique organisationnelle ou publique plutôt que de la conception de l'interaction.
 - **Évaluation orale des capacités professionnelles.** Une étude de conception en enseignement et formation techniques et professionnels (EFTP) traite un décalage de longue date entre une évaluation fortement textuelle et les capacités verbales et situationnelles que certifient les qualifications professionnelles, en utilisant un [[llm]] pour soutenir une évaluation orale interactive. Sur quatre cohortes, le format vocal a été jugé réaliste par 21 des 33 apprenants, sans aucune réponse dissidente quant à son avantage sur un [[eportfolio|portfolio]] écrit, et le système a fonctionné entièrement hors ligne sur un seul ordinateur portable pour jusqu'à 12 apprenants simultanés, supprimant les enregistrements au bout de 90 jours et laissant la notation aux évaluateurs ([[ai-supported-oral-assessment-tvet-2026]]). C'est un exemple concret d'IA élargissant la gamme des compétences évaluables dans la formation professionnelle, plutôt qu'elle n'automatise les formats écrits existants. Ses cohortes étaient cependant des classes de mécanique automobile et d'ingénierie de niveau 3, si bien que les données probantes relèvent de la [[vocational-education|formation professionnelle initiale]] plutôt que du développement des compétences en milieu de travail que couvre cette page.
+- **La réunion est le lieu où la compréhension devient évaluable.** Quand un outil génératif rédige l'analyse, une mise à jour de recherche bien polie ne montre plus si un stagiaire comprend le travail, si bien que [[prunuske-cognitive-windows-research-meetings-2026|Prunuske et Adams-Phillips (2026)]] proposent trois fenêtres diagnostiques pour les réunions de recherche (calibration métacognitive, explication conceptuelle, construction de sens collaborative) avec des invites qui font apparaître ce qu'un résumé a omis.
 
 - **Ce sont les conditions institutionnelles, et non le contexte national, qui expliquent les écarts de préparation.** Une enquête comparative menée auprès de 568 enseignants-chercheurs dans
   des centres de développement pédagogique chinois (n = 340) et kazakhs (n = 228) ([[faculty-development-centers-genai-training-optimization-2026|Bi, Araily, Lyu et Xiu, 2026]])
@@ -74,6 +81,16 @@ La formation professionnelle diffère de l'éducation académique par son accent
 **La régénération de l'expertise comme enjeu de formation.** Le cadre Cognitive Commons ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) soutient que le développement des ressources humaines doit aller au-delà de la reconversion organisationnelle vers une gestion à l'échelle de la profession : éliminer les postes de développement de début de carrière dans les secteurs exposés à l'IA peut appauvrir le socle d'expertise partagé dont dépendent toutes les organisations, avec un effet différé dans le temps qui n'apparaît qu'au bout de 5–20 ans. Cela reformule la formation professionnelle comme passant du développement de compétences individuelles à l'entretien d'un bien commun collectif.
 **Associer la production par l'IA à une vérification, et chercher des mesures extérieures.** [[crewscaler-ai-upskilling-framework|Nguyen et al. (2026)]] intercalent des contrôles automatiques d'hallucination et un audit par des experts entre la rédaction et la diffusion dans un pipeline de développement des compétences en cinq étapes, et fondent les affirmations les plus fortes du cadre sur une accréditation NASBA CPE et un examen de certification d'un fournisseur plutôt que sur des mesures de réussite auto-définies.
 
+## Idées fausses courantes
+
+**« Les cours produisent la compétence professionnelle. »** Le cadre de cette page place les stades de compétence les plus élevés derrière une expérience intégrée au secteur plutôt que derrière des cours, ce qui est une limite réelle à ce qu'un programme de formation peut revendiquer. Un cours peut bâtir les prérequis ; le stade conditionné exige le travail.
+
+**« Estomper le soutien selon un calendrier équivaut à l'estomper selon les preuves. »** Non. L'estompement de l'assistance ajusté à la *compétence estimée* de l'apprenant a réduit le temps par tour de simulateur de **27,9 % (p = 0,005)** et les échecs de **3,52 par tour**, tandis qu'un estompement fondé sur des règles suivant un calendrier fixe ne produisait aucun changement fiable. La même quantité de soutien, libérée sur un signal différent, est une intervention différente.
+
+**« La formation à la littératie en IA se généralise d'un rôle à l'autre. »** La plupart des instruments ne mesurent pas une compétence propre au rôle : dans une revue systématique de **33 instruments de littératie IA pour enseignants**, **29 (87,9 %)** ciblaient des concepts généraux d'IA tandis que seuls **4 (12,1 %)** portaient sur l'usage pédagogique ou professionnel que le métier exige réellement. Un programme bâti sur des instruments généraux mesure un substitut.
+
+**« Un simulateur remplace la formation en milieu de travail. »** Il développe la procédure et retire la conséquence, ce qui est précieux et constitue exactement la part qui ne peut pas se transférer — la conséquence est le programme dans le travail à risque critique.
+
 ## Concepts liés
 - [[lifelong-learning]]
 - [[adult-learning]]
@@ -89,6 +106,7 @@ La formation professionnelle diffère de l'éducation académique par son accent
 - [[virtual-and-augmented-reality]] — là où la pratique immersive est la mieux établie
 
 ## Articles liés
+- [[prunuske-cognitive-windows-research-meetings-2026]] — Faire passer les réunions de recherche des mises à jour de données aux fenêtres cognitives à l'ère de l'intelligence artificielle
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — L'IA et l'avenir de la main-d'œuvre en ingénierie et informatique
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Le cadre Workforce Readiness Level pour la fabrication intelligente à l'ère de l'IA
 - [[crewscaler-ai-upskilling-framework]]
@@ -108,3 +126,6 @@ La formation professionnelle diffère de l'éducation académique par son accent
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Enquête reliant la formation antérieure à l'IA et la fréquence d'usage aux perceptions positives des enseignants turcs de mathématiques du primaire
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — La rotation des rôles comme mécanisme structurant la préparation professionnelle assistée par l'IA
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+
+- [[jongkind-genai-patient-medical-communication-2026]] — L'usage d'un patient GenAI pour la formation à la communication médicale des étudiants en médecine de premier cycle : une étude quasi expérimentale
+- [[cowhitt-deliberative-instructional-agents-2026]] — Des agents pédagogiques délibératifs pour le développement professionnel des enseignants, avec des conditions de responsabilité pour le DP médié par l'IA

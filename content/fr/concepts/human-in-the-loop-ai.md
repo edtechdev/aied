@@ -1,7 +1,7 @@
 ---
 title: "Humain dans la boucle"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-24T10:43:16-04:00"
+updated: "2026-11-01T10:19:33-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-10-24T06:14:00-04:00"
+source_updated: "2026-10-28T19:13:23-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -79,12 +83,12 @@ Le placement peut importer davantage que la présence : des praticiens ont jugé
 
 ## Pourquoi l'humain dans la boucle importe à l'ère de l'IA
 
-La conception avec un humain dans la boucle est devenue centrale dans les discussions de la base de connaissances sur l'[[agentic-ai|IA agentique]] et sur l'[[reducing-ai-misuse|usage responsable de l'IA]], pour plusieurs raisons convergentes :
+La conception avec un humain dans la boucle est devenue centrale dans les discussions de la base de connaissances sur l'[[agentic-ai|IA agentique]] et sur l'[[ai-literacy|usage responsable de l'IA]], pour plusieurs raisons convergentes :
 - **Sécurité pédagogique.** [[pedagogical-safety|La sécurité pédagogique]] exige qu'une IA dotée d'une véritable autorité pédagogique conserve une supervision humaine, afin que les erreurs, les biais ou les sorties nuisibles soient interceptés avant d'atteindre les apprenants. Cela vaut particulièrement pour les agents autonomes qui [[agentic-ai|poursuivent des objectifs de façon proactive]].
 - **La supervision est rare dans la pratique, pas seulement en théorie.** [[agentic-ai-education-scoping-review|Wang et al. (2026)]] ont constaté qu'une gouvernance intégrée robuste et une supervision humaine dans la boucle ne se manifestaient que rarement dans les 474 systèmes d'IA agentique éducative examinés, alors même que l'autonomie sur tâche unique et la collaboration multi-agents progressaient — l'écart entre le principe de conception et la pratique déployée.
 - **La question cruciale est de savoir comment la boucle est rendue actionnable, et non dans quelle mesure les humains y participent.** Un point de vue issu des sciences de l'apprentissage soutient qu'organiser l'apprentissage autour de la capture de données, de l'interprétation computationnelle et de la réponse probable fait dépendre l'action pédagogique de ce que les systèmes peuvent détecter et sur quoi ils peuvent agir, et que les alertes et les classifications d'engagement interprètent l'apprenant avant que tout enseignant ou étudiant n'agisse ([[in-the-loop-educational-ai-learning-sciences-2026|Pande (2026)]]).
 - **Validité et contrôle qualité.** L'humain dans la boucle constitue un garde-fou qualité pour l'[[automated-assessment|évaluation automatisée]] et la génération — les humains tranchent là où la notation automatisée est peu fiable (voir la [[research-methods-aied|recherche]] sur la [[llms-do-not-grade-essays-like-humans-2026|correction automatisée de dissertations par les LLM]]) et valident les items générés. Une [[meta-analysis-systematic-review|revue systématique]] guidée par PRISMA portant sur 42 études de notation et de rétroaction (2023–2025) aboutit explicitement à la même conclusion : les LLM égalent les évaluateurs humains sur des tâches courtes et bien structurées mais ne peuvent pas entièrement remplacer le jugement humain sur des travaux complexes, ouverts ou subjectifs, et l'efficacité de notation la plus élevée est atteinte dans des systèmes hybrides combinant une notation pilotée par l'IA avec la supervision et la vérification de l'enseignant ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat et al. (2026)]] montrent concrètement où se situe cette frontière : ChatGPT-5 a égalé les enseignants sur les items objectifs d'examens de pharmacie (CCC 0.935–1.000) mais s'est montré peu fiable sur les items à réponse courte et les dissertations, même lorsqu'on lui fournissait une grille, ce qui conduit les auteurs à recommander une notation hybride avec examen humain pour les travaux complexes, subjectifs ou à enjeux élevés.
- La répétition ne remplace pas cette supervision : en corrigeant à nouveau des productions identiques sur cinq jours différents, le même modèle n'a reproduit ses propres résultats qu'à un alpha de Krippendorff de 0.625, la variation se concentrant dans les notes moyennes, les A et les F étant absents des décomptes des cinq sessions ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- La répétition ne remplace pas cette supervision : en corrigeant à nouveau des productions identiques sur cinq jours différents, le même modèle n'a reproduit ses propres résultats qu'à un alpha de Krippendorff de 0.625, la variation se concentrant dans les notes moyennes, les A et les F étant absents des décomptes des cinq sessions ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **Autonomie de l'apprenant.** Maintenir un humain dans la boucle préserve l'[[agency|autonomie]] et soutient l'[[self-regulated-learning|apprentissage autorégulé]], en contrant la [[cognitive-offloading|dépendance excessive]] que peut induire une assistance pleinement autonome.
 - **Les étudiants situent eux-mêmes l'humain du côté des enjeux élevés.** Parmi 93 étudiants de premier cycle, 81.7% préféraient une notation humaine pour un travail final comptant pour 40% de la note, 75 sur 93 souhaitaient que l'IA assiste les évaluateurs plutôt qu'elle ne les remplace, et 69 voulaient que toute notation par l'IA fasse l'objet d'un examen humain ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
 - **Confiance et calibration.** Une supervision humaine transparente soutient la [[trust-calibration|calibration de la confiance]] — apprenants et enseignants savent qu'un humain qualifié se tient derrière le système.
@@ -117,6 +121,12 @@ La conception avec un humain dans la boucle n'est pas seulement une mesure de s�
 - **Les apprenants comme humain dans la boucle de leur propre tutorat.** La [[ko-hughes-vsd-student-centered-its-2026|conception sensible aux valeurs]] menée avec des étudiants de community college a produit toute une famille de fonctionnalités d'humain dans la boucle tournées vers l'apprenant pour un tuteur intelligent (contrôle sur la réévaluation et la relecture, objectifs et rythme personnalisés, marque-pages pour la révision, confirmation de la confiance avant la maîtrise, et contrôle du niveau d'implication de l'IA), positionnant l'étudiant comme un contrôleur actif de la boucle de tutorat plutôt que comme un consommateur passif des décisions adaptatives. L'étude a également montré les enseignants partagés sur la question de savoir si un tel contrôle de l'apprenant pouvait nuire à l'intégrité du parcours d'apprentissage guidé par le système — un exemple de la question plus large d'allocation de ressources : où le jugement humain (de l'apprenant ou de l'enseignant) apporte-t-il le plus de valeur ?
 - **L'escalade de l'IA vers l'expert est un geste d'humain dans la boucle.** Le cadre SCAN attribue les tâches à quatre modes d'IA générative selon la distance de l'apprenant, et interprète un [[student-engagement|engagement]] passif à l'intérieur d'une tâche d'IA correctement attribuée comme un signal de désapprentissage justifiant de faire passer l'apprenant de l'IA à une assistance experte, avec un humain comme auditeur épistémique ([[ai-teammate-task-distribution-medical-training-2026|Tsim et al. (2026)]]).
 - **Supervision des conseils d'adoption de l'IA.** Parce que les systèmes d'[[conversational-ai|IA conversationnelle]] consultés par des utilisateurs sceptiques peuvent être prédisposés à encourager l'adoption, une supervision humaine et une évaluation indépendante sont essentielles. Un audit montrant que la plupart des modèles de pointe réorientent le personnel sceptique du [[k-12|K-12]] vers l'[[student-engagement|engagement]] souligne la nécessité de conseils sur l'IA transparents et auditables, plutôt qu'une confiance acritique.
+
+## Idées fausses courantes
+
+- **« Montrer la recommandation du système aide l'humain à la superviser. »** **Retenir la réponse préférée d'un système est protecteur plutôt que correctif** : dans un débat multi-agents qui **ne révélait jamais de position recommandée**, le basculement préjudiciable vers la réponse de l'IA **a diminué**. La divulgation invitait à la déférence ; la rétention soutenait le jugement.
+- **« Un humain dans la boucle doit signifier un humain, une décision. »** Une classe multi-agents composée d'un [[teacher-role|Teacher]] Agent, d'un TA Agent et d'archétypes de camarades de classe a été déployée à l'Université Tsinghua avec **plus de 500 étudiants et plus de 100 000 enregistrements d'apprentissage**. La supervision passe à l'échelle par l'agencement, non en multipliant les superviseurs.
+- **« Réviser une sortie d'IA est intuitif. »** Dans une **étude intra-sujet avec 23 éducateurs**, une approche fondée sur la révision **a amélioré chaque principe CTML (note moyenne de 3,07 à 3,86, p < ,01)**, les éducateurs jugeant favorablement l'efficacité de production. La révision est une compétence qui s'améliore sous une méthode structurée.
 
 ## Concepts liés
 

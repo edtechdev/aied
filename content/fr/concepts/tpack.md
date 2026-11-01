@@ -1,7 +1,7 @@
 ---
 title: "Le savoir technologique, pédagogique et disciplinaire (TPACK)"
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,9 @@ Le TPACK soutient que l'intégration efficace de la technologie n'est pas la som
 - **Le savoir technologique et disciplinaire (TCK)** — comment la technologie façonne et représente les contenus.
 - **Le savoir technologique et pédagogique (TPK)** — comment la technologie soutient ou contraint les stratégies d'enseignement.
 - **Le TPACK** — le savoir intégré émergent au centre, là où les trois domaines interagissent pour rendre possible un enseignement augmenté par la technologie et propre au contenu.
+
+- **Le cadre domine le champ par défaut, et il est étiré pour s'y ajuster.** Dans une revue guidée par PRISMA de 78 études sur la conception pédagogique assistée par l'IA, seules 19 mobilisaient un cadre de compétences nommé — et le TPACK et ses variantes en représentaient **17 des 19**, utilisés de façon productive comme lentille analytique mais étirés au-delà de leur portée initiale, puisque le TPACK n'a pas été conçu pour les capacités propres à l'IA. Les extensions conçues à cet effet sont corrélativement rares : **l'Intelligent-TPACK n'apparaît que dans cinq études**, généralement associé à l'[[ai-literacy]] pour traiter la progression développementale ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
+- **La recherche avance sans théorie, tandis que les cadres politiques ne sont pas testés.** La même revue a constaté que **76 % des études inféraient des compétences à partir de la pratique sans aucune mise en correspondance théorique**, et ni DigCompEdu ni le Cadre de compétences en IA pour les enseignants de l'UNESCO n'a été mobilisé comme cadre analytique dans aucune des 78 — un décalage qui joue dans les deux sens, puisque le travail empirique n'accumule pas de vocabulaire partagé tandis que les cadres censés guider la pratique restent empiriquement non testés dans ce contexte.
 
 ## L'AI-TPACK et le GenAI-TPACK
 
@@ -86,6 +93,12 @@ Le TPACK est le cadre organisateur du versant enseignant de la base de données 
 2. **Traiter l'IA comme un agent, et non comme un appareil.** L'AI-TPACK étend le cadre vers l'orchestration d'[[agentic-ai|agents IA]], exigeant une pensée systémique et un jugement pédagogique sur le moment où l'IA doit agir.
 3. **Différencier le développement professionnel selon le profil de l'enseignant.** Différents archétypes d'enseignants (optimiseurs, créateurs, observateurs) bénéficient d'étayages différents — cadres avancés, rétroaction rapide ou modélisation explicite, respectivement.
 4. **Évaluer la compétence intégrée.** Les résultats orientés par le TPACK (par exemple les gains de AI-PCK) devraient être mesurés comme une capacité intégrée, et non comme une familiarité auto-déclarée avec les outils.
+
+## Idées fausses courantes
+
+- **« La prédominance du TPACK reflète sa puissance explicative. »** Cette prédominance est **en partie un artefact de recherche documentaire** : dans une revue de cadrage PRISMA de **195 études sur la formation des enseignants soutenue par la technologie**, la compétence numérique, le TPACK et DigComp **dominent la littérature indexée**. La prévalence dans une recherche est une propriété du vocabulaire que le champ emploie, non la preuve que le cadre explique davantage.
+- **« Un cadre bien connu est un cadre validé pour l'IA. »** Le TPACK n'a pas été conçu pour les capacités propres à l'IA, ce qui explique la mise au point de l'Intelligent-TPACK — et celui-ci n'apparaît que dans **cinq études** de la revue de 78 études. Mobiliser le TPACK pour la compétence en IA générative l'étire au-delà de sa construction.
+- **« Appliquer un cadre signifie que la recherche est théorée. »** La même revue a constaté que **76 % des études inféraient des compétences à partir de la pratique sans mise en correspondance théorique**, si bien que la présence du TPACK dans le champ coexiste avec une recherche majoritairement non théorée. Un cadre nommé n'est pas un cadre qui travaille.
 
 ## Concepts liés
 

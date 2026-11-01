@@ -1,7 +1,7 @@
 ---
 title: "Technologies de l'information"
 created: "2026-09-17T14:06:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:11:17-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 ethics: [equity-in-ai-education]
@@ -12,13 +12,17 @@ level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
 translation_of: concepts/information-technology
-source_updated: "2026-09-17T14:06:00-04:00"
+source_updated: "2026-10-29T05:15:49-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -46,7 +50,7 @@ Ce qui est distinctif au sujet de l'IA dans ce domaine, c'est que la même techn
 
 - **La formation à la cybersécurité par le jeu.** Li et ses collègues ont construit plusieurs jeux courts et adaptés au mobile couvrant la sécurité des mots de passe jusqu'à la reconnaissance des escroqueries par SMS et par téléphone, associant des conceptions fondées sur le questionnaire, la narration et la [[simulation|simulation]] à des formats interactifs comme les TikTok Mini-Games, motivés par le faible engagement et l'efficacité limitée des formations vidéo classiques ([[ai-gamification-security-education-2026]]). Leur évaluation à deux niveaux menée auprès de 59 étudiants de l'enseignement supérieur (9 experts techniques, 50 utilisateurs généraux) fait état d'un potentiel d'amélioration de l'engagement et de l'attention à la cybersécurité, plutôt que de gains d'apprentissage démontrés.
 - **L'IA générative comme étayage ou comme raccourci dans l'apprentissage autorégulé.** Une étude à méthodes mixtes portant sur 267 étudiants de deuxième cycle en technologies de l'information en Australie distingue le [[cognitive-offloading|délestage cognitif]] étayé (les apprenants clarifient leurs objectifs, génèrent des idées, obtiennent une [[feedback|rétroaction]] qu'ils critiquent ensuite et adaptent, de sorte que l'[[agency|autonomie]] leur reste) du délestage substitutionnel (les productions sont acceptées avec une vérification minimale, le contrôle se déplaçant vers l'outil) ([[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]]). La confiance a façonné l'orientation : les étudiants confiants exerçaient leur autonomie dans la fixation d'objectifs et le suivi, tandis que leurs pairs moins confiants lisaient l'IA générative comme un raccourci ou comme un [[academic-integrity|manquement]]. La cohorte était différenciée, et non uniformément lettrée en IA ; les auteurs recommandent d'exiger des étudiants qu'ils justifient ou adaptent les productions de l'IA comme un geste explicite de [[learning-design|conception pédagogique]].
-- **Les parcours d'expertise comprimés dans la pratique professionnelle.** Quatorze entretiens semi-directifs menés auprès de professionnels des technologies de l'information ont montré l'IA générative agissant à la fois comme un tuteur semblable à un mentor et comme un outil de raccourcissement d'échelle dans le dépannage, l'écriture de scripts et la vérification de systèmes ([[genai-expertise-pathways-sysadmin]]). L'accélération des performances dans des domaines inconnus réduit l'exposition aux cycles de construction-échec-débogage qui ont historiquement construit l'expertise ; la vitesse assistée par l'IA redéfinit aussi les attentes d'équipe et personnelles, produisant une culture à deux vitesses et une culpabilité de productivité. L'étude porte en [[professional-training|formation professionnelle]] et en [[lifelong-learning|apprentissage au travail]] les préoccupations de classe relatives au coût [[metacognition|métacognitif]] et à l'érosion des compétences.
+- **Les parcours d'expertise comprimés dans la pratique professionnelle.** Quatorze entretiens semi-directifs menés auprès de professionnels des technologies de l'information ont montré l'IA générative agissant à la fois comme un tuteur semblable à un mentor et comme un outil de raccourcissement d'échelle dans le dépannage, l'écriture de scripts et la vérification de systèmes ([[genai-expertise-pathways-sysadmin]]). L'accélération des performances dans des domaines inconnus réduit l'exposition aux cycles de construction-échec-débogage qui ont historiquement construit l'expertise ; la vitesse assistée par l'IA redéfinit aussi les attentes d'équipe et personnelles, produisant une culture à deux vitesses et une culpabilité de productivité. L'étude porte en [[professional-training|formation professionnelle]] et dans l'apprentissage au travail les préoccupations de classe relatives au coût [[metacognition|métacognitif]] et à l'érosion des compétences.
 
 ### L'évaluation et le versant apprenant de l'usage de l'IA en technologies de l'information
 
@@ -58,6 +62,33 @@ Ce qui est distinctif au sujet de l'IA dans ce domaine, c'est que la même techn
 
 - **Des indications, pas une politique.** Un balayage de l'environnement de l'ensemble des 48 masters accrédités en informatique de santé et en gestion de l'information sanitaire a montré que 40 (83%) disposaient d'au moins un document public sur l'IA, mais l'artefact le plus fréquent était une recommandation consultative (21, 53%) plutôt qu'une politique formelle (7, 18%) ([[institutional-ai-policy-health-informatics-2026]]). L'intégrité académique dominait le vocabulaire (n = 139), devant la citation (n = 59) et l'[[assessment|évaluation]] (n = 50), tandis que HIPAA (n = 5), FERPA (n = 11), l'accès équitable (n = 2) et les obligations de déclaration (n = 1) étaient presque absents, et les dossiers de santé électroniques n'étaient pas mentionnés du tout. L'allocation latente de Dirichlet a produit quatre thèmes autour de l'intégrité, de l'usage de l'IA générative par les étudiants, des outils de recherche universitaires et de l'usage de ChatGPT. Parce que seuls les documents publics ont été analysés, les auteurs traitent l'absence de langage relatif à la vie privée et à l'équité comme un constat sur les recommandations publiées, et non sur la pratique institutionnelle.
 - **L'angle mort de l'équité.** L'inclusion (n = 9), l'accessibilité (n = 9), les aménagements (n = 4) et l'accès équitable (n = 2) apparaissent à des taux qui ne peuvent étayer aucune affirmation selon laquelle l'[[equity-in-ai-education|équité dans l'IA en éducation]] a été traitée, alors même que plusieurs programmes exigent l'usage de l'IA dans les travaux de cours. Associé au traitement mince de la compétence de [[governance|gouvernance]] professionnelle, c'est la tâche de conception la plus claire que ce corpus laisse ouverte : relier les règles d'intégrité aux dispositions d'accès, de vie privée et de gouvernance des données que ces diplômés seront chargés de faire appliquer.
+
+## Idées fausses courantes
+
+**« L'enseignement des technologies de l'information, c'est l'enseignement de l'informatique avec plus d'outils de fournisseurs. »** La frontière est l'objet d'étude. L'enseignement de l'informatique se centre sur les algorithmes, la programmation et les fondements formels ; l'enseignement des TI se centre sur la configuration appliquée, la cybersécurité, les données et la gestion de l'information, et la gouvernance organisationnelle des systèmes socio-techniques. La distinction change ce à quoi un tuteur IA devrait être bon : un apprenant en TI a besoin de jugement sur les modes de défaillance d'un système déployé, pas d'une preuve sur un calcul.
+
+**« Un classificateur assez exact pour identifier des types de questions l'est assez pour automatiser la rétroaction formative. »** L'exactitude agrégée masque l'erreur par classe qui compte. Dans la comparaison citée par cette page, DeBERTa menait avec **86,36 % d'exactitude et 96,67 % de précision sur les questions factuelles**, mais la précision pour les facilitateurs tombait à **78,79 %** ; un BERT affiné atteignait **92,00 % de rappel sur les items de co-apprenants avec seulement 74,19 % de précision**. L'automatisation orienterait environ un item sur quatre vers la mauvaise intervention — et les erreurs se concentrent sur les catégories pédagogiquement intéressantes, pas sur les plus faciles.
+
+**« La plupart des programmes ayant un document sur l'IA disposent donc d'une gouvernance de l'IA. »** Dans un examen environnemental des **48** programmes de master accrédités en informatique de santé et en gestion de l'information de santé, **40 (83 %)** disposaient d'au moins un document sur l'IA accessible publiquement — mais ce constat s'intitule orientations, non politique. Un ensemble de recommandations publié n'est pas un mécanisme de gouvernance : il n'attribue ni responsabilité ni conséquence en cas de défaillance d'un système.
+
+**« Les étudiants incapables d'expliquer une décision assistée par l'IA font un mauvais usage de l'IA. »** L'explication alternative est qu'ils n'arrivent pas à formuler une décision qu'ils ont prise correctement. Le travail en TI est plein de pratiques compétentes dont la logique est tacite, et traiter une compétence inarticulée comme un manquement prend une cible pédagogique pour un problème de discipline : cela demande un entraînement à l'explication, pas une politique.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Rapportez la précision par classe, et non l'exactitude globale, avant d'automatiser toute orientation de la rétroaction. Le chiffre de précision pour les facilitateurs est celui qui détermine combien d'étudiants reçoivent la mauvaise aide.
+- Enseignez l'explication comme un livrable à part entière, afin que la compétence inarticulée soit distinguable du mauvais usage.
+- Distinguez orientations et gouvernance quand vous lisez une politique institutionnelle, et demandez qui est responsable lorsqu'un outil de la chaîne se trompe.
+
+**Pour les développeurs**
+
+- Publiez les matrices de confusion par catégorie d'apprenants ; un modèle fort sur les questions factuelles et faible sur les contributions de co-apprenants manquera systématiquement les cas collaboratifs.
+- Ne présentez pas un classificateur d'orientation comme un remplacement d'un facilitateur. À 74-79 % de précision, c'est une aide au triage.
+
+**Pour les concepteurs de programmes**
+
+- Construisez l'artefact de gouvernance qui manque au secteur : responsabilité nommée, cadence de revue et chemin d'incident. Un document d'orientation sur l'IA satisfait une question d'accréditation, pas une question de responsabilité.
 
 ## Concepts liés
 

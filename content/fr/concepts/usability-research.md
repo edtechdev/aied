@@ -1,7 +1,7 @@
 ---
 title: "La recherche sur l'utilisabilité"
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-10-24T10:45:55-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,13 +9,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,16 @@ La recherche sur l'utilisabilité partage ses méthodes de collecte de données 
 
 - **Forces :** identifie directement les barrières d'utilisabilité qui bloquent l'adoption et l'apprentissage ; produit des recommandations de conception actionnables ; complète la recherche d'efficacité et la recherche qualitative en expliquant *pourquoi* un outil fonctionne ou échoue à l'usage ; relativement rapide et peu coûteuse comparée à de grandes expérimentations.
 - **Limites :** les constats d'utilisabilité n'établissent pas d'effets sur l'apprentissage (un outil utilisable peut encore échouer à enseigner) ; les petits échantillons et les cadres propres à une tâche limitent la généralisabilité ; la satisfaction auto-déclarée peut diverger de la performance objective ; dépendance à l'égard du chercheur et de la conception des tâches.
+
+## Idées fausses courantes
+
+**« Un système utilisable est un bon système éducatif. »** La recherche sur l'utilisabilité porte sur l'interaction entre la personne et le système, non sur les résultats d'apprentissage, et les deux se séparent dans les deux sens : un outil pédagogiquement puissant peut être abandonné parce qu'il est frustrant, et un outil sans friction peut n'enseigner rien. La facilité est une condition préalable à l'usage, non la preuve que l'usage en valait la peine.
+
+**« L'utilisabilité est une activité de finition en fin de développement. »** C'est une famille de méthodes dotée de techniques centrales — observation, analyse de tâches, pensée à voix haute, revue heuristique — qui façonnent la conception plutôt qu'elles ne l'achèvent. Découvrir la friction une fois la pédagogie fixée tend à produire soit une refonte de l'interface autour du problème, soit l'abandon de l'outil.
+
+**« Les étudiants qui abandonnent un outil manquaient de motivation. »** L'abandon est souvent la lecture correcte, par l'utilisateur, d'un coût d'interaction que le concepteur n'a jamais mesuré. Comme un outil que personne n'utilise ne peut avoir d'effet, le taux d'abandon est en soi un résultat éducatif.
+
+**« Tester l'utilisabilité revient à mesurer l'apprentissage. »** Ils répondent à des questions différentes et ni l'un ni l'autre ne remplace l'autre ; le mode de défaillance consiste à tenir l'un ou l'autre pour suffisant en vue de l'adoption.
 
 ## Concepts liés
 

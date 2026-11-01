@@ -1,7 +1,7 @@
 ---
 title: Apprentissage par renforcement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -11,13 +11,17 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-10-02T08:08:45-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,16 @@ Une [[riedmann-reinforcement-learning-education-review-2026|revue systématique 
 ### Lien avec la base de connaissances
 
 L'apprentissage par renforcement sous-tend une grande partie de la conception moderne d'[[agentic-ai|IA agentique]] et d'[[intelligent-tutoring|tutorat intelligent]], là où l'agent doit optimiser l'apprentissage à long terme plutôt qu'une seule réponse correcte. Il se relie à l'[[llm-training-and-fine-tuning|entraînement et à l'affinage des LLM]] (l'apprentissage par renforcement comme méthode d'entraînement), à l'[[scaffolding|étayage]] (une conception de la récompense qui préserve la lutte productive) et à l'[[self-regulated-learning|apprentissage autorégulé]] (des agents qui aident les apprenants à réguler leur propre stratégie). Parce que la conception de la récompense encode des valeurs éducatives, la recherche sur l'apprentissage par renforcement en AIED est étroitement liée à la [[pedagogical-safety|sécurité pédagogique]] et aux considérations d'équité d'un comportement de tuteur [[equity-in-ai-education|équitable]].
+
+## Idées fausses courantes
+
+**« Égaler une ligne de base signifie que la politique d'AP a appris quelque chose qui vaut la peine. »** Cela signifie que la récompense a été satisfaite. Un tuteur en apprentissage par renforcement profond récompensé sur la note au test et l'efficience temporelle **a égalé une heuristique BKT au post-test (A = 0,58 chacun)** tout en n'attribuant que **4 % des problèmes d'entraînement à la réparation constructive d'exemples erronés** et en privilégiant l'interaction la moins coûteuse. La politique a optimisé ce pour quoi elle était payée, et ce pour quoi elle était payée excluait l'activité productive.
+
+**« La fonction de récompense est un détail technique. »** C'est la spécification pédagogique. Tout ce que la récompense pondère, la politique le fera, si bien que choisir entre la note, l'efficience temporelle, l'engagement et la réparation exige une position explicite sur ce qu'est l'apprentissage — une décision curriculaire encodée en un nombre.
+
+**« Des horizons plus longs sont simplement meilleurs. »** Ils rendent possible ce que des horizons plus courts ne permettent pas, et ils exigent que la récompense soit juste sur toute la séquence. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] optimise des **rencontres cliniques de 60 tours**, bien au-delà des horizons de 12 tours au plus des systèmes de dialogue concurrents, ce qui augmente le coût d'un objectif mal spécifié plutôt que de le réduire.
+
+**« L'AP est le formalisme approprié pour le tutorat parce que l'enseignement est séquentiel. »** La séquentialité est nécessaire et non suffisante ; la contrainte déterminante est la validité de la récompense. Un objectif bien spécifié avec une politique faible bat une politique forte contre un objectif erroné.
 
 ## Concepts liés
 

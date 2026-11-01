@@ -1,7 +1,7 @@
 ---
 title: "Le développement théorique en IA éducative"
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-10-24T10:44:22-04:00"
+updated: "2026-11-01T10:11:11-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,13 +10,17 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T15:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,7 @@ ai_assist:
 ## Introduction
 
 Le développement théorique en AIEd se situe à la frontière entre les [[learning-theories|théories de l'apprentissage]] appliquées dont le champ se sert et les construits nouveaux que l'ère de l'IA produit. Là où les [[learning-theories|théories de l'apprentissage]] cataloguent les théories établies appliquées à l'IA (béhaviorisme, constructivisme, charge cognitive, autodétermination, etc.), ce concept suit le *processus et le produit de la théorisation elle-même* : quelles théories et quels cadres nouveaux naissent, comment les théories établies sont avancées, et la question méthodologique de savoir si la recherche en AIEd théorise bien.
+- **Un cadre qui spécifie sa propre condition de comparaison.** Nakamura (2026) traite la partition du travail cognitif comme l'unité explicative, place les opérations sur un continuum gradué du périphérique au constitutif, nomme la condition de comparaison par rapport à laquelle l'augmentation et l'érosion sont définies, et en dérive sept propositions testables et conditionnées ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Parce que les propositions prédisent des différences entre configurations, une étude qui ne rapporte qu'un effet moyen ne peut ni les confirmer ni les réfuter.
 
 ## Nouvelles théories de l'apprentissage avec l'IA
 
@@ -88,6 +93,32 @@ La théorisation du champ est inégale. Les [[limitations-in-aied-research|limit
 ## Relation avec la philosophie de l'IA en éducation
 
 Le développement théorique et la [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] sont des volets complémentaires mais distincts du travail fondateur de la base de connaissances. **Le développement théorique** produit et teste empiriquement les *mécanismes* de l'apprentissage avec l'IA — des théories et des cadres nommés tels que le générativisme, la co-agency épistémique et la ligne de base cognitive absente qui expliquent et prédisent la manière dont les apprenants et l'IA interagissent. **La philosophie** interroge les *présupposés* sur lesquels reposent ces mécanismes : ce qui compte comme connaissance, qui compte comme sujet connaissant, et ce que l'apprenant est fondamentalement. Une théorie comme la [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agency épistémique]] propose un mécanisme tout en adoptant implicitement des engagements philosophiques sur la cognition distribuée et l'[[agency|agentivité]] ; la philosophie rend ces engagements explicites et contestables. Là où le développement théorique demande si un cadre explique bien l'apprentissage, la philosophie demande s'il saisit ce que l'apprentissage et l'esprit sont réellement — les deux volets se rencontrent dans les articles les plus fondamentaux du champ, qui font souvent les deux à la fois.
+
+## Idées fausses courantes
+
+**« Un constat que l'outil a fonctionné est une contribution théorique. »** Il ne l'est pas, et la raison est structurelle. Là où les propositions d'un cadre prédisent des *différences entre configurations*, une étude qui ne rapporte qu'un effet moyen **ne peut ni les confirmer ni les réfuter** — le dispositif ne voit pas la distinction dont traite la théorie. Un essai montrant un gain moyen dit que quelque chose s'est produit, pas quel mécanisme l'a causé, si bien que la théorie reste exactement aussi étayée qu'avant.
+
+**« Appliquer une théorie établie à l'IA, c'est du développement théorique. »** Le problème d'usage de la théorie exposé par cette page dit le contraire : l'application n'est pas un avancement, et le schéma récurrent du champ consiste à emprunter des construits pour s'en servir comme vocabulaire plutôt que comme prédictions testables. La distinction compte parce qu'un cadre emprunté incapable de produire une différence falsifiable est une décoration, pas une théorie.
+
+**« Les taxonomies existantes de la fonction pédagogique de l'IA couvrent déjà ce que font ces systèmes. »** Elles n'en couvrent pas grand-chose. Parmi 154 publications dotées d'une fonction d'application classable, **90 (58,4 %) échappaient aux quatre catégories** du cadre antérieur, ce qui explique pourquoi les travaux plus récents croisent la fonction avec le contrôle délégué, la position épistémique et la pédagogie intégrée. Une taxonomie qui classe mal près de trois cas sur cinq ne peut pas servir de vocabulaire commun au champ, et l'écart est un constat sur le phénomène plutôt qu'un défaut d'un article.
+
+## Implications pour la pratique
+
+**Pour les enseignants et les concepteurs pédagogiques**
+
+- Quand une étude rapporte un effet moyen, ne la traitez pas comme une indication sur *votre* configuration. Les affirmations de niveau théorique portent sur des différences entre configurations, et une moyenne ne peut pas vous dire laquelle vous appliquez.
+- Pour tout cadre que vous adoptez, demandez-vous s'il prédit quelque chose qui pourrait se révéler faux dans votre propre contexte. S'il ne le peut pas, il ne vous aidera à décider de rien.
+- Attendez-vous à ce que les catégories existantes manquent votre cas ; plus de la moitié des publications classées n'entraient pas dans la répartition standard en quatre.
+
+**Pour les développeurs**
+
+- Rapporter des configurations plutôt qu'un effet unique mis en avant. Si votre conception incarne une combinaison précise de contrôle délégué et de posture épistémique, dites-le — c'est l'unité dont parle la théorie et celle dont une autre équipe a besoin pour reproduire.
+- Ne commercialisez pas une affirmation de mécanisme sur la base d'un résultat moyen ; le type de données probantes exigé pour le mécanisme est un contraste, pas une moyenne.
+
+**Pour les chercheurs**
+
+- Concevez des contrastes entre configurations si vous visez une contribution théorique. Un essai à effet moyen publié comme développement théorique est la production la plus courante et la moins utile du champ.
+- Attachez des propositions falsifiables explicites à tout cadre que vous introduisez, et rapportez quelles différences de configuration les auraient réfutées.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Capitulation cognitive"
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-11-01T10:14:04-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,13 +13,17 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-10-25T20:20:00-04:00"
+source_updated: "2026-11-01T14:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,18 +73,22 @@ Trois expériences préenregistrées ont adapté le Test de Réflexion Cognitive
 
 La lecture pratique est que la capitulation est un **échec de discrimination** plutôt qu'un échec de motivation. Les participants qui ont capitulé ne cherchaient pas à éviter le travail ; ils ne pouvaient pas distinguer un bon conseil d'un mauvais, et l'interface ne leur donnait aucune raison d'essayer.
 
+Une expérience préenregistrée de [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] fournit une configuration contrastée. Avec un assistant cloisonné par enrichissement de récupération à la fiche d'exercices assignée, la condition IA a abaissé le délestage cognitif (médiane −0.27) au lieu de l'élever, et aucun chemin de délestage ne portait la hausse de la désorganisation (0.84). La capitulation exige un assistant dont le conseil peut être adopté en bloc ; un système qui ne répond qu'à partir du matériel présent donne moins à adopter et plus à réconcilier à l'apprenant.
+
 ## Surrender outside the lab
 
 Les constats de laboratoire rejoignent des travaux de terrain et d'observation qui ont indépendamment choisi le même mot.
 
 - **Le déplacement au niveau de la population.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analysent 3.2 millions d'interactions d'apprentissage ALEKS et 12.2 millions de temps de réponse à des [[assessment|tests de placement]] sur un panel de dix ans, les problèmes à base de graphes servant de contrôle aux problèmes textuels. Les étudiants achevaient plus vite les travaux susceptibles d'être réalisés par l'IA et obtenaient de meilleurs scores sur ceux-ci, alors que les items de rétention surveillés montraient une baisse cumulative de 25% des chances de réponse correcte ; les auteurs qualifient ce schéma de capitulation cognitive à l'échelle de la population.
 - **La vérification comme variable discriminante.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] constatent que *la manière* dont les étudiants utilisent l'IA générative prédit la [[learning-gains|performance]] tandis que *la quantité* d'usage ne prédit ni l'une ni l'autre : une appropriation à faible vérification — accepter la production sans esprit critique — était associée à de moins bons résultats, et l'intégration évaluative à de meilleurs.
-- **L'usage irréfléchi érode les ressources dont l'autodirection a besoin.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao et Gu (2026)]] modélisent directement l'adoption sans évaluation : chez 487 étudiants de premier cycle, l'usage irréfléchi de l'IA générative était associé à un [[self-regulated-learning|apprentissage autodirigé]] plus faible (β = −0.42), en partie par une [[motivation|motivation]] et un [[self-efficacy|sentiment d'efficacité personnelle]] réduits.
+- **L'usage irréfléchi érode les ressources dont l'autodirection a besoin.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao et Gu (2026)]] modélisent directement l'adoption sans évaluation : chez 487 étudiants de premier cycle, l'usage irréfléchi de l'IA générative était associé à un [[self-directed-learning|apprentissage autodirigé]] plus faible (β = −0.42), en partie par une [[motivation|motivation]] et un [[self-efficacy|sentiment d'efficacité personnelle]] réduits.
 - **La trace neuronale et la trace de la qualité d'auteur.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|l'étude EEG sur la dette cognitive]] a mesuré la [[writing-education|rédaction de dissertations]] avec un [[llm|LLM]], un moteur de recherche et sans outil : le groupe LLM montrait la plus faible connectivité neuronale, déclarait la plus faible paternité de son propre travail, et peinait à citer ce qu'il avait écrit.
 - **La capitulation peut arriver sans sollicitation.** [[ai-advice-suppresses-ikt-suspension-2026|Les travaux sur la suspension du jugement]] ont constaté que la simple disponibilité de conseils d'IA faisait s'effondrer la propension des gens à dire « je ne sais pas » (0.06 contre 0.36, et 0.03 contre 0.44 dans deux études), tandis que l'exactitude baissait et que la confiance montait d'environ 30 à 76. Les enjeux ne rétablissaient pas la suspension, bien que les incitations améliorent l'exactitude en encourageant les corrections. Une quatrième étude montrait l'effet sans aucune consultation, le schéma d'une saisie semi-automatique ou d'un résumé de moteur de recherche plutôt que d'une invite de conversation.
 - **Les modes dépendant et autonome ne se distinguent que par leurs conséquences.** [[family-school-autonomy-support-genai-2026|Fan, Li et Zhang (2026)]] suivent 589 étudiants et jeunes actifs sur trois vagues : le délestage dépendant délégue la pensée centrale et allait de pair avec une moindre motivation intrinsèque, alors que le délestage autonome non, et la performance immédiate était identique dans les deux cas.
 - **La propre contribution du modèle.** La [[sycophantic-ai-social-interaction-2026|sycophanie]] est le complément de la capitulation : un assistant qui est d'accord, qui s'adapte au cadrage de l'utilisateur, ou qui énonce une affirmation avec fluidité ne donne à l'apprenant rien contre quoi s'appuyer.
 - **Le retrait est la moitié non résolue.** [[cognitive-washout-ai-skill-decay-2026|Les travaux sur le lavage cognitif]] soulignent que presque toutes ces recherches mesurent la cognition *pendant* l'usage de l'IA, et presque aucune ne mesure ce qui se produit lorsque l'assistant est retiré, ce qui est précisément la question que pose un examen, une panne ou un contrôle de licence.
+
+- **« La délégation d'une dissertation entière reste hypothétique hors du laboratoire. »** Cela s'est produit dans une étude en ligne à session unique, sans politique ni encouragement. Sur **77** rédacteurs universitaires, **15 (19,5%)** ont soumis des dissertations rédigées à **100%** par le modèle, sans taper un mot dans l'éditeur, et **20** participants ont demandé d'emblée une dissertation entière, le code le plus utilisé du schéma. L'utilisateur le plus intensif a soumis **27** requêtes. [[jelson-students-chatgpt-essay-writing-2026|La capitulation est apparue comme un schéma de demandes]], et non comme un acte unique détectable.
 
 ## Designing and teaching against surrender
 
@@ -140,3 +148,5 @@ Les données probantes en faveur de la capitulation comme construit nommé repos
 - [[brcic-effortless-trap-productive-struggle-2026]] — placer l'IA pour que la tâche reste exigeante
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — entraînement au calibrage
 - [[family-school-autonomy-support-genai-2026]] — délestage dépendant contre délestage autonome
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — Un assistant ancré dans la fiche d'exercices a abaissé le délestage au lieu de l'élever, une condition limite pour la signature de la capitulation (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Délégation naturaliste de dissertations entières : 15 des 77 dissertations entièrement écrites par le modèle, 20 demandes de dissertation complète (Jelson et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Patrons pédagogiques"
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -10,14 +10,19 @@ audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
+connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -56,6 +61,8 @@ Ces patrons partagent une affirmation structurelle : l'apprenant doit s'engager 
 
 Une condition de récupération espacée adaptative a produit les scores de post-test les plus élevés (M = 78,19) et a significativement surpassé l'étude assistée par l'IA dirigée par l'apprenant (M = 67,28, d = 0,92, p = ,003) sur 89 étudiants dans un cours de statistiques hybride, tandis que l'espacement fixe était statistiquement indiscernable de l'adaptatif ([[adaptive-pretesting-retention|Akgun et Toker, 2026]]). Le cas contrasté est décisif : dans un [[rct|essai randomisé]] portant sur 120 étudiants, le groupe qui étudiait *avec* un accès sans restriction à ChatGPT retenait moins lors d'un test surprise 45 jours plus tard — 57,5 % de réponses correctes contre 68,5 % pour les apprenants traditionnels, t(83) = −3,19, p = ,002, d = 0,68 — et avait aussi étudié environ 45 % moins, le désavantage survivant à une covariable de temps d'étude ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui, 2025]]). Une expérience de terrain randomisée préenregistrée dans un MBA en ligne a trouvé que les gains suivaient les *semaines achevées* plutôt que les minutes d'exposition (+2,00 points par semaine de tutorat achevée supplémentaire, p = ,018), ce qui se lit comme le fait que la [[retrieval-spacing-interleaving|pratique espacée]] importe plus que le temps total ([[ai-tutor-modality-randomized-field-experiment-2026|Yang et al., 2026]]).
 
+L'argument causal en faveur de la règle est une expérience de terrain menée dans une cinquantaine de classes de mathématiques du secondaire en Türkiye, avec près de 1 000 élèves ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). Un GPT-4 sans restriction a relevé de 48 % la performance en pratique assistée et abaissé de 17 % celle de l'examen sans assistance par rapport au témoin, tandis qu'un GPT-4 sous garde-fous a relevé la pratique de 127 % en laissant l'examen pratiquement inchangé. Les garde-fous n'étaient que deux : des indices au lieu de réponses, et un contenu propre au problème rédigé par l'enseignant (solution correcte, erreurs courantes) injecté dans l'invite pour que les indices soient exacts. Les données d'engagement situent le préjudice dans la copie, puisque les étudiants sans garde-fous demandaient surtout des réponses, et les étudiants des deux bras avec IA mésestimaient leur propre apprentissage.
+
 ### Échec productif : tenter avant l'enseignement
 
 **Preuves : mitigées, et plus minces que sa réputation.** Les étudiants tentent un problème ciblant un concept qui ne leur a pas été enseigné, le tuteur retient la solution et sollicite de multiples tentatives, l'aide ne vient que lorsqu'elle est strictement nécessaire, et la consolidation suit avec une comparaison et un enseignement direct.
@@ -73,6 +80,8 @@ Une étude pré-post portant sur 13 étudiants dans un cours de bases de donnée
 **Preuves : mitigées — les deux moitiés divergent.** Un exemple travaillé est présenté avec des justifications manquantes à compléter, ou avec des erreurs à trouver ; l'étudiant le complète ou le répare, explique son raisonnement, puis tente le problème suivant.
 
 L'attribution adaptative d'exemples guidés et bogués a battu l'attribution aléatoire par type de problème dans une étude de classe portant sur 113 étudiants (post-test M = 72,3 et 72,5 contre 65,7 pour le témoin, A = ,58, p = ,005 et p = ,002), et la variante par [[knowledge-tracing|traçage des connaissances]] a réduit l'écart de réussite de 77,1 % pour les étudiants à faibles [[prior-knowledge|connaissances préalables]] (β = 9,4, p = ,001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al., 2026]]). Mais *ajouter* l'étape d'auto-explication à une rétroaction élaborée par l'IA a perdu sur toutes les mesures dans une expérience préenregistrée portant sur 302 participants : elle a doublé le temps de rétroaction (4,1 contre 2,1 min, p < ,001), réduit de 40 % les problèmes achevés (2,0 contre 3,4, p < ,001), produit aucun gain par épisode (OR = 1,03, p = ,486), et abaissé la maîtrise en fin de séance (65 % contre 79 %, d = ,41, p < ,001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher et al., 2025]]).
+
+Le nombre d'exemples à donner avant la pratique dépend lui-même du contenu, ce que le cadrage de cette section en termes d'« exemples travaillés puis problèmes » laisse ouvert. Dans une expérience 2×2 portant sur 95 participants et des supports sur l'aire géométrique, l'entraînement à la seule pratique a produit des gains plus grands pour les faits verbatim, tandis que l'alternance d'exemples et de pratique a produit des gains plus grands pour les compétences généralisables (β = 0,41, p = ,038, d = 0,38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho, 2025]]). Une séquence ne peut pas être jugée dans l'abstrait comme exemples travaillés contre pratique, parce que le bon dosage découle de ce que la cible est un fait ou une compétence.
 
 ## Les patrons qui associent la rétroaction de l'IA à la rétroaction humaine
 
@@ -148,7 +157,7 @@ Une expérience préenregistrée portant sur 375 adultes a trouvé que le dialog
 
 ## Contextes et disciplines
 
-Le patron détermine ce que le contexte exige, et plusieurs patrons n'ont été testés que dans un seul cadre :
+Le patron détermine ce que le contexte exige, et plusieurs patrons n'ont été testés que dans un seul cadre. Les estimations regroupées rendent cette dépendance quantitative. Sur 35 études expérimentales et quasi expérimentales et 175 tailles d'effet, l'effet regroupé de l'IA générative sur la performance académique des étudiants de premier cycle était de g = 0,46, et le modèle pédagogique le modérait (Q = 14,63, p = 0,001). Les classes inversées atteignaient g = 1,96 sur 7 tailles d'effet, les classes traditionnelles g = 0,46, et l'apprentissage autodirigé g = 0,26 ([[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al., 2026]]). La durée de l'intervention le modérait aussi, l'effet sur la performance académique passant de g = 5,07 à 0 à 4 semaines à g = 0,01 au-delà de 12 semaines. Les auteurs traitent les estimations très élevées sur courte durée comme descriptives plutôt que généralisables, si bien qu'une taille d'effet pour « l'IA dans l'enseignement » est une affirmation sur une conception, et les patrons de cette page sont ces conceptions.
 
 - **En ligne et asynchrone.** La récupération et l'espacement, les variantes socratiques, les exemples travaillés avec auto-explication, l'usage étayé par l'invite, l'[[oral-assessment|évaluation orale]] asynchrone, et les déploiements d'apprentissage en enseignant. Les cadres asynchrones rendent la *séquence* porteuse de sens, parce que le système ne peut pas voir si l'étudiant a tenté d'abord.
 - **En face à face et hybrides.** L'[[productive-failure|échec productif]], l'analyse des erreurs, les variantes renversées, la revue orale de code, la collaboration scriptée, et les études de changement conceptuel. Le temps de classe est souvent réalloué plutôt que remplacé — dans le patron de revue orale, les cours magistraux ont été déplacés vers la vidéo afin que le temps de classe puisse accueillir les entretiens.
@@ -177,6 +186,12 @@ Les patrons ci-dessous proviennent d'un guide pour le corps professoral fourni p
 - **Plan + essai + adaptation** (réussite universitaire). Remplacez une réflexion générique sur la gestion du temps par un plan d'étude d'une semaine, un bref relevé de sa mise à l'essai, et une révision rattachée à ce qui s'est passé ; l'IA peut suggérer des options de planification après que l'étudiant a identifié les contraintes.
 
 Les mises en garde propres au guide s'appliquent : la vidéo enregistrée, les réflexions et les journaux peuvent eux-mêmes être assistés par l'IA, si bien que dans les cours entièrement asynchrones un enregistrement ne devrait pas être traité comme une vérification de la maîtrise indépendante. Deux de ses cadrages — les jumeaux d'évaluation et l'évaluation orale asynchrone comme moyen de dissuasion de la triche — demeurent des cadres en attente de validation ; les études d'évaluation orale asynchrone citées ci-dessus ont mesuré des scores de format et n'ont pas du tout mesuré la triche.
+
+## Idées fausses courantes
+
+- **« Toute pratique fournie par l'IA est de la pratique. »** Une condition de récupération espacée adaptative a produit **les scores de post-test les plus élevés (M = 78,19)** et **a significativement surpassé l'étude assistée par l'IA dirigée par l'apprenant (M = 67,28)**. Le dispositif dirigé par l'apprenant a sous-performé un dispositif structuré : l'autonomie n'est donc pas automatiquement la meilleure conception.
+- **« Étudier avec un chatbot vaut mieux qu'étudier sans. »** Le **cas contrasté est décisif** : dans un [[rct|essai randomisé]] portant sur **120 étudiants**, le groupe qui étudiait **avec** un accès sans restriction à ChatGPT retenait **moins lors d'un test surprise**. L'outil a nui à la rétention dans le dispositif testé.
+- **« Les preuves du patron sont un grand essai regroupé. »** Le **soutien le plus fort est indirect** et provient d'une **expérience randomisée en sujets intérieurs portant sur 26 étudiants**, où l'[[scaffolding|étayage]] à réponse immédiate a performé significativement différemment. Les preuves soutiennent le patron tout en restant minces à l'échelle, et la page doit être lue ainsi.
 
 ## Concepts liés
 

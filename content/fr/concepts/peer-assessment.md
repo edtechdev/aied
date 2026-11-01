@@ -1,7 +1,7 @@
 ---
 title: Évaluation par les pairs
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-10-24T10:48:30-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -39,6 +43,8 @@ ai_assist:
 L'évaluation par les pairs est un choix de conception d'évaluation dans lequel les étudiants assument une partie du travail évaluatif habituellement réservé aux enseignants. Ses formes diffèrent selon ce que les étudiants produisent et ce qui est en jeu : le retour entre pairs (des commentaires sur un brouillon, généralement [[formative-assessment|formatif]] et à faible enjeu), la notation entre pairs (une note contribuant à une évaluation), la revue de code entre pairs, et l'évaluation de groupe ou d'équipe (où les pairs évaluent le produit collectif ou les contributions mutuelles). La forme détermine ce que les étudiants exercent — donner un commentaire fondé sur des critères développe l'[[evaluative-judgment|jugement évaluatif]] différemment de l'attribution d'un nombre, et défendre oralement son propre code développe encore autre chose. L'[[self-assessment|auto-évaluation]], la pratique sœur, tourne ce même examen fondé sur les critères vers le travail de l'apprenant lui-même, tandis que l'évaluation par les pairs le dirige vers la soumission d'un pair et vers la conscience du public qui l'accompagne.
 
 La base de recherche s'accorde sur le fait que l'évaluation par les pairs produit de l'apprentissage et diverge sur la mesure où cela dépend de la conception. Elle donne aux étudiants un public authentique, développe le jugement évaluatif par la réponse fondée sur les critères, et construit le contexte social qui soutient l'[[student-engagement|engagement]] et la [[motivation]]. Sa qualité dépend fortement du [[scaffolding]] — de la qualité de sa structuration, et de ce que les étudiants reçoivent des critères clairs et un entraînement. Cette dépendance est le point d'entrée de l'IA, comme complément cohérent et guidé par les critères au retour spécifique et sensible au contexte que donnent les pairs, et de plus en plus comme soutien intégré au processus même d'évaluation par les pairs.
+
+[[wang-student-ai-collaboration-peer-feedback-2026|Wang et Guo (2026)]] constatent que des étudiants d'anglais langue étrangère qui évaluaient les textes de leurs pairs au moyen d'un dialogue ouvert avec une IA générative produisaient un retour que les destinataires jugeaient de meilleure qualité, avec des gains de réponse émotionnelle et de littératie du retour qui variaient selon la qualité du dialogue.
 
 ## Ce que les étudiants apprennent en évaluant leurs pairs
 
@@ -89,6 +95,12 @@ Plusieurs choix de conception en découlent. Donner aux évaluateurs un entraîn
 La revue médiatisée par l'IA générative hérite aussi des normes linguistiques de l'outil : des contributeurs à un dialogue sur les World Englishes soutiennent que les évaluateurs utilisant l'IA générative sont exposés au même biais en faveur des variétés dominantes de l'anglais que les modèles, et recommandent d'éditer ou de réécrire le texte généré pour refléter l'identité linguistique propre de l'auteur ([[genai-linguistic-diversity-academic-writing|Ugwuanyi et al. (2026)]]).
 
 Les questions ouvertes portent sur la solidité des données probantes, et pas seulement sur la conception. Une grande partie des données sur les pairs et l'IA est réduite et liée au contexte : 45 étudiants enseignants dans un cours, 34 étudiants dans un cours d'écriture commerciale, 52 enseignants en formation initiale dans 15 groupes de discussion. L'enquête PAIRR est le plus grand jeu de données présenté ici et mesure les perceptions des étudiants, non la qualité des sorties de l'IA qu'ils jugeaient. Seuls les 1 176 étudiants de premier cycle de l'expérience multisites approchent une échelle causale-comparative, et elle teste la conception du retour pour l'argumentation scientifique plutôt que l'évaluation par les pairs en tant que telle. Pendant ce temps, [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] a audité 14 méta-analyses évaluées par les pairs affirmant que l'IA améliore l'éducation et a constaté qu'aucune ne fournissait de base valable à ses affirmations — toutes sauf deux définissaient le traitement comme un outil plutôt que comme une intervention pédagogique, l'hétérogénéité était élevée dans chaque méta-analyse rapportant l'I² (de 77,2 % à 94,4 %), et un audit de 59 études primaires a révélé que 61 % présentaient des [[assessment-validity|problèmes de validité]], le plus souvent un décalage entre le résultat mesuré et l'affirmation faite. Les affirmations sur ce que fait l'IA dans l'évaluation par les pairs devraient être traitées comme des affirmations portant sur une activité conçue, testées dans les termes de cette activité.
+
+## Idées fausses courantes
+
+- **« La soutenance orale met fin au travail assisté par l'IA. »** Les caractères collés par rapport au total **sont passés de 61.0% à 68.1% (p < 0.0001)** après que chaque rendu de CS1 eut été soumis à un **entretien oral de revue de code de 15 minutes pesant 70% de la note**. Le comportement visé a augmenté — et **les notes d'examen n'ont pas baissé et le temps passé sur la tâche est resté stable**, tandis que **90% des étudiants déclaraient que les entretiens les motivaient**. L'intervention a agi sur la compréhension, non sur le collage.
+- **« La détection de la tricherie est la raison d'être de l'évaluation orale. »** Les résultats mesurés étaient la compréhension et la motivation, non la réduction du texte collé. Juger le dispositif à son taux de détection méconnaît ce qu'il a accompli.
+- **« L'évaluation par les pairs est un substitut moins coûteux au retour de l'enseignant. »** C'est l'[[learning-by-teaching|apprentissage par l'enseignement]] qui constitue le mécanisme, et il apparaît même chez les machines : le discours de type apprentissage entre pairs chez plus de **2.4 millions d'agents d'IA** était surtout **de l'affirmation plutôt que de l'enquête**. Produire une critique est un acte différent de la recevoir.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — PAIRR et le retour combiné pairs-plus-IA : les séquences et leurs données comparatives

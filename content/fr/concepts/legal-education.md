@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du droit"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-24T10:44:49-04:00"
+updated: "2026-11-01T10:16:48-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,13 +15,17 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-10-16T06:18:00-04:00"
+source_updated: "2026-11-01T08:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,8 @@ ai_assist:
 L'enseignement du droit prépare les étudiants à une profession réglementée dotée de ses propres règles de déontologie, de son propre organe d'accréditation et de son propre examen de sélection, ce qui en fait la discipline de la base de connaissances où l'[[educational-policy-ai|politique éducative]], la [[regulation|réglementation]] professionnelle et la validité de l'évaluation se croisent le plus étroitement. Il se situe aux côtés de l'[[medical-education|enseignement des professions de santé]] et de l'[[nursing-education|enseignement des soins infirmiers]] comme une discipline de [[professional-training|formation professionnelle]] plutôt qu'une matière scolaire, mais sa caractéristique distinctive est procédurale : l'essentiel de ce que les écoles de droit doivent décider n'est pas *comment* enseigner avec l'IA mais *ce que les règles de déontologie professionnelle exigent* d'un diplômé qui exercera avec elle.
 
 Le corpus de données probantes est actuellement mince et dominé par les politiques. Un article substantiel ancre la page : [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] ont enquêté sur les politiques institutionnelles en matière d'IA générative dans les écoles de droit américaines agréées par l'ABA et les ont comparées, puis ont proposé un cadre de gouvernance. Ce déséquilibre est en soi un résultat, et la page le signale plutôt que de le dissimuler.
+
+Des données probantes expérimentales commencent à arriver : [[xie-genai-mystery-game-legal-education-2026|Xie et coll. (2026)]] ont randomisé 84 étudiants de premier cycle en droit entre un jeu de rôle policier rédigé par IA générative et le cours magistral du même enseignant, et le groupe du jeu a obtenu des scores bien plus élevés à un post-test de connaissances et de raisonnement (*η*² partiel = 0.566).
 
 ## Comment l'IA apparaît dans l'enseignement du droit
 
@@ -81,6 +87,12 @@ Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur
 - Qu'advient-il de l'enseignement socratique si la lecture préparatoire est régulièrement déléguée, et le silence de la classe à ce sujet est-il un problème de mesure ou un problème de conception ?
 - L'enseignement du droit forme les personnes qui plaideront et réglementeront l'[[ai-education|IA en éducation]]. Cela en fait-il le lieu naturel pour mettre à l'épreuve le travail de la base de connaissances sur le risque juridique, ou bien cela déforme-t-il l'attention vers les écoles de droit aux politiques les plus bruyantes ?
 
+## Idées fausses courantes
+
+- **« Les facultés de droit ont arrêté une position. »** La plupart ont adopté des **positions généralement prohibitives**, souvent expliquées comme un **achat de temps pour étudier la technologie**, tandis que **presque toutes les politiques réservaient un pouvoir discrétionnaire aux enseignants individuels**. Une interdiction assortie d'un droit de dérogation enseignante n'est pas une position arrêtée, c'est un report avec un réglage par défaut.
+- **« Les données d'enquête décrivent le domaine. »** L'**enquête 2024 de l'ABA n'a recueilli des réponses que de 29 écoles, soit environ 15% des facultés agréées par l'ABA**, et une enquête LexisNexis auprès de **800** praticiens mesure une population différente. Ni l'une ni l'autre ne peut être traitée comme représentative de l'enseignement du droit, et les deux sont citées comme si elles l'étaient.
+- **« Retenir une recommandation d'IA est neutre. »** Dans une expérience en contexte juridique, **186 décideurs profanes statuant sur des affaires civiles de tribunal se sont alignés bien moins sur une position d'IA incorrecte lorsque le système retenait sa propre position (5.7-8.2% contre 42.0-60.5%)**. La rétention n'a pas produit de neutralité ; elle a produit une forte réduction de la déférence, ce qui est un effet en soi.
+
 ## Concepts liés
 
 - [[academic-integrity]] — le cadre déontologique appliqué au travail assisté
@@ -103,3 +115,4 @@ Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Comparaison à cinq facteurs des politiques d'IA générative des écoles de droit et cadre de gouvernance
 - [[llm-turing-test-italian-legal-exams-2026]] — Test de Turing en aveugle sur les examens italiens du barreau, de magistrature et de notaire, comparés à une correction par des experts
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Retenir la position du système supprime la dépendance excessive dans les décisions en contexte juridique sans construire de jugement (décideurs profanes, non étudiants en droit)
+- [[xie-genai-mystery-game-legal-education-2026]] — Jeu de rôle policier rédigé par IA générative contre cours magistral : un essai randomisé (Xie et coll. 2026)

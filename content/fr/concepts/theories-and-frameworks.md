@@ -1,7 +1,7 @@
 ---
 title: "Théories et cadres"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,13 +9,17 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-25T18:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -116,6 +120,16 @@ Deux pages voisines portent délibérément sur autre chose. La [[philosophy-of-
 Les cadres ne sont pas des données probantes. Ils sont généralement empruntés à des contextes antérieurs aux LLM et localisés par quiconque les applique, ils peuvent fonctionner comme des marqueurs, et les modèles par stades invitent à une adoption par cases à cocher qui rapporte un mouvement à travers les niveaux plutôt qu'un apprentissage. Les affirmations qui reposent sur un cadre devraient être lues parallèlement aux [[limitations-in-aied-research|limites transversales du champ]], à la [[assessment-validity|validité]] de ce qui a mesuré le résultat, et aux limites connues de l'[[self-report-measures|auto-déclaration]].
 
 L'alignement du mécanisme sur la théorie peut néanmoins être décisif : une synthèse thématique de 55 études sur l'apprentissage par le jeu soutenu par l'IA a montré que l'efficacité dépendait de la mesure où le mécanisme d'IA mettait en œuvre la pédagogie qu'il était censé servir, et non de la sophistication algorithmique ([[ai-game-based-learning-systematic-review-2026|Kaşarcı et Yurt (2026)]]).
+
+## Idées fausses courantes
+
+**« Appliquer une théorie empruntée à un outil d'IA, c'est faire de la théorie. »** Une grande partie de ce domaine applique une théorie empruntée plutôt que de la mettre à l'épreuve, et la différence tient à ce que le cadre ait formulé une prédiction qui pouvait échouer. Quand une étude rapporte un gain sous la bannière d'un cadre sans s'engager sur aucune prédiction falsifiable, rien n'a été appris sur ce cadre — un résultat compatible avec toutes les théories du catalogue ne prouve aucune d'elles.
+
+**« La valeur d'un cadre tient à la fidélité avec laquelle il décrit un système déjà construit. »** C'est de l'étiquetage a posteriori. Une taxonomie qui accueille n'importe quelle conception n'a aucun pouvoir discriminant, et c'est pourquoi les cadres descriptifs doivent être jugés sur ce qu'ils excluent. La question d'évaluation n'est pas « mon système entre-t-il dans ce cadre ? » mais « quel type de système ce cadre déclarerait-il erroné ? ».
+
+**« Les théories de l'apprentissage, les modèles de l'apprenant et les cadres d'adoption sont des lunettes interchangeables. »** Ils répondent à des questions différentes — comment l'apprentissage se produit, quel est l'état de l'apprenant, et pourquoi une pratique se diffuse — et leurs types de preuves diffèrent en conséquence. Choisir la mauvaise couche produit une étude qui mesure la bonne variable contre la mauvaise prédiction, ce qui se lit comme un résultat nul alors qu'il s'agit d'une erreur de catégorie.
+
+**« Plus de cadres signifie un domaine plus mûr. »** Les cadres forgés pour l'ère de l'IA s'accumulent plus vite qu'ils ne sont testés, et l'accumulation sans falsification est un symptôme plutôt qu'un progrès. La maturité se manifeste par la résolution de prédictions concurrentes, non par la croissance du vocabulaire.
 
 ## Concepts liés
 

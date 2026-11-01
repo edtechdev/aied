@@ -1,7 +1,7 @@
 ---
 title: Surveillance à distance des examens
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-10-24T10:46:40-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,13 +10,17 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-10-15T21:52:00-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,7 @@ ai_assist:
 ## Introduction
 
 La surveillance à distance existe sur un spectre. La **surveillance en ligne** implique typiquement un surveillant humain qui contrôle un étudiant par webcam ou depuis un centre de supervision. La **surveillance automatisée ou fondée sur l'IA (AIPS)** remplace ou augmente l'humain par des systèmes d'[[machine-learning|apprentissage automatique]] et d'apprentissage profond (CNN, RNN, LSTM) qui analysent des indices visuels — mouvements des yeux, posture de la tête, expressions du visage et langage corporel — pour détecter en temps réel les comportements suspects. Les plateformes courantes comprennent ProctorU et Kryterion. Les AIPS combinent typiquement quatre fonctions : (1) l'authentification de l'identité (par exemple, vérification faciale par caméra), (2) les restrictions de navigation, (3) l'autorisation ou le contrôle à distance de l'épreuve, et (4) la production de rapports à partir des séances enregistrées.
+- **L'estimation de pose remplace les règles à seuil, et la prétention d'exactitude est plus étroite qu'elle n'en a l'air.** Arif et coll. (2026) suivent dix-sept points corporels par image avec YOLOv11, en déduisent des caractéristiques d'écart de posture, de tendance de la tête et de mouvement du haut du corps, et déploient un KNN à plus proche voisin unique sur 30 caractéristiques sélectionnées par information mutuelle, rapportant une exactitude de 99,56 % et une AUC de 0,9957 à partir d'une seule webcam ([[arif-automated-online-proctoring-yolov11-2026|Arif et coll., 2026]]). Ces chiffres décrivent la reproduction d'étiquettes sur un ensemble de scénarios sur mesure, et non la détection d'une faute.
 
 ## Avantages et opportunités
 
@@ -71,6 +76,12 @@ La surveillance à distance existe sur un spectre. La **surveillance en ligne** 
 - **Architecture respectueuse de la confidentialité.** Le traitement en périphérie, l'anonymisation et la manipulation sur l'appareil réduisent l'invasivité de la capture continue de données.
 - **Déploiement soucieux d'équité.** Des jeux de données divers et géographiquement inclusifs et des modèles légers pour les environnements à faibles ressources ; des alternatives accessibles pour les étudiants dépourvus d'appareils ou de connexion fiables.
 - **Éduquer avant de surveiller.** Préférer le développement de l'[[ai-literacy|littératie en IA]] et de l'[[reducing-ai-misuse|usage responsable]] par la culture et la construction de la confiance, en réservant la surveillance aux cas à enjeux élevés qui l'exigent réellement.
+
+## Idées fausses courantes
+
+- **« La surveillance protège l'intégrité académique. »** **La justification par l'intégrité n'a pas survécu au plus grand test.** Sur **quatre vagues et 1 760 étudiants dans 105 cours**, la surveillance **a accru l'anxiété face aux examens (β = 0,60, p < 0,001) mais n'a eu** aucun bénéfice détectable en matière d'intégrité. L'effet mesuré portait sur les étudiants, non sur la triche.
+- **« Une meilleure capacité de détection signifie une meilleure surveillance. »** Une revue systématique couvrant une décennie et **80 études évaluées par les pairs (2014-2024)** constate que la surveillance avancée par ML/DL **détecte la triche plus** précisément et ne dit rien sur la question de savoir si son déploiement change les conduites. La performance de détection est une propriété du classifieur, non du régime d'évaluation.
+- **« Les signaux comportementaux sont des indicateurs fiables d'une faute. »** Les systèmes **suivent dix-sept points corporels par image** avec YOLOv11 pour en déduire des caractéristiques d'**écart de posture, de tendance de la tête et de mouvement du haut du corps**. Ces construits sont des proxys, et une posture signalée est une classification portant sur un corps plutôt qu'une observation d'une transgression.
 
 ## Concepts liés
 - [[anxiety-and-stress]]

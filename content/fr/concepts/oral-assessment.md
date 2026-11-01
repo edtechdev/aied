@@ -1,7 +1,7 @@
 ---
 title: "Évaluation orale"
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-10-24T10:55:12-04:00"
+updated: "2026-11-01T10:19:59-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -15,12 +15,16 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/oral-assessment
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -80,6 +84,12 @@ Aucun format n'occupe une position fixe dans ce compromis : l'observabilité de 
 L'argument d'intégrité de l'oral est aussi limité dans le temps : [[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et coll. (2026)]] soutiennent que des lunettes et des écouteurs d'IA peuvent fournir des suggestions en temps réel et de façon dissimulée pendant une soutenance en direct, parce que l'IA portable ne produit aucun déplacement du regard ni signal détectable, de sorte que les oraux interactifs n'en sont plus protégés.
 
 - **Le plafond d'échelle est la contrainte de conception.** Dans un atelier réunissant 73 éducateurs en [[cs-education|informatique]], l'évaluation orale et interactive a été rapportée comme la meilleure preuve disponible de la compréhension individuelle et le remède le moins extensible ; les atténuations que les participants décrivaient étaient la distribution et l'échantillonnage — des viviers partagés d'assistants d'enseignement, une évaluation par les pairs pondérée sous un examen final, et le fait d'interpeller un sous-ensemble tournant d'étudiants ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+## Idées fausses courantes
+
+- **« L'évaluation orale ne peut pas passer à l'échelle. »** Dans [[code-review-genai-cs1|l'étude de revue de code orale en CS1]], **des entretiens hebdomadaires de quinze minutes portaient soixante-dix pour cent de la note de chaque devoir**, et les caractères collés rapportés au total restaient informatifs. Le coût est réel et le dispositif est implémentable à l'échelle d'un cours.
+- **« Les examens oraux sont plus indulgents que les écrits. »** Dans le pilote rapporté, les scores **dépassaient ceux des tests à choix multiples en présentiel : médiane du partiel 92,5 contre 70 (p < 0,001) et médiane de l'examen final 94,2 contre 86,4 (p = 0,002)**. L'évaluation orale n'était pas l'option indulgente.
+- **« Une rencontre simulée équivaut à des cas à divulgation progressive. »** Dans [[ai-standardized-patient-scaffolding-medical-2026|un essai randomisé portant sur cent étudiants de troisième année de médecine]], le système de patient simulé a été comparé **à des supports de cas à divulgation progressive** — un test direct de l'équivalence plutôt qu'une présomption de celle-ci.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "La compétence des enseignants en IA"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T10:37:22-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,13 +13,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, edugems, playlab, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-10-26T12:05:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,7 @@ La recherche de la base de connaissances converge vers plusieurs dimensions inte
 - **La littératie d'évaluation :** évaluer les contenus générés par l'IA et les productions des étudiants réalisées avec l'IA, et comprendre comment la [[assessment-validity|validité]] se déplace lorsque les étudiants utilisent l'IA. Cela se relie à l'[[automated-assessment|évaluation automatisée]], à la [[ai-detection|détection de l'IA]] et au programme plus large de refonte de l'[[assessment|évaluation]]. Pour les systèmes de recommandation, cela s'étend au jugement porté sur le caractère réellement compréhensible et pédagogiquement signifiant des explications d'une IA : [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] ont constaté que les enseignants faisaient davantage confiance aux recommandations de regroupement par l'IA lorsque les explications étaient formulées dans le langage du domaine (curriculaire) que lorsqu'elles exposaient les caractéristiques brutes du modèle — une compétence qui consiste à exiger et à apprécier la [[explainable-ai|qualité des explications]] plutôt qu'à accepter des productions opaques.
 - **La sélection du modèle et la conception des invites comme compétences démontrables :** la [[ai-literacy|littératie instrumentale]] en IA inclut le fait de savoir quel modèle utiliser et comment formuler la tâche. [[teacher-ai-literacy-prompt-feedback-quality-2026|Jacobsen et al. (2026)]] ont fait critiquer par ChatGPT-4, Claude 3 et Gemini Advanced les objectifs de planification de leçon de 153 enseignants en formation initiale, sous quatre invites systématiquement variées (N = 240 rétroactions dans l'étude 1, 345 dans l'étude 2), la [[feedback|rétroaction]] étant notée selon neuf catégories de qualité. Le seul choix du modèle expliquait 26.9% de la variance de la qualité notée (18.4% dans l'étude 2) et la conception de l'invite ajoutait une part significative de 15.9% (5.7%) par-dessus ; la caractéristique décisive de l'invite était le langage technique propre au domaine, dont le retrait abaissait significativement la qualité (β = −0.412), tandis que l'ajout d'exemples et la suppression de l'instruction de chaîne de raisonnement ne faisaient aucune différence significative dans l'étude 1. Leur lecture — selon laquelle la terminologie disciplinaire débloque à la fois les contenus pertinents des données d'entraînement et cadre professionnellement la demande, à la manière du prompting par rôle — ainsi qu'une règle empirique préconisant l'usage du modèle de pointe actuel le plus capable, font du choix du modèle une décision didactique plutôt que technique.
 - **L'usage éthique et critique :** reconnaître les [[bias-mitigation|biais]] dans les productions de l'IA, protéger les données des étudiants ([[privacy|vie privée]]) et garantir des résultats équitables ([[equity-in-ai-education|équité]]). [[llm-cultural-relevance-k12|L'usage culturellement pertinent de l'IA]] examine comment les enseignants peuvent utiliser les LLM pour diversifier les matériaux plutôt que pour renforcer les normes dominantes.
+- **La représentation visuelle est une dimension mesurable à part entière.** [[chen-ai-visualization-teaching-competency-scale-2026|Chen et al. (2026)]] ont validé une échelle à cinq dimensions pour générer, juger et exploiter des représentations visuelles auprès de 566 enseignants de cinq provinces de l'ouest de la Chine, avec un alpha des sous-échelles de 0,911 à 0,934 ; elle mesure une capacité déclarée, sans test-retest ni observation de la pratique.
 - **La responsabilité éthique est distribuée, non individuelle.** Sur sept cas nationaux, les enseignants sont positionnés comme gardiens moraux de l'usage de l'IA tout en manquant de soutien institutionnel et épistémique, si bien que la littératie éthique en IA doit s'étendre à l'agentivité critique et politique plutôt qu'à la seule compétence technique ([[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]]).
 - **La confiance et les attitudes :** la [[self-efficacy|confiance]] de l'enseignant façonne l'adoption. Les [[teacher-ai-adoption-confidence|recherches sur l'adoption]] montrent que la confiance, le soutien et l'utilité perçue déterminent si les enseignants utilisent réellement l'IA, et que les [[ai-pedagogical-orientation|orientations des enseignants-chercheurs]] façonnent l'adoption dans la recherche et l'enseignement.
 
@@ -216,3 +221,5 @@ Le paysage des instruments a lui-même fait l'objet depuis d'une revue. La [[ass
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Quatre profils de croyances des enseignants TALIS 2024 relient l'apprentissage professionnel et des obstacles propres au profil à l'usage de l'IA
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Conception de modules de microlearning sur l'IA destinés aux enseignants universitaires en formation professionnelle des enseignants : une étude de recherche fondée sur la conception
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild : comment les chatbots configurés par les enseignants échouent en usage réel et comment y remédier
+
+- [[chen-ai-visualization-teaching-competency-scale-2026]] — Développement et validation de l'échelle de compétence pédagogique en visualisation assistée par l'IA

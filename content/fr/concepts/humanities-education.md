@@ -1,20 +1,24 @@
 ---
 title: "Lettres et sciences humaines"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-10-02T14:30:18-04:00"
+source_updated: "2026-11-01T08:12:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -38,6 +42,7 @@ L'enseignement des SSH est un domaine disciplinaire distinct de la base de conna
 ### Comment l'IA apparaît dans l'enseignement des sciences humaines et sociales
 
 - **La restructuration de la cognition interprétative.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] soutient que l'IA générative agit comme un *médiateur épistémique* qui reconfigure la production de sens, la paternité de l'œuvre et l'[[agency|autonomie]] de l'apprenant dans l'enseignement des SSH. Elle identifie trois transformations — l'extériorisation de la cognition interprétative, l'hybridation de la paternité de l'œuvre, et l'émergence d'une autonomie épistémique distribuée — et trois trajectoires développementales (l'interprétation dépendante de l'IA, l'interprétation augmentée par l'IA, l'interprétation critique envers l'IA). Cela fonde un modèle [[pedagogy|pédagogique]] développemental-critique pour préserver la profondeur interprétative.
+- **Ce qu'une tâche permet au lecteur de voir décide si la paternité de l'œuvre est évaluable.** Dans une simulation de modèle portant sur 148 textes, les mémorandums et les soutenances de révision ont obtenu 3,16 et 3,10 sur la visibilité argumentative, contre 2,63 pour les dissertations de position, parce que le format lui-même exigeait l'explication d'une source ou une réponse aux objections ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
 - **L'enseignement de l'histoire.** [[paternalistic-filter-llm-history-education|La recherche sur les grands modèles de langue dans l'enseignement de l'histoire]] examine comment l'IA façonne le raisonnement historique et l'interprétation des sources.
 - **Les expériences des étudiants en sciences humaines et sociales.** [[genai-impact-chinese-students-hss|L'impact de l'IA générative sur les étudiants chinois en sciences humaines et sociales]] et [[acceptance-ai-english-tools-2026|l'acceptation de l'IA parmi les apprenants de langues et d'anglais]] documentent les effets du côté des étudiants à travers les disciplines des SSH.
 - **Les dimensions critique et philosophique.** [[voicu-ai-interpretive-cognition-ssh-2026|La littératie critique en IA]] et la [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] sont particulièrement saillantes dans les SSH, où les questions de sens, de valeurs et d'autorité épistémique sont centrales.
@@ -54,6 +59,18 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 - **Protégez la profondeur interprétative et la paternité de l'œuvre.** Parce que les sciences humaines prisent le jugement et la paternité originale de l'œuvre, gardez-vous de l'aplatissement de l'analyse par l'IA ; faites de l'[[ai-ed-evaluation|évaluation critique]] des productions de l'IA un objectif d'apprentissage ([[critical-thinking|pensée critique]], [[ai-literacy|littératie en IA]]).
 - **Employez l'IA délibérément dans le travail sur les sources.** [[paternalistic-filter-llm-history-education|La recherche sur l'histoire]] montre que l'IA peut façonner le raisonnement et l'interprétation des sources — enseignez aux étudiants à interroger les affirmations historiques médiées par l'IA et les filtres qu'elle applique.
 - **Tenez compte des effets du côté des étudiants.** [[genai-impact-chinese-students-hss|Les études sur l'expérience étudiante]] documentent la manière dont l'IA générative affecte les apprenants en SSH ; adaptez le soutien et le cadrage de l'intégrité aux usages réels plutôt qu'à des hypothèses.
+
+## Idées fausses courantes
+
+**« Les sciences humaines sont la partie du curriculum la moins exposée à l'IA. »** L'exposition a été mesurée et elle est concentrée plutôt que diffuse : [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] a audité **15 587 dossiers d'unités d'arts et de sciences humaines** pour établir où se situe l'exposition. Elle est inégalement répartie entre les unités plutôt que diluée, ce qui fait de la refonte de l'évaluation un problème ciblé et non un problème de secteur entier.
+
+**« L'IA dans l'enseignement des sciences humaines est une augmentation technocentrique. »** Le document de positionnement sur lequel s'appuie cette page soutient que le basculement est une *transformation intellectuelle* plutôt qu'une augmentation, positionnant la [[ai-literacy|fluidité numérique]] comme une compétence fondamentale des arts libéraux. Ajouter un outil à un cours inchangé prend la transformation pour son instrument.
+
+**« L'éducation aux valeurs peut être confiée à un modèle comme un contenu. »** [[genai-values-education-affordances-risks-2026|Chen (2026)]] recadre l'éducation aux valeurs comme une pratique relationnelle à trois conditions — la responsabilité de répondre, l'exemplarité et l'adresse — et lit chacune des cinq affordances de l'IA générative comme le remplacement d'une relation : la perspective simulée remplace la partie prenante qui peut être lésée.
+
+**« L'analyse critique est ce que l'IA menace le plus, donc il faudrait la restreindre. »** L'analyse critique est aussi ce qu'un usage intentionnel développe le plus, lorsque la tâche est conçue pour l'approfondir plutôt que l'aplatir. Un modèle d'[[human-in-the-loop-ai|IA avec intervention humaine]] situe la contribution de la discipline dans le jugement de l'apprenant plutôt que dans la production de l'outil.
+
+**« Un modèle généraliste est aussi utile pour l'érudition textuelle que pour le résumé. »** L'interprétation exige la position du lecteur, et une couche d'assistance qui fournit la lecture a accompli l'acte interprétatif que la discipline existe pour enseigner.
 
 ## Concepts liés
 
@@ -74,4 +91,6 @@ L'enseignement des SSH met au premier plan les capacités mêmes que l'IA géné
 - [[paternalistic-filter-llm-history-education]] — Usage des LLM et raisonnement historique en enseignement de l'histoire
 - [[genai-impact-chinese-students-hss]] — L'effet de l'IA générative sur les étudiants en sciences humaines et sociales
 - [[acceptance-ai-english-tools-2026]] — Acceptation de l'IA chez les apprenants en langues et en sciences humaines
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit computationnel de 15,587 unités d'arts et de sciences humaines du Go8 : 58.6% des items d'évaluation de 2026 fortement exposés à l'IA, concentrés dans les dissertations et les rapports
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Audit computationnel de 15 587 unités d'arts et de sciences humaines du Go8 : 58,6 % des items d'évaluation de 2026 fortement exposés à l'IA, concentrés dans les dissertations et les rapports
+- [[genai-values-education-affordances-risks-2026]] — L'IA générative dans l'éducation aux valeurs : affordances, risques éthiques et implications pour l'enseignement (Chen 2026)
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Format de tâche et consignes d'usage de l'IA comme ce que l'artefact peut attester (Liu & Liu 2026)

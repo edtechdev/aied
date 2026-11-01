@@ -1,20 +1,24 @@
 ---
 title: "Apprentissage incarné"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T10:37:22-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-10-23T22:31:18-04:00"
+source_updated: "2026-11-01T09:06:43-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -41,6 +45,7 @@ L'apprentissage incarné est étroitement apparenté à l'[[active-learning|appr
 - **L'incarnation et l'écriture créative :** la [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|recherche sur l'intégration robot-LLM en écriture créative]] examine comment l'incarnation affecte l'interaction et les résultats des apprenants.
 - **L'interaction humain-robot :** la recherche sur l'[[educational-robotics|IHR]] ([[task-context-trust-educational-hri-2026|confiance]], [[human-autonomy-agency-hri-review-2025|agence]]) examine comment l'incarnation physique façonne la confiance, l'[[student-engagement|engagement]] et l'[[agency|autonomie]].
 - **Le geste comme preuve de compréhension :** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et collègues]] intègrent le suivi des gestes par vision par ordinateur à l'analyse de la parole par [[llm]] pour montrer que la compréhension conceptuelle des statistiques chez les étudiants en ingénierie s'exprime à la fois par la parole et par le geste. Les gestes explicatifs à forte confiance se regroupent autour de concepts spécifiques (surtout la moyenne), et un couplage étroit entre geste et parole signale un propos conceptuel cohérent, tandis que la divergence marque des idées en développement — ce qui positionne l'action incarnée comme une preuve dans l'[[assessment-validity|évaluation]], via l'analytique de l'apprentissage [[multimodal|multimodale]], et pas seulement comme un mécanisme d'apprentissage.
+- **Un facilitateur purement langagier tire l'investigation vers ce qui peut être dit.** Dans un laboratoire de statique des fluides de master, les étudiants ont construit le modèle de flottabilité à la main avant qu'un facilitateur fondé sur Gemini ne les rejoigne pour l'appliquer à un nouveau phénomène. Sur trois binômes, l'IA a tenu la séquence ISLE, mais pressée de « nous dire simplement », elle a produit des valeurs de masse que personne n'avait mesurées, et une participante à distance a accompli un cycle physiquement correct, propre mais désincarné ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). La leçon de conception porte sur la séquence plutôt que sur la substitution : construire le modèle dans le corps d'abord, puis laisser le modèle de langue travailler à l'appliquer.
 
 ### L'intelligence incarnée et la critique de l'IA désincarnée
 
@@ -53,6 +58,12 @@ Un second fil, plus théorique, de la recherche de la base de connaissances sur 
 L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], la [[educational-robotics|robotique éducative]], l'[[active-learning|apprentissage actif]], l'[[experiential-learning|apprentissage expérientiel]], l'[[situated-learning|apprentissage situé]], la [[distributed-cognition|cognition distribuée]], la [[computational-thinking|pensée informatique]] et l'[[social-emotional-learning|apprentissage socioémotionnel]].
 
 - **Le suivi corporel transforme la régulation en signal mesurable.** Dans une simulation de photosynthèse en réalité mixte où des marqueurs de mouvement déplaçaient des agents étudiants à travers un modèle projeté, une chaîne de traitement par LLM a étiqueté 470 segments de comportement autorégulé dans 40 minutes de vidéo, la domination en acte représentant 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+
+## Idées fausses courantes
+
+- **« C'est le corps qui fait fonctionner l'apprentissage incarné. »** Une méta-analyse de **11 études RALL (N = 595, g = 0,83, I² = 84,4 %)** a constaté que **la morphologie du robot, la modalité, l'autonomie et le rôle social ne modéraient pas** les résultats en apprentissage des langues secondes. Les traits d'incarnation n'étaient pas l'ingrédient actif, et l'hétérogénéité était assez forte (I² = 84,4 %) pour que l'effet regroupé décrive un ensemble d'interventions très mêlé.
+- **« Un effet important tranche le mécanisme. »** g = 0,83 avec 595 participants dans 11 études est un signal réel, et il n'identifie pas ce qui l'a produit. Puisque les traits de conception ne modéraient pas l'effet, le mécanisme plausible se situe dans l'activité pédagogique plutôt que dans le matériel — ce qui change ce qu'il faut financer.
+- **« L'incarnation ne peut pas être mesurée, elle reste donc théorique. »** Le suivi corporel peut transformer la régulation en **signal mesurable** : dans une simulation de photosynthèse en réalité mixte où des étiquettes de mouvement déplaçaient les agents-élèves sur un modèle projeté, un pipeline LLM a étiqueté **470 segments** de comportement autorégulé. Le construit est opérationnalisable, même là où il est difficile à définir.
 
 ## Concepts liés
 
@@ -83,3 +94,4 @@ L'apprentissage incarné rejoint la [[educational-robotics|robotique éducative]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — L'IA comme facilitateur après des modèles construits à la main : une IA langagière ne peut pas suivre une investigation incarnée (Tufino & Damiani 2026)

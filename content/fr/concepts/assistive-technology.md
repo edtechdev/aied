@@ -1,7 +1,7 @@
 ---
 title: "Technologies d'assistance"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-10-10T03:05:33-04:00"
+updated: "2026-11-01T10:20:22-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T07:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,13 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|Technologies de l
 - **Exploiter l'IA pour réduire le coût des adaptations d'assistance.** L'IA peut sous-titrer automatiquement, simplifier des textes et produire des alternatives, mais évaluez la qualité des productions du point de vue de l'exactitude pédagogique.
 - **Ancrer l'offre dans les politiques.** Référez-vous à l'Assistive Technology Act, à l'IDEA et aux WCAG lorsque vous achetez ou construisez des outils d'IA.
 - **Énoncez la fonction que remplit le soutien — et évaluez-le au regard de cette fonction.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguent la compensation (évaluée par l'accès et la participation) de l'étayage (les décisions avec soutien) et du développement (l'usage de stratégies après l'estompement ou le transfert). Ils ajoutent une règle visant la mise en garde de cette page : le soutien à l'accessibilité n'est pas de la remédiation — le fait qu'un outil constitue un aménagement, un enseignement de stratégies ou un soutien pratique temporaire « devrait être énoncé dans le plan d'apprentissage ».
+
+## Idées fausses courantes
+
+- **« Les technologies d'assistance ciblent là où sont les barrières. »** Une revue de cadrage de 2026 sur les technologies d'assistance numériques pour les étudiants neurodivergents cartographie la production de la décennie et constate un **décalage entre ce que ciblent les outils et où se situent les barrières** : **27 études soutenaient directement l'apprentissage**, 13 traitaient la lecture et l'écriture et 12 la gestion des études, tandis que **l'attention (n = 4)** et d'autres barrières centrales étaient à peine traitées. La cible la plus étudiée n'est pas la plus limitante.
+- **« Une taille d'effet moyenne identifie le bon outil. »** [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et coll.]] trouvent que les interventions fondées sur l'IA produisent un effet positif moyen sur les résultats d'apprentissage des étudiants en situation de handicap (**g = 0.588**) à travers robots, logiciels et RV intelligente. C'est une moyenne sur des technologies très différentes servant des besoins très différents, si bien qu'elle étaye la catégorie et non un choix en son sein.
+- **« Un accès conditionné à un diagnostic est une conception défendable. »** Exiger un diagnostic formel pour participer exclut des apprenants ayant de vrais besoins et aucune étiquette, ce qui contredit la [[universal-design-for-learning|conception universelle]] et fait peser le coût de l'accès sur la documentation de l'étudiant.
+- **« Plus d'outils d'assistance signifie plus d'inclusion. »** Une revue de cadrage a criblé **766 enregistrements** dans cinq bases de données, et le volume de production n'est pas la même chose que la couverture des besoins — le nombre d'études par barrière est le chiffre le plus informatif.
 
 ## Concepts liés
 

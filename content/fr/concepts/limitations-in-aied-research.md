@@ -1,7 +1,7 @@
 ---
 title: "Limites de la recherche en AIED"
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-11-01T10:23:50-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -62,6 +62,8 @@ La page [[research-methods-aied|méthodes de recherche]] de la base de connaissa
 - **Standardiser à l'intérieur de chaque jeu de données peut masquer une présentation erronée de la dispersion.** Lorsque des cohortes éducatives synthétiques étaient standardisées par leur propre dispersion, le fait que leur structure hebdomadaire variait de 2,6 à 4,9 fois moins que celle des cohortes réelles est devenu invisible aux statistiques rapportées — un prétraitement de routine, selon les mots des auteurs, et non une crainte hypothétique ([[synthetic-educational-data-structural-fidelity-2026|Inoue et Yasutake, 2026]]).
 
 - **Les étiquettes générées par des modèles ne sont pas la vérité terrain.** Lorsque les étiquettes qui entraînent ou évaluent un système sont elles-mêmes produites par des modèles de langue, l'accord entre annotateurs ne peut établir la validité : [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] n'ont jamais validé leurs annotations d'assertions contre des étiquettes de référence humaines, et les 49 classifieurs à encodeur qu'ils publient héritent de cette provenance et peuvent ne pas être valides là où les applications diffèrent sur des dimensions significatives. Leur schéma a aussi nettement sous-performé par rapport au classifieur ajusté entraîné sur des données annotées par des experts (macro-F1 0,673 contre 0,76), ce qui laisse les corpus étiquetés par des experts dignes d'intérêt lorsqu'une grande confiance est requise.
+- **La base de preuves elle-même est inégalement répartie.** Une revue de cadrage de 407 études sur l'évaluation formative soutenue par la technologie ne s'est appuyée que sur Web of Science et Scopus. Elle a aussi exclu 61 enregistrements sur des critères de langue, de sorte que le déséquilibre géographique que le domaine signale peut refléter en partie les revues indexées ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+
 
 ## Le problème de la vitesse : l'IA évolue plus vite que les résultats
 
@@ -108,6 +110,22 @@ Prises ensemble, ces limites plaident pour une lecture critique et multi-signaux
 Une limite supplémentaire, pratique, est le **défi que représente l'application de la recherche à l'[[teacher-role|enseignement]] et à la conception pédagogique**. Les praticiens — enseignants, [[stakeholders|concepteurs pédagogiques]] et responsables du développement pédagogique — manquent souvent du temps ou de l'expertise spécialisée pour lire, évaluer et traduire la recherche primaire en décisions concrètes de classe. La littérature est vaste, fragmentée, et écrite pour des chercheurs ; les résultats sont rapportés avec un détail statistique et méthodologique qui n'est pas immédiatement actionable ; et parce que les affirmations sont provisoires (voir le problème de la vitesse ci-dessus), un praticien ne peut pas simplement prendre une étude isolée au pied de la lettre. Cela crée un fossé entre ce que les preuves étayent et ce qui atteint réellement la [[pedagogy|pratique enseignante]].
 
 Le but de cette base de connaissances est d'aider à combler ce fossé — de rendre plus facile le fait de suivre, d'interpréter et d'appliquer la recherche sur l'IA en éducation à la pratique — en rassemblant des résultats en accès libre dans des résumés structurés et accessibles, en reliant les travaux apparentés par des [[ai-education|pages de concepts]], et en signalant les limites que les lecteurs devraient peser. Elle vise à soutenir une pratique fondée sur les preuves en enseignement et en conception pédagogique, et, ce faisant, à faire aussi émerger les lacunes et les questions qui peuvent éclairer de nouvelles recherches et de nouveaux développements. Comprendre les limites de la recherche n'est donc pas une fin en soi : c'est ce qui permet aux praticiens d'appliquer les résultats de manière appropriée et aux chercheurs de concevoir des études plus solides qui servent mieux la pratique.
+
+## Deux pièges d'audit à connaître
+
+Deux pratiques de communication précises gonflent ou déforment une synthèse, et toutes deux sont visibles dans les publications existantes plutôt qu'hypothétiques.
+
+**Le chiffre d'hétérogénéité dépend du modèle, et le modèle est rarement cité.** L'hétérogénéité d'une revue est citée comme **I² = 82,98 % sous un modèle à effets fixes et I² = 15,75 % sous un modèle à effets aléatoires**. Ces deux chiffres décrivent les mêmes données. Un lecteur qui reprend un seul chiffre d'hétérogénéité sans son modèle reçoit une affirmation technique sans interprétation attachée, et la différence entre « la majeure partie de la variance est inexpliquée » et « peu de variance est inexpliquée » est la différence entre écarter le domaine et lui faire confiance.
+
+**Le pourcentage vedette peut être un artefact des termes de recherche.** Dans une revue de cadrage de 195 études sur la formation des enseignants, la compétence numérique et le [[tpack|TPACK]] étaient des descripteurs de recherche explicites, alors que la conception pédagogique et l'évaluation n'avaient pas d'équivalent, si bien que les **46,5 % et 1,9 %** rapportés décrivent la stratégie de récupération avant de décrire le domaine. Une affirmation de prévalence ne vaut que ce que vaut la requête qui a produit le corpus.
+
+**Et le taux de base est le chiffre que personne n'énonce.** Les limites méthodologiques sont ici mesurables plutôt qu'impressionnistes : dans une revue critique de 80 études en interaction humain-machine sur la pensée critique avec l'IA, **42 (52 %) ne comportaient aucun groupe témoin** et la plupart des autres reposaient sur des auto-déclarations. Quand plus de la moitié des résultats positifs d'un domaine viennent de dispositifs qui ne peuvent pas séparer l'effet de l'IA d'une activité ordinaire, le a priori approprié sur un résultat isolé est le scepticisme, non l'acceptation provisoire.
+
+## Idées fausses courantes
+
+- **« Les sections de limites sont du remplissage. »** Les limites méthodologiques sont **mesurables plutôt qu'impressionnistes** : dans une revue critique de **80 études en interaction humain-machine** sur la pensée critique avec l'IA, **42 (52 %) ne comportaient aucun groupe témoin**. C'est un décompte précis qui rend la limite exploitable.
+- **« L'hétérogénéité est un chiffre unique que l'on peut citer. »** La même revue montre un risque de communication : l'hétérogénéité est citée comme **I² = 82,98 % sous un modèle à effets fixes et I² = 15,75 % sous un modèle à effets aléatoires**. Les mêmes données donnent un récit à 83 % ou un récit à 16 % selon le modèle choisi, donc un I² cité sans son modèle est ininterprétable.
+- **« Un effet rapporté important est le chiffre à croire. »** Un titre du type effet de **30 étudiants dans un cours sur un seul site** est la forme courante d'une affirmation fragile, et le décompte des études sans groupe témoin montre à quel point cette fragilité reste non déclarée.
 
 ## Concepts liés
 

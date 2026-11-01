@@ -1,7 +1,7 @@
 ---
 title: "L'étayage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:37:52-04:00"
+updated: "2026-11-01T10:13:54-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: concepts/scaffolding
-source_updated: "2026-10-24T06:40:00-04:00"
+source_updated: "2026-11-01T09:09:44-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,7 @@ ai_assist:
 
 - **La [[automated-assessment|notation automatisée]] comme étayage délibéré :** [[chen-automated-scoring-interpreting-self-regulated-learning-2026|Chen et Liu (2026)]] ont traité un système de notation automatique des interprètes comme un étayage [[formative-assessment|formatif]] plutôt que comme un instrument de mesure, dans une comparaison sur 14 semaines portant sur 46 étudiants de deuxième année en traduction et interprétation anglais. L'étayage ne s'est converti en gain que là où le déficit qu'il visait était décomposable, noté de façon fiable et mis à l'échelle de façon sensible : l'exactitude linguistique et la cohérence logique ont augmenté, tandis que la fidélité de l'information et la fluidité de la prestation sont restées inchangées, la fidélité étant la dimension sur laquelle les notations automatisées et humaines divergeaient le plus (r = 0,12). Le cycle qu'il renforçait était aussi partiel. Seules l'exécution et le suivi en phase de pratique corrélaient avec les gains de score (r = 0,42), tandis que la planification pré-apprentissage se situait près du point médian de l'échelle (M = 3,01) et que les étudiants fixaient leurs objectifs à partir du score précédent plutôt qu'à partir de la tâche à venir. Un étayage peut être bien placé à l'intérieur de la phase de performance et laisser intacte la planification qui le rendrait superflu.
 - **L'étayage en boucle fermée sur la frontière actuelle de l'apprenant :** [[zhu-adaptive-teaching-assistance-genai-big-data-2026|Zhu, Luo et Li (2026)]] ont construit une boucle d'éducation musicale dans laquelle la détection d'erreur [[multimodal]] multimodale sur l'audio de performance et la partition devient la récompense qui pilote les parcours de pratique générés par [[reinforcement-learning|apprentissage par renforcement]], de sorte que la difficulté suit la frontière actuelle de l'apprenant plutôt qu'un programme fixe : les trajectoires de pratique générées correspondaient aux profils de compétence des apprenants avec une similarité cosinusale maximale de 0,962, et l'interaction Groupe × Temps favorisait le groupe étayé dans une quasi-expérience sur 12 semaines portant sur 120 étudiants de premier cycle (beta = 0,52, IC à 95% [0,31, 0,73]). Deux limites s'ensuivent pour l'étayage automatisé. La détection est un triage plutôt qu'un jugement, puisque la précision de détection d'erreur rythmique de 89,7% signifie qu'environ une erreur signalée sur dix est une fausse alarme, et un examen aveugle par des experts a noté le soutien à l'expression musicale comme le domaine le plus faible du système, laissant l'interprétation à l'enseignant.
+- **Le rythme est étayé lui aussi.** [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] associe l'étayage des contenus à une couche temporelle faite de créneaux horaires hebdomadaires, de tableaux de bord de progression et de vérifications en fin de section ; sans ce cadencement, près de 25 pour cent des plus de 600 apprenants commençaient la dernière semaine et 95 pour cent d'entre eux échouaient.
 
 ## La connexion avec la ZPD
 
@@ -75,6 +80,8 @@ La forme de l'étayage doit correspondre à ce que l'apprenant peut déjà reten
 L'étayage se rattache à la [[cognitive-offloading|dépendance excessive]] (un étayage qui ne s'atténue pas crée de la dépendance), à la théorie de la charge cognitive (l'étayage gère la charge cognitive), à la [[feedback|boucle de rétroaction]] (l'étayage fournit une rétroaction [[formative-assessment|formatif]]) et à l'[[ai-literacy|littératie en IA]] (les apprenants doivent reconnaître quand l'étayage est bénéfique et quand il déplace l'apprentissage).
 
 Les agents doivent étayer dynamiquement, et non statiquement : [[agentic-ai-pedagogical-best-practice-2026|Woollaston et coll. (2026)]] identifient que les étayages automatisés risquent de rester statiques au lieu d'être retirés à mesure que la compétence croît, et recommandent des étayages dynamiques qui s'adaptent et s'atténuent — un garde-fou clé pour l'[[agentic-ai|IA agentique]]. CoMeT (Hou et coll. 2026) fournit à la fois la séparation et le mandat pour savoir *quand* atténuer : son soutien monte d'un cran chaque fois qu'un apprenant ne l'utilise pas et tombe au cran le plus léger en cas d'usage, maintenant l'[[metacognition|exigence métacognitive]] statistiquement équivalente à celle d'un tuteur qui retient son aide (p_TOST = ,004) tout en livrant un artefact dans 48,1% des sessions contre 23,7% — davantage de travail système, et non moins. Le déclencheur qu'il a validé est le but plutôt que la profondeur : après une démonstration complète, le tuteur concédait ensuite 30,3% de ce qui restait ouvert, après un artefact collé 25,9%, après une simple affirmation 20,4% et après une demande de construction 33,7%, tandis que les tours non visant la décision sous soutien obtenaient une concession ultérieure 40,3% du temps contre 28,8% pour les tours visés (écart de 11,5 points, intervalle bootstrap à 95% [2,1, 22,4]). L'usage était clairsemé — 37,0% après la première demande et 21,8% après la troisième — si bien qu'une règle d'atténuation indexée sur l'effort de l'apprenant lirait une absence de réponse comme un signe de préparation.
+
+**L'atténuation peut être désapprise par un tuteur.** Un tuteur entraîné par apprentissage par renforcement multi-tours, récompensé uniquement sur le problème courant, et une variante masquée de quasi-transfert ont cessé d'atténuer le soutien et d'assigner un travail indépendant, bien que rien n'ait pénalisé ni l'un ni l'autre, parce que leur rendement se situe au-delà d'un seul épisode de dialogue ([[assistance-dilemma-rl-tutoring-2026|Macina, Kapur et Sachan, 2026]]). Un horizon de récompense qui s'arrête au problème effacera l'atténuation qu'une conception prescrit.
 
 
 Une quatrième zone rend visible la source de l'étayage : [[scan-framework-task-assignment-generative-ai-2025|Tsim et Gutoreva (2025)]] ajoutent « connu de l'IA générative » aux zones de Vygotsky, si bien qu'une tâche relève de Substitute, Complement, Aid ou Non-negotiable — et Non-negotiable recouvre ce qui exige une personne parce que c'est normatif, tacite ou trop risqué à déléguer.
@@ -98,6 +105,12 @@ La distinction étayage guidé par règles ou étayage ad hoc dépasse le tuteur
 - **Un étayage correctement contraint échoue néanmoins si la contrainte n'est pas appliquée.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] a construit ce que la distinction ci-dessus prescrit — un budget de 25 indices par session, un plafond de 15 minutes d'usage de l'IA, une réflexion de fin de session obligatoire, et aucun code généré — et a randomisé 33 étudiants de master entre ce dispositif et un usage illimité de l'[[generative-ai|IA générative]] sur sept semaines. La performance aux devoirs et les gains aux inventaires de concepts ne différaient pas entre les conditions. Le budget d'indices n'a pas agi comme un mécanisme de rationnement : certains étudiants en ont dépensé l'essentiel sur les premiers problèmes et n'en avaient plus pour les exigeants, d'autres ont terminé avec la majeure partie inutilisée, et, au sein de la condition Coach, c'étaient les étudiants qui avaient déjà une stratégie délibérée de dépense des indices qui obtenaient les scores les plus élevés. La contrainte a accru la [[self-efficacy|confiance]] rapportée et a suivi les étudiants hors de la classe comme une habitude d'auto-questionnement (si une question valait la peine d'être posée à l'outil), mais elle a récompensé l'autogouvernance existante plutôt que de la développer. L'auditabilité d'un étayage et la capacité d'un apprenant à l'employer sont des conditions distinctes.
 
 - **Un étayage que l'apprenant ne peut vérifier est un substitut fluent.** Parce que la [[chemistry-education|chimie]] raisonne à travers des phénomènes observables, des modèles particulaires et une notation symbolique, une réponse générée peut être localement persuasive et globalement fausse. [[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit et Rivera Álvarez (2026)]] placent l'étayage du côté productif de leur analyse Presage-Process-Product et la copie acritique du côté de l'échec, et exigent que les étayages imposent une traduction représentationnelle dans les deux sens, puisqu'une réponse qui décrit correctement une neutralisation peut néanmoins affirmer que tout point d'équivalence a un pH de 7. La vérification est conçue dans la tâche plutôt qu'énoncée comme une règle : les étudiants identifient une hypothèse fausse, corrigent une erreur d'unité ou de mécanisme, comparent une structure symbolique à un modèle submicroscopique, ou justifient le rejet d'une réponse générée. Parce que les étudiants ne peuvent vérifier ce qu'ils ne comprennent pas encore, les [[prior-knowledge|connaissances préalables]] et l'étayage viennent d'abord, et la formulation est traitée comme un acte épistémique dans lequel l'apprenant spécifie les contraintes que la réponse doit satisfaire.
+
+## Idées fausses courantes
+
+- **« L'étayage est un niveau de soutien constant. »** L'annotation par des experts de **207 consultations** a montré que le besoin d'étayage était **fortement dépendant de la phase, passant d'environ 16,1% des énoncés étudiants tôt** dans l'entretien. Un niveau d'étayage unique est mal alloué aux deux extrémités de la même consultation.
+- **« N'importe quelle condition de contrôle structurée est une comparaison équitable pour l'étayage. »** La condition d'étayage surpassait un **contrôle structuré de divulgation progressive** à l'[[summative-assessment|examen]] final aligné sur l'OSCE (**71,8% contre 55,6%**), si bien que le gain était mesuré contre une véritable alternative pédagogique plutôt que contre rien.
+- **« Les effets de l'étayage sont généraux. »** Le gain était de **16,4 points de pourcentage (P = 3.30e-4)**, avec la plus forte amélioration en **communication (g de Hedges = -0.79)**. L'effet se concentrait sur un résultat, si bien qu'une moyenne sur les résultats sous-estime ce qui fonctionne et surestime ce qui ne fonctionne pas.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — Où, dans la séquence, le soutien a sa place, et pourquoi la tentative avant l'aide est la règle porteuse
@@ -152,3 +165,5 @@ La distinction étayage guidé par règles ou étayage ad hoc dépasse le tuteur
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examen de la variation dans la manière dont les tuteurs d'IA guidés résolvent les impasses des étudiants
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Former l'apprenant comme étayage de l'usage de l'IA générative dans la résolution de problèmes en STIM (Huang et coll. 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnostic conversationnel par IA des conceptions erronées en enseignement, par un dialogue fondé sur les preuves (Miranda & Calvani 2026)
+- [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Couches d'étayage des contenus et du temps dans un cours à rythme libre, avec les taux de démarrage tardif et d'échec selon le moment d'étude
+- [[assistance-dilemma-rl-tutoring-2026]] — Le dilemme de l'assistance : entraîner un tuteur RL multi-tours dont l'horizon de récompense s'arrête au problème désapprend l'atténuation (Macina, Kapur et Sachan 2026)

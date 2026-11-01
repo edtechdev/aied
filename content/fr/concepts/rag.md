@@ -1,7 +1,7 @@
 ---
 title: RAG (génération augmentée par récupération)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:43:38-04:00"
+updated: "2026-11-01T10:18:49-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,13 +9,17 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,13 @@ ai_assist:
 
 La RAG joue un rôle complémentaire de l'affinage des [[llm|LLM]] — la récupération fournit un ancrage à jour et propre au domaine sans réentraînement, tandis que l'affinage intègre des comportements [[pedagogy|pédagogiques]]. Les recherches de la base de connaissances explorent les deux approches et leur combinaison.
 
+## Idées fausses courantes
+
+- **« Montrer la source rend la réponse vérifiable. »** Seul **1 participant sur 12 a remarqué une carte de source délibérément incohérente**. Une étiquette de provenance peut faire office de **sceau d'autorité plutôt que d'invitation à vérifier** — l'affichage de l'ancrage a augmenté la confiance sans augmenter l'examen critique, ce qui est pire que l'absence d'étiquette parce que cela fabrique de la confiance.
+- **« La qualité de la récupération est tout le problème. »** La récupération est nécessaire et non suffisante. La réponse ancrée a obtenu **9,05 sur 10 avec un intervalle de confiance bootstrap sur la différence excluant zéro** et était **plus souvent ancrée dans le matériau que le répondeur avait réellement vu (98 % contre 81 %)** — le gain mesuré porte donc sur la fidélité aux preuves, et les preuves doivent être exactes pour que cette fidélité signifie quelque chose.
+- **« La récupération sur une seule page se généralise. »** Les deux écarts **ont à peu près triplé sur les questions exigeant du matériau de plus d'une page** (scores inter-pages de 9,93 contre une base de référence plus basse). Le raisonnement multi-documents est là où les systèmes ancrés se dégradent, et c'est précisément là que les cours posent les questions les plus difficiles.
+- **« La récupération supprime le besoin d'examen critique. »** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] récupère dans les matériaux approuvés d'un seul module pour servir des étudiants qui hésitent à s'adresser à une personne — une portée défendable. Ce sont les corpus étroits et approuvés qui rendent l'ancrage signifiant ; l'étiquette seule ne le fait pas.
+
 ## Concepts liés
 
 - [[llm]]
@@ -68,7 +79,7 @@ La RAG joue un rôle complémentaire de l'affinage des [[llm|LLM]] — la récup
 
 ## Articles liés
 
-- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un assistant de préparation de leçon ancré dans le curriculum dont le gain de temps n'a pas dépassé celui d'un chatbot généraliste
+- [[roy-aila-lesson-planning-teacher-choices-2026]] — Un assistant de préparation de cours ancré dans le curriculum dont le gain de temps n'a pas dépassé celui d'un chatbot généraliste
 
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]

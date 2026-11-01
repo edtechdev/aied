@@ -1,7 +1,7 @@
 ---
 title: "L'évaluation sommative"
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-10-24T10:43:38-04:00"
+updated: "2026-11-01T10:18:13-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -67,9 +71,15 @@ La littérature sur l'évaluation de la base de connaissances souligne systémat
 - **Le format d'évaluation sommative est un levier de validité et d'intégrité :** les formats sommatifs résistants à l'IA (oral, surveillé, à livre fermé, en présentiel) préservent le lien entre la performance évaluée et l'apprentissage réel.
 - **Les mesures surveillées et sans assistance sont le signal fiable :** lorsque les élèves utilisent l'IA, ce sont les examens sommatifs sans assistance — et non les devoirs — qui révèlent l'apprentissage réel.
 - **La notation automatisée exige un examen psychométrique :** utiliser des LLM pour noter des examens à enjeux élevés requiert une évaluation de la fiabilité, de l'équité et de la validité, et pas seulement de l'exactitude.
- L'erreur de notation dépend aussi de la note : sur 32 productions d'examen de santé publique, les LLM évitaient les extrémités de l'échelle — aucun E ni F n'apparaissait en mode rapide — tandis que le meilleur modèle concordait exactement avec la note humaine dans 50.0% des cas et à ±1 note près dans 90.6% des cas ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
+- L'erreur de notation dépend aussi de la note : sur 32 productions d'examen de santé publique, les LLM évitaient les extrémités de l'échelle — aucun E ni F n'apparaissait en mode rapide — tandis que le meilleur modèle concordait exactement avec la note humaine dans 50.0% des cas et à ±1 note près dans 90.6% des cas ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 - **L'IA peut aussi générer des examens :** la génération d'examens et de tâches assistée par l'IA est une application émergente de conception sommative qui a elle-même besoin d'une évaluation de qualité.
 - **Repensez la finalité de la notation, et pas seulement le format.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais et Galy (2026)]] critiquent la notation sommative traditionnelle et référencée à la norme pour ce qu'elle encourage un apprentissage superficiel et fragmenté, laisse aux élèves peu de contrôle et de transparence, nuit à la [[motivation]] intrinsèque, alimente le stress et l'[[well-being|anxiété]], et perpétue les inégalités tout en évaluant largement le rappel plutôt que l'application au monde réel. Ils positionnent la réévaluation, la [[mastery-learning|notation fondée sur les standards]] et le dénotation (ungrading) comme des innovations centrées sur la notation qui peuvent adoucir la pratique dominée par le sommatif, tout en reconnaissant qu'elles restent marginales dans l'enseignement de la gestion en raison d'obstacles normatifs — la notation sur une courbe, la signalisation externe (classements, stages, accréditation) et l'état d'esprit instrumental des élèves — et recommandent une expérimentation progressive accompagnée d'un soutien institutionnel.
+
+## Idées fausses courantes
+
+- **« Un LLM ne peut pas noter selon les standards officiels. »** Face à des **notes officielles modérées**, un LLM multimodal notant **10 364 pages manuscrites** d'olympiades de physique et d'université montrait une corrélation forte. L'accord sur les résultats peut survivre à une notation imprécise au niveau de l'item — ce qui signifie que la question utile est de savoir où la précision au niveau de l'item est réellement requise.
+- **« L'inflation des notes par l'IA est une spéculation. »** La quasi-expérience de [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] portant sur **plus de 500 000 notes** rend le mécanisme concret : après la sortie de ChatGPT, **les cours comportant davantage de tâches exposées à l'IA ont vu la part de notes élevées augmenter**. L'effet se concentrait là où les tâches étaient exposées, ce qui est le schéma qu'un mécanisme prédirait.
+- **« Les étudiants qui utilisent l'IA ne peuvent pas être distingués de ceux qui ne l'utilisent pas, donc la provenance est une cause perdue. »** Le constat d'une **absence de différence significative dans l'attribution de la source** entre items générés par l'IA et items d'examen de licence, avec une reconnaissance correcte de **68.6 à 77.5 pour cent** et un taux de mauvaise attribution de **18.2 pour cent**, porte sur l'échec de la reconnaissance — non sur l'inutilité de la provenance. Si quelque chose, il relève l'exigence d'une provenance vérifiée.
 
 ## Concepts liés
 

@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T10:48:30-04:00"
+updated: "2026-11-01T10:18:01-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-10-13T09:18:19-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,13 @@ Des systèmes pratiques appliquent ces principes à l'échelle. AISSA combine la
 ## Implications
 
 À travers les travaux examinés ici, la visualisation émerge comme un médium à double usage : l'IA génère et interprète de plus en plus les visualisations, tandis que les tableaux de bord et les visuels interactifs servent de surface partagée pour la construction de sens humain-IA. La génération texte-image et l'analyse multimodale étendent la portée de la visualisation aux contenus STEM spécialisés et à la [[ai-feedback-quality|rétroaction automatisée]], mais la compétence inégale des modèles, les échecs de calibrage de la gravité et les préoccupations [[ethics|éthiques]] quant à la désinformation et à l'autorialité exigent une vérification minutieuse et en couches. Pour les concepteurs et les éducateurs, la conclusion la plus forte est que l'interactivité et l'engagement — éliciter le raisonnement de l'apprenant sur les données visuelles, laisser les utilisateurs contrôler l'effort cognitif, et traiter les visuels produits par l'IA comme une infrastructure partagée plutôt que comme des points d'arrivée — importent davantage que la fidélité du graphique lui-même.
+
+## Idées fausses courantes
+
+- **« L'IA ne peut pas restituer fidèlement un contenu spécialisé. »** Elle le peut, avec la bonne méthode : affiner un modèle texte-image sur des concepts nucléaires a **élevé l'exactitude sur le domaine de 12% à 78%**. L'écart tient à l'ancrage dans le domaine, non à la capacité générative, et il est traitable.
+- **« De meilleures visualisations produisent de meilleurs résultats. »** Les enseignants **préféraient systématiquement des visualisations plus simples et plus traditionnelles** (diagrammes en barres, camemberts, légendes) **même lorsque des conceptions complexes comme les cartes de chaleur livraient des aperçus plus détaillés**. L'artefact le plus informatif n'était pas celui qui était utilisé, si bien que l'adoption est un problème distinct de la qualité de conception.
+- **« Les étudiants regardent là où se trouve l'étayage. »** Une étude a constaté que les étudiants **passaient l'essentiel de leur regard sur le code malgré des étayages visuels élaborés** — les aides ne captaient simplement pas l'attention. Un soutien visuel présent mais non regardé ne change rien.
+- **« Engagement et compréhension progressent ensemble. »** Les participants trouvaient les bandes dessinées de données générées par l'IA **plus engageantes et plus compréhensibles, mais beaucoup signalaient aussi un risque de désinformation et une surcharge informationnelle**. Les deux réactions venaient du même artefact, si bien qu'un accueil favorable n'est pas une lecture vérifiée.
 
 ## Concepts liés
 

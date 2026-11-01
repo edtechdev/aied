@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T10:47:05-04:00"
+updated: "2026-11-01T10:14:12-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-10-23T22:38:41-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -68,6 +73,35 @@ En s'appuyant sur les articles mêmes de la base de connaissances, les éducateu
 - **Placez le savoir communautaire comme étalon d'évaluation.** Suivant l'apprentissage de l'IA ancré dans la communauté, faites juger par les apprenants les productions de l'IA à l'aune de critères localement ancrés de pertinence, de tort et d'utilité, et honorez les contextes où le refus ou la non-utilisation est le bon choix.
 - **Adoptez et évaluez des jeux de données culturellement ancrés.** IKS-Instruct et NSMQ Riddles illustrent que des données non occidentales, propres à un [[discipline-specific-aied|domaine]], améliorent significativement à la fois la pertinence et l'honnêteté de l'évaluation.
 - **Faites interroger l'enseignant par l'IA avant qu'elle ne rédige.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et coll. (2026)]] décrivent un planificateur de leçons culturellement adapté dont l'architecture d'invites semi-automatisée et interactive pose d'abord des questions sur le contexte et la culture, puis rédige à partir des réponses de l'enseignant lui-même plutôt que de produire un plan générique.
+
+## Idées fausses courantes
+
+**« Les productions d'IA sont culturellement neutres, sauf si l'on demande explicitement de la culture. »** Le défaut n'est pas neutre, il est dominant. Une analyse de **310 plans de cours d'éducation civique générés par IA (2 230 activités)** a trouvé que **94 % ne contenaient aucun contenu multiculturel discernable** — et parmi les 144 activités qui en contenaient, **137 se situaient au niveau « additif », le plus bas, une seule atteignait la « transformation », et aucune n'atteignait l'« action sociale ».** Laissés sans invite, les modèles reproduisaient un défaut non diversifié : demander de la culture n'est donc pas une atténuation de biais, c'est la seule raison pour laquelle il en apparaît.
+
+**« Ajouter des exemples multiculturels constitue une pédagogie culturellement pertinente. »** La hiérarchie du cadre dit le contraire, et la production générée montre pourquoi la distinction est opérationnellement importante. Le contenu additif laisse intactes la structure et les présupposés de l'unité ; la transformation change le cadrage du contenu ; l'action sociale demande aux apprenants d'agir sur lui. Confondre représentation et transformation, c'est ainsi qu'un corpus peut être non vide à 6 % en matière de diversité et rester très loin d'une réponse culturelle.
+
+**« La politique institutionnelle d'usage de l'IA détermine ce que les étudiants considèrent comme éthique. »** La culture fait plus de travail que le texte de la politique. Une enquête interculturelle auprès d'étudiants canadiens et sud-coréens en [[cs-education|informatique]] a trouvé que **la culture, et non la politique, déterminait les perceptions de l'éthique d'usage de l'IA** — des comportements identiques étaient jugés différemment selon les cohortes. Une politique unique à l'échelle de l'établissement ne produit donc pas une éthique partagée, et la traiter comme si c'était le cas conduira à mal lire vos étudiants.
+
+**« Un pilote auprès de quatre enseignants montrant qu'ils se sentent plus confiants prouve que l'approche fonctionne. »** C'est une preuve sur la perception des enseignants, qui a sa valeur et n'est pas la même chose. Dans ce pilote, la confiance des enseignants à repérer les occasions de pertinence culturelle s'est améliorée et **78 % ont trouvé les suggestions de l'IA utiles pour diversifier les supports** — tandis que les auteurs concèdent que l'adaptation culturelle réside **dans l'invite plutôt que dans le pipeline de traitement automatique du langage**, et que la pertinence culturelle a été évaluée plutôt qu'ingénierée. Confiance et utilité perçue ne sont pas une pertinence culturelle démontrée pour les étudiants.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Ne livrez jamais un plan de cours d'IA sans invite comme s'il était culturellement pertinent. Le chiffre de 94 % est le comportement par défaut : le contenu culturel doit être spécifié explicitement et vérifié point par point.
+- Classez vos propres ajouts sur l'échelle additif/transformation/action sociale et visez au moins un barreau plus haut que ce qui semble naturel. L'essentiel de la diversité générée reste au niveau le plus bas.
+- Ne supposez pas que la politique de votre établissement voyage avec vos étudiants. Le contexte culturel façonne leurs jugements éthiques plus que le règlement.
+
+**Pour les développeurs**
+
+- Traitez la pertinence culturelle comme une affaire de pipeline, non d'invite. La limite reconnue du pilote est que l'adaptation résidait dans l'invite, ce qui signifie qu'elle disparaît quand l'invite change.
+- Évaluez les contenus générés sur toute l'échelle, en rapportant combien d'items atteignent la transformation ou l'action sociale — un décompte de diversité qui s'arrête à l'additif paraîtra satisfaisant et ne voudra pas dire grand-chose.
+- Rendez visible la relation enseignant-étudiant dans tout ce que vous instrumentez ; l'importance des variables la plaçait au deuxième rang des prédicteurs de stress dans les travaux cités, et c'est l'atout que la génération générique ne peut pas fournir.
+
+**Pour les chercheurs**
+
+- Rapportez le contenu culturel par niveau plutôt qu'en présence ou absence, car une présence de 94 % contre 6 % ne dit rien sur ce qu'est ce 6 %.
+- Distinguez explicitement les résultats de perception enseignante des résultats étudiants lorsque vous rapportez des pilotes.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Identité de l'apprenant"
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-24T10:58:00-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,13 +10,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-10-01T14:02:49-04:00"
+source_updated: "2026-10-26T01:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,16 @@ L'identité de l'apprenant est la contrepartie **tournée vers l'étudiant** de 
 ## Connexions
 
 L'identité de l'apprenant se relie à l'[[agency|autonomie]] (l'identité se met en acte par une paternité agissante), au [[self-efficacy|sentiment d'efficacité personnelle]] (les croyances en ses capacités qui soutiennent l'identité), à la [[motivation|motivation]] et à la [[self-determination-theory|théorie de l'autodétermination]] (la formation de l'identité satisfait les besoins d'autonomie et de compétence), à l'[[student-experience|expérience étudiante]] et à l'[[student-engagement|engagement des étudiants]], et à l'[[stem-education|enseignement des STIM]] (où l'identité disciplinaire est un résultat clé et un prédicteur de la persévérance). Elle est aussi façonnée par l'[[situated-learning|apprentissage situé]] et la [[critical-pedagogy|pédagogie critique]] (l'identité comme participation et comme négociation chargée de pouvoir) et se relie à l'[[authentic-assessment|évaluation authentique]] (des tâches qui laissent les apprenants performer et ainsi revendiquer une identité). Sa pertinence pour l'[[higher-ed|enseignement supérieur]] et l'[[k-12|enseignement primaire et secondaire]] couvre à la fois la scolarité et la préparation professionnelle.
+
+## Idées fausses courantes
+
+**« L'identité d'apprenant est un trait stable auquel un cours peut s'adapter. »** Mieux vaut la traiter comme quelque chose qui se **construit continuellement par la participation, la reconnaissance et l'auctorialité**. Ce déplacement transforme la question de conception : il ne s'agit plus d'apparier une identité existante mais de façonner celle que le cours rend disponible — et une IA qui fait le travail retire l'un des trois ingrédients, car c'est l'auctorialité qui est à l'origine de la revendication identitaire.
+
+**« Les questions d'identité concernent les étudiants issus de groupes sous-représentés. »** L'identité se forme chez chaque apprenant selon que sa participation est reconnue ou non, ce qui en fait une condition générale de conception plutôt qu'une disposition particulière. La présenter comme une préoccupation ciblée est précisément la manière dont elle se trouve reportée.
+
+**« L'assistance par l'IA abaisse les barrières et élargit donc la participation. »** Elle peut abaisser la barrière de la production tout en rétrécissant celle de la revendication d'auctorialité. Un étudiant qui remet un artefact fluide qu'il n'a pas écrit a obtenu l'accès au résultat et s'est vu refuser la reconnaissance qui construit l'identité derrière.
+
+**« Reconnaître l'identité d'un apprenant relève de la représentation dans les contenus. »** La représentation compte, et la reconnaissance s'exerce dans la pratique : quelles questions sont reprises, quelle contribution est créditée, et qui est traité comme capable. Un curriculum peut être représentatif et refuser malgré tout la reconnaissance dont la formation identitaire a besoin.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'anglais (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-10-24T10:45:02-04:00"
+updated: "2026-11-01T10:17:50-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -10,14 +10,19 @@ ethics: [equity-in-ai-education]
 discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/english-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -95,6 +100,13 @@ Une synthèse fondée sur Scopus de 54 études en EFL situe les [[limitations-in
 - **Différencier selon le niveau de compétence et les besoins.** [[ai-vs-human-assessment-efl-tpck-2026|L'évaluation en EFL]] et la recherche sur le tutorat adaptatif plaident pour adapter le soutien et l'évaluation par l'IA au niveau des apprenants plutôt que d'appliquer une solution uniforme.
 
 - **Accorder plus de poids à la production.** Une méta-analyse de 33 études en TEFL a trouvé un effet global faible à modéré (g = 0.38, ramené à 0.28 par la méthode trim-and-fill), qui augmentait avec le niveau d'éducation et favorisait les compétences productives — l'expression orale et l'écriture — par rapport aux compétences réceptives ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim et Sulaiman (2026)]]).
+
+## Idées fausses courantes
+
+- **« En EFL, l'IA menace surtout la triche. »** La [[limitations-in-aied-research|limitation]] la plus rapportée par le champ lui-même est **l'autonomie de l'apprenant**, apparaissant comme [[cognitive-offloading|dépendance excessive]] dans **27** des études d'une synthèse Scopus de **54 études**. Le coût documenté est la dépendance plutôt que la malhonnêteté, ce qui appelle une intervention différente.
+- **« Les enseignants de langue adoptent avec enthousiasme ou pas du tout. »** Une [[li-language-educators-genai-review-2026|revue systématique de 23 études]] (Li et coll.) trouve une **adoption prudente, préparatoire d'abord** comme schéma. Les enseignants étaient circonspects de manière réfléchie, non divisés entre enthousiastes et réfractaires.
+- **« L'effet global justifie l'effort. »** Une méta-analyse de **33 études TEFL** a trouvé un **effet global petit à modéré (g = 0.38, réduit à 0.28 par trim-and-fill)** qui **augmentait avec le niveau d'études**. L'effet est modeste après correction et concentré aux niveaux supérieurs, si bien qu'une affirmation pour les apprenants débutants n'est pas étayée par le chiffre regroupé.
+- **« Tout usage de l'IA est également productif pour l'apprentissage des langues. »** Les mêmes travaux plaident pour **pondérer la technologie vers la production** — l'écriture et l'oral plutôt que la consommation. La modalité déterminait l'effet plus que la présence de l'IA.
 
 ## Concepts liés
 

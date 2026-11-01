@@ -1,7 +1,7 @@
 ---
 title: "Sud global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-24T10:41:34-04:00"
+updated: "2026-11-01T10:18:15-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-10-21T21:15:00-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,14 @@ La recherche dominante sur l'IA et sur les technologies éducatives a historique
 Prendre en compte les contextes du Sud global exige de dépasser l'hypothèse d'un transfert direct des modèles et des repères de référence occidentaux. Cela appelle des ensembles de données ancrés localement, une [[pedagogy|pédagogie]] culturellement pertinente, des normes d'évaluation centrées sur la communauté, et une recherche qui traite les épistémologies vécues et communautaires des apprenants comme faisant autorité — en accord avec des cadres comme l'apprentissage de l'IA fondé sur la communauté et la recherche sur l'[[technology-acceptance-model|acceptation technologique]] adaptée aux conditions locales.
 
 Le bilan de la mise à l'échelle fait partie de ce tableau, et il est sobre. Les programmes qui fonctionnent à l'échelle du pilote cessent fréquemment de fonctionner lorsque les gouvernements les déploient : le programme kenyan qui a produit des gains substantiels sous une mise en œuvre non gouvernementale n'a montré aucun gain détectable à l'échelle gouvernementale (Bold et coll.), les tailles d'effet ont tendance à diminuer à mesure que les programmes grandissent (Vivalt), et la qualité de la mise en œuvre se dilue à mesure que les sites se multiplient (Al-Ubaydli, List et Suskind). Le précédent propre à l'Amérique latine est le programme péruvien One Laptop per Child — environ 800 000 ordinateurs portables distribués sans effet détectable sur les [[math-education|mathématiques]] ou la lecture — dont la leçon retenue est que l'accès à la technologie n'est pas de l'instruction. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et coll. (2026)]] ajoutent une leçon de reporting à la leçon de mise à l'échelle : dans l'épisode du Salvador en 2026, un pilote de tutorat par IA dans 171 écoles a été annoncé comme comparable à l'Allemagne et à la Suède, alors même que l'échantillon PISA 2025 représentatif du même pays ne montrait aucun mouvement dans deux des trois matières, et que les données du pilote étaient trop minces (7.0 étudiants évalués par école contre 25.4 à l'échelle nationale) pour exclure la sélection comme explication. Pour les systèmes du Sud global qui adoptent l'IA à grande échelle, l'implication est double : la donnée probante qu'une réforme fonctionne porte généralement sur les composants qu'elle regroupe plutôt que sur la technologie mise en avant, et un déploiement par phases conçu avant la mise en œuvre identifie les effets à un coût quasi nul — ce qui importe le plus là où la connectivité dicte de toute façon ce phasage.
+
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi et van der Merwe (2026)]] soutiennent, à partir d'une classe de 9e année en Afrique du Sud, qu'une politique institutionnelle d'interdiction préalable ferme les conditions dans lesquelles l'IA pourrait étendre plutôt que remplacer les enseignants en situation de pénurie pédagogique, et que les données d'interaction produites par les apprenants sont détenues sous des régimes de gouvernance étrangers.
+
+## Idées fausses courantes
+
+- **« Les contextes à faibles ressources manquent d'un cadre d'éthique de l'IA et doivent en importer un. »** Des enseignants STEAM du secondaire en exercice dans un contexte à faibles ressources **raisonnent l'éthique de l'IA à travers leur identité professionnelle, les réalités de la classe et les normes culturelles plutôt que par des principes formels**. Le raisonnement existe et il est situé ; une liste de principes universels s'y transfère mal.
+- **« Le type de gouvernance prédit l'intégration de l'IA dans les universités. »** Une analyse de contenu comparative de **45 universités nigériannes** (fédérales, d'État et privées) a trouvé que l'intégration de l'IA était prédite par **l'âge et la localisation géographique de l'institution — et non par le type de gouvernance**. L'hypothèse d'une divergence entre établissements publics et privés est contredite.
+- **« La fracture numérique est le principal obstacle. »** Une étude de cas [[qualitative-research|qualitative]] portant sur **21 étudiants de premier cycle malvoyants dans trois universités palestiniennes** a trouvé que l'IA générative franchit simultanément les barrières **numériques, géographiques et socioéconomiques**. Les barrières sont stratifiées, et traiter l'accès comme l'obstacle unique laisse les autres intactes.
 
 ## Concepts liés
 

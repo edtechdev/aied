@@ -1,20 +1,24 @@
 ---
 title: Philosophie de l'IA en éducation
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-24T10:43:33-04:00"
+updated: "2026-11-01T10:13:30-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-10-16T07:28:51-04:00"
+source_updated: "2026-10-25T19:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -59,6 +63,35 @@ La philosophie de l'IA en éducation et les [[learning-theories]] sont des lenti
 ### Relations avec le développement théorique
 
 La philosophie de l'IA en éducation et le [[theory-development-aied|développement théorique en IAEd]] sont complémentaires mais distincts. La philosophie pose les questions ontologiques et épistémologiques — ce que l'esprit, la connaissance et l'apprenant sont fondamentalement dans des conditions médiatisées par l'IA — tandis que le développement théorique produit et teste empiriquement les *mécanismes* qui opérationnalisent des réponses à ces questions (le générativisme, la co-agence épistémique, la ligne de base cognitive absente). Les deux s'informent mutuellement : la philosophie clarifie les présupposés que portent les théories (par exemple, l'[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agence épistémique]] présume un modèle de cognition distribué et non individualiste), tandis que le développement théorique donne aux positions philosophiques une forme testable et falsifiable. Les articles les plus fondamentaux du domaine font les deux à la fois, se situant à la frontière entre les deux concepts.
+
+## Idées fausses courantes
+
+**« La philosophie de l'IA en éducation revient à cataloguer les théories de l'apprentissage. »** Les deux se situent à des profondeurs différentes. La page [[learning-theories]] demande *comment l'apprentissage se produit* ; la philosophie demande *ce que l'apprentissage, l'esprit et l'apprenant sont fondamentalement* dans des conditions médiées par l'IA. Une étude peut trancher une question de théorie de l'apprentissage et laisser la question philosophique intacte, ce pourquoi une intervention techniquement réussie peut malgré tout être la mauvaise chose à faire.
+
+**« Le délestage cognitif est le préjudice, et il est réversible par plus d'effort. »** Une affirmation plus forte est disponible. Bai et Costa (2026) s'appuient sur la conception arendtienne de la pensée comme activité intérieure et intransférable pour soutenir que l'IA générative qui *fournit* le travail ne déleste pas seulement la pensée mais l'empêche — et ils situent le risque institutionnellement, par le champ et l'habitus de Bourdieu, plutôt que dans la volonté individuelle. Si l'argument tient, « utilisez-la prudemment » n'est pas un remède suffisant, parce que la pratique est façonnée par le champ qui récompense la production.
+
+**« La philosophie non occidentale est un contenu à ajouter à un cadre inchangé. »** Elle peut être une source de fondements différents. Une reconstruction traite les concepts taoïstes — la « nature du Dao » (道性), la cultivation de soi (修道) et le « Zhenren » (真人) — non comme un « contenu oriental » ajouté à un cadre occidental, mais comme des ressources qui refaçonnent les fondements conceptuels à travers lesquels l'IA en éducation est comprise. Ajouter une tradition comme illustration et l'utiliser pour recadrer les questions sont deux actes savants différents.
+
+**« La critique philosophique est inapplicable. »** Elle fixe ce qui compte comme réussite. Savoir si la production d'un système est un accomplissement de l'apprenant, et si un gain mesuré est un bien éducatif, sont des questions préalables auxquelles aucune taille d'effet ne peut répondre — et les institutions qui les sautent optimiseront le mesurable et appelleront cela une amélioration.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Décidez, avant d'adopter un outil, ce que vous êtes prêt à compter comme l'accomplissement propre de l'étudiant. Si un travail poli produit par le système satisferait votre évaluation, vous avez répondu « rien » — et aucun changement ultérieur de grille ne récupère la question.
+- Prenez au sérieux l'argument de l'empêchement lorsque vous concevez des tâches : si l'IA générative qui fournit le travail empêche la pensée plutôt qu'elle ne la déleste simplement, alors « utilisez-la de manière responsable » n'est pas une sauvegarde suffisante, parce que le champ environnant récompense la production. Concevez des tâches dont les preuves de pensée sont produites avant que l'outil ne soit disponible.
+- Demandez quelle conception de l'apprentissage votre cours encode. Adopter un cadre sans esprit critique importe ses présupposés sur ce qu'est un apprenant, et ces présupposés sont contestables.
+
+**Pour les développeurs**
+
+- Exposez la frontière que vous avez tracée entre assistance et fourniture, et faites-en une décision de produit plutôt qu'un réglage par défaut. Un système capable de produire l'artefact fini a décidé, implicitement, que le travail mental est facultatif.
+- Résistez à l'optimisation pour l'apparence de l'apprentissage. La fluidité et la complétude sont les propriétés mesurables, et ce sont elles qui masquent cet empêchement.
+- Si vous affirmez que votre système « soutient la pensée », énoncez ce qu'il refuse de faire — le refus est le mécanisme.
+
+**Pour les chercheurs et les décideurs**
+
+- Énoncez la conception de l'apprentissage que votre évaluation présuppose, parce qu'un gain mesuré n'est un bien éducatif que relativement à une conception de ce à quoi sert l'éducation.
+- Financez le travail philosophique aux côtés du travail empirique : les questions sur ce qui compte comme accomplissement d'un apprenant fixent les critères de réussite que les études empiriques utilisent ensuite.
 
 ## Concepts liés
 - [[learning-theories]]

@@ -1,7 +1,7 @@
 ---
 title: L'éthique
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:37:28-04:00"
+updated: "2026-11-01T10:15:18-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-10-18T10:07:01-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -17,6 +17,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -34,6 +39,8 @@ ai_assist:
 ## Introduction
 
 L'éthique est l'épine dorsale normative de l'IA en éducation : chaque outil d'IA, chaque politique et chaque décision [[pedagogy|pédagogique]] encode des hypothèses sur ce qui est équitable, transparent, responsable et sûr. La base de connaissances traite l'éthique à la fois comme un ensemble de principes (équité, vie privée, transparence, autonomie, responsabilité) et comme un ensemble de *pratiques* — la manière dont les parties prenantes raisonnent effectivement au sujet de l'IA, dont les établissements la gouvernent, et dont les apprenants sont préparés à l'utiliser de manière responsable. La [[research-methods-aied|recherche]] récente documente un double mouvement : d'une part, une inquiétude croissante quant à l'insuffisance de l'éthique « à liste de contrôle » fondée sur les principes ; de l'autre, une attention grandissante portée aux approches [[situated-learning|situées]] et écologiques du jugement éthique, ainsi qu'aux conditions structurelles et institutionnelles qui rendent l'usage responsable possible.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] soutiennent, à partir de données suédoises d'enquête et de groupes de discussion, que les établissements devraient trancher les questions d'IA générative par une éthique de partenariat plutôt que par un cadre de tricherie, en s'appuyant sur l'interdépendance mutuelle, le respect de la diversité, l'inclusivité, la responsabilité et l'engagement envers une [[sustainability|durabilité]] de long terme de Carolyn Merchant : 31 % des participants ont soulevé la question éthique spontanément, et la plupart souhaitaient des orientations institutionnelles plus claires que celles dont ils disposaient.
 
 ## Les dimensions éthiques fondamentales
 
@@ -79,8 +86,9 @@ La recherche de la base de connaissances situe de plus en plus l'éthique dans l
 
 Un glissement théorique majeur dans la base de connaissances est la critique de l'éthique universaliste « à liste de contrôle » fondée sur les principes, en faveur de conceptions situées, écologiques et transformatrices :
 
-- **L'éthique située de l'IA.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] fusionnent la théorie des systèmes écologiques de Bronfenbrenner avec la [[activity-theory-aied|théorie de l'activité]] historico-culturelle pour concevoir l'IA comme un assemblage socio-technique non neutre dont les implications éthiques sont produites historiquement et négociées localement. Sur sept cas nationaux, les enseignants sont positionnés comme gardiens moraux de l'usage de l'IA tout en manquant de soutien structurel, institutionnel et épistémique — et le cadre étend la [[ai-education|littératie en IA]] au-delà des compétences techniques vers une agentivité critique, politique et écologique, incluant la résistance au capitalisme de surveillance et au préjudice environnemental.
+- **L'éthique située de l'IA.** [[raffaghelli-situated-ai-ethics-2026|Raffaghelli et al. (2026)]] fusionnent la théorie des systèmes écologiques de Bronfenbrenner avec la [[activity-theory-aied|théorie de l'activité]] historico-culturelle pour concevoir l'IA comme un assemblage socio-technique non neutre dont les implications éthiques sont produites historiquement et négociées localement. Sur sept cas nationaux, les enseignants sont positionnés comme gardiens moraux de l'usage de l'IA tout en manquant de soutien structurel, institutionnel et épistémique — et le cadre étend la [[ai-literacy|littératie en IA]] au-delà des compétences techniques vers une agentivité critique, politique et écologique, incluant la résistance au capitalisme de surveillance et au préjudice environnemental.
 - **Le glissement vers la pratique située.** [[ai-ethics-bibliometric-2026|Une analyse bibliométrique de 282 articles]] montre que le discours sur l'éthique de l'IA après 2021 cadre de plus en plus l'éthique autour du jugement professionnel, de la confiance, de la [[human-ai-collaboration|collaboration humain-IA]] et de la pratique interprétative plutôt que de la seule conformité technique — l'éducation constituant un contexte conceptuellement important.
+- **L'éthique de partenariat.** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] s'appuient sur l'éthicienne de l'environnement Carolyn Merchant pour proposer une éthique de partenariat — interdépendance mutuelle, respect de la diversité, inclusivité, responsabilité et durabilité de long terme — comme alternative dialogique, et rapportent des données suédoises d'enquête et de groupes de discussion où 31 % des participants ont soulevé la question éthique spontanément.
 - **Un compte rendu historico-culturel de la responsabilité.** Ce recadrage rattache l'éthique aux [[learning-theories|théories de l'apprentissage]] et à la [[teacher-ai-competency|compétence en IA des enseignants]] : l'usage responsable de l'IA est traité comme une agentivité sensible au contexte, collective et transformatrice plutôt que comme une conformité individuelle à des listes de contrôle. Une enquête menée auprès de 454 enseignants universitaires étaye ce cadrage : la connaissance éthique de l'IA a médiatisé le chemin allant de la connaissance technique de l'IA à la compétence pédagogique intégrée (β = 0.186) et l'a canalisée plus loin à travers les connaissances pédagogiques et disciplinaires ([[ethically-mediated-ai-tpack-china-2026|Chen et al. (2026)]]).
 - **Un recadrage ontologique de l'obligation éthique.** Xie (2026) pousse plus loin la critique de l'éthique située en la relocalisant dans l'ontologie : là où une grande partie des travaux universitaires traite l'équité, les asymétries de pouvoir et les coûts environnementaux comme des externalités à gérer, un soi relationnel taoïste en fait des éléments internes à ce que nous sommes, de sorte que « être laissé pour compte » devient ontologiquement intenable plutôt que simplement injuste. La tâche éthique n'est alors pas une optimisation détachée mais le Wuwei (无为) — l'action non forcée alignée sur la naturalité — opposé au Youwei (有为) de la monoculture algorithmique, du délestage cognitif et des infrastructures extractives, appliqué à trois domaines : la connaissance (monoculture épistémique et désinformation synthétique), le fait de connaître (délestage qui dégrade la [[critical-thinking|pensée critique]]) et l'impact (coûts environnementaux et asymétries Nord global–Sud global). ([[daoism-ai-education-philosophy-2026]])
 
@@ -97,6 +105,12 @@ La conscience éthique, le raisonnement réflexif et les pratiques responsables 
 ## Connexions
 
 L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducation]], à la [[privacy|vie privée]], à la [[bias-mitigation|réduction des biais]], à la [[regulation|réglementation]], à la [[pedagogical-safety|sécurité pédagogique]], à l'[[academic-integrity|intégrité académique]] et à la [[governance|gouvernance]]. Elle est le fondement normatif de tous les autres concepts de l'IA en éducation — le cadre à l'intérieur duquel les questions d'équité, de transparence, d'autonomie et de sécurité sont posées et résolues.
+
+## Idées fausses courantes
+
+- **« Le cadre de la tricherie suffit pour penser l'éthique de l'IA générative. »** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] soutiennent que les établissements devraient trancher les questions d'IA générative par une **éthique de partenariat plutôt que par un cadre de tricherie**. Le cadre détermine quelles questions sont posées, et un cadre de faute ne peut pas interroger la finalité pédagogique.
+- **« Les enseignants et les étudiants s'accordent sur ce qui est éthique. »** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç et Sever (2026)]], une étude [[mixed-methods-research|à méthodes mixtes]] portant sur **971 étudiants et 135 enseignants**, constatent que les dimensions éthiques divergent entre les groupes. Une politique écrite depuis une seule perspective décrira mal l'autre.
+- **« Le consensus éthique précède l'usage. »** **L'usage croît plus vite que le consensus éthique** : sur quatre semestres dans un programme américain de formation des enseignants, l'usage de l'IA générative par les étudiants **est passé de 57 % à 83 % pour la préparation des évaluations**. Les normes se forment par la pratique plutôt que l'inverse.
 
 ## Concepts liés
 - [[business-education]]
@@ -116,6 +130,9 @@ L'éthique est liée à l'[[equity-in-ai-education|équité dans l'IA en éducat
 - [[biology-education]] — L'enseignement de la biologie et l'IA : assistants de laboratoire pour l'enseignement, littératie en IA en biologie, pensée critique, outils spécialisés
 
 ## Articles liés
+
+- [[gillette-partnership-ethics-genai-higher-education-2026]] — Enquête et groupes de discussion suédois soutenant qu'une éthique de partenariat, et non un cadre de tricherie, devrait guider les décisions institutionnelles sur l'IA générative
+
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La conscience éthique a amplifié l'anxiété liée à l'IA là où aucun cadre d'adaptation n'était enseigné : médiation indirecte uniquement parmi 584 étudiants
 - [[learning-analytics-to-educational-interventions-2026]] — De l'analytique de l'apprentissage aux interventions éducatives : les facilitateurs d'interventions dignes de confiance fondées sur l'analytique de l'apprentissage (Svetec, Divjak & Kadoić 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Comment les étudiants utilisent et cachent l'IA dans les évaluations en ligne

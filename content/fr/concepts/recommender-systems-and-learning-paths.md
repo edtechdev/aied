@@ -1,7 +1,7 @@
 ---
 title: Systèmes de recommandation et parcours d'apprentissage
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners, researchers, instructional designers, software
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 translation_of: concepts/recommender-systems-and-learning-paths
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -84,6 +88,16 @@ Les trois pages de concepts adjacentes couvrent un terrain voisin et devraient �
 La base de preuves a une forme constante : de fortes métriques de classement hors ligne, de faibles preuves sur l'apprentissage. Les deux études de recommandation ci-dessus sont évaluées sur des journaux d'interaction historiques et le disent, et les auteurs de l'étude CF-KG appellent explicitement à des évaluations par les enseignants, à des études sur les apprenants et à des expériences fondées sur les résultats. Le biais de popularité a survécu à un objectif d'entraînement sensible à l'équité dans un système, de sorte que le domaine ne peut encore désigner aucun correctif de reclassement ou de régularisation qui change de façon fiable l'exposition, et les audits d'équité demeurent bornés par ce que contiennent les journaux des LMS. Le démarrage à froid est traité architecturalement, par la structure sémantique, mais n'est pas testé sur de véritables nouveaux utilisateurs en déploiement réel. L'efficacité des parcours est mieux étayée, mais les chiffres d'efficacité reposent encore sur une seule étude et une seule famille d'algorithmes, et un parcours plus court n'est pas automatiquement meilleur s'il supprime la [[desirable-difficulties|lutte productive]] dont un apprenant a besoin. Les travaux formels sur l'optimisation des parcours aiguisent le point dans les deux sens : garantir qu'un problème est difficile ne dit pas grand-chose d'un corpus particulier, puisqu'un algorithme d'ascension a atteint le sommet de la grille d'[[retrieval-spacing-interleaving|entrelacement]] sur chaque profil réel malgré des preuves de NP-complétude, et un parcours noté 3,54 sur une grille dérivée de la théorie reste un parcours que personne n'a testé sur des apprenants, de sorte que la qualité de la grille est un indicateur tourné vers le concepteur en lieu et place de preuves de résultats, plutôt qu'un substitut à celles-ci. Le vocabulaire est aussi instable : [[ikram-ai-personalized-learning-review-2026|Ikram et collègues (2026)]], dans une revue [[meta-analysis-systematic-review|PRISMA]] de 31 articles indexés sur Scopus (2013–2025), rendent compte d'effets cognitifs moyens à importants (g = 0,50–0,70) pour les systèmes adaptatifs dotés d'IA, fortement modérés par la qualité de mise en œuvre et par la [[research-methods-aied|conception de l'étude]].
 
 La même littérature a commencé à proposer des remèdes au rétrécissement, sans encore les tester. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem, Zaoui Seghroucheni et Ziti (2026)]] regroupent 14 003 dossiers d'étudiants selon 12 entrées comportementales, psychologiques et environnementales auto-déclarées en six profils par K-Means++ avec une forte séparation (Silhouette 0,62 ; η² = 0,770 sur la note finale, avec un écart moyen de 40,17 points de score d'examen entre les profils le plus élevé et le plus bas), puis projettent les profils sur des objets d'apprentissage par un score d'affinité combiné à une matrice de projection Felder-Silverman et à un terme de régularisation de la diversité (λ = 0,30) dont le but explicite est d'empêcher un système de recommandation de s'effondrer sur ce qu'un profil préfère déjà. La conception est la contribution, et les preuves n'en sont pas : la couche de recommandation est conceptuelle, sans déploiement ni mesure de résultats rendus, et les auteurs déclarent que les entrées du regroupement sont des indicateurs auto-déclarés plutôt que des traces d'interaction de LMS. C'est une réponse candidate au manque de régularisation que cette page relève, qui attend encore la validation dont le domaine manque selon cette même page.
+
+## Idées fausses courantes
+
+**« Une recommandation dotée d'une meilleure métrique d'exactitude est un meilleur parcours d'apprentissage. »** L'exactitude du classement et la validité pédagogique sont des affirmations différentes. Sur le sous-ensemble anglais du jeu de données MARS (**4 800 utilisateurs, 14 200 ressources, 132 000 interactions, parcimonie 0,9981**), un système a atteint NDCG 0,625 et HR 0,751, soit un gain d'environ **7-8 %** sur le meilleur modèle neuronal de référence — une amélioration de la prédiction de ce à quoi un apprenant s'engagerait, ce qui n'est pas la même chose que ce qui l'instruirait.
+
+**« Les prérequis peuvent être traités comme une relation de similarité symétrique. »** Ils ne le peuvent pas : les relations de prérequis sont **asymétriques directionnellement**, et un modèle qui capte « ces thèmes sont liés » n'a capté ni la direction ni l'ordre. C'est pourquoi le séquencement des prérequis est un problème distinct de la recommandation.
+
+**« Des données éparses sont une nuisance technique. »** Aux niveaux de parcimonie de cette littérature (0,9981), le système ne voit presque rien, ce qui rend le démarrage à froid et le biais de popularité structurels plutôt que corrigeables par réglage. Un système de recommandation entraîné sur ce signal fera systématiquement remonter ce qui est déjà populaire, et les apprenants discrets ou atypiques sont ceux qu'il ne peut pas voir.
+
+**« L'explicabilité est une fonctionnalité de reporting. »** Qu'un enseignant ou un apprenant puisse auditer une recommandation est une condition de légitimité : un parcours qu'un étudiant ne peut pas examiner est un parcours qu'il ne peut pas contester, ce qui est un problème de gouvernance avant d'être un problème d'interface.
 
 ## Concepts liés
 

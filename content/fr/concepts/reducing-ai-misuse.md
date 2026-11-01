@@ -1,7 +1,7 @@
 ---
 title: Réduire les mésusages de l'IA
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-10-24T10:49:43-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,13 +10,17 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-10-25T14:15:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,8 @@ Le concept repose sur la preuve que le mésusage de l'IA nuit activement à l'ap
 ### Pourquoi les leviers structurels comptent le plus
 
 Les interventions peuvent être classées selon les **preuves causales × la portée structurelle × la montabilité en échelle × la [[sustainability|durabilité]]**. Sur cette base, les deux leviers *structurels* occupent le premier rang parce qu'ils agissent que les étudiants choisissent ou non le bon comportement — ils contraignent l'environnement plutôt que de dépendre d'une motivation interne. Les leviers *éducatifs* sont essentiels mais n'efficaces que lorsque les étudiants adhèrent, de sorte qu'ils sont traités comme le second palier malgré leur promesse conceptuelle. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher et Calderon (2025)]] font monter l'argument structurel d'un cran, en traitant la gouvernance plutôt que le comportement étudiant comme la contrainte qui lie, et en proposant un cadre d'indicateurs d'intégrité à 130 items, afin que les gouvernants académiques puissent voir si l'évaluation est authentique, si les étudiants sont connus individuellement des enseignants qui les évaluent, et si l'intégrité figure dans l'intégration et l'orientation. Leurs réformes visent les architectures de gouvernance, les personnes et les [[ai-technologies|technologies et ressources]], et ils proposent d'emprunter le [[guardrails|exercice d'équipe rouge]] à la cybersécurité pour exposer les vulnérabilités de l'évaluation avant que les étudiants ne les trouvent — un rappel que le plancher structurel est maintenu par des institutions qui ont besoin à la fois de l'information et de la volonté de le maintenir.
+
+La littérature sur l'usage responsable ne teste elle-même que rarement la chaîne que ce classement suppose. Sur 122 enregistrements d'approches tirés de 31 études, 51 étaient à la fois mis en œuvre et évalués, le plus souvent par auto-déclaration, et quatre études seulement définissaient une frontière, concevaient une intervention autour d'elle et testaient si les décisions des étudiants s'y alignaient ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega et Zhao (2026)]]).
 
 ### Palier 1 — Directement prouvé pour réduire le préjudice à l'apprentissage
 
@@ -147,3 +153,4 @@ Les leviers éducatifs prennent un tout autre visage dès lors que l'intégrité
 - [[li-genai-assessment-language-equity-2026]] — Où s'arrête le soutien à la langue et où commence la substitution pour les rédacteurs dont l'anglais est une langue additionnelle (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — L'injection de prompts comme vecteur de mésusage contre la notation par l'IA (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — La gouvernance comme contrainte qui lie l'intégrité : un cadre d'indicateurs à 130 items (Coates, Croucher et Calderon 2025)
+- [[tie-responsible-genai-use-academic-writing-review-2026]] — L'usage responsable de l'IA générative par les étudiants en rédaction académique : une revue de portée des frontières, des approches éducatives et des lacunes probantes

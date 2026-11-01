@@ -1,7 +1,7 @@
 ---
 title: "Le bien-être"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,13 +11,17 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-10-23T09:49:58-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,8 @@ Un modèle d'équations structurelles portant sur 502 enseignants-chercheurs uni
 
 Un thème récurrent est que le bien-être devrait être une considération délibérée de conception dans l'IA en éducation, et non une pensée tardive. Cela signifie : concevoir l'IA pour qu'elle soutienne les relations humaines plutôt qu'elle ne les remplace ; garantir que les étudiants peuvent maintenir leur agentivité et leur confiance, plutôt que de faire l'expérience d'une [[anxiety-and-stress|anxiété induite par l'IA]] ou d'une dépendance excessive ; soutenir la capacité et le bien-être des éducateurs à mesure qu'ils intègrent l'IA ; et [[ai-ed-evaluation|évaluer les systèmes d'IA]] non seulement pour leurs [[learning-gains|résultats d'apprentissage]], mais aussi pour leurs effets sur le bien-être des étudiants et des enseignants. Les [[research-methods-aied|recherches]] relient le bien-être à la [[motivation|motivation]], à l'[[self-regulated-learning|apprentissage autorégulé]] et à l'[[student-experience|expérience étudiante]] (appartenance et engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] plaide pour une finalité éducative assortie : l'idéal antagoniste du « Zhenren » (真人) taoïste remplace l'optimisation sans friction par une « intégralité cultivée », réimaginant l'apprentissage comme l'intégration harmonieuse de soi, de la société et du cosmos, et insistant sur le fait que « aucun étudiant n'est un simple jeu de données à gérer, mais un être entier capable d'atteindre l'équanimité ».
 
+**Le socle de preuves en apprentissage socioémotionnel ne dit pas qui doit agir.** Une revue systématique de 65 études à l'intersection de l'IA et de l'[[social-emotional-learning|apprentissage socioémotionnel]] a constaté que près des trois quarts ne mentionnaient aucune implication de politique publique, et que la minorité qui le faisait offrait peu d'orientations sur les acteurs concernés — confidentialité, formation des enseignants ou allocation de ressources ([[policy-deficit-ai-sel-2026|Tran, Liu et Nguyen (2026)]]). Le bien-être comme considération de conception dispose donc de preuves sur les effets et de très peu sur la responsabilité, ce qui laisse la question de savoir qui conçoit pour lui à l'institution plutôt qu'à la littérature.
+
 Un recadrage conceptuel ancre le soutien à la [[self-regulated-learning|régulation des émotions]] dans l'activité physique et l'écologie du campus plutôt que dans la seule détection de l'affect : aucun canal expressif unique n'identifie la détresse sans contexte, si bien que l'IA devrait soutenir la régulation par l'exercice, tandis que les enseignants et les conseillers en gardent l'interprétation, et la surveillance de l'affect devient coercitive dès lors qu'elle est liée à la présence en cours ou à la notation ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
 ### Connexions avec les concepts liés
@@ -71,6 +77,12 @@ Le bien-être est en lien avec l'[[student-experience|expérience étudiante]] (
 **La friction, le sens et la solitude comme un signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom et Inzlicht (2026)]] donnent à l'argument du bien-être un mécanisme : l'effort signale que nos actions importent, si bien que les gens qui travaillent en vue d'une tâche se sentent plus compétents, valorisent davantage le produit et le jugent plus empreint de finalité — et même sur des tâches objectivement dénuées de sens, ajouter de la friction élève le sens évalué. Sur les relations, ils traitent la solitude non seulement comme une affliction (liée aux maladies cardiovasculaires, à la démence, aux accidents vasculaires cérébraux et à la mort prématurée), mais comme un **signal [[biology-education|biologique]]** apparenté à la faim ou à la douleur : un inconfort qui motive d'aller vers les autres, d'accepter les invitations, d'investir dans les relations existantes et de tolérer les conversations difficiles. Les compagnons IA peuvent apaiser cet inconfort, ce que les auteurs considèrent comme un authentique progrès dans certains cas, tout en réduisant au silence le signal qui pousse à la connexion — et ils tempèrent l'argument par les stades, soutenant que, pour les personnes isolées par les circonstances plutôt que par choix, refuser l'accès à une telle technologie « serait cruel » (la [[motivation|motivation]], l'[[social-emotional-learning|apprentissage socioémotionnel]]).
 
 Le soutien émotionnel et le lien social peuvent évoluer en sens opposés au sein d'un même échantillon. Parmi 819 étudiants saoudiens de l'enseignement supérieur, la satisfaction à l'égard des chatbots atteignait en moyenne 4.29 et leur expérience des outils 4.19, tandis que l'inquiétude que les chatbots affaiblissent le lien humain était le construit le mieux noté, à 4.36 ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]). Cette inquiétude augmentait avec l'expérience au lieu de diminuer avec la satisfaction (coefficients standardisés de .64 contre .11).
+
+## Idées fausses courantes
+
+- **« L'approbation des étudiants indique que le bien-être est soutenu. »** Parmi **551 étudiants de première année**, **82,76 % approuvaient l'intégration** de contenus numériques et intelligents — et **une forte approbation coexistait avec la tension, tandis que la pression des tâches liée à l'IA affaiblissait le bénéfice**. L'approbation et la tension montent ensemble, si bien que les enquêtes de satisfaction induisent en erreur précisément ici.
+- **« Le soutien au bien-être est culturellement neutre. »** [[culturally-aware-student-stress-chatbot-2026|Bashir et Afzal (2026)]] décrivent Sukoon, un outil hybride de soutien au bien-être, comme **culturellement situé** — et le cadrage de la page elle-même en note les limites. Une conception du soutien qui présume un étudiant universel lit mal la population.
+- **« La pression des tâches est étrangère à la technologie. »** Le constat est que la **pression des tâches** liée à l'IA affaiblissait le bénéfice de l'intégration, ce qui place la charge de travail à l'intérieur des effets de la technologie plutôt qu'à côté.
 
 ## Concepts liés
 

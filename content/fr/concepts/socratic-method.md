@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: "La méthode socratique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:38:02-04:00"
+updated: "2026-11-01T10:13:17-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-10-19T09:40:00-04:00"
+source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -44,6 +49,8 @@ La méthode socratique est l'une des plus anciennes techniques pédagogiques —
 
 Les rétroactions socratique et directive ont fait évoluer des choses différentes : la rétroaction socratique a élevé le suivi de la compréhension et l'orientation vers la tâche, la rétroaction directive a obtenu de meilleurs scores sur la priorisation des caractéristiques essentielles, et seule la condition directive a progressé grâce à un agent personnalisé ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
+[[ngambi-ai-learning-ecosystems-domino-framework-2026|Ng'ambi et van der Merwe (2026)]] saisissent le questionnement socratique qui fonctionne et qui échoue dans la même classe de mathématiques de 9e année : lorsqu'un apprenant arrivait avec une hypothèse, le tuteur la décomposait en sous-questions, mais sur une tâche structurée sur le théorème de Pythagore, il la reformulait et déviait du sujet.
+
 ## Comment cela fonctionne dans le tutorat par IA
 
 À la différence des tuteurs d'IA à instruction directe qui donnent les réponses, les tuteurs socratiques à base d'IA utilisent des séquences de questions qui :
@@ -53,6 +60,8 @@ Les rétroactions socratique et directive ont fait évoluer des choses différen
 - **Guident vers la prise de conscience** — sans dévoiler la réponse
 
 L'approche socratique incarne directement le principe énoncé par [[llm-training-and-fine-tuning|EduQwen]] : **récompenser le « guidage » plutôt que la « réponse »**. Cependant, le calibrage socratique en temps réel est plus difficile qu'une pédagogie validée sur un corpus fermé : EduQwen optimise le guidage correct sur un [[benchmark]] à choix multiples, tandis qu'un tuteur socratique en situation réelle doit décider *quand* guider, *quand* donner un indice et *quand* répondre — en s'appuyant sur les signaux en temps réel de l'étudiant. L'[[affective-tutoring|état affectif]] est un modérateur critique : un étudiant frustré peut avoir besoin d'une brève réponse directe avant de revenir au mode socratique. Une variante plus stricte supprime tout à fait l'enseignement : un agent de physique d'introduction qui ne fait que sonder demande aux étudiants de défendre une prédiction correcte face à une variable modifiée (détection de la grotte, ou *cave detection*) et garde le message suivant une réponse correcte indiscernable de celui qui suit une réponse erronée ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
+
+La conception des indices a une forme documentée dans un domaine que cette page ne couvre pas par ailleurs. Dans une tâche de révision en langue seconde auprès de 58 étudiants universitaires de niveaux CECRL A1 à B1, la conception fournissait des indices guidés et exigeait des apprenants qu'ils infèrent la correction plutôt qu'ils la reçoivent ([[lukesova-clue-before-correction-2026|Lukešová et Jennings, 2026]]). La charge cognitive réduite et les parcours de révision personnalisés ont été rapportés principalement pour les apprenants qui disposaient déjà de suffisamment de connaissances antérieures pour agir sur un indice, et la profondeur de la rétroaction variait selon la qualité de l'invite formulée par l'étudiant. Retenir la correction a donc un plancher de compétence, ce qui est le problème de calibrage sous une forme qu'une étude peut mesurer.
 
 ## Preuves d'efficacité
 
@@ -119,6 +128,12 @@ La méthode socratique est étroitement liée au [[scaffolding|étayage]] (fourn
 3. L'IA socratique peut-elle être combinée à la [[becerra-aicofe-feedback-2026|rétroaction par les pairs]] pour une amplification sociale ?
 
 - **Retenir les réponses pour provoquer le raisonnement.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] conçoivent des tuteurs à base de LLM suivant la pédagogie de l'[[productive-failure|échec productif]] en retenant les solutions et en suscitant de multiples tentatives — un refus d'aider de style socratique, sauf en cas de stricte nécessité ; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] recommandent des architectures d'IA socratiques et adversariales qui préservent une friction cognitive constructive.
+
+## Idées fausses courantes
+
+- **« Le questionnement socratique n'est que l'absence de réponses. »** Un chatbot socratique sur mesure déployé dans un cours d'introduction à la mécanique à fort effectif (**150 étudiants de première année en [[stem-education|STIM]]**) a produit des gains **mesurables**, et la conception est un questionnement structuré — une interaction contrainte, et non un modèle silencieux.
+- **« L'effet est en aval de l'engagement. »** [[socratic-nuclear-ai-learning|Socrates went Nuclear (Clin Deffarges, Kosmyna et Maes, 2026)]] est une **étude EEG randomisée auprès de 50 participants** comparant un agent sans restriction de style ChatGPT à un agent **socratique**, qui mesure le mécanisme au lieu de l'inférer des résultats.
+- **« Les contraintes sont le problème à supprimer. »** Le soutien causal le plus fort en faveur de la contrainte pointe dans l'autre sens : dans une revue portant sur le primaire et le secondaire, les lycéens utilisant un agent conversationnel généraliste ont **obtenu des scores inférieurs d'environ 17 % aux examens à livre fermé** par rapport à leurs pairs utilisant un outil contraint. L'outil sans contrainte était la condition nocive.
 
 ## Concepts liés
 

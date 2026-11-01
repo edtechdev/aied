@@ -1,19 +1,23 @@
 ---
 title: "La modélisation de l'apprenant et l'enseignement adaptatif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-11-01T10:20:10-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 translation_of: concepts/student-modeling
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -107,6 +111,12 @@ Un estimateur en boîte noire peut aussi être distillé en un petit modèle aut
 ## Connexions avec d'autres concepts
 
 La modélisation de l'apprenant et l'enseignement adaptatif alimentent les [[learning-analytics|analytiques de l'apprentissage]] ([[visualization|tableaux de bord]] et interventions), l'[[formative-assessment|évaluation formative]] (évaluation fondée sur les analytiques) et la [[feedback|rétroaction]] (ce que le système dit à l'apprenant). Ils se relient à l'[[ai-education|IA en éducation]] comme fil central de l'IA pour l'éducation.
+
+## Idées fausses courantes
+
+- **« Un modèle fidèle exige la méthode la plus complexe. »** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries et Koprinska (2025)]] montrent qu'une **représentation fidèle n'exige pas l'approche la plus complexe**. La complexité n'est pas un substitut de la fidélité, et un modèle plus simple qui saisit la structure pertinente peut être le meilleur instrument.
+- **« Les modèles d'apprenant ont besoin de données de traces. »** Un modèle prédictif d'apprenant peut reposer sur **la structure des inscriptions** plutôt que sur des traces : TRACE encode chaque semestre comme un **panier non ordonné de cours** et prédit à partir de là. Le signal prédictif peut vivre dans le dossier administratif de l'établissement.
+- **« L'état affectif exige une mesure physiologique. »** Un tuteur de mathématiques **inférait l'émotion à partir du texte conversationnel et de l'expression faciale** et associait l'état agrégé à des décisions de tutorat. Le signal affectif était récupérable à partir de ce que les apprenants produisaient déjà.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "La créativité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T10:45:55-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -10,7 +10,7 @@ audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
 translation_of: concepts/creativity
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -44,6 +48,7 @@ La créativité couvre l'extrémité pensée-divergente du spectre cognitif — 
 
 - **Amplification :** l'IA peut agir comme un partenaire de pensée divergente — en remue-méninges d'alternatives, en produisant des contre-arguments et en offrant des perspectives que l'apprenant n'aurait pas envisagées. Des configurations d'[[agentic-ai|agents multiples]] spécialisées par rôle peuvent restaurer la diversité idéationnelle.
 - **Risque d'homogénéisation :** une assistance fondée sur un modèle unique peut réduire la diversité des idées entre étudiants, de sorte que le même modèle produit des sorties convergentes. C'est une menace directe pour la créativité dans l'[[writing-education]] et l'[[design-education|enseignement du design]].
+- **L'homogénéisation est une propriété du déploiement, non de l'assistance par l'IA en tant que telle.** Dans une expérimentation d'écriture à 247 participants, l'assistance par un modèle unique comme par deux modèles a élevé la qualité des essais (Δ = 0.332 et 0.234 contre le contrôle), mais seule la condition à deux modèles a restauré la diversité des idées entre participants au niveau de référence ([[multi-agent-llm-social-learning|Kumar et coll. (2026)]]). Les productions convergentes contre lesquelles cette page met en garde sont produites par *un* modèle utilisé par tous : le levier de conception est donc le nombre et la distinction des assistants, non la présence de l'IA.
 - **Protéger l'autonomie créative :** maintenir le processus génératif de l'apprenant dans la boucle — routines « brouillon d'abord », exigence de synthèse originale, et usage de l'IA pour mettre au défi plutôt que pour remplacer — préserve le travail créatif qui produit un apprentissage durable.
 - **La friction n'est pas un gain créatif.** Des personas d'IA contestataires ont suscité un discours de mise au défi et de réflexion dans 38.2 % des groupes sans produire d'amélioration mesurable de la performance créative : des interactions plus riches ne font donc pas preuve de créativité ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
 - **Une cartographie de terrain K–12 : l'IA générative *améliore* surtout la créativité et la *mesure* rarement.** Une [[meta-analysis-systematic-review|revue de cadrage]] (scoping review) guidée par PRISMA de 45 études (2017–2025) répartit la littérature K–12 en quatre usages — l'[[assessment]] de la créativité (4 études), la co-créativité humain-IA (3), les perceptions des [[stakeholders]] (14) et l'amélioration de la créativité (34) — et montre à quel point le champ reste étroit : la narration et l'écriture fondées sur le langage éclipsent presque tout le reste, tandis que la musique, les travaux [[embodied-learning|incarnés]] et spatiaux et les études centrées sur l'[[equity-in-ai-education|équité]] sont quasi absents. Des [[scaffolding|étayages]] conçus sur mesure qui préservaient l'auctorialité (saisie vocale, story-boards, invites divergentes du type « de nombreuses options ») surpassaient les plateformes clé en main, et les modèles [[llm]] se rapprochaient des évaluateurs humains sur la pensée divergente ; pourtant l'inquiétude des auteurs est la même homogénéisation que cette page suit — diversité linguistique qui se réduit, convergence des styles, données d'entraînement contaminées par l'IA et paresse [[metacognition|métacognitive]] en co-écriture — qu'ils qualifient du terme de Runco d'« artificial creativity » : une production qui semble créative sans l'expérience humaine qui la sous-tend. La sur-dépendance réapparaissait comme un risque dans les études sur la perception, la co-créativité et le [[curriculum-design|programme]] ([[genai-creativity-k12-scoping-review-2026]]).
@@ -86,6 +91,12 @@ Le principe de conception récurrent qui se dégage de ces résultats est de **m
 
 La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[constructivist]]. Elle est protégée par les mêmes [[scaffolding|étayages]] de [[reducing-ai-misuse]] qui préservent l'apprentissage, et par les dispositifs d'[[authentic-assessment]] qui récompensent le raisonnement original plutôt que les produits léchés.
 
+## Idées fausses courantes
+
+- **« Perturber les étudiants produit des gains créatifs. »** **La friction n'est pas un gain créatif.** Des personas d'IA contestataires ont suscité un discours de mise en cause et de réflexion dans **38.2% des groupes** sans produire **aucune amélioration mesurable de la performance créative**. Le discours a changé, le résultat mesuré non.
+- **« La littérature K-12 établit que l'IAG améliore la créativité. »** Une revue de portée guidée par PRISMA sur **45 études (2017-2025)** montre que l'IAG surtout **renforce** la créativité et **la mesure rarement**. Le constat dominant du domaine est une inférence tirée d'un renforcement perçu, ce qui n'est pas une mesure de résultat.
+- **« Plus de dépendance à l'IAG signifie plus de production créative. »** Chez **1,157 étudiants de troisième cycle chinois**, la dépendance à l'IAG était **positivement associée à la créativité de recherche auto-déclarée** — et l'association porte sur de l'**auto-déclaration**, la mesure la plus faible disponible pour ce construit.
+
 ## Concepts liés
 
 - [[critical-thinking]]
@@ -115,6 +126,7 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet : modèle de trivalence de la co-créativité potentielle dans les réseaux sociotechniques
 - [[genai-creativity-k12-scoping-review-2026]] — Revue de portée PRISMA de 45 études du primaire au secondaire : quatre usages de l'IA générative pour la créativité, l'homogénéisation et la lacune de mesure
+- [[multi-agent-llm-social-learning]] — Une assistance à deux modèles a restauré la diversité idéationnelle qu'un modèle unique aplanissait (Kumar et coll. 2026)
 
 - [[genai-dependence-research-creativity-2026]] — Dépendance fonctionnelle ou existentielle à l'IA générative et créativité de recherche chez 1 157 étudiants de troisième cycle
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Créativité égale, engagement neural divergent : enfants et adultes conversationnant avec ChatGPT dans un scanner d'IRM

@@ -1,7 +1,7 @@
 ---
 title: "Réalité virtuelle et augmentée"
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-10-24T10:46:40-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,13 +9,17 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 La réalité virtuelle et augmentée est une **modalité**, non un modèle : c'est la couche par laquelle un environnement d'apprentissage atteint l'apprenant. C'est donc un axe différent de la [[simulation]], qui est ce qui est modélisé en premier lieu. Les deux sont souvent confondus, parce que les environnements immersifs sont des vecteurs de diffusion courants pour les simulations, mais ils varient indépendamment — un simulateur de patient sur ordinateur de bureau est une simulation sans RV, et une superposition AR sur un instrument réel est de la RV sans simulation. Garder les axes distincts importe pour la conception : décider de rendre la pratique sans risque est une décision différente de décider de la rendre incarnée, et les deux comportent des coûts, des modes d'échec et des données probantes différents. La VR/AR est la **couche de diffusion** d'une simulation et une proche parente de l'[[game-based-learning|apprentissage par le jeu]] ; elle opérationnalise les conceptions [[embodied-learning|incarnée]] et [[situated-learning|située]] de l'apprentissage, et elle s'inscrit dans la pratique [[experiential-learning|expérientielle]] et [[active-learning|active]].
 
 L'IA façonne désormais cette modalité par les deux bouts. Elle **produit** le contenu immersif, parce que l'[[generative-ai|IA générative]] convertit une invite structurée en langage naturel en un artefact AR ou VR exécutable, faisant s'effondrer la compétence de programmation spécialisée qui fermait autrefois l'accès à la production. Et elle **habite** l'environnement, puisque des [[agentic-ai|agents]], des [[pedagogical-agent|agents pédagogiques]] et des [[rag|connaissances de domaine récupérées]] fournissent du guidage à l'intérieur — mains libres, en temps réel, ancrés dans des sources que l'apprenant ne peut consulter en portant un casque.
+
+[[shao-ai-vr-flipped-classroom-efl-2026|Shao, Tang et Ju (2026)]] testent une classe inversée enrichie par l'IA et la RV auprès de jeunes apprenants d'anglais langue étrangère et rapportent des gains en réussite en anglais, en autorégulation métacognitive et en motivation, la littératie technologique modérant ce que les apprenants tiraient de la composante immersive.
 
 ## Ce que la modalité ajoute
 
@@ -72,6 +78,12 @@ Le résultat négatif le plus clair de la base de connaissances vient d'un dépl
 Lorsque la pratique immersive sert une compétence interpersonnelle et procédurale, le facteur limitant n'est pas la fidélité visuelle mais l'authenticité ressentie. Une revue [[mixed-methods-research|à méthodes mixtes]] de la simulation en soins infirmiers pilotée par IA (19 études, N = 1 253) a montré l'IA efficace pour les connaissances cognitives et les résultats affectifs, mais inconstante pour les compétences psychomotrices complexes, et en a nommé la raison : un **écart d'authenticité** couvrant la résonance émotionnelle, la reconnaissance des signaux non verbaux, et les dimensions tactiles et physiques de l'[[summative-assessment|examen]]. Sa recommandation pratique est un **continuum de simulation par paliers** — l'IA convient bien aux objectifs hautement structurés tels que la communication fondamentale et le recueil d'antécédents, tandis que les scénarios psychomoteurs avancés et émotionnellement complexes relèvent de patients standardisés humains et de stages cliniques. L'instabilité technique aggrave le problème : les retards de reconnaissance vocale injectent une [[cognitive-offloading|charge cognitive]] extrinsèque et de l'anxiété, ce qui fait de la stabilité et de la latence des leviers de conception plutôt que des détails d'implémentation.
 
 La même logique explique pourquoi la présence n'est pas automatiquement bonne. Le mal des transports, l'incohérence de l'interface, le coût du matériel, et l'inégalité d'accès aux appareils décident qui peut utiliser un environnement immersif, ce qui explique pourquoi les questions d'[[equity-in-ai-education|équité]] propres à la modalité se relient à l'[[accessibility|accessibilité]] et à l'[[inclusive-learning|apprentissage inclusif]] au lieu d'en être séparées.
+
+## Idées fausses courantes
+
+- **« Ressentir le phénomène, c'est le comprendre. »** Un pilote a constaté que les étudiants déclaraient **ressentir** la longueur d'onde et l'amplitude par un geste de la main plus fortement que par un curseur — mais **il mesurait la perception, non la réussite**. Le ressenti est l'affordance, et savoir s'il a produit de la compréhension est un test distinct.
+- **« De bons scores d'utilisabilité valident un outil de RV éducatif. »** Dans une **séance d'une heure avec 10 étudiants** sur un Meta Quest 3, l'étude rapportait **une bonne utilisabilité à l'échelle d'utilisabilité système et un malaise de simulation minimal**. L'utilisabilité et le confort sont des prérequis et ni l'un ni l'autre n'est une mesure d'apprentissage.
+- **« L'accord des étudiants est une preuve de l'affordance. »** Avec **29 étudiants de deuxième année en imagerie médicale**, les 29 **ont convenu que le geste les aidait à « ressentir » ce qu'est la longueur d'onde (moyenne 4,52)**. L'unanimité sur un ressenti est une auto-déclaration sur l'expérience, et la thèse de l'affordance exige une issue qui ne dépende pas du jugement de l'étudiant sur sa propre compréhension.
 
 ## Concepts liés
 

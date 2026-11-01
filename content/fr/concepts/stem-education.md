@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement des STIM"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:37:28-04:00"
+updated: "2026-11-01T10:13:45-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -9,14 +9,19 @@ assessment: [automated-assessment]
 discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
+connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -75,6 +80,12 @@ Un lot concentré d'études de 2026 de l'*International Journal of STEM Educatio
 - **Utilisez l'avantage de l'ajustement structuré de l'IA, mais protégez le raisonnement.** La vérifiabilité des réponses en STIM fait de ce domaine le plus accessible à l'IA ; gardez-vous de la dépendance excessive et du remplacement des réponses en intégrant l'IA à des flux de travail structurés et orientés vers la maîtrise.
 - **Intégrez la littératie en IA à travers les cours de STIM.** Des études ([[zha-ai-literacy-biology-case-study|biologie]], [[ai-tpack-preservice-math-teachers|formation des enseignants de mathématiques]]) montrent que le contexte STIM soutient l'apprentissage de l'IA — intégrez les concepts d'IA là où ils surgissent naturellement, plutôt que de les isoler.
 - **Surveillez l'[[equity-in-ai-education|équité]] et l'accès dans l'adoption de l'IA.** Les outils d'IA pour les STIM ne sont pas neutres ; surveillez les biais de notation, l'accès lié à la [[digital-divide|fracture numérique]] et une conception [[culturally-relevant-pedagogy|culturellement pertinente]] au fur et à mesure de leur déploiement.
+
+## Idées fausses courantes
+
+- **« Le tutorat intelligent fonctionne uniformément dans les STIM. »** Une revue narrative structurée de **20 publications (2020-avril 2026)** a trouvé l'avantage mesuré le plus clair pour un tutorat **diagnostique en temps réel** spécifiquement. Les preuves sont **bornées et conditionnelles**, et les généraliser à tous les STIM en mathématiques surestime ce qui a été examiné.
+- **« La simulation est un pâle substitut au travail pratique. »** Le groupe simulation **a davantage progressé que le groupe pratique sur les connaissances STIM alignées sur le programme (M = 3.00 contre 2.06 ; t(28) = 2.23, p = .034, d = 0.82)**. La simulation n'était pas une solution de repli en deçà de la réalité.
+- **« Un flux de travail de revue de littérature assisté par l'IA fait surtout gagner du temps. »** Les résultats de **20 étudiants sur 80 documents** montrent **plus de 90 % d'extraction des paramètres expérimentaux, une réduction d'environ 65 % du temps de revue de littérature, et une hausse de 50 % de la capacité des étudiants à identifier les travaux influents**. Le gain de capacité était le résultat principal et l'économie de temps le plus modeste.
 
 ## Concepts liés
 - [[learner-identity]] — des identités d'apprenant disciplinaires, professionnelles, créatives et académiques en évolution

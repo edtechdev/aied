@@ -1,19 +1,23 @@
 ---
 title: "La recherche par conception"
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-10-24T10:43:44-04:00"
+updated: "2026-11-01T10:18:09-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-09-30T07:37:28-04:00"
+source_updated: "2026-10-25T21:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,16 @@ La DBR échange le contrôle causal des [[rct|expériences]] contre l'authentici
 ## Relation aux autres méthodes
 
 La DBR est la méthode emblématique des [[learning-sciences|sciences de l'apprentissage]] — le champ interdisciplinaire qui étudie l'apprentissage et la conception des environnements d'apprentissage, et qui traite la construction d'une intervention et son étude comme une seule activité plutôt que deux. Elle est complémentaire, et non rivale, des autres méthodes de recherche (voir [[research-methods-aied]] pour l'ensemble du paysage). Là où les [[rct|expériences]] établissent la causalité et où les enquêtes [[quantitative-research|quantitatives]] établissent l'ampleur, la DBR établit la *faisabilité et le savoir de conception* — si une intervention peut être construite pour fonctionner dans une pratique authentique, et quels principes de conception la soutiennent. Elle s'associe fréquemment à l'[[usability-research|évaluation de l'utilisabilité]] (pour affiner l'interface) et aux [[qualitative-research|méthodes qualitatives]] (pour comprendre comment les apprenants vivent l'intervention). Un programme DBR abouti culmine typiquement dans un [[rct|essai d'efficacité]] ou une étude d'[[educational-measurement|mesure]] qui teste les effets causaux de l'intervention développée à grande échelle.
+
+## Idées fausses courantes
+
+**« La recherche fondée sur la conception est une méthode qualitative. »** La DBR est une tradition de *conception*, non une tradition de données : elle ne s'inscrit pas du tout dans le contraste quantitatif/qualitatif/expérimental, parce que son unité de travail est l'artefact itéré plutôt qu'un plan de mesure unique. Les études menées dans une démarche DBR peuvent être quantitatives, qualitatives ou expérimentales ; ce qui les rend DBR, c'est que la conception est révisée au fur et à mesure que le résultat se produit.
+
+**« L'affinage itératif rend la conception immunisée contre les biais de confusion dont souffrent les autres méthodes. »** L'itération échange une menace contre une autre. Affiner une conception en cours d'étude signifie que la version finale diffère de celle qui a produit les premières données probantes, si bien qu'une affirmation sur « l'intervention » couvre plusieurs interventions. Rapporter quelle révision a produit quel résultat est la responsabilité de la discipline, et elle est souvent laissée implicite.
+
+**« Parce que la DBR produit un artefact fonctionnel, elle a démontré son efficacité. »** Une conception qui fonctionne sur le site qui l'a co-produite a démontré une viabilité locale, ce qui est une affirmation différente de l'efficacité. L'artefact porte les adaptations faites pour ce contexte, et le transférer transfère des postulats qui n'ont jamais été énoncés comme tels.
+
+**« Traiter un instrument comme un artefact de conception révisable s'écarte de la DBR. »** C'est le caractère itératif de la DBR appliqué à la mesure plutôt qu'à l'intervention : une étude de ce corpus a traité la grille elle-même comme l'artefact, en cyclant par co-affinage avec un [[llm|LLM]]. Cette extension mérite d'être notée parce qu'elle fait du développement de l'instrument lui-même une partie des données probantes.
 
 ## Concepts liés
 

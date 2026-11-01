@@ -1,7 +1,7 @@
 ---
 title: Auto-évaluation
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:14:25-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,13 +12,17 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -96,6 +100,16 @@ Cela introduit aussi un risque de dénomination qu'il convient d'énoncer claire
 - **Utiliser l'auto-déclaration là où elle est honnête.** La confiance, la compétence perçue et la disposition à divulguer l'usage de l'IA sont des choses légitimes à mesurer par la question. La réussite ne l'est pas.
 - **Demander du jugement, non une opinion.** L'auto-évaluation la plus défendable à l'ère de l'IA demande à un étudiant d'apprécier une pièce de travail spécifique au regard de critères et de justifier son verdict, ce qui est entraînable, inspectable et relié à l'[[evaluative-judgment|jugement évaluatif]].
 - **Surveiller l'effet de cohorte.** Pour les étudiants dont les années formatrices ont inclus un usage substitutif de l'IA, une auto-estimation exacte peut être indisponible plutôt que simplement optimiste, ce qui déplace la tâche pédagogique de la correction de la surconfiance à la reconstruction de l'ensemble expérientiel dont elle a besoin.
+
+## Idées fausses courantes
+
+**« Une auto-déclaration mesure la compétence qu'elle nomme. »** Elle mesure une croyance sur cette compétence, et les deux se séparent nettement. Dans une étude portant sur **288 enseignants du K-12**, la [[ai-literacy|littératie en IA]] auto-déclarée ne corrélait avec une mesure objective de la même compétence qu'à hauteur de **r = 0,07 à r = 0,24** — une plage dans laquelle l'auto-déclaration n'explique presque aucune variance de la capacité. L'auto-déclaration est utilisable comme mesure de perception et non comme substitut de la compétence.
+
+**« Les étudiants peuvent juger leur propre apprentissage avec exactitude. »** L'exactitude du jugement sur soi est elle-même une compétence, et les preuves sur la calibration pointent en sens inverse : dans une comparaison expérimentale, un entraînement explicite à un étayage centré sur le raisonnement produisait une meilleure calibration de l'auto-évaluation qu'un accès non restreint, ce qui signifie que la calibration s'améliore par l'instruction plutôt que d'être disponible par défaut.
+
+**« Ajouter une boucle de rétroaction IA améliore automatiquement l'auto-évaluation. »** Une boucle de rétroaction change ce à quoi l'étudiant se compare, ce qui peut améliorer la calibration et peut aussi l'ancrer au jugement du système. L'étude comparative citée ici (**118 étudiants de première année, 56 dans un groupe IA générative et 62 dans un groupe de pairs**, trois cycles sur un semestre) est précisément conçue pour tester si c'est la boucle ou la comparaison sociale qui fait le travail — et la réponse n'est pas « la boucle, du fait d'être une boucle ».
+
+**« L'auto-évaluation est une alternative plus douce à l'examen. »** C'est une autre cible. L'auto-évaluation développe la compétence régulatrice de juger son propre travail ; un examen mesure la capacité jugée. La recherche qui substitue l'une à l'autre confond la capacité d'évaluer la performance avec la performance elle-même.
 
 ## Concepts liés
 

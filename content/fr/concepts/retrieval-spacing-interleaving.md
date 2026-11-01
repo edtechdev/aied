@@ -1,7 +1,7 @@
 ---
 title: "Récupération, espacement et entrelacement"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-10-10T03:41:06-04:00"
+updated: "2026-11-01T10:17:52-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,13 +12,17 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T22:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -89,6 +93,16 @@ L'inclusion de l'entrelacement ici repose donc sur la même famille théorique q
 - **Limites d'instrumentation et de modélisation.** Les modèles de [[knowledge-tracing|traçage des connaissances]] du corpus échouent exactement là où les décisions d'espacement en ont besoin, et les auteurs attribuent les réussites passées à un ajustement rétroactif sur l'ensemble des données plutôt qu'à une validation réaliste au regard du déploiement. La qualité des cartes mémoire du compagnon bilingue n'est pas vérifiée par rapport à une vérité de référence, sans couche automatisée de vérification des faits, et aucune étude de résultats n'y a été menée.
 - **L'entrelacement n'a essentiellement aucune preuve directe ici.** Comme énoncé ci-dessus, le corpus ne contient aucune comparaison bloqué contre entrelacé, seulement une simulation dans laquelle l'Entrelacement est une stratégie sélectionnable parmi plusieurs.
 - **Populations de sujets et contenus.** La base de preuves se concentre sur l'[[higher-ed|enseignement supérieur]], sur les matériaux STEM et statistiques, et sur des distinctions fait-compétence issues de contenus de géométrie et de régression multiple ; la généralisation aux contextes du [[k-12|primaire et du secondaire]], aux [[humanities-education|humanités]] et à l'écriture, et aux classes non occidentales n'est pas établie par ces études.
+
+## Idées fausses courantes
+
+**« Un meilleur questionnement par l'IA produit une meilleure rétention. »** Il produit un meilleur travail. [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] a constaté qu'un questionnement plus profond du LLM améliorait la qualité de la tâche notée indépendamment (**β = 6.27, p = .006**) tout en ayant une **association nulle avec le rappel au post-test immédiat (β = −0.014, p = .728)**, les gains de rappel étant portés par les connaissances de départ. La qualité de l'artefact et la durabilité du souvenir sont deux résultats différents, et un meilleur dialogue déplace le premier sans déplacer le second.
+
+**« Il existe un meilleur format de pratique. »** Le format dépend de ce qui est appris. Une interaction contenu–traitement (**β = 0.41, p = .038, d = 0.38**) montre que **la pratique pure par test produisait des gains plus élevés pour les faits**, tandis que **la pratique intégrant des exemples produisait des gains plus élevés pour les compétences**. Prescrire la pratique de récupération pour tout, ou des exemples travaillés pour tout, se trompe sur la moitié du matériel.
+
+**« La pratique de récupération, c'est interroger, et n'importe quelle interrogation compte. »** Le mécanisme consiste à produire une réponse à partir de la mémoire plutôt qu'à en reconnaître une, ce qui explique pourquoi une tâche de reconnaissance à choix multiple est une version plus faible de la même activité. Une IA qui génère sans fin des items de reconnaissance a généré une activité du bon nom et du mauvais mécanisme.
+
+**« L'IA peut fidèlement mettre en œuvre ces techniques, puisqu'elles sont bien spécifiées. »** Elle peut aussi les défaire en silence. L'espacement exige que le système retienne le matériel qu'il est le plus capable de fournir à la demande, et la récupération exige qu'il ne réponde pas — si bien que l'efficacité de la technique dépend de contraintes qu'un assistant complaisant n'a aucun intérêt à imposer.
 
 ## Concepts liés
 

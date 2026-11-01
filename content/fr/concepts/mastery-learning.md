@@ -6,15 +6,19 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:15:44-05:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-11-01T09:06:43-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -51,11 +55,22 @@ Disposant d'un modèle continu de la maîtrise, la tâche du système devient de
 ## Pratique, rétention et limites du soutien par l'IA
 
 La maîtrise dépend aussi de la rétention durable, et pas simplement d'une performance correcte isolée. La science cognitive de la [[retrieval-spacing-interleaving|pratique de récupération]] et de la courbe de l'oubli motive une pratique espacée après l'atteinte du seuil de maîtrise. Des systèmes d'espacement des révisions fondés sur l'IA tels que Memdora génèrent des supports de pratique au moment de la lecture et proposent une taxonomie d'interactions de récupération cognitivement fondées, planifiées par des algorithmes de pointe, afin que la maîtrise acquise soit renforcée au fil du temps plutôt que perdue en quelques heures. Ces conceptions s'appuient sur la [[cognitive-psychology|psychologie cognitive]] et sur le principe des [[desirable-difficulties|difficultés souhaitables]] pour faire de l'effort de récupération lui-même une partie du processus d'apprentissage.
+**L'affirmation de rétention a désormais une mesure, et les modèles de maîtrise y échouent.** Entraînés sur la session 1 à prédire la performance une semaine plus tard, le modèle à facteurs additifs et le BKT ont surestimé la performance de la session suivante d'environ 58% et 51%, le BKT-Forgetting de 47%, et aucun n'a reproduit l'effet d'espacement observé chez 88 participants apprenant 48 paires de mots en six sessions. L'ajustement rétrospectif sur l'ensemble du jeu de données faisait paraître les mêmes modèles acceptables (AUC 0.79, 0.77 et 0.74), si bien que l'affirmation de rétention d'un système de maîtrise ne vaut que ce que vaut sa méthode de validation ([[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho, 2025]]).
 
 Enfin, les preuves mettent en garde contre l'hypothèse selon laquelle le soutien généré par l'IA serait uniformément bénéfique. Dans une étude multi-[[governance|institutionnelle]] sur des traces animées générées par l'IA destinées à des programmeurs novices, les bénéfices étaient dépendants du contexte et de court terme, et les apprenants à engagement [[student-engagement|intermédiaire]] ont connu une baisse de performance attribuée à des coûts de coordination — un effet de type inversion de l'expertise qui souligne la nécessité de personnaliser le soutien à l'état actuel de l'apprenant plutôt que d'appliquer un outil uniformément. De même, un continuum développemental de la [[ai-literacy|littératie en IA]] dans l'[[higher-ed|enseignement supérieur]] positionne la maîtrise non pas comme la simple adoption fluide des outils d'IA, mais comme une progression à travers des stades d'usage informé et critique, chacun ayant ses propres stratégies d'[[formative-assessment|évaluation formative]]. Ensemble, ces résultats cadrent l'apprentissage par la maîtrise permis par l'IA comme un système qui doit être calibré pour des apprenants individuels, espacé de manière soutenable, et évalué pour une compétence réelle plutôt que pour la fluidité de la production.
 
 La notation fondée sur les standards est la contrepartie évaluative de l'apprentissage par la maîtrise, et [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais et Galy (2026)]] l'identifient parmi cinq pratiques innovantes alignées sur l'« évaluation au service de l'apprentissage » que les éducateurs de l'enseignement supérieur pourraient adopter — mais ils la constatent pratiquement absente du discours sur l'enseignement de la gestion. Ils attribuent cela à des barrières normatives : la notation « sur une courbe » à référence normative, la signalisation externe (classements, stages, accréditation), et l'état d'esprit instrumental des étudiants résistent tous aux approches orientées vers la maîtrise et sans note. Leur recommandation est une expérimentation incrémentale — par exemple, introduire des barèmes fondés sur les standards pour une seule tâche avant de passer à l'échelle — appuyée par une coordination au niveau du programme et par des preuves documentées issues du scholarship of [[teacher-role|L'enseignement]] and learning.
 - **L'apprentissage par maîtrise à contrôle partagé n'est efficient qu'à proportion de la stratégie de sélection de tâches de l'apprenant.** Une étude par simulation (1 000 apprenants simulés par exécution, paramètres AFM et BKT ajustés sur des journaux réels de MathTutor et de DataShop) a comparé neuf stratégies de sélection de tâches. L'efficience varie d'un ordre de grandeur : la stratégie prudentielle « Minimize Worst Case Loss » — choisir la compétence dont la perte de maîtrise dans le pire des cas est la plus faible — produit un sur-entraînement de 30,28x dans la résolution d'équations (28,93x dans l'interprétation de graphiques), contre 1,73 +/- 0,38 en moyenne pour les autres stratégies. Des contraintes ciblées du système le corrigent de manière chirurgicale : des contraintes sur la sélection de tâches ramènent le sur-entraînement à 12,88/14,46x, et un biais de sélection de problèmes « Prefer Harder » le ramène à 1,98x (d de Cohen = 1,86) — tandis que les stratégies déjà efficientes ne sont pas affectées. L'implication pour la conception : les contraintes devraient être sensibles à la stratégie, protégeant les autorégulateurs pathologiques sans pénaliser les bons, et une refonte par simulation en amont évite d'exposer des étudiants à un sur-entraînement de 30x pour découvrir le correctif. ([[noh-simulating-task-selection-2026]])
+
+## Idées fausses courantes
+
+**« Un seuil de maîtrise est une propriété objective de l'apprenant. »** Le seuil est une propriété de la *règle* utilisée pour le mettre à jour. [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] a appliqué **quatre règles de mise à jour à des séquences d'événements identiques** issues du jeu de données ASSISTments, et les règles ne s'accordent pas sur qui est prêt. La maîtrise est donc une décision consignée dans un nombre, et non un fait découvert sur un étudiant, et la règle devrait être traitée comme une politique énoncée plutôt que comme un détail d'implémentation.
+
+**« Si le système dit maîtrisé, l'étudiant est prêt à avancer. »** Seulement relativement à la règle de mise à jour en vigueur. Là où une règle crédite le travail assisté, « maîtrisé » peut décrire un étudiant qui a réussi avec un soutien et non de manière autonome — la même divergence entre performance assistée et capacité non assistée que documente la littérature sur les [[learning-gains|gains d'apprentissage]].
+
+**« L'apprentissage par maîtrise est la pédagogie que l'IA rend enfin possible. »** Sa mécanique précède largement l'IA — Bloom a formalisé le cadre il y a des décennies — et l'IA l'opérationnalise en automatisant les décisions d'évaluation et de rythme, non en réalisant une conception auparavant impossible. Ce recadrage compte parce que l'automatisation hérite du choix de règle, et la règle est là où réside le jugement.
+
+**« Une évaluation plus fréquente sous la maîtrise rend le seuil plus fiable. »** La fréquence améliore l'estimation et ne corrige pas une règle mal spécifiée. Recalculer la maîtrise plus souvent à partir d'événements qui incluent du travail assisté converge plus vite vers la même mauvaise réponse.
 
 ## Concepts liés
 
@@ -76,3 +91,4 @@ La notation fondée sur les standards est la contrepartie évaluative de l'appre
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Créditer le travail assisté gonfle la maîtrise : quelle règle de preuve décide qui est déclaré maître (Srivastava 2026)
 - [[noh-simulating-task-selection-2026]] — Simulation des stratégies de sélection de tâches des apprenants et des contraintes du système dans l'apprentissage par maîtrise (Noh et al. 2026)
+- [[schuetze-knowledge-tracing-forgetting-2026]] — Le traçage des connaissances surestime la performance de la session suivante et manque l'effet d'espacement (Schuetze, Yan et Carvalho 2025)

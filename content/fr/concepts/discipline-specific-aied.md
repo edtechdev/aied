@@ -1,13 +1,13 @@
 ---
 title: "L'IA en éducation dans les disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-11-01T10:12:06-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T14:10:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -15,6 +15,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -85,7 +90,7 @@ Chaque discipline apporte des traditions [[pedagogy|pédagogiques]] distinctes q
 
 ## Disciplines représentées dans la base de connaissances
 
-La couverture propre aux disciplines est la plus forte dans les **[[stem-education|STIM]]** au sens large — particulièrement en **[[math-education|mathématiques]]**, en **[[physics-education|physique]]**, en **[[chemistry-education|chimie]]**, en **[[biology-education|biologie]]** et en **[[cs-education|informatique]]** — suivies par l'**[[writing-education|écriture]]**, l'**[[language-learning|apprentissage des langues]]** (avec un fil distinct d'**[[english-education|enseignement de l'anglais]]** pour l'EAP/EFL/ESL), et plus récemment l'**[[engineering-education|ingénierie]]**, la **[[teacher-education|formation des enseignants]]** (avec un corpus substantiel de recherche sur la formation à l'IA en service et en formation initiale), la **[[medical-education|médecine]]** et les **[[humanities-education|sciences humaines]]**. L'ingénierie et le design ont aussi un corpus d'articles croissant. Cette concentration suit la littérature plus large : la revue de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] a montré que les STIM constituaient la forme interdisciplinaire la plus courante dans l'enseignement supérieur soutenu par l'IA (n = 26), loin devant les domaines non-STIM (n = 10) et le STEAM (n = 2) — une mise en garde au niveau de la discipline selon laquelle les données probantes sur l'IA en éducation s'accumulent le plus vite là où l'outillage informatique est le plus facile à intégrer, et pas nécessairement là où la valeur pédagogique de l'IA est la plus grande. Les ajouts les plus récents élargissent le fil au-delà des matières académiques, vers la formation professionnelle et appliquée — les [[nursing-education|soins infirmiers]], les [[information-technology|technologies de l'information]] et l'[[vocational-education|enseignement et la formation professionnels]] — où les apprenants sont évalués sur une pratique démontrée plutôt que sur l'exactitude, et où c'est l'employeur et l'organisme de délivrance des licences, et pas seulement l'académie, qui définissent ce qui compte comme compétence.
+La couverture propre aux disciplines est la plus forte dans les **[[stem-education|STIM]]** au sens large — particulièrement en **[[math-education|mathématiques]]**, en **[[physics-education|physique]]**, en **[[chemistry-education|chimie]]**, en **[[biology-education|biologie]]** et en **[[cs-education|informatique]]** — suivies par les **[[statistics-and-data-science-education|statistiques et la science des données]]** — un fil distinct des mathématiques, car sa pédagogie signature est l'enquête sur les données plutôt que le raisonnement vers une réponse déterminée ; un exemple du problème de conception propre à ce fil : [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] recourt à un pipeline agentique pour générer des jeux de données synthétiques adaptés au contexte, ce qui répond à la matière dont un cours de statistiques a besoin plutôt qu'à son explication — et, de l'aveu même des auteurs, ne peut enseigner la collecte des données, la mesure ou la conception d'étude — puis par l'**[[writing-education|écriture]]**, l'**[[language-learning|apprentissage des langues]]** (avec un fil distinct d'**[[english-education|enseignement de l'anglais]]** pour l'EAP/EFL/ESL), et plus récemment l'**[[engineering-education|ingénierie]]**, la **[[teacher-education|formation des enseignants]]** (avec un corpus substantiel de recherche sur la formation à l'IA en service et en formation initiale), la **[[medical-education|médecine]]** et les **[[humanities-education|sciences humaines]]**. L'ingénierie et le design ont aussi un corpus d'articles croissant. Cette concentration suit la littérature plus large : la revue de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] a montré que les STIM constituaient la forme interdisciplinaire la plus courante dans l'enseignement supérieur soutenu par l'IA (n = 26), loin devant les domaines non-STIM (n = 10) et le STEAM (n = 2) — une mise en garde au niveau de la discipline selon laquelle les données probantes sur l'IA en éducation s'accumulent le plus vite là où l'outillage informatique est le plus facile à intégrer, et pas nécessairement là où la valeur pédagogique de l'IA est la plus grande. Les ajouts les plus récents élargissent le fil au-delà des matières académiques, vers la formation professionnelle et appliquée — les [[nursing-education|soins infirmiers]], les [[information-technology|technologies de l'information]] et l'[[vocational-education|enseignement et la formation professionnels]] — où les apprenants sont évalués sur une pratique démontrée plutôt que sur l'exactitude, et où c'est l'employeur et l'organisme de délivrance des licences, et pas seulement l'académie, qui définissent ce qui compte comme compétence.
 
 Le fil professionnel est le plus mince dans ces données probantes : une revue systématique de 26 études en enseignement et formation professionnels n'a trouvé aucune étude menée en milieu de travail, malgré le caractère travail-centré de l'EFP, que cinq expériences randomisées, et que trois dispositifs conférant aux apprenants un rôle actif ([[ai-vocational-education-training-review|Deutscher et al. (2026)]]).
 
@@ -99,6 +104,12 @@ Plusieurs disciplines restent peu couvertes dans la base de connaissances et son
 - **Les arts (arts visuels, design, musique)** — couverture émergente : [[ai-interior-design-malaysia-2026|l'IA dans l'enseignement du design d'intérieur]], [[genai-architectural-design-studios|l'IA générative dans les ateliers de conception architecturale]], [[ai-vocal-pedagogy-2026|la pédagogie vocale par l'IA]], [[musical-education-ai-digital-transformation-2026|l'IA dans l'enseignement de la musique]], [[t2i-competence-paradox-2026|le paradoxe de la compétence en texte-vers-image]]. Les études du côté du design dans cette liste ont désormais leur propre page : l'[[design-education|enseignement du design]] rassemble les travaux d'atelier en architecture, en design d'intérieur et en texte-vers-image dans une page consacrée à la formation professionnelle du design, laissant les arts visuels, la musique et le spectacle comme le reste peu couvert.
 
 Ces disciplines sous-représentées gagneraient à disposer de pages de concepts dédiées et d'une ingestion d'articles supplémentaire à mesure que la base de connaissances croît.
+
+## Idées fausses courantes
+
+- **« La discipline compte surtout pour les exemples de contenu. »** Une recherche portant sur **560 étudiants** a trouvé que l'appartenance disciplinaire **prédit la fréquence et la franchise avec lesquelles les étudiants utilisent** l'[[generative-ai|IA générative]]. La discipline façonne si l'outil est utilisé du tout et si cet usage est divulgué, et pas seulement ce qu'on lui demande.
+- **« L'interdisciplinarité est un objectif institutionnel générique. »** La **forme de l'« interdisciplinaire » est elle-même déterminée par la discipline** : la [[meta-analysis-systematic-review|revue]] de [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al. (2026)]] constate que la forme qu'elle prend varie selon le champ. Une définition institutionnelle unique se méprend sur au moins une partie des disciplines qu'elle couvre.
+- **« L'enseignement professionnel dispose d'une base de recherche comparable à celle des disciplines académiques. »** Le fil professionnel est **le plus mince de ces données probantes** : une revue systématique de **26 études** en enseignement et formation professionnels n'en a trouvé **aucune menée en milieu de travail** — les milieux où la compétence s'exerce réellement. L'absence dans la littérature est une lacune, pas un résultat nul.
 
 ## Concepts liés
 

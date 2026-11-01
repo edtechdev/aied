@@ -1,7 +1,7 @@
 ---
 title: "L'expérience étudiante"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:38:23-04:00"
+updated: "2026-11-01T10:10:12-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-10-01T20:35:10-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -56,6 +60,7 @@ L'IA affecte les étudiants selon les dimensions cognitive, motivationnelle, [[a
 ### Impacts motivationnels
 
 - **Positif :** l'IA peut accroître la [[motivation|motivation]] et l'[[student-engagement|engagement]] en fournissant un soutien personnalisé, immédiat et à faible enjeu — aidant les étudiants à persévérer et à se sentir compétents (voir les perspectives de la [[self-determination-theory|théorie de l'autodétermination]] sur l'autonomie, la compétence et le lien avec autrui).
+- **L'effet motivationnel passe par la motivation, non par l'accès.** Chez 297 étudiants, le soutien à l'autonomie et la motivation autonome pour l'usage de l'IA n'avaient aucun effet direct sur l'engagement (β = 0.070 chacun), tandis que la motivation des étudiants prédisait l'engagement à β = 0.74 ([[genai-motivation-engagement-2026|Ahmed et Sultan (2026)]]).
 - **Négatif :** le simple fait de savoir que l'IA est disponible peut réduire l'effort des étudiants et leur motivation à lutter de manière productive ([[ai-availability-student-motivation|la disponibilité de l'IA et la motivation]], [[wang-safety-gap-productive-struggle-2026|l'écart de sécurité]]). La dépendance excessive peut éroder l'[[agency|agentivité]] et le sentiment d'accomplissement qui naît du travail fait soi-même.
 
 ### Impacts affectifs et sur le bien-être
@@ -71,6 +76,7 @@ L'IA affecte les étudiants selon les dimensions cognitive, motivationnelle, [[a
 ### Impacts sur l'intégrité académique et l'équité
 
 - **Négatif :** l'IA rend possibles de nouvelles formes de [[academic-integrity|malhonnêteté académique]] (dissertations générées par l'IA, travaux réalisés sans autorisation), alimentant les débats sur la [[reduce-ai-cheating|détection et la réduction]] de ces pratiques. Cela interagit avec l'[[equity-in-ai-education|équité]] : un accès inégal aux outils d'IA et une compréhension inégale de ceux-ci peuvent creuser les écarts entre étudiants.
+- **Le fait qu'un usage compte comme de la triche dépend de la discipline.** Une revue systématique de 89 études a constaté que les étudiants en [[stem-education|STIM]] affichaient un accord net de +42% sur le fait que l'IA améliore la performance, tandis que les étudiants en [[humanities-education|sciences humaines]] présentaient l'accord net le plus élevé sur le fait que l'usage de l'IA constitue de la triche (+44%) et soulève des préoccupations éthiques (+58%) ([[ai-tools-academic-work-cheating-2026|Padhy (2026)]]). Le problème d'intégrité d'un cours est donc en partie un jugement disciplinaire plutôt qu'une norme fixe, ce qui explique que les règles rencontrées par les étudiants varient autant selon le département que selon la politique.
 - **Positif/constructif :** l'IA peut soutenir une évaluation [[authentic-assessment|authentique]], [[process-oriented-assessment|axée sur le processus]] et une pratique réflexive (par exemple l'[[pedlow-genai-selfassessment-2026|auto-évaluation guidée]]), transformant les préoccupations d'intégrité en occasions de développer la [[ai-literacy|littératie en IA]] et le sens des responsabilités.
 
 Les récits des étudiants sur l'intégrité sont moins arrêtés que ne le suggère le cadre de la malhonnêteté. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa et Mezgebu (2026)]] ont interrogé 27 étudiants de premier cycle dans une université éthiopienne et ont trouvé un corps étudiant divisé contre lui-même : presque tous utilisaient l'IA générative ou avaient vu des pairs l'utiliser et la plupart lui attribuaient l'amélioration de leurs résultats, une minorité qualifiait carrément son usage dans les travaux de faute, et la plainte la plus vive et la plus largement partagée portait sur l'équité — les utilisateurs d'IA obtenant de meilleurs scores que les étudiants qui travaillaient honnêtement, ce que certains décrivaient comme anéantissant leur sens de la diligence et laissait un participant dans l'incertitude « quant à savoir si nous tirons profit ou souffrons de l'usage de l'IA ». La procédure compte aussi : [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] ont codé 1,162 cas de manquement lié à l'IA générative et ont constaté que les preuves les plus souvent citées — les résultats des détecteurs, les rapports de similarité, les configurations de contenu typiques de l'IA — avaient la valeur probante la plus faible, et que, en l'absence de seuil minimal de preuve dans le circuit, les étudiants aux dossiers minces étaient poussés vers les recours. Des définitions trop inclusives élargissent cette exposition : [[wright-transcription-not-generation-2026|Wright (2026)]] montre que des interdictions visant l'« IA [[generative-ai|générative]] » peuvent attraper des outils qui ne font que convertir le format d'un travail déjà rédigé par l'étudiant, une sur-inclusion qui pèse le plus lourdement sur les étudiants handicapés et exposés aux questions d'[[equity-in-ai-education|équité]]. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] indique la voie constructive, traitant l'intégrité comme une pratique [[pedagogy|pédagogique]] mise en œuvre par le [[evaluative-judgment|jugement évaluatif]] — traces de décision annotées, vérification, défense orale, historique des versions — plutôt que comme une conformité obtenue par la surveillance.
@@ -79,7 +85,7 @@ La vérification peut changer la manière dont les étudiants vivent la question
 
 ### Impacts sociaux et relationnels
 
-- **Positif :** l'IA peut servir de médiation à la [[collaborative-learning|collaboration]] et à l'[[student-ai-interaction|interaction humain-IA]], en soutenant le travail d'équipe, l'interaction entre pairs et l'accès à des perspectives diverses.
+- **Positif :** l'IA peut servir de médiation à la [[collaborative-learning|collaboration]] et à l'[[human-ai-collaboration|interaction humain-IA]], en soutenant le travail d'équipe, l'interaction entre pairs et l'accès à des perspectives diverses.
 - **Négatif :** l'IA peut réduire les interactions authentiques entre pairs et avec l'enseignant, créer des dynamiques [[ai-sycophancy|sycophantiques]] et — lorsqu'elle opère comme coéquipier non divulgué — remodeler le discours de groupe et l'[[agency|agentivité]] de manière que les apprenants ne peuvent ni voir ni contester (voir [[jin-emergent-learner-agency-implicit-hai-2026|l'agentivité émergente de l'apprenant dans l'IAH implicite]]).
 
 ### Impacts à long terme / sur les capacités
@@ -94,6 +100,33 @@ Les résultats les plus longs qu'un étudiant expérimente — qu'il revienne ou
 ## Connexions
 
 L'expérience étudiante est en lien avec la [[cognitive-offloading|délégation cognitive]] (dépendance excessive à l'IA), la [[ai-literacy|littératie en IA]] (compétences pour un usage efficace), la [[cognitive-offloading|délégation cognitive]] (la manière dont l'IA change le travail cognitif) et l'[[student-engagement|engagement]] (la manière dont les systèmes d'IA mesurent et répondent au comportement des étudiants). Elle est le membre du côté apprenant du parapluie [[stakeholders|des acteurs]], et le lieu de synthèse de toutes les manières dont l'IA affecte les étudiants.
+
+## Idées fausses courantes
+
+**« Les étudiants qui évitent l'IA sont à la traîne. »** Le non-usage est souvent une position raisonnée plutôt qu'un manque : une enquête interinstitutionnelle britannique auprès de **7,087 étudiants** a révélé que **32% n'utilisaient pas du tout l'IA générative pour étudier**, les non-utilisateurs invoquant la volonté de faire le travail eux-mêmes. Traiter cela comme un déficit d'adoption inverse le résultat et pousse les étudiants hors d'un choix défendable.
+
+**« Les déclarations des étudiants constituent une mesure raisonnable de l'apprentissage. »** Ce sont des [[self-report-measures|mesures auto-déclarées]] : elles saisissent bien les perceptions et les intentions, et le comportement seulement de manière approximative. L'écart performance–apprentissage de cette littérature — des étudiants réussissant mieux avec l'IA et moins bien sur des tâches ultérieures non assistées — est précisément le cas où l'auto-déclaration et le résultat divergent, si bien qu'un corps étudiant satisfait n'est pas la preuve d'un corps étudiant qui apprend.
+
+**« Si les étudiants ont le sentiment que l'IA les aide, elle les aide. »** Se sentir aidé est une donnée réelle sur l'expérience et une inférence peu fiable sur le résultat. L'écart est documenté et les étudiants du groupe lésé ne le perçoivent pas de manière fiable, de sorte que la perception et le résultat doivent être recueillis comme des mesures distinctes plutôt que l'une se substituant à l'autre.
+
+**« L'expérience étudiante est une préoccupation molle au regard des résultats. »** C'est un indicateur avancé de l'adoption et de la divulgation : les étudiants qui sentent que leur usage est jugé le dissimuleront, et l'usage dissimulé est la condition dans laquelle le [[reducing-ai-misuse|mésusage]] et les préjudices sont le moins visibles pour l'institution.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Ne traitez pas le non-usage comme un manque à combler. Environ un tiers des étudiants choisissent de faire le travail eux-mêmes, et la pression à l'adoption convertit une position raisonnée en problème de conformité.
+- Recueillez séparément la perception et le résultat. Les enquêtes de satisfaction décrivent l'expérience et ne peuvent pas se substituer à la performance non assistée.
+- Rendez la divulgation sûre, car les étudiants qui attendent un jugement dissimulent leur usage, et l'usage dissimulé est l'endroit où se cache la divergence entre performance assistée et non assistée.
+
+**Pour les concepteurs**
+
+- Rapportez les résultats d'apprentissage aux côtés des métriques d'expérience dans tout ce que vous publiez aux étudiants, car les résultats ressentis et mesurés divergent régulièrement.
+- Permettez de refuser l'assistant sans perdre l'accès au cours.
+
+**Pour les chercheurs**
+
+- Rapportez explicitement la taille et les raisons du groupe des non-utilisateurs ; 32% d'un échantillon de 7,087 étudiants est une population, pas un résidu.
 
 ## Concepts liés
 
@@ -157,6 +190,7 @@ L'expérience étudiante est en lien avec la [[cognitive-offloading|délégation
 - [[dollinger-equitable-assessment-ai-2026]] — Une évaluation équitable à l'ère de l'IA
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Usage, éthique et politique de l'IAG dans la formation des enseignants, étude longitudinale (Parker et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — L'expérience étudiante de l'utilité de l'IA générative dans l'enseignement supérieur australien (Chung et al. 2026)
+- [[genai-motivation-engagement-2026]] — 297 étudiants : la motivation prédisait l'engagement ; le soutien à l'autonomie pour l'usage de l'IA n'avait aucun effet direct (Ahmed et Sultan 2026)
 - [[genai-decision-capability-cognitive-load-2026]] — L'IA générative et la capacité de décision perçue des étudiants (explication par la charge cognitive)
 - [[genai-professionalization-metaphors-2026]] — Les conceptualisations de l'IA générative et la professionnalisation des étudiants
 - [[sidorkin-ai-generated-course-readings-2026]] — Les étudiants comme auditeurs de leur propre programme généré par l'IA (Sidorkin 2026)

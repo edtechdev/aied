@@ -1,7 +1,7 @@
 ---
 title: La motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,13 +10,17 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,7 @@ Une méta-analyse de 42 études (56 tailles d'effet, 6 059 étudiants) a montré
 - **L'usage non réflexif érode la motivation — davantage chez les hommes.** L'usage irréfléchi de l'IA générative (accepter les réponses sans examen) prédisait une motivation plus faible (β = −0,54) et une [[self-efficacy|auto-efficacité]] plus faible (β = −0,37) chez 487 étudiants de premier cycle, et l'effet sur la motivation était significativement plus fort chez les étudiants de sexe masculin tandis que l'effet sur l'auto-efficacité était plus fort chez les étudiantes ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 
 - **Réduire la frustration n'équivaut pas à soutenir la motivation.** Un [[rct|essai contrôlé randomisé]] à trois bras a montré qu'un tuteur étayé et ChatGPT sans restriction réduisaient la frustration à égalité (3,21 et 3,13 contre 4,09), mais seul le tuteur étayé élevait la motivation intrinsèque (2,82 contre 2,42, p < .001) ; ChatGPT ne le faisait pas (2,64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+- **Une qualité de rétroaction égale ne signifie pas un effet motivationnel égal.** Un ECR à trois bras avec 312 scripteurs de première année a constaté que la rétroaction générée par IA et celle de l'enseignant amélioraient les essais révisés du même écart : d = 0.60 et 0.59, équivalents à l'intérieur d'une bande préspécifiée de ±0.35 ET. La rétroaction de l'enseignant a néanmoins davantage élevé la motivation intrinsèque que la rétroaction par IA (5.16 contre 4.90, d = 0.31), et le lien perçu à la source médiatisait cet écart (effet indirect 0.25, IC à 95% [0.12, 0.40]) sans qu'il reste presque d'effet direct ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu et coll. (2026)]]). La performance passait par l'engagement dans la rétroaction plutôt que par l'auto-efficacité, dont le chemin indirect n'était pas significatif. Là où l'essai de Bassner séparait l'autonomie de la fourniture de réponses, celui-ci tient constante la qualité des productions et situe la différence motivationnelle dans la personne à qui l'apprenant répond.
 
 La raison pour laquelle un lecteur recourt à l'IA est elle-même une variable mesurable : l'échelle AIR identifie quatre mobiles de lecture assistée par IA générative — orientée vers la tâche, Feel-good, traduction et faible effort — et seul le faible effort, utiliser l'IA lorsqu'on est fatigué ou désengagé, était négativement lié au besoin de cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar et Sidi (2026)]]).
 
@@ -64,7 +69,6 @@ La motivation façonne la manière dont les élèves cadrent l'outil, et le cadr
 **Les gains de motivation sont spécifiques à des construits, et non généraux.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ont constaté qu'un programme d'[[writing-education|écriture]] de neuf semaines soutenu par l'IA générative, destiné à 301 apprenants de 5e et 6e année, a élevé leur soi idéal d'écriture en L2 et leur résilience académique — les composantes aspirationnelle et résiliente de la motivation — tout en laissant l'état d'esprit de croissance inchangé ; le seul gain d'état d'esprit de croissance est apparu dans le groupe témoin et n'a pas survécu à la correction pour comparaisons multiples. Les élèves ont attribué ce changement au fait de voir un texte fluide construit à partir d'un vocabulaire qu'ils connaissaient déjà, ce qui rendait l'écriture réussie accessible à leurs yeux. La motivation n'est donc pas un simple cadran que l'IA monte : ce qui s'est amélioré, c'est la croyance que l'on *peut* bien écrire, et non la croyance que la capacité croît avec l'effort. La même spécificité aux construits apparaît lorsque l'IA générative est elle-même l'intervention de pertinence. [[genai-math-relevance-intervention-2026|Guo, Fryer et Shum (2026)]] ont fait passer **218 élèves de lycée** une heure en dialogue semi-structuré avec un [[conversational-ai|agent conversationnel]] visant la pertinence personnelle pour les [[math-education|mathématiques]] ; la version collective, au niveau de la classe, a élevé la pertinence en tant qu'identification (F = 4,35, p = .014, η² = 0,04 ; face au témoin, F = 11,11, p = .001, η² = 0,073 — un effet moyen) et, dans le modèle d'équations structurelles, a prédit la pertinence d'une leçon spécifique une semaine plus tard (β = 0,18, p < .01), tandis que l'intérêt pour le cours de mathématiques n'a pas bougé (F = 0,29, p = .75, η² = 0,003). Les auteurs attribuent ce découplage à la dose : une unique séance d'une heure est trop brève pour que les gains de pertinence se consolident en intérêt pour le cours.
 
 Une intervention de valeur d'utilité n'est pas uniformément bénéfique : une version étayée n'a produit aucun gain global dans l'intégration de connaissances des futurs enseignants et l'a *nui* aux apprenants entrés avec une valeur d'utilité perçue élevée, une interaction aptitude–traitement plaidant pour l'adaptation du soutien motivationnel aux points de départ des apprenants ([[utility-value-intervention-teach-responsibly-genai-2026|Boos, Eder & Lachner (2026)]]).
-
 **Un message de rétroaction fait évoluer l'intérêt par son utilité perçue, et non par les dispositions de l'apprenant.** [[jansen-argumentative-writing-feedback-receptivity-2026|Jansen et al. (2026)]] ont donné à 1 507 élèves du secondaire un message de rétroaction automatisée standardisé après un premier jet de texte argumentatif : la réceptivité globale était la seule dimension de réceptivité liée au changement d'intérêt situationnel (environ 0,11 point sur l'échelle observée, à peu près le 54e percentile contre le 46e), et cet effet était pleinement médié par l'utilité perçue (β indirect = 0,09, IC à 95 % [0,06, 0,13]) sans effet direct significatif résiduel (β = 0,06, IC à 95 % [−0,07, 0,16]) : ce qui a déplacé l'intérêt est donc la valeur ressentie du message plutôt que la posture générale de l'apprenant envers la rétroaction.
 
 **La motivation et la persistance des enseignants** examinent la motivation parmi les éducateurs. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** étudie la persistance des enseignants avec les outils d'IA, et **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** ont constaté qu'un [[educational-development|développement professionnel]] soutenant les besoins favorise l'engagement comportemental soutenu dans les communautés d'apprentissage professionnel.
@@ -79,9 +83,17 @@ Une intervention de valeur d'utilité n'est pas uniformément bénéfique : une 
 
 La motivation opère aussi en amont de la perception de la technologie, et pas seulement à côté d'elle. Dans un échantillon de 340 étudiants de physique, la valeur d'utilité prédisait l'utilité perçue (β = 0,43) et la valeur intrinsèque prédisait l'attitude (β = 0,20), tandis que le coût perçu abaissait la facilité d'usage (β = −0,16) et l'attitude (β = −0,27), sans voie directe vers l'intention ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
 
+**La régulation motivationnelle est le construit le plus mince de cette littérature.** Sur 39 études, [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna et Jiang (2026)]] ont trouvé la motivation autonome mesurée dans 2 études, la régulation identifiée et la motivation contrôlée dans 1 chacune, contre 17 études mesurant les besoins psychologiques fondamentaux et 10 mesurant l'engagement. Les auteurs font de cet écart le problème central de leur revue, car la régulation demande *pourquoi* un étudiant est motivé tandis que la satisfaction des besoins demande seulement si le cadre l'a soutenu.
+
 ## Connexions avec les concepts liés
 
 La motivation est le construit parent de l'[[self-determination-theory|autodétermination]], qui spécifie les besoins psychologiques (autonomie, compétence, liens sociaux) qui soutiennent la motivation intrinsèque. Elle se relie à l'[[student-experience|expérience étudiante]] comme couche expérientielle de l'engagement motivé, à l'[[student-engagement|engagement des élèves]] comme sa dimension mesurable, et à l'[[affective-computing|informatique affective]] pour les mécanismes émotionnels qui façonnent la motivation. La motivation se relie aussi à la [[cognitive-offloading|sur-dépendance]] (l'IA réduisant les [[desirable-difficulties|difficultés productives]]), à l'[[self-regulated-learning|apprentissage autorégulé]] (les apprenants motivés s'autorégulent) et au [[teacher-role|rôle de l'enseignant]] (la motivation vaut pour les éducateurs comme pour les élèves).
+
+## Idées fausses courantes
+
+- **« L'effet motivationnel de l'IAG est un gain net et important. »** Une méta-analyse de 42 études (56 tailles d'effet, 6.059 étudiants) a trouvé un effet motivationnel de g = 0.764 (IC à 95% [0.566, 0.962]) **mais avec I² = 93.7%**. Une hétérogénéité aussi forte signifie que le chiffre regroupé décrit un ensemble d'études qui ne s'accordent pas entre elles : c'est une moyenne sur des traitements incohérents plutôt qu'un effet reproductible.
+- **« Réduire la frustration revient à soutenir la motivation. »** Un [[rct|ECR]] à trois bras a constaté qu'un tuteur étayé et ChatGPT sans restriction **réduisaient également la frustration** (3.21 et 3.13). Deux conceptions très différentes produisaient le même résultat affectif : les données de frustration ne peuvent donc pas les distinguer.
+- **« Une conception motivante est une bonne conception. »** Chez **222 élèves de première année du secondaire**, un format de dialogue d'enseignant à enseignant a **davantage élevé la motivation ARCS** que l'alternative **sans améliorer l'évaluation globale**. La motivation a bougé, la qualité jugée non.
 
 ## Concepts liés
 
@@ -132,3 +144,5 @@ La motivation est le construit parent de l'[[self-determination-theory|autodéte
 - [[ai-student-motivation-scoping-review-2026]] — 156 études sur l'IA et la motivation des élèves : 85,3 % n'ont utilisé aucune théorie motivationnelle, et la couverture est étroite en construit, en niveau et en pays
 - [[gai-advocacy-practice-art-education-2026]] — Les écarts entre politique et pratique dans la promotion de l'IA générative agissent comme un stresseur que les étudiants évaluent
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Un tuteur étayé a élevé la motivation intrinsèque là où ChatGPT sans restriction ne le faisait pas
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Rétroaction par IA et par l'enseignant de qualité appariée, avec un écart motivationnel passant par le lien à la source (Liu et coll. 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] — Revue guidée par la TAD de 39 études : besoins et engagement souvent mesurés, régulation motivationnelle presque jamais

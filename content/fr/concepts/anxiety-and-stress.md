@@ -1,7 +1,7 @@
 ---
 title: "Anxiété et stress"
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-10-24T10:44:10-04:00"
+updated: "2026-11-01T10:21:06-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-10-24T06:36:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -126,6 +130,12 @@ Le [[well-being|bien-être]] est l'état positif large (santé émotionnelle, ps
 - **Exploiter l'anxiété productive.** Plutôt que de seulement réduire l'anxiété face à l'IA, soutenir la vérification, la révision et l'auto-[[regulation|régulation]] que les étudiants anxieux mais engagés manifestent déjà.
 - **Utiliser l'IA pour détecter et soulager le stress** — par l'informatique affective, les objets connectés et les outils de bien-être sur le campus — tout en protégeant la vie privée.
 - **Prendre en compte l'anxiété des éducateurs** dans l'adoption de l'IA et l'élaboration des politiques, et pas seulement l'expérience étudiante.
+
+## Idées fausses courantes
+
+- **« L'anxiété face à l'IA est purement nuisible. »** Cette anxiété **n'est pas purement négative** : [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] constate que **l'anxiété face à l'IA peut être productive**, une anxiété plus élevée étant associée à une régulation plus stratégique. L'anxiété fonctionne comme un signal à examiner plutôt que seulement comme un fardeau.
+- **« Tous les étudiants anxieux réagissent de la même manière. »** Les **quatre types de régulation de Kim — recours non critique 18,7 %, intégration sélective 34,6 %, transformation évaluative 31,8 %, rejet stratégique 14,9 %** — montrent que l'examen critique suscité par l'anxiété produit **quatre** schémas distincts. Une intervention visant « les étudiants anxieux » manque le fait que le plus grand groupe unique intègre de façon sélective.
+- **« L'anxiété supprime toujours la participation. »** Ce recadrage a une **limite du côté de la parole** : chez **708 apprenants de l'anglais**, le lien entre anxiété de parole et volonté de parler allait de **-0,371 à faible auto-efficacité de parole à +0,137 à forte**. L'anxiété peut accompagner la volonté de parler lorsque l'auto-efficacité est élevée, si bien que le sens de l'effet dépend de la confiance.
 
 ## Concepts liés
 - [[career-development-and-readiness]] — la préparation à la carrière comme facteur de protection contre l'anxiété face à l'IA

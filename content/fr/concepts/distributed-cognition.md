@@ -1,19 +1,23 @@
 ---
 title: "Cognition distribuée"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-10-21T11:40:00-04:00"
+source_updated: "2026-11-01T09:06:43-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,7 @@ Les systèmes d'IA génératifs et interactifs redistribuent le travail cognitif
 - **La configuration de l'accès distribue la cognition au sein du groupe.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] montrent que *la manière dont* une équipe partage l'IA générative détermine la distribution de la cognition : le travail synchrone sur une interface unique et partagée soutient un modèle cognitif commun (invites collectives, mémoire externe partagée), tandis que l'usage privé asynchrone le fragmente, les productions étant sélectivement réétiquetées avant d'être partagées. L'IA générative fonctionne ainsi à la fois comme un participant cognitif distribué et comme un espace collaboratif interactif dont la perméabilité doit être conçue (le contexte partagé entre, les idées privées ne reviennent pas automatiquement).
 - **Les enseignants aussi vivent une distribution dominée par l'IA plutôt que complémentaire.** La même logique d'efficacité-régulation s'applique au versant enseignant de la conception de leçon : [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] ont constaté que les enseignants novices délèguent une large part de la charge cognitive de conception pédagogique au système d'IA (une distribution dominée par l'IA, acceptant largement les réponses), tandis que les enseignants expérimentés et compétents en IA parviennent à une distribution complémentaire dans laquelle l'expertise pédagogique et le soutien informatique de l'IA se renforcent mutuellement — et, parce que l'[[generative-ai|IA générative]] génère et co-construit l'information plutôt que de simplement la stocker, ils formulent cela comme une *cognition partagée participative*, et non comme un simple usage d'outil.
 - **Les types d'interaction, et non les résultats, comme unité.** [[cognitive-distribution-student-genai-interaction-2026|Willcox, Lane et Arikan (2026)]] ont construit le **Cognitive Distribution Framework** à partir de 53 journaux d'usage autodirigé de ChatGPT : cinq types d'interaction (extension, externalisation, alignement, transformation, découplage) et quatre rôles d'utilisateur, de sorte qu'un même étudiant peut délester dans un échange et co-penser dans le suivant.
+- **La mémoire transactive donne à la distribution un mécanisme mesuré.** Chez 891 étudiants universitaires aux États-Unis et en Türkiye, ni l'auto-évaluation de la capacité de penser ni la confiance dans le partenariat avec l'IA ne prédisaient directement la pensée critique. Les deux passaient par l'expérience accumulée de l'IAG, qui ne comptait que par la spécialisation et la coordination du travail (b = 0.636) et la transformation réflexive des productions (b = 0.367) ([[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun & Toker, 2026]]). Ces deux médiateurs prédisaient ensuite la pensée critique (b = 0.230 et 0.175) sans qu'il reste de chemin direct : ce avec quoi un système humain-IA pense, c'est l'agencement du travail, non le volume d'usage.
 
 ### La cognition distribuée et les perspectives apparentées
 
@@ -62,6 +67,12 @@ La cognition distribuée fournit à la fois une lentille de conception et une le
 Fowlin et al. (2026) opérationnalisent cette répartition comme une séquence en deux phases : construire d'abord les compétences fondamentales sans IA, puis introduire l'IA comme partenaire cognitif dont les suggestions sont évaluées de manière critique par les étudiants, afin de prévenir la perte de compétences liée à l'automatisation ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 
 **Maîtrise intériorisée contre maîtrise distribuée.** Le cadre du Cognitive Commons ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) distingue la maîtrise intériorisée (connaissance profonde du domaine dans les esprits individuels) de la maîtrise distribuée (orchestration de systèmes humain-IA) et soutient que la seconde dépend de la première par une « attache de validation » : une supervision efficace des systèmes distribués ou d'IA présuppose l'expertise intériorisée que ces systèmes peuvent saper. Cela aiguise la question de conception de la DCog — la distribution de la cognition ne doit pas se payer du prix de l'expertise qui la valide.
+
+## Idées fausses courantes
+
+- **« Un document partagé signifie une cognition partagée. »** Des profils fondés sur le volume chez **97 apprenants** différaient par les **connaissances préalables et l'auctorialité** mais **non par la sollicitation d'un rôle actif ou d'un niveau de compréhension**. Le volume de participation mesurait l'exposition, non la distribution du travail cognitif — les analyses d'usage d'un outil collaboratif disent donc peu de qui pensait.
+- **« Tout le monde se décharge également sur l'IA. »** Les enseignants novices **délèguent une large part de la charge cognitive de conception pédagogique au système d'IA** et aboutissent à une **distribution dominée par l'IA** où ils acceptent largement les réponses, tandis que les enseignants expérimentés et compétents en IA distribuent autrement. L'expertise se montre là où la charge est placée, pas seulement dans le volume d'IA utilisé.
+- **« Plus d'implication de l'IA signifie plus de soutien. »** Une distribution dominée par l'IA est précisément le schéma à surveiller, car la part humaine du travail cognitif se réduit tandis que le volume de productions augmente. Le système peut sembler plus capable au moment même où l'utilisateur en fait moins.
 
 ## Concepts liés
 
@@ -89,3 +100,4 @@ Fowlin et al. (2026) opérationnalisent cette répartition comme une séquence e
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — L'interaction enseignant-IA dans la conception de leçon : cognition distribuée dominée par l'IA ou complémentaire selon l'expérience et la compétence (Choi et al. 2026)
 - [[xu-genai-collaborative-space-2026]] — L'IA générative comme agent et comme espace collaboratif : comment la configuration de l'accès distribue la cognition de groupe (Xu et al. 2026)
 - [[cognitive-distribution-student-genai-interaction-2026]] — Le Cognitive Distribution Framework : cinq types d'interaction et quatre rôles issus de l'usage autodirigé de ChatGPT
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La mémoire transactive avec l'IAG : division du travail et transformation réflexive médiatisent la pensée critique (Akgun & Toker 2026)

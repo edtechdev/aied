@@ -1,7 +1,7 @@
 ---
 title: "La conception de programme d'études"
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-24T10:45:59-04:00"
+updated: "2026-11-01T10:16:17-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks]
 translation_of: concepts/curriculum-design
-source_updated: "2026-10-21T13:42:59-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -48,7 +52,7 @@ En examinant le changement comme systémique plutôt qu'additif, [[rewriting-cur
 
 **La cartographie et l'analyse de programme** utilisent l'IA pour comprendre les programmes existants. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** ont analysé 23 syllabi de cours de génie logiciel assistés par l'IA, en identifiant des thèmes communs — [[prompt-engineering|l'ingénierie de prompts]], la revue de code avec l'IA, les [[ethics|considérations éthiques]] — et en dérivant des recommandations de conception qui insistent sur l'équilibre entre maîtrise des outils et connaissances fondamentales. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applique des méthodes computationnelles pour comparer les structures de cours d'informatique entre institutions.
 
-La pondération change ce que rapporte une analyse de programme : [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] ont demandé à GPT-o3-mini de répartir 100 % entre sept compétences d'entreprise pour chacun de 48 travaux d'évaluation, atteignant un alpha de Krippendorff de 0,81 par rapport aux pondérations d'experts, mais l'accord devenait négatif pour les compétences que les descriptions n'énoncent jamais explicitement (-0,19).
+La pondération change ce que rapporte une analyse de programme : [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] ont chargé GPT-o3-mini de répartir 100% sur sept compétences d'entreprise pour chacun des 48 travaux évalués, atteignant un alpha de Krippendorff de 0,81 par rapport aux pondérations expertes, mais l'accord devenait négatif pour les compétences que les descriptions n'énoncent jamais explicitement (-0,19).
 
 **L'intégration de la littératie en IA** intègre les compétences en IA dans toutes les disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** fournit un cadre de littératie en IA étayé, applicable à tous les âges et à tous les stades éducatifs, traitant les [[digital-divide|fractures numériques]] de deuxième et de troisième niveau. **[[tracing-genai-literacy-interaction-patterns]]** examine comment la littératie en IA se développe à travers les patrons d'interaction. **[[hingle-collaborative-ai-literacy-2025]]** explore des approches collaboratives du développement de programme de littératie en IA, en lien avec l'[[collaborative-learning]].
 
@@ -95,6 +99,14 @@ C'est la structure, non la formulation du prompt, qui rend fiable la rédaction 
 ### Connexions aux concepts associés
 
 La conception de programme se rattache directement à l'[[learning-design]] — le programme définit le quoi, l'enseignement définit le comment. Elle se rattache à l'[[ai-literacy]] parce que l'intégration des compétences en IA est un défi curriculaire central, au [[teacher-role]] et à l'[[educational-development]] parce que le changement de programme exige la préparation des éducateurs, et au [[scaffolding]] parce que des programmes bien conçus étayent le développement des compétences sur plusieurs cours et plusieurs années. Les connexions à l'[[higher-ed]] et au [[k-12]] reflètent la pertinence de la conception de programme à tous les niveaux éducatifs.
+
+**Choisir un cadre de littératie en IA, c'est choisir un vocabulaire que personne n'a mis en correspondance.** Dans une revue de cadrage de 50 cadres pour la maternelle et le secondaire, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] ont trouvé des définitions de compétences convergeant sur les dimensions cognitive, affective, comportementale, éthique et sociale, tandis que les libellés et les construits ne s'alignaient pas. Seul le cadre ABCE approchait une tradition de mesure partagée, validée à Hong Kong, Shanghai et Taïwan, et une progression par niveaux scolaires était proposée à répétition et testée nulle part.
+
+## Idées fausses courantes
+
+- **« Un LLM peut cartographier un programme dès lors qu'il est validé à haute fiabilité. »** GPT-o3-mini a réparti **100% sur sept compétences d'entreprise pour chacun des 48 travaux évalués**, atteignant un **alpha de Krippendorff de 0,81** par rapport aux pondérations expertes — et l'**accord** s'effondrait sur certaines compétences. Une fiabilité globale élevée assortie d'un accord inégal est le schéma à vérifier avant de faire confiance à la cartographie.
+- **« Intégrer la littératie en IA signifie ajouter un cours. »** LearnAI montre la forme intégrée : une **couche de large exposition faite de courtes présentations à l'intérieur de 18 cours existants dans cinq disciplines (293 étudiants)**. L'exposition était répartie dans le programme plutôt que rassemblée en une unité.
+- **« Les étudiants arrivent déjà capables d'évaluer les médias de façon critique. »** Seuls **13,8% des étudiants interrogés en éducation et en journalisme** déclaraient que leur formation abordait l'analyse critique des médias, contre **97,8% qui la jugeaient importante**. L'écart entre valoriser une compétence et l'enseigner est l'ouverture curriculaire.
 
 ## Concepts liés
 - [[pedagogical-partnerships]] — Les partenariats pédagogiques
@@ -146,3 +158,4 @@ La conception de programme se rattache directement à l'[[learning-design]] — 
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — L'IA dans l'enseignement de la physique des particules : problèmes de recherche et compétences fondamentales
 - [[computing-assessment-genai-workshop-report-2026]] — L'IA peut faire vos devoirs. Et maintenant ? Rapport d'un atelier en ligne sur l'évaluation en informatique à l'ère de l'IA générative
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - les cadres de compétences convergent sur cinq dimensions sans vocabulaire partagé ni correspondance

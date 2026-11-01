@@ -1,7 +1,7 @@
 ---
 title: "Sciences de l'apprentissage"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-24T10:43:16-04:00"
+updated: "2026-11-01T10:16:51-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-11-01T08:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,11 @@ ai_assist:
     role: translation
     date: "2026-10-15"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -71,6 +76,8 @@ Cette page couvre les connaissances substantielles que ces méthodes ont produit
 
 - **Les preuves de processus dépendent du canal.** En codant une tâche de conception pédagogique assistée par l'IA générative avec 79 étudiants de premier cycle, à la fois dans les journaux d'interaction et en pensée à voix haute concurrente, [[metacognitive-processes-genai-interaction-logs-2026|Li et Liu (2026)]] ont constaté que les preuves de suivi de plus grande profondeur étaient plus fréquentes dans le relevé de pensée à voix haute, mais que les preuves de [[regulation|régulation]] de plus grande profondeur étaient plus fréquentes dans les journaux, de sorte qu'aucune des deux traces ne constitue à elle seule le critère d'une affirmation [[metacognition|métacognitive]].
 
+- **La méthode compte autant que le résultat : l'analyse séquentielle de l'interaction groupe-IA.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] ont codé 595 et 785 énoncés autour de 39 invites adressées à un agent conversationnel, testé les transitions de lag 1 par résidus ajustés et Q de Yule, puis mené une fouille de processus en traitant chaque épisode comme un cas. Cet appariement plaçait l'IA au centre du réseau d'interaction d'une composition de groupe et sur un seul chemin dans une autre — une différence que les décomptes d'invites ne pouvaient pas montrer. C'est un modèle pour demander où se situe une IA dans le réseau d'interaction d'un groupe plutôt que combien de fois elle y apparaît.
+
 ## Comment les sciences de l'apprentissage se rapportent à leurs voisines
 
 La [[design-based-research|recherche fondée sur la conception]] est la méthode que ce champ a développée plutôt qu'empruntée : une intervention est construite et révisée à l'intérieur d'une classe en fonctionnement, son rationale théorique étant révisée en même temps, de sorte qu'une seule étude produit à la fois un artefact et un principe de conception. C'est ce qui la sépare d'une expérimentation de laboratoire, qui isole une cause en maintenant le contexte immobile, et c'est pourquoi les résultats du champ arrivent comme des connaissances de conception plutôt que comme des tailles d'effet. La page [[research-methods-aied]] opère la coupe inverse : elle passe en revue tout le répertoire — expérimentations, enquêtes, travaux qualitatifs, repères de référence, revues, méthodes de consensus — comme un choix parmi des instruments, soupesés selon la validité de l'affirmation que chacun peut soutenir. Cette page lit le même corpus du côté substantif, en demandant ce que le répertoire a établi à propos de l'apprentissage et en jugeant une méthode selon que son ambition de conception survit au contact des apprenants.
@@ -84,6 +91,28 @@ La [[cognitive-psychology]] est la discipline du niveau du mécanisme dont le ch
 La [[pedagogy]] et la [[learning-design]] couvrent la pratique — quelle stratégie d'enseignement utiliser, et comment ordonnancer les objectifs, les activités et l'évaluation en un cours. Toutes deux sont ce que les sciences de l'apprentissage étudient de l'extérieur, comme objets de description et d'évaluation ; le champ ne dit pas à un enseignant quelle tactique adopter ensuite, il rapporte ce que les tactiques ont montré faire. La conception de l'apprentissage est la parente la plus proche, puisque toutes deux produisent quelque chose qui peut être mis en œuvre et testé, mais la production du concepteur est un cours enseignable, tandis que la production du champ est une connaissance sur les conceptions en général.
 
 Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcours passe par trois pages. L'[[educational-development]] est la pratique institutionnelle qui les porte — développement du corps professoral, standards, politique et travail sur l'identité décident si une conception validée atteint jamais une classe, ce qui explique pourquoi les données probantes du champ devancent régulièrement ce que les institutions ont mis en œuvre. La [[teacher-education]] est l'endroit où la connaissance doit atterrir avant qu'un enseignant n'entre dans la classe, et le [[teacher-role]] est l'endroit où elle atterrit ensuite, dans le jugement instant après instant sur le moment d'intervenir, l'instrument à utiliser, et le moment de laisser un apprenant tranquille. Aucune des trois ne produit des résultats de sciences de l'apprentissage ; toutes trois décident si ces résultats changent la pratique.
+
+## Idées fausses courantes
+
+- **« Un seuil de maîtrise élevé garantit que l'apprenant sait discriminer. »** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren et Stamper (2026)]] ont mené **onze expérimentations (N = 192)** avec des systèmes de [[intelligent-tutoring|tutorat intelligent]] et constaté qu'à **un seuil de maîtrise de 95 %, le système arrêtait la pratique avant que les apprenants ne rencontrent un cas exigeant de retenir l'action**, si bien que le défaut passait inaperçu. La maîtrise de l'action n'incluait pas le fait de savoir quand ne pas l'appliquer, et le seuil certifiait le mauvais construit.
+- **« Plus d'exemples est toujours plus sûr. »** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger et Carvalho (2025)]] traitent le rapport exemples–problèmes comme une **interaction contenu–traitement**, et dans une expérimentation 2×2 l'optimum **dépendait du contenu**. Il n'y a pas de rapport correct universel : un modèle pédagogique fixe est donc un pari contre une interaction.
+- **« Corriger l'idée fausse consiste à énoncer la bonne réponse. »** Une courte pratique « ne pas agir » avec une [[feedback|rétroaction]] nommant la contrainte manquante a ramené la mauvaise application à **0,0 %-23,1 % (h de Cohen 1,70-2,44)**, et une analyse secondaire de **treize jeux de données *Decimal Point* du primaire et du secondaire** a trouvé le même schéma structurel. L'intervention efficace était une pratique discriminante avec rétroaction ciblée, et non une correction par affirmation — ce que les travaux sur le [[refutation-text|texte de réfutation]] établissent de façon générale.
+- **« Un niveau de Bloom plus élevé signifie plus d'apprentissage actif. »** Le type d'apprentissage suivait le niveau de résultat visé, **l'Acquisition passant d'environ 50 % des activités au niveau 1 de Bloom à environ 20 % au niveau 6**. L'exigence cognitive et le type d'activité évoluent ensemble mais ne sont pas le même axe : étiqueter une tâche par son niveau de Bloom ne dit donc pas ce que les apprenants en feront.
+
+## Ce que cela signifie pour la pratique
+
+**Pour les enseignants**
+
+- Enseignez explicitement le cas négatif. L'échec au seuil de 95 % en est la raison : intégrez des conditions où le geste correct est de retenir l'action, sans quoi l'apprenant l'appliquera partout.
+- Ne figez pas le rapport exemples–problèmes sur tout un cours. L'interaction contenu–traitement signifie que le bon rapport pour les procédures n'est pas le bon rapport pour les concepts.
+- Recourez à une pratique discriminante avec une rétroaction qui nomme la contrainte manquante plutôt qu'un rappel de la règle. C'est l'intervention dont les tailles d'effet sont mesurées ici.
+- Vérifiez ce que votre critère de maîtrise certifie réellement avant de vous y fier.
+
+**Pour les développeurs**
+
+- N'arrêtez pas la pratique sur la seule exactitude. Modélisez la condition de retenue comme une compétence à part entière, sans quoi le système certifiera une sur-généralisation.
+- Laissez le rapport être un paramètre plutôt qu'une constante, car les données disent que l'optimum dépend du contenu.
+- Déclarez quel construit votre critère mesure, séparément du construit que votre validation mesure.
 
 ## Concepts liés
 
@@ -128,3 +157,4 @@ Les résultats n'importent qu'une fois parvenus à l'enseignement, et ce parcour
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — La distribution des usages de l'IA générative est un choix institutionnel
 
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — Le recours intra-individuel précède une baisse de l'agentivité perçue
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — L'analyse séquentielle de lag et la fouille de processus placent l'IA au centre d'un réseau d'interaction de groupe ou sur un chemin linéaire selon la composition des préconceptions (Wang et al. 2026)

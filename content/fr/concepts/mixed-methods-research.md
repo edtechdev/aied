@@ -1,19 +1,23 @@
 ---
 title: "Recherche à méthodes mixtes"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-10-24T10:49:43-04:00"
+updated: "2026-11-01T10:13:49-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -62,6 +66,12 @@ Sur 394 études de GenAI dans l'enseignement supérieur, les méthodes mixtes co
 ## Relation avec le paysage méthodologique plus large
 
 La recherche à méthodes mixtes se situe entre les traditions [[quantitative-research|quantitative]] et [[qualitative-research|qualitative]], puisant dans les forces de chacune tout en ajoutant la discipline de conception que constitue l'intégration intentionnelle. C'est une réponse méthodologique à la reconnaissance du fait que les phénomènes de l'IA en éducation sont à la fois producteurs d'effets et chargés de sens — et que le champ progresse le plus vite lorsque l'ampleur et la profondeur sont combinées (voir [[research-methods-aied]]). Elle se relie à l'[[educational-measurement|mesure en éducation]] (instruments quantitatifs), au [[theory-development-aied|développement théorique]] (construction théorique qualitative) et à l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] (intégration des preuves de résultats et d'expérience).
+
+## Idées fausses courantes
+
+- **« Les méthodes mixtes sont un choix de niche dans la recherche sur l'IA en éducation. »** Sur **394 études de GenAI dans l'enseignement supérieur**, les méthodes mixtes constituaient le **schéma de recherche le plus courant (213 études, 54 %)**, suivies de la recherche quantitative (109, 28 %) et qualitative (72, 18 %). Le schéma dominant du champ n'est pas celui que ses débats méthodologiques supposent.
+- **« Des preuves d'observation et d'entretien peuvent porter une affirmation sur un système. »** Associer l'observation du système et des discussions avec des administrateurs à une **évaluation randomisée de quatre ans portant sur 8 708 étudiants sur huit semestres**, dotée de la puissance nécessaire pour détecter des effets de **0,05 écart-type**, montre ce que le fil qualitatif ne peut pas faire seul : détecter un effet de petite taille de façon fiable. Mélanger les méthodes n'est pas un moyen de transférer de la puissance d'un fil à l'autre.
+- **« La triangulation signifie que deux méthodes faibles font une affirmation forte. »** La valeur de l'appariement est que chaque fil répond à une question différente. Un dispositif qui exécute les deux puis rapporte le constat qualitatif comme confirmation du quantitatif n'a pas triangulé, il a reformulé.
 
 ## Concepts liés
 

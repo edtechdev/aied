@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage par la recherche (Inquiry-Based Learning)"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-24T10:38:23-04:00"
+updated: "2026-11-01T10:17:52-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,13 +9,17 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-10-09T09:50:00-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -56,11 +60,25 @@ L'apprentissage par la recherche est centré sur les questions portées par l'é
 
 La structure de l'IBL, guidée par les questions et centrée sur le processus, est le terrain naturel d'un usage productif de l'IA : les étudiants apprennent *avec* l'IA comme partenaire plutôt que *d'elle* comme substitut. Les données probantes de la base de connaissances convergent vers une tension centrale — l'IA peut abaisser le coût de la recherche d'informations et de la formulation des questions (en réduisant la [[cognitive-offloading|charge cognitive]] et en permettant une [[metacognition|réflexion]] plus approfondie), mais sans étayage conceptuel elle expose à la dépendance excessive et au contournement de la cognition d'ordre supérieur. Le rôle du facilitateur, la conception des étayages et l'enseignement explicite des compétences d'évaluation sont les leviers qui déterminent si l'IA approfondit ou déplace la recherche.
 
+Une étude remplace le facilitateur plutôt que d'ajouter un outil à côté de lui. Dans un cours de pharmacologie de quatre semaines, 136 étudiants de deuxième année de médecine ont été répartis entre un apprentissage par problèmes mené par un facilitateur et un apprentissage mené par l'IA. Les deux bras ont progressé significativement aux tests à choix multiples pré/post et la différence entre groupes n'était pas significative (p = 0,474), mais les groupes menés par un facilitateur ont obtenu de meilleurs scores en pensée critique (14,75 contre 13,09, p < 0,001) et sur la grille d'évaluation de groupe (26,51 contre 24,74, p = 0,035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty et Rao, 2026]]). Les résultats d'enquête se séparent selon leur nature : les connaissances de contenu ont survécu à la substitution et le processus de raisonnement non, ce qui est précisément ce que signifie dire que le facilitateur est le levier.
+
 ### L'échec productif et la recherche
 
 [[productive-failure|L'échec productif (productive failure, PF)]] est le cousin le plus structuré de l'apprentissage par la recherche : les apprenants explorent des problèmes et génèrent des solutions *avant* l'enseignement direct, puis consolident. Les deux partent du principe que les tentatives générées par l'apprenant (même ratées) [[prior-knowledge|activent les connaissances antérieures]] et préparent les apprenants à apprendre de l'enseignement. La [[research-methods-aied|recherche]] sur l'échec productif à l'ère de l'IA précise comment l'IA devrait étayer la recherche sans la court-circuiter : [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] dérivent des principes de conception de l'IA pour préserver la difficulté à travers l'exploration de problèmes et la génération de solutions ; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] montrent que les tuteurs LLM peuvent être pilotés pour retenir leurs réponses et solliciter de multiples tentatives ; les tâches [[lukesova-clue-before-correction-2026|clue-before-correction]] illustrent un étayage fondé sur les indices (plutôt que direct) qui maintient l'apprenant dans le raisonnement. Ces travaux relient la recherche et l'échec productif à l'impératif plus large selon lequel l'IA ne doit pas supprimer les [[desirable-difficulties|difficultés souhaitables]] par lesquelles se forme l'apprentissage durable.
 
 Dans les contextes d'apprentissage sur le terrain, le même impératif devient spatial : l'IA générative peut pré-structurer ce que les apprenants remarquent avant qu'ils ne rencontrent les données, de sorte qu'une séquence « terrain d'abord » qui retient l'explication générée jusqu'à ce que les observations et les interprétations initiales soient consignées protège la recherche ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+**Une cartographie de 66 études place l'IA générative à côté de l'investigation et le moins souvent à l'orientation.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] ont codé l'usage de l'IA générative sur les cinq phases de l'enquête et ont trouvé un soutien rapporté le plus souvent à l'investigation (45 études, 68,2 %), puis à la conclusion (29, 43,9 %), à la discussion (28, 42,4 %) et à la conceptualisation (27, 40,9 %), l'orientation venant en dernier (20, 30,3 %). Onze études couvraient les cinq phases, 19 en couvraient une et neuf n'en nommaient aucune. Seules 8 études (12,1 %) mesuraient des compétences d'enquête, et 4 d'entre elles disposaient d'une condition de comparaison, si bien qu'il s'agit d'une carte de l'emplacement des outils plutôt que de ce que l'enquête y a gagné.
+
+## Idées fausses courantes
+
+**« L'IA convient naturellement à l'apprentissage par enquête parce que les deux sont exploratoires. »** L'adéquation dépend entièrement de la conception : l'[[generative-ai|IA générative]] et les outils [[llm|LLM]] peuvent servir de co-enquêteurs interactifs qui soutiennent le questionnement et l'investigation **seulement lorsqu'ils sont conçus pour préserver la propriété de la question par l'étudiant**. Utilisé autrement, un étudiant exploratoire suit une réponse plutôt qu'il ne mène une enquête, et les deux se ressemblent de l'extérieur.
+
+**« N'importe quelle IA ajoutée à une unité d'enquête l'améliore. »** La contribution de l'IA doit être isolée de l'enquête elle-même. [[ai-assisted-inquiry-ssi-climate|Gousopoulos (2026)]] l'a fait avec un dispositif à trois groupes dans une étude sur le climat : l'enquête assistée par l'IA a dépassé ses pairs en enquête seule sur la **prise de décision (d = 0,69)**, la preuve se situant dans un résultat précis plutôt que dans la supériorité générale de l'approche.
+
+**« L'enquête est non structurée par définition. »** L'enseignant étaye, et la structure réside dans la conception des questions et le cycle de réflexion plutôt que dans la transmission du contenu. Retirer l'étayage ne rend pas l'enquête plus authentique ; cela la rend sans étayage.
+
+**« Les questions menées par les étudiants seront bien formées si les étudiants sont intéressés. »** Générer une question traitable est la compétence en cours d'acquisition, ce pourquoi un système qui fournit de bonnes questions a accompli la compétence d'enquête que l'activité existe pour enseigner.
 
 ## Concepts liés
 
@@ -95,3 +113,5 @@ Dans les contextes d'apprentissage sur le terrain, le même impératif devient s
 - [[ai-information-extraction-undergraduate-thesis-2026]] — Extraction d'information assistée par l'IA au service du mémoire de premier cycle et de l'apprentissage par la recherche (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — La recherche assistée par l'IA sur les questions socioscientifiques liées au changement climatique
 - [[geoscience-field-learning-genai-2026]] — Un modèle pédagogique « terrain d'abord » qui empêche l'IA générative de pré-structurer ce que les apprenants remarquent (Choi, 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Facilitateur humain contre apprentissage par problèmes médié par l'IA : gains de contenu égaux, pensée critique plus faible sans le facilitateur (Shetty & Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — Cartographie de 66 études sur l'IA générative dans les cinq phases de l'enquête, avec seulement 8 études mesurant les compétences d'enquête

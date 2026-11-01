@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: "Plateforme edtech"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-11-01T10:10:32-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-25T17:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -91,6 +96,16 @@ La vie privée peut être intégrée au pipeline plutôt qu'à la politique : un
 5. **Expliquez les recommandations dans le langage du domaine de l'enseignant.** Les fonctionnalités d'IA d'une plateforme gagnent la confiance et l'adoption lorsque leurs explications sont compréhensibles et pédagogiquement signifiantes : dans une expérience intra-sujet menée avec un outil de recommandation de regroupement par l'IA (GrouPer), [[xai-teachers-trust-edtech-recommendations-2026|Feldman-Maggor et al. (2025)]] ont montré que des explications ancrées dans le domaine, formulées dans le langage des programmes, augmentaient significativement plus la compréhensibilité, la confiance et l'acceptation des enseignants que de brutes explications fondées sur l'importance des variables — et que l'usage réel en classe comptait encore pour une acceptation complète.([[xai-teachers-trust-edtech-recommendations-2026]])
 6. **Séparez le système qui produit les preuves de celui qui note.** Lorsque des agents peuvent suivre un cours au nom d'un apprenant, [[credentials-carry-evidence-ai-agents-2026|Srivastava (2026)]] soutient qu'une plateforme doit produire des preuves contemporaines et inspectables du raisonnement de l'apprenant, et ne doit pas en être le seul évaluateur — l'environnement, l'émetteur et le vérificateur devraient être indépendants.([[credentials-carry-evidence-ai-agents-2026]])
 7. **Générez les représentations au moment de la conception, et non à l'exécution.** [[edtech-design-time-generative-ui|Neshaei et al. (2026)]] soutiennent que l'adaptation à l'exécution ne peut pas être vérifiée à l'échelle et proposent d'encoder les contenus sous forme de cartes sémantiques agnostiques quant à la modalité, à partir desquelles des variantes interactives, audio, en texte simplifié et à faible bande passante sont générées et approuvées par l'enseignant avant diffusion — ce qui élimine le coût d'inférence par apprenant, bien qu'aucun prototype ne soit rapporté.
+
+## Idées fausses courantes
+
+**« Si une plateforme est efficace en principe, les étudiants l'utiliseront. »** La capacité et l'adoption sont deux problèmes distincts, et l'adoption est souvent la contrainte déterminante. Dans un essai randomisé par grappes sur deux ans, **96 % des étudiants ont essayé Khanmigo** — une adoption quasi universelle — et pourtant l'étudiant médian ne lui a écrit que dans **17 % des séances où il commettait une erreur**, exactement le moment pour lequel l'outil avait été conçu. Une plateforme qui enregistre la classe ne l'a pas changée.
+
+**« L'adoption se mesure aux connexions. »** L'écart informatif se situe au niveau des messages, pas des comptes. Dans ce même essai, seuls **environ 14,5 % des messages portaient une véritable question mathématique**. Quatre-vingt-seize pour cent des étudiants ont produit l'événement d'accès ; environ une interaction sur sept faisait le travail intellectuel. Rapporter ici un chiffre de connexions aurait décrit un succès qui n'existait pas.
+
+**« Ouvert contre propriétaire est un détail de licence sans effet sur les résultats. »** Le modèle de plateforme façonne ce que les institutions peuvent faire du système : les plateformes [[open-source|ouvertes]] telles qu'OATutor — un tuteur adaptatif sous licence MIT avec une bibliothèque de contenus d'algèbre sous Creative Commons, une estimation de la maîtrise par [[knowledge-tracing]] et des tests A/B intégrés — permettent à un département d'instrumenter et de modifier sa propre pédagogie, ce qu'une plateforme fermée ne permet pas. La licence détermine qui peut mener l'expérience.
+
+**« Une plateforme qui fonctionne dans un établissement fonctionnera telle qu'adoptée. »** Les effets de plateforme passent par la gouvernance locale : architecture privilégiant la vie privée, minimisation des données, journaux auditables et accès fondé sur les rôles sont ce qui rend une plateforme intégrée à l'IA déployable tout court, et ce sont des décisions institutionnelles plutôt que des fonctionnalités que l'on peut déduire d'une démonstration commerciale.
 
 ## Concepts liés
 

@@ -2,7 +2,7 @@
 title: "IA multimodale"
 connected_resources: [drawsplat]
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:14:57-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-27T07:23:49-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -47,6 +52,7 @@ L'IA multimodale permet aux apprenants de produire et de s'engager avec du conte
 - **La [[ai-literacy|littératie en IA]] dans les contextes multimodaux** est stratifiée : sensibilisation de base aux plateformes multimodales, co-création et [[critical-thinking|évaluation critique]] intermédiaires des productions, et conception avancée d'activités et d'évaluations multimodales.([[multimodal-learning-genai]])
 - **La sollicitation multimodale** est elle-même une pratique épistémique exigeante. Les étudiants qui sollicitent des images aussi bien que du texte découvrent que « la littératie des invites diffère entre la sollicitation de texte et celle d'images » — traduire un sens abstrait en invites multimodales lisibles par la machine exige un vocabulaire visuel précis et expose les limites et les biais du système.([[multimodal-prompting-ai-literacy]])
 - **L'évaluation multimodale** passe des dissertations aux artefacts associant texte, image, audio et vidéo, les éducateurs utilisant l'IA pour [[scaffolding|étayer]] la création et la rétroaction plutôt que pour remplacer la production propre de l'apprenant.([[multimodal-learning-genai]])
+- **Le choix de la modalité est un jugement pédagogique, pas un contenant.** [[elkington-human-centred-assessment-value-2026|Elkington (2026)]] soutient que le choix entre formats écrit, oral, numérique et multimodal décide de ce qui devient possible pour les apprenants et visible pour les évaluateurs, et compte le choix contrôlé parmi les modalités comme une contrainte générative plutôt qu'un détail administratif.
 - **La composition multimodale par l'apprenant comme étayage de la pensée critique comporte un compromis.** [[lu-ai-multimodal-writing-critical-thinking-2026|Lu et al. (2027)]] montrent que le fait de demander à des élèves du primaire supérieur de transformer des récits écrits en images et courtes vidéos générées par l'IA a soutenu des gains durables en interprétation, analyse, évaluation et explication — mais pas en inférence. Parce que les visuels rendaient explicite le sens de l'histoire, les étudiants ont rapporté un moindre besoin d'inférer le sens implicite du seul texte ; la collaboration entre pairs, et non l'outil multimodal, a rétabli des occasions d'inférence. La valeur de l'IA multimodale comme partenaire de construction de sens est donc propre à chaque dimension et dépend d'une [[learning-design|conception pédagogique]] qui réintroduise délibérément le travail inférentiel et [[self-regulated-learning|autorégulé]] que l'externalisation peut court-circuiter.
 - **La [[writing-education|composition]] multimodale par l'apprenant comme littératie critique en IA.** [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] analysent 22 messages d'intérêt public vidéo de 90 secondes à 3 minutes réalisés par des élèves de terminale sur des questions d'[[ethics|éthique]] de l'IA choisies par eux — la surveillance via des ordinateurs portables régulés par l'école et des « laissez-passer » électroniques, le [[privacy|consentement éclairé]], et l'accusation algorithmique punitive — comme une [[ai-literacy|littératie critique en IA]] mise en acte par la composition à travers l'image animée, le son, le texte et les corps mêmes des étudiants. Dans les sept films, le préjudice était représenté comme émergeant de l'enchevêtrement homme-machine plutôt que de l'outil seul (un « harceleur IA » anthropomorphisé était joué par un acteur humain dans trois des sept), et 15 des 18 réponses de fin d'unité disaient que la composition avait changé leur compréhension de l'éthique de l'IA. Les auteurs soutiennent que les produits multimodaux *démontrent* et *communiquent* à la fois une compétence critique — des artefacts productifs, des réflexions et un discours civique peuvent servir de preuves d'[[assessment|évaluation]] que la littératie purement textuelle manque structurement à grande échelle.
 
@@ -92,6 +98,16 @@ Les systèmes multimodaux élargissent aussi l'accès et l'[[personalized-learni
 5. **Surveiller l'équité et la vie privée.** Le soutien peu fiable sur les problèmes riches en images et les exigences de données de la détection multimodale portent tous deux des implications d'équité et de vie privée.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Adapter le pipeline au contenu.** Le grand modèle de langue multimodal d'un assistant de laboratoire de cybersécurité traitait mieux les diapositives visuelles denses, tandis qu'un pipeline OCR-plus-grands-modèles-de-langue offrait une valeur pédagogique comparable sur des diapositives centrées sur le texte pour un coût computationnel significativement plus faible.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
 
+## Idées fausses courantes
+
+**« Un modèle multimodal traite les problèmes multimodaux. »** La précision se dégrade fortement quand le sens est porté par la figure plutôt que par le texte. Un tuteur de [[physics-education|physique]] répond aux problèmes textuels dans environ **96 %** des cas mais tombe à environ **74 %** sur les problèmes qui inscrivent le sens dans des diagrammes — l'**effet d'interférence multimodale**. Vingt-deux points de capacité disparaissent exactement là où réside le contenu disciplinaire.
+
+**« Ajouter une image à l'invite résout le problème des diagrammes. »** La modalité d'entrée n'est pas le goulot d'étranglement ; l'interférence l'est. Un modèle qui reçoit le diagramme et raisonne encore à partir de la prose environnante a reçu l'information sans l'utiliser, ce qui explique pourquoi la défaillance est invisible tant que personne ne compare les deux formats de problème.
+
+**« La capacité multimodale est une échelle unique, donc le meilleur modèle global est le meilleur pour la tâche riche en images. »** La capacité dépend de la tâche, et un modèle en tête sur les repères généraux peut être en retard sur des diagrammes de forces. Pour les disciplines riches en images, le test pertinent est celui où le sens est inscrit dans la figure.
+
+**« Les limites du tutorat purement textuel sont une nuisance et non un problème de programme. »** Dans les disciplines où le diagramme *est* le problème — physique, chimie, géométrie, ingénierie, médecine — la frontière de compétence d'un tuteur purement textuel traverse le contenu évalué au lieu de s'arrêter à ses bords.
+
 ## Concepts liés
 
 - [[generative-ai]]
@@ -121,6 +137,7 @@ Les systèmes multimodaux élargissent aussi l'accès et l'[[personalized-learni
 
 ## Articles liés
 
+- [[elkington-human-centred-assessment-value-2026]] — L'évaluation centrée sur l'humain, les assemblages et les contraintes génératives (Elkington 2026)
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — La composition de messages d'intérêt public vidéo sur l'éthique de l'IA comme pédagogie de littératie critique en IA (Burriss et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Modélisation transformer multimodale sensible à l'équité pour l'estimation en temps réel de l'attention des étudiants
 - [[omniphys-multimodal-physics-benchmark-2026]]

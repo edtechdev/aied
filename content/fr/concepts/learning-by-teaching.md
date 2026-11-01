@@ -1,7 +1,7 @@
 ---
 title: "Apprendre en enseignant"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-11-01T10:14:38-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-10-01T18:49:55-04:00"
+source_updated: "2026-10-25T22:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -105,6 +109,16 @@ La [[research-methods-aied|recherche]] ci-dessus converge vers quelques patrons 
 - **Le LbT est un antidote évolutif à la dépendance excessive à l'IA** — il inverse le rôle tuteur/étudiant et maintient l'apprenant cognitivement actif, ce qui importe davantage à mesure que l'IA devient plus fluide et plus « serviable ».
 - **La faillibilité est une fonctionnalité, non un bogue.** Un tutoré *trop* correct supprime la correction d'erreurs et la détection des lacunes qui font fonctionner le LbT ; concevez pour la lutte productive, et non contre elle.
 - **Des questions ouvertes demeurent :** Comment les interactions de LbT se soutiennent-elles au-delà d'un semestre, une fois la nouveauté entièrement estompée ? Le LbT se transfère-t-il à des domaines non informatiques, moins structurés, à la même échelle ? Le codage automatisé du dialogue peut-il devenir un moniteur d'engagement pratique et en temps réel pour les enseignants ? Et comment garder le rôle d'enseignant porteur de sens pour *chaque* étudiant, plutôt que pour une minorité motivée ?
+
+## Idées fausses courantes
+
+**« N'importe quel tutoré fait l'affaire, puisque le bénéfice réside dans l'explication. »** Le bénéfice dépend du fait que les réponses du tutoré soient informatives. Un tutoré qui comprend déjà tout ne laisse au tuteur aucune lacune à détecter, ce qui explique pourquoi faire d'un LLM un bon tutoré exige d'**ingénierer la faillibilité** — des erreurs et des confusions conçues que l'élève-enseignant doit diagnostiquer et corriger. L'effet protégé vient de l'ignorance du tutoré, de sorte qu'un tutoré compétent supprime le mécanisme.
+
+**« Des erreurs générées suffisent parce qu'elles sont fausses. »** Seulement si elles sont plausibles. Dans une étude d'annotation en aveugle, les experts ont **mal classé 164 des 196 soumissions Java générées par LLM (83,7%) comme des travaux authentiques** d'étudiants — ce qui est à la fois la preuve que les erreurs sont réalistes et un avertissement qu'un tutoré peut se tromper d'une manière qui enseigne le mauvais diagnostic.
+
+**« Demander à un LLM de faire semblant d'être confus est une invite triviale. »** C'est un problème de conception, parce que la faillibilité doit être calibrée sur le concept enseigné et sur le modèle courant de l'élève-enseignant. Des erreurs aléatoires produisent une pratique de débogage ; des erreurs reflétant une idée fausse spécifique et plausible produisent une restructuration conceptuelle, et seule la seconde est la cible pédagogique.
+
+**« Apprendre en enseignant est une activité plus douce que d'être enseigné. »** Elle est plus exigeante. Se préparer à enseigner force l'organisation des connaissances et la localisation de ses propres lacunes, ce qui explique pourquoi l'approche fait apparaître des incompréhensions que la réception passive dissimule — la difficulté est le mécanisme, et non un coût à minimiser.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Référentiel"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-24T10:47:05-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-10-23T09:35:00-04:00"
+source_updated: "2026-10-26T10:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,12 @@ Les référentiels rejoignent l'[[ai-ed-evaluation|évaluation d'une interventio
 - **La règle de notation fait partie de l'instrument.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] fait tourner quatre règles de mise à jour du traçage des connaissances sur les mêmes séquences d'événements ASSISTments 2012–13, ne différant que par la manière de noter les lignes assistées par indices, et pré-enregistre les comparaisons derrière une barrière qui retient la moitié confirmatoire des étudiants jusqu'à présence du fichier d'enregistrement. Créditer toute complétion dépasse à peine une constante de difficulté de compétence (AUC regroupée 0.604 contre 0.595 sur 985.813 événements notés) et déclare 93.9% des paires étudiant–compétence maîtrisées contre 72.8% sous une règle qui lit les lignes assistées comme des premières tentatives échouées (0.658) — la leçon générale étant qu'une étiquette de maîtrise est définie par la règle de preuve, et non par le journal.
 - **Rapporter la capacité d'un modèle comme un niveau calibré, et pas seulement comme une exactitude.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] projettent 624 items annotés par des experts sur des niveaux de compétence nommés en utilisant 2.050 réponses d'apprenants, et constatent que les modèles de pointe dépassent le plafond calibré — une limite qu'un pourcentage masque.
 - **Une règle de notation peut être contournée par le modèle qu'elle entraîne.** Une métrique d'adaptativité maximisée en répétant une seule meilleure décision montre que la conception d'un référentiel devrait publier l'argmax, noter l'adaptation comme une différence et rapporter des lignes de base au-dessus du hasard ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo et Fernández De la Cruz, 2026]]).
+
+## Idées fausses courantes
+
+- **« La position dans un classement indique la qualité d'un tuteur. »** StudentBench **répartit aléatoirement 2,383 adultes entre un tutorat par IA, un tutorat humain en direct par un expert et une condition vidéo** et note les résultats face à des tuteurs humains plutôt que face à d'autres systèmes. Un référentiel calibré sur d'autres modèles répond à une question dont personne n'avait besoin.
+- **« Les personas simulés constituent une base adéquate pour évaluer un tuteur. »** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] ancre l'évaluation dans la **littérature de cas documentée plutôt que dans des personas simulés**, avec **923 dialogues**. Des personas d'étudiants fabriqués laissent un système réussir des cas qui ne se produisent pas.
+- **« Un référentiel est fiable sans vérification du juge. »** L'hallucination a été notée comme une **implication par rapport aux fragments récupérés sous licence ouverte (κ = 0.76 par rapport au jugement d'experts)** — le juge a été validé face à des experts avant que ses scores ne soient utilisés. Un juge automatique non validé produit des nombres de signification inconnue.
 
 ## Concepts liés
 

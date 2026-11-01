@@ -1,7 +1,7 @@
 ---
 title: "Apprenants adultes"
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-10-24T10:43:33-04:00"
+updated: "2026-11-01T10:17:58-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,13 +11,17 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-10-16T19:47:08-04:00"
+source_updated: "2026-10-26T07:30:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,12 @@ L'apprentissage des adultes se situe à l'intersection de plusieurs concepts ét
 
 - **Principes de conception de l'IA pour l'andragogie.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] constatent que les apprenants adultes valorisent l'IA comme agent d'apprentissage collaboratif et en dérivent trois principes de conception de l'IA pour l'andragogie : l'humain dans la boucle (modèles mentaux partagés, cocréation humain-IA), la conception émotionnelle (calibration du recours à l'IA, communication empathique) et l'adaptabilité (adaptation continue, interopérabilité). Leurs onze prototypes de scénarios rattachent également chaque principe andragogique à une affordance concrète de l'IA : des [[intelligent-tutoring|tuteurs d'IA]] et des [[learning-by-teaching|agents enseignables]] pour l'implication, des outils de suivi et d'[[learning-analytics|analytique]] pour l'autonomie et l'auto-évaluation, des [[conversational-ai|agents conversationnels]] empathiques et des [[simulation|simulations]] pour l'expérience, des bibliothèques de cas et des générateurs de questions d'ordre supérieur pour le travail centré sur les problèmes, et des planificateurs d'IA et des conseillers en carrière pour la pertinence.
 - **Préserver la lutte productive.** L'étude sur l'échec productif du même groupe rattache le soutien de l'IA aux deux phases de l'échec productif et conclut que la conception ne doit pas résoudre la lutte : les agents conversationnels agissent comme des partenaires de réflexion non directifs pendant la génération et l'exploration, puis soutiennent la comparaison, la réorganisation et le transfert pendant la consolidation ([[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]]).
+
+## Idées fausses courantes
+
+- **« Un bon outil suffit aux apprenants adultes. »** La recherche a constaté qu'**aucun système d'IA unique pour l'apprentissage adulte ne satisfaisait toutes les lignes directrices de conception** — l'écosystème complet était nécessaire. Les adultes arrivent avec des obligations, des emplois du temps intermittents et des objectifs hétérogènes, si bien qu'un produit unique ne peut couvrir l'espace de conception.
+- **« La littératie numérique peut être tenue pour acquise à l'âge adulte. »** [[community-centered-ai-education-adults|Une étude de cas du Midwest]] a co-conçu un programme de littératie en IA pour **54 adultes d'une communauté mal desservie** et a constaté qu'une éducation à l'IA pour adultes orientée vers l'équité **doit d'abord traiter la littératie numérique fondamentale et la confiance dans les données**. L'âge n'est pas un proxy de la fluidité numérique.
+- **« L'adoption est un problème de motivation. »** Bâtir l'[[ai-literacy|littératie en IA]] et la [[trust|confiance]] autour de la confidentialité des données doit précéder toute attente d'adoption. La volonté découle de la confiance dans ce qu'il advient de ses données, non de l'enthousiasme pour la technologie.
 
 ## Concepts liés
 

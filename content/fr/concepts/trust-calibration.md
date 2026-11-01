@@ -1,7 +1,7 @@
 ---
 title: "Le calibrage de la confiance"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T10:44:09-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-10-24T06:26:00-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,8 @@ Traiter le mauvais calibrage comme un simple déficit de l'utilisateur — que l
 
 L'implication pour la conception est une typologie d'utilisateurs à deux dimensions — l'*aptitude* à vérifier les productions d'un [[conversational-ai|agent conversationnel]] croisée avec la *motivation* à le faire — qui prédit quels utilisateurs se caleront mal dans quelle direction. Les auteurs l'associent à deux familles d'interventions qui doivent opérer ensemble : les affordances d'[[explainable-ai|interprétabilité]] (justifications, citations, signaux d'incertitude) qui rendent l'évaluation possible, et les mécanismes d'engagement qui la font réellement advenir, disposés selon le modèle du fromage suisse de Reason en huit propositions testables. La [[ai-literacy|littératie en IA]] est positionnée comme la couche durable sous-jacente aux deux, faisant passer les utilisateurs d'une case de la typologie à l'autre. Le recadrage importe pour l'éducation parce qu'il déplace la responsabilité : si les citations transparentes ne sont pas cliquées dans la population générale, alors simplement exposer les étudiants aux explications de l'IA ne les calibrera pas — l'affordance doit être conçue pour contraindre la vérification.
 
+- **Une justification peut absorber la morsure de la contradiction sans rendre la confiance mieux calibrée.** Dans quatre expériences de scénario (N = 859), une recommandation d'IA en conflit avec le jugement d'un éducateur physique a fait baisser la confiance en la machine de 5.42 à 4.31 (d = 1.061) ; fournir une justification a réduit cette pénalité de -0.811 à -0.182, bien que l'exactitude du conseil n'ait jamais été établie ([[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang (2026)]]).
+
 Un troisième levier agit sur la structure même de l'interaction : remplacer une recommandation unique par un [[tuo-armada-multi-agent-debate-overreliance-2026|débat multi-agents dont la position agrégée est retenue (Tuo et al., 2026)]] a ramené le basculement préjudiciable vers une position erronée de l'IA de 42–60.5% à 5.7–8.2% chez 186 participants. Le levier est protecteur plutôt que correctif : les participants partis d'un jugement erroné ne retrouvaient la décision correcte que dans 30.6% et 24.7% des essais, en dessous du hasard pour un choix binaire.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] fournissent un levier de conception qui, lui, a fait évoluer le calibrage : montrer aux évaluateurs des critères de crédibilité co-conçus tandis qu'ils comparaient les réponses de LLM a fait passer l'accord inter-évaluateurs de l'alpha de Krippendorff 0.3987 à 0.4931, bien que l'accord regroupé demeurât sous 0.67 et que des mesures supplémentaires ajoutent de la charge de travail.
@@ -97,6 +103,44 @@ Le calibrage de la confiance est central pour la [[ai-literacy|littératie en IA
 - **L'anxiété comme condition aux limites de la conversion de la littératie en confiance (2026) :** dans une enquête menée auprès de 450 étudiants universitaires de Chine continentale utilisant déjà ChatGPT, [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] a trouvé que la voie allant de la littératie en IA à la confiance était la plus forte association du modèle (bêta = 0.50) et que l'[[anxiety-and-stress|anxiété liée à l'IA]] affaiblissait ce lien (bêta d'interaction = -0.25), les pentes simples tombant de 0.76 à un écart-type sous la moyenne d'anxiété à 0.25 au-dessus, tandis qu'une voie sérielle allant de la littératie à la confiance, puis à l'auto-efficacité, puis à l'usage continu était significative. Le calibrage est donc en partie affectif : une même connaissance se traduisait par une confiance moindre chez les étudiants plus anxieux, et la conception transversale laisse ouverte la question de savoir si l'anxiété bloque l'évaluation qui convertit la connaissance en dépendance ou reflète une évaluation que les étudiants déclinent de mettre en acte.
 - **La rotation des rôles comme structure de pratique de la critique (2026) :** dans une étude fondée sur la conception portant sur 62 psychologues de l'éducation en formation initiale passant par quatre rôles professionnels tournants sur huit semaines, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] ont fait comparer aux participants des recommandations générées par l'IA avec la théorie psychologique et modifier ou rejeter celles qui ne convenaient pas au cas, tout en constatant néanmoins une dépendance excessive envers des réponses d'IA d'apparence autoritative, certains étudiants cherchant la confirmation de l'IA avant de proposer leur propre interprétation, même dans les cycles ultérieurs. La rotation crée des occasions répétées de porter le jugement d'accepter ou de rejeter sans le garantir, et l'étude rapporte l'engagement durant l'intervention plutôt que des gains de compétence mesurés.
 - **Les indices d'identité de surface font évoluer la confiance indépendamment de la capacité.** Sur deux expériences (N = 396), les apprenants jugeaient les avatars blancs — et les avatars d'hommes asiatiques en STIM — plus crédibles et plus compétents, pénalisaient les avatars de femmes noires plus âgées sur toutes les mesures, et adoptaient plus volontiers les conseils de leur groupe racial d'appartenance ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
+
+- **Une étiquette de source déplace l'acceptation sans améliorer la discrimination.** Lorsque 103 participants jugeaient des réponses étiquetées ChatGPT ou ordinateur, l'acceptation était plus élevée sous l'étiquette ChatGPT (68.0% contre 63.4%, p = 0.002), mais la détection du signal n'a trouvé aucune différence de source en sensibilité (p = 0.930) ni en critère (p = 0.082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio & Bruno, 2026]]). L'étiquette élève la confiance sans élever l'exactitude.
+- **La dépendance est une décision tarifée, pas seulement une croyance.** Dans un banc d'essai de 324 scénarios, cinq modèles sur sept achetaient de la vérification à valeur informationnelle attendue nulle ou sur-achetaient des garde-fous, et fournir des probabilités a posteriori explicites corrigeait certaines erreurs tout en en créant d'autres ([[llm-calibrated-reliance-imperfect-partners-2026|Chu & Huang (2026)]]).
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Enseigner la vérification, non l'attitude. Une confiance plus grande prédisait une dépendance appropriée *plus faible* (r = −.42) chez 432 étudiants de premier cycle qui acceptaient 86.03% de suggestions délibérément trompeuses, de sorte qu'un enseignement qui bâtit une confiance généralisée aggrave le problème.
+- Intégrer la vérification aux tâches là où elle est peu coûteuse et visible : exiger la source d'une affirmation, le contre-exemple ou la réexécution. Les lecteurs à qui l'on montrait un résumé d'IA ne cliquaient une source citée à l'intérieur que dans **1% des visites** et cliquaient les liens de résultats environ deux fois moins souvent, de sorte que « il a cité quelque chose » ne certifie rien.
+- Rappeler que le levier est protecteur, non correctif. Les participants partis d'un jugement erroné ne récupéraient le bon que dans **30.6%** et **24.7%** des essais — sous le hasard pour un choix binaire —, il faut donc intervenir avant que l'étudiant s'engage dans le mauvais modèle, non après.
+- Traiter aussi la sous-confiance comme un échec de calibrage ; éviter un outil capable n'est pas le choix sûr par défaut, c'est la même erreur pointée dans l'autre sens.
+
+**Pour les développeurs**
+
+- Changer la structure de l'interaction, pas seulement l'étiquette. Retenir la position agrégée d'un débat multi-agents a réduit le basculement préjudiciable vers des positions erronées de l'IA de 42–60.5% à 5.7–8.2%, un levier structurel qui n'exige aucune confiance de l'utilisateur.
+- Rendre la provenance inspectable au point d'usage, puisque les taux de clic sur les citations s'effondrent quand le résumé est présenté comme autoritatif.
+- Préserver la position énoncée par l'étudiant et la contraster, plutôt que de remplacer son brouillon par une réponse assurée ; les données de récupération montrent que le remplacement est rarement défait.
+
+**Pour les chercheurs**
+
+- Mesurer la dépendance appropriée comme un résultat comportemental par rapport à la vérité terrain, non comme un score de confiance. Les deux corrèlent négativement dans la seule étude qui mesurait les deux.
+- Rapporter les taux de récupération des participants initialement erronés séparément de l'exactitude globale, car l'agrégat masque le chiffre sous le hasard qui compte le plus.
+
+
+**Les apprenants qui semblent les plus résilients sont ceux qui faisaient le plus confiance à l'outil.** Dans une enquête auprès de 300 étudiants universitaires sud-coréens, [[kim-overtrust-ai-literacy-2026|Kim, Kim et Zhang (2026)]] ont constaté que la surconfiance corrélait avec l'auto-efficacité académique (r = 0.230), la motivation intrinsèque (r = 0.224) et l'attente de performance (r = 0.360), et non avec la littératie en IA (r = 0.051). Dans le modèle sériel, l'auto-efficacité prédisait directement la surconfiance à B = 0.3901 (IC à 95% [0.2190, 0.5612]), au-dessus de son effet total de 0.3397, ce que les auteurs lisent comme une suppression. Le calibrage ne se lit pas dans la confiance d'un apprenant.
+
+## Idées fausses courantes
+
+**« Plus de confiance signifie un meilleur usage de l'outil. »** Confiance et calibrage divergent, et la corrélation va dans le mauvais sens. Parmi **432 étudiants de premier cycle** résolvant des problèmes Python avec des suggestions d'IA exactes et délibérément trompeuses, une confiance plus grande prédisait une dépendance appropriée **plus faible** (**r = -.42**), et les étudiants acceptaient **86.03%** des suggestions trompeuses. La confiance généralisée n'est pas le but ; la confiance appariée l'est.
+
+**« La sous-confiance est le choix sûr par défaut. »** Éviter entièrement un outil capable est un échec de calibrage pointé dans l'autre sens. Les deux désajustements coûtent à l'apprenant — l'un par la dépendance, l'autre par la capacité perdue —, ce qui fait de « sois sceptique » une consigne aussi pauvre que « fais-lui confiance ».
+
+**« Le calibrage peut être corrigé après coup. »** Le levier est protecteur, non correctif. Les participants partis d'un jugement erroné ne récupéraient la bonne décision que dans **30.6%** et **24.7%** des essais — sous le hasard pour un choix binaire. Une fois qu'un étudiant s'est engagé dans le mauvais modèle, la correction est peu fiable, l'intervention doit donc arriver avant l'engagement plutôt qu'après.
+
+**« Vérifier est facile, donc les étudiants qui s'en soucient le feront. »** Vérifier est peu coûteux et rarement fait. Dans une étude de suivi passif de **900 adultes américains**, les lecteurs qui voyaient un résumé généré par l'IA ne cliquaient une source citée à l'intérieur que dans **1% des visites**, et cliquaient les liens de résultats environ deux fois moins souvent que ceux qui ne voyaient aucun résumé. Le résumé supprime la vérification plutôt qu'il ne la suscite, la vérification doit donc être intégrée à la tâche et non présumée de la diligence.
+
+**« Présentation et substance peuvent être séparées par un lecteur attentif. »** La fluidité est ce qui gagne une confiance non méritée, ce qui explique que le calibrage soit un problème de conception et pas seulement une compétence de l'apprenant. Un système dont l'interface signale l'autorité sera cru à ce niveau quelles que soient les consignes contraires.
 
 ## Concepts liés
 
@@ -147,3 +191,5 @@ Le calibrage de la confiance est central pour la [[ai-literacy|littératie en IA
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Usage des LLM par les étudiants et les limites de la difficulté des questions générées par l'IA en cours de science des données
 - [[nazaretsky-trust-instrument-ai-edtech-2025]] — Instrument destiné aux étudiants validant la confiance dans l'AI-EdTech en quatre facteurs, la confiance en amont de l'utilité perçue (Nazaretsky et al. 2025)
 - [[children-design-trustworthy-ai-chatbots-2026]] — Comment les enfants conçoivent et raisonnent à propos d'agents conversationnels dignes de confiance
+- [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — Quand un conseil d'IA s'accorde ou non avec le jugement humain : confiance, auto-efficacité, résilience psychologique et réponses adaptatives en éducation physique
+- [[kim-overtrust-ai-literacy-2026]] — La surconfiance corrélait avec l'auto-efficacité et l'attente de performance, mais pas avec la littératie en IA, chez 300 étudiants

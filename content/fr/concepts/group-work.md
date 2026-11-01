@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-10-24T10:37:22-04:00"
+updated: "2026-11-01T10:20:37-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-09-30T16:25:27-04:00"
+source_updated: "2026-10-25T20:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -103,6 +107,16 @@ Une seconde lignée de recherche traite l'IA comme un participant plutôt que co
 - **Préférez un partenaire argumentatif à un donneur de réponses.** Structurez l'IA pour faire apparaître le désaccord plutôt que le lisser, afin que le travail en groupe préserve le conflit cognitif qui construit la compréhension.
 - **Accommodez les apprenants [[neurodiversity|neurodivergents]].** Les travaux structurés, les petites équipes stables et les définitions explicites de rôles sont des exigences que les outils de collaboration avec l'IA doivent satisfaire.
 - **Lisez la retenue avec attention.** Les étudiants qui évitent l'IA dans les groupes peuvent exercer une autorégulation normative — ou se garder du risque et de l'inconnu. Les deux cas appellent des réponses différentes de la part de l'[[teacher-role|enseignant]].
+
+## Idées fausses courantes
+
+**« L'IA est un ajout neutre au flux de travail d'un groupe. »** Elle restructure l'endroit où va l'interaction du groupe. Dans l'étude citée ici, la dynamique de groupe a déplacé l'interaction loin des humains — **79,7 % des questions étaient adressées à des agents (*p* = .017)** — tandis que les participants rapportaient un arbitrage largeur-profondeur dans un format d'empilement des tours où chaque locuteur prenait la parole. Une équipe qui adresse près de quatre questions sur cinq à une machine ne répète plus le questionnement entre pairs que le travail de groupe existe pour développer.
+
+**« Une production de groupe polie est la preuve d'une bonne collaboration. »** Une production polie est le risque épistémique, non la rassurance. Un groupe peut produire un artefact excellent tandis que la régulation du travail — qui a décidé quoi, comment le désaccord a été résolu, quel raisonnement a été mis à l'épreuve — s'est faite à l'intérieur de la réponse du modèle et n'a laissé aucune trace dans le livrable.
+
+**« L'IA aide le plus lorsqu'elle coordonne le groupe. »** Le soutien à la coordination et le soutien épistémique tirent dans des directions opposées. Réduire le coût de coordination de la collaboration peut diminuer la pression qui pousse le groupe à négocier le sens, c'est-à-dire le processus évalué. L'arbitrage efficacité-régulation est la tension de conception centrale, et non un détail de mise en œuvre.
+
+**« Le travail de groupe est difficile à cause des personnes. »** Une part de cette difficulté tient à la conception de la tâche, ce qui explique pourquoi l'IA change le profil de difficulté plutôt que de simplement l'alléger : un outil qui répond vite aux questions change ce à quoi le groupe consacre son temps, et savoir si c'est une amélioration dépend des compétences que la tâche devait développer.
 
 ## Concepts liés
 

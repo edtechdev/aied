@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la gestion et du management"
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-10-24T10:44:44-04:00"
+updated: "2026-11-01T10:20:12-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -65,6 +69,12 @@ La gestion est l'un des domaines où l'adoption de l'IA générative est la plus
 - **Aligner le programme de façon constructive.** La [[zhou-constructive-alignment-genai-business-2026|recherche sur l'alignement constructif]] constate que le degré d'intégration au programme détermine si les bénéfices ou les risques de l'IA générative dominent — intégrez, et n'ajoutez pas.
 - **Traiter les lacunes persistantes.** [[espino-ai-business-education-review-2026|Une décennie de recherche]] signale des lacunes en cohérence des programmes, préparation des enseignants et validité de l'évaluation — faites-en des priorités dans la conception des programmes.
 - **Préparer les étudiants à un monde du travail intégrant l'IA.** Mettez l'accent sur la littératie en IA, l'usage éthique et l'application propre au domaine (finance, marketing, management, économie) comme compétences centrales, et non comme options.
+
+## Idées fausses courantes
+
+- **« Les étudiants veulent l'IA parce qu'ils veulent des raccourcis. »** Un cadre informé par les étudiants a trouvé des étudiants **très engagés et conscients qu'ils ont besoin de compétences en IAG pour leur carrière**, tout en voulant **utiliser l'IA sans commettre involontairement une faute académique**. La demande porte sur une compétence avec des limites claires, non sur la permission d'éviter le travail.
+- **« Ajouter des modules d'IA à un programme de gestion capte le bénéfice. »** La recherche sur l'alignement constructif a montré que **la prédominance des bénéfices ou des risques dépendait du degré d'intégration au programme** — la distinction opératoire est **intégrer, ne pas ajouter**. Un module rapporté laisse la conception de l'évaluation inchangée.
+- **« La sophistication de l'outil dépasse l'e-learning conventionnel. »** Une étude de perception auprès de **130 étudiants** a trouvé que **le soutien par chatbot et par agent étaient tous deux mieux notés que l'e-learning traditionnel** sur l'enrichissement, la personnalisation et la prise de décision. Il vaut la peine de noter ce que cela mesure : la *perception* des étudiants face à une base de référence conventionnelle, et non l'apprentissage face à elle.
 
 ## Concepts liés
 

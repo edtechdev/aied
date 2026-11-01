@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: "Enseignement supérieur"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -96,6 +100,12 @@ Une troisième voie durcit l'exercice lui-même : présenter les énoncés sous 
 - **Utiliser l'IA pour élever la qualité et la quantité de rétroaction.** La [[ai-assistance-discretionary-feedback|rétroaction assistée par IA]] peut accroître la rétroaction que délivrent les enseignants ; associez-la à un [[human-in-the-loop-ai|jugement humain]] afin qu'elle améliore l'apprentissage au lieu de se contenter d'automatiser.
 - **Vous engager délibérément dans l'innovation de la notation et de l'évaluation.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] soutiennent que l'[[assessment]] et la notation comptent parmi les facteurs les plus influents sur l'apprentissage dans l'enseignement supérieur, alors qu'ils restent peu étudiés dans des champs comme l'[[business-education|enseignement de la gestion]] (58 articles seulement sur 20 ans dans quatre revues de premier plan). Les approches traditionnelles, [[summative-assessment|sommatives]] à outrance et fondées sur la norme minent l'apprentissage profond, le [[well-being]], l'équité et l'[[academic-integrity|intégrité]] à l'ère de l'IA générative ; les auteurs invitent les enseignants à s'engager de manière plus active et réciproque dans cinq pratiques innovantes (évaluation authentique, auto- et évaluation par les pairs, réévaluation, notation fondée sur les standards, absence de notation), en notant que leur mise en œuvre exige un soutien institutionnel et culturel ainsi qu'une expérimentation progressive.
 - **Traiter la formation à la recherche et l'encadrement comme un lieu de littératie en IA à part entière.** Les [[dai-chan-responsible-genai-research-ai-literacy-2026|chercheurs de troisième cycle]] mettent en œuvre la [[ai-literacy]] comme une pratique [[situated-learning|située]] plutôt que comme un ensemble de compétences figé, et les consignes institutionnelles s'arrêtent largement à l'enseignement et à l'évaluation. Les consignes relatives aux travaux de thèse, de mémoire et de publication devraient [[scaffolding|étayer]] concrètement la vérification, l'attribution et la divulgation pour chaque dimension de la littératie en IA — et de [[engagement-intensity-learner-modeling|simples signaux observés avant le cours]] peuvent cibler ce soutien dans les cours d'éthique de la recherche — au lieu d'édicter des règles binaires.
+
+## Idées fausses courantes
+
+- **« L'adoption institutionnelle de l'IA est parvenue à maturité. »** **La couche symbolique est saturée tandis que la couche structurelle est mince** : **100 % disposent d'un groupe de travail sur l'IA et d'un master en IA, mais seulement 12 % ont une direction de l'IA au niveau exécutif** et 5 % seulement exigent une étape institutionnelle supplémentaire. Les annonces ont dépassé les structures d'un ordre de grandeur.
+- **« Le prestige prédit la maturité institutionnelle en IA. »** L'institutionnalisation s'est révélée **indépendante du prestige (corrélation de rang r ≈ 0,04)**, avec une **variation régionale significative (ANOVA F = 5,86, p < .001)**. La réputation n'est pas un indicateur de préparation, et la géographie prédit davantage que le statut.
+- **« La manière dont l'IA distribue le travail épistémique est uniforme d'un établissement à l'autre. »** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn et Rehm (2026)]] ont classé **102 études empiriques sur l'enseignement supérieur** selon la distribution du travail épistémique, et la variation est le résultat plutôt qu'un détail.
 
 ## Concepts liés
 

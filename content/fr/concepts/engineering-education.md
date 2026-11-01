@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'ingénierie"
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-11-01T10:14:26-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,13 +12,17 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-30T10:14:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,8 @@ La recherche sur l'enseignement de l'ingénierie est distinctive parce qu'elle s
 - **L'IA pour la durabilité, intégrée plutôt que modulaire.** Le cadre AI-SEE à quatre piliers (intelligence-driven, green-empowered, responsibility-leading, practice-integrated) répartit l'IA dans les travaux d'ingénierie ; dans un cas de 144 étudiants en ingénierie des transports, les étudiants ont rapporté un engagement aux niveaux personnel, académique, professionnel et social, le raisonnement sur la durabilité étant porté jusque dans les familles et les réseaux de pairs ([[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]]).
 - **Un atelier riche en outils peut déprimer l'auto-efficacité sans améliorer le produit.** Dans un atelier de conception architecturale de 27 étudiants, les équipes employant un pipeline d'IA générative et de [[virtual-and-augmented-reality|XR]] ont montré des déclins pré–post plus importants de l'[[self-efficacy|auto-efficacité]] en conception (β = −1.675) et de l'attente de résultats (β = −2.088) que les contrôles, tandis qu'un casque par étudiant n'a produit aucune collaboration coordonnée ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026)]]).
 
+- **Le choix du modèle, et non l'art de l'invite, fixe la fiabilité de la rétroaction sous contestation.** [[apostolakis-trusstutor-bench-statics-2026|Apostolakis et al. (2026)]] ont construit 200 problèmes de treillis bidimensionnels vérifiés et soumis treize modèles à trois postures : résoudre, confirmer une solution correcte que l'étudiant affirme fausse, et localiser une erreur injectée. L'exactitude de résolution allait de 64,5% à 97,0% et chaque modèle repérait au moins 90,4% des erreurs injectées, si bien qu'aucun de ces deux critères ne séparait le terrain ; la résistance à la contestation, elle, le faisait, de 46,5% à 98,5%. Pour un cours de statique, le risque du tutorat n'est pas une réponse finale fausse mais un modèle qui donne raison à un étudiant qui doute à tort d'un travail correct, et les auteurs notent que si la fiabilité suit les paliers payants, la rétroaction que reçoivent les étudiants variera selon ce que leur établissement peut licencier.
+
 ## Préoccupations caractéristiques
 
 Les préoccupations caractéristiques de l'enseignement de l'ingénierie façonnent la manière dont l'IA est prise en charge : l'**apprentissage pratique et en laboratoire** (et ce qui est perdu lorsque l'IA simule la pratique), la **formation professionnelle** (responsabilité éthique, sécurité et impact sociétal), la **conception et la résolution de problèmes** (quelle part du travail cognitif l'IA devrait accomplir), et la **préparation à la main-d'œuvre fondée sur les compétences**. Elles font de l'enseignement de l'ingénierie un lieu riche pour étudier si l'IA augmente ou déplace le travail cognitif essentiel à l'expertise professionnelle — ce qui fait écho aux débats en [[physics-education|physique]], en [[math-education|mathématiques]] et en [[cs-education|informatique]].
@@ -75,6 +81,12 @@ Cette lacune n'est plus vide dans un domaine : un programme de trois ans en gén
 - **Modélisez l'usage critique et la dépendance appropriée.** La [[tam-critical-use-genai-engineering-2026|recherche sur le TAM et l'usage critique]] montre que les étudiants dépendent fortement de l'IA pour les tâches de compréhension, mais moins pour l'évaluation — orientez-les vers une dépendance appropriée et vérifiable selon les types de tâches.
 - **Enseignez l'usage de l'IA comme une compétence pendant le temps de classe.** [[structured-ai-demonstrations-engineering-mechanics|Geng et al. (2026)]] ont mené neuf démonstrations dirigées par l'enseignant, de 10 à 15 minutes chacune à la fin d'un cours, et séquencées de la littératie outil à la délégation stratégique puis à l'évaluation du modèle — mais les étudiants ne voyant aucun lien avec l'évaluation les ont jugées redondantes : il faut donc les rattacher à des travaux notés.
 
+## Idées fausses courantes
+
+- **« L'adoption de l'IA chez les étudiants d'ingénierie est un problème d'acceptation de la technologie. »** [[socio-cognitive-genai-adoption-engineering-2026|Asag et Al Mamun]] intègrent le TAM à l'[[technology-acceptance-model|UTAUT]] pour modéliser l'adoption chez des étudiants d'ingénierie bangladais, **expliquant 64% de** la variance — une part substantielle se situe donc hors des construits d'acceptation, dans des facteurs sociaux et cognitifs que le modèle ne couvre pas.
+- **« Les étudiants utilisent l'IA pour ce qu'elle fait de mieux. »** [[ai-engineering-education-balancing-act|Kudina (2026)]] constate que **100 étudiants d'ingénierie** appréciaient surtout les LLM pour le **soutien à la rédaction**, et non pour le raisonnement d'ingénierie. Leurs métaphores de l'outil dépassaient ce qu'il fournissait, et leur usage réel suivait la commodité plutôt que la capacité.
+- **« Une pile d'outils plus riche améliore les résultats de conception. »** Dans un atelier de conception architecturale de **27 étudiants**, les équipes employant un pipeline d'IA générative et de [[virtual-and-augmented-reality|XR]] ont montré une **efficacité déprimée sans produit amélioré**. La richesse des outils peut coûter la confiance tout en laissant l'artefact inchangé.
+
 ## Concepts liés
 
 - [[problem-based-learning]]
@@ -93,6 +105,7 @@ Cette lacune n'est plus vide dans un domaine : un programme de trois ans en gén
 
 ## Articles liés
 
+- [[apostolakis-trusstutor-bench-statics-2026]] — Banc d'essai en statique : la résolution et la détection d'erreurs saturent, la résistance à la contestation non
 - [[mechanical-engineering-ai-curriculum-2026]] — Programme d'éducation à l'IA par projets en ingénierie thermique
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Les métaphores du corps professoral d'ingénierie construisent (et contraignent) la compréhension de l'IA

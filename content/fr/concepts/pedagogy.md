@@ -1,7 +1,7 @@
 ---
 title: Pédagogies et stratégies d'enseignement
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-10-24T10:51:33-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,13 +9,17 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -90,6 +94,12 @@ Cet accent mis sur l'effort préservé n'est pas absolu : une conception [[mixed
 - **Garder l'agency de l'apprenant au centre :** les pédagogies actives, socratiques et de scaffolding préservent la lutte productive et l'[[agency]] que l'IA peut par ailleurs éroder (voir [[cognitive-offloading]], [[desirable-difficulties]]).
 - **Concevoir l'IA pour mettre en œuvre une bonne pédagogie :** les agents et tuteurs d'IA devraient être ancrés dans des cadres pédagogiques établis, et non dans la génération de réponses par défaut.
 - **Enseigner avec et à propos de l'IA :** les pédagogies devraient à la fois utiliser l'IA pour enseigner et apprendre aux apprenants à utiliser l'IA de manière responsable.
+
+## Idées fausses courantes
+
+- **« Ce sont les connaissances techniques en IA dont les enseignants ont le plus besoin. »** Chez **46 enseignants et 2 832 étudiants**, ce sont les **connaissances pédagogiques en IA des enseignants** qui prédisaient les perceptions des étudiants quant à l'IA au service du bien commun. Les connaissances pédagogiques surpassaient les connaissances techniques, ce qui inverse l'endroit où va l'essentiel de l'investissement en formation.
+- **« La contribution principale de l'IA en éducation est instructionnelle. »** Une **revue PRISMA de 28 études** a constaté que l'IA améliorait le plus souvent la **planification de l'enseignement et la conception de l'évaluation** — sa contribution la plus nette est de **décharger le travail administratif**, non d'enseigner. Un dossier bâti sur des gains instructionnels repose sur la branche la plus faible des données.
+- **« L'enseignement de la littératie en IA se transfère automatiquement à un meilleur enseignement. »** Une méta-analyse à trois niveaux de **59 études (172 tailles d'effet)** a constaté que les **interventions centrées sur les connaissances (g ≈ 0,97)** surpassaient nettement les autres approches pour faire évoluer les connaissances. Faire évoluer les connaissances est le résultat mesuré ; savoir si cela a atteint la pratique est la question suivante.
 
 ## Concepts liés
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

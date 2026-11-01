@@ -1,20 +1,24 @@
 ---
 title: Apprentissage par projets
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-24T10:48:44-04:00"
+updated: "2026-11-01T10:15:45-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-10-13T11:05:00-04:00"
+source_updated: "2026-10-26T06:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -64,6 +68,27 @@ Le PjBL se relie à l'[[active-learning|apprentissage actif]], à l'[[experienti
 ### Le PjBL avec la narration numérique à l'ère de l'IA
 
 - L'apprentissage par projets associé à la [[storytelling-in-education|narration numérique]] offre une réponse pédagogique à l'[[generative-ai|IA générative]] dans la formation artistique et en design. Une étude de cas intégrée de 15 semaines menée auprès de 426 étudiants de premier cycle a mis en œuvre un cadre PjBL-DS dans lequel la narration numérique servait de méthodologie principale permettant aux étudiants de traduire le patrimoine culturel local en récits [[multimodal|multimodaux]] chargés d'émotion, en cultivant les capacités créatives qui font défaut à l'IA.
+
+## Idées fausses courantes
+
+- **« L'effet du PjBL est grand, donc le PjBL avec l'IA est fiablement grand. »** La seule méta-analyse à trois niveaux de ce couplage regroupe **22 études contrôlées (66 tailles d'effet)** et estime un effet important, **g = 0.819, IC à 95% [0.655, 0.983]** — mais une correction PET-PEESE le réduit, et l'estimation décrit les études regroupées plutôt que le dispositif en général.
+- **« Personnaliser l'outil améliore le résultat. »** Le type d'outil modérait significativement l'effet (**QM = 14.301, p < .001**), et la direction est contre-intuitive : un **chatbot généraliste utilisé directement obtenait un effet regroupé plus élevé (g = 0.970)** que des systèmes **personnalisés en plateformes de cours, patients virtuels ou agents (g = 0.455)**. L'outil nu surpassait l'outil ingénierisé, ce qui plaide contre l'idée que des produits conçus sur mesure constituent le meilleur achat.
+- **« Ce que les étudiants trouvent difficile, c'est l'ouverture. »** Dans les données de perception étudiante, **l'ouverture était le premier thème positif (22.3%)** tandis que **des consignes peu claires dominaient les négatifs (23.7%)**. Les étudiants accueillaient la liberté et objectaient à l'ambiguïté — une distinction qui compte parce que le remède est différent : un cadrage de tâche plus clair, non moins de travail ouvert.
+- **« Les étudiants qui ont aimé ont davantage appris. »** L'apprentissage perçu ne corrélait avec les scores de quiz que **modestement (r = 0.161-0.315)**. Satisfaction et apprentissage mesuré sont ici faiblement liés, si bien qu'une évaluation positive du PjBL n'est pas en soi la preuve que les objectifs d'apprentissage ont été atteints.
+
+## Ce que cela signifie pour la pratique
+
+**Pour les enseignants**
+
+- Écrivez le cadrage de la tâche avant le choix de l'outil. L'ouverture était le premier thème positif (22.3%) et des consignes peu claires le premier thème négatif (23.7%), l'ambiguïté étant donc l'endroit où le PjBL avec l'IA échoue réellement.
+- Notez l'apprentissage séparément de la satisfaction. L'apprentissage perçu ne corrélait avec les scores de quiz qu'à r = 0.161-0.315, si bien qu'une cohorte satisfaite n'est pas un résultat mesuré.
+- Envisagez le chatbot généraliste avant la plateforme personnalisée. Un chatbot généraliste utilisé directement obtenait un effet regroupé plus élevé (g = 0.970) que des systèmes personnalisés en plateformes de cours, patients virtuels ou agents (g = 0.455).
+- Traitez g = 0.819 comme une borne supérieure. Une correction PET-PEESE le réduit, et 22 études avec 66 tailles d'effet constituent une base étroite pour une affirmation sur un dispositif.
+
+**Pour les concepteurs**
+
+- Le résultat de modération est un avertissement produit : intégrer un chatbot dans un environnement sur mesure coïncidait avec un effet regroupé *plus faible*. Vérifiez que la personnalisation ajoute de la valeur d'apprentissage plutôt que de la commodité supposée.
+- Si vous livrez un module de PjBL, la couche d'instruction est la fonctionnalité qui gagne le résultat, pas le modèle.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: Évaluation orientée sur le processus
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-24T10:46:40-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-10-16T19:45:37-04:00"
+source_updated: "2026-11-01T09:13:16-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -56,15 +60,23 @@ Un outillage concret émerge : [[stepwise-teacher-diagnosis-math-2026|Kim et col
 
 La documentation exigée s'est révélée faisable à l'échelle d'un cours : sur six semestres de cours asynchrones de six semaines en méthodes de recherche de cycle supérieur servant environ 440 enseignants du primaire et du secondaire, les remises aux points de contrôle ont atteint en moyenne 96 % d'achèvement, et les itérations ultérieures qui ajoutaient des modèles d'invite explicites ont produit des réflexions plus longues et visiblement plus substantielles [[packard-thinking-partner-framework-adult-learners-2026|Packard et coll. (2026)]].
 
+- **« Les preuves de processus exigent un régime d'évaluation spécial. »** Une partie n'est qu'une après-midi d'instrumentation : une étude de **77** étudiants rédigeant des dissertations a utilisé un éditeur CodeMirror journalisant insertions, suppressions, sélections, coupes, copies et collages horodatés, à côté d'un panneau de clavardage maison sur l'API par défaut, et a capté **361** messages. Les mêmes traces ont montré que **14** réponses à des requêtes de planification avaient été collées dans les dissertations finales, ce qu'aucun rapport au niveau du produit n'aurait révélé. La limite honnête est dans l'instrument : les mots tapés comptent comme ceux de l'étudiant même lorsqu'ils sont reformulés à partir d'une réponse, si bien que la frontière entre taper et penser est invisible. [[jelson-students-chatgpt-essay-writing-2026|Journaliser le processus coûte moins cher que de le concevoir]].
+
+**Une trace de processus n'est un retour d'information que si l'apprenant la lit à la lumière de la tâche.** [[xian-process-visualization-feedback-news-translation-2026|Xian et coll. (2026)]] ont donné à onze étudiants en traduction des visualisations Inputlog et d'enregistrement d'écran, plus une seule séance de réflexion de 30 minutes. La part des révisions de niveau sémantique est passée de 18.1% à 28.4% (t(10) = 4.259, p = 0.002) tandis que le total des révisions ne changeait pas significativement, tombant de 1,292.91 à 1,052.36 (p = 0.248). La trace n'a pas fait réviser davantage, seulement autrement, ce qui est l'argument en faveur des preuves de processus en un seul résultat.
+
 ## Un axe différent de l'authenticité, et de la correction
 
 Maintenir les axes distincts importe, car les confondre est la manière dont une refonte semble achevée alors que l'exposition demeure. Sharma (2026) établit la distinction complémentaire entre authenticité et conception orientée vers l'intégrité : l'authenticité demande si une tâche reflète une pratique digne d'intérêt, tandis que la conception orientée vers l'intégrité demande si les apprenants peuvent justifier leurs décisions et assumer la responsabilité qui leur incombe au regard des standards disciplinaires, ce qui explique que les pratiques qu'il propose — pistes de décision annotées, vérification des affirmations issues de l'IA générative, soutenance orale, différences entre brouillons avec historique des versions — soient choisies pour le [[evaluative-judgment|jugement]] qu'elles rendent visible plutôt que pour leur réalisme. La revue décennale d'Espino et Espino (2026) sur la [[business-education|formation en gestion]] parvient à la même conclusion de conception du côté de la littérature, constatant que le domaine converge vers des tâches authentiques et transparentes au processus, qui exigent interprétation, application contextuelle et raffinement itératif, et qu'il traite l'adoption isolée d'outils au sein de structures d'évaluation inchangées comme son échec le plus persistant.
+
+La matrice effacement–visibilité de Salameh (2026) croise la même question de conception avec une seconde variable — la persistance ou l'effacement du [[scaffolding|soutien de l'IA]] — et nomme la combinaison à laquelle la plupart des cours se rangent par défaut : un soutien qui ne s'efface jamais et n'est évalué que par son produit, la dépendance silencieuse ([[salameh-critical-thinking-crisis-higher-ed-review-2026|Salameh, 2026]]).
 
 Le construit se distingue aussi de la question de la manière dont les preuves sont notées. Le raisonnement sur la [[assessment-validity|validité]] est le point où les deux se rencontrent : Brunnström et Palmqvist (2026) soutiennent que lorsqu'un [[conversational-ai|agent conversationnel]] peut produire une réponse d'examen plausible, le produit remis devient un indicateur plus faible de ce que l'étudiant a appris — un problème de validité de l'évaluation plutôt qu'un simple problème d'[[academic-integrity|intégrité]]. C'est la même inférence mise en péril dans l'argument de Yan, Greiff, Lodge et Gašević sur la [[genai-performance-vs-learning|performance opposée à l'apprentissage]], où des [[learning-gains|gains de performance]] qui s'amenuisent une fois l'assistance retirée montrent un gain logé dans l'outil plutôt que chez l'apprenant, et où le remède proposé consiste en des mesures de processus telles que des [[transfer-of-learning|épreuves de rétention et de transfert]] plutôt que la réussite immédiate de la tâche.
 
 ## Pourquoi la détection ne peut pas porter ce fardeau
 
 L'évaluation orientée sur le processus est généralement proposée comme l'alternative à la détection, et les données sur la détection expliquent pourquoi. La littérature sur l'[[ai-detection|détection]] relève des taux d'erreur, une dépendance à la tâche et des [[bias-mitigation|biais]] systématiques contre les rédacteurs non natifs et handicapés, et les travaux les plus récents aboutissent à une conclusion procédurale : le score d'un détecteur peut inciter à un examen plus attentif, mais ne constitue pas un constat. Munoz et collègues (2026) montrent ce que cela coûte dans la pratique. Ayant codé 1 162 allégations de manquements à l'intégrité liés à l'IA générative, ils ont constaté que les types de preuves les plus solides sont produits par l'enquête ou par l'encadrement, que les preuves de processus telles que brouillons, rencontres d'encadrement et exposés n'apparaissent que là où ces pratiques existent déjà — donc, dans une évaluation non repensée, elles sont tout simplement absentes — et que les sorties des détecteurs ont reçu les évaluations probantes les plus faibles de toutes les catégories. La conséquence de conception tient à l'ordonnancement : les preuves de processus doivent exister avant qu'un dossier n'en ait besoin, et le raisonnement de Weidlich (2026) sur l'inférence mise en péril fait le même point du côté de la validité, puisque les tentatives de restaurer la sécurité de l'évaluation par la détection introduisent une variance non pertinente au construit plutôt que des preuves sur l'apprenant.
+
+Les critères de la grille eux-mêmes peuvent être reconstruits autour de la trajectoire. [[rubrics-genai-process-based-assessment-2026|Oviedo et Díaz (2026)]] lisent le modèle 3P de Biggs comme trois dimensions de notation — agentivité et supervision critique, étayage dialogique et souveraineté cognitive — de sorte que c'est la trajectoire qui est notée plutôt que le résultat statique.
 
 ## Les coûts de conception et de charge de travail
 
@@ -75,6 +87,12 @@ Les coûts opérationnels sont détaillés ailleurs. Boysen énumère les nouvel
 ## Ce qui demeure non résolu
 
 Le récit de Thapa et Lewis est conceptuel : ni participants, ni collecte de données, ni essai de mise en œuvre, de sorte que les quatre principes sont argumentés plutôt que testés, et l'article lui-même appelle des travaux empiriques sur l'[[student-experience|expérience étudiante]], la charge de travail des éducateurs et la viabilité à long terme. La faisabilité reste indifférenciée selon les contextes — le transfert aux grands amphithéâtres, aux laboratoires, aux ateliers ou aux stages cliniques n'est pas abordé. Le texte de position de Lane (2026) note le plafond institutionnel : l'évaluation fondée sur le processus est émoussée par les structures de notation et de relevé de notes qui récompensent les artefacts finaux soignés, de sorte qu'une refonte de la seule salle de classe ne change pas l'incitation. La [[educational-measurement|mesure]] est également mince : la revue par Jin et collègues (2026) des instruments de mesure de la [[ai-literacy|littératie en IA]] appelle une évaluation fondée sur la performance et orientée sur le processus ainsi qu'une mesure par traces comportementales du [[prompt-engineering|incitation]] et de la vérification, mais rapporte que les instruments existants s'appuient sur l'[[self-report-measures|auto-déclaration]]. Aucune source ici ne rapporte un [[rct|essai contrôlé]] d'une refonte orientée processus comparée à une refonte orientée produit, ce qui laisse la thèse centrale — selon laquelle les preuves de processus sont à la fois plus difficiles à contrefaire et plus justes à évaluer — argumentée à partir de principes, de récits de praticiens et de données de dossiers plutôt que démontrée à grande échelle.
+
+## Idées fausses courantes
+
+- **« Une note élevée implique que l'étudiant a fait le travail que nous avons conçu. »** Les traces peuvent **diverger franchement des notes** : sur **150 conversations étudiant-IA**, **41% portaient une note de devoir d'exactement 1.00 alors que la participation cognitive observable variait**. La note sature tandis que le processus censé la produire ne sature pas.
+- **« Les données de processus sont ingérables à l'échelle. »** La documentation exigée s'est révélée faisable à l'échelle d'un cours sur **six semestres de cours asynchrones de six semaines en méthodes de recherche de cycle supérieur servant environ 440 enseignants du primaire et du secondaire**. La logistique était soluble ; l'objection exagère le coût.
+- **« La résolution de problèmes est trop holistique pour être évaluée par le processus. »** Elle peut s'opérationnaliser en **quatre étapes et huit sous-compétences diagnostiques**, ce qui permet à un LLM de générer **des questions et des grilles propres à chaque étape** — utilisé avec **cinq enseignants et 64 étudiants**. C'est la décomposition qui a rendu le processus lisible et évaluable.
 
 ## Concepts liés
 - [[pedagogical-patterns]] — Points de contrôle échelonnés et preuves de processus comme séquences conçues
@@ -111,3 +129,7 @@ Le récit de Thapa et Lewis est conceptuel : ni participants, ni collecte de don
 - [[epistemic-ownership-ai-mediated-education-2026]] — Même performance, processus différent : propriété épistémique dans l'éducation médiatisée par l'IA
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise : accompagner les enseignants dans le diagnostic des compétences de résolution de problèmes mathématiques des étudiants par des questions générées par grand modèle de langue
 - [[packard-thinking-partner-framework-adult-learners-2026]] — La documentation des points de contrôle du dialogue avec l'IA a tenu à 96 % d'achèvement sur six semestres et environ 440 enseignants
+- [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — Une revue narrative critique soutenant que l'échec par défaut est un soutien de l'IA qui ne s'efface jamais, apparié à une évaluation par le seul produit (Salameh 2026)
+- [[rubrics-genai-process-based-assessment-2026]] — Trois dimensions de grille issues du modèle 3P de Biggs : agentivité et supervision, étayage dialogique, souveraineté cognitive (Oviedo & Díaz 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Un éditeur CodeMirror doublé d'un panneau de clavardage journalisé a transformé une séance de rédaction en preuve de processus, avec sa limite entre taper et penser (Jelson et coll. 2026)
+- [[xian-process-visualization-feedback-news-translation-2026]] — Des visualisations de processus et une séance de réflexion ont déplacé la révision du niveau de surface au niveau sémantique sans augmenter le volume d'éditions

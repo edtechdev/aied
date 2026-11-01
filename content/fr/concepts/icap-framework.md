@@ -1,7 +1,7 @@
 ---
 title: "Cadre ICAP"
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-10-10T03:05:35-04:00"
+updated: "2026-11-01T10:17:14-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,13 +9,17 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-09-30T08:05:25-04:00"
+source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -67,6 +71,8 @@ ICAP fonde les critiques adressées aux métriques d'« engagement » superficie
 
 Bien qu'ICAP décrive une hiérarchie, le déplacement le plus lourd de conséquences pour l'apprentissage est le saut des modes *Actif* à *Constructif* (Chi & Boucher, 2023). L'engagement actif (appliquer des connaissances à des scénarios similaires mais non identiques) prépare les apprenants, mais c'est l'engagement constructif — produire des explications, des résumés ou de nouveaux artefacts — qui les rend capables de créer de nouvelles connaissances. C'est là l'enjeu crucial pour l'IA en éducation : un outil qui maintient les apprenants dans le mode Actif (par exemple cliquer à travers des exercices adaptatifs) peut sembler productif, mais ne les pousse jamais vers la génération constructive qui produit une compréhension durable. Les interventions collaboratives et axées sur la littératie qui étayent délibérément le saut Actif→Constructif tendent à montrer les gains les plus forts.([[hingle-collaborative-ai-literacy-2025]])
 
+La partie « gains les plus forts » de cette affirmation est une inférence tirée du cadre plutôt qu'une comparaison menée par la revue. La revue de neuf études qui la sous-tend (2015–2023) compte combien d'interventions *incluaient* chaque mode (9 passives, 5 actives, 7 constructives, 8 interactives), ne rapporte aucune taille d'effet par mode et note qu'aucune étude incluse ne reposait sur un mode unique, de sorte que rien n'y isole le saut Actif→Constructif ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). L'ordonnancement est celui de Chi ; ce que la revue ajoute, c'est que les praticiens combinent les modes plutôt qu'ils n'en choisissent un.
+
 ### ICAP comme signal d'étayage adaptatif dans les tuteurs intelligents
 
 Les modes d'ICAP peuvent être opérationnalisés comme des *états cibles* parmi lesquels un tuteur adaptatif choisit pour étayer l'engagement cognitif, sur la base d'un modèle d'étudiant évolutif. Dans un tuteur intelligent fondé sur la logique, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] choisissaient dynamiquement entre un mode d'exemple résolu « Guidé » *Actif* et un mode d'exemple « Buggy » *Constructif*. En comparant le traçage bayésien des connaissances (BKT) à l'apprentissage profond par renforcement (DRL) et à une référence non adaptative sur 113 étudiants, les deux politiques adaptatives amélioraient la performance au post-test — mais de manière différenciée : le BKT donnait les gains les plus importants aux étudiants à connaissances antérieures faibles (les aidant à rattraper leur retard), tandis que le DRL produisait les scores de post-test les plus élevés parmi les étudiants à connaissances antérieures fortes. Cela démontre concrètement que *personnaliser* efficacement le mode ICAP d'un tuteur intelligent dépend de la modélisation des connaissances actuelles de l'apprenant — et qu'aucun mode unique ni aucune méthode adaptative unique ne convient à chaque apprenant. Cela relie directement la hiérarchie ICAP à la conception de l'[[adaptive-learning]] et du [[knowledge-tracing]].
@@ -85,6 +91,16 @@ L'accent mis par ICAP sur l'engagement génératif et processuel a été repris 
 2. **Engager les apprenants dans l'ensemble des modes.** Un enseignement efficace de la [[ai-literacy|littératie en IA]] engage les apprenants à plusieurs niveaux d'ICAP — exposition passive, manipulation active, génération constructive et dialogue interactif — en sélectionnant le mode qui correspond à l'objectif d'apprentissage.([[hingle-collaborative-ai-literacy-2025]])
 3. **Mesurer l'engagement honnêtement.** ICAP donne aux chercheurs et aux concepteurs un vocabulaire commun pour distinguer le réel engagement cognitif de la simple activité — un correctif à la notion superficielle d'[[student-engagement]].([[icap-cognitive-engagement-llm-agents]])
 4. **Surveiller l'écart d'annotation entre humains et LLM.** Si des systèmes automatisés sont utilisés pour coder l'engagement, leur déficit systématique par rapport à des humains entraînés doit être pris en compte.([[icap-cognitive-engagement-llm-agents]])
+
+## Idées fausses courantes
+
+**« ICAP est une taxonomie pour étiqueter des activités. »** C'est une lentille de conception et d'évaluation assortie d'une thèse d'ordonnancement : les engagements passif, actif, constructif et interactif diffèrent par l'apprentissage qu'ils produisent, si bien que « construire des outils qui suscitent un engagement constructif et interactif plutôt qu'une consommation passive » est une cible de conception, et non un exercice de classification. Étiqueter une leçon d'un mode sans changer ce que font les étudiants n'applique pas le cadre.
+
+**« Le temps passé sur la tâche ou le volume d'interaction indexe le niveau d'engagement. »** Le volume compte l'activité, pas le mode. Défiler est actif et passif en des sens différents à la fois, et un étudiant qui génère beaucoup de clics peut encore recevoir plutôt que construire. La valeur du cadre est précisément de distinguer des espèces d'engagement que les mesures d'activité confondent.
+
+**« Un tuteur IA produit automatiquement un engagement interactif parce qu'il converse. »** La conversation est le médium, pas le mode. Un dialogue où le système fournit toute contribution substantielle est passif pour l'apprenant qui porte une interface interactive, ce qui est la même confusion que la [[student-engagement|littérature sur l'engagement]] documente entre activité comportementale et investissement cognitif.
+
+**« Les modes ICAP supérieurs sont toujours meilleurs. »** Ils coûtent plus cher, et l'ordonnancement porte sur l'apprentissage par unité de traitement concerné plutôt que sur ce qu'une leçon devrait toujours viser. Une fluidité de base peut exiger une répétition active avant qu'un travail constructif soit possible ; l'erreur est de s'y installer, non d'y passer.
 
 ## Concepts liés
 

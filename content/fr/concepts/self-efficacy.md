@@ -1,7 +1,7 @@
 ---
 title: "Le sentiment d'efficacité personnelle"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-11-01T10:14:28-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-efficacy
-source_updated: "2026-10-28T01:06:31-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -72,6 +76,20 @@ Le sentiment d'efficacité personnelle se rattache à la [[motivation|motivation
 - **Les tâches de conception par IA ouvertes trient les étudiants selon la confiance préexistante.** [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et coll. (2026)]] ont constaté que l'estime de soi de performance était corrélée à l'extraversion (r = 0,262, p < 0,001) dans un cours où 345 étudiants ont chacun construit un agent conversationnel pour enseigner à un pair, et que les étudiantes rapportaient une estime de soi significativement plus faible que leurs pairs masculins (Kruskal-Wallis H(2) = 9,87, p < ,005). L'inférence de conception que les auteurs en tirent : les tâches créatives conversationnelles ouvertes avantagent ceux qui sont déjà confiants, si bien que « les tâches de conception ouvertes [devraient] inclure un étayage suffisant pour bâtir équitablement l'estime de soi de performance pour tous les types de personnalité » — une mise en garde selon laquelle les devoirs de création d'artefacts par les étudiants peuvent élargir, et non combler, les écarts de confiance si l'étayage n'est pas délibéré.
 - **Le sentiment d'efficacité personnelle interagit avec la préférence de format, pas seulement avec les résultats.** Une étude intra-sujet contrebalancée (97 élèves de neuvième année ; pratique appariée par le contenu sur tuteur vs sur papier pour l'interprétation et la construction de graphiques) a montré que la pratique sur tuteur battait le papier dans l'ensemble (t(62,30) = 2,38, p = ,020) et que — contre-intuitivement — un sentiment d'efficacité personnelle de départ plus faible prédisait des gains *plus grands* dans les deux formats (t(98,40) = −2,14, p = ,035). La structure intéressante est une interaction triple significative sentiment d'efficacité personnelle × favorabilité × format (t(99,84) = −2,58, p = ,011) : parmi les étudiants à faible sentiment d'efficacité personnelle, la favorabilité envers le tuteur prédit des gains plus grands *spécifiquement dans la pratique sur tuteur*. Un nul décevant pour l'hypothèse que la pratique sur tuteur se renforce d'elle-même sur le plan motivationnel : la pratique sur système de tutorat intelligent n'a pas significativement amélioré le sentiment d'efficacité personnelle après la formation par rapport au papier — attribuée à la brièveté de l'intervention (deux séances d'environ 40 minutes). Le signal pratique : le sentiment d'efficacité personnelle de départ et la favorabilité technologique sont des entrées peu coûteuses et actionnables pour l'attribution du format ; la pratique sur tuteur capitalise sur la favorabilité existante plutôt qu'elle ne la crée. ([[cen-self-efficacy-favorability-2026|Cen et coll. 2026]])
 
+- **La connaissance a atteint l'intention par la confiance, l'anxiété et le sentiment d'efficacité personnelle.** Dans un modèle PLS-SEM portant sur 526 étudiants en design, la connaissance perçue des contenus générés par IA était associée positivement à la confiance, au sentiment d'efficacité personnelle et à l'intention d'usage, et négativement à l'anxiété, et la confiance, l'anxiété et le sentiment d'efficacité personnelle portaient chacune un chemin indirect significatif de la connaissance à l'intention ([[wei-perceived-technological-dependence-genai-2026|Wei et coll., 2026]]). L'anxiété se situait sur le chemin plutôt que de le bloquer.
+
+- **« Une faible confiance en écriture se manifeste par une demande d'aide. »** Elle se manifeste par une demande de texte. Dans une étude d'essais instrumentée, l'échelle du sentiment d'efficacité personnelle en écriture prédisait négativement le nombre total de requêtes (**-0.258**, ET **0.075**, p < 0.001), et l'association passait par la Traduction (**-0.949**) et la Révision (**-0.588**) plutôt que par la Planification (**-0.204**) ou la délégation de l'essai entier (**-0.016**). Les étudiants qui doutaient de leur écriture demandaient au modèle de produire et de corriger du texte ; ils ne lui demandaient pas quoi argumenter. [[jelson-students-chatgpt-essay-writing-2026|Le sentiment d'efficacité personnelle prédisait la dépendance, et cette dépendance prenait une forme précise]].
+
+
+**La confiance ne protège pas un apprenant d'une confiance excessive envers un outil.** Chez 300 étudiants universitaires, [[kim-overtrust-ai-literacy-2026|Kim, Kim et Zhang (2026)]] ont trouvé le sentiment d'efficacité personnelle académique associé à la surconfiance envers l'IA (r = 0.230) et le prédisant à B = 0.3901 (IC à 95% [0.2190, 0.5612]) dans un modèle de médiation sérielle, ce qui inverse l'hypothèse des auteurs. La version productive de la confiance est la confiance dans son propre jugement, et c'est précisément ce que dit manquer un score élevé de surconfiance.
+
+## Idées fausses courantes
+
+- **« Les étudiants qui manquent de confiance évitent l'IA. »** Le schéma inverse apparaît : dans un **cours de preuves mathématiques comptant 153 étudiants**, un point de plus au sentiment d'efficacité personnelle initial prédisait **39% de messages au chatbot en moins**. La faible confiance se dirigeait vers un usage **plus lourd** de l'IA — les étudiants ayant le plus besoin de pratique étaient les plus susceptibles de la déléguer.
+- **« Un usage accru de l'IA avec une faible confiance est une stratégie d'adaptation inoffensive. »** Le même résultat relie cette orientation à des **scores plus bas**, si bien que le schéma d'adaptation a un coût mesurable plutôt que d'être un choix neutre.
+- **« La littératie suffit à construire la confiance. »** [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] a interrogé **450 étudiants universitaires** qui utilisent déjà ChatGPT et trouve **la confiance comme pivot entre littératie et confiance en soi**. Le chemin passe par la confiance, si bien qu'élever la littératie sans traiter la confiance laisse le mécanisme intact.
+- **« Les profils de sentiment d'efficacité personnelle sont uniformes dans une population en situation de handicap. »** Une analyse de profils latents portant sur **102 étudiants universitaires ayant des déficiences motrices** en Espagne a trouvé **trois profils**, le groupe faible représentant **29,4%** et le reste se répartissant entre profils modérés et plus élevés. Traiter le groupe comme une seule population revient à moyenner des états motivationnels distincts.
+
 ## Concepts liés
 
 - [[learners]] — Les apprenants : le parapluie des concepts du côté de l'apprenant
@@ -110,3 +128,5 @@ Le sentiment d'efficacité personnelle se rattache à la [[motivation|motivation
 - [[ai-speaking-practice-communicative-readiness-2026]] — Le sentiment d'efficacité personnelle à l'oral inverse l'itinéraire de l'anxiété de la pratique assistée par IA à la volonté
 - [[faculty-ai-well-being-social-supports-2026]] — Modèle par équations structurelles sur le corps professoral : le sentiment d'efficacité personnelle technologique, faible prédicteur du bien-être face à l'IA
 - [[cen-self-efficacy-favorability-2026]] — Le sentiment d'efficacité personnelle et la favorabilité façonnent l'apprentissage issu des systèmes de tutorat et de la pratique sur papier (Cen et coll. 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — L'échelle du sentiment d'efficacité personnelle en écriture prédisait davantage de requêtes de Traduction et de Révision, et pas plus de Planification ni de délégation de l'essai entier (Jelson et coll. 2026)
+- [[kim-overtrust-ai-literacy-2026]] - le sentiment d'efficacité personnelle académique prédisait une surconfiance envers l'IA plus élevée plutôt que plus faible

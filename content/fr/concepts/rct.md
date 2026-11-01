@@ -1,7 +1,7 @@
 ---
 title: ECR (essai contrôlé randomisé)
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:45:59-04:00"
+updated: "2026-11-01T10:14:57-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-10-24T09:56:38-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,7 @@ La randomisation est ce qui distingue un ECR des autres dispositifs : en répart
 
 - **Un essai conçu pour l'équivalence, et non pour la différence.** [[studentbench-ai-human-tutoring-gre-2026|Northcutt et coll. (2026)]] ont réparti au hasard 2 383 adultes entre tutorat par IA, tutorat humain en direct ou un témoin vidéo, ont rédigé de nouveaux items de GRE avec d'anciens concepteurs d'épreuves de l'ETS et de Kaplan pour écarter la contamination par des tests publiés, ont contrebalancé les deux formes et ont testé l'équivalence par deux tests unilatéraux contre ±0,25 écart-type plutôt que la différence — les choix de dispositif qui font qu'un « aucune différence significative » devient un résultat interprétable.
 - **Randomisation par groupe, faible adoption, et ce que signifie alors une estimation en intention de traiter.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et coll. (2026)]] ont randomisé 2 379 étudiants de premier cycle répartis en 13 blocs en affectant les *enseignants* plutôt que les étudiants, de sorte que chaque étudiant d'une section héritait de la condition de son enseignant — le dispositif qui rend faisable un essai de déploiement multi-sections, et celui qui crée les problèmes d'inférence que l'étude documente ensuite. Seuls environ 15% des étudiants des sections traitées ont un jour utilisé l'outil, de sorte que les effets rapportés estiment l'*offre* d'accès plutôt que son usage ; les auteurs lisent l'intervention comme l'usage plus large de l'IA que son introduction a induit, et traitent les sessions individuelles comme une question distincte. Parce que le traitement était affecté au niveau de l'enseignant, l'inférence repose sur 34 grappes — un cadre dans lequel des erreurs-types robustes en grappes exagèrent la précision — de sorte que l'article rend compte d'une inférence par randomisation en regard de celles-ci et conclut que ses résultats sont robustes. Les deux effets phares — une chute de 0,37 écart-type des notes finales dans l'échantillon à correspondance exacte et une chute de 0,90 écart-type de la participation enregistrée sur la plateforme dans les deux échantillons — sont des conséquences au niveau de la section qu'une randomisation par étudiant du même outil n'aurait pas pu isoler sans contamination entre camarades traités et témoins.
+
 - **Un outil scolaire facultatif peut tout de même déplacer la charge de travail à 7 % de dose.** [[roy-aila-lesson-planning-teacher-choices-2026|Roy et coll. (2026)]] ont randomisé 464 enseignants dans 108 écoles primaires anglaises au niveau de l'école. Le temps de préparation s'est établi à 0,76 celui du groupe de comparaison (IC à 95 % de 0,64 à 0,89), alors même que l'outil couvrait 7 % des leçons et que l'usage a décliné au fil des dix semaines ; l'estimation borne donc ce que le fait de le proposer a produit sur la charge de travail, et non ce que ferait une adoption complète.
 - **L'adoption borne ce qu'un essai peut tester, et le soutien à l'engagement n'est pas un dosage.** [[access-not-enough-ai-tutoring-2026|Robinson et coll. (2026)]] ont mené deux ECR sur une plateforme de lecture dans lesquels seuls 60,7% et 53,3% des étudiants témoins ont un jour utilisé la plateforme ; un tuteur d'engagement a augmenté de 71 à 80% le nombre d'histoires lues sans produire de gain de réussite, ce qui correspond aux 2 à 5 minutes par semaine atteintes.
 - **Une échelle qui convertit les résultats nuls en preuves.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et coll. (2026)]] ont suivi 8 708 étudiants sur huit semestres avec une puissance permettant de détecter des effets de 0,05 écart-type et ont trouvé des mouvements importants et immédiats sur des tâches binaires datées — 34 points de pourcentage d'inscriptions supplémentaires avant le 16 août après un unique rappel — tandis que la performance académique, la persévérance et l'obtention du diplôme ne montraient aucun effet détectable. L'échelle est la leçon de conception : à cet N, les résultats nuls académiques sont des résultats précis plutôt que des échecs de détection, ce qui autorise la conclusion qu'un outil de communication influe sur ce qu'il peut adresser et non sur des résultats d'apprentissage cumulatifs.
@@ -59,6 +64,12 @@ La randomisation est ce qui distingue un ECR des autres dispositifs : en répart
 - **Limites :** coûteux et lent ; des cadres artificiels peuvent réduire la validité écologique ; les outils d'IA évoluent plus vite que les essais ne peuvent être menés ; de petits échantillons sous-dimensionnent souvent la détection d'effets significatifs ; des contraintes éthiques pèsent sur le fait de priver un groupe témoin d'une IA potentiellement bénéfique. Deux de ces limites changent de forme lorsque l'affectation est en grappes : l'échantillon effectif devient le nombre de *grappes* plutôt que le nombre d'étudiants, de sorte qu'un essai peut être grand en effectif et mince selon cette mesure — les 2 379 étudiants de Liu et coll. reposent sur 34 grappes au niveau de l'enseignant — et lorsque l'adoption est volontaire et faible, une estimation en intention de traiter répond à la question de savoir si l'offre de l'outil a changé les résultats, et non à celle de savoir si son usage l'a fait.
 
 Pour un traitement plus complet du dispositif expérimental dans l'IA éducative — y compris sur les cas où un ECR convient plutôt qu'un dispositif quasi expérimental, par enquête ou computationnel — voir [[research-methods-aied]].
+
+## Idées fausses courantes
+
+- **« La randomisation garantit une estimation valide de ce que fait l'outil. »** La randomisation équilibre les facteurs de confusion ; elle ne garantit pas que quelqu'un ait utilisé le traitement. Un essai randomisé par groupe à faible taux d'usage estime **l'effet de l'offre** de l'outil, et l'intention de traiter et l'effet sur les traités répondent à des questions différentes.
+- **« Un grand essai est toujours le meilleur dispositif. »** Certains soutiennent que les essais conventionnels à grande échelle **ne peuvent pas suivre le rythme des plateformes de tutorat qui changent matériellement pendant une étude**, et recourent plutôt à des dispositifs pilotés par les enseignants qui restent valides à mesure que le système évolue. Un essai portant sur une cible mouvante peut être bien doté en puissance et mesurer néanmoins un système qui n'existe plus.
+- **« Les essais randomisés et les preuves observationnelles sont substituables. »** Un essai randomisé portant sur **1 174 participants** a constaté que l'IA générative **comblait environ trois quarts d'un écart de productivité lié à l'éducation** — une affirmation causale précise sur une période donnée. L'observation explique le mécanisme et l'adoption ; elle ne peut porter cette estimation, et l'essai ne peut en expliquer la raison.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du design"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-10-24T10:43:44-04:00"
+updated: "2026-11-01T10:17:20-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,13 +12,17 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,7 @@ Il se distingue aussi du [[design-thinking]], une méthode de résolution de pro
 - **Un processus structuré garde la paternité du travail du côté des étudiants, à l'échelle.** [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] ont étudié un projet de synthèse en narration de 15 semaines, dans lequel 426 étudiants de premier cycle et 48 mentors (environ 1:9) ont transformé un patrimoine local en récits [[multimodal]]. Les évaluations expertes des 92 travaux étaient les plus fortes sur la nouveauté (M = 4.21) et les plus faibles sur la complétude (M = 3.68) — les idées venaient plus facilement que l'intégration. Les scores de pensée créative dans un sous-groupe de 31 étudiants sont passés de 77.23 à 94.68 (d = 0.82). L'IA organisait l'information et éditait ; les étudiants conservaient le choix du sujet, l'interprétation et les décisions finales, et 31 travaux ont été adoptés par un Bureau régional de la culture et du tourisme.
 - **L'adoption est fréquente, inégale selon les étapes du processus, et empreinte de méfiance.** [[genai-usage-design-students-survey|Broadbent et al. (2026)]] ont enquêté sur 280 étudiants en design du Politecnico di Milano et lu 100 journaux d'usage de l'IA tenus par des étudiants de master : 71% utilisaient l'IA générative quotidiennement ou hebdomadairement, 65% s'en méfiaient, 85% en modifiaient la production. L'usage se concentrait dans la recherche et l'écriture — révision de textes 77.5%, recherche d'information 74.5%, remue-méninges 68.0% — l'usage pour un devoir entier restant rare (18.6%). La paternité a largement survécu : 31% ont déclaré une perte de paternité ou d'autonomie créative, et seule la génération de prototypes y était significativement associée. La planification et l'interprétation de la recherche primaire sont restées du côté des étudiants, ce que les auteurs lisent comme une indication que les étudiants ne comptent peut-être pas la recherche comme partie du processus créatif.
 - **L'effet net est une divergence plutôt qu'une élévation.** [[ai-mediated-cognitive-divergence-2026|Crolla, Xia & Jiang (2026)]] se sont appuyés sur 24 entretiens et une enquête menée auprès de 32 enseignants dans une faculté de l'environnement bâti pour décrire une *divergence cognitive* : l'IA amplifie les différences préexistantes, laissant les étudiants plus forts prolonger leur raisonnement tandis que les plus faibles délèguent le travail formatif et produisent des résultats cohérents sans les comprendre — un « faux sentiment de capacité » qui s'effondre sous le questionnement. La perte de visibilité du processus, dans un champ qui s'appuyait sur le processus visible comme preuve principale de l'apprentissage, et l'érosion des étapes de friction qui agissent comme [[desirable-difficulties]] la renforcent. La positivité des enseignants suivait la pertinence pédagogique (β = 0.534, p = .004), et non l'ancienneté, et les mesures d'atténuation adoptées par la faculté ne passent pas à l'échelle au-delà de cohortes de la taille d'un atelier — ce qui plaide pour des exigences institutionnalisées en matière de traces de processus. Limites : une seule institution, n = 32, perception des enseignants.
+- **La conscience de la perturbation n'est pas simplement démoralisante.** Chez 568 étudiants chinois en design, la conscience que l'IA peut remplacer certaines parties du travail de design était positivement associée à la compétence d'innovation auto-évaluée (β = 0.375), par une voie de focalisation sur la promotion de 0.0929 et une voie de focalisation sur la prévention de -0.0884 qui s'annulaient presque ([[wang-ai-disruption-design-innovation-competence-2026|Wang et coll. (2026)]]). Toutes les mesures provenaient d'une seule vague auto-déclarée.
 - **Les disciplines diffèrent quant aux comportements qui paient.** [[same-ai-different-pathways|Shen (2026)]] a comparé 221 étudiants en design à 222 étudiants en gestion et a montré que l'[[ai-literacy]] prédisait à la fois la maîtrise de la formulation d'invites et le comportement de vérification (p < .001). La vérification prédisait directement la qualité de la tâche dans la cohorte design, l'exactitude de la calibration dans celle de gestion — idéation ouverte contre normes analytiques de type audit — et la vérification fonctionnait comme une garantie métacognitive contre le [[cognitive-offloading|délestage cognitif]].
 - **Le jugement d'atelier peut être approché lorsqu'une grille de critères fait office de médiation.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] ont porté l'accord LLM-humain sur 80 posters de design de 54.75% à 81.25% en affinant itérativement les descripteurs de la grille ; les invites formulées du point de vue de l'enseignant, de l'évaluateur par les pairs et de l'évaluateur de subventions produisaient des rétroactions épistémiquement différentes sur un même travail. Les auteurs traitent la grille comme une interface révisable entre l'intention pédagogique et l'inférence de la machine, conservant la [[human-in-the-loop-ai|supervision humaine]] contre les justifications hallucinées.
 - **Les étudiants négocient avec les outils plutôt que de simplement les accepter.** [[t2i-competence-paradox-2026|Liu, Meng & Zhang (2026)]] ont enquêté sur 417 étudiants en art et en design : l'attente de performance, l'influence sociale, la valeur de nouveauté et la compétence créative prédisaient l'intention d'utiliser les outils texte-vers-image, tandis que l'attente d'effort prédisait négativement, lecture faite d'un usage de travaux orienté vers le raccourci. Leur paradoxe de la compétence tient à ce que la compétence créative soutient l'intention tout en prédisant un usage plus sélectif, les étudiants pesant la paternité de l'œuvre et la préservation des compétences — un problème d'[[assessment-validity]] dans un atelier où le processus est l'objet évalué. [[rana-genai-design-thinking-2025|Rana et al. (2025)]] sont parvenus à une conclusion compatible à partir de 112 réflexions rédigées dans un cours de [[design-thinking]] de 12 semaines : les bénéfices dominaient (86% de sentiment positif), les préoccupations éthiques expliquaient 62% du sentiment négatif, et une intégration étayée faisait passer les étudiants du scepticisme à une orientation positive à 72%.
@@ -57,6 +62,13 @@ Il se distingue aussi du [[design-thinking]], une méthode de résolution de pro
 ## Formation professionnelle et réglementation
 
 Les problèmes d'évaluation sont ici inséparables des problèmes professionnels. [[ai-interior-design-malaysia-2026|Syed Abdul Rahman (2026)]] décrit des designers d'intérieur malaisiens passant du statut de générateurs de formes principaux à celui de médiateurs critiques et de curateurs de la production des machines, les plateformes de [[visualization]] comprimant les échéances tandis que les schémas générés continuent de manquer de spécificité culturelle, de sensibilité climatique et de constructibilité fiable. Sa recommandation pour les programmes est un séquencement plutôt qu'une substitution — CAO/BIM, connaissances constructives et facteurs humains avant l'exploration générative, et des critères récompensant la [[critical-thinking|pensée critique]] et la réflexion éthique. Le versant professionnel reste irrésolu : la réglementation du design d'intérieur est moins formalisée que celle de l'architecture, laissant ouvertes les questions de la divulgation, de la responsabilité en cas d'erreur algorithmique et de la perte de compétences chez les praticiens en début de carrière. L'analyse est documentaire et limitée à un seul pays.
+
+## Idées fausses courantes
+
+- **« L'IA dans un atelier de design est surtout une aide à l'écriture. »** Une enquête auprès de **280 étudiants en design du Politecnico di Milano** et de **100 journaux de master sur l'usage de l'IA** a trouvé un usage concentré sur la recherche et l'écriture — **révision de textes 77,5 %, recherche d'informations 74,5 %, remue-méninges 68,0 %** — l'usage sur un devoir entier restant **rare, à 18,6 %**. Le schéma est une augmentation de parties, non un remplacement du tout, et les chiffres montrent où se situe la pratique réelle.
+- **« Les étudiants en design sont des adoptants enthousiastes. »** La même cohorte montre **71 % utilisant l'IAG quotidiennement ou chaque semaine, 65 % s'en méfiant et 85 % modifiant ses productions**. Usage fréquent et faible confiance coexistent, si bien qu'un outil dont la proposition de valeur présuppose la confiance a mal lu ses utilisateurs.
+- **« L'IAG est généralement utile tout au long du processus de design. »** La plateforme GAI-A construite au fil d'une étude longitudinale d'atelier n'a trouvé que **deux usages productifs** : l'IAG comme stimulus visuel dans l'idéation précoce, et comme **élargisseur combinatoire de l'espace des solutions pendant le développement**. L'utilité dépendait de la phase.
+- **« Les gains de créativité sont trop diffus pour être mesurés. »** Dans un **sous-groupe de 31 étudiants**, les scores de pensée créative sont passés de **77,23 à 94,68 (d = 0.82)**. Le gain est mesurable et il est borné à un sous-groupe, ce qui est la forme honnête de l'affirmation.
 
 ## Concepts liés
 
@@ -97,3 +109,5 @@ Les problèmes d'évaluation sont ici inséparables des problèmes professionnel
 - [[critsly-design-education-ai-critique-2026]] — Critsly/StudioCrit : espace de travail de critique par l'IA, sensible à l'artefact, pour la rétroaction d'atelier ; étude de préparation fondée sur la simulation, et non gains d'apprentissage
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Une expérience en design architectural où un flux de travail DALL-E 3 a abaissé l'auto-efficacité créative générale
 - [[human-ai-collaboration-design-education-rubric-2026]] — Une grille de processus peut faire de la vérification par l'IA l'objet évalué
+
+- [[wang-ai-disruption-design-innovation-competence-2026]] — Conscience de la perturbation technologique par l'IA, état d'esprit de design thinking et compétence d'innovation en design chez les étudiants en design

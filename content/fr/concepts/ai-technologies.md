@@ -1,19 +1,23 @@
 ---
 title: "Technologies de l'IA"
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-11-01T10:14:43-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-10-02T07:32:07-04:00"
+source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,16 @@ Le fil technique est inséparable des autres thèmes de la base de connaissances
 - **Choisir la technologie selon l'intention pédagogique :** le système et la technique d'IA devraient suivre la [[pedagogy|stratégie d'enseignement]], et non l'inverse.
 - **Évaluer la couche technique :** la recherche sur l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et les [[benchmark|repères de référence]] évalue les systèmes d'IA sur la fiabilité, la pédagogie et l'[[equity-in-ai-education|équité]], et pas seulement sur l'exactitude phare.
 - **Les robots et les agents font partie de la pile :** les systèmes [[educational-robotics|incarnés]] et [[agentic-ai|agentiques]] étendent le répertoire technique au-delà du texte — et apportent leurs propres considérations de conception et de sécurité.
+
+## Idées fausses courantes
+
+**« Le modèle est toute l'histoire. »** Des techniques comme la génération augmentée par récupération et la rédaction d'invites existent précisément pour contrôler et ancrer la production d'un LLM, et l'architecture autour du modèle détermine souvent s'il est utilisable dans une classe. Deux systèmes bâtis sur le même modèle peuvent différer entièrement en fiabilité à cause de ce qui les entoure.
+
+**« La maturité technique du champ est établie. »** La cartographie est mince là où cela compte : sur **474 études**, les modèles de la série GPT et LangChain dominaient tandis que **l'orchestration d'outils gouvernée, la mémoire persistante et la planification à long horizon étaient largement absentes**, et seulement **138 des 474 (29%)** puisaient dans la théorie éducative. La pile utilisée est bien plus étroite que celle dont le champ a besoin.
+
+**« Les choix techniques relèvent du technologue, pas de l'éducateur. »** Le cadrage de cette page est que l'on peut être un excellent éducateur sans savoir construire un LLM et que ses choix techniques façonnent néanmoins ce que l'IA peut ou ne peut pas faire dans sa classe. Qu'un système ancre ses réponses dans le matériel du cours est une décision aux conséquences pédagogiques que quelqu'un doit prendre.
+
+**« Un modèle plus capable résoudra les lacunes du champ. »** L'orchestration, la mémoire et la planification à long horizon sont des problèmes d'architecture plutôt que de capacité — l'absence documentée porte sur des systèmes qui gouvernent leur propre usage d'outils dans le temps, ce qu'un meilleur modèle n'apporte pas de lui-même.
 
 ## Concepts liés
 

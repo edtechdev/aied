@@ -1,14 +1,14 @@
 ---
 title: "La fracture numérique"
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-10-24T10:46:40-04:00"
+updated: "2026-11-01T10:15:42-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-10-14T14:35:00-04:00"
+source_updated: "2026-10-28T09:45:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -76,9 +80,32 @@ L'enseignement scolaire structuré de l'IA est un catalyseur psychologique mais 
 
 - **Un laboratoire simulé peut reproduire la facture d'équipement qu'il visait à éviter.** Une [[meta-analysis-systematic-review|revue systématique]] de 11 études de jumeaux numériques dans l'enseignement supérieur en STIM a trouvé des coûts matériels de 2000 à 15 000 dollars par nœud de poste de travail fonctionnel dans quatre études, avec des entités physiques plafonnant l'accès à 1-3 étudiants simultanés dans cinq, et aucune étude incluse n'a produit d'analyse de retour sur investissement ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-Gonzalez et al. (2026)]]). La revue compare ce coût d'entrée à celui de bancs d'essai physique de caractérisation allant de 30 000 dollars à plus de 150 000 dollars.
 
+- **Cette fracture est peut-être moins profonde que celle de l'internet.** En appariant l'usage d'IA générative de 2025 de chaque pays à l'année internet où l'usage global était comparable, l'écart éducatif était plus faible dans 13 des 16 pays appariables sur 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
+
 ### Connexions aux concepts associés
 
 La fracture numérique est une préoccupation centrale de la recherche sur l'[[equity-in-ai-education|équité en IA]], étroitement liée à l'[[ai-literacy]] (positionnée comme un mécanisme central pour traiter les barrières structurelles), à l'[[ethics|éthique]] et à l'[[bias-mitigation|atténuation des biais]] (puisque le biais algorithmique affecte de manière disproportionnée les groupes marginalisés). Elle se rattache à l'[[ai-education|IA en éducation]] et à l'[[higher-ed|enseignement supérieur]] comme cadres où se manifestent les écarts d'accès et de capacité, et se rapporte à l'[[student-experience|expérience étudiante]] en ce qu'elle détermine qui peut participer de manière significative à un apprentissage façonné par l'IA.
+
+## Idées fausses courantes
+
+- **« L'accès à l'outil, c'est la fracture. »** L'accès est la première couche et la littérature l'a dépassée. **La compétence de formulation constitue sa propre fracture de second niveau** : sur MedQA, l'exactitude augmentait avec la sophistication de la consigne, de **82,4 % pour une formulation de faible littératie à 83,4 % pour une formulation experte**, ce qui signifie que deux étudiants disposant du même accès obtiennent une qualité différente du même modèle parce que l'un sait comment demander. Une couche de réécriture de consignes réduisait l'écart — la fracture est dans l'interface et dans la fluidité de l'utilisateur, pas seulement dans l'abonnement.
+- **« Si cela tourne dans un navigateur, c'est disponible. »** La plupart des outils de cours fondés sur un LLM présupposent un **audio en anglais monolingue et un internet fiable**, ce qui exclut précisément les classes qui mélangent l'anglais et une langue familiale. Les données UDISE+ de l'Inde situent l'accès internet des écoles bien en dessous du niveau que ce présupposé exige. Un outil bâti sur une infrastructure présupposée exclut silencieusement les contextes où le besoin est le plus fort.
+- **« La littératie numérique et l'usage de l'IA sont la même variable médiatrice. »** Une étude portant sur **4 497 élèves de 6e année** aux Pays-Bas a séparé **deux voies médiatrices distinctes** — l'usage de l'IA et la littératie numérique — reliant l'origine sociale et la personnalité aux gains d'apprentissage. Elles ne sont pas interchangeables, et les interventions qui augmentent l'une n'augmentent pas automatiquement l'autre.
+- **« Les simulations suppriment la barrière du coût. »** Une revue systématique de **11 études de jumeaux numériques** dans l'enseignement supérieur en STIM a trouvé des coûts matériels de **2 000 à 15 000 dollars** par installation. Un laboratoire simulé peut reproduire la facture d'équipement qu'il visait à éviter, si bien que l'argument du coût en faveur de l'offre virtuelle doit être vérifié plutôt que présumé.
+
+## Ce que cela implique pour la pratique
+
+**Pour les enseignants**
+
+- Enseignez la formulation de consignes comme une littératie, non comme une astuce facultative. Un écart d'exactitude de 1 point entre une formulation de faible littératie et une formulation experte est faible en soi, mais le même mécanisme s'accumule à chaque tâche qu'un étudiant aborde.
+- Vérifiez les présupposés de langue et de connectivité de tout outil avant de le prescrire. Un audio en anglais monolingue exclut les classes bilingues indépendamment de l'accès aux appareils.
+- Distinguez la voie que vous traitez réellement. Augmenter l'usage de l'IA et augmenter la littératie numérique sont des interventions différentes aux résultats différents.
+
+**Pour les administrateurs et les développeurs**
+
+- Ne traitez pas la distribution d'appareils comme la fermeture de la fracture. Les écarts mesurables se situent dans la compétence de formulation, la langue de l'interface et la connectivité, et aucun d'eux n'est corrigé par du matériel.
+- Publiez l'infrastructure que présuppose un outil. Une exigence énoncée clairement permet à un contexte mal doté de juger de l'adéquation avant d'investir.
+- Chiffrez le déploiement complet, pas la licence logicielle. Les preuves sur les jumeaux numériques montrent que la facture matérielle peut survivre à la virtualisation.
 
 ## Concepts liés
 
@@ -94,6 +121,7 @@ La fracture numérique est une préoccupation centrale de la recherche sur l'[[e
 - [[parents-and-families]]
 
 ## Articles liés
+- [[watanabe-genai-education-gap-europe-2026]] — L'écart éducatif dans l'usage de l'IA générative est-il plus faible que celui de l'internet ? (Watanabe 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Structures institutionnelles, inégalité numérique et intégration de l'IA dans l'enseignement supérieur nigérian
 - [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED sans appareil : le tutorat par l'enseignant atteint les élèves qui n'ont aucun appareil (Rodrigues et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Bibliothécaires"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:11:17-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,13 +12,17 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-09-20T12:40:00-04:00"
+source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -64,6 +68,16 @@ Deux autres fils fixent les limites du rôle. [[pearls-epistemic-verification-20
 - **Concevoir pour des parcours hétérogènes.** Avec des groupes à peu près égaux préférant l'IA, les bibliothécaires, ou les deux, l'acheminement des consultations par discipline et par charge de travail a absorbé 312 d'entre elles à 10,4 par participant ; un parcours unique imposé laissera mal servis certains apprenants.
 - **Rendre visibles la confiance et les sources.** Le fil « recherche comme apprentissage » de l'atelier demande quels processus cognitifs ne devraient pas être délestés et appelle à des interfaces qui préservent les points de décision — un [[scaffolding|étayage]] que les bibliothécaires peuvent spécifier à partir de leur norme de travail ordinaire qu'est la visibilité des sources.
 - **Budgéter la couche humaine, pas seulement le modèle.** Les consultations ont reçu une réponse en quelques heures, à grande échelle, parce que le personnel était acheminé délibérément ; supposer que les apprenants assumeront seuls le jugement de crédibilité transfère ce coût aux personnes les moins outillées pour le payer.
+
+## Idées fausses courantes
+
+**« Les bibliothécaires sont périphériques à l'IA en éducation. »** Ils occupent un rôle précis et testable, et le corpus le mesure. Sur **312 consultations (10,4 par participant)**, l'évaluation et la qualité des sources représentaient **38,5 %**, la formation de stratégies de recherche **29,2 %**, la gestion des citations **18,6 %** et la navigation dans les dépôts **13,7 %** — et **73,4 % ont reçu une réponse en moins de six heures**. Ce n'est pas un service périphérique ; c'est la fonction de littératie informationnelle qui portait la charge que l'IA ne pouvait pas porter.
+
+**« La recherche par IA répond aux questions que les étudiants apportaient autrefois à un bibliothécaire. »** Dans l'étude sur le bibliothécaire intégré, **les questions d'évaluation des sources dominaient les consultations (38,5 %) précisément dans les cas où l'IA était le moins confiante**. L'incertitude de l'outil acheminait le travail vers la capacité humaine capable de le résoudre, ce qui fait du schéma observé une division du travail plutôt qu'une obsolescence.
+
+**« La littératie informationnelle est une séance d'accueil ponctuelle. »** C'est un enseignement, pas une assistance : les questions avec lesquelles les étudiants arrivent sont des problèmes d'évaluation et de stratégie — cette source est-elle crédible, comment dois-je chercher ceci — qui sont des compétences enseignables plutôt que des transactions à accomplir. Traiter le service comme une assistance transforme un curriculum en guichet d'aide et fait perdre la capacité durable.
+
+**« Qui paie pour la vérification est le problème de quelqu'un d'autre. »** La charge de consultations retombe sur les effectifs de la bibliothèque, et la question posée par l'article lui-même est de savoir si demander aux bibliothèques de l'assumer dépasse leurs effectifs. La co-conception et le partenariat sont les réponses que recommande la littérature précisément parce que le coût de vérification est réel et retombe sur une unité qui ne l'avait pas budgété.
 
 ## Concepts liés
 

@@ -1,7 +1,7 @@
 ---
 title: "Interpréter et appliquer la recherche sur l'IA en éducation"
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,13 +13,17 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -146,6 +150,16 @@ Les vérifications ci-dessus ne sont pas une sagesse populaire ; elles provienne
 7. Chiffrez-le : licences, offres, temps du personnel, règles relatives aux données.
 8. Pilotez à petite échelle avec une mesure sans assistance, puis décidez.
 9. Notez une date de revue à un an, et soyez prêt à retirer l'affirmation.
+
+## Idées fausses courantes
+
+**« Une méta-analyse publiée constitue une preuve établie sur l'IA en éducation. »** Les synthèses du domaine n'ont pas survécu à l'audit. [[oneill-presumed-effective-meta-analysis-2026|L'audit d'O'Neill (2026)]] portant sur **14 méta-analyses évaluées par les pairs** affirmant que l'IA améliore l'éducation n'en a trouvé **aucune** qui fournisse une base valide pour cette conclusion. Une taille d'effet regroupée ne vaut que ce que valent les études regroupées, et dans cette littérature le regroupement a régulièrement inclus des dispositifs incapables d'attribuer le résultat à l'IA. Avant de citer un chiffre méta-analytique, demandez ce qu'il a agrégé.
+
+**« La taille d'effet la plus grande appartient à la meilleure intervention. »** C'est souvent l'inverse. Dans le contexte de revue que documente cette page, **21%** seulement des études disposaient d'un traitement bien défini, d'un groupe témoin et d'une mesure valide de l'apprentissage — et l'avantage rapporté pour « l'usage de ChatGPT » ressortait *plus grand* que pour des [[intelligent-tutoring|systèmes de tutorat intelligent]] conçus à cette fin. Les traitements faiblement spécifiés tendent à produire des effets gonflés, parce que la comparaison est plus vague et la mesure du résultat plus lâche. Un plus grand nombre est une raison d'examiner le plan d'étude, non de préférer l'intervention.
+
+**« Des notes plus élevées pendant l'usage de l'outil indiquent que l'outil a davantage enseigné. »** Dans une étude de mathématiques en [[k-12|K-12]], des élèves s'entraînant avec un [[conversational-ai|agent conversationnel]] d'usage général ont obtenu de meilleures notes d'entraînement puis ont **environ 17% moins bien réussi** que leurs pairs sans accès à l'IA à l'évaluation finale à livres fermés. La performance d'entraînement mesurée en présence de l'outil est la mesure gonflée ; celle sans assistance est le résultat, et une seule des deux progressait.
+
+**« Si l'effet est réel, les détails de mise en œuvre importent peu. »** Ils *sont* l'effet. Une étude qui a suivi 30 étudiants dans un cours d'un seul établissement, sur une version de l'outil que plus personne n'utilise, a produit un constat sur une configuration qui n'existe plus. La spécification du traitement, la version et le contexte font partie de l'affirmation plutôt que de son décor.
 
 ## Concepts liés
 

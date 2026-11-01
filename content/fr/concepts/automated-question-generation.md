@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: "Génération automatisée de questions"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-24T10:43:16-04:00"
+updated: "2026-11-01T10:18:24-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-09-30T11:35:26-04:00"
+source_updated: "2026-10-25T21:20:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -76,6 +80,16 @@ L'AQG est un levier clé de l'[[adaptive-learning|apprentissage adaptatif]] et d
 - **Concevoir pour la profondeur cognitive :** les invites et les pipelines doivent viser la pensée de haut niveau, et pas seulement la mémorisation, pour soutenir un apprentissage véritable.
 - **Calibrer la difficulté :** utilisez les estimations de difficulté de l'IA pour sélectionner des items d'un défi approprié, avec une validation solide avant tout usage à enjeux élevés.
 - **Personnaliser via les modèles d'apprenant :** combinez l'AQG au traçage des connaissances et aux modèles d'intérêts pour générer des items adaptatifs et individualisés.
+
+## Idées fausses courantes
+
+**« Les questions générées sont utilisables à l'échelle à laquelle on peut les produire. »** Le volume n'est pas la contrainte ; le calibrage l'est. La qualité varie considérablement selon les types d'items et exige une validation pour éviter des items hallucinés ou mal calibrés, ce qui explique pourquoi les pipelines qui fonctionnent investissent leur effort dans la vérification plutôt que dans la génération — l'un a réduit l'hallucination de **62 %** en ajoutant une boucle générer-puis-valider-et-affiner.
+
+**« Une boucle d'affinage rend les items générés dignes de confiance. »** Elle les rend moins faux. Une réduction de 62 % de l'hallucination laisse un reste substantiel, et aucune boucle ne résout le problème plus difficile de savoir si la difficulté annoncée d'un item correspond à ce que les étudiants font réellement — la question de [[assessment-validity|validité]] sur laquelle les données d'étiquettes de difficulté montrent que les métadonnées générées échouent. La validation réduit le contenu fabriqué ; le calibrage exige des données de réponses d'étudiants.
+
+**« La génération de questions personnalise naturellement la pratique. »** Elle génère de l'offre, et la personnalisation est un problème d'appariement. Produire plus d'items ne dit pas quel item un apprenant donné devrait voir ensuite, et la question de la sélection adaptative est un mécanisme distinct avec ses propres preuves.
+
+**« La génération fait passer l'évaluation à l'échelle sans changer ce qu'elle mesure. »** Elle change la composition de ce qui est mesuré, parce que les items qui se génèrent bien ne sont pas un échantillon représentatif des items qui évaluent bien. Les formats faciles à générer évinceront progressivement les plus difficiles à générer, ce qui redessine discrètement le construit.
 
 ## Concepts liés
 

@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: "IA agentique"
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-10-10T02:17:25-04:00"
+updated: "2026-11-01T10:12:38-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-10-25T17:35:00-04:00"
+source_updated: "2026-10-30T10:50:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -81,6 +86,8 @@ Un pas au-delà de l'orchestration de quelques agents spécialisés, l'**écosys
 - **Des agents LLM spécifiques aux participants pour la résolution collaborative de problèmes.** Fang (2026) ajuste finement des agents LLM individuels sur les données de dialogue de participants réels afin de représenter chaque participant dans des simulations de résolution collaborative de problèmes, avec sélection probabiliste de locuteur et de code thématique, et mémoire par fenêtre glissante complétée de résumés. Validée par l'[[network-analysis|analyse de réseaux épistémiques]], les dialogues simulés sont statistiquement indiscernables des dialogues réels (distance ENA 0.17, p de permutation = 0.65) — une démonstration de l'IA agentique reproduisant un discours collaboratif authentique.
 - **Tutorat multi-agents socialement intelligent.** Des prototypes de tutorat multi-agents socialement intelligent tels qu'ASTRA étudient comment les apprenants se coordonnent avec l'IA en dyades, en utilisant des agents Tuteur et Facilitateur différenciés pour susciter la coordination et une participation équilibrée. L'évaluation fondée sur les traces du cadre permet une analyse reproductible de l'interaction, de l'équilibre de la participation et de la vérification en programmation introductive.
 
+
+**Une réponse organisationnelle : l'apprenant comme membre participant plutôt que comme destinataire.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instancient une organisation multi-agents à participation humaine où des agents spécialisés tiennent un programme de capacités révisable reliant les objectifs personnels, les activités multimodales et une évaluation en couches, avec un « nœud humain » corrigeable qui porte les preuves et les objections de l'apprenant jusque dans les révisions ultérieures. Face à la meilleure base multi-agents comparable sur 96 cas d'apprenants simulés, l'avantage s'est concentré sur la conception de l'évaluation : 19,32 points de plus en validité de l'évaluation (IC à 95 % [17,55 ; 21,04]) et 5,89 en couverture des capacités, tandis que la personnalisation ne se distinguait pas (1,35 point, intervalle traversant zéro). Dans une étude randomisée auprès de 32 apprenants, le gain de connaissances sur un test objectif de 50 points était de 12,19 contre 5,61 points.
 
 ## La tension centrale : l'automatisation contre l'apprentissage
 
@@ -205,6 +212,8 @@ L'IA agentique n'est ni une panacée ni un préjudice inévitable : sa valeur d�
 - [[educational-policy-ai]]
 
 ## Articles liés
+
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — Des agents organisés autour d'un programme de capacités révisable, avec l'apprenant comme membre
 
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, compétence, sentiment d'appartenance et présence sociale comme voies allant de l'IA agentique à l'engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — Agents d'IA, évaluation joyeuse et tiers-espace

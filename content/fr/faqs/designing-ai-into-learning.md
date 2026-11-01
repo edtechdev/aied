@@ -1,12 +1,12 @@
 ---
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-29T08:08:36-04:00"
+updated: "2026-11-01T10:10:23-05:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,8 @@ La notion de [[pedagogy|Pedagogies and Teaching Strategies]] de la base de conna
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] énonce la règle générale : la technologie devrait augmenter plutôt que déplacer les capacités humaines que l'éducation entend développer. Formulée comme test pour un module, cela signifie nommer la capacité, nommer l'activité qui la construit, et demander si l'IA se trouve à l'intérieur de cette activité ou à côté.
 
+Appliquez le test tâche par tâche plutôt qu'une fois par outil. Sur quatre cas destinés aux enseignants, automatisation et augmentation coexistaient : le remplacement restait à l'intérieur de sous-tâches analytiques bornées, et l'augmentation apparaissait dans ce que l'enseignant faisait de la sortie, ce qui explique pourquoi le même outil peut automatiser une étape et augmenter une autre ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et coll. (2026)]]).
+
 ## Placer la tentative avant l'aide
 
 Le schéma par défaut qui résiste au contact d'une classe réelle : **l'apprenant tente, l'IA soutient, l'apprenant évalue ou révise, l'apprenant démontre sa compréhension.**
@@ -68,6 +74,12 @@ L'implication est directe. Le même outil est un contournement à un barreau et 
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec et Horvat]] ont analysé la séquence prévue de 29.064 activités d'enseignement et d'apprentissage dans 554 cours et ont trouvé une grammaire de conception visible. Les activités de type acquisition sont le point d'entrée le plus fréquent et le plus grand type unique, au-dessus de 20%. Le type d'apprentissage suit le niveau de Bloom visé, l'acquisition passant d'environ 50% au niveau 1 à environ 20% au niveau 6, et la production dépassant 20% aux niveaux 5 et 6. La transition la plus forte des données est celle de l'évaluation vers la discussion, à 0.332.
 
 Deux leçons en découlent pour la conception de l'IA. Placez l'outil là où la séquence prévoit un type d'activité. Et comme la rétroaction se regroupait avec la [[collaborative-learning|collaboration]], le [[group-work|travail de groupe]] et la présence du [[teacher-role|enseignant]], les structures entre pairs et synchrones sont l'endroit où le soutien de l'IA doit se brancher, non celui où elle doit se substituer.
+
+## Concevoir l'horloge, pas seulement la séquence
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] traite le temps comme un étayage conçu plutôt que comme un trait de l'étudiant : un cours à rythme libre prévoit une enveloppe hebdomadaire d'environ 100 minutes avec une cible proche de 20 minutes par jour, des rappels sensibles au temps, un tableau de bord de progression et une courte vérification de fin de sous-chapitre de 3 à 12 questions. La base de référence à laquelle cette conception répond est frappante : près de 25 % des plus de 600 apprenants ne commençaient qu'à la dernière semaine, et 95 % de ce groupe échouait.
+
+Lisez-la comme une invitation à concevoir plutôt que comme un effet démontré. L'article compare un cours plus récent à un cours antérieur au lieu de mener un essai contrôlé, si bien que l'amélioration ne peut être séparée du changement de cohorte et de matière, et des rappels assez puissants pour déplacer le moment de l'étude posent aussi une question de [[privacy|vie privée]] que vous devez trancher dans le syllabus.
 
 ## Décider ce qu'il faut retirer, et quand le rétablir
 

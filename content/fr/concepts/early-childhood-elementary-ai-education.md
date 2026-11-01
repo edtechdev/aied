@@ -1,7 +1,7 @@
 ---
 title: "Éducation de la petite enfance"
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-10-24T10:37:28-04:00"
+updated: "2026-11-01T10:09:50-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
@@ -9,13 +9,17 @@ connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
 translation_of: concepts/early-childhood-elementary-ai-education
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-28T15:48:01-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -46,6 +50,7 @@ Les jeunes enfants interagissent avec l'IA de plus en plus tôt — à travers d
 - **Les jouets dotés d'IA et le développement de l'enfant.** [[ai-toys-child-development-2026|La recherche sur l'IA dans les jouets]] examine comment des jouets commerciaux dotés d'IA façonnent le développement et le jeu de l'enfant. Cela soulève des questions ouvertes sur les [[pedagogical-agent|agents]] dans le jeu, la [[trust-calibration|calibration de la confiance]], l'[[agency]] et le [[well-being]] pour les apprenants les plus jeunes — un domaine où les conseils de conception sont plus minces que pour les programmes scolaires, et où les parents et tuteurs deviennent des parties prenantes centrales.
 - **Les attitudes des enfants envers des chatbots adaptés à l'âge.** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] ont déployé « Ask Me Anything » (AMA), un chatbot délimité par un sujet (astronomie, sneakers et chaussures, dinosaures) adapté à l'âge par l'[[prompt-engineering|ingénierie des invites]], auprès de 63 enfants (de 6 à 14 ans), faisant apparaître trois schémas dans l'interaction enfant–[[student-ai-interaction|IA]] — l'émerveillement et la curiosité, la mise à l'épreuve de la confiance et la construction de l'assurance, et la construction de relations par l'anthropomorphisation — parallèlement à une large ouverture à l'IA et à une confiance élevée en elle comme source d'information. Leur appel à une conception sensible à l'âge et à un [[teacher-role|enseignement]] explicite de la [[privacy|sécurité numérique]] et des concepts d'usage des données renforce les préoccupations développementales et de [[pedagogical-safety|sécurité]] pédagogique centrales pour ce concept.
 - **L'apprentissage des matières au primaire.** L'[[ai-powered-personalized-learning-elementary-fractions-2026|apprentissage personnalisé]] assisté par l'IA sur les fractions au primaire et l'[[awareness-technological-isomorphism|IA dans les mathématiques du primaire]] (y compris les préoccupations liées à l'« isomorphisme technologique » — des élèves imitant les productions de l'IA sans les comprendre) montrent à la fois la promesse et les écueils de l'IA dans l'enseignement des matières aux jeunes élèves. [[elementary-writing-genai-systematic-review-2026|Une revue systématique de l'écriture au primaire et de l'IA générative]] cartographie la manière dont l'[[generative-ai|IA générative]] remodèle l'[[writing-education|enseignement de l'écriture]] dans les premières années du primaire.
+- **L'apprentissage de l'anglais au primaire a sa propre cartographie.** Une revue PRISMA-ScR de 119 rapports sur les outils médiés par l'IA en anglais au primaire les a répartis en cinq fonctions pédagogiques, et son dispositif le plus solide, un essai randomisé par grappes portant sur 217 apprenants de deuxième année, a produit des gains sur les mots enseignés (taille d'effet = 0,38) tandis que le vocabulaire standardisé et la compréhension en lecture n'atteignaient pas la signification ([[li-zhou-ai-tools-primary-english-scoping-review-2026|Li et Zhou (2026)]]).
 - **Les robots et les jeunes enfants.** [[tsingidou-ct-robotics-kindergarten-2026|La robotique à la maternelle]] soutient la pensée informatique par des [[educational-robotics|robots éducatifs]], et [[icub-humanoid-storytelling-llm-hri-2025|la narration par un humanoïde doté de LLM]] explore si les parents accepteront des robots comme partenaires de jeu narratif pour leurs enfants — mettant au premier plan la [[trust]] et les attitudes des adultes.
 - **Un ensemble de compétences, pas un programme de littératie en IA.** Une revue de 86 ressources soutient que la littératie en IA « ne peut être autonome » pour les enfants de 0 à 8 ans et l'imbrique parmi les fonctions exécutives, le bien-être, les dispositions à apprendre et les compétences fondamentales, bien que seules 26 des 86 ressources fussent empiriques ([[early-childhood-ai-holistic-competencies-review-2026|Pei (2026)]]).
 - **Un cadre d'« approche par projet créatif » pour les agents d'IA et la robotique.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li et Lee (2025)]] proposent un cadre pédagogique en cinq étapes qui intègre des agents d'[[generative-ai|IA générative]] et des robots à la Project Approach pour favoriser l'[[creativity|apprentissage créatif]] des jeunes enfants. Ils soutiennent que les agents physiques conviennent mieux que les écrans aux jeunes enfants, et associent deux paradigmes complémentaires à leurs [[learning-theories|théories de l'apprentissage]] — les **robots de programmation** (le [[constructivist|constructionnisme]] de Papert ; la [[computational-thinking|pensée informatique]] par la programmation tangible avec des outils comme Matatalab et KIBO) et les **robots sociaux génératifs** (l'étayage [[sociocultural-learning|vygotskien]] au sein de la zone proximale de développement de l'enfant, agissant comme pairs conversationnels ou tuteurs). Les cinq étapes — identifier les besoins d'apprentissage, faciliter l'interaction enfant-robot guidée par l'enseignant, situer l'IA dans des contextes, calibrer l'équilibre automatisation/créativité, et évaluer les résultats — offrent aux concepteurs et aux praticiens de l'éducation de la petite enfance une voie concrète pour intégrer des [[agentic-ai|agents d'IA]] et des [[educational-robotics|robots]] dans des classes fondées sur le jeu et par projets, tout en préservant la facilitation par l'enseignant et l'[[agency]] de l'enfant.
@@ -63,6 +68,12 @@ Parce que les jeunes apprenants sont plus vulnérables et moins capables d'autor
 Une comparaison de quatre pays aiguise l'écart curriculaire : les directives nationales de la petite enfance du Japon, de la Corée du Sud et de la Chine ne contiennent aucune référence explicite à la littératie en IA (le plan d'action au niveau de la ville de Shanghai constituant la seule exception, sans spécifier de progressions d'apprentissage), tandis que l'Australie ne montre qu'un alignement limité et inégal — le plus fort pour l'interaction avec les agents d'IA, absent pour la compréhension des relations humain-IA — laissant la littératie en IA à la charge du foyer ([[ai-literacy-ecec-curricula-four-country-2026|Cohrssen et al. (2026)]]).
 
 Une première fenêtre neuro-imagériale sur cette question arrive avec une mise en garde : des enfants de 6–7 ans tenant une conversation parlée de cinq minutes avec ChatGPT dans un scanner IRM ont montré une connectivité au sein des réseaux plus faible que chez les adultes dans les réseaux de contrôle frontopariétal, de saillance et d'attention dorsale, à scores de créativité appariés, et n'ont pas présenté le couplage créativité-connectivité qu'ont montré les adultes. Parce que ces fonctions exécutives sont encore immatures en première année du primaire, les auteurs lisent ce résultat comme pertinent pour le débat sur l'âge minimal — tout en signalant un artefact de cadrage et l'absence d'un groupe témoin sans ChatGPT comme limites à ce qu'il établit ([[horowitz-kraus-children-chatgpt-cognitive-control-2026|Horowitz-Kraus et al. (2026)]]).
+
+## Idées fausses courantes
+
+- **« Les enseignants vont utiliser l'IA pour générer des leçons entières. »** Les enseignants déléguaient le plus souvent (**60 %**) **pour combler des lacunes de contenu dans une leçon esquissée par eux-mêmes**, plutôt que pour générer des plans entiers. L'unité de délégation est la lacune, non la leçon.
+- **« Les jeunes enfants tirent moins de profit d'une littératie médiatique soutenue par l'IA. »** Le groupe soutenu par l'IA a montré **de forts gains en lecture médiatique (+3,50), en écriture (+1,67) et en littératie médiatique totale (+5,17, tous p < .01)**, avec des tailles d'effet intergroupes de d = 1,12 ou plus. Les gains étaient importants dans cette tranche d'âge, et non marginaux.
+- **« L'observation automatisée s'accorde avec les évaluateurs humains sur tous les plans. »** L'accord était **modéré dans l'ensemble (κ pondéré = 0,681) mais conditionné par le construit** : la convergence tenait pour le domaine du **soutien émotionnel** et pour la **qualité de la rétroaction**, et pas ailleurs. Moyenner sur les domaines masque l'endroit où l'instrument échoue.
 
 ## Concepts liés
 
@@ -106,3 +117,5 @@ Une première fenêtre neuro-imagériale sur cette question arrive avec une mise
 - [[ai-rated-classroom-observation-scores-2026]] — Je code ou l'IA code : les scores CLASS Pre-K notés par l'IA contre des évaluateurs humains entraînés dans des jardins d'enfants de Hong Kong (Fong et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Première comparaison neuro-imagériale d'enfants et d'adultes conversant avec ChatGPT : des réseaux contrôle-attention-mémoire moins intégrés chez les enfants de 6–7 ans
 - [[ai-literacy-ecec-curricula-four-country-2026]] — Littératie en IA pour les natifs de l'IA ? Une comparaison de quatre pays
+
+- [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — Les outils médiés par l'IA dans l'enseignement de l'anglais au primaire : une revue de cadrage des fonctions pédagogiques et de l'orchestration enseignante

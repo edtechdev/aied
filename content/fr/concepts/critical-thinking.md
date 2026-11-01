@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: "La pensée critique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-24T10:47:45-04:00"
+updated: "2026-11-01T10:19:26-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,13 +11,17 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-10-21T12:05:00-04:00"
+source_updated: "2026-10-30T10:52:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -83,6 +87,15 @@ La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qu
 
 **La vulnérabilité la plus fortement évaluée par les experts dans la base de connaissances est la pensée critique.** Sur 65 processus d'apprentissage évalués par 30 experts, la pensée critique et la pensée critique-analytique ont recueilli la note de perturbation la plus élevée du rapport (moyenne de 4.00 sur 5 ; 96 % des évaluateurs à 3 ou plus) avec une amélioration sous le seuil (2.40, 43 %) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). Dix des dix-huit processus d'ordre supérieur n'ont atteint de consensus que sur la vulnérabilité, ce que le rapport lit comme un risque unilatéral plutôt que comme un arbitrage.
 
+- **C'est la structure du partenariat, et non l'exposition, qui porte l'association.** [[akgun-toker-genai-critical-thinking-transactive-memory-2026|Akgun et Toker (2026)]] ont modélisé 891 étudiants américains et turcs à l'aide de la théorie des systèmes de mémoire transactive et ont constaté que ni l'auto-évaluation de la capacité de pensée ni la confiance dans le partenariat avec l'IA ne prédisaient directement la mise en acte de la pensée critique. Les deux alimentaient la familiarité avec l'IAG, laquelle ne prédisait que deux comportements : la spécialisation et la coordination du travail (b = 0.636) et la transformation réflexive des productions (b = 0.367). Ces comportements prédisaient la pensée critique (b = 0.230 et b = 0.175) sans chemin direct restant (CFI = 0.974, RMSEA = 0.048). C'est la version au niveau du mécanisme du résultat nul récurrent du domaine : les heures d'usage et la compétence auto-évaluée ne sont pas des substituts de la pensée critique, et ce qu'une étude mesure lorsqu'elle interroge l'exposition, c'est l'entrée de la chaîne et non son résultat.
+
+
+## Idées fausses courantes
+
+- **« Une meilleure consigne produit une meilleure pensée critique. »** C'est **le contrôle structuré du dialogue, non une meilleure consigne**, qui distingue un tuteur de sophismes d'un chatbot de débat : faire passer chaque tour par une **détection d'intention fondée sur Toulmin** a fait le travail. Le mécanisme est la structure de l'interaction plutôt que la formulation.
+- **« L'usage de l'IAG élève directement la pensée critique. »** Le lien entre l'usage de l'IAG et la pensée critique **auto-déclarée** passait **presque entièrement par la [[feedback-literacy|littératie en rétroaction]]** de l'IAG — chez **421 étudiants chinois de premier cycle**, la littératie en rétroaction médiatisait **71 %** de l'association. La littératie est la voie.
+- **« L'effet méta-analytique est uniforme. »** Sur **29 expériences**, l'IAG élevait modérément la pensée d'ordre supérieur (**g = 0.609**), avec la pensée critique à **ES = 0.691**. Des effets regroupés modérés sur des interventions hétérogènes étayent la catégorie, non une conception précise.
+
 ## Concepts liés
 
 - [[metacognition]]
@@ -101,6 +114,7 @@ La pensée critique recoupe le [[scaffolding]] (concevoir un soutien par l'IA qu
 
 ## Articles liés
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Consensus de 30 experts : la pensée critique porte la note de perturbation la plus élevée du rapport (moyenne 4.00)
+- [[akgun-toker-genai-critical-thinking-transactive-memory-2026]] — La pensée critique passe par la division du travail et le retraitement des productions, non par l'exposition
 - [[pearls-epistemic-verification-2026]] — Le cadre PEARLS pour l'agentivité épistémique et la vérification des productions de l'IA (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — Le paradoxe de la pensée critique dans l'apprentissage intégrant l'IA générative

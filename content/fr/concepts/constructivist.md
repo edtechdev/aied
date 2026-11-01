@@ -2,20 +2,24 @@
 connected_resources: [vibes-diy]
 title: "Le constructivisme"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-10T03:05:32-04:00"
+updated: "2026-11-01T10:21:51-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-11-01T09:07:36-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -44,7 +48,6 @@ Le constructivisme est une famille de théories plutôt qu'une doctrine unique, 
 - **Les connaissances antérieures façonnent les nouveaux apprentissages.** Les idées nouvelles sont interprétées à travers les modèles mentaux existants de l'apprenant ; l'enseignement doit donc mettre au jour et s'appuyer sur ce que les apprenants savent déjà — un principe directement pertinent pour les [[misconceptions]] et pour les tuteurs IA qui s'adaptent à l'apprenant.
 - **L'interaction sociale soutient la construction.** Un courant majeur — le constructivisme social — soutient que le sens se co-construit par le dialogue, la collaboration et l'activité culturellement [[situated-learning|située]]. Cela rattache le constructivisme à l'[[collaborative-learning]] et aux démarches de type [[socratic-method]] dans lesquelles l'IA interroge plutôt qu'elle ne dicte.([[ai-agents-constructive-conflict-design-education-2026]])
 - **La construction est visible dans l'activité.** Les apprenants révèlent (et consolident) leur compréhension en générant, en expliquant et en produisant — c'est pourquoi le [[icap-framework|cadre ICAP]] classe l'[[student-engagement|engagement]] « constructif » et « interactif » au-dessus des modes « actif » et « passif ».([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
-
 Une limite de la théorie est qu'elle présuppose une agentivité épistémique centrée sur l'humain, ce qui ne lui permet pas de rendre compte d'une IA qui simule le raisonnement et co-construit le sens ; le supplément proposé est la co-agentivité épistémique, dans laquelle les apprenants traitent la production de l'IA comme contestable et conservent la souveraineté épistémique sur ce qui vaut comme connaissance ([[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Samuel (2026)]]).
 
 ## Constructionnisme
@@ -75,6 +78,7 @@ Les travaux empiriques mettent régulièrement au jour un écart entre les objec
 Ce schéma se généralise à tout le champ :
 
 - Lorsque l'IA générative rédige, raisonne ou code à la place des étudiants, l'apprenant perd le processus de pensée constructive que la tâche était censée développer — l'inquiétude centrale de la [[cognitive-offloading]] et de la [[cognitive-offloading|sur-dépendance]].([[generative-refusal-ai-tools-for-thought]])
+- La perte est désormais mesurable, et elle suit le travail plutôt que l'outil. Chez 26 811 élèves chinois du secondaire, l'IA générative a fait monter les notes de devoirs de 18 % et réduit le temps d'exécution de 30 %, tandis que les notes d'examen sans documents chutaient de 20 % en six mois. Le déclin se concentrait parmi les quelque 81 % d'utilisateurs dont les temps d'exécution indiquaient une externalisation des devoirs, et les utilisateurs qui conservaient un temps de devoirs comparable à celui des non-utilisateurs apprenaient aussi efficacement ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]]). La variable qui prédisait l'apprentissage n'était pas l'usage de l'IA mais le fait que l'apprenant accomplisse encore la construction.
 - Les implémentations d'IA qui privilégient la rétroaction adaptative et l'efficacité desservent fréquemment les objectifs d'autonomie de l'apprenant, de réflexion critique et de décision autonome qu'implique le constructivisme.([[ai-vocational-education-training-review]])
 
 ### Le piège du nom : la production de l'IA générative n'est pas l'apprentissage génératif
@@ -109,6 +113,12 @@ Le constructivisme façonne aussi la manière dont la littératie en IA elle-mê
 2. **Utiliser le prisme [[icap-framework|ICAP]].** ICAP classe l'engagement en modes constructif, interactif, actif et passif — utilisez-le pour évaluer si les interactions avec l'IA suscitent réellement les modes constructif et interactif plutôt qu'une consommation passive. Les concepteurs devraient privilégier les modes les plus profonds (constructif et interactif) lorsque l'objectif d'apprentissage le justifie.([[hingle-collaborative-ai-literacy-2025]])
 3. **Aligner théorie et implémentation.** Les chercheurs devraient dépasser la question de savoir si l'IA « fonctionne » pour examiner *comment* elle incarne une théorie de l'apprentissage, en traquant l'écart entre constructivisme de nom et behaviorisme de fait.([[ai-vocational-education-training-review]])
 4. **Étudier l'autonomie de l'apprenant et le transfert.** Les engagements constructivistes impliquent d'évaluer non seulement les gains immédiats aux tests, mais aussi la capacité des apprenants à transférer et à appliquer de manière autonome leur compréhension construite.([[research-methods-aied]])
+
+## Idées fausses courantes
+
+- **« On peut détecter un enseignement constructiviste à partir des questions posées. »** Un classifieur DeBERTa **a classé les questions de transmission de connaissances factuelles avec 96,67 % de précision, mais les questions de facilitateur avec seulement 78,79 %**, et **tous les modèles confondaient les deux rôles d'ordre supérieur**. Le construit qui compte le plus est celui que la détection automatisée traite le plus mal.
+- **« Les traits de surface d'une leçon révèlent sa pédagogie. »** L'échec du classifieur n'est pas un détail d'implémentation. Les rôles de facilitateur et de constructiviste sont les cas difficiles précisément parce qu'ils se définissent par ce que l'enseignant fait de la pensée de l'apprenant, et cette relation n'est pas récupérable à partir du seul texte des questions.
+- **« Le constructivisme signifie que l'enseignant n'explique pas. »** La théorie situe l'apprentissage dans la construction que l'apprenant fait à partir de l'expérience, ce qui est compatible avec l'enseignement direct. La traiter comme une interdiction de dire méconnaît à la fois la théorie et les données sur les exemples travaillés.
 
 ## Concepts liés
 - [[community-of-inquiry]] — Communauté d'investigation (fondée sur le pragmatisme constructiviste/deweyen)
@@ -159,3 +169,4 @@ Le constructivisme façonne aussi la manière dont la littératie en IA elle-mê
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution : agent génératif simulant l'évolution cognitive des étudiants
 
 - [[synthetic-position-self-authorship-2026]] — Les contre-positions simulées par l'IA répètent la forme du dialogue mais en retiennent la résistance qui impose la révision
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — La pénalité d'apprentissage : notes de devoirs en hausse de 18 %, examens sans documents en basse de 20 %, concentrée chez les étudiants qui externalisent leurs devoirs

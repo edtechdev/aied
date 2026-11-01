@@ -1,7 +1,7 @@
 ---
 title: La gouvernance de l'IA
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-24T10:47:00-04:00"
+updated: "2026-11-01T10:11:31-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,13 +11,17 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-10-23T09:20:00-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -27,7 +31,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **La gouvernance de l'IA (AI governance)** — les cadres, les politiques, les structures institutionnelles et les normes qui guident la conception, le déploiement et l'usage responsables de l'[[ai-education|intelligence artificielle en éducation]]. La gouvernance couvre les mécanismes institutionnels formels (groupes de pilotage de l'IA, politiques sur l'intégrité académique et l'usage acceptable, examen éthique) et les normes informelles (orientations à l'intention des enseignants, développement professionnel, cultures de l'[[reducing-ai-misuse|usage responsable de l'IA]]). À l'ère de l'IA, une gouvernance efficace est une condition préalable à une adoption éthique, [[equity-in-ai-education|équitable]] et durable de l'IAG — elle détermine si l'IA est intégrée de manière transparente, avec responsabilité, ou adoptée de façon réactive, dans des conditions qui creusent les iniquités.
+> **La gouvernance de l'IA (AI governance)** — les cadres, les politiques, les structures institutionnelles et les normes qui guident la conception, le déploiement et l'usage responsables de l'[[ai-education|intelligence artificielle en éducation]]. La gouvernance couvre les mécanismes institutionnels formels (groupes de pilotage de l'IA, politiques sur l'intégrité académique et l'usage acceptable, examen éthique) et les normes informelles (orientations à l'intention des enseignants, développement professionnel, cultures de l'[[ai-literacy|usage responsable de l'IA]]). À l'ère de l'IA, une gouvernance efficace est une condition préalable à une adoption éthique, [[equity-in-ai-education|équitable]] et durable de l'IAG — elle détermine si l'IA est intégrée de manière transparente, avec responsabilité, ou adoptée de façon réactive, dans des conditions qui creusent les iniquités.
 
 ## Questions à examiner
 
@@ -43,12 +47,15 @@ ai_assist:
 La gouvernance de l'IA en éducation devient de plus en plus urgente parce que l'[[generative-ai|IA générative]] introduit de nouveaux défis épistémiques, éthiques et organisationnels : elle déstabilise les hypothèses relatives à la production des connaissances, à l'[[agency|agentivité de l'apprenant]], à la validité de l'[[assessment|évaluation]], et au [[teacher-role|rôle des éducateurs]] comme autorités épistémiques. La gouvernance traite les questions d'[[academic-integrity|intégrité académique]] (ce qui compte comme usage acceptable de l'IA), de [[privacy|protection des données]] et de sécurité, de [[bias-mitigation|biais algorithmique]] et d'équité, d'[[explainable-ai|transparence]] et de responsabilité, et de l'alignement de l'adoption de l'IA sur la mission et les valeurs de l'établissement. Un constat récurrent dans la [[research-methods-aied|recherche]] de la base de connaissances est que **la gouvernance institutionnelle accuse souvent un retard** — de nombreux établissements manquent de politiques d'IA claires et unifiées, laissant les étudiants et les enseignants négocier eux-mêmes l'usage acceptable.
 
 - **La gouvernance en zéro coup d'essai comme condition structurelle de la plateformisation.** [[perrotta-zero-shot-governance-2026|Perrotta (2026)]] développe le concept de **gouvernance en zéro coup d'essai** — une [[generative-ai|IA générative]] agnostique au domaine intervenant dans les décisions de politique — à travers une analyse au niveau du code de **Redbox**, un prototype abandonné de la fonction publique britannique construit sur des [[llm|LLM]] disponibles sur étagère. En lisant son architecture (une consigne système invisible et un léger enveloppeur Python autour d'un pipeline [[rag]] récupérer→mettre en forme→générer, sur une pile cloud agnostique au fournisseur), l'article soutient que la nature d'usage général des modèles de fondation est une *caractéristique structurelle* de la plateformisation que l'on peut atténuer mais jamais exclure : l'[[agentic-ai|IA agentique]] n'interrompt pas la logique monopolistique et rentière des plateformes, et le même mécanisme probabiliste qui produit de la nouveauté produit aussi des [[hallucination-risk|hallucinations]]. Pour la gouvernance, l'implication est que la supervision d'une IA d'usage général doit traiter les productions aberrantes comme un risque irréductible, seulement atténuable, plutôt que comme un bogue corrigeable — une mise en garde qui vaut également pour le raisonnement en matière d'[[educational-policy-ai|élaboration de politiques éducatives]].
-**[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]**, dans une [[meta-analysis-systematic-review|revue de cadrage]], cadre la gouvernance de l'IA dans l'enseignement supérieur à travers les lentilles de la gouvernance anticipatrice et du leadership.
+
+- **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]**, dans une [[meta-analysis-systematic-review|revue de cadrage]], cadre la gouvernance de l'IA dans l'enseignement supérieur à travers les lentilles de la gouvernance anticipatrice et du leadership.
 - **La gouvernance anticipatrice par le prototype et le pilote.** [[williamson-experimental-futuring-ai-prototyping-governance-2026|Williamson et al., 2026]] lisent dans le DfE anglais une gouvernance par la conception : les prototypes d'IA et les pilotes menés en école préfigurent un avenir choisi, traitent les salles de classe comme des bancs d'essai et produisent, juste à temps, des preuves « prometteuses » pour passer à l'échelle plutôt qu'un « ce qui marche » établi.
 - **La co-conception des politiques par les étudiants :** [[guided-inquiry-genai-course-policy-2026|Hingle & Johri]] montrent comment une activité d'enquête guidée, dans laquelle les étudiants ont co-conçu une politique de cours sur l'IAG, a fait émerger les valeurs des étudiants — priorité accordée à la formation, à des procédures standardisées d'[[ai-use-disclosure|divulgation]], à un soutien institutionnel renforcé et à une plus grande participation aux décisions. Cela positionne les [[pedagogical-partnerships|étudiants comme partenaires]] de la gouvernance plutôt que comme sujets passifs, complétant la politique au niveau institutionnel par une voix étudiante ascendante.
 
 
 - **Le piège techno-solutionniste et le déficit de politique :** une revue systématique de 65 études sur l'IA et l'[[social-emotional-learning|apprentissage socio-émotionnel]] ([[policy-deficit-ai-sel-2026|Tran, Liu & Nguyen 2026]]) constate que la recherche met souvent au premier plan le potentiel technique tout en sous-spécifiant les conditions institutionnelles d'une mise en œuvre responsable — un piège « techno-solutionniste ». Les auteurs relient l'[[student-engagement|engagement]] politique au lieu de publication et proposent un cadre en « questions en wh » pour rendre les implications de gouvernance propres aux acteurs, faisant écho au constat plus large de la base de connaissances selon lequel la gouvernance institutionnelle accuse un retard sur l'adoption de l'IA.
+
+[[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] montrent un décalage de gouvernance plutôt qu'un vide de gouvernance : les étudiants souhaitaient que l'université « fasse davantage », mais l'établissement estime que les décisions relèvent du département, du programme et du cours, si bien que la demande et le mandat pointent vers des instances différentes tandis que le silence comble l'écart.
 
 ## Comment la gouvernance de l'IA apparaît dans la recherche
 
@@ -77,7 +84,6 @@ Les preuves que [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (20
 L'IA agentique déplace encore la question de la gouvernance : [[wong-sun-agentic-ai-assessment-governance-2026|Wong & Sun (2026)]] comparent les orientations de 12 universités et situent le travail nouveau dans les responsabilités qu'un étudiant peut déléguer et dans la question de savoir si un agent peut agir sous ses identifiants, une question d'accès qu'une règle d'usage ou de non-usage ne peut pas exprimer.
 
 ### La gouvernance à travers les niveaux
-
 La gouvernance de l'IA opère à de multiples niveaux — du niveau **national/réglementaire** (politique gouvernementale, le cadre de l'OCDE, les orientations étatiques sur l'IA) au niveau **institutionnel** (politiques universitaires, groupes de pilotage de l'IA, commissions d'examen éthique) jusqu'au niveau de la **classe** (orientations des enseignants, mentions dans les programmes de cours, conception des devoirs). Une gouvernance efficace aligne ces niveaux : les cadres nationaux fixent les attentes, les établissements les traduisent en politiques et en structures de soutien, et les éducateurs les mettent en œuvre de manière à développer la littératie en IA et l'agentivité des étudiants. La recherche de la base de connaissances souligne que la gouvernance ne consiste pas seulement à restreindre, mais à créer les conditions d'une intégration de l'IA responsable, équitable et favorable à l'apprentissage — incluant le [[educational-development|développement professionnel des enseignants]], des orientations transparentes et une évaluation continue.
 
 **Une conduite identique, des verdicts différents.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] a appliqué 15 vignettes standardisées d'usage étudiant aux environnements de politique publique de 20 universités australiennes, produisant 300 classifications : 40.0% clairement interdites, 32.3% manquements potentiels aux politiques, 9.0% autorisées sous conditions, et 18.7% indéterminées — aucune n'atteignant le seuil de clairement autorisée. Les instruments contraignants étaient muets sur l'IA générative dans 100 combinaisons, tandis que les orientations en tranchaient 88, et la réécriture déclarée en langage naturel et un paragraphe rédigé par l'IA ont produit la plus forte divergence entre universités, face à l'unanimité sur une interdiction explicite en matière d'évaluation. Là où l'on suppose que les niveaux décrits plus haut s'alignent, cette étude mesure l'ampleur de leur divergence, et situe la frontière opérationnelle dans les orientations plutôt que dans les instruments contraignants.
@@ -87,6 +93,8 @@ La gouvernance de l'IA opère à de multiples niveaux — du niveau **national/r
 **La gouvernance par les enseignants et le plaidoyer pour un examen délibéré.** Lorsque les niveaux ci-dessus sont alignés par la politique, certains secteurs y parviennent plutôt par la gouvernance partagée. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] décrivent les [[legal-education|facultés de droit]] comme un cas difficile précisément pour cette raison : les enseignants-chercheurs des facultés de droit américaines détiennent un pouvoir individuel inhabituel sur les normes des cours, si bien que la politique doit être construite avec eux plutôt que de leur être annoncée, et la plupart des établissements rédigeant des règles prohibitives réservaient aussi une marge de discrétion aux enseignants individuels et s'engageaient à réviser au rythme des évolutions technologiques. Leurs recommandations — souplesse par la conception, révision périodique, formation proactive, et autorégulation par le partage d'informations plutôt que d'attendre qu'un organisme d'accréditation dicte la politique — décrivent la gouvernance comme un processus continu plutôt que comme un document, le même point que le [[crompton-governing-genai-higher-ed-delphi-2026|consensus Delphi]] formule en recommandant des cycles de révision programmés et un comité pluridisciplinaire permanent.
 
 À l'échelle de l'établissement, le **cadre AIGEM** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positionne l'IA responsable comme une capacité organisationnelle stratégique pour le management éducatif, intégrant le leadership stratégique en IA, la gouvernance responsable, l'intelligence décisionnelle, l'intelligence collaborative humain-IA, le développement des compétences et la création de valeur durable — et rattache la mise en œuvre responsable aux ODD. Il souligne que la gouvernance n'est pas seulement une couche de conformité sur l'enseignement, mais une fonction de direction des établissements d'enseignement.
+
+**L'éthique du care place la responsabilité sur l'institution qui a adopté l'outil.** [[jones-care-ethics-ai-governance-higher-education-2026|Jones (2026)]] situe la responsabilité du côté de l'institution qui a choisi le système, et non du fournisseur ni de l'enseignant qui a remarqué le schéma, et demande si les mêmes règles lient les administrateurs qui les écrivent que les étudiants qui y vivent.
 
 ### Les liens avec les concepts apparentés
 
@@ -104,6 +112,13 @@ La gouvernance se distingue de la [[educational-policy-ai|politique d'IA en édu
 
 
 - **La gouvernance peut être conçue dans l'outil.** Un profil de gouvernance à six dimensions — ancrage pédagogique, autorité pédagogique, responsabilité humaine et contrôle, agentivité de l'apprenant et engagement cognitif, spécificité contextuelle, et visibilité de l'évaluation — situe la gouvernance dans le modèle d'interaction d'un outil d'enseignement, ses consignes, ses grilles, ses portes d'approbation et ses tableaux de bord, et demande si les mécanismes conviennent à la fonction pédagogique plutôt que de mesurer le degré de sévérité ou de permissivité d'un outil ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+- **Un cadre centré sur l'humain place l'interprétation, et non l'outil, au centre.** Dans un collège d'arts libéraux à mission, des enseignants ont utilisé un Assessment Wizard assisté par IA générative lors d'une journée de l'éducation structurée, et les auteurs concluent que le jugement humain doit rester l'autorité interprétative non négociable, avec des points de vérification et une gouvernance en place avant une mise en œuvre large ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). La séquence est : formation et vérification d'abord, passage à l'échelle ensuite.
+
+## Idées fausses courantes
+
+- **« Les universités ont adopté des politiques d'IA contraignantes. »** Sur **48 établissements**, **40 (83%)** disposaient d'au moins un document public, et dans ces 40 la **gouvernance se réalisait surtout comme orientation plutôt que comme règle contraignante**. Une orientation publiée n'est pas une politique applicable.
+- **« La politique est écrite d'abord pour les étudiants parce que les étudiants sont le risque. »** La plupart des documents s'adressaient **aux enseignants et aux étudiants ensemble (20, 51%) plutôt qu'aux étudiants seuls (6, 15%)**, et ni le type de politique ni le public ne variaient selon le mode de dispensation. Le cadrage est conjoint, ce qui signifie que les obligations sont partagées.
+- **« Une politique ambiguë laisse l'expérience étudiante intacte. »** L'ambiguïté des politiques se manifeste directement dans l'**expérience étudiante** : [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|l'engagement des étudiants avec l'IAG]] est façonné par l'incertitude, si bien que l'ambiguïté est une condition active plutôt qu'un manque neutre.
 
 ## Concepts liés
 - [[pedagogical-partnerships]] — Les partenariats pédagogiques
@@ -127,6 +142,7 @@ La gouvernance se distingue de la [[educational-policy-ai|politique d'IA en édu
 - [[student-support-and-success]] — la supervision des systèmes institutionnels de soutien par l'IA
 
 ## Articles liés
+- [[jones-care-ethics-ai-governance-higher-education-2026]] — L'éthique du care pour la gouvernance institutionnelle de l'IA : les cinq composantes et les questions institutionnelles qu'elles soulèvent
 - [[generative-ai-governance-education-scoping-review-2026]] — La gouvernance de l'IA générative en éducation : une revue de cadrage des principes, mécanismes et risques (Elmahjub et al. 2026)
 - [[ai-literacy-sdg-governance-framework-2026]] — La littératie en IA comme capacité de gouvernance pour le développement durable : la taxonomie AIRE et l'AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — Le cadre AIGEM pour la gouvernance de l'IA dans le management éducatif

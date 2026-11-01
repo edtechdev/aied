@@ -1,18 +1,22 @@
 ---
 title: "Analyse des profils latents"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-11-01T10:20:15-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,12 @@ Quatre mises en garde, chacune énoncée dans les pages sources :
 2. **Préférez les méthodes centrées sur la personne lorsque le livrable est la différenciation.** Les études sur les enseignants en formation initiale et sur les gestionnaires présentent toutes deux ce déplacement comme leur contribution méthodologique, parce que des prédicteurs moyens ne peuvent révéler les configurations qui justifient un soutien différencié.
 3. **Rapportez intégralement les données probantes de rétention.** Publiez les comparaisons de BIC/AIC, l'entropie, les tailles des profils et une vérification de stabilité, et dites franchement lorsqu'un nombre de classes est exploratoire.
 4. **Traitez les profils comme des diagnostics, non comme des étiquettes.** Un profil est un construit de recherche doté d'une frontière estimée, de sorte qu'un outil qui affecte des individus à des catégories nommées porte la mise en garde de tout instrument de [[educational-measurement|mesure]] — et les [[differential-effects-across-learner-groups|effets différenciés selon les groupes d'apprenants]] méritent l'examen réservé à toute analyse de sous-groupes.
+
+## Idées fausses courantes
+
+- **« L'analyse de profils latents découvre des groupes qui existent. »** L'APL convertit la diversité des apprenants d'une affirmation rhétorique en un constat mesurable, et les profils sont un **modèle d'un continuum divisé à des frontières choisies**, non des espèces naturelles. Le nombre de profils est une décision analytique.
+- **« N'importe quel membre de la famille des variables latentes convient. »** Celui que l'on utilise **découle des indicateurs** : **l'ACL pour des indicateurs catégoriels**, l'APL pour des indicateurs continus. Choisir d'abord la méthode et ensuite les indicateurs fait du résultat un artefact de ce choix.
+- **« Les profils sont comparables d'une étude à l'autre. »** Chen et ses collègues ont profilé **128 enseignants taïwanais en formation initiale** sur cinq construits [[technology-acceptance-model|TAM]]/UTAUT2, tandis qu'Acquah et ses collègues ont profilé **509 étudiants de premier cycle ghanéens**. Des indicateurs différents dans des populations différentes ne produisent pas des étiquettes de profils commensurables.
 
 ## Concepts liés
 

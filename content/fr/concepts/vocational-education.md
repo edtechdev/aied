@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement et la formation professionnels"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-10-24T10:37:47-04:00"
+updated: "2026-11-01T10:12:42-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -10,14 +10,19 @@ discipline: [vocational education]
 audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
+connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
 translation_of: concepts/vocational-education
-source_updated: "2026-09-28T21:37:06-04:00"
+source_updated: "2026-10-27T13:25:06-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -51,6 +56,35 @@ Ce qui est distinctif dans l'IA en EFP est l'écart entre ce que le secteur dit 
 - **L'apprentissage assisté par l'IA porte un coût psychologique lorsqu'il remplace l'effort.** [[ai-autonomous-learning-accomplishment-2026]] a enquêté sur 1,264 étudiants d'établissements professionnels en Chine par modélisation par équations structurelles et a montré que l'apprentissage autonome assisté par l'IA était associé négativement à la robustesse (engagement, contrôle, défi) et positivement à un accomplissement académique réduit, une dimension d'épuisement professionnel faite d'auto-évaluation négative. La robustesse médiatisait partiellement la relation. La conception est transversale, fondée sur l'auto-déclaration et mono-institutionnelle, si bien que la causalité n'est pas établie, mais le cadrage importe pour l'EFP : là où la confiance se construit par la pratique répétée, l'IA comme substitut peut réduire à la fois la disposition à persévérer et l'expérience ressentie de la maîtrise.
 - **Accélérer la production de programmes sans abandonner la vérification.** [[crewscaler-ai-upskilling-framework]] applique l'IA aux cinq étapes du renforcement professionnel des compétences — acquisition de connaissances, développement de contenus, examen et vérification, [[intelligent-tutoring|tutorat]] et développement de l'évaluation — tout en gardant auprès des humains la conception du plan directeur, l'examen par des experts du domaine et la rédaction des idées fausses. Sa validation externe inclut l'accréditation NASBA CPE, trois apprenants sur trois réussissant un examen de certification NVIDIA en utilisant uniquement la base de connaissances du cadre, et une banque de 530 questions étiquetée selon un plan directeur de 53 compétences. Il appartient à cette page parce qu'il traite la vérification comme une étape de premier rang : la détection des [[hallucination-risk|hallucinations]] est largement absente des pipelines éducatifs, et l'article rapporte que le tutorat par LLM par défaut n'atteint que 52–70% d'actions pédagogiques correctes.
 
+- **Le renouvellement des programmes comme obligation continue, et non comme revue périodique.** [[wang-legacy-curriculum-ai-cte-renewal-2026|Wang (2026)]] identifie cinq dimensions de renouvellement en interaction — transformation des métiers, actualité du programme, alignement des capacités du corps enseignant, architecture du programme et alignement externe — et six tests de leadership pour décider si un cours doit être conservé, révisé, intégré, remplacé ou retiré.
+
+## Idées fausses courantes
+
+**« La base de données probantes sur l'IA dans l'EFP nous renseigne sur l'enseignement professionnel. »** Elle nous renseigne sur des substituts en classe, ce qui constitue un écart sérieux plutôt qu'un détail : **aucune étude de la base de données probantes sur l'IA dans l'EFP n'est située sur un lieu de travail**, alors que l'EFP est *défini* par l'apprentissage fondé sur le travail. Un résultat concernant un outil d'IA dans une tâche professionnelle simulée n'a pas encore rencontré les conditions qui rendent le secteur distinctif — de vrais clients, de vraies conséquences de sécurité, une vraie variabilité des équipements de travail.
+
+**« Un effet significatif sur la capacité de conception ou de création se transfère à la compétence professionnelle. »** Le résultat quantitatif le plus solide ici provient d'une **quasi-expérience à deux groupes de 12 semaines avec 63 réponses valides (31 contre 32)**, où la condition d'agent immersif obtenait de meilleurs scores de capacité de conception (η²p = .138) et de capacité créative (η²p = .111) sous ANCOVA, avec un engagement cognitif d = 0.90. Trente et un étudiants par bras dans une tâche de classe, c'est une preuve sur cette tâche, et la compétence professionnelle ne fait pas partie des résultats mesurés.
+
+**« Les apprenants vont trop s'appuyer sur l'IA en formation pratique. »** Les données pilotes pointent dans l'autre sens. Des pilotes exploratoires (**N = 30**, Italie et Chine, **20 séances bornées**) ont trouvé que les participants traitaient le système comme un outil de soutien borné, avec **aucune attente rapportée de substitution ni de dépendance**. C'est exploratoire et de petite taille, et cela suggère bien que le cadrage des apprenants professionnels — un outil comme équipement plutôt que comme autorité — est une ressource autour de laquelle il vaut la peine de concevoir.
+
+**« L'approbation par les apprenants d'une tâche simulée signifie qu'elle a évalué la bonne chose. »** Sur **33 apprenants interrogés, 21 (64 %)** convenaient que la tâche vocale était réaliste et la même proportion disait qu'elle offrait une manière claire de communiquer ce qu'ils savaient — et aucun ne contestait que parler en temps réel convenait à cette [[authentic-assessment|évaluation authentique]]. Le réalisme et la clarté de la communication méritent d'être connus et ne constituent pas la validité : une tâche peut sembler authentique et échouer néanmoins à échantillonner la performance professionnelle qu'elle représente.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Traitez les études en milieu de travail comme la preuve manquante et concevez vos pilotes pour les inclure ; les gains en classe sont nécessaires et non suffisants pour une qualification professionnelle.
+- Cadrez les outils d'IA comme un équipement borné plutôt que comme une autorité. Les données pilotes suggèrent que les apprenants les abordent déjà ainsi, et ce cadrage mérite d'être explicité.
+- Séparez les vérifications d'authenticité des vérifications de validité : demandez quelle performance professionnelle la tâche échantillonne, et pas seulement si les étudiants l'ont trouvée réaliste.
+
+**Pour les développeurs**
+
+- Concevez une assistance bornée et circonscrite à la tâche, avec une fin claire, ce qui correspond à l'usage réel des systèmes par les apprenants professionnels dans ces pilotes.
+- Concevez contre la variabilité du milieu de travail — équipements, règles de sécurité, interaction avec les clients — plutôt que contre une configuration de laboratoire, puisque c'est là que le déploiement aura lieu.
+
+**Pour les chercheurs**
+
+- Menez au moins une partie des études sur des lieux de travail. Un secteur défini par l'apprentissage fondé sur le travail dont la base de données probantes ne contient aucune étude en milieu de travail n'a pas encore testé sa thèse centrale.
+
 ## Concepts liés
 
 - [[professional-training]]
@@ -66,6 +100,7 @@ Ce qui est distinctif dans l'IA en EFP est l'écart entre ce que le secteur dit 
 
 ## Articles liés
 
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Renouvellement adaptatif des programmes d'EFTP : cinq dimensions et six tests de leadership
 - [[ai-vocational-education-training-review]] — Première revue systématique de l'IA dans l'EFP : objectifs, théorie et efficacité empirique
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-IVE-PBL : apprentissage immersif par projet et créativité de conception
 - [[ai-supported-oral-assessment-tvet-2026]] — AkoVoice: offline AI-supported oral assessment in TVET

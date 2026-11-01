@@ -1,14 +1,14 @@
 ---
 title: "Traçage des connaissances"
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-10-24T10:45:59-04:00"
+updated: "2026-11-01T10:09:38-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-10-14T11:15:00-04:00"
+source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -62,13 +66,42 @@ Le traçage des connaissances est étroitement lié à la [[student-modeling|mod
 
 **Une réserve : la maîtrise n'est pas l'exactitude.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren et Stamper (2026)]] montrent que l'hypothèse à deux états du BKT (acquis/non acquis) peut être violée par la *sur-généralisation trompeuse* — les apprenants peuvent sembler maîtriser une compétence tout en l'appliquant systématiquement de travers lorsqu'une contrainte d'application cachée est violée. Cela plaide pour un traçage de la compréhension conditionnelle (savoir *quand s'abstenir* d'une action), et pas seulement de l'exactitude des actions, lorsque les estimations de maîtrise pilotent les règles d'arrêt [[adaptive-learning|adaptatives]].
 
-**Une réserve apparentée concerne la *manière dont* les modèles de traçage sont validés par rapport à la manière dont ils sont déployés.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] ont ajusté le BKT, le BKT avec oubli et le modèle à facteurs additifs sur un ensemble de données d'apprentissage successif sur plusieurs sessions, et ont montré qu'ils reproduisaient les tendances d'apprentissage lorsqu'ils étaient ajustés rétroactivement sur l'ensemble des sessions (AUC acceptable d'environ 0.74–0.79) ; mais en **validation croisée temporelle** — entraînement sur une session pour prédire la suivante, le cadre appliqué réaliste — les trois modèles surestimaient la performance future d'environ 47–58%, ne parvenaient pas à capter l'[[desirable-difficulties|effet d'espacement]], et pouvaient même prédire le mauvais ordre entre les conditions de pratique. Fait révélateur, les modèles *sans* mécanisme d'oubli explicite ont performé à peu près aussi bien que les versions augmentées de l'oubli à mesure que les sessions s'accumulaient, ce qui suggère que l'oubli était partiellement absorbé dans d'autres paramètres (par exemple les ordonnées à l'origine propres à chaque étudiant dans l'AFM) plutôt que réellement modélisé. Les auteurs relient cela à la distinction entre apprentissage et performance : les modèles populaires confondent la forte performance du moment avec la forte probabilité de rétention à long terme. L'implication pratique est qu'un traceur qui semble bon sur un ajustement rétrospectif peut tromper les systèmes adaptatifs qui consomment ses estimations de maîtrise, ce qui plaide pour une évaluation en marche avant et pour des modèles qui tiennent compte de l'intervalle de rétention, de l'espacement et de l'oubli entre sessions.
+**Une réserve apparentée concerne la *manière dont* les modèles de traçage sont validés par rapport à la manière dont ils sont déployés.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] ont ajusté le BKT, le BKT avec oubli et le modèle à facteurs additifs sur un ensemble de données d'apprentissage successif sur plusieurs sessions, et ont montré qu'ils reproduisaient les tendances d'apprentissage lorsqu'ils étaient ajustés rétroactivement sur l'ensemble des sessions (AUC acceptable d'environ 0.74–0.79) ; mais en **validation croisée temporelle** — entraînement sur une session pour prédire la suivante, le cadre appliqué réaliste — les trois modèles surestimaient la performance future d'environ 47–58%, ne parvenaient pas à capter l'[[retrieval-spacing-interleaving|effet d'espacement]], et pouvaient même prédire le mauvais ordre entre les conditions de pratique. Fait révélateur, les modèles *sans* mécanisme d'oubli explicite ont performé à peu près aussi bien que les versions augmentées de l'oubli à mesure que les sessions s'accumulaient, ce qui suggère que l'oubli était partiellement absorbé dans d'autres paramètres (par exemple les ordonnées à l'origine propres à chaque étudiant dans l'AFM) plutôt que réellement modélisé. Les auteurs relient cela à la distinction entre apprentissage et performance : les modèles populaires confondent la forte performance du moment avec la forte probabilité de rétention à long terme. L'implication pratique est qu'un traceur qui semble bon sur un ajustement rétrospectif peut tromper les systèmes adaptatifs qui consomment ses estimations de maîtrise, ce qui plaide pour une évaluation en marche avant et pour des modèles qui tiennent compte de l'intervalle de rétention, de l'espacement et de l'oubli entre sessions.
 
 **Une autre réserve concerne la règle probatoire qui alimente la mise à jour.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] a fait tourner quatre règles de mise à jour sur des séquences d'événements ASSISTments 2012–13 identiques, ne différant que par la manière dont elles notaient les lignes achevées avec de l'aide, sur une moitié confirmatoire de 12 716 étudiants et 985 813 événements notés. Lire une ligne ayant bénéficié d'un indice ou d'une nouvelle tentative comme une première tentative ratée prédisait le mieux la performance ultérieure sans aide (AUC regroupée de 0.658) ; créditer toute achèvement la prédisait le moins bien (0.604), à peine au-dessus d'une constante qui ne connaît que la difficulté de la compétence (0.595). Le même choix régit le décompte de la maîtrise : créditer les achèvements déclarait maîtrisées 93.9% des 113 428 paires étudiant-compétence, contre 72.8% sous la règle stricte, et les paires que la règle indulgente déclarait en avance sur la règle stricte ont abouti à 70.9% d'exactitude sans aide contre 85.7% là où les deux s'accordaient, sous le taux de base de 0.744. Un état tracé est donc en partie une fonction de la convention de notation, et pas seulement de l'apprenant seul ; aussi une estimation de maîtrise consommée par une porte [[adaptive-learning|adaptative]] devrait-elle porter la règle qui l'a produite.
 
 **Une réserve de capacité : les modèles de langue généraux tracent les connaissances à peine au-dessus d'une ligne de base triviale.** [[worden-foundationalassist-knowledge-tracing-dataset-2026|Worden et coll. (2026)]] ont publié FoundationalASSIST, qui restaure le texte intégral des questions, les réponses que les étudiants ont réellement données et leurs choix de distracteurs, que les ensembles de données de traçage antérieurs avaient écartés, et ont testé quatre [[llm|grands modèles de langue]] de pointe comme traceurs en zero-shot. Le meilleur, GPT-OSS-120B, a atteint 56.2 pour cent contre les 51.3 pour cent que marque déjà une règle prédisant toujours « correct » (AUC-ROC 0.559), sans amélioration provenant d'historiques plus longs, et Llama-3.3-70B s'est révélé exact 85.4 pour cent du temps lorsqu'un étudiant répondait correctement, mais seulement 12.6 pour cent lorsqu'il se trompait — la preuve qu'un modèle du commerce trace l'optimisme plutôt que la compréhension ; aussi la compétence apparente d'un traceur doit-elle être lue au regard de la ligne de base triviale que sa tâche permet.
 
 - **Un grand modèle de langue à passage unique peut tracer les connaissances avant que des apprenants ne soient enregistrés.** Interrogé comme une seule question dactylographiée, sans données de plateforme cible, Jev a atteint une AUC moyenne de .706, au-dessus du meilleur des 28 modèles de traçage profond entraînés sur 8 apprenants (.689), et en avance jusqu'à ce que le traçage supervisé le rattrape à 64-128 apprenants ([[system-one-llm-knowledge-tracing-2026|Lee et Park, 2026]]).
+
+## Idées fausses courantes
+
+**« Une étiquette de maîtrise signifie que l'apprenant sait. »** La maîtrise n'est pas l'exactitude — un apprenant peut paraître maître et appliquer systématiquement mal une compétence dès qu'une condition cachée est violée — et la valeur de l'étiquette dépend de la règle de comptage qui la sous-tend. Créditer les complétions déclarées a marqué **93.9% de 113,428 paires étudiant–compétence** comme maîtrisées, contre **72.8%** sous une règle stricte, et les paires que la règle indulgente déclarait en avance n'atteignaient que **70.9% d'exactitude sans aide**. Deux règles défendables produisaient un écart de 21 points sur qui était déclaré prêt.
+
+**« Ce sont les modèles de séquence qui rendent le traçage exact. »** Une grande part du gain apparent coûte moins cher que cela. Sur 1,927,265 réponses en mathématiques de 8,996 étudiants finlandais, l'identité de l'item seule atteignait une **AUC de .8362**, et l'ajout d'une seule mesure de récence relative à la difficulté de l'item la portait à **.866**. Une large part de ce qu'apportent les modèles de séquence profonds est donc disponible à partir d'une ligne de base fondée sur la difficulté des items plus la récence, si bien que les comparaisons d'architectures ont besoin de cette ligne de base pour être significatives.
+
+**« Le meilleur modèle sur un jeu de données est le meilleur modèle pour votre cours. »** L'exactitude dépend du contexte. OKT a atteint **89.81% d'AUC** sur des données LMS réelles d'un programme d'[[engineering-education|ingénierie]] (2,416 étudiants, 966 résultats), battant DKT, DKVMN, EKT et SimpleKT — tout en n'obtenant que des résultats compétitifs sur ASSISTments. La même architecture qui gagne sur une famille de jeux de données est banale sur une autre, si bien qu'une AUC phare venue d'ailleurs est une preuve faible sur vos étudiants.
+
+**« Les connaissances persistent sauf preuve d'oubli. »** L'oubli est le comportement par défaut qu'il vaut la peine de modéliser. [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] ont ajusté BKT, BKT avec oubli et le modèle des facteurs additifs sur une séquence multi-sessions et ont constaté que l'ajustement change lorsqu'on représente la rétention, et que la manière dont ces modèles sont *validés* diffère de la manière dont ils sont *déployés*.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Traitez une étiquette de maîtrise comme une affirmation dotée d'une provenance, non comme un fait. Créditer les complétions déclarées a marqué **93.9% de 113,428 paires étudiant–compétence** comme maîtrisées, contre **72.8%** sous une règle stricte — et les paires que la règle indulgente déclarait en avance atteignaient ensuite **70.9% d'exactitude sans aide**, contre l'ensemble plus strict. La règle que vous avez choisie est visible dans le nombre que vous voyez.
+- Préférez un modèle validé sur un contexte semblable au vôtre. OKT a atteint **89.81% d'AUC** sur des données LMS réelles d'un programme d'[[engineering-education|ingénierie]] (2,416 étudiants, 966 résultats), surpassant DKT, DKVMN, EKT et SimpleKT — tout en n'obtenant que des résultats compétitifs sur ASSISTments. L'avantage dépend du contexte : des affirmations d'exactitude tirées d'un autre contexte ne constituent pas votre validation.
+- Rappelez-vous que la maîtrise n'est pas l'exactitude : un apprenant peut paraître maître tout en appliquant systématiquement mal une compétence dès qu'une condition cachée est violée.
+
+**Pour les développeurs**
+
+- Ne payez pas la complexité d'un modèle de séquence sans ligne de base. Sur 1,927,265 réponses en mathématiques de 8,996 étudiants finlandais, l'identité de l'item seule atteignait une **AUC de .8362**, et l'ajout d'une seule mesure de récence relative à la difficulté de l'item la portait à **.866** — une large part de ce qu'apportent les modèles de séquence, pour une fraction de la machinerie.
+- Modélisez l'oubli explicitement plutôt que de supposer que les connaissances persistent ; les comparaisons avec BKT-intégrant-l'oubli montrent que l'ajustement change quand la rétention entre dans le modèle.
+- Rapportez la règle de déploiement à côté du modèle. L'écart entre validation et déploiement dans les études sur l'oubli est une défaillance de déclaration autant qu'une défaillance de modélisation.
+
+**Pour les chercheurs**
+
+- Rapportez des résultats sur plus d'une famille de jeux de données avant de revendiquer une supériorité architecturale, puisque le contraste OKT s'inverse entre les données LMS d'ingénierie et ASSISTments.
+- Rapportez la règle de comptage de la maîtrise comme un paramètre du résultat, et non comme une note méthodologique.
 
 ## Concepts liés
 

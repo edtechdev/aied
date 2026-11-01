@@ -1,7 +1,7 @@
 ---
 title: "Parents et familles"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:10:15-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-10-26T01:00:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -83,6 +88,16 @@ Ce qui manque est plus frappant. Les récits des parents eux-mêmes sont rares :
 Une revue de cadrage de 2026 cartographie la distance parcourue par le champ. [[llm-family-education-activity-theory-2026|Luo et al. (2026)]] ont analysé 53 études en IHC issues de 6 540 références dans 19 lieux de publication à travers la théorie de l'activité, et ont trouvé la littérature centrée sur l'interaction enfant–parent et sur le langage, l'[[ai-literacy|littératie en IA]] et l'apprentissage relationnel, avec 44 des 53 études (83 %) situées dans des configurations enfant–parent. Les systèmes conversationnels, incarnés et spatiaux génèrent du soutien à partir du contexte d'une interaction en déploiement, et les grands modèles de langue redistribuent le travail éducatif tandis que les familles et les institutions demeurent responsables de l'interprétation des productions et de la décision de la manière dont elles entrent dans la pratique. La [[personalized-learning|personnalisation]] soutenue, le travail de réparation, et la manière dont les familles négocient l'autorité et les règles sont les lacunes que nomme la revue, ce qui est la même absence que cette section documente par l'autre direction.
 
 **Relation avec les autres pages.** [[stakeholders]] est la vue d'ensemble courte de l'ensemble des acteurs, les familles y figurant comme un public non encore traité en profondeur ; cette page est cette profondeur. [[early-childhood-elementary-ai-education]] couvre le domaine développemental et [[pedagogy|pédagogique]] des jeunes apprenants à l'école comme à la maison ; cette page suit la famille à travers les âges, des activités de jeu préscolaires aux devoirs du secondaire. [[ai-use-disclosure]] couvre la question de savoir si les apprenants disent aux autres qu'ils ont utilisé l'IA ; cette page couvre la question adjacente de savoir si cette information parvient aux adultes à la maison, et ce que l'on dit aux familles de l'usage de l'IA à l'école.
+
+## Idées fausses courantes
+
+**« Les familles s'engageront si l'offre leur est faite. »** L'adoption s'effondre à chaque relais. Dans l'année 1 du programme cité ici, seuls environ **45 % des élèves désignés par les enseignants ont assisté à au moins une séance**, les familles se perdant à chaque étape — invitation, intérêt, création d'un compte sur une [[edtech-platform|plateforme tierce]], appariement. Chaque relais est un endroit où perdre une famille : une offre délivrée compte donc bien moins qu'une offre faite.
+
+**« La coordination famille–école autour de l'IA générative est une pratique établie. »** [[family-school-autonomy-support-genai-2026|Fan, Li et Zhang (2026)]] la traitent comme une **hypothèse non testée** plutôt que comme une pratique établie. Des programmes sont conçus sur une hypothèse que la littérature n'a pas encore testée, ce qu'il vaut la peine de savoir avant d'en adopter un comme fondé sur des preuves.
+
+**« Les parents s'apercevront si l'IA nuit à l'apprentissage de leur enfant. »** Ils sont les moins bien placés pour s'en apercevoir. Dans les données de [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]], les notes de devoirs ont augmenté de **18 %** tandis que les notes d'[[summative-assessment|examens à livre fermé]] ont chuté de **20 %** en six mois — et le chiffre qui monte est celui qui est visible à la maison. Un parent qui observe les devoirs voit une amélioration pendant que le résultat durable décline.
+
+**« L'usage domestique de l'IA est une question d'autorisation parentale. »** C'est une question de littératie et de plaidoyer. La littératie en IA des parents détermine ce qu'ils peuvent interroger au sujet d'un outil fourni par l'école, et les iniquités d'accès entre familles déterminent quels enfants bénéficient d'une médiation adulte.
 
 ## Concepts liés
 

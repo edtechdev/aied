@@ -1,7 +1,7 @@
 ---
 title: "Communauté d'enquête"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-24T10:57:00-04:00"
+updated: "2026-11-01T10:12:25-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-01T09:07:05-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -55,6 +60,7 @@ L'IA générative déstabilise le postulat que les indicateurs de présence peuv
 - **Gonfler la présence cognitive** — des explications fluides générées par la machine accélèrent la construction de sens mais risquent une clôture prématurée lorsque la cohérence est prise pour une justification.
 - **Imiter la présence sociale** — des énoncés produits par la machine peuvent ressembler à de l'empathie et à de la réactivité avec une grande crédibilité linguistique, compliquant la responsabilité relationnelle.
 - **Redistribuer la présence enseignante** — la conception, la facilitation et l'enseignement direct deviennent des accomplissements distribués, les enseignants montrant comment interroger les productions générées et détecter les citations hallucinées.
+- **Intervenir trop empressément** — dans une étude sur des discussions en ligne, les facilitateurs experts se sont systématiquement montrés plus prudents avant d'intervenir que les juges à base de grands modèles de langue, excessivement empressés de faciliter ; le meilleur classifieur entraîné atteignait encore un plafond bas imposé par les jeux de données disponibles ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre et Pavlopoulos, 2026]]). La redistribution de la présence enseignante modifie donc le seuil d'intervention, et un modèle interviendra là où une personne aurait attendu — le mode de défaillance qu'un forum de discussion remarque.
 
 Des données probantes empiriques fondées sur les réseaux reposent désormais sous ces affirmations : dans une quasi-expérience où 63 étudiants chinois de premier cycle (33 avec, 30 sans chatbot GPT-4o mini) ont annoté des lectures partagées sur CollaboRead au fil de cinq tâches hebdomadaires, l'[[network-analysis|analyse de réseaux épistémiques]] a montré que la classe assistée liait la présence sociale à l'intégration et à la résolution alors que la classe témoin la liait au déclenchement et à l'exploration (axe X U = 25.00, p = 0.01, r = 1.00 ; axe Y U = 13.00, p = 1.00, r = 0.04), avec un engagement cognitif et émotionnel auto-déclaré plus élevé dans la classe assistée. Les présences se séparent alors à l'intérieur de la condition plutôt qu'entre elles : les groupes à haut niveau ont initié 1407 demandes de rétroaction sur 2319 annotations (60.7%) contre 737 sur 2167 (34.0%) dans le groupe à bas niveau, qui restait dans une boucle auto-référentielle et exploitait faiblement l'étayage. ([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
@@ -67,6 +73,16 @@ Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette cond
 - La relation entre l'implication de l'IA générative et la qualité de l'enquête est **conditionnée par la responsabilité humaine**, et non linéaire : une forte présence peut survenir avec une implication élevée ou faible de l'IA générative lorsque la responsabilité est forte, et une faible présence dans les deux cas lorsque la responsabilité est faible.
 - L'[[assessment|évaluation]] de l'enquête devrait passer des productions finales polies à des **preuves sensibles au processus** — les traces d'[[prompt-engineering|formulation des invites]] et de révision, les pratiques de divulgation et d'attribution, les gestes de vérification, et les journaux d'interaction. Cela s'aligne sur le mouvement plus large de la base de connaissances vers une évaluation [[authentic-assessment|authentique]] et [[process-oriented-assessment|révélant le processus]], et à l'écart des réponses fondées sur la détection.
 - Pédagogiquement, les apprenants ont souvent besoin d'une formation explicite (par ex. une pratique [[simulation|fondée sur la simulation]] avec des rôles scriptés et des points de décision liés à l'IA générative) pour soutenir une enquête authentique dans des conditions d'IA générative — et les enseignants devraient montrer comment interroger les productions générées, ce qui suppose de bâtir l'[[ai-literacy|IA literacy]], l'[[critical-thinking|évaluation critique]] et une [[trust-calibration|confiance]] calibrée.
+
+## Idées fausses courantes
+
+**« La présence enseignante est une propriété humaine. »** À l'ère de l'IA générative, le cadre est reconceptualisé parce que le discours produit par la machine peut imiter une présence authentique : les présences se comprennent mieux comme des accomplissements sociotechniques d'assemblages humain–IA générative que comme une activité purement humaine. Un cours peut afficher une forte présence enseignante avec l'enseignant largement absent et un modèle tenant le discours.
+
+**« Une explication d'IA cohérente crée la présence cognitive. »** La cohérence n'est pas l'exactitude, et c'est précisément la propriété qui rend l'enquête réflexive difficile à soutenir : un étudiant qui trouve une explication manifestement juste a peu d'occasions de résoudre un événement déclencheur. La présence cognitive exige la résolution du doute, non sa suppression.
+
+**« La présence se répartit uniformément dans une cohorte. »** Elle se sépare *à l'intérieur* de la condition plutôt qu'entre conditions. Dans une quasi-expérience auprès de **63 étudiants chinois de premier cycle (33 avec un chatbot GPT-4o mini, 30 sans)** annotant des lectures partagées au fil de cinq tâches hebdomadaires, les présences divergeaient selon le niveau du groupe : les groupes à haut niveau ont initié **1407 demandes de rétroaction sur 2319 annotations (60,7 %)** contre **737 sur 2167 (34,0 %)** dans les groupes à bas niveau. L'accès au même outil a reproduit un écart existant dans le comportement social que mesure le cadre.
+
+**« Ajouter un agent conversationnel à un cours en ligne ajoute une présence. »** Cela modifie le mélange. La valeur du cadre sous IA générative est de rendre la substitution visible : une présence satisfaite par un modèle est une autre configuration du même construit, et les données de cohorte montrent que la substitution profite de manière inégale.
 
 ## Concepts liés
 
@@ -90,3 +106,4 @@ Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette cond
 - [[ai-communities-of-inquiry-2026]] — L'IA dans les communautés d'enquête
 - [[ai-online-education-engagement-satisfaction-2026]] — L'IA et l'engagement dans l'éducation en ligne
 - [[reflective-triangle-model-teacher-ai-2026]] — Le modèle du triangle réflexif : l'IA comme médiateur cognitif
+- [[llm-facilitation-timing-online-discussions]] — Facilitateurs humains contre facilitateurs LLM : les modèles interviennent plus empressément que les humains experts (Tsirmpas et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: "Gains d'apprentissage"
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-28T00:51:33-04:00"
+updated: "2026-11-01T10:23:40-05:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -127,6 +127,36 @@ Les chiffres de gains d'apprentissage qui dominent le résumé d'efficacité de 
 Les gains d'apprentissage se relient à l'[[assessment-validity|validité de l'évaluation]] — si les [[assessment|évaluations]] ne parviennent pas à capter la compréhension profonde, les mesures de gains d'apprentissage sont trompeuses. Ils croisent aussi la [[cognitive-offloading|dépendance excessive]] et le [[cognitive-offloading|délestage cognitif]], là où des améliorations apparentes de la performance peuvent masquer des pertes d'apprentissage, ainsi que l'[[rct|essai contrôlé randomisé]] (les essais randomisés comme conception de référence pour détecter des gains d'apprentissage causaux) et la [[meta-analysis-systematic-review|méta-analyse et la revue systématique]] (le regroupement des tailles d'effet à travers les études pour établir les données probantes d'efficacité du domaine).
 
 - **Des gains pré/post significatifs issus d'une [[pedagogy|pédagogie]] de l'IA fondée sur les erreurs :** [[pedagogy-ai-mistakes|Hosseini (2026)]] a montré, dans son cours de conception de bases de données (n=13), des gains d'apprentissage importants et significatifs sur des items identiques en pré et en post (moyenne 4.25→6.83/7, *d* de Cohen = 1.49, *p* < .001), les gains n'étant pas corrélés avec la confiance préalable en l'IA ou dans les bases de données — la conception de critique-affinage intégrant l'IA ayant profité aux étudiants quelles que soient leurs perceptions initiales.
+
+## Idées fausses courantes
+
+**« Les scores ont augmenté, donc l'intervention a produit de l'apprentissage. »** C'est l'erreur définitionnelle que cette page existe pour prévenir, et les données de terrain montrent les deux directions à la fois : l'usage de l'IA améliore les scores sur des devoirs assistés tout en *abaissant* les scores sur des mesures surveillées, à livre fermé et sans aide ([[generative-ai-reduced-study-time-math]] ; [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Le choix de la mesure détermine si l'inflation est visible, si bien qu'un gain sur une tâche où l'IA est autorisée est une affirmation sur la performance à la tâche, non sur l'[[genai-performance-vs-learning|apprentissage]].
+
+**« La méta-analyse tranche la question : l'effet est important. »** La direction de l'agrégation et son amplitude sont deux faits distincts, et l'amplitude survit rarement à l'examen. [[genai-meta-analysis-programming-learning|La méta-analyse sur l'IA générative en programmation]] trouve d'importants gains de *productivité* sans **gain d'apprentissage significatif** (g ≈ 0). [[burneo-can-edtech-close-learning-gaps-2026|La méta-analyse de la Banque mondiale]], qui regroupe 191 tailles d'effet issues de 14 essais contrôlés randomisés, estime environ 0,125 écart-type pour les technologies éducatives adaptatives et activées par l'IA, ce qui est respectable face à l'essai éducatif médian, mais **sans avantage de l'IA générative sur les outils adaptatifs antérieurs**. Citer des études de l'ère GPT comme un saut de catégorie surestime ce que les preuves agrégées montrent.
+
+**« Plus de pratique et plus de personnalisation aident toujours. »** Les gains sont des interactions contenu–traitement, pas des constantes. [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit et al. (2025)]] montrent que le ratio optimal entre exemples et problèmes dépend de ce qui est appris : la pratique de récupération l'emporte pour des faits à restituer tels quels, la pratique intégrée aux exemples pour des compétences généralisables. Et la [[lak2026-hint-button-unproductive-use|recherche sur les boutons d'indice]] trouve un volume d'indices associé négativement à l'apprentissage. Le même « soutien » qui aide une composante de connaissance peut faire perdre du temps sur l'autre.
+
+**« Un post-test différé est automatiquement un résultat d'apprentissage durable. »** Le délai est nécessaire et non suffisant. Ce qui distingue un apprentissage durable dans ce corpus, c'est une mesure *sans aide* dans des conditions différées, accompagnée de la preuve que l'effet n'est pas porté par l'étai qui sera absent au moment du transfert.
+
+## Implications pour la pratique
+
+**Pour les enseignants**
+
+- Séparez la note que vous donnez de l'affirmation que vous avancez. Un travail assisté par l'IA peut évaluer équitablement la qualité d'un produit tout en ne disant rien de la capacité sans aide ; si vous avez besoin de la seconde, il faut la mesurer séparément.
+- Faites correspondre le format de pratique au type de connaissance. Utilisez la récupération pour les faits et l'alternance avec des exemples travaillés pour les procédures transférables, plutôt qu'un format par défaut pour les deux.
+- Surveillez le volume d'indices comme un diagnostic, pas seulement comme un soutien. Une utilisation croissante des indices avec des performances sans aide stagnantes est la signature d'une dépendance qui ressemble à du travail productif.
+
+**Pour les développeurs**
+
+- Rapportez la productivité et les résultats d'apprentissage comme deux mesures distinctes, puisque le corpus trouve régulièrement la première sans trouver la seconde (g ≈ 0 dans la méta-analyse en programmation). Un tableau de bord qui les confond sera lu comme une preuve d'apprentissage.
+- Ne supposez pas que votre système se généralise d'une composante de connaissance à l'autre. Le résultat sur le ratio exemples–problèmes implique que l'ordonnancement optimal est une propriété du contenu, non de la plateforme.
+- Rendez visible pour les enseignants l'usage des indices et des étais, car le volume est l'un des rares signaux comportementaux empiriquement liés à des résultats plus faibles.
+
+**Pour les chercheurs**
+
+- Préenregistrez la mesure de résultat et précisez si elle est autorisée avec l'IA ou réalisée sans aide. La direction du résultat peut basculer sur ce seul choix.
+- Rapportez les tailles d'effet par rapport à une comparaison nommée, non par rapport à des « approches traditionnelles » dans l'abstrait. Le résultat de la Banque mondiale n'est interprétable que parce qu'il nomme sa classe de comparaison.
+- Distinguez explicitement l'inflation de performance du déplacement de l'apprentissage, car les deux impliquent des remèdes différents : la refonte de la tâche dans un cas, le réenseignement dans l'autre.
 
 ## Concepts liés
 

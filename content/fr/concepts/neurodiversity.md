@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-11-01T10:19:17-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,13 +9,17 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-10-16T08:47:09-04:00"
+source_updated: "2026-10-26T09:10:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -80,6 +84,12 @@ Le versant du risque a sa propre littérature. [[seung-basham-cognitive-offloadi
 ## Connections
 
 La neurodiversité est liée à l'[[special-education|éducation spécialisée]], à l'[[inclusive-learning|apprentissage inclusif]], à la [[universal-design-for-learning|conception universelle de l'apprentissage]] et à l'[[equity-in-ai-education|équité dans l'IA en éducation]]. Elle informe à la fois la manière dont l'IA est déployée pour l'[[student-experience|expérience étudiante]] et la manière dont les évaluations et les programmes de littératie sont conçus pour être équitables face à la variabilité cognitive. Pour savoir comment ces résultats se situent aux côtés d'autres groupes d'apprenants — langue, genre, statut socioéconomique, géographie — voir [[differential-effects-across-learner-groups|Effets différentiels selon les groupes d'apprenants]].
+
+## Idées fausses courantes
+
+- **« La recherche sur la neurodiversité est un recoin de niche de l'AIED. »** Le champ s'est **réorganisé autour de l'[[generative-ai|IA générative]] — 15 des 40 études** — les formats immersifs venant ensuite avec 11. La littérature a suivi la technologie plutôt que de s'accumuler autour de questions stables.
+- **« Plus d'IA pour la dyslexie signifie un meilleur soutien. »** [[dabaghi-ai-dyslexia-education-review-2026|La revue interdisciplinaire de l'IA pour la dyslexie (Dabaghi, D'Urso et Sciarrone, 2026)]] couvre **72 études entre 2018 et 2024** et constate que l'IA est employée dans une large gamme de finalités. L'étendue des applications n'est pas une preuve d'efficacité pour l'une d'entre elles.
+- **« Les aménagements sont le bon cadre pour les apprenants neurodivergents. »** [[neurodivergent-computing-students|Une enquête auprès de 24 étudiants neurodivergents en informatique et de 20 pairs neurotypiques]] avec quatre entretiens approfondis a trouvé des besoins qui sont des **exigences de conception générales** — devoirs structurés, petites équipes stables, rôles explicites — plutôt que des ajustements individuels accordés après un diagnostic.
 
 ## Concepts liés
 

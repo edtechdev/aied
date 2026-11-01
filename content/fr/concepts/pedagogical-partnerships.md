@@ -1,7 +1,7 @@
 ---
 title: "Partenariats pédagogiques"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:13:26-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,11 +18,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Partenariats [[pedagogy|pédagogiques]]** (aussi appelés **étudiants comme partenaires** ou **SaP**) — une approche de l'enseignement et de l'apprentissage centrée sur la relation, dans laquelle étudiants et éducateurs travaillent ensemble comme collaborateurs pour co-créer le programme d'études, les activités d'enseignement, l'[[assessment|évaluation]], les ressources éducatives ouvertes et les politiques éducatives, plutôt que de traiter les étudiants comme des destinataires passifs d'un enseignement conçu par le corps professoral. Enracinés dans les valeurs de **respect, réciprocité et responsabilité** (Cook-Sather et al., 2014), le partenariat pédagogique repositionne les étudiants comme co-créateurs de savoir et d'innovation éducative et met au défi les dynamiques de pouvoir descendantes traditionnelles de l'éducation. À l'ère de l'IA, le partenariat est devenu un contre-récit clé face aux visions déficitaires des étudiants comme fraudeurs ou victimes de l'IA — les positionnant comme partenaires de la co-conception des politiques, des outils et des pratiques liées à l'IA.
+> **Partenariats [[pedagogy|pédagogiques]]** (aussi appelés **étudiants comme partenaires** ou **SaP**) — une approche de l'enseignement et de l'apprentissage centrée sur la relation, dans laquelle étudiants et éducateurs travaillent ensemble comme collaborateurs pour co-créer le programme d'études, les activités d'enseignement, l'[[assessment|évaluation]], les [[open-education|ressources éducatives ouvertes]] et les politiques éducatives, plutôt que de traiter les étudiants comme des destinataires passifs d'un enseignement conçu par le corps professoral. Enracinés dans les valeurs de **respect, réciprocité et responsabilité** (Cook-Sather et al., 2014), le partenariat pédagogique repositionne les étudiants comme co-créateurs de savoir et d'innovation éducative et met au défi les dynamiques de pouvoir descendantes traditionnelles de l'éducation. À l'ère de l'IA, le partenariat est devenu un contre-récit clé face aux visions déficitaires des étudiants comme fraudeurs ou victimes de l'IA — les positionnant comme partenaires de la co-conception des politiques, des outils et des pratiques liées à l'IA.
 
 ## Questions à examiner
 
@@ -58,6 +62,7 @@ L'intersection du partenariat pédagogique et de l'IA est l'un des fils à la cr
 
 - **Les étudiants comme co-concepteurs des politiques d'IA.** Plutôt que d'imposer aux étudiants des règles d'IA, le partenariat positionne les étudiants comme co-créateurs de politiques d'IA au niveau du cours et de l'institution. Par exemple, une activité d'enquête guidée dans laquelle des étudiants co-concevaient une politique de cours sur l'[[generative-ai|IA générative]] a fait émerger les priorités des étudiants autour de la formation, de la divulgation standardisée, du soutien institutionnel et de l'implication dans la prise de décision ([[guided-inquiry-genai-course-policy-2026]]).
 - **Les étudiants comme co-créateurs d'outils d'IA.** Dans les cadres d'étudiants comme partenaires, les étudiants ont co-conçu et affiné des [[conversational-ai|agents conversationnels]] personnalisés alignés sur des objectifs pédagogiques — une approche qui étend le paradigme SaP pour inclure les outils d'IA eux-mêmes et positionne la voix des étudiants comme centrale pour une innovation responsable en matière d'IA ([[lo-co-creating-custom-gpts-sap-2026]]).
+- **Co-création à grande échelle, mesurée avec prudence.** Dans un cours de conception logicielle réunissant 710 étudiants, les étudiants ont construit un tuteur IA pour un pair au lieu d'en utiliser un. La liberté de conception était le thème positif dominant (22,3%) et les consignes peu claires la plainte principale (23,7%), mais l'apprentissage perçu ne corrélait avec les scores aux quiz que de r = 0,161 à 0,315 et la conception n'avait pas de groupe témoin ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Construire l'outil est une pédagogie plausible et, selon ces données, non prouvée, ce qui explique pourquoi l'argument en sa faveur repose sur l'activité de conception plutôt que sur des gains de résultats.
 
 - **Co-conception à l'échelle de la classe entière, évaluée par auto-évaluation.** Un programme de première année en sciences de l'information a fait co-concevoir par les étudiants et le corps professoral les objectifs et les politiques du cours la première semaine, puis les a revisités au long du trimestre, les étudiants s'auto-évaluant eux-mêmes et leurs groupes par rapport à des objectifs personnels, des objectifs d'équipe et un barème partagé plutôt que par rapport à des produits finaux ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand et Fundator (2025)]]).
 - **Co-création dans l'évaluation et avec l'IA.** Des partenariats entre étudiants et personnel ont co-évalué des productions générées par l'IA dans des évaluations de cours et co-conçu des critères d'évaluation, améliorant la compréhension des bénéfices et des limites de l'IA et soutenant l'[[self-regulated-learning|apprentissage autorégulé]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
@@ -72,7 +77,7 @@ Ces fils partagent une affirmation centrale : les personnes qui vivront avec l'[
 Le partenariat pédagogique est apparenté à, mais distinct de, plusieurs concepts voisins :
 
 - **L'[[agency|autonomie de l'apprenant]] et l'[[self-directed-learning|apprentissage autodirigé]] :** le partenariat soutient l'autonomie de l'apprenant en donnant aux étudiants une voix sur ce qu'ils apprennent et comment, et il recoupe l'apprentissage autodirigé. Cependant, le partenariat est fondamentalement *relationnel* — l'autonomie et la direction émergent de la relation enseignant–étudiant plutôt qu'en isolement. Certains cadres conceptualisent cela comme une « autonomie partagée » qui existe dans la relation entre l'étudiant et l'enseignant, et non au sein de l'une ou l'autre partie seule.
- Anastasia (2026) nomme les huit conditions qu'un tel partenariat exige — présence de l'enseignant, confiance, sécurité psychologique, dialogue, voix et choix, rétroaction significative, réflexion, et responsabilité partagée — et soutient que le choix seul ne crée pas l'autonomie : on peut remettre des options aux étudiants alors qu'ils manquent de l'information, de la confiance ou de la sécurité psychologique pour les exercer ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
+- Anastasia (2026) nomme les huit conditions qu'un tel partenariat exige — présence de l'enseignant, confiance, sécurité psychologique, dialogue, voix et choix, rétroaction significative, réflexion, et responsabilité partagée — et soutient que le choix seul ne crée pas l'autonomie : on peut remettre des options aux étudiants alors qu'ils manquent de l'information, de la confiance ou de la sécurité psychologique pour les exercer ([[anastasia-shared-agency-partnership-framework-2026|Anastasia (2026)]]).
 - **L'[[collaborative-learning|apprentissage collaboratif]] :** les deux impliquent de travailler ensemble, mais l'apprentissage collaboratif désigne généralement des étudiants apprenant *les uns avec les autres* au sein d'une activité conçue, tandis que le partenariat pédagogique centre les étudiants et le personnel collaborant à la *conception* de l'éducation elle-même.
 - **L'[[student-engagement|engagement étudiant]] :** le partenariat est une forme profonde d'engagement, mais l'engagement décrit l'implication d'un étudiant dans l'apprentissage tandis que le partenariat décrit une relation de pouvoir transformée, dans laquelle les étudiants partagent la responsabilité de façonner cet apprentissage.
 - **Le [[teacher-role|rôle de l'enseignant]] :** le partenariat redéfinit le rôle de l'enseignant, d'autorité unique et de gardien du savoir à co-concepteur et guide intellectuel, sans diminuer l'expertise du corps professoral.
@@ -88,6 +93,7 @@ Le partenariat pédagogique est apparenté à, mais distinct de, plusieurs conce
 - L'équité dans le partenariat : quels étudiants ont le droit de participer, quelles voix sont centrées, et comment les formes à l'échelle de la classe entière ou sélectives répartissent le bénéfice.
 - Les contraintes de ressources et institutionnelles pesant sur le partenariat, y compris la nature exigeante en temps de la véritable co-conception.
 - Comment le partenariat se rattache aux pédagogies décolonisatrices, critiques et [[critical-pedagogy|critiques]] qui mettent au défi les hiérarchies traditionnelles et centrent de multiples manières de connaître.
+- **Le mentorat peut aller dans les deux sens.** Dans un programme de 20 fellows et 15 stagiaires réparti sur 14 départements de Columbia, les stagiaires enseignaient les outils d'IA aux enseignants tandis que les enseignants enseignaient les normes disciplinaires, la plupart des binômes s'installant dans un modèle de Traducteur ([[learning-by-collaborating-ai-research-mentorship-2026|Zheng (2026)]]).
 
 ## Implications pratiques
 
@@ -98,6 +104,12 @@ Pour les éducateurs et les institutions cherchant à adopter le partenariat pé
 3. **Mener par la relation et la confiance.** Le partenariat fonctionne lorsque la confiance, la sécurité psychologique, le dialogue et la responsabilité partagée sont délibérément cultivés — et non présumés.
 4. **À l'ère de l'IA, invitez les étudiants plutôt que de les surveiller.** Co-concevoir les politiques, les outils et l'évaluation liés à l'IA avec les étudiants est à la fois plus équitable et plus efficace que des réponses fondées sur le déficit.
 5. **Prenez en compte l'équité de la participation.** Le partenariat à l'échelle de la classe entière offre la participation la plus large ; les programmes sélectifs doivent prêter attention à quels étudiants sont invités et inclus.
+
+## Idées fausses courantes
+
+- **« Le partenariat signifie élever la voix des étudiants. »** Un partenariat pédagogique est une **relation bornée et négociée** avec des rôles définis et une obligation réciproque, et non une consultation. Une voix sans rôle, sans mandat et sans part de la décision ne change rien de structurel.
+- **« Le partenariat est une posture que l'on peut adopter. »** Il exige des conditions institutionnelles — du temps, une reconnaissance pour l'étudiant partenaire et un changement que les partenaires peuvent réellement affecter. Un partenariat déclaré sans ces conditions reproduit la hiérarchie qu'il prétend interrompre.
+- **« Le partage du pouvoir ne peut pas être du développement professionnel. »** La thèse de la littérature est que le partenariat est du développement *parce qu'il* change la compréhension de l'éducateur par la relation. Le réduire à un bénéfice pour les étudiants écarte le mécanisme.
 
 ## Concepts liés
 
@@ -131,3 +143,4 @@ Pour les éducateurs et les institutions cherchant à adopter le partenariat pé
 - [[anastasia-shared-agency-partnership-framework-2026]] — Autonomie partagée : le cadre de partenariat d'autonomie pour la collaboration enseignant–étudiant
 - [[maybee-disruptive-partnerships-sap-2025]] — Partenariats perturbateurs : collaborer avec les étudiants en sciences de l'information
 - [[student-centered-genai-responsible-framework-2026]] — Cadre centré sur l'étudiant pour l'usage responsable de l'IA générative
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Des étudiants ont construit un tuteur IA pour leurs pairs à l'échelle de 710 étudiants : engagement élevé, données d'apprentissage exploratoires (Zangari et al. 2026)

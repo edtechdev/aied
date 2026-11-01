@@ -1,7 +1,7 @@
 ---
 title: "Analytique de l'apprentissage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-24T10:37:31-04:00"
+updated: "2026-11-01T10:13:36-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-10-24T06:12:00-04:00"
+source_updated: "2026-10-31T09:55:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,9 +46,10 @@ ai_assist:
 
 ### Analyses enrichies par l'IA
 
-- **Analytique prédictive :** l'[[reinforcement-learning|apprentissage automatique]] appliqué aux données d'interaction des apprenants prédit les résultats — de l'[[at-risk-students-ml-prediction|identification des élèves à risque]] à l'[[knowledge-tracing|estimation de l'état des connaissances]].
+- **Analytique prédictive :** l'[[machine-learning|apprentissage automatique]] appliqué aux données d'interaction des apprenants prédit les résultats — de l'[[at-risk-students-ml-prediction|identification des élèves à risque]] à l'[[knowledge-tracing|estimation de l'état des connaissances]].
 - **La validation compte autant que la prédiction.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan et Carvalho (2025)]] montrent que les modèles prédictifs d'état des connaissances (BKT, BKT avec oubli, AFM) semblent exacts lorsqu'ils sont ajustés rétrospectivement sur l'historique complet d'une session, alors que, sous **validation croisée temporelle** — prédire la séance suivante à partir des précédentes, comme les analyses sont réellement déployées — ils surestiment la performance de l'apprenant, manquent la dynamique d'espacement et d'oubli, et peuvent mal ordonner les conditions de pratique. La mise en garde pour l'analytique : un ajustement rétrospectif peut masquer une faible validité prédictive prospective sur des données longitudinales, de sorte que les modèles d'indicateurs et de tableaux de bord devraient être validés en marche avant.
 - **Valider la correspondance item–attribut qui sous-tend l'estimation.** La matrice Q reliant les items aux attributs est une hypothèse, non une donnée : des entrées rejetées pour 14 des 918 items de pensée analytique, une fois corrigées, ont fait tomber un patron d'état des connaissances fallacieux de 14.2% à 3.8% — aussi l'analytique de la maîtrise devrait-elle auditer sa matrice Q, et pas seulement son ajustement prédictif ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]]).
+- **L'approbation ne prédit pas le schéma d'engagement.** Les données de traces d'un outil d'analytique destiné aux apprenants dans un cours de programmation assisté par IA générative ont réparti 27 étudiants entre explorateurs profonds, auto-orientés et orientés vers les pairs, plus un profil final d'explorateurs limités, et pourtant les perceptions favorables de l'assistant ne différaient pas significativement entre ces profils ([[sun-gai-learning-analytics-behaviors-2026|Sun et al. (2026)]]).
 - **Analytique prédictive ancrée dans le [[curriculum-design|programme]] :** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] estiment les états de connaissances au sein d'une pédagogie par résultats, en traçant directement les résultats de cours à partir des données d'interaction et de réussite issues du LMS, en utilisant des correspondances d'affinité propres à cette pédagogie (relations entre résultats de cours et résultats de programme) pour structurer les liens conceptuels et un réseau à mémoire augmentée pour modéliser l'impact entre résultats — atteignant 89.81% d'AUC et surpassant DKT, DKVMN, EKT et SimpleKT sur des données vivantes d'ingénierie universitaire, tout en restant seulement compétitifs (et non supérieurs) sur les données ASSISTments à usage général.
 - **Prédiction interprétable de la progression, avec une fenêtre d'action :** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] prédisent la progression des élèves au niveau des modules dans des cours en ligne de [[cs-education|programmation]] à grande échelle, à partir de traits d'interaction avec le contenu, en utilisant des arbres de décision transparents qui égalent l'exactitude des modèles opaques (85–91%) tout en signalant les abandons de type « aucune soumission » jusqu'à 7 à 8 jours avant les échéances de module — une fenêtre explicite, en temps réel, pour l'[[teacher-role|intervention]], plutôt qu'un simple signal de risque, et une typologie exploratoire des profils désengagé-à-risque, désengagé-mais-réussissant, et performant-engagé.
 - **Modélisation fédérée et explicable du risque entre institutions (2026).** [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] étendent la modélisation du risque au-delà de la prédiction intra-institutionnelle en entraînant un modèle multitâches (performance + abandon) sur des institutions simulées par apprentissage fédéré, de sorte que les données brutes des élèves ne quittent jamais chaque institution. Sous hétérogénéité contrôlée (déséquilibre des étiquettes, déséquilibre des classes, dérive temporelle, manquement structurel), le modèle préserve l'exactitude du classement (AUC OULAD 0.918) et des classements d'importance des traits structurellement stables, alors que le calibrage probabilistique dérive — découplant la performance de classement de la fiabilité des probabilités. Pour les systèmes d'alerte précoce, c'est une mise en garde : les interventions fondées sur des seuils pourraient nécessiter un calibrage propre à chaque institution, et un argument pour évaluer l'analytique simultanément selon la discrimination, le calibrage, la robustesse et l'explicabilité.
@@ -57,6 +62,8 @@ ai_assist:
 - **Un cadre de gouvernance pour les données des élèves.** LEAGUE propose six piliers — Lawfulness, Equity, Agency, Governance, Utility et Ethics by Design — traitant la conformité au FERPA et au RGPD comme un plancher et recommandant une réévaluation programmée à mesure que les modèles dérivent ([[league-ethical-governance-student-data-2026|Varadaraju & Vijayakumar (2026)]]).
 
 **Modéliser la simultanéité des cours, et pas seulement la séquence.** TRACE donne à chaque cours d'un semestre le même encodage positionnel, et la prédiction conjointe des cours et des notes a ramené l'erreur de prédiction des notes à 0.1339 d'erreur absolue moyenne — une réduction de 46.4% par rapport à un transformateur fondé sur les seules notes — sur dix ans de données institutionnelles ([[trace-course-grade-prediction-2026|Savala (2026)]]).
+
+**Les données d'interaction sont un problème de représentation avant d'être un problème de modélisation.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] traitent chaque échange humain-IA comme un enregistrement structuré portant le calcul qui a motivé la requête, la requête, la réponse, la rétroaction de l'utilisateur et l'exécution qui a suivi, plutôt que comme une invite isolée. Sur 140 paires étudiant-devoir dans un déploiement à 35 étudiants, le seul nombre d'interactions corrélait avec les cellules exécutées avec succès à r = 0.12, et le même appel pouvait être une récupération d'erreur, une étape suivante, une vérification de concept ou une validation selon l'état qui l'entourait. Trente-sept paires disposant d'un accès n'ont produit aucune interaction, de sorte que l'absence d'usage de l'IA dans un journal ne peut pas être lue comme une absence de besoin.
 
 ### Le cycle de l'analytique de l'apprentissage
 
@@ -120,6 +127,14 @@ L'instrumentation au niveau du processus est le pas suivant de la couche descrip
 
 - **Le mur des systèmes d'apprentissage : les données de journalisation ne se généralisent pas d'une plateforme à l'autre.** MATHia, i-Ready et IXL définissent chacun différemment même les constructions les plus élémentaires — une « tentative », un « indice » — si bien que les modèles ne peuvent pas être transférés de l'un à l'autre. Une réponse encore en cours de développement attaque le problème du côté de la vidéo : un pipeline Gemini distille des enregistrements d'écran de tutorat en un transcript unique de scénario, aligné sur les journaux natifs de MATHia comme vérité terrain. Ce que la vidéo récupère et qu'aucun flux unique ne fournit : l'[[scaffolding|étayement]] au tableau, le calcul silencieux dans des outils externes, et le contexte hors écran que les journaux natifs réduisent à de « l'inactivité ». Des défis ouverts subsistent en matière d'ancrage temporel, de dérive des horloges, et de séparation entre événements de la plateforme et autres processus d'apprentissage. ([[thomas-breaking-learning-system-wall-2026]])
 
+- **Les journaux d'interaction peuvent perdre contre une ligne de base constante.** Les caractéristiques semestrielles tirées de 16,851 échanges avec un tuteur LLM surpassaient un prédicteur médian des notes de devoirs de 0.114 point, un intervalle croisant zéro, avec 62.1% de l'erreur dans le quartile le plus bas ([[llm-tutoring-interaction-predictive-value-2026|Dong et al. (2026)]]).
+
+## Idées fausses courantes
+
+- **« Une estimation de l'état des connaissances hérite sa validité des données. »** **La matrice Q qui relie les items aux attributs est une hypothèse, pas une donnée** : des entrées rejetées pour **14 des 918 items analysés** signifient que la correspondance elle-même a exigé un arbitrage. Valider la correspondance est une étape, pas une formalité.
+- **« L'analytique a besoin de traces de clics. »** Les états de connaissances peuvent être estimés au sein d'une pédagogie par résultats en **traçant directement les résultats de cours à partir des données d'interaction et de réussite du LMS**, à l'aide de correspondances d'affinité propres à cette pédagogie — le dossier institutionnel fournit le signal.
+- **« Une prédiction sans fenêtre d'action est utile. »** La prédiction de progression est plus utilisable lorsqu'elle est **interprétable et assortie d'une fenêtre d'action** : [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries et Koprinska (2025)]] prédisent des résultats au niveau du module, une forme sur laquelle un conseiller peut agir, contrairement à un score brut.
+
 ## Concepts liés
 
 - [[explainable-ai]]
@@ -141,6 +156,7 @@ L'instrumentation au niveau du processus est le pas suivant de la couche descrip
 
 ## Articles liés
 
+- [[taufer-human-ai-interaction-haidl-2026]] — Les échanges humain-IA comme enregistrements structurés : le nombre d'invites ne porte presque aucun signal sur la progression
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Repérer et orchestrer les analyses d'IA en argumentation collective (Lee, Park & Lee 2026)
 - [[factria-responsible-institutional-analytics-2026]] — Analytique institutionnelle responsable : interpréter les biais avec le soutien de l'IA
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education

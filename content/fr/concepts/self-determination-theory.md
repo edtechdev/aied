@@ -1,7 +1,7 @@
 ---
 title: "La théorie de l'autodétermination"
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-24T10:38:10-04:00"
+updated: "2026-11-01T10:13:16-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,13 +9,17 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-10-17T07:38:51-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -43,6 +47,7 @@ Le **développement professionnel des enseignants fondé sur la SDT** applique l
 **La SDT dans l'engagement d'apprentissage médié par l'IA** examine la manière dont les outils d'[[generative-ai|IA générative]] façonnent la motivation des élèves. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** ont combiné la SDT avec l'[[network-analysis|analyse de réseaux épistémiques]] pour étudier l'engagement des élèves envers l'IA générative dans l'apprentissage académique. **[[ai-availability-student-motivation]]** explore la manière dont la disponibilité de l'IA affecte la motivation et la persévérance des élèves, en lien avec les inquiétudes d'[[cognitive-offloading|érosion motivationnelle]] liées à la dépendance excessive. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** étendent la SDT à l'apprentissage avec l'IA au moyen d'une analyse de transitions latentes portant sur **2,086 élèves du secondaire** engagés pendant un an dans un [[curriculum-design|programme]] d'IA, identifiant **trois profils motivationnels (Désengagé, En développement, Autodéterminé)** stables dans le temps et montrant que la plupart des élèves ont maintenu leur profil ou progressé vers des profils plus élevés. Point crucial, les élèves ayant atteint ou conservé le profil Autodéterminé ont montré les **plus grands gains de [[ai-literacy|littératie en IA]]** — une preuve longitudinale directe que la satisfaction de l'autonomie, de la compétence et du sentiment d'appartenance prédit de meilleurs résultats d'apprentissage avec l'IA, et que la motivation est une propriété développementale (et non figée) de l'apprenant.
 
 Un résultat de classe contrasté montre que ces besoins n'évoluent pas ensemble : parmi 2,464 élèves des premières années du secondaire, un apprentissage par compétences soutenu par ChatGPT a accru le soutien à l'autonomie et la satisfaction du besoin de compétence, tout en produisant une plus grande part de profils motivationnels de faible qualité, et la satisfaction du besoin d'appartenance était plus faible que dans un apprentissage par compétences sans IA ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
+- **La disponibilité n'est pas l'usage.** Avec 406 élèves de la 5e à la 8e année écrivant deux fois, une fois sans outils numériques et une fois avec l'IA générative en option, la satisfaction du besoin d'autonomie a baissé (Δ = −0,28) tandis que la régulation moyenne est restée stable et que le degré d'usage de l'IA ne prédisait l'appartenance à aucun profil ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder et Grahl (2026)]]).
 
 L'autonomie, et non la facilité, portait ici le gain motivationnel. Un [[rct|essai randomisé]] à trois bras a constaté qu'un tuteur qui retient ses indices, laissant les apprenants construire leur propre solution, était le seul bras à augmenter la motivation intrinsèque (2,82 contre 2,42), tandis que ChatGPT sans restriction, qui fournit la réponse, ne le faisait pas (2,64, p = ,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et coll. (2026)]]).
 
@@ -63,6 +68,14 @@ Un cadre de co-agence borne la portée de la SDT dans l'éducation médiée par 
 ## Connexions
 
 La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[affective-computing|informatique affective]] et au [[affective-tutoring|tutorat affectif]] pour la conception d'une IA sensible aux émotions, et à la [[student-experience|expérience étudiante]] pour la manière dont les apprenants vivent les environnements médiés par l'IA. L'accent mis par la théorie sur l'autonomie la relie à l'[[self-regulated-learning|apprentissage autorégulé]], tandis que sa dimension de compétence la relie à [[self-efficacy-tutoring-learning]] et à la [[teacher-ai-competency|compétence des enseignants en IA]]. La SDT est particulièrement pertinente pour la [[professional-training|formation professionnelle]] et le [[educational-development|développement éducatif]], parce qu'une conception soutenant les besoins est un principe transférable pour préparer les enseignants à utiliser l'IA.
+
+**Les trois besoins ne sont pas exercés de manière égale par la recherche sur l'IA générative.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna et Jiang (2026)]] ont codé 39 études selon une classification de 20 activités et trouvé 14 activités présentes, avec sept types liés à la compétence contre cinq pour l'autonomie et deux pour l'appartenance. Six activités étaient absentes de toutes les études, et la plupart demandent à l'élève de juger ou de contester l'outil : créer des problèmes exigeants, anticiper les sorties de l'outil, noter ces sorties et en débattre avec lui. L'appartenance est le besoin que la littérature teste le moins.
+
+## Idées fausses courantes
+
+- **« Le type de motivation compte moins que sa quantité. »** Une étude d'un an a trouvé **trois profils motivationnels — Désengagé, En développement, Autodéterminé — stables dans le temps**, et les élèves ayant atteint le profil **Autodéterminé** ont montré les **plus grands gains de [[ai-literacy|littératie en IA]]**. La qualité de la motivation prédisait l'apprentissage, et les profils ne dérivaient pas simplement vers le haut.
+- **« Soutenir l'autonomie signifie retirer la structure. »** Le mécanisme de la SDT est l'autonomie, la compétence et l'appartenance ensemble, et les preuves longitudinales montrent que leur satisfaction prédit les gains plutôt qu'elle ne les accompagne simplement. L'autonomie sans soutien à la compétence est de la permissivité, et elle ne remplit pas les conditions de la théorie.
+- **« Un agent conversationnel peut fournir les trois besoins automatiquement. »** Une étude a constaté que ChatGPT pouvait soutenir l'autonomie, l'appartenance et la compétence en apprentissage des langues — une possibilité, non une propriété. Savoir si une interaction donnée les soutient est une question empirique sur la manière dont elle est utilisée.
 
 ## Concepts liés
 
@@ -95,3 +108,5 @@ La SDT se relie directement à la [[motivation]] comme construct parent, à l'[[
 - [[genai-learning-engagement-medical-undergraduates-2026]] — L'usage de l'IA générative est faiblement lié à la satisfaction des besoins et inutile pour un engagement élevé (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Double cheminement de la collaboration enseignant-IA vers l'engagement au travail, modéré par la compétence numérique
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Un tuteur qui retient ses indices préservait l'autonomie là où la fourniture de réponses ne le faisait pas
+- [[schweder-motivational-organization-ai-writing-sdt-2026]] — Disponibilité de l'IA, baisse de l'autonomie et profils motivationnels en 5e–4e (Schweder & Grahl 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] — 39 études codées selon une classification de 20 activités ; la compétence est la plus exercée, l'appartenance la moins

@@ -1,14 +1,15 @@
 ---
 title: "L'enseignement des sciences"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-24T10:43:42-04:00"
+updated: "2026-11-01T10:17:46-05:00"
 type: concept
 pedagogy: [inquiry-based-learning]
 technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
+connected_resources: [teacher-dev]
 translation_of: concepts/science-education
-source_updated: "2026-10-23T22:38:41-04:00"
+source_updated: "2026-10-28T19:28:52-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -16,11 +17,15 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **[[stem-education|L'enseignement des sciences]]** — l'étude et la pratique de la manière dont les élèves apprennent les sciences et dont on les enseigne, un domaine aujourd'hui remodelé par l'IA générative (LLM, simulations, laboratoires virtuels et correction automatique) en [[physics-education|physique]], en chimie et en [[biology-education|biologie]]. Les articles sur l'enseignement des sciences de cette base de connaissances révèlent un champ qui négocie une tension centrale : l'IA soutient de manière démontrable la démarche d'investigation, la correction des conceptions erronées et l'évaluation à grande échelle, mais sa valeur dépend de la conception pédagogique, et elle comporte des risques réels de [[cognitive-offloading|délégation excessive]], d'hallucination et d'apprentissage déshumanisé, guidé par le profit.
+> **[[science-education|L'enseignement des sciences]]** — l'étude et la pratique de la manière dont les élèves apprennent les sciences et dont on les enseigne, un domaine aujourd'hui remodelé par l'IA générative (LLM, simulations, laboratoires virtuels et correction automatique) en [[physics-education|physique]], en chimie et en [[biology-education|biologie]]. Les articles sur l'enseignement des sciences de cette base de connaissances révèlent un champ qui négocie une tension centrale : l'IA soutient de manière démontrable la démarche d'investigation, la correction des conceptions erronées et l'évaluation à grande échelle, mais sa valeur dépend de la conception pédagogique, et elle comporte des risques réels de [[cognitive-offloading|délégation excessive]], d'hallucination et d'apprentissage déshumanisé, guidé par le profit.
 
 ## Questions à examiner
 
@@ -70,6 +75,12 @@ La préparation des enseignants est décisive. [[pre-service-science-teachers-ai
 Dans une méta-analyse de 42 études sur l'IA générative et la motivation, le plus faible effet par domaine disciplinaire se situe en sciences (g = 0.109, IC à 95% [−0.107, 0.325], k = 3), le seul domaine dont l'intervalle traverse zéro, si bien que les données regroupées n'étayent pas un argumentaire [[motivation|motivationnel]] en faveur de l'IA générative spécifiquement en sciences ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 
 En tant que cadre plutôt qu'étude, [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] redéfinissent la cible : la vision I de la littératie scientifique pour la compétence dans les carrières scientifiques, la vision II pour la science dans la vie quotidienne et citoyenne, et la vision III pour la connaissance et l'action à l'échelle communautaire et sociétale. Ils soutiennent que l'[[generative-ai|IA générative]] mérite sa place dans les classes de sciences seulement lorsqu'elle fait converger programme, enseignement et évaluation avec l'une de ces visions, et que le problème persistant du champ tient aux épreuves qui récompensent le rappel de terminologie alors que les normes exigent explication et investigation.
+
+## Idées fausses courantes
+
+- **« L'IA en enseignement des sciences n'a pas de preuves causales. »** Une **évaluation randomisée de quatre semaines** d'une plateforme de révision par IA en sciences au GCSE fournit une estimation causale de **g de Hedges = 0.33**, **sans preuve que l'effet diffère selon la matière**. L'effet est modeste et il est causal.
+- **« Donnez accès aux étudiants et les gains suivront. »** **C'est l'accès structuré, et non l'accès en soi, qui produit le gain** : la progression rapportée par les équipes atteignait en moyenne **17% sous un accès individuel illimité, mais 34% et 31% lorsque l'accès était structuré**. La structure était l'intervention.
+- **« La simulation scientifique exige un logiciel spécialisé. »** Une **invite en langage naturel à quatre éléments** peut générer une **simulation physique en réalité augmentée contrôlée à la main**. La barrière à l'écriture d'une simulation est descendue au niveau de la conception de l'invite, ce qui déplace la compétence requise de la programmation vers la spécification du phénomène.
 
 ## Concepts liés
 

@@ -1,19 +1,23 @@
 ---
 title: "Diagnostic cognitif"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-24T10:43:48-04:00"
+updated: "2026-11-01T10:17:10-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-10-15T10:00:00-04:00"
+source_updated: "2026-10-27T10:05:00-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -46,6 +50,7 @@ Alors que le traçage des connaissances estime généralement une maîtrise scal
 - **Le DINA bayésien pour les parcours d'apprentissage personnalisés :** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng et Huang (2026)]] intègrent un modèle DINA bayésien (entraîné sur le jeu de données EdNet, N=5.000) à la théorie des espaces de connaissances et à un algorithme de plus court chemin de remédiation pour générer des parcours d'apprentissage personnalisés, et éprouvent empiriquement le rôle médiateur de la [[cognitive-offloading|charge cognitive]] par les transitions d'états d'un modèle de Markov caché (validées sur 120 étudiants) — traitant à la fois le problème de convergence lié à la parcimonie des modèles DINA traditionnels et le mécanisme psychologique non éprouvé derrière l'efficacité des parcours personnalisés.
 - **Un diagnostic ancré dans le langage en lieu et place des plongements d'identifiants.** [[process-grounded-language-cognitive-diagnosis-2026|Liu et al. (2026)]] remplacent les identifiants discrets d'étudiants, d'exercices et de concepts par des schémas de concepts construits par LLM et des preuves ancrées dans le processus, calibrant l'état postérieur de chaque étudiant à partir des registres de réponses. Sur trois jeux de données de [[math-education|mathématiques]] issues de [[online-teaching-and-learning|plateformes]], le cadre atteint 83.51% ACC / 85.37% AUC sur XES3G5M et 87.16% ACC sur MOOC, le gain se concentrant exactement là où les modèles classiques de diagnostic cognitif se dégradent : les nouveaux concepts (+4.60 ACC par rapport à KCD) et les entrées manquantes de la matrice Q (+4.52). Retirer les preuves structurées fait s'effondrer l'exactitude sur MOOC de 87.16% à 78.95%, si bien que l'amélioration vient de la structure dérivée du langage plutôt que de l'échelle du modèle. ([[process-grounded-language-cognitive-diagnosis-2026]])
 - **Les tâches culturellement contextualisées peuvent précéder l'analyse par l'IA.** [[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]] ont demandé à 178 collégiens indonésiens de réaliser des tâches ouvertes culturellement contextualisées avant l'analyse des réponses par l'IA ; les diagnostics de l'IA concordaient avec l'évaluation d'experts (ICC = 0,81), tandis que l'ancrage culturel était associé à la performance symbolique en mathématiques (β = 0,42) et à l'engagement (β = 0,37).
+- **La configuration de stratégie peut être diagnostiquée, pas seulement l'état de connaissances.** Cinq dimensions estimées à partir de 36,234 actions dans un jeu de grammaire prédisaient la réussite suivante avec une AUC de 0.826 tout en excluant les comptes d'erreurs courants, et variaient à l'intérieur des étudiants (ICC = 0.14) plutôt qu'entre eux ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre et coll. (2026)]]).
 
 ## Why it matters
 
@@ -62,6 +67,27 @@ Le diagnostic cognitif se situe au cœur de l'architecture du [[intelligent-tuto
 ## Connections
 
 Le diagnostic cognitif rejoint le [[knowledge-tracing|traçage des connaissances]], la [[student-modeling|modélisation de l'apprenant]], la [[educational-measurement|mesure en éducation]] et l'[[assessment|évaluation]]. Ses éclairages alimentent le [[intelligent-tutoring|tutorat intelligent]] et l'[[adaptive-learning|apprentissage adaptatif]], et les travaux de l'ère des LLM le relient à l'identification des idées fausses dans le [[intelligent-tutoring|tutorat par IA]].
+
+## Idées fausses courantes
+
+- **« Le diagnostic est une capacité résolue pour les modèles. »** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et coll., 2026)]] a supervisé le raisonnement diagnostique comme l'une de quatre capacités d'une famille ouverte de modèles 4B/9B/27B, et **le diagnostic de l'état de connaissances est resté la plus faible** des quatre. Le diagnostic est la capacité qui a résisté à l'entraînement qui a produit les autres.
+- **« Les modèles peuvent simuler les erreurs des étudiants, donc ils peuvent les diagnostiquer. »** Le goulot d'étranglement est l'inverse. Les modèles construisaient une solution dans **95.2% des traces de distracteurs** et simulaient une idée fausse Eedi précise avec une exactitude de **0.92**, et pourtant c'est **la fourniture de la solution correcte** — non la simulation de l'erreur — qui les limitait. Générer une mauvaise réponse plausible est plus facile que d'en reconnaître une.
+- **« Le diagnostic exige un catalogue d'idées fausses construit à la main. »** Sur **6,106 paires** de formalisations correctes et incorrectes de logique propositionnelle, un flux de travail a découvert **248 grappes de transformations expliquant 5,156 paires (84.44%)**, contre **4,370 (71.57%)** pour les erreurs choisies à la main du jeu de référence. La découverte égalait ou dépassait la curation experte, et elle s'est transférée à la logique modale — le catalogue est donc un point de départ, non un plafond.
+- **« Un diagnostic n'est utile que s'il nomme une idée fausse. »** Diagnostiquer quels résultats de cours un apprenant a atteints traite les résultats comme les concepts de connaissance à la place, en fournissant les relations entre concepts par des correspondances d'affinité validées par des experts. Pour les programmes fondés sur les résultats, c'est l'unité la plus actionnable, même si elle est plus grossière.
+
+## Ce que cela signifie pour la pratique
+
+**Pour les enseignants**
+
+- Traitez le diagnostic d'un système comme une hypothèse à vérifier, non comme un verdict. Le diagnostic de l'état de connaissances était la capacité la plus faible d'une famille entraînée pour cela.
+- Demandez si le diagnostic nomme un construit sur lequel vous pouvez agir. Un diagnostic au niveau des résultats qui correspond à votre programme est souvent plus utile qu'une étiquette fine d'idée fausse.
+- Là où votre matière a des règles, attendez-vous à ce que la découverte par transformations trouve des schémas d'erreur que vous n'aviez pas anticipés ; les 248 grappes découvertes sont la preuve que les catalogues curatés sont incomplets.
+
+**Pour les concepteurs**
+
+- Instrumentez les deux directions : reconnaître une mauvaise réponse et produire la bonne. Le chiffre de 95.2% de récupération de solution suggère que la génération est la moitié facile et que le mode de défaillance réside dans la reconnaissance.
+- Préférez la découverte à un catalogue statique là où la structure du domaine le permet, et rapportez la couverture par rapport à un jeu de référence pour que la comparaison soit lisible.
+- Ne livrez pas un score diagnostique sans préciser quel construit il mesure et comment il a été validé indépendamment du signal qui l'a produit.
 
 ## Concepts liés
 

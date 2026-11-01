@@ -1,7 +1,7 @@
 ---
 title: "Effets différentiels selon les groupes d'apprenants"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-10T03:24:44-04:00"
+updated: "2026-11-01T10:10:59-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -66,6 +70,8 @@ C'est le fil le plus profond de la base de connaissances, et celui où le rappor
 - **Le champ s'est réorganisé autour de l'[[generative-ai|IA générative]].** La [[assistive-tech-neurodivergent-higher-ed-review-2026|revue de cadrage des technologies d'assistance numérique pour les étudiants neurodivergents]] a examiné 766 références pour retenir 40 études empiriques, dont 15 utilisaient l'IA générative et 11 des formats immersifs. Ce fil est petit et récent plutôt que mature.
 - **Certains soutiens de l'IA égalisent plutôt qu'ils ne différencient.** [[adhd-video-segmentation-computing-education|Pimenova, Begel et collègues]] ont segmenté des [[video-education|vidéos pédagogiques]] en fragments d'une seule instruction, avec des pauses fixes, dans une étude intra-participants (17 TDAH, 10 non-TDAH) ; tous ont progressé, et les erreurs et hésitations des participants TDAH ont chuté au niveau de leurs pairs non-TDAH. C'est la forme de preuve la plus solide disponible pour la [[universal-design-for-learning|Conception universelle de l'apprentissage]] par transformation automatisée des contenus : un changement général qui comble un écart, plutôt qu'un correctif ciblé par groupe.
 - **Ce que les étudiants neurodivergents disent avoir besoin est souvent banal.** [[neurodivergent-computing-students|Une enquête menée auprès de 24 étudiants en informatique neurodivergents et de 20 pairs neurotypiques]], complétée par quatre entretiens, a mis au jour un inconfort significatif face aux devoirs dépourvus de structure claire ou porteurs d'attentes ambiguës — un aménagement qui ne coûte rien à fournir.
+
+- **« À note humaine identique, un correcteur traite les étudiants identifiés et non identifiés de la même façon. »** Sur **3,000** essais ASAP 2.0 appariés exactement sur la note adjudiquée, **chacun des 22 modèles** a noté plus bas le groupe identifié comme en situation de handicap, de **−0.086** à **−0.429** sur une échelle à six points, et **20** ont été lus comme GAP REPLICATES. Les erreurs de convention et la longueur en expliquaient au plus un cinquième pour **17 des 20** modèles, et comme ASAP 2.0 ne diffuse qu'une seule note, le dispositif ne peut pas séparer un biais partagé par le jury humain d'un biais partagé par les modèles ([[porcaro-ai-grading-benchmark-2026|la lecture est SHARED GAP, et non un biais de modèle]]).
 - **Les choix de conception peuvent aussi exclure sur le plan épistémique.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] soutient que des données d'entraînement anglophones et centrées sur l'Occident marginalisent des façons de connaître non hégémoniques et placent la situation des apprenants en situation de handicap au centre de cette critique.
 
 ## Langue : apprenants de langue seconde, multilingues et apprenants d'anglais
@@ -91,7 +97,7 @@ La recherche sur le genre se divise ici entre la question de savoir si les outil
 
 Ce fil est faible en nombre d'articles et fort en mécanisme, parce que les données probantes portent sur ce que l'IA fait *avec* un attribut démographique une fois qu'elle en dispose.
 
-- **La [[personalized-learning|personnalisation]] est un vecteur de biais.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] montre que des outils de rétroaction en écriture fondés sur les [[llm]] se déplacent vers des éloges alignés sur les stéréotypes et retiennent leur critique lorsque la rétroaction est personnalisée à partir de la race, de la langue, du handicap, du niveau de réussite ou de la [[motivation|motivation]] d'un étudiant — sur des essais identiques.
+- **La [[personalized-learning|personnalisation]] est un vecteur de biais.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] montre que des outils de rétroaction en écriture fondés sur les [[llm]] se déplacent vers des éloges alignés sur les stéréotypes et retiennent leur critique lorsque la rétroaction est personnalisée à partir de la race, de la langue, du handicap, du niveau de réussite ou de la [[motivation]] d'un étudiant — sur des essais identiques.
 - **L'indice démographique peut être implicite.** L'audit contrefactuel ci-dessus a montré que les historiques de conversation, et pas seulement les personas explicites, déplaçaient les comportements de notation et de rétroaction — le même résultat de [[demographic-signals-llm-student-assessment-2026|192,480 appels d'inférence]], et une raison pour laquelle une règle de divulgation portant sur les données démographiques *déclarées* est insuffisante.
 - **Les écarts liés à la migration et à la langue peuvent dominer.** Dans EduFair-Bench, le modèle 70B conjuguait les plus grands écarts de langue et d'immigration avec les plus petits écarts de pédagogie : un tuteur qui paraît pédagogiquement fort peut donc être celui qui est le plus sensible à ce que l'étudiant semble être.
 - **Exclusion épistémique, et pas seulement erreur :** voir [[genai-minoritized-knowledges-disability|la marginalisation des savoirs minorisés]] ci-dessus.
@@ -121,6 +127,8 @@ Le constat honnête de cette revue tient à la minceur de certains groupes. Chac
 - **Les apprenants réfugiés, immigrés et déplacés :** aucune étude.
 - **Le genre est encore analysé comme binaire** dans la plupart des travaux ci-dessus, et les catégories de handicap varient selon les études, si bien que la comparaison inter-études du « même » groupe a des limites.
 
+- **« Le contexte de l'apprenant rend un correcteur plus équitable. »** Une ablation portant sur **3,000** essais notés par deux modèles a trouvé l'écart entre étiquettes haute et basse identique pour chaque groupe qu'elle pouvait tester, toute différence tenant dans **0.045** de niveau. Sur Qwen, l'étiquette basse retirait encore **0.06 à 0.08 point** de plus aux apprenants d'anglais, aux étudiants économiquement défavorisés et aux étudiants identifiés comme en situation de handicap qu'à leurs pairs. Sans étiquette, les deux modèles classaient encore les deux derniers groupes sous leurs pairs à note humaine égale. ([[porcaro-ai-grader-reliability-2026|Un dossier qui peut être faux déplace les notes, et il les déplace le plus durement sur ceux qui sont déjà sous-estimés]].)
+
 ## Utiliser ces données probantes sans surajuster une étiquette de groupe
 
 - **Traitez les moyennes de groupe comme des hypothèses sur une population, jamais comme des prédictions sur une personne.** Chaque affirmation différentielle ci-dessus est un énoncé distributionnel.
@@ -128,6 +136,13 @@ Le constat honnête de cette revue tient à la minceur de certains groupes. Chac
 - **Préférez les dispositifs égalisateurs lorsque les données probantes le permettent.** Le résultat de la segmentation vidéo pour le TDAH — tout le monde progresse, l'écart se comble — est un objectif mieux adapté à une classe générale qu'un module complémentaire ciblé par groupe.
 - **Soyez prudent avec une personnalisation qui consomme des attributs démographiques.** Le constat des [[marked-pedagogies-linguistic-bias-writing-feedback|pédagogies marquées]] porte directement sur ce mécanisme, et il s'applique aux points de contact sur le [[well-being|bien-être]], aux tuteurs [[affective-computing|affectifs]] et aux [[recommender-systems-and-learning-paths|systèmes de recommandation]] qui profilent les apprenants.
 - **Testez localement, sur le groupe qui vous importe, avec un résultat mesuré sans l'outil.** Voir [[interpreting-and-applying-aied-research|Interpréter et appliquer la recherche en IA en éducation]] pour les habitudes d'appréciation et [[research-methods-aied|Méthodes de recherche en IA en éducation]] pour les dispositifs qui rendent un test local défendable.
+- **La variable de regroupement la plus directement étayée par des preuves de processus est fondée sur les connaissances, non sur la démographie.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] ont apparié des groupes sur les connaissances préalables (U = 293.50, p = 0.515) et ont néanmoins constaté que la manière dont les apprenants raisonnaient façonnait ce qui se produisait. Huit groupes aux préconceptions différentes et six groupes aux préconceptions similaires posaient les mêmes types de questions, et pourtant l'IA servait de plaque tournante d'intégration dans les groupes diversifiés et se tenait sur un chemin linéaire dans les groupes similaires, avec une évaluation soutenue opposée. Cela repose sur quatorze groupes dans une seule tâche de 60 minutes : il faut donc y voir une hypothèse sur la composition des groupes plutôt qu'une règle.
+
+## Idées fausses courantes
+
+- **« Les étiquettes de groupe capturent la variation qui compte. »** **Les étiquettes de groupe masquent la variation qu'elles contiennent** : dans la méta-analyse sur le handicap, les étudiants présentant des **troubles spécifiques des apprentissages, des déficiences intellectuelles et développementales** et d'autres catégories sont regroupés, si bien que la moyenne du groupe n'en décrit aucun.
+- **« Les analyses de sous-groupes répondent à la question des effets différentiels. »** Elles sont généralement **trop petites pour y répondre** : le [[ai-tutoring-micro-rct-gcse-science-2026|micro-ECR en sciences au GCSE]] précise inhabituellement que son contraste de **traitement** est dimensionné pour l'effet global et non pour les différences entre sous-groupes. Un résultat de sous-groupe sous-dimensionné est une hypothèse, pas un résultat.
+- **« Un effet regroupé moyen vous dit si un groupe donné en bénéficie. »** [[zhang-ai-students-disabilities-meta-analysis-2024|29 études (quasi-)expérimentales]] regroupées donnent **g de Hedges = 0.588 (IC à 95% [0.349, 0.826])** sur l'ensemble des catégories de handicap. L'intervalle décrit la moyenne sur ces catégories, et « quel groupe, quel besoin » constitue une analyse distincte.
 
 ## Concepts liés
 
@@ -175,3 +190,6 @@ Le constat honnête de cette revue tient à la minceur de certains groupes. Chac
 - [[international-students-conversational-ai-adaptation]] — La seule étude du corpus portant sur les étudiants internationaux
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — La première estimation d'effet du corpus pour les étudiants de première génération : l'accès au tuteur leur a coûté 0.50 écart-type de note finale contre 0.22 pour leurs pairs (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre : évaluer les interventions d'équité a posteriori dans les systèmes d'alerte précoce contrôlés par un fournisseur
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Une variable de regroupement fondée sur les connaissances, étayée par des preuves de processus : des groupes appariés sur les connaissances préalables mais différant par la diversité de leurs préconceptions ont mobilisé la même IA différemment (Wang et al. 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs invités à répondre à des sondes dont la bonne réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Le contexte de l'apprenant change les notes d'un correcteur LLM sur un travail identique, et l'accord avec l'enseignant ne le détecte pas (Porcaro 2026, article VI)

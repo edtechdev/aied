@@ -1,7 +1,7 @@
 ---
 title: "Soutien aux étudiants et réussite"
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-10T03:05:58-04:00"
+updated: "2026-11-01T10:15:08-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,13 +15,17 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-10-03T01:40:50-04:00"
+source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,8 @@ La recherche se regroupe en cinq fonctions, et les frontières entre ces groupes
 
 **Assistance administrative.** Le leadership et l'administration sont étudiés comme un domaine d'application propre, avec une taxonomie en dix domaines cartographiant les points d'atterrissage de l'IA dans le leadership éducatif ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Les services gérés par l'institution débordent du conseil vers la santé : un cadre intégré de bien-être sur le campus associe la prévention — améliorer la façon dont la rétroaction est recueillie — à l'intervention par la détection des problèmes de santé mentale ([[ai-campus-wellbeing-tools|Tang, 2026]]). L'attestation des acquis est adjacente : lorsqu'un agent peut accomplir un cours au nom d'un étudiant, une attestation qui dit « obtenu » perd son sens, ce qui transforme les registres d'achèvement en un problème de conception ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
 
+Ce qu'un canal de soutien par l'IA déplace mérite le même compte. Sur quatre études (N = 249, 494, 743 et 737), la croyance en la capacité de l'IA à apporter un soutien émotionnel augmentait la volonté de lui déléguer ce soutien, et l'effet passait entièrement par la capacité perçue (effet total c = 0,83 ; effet indirect ab = 0,73) ([[shastry-gray-empathy-offloading-2026|Shastry et Gray, 2026]]). Sur une mesure comportementale, les participants qui disaient ne pas vouloir déléguer choisissaient moins de mots d'empathie : orienter les étudiants vers un canal de bien-être par l'IA peut donc soustraire du soutien humain d'une manière que l'auto-déclaration ne montre pas.
+
 ## De la prédiction au soutien
 
 La prédiction du risque — systèmes d'alerte précoce, modèles d'abandon, classificateurs de risque — relève de l'[[learning-analytics|analytique de l'apprentissage]] dans cette base de connaissances, et cette page traite l'*analytique prédictive* comme la même chose. Les travaux de modélisation sont substantiels : des classificateurs supervisés identifient les étudiants avant leur retrait à partir des performances académiques, de données démographiques et de registres d'inscription ([[at-risk-students-ml-prediction|Gheisari & Salarian, 2026]]) ; un cadre à double couche combine les journaux comportementaux de Codeforces (n = 1 816) avec des données d'enquête psychographique issues de dix universités pour prédire l'attrition en programmation compétitive ([[predicting-attrition-competitive-programming|Alam et al., 2026]]) ; et une architecture fédérée prédit la performance et l'abandon à travers les institutions sans partager les données brutes des étudiants, atteignant une AUC de 0,918 sur OULAD contre 0,925 en centralisé ([[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al., 2026]]). Une vision d'« éducation de précision » étend cette logique aux jumeaux numériques des étudiants et à une « réussite étudiante préventive » ([[precision-education-student-digital-twins-2026|Han et al., 2026]]).
@@ -89,6 +95,16 @@ La durabilité, dans cette littérature, est une propriété organisationnelle, 
 
 Le soutien aux étudiants se rattache à la [[student-experience|expérience étudiante]] comme contrepartie tournée vers l'étudiant — les mêmes technologies vues du côté de l'étudiant plutôt que de celui de l'institution — et à la [[help-seeking|recherche d'aide]] pour le mécanisme par lequel les étudiants qui ont besoin de soutien l'obtiennent effectivement ; le démarchage et les assistants spécifiques à un cours sont deux tentatives pour abaisser le coût de la demande. L'[[learning-analytics|analytique de l'apprentissage]] détient la prédiction qui alimente l'allocation, la [[student-modeling|modélisation de l'apprenant]] et le [[knowledge-tracing|suivi des connaissances]] les modèles sous-jacents, et [[recommender-systems-and-learning-paths|les systèmes de recommandation et les parcours d'apprentissage]] la couche de recommandation. Elle se relie au [[well-being|bien-être]] à travers les systèmes de santé mentale et de prévention sur le campus, au [[career-development-and-readiness|développement de carrière et à la préparation]] comme le résultat qui suit l'achèvement, à l'[[equity-in-ai-education|équité]] et à la [[privacy|confidentialité]] à travers les risques d'agir sur des scores, et à l'[[administrator|administration]], aux [[stakeholders|parties prenantes]] et au [[change-management|management du changement]] comme les rôles et les processus qui décident si l'ensemble se pérennise. Les [[learning-gains|gains d'apprentissage]] sont le nœud de mesure adjacent : les résultats de cette page sont administratifs plutôt que pédagogiques, et les deux n'évoluent pas ensemble.
 
+## Idées fausses courantes
+
+**« Prédire quels étudiants auront des difficultés est l'intervention. »** La prédiction est l'intrant du soutien et n'est pas le soutien. Le corpus sépare délibérément les deux : un rappel d'inscription et un programme de rétention sont des interventions différentes avec des preuves différentes, et la recherche suggère que l'une n'achète pas l'autre. Un tableau de bord d'alerte précoce qui aboutit à un score a ajouté de la mesure sans ajouter de l'aide.
+
+**« Un programme de rétention qui a relevé la persistance prouve que l'IA a fonctionné. »** Il prouve que le programme a fonctionné, et la couche d'IA doit être évaluée séparément du démarchage qu'elle déclenche. Une étude randomisée sur quatre ans de CSUNny, un chatbot par messages non génératif de la California State University, Northridge, a suivi **deux cohortes de premier cycle (N = 8 708)** pendant **huit semestres**, avec des **taux de désinscription annuels ne dépassant jamais 4 %** — un résultat de réceptivité solide à propos de la *messagerie*, et non la preuve qu'un système génératif ou prédictif obtiendrait le même résultat.
+
+**« L'échelle des résultats se confond : l'engagement, c'est la rétention. »** Chaque barreau mesure autre chose — s'inscrire, répondre, persister, terminer — et un programme peut faire bouger les barreaux inférieurs en laissant les supérieurs plats. Rapporter la part de répondants comme une réussite commet précisément cette substitution.
+
+**« Une préoccupation d'équité est une raison de cesser d'utiliser les données. »** C'est une raison d'agir prudemment sur les scores. Agir sur un prédicteur peut répartir du soutien et peut répartir de la suspicion, et le risque se concentre sur les étudiants que le modèle classe le moins favorablement — ce qui fait du remède une gouvernance de l'usage, non un abandon de la mesure.
+
 ## Concepts liés
 
 - [[higher-ed]] — le parapluie sectoriel sous lequel se situe cette page
@@ -112,6 +128,7 @@ Le soutien aux étudiants se rattache à la [[student-experience|expérience ét
 - [[rct]] — le plan derrière les données probantes les plus solides présentées ici
 
 ## Articles liés
+- [[shastry-gray-empathy-offloading-2026]] — Quatre études sur le délestage de l'empathie : croire que l'IA peut fournir un soutien émotionnel réduit ce que les gens apportent eux-mêmes (Shastry & Gray 2026)
 
 - [[mata-sustaining-ai-enabled-student-support-2026]] — évaluation randomisée sur quatre ans d'un agent conversationnel de soutien universitaire : l'accomplissement des tâches a évolué, ni l'obtention du diplôme ni la moyenne générale
 - [[chatbot-outreach-course-performance-2026]] — essai de démarchage multi-semestres pré-enregistré : taux de A/B plus élevés, déplacements modestes des DFW, une exception démographique
@@ -134,4 +151,4 @@ Le soutien aux étudiants se rattache à la [[student-experience|expérience ét
 - [[ai-campus-wellbeing-tools]] — soutien au bien-être sur le campus couvrant la prévention et l'intervention
 - [[coursegraph-cs-course-comparison-2026]] — équivalence de cours pour le crédit de transfert et la mobilité
 - [[credentials-carry-evidence-ai-agents-2026]] — ce que signifie un registre d'achèvement lorsqu'un agent peut faire le travail
-- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Prédire tôt le risque de tricherie assistée par l'IA, et l'arbitrage sur le seuil pour un démarchage à faible enjeu
+- [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Prédire tôt le risque de tricherie assistée par l'IA, et l'arbitrage de seuil pour un démarchage à faible enjeu

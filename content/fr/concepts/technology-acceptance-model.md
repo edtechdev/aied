@@ -1,7 +1,7 @@
 ---
 title: "Les modèles d'adoption des technologies"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-24T10:38:14-04:00"
+updated: "2026-11-01T10:13:46-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-10-23T08:03:41-04:00"
+source_updated: "2026-11-01T09:13:47-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
+
 ---
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
@@ -36,29 +41,25 @@ Les **modèles d'adoption des technologies (Technology adoption models)** sont l
 ## Introduction
 
 **Données probantes [[meta-analysis-systematic-review|méta-analytiques]] sur l'adoption de l'IA.** Une [[teo-ai-adoption-tertiary-meta-analysis-2026|méta-analyse de l'adoption de l'IA par les étudiants du supérieur]] (233 corrélations, 32 études, N = 16,977) trouve des corrélations positives modérées pour les facteurs individuels (r = 0.57), contextuels (r = 0.53) et technologiques (r = 0.50), les intentions d'usage étant le prédicteur le plus fort (r = 0.64) et les risques perçus et la confiance plus faibles que prévu. Sa critique centrale est que le champ **s'appuie excessivement sur les cadres traditionnels TAM/UTAUT**, antérieurs aux systèmes intelligents modernes, et néglige des facteurs propres à l'IA tels que l'anthropomorphisme et l'éthique — soutenant que ces lacunes importent pour l'avancée de la théorie et d'une politique fondée sur les données probantes.
+- **La facilité d'usage a cessé de prédire une fois l'échantillon déjà adoptant.** Wei, Zhang et Heo (2026) étendent le TAM auprès de 526 étudiants en design ayant déjà utilisé l'IA générative et constatent que la facilité d'usage perçue était la seule perception technologique non significativement associée à l'auto-efficacité, tandis que les connaissances, la confiance, la fiabilité, l'utilité, l'intelligence et l'anxiété l'étaient chacune ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). L'intention d'usage était fortement associée à la dépendance déclarée dans des données transversales.
 
 ## La famille de modèles
 
 ### Le Technology Acceptance Model (TAM)
-
 Proposé par Davis (1989), le TAM explique l'adoption par deux croyances centrales — l'**utilité perçue (Perceived Usefulness, PU)** et la **facilité d'usage perçue (Perceived Ease of Use, PEOU)** — qui façonnent l'**attitude (ATT)** des utilisateurs, puis l'**intention comportementale (BI)**, puis l'usage réel. Fondé sur la théorie des systèmes d'information (adaptée de la Theory of Reasoned Action), le TAM est devenu le cadre dominant pour l'adoption de l'[[generative-ai|IA générative]] en éducation. Dans la recherche éducative sur l'IA générative, il est fréquemment étendu par la [[ai-literacy|littératie en IA]], la [[trust|confiance]], l'influence sociale, la [[self-determination-theory|théorie de l'autodétermination]] et l'**usage critique** pour saisir la complexité de l'adoption au-delà de la simple appropriation.
 
 ### UTAUT / UTAUT2 / UTAUT3
-
 La **Unified Theory of Acceptance and Use of Technology** consolide le TAM avec huit modèles antérieurs en quatre déterminants centraux — l'attente de performance, l'attente d'effort, l'influence sociale et les conditions facilitantes (UTAUT2 ajoutant la motivation hédonique, la valeur du prix et l'habitude ; UTAUT3 ajoutant l'innovativité personnelle). La base de connaissances applique l'UTAUT aux populations d'enseignants et d'étudiants : les [[mathematics-teachers-chatbot-motivation-2026|enseignants autrichiens de mathématiques du secondaire]] (UTAUT avec 448 enseignants), les [[pre-service-science-teachers-ai-perceptions-2026|enseignants de sciences en formation initiale au Ghana]] (UTAUT + TPB) et les [[tian-genai-learning-adoption-pathways-2026|étudiants du Lesotho]] (UTAUT3 + ARCS, utilisant PLS-SEM et fsQCA). [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al.]] étendent l'UTAUT2 par l'IA explicable (Random Forest, SHAP, NCA, IPMA, K-Means) auprès de 522 étudiants universitaires, trouvant l'**habitude** comme le plus fort prédicteur de l'intention d'utiliser ChatGPT et montrant que **l'attente d'effort est une condition nécessaire plutôt qu'un moteur linéaire** — un résultat visible seulement lorsque l'IA explicable complète la régression.
 
 ### La théorie du comportement planifié (TPB)
-
 La TPB explique l'intention par l'attitude, les normes subjectives et le contrôle comportemental perçu. Elle est fréquemment associée au TAM/UTAUT dans les études sur l'adoption de l'IA — par exemple, [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] intègrent le TAM, la TPB, l'UTAUT et le cadre FATE ([[bias-mitigation|équité]], responsabilité, transparence, éthique) pour modéliser les déterminants comportementaux et [[ethics|éthiques]] de l'adoption de ChatGPT par les étudiants.
 
 La recherche sur l'adoption s'arrête généralement à l'intention ; une extension de la TPB qui a mesuré le retard malgré une intention authentique a montré que le contrôle comportemental perçu était le plus fort prédicteur négatif de la procrastination dans l'apprentissage assisté par l'IA générative (β = −0.331) sur 1,243 étudiants de premier cycle, le lien entre intention et retard n'étant significatif qu'à des niveaux modérés à élevés d'anxiété liée à l'apprentissage avec l'IA générative ([[genai-learning-procrastination-planned-behavior-2026|Li et al. (2026)]]).
 
 ### La diffusion de l'innovation (DOI)
-
 La théorie de la DOI de Rogers explique l'adoption comme un processus social dans lequel les innovations se diffusent au sein des populations au fil du temps, en mettant l'accent sur les attributs de l'innovation (avantage relatif, compatibilité, complexité, possibilité d'essai, observabilité) et sur les catégories d'adoptants. Elle apparaît dans les analyses [[governance|institutionnelles]] de la base de connaissances, par exemple lorsque [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combinent le cadre Technologie–Organisation–Environnement (TOE) avec la DOI pour modéliser l'adoption organisationnelle de l'IA dans les universités saoudiennes.
 
 ### Technologie–Organisation–Environnement (TOE)
-
 Le cadre TOE pose l'adoption comme façonnée par les contextes technologique, organisationnel et environnemental — un complément aux TAM/UTAUT au niveau individuel pour l'étude de l'adoption institutionnelle (voir [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
 ## Les applications dans la base de connaissances
@@ -89,6 +90,14 @@ L'accent cognitif du TAM sous-capture aussi les dimensions émotionnelles et rel
 Une extension récente inverse la direction habituelle, en plaçant les croyances motivationnelles propres à la discipline en amont des perceptions du TAM plutôt qu'à côté. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi et Lu (2026)]] rapportent que la valeur d'utilité prédit l'utilité perçue à β = 0.43 et que l'attente de réussite prédit la facilité d'usage à β = 0.39, tandis que les chemins centraux du TAM s'atténuent mais restent significatifs.
 
 Le lien entre risque et usage dépend aussi du système : sur les 49 systèmes de TALIS 2024 ayant administré les items, l'utilité perçue de l'IA était associée positivement à l'usage de l'IA dans les 49, tandis que le risque perçu y était associé négativement dans 40 et positivement dans neuf ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
+
+**L'attente de performance peut porter une relation que la recherche sur l'acceptation lit comme une intention d'usage.** Dans [[kim-overtrust-ai-literacy-2026|Kim, Kim et Zhang (2026)]], l'attente de performance prédisait la confiance excessive envers l'IA à B = 0,6107 et constituait le premier médiateur par lequel l'auto-efficacité, la motivation intrinsèque et la motivation extrinsèque atteignaient cette confiance excessive. Le chemin indirect passant par la seule attente était positif pour les trois prédicteurs, 0,1355 (IC à 95 % [0,0542 ; 0,2330]) pour l'auto-efficacité, si bien que l'attente ne prédisait pas seulement si les étudiants utiliseraient l'outil.
+
+## Idées fausses courantes
+
+- **« Les construits du TAM expliquent l'adoption. »** [[socio-cognitive-genai-adoption-engineering-2026|Asag et Al Mamun]] ont intégré le TAM à l'UTAUT auprès d'étudiants en ingénierie au Bangladesh et expliqué **64 %** de la variance. Substantiel et incomplet à la fois : environ un tiers de ce qui détermine l'adoption se situe hors des construits classiques de l'acceptation.
+- **« Les modèles d'acceptation n'ont pas besoin d'être modifiés par domaine. »** L'ajout de l'**autonomie artificielle perçue** — à quel point les enseignants croient que l'IA générative peut mener à bien une tâche pédagogique assignée de façon indépendante — et de l'**aversion au risque** aux construits classiques a modifié le modèle matériellement. Les construits d'origine ont été bâtis pour des outils sans agentivité, et l'IA générative a une agentivité perçue.
+- **« Une estimation méta-analytique de l'adoption décrit n'importe quelle population. »** La [[teo-ai-adoption-tertiary-meta-analysis-2026|méta-analyse des étudiants du supérieur]] est l'estimation au niveau de la population ; le résultat en ingénierie expliquant 64 % concerne une population spécifique. Importer l'une sur l'autre suppose une stabilité que les données n'établissent pas.
 
 ## Concepts liés
 
@@ -134,3 +143,4 @@ Le lien entre risque et usage dépend aussi du système : sur les 49 systèmes d
 - [[capability-decision-model-teacher-readiness-2026]] — Une alternative ordonnée à l'ajout de la capacité TPACK aux modèles d'adoption fondés sur la théorie du comportement planifié
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Profils centrés sur la personne de l'utilité et du risque perçus de l'IA dans 49 systèmes TALIS 2024
 - [[genai-learning-procrastination-planned-behavior-2026]] — Extension de la théorie du comportement planifié mesurant la procrastination de l'apprentissage assisté par IA et la modération de l'anxiété sur le lien intention–délai
+- [[kim-overtrust-ai-literacy-2026]] — l'attente de performance médiatisait le chemin de la motivation et de l'auto-efficacité vers la confiance excessive envers l'IA

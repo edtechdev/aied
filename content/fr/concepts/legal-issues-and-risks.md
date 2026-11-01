@@ -1,7 +1,7 @@
 ---
 title: "Questions juridiques et risques"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-10-10T04:00:01-04:00"
+updated: "2026-11-01T10:17:26-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,13 +14,17 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-09-30T07:29:37-04:00"
+source_updated: "2026-10-28T18:24:42-04:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -70,6 +74,10 @@ Le problème probatoire se situe en dessous. La sortie d'un détecteur est la pr
 
 Une exposition différente se situe à l'intérieur des instruments eux-mêmes. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a caché cinq injections indirectes d'invites dans les fichiers d'une dissertation synthétique qu'un outil institutionnel de [[automated-assessment|correction par IA]] (Microsoft Copilot, GPT-5.2) avait notée comme insuffisante lors de six exécutions de référence sur six. Deux stratégies ont fait monter la note sans avertissement visible pour l'utilisateur, avec des taux de réussite d'attaque rapportés de 100 % (9 itérations sur 9) et 94 % (17 sur 18), en combinant manipulation d'instructions, jeu de rôle et obscurcissement ; l'outil a désactivé silencieusement un fil de discussion après avoir bloqué l'attaque la plus simple, et lors d'une itération il a annoncé qu'il ne suivrait jamais les instructions intégrées, puis a relevé la note à chacune des six exécutions suivantes. Une note obtenue par une instruction cachée ne peut prétendre à aucune [[assessment-validity|validité]], et la même technique pourrait être utilisée pour dégrader un travail sans laisser de trace durable dans la production — ce qui signifie que le dossier d'appel d'une décision automatisée contestée peut être vide, et qu'un constat de faute (ou de mérite) ne peut être prouvé par l'artefact. Les demandes de Humble au niveau du secteur sont claires : une [[educational-policy-ai|politique d'IA]], un [[educational-development|développement professionnel]] et des tests de résilience standardisés et indépendants du domaine, afin que la surface d'attaque soit mesurée plutôt que supposée, avec un usage restreint de l'IA et une [[human-in-the-loop-ai|revue humaine]] réservés aux travaux à enjeux élevés.
 
+### Propriété et la question du domaine public
+
+Le droit d'auteur est l'autre question juridique de ce territoire, et elle va dans la direction opposée à celle de la faute. [[tlili-double-edged-sword-oer-generative-ai-2026|Tlili, Farrow, Bozkurt, Amiel, Wiley et Downes (2026)]] lisent la position du United States Copyright Office comme traitant les invites seules comme insuffisantes pour établir une paternité. Si cette lecture tient, une œuvre purement générée par machine n'appartient pas à la personne qui l'a sollicitée, ce qui compte deux fois : un dossier de faute n'a aucun texte d'auteur à attribuer à un étudiant, et un établissement qui publie cette œuvre ne peut revendiquer de droits sur elle. Les licences font alors le travail que la propriété ferait autrement, ce qui explique que les licences ouvertes et l'intégrité académique soient un même problème vu de deux côtés.
+
 ### Au-delà de la porte du campus
 
 Pour les programmes professionnels, l'exposition ne s'arrête pas à l'obtention du diplôme. Gutowski et Hurley rapportent que les règles de déontologie professionnelle liant les juristes en exercice — le devoir de compétence technologique, la confidentialité, la supervision des personnes utilisant les outils, la franchise envers le tribunal — s'attachent déjà à l'usage de l'IA, et qu'une autorité [[hallucination-risk|hallucinée]] a entraîné des sanctions pour des praticiens ayant déposé des affaires fabriquées. La même logique de transfert s'applique partout où une licence, un enregistrement ou un devoir légal suit le diplômé, ce qui explique pourquoi les pages disciplinaires de l'[[legal-education|enseignement du droit]] et des [[medical-education|professions de santé]] se situent à côté de celle-ci.
@@ -80,6 +88,16 @@ Pour les programmes professionnels, l'exposition ne s'arrête pas à l'obtention
 - La sortie d'un détecteur subsiste-t-elle comme preuve de quoi que ce soit une fois qu'une institution concède ses taux d'erreur lors d'une audience, ou cette concession transforme-t-elle l'affaire en différend sur l'équité procédurale ?
 - Qui est le responsable du traitement des données, le fournisseur ou l'institution, lorsque la surveillance d'examen et la détection passent par une plateforme tierce, et cela change-t-il les conseils donnés aux institutions ?
 - Les institutions devraient-elles publier les normes de preuve qu'elles appliquent aux fautes liées à l'IA, de la manière dont les seuils probatoires sont publiés ailleurs, comme un moyen de réduire à la fois les accusations infondées et l'exposition juridique ?
+
+## Idées fausses courantes
+
+**« La faute liée à l'IA est une seule question juridique. »** Ce sont plusieurs questions qui arrivent ensemble — **probatoire** (l'accusation peut-elle seulement être étayée), **contractuelle et procédurale** (l'établissement a-t-il suivi ses propres règles et offert une audition équitable), et relatives à l'**égalité**. Une réponse qui traite la preuve en négligeant la procédure est juridiquement exposée sur une dimension qu'elle n'a jamais considérée, et les établissements ont tendance à se préparer à celle pour laquelle ils ont été poursuivis.
+
+**« Les établissements ont écrit des politiques cohérentes, le risque est donc du côté des étudiants. »** L'incohérence joue aussi dans l'autre sens. L'enquête de [[watson-rainie-ai-challenge-faculty-survey-2026|Watson et Rainie (2026)]] auprès de **1,057 enseignants américains** a constaté que **87% des répondants rédigeaient leurs propres consignes au niveau du devoir** — les règles opérantes varient donc à l'intérieur d'un même établissement, et un étudiant peut respecter la règle d'un enseignant et violer celle d'un autre dans la même semaine. Un étudiant accusé selon une norme non écrite a un problème procédural que l'établissement a créé.
+
+**« La détection fournit la preuve dont une procédure a besoin. »** La détection fournit un score. La question probatoire est de savoir si une accusation peut seulement être étayée, et la [[ai-detection|littérature sur la détection]] montre que les outils ne produisent ni la fiabilité ni la catégorie interprétable qu'exige un processus disciplinaire. Bâtir la procédure sur un détecteur, c'est la bâtir sur le maillon le plus faible.
+
+**« Les risques sont hypothétiques et les politiques finiront par suivre. »** Les risques se répartissent inégalement dès maintenant, et les étudiants qui les absorbent sont ceux qui sont le moins en mesure de contester une procédure. L'asymétrie entre la capacité d'un établissement à enquêter et celle d'un étudiant à répondre est un préjudice présent plutôt que futur.
 
 ## Concepts liés
 
