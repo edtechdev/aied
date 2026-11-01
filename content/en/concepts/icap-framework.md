@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-10-25T21:50:00-04:00"
+updated: "2026-11-01T09:12:59-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -56,6 +56,8 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 ### The Active→Constructive transition as the pivotal step
 
 Although ICAP describes a hierarchy, the most consequential shift for learning is the jump from *Active* to *Constructive* modes (Chi & Boucher, 2023). Active engagement (applying knowledge to similar-but-non-identical scenarios) prepares learners, but it is Constructive engagement — generating explanations, summaries, or new artifacts — that equips them to create new knowledge. This is the crux for AI in education: a tool that keeps learners in the Active mode (e.g., clicking through adaptive practice) may look productive but never pushes them into the constructive generation that yields durable understanding. Collaborative and literacy-focused interventions that deliberately scaffold the Active→Constructive leap tend to show the strongest gains.([[hingle-collaborative-ai-literacy-2025]])
+
+The "strongest gains" part of that claim is an inference from the framework rather than a comparison the review ran. The nine-study review behind it (2015–2023) counts how many interventions *included* each mode (9 passive, 5 active, 7 constructive, 8 interactive), reports no effect size by mode, and notes that no included study relied on a single mode, so nothing in it isolates the Active→Constructive leap ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). The ordering is Chi's; what the review adds is that practitioners combine modes rather than choose one.
 
 ### ICAP as an adaptive-scaffolding signal in ITS
 

@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -63,6 +63,8 @@ A structural equation model of 502 university faculty found AI literacy predicte
 ### Well-being as a design consideration
 
 A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing [[anxiety-and-stress|AI-induced anxiety]] or over-reliance; supporting educators' capacity and well-being as they integrate AI; and [[ai-ed-evaluation|evaluating AI]] systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argues for an educational telos to match: the Daoist "Zhenren" (真人) counter-ideal replaces frictionless optimization with "cultivated wholeness," reimagining learning as the harmonious integration of self, society and cosmos, and insisting that "no student is merely a dataset to be managed, but a whole being capable of achieving equanimity."
+
+**The social-emotional evidence base does not say who should act.** A systematic review of 65 studies at the intersection of AI and [[social-emotional-learning|social-emotional learning]] found nearly three-quarters made no mention of policy implications, and the minority that did offered little actor-specific guidance on privacy, teacher training or resource allocation ([[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]]). Well-being as a design consideration therefore has evidence about effects and very little about responsibility, which leaves the question of who designs for it to the institution rather than to the literature.
 
 
 A conceptual reframing grounds [[self-regulated-learning|emotion regulation]] support in physical activity and campus ecology rather than affect detection alone: no single expressive channel identifies distress without context, so AI should support regulation through exercise while teachers and counsellors keep interpretation, and affect monitoring becomes coercive once tied to attendance or grading ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).

@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Patterns
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-11-01T09:12:59-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -57,6 +57,8 @@ These patterns share a structural claim: the learner must commit to an attempt b
 
 An adaptive spaced-retrieval condition produced the highest posttest scores (M = 78.19) and significantly outperformed learner-directed AI study (M = 67.28, d = 0.92, p = .003) across 89 students in a blended statistics course, while fixed spacing was statistically indistinguishable from adaptive ([[adaptive-pretesting-retention|Akgun & Toker, 2026]]). The contrast case is decisive: in a [[rct|randomized trial]] of 120 students, the group that studied *with* unrestricted ChatGPT retained less on a surprise test 45 days later — 57.5% correct against 68.5% for traditional learners, t(83) = −3.19, p = .002, d = 0.68 — and had also studied roughly 45% less, with the disadvantage surviving a study-time covariate ([[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui, 2025]]). A preregistered randomized field experiment in an online MBA found that gains tracked *completed weeks* rather than minutes of exposure (+2.00 points per additional completed tutoring week, p = .018), reading as [[retrieval-spacing-interleaving|spaced practice]] mattering more than total time ([[ai-tutor-modality-randomized-field-experiment-2026|Yang et al., 2026]]).
 
+The causal case for the rule is a field experiment in roughly 50 Turkish high school mathematics classes with nearly 1,000 students ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]). Unrestricted GPT-4 raised assisted practice performance by 48% and cut the unassisted exam by 17% against control, while a guarded GPT-4 raised practice by 127% and left the exam essentially unchanged. The guardrails were only two: hints instead of answers, and teacher-authored problem-specific content (correct solution, common mistakes) seeded into the prompt so the hints were accurate. Engagement data put the harm in copying, since unguarded students mostly asked for answers, and students in both AI arms misjudged their own learning.
+
 ### Productive failure: attempt before instruction
 
 **Evidence: mixed, and thinner than its reputation.** Students attempt a problem targeting a concept they have not been taught, the tutor withholds the solution and elicits multiple attempts, help comes only when strictly necessary, and consolidation follows with comparison and direct instruction.
@@ -74,6 +76,8 @@ A pre-post study of 13 students in an online database course rose from 4.25 to 6
 **Evidence: mixed — the two halves diverge.** A worked example is presented with missing justifications to complete, or with errors to find; the student completes or repairs it, explains their reasoning, and then attempts the next problem.
 
 Adaptively assigning guided and buggy examples beat random problem-type assignment in a classroom study of 113 students (posttest M = 72.3 and 72.5 against 65.7 control, A = .58, p = .005 and p = .002), and the [[knowledge-tracing]] variant narrowed the achievement gap by 77.1% for low [[prior-knowledge]] students (β = 9.4, p = .001) ([[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al., 2026]]). But *adding* the self-explanation step to elaborated AI feedback lost on every measure in a preregistered experiment with 302 participants: it doubled feedback time (4.1 vs 2.1 min, p < .001), cut problems completed by 40% (2.0 vs 3.4, p < .001), produced no gain per episode (OR = 1.03, p = .486), and lowered end-of-session mastery (65% vs 79%, d = .41, p < .001) ([[structured-reflection-ai-explanatory-feedback-2026|Asher et al., 2025]]).
+
+How many examples to give before practice is itself content-dependent, which the section's framing of "worked examples then problems" leaves open. In a 2×2 experiment with 95 participants on geometry-area materials, practice-only training produced larger gains for verbatim facts while alternating examples with practice produced larger gains for generalizable skills (β = 0.41, p = .038, d = 0.38) ([[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger and Carvalho, 2025]]). A sequence cannot be judged as worked examples against practice in the abstract, because the right mix follows from whether the target is a fact or a skill.
 
 ## Patterns that pair AI feedback with human feedback
 
@@ -149,7 +153,7 @@ A preregistered experiment with 375 adults found personalized misconception AI d
 
 ## Contexts and disciplines
 
-The pattern determines what the context requires, and several patterns were tested in only one setting:
+The pattern determines what the context requires, and several patterns were tested in only one setting. Pooled estimates make that dependence quantitative. Across 35 experimental and quasi-experimental studies and 175 effect sizes, generative AI's pooled effect on undergraduate academic performance was g = 0.46, and the teaching model moderated it (Q = 14.63, p = 0.001). Flipped classrooms reached g = 1.96 from 7 effect sizes, traditional classrooms g = 0.46, and self-directed learning g = 0.26 ([[jing-genai-learning-outcomes-higher-ed-meta-analysis-2026|Jing et al., 2026]]). Intervention duration moderated it too, with the academic-performance effect falling from g = 5.07 at 0 to 4 weeks to g = 0.01 beyond 12 weeks. The authors treat the very large short-duration estimates as descriptive rather than generalizable, so an effect size for "AI in teaching" is a claim about a design, and the patterns here are those designs.
 
 - **Online and asynchronous.** Retrieval and spacing, the Socratic variants, worked examples with self-explanation, prompt-scaffolded use, asynchronous [[oral-assessment|oral assessment]], and the learning-by-teaching deployments. Asynchronous settings make the *sequencing* load-bearing, because the system cannot see whether the student attempted first.
 - **Face-to-face and blended.** [[productive-failure|Productive failure]], error analysis, the flipped variants, oral code review, scripted collaboration, and the conceptual-change studies. Class time is often reallocated rather than replaced — in the oral-review pattern, lectures moved to video so class time could hold the interviews.

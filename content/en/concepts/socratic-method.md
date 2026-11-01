@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T09:35:00-04:00"
+updated: "2026-11-01T09:12:59-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -41,6 +41,8 @@ Unlike direct-instruction AI tutors that give answers, Socratic AI tutors use qu
 - **Guide toward insight** — without giving the answer away
 
 The Socratic approach directly embodies the principle from [[llm-training-and-fine-tuning|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice [[benchmark]], whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode. A stricter variant removes the teaching entirely: an introductory-physics agent that only probes asks students to defend a correct prediction against one changed variable (cave detection) and keeps the message after a correct answer indistinguishable from the one after a wrong answer ([[socratic-probing-agent-physics-cave-detection-2026|Cho (2026)]]).
+
+Hint design has a documented form in a domain this page otherwise does not cover. In a second-language revision task with 58 university students at CEFR A1–B1, the design gave guided clues and required learners to infer the correction rather than receive it ([[lukesova-clue-before-correction-2026|Lukešová & Jennings, 2026]]). Reduced cognitive load and personalized revision paths were reported mainly for learners who already held enough prior knowledge to act on a clue, and feedback depth varied with how well the student prompted. Withholding the correction therefore has a proficiency floor, which is the calibration problem in a form a study can measure.
 
 ## Evidence of effectiveness
 

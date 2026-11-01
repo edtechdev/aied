@@ -1,7 +1,7 @@
 ---
 title: Activity Theory
 created: "2026-08-26T08:20:00-04:00"
-updated: "2026-10-25T20:20:00-04:00"
+updated: "2026-11-01T09:12:21-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -38,11 +38,14 @@ Activity theory descends from Vygotsky's and Leontiev's cultural-historical psyc
 
 A defining feature is **contradiction**: activity systems contain historically accumulating structural tensions (within an element, between elements, or between an old and a newly introduced element/tool). Contradictions are not bugs to be eliminated but the *driving force of development* — when aggravated, they prompt participants to question and deviate from established norms, opening the way for expansive transformation (Engeström, 2001).
 
+The tools slot is the one generative AI strains. A 2026 sociocultural essay argues that an LLM both mediates the activity and generates contingent contributions that reshape its trajectory, so calling it a tool understates its influence while calling it a collaborator attributes intentionality, accountability and community membership it does not have ([[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate and Ritchie, 2026]]). Their *mediational agent* sits in the tool position without holding a position in the community, which means the division of labor has to be analyzed around contributions and not only around instruments.
+
 ### Why activity theory matters for AI in education
 
 AI introduces new **tools/mediating artifacts** into existing educational activity systems, which produces both opportunities and contradictions. Activity theory gives AIED research a vocabulary and method for analyzing these changes:
 
 - **AI as a mediating artifact that reconfigures the division of labor.** AI systems do not simply transmit information; they take over tasks, change who does what, and redistribute cognitive work across humans and machines. Studies use activity theory to examine how AI shifts the division of labor between students, teachers, and tools — e.g., in collaborative writing or tutoring — and what this means for [[agency|human agency]].
+- **The labor redistributes faster than the rules change.** A scoping review of 53 HCI studies of LLMs in family education found systems producing materials, structuring dialogue, interpreting context and connecting families to outside knowledge, while parents kept the reviewing, adapting and deciding; verification and repair work went undocumented ([[llm-family-education-activity-theory-2026|Luo et al., 2026]]). Rules governing participation were mostly anticipated rather than enacted, the mismatch between a new tool and an unchanged rule set that the framework predicts.
 - **Analyzing teacher adoption and [[educational-development|professional development]].** Activity theory reframes teacher uptake of AI as a property of the whole activity system (community norms, rules, division of labor, [[governance|institutional]] expectations) rather than of individual attitudes alone. [[quantitative-research|Quantitative]] work [[activity-theory-teachers-adoption-ai-sem-2026|models the six AT components as measurable constructs]] predicting teachers' intention to adopt AI; [[qualitative-research|qualitative]] work [[lee-anson-k12-teachers-ai-activity-theory|documents teachers' sixfold sentiments]] (unsuitable, impersonal, imperfect, uncertain, assisting, inevitable); and intervention work [[activity-theory-teacher-pd-ai-agent-design-2026|uses CHAT to diagnose and redesign]] teacher professional development, treating disengagement as a rational response to need-thwarting systems.
 - **Norm change and systemic disruption.** Because AI introduces a new tool into the activity system, it generates contradictions with existing rules and norms. Studies of students' GenAI use [[ai-disruption-engineering-education-chat-2026|show how new implicit rules emerge]] as students adapt — transforming norms around self-direction, learning objectives, the teacher's role, and [[ethics]].
 - **Anchoring [[learning-analytics|learning analytics]] and measurement.** Activity theory can ground the *design* of analytics by mapping measurement facets onto activity-system elements. A CHAT-anchored analytics pipeline [[chat-anchored-learning-analytics-ai-literacy-2026|maps temporal participation, discourse quality, and concept sophistication to CHAT elements]] to detect early at-risk participation in small discussion-based classes.
@@ -94,4 +97,6 @@ For designers and educators, activity theory counsels looking beyond the AI tool
 - [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
+- [[llm-family-education-activity-theory-2026]] — Scoping review of 53 HCI studies: LLMs redistributed family educational labor, while rules were mostly anticipated rather than enacted
+- [[generative-ai-mediational-agent-sociocultural-2026]] — GenAI as a mediational agent: neither tool nor collaborator
 

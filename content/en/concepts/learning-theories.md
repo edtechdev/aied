@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -39,7 +39,9 @@ The knowledge base documents several families of learning theory, each with its 
 
 ### Learning theories and learning gains
 
-Learning theories are ultimately evaluated by their outcomes, and the knowledge base's [[learning-gains]] concept is where theory meets evidence. Each theory makes a different prediction about what *counts* as learning and how to measure it: behaviorism predicts observable performance gains on drill-and-feedback tasks; constructivism predicts deeper understanding that transfers to novel problems; sociocultural theory predicts gains in participation and mediated problem-solving; and cognitive-load theory predicts gains only when instruction respects working-memory limits. This is why [[learning-gains]] measurement is theory-laden — an instrument built on one theory may not capture the gains another predicts. In the AI era, the sharp divergence between AI-assisted performance and unassisted [[learning-gains|learning gains]] (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) can be read through this lens: a behaviorist reading sees inflated homework scores as success, while a constructivist reading, focused on durable understanding, sees the same evidence as a failure to learn. Connecting theories to [[ai-ed-evaluation|evaluation]] and [[learning-gains|measured outcomes]] is thus essential to deciding which theoretical lens a given AI system actually satisfies.
+Learning theories are ultimately evaluated by their outcomes, and the knowledge base's [[learning-gains]] concept is where theory meets evidence. Each theory makes a different prediction about what *counts* as learning and how to measure it: behaviorism predicts observable performance gains on drill-and-feedback tasks; constructivism predicts deeper understanding that transfers to novel problems; sociocultural theory predicts gains in participation and mediated problem-solving; and cognitive-load theory predicts gains only when instruction respects working-memory limits. Measurement choices, then, decide which theory's prediction an evaluation can confirm. In the AI era, the sharp divergence between AI-assisted performance and unassisted [[learning-gains|learning gains]] (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) can be read through this lens: a behaviorist reading sees inflated homework scores as success, while a constructivist reading, focused on durable understanding, sees the same evidence as a failure to learn.
+
+**The pooled evidence is positive, and it measures a narrower construct than the theories do.** A PRISMA meta-analysis of 53 studies puts GenAI assistance at g = 0.40 on academic achievement, 0.72 on higher-order thinking, 0.76 on writing and 0.81 on motivation, with GenAI feedback the largest mechanism at g = 1.27 ([[genai-educational-outcomes-meta-analysis|Dong (2026)]]). Those are gains on the instruments the included studies chose, so they settle a behaviorist or cognitivist reading of "it works" and leave the constructivist prediction about durable, transferable understanding untested. The country subgroups also diverged, from China's g = 0.71 to Turkey's nonsignificant g = 0.01, so the pooled estimate is an average to test locally rather than a property of the tool.
 
 ### Why learning theories matter for AI in education
 
@@ -142,7 +144,7 @@ Alongside the classical families, the knowledge base documents theories written 
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
 - [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
 - [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
-- [[genai-educational-outcomes-meta-analysis]]
+- [[genai-educational-outcomes-meta-analysis]] — PRISMA meta-analysis of 53 studies: pooled gains on achievement, thinking, writing and motivation, with feedback the largest mechanism (Dong 2026)
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[videla-embodied-ai-education-choreography]]
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent

@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -46,6 +46,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 ### Motivational impacts
 
 - **Positive:** AI can raise [[motivation]] and [[student-engagement|engagement]] by providing personalized, immediate, and low-stakes support — helping students persist and feel competent (see [[self-determination-theory|self-determination]] perspectives on autonomy, competence, and relatedness).
+- **The motivational effect runs through motivation, not through access.** Among 297 students, autonomy support and autonomous motivation for AI use had no direct effect on engagement (β = 0.070 each), while student motivation predicted engagement at β = 0.74 ([[genai-motivation-engagement-2026|Ahmed and Sultan (2026)]]).
 - **Negative:** Knowing AI is available can reduce student effort and motivation to struggle productively ([[ai-availability-student-motivation|AI availability and motivation]], [[wang-safety-gap-productive-struggle-2026|the safety gap]]). Over-reliance can erode [[agency]] and the sense of accomplishment that comes from doing work oneself.
 
 ### Affective and well-being impacts
@@ -61,6 +62,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 ### Academic-integrity and fairness impacts
 
 - **Negative:** AI enables new forms of [[academic-integrity|academic dishonesty]] (AI-generated essays, unauthorized completion), driving debates about [[reduce-ai-cheating|detection and reduction]]. This interacts with [[equity-in-ai-education|equity]]: unequal access to, and understanding of, AI tools can widen gaps between students.
+- **Whether a use counts as cheating depends on the discipline.** A systematic review of 89 studies found [[stem-education|STEM]] students at +42% net agreement that AI improves performance, while [[humanities-education|humanities]] students showed the highest net agreement that AI use constitutes cheating (+44%) and raises ethical concerns (+58%) ([[ai-tools-academic-work-cheating-2026|Padhy (2026)]]). A course's integrity problem is therefore partly a disciplinary judgment rather than a fixed standard, which is why the rules students encounter vary by department as much as by policy.
 - **Positive/constructive:** AI can support [[authentic-assessment|authentic]], [[process-oriented-assessment|process-oriented]] assessment and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
 
 Student accounts of integrity are less settled than the dishonesty framing suggests. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] interviewed 27 undergraduates at an Ethiopian university and found the student body divided against itself: almost all used GenAI or watched peers use it and most credited it with raising their achievement, a minority called coursework use outright misconduct, and the sharpest and most widely shared complaint was fairness — AI users scoring above students who worked honestly, which some described as killing their sense of diligence and left one participant unsure "whether we are benefiting or suffering from the use of AI." The procedure side matters too: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded 1,162 GenAI misconduct cases and found that the evidence most often cited — detector output, similarity reports, AI-typical content patterns — carried the weakest probative value, and that with no minimum evidentiary threshold in the pipeline students with thin cases were pushed toward appeals. Over-inclusive definitions broaden that exposure: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions aimed at "[[generative-ai|generative AI]]" can catch tools that merely convert the format of work a student already authored, an over-inclusion that falls hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] points the constructive way out, treating integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment|judgment]] — annotated decision trails, verification, oral defense, version history — rather than compliance secured through surveillance.
@@ -173,6 +175,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in an AI era
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
+- [[genai-motivation-engagement-2026]] — 297 students: motivation predicted engagement; autonomy support for AI use had no direct effect (Ahmed & Sultan 2026)
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI and students' perceived decision capability (cognitive-load account)
 - [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professionalization
 - [[sidorkin-ai-generated-course-readings-2026]] — Students as auditors of their own AI-generated curriculum (Sidorkin 2026)

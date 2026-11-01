@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-10-26T01:00:00-04:00"
+updated: "2026-11-01T09:12:59-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -51,6 +51,8 @@ The research clusters into five functions, and the cluster boundaries matter bec
 **Academic support access.** Course-specific retrieval systems aim at the students least likely to ask a human. Beacon, built from a single programming module's approved materials, drew high relevance ratings (89%) and was judged by most students to support rather than replace their learning (66.7%), in a small evaluation of 15 students and 4 academics ([[course-specific-rag-help-seeking-higher-ed-2026|Zhou et al., 2026]]). Tutoring take-up is its own problem: a two-year randomized trial of a virtual tutoring layer for struggling students had to test take-up separately from learning, because reaching the students who need support is not the same as providing it ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Fryer et al., 2026]]).
 
 **Administrative assistance.** Leadership and administration are studied as their own application domain, with a ten-domain taxonomy mapping where AI lands in educational leadership ([[sposato-ai-educational-leadership-taxonomy-2025|Sposato, 2025]]). Institution-run services reach past advising into health: an integrated campus well-being framework pairs prevention — improving how feedback is collected — with intervention through mental-health detection ([[ai-campus-wellbeing-tools|Tang, 2026]]). Credentialing sits adjacent: when an agent can complete a course on a student's behalf, a credential that says "earned" loses its meaning, which turns completion records into a design problem ([[credentials-carry-evidence-ai-agents-2026|Srivastava, 2026]]).
+
+What an AI support channel displaces deserves the same accounting. Across four studies (N = 249, 494, 743 and 737), belief in AI's capacity to provide emotional support raised willingness to offload that support to it, and the effect travelled entirely through perceived capacity (total effect c = 0.83; indirect effect ab = 0.73) ([[shastry-gray-empathy-offloading-2026|Shastry & Gray, 2026]]). On a behavioral measure, participants who said they would not offload chose fewer empathy words, so routing students to an AI well-being channel can subtract human support in ways self-report does not show.
 
 ## From prediction to support
 
@@ -137,6 +139,7 @@ Student support connects to [[student-experience]] as the student-facing counter
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — ten-domain taxonomy of AI in educational leadership
 - [[students-at-stake-ai-deployment-risks-2026]] — student-side risk surface: admissions and aid, student-success services, and instruction
 - [[ai-campus-wellbeing-tools]] — campus well-being support spanning prevention and intervention
+- [[shastry-gray-empathy-offloading-2026]] — Four studies on empathy offloading: believing AI can supply emotional support lowers what people supply themselves (Shastry & Gray 2026)
 - [[coursegraph-cs-course-comparison-2026]] — course equivalence for transfer credit and mobility
 - [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach

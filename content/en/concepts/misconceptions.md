@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-10-26T11:15:00-04:00"
+updated: "2026-11-01T09:12:59-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -45,6 +45,8 @@ A misconception here is not mere ignorance of how a model works — it is an act
 - **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
 - **The friendliness-safety illusion (children)** — believing a friendly-seeming AI is inherently safe and less likely to spy. [[children-ai-safety-misconceptions-2026|Leisten et al. (2026)]] surveyed 71 children aged 10–16 (*M*age = 12.90) and ran six focus groups (n = 36) around the [[open-source]] social robot Blossom, finding foundational AI knowledge rose reliably with age (*M* = 4.41 of 6; β = 0.17) while safety attitudes stayed ambivalent (importance *M* = 2.51, current safety *M* = 2.77 on a 1–4 scale), captured in a 12–13-year-old's belief that "maybe if they are good friends he doesn't spy so much" — alongside the belief that AI's knowledge can be deleted at the press of a button, that hacking leads to kidnapping, and that "the wifi radiates into the brain."
 
+The integrity gray zone has a structure, not just two extremes. Interviews with 20 students, together with their chat logs and course documents, found five separate sites where AI policy lives, from faculty intention through formal policy and student self-policy to actual practice, plus 23 distinct rationalizations in six classes ([[student-rationalization-ai-writing|Kim et al., 2026]]). The rationalizations were ad hoc and post hoc, assembled to explain use that had already happened rather than to guide it. A strict prohibition did not prevent use so much as intensify moral conflict in students who wanted to comply, which puts the correction target in the policy site rather than in the statement of the rule.
+
 ### Institutional and public AI myths
 
 Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and [[agentic-ai|agentic]], that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises [[higher-ed|higher education]]," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[trust|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
@@ -52,6 +54,8 @@ Misconceptions are not confined to students — they saturate the institutional 
 ### Why misconceptions matter for learning
 
 Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the knowledge base's evidence base.
+
+The belief that using AI is learning is not only held before use; the tool can manufacture it. [[llm-fallacy-misattribution|Kim et al.]] describe an LLM fallacy in which opaque, fluent, immediate output is misread as evidence of the user's own competence, so perceived and actual capability diverge by a margin they call ΔC. Because the mechanism is fluency and attribution ambiguity rather than error, the fallacy persists whether the model is accurate or hallucinating, which means a correct AI-assisted answer is not evidence that the belief has been corrected.
 
 ### Misconceptions beyond students: teachers, institutions, and the public
 

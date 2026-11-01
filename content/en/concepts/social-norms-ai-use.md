@@ -1,7 +1,7 @@
 ---
 title: Social Norms of AI Use
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-10-26T00:30:00-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -54,6 +54,8 @@ That pattern relocates the norm from "use or don't use" to "admit or don't admit
 The instructor side of the same emotion is measurable. [[vassallo-ai-guilt-complex-faculty-2026|A survey of faculty]] using a four-item AI Guilt Index (Cronbach's alpha = 0.88) found anticipatory guilt exceeding experienced remorse: the mean index score was 2.39 (SD = 1.01), with 22.9% of participants above the midpoint. Non-users of AI reported *higher* guilt (M = 3.25, SD = 1.04, n = 8) than users (n = 101, M = 2.32, SD = 0.97), t(8.39) = 2.00, p = .078, and the remorse item separated the groups more sharply, t(7.79) = 2.44, p = .041. Cluster analysis produced four profiles: Comfortable Adopters (26.6%), Guilty Non-Users (29.4%), Cautious Users (28.4%) and Morally Distressed Avoiders (15.6%), with differences confirmed on guilt, F(3, 105) = 22.13, p < .001, eta-squared = 0.39.
 
 A norm that makes people who have not acted feel guilty is doing its work through anticipation. That is a real regulatory mechanism, and it is invisible to any policy audit that looks only at what faculty and students do.
+
+A survey of 409 undergraduates puts the same mechanism into a regression: perceived peer disclosure and comfort with instructors were the strongest predictors of a student's own disclosure, ahead of moral disengagement ([[qu-wang-disclose-or-not-genai-2026|Qu and Wang (2026)]]). What a student treats as the norm is what they believe their peers do, which is the impression the perception study above shows to be systematically coarse. Disclosure, on this evidence, is a response to a believed norm rather than to a written rule or to a personal ethical standard.
 
 ## The local rulebook: disciplines and classrooms
 
@@ -132,3 +134,4 @@ The cost of that substitution shows up in where faculty and students actually ta
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI in marketing education
 - [[chen-zou-genai-group-assessment-agency-2026]] — Agency in GenAI-supported group assessment
 - [[reddit-genai-education-discourse-analysis-2026]] — Reddit discourse analysis: faculty–student contact concentrates in detection and enforcement disputes (Yüce et al. 2026)
+- [[qu-wang-disclose-or-not-genai-2026]] — 409 undergraduates: perceived peer disclosure and instructor comfort predicted disclosure ahead of moral disengagement (Qu & Wang 2026)

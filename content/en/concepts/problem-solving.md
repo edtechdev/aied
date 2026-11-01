@@ -1,7 +1,7 @@
 ---
 title: Problem Solving
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-28T19:28:52-04:00"
+updated: "2026-11-01T09:12:59-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
@@ -31,7 +31,9 @@ Yet the same tools can erode the very skill they claim to support. Research on [
 
 The knowledge base's articles approach problem solving through distinct but converging lenses. [[llm-critical-thinking-teamwork-review|A PRISMA systematic review]] finds that LLMs often produce incomplete or incorrect responses, prompting students to question, verify, and improve information — turning model imperfections into validation-and-correction cycles that strengthen [[critical-thinking|critical thinking]] and mental independence. Rather than treating problems as given, other work foregrounds *problem posing*: [[genai-assisted-problem-posing-physics-2026|training students to generate their own physics problems]] supports [[transfer-of-learning|transfer]] and self-study, and [[dai-chatbots-problem-posing-primary-2026|GenAI chatbots]] improved primary students' problem-posing quality and reduced cognitive load in [[inquiry-based-learning|inquiry-based learning]].
 
-Scaffolding and assessment are also central. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]] derived from sequence-mining individual students' process patterns boost on-task performance in collaborative [[math-education|mathematics]] problem solving — though maximal scaffolding also increased scripting behavior. On the measurement side, [[llm-computational-thinking-physics-2026|LLMs can mirror human raters]] in detecting growth in [[computational-thinking|computational thinking]] across large [[physics-education|physics]] courses, while [[computational-thinking-educational-robotics-secondary-2026|computational thinking]] is proposed as the explicit conceptual glue that makes [[educational-robotics|educational robotics]] foster genuine problem solving rather than isolated technical exercises.
+Scaffolding and assessment are also central. [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Adaptive AI scaffolds]] derived from sequence-mining individual students' process patterns boost on-task performance in collaborative [[math-education|mathematics]] problem solving — though maximal scaffolding also increased scripting behavior. Structure inside the scaffold, not only its presence, is what keeps it from collapsing into answer-giving. A rule-guided LLM tutor built as diagnosis, intent selection and constrained response generation held tutor and students to the intended turn-taking script in 36 of 40 (90%) real Grade 5 sessions, and its anti-spoiler and completion-only gates cut premature answer-giving ([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu and Sun, 2026]]). The authors' strongest design claim is subtractive: arithmetic stayed outside the tutor's role and was returned to the student, after the tutor produced incorrect arithmetic in 4 of 40 sessions.
+
+On the measurement side, [[llm-computational-thinking-physics-2026|LLMs can mirror human raters]] in detecting growth in [[computational-thinking|computational thinking]] across large [[physics-education|physics]] courses, while [[computational-thinking-educational-robotics-secondary-2026|computational thinking]] is proposed as the explicit conceptual glue that makes [[educational-robotics|educational robotics]] foster genuine problem solving rather than isolated technical exercises.
 
 ### How AI both helps and hinders
 

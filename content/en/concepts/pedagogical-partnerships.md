@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-10-28T18:53:18-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -48,6 +48,7 @@ The intersection of pedagogical partnership and AI is one of the fastest-growing
 
 - **Students as co-designers of AI policy.** Rather than institutions imposing AI rules on students, partnership positions students as co-creators of course- and institution-level AI policy. For example, a guided-inquiry activity in which students co-designed a [[generative-ai]] course policy surfaced student priorities around training, standardized disclosure, institutional support, and involvement in decision-making ([[guided-inquiry-genai-course-policy-2026]]).
 - **Students as co-creators of AI tools.** In students-as-partners frameworks, students have co-designed and refined custom AI [[conversational-ai|chatbots]] aligned with pedagogical goals — an approach that extends the SaP paradigm to include AI tools themselves and positions student voice as central to responsible AI innovation ([[lo-co-creating-custom-gpts-sap-2026]]).
+- **Co-creation at scale, measured cautiously.** In a 710-student software design course, students built an AI tutor for a peer instead of using one. Design freedom was the top positive theme (22.3%) and unclear instructions the top complaint (23.7%), but perceived learning correlated with quiz scores only at r = 0.161 to 0.315 and the design had no control group ([[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]]). Building the tool is a plausible pedagogy and, on this evidence, an unproven one, which is why the case for it rests on the design activity rather than on outcome gains.
 
 - **Whole-class co-design, evaluated by self-assessment.** A first-year information-studies program had students and faculty co-design course goals and policies in the first week and revisit them through the term, with students grading themselves and their groups against personal goals, team goals and a shared rubric rather than final products ([[maybee-disruptive-partnerships-sap-2025|Maybee, LeGrand & Fundator (2025)]]).
 - **Co-creation in assessment and AI.** Student-staff partnerships have co-evaluated AI-generated output in coursework assessments and co-designed evaluation criteria, improving understanding of AI's benefits and limits and supporting [[self-regulated-learning]] ([[williams-ingle-assessment-co-creation-ai-2025]]).
@@ -126,3 +127,4 @@ For educators and institutions seeking to adopt pedagogical partnership, the kno
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
 - [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use
+- [[zangari-student-created-ai-agents-codesigned-instruction-2026]] — Students built an AI tutor for peers at 710-student scale: engagement high, learning evidence exploratory (Zangari et al. 2026)

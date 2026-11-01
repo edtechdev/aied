@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-10-28T01:09:26-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -28,6 +28,7 @@ Prior knowledge activation is one of the most robust findings in [[learning-scie
 ## The role of prior knowledge
 
 - **It is the strongest predictor of learning.** Decades of [[research-methods-aied|research]] show that what a learner already knows correlates with [[learning-gains|learning outcomes]] more strongly than almost any other factor, because new information is encoded relative to existing mental models. AI systems that adapt to each learner's prior-knowledge state therefore hold particular promise for efficiency and [[transfer-of-learning|transfer]].
+- **How much stronger, in one randomized comparison.** Two otherwise identical second-grade mathematics tutors, differing only in whether task selection followed a Bayesian knowledge-tracing mastery estimate, produced no difference in posttest scores. Prior knowledge predicted those scores at η²p = .63 (F(1, 124) = 206.99, p < .001) while the adaptive sequence accounted for η²p = .00 ([[adaptive-intelligent-tutoring-primary-mathematics-2026|Sibley, Berner and Schmalfeldt (2026)]]). Adaptation rearranges the order of practice; what the learner brought to it still carried the outcome.
 - **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard [[pedagogy|instructional]] move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
 - **It does not always predict who does the work that drives learning.** In a five-day learning-by-teaching study with 23 middle-school tutors, prior test scores did not predict the share of knowledge-building responses a tutor produced, and low-prior tutors who built knowledge finished statistically level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 - **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
@@ -91,3 +92,4 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
 - [[knowledge-building-tutor-learning-2026]] — knowledge-building rather than prior knowledge predicts tutor learning, and low-prior tutors who build knowledge catch up
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Prior knowledge carried the posttest (η²p = .63) while adaptive task selection carried none (Sibley et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-10-26T08:45:00-04:00"
+updated: "2026-11-01T09:12:21-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -32,7 +32,7 @@ Cognitive psychology is the learning-theory tradition that treats learning as a 
 - **The information-processing (computer) metaphor.** The mind is treated as an information-processing system with capacities and bottlenecks — [[item-response-theory|measurement]] of latent ability, working-memory limits, encoding and retrieval — which is precisely the model that made AI tutoring (a computer program that models and adapts to learner cognition) a natural fit.
 - **Attention and memory are bounded.** Working memory has limited capacity; durable learning requires encoding into long-term memory through rehearsal, elaboration, and [[retrieval-spacing-interleaving|retrieval practice]]. This connects cognitivism to [[research-methods-aied|research]] on [[cognitive-offloading]] (delegating memory/processing to external tools) and to the "performance–learning gap" when AI bypasses retrieval and practice.
 - **Metacognition regulates cognition.** [[metacognition]] — monitoring and controlling one's own thinking — is a distinctly cognitivist construct, and it explains why learners' calibration of when to rely on AI matters for learning (see [[cognitive-offloading]] and [[self-regulated-learning]]).
-- **Knowledge is decomposable and traceable.** Cognitivist AIED assumes learner knowledge can be represented as components and tracked over time — the foundation of [[knowledge-tracing]], [[cognitive-diagnosis]], and [[item-response-theory]].
+- **Knowledge is decomposable and traceable.** Cognitivist AIED assumes learner knowledge can be represented as components and tracked over time — the foundation of [[knowledge-tracing]], [[cognitive-diagnosis]], and [[item-response-theory]]. Traceability is also a scoring rule. Four [[knowledge-tracing]] update rules run over the same ASSISTments event sequences: crediting any assisted completion declared 93.9% of student-skill pairs mastered, against 72.8% when assisted rows read as failed first attempts. Pairs the lenient rule declared early went on to 0.709 unaided accuracy, against 0.857 where the rules agreed ([[crediting-assisted-work-inflates-mastery-2026|Srivastava, 2026]]). The model tracks only what the evidence rule lets it count.
 
 ## Cognitivism and AI in education
 
@@ -102,3 +102,4 @@ Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Effort organization, not effort amount, tracked load and frustration
+- [[crediting-assisted-work-inflates-mastery-2026]] — Mastery claims from knowledge tracing depend on how assisted work is credited (Srivastava 2026)

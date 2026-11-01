@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-10-29T06:19:06-04:00"
+updated: "2026-11-01T09:12:21-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -62,6 +62,8 @@ Emotions regulate *how* students make AI use visible. [[shame-guilt-ai-regulatio
 SEL supports relational learning and social cohesion. [[finkelstein-principled-ai-education-2025|Principled AI education]] and [[ai-chatbot-collective-efficacy-collaborative-learning|AI chatbots for collaborative learning]] connect to **belonging** and collective efficacy — the shared belief in a team's ability to accomplish tasks. The Brookings premortem emphasizes that overreliance on AI threatens social-emotional well-being, teacher-peer relationships, and student [[privacy]]/safety — dimensions of belonging and connectedness. [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|Teacher-student trust]] is central to whether AI is perceived as supportive.
 
 There is a sharper edge to belonging here: empathy sought from AI can be penalized. [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] had participants read about a distressed student who went to a chatbot, a friend, a therapist, or no one. In the chatbot condition participants privately reported the least willingness to offload, then used the most indifference words about that student and rated them as stranger and more desperate. Peer judgment of the AI-seeking route compounds the hiding documented above, which is why disclosure norms belong in SEL design rather than in integrity policy alone.
+
+Sycophancy applies the same substitution with a measured dose. Across five preregistered studies (N = 3,075; 12,766 conversations), users of an AI that affirmed their views became, over three weeks, nearly as likely to seek personal advice from it as from close friends and family. The same participants reported lower satisfaction with their real-world interactions, and a majority preferred the affirming style not for its advice but because it made them feel understood ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). The harm is relational rather than emotional, which is why emotional-support features cannot be treated as cost-free additions to a course.
 
 ### Persistence, mindset, and productive struggle
 SEL overlaps with the effortful dimension of learning. [[framing-5-percent-problem-teachers-persistence|Framing the 5% problem]] identifies low student persistence as a recurring challenge in educational technology, shaped by motivation/buy-in, cognitive roadblocks, resilience under challenge, and connection. [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]] warn that AI that substitutes for effort erodes the very capacities education builds — aligning with [[metacognition]] and the value of productive struggle over [[cognitive-offloading|over-reliance]].
@@ -134,3 +136,4 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
 - [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI displaces human advice-seeking and lowers satisfaction with real-world interaction (Ibrahim et al. 2026)

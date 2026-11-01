@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-26T10:00:00-04:00"
+updated: "2026-11-01T09:12:42-05:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -30,6 +30,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 
 - **Amplification:** AI can act as a divergent-thinking partner — brainstorming alternatives, generating counterarguments, and offering perspectives the learner might not consider. Role-specialized [[agentic-ai|multi-agent]] configurations can restore ideational diversity.
 - **Homogenization risk:** single-model assistance can reduce the diversity of ideas across students, so the same model produces convergent outputs. This is a direct threat to creativity in [[writing-education]] and [[design-education|design education]].
+- **Homogenization is a property of deployment, not of AI assistance as such.** In a 247-participant writing experiment, single-model and two-model assistance both raised essay quality (Δ = 0.332 and 0.234 against control), yet only the two-model condition restored cross-participant idea diversity to baseline ([[multi-agent-llm-social-learning|Kumar et al. (2026)]]). The convergent outputs this page warns about are produced by *one* model used by everyone, so the design lever is the number and distinctness of assistants rather than the presence of AI.
 - **Protecting creative agency:** keeping the learner's generative process in the loop — draft-first routines, requiring original synthesis, and using AI to challenge rather than replace — preserves the creative work that produces durable learning.
 - **Friction is not creative gain.** Contrarian AI personas drove challenge-and-reflection discourse in 38.2% of groups yet produced no measurable creative-performance improvement, so richer interaction patterns are not evidence of creativity ([[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]).
 - **A K–12 field map: GenAI mostly *enhances* creativity and rarely *measures* it.** A PRISMA-guided [[meta-analysis-systematic-review|scoping review]] of 45 studies (2017–2025) sorts the K–12 literature into four uses — creativity [[assessment]] (4 studies), human–AI co-creativity (3), [[stakeholders]]' perceptions (14) and creativity enhancement (34) — and shows how narrow the field still is: language-based storytelling and writing crowd out nearly everything else, with music, [[embodied-learning|embodied]] and spatial work and [[equity-in-ai-education|equity]]-focused studies almost absent. Purpose-built [[scaffolding|scaffolds]] that retained authorship (voice input, storyboards, divergent "many options" prompts) outperformed off-the-shelf platforms, and [[llm]] models scored divergent thinking close to human raters; yet the authors' own concern is the same homogenization this page tracks — shrinking linguistic diversity, style convergence, AI-contaminated training data and [[metacognition|metacognitive]] laziness in co-writing — which they gloss with Runco's term "artificial creativity": output that looks creative without the human experience behind it. Over-reliance reappeared as a risk across perception, co-creativity and [[curriculum-design|curriculum]] studies alike ([[genai-creativity-k12-scoping-review-2026]]).
@@ -109,6 +110,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
 - [[genai-creativity-k12-scoping-review-2026]] — PRISMA scoping review of 45 K–12 studies: four GenAI uses for creativity, homogenization, and the measurement gap
+- [[multi-agent-llm-social-learning]] — Two-model assistance restored ideational diversity that a single model flattened (Kumar et al. 2026)
 
 - [[genai-dependence-research-creativity-2026]] — Functional versus existential GenAI dependence and research creativity in 1,157 graduate students
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Matched creativity, divergent neural engagement: children vs. adults talking with ChatGPT in an fMRI scanner
