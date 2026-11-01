@@ -2,7 +2,7 @@
 title: "Snorkl"
 created: "2026-10-13T20:22:00-04:00"
 type: resource
-summary: "A classroom tool that gives students instant AI feedback on recorded spoken and drawn explanations of their thinking, and gives teachers analytics on those explanations."
+summary: "Инструмент для класса, который даёт студентам мгновенную обратную связь ИИ на записанные голосовые и нарисованные объяснения их мышления, а преподавателям аналитику этих объяснений."
 url: https://snorkl.app/
 author: "Snorkl"
 author_url: https://snorkl.app/about

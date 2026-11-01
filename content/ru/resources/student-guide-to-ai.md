@@ -2,7 +2,7 @@
 title: "Руководство для студентов по ИИ"
 created: "2026-10-13T20:26:00-04:00"
 type: resource
-summary: "A free three-edition student guide to artificial intelligence from Elon University, AAC&U and The Princeton Review, whose 2026 edition builds ten human capacities with teacher-ready learning modules and an anonymous self-assessment."
+summary: "Бесплатный трёхчастный путеводитель по искусственному интеллекту для студентов от Университета Илона, AAC&U и The Princeton Review: издание 2026 года развивает десять человеческих способностей с помощью готовых учебных модулей для преподавателей и анонимного самооценивания."
 url: https://studentguidetoai.org/
 author: "Elon University Imagining the Digital Future Center, AAC&U and The Princeton Review"
 author_url: https://studentguidetoai.org/about-the-2026-human-wisdom-for-the-age-of-ai-field-guide/

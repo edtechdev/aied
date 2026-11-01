@@ -14,6 +14,10 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-10-05"
@@ -23,7 +27,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 
 ---
@@ -182,6 +186,12 @@ Wang, H. D., Cohn, C., Xu, Z., Guo, S., Biswas, G., & Ma, M. (2026). [BEAGLE: Be
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv preprint.
 
 Fan, S., Deng, B., Xu, M., Liu, J., & Zhang, H. (2026). [Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models](https://arxiv.org/abs/2607.28128). arXiv preprint.
+
+## Распространённые заблуждения
+
+- **«Статьи об LLM и о программном обеспечении оцениваются одинаково хорошо.»** С 2023 года **38,0% статей о программном обеспечении и продуктах не сообщали никакой оценки вовсе против 9,3% статей об LLM**. Разрыв велик и идёт против допущения, что более новый инструментарий тестируется менее строго.
+- **«Стратификация по задаче устраняет разрыв.»** **Разрыв сохраняется при стратификации**: в скрининге и отборе статьи о программном обеспечении в среднем имели **3,2 содержательных критерия оценки, причём 39,3% не сообщали ни одного**, тогда как статьи об LLM — больше. Различие является систематическим свойством класса статей, а не задачи.
+- **«Положительная оценка означает, что рабочий процесс достиг заданной для него планки.»** Среди **118 статей об LLM с исключительно положительными оценками 52% всё равно сообщали хотя бы об одной озабоченности тем, что рабочий процесс не достиг планки, требуемой для его роли**. Половина положительных оценок содержала собственное опровержение.
 
 ## Связанные понятия
 

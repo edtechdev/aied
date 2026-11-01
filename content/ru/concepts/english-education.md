@@ -10,10 +10,14 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -82,6 +86,8 @@ ai_assist:
 
 Доминирование английского в ИИ — определяющая черта данной ветви. Поскольку модели сильнее всего в английском и конкретно в стандартном академическом английском, английское образование одновременно выигрывает непропорционально много (мощные EAP-опоры) и несёт характерные риски (монолингвальную предвзятость, дискриминацию в отношении вариантов мирового английского и многоязычных авторов). Исследования здесь связаны с [[equity-in-ai-education|справедливостью]], [[bias-mitigation|снижением предвзятости]], [[automated-assessment|автоматическим оцениванием]], [[ai-feedback-quality|качеством обратной связи ИИ]] и [[academic-integrity|академической добросовестностью]].
 
+Синтез 54 исследований EFL на базе Scopus помещает наиболее часто сообщаемые [[limitations-in-aied-research|ограничения]] области в сферу автономии учащегося: [[cognitive-offloading|чрезмерная опора]] на ИИ в 27 исследованиях (50%) и снижение [[critical-thinking|критического мышления]] в 25 (46%), против ненадёжного сгенерированного ИИ вывода в 22 (41%) как ведущей технической проблемы ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Следствия для преподавателей английского / EAP / EFL-ESL
 
 - **Намеренно используйте силу ИИ в академическом английском.** Поскольку модели сильнее всего в английском и стандартном академическом английском, преподаватели EAP могут применять ИИ для жанрового письма, дифференциации материалов для чтения ([[genai-differentiated-eap-reading-materials-2026|материалы для EAP]]) и обратной связи при правке — но должны позиционировать ИИ как партнёра по написанию черновиков и обратной связи, а не как машину для ответов.
@@ -92,6 +98,13 @@ ai_assist:
 - **Дифференцируйте по уровню владения и потребностям.** [[ai-vs-human-assessment-efl-tpck-2026|Оценивание в EFL]] и исследования адаптивного тьюторинга поддерживают подгонку поддержки и оценивания ИИ под уровень учащихся, а не единый универсальный подход.
 
 - **Смещайте технологии в сторону продукции.** Мета-анализ 33 исследований TEFL обнаружил небольшой-умеренный общий эффект (g = 0.38, снижающийся до 0.28 при trim-and-fill), который рос с уровнем образования и был выше на продуктивных навыках — говорении и письме, — чем на рецептивных ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## Распространённые заблуждения
+
+- **«В EFL ИИ в основном угрожает списыванием.»** Наиболее часто сообщаемое самим полем [[limitations-in-aied-research|ограничение]] — **автономия учащегося**, выступающая как [[cognitive-offloading|чрезмерная опора]] в **27** из **54 исследований** синтеза на базе Scopus. Документированная цена — зависимость, а не нечестность, что требует иного вмешательства.
+- **«Преподаватели языков либо принимают с энтузиазмом, либо не принимают вовсе.»** [[li-language-educators-genai-review-2026|Систематический обзор 23 исследований]] (Li et al.) обнаруживает **осторожное принятие, начинающееся с подготовки**, как паттерн. Преподаватели были насторожены обдуманно, а не разделены на энтузиастов и отказников.
+- **«Общий эффект оправдывает усилия.»** Метаанализ **33 исследований TEFL** обнаружил **малый-умеренный общий эффект (g = 0.38, сниженный до 0.28 методом trim-and-fill)**, который **рос с образовательным уровнем**. Эффект скромен после коррекции и сконцентрирован на высоких уровнях, поэтому утверждение для начинающих учащихся объединённая цифра не поддерживает.
+- **«Любое использование ИИ одинаково продуктивно для изучения языка.»** Та же работа выступает за **смещение технологии к продукции** — письму и говорению, а не потреблению. Модальность определяла эффект сильнее, чем присутствие ИИ.
 
 ## Связанные концепции
 
@@ -127,7 +140,7 @@ ai_assist:
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — Чрезмерная опора на ИИ (50% из 54 исследований) и снижение критического мышления ведут среди сообщаемых ограничений

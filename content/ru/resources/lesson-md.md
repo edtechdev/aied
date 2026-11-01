@@ -2,7 +2,7 @@
 title: "LESSON.md"
 created: "2026-10-13T21:14:00-04:00"
 type: resource
-summary: "An open, plain-text format for block-based eLearning lessons, plus an agent skill that writes lessons, assessments and whole course bundles in that format."
+summary: "Открытый текстовый формат для блочных электронных уроков и агентный навык, который пишет в этом формате уроки, задания и целые курсовые наборы."
 url: https://lesson.md/
 author: "Dan Bashaw (LXD Integral)"
 author_url: https://lxdintegral.com/

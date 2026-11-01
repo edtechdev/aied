@@ -2,7 +2,7 @@
 title: "idstack"
 created: "2026-10-13T21:10:00-04:00"
 type: resource
-summary: "An open-source set of eleven Claude Code skills that audit a course against the instructional-design evidence base, tagging every recommendation with its evidence tier."
+summary: "Открытый набор из одиннадцати навыков Claude Code, которые проверяют курс по доказательной базе дизайна обучения и помечают каждую рекомендацию уровнем доказательности."
 url: https://idstack.org/
 source_code: https://github.com/savvides/idstack
 author: "savvides"

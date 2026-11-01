@@ -2,7 +2,7 @@
 title: "Обратная связь по процессу"
 created: "2026-10-13T20:18:00-04:00"
 type: resource
-summary: "A free, process-based alternative to AI detection: it records how a piece of writing was produced and turns that into a report for a conversation about learning rather than a verdict."
+summary: "Бесплатная альтернатива выявлению ИИ, построенная на процессе: записывает, как создавался текст, и превращает это в отчёт для разговора об обучении, а не в приговор."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
 resource_type: [software]

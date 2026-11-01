@@ -12,10 +12,14 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-10-11T09:05:00-04:00"
+source_updated: "2026-10-26T10:50:00-04:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -124,6 +128,12 @@ ai_assist:
 - **Быть осторожным с персонализацией, потребляющей демографические признаки.** Находка [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]] прямо касается этого механизма, и она применима к проверкам [[well-being|благополучия]], [[affective-computing|аффективным репетиторам]] и [[recommender-systems-and-learning-paths|рекомендательным системам]], профилирующим учащихся.
 - **Проверять локально, на группе, которая вам небезразлична, с результатом, измеренным без инструмента.** См. [[interpreting-and-applying-aied-research|Интерпретация и применение исследований AIEd]] о навыках оценивания и [[research-methods-aied|Методы исследования в ИИ в образовании]] о замыслах, делающих локальную проверку защитимой.
 
+## Распространённые заблуждения
+
+- **«Метки групп схватывают важную вариацию.»** **Метки групп скрывают вариацию внутри них**: в мета-анализе по инвалидности студенты с **специфическими трудностями обучения, интеллектуальными и нарушениями развития** и другими категориями объединены, поэтому среднее по группе не описывает ни одну из них.
+- **«Подгрупповые анализы отвечают на вопрос дифференциальных эффектов.»** Они обычно **слишком малы, чтобы на него ответить**: [[ai-tutoring-micro-rct-gcse-science-2026|микро-РКИ по естествознанию GCSE]] необычно прямо указывает, что его контраст по **воздействию** рассчитан на мощность для общего эффекта, а не для подгрупповых различий. Подгрупповая находка без мощности — гипотеза, а не результат.
+- **«Средний объединённый эффект говорит, получает ли выгоду конкретная группа.»** [[zhang-ai-students-disabilities-meta-analysis-2024|29 (квази)экспериментальных исследований]] объединены в **Hedges' g = 0.588 (95% CI [0.349, 0.826])** по категориям инвалидности. Интервал описывает среднее по этим категориям, а «какая группа, какая потребность» — отдельный анализ.
+
 ## Связанные понятия
 
 - [[equity-in-ai-education]]
@@ -147,8 +157,8 @@ ai_assist:
 ## Связанные статьи
 
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — 29 studies of AI for students with disabilities: g = 0.588, and g = 0.269 after bias adjustment
-- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT benefited STEM and non-STEM students unequally in interdisciplinary learning
-- [[bjet-genai-engagement-minority-ethnic-students-2026]] — GenAI use and four-strand engagement among minority ethnic international students
+- [[caeai-chatgpt-interdisciplinary-stem-nonstem-2026]] — ChatGPT принёс студентам STEM и не-STEM неравную пользу в междисциплинарном обучении
+- [[bjet-genai-engagement-minority-ethnic-students-2026]] — использование GenAI и четырёхнитевая вовлечённость международных студентов из этнических меньшинств
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — 766 records to 40 studies, 15 of them generative AI
 - [[adhd-video-segmentation-computing-education]] — A general design change that brought ADHD participants to parity
 - [[neurodivergent-computing-students]] — 24 neurodivergent students on structure, ambiguity, and collaboration

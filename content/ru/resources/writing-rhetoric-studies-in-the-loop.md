@@ -2,7 +2,7 @@
 title: "Исследования письма и риторики в контуре: библиотека промптов GenAI"
 created: "2026-10-13T20:38:00-04:00"
 type: resource
-summary: "A peer-reviewed open-access collection of sixteen tested GenAI prompts, each written by a writing and rhetoric specialist to keep expert disciplinary judgment inside the prompting loop."
+summary: "Рецензируемый сборник с открытым доступом из шестнадцати проверенных промптов GenAI: каждый написан специалистом по письму и риторике, чтобы экспертное дисциплинарное суждение оставалось внутри процесса промптинга."
 url: https://wacclearinghouse.org/books/wac-repository/wrstl/
 author: "Anuj Gupta and Brian Gogan"
 resource_type: [prompt or gem library, ebook or guide]

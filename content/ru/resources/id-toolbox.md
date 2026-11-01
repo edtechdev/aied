@@ -2,7 +2,7 @@
 title: "The ID Toolbox"
 created: "2026-10-13T21:05:00-04:00"
 type: resource
-summary: "More than fifty free single-purpose browser utilities for instructional designers: scoping, estimation, caption and translation tooling, readability and consistency checks."
+summary: "Более пятидесяти бесплатных браузерных утилит для отдельных задач дизайнеров обучения: инструменты для оценки объёма, расчётов, субтитров и перевода, проверки читабельности и согласованности."
 url: https://nextgenailearning.com/
 author: "Curt Zilbersher"
 author_url: https://nextgenailearning.com/about

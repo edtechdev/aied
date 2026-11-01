@@ -2,7 +2,7 @@
 title: "Создание интеллектуальных учебников"
 created: "2026-10-13T21:16:00-04:00"
 type: resource
-summary: "Dan McCreary's open-source guide to building intelligent textbooks — online textbooks with search, navigation, glossaries, quizzes, concept graphs and embedded simulations — using MkDocs Material and generative AI, with a companion library of AI-generated interactive MicroSims."
+summary: "Открытое руководство Дэна Маккрири по созданию интеллектуальных учебников: онлайн-учебники с поиском, навигацией, глоссариями, тестами, графами понятий и встроенными симуляциями, на MkDocs Material и генеративном ИИ, с библиотекой интерактивных MicroSim, созданных ИИ."
 url: https://dmccreary.github.io/intelligent-textbooks/
 source_code: https://github.com/dmccreary/intelligent-textbooks
 author: "Dan McCreary"
