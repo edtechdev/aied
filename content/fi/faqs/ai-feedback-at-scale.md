@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-01T11:35:15-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Farrokhnia et al.:n laadun parannus tuli ketjuajattelukehotteesta, joka kuljetti
 Aldino et al. löytävät saman avusta ja sitten varmista -kaavan tavallisesta käytännöstä. Koneoppimiskomponentti merkitsi useimmin puuttuvaksi kohdan ”Meeting Learning Objective” (20 opettajaa 21:stä oli jättänyt sen pois; 16 hyväksyi merkinnän) ja kohdan ”Student-Teacher Relationship” (14 jätti pois; 12 hyväksyi). Opettajat päättivät jokaisesta ehdotuksesta ammatillisen harkinnan pohjalta, mikä on koko syy pitää heidät silmukassa.
 
 Kaksitoista Aldino et al.:n 21 opettajasta teki lisää lausetason revisioita, ja hallitseva kaava oli sävyn kalibrointi: kehun pienentäminen (f = 11), ehdotusten poistaminen (f = 9), kannustuksen poistaminen (f = 8). Revisiot keskittyivät relationaaliseen ulottuvuuteen, erityisesti Student-Teacher Relationship -kohtaan (f = 24). He suojelivat autenttisuutta ja ammatillista ääntä, eikä se työ automatisoidu.
+
+Opiskelijat ovat tuon varmistuksen toinen puoli, ja heidän kuvauksensa työnjaosta on lähellä sitä, mitä tämä sivu suosittaa. Kun 20 kandidaattiopiskelijaa kokoontui fokusryhmiin, opettajan palautetta arvostettiin sen relationaalisuudesta, henkilökohtaisuudesta ja asiantuntijuudesta, kun taas tekoälyn tuottama palaute vaikutti persoonattomalta ja mahdollisesti epäreilulta; samat opiskelijat olivat avoimia hybridille mallille, jossa opettaja lukee heidän työnsä ja täydentää mallin kommentteja ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Sama tutkimus havaitsi, että heidän arvionsa olivat yhteneviä ChatGPT:n kanssa täsmällisyydessä ja toteutettavuudessa mutta poikkesivat ajantasaisuudessa ja positiivisuudessa, joten ulottuvuudet, joilla mallin omaan tuomioon voi luottaa, ovat kapeammat kuin koko rubriikki.
 
 ## Opeta opiskelijat lukemaan kommentti
 

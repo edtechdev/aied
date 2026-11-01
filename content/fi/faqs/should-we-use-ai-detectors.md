@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Kaiken alla on viiteaineisto-ongelma. Ilmaisimet on koulutettu ja testattu gener
 
 Tietopohjan vahvin kontrolloitu testi tutki 642 julkaistua englanninkielistä tiivistelmää neljältä alalta ja kahdelta ajanjaksolta. Kynnysarvolla 0,50 kaksi kaupallista ilmaisinta merkitsi lipulla ohjeiden mukaisen kevyen tekoälymuokkauksen 38-80 %:ssa tapauksista, merkitsi muokkaamattomat vuosien 2023-25 alkuperäisversiot 9-15 %:ssa (ei-[[stem-education|STEM]]-alat selvästi STEM-aloja enemmän, p<0,001), ja kun teksti oli ajettu humanisointipalvelun läpi, ne tavoittivat alle 4 % tekoälyksi merkityistä uudelleenkirjoituksista, eli väärän negatiivisen osuus yli 96 %. Kirjoittajat kutsuvat tätä rehellisyyden umpikujaksi (catch-22): opiskelijat, jotka kertovat ja muokkaavat kevyesti, ovat niitä, jotka työkalu tavoittaa, eivätkä ne, jotka lähtevät sitä kiertämään. Heidän suosituksensa on eksplisiittinen: ilmaisimien pistemääriä ei koskaan pitäisi käyttää itsenäisenä vilpillisyysnäyttönä ([[karr-ai-detection-humanization-2026]]).
 
+Katsaukset ovat lakanneet kokonaan yrittämästä asettaa työkaluja paremmuusjärjestykseen. Järjestelmällinen katsaus 90 tutkimuksesta, jotka julkaistiin vuosien 2020 ja 2026 välillä, raportoi, että väärän positiivisen osuudet vaihtelevat työkalujen ja arviointiympäristöjen välillä niin laajasti, ettei suora määrällinen vertailu ole mahdollista, ja nimeää syiksi algoritmisen ja kielellisen vinouman, rajallisen kontekstin ymmärryksen, pinnalliset kielelliset piirteet ja riittämättömän monipuoliset koulutusaineistot ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). Nimeämänsä korjauskeinot ovat menettelytapoja eivätkä teknisiä: läpinäkyvä ilmaisinkäytäntö, ihmisen tekemä tarkistus, tekoälylukutaito, selkeä institutionaalinen käytäntö ja saavutettava muutoksenhakureitti.
+
 Riippumaton [[benchmark|vertailuaineisto]] päätyy samaan paikkaan toisesta suunnasta. Mikään 14 työkalusta ei yltänyt 80 %:n tarkkuuteen, ja pelkkä parafraasi, pieni muokkaus tai humanisointipalvelu kutistaa suunnilleen puoleen senkin suorituksen. Realistisilla perusosuuksilla väärät positiiviset ovat lukuisampia kuin oikeat positiiviset ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Kiinniottoprosentit kokonaan generoidussa tekstissä ovat huonompia kuin otsikkotason virheprosentit antavat ymmärtää. Peitetyssä kenttätutkimuksessa tutkijat syöttivät kokonaan tekoälyn tuottamia palautuksia elävään verkko-[[summative-assessment|tenttijärjestelmään]] viidellä psykologian moduulilla: 94 % jäi havaitsematta, ja tekoälytyö sai keskimäärin paremmat pisteet kuin oikeat opiskelijat. Sopimusvilppi oli jo näyttänyt saman rakenteellisen ongelman, koska se ei jätä luotettavaa jälkeä löydettäväksi ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Kiinniottoprosentit kokonaan generoidussa tekstissä ovat huonompia kuin otsikko
 Tarkkuus liikkuu myös tehtävän mukana. Kun tutkijat testasivat, pystyykö [[generative-ai|generatiivinen tekoäly]] tunnistamaan oman tuotoksensa, tulokset olivat luotettavia ohjelmoinnissa ja pidemmässä reflektiivisessä kirjoittamisessa ja heikkoja lyhyissä vastauksissa, joissa malli arvioi oman tekstinsä usein ihmismäisemmäksi kuin aidot opiskelijatyöt. Pienet kehotevariaatiot laskivat tarkkuutta jyrkästi ([[llm-detecting-llm-generated-content-education]]). Yhdelle tehtävälle pätevä kynnysarvo pettää toisessa, etkä tiedä missä vasta valituksen kohdalla.
 
 Sitten on vanheneminen. Vuoden 2026 tutkimus kehystää tunnistamisen sopeutumisongelmaksi: [[ren-test-time-adaptation-ai-text-detection-2026|mustan laatikon uudelleenkirjoitushyökkäys]] pudotti kaupallisen Pangram-ilmaisimen tasapainotettuun tarkkuuteen 63,5 % ja tekoälyn recall-arvoon 27,0 %, ja Llama 3.3 70B Instruct -mallilla koulutettu ilmaisin ylsi vain 55 %:n recall-arvoon uudemman mallin tiivistelmillä. Testinaikainen sopeutus palautui 94,4 %:n tasapainotettuun tarkkuuteen ja 99 %:n recall-arvoon samalla tekstillä, ja se on se rohkaiseva puoli. Sama artikkeli näyttää, mitä korjaus maksaa: kun simuloitu kielimallien käyttöönotto leviää, kiinteän ohjatun ilmaisimen recall ihmistekstillä heikkenee 85,9 %:sta 73,4 %:iin vuosikymmenen aikana. Sen vanhenemisehto sanotaan suoraan: tasapainotettu tarkkuus ei voi ylittää puolta yhdestä plus ihmis- ja tekoälyjakaumien kokonaisvariaatioetäisyydestä, joten jakaumien läheneminen kukistaisi jokaisen oppivan ilmaisimen. Validoitu pistemäärä pätee siihen asti, kun mallit liikkuvat, ja ne liikkuvat muutaman kuukauden välein ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Vertailu riippuu myös tehtävästä, joka lukijalle annetaan. Kontrolloidussa asetelmassa, jossa 30 ennen vuotta 2022 ilmestynyttä artikkelin johdantoa kirjoitettiin uudelleen viidessä uskottavassa ehdossa, sokkotestatut ihmisarvioijat saivat kokonaisuutena 19 %, mitä ei voi erottaa sattumasta, kun taas kolme kaupallista ilmaisinta erotteli samat viisi ehtoa (p<0,001 kaikilla) mutta olivat keskenään vain heikosti samaa mieltä absoluuttisesta pisteestä, ICC 0,57–0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Tehtävässä arvioijien piti sijoittaa teksti viiden muokkausehdon joukkoon sen sijaan, että he olisivat antaneet kyllä tai ei -arvion yhden opiskelijan esseestä, joten se ei kumoa alla olevia arvioijatutkimuksia, mutta se poistaa kaiken lohdun siitä, että huoneessa oleva ihminen olisi luotettava väline.
 
 Eikä kone ole koskaan selvästi voittanut huolellista lukijaa. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall ja Parapadakis (2025)]] raportoivat koneellisen tekoäly- tai parafrasoidun tekstin tunnistamisen noin 80 %:ksi ihmisarvioijien 78,4 %:a vastaan ja viittaavat näyttöön, jonka mukaan tekoälyteksti on mennyt läpi ihmisen kirjoittamana jopa 80 %:ssa tapauksista. Tuo marginaali katoaa virhevyöhykkeeseen, jonka ihminen jo tuo mukanaan, ja se on liian ohut löydöksen perustaksi ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

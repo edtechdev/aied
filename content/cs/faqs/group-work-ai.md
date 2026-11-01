@@ -11,15 +11,19 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-01T11:36:20-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,17 @@ Jejich omezení jdou s citací: jediná databáze, jen články v časopisech, �
 Detekce je nesprávný nástroj pro třídění individuálních přínosů: žádná z těchto šesti studií netestuje detektory ve skupinovém prostředí a problémy detekce na úrovni jednotlivce jsou zdokumentovány jinde v této znalostní bázi. Zdrženlivost je třeba nejdřív interpretovat, teprve potom opravovat. Chen a Zou upozorňují, že skupina odmítající AI může spíš obcházet něco neznámého, než uplatňovat vědomou [[self-regulated-learning|seberegulaci]], a oba případy volají po jiné reakci: jeden je problém výuky, druhý je uvážený postoj, který můžete ohodnotit.
 
 Ani simulovaní spoluhráči tuto otázku nerozhodují. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] doladil LLM agenty na skutečných dialozích účastníků (adaptéry LoRA/QLoRA na LLaMA 3.2-3B), aby namodeloval 48 účastníků v 3 824 tazích a šesti tematických kódech, a potom srovnal skutečný a simulovaný diskurz pomocí epistemické síťové analýzy. Simulovaná síť dosáhla vzdálenosti 0,17 od empirické sítě, tedy pod prahem 0,30, s permutační p-hodnotou 0,65, statisticky nerozlišitelná, i když mírně přeceňovala vazby na technická omezení a na design a podhodnocovala datové a výkonové parametry. Je to rámcová práce se střední mírou jistoty a podporuje jedno tvrzení: agenti vytvoření pro konkrétního účastníka dokážou reprodukovat realistický spolupracující diskurz. Neprokazuje, že se studenti od simulovaných spoluhráčů naučí víc.
+
+## Sestavte skupiny podle toho, čemu členové věří, ne podle toho, kdo je s kým kamarád
+
+Zda se AI stane společným referenčním bodem, nebo jen vyhledávačem, částečně závisí na tom, nakolik už se vaše skupiny shodují. Ve studii [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] pracovalo čtrnáct skupin budoucích učitelů na šedesátiminutovém simulačním zkoumání s metakognitivním chatbotem dostupným na vyžádání. Skupiny, jejichž členové měli odlišné [[prior-knowledge|představy]] o fyzice, vedly používání AI přes pojmový rozhovor, přičemž AI seděla ve středu jejich interakční sítě; skupiny, které už byly ve shodě, jely lineární cestu dotaz–odpověď a udržovaly negativní hodnocení výstupu, což autoři částečně přičítají tomu, že proaktivní podněty přicházely až po vytvoření konsenzu. Oba typy skupin kladly stejné typy otázek, takže se změnilo [[collaborative-learning|převzetí, ne objem]].
+
+Z toho plynou dva kroky a oba jsou levné:
+
+- Zadejte krátký pretest na klíčový pojem a promíchejte vzorce odpovědí napříč skupinami, místo abyste nechali studenty samostatně se rozdělit do pohodlných sestav.
+- Ve skupinách, které se rychle shodnou, držte [[self-regulated-learning|podněty ke sdílené regulaci]] na vyžádání, nikoli vnucované, protože pobídka, která přijde po dohodě, se čte jako přerušení.
+
+Berte to jako hypotézu, ne jako pravidlo. Je to čtrnáct skupin, jeden šedesátiminutový úkol na jediné téma, budoucí učitelé v jedné zemi a přepisy přeložené z finštiny před kódováním.
 
 ## V čem se vyučující a vedení mýlí
 

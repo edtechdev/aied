@@ -11,15 +11,19 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-01T11:36:20-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,17 @@ Njihova ograničenja idu uz citat: jedna baza podataka, samo članci iz časopis
 Otkrivanje je pogrešan instrument za razvrstavanje pojedinačnih doprinosa: nijedna od ovih šest studija ne testira detektore u grupnim uvjetima, a problemi detekcije na razini pojedinca dokumentirani su drugdje u ovoj bazi znanja. Suzdržanost treba protumačiti prije nego je ispraviti. Chen i Zou upozoravaju da grupa koja odbija AI može izbjegavati nešto nepoznato, a ne provoditi namjernu [[self-regulated-learning|samoregulaciju]], i ta dva slučaja traže različite odgovore: jedan je problem poučavanja, drugi je promišljena pozicija koju možete ocijeniti.
 
 Simulirani kolege također ne rješavaju pitanje. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026.)]] fino je podesio LLM agente na dijalogu stvarnih sudionika (LoRA/QLoRA adapteri na LLaMA 3.2-3B) kako bi modelirao 48 sudionika kroz 3.824 izmjene i šest tematskih kodova, a zatim je usporedio stvarni i simulirani diskurs epistemskom mrežnom analizom. Simulirana mreža dosegnula je udaljenost 0,17 od empirijske mreže, ispod praga 0,30, uz p-vrijednost permutacije 0,65, statistički nerazlučivo, iako je neznatno prenaglasila veze tehničkih ograničenja i oblikovanja te podzastupila parametre podataka i izvedbe. To je rad o okviru srednje pouzdanosti i podupire jednu tvrdnju: agenti specifični za sudionika mogu reproducirati realističan suradnički diskurs. Ne pokazuje da studenti više nauče od simuliranih kolega.
+
+## Sastavite grupe prema onome što članovi vjeruju, a ne prema tome ko je s kim prijatelj
+
+Hoće li AI postati zajednička referentna točka ili puki izvor za provjeru, dijelom ovisi o tome koliko se vaše grupe već slažu. U studiji [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026.)]] četrnaest grupa budućih nastavnika radilo je 60-minutno simulacijsko istraživanje s metakognitivnim chatbotom dostupnim na zahtjev. Grupe čiji su članovi imali različite [[prior-knowledge|predodžbe]] o fizici usmjeravale su korištenje AI-ja kroz konceptualni razgovor, s AI-jem u središtu njihove mreže interakcija; grupe koje su se već slagale išle su linearnim putem pitanje–odgovor i zadržale negativnu ocjenu rezultata, što autori dijelom pripisuju tome da su proaktivni poticaji stizali nakon što se konsenzus već oblikovao. Obje vrste grupa postavljale su iste vrste pitanja, pa se promijenilo [[collaborative-learning|preuzimanje, a ne obujam]].
+
+Iz toga slijede dva poteza i oba su jeftina:
+
+- Provedite kratki predtest o ključnom konceptu i promiješajte obrasce odgovora među grupama, umjesto da pustite studente da se sami rasporede u ugodne sastave.
+- U grupama koje se brzo usuglase držite [[self-regulated-learning|poticaje za zajedničku regulaciju]] dostupnima na zahtjev, a ne gurnutima, jer poticaj koji stigne nakon dogovora čita se kao prekid.
+
+Tretirajte to kao hipotezu, a ne pravilo. To je četrnaest grupa, jedan 60-minutni zadatak na jednoj temi, budući nastavnici u jednoj zemlji i transkripti prevedeni s finskog prije kodiranja.
 
 ## Što nastavnici i administracija ovdje rade pogrešno
 

@@ -11,12 +11,16 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -88,6 +92,17 @@ Những hạn chế của họ đi kèm với trích dẫn: một cơ sở dữ 
 Phát hiện là công cụ sai để phân loại đóng góp cá nhân: không nghiên cứu nào trong sáu nghiên cứu này kiểm nghiệm công cụ phát hiện trong bối cảnh nhóm, và những vấn đề ở cấp cá nhân với việc phát hiện đã được ghi ở chỗ khác trong cơ sở tri thức này. Sự tiết chế cần được diễn giải trước khi cần được chỉnh. Chen và Zou cảnh báo rằng một nhóm từ chối AI có thể đang né một thứ xa lạ chứ không phải đang thực thi [[self-regulated-learning|tự điều chỉnh]] có chủ đích, và hai trường hợp đòi hai phản ứng khác nhau: một là vấn đề dạy học, còn một là một lập trường đã cân nhắc mà bạn chấm được.
 
 Các thành viên nhóm mô phỏng cũng không giải quyết câu hỏi này. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] tinh chỉnh các tác nhân LLM trên hội thoại thật của người tham gia (bộ chuyển đổi LoRA/QLoRA trên LLaMA 3.2-3B) để mô hình hóa 48 người tham gia qua 3.824 lượt nói và sáu mã chủ đề, rồi so sánh diễn ngôn thật với diễn ngôn mô phỏng bằng Phân tích Mạng Nhận thức. Mạng mô phỏng đạt khoảng cách 0.17 so với mạng thực nghiệm, dưới ngưỡng 0.30, với p-value hoán vị là 0.65, tức là không phân biệt được về mặt thống kê, dù nó hơi quá nhấn mạnh các liên kết Ràng buộc Kỹ thuật và Thiết kế, và ít thể hiện hơn các Tham số Dữ liệu và Hiệu suất. Đây là một bài báo khung với độ tin cậy trung bình, và nó chỉ ủng hộ một khẳng định: các tác nhân riêng cho từng người tham gia có thể tái tạo diễn ngôn hợp tác giống thật. Nó không cho thấy sinh viên học được nhiều hơn từ những người bạn cùng nhóm mô phỏng.
+
+## Lập nhóm theo điều các thành viên tin, không theo ai là bạn
+
+Việc AI trở thành một điểm tham chiếu chung hay chỉ là một công cụ tra cứu phụ thuộc phần nào vào mức độ các nhóm của bạn đã đồng thuận sẵn. Trong nghiên cứu của [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], mười bốn nhóm giáo viên tương lai thực hiện một cuộc điều tra mô phỏng 60 phút với một chatbot siêu nhận thức hoạt động theo yêu cầu. Những nhóm có thành viên mang [[prior-knowledge|quan niệm trước]] khác nhau về vật lý đã định hướng việc dùng AI qua trao đổi khái niệm, với AI nằm ở trung tâm mạng tương tác của họ; những nhóm vốn đã đồng thuận đi theo lộ trình tuyến tính hỏi rồi đáp và duy trì đánh giá tiêu cực về kết quả, điều mà các tác giả phần nào quy cho những gợi ý chủ động đến sau khi sự đồng thuận đã hình thành. Cả hai kiểu nhóm đều đặt những câu hỏi cùng loại, nên điều thay đổi là [[collaborative-learning|mức tiếp nhận chứ không phải số lượng]].
+
+Hai bước tiếp theo, và cả hai đều rẻ:
+
+- Chạy một bài kiểm tra trước ngắn về khái niệm cốt lõi và trộn các kiểu trả lời giữa các nhóm, thay vì để sinh viên tự chọn vào những nhóm thoải mái.
+- Ở những nhóm hội tụ nhanh, hãy giữ [[self-regulated-learning|các gợi ý điều chỉnh chia sẻ]] theo yêu cầu thay vì đẩy tới, vì một cú huých đến sau khi đã đồng thuận bị đọc như sự ngắt quãng.
+
+Hãy coi đây là giả thuyết chứ không phải quy tắc. Đó là mười bốn nhóm, một nhiệm vụ 60 phút về một chủ đề, giáo viên tương lai ở một quốc gia, và bản ghi được dịch từ tiếng Phần Lan trước khi mã hóa.
 
 ## Giảng viên và nhà quản lý hiểu sai gì về điều này
 

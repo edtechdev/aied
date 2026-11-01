@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Koncept [[pedagogy|Pedagogije i strategije poučavanja]] u bazi znanja daje mjer
 
 [[finkelstein-principled-ai-education-2025|Okvir principijelne primjene umjetne inteligencije u obrazovanju]] navodi opće pravilo: tehnologija treba proširivati, a ne istiskivati ljudske sposobnosti koje obrazovanje namjerava razvijati. Izraženo kao mjerilo za modul, to znači imenovati sposobnost, imenovati aktivnost koja ju gradi i pitati nalazi li se AI unutar te aktivnosti ili pokraj nje.
 
+Primijenite to po zadatku, a ne jednom po alatu. U četiri slučaja usmjerena na nastavnike automatizacija i proširenje pojavili su se zajedno: zamjena je ostala unutar ograničenih analitičkih podzadataka, a proširenje se pokazalo u tome što je nastavnik učinio s rezultatom, zbog čega isti alat može automatizirati jedan korak i proširiti drugi ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Stavite pokušaj prije pomoći
 
 Zadani obrazac koji preživljava susret sa stvarnim razredom: **učenik pokušava, AI podupire, učenik procjenjuje ili revidira, učenik pokazuje razumijevanje.**
@@ -61,6 +67,12 @@ Implikacija je izravna. Isti je alat zaobilaženje na jednoj razini i [[scaffold
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec i Horvat]] analizirali su planirani slijed 29.064 nastavnih i učnih aktivnosti na 554 kolegija i pronašli vidljivu gramatiku oblikovanja. Aktivnosti tipa usvajanja najčešća su ulazna točka i najveći pojedinačni tip, iznad 20%. Tip učenja prati namjeravanu Bloomovu razinu, pri čemu usvajanje pada s oko 50% na razini 1 na oko 20% na razini 6, a proizvodnja raste iznad 20% na razinama 5 i 6. Najjači prijelaz u podacima jest prijelaz s procjene na raspravu, s vrijednošću 0,332.
 
 Iz toga slijede dvije lekcije za oblikovanje s AI-jem. Smjestite alat ondje gdje slijed predviđa tip aktivnosti. I, budući da se povratne informacije grupiraju uz [[collaborative-learning|suradnju]], [[group-work|grupni rad]] i prisutnost [[teacher-role|nastavnika]], vršnjačke i sinkrone strukture mjesta su na koja se AI potpora treba priključiti, a ne mjesta koja treba zamijeniti.
+
+## Oblikujte sat, ne samo slijed
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] tretira vrijeme kao oblikovanu potporu, a ne kao osobinu učenika: kolegij vlastitog tempa nosi tjednu kvotu od oko 100 minuta uz cilj blizu 20 minuta dnevno, podsjetnike svjesne vremena, nadzornu ploču napretka i kratku provjeru na kraju potpoglavlja od 3 do 12 pitanja. Polazište na koje taj dizajn odgovara je oštro: gotovo 25 posto od više od 600 učenika počinje tek u posljednjem tjednu i 95 posto te skupine ne uspijeva.
+
+Čitajte to kao dizajnerski poticaj, a ne kao dokazani učinak. Rad uspoređuje kasniji kolegij s ranijim umjesto da provede kontrolirani pokus, pa se poboljšanje ne može odvojiti od promjene kohorte i predmeta, a podsjetnici dovoljno snažni da pomaknu vrijeme učenja i pitanje su [[privacy|privatnosti]] na koje morate odgovoriti u silabu.
 
 ## Odredite što uskratiti i kada to vratiti
 

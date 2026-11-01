@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Farrokhnia m.fl.:s kvalitetsvinst kom från en chain-of-thought-prompt som ledde
 Aldino m.fl. finner samma mönster med stöd först och verifiering sedan i vanlig praktik. Maskininlärningskomponenten flaggade oftast ”Uppfyller lärandemålet” som saknat (20 av 21 lärare hade utelämnat det; 16 accepterade flaggan) och ”Elev-lärarrelation” (14 utelämnade; 12 accepterade). Lärarna avgjorde varje förslag med professionellt omdöme, vilket är poängen med att sätta dem i loopen.
 
 Tolv av Aldino m.fl.:s 21 lärare gjorde ytterligare revisioner på meningsnivå, och det dominerande mönstret var att kalibrera tonen: skriva ned beröm (f = 11), ta bort förslag (f = 9), ta bort uppmuntran (f = 8). Revisionerna klustrade i den relationella dimensionen, särskilt Elev-lärarrelation (f = 24). De skyddade autenticitet och professionell röst, och det arbetet automatiseras inte.
+
+Studenterna är den andra sidan av den verifieringen, och deras bild av arbetsfördelningen ligger nära den som sidan rekommenderar. I fokusgrupper med 20 studenter på grundnivå värderades lärarens återkoppling för att den var relationell, personlig och expertdriven, medan AI-genererad återkoppling uppfattades som opersonlig och potentiellt orättvis; samma studenter var öppna för en hybrid modell där läraren läser deras arbete och kompletterar modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong m.fl. (2026)]]). Samma studie fann att deras bedömningar stämde med ChatGPT:s i specificitet och handlingsbarhet men skilde sig i rättidighet och positivitet, så de dimensioner där en modells eget omdöme kan litas på är snävare än hela bedömningsmatrisen.
 
 ## Lär studenterna att läsa kommentaren
 

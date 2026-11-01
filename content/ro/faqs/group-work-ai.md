@@ -11,12 +11,16 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -88,6 +92,17 @@ Limitările lor călătoresc împreună cu citarea: o singură bază de date, do
 Detectarea este instrumentul greșit pentru a separa contribuțiile individuale: niciunul dintre aceste șase studii nu testează detectori în contexte de grup, iar problemele detectării la nivel individual sunt documentate în altă parte în această bază de cunoștințe. Reținerea trebuie interpretată înainte de a fi corectată. Chen și Zou avertizează că un grup care refuză IA poate evita ceva necunoscut, nu exercita [[self-regulated-learning|autoreglare]] deliberată, iar cele două cer răspunsuri diferite: una este o problemă de predare, cealaltă este o poziție chibzuită pe care o poți nota.
 
 Nici coechipierii simulați nu lămuresc întrebarea. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] a ajustat fin agenți LLM pe dialogul participanților reali (adaptori LoRA/QLoRA pe LLaMA 3.2-3B) pentru a modela 48 de participanți pe 3.824 de ture și șase coduri tematice, apoi a comparat discursul real cu cel simulat prin Analiza Rețelelor Epistemice. Rețeaua simulată a ajuns la o distanță de 0,17 față de rețeaua empirică, sub pragul de 0,30, cu o valoare p de permutare de 0,65, statistic indistinguibilă, deși a supraaccentuat ușor legăturile de constrângeri tehnice și de proiectare și a subreprezentat parametrii de date și performanță. Este o lucrare de cadru conceptual cu încredere medie și susține o singură afirmație: agenții specifici unui participant pot reproduce discurs colaborativ realist. Nu arată că studenții învață mai mult de la coechipieri simulați.
+
+## Formează grupurile după ce cred membrii, nu după cine e prieten
+
+Dacă IA devine un punct de referință comun sau o simplă căutare depinde în parte de cât de mult sunt deja de acord grupurile tale. În studiul lui [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], paisprezece grupuri de viitori profesori au lucrat o anchetă-simulare de 60 de minute cu un chatbot metacognitiv disponibil la cerere. Grupurile ai căror membri aveau [[prior-knowledge|preconcepții]] diferite despre fizică au dirijat folosirea IA prin discuție conceptuală, cu IA în centrul rețelei lor de interacțiune; grupurile care erau deja de acord au urmat o cale liniară întrebare-apoi-răspuns și au menținut o evaluare negativă a rezultatului, ceea ce autorii atribuie parțial prompturilor proactive care soseau după formarea consensului. Ambele tipuri de grup au pus aceleași tipuri de întrebări, așa că s-a schimbat [[collaborative-learning|preluarea, nu volumul]].
+
+Urmează două măsuri, și ambele sunt ieftine:
+
+- Rulează un pretest scurt pe conceptul central și amestecă tiparele de răspuns între grupuri, în loc să lași studenții să se auto-selecteze în grupuri confortabile.
+- În grupurile care converg repede, ține [[self-regulated-learning|prompturile de reglare partajată]] la cerere, nu impuse, pentru că un impuls care sosește după acord se citește ca întrerupere.
+
+Tratează-o ca pe o ipoteză, nu ca pe o regulă. Sunt paisprezece grupuri, o sarcină de 60 de minute pe un singur subiect, viitori profesori dintr-o singură țară și transcrieri traduse din finlandeză înainte de codare.
 
 ## Ce greșesc cadrele didactice și administrația aici
 

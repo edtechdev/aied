@@ -11,15 +11,19 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-01T11:36:20-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,17 @@ Korlátaik együtt utaznak a hivatkozással: egyetlen adatbázis, csak folyóira
 A detektálás rossz eszköz az egyéni hozzájárulások szétválogatására: e hat vizsgálat egyike sem tesztel detektorokat csoportos környezetben, és a detektálás egyéni szintű problémáit a tudásbázis más helyen dokumentálja. Az önmérsékletet értelmezni kell, mielőtt kijavítanánk. Chen és Zou óvatosan megjegyzi, hogy egy MI-t elutasító csoport inkább kerülhet valami ismeretlent, mint hogy szándékos [[self-regulated-learning|önszabályozást]] gyakorolna, és a kettő más választ kíván: az egyik tanítási probléma, a másik megfontolt álláspont, amelyet értékelni lehet.
 
 A szimulált csapattársak sem döntik el a kérdést. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] valódi résztvevői párbeszéden finomhangolt LLM-ágenseket (LoRA/QLoRA adaptereket LLaMA 3.2-3B-n) használt 48 résztvevő modellezésére 3 824 fordulaton és hat tematikus kódon át, majd Epistemic Network Analysis segítségével hasonlította össze a valódi és a szimulált diskurzust. A szimulált hálózat 0,17 távolságot ért el az empirikus hálózattól, a 0,30-as küszöb alatt, 0,65-es permutációs p-értékkel, statisztikailag megkülönböztethetetlenül, bár kissé túlhangsúlyozta a Technikai korlátok és a Tervezés kapcsolatait, és alulreprezentálta az Adat és a Teljesítményparaméterek kategóriákat. Ez közepes bizalmi szintű keretrendszer-cikk, és egy állítást támaszt alá: a résztvevőspecifikus ágensek képesek valósághű kollaboratív diskurzust reprodukálni. Azt nem mutatja meg, hogy a diákok többet tanulnak szimulált csapattársaktól.
+
+## A csoportokat aszerint alakítsa ki, mit hisznek a tagok, ne aszerint, ki kinek a barátja
+
+Az, hogy a MI közös viszonyítási ponttá vagy puszta keresővé válik-e, részben attól függ, mennyire értenek már egyet a csoportjai. [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] vizsgálatában tizennégy tanárjelölt csoport végzett 60 perces szimulációs vizsgálódást egy igény szerint elérhető metakognitív chatbotbal. Azok a csoportok, amelyeknek tagjai eltérő [[prior-knowledge|előzetes elképzelésekkel]] rendelkeztek a fizikáról, fogalmi beszélgetésen keresztül vezették a MI használatát, a MI pedig interakciós hálózatuk közepén ült; a már egyetértő csoportok lineáris kérdez-válaszol útvonalat jártak be, és fenntartották a kimenet negatív értékelését, amit a szerzők részben annak tulajdonítanak, hogy a proaktív buzdítások csak a konszenzus kialakulása után érkeztek. Mindkét csoporttípus ugyanolyan kérdéseket tett fel, tehát ami változott, az a [[collaborative-learning|befogadás volt, nem a mennyiség]].
+
+Két lépés következik ebből, és mindkettő olcsó:
+
+- Tartson rövid előtesztet a központi fogalomról, és keverje össze a válaszmintákat a csoportok között, ahelyett hogy a hallgatók maguk választanák ki a kényelmes csoportokat.
+- A gyorsan egyetértő csoportokban tartsa a [[self-regulated-learning|közös szabályozási buzdításokat]] igény szerint elérhetően, ne tolja őket, mert az egyetértés után érkező nudge megszakításként hat.
+
+Kezelje ezt hipotézisként, ne szabályként. Ez tizennégy csoport, egyetlen 60 perces feladat egyetlen témáról, egy ország tanárjelöltjei és a kódolás előtt finnből fordított átiratok.
 
 ## Amit az oktatók és az intézményvezetők ebben elrontanak
 

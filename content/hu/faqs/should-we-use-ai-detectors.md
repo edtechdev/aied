@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Mindezt egy referenciaadat-probléma húzódik meg alatta. A detektorokat genera
 
 A tudásbázis legerősebb kontrollált tesztje 642 publikált angol absztraktot vizsgált négy területen és két időszakban. 0,50-es küszöbön két kereskedelmi detektor a szabályzatnak megfelelő könnyű MI-szerkesztést 38-80%-ban jelölt meg, a változatlan 2023-25-ös eredetiket 9-15%-ban (a nem [[stem-education|STEM]] területek jóval a STEM fölött, p<0,001), és miután a szöveget egy humanizáló szolgáltatáson futtatták, az MI-jelölt átiratok kevesebb mint 4%-át fogta meg, ami több mint 96%-os téves negatív arány. A szerzők ezt integritási 22-es csapdának nevezik: azokat a hallgatókat fogja meg az eszköz, akik bevallják és könnyedén szerkesztenek, azokat pedig nem, akik kifejezetten megkerülni akarják. Ajánlásuk egyértelmű: a detektor pontszáma soha ne szolgáljon önálló kötelességszegési bizonyítékként ([[karr-ai-detection-humanization-2026]]).
 
+Az áttekintések már egyáltalán nem próbálják rangsorolni az eszközöket. A 2020 és 2026 között publikált 90 tanulmányt feldolgozó szisztematikus áttekintés arról számol be, hogy a téves pozitív arányok olyan szélesen változnak eszközök és értékelési beállítások között, hogy a közvetlen mennyiségi összehasonlítás lehetetlen, és az okok között megnevezi az algoritmikus és nyelvi torzítást, a korlátozott kontextuális megértést, a felszíni nyelvi jegyeket és a nem kellően változatos tanítóadatot ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). Az általa megnevezett orvoslások eljárásiak, nem technikaiak: átlátható detektálási gyakorlat, emberi felülvizsgálat, MI-írástudás, világos intézményi szabályzat és elérhető fellebbezési útvonal.
+
 Egy független [[benchmark|összehasonlító mérés]] más irányból ugyanoda jut. A 14 eszköz egyike sem érte el a 80%-os pontosságot, és az egyszerű átfogalmazás, a kisebb szerkesztés vagy egy humanizáló szolgáltatás nagyjából a felére csökkenti még ezt a teljesítményt is. Reális alaparányok mellett a téves pozitívok száma meghaladja a valódi pozitívokét ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 A teljes generáláson mért elkapási arányok rosszabbak, mint amit a címszámok hibaarányai sugallnak. Egy rejtett terepkutatásban a kutatók teljesen MI-vel generált beadandókat injektáltak egy élő online [[summative-assessment|összegző vizsgarendszerbe]] öt pszichológiai modulon át: 94% észrevétlen maradt, és az MI-munka átlagosan jobb pontszámot ért el, mint a valódi hallgatók. A szerződéses csalás már korábban ugyanezt a szerkezeti problémát mutatta, mert nem hagy maga után megbízható nyomot ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ A teljes generáláson mért elkapási arányok rosszabbak, mint amit a címszá
 A pontosság a feladattal is mozog. Amikor a kutatók azt vizsgálták, hogy a [[generative-ai|generatív MI]] fel tudja-e ismerni a saját kimenetét, az eredmények a programozásnál és a hosszabb reflektív írásnál megbízhatók voltak, a rövid válaszoknál pedig gyengék, ahol a modell gyakran a saját szövegét ítélte emberibbenek, mint a valódi hallgatói munkát. A kisebb prompt-változatok élesen csökkentették a pontosságot ([[llm-detecting-llm-generated-content-education]]). Egy küszöb, amely egy feladatnál tart, egy másiknál megbukik, és Ön nem fogja tudni, melyiknél, egészen a fellebbezésig.
 
 Utána jön a lejárat. Egy 2026-os tanulmány a detektálást adaptációs problémaként értelmezi újra: egy [[ren-test-time-adaptation-ai-text-detection-2026|fekete dobozos átírási támadás]] a Pangram kereskedelmi detektort 63,5%-os kiegyensúlyozott pontosságra és 27,0%-os MI-visszahívásra csökkentette, egy Llama 3.3 70B Instruct modellen tanított detektor pedig csak 55%-os visszahívást ért el egy újabb modell absztraktjain. A teszt idején történő adaptáció ugyanezen a szövegen 94,4%-os kiegyensúlyozott pontosságra és 99%-os visszahívásra állt vissza, ez a bíztató fele. Ugyanaz a tanulmány megmutatja, mibe kerül a javítás: ahogy a szimulált LLM-elterjedés nő, egy rögzített felügyelt detektor visszahívása az emberi szövegen 85,9%-ról 73,4%-ra hanyatlik az évtized során. Lejárati feltételét nyersen kimondja: a kiegyensúlyozott pontosság nem haladhatja meg az egy plusz az emberi és az MI-eloszlás közötti teljes variációs távolság felét, így a kettő konvergenciája minden tanulásalapú detektort legyőzne. Egy validált pontszám addig tart, amíg a modellek mozdulnak, és azok néhány havonta mozdulnak ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Az összehasonlítás azon is múlik, milyen feladatot kap az olvasó. Egy kontrollált elrendezésben, ahol 30, 2022 előtti cikkbevezetést öt hihető feltétel mentén írtak át, a vak emberi értékelők összesen 19%-ot értek el, ami a véletlentől megkülönböztethetetlen, míg három kereskedelmi detektor megkülönböztette ugyanazt az öt feltételt (mindegyiknél p<0,001), ám az abszolút pontszámban csak gyengén értett egyet egymással, ICC 0,57 és 0,95 között ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Az a feladat arra kérte az értékelőket, hogy öt szerkesztési feltétel közé helyezzenek el szöveget, nem pedig hogy igen/nem ítéletet mondjanak egyetlen hallgató esszéjéről, ezért nem cáfolja az alábbi értékelőtanulmányokat, de elveszi minden biztonságérzetet afelől, hogy a teremben lévő ember a megbízható műszer.
 
 És a gép soha nem győzte le egyértelműen a figyelmes olvasót. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall és Parapadakis (2025)]] az MI vagy átírt szöveg gépi detektálását hozzávetőleg 80%-ra teszik az emberi bírálók 78,4%-ával szemben, és olyan bizonyítékot idéznek, hogy az MI-generált szöveg az esetek akár 80%-ában emberi szerzőségűként ment át. Ez a különbség beleolvad abba a hibasávba, amelyet az ember amúgy is hoz, és túl vékony ahhoz, hogy megállapítást alapozzon rá ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

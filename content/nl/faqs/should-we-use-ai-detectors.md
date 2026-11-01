@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-01T11:35:47-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Daaronder zit een probleem met referentiegegevens. Detectoren worden getraind en
 
 De sterkste gecontroleerde test in de kennisbank onderzocht 642 gepubliceerde Engelse abstracts uit vier domeinen en twee periodes. Bij een drempel van 0,50 markeerden twee commerciële detectoren richtlijnconform licht AI-bewerken in 38-80% van de gevallen, markeerden ze ongewijzigde originelen uit 2023-25 in 9-15% van de gevallen (niet-[[stem-education|STEM]] ver boven STEM, p<0,001), en vingen ze, zodra tekst door een humaniseringsdienst was gehaald, minder dan 4% van de als AI-gelabelde herschrijvingen, een fout-negatief percentage boven 96%. De auteurs noemen dit een integriteitscatch-22: de studenten die het melden en licht bewerken, zijn degenen die de tool vangt, en de studenten die erop uit zijn om haar te omzeilen niet. Hun aanbeveling is expliciet: detectiescores mogen nooit als op zichzelf staand bewijs van wangedrag dienen ([[karr-ai-detection-humanization-2026]]).
 
+Reviews proberen de tools niet eens meer te rangschikken. Een systematische review van 90 studies gepubliceerd tussen 2020 en 2026 meldt dat de percentages fout-positieven zo sterk verschillen tussen tools en evaluatieomstandigheden dat een directe kwantitatieve vergelijking onmogelijk is, met als genoemde oorzaken algoritmische en taalkundige bias, beperkt contextbegrip, oppervlakkige taalkenmerken en onvoldoende gevarieerde trainingsdata ([[maghami-ai-detection-false-positives-2026|Maghami, Ho en Camilleri (2026)]]). De remedies die zij noemt zijn procedureel in plaats van technisch: transparante detectiepraktijk, menselijke beoordeling, AI-geletterdheid, helder instellingsbeleid en een toegankelijke bezwaarroute.
+
 Een onafhankelijke [[benchmark]] komt vanaf een andere kant op dezelfde plek uit. Geen van de 14 tools haalde 80% nauwkeurigheid, en simpel parafraseren, licht bewerken of een humaniseringsdienst halveert zelfs die prestatie ruwweg. Bij realistische basispercentages zijn fout-positieven talrijker dan terecht-positieven ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 De vangkans bij volledig gegenereerde tekst is slechter dan de kop boven de foutpercentages suggereert. In een heimelijke veldstudie injecteerden onderzoekers volledig door AI gegenereerde inzendingen in een levend online [[summative-assessment|examensysteem]] over vijf psychologiemodules: 94% bleef onopgemerkt, en het AI-werk scoorde gemiddeld hoger dan de echte studenten. Contractfraude had al hetzelfde structurele probleem laten zien, omdat die geen betrouwbaar spoor achterlaat ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ De vangkans bij volledig gegenereerde tekst is slechter dan de kop boven de fout
 De nauwkeurigheid beweegt ook mee met de taak. Toen onderzoekers testten of [[generative-ai|generatieve AI]] de eigen output kan detecteren, waren de resultaten betrouwbaar voor programmeren en langere reflectieve teksten en slecht voor korte antwoorden, waar het model de eigen tekst vaak menselijker beoordeelde dan authentiek studentenwerk. Kleine variaties in de prompt verlaagden de nauwkeurigheid sterk ([[llm-detecting-llm-generated-content-education]]). Een drempel die voor de ene opdracht standhoudt, faalt bij de andere, en u weet pas welke bij het beroep.
 
 Dan is er de houdbaarheid. Een studie uit 2026 herformuleert detectie als een adaptatieprobleem: een [[ren-test-time-adaptation-ai-text-detection-2026|black-box herschriftaanval]] bracht de commerciële detector Pangram terug tot een gebalanceerde nauwkeurigheid van 63,5% en een AI-recall van 27,0%, en een detector die op Llama 3.3 70B Instruct was getraind, haalde slechts 55% recall op abstracts van een nieuwer model. Test-time-adaptatie herstelde tot 94,4% gebalanceerde nauwkeurigheid en 99% recall op diezelfde tekst, en dat is de bemoedigende helft. Hetzelfde artikel laat zien wat de oplossing kost: naarmate gesimuleerde LLM-adoptie zich verspreidt, vervalt de recall van een vaste gesuperviseerde detector op menselijke tekst van 85,9% naar 73,4% over het decennium. De houdbaarheidsvoorwaarde wordt ronduit gesteld: gebalanceerde nauwkeurigheid kan niet meer dan de helft van één plus de total-variation distance tussen de menselijke en de AI-verdeling bedragen, dus convergentie van de twee zou elke lerende detector verslaan. Een gevalideerde score houdt stand tot de modellen bewegen, en ze bewegen elke paar maanden ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+De vergelijking hangt ook af van de taak die de lezer krijgt. In een gecontroleerd ontwerp waarin 30 introducties van artikelen van vóór 2022 in vijf plausibele condities werden herschreven, scoorden geblindeerde menselijke beoordelaars overall 19%, niet te onderscheiden van kans, terwijl drie commerciële detectors dezelfde vijf condities wel onderscheidden (p < 0.001 voor alle) maar onderling slechts zwak overeenkwamen op de absolute score, ICC 0.57 tot 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Die taak vroeg beoordelaars om tekst onder vijf bewerkingscondities te plaatsen in plaats van een ja-of-nee-oordeel te vellen over het essay van één student, dus zij zet de beoordelaarsstudies hieronder niet op hun kop, maar zij neemt elke geruststelling weg dat een mens in de kamer het betrouwbare instrument is.
 
 En de machine heeft nog nooit duidelijk een aandachtige lezer verslagen. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall en Parapadakis (2025)]] rapporteren machinale detectie van AI- of geparafraseerde tekst op ongeveer 80% tegen 78,4% voor menselijke beoordelaars, en citeren bewijs dat door AI gegenereerde tekst in tot 80% van de gevallen als door mensen geschreven is gepasseerd. Die marge verdwijnt in de foutmarge die de mens al meebrengt, en die is te dun om een bevinding te dragen ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

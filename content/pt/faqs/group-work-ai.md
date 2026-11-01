@@ -1,7 +1,7 @@
 ---
 title: "Como devo lidar com a IA em tarefas em grupo e colaborativas?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,10 +13,14 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -92,6 +96,17 @@ Suas limitações viajam junto com a citação: uma única base de dados, apenas
 A detecção é o instrumento errado para separar contribuições individuais: nenhum destes seis estudos testa detectores em contextos de grupo, e os problemas da detecção no nível individual estão documentados em outro lugar desta base de conhecimento. A contenção precisa ser interpretada antes de ser corrigida. Chen e Zou advertem que um grupo que recusa a IA pode estar evitando algo desconhecido em vez de exercer [[self-regulated-learning|autorregulação]] deliberada, e as duas situações pedem respostas diferentes: uma é um problema de ensino, a outra é uma posição refletida que você pode avaliar.
 
 Colegas simulados também não resolvem a questão. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] ajustou agentes LLM com diálogo real de participantes (adaptadores LoRA/QLoRA em LLaMA 3.2-3B) para modelar 48 participantes ao longo de 3.824 turnos e seis códigos temáticos, e então comparou o discurso real e o simulado com Análise de Rede Epistêmica. A rede simulada alcançou uma distância de 0,17 da rede empírica, abaixo do limiar de 0,30, com valor de p de permutação de 0,65, estatisticamente indistinguível, embora tenha enfatizado ligeiramente demais as ligações de Restrições Técnicas e Design e sub-representado Parâmetros de Dados e Desempenho. É um artigo de arcabouço, com confiança média, e sustenta uma afirmação: agentes específicos de participantes conseguem reproduzir discurso colaborativo realista. Não mostra que estudantes aprendem mais com colegas simulados.
+
+## Forme os grupos pelo que os membros acreditam, não por quem é amigo
+
+Se a IA se torna um ponto de referência compartilhado ou apenas uma consulta depende em parte de quanto seus grupos já concordam. No estudo de [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], quatorze grupos de professores em formação realizaram uma investigação por simulação de 60 minutos com um chatbot metacognitivo sob demanda. Grupos cujos membros tinham [[prior-knowledge|concepções prévias]] diferentes sobre a física encaminhavam o uso da IA por meio de conversa conceitual, com a IA no centro de sua rede de interação; grupos que já concordavam seguiram um caminho linear de pergunta e resposta e sustentaram avaliação negativa do resultado, o que os autores atribuem em parte a prompts proativos que chegavam depois de o consenso já ter se formado. Os dois tipos de grupo faziam os mesmos tipos de perguntas, então o que mudou foi a [[collaborative-learning|apropriação, não o volume]].
+
+Duas medidas decorrem disso, e ambas são baratas:
+
+- Aplique um pré-teste curto sobre o conceito central e misture os padrões de resposta entre os grupos, em vez de deixar os estudantes se auto-selecionarem em grupos confortáveis.
+- Em grupos que convergem rápido, mantenha os [[self-regulated-learning|prompts de regulação compartilhada]] sob demanda em vez de empurrados, porque um empurrão que chega depois do acordo é lido como interrupção.
+
+Trate isso como hipótese, não como regra. São quatorze grupos, uma tarefa de 60 minutos sobre um único tópico, professores em formação em um país, e transcrições traduzidas do finlandês antes da codificação.
 
 ## O que instrutores e administradores erram sobre isso
 

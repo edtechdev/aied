@@ -1,7 +1,7 @@
 ---
 title: "AI가 규모 있게 더 나은 피드백을 제공하는 데 어떻게 도움이 될까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,8 @@ Farrokhnia 등의 품질 이득은 논증 루브릭에 비추어 단계별 평�
 Aldino 등은 일상 실무에서 같은 지원 후 검증 패턴을 발견합니다. 머신러닝 구성 요소는 "학습 목표 충족"이 빠졌다고 가장 자주 표시했고(교사 21명 중 20명이 이를 누락했으며 16명이 표시를 수용), "학생-교사 관계"(14명 누락, 12명 수용)도 표시했습니다. 교사들은 전문적 판단으로 각 제안을 결정했고, 그것이 그들을 루프 안에 두는 요점입니다.
 
 Aldino 등의 교사 21명 중 12명은 추가로 문장 수준 수정을 했고, 지배적 패턴은 어조 보정이었습니다. 칭찬을 낮추고(f = 11), 제안을 제거하고(f = 9), 격려를 제거했습니다(f = 8). 수정은 관계적 차원, 특히 학생-교사 관계(f = 24)에 집중되었습니다. 그들은 진정성과 전문적 목소리를 지키고 있었고, 그 작업은 자동화되지 않습니다.
+
+학생들은 그 검증의 다른 쪽이며, 노동 분업에 대한 그들의 설명은 이 페이지가 권하는 것과 가깝습니다. 학부생 20명을 대상으로 한 포커스 그룹에서 교수자의 피드백은 관계적이고 개인화되었으며 전문성에 기반한다는 점에서 가치 있게 여겨진 반면, AI가 생성한 피드백은 비개인적이고 잠재적으로 불공정하게 읽혔습니다. 같은 학생들은 교수자가 학생의 작업을 읽고 모델의 코멘트를 보완하는 하이브리드 모델에 열려 있었습니다([[fong-chatgpt-feedback-evaluations-2026|Fong 등(2026)]]). 같은 연구는 그들의 판단이 구체성과 실행 가능성에서는 ChatGPT의 판단과 일치했지만 적시성과 긍정성에서는 갈렸다고 밝혔습니다. 따라서 모델 자체의 판단을 신뢰할 수 있는 차원은 전체 루브릭보다 좁습니다.
 
 ## 학생에게 코멘트 읽는 법을 가르치십시오
 

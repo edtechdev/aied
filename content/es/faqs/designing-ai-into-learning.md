@@ -1,13 +1,13 @@
 ---
 title: "¿Cómo se debería diseñar la IA dentro de la experiencia de aprendizaje?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-31T10:40:00-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -71,6 +75,12 @@ La implicación es directa. La misma herramienta es un atajo en un peldaño y un
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec y Horvat]] analizaron la secuencia planificada de 29.064 actividades de enseñanza y aprendizaje en 554 cursos y encontraron una gramática de diseño visible. Las actividades de tipo adquisición son el punto de entrada más común y el tipo único más frecuente, por encima del 20%. El tipo de aprendizaje sigue el nivel de Bloom previsto: la adquisición cae de alrededor del 50% en el nivel 1 a alrededor del 20% en el nivel 6, y la producción supera el 20% en los niveles 5 y 6. La transición más fuerte de los datos es de evaluación a discusión, con 0,332.
 
 Dos lecciones se siguen para el diseño con IA. Coloque la herramienta donde la secuencia prevé un tipo de actividad. Y, dado que la retroalimentación se agrupaba con la [[collaborative-learning|colaboración]], el [[group-work|trabajo en grupo]] y la presencia [[teacher-role|docente]], las estructuras entre pares y sincrónicas son donde el apoyo de la IA debe conectarse, no donde debe sustituir.
+
+## Diseñe el reloj, no solo la secuencia
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] trata el tiempo como un andamiaje diseñado y no como un rasgo del estudiante: un curso a ritmo propio lleva una asignación semanal de unos 100 minutos con un objetivo cercano a los 20 minutos diarios, recordatorios conscientes del tiempo, un panel de progreso y una breve comprobación al final de cada subcapítulo de 3 a 12 preguntas. La línea base a la que responde ese diseño es dura: casi el 25 por ciento de más de 600 estudiantes empieza solo en la última semana y el 95 por ciento de ese grupo suspende.
+
+Léalo como una indicación de diseño y no como un efecto demostrado. El artículo compara un curso posterior con uno anterior en lugar de realizar un ensayo controlado, así que la mejora no puede separarse del cambio de cohorte y de materia, y unos recordatorios lo bastante fuertes para mover el momento de estudio son también una cuestión de [[privacy|privacidad]] que hay que responder en el programa del curso.
 
 ## Decida qué retirar y cuándo restablecerlo
 

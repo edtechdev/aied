@@ -1,12 +1,13 @@
 ---
 title: "AI Inapaswa Kubuniwa Je Katika Uzoefu wa Kujifunza?"
 created: "2026-10-13T10:05:00-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T10:40:00-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -21,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -69,6 +74,12 @@ Maana yake ni ya moja kwa moja. Zana hiyo hiyo ni njia ya kupita katika ngazi mo
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec na Horvat]] walichanganua mfululizo uliopangwa wa shughuli 29,064 za kufundisha na kujifunza katika kozi 554 na wakagundua sarufi ya ubunifu inayoonekana. Shughuli za aina ya upatikanaji ndizo mahali pa kuingia penye kawaida zaidi na aina moja kubwa zaidi, zaidi ya 20%. Aina ya kujifunza hufuata kiwango cha Bloom kinachokusudiwa, huku Upatikanaji ukishuka kutoka takriban 50% katika kiwango cha 1 hadi takriban 20% katika kiwango cha 6 na Uzalishaji ukiongezeka zaidi ya 20% katika viwango vya 5 na 6. Mabadiliko yenye nguvu zaidi katika data ni kutoka Tathmini hadi Majadiliano, kwa 0.332.
 
 Masomo mawili yanafuata kwa ubunifu wa AI. Weka zana mahali ambapo mfululizo unakusudia aina ya shughuli. Na kwa sababu maoni yalijikita pamoja na [[collaborative-learning|ushirikiano]], [[group-work|kazi za kikundi]] na uwepo wa [[teacher-role|mwalimu]], miundo ya wenzao na ya wakati mmoja ndiko msaada wa AI unapaswa kuingizwa, si mahali unapaswa kuchukua nafasi.
+
+## Buni saa, si mfululizo tu
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] anachukulia muda kama kiunzi kilichobuniwa badala ya sifa ya mwanafunzi: kozi inayojipangia mwendo yenyewe huwa na mgao wa kila wiki wa takriban dakika 100 wenye lengo la karibu dakika 20 kwa siku, vikumbusho vinavyojali muda, dashibodi ya maendeleo, na ukaguzi mfupi wa maswali 3 hadi 12 mwishoni wa kila kifungu kidogo. Msingi ambao ubunifu huu unajibu ni mkali: karibu asilimia 25 ya wanafunzi zaidi ya 600 walianza wiki ya mwisho tu, na asilimia 95 ya kundi hilo walifeli.
+
+Lichukulie kama mwongozo wa ubunifu badala ya athari iliyothibitishwa. Karatasi hiyo inalinganisha kozi ya baadaye na ya awali badala ya kufanya jaribio lenye udhibiti, kwa hiyo uboreshaji hauwezi kutenganishwa na mabadiliko ya kundi na somo, na vikumbusho vilivyo na nguvu vya kutosha kuhamisha muda wa kusoma pia ni swali la [[privacy]] unalopaswa kujibu katika mtaala.
 
 ## Amua kile cha kuzuia, na lini cha kurudisha
 

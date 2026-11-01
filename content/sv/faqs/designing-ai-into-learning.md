@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Kunskapsbasens begrepp [[pedagogy|Pedagogik och undervisningsstrategier]] levere
 
 [[finkelstein-principled-ai-education-2025|Ramverket för principfast AI-utbildning]] anger den allmänna regeln: teknik bör förstärka snarare än tränga undan de mänskliga förmågor som utbildningen avser att utveckla. Skriven som ett prov för en modul innebär det att namnge förmågan, namnge den aktivitet som bygger den och fråga om AI ligger inne i den aktiviteten eller bredvid den.
 
+Tillämpa det per uppgift i stället för en gång per verktyg. I fyra lärarvända fall förekom automatisering och förstärkning tillsammans: ersättningen stannade inom avgränsade analytiska deluppgifter, och förstärkningen visade sig i vad läraren gjorde med resultatet. Därför kan samma verktyg automatisera ett steg och förstärka ett annat ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Sätt försöket före hjälpen
 
 Det standardmönster som klarar mötet med en verklig klass: **studenten försöker, AI stöder, studenten utvärderar eller reviderar, studenten visar förståelse.**
@@ -61,6 +67,12 @@ Implikationen är direkt. Samma verktyg är en bypass på ett steg och en [[scaf
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec och Horvat]] analyserade den planerade sekvensen av 29 064 undervisnings- och lärandeaktiviteter i 554 kurser och fann en synlig designgrammatik. Aktiviteter av förvärvstyp är den vanligaste ingången och den största enskilda typen, över 20 %. Lärandetypen följer den avsedda Bloom-nivån, där förvärv sjunker från omkring 50 % på nivå 1 till omkring 20 % på nivå 6 och produktion stiger över 20 % på nivåerna 5 och 6. Den starkaste övergången i data är bedömning till diskussion, på 0,332.
 
 Två lärdomar följer för AI-design. Sätt verktyget där sekvensen avser en aktivitetstyp. Och eftersom återkoppling klustrade med [[collaborative-learning|samarbete]], [[group-work|grupparbete]] och [[teacher-role|lärarens]] närvaro, är kamrat- och synkronstrukturer där AI-stödet bör kopplas in, inte där det bör ersätta.
+
+## Forma klockan, inte bara sekvensen
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandlar tid som ett designat stöd i stället för en egenskap hos studenten: en kurs i egen takt har en veckotilldelning på ungefär 100 minuter med ett mål nära 20 minuter om dagen, tidsmedvetna påminnelser, en framstegspanel och en kort kontroll på 3 till 12 frågor i slutet av varje underkapitel. Den baslinje som designen svarar mot är brutal: nästan 25 procent av över 600 studerande började först under den sista veckan, och 95 procent av den gruppen misslyckades.
+
+Läs det som en designfråga, inte som en bevisad effekt. Artikeln jämför en senare kurs med en tidigare i stället för att göra en kontrollerad studie, så förbättringen kan inte skiljas från bytet av kull och ämne, och påminnelser som är starka nog att flytta studietiden är också en [[privacy]]-fråga som du måste besvara i kursplanen.
 
 ## Bestäm vad som ska hållas tillbaka, och när det ska återställas
 

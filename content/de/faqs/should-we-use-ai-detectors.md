@@ -1,7 +1,7 @@
 ---
 title: "Sollten wir KI-Detektoren nutzen?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,8 @@ Darunter liegt ein Referenzdatenproblem. Detektoren werden auf menschlichem Schr
 
 Der stärkste kontrollierte Test in der Wissensbasis untersuchte 642 veröffentlichte englische Abstracts aus vier Domänen und zwei Zeiträumen. Bei einer Schwelle von 0.50 markierten zwei kommerzielle Detektoren leitlinienkonformes leichtes KI-Editieren zu 38–80%, unveränderte Originale von 2023–25 zu 9–15% (Nicht-[[stem-education|STEM]] weit über STEM, p<0.001), und nachdem ein Text durch einen Humanisierungsdienst gelaufen war, erwischten sie weniger als 4% der als KI-markierten Umschreibungen, eine Falsch-Negativ-Rate über 96%. Die Autorinnen und Autoren nennen das ein Integritäts-Catch-22: Die Studierenden, die offenlegen und leicht editieren, sind die, die das Werkzeug erwischt, und die Studierenden, die auf Umgehung aus sind, nicht. Ihre Empfehlung ist ausdrücklich: Detektorwerte sollten niemals als alleiniger Beleg für Fehlverhalten dienen ([[karr-ai-detection-humanization-2026]]).
 
+Reviews haben aufgehört, die Werkzeuge überhaupt noch zu rangieren. Ein systematisches Review von 90 Studien, die zwischen 2020 und 2026 erschienen sind, berichtet, dass die Falsch-Positiv-Raten zwischen Werkzeugen und Evaluationssettings so stark schwanken, dass ein direkter quantitativer Vergleich unmöglich ist, und nennt algorithmische und sprachliche Verzerrung, begrenztes kontextuelles Verständnis, oberflächliche sprachliche Merkmale und unzureichend vielfältige Trainingsdaten als Ursachen ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). Die Abhilfen, die es nennt, sind verfahrensmäßig statt technisch: transparente Detektionspraxis, menschliche Prüfung, KI-Kompetenz, klare institutionelle Politik und ein zugänglicher Einspruchsweg.
+
 Ein unabhängiger [[benchmark]] kommt aus einer anderen Richtung an denselben Punkt. Keines von 14 Werkzeugen erreichte 80% Genauigkeit, und einfaches Paraphrasieren, geringfügiges Editieren oder ein Humanisierungsdienst halbieren selbst diese Leistung etwa. Bei realistischen Basisraten überwiegen die falsch Positiven die richtig Positiven ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Die Trefferquoten bei vollständiger Generierung sind schlechter, als die Schlagzeilen-Fehlerraten vermuten lassen. In einer verdeckten Feldstudie injizierten Forschende vollständig KI-generierte Einreichungen in ein laufendes Online-[[summative-assessment|Prüfungs]]system in fünf Psychologiemodulen: 94% blieben unentdeckt, und die KI-Arbeit erzielte im Durchschnitt bessere Ergebnisse als die echten Studierenden. Vertragsbetrug hatte dasselbe strukturelle Problem schon gezeigt, denn er hinterlässt keine verlässliche Spur ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -64,6 +70,8 @@ Die Trefferquoten bei vollständiger Generierung sind schlechter, als die Schlag
 Die Genauigkeit verschiebt sich auch mit der Aufgabe. Als Forschende testeten, ob [[generative-ai|generative KI]] ihre eigene Ausgabe erkennen kann, waren die Ergebnisse für Programmierung und längeres reflexives Schreiben verlässlich und für kurze Antworten schlecht, wo das Modell seinen eigenen Text oft als menschenähnlicher einstufte als authentische studentische Arbeiten. Kleine Variationen im Prompt senkten die Genauigkeit stark ([[llm-detecting-llm-generated-content-education]]). Eine Schwelle, die für eine Aufgabe hält, scheitert bei der nächsten, und Sie werden nicht wissen, bei welcher, bis der Widerspruch kommt.
 
 Dann ist da das Verfallsdatum. Eine Studie von 2026 rahmt Detektion als Anpassungsproblem: ein [[ren-test-time-adaptation-ai-text-detection-2026|Black-Box-Rewriting-Angriff]] drückte den kommerziellen Detektor Pangram auf eine balancierte Genauigkeit von 63.5% und einen KI-Recall von 27.0%, und ein Detektor, der auf Llama 3.3 70B Instruct trainiert war, erreichte nur 55% Recall bei Abstracts eines neueren Modells. Testzeit-Anpassung brachte es auf demselben Text auf 94.4% balancierte Genauigkeit und 99% Recall zurück, was die ermutigende Hälfte ist. Dieselbe Arbeit zeigt, was die Reparatur kostet: Während sich die simulierte LLM-Verbreitung ausbreitet, verfällt der Recall eines festen überwachten Detektors auf menschlichem Text über das Jahrzehnt von 85.9% auf 73.4%. Seine Verfallsbedingung ist unverblümt formuliert: Die balancierte Genauigkeit kann die Hälfte von eins plus der Totalvariationsdistanz zwischen menschlicher und KI-Verteilung nicht überschreiten, sodass eine Konvergenz der beiden jeden lernbasierten Detektor besiegen würde. Ein validierter Wert hält, bis sich die Modelle bewegen, und sie bewegen sich alle paar Monate ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Der Vergleich hängt auch von der Aufgabe ab, die der Leser bekommt. In einem kontrollierten Design, in dem 30 Artikel-Einleitungen von vor 2022 in fünf plausible Bedingungen umgeschrieben wurden, erreichten verblindete menschliche Rater insgesamt 19 %, nicht von Zufall zu unterscheiden, während drei kommerzielle Detektoren dieselben fünf Bedingungen trennten (p < 0.001 für alle), sich in der absoluten Bewertung aber nur schwach untereinander einig waren, ICC 0.57 bis 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Diese Aufgabe verlangte von den Ratenden, Text unter fünf Bearbeitungsbedingungen einzuordnen, statt ein Ja-oder-Nein-Urteil über den Aufsatz einer einzelnen Person zu fällen; sie kippt die Prüferstudien weiter unten also nicht, nimmt aber jede Beruhigung darüber, dass der Mensch im Raum das verlässliche Instrument ist.
 
 Und die Maschine hat eine sorgfältige Leserin nie klar geschlagen. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall und Parapadakis (2025)]] berichten maschinelle Detektion von KI- oder paraphrasiertem Text bei etwa 80% gegenüber 78.4% bei menschlichen Prüfenden und zitieren Belege dafür, dass KI-generierter Text in bis zu 80% der Fälle als von Menschen verfasst durchging. Dieser Vorsprung verschwindet im Fehlerband, das der Mensch ohnehin mitbringt, und das ist zu schmal, um einen Befund zu begründen ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Khái niệm [[pedagogy|Sư phạm và các chiến lược dạy học]] trong 
 
 [[finkelstein-principled-ai-education-2025|Khung giáo dục AI có nguyên tắc]] nêu quy tắc chung: công nghệ nên tăng cường thay vì thay thế những năng lực con người mà giáo dục định phát triển. Viết thành phép thử cho một học phần, điều đó có nghĩa là gọi tên năng lực, gọi tên hoạt động xây năng lực ấy, và hỏi xem AI nằm bên trong hoạt động đó hay bên cạnh nó.
 
+Hãy áp dụng theo từng nhiệm vụ thay vì một lần cho mỗi công cụ. Trong bốn trường hợp hướng tới giáo viên, tự động hóa và tăng cường cùng xuất hiện: sự thay thế nằm trong các nhiệm vụ con phân tích có giới hạn, còn tăng cường thể hiện ở việc giáo viên làm gì với kết quả. Đó là lý do cùng một công cụ có thể tự động hóa một bước và tăng cường một bước khác ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers và cộng sự (2026)]]).
+
 ## Đặt nỗ lực trước sự trợ giúp
 
 Mẫu mặc định chịu được tiếp xúc với một lớp học thật: **người học thử, AI hỗ trợ, người học đánh giá hoặc sửa, người học thể hiện sự hiểu biết.**
@@ -61,6 +67,12 @@ Hàm ý rất trực tiếp. Cùng một công cụ là lối vòng ở bậc n�
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec và Horvat]] phân tích chuỗi hoạt động dạy và học theo kế hoạch gồm 29.064 hoạt động trên 554 khóa học và thấy một ngữ pháp thiết kế rõ rệt. Các hoạt động kiểu tiếp nhận là điểm vào phổ biến nhất và là loại đơn lẻ lớn nhất, trên 20%. Loại hình học tập đi theo mức Bloom dự định, với tiếp nhận giảm từ khoảng 50% ở mức 1 xuống khoảng 20% ở mức 6, còn sản xuất tăng lên trên 20% ở mức 5 và 6. Chuyển tiếp mạnh nhất trong dữ liệu là từ đánh giá sang thảo luận, ở 0.332.
 
 Hai bài học rút ra cho thiết kế AI. Đặt công cụ vào chỗ chuỗi dự định có một loại hoạt động. Và vì phản hồi đi kèm với [[collaborative-learning|hợp tác]], [[group-work|làm việc nhóm]] và sự hiện diện của [[teacher-role|giảng viên]], nên các cấu trúc đồng đẳng và đồng bộ là nơi hỗ trợ AI nên cắm vào, chứ không phải nơi nó nên thay thế.
+
+## Thiết kế chiếc đồng hồ, không chỉ trình tự
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] coi thời gian là một giàn giáo được thiết kế chứ không phải một đặc điểm của người học: một khóa học tự điều chỉnh nhịp có định mức khoảng 100 phút mỗi tuần với mục tiêu gần 20 phút mỗi ngày, nhắc nhở biết đến thời gian, bảng điều khiển tiến độ và một bài kiểm tra ngắn 3 đến 12 câu ở cuối mỗi tiểu mục. Đường cơ sở mà thiết kế này trả lời thật khắc nghiệt: gần 25 phần trăm trong hơn 600 người học chỉ bắt đầu vào tuần cuối, và 95 phần trăm nhóm đó trượt.
+
+Hãy đọc đây như một câu hỏi thiết kế hơn là một hiệu ứng đã được chứng minh. Bài báo so sánh một khóa học sau này với một khóa trước đó thay vì tiến hành thử nghiệm có đối chứng, nên không thể tách cải thiện khỏi sự thay đổi về nhóm học viên và môn học, và những lời nhắc đủ mạnh để dịch chuyển thời điểm học cũng là một câu hỏi [[privacy]] mà bạn phải trả lời trong đề cương.
 
 ## Quyết định giữ lại gì, và trả lại khi nào
 

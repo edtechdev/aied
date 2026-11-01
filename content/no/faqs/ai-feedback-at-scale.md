@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Kvalitetsgevinsten hos Farrokhnia mfl. kom fra en tankekjedeprompt som tok model
 Aldino mfl. finner det samme mønsteret i vanlig praksis: hjelp, deretter verifisering. Maskinlæringskomponenten flagget oftest «Oppfyller læringsmålet» som manglende (20 av 21 lærere hadde utelatt det; 16 godtok flagget) og «Student-lærer-relasjon» (14 utelatt; 12 godtok). Lærerne avgjorde hvert forslag ut fra faglig skjønn, som er poenget med å sette dem i loopen.
 
 Tolv av de 21 lærerne hos Aldino mfl. gjorde ytterligere revisjoner på setningsnivå, og det dominerende mønsteret var å kalibrere tone: dempe ros (f = 11), fjerne forslag (f = 9), fjerne oppmuntring (f = 8). Revisjonene klumpet seg i den relasjonelle dimensjonen, særlig Student-lærer-relasjon (f = 24). De beskyttet autentisitet og faglig stemme, og det arbeidet automatiseres ikke.
+
+Studentene er den andre siden av den verifiseringen, og deres framstilling av arbeidsdelingen ligger nær den denne siden anbefaler. I fokusgrupper med 20 bachelorstudenter ble underviserens tilbakemelding verdsatt fordi den var relasjonell, personlig og ekspertdrevet, mens AI-generert tilbakemelding framsto som upersonlig og potensielt urettferdig; de samme studentene var åpne for en hybrid modell der underviseren leser arbeidet deres og supplerer modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong mfl. (2026)]]). Den samme studien fant at vurderingene deres samsvarte med ChatGPTs på spesifisitet og handlingsrettethet, men skilte seg på rettidighet og positivitet, slik at dimensjonene der en modells egen vurdering kan stoles på er snevrere enn hele rubrikken.
 
 ## Lær studentene å lese kommentaren
 

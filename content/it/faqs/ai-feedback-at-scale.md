@@ -1,6 +1,7 @@
 ---
 title: "Come può l'IA aiutarmi a dare un feedback migliore su larga scala?"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -11,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -90,6 +95,8 @@ Il guadagno di qualità di Farrokhnia et al. veniva da un prompt con catena di p
 Aldino et al. trovano lo stesso schema «assisti e poi verifica» nella pratica ordinaria. La componente di machine learning segnalava più spesso come mancante «Raggiunge l'obiettivo di apprendimento» (20 dei 21 insegnanti l'avevano omesso; 16 hanno accettato la segnalazione) e «Relazione studente-insegnante» (14 l'avevano omessa; 12 hanno accettato). Gli insegnanti decidevano ogni suggerimento sul giudizio professionale, che è il senso di metterli nel circuito.
 
 Dodici dei 21 insegnanti di Aldino et al. hanno fatto ulteriori revisioni a livello di frase, e lo schema dominante era la calibrazione del tono: ridurre le lodi (f = 11), togliere suggerimenti (f = 9), togliere incoraggiamenti (f = 8). Le revisioni si concentravano nella dimensione relazionale, soprattutto nella relazione studente-insegnante (f = 24). Stavamo proteggendo autenticità e voce professionale, e quel lavoro non si automatizza.
+
+Gli studenti sono l'altro lato di quella verifica, e la loro idea della divisione del lavoro è vicina a quella che raccomanda questa pagina. In focus group con 20 studenti universitari, il feedback dell'insegnante era apprezzato perché relazionale, personalizzato e guidato dalla competenza, mentre il feedback generato dall'IA risultava impersonale e potenzialmente ingiusto; quegli stessi studenti erano aperti a un modello ibrido in cui l'insegnante legge il loro lavoro e integra i commenti del modello ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Lo stesso studio ha rilevato che i loro giudizi coincidevano con quelli di ChatGPT su specificità e azionabilità, ma divergevano su tempestività e positività, per cui le dimensioni in cui il verdetto del modello può essere creduto sono più strette della rubrica completa.
 
 ## Insegna agli studenti a leggere il commento
 

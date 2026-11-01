@@ -11,12 +11,16 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -88,6 +92,17 @@ Deras begränsningar följer med referensen: en enda databas, endast tidskriftsa
 Detektion är fel instrument för att sortera individuella bidrag: ingen av dessa sex studier testar detektorer i gruppsammanhang, och problemen med detektion på individnivå är dokumenterade på annat håll i den här kunskapsbasen. Återhållsamhet behöver tolkas innan den behöver rättas. Chen och Zou varnar för att en grupp som avstår från AI kan undvika något obekant snarare än utöva avsiktlig [[self-regulated-learning|självreglering]], och de två kallar på olika svar: det ena är ett undervisningsproblem, det andra är en övervägd hållning du kan betygssätta.
 
 Simulerade lagkamrater avgör inte frågan heller. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] finjusterade LLM-agenter på riktig deltagardialog (LoRA/QLoRA-adaptrar på LLaMA 3.2-3B) för att modellera 48 deltagare över 3 824 turer och sex tematiska koder, och jämförde sedan verklig och simulerad diskurs med Epistemic Network Analysis. Det simulerade nätverket nådde ett avstånd på 0,17 från det empiriska nätverket, under tröskeln 0,30, med ett permutations-p-värde på 0,65, statistiskt oskiljbart, även om det något överbetonade länkarna Technical Constraints och Design och underrepresenterade Data och Performance Parameters. Det är en ramverksartikel med medelhög tillförlitlighet, och den stöder ett påstående: deltagarspecifika agenter kan återskapa realistisk samarbetsdiskurs. Den visar inte att studenter lär sig mer av simulerade lagkamrater.
+
+## Bilda grupperna efter vad medlemmarna tror, inte efter vilka som är vänner
+
+Om AI blir en gemensam referenspunkt eller ett uppslag beror delvis på hur eniga dina grupper redan är. I studien av [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] arbetade fjorton grupper med blivande lärare med en 60-minuters simuleringsundersökning med en metakognitiv chattbot på begäran. Grupper vars medlemmar hade olika [[prior-knowledge|föreställningar]] om fysiken ledde AI-användningen genom begreppsligt samtal, med AI:n i centrum av deras interaktionsnätverk; grupper som redan var eniga följde en linjär väg från fråga till svar och höll fast vid en negativ bedömning av resultatet, vilket författarna delvis tillskriver proaktiva prompter som kom efter att konsensus bildats. Båda slagen av grupper ställde samma slags frågor, så det som förändrades var [[collaborative-learning|upptag, inte volym]].
+
+Två åtgärder följer, och båda är billiga:
+
+- Kör ett kort förtest på kärnbegreppet och blanda svarsmönstren mellan grupperna, i stället för att låta studenterna självselektera in i bekväma grupper.
+- I grupper som snabbt konvergerar, håll [[self-regulated-learning|delade regleringsprompter]] tillgängliga på begäran i stället för pådyvlade, eftersom en knuff som kommer efter enighet läses som avbrott.
+
+Behandla det som en hypotes, inte en regel. Det är fjorton grupper, en 60-minuters uppgift om ett enda ämne, blivande lärare i ett land, och transkriptioner översatta från finska före kodning.
 
 ## Vad lärare och administratörer missförstår om detta
 

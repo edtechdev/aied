@@ -11,15 +11,19 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-01T11:36:20-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,17 @@ Keterbatasan mereka menyertai sitasinya: satu basis data, hanya artikel jurnal, 
 Deteksi adalah instrumen yang salah untuk memilah kontribusi individual: tidak satu pun dari enam studi ini menguji detektor dalam situasi kelompok, dan masalah deteksi pada tingkat individu didokumentasikan di tempat lain dalam basis pengetahuan ini. Sikap menahan diri perlu ditafsirkan sebelum perlu dikoreksi. Chen dan Zou memperingatkan bahwa kelompok yang menolak AI mungkin menghindari sesuatu yang tidak akrab alih-alih menjalankan [[self-regulated-learning|regulasi diri]] yang disengaja, dan keduanya menuntut respons yang berbeda: yang satu masalah pengajaran, yang lain posisi yang dipertimbangkan yang dapat Anda nilai.
 
 Rekan tim simulasi juga tidak menyelesaikan pertanyaannya. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] menyetel ulang agen LLM pada dialog partisipan nyata (adaptor LoRA/QLoRA pada LLaMA 3.2-3B) untuk memodelkan 48 partisipan di 3.824 giliran dan enam kode tematik, lalu membandingkan wacana nyata dan wacana simulasi dengan Epistemic Network Analysis. Jaringan simulasi mencapai jarak 0,17 dari jaringan empiris, di bawah ambang 0,30, dengan nilai p permutasi 0,65, secara statistik tidak dapat dibedakan, meski agak terlalu menekankan tautan Kendala Teknis dan Desain serta kurang mewakili Data dan Parameter Kinerja. Ini adalah makalah kerangka dengan keyakinan sedang, dan ia mendukung satu klaim: agen yang spesifik per partisipan dapat mereproduksi wacana kolaboratif yang realistis. Ia tidak menunjukkan bahwa siswa belajar lebih banyak dari rekan tim simulasi.
+
+## Bentuk kelompok berdasarkan apa yang diyakini anggotanya, bukan berdasarkan siapa berteman dengan siapa
+
+Apakah AI menjadi titik rujukan bersama atau sekadar tempat mencari jawaban sebagian bergantung pada seberapa sepakat kelompok Anda sejak awal. Dalam studi [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], empat belas kelompok calon guru mengerjakan inkuiri simulasi 60 menit dengan chatbot metakognitif yang tersedia sesuai permintaan. Kelompok yang anggotanya memiliki [[prior-knowledge|konsepsi awal]] berbeda tentang fisika mengarahkan penggunaan AI melalui percakapan konseptual, dengan AI berada di pusat jaringan interaksi mereka; kelompok yang sudah sepakat menempuh jalur linear tanya-jawab dan mempertahankan penilaian negatif terhadap keluaran, yang sebagian diatribusikan penulis pada prompt proaktif yang baru datang setelah konsensus terbentuk. Kedua jenis kelompok mengajukan jenis pertanyaan yang sama, jadi yang berubah adalah [[collaborative-learning|penyerapan, bukan volumenya]].
+
+Dua langkah menyusul, dan keduanya murah:
+
+- Jalankan pretest singkat tentang konsep inti dan campurkan pola jawaban antarkelompok, alih-alih membiarkan mahasiswa memilih sendiri kelompok yang nyaman.
+- Pada kelompok yang cepat mencapai kesepakatan, sediakan [[self-regulated-learning|prompt regulasi bersama]] sesuai permintaan, bukan didorong, karena dorongan yang datang setelah kesepakatan terbaca sebagai gangguan.
+
+Perlakukan ini sebagai hipotesis, bukan aturan. Itu empat belas kelompok, satu tugas 60 menit tentang satu topik, calon guru di satu negara, dan transkrip yang diterjemahkan dari bahasa Finlandia sebelum pengodean.
 
 ## Apa yang salah dipahami pengajar dan administrator tentang hal ini
 

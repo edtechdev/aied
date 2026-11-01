@@ -1,7 +1,7 @@
 ---
 title: "Wie gehe ich mit KI in Gruppen- und Kollaborationsaufgaben um?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-01T11:36:20-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,17 @@ Ihre Einschränkungen gehören zur Zitation: eine einzige Datenbank, nur Zeitsch
 Detektion ist das falsche Instrument, um individuelle Beiträge zu sortieren: Keine dieser sechs Studien testet Detektoren in Gruppensettings, und die Probleme von Detektion auf der Ebene einzelner Personen sind an anderer Stelle in dieser Wissensbasis dokumentiert. Zurückhaltung muss interpretiert werden, bevor sie korrigiert werden muss. Chen und Zou warnen, dass eine Gruppe, die KI ablehnt, vielleicht etwas Unvertrautem ausweicht, statt bewusste [[self-regulated-learning|Selbstregulation]] auszuüben, und die beiden Fälle verlangen unterschiedliche Antworten: Das eine ist ein Lehrproblem, das andere eine überlegte Position, die Sie bewerten können.
 
 Auch simulierte Teammitglieder entscheiden die Frage nicht. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tunte LLM-Agenten auf echtem Dialog von Teilnehmenden (LoRA/QLoRA-Adapter auf LLaMA 3.2-3B), um 48 Teilnehmende über 3,824 Turns und sechs thematische Codes zu modellieren, und verglich dann realen und simulierten Diskurs mit Epistemic Network Analysis. Das simulierte Netzwerk erreichte einen Abstand von 0.17 zum empirischen Netzwerk, unter dem Schwellenwert von 0.30, mit einem Permutations-p-Wert von 0.65, also statistisch nicht unterscheidbar, obwohl es Technische Einschränkungen und Design-Verbindungen leicht überbetonte und Daten- und Leistungsparameter unterrepräsentierte. Es ist ein Framework-Paper mit mittlerer Konfidenz, und es stützt eine Aussage: teilnehmendenspezifische Agenten können realistischen kollaborativen Diskurs reproduzieren. Es zeigt nicht, dass Studierende von simulierten Teammitgliedern mehr lernen.
+
+## Bilden Sie die Gruppen nach dem, was Mitglieder glauben, nicht danach, wer befreundet ist
+
+Ob KI zu einem gemeinsamen Bezugspunkt oder zu einem Nachschlagewerk wird, hängt zum Teil davon ab, wie einig sich Ihre Gruppen schon sind. In der Studie von [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] bearbeiteten vierzehn Gruppen angehender Lehrkräfte eine 60-minütige Simulationsuntersuchung mit einem Metakognitions-Chatbot auf Abruf. Gruppen, deren Mitglieder unterschiedliche [[prior-knowledge|Vorstellungen]] zur Physik hatten, lenkten die KI-Nutzung über ein konzeptuelles Gespräch, wobei die KI im Zentrum ihres Interaktionsnetzwerks saß; Gruppen, die bereits übereinstimmten, liefen einen linearen Pfad aus Abfrage und Antwort und hielten eine negative Bewertung der Ausgabe aufrecht, was die Autorinnen und Autoren teils darauf zurückführen, dass proaktive Hinweise erst nach der Konsensbildung eintrafen. Beide Arten von Gruppen stellten dieselben Arten von Fragen; verändert hat sich also die [[collaborative-learning|Übernahme, nicht das Volumen]].
+
+Daraus folgen zwei Maßnahmen, und beide sind billig:
+
+- Führen Sie einen kurzen Vortest zum Kernkonzept durch und mischen Sie die Antwortmuster über die Gruppen hinweg, statt die Studierenden sich in bequeme Konstellationen selbst einteilen zu lassen.
+- Halten Sie in Gruppen, die sich schnell einig werden, [[self-regulated-learning|gemeinsame Regulationsimpulse]] auf Abruf bereit, statt sie zu pushen, denn ein Anstoß, der nach der Einigung kommt, wirkt als Unterbrechung.
+
+Behandeln Sie das als Hypothese, nicht als Regel. Das sind vierzehn Gruppen, eine 60-minütige Aufgabe zu einem einzigen Thema, angehende Lehrkräfte in einem Land und Transkripte, die vor der Kodierung aus dem Finnischen übersetzt wurden.
 
 ## Was Lehrende und Verwaltung dabei falsch machen
 

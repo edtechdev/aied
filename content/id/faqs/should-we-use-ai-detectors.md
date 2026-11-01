@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T14:48:09-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Ada masalah data rujukan di bawah semua itu. Detektor dilatih dan diuji pada tul
 
 Uji terkontrol terkuat dalam basis pengetahuan menelaah 642 abstrak berbahasa Inggris yang terbit di empat domain dan dua periode waktu. Pada ambang 0,50, dua detektor komersial menandai penyuntingan AI ringan yang patuh pedoman sebesar 38-80%, menandai naskah asli 2023-25 yang tidak dimodifikasi sebesar 9-15% (non-[[stem-education|STEM]] jauh di atas STEM, p<0,001), dan, setelah teks dilewatkan layanan humanisasi, menangkap kurang dari 4% tulisan ulang berlabel AI, tingkat negatif palsu di atas 96%. Penulisnya menyebut ini dilema integritas, sebuah situasi catch-22: siswa yang mengungkapkan dan menyunting ringan justru yang tertangkap alat itu, sedangkan siswa yang berniat menghindarinya tidak. Rekomendasi mereka tegas, bahwa skor detektor tidak boleh menjadi bukti pelanggaran yang berdiri sendiri ([[karr-ai-detection-humanization-2026]]).
 
+Tinjauan-tinjauan sudah berhenti mencoba memeringkat alat sama sekali. Sebuah tinjauan sistematis atas 90 studi yang terbit antara 2020 dan 2026 melaporkan bahwa laju positif palsu bervariasi begitu lebar antarkalat dan antarpengaturan evaluasi sehingga perbandingan kuantitatif langsung mustahil, dan menyebut bias algoritmik dan bahasa, pemahaman konteks yang terbatas, ciri linguistik permukaan, serta data pelatihan yang kurang beragam sebagai penyebabnya ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). Pemecahan yang disebutnya bersifat prosedural, bukan teknis: praktik deteksi yang transparan, tinjauan manusia, literasi AI, kebijakan institusional yang jelas, dan jalur banding yang mudah diakses.
+
 Sebuah [[benchmark|tolok ukur]] independen sampai ke titik yang sama dari arah berbeda. Tidak satu pun dari 14 alat mencapai akurasi 80%, dan parafrase sederhana, penyuntingan kecil, atau layanan humanisasi kira-kira memangkas separuh bahkan kinerja itu. Pada laju dasar yang realistis, positif palsu lebih banyak daripada positif sejati ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Tingkat tangkap pada generasi utuh lebih buruk daripada yang disarankan angka kesalahan utamanya. Dalam studi lapangan tersembunyi, peneliti menyuntikkan tugas yang sepenuhnya dihasilkan AI ke dalam sistem [[summative-assessment|ujian]] daring yang sedang berjalan di lima modul psikologi: 94% tidak terdeteksi, dan karya AI rata-rata memperoleh skor lebih tinggi daripada siswa sungguhan. Kecurangan kontrak sudah menunjukkan masalah struktural yang sama, karena ia tidak meninggalkan jejak yang dapat diandalkan untuk ditemukan ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Tingkat tangkap pada generasi utuh lebih buruk daripada yang disarankan angka ke
 Akurasi juga bergerak bersama tugasnya. Ketika peneliti menguji apakah [[generative-ai|AI generatif]] dapat mendeteksi keluarannya sendiri, hasilnya dapat diandalkan untuk pemrograman dan tulisan reflektif yang lebih panjang serta buruk untuk jawaban pendek, ketika model sering menilai teksnya sendiri lebih mirip manusia daripada karya siswa asli. Variasi prompt yang kecil memangkas akurasi secara tajam ([[llm-detecting-llm-generated-content-education]]). Ambang yang berlaku untuk satu tugas akan gagal pada tugas lain, dan Anda tidak akan tahu yang mana sampai bandingnya diajukan.
 
 Lalu ada kedaluwarsa. Sebuah studi 2026 membingkai deteksi ulang sebagai masalah adaptasi: sebuah [[ren-test-time-adaptation-ai-text-detection-2026|serangan penulisan ulang kotak hitam]] menurunkan detektor komersial Pangram ke akurasi berimbang 63,5% dan recall AI 27,0%, dan detektor yang dilatih pada Llama 3.3 70B Instruct hanya mencapai recall 55% pada abstrak dari model yang lebih baru. Adaptasi saat pengujian pulih ke akurasi berimbang 94,4% dan recall 99% pada teks yang sama, dan itulah separuh yang menggembirakan. Makalah yang sama menunjukkan berapa biaya perbaikannya: saat adopsi LLM tersimulasi menyebar, recall detektor terawasi tetap pada teks manusia menyusut dari 85,9% menjadi 73,4% sepanjang dekade itu. Syarat kedaluwarsanya dinyatakan terus terang, bahwa akurasi berimbang tidak dapat melampaui setengah dari satu ditambah jarak variasi total antara distribusi manusia dan AI, sehingga konvergensi keduanya akan mengalahkan setiap detektor berbasis pembelajaran. Skor yang tervalidasi bertahan sampai model-model bergerak, dan mereka bergerak setiap beberapa bulan ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Perbandingan juga bergantung pada tugas yang diberikan kepada pembaca. Dalam rancangan terkontrol di mana 30 pendahuluan artikel pra-2022 ditulis ulang dalam lima kondisi yang masuk akal, penilai manusia yang tersamar memperoleh 19% secara keseluruhan, tak terbedakan dari kebetulan, sementara tiga detektor komersial memisahkan kelima kondisi yang sama (p<0,001 untuk semuanya) namun hanya bersepakat lemah satu sama lain soal skor absolut, ICC 0,57 hingga 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Tugas itu meminta penilai menempatkan teks di antara lima kondisi penyuntingan, bukan menjatuhkan vonis ya-atau-tidak atas esai satu siswa, sehingga ia tidak membatalkan studi penilai di bawah ini, tetapi ia menghapus segala kelegaan bahwa manusia di ruangan itu adalah instrumen yang andal.
 
 Dan mesin tidak pernah jelas mengalahkan pembaca yang teliti. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall dan Parapadakis (2025)]] melaporkan deteksi mesin atas teks AI atau parafrase sekitar 80% berbanding 78,4% untuk peninjau manusia, dan mengutip bukti bahwa teks hasil AI lolos sebagai tulisan manusia pada hingga 80% kasus. Selisih itu lenyap ke dalam pita galat yang sudah dibawa manusia, yang terlalu tipis untuk mendasari sebuah temuan ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

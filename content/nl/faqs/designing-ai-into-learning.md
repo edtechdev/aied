@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Het [[pedagogy|Pedagogieën en onderwijsstrategieën]]-concept van de kennisbank
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] formuleert de algemene regel: technologie moet de menselijke vermogens die het onderwijs wil ontwikkelen aanvullen in plaats van verdringen. Als toets voor een module geschreven, betekent dat: benoem de bekwaamheid, benoem de activiteit die haar opbouwt, en vraag of de AI binnen die activiteit zit of ernaast.
 
+Pas het per taak toe in plaats van één keer per tool. In vier cases rond docenten kwamen automatisering en augmentatie samen voor: vervanging bleef binnen afgebakende analytische deeltaken, en augmentatie kwam naar voren in wat de docent met de uitvoer deed. Daarom kan dezelfde tool de ene stap automatiseren en de andere augmenteren ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Zet de poging vóór de hulp
 
 Het standaardpatroon dat een echte klas overleeft: **leerling probeert, AI ondersteunt, leerling evalueert of herziet, leerling laat begrip zien.**
@@ -61,6 +67,12 @@ De implicatie is rechtstreeks. Dezelfde tool is een omzeiling op de ene trede en
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec en Horvat]] analyseerden de geplande volgorde van 29.064 onderwijs- en leeractiviteiten over 554 cursussen en vonden een zichtbare ontwerpgrammatica. Activiteiten van het verwervingstype zijn het meest voorkomende startpunt en het grootste afzonderlijke type, boven 20%. Het leertype volgt het bedoelde Bloom-niveau, waarbij verwerving daalt van ongeveer 50% op niveau 1 naar ongeveer 20% op niveau 6 en productie boven 20% stijgt op niveau 5 en 6. De sterkste overgang in de data is beoordeling naar discussie, met 0,332.
 
 Twee lessen volgen voor AI-ontwerp. Zet de tool waar de volgorde een activiteitstype bedoelt. En omdat feedback clustert bij [[collaborative-learning|samenwerking]], [[group-work|groepswerk]] en de aanwezigheid van de [[teacher-role|docent]], zijn peer- en synchrone structuren de plek waar AI-ondersteuning moet aansluiten, niet waar ze moet vervangen.
+
+## Ontwerp de klok, niet alleen de volgorde
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandelt tijd als een ontworpen steiger in plaats van als een eigenschap van de student: een cursus in eigen tempo heeft een wekelijkse toewijzing van ongeveer 100 minuten met een doel nabij 20 minuten per dag, tijdbewuste herinneringen, een voortgangsdashboard en een korte controle van 3 tot 12 vragen aan het eind van elke subparagraaf. De basislijn waarop dat ontwerp antwoordt, is schril: bijna 25 procent van meer dan 600 lerenden begon pas in de laatste week, en 95 procent van die groep zakte.
+
+Lees het als een ontwerpopdracht, niet als een bewezen effect. Het artikel vergelijkt een latere cursus met een eerdere in plaats van een gecontroleerde proef uit te voeren, dus de verbetering valt niet te scheiden van de verandering van cohort en vak, en herinneringen die sterk genoeg zijn om de studietiming te verschuiven, zijn ook een [[privacy]]-kwestie die u in de syllabus moet beantwoorden.
 
 ## Bepaal wat u onthoudt, en wanneer u het herstelt
 

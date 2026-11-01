@@ -11,15 +11,19 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-01T11:36:20-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -88,6 +92,17 @@ Heidän rajoituksensa kulkevat sitaatin mukana: yksi tietokanta, vain aikakausle
 Havaitseminen on väärä väline yksittäisten panosten erotteluun: mikään näistä kuudesta tutkimuksesta ei testaa ilmaisimia ryhmäasetelmassa, ja yksilötason ongelmat havaitsemisen kanssa on dokumentoitu muualla tässä tietopohjassa. Pidättyväisyys pitää tulkita ennen kuin se pitää korjata. Chen ja Zou varoittavat, että tekoälystä kieltäytyvä ryhmä voi välttää jotain tuntematonta eikä harjoittaa harkittua [[self-regulated-learning|itsesäätelyä]], ja nämä kaksi vaativat eri vastaukset: toinen on opetusongelma, toinen on harkittu kanta, jonka voit arvostella.
 
 Simuloidut tiimikaverit eivät ratkaise kysymystä sen enempää. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] hienosäätöi LLM-agentteja todellisen osallistujadialogin pohjalta (LoRA/QLoRA-sovittimet LLaMA 3.2-3B:ssä) mallintamaan 48 osallistujaa 3 824 vuoron ja kuuden temaattisen koodin yli ja vertasi sitten todellista ja simuloitua diskurssia episteemisellä verkkoanalyysillä. Simuloitu verkko saavutti 0,17:n etäisyyden empiirisestä verkosta, alle 0,30:n kynnyksen, permutaation p-arvolla 0,65, tilastollisesti erottamaton, vaikka se hieman ylikorosti teknisiä rajoitteita ja suunnittelulinkkejä ja aliedusti dataa ja suoritusparametreja. Se on kehysartikkeli keskitasoisella luottamuksella, ja se tukee yhtä väitettä: osallistujakohtaiset agentit voivat toistaa realistista yhteistyödiskurssia. Se ei osoita, että opiskelijat oppivat enemmän simuloiduista tiimikavereista.
+
+## Muodosta ryhmät sen mukaan, mitä jäsenet uskovat, ei sen mukaan, ketkä ovat kavereita
+
+Muuttuuko tekoälystä yhteinen kiintopiste vai pelkkä hakukone, riippuu osittain siitä, kuinka yksimielisiä ryhmäsi jo ovat. [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] tutki neljäätoista opettajaopiskelijoiden ryhmää, jotka tekivät 60 minuutin simulaatiotutkimuksen kysynnän mukaan saatavilla olevan metakognitiivisen chatbotin kanssa. Ryhmät, joiden jäsenillä oli erilaisia [[prior-knowledge|ennakkokäsityksiä]] fysiikasta, ohjasivat tekoälyn käytön käsitteelliseen keskusteluun, ja tekoäly istui heidän vuorovaikutusverkostonsa keskellä; ryhmät, jotka olivat jo yksimielisiä, kulkivat lineaarista kysy–vastaa-polkua ja pitivät yllä kielteistä arviota tuotoksesta, minkä kirjoittajat selittävät osin sillä, että proaktiiviset kehotteet saapuivat vasta konsensuksen muodostuttua. Molemmat ryhmätyypit esittivät samanlaisia kysymyksiä, joten muutos oli [[collaborative-learning|käyttöönotossa, ei määrässä]].
+
+Tästä seuraa kaksi siirtoa, ja molemmat ovat halpoja:
+
+- Tee lyhyt esitesti ydinkäsitteestä ja sekoita vastauskuviot ryhmien kesken sen sijaan, että antaisit opiskelijoiden valita itselleen mukavat ryhmät.
+- Pidä nopeasti yhtenäistyvissä ryhmissä [[self-regulated-learning|yhteissäätelyn kehotteet]] saatavilla pyynnöstä työntämisen sijaan, koska yksimielisyyden jälkeen saapuva työnnös luetaan keskeytykseksi.
+
+Pidä tätä hypoteesina, älä sääntönä. Kyse on neljästätoista ryhmästä, yhdestä 60 minuutin tehtävästä yhdestä aiheesta, yhden maan opettajaopiskelijoista ja suomesta ennen koodausta käännetyistä litteraateista.
 
 ## Mitä opettajat ja hallinto ymmärtävät tässä väärin
 

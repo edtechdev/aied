@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Pod tím vším je problém referenčních dat. Detektory se trénují a testuj�
 
 Nejsilnější kontrolovaný test ve znalostní bázi zkoumal 642 publikovaných anglických abstraktů ve čtyřech doménách a dvou časových obdobích. Při prahu 0,50 dva komerční detektory označily lehké úpravy AI v souladu s pokyny v 38-80 %, neupravené originály z let 2023-25 v 9-15 % (ne-[[stem-education|STEM]] výrazně nad STEM, p < 0,001), a poté, co text prošel službou na zlidštění, zachytily méně než 4 % přepisů označených jako AI, tedy míru falešně negativních výsledků nad 96 %. Autoři to nazývají integritní pastí typu catch-22: nástroj chytá právě ty studenty, kteří používání AI přiznají a text jen lehce upraví, a ty, kteří se mu chtějí vyhnout, nechytá. Jejich doporučení je výslovné: skóre detektorů by nikdy nemělo sloužit jako samostatný důkaz nepoctivosti ([[karr-ai-detection-humanization-2026]]).
 
+Recenze už se o to, jak nástroje seřadit, vůbec nepokoušejí. Systematický přehled 90 studií publikovaných mezi lety 2020 a 2026 uvádí, že míry falešně pozitivních výsledků se mezi nástroji a podmínkami hodnocení liší tak široce, že přímé kvantitativní srovnání je nemožné, a mezi příčinami jmenuje algoritmické a jazykové zkreslení, omezené porozumění kontextu, povrchové jazykové rysy a nedostatečně rozmanitá trénovací data ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). Nápravy, které uvádí, jsou procesní, nikoli technické: transparentní praxe detekce, lidské posouzení, AI gramotnost, jasná institucionální politika a dostupná cesta k odvolání.
+
 Nezávislý [[benchmark|srovnávací test]] dospívá ke stejnému závěru z jiné strany. Žádný ze 14 nástrojů nedosáhl 80 % přesnosti a pouhé parafrázování, drobné úpravy nebo služba na zlidštění textu zhruba polovinu i tohoto výkonu smažou. Při realistických základních četnostech falešně pozitivní výsledky převyšují skutečně pozitivní ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Míra záchytu u celého generovaného textu je horší, než naznačují uváděné míry chyb. Ve skryté terénní studii výzkumníci vložili zcela AI generované práce do živého systému online [[summative-assessment|souhrnného hodnocení]] v pěti psychologických modulech: 94 % zůstalo neodhaleno a práce vytvořené AI v průměru předčily skutečné studenty. Smluvní podvádění už dříve ukázalo stejný strukturální problém, protože nezanechává žádnou spolehlivou stopu ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Míra záchytu u celého generovaného textu je horší, než naznačují uvád�
 Přesnost se také mění podle úkolu. Když výzkumníci testovali, zda [[generative-ai|generativní AI]] dokáže detekovat vlastní výstup, výsledky byly spolehlivé u programování a delšího reflektivního psaní a slabé u krátkých odpovědí, kde model často hodnotil vlastní text jako lidštější než autentickou práci studentů. Drobné změny zadání přesnost prudce snižovaly ([[llm-detecting-llm-generated-content-education]]). Práh, který platí pro jedno zadání, selže u jiného, a který to bude, se dozvíte až u odvolání.
 
 Pak je tu expirace. Studie z roku 2026 přerámovává detekci jako problém adaptace: [[ren-test-time-adaptation-ai-text-detection-2026|útok přepisováním metodou černé skříňky]] srazil komerční detektor Pangram na vyváženou přesnost 63,5 % a recall u AI na 27,0 % a detektor trénovaný na Llama 3.3 70B Instruct dosáhl na abstraktech z novějšího modelu jen 55 % recallu. Adaptace v čase testu se u stejného textu vrátila na 94,4 % vyvážené přesnosti a 99 % recallu, což je ta povzbudivá polovina. Stejná práce ukazuje, co oprava stojí: jak se simulované rozšíření LLM šíří, recall pevně naučeného detektoru na lidském textu klesá v průběhu dekády z 85,9 % na 73,4 %. Podmínka expirace je řečena bez okolků: vyvážená přesnost nemůže přesáhnout polovinu součtu jedné a vzdálenosti totální variace mezi distribucí lidského a AI textu, takže sbližování obou distribucí by porazilo každý učený detektor. Validované skóre platí, dokud se modely neposunou, a ty se posouvají každých několik měsíců ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Srovnání závisí také na úkolu, který čtenář dostane. V kontrolovaném uspořádání, kde bylo 30 úvodů článků z doby před rokem 2022 přepsáno v pěti věrohodných podmínkách, získali zaslepení lidští hodnotitelé celkově 19 %, což je nerozlišitelné od náhody, zatímco tři komerční detektory stejných pět podmínek rozlišily (p < 0,001 u všech), ale v absolutním skóre se mezi sebou shodovaly jen slabě, ICC 0,57 až 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Úkol žádal po hodnotitelích, aby text zařadili mezi pět podmínek úprav, místo aby vynesli soud ano/ne o eseji jednoho studenta, takže nevyvrací studie hodnotitelů níže, ale bere jakoukoli útěchu z toho, že člověk v místnosti je spolehlivý nástroj.
 
 A stroj nikdy zřetelně neporazil pozorného čtenáře. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall a Parapadakis (2025)]] uvádějí strojovou detekci AI nebo parafrázovaného textu zhruba na 80 % proti 78,4 % u lidských posuzovatelů a citují důkazy, že AI generovaný text prošel jako lidský až v 80 % případů. Ten rozdíl se ztrácí v chybovém pásmu, které člověk už tak přináší, a to je příliš málo na to, aby to založilo zjištění ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

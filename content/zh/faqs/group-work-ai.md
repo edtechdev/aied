@@ -1,7 +1,7 @@
 ---
 title: "我应当如何处理小组与合作作业中的人工智能？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,11 +11,15 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_of: faqs/group-work-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -95,6 +99,17 @@ Chen 与 Zou 展示了这件事有多难靠偶然达成。三种[[agency|能动�
 检测不是用来区分个人贡献的合适工具：这六项研究没有一项在小组情境中检验检测器，而检测在个人层面的问题已在本知识库其他地方记录。克制在被纠正之前需要被解读。Chen 与 Zou 提醒，一个拒绝 AI 的小组可能是在回避不熟悉的东西，而不是在行使有意的[[self-regulated-learning|自我调节]]，而这两者需要不同的回应：一个是教学问题，另一个是一个你可以评分的、经过考虑的主张。
 
 模拟队友也解决不了这个问题。[[llm-agents-collaborative-problem-solving-simulation-2026|Fang（2026）]]在真实参与者对话上微调 LLM 智能体（在 LLaMA 3.2-3B 上的 LoRA/QLoRA 适配器），以 3,824 个轮次和六个主题编码为 48 名参与者建模，然后用认知网络分析比较真实与模拟的话语。模拟网络与经验网络的距离为 0.17，低于 0.30 的阈值，置换检验 p 值为 0.65，统计上不可区分，尽管它略微高估了技术约束与设计的连结，低估了数据与性能参数。这是一篇中等信心度的框架论文，它支持一个主张：针对具体参与者的智能体可以复现真实的协作话语。它没有表明学生从模拟队友那里学到更多。
+
+## 按成员相信什么来编组，而不是按谁和谁是朋友
+
+AI 会成为共同的参照点还是仅仅一个查询工具，部分取决于你的小组本来就多一致。在 [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang 等（2026）]]的研究中，十四个职前教师小组借助按需提供的元认知聊天机器人完成了一项 60 分钟的模拟探究。成员对物理持有不同[[prior-knowledge|前概念]]的小组，把 AI 的使用纳入了概念性讨论，AI 位于其互动网络的中心；本来就已达成一致的小组则走一条线性的提问—回答路径，并对输出持续做出负面评价，作者部分将其归因于主动提示在共识形成之后才到达。两类小组提出的问题类型相同，改变的因此是[[collaborative-learning|吸纳程度而非数量]]。
+
+由此有两个做法，且都很便宜：
+
+- 就核心概念做一次简短的预测试，并把回答模式在小组之间混合，而不是让学生自行选择进入舒适的小组。
+- 在快速趋同的小组中，把[[self-regulated-learning|共享调节提示]]保持为按需提供而非主动推送，因为在一致达成之后到达的提示会被读作打断。
+
+把它当作假设而非规则。那是十四个小组、一项关于单一主题的 60 分钟任务、一个国家的职前教师，以及编码前从芬兰语翻译过来的转录文本。
 
 ## 教师和管理者在这件事上会弄错的地方
 

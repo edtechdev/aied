@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-01T11:35:15-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Farrokhnia és mtsai minőségi nyeresége egy gondolatmenet-promptból jött, a
 Aldino és mtsai ugyanezt a segíts, aztán ellenőrizz mintát találják a mindennapi gyakorlatban. A gépi tanulási komponens leggyakrabban a „Megfelel a tanulási célnak” hiányát jelezte (21 tanárból 20 kihagyta; 16 elfogadta a jelzést) és a „Diák-tanár kapcsolat” hiányát (14 kihagyta; 12 elfogadta). A tanárok szakmai ítélettel döntöttek minden javaslatról, ez a lényege annak, hogy bevonjuk őket a folyamatba.
 
 Aldino és mtsai 21 tanára közül tizenketten tettek további mondatszintű módosításokat, és a domináns minta a hangnem kalibrálása volt: a dicséret lefelé szerkesztése (f = 11), javaslatok eltávolítása (f = 9), bátorítás eltávolítása (f = 8). Az átdolgozások a kapcsolati dimenzióban csoportosultak, különösen a diák-tanár kapcsolatban (f = 24). Az eredetiséget és a szakmai hangot védték, és az a munka nem automatizálódik.
+
+A hallgatók a másik oldala ennek az ellenőrzésnek, és a munkamegosztásról adott beszámolójuk közel áll ahhoz, amit ez az oldal javasol. Húsz alapképzéses hallgató fókuszcsoportjaiban az oktató visszajelzését kapcsolati jellege, személyre szabottsága és szakértői megalapozottsága miatt értékelték, míg az AI által generált visszajelzés személytelennek és esetleg igazságtalannak tűnt; ugyanezek a hallgatók nyitottak voltak egy hibrid modellre, amelyben az oktató elolvassa a munkájukat és kiegészíti a modell megjegyzéseit ([[fong-chatgpt-feedback-evaluations-2026|Fong és mtsai (2026)]]). Ugyanez a vizsgálat azt találta, hogy ítéleteik a ChatGPT-ével egyeztek a specifikusságban és a megvalósíthatóságban, de eltértek az időszerűségben és a pozitivitásban, így azok a dimenziók, amelyekben a modell saját ítéletében meg lehet bízni, szűkebbek a teljes rubrikánál.
 
 ## Tanítsa meg a diákokat elolvasni a megjegyzést
 

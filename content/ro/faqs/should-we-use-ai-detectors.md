@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T15:41:27-04:00"
+updated: "2026-11-01T11:35:47-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Sub toate acestea există o problemă de date de referință. Detectorii sunt an
 
 Cel mai puternic test controlat din baza de cunoștințe a examinat 642 de rezumate publicate în engleză, din patru domenii și două perioade de timp. La un prag de 0,50, doi detectori comerciali au semnalat editarea ușoară cu IA, conformă cu ghidurile, în 38-80% din cazuri, au semnalat originalele nemodificate din 2023-2025 în 9-15% din cazuri (non-[[stem-education|STEM]] mult peste STEM, p<0,001) și, după ce textul trecuse printr-un serviciu de „umanizare", au prins mai puțin de 4% din rescrierile etichetate ca IA, o rată de fals negativ de peste 96%. Autorii numesc asta un catch-22 al integrității: studenții care declară și editează ușor sunt cei pe care instrumentul îi prinde, iar cei care pornesc să îl ocolească nu. Recomandarea lor este explicită: scorurile detectorilor să nu servească niciodată drept dovezi de sine stătătoare de abatere ([[karr-ai-detection-humanization-2026]]).
 
+Recenziile au renunțat cu totul să mai încerce ierarhizarea instrumentelor. O recenzie sistematică a 90 de studii publicate între 2020 și 2026 raportează că ratele de fals-pozitive variază atât de mult între instrumente și contexte de evaluare încât comparația cantitativă directă este imposibilă, numărând printre cauze biasul algoritmic și lingvistic, înțelegerea contextuală limitată, trăsăturile lingvistice de suprafață și datele de antrenament insuficient de diverse ([[maghami-ai-detection-false-positives-2026|Maghami, Ho și Camilleri (2026)]]). Remedierile pe care le indică sunt procedurale, nu tehnice: practică de detectare transparentă, revizuire umană, alfabetizare în IA, politică instituțională clară și o cale de contestare accesibilă.
+
 Un [[benchmark|etalon]] independent ajunge în același loc pe altă cale. Niciunul dintre cele 14 instrumente nu a atins 80% acuratețe, iar parafrazarea simplă, editarea minoră sau un serviciu de umanizare cam înjumătățesc și această performanță. La rate de bază realiste, fals pozitivele le depășesc numeric pe cele adevărat pozitive ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Ratele de prindere la generarea integrală sunt mai rele decât sugerează cifrele de eroare din titlu. Într-un studiu de teren sub acoperire, cercetătorii au injectat lucrări generate integral de IA într-un sistem online de [[summative-assessment|evaluare sumativă]] aflat în uz, pe cinci module de psihologie: 94% au trecut nedetectate, iar lucrările IA au obținut în medie scoruri mai mari decât studenții reali. Trișarea prin contract arătase deja aceeași problemă structurală, pentru că nu lasă nicio urmă de încredere de găsit ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Ratele de prindere la generarea integrală sunt mai rele decât sugerează cifre
 Acuratețea se mișcă și cu sarcina. Când cercetătorii au testat dacă [[generative-ai|IA generativă]] își poate detecta propriul rezultat, rezultatele au fost demne de încredere pentru programare și pentru scrierea reflexivă mai lungă și slabe pentru răspunsurile scurte, unde modelul și-a evaluat adesea propriul text ca mai uman decât lucrările autentice ale studenților. Variații minore de prompt au redus brusc acuratețea ([[llm-detecting-llm-generated-content-education]]). Un prag care ține pentru o sarcină va eșua la alta, și nu vei ști care până la contestație.
 
 Apoi este expirarea. Un studiu din 2026 reîncadrează detectarea ca problemă de adaptare: un [[ren-test-time-adaptation-ai-text-detection-2026|atac de rescriere în cutie neagră]] a coborât detectorul comercial Pangram la o acuratețe echilibrată de 63,5% și la un recall de 27,0% pentru IA, iar un detector antrenat pe Llama 3.3 70B Instruct a atins doar 55% recall pe rezumate provenite de la un model mai nou. Adaptarea la momentul testării a recuperat până la 94,4% acuratețe echilibrată și 99% recall pe același text, ceea ce este jumătatea încurajatoare. Aceeași lucrare arată cât costă soluția: pe măsură ce adoptarea simulată a LLM-urilor se răspândește, recall-ul unui detector supervizat fix pe text uman scade de la 85,9% la 73,4% de-a lungul deceniului. Condiția lui de expirare este formulată fără ocolișuri: acuratețea echilibrată nu poate depăși jumătate din unu plus distanța de variație totală dintre distribuția umană și cea a IA, așa că o convergență a celor două ar învinge orice detector bazat pe învățare. Un scor validat ține până când modelele se mișcă, iar ele se mișcă la câteva luni ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Comparația depinde și de sarcina dată cititorului. Într-un design controlat în care 30 de introduceri de articole dinainte de 2022 au fost rescrise în cinci condiții plauzibile, evaluatorii umani în orb au obținut 19% în total, indistinguibil de întâmplare, în timp ce trei detectoare comerciale au separat aceleași cinci condiții (p < 0.001 pentru toate), dar au fost de acord doar slab între ele cu privire la scorul absolut, ICC de la 0.57 la 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Sarcina le cerea evaluatorilor să plaseze textul între cinci condiții de editare, nu să dea un verdict da/nu asupra eseului unui singur student, așa că nu răstoarnă studiile privind evaluatorii citate mai jos, dar înlătură orice consolare că omul din sală este instrumentul de încredere.
 
 Iar mașina nu a bătut niciodată clar un cititor atent. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall și Parapadakis (2025)]] raportează detectarea automată a textului IA sau parafrazat la aproximativ 80%, față de 78,4% pentru evaluatorii umani, și citează dovezi că textul generat de IA a trecut drept scris de om în până la 80% din cazuri. Acea marjă dispare în banda de eroare pe care omul o aduce deja, prea subțire ca să fundamenteze o constatare ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

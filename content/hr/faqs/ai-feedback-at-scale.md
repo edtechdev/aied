@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-01T11:35:15-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Farrokhniin dobitak u kvaliteti došao je od poticaja s lancem misli koji je mod
 Aldino i sur. nalaze isti obrazac pomozi pa provjeri u uobičajenoj praksi. Komponenta strojnog učenja najčešće je označila „Ispunjava cilj učenja“ kao nedostajući (20 od 21 nastavnika ga je izostavilo; 16 je prihvatilo oznaku) i „Odnos studenta i nastavnika“ (14 ga je izostavilo; 12 je prihvatilo). Nastavnici su o svakom prijedlogu odlučivali profesionalnom prosudbom, što je smisao uključivanja njih u proces.
 
 Dvanaest od 21 nastavnika u Aldino i sur. napravilo je dodatne ispravke na razini rečenice, a prevladavajući je obrazac bila kalibracija tona: smanjivanje hvale (f = 11), uklanjanje prijedloga (f = 9), uklanjanje ohrabrenja (f = 8). Ispravci su se grupirali u relacijskoj dimenziji, posebno u odnosu studenta i nastavnika (f = 24). Štitili su autentičnost i profesionalni glas, a taj se rad ne automatizira.
+
+Studenti su druga strana te provjere, a njihov opis podjele rada blizak je onome što ova stranica preporučuje. U fokusnim skupinama s 20 studenata preddiplomskog studija povratna veza nastavnika cijenjena je kao relacijska, personalizirana i vođena stručnošću, dok je povratna veza koju generira AI djelovala neosobno i potencijalno nepravedno; ti isti studenti bili su otvoreni za hibridni model u kojem nastavnik čita njihov rad i dopunjuje komentare modela ([[fong-chatgpt-feedback-evaluations-2026|Fong i sur. (2026)]]). Ista studija pokazala je da su se njihove prosudbe podudarale s ChatGPT-ovima u specifičnosti i primjenjivosti, ali razilazile u pravovremenosti i pozitivnosti, pa su dimenzije u kojima se može vjerovati vlastitoj presudi modela uže od cijele rubrike.
 
 ## Naučite studente čitati komentar
 

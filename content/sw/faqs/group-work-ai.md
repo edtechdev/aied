@@ -12,10 +12,15 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -91,6 +96,17 @@ Vikomo vyao vinaambatana na marejeo: hifadhidata moja, makala za majarida pekee,
 Ugunduzi ni chombo kisichofaa kwa kutenganisha michango ya mtu binafsi: hakuna hata moja ya tafiti hizi sita inayojaribu vigunduzi katika mazingira ya kikundi, na matatizo ya ugunduzi katika ngazi ya mtu binafsi yameandikwa mahali pengine katika hifadhi hii ya maarifa. Kujizuia kunahitaji kufasiriwa kabla ya kurekebishwa. Chen na Zou wanatahadharisha kwamba kikundi kinachokataa AI kinaweza kuwa kinaepuka kitu kisichokizoea badala ya kutumia [[self-regulated-learning|kujidhibiti]] kwa makusudi, na hali hizo mbili zinahitaji majibu tofauti: moja ni tatizo la kufundisha, nyingine ni msimamo uliofikiriwa ambao unaweza kuuwekea alama.
 
 Wenza walioigwa hawatoi jibu la swali hilo pia. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] alirekebisha mawakala wa LLM kwa mazungumzo halisi ya washiriki (adapters za LoRA/QLoRA kwenye LLaMA 3.2-3B) ili kuiga washiriki 48 katika mizunguko 3,824 na misimbo sita ya mada, kisha akalinganisha mazungumzo halisi na yaliyoigwa kwa Uchanganuzi wa Mtandao wa Kimaarifa. Mtandao ulioigwa ulifikia umbali wa 0.17 kutoka kwa mtandao wa kimajaribio, chini ya kizingiti cha 0.30, na p-value ya upangaji wa nasibu ya 0.65, ambao hautofautiani kitakwimu, ingawa ulisisitiza kidogo zaidi Vizuizi vya Kiufundi na viungo vya Ubunifu na ukawakilisha kidogo Data na Vigezo vya Utendaji. Ni karatasi ya mfumo wenye uhakika wa wastani, na inaunga mkono dai moja: mawakala mahususi kwa mshiriki wanaweza kuzalisha mazungumzo ya ushirikiano ya kweli. Haionyeshi kwamba wanafunzi hujifunza zaidi kutoka kwa wenza walioigwa.
+
+## Unda vikundi kwa kile wanachokiamini wanachama, si kwa nani ni rafiki
+
+Ikiwa AI inakuwa kituo cha kumbukumbu cha pamoja au sehemu ya kutafuta tu, kwa kiasi inategemea jinsi vikundi vyako vinavyokwisha kubaliana. Katika utafiti wa [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]], vikundi kumi na vinne vya walimu wanaojiandaa vilifanya uchunguzi wa uigizaji wa dakika 60 kwa chatbot ya utambuzi wa fikra inayopatikana kwa ombi. Vikundi ambavyo wanachama wake walikuwa na [[prior-knowledge|mtazamo wa awali]] tofauti kuhusu fizikia vilielekeza matumizi ya AI kupitia mazungumzo ya dhana, huku AI ikikaa katikati ya mtandao wao wa mwingiliano; vikundi vilivyokwisha kubaliana vilifuata njia nyoofu ya kuuliza-kisha-kujibu na vikaendelea kutathmini matokeo kwa hasi, jambo ambalo waandishi wanahusisha kwa kiasi na vidokezo vinavyotumwa kwa bidii vinavyofika baada ya makubaliano kuundwa. Vikundi vya aina zote mbili viliuliza aina zile zile za maswali, kwa hiyo kilichobadilika ni [[collaborative-learning|upokeaji, si kiasi]].
+
+Hatua mbili zinafuata, na zote ni za bei nafuu:
+
+- Fanya jaribio fupi la awali kuhusu dhana ya msingi na changanya mifumo ya majibu kati ya vikundi, badala ya kuwaacha wanafunzi wachague wenyewe vikundi vya starehe.
+- Katika vikundi vinavyokutana haraka, weka [[self-regulated-learning|vidokezo vya udhibiti wa pamoja]] kwa ombi badala ya kusukuma, kwa sababu kidokezo kinachofika baada ya makubaliano kinasomwa kama usumbufu.
+
+Ichukulie kama dhana, si kanuni. Hivyo ni vikundi kumi na vinne, kazi moja ya dakika 60 kuhusu mada moja, walimu wanaojiandaa katika nchi moja, na maandishi yaliyotafsiriwa kutoka Kifini kabla ya kuweka misimbo.
 
 ## Kile wakufunzi na wasimamizi wanakosea kuhusu hili
 

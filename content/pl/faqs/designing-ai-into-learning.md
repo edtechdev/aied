@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Warto zacząć od celu uczenia się i od aktywności, która ten cel wytwarza. T
 
 [[finkelstein-principled-ai-education-2025|Ramy zasad edukacji z SI]] formułują ogólną regułę: technologia powinna wzmacniać, a nie wypierać ludzkie zdolności, które edukacja zamierza rozwijać. Zapisane jako test dla modułu oznacza to nazwanie zdolności, nazwanie aktywności, która ją buduje, i pytanie, czy SI znajduje się wewnątrz tej aktywności, czy obok niej.
 
+Stosuj to do każdego zadania, a nie raz na narzędzie. W czterech przypadkach dotyczących nauczycieli automatyzacja i augmentacja występowały razem: zastąpienie pozostawało w obrębie ograniczonych analitycznych podzadań, a augmentacja pojawiała się w tym, co nauczyciel robił z wynikiem. Dlatego to samo narzędzie może zautomatyzować jeden krok, a inny wzmocnić ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers i in. (2026)]]).
+
 ## Próba przed pomocą
 
 Domyślny wzorzec, który wytrzymuje kontakt z realnymi zajęciami: **próba uczącego się, wsparcie SI, ocena lub poprawa po stronie uczącego się, demonstracja zrozumienia.**
@@ -61,6 +67,12 @@ Wniosek jest bezpośredni. To samo narzędzie jest obejściem na jednym szczeblu
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec i Horvat]] przeanalizowali zaplanowaną sekwencję 29 064 aktywności nauczania i uczenia się w 554 kursach i znaleźli widoczną gramatykę projektu. Aktywności typu przyswajania są najczęstszym punktem wejścia i największym pojedynczym typem, powyżej 20%. Typ uczenia się podąża za zamierzonym poziomem Blooma: przyswajanie spada z około 50% na poziomie 1 do około 20% na poziomie 6, a wytwarzanie rośnie powyżej 20% na poziomach 5 i 6. Najsilniejszym przejściem w danych jest przejście od oceniania do dyskusji, o wartości 0,332.
 
 Z tego wynikają dwie lekcje dla projektowania SI. Narzędzie trzeba umieścić tam, gdzie sekwencja przewiduje dany typ aktywności. A ponieważ informacja zwrotna skupiała się razem ze [[collaborative-learning|współpracą]], [[group-work|pracą grupową]] i obecnością [[teacher-role|nauczyciela]], struktury rówieśnicze i synchroniczne są miejscem, w które wsparcie SI powinno się włączać, a nie miejscem, które powinno zastępować.
+
+## Zaprojektować zegar, nie tylko sekwencję
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] traktuje czas jako zaprojektowaną podporę, a nie cechę studenta: kurs we własnym tempie ma tygodniowy przydział około 100 minut z celem blisko 20 minut dziennie, przypomnienia świadome czasu, pulpit postępu oraz krótki test na koniec podrozdziału złożony z 3 do 12 pytań. Punkt wyjścia, na który odpowiada ten projekt, jest brutalny: prawie 25 procent z ponad 600 uczących się zaczęło dopiero w ostatnim tygodniu, a 95 procent tej grupy nie zaliczyło.
+
+Czytaj to jako wskazówkę projektową, a nie dowiedziony efekt. Artykuł porównuje późniejszy kurs z wcześniejszym, zamiast przeprowadzać badanie kontrolowane, więc poprawy nie da się oddzielić od zmiany kohorty i przedmiotu; przypomnienia wystarczająco silne, by przesunąć rytm nauki, to także kwestia [[privacy]], na którą trzeba odpowiedzieć w sylabusie.
 
 ## Zdecydować, co wstrzymać i kiedy to przywrócić
 

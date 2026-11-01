@@ -1,13 +1,13 @@
 ---
 title: "AI は学習体験にどう設計されるべきか？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,8 @@ ai_assist:
 
 [[finkelstein-principled-ai-education-2025|原則に基づくAI教育の枠組み]]は一般的な規則を述べています。技術は、教育が育てようとする人間の能力を置き換えるのではなく拡張すべきである。モジュールのためのテストとして書くなら、能力を名指しし、それを育む活動を名指しし、AIがその活動の内側に位置するのか傍らに位置するのかを問うことになります。
 
+これをツールごとに一度ではなく、課題ごとに適用してください。教員を対象とした四つの事例では、自動化と拡張が同時に現れました。置き換えは範囲の定まった分析的副課題の内側にとどまり、拡張は教員が出力で何をしたかに現れました。だからこそ、同じツールが一方の段階を自動化し、もう一方を拡張しうるのです（[[horvers-hybrid-intelligence-automation-augmentation-2026|Horversら (2026)]]）。
+
 ## 援助より先に試行を置く
 
 実際の授業に接しても生き残る既定のパターンはこうです。**学習者が試み、AIが支え、学習者が評価または修正し、学習者が理解を示す。**
@@ -64,6 +70,12 @@ ai_assist:
 [[learning-paths-patterns-learning-design-2026|Divjak、Svetec、Horvat]]は、554の授業にわたる29,064の教授・学習活動の計画された配列を分析し、目に見える設計の文法を見つけました。獲得型の活動が最も一般的な入口であり、最大の単一類型で、20%を超えます。学習の類型は意図されたブルームの水準に対応し、獲得は水準1の約50%から水準6の約20%へ下がり、産出は水準5と6で20%を超えて上がります。データの中で最も強い遷移は、評価から議論への0.332です。
 
 AIの設計には二つの教訓が続きます。ツールは、配列が活動の類型を意図している場所に置くこと。そしてフィードバックが[[collaborative-learning|協働]]、[[group-work|グループワーク]]、[[teacher-role|教員]]の存在とまとまって現れた以上、AIの支援が差し込まれるべきは仲間との構造と同期の構造であり、そこを代替すべきではありません。
+
+## 配列だけでなく、時計を設計する
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]]は、時間を学生の特性ではなく、設計された足場として扱います。自己ペースのコースには、週あたり約100分の割り当てと1日約20分という目標、時間を意識したリマインダー、進捗のダッシュボード、そして3〜12問の短い小節末チェックが備わっています。この設計が応えるベースラインは厳しいもので、600人を超える学習者のほぼ25%が最終週にしか始めておらず、その集団の95%が失敗しています。
+
+これは実証された効果としてではなく、設計のための問いかけとして読んでください。この論文は統制された試行を行わず、後のコースを以前のコースと比較しているため、改善をコホートと科目の変化から切り離すことはできません。また、学習のタイミングを動かすほど強いリマインダーは、シラバスの中で答えるべき[[privacy]]の問いでもあります。
 
 ## 何を保留し、いつ戻すかを決める
 

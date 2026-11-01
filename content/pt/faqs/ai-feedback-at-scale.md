@@ -1,7 +1,7 @@
 ---
 title: "Como a IA pode me ajudar a dar um feedback melhor em escala?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,8 @@ O ganho de qualidade de Farrokhnia et al. veio de um prompt de cadeia de pensame
 Aldino et al. encontram o mesmo padrão de auxiliar-depois-verificar na prática comum. O componente de aprendizado de máquina sinalizava com mais frequência "Atende ao Objetivo de Aprendizagem" como ausente (20 dos 21 professores o haviam omitido; 16 aceitaram a sinalização) e "Relação Estudante-Professor" (14 omitiram; 12 aceitaram). Os professores decidiam cada sugestão por julgamento profissional, o que é justamente o ponto de colocá-los no circuito.
 
 Doze dos 21 professores de Aldino et al. fizeram mais revisões no nível da frase, e o padrão dominante era calibrar o tom: editar elogios para baixo (f = 11), remover sugestões (f = 9), remover encorajamento (f = 8). As revisões se concentraram na dimensão relacional, especialmente na Relação Estudante-Professor (f = 24). Eles estavam protegendo autenticidade e voz profissional, e esse trabalho não se automatiza.
+
+Os estudantes são o outro lado dessa verificação, e a descrição que fazem da divisão do trabalho é próxima da que esta página recomenda. Em grupos focais com 20 estudantes de graduação, o feedback do professor era valorizado por ser relacional, personalizado e conduzido por especialistas, enquanto o feedback gerado por IA soava impessoal e potencialmente injusto; esses mesmos estudantes estavam abertos a um modelo híbrido em que o professor lê o trabalho deles e complementa os comentários do modelo ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). O mesmo estudo constatou que seus julgamentos coincidiam com os do ChatGPT em especificidade e acionabilidade, mas divergiam em tempestividade e positividade, de modo que as dimensões em que o veredicto do próprio modelo pode ser confiado são mais estreitas que a rubrica completa.
 
 ## Ensine os estudantes a ler o comentário
 

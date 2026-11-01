@@ -11,12 +11,16 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -88,6 +92,17 @@ Hun beperkingen reizen mee met de verwijzing: één databank, alleen tijdschrift
 Detectie is het verkeerde instrument om individuele bijdragen te sorteren: geen van deze zes studies test detectoren in groepssituaties, en de problemen met detectie op individueel niveau zijn elders in deze kennisbank gedocumenteerd. Terughoudendheid moet worden geïnterpreteerd voordat ze moet worden gecorrigeerd. Chen en Zou waarschuwen dat een groep die AI afwijst iets onbekends kan vermijden in plaats van bewuste [[self-regulated-learning|zelfregulatie]] uit te oefenen, en de twee vragen om verschillende reacties: het ene is een onderwijsprobleem, het andere een weloverwogen standpunt dat u kunt beoordelen.
 
 Gesimuleerde teamgenoten beslechten de vraag ook niet. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tunede LLM-agenten op echte dialoog van deelnemers (LoRA/QLoRA-adapters op LLaMA 3.2-3B) om 48 deelnemers te modelleren over 3.824 beurten en zes thematische codes, en vergeleek daarna echt en gesimuleerd discours met Epistemic Network Analysis. Het gesimuleerde netwerk bereikte een afstand van 0,17 tot het empirische netwerk, onder de drempel van 0,30, met een permutatie-p-waarde van 0,65, statistisch niet te onderscheiden, hoewel het Technical Constraints- en Design-verbanden iets overbenadrukte en Data- en Performance Parameters ondervertegenwoordigde. Het is een kadergericht artikel met gemiddelde zekerheid, en het ondersteunt één bewering: deelnemerspecifieke agenten kunnen realistisch collaboratief discours reproduceren. Het laat niet zien dat studenten meer leren van gesimuleerde teamgenoten.
+
+## Vorm de groepen op basis van wat leden geloven, niet op basis van wie bevriend is
+
+Of AI een gedeeld referentiepunt wordt of een opzoeking, hangt deels af van hoeveel uw groepen het al met elkaar eens zijn. In het onderzoek van [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] werkten veertien groepen aanstaande leraren een simulatieonderzoek van 60 minuten uit met een metacognitieve chatbot op aanvraag. Groepen waarvan de leden verschillende [[prior-knowledge|vooropvattingen]] over de natuurkunde hadden, leidden het AI-gebruik via conceptueel gesprek, met de AI in het centrum van hun interactienetwerk; groepen die het al eens waren, volgden een lineair pad van vraag naar antwoord en bleven de output negatief evalueren, wat de auteurs deels toeschrijven aan proactieve prompts die aankwamen nadat de consensus al was gevormd. Beide soorten groepen stelden dezelfde soorten vragen, dus wat veranderde was [[collaborative-learning|opname in plaats van volume]].
+
+Twee stappen volgen hieruit, en beide zijn goedkoop:
+
+- Neem een korte voortoets af over het kernconcept en meng de antwoordpatronen over de groepen, in plaats van studenten zelf te laten kiezen voor comfortabele groepen.
+- Houd in groepen die snel convergeren [[self-regulated-learning|gedeelde regulatieprompts]] op aanvraag in plaats van opgedrongen, want een zetje dat na overeenstemming aankomt, leest als onderbreking.
+
+Behandel het als een hypothese, niet als een regel. Dat zijn veertien groepen, één taak van 60 minuten over één onderwerp, aanstaande leraren in één land, en transcripten die vanuit het Fins zijn vertaald voordat ze werden gecodeerd.
 
 ## Wat docenten en bestuurders hier verkeerd doen
 

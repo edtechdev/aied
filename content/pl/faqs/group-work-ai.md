@@ -11,12 +11,16 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -88,6 +92,17 @@ Ich ograniczenia idą razem z tym cytowaniem: jedna baza, tylko artykuły z czas
 Wykrywanie to niewłaściwe narzędzie do rozdzielania indywidualnych wkładów: żadne z tych sześciu badań nie testuje detektorów w warunkach grupowych, a problemy z wykrywaniem na poziomie jednostki są udokumentowane w innych miejscach tej bazy wiedzy. Powściągliwość wymaga interpretacji, zanim wymaga korekty. Chen i Zou ostrzegają, że grupa odmawiająca SI może unikać czegoś nieznanego, a nie świadomie korzystać z [[self-regulated-learning|samoregulacji]], a te dwie rzeczy wymagają różnych reakcji: jedna jest problemem dydaktycznym, druga to przemyślane stanowisko, które można ocenić.
 
 Symulowani koledzy z zespołu też nie rozstrzygają pytania. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] dostroił agentów LLM na prawdziwych dialogach uczestników (adaptery LoRA/QLoRA na LLaMA 3.2-3B), żeby modelować 48 uczestników w 3 824 turach i sześciu kodach tematycznych, a następnie porównał dyskurs prawdziwy i symulowany za pomocą epistemicznej analizy sieciowej. Symulowana sieć osiągnęła odległość 0,17 od sieci empirycznej, poniżej progu 0,30, przy wartości p w teście permutacyjnym 0,65, czyli statystycznie nieodróżnialna, choć nieco przeceniała powiązania z ograniczeniami technicznymi i projektowaniem, a niedoszacowywała parametrów danych i wydajności. To praca ramowa o średniej pewności i wspiera jedno twierdzenie: agenci dostosowani do uczestnika potrafią odtworzyć realistyczny dyskurs współpracy. Nie pokazuje, że studenci uczą się więcej od symulowanych kolegów.
+
+## Dobierać grupy według tego, w co wierzą członkowie, a nie według tego, kto się przyjaźni
+
+To, czy SI stanie się wspólnym punktem odniesienia, czy tylko wyszukiwarką, zależy częściowo od tego, jak bardzo twoje grupy są już zgodne. W badaniu [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang i in. (2026)]] czternaście grup przyszłych nauczycieli przeprowadziło 60-minutowe dociekanie symulacyjne z chatbotem metapoznawczym dostępnym na żądanie. Grupy, których członkowie mieli odmienne [[prior-knowledge|wyobrażenia wstępne]] o fizyce, kierowały użycie SI przez rozmowę pojęciową, a SI znajdowała się w centrum ich sieci interakcji; grupy, które już się zgadzały, podążały liniową ścieżką od pytania do odpowiedzi i utrzymywały negatywną ocenę wyniku, co autorzy częściowo przypisują proaktywnym podpowiedziom przychodzącym po uformowaniu konsensusu. Oba rodzaje grup zadawały te same rodzaje pytań, więc zmieniło się [[collaborative-learning|podjęcie, a nie wolumen]].
+
+Wynikają z tego dwa posunięcia i oba są tanie:
+
+- Przeprowadź krótki pretest z kluczowego pojęcia i wymieszaj wzorce odpowiedzi między grupami, zamiast pozwalać studentom samodzielnie wybierać wygodne grupy.
+- W grupach, które szybko się zbiegają, trzymaj [[self-regulated-learning|wspólne podpowiedzi regulacyjne]] na żądanie, a nie wciskane, bo szturchnięcie, które przychodzi po zgodzie, czyta się jako przerwa.
+
+Traktuj to jako hipotezę, nie regułę. To czternaście grup, jedno 60-minutowe zadanie na jeden temat, przyszli nauczyciele w jednym kraju i transkrypcje przetłumaczone z fińskiego przed kodowaniem.
 
 ## Co nauczyciele akademiccy i administracja rozumieją tu błędnie
 

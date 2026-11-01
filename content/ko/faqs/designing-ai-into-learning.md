@@ -1,13 +1,13 @@
 ---
 title: "AI를 학습 경험에 어떻게 설계해야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T10:37:54-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,8 @@ ai_assist:
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]]은 일반 원칙을 진술합니다. 기술은 교육이 발전시키려는 인간 역량을 대체하는 것이 아니라 증강해야 합니다. 이를 모듈에 대한 시험으로 쓰면, 역량을 지목하고, 그것을 쌓는 활동을 지목하고, AI가 그 활동 안에 앉는지 옆에 앉는지 묻는 것입니다.
 
+이것을 도구마다 한 번이 아니라 과제마다 적용하십시오. 교사를 대상으로 한 네 사례에서 자동화와 증강은 함께 나타났습니다. 대체는 경계가 정해진 분석적 하위 과제 안에 머물렀고, 증강은 교사가 결과물로 무엇을 했는가에서 드러났습니다. 같은 도구가 한 단계를 자동화하고 다른 단계를 증강할 수 있는 이유입니다 ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## 도움보다 시도를 앞에 두십시오
 
 실제 수업과 맞닿아도 살아남는 기본 패턴은 이것입니다. **학습자가 시도하고, AI가 지원하고, 학습자가 평가하거나 수정하고, 학습자가 이해를 보여 줍니다.**
@@ -64,6 +70,12 @@ ai_assist:
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec, Horvat]]는 554개 강좌에 걸친 29,064개의 계획된 교수·학습 활동 순서를 분석하여 눈에 보이는 설계 문법을 발견했습니다. 습득(Acquisition) 유형 활동이 가장 흔한 진입점이자 가장 큰 단일 유형으로, 20%를 넘습니다. 학습 유형은 의도된 Bloom 수준을 따라가며, 습득은 수준 1의 약 50%에서 수준 6의 약 20%로 떨어지고, 산출(Production)은 수준 5와 6에서 20%를 넘어 상승합니다. 데이터에서 가장 강한 전이는 평가(Assessment)에서 토론(Discussion)으로의 전이로, 0.332입니다.
 
 AI 설계에 두 가지 교훈이 따라옵니다. 순서가 어떤 활동 유형을 의도하는 자리에 도구를 두십시오. 그리고 피드백이 [[collaborative-learning|협업]], [[group-work|집단 작업]], [[teacher-role|교사]]의 존재와 함께 군집했으므로, 또래 구조와 동기적 구조가 AI 지원이 끼어들 자리이고 대체할 자리가 아닙니다.
+
+## 순서만이 아니라 시계를 설계하십시오
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]]는 시간을 학생의 특성이 아니라 설계된 비계로 다룹니다. 자기 주도 과정에는 주당 약 100분의 배정과 하루 20분 안팎의 목표, 시간을 인식하는 알림, 진도 대시보드, 그리고 3~12문항의 짧은 소단원 말 점검이 갖추어져 있습니다. 이 설계가 응답하는 기준선은 참혹합니다. 600명이 넘는 학습자 중 거의 25퍼센트가 마지막 주에야 시작했고, 그 집단의 95퍼센트가 실패했습니다.
+
+이것은 입증된 효과가 아니라 설계를 위한 물음으로 읽으십시오. 이 논문은 통제된 실험을 하지 않고 뒤의 과정을 앞의 과정과 비교하므로, 개선을 집단과 과목의 변화에서 분리할 수 없습니다. 또한 학습 시점을 움직일 만큼 강한 알림은 교수요목 안에서 답해야 할 [[privacy]] 문제이기도 합니다.
 
 ## 무엇을 보류하고 언제 복원할지 정하십시오
 

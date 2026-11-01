@@ -1,12 +1,12 @@
 ---
 title: "应当如何把人工智能设计进学习体验之中？"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -49,6 +53,8 @@ ai_assist:
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]]陈述了一般规则：技术应当增强而不是取代教育意图培养的人的能力。写成对一个模块的检验，这意味着点名那项能力、点名建立它的活动，并追问 AI 是坐在这项活动之内，还是坐在它旁边。
 
+按任务而非按工具各用一次。在四个面向教师的案例中，自动化与增强同时出现：替代停留在有边界的分析性子任务之内，而增强体现在教师对输出的处理上。正因如此，同一个工具可以自动化一个步骤，同时增强另一个步骤（[[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers 等 (2026)]]）。
+
 ## 把尝试放在帮助之前
 
 经过真实课堂检验的默认模式是：**学习者尝试，AI 支持，学习者评估或修改，学习者展示理解。**
@@ -68,6 +74,12 @@ ai_assist:
 [[learning-paths-patterns-learning-design-2026|Divjak、Svetec 与 Horvat]]分析了 554 门课程中 29,064 项教与学活动的规划序列，发现了一种可见的设计语法。获取类活动是最常见的入口，也是最大的单一类型，超过 20%。学习类型跟随预期的 Bloom 层次：获取从第 1 层的大约 50% 降到第 6 层的大约 20%，而产出在第 5、6 层升到 20% 以上。数据中最强的转移是从评估到讨论，为 0.332。
 
 由此得到两条对 AI 设计的启示。把工具放在序列打算安排某类活动的位置。而且，由于反馈与[[collaborative-learning|协作]]、[[group-work|小组工作]]和[[teacher-role|教师]]在场聚在一起，同伴结构与同步结构才是 AI 支持应当接入的地方，而不是它应当替代的地方。
+
+## 设计时钟，而不只是序列
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] 把时间当作一种被设计的脚手架，而不是学生的特质：一门自定进度的课程每周约有 100 分钟的配额，目标接近每天 20 分钟，配有感知时间的提醒、进度看板和每个小节末 3 到 12 题的简短检查。这一设计所回应的基线很严峻：600 多名学习者中近 25% 直到最后一周才开始，而这个群体中有 95% 未能通过。
+
+请把它读作一个设计问题，而不是一个已被证明的效果。该论文比较的是较晚的课程与较早的课程，并未进行对照试验，因此无法把改善与队列和科目的变化分开；而强到足以改变学习时点的提醒，也是一个你必须在教学大纲中回答的[[privacy]]问题。
 
 ## 决定扣住什么，以及何时恢复
 

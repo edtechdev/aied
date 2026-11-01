@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Vidensbasens koncept om [[pedagogy|pædagogik og undervisningsstrategier]] lever
 
 [[finkelstein-principled-ai-education-2025|rammen for principiel AI-uddannelse]] formulerer den generelle regel: teknologi bør forstærke og ikke fortrænge de menneskelige kapaciteter, som uddannelse har til hensigt at udvikle. Skrevet som en test for et modul betyder det at navngive kapaciteten, navngive den aktivitet der opbygger den, og spørge, om AI'en sidder inde i den aktivitet eller ved siden af den.
 
+Anvend det pr. opgave og ikke én gang pr. værktøj. I fire lærervendte cases optrådte automatisering og forstærkning sammen: erstatningen blev inde i afgrænsede analytiske delopgaver, og forstærkningen viste sig i det, læreren gjorde med outputtet, og derfor kan det samme værktøj automatisere ét trin og forstærke et andet ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Sæt forsøget før hjælpen
 
 Det standardmønster, der overlever mødet med en rigtig klasse: **den lærende forsøger, AI understøtter, den lærende vurderer eller reviderer, den lærende demonstrerer forståelse.**
@@ -61,6 +67,12 @@ Implikationen er direkte. Det samme værktøj er en omgåelse på ét trin og en
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec og Horvat]] analyserede det planlagte forløb af 29.064 undervisnings- og læringsaktiviteter på tværs af 554 kurser og fandt en synlig designgrammatik. Tilegnelsesaktiviteter er det mest almindelige indgangspunkt og den største enkelttype, over 20 %. Læringstypen følger det tilsigtede Bloom-niveau, idet tilegnelse falder fra omkring 50 % på niveau 1 til omkring 20 % på niveau 6, mens produktion stiger til over 20 % på niveau 5 og 6. Den stærkeste overgang i dataene er vurdering til diskussion, på 0,332.
 
 To lektioner følger for AI-design. Sæt værktøjet der, hvor forløbet har tænkt sig en aktivitetstype. Og fordi feedback klumpede sammen med [[collaborative-learning|samarbejde]], [[group-work|gruppearbejde]] og [[teacher-role|lærer]]tilstedeværelse, er peer-strukturer og synkrone strukturer der, hvor AI-støtte bør kobles på, og ikke der, hvor den bør erstatte.
+
+## Design uret, ikke kun forløbet
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandler tid som en designet støttestruktur frem for en egenskab ved den lærende: et selvstyret forløb har en ugentlig tildeling på omkring 100 minutter med et mål på nær 20 minutter om dagen, tidsbevidste påmindelser, et fremskridtsdashboard og en kort kontrol i slutningen af hvert underafsnit på 3 til 12 spørgsmål. Det udgangspunkt, designet svarer på, er barsk: næsten 25 procent af over 600 lærende starter først i den sidste uge, og 95 procent af den gruppe fejler.
+
+Læs det som et designprompt og ikke som en bevist effekt. Artiklen sammenligner et senere forløb med et tidligere i stedet for at køre et kontrolleret forsøg, så forbedringen kan ikke skilles fra skiftet i kohorte og fag, og påmindelser, der er stærke nok til at flytte studietidspunktet, er også et [[privacy|privatliv]]sspørgsmål, du skal besvare i studieordningen.
 
 ## Beslut, hvad der skal tilbageholdes, og hvornår det skal genindføres
 

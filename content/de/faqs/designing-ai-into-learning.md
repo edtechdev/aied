@@ -1,14 +1,14 @@
 ---
 title: "Wie sollte KI in die Lernerfahrung designed werden?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T07:57:30-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 audience: [instructional designers, instructors]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -46,6 +50,8 @@ Das Konzept [[pedagogy|Pädagogik und Lehrstrategien]] der Wissensbasis liefert 
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] formuliert die allgemeine Regel: Technologie sollte die menschlichen Fähigkeiten erweitern, die Bildung entwickeln will, statt sie zu verdrängen. Als Test für ein Modul formuliert heißt das: die Fähigkeit benennen, die Aktivität benennen, die sie aufbaut, und fragen, ob die KI innerhalb dieser Aktivität sitzt oder daneben.
 
+Wenden Sie es pro Aufgabe an, nicht einmal pro Werkzeug. In vier lehrkraftbezogenen Fällen traten Automatisierung und Augmentation gemeinsam auf: Die Ersetzung blieb innerhalb begrenzter analytischer Teilaufgaben, und die Augmentation zeigte sich in dem, was die Lehrkraft mit der Ausgabe tat, weshalb dasselbe Werkzeug einen Schritt automatisieren und einen anderen augmentieren kann ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Setzen Sie den Versuch vor die Hilfe
 
 Das Standardmuster, das den Kontakt mit einer echten Klasse übersteht: **Lernende versuchen, KI unterstützt, Lernende bewerten oder überarbeiten, Lernende zeigen Verständnis.**
@@ -65,6 +71,12 @@ Die Implikation ist direkt. Dasselbe Werkzeug ist auf einer Sprosse eine Umgehun
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec und Horvat]] analysierten die geplante Sequenz von 29.064 Lehr- und Lernaktivitäten über 554 Kurse und fanden eine sichtbare Designgrammatik. Aktivitäten des Typs Aneignung sind der häufigste Einstiegspunkt und der größte Einzeltyp, über 20%. Der Lerntyp folgt dem beabsichtigten Bloom-Niveau, wobei Aneignung von etwa 50% auf Niveau 1 auf etwa 20% auf Niveau 6 fällt und Produktion auf den Niveaus 5 und 6 über 20% steigt. Der stärkste Übergang in den Daten ist Prüfung zu Diskussion, bei 0.332.
 
 Zwei Lehren folgen daraus für das KI-Design. Setzen Sie das Werkzeug dorthin, wo die Sequenz einen Aktivitätstyp vorsieht. Und weil Feedback sich mit [[collaborative-learning|Kollaboration]], [[group-work|Gruppenarbeit]] und der Präsenz der [[teacher-role|Lehrperson]] clusterte, sind Peer- und synchrone Strukturen die Orte, an denen KI-Unterstützung andocken sollte, nicht die, die sie ersetzen sollte.
+
+## Gestalten Sie die Uhr, nicht nur die Sequenz
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandelt Zeit als gestaltetes Gerüst und nicht als Eigenschaft der lernenden Person: Ein Kurs im eigenen Tempo hat ein wöchentliches Zeitbudget von etwa 100 Minuten bei einem Ziel von nahezu 20 Minuten pro Tag, zeitbewusste Erinnerungen, ein Fortschrittsdashboard und eine kurze Prüfung am Ende jedes Unterkapitels mit 3 bis 12 Fragen. Die Ausgangslage, auf die dieses Design antwortet, ist deutlich: Fast 25 Prozent von über 600 Lernenden beginnen erst in der letzten Woche, und 95 Prozent dieser Gruppe scheitern.
+
+Lesen Sie das als Designhinweis, nicht als belegten Effekt. Die Arbeit vergleicht einen späteren Kurs mit einem früheren, statt eine kontrollierte Studie durchzuführen, sodass sich die Verbesserung nicht vom Wechsel von Kohorte und Fach trennen lässt, und Erinnerungen, die stark genug sind, den Lernzeitpunkt zu verschieben, sind zugleich eine [[privacy|Datenschutz]]frage, die Sie im Syllabus beantworten müssen.
 
 ## Entscheiden Sie, was Sie zurückhalten, und wann Sie es wieder freigeben
 

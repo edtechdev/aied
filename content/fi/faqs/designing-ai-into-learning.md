@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Tietopohjan käsite [[pedagogy|Pedagogiset mallit ja opetusstrategiat]] tarjoaa 
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] esittää yleisen säännön: teknologian pitäisi vahvistaa eikä syrjäyttää niitä inhimillisiä kyvykkyyksiä, joita koulutus aikoo kehittää. Moduulin testiksi kirjoitettuna se tarkoittaa kyvykkyyden nimeämistä, sen rakentavan toiminnan nimeämistä ja sen kysymistä, istuuko tekoäly toiminnan sisällä vai sen vieressä.
 
+Sovella sitä tehtäväkohtaisesti, ei kerran työkalua kohti. Neljässä opettajiin kohdistuvassa tapauksessa automaatio ja vahvistaminen esiintyivät yhdessä: korvaaminen pysyi rajatuissa analyyttisissa osatehtävissä ja vahvistaminen näkyi siinä, mitä opettaja teki tulosteella, minkä vuoksi sama työkalu voi automatisoida yhden vaiheen ja vahvistaa toisen ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Laita yritys ennen apua
 
 Oletuskuvio, joka kestää kosketuksen todellisen luokan kanssa: **oppija yrittää, tekoäly tukee, oppija arvioi tai korjaa, oppija osoittaa ymmärrystä.**
@@ -61,6 +67,12 @@ Seuraus on suora. Sama työkalu on ohitus yhdellä askelmalla ja [[scaffolding|t
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec ja Horvat]] analysoivat 29 064 opetus- ja oppimistoiminnan suunnitellun järjestyksen 554 kurssilla ja löysivät näkyvän suunnittelukieliopin. Omaksumistyyppiset toiminnot ovat yleisin aloituspiste ja suurin yksittäinen tyyppi, yli 20 %. Oppimistyyppi seuraa aiottua Bloomin tasoa: omaksuminen laskee noin 50 %:sta tasolla 1 noin 20 %:iin tasolla 6 ja tuottaminen nousee yli 20 %:iin tasoilla 5 ja 6. Datan vahvin siirtymä on arvioinnista keskusteluun, arvolla 0,332.
 
 Tästä seuraa kaksi oppituntia tekoälysuunnitteluun. Sijoita työkalu sinne, missä järjestys tarkoittaa tiettyä toimintotyyppiä. Ja koska palaute ryhmittyi [[collaborative-learning|yhteistyön]], [[group-work|ryhmätyön]] ja [[teacher-role|opettajan]] läsnäolon kanssa, vertais- ja synkroniset rakenteet ovat niitä, joihin tekoälytuen pitäisi kytkeytyä, ei niitä, joita sen pitäisi korvata.
+
+## Suunnittele kello, älä vain järjestystä
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] pitää aikaa suunniteltuna tukena eikä oppijan ominaisuutena: omaan tahtiin etenevässä kurssissa on viikoittainen kiintiö, noin 100 minuuttia, tavoitteena lähes 20 minuuttia päivässä, aikatietoiset muistutukset, edistymisen kojelauta ja lyhyt alaosan lopun tarkistus, jossa on 3–12 kysymystä. Lähtötilanne, johon tämä suunnittelu vastaa, on karu: lähes 25 prosenttia yli 600 oppijasta aloittaa vasta viimeisellä viikolla ja 95 prosenttia tästä ryhmästä epäonnistuu.
+
+Lue se suunnitteluvihjeeksi, ei todistetuksi vaikutukseksi. Tutkielma vertaa myöhäisempää kurssia aiempaan sen sijaan, että tekisi kontrolloidun kokeen, joten parannusta ei voi erottaa kohortin ja oppiaineen vaihtumisesta, ja muistutukset, jotka ovat tarpeeksi vahvoja siirtämään opiskeluajankohtaa, ovat myös [[privacy|yksityisyys]]kysymys, johon sinun on vastattava opetussuunnitelmassa.
 
 ## Päätä, mitä pidätät, ja milloin palautat sen
 

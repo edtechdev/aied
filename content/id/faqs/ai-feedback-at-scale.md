@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-01T11:35:15-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Perolehan kualitas Farrokhnia et al. berasal dari prompt rantai-pemikiran yang m
 Aldino et al. menemukan pola bantu-lalu-verifikasi yang sama dalam praktik biasa. Komponen pembelajaran mesin paling sering menandai "Meeting Learning Objective" sebagai hilang (20 dari 21 guru telah melewatkannya; 16 menerima tanda itu) dan "Student-Teacher Relationship" (14 melewatkannya; 12 menerima). Guru memutuskan setiap saran berdasarkan pertimbangan profesional, dan itulah inti dari menempatkan mereka dalam lingkar proses.
 
 Dua belas dari 21 guru Aldino et al. membuat revisi tingkat kalimat lebih lanjut, dan pola dominannya adalah mengalibrasi nada: menurunkan pujian (f = 11), menghapus saran (f = 9), menghapus dorongan (f = 8). Revisi terpusat pada dimensi relasional, terutama Student-Teacher Relationship (f = 24). Mereka melindungi keaslian dan suara profesional, dan pekerjaan itu tidak dapat diotomasi.
+
+Siswa adalah sisi lain dari verifikasi itu, dan gambaran mereka tentang pembagian kerja mendekati yang disarankan halaman ini. Dalam kelompok fokus 20 mahasiswa sarjana, umpan balik guru dihargai karena bersifat relasional, personal, dan digerakkan oleh keahlian, sedangkan umpan balik yang dihasilkan AI terasa impersonal dan berpotensi tidak adil; mahasiswa yang sama terbuka pada model hibrid di mana guru membaca karya mereka dan melengkapi komentar model ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Studi yang sama menemukan bahwa penilaian mereka sejalan dengan penilaian ChatGPT pada kekhususan dan keterlaksanaan tetapi berbeda pada ketepatan waktu dan positivitas, sehingga dimensi tempat putusan model itu sendiri dapat dipercaya lebih sempit daripada rubrik secara keseluruhan.
 
 ## Ajari siswa membaca komentarnya
 

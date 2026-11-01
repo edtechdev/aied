@@ -1,12 +1,13 @@
 ---
 title: "YZ Öğrenme Deneyiminin İçine Nasıl Tasarınmalıdır?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T10:40:00-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -21,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -71,6 +76,12 @@ Pratikte bu, herhangi bir yardım görünmeden önce ilk tahmini ya da çözüm�
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec ve Horvat]], 554 kurstaki 29.064 öğretim ve öğrenme etkinliğinin planlanmış dizisini analiz etti ve görünür bir tasarım dilbilgisi buldu. Edinme türü etkinlikler en yaygın giriş noktası ve %20'nin üzeriyle en büyük tek türdür. Öğrenme türü amaçlanan Bloom düzeyini izler: Edinme 1. düzeyde yaklaşık %50'den 6. düzeyde yaklaşık %20'ye düşerken Üretim 5. ve 6. düzeylerde %20'nin üzerine çıkar. Verilerdeki en güçlü geçiş Değerlendirme'den Tartışma'ya geçiştir: 0,332.
 
 YZ tasarımı için bundan iki ders çıkar. Aracı, dizinin bir etkinlik türü öngördüğü yere koyun. Ve geri bildirim [[collaborative-learning|işbirlikçi çalışma]], [[group-work|grup çalışması]] ve [[teacher-role|öğretmen]] varlığıyla kümelendiği için, akran ve eşzamanlı yapılar, YZ desteğinin yerine geçmesi gereken değil, bağlanması gereken yerlerdir.
+
+## Yalnızca diziyi değil, saati de tasarlayın
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] zamanı öğrencinin bir özelliği değil, tasarlanmış bir iskele olarak ele alır: kendi hızında ilerleyen bir ders, haftada yaklaşık 100 dakikalık bir kota, günde 20 dakikaya yakın bir hedef, zamanı gözeten hatırlatmalar, bir ilerleme panosu ve her alt bölümün sonunda 3 ila 12 soruluk kısa bir kontrol içerir. Bu tasarımın yanıt verdiği başlangıç çizgisi çarpıcı: 600'den fazla öğrenenin neredeyse yüzde 25'i yalnızca son hafta başladı ve bu grubun yüzde 95'i başarısız oldu.
+
+Bunu kanıtlanmış bir etki değil, bir tasarım sorusu olarak okuyun. Makale kontrollü bir deney yürütmek yerine sonraki bir dersi öncekiyle karşılaştırıyor; bu yüzden iyileşme, kohort ve ders değişiminden ayrılamaz. Ayrıca çalışma zamanlamasını kaydıracak kadar güçlü hatırlatmalar, izlence içinde yanıtlamanız gereken bir [[privacy]] sorunudur da.
 
 ## Neyi esirgeyeceğinize ve ne zaman geri vereceğinize karar verin
 

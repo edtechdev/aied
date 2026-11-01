@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Konsep [[pedagogy|Pedagogi dan Strategi Pengajaran]] di basis pengetahuan menyed
 
 [[finkelstein-principled-ai-education-2025|Kerangka Pendidikan AI Berprinsip]] menyatakan aturan umumnya: teknologi seharusnya memperbesar, bukan menggantikan, kapabilitas manusia yang ingin dikembangkan oleh pendidikan. Jika ditulis sebagai uji untuk sebuah modul, itu berarti menamai kapabilitasnya, menamai aktivitas yang membangunnya, dan menanyakan apakah AI berada di dalam aktivitas itu atau di sampingnya.
 
+Terapkan per tugas, bukan sekali per alat. Dalam empat kasus yang berorientasi pada guru, otomatisasi dan augmentasi muncul bersamaan: penggantian tetap berada di dalam subtugas analitis yang terbatas, dan augmentasi tampak pada apa yang dilakukan guru dengan keluarannya, itulah sebabnya alat yang sama dapat mengotomatiskan satu langkah dan mengaugmentasi langkah lain ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Letakkan upaya sebelum bantuan
 
 Pola bawaan yang bertahan saat berhadapan dengan kelas nyata: **pembelajar mencoba, AI mendukung, pembelajar mengevaluasi atau merevisi, pembelajar menunjukkan pemahaman.**
@@ -61,6 +67,12 @@ Implikasinya langsung. Alat yang sama adalah jalan pintas pada satu anak tangga 
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec, dan Horvat]] menganalisis urutan terencana 29.064 aktivitas pengajaran dan pembelajaran di 554 mata kuliah dan menemukan tata bahasa desain yang terlihat. Aktivitas bertipe akuisisi adalah titik masuk yang paling umum dan jenis tunggal terbesar, di atas 20%. Tipe belajar mengikuti tingkat Bloom yang dimaksudkan, dengan Akuisisi turun dari sekitar 50% pada tingkat 1 menjadi sekitar 20% pada tingkat 6 dan Produksi naik di atas 20% pada tingkat 5 dan 6. Transisi terkuat dalam data adalah Penilaian ke Diskusi, pada 0,332.
 
 Dua pelajaran mengikutinya untuk desain AI. Tempatkan alat di titik yang dimaksudkan urutan sebagai jenis aktivitas. Dan karena umpan balik mengelompok bersama [[collaborative-learning|kolaborasi]], [[group-work|kerja kelompok]], dan kehadiran [[teacher-role|guru]], struktur sebaya dan sinkron adalah tempat dukungan AI seharusnya dipasang, bukan tempat ia seharusnya menggantikan.
+
+## Rancang jamnya, bukan hanya urutannya
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] memperlakukan waktu sebagai perancah yang dirancang, bukan sifat pembelajar: kursus dengan kecepatan sendiri membawa jatah mingguan sekitar 100 menit dengan target mendekati 20 menit sehari, pengingat yang sadar waktu, dasbor kemajuan, dan pemeriksaan singkat di akhir subbab berisi 3 sampai 12 pertanyaan. Garis dasar yang dijawab rancangan ini keras: hampir 25 persen dari lebih dari 600 pembelajar baru mulai pada minggu terakhir dan 95 persen dari kelompok itu gagal.
+
+Bacalah sebagai petunjuk desain, bukan efek yang terbukti. Makalah ini membandingkan kursus yang lebih baru dengan kursus sebelumnya alih-alih menjalankan uji terkontrol, sehingga perbaikannya tidak dapat dipisahkan dari perubahan kohort dan mata kuliah, dan pengingat yang cukup kuat untuk menggeser waktu belajar juga merupakan pertanyaan [[privacy|privasi]] yang harus Anda jawab di silabus.
 
 ## Tentukan apa yang ditahan, dan kapan mengembalikannya
 

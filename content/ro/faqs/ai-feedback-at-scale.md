@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Câștigul de calitate al lui Farrokhnia et al. a venit dintr-un prompt cu lanț
 Aldino et al. găsesc același tipar de asistare și apoi verificare în practica obișnuită. Componenta de învățare automată semnala cel mai des „Îndeplinește obiectivul de învățare” ca lipsind (20 din 21 de profesori îl omiseseră; 16 au acceptat semnalarea) și „Relația student-profesor” (14 îl omiseseră; 12 au acceptat). Profesorii au decis fiecare sugestie pe baza judecății profesionale, ceea ce este rostul punerii lor în buclă.
 
 Doisprezece dintre cei 21 de profesori ai lui Aldino et al. au făcut revizuiri suplimentare la nivel de propoziție, iar tiparul dominant a fost calibrarea tonului: reducerea laudei (f = 11), eliminarea sugestiilor (f = 9), eliminarea încurajărilor (f = 8). Revizuirile s-au grupat pe dimensiunea relațională, în special Relația student-profesor (f = 24). Protejau autenticitatea și vocea profesională, iar acea muncă nu se automatizează.
+
+Studenții sunt cealaltă parte a acelei verificări, iar felul în care descriu împărțirea muncii este aproape de cel pe care îl recomandă această pagină. În focus-grupuri cu 20 de studenți de licență, feedbackul instructorului era valorizat pentru că era relațional, personalizat și condus de expertiză, în timp ce feedbackul generat de IA era perceput ca impersonal și potențial nedrept; aceiași studenți erau deschiși la un model hibrid în care instructorul le citește lucrarea și completează comentariile modelului ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Același studiu a constatat că judecățile lor se aliniau cu ale ChatGPT la specificitate și acționabilitate, dar divergeau la promptitudine și pozitivitate, așa că dimensiunile în care verdictul propriu al unui model poate fi de încredere sunt mai înguste decât grila completă.
 
 ## Învață studenții să citească comentariul
 

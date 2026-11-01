@@ -12,10 +12,15 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-01T07:10:00-05:00"
+updated: "2026-11-01T11:35:49-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
@@ -91,6 +96,17 @@ Sınırlılıkları atıfla birlikte geliyor: tek bir veri tabanı, yalnızca de
 Tespit, bireysel katkıları ayırmak için yanlış araçtır: bu altı çalışmanın hiçbiri dedektörleri grup ortamlarında sınamıyor ve tespitle ilgili birey düzeyindeki sorunlar bu bilgi tabanının başka yerlerinde belgelenmiş durumda. Ölçülülük, düzeltilmeden önce yorumlanmayı gerektirir. Chen ve Zou, YZ'yi geri çeviren bir grubun bilinçli [[self-regulated-learning|öz düzenleme]] uygulamak yerine tanımadığı bir şeyden kaçınıyor olabileceği uyarısını yapar; ikisi farklı yanıtlar gerektirir: biri öğretme sorunu, diğeri notlandırabileceğiniz düşünülmüş bir tutumdur.
 
 Simüle edilmiş ekip arkadaşları da soruyu çözmez. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]], gerçek katılımcı diyaloğu üzerinde LLM ajanlarını ince ayarlayarak (LLaMA 3.2-3B üzerinde LoRA/QLoRA bağdaştırıcıları) 48 katılımcıyı 3.824 tur ve altı tematik kod boyunca modelledi, sonra gerçek ve simüle edilmiş söylemi Epistemik Ağ Analizi ile karşılaştırdı. Simüle ağ, ampirik ağa 0,17 uzaklığa ulaştı; bu 0,30 eşiğinin altında ve permütasyon p değeri 0,65 ile istatistiksel olarak ayırt edilemezdi, ancak Teknik Kısıtlar ve Tasarım bağlantılarını biraz fazla vurguladı, Veri ve Performans Parametrelerini ise yeterince temsil etmedi. Orta güven düzeyinde bir çerçeve makalesi ve tek bir iddiayı destekliyor: katılımcıya özgü ajanlar gerçekçi işbirlikçi söylemi yeniden üretebilir. Öğrencilerin simüle edilmiş ekip arkadaşlarından daha fazla öğrendiğini göstermiyor.
+
+## Grupları üyelerin neye inandığına göre kurun, kimin arkadaş olduğuna göre değil
+
+YZ'nin ortak bir referans noktası mı yoksa bir başvuru kaynağı mı olacağı, kısmen gruplarınızın şimdiden ne kadar hemfikir olduğuna bağlıdır. [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang vd. (2026)]] çalışmasında on dört öğretmen adayı grubu, talep üzerine çalışan bilişüstü bir sohbet botuyla 60 dakikalık bir simülasyon sorgulaması yürüttü. Üyeleri fizik konusunda farklı [[prior-knowledge|ön kabullere]] sahip olan gruplar YZ kullanımını kavramsal konuşma üzerinden yönlendirdi ve YZ etkileşim ağlarının merkezinde yer aldı; zaten hemfikir olan gruplar doğrusal bir soru-sonra-yanıt yolunu izledi ve çıktıya yönelik olumsuz değerlendirmeyi sürdürdü; yazarlar bunu kısmen, uzlaşma oluştuktan sonra gelen proaktif istemlere bağlıyor. İki tür grup da aynı türden sorular sordu, yani değişen şey [[collaborative-learning|hacim değil, içselleştirme]] oldu.
+
+Bundan iki adım çıkar ve ikisi de ucuzdur:
+
+- Temel kavram üzerine kısa bir ön test uygulayın ve yanıt örüntülerini gruplar arasında karıştırın; öğrencilerin kendilerini rahat gruplara seçmesine izin vermeyin.
+- Hızla yakınsayan gruplarda [[self-regulated-learning|paylaşılan düzenleme istemlerini]] itmek yerine talep üzerine tutun, çünkü uzlaşmadan sonra gelen bir dürtme kesinti olarak okunur.
+
+Bunu bir kural değil, bir hipotez olarak ele alın. Bu on dört grup, tek bir konuda 60 dakikalık tek bir görev, tek bir ülkedeki öğretmen adayları ve kodlamadan önce Fince'den çevrilmiş dökümlerdir.
 
 ## Öğretim elemanları ve yöneticilerin bu konuda yanlış anladığı şeyler
 

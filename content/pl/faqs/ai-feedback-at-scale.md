@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T15:22:01-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Przyrost jakości u Farrokhnii i wsp. pochodził z promptu z łańcuchem myśli,
 Aldino i wsp. znajdują ten sam wzorzec „najpierw pomoc, potem weryfikacja” w zwykłej praktyce. Komponent uczenia maszynowego najczęściej wskazywał brak „osiągnięcia celu uczenia się” (20 z 21 nauczycieli je pominęło; 16 przyjęło wskazanie) oraz „relacji student-nauczyciel” (14 pominęło; 12 przyjęło). Nauczyciele decydowali o każdej sugestii według osądu zawodowego i to jest sens trzymania ich w pętli.
 
 Dwunastu z 21 nauczycieli Aldino i wsp. dokonało dalszych poprawek na poziomie zdań, a dominującym wzorcem była kalibracja tonu: zmniejszanie pochwał (f = 11), usuwanie sugestii (f = 9), usuwanie zachęt (f = 8). Poprawki skupiały się w wymiarze relacyjnym, zwłaszcza w relacji student-nauczyciel (f = 24). Chronili autentyczność i zawodowy głos, a ta praca się nie automatyzuje.
+
+Studenci są drugą stroną tej weryfikacji, a ich ujęcie podziału pracy jest bliskie temu, co zaleca ta strona. W grupach fokusowych z 20 studentami studiów licencjackich informacja zwrotna nauczyciela była ceniona za to, że jest relacyjna, zindywidualizowana i oparta na ekspertyzie, podczas gdy informacja zwrotna generowana przez SI była odbierana jako bezosobowa i potencjalnie niesprawiedliwa; ci sami studenci byli otwarci na model hybrydowy, w którym nauczyciel czyta ich pracę i uzupełnia komentarze modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong i wsp. (2026)]]). To samo badanie wykazało, że ich oceny zgadzały się z ocenami ChatGPT w zakresie konkretności i wykonalności, ale rozchodziły się w zakresie terminowości i pozytywności, więc wymiary, w których własnemu osądowi modelu można ufać, są węższe niż cała rubryka.
 
 ## Nauczenie studentów czytania komentarza
 

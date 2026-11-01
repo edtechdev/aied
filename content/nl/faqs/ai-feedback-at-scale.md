@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ De kwaliteitswinst bij Farrokhnia et al. kwam van een chain-of-thought-prompt di
 Aldino et al. vinden hetzelfde patroon van ondersteunen en dan verifiëren in de gewone praktijk. De machine learning-component markeerde het vaakst „Voldoet aan het leerdoel” als ontbrekend (20 van de 21 docenten hadden het weggelaten; 16 accepteerden de markering) en „Relatie tussen student en docent” (14 hadden het weggelaten; 12 accepteerden). Docenten beslisten over elke suggestie op basis van professioneel oordeel, en dat is het punt van hen in de lus zetten.
 
 Twaalf van de 21 docenten bij Aldino et al. maakten verdere herzieningen op zinsniveau, en het dominante patroon was het kalibreren van toon: lof afzwakken (f = 11), suggesties verwijderen (f = 9), aanmoediging verwijderen (f = 8). Herzieningen clusterden in de relationele dimensie, vooral de relatie tussen student en docent (f = 24). Ze beschermden authenticiteit en professionele stem, en dat werk laat zich niet automatiseren.
+
+Studenten zijn de andere kant van die verificatie, en hun beeld van de taakverdeling ligt dicht bij wat deze pagina aanbeveelt. In focusgroepen met 20 bachelorstudenten werd docentfeedback gewaardeerd omdat die relationeel, gepersonaliseerd en door expertise gedreven was, terwijl door AI gegenereerde feedback onpersoonlijk en mogelijk oneerlijk overkwam; diezelfde studenten stonden open voor een hybride model waarin de docent hun werk leest en het commentaar van het model aanvult ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Dezelfde studie vond dat hun oordelen overeenkwamen met die van ChatGPT op specificiteit en uitvoerbaarheid, maar afweken op tijdigheid en positiviteit, zodat de dimensies waarin het eigen oordeel van een model te vertrouwen is smaller zijn dan de volledige rubric.
 
 ## Leer studenten de opmerking te lezen
 

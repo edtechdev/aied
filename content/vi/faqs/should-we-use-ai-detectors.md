@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-01T11:35:47-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Bên dưới tất cả những điều đó là một vấn đề dữ liệu t
 
 Thử nghiệm có kiểm soát mạnh nhất trong cơ sở tri thức đã xem xét 642 bản tóm tắt tiếng Anh đã công bố thuộc bốn lĩnh vực và hai giai đoạn thời gian. Ở ngưỡng 0.50, hai công cụ phát hiện thương mại gắn cờ cho việc biên tập nhẹ bằng AI vẫn tuân thủ hướng dẫn ở mức 38-80%, gắn cờ cho các bản gốc 2023-25 chưa chỉnh sửa ở mức 9-15% (nhóm ngoài [[stem-education|STEM]] cao hơn hẳn nhóm STEM, p<0.001), và, sau khi văn bản đã qua một dịch vụ ngụy trang văn bản, chỉ bắt được dưới 4% các bản viết lại có nhãn AI, tức tỷ lệ âm tính giả trên 96%. Các tác giả gọi đây là một tình thế tiến thoái lưỡng nan kiểu catch-22 về liêm chính: những sinh viên khai báo và biên tập nhẹ là những người công cụ bắt được, còn những sinh viên chủ tâm lách nó thì không. Khuyến nghị của họ rất rõ ràng, rằng điểm số của công cụ phát hiện không bao giờ nên được dùng làm bằng chứng hành vi sai trái độc lập ([[karr-ai-detection-humanization-2026]]).
 
+Các tổng quan đã thôi cố xếp hạng công cụ. Một tổng quan hệ thống 90 nghiên cứu công bố từ 2020 đến 2026 báo cáo rằng tỷ lệ dương tính giả biến thiên quá rộng giữa các công cụ và bối cảnh đánh giá đến mức không thể so sánh định lượng trực tiếp, và nêu nguyên nhân gồm thiên lệch thuật toán và ngôn ngữ, hiểu biết ngữ cảnh hạn chế, các đặc trưng ngôn ngữ bề mặt và dữ liệu huấn luyện chưa đủ đa dạng ([[maghami-ai-detection-false-positives-2026|Maghami, Ho và Camilleri (2026)]]). Các biện pháp khắc phục mà tổng quan nêu là về quy trình chứ không phải kỹ thuật: thực hành phát hiện minh bạch, rà soát bởi con người, hiểu biết về AI, chính sách thể chế rõ ràng và một kênh khiếu nại dễ tiếp cận.
+
 Một [[benchmark|bộ đánh giá chuẩn]] độc lập đi tới cùng kết luận từ một hướng khác. Không công cụ nào trong 14 công cụ đạt độ chính xác 80%, và việc diễn đạt lại đơn giản, biên tập nhỏ hoặc một dịch vụ ngụy trang văn bản gần như cắt giảm một nửa ngay cả mức đó. Ở các tỷ lệ nền thực tế, dương tính giả nhiều hơn dương tính thật ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Tỷ lệ bắt được đối với việc tạo ra toàn bộ văn bản còn tệ hơn các tỷ lệ sai số được nêu trong tiêu đề. Trong một nghiên cứu thực địa bí mật, các nhà nghiên cứu đưa những bài nộp hoàn toàn do AI tạo vào một hệ thống [[summative-assessment|kỳ thi]] trực tuyến đang vận hành, trên năm học phần tâm lý học: 94% không bị phát hiện, và bài làm của AI trung bình đạt điểm cao hơn sinh viên thật. Gian lận thuê viết đã từ lâu cho thấy cùng một vấn đề cấu trúc, vì nó không để lại dấu vết nào đáng tin để tìm ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Tỷ lệ bắt được đối với việc tạo ra toàn bộ văn bản còn
 Độ chính xác cũng thay đổi theo nhiệm vụ. Khi các nhà nghiên cứu kiểm tra liệu [[generative-ai|AI sinh tạo]] có thể phát hiện đầu ra của chính nó không, kết quả đáng tin với lập trình và văn bản suy ngẫm dài, và kém với câu trả lời ngắn, nơi mô hình thường đánh giá văn bản của chính nó là giống người hơn bài làm thật của sinh viên. Những biến thể prompt nhỏ làm giảm mạnh độ chính xác ([[llm-detecting-llm-generated-content-education]]). Một ngưỡng đúng cho nhiệm vụ này sẽ hỏng ở nhiệm vụ khác, và bạn sẽ không biết là ngưỡng nào cho tới lúc bị kháng nghị.
 
 Rồi còn có chuyện hết hạn. Một nghiên cứu năm 2026 định hình lại việc phát hiện như một bài toán thích ứng: một [[ren-test-time-adaptation-ai-text-detection-2026|tấn công viết lại hộp đen]] kéo công cụ thương mại Pangram xuống độ chính xác cân bằng 63.5% và recall AI 27.0%, và một công cụ phát hiện được huấn luyện trên Llama 3.3 70B Instruct chỉ đạt recall 55% trên các bản tóm tắt từ một mô hình mới hơn. Thích ứng tại thời điểm kiểm thử khôi phục lên 94.4% độ chính xác cân bằng và 99% recall trên chính văn bản đó, và đó là nửa đáng khích lệ. Cùng bài báo cho thấy cái giá của cách sửa: khi mức độ sử dụng LLM mô phỏng lan rộng, recall của một công cụ phát hiện có giám sát cố định trên văn bản người suy giảm từ 85.9% xuống 73.4% trong suốt thập kỷ. Điều kiện hết hạn của nó được nêu thẳng: độ chính xác cân bằng không thể vượt quá một nửa của một cộng khoảng cách biến thiên toàn phần giữa phân bố văn bản người và văn bản AI, nên sự hội tụ của hai phân bố đó sẽ đánh bại mọi công cụ phát hiện dựa trên học máy. Một điểm số đã được kiểm chứng chỉ đúng cho tới khi các mô hình thay đổi, và chúng thay đổi vài tháng một lần ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Việc so sánh còn phụ thuộc vào nhiệm vụ giao cho người đọc. Trong một thiết kế đối chứng, 30 phần mở đầu bài báo trước năm 2022 được viết lại theo năm điều kiện hợp lý, các giám định viên con người bị làm mù đạt 19% tổng thể, không phân biệt được với ngẫu nhiên, trong khi ba công cụ phát hiện thương mại phân biệt được đúng năm điều kiện đó (p < 0.001 với cả ba) nhưng chỉ thống nhất yếu với nhau về điểm tuyệt đối, ICC từ 0.57 đến 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng và cộng sự (2025)]]). Nhiệm vụ đó yêu cầu giám định viên đặt văn bản vào một trong năm điều kiện biên tập, chứ không phải đưa ra phán quyết có/không về bài luận của một sinh viên, nên nó không lật ngược các nghiên cứu về giám định viên nêu dưới đây, nhưng nó xóa đi mọi yên tâm rằng con người trong phòng là công cụ đáng tin.
 
 Và cỗ máy chưa bao giờ vượt qua rõ ràng một người đọc cẩn thận. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall và Parapadakis (2025)]] báo cáo việc máy phát hiện văn bản AI hoặc văn bản bị diễn đạt lại ở khoảng 80%, so với 78.4% ở người đánh giá, và dẫn bằng chứng rằng văn bản do AI tạo đã được chấp nhận như do người viết trong tới 80% trường hợp. Khoảng cách đó biến mất vào dải sai số mà con người vốn đã mang theo, một dải quá hẹp để làm nền cho một kết luận ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

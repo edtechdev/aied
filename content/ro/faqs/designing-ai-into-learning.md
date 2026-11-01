@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Pagina de concept [[pedagogy|Pedagogii și strategii de predare]] din baza de cu
 
 [[finkelstein-principled-ai-education-2025|Cadrul principial pentru educația cu IA]] enunță regula generală: tehnologia ar trebui să augmenteze, nu să deplaseze capacitățile umane pe care educația intenționează să le dezvolte. Scris ca test pentru un modul, asta înseamnă să numești capacitatea, să numești activitatea care o construiește și să întrebi dacă IA stă în interiorul acelei activități sau alături de ea.
 
+Aplică-l pe sarcină, nu o dată pe instrument. În patru cazuri adresate profesorilor, automatizarea și augmentarea au apărut împreună: înlocuirea a rămas în interiorul unor subsarcini analitice delimitate, iar augmentarea s-a arătat în ce a făcut profesorul cu rezultatul. De aceea același instrument poate automatiza un pas și augmenta altul ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Pune încercarea înaintea ajutorului
 
 Tiparul implicit care supraviețuiește contactului cu o clasă reală: **învățăcelul încearcă, IA sprijină, învățăcelul evaluează sau revizuiește, învățăcelul demonstrează înțelegerea.**
@@ -61,6 +67,12 @@ Implicația este directă. Același instrument este o ocolire la o treaptă și 
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec și Horvat]] au analizat secvența planificată a 29.064 de activități de predare și învățare din 554 de cursuri și au găsit o gramatică de proiectare vizibilă. Activitățile de tip achiziție sunt punctul de intrare cel mai frecvent și cel mai mare tip unic, peste 20%. Tipul de învățare urmează nivelul Bloom intenționat, achiziția scăzând de la aproximativ 50% la nivelul 1 la aproximativ 20% la nivelul 6, iar producția urcând peste 20% la nivelurile 5 și 6. Cea mai puternică tranziție din date este de la evaluare la discuție, la 0,332.
 
 Din asta urmează două lecții pentru proiectarea IA. Pune instrumentul acolo unde secvența intenționează un tip de activitate. Și, pentru că feedbackul s-a grupat cu [[collaborative-learning|colaborarea]], [[group-work|munca de grup]] și [[teacher-role|prezența cadrului didactic]], structurile cu colegi și sincrone sunt locurile unde sprijinul IA ar trebui să se conecteze, nu locurile unde ar trebui să substituie.
+
+## Proiectează ceasul, nu doar secvența
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] tratează timpul ca pe un schelet proiectat, nu ca pe o trăsătură a studentului: un curs în ritm propriu are o alocare săptămânală de aproximativ 100 de minute, cu o țintă de aproape 20 de minute pe zi, memento-uri conștiente de timp, un tablou de progres și o scurtă verificare de 3 până la 12 întrebări la finalul fiecărui subcapitol. Referința la care răspunde acest design este dură: aproape 25 la sută din peste 600 de cursanți au început abia în ultima săptămână, iar 95 la sută din acel grup au picat.
+
+Citește-o ca pe o temă de proiectare, nu ca pe un efect dovedit. Lucrarea compară un curs ulterior cu unul anterior în loc să ruleze un studiu controlat, așa că îmbunătățirea nu poate fi separată de schimbarea de serie și de disciplină, iar memento-urile suficient de puternice încât să mute momentul studiului sunt și o chestiune de [[privacy]] la care trebuie să răspunzi în programa analitică.
 
 ## Decide ce reții și când îl restaurezi
 

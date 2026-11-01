@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ Koncept [[pedagogy|Pedagogiky a vyučovacích stratégií]] v databáze poznatko
 
 [[finkelstein-principled-ai-education-2025|Rámec principiálneho AI vzdelávania]] uvádza všeobecné pravidlo: technológia má rozširovať, nie vytláčať ľudské schopnosti, ktoré má vzdelávanie rozvíjať. Napísané ako test pre modul to znamená pomenovať schopnosť, pomenovať aktivitu, ktorá ju buduje, a spýtať sa, či AI sedí vnútri tejto aktivity, alebo vedľa nej.
 
+Aplikujte to na každú úlohu, nie raz na nástroj. V štyroch prípadoch zameraných na učiteľov sa automatizácia a augmentácia vyskytli spoločne: nahradenie zostalo vnútri ohraničených analytických podúloh a augmentácia sa ukázala v tom, čo učiteľ urobil s výstupom. Preto ten istý nástroj môže jeden krok automatizovať a iný augmentovať ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers a kol. (2026)]]).
+
 ## Pokus pred pomocou
 
 Predvolený vzorec, ktorý prežije kontakt s reálnou triedou: **študent sa pokúsi, AI podporí, študent vyhodnotí alebo prepracuje, študent preukáže porozumenie.**
@@ -61,6 +67,12 @@ Dôsledok je priamy. Ten istý nástroj je obchádzkou na jednej priečke a [[sc
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec a Horvat]] analyzovali plánovanú postupnosť 29 064 vyučovacích a učebných aktivít v 554 kurzoch a našli viditeľnú gramatiku návrhu. Aktivity typu osvojovania sú najčastejším vstupným bodom a najväčším jednotlivým typom, nad 20 %. Typ učenia sleduje zamýšľanú úroveň Bloomovej taxonómie, pričom osvojovanie klesá z približne 50 % na úrovni 1 na približne 20 % na úrovni 6 a produkcia rastie nad 20 % na úrovniach 5 a 6. Najsilnejším prechodom v dátach je prechod od hodnotenia k diskusii, s hodnotou 0,332.
 
 Pre návrh AI z toho vyplývajú dve poučenia. Umiestnite nástroj tam, kde postupnosť zamýšľa typ aktivity. A keďže spätná väzba sa zhlukovala s [[collaborative-learning|spolupracou]], [[group-work|skupinovou prácou]] a prítomnosťou [[teacher-role|učiteľa]], práve do štruktúr s rovesníkmi a do synchrónnych štruktúr sa má AI podpora zapájať, a nie ich nahrádzať.
+
+## Navrhnite hodiny, nielen postupnosť
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] chápe čas ako navrhnutú oporu, nie ako vlastnosť študenta: kurz vo vlastnom tempe má týždennú dotáciu približne 100 minút s cieľom okolo 20 minút denne, pripomienky citlivé na čas, panel pokroku a krátku kontrolu s 3 až 12 otázkami na konci podkapitoly. Východisko, na ktoré tento návrh odpovedá, je drsné: takmer 25 percent z viac ako 600 študujúcich začalo až v poslednom týždni a 95 percent z tejto skupiny neuspelo.
+
+Čítajte to ako návrhovú otázku, nie ako preukázaný účinok. Práca porovnáva neskorší kurz so skorším namiesto realizácie kontrolovanej štúdie, takže zlepšenie nemožno oddeliť od zmeny kohorty a predmetu, a pripomienky dosť silné na to, aby posunuli čas štúdia, sú aj otázkou [[privacy]], na ktorú musíte odpovedať v sylabe.
 
 ## Rozhodnite, čo odoprieť a kedy to vrátiť
 

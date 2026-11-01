@@ -6,15 +6,19 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -42,6 +46,8 @@ A tudásbázis [[pedagogy|pedagógiák és tanítási stratégiák]] fogalma adj
 
 Az [[finkelstein-principled-ai-education-2025|Elvi MI-oktatási keretrendszer]] kimondja az általános szabályt: a technológiának bővítenie kell azokat az emberi képességeket, amelyeket az oktatás fejleszteni kíván, nem kiszorítania. Modulra alkalmazott próbaként ez azt jelenti, hogy nevezze meg a képességet, nevezze meg a képességet építő tevékenységet, és kérdezze meg, hogy a MI azon a tevékenységen belül vagy mellette van-e.
 
+Feladatonként alkalmazza, ne eszközönként egyszer. Négy tanárra irányuló esetben az automatizálás és a bővítés együtt jelent meg: a helyettesítés korlátozott elemző részfeladatokon belül maradt, a bővítés pedig abban mutatkozott meg, amit a tanár a kimenettel tett, ezért ugyanaz az eszköz képes az egyik lépést automatizálni és a másikat bővíteni ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## A kísérlet kerüljön a segítség elé
 
 Az az alapminta, amely kibírja a valódi osztállyal való találkozást: **a tanuló kísérletet tesz, a MI támogat, a tanuló értékel vagy revideál, a tanuló bizonyítja a megértést.**
@@ -61,6 +67,12 @@ A következmény közvetlen. Ugyanaz az eszköz az egyik fokon megkerülés, a k
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec és Horvat]] 29 064 tanítási és tanulási tevékenység tervezett sorrendjét elemezte 554 kurzuson, és látható tervezési nyelvtant talált. Az elsajátítás típusú tevékenységek a leggyakoribb belépési pont és a legnagyobb egyetlen típus, 20% felett. A tanulástípus követi a szándékolt Bloom-szintet: az elsajátítás az 1. szinten mért körülbelül 50%-ról a 6. szinten körülbelül 20%-ra esik vissza, a produkció pedig 20% fölé emelkedik az 5. és 6. szinten. Az adatok legerősebb átmenete az értékelésből a vitába vezet, 0,332-vel.
 
 Két tanulság következik a MI tervezésére. Oda tegye az eszközt, ahol a sorrend egy tevékenységtípust szándékol. És mivel a visszajelzés a [[collaborative-learning|kollaborációval]], a [[group-work|csoportmunkával]] és a [[teacher-role|tanár]] jelenlétével klasztereződött, a társas és szinkron struktúrák azok, ahol a MI-támogatásnak be kell kapcsolódnia, nem pedig azok, ahol helyettesítenie kell.
+
+## Az órát tervezze meg, ne csak a sorrendet
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] az időt tervezett állványként kezeli, nem a tanuló jellemzőjeként: a saját tempójú kurzus hetente mintegy 100 percet engedélyez, napi közel 20 perces céllal, időtudatos emlékeztetőkkel, előrehaladási irányítópulttal és egy rövid, 3–12 kérdéses ellenőrzéssel az alfejezet végén. Az a kiindulási helyzet, amelyre ez a tervezés válaszol, éles: több mint 600 tanuló csaknem 25 százaléka csak az utolsó héten kezd, és a csoport 95 százaléka megbukik.
+
+Tervezési jelzésként olvassa, ne bizonyított hatásként. A tanulmány egy későbbi kurzust hasonlít egy korábbihoz ahelyett, hogy kontrollált kísérletet végezne, így a javulás nem választható el a csoport és a tantárgy változásától, és a tanulási időzítést elmozdítani képes erősségű emlékeztetők egyben [[privacy|adatvédelem]]i kérdést is jelentenek, amelyre a tantárgyi programban kell válaszolnia.
 
 ## Döntse el, mit tart vissza, és mikor állítja vissza
 

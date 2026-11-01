@@ -1,13 +1,13 @@
 ---
 title: "Como a IA deve ser incorporada ao desenho da experiência de aprendizagem?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-01T11:35:17-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -45,6 +49,8 @@ O conceito [[pedagogy|Pedagogias e Estratégias de Ensino]] da base de conhecime
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] enuncia a regra geral: a tecnologia deve ampliar, e não deslocar, as capacidades humanas que a educação pretende desenvolver. Escrita como teste para um módulo, isso significa nomear a capacidade, nomear a atividade que a constrói e perguntar se a IA está dentro dessa atividade ou ao lado dela.
 
+Aplique por tarefa, e não uma vez por ferramenta. Em quatro casos voltados a professores, automação e ampliação ocorreram juntas: a substituição ficou dentro de subtarefas analíticas delimitadas, e a ampliação apareceu no que o professor fez com o resultado. É por isso que a mesma ferramenta pode automatizar uma etapa e ampliar outra ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Coloque a tentativa antes da ajuda
 
 O padrão básico que sobrevive ao contato com uma turma real: **o estudante tenta, a IA apoia, o estudante avalia ou revisa, o estudante demonstra compreensão.**
@@ -64,6 +70,12 @@ A implicação é direta. A mesma ferramenta é um atalho num degrau e um [[scaf
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec e Horvat]] analisaram a sequência planejada de 29.064 atividades de ensino e aprendizagem em 554 cursos e encontraram uma gramática de desenho visível. Atividades do tipo aquisição são o ponto de entrada mais comum e o maior tipo isolado, acima de 20%. O tipo de aprendizagem acompanha o nível de Bloom pretendido, com Aquisição caindo de cerca de 50% no nível 1 para cerca de 20% no nível 6 e Produção subindo acima de 20% nos níveis 5 e 6. A transição mais forte nos dados é de Avaliação para Discussão, em 0,332.
 
 Duas lições se seguem para o desenho de IA. Coloque a ferramenta onde a sequência prevê um tipo de atividade. E, como o feedback se agrupou com [[collaborative-learning|colaboração]], [[group-work|trabalho em grupo]] e presença [[teacher-role|docente]], as estruturas entre pares e síncronas são onde o apoio de IA deve se conectar, não onde ele deve substituir.
+
+## Desenhe o relógio, não apenas a sequência
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] trata o tempo como andaime desenhado, e não como traço do estudante: um curso no ritmo próprio traz uma cota semanal de cerca de 100 minutos com meta próxima de 20 minutos por dia, lembretes sensíveis ao tempo, um painel de progresso e uma verificação curta de 3 a 12 questões ao final de cada subcapítulo. A linha de base a que esse desenho responde é dura: quase 25 por cento de mais de 600 aprendizes começaram apenas na última semana, e 95 por cento desse grupo reprovou.
+
+Leia isso como uma provocação de desenho, não como um efeito comprovado. O artigo compara um curso posterior com um anterior em vez de realizar um ensaio controlado, então a melhoria não pode ser separada da mudança de turma e de disciplina, e lembretes fortes o bastante para deslocar o momento de estudo são também uma questão de [[privacy]] que você precisa responder no plano de ensino.
 
 ## Decida o que reter e quando restaurar
 

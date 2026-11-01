@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Kvalitatívny prínos Farrokhnia et al. pochádzal z promptu s reťazcom úvah, 
 Aldino et al. nachádzajú ten istý vzorec „pomôž a potom over“ v bežnej praxi. Komponent strojového učenia najčastejšie označil „Napĺňanie cieľa učenia“ ako chýbajúce (20 z 21 učiteľov ho vynechalo; 16 označenie prijalo) a „Vzťah študenta a učiteľa“ (14 vynechalo; 12 prijalo). Učitelia rozhodli o každom návrhu podľa profesionálneho úsudku, čo je zmyslom toho, aby boli v slučke.
 
 Dvanásť z 21 učiteľov Aldino et al. urobilo ďalšie revízie na úrovni viet a prevládajúcim vzorcom bola kalibrácia tónu: zoslabenie chvály (f = 11), odstránenie návrhov (f = 9), odstránenie povzbudenia (f = 8). Revízie sa zhlukovali v relačnej dimenzii, najmä vo vzťahu študenta a učiteľa (f = 24). Chránili autentickosť a profesionálny hlas a táto práca sa neautomatizuje.
+
+Študenti sú druhou stranou tohto overovania a ich popis deľby práce je blízky tomu, čo odporúča táto stránka. V ohniskových skupinách s 20 študentmi bakalárskeho štúdia bola spätná väzba vyučujúceho cenená preto, že bola relačná, personalizovaná a vedená odbornosťou, kým spätná väzba generovaná AI pôsobila neosobne a potenciálne nespravodlivo; tí istí študenti boli otvorení hybridnému modelu, v ktorom vyučujúci číta ich prácu a dopĺňa komentáre modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Tá istá štúdia zistila, že ich úsudky sa zhodovali s úsudkami ChatGPT v špecifickosti a uskutočniteľnosti, ale rozchádzali sa vo včasnosti a pozitivite, takže dimenzie, v ktorých sa dá vlastnému úsudku modelu dôverovať, sú užšie než celá rubrika.
 
 ## Naučte študentov čítať komentár
 

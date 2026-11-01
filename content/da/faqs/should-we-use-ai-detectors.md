@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Under det hele ligger et problem med referencedata. Detektorer trænes og testes
 
 Den stærkeste kontrollerede test i vidensbasen undersøgte 642 offentliggjorte engelske abstracts fordelt på fire domæner og to tidsperioder. Ved en tærskel på 0,50 markerede to kommercielle detektorer retningslinjekonform let AI-redigering med 38-80 %, markerede uændrede originaler fra 2023-25 med 9-15 % (ikke-[[stem-education|STEM]] langt over STEM, p<0,001), og når teksten først var kørt gennem en humaniseringstjeneste, fangede de under 4 % af AI-mærkede omskrivninger, en falsk-negativ-rate over 96 %. Forfatterne kalder det et integritets-catch-22: de studerende, der oplyser og redigerer let, er dem, værktøjet fanger, og de studerende, der går efter at omgå det, er det ikke. Deres anbefaling er eksplicit: detektorscorer bør aldrig tjene som selvstændigt bevis for uredelighed ([[karr-ai-detection-humanization-2026]]).
 
+Reviews er helt holdt op med at rangordne værktøjerne. Et systematisk review af 90 studier publiceret mellem 2020 og 2026 rapporterer, at falsk-positive-rater varierer så bredt mellem værktøjer og evalueringsopsætninger, at direkte kvantitativ sammenligning er umulig, og nævner algoritmisk og sproglig bias, begrænset kontekstuel forståelse, overfladiske sproglige træk og utilstrækkeligt varierede træningsdata blandt årsagerne ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). De afhjælpninger, den nævner, er proceduremæssige snarere end tekniske: gennemsigtig detektionspraksis, menneskelig gennemgang, AI-kompetence, klar institutionel politik og en tilgængelig klagevej.
+
 Et uafhængigt [[benchmark]] når samme sted fra en anden retning. Ingen af 14 værktøjer nåede 80 % nøjagtighed, og simpel parafrasering, mindre redigering eller en humaniseringstjeneste halverer omtrent endda den ydeevne. Ved realistiske basisrater overstiger falske positive de sande positive ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Fangstrater ved fuld generering er værre, end overskriftstallene for fejl antyder. I et skjult feltstudie injicerede forskere fuldt AI-genererede besvarelser i et levende online [[summative-assessment|eksamenssystem]] på tværs af fem psykologimoduler: 94 % gik uopdaget, og AI-arbejdet scorede i gennemsnit højere end de rigtige studerende. Kontraktfusk havde allerede vist det samme strukturelle problem, da det ikke efterlader noget pålideligt spor at finde ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Fangstrater ved fuld generering er værre, end overskriftstallene for fejl antyd
 Nøjagtigheden flytter sig også med opgaven. Da forskere testede, om [[generative-ai|generativ AI]] kan genkende sit eget output, var resultaterne pålidelige for programmering og længere reflekterende skrivning og dårlige for korte svar, hvor modellen ofte vurderede sin egen tekst som mere menneskelig end autentisk studenterarbejde. Mindre variationer i prompten reducerede nøjagtigheden markant ([[llm-detecting-llm-generated-content-education]]). En tærskel, der holder for én opgave, vil fejle på en anden, og du ved ikke hvilken, før klagesagen kommer.
 
 Så er der udløbsdatoen. Et studie fra 2026 omformulerer detektion som et adaptationsproblem: et [[ren-test-time-adaptation-ai-text-detection-2026|black-box-omskrivningsangreb]] bragte den kommercielle detektor Pangram ned på en balanceret nøjagtighed på 63,5 % og en AI-recall på 27,0 %, og en detektor trænet på Llama 3.3 70B Instruct nåede kun 55 % recall på abstracts fra en nyere model. Test-tids-adaptation genvandt 94,4 % balanceret nøjagtighed og 99 % recall på den samme tekst, hvilket er den opmuntrende halvdel. Samme artikel viser, hvad rettelsen koster: i takt med at simuleret LLM-udbredelse spreder sig, forfalder en fast superviseret detektors recall på menneskelig tekst fra 85,9 % til 73,4 % hen over årtiet. Dens udløbsbetingelse er formuleret direkte: balanceret nøjagtighed kan ikke overstige halvdelen af én plus totalvariationsafstanden mellem menneske- og AI-fordelingerne, så en konvergens af de to ville besejre enhver læringsbaseret detektor. En valideret score holder, indtil modellerne flytter sig, og de flytter sig hver få måneder ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Sammenligningen afhænger også af den opgave, læseren får. I et kontrolleret design, hvor 30 artikelindledninger fra før 2022 blev omskrevet i fem plausible betingelser, scorede blindede menneskelige bedømmere 19 % samlet, umuligt at skelne fra tilfældighed, mens tre kommercielle detektorer adskilte de samme fem betingelser (p<0,001 for alle), men kun var svagt enige med hinanden om den absolutte score, ICC 0,57 til 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Den opgave bad bedømmerne om at placere tekst blandt fem redigeringsbetingelser snarere end at afsige en ja-eller-nej-dom om én studerendes essay, så den vælter ikke bedømmerundersøgelserne nedenfor, men den fjerner enhver tryghed ved, at et menneske i lokalet skulle være det pålidelige instrument.
 
 Og maskinen har aldrig tydeligt slået en omhyggelig læser. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall og Parapadakis (2025)]] rapporterer maskindetektion af AI-tekst eller parafraseret tekst på omkring 80 % mod 78,4 % for menneskelige bedømmere og citerer evidens for, at AI-genereret tekst er passeret som menneskeskrevet i op til 80 % af tilfældene. Den margen forsvinder ind i det fejlbånd, mennesket allerede bringer, og den er for tynd til at bære en afgørelse ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

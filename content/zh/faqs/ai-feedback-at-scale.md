@@ -1,7 +1,7 @@
 ---
 title: "人工智能如何帮助我在大规模教学中给出更好的反馈？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-10-29T10:30:04-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -10,7 +10,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -26,6 +26,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -94,6 +98,8 @@ Farrokhnia 等人的质量提升，来自一条思维链提示：它让模型按
 Aldino 等人在日常实践中发现了同样的“先辅助、再核查”模式。机器学习组件最常标记为缺失的是“达成学习目标”（21 位教师中有 20 位漏掉，其中 16 位接受了这一标记）与“师生关系”（14 位漏掉，12 位接受）。教师凭专业判断逐条决定每个建议，这正是把他们放进回路的意义。
 
 Aldino 等人研究的 21 位教师中有 12 位做了进一步的句子层面修改，最主要的模式是校准语气：把表扬改低（f = 11）、删掉建议（f = 9）、删掉鼓励（f = 8）。修改聚在关系维度上，尤其是师生关系（f = 24）。他们在保护真实性与专业口吻，而这份工作无法自动化。
+
+学生是这种核查的另一端，而他们对分工的描述与本页的建议很接近。在 20 名本科生的焦点小组中，教师反馈之所以被看重，是因为它带有关系性、个性化且有专家支撑；而 AI 生成的反馈读起来无人情味，还可能不公平。这些学生同样愿意接受一种混合模式：由教师阅读他们的作业，并补充模型的评语（[[fong-chatgpt-feedback-evaluations-2026|Fong 等人（2026）]]）。同一项研究还发现，他们的判断在具体性与可操作性上与 ChatGPT 一致，但在及时性与正面性上出现分歧，因此模型的自我判断可以信任的维度，比整份量规要窄。
 
 ## 教学生怎么读评语
 

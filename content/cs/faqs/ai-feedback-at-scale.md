@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-01T11:35:15-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Kvalitativní zisk ve studii Farrokhnia a kol. vzešel z promptu s řetězcem my
 Aldino a kol. nacházejí stejný vzorec pomoc, pak ověření i v běžné praxi. Komponenta strojového učení nejčastěji označila jako chybějící „Naplnění cíle učení“ (20 z 21 učitelů ho vynechalo; 16 označení přijalo) a „Vztah učitele a studenta“ (14 vynechalo; 12 přijalo). O každém návrhu učitelé rozhodovali odborným úsudkem, a v tom spočívá smysl zapojení člověka do smyčky.
 
 Dvanáct z 21 učitelů u Aldina a kol. provedlo další revize na úrovni vět a převládajícím vzorcem byla kalibrace tónu: snižování chvály (f = 11), odstraňování doporučení (f = 9), odstraňování povzbuzení (f = 8). Revize se shlukovaly v relační dimenzi, zejména u Vztahu učitele a studenta (f = 24). Chránili autenticitu a profesní hlas, a tato práce se automatizovat nedá.
+
+Studenti jsou druhou stranou tohoto ověřování a jejich popis dělby práce je blízký tomu, co tato stránka doporučuje. Ve fokusních skupinách s 20 vysokoškolskými studenty byla zpětná vazba od učitele ceněna jako relační, personalizovaná a vedená odborností, zatímco zpětná vazba generovaná AI působila neosobně a potenciálně nespravedlivě; titíž studenti byli otevřeni hybridnímu modelu, v němž učitel čte jejich práci a doplňuje komentáře modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong a kol. (2026)]]). Tatáž studie zjistila, že jejich úsudky se shodovaly s ChatGPT v konkrétnosti a proveditelnosti, ale rozcházely se v časovosti a pozitivitě, takže dimenze, v nichž lze věřit vlastnímu verdiktu modelu, jsou užší než celá rubrika.
 
 ## Naučte studenty číst komentář
 

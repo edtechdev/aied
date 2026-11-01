@@ -1,6 +1,7 @@
 ---
 title: "Dovremmo usare i rilevatori di IA?"
 created: "2026-10-14T22:50:00-04:00"
+updated: "2026-11-01T11:35:26-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -9,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -55,6 +60,8 @@ Sotto tutto questo c'è un problema di dati di riferimento. I rilevatori sono ad
 
 Il test controllato più solido nella base di conoscenza ha esaminato 642 abstract pubblicati in inglese, su quattro domini e due periodi. A una soglia di 0,50, due rilevatori commerciali hanno segnalato come IA una revisione leggera conforme alle linee guida nel 38-80% dei casi, hanno segnalato gli originali non modificati del 2023-25 nel 9-15% dei casi (nelle discipline non [[stem-education|STEM]] molto più che nelle STEM, p<0,001) e, una volta passato il testo attraverso un servizio di "umanizzazione", hanno individuato meno del 4% delle riscritture etichettate come IA, con un tasso di falsi negativi superiore al 96%. Gli autori la chiamano un vicolo cieco dell'integrità: gli studenti che dichiarano e modificano poco sono quelli che lo strumento intercetta, e quelli che si propongono di eluderlo no. La loro raccomandazione è esplicita: i punteggi dei rilevatori non dovrebbero mai servire come prova autonoma di condotta scorretta ([[karr-ai-detection-humanization-2026]]).
 
+Le rassegne hanno smesso di provare a mettere in classifica gli strumenti. Una rassegna sistematica di 90 studi pubblicati tra il 2020 e il 2026 riporta che i tassi di falsi positivi variano così ampiamente tra strumenti e contesti di valutazione che un confronto quantitativo diretto è impossibile, indicando tra le cause il bias algoritmico e linguistico, la comprensione contestuale limitata, le caratteristiche linguistiche di superficie e dati di addestramento non sufficientemente diversificati ([[maghami-ai-detection-false-positives-2026|Maghami, Ho e Camilleri (2026)]]). I rimedi che indica sono procedurali più che tecnici: pratiche di rilevamento trasparenti, revisione umana, alfabetizzazione all'IA, una politica istituzionale chiara e una via di ricorso accessibile.
+
 Un [[benchmark]] indipendente arriva allo stesso punto da un'altra direzione. Nessuno di 14 strumenti ha raggiunto l'80% di accuratezza, e una semplice parafrasi, una modifica minima o un servizio di umanizzazione riducono all'incirca della metà anche quella prestazione. A tassi di base realistici, i falsi positivi superano i veri positivi ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 I tassi di intercettazione sulla generazione integrale sono peggiori di quanto suggeriscano i tassi di errore in evidenza. In uno studio sul campo coperto, i ricercatori hanno immesso elaborati interamente generati dall'IA in un sistema di [[summative-assessment|esame]] online in funzione, su cinque moduli di psicologia: il 94% è passato inosservato, e il lavoro dell'IA ha superato in media gli studenti reali. Il contract cheating aveva già mostrato lo stesso problema strutturale, dato che non lascia tracce affidabili da trovare ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -62,6 +69,8 @@ I tassi di intercettazione sulla generazione integrale sono peggiori di quanto s
 L'accuratezza si muove anche con il compito. Quando i ricercatori hanno testato se l'[[generative-ai|IA generativa]] sa riconoscere il proprio output, i risultati erano affidabili per la programmazione e per la scrittura riflessiva più lunga e scarsi per le risposte brevi, dove il modello valutava spesso il proprio testo come più umano di quello autentico degli studenti. Piccole variazioni nel prompt riducevano nettamente l'accuratezza ([[llm-detecting-llm-generated-content-education]]). Una soglia che regge per un compito fallirà su un altro, e non lo saprai prima dell'appello.
 
 Poi c'è la scadenza. Uno studio del 2026 riformula il rilevamento come problema di adattamento: un [[ren-test-time-adaptation-ai-text-detection-2026|attacco di riscrittura a scatola nera]] ha fatto scendere il rilevatore commerciale Pangram a un'accuratezza bilanciata del 63,5% e a un richiamo sull'IA del 27,0%, e un rilevatore addestrato su Llama 3.3 70B Instruct ha raggiunto solo il 55% di richiamo su abstract di un modello più recente. L'adattamento in fase di test risaliva al 94,4% di accuratezza bilanciata e al 99% di richiamo sullo stesso testo, ed è la metà incoraggiante. Lo stesso articolo mostra quanto costa la soluzione: man mano che l'adozione simulata degli LLM si diffonde, il richiamo di un rilevatore supervisionato fisso sul testo umano decade dall'85,9% al 73,4% nell'arco del decennio. La sua condizione di scadenza è detta senza giri di parole: l'accuratezza bilanciata non può superare la metà di uno più la distanza di variazione totale tra la distribuzione umana e quella dell'IA, quindi la convergenza delle due sconfiggerebbe ogni rilevatore basato sull'apprendimento. Un punteggio validato regge finché i modelli non si muovono, e si muovono ogni pochi mesi ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Il confronto dipende anche dal compito assegnato a chi legge. In un disegno controllato in cui 30 introduzioni di articoli precedenti al 2022 sono state riscritte secondo cinque condizioni plausibili, valutatori umani in cieco hanno totalizzato il 19% complessivo, indistinguibile dal caso, mentre tre rilevatori commerciali hanno separato le stesse cinque condizioni (p < 0.001 per tutti) ma concordavano solo debolmente tra loro sul punteggio assoluto, ICC da 0.57 a 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Quel compito chiedeva ai valutatori di collocare il testo tra cinque condizioni di modifica, non di esprimere un giudizio sì/no sul saggio di un singolo studente, quindi non ribalta gli studi sui valutatori umani citati più sotto, ma toglie ogni consolazione all'idea che un umano nella stanza sia lo strumento affidabile.
 
 E la macchina non ha mai battuto chiaramente un lettore attento. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall e Parapadakis (2025)]] riportano un rilevamento automatico di testo IA o parafrasato intorno all'80%, contro il 78,4% dei revisori umani, e citano prove che testo generato dall'IA è passato come scritto da una persona fino all'80% dei casi. Quel margine si dissolve nella banda di errore che l'umano porta già con sé, ed è troppo sottile per fondare un giudizio ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

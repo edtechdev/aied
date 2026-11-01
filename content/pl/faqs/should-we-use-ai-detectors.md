@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-01T11:35:47-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Pod tym wszystkim leży problem danych referencyjnych. Detektory są trenowane i
 
 Najmocniejszy kontrolowany test w bazie wiedzy objął 642 opublikowane angielskie streszczenia w czterech dziedzinach i dwóch okresach. Przy progu 0,50 dwa komercyjne detektory oznaczyły zgodną z wytycznymi lekką redakcję z użyciem SI w 38-80% przypadków, oznaczyły niezmodyfikowane oryginały z lat 2023-25 w 9-15% (poza [[stem-education|naukami ścisłymi]] znacznie częściej niż w naukach ścisłych, p<0,001), a gdy tekst przeszedł przez usługę humanizującą, wychwyciły mniej niż 4% przepisań oznaczonych jako SI, przy wskaźniku fałszywych pominięć powyżej 96%. Autorzy nazywają to pętlą bez wyjścia dla rzetelności akademickiej: narzędzie łapie studentów, którzy ujawniają i lekko redagują, a nie łapie tych, którzy od początku chcą je obejść. Ich zalecenie jest jednoznaczne: oceny detektorów nigdy nie powinny służyć jako samodzielny dowód naruszenia zasad ([[karr-ai-detection-humanization-2026]]).
 
+Przeglądy przestały w ogóle próbować szeregować narzędzia. Przegląd systematyczny 90 badań opublikowanych w latach 2020–2026 donosi, że odsetek fałszywych alarmów różni się tak szeroko między narzędziami i warunkami oceny, że bezpośrednie porównanie ilościowe jest niemożliwe, a wśród przyczyn wymienia stronniczość algorytmiczną i językową, ograniczone rozumienie kontekstu, powierzchniowe cechy językowe oraz niewystarczająco zróżnicowane dane treningowe ([[maghami-ai-detection-false-positives-2026|Maghami, Ho i Camilleri (2026)]]). Wskazywane środki zaradcze są proceduralne, a nie techniczne: przejrzysta praktyka wykrywania, przegląd przez człowieka, kompetencje w zakresie AI, jasna polityka instytucji i dostępna ścieżka odwoławcza.
+
 Niezależny [[benchmark|test porównawczy]] dochodzi do tego samego z innej strony. Żadne z 14 narzędzi nie osiągnęło 80% dokładności, a proste parafrazowanie, drobna redakcja albo usługa humanizująca zmniejszają o mniej więcej połowę nawet tę skuteczność. Przy realistycznych częstościach bazowych fałszywe trafienia przewyższają trafienia prawdziwe ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Skuteczność wychwytywania przy generowaniu całościowym jest gorsza, niż sugerują nagłówkowe wskaźniki błędów. W ukrytym badaniu terenowym badacze wstrzyknęli w pełni wygenerowane przez SI prace do działającego systemu egzaminów online [[summative-assessment|zaliczeniowych]] w pięciu modułach psychologii: 94% pozostało niewykryte, a prace SI wypadły średnio lepiej niż prawdziwi studenci. Pisanie prac na zamówienie pokazywało ten sam problem strukturalny już wcześniej, bo nie zostawia żadnego wiarygodnego śladu ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Skuteczność wychwytywania przy generowaniu całościowym jest gorsza, niż sug
 Dokładność zmienia się też z zadaniem. Gdy badacze sprawdzali, czy [[generative-ai|generatywne SI]] potrafi wykryć własny wynik, rezultaty były wiarygodne dla programowania i dłuższego pisania refleksyjnego, a słabe dla krótkich odpowiedzi, gdzie model często oceniał własny tekst jako bardziej ludzki niż autentyczne prace studentów. Drobne zmiany w prompcie ostro obniżały dokładność ([[llm-detecting-llm-generated-content-education]]). Próg, który działa dla jednego zadania, zawiedzie przy innym, i nie będzie wiadomo przy którym, dopóki nie przyjdzie odwołanie.
 
 Jest jeszcze kwestia terminu ważności. Badanie z 2026 roku ujmuje detekcję jako problem adaptacji: [[ren-test-time-adaptation-ai-text-detection-2026|atak przepisania w czarnej skrzynce]] obniżył komercyjny detektor Pangram do zbalansowanej dokładności 63,5% i czułości wobec SI 27,0%, a detektor wytrenowany na Llama 3.3 70B Instruct osiągnął tylko 55% czułości na streszczeniach z nowszego modelu. Adaptacja w czasie testu przywróciła 94,4% zbalansowanej dokładności i 99% czułości na tym samym tekście, i to jest ta pocieszająca połowa. Ten sam artykuł pokazuje, ile naprawa kosztuje: w miarę jak symulowane przyjęcie modeli językowych rośnie, czułość stałego detektora nadzorowanego na tekście ludzkim spada z 85,9% do 73,4% w ciągu dekady. Warunek jego ważności jest sformułowany wprost: zbalansowana dokładność nie może przekroczyć połowy sumy jedynki i odległości wariacji całkowitej między rozkładem tekstów ludzkich i tekstów SI, więc zbieżenie się obu rozkładów pokonałoby każdy detektor oparty na uczeniu. Zwalidowana ocena trzyma się tak długo, jak długo modele stoją w miejscu, a modele ruszają co kilka miesięcy ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Porównanie zależy też od zadania, które dostaje czytelnik. W projekcie kontrolowanym, w którym 30 wstępów do artykułów sprzed 2022 roku przepisano w pięciu wiarygodnych warunkach, zaślepieni oceniający ludzie uzyskali łącznie 19%, nieodróżnialne od przypadku, podczas gdy trzy komercyjne detektory rozdzieliły te same pięć warunków (p < 0.001 dla wszystkich), ale zgadzały się między sobą tylko słabo co do wyniku bezwzględnego, ICC od 0.57 do 0.95 ([[cheng-ai-detection-tools-humans-2025|Cheng i in. (2025)]]). To zadanie kazało oceniającym umieścić tekst wśród pięciu warunków edycji, a nie wydać osąd tak/nie o eseju jednego studenta, więc nie podważa przytoczonych niżej badań nad oceniającymi, ale odbiera pocieszenie, że człowiek w pokoju jest rzetelnym narzędziem.
 
 A maszyna nigdy wyraźnie nie pobiła uważnego czytelnika. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall i Parapadakis (2025)]] podają wykrywanie maszynowe tekstu SI lub przepisanego na poziomie około 80% wobec 78,4% dla ludzkich recenzentów i przytaczają dowody, że tekst generowany przez SI przechodził jako autorski w aż 80% przypadków. Ten margines ginie w paśmie błędu, który człowiek i tak wnosi, zbyt wąskim, by oprzeć na nim ustalenie ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 

@@ -1,13 +1,14 @@
 ---
 title: "Come dovrebbe essere progettata l'IA nell'esperienza di apprendimento?"
 created: "2026-10-14T21:55:00-04:00"
+updated: "2026-11-01T11:34:42-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 contributors: [editor]
 translation_of: "faqs/designing-ai-into-learning"
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-10-31T14:05:47-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -17,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -44,6 +49,8 @@ Il concetto [[pedagogy|Pedagogies and Teaching Strategies]] della base di conosc
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] enuncia la regola generale: la tecnologia dovrebbe aumentare, non spiazzare, le capacità umane che l'educazione intende sviluppare. Scritta come test per un modulo, significa nominare la capacità, nominare l'attività che la costruisce e chiedere se l'IA sta dentro quell'attività o accanto.
 
+Applichiamolo per compito, non una volta per strumento. In quattro casi rivolti ai docenti automazione e aumento sono co-occorse: la sostituzione è rimasta dentro sottocompiti analitici delimitati, e l'aumento è apparso in ciò che il docente faceva con l'output, per questo lo stesso strumento può automatizzare un passaggio e aumentarne un altro ([[horvers-hybrid-intelligence-automation-augmentation-2026|Horvers et al. (2026)]]).
+
 ## Metti il tentativo prima dell'aiuto
 
 Il pattern predefinito che sopravvive al contatto con una classe reale: **lo studente tenta, l'IA supporta, lo studente valuta o rivede, lo studente dimostra la comprensione.**
@@ -63,6 +70,12 @@ L'implicazione è diretta. Lo stesso strumento è un aggiramento a un piolo e un
 [[learning-paths-patterns-learning-design-2026|Divjak, Svetec e Horvat]] hanno analizzato la sequenza pianificata di 29.064 attività di insegnamento e apprendimento in 554 corsi e hanno trovato una grammatica di progetto visibile. Le attività di tipo acquisizione sono il punto d'ingresso più comune e il tipo singolo più numeroso, sopra il 20%. Il tipo di apprendimento segue il livello di Bloom previsto, con l'acquisizione che scende da circa il 50% al livello 1 a circa il 20% al livello 6 e la produzione che sale sopra il 20% ai livelli 5 e 6. La transizione più forte nei dati è da valutazione a discussione, a 0,332.
 
 Ne seguono due lezioni per il progetto dell'IA. Metti lo strumento dove la sequenza intende un tipo di attività. E, poiché il feedback si raggruppava con [[collaborative-learning|collaborazione]], [[group-work|lavoro di gruppo]] e presenza [[teacher-role|del docente]], le strutture tra pari e sincrone sono il punto in cui il supporto dell'IA dovrebbe innestarsi, non quello in cui dovrebbe sostituire.
+
+## Progetta l'orologio, non solo la sequenza
+
+[[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] tratta il tempo come un'impalcatura progettata e non come un tratto dello studente: un corso a ritmo autonomo prevede una dotazione settimanale di circa 100 minuti con un obiettivo vicino ai 20 minuti al giorno, promemoria consapevoli del tempo, una dashboard dei progressi e un breve controllo di fine sottocapitolo di 3 a 12 domande. La linea di base a cui questo progetto risponde è netta: quasi il 25 per cento di oltre 600 studenti inizia solo nell'ultima settimana e il 95 per cento di quel gruppo fallisce.
+
+Leggilo come uno spunto di progetto e non come un effetto dimostrato. L'articolo confronta un corso successivo con uno precedente invece di condurre una prova controllata, quindi il miglioramento non è separabile dal cambio di coorte e di materia, e promemoria abbastanza forti da spostare i tempi di studio sono anche una questione di [[privacy|privacy dei dati]] a cui bisogna rispondere nel programma del corso.
 
 ## Decidi cosa trattenere, e quando ripristinarlo
 

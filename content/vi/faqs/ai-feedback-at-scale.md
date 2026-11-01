@@ -10,15 +10,19 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-10-29T16:56:06-04:00"
+updated: "2026-11-01T11:34:18-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ Mức tăng chất lượng của Farrokhnia và cộng sự đến từ một p
 Aldino và cộng sự thấy cùng mô thức hỗ trợ rồi kiểm chứng trong thực hành thông thường. Thành phần học máy thường gắn cờ thiếu “Đạt mục tiêu học tập” nhất (20 trong 21 giáo viên đã bỏ sót nó; 16 chấp nhận cờ đó) và “Quan hệ giáo viên và sinh viên” (14 bỏ sót; 12 chấp nhận). Giáo viên quyết định từng gợi ý bằng phán đoán chuyên môn, và đó chính là điểm của việc đặt họ vào vòng lặp.
 
 Mười hai trong 21 giáo viên của Aldino và cộng sự đã sửa thêm ở mức câu, và mô thức chiếm ưu thế là hiệu chỉnh giọng điệu: hạ bớt lời khen (f = 11), bỏ gợi ý (f = 9), bỏ lời động viên (f = 8). Các sửa đổi tập trung ở chiều quan hệ, đặc biệt là Quan hệ giáo viên và sinh viên (f = 24). Họ đang bảo vệ tính chân thực và giọng chuyên môn, và công việc đó không tự động hóa được.
+
+Sinh viên là phía bên kia của sự kiểm chứng đó, và cách họ mô tả sự phân công lao động gần với điều trang này khuyến nghị. Trong các nhóm thảo luận với 20 sinh viên đại học, phản hồi của giảng viên được đánh giá cao vì mang tính quan hệ, cá nhân hóa và dựa trên chuyên môn, trong khi phản hồi do AI tạo ra bị coi là phi cá nhân và có thể không công bằng; chính những sinh viên đó sẵn lòng với một mô hình kết hợp, trong đó giảng viên đọc bài của họ và bổ sung cho nhận xét của mô hình ([[fong-chatgpt-feedback-evaluations-2026|Fong và cộng sự (2026)]]). Cùng nghiên cứu đó phát hiện rằng đánh giá của họ khớp với ChatGPT về tính cụ thể và khả năng hành động nhưng khác biệt về tính kịp thời và tính tích cực, nên những chiều mà phán đoán của chính mô hình có thể tin được hẹp hơn toàn bộ rubric.
 
 ## Dạy sinh viên cách đọc nhận xét
 

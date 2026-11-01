@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-10-29T14:24:50-04:00"
+updated: "2026-11-01T11:36:02-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-10-31T10:05:00-04:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ Ispod svega toga stoji problem referentnih podataka. Detektori se treniraju i te
 
 Najsnažniji kontrolirani test u bazi znanja obuhvatio je 642 objavljena engleska sažetka iz četiriju područja i dvaju razdoblja. Na pragu od 0,50 dva su komercijalna detektora označila lagano uređivanje uz pomoć umjetne inteligencije koje je bilo u skladu sa smjernicama u 38 do 80% slučajeva, neizmijenjene izvornike iz 2023. do 2025. u 9 do 15% (ne-[[stem-education|STEM]] znatno iznad STEM-a, p < 0,001), a nakon što je tekst prošao kroz servis za humanizaciju, uhvatila su manje od 4% prepisa označenih kao rad umjetne inteligencije, što je stopa lažno negativnih iznad 96%. Autori to nazivaju integritetnim začaranim krugom (catch-22): studenti koji priznaju i malo uređuju jesu oni koje alat hvata, a studenti koji su krenuli izbjeći ga nisu. Njihova je preporuka izričita: rezultati detektora nikada ne bi smjeli služiti kao samostalan dokaz nedoličnog ponašanja ([[karr-ai-detection-humanization-2026]]).
 
+Pregledi su posve prestali pokušavati rangirati alate. Sustavni pregled 90 studija objavljenih između 2020. i 2026. izvješćuje da stope lažno pozitivnih rezultata toliko variraju među alatima i uvjetima evaluacije da je izravna kvantitativna usporedba nemoguća, te među uzrocima navodi algoritamsku i jezičnu pristranost, ograničeno razumijevanje konteksta, površinske jezične značajke i nedovoljno raznolike podatke za obuku ([[maghami-ai-detection-false-positives-2026|Maghami, Ho and Camilleri (2026)]]). Rješenja koja navodi postupovna su, a ne tehnička: transparentna praksa detekcije, ljudski pregled, AI pismenost, jasna institucionalna politika i dostupan put za žalbu.
+
 Neovisni [[benchmark|usporedni test]] dolazi do istoga mjesta iz drugog smjera. Nijedan od 14 alata nije dosegnuo točnost od 80%, a jednostavno parafraziranje, manje uređivanje ili servis za humanizaciju otprilike prepolovljuju i tu izvedbu. Pri realističnim osnovnim stopama lažno pozitivni rezultati nadmašuju istinski pozitivne ([[teichmann-detecting-undetectable-misconduct-2026]]).
 
 Stope hvatanja kod cjelovitog generiranja lošije su nego što sugeriraju naslovne stope pogrešaka. U prikrivenom terenskom istraživanju istraživači su ubacili potpuno generirane radove u živi online ispitni sustav [[summative-assessment|sumativne procjene]] u pet modula psihologije: 94% ih je prošlo neotkriveno, a radovi umjetne inteligencije u prosjeku su postigli bolje rezultate od stvarnih studenata. Ugovorno varanje već je pokazalo isti strukturni problem jer ne ostavlja pouzdan trag koji bi se mogao naći ([[teichmann-detecting-undetectable-misconduct-2026]]).
@@ -60,6 +66,8 @@ Stope hvatanja kod cjelovitog generiranja lošije su nego što sugeriraju naslov
 Točnost se mijenja i s vrstom zadatka. Kada su istraživači testirali može li [[generative-ai|generativna umjetna inteligencija]] prepoznati vlastiti izlaz, rezultati su bili pouzdani za programiranje i dulje refleksivno pisanje, a slabi za kratke odgovore, gdje je model često svoj tekst ocjenjivao kao sličniji ljudskom nego što je autentičan studentski rad. Male varijacije u upitu oštro su smanjivale točnost ([[llm-detecting-llm-generated-content-education]]). Prag koji vrijedi za jedan zadatak neće vrijediti za drugi, a to nećete znati do žalbe.
 
 Zatim je tu i rok trajanja. Studija iz 2026. preoblikuje detekciju kao problem prilagodbe: [[ren-test-time-adaptation-ai-text-detection-2026|napad prepisivanjem crne kutije]] spustio je komercijalni detektor Pangram na uravnoteženu točnost od 63,5% i odziv na umjetnu inteligenciju od 27,0%, a detektor treniran na modelu Llama 3.3 70B Instruct dosegnuo je samo 55% odziva na sažecima novijeg modela. Prilagodba u trenutku testiranja vratila je 94,4% uravnotežene točnosti i 99% odziva na istom tekstu, što je ohrabrujuća polovica. Isti rad pokazuje koliko taj popravak košta: kako se simulirana primjena LLM-ova širi, odziv fiksnog nadziranog detektora na ljudskom tekstu opada s 85,9% na 73,4% tijekom desetljeća. Uvjet njegova isteka izrečen je izravno: uravnotežena točnost ne može prijeći polovicu zbroja jedinice i ukupne varijacijske udaljenosti između ljudske distribucije i distribucije umjetne inteligencije, pa bi konvergencija tih dviju distribucija pobijedila svaki detektor koji se temelji na učenju. Validirani rezultat vrijedi dok se modeli ne pomaknu, a oni se pomiču svakih nekoliko mjeseci ([[ren-test-time-adaptation-ai-text-detection-2026]]).
+
+Usporedba ovisi i o zadatku koji čitatelj dobije. U kontroliranom nacrtu u kojem je 30 uvoda u članke iz razdoblja prije 2022. prepisano kroz pet vjerojatnih uvjeta, zaslijepljeni ljudski ocjenjivači postigli su ukupno 19%, što se ne razlikuje od slučajnosti, dok su tri komercijalna detektora razlikovala istih pet uvjeta (p < 0,001 za sve), ali su se međusobno slabo slagala oko apsolutnog rezultata, ICC 0,57 do 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]). Taj je zadatak od ocjenjivača tražio da smjeste tekst među pet uvjeta uređivanja, a ne da donesu da-ne prosudbu o eseju jednog studenta, pa ne obara studije ocjenjivača navedene niže, ali uklanja svaku utjehu da je čovjek u sobi pouzdan instrument.
 
 I stroj nikada nije jasno pobijedio pažljivog čitatelja. [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall i Parapadakis (2025.)]] izvješćuju o strojnom otkrivanju teksta umjetne inteligencije ili parafraziranog teksta na približno 80% nasuprot 78,4% kod ljudskih ocjenjivača, i citiraju dokaze da je generirani tekst prošao kao ljudski napisan u do 80% slučajeva. Ta razlika nestaje u pojasu pogreške koji čovjek već unosi, a on je preuzak da utemelji nalaz ([[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]]).
 
