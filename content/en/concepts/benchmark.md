@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -77,6 +77,8 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - **"Simulated personas are an adequate basis for tutor evaluation."** [[tutor-case-bench-challenging-behaviors-2026|TutorCaseBench]] grounds evaluation in **documented case literature rather than simulated personas**, using **923 dialogues**. Fabricated student personas let a system pass cases that do not occur.
 - **"Benchmarks can be trusted without checking the judge."** Hallucination was scored as **entailment against the retrieved open-license chunks (κ = 0.76 with expert judgment)** — the judge was validated against experts before its scores were used. An unvalidated automatic judge produces numbers of unknown meaning.
 
+- **"A benchmark on ordinary cases is a benchmark of the grader."** A grading benchmark also needs items whose right answer is known. In the 2026 open battery, **22 prompted models** graded **100 items** per task on one plain prompt, then altered versions of the same work: a polite request for full marks, a forged grading instruction, a blank answer, a nonsense word, an attainment label and a bare objection. **Fourteen** were flagged for gaining more than **5% of the scale** from a note and **seven** credited blank answers. Each measure was first run on simulated graders with a planted effect, and a check that missed it was reported as unmeasured. [[porcaro-ai-grading-benchmark-2026|The probe battery is the benchmark]], not an appendix to an agreement table.
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -111,3 +113,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Probes with known right answers, 22 prompted graders, and a check on every check before any result was read (Porcaro 2026)

@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -133,6 +133,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - **Feedback can target the feedback-giver.** Tutor training is an under-explored feedback context: automated systems that sequence-label tutors' open-ended responses to flag praise types (effort-based praise — the desirable process-focused kind — vs. outcome-based vs. person-based, the least desirable trait-attributing kind) can deliver explanatory feedback that changes tutoring behavior. The binding constraint is expert-labeled data. An augmentation approach — GPT-4o generates synthetic labeled responses expanding a 13-instance low-resource set to 520, then fine-tunes GPT-3.5 — recovers most of the gap: F2 +20.5% on effort-based praise, +17.3% on outcome-based, and +16.5% on the *unseen* person-based category. The generalization test to an unseen praise type is the validity check that separates this from overfitting, and the mechanism is closer to teacher-model distillation than classical augmentation. ([[xu-automated-feedback-tutor-training-2025]])
 - **Feedback that cannot see the revision gets repeated.** In a science learning game whose agents critiqued draft arguments, students revised across multiple rounds, but a quantized 8B model returned substantially the same critique to an improved draft, so the loop that motivated revision also produced the frustration that ended it ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
 
+- **"Tone is a detail of feedback quality."** In the benchmark it tracked the number it was given: every model, told a grade that contradicted the work, wrote feedback whose tone followed that grade, and for **eight of 22** the shift per point matched or exceeded the shift with the work's quality. Only the tone rule was validated against trained annotators, on **1,655** tutor replies, so substance is unmeasured. [[porcaro-ai-grading-benchmark-2026|A grader that writes feedback from a wrong grade launders the error into praise or criticism]].
+
 ## Common Misconceptions
 
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
@@ -212,3 +214,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[xu-automated-feedback-tutor-training-2025]] — Improving automated feedback systems for tutor training in low-resource scenarios through data augmentation (Xu et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
 - [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)

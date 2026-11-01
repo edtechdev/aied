@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-10-26T10:00:00-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -75,6 +75,8 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) analyze student prompts to AI across 116 courses with a within-person, cross-discipline design, showing that student-AI conversations reflect **discipline-associated** cognitive engagement rather than fixed individual interaction styles. Roughly 62% of prompts encoded higher-order cognitive demand overall, but Bloom-level profiles differed sharply by discipline: [[stem-education|STEM]] courses elicited Apply-prevalent prompts (20.8%), language courses Understand-prevalent (31.7%), and social science courses Create-prevalent (33.8%). Paired within-person comparisons confirmed the same students produced significantly more higher-order prompts in social science than STEM courses (pooled n = 16, p < .001), and course-level variation exceeded student-level variation — a strong argument that AI teaching assistants should be designed and evaluated with disciplinary context in mind.
 - **How much students use AI did not predict how they felt about it.** Among 819 students, gender, self-rated AI expertise and usage frequency all failed to reach significance in a MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). Heavy and light users in that sample held the same views ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
+- **"A student cannot move a grader's mark."** They can, and it is the most persistent failure in the battery: **17 of 22** models raised their grade more after a bare objection than after a request for a second look, including **six of the eight** that had passed every gaming and blank-answer check. The largest was Llama 3.2 3B at **+33.2% of the scale**, and the request for a second look itself lowered grades for **ten** of the 17, so the contrast is not the objection's raw effect. [[porcaro-ai-grading-benchmark-2026|Grades a student can argue with need a record of the exchange]].
+
 ## Common Misconceptions
 
 - **"Interaction taxonomies are settled."** **Across 46 categorisations from 33 studies, similar labels name different phenomena**, which is why the review proposes the *interaction episode* as the unit. A coding scheme borrowed from one taxonomy may be measuring a different construct.
@@ -116,3 +118,4 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
 - [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)

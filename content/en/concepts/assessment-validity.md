@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:00:37-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -115,6 +115,10 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - **A valid measure can still be unsafe to optimize.** Fine-tuning an LLM tutor against a rubric-style adaptivity metric raised the metric (+0.05 to +0.42) while blind expert ratings fell (4.46 to 3.03), because a metric that scores decisions independently is maximized by repeating the single best decision ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 - **An embedding's geometry is not a rubric's distinctions.** Against 992 handwritten physics solutions under five textual representations and nine embedding mechanisms, [[embedding-similarity-clustering-handwritten-physics-2026|Tauschhuber & Kortemeyer (2026)]] report a best weighted Spearman correlation with human scores of 0.198, with clusters score-enriched rather than score-equivalent.
 
+- **"Passing the standard checks settles the grader."** On the same benchmark **no model passed all three** on any task: QWK of at least **0.70**, no more than **0.10** below the raters' own agreement, and a standardized mean difference within **0.15**. On code, **eight models** cleared the first two and then graded lower than the raters, and on short answers **21 of 22** graded lower, so [[porcaro-ai-grading-benchmark-2026|the direction of the departure matters as much as its size]].
+
+- **"Agreement detects a biased grader."** It did not in a within-item ablation. Adding only a true or swapped attainment label to the prompt moved marks by **0.28 to 0.75 points** on a ten-point scale on every model tested, while a true label raised QWK by just **0.029 to 0.046**. A rescaling fitted without the label matched that gain. [[porcaro-ai-grader-reliability-2026|Invariance has to be reported beside agreement]], because a grader can score closer to the teacher while reading the student rather than the work.
+
 ## Common Misconceptions
 
 - **"LLM grading bias is a reason to abandon it."** In a **large-scale national writing assessment**, an LLM scorer showed a **systematic conservative (under-grading) bias** — problematic as a final mark and potentially **useful as a screening** signal. A bias with a known direction is a different instrument from an unpredictable one.
@@ -189,3 +193,5 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — A pedagogical-adaptivity metric rose while blind expert ratings fell: measurement validity does not imply optimization validity (Domínguez Figaredo & Fernández De la Cruz 2026)
 - [[genai-english-proficiency-validity-2026]] — Has the Target Moved Again? GenAI and the Validity of English Proficiency Scores
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — The outcome construct moves the estimate: g = 1.958 for the joint human-AI product
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)

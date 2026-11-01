@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -69,6 +69,8 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 Open systems are part of this picture too: AiAWE scores argumentative essays with a LoRA-adapted Gemma-3-27B-it, reaching QWK 0.828 and agreement within ±0.5 of the human score on 90.56% of 360 evaluation essays — and reports that model scale did not reliably predict downstream performance under LoRA adaptation ([[aiawe-automated-writing-evaluation]]).
 
+- **"The prompted model that agrees best is the strongest essay scorer."** On ASAP 2.0 the published agreement between the two expert raters is **κ 0.745**, and no prompted model's point estimate reached it: the 22 ran from **0.155** to **0.727**, and for **18** the whole interval lay below. A fine-tuned DeBERTa scorer reached **0.809** and a rule that counts only essay length reached **0.636**, above **16 of 22** models, though every model kept agreement beyond length. [[porcaro-ai-grading-benchmark-2026|The baseline to beat is the trained scorer, not the model down the road]].
+
 ## Common Misconceptions
 
 - **"Automated scoring results reflect student writing."** The ordinal signal can be **manufactured rather than observed** — synthetic level-1 essays built by template generation, degradation to **20-40% of original length** and keyword removal. A system validated on constructed extremes may never have been tested on the distribution it will meet.
@@ -108,3 +110,4 @@ Open systems are part of this picture too: AiAWE scores argumentative essays wit
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
 - [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)

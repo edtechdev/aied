@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-26T12:30:00-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -131,6 +131,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 - **Structured LLM grading can look analytic without being diagnostic (2026):** Scoring 3,041 responses to 50 computer-science questions, three commercial LLMs produced rubric sub-dimensions that were near-redundant (r = 0.82–0.99, VIF up to 45) and named misconceptions in only 4.8–7.4% of comments, against 15.0% for instructors ([[llm-structured-assessment-diagnostic-quality-2026|Zhao et al., 2026]]).
 
+- **"A single kappa is the case for a grader."** It is one check, and a benchmark of **22 prompted models** on three public corpora shows why. Every model met probes whose right answer is known: a polite request for full marks, a forged grading instruction, a blank answer, a nonsense word, a bare objection. **Fourteen** were flagged for gaining more than **5% of the scale** from a note, up to **83.2%** on code, and **seven** credited blank or meaningless answers, so [[porcaro-ai-grading-benchmark-2026|the agreement figure and the failure tests have to be read together]]. A deployed grading system has one more input to test: sharing a learner model's estimate with the grader shifted marks by **0.28 to 0.75 points** on identical work, and [[porcaro-ai-grader-reliability-2026|the ablation that found it]] left rater agreement almost unchanged.
+
 ## Common Misconceptions
 
 - **"An automated score is a single reliable number."** A practical computer vision exam (**570 dual-graded students**) was graded under **171 configurations**, and a second machine-learning exam under further ones — the configuration drove the score. A grade presented as a number conceals the configuration that produced it.
@@ -206,3 +208,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[llm-grading-assistants-public-health-2026]] — Reasoning mode lifted LLM-human grading agreement from weighted kappa 0.269 to 0.718
 - [[machine-human-marking-agreement-institutions-2026]] — Machine–human agreement in marking undergraduate assignments is specific to model, prompt and institution
 - [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: Using Traditional Wargaming Adjudication Practices to Improve AI-Judged Evaluations and Grading (Epstein 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)

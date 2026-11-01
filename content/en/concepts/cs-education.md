@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-27T10:05:00-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -122,6 +122,10 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - **LLM-adaptive explanations of programming errors (2026):** A crowdsourced study (N=103) found LLM-rewritten error messages improve readability, but objective debugging performance depends on matching explanation style (pragmatic vs contingent) to programmer skill — a scaffolding insight for AI-assisted programming education ([[llm-adaptive-programming-error-explanations-2026]]).
 - **Oversight is about fitness, not correctness (2026):** Coding 962 student-AI turns from 145 first-year software engineering students, [[novice-se-students-oversight-genai-2026|Shakiba and Chaffey (2026)]] found 74.4% of interventions named fitness problems against 16.9% naming correctness, and 51.0% of responses modified the output rather than the prompt.
 
+- **"Agreement on code means the grader reads the code."** The benchmark's two instructor raters agreed at **0.815** on C++ answers: **four** models exceeded them with an interval above 100% of that ceiling and **fourteen** fell below, down to **33%**. On the same code task, a note asking for full marks raised Qwen3 235B's grade by **83.2% of the scale**, and seven models across the battery credited blank answers, so [[porcaro-ai-grading-benchmark-2026|a grading pass over student code needs failure tests beside the agreement number]].
+
+- **"The effect is the same at every stage of a course."** It grew with the work: on **60 complete Java programs** graded on a **14-level** rubric, the label's effect was **2.8 times** its short-answer size on GPT-4.1-mini and **2.4 times** on Qwen, though only **0.4 times** on Gemini. [[porcaro-ai-grader-reliability-2026|Task and rubric are part of what the effect measures]], so a size validated on short answers does not transfer to programs.
+
 ## Common Misconceptions
 
 - **"Students pair-programming with AI are learning to program."** In student-AI co-programming, **nearly 80% of interactions relied on non-learning strategies like outsourcing answers**, and only **about 1 in 9 showed deep epistemic** engagement. The dominant pattern is transacting for output.
@@ -208,3 +212,5 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[socraticrepair-program-debugging-2026]] — SocraticRepair: Planning-Guided Socratic Tutoring for Program Debugging and Misconception Repair
 - [[browser-sized-agents-slm-webllm-tutor-2026]] — Browser-Sized Agents: Small Language Models and WebLLM for Tool-Augmented AI-Assisted Programming Education
 - [[novice-se-students-oversight-genai-2026]] — Beyond Correctness: How Novice Software Engineering Students Exercise Oversight of Generative AI (Shakiba and Chaffey 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)

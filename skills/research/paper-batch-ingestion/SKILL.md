@@ -69,6 +69,16 @@ declarations, so a record written from frontmatter alone comes back short.
   preconceptions decided whether the AI became concept talk") are different sentences on
   different pages, and a batch that writes only the first has skipped the disciplines.
 
+- **A source with no PDF still gets a `raw/papers/` archive, and it has to be built, not saved.**
+  A web research release has no `pdf-sources/` entry, so grounding has nothing to read unless you
+  extract the page yourself. Fetch the HTML, keep only the article element, drop the per-number
+  provenance tooltips (`span.prov-pop`), review forms, buttons and embedded notebook cell source,
+  and preserve the printed values: those are what `verify-number-grounding.py` matches. Write
+  `raw/papers/<slug>.md` with a header giving the title, author, release name and version, the URL,
+  the DOI (or a statement that this revision has none), the retrieval timestamp and the source page's
+  sha256, and keep the raw HTML under `raw/prefetch/` for provenance. A revision can lack a DOI
+  while the version it corrects has one: record that, and cite no DOI the page in hand does not print.
+
 - A page that already carries the finding from the same source is a drop, even when the source is new to the
   wiki: check whether the *finding* is on the page, not whether the article is.
 

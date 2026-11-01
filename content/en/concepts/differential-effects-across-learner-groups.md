@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-01T07:00:00-05:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -53,6 +53,8 @@ This is the deepest strand in the knowledge base, and the one where the reportin
 - **Some AI supports equalize rather than differentiate.** [[adhd-video-segmentation-computing-education|Pimenova, Begel and colleagues]] segmented [[video-education|instructional videos]] into single-instruction chunks with fixed pauses in a within-participants study (17 ADHD, 10 non-ADHD); everyone improved, and ADHD participants' errors and hesitations fell to parity with their non-ADHD peers. That is the strongest available shape of evidence for [[universal-design-for-learning|Universal Design for Learning]] through automated content transformation: a general change that closes a gap, rather than a group-targeted fix.
 - **What neurodivergent students say they need is often mundane.** [[neurodivergent-computing-students|A survey of 24 neurodivergent computing students and 20 neurotypical peers]], with four interviews, found significant discomfort with assignments that lack clear structure or carry ambiguous expectations — an accommodation that costs nothing to provide.
 - **Design choices can also exclude epistemically.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argues that Anglophone, Western-centric training data marginalizes non-hegemonic ways of knowing and puts the situation of disabled learners at the center of that critique.
+
+- **"At the same human grade, a grader treats identified and unidentified students alike."** Across **3,000** ASAP 2.0 essays matched exactly on the adjudicated grade, **every one of the 22 models** graded the disability-identified group lower, from **−0.086** to **−0.429** on a six-point scale, and **20** read GAP REPLICATES. Convention errors and length accounted for at most a fifth of it for **17 of 20** models, and because ASAP 2.0 releases one grade, the design cannot separate a bias shared by the human panel from one shared by the models ([[porcaro-ai-grading-benchmark-2026|the reading is SHARED GAP, not model bias]]).
 
 ## Language: second-language, multilingual, and English learners
 
@@ -106,6 +108,8 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - **Gifted and high-achieving students:** effectively unstudied as a group in this corpus.
 - **Refugee, immigrant, and displaced learners:** no studies.
 - **Gender is still analysed as binary** in most of the work above, and disability categories vary across studies, so cross-study comparison of "the same" group has limits.
+
+- **"Learner context makes a grader fairer."** An ablation on **3,000** essays graded by two models found the high-low label gap the same for every group it could test, every difference within **0.045** of a level. On Qwen the low label still took **0.06 to 0.08 points** more off English learners, economically disadvantaged and disability-identified students than off their peers. With no label both models still marked the last two groups below peers at equal human score. [[porcaro-ai-grader-reliability-2026|A record that can be wrong shifts marks, and it shifts hardest on those already underestimated]].
 
 ## Using this evidence without overfitting a group label
 
@@ -169,3 +173,5 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — A knowledge-based grouping variable with direct process evidence: groups matched on prior knowledge but differing in preconception diversity took up the same AI differently (Wang et al. 2026)
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
+- [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)

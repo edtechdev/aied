@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-10-26T13:35:09-04:00"
+updated: "2026-11-01T11:00:00-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -176,6 +176,8 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 
 [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]] adds a bibliometric strand that sits apart from these four: mapping 407 records by co-word and co-authorship network to trace a field's conceptual development. The author is explicit that the SWOT reading built on top of it is an interpretive device rather than an independent analytical technique, which marks the boundary between synthesis and analysis in this tradition.
 
+- **"A statistic can be trusted once it is computed."** The benchmark checks the check first. Every probe and every verdict except six named sets of statistics was run on simulated graders with a planted effect and without one, and a measure whose check did not find the planted effect was reported as unmeasured rather than as a result. Its reports are generated from their own markdown and code, so every printed number links to the file and field it came from and is recomputed at build. [[porcaro-ai-grading-benchmark-2026|A Verdict is a design decision that can be tested]] before any real result is read.
+
 ## Common Misconceptions
 
 **"High benchmark accuracy shows educational effectiveness."** It does not, and the gap is the field's central measurement problem: a system can score high on accuracy while producing no learning, because benchmark accuracy measures task performance under the conditions the benchmark set. Educational effectiveness requires a learner outcome under conditions the technology does not control.
@@ -234,3 +236,4 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: probes whose right answer is known, planted-effect checks on simulated graders, and 22 prompted models (Porcaro 2026)
