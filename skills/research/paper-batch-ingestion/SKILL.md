@@ -82,6 +82,21 @@ declarations, so a record written from frontmatter alone comes back short.
 - A page that already carries the finding from the same source is a drop, even when the source is new to the
   wiki: check whether the *finding* is on the page, not whether the article is.
 
+## The significance bar, and what it costs to ignore it
+
+- **Most weaves are padding, and over-correcting after a missed discipline is the usual cause.**
+  A single empirical paper typically changes one to three concept pages, and a broad multi-strand
+  report four to six. More than that is annotation: the batch starts listing every page the paper
+  touches rather than the pages whose claims it moves. Screening a discipline or level page properly
+  means giving it the same evidentiary standard, not compensating by wiring in everything nearby.
+- **Every integration has to name the gap.** In the record, each integrated slug is followed by what
+  the page was missing before the weave (`was missing the distinction between ...`). If that sentence
+  cannot be written, the weave does not belong: `check-concept-screen.py` fails an integration that
+  does not state it, which is the check that caught a 10-page weave of one paper.
+- **A page that would only gain an example, an analogy, or a name is a no_change.** A naming parallel
+  (writing borrowed from coding), a second taxonomy in a field that counts its taxonomies, or a
+  corroborating case beside a claim the page already makes with better evidence all fail the test.
+
 ## The FAQ screen is a separate pass
 
 One or two FAQs per batch is normal; four plausible candidates yielding one edit is normal too.

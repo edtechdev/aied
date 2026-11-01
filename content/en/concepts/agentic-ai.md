@@ -2,7 +2,7 @@
 connected_resources: [deeptutor]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-10-30T10:50:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -74,8 +74,6 @@ A step beyond orchestrating a few specialized agents is the **full agentic multi
 
 
 **An organizational answer: the learner as a participating member rather than a recipient.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instantiate a human-participatory multi-agent organization in which specialized agents maintain a revisable Capability Program linking personal goals, multimodal activities and layered assessment, with a correctable "Human Node" carrying the learner's own evidence and challenges into later revisions. Against the closest multi-agent baseline across 96 simulated learner cases, the advantage concentrated in assessment design: 19.32 points higher on Assessment Validity (95% CI [17.55, 21.04]) and 5.89 on capability coverage, while personalization did not separate (1.35 points, interval crossing zero). In a randomized 32-learner study the knowledge gain on an objective 50-point test was 12.19 against 5.61 points.
-
-- **"An agent run cannot stand in for an API run."** It can when the prompts match. Claude Fable 5.1 had no zero-retention API route, so 20 Claude Code subagents graded batches of ten answers from a 100-answer subset, on prompts the unmodified harness rendered byte-identical to the API run's. The effect matched the API models' at **+0.31 points**. Each agent read its batch from a file, after the harness's own context, and never saw both arms of one answer. [[porcaro-ai-grader-reliability-2026|Agent-mediated measurement is reportable]] when the prompt, the batching and the blindness are documented.
 
 ## The central tension: automation vs. learning
 
@@ -229,4 +227,3 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, measured in a within-item ablation on six models (Porcaro 2026, Paper VI)

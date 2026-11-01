@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-01T06:59:43-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -29,7 +29,6 @@ Student-AI interaction is the observable surface of learners' [[student-engageme
 ### What students ask AI
 
 A core strand of research measures the **types and quality of student inquiries**. Studies apply taxonomies of question types — for example the Graesser et al. 18-type taxonomy — to classify student-AI interactions, often using few-shot classifiers to scale the analysis across hundreds or thousands of interactions. Findings indicate that a small subset of question types accounts for the majority of student inquiries, and that the questions students ask **change substantially as a task progresses** (e.g., [[student-ai-inquiry-types-cs2-2026]]). This task-dependence matters: interaction quality is not a fixed trait of the student but is shaped by problem context, [[scaffolding]], and the affordances of the AI tool. At the youngest ages, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] found children (ages 6–14) actively tested a [[conversational-ai|chatbot]]'s credibility by posing known-answer questions (e.g., "how big is a t rex") — an expression of epistemic self-agency — while the modal child asked only 1–3 questions and a standout first-grader asked 21, underscoring how developmental and individual variation shapes the questions learners pose.
-
 
 The taxonomies themselves do not yet agree: across 46 categorizations from 33 studies, similar labels name different phenomena, so the review proposes the *interaction episode* — a goal-directed, temporally bounded exchange — as a unit spanning knowledge acquisition, evaluative feedback, strategic guidance, dialogic inquiry, artifact refinement, and co-regulation ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
 
@@ -63,7 +62,6 @@ Characterizing student-AI interaction informs [[learning-design]]: instructors c
 
 Design levers can shift that default: in a roughly 70-student asynchronous physics course the graded artifact was the dialogue transcript rather than an answer, yet many students still asked long lists of questions without answering the model's Socratic follow-ups — the failure mode the criteria were written to catch ([[context-prompts-physics-assignments-2026|Rodriguez & Wulff (2026)]]).
 
-
 Teacher-authored prompts are one such lever, but enacted rigor lags the target: across 1,479 conversations, 38% under-reached the teacher's intended Depth-of-Knowledge level, approaching 50% at DOK 3, while explicit finish lines narrowed that gap by 0.22 levels and a "no direct answers" guardrail cut AI final-answer rates by 8.5 percentage points ([[teacher-authored-prompts-student-ai-dialogue|Liu et al. (2026)]]).
 
 Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]], studying 85 [[teacher-education|student teachers]] in three courses where GenAI use in [[assessment]] was explicitly permitted, found that 62.4% (53 of 85) declined to use it at all, far below the 79–83% adoption seen in comparable UK and Australian surveys, and that adopters' use was shallow and corrective rather than generative (proofreading 43.8%, clarity checks 34.4%, text generation only 18.8%). Their choices tracked assessment design and institutional culture rather than technical difficulty: 41.5% of non-adopters feared being wrongly accused of [[academic-integrity|plagiarism]], and nine of eleven interviewees read the permissive policy itself as a possible "trap." The gap between 32 survey-reported users and 28 self-declarations shows that students' *reported* AI interaction is shaped by graded consequences — a measurement caveat for learning-analytics accounts of student-AI interaction.
@@ -76,8 +74,6 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - **How much students use AI did not predict how they felt about it.** Among 819 students, gender, self-rated AI expertise and usage frequency all failed to reach significance in a MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). Heavy and light users in that sample held the same views ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **"A student cannot move a grader's mark."** They can, and it is the most persistent failure in the battery: **17 of 22** models raised their grade more after a bare objection than after a request for a second look, including **six of the eight** that had passed every gaming and blank-answer check. The largest was Llama 3.2 3B at **+33.2% of the scale**, and the request for a second look itself lowered grades for **ten** of the 17, so the contrast is not the objection's raw effect. [[porcaro-ai-grading-benchmark-2026|Grades a student can argue with need a record of the exchange]].
-
-- **"A taxonomy needs the task it is anchored to."** One coding scheme anchors instead to the writing process itself: Flower and Hayes's Planning, Translating and Reviewing, plus an **All** category for queries that delegate all three at once. Applied by two coders to **320** of **361** logged messages, it produced **26** codes at Cohen's **kappa = .89**. Planning queries came from **35 of 77** participants and Reviewing from **34**, while whole-task delegation supplied **137** queries. [[jelson-students-chatgpt-essay-writing-2026|The traces also leak]]: **14** responses to Planning queries were pasted straight into final essays, by seven writers.
 
 ## Common Misconceptions
 
@@ -121,4 +117,3 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
 - [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[jelson-students-chatgpt-essay-writing-2026]] — Queries coded against the writing process (Planning, Translating, Reviewing, All) rather than against conversational intent (Jelson et al. 2026)

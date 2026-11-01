@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-10-28T19:28:52-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -56,8 +56,6 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 - **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
 - **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
 
-- **"Retention is the provider's problem, not the buyer's."** It is a procurement condition. The benchmark asked every request to go to an endpoint that retains no data, and one frontier model had no such route, so it ran on public corpora under its maker's **30-day** safety retention as a stated exception. [[porcaro-ai-grader-reliability-2026|The reliability study]] records two providers retaining inputs for **55** and **30** days. [[porcaro-ai-grading-benchmark-2026|Asking for zero retention is a testable requirement]], and a grader with no compliant route is a documented choice, not an accident.
-
 ## Connections
 
 Privacy connects to [[learning-analytics]] (the data collector), [[personalized-learning]] (the data consumer), [[k-12]] (heightened protections), [[ethics]] (the normative framework), [[regulation]] (legal requirements), [[governance]] (institutional responsibility), [[equity-in-ai-education]] (who is protected), [[pedagogical-safety]] (child protection), and [[educational-policy-ai]] (policy responses). It is one of the foundational constraints that any responsible AI deployment in education must satisfy — the reason trustworthy AI, in the knowledge base's framing, begins with trustworthy data.
@@ -102,5 +100,3 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
-- [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
-- [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)

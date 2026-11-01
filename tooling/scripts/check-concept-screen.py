@@ -129,6 +129,15 @@ def label_slug(value):
     return value.strip().lower().replace(' ', '-')
 
 
+def has_missing_gap(reason, slug):
+    """True when `reason` names `slug` and says what the page was missing before the weave."""
+    for m in re.finditer(re.escape(slug), reason):
+        window = reason[m.end():m.end() + 320].lower()
+        if 'was missing' in window or 'were missing' in window:
+            return True
+    return False
+
+
 def concept_candidates(text, concept_slugs):
     """Every concept this article declares a link to: facet metadata plus inline links.
 
@@ -222,11 +231,20 @@ def main(argv):
             elif slug not in narrative(open(cpath, encoding='utf-8').read()):
                 problems.append('%s: claims integration into %s, but that page does not mention it' % (slug, c))
 
-        # A declared discipline or level page may not be waved off as "a setting or a
-        # population": when the article IS about that population, the page is the subject.
+        # An integration is a claim that the page could not make the claim without this study.
+        # Padding happens when a screen lists every page the paper touches; naming the gap the
+        # weave fills, in the record, is the check that separates the two.
+        reason_text = str(entry.get('reason') or '')
+        for c in integrated:
+            cs = label_slug(str(c))
+            if not has_missing_gap(reason_text, cs):
+                problems.append(
+                    '%s: integration into %s does not say what the page was missing - write "%s '
+                    '(...): was missing <the gap>" in the reason, or drop the weave'
+                    % (slug, cs, cs))
+
         # Dismissal needs a coverage count from that page, quoted next to its own slug.
         declared = declared_labels(text)
-        reason_text = str(entry.get('reason') or '')
         for c in (entry.get('no_change') or []):
             cs = label_slug(str(c))
             if cs in declared and not has_page_evidence(reason_text, cs):
