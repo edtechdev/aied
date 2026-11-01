@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-10-29T10:45:00-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -47,6 +47,8 @@ Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (202
 Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. (2026)]] operationalize problem solving as four stages and eight diagnostic sub-skills so an LLM can generate stage-specific questions and rubrics; five teachers and 64 students used the system on 90 problems and 720 sub-questions, with a mean System Usability Scale score of 83.5.
 
 Required documentation proved feasible at course scale: across six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers, checkpoint submissions averaged 96% completion, and later iterations that added explicit prompt templates produced longer and visibly more substantive reflections [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
+
+- **"Process evidence needs a special assessment regime."** Some of it is an afternoon of instrumentation: a study of **77** college essay writers used a CodeMirror editor logging insertions, deletions, selections, cuts, copies and pastes with timestamps, beside an in-house chat panel on the default API, and captured **361** messages. The same traces showed that **14** responses to planning queries were pasted into final essays, which no product-level report would have revealed. The honest limit is in the instrument: typed words count as the student's even when rephrased from a response, so the boundary between typing and thinking is invisible. [[jelson-students-chatgpt-essay-writing-2026|Logging the process is cheaper than designing for it]].
 
 ## A different axis from authenticity, and from marking
 
@@ -115,3 +117,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[stepwise-teacher-diagnosis-math-2026]] — STEPwise: Supporting Teachers in Diagnosing Students' Mathematical Problem-Solving Skills through LLM-Generated Questions
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Checkpoint documentation of AI dialogue held at 96% completion across six semesters and about 440 teachers
 - [[rubrics-genai-process-based-assessment-2026]] — Three rubric dimensions from Biggs's 3P model: agency and supervision, dialogic scaffolding, cognitive sovereignty (Oviedo & Díaz 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — A CodeMirror editor plus a logged chat panel turned one essay session into process evidence, with its typing-versus-thinking limit (Jelson et al. 2026)

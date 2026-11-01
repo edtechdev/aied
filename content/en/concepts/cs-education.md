@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -126,6 +126,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - **"The effect is the same at every stage of a course."** It grew with the work: on **60 complete Java programs** graded on a **14-level** rubric, the label's effect was **2.8 times** its short-answer size on GPT-4.1-mini and **2.4 times** on Qwen, though only **0.4 times** on Gemini. [[porcaro-ai-grader-reliability-2026|Task and rubric are part of what the effect measures]], so a size validated on short answers does not transfer to programs.
 
+- **"Delegation is a coding-workflow problem."** The same pattern appeared in writing, and the authors named it after its coding counterpart: **Vibe Writing**, where a student steers with high-level prompts and reviews drafts while the model composes. The instructive case is one participant whose **641-word** essay was **87.1%** model-written across **11 queries**, with turns such as "just act like you're a 1900s sci-fi writer". [[jelson-students-chatgpt-essay-writing-2026|One in five students handed over the whole artifact]], the delegation risk the computing classroom already knows from code.
+
 ## Common Misconceptions
 
 - **"Students pair-programming with AI are learning to program."** In student-AI co-programming, **nearly 80% of interactions relied on non-learning strategies like outsourcing answers**, and only **about 1 in 9 showed deep epistemic** engagement. The dominant pattern is transacting for output.
@@ -214,3 +216,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[novice-se-students-oversight-genai-2026]] — Beyond Correctness: How Novice Software Engineering Students Exercise Oversight of Generative AI (Shakiba and Chaffey 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Vibe Writing, named after vibe coding: steering with prompts while the model composes, and one in five essays with no student-typed words (Jelson et al. 2026)

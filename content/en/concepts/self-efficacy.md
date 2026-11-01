@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-28T01:06:31-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -61,6 +61,8 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - **Self-efficacy interacts with format preference, not just with outcomes.** A counterbalanced within-subject study (97 ninth-graders; content-matched tutor-based vs. paper-based practice of graph interpretation and construction) found tutor-based practice beat paper overall (t(62.30) = 2.38, p = .020), and — counterintuitively — lower baseline self-efficacy predicted *greater* gains in both formats (t(98.40) = −2.14, p = .035). The interesting structure is a significant three-way self-efficacy × favorability × format interaction (t(99.84) = −2.58, p = .011): among low-self-efficacy students, favorability toward the tutor predicts larger gains *specifically in tutor practice*. A sobering null for the assumption that tutor practice is motivationally self-reinforcing: ITS practice did not significantly improve post-training self-efficacy over paper — attributed to the short intervention (two ~40-minute sessions). The practical signal: baseline self-efficacy and technology favorability are cheap, actionable inputs for format assignment; tutor practice capitalizes on existing favorability rather than creating it. ([[cen-self-efficacy-favorability-2026]])
 - **Knowledge reached intention through trust, anxiety and self-efficacy.** In a PLS-SEM model of 526 design students, perceived AIGC knowledge was positively associated with trust, self-efficacy and usage intention and negatively with anxiety, and trust, anxiety and self-efficacy each carried a significant indirect path from knowledge to intention ([[wei-perceived-technological-dependence-genai-2026|Wei et al., 2026]]). Anxiety sat on the pathway rather than blocking it.
 
+- **"Low writing confidence shows up as a request for help."** It shows up as a request for prose. In an instrumented essay study, the Self-Efficacy for Writing Scale predicted total queries negatively (**-0.258**, SE **0.075**, p < 0.001), and the association ran through Translating (**-0.949**) and Reviewing (**-0.588**) rather than Planning (**-0.204**) or whole-essay delegation (**-0.016**). Students who doubted their writing asked the model to produce and correct text; they did not ask it what to argue. [[jelson-students-chatgpt-essay-writing-2026|Self-efficacy predicted reliance, and the reliance took a specific shape]].
+
 ## Common Misconceptions
 
 - **"Students who lack confidence avoid AI."** The opposite pattern appears: in a **153-student proof course**, one point higher baseline self-efficacy predicted **39% fewer chatbot messages**. Low confidence routed into **heavier** AI use — the students most in need of practice were the ones most likely to offload it.
@@ -106,3 +108,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[ai-speaking-practice-communicative-readiness-2026]] — Speaking self-efficacy reverses the anxiety pathway from AI-assisted practice to willingness
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
 - [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — The Self-Efficacy for Writing Scale predicted more Translating and Reviewing queries, and no more Planning or whole-essay delegation (Jelson et al. 2026)

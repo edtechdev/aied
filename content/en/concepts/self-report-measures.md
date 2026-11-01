@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-10-28T19:13:23-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -81,6 +81,8 @@ The instrument literature itself can be read as evidence of the gap's scale. [[a
 Outcome measures inherit the same gap. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] model the path from [[agentic-ai|agentic AI]] through motivation and social presence to what they label learning performance with a coefficient of 0.671 — the strongest relationship in the study — and their own limitations section states that this dependent variable reflects learners' perceptions and not exam results, assignment performance or learning analytics. That is the pattern to read carefully in pathway models generally: a large coefficient on a perceived outcome quantifies how consistently students believe something helped, and says nothing yet about whether it did.
 
 Intention is the sharpest case of that gap, because one intention score can cover opposite behaviors. Re-administering items to 68 of the 340 students and interviewing eight, [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] found the same stated intention covering learning-oriented, shortcut-oriented and mixed use — the shortcut users citing low confidence rather than disinterest.
+
+- **"Students report what they did."** The trace contradicted the survey in a useful direction. In an essay study where **15 of 77 (19.5%)** submitted essays with no typed words, perceived ownership fell only in that fully delegating group, while writers who used the model for planning or reviewing reported ownership at the level of students who never opened it. Self-report therefore distinguished the extremes and flattened everything between them, which is what a perception measure can do and what it cannot. [[jelson-students-chatgpt-essay-writing-2026|The perception-behavior gap, measured with keystrokes]].
 
 ## Satisfaction and perceived learning as outcomes
 
@@ -190,3 +192,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
 - [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profiles derived from self-report behave the same way
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Two-phase review putting a rate on same-construct self-report versus performance disagreement (Fan et al. 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership separated whole-essay delegation from everything else, while the trace separated much more (Jelson et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -77,6 +77,8 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 
 - **"A student cannot move a grader's mark."** They can, and it is the most persistent failure in the battery: **17 of 22** models raised their grade more after a bare objection than after a request for a second look, including **six of the eight** that had passed every gaming and blank-answer check. The largest was Llama 3.2 3B at **+33.2% of the scale**, and the request for a second look itself lowered grades for **ten** of the 17, so the contrast is not the objection's raw effect. [[porcaro-ai-grading-benchmark-2026|Grades a student can argue with need a record of the exchange]].
 
+- **"A taxonomy needs the task it is anchored to."** One coding scheme anchors instead to the writing process itself: Flower and Hayes's Planning, Translating and Reviewing, plus an **All** category for queries that delegate all three at once. Applied by two coders to **320** of **361** logged messages, it produced **26** codes at Cohen's **kappa = .89**. Planning queries came from **35 of 77** participants and Reviewing from **34**, while whole-task delegation supplied **137** queries. [[jelson-students-chatgpt-essay-writing-2026|The traces also leak]]: **14** responses to Planning queries were pasted straight into final essays, by seven writers.
+
 ## Common Misconceptions
 
 - **"Interaction taxonomies are settled."** **Across 46 categorisations from 33 studies, similar labels name different phenomena**, which is why the review proposes the *interaction episode* as the unit. A coding scheme borrowed from one taxonomy may be measuring a different construct.
@@ -119,3 +121,4 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
 - [[three-pathways-student-ai-interaction-2026]] — Three Pathways typology of student-AI interaction: 46% Passive Review, 18% Direct Question, 36% Strategic Dialogue
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Queries coded against the writing process (Planning, Translating, Reviewing, All) rather than against conversational intent (Jelson et al. 2026)

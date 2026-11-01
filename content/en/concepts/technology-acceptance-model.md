@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -80,6 +80,8 @@ A recent extension inverts the usual direction, placing subject-specific motivat
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
+- **"A model that predicts adoption predicts use."** In one instrumented essay study it did not: acceptance did not predict total queries, and its two halves split on whole-essay delegation. Perceived usefulness was positive for that category (**0.282**, SE **0.106**, p < 0.01) while perceived ease of use was negative (**-0.277**, SE **0.103**, p < 0.01). Students who found the tool useful handed over the task; students who found it easy did not, which the authors read as a wider repertoire of uses. [[jelson-students-chatgpt-essay-writing-2026|Acceptance measures intention, and intention hid opposite behaviors]].
+
 ## Common Misconceptions
 
 - **"TAM's constructs explain adoption."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh and explained **64% of** the variance. Substantial and incomplete at once: roughly a third of what drives adoption sits outside the classic acceptance constructs.
@@ -131,3 +133,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
 - [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link
+- [[jelson-students-chatgpt-essay-writing-2026]] — Perceived usefulness and ease of use pointed opposite ways on whole-essay delegation, and acceptance did not predict total use (Jelson et al. 2026)

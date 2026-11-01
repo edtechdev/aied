@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -91,6 +91,8 @@ Learner agency is not only a static individual trait — it is also an **emergen
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigor, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
 A structural reading of agency appears in [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma's joyful assessment framework]], where agency is treated as a design property rather than motivation: students choose the order of tasks, set the pace, and signal when an interaction ends, so support is available while responsibility for the work stays with the learner. The mechanism they name is appraisal — rehearsing without an audience and choosing when to begin shifts what a task means, from verdict to something a student can shape — and they argue repeated experience of that shift is what settles occasional feelings of efficacy into an everyday stance toward assessment.
+
+- **"Using AI more reduces students' sense of authorship."** Not linearly. In an instrumented essay study, perceived ownership dropped only for the group that delegated whole essays, while students who used the model for planning or for reviewing matched the ownership of students who never opened it. The same group also scored higher on essay readability, so the artifact looked better as the authorship thinned. Agency tracked how the tool was used rather than whether it was used. [[jelson-students-chatgpt-essay-writing-2026|Authorship is a function of delegation, not of usage]].
 
 ## Agency vs. learner identity
 
@@ -187,3 +189,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[porath-interpretive-authority-2026]] — Interpretive Authority Matrix and Ecological Authority Integration Model: four configurations of who interprets, and the ecological layers that shift them
 - [[gyekye-selves-apprenticeship-2026]] — Students of color in apprenticeship programs authored themselves through AI via refusal, negotiation, and recognition ("cultural flatness"); Institutional AI Literacy and Recognition Bandwidth
 - [[chang-shared-epistemic-agency-gai-scientific-writing-2026]] — Shared epistemic agency in 6,788 ChatGPT-assisted turns of secondary-school science writing (Chang et al
+- [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership fell only where the whole essay was delegated; planning and reviewing users matched non-users (Jelson et al. 2026)

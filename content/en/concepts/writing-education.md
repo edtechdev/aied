@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -123,6 +123,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 - **"Anonymous marking is only a fairness gesture."** It is also an experimental control, and removing it moved marks. Answers graded with a true or swapped attainment label in the prompt differed by **0.28 to 0.75 points** on a ten-point scale on every model tested, and the shift ran through the student description rather than the work (pooled **rho = +0.84**). A grader told the student's record is not marking the essay alone. [[porcaro-ai-grader-reliability-2026|Withholding learner context is the automated equivalent of anonymous marking]].
 
+- **"Asking for a paragraph and asking for an essay are the same kind of help."** Trace data separates them. Across **361 logged messages** from **77** college essay writers, requests that handed over planning, drafting and revision at once were the largest category: **137** such queries from more than half the participants. Within it, **20** asked for a whole essay, and **15 of the 77 (19.5%)** submitted essays with no typed words of their own. Asking for a paragraph around an idea was the smallest category, at **10** participants. [[jelson-students-chatgpt-essay-writing-2026|Coding every query against the writing process]] shows what a finished essay cannot.
+
 ## Common Misconceptions
 
 **"AI writing support is just faster writing."** Writing is a cognitive, social and rhetorical process, not merely output, which is why AI can displace the very mental work that makes writing a learning activity. The design guidance that follows is *coaching, not composing*: have the system question and critique outlines while the learner produces the prose. A tool that generates the draft has removed the thinking the assignment existed to develop, however good the draft is.
@@ -205,3 +207,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, measured in a within-item ablation on six models (Porcaro 2026, Paper VI)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Delegation measured from traces: 137 whole-task queries, 15 students submitting essays with no typed words (Jelson et al. 2026)

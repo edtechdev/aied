@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-10-29T10:20:00-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -74,6 +74,8 @@ The lab findings line up with field and observational work that independently re
 - **The model's own contribution.** [[sycophantic-ai-social-interaction-2026|Sycophancy]] is the complement to surrender: an assistant that agrees, hedges toward the user's framing, or states a claim fluently gives the learner nothing to push against.
 - **Withdrawal is the unresolved half.** [[cognitive-washout-ai-skill-decay-2026|Work on cognitive washout]] points out that almost all of this research measures cognition *during* AI use, and almost none measures what happens when the assistant is taken away, which is exactly the question an exam, an outage or a license review poses.
 
+- **"Whole-essay delegation stays hypothetical outside the lab."** It happened in a one-session online study with no policy and no encouragement. Of **77** college writers, **15 (19.5%)** submitted essays that were **100%** written by the model, without typing a word in the editor, and **20** participants asked outright for an entire essay, the most used code in the scheme. The heaviest user submitted **27** queries. [[jelson-students-chatgpt-essay-writing-2026|Surrender showed up as a request pattern]], not as a single detectable act.
+
 ## Designing and teaching against surrender
 
 - **Make verification the assignment, not the advice.** Require a stated first answer before the AI is consulted, and require students to name the points where they overrode it. This turns an invisible judgment step into a gradeable artifact.
@@ -133,3 +135,4 @@ The evidence for surrender as a named construct rests heavily on one program of 
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
 - [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — A worksheet-grounded assistant lowered offloading rather than raising it, a boundary condition for the surrender signature (Braun 2026)
+- [[jelson-students-chatgpt-essay-writing-2026]] — Naturalistic whole-essay delegation: 15 of 77 essays entirely model-written, 20 requests for a complete essay (Jelson et al. 2026)

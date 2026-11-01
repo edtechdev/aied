@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-10-25T14:15:00-04:00"
+updated: "2026-11-01T14:00:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -86,6 +86,8 @@ A faculty-level case study in this knowledge base supplies the organizational la
 - Report the vibe-coding condition (pure versus code-visible) alongside outcomes, and use expert-vetted, GUI-oriented tasks rather than self-reported success, so results are comparable across studies.
 - Measure artifact diversity, not only artifact count or builder count, if the access argument is being tested.
 
+- **"Steering an artifact into existence is specific to code."** It transferred to prose, and the writing study named it after this one: **Vibe Writing**, where the student composes a specification and reviews drafts while the model composes the text. One participant's **641-word** essay was **87.1%** model-written across **11 queries**, steered by turns such as "Channel your inner science journal". What makes the mode hard to see is that it draws on several query types at once, so no single action identifies it, and no code alone can say what it cost the learning. [[jelson-students-chatgpt-essay-writing-2026|The essay-side counterpart of vibe coding]].
+
 ## Connected Concepts
 
 - [[generative-ai]]
@@ -112,3 +114,4 @@ A faculty-level case study in this knowledge base supplies the organizational la
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI intrapreneurship: faculty building their own tools, and the organizational enablers that decide whether the impulse survives (Zimmer 2026)
 - [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[jelson-students-chatgpt-essay-writing-2026]] — Vibe Writing: the same specify-and-steer mode applied to essays, with one in five essays entirely model-written (Jelson et al. 2026)
