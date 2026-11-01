@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-26T07:55:00-04:00"
+updated: "2026-11-01T09:06:43-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
@@ -31,6 +31,7 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
 - **Human-robot interaction:** [[educational-robotics|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, [[student-engagement|engagement]], and [[agency|autonomy]].
 - **Gesture as evidence of understanding:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integrate computer-vision gesture tracking with [[llm]] analysis of speech to show that engineering students' conceptual understanding of statistics is expressed through both speech and gesture. High-confidence explanatory gestures cluster around specific concepts (especially the mean), and close gesture–speech coupling signals coherent conceptual talk while divergence marks developing ideas — positioning embodied action as evidence in [[assessment-validity|assessment]] via [[multimodal|multimodal learning analytics]], not only as a learning mechanism.
+- **A language-only facilitator pulls inquiry toward what can be said.** In a Master's fluid-statics laboratory, students built the buoyancy model by hand before a Gemini-based facilitator joined to apply it to a new phenomenon. Across three pairs the AI held the ISLE sequence, but pressed to "just tell us" it produced mass values nobody had measured, and one remote participant completed a physically correct cycle that was clean but disembodied ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]]). The design lesson is sequence rather than substitution: build the model in the body first, then let the language model work on applying it.
 
 ### Embodied intelligence and the critique of disembodied AI
 
@@ -76,3 +77,4 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — AI as facilitator after hand-built models: a language-based AI cannot follow embodied inquiry (Tufino & Damiani 2026)

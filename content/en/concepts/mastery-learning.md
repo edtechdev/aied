@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-10-25T21:20:00-04:00"
+updated: "2026-11-01T09:06:43-05:00"
 reviewed_by: [editor]
 ---
 
@@ -41,6 +41,7 @@ With a running model of mastery, the system's job becomes deciding *what to pres
 ## Practice, Retention, and the Limits of AI Support
 
 Mastery also depends on durable retention, not merely a single correct performance. Cognitive science on [[retrieval-spacing-interleaving|retrieval practice]] and the forgetting curve motivates spacing practice after the mastery threshold is reached. AI spaced-repetition systems such as Memdora generate practice materials at the point of reading and offer a taxonomy of cognitively grounded retrieval interactions, scheduled by state-of-the-art algorithms, so that achieved mastery is reinforced over time rather than lost within hours. These designs draw on [[cognitive-psychology]] and the principle of [[desirable-difficulties]] to make the effort of retrieval itself part of the learning process.
+**The retention claim has a measurement now, and mastery models fail it.** Trained on Session 1 to predict performance one week later, the Additive Factors Model and BKT overestimated next-session performance by roughly 58% and 51%, BKT-Forgetting by 47%, and none reproduced the observed spacing effect across 88 participants learning 48 word pairs in six sessions. Retrospective full-dataset fitting made the same models look acceptable (AUC 0.79, 0.77 and 0.74), so a mastery system's retention claim is only as good as its validation method ([[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan & Carvalho, 2025]]).
 
 Finally, the evidence warns against assuming AI-generated support is uniformly beneficial. In a multi-[[governance|institutional]] study of AI-generated animated traces for novice programmers, benefits were context-dependent and short-term, and mid-[[student-engagement|engagement]] learners experienced a performance decrement attributed to coordination costs — an expertise-reversal-style effect that underscores the need to personalize support to the learner's current state rather than blanket-apply a tool. Likewise, a developmental continuum of [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] positions mastery as not merely adopting AI tools fluently but progressing through stages of informed and critical use, each with its own [[formative-assessment]] strategies. Together these findings frame AI-enabled mastery learning as a system that must be calibrated to individual learners, sustainably spaced, and assessed for genuine competence rather than fluent output.
 
@@ -76,3 +77,4 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
 - [[noh-simulating-task-selection-2026]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh et al. 2026)
+- [[schuetze-knowledge-tracing-forgetting-2026]] — Knowledge tracing overestimates next-session performance and misses the spacing effect (Schuetze, Yan & Carvalho 2025)

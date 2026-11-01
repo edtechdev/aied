@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-26T01:30:00-04:00"
+updated: "2026-11-01T09:06:43-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -28,9 +28,11 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 ### How storytelling appears in the knowledge base's research
 
 - **Robot-mediated storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like interactive digital storytelling robot, finding significant gains in behavioral and cognitive engagement over paper and PowerPoint methods; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities from [[curriculum-design|curriculum]] content.
+- **Engagement gains have a size, and motivation did not follow.** MotiBo finished 27.06% and 30.00% ahead of paper and PowerPoint on behavioral and cognitive engagement (both p < .05), while intrinsic motivation rose 20.21% without reaching significance (p = .07). Engagement moved, motivation did not clear its threshold, and the five-day quasi-experiment measured no learning outcome ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).
 - **Co-creative narrative HRI:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative study]] explores human-robot co-creation of stories, integrating generative models for contextually appropriate interaction.
 - **Narrative and creativity:** Storytelling supports [[creativity]] and [[language-learning|language]] development, and is used to enhance motivation and engagement in [[k-12]] settings.
 - **Digital storytelling as a counterweight to AI:** As [[generative-ai|generative AI]] ascends, digital storytelling is reframed as a vehicle for the emotional, cultural, and narrative capacities that AI lacks. In a [[project-based-learning|project-based learning]] model for art and design education, students translated local cultural heritage into [[multimodal]] narratives across 92 digital storytelling works, demonstrating how storytelling sustains human creativity in the AI era.
+- **Generated narrative is easy to produce and hard to keep coherent.** With 22 STEM students, AI-generated interactive fiction rated well on narrative clarity (M = 4.11) and length (M = 4.14), but engagement sat at the neutral midpoint (M = 3.08) and story-content coherence was weakest (M = 2.92) ([[ai-generated-interactive-fiction-education-2026]]). Co-creation inherits that weakness at the layer a story is supposed to do its work.
 
 Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
 
@@ -60,3 +62,4 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[ai-generated-interactive-fiction-education-2026]] — AI-generated interactive fiction: coherence as the weak dimension in a 22-student pilot

@@ -1,7 +1,7 @@
 ---
 title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-10-26T02:00:00-04:00"
+updated: "2026-11-01T09:07:05-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, misconceptions, scaffolding]
 technology: [generative-ai]
@@ -40,6 +40,8 @@ In AI in education, the core finding is that the *format* and *interactivity* of
 ### Refutation text vs. related techniques
 
 Refutation texts are one member of the conceptual-change toolkit, alongside analogies, discrepant events, and interactive dialogue. Their advantage is that they are **scalable, low-cost, and demonstrably effective**; their limitation is that static texts cannot adapt to the learner. AI dialogue addresses the adaptation gap but introduces design-dependence (personalization, prompt quality) and, in some studies, no advantage over well-crafted text. The relationship between refutation text and AI dialogue is thus complementary: text offers reliable baseline correction at scale; personalized AI dialogue offers stronger, faster, more motivating correction when well designed.
+
+The two studies behind that design-dependence differ in more than domain. Corbett and Tangen randomized 375 adults aged 19 to 78 and targeted each participant's own highest-rated misconception in a single three-round dialogue; the dialogue's advantage over textbook refutation held at 10 days but had converged by two months ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett and Tangen, 2026]]). Akdoğan's 413 tenth-graders in Ankara received one scripted prompt session rather than a personalized one, and the interactive condition showed no advantage over control while both expert-written and AI-generated texts did ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan, 2025]]). Personalization and retention window, not interactivity as such, separate the results, and the decay curve is the practical finding: one dialogue buys weeks of correction, not durable belief change.
 
 ### Key research themes
 

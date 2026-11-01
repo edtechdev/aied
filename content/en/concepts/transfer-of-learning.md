@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-10-25T22:20:00-04:00"
+updated: "2026-11-01T09:06:43-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -88,6 +88,8 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 3. **Individual differences:** Do high-[[prior-knowledge]] students suffer less transfer loss than novices?
 4. **Skill remediation:** Can explicit "AI-off" practice sessions reverse tool dependence?
 
+The time-scale question now has a formalization. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] names the post-withdrawal interval cognitive washout and gives it four candidate outcomes: elastic rebound, partial plateau, latent scaffold and over-recovery. Reversibility, the paper argues, is what determines severity, and it proposes a preregistrable three-arm, twenty-two-week protocol to measure it. The studies above tested transfer hours after assistance ended, so the weeks afterward are the part of this page's first open question that remains genuinely unmeasured.
+
 ### Connections to related concepts
 
 Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
@@ -133,3 +135,4 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 
 - [[ai-speaking-practice-communicative-readiness-2026]] — AI-assisted speaking practice raised willingness toward humans but no study observed human speaking
 - [[aifred-desk-robotic-ai-guidance-2026]] — AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk
+- [[cognitive-washout-ai-skill-decay-2026]] — Cognitive washout: the post-withdrawal interval and a 22-week measurement protocol (Yajee 2026)

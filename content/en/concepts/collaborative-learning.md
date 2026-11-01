@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T07:00:00-05:00"
+updated: "2026-11-01T09:08:22-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -75,6 +75,7 @@ Process mining put AI query negotiation at an integration hub in diverse groups,
 
 Collaborative learning occupies the top of the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive): the *interactive* mode — co-constructing meaning through dialogue, defending a position, or solving jointly — produces the deepest knowledge change in Chi's taxonomy. This makes ICAP both a justification for collaborative pedagogies and a design constraint on AI. An AI that mediates discussion (as [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] or [[golrang-propact-pair-programming-2026|ProPACT]] do) is valuable precisely when it sustains *interactive* engagement; an AI that answers for the group or smooths over cognitive conflict can downgrade collaboration to a mere *active* or *passive* mode. ICAP-based annotation (see [[icap-cognitive-engagement-llm-agents|extended ICAP measurement of collaborative dialogue]]) and facilitation-timing research both treat the quality of interactive discourse as the outcome of interest, grounding collaborative learning in [[student-engagement]] and the ICAP hierarchy.([[icap-cognitive-engagement-llm-agents]])([[llm-facilitation-timing-online-discussions]])
 - **GenAI can take the moderator seat rather than the tutor seat.** Chen et al. (2026) ran a 16-week quasi-experiment with 64 undergraduates in which both conditions had an AI agent and a structured platform, and only the regulation scaffolding differed: an adaptive SSRL agent versus static digital worksheets ([[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen et al., 2026]]). The adaptive group showed higher participation equality but not higher intensity, the signature of redistribution rather than more talk.
+- **Interactive is not automatically deeper.** In an eight-week quasi-experiment with 87 undergraduates, pairs working with a GenAI multi-agent system produced the best design projects (M = 89.64 against 86.45 for solo work on the same system). Critical-thinking awareness gains ran the other way: largest solo (M = 0.41), near flat for peer collaboration (M = 0.06) and slightly negative for the paired AI condition (M = -0.04) ([[bjet-many-hands-make-light-work-2026|Chu, Dai and Zhai (2026)]]). The configuration changed which kind of thinking was activated rather than how much of it.
 
 ## Practical guidance
 
@@ -156,3 +157,4 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[chen-bertopic-ai-online-learning-research-topics-2026]] — Socially oriented AI-collaboration work never became a dominant topic in 1,048 publications
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Group epistemic configuration decided where the AI sat: an integration hub in diverse-preconception groups, a linear query-then-process path in similar ones, at equal prior knowledge (Wang et al. 2026)
+- [[bjet-many-hands-make-light-work-2026]] — Pairs with a multi-agent system produced the best projects while solo work produced the largest critical-thinking gains

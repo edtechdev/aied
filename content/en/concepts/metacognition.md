@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-29T10:20:00-04:00"
+updated: "2026-11-01T09:06:35-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -72,6 +72,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Assign an AI-use level per task.** HAIML pairs its three layers with Four AI Use Levels — from no AI use, through brainstorming, to AI collaboration and AI-integrated creation with output evaluation — so an instructor sets the level for a task and keeps metacognitive reflection central at every level ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 - **An emerging framing puts the system, not just the individual, in the loop.** A bibliometric–systematic review of 135 STEM-classroom studies (24 core studies) finds a posthumanist framing emerging that positions AI as a co-regulator of learning, shifting the unit of analysis from individual reflection to system-level [[regulation]] and [[distributed-cognition|distributed cognition]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+**At synthesis scale the pattern holds, and it thins as measurement sharpens.** A three-level meta-analysis of 54 (quasi-)experimental studies (121 effect sizes, 7,431 learners) put AI's effect on metacognition at g = 0.624 (95% CI [0.431, 0.817]), with 107 of 121 effects positive and gains rising with exposure from g = 0.381 under a week to g = 1.638 at 15 to 20 weeks ([[ai-metacognition-three-level-meta-analysis-2026|Li et al. (2026)]]). Measurement source was the decisive moderator: self-report g = 0.776, behavioral observation g = 0.514, and accuracy ratings, the gap between judged and actual performance, g = 0.035 and non-significant. The gain is largest where it is easiest to claim and near zero where monitoring is scored against performance, which is the self-report problem the studies above keep running into.
 
 **Metacognition is among the least-studied outcomes.** In a scoping review of 394 GenAI higher-education studies, metacognition and self-regulated learning were among the outcomes targeted least, alongside ethics and creativity ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 
@@ -201,3 +203,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[karaki-think-aloud-ethical-genai-2026]] — Think Aloud made prompt construction, verification and ethical reasoning visible, but critical evaluation stayed surface-level; not a stand-alone solution
 - [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Metacognitive training and AI-based Socratic scaffolding in pre-service teachers' reflective practice: a dual-study experimental design
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: an experimental account of suspended metacognitive engagement and rising disorganization (Braun 2026)
+- [[ai-metacognition-three-level-meta-analysis-2026]] — Three-level meta-analysis: pooled g = 0.624, falling to non-significance for accuracy-rated monitoring (Li et al. 2026)

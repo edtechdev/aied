@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-10-25T23:15:00-04:00"
+updated: "2026-11-01T09:06:43-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -33,6 +33,7 @@ The knowledge base's [[research-methods-aied|research]] documents both sides of 
 
 - **AI can support SDL.** [[ai-lifelong-learning-policy|AI and lifelong learning]] and [[self-directed-growth-generative-ai-learning-analytics|self-directed growth with GenAI + learning analytics]] show that AI tools can [[scaffolding|scaffold]] independent inquiry, provide on-demand resources, and personalize learning paths in ways that strengthen learner autonomy. [[genai-educational-outcomes-meta-analysis|Meta-analytic evidence]] on generative AI educational outcomes and [[conversational-ai-informal-learning|conversational AI in informal learning]] suggest positive potential when AI is used as a resource the learner directs.
 - **Learners want a thinking partner, not an oracle.** Interviewed adult learners wanted AI to prompt reflection and verify rather than supply answers, and to leave them in control of the learning path rather than prescribe it ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
+- **Delegating goal choice is not the same as supporting it.** The page treats setting the goal as the learner's core act, and the benchmark evidence says models do it differently. Against 175 humans, GPT-5, Claude Sonnet 4.5 and Qwen3 32B re-selected the previous goal on 0.93, 0.93 and 0.94 of trials, against 0.54 ± 0.18 for people. Goal entropy was 0.12 to 0.20 against 1.67 ± 0.14, and chain-of-thought and persona prompts did not close the gap. A system that proposes what to learn next reproduces a narrower search than the learner it stands in for ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
 - **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the knowledge base.
 
@@ -97,3 +98,4 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[an-goel-self-directed-modeling-2026]]
+- [[llm-goal-selection-self-directed-learning-2026]] — Models do not select learning goals like humans in a free-choice task (Molinaro et al. 2026)

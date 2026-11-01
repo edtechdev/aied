@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-26T01:30:00-04:00"
+updated: "2026-11-01T09:07:25-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -33,6 +33,8 @@ Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental 
 
 The ZPD (Vygotsky) is the sociocultural concept most widely applied in [[intelligent-tutoring|AI tutoring]]: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an [[intelligent-tutoring|AI tutor]] should provide so learning advances without being given away — see [[stanford-evidence-base-ai-k12-2026]].
 
+Machine-made help can land inside that zone. In a randomized study of 274 adult learners across four mathematics subjects, ChatGPT-generated worked-solution hints produced a 17.00% pre-to-post gain against 1.85% with no hints, while human tutor-authored hints produced 11.62%; the two help conditions were not statistically separable ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos and Bhandari, 2024]]). The error rate qualifies the equivalence: 32% of the generated hints failed quality checks until self-consistency prompting cut that to near zero in the three algebra subjects and 13% in statistics. A more knowledgeable other that is wrong one time in three is still a mediational agent, which is why the machine's contribution has to be checked before a learner builds on it.
+
 ### Sociocultural learning in AI education
 
 Sociocultural theory shapes AIED [[research-methods-aied|research]] in several distinct ways:
@@ -41,6 +43,7 @@ Sociocultural theory shapes AIED [[research-methods-aied|research]] in several d
 
 - **A stage-sensitive account of AI's regulatory role.** [[ai-cognitive-partner-co-regulation-learning|A developmental framework of human–AI co-regulation]] gives AI four roles — scaffold, metacognitive support, external memory, and decision partner — and places them by stage: structured external regulation in early childhood, a [[metacognition|metacognitive]] partner in middle childhood and adolescence, and a collaborator on complex cognition in adulthood.
 - **ZPD-calibrated scaffolding.** [[intelligent-tutoring|AI tutors]] should dynamically calibrate help to sit within each learner's zone. [[stanford-evidence-base-ai-k12-2026]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[golrang-propact-pair-programming-2026]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
+- **The signal for leaving the zone is aim, not depth.** A tutor that escalates and fades per decision point conceded 65.0% of the time after a turn about a *different* decision, twice the rate for turns aimed at the decision under support, and depth of reply did not order the outcomes ([[adaptive-scaffolding-contingency-comet-tutor-2026|Hou et al. (2026)]]). Withdrawal assumes a learner who answers: take-up fell from 37.0% after the first ask to 21.8% after the third, so a hush is not evidence of readiness.
 - **A fourth zone: what the model knows.** [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] extend Vygotsky's diagram rather than the tutoring loop, adding a *known to [[generative-ai|GenAI]]* zone to the ZPD and reading off four sub-zones that classify what a task should be assigned to: Substitute (no task-specific knowledge, so the model's general competence carries it), Aid (partial knowledge, augmented), Complement (enough knowledge to supervise the model's output), and Non-negotiable (enough to do it unaided, so delegation adds little). [[scaffolding|Scaffolding]] is expressed as task assignment rather than hint delivery, and a [[metacognition|metacognitive]] loop of real-time evaluation, reflection and learning is what moves a task between sub-zones over time.
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
 - **Cultural and [[governance|institutional]] context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
@@ -89,3 +92,5 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — LLM-authored hints matched human tutor hints on mathematics learning gains (Pardos & Bhandari 2024)
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Fading on what the learner's turn is aimed at, not on how deep the reply is

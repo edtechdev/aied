@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-01T09:07:36-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
@@ -64,6 +64,7 @@ Empirical work repeatedly finds a gap between espoused constructivist goals and 
 This pattern generalizes across the field:
 
 - When generative AI completes writing, reasoning, or code for students, the learner loses the constructive thought process the task was designed to build — the concern central to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]].([[generative-refusal-ai-tools-for-thought]])
+- The loss is now measurable, and it follows the work rather than the tool. In 26,811 Chinese secondary students, generative AI raised homework scores by 18% and cut completion time by 30%, while closed-book exam scores fell 20% within six months. The decline concentrated among the roughly 81% of users whose completion times indicated homework outsourcing, and users who kept homework time comparable to non-users learned as efficiently ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]]). The variable that predicted learning was not AI use but whether the learner still performed the construction.
 - AI implementations that emphasize adaptive feedback and efficiency frequently under-serve the learner-agency, critical-reflection, and autonomous-decision goals that constructivism implies.([[ai-vocational-education-training-review]])
 
 ### The naming trap: generative AI output is not generative learning
@@ -155,3 +156,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 - [[synthetic-position-self-authorship-2026]] — Simulated AI counter-positions rehearse dialogue's form but withhold the resistance that compels revision
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The learning penalty: homework scores up 18%, closed-book exams down 20%, concentrated among homework outsourcers

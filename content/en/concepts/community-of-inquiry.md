@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-10-26T00:30:00-04:00"
+updated: "2026-11-01T09:07:05-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -45,6 +45,7 @@ GenAI destabilises the assumption that indicators of presence can be attributed 
 - **Inflate cognitive presence** — fluent machine-generated explanations accelerate sense-making but risk premature closure when coherence is mistaken for warrant.
 - **Mimic social presence** — machine-produced utterances can resemble empathy and responsiveness with high linguistic credibility, complicating relational accountability.
 - **Redistribute teaching presence** — design, facilitation, and direct instruction become distributed accomplishments, with instructors modeling how to interrogate generated outputs and detect hallucinated citations.
+- **Intervene too eagerly** — in an online-discussion study, expert facilitators were consistently more cautious about intervening than LLM judges, which were excessively eager to facilitate; the best trained classifier still hit a low ceiling imposed by the available datasets ([[llm-facilitation-timing-online-discussions|Tsirmpas, Korre and Pavlopoulos, 2026]]). Redistributed teaching presence therefore changes the intervention threshold, and a model will interject where a person would have waited, which is the failure mode a discussion forum notices.
 
 Empirical network evidence now sits under these claims: in a quasi-experiment where 63 Chinese undergraduates (33 with, 30 without a GPT-4o mini chatbot) annotated shared readings on CollaboRead across five weekly tasks, [[network-analysis|epistemic network analysis]] showed the assisted class binding social presence to integration and resolution while the control class bound social presence to triggering and exploration (X-axis U = 25.00, p = 0.01, r = 1.00; Y-axis U = 13.00, p = 1.00, r = 0.04), with higher self-reported cognitive and emotional engagement in the assisted class. The presences then separate inside the condition rather than between them: high-achieving groups initiated 1407 feedback requests across 2319 annotations (60.7%) against 737 across 2167 (34.0%) in the low-achieving group, which stayed in a self-referential loop and weakly leveraged the scaffold.([[genai-social-annotation-epistemic-network-analysis-2026|Pan et al., 2026]])
 
@@ -90,4 +91,5 @@ The framework's own authors supply a role taxonomy for that condition: [[ai-comm
 - [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
 - [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[llm-facilitation-timing-online-discussions]] — Human versus LLM facilitators: models intervene more eagerly than expert humans (Tsirmpas et al. 2026)
 

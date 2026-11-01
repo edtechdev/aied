@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-10-25T20:50:00-04:00"
+updated: "2026-11-01T09:06:43-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -30,6 +30,7 @@ Behaviorism holds that learning is the strengthening or weakening of stimulus–
 - **Learning is behavioral change.** The target is a measurable change in performance, not an internalized understanding. This makes behaviorist designs natural for observable outcomes like fluency, speed, and accuracy.
 - **Reinforcement drives learning.** Correct responses are reinforced and errors corrected, typically with immediate feedback — a design pattern ubiquitous in AI tutoring and drill systems.([[ai-vocational-education-training-review]])
 - **Small steps and scaffolding by pacing.** Instruction is broken into incremental units with feedback at each step, analogous to the way adaptive systems sequence practice.
+- **Small steps are a design assumption, and a randomized test of pacing ran against it.** With 199 US college students, feedback sequenced as encouragement, then hints, then the answer produced worse learning than full-solution feedback delivered immediately, though students found the sequenced version more encouraging. The affective gain was canceled by a behavioral pathway, more resubmissions per task, and the net effect was poorer learning ([[sequenced-ai-feedback-learning]]).
 - **The learner is largely passive in knowledge construction.** The environment (or system) structures and rewards responses; the learner responds rather than constructs meaning — the direct opposite of [[constructivist]] assumptions.
 
 ## Behaviorism and AI in education
@@ -98,4 +99,5 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 - [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
 - [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
 - [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
+- [[sequenced-ai-feedback-learning]] — Sequenced hint feedback underperformed immediate full-solution feedback in a 199-participant randomized experiment
 

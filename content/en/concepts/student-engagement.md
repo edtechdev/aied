@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-11-01T09:06:35-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -63,6 +63,8 @@ Engagement is operationalized through a range of observable signals. **Behaviora
 - **Six AI application families + multi-method measurement:** [[ai-student-engagement-online-learning-review-2025|Zhou's (2025) systematic review]] of 24 WoS studies maps six AI applications for engagement — [[conversational-ai|chatbots]] in course design, emotion/facial/voice recognition and eye tracking, ML for data analysis, teacher–student interaction support, personalized feedback/recommendations, and AI-powered bots in smart learning environments. It finds that integrating multiple AI modalities and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement than single-source approaches — reinforcing the metric-choice problem above.
 
 The choice of metric is definitional: a study that measures engagement as *time-on-task* may conclude an AI tool enhances engagement when students spend more time interacting with it, while a study that measures engagement as *critical processing* may reach the opposite conclusion for the same tool. This is why the knowledge base's research distinguishes engagement (participation) from learning (actual cognitive gain) — see [[genai-performance-vs-learning|performance vs. learning]] — and why engagement metrics must be validated against what they claim to measure.
+
+**Self-report and behavioral records of the same use can diverge almost completely.** Keith, Wood and Posey (2026) measured AI engagement modes twice in the same 171 students: once with a 29-item self-report instrument, and once by classifying 1,353 transcript turns. No paired profile correlation survived correction at |r| ≥ .30, mean total-variation distance was .701 and only .002 closer than random re-pairing, and behavioral composition raised explained variance by .166 against .031 for self-report; only observed profiles tracked quiz scores, where explanation-seeking turns accompanied higher scores (r = .33, p < .001) ([[eight-mode-ai-engagement-typology-2026]]). A self-report of how a student engages carried almost no information about how that student actually engaged, which makes the metric-choice warning above a measured result rather than a caution.
 
 - **Engagement as a fragile, situation-dependent signal:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find that engagement varies by context, task, and learner — the same tool produces strong engagement for some students and shallow, output-chasing behavior for others.
 
@@ -191,3 +193,4 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy drives engagement directly and through psychological capital, amplified by professional commitment (Wang 2026)
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Access to an AI tutor lowered recorded platform participation by 0.90 SDs while homework submission held steady (Liu et al. 2026)
+- [[eight-mode-ai-engagement-typology-2026]] — Self-reported and observed AI engagement profiles failed to correspond, and only behavior tracked quiz scores (Keith, Wood & Posey 2026)

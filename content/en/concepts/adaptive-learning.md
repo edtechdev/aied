@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-28T19:24:33-04:00"
+updated: "2026-11-01T09:08:13-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -66,6 +66,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 
 - **More feedback is not better feedback.** In an eight-week adaptive stochastics course (194 students), directive, informative and transformative feedback were taken up differently, and transformative feedback was associated with cognitive overload rather than better regulation — adaptivity has to match the learner's phase and need, not maximize feedback density ([[mejeh-fromm-srl-adaptive-learning-feedback-2026|Mejeh & Fromm (2026)]]).
 
+- **A profile is not a trait.** Strategy scores varied mainly by context rather than by student, with a mean intraclass correlation of 0.14 across 234 primary-school learners, and 74.6% of high-coordination-demand failures looped straight back into another failure without intervention ([[configuration-aware-diagnostic-adaptive-scaffolding-2026|Geoffre, Yuan and Geoffre (2026)]]). Adaptation built on a stable learner type discards most of the signal; reading the state a learner is in does not.
 - **Engagement profiles as adaptation targets.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] traced 315 online learners building 822 models in VERA and classified their engagement into Observation, Construction, and Exploration profiles, finding that learners tend to progress from construction-focused behavior toward fuller, hypothesis-driven Exploration while Observation persists across phases. They argue adaptive and personalized design should recognize these profiles and target feedback (e.g., recommending similar models or supporting deeper conceptual understanding) to move surface-level observers toward more integrative, full-cycle modeling.
 - **A memory that is read but not written is not adaptation.** CoLearn's frozen-memory control served fixed items while still reading the learner profile, and the share of items aimed at a genuinely weak skill fell from 0.72 to 0.57, with final mastery error rising above the adaptive condition ([[colearn-agentic-tutor-co-learning-loop-2026|He et al. (2026)]]).
 
@@ -147,3 +148,4 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Adaptive problem sequencing beats fixed sequencing: +0.156 SD on an unassisted exam, mediated by engagement rather than difficulty (Chung et al. 2026)
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[configuration-aware-diagnostic-adaptive-scaffolding-2026]] — Strategy use is state-dominant (mean ICC 0.14), so static learner profiles discard most of the signal

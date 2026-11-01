@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T07:05:00-04:00"
+updated: "2026-11-01T09:08:01-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -36,6 +36,8 @@ AI-enabled active learning manifests across multiple forms in this knowledge bas
 
 - **AI-supported inquiry is not automatically higher-order.** A quasi-experiment with 120 Grade 8 students found AI-supported [[inquiry-based-learning|inquiry-based learning]] raised creative mathematical performance and attitudes toward mathematics but produced no significant gain in critical [[problem-solving]] — a caution against reading creativity and affect gains as evidence of deeper reasoning ([[mujib-ai-ibl-creative-math-2026|Mujib et al., 2026]]).
 
+- **Access is not structure.** In a construction-engineering review task, the same retrieval-augmented system scored 12.41 on open-ended items when run through a five-step [[prompt-engineering|prompting]] structure against 10.45 without it, while slide-based study scored 9.68, and multiple-choice recall did not differ ([[instructional-guidance-genai-learning|Hou et al. (2026)]]). Unprompted AI review did not beat slides, so the gain traces to the structure of the interaction rather than to model access.
+
 - **Exploratory and simulation-based active learning.** [[supplynet-visual-exploratory-learning|SupplyNet]] uses a contextual multi-agent LLM simulation to support visual exploratory learning in supply-chain education, pairing an interactive network view with a branching "what-if" timeline so learners trace causal dynamics rather than consume abstract content. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] and [[genai-assisted-problem-posing-physics-2026|problem-posing in physics]] similarly foreground learner-driven exploration.
 
 - **Structured conversational workflows for active review.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] structures post-lecture review around three stages — Recognize (mark in-situ confusion), Resolve (clarification), and Consolidate (teach-back) — showing that teach-back prompts learners to articulate and reveal conceptual gaps, and that context-grounded AI outperforms general-purpose AI for targeted support. Teach-back instantiates [[learning-by-teaching]].
@@ -47,6 +49,7 @@ AI-enabled active learning manifests across multiple forms in this knowledge bas
 
 - **Design around the model's mistakes.** A five-step sequence (independent analysis, a standardized ChatGPT prompt, critical evaluation of the output, refinement, and class discussion) works because the AI is predictably wrong: ChatGPT mislabels the inelastic demand in a song lyric as "perfectly elastic," and the discrepancy teaches students to validate output ([[beck-genai-literacy-economics-hands-on|Beck & Brodersen, 2025]]).
 - **A pedagogically designed AI tutor can outperform the active-learning classroom itself.** A crossover [[rct]] in Harvard's introductory physics course set a custom AI tutor against the course's own in-class active-learning lessons — the same research-based pedagogy, not a lecture — and found significantly more learning in less time: median post-test 4.5 against 3.5, effect size 0.63 by linear regression, with a median 49 minutes on task against 60 in class ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]). The authors credit design rather than the medium, since the tutor was engineered to carry the same seven research-based practices as the class and added only personalized feedback on demand and self-pacing.
+- **A single exposure can suppress the participation it is meant to raise.** In a preregistered field experiment with 759 MBA students, assigned pre-class rehearsal with a voice-based AI partner that argued the opposing case raised voluntary in-class contributions about 31% after a second assigned use. Nothing changed in the session it prepared, and participation fell after a first use alone ([[assigned-ai-preclass-student-engagement-2026|Wang et al. (2026)]]). Dosage is a design parameter here, not an implementation detail.
 
 ### The ICAP framework as the organizing lens
 
@@ -118,4 +121,6 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[instructional-guidance-genai-learning]] — Prompted vs unprompted AI review: structure, not model access, moved open-ended scores
+- [[assigned-ai-preclass-student-engagement-2026]] — Pre-class AI rehearsal raised in-class participation 31% after a second use, not a first
 

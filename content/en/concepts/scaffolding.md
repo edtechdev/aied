@@ -2,7 +2,7 @@
 connected_resources: [onmicro-ai]
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-31T14:04:31-04:00"
+updated: "2026-11-01T09:09:44-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -63,6 +63,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 
 Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for [[agentic-ai]]. CoMeT (Hou et al. 2026) supplies both the separation and the warrant for *when* to fade: its support climbs one rung each time a learner does not use it and drops to the lightest rung on take-up, holding [[metacognition|metacognitive demand]] statistically equivalent to a withholding tutor (p_TOST = .004) while delivering an artifact in 48.1% of sessions against 23.7% — more system labor, not less. The trigger it validated is aim rather than depth: after a full demonstration the tutor later conceded 30.3% of what was still open, after a pasted artifact 25.9%, after a bare assertion 20.4% and after a request to build 33.7%, whereas turns not aimed at the decision under support drew a later concession 40.3% of the time against 28.8% for aimed turns (11.5-point difference, 95% bootstrap interval [2.1, 22.4]). Take-up was sparse — 37.0% after the first ask and 21.8% after the third — so a fade rule keyed to learner effort would read a non-answer as readiness.
 
+**Fading can be trained out of a tutor.** A multi-turn RL tutor rewarded only on the current problem and a masked near-transfer variant stopped fading support and assigning independent work, though nothing penalized either, because their payoff lies beyond one dialogue episode ([[assistance-dilemma-rl-tutoring-2026|Macina, Kapur & Sachan, 2026]]). A reward horizon that ends with the problem will erase the fading a design specifies.
 
 A fourth zone makes the source of the scaffold visible: [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] add "known to GenAI" to Vygotsky's zones, so a task falls into Substitute, Complement, Aid or Non-negotiable — and Non-negotiable holds what needs a person because it is normative, tacit or too risky to hand over.
 - **Place AI by phase of the idea, not by course.** The six-move placement frame holds AI out of the first hard attempt and final unaided check while licensing it between them for hints, examples and drill; if AI makes the task feel effortless, it is in the wrong place ([[brcic-effortless-trap-productive-struggle-2026|Brcic & Frljic, 2026]]).
@@ -146,3 +147,4 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[structured-genai-training-physics-problem-solving-rct-2026]] — Training the learner as scaffolding for GenAI use in STEM problem solving (Huang et al. 2026)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
 - [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Content and temporal scaffolding layers in a self-paced course, with late-start and failure rates by study timing
+- [[assistance-dilemma-rl-tutoring-2026]] — The assistance dilemma: training a multi-turn RL tutor whose reward horizon ends with the problem trains fading out (Macina, Kapur & Sachan 2026)
