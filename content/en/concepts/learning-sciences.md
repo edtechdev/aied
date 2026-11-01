@@ -1,7 +1,7 @@
 ---
 title: "Learning Sciences"
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-10-26T07:05:00-04:00"
+updated: "2026-11-01T08:10:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -57,6 +57,8 @@ This page covers the substantive knowledge such methods have produced — what l
 - **The distribution of GenAI use is an institutional choice.** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified 102 higher-education studies by how epistemic work was distributed between student and system and found Assistant and Enabler entanglements dominating at 42.16% each, reading the skew as institutional legitimacy rather than technological capability.
 
 - **Process evidence is channel-conditional.** Coding one GenAI-assisted instructional-design task with 79 undergraduates in both interaction logs and concurrent think-aloud, [[metacognitive-processes-genai-interaction-logs-2026|Li and Liu (2026)]] found higher-depth monitoring evidence more common in the think-aloud record but higher-depth [[regulation]] evidence more common in the logs, so neither trace alone is the criterion for a [[metacognition|metacognitive]] claim.
+
+- **The method matters as much as the finding: sequence analysis of group-AI interaction.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] coded 595 and 785 utterances around 39 chatbot prompts, tested lag-1 transitions with adjusted residuals and Yule's Q, then ran process mining with each episode as a case. That pairing placed the AI at the center of one group composition's interaction network and on a single path in another, a difference that prompt tallies could not show. It is a template for asking where an AI sits in a group's interaction network rather than how often it appears.
 
 ## How the learning sciences relate to their neighbours
 
@@ -137,3 +139,4 @@ The findings only matter once they reach teaching, and that journey runs through
 - [[sun-student-genai-entanglement-literacy-demands-2026]] — The distribution of GenAI use is an institutional choice
 
 - [[genai-reliance-human-agency-collaborative-learning-2026]] — Within-person reliance precedes a drop in perceived agency
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Lag sequential analysis plus process mining placed the AI at a group-interaction hub or on a linear path depending on preconception composition (Wang et al. 2026)

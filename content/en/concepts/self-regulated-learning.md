@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-29T19:16:33-04:00"
+updated: "2026-11-01T07:00:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -137,6 +137,8 @@ For example:
 
 - **Emotional scaffolding moves trace-measured SRL phases that cognitive scaffolding alone does not, and self-report barely sees it.** A preregistered experiment with 144 high school students compared plain ChatGPT, an SRL-scaffolding agent and an emotional version that asked about feelings at three points and adapted tone and challenge along control-value lines. Trace coding found large condition effects in all three phases (ε2 = 0.44 forethought, 0.34 performance, 0.34 self-reflection). SRL prompts alone lifted goal setting and planning to the emotional version's level, while the emotional layer added more performance-phase activity (r = 0.22) and self-reflection (r = 0.31). Self-reported SRL separated the conditions only in the performance phase; trace-self-report correlations were 0.313 there, 0.22 for forethought and 0.04 for self-reflection. The authors read the trace differences as co-regulated enactment rather than independent regulatory capacity ([[diordiev-emotional-scaffolding-genai-srl-2026|Diordiev, Stenberdt & Makransky, 2026]]).
 
+- **In groups, regulation is triggered by the AI's own prompt, and preconception diversity changes how that prompt lands.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] compared 8 different-preconception and 6 similar-preconception pre-service teacher groups working with an on-demand metacognitive chatbot and a proactive voice agent. Prompt function converged across conditions at 39 prompts, 18 against 21, while sequential structure did not: diverse groups sustained positive or neutral evaluation of the output and similar groups sustained negative evaluation alongside recurrent task agreement. Raw-data inspection traced part of the negative loop to the proactive speaking agent, so the authors read it as a timing and modality mismatch rather than a rejection of support. Their design implication is that shared-regulation support in groups that have already converged should stay optional.
+
 ## LLM-Mediated SRL: Scaffold, Shortcut, or Partner?
 
 A cluster of Learning Letters studies (2026) converges on a central tension: [[generative-ai|GenAI]] can scaffold, short-circuit, or partner with self-regulation depending on design and how learners regulate its use. The evidence points to SRL itself — not the tool — as the decisive variable.
@@ -246,3 +248,4 @@ Which support is in play decides which mediator carries the association: among 3
 - [[borchers-srl-language-generalization-2025]] — Large Language Models Generalize SRL Prediction to New Languages Within But Not Between Domains (Borchers et al. 2025)
 - [[ai-project-hybrid-learning-self-regulated-2026]] — A Project-Based Hybrid Learning Model Using Artificial Intelligence to Enhance Students' Self-Regulated Learning
 - [[davis-ai-ta-forum-peer-co-regulation-2026]] — An AI TA as first responder displaced peer replies, and with them the co-regulation that amplified the grade value of self-regulation (Davis et al. 2026)
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Preconception diversity changed how a metacognitive prompt landed: same prompt functions, opposite sustained evaluation of the AI output (Wang et al. 2026)

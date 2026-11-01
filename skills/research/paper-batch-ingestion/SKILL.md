@@ -56,6 +56,19 @@ declarations, so a record written from frontmatter alone comes back short.
   measured findings.
 - Every `no_change` verdict carries grep evidence from THAT page (`'unnatural attentiveness' -> 1 hit`). A
   dismissal without a matching line is a claim nobody checked.
+- **A declared discipline or level is a candidate on the same standard, never a "setting".**
+  When `discipline:` or `level:` names a concept page, the finding may belong on that page.
+  `teacher-education` was dismissed from a study of 52 pre-service teachers as "a population",
+  although that page's own bullets describe what pre-service teachers learn and the paper's
+  practitioner note (compose groups on preconception diversity) belonged there and nowhere else.
+  Dismiss one only with a coverage count from THAT page, written as
+  `teacher-education ('group formation' 0)`; `check-concept-screen.py` now fails a discipline or
+  level dismissal that lacks one.
+- The implication often belongs on the discipline or level page rather than the process page. A
+  process finding ("uptake differed by group composition") and a domain finding ("energy
+  preconceptions decided whether the AI became concept talk") are different sentences on
+  different pages, and a batch that writes only the first has skipped the disciplines.
+
 - A page that already carries the finding from the same source is a drop, even when the source is new to the
   wiki: check whether the *finding* is on the page, not whether the article is.
 

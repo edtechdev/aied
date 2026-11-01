@@ -94,6 +94,35 @@ FACET_FIELDS = (
 LABEL_FIELDS = ('discipline', 'level')
 WIKILINK = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]')
 
+# A discipline or level page dismissed as `no_change` has to carry evidence from THAT page.
+# Measured failure this prevents: an article about 52 pre-service teachers was recorded with
+# `teacher-education` under no_change and the blanket reason "subject matter and populations",
+# even though that page is about exactly those teachers, its own bullets describe what
+# pre-service teachers learn, and the paper's practitioner note (compose groups on
+# preconception diversity) belonged there. Disciplines are not settings; they are the page's
+# subject, so dismissing one is a claim that needs a coverage count.
+EVIDENCE = re.compile(r"\(\s*['\"][^'\"]{2,40}['\"][^)]*\d")
+
+
+def declared_labels(text):
+    """The discipline/level labels the article declares, slugified."""
+    fm = text.split('\n---', 1)[0] if text.startswith('---') else ''
+    out = set()
+    for field in LABEL_FIELDS:
+        m = re.search(r'^%s:\s*\[(.*?)\]' % field, fm, re.M)
+        if m:
+            out.update(label_slug(v) for v in m.group(1).split(',') if v.strip())
+    return out
+
+
+def has_page_evidence(reason, slug):
+    """True when `reason` names `slug` and gives a parenthesised coverage count right after it."""
+    for m in re.finditer(re.escape(slug), reason):
+        if EVIDENCE.search(reason[m.end():m.end() + 220]):
+            return True
+    return False
+
+
 
 def label_slug(value):
     """'legal education' -> 'legal-education' (the enum labels are slugs with spaces)."""
@@ -192,6 +221,19 @@ def main(argv):
                 problems.append('%s: integrated names concept %s, which does not exist' % (slug, c))
             elif slug not in narrative(open(cpath, encoding='utf-8').read()):
                 problems.append('%s: claims integration into %s, but that page does not mention it' % (slug, c))
+
+        # A declared discipline or level page may not be waved off as "a setting or a
+        # population": when the article IS about that population, the page is the subject.
+        # Dismissal needs a coverage count from that page, quoted next to its own slug.
+        declared = declared_labels(text)
+        reason_text = str(entry.get('reason') or '')
+        for c in (entry.get('no_change') or []):
+            cs = label_slug(str(c))
+            if cs in declared and not has_page_evidence(reason_text, cs):
+                problems.append(
+                    '%s: %s is a discipline/level page this article declares, dismissed in '
+                    'no_change without page-specific grep evidence - write "%s (\'keyword\' N)" '
+                    'in the reason, or weave it' % (slug, cs, cs))
 
         # Every concept the article declares must carry a decision. Otherwise the
         # screen answered only for the pairs that happened to be listed already and

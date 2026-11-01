@@ -1,7 +1,7 @@
 ---
 title: "How Should I Handle AI in Group and Collaborative Assignments?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-10-28T11:43:14-04:00"
+updated: "2026-11-01T07:10:00-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-01"
     agent: hermes-agent
 ---
 
@@ -84,6 +88,17 @@ Their limitations travel with the citation: a single database, journal articles 
 Detection is the wrong instrument for sorting individual contributions: none of these six studies tests detectors in group settings, and the individual-level problems with detection are documented elsewhere in this knowledge base. Restraint needs interpreting before it needs correcting. Chen and Zou caution that a group declining AI may be avoiding something unfamiliar rather than exercising deliberate [[self-regulated-learning|self-regulation]], and the two call for different responses: one is a teaching problem, the other is a considered position you can grade.
 
 Simulated teammates do not settle the question either. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tuned LLM agents on real participant dialogue (LoRA/QLoRA adapters on LLaMA 3.2-3B) to model 48 participants across 3,824 turns and six thematic codes, then compared real and simulated discourse with Epistemic Network Analysis. The simulated network reached a distance of 0.17 from the empirical network, below the 0.30 threshold, with a permutation p-value of 0.65, statistically indistinguishable, though it slightly overemphasized Technical Constraints and Design links and under-represented Data and Performance Parameters. It is a framework paper with medium confidence, and it supports one claim: participant-specific agents can reproduce realistic collaborative discourse. It does not show that students learn more from simulated teammates.
+
+## Form the groups on what members believe, not on who is friends
+
+Whether AI becomes a shared reference point or a lookup depends partly on how much your groups already agree. In [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al.'s (2026)]] study, fourteen pre-service teacher groups worked a 60-minute simulation inquiry with an on-demand metacognitive chatbot. Groups whose members held different [[prior-knowledge|preconceptions]] about the physics routed AI use through conceptual talk, with the AI sitting at the center of their interaction network; groups that already agreed ran a linear query-then-answer path and sustained negative evaluation of the output, which the authors partly attribute to proactive prompts arriving after consensus had formed. Both kinds of group asked the same kinds of questions, so what changed was [[collaborative-learning|uptake rather than volume]].
+
+Two moves follow, and both are cheap:
+
+- Run a short pretest on the core concept and mix the response patterns across groups, rather than letting students self-select into comfortable ones.
+- In groups that converge quickly, keep [[self-regulated-learning|shared-regulation prompts]] on demand rather than pushed, because a nudge that arrives after agreement reads as interruption.
+
+Treat it as a hypothesis rather than a rule. That is fourteen groups, one 60-minute task on a single topic, pre-service teachers in one country, and transcripts translated from Finnish before coding.
 
 ## What instructors and administrators get wrong about this
 

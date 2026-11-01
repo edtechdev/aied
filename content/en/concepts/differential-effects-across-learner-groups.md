@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-10-26T10:50:00-04:00"
+updated: "2026-11-01T07:00:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -114,6 +114,7 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - **Prefer equalizing designs where the evidence allows.** The ADHD video-segmentation result — everyone improves, the gap closes — is a better-fitting goal for a general classroom than a group-targeted add-on.
 - **Be careful with personalization that consumes demographic attributes.** The [[marked-pedagogies-linguistic-bias-writing-feedback|marked pedagogies]] finding is directly about that mechanism, and it applies to [[well-being|wellbeing]] check-ins, [[affective-computing|affective tutors]], and [[recommender-systems-and-learning-paths|recommender systems]] that profile learners.
 - **Test locally, on the group you care about, with an outcome measured without the tool.** See [[interpreting-and-applying-aied-research|Interpreting and Applying AIEd Research]] for the appraisal habits and [[research-methods-aied|Research Methods in AI in Education]] for the designs that make a local test defensible.
+- **The grouping variable with the most direct process evidence is knowledge-based, not demographic.** [[wang-genai-metacognitive-prompting-preconceptions-2026|Wang et al. (2026)]] matched groups on prior knowledge (U = 293.50, p = 0.515) and still found that how learners reason shaped what happened. Eight groups with different preconceptions and six with similar ones asked the same kinds of questions, yet the AI served as an integration hub in the diverse groups and sat on a linear path in the similar ones, with opposite sustained evaluation. That rests on fourteen groups in one 60-minute task, so treat it as a hypothesis about how you compose groups rather than as a rule.
 
 ## Common Misconceptions
 
@@ -167,3 +168,4 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[international-students-conversational-ai-adaptation]] — The corpus's one international-student study
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — The corpus's first effect estimate for first-generation students: tutor access cost them 0.50 SDs of final grade against 0.22 for their peers (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems
+- [[wang-genai-metacognitive-prompting-preconceptions-2026]] — A knowledge-based grouping variable with direct process evidence: groups matched on prior knowledge but differing in preconception diversity took up the same AI differently (Wang et al. 2026)
