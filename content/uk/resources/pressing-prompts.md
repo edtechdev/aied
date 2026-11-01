@@ -2,7 +2,7 @@
 title: "Pressing Prompts"
 created: "2026-10-13T21:30:00-04:00"
 type: resource
-summary: "Openly accessible higher-education activities and resources for pressing critical questions about AI, organised into three thematic clusters."
+summary: "Відкрито доступні активності та ресурси для вищої освіти щодо гострих критичних питань про ШІ, згруповані в три тематичні блоки."
 url: https://pressingprompts.org/
 author: "Hannah Rozear, Remi Kalir and Aria Chernik"
 author_url: https://pressingprompts.org/about

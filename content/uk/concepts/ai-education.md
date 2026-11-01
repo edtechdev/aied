@@ -14,10 +14,14 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -46,7 +50,7 @@ ai_assist:
 
 ШІ в освіті є тим зонтом, який спільно визначають усі інші сторінки понять. База знань організовує галузь у наведені нижче основні жилки, кожна з яких посилається на відповідні сторінки понять.
 
-- **Важлива [[history-of-aied|historical]] перспектива, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** простежують AIED від кібернетики й Дартмутської конференції 1956 року через [[intelligent-tutoring|cognitive tutors]] і [[constructivist|constructionism]] Паперта, стверджуючи, що сучасні дебати про [[generative-ai|GenAI]] відіграють заново foundational напругу галузі між контролем і [[agency]].**
+Важлива [[history-of-aied|historical]] перспектива: **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** простежують AIED від кібернетики й Дартмутської конференції 1956 року через [[intelligent-tutoring|cognitive tutors]] і [[constructivist|constructionism]] Паперта, стверджуючи, що сучасні дебати про [[generative-ai|GenAI]] відіграють заново фундаментальну напругу галузі між контролем і [[agency]].
 
 ## Як організовано базу знань: зонтичні сторінки
 
@@ -94,11 +98,13 @@ ai_assist:
 - **Моделі та методи:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[educational-nlp|educational NLP]], [[reinforcement-learning|reinforcement learning]], [[knowledge-graph|knowledge graphs]], [[educational-robotics|robots in education]], [[conversational-ai|conversational AI]], [[simulation]] та [[llm-training-and-fine-tuning|LLM training and fine-tuning]]. Базові методи також мають значення: [[machine-learning|machine learning]] — це те, де будуються ці системи, [[speech-and-voice-technologies|speech and voice technologies]] несуть усне тьюторство та мовну практику, [[visualization]] охоплює панелі та візуальну аналітику для здобувачів і викладачів, а [[virtual-and-augmented-reality|virtual and augmented reality]] приймає імерсивну практику, візуальний шар якої модель тепер може генерувати. Новіші стилі взаємодії також належать сюди — найпомітніше [[vibe-coding|vibe coding]], керований природною мовою робочий процес, у якому користувач задає програму підказкою LLM і судить за отриманою поведінкою, не читаючи і не редагуючи вихідний код. Це переосмислює [[cs-education|programming]] як акт вираження та перевірки і знижує бар’єр для [[teacher-role|end users]], які будують власні інструменти. Рамки глибини інтеграції, такі як [[samr-model|SAMR]], і теорії впровадження, такі як [[technology-acceptance-model|TAM]], класифікують, наскільки глибоко ШІ засвоюється і наскільки він перетворює завдання.
 - **Моделювання здобувача та адаптивні системи:** технічні системи, які представляють здобувача й адаптуються до нього, згруповані під зонтиком [[student-modeling|Learner Modeling and Adaptive Instruction]] — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[recommender-systems-and-learning-paths|recommender systems and learning paths]], [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]] та [[learning-analytics|learning analytics]]. Вони стоять на технічному шарі, оскільки є самими системами ШІ, відмінними від педагогік, які вони втілюють.
 
+- **Платформи, відкритість і впровадження:** шар навколо моделі, де навчальний ресурс ліцензують, розміщують і оплачують, а не будують. [[open-education|Open education]] охоплює викладання з відкрито ліцензованим контентом і педагогіку, що трактує студентів як його продуцентів, — і саме там обговорюють питання ліцензії та адаптації, які тепер породжує згенерований матеріал. Це стоїть поряд із відкритістю в програмному сенсі, аналізом на рівні платформ у [[edtech-platform|edtech platforms]] та дослідженнями впровадження, які несе [[technology-acceptance-model|TAM]].
+
 ## ШІ в дисциплінах
 
 ШІ застосовується в дисциплінах і на освітніх рівнях. [[discipline-specific-aied|overview of AIEd in the disciplines]] бази знань картографує предметне покриття — поряд із [[learning-sciences|learning sciences]], які є не викладаним предметом, а наскрізною галуззю дослідження, що вивчає саме навчання і розглядає предметну область як одну змінну серед інших:
 
-- **Предметні області:** [[math-education|mathematics]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[science-education|science education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[arts-design-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]] та професійно-прикладні жилки — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]] та [[design-education|design education]].
+- **Предметні області:** [[math-education|mathematics]], [[statistics-and-data-science-education|statistics and data science]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[science-education|science education]], [[environmental-education|environmental education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[arts-design-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]] та професійно-прикладні жилки — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]] та [[design-education|design education]].
 
 ## Рівні та контексти
 

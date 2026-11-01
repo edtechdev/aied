@@ -2,7 +2,7 @@
 title: "Process Feedback"
 created: "2026-10-13T21:30:00-04:00"
 type: resource
-summary: "A free, process-based alternative to AI detection: it records how a piece of writing was produced and turns that into a report for a conversation about learning rather than a verdict."
+summary: "Безкоштовна альтернатива виявленню ШІ, побудована на процесі: записує, як саме створювався текст, і перетворює це на звіт для розмови про навчання, а не на вирок."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
 resource_type: [software]

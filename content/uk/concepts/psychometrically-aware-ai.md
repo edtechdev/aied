@@ -6,9 +6,13 @@ technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T07:55:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -44,11 +48,19 @@ contributors: [editor]
 - **Валідність вимірювання:** поняття пов’язане з [[assessment-validity]] та [[educational-measurement]], рамками, які визначають, як виглядає валідне, надійне оцінювання ШІ.
 - **Валідність латентної структури:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] показують, що психометрично обізнана позиція має також перевіряти, чи вимірює оцінювання *той самий латентний конструкт* в LLM, що й в людей. Оскільки факторні структури відповідей LLM і людей розходяться на тих самих інструментах, навіть добре оцінюючі моделі можуть не вимірювати конструкт, який, на думку іспиту, він має вимірювати, — застереження для будь-якого оцінювання ШІ, що запозичує людські докази валідності.
 - **Мітка може вимірювати більше чи менше, ніж називає.** Вбудовування 55 конструктів і 272 завдань 12 інструментів ШІ-грамотності виявило пари jangle (та сама мітка, різне вимірювання) та пари jingle (різні мітки, майже ідентичні формулювання), відновлюючи надійність на r = 0.49, — перевірку до збирання даних, що відмінності конструктів збережені у формулюваннях завдань ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]]).
+- **Шкала опори, що відмовляється від прив’язки до результатів.** Чотири фактори — рефлексивне, обережне, бездумне та колаборативне використання — постали з 800 відповідей і втрималися на завданні іншої форми (CFI = .91), вимірюючи поведінку в кожному моменті завдання, замість того щоб позначати її доброю чи поганою ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]]).
 - **Конвеєри латентної здібності та встановлення стандарту:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] дають конкретний шаблон для психометрично обізнаного оцінювання на національному іспиті: бали за пунктами рубрики ніколи не сумуються напряму, а подаються в модель [[item-response-theory|IRT]], чиї оцінки латентної здібності розрізаються методом встановлення стандарту Bookmark на Proficient / Close to Proficiency / Insufficient, причому для здачі потрібно щонайменше дві секції Proficient і решта — щонайменше Close to Proficiency. Автори відтворили той конвеєр в автоматизованій формі (67% імовірності правильно відповісти щонайменше на 7 пунктів рубрики для нижнього розрізу та щонайменше на 10 для верхнього), даючи змогу порівнювати бали завдань ШІ та людини проти ідентичних критеріїв рішень, а не на одній лише сирій угоді.
+- **Збалансовані метрики викривають модель, яка лише виглядає відкаліброваною.** Прохання до GPT-4o і Gemini 2.0 Flash вивести виміри навчального стилю з діалогів 153 студентів бакалаврату дало помірну точність, яку повнота за класами показала як передбачення домінантної мітки, з недопредставленими Інтуїтивними та Глобальними здобувачами, а few-shot підказування іноді підсилювало зміщення, а не усувало його ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]]).
 
 ### Зв’язки
 
 Психометрично обізнаний ШІ лежить на перетині [[educational-measurement]], [[assessment-validity]], [[item-response-theory]] та [[automated-assessment|Confidence Aware AI Assessment]]. Він центральний для [[ai-ed-evaluation]] (чи є оцінювання ШІ вартим довіри) і пов’язаний з [[llm]]-заснованим [[automated-assessment]] та [[automated-assessment|Automated Grading]]. Його наголос на валідності також стосується [[limitations-in-aied-research|measurement limitations]] в дослідженнях [[ai-education|AIED]].
+
+## Поширені хибні уявлення
+
+- **«Модель, яка добре оцінює, вимірює те саме.»** На **тому самому інструменті оцінювання** структури відповідей людини й LLM **розходяться** — модель може добре оцінювати, вимірюючи щось інше, ніж має на увазі інструмент. Збіг балів — це спостереження; еквівалентність конструкту — окреме твердження, яке вимагає доказів на рівні структури.
+- **«Калібрування можна прочитати з однієї цифри точності.»** **Збалансовані метрики викривають модель, яка лише виглядає відкаліброваною**: прохання до GPT-4o і Gemini 2.0 Flash вивести виміри навчального стилю з діалогів **153 студентів бакалаврату** дало **помірну точність, яка поводилася інакше під збалансованими метриками**. Агрегована точність приховувала диференціал, який викрили збалансовані метрики.
+- **«Автоматизовані конвеєри оцінювання не можуть відтворити психометричну процедуру.»** Автори відтворили усталений конвеєр в автоматизованій формі (**67% імовірності правильно відповісти щонайменше на 7 пунктів рубрики для нижнього розрізу та щонайменше на 10 для верхнього**), даючи змогу порівнювати бали завдань ШІ та людини на однакових засадах. Процедура була відтворюваною; питання конструкту залишається.
 
 ## Пов’язані поняття
 
@@ -63,6 +75,7 @@ contributors: [editor]
 
 ## Пов’язані статті
 
+- [[genai-reliance-scale-problem-solving-2026]] — Валідована шкала опори студентів на генеративний ШІ під час розв’язування проблем (Hou et al. 2025)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
@@ -74,3 +87,4 @@ contributors: [editor]
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[learning-style-inference-bias-student-ai-dialogues-2026]] — Помірна точність виявилася передбаченням домінантного класу після перевірки повноти за класами (Zamanifard, Goudarzi & Robb 2026)

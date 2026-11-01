@@ -10,10 +10,14 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-10-01T09:59:02-04:00"
+source_updated: "2026-10-26T10:00:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -61,12 +65,19 @@ ai_assist:
 - **Відчутне кодування та соціальні роботи в дошкільній [[ai-literacy|AI literacy]].** Lee (2026) інтегрує гру без екрана, відчутне кодування (Bee-Bot, Ozobot) та керований діалог із соціальним роботом ШІ в навчальну програму Play With AI (PL-AI) для дошкільного та дитячого садка. [[design-based-research|design-based research]], документує, як ці втілені, відчутні робототехнічні діяльності підтримують формуване міркування дітей про поняття ШІ, причому чотири принципи проєктування — втілена гра, відчутне кодування, керований діалог та співпроєктування з учителем, — дають відповідну до розвитку модель для [[early-childhood-elementary-ai-education|early childhood]] та освіти зі ШІ.
 - **Дві парадигми для молодших здобувачів: роботи для кодування та генеративні соціальні роботи.** [[creative-project-approach-ai-early-childhood-2025|Yang, Li and Lee (2025)]] кадрують робототехніку раннього дитинства як пару двох [[pedagogy|pedagogical]] парадигм, кожна з окремою теоретичною основою. **Роботи для кодування** (Bee-Bot, KIBO, Matatalab) походять від LOGO Паперта і втілюють [[constructivist|constructionism]] — діти навчаються, створюючи, і будують [[computational-thinking|computational thinking]] через відчутне програмування. **Генеративні соціальні роботи**, на базі [[generative-ai|generative AI]], згрунтовані на [[sociocultural-learning|social constructivism]], діючи як розмовні однолітки чи тьютори, які [[scaffolding|scaffold]] навчання в межах зони ближнього розвитку дитини та підтримують соціально-емоційний розвиток. Їхній п’ятикроковий **Підхід творчого проєкту** для інтеграції обох типів роботів у Проєктний підхід зберігає вчителів як фасилітаторів, які направляють взаємодію дитина–робот, збалансовують автоматизацію з [[creativity]] та зберігають дитячу [[agency]].
 - **Що насправді робить дошкільна робототехніка для обчислювального мислення.** Систематичний огляд 53 досліджень виявив, що навчання на основі задач, оповідання історій та скаффолдинг були найчастіше використовуваними стратегіями, причому більшість досліджень не називали жодної рамки обчислювального мислення та використовували ad hoc інструменти оцінювання, а не перевірений інструмент, такий як TechCheck-K ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]]).
+- **Планування LLM, а не розмова.** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] використовує візуально-мовну модель, щоб перетворити фотографії Shoebox Tasks — візуально структурованих завдань, які використовують зі здобувачами в спектрі аутизму, — у задачу PDDL, яку гуманоїд Nao виконує або демонструє, з оцінкою правильності плану на шести завданнях, а не за будь-яким навчальним результатом.
 
 ### Втілення та педагогіка
 
 Визначальна тема в тому, що роботи є ефективними, коли підтримують справжні навчальні цілі, — а не як ізольовані технічні вправи. Роботизований проєктор на столі, пов’язаний із ноутбуком ChatGPT, за раптом доступної допомоги був нижчим (6,7 проти 7,3/10, p = 0,41), але зберіг свій бал після відміни (7,0 проти 4,4/10, p = 0,003), на 60% вищий короткостроковий бал перенесення, — завданнєвий приріст, який автори пояснюють просторовим співрозташуванням, а не загальним заміщенням ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). Цінність робота залежить від педагогічного контексту: викладання обчислювального мислення ([[computational-thinking]]), підтримка [[stem-education|STEAM]], формування навичок [[cs-education|programming]], мотивування здобувачів ([[motivation]], [[student-engagement|engagement]]) або підтримка [[social-emotional-learning]] та [[equity-in-ai-education|inclusion]]. Робототехніка також пов’язується з [[project-based-learning]], [[game-based-learning]] та [[experiential-learning]]. Ключові міркування проєктування включають збереження здобувацької [[agency]], побудову [[trust]], підтримку [[self-efficacy]] та згрунтування навчання в [[embodied-learning|embodied interaction]]. В [[language-learning]] [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] вказують на ефективність втіленого навчання мови за допомогою роботів.
 
 - **Шляхи до навчання робототехніки на базі ШІ.** [[educational-robotics-pathways-2026|A qualitative study]] студентів старшої школи в навчальній програмі робототехніка + ШІ виявило навчання через реальну практику, проєктування та грайливий творчий вияв (конструкціоністська, епістемологічно-плюралістична лінза).
+
+## Поширені хибні уявлення
+
+- **«Робототехніка вчить обчислювального мислення вже тим, що це роботи.»** Систематичний огляд **53 досліджень** виявив, що **навчання на основі проблем, сторітелінг і скаффолдинг** були найуживанішими стратегіями — педагогіка несла результат, і саме це дослідження фактично робили.
+- **«Фізичні роботи переважають екранні альтернативи загалом.»** Здобутки були **залежними від завдання**: бал короткострокового перенесення **на 60% вищий** у [[aifred-desk-robotic-ai-guidance-2026|Orlando et al., 2026]] (4.4/10, p = .003), який автори приписують **просторовій спільній локації, а не загальній заміні**. Твердження стосується спільної локації на конкретних завданнях, а не фізичності взагалі.
+- **«Обчислювальне мислення в дитячому садку — надто рано, щоб бути значущим.»** Оглянуті докази безпосередньо охоплюють робототехніку дитячого садка, тож ця вікова смуга досліджена, а не припущена непридатною.
 
 ## Пов’язані поняття
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education
@@ -119,3 +130,4 @@ ai_assist:
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: a hubs-based framework that treats technical mentorship capacity and hub geography, not hardware, as the constraint on rural K–12 robotics programs (Jacobson et al. 2026)
 - [[teaching-rl-humanoid-robotics-high-school-2026]] — Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform
 - [[aifred-desk-robotic-ai-guidance-2026]] — A desk-mounted robotic projector: co-located guidance preserved transfer where laptop ChatGPT lost it
+- [[vlm-task-planning-humanoid-robot-autism-education-2026]] — Візуально-мовна модель планує Shoebox Tasks для робота Nao (Kudláčková 2026)

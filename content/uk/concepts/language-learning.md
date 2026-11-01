@@ -10,10 +10,14 @@ discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/language-learning
-source_updated: "2026-10-22T09:11:45-04:00"
+source_updated: "2026-10-26T12:05:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -46,6 +50,7 @@ ai_assist:
 Порівняння 52 завдань оцінювання EFL, оцінених 20 досвідченими викладачами, не виявило суттєвої різниці в якості між згенерованими ШІ та розробленими людьми завданнями, але виявило чіткий поділ праці: ШІ віддавалася перевага в граматиці та лексиці (69 %), а людська розробка — в читанні, письмі, аудіюванні та усному мовленні (75–83 %) ([[ai-vs-human-assessment-efl-tpck-2026|Nourashrafi, Alavinia and Darvishi (2026)]]).
 
 **Автоматизоване оцінювання письма для здобувачів L2** оцінює здатність ШІ оцінювати письмо ненароджених у мові. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** запропонували самореферентний підхід, що порівнює письмо студента з його власною попередньою роботою, а не з нормами носіїв мови. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** виявили, що оцінювання ШІ систематично занижує мовно слабких студентів — висновок, який пов’язується із занепокоєннями щодо [[assessment-validity]] і [[bias-mitigation]]. **[[genai-linguistic-diversity-academic-writing]]** досліджує, як ШІ впливає на мовне різноманіття в академічних контекстах.
+
 Система на рівні дискурсу йде далі, називаючи дефект, а не оцінюючи текст: класифікація відношень між парами речень локалізувала розриви зв’язності — логічні стрибки, відсутні сполучники, неоднозначну відсиланість — і впровадження викладачами згенерованого нею зворотного зв’язку становило 71,2 %–88,4 % ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]).
 
 **[[accessibility]] для тих, хто вивчає мови** пов’язується з [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** проаналізувала, як здобувачі з дислексією використовують ШІ для підтримки грамотності, а **[[ai-tools-arab-english-classrooms]]** дослідила інструменти ШІ в арабо-англійських контекстах аудиторій. Ці дослідження пов’язують вивчення мов із [[equity-in-ai-education]] і [[special-education]].
@@ -63,11 +68,14 @@ ai_assist:
 - **Нові [[ai-technologies|technologies]] дають малі та помірні, залежні від рівня здобутки.** [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3 181) виявляє загальний ефект Hedges' g = 0,38, який зростає з освітнім рівнем (початковий 0,29, середній 0,35, вищий 0,44), причому VR/AR дають найбільші ефекти, а продуктивні навички (усне мовлення, письмо) здобувають більше, ніж рецептивні, — що підтримує використання нових технологій, особливо на вищому рівні, зберігаючи реалістичність очікувань.
 - **Систематичний огляд показує, де елементарна мовна освіта на базі ШІ є тонкою.** За 31 дослідження (2013–2025) робота в початкових мовних аудиторіях згрупувалася навколо усного мовлення, грамотності та лексики, тоді як граматика, розуміння на слух і жестова мова майже не досліджувалися, і в більшості проєктувань бракувало специфіки для класу ([[ai-elementary-language-education-review-2026|Hamasha et al., 2026]]).
 - **Використовуйте ШІ, щоб розширювати комунікативну практику, а не заміняти її.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] і [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] розширюють інтеракційну практику у масштабі — поєднуйте їх із людською взаємодією, щоб вільність і засвоєння переносилися в справжню розмову.
+- **Поширюйте ШІ-[[scaffolding|скаффолдинг]] на спільне читання.** У дослідженні соціальної анотації за підтримки GenAI з 63 китайськими студентами-англістами [[genai-social-annotation-epistemic-network-analysis-2026|Pan та співавтори (2026)]] виявили, що чатбот підвищив когнітивну та емоційну залученість і результативність читання та пов’язав [[community-of-inquiry|соціальну присутність]] з інтеграцією та розв’язанням, хоча групи з високими досягненнями користувалися скаффолдингом значно більше.
+- **Готовність, а не спостережувана продуктивність.** Серед 708 здобувачів більша практика усного мовлення за допомогою ШІ супроводжувалася вищою спрямованою на людину готовністю до спілкування (β = 0.384) та нижчою [[anxiety-and-stress|тривожністю]] щодо усного мовлення іноземною мовою (β = −0.416), тоді як сценарії з голосовим помічником ШІ ще більше знижували очікувану тривожність; жодне з досліджень не спостерігало реального людського мовлення ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
 
 - **Стежте за тим, щоб у виводі ШІ не було прагматичної, а не лише граматичної помилки.** Викладачі п’яти онлайн-методик викладання мов назвали прагматичну сліпоту — коли вивід ШІ є граматично правильним, але хибним за тоном, формальністю чи культурою ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi and Khan (2026)]]).
 - **Пріоритезуйте якість зворотного зв’язку над кількістю в усному мовленні з підтримкою ASR.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] виявляють, що точне виправлення помилок і структурно організовані завдання рефлексії поліпшують інтеріоризацію [[feedback]] та рефлексивну поведінку в усному англомовленні студентів коледжу, тоді як часте використання ASR і точність розпізнавання посилюють мотивацію чи рефлексію лише частково — технічна точність сама по собі не веде до глибшої когнітивної залученості, і мовне володіння модерує здобутки (сильніші здобувачі інтеріоризують зворотний зв’язок ефективніше). Це спонукає до педагогічно обґрунтованого зворотного зв’язку (наприклад, артикуляційних пояснень замість простих позначок помилок), скаффолдингованої рефлексії та підтримки, диференційованої за рівнем володіння.
 - **Давайте підказки раніше за виправлення.** Завдання ChatGPT за схемою «підказка перед виправленням», у якому здобувачі виводять виправлення з керованих підказок, а не отримують прямі виправлення, зменшило когнітивне навантаження й підтримало персоналізований перегляд — але користь стосувалася здебільшого тих, хто вже мав достатньо попередніх знань (58 студентів, CEFR A1–B1) ([[lukesova-clue-before-correction-2026|Lukešová & Jennings (2026)]]).
 - **Давайте зворотний зв’язок із вимови, який локалізує різницю для усунення.** Profy вивчає володіння з переважно неанотованого мовлення і показує, *де* здобувач відхиляється від розподілів носіїв мови; його довірчі інтервали зрозумілості до/після не перекривалися, на відміну від базового методу викликаної імітації, — свідчення того, що практика імітації може підтримуватися без експертів-оцінювачів ([[ai-guided-learning-audiovideo-2026|Kawamura (2026)]]).
+- **Використовуйте канал транскрипту як другий сигнал, а не заміну.** Аудіокласифікатор WavLM переміг класифікатор GPT-4o zero-shot, що читав транскрипти, на збалансованому за CEFR корпусі здобувачів, тож лексичні сліди першої мови є реальними, але слабшими за вимову, ритм та інтонацію ([[acoustic-lexical-native-language-identification-learners-2026|Uluslu et al. (2026)]]).
 - **Підтримуйте психологічну адаптацію здобувачів до навчання за допомогою ШІ.** [[wu-psychological-adaptation-ai-japanese-learning-2026|Wu (2026)]] відстежує тих, хто вивчає японську, упродовж семестру й виявляє, що вони розподіляються на профілі дезадаптивної, помірної та позитивної адаптації, які рухає баланс техностресу та стійкості, причому більшість здобувачів поступово зрушує до позитивної адаптації і повідомляє про вищу [[self-efficacy]] і нижче вигоряння — сигнал проєктувати мовну практику, опосередковану ШІ, так, щоб керувати технологічною напругою, а не лише доступом до інструмента.
 - **Будьте пильні щодо упередженості оцінювання та зворотного зв’язку проти здобувачів.** [[ai-scoring-language-bias-physics|AI scoring]] може карати ненароджені в мові моделі; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] попереджає, що ШІ надає перевагу стандартній англійській — використовуйте самореферентне оцінювання або оцінювання з людським модеруванням.
 - **Підтримуйте весь спектр здобувачів.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] і [[culturally-relevant-pedagogy|culturally responsive]] проєктування ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) показують, що ШІ потрібно адаптувати до різноманітних потреб здобувачів, а не вважати універсальним.
@@ -77,6 +85,13 @@ ai_assist:
 - **Готуйте [[ai-literacy|AI literacy]] викладачів мов.** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] виявляють, що ШІ-грамотність серед викладачів мов — ключовий розрив; інвестуйте в [[educational-development|professional development]] викладачів разом із упровадженням інструмента. Оскільки ШІ переформатовує мовну освіту, ШІ-грамотність також критично важлива для викладачів, щоб критично взаємодіяти з технологією: Teachers' AI Literacy Scale (TAILS) було розроблено для мовної [[teacher-education|teacher education]], операціоналізуючи шестивимірну рамку ED-AI (знання, оцінювання, співпраця, контекстуалізація, [[agency|autonomy]], [[ethics]]) і перевірено на майбутніх викладачах англійської мови.
 - **Чотири профілі взаємодії в завданні з високим навантаженням двома мовами.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] використали трекінг очей, запис пера та запис голосу зі 22 стажерами з усного перекладу, щоб показати, що студенти розподіляють увагу між виводом ШІ та власним нотаткуванням чотирма відмінними способами — Intensive Engagers, Fast Scanners, Traditionalists і Frequent Switchers — і що 58,3 % спостережень на рівні етапу змінювали профіль між етапами розуміння і продукції того самого завдання. Лише моделі на етапі розуміння передбачали якість продукту, і кластер із найбільшою вагою ШІ набрав найнижчих балів за вільність подачі та якість цільової мови, що доводить потребу вчити здобувачів описувати й рефлексувати власну стратегію, а не нав’язувати один спосіб роботи з інструментом.
 - **Прокладіть повний цикл чотирьох навичок навколо вартості та зв’язності.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] випускають LLMersion-1, локальний прототип, що працює з аудіюванням, читанням, усним мовленням і письмом над власним документом здобувача на споживчому обладнанні — репетитор на 1B квантується до 808 МБ, і весь резидентний стек залишається нижче 4 ГБ — і оцінює п’ять років щоденної практики приблизно в \\$18 електрики проти \\$1 200 за хмарну підписку. Результатів навчання не повідомляється, а зворотний зв’язок із вимови є лише сегментальним.
+- **Докази щодо приросту усного мовлення від чатботів нерівномірні за аспектами.** У єдиному систематичному синтезі цього питання десять досліджень 2021–2024 років найнадійніше покращували діапазон і зрозумілість, тоді як зв’язність досліджувалася один раз, а взаємодія майже ніколи; чотири з десяти повідомили єдину голістичну оцінку ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
+
+## Поширені хибні уявлення
+
+- **«Вбудовані роботи-тьютори працюють завдяки вбудованості.»** Метааналіз **11 досліджень RALL (N = 595)** виявив великий зведений ефект на навчання L2 (**g = 0.83**) із **високою неоднорідністю**, і — важливо — його модерували лише ознаки **на рівні взаємодії**. Морфологія та модальність — ні, тож апаратне забезпечення не є активним складником.
+- **«Згенеровані ШІ завдання оцінювання гірші за написані викладачами.»** Порівняння **52 завдань оцінювання EFL, оцінених 20 досвідченими викладачами**, не виявило **значущої різниці в якості загалом** між згенерованими ШІ та створеними людьми завданнями, але виявило розбіжність за окремими вимірами. Загальний паритет із конкретними слабкостями — інше твердження, ніж покращення чи дефіцит.
+- **«Зворотний зв’язок LLM може лише оцінювати письмо.»** Система на рівні дискурсу йде далі, **називаючи дефект, а не оцінюючи текст**, із класифікацією відношень між парами речень, що локалізує **розриви зв’язності**, як-от логічні стрибки та відсутні ланки. Корисний вивід є діагностичним, а не числовим.
 
 ## Пов’язані поняття
 
@@ -98,15 +113,14 @@ ai_assist:
 - [[speech-and-voice-technologies]]
 
 ## Пов’язані статті
+- [[chatbots-oral-proficiency-efl-systematic-review]] — Приріст усного мовлення від чатботів зосереджується на діапазоні та зрозумілості
+- [[ai-speaking-practice-communicative-readiness-2026]] — Готовність, а не спостережувана продуктивність
+- [[genai-social-annotation-epistemic-network-analysis-2026]] — Соціальна анотація за підтримки GenAI: скаффолдинг для спільного читання
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[llm-agents-5e-esl-grammar-2026]] — LLM agents with 5E framework for ESL grammar acquisition (Yang, Weng & Yang 2026)
 - [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning GPT for L2 listening item generation (Aryadoust & Wong 2026)
 - [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
-- [[alharbi-ethical-genai-eap-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-guided-learning-audiovideo-2026]]
@@ -122,7 +136,6 @@ ai_assist:
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
-- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
@@ -130,3 +143,4 @@ ai_assist:
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)
 - [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Pragmatic blindness: AI language output can be grammatically correct but culturally wrong
+- [[acoustic-lexical-native-language-identification-learners-2026]] — Аудіо перевершує класифікатор транскриптів GPT-4o zero-shot для ідентифікації L1 (Uluslu et al. 2026)

@@ -9,10 +9,14 @@ audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/math-education
-source_updated: "2026-10-28T00:58:16-04:00"
+source_updated: "2026-10-29T10:45:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -39,7 +43,14 @@ ai_assist:
 
 **AI-тьюторство математики та скаффолдинг** — найбільший кластер: чотири статті досліджують, як AI-тьютори підтримують або підривають математичне навчання. **[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]** демонструє, що додавання афективної обізнаності — розпізнавання емоцій здобувача з тексту та виразу обличчя — дає перевагу в 23-пунктовому показнику виграшних сеансів у математичному тьюторстві, пов’язуючись із [[affective-computing]] та [[affective-tutoring]]. **[[zhang-tutormoments-2026|TutorMoments]]** оцінює 462 анотованих викладачами транскрипти тьюторства з математики в 2–7 класах і виявляє, що фронтьєрні моделі за умовчанням схиляються до надмірної допомоги, рідко вимагаючи строгості, навіть коли здобувачі готові, — що прямо кидає виклик узгодженості між AI-корисністю та принципами [[scaffolding]]. **[[lak2026-hint-button-unproductive-use|An et al.]]** проаналізували 999 здобувачів за три семестри в ITS *Decimal Point* і виявили, що передчасні прохання про підказки та поверхневе їх читання стійко передбачають знижені [[learning-gains|learning gains]], навіть за контролем [[prior-knowledge|prior knowledge]] — висновок, який пов’язується з [[help-seeking]] та [[learning-analytics]].
 
+**Дизайн завдань, а не лише тьюторство.** Проаналізувавши 158 закодованих текстових одиниць від 13 майбутніх учителів початкової школи, Ledezma et al. (2026) виявили, що геометричні завдання, спроєктовані GenAI, тяжіли до високої когнітивної вимоги, але писали закриті інструкції, і одне містило хибний масштаб (4 м зображено як 8 см, зазначено 1 м = 4 см) ([[ledezma-geometry-task-design-genai-preservice-2026|Ledezma et al. (2026)]]).
+
+**Штраф за задоволеність.** Керування LLM-тьютором через план [[productive-failure]] замість того, щоб дозволити йому просто відповідати, підвищило вірність стратегії та дало 2,6 спроби розв’язання за сеанс у дослідженні з 17 старшокласниками, проте здобувачі оцінили тьютора продуктивного провалу як менш корисного, ніж базовий ([[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]]).
+
 **Соціально-емоційна підтримка може купувати ефективність, а не досягнення.** Додавання LLM-шару майндфулнес до тьютора з алгебри для сьомого класу залишило навчання та тривожність щодо математики незмінними між групами (42 зі 252 здобувачів проаналізовано після збоїв), проте здобувачі в умовах майндфулнес досягли порівнянного навчання за менший час і з меншою кількістю запитаних підказок ([[mindful-llm-math-tutoring-2026|Rief et al., 2026]]).
+
+Зведений за предметними областями ефект GenAI на мотивацію до навчання був найбільшим у мові (g = 0,946) і помірним у математиці (g = 0,711, 95 % ДІ [0,356, 1,066], k = 4), тож [[motivation|мотиваційна]] справа для GenAI в математиці спирається на невелику розвідувальну підгрупу, а не на стабільний ефект ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
+**Розвантаження всередині домашніх завдань з математики.** Журнали запитів 23 студентів лінійної алгебри показують, що суміш запитів змінювалася разом із завданням, тоді як 90 % поданих робіт залишалися близькими до виводу моделі, а курс доведень із 153 студентами виявив прирости в домашніх завданнях із підтримкою ШІ без приросту на іспиті ([[llm-math-homework-offloading-traces-2026|Kontorovich & Wallach (2026)]]; [[ai-proof-learning-cognitive-offloading-2026|Chen et al. (2026)]]).
 
 **[[cognitive-diagnosis|Cognitive diagnosis]] та оцінювання** досліджують здатність AI оцінювати математичне мислення. [[razavi-powers-item-difficulty-llm-2026|Razavi and Powers (2026)]] додають масштабне дослідження складності завдань, що охоплює математику й читання: на 5 170 завданнях для K-5, відкаліброваних за моделлю Раша IRT, zero-shot оцінки складності від GPT-4o корелювали помірно-сильно зі справжньою складністю (r = 0,83 математика, r = 0,81 читання), але були нерівномірними між класами, тоді як підхід на основі ознак (ознаки, вилучені LLM, у моделях на деревах рішень) досягав кореляцій до r = 0,87, причому рівень класу та кількість слів були найголовнішими предикторами. Дослідження пропонує практичний семикроковий робочий процес для тестувальників і застерігає, що узагальнення за межі математики та читання K-5 неясне. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** зіставив 18 LLM на 3 036 діагностичних вердиктах, анотованих викладачами, із письмових математичних робіт, виявивши, що всі моделі сильно відстають (F1 < 0,5) з систематичним надмірним приписуванням і галлюцинуванням доказів, — що пов’язується з [[knowledge-tracing]], [[hallucination-risk]] та викликами [[multimodal]] оцінювання. **[[representation-robustness-llm-math-problem-solving|Nath et al.]]** показали, що [[llm]]-вирішення [[problem-solving]] сильно залежить від поверхневої форми подання — моделі змінюють правильність на еквівалентних формулюваннях задач, — що викликає занепокоєння щодо [[assessment-validity]] при AI-оцінюванні математики.
 **[[automated-scoring-economics-math-items-nigeria-2026|Olaoye, Owolabi and Olaoye (2026)]]** показують протилежний шлях оцінювання математичних відповідей: їхнє програмне забезпечення Automated Extended Essay Grading Software оцінює завдання з розгорнутою відповіддю з математики в іспиті з економіки для старшої школи за семантичною подібністю до схеми оцінювання WAEC, без навчання на оцінених роботах, і погоджується з 12 екзаменаторами за внутрішньокласовою кореляцією 0,863 (середні міри) з коефіцієнтами Пірсона від 0,604 до 0,864. Узгодженість найвища там, де бали найнижчі — програмне забезпечення в середньому дало 5,94 із 20 проти 5,97 у екзаменаторів, кожен екзаменатор перевірив лише 84 з 1 008 робіт, і автори пояснюють низькі бали неознайомленістю кандидатів із відповідями в комп’ютерному форматі.
@@ -48,9 +59,17 @@ ai_assist:
 
 **Підтримка викладачів** досліджує AI-інструменти для педагогів математики. **Рольова гра зі змодельованим студентом** також служить практиці викладачів: [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] створили *Student GPT* — спеціальний ChatGPT [[conversational-ai|chatbot]], який відігравав роль учня середньої школи з поширеними [[misconceptions]] щодо пропорційного міркування, даючи майбутнім викладачам математики середньої школи безризикову практику в діагностиці та скеруванні думок здобувача до правильних рішень, — що ілюструє [[generative-ai|GenAI]]-підсилену [[simulation]] як доповнення до дорогих платформ на кшталт TeachLivE для побудови знань педагогічного змісту про хибні уявлення здобувачів.
 
+**Майбутні вчителі можуть досліджувати з GenAI, але ще не валідувати його.** У курсі абстрактної алгебри 13 із 18 майбутніх учителів математики були достатніми в побудові прикладів і контрприкладів, тоді як 14 із 18 перебували на двох найнижчих рівнях щодо судження, чи є відповідь ШІ валідною ([[preservice-math-teachers-genai-communication-2026|Nurlaelah et al. (2026)]]).
+
+Класні інструменти ШІ також створюють оркестраційну роботу, якої не називає старша типологія: спостереження за шістьма уроками математики в старшій школі виявило, що викладачі відстежують [[visualization|дашборди]], виправляють неправильний [[feedback|зворотний зв’язок]] ШІ та опосередковують його вивід для класу, причому змістове та [[ethics|етичне]] судження найпомітніше під час виправлення помилки ШІ ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
+
 Єдиним галузевим синтезом цієї предметної області в базі знань є PRISMA-огляд 2021–2025, що охопив 42 дослідження, відібрані з 922 записів (каппа Коена = 0,88), і він додає категорію, якої бракує кластерам сторінки: автоматизацію для викладачів, де MATH41 підтримує швидке створення математичних завдань для здобувачів різних рівнів, а гібридна модель CognifyNet аналізує патерни активності здобувачів, щоб педагоги могли рано виявляти виникаючі труднощі. Той самий огляд локалізує сліпу пляму галузі — за частками предметних областей досліджень освіта становить 60 %, комп’ютерні науки 28 %, і лише одне дослідження належало до психології, залишаючи емоційний вплив, довіру та етику порівняно недослідженими — та наполягає, що технічну здатність не слід ототожнювати з продемонстрованою ефективністю в аудиторії. ([[ai-mathematics-education-prisma-review-2026]])
 
+Рейтинг викликів галузі ставить спроможність викладачів на перше місце. Другий систематичний огляд, 54 дослідження 2017–2025 років, нарахував технологічно-педагогічну інтеграцію та готовність викладачів у 38, ризики рівності й доступу в 34 та обмеження глибокого міркування в 29, і пов’язує їх з інструкційними відповідями в тривимірній рамці ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
+
 **Математика у вищій освіті** досліджує вплив AI на просунуту математичну практику. **[[genai-runaway-object-math-higher-ed|Bui et al.]]** застосували [[sociocultural-learning|socio-cultural]] теорію до [[generative-ai|GenAI]] в університетській математиці, аналізуючи AI як «невгамовний об’єкт», який перетворює академічну практику швидше, ніж [[governance|institutional]] та педагогічні норми.
+
+**Символічні перешкоди в математичному аналізі** є репрезентаційними, а не процедурними: переклад із графа в символ був домінантною перешкодою, і після підтриманої ШІ послідовності закодовані символічні помилки впали на 27,4 %–53,8 % ([[ai-scaffolding-symbolic-obstacles-calculus-2026|Nursit et al., 2026]]).
 
 **LLM-тьюторство та [[learning-design|instructional design]]** — новий кластер із двох досліджень 2026 року, які загострюють доказову базу математичної освіти. [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] розробили керовану правилами [[intelligent-tutoring|LLM tutoring system]] для текстових математичних задач початкової школи, чия триярусна архітектура (діагностика → вибір наміру → обмежена генерація відповіді) покращила узгодженість взаємодії та зменшила передчасне надання відповідей у пілотному занятті з 40 здобувачів п’ятого класу — доказ того, що процедурні математичні галузі потребують [[guardrails|structured rule-guards]] на тлі іншого стохастичного LLM-скаффолдингу. [[instructional-design-proficiency-masters-math-2026|Zhu, Liang, Mao, and Wang (2026)]] застосували модель розумної аудиторії до студентів магістратури з математики й виявили статистично значущі прирости (p < .05) у проєктуванні навчальних цілей у вимірах стандартів навчальної програми, підручника та умов здобувача.
 
@@ -61,7 +80,9 @@ ai_assist:
 - **Візуальний ланцюжок міркувань: розрив [[agency|autonomy]] в геометрії.** GeoVAD-Bench діагностує проміжні візуальні засоби, а не фінальні відповіді, на 600 задачах на допоміжні побудови (200 легких, 200 середніх, 200 складних) і виявляє стійкий патерн: надання еталонної допоміжної діаграми помірно підвищує точність (+3,3, +3,0, +7,0 пунктів у трьох моделях), тоді як залишення моделі самій будувати допоміжну пряму на шляху до правильної відповіді розширює розрив на 10,0–13,5 пунктів, причому дві моделі працюють гірше, ніж коли в них не було жодного візуального міркування. Чотири категорії процесуальних помилок пояснювали 93,1 % і 89,7 % приписаних невдач. Для навчання [[problem-solving]] висновок такий, що діаграмний скаффолдинг треба тренувати та оцінювати окремо від точності відповідей. ([[geovad-bench-visual-chain-of-thought-geometry-2026]])
 - **Задачі, вразливі до AI, втрачають час навчання та утримання в пам’яті.** Десятилітня панель із 3,2 мільйона взаємодій в ALEKS виявила, що час навчання на текстових задачах — тих, що найлегше переносяться в AI-підказки, — впав на 26,9 % після виходу ChatGPT, тоді як протекторовані завдання на утримання в пам’яті показали 25 % зниження шансів правильної відповіді ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).
 - **Здобувачі цінують негайний зворотний зв’язок, але не користуються платформами опціональної практики.** З 157 здобувачів [[genai-practice-platform-maths-feedback-2026|Chen et al. (2026)]] спостерігали, як 95 зареєструвалися і лише 34 спробували виконати завдання; користувачі найвище оцінили залученість (79 % згоди), тоді як лише 42 % надали перевагу платформі над наявним збірником задач.
+- **Помилки стають механізмом.** Вбудовування ШІ в платформу практики на основі майстерності сповільнило прогрес — здобувачі намагалися менше завдань — проте підвищило правильність наступної спроби після помилок, тоді як правило майстерності «три правильні підряд» підняло успіх на платформі без покращення відкладеного навчання ([[making-ai-tutoring-productive-mastery-math-2026|Oreopoulos et al. (2026)]]).
 - **AI може підвищувати досягнення, розширюючи гендерний розрив.** У шеститижневому квазіексперименті з 115 здобувачами старшої школи в Нігерії зворотний зв’язок від ChatGPT підвищив досягнення в розв’язуванні квадратних рівнянь порівняно з традиційним викладанням (29,18 проти 24,06), проте здобувачі чоловічої статі перевершили здобувачів жіночої статі (30,95 проти 25,16) попри відсутність гендерної різниці в самоефективності — застереження щодо справедливості для AI-підтримки математики ([[ai-generated-responses-achievement-self-efficacy-2026|Oladayo & Diri, 2026]]).
+- **Здобувачі все ще віддають перевагу оцінному рішенню викладача.** У віньєтковому експерименті з 250 семикласниками рішення, ухвалені викладачем щодо математичної вправи, отримали вище прийняття, ніж рішення ШІ (M = 4,48 проти M = 3,47), сприйнята справедливість несла 67,52 % ефекту, а письмові пояснення розширювали, а не звужували розрив у справедливості ([[decision-making-agent-student-decision-acceptance-2026|Zhang, Fan & Qi (2026)]]).
 
 ### Зв’язки з суміжними поняттями
 
@@ -75,6 +96,16 @@ ai_assist:
 - **Стежте за крихкістю до поверхневої форми в AI-оцінюванні.** [[representation-robustness-llm-math-problem-solving|Representation sensitivity]] означає, що еквівалентні задачі можуть змінювати відповіді AI, — це ризик для валідності AI-оцінювання математики; надавайте перевагу [[human-in-the-loop-ai|human review]] при високоставочному оцінюванні.
 - **Використовуйте AI, щоб знизити планку для персоналізованої практики.** [[ai-powered-personalized-learning-elementary-fractions-2026|Adaptive platforms]] покращили розуміння дробів у здобувачів із труднощами в навчанні математиці; розгортайте AI-адаптивні інструменти вибірково для здобувачів, які потребують диференційованої підтримки.
 - **Залишайте викладача під контролем AI-генерованих навчальних матеріалів.** [[teacher-control-ai-generation-math-visuals|Teacher control of AI visuals]] підтримує рамкову модель, яка урівноважує ефективність AI із педагогічною коректністю.
+
+## Поширені хибні уявлення
+
+**«Мотиваційний аргумент для ШІ в математиці такий самий сильний, як для мови».** Для математики об’єднані свідчення тонші, і читати їх треба саме так: вплив GenAI на мотивацію до навчання був найбільшим у мові (**g = 0,946**) і помірним у математиці (**g = 0,711, 95 % ДІ [0,356, 1,066], k = 4**). Чотири дослідження й довірчий інтервал, що охоплює більшість правдоподібного діапазону, — слабка основа для сильного твердження, а доменна різниця достатньо велика, щоб мовні знахідки не переносити без перевірки.
+
+**«Якщо домашня робота виглядає правильно, математику зроблено правильно».** Трасування чат-логів **23 студентів лінійної алгебри** показують, що суміш підказок змінювалася із завданням, тоді як **90 % поданих робіт залишалися близькими до виводу моделі**, а курс доведень на 153 студенти виявив розходження між успішністю домашніх робіт із підтримкою ШІ та неасистованим оцінюванням. Близькість до виводу моделі є мірою того, що студенту допомогли, а не того, що він навчився; у домені з чіткими правильними відповідями правильна подана робота — найменш діагностичний артефакт із доступних.
+
+**«Математика — легкий домен для ШІ, бо відповіді перевіряються».** Перевірність робить математику добрим полігоном, а не безпечною. Оскільки кінцеву відповідь можна перевірити, студент може валідувати розв’язок, який він не конструював, — і саме так міркування з предмета обходиться, поки оцінка залишається чистою. Властивість, яка приваблює дослідників, і є властивістю, що робить перекладання невидимим.
+
+**«Складність пункту з математики може призначити здатна модель».** Її треба калібрувати проти відповідей. У дослідженні складності пунктів, що охоплювало **5 170 пунктів K-5**, каліброваних за моделлю IRT Раша, згенеровані моделлю оцінки складності zero-shot порівнювали з емпіричною калібрацією саме тому, що заявлена складність і виміряна складність є різними величинами.
 
 ## Пов’язані поняття
 
@@ -104,12 +135,18 @@ ai_assist:
 - [[teacher-education]]
 
 ## Пов’язані статті
-- [[ai-mathematics-education-prisma-review-2026]] — Artificial intelligence in mathematics education: A PRISMA-based systematic literature review (2021-2025)
-- [[automated-scoring-economics-math-items-nigeria-2026]] — Automated software scoring of senior school certificate examination mathematical items in economics using a contextual similarity model
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
+
+- [[ledezma-geometry-task-design-genai-preservice-2026]]
+- [[llm-math-homework-offloading-traces-2026]]
+- [[ai-proof-learning-cognitive-offloading-2026]]
+- [[preservice-math-teachers-genai-communication-2026]]
+- [[ai-scaffolding-symbolic-obstacles-calculus-2026]]
+- [[manto-ai-integration-mathematics-education-systematic-review-2026]]
+- [[ai-mathematics-education-prisma-review-2026]]
+- [[automated-scoring-economics-math-items-nigeria-2026]]
+- [[mindful-llm-math-tutoring-2026]]
+- [[making-ai-tutoring-productive-mastery-math-2026]]
+- [[chudziak-ai-math-tutoring-platform]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[zhang-tutormoments-2026]]
 - [[lak2026-hint-button-unproductive-use]]
@@ -118,20 +155,15 @@ ai_assist:
 - [[epistemic-proactivity-math]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[teacher-control-ai-generation-math-visuals]]
-- [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
-- [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
+- [[generative-ai-reduced-study-time-math]]
+- [[puech-pedagogical-steering-llm-productive-failure-2025]]
+- [[instructional-design-proficiency-masters-math-2026]]
+- [[rule-integrated-llm-tutoring-primary-math-2026]]
+- [[razavi-powers-item-difficulty-llm-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
-- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
-- [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
-- [[genai-practice-platform-maths-feedback-2026]] — Optional GenAI practice platform in a 157-student maths class: immediate feedback valued, uptake limited to 34 active users
-- [[ai-generated-responses-achievement-self-efficacy-2026]] — Assessing the Influence of AI-Generated Responses on Academic Achievement: An Ethical Perspective and Self-Efficacy
+- [[genai-practice-platform-maths-feedback-2026]]
+- [[ai-generated-responses-achievement-self-efficacy-2026]]
+- [[teachers-instrumental-orchestration-ai-math-2026]]
+- [[decision-making-agent-student-decision-acceptance-2026]]
+- [[genai-learning-motivation-meta-analysis-2026]]

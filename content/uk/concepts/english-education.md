@@ -10,10 +10,14 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/english-education
-source_updated: "2026-09-30T09:59:35-04:00"
+source_updated: "2026-10-26T08:45:00-04:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-01"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -82,6 +86,8 @@ ai_assist:
 
 Англійське домінування ШІ є визначальною рисою цього напряму. Оскільки моделі найсильніші в англійській і саме в стандартній академічній англійській, освіта з англійської водночас виграє непропорційно (потужні скаффолди EAP) і несе відмінні ризики (монолінгвальну упередженість, дискримінацію проти світових варіантів англійської та багатомовних письменників). Дослідження тут пов’язуються з [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]] та [[academic-integrity|academic integrity]].
 
+Синтез 54 досліджень EFL на основі Scopus локалізує найчастіше повідомлювані [[limitations-in-aied-research|обмеження]] галузі в учнівській автономії: [[cognitive-offloading|надмірна опора]] на ШІ у 27 дослідженнях (50%) і знижене [[critical-thinking|критичне мислення]] у 25 (46%), проти ненадійного згенерованого ШІ результату у 22 (41%) як провідної технічної проблеми ([[ai-limitations-efl-higher-education-review-2026|Espinoza-Celi & Vargas-Saritama (2026)]]).
+
 ## Наслідки для викладачів англійської / EAP / EFL-ESL
 
 - **Використовуйте силу ШІ для академічної англійської свідомо.** Оскільки моделі найсильніші в англійській та стандартній академічній англійській, викладачі EAP можуть розгортати ШІ для жанрового письма, диференціації матеріалів для читання ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]) та зворотного зв’язку щодо переписування, — проте мають кадрувати ШІ як партнера в чернеткуванні/зворотному зв’язку, а не як машину відповідей.
@@ -91,6 +97,13 @@ ai_assist:
 - **Очікуйте обережного впровадження, що ставить підготовку на перше місце.** [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li та співавт. 2026) виявляє, що викладачі мов найбільше цінують [[generative-ai|GenAI]] для прихованої підготовки — планування уроків, створення матеріалів та підтримки/зворотного зв’язку щодо письма, — водночас вагаючись щодо прямого використання в аудиторії, причому основні занепокоєння концентруються на [[academic-integrity|academic integrity]] (плагіат і [[assessment-validity|assessment validity]]). Впровадження формується чинниками професійної ідентичності, [[pedagogy|pedagogical]], технічними, [[governance|institutional]] та чинниками доброчесності, а прогалини в компетентностях картографуються на епістеме (розуміння можливостей/обмежень ШІ), техне ([[prompt-engineering]], проєктування завдань/оцінювання з підсиленням ШІ, виявлення згенерованого ШІ тексту) та фронезис ([[ethics|ethical]] судження, поводження з упередженістю/приватністю), — тому викладачі EAP/EFL мають свідомо будувати ці компетентності та планувати впровадження за схемою «спочатку бекенд, потім аудиторія».
 - **Диференціюйте за рівнем володіння та потребою.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] та дослідження адаптивного тьюторства підтримують пристосування підтримки та оцінювання з боку ШІ до рівня здобувачів, а не підхід «один для всіх».
 - **Зміщуйте вагу технологій на продукування.** Метааналіз 33 досліджень TEFL виявив малий-до-помірний загальний ефект (g = 0,38, знижений до 0,28 trim-and-fill), який зростав з освітнім рівнем і був на користь продуктивних навичок — мовлення та письма, — над рецептивними ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).
+
+## Поширені хибні уявлення
+
+- **«В EFL ШІ головно загрожує списуванням.»** Найчастіше повідомлюване самим полем [[limitations-in-aied-research|обмеження]] — це **учнівська автономія**, що постає як [[cognitive-offloading|надмірна опора]] у **27** із **54 досліджень** Scopus-синтезу. Задокументована ціна — залежність, а не недоброчесність, що вимагає іншого втручання.
+- **«Викладачі мов або впроваджують із ентузіазмом, або не впроваджують узагалі.»** [[li-language-educators-genai-review-2026|Систематичний огляд 23 досліджень]] (Li et al.) виявляє як патерн **обачливе впровадження з підготовки-перше**. Викладачі були обачні виважено, а не поділені на ентузіастів і відмовників.
+- **«Загальний ефект виправдовує зусилля.»** Мета-аналіз **33 досліджень TEFL** виявив **малий-помірний загальний ефект (g = 0.38, знижений до 0.28 через trim-and-fill)**, який **зростав з освітнім рівнем**. Ефект скромний після корекції й сконцентрований на вищих рівнях, тож твердження для початківців не підтримується зведеним показником.
+- **«Будь-яке використання ШІ однаково продуктивне для вивчення мови.»** Та сама робота виступає за **вагу технології на продукування** — письмо й мовлення, а не споживання. Модальність визначала ефект більше, ніж присутність ШІ.
 
 ## Пов’язані поняття
 - [[language-learning]]
@@ -124,7 +137,7 @@ ai_assist:
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
-- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhao-ji-appraisal-human-ai-revisions-2026]] — Peer and AI revisions of EFL argumentative essays differ in dialogic positioning (Zhao & Ji 2026)
+- [[ai-limitations-efl-higher-education-review-2026]] — Надмірна опора на ШІ (50% із 54 досліджень) і знижене критичне мислення очолюють повідомлені обмеження
