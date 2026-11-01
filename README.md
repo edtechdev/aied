@@ -11,11 +11,11 @@ A free, linked knowledge base on artificial intelligence in education: research,
 ### What's inside
 
 - **Articles** — one page per paper: key findings, methods, and an APA citation linking the full text.
-- **Concepts** — synthesized topic pages (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to the research behind it. The [concept index](https://edtechdev.github.io/aied/concepts/) lists all 220 by section.
-- **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them.
-- **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves.
-- **News** — a weekly update summarizing the most significant additions. [RSS](https://edtechdev.github.io/aied/news/rss.xml).
-- **One feed for everything** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text.
+- **Concepts** — synthesized topic pages (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to the research behind it. The [concept index](https://edtechdev.github.io/aied/concepts/) lists them all by section.
+- **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them. The [FAQ index](https://edtechdev.github.io/aied/faq/) groups them by theme.
+- **Resources** — free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves. Browse them on the [resources page](https://edtechdev.github.io/aied/resources/).
+- **Newsletter** — a weekly issue summarizing the most significant additions. Read the [newsletter archive](https://edtechdev.github.io/aied/news/).
+- **Feeds** — [`/rss.xml`](https://edtechdev.github.io/aied/rss.xml) carries the 200 newest pages of any type, with each page's type as the feed category and its summary rather than its full text; the newsletter has [its own feed](https://edtechdev.github.io/aied/news/rss.xml).
 - Every page links to related pages with `[[wikilinks]]`, so a topic can be followed across the whole knowledge base.
 
 ### Use it with your own AI assistant
@@ -40,16 +40,44 @@ You are a research assistant for AI in education. Use the AI in Education Knowle
 Prefer the term "generative AI" over "LLM". The journal page at https://edtechdev.github.io/aied/journal/ lists the newest additions.
 ```
 
-### Offline editions
+### Translations
 
-The knowledge base is also published as downloadable eBooks, generated from the same markdown as the site:
+The knowledge base is published in 32 translated locales. Each entry links that locale's home page, then its EPUB and PDF where a translated edition has been built; fifteen have both, and the other seventeen are site-only.
 
-- **EPUB** — `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub`
-- **PDF** — `https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf`
+- [Español](https://edtechdev.github.io/aied/es/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.es.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.es.pdf)
+- [Français](https://edtechdev.github.io/aied/fr/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.pdf)
+- [中文](https://edtechdev.github.io/aied/zh/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.zh.pdf)
+- [Deutsch](https://edtechdev.github.io/aied/de/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.de.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.de.pdf)
+- [日本語](https://edtechdev.github.io/aied/ja/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ja.pdf)
+- [한국어](https://edtechdev.github.io/aied/ko/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ko.pdf)
+- [Português](https://edtechdev.github.io/aied/pt/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pt.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pt.pdf)
+- [العربية](https://edtechdev.github.io/aied/ar/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ar.pdf)
+- [עברית](https://edtechdev.github.io/aied/he/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.he.pdf)
+- [हिन्दी](https://edtechdev.github.io/aied/hi/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.hi.pdf)
+- [Русский](https://edtechdev.github.io/aied/ru/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.pdf)
+- [Українська](https://edtechdev.github.io/aied/uk/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.pdf)
+- [Italiano](https://edtechdev.github.io/aied/it/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.it.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.it.pdf)
+- [Kiswahili](https://edtechdev.github.io/aied/sw/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.sw.pdf)
+- [Türkçe](https://edtechdev.github.io/aied/tr/) · [EPUB](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.tr.epub) · [PDF](https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.tr.pdf)
+- [বাংলা](https://edtechdev.github.io/aied/bn/)
+- [اردو](https://edtechdev.github.io/aied/ur/)
+- [Bahasa Indonesia](https://edtechdev.github.io/aied/id/)
+- [Tiếng Việt](https://edtechdev.github.io/aied/vi/)
+- [Nederlands](https://edtechdev.github.io/aied/nl/)
+- [Svenska](https://edtechdev.github.io/aied/sv/)
+- [Dansk](https://edtechdev.github.io/aied/da/)
+- [Suomi](https://edtechdev.github.io/aied/fi/)
+- [Norsk bokmål](https://edtechdev.github.io/aied/no/)
+- [Română](https://edtechdev.github.io/aied/ro/)
+- [Magyar](https://edtechdev.github.io/aied/hu/)
+- [Čeština](https://edtechdev.github.io/aied/cs/)
+- [Български](https://edtechdev.github.io/aied/bg/)
+- [Slovenčina](https://edtechdev.github.io/aied/sk/)
+- [Hrvatski](https://edtechdev.github.io/aied/hr/)
+- [Ελληνικά](https://edtechdev.github.io/aied/el/)
+- [Polski](https://edtechdev.github.io/aied/pl/)
 
-Both contain the home introduction, the *Use-With-AI* page, every concept page (organized into chapters with a numbered table of contents), the FAQ pages, and a closing Free Tools and Resources appendix. They do not contain the article summaries.
-
-These download from the repository rather than the site. The files are already compressed, so they are excluded from the published build to keep the deploy artifact small; a URL like `/aied/aied.epub` on the site returns 404 by design.
+The locale set lives in `site.config.json` → `i18n.locales`, each locale's translated prose in `src/i18n/locales.json`, and its content under `content/<code>/`.
 
 ### How this is made
 
@@ -91,7 +119,7 @@ That is the whole setup: no environment variables, no API keys, nothing beyond `
 Two things to know before editing:
 
 - **`raw/` is not committed.** It holds the extracted full text of each source paper, which is gitignored because it is copyrighted material, and every page's `sources:` field points into it. The site builds without it, but the number-grounding check reports `[no raw source found - cannot verify]` for an edited article until you fetch that paper's text yourself.
-- **Scope the gates.** `npm run verify` walks the whole corpus and spends most of its time in the inline-link scan (11+ minutes over ~6,500 pages). For an ordinary edit use `python3 tooling/scripts/run-gates.py --changed`, which reads only the pages you touched and runs in seconds. The full sweep is for changes to slugs, facet values or generated artifacts.
+- **Scope the gates.** `npm run verify` walks the whole corpus, and most of its time goes into the inline-link scan. For an ordinary edit use `python3 tooling/scripts/run-gates.py --changed`, which reads only the pages you touched. The full sweep is for changes to slugs, facet values or generated artifacts.
 
 ### Repository layout
 
@@ -109,7 +137,7 @@ Two things to know before editing:
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer)
 │   ├── lib/           # jsonld.ts, markdown.ts, pageTitles.ts
 │   ├── components/    # JsonLd.astro, SourceButtons.astro, per-page components
-│   └── pages/         # index, journal, news, search, faq, resources, ai, rss, dynamic routes
+│   └── pages/         # index, journal, newsletter pages (news/), search, faq, resources, ai, rss, dynamic routes
 ├── public/            # llms*.txt, the committed EPUB/PDF editions, cover and marks
 ├── tooling/           # the pipeline: gates, generators, builders, cron prompts and shims
 ├── skills/            # public-safe mirrors of the agent skills the pipeline follows
@@ -148,7 +176,7 @@ The concepts a page touches are named in facet fields — `foundations`, `pedago
 
 ```bash
 python3 tooling/scripts/run-gates.py --changed   # the gates, scoped to edited pages
-npm run verify                                   # every hard gate, whole corpus (slow)
+npm run verify                                   # every hard gate, whole corpus
 npm run build                                    # the static site
 npm run preview                                  # preview the production build
 bash tooling/scripts/commit-if-green.sh msg.txt <paths...>   # gate, scan, commit with AI-use trailers
@@ -162,17 +190,7 @@ python3 tooling/scripts/sync-skills.py --check   # drift between skills/ and the
 
 The scheduled jobs run thin shims under `<AGENT>/scripts/`, and tracked templates for them live in `tooling/cron/`: `aied-scan-prefetch.py` (the daily scan's candidate fetch) and `aied-weekly-topic-sweep.py` (the weekly OpenAlex topic sweep). To install one, copy it into the agent's scripts directory and either export `AIED_WIKI` or replace the `<WIKI>` placeholder with your clone path.
 
-The EPUB and PDF are built locally and committed:
-
-```bash
-PATH="$HOME/.local/bin:/usr/bin:$PATH" /usr/bin/python3 tooling/build-epub.py
-```
-
-The interpreter matters: the PDF stage runs under pandoc, which spawns the `weasyprint` console script under its own shebang, while the metadata step imports `pikepdf` in the process of whatever interpreter you invoked. `/usr/bin/python3` has both. The script exits 1 if the metadata step cannot run; verify the PDF's `/Lang` by reading the catalog back rather than trusting the exit code.
-
-The export is parsed in parallel chunks (`tooling/pdf_parallel.py`), so a full rebuild takes **minutes rather than half an hour** — measured 24.9 min → 3.9 min for the English edition. `AIED_PARALLEL_CHUNKS=1` restores the old single-pass build. Either way the output is one continuous book: chunks are reassembled with the front matter, title block and a single TOC before one pagination pass, and the result must be checked against the artifact it replaces (page count, per-chapter counts, word multisets), never against itself.
-
-Do not build the site and the offline editions at the same time. The builder writes into `dist/`, and a site build regenerates that directory.
+The offline editions are built with `bash tooling/build-epub.py` and committed, so regenerate them after a content change rather than editing the files. Do not run that alongside `npm run build`: both write into `dist/`.
 
 ### How it stays current
 
@@ -189,7 +207,7 @@ python3 tooling/scripts/cron_prefetch.py --source "journal watch" --days 4   # d
 python3 tooling/scripts/cron_prefetch.py --cadence weekly --days 7          # weekly sweep
 ```
 
-The journal watch filters on `primary_location.source.id` (the source IDs were derived from the corpus, not guessed) and queries one AI term per request; the topic sweep filters on `topics.id` and requires a learner or teacher term to keep the list readable. Neither uses `--edu-only` or `--with-pdf-only`, because the first discards about half of education-technology work that OpenAlex files under information systems or the discipline, and the second discards the quarter of open-access records that carry `is_oa: true` with no `pdf_url`. Measured against a fortnight of hand-found articles, the shapes the scan runs now recover three quarters of them where the phrase queries they replaced recovered one in twelve. See [tooling/references/openalex.md](tooling/references/openalex.md) and the `scholarly-discovery-recall` skill.
+The journal watch filters on `primary_location.source.id` and queries one AI term per request, so a term is not diluted by a multi-word phrase; the topic sweep filters on `topics.id` and requires a learner or teacher term to keep the list readable. Neither passes `--edu-only` or `--with-pdf-only`: the first discards education-technology work that OpenAlex files under information systems or the discipline, and the second discards open-access records that carry `is_oa: true` with no `pdf_url`. See [tooling/references/openalex.md](tooling/references/openalex.md) and the `scholarly-discovery-recall` skill.
 
 Each run filters for relevance, skips what is already ingested, creates article pages, enriches the concept pages the new work contributes to, rebuilds and deploys. It also records every candidate concept pairing in `concept-screen.yaml` as integrated or deliberately declined.
 
@@ -197,7 +215,7 @@ Every article ingestion does two things beyond creating the page: it adds inline
 
 ### The weekly newsletter
 
-A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. Issues live in `content/en/newsletters/<issue-date>.md`, render at `/news/<issue-date>/`, are listed on `/news/`, and are available as a second feed at `/news/rss.xml`. Each issue carries `issue` (a sequence number) and `status` (`draft`, `ready` or `published`), so a draft can sit in the folder without appearing on the site.
+A weekly issue summarizes the most significant research and resources added, plus internal changes to the site. Issues live in `content/en/newsletters/<issue-date>.md`, render at `/news/<issue-date>/`, are listed on `/news/`, and have their own feed at `/news/rss.xml`. Each issue carries `issue` (a sequence number) and `status` (`draft`, `ready` or `published`), so a draft can sit in the folder without appearing on the site.
 
 The format, house style and publishing contract are in **[docs/newsletters.md](docs/newsletters.md)**: the four section headings, the masthead, the frontmatter, how to link the way the site's own pages link, and the footer.
 
@@ -211,7 +229,7 @@ Three skills drive the work, mirrored under `skills/research/`:
   python3 -m http.server 4322 --bind 0.0.0.0 --directory /tmp/newsletter-preview
   ```
 
-  Serve it on a second port: the site's own preview port is your window on the live build, and a rebuild wipes the served directory for minutes.
+  Serve it on a port other than the site's own preview, which serves the last build.
 
 - **`newsletter-publishing`** — the issue-as-page contract and the wiring checklist for publishing an issue on a site.
 - **`astro-newsletter-publishing`** — the Astro steps for adding the page family to a site that lacks it: the collection, the routes, the second feed, the icons, the journal and sidebar entries, and the header link.
