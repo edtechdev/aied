@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-01T08:10:00-05:00"
+updated: "2026-11-01T09:13:16-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -132,6 +132,9 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 - **"Tone is a detail of feedback quality."** In the benchmark it tracked the number it was given: every model, told a grade that contradicted the work, wrote feedback whose tone followed that grade, and for **eight of 22** the shift per point matched or exceeded the shift with the work's quality. Only the tone rule was validated against trained annotators, on **1,655** tutor replies, so substance is unmeasured. [[porcaro-ai-grading-benchmark-2026|A grader that writes feedback from a wrong grade launders the error into praise or criticism]].
 
+
+**Feedback can be built from the process rather than the product.** In [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] one arm received personalized visualizations of its own keystroke and screen activity with structured reflection, while the other received written instructor comments on accuracy, clarity and editorial quality. The process arm gained 5.64 points on a blind 0-100 editorial rating against 1.91 for the product arm, with a Group by Time interaction (F(1, 20) = 4.94, p = 0.038, partial eta squared 0.198) and the control arm's own gain not significant (p = 0.123). Eleven students per arm means the direction is the finding, not the size.
+
 ## Common Misconceptions
 
 - **"Students cannot tell AI feedback from human feedback."** They can, and the label changes the judgment: **once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01)**. Provider credibility shaped the evaluation of identical-style feedback.
@@ -213,4 +216,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[assessment-feedback-trilemma-model-2026]] — Names the trade-off among usability, sources and sustainability, making sustainability a design pole
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AI and instructor feedback equal on revision quality, unequal on motivation (Liu & Shi 2026)
-
+- [[xian-process-visualization-feedback-news-translation-2026]] - feedback generated from keystroke and screen traces outperformed written product comments, 11 per arm

@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-01T09:14:19-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -95,6 +95,9 @@ Satisfaction is the most frequently self-reported outcome in this corpus, appear
 
 The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[desirable-difficulties|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
 
+
+**Perception measures outnumber skill measures in the generative-AI inquiry literature.** In a 66-study review, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] found user perceptions the most reported outcome domain (32 studies, 48.5%), followed by affective outcomes at 25, while only 8 studies (12.1%) measured inquiry skills and 4 of those had a comparison condition. The authors rated no certainty of evidence, so the perception counts describe what was asked rather than what was achieved.
+
 ## What makes a self-report instrument credible
 
 Four properties separate a survey that can support a claim from one that cannot.
@@ -103,6 +106,9 @@ Four properties separate a survey that can support a claim from one that cannot.
 - **Reliability and structure.** Factor-validated instruments recur in this corpus, from [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy measures grounded in self-determination theory]] to acceptance scales modeled with [[technology-acceptance-model|TAM]] and SEM in [[acceptance-ai-english-tools-2026|studies of AI-assisted language tools]].
 - **Invariance, when groups are compared.** A scale that behaves differently across populations cannot support a comparison. [[same-ai-different-pathways|Multigroup SEM work]] reports measurement invariance testing (configural, metric, scalar) alongside its indirect effects, and [[genai-thoughtless-use-self-directed-learning-2026|a Switzerland–China comparison]] found only intrinsic value reached metric invariance and not scalar invariance — a limitation stated rather than hidden, and one that constrains what its cross-country differences can mean.
 - **A performance alternative where competence is the construct.** GLAT's 20 multiple-choice items exist precisely because self-report cannot carry a competence claim.
+
+
+**Most instruments in this space report reliability and almost none report validity.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] cite Su et al.'s review of 36 AI literacy studies, which found 63.8% of tools reporting reliability evidence and fewer than 20% reporting validity evidence. The same review found only one generative-AI-specific instrument, the 27-item GAIAS, among 50 K-12 frameworks. A scale being internally consistent says nothing about whether it measures the construct named in its title.
 
 ## Sampling, response, and non-response
 
@@ -193,3 +199,5 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[najem-behavioral-clustering-adaptive-learning-recommendation-2026]] — Profiles derived from self-report behave the same way
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — Two-phase review putting a rate on same-construct self-report versus performance disagreement (Fan et al. 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — Perceived ownership separated whole-essay delegation from everything else, while the trace separated much more (Jelson et al. 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - perceptions reported in 32 of 66 studies against 8 that measured inquiry skills
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 63.8% of AI literacy tools report reliability evidence and fewer than 20% report validity evidence

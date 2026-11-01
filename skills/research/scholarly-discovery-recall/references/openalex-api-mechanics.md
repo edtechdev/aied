@@ -24,7 +24,7 @@ curl -s -G -H "Authorization: Bearer $K" https://api.openalex.org/works \
 ## Filter syntax traps
 
 - **DOIs:** `filter=doi:10.3389/feduc.2026.1953305` with a literal `/` works. Percent-encoding the
-  slash (`%2F`, which `urllib.parse.quote` does by default) returns HTTP 400. Normalise both sides
+  slash (`%2F`, which `urllib.parse.quote` does by default) returns HTTP 400. Normalize both sides
   for comparison, since results echo `https://doi.org/...`.
 - Fetching one work: `filter=doi:<doi>` beats the `/works/https://doi.org/<doi>` path form, which
   needs the identifier encoded in a way that is easy to get wrong.

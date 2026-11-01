@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -80,6 +80,9 @@ A recent extension inverts the usual direction, placing subject-specific motivat
 
 Risk's link to use also depends on the system: across the 49 TALIS 2024 systems that administered the items, perceived AI utility was positively associated with AI use in all 49, while perceived risk was negatively associated in 40 and positively in nine ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]]).
 
+
+**Performance expectancy can carry a relationship that acceptance research reads as intention to use.** In [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] performance expectancy predicted AI overtrust at B = 0.6107 and was the first mediator through which self-efficacy, intrinsic motivation and extrinsic motivation reached overtrust. The expectancy-only indirect path was positive for all three predictors, 0.1355 (95% CI [0.0542, 0.2330]) for self-efficacy, so expectancy was not merely predicting whether students would use the tool.
+
 ## Common Misconceptions
 
 - **"TAM's constructs explain adoption."** [[socio-cognitive-genai-adoption-engineering-2026|Asag and Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh and explained **64% of** the variance. Substantial and incomplete at once: roughly a third of what drives adoption sits outside the classic acceptance constructs.
@@ -131,3 +134,4 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered alternative to bolting TPACK capability onto Theory of Planned Behavior adoption models
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Person-centered TALIS 2024 profiles of perceived AI utility and risk across 49 systems
 - [[genai-learning-procrastination-planned-behavior-2026]] — TPB extension measuring GenAI-assisted learning procrastination and anxiety's moderation of the intention–delay link
+- [[kim-overtrust-ai-literacy-2026]] - performance expectancy mediated the path from motivation and self-efficacy to AI overtrust

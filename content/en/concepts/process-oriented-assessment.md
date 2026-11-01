@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-01T09:13:16-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -49,6 +49,9 @@ Concrete tooling is emerging: [[stepwise-teacher-diagnosis-math-2026|Kim et al. 
 Required documentation proved feasible at course scale: across six semesters of six-week asynchronous graduate research-methods courses serving approximately 440 K-12 teachers, checkpoint submissions averaged 96% completion, and later iterations that added explicit prompt templates produced longer and visibly more substantive reflections [[packard-thinking-partner-framework-adult-learners-2026|Packard et al. (2026)]].
 
 - **"Process evidence needs a special assessment regime."** Some of it is an afternoon of instrumentation: a study of **77** college essay writers used a CodeMirror editor logging insertions, deletions, selections, cuts, copies and pastes with timestamps, beside an in-house chat panel on the default API, and captured **361** messages. The same traces showed that **14** responses to planning queries were pasted into final essays, which no product-level report would have revealed. The honest limit is in the instrument: typed words count as the student's even when rephrased from a response, so the boundary between typing and thinking is invisible. [[jelson-students-chatgpt-essay-writing-2026|Logging the process is cheaper than designing for it]].
+
+
+**A process trace is only feedback if the learner reads it against the task.** [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] gave eleven translation students Inputlog and screen-recording visualizations plus a single 30-minute reflection session. The share of meaning-level revisions rose from 18.1% to 28.4% (t(10) = 4.259, p = 0.002) while total revisions did not change significantly, falling from 1,292.91 to 1,052.36 (p = 0.248). The trace did not make students edit more, only differently, which is the argument for process evidence in one result.
 
 ## A different axis from authenticity, and from marking
 
@@ -118,3 +121,4 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[packard-thinking-partner-framework-adult-learners-2026]] — Checkpoint documentation of AI dialogue held at 96% completion across six semesters and about 440 teachers
 - [[rubrics-genai-process-based-assessment-2026]] — Three rubric dimensions from Biggs's 3P model: agency and supervision, dialogic scaffolding, cognitive sovereignty (Oviedo & Díaz 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — A CodeMirror editor plus a logged chat panel turned one essay session into process evidence, with its typing-versus-thinking limit (Jelson et al. 2026)
+- [[xian-process-visualization-feedback-news-translation-2026]] - process visualizations plus one reflection session shifted revision from surface to meaning level without increasing edit volume

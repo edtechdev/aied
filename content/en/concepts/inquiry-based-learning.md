@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-10-26T01:30:00-04:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -46,11 +46,16 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The knowledge base's evidence converges on a core tension — AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[metacognition|reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
 
+One study substitutes the facilitator rather than adding a tool beside them. In a four-week pharmacology course, 136 second-year medical students were split between facilitator-led and AI-led problem-based learning. Both arms gained significantly on pre/post multiple-choice tests and the between-group difference was not significant (p = 0.474), but facilitator-led groups scored higher on critical thinking (14.75 against 13.09, p < 0.001) and on the group assessment rubric (26.51 against 24.74, p = 0.035) ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty and Rao, 2026]]). Inquiry outcomes split by kind: content knowledge survived the substitution and the reasoning process did not, which is what it means to say the facilitator is the lever.
+
 ### Productive failure and inquiry
 
 [[productive-failure|Productive failure (PF)]] is the most structured cousin of inquiry-based learning: learners explore problems and generate solutions *before* direct instruction, then consolidate. Both share the premise that learner-generated attempts (even failed ones) [[prior-knowledge|activate prior knowledge]] and prepare learners to learn from instruction. The AI-era PF [[research-methods-aied|research]] sharpens how AI should scaffold inquiry without short-circuiting it: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles for preserving struggle through problem exploration and solution generation; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold answers and elicit multiple attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks exemplify clue-based (vs. direct) scaffolding that keeps learners doing the reasoning. These connect inquiry and PF to the broader imperative that AI must not remove the [[desirable-difficulties|productive struggle]] through which durable learning forms.
 
 In outdoor field settings the same imperative becomes spatial: GenAI can pre-structure what learners notice before they encounter the evidence, so a field-first sequence that withholds generated explanation until observations and initial interpretations are recorded protects the inquiry ([[geoscience-field-learning-genai-2026|Choi, 2026]]).
+
+
+**A 66-study map places generative AI beside investigation and least often at orientation.** [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] coded GenAI use onto the five inquiry phases and found support reported most often in investigation (45 studies, 68.2%), then conclusion (29, 43.9%), discussion (28, 42.4%) and conceptualization (27, 40.9%), with orientation last (20, 30.3%). Eleven studies covered all five phases, 19 covered one and nine named none. Only 8 studies (12.1%) measured inquiry skills, and 4 of those had a comparison condition, so this is a map of where tools were placed rather than what inquiry gained.
 
 ## Common Misconceptions
 
@@ -95,3 +100,5 @@ In outdoor field settings the same imperative becomes spatial: GenAI can pre-str
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 - [[geoscience-field-learning-genai-2026]] — A field-first instructional model that keeps GenAI from pre-structuring what learners notice (Choi 2026)
+- [[facilitator-vs-ai-mediated-pbl-pharmacology-2026]] — Human facilitator versus AI-mediated problem-based learning: equal content gains, weaker critical thinking without the facilitator (Shetty & Rao 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - 66-study map of generative AI across the five inquiry phases, with only 8 studies measuring inquiry skills

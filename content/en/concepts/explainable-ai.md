@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-10-27T10:05:00-04:00"
+updated: "2026-11-01T09:13:16-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -75,6 +75,9 @@ Two cautions sharpen this further, both of which the wiki's newest contribution 
 
 **Explainable-by-design** is one answer to the post-hoc faithfulness problem. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]] parameterize an explanation decoder by the same fused representation and predicted score that decide the [[assessment]], so that a low score on [[formative-assessment|formative]] questioning yields a rationale naming insufficient probing questions, and pair it with dual-lens attention over curriculum standards and subject-specific rubric moves. Attention-to-rubric alignment reaches 78.0% against 41.7% for GPT-4 zero-shot and 32.1% for BERT, and faithfulness is probed by counterfactual deletion of rubric-critical spans alongside human ratings on a rubric-anchored checklist, giving an explanation-credibility score of 0.78 — an increase of 0.31 over BERT-base. The audit also shows where the architectural claim thins: on emotional cues the model allocates 28.4% of attention weight against an expert 15.2% (alignment 0.53), with one failure case assigning 28% to the token "frustrated", which the authors read as overfitting to affect rather than pedagogy and name as an area for refinement. Embedding explanations in the decision path makes them more faithful than post-hoc rationales; it does not make them correct.
 
+
+**What a model says it used depends on the family as much as on the data.** Across seven models on one cohort, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] found symbolic approaches leaning on cognitive and motivational factors, sub-symbolic models on cognitive aspects, learned knowledge and gender, and both largely overlooking metacognitive factors, while the neural-symbolic model used a more integrated set. The same students and the same indicators produced different accounts of what mattered, so alignment with learning theory becomes a claim about attributions rather than about accuracy.
+
 ## Teaching explainability as accountability practice
 
 If explanation quality decides whether XAI is useful, then producing explanations has to be taught as a professional habit rather than demonstrated as a capability. [[lund-socially-accountable-data-science-xai-2026|Lund and colleagues (2026)]] propose doing this across four pillars — **answerability** (the obligation to give reasons to those affected), **responsibility** (harm anticipated across the lifecycle, not defended after the fact), **enforcement** (consequences inside the course) and **reflexivity** (documented examination of one's own assumptions) — each with its own assignments and its own classroom cost.
@@ -128,6 +131,7 @@ For explainability specifically, the assignments that matter are the ones that f
 
 - [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority signals raised deference to incorrect output, some references misattributed or fictitious
+- [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - symbolic, sub-symbolic and neural-symbolic models on one cohort attributed their predictions to different factors
 
 ## Citation
 

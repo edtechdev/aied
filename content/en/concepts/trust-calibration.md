@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -127,6 +127,9 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - Measure appropriate reliance as a behavioral outcome against ground truth, not as a trust score. The two correlate negatively in the one study that measured both.
 - Report recovery rates for initially-wrong participants separately from overall accuracy, because the aggregate hides the below-chance figure that matters most.
 
+
+**The learners who look most resilient are the ones who trusted the tool more.** In a survey of 300 South Korean university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found overtrust correlating with academic self-efficacy (r = 0.230), intrinsic motivation (r = 0.224) and performance expectancy (r = 0.360), and not with AI literacy (r = 0.051). In the serial model self-efficacy predicted overtrust directly at B = 0.3901 (95% CI [0.2190, 0.5612]), above its total effect of 0.3397, which the authors read as suppression. Calibration cannot be read off a learner's confidence.
+
 ## Common Misconceptions
 
 **"More trust means better use of the tool."** Trust and calibration diverge, and the correlation runs the wrong way. Among **432 undergraduates** solving Python problems with accurate and deliberately misleading AI suggestions, greater trust predicted **lower** appropriate reliance (**r = -.42**), and students accepted **86.03%** of the misleading suggestions. Generalized confidence is not the goal; matched confidence is.
@@ -189,3 +192,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[children-design-trustworthy-ai-chatbots-2026]] — How Children Design and Reason about Trustworthy AI Chatbots
 
 - [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — When AI advice agrees or disagrees with human judgment: trust, self-efficacy, psychological resilience, and adaptive responses in physical education
+- [[kim-overtrust-ai-literacy-2026]] - overtrust correlated with self-efficacy and performance expectancy but not with AI literacy in 300 students

@@ -72,7 +72,7 @@ Two lessons follow for AI design. Put the tool where the sequence intends an act
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] treats time as a designed scaffold rather than a student trait: a self-paced course carries a weekly allowance of about 100 minutes with a target near 20 minutes a day, time-aware reminders, a progress dashboard, and a short end-of-subchapter check of 3 to 12 questions. The baseline that design answers is stark, with nearly 25 percent of over 600 learners starting only in the final week and 95 percent of that group failing.
 
-Read it as a design prompt rather than a proven effect. The paper compares a later course against an earlier one instead of running a controlled trial, so the improvement cannot be separated from the change of cohort and subject, and reminders strong enough to move study timing are also a [[privacy|privacy]] question you have to answer in the syllabus.
+Read it as a design prompt rather than a proven effect. The paper compares a later course against an earlier one instead of running a controlled trial, so the improvement cannot be separated from the change of cohort and subject, and reminders strong enough to move study timing are also a [[privacy]] question you have to answer in the syllabus.
 
 ## Decide what to withhold, and when to restore it
 

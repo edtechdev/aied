@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-26T10:00:00-04:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -36,6 +36,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 A 42-study meta-analysis (56 effect sizes, 6,059 students) found GenAI-supported learning raised motivation by Hedges' g = 0.764 (95% CI [0.566, 0.962]) — but with I² = 93.7% and a 95% prediction interval of [−0.689, 2.217], the average conceals settings where the effect is near zero or negative ([[genai-learning-motivation-meta-analysis-2026|Fang et al. (2026)]]).
 - **Unreflective use erodes motivation — more so for men.** Thoughtless GenAI use (accepting answers unexamined) predicted lower motivation (β = −0.54) and lower [[self-efficacy]] (β = −0.37) among 487 undergraduates, and the motivation effect was significantly stronger for male students while the self-efficacy effect was stronger for female students ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 - **Cutting frustration is not the same as sustaining motivation.** A three-arm [[rct|RCT]] found a scaffolded tutor and unrestricted ChatGPT cut frustration equally (3.21 and 3.13 vs 4.09), but only the scaffolded tutor raised intrinsic motivation (2.82 vs 2.42, p < .001); ChatGPT did not (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
+- **Equal feedback quality does not mean an equal motivational effect.** A three-arm RCT with 312 first-year writers found AI-generated and instructor feedback improved revised essays by the same margin: d = 0.60 and 0.59, equivalent inside a pre-specified ±0.35 SD band. Instructor feedback nonetheless raised intrinsic motivation more than AI feedback (5.16 vs 4.90, d = 0.31), and perceived relatedness to the source mediated that gap (indirect 0.25, 95% CI [0.12, 0.40]) with almost no direct effect left ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu et al. (2026)]]). Performance ran through feedback engagement rather than self-efficacy, whose indirect path was not significant. Where the Bassner trial separated autonomy from answer-supply, this one holds output quality constant and locates the motivational difference in who the learner is answering.
 
 Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
@@ -65,6 +66,9 @@ A utility-value intervention is not uniformly beneficial: a scaffolded version p
 **The literature measures motivation without a theory of it.** A scoping review of 156 studies from 2003 to 2025 found 133 (85.3%) were guided by no specific motivational theory, the most common variable was a generalized academic motivation (n = 89), and 88 studies (56.4%) came from one national context ([[ai-student-motivation-scoping-review-2026|Li et al., 2026]]).
 
 Motivation also operates upstream of technology perception, not only alongside it. In a 340-student physics sample, utility value predicted perceived usefulness (β = 0.43) and intrinsic value predicted attitude (β = 0.20), while perceived cost lowered ease of use (β = −0.16) and attitude (β = −0.27) with no direct path to intention ([[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]]).
+
+
+**Motivational regulation is the thinnest construct in this literature.** Across 39 studies, [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna and Jiang (2026)]] found autonomous motivation measured in 2 studies, with identified regulation and controlled motivation in 1 each, against 17 studies measuring basic psychological needs and 10 measuring engagement. The authors call that gap the review's central problem, because regulation asks why a student is motivated while need satisfaction asks only whether the setting supported them.
 
 ## Connections to related concepts
 
@@ -126,3 +130,5 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-student-motivation-scoping-review-2026]] — 156 studies on AI and student motivation: 85.3% used no motivational theory, and coverage is narrow in construct, level, and country
 - [[gai-advocacy-practice-art-education-2026]] — Policy-practice gaps in GAI advocacy act as a stressor students appraise
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Scaffolded tutor raised intrinsic motivation where unrestricted ChatGPT did not
+- [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Matched-quality AI and instructor feedback, with the motivational gap running through relatedness (Liu et al. 2026)
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDT-guided review of 39 studies: needs and engagement measured often, motivational regulation almost never

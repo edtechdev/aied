@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-26T12:05:00-04:00"
+updated: "2026-11-01T09:13:16-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -77,6 +77,9 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - **Route the full four-skill loop around cost and connectivity.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] release LLMersion-1, a local-first prototype that works listening, reading, speaking and writing over the learner's own document on consumer hardware — a 1B tutor quantizes to 808 MB and the whole resident stack stays under 4 GB — and prices five years of daily practice at roughly \$18 of electricity, against \$1,200 for a cloud subscription. No learner outcomes are reported and pronunciation feedback is segmental only.
 - **Evidence on chatbot speaking gains is uneven by feature.** In the only systematic synthesis of the question, ten studies from 2021 to 2024 improved range and intelligibility most reliably, while coherence was examined once and interaction almost never; four of the ten reported a single holistic score ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
 
+
+**Translation students can be moved off surface correction.** In a news translation course, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] found search-engine consultation rising from a median of 15.6% to 27.7% of session time (p = 0.020, Holm-corrected) and knowledge-based searching from 7.2% to 28.8% (p = 0.010). Machine translation use fell from 28.5% to 5.1% without reaching significance (p = 0.338), and interactive AI use stayed at a median of zero. The lever was showing students their own process rather than banning a tool.
+
 ## Common Misconceptions
 
 - **"Embodied robot tutors work because of the embodiment."** A meta-analysis of **11 RALL studies (N = 595)** found a large pooled effect on L2 learning (**g = 0.83**) with **high heterogeneity**, and — importantly — **only interaction**-level features moderated it. Morphology and modality did not, so the hardware is not the active ingredient.
@@ -137,3 +140,4 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[ai-speaking-practice-communicative-readiness-2026]] — Readiness, not observed performance
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Extend AI scaffolding to collaborative reading
 - [[acoustic-lexical-native-language-identification-learners-2026]] — Audio beats a zero-shot GPT-4o transcript classifier for L1 identification (Uluslu et al. 2026)
+- [[xian-process-visualization-feedback-news-translation-2026]] - process feedback raised source consultation and cut machine translation use in a news translation course

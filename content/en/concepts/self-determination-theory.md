@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-01T08:10:00-05:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -55,6 +55,9 @@ A co-agency framework bounds SDT's reach in AI-mediated education: it changes th
 
 SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[educational-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
 
+
+**The three needs are not exercised evenly by generative-AI research.** [[pan-generative-ai-student-motivation-sdt-review-2026|Pan, Abuhassna and Jiang (2026)]] coded 39 studies against a 20-activity classification and found 14 activities present, with seven competence-related types against five for autonomy and two for relatedness. Six activities were absent from every study, and most ask the student to judge or challenge the tool: creating challenging problems, anticipating the tool's outputs, grading those outputs and debating with it. Relatedness is the need the literature least tests.
+
 ## Common Misconceptions
 
 - **"Motivation type matters less than motivation amount."** A year-long study found **three motivational profiles — Disengaged, Developing, Self-Determined — stable over time**, and students who reached the **Self-Determined** profile showed the **greatest [[ai-literacy]] gains**. The quality of motivation predicted the learning, and the profiles did not simply drift upward.
@@ -93,4 +96,4 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Hint-withholding preserved autonomy where answer-giving did not
 - [[schweder-motivational-organization-ai-writing-sdt-2026]] — AI availability, autonomy decline and motivational profiles in Grades 5–8 (Schweder & Grahl 2026)
-
+- [[pan-generative-ai-student-motivation-sdt-review-2026]] - 39 studies coded against a 20-activity classification; competence exercised most, relatedness least

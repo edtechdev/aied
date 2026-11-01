@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T14:00:00-05:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -63,6 +63,9 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - **"Low writing confidence shows up as a request for help."** It shows up as a request for prose. In an instrumented essay study, the Self-Efficacy for Writing Scale predicted total queries negatively (**-0.258**, SE **0.075**, p < 0.001), and the association ran through Translating (**-0.949**) and Reviewing (**-0.588**) rather than Planning (**-0.204**) or whole-essay delegation (**-0.016**). Students who doubted their writing asked the model to produce and correct text; they did not ask it what to argue. [[jelson-students-chatgpt-essay-writing-2026|Self-efficacy predicted reliance, and the reliance took a specific shape]].
 
+
+**Confidence does not protect a learner from trusting a tool too much.** Among 300 university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found academic self-efficacy associated with AI overtrust (r = 0.230) and predicting it at B = 0.3901 (95% CI [0.2190, 0.5612]) in a serial mediation model, reversing the authors' hypothesis. The productive version of confidence is confidence about one's own judgment, which is what a high overtrust score says is missing.
+
 ## Common Misconceptions
 
 - **"Students who lack confidence avoid AI."** The opposite pattern appears: in a **153-student proof course**, one point higher baseline self-efficacy predicted **39% fewer chatbot messages**. Low confidence routed into **heavier** AI use — the students most in need of practice were the ones most likely to offload it.
@@ -109,3 +112,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty SEM: technological self-efficacy a weak predictor of AI well-being
 - [[cen-self-efficacy-favorability-2026]] — Self-efficacy and favorability shape learning from tutoring systems and paper practice (Cen et al. 2026)
 - [[jelson-students-chatgpt-essay-writing-2026]] — The Self-Efficacy for Writing Scale predicted more Translating and Reviewing queries, and no more Planning or whole-essay delegation (Jelson et al. 2026)
+- [[kim-overtrust-ai-literacy-2026]] - academic self-efficacy predicted higher AI overtrust rather than lower

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-30T10:53:00-04:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -168,6 +168,9 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] train LLM tutors with a masked near-transfer post-test and two binary gates, so the reward can rise only through what the student wrote in its own turns, and their ablation shows the gates, not the raw learning-gain reward, are what reduce solution handover.
 
 
+
+**Over-reliance shows up as a named challenge across disciplines, not as a single study's anomaly.** In a 66-study review of generative AI in inquiry learning, [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya et al. (2026)]] found over-reliance or cognitive offloading reported in 16 studies (24.2%), behind inaccuracy at 31.8%. The pattern is reported by the primary studies rather than measured by the review, whose authors appraised neither study quality nor reporting bias.
+
 ## Common Misconceptions
 
 - **"Prompt volume measures offloading."** **97 learners** were clustered by prompt volume, and **the volume clusters did not differ significantly in local-versus-global or active-role prompting**. Counting prompts counted activity, not the distribution of cognitive work.
@@ -243,3 +246,4 @@ The same logic turns reward shaping into a design tool: [[assistance-dilemma-rl-
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] - Children showed weaker frontoparietal, salience and dorsal attention connectivity than adults while talking with ChatGPT, at matched creativity scores
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: a preregistered experiment in which AI affordances lowered deep processing and raised disorganization without raising offloading (Braun 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - over-reliance or cognitive offloading named as a challenge in 16 of 66 inquiry studies

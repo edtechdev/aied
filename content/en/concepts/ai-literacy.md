@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-10-31T09:55:00-04:00"
+updated: "2026-11-01T09:14:19-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -208,6 +208,12 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 
 [[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana and Triwahyuni (2026)]] propose CAFE-AI, a design that pairs AI literacy instruction with growth-mindset framing, reporting that the combination improved both measured AI literacy and mindset over a semester in one Indonesian university course.
 
+
+**Fifty frameworks in two years, and almost none of them measures generative AI.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach, Woodworth and Sawchuk (2026)]] charted 50 K-12 AI literacy frameworks published in 2024 and 2025, 35 of them in 2025, from fifteen countries. The 27-item GAIAS was the only generative-AI-specific instrument in the corpus, and the dominant tools, AILQ, SAICS and the Chung et al. diagnostic, do not assess generative AI literacy "at all." Competency labels converged on the same five dimensions while the constructs underneath them did not align.
+
+
+**A literacy score can be uncorrelated with the outcome it is meant to protect.** Among 300 university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found AI literacy uncorrelated with AI overtrust at the bivariate level (r = 0.051) while carrying a negative indirect association inside a serial mediation model. Once performance expectancy was in the model, higher AI literacy predicted lower overtrust. Knowing more about AI did not, on its own, change how much students trusted it.
+
 ## Common Misconceptions
 
 - **"Self-reported AI literacy tracks actual AI literacy."** It **diverges sharply from measured performance** — teachers **overestimate their skills by about 40%**, and [[ai-literacy-assessment-misalignment|research on literacy assessment]] shows the same **40% gap** between self-report and performance-based measurement. A survey of AI literacy measures confidence, not competence.
@@ -291,3 +297,5 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[hallstrom-ai-literacy-stem-education-frontiers-2026]] — Synthesis of the ten most-cited studies of AI literacy in STEM education (Hallström et al. 2026)
 - [[wang-jin-anthropocentrism-learnification-ai-education-2026]] — The demand to learn about AI read as a disciplining discourse (Wang & Jin 2026)
 - [[genait-genai-literacy-test-high-school-2026]] — GenAIT: An Objective Generative AI Literacy Test for High School Students and Its Associations with LLM Use and Perceptions (Puppart, Laak and Aru 2026)
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 50 K-12 AI literacy frameworks; only one instrument assesses generative AI specifically
+- [[kim-overtrust-ai-literacy-2026]] - AI literacy uncorrelated with overtrust bivariately but negatively indirect once performance expectancy is modelled

@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-01T09:13:47-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -88,6 +88,9 @@ Structure, not prompt phrasing, is what makes AI drafting reliable in production
 
 Curriculum design connects directly to [[learning-design]] — curriculum defines what, instruction defines how. It connects to [[ai-literacy]] because embedding AI competencies is a primary curriculum challenge, to [[teacher-role]] and [[educational-development]] because curriculum change requires educator preparation, and to [[scaffolding]] because well-designed curricula scaffold skill development across courses and years. The [[higher-ed]] and [[k-12]] connections reflect curriculum design's relevance across educational levels.
 
+
+**Choosing one AI literacy framework means choosing a vocabulary nobody has crosswalked.** In a scoping review of 50 K-12 frameworks, [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach et al. (2026)]] found competency definitions converging on cognitive, affective, behavioral, ethical and social dimensions while the labels and constructs did not align. Only the ABCE framework approached a shared measurement tradition, validated across Hong Kong, Shanghai and Taiwan, and progression across grade bands was proposed repeatedly and tested nowhere.
+
 ## Common Misconceptions
 
 - **"An LLM can map a curriculum once validated at high reliability."** GPT-o3-mini distributed **100% across seven enterprise skills for each of 48 assessments**, reaching **Krippendorff's alpha of 0.81** against expert weights — and **agreement** broke down on particular skills. High overall reliability with uneven agreement is the pattern to check before trusting the mapping.
@@ -144,3 +147,4 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - competency frameworks converge on five dimensions without a shared vocabulary or crosswalk
