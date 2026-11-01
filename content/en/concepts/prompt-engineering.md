@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-10-30T10:50:00-04:00"
+updated: "2026-11-01T08:10:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -40,7 +40,6 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Novices default to trial and error, and blame the model.** In a text-linguistics seminar, ten genAI novices refined prompts by trial and error, rarely reached for in-context examples, and overwhelmingly attributed poor outputs to the LLM rather than their own prompt formulation ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]]).
 - **Vague prompts leave a trace in the dialogue.** The lower-quality group's signature was a self-repeating clarification loop (IC→IC, Z = 3.25), traced to vague prompts and AI misreadings, and carrying the study's largest frustration gap (2.12 vs 3.82); prompt debugging on authentic logs targets it as it happens ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]]).
 
-
 - **When the instructor models the prompt, students reuse it verbatim.** Among 310 recorded prompts from twelve middle-school STEAM groups, exact copying of the instructor's instruction was the most frequent student standpoint at 47.1%, ahead of spontaneous inquiry at 28.7% ([[middle-school-genai-steam-interactions-2026|Zhao & Li (2026)]]).
 
 - **A regulatory cycle beats a prompt formula.** In a quasi-experimental pilot with 42 undergraduates, students taught the IDEA cycle (Intent, Deconstruction, Expression, Adaptation) produced higher-quality prompts and outputs than peers taught Role–Task–Context–Format prompting in all five task categories (adjusted prompt gains of +11.77 to +29.19 points) ([[idea-framework-metacognitive-genai-2026|Wang et al., 2026]]).
@@ -64,6 +63,7 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 - **Prompt scaffolding can move a model further from the teacher.** [[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al. (2026)]] had seven models produce paragraph-level writing feedback under three prompting strategies and found that adding category names or worked examples increased divergence from the teacher distribution for most of them, improving only Mistral-7B (0.2695 to 0.2398). The zero-shot baseline stayed closest, so focus-type instructions are something to test rather than assume.
 - **Context-aware prompting for assessment.** Context-aware prompting of pre-trained language models automates the coding of [[collaborative-learning|collaborative problem-solving]] skills from process data, modeling dependencies between behavior codes and fusing cognitive and social abilities. This enables structured CPS analysis at scale and in real time, overcoming the labor intensity of manual coding schemes.
 - **Role-based templates and quality rubrics for teacher planning.** [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] empirically develop a prompt framework for children's STEAM arts [[curriculum-design|lesson planning]] that pairs a Role (R) – Instructions (I) – End Goal (E) template (adapted from RISEN) with a "four points and one line" optimization rubric — standardized, practical, engaging, and complete, plus an extension dimension. Applying the rubric to critique and refine prompts kept generated plans acceptable to practicing art teachers (mean ratings above 4/5) while exposing recurring gaps ([[personalized-learning|personalization]], [[pedagogical-safety|child-safety]] constraints, cultural bias) that plain one-shot prompting left unaddressed — showing prompt templates plus explicit evaluation criteria function as a quality-control scaffold for classroom generation.
+- **A five-part scaffold, tested across four model families.** Role–Goal–Input–Process–Output prompts raised rated output quality from 3.318 to 4.603 (Δ = +1.285) over 400 matched pairs, with every family improving and the weakest baseline gaining most ([[li-who-benefits-llms-prompt-engineering-equity-2026|Li et al. (2026)]]).
 
 - **Role and constraint design as the independent variable.** [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] compare two agents built on the same model and platform at temperature 0.3 whose only difference is how the prompt specifies role, skills, and constraints: an expert teacher agent answering from a bounded textbook knowledge source versus an empathic student-centered agent scripted to diagnose [[misconceptions]] and check comprehension. The role difference alone shifted learning performance, cognitive load, flow experience, and perceived empathy, showing that role specification is an instructional-design decision with measurable effects rather than a stylistic flourish ([[pedagogical-agent]]).
 - **Prompting as assessment design.** [[ecd-prompts-automated-essay-scoring-2026|Xiong et al. (2026)]] map Evidence-Centered Design's student, evidence, and task models onto the parts of a scoring prompt, deriving five principles — intentionality, traceability, accountability, iteration, and equity; their ECD-built prompts scored narrative essays more accurately than zero-shot, few-shot, and chain-of-thought baselines.
@@ -136,3 +136,5 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[middle-school-genai-steam-interactions-2026]] — Middle-school STEAM groups copied the instructor's instruction verbatim in 47.1% of prompts
 - [[ecd-prompts-automated-essay-scoring-2026]] — Using Evidence-Centered Design to Guide Prompt Engineering in Measurement: An Illustration with Automated Essay Scoring
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Vague prompts produced self-repeating clarification loops with the largest frustration gap
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Prompt engineering competence as an equity pathway, with a cross-model scaffolding experiment (Li et al. 2026)
+

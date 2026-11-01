@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-10-26T09:45:00-04:00"
+updated: "2026-11-01T08:12:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -28,6 +28,7 @@ SSH education is a distinct subject area in the knowledge base, complementary to
 ### How AI appears in humanities and social science education
 
 - **Restructuring interpretive cognition.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argues that generative AI acts as an *epistemic mediator* that reconfigures meaning-making, authorship, and learner [[agency]] in SSH education. It identifies three transformations — externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency — and three developmental trajectories (AI-dependent, AI-enhanced, AI-critical interpretation). This grounds a developmental-critical [[pedagogy|pedagogical]] model for preserving interpretive depth.
+- **What a task lets a reader see decides whether authorship is assessable.** In a model simulation of 148 texts, memoranda and revision defenses scored 3.16 and 3.10 on argumentative visibility against 2.63 for position essays, because the format itself required source explanation or a response to objections ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
 - **History education.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]] examines how AI shapes historical reasoning and source interpretation.
 - **Humanities and social-science students' experiences.** [[genai-impact-chinese-students-hss|GenAI's impact on Chinese humanities and social science students]] and [[acceptance-ai-english-tools-2026|AI acceptance among language/English learners]] document student-facing effects across SSH disciplines.
 - **Critical and philosophical dimensions.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]] and the [[philosophy-of-ai-in-education|philosophy of AI in education]] are especially salient in SSH, where questions of meaning, values, and epistemic authority are central.
@@ -79,3 +80,5 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 - [[villanueva-ai-vulnerability-assessment-audit-2026]] — Computational audit of 15,587 Go8 Arts and Humanities units: 58.6% of 2026 assessment items highly AI-exposed, concentrated in essays and reports
 - [[genai-values-education-affordances-risks-2026]] — Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching (Chen 2026)
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence (Liu & Liu 2026)
+

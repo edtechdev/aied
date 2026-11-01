@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T11:00:00-05:00"
+updated: "2026-11-01T08:10:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -72,6 +72,8 @@ A design-level counterpart comes from the same population the redesign argument 
 
 [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] reframes redesign as a question of which inference a change is meant to protect. Working from Kane's argument-based validity, he separates five pressures that debate tends to collapse into one: construct underrepresentation, construct-irrelevant variance, attribution of performance, conditional extrapolation, and unsupported score use. AI use is not automatically a threat, because tool use is germane where the intended construct is AI-supported professional judgment and bypasses the target performance where it is unaided reasoning, so construct and AI conditions have to be specified together. His caution for redesign follows, since interventions trade one pressure for another: oral defenses may strengthen attribution while reducing reliability or accessibility.
 
+**The task, not the detector, sets what an artifact can evidence.** [[liu-argumentative-work-visible-genai-assessment-2026|Liu and Liu (2026)]] had a model write 148 texts across three task formats and three AI-use scenarios: evidence-integration memoranda (3.16) and follow-up-and-revision defenses (3.10) scored above position essays (2.63), because those formats required source explanation or a response to objections. They propose model simulation as task pretesting before an assignment is run with students.
+
 The outcome construct moves the estimate too: in a three-level meta-analysis of GenAI-supported problem-based and [[project-based-learning|project-based learning]], [[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. (2026)]] found learner-internal outcomes pooled at g = 0.819 while measures of the joint human-AI product returned g = 1.958 with a prediction interval crossing zero, modeled separately precisely because that product is not internalized learning.
 
 ### Connections
@@ -99,7 +101,6 @@ The same section of the evidence base supplies the case-file counterpart, and it
 ### The human-marking benchmark and its ceiling
 
 [[opraise-automated-marking-ai-assessment-2026|The OpRaise comparison of three frontier models against 761 authentic essays across three UK universities]] makes the benchmark part of the validity argument. Human marks were used as ground truth on the explicit ground that academic judgment is the socially accepted standard, while the authors acknowledge that human markers agree only moderately with one another — which caps the AI–human agreement that could reasonably be demanded, and means a correlation cannot be read as ready-or-not without a reference point. Within that frame the failures appeared as systematic structure rather than random error: marks compressed toward the middle of the scale, so the best and worst essays were misjudged most; agreement was weakest at grade boundaries; and AI marks tracked vocabulary range, connectives and sentence complexity while human marks were broadly insensitive to them. The practical lesson is double-edged, because the same study found reliability to be excellent — identical re-marks across time and high agreement between models. A validity case for automated marking therefore cannot rest on stability or on average agreement; it has to show the absence of systematic deviation, which is exactly what this evidence did not find.
-
 
 Run-to-run stability is not guaranteed, however: repeating the same grading on identical submissions five days apart gave Krippendorff's alpha 0.625, with variation concentrated in the middle grades and A and F absent from the repeated-session counts ([[llm-grading-assistants-public-health-2026|Brevik et al. (2026)]]).
 
@@ -195,3 +196,5 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — The outcome construct moves the estimate: g = 1.958 for the joint human-AI product
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence (Liu & Liu 2026)
+

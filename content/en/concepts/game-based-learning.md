@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-10-30T06:18:00-04:00"
+updated: "2026-11-01T08:10:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -28,8 +28,9 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 - **Robot-mediated games:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] is a robot-mediated role-play game for anti-bullying intervention, and [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses interactive [[storytelling-in-education|digital storytelling]] to boost motivation.
 - **AI [[conversational-ai|conversational agents]] in simulation games:** Wenzel, Geiger, and Liening (2026) derive the CAIS-GBL framework — four design principles and fifteen design features for AI conversational agents in digital game-based learning — from theory-driven meta-requirements spanning cognitive, motivational, [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement, with an [[equity-in-ai-education|equity]]-by-design stance. Their instantiated agent (Lara) in a business simulation game was positively received for cognitive and [[community-of-inquiry|social presence]] and [[self-regulated-learning]] support, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation games.
 
-
 - **AI-GBL effectiveness:** A 55-study systematic review of AI-supported game-based learning finds positive effects on knowledge, intrinsic motivation and affective engagement, but only 4 studies (7%) met its High-quality threshold and only 4 (7%) were [[rct|RCTs]] ([[ai-game-based-learning-systematic-review-2026|Kaşarcı & Yurt, 2026]]). Effectiveness turned on aligning the AI mechanism with a stated [[learning-theories|learning theory]].
+
+- **GenAI as the game's author, not its player:** [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] had a model draft seven characters and narrative material for an offline mystery role-play game, and the game then beat the same instructor's lecture in a 42-per-arm randomized trial (partial *η*² = 0.566). Students never used the AI, so the effect belongs to the format.
 
 - **Students as game designers rather than players:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] had 22 primary students aged 8-12 design an augmented escape board game about misinformation, stacking [[project-based-learning|project-based learning]] with [[design-thinking|design thinking]] and the Room2Educ8 escape-room framework. Composite [[ai-literacy|AI literacy]] on a 20-item DigComp 3.0 questionnaire rose from 3.684 to 4.309 on a 5-point scale, t(21) = −21.086, p < .001, with all five competence areas improving. The class generated 11 proposals with AI prompts and merged them into one buildable game. Self-report, one class, and no control group.
 
@@ -96,3 +97,5 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
 - [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
+- [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture in legal education (Xie et al. 2026)
+

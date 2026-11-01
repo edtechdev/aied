@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-10-26T08:20:00-04:00"
+updated: "2026-11-01T08:10:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -32,11 +32,10 @@ SDT is increasingly used in AI in education [[research-methods-aied|research]] a
 
 **SDT in AI-mediated learning engagement** examines how [[generative-ai|generative AI]] tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with [[network-analysis|epistemic network analysis]] to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** extend SDT to AI learning with a latent transition analysis of **2,086 secondary students** in a year-long AI [[curriculum-design|curriculum]], identifying **three motivational profiles (Disengaged, Developing, Self-Determined)** that were stable across time and showing that most students maintained or advanced toward higher profiles. Crucially, students who reached or remained in the Self-Determined profile showed the **greatest [[ai-literacy]] gains** — direct longitudinal evidence that satisfying autonomy, competence, and relatedness predicts better AI-learning outcomes, and that motivation is a developmental (not fixed) learner property.
 
-
 A contrasting classroom result shows the needs do not move together: among 2,464 lower-secondary students, ChatGPT-supported competency-based learning raised autonomy support and competence satisfaction yet produced a larger share of low-quality motivational profiles, and relatedness satisfaction was weaker than in non-AI competency-based learning ([[student-motivation-need-satisfaction-genai-sdt-2026|Schweder, Hagenauer & Raufelder (2026)]]).
+- **Availability is not usage.** With 406 students in Grades 5–8 writing twice, once without digital tools and once with GenAI optional, autonomy satisfaction fell (Δ = −0.28) while mean regulation stayed stable and degree of AI use predicted no profile membership ([[schweder-motivational-organization-ai-writing-sdt-2026|Schweder & Grahl (2026)]]).
 
 Autonomy, not ease, carried the motivational gain here. A three-arm [[rct|RCT]] found that a hint-withholding tutor, which kept learners building their own solution, was the only arm to raise intrinsic motivation (2.82 vs 2.42), while unrestricted ChatGPT, which supplies the answer, did not (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
-
 
 A configurational test sharpens the point: among 498 medical undergraduates, GAI use was only weakly associated with need satisfaction (β = 0.155) and proved unnecessary for high engagement, while competence need satisfaction was the core condition in the strongest configuration ([[genai-learning-engagement-medical-undergraduates-2026|He et al. (2026)]]).
 
@@ -45,7 +44,6 @@ A configurational test sharpens the point: among 498 medical undergraduates, GAI
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
 
 **SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[learning-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative [[problem-solving]] their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
-
 
 For teachers themselves, AI collaboration cuts both ways: a three-wave study of 468 university teachers found it raised work engagement through psychological availability while lowering it through work alienation, and [[teacher-ai-competency|digital competency]] strengthened the first path and weakened the second ([[teacher-ai-collaboration-work-engagement-2026|Sun et al. (2026)]]).
 
@@ -94,3 +92,5 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[genai-learning-engagement-medical-undergraduates-2026]] — GAI use is weakly tied to need satisfaction and unnecessary for high engagement (He et al. 2026)
 - [[teacher-ai-collaboration-work-engagement-2026]] — Dual pathways from teacher–AI collaboration to work engagement, moderated by digital competency
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Hint-withholding preserved autonomy where answer-giving did not
+- [[schweder-motivational-organization-ai-writing-sdt-2026]] — AI availability, autonomy decline and motivational profiles in Grades 5–8 (Schweder & Grahl 2026)
+

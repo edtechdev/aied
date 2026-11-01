@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-10-26T08:20:00-04:00"
+updated: "2026-11-01T08:10:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -30,6 +30,8 @@ reviewed_by: [editor]
 Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline in the knowledge base where [[educational-policy-ai|education policy]], professional [[regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practice with it.
 
 The evidence base is currently thin and policy-heavy. One substantial article anchors the page: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] surveyed and compared institutional generative AI policies across ABA-approved US law schools and proposed a governance framework. That imbalance is itself a finding, and the page flags it rather than papering over it.
+
+Experimental evidence is beginning to arrive: [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] randomized 84 law undergraduates to a GenAI-authored mystery role-play game or to the same instructor's lecture, and the game group scored far higher on a knowledge-and-reasoning post-test (partial *η*² = 0.566).
 
 ## How AI appears in legal education
 
@@ -100,3 +102,5 @@ In a legal-context experiment, 186 lay decision-makers on tribunal civil cases d
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
 - [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Withholding the system's position suppresses overreliance in legal-context decisions without building judgment (lay decision-makers, not law students)
+- [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture: a randomized trial (Xie et al. 2026)
+

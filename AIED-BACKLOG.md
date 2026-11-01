@@ -6,8 +6,26 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-10-30
-**Total backlog:** 0 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-01
+**Total backlog:** 8 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Weekly journal RSS scan (2026-11-01)
+
+Five articles were ingested this run with full text saved under `raw/papers/`. Two in-scope candidates were not ingested and are recorded here; both are open access with retrievable full text, so either can be ingested on request.
+
+- [Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods](https://www.sciencedirect.com/science/article/pii/S1560429226013181) — held back as a methods-comparison paper whose educational claim is thin; screen before ingesting
+- [Process visualization feedback in news translation: a controlled intervention study of human-AI interaction using multimodal process data](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1893830) — translator-training study, in scope for language education but not yet screened for significance
+
+## OpenAlex harvest (2026-11-01)
+
+The weekly topic sweep returned 529 candidates across 13 queries. Six were judged worth pursuing and are recorded here rather than ingested this run, preferring randomized trials, meta-analyses and reviews over single-site perception surveys.
+
+- [Does Teacher Mediation Matter? A Three-Level Meta-Analysis of Generative AI-Assisted Learning](https://doi.org/10.17605/osf.io/c84zj) — three-level meta-analysis on teacher mediation, directly relevant to the human-in-the-loop evidence base
+- [Human Tutoring, Generative AI Tutoring, and Independent Internet Search: A Randomised Comparison](https://doi.org/10.17863/cam.136437) — randomized comparison of tutoring sources
+- [How Does Generative AI Support Inquiry-Based Learning? A Systematic Review](https://doi.org/10.12688/f1000research.192825.1) — systematic review mapped to an inquiry pedagogy
+- [Generative AI and student motivation: an SDT-guided systematic review of learning activities](https://doi.org/10.3389/fpsyg.2026.1984018) — SDT-guided review of motivational evidence
+- [K-12 AI literacy frameworks after generative AI: A scoping review](https://doi.org/10.30935/ijpdll/19665) — framework-comparison review at the K-12 level
+- [Critical AI literacy as a buffer against AI overtrust in students](https://doi.org/10.1186/s40359-026-05797-4) — empirical test of critical AI literacy against overtrust
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-10-30)
 
