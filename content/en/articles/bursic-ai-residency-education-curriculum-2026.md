@@ -12,7 +12,7 @@ research_method: [interviews, thematic analysis]
 discipline: [medical education]
 level: [higher ed]
 audience: [instructors, administrators, researchers]
-contributors: [maintainer]
+contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
