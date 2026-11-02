@@ -2,7 +2,7 @@
 title: "A motivational-meaning model of AI feedback in university physical education"
 published: "2026-10-19"
 created: "2026-10-28T12:40:58-04:00"
-updated: "2026-11-02T06:45:00-05:00"
+updated: "2026-11-02T07:05:00-05:00"
 type: article
 foundations: [theory-development-aied, ai-education]
 pedagogy: [self-determination-theory, self-regulated-learning, motivation]
@@ -25,7 +25,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Wang and Wang (2026) ask why the same AI movement feedback reads as evidence to one student and as a demand to another, and answer with a model, not a study. It is a Hypothesis and Theory article with no sample, no data and no measured effect. Its contribution is a motivational-meaning model for university physical education that joins [[self-determination-theory|self-determination theory]], [[feedback-literacy]], [[self-regulated-learning]] and motor-learning research around one claim: an output has no fixed motivational function apart from the framing a teacher gives it, the audience that can see it, and the evidence a learner can bring against it. Blocked translation is a temporary failure to find a defensible basis for the next attempt, not a third meaning; appropriation is the shift to independent monitoring. Seven proposition groups carry the predictions; whether appropriation is distinct from established self-regulation constructs is, by the authors' account, an empirical question.
+> **Synthesis:** Wang and Wang (2026) ask why the same AI movement [[feedback]] reads as evidence to one student and as a demand to another, and answer with a model, not a study. It is a Hypothesis and Theory article with no sample, no data and no measured effect. Its contribution is a motivational-meaning model for university physical education that joins [[self-determination-theory|self-determination theory]], [[feedback-literacy]], [[self-regulated-learning]] and motor-learning research around one claim: an output has no fixed motivational function apart from the framing a teacher gives it, the audience that can see it, and the evidence a learner can bring against it. Blocked translation is a temporary failure to find a defensible basis for the next attempt, not a third meaning; appropriation is the shift to independent monitoring. Seven proposition groups carry the predictions; whether appropriation is distinct from established self-regulation constructs is, by the authors' account, an empirical question.
 
 ## Key Findings
 

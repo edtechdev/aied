@@ -96,6 +96,14 @@ build:
     # repeats one already on the page, and none long enough to lose an instructor reading
     # it. Pages grow by weaving, so this is the failure mode to watch as they grow.
     - python3 tooling/scripts/check-concept-prose.py --changed
+    # And this proves the page links the concepts it declares. A page whose subject is
+    # motivation shipped with no [[motivation]] link at all, and a page about trust and
+    # AI literacy linked both only in the body, leaving the opening synthesis - the
+    # paragraph a reader meets first - as dead text. Neither was visible to any gate:
+    # the inline-link scanner keeps generic words like motivation, trust and feedback
+    # report-only, so a pass whose output is skimmed ships them unlinked. Scoped with
+    # --changed so it costs nothing on a normal run.
+    - python3 tooling/scripts/check-concept-first-mentions.py --changed
     # Typed facet fields are authored directly (tags were retired) and must hold
     # concept slugs from their own registry section.
     - python3 tooling/scripts/validate-facets.py
