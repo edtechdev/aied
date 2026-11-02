@@ -8,23 +8,23 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "en": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.epub",
-      "bytes": 2822267
+      "bytes": 2869455
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.pdf",
-      "bytes": 7717912
+      "bytes": 7833400
     },
     "llms": {
       "url": "/aied/llms.txt",
-      "bytes": 1265080
+      "bytes": 1282590
     },
     "llmsConcepts": {
       "url": "/aied/llms-concepts.txt",
-      "bytes": 3935148
+      "bytes": 4010173
     },
     "llmsFull": {
       "url": "/aied/llms-full.txt",
-      "bytes": 20596563
+      "bytes": 21002384
     }
   },
   "es": {
@@ -48,19 +48,19 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "fr": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.epub",
-      "bytes": 2984429
+      "bytes": 3322615
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.fr.pdf",
-      "bytes": 7950879
+      "bytes": 8838578
     },
     "llms": {
       "url": "/aied/llms.fr.txt",
-      "bytes": 53001
+      "bytes": 54400
     },
     "llmsConcepts": {
       "url": "/aied/llms.fr-concepts.txt",
-      "bytes": 4519567
+      "bytes": 5113814
     }
   },
   "zh": {
@@ -210,37 +210,37 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "ru": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.epub",
-      "bytes": 3368991
+      "bytes": 3788586
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.ru.pdf",
-      "bytes": 8340481
+      "bytes": 9441413
     },
     "llms": {
       "url": "/aied/llms.ru.txt",
-      "bytes": 74220
+      "bytes": 76139
     },
     "llmsConcepts": {
       "url": "/aied/llms.ru-concepts.txt",
-      "bytes": 6471855
+      "bytes": 7460169
     }
   },
   "uk": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.epub",
-      "bytes": 3280994
+      "bytes": 3695486
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/raw/refs/heads/main/public/aied.uk.pdf",
-      "bytes": 8058150
+      "bytes": 9122519
     },
     "llms": {
       "url": "/aied/llms.uk.txt",
-      "bytes": 69841
+      "bytes": 71669
     },
     "llmsConcepts": {
       "url": "/aied/llms.uk-concepts.txt",
-      "bytes": 6109745
+      "bytes": 7045413
     }
   },
   "it": {
