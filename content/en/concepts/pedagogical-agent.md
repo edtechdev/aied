@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-10-26T10:25:00-04:00"
+updated: "2026-11-02T06:10:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -31,6 +31,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 
 ## How pedagogical agents are studied in the knowledge base
 
+- **Peer versus tutor is a role the interaction produces, and it is judged on social behavior.** [[lin-ai-peer-collaborative-math-learning-2026|Lin et al. (2026)]] had seven expert researchers solve quadratic equations with an adaptive agent carrying a Big Five persona and motivational modulation, then interviewed them. Participants read the agent as a peer when it created a non-judgmental space, reasoned tentatively, showed appropriate imperfection and respected their pace, and as a tutor when it agreed blindly, disclosed the answer early or fixed the direction of travel — a shift driven by control rather than by correctness. One participant found the agent's mistakes endearing while another found them useless, so peer-likeness and peer-usefulness diverge, and fabricated shared history ("claims I've said some things which I didn't") broke trust faster than any wrong answer.
 **Design and architecture of conversational agents.** A recurring thread is how agents are structured, not just what models power them. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues that proven ITS [[ai-technologies|technologies]] — [[knowledge-tracing]], affect detection, [[student-modeling|student modeling]] — should anchor generative tutors, keeping the diagnostic backbone while [[generative-ai]] supplies flexible dialogue. Multi-agent designs push this further: [[mooc-to-maic|MAIC]] replaces the [[online-teaching-and-learning|MOOC]]'s "one video for N students" with a [[llm]]-driven classroom of Teacher, Assistant, Classmate, and Analyzer agents to deliver [[personalized-learning|personalized learning]] at scale, while [[lecturaagents-multi-agent-teaching|LecturaAgents]] adds an [[embodied-learning|embodied]] ProfessorAgent whose TASA algorithm aligns visible [[teacher-role|teaching]] actions (handwriting, highlighting) with learner profiles. Even parent–child tutoring becomes a two-agent problem in [[paratutor-parent-child-tutoring|ParaTutor]], where role-separated scaffolding keeps the parent centrally involved instead of letting a generic chatbot displace them. The same role-based logic appears in [[instructional-agents-multi-agent-course-gen|Instructional Agents]], where Teaching Faculty, Designer, TA, and Program Chair agents collaborate across ADDIE to generate course materials.
 
 A complementary use of role-based agents targets [[teacher-education|teacher]] practice rather than student learning: [[educasim-cs1-instructional-practice|Mohne et al. (2026)]] combine pedagogical student personas, memory grounded in actual course material, and an LLM-as-a-judge speaker oracle so novice instructors rehearse a small-group section — 254 optional sessions averaging about 16 minutes each, at roughly \$0.05–\$0.10 per session.

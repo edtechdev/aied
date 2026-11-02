@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-01T06:59:43-05:00"
+updated: "2026-11-02T06:10:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -28,6 +28,7 @@ Student-AI interaction is the observable surface of learners' [[student-engageme
 
 ### What students ask AI
 
+- **Refusal is an interaction configuration, not an absence of use.** [[silverdal-distributed-authorship-swedish-writing-2026|Silverdal, Hermansson and Lindgren (2026)]] recorded three upper-secondary students writing the same Kafka-inspired story with GenAI and mapped three distinct assemblages from the recordings: authorship delegated to the model, reciprocal critical co-writing, and an explicit "AI and I—no thanks" configuration in which the student reorganized their writing practice away from the tool. The finding for this page is that the *same* assignment, room and tool produced all three, and much of what separated them sat in the moments between prompts — pauses, reformulations, hesitation before accepting a suggestion — which a chat log alone does not capture.
 A core strand of research measures the **types and quality of student inquiries**. Studies apply taxonomies of question types — for example the Graesser et al. 18-type taxonomy — to classify student-AI interactions, often using few-shot classifiers to scale the analysis across hundreds or thousands of interactions. Findings indicate that a small subset of question types accounts for the majority of student inquiries, and that the questions students ask **change substantially as a task progresses** (e.g., [[student-ai-inquiry-types-cs2-2026]]). This task-dependence matters: interaction quality is not a fixed trait of the student but is shaped by problem context, [[scaffolding]], and the affordances of the AI tool. At the youngest ages, [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] found children (ages 6–14) actively tested a [[conversational-ai|chatbot]]'s credibility by posing known-answer questions (e.g., "how big is a t rex") — an expression of epistemic self-agency — while the modal child asked only 1–3 questions and a standout first-grader asked 21, underscoring how developmental and individual variation shapes the questions learners pose.
 
 The taxonomies themselves do not yet agree: across 46 categorizations from 33 studies, similar labels name different phenomena, so the review proposes the *interaction episode* — a goal-directed, temporally bounded exchange — as a unit spanning knowledge acquisition, evaluative feedback, strategic guidance, dialogic inquiry, artifact refinement, and co-regulation ([[student-llm-interaction-taxonomy-review-2026|Borchers, Jansen & Weidlich (2026)]]).
