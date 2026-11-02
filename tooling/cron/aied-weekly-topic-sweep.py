@@ -6,7 +6,7 @@ tooling):
 
     <WIKI>/tooling/scripts/cron_prefetch.py --cadence weekly --days 7
 
-The cron scheduler only accepts scripts under ~/.hermes/scripts/, hence this shim. It runs
+The cron scheduler only accepts scripts under <AGENT>/scripts/, hence this shim. It runs
 only the sources marked `cadence: weekly` in wiki.config.yaml, which today is the single
 OpenAlex topic sweep: a broad `topics.id` filter with a learners requirement, high volume and
 lower precision than the daily journal watch, which is why it runs once a week and never as

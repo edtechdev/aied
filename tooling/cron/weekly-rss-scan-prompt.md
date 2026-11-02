@@ -149,6 +149,17 @@ After creating/enriching all article and concept pages, load the `wiki-inline-li
 ### 4d. Run the list-formatting check (mandatory, HARD GATE)
 Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` and fix every reported page by removing the blank line between consecutive ordered-list items (blank-line-separated items render each as `1.`). Verify 0 defects before proceeding to build. A green build does NOT catch this.
 
+### FIRST-MENTION CHECK: DOES THE PAGE LINK THE CONCEPTS IT DECLARES? (hard rule, added 2026-11-02)
+
+Two pages the maintainer read first were missing the concepts they were about: a review of AI and student motivation carried no `[[motivation]]` link anywhere, and a page on trust and AI literacy linked `[[trust]]` and `[[ai-literacy]]` only in the body, so the opening synthesis — the paragraph most readers actually read — was dead text. The cause is structural: `inline_link_scan.py` keeps ambiguous generic words (`motivation`, `trust`, `feedback`, `assessment`, `agency`, ...) in AUTO_APPLY_DENYLIST, so they are report-only and any pass whose output is skimmed ships them unlinked.
+
+So the inline-link pass has a mandatory closing step, run on every page you created or edited, AFTER the scanner and BEFORE `git commit`:
+
+    python3 tooling/scripts/check-concept-first-mentions.py --changed
+
+It asks a narrower question than the scanner: for every concept the page DECLARES in its facets, is that concept linked the first time it is named in the `> **Synthesis:**` blockquote? Link every first mention it reports, judging each in its sentence. Some reported pairs are lexically right and semantically wrong — `autonomy` is an SDT need, not `[[agency]]`; `cognitive load` is not `[[cognitive-offloading]]`; `instructional design` is not `[[learning-design]]`; `authorship` is not `[[academic-integrity]]` — and when you reject one, add the (alias, slug) pair to `EXCLUDE_PAIRS` in the script so the reason is recorded rather than re-litigated each run. Never pass `--apply`, and never run it corpus-wide except with `--changed`.
+
+
 ### 5. Gates, build and commit
 ```
 cd [YOUR_WIKI_PATH]

@@ -6,7 +6,7 @@ of the tooling:
 
     <WIKI>/tooling/scripts/cron_prefetch.py
 
-The cron scheduler only accepts scripts under ~/.hermes/scripts/, hence this shim. It reads the
+The cron scheduler only accepts scripts under <AGENT>/scripts/, hence this shim. It reads the
 source list from the repo's `wiki.config.yaml` -> `scan.sources`, so queries and the relevance
 bar stay in one place.
 
