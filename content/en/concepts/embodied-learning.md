@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T09:06:43-05:00"
+updated: "2026-11-02T12:58:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
@@ -43,6 +43,9 @@ A second, more theoretical strand of the knowledge base's embodiment research co
 
 Embodied learning connects to [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], and [[social-emotional-learning]].
 - **Body tracking turns regulation into a measurable signal.** In a mixed-reality photosynthesis simulation where motion tags moved student agents across a projected model, an LLM pipeline labeled 470 segments of self-regulated behavior in 40 minutes of video, enacting dominating at 66.4% ([[fonteles-embodied-learning-human-in-the-loop-multimodal-2026|Fonteles et al., 2026]]).
+- **AI mostly watches the body rather than joining it.** In a PRISMA review of 23 AI-for-embodied-learning studies, the 40 coded AI roles were dominated by sensing: analysis and evaluation 40.0% and recognition and detection 22.5%, against 35.0% for roles acting inside the activity (feedback and coaching 15.0%, interaction 12.5%, content creation 7.5%). Dropping the three Low-rated and four unappraisable papers cuts interaction to 6.7% and content creation to 3.3%, so the evidence that AI joins the embodied loop rests on the weakest papers ([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
+
+- **The most bodily literature measures the body least.** Of 32 outcome tags, cognitive outcomes took 43.8%, affective 34.4% and psychomotor 21.9%, an ordering that held among the 16 higher-rated papers (24.0% of 25 tags). The authors blame the difficulty of selecting psychomotor measures and a habit of prioritizing cognitive gains, not a weak effect on bodily skill. None of the reviewed systems was designed for learners acting together; the collaboration that appears is cooperation between teacher and AI ([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
 
 ## Common Misconceptions
 
@@ -78,3 +81,4 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[videla-embodied-ai-education-choreography]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]] — AI as facilitator after hand-built models: a language-based AI cannot follow embodied inquiry (Tufino & Damiani 2026)
+- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)

@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-27T07:23:49-04:00"
+updated: "2026-11-02T12:58:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -82,6 +82,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 4. **Extend evaluation to multimodal validity.** [[assessment-validity|Assessment validity]], bias, and reliability must be examined when AI scores or generates multimodal artifacts.([[multimodal-item-parameter-estimation-2026]])([[ai-ed-evaluation]])
 5. **Watch equity and privacy.** Unreliable support on image-rich problems and the data demands of multimodal sensing both carry equity and privacy implications.([[syal-multimodal-dialogue-stem-2026]])([[privacy-aware-classroom-incident-recognition-2026]])
 6. **Match the pipeline to the content.** A cybersecurity lab assistant's multimodal LLM handled dense visual slides better, while an OCR-plus-LLM pipeline delivered comparable instructional value on text-centric slides at significantly lower computational cost.([[genai-cybersecurity-ocr-multimodal-instruction-2025|Patel et al. (2025)]])
+7. **Collecting several streams is not integrating them.** A review of 23 AI-for-embodied-learning studies sorted multimodal work into three levels — streams gathered in parallel, streams aligned on a shared timeline, streams fused inside one model that estimates the learner's state — and placed most studies at the first, pairing image with text or motion with text without ever joining them. One study aligned facial affect, gaze and face detection after the fact; the closest approach to fusion modeled joint states from wristband and skeletal signals with a Markov process, and ran after the session rather than informing the feedback learners received. No reviewed system fused its inputs during use ([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
 
 ## Common Misconceptions
 
@@ -146,3 +147,4 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving
 - [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: 12 tasks over 1,174 artworks show VLM capability as a dimension-specific profile, weakest in affective interpretation and viewpoint-dependent spatial reasoning (Zhu et al. 2026)
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)

@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-31T09:55:00-04:00"
+updated: "2026-11-02T12:58:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -103,6 +103,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 
 - **Turning AI analyses into classroom talk is itself a teacher skill.** In four secondary mathematics lessons, one teacher's 47 whole-class orchestrations converted dashboard output into collective argumentation by selecting and sequencing students' warrants, and the study names four recurring types ([[ai-integrated-math-argumentation-teacher-noticing-2026|Lee, Park and Lee (2026)]]).
 
+- **Analytics that lightens a teacher's load is not analytics that lightens a learner's.** In a review of 23 studies of AI in embodied learning, 62.5% of 40 role tags were sensing roles that appraise a movement, trajectory or artifact — work that otherwise fell to a teacher — and the authors warn that a reduction in teacher workload should not be read as a reduction in learner load. Their reason is a limit on what this kind of coding can show at all: recording the function a system performs says nothing about its effect on the learner, so role frequencies cannot settle whether the system offloaded cognition or deepened it ([[kim-ai-embodied-learning-review-2026|Kim and Han (2026)]]).
+
 Process-level instrumentation is the descriptive layer's next step down. [[pulla-parsons-problem-tool-2026|Prol et al. (2026)]] extended an [[open-source]] Parsons-problem platform to record every block placement, removal and submission as a chronological trace, pair each submission with per-block correctness coloring and an attempt history, and optionally pass the traces through an [[llm]] pipeline that labels recurring difficulty patterns for instructor review. Across 68 students in an upper-division Java software-design course and 36 in an introductory Python course the analysis surfaced the same three difficulties — choosing the wrong exception type, substituting `return` for `throw`, and incorrect control-flow ordering — which correctness-and-attempt counts cannot expose, because they answer *whether* the arrangement was right rather than *what the process was*. The AI acts as an interpreter for the [[teacher-role|instructor]] rather than a scorer of the student, and its output is framed as a reviewable hypothesis about a class's difficulties rather than a grade.
 
 - **The learning system wall: log data doesn't generalize across platforms.** MATHia, i-Ready, and IXL each define even basic constructs — an "attempt," a "hint" — differently, so models can't transfer between them. A work-in-progress response attacks the problem from the video side: a Gemini pipeline distills tutoring screen recordings into a single screenplay transcript aligned to native MATHia logs as ground truth. What video recovers that no single stream does: whiteboard [[scaffolding]], silent calculator work in external tools, and off-screen context that native logs reduce to "idleness." Open challenges remain in temporal anchoring, clock drift, and separating platform events from other learning processes. ([[thomas-breaking-learning-system-wall-2026]])
@@ -173,3 +175,4 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk from early-semester LMS traces (AUC 0.763)
 - [[thomas-breaking-learning-system-wall-2026]] — Towards breaking the learning system wall using multimodal tutoring transcriptions (Thomas et al. 2026)
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — Completion rates can hide an engagement collapse
+- [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)

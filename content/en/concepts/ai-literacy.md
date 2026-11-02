@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-02T09:55:00-05:00"
+updated: "2026-11-02T13:50:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -39,6 +39,8 @@ Frameworks increasingly trace how these dimensions are enacted in practice: [[da
 **Experts converge on the competencies and not on where they sit.** Eleven experts rated a nine-competency, three-domain framework's content favorably yet disagreed on competency placement (M = 3.73, SD = 1.19, IQR = 1.50) while endorsing non-exclusive domain relations (M = 4.45, SD = 0.52), reading the domains as functional roles rather than fixed buckets ([[lee-ai-literacy-expert-convergence-2026|Lee, Son and Hong (2026)]]).
 
 **The demand depends on what the student and the system are jointly doing.** Literacy frameworks usually describe one generic set of competences, but what a GenAI-supported activity actually requires varies with how epistemic work is distributed inside it. [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn and Rehm (2026)]] classified 102 empirical higher-education studies against Strobel et al.'s taxonomy of GenAI applications and found Assistant and Enabler entanglements dominating at 42.16% of the corpus each, while Generator, Reimaginator and Synthesizer together accounted for under a fifth — a skew they attribute to institutional legitimacy rather than model capability, since the same models support all five. Reading each type through Dohn's three context levels (domain-internal, activity-internal, activity-framing) shows demands cohering for Assistant work and fracturing for the marginal types, where what the activity asks of students diverges from what the institution recognizes as legitimate competence. Their conclusion moves literacy away from tool fluency altogether: GenAI literacy is the capacity to recognize how epistemic work and responsibility are distributed in a given entanglement, and to act appropriately within it.
+
+**Different dimensions predict different things.** Averaging AI literacy into one score hides which competence does what. In a task-based study of 162 university students writing a research abstract with an assistant built on DeepSeek V3, only the Use and Apply dimension independently predicted abstract quality (β = 0.206, p = 0.042), and only Know and Understand independently predicted lower perceived mental load (β = −0.344, p = 0.001). The total score predicted both, but neither it nor any dimension predicted [[motivation]] or [[self-efficacy]] ([[chen-genai-literacy-task-performance-cognitive-load-2026|Chen et al. (2026)]]). A student can be competent enough to produce a better text and still find the task as demanding, which is an argument for assessing and teaching the dimensions separately instead of reporting one literacy number.
 
 **Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
 
@@ -297,4 +299,5 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 50 K-12 AI literacy frameworks; only one instrument assesses generative AI specifically
 - [[kim-overtrust-ai-literacy-2026]] - AI literacy uncorrelated with overtrust bivariately but negatively indirect once performance expectancy is modelled
 - [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
+- [[chen-genai-literacy-task-performance-cognitive-load-2026]] — GenAI literacy dimensions split: Use and Apply predicts writing quality, Know and Understand predicts lower mental load, neither moves motivation (Chen et al. 2026)
 
