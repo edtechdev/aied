@@ -1,7 +1,7 @@
 ---
 title: "LearnHarness"
 created: "2026-11-02T05:55:00-05:00"
-updated: "2026-11-02T05:58:00-05:00"
+updated: "2026-11-02T07:40:00-05:00"
 type: resource
 summary: "A free, open-source (AGPL-3.0) desktop app in which AI agents measure what a learner already understands, plan a dependency map to the goal, teach one reasoning step at a time, and adapt practice — with a persistent knowledge graph of propositions and reasoning chains that later sessions read instead of starting over."
 url: https://learnharness.ai
@@ -27,13 +27,13 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**LearnHarness** is a desktop application for [[agentic-ai|agent-assisted]] learning that organizes a lesson around what a learner already understands rather than around a topic list. The project describes four moves: **measure**, probing the ideas the goal depends on to find where understanding ends; **plan**, deriving a dependency map to the goal and showing it as a lesson map; **teach**, working one reasoning step at a time through a predict–explain–check rhythm so confusions are repaired before anything is built on them; and **practice**, a stream of problems targeted at the learner's own difficulties.
+**LearnHarness** is a desktop application for [[agentic-ai|agent-assisted]] learning that organizes a lesson around [[prior-knowledge|what a learner already understands]] rather than around a topic list. The project describes four moves: **measure**, probing the ideas the goal depends on to find where understanding ends; **plan**, deriving a dependency map to the goal and showing it as a lesson map; **teach**, working one reasoning step at a time through a predict–explain–check rhythm so confusions are repaired before anything is built on them; and **practice**, a stream of problems targeted at the learner's own difficulties.
 
 ## What you can do with it
 
 The distinctive input is the thinking field: learners write or dictate their reasoning and uncertainty rather than only answering, which the project treats as how the agent pictures reasoning instead of a right/wrong record. It can also research questions in the background, generate visual explanations and build interactive demonstrations.
 
-What accumulates is a knowledge graph of propositions and reasoning chains, linked back to their source sessions and read by later teaching and practice agents as context; notes can be imported. The project says the graph stores ideas and connections, not ratings of ability.
+What accumulates is a [[knowledge-graph|knowledge graph]] of propositions and reasoning chains, linked back to their source sessions and read by later teaching and practice agents as context; notes can be imported. The project says the graph stores ideas and connections, not ratings of ability.
 
 ## Who it is for
 
