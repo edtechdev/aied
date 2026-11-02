@@ -71,8 +71,7 @@
   - accessibility
   - ai-literacy
   - educational-development
-  reason: Listed on the concept page(s) shown. The AI literacy course and the AI Literacy Design Coach
-    it now carries are why ai-literacy is a host.
+  reason: Listed on the concept page(s) shown. The AI literacy course and the AI Literacy Design Coach it now carries are why ai-literacy is a host.
 - resource: gemini-notebook
   reviewed: '2026-09-28'
   hosts:
@@ -230,8 +229,7 @@
   hosts:
   - feedback
   - formative-assessment
-  reason: 'Listed on the concept page(s) shown: a tool whose whole product is AI feedback on student-produced
-    explanations, and which states it is designed for formative assessment rather than grading.'
+  reason: 'Listed on the concept page(s) shown: a tool whose whole product is AI feedback on student-produced explanations, and which states it is designed for formative assessment rather than grading.'
 - resource: ai-infused-assignment-playbook
   reviewed: '2026-10-10'
   hosts:
@@ -250,9 +248,7 @@
   - ai-assisted-educational-research
   - learning-design
   - pedagogical-patterns
-  reason: A reference wiki of design principles, elements and patterns that binds each to evidence codes,
-    so the design pages are where a reader meets it; it is also itself an agent-maintained knowledge base,
-    which is the case the AI-assisted research page argues.
+  reason: A reference wiki of design principles, elements and patterns that binds each to evidence codes, so the design pages are where a reader meets it; it is also itself an agent-maintained knowledge base, which is the case the AI-assisted research page argues.
 - resource: teacher-dev
   reviewed: '2026-10-24'
   hosts:
@@ -264,31 +260,22 @@
   - physics-education
   - science-education
   - stem-education
-  reason: 'A non-profit gallery of 34 free classroom apps, most of them one subject''s tool: figure generators
-    and practice apps for mathematics, chemistry, physics and STEM, a word-building tool for reading and
-    writing, and special education supports. It is listed on the subject pages whose readers would use
-    those apps and on the two pages about choosing software, not on music, vocational or humanities pages,
-    which one app each does not justify.'
+  reason: 'A non-profit gallery of 34 free classroom apps, most of them one subject''s tool: figure generators and practice apps for mathematics, chemistry, physics and STEM, a word-building tool for reading and writing, and special education supports. It is listed on the subject pages whose readers would use those apps and on the two pages about choosing software, not on music, vocational or humanities pages, which one app each does not justify.'
 - resource: unesco-2026-integrating-ai-in-tvet-guide
   reviewed: '2026-10-28'
   hosts:
   - vocational-education
-  reason: 'Listed on vocational-education, the concept the guide exists to serve: it is
-    addressed to institutions that train skilled workers, and that page''s own questions
-    concern AI evaluating vocational outcomes and the high-risk classification of such
-    systems. Not listed on professional-training or higher-education pages, which are
-    broader than the TVET scope the guide actually covers.'
+  reason: 'Listed on vocational-education, the concept the guide exists to serve: it is addressed to institutions that train skilled workers, and that page''s own questions concern AI evaluating vocational outcomes and the high-risk classification of such systems. Not listed on professional-training or higher-education pages, which are broader than the TVET scope the guide actually covers.'
 - resource: okstate-ai-oer-case-studies-doers-2026
   reviewed: '2026-10-28'
   hosts:
   - open-education
   - educational-policy-ai
   - ai-literacy
-  reason: 'Each host serves a reader who would use this book and neither duplicates the other. Not
-    listed on open-source: this volume is about open educational resources and open practice, while
-    open-source is about software and model weights, a different subject despite the shared word. The
-    policy page needs worked examples of an institution getting from intent to published guidance,
-    which is what the CUNY and student co-creation chapters are. The AI literacy page needs the staff
-    development case, where a system trains teachers on Gen AI and OER at once. Not listed on
-    change-management, whose reader is further from a chapter that documents a finished decision
-    rather than the change effort itself.'
+  reason: 'Each host serves a reader who would use this book and neither duplicates the other. Not listed on open-source: this volume is about open educational resources and open practice, while open-source is about software and model weights, a different subject despite the shared word. The policy page needs worked examples of an institution getting from intent to published guidance, which is what the CUNY and student co-creation chapters are. The AI literacy page needs the staff development case, where a system trains teachers on Gen AI and OER at once. Not listed on change-management, whose reader is further from a chapter that documents a finished decision rather than the change effort itself.'
+- resource: learnharness
+  reviewed: '2026-11-02'
+  hosts:
+  - agentic-ai
+  - intelligent-tutoring
+  reason: The app is an agent harness that plans and teaches a lesson from a probed picture of the learner's understanding, so agentic-ai (which already hosts deeptutor) and intelligent-tutoring are the two concept pages whose narrative it serves; both list it in connected_resources.
