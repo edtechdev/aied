@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and student motivation: an SDT-guided systematic review of learning activities, motivational regulation, and measurement"
 created: "2026-11-01T09:08:54-05:00"
-updated: "2026-11-01T09:08:54-05:00"
+updated: "2026-11-02T06:35:00-05:00"
 type: article
 sources: ['raw/papers/pan-generative-ai-student-motivation-sdt-review-2026.md']
 confidence: medium
@@ -23,25 +23,25 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Thirty-nine empirical studies, published 2023 to 2025 and drawn from Web of Science and Scopus, ask what [[generative-ai|generative AI]] does for student motivation. Read through [[self-determination-theory|Self-Determination Theory]], the corpus is lopsided. Competence activities outnumber autonomy and relatedness ones, feedback and explanation dominate, and nobody tests whether an activity filed under a need actually satisfies it. Motivation is measured almost entirely by questionnaire, and motivational regulation, the part of the theory that asks why a student engages, is barely studied at all.
+> **Synthesis:** Thirty-nine empirical studies, published 2023 to 2025 and drawn from Web of Science and Scopus, ask what [[generative-ai|generative AI]] does for [[motivation|student motivation]]. Read through [[self-determination-theory|Self-Determination Theory]], the corpus is lopsided. Competence activities outnumber autonomy and relatedness ones, feedback and explanation dominate, and nobody tests whether an activity filed under a need actually satisfies it. Motivation is measured almost entirely by questionnaire, and motivational regulation, the part of the theory that asks why a student engages, is barely studied at all.
 
 ## Key Findings
 
 1. The review included 39 articles, selected from 2,757 records identified in Web of Science (1,142) and Scopus (1,615) when the search ran on 14 April 2026. Eligibility allowed publication from 2021 to 2025, but every included study appeared between 2023 and 2025.
-2. The evidence base is concentrated: 25 of the 39 studies were conducted in China and 34 in higher education. Twenty-seven used quantitative methods, nine mixed methods and three qualitative methods.
+2. The evidence base is concentrated: 25 of the 39 studies were conducted in China and 34 in [[higher-ed|higher education]]. Twenty-seven used quantitative methods, nine mixed methods and three qualitative methods.
 3. Fourteen of the 20 GenAI-supported learning activities in Chiu's (2024) ChatGPT classification appeared in the corpus. Competence-related activities were the most represented, with seven types identified, against five under autonomy and two under relatedness.
 4. The most frequently identified activities were getting feedback on work, searching for information, getting examples, and getting insight into complex problems. Personalized feedback alone appeared in 17 articles.
 5. Six activities were absent from every included study: generating review questions, creating challenging problems, generating questions for essays, anticipating ChatGPT's outputs, grading ChatGPT's outputs, and debating with ChatGPT. Each asks the student to judge or challenge the tool.
 6. Thirty-five factors were reported in relation to motivation, grouped into GenAI characteristics, learner factors, psychological factors, and environmental factors. GenAI characteristics were the most frequent category. Personalized feedback led at 13 studies, perceived autonomy, competence and relatedness at 12, and teacher support at 9.
 7. The review reports no pooled effect size. Experimental and quasi-experimental studies "generally reported changes in motivation or related outcomes", cross-sectional studies reported relationships between variables, and qualitative and mixed-methods studies reported both positive and negative experiences.
-8. Measurement was dominated by quantitative questionnaires. Seventeen studies measured basic psychological needs, using instruments that include the Basic Psychological Needs Scale and self-developed SDT-based scales. Engagement was measured in 10 studies, self-efficacy in 5, and enjoyment and grit in 2 each.
+8. [[educational-measurement|Measurement]] was dominated by quantitative questionnaires. Seventeen studies measured basic psychological needs, using instruments that include the Basic Psychological Needs Scale and self-developed SDT-based scales. Engagement was measured in 10 studies, self-efficacy in 5, and enjoyment and grit in 2 each.
 9. Motivational regulation was thin. Autonomous motivation appeared in 2 studies, and identified regulation and controlled motivation in 1 each, far fewer than need satisfaction or [[student-engagement|engagement]]. The authors treat that gap as the review's central problem, because regulation concerns why a student is motivated rather than how much.
 
 ## How the review was built
 
 The frame was chosen before the search. SDT holds that motivation follows from the satisfaction of three needs, autonomy, competence and relatedness, so GenAI features such as control over pace, feedback and practice, and interaction with the tool, teachers and peers become candidate supports. The authors state the discipline that follows: the presence of such features "does not necessarily indicate that the corresponding psychological needs are satisfied". A generic engagement framing would have counted the features and stopped there.
 
-The protocol followed PRISMA. Searches in Web of Science and Scopus combined a technical dimension (generative AI, ChatGPT, large language models, AI chatbots), an SDT dimension (autonomy, competence, relatedness) and an outcome dimension (motivation, engagement, intrinsic motivation). Screening removed 793 out-of-window records, 624 non-articles, 385 duplicates and 52 non-English articles, leaving 903 for title and abstract review. A further 845 were excluded, mostly as unrelated to GenAI or SDT, and 11 of the 58 sought full texts were unavailable. Of the 47 assessed in full, 39 were included. Two reviewers screened independently and settled disagreements by discussion.
+The protocol followed [[meta-analysis-systematic-review|PRISMA]]. Searches in Web of Science and Scopus combined a technical dimension (generative AI, ChatGPT, [[llm|large language models]], [[conversational-ai|AI chatbots]]), an SDT dimension (autonomy, competence, relatedness) and an outcome dimension (motivation, engagement, intrinsic motivation). Screening removed 793 out-of-window records, 624 non-articles, 385 duplicates and 52 non-English articles, leaving 903 for title and abstract review. A further 845 were excluded, mostly as unrelated to GenAI or SDT, and 11 of the 58 sought full texts were unavailable. Of the 47 assessed in full, 39 were included. Two reviewers screened independently and settled disagreements by discussion.
 
 Coding was deductive for activities, using Chiu's (2024) 20-item classification, and inductive for factors. Thematic analysis followed Braun and Clarke (2022). The study was the unit of coding, and each study counted once per code while still able to carry several codes. That convention is how studies reporting motivation as a lone variable were handled: one construct, one named measure, no item-level detail. Constructs and measures were coded as the included studies reported them, not re-derived.
 
