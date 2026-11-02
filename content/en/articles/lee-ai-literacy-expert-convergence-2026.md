@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the Structure of AI Literacy in Generative AI Educational Systems: Descriptive Patterns of Expert Convergence and Heterogeneity"
 created: "2026-10-31T09:25:00-04:00"
-updated: "2026-10-31T09:25:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/lee-ai-literacy-expert-convergence-2026.md']
@@ -24,7 +24,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Lee, Son, and Hong ask a question most [[ai-literacy]] frameworks skip: does expert agreement that a competency matters imply agreement about where it belongs? Working from a focused synthesis of 15 sources and a two-round Delphi study with 11 experts, they propose three domains (AI Understanding, AI Application, AI Integration) holding nine competencies, then show that judgments converge on content while dispersing on structure. Non-exclusive domain overlap (M = 4.45, SD = 0.52) and primary and secondary domain associations (M = 4.73, SD = 0.47) drew positive ratings from all 11 experts, while the proposed representation of competency placement and cross-domain applicability drew M = 3.73, SD = 1.19, IQR = 1.50. The authors read that split as grounds for treating the domains as functional rather than mutually exclusive categories. This is a conceptual and Delphi study, so no model generation applies: the generative AI the panel had in mind is described only as systems built on large language models, not as named products.
+> **Synthesis:** Lee, Son, and Hong ask a question most [[ai-literacy]] frameworks skip: does expert agreement that a competency matters imply agreement about where it belongs? Working from a focused synthesis of 15 sources and a two-round Delphi study with 11 experts, they propose three domains (AI Understanding, AI Application, AI Integration) holding nine competencies, then show that judgments converge on content while dispersing on structure. Non-exclusive domain overlap (M = 4.45, SD = 0.52) and primary and secondary domain associations (M = 4.73, SD = 0.47) drew positive ratings from all 11 experts, while the proposed representation of competency placement and cross-domain applicability drew M = 3.73, SD = 1.19, IQR = 1.50. The authors read that split as grounds for treating the domains as functional rather than mutually exclusive categories. This is a conceptual and Delphi study, so no model generation applies: the [[generative-ai|generative AI]] the panel had in mind is described only as systems built on [[llm|large language models]], not as named products.
 
 ## Key Findings
 

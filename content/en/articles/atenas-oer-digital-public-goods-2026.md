@@ -2,7 +2,7 @@
 title: "Building sustainable futures: Responsible development of AI-enabled open educational resources as digital public goods"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 technology: [generative-ai]
 institutions: [educational-policy-ai, governance]
@@ -23,7 +23,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Atenas, Farrow, Caldwell, Costello and Havemann (2026) ask how open educational resources should be governed if they are to function as digital public goods in the age of generative AI, and answer with policy analysis rather than a study. No data were collected and there is no sample, only a reading of United Nations and UNESCO instruments: the Common Agenda, the 2024 Global Digital Compact, the 2019 Recommendation on OER, the 2024 Dubai Declaration, the ROAM-X framework with its 303 Internet Universality Indicators, and the FAIR principles. The diagnosis is fragmentation: disconnected repositories, inconsistent metadata, uneven connectivity and weak cross-border collaboration. The prescription is integrated, interoperable, non-commercial and publicly governed platforms, plus openly licensed AI rather than dependence on systems such as ChatGPT. No platform is evaluated, so the paper shows that the problem is described consistently across policy documents, not that the remedy works.
+> **Synthesis:** Atenas, Farrow, Caldwell, Costello and Havemann (2026) ask how open educational resources should be governed if they are to function as digital public goods in the age of [[generative-ai|generative AI]], and answer with policy analysis rather than a study. No data were collected and there is no sample, only a reading of United Nations and UNESCO instruments: the Common Agenda, the 2024 Global Digital Compact, the 2019 Recommendation on OER, the 2024 Dubai Declaration, the ROAM-X framework with its 303 Internet Universality Indicators, and the FAIR principles. The diagnosis is fragmentation: disconnected repositories, inconsistent metadata, uneven connectivity and weak cross-border collaboration. The prescription is integrated, interoperable, non-commercial and publicly governed platforms, plus openly licensed AI rather than dependence on systems such as ChatGPT. No platform is evaluated, so the paper shows that the problem is described consistently across policy documents, not that the remedy works.
 
 ## Key Findings
 1. The paper's organizing move is taxonomic: [[open-education|OER]] are classified as digital public goods, defined through UNDP as building blocks for digital public infrastructure, which shifts the policy object from the individual resource to the platform that holds it.

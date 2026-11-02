@@ -1,7 +1,7 @@
 ---
 title: "An artificial intelligence application framework for nursing education: a scoping review based on the KAS model"
 created: "2026-10-31T14:40:00-04:00"
-updated: "2026-10-31T14:40:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 source_url: https://doi.org/10.1186/s12909-026-09209-4
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** A [[meta-analysis-systematic-review|scoping review]] of educational AI application frameworks concludes that none of them was built for [[nursing-education|nursing]], so it assembles one: the Knowledge, Attitude, and Skill model expanded into 12 sub-dimensions a [[curriculum-design|curriculum]] can be planned against. The coverage counts are the finding. AI ethics knowledge appears in 14 of the 23 included sources, responsibility in 14, application skills in 16 and evaluation skills in 18, while technical AI knowledge, AI application knowledge and operational skills each appear in 9 and collaborative skills in 7. The authors treat that asymmetry as an [[equity-in-ai-education|equity]] problem and prescribe a sequencing rule for programs without reliable infrastructure: build foundational and ethical knowledge, critical thinking, responsibility, ethical values, evaluation and collaboration first, and treat prompt-level operational skill as the layer to teach last, through low-cost simulation rather than through access to frontier tools.
+> **Synthesis:** A [[meta-analysis-systematic-review|scoping review]] of educational AI application frameworks concludes that none of them was built for [[nursing-education|nursing]], so it assembles one: the Knowledge, Attitude, and Skill model expanded into 12 sub-dimensions a [[curriculum-design|curriculum]] can be planned against. The coverage counts are the finding. AI ethics knowledge appears in 14 of the 23 included sources, responsibility in 14, application skills in 16 and evaluation skills in 18, while technical AI knowledge, AI application knowledge and operational skills each appear in 9 and collaborative skills in 7. The authors treat that asymmetry as an [[equity-in-ai-education|equity]] problem and prescribe a sequencing rule for programs without reliable infrastructure: build foundational and ethical knowledge, critical thinking, responsibility, ethical values, evaluation and collaboration first, and treat prompt-level operational skill as the layer to teach last, through low-cost [[simulation]] rather than through access to frontier tools.
 
 ## Key Findings
 

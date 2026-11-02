@@ -1,7 +1,7 @@
 ---
 title: "The ChatGPT Source Cue Shapes Answer Acceptance in a Reasoning Task"
 created: "2026-10-25T08:30:00-04:00"
-updated: "2026-10-25T08:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 page_kind: [evaluation]
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Fabio, Rantuccio and Bruno (2026) tested whether a *source label* changes how people judge supplied answers. In a within-subjects study, 103 participants judged 30 pre-generated answers — reflective-correct, intuitive-incorrect, and arithmetic control-correct — under either a "[[generative-ai|ChatGPT]]" or a generic "Computer" attribution, with the two parallel batteries assigned to labels and the trial order randomized. Acceptance was higher under ChatGPT overall (68.0% versus 63.4%, p = 0.002), but the trial-level logistic mixed model showed a source-by-category interaction (p < 0.001): the effect was carried by arithmetic controls (OR = 6.08, 95% CI [2.70, 13.69]), while the source contrasts inside the two Cognitive Reflection Test categories were not significant. Signal-detection analysis found no significant source difference in sensitivity (p = 0.930) or criterion (p = 0.082). The study is about evaluative judgment rather than classroom learning, so it speaks to AI-in-education as evidence about how an AI source cue shapes acceptance and how that acceptance can outrun the ability to verify.
+> **Synthesis:** Fabio, Rantuccio and Bruno (2026) tested whether a *source label* changes how people judge supplied answers. In a within-subjects study, 103 participants judged 30 pre-generated answers — reflective-correct, intuitive-incorrect, and arithmetic control-correct — under either a "[[generative-ai|ChatGPT]]" or a generic "Computer" attribution, with the two parallel batteries assigned to labels and the trial order randomized. Acceptance was higher under ChatGPT overall (68.0% versus 63.4%, p = 0.002), but the trial-level logistic mixed model showed a source-by-category interaction (p < 0.001): the effect was carried by arithmetic controls (OR = 6.08, 95% CI [2.70, 13.69]), while the source contrasts inside the two Cognitive Reflection Test categories were not significant. Signal-detection analysis found no significant source difference in sensitivity (p = 0.930) or criterion (p = 0.082). The study is about [[evaluative-judgment|evaluative judgment]] rather than classroom learning, so it speaks to AI-in-education as evidence about how an AI source cue shapes acceptance and how that acceptance can outrun the ability to verify.
 
 ## Key Findings
 

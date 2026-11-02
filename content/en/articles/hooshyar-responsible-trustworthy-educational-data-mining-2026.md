@@ -1,7 +1,7 @@
 ---
 title: "Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods"
 created: "2026-11-01T09:08:04-05:00"
-updated: "2026-11-01T09:16:20-05:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 sources: ['raw/papers/hooshyar-responsible-trustworthy-educational-data-mining-2026.md']
 confidence: medium
@@ -24,7 +24,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** There are two ways to read a model's accuracy: how many students it sorts correctly, and which students it can still find once low performers become rare. On balanced labels the three families of educational data mining were interchangeable. On labels that look like a real classroom, only the model carrying self-regulated learning theory inside it kept finding the struggling students, and its reasons looked more like the theory it was given.
+> **Synthesis:** There are two ways to read a model's accuracy: how many students it sorts correctly, and which students it can still find once low performers become rare. On balanced labels the three families of [[learning-analytics|educational data mining]] were interchangeable. On labels that look like a real classroom, only the model carrying [[self-regulated-learning|self-regulated learning]] theory inside it kept finding the struggling students, and its reasons looked more like the theory it was given.
 
 ## Key Findings
 

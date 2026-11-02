@@ -2,7 +2,7 @@
 title: "Artificial intelligence and universal design for learning in Kuwait's higher education institutions: towards an AI-enabled framework for inclusive education"
 published: "2026-10-21"
 created: "2026-10-28T12:40:58-04:00"
-updated: "2026-10-28T12:40:58-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-education, philosophy-of-ai-in-education]
 technology: [ai-technologies]
@@ -24,7 +24,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Alenezi (2026) is a Perspective, not an empirical study: no participants, no Kuwaiti institutional data, no measured outcome. Its six-stage framework-development process screened approximately 1,450 records down to 96 read in full, 42 cited. It asks how AI adoption, [[universal-design-for-learning|Universal Design for Learning]], responsible AI governance and digital transformation interact in a Kuwaiti university, and answers with the AI-UDL framework: five pillars (institutional leadership, AI-enabled UDL, responsible AI ecosystem, faculty capacity building, continuous evaluation) joined by an interaction model in which AI operationalizes UDL, UDL constrains it, responsible AI governs the technology, institutional theory explains adoption, and critical scholarship checks every link. Five reference points (CAST UDL Guidelines 3.0, UNESCO's AI guidance, the OECD Digital Education Outlook, SDG 4 and the UNCRPD, Kuwait Vision 2035) supply a comparison the author labels face validity. It establishes traceability from pillar to literature, and cannot establish that AI-enabled UDL improves engagement, retention, accessibility or equity in Kuwait, or that these five pillars are the right and complete set.
+> **Synthesis:** Alenezi (2026) is a Perspective, not an empirical study: no participants, no Kuwaiti institutional data, no measured outcome. Its six-stage framework-development process screened approximately 1,450 records down to 96 read in full, 42 cited. It asks how AI adoption, [[universal-design-for-learning|Universal Design for Learning]], responsible AI governance and digital transformation interact in a Kuwaiti university, and answers with the AI-UDL framework: five pillars (institutional leadership, AI-enabled UDL, responsible AI ecosystem, faculty capacity building, continuous evaluation) joined by an interaction model in which AI operationalizes UDL, UDL constrains it, responsible AI governs the technology, institutional theory explains adoption, and critical scholarship checks every link. Five reference points (CAST UDL Guidelines 3.0, UNESCO's AI guidance, the OECD Digital Education Outlook, SDG 4 and the UNCRPD, Kuwait Vision 2035) supply a comparison the author labels face validity. It establishes traceability from pillar to literature, and cannot establish that AI-enabled UDL improves engagement, retention, [[accessibility]] or [[equity-in-ai-education|equity]] in Kuwait, or that these five pillars are the right and complete set.
 
 ## Key Findings
 

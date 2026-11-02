@@ -1,7 +1,7 @@
 ---
 title: "Trusting AI too much? Psychological correlates of overtrust and the role of AI literacy"
 created: "2026-11-01T09:08:37-05:00"
-updated: "2026-11-01T09:08:37-05:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 sources: ['raw/papers/kim-overtrust-ai-literacy-2026.md']
 confidence: medium
@@ -25,7 +25,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A survey of 300 South Korean university students found that the learners most likely to overtrust ChatGPT were not the uncertain ones. Academic self-efficacy and intrinsic motivation both predicted higher overtrust, contrary to the authors' hypotheses. AI literacy correlated with overtrust at r = 0.051, which is close to nothing, yet inside a serial mediation model it carried a negative association once performance expectancy was held constant. High expectations combined with high literacy predicted lower overtrust across all three traits.
+> **Synthesis:** A survey of 300 South Korean university students found that the learners most likely to overtrust ChatGPT were not the uncertain ones. [[self-efficacy|Academic self-efficacy]] and [[motivation|intrinsic motivation]] both predicted higher overtrust, contrary to the authors' hypotheses. [[ai-literacy|AI literacy]] correlated with overtrust at r = 0.051, which is close to nothing, yet inside a serial mediation model it carried a negative association once performance expectancy was held constant. High expectations combined with high literacy predicted lower overtrust across all three traits.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Deliberative Instructional Agents: transforming professional learning with the responsible integration of Artificial Intelligence"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-10-31T14:20:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 source_url: https://doi.org/10.1080/19415257.2026.2751225
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Cowhitt and Gibson propose Deliberative Instructional Agents (DIAs), a class of educational technology built to make [[inquiry-based-learning|Professional Inquiry]] survivable inside a teacher's working week. The argument is that inquiry fails not for lack of theory but for lack of time, access, and analytical expertise: bringing evidence of classroom practice, educational research, and experiential knowledge into one conversation is exactly what workload prevents. Their answer is a pipeline rather than a chatbot. A capture tool called Pierrot produces attributed transcripts of in-person classroom talk using student devices schools already own; an analytical layer called Cadence codes that talk against established frameworks and marks critical instructional moments; and a coaching agent called Munro deliberates with the teacher about those moments before and after the lesson. Five design principles for responsible development follow from the risks the authors name: direct evidence of practice, transparency about the research behind the analysis, specialisation by pedagogy and subject and phase, accessibility and equity, and privacy by design. The paper is conceptual and design-oriented, and its feasibility testing is reported elsewhere.
+> **Synthesis:** Cowhitt and Gibson propose Deliberative Instructional Agents (DIAs), a class of educational technology built to make [[inquiry-based-learning|Professional Inquiry]] survivable inside a teacher's working week. The argument is that inquiry fails not for lack of theory but for lack of time, access, and analytical expertise: bringing evidence of classroom practice, educational research, and experiential knowledge into one conversation is exactly what workload prevents. Their answer is a pipeline rather than a chatbot. A capture tool called Pierrot produces attributed transcripts of in-person classroom talk using student devices schools already own; an analytical layer called Cadence codes that talk against established frameworks and marks critical instructional moments; and a coaching agent called Munro deliberates with the teacher about those moments before and after the lesson. Five design principles for responsible development follow from the risks the authors name: direct evidence of practice, transparency about the research behind the analysis, specialisation by pedagogy and subject and phase, accessibility and [[equity-in-ai-education|equity]], and [[privacy]] by design. The paper is conceptual and design-oriented, and its feasibility testing is reported elsewhere.
 
 *The paper is conceptual and design-oriented and reports no empirical data of its own. The authors mention proof-of-concept testing in two schools, with results reserved for manuscripts under review, so no accuracy, usability, or outcome figures appear here.*
 

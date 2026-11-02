@@ -1,7 +1,7 @@
 ---
 title: "Designing Teaching Materials with GenAI: Perceptions of Cognitive Load and Learner Competencies in Higher Education"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Navas-Romero, C.", "Zakharova-Garcia, G.", "Guillen-Gamez, F. D.", "Cebrian-Cifuentes, S."]
 published: "2026-10-16"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Navas-Romero, Zakharova-García, Guillén-Gámez and Cebrián-Cifuentes surveyed 451 students in education programs at one public university in southern Spain about what they believe [[generative-ai|generative AI]] demands of them as designers of teaching materials. Framed by [[cognitive-offloading|Cognitive Load Theory]] and [[tpack|TPACK]], the 31-item instrument separated perceived usefulness from three learner-related dimensions ([[metacognition|metacognitive skills]], prior knowledge, [[problem-solving|problem-solving skills]]) and three load dimensions (intrinsic, extraneous, and germane). Participants endorsed the practices and the tool, with female students scoring significantly higher on the three learner-related dimensions, though effect sizes were small (r = 0.119 to 0.147) and women made up 82% of the sample. No gender difference reached significance on any load dimension, and the only age or admission-grade association that held was a weak negative correlation between age and extraneous load (r = -0.097). The study measures beliefs about practices, not demonstrated competence, and the authors are explicit about that boundary.
+> **Synthesis:** Navas-Romero, Zakharova-García, Guillén-Gámez and Cebrián-Cifuentes surveyed 451 students in education programs at one public university in southern Spain about what they believe [[generative-ai|generative AI]] demands of them as designers of teaching materials. Framed by [[cognitive-offloading|Cognitive Load Theory]] and [[tpack|TPACK]], the 31-item instrument separated [[technology-acceptance-model|perceived usefulness]] from three learner-related dimensions ([[metacognition|metacognitive skills]], prior knowledge, [[problem-solving|problem-solving skills]]) and three load dimensions (intrinsic, extraneous, and germane). Participants endorsed the practices and the tool, with female students scoring significantly higher on the three learner-related dimensions, though effect sizes were small (r = 0.119 to 0.147) and women made up 82% of the sample. No gender difference reached significance on any load dimension, and the only age or admission-grade association that held was a weak negative correlation between age and extraneous load (r = -0.097). The study measures beliefs about practices, not demonstrated competence, and the authors are explicit about that boundary.
 
 ## Key Findings
 

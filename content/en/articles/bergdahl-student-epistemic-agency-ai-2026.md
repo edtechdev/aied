@@ -1,7 +1,7 @@
 ---
 title: "Student Epistemic Agency in AI-Mediated Practices: Output-Directed and System-Directed Dimensions Diverge"
 created: "2026-10-26T13:20:00-04:00"
-updated: "2026-10-26T13:20:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-26"
 page_kind: [evaluation]
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Bergdahl (2026) surveyed 47 Swedish year 7 students who had spent a semester in an "AI on the schedule" pilot, testing whether [[agency|epistemic agency]] directed at AI *output* extends to the *systems* producing it. It does not. Students showed strong agency on source evaluation and governance but weak agency on data privacy and algorithmic manipulation — and the split held **within individual students**: 79% had a score range of three or more across nine items, and a within-person dissociation index favored output-directed over system-directed engagement in 35 students against 4 in reverse (sign test, p < .001). Among the 34 most source-critical students, 21 still endorsed "Good, then the answers get better" on chatbots reading their writing. Most strikingly, the low scores on data privacy were recorded one month after a lesson in which students watched their own logged behavior projected live and called it "scary" — then stayed in through recess to keep using the platform. The study's contribution is that epistemic agency in AI-mediated practice is **not a unified construct**, and instruction that raises one register does not raise the other.
+> **Synthesis:** Bergdahl (2026) surveyed 47 Swedish year 7 students who had spent a semester in an "AI on the schedule" pilot, testing whether [[agency|epistemic agency]] directed at AI *output* extends to the *systems* producing it. It does not. Students showed strong agency on source evaluation and governance but weak agency on [[privacy|data privacy]] and algorithmic manipulation — and the split held **within individual students**: 79% had a score range of three or more across nine items, and a within-person dissociation index favored output-directed over system-directed engagement in 35 students against 4 in reverse (sign test, p < .001). Among the 34 most source-critical students, 21 still endorsed "Good, then the answers get better" on chatbots reading their writing. Most strikingly, the low scores on data privacy were recorded one month after a lesson in which students watched their own logged behavior projected live and called it "scary" — then stayed in through recess to keep using the platform. The study's contribution is that epistemic agency in AI-mediated practice is **not a unified construct**, and instruction that raises one register does not raise the other.
 
 ## Study Design
 

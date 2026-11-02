@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Higher Education Instructional Design: A Systematic Review of AI Roles, Educator Competences, and Professional Development Approaches"
 created: "2026-10-26T04:10:00-04:00"
-updated: "2026-10-26T04:10:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-22"
 page_kind: [synthesis]
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** A PRISMA-guided qualitative systematic review of 78 studies (2022–2026) finds that documented AI-supported instructional design clusters overwhelmingly in the *Design* phase of ADDIE — 95% of studies — while Implementation (9%) and Evaluation (13%) go largely unexamined, and **no study examined AI support across the complete cycle**. Most of the corpus (76%) applies no named competence framework, so findings cannot accumulate; human oversight is an explicit commitment in 58% of studies but examined empirically in only 27%. The review's organizing claim is that the educator's [[learning-design|design expertise]], not the technology's generative fluency, remains the center of the practice — and that professional development should therefore teach evaluation, pedagogical decision-making and accountable oversight rather than tool operation.
+> **Synthesis:** A PRISMA-guided qualitative [[meta-analysis-systematic-review|systematic review]] of 78 studies (2022–2026) finds that documented AI-supported instructional design clusters overwhelmingly in the *Design* phase of ADDIE — 95% of studies — while Implementation (9%) and Evaluation (13%) go largely unexamined, and **no study examined AI support across the complete cycle**. Most of the corpus (76%) applies no named competence framework, so findings cannot accumulate; human oversight is an explicit commitment in 58% of studies but examined empirically in only 27%. The review's organizing claim is that the educator's [[learning-design|design expertise]], not the technology's generative fluency, remains the center of the practice — and that professional development should therefore teach evaluation, pedagogical decision-making and accountable oversight rather than tool operation.
 
 ## Study Design
 

@@ -1,7 +1,7 @@
 ---
 title: "Redefining pedagogy with artificial intelligence: How nursing students are shaping the future of learning"
 created: "2026-10-31T14:44:16-04:00"
-updated: "2026-10-31T14:44:16-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2025"
 source_url: https://doi.org/10.1016/j.nepr.2025.104330
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Ghimire and Qiu report an exploratory, descriptive [[qualitative-research|qualitative study]] of 17 final-year undergraduate nursing students at one Australian metropolitan university, 10 domestic and 7 international, interviewed for approximately 60 minutes each and analyzed with Braun and Clarke's six-phase thematic analysis. Six themes describe AI as a personalized learning accelerator, a clinical confidence builder, a time management multiplier, an equalizer across the digital divide, a student-driven answer to institutional inertia, and an object of critical ethical awareness. The finding the authors foreground is the "open secret": students use AI openly among themselves while the institution discourages it, which they read as a problem of trust and transparency in the student-educator relationship rather than a problem of cheating.
+> **Synthesis:** Ghimire and Qiu report an exploratory, descriptive [[qualitative-research|qualitative study]] of 17 final-year undergraduate nursing students at one Australian metropolitan university, 10 domestic and 7 international, interviewed for approximately 60 minutes each and analyzed with Braun and Clarke's six-phase thematic analysis. Six themes describe AI as a [[personalized-learning|personalized learning]] accelerator, a clinical confidence builder, a time management multiplier, an equalizer across the [[digital-divide|digital divide]], a student-driven answer to institutional inertia, and an object of critical ethical awareness. The finding the authors foreground is the "open secret": students use AI openly among themselves while the institution discourages it, which they read as a problem of trust and transparency in the student-educator relationship rather than a problem of cheating.
 
 ## Key Findings
 

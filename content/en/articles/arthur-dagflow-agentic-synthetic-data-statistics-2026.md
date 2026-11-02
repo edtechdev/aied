@@ -1,7 +1,7 @@
 ---
 title: "DagFlow-AI: Agentic Synthetic Data Generation for Personalized Statistics Learning"
 created: "2026-10-25T11:05:00-04:00"
-updated: "2026-10-25T11:05:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-22"
 page_kind: [framework]
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Arthur, Grove, Kmail and Atkisson (2026) describe DagFlow-AI, an [[agentic-ai|agentic]] tool that generates [[personalized-learning|personalized]] synthetic datasets for statistics courses. The design problem is narrow and real: an instructor wants a dataset that suits a student's interests, fits a specific learning objective, and matches their skill level, and real datasets rarely hit all three. Rather than asking an LLM to invent observations or to imitate an existing table, DagFlow-AI has [[llm|LLM]] agents specify the **components of an explicit data-generating mechanism** — a variable list, a directed acyclic graph, a distribution per variable, and linear or generalized-linear formulas with coefficients — which a program then executes. The agents never generate data and never write the generation code; a validation script checks their output and errors route back for correction until simulation succeeds. A single case study builds a climate-and-health dataset for an introductory course, and the paper argues alignment with [[inquiry-based-learning|statistical investigation]] frameworks (GAISE and PPDAC). It is a feasibility and design paper: there are no learning outcomes, no comparison, and the authors state that synthetic data must complement rather than replace real data.
+> **Synthesis:** Arthur, Grove, Kmail and Atkisson (2026) describe DagFlow-AI, an [[agentic-ai|agentic]] tool that generates [[personalized-learning|personalized]] synthetic datasets for statistics courses. The design problem is narrow and real: an instructor wants a dataset that suits a student's interests, fits a specific learning objective, and matches their skill level, and real datasets rarely hit all three. Rather than asking an LLM to invent observations or to imitate an existing table, DagFlow-AI has [[llm|LLM]] agents specify the **components of an explicit data-generating mechanism** — a variable list, a directed acyclic graph, a distribution per variable, and linear or generalized-linear formulas with coefficients — which a program then executes. The agents never generate data and never write the generation code; a validation script checks their output and errors route back for correction until [[simulation]] succeeds. A single case study builds a climate-and-health dataset for an introductory course, and the paper argues alignment with [[inquiry-based-learning|statistical investigation]] frameworks (GAISE and PPDAC). It is a feasibility and design paper: there are no learning outcomes, no comparison, and the authors state that synthetic data must complement rather than replace real data.
 
 **Tool availability:** DagFlow-AI itself is not released. The authors withhold the application, source code and access instructions during anonymous review and state they will be included in the final version. It is built on [OpenCode](https://github.com/opencode-ai/opencode), which is openly available, and is model-agnostic, so a released version could run against locally hosted open-weight models.
 

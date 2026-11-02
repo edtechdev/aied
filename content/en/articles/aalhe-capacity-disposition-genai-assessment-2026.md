@@ -1,7 +1,7 @@
 ---
 title: "Capacity and Disposition: A Framework for Understanding GenAI Engagement in Assessment Practice"
 created: "2026-10-25T08:30:00-04:00"
-updated: "2026-10-25T08:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 page_kind: [framework]
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Miller (2026) argues that assessment professionals' uneven engagement with [[generative-ai]] is explained less by enthusiasm or resistance than by the interaction of two conditions: the protected time they have to learn and test the tool, and the professional stance they bring to it. He defines capacity as time on the calendar and disposition as the beliefs, motivations, and values through which a person reads GenAI as threat, shortcut, tool, partner, or catalyst, with institutional support as the environment that expands or constrains both. The Capacity-Disposition Framework names four engagement conditions — The Calendar Trap, The Margin Lab, The Evidence Gate, and The Practice Commons — each with its own institutional risk and its own support move. The article is conceptual and non-empirical; it [[self-report-measures]] of students and faculty and from a Spring 2026 pulse survey of 278 assessment professionals, and it ends with a research agenda rather than results.
+> **Synthesis:** Miller (2026) argues that [[assessment]] professionals' uneven engagement with [[generative-ai]] is explained less by enthusiasm or resistance than by the interaction of two conditions: the protected time they have to learn and test the tool, and the professional stance they bring to it. He defines capacity as time on the calendar and disposition as the beliefs, motivations, and values through which a person reads GenAI as threat, shortcut, tool, partner, or catalyst, with institutional support as the environment that expands or constrains both. The Capacity-Disposition Framework names four engagement conditions — The Calendar Trap, The Margin Lab, The Evidence Gate, and The Practice Commons — each with its own institutional risk and its own support move. The article is conceptual and non-empirical; it [[self-report-measures]] of students and faculty and from a Spring 2026 pulse survey of 278 assessment professionals, and it ends with a research agenda rather than results.
 
 ## Key Findings
 

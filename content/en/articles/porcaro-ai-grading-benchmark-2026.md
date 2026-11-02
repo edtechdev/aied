@@ -1,7 +1,7 @@
 ---
 title: "Beyond agreement: a benchmark of how language models grade student work, and how they fail"
 created: "2026-11-01T09:30:00-05:00"
-updated: "2026-11-01T09:30:00-05:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 sources: ['raw/papers/porcaro-ai-grading-benchmark-2026.md']
 confidence: medium
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A benchmark of 22 prompted language models asks what an agreement figure cannot answer: whether a grader grades the work it is given. Every model scored the same 100 items per task through one plain prompt, then altered versions whose correct response was known in advance. Most matched the raters' agreement with each other on short answers, none reached the published essay ceiling, and a note in the answer, a bare objection, a silent recording or a grade that contradicted the work moved what the models did.
+> **Synthesis:** A [[benchmark]] of 22 prompted [[llm|language models]] asks what an agreement figure cannot answer: whether a grader grades the work it is given. Every model scored the same 100 items per task through one plain prompt, then altered versions whose correct response was known in advance. Most matched the raters' agreement with each other on short answers, none reached the published essay ceiling, and a note in the answer, a bare objection, a silent recording or a grade that contradicted the work moved what the models did.
 
 ## Key Findings
 

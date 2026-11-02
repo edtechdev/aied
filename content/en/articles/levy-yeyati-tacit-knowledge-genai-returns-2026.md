@@ -1,7 +1,7 @@
 ---
 title: "Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience"
 created: "2026-10-28T12:00:00-04:00"
-updated: "2026-10-28T12:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Levy Yeyati, E.", "Judzik, D.", "Barbiero, J. I."]
 published: "2026-10-27"
@@ -28,7 +28,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Levy Yeyati, Judzik and Barbiero (2026) ask what happens to two familiar prices in the wage structure — the return to a year of schooling and the return to a year of experience — when [[generative-ai|generative AI]] makes codified knowledge cheap at the point of production. Using US Current Population Survey earnings data from 2018 through June 2026 and comparing occupations in the top and bottom quartiles of a pre-ChatGPT exposure index, they find that after the November 2022 release of ChatGPT the schooling gradient in exposed occupations falls by 0.55 log points, about 7 percent of its pre-shock level, while the experience gradient rotates: up 0.26 log points at three years of experience, unchanged at fifteen, down 0.12 at twenty-five. The authors read this as a repricing of human capital, not a productivity claim: machine-supplied codified knowledge substitutes for what schooling proxies, and practice-based judgment becomes relatively scarcer where learning by doing is fastest. This is labor economics, not classroom research — it says nothing about how any course was taught. It does tell educators that the market price of the kind of knowledge examinations reward is moving.
+> **Synthesis:** Levy Yeyati, Judzik and Barbiero (2026) ask what happens to two familiar prices in the wage structure — the return to a year of schooling and the return to a year of experience — when [[generative-ai|generative AI]] makes codified knowledge cheap at the point of production. Using US Current Population Survey earnings data from 2018 through June 2026 and comparing occupations in the top and bottom quartiles of a pre-ChatGPT exposure index, they find that after the November 2022 release of ChatGPT the schooling gradient in exposed occupations falls by 0.55 log points, about 7 percent of its pre-shock level, while the experience gradient rotates: up 0.26 log points at three years of experience, unchanged at fifteen, down 0.12 at twenty-five. The authors read this as a repricing of human capital, not a productivity claim: machine-supplied codified knowledge substitutes for what schooling proxies, and practice-based judgment becomes relatively scarcer where [[experiential-learning|learning by doing]] is fastest. This is labor economics, not classroom research — it says nothing about how any course was taught. It does tell educators that the market price of the kind of knowledge examinations reward is moving.
 
 ## Key Findings
 

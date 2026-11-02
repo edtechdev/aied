@@ -2,7 +2,7 @@
 title: "AI-Driven Model for Fostering International Cooperation in Open Education: A Roadmap for Innovation and Equity"
 published: "2026-03-20"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 technology: [generative-ai]
 ethics: [equity-in-ai-education]
@@ -23,7 +23,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Patiño, Martínez-Pérez, Ramírez-Montoya, and Miranda (2026) ask how AI can support international cooperation in open education, and answer with an instrumental case study of the UNESCO/ICDE 2025 Residency rather than an experiment. The case is a two-week residency of 110 participants from 13 countries in 10 interdisciplinary teams across 52 organizations, documented through team logs, a 22-item questionnaire that drew 72 responses, and a co-authored manifesto, all coded qualitatively. The result is a framework, not an effect: ten fundable project proposals spread across the five UNESCO action areas, and three interdependent domains, Enabling Conditions, Cooperative Processes, and Sustainability Mechanisms, with AI as transversal coordinator. It can show that a policy-aligned residency produced these artifacts and self-reported competency gains. With no comparison group, no pre-measure, and no learner data, it cannot show that cooperation or equity improved.
+> **Synthesis:** Patiño, Martínez-Pérez, Ramírez-Montoya, and Miranda (2026) ask how AI can support international cooperation in open education, and answer with an instrumental case study of the UNESCO/ICDE 2025 Residency rather than an experiment. The case is a two-week residency of 110 participants from 13 countries in 10 interdisciplinary teams across 52 organizations, documented through team logs, a 22-item questionnaire that drew 72 responses, and a co-authored manifesto, all coded qualitatively. The result is a framework, not an effect: ten fundable project proposals spread across the five UNESCO action areas, and three interdependent domains, Enabling Conditions, Cooperative Processes, and Sustainability Mechanisms, with AI as transversal coordinator. It can show that a policy-aligned residency produced these artifacts and self-reported competency gains. With no comparison group, no pre-measure, and no learner data, it cannot show that cooperation or [[equity-in-ai-education|equity]] improved.
 
 ## Key Findings
 

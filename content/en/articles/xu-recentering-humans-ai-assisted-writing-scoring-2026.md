@@ -1,7 +1,7 @@
 ---
 title: "Re-centering the role of humans in AI-assisted writing scoring: A scoping review from a critical perspective"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Xu, J.", "Lu, X.", "Abdi, N. M."]
 published: "2026-08-10"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Xu, Lu, and Abdi (2026) ran a PRISMA-guided scoping review of twelve peer-reviewed empirical studies published between 2015 and 2025 that compared AI-assisted and human scoring of EFL university students' academic writing, searched in Web of Science, ERIC, and PubMed, and coded through two critical lenses: [[critical-pedagogy|Critical Language Testing]] for fairness, transparency, and social implications, and Critical Digital Pedagogy for critical use of technology, human-centered values, and dialogic processes. AI-generated scores showed moderate alignment with human scores, strong on surface-level linguistic features but weaker on organization, coherence, and argument development; five studies reported AI scoring lower than human raters, and two reported the reverse for high-quality essays. Fairness was the least addressed dimension, with ten of twelve studies silent on demographic, linguistic, or social bias, ten treating scoring as one-shot rather than dialogic, and none explaining how teachers could practice AI-assisted scoring without losing [[agency|human agency]].
+> **Synthesis:** Xu, Lu, and Abdi (2026) ran a PRISMA-guided [[meta-analysis-systematic-review|scoping review]] of twelve peer-reviewed empirical studies published between 2015 and 2025 that compared AI-assisted and human scoring of EFL university students' academic writing, searched in Web of Science, ERIC, and PubMed, and coded through two critical lenses: [[critical-pedagogy|Critical Language Testing]] for fairness, transparency, and social implications, and Critical Digital Pedagogy for critical use of technology, human-centered values, and dialogic processes. AI-generated scores showed moderate alignment with human scores, strong on surface-level linguistic features but weaker on organization, coherence, and argument development; five studies reported AI scoring lower than human raters, and two reported the reverse for high-quality essays. Fairness was the least addressed dimension, with ten of twelve studies silent on demographic, linguistic, or social bias, ten treating scoring as one-shot rather than dialogic, and none explaining how teachers could practice AI-assisted scoring without losing [[agency|human agency]].
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Effects of an AI-VR enhanced flipped classroom on English achievement, metacognitive self-regulation, and learning motivation among EFL learners: the moderating role of technological literacy"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Shao, J.", "Tang, S.", "Ju, J."]
 published: "2026"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Shao, Tang, and Ju (2026) built an integrated [[virtual-and-augmented-reality|desktop VR]] and [[pedagogical-agent|AI companion]] environment and tested it against a traditional video-based [[active-learning|flipped classroom]] with 60 fifth-grade Chinese EFL learners in two intact classes over four weeks. Grounded in [[self-determination-theory|Self-Determination Theory]] and [[self-regulated-learning|Self-Regulated Learning]] theory, the quasi-experiment found a robust large effect on English achievement (η2p = 0.252, Hedges' g = 0.96, 95% CI [0.43, 1.49]), alongside effects on metacognitive self-regulation and learning motivation that reached conventional significance but did not survive multiple-comparison adjustment. The central result is that technological literacy moderated all three outcomes, so the affective and metacognitive benefits concentrated among learners with above-average literacy while the achievement advantage was comparatively uniform.
+> **Synthesis:** Shao, Tang, and Ju (2026) built an integrated [[virtual-and-augmented-reality|desktop VR]] and [[pedagogical-agent|AI companion]] environment and tested it against a traditional video-based [[active-learning|flipped classroom]] with 60 fifth-grade Chinese EFL learners in two intact classes over four weeks. Grounded in [[self-determination-theory|Self-Determination Theory]] and [[self-regulated-learning|Self-Regulated Learning]] theory, the quasi-experiment found a robust large effect on English achievement (η2p = 0.252, Hedges' g = 0.96, 95% CI [0.43, 1.49]), alongside effects on metacognitive self-regulation and learning [[motivation]] that reached conventional significance but did not survive multiple-comparison adjustment. The central result is that technological literacy moderated all three outcomes, so the affective and metacognitive benefits concentrated among learners with above-average literacy while the achievement advantage was comparatively uniform.
 
 ## Key Findings
 

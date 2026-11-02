@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Team Moderator in CSCL: Adaptive Scaffolding for Shared Regulation"
 created: "2026-10-25T10:05:00-04:00"
-updated: "2026-10-25T10:05:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 page_kind: [evaluation]
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Chen et al. (2026) tested whether [[generative-ai|GenAI]] can moderate a collaborative team rather than tutor its members. Most educational GenAI in [[collaborative-learning]] is deployed as a content-oriented helper that explains and generates; the authors instead built **SSRLAgent**, an agent that scaffolds [[self-regulated-learning|socially shared regulation of learning]] (SSRL) by diagnosing a group's regulatory state and prompting accordingly. In a 16-week quasi-experiment with 64 undergraduates in China, one condition received that adaptive SSRL scaffolding and the other received static scaffolding through structured digital worksheets plus a content-support agent (KnoAgent). Across behavioral logs, discussion transcripts analyzed with epistemic network analysis, and engagement questionnaires, the adaptive group showed higher **participation equality** but not higher participation **intensity**, deeper cognitive engagement with more advanced cognitive-presence phases and more integrative solution-oriented discourse, and higher overall emotional engagement, especially feeling more relaxed and more connected with peers. The paper's claim is a role claim: GenAI can occupy the process-moderator seat in a team, not just the explainer seat.
+> **Synthesis:** Chen et al. (2026) tested whether [[generative-ai|GenAI]] can moderate a collaborative team rather than tutor its members. Most educational GenAI in [[collaborative-learning]] is deployed as a content-oriented helper that explains and generates; the authors instead built **SSRLAgent**, an agent that scaffolds [[self-regulated-learning|socially shared regulation of learning]] (SSRL) by diagnosing a group's regulatory state and prompting accordingly. In a 16-week quasi-experiment with 64 undergraduates in China, one condition received that adaptive SSRL [[scaffolding]] and the other received static scaffolding through structured digital worksheets plus a content-support agent (KnoAgent). Across behavioral logs, discussion transcripts analyzed with [[network-analysis|epistemic network analysis]], and engagement questionnaires, the adaptive group showed higher **participation equality** but not higher participation **intensity**, deeper cognitive engagement with more advanced cognitive-presence phases and more integrative solution-oriented discourse, and higher overall emotional engagement, especially feeling more relaxed and more connected with peers. The paper's claim is a role claim: GenAI can occupy the process-moderator seat in a team, not just the explainer seat.
 
 ## Key Findings
 

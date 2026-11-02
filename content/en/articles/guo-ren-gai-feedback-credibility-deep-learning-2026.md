@@ -2,7 +2,7 @@
 title: "When college students perceive GAI feedback as credible: the role of perceived GAI feedback credibility in promoting deep learning through cognitive engagement"
 published: "2026-10-22"
 created: "2026-10-28T12:11:19-04:00"
-updated: "2026-10-28T12:11:19-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-education]
 pedagogy: [student-ai-interaction, student-engagement, metacognition]
@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Guo and Ren (2026) asked whether students' judgment that generative AI feedback is credible reaches deeper learning through cognitive engagement. The design is a cross-sectional survey: 506 undergraduates at 10 universities in Jinan, China, completed self-report scales once, and a structural equation model was fitted to that single wave. Credibility predicted engagement at β = 0.428, engagement predicted deep learning at β = 0.394, and a direct path of β = 0.356 remained, with an indirect effect of β = 0.168 (95% CI [0.115, 0.232]) that was 32.1% of a total effect of β = 0.524. The authors concede that the structural model was saturated and that its fit indices do not support the proposed ordering, and both mediator and outcome are self-reports. The study establishes a pattern of association at one moment, not a mechanism or change.
+> **Synthesis:** Guo and Ren (2026) asked whether students' judgment that [[generative-ai|generative AI]] [[feedback]] is credible reaches deeper learning through cognitive engagement. The design is a cross-sectional survey: 506 undergraduates at 10 universities in Jinan, China, completed self-report scales once, and a structural equation model was fitted to that single wave. Credibility predicted engagement at β = 0.428, engagement predicted deep learning at β = 0.394, and a direct path of β = 0.356 remained, with an indirect effect of β = 0.168 (95% CI [0.115, 0.232]) that was 32.1% of a total effect of β = 0.524. The authors concede that the structural model was saturated and that its fit indices do not support the proposed ordering, and both mediator and outcome are self-reports. The study establishes a pattern of association at one moment, not a mechanism or change.
 
 ## Key Findings
 

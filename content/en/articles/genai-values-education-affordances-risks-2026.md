@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Values Education: Affordances, Ethical Risks and Implications for Teaching"
 created: "2026-10-26T09:30:00-04:00"
-updated: "2026-10-26T09:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/genai-values-education-affordances-risks-2026.md']
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Chen (2026) argues that a generative model can be a [[socratic-method|moral interlocutor]] but not a values educator, because the educator's position requires [[trust|answerability]], [[ethics|exemplarity]] and address, and a model can satisfy none of them. Five affordances, from generating moral content to a tacit curriculum of machine authority, each silently replace a [[pedagogy|pedagogical]] relation, and the risks internal to them are ordered rather than independent. The claim is conceptual, not empirical: it offers a criterion for evaluating any substitution of a machine for a [[teacher-role|teacher]].
+> **Synthesis:** Chen (2026) argues that a [[generative-ai|generative model]] can be a [[socratic-method|moral interlocutor]] but not a values educator, because the educator's position requires [[trust|answerability]], [[ethics|exemplarity]] and address, and a model can satisfy none of them. Five affordances, from generating moral content to a tacit curriculum of machine authority, each silently replace a [[pedagogy|pedagogical]] relation, and the risks internal to them are ordered rather than independent. The claim is conceptual, not empirical: it offers a criterion for evaluating any substitution of a machine for a [[teacher-role|teacher]].
 
 ## Key Findings
 

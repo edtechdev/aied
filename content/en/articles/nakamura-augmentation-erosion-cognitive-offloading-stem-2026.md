@@ -1,7 +1,7 @@
 ---
 title: "Augmentation or Erosion? Regulating Cognitive Offloading in Generative AI-Supported STEM Learning"
 created: "2026-10-25T10:05:00-04:00"
-updated: "2026-10-25T10:05:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 page_kind: [framework]
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Nakamura (2026) confronts the heterogeneity problem head on: meta-analyses report positive average effects of [[generative-ai]] on learning alongside prediction intervals spanning harm to benefit, and experiments find gains in some configurations and penalties in others. The paper's move is to relocate the causal question from the tool to the **partition of cognitive labor** between learner and machine. The proposed augmentation–erosion framework, built from [[cognitive-offloading]], distributed cognition, cognitive load theory and [[self-regulated-learning|self-regulated learning]], holds that offloading augments learning when it discharges operations *peripheral* to the current goal and risks erosion — of acquisition or of maintenance — when it bypasses processing *constitutive* of that goal, unless the learner substantively processes the output or later reconstructs it. It supplies criteria for placing an operation on a graded peripheral–constitutive continuum, names the comparison condition against which augmentation and erosion are defined, and states seven conditioned, testable propositions. It closes by proposing offloading regulation as a learning-oriented dimension of [[ai-literacy]].
+> **Synthesis:** Nakamura (2026) confronts the heterogeneity problem head on: meta-analyses report positive average effects of [[generative-ai]] on learning alongside prediction intervals spanning harm to benefit, and experiments find gains in some configurations and penalties in others. The paper's move is to relocate the causal question from the tool to the **partition of cognitive labor** between learner and machine. The proposed augmentation–erosion framework, built from [[cognitive-offloading]], [[distributed-cognition|distributed cognition]], cognitive load theory and [[self-regulated-learning|self-regulated learning]], holds that offloading augments learning when it discharges operations *peripheral* to the current goal and risks erosion — of acquisition or of maintenance — when it bypasses processing *constitutive* of that goal, unless the learner substantively processes the output or later reconstructs it. It supplies criteria for placing an operation on a graded peripheral–constitutive continuum, names the comparison condition against which augmentation and erosion are defined, and states seven conditioned, testable propositions. It closes by proposing offloading regulation as a learning-oriented dimension of [[ai-literacy]].
 
 ## Key Findings
 

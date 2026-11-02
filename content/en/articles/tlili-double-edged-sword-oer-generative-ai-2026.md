@@ -2,7 +2,7 @@
 title: "The double-edged sword: Open educational resources in the era of Generative Artificial Intelligence"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 technology: [generative-ai, open-source]
 ethics: [equity-in-ai-education]
@@ -22,7 +22,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Tlili, Farrow, Bozkurt, Amiel, Wiley, and Downes (2026) ask what happens to open educational resources when generative AI becomes part of how they are made, and they answer as a commentary rather than as a study. The method is speculative-critical: for each of five framing questions the authors set a techno-optimist reading against a critical-realist one, and they forgo empirical validation by design. No data were collected, there is no sample, and the only numbers in the text belong to legal citations and to the authors' reading of them. The argument is that the open/closed binary no longer describes the systems OER now pass through, that AI-generated material sits in an unresolved position between public domain and authorship, and that equity in the AI era depends less on producing open content than on stewarding inspectable, white box infrastructure.
+> **Synthesis:** Tlili, Farrow, Bozkurt, Amiel, Wiley, and Downes (2026) ask what happens to open educational resources when [[generative-ai|generative AI]] becomes part of how they are made, and they answer as a commentary rather than as a study. The method is speculative-critical: for each of five framing questions the authors set a techno-optimist reading against a critical-realist one, and they forgo empirical validation by design. No data were collected, there is no sample, and the only numbers in the text belong to legal citations and to the authors' reading of them. The argument is that the open/closed binary no longer describes the systems OER now pass through, that AI-generated material sits in an unresolved position between public domain and authorship, and that [[equity-in-ai-education|equity]] in the AI era depends less on producing open content than on stewarding inspectable, white box infrastructure.
 
 ## Key Findings
 1. The authors treat "open" as a property that varies by component rather than a label a system either earns or does not: training content, training software, model weights, and inference software each carry their own licensing history and can be assessed separately.

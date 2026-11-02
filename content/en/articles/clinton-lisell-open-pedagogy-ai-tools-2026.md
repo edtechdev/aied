@@ -2,7 +2,7 @@
 title: "Information literacy through open pedagogy: What's the role of AI tools?"
 published: "2026-08-25"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [collaborative-learning]
@@ -25,7 +25,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Clinton-Lisell (2026) asked whether a semester-long open pedagogy project improves college students' information literacy, and whether adding generative AI tools changes the gain. Two sections of an introductory child development course at a US public university worked with the instructor to update citations in a 420-page openly licensed textbook. One section used library databases only (n = 55); the other also used Scite.ai and SciSpace (n = 58), for 113 students whose assignments were analyzed. Perceived source-finding skills rose in both sections, from 3.76 to 4.24 on a five-point scale, F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36, with no time by section interaction, F(1, 84) = 0.04, p = 0.85. The AI section was likelier to have a recent article approved on first submission and to finish both assignments, but scored lower. Students were not randomly assigned, so none of this is causal.
+> **Synthesis:** Clinton-Lisell (2026) asked whether a semester-long open pedagogy project improves college students' information literacy, and whether adding [[generative-ai|generative AI]] tools changes the gain. Two sections of an introductory child development course at a US public university worked with the instructor to update citations in a 420-page openly licensed textbook. One section used library databases only (n = 55); the other also used Scite.ai and SciSpace (n = 58), for 113 students whose assignments were analyzed. Perceived source-finding skills rose in both sections, from 3.76 to 4.24 on a five-point scale, F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36, with no time by section interaction, F(1, 84) = 0.04, p = 0.85. The AI section was likelier to have a recent article approved on first submission and to finish both assignments, but scored lower. Students were not randomly assigned, so none of this is causal.
 
 ## Key Findings
 1. Perceived source skills increased across the semester in both sections, F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36, with the pooled mean moving from 3.76 (SD = 0.55) to 4.24 (SD = 0.52) on a five-point scale.

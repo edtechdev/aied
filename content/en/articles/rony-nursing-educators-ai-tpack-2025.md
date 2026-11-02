@@ -1,7 +1,7 @@
 ---
 title: "Nursing educators' perspectives on the integration of artificial intelligence into academic settings"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-10-31T14:48:08-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2025"
 source_url: "https://doi.org/10.1177/23779608251342931"
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** A [[tpack]]-framed phenomenological study of nursing educators in Bangladesh finds that the case for AI in [[nursing-education]] is made almost entirely in the language of time and attention. Grading, progress tracking, and simulation free educators for mentorship, while [[personalized-learning]] and early warning about struggling students are valued for what they let a teacher do next. Set against that, the barriers participants described are not about belief but about capacity and governance: no training, unreliable connectivity, and unanswered questions about who holds student data and whether an algorithm judges students fairly. The authors read their five themes as evidence that adoption depends less on tool quality than on [[teacher-ai-competency]] and institutional policy.
+> **Synthesis:** A [[tpack]]-framed phenomenological study of nursing educators in Bangladesh finds that the case for AI in [[nursing-education]] is made almost entirely in the language of time and attention. Grading, progress tracking, and [[simulation]] free educators for mentorship, while [[personalized-learning]] and early warning about struggling students are valued for what they let a teacher do next. Set against that, the barriers participants described are not about belief but about capacity and [[governance]]: no training, unreliable connectivity, and unanswered questions about who holds student data and whether an algorithm judges students fairly. The authors read their five themes as evidence that adoption depends less on tool quality than on [[teacher-ai-competency]] and institutional policy.
 
 ## Key Findings
 

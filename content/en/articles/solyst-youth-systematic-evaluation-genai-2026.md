@@ -1,7 +1,7 @@
 ---
 title: "\"Are you biased right now, AI?\": Investigating Supporting Youths' Systematic Evaluation of GenAI"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Solyst, J.", "Walker, L.", "Handa, S.", "Nurdin, F.", "Shapiro, R. B."]
 published: "2026-01-01"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Solyst, Walker, Handa, Nurdin, and Shapiro (2026) report a five-day AI literacy camp in which 16 teenage girls (ages 13 to 18) used a custom text-to-image interface, Promptinator, to evaluate [[generative-ai|generative AI]] systematically, treating prompts as tests, images as evidence, and pre-prompts as the conditions that make outputs comparable. Youth defined goodness as prompt adherence, realism, and diverse representation, but applied those criteria unevenly: they conflated personal preference with output quality, stopped at surface-level pattern recognition without causal interpretation, and were derailed by model [[guardrails]] that blocked attempts to depict people who looked like them. Structured comparison and peer sensemaking produced more specific claims, yet the most rigorous activity was also the most fatiguing.
+> **Synthesis:** Solyst, Walker, Handa, Nurdin, and Shapiro (2026) report a five-day [[ai-literacy|AI literacy]] camp in which 16 teenage girls (ages 13 to 18) used a custom text-to-image interface, Promptinator, to evaluate [[generative-ai|generative AI]] systematically, treating prompts as tests, images as evidence, and pre-prompts as the conditions that make outputs comparable. Youth defined goodness as prompt adherence, realism, and diverse representation, but applied those criteria unevenly: they conflated personal preference with output quality, stopped at surface-level pattern recognition without causal interpretation, and were derailed by model [[guardrails]] that blocked attempts to depict people who looked like them. Structured comparison and peer sensemaking produced more specific claims, yet the most rigorous activity was also the most fatiguing.
 
 ## Key Findings
 

@@ -2,7 +2,7 @@
 title: "AI-supported virtual laboratory for flipped physics learning: effects on middle school students' achievement, motivation, and cognitive load"
 published: "2026-10-21"
 created: "2026-10-28T12:11:19-04:00"
-updated: "2026-10-28T12:11:19-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-education, learning-design]
 pedagogy: [experiential-learning, inquiry-based-learning, motivation, scaffolding]
@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Li and Ahmad (2026) asked whether embedding a conversational AI agent inside a virtual physics laboratory adds anything beyond the virtual laboratory itself, for Grade 9 students in a flipped unit. Ninety students in three intact classes at one middle school in central China spent three weeks on Ohm's law, each class assigned as a unit to the AI-supported virtual laboratory (AI-VL), the same laboratory without AI (VL), or a physical laboratory (PL). Adjusted achievement was 23.45, 20.51, and 16.57 out of 30, F(2, 86) = 113.38, p < 0.001, partial η2 = 0.73, with every pair significant. Because intact classes rather than students were assigned, and each condition had its own teacher, the result describes three classroom arrangements, not the AI agent alone; cognitive load was measured only at posttest.
+> **Synthesis:** Li and Ahmad (2026) asked whether embedding a conversational AI agent inside a virtual physics laboratory adds anything beyond the [[simulation|virtual laboratory]] itself, for Grade 9 students in a flipped unit. Ninety students in three intact classes at one middle school in central China spent three weeks on Ohm's law, each class assigned as a unit to the AI-supported virtual laboratory (AI-VL), the same laboratory without AI (VL), or a physical laboratory (PL). Adjusted achievement was 23.45, 20.51, and 16.57 out of 30, F(2, 86) = 113.38, p < 0.001, partial η2 = 0.73, with every pair significant. Because intact classes rather than students were assigned, and each condition had its own teacher, the result describes three classroom arrangements, not the AI agent alone; cognitive load was measured only at posttest.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Care Ethics for AI Governance in Higher Education: Applying the Jones AI Ethics Framework"
 created: "2026-10-27T13:18:50-04:00"
-updated: "2026-10-27T13:18:50-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Jones, M. S."]
 published: "2026"
@@ -31,7 +31,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Institutional AI policy borrowed the fairness, accountability and transparency vocabulary of commercial AI ethics, then added an academic integrity frame aimed at student misuse. Jones argues that both can record a disparate outcome as bias while leaving the relations that produced it unexamined, and turns Tronto's phases of care into five questions a governance body can put to one tool, on behalf of specific students.
+> **Synthesis:** Institutional [[educational-policy-ai|AI policy]] borrowed the fairness, accountability and transparency vocabulary of commercial AI ethics, then added an [[academic-integrity|academic integrity]] frame aimed at student misuse. Jones argues that both can record a disparate outcome as bias while leaving the relations that produced it unexamined, and turns Tronto's phases of care into five questions a [[governance]] body can put to one tool, on behalf of specific students.
 
 ## Key Findings
 

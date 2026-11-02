@@ -1,7 +1,7 @@
 ---
 title: "Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education"
 created: "2026-10-28T12:00:00-04:00"
-updated: "2026-10-28T12:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Kapoor, M.", "Zhou, J."]
 published: "2026-10-27"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Kapoor and Zhou (2026) present Edhivo, an [[edtech-platform|AI-native assessment platform]] built at Stony Brook University that separates assessment generation from assessment evaluation: one model drafts multiple-choice and open-ended questions from instructor-uploaded materials, and a second scores open-ended answers against instructor-defined ground truth on correctness, completeness and relevance. The argument is architectural rather than pedagogical — that the [[feedback]] gap in [[higher-ed|higher education]] is a problem of authoring cost and feedback latency, not only of instructional design. A Spring 2026 pilot in a graduate course on large language models (36 students) reports median generation of about 10 seconds against an estimated 30 minutes of manual authoring, a net saving near 25 minutes per assessment after a 5-minute human review, and unanimous agreement from 30 survey respondents that instant feedback improved their learning. Whether the scores are right is still open: the authors are assembling an AI-versus-instructor comparison and name that validation as future work, so the page should be read as an evaluation of feasibility, latency and cost rather than of [[assessment-validity|grading validity]].
+> **Synthesis:** Kapoor and Zhou (2026) present Edhivo, an [[edtech-platform|AI-native assessment platform]] built at Stony Brook University that separates assessment generation from assessment evaluation: one model drafts multiple-choice and open-ended questions from instructor-uploaded materials, and a second scores open-ended answers against instructor-defined ground truth on correctness, completeness and relevance. The argument is architectural rather than pedagogical — that the [[feedback]] gap in [[higher-ed|higher education]] is a problem of authoring cost and feedback latency, not only of instructional design. A Spring 2026 pilot in a graduate course on [[llm|large language models]] (36 students) reports median generation of about 10 seconds against an estimated 30 minutes of manual authoring, a net saving near 25 minutes per assessment after a 5-minute human review, and unanimous agreement from 30 survey respondents that instant feedback improved their learning. Whether the scores are right is still open: the authors are assembling an AI-versus-instructor comparison and name that validation as future work, so the page should be read as an evaluation of feasibility, latency and cost rather than of [[assessment-validity|grading validity]].
 
 ## Key Findings
 

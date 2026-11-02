@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of AI Competence: A Conceptual Review of Cross-Dimensional Miscalibration in Generative AI Use"
 created: "2026-10-30T06:09:00-04:00"
-updated: "2026-10-30T06:09:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/pradubwate-illusion-ai-competence-miscalibration-2026.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, quotes, links]
 ---
 
-> **Synthesis:** Pradubwate (2026) argues that the familiar worry about AI overconfidence has been measured in the wrong place. The paper separates AI competence into three dimensions that give different feedback: operational competence (AI-O), the procedural fluency of prompting and iterating, which returns immediate and unambiguous signals; evaluative competence (AI-E), the capacity to judge whether an output is accurate, which returns delayed, sparse or absent signals; and domain-task competence (DT), the knowledge to do the task unaided, which is deferred to assessment or real-world consequence. The illusion of AI competence is then defined narrowly as a calibration failure in which gains in AI-O are misread as evidence of gains in AI-E and DT. That reframing separates it from the Dunning-Kruger effect, where the deficit and the misjudgement sit on the same dimension, and it makes the phenomenon falsifiable, since the three dimensions can be measured separately. The paper is a structured but non-exhaustive conceptual review with no data of its own, organized into eight search arms including one built to find disconfirming evidence.
+> **Synthesis:** Pradubwate (2026) argues that the familiar worry about AI overconfidence has been measured in the wrong place. The paper separates [[ai-literacy|AI competence]] into three dimensions that give different [[feedback]]: operational competence (AI-O), the procedural fluency of prompting and iterating, which returns immediate and unambiguous signals; evaluative competence (AI-E), the capacity to judge whether an output is accurate, which returns delayed, sparse or absent signals; and domain-task competence (DT), the knowledge to do the task unaided, which is deferred to [[assessment]] or real-world consequence. The illusion of AI competence is then defined narrowly as a calibration failure in which gains in AI-O are misread as evidence of gains in AI-E and DT. That reframing separates it from the Dunning-Kruger effect, where the deficit and the misjudgement sit on the same dimension, and it makes the phenomenon falsifiable, since the three dimensions can be measured separately. The paper is a structured but non-exhaustive conceptual review with no data of its own, organized into eight search arms including one built to find disconfirming evidence.
 
 ## Key Findings
 

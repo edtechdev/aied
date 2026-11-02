@@ -1,7 +1,7 @@
 ---
 title: "AI content detection in student text assignments, false positive rates, and academic integrity"
 created: "2026-10-31T09:25:00-04:00"
-updated: "2026-10-31T09:25:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/maghami-ai-detection-false-positives-2026.md']
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Maghami, Ho, and Camilleri (2026) synthesize 90 studies published between 2020 and 2026 on [[ai-detection]] in higher education, 81 retrieved from Scopus and nine added from Google Scholar. They combine VOSviewer keyword mapping with Structural Topic Modeling and a qualitative synthesis, and the corpus resolves into three themes: academic integrity and student assessment, plagiarism and responsible AI governance, and detection accuracy, reliability, and false positives. Their central claim is that reported false-positive rates cannot be pooled, because studies differ in detector, version, threshold, dataset, text length, language, and design, yet the causes recur across them: language and algorithmic bias, limited contextual understanding, reliance on surface-level linguistic features, and narrow training data. The review frames false positives as a [[governance]] problem rather than only a technical one, and recommends transparent detection practices, [[human-in-the-loop-ai]] review, [[ai-literacy]], clear institutional policy, and accessible appeal routes.
+> **Synthesis:** Maghami, Ho, and Camilleri (2026) synthesize 90 studies published between 2020 and 2026 on [[ai-detection]] in higher education, 81 retrieved from Scopus and nine added from Google Scholar. They combine VOSviewer keyword mapping with Structural Topic Modeling and a qualitative synthesis, and the corpus resolves into three themes: [[academic-integrity|academic integrity]] and student assessment, plagiarism and responsible AI governance, and detection accuracy, reliability, and false positives. Their central claim is that reported false-positive rates cannot be pooled, because studies differ in detector, version, threshold, dataset, text length, language, and design, yet the causes recur across them: language and [[bias-mitigation|algorithmic bias]], limited contextual understanding, reliance on surface-level linguistic features, and narrow training data. The review frames false positives as a [[governance]] problem rather than only a technical one, and recommends transparent detection practices, [[human-in-the-loop-ai]] review, [[ai-literacy]], clear [[educational-policy-ai|institutional policy]], and accessible appeal routes.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "AI as Co-Designer and Feedback Partner: Enhancing Human Judgment"
 created: "2026-10-25T08:30:00-04:00"
-updated: "2026-10-25T08:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/aalhe-ai-co-designer-feedback-partner-2026.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Ford, Helms, and Moseley (2026) argue that [[generative-ai]] should be treated as a co-designer during assessment development and as a feedback partner during learning, not as an automated replacement for faculty expertise. Writing from their own practice, they distinguish AI from augmented intelligence (AuI), in which technology amplifies rather than replaces human decision-making, and describe two working moves: asking an enterprise AI platform to "take the test" and compare its reasoning with the keyed response before items are administered, and building a chatbot that guides students toward connections between course content and assignment expectations rather than generating the response. They ground the partnership in [[metacognition]] and [[self-regulated-learning|self-regulated learning]], insist that AI output must be critically evaluated rather than accepted, and close with a six-part framework — AI tools and [[assessment|assessment design]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[ethics]], pedagogical purpose, and [[human-in-the-loop-ai|human judgment]] — for building authentic assessment. The article reports no empirical data.
+> **Synthesis:** Ford, Helms, and Moseley (2026) argue that [[generative-ai]] should be treated as a co-designer during assessment development and as a [[feedback]] partner during learning, not as an automated replacement for faculty expertise. Writing from their own practice, they distinguish AI from augmented intelligence (AuI), in which technology amplifies rather than replaces human decision-making, and describe two working moves: asking an enterprise AI platform to "take the test" and compare its reasoning with the keyed response before items are administered, and building a chatbot that guides students toward connections between course content and assignment expectations rather than generating the response. They ground the partnership in [[metacognition]] and [[self-regulated-learning|self-regulated learning]], insist that AI output must be critically evaluated rather than accepted, and close with a six-part framework — AI tools and [[assessment|assessment design]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[ethics]], pedagogical purpose, and [[human-in-the-loop-ai|human judgment]] — for building [[authentic-assessment|authentic assessment]]. The article reports no empirical data.
 
 ## Key Findings
 

@@ -1,7 +1,7 @@
 ---
 title: "Using DeepSeek's reasoning-based AI model to support written feedback practices"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Wu, C.", "Li, A. W.", "Moorhouse, B. L."]
 published: "2026-06-02"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Wu, Li, and Moorhouse (2026) review [[open-source|DeepSeek]], a reasoning-based [[llm|large language model]] released in January 2025, as a support for student writers' written feedback practices, combining a review of recent [[generative-ai|generative AI]] feedback research with the authors' own exploratory prompting of the tool across five feedback tasks. Their central claim is that DeepSeek's inference-time reasoning, in which the model decomposes a prompt into sub-tasks, generates chains of thought, and revises them before answering, makes the rationale behind its feedback visible in a way most LLMs do not do unless explicitly asked. They also report clear limits: weaker and less consistent handling of higher-order writing skills, limited memory across turns, and a feedback style that favors linear, Western academic organization and standardized English.
+> **Synthesis:** Wu, Li, and Moorhouse (2026) review [[open-source|DeepSeek]], a reasoning-based [[llm|large language model]] released in January 2025, as a support for student writers' written [[feedback]] practices, combining a review of recent [[generative-ai|generative AI]] feedback research with the authors' own exploratory prompting of the tool across five feedback tasks. Their central claim is that DeepSeek's inference-time reasoning, in which the model decomposes a prompt into sub-tasks, generates chains of thought, and revises them before answering, makes the rationale behind its feedback visible in a way most LLMs do not do unless explicitly asked. They also report clear limits: weaker and less consistent handling of higher-order writing skills, limited memory across turns, and a feedback style that favors linear, Western academic organization and standardized English.
 
 ## Key Findings
 

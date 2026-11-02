@@ -2,7 +2,7 @@
 title: "AI literacy is directly associated with positive attitudes and indirectly associated with negative attitudes through AI anxiety: a cross-sectional study of preservice teachers"
 published: "2026-10-22"
 created: "2026-10-28T12:14:20-04:00"
-updated: "2026-10-28T12:14:20-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-literacy, ai-education, teacher-ai-competency]
 pedagogy: [anxiety-and-stress]
@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Satmaz and Adiyaman (2026) asked whether AI anxiety statistically accounts for part of the association between preservice teachers' AI literacy and their attitudes toward AI, on the premise that favorable and unfavorable evaluations are separate dimensions. In one wave of questionnaires from 335 preservice teachers at a single faculty of education in Turkey in May 2026, AI literacy correlated 0.290 with positive attitudes and -0.150 with negative attitudes, while AI anxiety correlated 0.667 with negative attitudes and -0.012, not significant, with positive attitudes. Two PROCESS Model 4 models found a significant indirect path through anxiety for negative attitudes (B = -0.1237, 95% CI [-0.2065, -0.0398]) and none for positive attitudes (B = -0.0056, 95% CI [-0.0306, 0.0151]). Every variable was measured at once, so these paths decompose concurrent correlations; the authors' own reversed models show the data cannot say whether anxiety precedes negative attitudes or follows them.
+> **Synthesis:** Satmaz and Adiyaman (2026) asked whether [[anxiety-and-stress|AI anxiety]] statistically accounts for part of the association between preservice teachers' [[ai-literacy|AI literacy]] and their attitudes toward AI, on the premise that favorable and unfavorable evaluations are separate dimensions. In one wave of questionnaires from 335 preservice teachers at a single faculty of education in Turkey in May 2026, AI literacy correlated 0.290 with positive attitudes and -0.150 with negative attitudes, while AI anxiety correlated 0.667 with negative attitudes and -0.012, not significant, with positive attitudes. Two PROCESS Model 4 models found a significant indirect path through anxiety for negative attitudes (B = -0.1237, 95% CI [-0.2065, -0.0398]) and none for positive attitudes (B = -0.0056, 95% CI [-0.0306, 0.0151]). Every variable was measured at once, so these paths decompose concurrent correlations; the authors' own reversed models show the data cannot say whether anxiety precedes negative attitudes or follows them.
 
 ## Key Findings
 

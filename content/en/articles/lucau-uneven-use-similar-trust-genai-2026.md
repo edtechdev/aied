@@ -1,7 +1,7 @@
 ---
 title: "Uneven Use, Similar Trust? Generative AI in Denmark and Romania"
 created: "2026-10-28T12:00:00-04:00"
-updated: "2026-10-28T12:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Lucau, I.", "Voicu, A.-G.", "Christensen, S. M."]
 published: "2026-10-27"
@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Denmark and Romania sit at opposite ends of European [[generative-ai|generative AI]] use: in 2025, 48.4% of Danes aged 16–74 had used such tools in the previous three months against 17.8% of Romanians, with the EU at 32.7%. Lucau, Voicu and Christensen ask whether that usage gap comes with a matching gap in [[trust]] — and find that it does not. On the KPMG/Melbourne study, which asked both countries identical questions, Romanians trust AI slightly more (4.1 against 3.8 on a seven-point scale), while the Standard Eurobarometer shows Denmark leading by 28 to 45 percentage points on trust in government, parliament and the legal system. What does track trust in AI is confidence in how AI is governed: 47% of Romanians against 36% of Danes call current laws and safeguards adequate, and KPMG's pooled model puts confidence in AI governance at B = .62. Age and education gaps are much wider in relative terms in Romania. The design is a descriptive two-country comparison with no association tested, so it establishes a pattern to be explained, not a cause.
+> **Synthesis:** Denmark and Romania sit at opposite ends of European [[generative-ai|generative AI]] use: in 2025, 48.4% of Danes aged 16–74 had used such tools in the previous three months against 17.8% of Romanians, with the EU at 32.7%. Lucau, Voicu and Christensen ask whether that usage gap comes with a matching gap in [[trust]] — and find that it does not. On the KPMG/Melbourne study, which asked both countries identical questions, Romanians trust AI slightly more (4.1 against 3.8 on a seven-point scale), while the Standard Eurobarometer shows Denmark leading by 28 to 45 percentage points on trust in government, parliament and the legal system. What does track trust in AI is confidence in how AI is governed: 47% of Romanians against 36% of Danes call current laws and safeguards adequate, and KPMG's pooled model puts confidence in [[governance|AI governance]] at B = .62. Age and education gaps are much wider in relative terms in Romania. The design is a descriptive two-country comparison with no association tested, so it establishes a pattern to be explained, not a cause.
 
 ## Key Findings
 1. **Opposite ends of EU use.** 48.4% of Danes and 17.8% of Romanians aged 16–74 used generative AI in the last three months; Romanian work (5.2%) and education (3.4%) rates are about 19% of Danish ones.

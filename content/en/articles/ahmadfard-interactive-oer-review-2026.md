@@ -2,7 +2,7 @@
 title: "Advancing open learning through interactive open educational resources"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 pedagogy: [active-learning]
 technology: [generative-ai]
@@ -23,7 +23,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Ahmadfard (2026) asks what interactivity means inside open educational resources, how interactive features shape student experience and outcomes, and what blocks adoption, and answers with a structured literature review and thematic synthesis rather than new data. The search ran in Scopus for 1970 to 2026, English only, all document types, records extracted on 15 January 2026, with a keyword co-occurrence map at a minimum threshold of 50 occurrences. The review defines interactive OER as openly licensed materials that deliberately embed simulations, branching scenarios, formative assessment, feedback, or adaptive features. It grounds their design in active learning, constructivism, cognitive load theory, and Universal Design for Learning, and reports effects through cited studies, such as normalized gains of 0.48 in interactive engagement courses against 0.23 in traditional ones. It can organize a fragmented literature into design guidance. It collects no outcome data and never states how many records it included.
+> **Synthesis:** Ahmadfard (2026) asks what interactivity means inside open educational resources, how interactive features shape student experience and outcomes, and what blocks adoption, and answers with a structured literature review and thematic synthesis rather than new data. The search ran in Scopus for 1970 to 2026, English only, all document types, records extracted on 15 January 2026, with a keyword co-occurrence map at a minimum threshold of 50 occurrences. The review defines interactive OER as openly licensed materials that deliberately embed simulations, branching scenarios, formative assessment, feedback, or adaptive features. It grounds their design in [[active-learning|active learning]], constructivism, cognitive load theory, and Universal Design for Learning, and reports effects through cited studies, such as normalized gains of 0.48 in interactive engagement courses against 0.23 in traditional ones. It can organize a fragmented literature into design guidance. It collects no outcome data and never states how many records it included.
 
 ## Key Findings
 

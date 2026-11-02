@@ -1,7 +1,7 @@
 ---
 title: "From Chaos to Consistency: A Human-Centered Framework for AI-Supported Assessment at a Mission-Driven Liberal Arts College"
 created: "2026-10-25T08:30:00-04:00"
-updated: "2026-10-25T08:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/aalhe-chaos-to-consistency-ai-assessment-2026.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Ravesloot, Copeland, and Pryor (2026) report a Spring 2026 pilot at a small Catholic liberal arts college in the Midwest that used a generative-AI-supported Assessment Wizard to help faculty complete program-assessment documentation during a structured Education Day. Grounded in Catholic social teaching and human-centered AI principles, the pilot framed the work around three principles — human judgment as non-negotiable interpretive authority, [[ethics]] of AI-augmented evidence, and formative human-AI partnership. Survey results from the pilot cohort (N = 10, with item-level valid responses varying) showed strong endorsement: every participant selected the highest response option for future use (M = 5.00, SD = 0.00), and the process was rated most helpful for thinking carefully about evidence of student learning (M = 4.67). Thematic analysis of nine participant accounts identified five themes, including efficiency and cognitive [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] validation, platform reliability and trust, data governance, and institutional support infrastructure; a negative case in which one participant spent about six hours on a separate program-review assistant and then finished the task in a personal ChatGPT account in about two minutes exposed governance vulnerabilities the initial design had not addressed.
+> **Synthesis:** Ravesloot, Copeland, and Pryor (2026) report a Spring 2026 pilot at a small Catholic liberal arts college in the Midwest that used a generative-AI-supported [[assessment]] Wizard to help faculty complete program-assessment documentation during a structured Education Day. Grounded in Catholic social teaching and human-centered AI principles, the pilot framed the work around three principles — human judgment as non-negotiable interpretive authority, [[ethics]] of AI-augmented evidence, and formative human-AI partnership. Survey results from the pilot cohort (N = 10, with item-level valid responses varying) showed strong endorsement: every participant selected the highest response option for future use (M = 5.00, SD = 0.00), and the process was rated most helpful for thinking carefully about evidence of student learning (M = 4.67). Thematic analysis of nine participant accounts identified five themes, including efficiency and cognitive [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] validation, platform reliability and trust, data [[governance]], and institutional support infrastructure; a negative case in which one participant spent about six hours on a separate program-review assistant and then finished the task in a personal ChatGPT account in about two minutes exposed governance vulnerabilities the initial design had not addressed.
 
 ## Key Findings
 

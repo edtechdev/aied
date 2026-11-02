@@ -1,7 +1,7 @@
 ---
 title: "K-12 AI literacy frameworks after generative AI: A scoping review"
 created: "2026-11-01T09:09:38-05:00"
-updated: "2026-11-01T09:09:38-05:00"
+updated: "2026-11-02T06:45:00-05:00"
 published: "2026"
 type: article
 sources: ['raw/papers/kharbach-k12-ai-literacy-frameworks-scoping-review-2026.md']
@@ -25,7 +25,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A scoping review of 50 K-12 AI literacy frameworks published in 2024 and 2025 finds a field producing structure faster than it produces agreement. The frameworks sort into four clusters, lean heavily on self-report scales, and share a five-dimension vocabulary whose labels do not line up. Grade progression is proposed almost everywhere and evidenced nowhere: no study followed the same students across bands. Generative AI, the reason most of this work exists, stays at the edge of the instruments meant to measure it.
+> **Synthesis:** A [[meta-analysis-systematic-review|scoping review]] of 50 K-12 [[ai-literacy|AI literacy]] frameworks published in 2024 and 2025 finds a field producing structure faster than it produces agreement. The frameworks sort into four clusters, lean heavily on self-report scales, and share a five-dimension vocabulary whose labels do not line up. Grade progression is proposed almost everywhere and evidenced nowhere: no study followed the same students across bands. [[generative-ai|Generative AI]], the reason most of this work exists, stays at the edge of the instruments meant to measure it.
 
 ## Key Findings
 

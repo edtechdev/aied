@@ -1,7 +1,7 @@
 ---
 title: "The crisis of critical thinking in higher education: rethinking what universities should teach in an age of information abundance and generative AI"
 created: "2026-10-29T10:30:00-04:00"
-updated: "2026-10-29T10:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Salameh, W."]
 published: "2026-10-27"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Salameh (2026) synthesizes 45 verified sources into a critical narrative review of how information abundance, algorithmic curation and [[generative-ai|generative AI]] bear on [[critical-thinking]] in higher education, and concludes the evidence is most consistent with a structural rather than an individual explanation. Five themes emerge: the core cognitive task shifts from retrieval to evaluation; unguided AI use is associated with reduced cognitive engagement and, in several experiments, with gains that vanish when support is removed; fluent output gets mistaken for validated knowledge while [[ai-detection]] stays unreliable and biased; lateral reading, guided use and process-visible assessment have uneven support; and workload, [[equity-in-ai-education|equity]] and [[educational-policy-ai|policy]] constrain adoption. From these the review derives the Fade–Visibility Matrix, crossing [[scaffolding|AI support that persists or fades]] with product-only or [[process-oriented-assessment|process-visible assessment]] into four diagnostic states. Its most useful contribution to practice is that framing: the danger is not the tool but the default combination of support that never fades and assessment that sees only the finished product.
+> **Synthesis:** Salameh (2026) synthesizes 45 verified sources into a critical narrative review of how information abundance, algorithmic curation and [[generative-ai|generative AI]] bear on [[critical-thinking]] in higher education, and concludes the evidence is most consistent with a structural rather than an individual explanation. Five themes emerge: the core cognitive task shifts from retrieval to evaluation; unguided AI use is associated with reduced cognitive engagement and, in several experiments, with gains that vanish when support is removed; fluent output gets mistaken for validated knowledge while [[ai-detection]] stays unreliable and biased; lateral reading, guided use and process-visible [[assessment]] have uneven support; and workload, [[equity-in-ai-education|equity]] and [[educational-policy-ai|policy]] constrain adoption. From these the review derives the Fade–Visibility Matrix, crossing [[scaffolding|AI support that persists or fades]] with product-only or [[process-oriented-assessment|process-visible assessment]] into four diagnostic states. Its most useful contribution to practice is that framing: the danger is not the tool but the default combination of support that never fades and assessment that sees only the finished product.
 
 ## Key Findings
 

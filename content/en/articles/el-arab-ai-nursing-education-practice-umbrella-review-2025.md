@@ -1,7 +1,7 @@
 ---
 title: "The role of AI in nursing education and practice: umbrella review"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-10-31T14:20:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2025"
 sources: ['raw/papers/el-arab-ai-nursing-education-practice-umbrella-review-2025.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** This umbrella review asks what 18 prior reviews establish about AI in [[nursing-education]] and nursing work, and answers with three themes rather than a pooled effect. The reviews converge on [[privacy]], [[bias-mitigation]], transparency, accountability, and [[equity-in-ai-education]] as unresolved; on curricula that still lack [[ai-literacy]] and standardized AI content; and on an implementation gap in which development outruns operationalization. The authors are explicit that the reviews beneath them are heterogeneous and that no included review ran a meta-analysis, so their recommendations are directions for governance and [[curriculum-design]], not tested interventions with known effect sizes.
+> **Synthesis:** This umbrella review asks what 18 prior reviews establish about AI in [[nursing-education]] and nursing work, and answers with three themes rather than a pooled effect. The reviews converge on [[privacy]], [[bias-mitigation]], transparency, accountability, and [[equity-in-ai-education]] as unresolved; on curricula that still lack [[ai-literacy]] and standardized AI content; and on an implementation gap in which development outruns operationalization. The authors are explicit that the reviews beneath them are heterogeneous and that no included review ran a meta-analysis, so their recommendations are directions for [[governance]] and [[curriculum-design]], not tested interventions with known effect sizes.
 
 ## Key Findings
 

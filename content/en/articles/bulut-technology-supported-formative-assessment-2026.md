@@ -1,7 +1,7 @@
 ---
 title: "Technology-Supported Formative Assessment in Higher Education: AI, Learning Analytics and the Future of Assessment for Learning"
 created: "2026-10-26T13:35:09-04:00"
-updated: "2026-10-26T13:35:09-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 foundations: [theories-and-frameworks, limitations-in-aied-research, educational-development]
@@ -24,7 +24,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Bulut (2026) maps twenty-six years of research on technology-supported formative assessment (TSFA) in higher education, drawing on 407 studies published between 2000 and August 2026. The review's central claim is a shift in what technology is *for*: early work treated digital tools as delivery mechanisms for existing assessment practice, whereas the recent literature increasingly positions analytics and AI as constitutive parts of a formative cycle of evidence, feedback, reflection, and pedagogical action. Bulut names this configuration a technology-mediated formative ecosystem, joining technological capacity to pedagogical regulation, [[agency|learner agency]], and human judgment. The findings are distributional rather than experimental: bibliometric mapping shows acceleration after 2020 and convergence around [[formative-assessment|formative assessment]], [[feedback]], students, and AI, while [[qualitative-research|qualitative]] synthesis and a SWOT reading identify theoretical fragmentation, thin longitudinal evidence, ethical exposure, and a pronounced geographic imbalance as the field's constraints. The practical argument is that institutions should pursue [[human-ai-collaboration|human-centered AI]] integration, transparent [[governance]], and equitable access if technology is to support rather than displace formative pedagogical judgment.
+> **Synthesis:** Bulut (2026) maps twenty-six years of research on technology-supported formative [[assessment]] (TSFA) in higher education, drawing on 407 studies published between 2000 and August 2026. The review's central claim is a shift in what technology is *for*: early work treated digital tools as delivery mechanisms for existing assessment practice, whereas the recent literature increasingly positions analytics and AI as constitutive parts of a formative cycle of evidence, feedback, reflection, and pedagogical action. Bulut names this configuration a technology-mediated formative ecosystem, joining technological capacity to pedagogical regulation, [[agency|learner agency]], and human judgment. The findings are distributional rather than experimental: bibliometric mapping shows acceleration after 2020 and convergence around [[formative-assessment|formative assessment]], [[feedback]], students, and AI, while [[qualitative-research|qualitative]] synthesis and a SWOT reading identify theoretical fragmentation, thin longitudinal evidence, ethical exposure, and a pronounced geographic imbalance as the field's constraints. The practical argument is that institutions should pursue [[human-ai-collaboration|human-centered AI]] integration, transparent [[governance]], and equitable access if technology is to support rather than displace formative pedagogical judgment.
 
 ## Key Findings
 

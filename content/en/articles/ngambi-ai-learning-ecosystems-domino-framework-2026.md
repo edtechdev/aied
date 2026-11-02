@@ -1,7 +1,7 @@
 ---
 title: "Towards AI learning ecosystems: A domino effect framework for generative AI tutoring in mathematics"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Ng'ambi, D.", "van der Merwe, J."]
 published: "2026-01-01"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Ng'ambi and van der Merwe (2026) report a [[qualitative-research|qualitative]] classroom study of [[generative-ai|generative AI]] tutoring in a Grade 9 mathematics class at a public high school in South Africa's Western Cape, contrasting 40 AI-learner chat transcripts produced under structured and [[problem-based-learning|problem-based learning]] designs. Analyzed through Computational Grounded Theory and framed by [[scaffolding]] within Vygotsky's Zone of Proximal Development, Laurillard's Conversational Framework and a critical AI literacy model the authors call SMART, the data are formalized as a Domino Effect Framework in which Initial Engagement, Sustainable Dialogue, Quality Scaffolding and Mathematical Understanding form a sequential cascade that [[problem-based-learning|problem-based]] contexts activate and structured contexts foreclose. The authors' central argument is that institutional responses defaulting to restriction and [[ai-detection|detection]] miss the point: the pedagogical role an AI tutor can play is decided upstream by [[curriculum-design|curriculum design]].
+> **Synthesis:** Ng'ambi and van der Merwe (2026) report a [[qualitative-research|qualitative]] classroom study of [[generative-ai|generative AI]] tutoring in a Grade 9 mathematics class at a public high school in South Africa's Western Cape, contrasting 40 AI-learner chat transcripts produced under structured and [[problem-based-learning|problem-based learning]] designs. Analyzed through Computational Grounded Theory and framed by [[scaffolding]] within Vygotsky's [[sociocultural-learning|Zone of Proximal Development]], Laurillard's Conversational Framework and a critical [[ai-literacy|AI literacy]] model the authors call SMART, the data are formalized as a Domino Effect Framework in which Initial Engagement, Sustainable Dialogue, Quality Scaffolding and Mathematical Understanding form a sequential cascade that [[problem-based-learning|problem-based]] contexts activate and structured contexts foreclose. The authors' central argument is that institutional responses defaulting to restriction and [[ai-detection|detection]] miss the point: the pedagogical role an [[intelligent-tutoring|AI tutor]] can play is decided upstream by [[curriculum-design|curriculum design]].
 
 ## Key Findings
 

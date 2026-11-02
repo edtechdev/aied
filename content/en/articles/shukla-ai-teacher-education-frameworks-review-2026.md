@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Teacher Education: A Systematic Literature Review of Pedagogical Frameworks"
 created: "2026-10-28T12:00:00-04:00"
-updated: "2026-10-28T12:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Shukla, V. K."]
 published: "2026-10-27"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Shukla (2026) reports a PRISMA-informed scoping review of how [[teacher-education]] programs prepare future teachers for [[generative-ai|generative AI]], searching open databases for work published between January 2020 and October 2026 and arriving at a corpus of seven sources: three framework or guidance documents and five empirical studies, with Prilop et al. (2025) counted in both groups because it reports a survey alongside a conceptual contribution. Frameworks extend [[tpack]] and place ethics inside pedagogy; the empirical work, small-scale and cross-sectional, finds uneven and narrow adoption, heavy concentration on ideation, and overconfidence that corrects when pre-service teachers are made to evaluate AI output. In a Finnish pilot, 27 percent of participants had never used generative AI at all, and no study in the corpus measured pupil learning or the quality of AI-supported teaching products. The review's value is an honest map of a gap that widens where it matters: ethics is named in every source but never operationalized as something a program can teach or assess, so anyone building [[teacher-ai-competency|teacher AI competency]] inherits vocabulary without evidence.
+> **Synthesis:** Shukla (2026) reports a PRISMA-informed [[meta-analysis-systematic-review|scoping review]] of how [[teacher-education]] programs prepare future teachers for [[generative-ai|generative AI]], searching open databases for work published between January 2020 and October 2026 and arriving at a corpus of seven sources: three framework or guidance documents and five empirical studies, with Prilop et al. (2025) counted in both groups because it reports a survey alongside a conceptual contribution. Frameworks extend [[tpack]] and place [[ethics]] inside [[pedagogy]]; the empirical work, small-scale and cross-sectional, finds uneven and narrow adoption, heavy concentration on ideation, and overconfidence that corrects when pre-service teachers are made to evaluate AI output. In a Finnish pilot, 27 percent of participants had never used generative AI at all, and no study in the corpus measured pupil learning or the quality of AI-supported teaching products. The review's value is an honest map of a gap that widens where it matters: ethics is named in every source but never operationalized as something a program can teach or assess, so anyone building [[teacher-ai-competency|teacher AI competency]] inherits vocabulary without evidence.
 
 ## Key Findings
 

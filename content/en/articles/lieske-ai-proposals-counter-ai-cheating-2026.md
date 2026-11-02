@@ -1,7 +1,7 @@
 ---
 title: "AI Proposals to Counter AI Cheating by Students in Non-Invigilated Assessment"
 created: "2026-10-30T06:07:00-04:00"
-updated: "2026-10-30T06:07:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/lieske-ai-proposals-counter-ai-cheating-2026.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Lieske and Wadley (2026) turn AI on the problem AI created: they put one prompt to eight large language models and search tools, asking each to nominate, explain and rank six techniques for stopping students from using AI to cheat in non-invigilated written assignments, then pooled the 48 answers into composite approaches. The exercise produced 15 distinct approaches, of which the models collectively favored personalization of tasks, AI detection, and process-based measures, with oral follow-up, plagiarism detection, authentic-interactive design and constraints completing a "norm" of seven. The authors read their own result cautiously: the models are not graders of evidence, and the paper concludes that no technique in the set is demonstrably foolproof or cheap enough to be called efficient. Its value is as a map of the option space and a set of institutional recommendations, not as a finding about which countermeasure works.
+> **Synthesis:** Lieske and Wadley (2026) turn AI on the problem AI created: they put one prompt to eight [[llm|large language models]] and search tools, asking each to nominate, explain and rank six techniques for stopping students from using AI to cheat in non-invigilated written assignments, then pooled the 48 answers into composite approaches. The exercise produced 15 distinct approaches, of which the models collectively favored personalization of tasks, AI detection, and process-based measures, with oral follow-up, [[ai-detection|plagiarism detection]], authentic-interactive design and constraints completing a "norm" of seven. The authors read their own result cautiously: the models are not graders of evidence, and the paper concludes that no technique in the set is demonstrably foolproof or cheap enough to be called efficient. Its value is as a map of the option space and a set of institutional recommendations, not as a finding about which countermeasure works.
 
 ## Key Findings
 

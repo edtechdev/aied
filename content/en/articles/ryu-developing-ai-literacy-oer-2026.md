@@ -2,7 +2,7 @@
 title: "Developing AI literacy OER: A literature-informed rubric for design and review"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-literacy]
 research_method: [instrument development]
@@ -22,7 +22,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Ryu (2026) asks what literature-informed principles should guide the design and review of openly licensed AI literacy resources, and answers with a practice description: a narrative synthesis that builds a rubric rather than an evaluation of one. The corpus is purposive rather than systematically searched: a 16-paper core evidence base, a 17-paper extension that re-codes the core with OER-relevant fields, and 36 targeted references at the intersection, coded by a single author against a seven-category codebook over three rounds of reading. The output is seven principles, four consensus carryovers and three framed as distinctive to OER, each paired with design and review cues, plus five topic domains: tool-agnostic prompting, output evaluation, bias awareness, accessibility, and citation and integrity. It gives programs an inspectable checklist joining two literatures, but with no learner outcome data, no inter-rater reliability, and no psychometric validation, it cannot show that rubric-aligned resources teach better.
+> **Synthesis:** Ryu (2026) asks what literature-informed principles should guide the design and review of openly licensed [[ai-literacy|AI literacy]] resources, and answers with a practice description: a narrative synthesis that builds a rubric rather than an evaluation of one. The corpus is purposive rather than systematically searched: a 16-paper core evidence base, a 17-paper extension that re-codes the core with OER-relevant fields, and 36 targeted references at the intersection, coded by a single author against a seven-category codebook over three rounds of reading. The output is seven principles, four consensus carryovers and three framed as distinctive to OER, each paired with design and review cues, plus five topic domains: tool-agnostic prompting, output evaluation, bias awareness, accessibility, and citation and integrity. It gives programs an inspectable checklist joining two literatures, but with no learner outcome data, no inter-rater reliability, and no psychometric validation, it cannot show that rubric-aligned resources teach better.
 
 ## Key Findings
 

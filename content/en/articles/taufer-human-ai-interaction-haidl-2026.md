@@ -1,7 +1,7 @@
 ---
 title: "Human-AI Interactions as First-Class Data: A Formal Interaction Model and Runtime for Explainable AI Collaboration"
 created: "2026-10-30T10:20:00-04:00"
-updated: "2026-10-30T10:20:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Taufer, M.", "Ng, K. W.", "Lumsden, I.", "Pandey, A.", "Gore, R.", "Ju, A.", "Moudgalya, S.", "Deelman, E.", "Swaminathan, S."]
 published: "2026-10-29"
@@ -28,7 +28,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Taufer and colleagues (2026) make a claim about data rather than about pedagogy: a human-AI exchange is a data class of its own, and treating it as a transient prompt-response pair discards exactly what an explanation needs. Their representation, HAIDL, records each exchange as one object spanning the computational state that motivated the request, the request, the prompt payload, the response, the user's assessment of it, the problem context, provenance and model metadata. The accompanying middleware, HAIDL-X, runs inside JupyterLab and instantiates those objects during ordinary coursework. Their point is sharp: two students who each call an assistant a dozen times look identical in prompt counts, while one is debugging error by error and the other is pasting answers forward. A 35-student deployment across four assignments shows the representation separating those cases, and shows how little a call count tells you: across 140 student-assignment pairs, interaction count correlated with successfully executed cells at only r = 0.12.
+> **Synthesis:** Taufer and colleagues (2026) make a claim about data rather than about pedagogy: a human-AI exchange is a data class of its own, and treating it as a transient prompt-response pair discards exactly what an explanation needs. Their representation, HAIDL, records each exchange as one object spanning the computational state that motivated the request, the request, the prompt payload, the response, the user's [[assessment]] of it, the problem context, provenance and model metadata. The accompanying middleware, HAIDL-X, runs inside JupyterLab and instantiates those objects during ordinary coursework. Their point is sharp: two students who each call an assistant a dozen times look identical in prompt counts, while one is debugging error by error and the other is pasting answers forward. A 35-student deployment across four assignments shows the representation separating those cases, and shows how little a call count tells you: across 140 student-assignment pairs, interaction count correlated with successfully executed cells at only r = 0.12.
 
 ## Key Findings
 

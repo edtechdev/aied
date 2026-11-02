@@ -1,7 +1,7 @@
 ---
 title: "Beyond Correctness: How Novice Software Engineering Students Exercise Oversight of Generative AI"
 created: "2026-10-26T09:30:00-04:00"
-updated: "2026-10-26T09:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/novice-se-students-oversight-genai-2026.md']
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Shakiba and Chaffey (2026) analyzed 962 student–AI interaction turns documented by 145 first-year software engineering students through structured AI Journals, including 172 student-declared interventions. Fitness problems were identified in 74.4% of interventions compared with 16.9% involving correctness problems, showing that novice oversight more often concerned whether plausible [[generative-ai|generative AI]] outputs were suitable for the engineering task than whether they contained explicit errors. Among classifiable interventions, students most frequently modified generated outputs (51.0%) or refined their prompts (28.2%). Within students, outputs perceived as containing minor flaws were associated with lower [[evaluative-judgment|evaluation confidence]] than outputs perceived as perfect, a finding the authors frame through [[human-in-the-loop-ai|human-in-the-loop oversight]] and evaluative judgment.
+> **Synthesis:** Shakiba and Chaffey (2026) analyzed 962 student–[[student-ai-interaction|AI interaction]] turns documented by 145 first-year software engineering students through structured AI Journals, including 172 student-declared interventions. Fitness problems were identified in 74.4% of interventions compared with 16.9% involving correctness problems, showing that novice oversight more often concerned whether plausible [[generative-ai|generative AI]] outputs were suitable for the engineering task than whether they contained explicit errors. Among classifiable interventions, students most frequently modified generated outputs (51.0%) or refined their prompts (28.2%). Within students, outputs perceived as containing minor flaws were associated with lower [[evaluative-judgment|evaluation confidence]] than outputs perceived as perfect, a finding the authors frame through [[human-in-the-loop-ai|human-in-the-loop oversight]] and evaluative judgment.
 
 ## Key Findings
 

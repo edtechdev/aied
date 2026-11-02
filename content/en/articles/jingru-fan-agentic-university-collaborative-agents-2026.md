@@ -1,7 +1,7 @@
 ---
 title: "Agentic University: Collaborative Agents for Personalized Learning"
 created: "2026-10-30T10:05:00-04:00"
-updated: "2026-10-30T10:05:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Fan, J.", "Zhou, T.", "Zhou, Y.", "He, Z.", "Zhou, Y.", "Wu, K.", "Zheng, X.", "Wang, X.", "Wang, Y.", "Li, Z.", "Liu, S.", "E, W.", "Qian, C."]
 published: "2026-10-29"
@@ -28,7 +28,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Fan and colleagues (2026) argue that personalized tutoring and generated materials are only part of what a learner needs, because a capability develops only when goals, activities and assessment form a coherent program that the learner can revise. Their system, Agentic University, is an organization of specialized agents plus a "Human Node" in which the learner is a member rather than a customer, and the artifact that persists is a Capability Program linking personal goals to multimodal activities and layered assessment evidence. Three studies support it: an LLM-judged comparison against three baselines on 96 simulated learner cases, an evidence-conditioned revision benchmark of 128 matched case pairs, and a randomized 32-learner study against the strongest baseline. The learning-outcome result is the headline, and it comes from an objective 50-point test rather than self-report. Confidence stays low because the case-count studies were scored by a language model.
+> **Synthesis:** Fan and colleagues (2026) argue that personalized tutoring and generated materials are only part of what a learner needs, because a capability develops only when goals, activities and [[assessment]] form a coherent program that the learner can revise. Their system, Agentic University, is an organization of specialized agents plus a "Human Node" in which the learner is a member rather than a customer, and the artifact that persists is a Capability Program linking personal goals to multimodal activities and layered assessment evidence. Three studies support it: an LLM-judged comparison against three baselines on 96 simulated learner cases, an evidence-conditioned revision benchmark of 128 matched case pairs, and a randomized 32-learner study against the strongest baseline. The learning-outcome result is the headline, and it comes from an objective 50-point test rather than self-report. Confidence stays low because the case-count studies were scored by a [[llm|language model]].
 
 ## Key Findings
 

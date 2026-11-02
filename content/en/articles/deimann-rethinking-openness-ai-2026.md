@@ -2,7 +2,7 @@
 title: "From niche to regime: Rethinking openness in the age of artificial intelligence"
 published: "2026-03-20"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 technology: [generative-ai, open-source]
 institutions: [educational-policy-ai, governance]
@@ -22,7 +22,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Deimann and Lukács (2026) ask why 25 years of openness advocacy have not changed how educational institutions actually work, and whether generative AI will repeat the pattern. The paper is a theoretical essay. No data were collected, the evidence is a set of policy documents and secondary sources assigned to analytic positions, and no coding frame or case study is involved. The device is Geels' multi-level perspective, which separates slow landscape pressures and grand imaginaries from the institutionalized regime in the middle and from protected niches below. Read through it, OER, open science and the open AI debate share one structure: effort accumulates at landscape and niche level, the regime absorbs or ignores it, and interventions aimed at the regime stay rhetorical. The contribution is diagnostic and prescriptive, and the claim that the regime is the neglected layer is illustrated rather than demonstrated.
+> **Synthesis:** Deimann and Lukács (2026) ask why 25 years of openness advocacy have not changed how educational institutions actually work, and whether [[generative-ai|generative AI]] will repeat the pattern. The paper is a theoretical essay. No data were collected, the evidence is a set of policy documents and secondary sources assigned to analytic positions, and no coding frame or case study is involved. The device is Geels' multi-level perspective, which separates slow landscape pressures and grand imaginaries from the institutionalized regime in the middle and from protected niches below. Read through it, OER, open science and the open AI debate share one structure: effort accumulates at landscape and niche level, the regime absorbs or ignores it, and interventions aimed at the regime stay rhetorical. The contribution is diagnostic and prescriptive, and the claim that the regime is the neglected layer is illustrated rather than demonstrated.
 
 ## Key Findings
 1. It reframes openness as a contested imaginary shaped by many actors rather than a property a system either has or lacks, explicitly rejecting the binary of commercial against emancipatory openness.

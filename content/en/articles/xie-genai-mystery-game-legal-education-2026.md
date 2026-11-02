@@ -1,7 +1,7 @@
 ---
 title: "A GenAI-Assisted Mystery Role-Play Game Beat Lecture in a Legal-Education Randomized Trial"
 created: "2026-11-01T08:06:18-05:00"
-updated: "2026-11-01T08:06:18-05:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 sources: ['raw/papers/xie-genai-mystery-game-legal-education-2026.md']
 confidence: high
@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A randomized trial with 84 undergraduate law students at one Chinese university compared an offline [[game-based-learning|mystery role-playing game]] against the same instructor's lecture on the same content, and the game group scored substantially higher on a post-test of legal knowledge and reasoning, *F*(1, 81) = 105.61, *p* < .001, partial *η*² = 0.566. The design detail that matters most is who the model served: Gemini 3 Pro was used by the research team to draft character scripts, not by students, so this is evidence about [[generative-ai|GenAI]] as an authoring aid for educational games rather than about AI in the student's hands. Interviews with 24 participants describe immersion, knowledge mobilisation and reflection on their own gaps.
+> **Synthesis:** A [[rct|randomized trial]] with 84 undergraduate law students at one Chinese university compared an offline [[game-based-learning|mystery role-playing game]] against the same instructor's lecture on the same content, and the game group scored substantially higher on a post-test of legal knowledge and reasoning, *F*(1, 81) = 105.61, *p* < .001, partial *η*² = 0.566. The design detail that matters most is who the model served: Gemini 3 Pro was used by the research team to draft character scripts, not by students, so this is evidence about [[generative-ai|GenAI]] as an authoring aid for educational games rather than about AI in the student's hands. Interviews with 24 participants describe immersion, knowledge mobilisation and reflection on their own gaps.
 
 ## Key Findings
 

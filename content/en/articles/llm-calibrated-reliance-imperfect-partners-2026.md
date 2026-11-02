@@ -1,7 +1,7 @@
 ---
 title: "Can LLMs Trust Appropriately? Evaluating Calibrated Reliance on Imperfect Partners"
 created: "2026-10-27T09:41:00-04:00"
-updated: "2026-10-27T09:41:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Chu, M.", "Huang, J."]
 published: "2026"
@@ -27,7 +27,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** An [[agentic-ai|AI agent]] that works alongside a human or another model has to decide, over and over, whether to accept a partner's contribution, spend something verifying it, or act alone. This benchmark asks whether [[llm|language models]] do that rationally: 324 scenarios across 23 collaboration categories, each a three-stage decision problem with explicit costs, feedback and transition dynamics, scored against analytically computed optimal choices across 972 decision opportunities. One model, GPT-5.6 Sol, picks the optimal action at all three stages of every scenario it is evaluated on, while the other six show structured pathologies: buying verification with no expected value, over-purchasing safeguards, prioritizing immediate savings over learning about a partner, and routing help to the wrong channel. Supplying explicit posterior distributions fixes some errors and creates others, which the authors read as evidence that [[trust-calibration|calibrated trust]] needs more than better probability estimates.
+> **Synthesis:** An [[agentic-ai|AI agent]] that works alongside a human or another model has to decide, over and over, whether to accept a partner's contribution, spend something verifying it, or act alone. This [[benchmark]] asks whether [[llm|language models]] do that rationally: 324 scenarios across 23 collaboration categories, each a three-stage decision problem with explicit costs, feedback and transition dynamics, scored against analytically computed optimal choices across 972 decision opportunities. One model, GPT-5.6 Sol, picks the optimal action at all three stages of every scenario it is evaluated on, while the other six show structured pathologies: buying verification with no expected value, over-purchasing safeguards, prioritizing immediate savings over learning about a partner, and routing help to the wrong channel. Supplying explicit posterior distributions fixes some errors and creates others, which the authors read as evidence that [[trust-calibration|calibrated trust]] needs more than better probability estimates.
 
 ## Key Findings
 

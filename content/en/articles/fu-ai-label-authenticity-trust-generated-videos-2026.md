@@ -2,7 +2,7 @@
 title: "AI disclosure labels, perceived authenticity, and trust in AI-generated instructional videos"
 published: "2026-10-20"
 created: "2026-10-28T12:40:58-04:00"
-updated: "2026-10-28T12:40:58-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [video-education]
@@ -25,7 +25,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Fu, Zhang and Zhang (2026) asked whether an [[ai-use-disclosure|AI disclosure label]] changes trust in an AI-generated instructional video. The design was a 2 x 2 between-subjects experiment: 617 adults aged 18 to 25, recruited through Credamo, were randomly assigned to label present or absent crossed with high or low video quality, in cells of 154, 154, 154 and 155. All watched the same 5 min and 24 s Sora-generated video on the Pomodoro method, then rated authenticity, processing, trust, risk and intentions. The label lowered perceived authenticity (B = -0.214, p = 0.029; means of 4.92 without and 4.21 with) and directly changed nothing else: trust was B = -0.130, p = 0.216, and risk, adoption and sharing were null. Trust tracked authenticity (B = 0.535) and systematic processing (B = 0.478), with a small indirect path through risk (0.061). Nothing measured is learning: the outcomes are judgments about a video and intentions toward it, taken once after viewing, so the study can say how a labeled video is evaluated, not whether anyone understood it.
+> **Synthesis:** Fu, Zhang and Zhang (2026) asked whether an [[ai-use-disclosure|AI disclosure label]] changes [[trust]] in an [[video-education|AI-generated instructional video]]. The design was a 2 x 2 between-subjects experiment: 617 adults aged 18 to 25, recruited through Credamo, were randomly assigned to label present or absent crossed with high or low video quality, in cells of 154, 154, 154 and 155. All watched the same 5 min and 24 s Sora-generated video on the Pomodoro method, then rated authenticity, processing, trust, risk and intentions. The label lowered perceived authenticity (B = -0.214, p = 0.029; means of 4.92 without and 4.21 with) and directly changed nothing else: trust was B = -0.130, p = 0.216, and risk, adoption and sharing were null. Trust tracked authenticity (B = 0.535) and systematic processing (B = 0.478), with a small indirect path through risk (0.061). Nothing measured is learning: the outcomes are judgments about a video and intentions toward it, taken once after viewing, so the study can say how a labeled video is evaluated, not whether anyone understood it.
 
 ## Key Findings
 

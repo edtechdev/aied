@@ -1,7 +1,7 @@
 ---
 title: "Replicating and Expanding a Validity Argument for eRevise as a Formative Assessment: Empirical Support for Theories of Conceptual Change"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Correnti, R.", "Matsumura, L. C.", "Wang, E. L.", "Litman, D.", "Liu, Z.", "Zhang, H.", "Li, T."]
 published: "2026"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Correnti, Matsumura, Wang, Litman, Liu, Zhang, and Li (2026) replicate and extend a validity argument for eRevise, an [[automated-essay-scoring|automated writing evaluation]] system in which fifth- and sixth-grade students draft a text-based argument, receive automated feedback on their use of evidence, and revise. With 34 teachers and 609 students across eight Louisiana parishes, analyzing three writing outcomes rather than one, they find that all three sociocultural mechanisms from their earlier argument recur: students improved on feature scores from feedback alone, classrooms with more substantive teacher responses improved more, and students who asked for help gained most where the teacher was formative. The share of students giving a conceptual rather than procedural explanation of evidence use rose from about 18% on the fall form to about 42% on the spring form. The authors read this as empirical support for theories of [[sociocultural-learning|conceptual change]], while conceding the design cannot separate eRevise practice from maturation or from classroom writing instruction.
+> **Synthesis:** Correnti, Matsumura, Wang, Litman, Liu, Zhang, and Li (2026) replicate and extend a validity argument for eRevise, an [[automated-essay-scoring|automated writing evaluation]] system in which fifth- and sixth-grade students draft a text-based argument, receive automated [[feedback]] on their use of evidence, and revise. With 34 teachers and 609 students across eight Louisiana parishes, analyzing three writing outcomes rather than one, they find that all three sociocultural mechanisms from their earlier argument recur: students improved on feature scores from feedback alone, classrooms with more substantive teacher responses improved more, and students who asked for help gained most where the teacher was formative. The share of students giving a conceptual rather than procedural explanation of evidence use rose from about 18% on the fall form to about 42% on the spring form. The authors read this as empirical support for theories of [[sociocultural-learning|conceptual change]], while conceding the design cannot separate eRevise practice from maturation or from classroom writing instruction.
 
 ## Key Findings
 

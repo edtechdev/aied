@@ -1,7 +1,7 @@
 ---
 title: "As Effective as the Teacher, but Less Motivating: AI-Generated and Teacher Feedback in a Randomized Trial"
 created: "2026-11-01T08:06:18-05:00"
-updated: "2026-11-01T08:06:18-05:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 sources: ['raw/papers/liu-ai-generated-teacher-feedback-writing-motivation-rct-2026.md']
 confidence: high
@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A three-arm randomized trial assigned 312 first-year university writers to AI-generated [[feedback]], instructor [[feedback]], or a no-substantive-feedback control, and 287 completed the single revise-and-resubmit cycle. Both feedback sources improved revised-essay quality by the same margin — *d* = 0.60 for AI and *d* = 0.59 for the instructor — and the two were statistically equivalent within a pre-specified ±0.35 SD band. The difference appeared in [[motivation]]: instructor feedback raised intrinsic motivation more than AI feedback, and perceived relatedness to the feedback source accounted for that gap.
+> **Synthesis:** A three-arm [[rct|randomized trial]] assigned 312 first-year university writers to AI-generated [[feedback]], instructor [[feedback]], or a no-substantive-feedback control, and 287 completed the single revise-and-resubmit cycle. Both feedback sources improved revised-essay quality by the same margin — *d* = 0.60 for AI and *d* = 0.59 for the instructor — and the two were statistically equivalent within a pre-specified ±0.35 SD band. The difference appeared in [[motivation]]: instructor feedback raised intrinsic motivation more than [[ai-feedback-quality|AI feedback]], and perceived relatedness to the feedback source accounted for that gap.
 
 ## Key Findings
 

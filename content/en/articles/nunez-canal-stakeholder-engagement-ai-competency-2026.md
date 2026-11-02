@@ -1,7 +1,7 @@
 ---
 title: "Stakeholder engagement and strategic innovation in higher education through AI competency"
 created: "2026-10-25T00:00:00-04:00"
-updated: "2026-10-25T00:00:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Nunez-Canal, M.", "de Obesso Arias, M. de las M.", "Perez-Rivero, C. A.", "Alvarez-de-Mon, I."]
 published: "2025-12-19"
@@ -29,7 +29,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Nunez-Canal, de Obesso Arias, Perez-Rivero, and Alvarez-de-Mon (2026) ask how university faculty competencies and attitudes toward [[ai-technologies|artificial intelligence]] affect student learning, and test four hypotheses on 105 business and economics professors recruited by snowball sampling. The instrument is an adaptation of the DigCompEdu digital competence framework to AI, reduced by [[quantitative-research|factor analysis]] from 35 items into four factors, with a single 6-point self-report item as the dependent variable for perceived improvement in student learning. Only two hypotheses survive: professors' ability to leverage AI for feedback, [[assessment]], and [[pedagogy]] (B = 0.709, Beta = 0.483, p < 0.001) and their attitudes toward AI use, data governance, and ethical use (B = 0.608, Beta = 0.415, p < 0.001) are linked to perceived learning gains, while knowledge of regulatory frameworks (p = 0.113) and efforts to protect students from AI risks (p = 0.262) are not. The authors read the result through [[theories-and-frameworks|human capital theory]] and [[theories-and-frameworks|stakeholder theory]]: faculty are simultaneously the institution's most critical investment and its central [[stakeholders|stakeholder]], so AI training is a strategic requirement rather than a discretionary cost.
+> **Synthesis:** Nunez-Canal, de Obesso Arias, Perez-Rivero, and Alvarez-de-Mon (2026) ask how university faculty competencies and attitudes toward [[ai-technologies|artificial intelligence]] affect student learning, and test four hypotheses on 105 business and economics professors recruited by snowball sampling. The instrument is an adaptation of the DigCompEdu digital competence framework to AI, reduced by [[quantitative-research|factor analysis]] from 35 items into four factors, with a single 6-point self-report item as the dependent variable for perceived improvement in student learning. Only two hypotheses survive: professors' ability to leverage AI for [[feedback]], [[assessment]], and [[pedagogy]] (B = 0.709, Beta = 0.483, p < 0.001) and their attitudes toward AI use, data governance, and ethical use (B = 0.608, Beta = 0.415, p < 0.001) are linked to perceived learning gains, while knowledge of regulatory frameworks (p = 0.113) and efforts to protect students from AI risks (p = 0.262) are not. The authors read the result through [[theories-and-frameworks|human capital theory]] and [[theories-and-frameworks|stakeholder theory]]: faculty are simultaneously the institution's most critical investment and its central [[stakeholders|stakeholder]], so AI training is a strategic requirement rather than a discretionary cost.
 
 ## Key Findings
 

@@ -2,7 +2,7 @@
 title: "AI-mediated tools in primary English language education: a scoping review of pedagogical functions and teacher orchestration"
 published: "2026-10-21"
 created: "2026-10-28T12:21:37-04:00"
-updated: "2026-10-28T12:21:37-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [ai-education, framing-ai-use-for-students, teacher-role]
 pedagogy: [online-teaching-and-learning, scaffolding]
@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Li and Zhou asked what pedagogical work AI-mediated tools do in [[early-childhood-elementary-ai-education|primary English language education]], what the evidence supports about their use and outcomes, and how teachers orchestrate activity before, during and after tool use. A JBI-method scoping review reported to PRISMA-ScR searched Scopus, Web of Science Core Collection and ERIC to 21 September 2026, without year limits. Of 1,278 records, 379 duplicates were removed, 899 were screened, 454 excluded, 445 sought, 437 full texts retrieved and assessed (8 unavailable), 318 excluded at full text, and 119 reports included: 72 core empirical, 31 adjacent empirical and 16 contextual. Five functions organized the corpus, and performance differences varied with task, comparison condition and outcome measure. The strongest design, a cluster randomized trial with 217 second-grade English learners, found an effect size of .38 on taught words but statistically nonsignificant effects on standardized vocabulary and reading comprehension. With no quality appraisal or risk-of-bias assessment, the review maps the direction and conditions of findings but cannot rank their certainty.
+> **Synthesis:** Li and Zhou asked what pedagogical work AI-mediated tools do in [[early-childhood-elementary-ai-education|primary English language education]], what the evidence supports about their use and outcomes, and how teachers orchestrate activity before, during and after tool use. A JBI-method [[meta-analysis-systematic-review|scoping review]] reported to PRISMA-ScR searched Scopus, Web of Science Core Collection and ERIC to 21 September 2026, without year limits. Of 1,278 records, 379 duplicates were removed, 899 were screened, 454 excluded, 445 sought, 437 full texts retrieved and assessed (8 unavailable), 318 excluded at full text, and 119 reports included: 72 core empirical, 31 adjacent empirical and 16 contextual. Five functions organized the corpus, and performance differences varied with task, comparison condition and outcome measure. The strongest design, a cluster randomized trial with 217 second-grade English learners, found an effect size of .38 on taught words but statistically nonsignificant effects on standardized vocabulary and reading comprehension. With no quality appraisal or risk-of-bias assessment, the review maps the direction and conditions of findings but cannot rank their certainty.
 
 ## Key Findings
 

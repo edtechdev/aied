@@ -1,7 +1,7 @@
 ---
 title: "Generative artificial intelligence prompting strategies among Chinese university students across academic tasks"
 created: "2026-10-30T10:35:00-04:00"
-updated: "2026-10-30T10:35:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Fan, L.", "Liu, F."]
 published: "2026-10-29"
@@ -28,7 +28,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Fan and Liu (2026) surveyed 234 university students in China about how they prompt generative AI, and the result worth carrying is less about skill than about where students say their difficulty lies. Self-reported capability ran from 66.2% to 72.2% endorsement across five items, highest for refining a prompt after seeing the output and lowest for setting output constraints such as role, tone, length or format. Strategy endorsement barely moved between a research assignment and a creative workshop scenario: of four matched strategy pairs, only output-format specification differed after correction. Students endorsed brief instructions and full information at the outset at the same time, which the authors read as evidence that effective brevity is about selecting information rather than prompt length. A fixed template drew the weakest support. The whole study is self-report, and the authors say so at every turn.
+> **Synthesis:** Fan and Liu (2026) surveyed 234 university students in China about how they prompt [[generative-ai|generative AI]], and the result worth carrying is less about skill than about where students say their difficulty lies. Self-reported capability ran from 66.2% to 72.2% endorsement across five items, highest for refining a prompt after seeing the output and lowest for setting output constraints such as role, tone, length or format. Strategy endorsement barely moved between a research assignment and a creative workshop scenario: of four matched strategy pairs, only output-format specification differed after correction. Students endorsed brief instructions and full information at the outset at the same time, which the authors read as evidence that effective brevity is about selecting information rather than prompt length. A fixed template drew the weakest support. The whole study is self-report, and the authors say so at every turn.
 
 ## Key Findings
 

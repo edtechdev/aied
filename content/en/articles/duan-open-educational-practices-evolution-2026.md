@@ -2,7 +2,7 @@
 title: "The evolution of open educational practices: a comparative analysis of models and a new framework for the AI era"
 published: "2026"
 created: "2026-10-28T18:18:15-04:00"
-updated: "2026-10-28T18:18:15-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 technology: [generative-ai]
 research_method: [literature review]
@@ -21,7 +21,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Duan (2026) asked how open educational practices have been modeled over roughly two decades, and whether those models still fit an era in which generative AI is embedded in teaching. The answer comes from a systematic review: searches of Web of Science, Scopus, ERIC, and Google Scholar covering 2007 to 2024, screened under PRISMA 2020, which reduced 540 records to 14 models and frameworks. No primary data were collected from teachers, institutions, or learners; the evidence base is the 14 published models plus the author's comparative matrix across six dimensions. The review reports a trajectory in three parts, from resource access to creation and curation, from resource use to open pedagogy and learner agency, and from technology as delivery tool to technology as infrastructure. It then proposes an AI-empowered Open TPACK framework in which AI sits beneath content, pedagogy, technology, and openness rather than inside technological knowledge.
+> **Synthesis:** Duan (2026) asked how open educational practices have been modeled over roughly two decades, and whether those models still fit an era in which [[generative-ai|generative AI]] is embedded in teaching. The answer comes from a systematic review: searches of Web of Science, Scopus, ERIC, and Google Scholar covering 2007 to 2024, screened under PRISMA 2020, which reduced 540 records to 14 models and frameworks. No primary data were collected from teachers, institutions, or learners; the evidence base is the 14 published models plus the author's comparative matrix across six dimensions. The review reports a trajectory in three parts, from resource access to creation and curation, from resource use to open pedagogy and learner agency, and from technology as delivery tool to technology as infrastructure. It then proposes an AI-empowered Open TPACK framework in which AI sits beneath content, pedagogy, technology, and openness rather than inside technological knowledge.
 
 ## Key Findings
 1. The PRISMA screening reduced 540 identified records to 14 included models: 415 were excluded on title and abstract, 125 full texts were assessed for eligibility, and 111 of those were excluded for lacking a clear OEP model, not being original articles, or not being academic or English.

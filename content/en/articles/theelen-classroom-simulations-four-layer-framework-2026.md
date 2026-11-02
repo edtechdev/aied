@@ -1,7 +1,7 @@
 ---
 title: "Classroom simulations for social-emotional learning and inclusive teacher education: a four-layer conceptual framework in the age of AI"
 created: "2026-10-31T14:20:00-04:00"
-updated: "2026-10-31T14:35:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 source_url: "https://doi.org/10.3390/educsci16111813"
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Theelen and colleagues define a classroom simulation as a deliberately designed approximation of classroom practice in which a teacher takes a professional role, interprets classroom information, and acts or decides in interaction with represented students, parents, or colleagues, all inside a structured cycle of preparation, enactment, and debriefing. Their argument is that the field's habit of sorting simulations by technology or immersion hides the differences that matter, so they propose four interdependent layers: the professional practice represented, the design of the simulated situation, the distribution of [[agency]] and adaptation, and the orchestration of learning. Generative AI, on this account, is not a new category of simulation but a force that moves authorship and control across the layers. Educational value depends on alignment among the four, with inclusion, emotional safety, and human oversight treated as design responsibilities.
+> **Synthesis:** Theelen and colleagues define a classroom [[simulation]] as a deliberately designed approximation of classroom practice in which a teacher takes a professional role, interprets classroom information, and acts or decides in interaction with represented students, parents, or colleagues, all inside a structured cycle of preparation, enactment, and debriefing. Their argument is that the field's habit of sorting simulations by technology or immersion hides the differences that matter, so they propose four interdependent layers: the professional practice represented, the design of the simulated situation, the distribution of [[agency]] and adaptation, and the orchestration of learning. [[generative-ai|Generative AI]], on this account, is not a new category of simulation but a force that moves authorship and control across the layers. Educational value depends on alignment among the four, with inclusion, emotional safety, and [[human-in-the-loop-ai|human oversight]] treated as design responsibilities.
 
 *Conceptual paper: the authors synthesize prior literature into a framework and five theoretical propositions. No data were collected or analyzed, so the propositions are expectations awaiting empirical test, and every figure below is a count of the framework's own components or an attributed claim about another study, not a finding of this one.*
 

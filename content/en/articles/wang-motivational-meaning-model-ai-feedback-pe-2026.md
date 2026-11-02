@@ -2,7 +2,7 @@
 title: "A motivational-meaning model of AI feedback in university physical education"
 published: "2026-10-19"
 created: "2026-10-28T12:40:58-04:00"
-updated: "2026-10-28T12:40:58-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [theory-development-aied, ai-education]
 pedagogy: [self-determination-theory, self-regulated-learning, motivation]

@@ -1,7 +1,7 @@
 ---
 title: "Design and Evaluation of an Agent-Based Digital-Twin-Inspired Simulation for Metacognition Research in Higher Education"
 created: "2026-10-25T08:30:00-04:00"
-updated: "2026-10-25T08:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026"
 page_kind: [evaluation]
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Guo (2026) builds and internally evaluates AMERT-D, an agent-based "simulation-based digital twin" framework that operationalizes the five-level AMERT model of [[metacognition]] — self-awareness, self-monitoring, [[self-assessment|self-evaluation]], [[self-regulated-learning|self-regulation]], and self-transfer — inside a NetLogo simulation. Using Design and Development Research, the author synthesized the framework, had its conceptual content reviewed by 12 experts through a modified Delphi process (Round Two Kendall's W = 0.82, p < 0.001), and then ran instructional scenarios for 150 ticks repeated 50 times each, with a Graph [[machine-learning|Neural Network]] check confirming that outputs stayed distinguishable across four computational learner archetypes (89% classification accuracy). The hybrid scenario (instructor feedback, [[peer-assessment|peer feedback]], high task complexity) produced the highest weighted AMERT mean (3.86) and a modeled 38% transition rate to self-transfer, and instructor feedback was associated with a 38% decrease in the modeled metacognitive gap. The author is explicit throughout that every number is a model-generated hypothesis, not an observation of real students.
+> **Synthesis:** Guo (2026) builds and internally evaluates AMERT-D, an agent-based "simulation-based digital twin" framework that operationalizes the five-level AMERT model of [[metacognition]] — self-awareness, self-monitoring, [[self-assessment|self-evaluation]], [[self-regulated-learning|self-regulation]], and self-transfer — inside a NetLogo [[simulation]]. Using Design and Development Research, the author synthesized the framework, had its conceptual content reviewed by 12 experts through a modified Delphi process (Round Two Kendall's W = 0.82, p < 0.001), and then ran instructional scenarios for 150 ticks repeated 50 times each, with a Graph [[machine-learning|Neural Network]] check confirming that outputs stayed distinguishable across four computational learner archetypes (89% classification accuracy). The hybrid scenario (instructor [[feedback]], [[peer-assessment|peer feedback]], high task complexity) produced the highest weighted AMERT mean (3.86) and a modeled 38% transition rate to self-transfer, and instructor feedback was associated with a 38% decrease in the modeled metacognitive gap. The author is explicit throughout that every number is a model-generated hypothesis, not an observation of real students.
 
 ## Key Findings
 

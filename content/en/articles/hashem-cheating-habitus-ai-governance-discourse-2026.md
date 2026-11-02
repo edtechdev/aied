@@ -1,7 +1,7 @@
 ---
 title: "Cheating or being cheated? Academic integrity and a changing cheating habitus in international AI governance discourse"
 created: "2026-10-30T09:10:00-04:00"
-updated: "2026-10-30T09:10:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 authors: ["Hashem, R."]
 published: "2026-10-29"
@@ -31,7 +31,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Hashem (2026) asks what international AI policy actually says about [[academic-integrity|academic integrity]] in higher education, and finds that it says a great deal in a vocabulary that never settles into rules. Reading four UNESCO and OECD publications through Fairclough's critical discourse analysis, with Bourdieu's theory of practice and Laclau's floating signifiers as interpretive tools, the paper shows eight recurring ethical terms — responsibility, transparency, trust, human agency, originality, authenticity, responsible use and augmentation — carrying normative weight while shifting referent from document to document. The consequence is that no actor is left holding the obligation: responsibility is invoked by providers, institutions, teachers and learners at once. The paper names this a changing cheating habitus, proposes that it is stratified by the academic capital students bring, and argues in its sharpest move that cheating and being cheated are not alternatives but concurrent conditions. Nothing here is measured; the claims are propositions drawn from policy text.
+> **Synthesis:** Hashem (2026) asks what international [[educational-policy-ai|AI policy]] actually says about [[academic-integrity|academic integrity]] in higher education, and finds that it says a great deal in a vocabulary that never settles into rules. Reading four UNESCO and OECD publications through Fairclough's critical discourse analysis, with Bourdieu's theory of practice and Laclau's floating signifiers as interpretive tools, the paper shows eight recurring ethical terms — responsibility, transparency, trust, human agency, originality, authenticity, responsible use and augmentation — carrying normative weight while shifting referent from document to document. The consequence is that no actor is left holding the obligation: responsibility is invoked by providers, institutions, teachers and learners at once. The paper names this a changing cheating habitus, proposes that it is stratified by the academic capital students bring, and argues in its sharpest move that cheating and being cheated are not alternatives but concurrent conditions. Nothing here is measured; the claims are propositions drawn from policy text.
 
 ## Key Findings
 1. **The corpus is two organizations and four documents, read as discourse rather than as policy.** UNESCO's *Guidance for Generative AI in Education and Research* (2023), the OECD's *Digital Education Outlook 2023*, UNESCO's *AI and the Future of Education* (2025) and the OECD's *Digital Education Outlook 2026*. The author is explicit that genres differ — institutional guidance, policy outlooks, and an anthology of commissioned contributions whose authors do not speak for UNESCO — and attributes anthology evidence to its chapter authors rather than treating the volume as an institutional position.

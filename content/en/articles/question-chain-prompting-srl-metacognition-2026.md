@@ -1,7 +1,7 @@
 ---
 title: "Structured Questioning with Generative AI: Question Chains, Self-Regulated Learning, Metacognition, and Achievement in a Quasi-Experiment"
 created: "2026-10-25T08:30:00-04:00"
-updated: "2026-10-25T08:30:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-23"
 sources: ['raw/papers/question-chain-prompting-srl-metacognition-2026.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Lin, Li, Zhu et al. (2026) test whether a [[prompt-engineering|structured questioning]] package changes how undergraduates use generative AI. In a quasi-experiment with 83 undergraduates across three intact classes in a television program production course, one class used free-form questioning while two used prescribed [[self-regulated-learning|self-regulated learning]]-oriented chains, a progressive chain that deepens one narrative pathway and a divergent chain that generates and compares alternatives. Both chain groups logged more learning-strategy and learning-monitoring behavior (χ² = 6.551, p = .038), scored higher on knowledge of cognition (F = 3.406, p = .038) [[self-regulated-learning|regulation of cognition]] (F = 3.323, p = .041), and earned higher grades (F = 3.807, p = .035). The two chains did not differ from each other on any outcome. Because the chains bundled specific, sequenced and required questions, the authors present them as an instructional package and decline to claim that chaining itself caused the gains.
+> **Synthesis:** Lin, Li, Zhu et al. (2026) test whether a [[prompt-engineering|structured questioning]] package changes how undergraduates use [[generative-ai|generative AI]]. In a quasi-experiment with 83 undergraduates across three intact classes in a television program production course, one class used free-form questioning while two used prescribed [[self-regulated-learning|self-regulated learning]]-oriented chains, a progressive chain that deepens one narrative pathway and a divergent chain that generates and compares alternatives. Both chain groups logged more learning-strategy and learning-monitoring behavior (χ² = 6.551, p = .038), scored higher on knowledge of cognition (F = 3.406, p = .038) [[self-regulated-learning|regulation of cognition]] (F = 3.323, p = .041), and earned higher grades (F = 3.807, p = .035). The two chains did not differ from each other on any outcome. Because the chains bundled specific, sequenced and required questions, the authors present them as an instructional package and decline to claim that chaining itself caused the gains.
 
 ## Key Findings
 

@@ -2,7 +2,7 @@
 title: "Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps"
 published: "2026-10-21"
 created: "2026-10-28T12:23:31-04:00"
-updated: "2026-10-28T12:23:31-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
 pedagogy: [student-ai-interaction]
@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Tie, Gil Ortega and Zhao asked how the literature separates responsible from irresponsible student use of generative AI in [[writing-education|academic writing]], how those boundaries become teaching and guidance, and what evidence exists that the approaches work. Following PRISMA-ScR without registration, they searched five databases for English- and Spanish-language [[higher-ed|higher-education]] studies from January 2022 to June 2026 plus citation searching, and moved from 21,720 records to 31 studies. Charting produced 192 practice-level records from 29 studies and 122 approach-level records from 29, with 27 studies contributing to both datasets: 107 (55.7%) Responsible, 42 (21.9%) Contested and 43 (22.4%) Problematic, with 138 carrying conditions from which six principles were synthesized. The conclusion is modest: the principles organize the grounds for judgment, not a list of permitted uses; only 51 of 122 approaches were both implemented and evaluated, mostly through self-report; and no study was appraised for quality.
+> **Synthesis:** Tie, Gil Ortega and Zhao asked how the literature separates responsible from irresponsible student use of [[generative-ai|generative AI]] in [[writing-education|academic writing]], how those boundaries become teaching and guidance, and what evidence exists that the approaches work. Following PRISMA-ScR without registration, they searched five databases for English- and Spanish-language [[higher-ed|higher-education]] studies from January 2022 to June 2026 plus citation searching, and moved from 21,720 records to 31 studies. Charting produced 192 practice-level records from 29 studies and 122 approach-level records from 29, with 27 studies contributing to both datasets: 107 (55.7%) Responsible, 42 (21.9%) Contested and 43 (22.4%) Problematic, with 138 carrying conditions from which six principles were synthesized. The conclusion is modest: the principles organize the grounds for judgment, not a list of permitted uses; only 51 of 122 approaches were both implemented and evaluated, mostly through self-report; and no study was appraised for quality.
 
 ## Key Findings
 

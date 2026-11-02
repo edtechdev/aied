@@ -2,7 +2,7 @@
 title: "Development and validation of the AI-empowered teacher visualization teaching competency scale"
 published: "2026-10-21"
 created: "2026-10-28T12:21:37-04:00"
-updated: "2026-10-28T12:21:37-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [teacher-ai-competency, tpack]
 pedagogy: [professional-training]
@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Chen, Qiao, Luo, Chen and Zhang built and validated an instrument for a construct they argue existing frameworks miss: teachers' capacity to use AI to generate, judge and act on visual representations of instructional content. Drawing on [[tpack|AI-TPACK]], visual and data literacy, cognitive load theory and self-efficacy theory, they defined five dimensions and drafted 36 items from 12 teacher interviews, of which five experts removed five. A convenience sample from five western Chinese provinces returned 566 valid questionnaires, 95.8% of 591. Item analysis kept all 31 items; exploratory factor analysis on one random half (n = 283) produced five factors explaining 71.074% of variance; confirmatory factor analysis on the other half (n = 283) fitted a first-order model at chi-square/df = 2.465, CFI = 0.918, TLI = 0.910, RMSEA = 0.072 and SRMR = 0.045. Subscale alpha ran from 0.911 to 0.934, the full scale reached 0.967, and strict invariance held across gender, school type and teaching stage. It measures what teachers report they can do, in one region, with no test-retest and no observation of practice.
+> **Synthesis:** Chen, Qiao, Luo, Chen and Zhang built and validated an instrument for a construct they argue existing frameworks miss: teachers' capacity to use AI to generate, judge and act on [[visualization|visual representations]] of instructional content. Drawing on [[tpack|AI-TPACK]], visual and data literacy, cognitive load theory and self-efficacy theory, they defined five dimensions and drafted 36 items from 12 teacher interviews, of which five experts removed five. A convenience sample from five western Chinese provinces returned 566 valid questionnaires, 95.8% of 591. Item analysis kept all 31 items; exploratory factor analysis on one random half (n = 283) produced five factors explaining 71.074% of variance; confirmatory factor analysis on the other half (n = 283) fitted a first-order model at chi-square/df = 2.465, CFI = 0.918, TLI = 0.910, RMSEA = 0.072 and SRMR = 0.045. Subscale alpha ran from 0.911 to 0.934, the full scale reached 0.967, and strict invariance held across gender, school type and teaching stage. It measures what teachers report they can do, in one region, with no test-retest and no observation of practice.
 
 ## Key Findings
 

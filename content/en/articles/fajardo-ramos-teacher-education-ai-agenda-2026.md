@@ -2,7 +2,7 @@
 title: "Can education set the agenda for AI? Simulated innovation and pedagogical directionsetting in teacher education"
 published: "2026-10-23"
 created: "2026-10-28T12:32:11-04:00"
-updated: "2026-10-28T12:32:11-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 foundations: [educational-development, teacher-ai-competency, theory-development-aied, teacher-role]
 technology: [generative-ai]
@@ -23,7 +23,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Fajardo-Ramos, Chiappe and Martínez-Pérez ask whether education can set the agenda for AI rather than keep adapting to it, and answer with two concepts rather than data. It is a Conceptual Analysis: no sample, no instrument, no cases, no test. The argument runs from a diagnosis, that educational technology repeatedly produces simulated innovation, defined by four characteristics (symbolic modernization, pedagogical continuity, evidentiary displacement, externalized directionality), to a counter-mechanism, pedagogical primacy, which asks educational communities to define purposes and limits before selecting tools, and then to [[teacher-education|teacher education]] as the site where four capacities would form. Generative AI matters for an evidential reason: it produces the essays and feedback that institutions treat as proxies for thinking, loosening the link between product, process, authorship and evidence. It offers a vocabulary and explicit refutation conditions, but cannot show how often simulated innovation occurs or what a pedagogy-led program changes.
+> **Synthesis:** Fajardo-Ramos, Chiappe and Martínez-Pérez ask whether education can set the agenda for AI rather than keep adapting to it, and answer with two concepts rather than data. It is a Conceptual Analysis: no sample, no instrument, no cases, no test. The argument runs from a diagnosis, that educational technology repeatedly produces simulated innovation, defined by four characteristics (symbolic modernization, pedagogical continuity, evidentiary displacement, externalized directionality), to a counter-mechanism, pedagogical primacy, which asks educational communities to define purposes and limits before selecting tools, and then to [[teacher-education|teacher education]] as the site where four capacities would form. [[generative-ai|Generative AI]] matters for an evidential reason: it produces the essays and feedback that institutions treat as proxies for thinking, loosening the link between product, process, authorship and evidence. It offers a vocabulary and explicit refutation conditions, but cannot show how often simulated innovation occurs or what a pedagogy-led program changes.
 
 ## Key Findings
 

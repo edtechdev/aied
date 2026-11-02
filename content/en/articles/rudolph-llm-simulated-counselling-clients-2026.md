@@ -1,7 +1,7 @@
 ---
 title: "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns"
 created: "2026-10-30T09:54:00-04:00"
-updated: "2026-10-30T09:54:00-04:00"
+updated: "2026-11-02T06:45:00-05:00"
 type: article
 published: "2026-10-29"
 sources: ['raw/papers/rudolph-llm-simulated-counselling-clients-2026.md']
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, quotes, links]
 ---
 
-> **Synthesis:** Rudolph, Steigerwald and Albrecht (2026) compare what novice counselors actually do when their client is a person and when it is a language model. They analyzed 64 chat-based human-human role-plays and 74 human-LLM conversations with the GeCCo category system at sentence level, using a transformer classifier rather than manual coding. The differences are systematic and interpretable: LLM clients disclosed the problem embedded in their prompt more readily, which moved sessions to problem-solving faster (17.63% of counselor behavior against 10.67% with human clients), and counselors responded by leaning on factual reflection instead of facilitative moderation. The paper reads this as both a promise and a caution for [[simulating-students|simulated clients]] in [[professional-training]]: the simulation is standardized and available, and it trains a subtly different conversation.
+> **Synthesis:** Rudolph, Steigerwald and Albrecht (2026) compare what novice counselors actually do when their client is a person and when it is a language model. They analyzed 64 chat-based human-human role-plays and 74 human-LLM conversations with the GeCCo category system at sentence level, using a transformer classifier rather than manual coding. The differences are systematic and interpretable: LLM clients disclosed the problem embedded in their prompt more readily, which moved sessions to problem-solving faster (17.63% of counselor behavior against 10.67% with human clients), and counselors responded by leaning on factual reflection instead of facilitative moderation. The paper reads this as both a promise and a caution for [[simulating-students|simulated clients]] in [[professional-training]]: the [[simulation]] is standardized and available, and it trains a subtly different conversation.
 
 ## Key Findings
 1. **The datasets are comparable in scale.** Sixty-four chat-based human-human counselling sessions from a social-work degree program and 74 human-LLM conversations recorded on a training platform based on VirCo.
