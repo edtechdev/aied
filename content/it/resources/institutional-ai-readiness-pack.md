@@ -2,7 +2,7 @@
 title: "The Institutional AI Readiness Pack"
 created: "2026-10-14T21:55:00-04:00"
 type: resource
-summary: "A university-wide AI readiness assessment and implementation toolkit: maturity self-assessment, researcher and supervisor surveys, gap analysis, role briefings and model policy."
+summary: "Un kit di valutazione della preparazione all'AI e di implementazione per l'intero ateneo: autovalutazione della maturità, sondaggi per ricercatori e supervisori, analisi dei divari, briefing per i ruoli e policy di riferimento."
 url: https://mzyphur.github.io/ai-readiness/instruments.html
 source_code: https://github.com/mzyphur/ai-readiness
 author: "Michael J. Zyphur (Instats)"
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 

@@ -2,7 +2,7 @@
 title: "DeepTutor"
 created: "2026-10-12T20:30:00-04:00"
 type: resource
-summary: "The open-source release of the DeepTutor agentic tutoring framework: one workspace for tutoring, question generation, mastery practice, research and visualization, with inspectable learner memory."
+summary: "الإصدار مفتوح المصدر من إطار DeepTutor للتدريس الوكيلي: مساحة عمل واحدة للتدريس وتوليد الأسئلة وتدريب الإتقان والبحث والتصوير، مع ذاكرة متعلم قابلة للفحص."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
 resource_type: [software, collection of tools]
@@ -30,6 +30,11 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

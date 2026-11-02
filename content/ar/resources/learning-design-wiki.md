@@ -2,7 +2,7 @@
 title: "Learning Design Wiki"
 created: "2026-10-24T10:26:00-04:00"
 type: resource
-summary: "An openly licensed reference wiki of learning design principles, elements, patterns, designs, strategies and evidence-coded claims, written and cross-linked by language models rather than people, with every page currently marked unverified."
+summary: "ويكي مرجعي برخصة مفتوحة لمبادئ التصميم التعليمي وعناصره وأنماطه وتصميماته واستراتيجياته وادعاءاته المُرمّزة بحسب الأدلة، كتبته نماذج لغوية وربطته تلقائياً لا بشر، وكل صفحة فيه معلَّمة حالياً بأنها غير مُتحقَّقة."
 url: http://wiki.learningdesignalliance.org/
 source_code: https://github.com/Learning-Design-Alliance/learning-wiki
 author: "Learning Design Alliance"
@@ -27,9 +27,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/learning-design-wiki
 source_updated: "2026-10-24T10:26:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

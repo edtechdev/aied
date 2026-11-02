@@ -2,7 +2,7 @@
 title: "OpenMAIC"
 created: "2026-10-14T21:55:00-04:00"
 type: resource
-summary: "The open-source release of MAIC: a multi-agent classroom that turns a topic or document into slides, quizzes, interactive simulations and project-based activities, delivered by AI teachers and classmates."
+summary: "Il rilascio open source di MAIC: un'aula multi-agente che trasforma un argomento o un documento in slide, quiz, simulazioni interattive e attività basate su progetti, erogate da insegnanti e compagni di classe AI."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
 resource_type: [software, collection of tools]
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

@@ -2,7 +2,7 @@
 title: "PAUSE: Patterns of AI Use Self-Examination"
 created: "2026-10-14T22:15:00-04:00"
 type: resource
-summary: "A ten-minute, browser-only self-check on what you offload to AI, with every item traced to the research paper behind it."
+summary: "Un'autovalutazione di dieci minuti, solo nel browser, su ciò che deleghi all'AI, con ogni item ricondotto all'articolo di ricerca che lo sostiene."
 url: https://anondo1969.github.io/pause/
 source_code: https://github.com/anondo1969/pause
 author: "Mahbub Ul Alam"
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

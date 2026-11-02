@@ -2,7 +2,7 @@
 title: "DrawSplat"
 created: "2026-10-12T20:15:00-04:00"
 type: resource
-summary: "A free browser platform of small teaching tools: whiteboard, spreadsheets, slides, documents, lists, concept maps, quizzes, charts, images and video."
+summary: "منصة متصفح مجانية لأدوات تدريس صغيرة: سبورة وجداول بيانات وشرائح ومستندات وقوائم وخرائط مفاهيم واختبارات قصيرة ومخططات وصور وفيديو."
 url: https://drawsplat.org/
 author_url: https://mguhlin.org/
 author: "Miguel Guhlin"
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

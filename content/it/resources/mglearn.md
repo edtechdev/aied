@@ -2,7 +2,7 @@
 title: "Risorse per la classe mglearn"
 created: "2026-10-14T22:25:00-04:00"
 type: resource
-summary: "A large set of free, browser-based classroom activity suites and print-ready materials from TCEA, including Gen AI literacy and digital citizenship modules."
+summary: "Un'ampia raccolta di suite di attività didattiche gratuite fruibili nel browser e di materiali pronti da stampare di TCEA, compresi moduli sull'alfabetizzazione all'AI generativa e sulla cittadinanza digitale."
 url: https://mglearn.github.io/
 source_code: https://github.com/mglearn
 author: "Miguel Guhlin, TCEA"
@@ -28,9 +28,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: "resources/mglearn"
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

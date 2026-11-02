@@ -2,7 +2,7 @@
 title: "The Pedagogical Promptbook"
 created: "2026-10-14T22:35:00-04:00"
 type: resource
-summary: "An open-access book of evaluated prompts for evidence-based teaching and instructional design practices, each chapter publishing the prompt, its development process and its evaluation results."
+summary: "Un libro ad accesso aperto di prompt valutati per pratiche didattiche basate su evidenze e per la progettazione didattica: ogni capitolo pubblica il prompt, il suo processo di sviluppo e i risultati della sua valutazione."
 url: https://edtechbooks.org/promptbook
 author: "David Wiley"
 resource_type: [prompt or gem library, ebook or guide]
@@ -27,9 +27,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/pedagogical-promptbook
 source_updated: "2026-09-24T05:37:41-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

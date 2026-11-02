@@ -2,7 +2,7 @@
 title: "مساعد دفتر Gemini (Gemini Notebook)"
 created: "2026-10-12T15:16:00-04:00"
 type: resource
-summary: "Google's source-grounded notebook assistant (NotebookLM until July 2026): upload a set of documents and ask questions, generate study aids, and produce audio, video and slide outputs grounded in those sources."
+summary: "مساعد Google الدفتري المسنود إلى المصادر (NotebookLM حتى يوليو 2026): ارفع مجموعة مستندات واسأل أسئلة، وأنشئ أدوات دراسية، وأخرج صوتاً وفيديو وشرائح مسندة إلى تلك المصادر."
 url: https://notebook.google/
 author: "Google Labs"
 author_url: https://notebook.google/
@@ -25,6 +25,11 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

@@ -2,7 +2,7 @@
 title: "مطالبات مُلحّة"
 created: "2026-10-12T18:45:00-04:00"
 type: resource
-summary: "Openly accessible higher-education activities and resources for pressing critical questions about AI, organised into three thematic clusters."
+summary: "أنشطة وموارد تعليم عالٍ متاحة للعموم حول أسئلة حرجة آنية عن الذكاء الاصطناعي، منظّمة في ثلاث مجموعات موضوعية."
 url: https://pressingprompts.org/
 author: "Hannah Rozear, Remi Kalir and Aria Chernik"
 author_url: https://pressingprompts.org/about
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

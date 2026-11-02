@@ -2,7 +2,7 @@
 title: "Claw-ED"
 created: "2026-10-12T19:45:00-04:00"
 type: resource
-summary: "A local-first AI teaching assistant that turns your own curriculum into editable lesson drafts, student materials, and slides using a model you choose."
+summary: "مساعد تدريس بالذكاء الاصطناعي يعمل محلياً أولاً يحوّل منهجك الخاص إلى مسوّدات دروس قابلة للتحرير ومواد للطلاب وشرائح، باستخدام نموذج تختاره أنت."
 url: https://sirhanmacx.github.io/Claw-ED
 source_code: https://github.com/SirhanMacx/Claw-ED
 author: "SirhanMacx (MacxLabs)"
@@ -28,9 +28,14 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/claw-ed
 source_updated: "2026-09-23T21:05:00-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

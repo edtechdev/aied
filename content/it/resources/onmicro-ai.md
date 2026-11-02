@@ -2,7 +2,7 @@
 title: "OnMicro.AI"
 created: "2026-10-14T22:40:00-04:00"
 type: resource
-summary: "A no-code builder that lets educators make focused AI apps, publish them by link, embed them in an LMS through LTI, and see how students use them."
+summary: "Un builder no-code che permette a chi insegna di creare app AI mirate, pubblicarle tramite link, incorporarle in un LMS via LTI e vedere come gli studenti le usano."
 url: https://onmicro.ai/
 source_code: https://github.com/onmicroai/micro_ai
 author: "The OnMicro.AI project"
@@ -27,9 +27,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: "resources/onmicro-ai"
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

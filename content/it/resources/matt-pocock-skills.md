@@ -2,7 +2,7 @@
 title: "Competenze per veri ingegneri"
 created: "2026-10-14T22:10:00-04:00"
 type: resource
-summary: "Matt Pocock's open-source collection of small, composable agent skills, including a multi-session teaching skill, a relentless questioning skill, and guidance on writing documents an agent can follow."
+summary: "La raccolta open source di Matt Pocock di piccole skill per agenti componibili, tra cui una skill didattica multi-sessione, una skill di interrogazione serrata e indicazioni su come scrivere documenti che un agente possa seguire."
 url: https://github.com/mattpocock/skills
 source_code: https://github.com/mattpocock/skills
 author: "Matt Pocock"
@@ -28,9 +28,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: "resources/matt-pocock-skills"
 source_updated: "2026-09-27T03:31:33-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

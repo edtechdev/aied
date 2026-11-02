@@ -2,7 +2,7 @@
 title: "Code Viva"
 created: "2026-10-24T05:33:18-04:00"
 type: resource
-summary: "A free browser tool that runs a written, timed version of an oral code defense for every student in a programming course, proposing scores with quoted evidence for the instructor to approve."
+summary: "أداة متصفح مجانية تُجري نسخة مكتوبة ومحدّدة بوقت من مناقشة شفهية للشيفرة أمام كل طالب في مقرر برمجة، وتقترح درجات مع أدلة مقتبسة ليعتمدها المدرّس."
 url: https://code-viva.netlify.app/
 author: "Code Viva"
 author_url: https://code-viva.netlify.app/
@@ -24,9 +24,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/code-viva
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

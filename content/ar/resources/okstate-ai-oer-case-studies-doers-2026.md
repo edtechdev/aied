@@ -2,7 +2,7 @@
 title: "AI + OER Case Studies: A DOERS Project"
 created: "2026-10-28T17:35:00-04:00"
 type: resource
-summary: "An open anthology of eleven case studies on where generative AI meets open educational resources in higher education, in three parts with four policy priorities, covering system-level guidance, professional development, textbook revision and classroom practice."
+summary: "مختارات مفتوحة من إحدى عشرة دراسة حالة عن التقاء الذكاء الاصطناعي التوليدي بالموارد التعليمية المفتوحة في التعليم العالي، في ثلاثة أجزاء وأربع أولويات سياساتية، تشمل التوجيه على مستوى المنظومة والتطوير المهني ومراجعة الكتب الدراسية والممارسة الصفية."
 url: https://open.library.okstate.edu/ai-oercasestudies/
 author: "Kathy Essmiller (editor), with 22 contributing authors"
 author_url: https://open.library.okstate.edu/ai-oercasestudies/front-matter/about-doers/
@@ -25,9 +25,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/okstate-ai-oer-case-studies-doers-2026
 source_updated: "2026-10-28T19:59:58-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

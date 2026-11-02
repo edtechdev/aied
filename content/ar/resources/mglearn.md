@@ -2,7 +2,7 @@
 title: "موارد mglearn الصفية"
 created: "2026-10-12T18:50:00-04:00"
 type: resource
-summary: "A large set of free, browser-based classroom activity suites and print-ready materials from TCEA, including Gen AI literacy and digital citizenship modules."
+summary: "مجموعة كبيرة من أجنحة الأنشطة الصفية المجانية العاملة في المتصفح ومواد جاهزة للطباعة من TCEA، بينها وحدات في محو أمية الذكاء الاصطناعي التوليدي والمواطنة الرقمية."
 url: https://mglearn.github.io/
 source_code: https://github.com/mglearn
 author: "Miguel Guhlin, TCEA"
@@ -28,9 +28,14 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/mglearn
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

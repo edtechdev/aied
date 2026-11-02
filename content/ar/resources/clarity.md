@@ -2,7 +2,7 @@
 title: "أداة Clarity للكتابة الأوضح"
 created: "2026-10-12T15:14:00-04:00"
 type: resource
-summary: "An open-source Agent Skill and private browser editor that turn eighteen rules for clearer writing into draft, rewrite and review modes for prose."
+summary: "مهارة وكيل ومحرّر متصفح خاص مفتوحا المصدر يحوّلان ثمانية عشر قاعدة لكتابة أوضح إلى أنماط صياغة وإعادة كتابة ومراجعة للنصوص."
 url: https://clarity.addy.ie/
 source_code: https://github.com/addyosmani/clarity
 author: "Addy Osmani"
@@ -32,6 +32,11 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

@@ -2,7 +2,7 @@
 title: "teacher.dev"
 created: "2026-10-24T10:29:00-04:00"
 type: resource
-summary: "A non-profit studio publishing one free classroom app for every day of a public build streak, from printable figure generators to a quiet-time safari and a local-first hall pass."
+summary: "استوديو غير ربحي ينشر تطبيقاً صفياً مجانياً كل يوم من سلسلة بناء علنية، من مولّدات الأشكال القابلة للطباعة إلى «سفاري الوقت الهادئ» و«تصريح خروج» يعمل محلياً أولاً."
 url: https://www.teacher.dev/
 source_code: https://github.com/teacherdotdev
 author: "teacher.dev"
@@ -29,9 +29,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/teacher-dev
 source_updated: "2026-10-24T10:44:33-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

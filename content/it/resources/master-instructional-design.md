@@ -2,7 +2,7 @@
 title: "Master Instructional Design"
 created: "2026-10-14T21:55:00-04:00"
 type: resource
-summary: "A Claude skill that packages a veteran instructional designer's method into fifteen engagement modes and thirty-one on-demand reference files covering the full learning-and-development spectrum."
+summary: "Una skill Claude che impacchetta il metodo di una progettista didattica di lungo corso in quindici modalità di coinvolgimento e trentuno file di riferimento consultabili a richiesta, che coprono l'intero spettro della formazione professionale."
 url: https://github.com/narosemena/master-instructional-design
 source_code: https://github.com/narosemena/master-instructional-design
 author: "Norman Arosemena"
@@ -30,9 +30,14 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: "resources/master-instructional-design"
 source_updated: "2026-09-24T05:08:48-04:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
+
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*

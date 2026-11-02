@@ -2,7 +2,7 @@
 title: "Education Agent Skills"
 created: "2026-10-12T19:35:00-04:00"
 type: resource
-summary: "A library of 165 evidence-grounded agent skills covering pedagogy, learning science, curriculum, and assessment, packaged for Claude, Codex, and Hermes."
+summary: "ספרייה של 165 כישורי סוכן מבוססי ראיות המכסים פדגוגיה, מדעי הלמידה, תוכניות לימודים והערכה, ארוזים עבור Claude, Codex ו-Hermes."
 url: https://github.com/GarethManning/education-agent-skills
 author: "Gareth Manning"
 author_url: https://www.garethmanning.com/
@@ -27,9 +27,14 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/education-agent-skills
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
+
 ---
 
 *תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם.*

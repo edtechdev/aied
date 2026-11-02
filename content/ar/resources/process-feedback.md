@@ -2,7 +2,7 @@
 title: "Process Feedback"
 created: "2026-10-12T20:30:00-04:00"
 type: resource
-summary: "A free, process-based alternative to AI detection: it records how a piece of writing was produced and turns that into a report for a conversation about learning rather than a verdict."
+summary: "بديل مجاني قائم على العملية لكشف استخدام الذكاء الاصطناعي: يسجّل كيف أُنتجت قطعة الكتابة ويحوّل ذلك إلى تقرير يفتح حواراً عن التعلّم بدلاً من إصدار حكم."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
 resource_type: [software]
@@ -25,9 +25,14 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/process-feedback
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

@@ -2,7 +2,7 @@
 title: "Student Guide to AI"
 created: "2026-10-12T20:20:00-04:00"
 type: resource
-summary: "A free three-edition student guide to artificial intelligence from Elon University, AAC&U and The Princeton Review, whose 2026 edition builds ten human capacities with teacher-ready learning modules and an anonymous self-assessment."
+summary: "دليل طلابي مجاني بثلاث طبعات عن الذكاء الاصطناعي من جامعة Elon وAAC&U وThe Princeton Review، تبني طبعة 2026 عشر قدرات إنسانية عبر وحدات تعليمية جاهزة للمدرّس وتقييم ذاتي مجهول الهوية."
 url: https://studentguidetoai.org/
 author: "Elon University Imagining the Digital Future Center, AAC&U and The Princeton Review"
 author_url: https://studentguidetoai.org/about-the-2026-human-wisdom-for-the-age-of-ai-field-guide/
@@ -26,9 +26,14 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/student-guide-to-ai
 source_updated: "2026-10-03T02:57:43-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

@@ -2,7 +2,7 @@
 title: "Campus AI Development"
 created: "2026-10-24T05:15:17-04:00"
 type: resource
-summary: "A free field guide for colleges and universities on choosing how software gets built with AI, from vibe coding to governed multi-agent work, with the review route, data ceiling and controls that match each."
+summary: "دليل ميداني مجاني للكليات والجامعات في اختيار كيفية بناء البرمجيات بالذكاء الاصطناعي، من البرمجة بالحدس (vibe coding) إلى العمل الوكيلي المتعدد المحكوم، مع مسار المراجعة وسقف البيانات والضوابط المناسبة لكل منها."
 url: https://campusaidev.com/home.dc
 author: "Campus AI Development"
 author_url: https://campusaidev.com/about.dc
@@ -26,9 +26,14 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
 translation_of: resources/campus-ai-development
 source_updated: "2026-10-24T05:15:17-04:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
+
 ---
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*

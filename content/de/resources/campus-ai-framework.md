@@ -3,7 +3,7 @@ title: "Campus AI Framework"
 created: "2026-09-28T04:05:42-04:00"
 updated: "2026-10-10T09:50:22-04:00"
 type: resource
-summary: "A higher-education operating model for AI strategy and governance: eight institutional pillars, four application domains, and a Strategic Compass for choosing initiatives, with a diagram mapping its companion sites."
+summary: "Ein Betriebsmodell für Hochschulen für KI-Strategie und -Governance: acht institutionelle Säulen, vier Anwendungsfelder und ein Strategischer Kompass zur Auswahl von Initiativen, mit einem Diagramm, das die zugehörigen Websites verortet."
 url: https://campusaiframework.com/sites
 author: "Joe Sabado"
 author_url: https://campusaiframework.com/
@@ -26,6 +26,11 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-02"
+    agent: hermes-agent
+
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
