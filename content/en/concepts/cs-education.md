@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T06:59:43-05:00"
+updated: "2026-11-02T09:55:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -90,6 +90,8 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **The duality of building what you use:** CS students' unique position creates both [[metacognition|meta-cognitive]] awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
 
 - **Agentic coding and comprehension in team PBL:** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]] introduced Spec-Driven Development with [[agentic-ai|AI agents]] into an undergraduate software-engineering project course and found that implementation throughput (added LOC) rose across 2022-2025 while heavy AI use coincided with code-comprehension dips that only recovered after one-on-one instructor checks - direct evidence that throughput gains do not guarantee understanding, and that [[cognitive-offloading|over-reliance]] in AI-assisted coding is amenable to instructional monitoring.
+
+- **Continuance, not adoption, is where GenAI's value is decided.** A PRISMA review of 45 studies (2023–2025) finds improved code generation and debugging alongside unchanged conceptual depth, and argues that continued use depends on calibrated [[trust]], verification skill, and institutional guidance rather than perceived usefulness ([[yalwa-genai-programming-education-sustained-use-2026|Yalwa et al., 2026]]).
 
 ### Equity, culture, and who gets into computing
 
@@ -214,3 +216,5 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[novice-se-students-oversight-genai-2026]] — Beyond Correctness: How Novice Software Engineering Students Exercise Oversight of Generative AI (Shakiba and Chaffey 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)
+- [[yalwa-genai-programming-education-sustained-use-2026]] — Sustained Use of Generative Artificial Intelligence (GenAI) in Programming Education: A Systematic Review
+

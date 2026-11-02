@@ -6,8 +6,15 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-01
-**Total backlog:** 6 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-02
+**Total backlog:** 8 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-02)
+
+Ten articles were ingested this run (three arXiv, five OpenAlex journal-watch, one PsyArXiv-adjacent Frontiers and one Springer), each with its full text saved under `raw/papers/`. Two in-scope OpenAlex candidates could not be ingested because the publisher serves them only as HTML metadata or behind a bot check, so their full text is unavailable to this job; both are open access and either can be ingested once the PDF is supplied.
+
+- [Exploring the integration of artificial intelligence into residency education curriculum: qualitative interviews](https://doi.org/10.1186/s12909-026-10684-y) — BMC Medical Education; served as a shared-early abstract only, and every PDF route (Springer content PDF, BMC counter PDF) returned an HTML challenge page
+- [Classification fidelity of large language models on endodontic items from the Turkish dental specialty examination](https://doi.org/10.1186/s12909-026-10746-1) — BMC Medical Education; published version, but the same block returns HTML rather than PDF
 
 ## Weekly journal RSS scan (2026-11-01)
 

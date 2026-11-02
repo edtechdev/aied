@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-29T10:45:00-04:00"
+updated: "2026-11-02T09:58:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -52,6 +52,8 @@ Pooled across subject domains, GenAI's effect on learning motivation was largest
 Classroom AI tools also create orchestration work the older typology does not name: observing six high-school mathematics lessons found teachers monitoring [[visualization|dashboards]], correcting the AI's wrong [[feedback]], and mediating its output for the class, with content and [[ethics|ethical]] judgment most visible when fixing an AI error ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
 The knowledge base's only field-level synthesis of this domain is a 2021–2025 PRISMA review of 42 studies screened from 922 records (Cohen's kappa = 0.88), and it adds a category the page's clusters otherwise lack: teacher-facing automation, where MATH41 supports rapid production of mathematics tasks for learners at different levels and the hybrid model CognifyNet analyses students' activity patterns so educators can detect emerging difficulties early. The same review locates the field's blind spot — with Education at 60% and Computer Science at 28% of study domains, only one study fell in Psychology, leaving emotional impact, trust and ethics comparatively underexplored — and insists that technical capability should not be equated with demonstrated classroom effectiveness. ([[ai-mathematics-education-prisma-review-2026]])
+
+**Inclusion is a design property, not a byproduct of capability.** A review of 38 sources pairs [[universal-design-for-learning|UDL]] with [[samr-model|SAMR]] and finds that AI can redefine a mathematics task while leaving it inaccessible to students whose language, device, or connectivity does not fit ([[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi, 2026]]).
 
 The domain's challenge ranking puts teacher capacity first. A second systematic review, of 54 studies from 2017-2025, counted technological–pedagogical integration and teacher readiness in 38, equity and access risks in 34 and limits to deep reasoning in 29, and links them to instructional responses in a three-dimensional framework ([[manto-ai-integration-mathematics-education-systematic-review-2026|Manto et al. (2026)]]).
 
@@ -154,3 +156,5 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Classroom orchestration work in high-school mathematics: reading dashboards and correcting AI feedback
 - [[decision-making-agent-student-decision-acceptance-2026]] — Students still prefer the teacher's grading decision
 - [[genai-learning-motivation-meta-analysis-2026]] — Motivational gains in mathematics rest on four studies (g = 0.711)
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity
+

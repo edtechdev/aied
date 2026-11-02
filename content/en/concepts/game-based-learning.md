@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-01T08:10:00-05:00"
+updated: "2026-11-02T09:55:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -33,6 +33,8 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 - **GenAI as the game's author, not its player:** [[xie-genai-mystery-game-legal-education-2026|Xie et al. (2026)]] had a model draft seven characters and narrative material for an offline mystery role-play game, and the game then beat the same instructor's lecture in a 42-per-arm randomized trial (partial *η*² = 0.566). Students never used the AI, so the effect belongs to the format.
 
 - **Students as game designers rather than players:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] had 22 primary students aged 8-12 design an augmented escape board game about misinformation, stacking [[project-based-learning|project-based learning]] with [[design-thinking|design thinking]] and the Room2Educ8 escape-room framework. Composite [[ai-literacy|AI literacy]] on a 20-item DigComp 3.0 questionnaire rose from 3.684 to 4.309 on a 5-point scale, t(21) = −21.086, p < .001, with all five competence areas improving. The class generated 11 proposals with AI prompts and merged them into one buildable game. Self-report, one class, and no control group.
+
+- **Split the AI into a dialogue coach and a difficulty engine.** An AI-enhanced Roblox environment for upper-secondary computational thinking paired a GPT-4 non-player character, capped at two to three sentences and barred from giving answers, with a rule-based engine that set difficulty from time-to-solution and error rate ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang & Kanjug, 2026]]).
 
 ### Gamification
 
@@ -98,4 +100,5 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
 - [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
 - [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture in legal education (Xie et al. 2026)
+- [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Design and preliminary validation of an AI enhanced game based learning environment for computational thinking
 

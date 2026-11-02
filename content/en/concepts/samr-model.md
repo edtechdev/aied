@@ -1,7 +1,7 @@
 ---
 title: SAMR Model
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-10-26T00:30:00-04:00"
+updated: "2026-11-02T09:55:00-05:00"
 type: concept
 foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -41,6 +41,7 @@ SAMR is frequently paired with the [[icap-framework|ICAP framework]] because the
 - **SAMR is a target of the posthumanist critique.** [[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]] critiques TPACK, SAMR, and [[ai-literacy]] models for sharing a humanist ontology that presumes a bounded learner whose cognition is fundamentally unchanged by technological mediation, arguing these instrumentalist frameworks cannot address AI's constitutive role in cognition.
 - **A framework for integration, not a framework for power.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] evaluates SAMR alongside TPACK and other integration frameworks and finds none address equitable power, data ownership, or accountability, motivating an alternative ecological co-agency framework.
 - **Student use maps to SAMR as well, and feedback spans every level.** Coding the GenAI declarations of 31–36 students in a [[physics-education|physics]] unit placed learning at substitution–augmentation, formatting at substitution, and task-doing at modification–redefinition, while feedback — checking, clarifying, verifying — appeared at all four levels ([[genai-use-changing-institutional-policy-physics-2026|Quince and Faulconer (2026)]]).
+- **Depth and inclusion are separate axes.** [[jita-ai-mathematics-classrooms-inclusion-2026|Jita, Jita & Omoniyi (2026)]] pair SAMR with [[universal-design-for-learning|UDL]] across 38 sources and argue that Redefinition-level tasks can still exclude students whose language, device, or connectivity does not fit the design.
 
 ## SAMR, TPACK, and technology adoption: how they differ
 
@@ -92,3 +93,5 @@ SAMR is best understood as an integration-depth lens used in planning and evalua
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — The posthumanist critique of SAMR's humanist ontology
 - [[reclaiming-epistemic-agency-co-agency-2026]] — SAMR's silence on power, data ownership, and accountability
 - [[genai-use-changing-institutional-policy-physics-2026]] — Student GenAI use under changing institutional policies: use functions mapped to SAMR levels (Quince & Faulconer 2026)
+- [[jita-ai-mathematics-classrooms-inclusion-2026]] — AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity
+

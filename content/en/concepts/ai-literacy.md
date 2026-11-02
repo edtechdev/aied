@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-02T06:10:00-05:00"
+updated: "2026-11-02T09:55:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -32,7 +32,6 @@ AI literacy has rapidly emerged as a core competency for learners, educators, an
 
 **Output-directed and system-directed literacy are separate dimensions with evidence for the split.** [[bergdahl-student-epistemic-agency-ai-2026|Bergdahl (2026)]] found 47 Swedish year 7 students strong on source evaluation (Mdn = 3) and governance (Mdn = 4, 57% at the highest option) but weak on **data privacy (Mdn = 1, 66% at the lowest)** and **algorithmic manipulation (Mdn = 2, 47% at the lowest)**. Grouped by domain, the median output-directed score was 3 against 2 for system-directed. The finding is not that these students lacked literacy but that **literacy in reading AI output did not extend to questioning how that output was produced** — a distinction with direct consequences for how a program is scoped and measured, since a single score would average both registers and report a middle that describes neither.
 
-
 AI literacy [[research-methods-aied|research]] in this knowledge base spans four interconnected dimensions:
 
 Frameworks increasingly trace how these dimensions are enacted in practice: [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]] show how postgraduate researchers enact all four dimensions when using [[generative-ai]] across the research workflow and scaffold research-specific responsible-use guidelines from them, while [[san-orhan-karsak-ai-cognition-micro-credentials-2026|Şan & Orhan Karsak (2026)]] use Word-Association mapping to show that Turkish undergraduates' AI cognition is instrumentally "black-box" dominated, with ethical-governance concepts structurally isolated (τ=−0.819) — evidence that credential design must deliberately bridge experiential tool use and ethical frameworks.
@@ -56,6 +55,8 @@ Disciplinary verification raises the same bar further. [[vega-baudrit-genai-univ
 - **AI literacy as a governance capacity for sustainable development.** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] reconceptualize AI literacy as a governance-oriented capacity rather than a purely educational or technical skill, linking it to all seventeen UN Sustainable Development Goals. Their six-level **AIRE Taxonomy** (Recognize → Comprehend → Apply → Analyze → Integrate → Govern) extends Bloom's hierarchy by adding ethical synthesis and strategic foresight, positioning advanced competencies (Analyze–Govern) as the pathway from foundational literacy to institutional and policy-level governance — an "18th SDG" heuristic that treats literacy as a cross-cutting cognitive and ethical bridge. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and governance readiness, with **ethical reasoning and reflective thinking the strongest predictors of sustainable, trustworthy AI use** and governance literacy the strongest predictor of AI–SDG nexus awareness (β = 0.64). This empirically grounds the knowledge base's emphasis on critical-use literacy and ties AI literacy directly to [[sustainability]] and [[educational-policy-ai|policy]] integration.
 **The framework supply is now its own problem.** [[ai-competence-framework-landscape-2026|Fitsilis (2026)]] compared 16 institutionally endorsed AI competence frameworks for education and workforce development and found a shared core of ten competence areas but wide variation in structure, progression and implementation guidance — the practical difficulty is choosing among them, not a shortage.
 
+**The facets do not predict the same outcome.** In a PLS-SEM survey of 475 design students across Europe, Asia, and Australia, ethical awareness predicted academic [[well-being]] (β = 0.324) but not perceived learning performance, while emotional adaptability was the strongest direct predictor of performance (β = 0.322) ([[liang-ai-literacy-facets-creative-higher-education-2026|Liang et al., 2026]]).
+
 ### How AI literacy is developed
 
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian & Doroudi]] position AI literacy as more than applied skill: in their AI×Ed framework the learner is a distinct end user of AI (accessed through AI literacy and AI education), and they argue for renewed AI-literacy work that encourages reflection on learning itself — treating literacy as a route back into "AI as an analogy to human intelligence" research on how people learn, a strand the field largely abandoned. The [[icap-framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
@@ -71,9 +72,7 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 
 The variables surrounding AI literacy have since been mapped more broadly. [[ai-literacy-correlates-affective-behavioral-cognitive-2025|A 2025 systematic review of AI literacy's correlates]] synthesized 31 studies across 14 countries (N = 12,071) and found the most consistent associations in the affective and behavioral band: AI self-efficacy, positive AI attitudes, motivation and digital competence all moved with AI literacy, while AI anxiety and negative attitudes moved against it. Demographic variables barely registered, with age and socio-economic status correlating weakly or not at all. The review's caution is about instruments: the same studies that produced strong correlations from self-assessment also showed far weaker ones when AI literacy was tested rather than self-rated.
 
-
 A structural-equation study of 502 faculty respondents at one Chinese research university found AI literacy the strongest predictor of AI well-being (β = 0.713), against a small [[self-efficacy|technological self-efficacy]] path (β = 0.082), with social and organizational support reaching well-being only indirectly ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 One apparent negative association reverses under control: among 303 Hong Kong undergraduates, technology anxiety correlated negatively with AI literacy (r = −0.14) yet predicted β = 0.15 in a joint model, an effect confined to critical evaluation and ethical competence ([[ai-literacy-determinants-university-students-2026|Chow et al. (2026)]]).
 
@@ -170,7 +169,6 @@ A distinct research thread treats AI literacy not only as a target for instructi
 
 [[genait-genai-literacy-test-high-school-2026|Puppart, Laak and Aru (2026)]] supply the largest objective counterpart yet: an 18-item test validated on 7,432 Estonian high school students (marginal reliability = .72), with scores unrelated to perceived ease of use (ρ = .01) and negatively related to use frequency (ρ = −.16 to −.19).
 
-
 A 32-item six-facet instrument extends the four-dimension model with two further facets — responsible use and self-development — and holds scalar invariance across adolescents (12–17), young adults (18–40) and midlife adults (41–60), though the authors caution the ΔCFI approached the conventional cutoff ([[sfailq-six-facet-ai-literacy-questionnaire-2026|Liu et al. (2026)]]).
 
 [[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi, Yang and Huang (2026)]] build a graduate-specific model on Marzano's taxonomy: grounded-theory analysis of interviews with 14 professors condensed 329 raw labels into 96 concepts, 15 categories and five dimensions (cognitive foundation, operational skills, higher-order thinking, metacognitive reflection, ethical responsibility), then operationalized them as a 15-item Likert scale whose five factors emerged in exploratory factor analysis (83.14% of cumulative variance) and held in confirmatory factor analysis on a second subsample (CFI = 0.934, RMSEA = 0.083), with reliability from 0.796 to 0.842 across 308 valid questionnaires.
@@ -209,9 +207,7 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 
 [[suartama-cafe-ai-pedagogy-technology-ai-literacy-2026|Suartama, Sukmana and Triwahyuni (2026)]] propose CAFE-AI, a design that pairs AI literacy instruction with growth-mindset framing, reporting that the combination improved both measured AI literacy and mindset over a semester in one Indonesian university course.
 
-
 **Fifty frameworks in two years, and almost none of them measures generative AI.** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach, Woodworth and Sawchuk (2026)]] charted 50 K-12 AI literacy frameworks published in 2024 and 2025, 35 of them in 2025, from fifteen countries. The 27-item GAIAS was the only generative-AI-specific instrument in the corpus, and the dominant tools, AILQ, SAICS and the Chung et al. diagnostic, do not assess generative AI literacy "at all." Competency labels converged on the same five dimensions while the constructs underneath them did not align.
-
 
 **A literacy score can be uncorrelated with the outcome it is meant to protect.** Among 300 university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found AI literacy uncorrelated with AI overtrust at the bivariate level (r = 0.051) while carrying a negative indirect association inside a serial mediation model. Once performance expectancy was in the model, higher AI literacy predicted lower overtrust. Knowing more about AI did not, on its own, change how much students trusted it.
 
@@ -300,3 +296,5 @@ For critical AI literacy specifically, [[solyst-youth-systematic-evaluation-gena
 - [[genait-genai-literacy-test-high-school-2026]] — GenAIT: An Objective Generative AI Literacy Test for High School Students and Its Associations with LLM Use and Perceptions (Puppart, Laak and Aru 2026)
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - 50 K-12 AI literacy frameworks; only one instrument assesses generative AI specifically
 - [[kim-overtrust-ai-literacy-2026]] - AI literacy uncorrelated with overtrust bivariately but negatively indirect once performance expectancy is modelled
+- [[liang-ai-literacy-facets-creative-higher-education-2026]] — AI literacy facets in creative higher education: associations with learning performance and academic well-being
+

@@ -1,7 +1,7 @@
 ---
 title: Video in Education
 created: "2026-09-05T01:05:00-04:00"
-updated: "2026-10-25T15:20:00-04:00"
+updated: "2026-11-02T09:55:00-05:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
@@ -35,6 +35,7 @@ Video is a cornerstone of contemporary education — especially [[online-teachin
 - **Avatars and presence.** AI avatars — virtual presenters and pedagogical agents — raise questions about identity, [[community-of-inquiry|social presence]], and trust. [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Avatar identity and epistemic trust]] examines how a presenter's apparent identity shapes learners' trust, while [[ai-psychotherapy-training-avatars|AI avatars in training]] extend the pattern to professional practice.
 - **In-video scaffolding comments — and what AI still gets wrong.** [[wang-chatgpt-comments-video-learning-scaffolding-2026|Wang, Du and Jin (2026)]] generate *i-Comments*, [[scaffolding]] messages rendered inside the video frame and synchronized to the content, by computing frame-level entropy and inserting support only in low-information intervals. Benchmarked against 120 comments from experienced instructors, ChatGPT's 1,000 comments were denser, far less structurally varied (POS 3-gram diversity 5.5–6.2% vs. 25.1–38.5%), harder to read on every readability index, and less topically aligned (emotional-support BERTScore 0.317 vs. 0.574); 40 learners rated the human comments significantly higher on timing and helpfulness, although a newer model narrowed that gap. The argument is a design argument as much as an automation one: support embedded in the media avoids the attention and cognitive cost of pausing to query a separate [[conversational-ai|chatbot]] ([[ai-feedback-quality|feedback quality]], [[social-emotional-learning|emotional support]]).
 - **AI support for lecture-video consumption.** Beyond generation, AI helps learners and teachers work with existing video: [[bilingual-llm-lecture-companion-srl-2026|bilingual LLM lecture companions]] support self-regulated learning with recorded lectures, and [[gemini-lualatex-physics-video-transcription-2026|transcription pipelines]] convert lecture video into accessible text.
+- **Region-level zoom is the layer narrated slides were missing.** A within-subjects study with 24 viewers found automatic zoom plus synchronized highlights cut NASA-TLX workload from 5.74 to 4.53 (d = 0.84) and raised immediate comprehension (d = 0.46), though the 24-hour advantage missed significance (p = .054) ([[lian-guideslide-narrated-slides-visual-guidance-2026|Lian et al., 2026]]).
 
 ### Personalization versus human presence
 
@@ -101,3 +102,5 @@ Producing effective AI video requires pedagogical structure and human oversight,
 - [[ai-psychotherapy-training-avatars]] — AI avatars in psychotherapy training
 - [[gemini-lualatex-physics-video-transcription-2026]] — Transcribing physics lecture video into accessible text
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[lian-guideslide-narrated-slides-visual-guidance-2026]] — Look Over There! Dynamic Visual Guidance for AI-Narrated Slides
+

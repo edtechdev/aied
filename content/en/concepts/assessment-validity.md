@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-01T08:10:00-05:00"
+updated: "2026-11-02T09:55:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -75,6 +75,8 @@ A design-level counterpart comes from the same population the redesign argument 
 **The task, not the detector, sets what an artifact can evidence.** [[liu-argumentative-work-visible-genai-assessment-2026|Liu and Liu (2026)]] had a model write 148 texts across three task formats and three AI-use scenarios: evidence-integration memoranda (3.16) and follow-up-and-revision defenses (3.10) scored above position essays (2.63), because those formats required source explanation or a response to objections. They propose model simulation as task pretesting before an assignment is run with students.
 
 The outcome construct moves the estimate too: in a three-level meta-analysis of GenAI-supported problem-based and [[project-based-learning|project-based learning]], [[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et al. (2026)]] found learner-internal outcomes pooled at g = 0.819 while measures of the joint human-AI product returned g = 1.958 with a prediction interval crossing zero, modeled separately precisely because that product is not internalized learning.
+
+AI-aware grading takes a third path between redesign and detection. AICG estimates a per-response AI-use probability and discounts the cognitive evidence by `max(δ, 1 − pAI)` rather than docking the grade, lowering MAE by 4.2% over the unweighted cognitive model and keeping AI-assisted responses scoreable ([[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026|Guo et al., 2026]]).
 
 ### Connections
 
@@ -197,4 +199,5 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence (Liu & Liu 2026)
+- [[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026]] — Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading
 

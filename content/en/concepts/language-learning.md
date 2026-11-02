@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-01T09:13:16-05:00"
+updated: "2026-11-02T09:55:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -50,6 +50,8 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 
 **GenAI-supported writing at the primary level.** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] ran a nine-week opinion-writing program with 301 Grade 5 and 6 learners in Eastern China, with eight intact classes randomly assigned to the program or to conventional instruction. The program raised learners' ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17), and lifted behavioral and emotional engagement, but it did not move growth mindset, cognitive or metacognitive engagement, or rubric-scored organization — among writing dimensions only language use improved. Two features of the design matter for language teachers: prompting was taught explicitly, through a categorized bank of prompts tied to specific writing goals, and GenAI feedback was used alongside comparison with teacher feedback and repeated revision. The authorship gains learners reported rested on that instructional structure rather than on the tool by itself, and the authors name reduced [[metacognition|self-monitoring]] and shortcut-oriented strategies as the standing risks.
 
+**GenAI grammar instruction works through revision, not commentary.** In a ten-week quasi-experiment with 88 Ethiopian EFL students, draft–prompt–reflect–revise cycles raised grammar (η² = 0.499) and overall writing, and content scores rose although the prompt barred content feedback ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa & Abo, 2026]]).
+
 ## Implications for language instructors
 
 - **Emerging [[ai-technologies|technologies]] yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
@@ -57,7 +59,6 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
 - **Extend AI [[scaffolding]] to collaborative reading.** With 63 Chinese English majors in a GenAI-assisted social annotation study, [[genai-social-annotation-epistemic-network-analysis-2026|Pan et al. (2026)]] found that the chatbot raised cognitive and emotional engagement and reading performance and tied [[community-of-inquiry|social presence]] to integration and resolution, though high-achieving groups used the scaffold far more.
 - **Readiness, not observed performance.** Across 708 learners, greater AI-assisted speaking practice tracked higher human-directed willingness to communicate (β = 0.384) and lower foreign-language speaking [[anxiety-and-stress|anxiety]] (β = −0.416), while AI voice-assistant scenarios lowered anticipated anxiety further; neither study observed actual human speaking ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
-
 
 - **Watch AI output for pragmatic, not just grammatical, error.** Teachers across five online language-teaching methods named pragmatic blindness, where AI output is grammatically correct but wrong in tone, formality or culture ([[ai-ethics-tensions-online-pedagogy-2026|Baoyi and Khan (2026)]]).
 - **Prioritize feedback quality over quantity in ASR-supported speaking.** [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] find that accurate error correction and structured reflection tasks improve [[feedback]] internalization and reflective behavior in college English speaking, while frequent ASR use and recognition accuracy boost motivation or reflection only partially — technical precision alone does not drive deeper cognitive engagement, and language proficiency moderates the gains (stronger learners internalize feedback more effectively). This argues for pedagogically sound feedback (e.g., articulatory explanations over simple error flags), scaffolded reflection, and proficiency-differentiated support.
@@ -76,7 +77,6 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - **Four interaction profiles in a high-pressure bilingual task.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] used eye-tracking, pen-recording and voice-recording with 22 interpreting trainees to show that students divide attention between AI output and their own note-taking in four distinct ways — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and that 58.3% of stage-level observations changed profile between the comprehension and production stages of the same task. Only comprehension-stage patterns predicted product quality, and the AI-heaviest cluster scored lowest on fluency of delivery and target language quality, which makes the case for teaching learners to describe and reflect on their own strategy rather than prescribing one way of working with the tool.
 - **Route the full four-skill loop around cost and connectivity.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] release LLMersion-1, a local-first prototype that works listening, reading, speaking and writing over the learner's own document on consumer hardware — a 1B tutor quantizes to 808 MB and the whole resident stack stays under 4 GB — and prices five years of daily practice at roughly \$18 of electricity, against \$1,200 for a cloud subscription. No learner outcomes are reported and pronunciation feedback is segmental only.
 - **Evidence on chatbot speaking gains is uneven by feature.** In the only systematic synthesis of the question, ten studies from 2021 to 2024 improved range and intelligibility most reliably, while coherence was examined once and interaction almost never; four of the ten reported a single holistic score ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
-
 
 **Translation students can be moved off surface correction.** In a news translation course, [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] found search-engine consultation rising from a median of 15.6% to 27.7% of session time (p = 0.020, Holm-corrected) and knowledge-based searching from 7.2% to 28.8% (p = 0.010). Machine translation use fell from 28.5% to 5.1% without reaching significance (p = 0.338), and interactive AI use stayed at a median of zero. The lever was showing students their own process rather than banning a tool.
 
@@ -141,3 +141,5 @@ Design quality, not usage frequency, carried the motivational effect in an instr
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — Extend AI scaffolding to collaborative reading
 - [[acoustic-lexical-native-language-identification-learners-2026]] — Audio beats a zero-shot GPT-4o transcript classifier for L1 identification (Uluslu et al. 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - process feedback raised source consultation and cut machine translation use in a news translation course
+- [[wordofa-genai-grammar-instruction-efl-2026]] — Generative AI assisted grammar instruction and Ethiopian EFL learners' self-efficacy and metalinguistic awareness
+
