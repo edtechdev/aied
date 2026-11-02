@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-10-31T09:55:00-04:00"
+updated: "2026-11-02T02:45:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -49,6 +49,7 @@ Research consistently cautions against standalone reliance on detection:
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
 - **Even a validated detector rests on a historical baseline:** A six-year CS2 study validated its detector against a pre-LLM baseline: H-scores were near-zero before LLMs were public and rose to a mean of 11.9 by 2026 ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]]).
 - **The integrity catch-22, quantified.** [[karr-ai-detection-humanization-2026|A controlled study of 642 published abstracts (Karr et al. 2026)]] shows the [[educational-policy-ai|policy]] failure is not just conceptual but measured: guideline-compliant light AI editing is flagged at 38–80%, unmodified recent originals at 9–15% (non-STEM far above STEM), and humanizer-assisted AI text evades detection in >96% of cases. Because detectors key on surface style (long-token and academic-word density) rather than authorship intent, honest AI assistance draws sanction while deliberate humanizer evasion escapes — the authors argue detector scores should never be standalone misconduct evidence.
+- **Detection and evasion are two sides of one commercial market.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalogued 55 AI-humanizer sites — services that rewrite AI text to evade detection — and found all three they analyzed on the first page of Google, sold on freemium tiers with affiliate programs. Their political-economy argument matters for detector policy: vendors of detection sell a classification of authorship while humanizers sell the promise of changing that classification, so a detection-first regime does not merely fail against evasion, it manufactures the demand for paid evasion. The sites perform legitimacy rather than assume it — unexplained university and corporate logos placed under the text box, unverifiable user claims (roughly 3 million, 10,000 students, 1.5 million on the three sites), 99.8%–100% success claims, and "1.6 trillion parameters" mystification — and none carried a registered business address. The consequence for a detector decision is that blocking a tool does not remove the demand structure behind it.
 - **Enforcement may sort students by academic capital rather than by conduct (proposed, not measured).** Drawing on four UNESCO and OECD publications, [[hashem-cheating-habitus-ai-governance-discourse-2026|Hashem (2026)]] argues that stronger disciplinary knowledge and prompting literacy let a student revise AI output into an accepted academic register. If that is so, the visibility of AI assistance tracks [[equity-in-ai-education|academic capital]] rather than the amount of help taken, and detection-led enforcement becomes a filter for that capital. The paper is a discourse analysis with no data on flags or sanction outcomes and states the claim as a hypothesis needing comparative evidence on AI-use patterns, detection results and misconduct decisions.
 - **A copy-edit moves the verdict, which separates style from authorship.** Holding author, topic and content fixed across 135,389 edited manuscript pairs, the same edits pushed 13 detectors in opposite directions on human text — MAGE −10.7 percentage points of false positives, RADAR −4.7, against Fast-DetectGPT +4.6 ([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong and Kim (2026)]]). Baseline rates spanned 0.0% to 100.0%, scaling with editing intensity.
 
@@ -144,6 +145,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 ## Connected Articles
 
+- [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 humanizer sites performing legitimacy: detection and evasion as one commercial market (Roe et al. 2026)
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — A hypothesis that enforcement filters on academic capital, not on conduct
 - [[lieske-ai-proposals-counter-ai-cheating-2026]] — Eight LLMs rank six counter-cheating techniques; AI detection comes last
 

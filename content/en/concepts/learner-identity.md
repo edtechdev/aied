@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-10-26T01:30:00-04:00"
+updated: "2026-11-02T03:09:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -47,6 +47,7 @@ A distinct authorship condition, not only a threat to authorship: when self-form
 - **How students frame the tool shapes their professional becoming.** Students who cast GenAI solely as a socio-emotional partner produced less differentiated reflections on their professional learning than those who also framed it as a technique, a learning material, or a structure ([[genai-professionalization-metaphors-2026|Bohmer et al., 2026]]).
 
 - **Guarded adoption: selective AI use as identity protection.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] surveyed 484 students at one Australian university and found that higher-achieving students reported *lower* active [[generative-ai|generative AI]] engagement, lower positive affect toward AI, lower [[self-report-measures|perceived learning]] impact and lower AI-related disengagement, with the strongest associations at rho = -0.395 for perceived learning impact and rho = -0.359 for positive affect. Their open-ended responses described use that was selective (clarification, summarization, workflow support), verified, and held subordinate to their own judgment, and item-level results showed greater agreement that reliance on AI hinders [[critical-thinking]] and independent [[problem-solving|problem solving]]. The authors read this as identity work: for students whose sense of themselves as successful learners rests on their own effort and judgment, bounding AI use defends the [[agency|epistemic agency]] the identity depends on — which also means the pattern is neither technophobia nor low engagement.
+- **A stated purpose does not necessarily govern an AI decision.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] interviewed 14 undergraduates and coded each interview for the relationship between the student's [[self-determination-theory|purpose]] — a personally meaningful intention to contribute beyond the self — and their AI choices. Only some made the connection: one refused AI because its environmental and human costs contradicted her purpose, and three let future professional identity shape their choices ("contributes to the psychologist that I will be out in the world one day"). Others with an equally clear sense of purpose made no such link, describing purpose and AI as "kind of separate," so having an identity to protect was not the same as drawing on it. The paper also separates the reasons students give for keeping work their own — skill development, [[evaluative-judgment|ownership and pride]], and moral objection — which arrive through different mechanisms and should not be pooled into one motive.
 
 ## Relationship to learner agency
 
@@ -96,6 +97,7 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 - [[k-12]]
 
 ## Connected Articles
+- [[ting-ai-learning-ownership-purpose-2026]] — 14 undergraduates on what they keep doing themselves, and why purpose rarely decides it
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

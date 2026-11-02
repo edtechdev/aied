@@ -1,7 +1,7 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-10-31T10:05:00-04:00"
+updated: "2026-11-02T02:47:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -144,6 +144,8 @@ A student who uses transcription because typing is unreliable. Name [[assistive-
 **A score plus a couple of indicators adds up to a case.** It does not. The standard is evidence meeting the balance of probabilities, and scores combined with markers, style comparisons, LLM judgments or silence still fall short. One test worth applying is whether you would say the reasoning out loud in a hearing ([[bassett-ai-detectors-education-2026]]).
 
 **A detector license costs less than redesigning the assessment.** The license is the smallest line item, and it carries data-protection exposure, procurement work, and a permanent stream of appeals built on an instrument whose error is patterned by language background. Faculty describe the experience as "suspicion without recourse," so the budget line that changes outcomes is verification capacity and guidance ([[best-response-student-ai-dialog-2026]]).
+
+**The evasion market is a product of the detection regime, not a rival to it.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalogued 55 AI-humanizer sites and found the ones they analyzed on the first page of Google, sold on freemium tiers with affiliate programs. The sites do not market cheating: they market protection from false positives, unexplained university and corporate logos placed under the text box, 99.8%–100% success rates, and unverifiable user counts, with no site listing a registered business address. The policy consequence is that detection and evasion are two halves of one transaction — one vendor sells a classification of authorship, the other sells the promise of changing it — so removing or adding a detector changes who profits from the loop without touching the demand. What you control is the other input: whether students have a route to ask about provenance that does not start with suspicion, and whether [[ai-literacy]] covers reading commercial claims about AI the way it covers reading AI output.
 
 **A blanket ban protects the institution.** Over-inclusive rules can strip an accommodation and invite the discrimination argument you were trying to avoid, because the error they produce is concentrated on identifiable groups rather than spread evenly ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 
