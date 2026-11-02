@@ -7,30 +7,21 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-02
-**Total backlog:** 8 articles awaiting ingest (the remaining candidates were rejected, see `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 0 articles awaiting ingest (every entry from the 2026-11-01 and 2026-11-02 windows is now ingested or recorded in `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-02)
 
-Ten articles were ingested this run (three arXiv, five OpenAlex journal-watch, one PsyArXiv-adjacent Frontiers and one Springer), each with its full text saved under `raw/papers/`. Two in-scope OpenAlex candidates could not be ingested because the publisher serves them only as HTML metadata or behind a bot check, so their full text is unavailable to this job; both are open access and either can be ingested once the PDF is supplied.
+Ten articles were ingested this run (three arXiv, five OpenAlex journal-watch, one PsyArXiv-adjacent Frontiers and one Springer), each with its full text saved under `raw/papers/`. Two in-scope candidates could not be ingested because the publisher serves them only as HTML metadata or behind a bot check.
 
-- [Exploring the integration of artificial intelligence into residency education curriculum: qualitative interviews](https://doi.org/10.1186/s12909-026-10684-y) — BMC Medical Education; served as a shared-early abstract only, and every PDF route (Springer content PDF, BMC counter PDF) returned an HTML challenge page
-- [Classification fidelity of large language models on endodontic items from the Turkish dental specialty examination](https://doi.org/10.1186/s12909-026-10746-1) — BMC Medical Education; published version, but the same block returns HTML rather than PDF
+Both were resolved on 2026-11-02 when the maintainer cleared this queue: the residency-curriculum interviews were ingested from a maintainer-supplied PDF (`bursic-ai-residency-education-curriculum-2026`), and the endodontic-item classification study was declined and recorded in `rejected-sources.yaml`.
 
 ## Weekly journal RSS scan (2026-11-01)
 
-Five articles were ingested this run with full text saved under `raw/papers/`. Two in-scope candidates were not ingested and are recorded here; both are open access with retrievable full text, so either can be ingested on request.
-
-- [Towards Responsible and Trustworthy Educational Data Mining: Comparing Symbolic, Sub-Symbolic, and Neural-Symbolic AI Methods](https://www.sciencedirect.com/science/article/pii/S1560429226013181) — held back as a methods-comparison paper whose educational claim is thin; screen before ingesting
-- [Process visualization feedback in news translation: a controlled intervention study of human-AI interaction using multimodal process data](https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1893830) — translator-training study, in scope for language education but not yet screened for significance
+Five articles were ingested this run with full text saved under `raw/papers/`. Two in-scope candidates were held back for a significance screen, and both have since been ingested: `hooshyar-responsible-trustworthy-educational-data-mining-2026` (the methods comparison) and `xian-process-visualization-feedback-news-translation-2026` (the news-translation study).
 
 ## OpenAlex harvest (2026-11-01)
 
-The weekly topic sweep returned 529 candidates across 13 queries. Six were judged worth pursuing rather than ingested this run, preferring randomized trials, meta-analyses and reviews over single-site perception surveys. Two of those six were declined on 2026-11-01 and now sit in `rejected-sources.yaml`: an OSF record that is a study registration rather than a completed analysis, and a Cambridge repository report held under access restriction until 2029-10-30. Four remain, and their full texts are retrievable.
-
-- [How Does Generative AI Support Inquiry-Based Learning? A Systematic Review](https://doi.org/10.12688/f1000research.192825.1) — systematic review mapped to an inquiry pedagogy
-- [Generative AI and student motivation: an SDT-guided systematic review of learning activities](https://doi.org/10.3389/fpsyg.2026.1984018) — SDT-guided review of motivational evidence
-- [K-12 AI literacy frameworks after generative AI: A scoping review](https://doi.org/10.30935/ijpdll/19665) — framework-comparison review at the K-12 level
-- [Critical AI literacy as a buffer against AI overtrust in students](https://doi.org/10.1186/s40359-026-05797-4) — empirical test of critical AI literacy against overtrust
+The weekly topic sweep returned 529 candidates across 13 queries. Six were judged worth pursuing rather than ingested this run, preferring randomized trials, meta-analyses and reviews over single-site perception surveys. Two of those six were declined on 2026-11-01 and now sit in `rejected-sources.yaml`: an OSF record that is a study registration rather than a completed analysis, and a Cambridge repository report held under access restriction until 2029-10-30. Four remained before this queue was cleared, and all four have since been ingested: `yahya-generative-ai-inquiry-based-learning-review-2026`, `pan-generative-ai-student-motivation-sdt-review-2026`, `kharbach-k12-ai-literacy-frameworks-scoping-review-2026` and `kim-overtrust-ai-literacy-2026`.
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-10-30)
 

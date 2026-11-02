@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-10-28T15:48:01-04:00"
+updated: "2026-11-02T10:40:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -69,6 +69,8 @@ A 132-teacher survey in Indonesia found near-universal acceptance alongside thin
 The gap is visible in the artifact as well as in the self-report. A [[ai-integration-instructional-design-collaboratory-2026|cross-institutional faculty collaboratory in teacher preparation]], in which teacher educators designed AI into their own methods courses, reported that candidates could produce polished AI-assisted lesson plans while being unable to explain why a plan fit the learners and the standards, since the plan itself says nothing about the reasoning behind it. Grading the justification rather than the product is one response. The [[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice frame]] suggests another, treating rehearsal as an approximation of practice: AI-mediated rehearsal with structured post-rehearsal feedback raised candidates' use of probing and exploring questions, yet candidates' own judgments of their performance still diverged from what observers recorded.
 
 **A falling self-assessment after training can signal learning rather than loss.** In a six-month [[tpack|Intelligent-TPACK]] [[educational-development|professional development]] program with 64 Hong Kong university teachers against 61 controls, overall AI competency rose by about half a standard deviation (Cohen's d = −.521), yet some teachers in both groups scored lower at post-test than at pre-test ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Interviews attributed the declines to a shift from unconscious to conscious incompetence — the recalibration the Dunning–Kruger effect predicts — rather than to lost skill. The authors conclude that pre-post self-report understates an intervention, because part of the gain arrives as a downward correction in the instrument itself.
+
+**The gap can invert across the pipeline.** In postgraduate medical education, twelve physicians who lead AI curriculum work expected residents to become more fluent with AI than many of their teachers, and proposed co-learning and co-teaching rather than a one-way upskilling of faculty ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). The same interviews described informatics units not yet mature enough to lead curriculum development, which locates the constraint in institutional capacity as well as individual skill.
 
 **The gap also shows up as non-participation.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] surveyed 1,057 US college faculty in late 2025 and found 26% do not use [[generative-ai|generative AI]] tools at all, with a third choosing not to use them for teaching and non-use concentrated in the arts and [[humanities-education|humanities]] (40%). The institutional side of the gap was larger than the individual one: 68% said their schools had not prepared faculty to use generative AI for teaching and mentoring, and faculty named colleagues' resistance (82%) and unfamiliarity (83%) as the leading obstacles to departmental adoption — a picture in which capability-building, peer norms and policy all have to move together.
 
@@ -215,3 +217,4 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: How Teacher-Configured Chatbots Fail in Real-World Use and How to Fix Them
 
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Development and validation of the AI-empowered teacher visualization teaching competency scale
+- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
