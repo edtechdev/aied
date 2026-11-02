@@ -2,7 +2,7 @@
 title: "ChatGPT and student engagement in L2 writing: a systematic review towards a smart learning environment framework"
 published: "2026-10-30"
 created: "2026-11-02T09:22:00-05:00"
-updated: "2026-11-02T09:22:00-05:00"
+updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/arthi-chatgpt-l2-writing-engagement-review-2026.md']
 source_url: "https://www.frontiersin.org/articles/10.3389/feduc.2026.1946127"
@@ -43,7 +43,7 @@ Behavioral findings cluster around process visibility. Learners who used ChatGPT
 
 ## Affective engagement and the low-threat environment
 
-Affect runs both ways, and much of it is relational. Gains include motivation, confidence, appreciation, satisfaction, and reduced writing anxiety, with learners describing ChatGPT as a tutor, a "writing buddy" that carries them past writer's block, and a partner in building meaning. Costs include frustration and confusion at inaccurate feedback, overload and mental stress, diminished motivation under monotonous feedback, and the missing emotional nuance of human response, alongside educators' worries about plagiarism and [[academic-integrity]]. The comparative case is pointed: students preferred negative feedback from the AI to the same feedback from a person, reporting affirmative emotions and direct involvement in a less threatening space. The review reads this as a low-threat feedback environment rather than proof that AI feedback is better, since the same studies document apathy in students who wanted the personalization a teacher or peer supplies. What separates reflective use from passive reliance, the authors argue, is [[feedback-literacy]].
+Affect runs both ways, and much of it is relational. Gains include motivation, confidence, appreciation, satisfaction, and reduced writing anxiety, with learners describing ChatGPT as a tutor, a "writing buddy" that carries them past writer's block, and a partner in building meaning. Costs include frustration and confusion at inaccurate feedback, overload and mental stress, diminished motivation under monotonous feedback, and the missing emotional nuance of human response, alongside educators' worries about plagiarism and [[academic-integrity]]. The comparative case is pointed: students preferred negative feedback from the AI to the same feedback from a person, reporting affirmative emotions and direct involvement in a less threatening space. The review reads this as a low-threat feedback environment rather than proof that [[ai-feedback-quality|AI feedback]] is better, since the same studies document apathy in students who wanted the personalization a teacher or peer supplies. What separates reflective use from passive reliance, the authors argue, is [[feedback-literacy]].
 
 ## The CESLE framework
 

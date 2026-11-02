@@ -2,7 +2,7 @@
 title: "AI literacy facets in creative higher education: associations with learning performance and academic well-being"
 published: "2026-10-30"
 created: "2026-11-02T09:24:00-05:00"
-updated: "2026-11-02T09:24:00-05:00"
+updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/liang-ai-literacy-facets-creative-higher-education-2026.md']
 source_url: "https://doi.org/10.3389/feduc.2026.1959457"
@@ -39,7 +39,7 @@ methods: [quantitative-research]
 
 ## Six facets, one instrument
 
-The instrument was assembled by adapting dimensions from existing AI-literacy frameworks rather than adopting a single validated scale, and the measurement work is reported in unusual detail. Retained indicator loadings ran from 0.839 to 0.902, Cronbach's alpha from 0.842 to 0.921, and average variance extracted from 0.735 to 0.788. Three items were dropped: ETH2 and ETH3 because they loaded below 0.70 and overlapped with broader academic-integrity concerns, and AWA3 because it drifted toward evaluative judgment of outputs rather than awareness of them. That deletion shows how thin the boundary is between recognizing what AI is doing and judging what it produced. Discriminant validity held by the heterotrait–monotrait criterion, every value below 0.90, yet correlations among reflection, emotional adaptability, performance, and well-being stayed high enough that the authors interpret the structural paths cautiously. A single aggregate score would have hidden the distinctions the study exists to test.
+The instrument was assembled by adapting dimensions from existing AI-literacy frameworks rather than adopting a single validated scale, and the measurement work is reported in unusual detail. Retained indicator loadings ran from 0.839 to 0.902, Cronbach's alpha from 0.842 to 0.921, and average variance extracted from 0.735 to 0.788. Three items were dropped: ETH2 and ETH3 because they loaded below 0.70 and overlapped with broader academic-integrity concerns, and AWA3 because it drifted toward [[evaluative-judgment|evaluative judgment]] of outputs rather than awareness of them. That deletion shows how thin the boundary is between recognizing what AI is doing and judging what it produced. Discriminant validity held by the heterotrait–monotrait criterion, every value below 0.90, yet correlations among reflection, emotional adaptability, performance, and well-being stayed high enough that the authors interpret the structural paths cautiously. A single aggregate score would have hidden the distinctions the study exists to test.
 
 ## The recognize–reflect–produce route
 

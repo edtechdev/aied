@@ -2,7 +2,7 @@
 title: "Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading"
 published: "2026-10-30"
 created: "2026-11-02T09:26:00-05:00"
-updated: "2026-11-02T09:26:00-05:00"
+updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/guo-aicg-ai-aware-cognitive-supervision-math-grading-2026.md']
 source_url: "https://arxiv.org/abs/2610.41215"
@@ -62,7 +62,7 @@ AICG never changes a grade because a detector suspected assistance. The calibrat
 ## Limitations
 
 - All 49,402 responses and 3,861 student–semester records come from one course sequence at one institution, with a fixed assessment of eight pretest and eight posttest items mapped to ten skills; the Q-matrix is expert-designed and fixed, and cross-course evaluation is left to future work.
-- The Gen-AI detector is trained on synthetic rewrites from one offline model family, and its .959 within-semester accuracy is measured against that synthetic ground truth, not observed student AI use.
+- The Gen-AI detector is trained on synthetic rewrites from one offline model family, and its .959 within-semester accuracy is measured against that synthetic ground truth, not observed [[student-ai-interaction|student AI use]].
 - Assisted responses are a minority (20.87%), which the authors give as the reason the aggregate weighting gain is moderate; no classroom deployment or instructor-in-the-loop study is reported.
 
 ## Citation

@@ -2,7 +2,7 @@
 title: "Design and preliminary validation of an AI enhanced game based learning environment for computational thinking"
 published: "2026-10-30"
 created: "2026-11-02T09:28:00-05:00"
-updated: "2026-11-02T09:28:00-05:00"
+updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/hengsawat-ai-game-based-learning-computational-thinking-2026.md']
 source_url: "https://doi.org/10.1007/s44217-026-02362-4"
@@ -25,7 +25,7 @@ technology: [generative-ai, adaptive-learning, pedagogical-agent]
 methods: [design-based-research]
 ---
 
-> **Synthesis:** Hengsawat, Junruang, and Kanjug (2026) report a Type I developmental study that builds and preliminarily validates a [[generative-ai|generative-AI-enhanced]] [[game-based-learning]] environment for [[computational-thinking]] in upper secondary school. Built on Roblox inside an authentic Smart Greenhouse (IoT) scenario, it bundles six components: [[problem-based-learning|problem-based]] scenarios, a resource room, collaborative spaces, a CT enhancement center, [[adaptive-learning|adaptive]] [[scaffolding]], and an AI coaching system pairing a GPT-4 non-player character with a rule-based difficulty engine. Nine experts appraised it (37 of 47 criteria met the IOC threshold before revision), then 30 Grade 11 students in northeastern Thailand used it across eight 60-minute sessions in a one-group pretest–posttest design. CT scores rose 3.07 points on a 20-point test and achievement rose 5.90 points on a 15-item test, with immediate satisfaction at M = 4.64 across six [[technology-acceptance-model]] dimensions. The authors stress that this design cannot attribute those gains to the environment or any component within it.
+> **Synthesis:** Hengsawat, Junruang, and Kanjug (2026) report a Type I developmental study that builds and preliminarily validates a [[generative-ai|generative-AI-enhanced]] [[game-based-learning]] environment for [[computational-thinking]] in upper [[k-12|secondary school]]. Built on Roblox inside an authentic Smart Greenhouse (IoT) scenario, it bundles six components: [[problem-based-learning|problem-based]] scenarios, a resource room, collaborative spaces, a CT enhancement center, [[adaptive-learning|adaptive]] [[scaffolding]], and an AI coaching system pairing a GPT-4 non-player character with a rule-based difficulty engine. Nine experts appraised it (37 of 47 criteria met the IOC threshold before revision), then 30 Grade 11 students in northeastern Thailand used it across eight 60-minute sessions in a one-group pretest–posttest design. CT scores rose 3.07 points on a 20-point test and achievement rose 5.90 points on a 15-item test, with immediate satisfaction at M = 4.64 across six [[technology-acceptance-model]] dimensions. The authors stress that this design cannot attribute those gains to the environment or any component within it.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ methods: [design-based-research]
 
 ## Six components and a two-role AI
 
-The transferable design idea is that "AI support" becomes two operationally distinct roles rather than one chatbot. The coach is learner-initiated and dialogic: a GPT-4 [[pedagogical-agent|non-player character]] reached through an API, with messages routed to an intermediary server where tokenization and intent classification extract problem context. A prompt of roughly 150–300 Thai words forbids direct answers, requires hints mapped to the five CT dimensions, and caps replies at two to three sentences, with temperature at 0.2–0.4 and history at three or four turns. The second role is system-initiated and behavioral — a rule-based engine with a basic machine-learning component that calibrates difficulty from time-to-solution, logical-error rate, and hint-request frequency. That split makes the environment genuinely adaptive, and it operationalizes [[constructivist]] contingent tutoring instead of answer dispensing.
+The transferable design idea is that "AI support" becomes two operationally distinct roles rather than one chatbot. The coach is learner-initiated and dialogic: a GPT-4 [[pedagogical-agent|non-player character]] reached through an API, with messages routed to an intermediary server where tokenization and intent classification extract problem context. A prompt of roughly 150–300 Thai words forbids direct answers, requires hints mapped to the five CT dimensions, and caps replies at two to three sentences, with temperature at 0.2–0.4 and history at three or four turns. The second role is system-initiated and behavioral — a rule-based engine with a basic [[machine-learning|machine learning]] component that calibrates difficulty from time-to-solution, logical-error rate, and hint-request frequency. That split makes the environment genuinely adaptive, and it operationalizes [[constructivist]] contingent tutoring instead of answer dispensing.
 
 ## Where the gains appeared, and where the instrument ran out
 

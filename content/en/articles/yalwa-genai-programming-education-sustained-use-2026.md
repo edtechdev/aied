@@ -2,7 +2,7 @@
 title: "Sustained Use of Generative Artificial Intelligence (GenAI) in Programming Education: A Systematic Review"
 published: "2026-10-31"
 created: "2026-11-02T09:20:00-05:00"
-updated: "2026-11-02T09:20:00-05:00"
+updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/yalwa-genai-programming-education-sustained-use-2026.md']
 source_url: "https://doi.org/10.1080/2331186X.2026.2745324"
@@ -48,7 +48,7 @@ Tool coverage is narrower still: ChatGPT and ChatGPT-based applications account 
 
 Four outcome areas organize the evidence: programming performance, debugging efficiency, conceptual understanding, and [[student-engagement]]. Performance gains are the most consistently reported — GPT-based systems and coding assistants completed exercises, generated code, and supported assignments — and debugging support is the most specific: models produced readable explanations of errors and suggested repairs where compiler messages had failed.
 
-The review's caution lands on the gap between completion and competence. Students in several studies accepted generated solutions without sufficient verification, and improved productivity did not translate into reasoning skill. The same pattern recurs for conceptual learning: personalized explanations supported self-directed study, but evidence that understanding persists is weak, and novices are least equipped to notice a wrong explanation. Engagement findings are positive but conditional — students valued the convenience, while accuracy doubts and ethical uncertainty shaped whether they persisted.
+The review's caution lands on the gap between completion and competence. Students in several studies accepted generated solutions without sufficient verification, and improved productivity did not translate into reasoning skill. The same pattern recurs for conceptual learning: personalized explanations supported [[self-directed-learning|self-directed study]], but evidence that understanding persists is weak, and novices are least equipped to notice a wrong explanation. Engagement findings are positive but conditional — students valued the convenience, while accuracy doubts and ethical uncertainty shaped whether they persisted.
 
 ## Continuance, trust, and calibrated reliance
 

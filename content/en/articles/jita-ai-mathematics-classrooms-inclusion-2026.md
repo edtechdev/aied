@@ -2,7 +2,7 @@
 title: "AI in Mathematics Classrooms: A Synergistic Strategy for Diversity and Inclusivity"
 published: "2026-11-01"
 created: "2026-11-02T09:20:00-05:00"
-updated: "2026-11-02T09:20:00-05:00"
+updated: "2026-11-02T10:15:00-05:00"
 type: article
 sources: ['raw/papers/jita-ai-mathematics-classrooms-inclusion-2026.md']
 source_url: "https://doi.org/10.1080/2331186X.2026.2751871"
@@ -34,7 +34,7 @@ methods: [meta-analysis-systematic-review]
 2. Adaptive platforms and intelligent tutoring systems were the most consistently reported affordances, adjusting content, difficulty, and pacing to students' real-time performance in mixed-ability classrooms.
 3. SAMR level and inclusion were treated as independent dimensions: an application can redefine a mathematical task while remaining inaccessible because of linguistic, [[accessibility]], or infrastructural barriers.
 4. Case evidence was sparse but specific: Squirrel AI in China, chatbot tutors piloted in under-resourced African settings, and Philippine tutoring platforms linked to gains in understanding and confidence.
-5. Barriers clustered in four areas: unreliable infrastructure, teachers' limited AI training, algorithmic bias in training data, and recurring licensing, hosting, and security costs.
+5. Barriers clustered in four areas: unreliable infrastructure, teachers' limited AI training, [[bias-mitigation|algorithmic bias]] in training data, and recurring licensing, hosting, and security costs.
 6. SAIME organizes integration into input/design (UDL and SAMR), process (AI functionalities plus teacher mediation), and output (access, participation, achievement), with ethical safeguards operating across all three layers.
 
 ## Framing inclusion as a design problem
@@ -55,11 +55,11 @@ Affordances are grouped pedagogically: inclusion support, differentiation, reduc
 
 The constraints the review identifies are not technical footnotes. Uneven device provision, unreliable electricity, and unstable connectivity mean that under-resourced schools cannot use the tools at all, which converts an inclusion technology into a mechanism for widening the [[digital-divide]]. Teacher preparation is a second bottleneck: many teachers lack training and confidence to integrate AI, and some fear losing human interaction.
 
-Algorithmic bias is the third: because systems learn from historical data, predictive analytics can misjudge students with disabilities or minority-language speakers, so bias mitigation, transparency, and co-design are preconditions rather than post-deployment fixes. Cost closes the list: licensing, hosting, and security are recurring expenses low-income institutions struggle to sustain.
+Algorithmic bias is the third: because systems learn from historical data, [[learning-analytics|predictive analytics]] can misjudge students with disabilities or minority-language speakers, so bias mitigation, transparency, and co-design are preconditions rather than post-deployment fixes. Cost closes the list: licensing, hosting, and security are recurring expenses low-income institutions struggle to sustain.
 
 ## The SAIME framework
 
-SAIME is a cyclical, three-layer model. The input/design layer pairs UDL's three means with SAMR's four levels; the process layer connects AI functionalities to teacher-mediated strategies — differentiated instruction, collaborative learning, culturally sustaining pedagogy, responsive intervention and [[scaffolding]]; the output layer specifies equitable access, participation, and achievement. Ethical and equity safeguards run across all three layers, with a feedback loop tying outcomes back into redesign.
+SAIME is a cyclical, three-layer model. The input/design layer pairs UDL's three means with SAMR's four levels; the process layer connects AI functionalities to teacher-mediated strategies — differentiated instruction, [[collaborative-learning|collaborative learning]], [[culturally-relevant-pedagogy|culturally sustaining pedagogy]], responsive intervention and [[scaffolding]]; the output layer specifies equitable access, participation, and achievement. Ethical and equity safeguards run across all three layers, with a feedback loop tying outcomes back into redesign.
 
 The framework's analytical move is to deny that transformation and inclusion are the same axis. An application can redefine a task at the highest SAMR level while remaining inaccessible to a student who cannot read the interface language or lacks a device. [[equity-in-ai-education]] thus becomes the criterion for judging whether an AI-enabled transformation has pedagogical value, and the [[teacher-role]] stays central: analytics inform judgment, they do not replace it.
 
@@ -68,7 +68,7 @@ The framework's analytical move is to deny that transformation and inclusion are
 - **Instructors.** Audit accessibility gaps with UDL checklists before selecting a tool, then judge tools by the SAMR level they reach, not by vendor claims.
 - **Instructors.** Keep interpretation of AI analytics in professional hands; the framework assigns diagnosis and response to teachers, not to dashboards.
 - **Curriculum designers.** Map each AI-supported task against all three UDL means, since a tool that differentiates difficulty may offer only one mode of representation.
-- **Administrators.** Budget for connectivity, devices, assistive technology, and multilingual functionality alongside licenses, because the review treats infrastructure as a precondition for equitable use.
+- **Administrators.** Budget for connectivity, devices, [[assistive-technology|assistive technology]], and multilingual functionality alongside licenses, because the review treats infrastructure as a precondition for equitable use.
 
 ## Limitations
 
