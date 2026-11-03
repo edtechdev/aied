@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-10-30T10:20:00-04:00"
+updated: "2026-11-03T09:40:00-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -52,6 +52,8 @@ Conditioning generation on a predicted behavior model works without fine-tuning:
 - **Predict the learner instead of acting as one.** [[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang et al. (2026)]] recast simulation as third-person prediction: a student model built from the learner's history supplies a prior, an inferred learner state constrains the next action, and the simulated ability distribution lands 2.4–8.4× closer to the real one by Wasserstein-1 distance.
 
 CogEvolution models cognitive dynamics rather than a static persona — an ICAP depth perceptron sets each state update's size and an evolutionary update stays within a Zone-of-Proximal-Development radius — reaching R²LC = 0.92 where static agents reach 0.45 and collapsing to 0.58 without the ICAP module ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al. (2026)]]).
+
+**Drift is a horizon problem, not a persona problem.** [[radmehr-alps-simulated-students-long-horizon-2026|Radmehr et al. (2026)]] show that turn-level generation loses an assigned profile as trajectories lengthen, while planning profile-aligned segments before generating actions held density and judge-rated consistency even with three real trajectories per profile.
 
 ### Fidelity over surface realism
 
@@ -137,6 +139,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 - [[teacher-role]]
 
 ## Connected Articles
+- [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: hierarchical planning keeps simulated students on profile over long horizons (Radmehr et al. 2026)
 - [[rudolph-llm-simulated-counselling-clients-2026]] — Simulated counselling clients disclose faster, so trainees skip facilitative moderation
 - [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: From Role-Play to Learner Behavior Modeling for Faithful Student Simulation
 - [[tutorloop-sensor-cognitive-feedback-2026]] — A simulator-trained reinforcement-learning tutor transferred offline to a new real task (Xu & Zhang 2026)

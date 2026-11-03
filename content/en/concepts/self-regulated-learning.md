@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-01T07:00:00-05:00"
+updated: "2026-11-03T09:40:00-05:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -104,6 +104,8 @@ Classify before delegating: [[scan-framework-task-assignment-generative-ai-2025|
 **The interaction itself as an object of regulation.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström and Palmqvist (2026)]] document the same regulation demand from the other direction: in an eight-round demonstration using a chatbot to prepare a take-home [[summative-assessment|examination]] answer, the AI's default output stayed at the *[[quantitative-research|quantitative]]*, multistructural end of the SOLO taxonomy — polished, submission-ready and pedagogically thin — and reached a usable three-step learning loop only after repeated meta-level interventions ("this is overwhelming, can you condense it?"). Their conclusion is that productive use required "the very self-regulatory skills the tool was expected to support": the learner must set incremental goals, request difficulty adjustments, and reflect on what is not yet understood, on top of the disciplinary content itself. They name this capacity [[ai-literacy|AI-interaction literacy]] and treat disengaging from the tool as a legitimate regulatory decision rather than a failure of persistence ([[metacognition]]).
 
 - **Satisfaction is not self-regulation.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] surveyed 689 undergraduates in industry-education programs and tested a serial mediation model in which the perceived affordances of AI-generated content raise AIGC [[self-efficacy]] (beta = 0.583) and, through it, learning [[motivation]] (beta = 0.565) and self-regulated learning (beta = 0.250), with motivation the heaviest single predictor of SRL (beta = 0.527). The load-bearing negative results sit alongside those paths: the quality of AI assessment feedback predicted satisfaction strongly (beta = 0.712) but not self-efficacy (beta = 0.131), and satisfaction had no significant effect on self-regulated learning (beta = 0.032). A well-liked, well-functioning assistant is therefore not evidence that regulation improved — the mechanism runs through confidence and motivation, not through the learner's experience of the tool.
+
+**Dependency works through effort regulation, not use volume.** In a survey of 982 undergraduates, [[cognitive-offloading|GenAI dependency]] predicted lower effort regulation (β = −0.257), which predicted [[learning-gains|perceived learning outcomes]] (β = 0.497), giving a negative indirect path (β = −0.128) while frequency of use carried no significant total association ([[li-genai-dependency-effort-regulation-2026|Li, Zhang and Yang (2026)]]).
 
 ### GenAI-aware reflection as SRL
 
@@ -212,6 +214,7 @@ Which support is in play decides which mediator carries the association: among 3
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[li-genai-dependency-effort-regulation-2026]] — Generative AI dependency and perceived learning outcomes: the effort-regulation pathway (Li, Zhang & Yang 2026)
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — Per-category accuracy of LLM-segmented SRL in an embodied classroom (Fonteles et al. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — What the submission does not show: complexifying cognitive offloading in students’ mathematical work with LLMs (Kontorovich & Wallach 2026)
 - [[genai-curriculum-analytics-mapping-higher-ed-2026]] — Model over-attribution of self-regulation from shallow cues in curriculum mapping (Jayalath et al. 2026)

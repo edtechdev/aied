@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-10-26T02:00:00-04:00"
+updated: "2026-11-03T09:42:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -47,6 +47,8 @@ The technical strand is inseparable from the knowledge base's other themes:
 - **Assessment and evaluation:** [[ai-ed-evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment]] and [[automated-assessment]] use the technical stack to grade and generate.
 - **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, guardrails, [[prompt-engineering]] [[scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
 
+**Research attention is concentrated on a narrow slice of the tool ecosystem.** Mapping 85 AI tools against the STEM and engineering literature, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] found only 36 research-visible at all and conversational AI/LLMs accounting for 73.7% of 927 paper–tool connections, with 23 publications in an established laboratory context.
+
 ## Implications for AI in education
 
 - **Technical literacy supports critical use:** understanding the underlying models and techniques helps educators and learners use AI well and evaluate it critically (see [[ai-literacy]]).
@@ -88,6 +90,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[beyond-chatgpt-stem-ai-tool-mapping-2026]] — Research visibility of 85 AI tools in STEM and engineering education (Terkowsky et al. 2026)
 
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming

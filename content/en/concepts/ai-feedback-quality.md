@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-31T09:55:00-04:00"
+updated: "2026-11-03T09:40:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -41,6 +41,7 @@ A controlled comparison isolates the feedback component from the adaptive system
 
 - **A supportive feedback sequence can still harm learning.** [[sequenced-ai-feedback-learning|Cao et al. (2026)]] found that encouragement → hints → correct answer lowered post-test scores (B = −0.83, p = .02) despite raising perceived encouragement, with frequent resubmissions predicting worse performance (B = −0.33, p = .001), so engagement and satisfaction are not proxies for [[learning-gains|learning]].
 
+- **A grammar-feedback and revision cycle moved writing, confidence and metalinguistic awareness.** [[wordofa-genai-grammar-instruction-efl-2026|Wordofa and Abo (2026)]] found an AI-supported draft–reflect–revise condition outperformed conventional instruction on all five writing dimensions after covarying pre-test scores (F(5, 77) = 20.885, partial η² = 0.576), with writing self-efficacy at partial η² = 0.254.
 - **Feedback classification [[benchmark|benchmarks]]:** [[teaching-feedback-classification-benchmark|Cross-language feedback benchmarks]] assess whether feedback quality classification transfers across languages and educational contexts, connecting to [[ai-ed-evaluation]].
 
 - **Collaborative feedback systems:** [[becerra-aicofe-feedback-2026|AICoFE]] implements and deploys AI-based collaborative feedback in [[higher-ed|higher education]], evaluating both system performance and student reception.

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-10-25T21:20:00-04:00"
+updated: "2026-11-03T09:42:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -35,6 +35,8 @@ Design thinking sits at the intersection of creativity, craft, and critique — 
 - **Design thinking as a student skill being developed.** [[genai-usage-design-students-survey|GenAI usage by design students]] at Politecnico di Milano reported very frequent use concentrated in early, ideation-heavy stages — yet high adoption did not reduce perceived project ownership or creativity, directly informing [[ai-literacy]] and [[academic-integrity]] debates about authorship and process transparency.
 
 - **AI in design pedagogy and educator frameworks.** Design thinking also structures how educators build AI-supported learning. [[gaide-vibe-coding-k12-teachers|GAIDE]] offers a Design-Thinking-based framework for K-12 teachers creating AI-powered tools through vibe coding, raising teachers' AI literacy and supporting learning-by-creating as [[educational-development]] and [[professional-training]]. [[dot-framework-survey-2026|The DOT Framework survey]] (n=72) grounds design thinking in open-systems theory and found practitioners frequently use iterative prompting and content generation but underuse needs assessment and feedback loops — a practice-versus-theory gap that operationalizes AI as a fallible co-intelligent collaborator under [[human-in-the-loop-ai]] oversight. Even [[social-robot-study-companions|co-creating open social robots]] with students applied the Double Diamond (a design-thinking variant), redesigning the build around accessibility so that repairability and [[open-source]] principles become sites of continued learning.
+
+**The mindset itself is measurable, and it moves across a program.** [[design-thinking-aigc-fashion-film-2026|Liu et al. (2026)]] validated five design thinking mindset dimensions in 409 AIGC-using fashion film students and found third-year students higher on all five, with abductive reasoning (0.865) and creative confidence (0.760) the largest standardized differences — a design education outcome that generated alternatives alone does not evidence.
 
 ## Practical guidance
 
@@ -80,6 +82,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[arts-design-and-media-education]]
 
 ## Connected Articles
+- [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)
 
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios

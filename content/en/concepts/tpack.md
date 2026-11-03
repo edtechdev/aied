@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-10-26T10:50:00-04:00"
+updated: "2026-11-03T09:40:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, tpack, teacher-ai-competency]
 technology: [generative-ai]
@@ -84,6 +84,8 @@ the subject is built.
 
 TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into [[learning-gains|learning gains]]. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[educational-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework. The framework is now being extended to evaluate whole programs: [[wu-li-evaluation-indicator-ai-certificate-programs-2026|Wu & Li (2026)]] build an AHP-Fuzzy-AHP evaluation system for AI certificate programs on TPACK dimensions and find that faculty professional competence — not technical infrastructure — is the largest gap between expert priority and current provision, signaling that credentialing should invest in teachers' integrated pedagogical capacity.
 
+**The mediation runs mostly through ease of use.** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] tested six indirect paths from [[ai-literacy|AI literacy]] and TPACK to deep learning in 423 pre-service teachers: TPACK through perceived ease of use was largest (0.212) and AI literacy through usefulness smallest (0.033), so integration knowledge worked through usability rather than utility.
+
 ## Design Implications
 
 1. **Train the intersections, not just tools.** PD should build technological, pedagogical, and content knowledge together rather than offering isolated tool training — the core TPACK design principle.
@@ -113,6 +115,7 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ai-literacy-tpack-preservice-2026]] — Perceived AI literacy and TPACK in pre-service teacher education: mediation through usefulness, ease of use and value (Zhao 2026)
 - [[wu-li-evaluation-indicator-ai-certificate-programs-2026]] — Evaluation Indicator System for AI Certificate Programs
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Cross-level study: 'pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — In-service teachers' TPACK-GenAI and the mediating role of pedagogical knowledge (Mohebi & ElSayary 2026)

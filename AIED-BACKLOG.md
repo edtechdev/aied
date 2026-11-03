@@ -7,7 +7,19 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-02
-**Total backlog:** 0 articles awaiting ingest (every entry from the 2026-11-01 and 2026-11-02 windows is now ingested or recorded in `rejected-sources.yaml`) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 2 articles awaiting ingest (both blocked by a publisher bot check; see the 2026-11-03 entry) · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-03)
+
+Twelve articles were ingested this run (three arXiv, nine OpenAlex journal-watch), each with full
+text saved under `raw/papers/`. Two in-scope candidates cleared the relevance screen but could not
+be ingested because Taylor & Francis serves them to automated requests as an empty landing page
+(435 characters of navigation chrome, no body). They are open access, so a browser session or a
+maintainer-supplied PDF would unblock either:
+
+- [AI in mathematics classrooms: a synergistic strategy for diversity and inclusivity](https://doi.org/10.1080/2331186x.2026.2751871) — [DOI: 10.1080/2331186X.2026.2751871](https://doi.org/10.1080/2331186x.2026.2751871)
+- [Sustained use of generative artificial intelligence (GenAI) in programming education: a systematic review of empirical evidence on adoption, learning outcomes, and continuance intention](https://doi.org/10.1080/2331186x.2026.2745324) — [DOI: 10.1080/2331186X.2026.2745324](https://doi.org/10.1080/2331186x.2026.2745324)
+
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-02)
 

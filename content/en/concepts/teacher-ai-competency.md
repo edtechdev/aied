@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-02T10:40:00-05:00"
+updated: "2026-11-03T09:52:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -55,6 +55,8 @@ Readiness should be ordered and measured accordingly: the Capability–Decision 
 **Emotional and moral readiness is a distinct dimension.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] surveyed the academic staff of a Maltese [[higher-ed|university]] (109 respondents) and built an AI Guilt Index (α = 0.88) from four moral-emotion items, finding that *anticipatory* guilt outweighed remorse experienced after use: the strongest endorsement was worry that AI use undermines one's credibility (34.9% agreeing), then feeling like one is [[academic-integrity|cheating]] when using it (25.7%), while post-use remorse drew only 9.2%. The findings that matter for competency frameworks are that non-users reported *higher* guilt than users (M = 3.25 vs M = 2.32) and that guilt fell as career security rose — early-career academics reported the most (M = 2.71) and senior academics the least (M = 2.03). Emotional readiness is therefore not captured by skill or confidence measures, and the paper argues competency frameworks should treat guilt and identity concern as normal transitional responses rather than faults to correct.
 
 A stronger version of that reframing holds that GenAI is a threshold concept rather than a skills gap: an autoethnographic account argues faculty [[anxiety-and-stress|anxiety]] and resistance are constitutive of threshold crossing, so skills-based training fails and principled non-adoption should be respected rather than corrected ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
+
+**Competency shows up as repair, not just prompting.** With 7 middle school mathematics teachers rewriting 143 problems, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] coded 415 follow-up prompts: most corrected realism, readability or mathematical structure, and six caught inappropriate or biased output — teacher judgment operating as [[human-in-the-loop-ai|monitoring]] of the generated task rather than as prompt fluency.
 
 ## The competency gap
 
@@ -160,6 +162,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization of middle school mathematics tasks with ChatGPT (Walkington et al. 2026)
 
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Which teachers gained planning time: lower subject-knowledge confidence, lower pedagogical knowledge, newer to the profession or high technology confidence
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Teachers accept AI while misunderstanding how it works (Aji et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-02T09:55:00-05:00"
+updated: "2026-11-03T09:40:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 foundations: [academic-integrity]
@@ -78,6 +78,8 @@ The outcome construct moves the estimate too: in a three-level meta-analysis of 
 
 AI-aware grading takes a third path between redesign and detection. AICG estimates a per-response AI-use probability and discounts the cognitive evidence by `max(δ, 1 − pAI)` rather than docking the grade, lowering MAE by 4.2% over the unweighted cognitive model and keeping AI-assisted responses scoreable ([[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026|Guo et al., 2026]]).
 
+**Policy has moved to graded permission, and to assurance over friction.** Coding 55 institutional documents, [[ansari-policing-provenance-designing-for-evidence-2026|Ansari (2026)]] found 4 prohibiting AI by default and 31 defining named categories of use, and of the 23 taking a position on [[ai-detection|detection]], 16 rejected detectors. Redesign, on that reading, is redesign plus an assurance mechanism rather than friction alone.
+
 ### Connections
 
 Assessment validity connects to [[authentic-assessment]], [[automated-assessment|Automated Grading]], [[automated-assessment|Confidence Aware AI Assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
@@ -150,6 +152,7 @@ Run-to-run stability is not guaranteed, however: repeating the same grading on i
 - [[assessment]]
 
 ## Connected Articles
+- [[ansari-policing-provenance-designing-for-evidence-2026]] — From policing provenance to designing for evidence: four propositions tested against research and policy (Ansari 2026)
 
 - [[embedding-similarity-clustering-handwritten-physics-2026]] — Embedding similarity correlated with human scores at 0.198 at best
 - [[corbin-ai-glasses-wearable-ai-assessment-2026]] — Wearable AI dissolves separability and observability, so a supervised candidate can still not demonstrate unaided capability (Corbin, Sharpe & Dawson 2026)

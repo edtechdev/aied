@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-02T12:58:00-05:00"
+updated: "2026-11-03T09:40:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -113,6 +113,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 ## Common Misconceptions
 
 - **"A knowledge-state estimate inherits its validity from the data."** **The Q-matrix linking items to attributes is an assumption, not data**: rejected entries for **14 of 918 analyzed items** means the mapping itself required adjudication. Validating the mapping is a step, not a formality.
+- **LLMs reading clickstreams against named learning strategies.** [[radmehr-clicksight-clickstream-learning-strategies-2026|Radmehr et al. (2026)]] stage an [[llm|LLM]] pipeline that locates evidence for a strategy in a student's trace, judges adherence, and cites the actions behind the judgment, reaching overall quality of 0.735 in a harder simulation against 0.704 for a flat baseline.
 - **"Analytics need clickstream traces."** Knowledge states can be estimated within Outcome-Based Education by **tracing course outcomes directly from LMS interaction and attainment data**, using OBE affinity mappings — the institutional record supplies the signal.
 - **"Prediction without an action window is useful."** Progress prediction is most usable when it is **interpretable and paired with an action window**: [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries and Koprinska (2025)]] predict module-level outcomes, which is a form an advisor can act on, unlike a raw score.
 
@@ -136,6 +137,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[student-support-and-success]] — the support side that prediction feeds: referral, allocation, and the outcomes they do or do not move
 
 ## Connected Articles
+- [[radmehr-clicksight-clickstream-learning-strategies-2026]] — ClickSight: interpreting clickstreams through literature-defined learning strategies (Radmehr et al. 2026)
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Human-AI exchanges as structured records: prompt counts carry almost no signal about progress
 - [[ai-integrated-math-argumentation-teacher-noticing-2026]] — Noticing and orchestrating AI analyses into collective argumentation (Lee, Park & Lee 2026)

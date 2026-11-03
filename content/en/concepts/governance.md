@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-10-28T19:28:52-04:00"
+updated: "2026-11-03T09:40:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -87,6 +87,8 @@ Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management
 
 **Care ethics puts responsibility on the institution that adopted the tool.** [[jones-care-ethics-ai-governance-higher-education-2026|Jones (2026)]] locates responsibility with the institution that chose the system, not the vendor or the instructor who noticed the pattern, and asks whether the same rules bind the administrators who write them as the students who live under them.
 
+**Most institutions cannot name who owns AI.** Among 387 students and staff at institutions in 13 countries, only 17% knew of a designated AI-management responsibility, while 71% of the remainder wanted one and expected it to combine training, ethical oversight, data security and strategy ([[kaze-ai-management-higher-ed-2026|Kaže et al. (2026)]]).
+
 ### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to [[change-management|institutional change]] and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
@@ -133,6 +135,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[student-support-and-success]] — oversight for institutional AI support systems
 
 ## Connected Articles
+- [[kaze-ai-management-higher-ed-2026]] — AI adoption in higher education: the case for designated AI management (Kaže et al. 2026)
 - [[jones-care-ethics-ai-governance-higher-education-2026]] — Care ethics for institutional AI governance, the five components and the institutional questions they turn into
 - [[generative-ai-governance-education-scoping-review-2026]] — Generative AI governance in education: a scoping review of principles, mechanisms and risks (Elmahjub et al. 2026)
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
