@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
-updated: "2026-11-03T17:24:44-05:00"
+updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/pedagogical-patterns"
 source_updated: "2026-11-01T09:12:59-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

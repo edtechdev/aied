@@ -8,7 +8,7 @@ assessment: [assessment]
 connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
-updated: "2026-11-03T17:24:44-05:00"
+updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/self-efficacy"
 source_updated: "2026-11-03T11:05:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

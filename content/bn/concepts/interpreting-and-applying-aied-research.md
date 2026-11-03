@@ -11,7 +11,7 @@ audience: [instructors, administrators, instructional designers, software develo
 page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
-updated: "2026-11-03T17:24:44-05:00"
+updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/interpreting-and-applying-aied-research"
 source_updated: "2026-10-25T16:25:00-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

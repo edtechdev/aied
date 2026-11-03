@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
-updated: "2026-11-03T17:24:44-05:00"
+updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/student-engagement"
 source_updated: "2026-11-01T09:06:35-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
@@ -144,11 +144,11 @@ ai_assist:
 - আবেগ থেকে অর্জন অনুমান করা এড়িয়ে চলুন। ক্লাস্টার-এলোমেলো বিভক্ত ফলাফলই উভয়—শূন্য ফলসহ—প্রতিবেদনের আদর্শ।
 
 ## সংযুক্ত ধারণা
-- [[learners]]
-- [[pedagogical-partnerships]]
-- [[community-of-inquiry]]
+- [[learners]] — শিক্ষার্থী: শিক্ষার্থী-সংক্রান্ত ধারণাগুলোর ছাতা
+- [[pedagogical-partnerships]] — শিক্ষণ-সহযোগিতা
+- [[community-of-inquiry]] — অনুসন্ধানের সম্প্রদায় (CoI-এর একটি মাত্রা হিসেবে এজেন্টিক সম্পৃক্ততা)
 - [[eportfolio]]
-- [[online-teaching-and-learning]]
+- [[online-teaching-and-learning]] — অনলাইন শিক্ষাদান ও শিখন
 - [[motivation]]
 - [[self-determination-theory]]
 - [[student-experience]]
@@ -162,7 +162,7 @@ ai_assist:
 - [[research-methods-aied]]
 - [[higher-ed]]
 - [[framing-ai-use-for-students]]
-- [[stakeholders]]
+- [[stakeholders]] — ছাতা: এআই শিক্ষার মানুষ ও দর্শক (শিক্ষার্থী, শিক্ষক, নকশাকার, প্রশাসক, নীতিনির্ধারক)
 - [[self-report-measures]]
 - [[productive-failure]]
 

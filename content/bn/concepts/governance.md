@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
-updated: "2026-11-03T17:24:44-05:00"
+updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/governance"
 source_updated: "2026-11-03T09:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

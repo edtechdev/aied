@@ -10,7 +10,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai, asynchronous-online-cour
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-03T17:24:44-05:00"
+updated: "2026-11-03T17:36:22-05:00"
 translation_of: "concepts/self-regulated-learning"
 source_updated: "2026-11-03T09:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
