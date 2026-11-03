@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-01T09:06:35-05:00"
+updated: "2026-11-03T09:06:35-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -124,6 +124,7 @@ External support can also step in front of the judgment entirely. [[iqbal-human-
 1. **Preserve the "friction" of thinking:** If AI writes the reflection, the student does not build metacognitive skill. Journaling assistants should scaffold, not author.
 2. **Model metacognitive language:** The example-based course worked partly because it exposed students to proficient models' metacognitive self-talk.
 3. **Separate support for motivation vs. skill:** Metacognitive skill development (course-structured) and productivity enhancement (AI-assisted) may require different design strategies.
+4. **Name the target as onloading, and ration the help.** [[fan-metacognitive-offloading-sync-model-2026]] separates cognitive offloading, which stays under metacognitive control, from *metacognitive* offloading, where planning, monitoring, evaluation and judgment calibration are handed over. Their design target is metacognitive onloading: scaffolds that make the learner, not the AI, set goals, anticipate difficulty and judge strategies, placed within a prompt, across a task, and fading over time. The help rule is minimum-necessary: a hint or diagnostic question first, with deeper assistance unlocked only after the learner asks, monitors or chooses a direction. The paper is conceptual and its authors note that no validated measure of either construct yet exists.
 
 AI may alter the **metacognitive threshold** for deciding one knows enough to answer: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] found that mere access to AI advice suppressed people's willingness to suspend judgment under uncertainty, even with wrong advice and accuracy incentives — an effect that survived unsolicited AI output and monetary stakes.
 
@@ -204,3 +205,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[metacognitive-training-ai-socratic-scaffolding-preservice-2026]] — Metacognitive training and AI-based Socratic scaffolding in pre-service teachers' reflective practice: a dual-study experimental design
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: an experimental account of suspended metacognitive engagement and rising disorganization (Braun 2026)
 - [[ai-metacognition-three-level-meta-analysis-2026]] — Three-level meta-analysis: pooled g = 0.624, falling to non-significance for accuracy-rated monitoring (Li et al. 2026)
+- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC model: metacognitive offloading vs. onloading, and task performance decoupled from durable learning (Fan et al. 2026)

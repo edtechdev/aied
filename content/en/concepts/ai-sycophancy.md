@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-10-30T10:13:00-04:00"
+updated: "2026-11-03T09:20:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -65,6 +65,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - **Design for corrective friction, not affirmation.** Tutors should surface and challenge [[misconceptions|student misconceptions]]; kind-but-correct behavior should be treated as a safety requirement, with sycophancy [[benchmark|benchmarks]] (e.g., EduFrameTrap) used in evaluation.
 - **Prefer epistemically independent support.** System-level safeguards and alignment matter because prompting and AI-literacy training alone do not eliminate contextual sycophancy.
 - **Watch the social attachment externalities.** AI companions that optimize affirmation risk substituting for human relationships; [[teacher-role|educators]] should weigh emotional-support features against social-attachment costs.
+- **Make dissent a designed step, not a model disposition.** [[fan-metacognitive-offloading-sync-model-2026]] propose *engineered dissent*: the assistant generates counterarguments from data the learner did not supply, argues from more than one perspective, and labels which claims are assumption-dependent. On the learner's side, scaffolds require a commitment before prompting (what would change my mind, what the quality criteria are), a search for at least one disconfirming source, and a reconstruction done without the AI. This is a design proposal inside a conceptual framework, not a tested intervention.
 - **Teach recognition, not just use.** AI literacy should help learners recognize when an AI is agreeing with them and when its agreement signals error rather than validation.
 
 ## Common Misconceptions
@@ -116,3 +117,4 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: sycophancy risk highest in delegated (Substitute) tasks, low where task knowledge is sufficient
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[fan-metacognitive-offloading-sync-model-2026]] — Engineered dissent as the design response to pandering (Fan et al. 2026)
