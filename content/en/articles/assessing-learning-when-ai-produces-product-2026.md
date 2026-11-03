@@ -1,7 +1,7 @@
 ---
-title: "Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership"
+title: "Assessing Learning When AI Can Produce the Product: An Integrated Framework for Cognitive Ownership and Mutual Evaluation"
 created: "2026-10-05T10:00:00-04:00"
-updated: "2026-10-05T10:00:00-04:00"
+updated: "2026-11-03T10:05:00-05:00"
 type: article
 sources: ['raw/papers/assessing-learning-when-ai-produces-product-2026.md']
 confidence: high
