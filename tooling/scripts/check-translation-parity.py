@@ -82,14 +82,14 @@ def h2_sections(body):
 CITATION_HEADING = re.compile(
     r'^\s*(?:citation|cita|zitation|citazione|citacao|citação|цитирование|цитування|ציטוט|引用|인용|'
     r'उद्धरण|الاستشهاد|atıf|atıflar|marejeleo|nukuu|nukta|citace|citiranje|citare|citácia|cytau|тын|nimewo|bron|'
-    r'kaynakça)\s*$', re.I)
+    r'kaynakça|উদ্ধৃতি)\s*$', re.I)
 
 
 def drop_citation_sections(text):
     """Remove every Citation section whole, heading and text, before structural comparison.
 
-    English puts Citation last; a translated page has to end with its connected lists, so its
-    citation section sits one place earlier and its POSITION cannot be compared.
+    English puts Citation last on the concept pages that carry one; a translated page may place it
+    either there or before its connected lists, so its POSITION is not compared.
     """
     parts = re.split(r'\n(?=## )', text)
     keep = [x for x in parts
@@ -100,10 +100,9 @@ def drop_citation_sections(text):
 def is_citation_heading(heading_text):
     """True for a translated Citation section.
 
-    English puts Citation last; a translated page has to end with its connected lists, which the
-    heading gate enforces, so the twin carries the same section one place earlier. Its POSITION
-    therefore cannot be compared, and it is excluded from the heading count and the shape vectors
-    on both sides rather than being reported as a difference in structure.
+    The heading is translated in every locale, and its position varies (English and most twins put
+    it last; some twins put it before the connected lists), so it is excluded from the heading count
+    and the shape vectors on both sides rather than reported as a structural difference.
     """
     return bool(CITATION_HEADING.match(heading_text.strip()))
 
@@ -280,7 +279,7 @@ def check_pair(en_path, loc, collection, slug, body_changed=True):
         msg = f'{label}: paragraphs per section {got_paras}, English {en_paras}'
         (errors if current else warnings).append(msg)
 
-    en_shape, got_shape = connected_shape(en_body), connected_shape(body)
+    en_shape, got_shape = connected_shape(en_counted), connected_shape(body_counted)
     if en_shape and got_shape:
         # Entry COUNTS are not compared: a translated Connected list is curated per locale and
         # is allowed to be longer or shorter than English (the Spanish lists were rebuilt
