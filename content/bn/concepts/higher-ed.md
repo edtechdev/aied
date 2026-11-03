@@ -9,7 +9,7 @@ audience: [learners, instructors, faculty developers, administrators]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:21:18-05:00"
 translation_of: "concepts/higher-ed"
 source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

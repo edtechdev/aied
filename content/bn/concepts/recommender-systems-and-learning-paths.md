@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, learners, researchers, instructional designers, software developers]
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:11:03-05:00"
 translation_of: "concepts/recommender-systems-and-learning-paths"
 source_updated: "2026-10-26T02:00:00-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

@@ -7,7 +7,7 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:11:03-05:00"
 translation_of: "concepts/ethics"
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

@@ -8,7 +8,7 @@ technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, promp
 audience: [learners]
 level: [higher ed]
 confidence: high
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:11:03-05:00"
 translation_of: "concepts/student-ai-interaction"
 source_updated: "2026-11-02T06:10:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

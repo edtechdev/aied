@@ -5,7 +5,7 @@ type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:21:18-05:00"
 translation_of: "concepts/conversational-ai"
 source_updated: "2026-10-28T01:06:31-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

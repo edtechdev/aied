@@ -11,7 +11,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:11:03-05:00"
 translation_of: "concepts/assessment"
 source_updated: "2026-10-28T19:24:33-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"

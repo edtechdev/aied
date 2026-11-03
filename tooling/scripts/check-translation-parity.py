@@ -118,11 +118,19 @@ def section_shape(section):
     still shifts the first number; a dropped bullet still shifts the second.
     """
     prose, bullets = 0, 0
+    is_bullet = lambda l: l.lstrip().startswith(('- ', '* ', '1. ', '+ '))
     for block in section.split('\n\n'):
         if not block.strip():
             continue
         lines = [l for l in block.split('\n') if l.strip()]
-        is_bullet = lambda l: l.lstrip().startswith(('- ', '* ', '1. ', '+ '))
+        # A heading glued to the text below it ('### UTAUT\nDescription...') is two things, so the
+        # heading is dropped before judging the block: English glues headings to their paragraphs on
+        # some pages while a proper translation separates them, and that difference is typography,
+        # not structure.
+        while lines and lines[0].startswith('#'):
+            lines = lines[1:]
+        if not lines:
+            continue
         bullets += sum(1 for l in lines if is_bullet(l))
         # A block is a prose block when its FIRST line is prose. Judging it by whether ANY line is
         # prose made an English bullet that the author hard-wrapped across several lines look like

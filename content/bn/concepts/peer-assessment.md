@@ -8,7 +8,7 @@ assessment: [ai-feedback-quality, formative-assessment, group-work]
 confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
-updated: "2026-11-03T17:46:49-05:00"
+updated: "2026-11-03T18:11:03-05:00"
 translation_of: "concepts/peer-assessment"
 source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
