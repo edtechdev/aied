@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Un student care folosește transcrierea pentru că tastarea nu este fiabilă. Nu
 **Un scor plus câțiva indicatori fac un dosar.** Nu fac. Standardul este proba care atinge balanța probabilităților, iar scorurile combinate cu marcaje, comparații de stil, judecăți LLM sau tăcere rămân sub el. Un test care merită aplicat este dacă ai spune raționamentul cu voce tare într-o audiere ([[bassett-ai-detectors-education-2026]]).
 
 **O licență de detector costă mai puțin decât reproiectarea evaluării.** Licența este cea mai mică linie bugetară și aduce cu ea expunere privind protecția datelor, muncă de achiziții și un flux permanent de contestații construite pe un instrument a cărui eroare este tipizată după originea lingvistică. Cadrele didactice descriu experiența ca „suspiciune fără recurs", așa că linia bugetară care schimbă rezultatele este capacitatea de verificare și îndrumarea ([[best-response-student-ai-dialog-2026]]).
+
+**Piața eludării este un produs al regimului de detectare, nu un rival al acestuia.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] au catalogat 55 de site-uri de umanizare a textelor IA și au constatat că cele pe care le-au analizat pe prima pagină a Google se vindeau pe niveluri freemium, cu programe de afiliere. Site-urile nu fac reclamă trișării: fac reclamă protecției împotriva falselor pozitive, siglelor universitare și corporative neexplicate plasate sub caseta de text, ratelor de succes de 99,8-100% și numărătorilor de utilizatori neverificabili, fără ca vreun site să indice o adresă comercială înregistrată. Consecința de politică este că detectarea și eludarea sunt două jumătăți ale aceleiași tranzacții: un furnizor vinde o clasificare a paternității unui text, celălalt vinde promisiunea de a o schimba, așa că eliminarea sau adăugarea unui detector schimbă cine profită de pe urma buclei fără să atingă cererea. Ce controlezi tu este cealaltă intrare: dacă studenții au o rută prin care să întrebe despre proveniență care nu începe cu suspiciunea și dacă [[ai-literacy]] acoperă citirea afirmațiilor comerciale despre IA așa cum acoperă citirea rezultatelor IA.
 
 **O interdicție generală protejează instituția.** Regulile supraincluzive pot elimina o adaptare și invită exact argumentul de discriminare pe care încercai să îl eviți, pentru că eroarea pe care o produc este concentrată pe grupuri identificabile, nu răspândită uniform ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

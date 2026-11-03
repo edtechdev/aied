@@ -8,8 +8,9 @@ assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +25,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -150,6 +155,8 @@ Mwanafunzi anayetumia unukuzi kwa sababu kuandika kwa kompyuta hakuaminiki. Taja
 **Alama pamoja na viashiria kadhaa hujumlisha kuwa kesi.** Hapana. Kiwango ni ushahidi unaofikia uzito wa uwezekano, na alama zilizochanganywa na viashiria, ulinganisho wa mitindo, hukumu za LLM au ukimya bado hazifikii. Jaribio moja linalofaa kutumika ni kama ungesema hoja hiyo kwa sauti kwenye kusikilizwa ([[bassett-ai-detectors-education-2026]]).
 
 **Leseni ya kigunduzi inagharimu kidogo kuliko kubuni upya tathmini.** Leseni ni kipengele kidogo zaidi cha bajeti, nayo inabeba hatari ya ulinzi wa data, kazi ya ununuzi, na mtiririko wa kudumu wa rufaa uliojengwa juu ya chombo ambacho kosa lake limepangwa kwa asili ya lugha. Walimu wanaelezea uzoefu kama "tuhuma bila njia ya kutetea," hivyo kipengele cha bajeti kinachobadilisha matokeo ni uwezo wa uthibitishaji na mwongozo ([[best-response-student-ai-dialog-2026]]).
+
+**Soko la ukwepaji ni zao la mfumo wa ugunduzi, si mpinzani wake.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe na wenzake (2026)]] waliorodhesha tovuti 55 za ubinadamu wa AI na kugundua kwamba zile walizochanganua kwenye ukurasa wa kwanza wa Google ziliuzwa kwa mafungu ya freemium yakiwa na programu za ushirikiano. Tovuti hizo hazitangazi udanganyifu: zinatangaza ulinzi dhidi ya chanya za uongo, nembo za vyuo vikuu na mashirika zisizoelezwa zilizowekwa chini ya kisanduku cha maandishi, viwango vya mafanikio vya 99.8-100%, na idadi ya watumiaji isiyoweza kuthibitishwa, huku hakuna tovuti inayoorodhesha anwani ya biashara iliyosajiliwa. Matokeo ya kisera ni kwamba ugunduzi na ukwepaji ni nusu mbili za muamala mmoja: muuzaji mmoja anauza uainishaji wa uandishi, mwingine anauza ahadi ya kuubadilisha, hivyo kuondoa au kuongeza kigunduzi hubadilisha nani ananufaika na mzunguko huo bila kugusa mahitaji. Unachodhibiti ni pembejeo nyingine: kama wanafunzi wana njia ya kuuliza kuhusu asili ya kazi ambayo haianzi na tuhuma, na kama [[ai-literacy]] inashughulikia kusoma madai ya kibiashara kuhusu AI kama inavyoshughulikia kusoma matokeo ya AI.
 
 **Marufuku ya jumla hulinda taasisi.** Kanuni zinazojumuisha kupita kiasi zinaweza kuondoa marekebisho na kualika hoja ya ubaguzi uliokuwa unajaribu kuiepuka, kwa sababu kosa linalozalisha limejikita kwa makundi yanayotambulika badala ya kuenea kwa usawa ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

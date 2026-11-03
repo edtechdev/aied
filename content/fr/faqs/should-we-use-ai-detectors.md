@@ -1,7 +1,7 @@
 ---
 title: "Devrait-on utiliser des détecteurs d'IA ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-01T10:11:41-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -155,6 +159,8 @@ Un étudiant qui recourt à la transcription parce que la frappe n'est pas fiabl
 **Un score plus deux ou trois indicateurs font un dossier.** Non. La norme est une preuve satisfaisant à la balance des probabilités, et des scores combinés à des marqueurs, des comparaisons de style, des jugements de LLM ou du silence restent en dessous. Un test utile : diriez-vous ce raisonnement à voix haute dans une audience ([[bassett-ai-detectors-education-2026]]) ?
 
 **Une licence de détecteur coûte moins que de reconcevoir l'évaluation.** La licence est le plus petit poste, et elle porte une exposition à la protection des données, du travail d'achat et un flux permanent d'appels fondés sur un instrument dont l'erreur suit l'origine linguistique. Les enseignants décrivent l'expérience comme « la suspicion sans recours », donc le poste budgétaire qui change les résultats, c'est la capacité de vérification et l'accompagnement ([[best-response-student-ai-dialog-2026]]).
+
+**Le marché de l'évasion est un produit du régime de détection, non un rival de celui-ci.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] ont recensé 55 sites d'humanisation de textes IA : ceux qu'ils ont analysés en première page de Google se vendaient par paliers freemium, avec des programmes d'affiliation. Ces sites ne font pas la promotion de la tricherie : ils vendent une protection contre les faux positifs, des logos universitaires et d'entreprise inexpliqués placés sous la zone de texte, des taux de réussite de 99.8-100% et des nombres d'utilisateurs invérifiables, aucun site n'indiquant d'adresse professionnelle enregistrée. La conséquence politique : détection et évasion sont les deux moitiés d'une même transaction, un fournisseur vend une classification de la paternité d'un texte, l'autre vend la promesse de la modifier. Retirer ou ajouter un détecteur change donc qui profite de la boucle sans toucher à la demande. Ce que vous contrôlez, c'est l'autre entrée : si les étudiants disposent d'une voie pour s'interroger sur la provenance qui ne commence pas par la suspicion, et si [[ai-literacy]] couvre la lecture des affirmations commerciales sur l'IA comme elle couvre la lecture des sorties d'IA.
 
 **Une interdiction générale protège l'établissement.** Des règles trop larges peuvent supprimer un aménagement et attirer l'argument de discrimination que vous cherchiez à éviter, parce que l'erreur qu'elles produisent se concentre sur des groupes identifiables au lieu de se répartir également ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

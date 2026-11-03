@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Seorang siswa yang memakai transkripsi karena mengetik tidak dapat diandalkan. S
 **Skor ditambah beberapa indikator berjumlah sebuah kasus.** Tidak. Standarnya adalah bukti yang memenuhi keseimbangan probabilitas, dan skor yang digabung dengan penanda, perbandingan gaya, pertimbangan LLM atau diamnya siswa tetap tidak memenuhinya. Satu uji yang layak diterapkan adalah apakah Anda akan mengucapkan penalaran itu dengan lantang dalam sidang ([[bassett-ai-detectors-education-2026]]).
 
 **Lisensi detektor lebih murah daripada merancang ulang penilaiannya.** Lisensi adalah pos terkecil, dan ia membawa paparan perlindungan data, pekerjaan pengadaan, dan arus banding permanen yang dibangun di atas instrumen yang galatnya berpola menurut latar bahasa. Fakultas menyebut pengalamannya sebagai “kecurigaan tanpa jalan keluar”, sehingga pos anggaran yang mengubah hasil adalah kapasitas verifikasi dan panduan ([[best-response-student-ai-dialog-2026]]).
+
+**Pasar penghindaran adalah produk dari rezim deteksi, bukan saingannya.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] mengatalogkan 55 situs penghumanisasi AI dan menemukan bahwa situs-situs yang mereka analisis di halaman pertama Google dijual dalam tingkatan freemium dengan program afiliasi. Situs-situs itu tidak memasarkan kecurangan: yang mereka pasarkan adalah perlindungan dari positif palsu, logo universitas dan korporasi tanpa penjelasan yang ditempatkan di bawah kotak teks, tingkat keberhasilan 99,8-100%, dan jumlah pengguna yang tidak dapat diverifikasi, tanpa satu pun situs mencantumkan alamat bisnis terdaftar. Konsekuensi kebijakannya adalah bahwa deteksi dan penghindaran merupakan dua bagian dari satu transaksi: satu vendor menjual klasifikasi kepenulisan, yang lain menjual janji mengubahnya, sehingga mencabut atau menambah detektor mengubah siapa yang mengambil untung dari lingkaran itu tanpa menyentuh permintaannya. Yang Anda kendalikan adalah masukan lainnya: apakah siswa memiliki jalur untuk bertanya tentang asal-usul karya yang tidak dimulai dari kecurigaan, dan apakah [[ai-literacy]] mencakup pembacaan klaim komersial tentang AI sebagaimana ia mencakup pembacaan keluaran AI.
 
 **Larangan menyeluruh melindungi institusi.** Aturan yang terlalu inklusif dapat mencabut akomodasi dan mengundang argumen diskriminasi yang justru ingin Anda hindari, karena galat yang dihasilkannya terkonsentrasi pada kelompok yang dapat diidentifikasi alih-alih tersebar merata ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Devemos usar detectores de IA?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Tradução automática da página em inglês, ainda sem revisão de uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -151,6 +155,8 @@ Um estudante que usa transcrição porque digitar não é confiável. Nomeie fer
 **Um escore mais alguns indicadores somam um caso.** Não somam. O padrão é evidência que atenda ao balanço de probabilidades, e escores combinados com marcadores, comparações de estilo, julgamentos de LLM ou silêncio ainda ficam aquém. Um teste que vale aplicar é se você diria o raciocínio em voz alta em uma audiência ([[bassett-ai-detectors-education-2026]]).
 
 **Uma licença de detector custa menos do que redesenhar a avaliação.** A licença é o menor item da linha, e carrega exposição de proteção de dados, trabalho de compras e um fluxo permanente de recursos construídos sobre um instrumento cujo erro é padronizado pela origem linguística. Docentes descrevem a experiência como "suspeita sem recurso", então a linha de orçamento que muda resultados é capacidade de verificação e orientação ([[best-response-student-ai-dialog-2026]]).
+
+**O mercado da evasão é um produto do regime de detecção, não um rival dele.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalogaram 55 sites de humanização de texto por IA e constataram que os que analisaram na primeira página do Google vendiam em níveis freemium, com programas de afiliação. Os sites não fazem propaganda de trapaça: vendem proteção contra falsos positivos, logotipos universitários e corporativos inexplicados sob a caixa de texto, taxas de sucesso de 99,8-100% e contagens de usuários não verificáveis, sem que nenhum site liste um endereço comercial registrado. A consequência política é que detecção e evasão são duas metades de uma mesma transação — um fornecedor vende uma classificação de autoria, o outro vende a promessa de alterá-la — de modo que remover ou acrescentar um detector muda quem lucra com o ciclo sem tocar na demanda. O que você controla é a outra entrada: se os estudantes têm uma via para perguntar sobre proveniência que não comece pela suspeita, e se [[ai-literacy]] cobre a leitura de alegações comerciais sobre IA do mesmo modo como cobre a leitura da saída de IA.
 
 **Uma proibição geral protege a instituição.** Regras excessivamente abrangentes podem retirar uma adaptação e atrair o argumento de discriminação que você tentava evitar, porque o erro que elas produzem se concentra em grupos identificáveis em vez de se distribuir de forma uniforme ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

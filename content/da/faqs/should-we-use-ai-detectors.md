@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ En studerende, der bruger transskription, fordi tastning er upålidelig. Nævn [
 **En score plus et par indikatorer giver tilsammen en sag.** Det gør de ikke. Standarden er beviser, der opfylder kravet om overvejende sandsynlighed, og scorer kombineret med markører, stilistiske sammenligninger, LLM-vurderinger eller tavshed når stadig ikke dertil. En test værd at anvende er, om du ville sige ræsonnementet højt i en høring ([[bassett-ai-detectors-education-2026]]).
 
 **En detektorlicens koster mindre end at redesigne bedømmelsen.** Licensen er den mindste post, og den bærer databeskyttelseseksponering, indkøbsarbejde og en permanent strøm af klager bygget på et instrument, hvis fejl er mønstret efter sproglig baggrund. Undervisere beskriver oplevelsen som »mistanke uden adgang til at handle«, så den budgetpost, der ændrer udfald, er verifikationskapacitet og vejledning ([[best-response-student-ai-dialog-2026]]).
+
+**Markedet for omgåelse er et produkt af detektionsregimet, ikke en rival til det.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] katalogiserede 55 websteder til AI-humanisering og fandt, at dem, de analyserede, som lå på første side i Google, blev solgt i freemiumniveauer med affiliateprogrammer. Webstederne markedsfører ikke snyd: de markedsfører beskyttelse mod falske positive, uforklarede universitets- og virksomhedslogoer anbragt under tekstfeltet, succesrater på 99,8-100 % og tal for brugere, der ikke kan verificeres, uden at noget websted angiver en registreret forretningsadresse. Den politiske konsekvens er, at detektion og omgåelse er to halvdele af én transaktion, fordi den ene leverandør sælger en klassifikation af forfatterskab og den anden løftet om at ændre den, så fjernelse eller tilføjelse af en detektor ændrer, hvem der tjener på løkken, uden at røre efterspørgslen. Det, du kontrollerer, er det andet input: om studerende har en vej til at spørge om herkomst, der ikke begynder med mistanke, og om [[ai-literacy]] dækker læsning af kommercielle påstande om AI, som det dækker læsning af AI-output.
 
 **Et generelt forbud beskytter institutionen.** Regler, der favner for bredt, kan fjerne en tilpasning og indbyde det diskriminationsargument, du forsøgte at undgå, fordi fejlen, de producerer, er koncentreret på identificerbare grupper i stedet for jævnt fordelt ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

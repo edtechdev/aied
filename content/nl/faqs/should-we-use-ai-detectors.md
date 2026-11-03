@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Een student die transcriptie gebruikt omdat typen onbetrouwbaar is. Noem [[assis
 **Een score plus een paar indicatoren telt op tot een zaak.** Dat doet het niet. De norm is bewijs dat het waarschijnlijkheidsoverwicht haalt, en scores gecombineerd met markers, stijlvergelijkingen, LLM-oordelen of zwijgen blijven daaronder. Een toets die de moeite waard is: zou u de redenering hardop durven uitspreken in een zitting ([[bassett-ai-detectors-education-2026]]).
 
 **Een detectielicentie kost minder dan de toetsing herontwerpen.** De licentie is de kleinste post, en ze brengt blootstelling op het gebied van gegevensbescherming mee, inkoopwerk en een permanente stroom beroepen gebouwd op een instrument waarvan de fout door taalachtergrond wordt bepaald. Docenten beschrijven de ervaring als “verdenking zonder verhaal”, dus de begrotingspost die uitkomsten verandert is verificatiecapaciteit en begeleiding ([[best-response-student-ai-dialog-2026]]).
+
+**De omzeilingsmarkt is een product van het detectieregime, geen rivaal ervan.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] inventariseerden 55 sites voor AI-humanisering en vonden dat de exemplaren die zij analyseerden, die op de eerste pagina van Google stonden, werden verkocht in freemiumpakketten met affiliateprogramma's. De sites marketen geen fraude: ze marketen bescherming tegen fout-positieven, onverklaarde universiteits- en bedrijfslogo's onder het tekstvak, slagingspercentages van 99,8%-100% en niet-verifieerbare gebruikersaantallen, waarbij geen enkele site een geregistreerd bedrijfsadres vermeldt. De beleidsconsequentie is dat detectie en omzeiling twee helften van één transactie zijn, want de ene leverancier verkoopt een classificatie van auteurschap en de andere de belofte om die te veranderen, zodat het verwijderen of toevoegen van een detector verandert wie er aan de lus verdient zonder de vraag aan te raken. Wat u beheerst, is de andere input: of studenten een route hebben om naar herkomst te vragen die niet met verdenking begint, en of [[ai-literacy]] het lezen van commerciële claims over AI dekt zoals het het lezen van AI-output dekt.
 
 **Een algemeen verbod beschermt de instelling.** Te ruime regels kunnen een voorziening wegnemen en het discriminatieargument uitlokken dat u wilde vermijden, omdat de fout die ze opleveren zich concentreert bij identificeerbare groepen in plaats van gelijkmatig te zijn verdeeld ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Dovremmo usare i rilevatori di IA?"
 created: "2026-10-14T22:50:00-04:00"
-updated: "2026-11-01T11:35:26-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -151,6 +155,8 @@ Uno studente che usa la trascrizione perché digitare non è affidabile. Nomina 
 **Un punteggio più un paio di indicatori fa un caso.** Non è così. Lo standard è una prova che raggiunga la probabilità prevalente, e punteggi combinati con indicatori, confronti di stile, giudizi di LLM o silenzio restano comunque sotto. Un test utile è chiederti se diresti quel ragionamento ad alta voce in un'udienza ([[bassett-ai-detectors-education-2026]]).
 
 **Una licenza di rilevamento costa meno che ridisegnare la valutazione.** La licenza è la voce più piccola, e porta con sé esposizione sulla protezione dei dati, lavoro di approvvigionamento e un flusso permanente di appelli costruiti su uno strumento il cui errore è schemato dal retroterra linguistico. I docenti descrivono l'esperienza come "sospetto senza rimedio", quindi la voce di bilancio che cambia gli esiti è la capacità di verifica e l'accompagnamento ([[best-response-student-ai-dialog-2026]]).
+
+**Il mercato dell'elusione è un prodotto del regime di rilevamento, non un suo rivale.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] hanno catalogato 55 siti di umanizzazione di testi IA e hanno trovato che quelli che hanno analizzato in prima pagina su Google si vendevano su livelli freemium, con programmi di affiliazione. I siti non pubblicizzano l'imbroglio: pubblicizzano la protezione dai falsi positivi, loghi universitari e aziendali inspiegati collocati sotto la casella di testo, tassi di successo del 99,8-100% e conteggi di utenti non verificabili, senza che nessun sito indichi una sede commerciale registrata. La conseguenza politica è che rilevamento ed elusione sono due metà di un'unica transazione: un fornitore vende una classificazione della paternità di un testo, l'altro vende la promessa di cambiarla, quindi togliere o aggiungere un rilevatore cambia chi guadagna dal circuito senza toccare la domanda. Ciò che controlli è l'altro input: se gli studenti hanno una via per chiedere della provenienza che non parta dal sospetto, e se [[ai-literacy]] copre la lettura delle affermazioni commerciali sull'IA come copre la lettura dell'output dell'IA.
 
 **Un divieto generale protegge l'istituzione.** Regole troppo inclusive possono togliere un adattamento e invitare proprio l'argomento di discriminazione che cercavi di evitare, perché l'errore che producono si concentra su gruppi identificabili invece di distribuirsi in modo uniforme ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

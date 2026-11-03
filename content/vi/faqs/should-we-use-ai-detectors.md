@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Một sinh viên dùng chép lời vì việc gõ phím không đáng tin. Hãy 
 **Một điểm số cộng vài chỉ báo là thành một vụ việc.** Không phải vậy. Tiêu chuẩn là bằng chứng đạt mức cân bằng xác suất, và điểm số kết hợp với các dấu hiệu, so sánh phong cách, phán đoán của LLM hay sự im lặng vẫn chưa đủ. Một phép thử đáng áp dụng là liệu bạn có dám nói lập luận đó thành lời trong một phiên điều trần hay không ([[bassett-ai-detectors-education-2026]]).
 
 **Một giấy phép công cụ phát hiện tốn ít hơn việc thiết kế lại bài đánh giá.** Giấy phép là khoản mục nhỏ nhất, và nó mang theo rủi ro bảo vệ dữ liệu, công việc mua sắm, và một dòng kháng nghị vĩnh viễn dựa trên một công cụ mà sai số của nó có khuôn mẫu theo nền tảng ngôn ngữ. Giảng viên mô tả trải nghiệm đó là “nghi ngờ không có lối giải”, nên khoản ngân sách thay đổi được kết quả là năng lực xác minh và hướng dẫn ([[best-response-student-ai-dialog-2026]]).
+
+**Thị trường né tránh là sản phẩm của chế độ phát hiện, không phải đối thủ của nó.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe và cộng sự (2026)]] đã lập danh mục 55 trang web ngụy trang văn bản AI và thấy những trang họ phân tích trên trang nhất của Google bán theo gói freemium kèm chương trình tiếp thị liên kết. Các trang này không tiếp thị việc gian lận: chúng tiếp thị sự bảo vệ khỏi dương tính giả, các logo đại học và doanh nghiệp không rõ nguồn gốc đặt dưới ô văn bản, tỷ lệ thành công 99.8%-100%, và số người dùng không kiểm chứng được, mà không trang nào ghi địa chỉ kinh doanh đã đăng ký. Hệ quả chính sách: phát hiện và né tránh là hai nửa của cùng một giao dịch, một nhà cung cấp bán cách phân loại quyền tác giả, nhà kia bán lời hứa thay đổi nó. Vì vậy bỏ hay thêm một công cụ phát hiện chỉ đổi ai hưởng lợi từ vòng lặp, không chạm tới nhu cầu. Điều bạn kiểm soát là đầu vào còn lại: liệu sinh viên có đường hỏi về nguồn gốc mà không bắt đầu từ nghi ngờ, và liệu [[ai-literacy]] có dạy đọc các tuyên bố thương mại về AI như cách nó dạy đọc đầu ra của AI hay không.
 
 **Một lệnh cấm toàn diện bảo vệ tổ chức.** Những quy tắc bao trùm quá rộng có thể tước đi một điều chỉnh hỗ trợ và mời gọi chính lập luận phân biệt đối xử mà bạn đang muốn tránh, vì sai số chúng tạo ra tập trung vào những nhóm nhận diện được chứ không trải đều ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Student koji rabi transkripciju jer je tipkanje nepouzdano. Imenujte [[assistive
 **Rezultat plus nekoliko pokazatelja daje slučaj.** Ne daje. Standard su dokazi koji zadovoljavaju prevagu vjerojatnosti, a rezultati u kombinaciji s pokazateljima, usporedbama stila, prosudbama LLM-a ili šutnjom i dalje ostaju ispod njega. Jedan test vrijedi primijeniti: biste li to obrazloženje izgovorili naglas na saslušanju ([[bassett-ai-detectors-education-2026]]).
 
 **Licenca za detektor košta manje od preoblikovanja procjene.** Licenca je najmanja stavka, a nosi izloženost zaštiti podataka, nabavni posao i trajan priljev žalbi utemeljenih na instrumentu čija je pogreška obrascem vezana uz jezično podrijetlo. Nastavnici to iskustvo opisuju kao „sumnju bez pravne zaštite“, pa je proračunska stavka koja mijenja ishode kapacitet za provjeru i savjetovanje ([[best-response-student-ai-dialog-2026]]).
+
+**Tržište izbjegavanja proizvod je režima detekcije, a ne njegov suparnik.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] katalogizirali su 55 stranica za „humanizaciju“ umjetne inteligencije i našli da su one koje su analizirali na prvoj stranici Googlea prodavane na freemium razinama s partnerskim programima. Stranice ne reklamiraju varanje: reklamiraju zaštitu od lažno pozitivnih rezultata, neobjašnjene logotipe sveučilišta i korporacija postavljene pod tekstualno polje, stopu uspješnosti od 99,8% do 100% i broj korisnika koji se ne može provjeriti, pri čemu nijedna stranica ne navodi registriranu adresu poslovanja. Posljedica za pravilnik jest da su detekcija i izbjegavanje dvije polovice iste transakcije: jedan dobavljač prodaje klasifikaciju autorstva, drugi prodaje obećanje da će je promijeniti, pa uklanjanje ili dodavanje detektora mijenja toga tko profitira od te petlje, a da pritom ne dira potražnju. Ono što vi kontrolirate drugi je ulaz: imaju li studenti put da pitaju o podrijetlu rada koji ne počinje sa sumnjom, i pokriva li [[ai-literacy]] čitanje komercijalnih tvrdnji o umjetnoj inteligenciji onako kako pokriva čitanje izlaza umjetne inteligencije.
 
 **Opća zabrana štiti ustanovu.** Preširoka pravila mogu ukinuti prilagodbu i pozvati argument o diskriminaciji koji ste htjeli izbjeći, jer je pogreška koju proizvode koncentrirana na prepoznatljive skupine, a ne ravnomjerno raspoređena ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

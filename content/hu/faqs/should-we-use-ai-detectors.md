@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Egy hallgató, aki azért használ átírást, mert a gépelés megbízhatatlan.
 **Egy pontszám plusz néhány indikátor ügyet ad ki.** Nem ad. A standard a valószínűségek mérlegét elérő bizonyíték, és a pontszámok markerekkel, stílus-összehasonlításokkal, LLM-ítéletekkel vagy hallgatással összevonva is elmaradnak tőle. Egy érdemes teszt: kimondaná-e az érvelést hangosan egy meghallgatáson ([[bassett-ai-detectors-education-2026]]).
 
 **Egy detektorlicenc kevesebbe kerül, mint az értékelés újratervezése.** A licenc a legkisebb tétel, és magával hozza az adatvédelmi kitettséget, a beszerzési munkát és a fellebbezések állandó áradatát egy olyan eszköz miatt, amelynek hibája a nyelvi háttér szerint mintázott. Az oktatók „támasz nélküli gyanúként” írják le a tapasztalatot, így a költségvetési sor, amely megváltoztatja az eredményeket, az ellenőrzési kapacitás és az útmutatás ([[best-response-student-ai-dialog-2026]]).
+
+**A kikerülési piac a detektálási rendszer terméke, nem a riválisa.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] 55 MI-humanizáló oldalt vett számba, és azt találta, hogy az általuk elemzettek a Google első oldalán jelentek meg, freemium szinteken és affiliate-programokkal értékesítve. Az oldalak nem a csalást marketingelik: a téves pozitívok elleni védelmet, a szövegdoboz alá helyezett megmagyarázatlan egyetemi és vállalati logókat, 99,8-100%-os sikerarányokat és ellenőrizhetetlen felhasználószámokat árulnak, és egyetlen oldal sem tüntet fel bejegyzett üzleti címet. A szakpolitikai következmény az, hogy a detektálás és a kikerülés egyetlen tranzakció két fele: az egyik szállító a szerzőség osztályozását adja el, a másik az annak megváltoztatására tett ígéretet, így egy detektor eltávolítása vagy hozzáadása megváltoztatja, ki profitál a körből, anélkül hogy a kereslethez hozzányúlna. Amit Ön irányít, az a másik bemenet: hogy a hallgatóknak van-e olyan útjuk, amelyen a származásról gyanú nélkül kérdezhetnek, és hogy az [[ai-literacy]] ugyanúgy kiterjed-e az MI-ről szóló kereskedelmi állítások olvasására, ahogy az MI-kimenet olvasására kiterjed.
 
 **Az átfogó tiltás védi az intézményt.** A túl széles szabályok elvehetnek egy méltányosítást, és meghívják azt a diszkriminációs érvet, amelyet el akart kerülni, mert az általuk termelt hiba azonosítható csoportokon összpontosul, nem oszlik el egyenletesen ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

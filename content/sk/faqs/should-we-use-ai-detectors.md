@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Niekto, kto text vygeneroval a nedokáže ho vysvetliť. To je prípad, na ktor�
 **Skóre plus pár indikátorov dá dokopy prípad.** Nedá. Normou sú dôkazy spĺňajúce rovnováhu pravdepodobností a skóre spojené s markermi, porovnaniami štýlu, úsudkami LLM alebo mlčaním stále nestačí. Jedno užitočné kritérium je, či by ste to uvažovanie vyslovili nahlas na pojednávaní ([[bassett-ai-detectors-education-2026]]).
 
 **Licencia na detektor stojí menej než prerobenie hodnotenia.** Licencia je najmenšia položka a nesie so sebou riziko ochrany údajov, prácu pri obstarávaní a trvalý prúd odvolaní postavených na nástroji, ktorého chyba je vzorovaná jazykovým zázemím. Učitelia tú skúsenosť opisujú ako „podozrenie bez prostriedkov obrany“, takže rozpočtová položka, ktorá mení výsledky, je kapacita na overovanie a usmernenia ([[best-response-student-ai-dialog-2026]]).
+
+**Trh s obchádzaním detekcie je produktom detekčného režimu, nie jeho rivalom.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe a kol. (2026)]] zmapovali 55 webov zameraných na humanizáciu AI a zistili, že tie, ktoré analyzovali, boli na prvej strane Googlu a predávali sa v úrovniach freemium s affiliate programami. Weby nepredávajú podvádzanie: predávajú ochranu pred falošnými pozitívmi, nevysvetlené univerzitné a firemné logá umiestnené pod textovým poľom, úspešnosť 99,8 až 100 % a neoveriteľné počty používateľov, pričom žiadny web neuvádza registrovanú obchodnú adresu. Politickým dôsledkom je, že detekcia a obchádzanie sú dve polovice jednej transakcie: jeden dodávateľ predáva klasifikáciu autorstva, druhý predáva prísľub, že ju zmení, takže odstránenie alebo pridanie detektora mení, kto na tejto slučke zarába, bez toho, aby sa dotklo dopytu. Čo môžete riadiť, je druhý vstup: či študenti majú cestu, ako sa pýtať na pôvod práce, ktorá sa nezačína podozrením, a či [[ai-literacy]] pokrýva čítanie komerčných tvrdení o AI tak, ako pokrýva čítanie výstupov AI.
 
 **Plošný zákaz chráni inštitúciu.** Príliš široké pravidlá môžu odstrániť úpravu podmienok a privolať argument o diskriminácii, ktorému ste sa snažili vyhnúť, pretože chyba, ktorú produkujú, sa sústreďuje na identifikovateľné skupiny namiesto toho, aby bola rozložená rovnomerne ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

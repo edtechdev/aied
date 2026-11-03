@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Student, który korzysta z transkrypcji, bo pisanie na klawiaturze jest zawodne.
 **Ocena plus kilka wskaźników daje sprawę.** Nie daje. Standardem są dowody spełniające próg przewagi prawdopodobieństwa, a oceny połączone z markerami, porównaniami stylu, osądami modeli językowych albo milczeniem wciąż go nie spełniają. Warto zadać sobie jedno pytanie kontrolne: czy to rozumowanie dałoby się wypowiedzieć na głos podczas przesłuchania ([[bassett-ai-detectors-education-2026]]).
 
 **Licencja na detektor kosztuje mniej niż przeprojektowanie oceny.** Licencja jest najmniejszą pozycją, a niesie ekspozycję na ochronę danych, pracę zamówieniową i stały strumień odwołań opartych na narzędziu, którego błąd jest wzorowany przez pochodzenie językowe. Kadra opisuje to doświadczenie jako „podejrzenie bez drogi odwołania”, więc pozycją budżetową, która zmienia wyniki, jest zdolność weryfikacji i wsparcie merytoryczne ([[best-response-student-ai-dialog-2026]]).
+
+**Rynek obchodzenia detekcji jest produktem reżimu detekcji, a nie jego rywalem.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe i in. (2026)]] skatalogowali 55 stron humanizujących SI i ustalili, że te, które przeanalizowali, znajdowały się na pierwszej stronie wyników Google i były sprzedawane w modelach freemium z programami afiliacyjnymi. Strony nie sprzedają oszukiwania: sprzedają ochronę przed fałszywymi trafieniami, niewyjaśnione logotypy uniwersytetów i firm umieszczane pod polem tekstowym, skuteczność na poziomie 99,8-100% oraz niemożliwe do zweryfikowania liczby użytkowników, a żadna nie podaje zarejestrowanego adresu działalności. Skutkiem politycznym jest to, że detekcja i obchodzenie jej to dwie połowy jednej transakcji: jeden dostawca sprzedaje klasyfikację autorstwa, drugi sprzedaje obietnicę jej zmiany, więc usunięcie lub dodanie detektora zmienia to, kto czerpie korzyści z tej pętli, nie zmieniając samego popytu. To, co można kontrolować, to drugi czynnik: czy studenci mają drogę do pytania o pochodzenie pracy, która nie zaczyna się od podejrzenia, oraz czy [[ai-literacy]] obejmuje czytanie komercyjnych twierdzeń o SI tak, jak obejmuje czytanie wyników SI.
 
 **Ogólny zakaz chroni instytucję.** Reguły zbyt szerokie mogą odebrać dostosowanie i zaprosić argument o dyskryminacji, którego chciano uniknąć, bo ich błąd koncentruje się na dających się zidentyfikować grupach, a nie rozkłada równo ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

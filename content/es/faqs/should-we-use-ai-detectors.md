@@ -1,7 +1,7 @@
 ---
 title: "¿Deberíamos usar detectores de IA?"
 created: "2026-09-22T18:29:10-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-03T12:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -152,6 +156,8 @@ Un estudiante que usa transcripción porque teclear no es fiable. Nombre las her
 **Una puntuación más un par de indicadores suma un caso.** No lo hace. El estándar es evidencia que alcance el equilibrio de probabilidades, y las puntuaciones combinadas con marcadores, comparaciones de estilo, juicios de LLM o silencio siguen quedándose cortas. Una prueba que vale la pena aplicar es si diría el razonamiento en voz alta en una audiencia ([[bassett-ai-detectors-education-2026]]).
 
 **Una licencia de detector cuesta menos que rediseñar la evaluación.** La licencia es la partida más pequeña, y conlleva exposición en protección de datos, trabajo de compras y un flujo permanente de apelaciones construido sobre un instrumento cuyo error sigue patrones por origen lingüístico. El profesorado describe la experiencia como "sospecha sin recurso", así que la partida presupuestaria que cambia resultados es la capacidad de verificación y la orientación ([[best-response-student-ai-dialog-2026]]).
+
+**El mercado de la evasión es producto del régimen de detección, no un rival de él.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalogaron 55 sitios de humanización de IA y encontraron que los que analizaron aparecían en la primera página de Google, vendidos en niveles freemium con programas de afiliados. Los sitios no venden trampas: venden protección frente a los falsos positivos, logotipos universitarios y corporativos inexplicados bajo el cuadro de texto, tasas de éxito del 99,8 % al 100 % y recuentos de usuarios no verificables, sin que ningún sitio indique una dirección comercial registrada. La consecuencia política es que detección y evasión son las dos mitades de una misma transacción: un proveedor vende una clasificación de autoría y el otro vende la promesa de cambiarla, de modo que retirar o añadir un detector cambia quién se beneficia del bucle sin tocar la demanda. Lo que usted controla es el otro factor: si los estudiantes tienen una vía para preguntar por la procedencia que no empiece por la sospecha, y si [[ai-literacy]] cubre la lectura de afirmaciones comerciales sobre la IA igual que cubre la lectura de resultados de IA.
 
 **Una prohibición general protege a la institución.** Las reglas demasiado amplias pueden eliminar un ajuste razonable e invitar al argumento de discriminación que usted intentaba evitar, porque el error que producen se concentra en grupos identificables en lugar de repartirse por igual ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

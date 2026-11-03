@@ -8,8 +8,9 @@ assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -24,6 +25,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -152,6 +157,8 @@ Klavye kullanımı güvenilir olmadığı için yazıya dökme kullanan öğrenc
 **Bir puan artı birkaç gösterge bir dosya eder.** Etmez. Standart, olasılık dengesini karşılayan kanıttır ve puanlar belirteçler, üslup karşılaştırmaları, LLM yargıları ya da sessizlikle birleştiğinde de standardın altında kalır. Uygulanmaya değer bir sınav şudur: bu gerekçe bir duruşmada yüksek sesle söylenir miydi ([[bassett-ai-detectors-education-2026]]).
 
 **Bir dedektör lisansı, değerlendirmeyi yeniden tasarlamaktan daha ucuza gelir.** Lisans en küçük kalemdir ve beraberinde veri koruma maruz kalmasını, satın alma işini ve hatası dil geçmişine göre kalıplaşmış bir araç üzerine kurulu kalıcı bir itiraz akışını getirir. Öğretim üyeleri deneyimi "başvuru imkânı olmayan şüphe" olarak tanımlıyor; yani sonuçları değiştiren bütçe kalemi doğrulama kapasitesi ve rehberliktir ([[best-response-student-ai-dialog-2026]]).
+
+**Kaçınma pazarı, tespit rejiminin bir ürünüdür, ona rakip değil.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe ve ark. (2026)]] 55 YZ-insanlaştırma sitesini katalogladı ve incelediklerinin Google'ın ilk sayfasında çıktığını, freemium kademelerle ve ortaklık programlarıyla satıldığını buldu. Siteler kopya çekmeyi pazarlamıyor: yanlış pozitiflerden korunmayı, metin kutusunun altına yerleştirilmiş açıklamasız üniversite ve şirket logolarını, %99,8-100 başarı oranlarını ve doğrulanamayan kullanıcı sayılarını pazarlıyor; hiçbir site kayıtlı bir işletme adresi belirtmiyor. Politika açısından sonuç şudur: tespit ile kaçınma tek bir işlemin iki yarısıdır; bir satıcı yazarlığın sınıflandırmasını, öteki onu değiştirme vaadini satar. Dolayısıyla bir dedektörü kaldırmak ya da eklemek, talebe dokunmadan bu döngüden kimin kâr ettiğini değiştirir. Sizin denetiminizde olan öteki girdidir: öğrencilerin köken hakkında şüpheyle başlamayan bir soru sorma yolu olup olmadığı ve [[ai-literacy]] sayfasının, YZ çıktısını okumayı kapsadığı gibi YZ hakkındaki ticari iddiaları okumayı da kapsayıp kapsamadığı.
 
 **Topyekûn bir yasak kurumu korur.** Aşırı kapsayıcı kurallar bir uyarlamayı ortadan kaldırabilir ve kaçınılmaya çalışılan ayrımcılık savını davet edebilir; çünkü ürettikleri hata eşit dağılmak yerine tanımlanabilir gruplarda yoğunlaşır ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

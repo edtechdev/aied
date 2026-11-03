@@ -1,7 +1,7 @@
 ---
 title: "我们应当使用人工智能检测工具吗？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -155,6 +159,8 @@ ai_assist:
 **一个分数加几个指标就凑成一个案子。** 并不。标准是达到盖然性权衡的证据，而分数加上标记、风格比对、LLM 判断或沉默，仍然不够。有一个值得用的检验：你愿不愿意在听证会上把这套推理大声说出来（[[bassett-ai-detectors-education-2026]]）。
 
 **一份检测许可比重设评价便宜。** 许可是最小的一笔支出，却带来数据保护风险、采购工作，以及一条永不停歇的申诉流，其基础是一件错误按语言背景成模式分布的工具。教师把这种体验称为“有怀疑、无救济”，所以改变结果的那笔预算是核验能力和指导（[[best-response-student-ai-dialog-2026]]）。
+
+**规避市场是检测体制的产物，而非它的对手。** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe 等（2026）]]整理了 55 个 AI 人性化服务网站，并发现他们在 Google 首页所分析的那些网站以附带联盟计划的免费增值层级出售。这些网站并不推销作弊：它们推销的是免于假阳性的保护、文本框下方那些没有解释的大学与企业标识、99.8%-100% 的成功率，以及无法核实的用户数，而没有任何一个网站列出注册营业地址。政策上的后果是，检测与规避是同一笔交易的两半——一家供应商出售对作者身份的归类，另一家出售改变这一归类的承诺——因此移除或增加一个检测器，只改变谁从这个循环中获利，而不触及需求。你能控制的是另一个输入端：学生是否有一条不必从怀疑开始的途径去询问文本来源，以及 [[ai-literacy]] 是否像教人读懂 AI 输出那样，教人读懂关于 AI 的商业主张。
 
 **一刀切禁令保护机构。** 过度覆盖的规则可能砍掉一项便利措施，招来你本想避免的歧视论证，因为它们产生的错误集中在可识别的群体上，而不是均匀分布（[[wright-transcription-not-generation-2026]]，[[hadra-ai-detector-accuracy-efl-2026]]）。
 

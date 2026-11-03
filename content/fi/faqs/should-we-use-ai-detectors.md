@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Opiskelija, joka käyttää litterointia, koska kirjoittaminen on epäluotettava
 **Pistemäärä plus pari indikaattoria muodostaa tapauksen.** Ei muodosta. Standardi on näyttö, joka yltää todennäköisyyspainoon, ja pistemäärät yhdessä markkerien, tyylivertailujen, kielimallien arvioiden tai vaikenemisen kanssa jäävät silti vajaiksi. Yksi kannattava testi on, sanoisitko päättelysi ääneen kuulemisessa ([[bassett-ai-detectors-education-2026]]).
 
 **Ilmaisimen lisenssi maksaa vähemmän kuin arvioinnin uudelleensuunnittelu.** Lisenssi on pienin kuluerä, ja se kantaa tietosuojariskiä, hankintatyötä ja pysyvää valitusten virtaa välineestä, jonka virhe on kuvioitu kielitaustan mukaan. Opettajat kuvaavat kokemusta ”epäilykseksi ilman muutoksenhakukeinoa”, joten lopputuloksia muuttava budjettirivi on verifiointikapasiteetti ja ohjaus ([[best-response-student-ai-dialog-2026]]).
+
+**Pakoilumarkkinat ovat tunnistusjärjestelmän tuote, eivät sen kilpailija.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] luetteloivat 55 tekoälyhumanisointisivustoa ja havaitsivat, että ne, joita he analysoivat, nousivat Googlen ensimmäiselle sivulle ja myytiin freemium-tasoilla ja affiliate-ohjelmilla. Sivustot eivät markkinoi huijaamista: ne markkinoivat suojautumista vääriä positiivisia vastaan, tekstikentän alle sijoitettuja selittämättömiä yliopisto- ja yrityslogoja, 99,8-100 %:n onnistumisasteita ja vahvistamattomia käyttäjämääriä, eikä yksikään sivusto ilmoita rekisteröityä liikeosoitetta. Poliittinen seuraus on, että tunnistaminen ja pakoilu ovat yhden ja saman liiketoimen kaksi puoliskoa: toinen myyjä myy tekijyyden luokittelua, toinen lupaa muuttaa sitä, joten ilmaisimen poistaminen tai lisääminen muuttaa sitä, kuka hyötyy kierrosta, koskematta kysyntään. Se, mitä sinä hallitset, on toinen syöte: onko opiskelijoilla reitti kysyä alkuperästä aloittamatta epäilystä, ja kattaako [[ai-literacy]] tekoälyä koskevien kaupallisten väitteiden lukemisen samalla tavoin kuin se kattaa tekoälytuotoksen lukemisen.
 
 **Yleinen kielto suojaa oppilaitosta.** Liian kattavat säännöt voivat riistää mukautuksen ja kutsua sen syrjintäargumentin, jota yritit välttää, koska niiden tuottama virhe keskittyy tunnistettaviin ryhmiin eikä jakaudu tasaisesti ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

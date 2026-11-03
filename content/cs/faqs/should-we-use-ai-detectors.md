@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -148,6 +152,8 @@ Student, který používá přepis, protože psaní na klávesnici je nespolehli
 **Skóre plus pár indikátorů dá dohromady případ.** Nedá. Standardem jsou důkazy splňující míru pravděpodobnosti a skóre zkombinované s markery, srovnáním stylu, úsudky LLM nebo mlčením na to stále nestačí. Jeden test, který stojí za to použít, je, zda byste to uvažování řekli nahlas u slyšení ([[bassett-ai-detectors-education-2026]]).
 
 **Licence detektoru stojí méně než přepracování hodnocení.** Licence je nejmenší položka a nese s sebou riziko ochrany dat, práci s nákupem a trvalý proud odvolání postavených na nástroji, jehož chyba je vzorcovaná podle jazykového zázemí. Vyučující tu zkušenost popisují jako „podezření bez možnosti obrany", takže rozpočtová položka, která mění výsledky, je kapacita pro ověřování a metodická podpora ([[best-response-student-ai-dialog-2026]]).
+
+**Trh s obcházením detekce je produktem detekčního režimu, ne jeho rivalem.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] zmapovali 55 webů zaměřených na humanizaci AI a zjistili, že ty, které analyzovali, byly na první stránce Googlu a prodávaly se v tarifech freemium s affiliate programy. Weby neprodávají podvádění: prodávají ochranu před falešně pozitivními výsledky, nevysvětlené univerzitní a firemní logotypy umístěné pod textovým polem, úspěšnost 99,8-100 % a neověřitelné počty uživatelů, přičemž žádný web neuvádí registrovanou obchodní adresu. Politickým důsledkem je, že detekce a obcházení jsou dvě poloviny jedné transakce: jeden dodavatel prodává klasifikaci autorství, druhý prodává slib, že ji změní, takže odstranění nebo přidání detektoru mění, kdo na této smyčce vydělává, aniž by se dotklo poptávky. Co můžete řídit, je druhý vstup: zda studenti mají cestu, jak se ptát na původ práce, která nezačíná podezřením, a zda [[ai-literacy]] pokrývá čtení komerčních tvrzení o AI stejně, jako pokrývá čtení výstupů AI.
 
 **Plošný zákaz chrání instituci.** Příliš široká pravidla mohou připravit o úpravu podmínek a pozvat argument diskriminace, kterému jste se chtěli vyhnout, protože chyba, kterou produkují, je soustředěná na identifikovatelné skupiny, místo aby byla rozložena rovnoměrně ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

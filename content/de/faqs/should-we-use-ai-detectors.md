@@ -1,7 +1,7 @@
 ---
 title: "Sollten wir KI-Detektoren nutzen?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-11-01T11:36:02-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "Automatische Übersetzung der englischen Seite; noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -152,6 +156,8 @@ Eine studierende Person, die Transkription nutzt, weil Tippen unzuverlässig ist
 **Ein Wert plus ein paar Indikatoren ergibt einen Fall.** Das tut es nicht. Der Standard sind Belege, die den Wahrscheinlichkeitsstandard erfüllen, und Werte, kombiniert mit Markern, Stilvergleichen, LLM-Urteilen oder Schweigen, bleiben darunter. Ein Test, den es sich zu stellen lohnt: Würden Sie die Begründung in einer Anhörung laut vortragen ([[bassett-ai-detectors-education-2026]]).
 
 **Eine Detektorlizenz kostet weniger als das Assessment umzudesignen.** Die Lizenz ist die kleinste Position, und sie bringt Datenschutzexposition, Beschaffungsarbeit und einen dauerhaften Strom von Widersprüchen mit sich, die auf einem Instrument beruhen, dessen Fehler nach Sprachhintergrund gemustert ist. Lehrende beschreiben die Erfahrung als „Verdacht ohne Rechtsmittel“, die Budgetzeile, die Ergebnisse ändert, ist also Prüfkapazität und Beratung ([[best-response-student-ai-dialog-2026]]).
+
+**Der Markt für Umgehung ist ein Produkt des Detektionsregimes, nicht sein Rivale.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] katalogisierten 55 Websites für KI-Humanisierung und fanden, dass die von ihnen analysierten, die auf der ersten Google-Seite standen, über Freemium-Stufen mit Affiliate-Programmen verkauft wurden. Die Websites vermarkten nicht Betrug: Sie vermarkten Schutz vor falsch positiven Ergebnissen, unerklärte Universitäts- und Unternehmenslogos unter dem Textfeld, Erfolgsquoten von 99.8%–100% und nicht überprüfbare Nutzerzahlen, wobei keine Website eine eingetragene Geschäftsadresse angibt. Die politische Konsequenz ist, dass Detektion und Umgehung zwei Hälften einer Transaktion sind – ein Anbieter verkauft eine Klassifikation von Urheberschaft, der andere das Versprechen, sie zu verändern –, sodass das Entfernen oder Hinzufügen eines Detektors ändert, wer vom Kreislauf profitiert, ohne die Nachfrage zu berühren. Was Sie kontrollieren, ist der andere Input: ob Studierende einen Weg haben, nach der Herkunft zu fragen, der nicht mit Verdacht beginnt, und ob [[ai-literacy]] das Lesen kommerzieller Behauptungen über KI so abdeckt, wie es das Lesen von KI-Ausgabe abdeckt.
 
 **Ein pauschales Verbot schützt die Institution.** Zu breite Regeln können eine Anpassung entfernen und das Diskriminierungsargument einladen, das Sie vermeiden wollten, weil der Fehler, den sie erzeugen, sich auf identifizierbare Gruppen konzentriert statt sich gleichmäßig zu verteilen ([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 

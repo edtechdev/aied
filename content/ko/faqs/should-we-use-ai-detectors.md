@@ -1,7 +1,7 @@
 ---
 title: "AI 탐지기를 사용해야 할까요?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-11-01T11:35:47-05:00"
+updated: "2026-11-03T12:15:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-10-31T10:05:00-04:00"
+source_updated: "2026-11-02T02:47:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -151,6 +155,8 @@ AI로 개요를 잡고 모든 문단을 직접 쓴 학생. AI가 그 작업에 �
 **점수에 지표 몇 개를 더하면 사안이 완성됩니다.** 그렇지 않습니다. 기준은 개연성 우위를 충족하는 증거이며, 점수에 표지, 문체 비교, LLM 판단, 침묵을 더해도 여전히 미달입니다. 적용해 볼 만한 시험은 그 추론을 청문회에서 소리 내어 말할 수 있겠는가입니다([[bassett-ai-detectors-education-2026]]).
 
 **탐지기 라이선스가 평가를 재설계하는 것보다 저렴합니다.** 라이선스는 가장 작은 항목이며, 데이터 보호 위험, 조달 업무, 그리고 오류가 언어 배경에 따라 패턴화되는 도구에 기반한 끊임없는 이의신청을 함께 안고 옵니다. 교수진은 그 경험을 "대책 없는 의심"이라고 표현하므로, 결과를 바꾸는 예산 항목은 검증 역량과 안내입니다([[best-response-student-ai-dialog-2026]]).
+
+**회피 시장은 탐지 체제가 만들어낸 산물이며, 그에 맞서는 경쟁자가 아닙니다.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe 외(2026)]]는 AI 휴머나이저 사이트 55곳을 목록화했고, 구글 첫 페이지에서 분석한 사이트들이 제휴 프로그램을 갖춘 프리미엄 요금제로 판매되고 있음을 발견했습니다. 이 사이트들은 부정행위를 마케팅하지 않습니다. 마케팅하는 것은 위양성으로부터의 보호, 텍스트 상자 아래에 놓인 설명 없는 대학·기업 로고, 99.8%-100%의 성공률, 검증할 수 없는 사용자 수이며, 등록된 사업장 주소를 밝힌 사이트는 하나도 없었습니다. 정책적 결과는 이렇습니다. 탐지와 회피는 하나의 거래를 이루는 두 개의 반쪽이고, 한 공급업체는 저자성에 대한 분류를 팔며 다른 공급업체는 그것을 바꾸겠다는 약속을 팝니다. 따라서 탐지기를 없애거나 더하는 일은 수요에는 손대지 않은 채 이 고리에서 누가 이익을 얻는지만 바꿉니다. 여러분이 통제할 수 있는 것은 다른 쪽 입력입니다. 학생에게 의심에서 시작하지 않는 출처 확인 경로가 있는지, 그리고 [[ai-literacy]]가 AI 산출물을 읽는 일을 다루듯 AI에 관한 상업적 주장을 읽는 일을 다루고 있는지입니다.
 
 **일괄 금지가 기관을 보호합니다.** 지나치게 포괄적인 규칙은 편의 제공을 박탈하고 여러분이 피하려 했던 차별 논쟁을 불러들일 수 있습니다. 그 규칙이 만들어내는 오류는 고르게 퍼지지 않고 식별 가능한 집단에 집중되기 때문입니다([[wright-transcription-not-generation-2026]], [[hadra-ai-detector-accuracy-efl-2026]]).
 
