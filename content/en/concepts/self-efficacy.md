@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-02T09:55:00-05:00"
+updated: "2026-11-03T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -63,6 +63,8 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 **Confidence does not protect a learner from trusting a tool too much.** Among 300 university students, [[kim-overtrust-ai-literacy-2026|Kim, Kim and Zhang (2026)]] found academic self-efficacy associated with AI overtrust (r = 0.230) and predicting it at B = 0.3901 (95% CI [0.2190, 0.5612]) in a serial mediation model, reversing the authors' hypothesis. The productive version of confidence is confidence about one's own judgment, which is what a high overtrust score says is missing.
 
+- **Confidence reaches adoption partly through literacy.** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] tested a sequence on 622 undergraduates in Türkiye. AI self-efficacy predicted AI acceptance (B = 0.43, R² = 0.29), and [[ai-literacy|AI literacy]] carried part of that link (indirect B = 0.15, 95% CI [0.12, 0.19]) without absorbing it all. Confidence also has to be accounted for as a predictor of uptake, not only of capability. The design is cross-sectional with no demographic controls, so direction and mediated share are associations rather than effects.
+
 - **Behavioral traces can carry the signal, but the labels set the ceiling.** A two-university pipeline detected low self-efficacy from interaction traces; survey-occasion labels beat a mid-term split, and the MSLQ subscale alone labeled as well as the full instrument ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 
 ## Common Misconceptions
@@ -113,4 +115,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[jelson-students-chatgpt-essay-writing-2026]] — The Self-Efficacy for Writing Scale predicted more Translating and Reviewing queries, and no more Planning or whole-essay delegation (Jelson et al. 2026)
 - [[kim-overtrust-ai-literacy-2026]] - academic self-efficacy predicted higher AI overtrust rather than lower
 - [[somny-ml-self-efficacy-interaction-traces-2026]] — Using Machine Learning to Measure Self-Efficacy Belief Through Learners' Interaction Traces in Technology-Enhanced Learning
-
+- [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] — AI self-efficacy -> AI literacy -> AI acceptance, with the knowledge-mediated share measured (İşbulan et al. 2026)
