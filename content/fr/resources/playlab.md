@@ -1,9 +1,9 @@
 ---
 title: "Playlab"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-10-24T08:38:48-04:00"
+updated: "2026-11-03T13:20:00-05:00"
 type: resource
-summary: "A nonprofit creator platform where educators build, share and evaluate their own AI apps — grounded in their curriculum, run on the model of their choice, with teacher visibility built in."
+summary: "Plateforme de création à but non lucratif où les enseignants construisent, partagent et évaluent leurs propres applications d'IA, ancrées dans leur programme, exécutées sur le modèle de leur choix, avec une visibilité intégrée pour l'enseignant."
 url: https://www.playlab.ai/
 author: "Playlab (501(c)(3) nonprofit)"
 author_url: https://www.playlab.ai/about
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-22"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 

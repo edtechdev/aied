@@ -2,7 +2,7 @@
 title: "FPDS Apps and Resources"
 created: "2026-10-12T20:20:00-04:00"
 type: resource
-summary: "The public resource page of Faculty Professional Development Services at Hillsborough College, collecting its AI, teaching and accessibility resources in one place."
+summary: "الصفحة العامة لخدمات التطوير المهني لأعضاء هيئة التدريس في كلية هيلزبورو، تجمع مدرّبي التصميم بالذكاء الاصطناعي ودورات Canvas وأدلة الوصول الشامل في مكان واحد."
 url: https://fpdshc.github.io/apps/
 source_code: https://github.com/fpdshc/apps
 author: "Faculty Professional Development Services at Hillsborough College"
@@ -32,9 +32,13 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
+    agent: hermes-agent
 translation_of: resources/fpds-apps-and-resources
 source_updated: "2026-10-24T11:51:12-04:00"
-updated: "2026-10-30T17:00:00-04:00"
+updated: "2026-11-03T13:20:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ---
 

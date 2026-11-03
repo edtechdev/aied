@@ -2,7 +2,7 @@
 title: "EduGems"
 created: "2026-10-13T05:30:00-04:00"
 type: resource
-summary: "'A growing library of pre-made Google Gemini 'Gems' — shareable, pre-written prompts for planning, feedback, forms, images and AI-use reflection."
+summary: "Maktaba inayokua ya 'Gems' zilizotengenezwa tayari katika Google Gemini: maagizo yaliyoandikwa tayari na yanayoweza kushirikiwa kwa upangaji, maoni, fomu, picha na tafakari ya matumizi ya akili bandia."
 url: https://www.edugems.ai/
 author: "Eric Curts"
 author_url: https://www.controlaltachieve.com/
@@ -16,6 +16,7 @@ level: [k 12]
 audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
+updated: "2026-11-03T13:20:00-05:00"
 translation_of: resources/edugems
 source_updated: "2026-10-24T08:37:08-04:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
@@ -24,6 +25,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
