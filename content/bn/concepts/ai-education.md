@@ -1,7 +1,7 @@
 ---
 title: "শিক্ষায় কৃত্রিম বুদ্ধিমত্তা"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-10-27T04:14:20-04:00"
+updated: "2026-11-03T18:30:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-03"
     agent: hermes-agent
 ---
 
@@ -93,11 +97,13 @@ AI কীভাবে শিক্ষাদান ও শিখনকে সম�
 - **মডেল ও কৌশল:** [[generative-ai|জেনারেটিভ AI]], [[llm|বড় ভাষা মডেল]], [[rag|রিট্রিভাল-অগমেন্টেড জেনারেশন]], [[multimodal|মাল্টিমোডাল মডেল]], [[educational-nlp|শিক্ষামূলক NLP]], [[reinforcement-learning|রিইনফোর্সমেন্ট লার্নিং]], [[knowledge-graph|নলেজ গ্রাফ]], [[educational-robotics|শিক্ষায় রোবট]], [[conversational-ai|কথোপকথনমূলক AI]], [[simulation|সিমুলেশন]], এবং [[llm-training-and-fine-tuning|LLM প্রশিক্ষণ ও ফাইন-টিউনিং]]। অন্তর্নিহিত পদ্ধতিগুলোও গুরুত্বপূর্ণ: [[machine-learning|মেশিন লার্নিং]] হলো যেখানে এই সিস্টেমগুলো তৈরি হয়, [[speech-and-voice-technologies|বাক্ ও ভয়েস প্রযুক্তি]] কথ্য টিউটরিং ও ভাষা অভ্যাস বহন করে, [[visualization|ভিজ্যুয়ালাইজেশন]] শিক্ষার্থী ও শিক্ষকদের জন্য ড্যাশবোর্ড ও ভিজ্যুয়াল অ্যানালিটিক্স অন্তর্ভুক্ত করে, এবং [[virtual-and-augmented-reality|ভার্চুয়াল ও অগমেন্টেড রিয়্যালিটি]] নিমজ্জনশীল অভ্যাসের আয়োজন করে যার ভিজ্যুয়াল স্তর এখন মডেল তৈরি করতে পারে। নতুন মিথস্ক্রিয়া ধরনও এখানেই — সবচেয়ে প্রমুখভাবে [[vibe-coding|ভাইব কোডিং]], প্রাকৃতিক-ভাষা-চালিত ওয়ার্কফ্লো যেখানে ব্যবহারকারী একটি LLM-কে প্রম্পট করে প্রোগ্রাম নির্দিষ্ট করে এবং ফলস্বরূপ আচরণ বিচার করে সোর্স পড়া বা সম্পাদনা করার বদলে। এটি [[cs-education|প্রোগ্রামিং]]কেই অভিব্যক্তি ও যাচাইয়ের একটি কাজ হিসেবে পুনর্ব্যাখ্যা করে এবং [[teacher-role|শেষ ব্যবহারকারী]]দের নিজস্ব সরঞ্জাম তৈরির বাধা কমায়। [[samr-model|SAMR]]-এর মতো ইন্টিগ্রেশন-গভীরতার কাঠামো এবং [[technology-acceptance-model|TAM]]-এর মতো গ্রহণ তত্ত্ব শ্রেণিবদ্ধ করে AI কত গভীরভাবে গ্রহণ করা হয় এবং কাজটিকে কতটা রূপান্তরিত করে।
 - **শিক্ষার্থী মডেলিং ও অ্যাডাপটিভ সিস্টেম:** যে প্রযুক্তিগত সিস্টেমগুলো শিক্ষার্থীকে উপস্থাপন করে এবং তার সাথে খাপ খোয়ায় সেগুলো [[student-modeling|লার্নার মডেলিং ও অ্যাডাপটিভ ইনস্ট্রাকশন]] ছাতার অধীনে গোষ্ঠীভুক্ত — [[knowledge-tracing|নলেজ ট্রেসিং]], [[cognitive-diagnosis|সংজ্ঞানাত্মক নির্ণয়]], [[simulating-students|শিক্ষার্থী সিমুলেশন]], [[intelligent-tutoring|ইন্টেলিজেন্ট টিউটরিং]], [[adaptive-learning|অ্যাডাপটিভ লার্নিং]], [[personalized-learning|পার্সোনালাইজড লার্নিং]], [[recommender-systems-and-learning-paths|রিকমেন্ডার সিস্টেম ও শিখনের পথ]], [[pedagogical-agent|পেডাগজিক্যাল এজেন্ট]], [[affective-tutoring|আবেগীয় টিউটরিং]], [[affective-computing|আবেগীয় গণনা]], [[human-in-the-loop-ai|হিউম্যান-ইন-দ্য-লুপ AI]], এবং [[learning-analytics|লার্নিং অ্যানালিটিক্স]]। এগুলো প্রযুক্তিগত স্তরে অবস্থিত কারণ এগুলো নিজেগুলো AI সিস্টেম, তাদের দ্বারা বাস্তবায়িত পেডাগজি থেকে স্বতন্ত্র।
 
+- **প্ল্যাটফর্ম, উন্মুক্ততা ও গ্রহণ:** মডেলের চারপাশের স্তর, যেখানে শিক্ষাসংস্থান নির্মাণ না করে লাইসেন্স, হোস্টিং ও অর্থায়নের মাধ্যমে সরবরাহ করা হয়। [[open-education|উন্মুক্ত শিক্ষা]] উন্মুক্ত-লাইসেন্সকৃত বিষয়বস্তু দিয়ে শিক্ষাদান এবং শিক্ষার্থীদের তার নির্মাতা হিসেবে গণ্য করার পেডাগজি বোঝায়, আর জেনারেটেড উপাদান এখন যে লাইসেন্স ও অভিযোজন প্রশ্ন তোলে তা ঠিক সেখানেই বিতর্কিত হয়। এটি সফটওয়্যার-অর্থে উন্মুক্ততার পাশে বসে, [[edtech-platform|এডটেক প্ল্যাটফর্ম]]-এ প্ল্যাটফর্ম-স্তরের বিশ্লেষণ এবং [[technology-acceptance-model|TAM]]-বাহিত গ্রহণ-গবেষণার সঙ্গে।
+
 ## বিষয়বস্তুতে AI
 
 AI বিষয়বস্তু ও শিক্ষার স্তর জুড়ে প্রয়োগ হয়। জ্ঞানভিত্তির [[discipline-specific-aied|বিষয়ভিত্তিক AIEd-এর সংক্ষিপ্ত বিবরণ]] বিষয়-ক্ষেত্রের ব্যাপ্তি ম্যাপ করে — [[learning-sciences|শিক্ষা বিজ্ঞান]]সহ, যা একটি শিক্ষণীয় বিষয় নয় বরং সেই আড়ালপর্বের গবেষণার ক্ষেত্র যা শিখন নিজেই অধ্যয়ন করে এবং বিষয়বস্তুকে অন্য ভেরিয়েবলগুলোর মধ্যে একটি ভেরিয়েবল হিসেবে গ্রহণ করে:
 
-- **বিষয়ের ক্ষেত্র:** [[math-education|গণিত]], [[physics-education|পদার্থবিদ্যা]], [[chemistry-education|রসায়ন]], [[biology-education|জীববিদ্যা]], [[cs-education|কম্পিউটার বিজ্ঞান]], [[engineering-education|প্রকৌশল]], [[stem-education|STEM]], [[writing-education|লেখন]], [[language-learning|ভাষা শিখন]], [[english-education|ইংরেজি শিক্ষা (EAP/EFL/ESL)]], [[science-education|বিজ্ঞান শিক্ষা]], [[business-education|ব্যবসা, অর্থনীতি এবং ব্যবস্থাপনা]], [[humanities-education|মানবিক ও সামাজিক বিজ্ঞান]], [[arts-design-and-media-education|শিল্প, নকশা ও মিডিয়া শিক্ষা]], [[medical-education|চিকিৎসা ও স্বাস্থ্য পেশা]], [[legal-education|আইন শিক্ষা]], এবং পেশাদার ও প্রয়োগমূলক ধারাগুলো — [[nursing-education|নার্সিং]], [[information-technology|তথ্য প্রযুক্তি]], [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]], এবং [[design-education|নকশা শিক্ষা]]।
+- **বিষয়ের ক্ষেত্র:** [[math-education|গণিত]], [[statistics-and-data-science-education|পরিসংখ্যান ও তথ্য বিজ্ঞান]], [[physics-education|পদার্থবিদ্যা]], [[chemistry-education|রসায়ন]], [[biology-education|জীববিদ্যা]], [[cs-education|কম্পিউটার বিজ্ঞান]], [[engineering-education|প্রকৌশল]], [[stem-education|STEM]], [[writing-education|লেখন]], [[language-learning|ভাষা শিখন]], [[english-education|ইংরেজি শিক্ষা (EAP/EFL/ESL)]], [[science-education|বিজ্ঞান শিক্ষা]], [[environmental-education|পরিবেশ শিক্ষা]], [[business-education|ব্যবসা, অর্থনীতি এবং ব্যবস্থাপনা]], [[humanities-education|মানবিক ও সামাজিক বিজ্ঞান]], [[arts-design-and-media-education|শিল্প, নকশা ও মিডিয়া শিক্ষা]], [[medical-education|চিকিৎসা ও স্বাস্থ্য পেশা]], [[legal-education|আইন শিক্ষা]], এবং পেশাদার ও প্রয়োগমূলক ধারাগুলো — [[nursing-education|নার্সিং]], [[information-technology|তথ্য প্রযুক্তি]], [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]], এবং [[design-education|নকশা শিক্ষা]]।
 
 ## স্তর ও প্রসঙ্গ
 
