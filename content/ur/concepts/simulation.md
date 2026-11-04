@@ -6,7 +6,7 @@ type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/simulation"
 source_updated: "2026-10-31T14:04:31-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

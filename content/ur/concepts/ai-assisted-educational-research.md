@@ -13,7 +13,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 connected_resources: [learning-design-wiki]
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/ai-assisted-educational-research"
 source_updated: "2026-10-26T11:15:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

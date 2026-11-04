@@ -11,7 +11,7 @@ audience: [instructors, instructional designers, administrators, researchers, le
 page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/differential-effects-across-learner-groups"
 source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

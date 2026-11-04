@@ -11,7 +11,7 @@ ethics: [ai-use-disclosure, trust, equity-in-ai-education, privacy, ai-misuse-le
 audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/social-norms-ai-use"
 source_updated: "2026-11-01T09:12:42-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

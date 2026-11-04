@@ -1,7 +1,7 @@
 ---
 title: "تعلیم میں مصنوعی ذہانت"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-10-27T04:13:56-04:00"
+updated: "2026-11-04T01:21:11-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-10-26T02:30:00-04:00"
+source_updated: "2026-10-28T18:53:23-04:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-04"
     agent: hermes-agent
 
 ---
@@ -94,11 +98,13 @@ AI تدریس اور سیکھنے کی حمایت کیسے کرتا ہے، یہ 
 - **ماڈلز اور تکنیکیں:** [[generative-ai|جنریٹو AI]]، [[llm|بڑے زبان کے ماڈلز]]، [[rag|ریٹریول اوگمینٹڈ جنریشن]]، [[multimodal|ملٹی موڈل ماڈلز]]، [[educational-nlp|تعلیمی NLP]]، [[reinforcement-learning|ریئنفورسمنٹ لرننگ]]، [[knowledge-graph|نالج گرافز]]، [[educational-robotics|تعلیم میں روبوٹ]]، [[conversational-ai|conversational AI]]، [[simulation|سمولیشن]]، اور [[llm-training-and-fine-tuning|LLM ٹریننگ اور فائن ٹیوننگ]]۔ بنیادی طریقے بھی اہم ہیں: [[machine-learning|مشین لرننگ]] وہ جگہ ہے جہاں یہ نظام بنتے ہیں، [[speech-and-voice-technologies|تقریر اور آواز کی ٹیکنالوجیز]] زبانی ٹیوٹرنگ اور زبان کی مشق کو اٹھاتی ہیں، [[visualization]] سیکھنے والوں اور اساتذہ کے لیے ڈیش بورڈز اور بصری تجزیات کو احاطہ کرتا ہے، اور [[virtual-and-augmented-reality|ورچوئل اور آگمنٹڈ ریئلٹی]] ایسی ایموسیو مشق کی میزبانی کرتا ہے جس کی بصری پرت کو اب ماڈل بنا سکتا ہے۔ نئے تعامل کے انداز بھی یہاں آتے ہیں — سب سے نمایاں طور پر [[vibe-coding|وائب کوڈنگ]]، وہ قدرتی زبان سے چلنے والا workflow جس میں صارف LLM کو پرامپٹ دے کر پروگرام متعین کرتا ہے اور نتیجے کے رویے کا فیصلہ کرتا ہے، نہ کہ سورس کو پڑھتا یا ترمیم کرتا ہے۔ یہ [[cs-education|پروگرامنگ]] کو اظہار اور تصدیق کے عمل کے طور پر دوبارہ فریم کرتا ہے اور [[teacher-role|آخری صارفین]] کے اپنے ٹول بنانے کا دروازہ کھولتا ہے۔ انضمام کی گہرائی کے فریم ورک جیسے [[samr-model|SAMR]] اور اپنانے کے نظریات جیسے [[technology-acceptance-model|TAM]] درجہ بندی کرتے ہیں کہ AI کتنی گہرائی سے اپنایا جاتا ہے اور کام کو کتنا بدلتا ہے۔
 - **سیکھنے والے کی نمائندگی اور موافق نظام:** وہ تکنیکی نظام جو سیکھنے والے کی نمائندگی کرتے اور اس کے مطابق ڈھلتے ہیں، وہ [[student-modeling|سیکھنے والے کی نمائندگی اور موافق تدریس]] چھتری کے تحت گروپ ہیں — [[knowledge-tracing|نالج ٹریسنگ]]، [[cognitive-diagnosis|علمی تشخیص]]، [[simulating-students|طلبہ کی نقالی]]، [[intelligent-tutoring|انٹیلی جینٹ ٹیوٹرنگ]]، [[adaptive-learning|اڈاپٹیو لرننگ]]، [[personalized-learning|ذاتی نوعیت کا سیکھنا]]، [[recommender-systems-and-learning-paths|ریکمنڈر نظام اور سیکھنے کے راستے]]، [[pedagogical-agent|پيدگوجیکل ایجنٹس]]، [[affective-tutoring|جذباتی ٹیوٹرنگ]]، [[affective-computing|جذباتی کمپیوٹنگ]]، [[human-in-the-loop-ai|لوپ میں انسان والی AI]]، اور [[learning-analytics|سیکھنے کے تجزیات]]۔ یہ تکنیکی پرت پر بیٹھے ہیں کیونکہ یہ خود AI نظام ہیں، جو ان پيدگوجیز سے الگ ہیں جو یہ لاگو کرتے ہیں۔
 
+- **پلیٹ فارمز، کھلا پن اور اپنانا:** ماڈل کے گرد کی پرت، جہاں تدریسی وسیلہ تعمیر کرنے کے بجائے لائسنس، میزبانی اور ادائیگی کے ذریعے حاصل کیا جاتا ہے۔ [[open-education|کھلی تعلیم]] کھلے لائسنس والے مواد کے ساتھ تدریس اور اس پيدگوجی کو احاطہ کرتی ہے جو طلبہ کو اس مواد کے پیدا کرنے والے سمجھتی ہے، اور یہیں وہ لائسنس اور موافقت کے سوالات زیرِ بحث آتے ہیں جو جنریٹ شدہ مواد اب اٹھاتا ہے۔ یہ سافٹ ویئر کے معنوں میں کھلے پن کے ساتھ، [[edtech-platform|ایڈ ٹیک پلیٹ فارمز]] میں پلیٹ فارم کی سطح کے تجزیے، اور [[technology-acceptance-model|TAM]] کے اٹھائے ہوئے اپنانے کی تحقیق کے ساتھ بیٹھتی ہے۔
+
 ## مضامین میں AI
 
 AI مختلف مضامین اور تعلیمی درجات میں لاگو ہوتا ہے۔ علم بنیاد کا [[discipline-specific-aied|مضامین میں AIEd کا جائزہ]] موضوعی احاطے کا نقشہ بناتا ہے — اس کے ساتھ [[learning-sciences|سیکھنے کی سائنسز]]، جو سکھایا جانے والا مضامین نہیں بلکہ وہ سراسری تحقیقی میدان ہے جو خود سیکھنے کا مطالعہ کرتا ہے اور مضامین کو دوسرے متغیرات میں سے ایک کے طور پر لیتا ہے:
 
-- **مضامین:** [[math-education|ریاضی]]، [[physics-education|فزکس]]، [[chemistry-education|کیمیا]]، [[biology-education|حیاتیات]]، [[cs-education|کمپیوٹر سائنس]]، [[engineering-education|انجینئرنگ]]، [[stem-education|STEM]]، [[writing-education|لکھنے کی تعلیم]]، [[language-learning|زبان سیکھنا]]، [[english-education|انگریزی تعلیم (EAP/EFL/ESL)]]، [[science-education|سائنس تعلیم]]، [[business-education|بزنس، معاشیات، اور انتظام]]، [[humanities-education|انسانیات اور سماجی سائنسز]]، [[arts-design-and-media-education|فنون، ڈیزائن اور میڈیا تعلیم]]، [[medical-education|طبی اور صحت کی پیشہ ورانہ تعلیم]]، [[legal-education|قانونی تعلیم]]، اور پیشہ ورانہ اور عملی سلسلے — [[nursing-education|نرسنگ]]، [[information-technology|انفارمیشن ٹکنالوجی]]، [[vocational-education|ووکیشنل تعلیم اور تربیت]]، اور [[design-education|ڈیزائن تعلیم]]۔
+- **مضامین:** [[math-education|ریاضی]]، [[statistics-and-data-science-education|شماریات اور ڈیٹا سائنس]]، [[physics-education|فزکس]]، [[chemistry-education|کیمیا]]، [[biology-education|حیاتیات]]، [[cs-education|کمپیوٹر سائنس]]، [[engineering-education|انجینئرنگ]]، [[stem-education|STEM]]، [[writing-education|لکھنے کی تعلیم]]، [[language-learning|زبان سیکھنا]]، [[english-education|انگریزی تعلیم (EAP/EFL/ESL)]]، [[science-education|سائنس تعلیم]]، [[environmental-education|ماحولیاتی تعلیم]]، [[business-education|بزنس، معاشیات، اور انتظام]]، [[humanities-education|انسانیات اور سماجی سائنسز]]، [[arts-design-and-media-education|فنون، ڈیزائن اور میڈیا تعلیم]]، [[medical-education|طبی اور صحت کی پیشہ ورانہ تعلیم]]، [[legal-education|قانونی تعلیم]]، اور پیشہ ورانہ اور عملی سلسلے — [[nursing-education|نرسنگ]]، [[information-technology|انفارمیشن ٹکنالوجی]]، [[vocational-education|ووکیشنل تعلیم اور تربیت]]، اور [[design-education|ڈیزائن تعلیم]]۔
 
 ## درجات اور سیاق
 

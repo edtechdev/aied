@@ -8,7 +8,7 @@ assessment: [assessment, automated-assessment]
 discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/automated-essay-scoring"
 source_updated: "2026-11-02T13:50:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

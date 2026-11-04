@@ -9,7 +9,7 @@ assessment: [assessment, assessment-validity, automated-assessment, automated-es
 ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/automated-assessment"
 source_updated: "2026-11-01T11:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

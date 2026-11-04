@@ -7,7 +7,7 @@ foundations: [ai-education, learning-design]
 pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/pedagogy"
 source_updated: "2026-10-26T09:35:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

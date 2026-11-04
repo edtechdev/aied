@@ -12,7 +12,7 @@ level: [higher ed]
 audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/legal-issues-and-risks"
 source_updated: "2026-10-28T18:24:42-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"

@@ -12,7 +12,7 @@ institutions: [educational-policy-ai, governance]
 ethics: [differential-effects-across-learner-groups, equity-in-ai-education, privacy, pedagogical-safety]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
-updated: "2026-11-04T01:13:23-05:00"
+updated: "2026-11-04T01:21:13-05:00"
 translation_of: "concepts/education-levels"
 source_updated: "2026-10-25T20:50:00-04:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
